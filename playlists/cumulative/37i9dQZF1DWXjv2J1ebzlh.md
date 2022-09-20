@@ -4,7 +4,7 @@
 
 > The magical world map! Play it in shuffle ☀️
 
-1,585 songs - 4 day 10 hr 30 min - [published](https://open.spotify.com/playlist/0iDVwvtzO5q5icbp8vjmdq)
+1,586 songs - 4 day 10 hr 34 min - [published](https://open.spotify.com/playlist/0iDVwvtzO5q5icbp8vjmdq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -786,8 +786,9 @@
 | [Khauleza](https://open.spotify.com/track/2glk00N7myGnTjXQ8CQdxp) | [Dorothy Masuka](https://open.spotify.com/artist/0NDTJJ0OGbMO8cGYqkbwa8) | [London Is The Place For Me 4](https://open.spotify.com/album/1kDIONAmU948iiyLMcsSdy) | 2:25 | 2022-06-09 | 2022-07-29 |
 | [Khobs](https://open.spotify.com/track/2U1gVuG77frUaLcSRj7HLP) | [Issam Hajali](https://open.spotify.com/artist/1Bt7Z61Wj1ixbeJEBKwod6) | [Mouasalat Ila Jacad El Ard \(Habibi Funk 010\)](https://open.spotify.com/album/0XHu0qs3IztGqkDl4jOUpM) | 3:31 | 2022-07-12 |  |
 | [Khomo Tsaka Deile Kae?](https://open.spotify.com/track/54rBmS4U8tSTYNCncS748p) | [Marumo](https://open.spotify.com/artist/10KHZjjoB1dLqa8a15OMar) | [Modiehi](https://open.spotify.com/album/1F4mDQtW5qMyQ2CjowCA1M) | 3:39 | 2022-07-12 |  |
+| [Khomo Tsaka Deile Kae?](https://open.spotify.com/track/2Dls8E4dloSP9UEqXbj6f3) | [Marumo](https://open.spotify.com/artist/2eiDGf7qY4H5BA40ytg63x) | [Afrobeat Experience, Vol.1](https://open.spotify.com/album/4wlCSu49JOHgOT4xAPlLto) | 3:41 | 2022-09-15 |  |
 | [Khomo Tsaka Deile Kae?](https://open.spotify.com/track/14ojTNSqmbaBn5nCKRrYFe) | [Marumo](https://open.spotify.com/artist/10KHZjjoB1dLqa8a15OMar) | [Next Stop Soweto 4: Zulu Rock, Afro\-Disco & Mbaqanga 1975\-1985](https://open.spotify.com/album/5khc9IMDttTmkq3DVHJ9U7) | 3:44 | 2022-06-09 | 2022-07-29 |
-| [Khomo Tsaka Deile Kae?](https://open.spotify.com/track/1McHU7TbeVZsSMQb4UCG0B) | [Marumo](https://open.spotify.com/artist/10KHZjjoB1dLqa8a15OMar) | [Next Stop Soweto 4: Zulu Rock, Afro\-Disco & Mbaqanga 1975\-1985](https://open.spotify.com/album/6mthYemYv5h7k6XwIo9R8F) | 3:44 | 2022-07-27 |  |
+| [Khomo Tsaka Deile Kae?](https://open.spotify.com/track/1McHU7TbeVZsSMQb4UCG0B) | [Marumo](https://open.spotify.com/artist/10KHZjjoB1dLqa8a15OMar) | [Next Stop Soweto 4: Zulu Rock, Afro\-Disco & Mbaqanga 1975\-1985](https://open.spotify.com/album/6mthYemYv5h7k6XwIo9R8F) | 3:44 | 2022-07-27 | 2022-09-20 |
 | [Kijis Konar](https://open.spotify.com/track/6mBQn4jOuxnP9CTeyEdDz6) | [Lito Barrientos y su Orquesta](https://open.spotify.com/artist/05iql7fgeGRNLLDjU66wN6) | [Very, Very, Well](https://open.spotify.com/album/5Qk3wsVkRcwoUB1hfy4bll) | 2:28 | 2022-06-09 |  |
 | [Kiko Medina](https://open.spotify.com/track/2gI4WYm6sKxcukZPlSb4jo) | [Le Tropical Jazz](https://open.spotify.com/artist/42WEar0g2JiYuF0mZ0YoFo) | [Senegal 70: Sonic Gems & Previously Unreleased Recordings from the 70s](https://open.spotify.com/album/1lDDPcUi2XMsSADmzTzsOE) | 4:42 | 2022-07-27 |  |
 | [Kiko Medina](https://open.spotify.com/track/5JTjKf5H9WuCN1f1Z5SAd2) | [Le Tropical Jazz](https://open.spotify.com/artist/42WEar0g2JiYuF0mZ0YoFo) | [Senegal 70 \(Analog Africa No\. 19\)](https://open.spotify.com/album/2yjo4w2oMHXvkX8BmBhnbW) | 4:42 | 2022-06-09 | 2022-07-29 |

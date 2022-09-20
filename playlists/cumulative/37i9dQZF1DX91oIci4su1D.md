@@ -4,7 +4,7 @@
 
 > Setting sights on banging <a href="spotify:genre:trance\_progressive">trance and progressive</a>.
 
-446 songs - 1 day 3 hr 30 min - [published](https://open.spotify.com/playlist/113TZi416gfSF4o2RXnxHl)
+447 songs - 1 day 3 hr 33 min - [published](https://open.spotify.com/playlist/113TZi416gfSF4o2RXnxHl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -346,6 +346,7 @@
 | [Save Me](https://open.spotify.com/track/4zDU34T5mQk0xkxi1sWRmt) | [Stoneface & Terminal](https://open.spotify.com/artist/3Mqc1pY8uwTjUiW0womxWk), [Sue McLaren](https://open.spotify.com/artist/7AzAtQ0LFRXazvHMDx620D) | [Save Me](https://open.spotify.com/album/2z2uznIpWacIIn0BjL37is) | 3:57 | 2022-04-15 | 2022-07-20 |
 | [Saving Grace](https://open.spotify.com/track/1hmfCUTmSfLWecxk8JDNRr) | [DRYM](https://open.spotify.com/artist/0kDuIuxZhlgE9XYRy6NVSq), [GXD](https://open.spotify.com/artist/3XWFA55Hf9Q4YS8AHsfnH8), [Christina Novelli](https://open.spotify.com/artist/1dbzT291PCwwYJK0l3Tr1n) | [Saving Grace](https://open.spotify.com/album/1ht1xnYdgw1sH8EodoRTyJ) | 3:39 | 2022-07-01 |  |
 | [Saving Grace](https://open.spotify.com/track/4QZeWPmz9xOONd4dswoHkv) | [John O'Callaghan](https://open.spotify.com/artist/6H2JQ8igAAa5UBr2u496mb), [Deirdre McLaughlin](https://open.spotify.com/artist/1SIWRebg7AKRhztDGBysIg) | [Saving Grace](https://open.spotify.com/album/72gYPXqLflt7QubYOi3mw3) | 3:26 | 2022-02-25 |  |
+| [Saviour](https://open.spotify.com/track/1HNjXr7GaqTkURcHGlJIKX) | [Rene Ablaze](https://open.spotify.com/artist/6rXpyi122Zalz9VORZB1xd), [Daniel Cesana](https://open.spotify.com/artist/1wjf8YmHHrsVDZ3SMSExsY) | [Saviour](https://open.spotify.com/album/0Q2tCHSxiwK5kd31khVVCA) | 3:00 | 2022-09-09 |  |
 | [Screwdriver](https://open.spotify.com/track/57Gc56jQqwtDAEq7gTAXW9) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [Screwdriver](https://open.spotify.com/album/07QCMIgF4a3tKj7NN2ESeE) | 3:07 | 2021-12-17 | 2022-08-27 |
 | [Searching \(For A Kinder Love\)](https://open.spotify.com/track/7HsNq025c5crDgp3qvqhPn) | [Ben Gold](https://open.spotify.com/artist/4DXcK8M3bJkCFfhHIkudyL), [Yasmin Jane](https://open.spotify.com/artist/7vyJodZNJWzk9YzTzxo4I4) | [Searching \(For A Kinder Love\)](https://open.spotify.com/album/53nPvnk4liIBS1XjuxoDvm) | 3:07 | 2022-04-22 | 2022-08-27 |
 | [Seasons Will Change](https://open.spotify.com/track/5Hu4zGdnLQ3sFyqmS1jDq1) | [DRYM](https://open.spotify.com/artist/0kDuIuxZhlgE9XYRy6NVSq), [Cari](https://open.spotify.com/artist/6UAL6sAn9OZc6VQGOOp3re) | [Seasons Will Change](https://open.spotify.com/album/0kiJKPUkb5S6eIbBPhAa1d) | 4:06 | 2022-02-25 |  |
@@ -392,7 +393,7 @@
 | [Switch Up](https://open.spotify.com/track/7xiDImB6EbVuYDgvp2iqKy) | [Dustin Husain](https://open.spotify.com/artist/0klIzsZViJgJcCX4Wh0qKl) | [Switch Up](https://open.spotify.com/album/00plw9gSpFkqpce77VueKZ) | 3:41 | 2022-05-06 |  |
 | [Take Flight](https://open.spotify.com/track/1UMI25Bx7ZI7gTk2WlSUJ6) | [Aly & Fila](https://open.spotify.com/artist/2hL1EouqXLtBEB6JKnPF0h), [Greg Downey](https://open.spotify.com/artist/5g5gfQk7ayB806jZ9FFCjL) | [Take Flight](https://open.spotify.com/album/6oQpjA3NnTOPfz7tRBvkjH) | 3:56 | 2022-05-20 |  |
 | [Take Me Away](https://open.spotify.com/track/1GuGFUd89KWaMZHp7vUVJP) | [Ben Gold](https://open.spotify.com/artist/4DXcK8M3bJkCFfhHIkudyL), [Benjamin Duchenne](https://open.spotify.com/artist/4UJKe3JbVAObXrnURuUALb) | [Take Me Away](https://open.spotify.com/album/6Uko7MJpeALnJblYe8ccog) | 4:07 | 2022-04-08 |  |
-| [Take Me Up](https://open.spotify.com/track/4lC49uMbMLld4MFMRwgmX1) | [David Forbes](https://open.spotify.com/artist/3kwdB3aUfg0uneHczX2vTG) | [Take Me Up](https://open.spotify.com/album/1Ht6TFfIOWRYxmNMJF0QdO) | 4:17 | 2022-04-22 |  |
+| [Take Me Up](https://open.spotify.com/track/4lC49uMbMLld4MFMRwgmX1) | [David Forbes](https://open.spotify.com/artist/3kwdB3aUfg0uneHczX2vTG) | [Take Me Up](https://open.spotify.com/album/1Ht6TFfIOWRYxmNMJF0QdO) | 4:17 | 2022-04-22 | 2022-09-20 |
 | [Take This](https://open.spotify.com/track/3ipCyw9e4Hw4nI6xmx2HCi) | [Bryan Kearney](https://open.spotify.com/artist/5fBbVsFxoa0jDCqocaEdBx), [Out of the Dust](https://open.spotify.com/artist/5Yp0ywd05n7U64KpZ8JSbu), [Plumb](https://open.spotify.com/artist/2tbxcCCM7A71cmkzuB8lyH) | [Take This](https://open.spotify.com/album/4pydWDq620SHUv13vyA08P) | 4:10 | 2022-04-29 |  |
 | [Tearful](https://open.spotify.com/track/5V1ZD8U3z0CUW7SNL2X2RN) | [Mauro Picotto](https://open.spotify.com/artist/0MNSDAOCHF7f2ZfAYxZ9bp), [Steven Z](https://open.spotify.com/artist/7qF7lzQcvhefsHgVWL743Z) | [Tearful](https://open.spotify.com/album/33QDpoSzPShSxdaIMgqGC0) | 3:39 | 2021-12-17 | 2022-01-08 |
 | [Tell Me Why](https://open.spotify.com/track/3lLQHqHJtOXWeJfqguiOd1) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Tell Me Why](https://open.spotify.com/album/381UGyzBYLzq3ri1ajxB2t) | 2:59 | 2021-12-17 | 2022-01-08 |

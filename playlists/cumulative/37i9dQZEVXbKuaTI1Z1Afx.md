@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- USA.
 
-792 songs - 1 day 19 hr 0 min - [published](https://open.spotify.com/playlist/2HKs1wzvUezKZaRpk2HAlO)
+793 songs - 1 day 19 hr 2 min - [published](https://open.spotify.com/playlist/2HKs1wzvUezKZaRpk2HAlO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [10 Things I Hate About You](https://open.spotify.com/track/6Jkm5kUldvIqxzI1Pa7nXH) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [10 Things I Hate About You](https://open.spotify.com/album/26hYEKjKZU1sTC4mUPpVI6) | 2:37 | 2022-04-19 | 2022-06-05 |
 | [12 Days of Christmas](https://open.spotify.com/track/6bE3npRCJW3wmy4NV44ZS2) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [East Atlanta Santa 3](https://open.spotify.com/album/41Mzki3Yox73btDc51evLi) | 1:52 | 2021-12-27 | 2022-01-01 |
 | [12 Stout Street](https://open.spotify.com/track/7K1HH9OC6nZlJqrGnr8r1g) | [Rx Papi](https://open.spotify.com/artist/56gMovAlFdnmrDk2BcfUlJ), [Gud](https://open.spotify.com/artist/3lyW79oolCj6PAaLUqnze5) | [Foreign Exchange](https://open.spotify.com/album/2CKbsapMFGNtTVe9BneTgh) | 1:58 | 2022-06-13 | 2022-07-07 |
+| [2 Million Up](https://open.spotify.com/track/5JS1gz9zP4GTy0LZYvSeUK) | [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs) | [ONLY BUILT 4 DIAMOND LINKS](https://open.spotify.com/album/3s4uzffoGode9dbtELaVEp) | 2:39 | 2022-09-19 |  |
 | [2010](https://open.spotify.com/track/7ze7yEV1xvxPxuPaF0oUUU) | [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu) | [SICK!](https://open.spotify.com/album/51heTwkSfb4Z5dRIgwU2bd) | 2:28 | 2022-01-18 | 2022-01-23 |
 | [3 BIG BALLS](https://open.spotify.com/track/2YIDnkBfwbLMkt9rcugLdr) | [DigBarGayRaps](https://open.spotify.com/artist/4988qu8te41B5Y35deTmGk) | [3 BIG BALLS](https://open.spotify.com/album/6Aus9U0MvQ2nvHpGTNp0VR) | 2:16 | 2021-12-27 | 2022-01-06 |
 | [30/90 \(from "tick, tick..\. BOOM!" Soundtrack from the Netflix Film\)](https://open.spotify.com/track/55MIRLbZzpYSmMlRt9ZDWM) | [Andrew Garfield](https://open.spotify.com/artist/2garjIdgTW5i89s4Z3UT72), [Joshua Henry](https://open.spotify.com/artist/2WHbNs4WT5ZN7rbjDqbyEE), [Vanessa Hudgens](https://open.spotify.com/artist/6G9bygHlCyPgNGxK2l3YdE), [Robin de Jesus](https://open.spotify.com/artist/6mXcTwoata1hkaDMbkzw32), [Alexandra Shipp](https://open.spotify.com/artist/6RKS67sIPOW16NcGWkgdzF), [MJ Rodriguez](https://open.spotify.com/artist/1fNy49puWuYTyLiKNHAcig) | [tick, tick..\. BOOM! \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/4d1XaejoQ5r4jdkV8k5SNJ) | 4:22 | 2021-12-27 | 2022-02-05 |
@@ -354,7 +355,7 @@
 | [In The Kitchen](https://open.spotify.com/track/0XmN2KXDcNbcpeeUoB1HTV) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [In The Kitchen](https://open.spotify.com/album/3AjfnMxAc6JajluGMxja3Q) | 3:47 | 2022-08-16 | 2022-09-09 |
 | [In The Stars](https://open.spotify.com/track/1ei3hzQmrgealgRKFxIcWn) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [In The Stars](https://open.spotify.com/album/6dSmXsyGAnFtq048IFhiYd) | 3:36 | 2022-05-24 | 2022-06-07 |
 | [in these walls \(my house\) \(feat\. PVRIS\)](https://open.spotify.com/track/70R3yxMofIQpUmLUFIzA6J) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [lockdown sessions](https://open.spotify.com/album/38kBJGfjhkTGqBs5EqoaMN) | 2:48 | 2022-03-09 | 2022-03-11 |
-| [Insomnia](https://open.spotify.com/track/4WTcpYfuTzxlWjffzeUjah) | [the moss](https://open.spotify.com/artist/4wPeDqxPKkBN50kr8XhEma) | [Insomnia](https://open.spotify.com/album/2G3tS2k6gUuO14Y4fDxw4l) | 3:12 | 2022-09-10 |  |
+| [Insomnia](https://open.spotify.com/track/4WTcpYfuTzxlWjffzeUjah) | [the moss](https://open.spotify.com/artist/4wPeDqxPKkBN50kr8XhEma) | [Insomnia](https://open.spotify.com/album/2G3tS2k6gUuO14Y4fDxw4l) | 3:12 | 2022-09-10 | 2022-09-20 |
 | [INVU](https://open.spotify.com/track/7rXcCpIAoOUCydkVDMcoPV) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [INVU \- The 3rd Album](https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9) | 3:24 | 2022-03-08 | 2022-03-13 |
 | [Irish Pub Song](https://open.spotify.com/track/6zX3HwSuoQThrabeoHJvCs) | [The High Kings](https://open.spotify.com/artist/6wXjctGBzxkT0ghwfQ8FC0) | [Irish Pub Song](https://open.spotify.com/album/5QTxZhvepeEKUMVdKlT0M8) | 3:00 | 2022-03-18 | 2022-03-26 |
 | [It'll Be Okay](https://open.spotify.com/track/2KnLkZ3z7PO3kgVGHGqDpD) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [It'll Be Okay](https://open.spotify.com/album/3sDud6BapENewYxlL8VH8r) | 3:42 | 2021-12-28 | 2022-01-01 |

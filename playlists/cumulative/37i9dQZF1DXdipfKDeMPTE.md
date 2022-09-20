@@ -4,7 +4,7 @@
 
 > Moody beats for sleepless nights.
 
-323 songs - 12 hr 14 min - [published](https://open.spotify.com/playlist/1KoQ1qVTSCCy8X3hTp8pGe)
+324 songs - 12 hr 15 min - [published](https://open.spotify.com/playlist/1KoQ1qVTSCCy8X3hTp8pGe)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,7 +157,8 @@
 | [laze](https://open.spotify.com/track/3toAiZvuekDbhfaiTSJe8j) | [fresh from the oven](https://open.spotify.com/artist/6glzNO8EqQsWlQfmxnwK36) | [laze](https://open.spotify.com/album/3ARTuVfkQ1vhcmoQSgXBMa) | 2:43 | 2022-05-20 | 2022-09-09 |
 | [left staring](https://open.spotify.com/track/1aKmyCgZQbhVeN9aH6co0I) | [bugdawn](https://open.spotify.com/artist/3iB5oTLzBMSaNQ2CajhcGz) | [left staring](https://open.spotify.com/album/0qRiHtoEzskxs1lcKzLIml) | 2:12 | 2022-05-20 |  |
 | [Lego](https://open.spotify.com/track/6qdYRJZesimF7fPkTaGSFL) | [Gibbon Baby](https://open.spotify.com/artist/57e5lRPOUi6N1Oroph48nz) | [Lego](https://open.spotify.com/album/6D4m3UGV2LVloI7Vmh3fQv) | 2:04 | 2022-05-20 |  |
-| [leyawiin](https://open.spotify.com/track/6VqChVa40ZOFZyve05Zq0m) | [Poetics](https://open.spotify.com/artist/6sdgbah9YMIS5jSYdyzpBP) | [leyawiin](https://open.spotify.com/album/24u2vd97YmlbRVHeLbxLte) | 1:28 | 2022-05-20 |  |
+| [leyawiin](https://open.spotify.com/track/6VqChVa40ZOFZyve05Zq0m) | [Poetics](https://open.spotify.com/artist/6sdgbah9YMIS5jSYdyzpBP) | [leyawiin](https://open.spotify.com/album/24u2vd97YmlbRVHeLbxLte) | 1:28 | 2022-05-20 | 2022-09-20 |
+| [leyawiin](https://open.spotify.com/track/6ZQ6OSk8nA6iPoE6rDhili) | [Poetics](https://open.spotify.com/artist/6sdgbah9YMIS5jSYdyzpBP) | [leyawiin](https://open.spotify.com/album/0SUtI8v2vOliyEU2WO2yMn) | 1:28 | 2022-09-16 |  |
 | [life is a balloon](https://open.spotify.com/track/2GoAhMIvnZ1n7ZEqj7jrAa) | [frek!](https://open.spotify.com/artist/00vQreQBu9wC4dQCmHWJin) | [comic sans](https://open.spotify.com/album/5pG11FB3kK2GNbFpW4w6Vu) | 1:44 | 2022-05-20 | 2022-09-17 |
 | [Light](https://open.spotify.com/track/35N0N8ezsPPblW9ISS8HnF) | [Prism Sorrow](https://open.spotify.com/artist/5Fh6NGwhB7tyhUR7XPuxhT) | [Concrete](https://open.spotify.com/album/2hs7bgiqTR39429D3eIoke) | 1:35 | 2022-05-20 |  |
 | [Like A Tingel](https://open.spotify.com/track/0OLhrE2q3pKKH6VZUavoPV) | [Kiki\_Q](https://open.spotify.com/artist/3xcD6O97TEOXcX1TCYYhAj) | [Like A Tingel](https://open.spotify.com/album/7jirkidnz1LNN6ZmeGNRJZ) | 1:52 | 2022-06-17 |  |

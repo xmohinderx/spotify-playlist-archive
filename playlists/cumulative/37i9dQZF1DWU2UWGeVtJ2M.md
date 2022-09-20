@@ -4,7 +4,7 @@
 
 > 試著拋開所有煩惱，配上一點特意的小確幸，這一刻只屬於你...
 
-249 songs - 13 hr 42 min - [published](https://open.spotify.com/playlist/70F1v4zvuq5j5onBRYZuyS)
+250 songs - 13 hr 45 min - [published](https://open.spotify.com/playlist/70F1v4zvuq5j5onBRYZuyS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,9 +33,10 @@
 | [Better Version](https://open.spotify.com/track/6OYly4TGeYQFNXrt6Qh1JA) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Better Version](https://open.spotify.com/album/7KG6TtKMZAIPtY1T3ApyeU) | 3:35 | 2022-07-25 |  |
 | [betterlove](https://open.spotify.com/track/020BU0EzWu1qQDj6qXRNRe) | [The Legacy](https://open.spotify.com/artist/4A8MJHyHDhtgq8QxOUkx2A) | [betterlove](https://open.spotify.com/album/2R6iU9N1ucrdfMVEqt08qZ) | 3:07 | 2022-06-06 | 2022-07-29 |
 | [Bitter Delight](https://open.spotify.com/track/5DOmSIrqT9BbYpU4aKOOFK) | [Alf Wardhana](https://open.spotify.com/artist/008xcaYBfGJuvUXHR7OSYt) | [Bitter Delight](https://open.spotify.com/album/0NThsYqKdnjotCcQ2MBJRK) | 3:42 | 2022-06-06 | 2022-07-29 |
+| [Bittersweet](https://open.spotify.com/track/4DwW1HW7iEK7DtUDiSte3X) | [Fallen Roses](https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv), [Sleepdealer](https://open.spotify.com/artist/0kVNa1qBak8arcwcUeLu90), [Harmless](https://open.spotify.com/artist/5dYGaoCO0iaUZKfl9K8Gtd) | [Bittersweet](https://open.spotify.com/album/1ei9Kv8hCrpTcnz3JscN4l) | 3:02 | 2022-09-19 |  |
 | [Blinded](https://open.spotify.com/track/7wMAiWj80CLKSleeDbWMOw) | [Fern.](https://open.spotify.com/artist/7KoTRIhjkIQy2L8RjWDpfF) | [Blinded](https://open.spotify.com/album/0J54MemwRGGvGEsxagUx2v) | 3:32 | 2022-06-06 |  |
 | [Break Me.](https://open.spotify.com/track/3XmIJ09BsBdqeDPxYcu3m3) | [Mood.](https://open.spotify.com/artist/3C6yGCM7b8QAjs1fTrEguw) | [Break Me.](https://open.spotify.com/album/7uuSPVQe5FKPQruNG9sClB) | 3:05 | 2022-07-11 | 2022-07-17 |
-| [Breakup Season \(feat\. Samm Henshaw\)](https://open.spotify.com/track/5b0AY8ZEWEzePJolcjsBWA) | [Maya Delilah](https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM), [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Breakup Season \(feat\. Samm Henshaw\)](https://open.spotify.com/album/2F1NcprbTMK4hoSHwfi1Dz) | 3:12 | 2022-06-06 |  |
+| [Breakup Season \(feat\. Samm Henshaw\)](https://open.spotify.com/track/5b0AY8ZEWEzePJolcjsBWA) | [Maya Delilah](https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM), [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Breakup Season \(feat\. Samm Henshaw\)](https://open.spotify.com/album/2F1NcprbTMK4hoSHwfi1Dz) | 3:12 | 2022-06-06 | 2022-09-20 |
 | [bruised](https://open.spotify.com/track/4WOLFyu5hAc5mgosw0i2Zq) | [TALA](https://open.spotify.com/artist/2VL6HPPI1raa3qKW6NUNBR) | [bruised](https://open.spotify.com/album/0I4kXJE3TX5QpPkI2gpPsM) | 3:54 | 2022-06-06 | 2022-07-29 |
 | [Build](https://open.spotify.com/track/0G3qCSe4KcWFc0EKlXCEo8) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ), [Arin Ray](https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc) | [Build](https://open.spotify.com/album/6ASizE9wRKuBUsgARpMrkh) | 4:07 | 2022-07-25 |  |
 | [Built That Way](https://open.spotify.com/track/1KFRlrRRuvyrIwgjcSr1Qr) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [The Juice: Vol\. I](https://open.spotify.com/album/3No5rGRQefAlVJgWusDEwQ) | 3:19 | 2022-07-25 |  |

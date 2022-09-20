@@ -2221,6 +2221,24 @@
     {
       "album": {
         "name": "cheydinhal",
+        "url": "https://open.spotify.com/album/5qkawH5rfKsYEwTXWMRDeP"
+      },
+      "artists": [
+        {
+          "name": "Poetics",
+          "url": "https://open.spotify.com/artist/6sdgbah9YMIS5jSYdyzpBP"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125718,
+      "name": "cheydinhal",
+      "url": "https://open.spotify.com/track/1LZn2Iumd6EBPa16SxZmgg"
+    },
+    {
+      "album": {
+        "name": "cheydinhal",
         "url": "https://open.spotify.com/album/2V0IXWAztq41O6rS4s4Yka"
       },
       "artists": [
@@ -2231,7 +2249,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-20",
       "duration_ms": 125718,
       "name": "cheydinhal",
       "url": "https://open.spotify.com/track/3xMf7Kna90OQykFAxTyq5z"

@@ -4,7 +4,7 @@
 
 > 
 
-650 songs - 1 day 19 hr 42 min - [published](https://open.spotify.com/playlist/0xvGamaTTFg12gsauZPmmX)
+652 songs - 1 day 19 hr 49 min - [published](https://open.spotify.com/playlist/0xvGamaTTFg12gsauZPmmX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -453,6 +453,7 @@
 | [Satan Said Dance](https://open.spotify.com/track/7cgkVSmg5RmiCGfbrxnQC2) | [Clap Your Hands Say Yeah](https://open.spotify.com/artist/1jSaZgaKHmgc7VTgML528r) | [Some Loud Thunder](https://open.spotify.com/album/1oEF34QTWMU3HhjIMxPkia) | 5:32 | 2020-01-25 |  |
 | [Saviour Machine \- 2015 Remaster](https://open.spotify.com/track/1LsDrUgiusxXHCoaSDvYDX) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [The Man Who Sold the World \(2015 Remaster\)](https://open.spotify.com/album/4h9rWFWhgCSSrvIEQ0YhYG) | 4:30 | 2019-05-17 |  |
 | [Season of the Witch](https://open.spotify.com/track/6MOEQCtAWNSCmvg3SFKF5y) | [Donovan](https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG) | [Sunshine Superman](https://open.spotify.com/album/2ULhVPvdhT7RREnqRWM06G) | 4:53 | 2021-02-28 |  |
+| [Second Hand News \- 2004 Remaster](https://open.spotify.com/track/0hlniElQOr5tvSKBaSpAQi) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours](https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB) | 2:56 | 2022-09-18 |  |
 | [Second Hand News \- 2004 Remaster](https://open.spotify.com/track/4SZhxF0sIS8nDvwhT0Tt2V) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours \(Super Deluxe\)](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) | 2:56 | 2019-04-20 |  |
 | [See No Evil](https://open.spotify.com/track/2OaXmeYBJ0hcTmS3kxjJOx) | [Television](https://open.spotify.com/artist/0S7Zur2g8YhqlzqtlYStli) | [Marquee Moon](https://open.spotify.com/album/630o1rKTDsLeIPreOY1jqP) | 3:52 | 2020-01-06 |  |
 | [Selené](https://open.spotify.com/track/1loryY5AWzoeiaKoiSeBkU) | [Pond](https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s) | [Tasmania](https://open.spotify.com/album/4K7jmZcYAmNlKdIxqKUbH6) | 3:54 | 2019-04-21 |  |
@@ -653,6 +654,7 @@
 | [You Don't Know How It Feels](https://open.spotify.com/track/7MooGz4ZPE4bNxjFegR6Jx) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Wildflowers](https://open.spotify.com/album/3ZGUBwDiY5HPOcWv4SBPQg) | 4:49 | 2019-11-15 |  |
 | [You Know Better](https://open.spotify.com/track/24xbQqjrFlEA2pCeAFGz57) | [Post Animal](https://open.spotify.com/artist/4iaDWP59Z3e62DW7YWDbIE) | [Worried About You](https://open.spotify.com/album/3SVaSPS8sTKIMq7rwNGitH) | 3:23 | 2020-10-23 |  |
 | [You Know You're Right](https://open.spotify.com/track/5O8L4I2S4izFGDjvP7xAKv) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nirvana](https://open.spotify.com/album/5zBPRXCAc801vyHWoRurNZ) | 3:37 | 2020-06-26 |  |
+| [You Make Loving Fun \- 2004 Remaster](https://open.spotify.com/track/28H3wOEKsaEa8NBEYCLl4j) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours](https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB) | 3:33 | 2022-09-18 |  |
 | [You Never Know](https://open.spotify.com/track/38JQvvQ4svpObs7e9fannl) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Wilco \(The Album\)](https://open.spotify.com/album/1cezxBJdWm1Xod9ZiGy4YE) | 4:21 | 2020-03-13 |  |
 | [You Want It Darker](https://open.spotify.com/track/5zb7npjQqoJ7Kcpq4yD9qn) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [You Want It Darker](https://open.spotify.com/album/3jeTB3j3QmUs8SPIVleHtU) | 4:44 | 2019-05-28 |  |
 | [You're Either On Something](https://open.spotify.com/track/0FDsyW1vBUhJJ0o1LIL01E) | [Temples](https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV) | [Hot Motion](https://open.spotify.com/album/5tDadlHuGJOt224mS61m8E) | 3:47 | 2019-10-13 |  |

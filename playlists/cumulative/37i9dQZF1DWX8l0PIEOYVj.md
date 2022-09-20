@@ -4,7 +4,7 @@
 
 > Future & melodic bass\. Cover: HALIENE.
 
-253 songs - 15 hr 13 min - [published](https://open.spotify.com/playlist/6p3tvkx6aJZVieMCGLl8nF)
+254 songs - 15 hr 17 min - [published](https://open.spotify.com/playlist/6p3tvkx6aJZVieMCGLl8nF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,7 +163,8 @@
 | [New Horizons](https://open.spotify.com/track/67ApDC2MLl6hJXc2iwKNcx) | [DVRKCLOUD](https://open.spotify.com/artist/3d5iL1jm2HGMJS1woaIohE), [Isaac Warburton](https://open.spotify.com/artist/4PZIzA4TmZMBMDg2soNTQk) | [New Horizons](https://open.spotify.com/album/5wYxsRyzQb97jskV9DVAqa) | 3:29 | 2022-07-22 |  |
 | [Oblivion](https://open.spotify.com/track/4dTC6SHxIibaRue2eKI2ai) | [Rival](https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz), [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO), [Philip Strand](https://open.spotify.com/artist/1hII0FUxBvpT7bnuS7TQ6q) | [Oblivion](https://open.spotify.com/album/0tVfKBH8luy3wdwvIJ0dge) | 3:24 | 2022-07-08 |  |
 | [Oceans & Galaxies](https://open.spotify.com/track/5NQKpa6uCqZcaFkAbUK4XB) | [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8), [HALIENE](https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj) | [Oceans & Galaxies](https://open.spotify.com/album/68ktA77AGDVlrifYU53GzL) | 3:20 | 2022-07-08 | 2022-08-27 |
-| [On Air](https://open.spotify.com/track/3r7g1BxqfQu1y5CLBkemdZ) | [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi), [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [Captain Cuts](https://open.spotify.com/artist/0rlKkLkpsCnJbZethGBfAk), [JRM](https://open.spotify.com/artist/1NbmG1Fj64qykEcJt1d43a) | [On Air](https://open.spotify.com/album/13czmHAij9ZlJaT9qh50gI) | 3:57 | 2022-08-19 |  |
+| [On Air](https://open.spotify.com/track/3r7g1BxqfQu1y5CLBkemdZ) | [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi), [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [Captain Cuts](https://open.spotify.com/artist/0rlKkLkpsCnJbZethGBfAk), [JRM](https://open.spotify.com/artist/1NbmG1Fj64qykEcJt1d43a) | [On Air](https://open.spotify.com/album/13czmHAij9ZlJaT9qh50gI) | 3:57 | 2022-08-19 | 2022-09-20 |
+| [On Air](https://open.spotify.com/track/5c6dqKOdbyDFvJ43vSQBxO) | [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi), [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [Captain Cuts](https://open.spotify.com/artist/0rlKkLkpsCnJbZethGBfAk), [JRM](https://open.spotify.com/artist/1NbmG1Fj64qykEcJt1d43a) | [Anomaly](https://open.spotify.com/album/7J8SSnGauta2Uy7HKhEDMA) | 3:57 | 2022-08-26 |  |
 | [One Day at a Time](https://open.spotify.com/track/4sg2czxO15zhMn1scUXPIL) | [Elle Vee](https://open.spotify.com/artist/7b1FMiWXZwOBsxi0uWw6wH), [Ridley Slim](https://open.spotify.com/artist/2V3Mbx5L6Lg6Aa2XHR5RBD) | [One Day at a Time](https://open.spotify.com/album/5AioSc4f4taFEkN7l41W7Q) | 3:46 | 2022-07-29 |  |
 | [One More Day](https://open.spotify.com/track/7x2vtZvaaFt6zR4QJDWPEO) | [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [One More Day](https://open.spotify.com/album/1jZ5R2hLK3Q7I9MdNiVTMp) | 3:55 | 2022-07-08 |  |
 | [Only One I Need](https://open.spotify.com/track/5tqjt07Jes01AokedrhRtQ) | [William Black](https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h), [HALIENE](https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj), [Thomas Laurent](https://open.spotify.com/artist/5tIz2pifqzGGWEDKOrrmoE) | [Only One I Need](https://open.spotify.com/album/51zRMRepdEFgOELmZtUMIL) | 3:26 | 2022-07-08 | 2022-08-27 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSIz2AGspV4.md) - [plain]
 
 > احدث الاغاني العراقية\. غلاف: حسام الرسام
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,998 likes - 53 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,028 likes - 53 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSIz2AGspV4.md) - [plain]
 | 52 | [Takheth Al Aqel](https://open.spotify.com/track/19lnl3mSePtp1ic4SLCGwe) | [Abdulrahman Alazzawi](https://open.spotify.com/artist/2QxSb4y90CGYdmyFsh4XSg) | [Takheth Al Aqel](https://open.spotify.com/album/48sJulWc8sXuzgL5aTbOH9) | 3:40 |
 | 53 | [Watan \- From the original TV Series](https://open.spotify.com/track/2MQpKJNVY6hMnkpOHQsAG7) | [Ali Jassim](https://open.spotify.com/artist/0sQhYPLQcT2qUZ5KV25WSe) | [Watan \(From the original TV Series\)](https://open.spotify.com/album/3tzDXEPAYGr7Men2aCgkyG) | 2:51 |
 
-Snapshot ID: `MTY2MDE0OTk2OCwwMDAwMDAwMDU0NWVhNDEyNjg1OTRhZmMyMjJmMTcwNzk5MjA5MzVk`
+Snapshot ID: `MTY2MzU3MjYzNywwMDAwMDAwMGM0YmQ2ZDg3YTNhMzY0ZjExNWY5NWJlNTZhNzIwMTVl`

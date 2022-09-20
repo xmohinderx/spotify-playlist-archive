@@ -1522,6 +1522,28 @@
     },
     {
       "album": {
+        "name": "The Journey",
+        "url": "https://open.spotify.com/album/4C9C2oc0yqtJu9ofTcJm7Z"
+      },
+      "artists": [
+        {
+          "name": "Foozak",
+          "url": "https://open.spotify.com/artist/6bVBQCuQEyT0vgyycuRA4I"
+        },
+        {
+          "name": "Saint Evo",
+          "url": "https://open.spotify.com/artist/08dNTAMCiCM61JnSslHFCE"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 429275,
+      "name": "The Journey",
+      "url": "https://open.spotify.com/track/7lxrItxcdeNxjmyX1oOxck"
+    },
+    {
+      "album": {
         "name": "There's Music in the Air",
         "url": "https://open.spotify.com/album/3y0xLQNdKdxlrKzVmmvbYS"
       },

@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:5Uy8Skuxzxf38jMDTndKIU">Populous</a>'s favorite tracks\. Updated regularly\. Curated by Populous\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-50 songs - 3 hr 45 min - [published](https://open.spotify.com/playlist/4Z2xorn6yxWYhhwb9O1IZh)
+51 songs - 3 hr 50 min - [published](https://open.spotify.com/playlist/4Z2xorn6yxWYhhwb9O1IZh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,8 @@
 | [CURLY FRIEZ](https://open.spotify.com/track/3ru6MCAGzYwoU2RXYPCPRC) | [benuebermensch](https://open.spotify.com/artist/0uUs9vPhqgn1j0QY36ujfh) | [SNT 002](https://open.spotify.com/album/5auFe2ePYXRwlaGynW80WG) | 3:08 | 2022-09-02 |  |
 | [Easy](https://open.spotify.com/track/34PeugGdjObVPu5esGnFze) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC) | [Easy](https://open.spotify.com/album/6UPK49opmChSeYNBfUHpHl) | 5:43 | 2022-09-02 |  |
 | [Elle Cang](https://open.spotify.com/track/2Q0wxpVlXckhaBZJXG53KX) | [Fango](https://open.spotify.com/artist/0Ey5SuiHfEJX8DZzwyENz1) | [E Dee vol\. 1](https://open.spotify.com/album/1K1XmEr4dlqKWssDcCdlGc) | 6:31 | 2022-09-02 |  |
-| [Flores No Mar](https://open.spotify.com/track/4sw5ft6s70lPDlCa1YRWks) | [Populous](https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU), [EMMANUELLE](https://open.spotify.com/artist/1C2Gz0VQuVWtaLWd54ujI5) | [Flores No Mar](https://open.spotify.com/album/5v74vfk850Sq7cGTDqwPbP) | 4:23 | 2022-09-02 |  |
+| [Flores No Mar](https://open.spotify.com/track/4sw5ft6s70lPDlCa1YRWks) | [Populous](https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU), [EMMANUELLE](https://open.spotify.com/artist/1C2Gz0VQuVWtaLWd54ujI5) | [Flores No Mar](https://open.spotify.com/album/5v74vfk850Sq7cGTDqwPbP) | 4:23 | 2022-09-02 | 2022-09-20 |
+| [Flores No Mar \- Album Edit](https://open.spotify.com/track/4wp5E9w0eJ0gg0QxGWRDFy) | [Populous](https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU), [Emmanuelle](https://open.spotify.com/artist/0Nk7sMy6t6Kk9u6zkzF0ri) | [W](https://open.spotify.com/album/1kiPEitFPGkgriSY22GUPa) | 4:23 | 2022-09-02 |  |
 | [Get Up](https://open.spotify.com/track/5zaUkwHLbZXdJiEnzAt8dT) | [AÆE](https://open.spotify.com/artist/3bGo6srCzCmFyiPeLFvLnR) | [Dance Rituals](https://open.spotify.com/album/4ckMVuBd3frfo8K8FkQQI5) | 4:19 | 2022-09-02 |  |
 | [Get your Fking Laws off my Body](https://open.spotify.com/track/0AT9fER20LfUfkrCvdQVlq) | [Planningtorock](https://open.spotify.com/artist/7qHOphlWaJrfFa0BqpayDG) | [Get your Fking Laws off my Body](https://open.spotify.com/album/5ETlH9EZsNWZuRsuGrqKX3) | 3:30 | 2022-09-02 |  |
 | [GMT \- Jamie xx Remix](https://open.spotify.com/track/6kqAKtIZDTeBjLdJJ2jiTt) | [Oliver Sim](https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm), [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [GMT \(Jamie xx Remix\)](https://open.spotify.com/album/5D4DjxpROByDBBVtZyyA5R) | 9:32 | 2022-09-02 |  |

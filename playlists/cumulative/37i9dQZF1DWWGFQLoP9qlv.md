@@ -4,7 +4,7 @@
 
 > Great songs by indisputable music legends\. Cover: David Bowie
 
-192 songs - 13 hr 18 min - [published](https://open.spotify.com/playlist/0GtqGrLzVf2NF3NwuYf9ll)
+193 songs - 13 hr 21 min - [published](https://open.spotify.com/playlist/0GtqGrLzVf2NF3NwuYf9ll)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Free Fallin'](https://open.spotify.com/track/7woZGXjtaYwuvSoU1zToB3) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Full Moon Fever](https://open.spotify.com/album/7ihweYjA1ck66NTB4bujGl) | 4:16 | 2021-10-14 | 2022-07-29 |
 | [Get It On](https://open.spotify.com/track/5nbNdS5SKdpiDZjCBh8W7b) | [T\. Rex](https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin) | [Electric Warrior \(Deluxe Edition\)](https://open.spotify.com/album/6hPt04r4KtO00nwhdGJ8Ox) | 4:22 | 2021-10-14 | 2022-07-29 |
 | [Gimme Shelter](https://open.spotify.com/track/1dv3ePjze9tPq2pk8eWJdR) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Let It Bleed](https://open.spotify.com/album/0c78nsgqX6VfniSNWIxwoD) | 4:30 | 2021-10-14 | 2022-07-24 |
-| [Gimme Shelter](https://open.spotify.com/track/6H3kDe7CGoWYBabAeVWGiD) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Let It Bleed](https://open.spotify.com/album/4l4u9e9jSbotSXNjYfOugy) | 4:30 | 2022-01-21 |  |
+| [Gimme Shelter](https://open.spotify.com/track/6H3kDe7CGoWYBabAeVWGiD) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Let It Bleed](https://open.spotify.com/album/4l4u9e9jSbotSXNjYfOugy) | 4:30 | 2022-01-21 | 2022-09-20 |
 | [Gimme Some Lovin' \- Single Mix](https://open.spotify.com/track/3EOZLnmwc7i7VFAtM5uNN4) | [The Spencer Davis Group](https://open.spotify.com/artist/3i9hP422d2KMjaupTzBNVS) | [Gimme Some Lovin' / Blues In F](https://open.spotify.com/album/1QIHvq5BFwNaWgamY5bNUs) | 2:58 | 2021-10-14 | 2022-07-29 |
 | [Gimme! Gimme! Gimme! \(A Man After Midnight\)](https://open.spotify.com/track/3vkQ5DAB1qQMYO4Mr9zJN6) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Voulez\-Vous](https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh) | 4:52 | 2022-01-21 |  |
 | [Gloria \- Stereo Version](https://open.spotify.com/track/6aMg17mRAbKDayw8pRRADw) | [Them](https://open.spotify.com/artist/5BaHqGtf6UAZnHfqdPaTDA), [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [The Essential Van Morrison](https://open.spotify.com/album/0RTU4KkKPJ5n8KnV18OaJs) | 2:36 | 2021-10-14 | 2022-07-29 |
@@ -191,6 +191,7 @@
 | [Whole Lotta Love \- 1990 Remaster](https://open.spotify.com/track/0hCB0YR03f6AmQaHbwWDe8) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin II \(1994 Remaster\)](https://open.spotify.com/album/70lQYZtypdCALtFVlQAcvx) | 5:33 | 2022-01-21 |  |
 | [Wild Thing](https://open.spotify.com/track/2cM6hAcaR3zsh2oYYV2MWU) | [The Troggs](https://open.spotify.com/artist/57xdnSVt4ahJCIXYLieQ25) | [Hit Single Anthology](https://open.spotify.com/album/2TG4d4Y39z7yDW7iTmVi6v) | 2:38 | 2021-10-14 | 2022-07-28 |
 | [Wild World](https://open.spotify.com/track/269OfNY9Je1QWaDnu31KKp) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Tea for the Tillerman \(Deluxe Edition\)](https://open.spotify.com/album/6lmjLgTFMevnJVif0iwfDi) | 3:20 | 2021-10-14 | 2022-07-29 |
+| [Wild World](https://open.spotify.com/track/7mjSHL2Eb0kAwiKbvNNyD9) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Tea For The Tillerman \(Remastered 2020\)](https://open.spotify.com/album/44VxbAytHpVi3Rq8hRhild) | 3:20 | 2022-01-21 |  |
 | [Wish You Were Here \- 2011 Remaster](https://open.spotify.com/track/7aE5WXu5sFeNRh3Z05wwu4) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Wish You Were Here \(Remastered Version\)](https://open.spotify.com/album/6uvBKDGlJAYLH5Vy6RQVsc) | 5:04 | 2021-10-14 | 2022-07-06 |
 | [With A Little Help From My Friends](https://open.spotify.com/track/4pU7ed71DOZozQrBQzqkdw) | [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI) | [With A Little Help From My Friends](https://open.spotify.com/album/59fLzpUXqk2dx3CMfECVlG) | 5:14 | 2021-10-14 | 2022-07-29 |
 | [Wonderful Tonight](https://open.spotify.com/track/4qmHeQBYieqj3VMAPascsE) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Slowhand 35th Anniversary \(Super Deluxe\)](https://open.spotify.com/album/5L3heXJfh1liiYsZyFZ22G) | 3:45 | 2022-01-21 | 2022-03-09 |

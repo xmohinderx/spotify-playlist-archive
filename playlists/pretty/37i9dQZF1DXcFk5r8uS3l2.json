@@ -1,12 +1,12 @@
 {
   "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Amythyst Kiah",
-  "num_followers": 414843,
+  "num_followers": 414872,
   "original_name": "Blues Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMwMDg2MCwwMDAwMDAwMGNiZTViZGM1M2VmNWFkODBlNDM3MWMyZWJlZjI1ODE4",
+  "snapshot_id": "MTY2MzMwMDg2MCwwMDAwMDAwMGJjZTZlMmYwNDhjOWQ1ZGI5MzJiYmRiZmRiODIzYzdj",
   "tracks": [
     {
       "added_at": "2022-08-12 04:02:00",
@@ -287,6 +287,22 @@
     {
       "added_at": "2022-01-28 05:01:00",
       "album": {
+        "name": "Love & Hate",
+        "url": "https://open.spotify.com/album/0qxsfpy2VU0i4eDR9RTaAU"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "duration_ms": 233413,
+      "name": "One More Night",
+      "url": "https://open.spotify.com/track/0f2zcrhhHT59aIGQvRlTZ1"
+    },
+    {
+      "added_at": "2022-01-28 05:01:00",
+      "album": {
         "name": "Encore",
         "url": "https://open.spotify.com/album/6EIlfHDKZxmDMjcaRbFj8d"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 182466,
       "name": "Sound & Color",
       "url": "https://open.spotify.com/track/26HaY4D7AV0gVxmkz11bIz"
-    },
-    {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
-        "name": "Love & Hate",
-        "url": "https://open.spotify.com/album/0qxsfpy2VU0i4eDR9RTaAU"
-      },
-      "artists": [
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
-        }
-      ],
-      "duration_ms": 233413,
-      "name": "One More Night",
-      "url": "https://open.spotify.com/track/0f2zcrhhHT59aIGQvRlTZ1"
     },
     {
       "added_at": "2022-01-28 05:01:00",
@@ -431,6 +431,22 @@
     {
       "added_at": "2022-01-28 05:01:00",
       "album": {
+        "name": "Light (Edit)",
+        "url": "https://open.spotify.com/album/0fKENvWUaivTdcglwpXvzz"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "duration_ms": 185373,
+      "name": "Light - Edit",
+      "url": "https://open.spotify.com/track/0h04eWLXS72ITUgN4PKnLg"
+    },
+    {
+      "added_at": "2022-01-28 05:01:00",
+      "album": {
         "name": "Sharecropper's Son",
         "url": "https://open.spotify.com/album/0GrKDFuaqGOhs54O8Zerqf"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 188142,
       "name": "In The Night Time",
       "url": "https://open.spotify.com/track/2iYYrWUWbIeRDFhywfvKLr"
-    },
-    {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
-        "name": "Light (Edit)",
-        "url": "https://open.spotify.com/album/0fKENvWUaivTdcglwpXvzz"
-      },
-      "artists": [
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
-        }
-      ],
-      "duration_ms": 185373,
-      "name": "Light - Edit",
-      "url": "https://open.spotify.com/track/0h04eWLXS72ITUgN4PKnLg"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -695,22 +695,6 @@
     {
       "added_at": "2022-01-28 05:01:00",
       "album": {
-        "name": "Rubber Factory",
-        "url": "https://open.spotify.com/album/1rlGDm1KQJfDyT5v1U8Xk5"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 294933,
-      "name": "The Lengths",
-      "url": "https://open.spotify.com/track/7nl6fbpRrLAED8KR2pUgTp"
-    },
-    {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
         "name": "POWER",
         "url": "https://open.spotify.com/album/3wZL5NTW9eLvDuYhWhvEPj"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 161675,
       "name": "Over You",
       "url": "https://open.spotify.com/track/49YzZ6c0PalgJNqZSnfJrn"
+    },
+    {
+      "added_at": "2022-01-28 05:01:00",
+      "album": {
+        "name": "Rubber Factory",
+        "url": "https://open.spotify.com/album/1rlGDm1KQJfDyT5v1U8Xk5"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 294933,
+      "name": "The Lengths",
+      "url": "https://open.spotify.com/track/7nl6fbpRrLAED8KR2pUgTp"
     },
     {
       "added_at": "2022-01-28 05:01:00",
@@ -973,22 +973,6 @@
       "url": "https://open.spotify.com/track/5xfYZuMVGuyh9L0LcVWjzE"
     },
     {
-      "added_at": "2022-08-12 04:02:00",
-      "album": {
-        "name": "Scoundrel",
-        "url": "https://open.spotify.com/album/4vphCYhZVlxcbIste3zR3O"
-      },
-      "artists": [
-        {
-          "name": "Sam Burchfield",
-          "url": "https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5"
-        }
-      ],
-      "duration_ms": 193786,
-      "name": "Profit",
-      "url": "https://open.spotify.com/track/4kw9x3gkvWRNk3IIv6cYGW"
-    },
-    {
       "added_at": "2022-05-27 04:03:00",
       "album": {
         "name": "Face Your Fear",
@@ -1003,6 +987,38 @@
       "duration_ms": 268733,
       "name": "Wednesday Morning Atonement",
       "url": "https://open.spotify.com/track/1jJeYe1XBYid6aiTcHlBC1"
+    },
+    {
+      "added_at": "2022-01-28 05:01:00",
+      "album": {
+        "name": "Black Hole Rainbow",
+        "url": "https://open.spotify.com/album/0F6GEmGd1mErhB4Ie2d2So"
+      },
+      "artists": [
+        {
+          "name": "Devon Gilfillian",
+          "url": "https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH"
+        }
+      ],
+      "duration_ms": 244536,
+      "name": "Unchained",
+      "url": "https://open.spotify.com/track/0cSJAbriuoamIYy7AfK2lr"
+    },
+    {
+      "added_at": "2022-08-12 04:02:00",
+      "album": {
+        "name": "Scoundrel",
+        "url": "https://open.spotify.com/album/4vphCYhZVlxcbIste3zR3O"
+      },
+      "artists": [
+        {
+          "name": "Sam Burchfield",
+          "url": "https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5"
+        }
+      ],
+      "duration_ms": 193786,
+      "name": "Profit",
+      "url": "https://open.spotify.com/track/4kw9x3gkvWRNk3IIv6cYGW"
     },
     {
       "added_at": "2022-01-28 05:01:00",
@@ -1023,22 +1039,6 @@
     {
       "added_at": "2022-01-28 05:01:00",
       "album": {
-        "name": "Black Hole Rainbow",
-        "url": "https://open.spotify.com/album/0F6GEmGd1mErhB4Ie2d2So"
-      },
-      "artists": [
-        {
-          "name": "Devon Gilfillian",
-          "url": "https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH"
-        }
-      ],
-      "duration_ms": 244536,
-      "name": "Unchained",
-      "url": "https://open.spotify.com/track/0cSJAbriuoamIYy7AfK2lr"
-    },
-    {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
         "name": "Keep On",
         "url": "https://open.spotify.com/album/50CK5WZHyOwMeZHVYGCDIJ"
       },
@@ -1051,6 +1051,22 @@
       "duration_ms": 223490,
       "name": "Savior",
       "url": "https://open.spotify.com/track/0oNrkWjdY3U8sZRJkcjbDP"
+    },
+    {
+      "added_at": "2022-01-28 05:01:00",
+      "album": {
+        "name": "Colors (Acoustic)",
+        "url": "https://open.spotify.com/album/6Mltcw41Ponx8agMEUPU5o"
+      },
+      "artists": [
+        {
+          "name": "Black Pumas",
+          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
+        }
+      ],
+      "duration_ms": 323008,
+      "name": "Colors - Acoustic",
+      "url": "https://open.spotify.com/track/7ubLP1DYpvxm4WMsRCKmmv"
     },
     {
       "added_at": "2022-07-26 14:55:05",
@@ -1069,20 +1085,20 @@
       "url": "https://open.spotify.com/track/2aOFeTEHfs2fXvzBtpdfni"
     },
     {
-      "added_at": "2022-01-28 05:01:00",
+      "added_at": "2022-05-27 04:03:00",
       "album": {
-        "name": "Colors (Acoustic)",
-        "url": "https://open.spotify.com/album/6Mltcw41Ponx8agMEUPU5o"
+        "name": "Down to the River",
+        "url": "https://open.spotify.com/album/3JiILntTtRreadH6W8ftB2"
       },
       "artists": [
         {
-          "name": "Black Pumas",
-          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
+          "name": "The War and Treaty",
+          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
         }
       ],
-      "duration_ms": 323008,
-      "name": "Colors - Acoustic",
-      "url": "https://open.spotify.com/track/7ubLP1DYpvxm4WMsRCKmmv"
+      "duration_ms": 231253,
+      "name": "Down to the River",
+      "url": "https://open.spotify.com/track/0tVw6rUAUI0w01PN9FQeyD"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -1103,18 +1119,18 @@
     {
       "added_at": "2022-05-27 04:03:00",
       "album": {
-        "name": "Down to the River",
-        "url": "https://open.spotify.com/album/3JiILntTtRreadH6W8ftB2"
+        "name": "When the Cellar Children See the Light of Day",
+        "url": "https://open.spotify.com/album/4RP8ZcEWH1tPoEdkaPf8KK"
       },
       "artists": [
         {
-          "name": "The War and Treaty",
-          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
+          "name": "Mirel Wagner",
+          "url": "https://open.spotify.com/artist/599W9qxs3LzkiiEmkoK6Kx"
         }
       ],
-      "duration_ms": 231253,
-      "name": "Down to the River",
-      "url": "https://open.spotify.com/track/0tVw6rUAUI0w01PN9FQeyD"
+      "duration_ms": 180077,
+      "name": "Oak Tree",
+      "url": "https://open.spotify.com/track/0H9gWRPB92lrwtjtQtdrwD"
     },
     {
       "added_at": "2022-01-28 05:01:00",
@@ -1133,22 +1149,6 @@
       "url": "https://open.spotify.com/track/3MLlB7G51LJaILSRUMfU2k"
     },
     {
-      "added_at": "2022-05-27 04:03:00",
-      "album": {
-        "name": "When the Cellar Children See the Light of Day",
-        "url": "https://open.spotify.com/album/4RP8ZcEWH1tPoEdkaPf8KK"
-      },
-      "artists": [
-        {
-          "name": "Mirel Wagner",
-          "url": "https://open.spotify.com/artist/599W9qxs3LzkiiEmkoK6Kx"
-        }
-      ],
-      "duration_ms": 180077,
-      "name": "Oak Tree",
-      "url": "https://open.spotify.com/track/0H9gWRPB92lrwtjtQtdrwD"
-    },
-    {
       "added_at": "2022-06-17 04:02:00",
       "album": {
         "name": "Made In Muscle Shoals Vol. 2",
@@ -1165,20 +1165,20 @@
       "url": "https://open.spotify.com/track/4TN7nQty1SvMEwNxOaug0b"
     },
     {
-      "added_at": "2022-05-27 04:03:00",
+      "added_at": "2022-01-28 05:01:00",
       "album": {
-        "name": "Witness",
-        "url": "https://open.spotify.com/album/3jkf9bFHemgq4Gt46DWBnY"
+        "name": "Healing Tide",
+        "url": "https://open.spotify.com/album/06UpUVi6uLrcg2kjlQoE5Q"
       },
       "artists": [
         {
-          "name": "Benjamin Booker",
-          "url": "https://open.spotify.com/artist/7mZgBMpvaBziYQfc9TbJH5"
+          "name": "The War and Treaty",
+          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
         }
       ],
-      "duration_ms": 234273,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/4nUXWGyJiovHzznNCQfqAW"
+      "duration_ms": 144106,
+      "name": "Love Like There's No Tomorrow",
+      "url": "https://open.spotify.com/track/0pom84iOS1iE0OCc1vWJBX"
     },
     {
       "added_at": "2022-01-28 05:01:00",
@@ -1195,6 +1195,22 @@
       "duration_ms": 248590,
       "name": "How Deep is Your Love",
       "url": "https://open.spotify.com/track/1JPgqiQrBREyuJTnbL7ON0"
+    },
+    {
+      "added_at": "2022-05-27 04:03:00",
+      "album": {
+        "name": "Witness",
+        "url": "https://open.spotify.com/album/3jkf9bFHemgq4Gt46DWBnY"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Booker",
+          "url": "https://open.spotify.com/artist/7mZgBMpvaBziYQfc9TbJH5"
+        }
+      ],
+      "duration_ms": 234273,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/4nUXWGyJiovHzznNCQfqAW"
     },
     {
       "added_at": "2022-01-28 05:01:00",
@@ -1231,22 +1247,6 @@
       "duration_ms": 130276,
       "name": "Knew The Day Was Comin'",
       "url": "https://open.spotify.com/track/2ozeYfDCDYipVRTENpgCnT"
-    },
-    {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
-        "name": "Healing Tide",
-        "url": "https://open.spotify.com/album/06UpUVi6uLrcg2kjlQoE5Q"
-      },
-      "artists": [
-        {
-          "name": "The War and Treaty",
-          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
-        }
-      ],
-      "duration_ms": 144106,
-      "name": "Love Like There's No Tomorrow",
-      "url": "https://open.spotify.com/track/0pom84iOS1iE0OCc1vWJBX"
     }
   ],
   "unique_name": "Blues Roots",

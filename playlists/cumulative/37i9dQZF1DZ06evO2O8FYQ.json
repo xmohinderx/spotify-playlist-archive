@@ -26,6 +26,24 @@
     },
     {
       "album": {
+        "name": "Eleven Eleven",
+        "url": "https://open.spotify.com/album/3PJteMhucKgoqwI5D9Xh4u"
+      },
+      "artists": [
+        {
+          "name": "Dinosaur Pile-Up",
+          "url": "https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220520,
+      "name": "Anxiety Trip",
+      "url": "https://open.spotify.com/track/10S4dYhylLT9ant8pjwJ0y"
+    },
+    {
+      "album": {
         "name": "Celebrity Mansions",
         "url": "https://open.spotify.com/album/3sWXuwJFtO7LkD4FPrJSFu"
       },
@@ -55,7 +73,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-20",
       "duration_ms": 168240,
       "name": "Bad Penny",
       "url": "https://open.spotify.com/track/0QdXCN2gjKlzCjrilt6iLG"

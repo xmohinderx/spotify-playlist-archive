@@ -1,12 +1,12 @@
 {
   "description": "The soundtrack to the internet. Cover: JELEEL!",
-  "num_followers": 1235447,
+  "num_followers": 1235828,
   "original_name": "Internet People",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMDIwZGIyOGIyNmQzMTIxNzBjMGExYzQwOTM1Mzc0NWVm",
+  "snapshot_id": "MTY2MzU5ODEwNCwwMDAwMDAwMDEwMzMxZGQ4ZDY1OGViZjU2ZDZiOTRiYTQ0MTljMjIz",
   "tracks": [
     {
       "added_at": "2022-09-09 04:00:00",
@@ -941,6 +941,22 @@
       "url": "https://open.spotify.com/track/2WxUIiq06XXPYWl9YcRJnD"
     },
     {
+      "added_at": "2022-09-19 14:35:04",
+      "album": {
+        "name": "Still Finessin'",
+        "url": "https://open.spotify.com/album/5o4hDlHnSv6EgaMe3f8c7q"
+      },
+      "artists": [
+        {
+          "name": "Nessly",
+          "url": "https://open.spotify.com/artist/6POMCYQE1sq1BJ8FnAvTA8"
+        }
+      ],
+      "duration_ms": 179135,
+      "name": "Giddy Up",
+      "url": "https://open.spotify.com/track/2G0sI8JvJnccz1p22SzLde"
+    },
+    {
       "added_at": "2022-06-17 17:10:01",
       "album": {
         "name": "Betty (Get Money)",
@@ -1199,30 +1215,6 @@
       "duration_ms": 169828,
       "name": "STATS",
       "url": "https://open.spotify.com/track/0w6webWdhjRKdqJ3DeGgM1"
-    },
-    {
-      "added_at": "2022-08-26 04:41:00",
-      "album": {
-        "name": "Milkshake",
-        "url": "https://open.spotify.com/album/6XpP7dGQxmgCqbcwXg89hN"
-      },
-      "artists": [
-        {
-          "name": "XANAKIN SKYWOK",
-          "url": "https://open.spotify.com/artist/2YHPVKeJcX02OyeNneU5v3"
-        },
-        {
-          "name": "Chills",
-          "url": "https://open.spotify.com/artist/2iGQPw6XUqFdGqAqcXihfT"
-        },
-        {
-          "name": "Yung Kage",
-          "url": "https://open.spotify.com/artist/7j8MiVdcaaVpUvhkXWwYDT"
-        }
-      ],
-      "duration_ms": 133224,
-      "name": "Milkshake",
-      "url": "https://open.spotify.com/track/2SMJs5sTVXfSoVsyi3dZVJ"
     },
     {
       "added_at": "2022-06-17 17:10:01",

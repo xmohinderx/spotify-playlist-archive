@@ -1,12 +1,12 @@
 {
   "description": "Check out the official playlist from Umbrella Academy. Watch now on Netflix. ",
-  "num_followers": 397107,
+  "num_followers": 397094,
   "original_name": "The Umbrella Academy Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjA3OTQ0NywwMDAwMDAwMDEyZjRmN2MzOGZhYjU1MGFhYjVmYTM2ZDU0MDMyZGFi",
+  "snapshot_id": "MTY1NjA3OTQ0NywwMDAwMDAwMDc0ODI5OGJiYzk0M2M2MDMwMTEzY2Q5NGM4MjBkY2E1",
   "tracks": [
     {
       "added_at": "2022-06-22 15:55:51",
@@ -859,18 +859,22 @@
     {
       "added_at": "2022-06-17 04:02:00",
       "album": {
-        "name": "The Hawk (Extended)",
-        "url": "https://open.spotify.com/album/3xJoOTCkExSEqCjs8rG8ss"
+        "name": "The Hawk",
+        "url": "https://open.spotify.com/album/6t08qdgCTaJV5CfUsTIuS4"
       },
       "artists": [
+        {
+          "name": "Joe Hunter",
+          "url": "https://open.spotify.com/artist/2pSgCWyN14Fl8zfCybIbkr"
+        },
         {
           "name": "Four Holidays",
           "url": "https://open.spotify.com/artist/0W87O5rwe9qdB7k3LieHgZ"
         }
       ],
-      "duration_ms": 141266,
+      "duration_ms": 135743,
       "name": "He Can't Love You",
-      "url": "https://open.spotify.com/track/0eZ2GOZGaDdsR5IXENExD1"
+      "url": "https://open.spotify.com/track/1ieNiEe17fvlHnqalSoKZB"
     },
     {
       "added_at": "2022-06-17 04:02:00",

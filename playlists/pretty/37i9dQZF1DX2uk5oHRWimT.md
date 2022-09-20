@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2uk5oHRWimT.md) - [plain]
 
 > Have yourself a little cozy Christmas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,849 likes - 131 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,846 likes - 131 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2uk5oHRWimT.md) - [plain]
 | 33 | [I Heard The Bells On Christmas Day](https://open.spotify.com/track/1qSBHo7rjtqYdd0XJB8ngq) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Holidays Rule](https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ) | 2:34 |
 | 34 | [Carol of the Bells](https://open.spotify.com/track/0ooZTbadcxB1rWlFjQVMmB) | [Caroline Pennell](https://open.spotify.com/artist/0cZPTEmf3mlwj5kjVXR4po) | [December Songs](https://open.spotify.com/album/7IM5ffEXH19ulqrB8k3M8y) | 1:57 |
 | 35 | [Jingle Your Bells](https://open.spotify.com/track/27Y92XmoFMVeVVwJhOWczE) | [Hush Kids](https://open.spotify.com/artist/4XzsOuqFltgBcdHF3RZQbh) | [Jingle Your Bells](https://open.spotify.com/album/0t6BIKhlVZHdKv4ocFmqr6) | 3:53 |
-| 36 | [Winter Wonderland](https://open.spotify.com/track/1Eb21hL7z70CSuqIgMufBf) | [The Sweeplings](https://open.spotify.com/artist/3fTedgf4fh8D3s41dP0HWt) | [Sorted Noise Records: A Holiday Album, Vol\. 1](https://open.spotify.com/album/08dRs9SE1pmfV5pmGZsCwt) | 3:10 |
+| 36 | [Winter Wonderland](https://open.spotify.com/track/4sA8dwT4MU0uUGPVLXVZhK) | [The Sweeplings](https://open.spotify.com/artist/3fTedgf4fh8D3s41dP0HWt) | [Sorted Noise Records: A Holiday Album, Vol\. 1](https://open.spotify.com/album/6x2knTjVr1yyrLXV23Rgwn) | 3:10 |
 | 37 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/177r7J6bnoMnW4MQx1GQng) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [The Christmas EP](https://open.spotify.com/album/7yjyuhHmTnwnqIMGYzWU1F) | 1:53 |
 | 38 | [Santa Baby](https://open.spotify.com/track/7xvlox2hXKaiZAtgKo1G8H) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [Baby It's Cold Outside](https://open.spotify.com/album/7scLrdjLUGo5VrGbbXXq8j) | 3:20 |
 | 39 | [Eskimo](https://open.spotify.com/track/2mKXnDtf8D8AAMNtgYcfQi) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [O](https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1) | 21:41 |
@@ -100,7 +100,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2uk5oHRWimT.md) - [plain]
 | 90 | [Christmas TV](https://open.spotify.com/track/3rY8Jrj9Kl1hOxQEy3q0KL) | [Slow Club](https://open.spotify.com/artist/75Kh0eqgzo9f43Dan1JzSV) | [Christmas Thanks For Nothing EP](https://open.spotify.com/album/5bQr6FKJIFGrUT8gduh3ue) | 4:32 |
 | 91 | [Have Yourself a Merry Little Christmas \- Live at the Mac](https://open.spotify.com/track/1WHRjzb9yzWvawfIQDvZln) | [Ciaran Lavery](https://open.spotify.com/artist/7zOuMHqRJ6YOMnCGpLfuTU) | [Have Yourself a Merry Little Christmas \(Live at the Mac\)](https://open.spotify.com/album/5CNa7ShStDgPpCNu6Firf8) | 4:10 |
 | 92 | [Christmas Song](https://open.spotify.com/track/05GBNU3wMadW9u9sBWSleI) | [Cocoon](https://open.spotify.com/artist/15h5B5quwDm2C1rhbtvUPD) | [Bands Under the Radar, Vol\. 3: A Very Indie Xmas](https://open.spotify.com/album/5h9XjfTvHmyyEguisaCi8F) | 3:11 |
-| 93 | [This December](https://open.spotify.com/track/03jjfF3WRY8cUOsf8yFIVw) | [Holley Maher](https://open.spotify.com/artist/3GDAPdQP9OYzIlhd7HkbJj) | [Sorted Noise Records: A Holiday Album, Vol\. 2](https://open.spotify.com/album/5Mj8SnxH6mYUdEIV7w6sbT) | 3:56 |
+| 93 | [This December](https://open.spotify.com/track/1SNpdbPokipmCJ8rTqbnrm) | [Holley Maher](https://open.spotify.com/artist/3GDAPdQP9OYzIlhd7HkbJj) | [Sorted Noise Records: A Holiday Album, Vol\. 2](https://open.spotify.com/album/18GWTfG4zqCiTR3mxtDwqY) | 3:56 |
 | 94 | [Silent Night \(feat\. Anais Mitchell\)](https://open.spotify.com/track/2Zrn4nySOKLYde7iQV7IfZ) | [Wintery Songs in Eleventy Part Harmony](https://open.spotify.com/artist/3b5m0W0Na4vkvStOKOe4El), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [Hark](https://open.spotify.com/album/2k1KzX9vOZ7z6LTTHuhA1L) | 1:55 |
 | 95 | [Holiday Road](https://open.spotify.com/track/7IcIV1aPl0myGMsfB13Mxd) | [Matt Pond PA](https://open.spotify.com/artist/3JVgWZxQa78cVa2cUuAUQ4) | [Winter Songs EP](https://open.spotify.com/album/18vxOALcuUFyKB2emCqiv2) | 3:38 |
 | 96 | [Christmas Kiss](https://open.spotify.com/track/3elTRcb0pkf3YtuMfYIghB) | [Jetty Rae](https://open.spotify.com/artist/2noDZGJxViSST2C5kyz3Gt) | [More Than December](https://open.spotify.com/album/7CENQCViYlqvmTj4GLGRE5) | 2:44 |
@@ -136,8 +136,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2uk5oHRWimT.md) - [plain]
 | 126 | [Christmas Is Coming Soon](https://open.spotify.com/track/4tJ2WB2yfkypZ9Ve15HmlI) | [Blitzen Trapper](https://open.spotify.com/artist/72XY3HrDdFfZXNZFCT9Zh1) | [I'll Stay 'Til After Christmas](https://open.spotify.com/album/0r1QQGClCxrfkcUKwsYEbu) | 3:03 |
 | 127 | [Green Grows The Holly](https://open.spotify.com/track/5P0cZ3i8YB7DFbVLXuuPeL) | [Calexico](https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ) | [Holidays Rule](https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ) | 3:59 |
 | 128 | [Hark the Herald Angels Sing](https://open.spotify.com/track/2N8BVmFo4kFqzkU0ipcSeO) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [A Neighborly Christmas](https://open.spotify.com/album/0ajvkNhkYG7yGdq0iQP4Z2) | 3:28 |
-| 129 | [Room by the Fire](https://open.spotify.com/track/5s9ykrtEtngjyTtvpUwtd8) | [Hannah Miller](https://open.spotify.com/artist/4cmbcY03AMf9h2krGBuucg) | [Sorted Noise Records: A Holiday Album, Vol\. 1](https://open.spotify.com/album/08dRs9SE1pmfV5pmGZsCwt) | 3:18 |
+| 129 | [Room by the Fire](https://open.spotify.com/track/2jOlAI3c4ubECAoO6ZMnM9) | [Hannah Miller](https://open.spotify.com/artist/4cmbcY03AMf9h2krGBuucg) | [Sorted Noise Records: A Holiday Album, Vol\. 1](https://open.spotify.com/album/6x2knTjVr1yyrLXV23Rgwn) | 3:18 |
 | 130 | [Christmas Wish](https://open.spotify.com/track/4juMWUhR22wHYG4MxxUdSp) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [A Very She & Him Christmas](https://open.spotify.com/album/3YrU19ATrTJinGwckoI5Dw) | 2:57 |
 | 131 | [What Are You Doing New Year’s Eve?](https://open.spotify.com/track/0SZim5k1ypcgRsWmFcrGfs) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Holidays Rule](https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ) | 4:28 |
 
-Snapshot ID: `MTYzNzMzNjk3MiwwMDAwMDAwMGQ3YWNiODk3MzY2NmI4ZjIxMGQzOTgxZTk1ZWZhZmM3`
+Snapshot ID: `MTYzNzMzNjk3MiwwMDAwMDAwMGIxMTAxYzM3YzNlYTNmNDU4YTg3MGMxZDk0OWU2MzE1`

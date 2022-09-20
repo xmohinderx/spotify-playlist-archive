@@ -1,12 +1,12 @@
 {
   "description": "H\u00e4r h\u00f6r du de b\u00e4sta svenska l\u00e5tarna just nu.",
-  "num_followers": 117403,
+  "num_followers": 117407,
   "original_name": "Made in Sweden",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzI3OTIwMCwwMDAwMDAwMGY5NGEzOWIwMDBkM2U3ZDc5ZjBiYjhmZTI1ZjliZjkw",
+  "snapshot_id": "MTY2MzI3OTIwMCwwMDAwMDAwMGFiZGNlODIwNmUxMjIzMGViYTBiZDU1ZDEwZWVkZGVl",
   "tracks": [
     {
       "added_at": "2022-09-15 22:00:00",
@@ -119,6 +119,22 @@
     {
       "added_at": "2022-09-15 22:00:00",
       "album": {
+        "name": "AREA 36",
+        "url": "https://open.spotify.com/album/5TtnZy1zAuJPcveJgGoHpP"
+      },
+      "artists": [
+        {
+          "name": "A36",
+          "url": "https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt"
+        }
+      ],
+      "duration_ms": 129985,
+      "name": "Samma gamla vanliga",
+      "url": "https://open.spotify.com/track/4wGFTaengFG4o6nYZAK1Xg"
+    },
+    {
+      "added_at": "2022-09-15 22:00:00",
+      "album": {
         "name": "Tusen g\u00e5nger om (feat. Newkid)",
         "url": "https://open.spotify.com/album/6MW4cZxYvBtl4ptt5cODZ2"
       },
@@ -135,22 +151,6 @@
       "duration_ms": 196800,
       "name": "Tusen g\u00e5nger om (feat. Newkid)",
       "url": "https://open.spotify.com/track/3EsUkO1XncklrPvQaabHaz"
-    },
-    {
-      "added_at": "2022-09-15 22:00:00",
-      "album": {
-        "name": "AREA 36",
-        "url": "https://open.spotify.com/album/5TtnZy1zAuJPcveJgGoHpP"
-      },
-      "artists": [
-        {
-          "name": "A36",
-          "url": "https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt"
-        }
-      ],
-      "duration_ms": 129985,
-      "name": "Samma gamla vanliga",
-      "url": "https://open.spotify.com/track/4wGFTaengFG4o6nYZAK1Xg"
     },
     {
       "added_at": "2022-09-15 22:00:00",
@@ -271,22 +271,6 @@
     {
       "added_at": "2022-09-15 22:00:00",
       "album": {
-        "name": "Du f\u00f6rtj\u00e4nar det",
-        "url": "https://open.spotify.com/album/3DFyVQhs7YYtmL1TmDgyRn"
-      },
-      "artists": [
-        {
-          "name": "Myra Granberg",
-          "url": "https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2"
-        }
-      ],
-      "duration_ms": 199657,
-      "name": "Du f\u00f6rtj\u00e4nar det",
-      "url": "https://open.spotify.com/track/3h9gue3M30OFKEEBKJXRjE"
-    },
-    {
-      "added_at": "2022-09-15 22:00:00",
-      "album": {
         "name": "Learning Experience",
         "url": "https://open.spotify.com/album/2oFo9ugJ7G6jRAGh1uX3Wp"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 192836,
       "name": "Miss The Party",
       "url": "https://open.spotify.com/track/1u70gXN0eulrXoeZEiIXyv"
+    },
+    {
+      "added_at": "2022-09-15 22:00:00",
+      "album": {
+        "name": "Du f\u00f6rtj\u00e4nar det",
+        "url": "https://open.spotify.com/album/3DFyVQhs7YYtmL1TmDgyRn"
+      },
+      "artists": [
+        {
+          "name": "Myra Granberg",
+          "url": "https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2"
+        }
+      ],
+      "duration_ms": 199657,
+      "name": "Du f\u00f6rtj\u00e4nar det",
+      "url": "https://open.spotify.com/track/3h9gue3M30OFKEEBKJXRjE"
     },
     {
       "added_at": "2022-09-15 22:00:00",
@@ -459,6 +459,26 @@
     {
       "added_at": "2022-09-15 22:00:00",
       "album": {
+        "name": "NOTED...EP",
+        "url": "https://open.spotify.com/album/6AMjHESQyOiW52JfQC8PEm"
+      },
+      "artists": [
+        {
+          "name": "NOTD",
+          "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
+        },
+        {
+          "name": "kenzie",
+          "url": "https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg"
+        }
+      ],
+      "duration_ms": 158104,
+      "name": "Worst Thing",
+      "url": "https://open.spotify.com/track/1gfDK5vVyqja5EI6O3MJO9"
+    },
+    {
+      "added_at": "2022-09-15 22:00:00",
+      "album": {
         "name": "Bara bby",
         "url": "https://open.spotify.com/album/3plhQIEFllsYNv708OaENV"
       },
@@ -471,22 +491,6 @@
       "duration_ms": 155026,
       "name": "Hon har dig",
       "url": "https://open.spotify.com/track/02twVAfoDG1podz5ns885c"
-    },
-    {
-      "added_at": "2022-09-15 22:00:00",
-      "album": {
-        "name": "Saknar inte dig",
-        "url": "https://open.spotify.com/album/7xHtg244xpRLKbGeAspT72"
-      },
-      "artists": [
-        {
-          "name": "ALMEA",
-          "url": "https://open.spotify.com/artist/0CtuSYu3T2MyMqfSoWThwW"
-        }
-      ],
-      "duration_ms": 158750,
-      "name": "Saknar inte dig",
-      "url": "https://open.spotify.com/track/41YY53HdPEnmqu7qlDEp0Y"
     },
     {
       "added_at": "2022-09-15 22:00:00",
@@ -511,6 +515,38 @@
     {
       "added_at": "2022-09-15 22:00:00",
       "album": {
+        "name": "Jag forts\u00e4tter gl\u00f6mma",
+        "url": "https://open.spotify.com/album/4jOlpTErg7vdKXH8A6JHWW"
+      },
+      "artists": [
+        {
+          "name": "Joakim Berg",
+          "url": "https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC"
+        }
+      ],
+      "duration_ms": 289613,
+      "name": "Aniara",
+      "url": "https://open.spotify.com/track/2etg8kht5wOz5BBWNCW7pv"
+    },
+    {
+      "added_at": "2022-09-15 22:00:00",
+      "album": {
+        "name": "Saknar inte dig",
+        "url": "https://open.spotify.com/album/7xHtg244xpRLKbGeAspT72"
+      },
+      "artists": [
+        {
+          "name": "ALMEA",
+          "url": "https://open.spotify.com/artist/0CtuSYu3T2MyMqfSoWThwW"
+        }
+      ],
+      "duration_ms": 158750,
+      "name": "Saknar inte dig",
+      "url": "https://open.spotify.com/track/41YY53HdPEnmqu7qlDEp0Y"
+    },
+    {
+      "added_at": "2022-09-15 22:00:00",
+      "album": {
         "name": "Till slutet av augusti (Live fr\u00e5n Benjamin's)",
         "url": "https://open.spotify.com/album/0wmrMW1NPeZvpPa3dKKypR"
       },
@@ -531,38 +567,18 @@
     {
       "added_at": "2022-09-15 22:00:00",
       "album": {
-        "name": "NOTED...EP",
-        "url": "https://open.spotify.com/album/6AMjHESQyOiW52JfQC8PEm"
+        "name": "I Feel It In The Wind",
+        "url": "https://open.spotify.com/album/1OedsPZaNzUJILkvivIYF7"
       },
       "artists": [
         {
-          "name": "NOTD",
-          "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
-        },
-        {
-          "name": "kenzie",
-          "url": "https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg"
+          "name": "Smith & Thell",
+          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
         }
       ],
-      "duration_ms": 158104,
-      "name": "Worst Thing",
-      "url": "https://open.spotify.com/track/1gfDK5vVyqja5EI6O3MJO9"
-    },
-    {
-      "added_at": "2022-09-15 22:00:00",
-      "album": {
-        "name": "Jag forts\u00e4tter gl\u00f6mma",
-        "url": "https://open.spotify.com/album/4jOlpTErg7vdKXH8A6JHWW"
-      },
-      "artists": [
-        {
-          "name": "Joakim Berg",
-          "url": "https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC"
-        }
-      ],
-      "duration_ms": 289613,
-      "name": "Aniara",
-      "url": "https://open.spotify.com/track/2etg8kht5wOz5BBWNCW7pv"
+      "duration_ms": 213717,
+      "name": "I Feel It In The Wind",
+      "url": "https://open.spotify.com/track/4bc5uke0uDwT78j0pIKlDg"
     },
     {
       "added_at": "2022-09-15 22:00:00",
@@ -631,22 +647,6 @@
     {
       "added_at": "2022-09-15 22:00:00",
       "album": {
-        "name": "Nu kan du f\u00e5 mig s\u00e5 l\u00e4tt - Spotify Singles",
-        "url": "https://open.spotify.com/album/6nk2QNkHLSyL8JsmqpgbHo"
-      },
-      "artists": [
-        {
-          "name": "Clara Klingenstr\u00f6m",
-          "url": "https://open.spotify.com/artist/3tl4Gc5RItD9lE6MJZGhLg"
-        }
-      ],
-      "duration_ms": 180787,
-      "name": "Nu kan du f\u00e5 mig s\u00e5 l\u00e4tt - Spotify Singles",
-      "url": "https://open.spotify.com/track/2yRw3fTBnpJKaa6AGHonZ9"
-    },
-    {
-      "added_at": "2022-09-15 22:00:00",
-      "album": {
         "name": "Korthus",
         "url": "https://open.spotify.com/album/08oifjJ5L0K7l2a7UaUKBN"
       },
@@ -667,6 +667,22 @@
       "duration_ms": 182720,
       "name": "Korthus",
       "url": "https://open.spotify.com/track/791sTulD9FqjjDlraYYIpT"
+    },
+    {
+      "added_at": "2022-09-15 22:00:00",
+      "album": {
+        "name": "Nu kan du f\u00e5 mig s\u00e5 l\u00e4tt - Spotify Singles",
+        "url": "https://open.spotify.com/album/6nk2QNkHLSyL8JsmqpgbHo"
+      },
+      "artists": [
+        {
+          "name": "Clara Klingenstr\u00f6m",
+          "url": "https://open.spotify.com/artist/3tl4Gc5RItD9lE6MJZGhLg"
+        }
+      ],
+      "duration_ms": 180787,
+      "name": "Nu kan du f\u00e5 mig s\u00e5 l\u00e4tt - Spotify Singles",
+      "url": "https://open.spotify.com/track/2yRw3fTBnpJKaa6AGHonZ9"
     },
     {
       "added_at": "2022-09-15 22:00:00",
@@ -719,22 +735,6 @@
     {
       "added_at": "2022-09-15 22:00:00",
       "album": {
-        "name": "I Feel It In The Wind",
-        "url": "https://open.spotify.com/album/1OedsPZaNzUJILkvivIYF7"
-      },
-      "artists": [
-        {
-          "name": "Smith & Thell",
-          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
-        }
-      ],
-      "duration_ms": 213717,
-      "name": "I Feel It In The Wind",
-      "url": "https://open.spotify.com/track/4bc5uke0uDwT78j0pIKlDg"
-    },
-    {
-      "added_at": "2022-09-15 22:00:00",
-      "album": {
         "name": "\u00c4ndstation",
         "url": "https://open.spotify.com/album/0nnNhppI9BUITKl6MxxH1K"
       },
@@ -771,22 +771,6 @@
     {
       "added_at": "2022-09-15 22:00:00",
       "album": {
-        "name": "MER",
-        "url": "https://open.spotify.com/album/3pKahzSD2oF35BNuc5i5Oi"
-      },
-      "artists": [
-        {
-          "name": "Cherrie",
-          "url": "https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW"
-        }
-      ],
-      "duration_ms": 153987,
-      "name": "MER",
-      "url": "https://open.spotify.com/track/0FHJmO5wdJsNUCNEkd5OZ3"
-    },
-    {
-      "added_at": "2022-09-15 22:00:00",
-      "album": {
         "name": "Bleeding",
         "url": "https://open.spotify.com/album/6lUWA3vDu8WIvd8TPGFKnO"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 206661,
       "name": "Bleeding",
       "url": "https://open.spotify.com/track/1IN8Lfkdh4t3BBIKNqwBDC"
+    },
+    {
+      "added_at": "2022-09-15 22:00:00",
+      "album": {
+        "name": "MER",
+        "url": "https://open.spotify.com/album/3pKahzSD2oF35BNuc5i5Oi"
+      },
+      "artists": [
+        {
+          "name": "Cherrie",
+          "url": "https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW"
+        }
+      ],
+      "duration_ms": 153987,
+      "name": "MER",
+      "url": "https://open.spotify.com/track/0FHJmO5wdJsNUCNEkd5OZ3"
     },
     {
       "added_at": "2022-09-15 22:00:00",
@@ -819,18 +819,18 @@
     {
       "added_at": "2022-09-15 22:00:00",
       "album": {
-        "name": "Barnsben",
-        "url": "https://open.spotify.com/album/55zicpqlSBKKt4fBSPfAH1"
+        "name": "Through The Fire",
+        "url": "https://open.spotify.com/album/5ys0NYUklEi3HDxZASpbaf"
       },
       "artists": [
         {
-          "name": "Julia Lov",
-          "url": "https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq"
+          "name": "Alex Alexander",
+          "url": "https://open.spotify.com/artist/1mJucMwGjnCatEdVk9eedj"
         }
       ],
-      "duration_ms": 214190,
-      "name": "Barnsben",
-      "url": "https://open.spotify.com/track/1e7NXnNHkQcJ4XHtE50qTe"
+      "duration_ms": 233746,
+      "name": "Through The Fire",
+      "url": "https://open.spotify.com/track/2ML88ePNxtALsVHzg3rLjK"
     },
     {
       "added_at": "2022-09-15 22:00:00",
@@ -867,18 +867,18 @@
     {
       "added_at": "2022-09-15 22:00:00",
       "album": {
-        "name": "Through The Fire",
-        "url": "https://open.spotify.com/album/5ys0NYUklEi3HDxZASpbaf"
+        "name": "Barnsben",
+        "url": "https://open.spotify.com/album/55zicpqlSBKKt4fBSPfAH1"
       },
       "artists": [
         {
-          "name": "Alex Alexander",
-          "url": "https://open.spotify.com/artist/1mJucMwGjnCatEdVk9eedj"
+          "name": "Julia Lov",
+          "url": "https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq"
         }
       ],
-      "duration_ms": 233746,
-      "name": "Through The Fire",
-      "url": "https://open.spotify.com/track/2ML88ePNxtALsVHzg3rLjK"
+      "duration_ms": 214190,
+      "name": "Barnsben",
+      "url": "https://open.spotify.com/track/1e7NXnNHkQcJ4XHtE50qTe"
     },
     {
       "added_at": "2022-09-15 22:00:00",
@@ -899,6 +899,22 @@
     {
       "added_at": "2022-09-15 22:00:00",
       "album": {
+        "name": "Sm\u00e4rtsamma minnen",
+        "url": "https://open.spotify.com/album/0YlLdI5yimLSxC4s0437hx"
+      },
+      "artists": [
+        {
+          "name": "Eah J\u00e9",
+          "url": "https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc"
+        }
+      ],
+      "duration_ms": 204170,
+      "name": "Sm\u00e4rtsamma minnen",
+      "url": "https://open.spotify.com/track/5aN4JPW9GD5TNjKnGjB09w"
+    },
+    {
+      "added_at": "2022-09-15 22:00:00",
+      "album": {
         "name": "Santiago",
         "url": "https://open.spotify.com/album/1WaSYY1PuUo1SteFBJSSJc"
       },
@@ -915,18 +931,18 @@
     {
       "added_at": "2022-09-15 22:00:00",
       "album": {
-        "name": "Sm\u00e4rtsamma minnen",
-        "url": "https://open.spotify.com/album/0YlLdI5yimLSxC4s0437hx"
+        "name": "Once in a While [smile]",
+        "url": "https://open.spotify.com/album/42htWiHQEafnwwNsiQev0s"
       },
       "artists": [
         {
-          "name": "Eah J\u00e9",
-          "url": "https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc"
+          "name": "Skott",
+          "url": "https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc"
         }
       ],
-      "duration_ms": 204170,
-      "name": "Sm\u00e4rtsamma minnen",
-      "url": "https://open.spotify.com/track/5aN4JPW9GD5TNjKnGjB09w"
+      "duration_ms": 179954,
+      "name": "Once in a While [smile]",
+      "url": "https://open.spotify.com/track/0KfZG5q5Dwzfkb1DItAczm"
     },
     {
       "added_at": "2022-09-15 22:00:00",
@@ -947,18 +963,18 @@
     {
       "added_at": "2022-09-15 22:00:00",
       "album": {
-        "name": "Once in a While [smile]",
-        "url": "https://open.spotify.com/album/42htWiHQEafnwwNsiQev0s"
+        "name": "Sommart\u00e5rar",
+        "url": "https://open.spotify.com/album/0HsAsAQ5yJvZv8W0ZNWGRY"
       },
       "artists": [
         {
-          "name": "Skott",
-          "url": "https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc"
+          "name": "Kvarteret",
+          "url": "https://open.spotify.com/artist/6xBSrouGcMUDnoibs8MnlE"
         }
       ],
-      "duration_ms": 179954,
-      "name": "Once in a While [smile]",
-      "url": "https://open.spotify.com/track/0KfZG5q5Dwzfkb1DItAczm"
+      "duration_ms": 200360,
+      "name": "Sommart\u00e5rar",
+      "url": "https://open.spotify.com/track/4Akl0wddDthblkIkdaLI1N"
     },
     {
       "added_at": "2022-09-15 22:00:00",
@@ -1011,22 +1027,6 @@
     {
       "added_at": "2022-09-15 22:00:00",
       "album": {
-        "name": "Sommart\u00e5rar",
-        "url": "https://open.spotify.com/album/0HsAsAQ5yJvZv8W0ZNWGRY"
-      },
-      "artists": [
-        {
-          "name": "Kvarteret",
-          "url": "https://open.spotify.com/artist/6xBSrouGcMUDnoibs8MnlE"
-        }
-      ],
-      "duration_ms": 200360,
-      "name": "Sommart\u00e5rar",
-      "url": "https://open.spotify.com/track/4Akl0wddDthblkIkdaLI1N"
-    },
-    {
-      "added_at": "2022-09-15 22:00:00",
-      "album": {
         "name": "Feels Like A Dream",
         "url": "https://open.spotify.com/album/4gyZv5JaaDicMnO1Ja3kBw"
       },
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2022-09-15 22:00:00",
       "album": {
-        "name": "Solen i G\u00f6teborg",
-        "url": "https://open.spotify.com/album/7E9VuqdK5Ol4jbUD0KgYfB"
-      },
-      "artists": [
-        {
-          "name": "Klaudy",
-          "url": "https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd"
-        }
-      ],
-      "duration_ms": 171600,
-      "name": "Solen i G\u00f6teborg",
-      "url": "https://open.spotify.com/track/6rnhvACYhoZRC0UVGGJikg"
-    },
-    {
-      "added_at": "2022-09-15 22:00:00",
-      "album": {
         "name": "S\u00e4g det som du menar det",
         "url": "https://open.spotify.com/album/2khYdwNQ1tuRDQOOtleqst"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 140973,
       "name": "S\u00e4g det som du menar det",
       "url": "https://open.spotify.com/track/1ZYsXA05ID62zPpnxlMPHj"
+    },
+    {
+      "added_at": "2022-09-15 22:00:00",
+      "album": {
+        "name": "Solen i G\u00f6teborg",
+        "url": "https://open.spotify.com/album/7E9VuqdK5Ol4jbUD0KgYfB"
+      },
+      "artists": [
+        {
+          "name": "Klaudy",
+          "url": "https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd"
+        }
+      ],
+      "duration_ms": 171600,
+      "name": "Solen i G\u00f6teborg",
+      "url": "https://open.spotify.com/track/6rnhvACYhoZRC0UVGGJikg"
     },
     {
       "added_at": "2022-09-15 22:00:00",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2022-09-15 22:00:00",
       "album": {
-        "name": "\u00c4R DU INTE TR\u00d6TT P\u00c5 ATT VARA DU?",
-        "url": "https://open.spotify.com/album/4D3HtYzfE4oQXrEODIQkmI"
-      },
-      "artists": [
-        {
-          "name": "BELL",
-          "url": "https://open.spotify.com/artist/2MnEe6M7ibhg3RAG0Ydtp4"
-        }
-      ],
-      "duration_ms": 179268,
-      "name": "\u00c4R DU INTE TR\u00d6TT P\u00c5 ATT VARA DU?",
-      "url": "https://open.spotify.com/track/459dyx2K2WuQRWxT3g8lwg"
-    },
-    {
-      "added_at": "2022-09-15 22:00:00",
-      "album": {
         "name": "T\u00e4nd alla ljus (Fr\u00e5n Benjamin's)",
         "url": "https://open.spotify.com/album/2N7xVJBwo7MaFhEukHMoDt"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 168000,
       "name": "T\u00e4nd alla ljus - Fr\u00e5n Benjamin's",
       "url": "https://open.spotify.com/track/06M8KfNJwdqxB9lLuPVt28"
+    },
+    {
+      "added_at": "2022-09-15 22:00:00",
+      "album": {
+        "name": "\u00c4R DU INTE TR\u00d6TT P\u00c5 ATT VARA DU?",
+        "url": "https://open.spotify.com/album/4D3HtYzfE4oQXrEODIQkmI"
+      },
+      "artists": [
+        {
+          "name": "BELL",
+          "url": "https://open.spotify.com/artist/2MnEe6M7ibhg3RAG0Ydtp4"
+        }
+      ],
+      "duration_ms": 179268,
+      "name": "\u00c4R DU INTE TR\u00d6TT P\u00c5 ATT VARA DU?",
+      "url": "https://open.spotify.com/track/459dyx2K2WuQRWxT3g8lwg"
     },
     {
       "added_at": "2022-09-15 22:00:00",
@@ -1259,18 +1259,18 @@
     {
       "added_at": "2022-09-15 22:00:00",
       "album": {
-        "name": "F\u00f6rst\u00e5r Det Nu",
-        "url": "https://open.spotify.com/album/0bZvMsk9hKtmw91qu6pqMp"
+        "name": "Say Something",
+        "url": "https://open.spotify.com/album/2mnXp1mWtGCdlCY4WlDVmR"
       },
       "artists": [
         {
-          "name": "INOMI",
-          "url": "https://open.spotify.com/artist/4y6IXL3FLmSLs4CCgpq5i2"
+          "name": "Ella Tiritiello",
+          "url": "https://open.spotify.com/artist/2Dpj2Fts5HbgdsjZ12khbp"
         }
       ],
-      "duration_ms": 232976,
-      "name": "F\u00f6rst\u00e5r Det Nu",
-      "url": "https://open.spotify.com/track/2HnE1eny50TK0PAm804LDy"
+      "duration_ms": 203039,
+      "name": "Say Something",
+      "url": "https://open.spotify.com/track/29jS36CANsKdfrlYzwbbJL"
     },
     {
       "added_at": "2022-09-15 22:00:00",
@@ -1291,18 +1291,18 @@
     {
       "added_at": "2022-09-15 22:00:00",
       "album": {
-        "name": "Say Something",
-        "url": "https://open.spotify.com/album/2mnXp1mWtGCdlCY4WlDVmR"
+        "name": "F\u00f6rst\u00e5r Det Nu",
+        "url": "https://open.spotify.com/album/0bZvMsk9hKtmw91qu6pqMp"
       },
       "artists": [
         {
-          "name": "Ella Tiritiello",
-          "url": "https://open.spotify.com/artist/2Dpj2Fts5HbgdsjZ12khbp"
+          "name": "INOMI",
+          "url": "https://open.spotify.com/artist/4y6IXL3FLmSLs4CCgpq5i2"
         }
       ],
-      "duration_ms": 203039,
-      "name": "Say Something",
-      "url": "https://open.spotify.com/track/29jS36CANsKdfrlYzwbbJL"
+      "duration_ms": 232976,
+      "name": "F\u00f6rst\u00e5r Det Nu",
+      "url": "https://open.spotify.com/track/2HnE1eny50TK0PAm804LDy"
     },
     {
       "added_at": "2022-09-15 22:00:00",
@@ -1355,6 +1355,26 @@
     {
       "added_at": "2022-09-15 22:00:00",
       "album": {
+        "name": "Bygga Nytt",
+        "url": "https://open.spotify.com/album/4ipVGk4eu3saiPXuN1firl"
+      },
+      "artists": [
+        {
+          "name": "Timbuktu",
+          "url": "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+        },
+        {
+          "name": "Sabina Ddumba",
+          "url": "https://open.spotify.com/artist/2Mp409M6EpFr3kGdQ1mwjS"
+        }
+      ],
+      "duration_ms": 220013,
+      "name": "Bygga Nytt",
+      "url": "https://open.spotify.com/track/2530kYkCKjqD2neMyPwPtp"
+    },
+    {
+      "added_at": "2022-09-15 22:00:00",
+      "album": {
         "name": "St\u00f6rre",
         "url": "https://open.spotify.com/album/1t9Y1lXxIG52p0x0oPeKcb"
       },
@@ -1383,22 +1403,6 @@
       "duration_ms": 141538,
       "name": "Ordning & Reda",
       "url": "https://open.spotify.com/track/7ALAfr3jpBnXKZ3g1hdlH3"
-    },
-    {
-      "added_at": "2022-09-15 22:00:00",
-      "album": {
-        "name": "Jag Lovar",
-        "url": "https://open.spotify.com/album/3iJQtcdLiYcD5R6bsQTVRm"
-      },
-      "artists": [
-        {
-          "name": "Norlie & KKV",
-          "url": "https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk"
-        }
-      ],
-      "duration_ms": 168750,
-      "name": "Jag Lovar",
-      "url": "https://open.spotify.com/track/7jKcsAaF79FqhuY9505G0i"
     },
     {
       "added_at": "2022-09-15 22:00:00",
@@ -1435,6 +1439,22 @@
     {
       "added_at": "2022-09-15 22:00:00",
       "album": {
+        "name": "Jag Lovar",
+        "url": "https://open.spotify.com/album/3iJQtcdLiYcD5R6bsQTVRm"
+      },
+      "artists": [
+        {
+          "name": "Norlie & KKV",
+          "url": "https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk"
+        }
+      ],
+      "duration_ms": 168750,
+      "name": "Jag Lovar",
+      "url": "https://open.spotify.com/track/7jKcsAaF79FqhuY9505G0i"
+    },
+    {
+      "added_at": "2022-09-15 22:00:00",
+      "album": {
         "name": "PART TWO",
         "url": "https://open.spotify.com/album/50r1BRsfeBhwmlCH2l4N1j"
       },
@@ -1451,22 +1471,6 @@
     {
       "added_at": "2022-09-15 22:00:00",
       "album": {
-        "name": "Och som vanligt h\u00e4nder det n\u00e5got hemskt",
-        "url": "https://open.spotify.com/album/7efvTTk8KIylfIuqBiFGXM"
-      },
-      "artists": [
-        {
-          "name": "Veronica Maggio",
-          "url": "https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs"
-        }
-      ],
-      "duration_ms": 200976,
-      "name": "Fint i m\u00f6rker",
-      "url": "https://open.spotify.com/track/5Ak1ub0g1FY6xopm1kaFNX"
-    },
-    {
-      "added_at": "2022-09-15 22:00:00",
-      "album": {
         "name": "Brev fr\u00e5n botten",
         "url": "https://open.spotify.com/album/0VOFmm3Q52uhN25LlCviJ2"
       },
@@ -1479,6 +1483,22 @@
       "duration_ms": 190915,
       "name": "Brev fr\u00e5n botten",
       "url": "https://open.spotify.com/track/1cAwcnrI8oYYC4B1MMrrdr"
+    },
+    {
+      "added_at": "2022-09-15 22:00:00",
+      "album": {
+        "name": "Och som vanligt h\u00e4nder det n\u00e5got hemskt",
+        "url": "https://open.spotify.com/album/7efvTTk8KIylfIuqBiFGXM"
+      },
+      "artists": [
+        {
+          "name": "Veronica Maggio",
+          "url": "https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs"
+        }
+      ],
+      "duration_ms": 200976,
+      "name": "Fint i m\u00f6rker",
+      "url": "https://open.spotify.com/track/5Ak1ub0g1FY6xopm1kaFNX"
     },
     {
       "added_at": "2022-09-15 22:00:00",
@@ -1515,26 +1535,6 @@
     {
       "added_at": "2022-09-15 22:00:00",
       "album": {
-        "name": "Bygga Nytt",
-        "url": "https://open.spotify.com/album/4ipVGk4eu3saiPXuN1firl"
-      },
-      "artists": [
-        {
-          "name": "Timbuktu",
-          "url": "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
-        },
-        {
-          "name": "Sabina Ddumba",
-          "url": "https://open.spotify.com/artist/2Mp409M6EpFr3kGdQ1mwjS"
-        }
-      ],
-      "duration_ms": 220013,
-      "name": "Bygga Nytt",
-      "url": "https://open.spotify.com/track/2530kYkCKjqD2neMyPwPtp"
-    },
-    {
-      "added_at": "2022-09-15 22:00:00",
-      "album": {
         "name": "Truth & Consequences",
         "url": "https://open.spotify.com/album/0UeGiO8l1r0HtBGmkkB9ic"
       },
@@ -1567,6 +1567,30 @@
       "duration_ms": 178213,
       "name": "Allt jag kan",
       "url": "https://open.spotify.com/track/7oBOc7PJvCvPTbwQEXgkBd"
+    },
+    {
+      "added_at": "2022-09-15 22:00:00",
+      "album": {
+        "name": "space / emma",
+        "url": "https://open.spotify.com/album/7zKoHoObscvApk5HXFMJi1"
+      },
+      "artists": [
+        {
+          "name": "yaeow",
+          "url": "https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH"
+        },
+        {
+          "name": "Ollie",
+          "url": "https://open.spotify.com/artist/5OyoCvyau6TiGqcCKnDBCR"
+        },
+        {
+          "name": "YOG$",
+          "url": "https://open.spotify.com/artist/22PiLADkpKIOBgYDt10UXI"
+        }
+      ],
+      "duration_ms": 168437,
+      "name": "space",
+      "url": "https://open.spotify.com/track/4nstXEMLPc7P3lZcGuHKUI"
     },
     {
       "added_at": "2022-09-15 22:00:00",
@@ -1635,22 +1659,6 @@
     {
       "added_at": "2022-09-15 22:00:00",
       "album": {
-        "name": "Inte en g\u00e5ng till",
-        "url": "https://open.spotify.com/album/0L8uwgD2s0AoXG4iJp1Xu7"
-      },
-      "artists": [
-        {
-          "name": "Jessica Bohlin",
-          "url": "https://open.spotify.com/artist/6xMt0bWYPTHNcCj1zL80VB"
-        }
-      ],
-      "duration_ms": 188689,
-      "name": "Inte en g\u00e5ng till",
-      "url": "https://open.spotify.com/track/6JD183FLGA6R4B0sYm2xiz"
-    },
-    {
-      "added_at": "2022-09-15 22:00:00",
-      "album": {
         "name": "PART TWO",
         "url": "https://open.spotify.com/album/50r1BRsfeBhwmlCH2l4N1j"
       },
@@ -1671,6 +1679,22 @@
     {
       "added_at": "2022-09-15 22:00:00",
       "album": {
+        "name": "Inte en g\u00e5ng till",
+        "url": "https://open.spotify.com/album/0L8uwgD2s0AoXG4iJp1Xu7"
+      },
+      "artists": [
+        {
+          "name": "Jessica Bohlin",
+          "url": "https://open.spotify.com/artist/6xMt0bWYPTHNcCj1zL80VB"
+        }
+      ],
+      "duration_ms": 188689,
+      "name": "Inte en g\u00e5ng till",
+      "url": "https://open.spotify.com/track/6JD183FLGA6R4B0sYm2xiz"
+    },
+    {
+      "added_at": "2022-09-15 22:00:00",
+      "album": {
         "name": "Stilla",
         "url": "https://open.spotify.com/album/4O3mvAJiHJU0oBP35n3q8x"
       },
@@ -1683,22 +1707,6 @@
       "duration_ms": 167803,
       "name": "Stilla",
       "url": "https://open.spotify.com/track/7G7XjX6ELRTtlIfvcpOgKj"
-    },
-    {
-      "added_at": "2022-09-15 22:00:00",
-      "album": {
-        "name": "Evergreen",
-        "url": "https://open.spotify.com/album/30Bd04g8i3ROlxhZVAoJjo"
-      },
-      "artists": [
-        {
-          "name": "Skott",
-          "url": "https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc"
-        }
-      ],
-      "duration_ms": 234420,
-      "name": "Evergreen",
-      "url": "https://open.spotify.com/track/6g4CJrBuZNnLPyVhEqPd62"
     }
   ],
   "unique_name": "Made in Sweden",

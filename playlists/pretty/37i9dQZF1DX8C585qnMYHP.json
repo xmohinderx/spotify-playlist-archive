@@ -1,12 +1,12 @@
 {
   "description": "The best new experimental music by independent artists and labels. Updates every Wednesday. Cover: Cameron Morse Artwork: Thami Nabil",
-  "num_followers": 91819,
+  "num_followers": 91847,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzEyODAwMCwwMDAwMDAwMGU5MTE2M2Y4YzU4YzU3NmI4OTA4NjYwZTI0MzI5ZDUw",
+  "snapshot_id": "MTY2MzEyODAwMCwwMDAwMDAwMDZlOWY1YzIyZjg2Zjg3ZTg5ZGJiNmNkNjJlMTVkN2I5",
   "tracks": [
     {
       "added_at": "2022-08-31 04:02:01",
@@ -337,22 +337,6 @@
       "url": "https://open.spotify.com/track/5azy9UxSBD7XKgL83HOJDN"
     },
     {
-      "added_at": "2022-08-24 01:37:13",
-      "album": {
-        "name": "Strawberry Moon",
-        "url": "https://open.spotify.com/album/2f7enrxh25CxKTecl5wfhi"
-      },
-      "artists": [
-        {
-          "name": "RUMTUM",
-          "url": "https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI"
-        }
-      ],
-      "duration_ms": 187200,
-      "name": "Strawberry Moon",
-      "url": "https://open.spotify.com/track/1l36C1nispFZoAkCFcrZ5j"
-    },
-    {
       "added_at": "2022-08-31 04:02:01",
       "album": {
         "name": "Endless Filament",
@@ -367,6 +351,22 @@
       "duration_ms": 937000,
       "name": "Endless Filament",
       "url": "https://open.spotify.com/track/2ST4AaDsvY9D15iZSJuMXj"
+    },
+    {
+      "added_at": "2022-08-24 01:37:13",
+      "album": {
+        "name": "Strawberry Moon",
+        "url": "https://open.spotify.com/album/2f7enrxh25CxKTecl5wfhi"
+      },
+      "artists": [
+        {
+          "name": "RUMTUM",
+          "url": "https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI"
+        }
+      ],
+      "duration_ms": 187200,
+      "name": "Strawberry Moon",
+      "url": "https://open.spotify.com/track/1l36C1nispFZoAkCFcrZ5j"
     },
     {
       "added_at": "2022-08-31 04:02:01",
@@ -437,22 +437,6 @@
       "url": "https://open.spotify.com/track/3yrogOJPrt7rbnpIdIPNIe"
     },
     {
-      "added_at": "2022-08-03 02:51:09",
-      "album": {
-        "name": "millennial falcon (episode I)",
-        "url": "https://open.spotify.com/album/2a7aAujN1kAEj3KsECBpc8"
-      },
-      "artists": [
-        {
-          "name": "ed leigh",
-          "url": "https://open.spotify.com/artist/2HvZdoZCKiZBlILDLOk0ge"
-        }
-      ],
-      "duration_ms": 194788,
-      "name": "30",
-      "url": "https://open.spotify.com/track/3h9BQoh0mAmm93aHINUprR"
-    },
-    {
       "added_at": "2022-07-27 14:53:59",
       "album": {
         "name": "Truffles Sprinkles",
@@ -467,6 +451,22 @@
       "duration_ms": 251333,
       "name": "Truffles Sprinkles",
       "url": "https://open.spotify.com/track/6IcvrVg1YFoLGH6mcuZtZL"
+    },
+    {
+      "added_at": "2022-08-03 02:51:09",
+      "album": {
+        "name": "millennial falcon (episode I)",
+        "url": "https://open.spotify.com/album/2a7aAujN1kAEj3KsECBpc8"
+      },
+      "artists": [
+        {
+          "name": "ed leigh",
+          "url": "https://open.spotify.com/artist/2HvZdoZCKiZBlILDLOk0ge"
+        }
+      ],
+      "duration_ms": 194788,
+      "name": "30",
+      "url": "https://open.spotify.com/track/3h9BQoh0mAmm93aHINUprR"
     },
     {
       "added_at": "2022-08-03 03:56:48",
@@ -597,38 +597,6 @@
       "url": "https://open.spotify.com/track/76NPiAAkI1o5pj0HsZ4zvt"
     },
     {
-      "added_at": "2022-08-03 02:51:09",
-      "album": {
-        "name": "For You Only",
-        "url": "https://open.spotify.com/album/5xpcLzvU7tdIkDkRwrTEJr"
-      },
-      "artists": [
-        {
-          "name": "Isa Gordon",
-          "url": "https://open.spotify.com/artist/2dA8VFOWjWex4ypqqepKwH"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "Second Love",
-      "url": "https://open.spotify.com/track/0jaYsfrSaAGb4d81qE5APl"
-    },
-    {
-      "added_at": "2022-08-10 04:00:00",
-      "album": {
-        "name": "Aura",
-        "url": "https://open.spotify.com/album/1CtdQTfP0DzM3GJA95Po52"
-      },
-      "artists": [
-        {
-          "name": "Hatis Noit",
-          "url": "https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY"
-        }
-      ],
-      "duration_ms": 517362,
-      "name": "Inori",
-      "url": "https://open.spotify.com/track/3MXcm06AFDryFxJR7w21OP"
-    },
-    {
       "added_at": "2022-08-31 04:02:01",
       "album": {
         "name": "J\u00e4rnn\u00e4tter",
@@ -661,20 +629,20 @@
       "url": "https://open.spotify.com/track/3oq0aWZCAdIfc4ERvILzxm"
     },
     {
-      "added_at": "2022-08-24 01:37:13",
+      "added_at": "2022-08-03 02:51:09",
       "album": {
-        "name": "you're always with me",
-        "url": "https://open.spotify.com/album/1AvX14kEvlBKmWAsyTM4id"
+        "name": "For You Only",
+        "url": "https://open.spotify.com/album/5xpcLzvU7tdIkDkRwrTEJr"
       },
       "artists": [
         {
-          "name": "innerinnerlife",
-          "url": "https://open.spotify.com/artist/3SJn3wuHQGbKFT0vDKT3Yo"
+          "name": "Isa Gordon",
+          "url": "https://open.spotify.com/artist/2dA8VFOWjWex4ypqqepKwH"
         }
       ],
-      "duration_ms": 248934,
-      "name": "you're always with me",
-      "url": "https://open.spotify.com/track/5AXa5jxDOTBTLiTdZJcjvP"
+      "duration_ms": 182400,
+      "name": "Second Love",
+      "url": "https://open.spotify.com/track/0jaYsfrSaAGb4d81qE5APl"
     },
     {
       "added_at": "2022-09-07 04:00:00",
@@ -695,6 +663,38 @@
       "duration_ms": 197142,
       "name": "UMMA - Arssalendo Remix",
       "url": "https://open.spotify.com/track/6Zdz3j652H8aYnfR4IcYK0"
+    },
+    {
+      "added_at": "2022-08-24 01:37:13",
+      "album": {
+        "name": "you're always with me",
+        "url": "https://open.spotify.com/album/1AvX14kEvlBKmWAsyTM4id"
+      },
+      "artists": [
+        {
+          "name": "innerinnerlife",
+          "url": "https://open.spotify.com/artist/3SJn3wuHQGbKFT0vDKT3Yo"
+        }
+      ],
+      "duration_ms": 248934,
+      "name": "you're always with me",
+      "url": "https://open.spotify.com/track/5AXa5jxDOTBTLiTdZJcjvP"
+    },
+    {
+      "added_at": "2022-08-10 04:00:00",
+      "album": {
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/1CtdQTfP0DzM3GJA95Po52"
+      },
+      "artists": [
+        {
+          "name": "Hatis Noit",
+          "url": "https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY"
+        }
+      ],
+      "duration_ms": 517362,
+      "name": "Inori",
+      "url": "https://open.spotify.com/track/3MXcm06AFDryFxJR7w21OP"
     },
     {
       "added_at": "2022-08-24 01:37:13",

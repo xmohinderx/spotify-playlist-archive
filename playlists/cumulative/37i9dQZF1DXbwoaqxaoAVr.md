@@ -4,7 +4,7 @@
 
 > Pop style reggae for a sunny vibe!
 
-114 songs - 7 hr 11 min - [published](https://open.spotify.com/playlist/6OON8IP5XzEqV1CYjtEBCy)
+115 songs - 7 hr 15 min - [published](https://open.spotify.com/playlist/6OON8IP5XzEqV1CYjtEBCy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,8 @@
 | [Make Love](https://open.spotify.com/track/0FQJrnW7nH6P2LJsPk4aqX) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Look For The Good](https://open.spotify.com/album/1PuBipBX8qqeUN3FOPIexs) | 5:35 | 2021-11-25 |  |
 | [Monde de fous](https://open.spotify.com/track/2c8SxnR1Y9m7v5WnpfaoZp) | [Danakil](https://open.spotify.com/artist/52MTyKpEJBAnWj1oVNYGTj) | [Monde de fous](https://open.spotify.com/album/4FB0GAPMr9qkmJoSBuq4kW) | 3:54 | 2021-11-25 | 2022-04-29 |
 | [Morning Is Coming \(with Shaggy\)](https://open.spotify.com/track/1MIoqrkFISWV3q3JvifC4S) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk), [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij) | [44/876 \(Deluxe\)](https://open.spotify.com/album/1CoVw7saic0ozYSDTeQ26l) | 3:11 | 2021-11-25 |  |
-| [Mr Reggae](https://open.spotify.com/track/1Wu67nQXx74tc8PTax63zK) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [Mr Reggae](https://open.spotify.com/album/17HsgjR6rhYGnDFsJVdiQw) | 3:04 | 2021-11-25 |  |
+| [Mr Reggae](https://open.spotify.com/track/1Wu67nQXx74tc8PTax63zK) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [Mr Reggae](https://open.spotify.com/album/17HsgjR6rhYGnDFsJVdiQw) | 3:04 | 2021-11-25 | 2022-09-20 |
+| [Mr Reggae](https://open.spotify.com/track/7dGsBUADSyHoD7zdkKi9Ef) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B V](https://open.spotify.com/album/52O3QyngsXELzoDyyIsZuQ) | 3:04 | 2022-09-15 |  |
 | [My World Is Empty Without You](https://open.spotify.com/track/2f5l3dzeD2KMTZJDxo3wZP) | [Ben L'Oncle Soul](https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK) | [Red Mango](https://open.spotify.com/album/3GbXwZCsddzlFF4QPLzS0E) | 4:39 | 2022-04-14 |  |
 | [New World \(with Matisyahu, Bumpin Uglies, & The Elovaters\)](https://open.spotify.com/track/1uvhSFCX6bQrbLIWhQsWiQ) | [Tropidelic](https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl), [Matisyahu](https://open.spotify.com/artist/5eyMzR1hYiEZtN2c9ly2kw), [The Elovaters](https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3), [Bumpin Uglies](https://open.spotify.com/artist/2q0PlZJNGryR467EUNmWn7) | [New World \(with Matisyahu, Bumpin Uglies, & The Elovaters\)](https://open.spotify.com/album/71E4rQgy2LBt3dkGU9hOsr) | 3:59 | 2021-11-25 | 2022-03-18 |
 | [Night Nurse](https://open.spotify.com/track/4DQttwipnILl88cru3BRZx) | [Gregory Isaacs](https://open.spotify.com/artist/6QHu71f8LLeT8n0GzfbYFc) | [Night Nurse \(Expanded Edition\)](https://open.spotify.com/album/2HEXjNNUSOwBmhyaEXG5yx) | 4:09 | 2021-11-25 |  |

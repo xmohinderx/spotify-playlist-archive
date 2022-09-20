@@ -2,9 +2,9 @@
 
 ### [Norteño 2022](https://open.spotify.com/playlist/37i9dQZF1DWUvLASFobxmI)
 
-> Bravías, románticas y rancheras, las mejores canciones norteñas\. Grupo Arriesgado en portada.
+> Bravías, románticas y rancheras, las mejores canciones norteñas\. Los Dos Carnales en portada.
 
-156 songs - 8 hr 27 min - [published](https://open.spotify.com/playlist/4CWnohjaUvTAEcQVufM78y)
+157 songs - 8 hr 31 min - [published](https://open.spotify.com/playlist/4CWnohjaUvTAEcQVufM78y)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [La Miche](https://open.spotify.com/track/5qyaHfrDEredbekaDs3PZk) | [Secretto](https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ) | [La Miche](https://open.spotify.com/album/5VAP6Y5ff8BBPflsMV77fS) | 4:09 | 2022-07-01 |  |
 | [La Muchacha del Salado "la Nicholette" \- En Vivo](https://open.spotify.com/track/1CIm69POXMEVdDhT1tmE2I) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Puras de Servando, Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/4qJsTs0meLzRDbZNIGd5dX) | 2:44 | 2022-06-03 |  |
 | [La Pregunta del Millón](https://open.spotify.com/track/6IEo2pVIGEwGd5ZL2ffiR0) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Boleros de Hoy](https://open.spotify.com/album/7HG8mHWv4u3KBrzRfiMjox) | 3:23 | 2022-07-01 |  |
+| [La Siembra](https://open.spotify.com/track/14VOqso0CLZIowdMAWT4nH) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Corridos Para Valientes, Vol.1](https://open.spotify.com/album/7mGVKM49bCCwGshz1kEOLl) | 3:54 | 2022-09-19 |  |
 | [La Vieja Escuela](https://open.spotify.com/track/7LCcSgOoFtUnfmG3kxzQ9F) | [4 de a Caballo](https://open.spotify.com/artist/41JHmI3S4Jo07FN7oXyeMI), [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [La Vieja Escuela](https://open.spotify.com/album/1LcpnxXXFkmQ8evfFaUIXz) | 3:11 | 2022-07-01 | 2022-08-06 |
 | [La Última y Nos Vamos](https://open.spotify.com/track/3CqT8gjOHWBDaJ7yp4QtFb) | [Leandro Ríos](https://open.spotify.com/artist/1FEYq0PPuI50GJRqKKPT6w) | [La Última y Nos Vamos](https://open.spotify.com/album/6FrH1j5lnmSaYUoAkVCQRU) | 2:36 | 2022-07-01 |  |
 | [Las Dos Cruces](https://open.spotify.com/track/3smZXzA9dK9vtp8FCdmcWu) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr), [Diferente Nivel](https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0) | [Las Dos Cruces](https://open.spotify.com/album/03bmyBTbfySmUISLdPPdMj) | 4:05 | 2022-07-01 | 2022-09-03 |
@@ -100,7 +101,7 @@
 | [Me Dicen Nini](https://open.spotify.com/track/6E3InxDzcHJG7Pe4HrgxkV) | [Beto Vega](https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak), [Markitos Toys](https://open.spotify.com/artist/48WE0w9PUfMlgMLJhNcX8g) | [Me Dicen Nini](https://open.spotify.com/album/6i5PLMwllcPA7fyJSt4kf5) | 3:35 | 2022-07-01 |  |
 | [Me Sigue Calando](https://open.spotify.com/track/0sZQt1LXwOCvU6gV8g49NJ) | [Pesado](https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK) | [Me Sigue Calando](https://open.spotify.com/album/4QPL4paAZ5gUX4hRs8kXah) | 3:11 | 2022-07-01 | 2022-08-02 |
 | [Me Sigue Calando](https://open.spotify.com/track/3nDuiLZyyMDIN65BovPoOW) | [Pesado](https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK) | [Me Sigue Calando](https://open.spotify.com/album/5urZD6RWXz5rH2yJDDDQLA) | 3:11 | 2022-07-01 | 2022-07-29 |
-| [Mi Historia](https://open.spotify.com/track/0yj2kjBVyzV4uuFolZf6t5) | [Palomo](https://open.spotify.com/artist/27plYDXNJSOD084j39Lmlj) | [Mi Historia](https://open.spotify.com/album/1zJhuy5sDc94mjr96UG9hD) | 2:52 | 2022-09-02 |  |
+| [Mi Historia](https://open.spotify.com/track/0yj2kjBVyzV4uuFolZf6t5) | [Palomo](https://open.spotify.com/artist/27plYDXNJSOD084j39Lmlj) | [Mi Historia](https://open.spotify.com/album/1zJhuy5sDc94mjr96UG9hD) | 2:52 | 2022-09-02 | 2022-09-20 |
 | [Mi Padre \(Versión Acústica\)](https://open.spotify.com/track/5PyKNGmzN7zyEEC61muPA8) | [Gera Demara](https://open.spotify.com/artist/4XYbaR6YgnY4Nb6kz250cu) | [Mi Padre \(Versión Acústica\)](https://open.spotify.com/album/3s9uOOgCgsAFPfw8lZeWmq) | 3:18 | 2022-07-01 | 2022-07-28 |
 | [Mi Trokita Cumbia](https://open.spotify.com/track/0TwWnaZ6JGfVuN4iZq2BzJ) | [Obzesion](https://open.spotify.com/artist/38b0HYhJsCesXvtdCbRCRS) | [Mi Trokita Cumbia](https://open.spotify.com/album/0tMsvi0IzNyRZFqF9qeFCz) | 2:14 | 2022-07-01 |  |
 | [Mundo De Amor](https://open.spotify.com/track/6WjokN1zbNGTNsBkzBd9gd) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Mundo De Amor](https://open.spotify.com/album/4j3lGLBvF4xIcIvRtavqUt) | 2:49 | 2022-07-01 |  |

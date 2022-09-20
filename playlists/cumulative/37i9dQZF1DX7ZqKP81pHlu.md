@@ -4,7 +4,7 @@
 
 > The sweet sounds of Algeria.
 
-82 songs - 4 hr 56 min - [published](https://open.spotify.com/playlist/3fsBErBFxBgQOhLwfmS0nf)
+83 songs - 4 hr 59 min - [published](https://open.spotify.com/playlist/3fsBErBFxBgQOhLwfmS0nf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,8 @@
 | [GHAZALI](https://open.spotify.com/track/1SYjg4Ff4aGzZVJKfK7OEA) | [MOUHAMED GRINE](https://open.spotify.com/artist/5Sj8EjR3eENxsr4Tgv9OGh), [Mouh Milano](https://open.spotify.com/artist/1a4431ATLSQ5Rgq8Rr6sFj) | [GHAZALI](https://open.spotify.com/album/6q4ADoh3h7OHkFJsCFcx6l) | 3:16 | 2022-08-19 |  |
 | [Ghouyoum](https://open.spotify.com/track/1AXZnMghQkWIF2kMDwrRG7) | [Djouher](https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D) | [Ghouyoum](https://open.spotify.com/album/5C7TNv7NdJ8UPHx4QAnYqB) | 2:52 | 2022-07-18 |  |
 | [Harba II](https://open.spotify.com/track/33xn4wz62RtdIyR1sx8BJa) | [Abdou hk](https://open.spotify.com/artist/3B344rrWCr0O5ogBKZeO59), [Youppi](https://open.spotify.com/artist/4HXhayOs3iuWCczTsLQOIX) | [Harba II](https://open.spotify.com/album/5zaQM2mwAYci2aCZKLvTjq) | 3:22 | 2021-12-09 |  |
-| [Juliana](https://open.spotify.com/track/1nnTJkIOWw6GAdsQapQgsD) | [Fyanso](https://open.spotify.com/artist/28I9J1TfdmN27XgRPhnmQe) | [Juliana](https://open.spotify.com/album/12cEHJk2Xga5QRVh7M8l1G) | 3:14 | 2022-08-22 |  |
+| [Hinata](https://open.spotify.com/track/5lugweLS17EVHmhXuNZOrC) | [TIF](https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH) | [Hinata](https://open.spotify.com/album/2xE8FXQ3WU30oqhV1H7Q4p) | 2:55 | 2022-09-19 |  |
+| [Juliana](https://open.spotify.com/track/1nnTJkIOWw6GAdsQapQgsD) | [Fyanso](https://open.spotify.com/artist/28I9J1TfdmN27XgRPhnmQe) | [Juliana](https://open.spotify.com/album/12cEHJk2Xga5QRVh7M8l1G) | 3:14 | 2022-08-22 | 2022-09-20 |
 | [Jwabi](https://open.spotify.com/track/0HWqu8kIr5iitYHd62RkJH) | [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF), [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX), [Fouzi Torino](https://open.spotify.com/artist/6Q2qtUONsXPfBKMhpOesiv) | [Atlantis](https://open.spotify.com/album/0AYqFxV365fsq7rVnW9nt0) | 4:22 | 2021-12-09 |  |
 | [Kelthoum](https://open.spotify.com/track/7L5ZaHH54rkruo8N08vEf4) | [Nacim El Bey](https://open.spotify.com/artist/7DfSR1McqGpS5b7o1NSl5u) | [Kelthoum](https://open.spotify.com/album/0RyIS8LW7g75acJI2z0Ege) | 3:45 | 2021-12-09 | 2022-06-03 |
 | [Khaled](https://open.spotify.com/track/1Va5ggNuXUoCQpCPHd40Gt) | [Ihan](https://open.spotify.com/artist/0RVR0TMGf3tNszGwldUu6O), [Twelve](https://open.spotify.com/artist/5zQrcUTf7m5hTwoOdXuk6E) | [Khaled](https://open.spotify.com/album/5O5XPPemXBy0AS3XrP8EZU) | 3:38 | 2021-12-09 | 2022-03-11 |

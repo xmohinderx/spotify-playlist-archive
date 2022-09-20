@@ -1,12 +1,12 @@
 {
   "description": "Psychedelic beat science.",
-  "num_followers": 308745,
+  "num_followers": 309044,
   "original_name": "Trip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDIzNzc5MiwwMDAwMDAwMDk4OWZhMDg2YThkODE4ODZhZmJmYmQyZjFmZTBkYTM5",
+  "snapshot_id": "MTY2MDIzNzc5MiwwMDAwMDAwMDk0ZGQ2OGE1MmQxNzU4ZTRiZmJmOGQwYzU2ZTJiOGNk",
   "tracks": [
     {
       "added_at": "2021-06-25 10:16:08",
@@ -107,26 +107,6 @@
     {
       "added_at": "2021-06-25 10:16:08",
       "album": {
-        "name": "Protection",
-        "url": "https://open.spotify.com/album/5CnZjFfPDmxOX7KnWLLqpC"
-      },
-      "artists": [
-        {
-          "name": "Massive Attack",
-          "url": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
-        },
-        {
-          "name": "Tracey Thorn",
-          "url": "https://open.spotify.com/artist/7xFnmid57ZE6iWEXdEXO3b"
-        }
-      ],
-      "duration_ms": 471560,
-      "name": "Protection",
-      "url": "https://open.spotify.com/track/3kKVqFF4pv4EXeQe428zl2"
-    },
-    {
-      "added_at": "2021-06-25 10:16:08",
-      "album": {
         "name": "A Grand Love Story",
         "url": "https://open.spotify.com/album/6R1VyRo1cFv2JDC1diCkPS"
       },
@@ -155,6 +135,26 @@
       "duration_ms": 298373,
       "name": "Midnight In A Perfect World",
       "url": "https://open.spotify.com/track/1z6zJqayfsAiiYtQ3minb7"
+    },
+    {
+      "added_at": "2021-06-25 10:16:08",
+      "album": {
+        "name": "Protection",
+        "url": "https://open.spotify.com/album/5CnZjFfPDmxOX7KnWLLqpC"
+      },
+      "artists": [
+        {
+          "name": "Massive Attack",
+          "url": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
+        },
+        {
+          "name": "Tracey Thorn",
+          "url": "https://open.spotify.com/artist/7xFnmid57ZE6iWEXdEXO3b"
+        }
+      ],
+      "duration_ms": 471560,
+      "name": "Protection",
+      "url": "https://open.spotify.com/track/3kKVqFF4pv4EXeQe428zl2"
     },
     {
       "added_at": "2021-06-25 10:16:08",
@@ -243,6 +243,22 @@
     {
       "added_at": "2021-06-25 10:16:08",
       "album": {
+        "name": "Endtroducing.....",
+        "url": "https://open.spotify.com/album/4wvqGLk1HThPA0b5lzRK2l"
+      },
+      "artists": [
+        {
+          "name": "DJ Shadow",
+          "url": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
+        }
+      ],
+      "duration_ms": 399026,
+      "name": "Building Steam With A Grain Of Salt",
+      "url": "https://open.spotify.com/track/4cucslsiEgezV2o900Ykg3"
+    },
+    {
+      "added_at": "2021-06-25 10:16:08",
+      "album": {
         "name": "A New Stereophonic Sound Spectacular",
         "url": "https://open.spotify.com/album/6FFKUYyfC9S8fDy725qLAq"
       },
@@ -255,22 +271,6 @@
       "duration_ms": 284293,
       "name": "2 Wicky",
       "url": "https://open.spotify.com/track/4NyKEVldCvokxpmeFBNNXI"
-    },
-    {
-      "added_at": "2021-06-25 10:16:08",
-      "album": {
-        "name": "Protection",
-        "url": "https://open.spotify.com/album/5CnZjFfPDmxOX7KnWLLqpC"
-      },
-      "artists": [
-        {
-          "name": "Massive Attack",
-          "url": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
-        }
-      ],
-      "duration_ms": 316440,
-      "name": "Karmacoma",
-      "url": "https://open.spotify.com/track/46bTgJAQkrkNRxMuFnpRyD"
     },
     {
       "added_at": "2021-06-25 10:16:08",
@@ -291,18 +291,34 @@
     {
       "added_at": "2021-06-25 10:16:08",
       "album": {
-        "name": "Endtroducing.....",
-        "url": "https://open.spotify.com/album/4wvqGLk1HThPA0b5lzRK2l"
+        "name": "Hi Scores",
+        "url": "https://open.spotify.com/album/3FabCzGQgFLqkCqzceB5ii"
       },
       "artists": [
         {
-          "name": "DJ Shadow",
-          "url": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
         }
       ],
-      "duration_ms": 399026,
-      "name": "Building Steam With A Grain Of Salt",
-      "url": "https://open.spotify.com/track/4cucslsiEgezV2o900Ykg3"
+      "duration_ms": 423933,
+      "name": "Everything You Do Is A Balloon",
+      "url": "https://open.spotify.com/track/4OO2lavE7yz5Ane6fEYXp3"
+    },
+    {
+      "added_at": "2021-06-25 10:16:08",
+      "album": {
+        "name": "Protection",
+        "url": "https://open.spotify.com/album/5CnZjFfPDmxOX7KnWLLqpC"
+      },
+      "artists": [
+        {
+          "name": "Massive Attack",
+          "url": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
+        }
+      ],
+      "duration_ms": 316440,
+      "name": "Karmacoma",
+      "url": "https://open.spotify.com/track/46bTgJAQkrkNRxMuFnpRyD"
     },
     {
       "added_at": "2021-06-25 10:16:08",
@@ -323,22 +339,6 @@
     {
       "added_at": "2021-06-25 10:16:08",
       "album": {
-        "name": "Hi Scores",
-        "url": "https://open.spotify.com/album/3FabCzGQgFLqkCqzceB5ii"
-      },
-      "artists": [
-        {
-          "name": "Boards of Canada",
-          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
-        }
-      ],
-      "duration_ms": 423933,
-      "name": "Everything You Do Is A Balloon",
-      "url": "https://open.spotify.com/track/4OO2lavE7yz5Ane6fEYXp3"
-    },
-    {
-      "added_at": "2021-06-25 10:16:08",
-      "album": {
         "name": "G-Stoned",
         "url": "https://open.spotify.com/album/4AKnOEd9fx1pj36xAq5eUN"
       },
@@ -351,22 +351,6 @@
       "duration_ms": 386266,
       "name": "High Noon",
       "url": "https://open.spotify.com/track/0oP2XkRvW12u8gCxpBfVVU"
-    },
-    {
-      "added_at": "2021-06-25 10:16:08",
-      "album": {
-        "name": "Blue Lines (2012 Mix/Master)",
-        "url": "https://open.spotify.com/album/5mAPk4qeNqVLtNydaWbWlf"
-      },
-      "artists": [
-        {
-          "name": "Massive Attack",
-          "url": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
-        }
-      ],
-      "duration_ms": 261826,
-      "name": "Blue Lines - 2012 Mix/Master",
-      "url": "https://open.spotify.com/track/4tVhBXOhSlqYCL2IjyoUNu"
     },
     {
       "added_at": "2021-06-25 10:16:08",
@@ -403,6 +387,22 @@
     {
       "added_at": "2021-06-25 10:16:08",
       "album": {
+        "name": "In A Beautiful Place Out In The Country",
+        "url": "https://open.spotify.com/album/2DcU3XHY41Z1InXHNkiJWe"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "duration_ms": 367480,
+      "name": "In A Beautiful Place Out In The Country",
+      "url": "https://open.spotify.com/track/1ilA1w8ewwREeAEHY2rqKa"
+    },
+    {
+      "added_at": "2021-06-25 10:16:08",
+      "album": {
         "name": "Let Us Play",
         "url": "https://open.spotify.com/album/06WYN4VlDuK6YCv7CKEomH"
       },
@@ -415,6 +415,22 @@
       "duration_ms": 272066,
       "name": "Timber",
       "url": "https://open.spotify.com/track/5jby7celTQUoYjAht8peNh"
+    },
+    {
+      "added_at": "2021-06-25 10:16:08",
+      "album": {
+        "name": "Blue Lines (2012 Mix/Master)",
+        "url": "https://open.spotify.com/album/5mAPk4qeNqVLtNydaWbWlf"
+      },
+      "artists": [
+        {
+          "name": "Massive Attack",
+          "url": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
+        }
+      ],
+      "duration_ms": 261826,
+      "name": "Blue Lines - 2012 Mix/Master",
+      "url": "https://open.spotify.com/track/4tVhBXOhSlqYCL2IjyoUNu"
     },
     {
       "added_at": "2021-06-25 10:16:08",
@@ -435,38 +451,6 @@
     {
       "added_at": "2021-06-25 10:16:08",
       "album": {
-        "name": "Jazzanova EP",
-        "url": "https://open.spotify.com/album/1gQEEHS7L5RBi5IQvZZs9f"
-      },
-      "artists": [
-        {
-          "name": "Jazzanova",
-          "url": "https://open.spotify.com/artist/0nTErwSOllrcUWt3knOG2T"
-        }
-      ],
-      "duration_ms": 414693,
-      "name": "Bohemian Sunset",
-      "url": "https://open.spotify.com/track/3YOQjNRshNSJcrHH4Ui5gL"
-    },
-    {
-      "added_at": "2021-06-25 10:16:08",
-      "album": {
-        "name": "In A Beautiful Place Out In The Country",
-        "url": "https://open.spotify.com/album/2DcU3XHY41Z1InXHNkiJWe"
-      },
-      "artists": [
-        {
-          "name": "Boards of Canada",
-          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
-        }
-      ],
-      "duration_ms": 367480,
-      "name": "In A Beautiful Place Out In The Country",
-      "url": "https://open.spotify.com/track/1ilA1w8ewwREeAEHY2rqKa"
-    },
-    {
-      "added_at": "2021-06-25 10:16:08",
-      "album": {
         "name": "DJ-Kicks",
         "url": "https://open.spotify.com/album/0Ba6Ld8Ss2oAH1x7Hv1v53"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 380786,
       "name": "Black Baby (DJ-KiCKS)",
       "url": "https://open.spotify.com/track/13FO5ag4v62zedndUziMI7"
+    },
+    {
+      "added_at": "2021-06-25 10:16:08",
+      "album": {
+        "name": "Jazzanova EP",
+        "url": "https://open.spotify.com/album/1gQEEHS7L5RBi5IQvZZs9f"
+      },
+      "artists": [
+        {
+          "name": "Jazzanova",
+          "url": "https://open.spotify.com/artist/0nTErwSOllrcUWt3knOG2T"
+        }
+      ],
+      "duration_ms": 414693,
+      "name": "Bohemian Sunset",
+      "url": "https://open.spotify.com/track/3YOQjNRshNSJcrHH4Ui5gL"
     },
     {
       "added_at": "2021-06-25 10:16:08",
@@ -515,6 +515,22 @@
     {
       "added_at": "2021-06-25 10:16:08",
       "album": {
+        "name": "The Return of the Space Cowboy (Remastered)",
+        "url": "https://open.spotify.com/album/3emhnEQ76nUUehouSvnGxk"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        }
+      ],
+      "duration_ms": 322586,
+      "name": "Journey to Arnhemland",
+      "url": "https://open.spotify.com/track/0tV3gNXkSicVDTe37mjgNo"
+    },
+    {
+      "added_at": "2021-06-25 10:16:08",
+      "album": {
         "name": "Maxinquaye (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4pWLQ312KAN43yhm3omkZo"
       },
@@ -531,18 +547,18 @@
     {
       "added_at": "2021-06-25 10:16:08",
       "album": {
-        "name": "The Return of the Space Cowboy (Remastered)",
-        "url": "https://open.spotify.com/album/3emhnEQ76nUUehouSvnGxk"
+        "name": "Music Has The Right To Children",
+        "url": "https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a"
       },
       "artists": [
         {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
         }
       ],
-      "duration_ms": 322586,
-      "name": "Journey to Arnhemland",
-      "url": "https://open.spotify.com/track/0tV3gNXkSicVDTe37mjgNo"
+      "duration_ms": 307880,
+      "name": "Turquoise Hexagon Sun",
+      "url": "https://open.spotify.com/track/4xmce2Et7muv5rjmjBQq83"
     },
     {
       "added_at": "2021-06-25 10:16:08",
@@ -579,22 +595,6 @@
     {
       "added_at": "2021-06-25 10:16:08",
       "album": {
-        "name": "King Size",
-        "url": "https://open.spotify.com/album/7poItoG0PxLsKHGfmHarWW"
-      },
-      "artists": [
-        {
-          "name": "Kruder & Dorfmeister",
-          "url": "https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L"
-        }
-      ],
-      "duration_ms": 297426,
-      "name": "King Size",
-      "url": "https://open.spotify.com/track/4Xr9UKLq3YGnExa50oLfAw"
-    },
-    {
-      "added_at": "2021-06-25 10:16:08",
-      "album": {
         "name": "Opera",
         "url": "https://open.spotify.com/album/6TEEsZodjlgareaeIgBHQC"
       },
@@ -611,18 +611,18 @@
     {
       "added_at": "2021-06-25 10:16:08",
       "album": {
-        "name": "Music Has The Right To Children",
-        "url": "https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a"
+        "name": "King Size",
+        "url": "https://open.spotify.com/album/7poItoG0PxLsKHGfmHarWW"
       },
       "artists": [
         {
-          "name": "Boards of Canada",
-          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+          "name": "Kruder & Dorfmeister",
+          "url": "https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L"
         }
       ],
-      "duration_ms": 307880,
-      "name": "Turquoise Hexagon Sun",
-      "url": "https://open.spotify.com/track/4xmce2Et7muv5rjmjBQq83"
+      "duration_ms": 297426,
+      "name": "King Size",
+      "url": "https://open.spotify.com/track/4Xr9UKLq3YGnExa50oLfAw"
     },
     {
       "added_at": "2021-06-25 10:16:08",
@@ -699,22 +699,6 @@
     {
       "added_at": "2021-06-25 10:16:08",
       "album": {
-        "name": "Since Then. 2017",
-        "url": "https://open.spotify.com/album/74FdEWxQOWLu9lBEuMmdmM"
-      },
-      "artists": [
-        {
-          "name": "Ian Pooley",
-          "url": "https://open.spotify.com/artist/1m4GViPjIy4T8Pd0Iz6hRS"
-        }
-      ],
-      "duration_ms": 336586,
-      "name": "Spicy Snapper",
-      "url": "https://open.spotify.com/track/1eXDhV76Gea8XuPqcAw0s5"
-    },
-    {
-      "added_at": "2021-06-25 10:16:08",
-      "album": {
         "name": "G-Stoned",
         "url": "https://open.spotify.com/album/4AKnOEd9fx1pj36xAq5eUN"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 381240,
       "name": "Deep Shit, Pt. 1 & 2",
       "url": "https://open.spotify.com/track/4p2AbJiH4eso5TE3wVqbV4"
+    },
+    {
+      "added_at": "2021-06-25 10:16:08",
+      "album": {
+        "name": "Since Then. 2017",
+        "url": "https://open.spotify.com/album/74FdEWxQOWLu9lBEuMmdmM"
+      },
+      "artists": [
+        {
+          "name": "Ian Pooley",
+          "url": "https://open.spotify.com/artist/1m4GViPjIy4T8Pd0Iz6hRS"
+        }
+      ],
+      "duration_ms": 336586,
+      "name": "Spicy Snapper",
+      "url": "https://open.spotify.com/track/1eXDhV76Gea8XuPqcAw0s5"
     },
     {
       "added_at": "2021-06-25 10:16:08",
@@ -891,18 +891,18 @@
     {
       "added_at": "2021-06-25 10:16:08",
       "album": {
-        "name": "Preemptive Strike",
-        "url": "https://open.spotify.com/album/1TCu83avwEGwIVCAJ3mrP0"
+        "name": "Reeled And Skinned",
+        "url": "https://open.spotify.com/album/2MtDzggjJ3iLZjJyw6HIs4"
       },
       "artists": [
         {
-          "name": "DJ Shadow",
-          "url": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
+          "name": "Red Snapper feat. Beth Orton",
+          "url": "https://open.spotify.com/artist/4x2YXgUuMqX3hGgnKTtrvg"
         }
       ],
-      "duration_ms": 831400,
-      "name": "What Does Your Soul Look Like - Pt. 2",
-      "url": "https://open.spotify.com/track/6qN2alQY36EbEjpBhDP9FE"
+      "duration_ms": 287906,
+      "name": "Snapper",
+      "url": "https://open.spotify.com/track/1FQ62NYLf1RVlqx184ChCZ"
     },
     {
       "added_at": "2021-06-25 10:16:08",
@@ -923,50 +923,18 @@
     {
       "added_at": "2021-06-25 10:16:08",
       "album": {
-        "name": "Reeled And Skinned",
-        "url": "https://open.spotify.com/album/2MtDzggjJ3iLZjJyw6HIs4"
+        "name": "Preemptive Strike",
+        "url": "https://open.spotify.com/album/1TCu83avwEGwIVCAJ3mrP0"
       },
       "artists": [
         {
-          "name": "Red Snapper feat. Beth Orton",
-          "url": "https://open.spotify.com/artist/4x2YXgUuMqX3hGgnKTtrvg"
+          "name": "DJ Shadow",
+          "url": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
         }
       ],
-      "duration_ms": 287906,
-      "name": "Snapper",
-      "url": "https://open.spotify.com/track/1FQ62NYLf1RVlqx184ChCZ"
-    },
-    {
-      "added_at": "2021-06-25 10:16:08",
-      "album": {
-        "name": "Hed Phone Sex",
-        "url": "https://open.spotify.com/album/0v5ACdpHC4PsDrFuhWFjcW"
-      },
-      "artists": [
-        {
-          "name": "Funki Porcini",
-          "url": "https://open.spotify.com/artist/2RNUVT2Tl938bULcNzDRNw"
-        }
-      ],
-      "duration_ms": 441866,
-      "name": "B Monkey",
-      "url": "https://open.spotify.com/track/7D1jDhKqUZrLTLFPSyMWlm"
-    },
-    {
-      "added_at": "2021-06-25 10:16:08",
-      "album": {
-        "name": "London Funk Volume 1",
-        "url": "https://open.spotify.com/album/3mwJkbOsAEobKg21Ad5bMa"
-      },
-      "artists": [
-        {
-          "name": "London Funk Allstars",
-          "url": "https://open.spotify.com/artist/2NTMckStRtgsN3A6LacOR6"
-        }
-      ],
-      "duration_ms": 285933,
-      "name": "Listen To The Beat",
-      "url": "https://open.spotify.com/track/7wULNOKU99VregJA264okG"
+      "duration_ms": 831400,
+      "name": "What Does Your Soul Look Like - Pt. 2",
+      "url": "https://open.spotify.com/track/6qN2alQY36EbEjpBhDP9FE"
     },
     {
       "added_at": "2021-06-25 10:16:08",
@@ -999,6 +967,38 @@
       "duration_ms": 456666,
       "name": "Trans Fatty Acid",
       "url": "https://open.spotify.com/track/3AIv4OGk6P3dALcr3kViOu"
+    },
+    {
+      "added_at": "2021-06-25 10:16:08",
+      "album": {
+        "name": "Hed Phone Sex",
+        "url": "https://open.spotify.com/album/0v5ACdpHC4PsDrFuhWFjcW"
+      },
+      "artists": [
+        {
+          "name": "Funki Porcini",
+          "url": "https://open.spotify.com/artist/2RNUVT2Tl938bULcNzDRNw"
+        }
+      ],
+      "duration_ms": 441866,
+      "name": "B Monkey",
+      "url": "https://open.spotify.com/track/7D1jDhKqUZrLTLFPSyMWlm"
+    },
+    {
+      "added_at": "2021-06-25 10:16:08",
+      "album": {
+        "name": "London Funk Volume 1",
+        "url": "https://open.spotify.com/album/3mwJkbOsAEobKg21Ad5bMa"
+      },
+      "artists": [
+        {
+          "name": "London Funk Allstars",
+          "url": "https://open.spotify.com/artist/2NTMckStRtgsN3A6LacOR6"
+        }
+      ],
+      "duration_ms": 285933,
+      "name": "Listen To The Beat",
+      "url": "https://open.spotify.com/track/7wULNOKU99VregJA264okG"
     },
     {
       "added_at": "2021-06-25 10:16:08",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2021-06-25 10:16:08",
       "album": {
-        "name": "Underground Vibes",
-        "url": "https://open.spotify.com/album/0HvGtxzwRl8L0Oq7HHOIdT"
-      },
-      "artists": [
-        {
-          "name": "DJ Cam",
-          "url": "https://open.spotify.com/artist/1hwAhXzyuEUjug2pyNVSvg"
-        }
-      ],
-      "duration_ms": 362106,
-      "name": "Dieu Reconnaitra Les Siens",
-      "url": "https://open.spotify.com/track/4XLTegPY04UEUEateXBUg0"
-    },
-    {
-      "added_at": "2021-06-25 10:16:08",
-      "album": {
         "name": "Dogmatic Sequences, Vol. 2",
         "url": "https://open.spotify.com/album/0dVkLBFLNIIyOT3kSL0oEi"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 408000,
       "name": "A Mother (For Your Mind)",
       "url": "https://open.spotify.com/track/5AenLCL5tkvwas8y8A0IU3"
+    },
+    {
+      "added_at": "2021-06-25 10:16:08",
+      "album": {
+        "name": "Underground Vibes",
+        "url": "https://open.spotify.com/album/0HvGtxzwRl8L0Oq7HHOIdT"
+      },
+      "artists": [
+        {
+          "name": "DJ Cam",
+          "url": "https://open.spotify.com/artist/1hwAhXzyuEUjug2pyNVSvg"
+        }
+      ],
+      "duration_ms": 362106,
+      "name": "Dieu Reconnaitra Les Siens",
+      "url": "https://open.spotify.com/track/4XLTegPY04UEUEateXBUg0"
     }
   ],
   "unique_name": "Trip Hop",

@@ -4,7 +4,7 @@
 
 > Die Playlist, die dich fühlt\. Cover: Nina Chuba, Juju
 
-346 songs - 16 hr 46 min - [published](https://open.spotify.com/playlist/4wMgKXJWsULbe4I9HZDGUL)
+347 songs - 16 hr 50 min - [published](https://open.spotify.com/playlist/4wMgKXJWsULbe4I9HZDGUL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [HIGH \(feat\. Claudia Valentina\)](https://open.spotify.com/track/72H4lwbSuX8xjyJseUC5Ux) | [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu), [Claudia Valentina](https://open.spotify.com/artist/1LZNFyDqn3t4DnOFpfK84I) | [HIGH \(feat\. Claudia Valentina\)](https://open.spotify.com/album/7MNhKR78JxxQh9TwgOTxBM) | 2:48 | 2022-06-16 | 2022-07-30 |
 | [Hollywood](https://open.spotify.com/track/6feMlyAvbHdATEoY7Y3aXk) | [12AM](https://open.spotify.com/artist/4FHtVj8v4il9h5HRQ4Ib3n) | [Hollywood](https://open.spotify.com/album/7s17WGsNLykas9aE8F8FFH) | 2:45 | 2022-07-07 | 2022-07-26 |
 | [HONEST](https://open.spotify.com/track/58k32my5lKofeZRtIvBDg9) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [DIE FOR MY BITCH](https://open.spotify.com/album/7Cw4LObzgnVqSlkuIyywtI) | 2:52 | 2022-07-28 | 2022-08-19 |
+| [Hotel](https://open.spotify.com/track/0JzG1wJuB4v9UPkSE7LMXi) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Hotel](https://open.spotify.com/album/0ykf7jcx3yY49RpkIO1byF) | 3:17 | 2022-09-19 |  |
 | [House of Memories](https://open.spotify.com/track/2DgdHcjWmO3qd50RzuBLgZ) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Death of a Bachelor](https://open.spotify.com/album/6twKQ0EsUJHVlAr6XBylrj) | 3:28 | 2022-06-09 | 2022-07-05 |
 | [Hubba Bubba](https://open.spotify.com/track/4h1Qse4KJxZ5fy2lbmT3sy) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H) | [Hubba Bubba](https://open.spotify.com/album/62eld5kc6XhT6U8HjUo2AO) | 1:59 | 2022-09-09 |  |
 | [Hör Nicht Auf](https://open.spotify.com/track/7xi2N0dKcvicx4JNDIPJxK) | [YBRE](https://open.spotify.com/artist/7qdBCGakEd1aUD8noTmsfs) | [ENGEL](https://open.spotify.com/album/60wF0gn6eZIvG6Fgsd39oD) | 2:06 | 2022-09-01 |  |
@@ -183,7 +184,7 @@
 | [LOS](https://open.spotify.com/track/4RN73rrQqwQuBKjKoJXMrH) | [TYM](https://open.spotify.com/artist/70Rt4lMiib6ya5azoVK51v) | [LOS](https://open.spotify.com/album/38gQNy7vEgrwsMn9SLRXjo) | 3:25 | 2022-06-16 | 2022-06-24 |
 | [Love Shots](https://open.spotify.com/track/6aYB6syCRnnTXJ8jechWZc) | [zara](https://open.spotify.com/artist/3iFa38c2Ig6kXLVx5Yl1YD) | [Love Shots](https://open.spotify.com/album/7KMp5uAH2B3dupZySwFdlD) | 1:50 | 2022-09-01 |  |
 | [Mary On A Cross](https://open.spotify.com/track/2HZLXBOnaSRhXStMLrq9fD) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Seven Inches Of Satanic Panic](https://open.spotify.com/album/6eOWfFjfBPRsAW0ZS4sbaF) | 4:04 | 2022-09-05 |  |
-| [Matilda](https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 4:05 | 2022-08-18 |  |
+| [Matilda](https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 4:05 | 2022-08-18 | 2022-09-20 |
 | [Maybe My Soulmate Died](https://open.spotify.com/track/7N1bEUVuQo8HHuikDgJ10c) | [iamnotshane](https://open.spotify.com/artist/3jN7f9X0EmFnsbRS6nl6as) | [Maybe My Soulmate Died](https://open.spotify.com/album/0sCKHcwHvwtLYuaBNfE6BL) | 1:54 | 2022-07-19 | 2022-07-26 |
 | [Memories](https://open.spotify.com/track/5pwZVXgPUSSa2qGamy8T62) | [treason434](https://open.spotify.com/artist/0RriK0rVWI9tagJyIux3wF) | [Memories](https://open.spotify.com/album/7a65dOo2YEK7c6nRDQlH93) | 2:23 | 2022-08-05 | 2022-08-12 |
 | [Mentally Cheating](https://open.spotify.com/track/23CMRsLRGVCDwCzDtYMq6p) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [Mentally Cheating](https://open.spotify.com/album/1q5UUWraL06jPz0jbVBP1M) | 3:00 | 2022-07-25 | 2022-09-02 |

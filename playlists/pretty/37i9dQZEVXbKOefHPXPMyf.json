@@ -6,10 +6,10 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzE2ODE3MjgxLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzE2OTAyODMyLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2022-09-18 11:54:41",
+      "added_at": "2022-09-19 11:40:32",
       "album": {
         "name": "Romantic Homicide",
         "url": "https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL"
     },
     {
-      "added_at": "2022-09-18 11:54:41",
+      "added_at": "2022-09-19 11:40:32",
       "album": {
         "name": "HELP EVER HURT NEVER",
         "url": "https://open.spotify.com/album/03QiFOKDh6xMiSTkOnsmMG"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/0HYAsQwJIO6FLqpyTeD3l6"
     },
     {
-      "added_at": "2022-09-18 11:54:41",
+      "added_at": "2022-09-19 11:40:32",
       "album": {
         "name": "FELIZ CUMPLEA\u00d1OS FERXXO TE PIRATEAMOS EL \u00c1LBUM",
         "url": "https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9"
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/2CeKVsFFXG4QzA415QygGb"
     },
     {
-      "added_at": "2022-09-18 11:54:41",
+      "added_at": "2022-09-19 11:40:32",
       "album": {
         "name": "[MESSAGE FROM THE CLERGY]",
         "url": "https://open.spotify.com/album/1BbfbJZan9d1srv8aHavom"
@@ -73,7 +73,7 @@
       "url": "https://open.spotify.com/track/7wdwIaXUuzlu1grzWMFRJm"
     },
     {
-      "added_at": "2022-09-18 11:54:41",
+      "added_at": "2022-09-19 11:40:32",
       "album": {
         "name": "Delincuente",
         "url": "https://open.spotify.com/album/3QySYdsvCpB84Tvzkj24Ta"
@@ -97,43 +97,7 @@
       "url": "https://open.spotify.com/track/2ROQe6QkIXODJRx0y8UjzV"
     },
     {
-      "added_at": "2022-09-18 11:54:41",
-      "album": {
-        "name": "La Bachata",
-        "url": "https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2"
-      },
-      "artists": [
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 162637,
-      "name": "La Bachata",
-      "url": "https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u"
-    },
-    {
-      "added_at": "2022-09-18 11:54:41",
-      "album": {
-        "name": "B.O.T.A. (Baddest Of Them All)",
-        "url": "https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK"
-      },
-      "artists": [
-        {
-          "name": "Eliza Rose",
-          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
-        },
-        {
-          "name": "Interplanetary Criminal",
-          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
-        }
-      ],
-      "duration_ms": 226626,
-      "name": "B.O.T.A. (Baddest Of Them All) - Edit",
-      "url": "https://open.spotify.com/track/39JofJHEtg8I4fSyo7Imft"
-    },
-    {
-      "added_at": "2022-09-18 11:54:41",
+      "added_at": "2022-09-19 11:40:32",
       "album": {
         "name": "BABY OTAKU",
         "url": "https://open.spotify.com/album/7HUH0lFoay2KzGEZqGp55G"
@@ -161,7 +125,59 @@
       "url": "https://open.spotify.com/track/0kTMK4gNFfLXaTb62w1UaJ"
     },
     {
-      "added_at": "2022-09-18 11:54:41",
+      "added_at": "2022-09-19 11:40:32",
+      "album": {
+        "name": "B.O.T.A. (Baddest Of Them All)",
+        "url": "https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK"
+      },
+      "artists": [
+        {
+          "name": "Eliza Rose",
+          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
+        },
+        {
+          "name": "Interplanetary Criminal",
+          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
+        }
+      ],
+      "duration_ms": 226626,
+      "name": "B.O.T.A. (Baddest Of Them All) - Edit",
+      "url": "https://open.spotify.com/track/39JofJHEtg8I4fSyo7Imft"
+    },
+    {
+      "added_at": "2022-09-19 11:40:32",
+      "album": {
+        "name": "La Bachata",
+        "url": "https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 162637,
+      "name": "La Bachata",
+      "url": "https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u"
+    },
+    {
+      "added_at": "2022-09-19 11:40:32",
+      "album": {
+        "name": "NewJeans 1st EP 'New Jeans'",
+        "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "duration_ms": 179026,
+      "name": "Hype Boy",
+      "url": "https://open.spotify.com/track/0a4MMyCrzT0En247IhqZbD"
+    },
+    {
+      "added_at": "2022-09-19 11:40:32",
       "album": {
         "name": "Himnos Nacionales De Latino America",
         "url": "https://open.spotify.com/album/4UGfXKTW4BmEjk24ZiNT1Q"
@@ -177,7 +193,7 @@
       "url": "https://open.spotify.com/track/3adJjH5yb0dXQjo5v8Nhvg"
     },
     {
-      "added_at": "2022-09-18 11:54:41",
+      "added_at": "2022-09-19 11:40:32",
       "album": {
         "name": "Himno al 15 de Setiembre",
         "url": "https://open.spotify.com/album/2XXgjMeGT5DdTzh1ZLXErP"
@@ -197,135 +213,7 @@
       "url": "https://open.spotify.com/track/7qrHx8xDWEyaIZZ7bmhAdy"
     },
     {
-      "added_at": "2022-09-18 11:54:41",
-      "album": {
-        "name": "Blin Blin Blin Blan",
-        "url": "https://open.spotify.com/album/44LSJkLPRq6cK96LWqzo3o"
-      },
-      "artists": [
-        {
-          "name": "King Blvck",
-          "url": "https://open.spotify.com/artist/03EM6UHgNRnx8RGKQApVQA"
-        }
-      ],
-      "duration_ms": 111864,
-      "name": "Blin Blin Blin Blan",
-      "url": "https://open.spotify.com/track/71zt6MfZmy1kcOXaLqS5Ie"
-    },
-    {
-      "added_at": "2022-09-18 11:54:41",
-      "album": {
-        "name": "NewJeans 1st EP 'New Jeans'",
-        "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
-      },
-      "artists": [
-        {
-          "name": "NewJeans",
-          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
-        }
-      ],
-      "duration_ms": 179026,
-      "name": "Hype Boy",
-      "url": "https://open.spotify.com/track/0a4MMyCrzT0En247IhqZbD"
-    },
-    {
-      "added_at": "2022-09-18 11:54:41",
-      "album": {
-        "name": "Inspiraciones Costarricenses",
-        "url": "https://open.spotify.com/album/4aBUd0qfjJMkmQxpHFbfpL"
-      },
-      "artists": [
-        {
-          "name": "Carlos Guzm\u00e1n",
-          "url": "https://open.spotify.com/artist/5Qx9fM8KnXLBztlD8sALO7"
-        }
-      ],
-      "duration_ms": 187338,
-      "name": "Soy Tico",
-      "url": "https://open.spotify.com/track/4WJE2pCFVd1KO4qDmQKda4"
-    },
-    {
-      "added_at": "2022-09-18 11:54:41",
-      "album": {
-        "name": "c\u00f3mo dormiste?",
-        "url": "https://open.spotify.com/album/2jt6z03JV7Ax8ZdlOrs9BK"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 112572,
-      "name": "c\u00f3mo dormiste?",
-      "url": "https://open.spotify.com/track/3fjN3y5x4hN53rykAN2LHQ"
-    },
-    {
-      "added_at": "2022-09-18 11:54:41",
-      "album": {
-        "name": "Costa Rica Pura Vida, Vol. 1",
-        "url": "https://open.spotify.com/album/0IYKfRWDBcQkbLjYosIqcN"
-      },
-      "artists": [
-        {
-          "name": "Mauricio Penagos Villegas",
-          "url": "https://open.spotify.com/artist/0uvGLQ5Z4iqMoCe1Y1sqec"
-        }
-      ],
-      "duration_ms": 199826,
-      "name": "Linda Costa Rica",
-      "url": "https://open.spotify.com/track/5uA9Qx6ZmjLoJbThB4qBhU"
-    },
-    {
-      "added_at": "2022-09-18 11:54:41",
-      "album": {
-        "name": "Costa Rica Pura Vida, Vol. 1",
-        "url": "https://open.spotify.com/album/0IYKfRWDBcQkbLjYosIqcN"
-      },
-      "artists": [
-        {
-          "name": "Mauricio Penagos Villegas",
-          "url": "https://open.spotify.com/artist/0uvGLQ5Z4iqMoCe1Y1sqec"
-        }
-      ],
-      "duration_ms": 197600,
-      "name": "Ticas Lindas",
-      "url": "https://open.spotify.com/track/0a6lIvAiYy7yHzBC2zLRCy"
-    },
-    {
-      "added_at": "2022-09-18 11:54:41",
-      "album": {
-        "name": "BORN PINK",
-        "url": "https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM"
-      },
-      "artists": [
-        {
-          "name": "BLACKPINK",
-          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
-        }
-      ],
-      "duration_ms": 186964,
-      "name": "Pink Venom",
-      "url": "https://open.spotify.com/track/5zwwW9Oq7ubSxoCGyW1nbY"
-    },
-    {
-      "added_at": "2022-09-18 11:54:41",
-      "album": {
-        "name": "FELIZ CUMPLEA\u00d1OS FERXXO TE PIRATEAMOS EL \u00c1LBUM",
-        "url": "https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 167760,
-      "name": "Ferxxo 100",
-      "url": "https://open.spotify.com/track/1sbNEFiURUYfy024cJX8JG"
-    },
-    {
-      "added_at": "2022-09-18 11:54:41",
+      "added_at": "2022-09-19 11:40:32",
       "album": {
         "name": "Cu\u00e9ntale",
         "url": "https://open.spotify.com/album/29w6K04zmWvczFAv9nC85Q"
@@ -345,7 +233,135 @@
       "url": "https://open.spotify.com/track/1p0pVrSdV6T4WSdYJltWPa"
     },
     {
-      "added_at": "2022-09-18 11:54:41",
+      "added_at": "2022-09-19 11:40:32",
+      "album": {
+        "name": "Inspiraciones Costarricenses",
+        "url": "https://open.spotify.com/album/4aBUd0qfjJMkmQxpHFbfpL"
+      },
+      "artists": [
+        {
+          "name": "Carlos Guzm\u00e1n",
+          "url": "https://open.spotify.com/artist/5Qx9fM8KnXLBztlD8sALO7"
+        }
+      ],
+      "duration_ms": 187338,
+      "name": "Soy Tico",
+      "url": "https://open.spotify.com/track/4WJE2pCFVd1KO4qDmQKda4"
+    },
+    {
+      "added_at": "2022-09-19 11:40:32",
+      "album": {
+        "name": "Costa Rica Pura Vida, Vol. 1",
+        "url": "https://open.spotify.com/album/0IYKfRWDBcQkbLjYosIqcN"
+      },
+      "artists": [
+        {
+          "name": "Mauricio Penagos Villegas",
+          "url": "https://open.spotify.com/artist/0uvGLQ5Z4iqMoCe1Y1sqec"
+        }
+      ],
+      "duration_ms": 199826,
+      "name": "Linda Costa Rica",
+      "url": "https://open.spotify.com/track/5uA9Qx6ZmjLoJbThB4qBhU"
+    },
+    {
+      "added_at": "2022-09-19 11:40:32",
+      "album": {
+        "name": "Costa Rica Pura Vida, Vol. 1",
+        "url": "https://open.spotify.com/album/0IYKfRWDBcQkbLjYosIqcN"
+      },
+      "artists": [
+        {
+          "name": "Mauricio Penagos Villegas",
+          "url": "https://open.spotify.com/artist/0uvGLQ5Z4iqMoCe1Y1sqec"
+        }
+      ],
+      "duration_ms": 197600,
+      "name": "Ticas Lindas",
+      "url": "https://open.spotify.com/track/0a6lIvAiYy7yHzBC2zLRCy"
+    },
+    {
+      "added_at": "2022-09-19 11:40:32",
+      "album": {
+        "name": "BORN PINK",
+        "url": "https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "duration_ms": 186964,
+      "name": "Pink Venom",
+      "url": "https://open.spotify.com/track/5zwwW9Oq7ubSxoCGyW1nbY"
+    },
+    {
+      "added_at": "2022-09-19 11:40:32",
+      "album": {
+        "name": "c\u00f3mo dormiste?",
+        "url": "https://open.spotify.com/album/2jt6z03JV7Ax8ZdlOrs9BK"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 112572,
+      "name": "c\u00f3mo dormiste?",
+      "url": "https://open.spotify.com/track/3fjN3y5x4hN53rykAN2LHQ"
+    },
+    {
+      "added_at": "2022-09-19 11:40:32",
+      "album": {
+        "name": "FELIZ CUMPLEA\u00d1OS FERXXO TE PIRATEAMOS EL \u00c1LBUM",
+        "url": "https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 167760,
+      "name": "Ferxxo 100",
+      "url": "https://open.spotify.com/track/1sbNEFiURUYfy024cJX8JG"
+    },
+    {
+      "added_at": "2022-09-19 11:40:32",
+      "album": {
+        "name": "Blin Blin Blin Blan",
+        "url": "https://open.spotify.com/album/44LSJkLPRq6cK96LWqzo3o"
+      },
+      "artists": [
+        {
+          "name": "King Blvck",
+          "url": "https://open.spotify.com/artist/03EM6UHgNRnx8RGKQApVQA"
+        }
+      ],
+      "duration_ms": 111864,
+      "name": "Blin Blin Blin Blan",
+      "url": "https://open.spotify.com/track/71zt6MfZmy1kcOXaLqS5Ie"
+    },
+    {
+      "added_at": "2022-09-19 11:40:32",
+      "album": {
+        "name": "KU LO SA - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi"
+      },
+      "artists": [
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        }
+      ],
+      "duration_ms": 147580,
+      "name": "KU LO SA - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn"
+    },
+    {
+      "added_at": "2022-09-19 11:40:32",
       "album": {
         "name": "Encuentro",
         "url": "https://open.spotify.com/album/6LFocODxqxcp26CzAphOL9"
@@ -361,39 +377,7 @@
       "url": "https://open.spotify.com/track/6UHQmxFSzLnzuUT1FEMcvn"
     },
     {
-      "added_at": "2022-09-18 11:54:41",
-      "album": {
-        "name": "FELIZ CUMPLEA\u00d1OS FERXXO TE PIRATEAMOS EL \u00c1LBUM",
-        "url": "https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 171880,
-      "name": "Normal",
-      "url": "https://open.spotify.com/track/0T2pB7P1VdXPhLdQZ488uH"
-    },
-    {
-      "added_at": "2022-09-18 11:54:41",
-      "album": {
-        "name": "FELIZ CUMPLEA\u00d1OS FERXXO TE PIRATEAMOS EL \u00c1LBUM",
-        "url": "https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 191506,
-      "name": "Si Te La Encuentras Por Ah\u00ed",
-      "url": "https://open.spotify.com/track/2vsoD8S1OyrWSVIA43hjaU"
-    },
-    {
-      "added_at": "2022-09-18 11:54:41",
+      "added_at": "2022-09-19 11:40:32",
       "album": {
         "name": "NewJeans 1st EP 'New Jeans'",
         "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
@@ -409,7 +393,103 @@
       "url": "https://open.spotify.com/track/2pIUpMhHL6L9Z5lnKxJJr9"
     },
     {
-      "added_at": "2022-09-18 11:54:41",
+      "added_at": "2022-09-19 11:40:32",
+      "album": {
+        "name": "FELIZ CUMPLEA\u00d1OS FERXXO TE PIRATEAMOS EL \u00c1LBUM",
+        "url": "https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 171880,
+      "name": "Normal",
+      "url": "https://open.spotify.com/track/0T2pB7P1VdXPhLdQZ488uH"
+    },
+    {
+      "added_at": "2022-09-19 11:40:32",
+      "album": {
+        "name": "After LIKE",
+        "url": "https://open.spotify.com/album/0nzRF7khA2UDSZa9T0B6Da"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "duration_ms": 176973,
+      "name": "After LIKE",
+      "url": "https://open.spotify.com/track/2gYj9lubBorOPIVWsTXugG"
+    },
+    {
+      "added_at": "2022-09-19 11:40:32",
+      "album": {
+        "name": "FELIZ CUMPLEA\u00d1OS FERXXO TE PIRATEAMOS EL \u00c1LBUM",
+        "url": "https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 191506,
+      "name": "Si Te La Encuentras Por Ah\u00ed",
+      "url": "https://open.spotify.com/track/2vsoD8S1OyrWSVIA43hjaU"
+    },
+    {
+      "added_at": "2022-09-19 11:40:32",
+      "album": {
+        "name": "Rave & Roses",
+        "url": "https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 219668,
+      "name": "Calm Down",
+      "url": "https://open.spotify.com/track/3BnDvpeuGOj21Ir2aVEtQo"
+    },
+    {
+      "added_at": "2022-09-19 11:40:32",
+      "album": {
+        "name": "Fleur froide",
+        "url": "https://open.spotify.com/album/7xZ9nd2ZAoEUDVd0R96yEU"
+      },
+      "artists": [
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        }
+      ],
+      "duration_ms": 212013,
+      "name": "N'y pense plus",
+      "url": "https://open.spotify.com/track/3qe7VcbqjYNvFwhP0sFItH"
+    },
+    {
+      "added_at": "2022-09-19 11:40:32",
+      "album": {
+        "name": "METAMORPHOSIS",
+        "url": "https://open.spotify.com/album/3apQZbgVql9mHJlp43jk5D"
+      },
+      "artists": [
+        {
+          "name": "INTERWORLD",
+          "url": "https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN"
+        }
+      ],
+      "duration_ms": 142839,
+      "name": "METAMORPHOSIS",
+      "url": "https://open.spotify.com/track/2ksyzVfU0WJoBpu8otr4pz"
+    },
+    {
+      "added_at": "2022-09-19 11:40:32",
       "album": {
         "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
         "url": "https://open.spotify.com/album/4PNqWiJAfjj32hVvlchV5u"
@@ -429,23 +509,7 @@
       "url": "https://open.spotify.com/track/2tTmW7RDtMQtBk7m2rYeSw"
     },
     {
-      "added_at": "2022-09-18 11:54:41",
-      "album": {
-        "name": "Fleur froide",
-        "url": "https://open.spotify.com/album/7xZ9nd2ZAoEUDVd0R96yEU"
-      },
-      "artists": [
-        {
-          "name": "Tayc",
-          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
-        }
-      ],
-      "duration_ms": 212013,
-      "name": "N'y pense plus",
-      "url": "https://open.spotify.com/track/3qe7VcbqjYNvFwhP0sFItH"
-    },
-    {
-      "added_at": "2022-09-18 11:54:41",
+      "added_at": "2022-09-19 11:40:32",
       "album": {
         "name": "L3tra",
         "url": "https://open.spotify.com/album/70ubyVo5JwY94DLaZBkIBI"
@@ -461,71 +525,7 @@
       "url": "https://open.spotify.com/track/6i1g5ZRmJZAkDwBaUZ3f2i"
     },
     {
-      "added_at": "2022-09-18 11:54:41",
-      "album": {
-        "name": "KU LO SA - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi"
-      },
-      "artists": [
-        {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
-        }
-      ],
-      "duration_ms": 147580,
-      "name": "KU LO SA - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn"
-    },
-    {
-      "added_at": "2022-09-18 11:54:41",
-      "album": {
-        "name": "METAMORPHOSIS",
-        "url": "https://open.spotify.com/album/3apQZbgVql9mHJlp43jk5D"
-      },
-      "artists": [
-        {
-          "name": "INTERWORLD",
-          "url": "https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN"
-        }
-      ],
-      "duration_ms": 142839,
-      "name": "METAMORPHOSIS",
-      "url": "https://open.spotify.com/track/2ksyzVfU0WJoBpu8otr4pz"
-    },
-    {
-      "added_at": "2022-09-18 11:54:41",
-      "album": {
-        "name": "Rave & Roses",
-        "url": "https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 219668,
-      "name": "Calm Down",
-      "url": "https://open.spotify.com/track/3BnDvpeuGOj21Ir2aVEtQo"
-    },
-    {
-      "added_at": "2022-09-18 11:54:41",
-      "album": {
-        "name": "Indigo (Extended)",
-        "url": "https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 184613,
-      "name": "Under The Influence",
-      "url": "https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb"
-    },
-    {
-      "added_at": "2022-09-18 11:54:41",
+      "added_at": "2022-09-19 11:40:32",
       "album": {
         "name": "Costa Rica Pura Vida, Vol. 1",
         "url": "https://open.spotify.com/album/0IYKfRWDBcQkbLjYosIqcN"
@@ -541,23 +541,7 @@
       "url": "https://open.spotify.com/track/0XJdkacqMD1gR0c4HTSdCF"
     },
     {
-      "added_at": "2022-09-18 11:54:41",
-      "album": {
-        "name": "After LIKE",
-        "url": "https://open.spotify.com/album/0nzRF7khA2UDSZa9T0B6Da"
-      },
-      "artists": [
-        {
-          "name": "IVE",
-          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
-        }
-      ],
-      "duration_ms": 176973,
-      "name": "After LIKE",
-      "url": "https://open.spotify.com/track/2gYj9lubBorOPIVWsTXugG"
-    },
-    {
-      "added_at": "2022-09-18 11:54:41",
+      "added_at": "2022-09-19 11:40:32",
       "album": {
         "name": "Costa Rica Pura Vida, Vol. 1",
         "url": "https://open.spotify.com/album/0IYKfRWDBcQkbLjYosIqcN"
@@ -573,7 +557,23 @@
       "url": "https://open.spotify.com/track/0aL5NTTiEfvOZjzbiijmA0"
     },
     {
-      "added_at": "2022-09-18 11:54:41",
+      "added_at": "2022-09-19 11:40:32",
+      "album": {
+        "name": "Costa Rica Pura Vida, Vol. 1",
+        "url": "https://open.spotify.com/album/0IYKfRWDBcQkbLjYosIqcN"
+      },
+      "artists": [
+        {
+          "name": "Mauricio Penagos Villegas",
+          "url": "https://open.spotify.com/artist/0uvGLQ5Z4iqMoCe1Y1sqec"
+        }
+      ],
+      "duration_ms": 181293,
+      "name": "Soy Tico",
+      "url": "https://open.spotify.com/track/6jOe3C5QBhvHG0boQglw8q"
+    },
+    {
+      "added_at": "2022-09-19 11:40:32",
       "album": {
         "name": "LOS APARATOS",
         "url": "https://open.spotify.com/album/4l8c1V5208sGn5IkInMzUi"
@@ -597,7 +597,23 @@
       "url": "https://open.spotify.com/track/4SSbtLDkepeOHAckM1FCBP"
     },
     {
-      "added_at": "2022-09-18 11:54:41",
+      "added_at": "2022-09-19 11:40:32",
+      "album": {
+        "name": "Indigo (Extended)",
+        "url": "https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 184613,
+      "name": "Under The Influence",
+      "url": "https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb"
+    },
+    {
+      "added_at": "2022-09-19 11:40:32",
       "album": {
         "name": "Emociones",
         "url": "https://open.spotify.com/album/4we3WMZMCvKmk6jfGe6t4t"
@@ -617,39 +633,7 @@
       "url": "https://open.spotify.com/track/2VF8TTWczzupwrhtsQfx48"
     },
     {
-      "added_at": "2022-09-18 11:54:41",
-      "album": {
-        "name": "Costa Rica Pura Vida, Vol. 1",
-        "url": "https://open.spotify.com/album/0IYKfRWDBcQkbLjYosIqcN"
-      },
-      "artists": [
-        {
-          "name": "Mauricio Penagos Villegas",
-          "url": "https://open.spotify.com/artist/0uvGLQ5Z4iqMoCe1Y1sqec"
-        }
-      ],
-      "duration_ms": 181293,
-      "name": "Soy Tico",
-      "url": "https://open.spotify.com/track/6jOe3C5QBhvHG0boQglw8q"
-    },
-    {
-      "added_at": "2022-09-18 11:54:41",
-      "album": {
-        "name": "golden hour",
-        "url": "https://open.spotify.com/album/0NoJBJgQc3fM2gesNXp7dS"
-      },
-      "artists": [
-        {
-          "name": "JVKE",
-          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
-        }
-      ],
-      "duration_ms": 209259,
-      "name": "golden hour",
-      "url": "https://open.spotify.com/track/6GD1eomgaGT1Epto6Q5eAo"
-    },
-    {
-      "added_at": "2022-09-18 11:54:41",
+      "added_at": "2022-09-19 11:40:32",
       "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
@@ -669,71 +653,23 @@
       "url": "https://open.spotify.com/track/3k3NWokhRRkEPhCzPmV8TW"
     },
     {
-      "added_at": "2022-09-18 11:54:41",
+      "added_at": "2022-09-19 11:40:32",
       "album": {
-        "name": "FELIZ CUMPLEA\u00d1OS FERXXO TE PIRATEAMOS EL \u00c1LBUM",
-        "url": "https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9"
+        "name": "golden hour",
+        "url": "https://open.spotify.com/album/0NoJBJgQc3fM2gesNXp7dS"
       },
       "artists": [
         {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
         }
       ],
-      "duration_ms": 177280,
-      "name": "Castigo",
-      "url": "https://open.spotify.com/track/18pWcEUcUJpBFs7eNBsBht"
+      "duration_ms": 209259,
+      "name": "golden hour",
+      "url": "https://open.spotify.com/track/6GD1eomgaGT1Epto6Q5eAo"
     },
     {
-      "added_at": "2022-09-18 11:54:41",
-      "album": {
-        "name": "MOTOMAMI +",
-        "url": "https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 156787,
-      "name": "DESPECH\u00c1",
-      "url": "https://open.spotify.com/track/53tfEupEzQRtVFOeZvk7xq"
-    },
-    {
-      "added_at": "2022-09-18 11:54:41",
-      "album": {
-        "name": "Sex Symbol",
-        "url": "https://open.spotify.com/album/5tf8kuqoGGyPD6xxhPLlst"
-      },
-      "artists": [
-        {
-          "name": "Adalberto Santiago",
-          "url": "https://open.spotify.com/artist/6tZxUxheS7w3953cQFOXkd"
-        }
-      ],
-      "duration_ms": 343353,
-      "name": "La Noche Mas Linda",
-      "url": "https://open.spotify.com/track/3scW7pt0vlhkCCgCNv5YR9"
-    },
-    {
-      "added_at": "2022-09-18 11:54:41",
-      "album": {
-        "name": "GTTM: Goin Thru the Motions",
-        "url": "https://open.spotify.com/album/7eFfp9r4A30ueN9A5EJbk2"
-      },
-      "artists": [
-        {
-          "name": "PnB Rock",
-          "url": "https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM"
-        }
-      ],
-      "duration_ms": 245604,
-      "name": "Selfish",
-      "url": "https://open.spotify.com/track/2xbI8Vmyv3TkpTdywpPyNw"
-    },
-    {
-      "added_at": "2022-09-18 11:54:41",
+      "added_at": "2022-09-19 11:40:32",
       "album": {
         "name": "No Me Conformo",
         "url": "https://open.spotify.com/album/60qMDnkh443HxIVbZRImIu"
@@ -757,7 +693,75 @@
       "url": "https://open.spotify.com/track/6t8OjozDxyWUprWqIB58IT"
     },
     {
-      "added_at": "2022-09-18 11:54:41",
+      "added_at": "2022-09-19 11:40:32",
+      "album": {
+        "name": "FELIZ CUMPLEA\u00d1OS FERXXO TE PIRATEAMOS EL \u00c1LBUM",
+        "url": "https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 177280,
+      "name": "Castigo",
+      "url": "https://open.spotify.com/track/18pWcEUcUJpBFs7eNBsBht"
+    },
+    {
+      "added_at": "2022-09-19 11:40:32",
+      "album": {
+        "name": "MOTOMAMI +",
+        "url": "https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 156787,
+      "name": "DESPECH\u00c1",
+      "url": "https://open.spotify.com/track/53tfEupEzQRtVFOeZvk7xq"
+    },
+    {
+      "added_at": "2022-09-19 11:40:32",
+      "album": {
+        "name": "Blim Blim Blam Blam",
+        "url": "https://open.spotify.com/album/4htoj8Hkdo6JxdKmurdRjO"
+      },
+      "artists": [
+        {
+          "name": "El Completo Rd",
+          "url": "https://open.spotify.com/artist/6pvz7OwdRHemko3hrQygJb"
+        },
+        {
+          "name": "Asther the Producer",
+          "url": "https://open.spotify.com/artist/2F1ABFCCMANl6REdVjwBxt"
+        }
+      ],
+      "duration_ms": 123350,
+      "name": "Blim Blim Blam Blam",
+      "url": "https://open.spotify.com/track/45r0BX9GrF062r4DFVGp3u"
+    },
+    {
+      "added_at": "2022-09-19 11:40:32",
+      "album": {
+        "name": "GTTM: Goin Thru the Motions",
+        "url": "https://open.spotify.com/album/7eFfp9r4A30ueN9A5EJbk2"
+      },
+      "artists": [
+        {
+          "name": "PnB Rock",
+          "url": "https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM"
+        }
+      ],
+      "duration_ms": 245604,
+      "name": "Selfish",
+      "url": "https://open.spotify.com/track/2xbI8Vmyv3TkpTdywpPyNw"
+    },
+    {
+      "added_at": "2022-09-19 11:40:32",
       "album": {
         "name": "Costa Rica Pura Vida, Vol. 1",
         "url": "https://open.spotify.com/album/0IYKfRWDBcQkbLjYosIqcN"
@@ -773,39 +777,7 @@
       "url": "https://open.spotify.com/track/2k5mRTFTXfukRbKgx2IXKK"
     },
     {
-      "added_at": "2022-09-18 11:54:41",
-      "album": {
-        "name": "FELIZ CUMPLEA\u00d1OS FERXXO TE PIRATEAMOS EL \u00c1LBUM",
-        "url": "https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 140426,
-      "name": "Nieve",
-      "url": "https://open.spotify.com/track/2gLDm4AjVnHlsik9sK87vj"
-    },
-    {
-      "added_at": "2022-09-18 11:54:41",
-      "album": {
-        "name": "Queen Radio: Volume 1",
-        "url": "https://open.spotify.com/album/1ia27ME4iQkoIyUHBnJqX6"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 170977,
-      "name": "Super Freaky Girl",
-      "url": "https://open.spotify.com/track/2yjlYDiNiQkdxVqTlaSrlX"
-    },
-    {
-      "added_at": "2022-09-18 11:54:41",
+      "added_at": "2022-09-19 11:40:32",
       "album": {
         "name": "Un Verano Contigo",
         "url": "https://open.spotify.com/album/3ptuyzxvfJe0o6uS0Wdy6Q"
@@ -821,39 +793,23 @@
       "url": "https://open.spotify.com/track/6MCb9dUGR4Oq4xKV1phz0z"
     },
     {
-      "added_at": "2022-09-18 11:54:41",
+      "added_at": "2022-09-19 11:40:32",
       "album": {
-        "name": "SNAP PACK",
-        "url": "https://open.spotify.com/album/2nzuzJvr3yowqbPaYjEYof"
+        "name": "FELIZ CUMPLEA\u00d1OS FERXXO TE PIRATEAMOS EL \u00c1LBUM",
+        "url": "https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9"
       },
       "artists": [
         {
-          "name": "Rosa Linn",
-          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
         }
       ],
-      "duration_ms": 179551,
-      "name": "SNAP",
-      "url": "https://open.spotify.com/track/6zJejIfVYLgjud3lTk4DLB"
+      "duration_ms": 140426,
+      "name": "Nieve",
+      "url": "https://open.spotify.com/track/2gLDm4AjVnHlsik9sK87vj"
     },
     {
-      "added_at": "2022-09-18 11:54:41",
-      "album": {
-        "name": "Ojos Marrones",
-        "url": "https://open.spotify.com/album/5cgqNq1Esd6F0D1vQ9uD63"
-      },
-      "artists": [
-        {
-          "name": "Lasso",
-          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
-        }
-      ],
-      "duration_ms": 198520,
-      "name": "Ojos Marrones",
-      "url": "https://open.spotify.com/track/7gwT3HGL84vF7bgtwL1N88"
-    },
-    {
-      "added_at": "2022-09-18 11:54:41",
+      "added_at": "2022-09-19 11:40:32",
       "album": {
         "name": "Gemini Rights",
         "url": "https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD"
@@ -867,6 +823,54 @@
       "duration_ms": 232066,
       "name": "Bad Habit",
       "url": "https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy"
+    },
+    {
+      "added_at": "2022-09-19 11:40:32",
+      "album": {
+        "name": "El Cuarto",
+        "url": "https://open.spotify.com/album/1jbn7zl7vB1d8RTOFYJw0u"
+      },
+      "artists": [
+        {
+          "name": "Dejota2021",
+          "url": "https://open.spotify.com/artist/5NpCde9H57MxIZqbmfkElY"
+        }
+      ],
+      "duration_ms": 158561,
+      "name": "El Cuarto",
+      "url": "https://open.spotify.com/track/1HwdGiY4M84eyatZE90Z2Y"
+    },
+    {
+      "added_at": "2022-09-19 11:40:32",
+      "album": {
+        "name": "Sex Symbol",
+        "url": "https://open.spotify.com/album/5tf8kuqoGGyPD6xxhPLlst"
+      },
+      "artists": [
+        {
+          "name": "Adalberto Santiago",
+          "url": "https://open.spotify.com/artist/6tZxUxheS7w3953cQFOXkd"
+        }
+      ],
+      "duration_ms": 343353,
+      "name": "La Noche Mas Linda",
+      "url": "https://open.spotify.com/track/3scW7pt0vlhkCCgCNv5YR9"
+    },
+    {
+      "added_at": "2022-09-19 11:40:32",
+      "album": {
+        "name": "Ojos Marrones",
+        "url": "https://open.spotify.com/album/5cgqNq1Esd6F0D1vQ9uD63"
+      },
+      "artists": [
+        {
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+        }
+      ],
+      "duration_ms": 198520,
+      "name": "Ojos Marrones",
+      "url": "https://open.spotify.com/track/7gwT3HGL84vF7bgtwL1N88"
     }
   ],
   "unique_name": "Viral 50 - Costa Rica",

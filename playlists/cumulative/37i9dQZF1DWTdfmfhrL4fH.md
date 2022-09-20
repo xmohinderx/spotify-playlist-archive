@@ -4,7 +4,7 @@
 
 > Any songs you forgot existed? Let's go deep into 2010s rock!  Cover: Papa Roach.
 
-520 songs - 1 day 8 hr 36 min - [published](https://open.spotify.com/playlist/6ihczCtWEYpK0uNMkSCVwY)
+521 songs - 1 day 8 hr 40 min - [published](https://open.spotify.com/playlist/6ihczCtWEYpK0uNMkSCVwY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,7 +227,7 @@
 | [I'll Follow You](https://open.spotify.com/track/0ILR5GMSzBRp2LrI8GX1Si) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Amaryllis](https://open.spotify.com/album/2WvIDc4wdKshyFh2EzLAs0) | 3:58 | 2022-05-25 |  |
 | [I'm Only Joking](https://open.spotify.com/track/3iag81mU7BylirRwRYXd8E) | [KONGOS](https://open.spotify.com/artist/58R5LHkK3vkmEyGUPOR5kS) | [Lunatic](https://open.spotify.com/album/71C65HI7THrlkpHHa24YJX) | 3:44 | 2022-05-25 | 2022-07-28 |
 | [I'm Shakin'](https://open.spotify.com/track/07AjyDeE85pDr4Dj8BzgWB) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Blunderbuss](https://open.spotify.com/album/6eSJ0lu0uwtiqXkP7Qrrno) | 3:00 | 2022-05-25 | 2022-09-10 |
-| [If I Had a Tail](https://open.spotify.com/track/06hBdrgjUendZyH9U1WV22) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [...Like Clockwork](https://open.spotify.com/album/5T5NM01392dvvd4EhGrCnj) | 4:55 | 2022-05-25 | 2022-09-19 |
+| [If I Had a Tail](https://open.spotify.com/track/06hBdrgjUendZyH9U1WV22) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [...Like Clockwork](https://open.spotify.com/album/5T5NM01392dvvd4EhGrCnj) | 4:55 | 2022-05-25 |  |
 | [If You Have Ghosts](https://open.spotify.com/track/1sNSlzvQ5jPir46X5X1TeH) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [If You Have Ghost](https://open.spotify.com/album/08U01AsCXhbP7QdC7GABYw) | 3:34 | 2022-05-25 |  |
 | [If You Have Ghosts \- Bonus Track](https://open.spotify.com/track/1DhAs6AwQgjKMOs9EJ5AWY) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Infestissumam \(Redux\)](https://open.spotify.com/album/6wAdgEsc9xbvOKcaBG7T9f) | 3:33 | 2022-05-25 | 2022-07-24 |
 | [If You Really Love Nothing](https://open.spotify.com/track/51KMpn0p5Vb7XVdV7mWau5) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B) | [Marauder](https://open.spotify.com/album/3h5FWXoJEw2MFmUOMfVke2) | 4:25 | 2022-05-25 | 2022-08-05 |
@@ -290,7 +290,7 @@
 | [Love Don't Die](https://open.spotify.com/track/6IDDwI0YOCAUDhMZltQekS) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [Helios](https://open.spotify.com/album/4Z1kH6bfeeMYtCuhnR4vEr) | 3:03 | 2022-05-25 |  |
 | [Love Is Blindness](https://open.spotify.com/track/1kBM7AURqQTIXFePNVpEwP) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Sixteen Saltines](https://open.spotify.com/album/0lPeJhxMC3gIYOv9lmdV6V) | 3:18 | 2022-05-25 |  |
 | [Luck](https://open.spotify.com/track/4gHD93RNqEhEh2NkYzl3x6) | [American Authors](https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3) | [Oh, What A Life](https://open.spotify.com/album/0V4laGZGshNCpurfIdUhHv) | 3:40 | 2022-05-25 | 2022-07-10 |
-| [MANIFEST](https://open.spotify.com/track/4a8hN7I0sLKib8C5wCuxwE) | [STARSET](https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa) | [DIVISIONS](https://open.spotify.com/album/3mptvwc49sVgmxP5xIv7UN) | 4:27 | 2022-05-25 |  |
+| [MANIFEST](https://open.spotify.com/track/4a8hN7I0sLKib8C5wCuxwE) | [STARSET](https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa) | [DIVISIONS](https://open.spotify.com/album/3mptvwc49sVgmxP5xIv7UN) | 4:27 | 2022-05-25 | 2022-09-20 |
 | [Maria](https://open.spotify.com/track/4gwIqYEDyXn2PBH62WFSBv) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [Maria](https://open.spotify.com/album/6eF5y2ed0XX4Zx2fo1E3lb) | 3:08 | 2022-05-25 | 2022-07-26 |
 | [Marie Laveau](https://open.spotify.com/track/0SSNXT9L0sjrqRaANvSBt2) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Seal The Deal & Let's Boogie \(Deluxe\)](https://open.spotify.com/album/3v78ZZiv9L2Fb5x5fC8kVC) | 3:13 | 2022-05-25 | 2022-07-28 |
 | [Mary Go Round](https://open.spotify.com/track/79qct0g1MbfPTXTHWqLCzF) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA) | [Everybody Wants](https://open.spotify.com/album/7iLnNik9W0ttekJblYrVfj) | 3:19 | 2022-05-25 | 2022-07-26 |
@@ -410,6 +410,7 @@
 | [She's The Woman](https://open.spotify.com/track/0F8dNt3aLVFlQpeoUGOv1n) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [A Different Kind Of Truth](https://open.spotify.com/album/5ydOKnIrXsv7AziaSpRzZU) | 2:56 | 2022-05-25 | 2022-07-26 |
 | [Shelter](https://open.spotify.com/track/5C5Fle0gDOcUchmj4RgVH5) | [Broken Bells](https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG) | [Shelter](https://open.spotify.com/album/4mYvYnX8cLr4w2UjmkpjnU) | 3:59 | 2022-05-25 |  |
 | [Shine A Little Light](https://open.spotify.com/track/365TSrFPqM66giaxJuafR3) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | ["Let's Rock"](https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg) | 3:16 | 2022-05-25 |  |
+| [Ship To Wreck](https://open.spotify.com/track/20NEld0MhrR4Zpgrf9brq8) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [How Big, How Blue, How Beautiful \(Deluxe\)](https://open.spotify.com/album/0Om2TWqroaCLQamQME3bD2) | 3:54 | 2022-05-25 |  |
 | [Shoot Me Dead](https://open.spotify.com/track/6M8sDAXUgy3KZMl6TlG124) | [Hours Eastly](https://open.spotify.com/artist/2GwZDmtINCxF3N6GeG8NuM) | [Eat the Planes](https://open.spotify.com/album/6bs46jrew9DsLrKjkN4n6J) | 3:40 | 2022-05-25 | 2022-07-17 |
 | [Sick](https://open.spotify.com/track/7q3vcf5XpYU6Y1iX4ZzHAk) | [Adelitas Way](https://open.spotify.com/artist/1ZjAT2nTrzDIXFfsQ2hWJk) | [Home School Valedictorian](https://open.spotify.com/album/4wphpmpU7otsQnFEjIHcMT) | 3:11 | 2022-05-25 | 2022-07-29 |
 | [Sick of It](https://open.spotify.com/track/6joJVMwHvK9ZC71jEb3yQw) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Sick of It](https://open.spotify.com/album/3kfwyfc1FMHBvtQhateolM) | 3:11 | 2022-05-25 | 2022-07-29 |
@@ -503,7 +504,7 @@
 | [We Won't Back Down](https://open.spotify.com/track/3fOzATp5S0wvIGCdmC0Bmw) | [Ra](https://open.spotify.com/artist/4qrdhnXBOzRt9OSmL29IFO) | [We Won't Back Down](https://open.spotify.com/album/1On1iDatgx6O8zcNoKWF2i) | 3:53 | 2022-05-25 | 2022-07-29 |
 | [Weight of Love](https://open.spotify.com/track/3xMQOd1C3TXsjQ3pmzOmkC) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Turn Blue](https://open.spotify.com/album/6TvxpBzf9c8H1fsrAaQ8t3) | 6:50 | 2022-05-25 |  |
 | [Welcome To The Breakdown](https://open.spotify.com/track/3SHfZYUYMkz1PlE0WdVVap) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Wolves](https://open.spotify.com/album/4sz6Fn4BYORRLIc1AvQwQx) | 3:03 | 2022-05-25 | 2022-07-29 |
-| [Well, Everybody's Fucking In A U.F.O.](https://open.spotify.com/track/3KAS4vmuvRGP2BUQcxmu5i) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Electric Warlock Acid Witch Satanic Orgy Celebration Dispenser](https://open.spotify.com/album/4cwVkh8oYGwLGeVM0Jl35K) | 2:43 | 2022-05-25 |  |
+| [Well, Everybody's Fucking In A U.F.O.](https://open.spotify.com/track/3KAS4vmuvRGP2BUQcxmu5i) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Electric Warlock Acid Witch Satanic Orgy Celebration Dispenser](https://open.spotify.com/album/4cwVkh8oYGwLGeVM0Jl35K) | 2:43 | 2022-05-25 | 2022-09-20 |
 | [Wetsuit](https://open.spotify.com/track/2sqtkSLyuo3hdpnp0gyVCq) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [What Did You Expect from The Vaccines?](https://open.spotify.com/album/2T0iwqVWzr4Y63x4kKO5DW) | 3:50 | 2022-05-25 | 2022-08-24 |
 | [What You Want](https://open.spotify.com/track/0uOo8xRtQ6okTZMR89ppVk) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Evanescence](https://open.spotify.com/album/3U85Q4GtR0I3VwgDOKHttO) | 3:41 | 2022-05-25 | 2022-07-26 |
 | [What's Left Of Me](https://open.spotify.com/track/2FLwPldJQHRXm6xuAeabtp) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [What's Left Of Me](https://open.spotify.com/album/1bBruoqOGFca6YV7aDWnaL) | 2:58 | 2022-05-25 | 2022-07-20 |

@@ -3326,6 +3326,28 @@
     },
     {
       "album": {
+        "name": "Because the Internet",
+        "url": "https://open.spotify.com/album/4GNIhgEGXzWGAefgN5qjdU"
+      },
+      "artists": [
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        },
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219739,
+      "name": "I. The Worst Guys",
+      "url": "https://open.spotify.com/track/17wxjHNmOSstc6nVIe401T"
+    },
+    {
+      "album": {
         "name": "Icee Pop",
         "url": "https://open.spotify.com/album/0N75npNB8Wo93bY41XjHr7"
       },

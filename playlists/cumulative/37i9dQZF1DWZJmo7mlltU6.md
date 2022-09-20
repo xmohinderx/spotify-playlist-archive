@@ -4,7 +4,7 @@
 
 > Beyond genre, beyond language, beyond borders\. Cover: HYBS
 
-377 songs - 20 hr 57 min - [published](https://open.spotify.com/playlist/6bA5HVht0DRnYt7fu1eP5j)
+378 songs - 21 hr 0 min - [published](https://open.spotify.com/playlist/6bA5HVht0DRnYt7fu1eP5j)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -343,8 +343,9 @@
 | [TWTC](https://open.spotify.com/track/2CsnWF7nKkLV2IS42BaTjS) | [Mulay](https://open.spotify.com/artist/6hxUwSTKTLQoKGmKHLle54) | [TWTC](https://open.spotify.com/album/2wxaTB6AQkHZAvXemWJM8b) | 3:24 | 2022-08-05 | 2022-09-10 |
 | [Tú y Yo, un Barco y el Mar](https://open.spotify.com/track/47xL1NHsaK0FzEpKe7jUiZ) | [Los Fresones Rebeldes](https://open.spotify.com/artist/7jnDSK1hbbcZdjapo2bHzY) | [Tú y Yo, un Barco y el Mar](https://open.spotify.com/album/1WxpeyYb1kU8kC47PsjKfY) | 2:22 | 2022-05-30 | 2022-07-23 |
 | [Ultraviolet](https://open.spotify.com/track/6DxfWDdfSKYYrCTaqEFF20) | [Palmaria](https://open.spotify.com/artist/6FiIZF4NkLo6V2C0lovmrQ) | [Ultraviolet](https://open.spotify.com/album/7oOXwpYyXLLvfhEF4zvLaY) | 2:51 | 2022-05-20 |  |
-| [un poco más](https://open.spotify.com/track/1WFmdhHDXQT3xS1kMzuQNC) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [un poco más](https://open.spotify.com/album/5b1U3awRVijau7faHNtnxJ) | 2:18 | 2022-07-22 |  |
+| [un poco más](https://open.spotify.com/track/1WFmdhHDXQT3xS1kMzuQNC) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [un poco más](https://open.spotify.com/album/5b1U3awRVijau7faHNtnxJ) | 2:18 | 2022-07-22 | 2022-09-20 |
 | [un poco más](https://open.spotify.com/track/5MRRGF2Si2Aql4TobjfGGf) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [un poco más](https://open.spotify.com/album/4EZwSUtUU2l136RiMYkAO0) | 2:18 | 2022-05-30 | 2022-07-29 |
+| [un poco más](https://open.spotify.com/track/6LKZFDMdW2I59hv7jA5UOV) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [ya se me pasará](https://open.spotify.com/album/4UdbepeAR4DDMLWR08MBxr) | 2:18 | 2022-09-09 |  |
 | [Una Caricia](https://open.spotify.com/track/6CtLSYdM3TdVovUfwHtFur) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Una Caricia](https://open.spotify.com/album/3pLaIMdYteZIVFexcu8ViK) | 3:08 | 2022-01-14 | 2022-02-19 |
 | [Una costumbre ancestral](https://open.spotify.com/track/5u2dC5U42zYyTQUiRi6uHU) | [Cabiria](https://open.spotify.com/artist/2y7OtEBQuQCeFh2a8bYZVC) | [Una costumbre ancestral](https://open.spotify.com/album/6TyyyAYlrqog9s8IDrNcqB) | 4:03 | 2022-09-09 |  |
 | [Underworld](https://open.spotify.com/track/6R7jCmKhrnqeLl9fZyQ9Ej) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Child's Play](https://open.spotify.com/album/7knAeUf3ijalqC8jt5WZ4v) | 2:46 | 2022-01-14 | 2022-04-29 |

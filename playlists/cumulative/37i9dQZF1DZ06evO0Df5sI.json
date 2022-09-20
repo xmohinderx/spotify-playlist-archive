@@ -145,7 +145,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-20",
       "duration_ms": 265266,
       "name": "Crawl",
       "url": "https://open.spotify.com/track/3VsFBlBhHKN9TpsvRjH8c7"
@@ -271,10 +271,28 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-20",
       "duration_ms": 211773,
       "name": "Goodbye Fire Island",
       "url": "https://open.spotify.com/track/11b8iIU8p1DnkrMaVipeSp"
+    },
+    {
+      "album": {
+        "name": "The Alkaline Trio",
+        "url": "https://open.spotify.com/album/5waByzUzczyEbkV55jcIke"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170360,
+      "name": "Goodbye Forever",
+      "url": "https://open.spotify.com/track/3SPNVZvfdJBzvAqzx6szsv"
     },
     {
       "album": {
@@ -379,7 +397,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-19",
+      "date_removed": null,
       "duration_ms": 138693,
       "name": "I'm Dying Tomorrow",
       "url": "https://open.spotify.com/track/3KPa8afyEGV9CsBGVRiZWF"

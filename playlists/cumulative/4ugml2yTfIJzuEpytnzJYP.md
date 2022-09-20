@@ -4,7 +4,7 @@
 
 > Lovingly updated every week\.  Make sure to click the heart 💓 to follow the playlist 140, deep bass,  glitch hop,  halftime, dubstep, DnB, Wave
 
-147 songs - 9 hr 15 min - [published](https://open.spotify.com/playlist/56aybtrwt3JyZMLBFDdbFd)
+148 songs - 9 hr 20 min - [published](https://open.spotify.com/playlist/56aybtrwt3JyZMLBFDdbFd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [Raptor](https://open.spotify.com/track/7wqoXaaYeYV6zR4jegMgF4) | [DJ Lag](https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO), [Sinjin Hawke](https://open.spotify.com/artist/5qKCgbxBDmDc9Ckgmt4EaN) | [Raptor](https://open.spotify.com/album/023fZD6uYgvFdGOqG2HTli) | 3:17 | 2021-12-08 | 2021-12-12 |
 | [Replicants \- J:Kenzo Remix](https://open.spotify.com/track/6oOSSVjIuD05mzC5fIDTlc) | [ENiGMA Dubz](https://open.spotify.com/artist/7ygSJBM6sZ0vXGJvjnL1V5), [J:Kenzo](https://open.spotify.com/artist/2vnlhEYTh2K1O3NZE2ONiz) | [Replicants \(J:Kenzo Remix\)](https://open.spotify.com/album/0bX0KGunfUX7hriWuf0Fe1) | 5:18 | 2022-08-19 |  |
 | [Revel](https://open.spotify.com/track/31OzkljjiMk2xJzZBg23F8) | [ATYYA](https://open.spotify.com/artist/36NAuk7D3nO0JFfgZf3XI7) | [Cycles In Flux](https://open.spotify.com/album/3UXTCoH6FHAefHY03xApls) | 4:44 | 2022-01-21 | 2022-02-28 |
+| [Ruminate](https://open.spotify.com/track/7wqq6vKvzbaTYFZ4QUGjic) | [Mystic State](https://open.spotify.com/artist/052KAntc3fhUFwUgewa3Q4), [SMBR](https://open.spotify.com/artist/7afurVeEHZHC1d8LV3wnQQ) | [Stutter \- EP](https://open.spotify.com/album/2ywexsHX1MUToJaByaEYYQ) | 5:05 | 2022-09-19 |  |
 | [See You](https://open.spotify.com/track/2OQ0lsnpgmwmaIuSfVFIDx) | [Dreamers Delight](https://open.spotify.com/artist/1bDXdxSg3Ve7V7f3bteIyk) | [See You](https://open.spotify.com/album/1Q6A1gHBqhS3uq5nQpzv30) | 4:38 | 2022-02-25 | 2022-08-23 |
 | [Shaggy Mullet](https://open.spotify.com/track/53exglsd8umduSuQsxnkNJ) | [Bukez Finezt](https://open.spotify.com/artist/7lpT19TLWJN0pPEmUF9FTH) | [Shaggy Mullet](https://open.spotify.com/album/265FApjVuPAYEQYpcbBLUU) | 5:31 | 2022-04-25 | 2022-08-23 |
 | [Shake The System](https://open.spotify.com/track/3JCcoxU0MnbSA020N9Vi7m) | [An\-Ten\-Nae](https://open.spotify.com/artist/60WU0oNpF372dzVGDe4BcV) | [Is There Anybody Out There](https://open.spotify.com/album/7Krdabty2ZZ7sYeLmXA5ms) | 3:15 | 2022-04-01 | 2022-09-12 |

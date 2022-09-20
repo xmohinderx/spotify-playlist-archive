@@ -1144,6 +1144,24 @@
     },
     {
       "album": {
+        "name": "Pieces",
+        "url": "https://open.spotify.com/album/2Mzaihfp9i7m6UO5HSRtHb"
+      },
+      "artists": [
+        {
+          "name": "William Black",
+          "url": "https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208421,
+      "name": "Deep End",
+      "url": "https://open.spotify.com/track/1UtRBq2n0IlQNA1WI3axWX"
+    },
+    {
+      "album": {
         "name": "Deep End",
         "url": "https://open.spotify.com/album/6EGOIYk1sgkYq8XevCOjmF"
       },
@@ -1155,7 +1173,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-20",
       "duration_ms": 208421,
       "name": "Deep End",
       "url": "https://open.spotify.com/track/21UciS9u65KNCmrNXAToxK"
@@ -2902,6 +2920,28 @@
     },
     {
       "album": {
+        "name": "Anomaly",
+        "url": "https://open.spotify.com/album/7J8SSnGauta2Uy7HKhEDMA"
+      },
+      "artists": [
+        {
+          "name": "What So Not",
+          "url": "https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi"
+        },
+        {
+          "name": "EVAN GIIA",
+          "url": "https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181200,
+      "name": "Messin' Me Up",
+      "url": "https://open.spotify.com/track/1BaDqqGjB415IBUfR22NFC"
+    },
+    {
+      "album": {
         "name": "Messin' Me Up (feat. EVAN GIIA)",
         "url": "https://open.spotify.com/album/4mFMa4VmNqExwNQ54L1XTS"
       },
@@ -2939,7 +2979,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-20",
       "duration_ms": 181200,
       "name": "Messin' Me Up (feat. EVAN GIIA)",
       "url": "https://open.spotify.com/track/0cXSkPDfxh7rufiDSnLV3C"

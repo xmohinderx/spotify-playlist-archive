@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 
 > 
 
-[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 3,673 likes - 650 songs - 1 day 19 hr 42 min
+[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 3,677 likes - 652 songs - 1 day 19 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -658,5 +658,7 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 | 648 | [Use Me](https://open.spotify.com/track/4gRA0i5sxx3jAhHaVjPnUN) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Still Bill](https://open.spotify.com/album/0sFuW4rH5mFZUjNKnckO3v) | 3:48 |
 | 649 | [I Don't Remember](https://open.spotify.com/track/6m3yuXdLzDTgwJ1y1VnNaH) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [Peter Gabriel 3: Melt \(Remastered Version\)](https://open.spotify.com/album/0LF0vWmmKRVPXoikpNkO5W) | 4:42 |
 | 650 | [The Getaway](https://open.spotify.com/track/6v4T1yS6LCRPMHE4zrgfKU) | [The Afghan Whigs](https://open.spotify.com/artist/7IDrRpDz0cOuUVC32c8PKD) | [The Getaway](https://open.spotify.com/album/0XXzAo1VN3kdJmt1Z8YA14) | 3:05 |
+| 651 | [You Make Loving Fun \- 2004 Remaster](https://open.spotify.com/track/28H3wOEKsaEa8NBEYCLl4j) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours](https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB) | 3:33 |
+| 652 | [Second Hand News \- 2004 Remaster](https://open.spotify.com/track/0hlniElQOr5tvSKBaSpAQi) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours](https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB) | 2:56 |
 
-Snapshot ID: `MTY3MyxlYjUyYjA2ZmNiOTMyMmU3OTMyMDYzNWE3MTIyMDg2OWI3YjYzMzFm`
+Snapshot ID: `MTY3NSw3MWVmNjdmZTgyMzQ2ZjZjZTU3NDIyMDI1MzliMzkyNmM4NGJjMWZl`

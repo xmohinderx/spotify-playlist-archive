@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXauMQRH2JBCJ.md) - [plain]
 
 > All your favorite Disney songs wrapped up with love!
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,584 likes - 68 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,622 likes - 68 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXauMQRH2JBCJ.md) - [plain]
 | 38 | [Unforgettable](https://open.spotify.com/track/3zIqOgooI83sDqwSfo0aOH) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Finding Dory \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1S27vSJrXuHXiBOolInF0j) | 3:17 |
 | 39 | [If I Never Knew You \- End Title / From "Pocahontas" / Soundtrack Version](https://open.spotify.com/track/3qr68QUa50h7jMELcrjV6b) | [Jon Secada](https://open.spotify.com/artist/10n1KB2sjTrGdyuC83y8jW), [Shanice](https://open.spotify.com/artist/0Ttph0pOZiPNTD3y2wUUb6) | [Pocahontas](https://open.spotify.com/album/7L6kEZVkWh7OEI71b1JHZd) | 4:13 |
 | 40 | [Can You Feel the Love Tonight](https://open.spotify.com/track/1zSKtBze2IReYU44W0lDzd) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Billy Eichner](https://open.spotify.com/artist/0FVsUxcFSlxwIM7Qs31s6J), [Seth Rogen](https://open.spotify.com/artist/7xX39IyguhWsTIg4eU2reH) | [The Lion King \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7e8y48Z2fkJNGBOKSECCeS) | 3:02 |
-| 41 | [The Bare Necessities \- From "The Jungle Book"](https://open.spotify.com/track/4imtIfVskTzpoloHLaHplb) | [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [The Bare Necessities \(From "The Jungle Book"\)](https://open.spotify.com/album/5sRIFmDAhy6ngKjxrTaO6h) | 2:40 |
+| 41 | [The Bare Necessities \- From "The Jungle Book"](https://open.spotify.com/track/6aDmy1Tf35ee4rr6VTRbV1) | [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [The Disney Book](https://open.spotify.com/album/6s4Nj1n5yQuyn6ML0Jjk3z) | 2:40 |
 | 42 | [The Place Where Lost Things Go](https://open.spotify.com/track/6BK8BcFxMFr3JVUaAOZsYC) | [Emily Blunt](https://open.spotify.com/artist/1Q67mZjXzxBuLSgvgFdtuG) | [Mary Poppins Returns \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4A5q8ZjS2S7kXoixcEU81B) | 3:43 |
 | 43 | [Can You Feel the Love Tonight \- From "The Lion King" / Soundtrack Version](https://open.spotify.com/track/2XQee7HP5QrDwUGHOl6GFf) | [Joseph Williams](https://open.spotify.com/artist/5xk0kRuXn1zToTHpHAqpui), [Sally Dworsky](https://open.spotify.com/artist/7vK6xoR5zT4DypEu0blUku), [Nathan Lane](https://open.spotify.com/artist/0P0do9GwiSgweSF6Ui3mrv), [Ernie Sabella](https://open.spotify.com/artist/0RH6EMxqfzCEB7QCSKQ4xr), [Kristle Edwards](https://open.spotify.com/artist/4y5d67UxD0QON2vRZOjXZ6) | [Disney Summer Songs](https://open.spotify.com/album/6qykGE5x584duyLVYcnojE) | 2:56 |
 | 44 | [That's How You Know \- From "Enchanted"/Soundtrack Version](https://open.spotify.com/track/1OzSfjFW08DTD51XoNnog7) | [Amy Adams](https://open.spotify.com/artist/1gkcZQArk5rV8uBwG8y5FX) | [Enchanted](https://open.spotify.com/album/3juYz5KfvUJYunlI3caxIc) | 3:48 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXauMQRH2JBCJ.md) - [plain]
 | 67 | [A Conversation](https://open.spotify.com/track/5xdfZDKwjrnmUwgbJWT0tg) | [Ben Whishaw](https://open.spotify.com/artist/7pn3GFqPy6gZ6AdwpjSFpD) | [Mary Poppins Returns \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4A5q8ZjS2S7kXoixcEU81B) | 2:42 |
 | 68 | [Three Hearts \(End Title\)](https://open.spotify.com/track/2bzpFslWmm883WrCcBIKqU) | [Thomas Newman](https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK) | [Finding Dory \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1S27vSJrXuHXiBOolInF0j) | 1:36 |
 
-Snapshot ID: `MTY2MzIzMzQxMiwwMDAwMDAwMGYzZjg4Mzg5ODlmMmZmZDExYzUzMDdkMTBlZmI4MzM4`
+Snapshot ID: `MTY2MzIzMzQxMiwwMDAwMDAwMDg1ZWQxODZmNDRlYjU1NWY2NWQxNmExOTY5YjY4ZGYx`

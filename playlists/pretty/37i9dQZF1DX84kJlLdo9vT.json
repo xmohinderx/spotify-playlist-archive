@@ -1,12 +1,12 @@
 {
   "description": "Relive the good ol' days with these cheery 60s and more.",
-  "num_followers": 599707,
+  "num_followers": 599763,
   "original_name": "Happy Days",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODgwNzI0MCwwMDAwMDAwMDA5MTdmZDg5NzllOTliZWQzYzYxZWMyNTc2ZDUzOTM1",
+  "snapshot_id": "MTY1ODgwNzI0MCwwMDAwMDAwMDIxN2NhNzZlZTcwMWY1NDJiOGMzZDVmZGQ1OTM2NTQ2",
   "tracks": [
     {
       "added_at": "2022-07-26 03:47:20",
@@ -675,22 +675,6 @@
     {
       "added_at": "2022-07-26 03:47:20",
       "album": {
-        "name": "I'll Cry If I Want To",
-        "url": "https://open.spotify.com/album/7KSrseQi4wJDUfMT4mxNo8"
-      },
-      "artists": [
-        {
-          "name": "Lesley Gore",
-          "url": "https://open.spotify.com/artist/08b2PA6eFyugsWAk41eQKZ"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "It's My Party",
-      "url": "https://open.spotify.com/track/1Pq47iFLC5U7j8xeNiNcuS"
-    },
-    {
-      "added_at": "2022-07-26 03:47:20",
-      "album": {
         "name": "Mr. Tambourine Man",
         "url": "https://open.spotify.com/album/0pkrqPjeq9K5KD0hFqAKNa"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 149466,
       "name": "Mr. Tambourine Man",
       "url": "https://open.spotify.com/track/2HCaIYjkvWSZzaSKUoOh3d"
+    },
+    {
+      "added_at": "2022-07-26 03:47:20",
+      "album": {
+        "name": "I'll Cry If I Want To",
+        "url": "https://open.spotify.com/album/7KSrseQi4wJDUfMT4mxNo8"
+      },
+      "artists": [
+        {
+          "name": "Lesley Gore",
+          "url": "https://open.spotify.com/artist/08b2PA6eFyugsWAk41eQKZ"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "It's My Party",
+      "url": "https://open.spotify.com/track/1Pq47iFLC5U7j8xeNiNcuS"
     },
     {
       "added_at": "2022-07-26 03:47:20",

@@ -1,12 +1,12 @@
 {
   "description": "Electrified jazz, complex beats and virtuoso playing. Cover: Chick Corea",
-  "num_followers": 160059,
+  "num_followers": 160128,
   "original_name": "Fusion Fest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMwMDg2MCwwMDAwMDAwMDMzZTg3MDA1YWRjMGU5M2M2MjljYWMzNGM0N2ZhNDRm",
+  "snapshot_id": "MTY2MzMwMDg2MCwwMDAwMDAwMGIyNWFiNzFmNDcwY2IyMmU5N2NjNTcxYjVkZDU2NGRm",
   "tracks": [
     {
       "added_at": "2021-02-12 00:49:35",
@@ -807,22 +807,6 @@
     {
       "added_at": "2021-02-12 00:49:35",
       "album": {
-        "name": "Between The Lines",
-        "url": "https://open.spotify.com/album/14GNP2QxNPG3DKBrUv3HqR"
-      },
-      "artists": [
-        {
-          "name": "Uzeb",
-          "url": "https://open.spotify.com/artist/4luPcLmS8skJAinfcNb2iU"
-        }
-      ],
-      "duration_ms": 309800,
-      "name": "Spacy Country",
-      "url": "https://open.spotify.com/track/7oMfpYkcmKi3myvmaOWaff"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
         "name": "Visions of the Emerald Beyond",
         "url": "https://open.spotify.com/album/7J0OL2Ai73lJZu06coM0Oo"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 212560,
       "name": "Be Happy",
       "url": "https://open.spotify.com/track/2tjkwLNeVDrtpnX13UsycD"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Between The Lines",
+        "url": "https://open.spotify.com/album/14GNP2QxNPG3DKBrUv3HqR"
+      },
+      "artists": [
+        {
+          "name": "Uzeb",
+          "url": "https://open.spotify.com/artist/4luPcLmS8skJAinfcNb2iU"
+        }
+      ],
+      "duration_ms": 309800,
+      "name": "Spacy Country",
+      "url": "https://open.spotify.com/track/7oMfpYkcmKi3myvmaOWaff"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2021-02-12 00:49:35",
       "album": {
-        "name": "A Present For The Future",
-        "url": "https://open.spotify.com/album/0VBBS9WgfrokeBQvprKSp5"
-      },
-      "artists": [
-        {
-          "name": "Frank Gambale",
-          "url": "https://open.spotify.com/artist/61qjWk6PBpwXqSk4gmRuAC"
-        }
-      ],
-      "duration_ms": 551733,
-      "name": "Legends",
-      "url": "https://open.spotify.com/track/1uOhdNyN3TwlC16ZaKUmge"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
         "name": "The Bass-ic Collection",
         "url": "https://open.spotify.com/album/7hgSfIM3LS53U3i122ErOM"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 469333,
       "name": "School Days",
       "url": "https://open.spotify.com/track/50pEhOaOetbijbuifNvqgb"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "A Present For The Future",
+        "url": "https://open.spotify.com/album/0VBBS9WgfrokeBQvprKSp5"
+      },
+      "artists": [
+        {
+          "name": "Frank Gambale",
+          "url": "https://open.spotify.com/artist/61qjWk6PBpwXqSk4gmRuAC"
+        }
+      ],
+      "duration_ms": 551733,
+      "name": "Legends",
+      "url": "https://open.spotify.com/track/1uOhdNyN3TwlC16ZaKUmge"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -1197,6 +1197,22 @@
       "url": "https://open.spotify.com/track/6Xj35C5FprsCMDLOe4oljd"
     },
     {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Electric Rendezvous",
+        "url": "https://open.spotify.com/album/2U4gcTybmmNMb39sDnngCi"
+      },
+      "artists": [
+        {
+          "name": "Al Di Meola",
+          "url": "https://open.spotify.com/artist/3bBWKHfpepPOychRNFzg4q"
+        }
+      ],
+      "duration_ms": 180800,
+      "name": "Black Cat Shuffle",
+      "url": "https://open.spotify.com/track/1n8Toxxtt3L81MjkmMkH77"
+    },
+    {
       "added_at": "2021-07-16 04:01:00",
       "album": {
         "name": "Liberation Time",
@@ -1215,22 +1231,6 @@
     {
       "added_at": "2021-02-12 00:49:35",
       "album": {
-        "name": "Electric Rendezvous",
-        "url": "https://open.spotify.com/album/2U4gcTybmmNMb39sDnngCi"
-      },
-      "artists": [
-        {
-          "name": "Al Di Meola",
-          "url": "https://open.spotify.com/artist/3bBWKHfpepPOychRNFzg4q"
-        }
-      ],
-      "duration_ms": 180800,
-      "name": "Black Cat Shuffle",
-      "url": "https://open.spotify.com/track/1n8Toxxtt3L81MjkmMkH77"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
         "name": "Seven",
         "url": "https://open.spotify.com/album/24N4zsxdUCnH3340jhDvMX"
       },
@@ -1243,6 +1243,22 @@
       "duration_ms": 261506,
       "name": "Sons of Creation",
       "url": "https://open.spotify.com/track/0JuPd6sug8NBmLPLMUsELk"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Axiom",
+        "url": "https://open.spotify.com/album/7wpNfF5Qh0ZT3EE6cy0yxQ"
+      },
+      "artists": [
+        {
+          "name": "Christian Scott aTunde Adjuah",
+          "url": "https://open.spotify.com/artist/2q37Nw8NND2z1T1KU5XVfn"
+        }
+      ],
+      "duration_ms": 653190,
+      "name": "Guinnevere",
+      "url": "https://open.spotify.com/track/5AIWxJgzPpYukbUDXVY7qT"
     },
     {
       "added_at": "2022-04-08 04:02:00",
@@ -1263,22 +1279,6 @@
       "duration_ms": 230374,
       "name": "Funkdombe - edit",
       "url": "https://open.spotify.com/track/7sOEgNweXVf2N4ae7hzKMU"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
-        "name": "Axiom",
-        "url": "https://open.spotify.com/album/7wpNfF5Qh0ZT3EE6cy0yxQ"
-      },
-      "artists": [
-        {
-          "name": "Christian Scott aTunde Adjuah",
-          "url": "https://open.spotify.com/artist/2q37Nw8NND2z1T1KU5XVfn"
-        }
-      ],
-      "duration_ms": 653190,
-      "name": "Guinnevere",
-      "url": "https://open.spotify.com/track/5AIWxJgzPpYukbUDXVY7qT"
     },
     {
       "added_at": "2021-04-09 04:01:00",
@@ -1429,22 +1429,6 @@
       "url": "https://open.spotify.com/track/3zAhM2peL0ztwt20uzLC8x"
     },
     {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
-        "name": "Level One",
-        "url": "https://open.spotify.com/album/6AtCu7AMCXsLOW8Isemusi"
-      },
-      "artists": [
-        {
-          "name": "The Eleventh House",
-          "url": "https://open.spotify.com/artist/6gYvM7rw3TCx7cJn4ZDXhi"
-        }
-      ],
-      "duration_ms": 182040,
-      "name": "Level One",
-      "url": "https://open.spotify.com/track/6bTRDQpZ9f7WPhr74KtpvO"
-    },
-    {
       "added_at": "2021-04-09 04:01:00",
       "album": {
         "name": "Hunting Heads",
@@ -1459,6 +1443,22 @@
       "duration_ms": 422882,
       "name": "Hunting Heads",
       "url": "https://open.spotify.com/track/5euz3r8UPd1b8YYstR3nDH"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Level One",
+        "url": "https://open.spotify.com/album/6AtCu7AMCXsLOW8Isemusi"
+      },
+      "artists": [
+        {
+          "name": "The Eleventh House",
+          "url": "https://open.spotify.com/artist/6gYvM7rw3TCx7cJn4ZDXhi"
+        }
+      ],
+      "duration_ms": 182040,
+      "name": "Level One",
+      "url": "https://open.spotify.com/track/6bTRDQpZ9f7WPhr74KtpvO"
     },
     {
       "added_at": "2021-02-12 00:49:35",

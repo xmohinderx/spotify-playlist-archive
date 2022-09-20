@@ -4,7 +4,7 @@
 
 > Sometimes it's nice to be nice, you know.
 
-330 songs - 20 hr 2 min - [published](https://open.spotify.com/playlist/2x6wDidT6OVKVCyYz3g29W)
+331 songs - 20 hr 5 min - [published](https://open.spotify.com/playlist/2x6wDidT6OVKVCyYz3g29W)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [For All You Give \(feat\. Lucy Rose\)](https://open.spotify.com/track/0vL6Dt7L7k9srca6XxtjBM) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy), [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [For All You Give \(feat\. Lucy Rose\)](https://open.spotify.com/album/0cPqenJtgD6FP5UTST0fE2) | 3:11 | 2021-11-12 | 2022-07-16 |
 | [For Good](https://open.spotify.com/track/2NywGeZ2cJl5G7SSEDRF3P) | [katie phelan](https://open.spotify.com/artist/7g4ZlfLhJhCxpaMPUH2PY4) | [For Good](https://open.spotify.com/album/2KimldDD1VuIayQTZV6svQ) | 3:18 | 2022-03-19 | 2022-04-14 |
 | [French Navy](https://open.spotify.com/track/0xVU3b2ZWl8cq8QuZ6oYPl) | [Camera Obscura](https://open.spotify.com/artist/5gInJ5P5gQnOKPM3SUEVFt) | [My Maudlin Career](https://open.spotify.com/album/4MlYueB39zmkX1ScPAdczS) | 3:18 | 2022-03-19 | 2022-04-15 |
+| [French Navy](https://open.spotify.com/track/7Mb0qE443GpOcgkmgS4lP1) | [Camera Obscura](https://open.spotify.com/artist/5gInJ5P5gQnOKPM3SUEVFt) | [My Maudlin Career](https://open.spotify.com/album/7tcYHOoBL2DoocG2T7x8tg) | 3:18 | 2022-08-05 |  |
 | [Game Of Cards](https://open.spotify.com/track/1Lx4PGIgTkmyEzkymVYeKT) | [Katy J Pearson](https://open.spotify.com/artist/6xBsaFua2lgAUlNv8Yh0nQ) | [Game Of Cards](https://open.spotify.com/album/21V66hNHfSSZvkB1Fi9UCe) | 3:35 | 2022-06-22 | 2022-07-20 |
 | [Garden of Eden](https://open.spotify.com/track/6jF6VwQeIiy18FUH0wuIQN) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Garden of Eden](https://open.spotify.com/album/3pw1gb17EJ7ILSm9b28ZgQ) | 3:19 | 2021-11-12 | 2022-07-29 |
 | [Give It Hell](https://open.spotify.com/track/3HLfUZSknynfsgCRW9Tp2I) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [Give It Hell](https://open.spotify.com/album/0nfZ5UQSjxfYF4MC5YFxC2) | 3:24 | 2021-11-12 | 2022-07-29 |
@@ -197,7 +198,7 @@
 | [Mine Forever](https://open.spotify.com/track/6fGNYNyM6PL9qE6kkFaW49) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Mine Forever](https://open.spotify.com/album/5vPc0ab8XurwCozeAu1xp6) | 4:48 | 2021-11-12 |  |
 | [Mona Lisa](https://open.spotify.com/track/2JU0uzd2D1JxsvYsfEwZEe) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [Mona Lisa](https://open.spotify.com/album/4HWQr1DMWpRjlLf871CWe5) | 3:33 | 2021-11-12 | 2022-07-26 |
 | [More Like You](https://open.spotify.com/track/2cKHnVTfjxDaDYnMUyhZwU) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Woman on the Internet](https://open.spotify.com/album/3TEaY5Lqzymo0AVv2HkQep) | 3:40 | 2021-11-12 |  |
-| [Motels](https://open.spotify.com/track/1V888fh2JLVzMElr1pEz6Z) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Motels](https://open.spotify.com/album/59ok1dIXKrSGEuyziyoyfO) | 3:23 | 2022-08-05 |  |
+| [Motels](https://open.spotify.com/track/1V888fh2JLVzMElr1pEz6Z) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Motels](https://open.spotify.com/album/59ok1dIXKrSGEuyziyoyfO) | 3:23 | 2022-08-05 | 2022-09-20 |
 | [Moves](https://open.spotify.com/track/56m9pSdW8e56jiadoFKuu8) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Moves](https://open.spotify.com/album/5kMj4ooSnYk9MUCedMrhi7) | 3:13 | 2021-11-12 | 2022-09-05 |
 | [Muddy Waters](https://open.spotify.com/track/3XJ1GdicdMxdCru9Be8vzy) | [Max Pope](https://open.spotify.com/artist/1pW42WHCsBicnNoBkcbD7i) | [Muddy Waters](https://open.spotify.com/album/5zg12qv7QIpjNkqkM7cTBy) | 3:01 | 2022-03-19 | 2022-07-27 |
 | [My House](https://open.spotify.com/track/2zsmJ1AE5MlLfVrwaCytiD) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [My House](https://open.spotify.com/album/3T9SMHvZrlOst5HCTVr2CP) | 4:16 | 2021-11-12 | 2022-07-29 |

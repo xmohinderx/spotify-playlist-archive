@@ -1,12 +1,12 @@
 {
   "description": "You can dance or chill.",
-  "num_followers": 25609,
+  "num_followers": 25623,
   "original_name": "Dance Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzI0NzM4MiwwMDAwMDAwMGM1ZDljYjE0NjBjNTU0NDUxNWJkOGZiYjU5YTEyODQ4",
+  "snapshot_id": "MTY2MzI0NzM4MiwwMDAwMDAwMGU1YzNlOWI4MWQ0OGE2ODBlY2VkYmYzMTQ2ZTZhMmE2",
   "tracks": [
     {
       "added_at": "2022-09-15 13:09:42",
@@ -403,6 +403,30 @@
     {
       "added_at": "2022-09-15 13:09:42",
       "album": {
+        "name": "Found It With You",
+        "url": "https://open.spotify.com/album/6jqi6Ii1B5N7rODfX2RtlJ"
+      },
+      "artists": [
+        {
+          "name": "Piece Wise",
+          "url": "https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk"
+        },
+        {
+          "name": "Ali Bakgor",
+          "url": "https://open.spotify.com/artist/4Zdbr0JJj9SXMDJfus1mNs"
+        },
+        {
+          "name": "Lewyn",
+          "url": "https://open.spotify.com/artist/6h4aEgNEr9VqPnXkipmVAR"
+        }
+      ],
+      "duration_ms": 163410,
+      "name": "Found It With You",
+      "url": "https://open.spotify.com/track/1ShSONF1T74kfTEakluK40"
+    },
+    {
+      "added_at": "2022-09-15 13:09:42",
+      "album": {
         "name": "Eyes",
         "url": "https://open.spotify.com/album/0r9D46GKlhSUxm4TBKr7cE"
       },
@@ -439,30 +463,6 @@
       "duration_ms": 178909,
       "name": "Madness",
       "url": "https://open.spotify.com/track/3Uh7yYNERtRGfCnxIajStW"
-    },
-    {
-      "added_at": "2022-09-15 13:09:42",
-      "album": {
-        "name": "Found It With You",
-        "url": "https://open.spotify.com/album/6jqi6Ii1B5N7rODfX2RtlJ"
-      },
-      "artists": [
-        {
-          "name": "Piece Wise",
-          "url": "https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk"
-        },
-        {
-          "name": "Ali Bakgor",
-          "url": "https://open.spotify.com/artist/4Zdbr0JJj9SXMDJfus1mNs"
-        },
-        {
-          "name": "Lewyn",
-          "url": "https://open.spotify.com/artist/6h4aEgNEr9VqPnXkipmVAR"
-        }
-      ],
-      "duration_ms": 163410,
-      "name": "Found It With You",
-      "url": "https://open.spotify.com/track/1ShSONF1T74kfTEakluK40"
     },
     {
       "added_at": "2022-09-15 13:09:42",
@@ -523,6 +523,26 @@
     {
       "added_at": "2022-09-15 13:09:42",
       "album": {
+        "name": "Better Than This",
+        "url": "https://open.spotify.com/album/7qrkQGgH1cLKxPJVmXE4LS"
+      },
+      "artists": [
+        {
+          "name": "Keanler",
+          "url": "https://open.spotify.com/artist/1TMkg5qcE49Wc66pPls4NK"
+        },
+        {
+          "name": "Lewyn",
+          "url": "https://open.spotify.com/artist/6h4aEgNEr9VqPnXkipmVAR"
+        }
+      ],
+      "duration_ms": 155705,
+      "name": "Better Than This",
+      "url": "https://open.spotify.com/track/3rYcMu9SX9ezp9vmcQ9z5j"
+    },
+    {
+      "added_at": "2022-09-15 13:09:42",
+      "album": {
         "name": "Free Falling Love",
         "url": "https://open.spotify.com/album/5CJZNKNULqU1e71rCIBpWE"
       },
@@ -543,26 +563,6 @@
       "duration_ms": 155000,
       "name": "Free Falling Love",
       "url": "https://open.spotify.com/track/0srHt7dvF0U5ReVRVS3fz0"
-    },
-    {
-      "added_at": "2022-09-15 13:09:42",
-      "album": {
-        "name": "Better Than This",
-        "url": "https://open.spotify.com/album/7qrkQGgH1cLKxPJVmXE4LS"
-      },
-      "artists": [
-        {
-          "name": "Keanler",
-          "url": "https://open.spotify.com/artist/1TMkg5qcE49Wc66pPls4NK"
-        },
-        {
-          "name": "Lewyn",
-          "url": "https://open.spotify.com/artist/6h4aEgNEr9VqPnXkipmVAR"
-        }
-      ],
-      "duration_ms": 155705,
-      "name": "Better Than This",
-      "url": "https://open.spotify.com/track/3rYcMu9SX9ezp9vmcQ9z5j"
     },
     {
       "added_at": "2022-09-15 13:09:42",
@@ -711,22 +711,6 @@
     {
       "added_at": "2022-09-15 13:09:42",
       "album": {
-        "name": "Anything",
-        "url": "https://open.spotify.com/album/1UdsVPkJmTx4ITfeVnL8bF"
-      },
-      "artists": [
-        {
-          "name": "Marc Benjamin",
-          "url": "https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw"
-        }
-      ],
-      "duration_ms": 143606,
-      "name": "Anything",
-      "url": "https://open.spotify.com/track/74bv7UX4lmiu5ukPgHOUcY"
-    },
-    {
-      "added_at": "2022-09-15 13:09:42",
-      "album": {
         "name": "Someday (Latroit Edition)",
         "url": "https://open.spotify.com/album/0imxdkIlwChhIIrJALipXW"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 201656,
       "name": "Someday (Latroit Edition)",
       "url": "https://open.spotify.com/track/6oF66hFngUSqA9lHimenPp"
+    },
+    {
+      "added_at": "2022-09-15 13:09:42",
+      "album": {
+        "name": "Anything",
+        "url": "https://open.spotify.com/album/1UdsVPkJmTx4ITfeVnL8bF"
+      },
+      "artists": [
+        {
+          "name": "Marc Benjamin",
+          "url": "https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw"
+        }
+      ],
+      "duration_ms": 143606,
+      "name": "Anything",
+      "url": "https://open.spotify.com/track/74bv7UX4lmiu5ukPgHOUcY"
     },
     {
       "added_at": "2022-09-15 13:09:42",
@@ -983,26 +983,6 @@
     {
       "added_at": "2022-09-15 13:09:42",
       "album": {
-        "name": "Eyes",
-        "url": "https://open.spotify.com/album/56XTMHmxIztoBY2YFc29Gw"
-      },
-      "artists": [
-        {
-          "name": "MNI",
-          "url": "https://open.spotify.com/artist/1k2zLLZvwvxjir7vJJuvma"
-        },
-        {
-          "name": "Jordan Shaw",
-          "url": "https://open.spotify.com/artist/6Z8vLeI1ZMj2kzTNWVOBXr"
-        }
-      ],
-      "duration_ms": 167380,
-      "name": "Eyes",
-      "url": "https://open.spotify.com/track/2cVQVhgyRPzJusXAuklkWF"
-    },
-    {
-      "added_at": "2022-09-15 13:09:42",
-      "album": {
         "name": "No One Hurries Time",
         "url": "https://open.spotify.com/album/2hIhs4onnfovulkkODKLaP"
       },
@@ -1047,6 +1027,26 @@
     {
       "added_at": "2022-09-15 13:09:42",
       "album": {
+        "name": "Eyes",
+        "url": "https://open.spotify.com/album/56XTMHmxIztoBY2YFc29Gw"
+      },
+      "artists": [
+        {
+          "name": "MNI",
+          "url": "https://open.spotify.com/artist/1k2zLLZvwvxjir7vJJuvma"
+        },
+        {
+          "name": "Jordan Shaw",
+          "url": "https://open.spotify.com/artist/6Z8vLeI1ZMj2kzTNWVOBXr"
+        }
+      ],
+      "duration_ms": 167380,
+      "name": "Eyes",
+      "url": "https://open.spotify.com/track/2cVQVhgyRPzJusXAuklkWF"
+    },
+    {
+      "added_at": "2022-09-15 13:09:42",
+      "album": {
         "name": "Talk (Remixes)",
         "url": "https://open.spotify.com/album/41vAlkzAz6cA8yl0t7t82k"
       },
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2022-09-15 13:09:42",
       "album": {
-        "name": "Light A Fire",
-        "url": "https://open.spotify.com/album/4j0tX0LsZGN3ZNtVAzGjBl"
-      },
-      "artists": [
-        {
-          "name": "Marc Benjamin",
-          "url": "https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw"
-        }
-      ],
-      "duration_ms": 154500,
-      "name": "Light A Fire",
-      "url": "https://open.spotify.com/track/47Ahlfj3ZRc1MRf7np0jaf"
-    },
-    {
-      "added_at": "2022-09-15 13:09:42",
-      "album": {
         "name": "Falling",
         "url": "https://open.spotify.com/album/3s8ghNpqaH4O7Xk0BqAfnS"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 197739,
       "name": "Falling",
       "url": "https://open.spotify.com/track/3qomIBwYjMXzo0qDVfSYzc"
+    },
+    {
+      "added_at": "2022-09-15 13:09:42",
+      "album": {
+        "name": "Light A Fire",
+        "url": "https://open.spotify.com/album/4j0tX0LsZGN3ZNtVAzGjBl"
+      },
+      "artists": [
+        {
+          "name": "Marc Benjamin",
+          "url": "https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw"
+        }
+      ],
+      "duration_ms": 154500,
+      "name": "Light A Fire",
+      "url": "https://open.spotify.com/track/47Ahlfj3ZRc1MRf7np0jaf"
     },
     {
       "added_at": "2022-09-15 13:09:42",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2022-09-15 13:09:42",
       "album": {
+        "name": "Like Home",
+        "url": "https://open.spotify.com/album/0lCkWOdc6EZQKrsswelBXP"
+      },
+      "artists": [
+        {
+          "name": "Robby East",
+          "url": "https://open.spotify.com/artist/4PVHdWG0LtOCDDXo3Vh2yW"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "Like Home",
+      "url": "https://open.spotify.com/track/056o22JVIosLPAF9ZTPVqV"
+    },
+    {
+      "added_at": "2022-09-15 13:09:42",
+      "album": {
         "name": "Come Along",
         "url": "https://open.spotify.com/album/24eGI8ydRbFmsGBh1ZMXnY"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 164304,
       "name": "Come Along",
       "url": "https://open.spotify.com/track/43LMm7SOJvocWxLGC4o7vY"
-    },
-    {
-      "added_at": "2022-09-15 13:09:42",
-      "album": {
-        "name": "Like Home",
-        "url": "https://open.spotify.com/album/0lCkWOdc6EZQKrsswelBXP"
-      },
-      "artists": [
-        {
-          "name": "Robby East",
-          "url": "https://open.spotify.com/artist/4PVHdWG0LtOCDDXo3Vh2yW"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "Like Home",
-      "url": "https://open.spotify.com/track/056o22JVIosLPAF9ZTPVqV"
     },
     {
       "added_at": "2022-09-15 13:09:42",
@@ -1351,30 +1351,6 @@
     {
       "added_at": "2022-09-15 13:09:42",
       "album": {
-        "name": "Downtown",
-        "url": "https://open.spotify.com/album/0JBjEAchOXgp5LzTd2kYyt"
-      },
-      "artists": [
-        {
-          "name": "Wankelmut",
-          "url": "https://open.spotify.com/artist/01e2lCvLZ4fLUIRy68nptH"
-        },
-        {
-          "name": "De Hofnar",
-          "url": "https://open.spotify.com/artist/1LFGVkNRmXz8jIkyPjaGNL"
-        },
-        {
-          "name": "PLANT",
-          "url": "https://open.spotify.com/artist/2b2PRT5intoFoG9KPB3Nyq"
-        }
-      ],
-      "duration_ms": 171250,
-      "name": "Downtown",
-      "url": "https://open.spotify.com/track/1sc14QCYBn4jtuoQx8wECt"
-    },
-    {
-      "added_at": "2022-09-15 13:09:42",
-      "album": {
         "name": "Feelings After Dark (feat. NISHA)",
         "url": "https://open.spotify.com/album/2BuyHgSr8yy1LHEJCdMcBd"
       },
@@ -1395,6 +1371,30 @@
       "duration_ms": 164531,
       "name": "Feelings After Dark (feat. NISHA)",
       "url": "https://open.spotify.com/track/6xZsVNX6ZkOFNEj9ByRtow"
+    },
+    {
+      "added_at": "2022-09-15 13:09:42",
+      "album": {
+        "name": "Downtown",
+        "url": "https://open.spotify.com/album/0JBjEAchOXgp5LzTd2kYyt"
+      },
+      "artists": [
+        {
+          "name": "Wankelmut",
+          "url": "https://open.spotify.com/artist/01e2lCvLZ4fLUIRy68nptH"
+        },
+        {
+          "name": "De Hofnar",
+          "url": "https://open.spotify.com/artist/1LFGVkNRmXz8jIkyPjaGNL"
+        },
+        {
+          "name": "PLANT",
+          "url": "https://open.spotify.com/artist/2b2PRT5intoFoG9KPB3Nyq"
+        }
+      ],
+      "duration_ms": 171250,
+      "name": "Downtown",
+      "url": "https://open.spotify.com/track/1sc14QCYBn4jtuoQx8wECt"
     },
     {
       "added_at": "2022-09-15 13:09:42",
@@ -1579,26 +1579,22 @@
     {
       "added_at": "2022-09-15 13:09:42",
       "album": {
-        "name": "Scent of Wood (Bound to Divide Remix)",
-        "url": "https://open.spotify.com/album/3F5raVu3wkj29XJ8UKa9o3"
+        "name": "Going Home",
+        "url": "https://open.spotify.com/album/1j2oZNhOLbA98Jx7Qj1Z2Y"
       },
       "artists": [
         {
-          "name": "UOAK",
-          "url": "https://open.spotify.com/artist/4hYS3fIqfvtmZPbbggczYk"
+          "name": "GoldFish",
+          "url": "https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7"
         },
         {
-          "name": "Ceci",
-          "url": "https://open.spotify.com/artist/0hCW0HH1liY8gpi5Mk2VK4"
-        },
-        {
-          "name": "Bound to Divide",
-          "url": "https://open.spotify.com/artist/5nQ7llwdZYT6MWMeLLe8dc"
+          "name": "Max Vidima",
+          "url": "https://open.spotify.com/artist/1e3YLJrPLmaaVXpokokDK6"
         }
       ],
-      "duration_ms": 208548,
-      "name": "Scent of Wood (Bound to Divide Remix)",
-      "url": "https://open.spotify.com/track/10ziUOuysPmpB3mNtCpNTA"
+      "duration_ms": 262800,
+      "name": "Going Home",
+      "url": "https://open.spotify.com/track/28iHpIakBJCT7WsJAGw2QX"
     }
   ],
   "unique_name": "Dance Chill",

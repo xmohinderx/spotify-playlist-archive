@@ -4,7 +4,7 @@
 
 > Tomorrow's <a href="spotify:genre:edm\_dance">dance</a> hits, with Eliza Rose.
 
-1,684 songs - 4 day 0 hr 50 min - [published](https://open.spotify.com/playlist/2pLFymjcvaRi3S7CfLfDqz)
+1,685 songs - 4 day 0 hr 54 min - [published](https://open.spotify.com/playlist/2pLFymjcvaRi3S7CfLfDqz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,8 @@
 | [Around The World \(feat\. NOUMENN\)](https://open.spotify.com/track/273n4aGEPcL1HrcdhpGGul) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [NOUMENN](https://open.spotify.com/artist/7bFQpPcrEXYDQDcVPVahyC) | [Around The World \(feat\. NOUMENN\)](https://open.spotify.com/album/5mbOLvo8EOsUyuKStqC0aY) | 3:19 | 2021-02-26 | 2021-03-19 |
 | [Arriba](https://open.spotify.com/track/52ELmtQHttLnmaSc6xv4zd) | [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk), [Shotta Spence](https://open.spotify.com/artist/14an7ScQuhM34iovTS6CNa) | [Arriba](https://open.spotify.com/album/2X5FDyB4cH7pBeoXjbgM1L) | 2:19 | 2021-11-20 | 2022-03-05 |
 | [Artemi](https://open.spotify.com/track/41UkQ9OIR3YXxANP4IpkIe) | [Mary Mesk](https://open.spotify.com/artist/7Fc6qlNa6F4ONSLfJjlfjJ) | [Artemi](https://open.spotify.com/album/2Pki5w6pQPF35M3YslIWiO) | 5:09 | 2020-10-13\* | 2020-11-21 |
-| [As One](https://open.spotify.com/track/6bGRkVAP6s0oRAWA9us77o) | [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi), [Herizen](https://open.spotify.com/artist/3niPESDNKjDtTNfWzxZkXv) | [As One](https://open.spotify.com/album/6MYD76EnOec2G5Cde26mHd) | 3:58 | 2022-07-29 |  |
+| [As One](https://open.spotify.com/track/6bGRkVAP6s0oRAWA9us77o) | [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi), [Herizen](https://open.spotify.com/artist/3niPESDNKjDtTNfWzxZkXv) | [As One](https://open.spotify.com/album/6MYD76EnOec2G5Cde26mHd) | 3:58 | 2022-07-29 | 2022-09-20 |
+| [As One](https://open.spotify.com/track/7iTcMkN69dLMJSKJcA5uSb) | [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi), [Herizen](https://open.spotify.com/artist/3niPESDNKjDtTNfWzxZkXv) | [Anomaly](https://open.spotify.com/album/7J8SSnGauta2Uy7HKhEDMA) | 3:58 | 2022-07-29 |  |
 | [Ask Me](https://open.spotify.com/track/05QGJav2nGJ9qdQ3vG9A9t) | [Duck Sauce](https://open.spotify.com/artist/0q8J3Yj810t5cpAYEJ7gxt), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [Ask Me / Mesmerize](https://open.spotify.com/album/01n0HtCtQh4ogK1d8hmrws) | 3:13 | 2021-03-14 | 2021-05-22 |
 | [Astronomia \- Never Go Home](https://open.spotify.com/track/5WYB4aZkflwjAApBoDCYkz) | [Tony Igy](https://open.spotify.com/artist/2jpQ0ywffgVHhZFQNWaWYW) | [Astronomia \(Never Go Home\)](https://open.spotify.com/album/1bJePA8XUWVDi1e0w6FhWq) | 2:36 | 2020-10-16 | 2020-11-06 |
 | [Aurora](https://open.spotify.com/track/5tp6gaGhCCWHaqwuXVFuLk) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT) | [ÆON:TWO](https://open.spotify.com/album/6EJ9Vyo8NAzOLy3BhwQc4w) | 3:18 | 2022-08-05 | 2022-09-10 |

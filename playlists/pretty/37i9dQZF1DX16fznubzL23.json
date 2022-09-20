@@ -1,12 +1,12 @@
 {
   "description": "For the pain, tears and heartbreak.",
-  "num_followers": 3064,
+  "num_followers": 3091,
   "original_name": "End in Tears ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTUwNjkwNywwMDAwMDAwMDdmNmY0ZTcxMGJmODQxOGIzMzQzOTliZDhjZGZmZjZh",
+  "snapshot_id": "MTY2MzU3Mjk5MiwwMDAwMDAwMDFlOWZmYTk0MTg3NGYxMTcxOGE4NDYzNjQwZjE3N2U0",
   "tracks": [
     {
       "added_at": "2022-02-11 09:00:57",
@@ -89,20 +89,24 @@
       "url": "https://open.spotify.com/track/7DfFc7a6Rwfi3YQMRbDMau"
     },
     {
-      "added_at": "2022-02-11 09:00:57",
+      "added_at": "2022-09-19 07:36:32",
       "album": {
-        "name": "Jealous - EP",
-        "url": "https://open.spotify.com/album/6bsCl6iS6dvC4xaiBlecPv"
+        "name": "Truth, Love & Confessions (TLC)",
+        "url": "https://open.spotify.com/album/2nOd8tXJrNXIFw96EqwLb5"
       },
       "artists": [
         {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+          "name": "Idahams",
+          "url": "https://open.spotify.com/artist/6jPVueiSr0OHgVetuTuv5O"
+        },
+        {
+          "name": "Xenia Manasseh",
+          "url": "https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86"
         }
       ],
-      "duration_ms": 287693,
-      "name": "Jealous",
-      "url": "https://open.spotify.com/track/4G92yYrUs0cvY7G41YRI0z"
+      "duration_ms": 165957,
+      "name": "Hate That I Love",
+      "url": "https://open.spotify.com/track/2mYrLsa22EXcfhGzhB4Wvu"
     },
     {
       "added_at": "2022-08-26 09:41:47",
@@ -127,18 +131,18 @@
     {
       "added_at": "2022-02-11 09:00:57",
       "album": {
-        "name": "Over",
-        "url": "https://open.spotify.com/album/5AnJbiMebwoHI7mwgbhv2H"
+        "name": "Jealous - EP",
+        "url": "https://open.spotify.com/album/6bsCl6iS6dvC4xaiBlecPv"
       },
       "artists": [
         {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
         }
       ],
-      "duration_ms": 205275,
-      "name": "Over",
-      "url": "https://open.spotify.com/track/1DOgkaR5Gqa8JtPEIbQORC"
+      "duration_ms": 287693,
+      "name": "Jealous",
+      "url": "https://open.spotify.com/track/4G92yYrUs0cvY7G41YRI0z"
     },
     {
       "added_at": "2022-07-28 23:00:00",
@@ -171,18 +175,18 @@
     {
       "added_at": "2022-02-11 09:00:57",
       "album": {
-        "name": "For Broken Ears",
-        "url": "https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV"
+        "name": "Over",
+        "url": "https://open.spotify.com/album/5AnJbiMebwoHI7mwgbhv2H"
       },
       "artists": [
         {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
         }
       ],
-      "duration_ms": 169411,
-      "name": "Damages",
-      "url": "https://open.spotify.com/track/3Xfwu3xtPqmJ4nM4jpBm8O"
+      "duration_ms": 205275,
+      "name": "Over",
+      "url": "https://open.spotify.com/track/1DOgkaR5Gqa8JtPEIbQORC"
     },
     {
       "added_at": "2022-08-12 05:49:37",
@@ -201,6 +205,38 @@
       "url": "https://open.spotify.com/track/4d8eyF77ZplwhOSj1rqink"
     },
     {
+      "added_at": "2022-09-19 07:36:32",
+      "album": {
+        "name": "Bad To Me",
+        "url": "https://open.spotify.com/album/15hz0gTEdD5H9taOgDdrfJ"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 176850,
+      "name": "Bad To Me",
+      "url": "https://open.spotify.com/track/2pUlBBWq8R10ylbBvZJV9j"
+    },
+    {
+      "added_at": "2022-02-11 09:00:57",
+      "album": {
+        "name": "For Broken Ears",
+        "url": "https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 169411,
+      "name": "Damages",
+      "url": "https://open.spotify.com/track/3Xfwu3xtPqmJ4nM4jpBm8O"
+    },
+    {
       "added_at": "2022-06-17 07:50:47",
       "album": {
         "name": "Certified Loner (No Competition)",
@@ -217,6 +253,22 @@
       "url": "https://open.spotify.com/track/6NKuW3yaNXtloGw1RB8WUi"
     },
     {
+      "added_at": "2022-09-19 07:36:32",
+      "album": {
+        "name": "Yoruba Demon",
+        "url": "https://open.spotify.com/album/4hJAQ68RUNCu6pb3mrWYc0"
+      },
+      "artists": [
+        {
+          "name": "Di'Ja",
+          "url": "https://open.spotify.com/artist/6NPhzQsQKDigbNjJInGdCd"
+        }
+      ],
+      "duration_ms": 133894,
+      "name": "Yoruba Demon",
+      "url": "https://open.spotify.com/track/24XUKCOaMqHJbVm350wGDD"
+    },
+    {
       "added_at": "2022-04-28 23:11:00",
       "album": {
         "name": "Lie Again",
@@ -231,26 +283,6 @@
       "duration_ms": 187027,
       "name": "Lie Again",
       "url": "https://open.spotify.com/track/6LL5S3DGrUJ6cZRuDefguP"
-    },
-    {
-      "added_at": "2022-06-24 06:18:37",
-      "album": {
-        "name": "Paedae Drop a Flow",
-        "url": "https://open.spotify.com/album/604se8iMB1MPJW9VGpSYkk"
-      },
-      "artists": [
-        {
-          "name": "Omar Sterling",
-          "url": "https://open.spotify.com/artist/3hvJvURxBzOmRYDDEEIr7T"
-        },
-        {
-          "name": "DarkoVibes",
-          "url": "https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8"
-        }
-      ],
-      "duration_ms": 178604,
-      "name": "Don\u2019t Waste My Time",
-      "url": "https://open.spotify.com/track/5VXnWxhAdSUWz0dAazsYiR"
     },
     {
       "added_at": "2022-02-11 09:00:57",
@@ -273,6 +305,22 @@
       "url": "https://open.spotify.com/track/2B7UWqNqKgPVGQQ6FXn2PP"
     },
     {
+      "added_at": "2022-06-30 23:00:00",
+      "album": {
+        "name": "EX BOYFRIEND",
+        "url": "https://open.spotify.com/album/1OVZQ2AGHb6fQM0CFAviQq"
+      },
+      "artists": [
+        {
+          "name": "Raybekah",
+          "url": "https://open.spotify.com/artist/0SwPkNmxB2YGHWVJMI8kpW"
+        }
+      ],
+      "duration_ms": 134546,
+      "name": "EX BOYFRIEND",
+      "url": "https://open.spotify.com/track/3pcITc6cPAvj5JtOnXiB1X"
+    },
+    {
       "added_at": "2022-02-11 09:00:57",
       "album": {
         "name": "understand",
@@ -289,20 +337,20 @@
       "url": "https://open.spotify.com/track/6teW0qt23aGnWhC0rSvtoz"
     },
     {
-      "added_at": "2022-06-30 23:00:00",
+      "added_at": "2022-07-22 04:40:20",
       "album": {
-        "name": "EX BOYFRIEND",
-        "url": "https://open.spotify.com/album/1OVZQ2AGHb6fQM0CFAviQq"
+        "name": "Begging",
+        "url": "https://open.spotify.com/album/2YnH0BZHt58uxsgnnNeeYH"
       },
       "artists": [
         {
-          "name": "Raybekah",
-          "url": "https://open.spotify.com/artist/0SwPkNmxB2YGHWVJMI8kpW"
+          "name": "Yemi Alade",
+          "url": "https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW"
         }
       ],
-      "duration_ms": 134546,
-      "name": "EX BOYFRIEND",
-      "url": "https://open.spotify.com/track/3pcITc6cPAvj5JtOnXiB1X"
+      "duration_ms": 135272,
+      "name": "Begging",
+      "url": "https://open.spotify.com/track/771tThfRECkaHjTKb6clZx"
     },
     {
       "added_at": "2022-02-11 09:00:57",
@@ -339,22 +387,6 @@
       "duration_ms": 225729,
       "name": "Gentility",
       "url": "https://open.spotify.com/track/3vXFxsPqMgw4SYP7fkWicM"
-    },
-    {
-      "added_at": "2022-07-22 04:40:20",
-      "album": {
-        "name": "Begging",
-        "url": "https://open.spotify.com/album/2YnH0BZHt58uxsgnnNeeYH"
-      },
-      "artists": [
-        {
-          "name": "Yemi Alade",
-          "url": "https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW"
-        }
-      ],
-      "duration_ms": 135272,
-      "name": "Begging",
-      "url": "https://open.spotify.com/track/771tThfRECkaHjTKb6clZx"
     },
     {
       "added_at": "2022-02-11 09:00:57",
@@ -409,42 +441,6 @@
       "url": "https://open.spotify.com/track/6zublRIkZocboXucqc8hgB"
     },
     {
-      "added_at": "2022-02-11 09:00:57",
-      "album": {
-        "name": "Summers",
-        "url": "https://open.spotify.com/album/4Lg9SI9ZEG7qDH1oPxJxVb"
-      },
-      "artists": [
-        {
-          "name": "melvitto",
-          "url": "https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa"
-        },
-        {
-          "name": "Gabzy",
-          "url": "https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62"
-        }
-      ],
-      "duration_ms": 209605,
-      "name": "4 Nothin'",
-      "url": "https://open.spotify.com/track/2z3aAvPD98LnO2etDd5g12"
-    },
-    {
-      "added_at": "2022-02-11 09:00:57",
-      "album": {
-        "name": "The Prince I Became",
-        "url": "https://open.spotify.com/album/1ZFqA3I9luYn3JCzeUvkjB"
-      },
-      "artists": [
-        {
-          "name": "Ric Hassani",
-          "url": "https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ"
-        }
-      ],
-      "duration_ms": 179580,
-      "name": "Thunder Fire You",
-      "url": "https://open.spotify.com/track/272R7WaDdI1Wol1PHgAwIZ"
-    },
-    {
       "added_at": "2022-08-05 07:53:37",
       "album": {
         "name": "Miss You",
@@ -471,6 +467,62 @@
       "duration_ms": 201824,
       "name": "Miss You",
       "url": "https://open.spotify.com/track/30PjTH4isfHAsIsa9lMVvh"
+    },
+    {
+      "added_at": "2022-02-11 09:00:57",
+      "album": {
+        "name": "The Prince I Became",
+        "url": "https://open.spotify.com/album/1ZFqA3I9luYn3JCzeUvkjB"
+      },
+      "artists": [
+        {
+          "name": "Ric Hassani",
+          "url": "https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ"
+        }
+      ],
+      "duration_ms": 179580,
+      "name": "Thunder Fire You",
+      "url": "https://open.spotify.com/track/272R7WaDdI1Wol1PHgAwIZ"
+    },
+    {
+      "added_at": "2022-02-11 09:00:57",
+      "album": {
+        "name": "Life is Eazi, Vol. 2 - Lagos to London",
+        "url": "https://open.spotify.com/album/76ONwEklilRE14yBV1e5td"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 176766,
+      "name": "Miss You Bad",
+      "url": "https://open.spotify.com/track/54UrIc5qQRjX128jcvMKIT"
+    },
+    {
+      "added_at": "2022-02-11 09:00:57",
+      "album": {
+        "name": "Summers",
+        "url": "https://open.spotify.com/album/4Lg9SI9ZEG7qDH1oPxJxVb"
+      },
+      "artists": [
+        {
+          "name": "melvitto",
+          "url": "https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa"
+        },
+        {
+          "name": "Gabzy",
+          "url": "https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62"
+        }
+      ],
+      "duration_ms": 209605,
+      "name": "4 Nothin'",
+      "url": "https://open.spotify.com/track/2z3aAvPD98LnO2etDd5g12"
     },
     {
       "added_at": "2022-03-04 00:45:42",
@@ -525,26 +577,6 @@
       "url": "https://open.spotify.com/track/1rne9Xm5ZvMPpPFAL4uloN"
     },
     {
-      "added_at": "2022-02-11 09:00:57",
-      "album": {
-        "name": "Life is Eazi, Vol. 2 - Lagos to London",
-        "url": "https://open.spotify.com/album/76ONwEklilRE14yBV1e5td"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 176766,
-      "name": "Miss You Bad",
-      "url": "https://open.spotify.com/track/54UrIc5qQRjX128jcvMKIT"
-    },
-    {
       "added_at": "2022-04-07 23:00:00",
       "album": {
         "name": "Runaway",
@@ -569,6 +601,30 @@
       "url": "https://open.spotify.com/track/4vHVukKtQOkJNX5TwjRaBm"
     },
     {
+      "added_at": "2022-02-11 09:00:57",
+      "album": {
+        "name": "One Day You Will Understand",
+        "url": "https://open.spotify.com/album/6Z22tsn1nyT9CmcTZa8ZEC"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "emPawa Africa",
+          "url": "https://open.spotify.com/artist/4lJlIZfH7NKzwWizTDuYmN"
+        },
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Baby I'm Jealous",
+      "url": "https://open.spotify.com/track/5lAOltJO0aw2FUP5Use4cD"
+    },
+    {
       "added_at": "2022-05-12 23:00:00",
       "album": {
         "name": "Some Nights I Dream of Doors",
@@ -583,6 +639,22 @@
       "duration_ms": 203800,
       "name": "I Wish It Was Me",
       "url": "https://open.spotify.com/track/3ghmdRTijueJLRzswc779P"
+    },
+    {
+      "added_at": "2022-02-11 09:00:57",
+      "album": {
+        "name": "Freestyle EP",
+        "url": "https://open.spotify.com/album/77S4lBoIMeZEYvtWBMH5DO"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 112000,
+      "name": "Boulevard",
+      "url": "https://open.spotify.com/track/6khF6tGGrGcsQIfA4LP7P0"
     },
     {
       "added_at": "2022-04-07 23:00:00",
@@ -607,22 +679,6 @@
       "duration_ms": 193515,
       "name": "In A Loop",
       "url": "https://open.spotify.com/track/1fwPHJhjIKSqOnbXVSEoF2"
-    },
-    {
-      "added_at": "2022-02-11 09:00:57",
-      "album": {
-        "name": "Freestyle EP",
-        "url": "https://open.spotify.com/album/77S4lBoIMeZEYvtWBMH5DO"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 112000,
-      "name": "Boulevard",
-      "url": "https://open.spotify.com/track/6khF6tGGrGcsQIfA4LP7P0"
     },
     {
       "added_at": "2022-02-11 09:00:57",
@@ -683,30 +739,6 @@
     {
       "added_at": "2022-02-11 09:00:57",
       "album": {
-        "name": "One Day You Will Understand",
-        "url": "https://open.spotify.com/album/6Z22tsn1nyT9CmcTZa8ZEC"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
-          "name": "emPawa Africa",
-          "url": "https://open.spotify.com/artist/4lJlIZfH7NKzwWizTDuYmN"
-        },
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Baby I'm Jealous",
-      "url": "https://open.spotify.com/track/5lAOltJO0aw2FUP5Use4cD"
-    },
-    {
-      "added_at": "2022-02-11 09:00:57",
-      "album": {
         "name": "Village",
         "url": "https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9"
       },
@@ -755,6 +787,22 @@
       "duration_ms": 198000,
       "name": "Lie To Me (Tell Me a Fairy Tale)",
       "url": "https://open.spotify.com/track/5uWY0KnnVk2EVeUsgsnOFW"
+    },
+    {
+      "added_at": "2022-02-11 09:00:57",
+      "album": {
+        "name": "Life is Eazi, Vol. 2 - Lagos to London",
+        "url": "https://open.spotify.com/album/76ONwEklilRE14yBV1e5td"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 168159,
+      "name": "Pour Me Water",
+      "url": "https://open.spotify.com/track/1XIPyyGqBSU20i4gSagsLV"
     },
     {
       "added_at": "2022-02-11 09:00:57",
@@ -825,58 +873,6 @@
       "url": "https://open.spotify.com/track/0mTtZ8UbOySRQHkqaAA1CK"
     },
     {
-      "added_at": "2022-02-11 09:00:57",
-      "album": {
-        "name": "Live From Nkrumah Krom Vol II: Home Run",
-        "url": "https://open.spotify.com/album/2Vh06g2sKNucQUAJbUqSTh"
-      },
-      "artists": [
-        {
-          "name": "Kwesi Arthur",
-          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
-        },
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 213360,
-      "name": "Nobody",
-      "url": "https://open.spotify.com/track/6YOFW94Vha0L3ph7GvT10e"
-    },
-    {
-      "added_at": "2022-02-11 09:00:57",
-      "album": {
-        "name": "Boo of the Booless",
-        "url": "https://open.spotify.com/album/4BguuTkeDiuE2Iq4T6iM33"
-      },
-      "artists": [
-        {
-          "name": "Chike",
-          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Insecure",
-      "url": "https://open.spotify.com/track/3yVy2TK4A8pyGtzFFSzYhJ"
-    },
-    {
-      "added_at": "2022-02-11 09:00:57",
-      "album": {
-        "name": "Life is Eazi, Vol. 2 - Lagos to London",
-        "url": "https://open.spotify.com/album/76ONwEklilRE14yBV1e5td"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 168159,
-      "name": "Pour Me Water",
-      "url": "https://open.spotify.com/track/1XIPyyGqBSU20i4gSagsLV"
-    },
-    {
       "added_at": "2022-07-28 23:00:00",
       "album": {
         "name": "Distance",
@@ -895,18 +891,22 @@
     {
       "added_at": "2022-02-11 09:00:57",
       "album": {
-        "name": "Site 15",
-        "url": "https://open.spotify.com/album/4uI60dVqyZ6pVU36oUb0j2"
+        "name": "Live From Nkrumah Krom Vol II: Home Run",
+        "url": "https://open.spotify.com/album/2Vh06g2sKNucQUAJbUqSTh"
       },
       "artists": [
         {
-          "name": "R2Bees",
-          "url": "https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4"
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
         }
       ],
-      "duration_ms": 203773,
-      "name": "Yesterday",
-      "url": "https://open.spotify.com/track/2lw3bvokPAzxFWsfsWYoOH"
+      "duration_ms": 213360,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/6YOFW94Vha0L3ph7GvT10e"
     }
   ],
   "unique_name": "End in Tears ",

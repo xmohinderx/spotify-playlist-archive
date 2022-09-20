@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Mc Don Juan com Mc Davi e MC Ryan SP e mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,777,019 likes - 81 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,777,219 likes - 81 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 46 | [Party en el Barrio \(feat\. Duki\)](https://open.spotify.com/track/5GF0X7GdNmnouKcdhhRmtm) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Party en el Barrio \(feat\. Duki\)](https://open.spotify.com/album/2alxO71ik8lO8YIuNT2LKn) | 3:56 |
 | 47 | [Castigo](https://open.spotify.com/track/18pWcEUcUJpBFs7eNBsBht) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [FELIZ CUMPLEAÑOS FERXXO TE PIRATEAMOS EL ÁLBUM](https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9) | 2:57 |
 | 48 | [Favela](https://open.spotify.com/track/4j6PJ8ghqRvAbz1RyevPyb) | [Clara Lima](https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG), [Go Dassisti](https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G) | [Favela](https://open.spotify.com/album/1JI6dFETVdhFBOA3YFf8hc) | 3:03 |
-| 49 | [Dior \(feat\. Kawfe & Castelobeats\)](https://open.spotify.com/track/34eubIAM8A3ZH25kqjwLZS) | [The Boy](https://open.spotify.com/artist/2RDrgRouTQ289ET075WYuC), [Castelobeats](https://open.spotify.com/artist/3no8LdgnzjumzHIyoZGWEC), [Kawfe](https://open.spotify.com/artist/0hHa1F6X9UzTSR1Twkimt8) | [Dior \(feat\. Kawfe & Castelobeats\)](https://open.spotify.com/album/3GQ5v7ec9r4I1A2Pg1HzHJ) | 3:07 |
+| 49 | [Dior](https://open.spotify.com/track/34eubIAM8A3ZH25kqjwLZS) | [The Boy](https://open.spotify.com/artist/2RDrgRouTQ289ET075WYuC), [Kawfe](https://open.spotify.com/artist/0hHa1F6X9UzTSR1Twkimt8), [Castelobeats](https://open.spotify.com/artist/3no8LdgnzjumzHIyoZGWEC) | [Dior](https://open.spotify.com/album/3GQ5v7ec9r4I1A2Pg1HzHJ) | 3:07 |
 | 50 | [Festinha da França](https://open.spotify.com/track/5PZSP8p16QkABkbhi19s53) | [Guxta](https://open.spotify.com/artist/3LutKkAZcYI7vS81R2yJjy), [MC Braz](https://open.spotify.com/artist/7htxZTR76qcXYJylEmkLiJ), [Massaru](https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU), [Nolly](https://open.spotify.com/artist/0AyG67rFODHB8963eyG0tT), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [Festinha da França](https://open.spotify.com/album/1D1GwEKqu5z8mQpQ1DfgC6) | 2:45 |
 | 51 | [Quem Dera \(feat\. MC MM\)](https://open.spotify.com/track/3XVPd02z7vDSUEoH3qW1pj) | [Davi Kneip](https://open.spotify.com/artist/6rygauyIMQJrXRC4e5rQJP), [JC NO BEAT](https://open.spotify.com/artist/1xglv0oUbyJaycWFhyec8U), [DJ LMB](https://open.spotify.com/artist/4Vy4r3LI5EujHDewjGuIp8), [MC MM](https://open.spotify.com/artist/3a5ydeAaojKa3CHWe5PVWK) | [Quem Dera](https://open.spotify.com/album/5zrXq29OpzppimxEX1mIwy) | 2:38 |
 | 52 | [Coroa Crazy](https://open.spotify.com/track/6jSJ1UsYsjZPYRLNAYwsTs) | [Mr\. Catra](https://open.spotify.com/artist/1mXaaMbQM3IYuhNWaZdFuE), [Samuca Sánchez](https://open.spotify.com/artist/5fnVXjUkdyW1UXszqmSBN7) | [Coroa Crazy](https://open.spotify.com/album/0o02j3XPIs1X8WbZ4ypLWh) | 2:49 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 80 | [Dia Internacional](https://open.spotify.com/track/5yUt9Bg1zJUE8Za7Tt7VZX) | [Felipe Nunes](https://open.spotify.com/artist/4wyNa7r8520lzGB4OikH26), [John Amplificado](https://open.spotify.com/artist/2zjdf1M6DGPcBFnvEYmydy) | [Dia Internacional](https://open.spotify.com/album/07j7iSoaziZuz2Ct8a5n6O) | 2:18 |
 | 81 | [Muita Onda](https://open.spotify.com/track/6A3rds5H93800ZYsyVwg85) | [Felipe Cordeiro](https://open.spotify.com/artist/5Udg8m6Rj2wefjeKJZRvk4), [Valéria Paiva](https://open.spotify.com/artist/6zIwtC4dnSAuy7Xstsckeo), [Fruto Sensual](https://open.spotify.com/artist/6syywN4FcSZEBwaEV7EsNq) | [Muita Onda](https://open.spotify.com/album/0wbh56tC5CWb7QOo1BkKWE) | 2:28 |
 
-Snapshot ID: `MTY2MzM1ODcyNywwMDAwMDAwMDRhY2M1YzEzZjNhMDVlODQ0NDBjMzAwZDJjZTRlYjA4`
+Snapshot ID: `MTY2MzYwODI5NiwwMDAwMDAwMGY0NDEwMzZiZjI0MGMwNDVlMjY3MzQ5NmU5ZTJhN2I3`

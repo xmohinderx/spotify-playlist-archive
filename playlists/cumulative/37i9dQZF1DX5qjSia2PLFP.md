@@ -4,7 +4,7 @@
 
 > New music breaking waves\.  Cover: Ice Spice
 
-169 songs - 7 hr 53 min - [published](https://open.spotify.com/playlist/74YlDMgCbNeMMptS6g5iCD)
+170 songs - 7 hr 56 min - [published](https://open.spotify.com/playlist/74YlDMgCbNeMMptS6g5iCD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,8 @@
 | [Ghetto Praise](https://open.spotify.com/track/1kAQDi1RFgIZ1ZvQMJ2bR6) | [Jay 305](https://open.spotify.com/artist/2l2o6ibYa7h1w4HwaS1uZV), [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe) | [Ghetto Praise](https://open.spotify.com/album/5kMV844MGwO03ZBF4iAOyc) | 3:13 | 2022-05-06 | 2022-08-13 |
 | [GIFTED](https://open.spotify.com/track/6jCvpNfDksF9ociFet0nE3) | [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl) | [sounds of so\(u\)litude](https://open.spotify.com/album/6AWmEQFkIdkoQGaJkDCQj9) | 4:30 | 2022-05-12 | 2022-08-20 |
 | [Golden](https://open.spotify.com/track/03UZ8fbo1heGpeeVI380lY) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [Golden](https://open.spotify.com/album/0hNccp1ktroLsmDFPvUh0l) | 3:09 | 2021-09-01 | 2022-03-05 |
-| [Good Movie](https://open.spotify.com/track/4leKMM9HGvo32ZcIGRafGS) | [Pi’erre Bourne](https://open.spotify.com/artist/3x3jSlhyv5CiCZDZlaTq0M) | [Good Movie](https://open.spotify.com/album/3cNHTRSvsTSp0IjYQvygoB) | 3:05 | 2022-08-26 |  |
+| [Good Movie](https://open.spotify.com/track/3UZdSNMSGjZM5GuGuqB5ff) | [Pi’erre Bourne](https://open.spotify.com/artist/3x3jSlhyv5CiCZDZlaTq0M) | [Good Movie](https://open.spotify.com/album/2REajdJ8KOaR8Vm2Zx8UXM) | 3:05 | 2022-08-26 |  |
+| [Good Movie](https://open.spotify.com/track/4leKMM9HGvo32ZcIGRafGS) | [Pi’erre Bourne](https://open.spotify.com/artist/3x3jSlhyv5CiCZDZlaTq0M) | [Good Movie](https://open.spotify.com/album/3cNHTRSvsTSp0IjYQvygoB) | 3:05 | 2022-08-26 | 2022-09-20 |
 | [Green Line](https://open.spotify.com/track/5Ebu0lwiMFhempIKg1GUAk) | [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt), [Terrell Morris](https://open.spotify.com/artist/7C3agcqFXnteDagiWhaZdU) | [Green Line](https://open.spotify.com/album/4pZN0JVoQx3ikvl6qGzUH6) | 3:26 | 2022-02-11 | 2022-05-21 |
 | [HAHA \(feat\. Pusha T\)](https://open.spotify.com/track/2H01cB8CXFLRc4TriH5UYW) | [Al\-Doms](https://open.spotify.com/artist/2SjTz6It0TjopEYQjJMxqb), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [HAHA \(feat\. Pusha T\)](https://open.spotify.com/album/01dfvcwL8PhZ9IDlzjBO4M) | 2:09 | 2022-06-24 |  |
 | [Hell Shot](https://open.spotify.com/track/60Yi5Vxd5oFcuIxXuerCSU) | [Thouxanbanfauni](https://open.spotify.com/artist/1O8X4zxUh4AdAPFttOTlLr), [Robb Bank$](https://open.spotify.com/artist/7KduBCxhfAMiQlhMOHL3IZ) | [Hell Shot](https://open.spotify.com/album/5kaqmOQfV1eGTaN0md4Jt4) | 3:28 | 2022-06-24 |  |

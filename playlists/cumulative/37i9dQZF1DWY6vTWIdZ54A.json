@@ -705,6 +705,24 @@
     {
       "album": {
         "name": "Martyr Parade",
+        "url": "https://open.spotify.com/album/7jDkW8ksFaqsKYxa8TaOUc"
+      },
+      "artists": [
+        {
+          "name": "Des Rocs",
+          "url": "https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162742,
+      "name": "Dead Ringer",
+      "url": "https://open.spotify.com/track/3euwIRlHxXGrEYVAr5Ew6j"
+    },
+    {
+      "album": {
+        "name": "Martyr Parade",
         "url": "https://open.spotify.com/album/5g5DjibntDMWXkc7pv9PFs"
       },
       "artists": [
@@ -715,7 +733,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-20",
       "duration_ms": 162742,
       "name": "Dead Ringer",
       "url": "https://open.spotify.com/track/3oCTZrItdPrphBFvFm67GG"
@@ -1147,10 +1165,28 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-20",
       "duration_ms": 253599,
       "name": "Grace",
       "url": "https://open.spotify.com/track/0aJq40QZqvfGubgfKy5knk"
+    },
+    {
+      "album": {
+        "name": "(self-titled)",
+        "url": "https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE"
+      },
+      "artists": [
+        {
+          "name": "Marcus Mumford",
+          "url": "https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253599,
+      "name": "Grace",
+      "url": "https://open.spotify.com/track/4i4gcJSMofr3Pe9YWThzRp"
     },
     {
       "album": {
@@ -1766,6 +1802,24 @@
     },
     {
       "album": {
+        "name": "Let the Vultures In",
+        "url": "https://open.spotify.com/album/0NvZagPSgA7PLFI7yydUTn"
+      },
+      "artists": [
+        {
+          "name": "Des Rocs",
+          "url": "https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207141,
+      "name": "Let Me Live / Let Me Die",
+      "url": "https://open.spotify.com/track/0AVIswXP3Q5FnlorjU0DbI"
+    },
+    {
+      "album": {
         "name": "Let Me Live / Let Me Die",
         "url": "https://open.spotify.com/album/1aY43nCh7Oy0D7KEfPRqBA"
       },
@@ -1795,7 +1849,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-20",
       "duration_ms": 207141,
       "name": "Let Me Live / Let Me Die",
       "url": "https://open.spotify.com/track/481idAnpIOHEjR4YPsbA0y"
@@ -2541,10 +2595,32 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-20",
       "duration_ms": 165566,
       "name": "Outta My Mind",
       "url": "https://open.spotify.com/track/6RzQcj2SoYgmFsjScM7uoM"
+    },
+    {
+      "album": {
+        "name": "Martyr Parade",
+        "url": "https://open.spotify.com/album/7jDkW8ksFaqsKYxa8TaOUc"
+      },
+      "artists": [
+        {
+          "name": "Des Rocs",
+          "url": "https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8"
+        },
+        {
+          "name": "The Cobra",
+          "url": "https://open.spotify.com/artist/6ljXzPvTDhxrhXTDuz3YEr"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165566,
+      "name": "Outta My Mind",
+      "url": "https://open.spotify.com/track/7BVo8X0ckrgdSwOwvKEcjh"
     },
     {
       "album": {
@@ -3582,6 +3658,24 @@
     },
     {
       "album": {
+        "name": "Let the Vultures In",
+        "url": "https://open.spotify.com/album/0NvZagPSgA7PLFI7yydUTn"
+      },
+      "artists": [
+        {
+          "name": "Des Rocs",
+          "url": "https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256342,
+      "name": "Used to the Darkness",
+      "url": "https://open.spotify.com/track/3SemJVQCsUo0K3QGN7pIXu"
+    },
+    {
+      "album": {
         "name": "Used to the Darkness",
         "url": "https://open.spotify.com/album/4CYGAZsEydjZh4peJPnNVK"
       },
@@ -3611,7 +3705,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-20",
       "duration_ms": 256343,
       "name": "Used to the Darkness",
       "url": "https://open.spotify.com/track/6fLKwF2FLBtPNvtrVjYDVz"
@@ -3673,6 +3767,24 @@
     {
       "album": {
         "name": "Wayne",
+        "url": "https://open.spotify.com/album/7u7IYGxioBUt8DTBh4eQWe"
+      },
+      "artists": [
+        {
+          "name": "Des Rocs",
+          "url": "https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200933,
+      "name": "Wayne",
+      "url": "https://open.spotify.com/track/3MDZ9jGIlOElt3hfHVOOAa"
+    },
+    {
+      "album": {
+        "name": "Wayne",
         "url": "https://open.spotify.com/album/2SQsKlB8q1DwgMYDbkN5h4"
       },
       "artists": [
@@ -3683,7 +3795,7 @@
       ],
       "date_added": "2020-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-20",
       "duration_ms": 200933,
       "name": "Wayne",
       "url": "https://open.spotify.com/track/3ZFaioRJSjrdH01nfBgbNB"

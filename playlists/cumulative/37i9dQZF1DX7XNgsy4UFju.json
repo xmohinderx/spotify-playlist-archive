@@ -3988,6 +3988,24 @@
     },
     {
       "album": {
+        "name": "Gold Rush",
+        "url": "https://open.spotify.com/album/0s0xUyVkHmZy5GeHlwEvK0"
+      },
+      "artists": [
+        {
+          "name": "Stella Explorer",
+          "url": "https://open.spotify.com/artist/4dPeWqBSnhunEI2okArvwD"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284970,
+      "name": "Gold Rush",
+      "url": "https://open.spotify.com/track/48iDkwmfHzeX5IXFQujb7x"
+    },
+    {
+      "album": {
         "name": "Gone",
         "url": "https://open.spotify.com/album/60PbOGMe2c5w7ST3UpH3bU"
       },
@@ -7273,7 +7291,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-20",
       "duration_ms": 181906,
       "name": "My Limitations",
       "url": "https://open.spotify.com/track/3jbBgWsDIvqYeF1Du6z6EE"

@@ -286,6 +286,28 @@
     },
     {
       "album": {
+        "name": "Art & Melody",
+        "url": "https://open.spotify.com/album/4LNA7KmTvvKSfqnZMHV4WJ"
+      },
+      "artists": [
+        {
+          "name": "Jacob",
+          "url": "https://open.spotify.com/artist/5IRGhffWFbNGJqS7wc7UDN"
+        },
+        {
+          "name": "Jilax",
+          "url": "https://open.spotify.com/artist/4JivOD3AVVevayZVBLUk1B"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301714,
+      "name": "Art & Melody",
+      "url": "https://open.spotify.com/track/1CqWQSCoDgbhZnLen3gZhq"
+    },
+    {
+      "album": {
         "name": "Aware",
         "url": "https://open.spotify.com/album/03C5aokmrg7mZq0odQryVu"
       },
@@ -2001,7 +2023,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-20",
       "duration_ms": 230736,
       "name": "Locos",
       "url": "https://open.spotify.com/track/6BQnoBulQozQZftBCcQMEw"

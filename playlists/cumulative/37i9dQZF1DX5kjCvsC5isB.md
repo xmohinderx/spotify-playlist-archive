@@ -4,7 +4,7 @@
 
 > These women are on the rise, and are rocking our worlds right now / Cover: Maggie Lindemann
 
-237 songs - 12 hr 33 min - [published](https://open.spotify.com/playlist/1gH63Zpl7ewTwMhhkAimLS)
+238 songs - 12 hr 37 min - [published](https://open.spotify.com/playlist/1gH63Zpl7ewTwMhhkAimLS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,7 +194,8 @@
 | [Save Me](https://open.spotify.com/track/0yVDMgFk4GzxDW7d1kuQBm) | [Eliza & The Delusionals](https://open.spotify.com/artist/5XOV5b7cxUgB9PcoLBn69l) | [Now and Then](https://open.spotify.com/album/3CEFLFiJou19gt6VY6o56I) | 3:23 | 2022-06-24 | 2022-08-20 |
 | [Say It](https://open.spotify.com/track/2UnuT1Wl1oYQVTulCtII8G) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Say It](https://open.spotify.com/album/5XCCFDHcIswJ3d0vhGeC8g) | 3:35 | 2022-01-14 | 2022-03-12 |
 | [Say It](https://open.spotify.com/track/5FfT45gDQWDyR8lZpn60DD) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Squeeze](https://open.spotify.com/album/54p7fdwenIgGmhUK4qbCiT) | 3:35 | 2022-03-04 |  |
-| [Sea Beast](https://open.spotify.com/track/6jOterKXTsegIVbAPpccbf) | [The Dead Deads](https://open.spotify.com/artist/5WGrqaw1HnSJTslqdqZKOj) | [Tell Your Girls It's Alright](https://open.spotify.com/album/0755YAd8pGhGePeHc7qQre) | 3:52 | 2021-09-10 |  |
+| [Sea Beast](https://open.spotify.com/track/1ItiGdViCRAShsm05gjX1a) | [The Dead Deads](https://open.spotify.com/artist/5WGrqaw1HnSJTslqdqZKOj) | [Tell Your Girls It's Alright](https://open.spotify.com/album/2XctpNmXJpUjhYseKpjEoc) | 3:52 | 2022-08-19 |  |
+| [Sea Beast](https://open.spotify.com/track/6jOterKXTsegIVbAPpccbf) | [The Dead Deads](https://open.spotify.com/artist/5WGrqaw1HnSJTslqdqZKOj) | [Tell Your Girls It's Alright](https://open.spotify.com/album/0755YAd8pGhGePeHc7qQre) | 3:52 | 2021-09-10 | 2022-09-20 |
 | [Security](https://open.spotify.com/track/1IyNQIczrOabSeU3HEJNwT) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Security](https://open.spotify.com/album/7BbLKYoBNvPRnHnFQq1Fkt) | 3:47 | 2021-07-30 | 2022-04-02 |
 | [Seize the Power](https://open.spotify.com/track/4wD6EgZCok8Qb5Fs8jszYc) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [Seize the Power](https://open.spotify.com/album/0nxvZWO6ybAd4OZ63cImZ7) | 2:41 | 2021-07-30 |  |
 | [SENSORYOVERLOAD\*](https://open.spotify.com/track/5bpeE40GHCJRZooAWPGAKt) | [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [Death Of A Fantasy](https://open.spotify.com/album/6lmFyx2YERrRXaGBnMw8bL) | 3:15 | 2022-08-19 |  |

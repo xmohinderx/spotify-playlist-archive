@@ -4,7 +4,7 @@
 
 > Keep it low\-key with all of today's chill pop\. Cover: Omar Apollo
 
-1,055 songs - 2 day 7 hr 58 min - [published](https://open.spotify.com/playlist/6isU2kXFblpGeacMELfavp)
+1,056 songs - 2 day 8 hr 2 min - [published](https://open.spotify.com/playlist/6isU2kXFblpGeacMELfavp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -714,7 +714,8 @@
 | [Outta My Head \(with John Mayer\)](https://open.spotify.com/track/09oZ9eXQ2fo6YDrPzJqAoP) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Free Spirit](https://open.spotify.com/album/6KT8x5oqZJl9CcnM66hddo) | 2:57 | 2020-04-26\* | 2020-05-16 |
 | [Outta This World](https://open.spotify.com/track/58Rt4LpJI0HoYuOX9ILG7L) | [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [Outta This World](https://open.spotify.com/album/5j6iEQQKvgHYIBmusCIU2B) | 2:39 | 2021-11-06 | 2022-05-03 |
 | [Over You](https://open.spotify.com/track/73sP0b1YZ74voCWVWbbueL) | [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE) | [Over You](https://open.spotify.com/album/6Gy9u1jVgnQWjW0bCJKnWD) | 3:00 | 2020-05-30 | 2020-07-24 |
-| [Palladium](https://open.spotify.com/track/1bI1ASTRif9GKJO9b7PQk3) | [Greyson Chance](https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX) | [Palladium](https://open.spotify.com/album/2YyWyMCjuegqxsrfo1672e) | 4:07 | 2022-06-24 |  |
+| [Palladium](https://open.spotify.com/track/1bI1ASTRif9GKJO9b7PQk3) | [Greyson Chance](https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX) | [Palladium](https://open.spotify.com/album/2YyWyMCjuegqxsrfo1672e) | 4:07 | 2022-06-24 | 2022-09-20 |
+| [Palladium](https://open.spotify.com/track/43p2QBqcMqf6ddjd9NuqLb) | [Greyson Chance](https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX) | [Palladium](https://open.spotify.com/album/3Ce6hTcDVumkMvdtBL0LoR) | 4:07 | 2022-09-19 |  |
 | [Pantone 17 13 30](https://open.spotify.com/track/2GeR7M97pCrWrMh8d6BlrF) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y1](https://open.spotify.com/album/0xlpkNFvbonkCBiAZu0AdM) | 3:06 | 2022-03-11 | 2022-04-02 |
 | [Paper Airplanes \- from the Netflix Film A Jazzman's Blues](https://open.spotify.com/track/7qFTlPTav0bSkuPiSff6RL) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Paper Airplanes \(from the Netflix Film A Jazzman's Blues\)](https://open.spotify.com/album/6SSvoVCaTreXvwNETYXMen) | 4:17 | 2022-08-26 |  |
 | [Paper Planes](https://open.spotify.com/track/5GzgEC6pWf1USZsCtkG8yC) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Paper Planes](https://open.spotify.com/album/1k4PWPO9n9mMQyh1WGXog0) | 3:19 | 2020-04-26\* | 2020-09-04 |

@@ -4,7 +4,7 @@
 
 > The hardest songs, loud\. Very loud\. Cover:  STARSET
 
-463 songs - 1 day 4 hr 0 min - [published](https://open.spotify.com/playlist/2UlZpIm54Pz4o9EirPo1mN)
+464 songs - 1 day 4 hr 3 min - [published](https://open.spotify.com/playlist/2UlZpIm54Pz4o9EirPo1mN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -255,6 +255,7 @@
 | [Master of Puppets \(Remastered\)](https://open.spotify.com/track/54bm2e3tk8cliUz3VSdCPZ) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Master of Puppets \(Remastered Deluxe Box Set\)](https://open.spotify.com/album/7CGhx630DIjdJqaBDVKc5j) | 8:35 | 2022-07-22 | 2022-08-27 |
 | [Masterpiece](https://open.spotify.com/track/2gF7u3yLBTy6vGrxwQBoGF) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl) | [Masterpiece](https://open.spotify.com/album/43DSae6Eotlll1LnAsFXAo) | 3:26 | 2022-04-15 | 2022-06-11 |
 | [Masterpiece](https://open.spotify.com/track/3c9kVsKF68xMzlS0NikVn3) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl) | [Scoring The End Of The World](https://open.spotify.com/album/0DoVnWjNFYoUfq7qe36jxh) | 3:26 | 2022-06-10 |  |
+| [MIDDLE OF THE NIGHT](https://open.spotify.com/track/0CwiF8zPjl7ESC6nDnBvPo) | [Loveless](https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ) | [End of an era](https://open.spotify.com/album/5dTaJdgmqgz5hcmpSVNgVF) | 3:06 | 2022-09-19 |  |
 | [Million Miles of Fun](https://open.spotify.com/track/7DSMyHPif7HO6qJCVGDw4n) | [Drug Church](https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ) | [Million Miles of Fun](https://open.spotify.com/album/1VhAqOMUGqdwvDor4Q2gFx) | 2:10 | 2021-11-12 | 2022-04-29 |
 | [Mind Of Mine](https://open.spotify.com/track/1gMY7zjIZsuSvwrQYIMgMa) | [Lø Spirit](https://open.spotify.com/artist/7cImXesjInq0e25gQLHWoV) | [Mind Of Mine](https://open.spotify.com/album/42k7k92wbUN4KGBXXo4ATo) | 2:44 | 2022-05-20 |  |
 | [Mind Right](https://open.spotify.com/track/4HRZod3GJM4LeC59Ytn3JC) | [Drowning Pool](https://open.spotify.com/artist/1E4r4z7ivGUcSAnCbINJ9v) | [Mind Right](https://open.spotify.com/album/2sOtTpQaKQkMAa7Sq4D1Ck) | 3:13 | 2022-08-05 |  |

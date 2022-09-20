@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1jelEUwXFe9YeEjdAR3aC8.md) - [plain]
 
 > Chill indie songs by Jeremy Zucker and BENEE, Noah Kahan, and more! Dive in to this mellow and emotive playlist, and discover new favorites! Cover: Billie Eilish
 
-[digster.fm](https://open.spotify.com/user/digster.fm) - 114,976 likes - 50 songs - 2 hr 53 min
+[digster.fm](https://open.spotify.com/user/digster.fm) - 115,001 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

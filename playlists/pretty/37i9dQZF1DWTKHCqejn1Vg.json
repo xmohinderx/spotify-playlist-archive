@@ -1,12 +1,12 @@
 {
   "description": "\uc0ac\ub791\uc774 \ub354\uc6b1 \ub728\uac81\uac8c \uc11e\uc77c \ub54c.",
-  "num_followers": 7260,
+  "num_followers": 7365,
   "original_name": "\uc139\uc2dc & \ub85c\ub9e8\ud2f1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjM5MzE1NywwMDAwMDAwMDZmNWQwZmM0NTMzN2FlMTU2MWNjMDc4N2Y1NDAyN2Qy",
+  "snapshot_id": "MTY2MjM5MzE1NywwMDAwMDAwMDQ4YTAzZTMyMWUyMzhlMTg3NDRiOWMyYTJlZTI1ZDZh",
   "tracks": [
     {
       "added_at": "2022-09-05 15:52:37",
@@ -267,26 +267,6 @@
     {
       "added_at": "2022-09-05 15:52:37",
       "album": {
-        "name": "Worldwide",
-        "url": "https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "Okasian",
-          "url": "https://open.spotify.com/artist/5XdnR0kqQUWzeTDdsJNulO"
-        }
-      ],
-      "duration_ms": 244153,
-      "name": "YOU KNOW",
-      "url": "https://open.spotify.com/track/6YM2Wl7KAr0MExcTiYpw5D"
-    },
-    {
-      "added_at": "2022-09-05 15:52:37",
-      "album": {
         "name": "with HER",
         "url": "https://open.spotify.com/album/2NBgvn1II3DilIlJIEL5tW"
       },
@@ -307,22 +287,6 @@
     {
       "added_at": "2022-09-05 15:52:37",
       "album": {
-        "name": "WATERFALL",
-        "url": "https://open.spotify.com/album/4ZK9zZuiaZsryNQC8NLlQu"
-      },
-      "artists": [
-        {
-          "name": "B.I",
-          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
-        }
-      ],
-      "duration_ms": 198069,
-      "name": "Illusion",
-      "url": "https://open.spotify.com/track/26vcAIAnkT3d7i9B8gtpTy"
-    },
-    {
-      "added_at": "2022-09-05 15:52:37",
-      "album": {
         "name": "130 Mood : TRBL",
         "url": "https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU"
       },
@@ -339,6 +303,42 @@
       "duration_ms": 216559,
       "name": "I Love It",
       "url": "https://open.spotify.com/track/6CBA5xTE7Z4cyA9rzlhFdA"
+    },
+    {
+      "added_at": "2022-09-05 15:52:37",
+      "album": {
+        "name": "Worldwide",
+        "url": "https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "Okasian",
+          "url": "https://open.spotify.com/artist/5XdnR0kqQUWzeTDdsJNulO"
+        }
+      ],
+      "duration_ms": 244153,
+      "name": "YOU KNOW",
+      "url": "https://open.spotify.com/track/6YM2Wl7KAr0MExcTiYpw5D"
+    },
+    {
+      "added_at": "2022-09-05 15:52:37",
+      "album": {
+        "name": "WATERFALL",
+        "url": "https://open.spotify.com/album/4ZK9zZuiaZsryNQC8NLlQu"
+      },
+      "artists": [
+        {
+          "name": "B.I",
+          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
+        }
+      ],
+      "duration_ms": 198069,
+      "name": "Illusion",
+      "url": "https://open.spotify.com/track/26vcAIAnkT3d7i9B8gtpTy"
     },
     {
       "added_at": "2022-09-05 15:52:37",
@@ -423,22 +423,6 @@
     {
       "added_at": "2022-09-05 15:52:37",
       "album": {
-        "name": "EVERYTHING YOU WANTED",
-        "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 224951,
-      "name": "2nd THOTS",
-      "url": "https://open.spotify.com/track/0foI16PJZOEd56Rg83zVSD"
-    },
-    {
-      "added_at": "2022-09-05 15:52:37",
-      "album": {
         "name": "New Edition 41",
         "url": "https://open.spotify.com/album/3JhDyQCniCuttwqA9eFtUs"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 277928,
       "name": "Love Kills",
       "url": "https://open.spotify.com/track/4kuzXJLEHWn412PoIMeVuP"
+    },
+    {
+      "added_at": "2022-09-05 15:52:37",
+      "album": {
+        "name": "EVERYTHING YOU WANTED",
+        "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 224951,
+      "name": "2nd THOTS",
+      "url": "https://open.spotify.com/track/0foI16PJZOEd56Rg83zVSD"
     },
     {
       "added_at": "2022-09-05 15:52:37",
@@ -543,6 +543,38 @@
     {
       "added_at": "2022-09-05 15:52:37",
       "album": {
+        "name": "LOG",
+        "url": "https://open.spotify.com/album/43gRZhkhNa92R9NHvTIPgo"
+      },
+      "artists": [
+        {
+          "name": "KATIE",
+          "url": "https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO"
+        }
+      ],
+      "duration_ms": 240904,
+      "name": "Future Love",
+      "url": "https://open.spotify.com/track/5QUg1vCGUJUtbcsACtxo4O"
+    },
+    {
+      "added_at": "2022-09-05 15:52:37",
+      "album": {
+        "name": "EVERYTHING YOU WANTED",
+        "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 210344,
+      "name": "I Don\u2019t Disappoint",
+      "url": "https://open.spotify.com/track/5ZB78ePnCLHREvjQMuVtzY"
+    },
+    {
+      "added_at": "2022-09-05 15:52:37",
+      "album": {
         "name": "bag on you",
         "url": "https://open.spotify.com/album/2q2XkVA3ktdA6pB8ycotcg"
       },
@@ -603,18 +635,18 @@
     {
       "added_at": "2022-09-05 15:52:37",
       "album": {
-        "name": "EVERYTHING YOU WANTED",
-        "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
+        "name": "Evergray",
+        "url": "https://open.spotify.com/album/7DMeNlCClB36augRfjESKN"
       },
       "artists": [
         {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+          "name": "Jiwoo",
+          "url": "https://open.spotify.com/artist/51FKMPw06mntCaz6yO6ddg"
         }
       ],
-      "duration_ms": 210344,
-      "name": "I Don\u2019t Disappoint",
-      "url": "https://open.spotify.com/track/5ZB78ePnCLHREvjQMuVtzY"
+      "duration_ms": 210466,
+      "name": "Kurkdjian",
+      "url": "https://open.spotify.com/track/6Nk37ODgtd8b4wLzzKNXlU"
     },
     {
       "added_at": "2022-09-05 15:52:37",
@@ -635,38 +667,6 @@
       "duration_ms": 151880,
       "name": "LSD (Feat. JUNNY)",
       "url": "https://open.spotify.com/track/3NOeGLQJRQQGchoChRQg9s"
-    },
-    {
-      "added_at": "2022-09-05 15:52:37",
-      "album": {
-        "name": "LOG",
-        "url": "https://open.spotify.com/album/43gRZhkhNa92R9NHvTIPgo"
-      },
-      "artists": [
-        {
-          "name": "KATIE",
-          "url": "https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO"
-        }
-      ],
-      "duration_ms": 240904,
-      "name": "Future Love",
-      "url": "https://open.spotify.com/track/5QUg1vCGUJUtbcsACtxo4O"
-    },
-    {
-      "added_at": "2022-09-05 15:52:37",
-      "album": {
-        "name": "Evergray",
-        "url": "https://open.spotify.com/album/7DMeNlCClB36augRfjESKN"
-      },
-      "artists": [
-        {
-          "name": "Jiwoo",
-          "url": "https://open.spotify.com/artist/51FKMPw06mntCaz6yO6ddg"
-        }
-      ],
-      "duration_ms": 210466,
-      "name": "Kurkdjian",
-      "url": "https://open.spotify.com/track/6Nk37ODgtd8b4wLzzKNXlU"
     },
     {
       "added_at": "2022-09-05 15:52:37",
@@ -711,6 +711,22 @@
     {
       "added_at": "2022-09-05 15:52:37",
       "album": {
+        "name": "EVERYTHING YOU WANTED",
+        "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 163531,
+      "name": "Replay",
+      "url": "https://open.spotify.com/track/08PZbZWEUQJXjF6n5jyRT0"
+    },
+    {
+      "added_at": "2022-09-05 15:52:37",
+      "album": {
         "name": "Waves Like",
         "url": "https://open.spotify.com/album/00rJeDpdXyLu7YJo7CT4tE"
       },
@@ -747,22 +763,6 @@
     {
       "added_at": "2022-09-05 15:52:37",
       "album": {
-        "name": "EVERYTHING YOU WANTED",
-        "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 163531,
-      "name": "Replay",
-      "url": "https://open.spotify.com/track/08PZbZWEUQJXjF6n5jyRT0"
-    },
-    {
-      "added_at": "2022-09-05 15:52:37",
-      "album": {
         "name": "CLAASSIC",
         "url": "https://open.spotify.com/album/5KL4s0DShFK5oz3zKy9zmP"
       },
@@ -779,6 +779,22 @@
       "duration_ms": 217922,
       "name": "SWEATY",
       "url": "https://open.spotify.com/track/32uPe16qlUS05lWN2c37mf"
+    },
+    {
+      "added_at": "2022-09-05 15:52:37",
+      "album": {
+        "name": "waves",
+        "url": "https://open.spotify.com/album/6NHa67iNrY5iq0LYiFDEGu"
+      },
+      "artists": [
+        {
+          "name": "Risso",
+          "url": "https://open.spotify.com/artist/7zXv0fZJFxrDkYxAtWxoGM"
+        }
+      ],
+      "duration_ms": 161293,
+      "name": "waves",
+      "url": "https://open.spotify.com/track/1vcRXGJjkqFouLvE2brOBe"
     },
     {
       "added_at": "2022-09-05 15:52:37",
@@ -823,18 +839,18 @@
     {
       "added_at": "2022-09-05 15:52:37",
       "album": {
-        "name": "waves",
-        "url": "https://open.spotify.com/album/6NHa67iNrY5iq0LYiFDEGu"
+        "name": "Oasis",
+        "url": "https://open.spotify.com/album/70lpefg9cR9CQjbFfzNx8g"
       },
       "artists": [
         {
-          "name": "Risso",
-          "url": "https://open.spotify.com/artist/7zXv0fZJFxrDkYxAtWxoGM"
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
         }
       ],
-      "duration_ms": 161293,
-      "name": "waves",
-      "url": "https://open.spotify.com/track/1vcRXGJjkqFouLvE2brOBe"
+      "duration_ms": 160443,
+      "name": "You and I",
+      "url": "https://open.spotify.com/track/1ajvACz9W0uiWr6gIEI4n1"
     },
     {
       "added_at": "2022-09-05 15:52:37",
@@ -851,22 +867,6 @@
       "duration_ms": 141355,
       "name": "DADDY",
       "url": "https://open.spotify.com/track/2638VL0O0p4sB7BcQoxC2f"
-    },
-    {
-      "added_at": "2022-09-05 15:52:37",
-      "album": {
-        "name": "Oasis",
-        "url": "https://open.spotify.com/album/70lpefg9cR9CQjbFfzNx8g"
-      },
-      "artists": [
-        {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
-        }
-      ],
-      "duration_ms": 160443,
-      "name": "You and I",
-      "url": "https://open.spotify.com/track/1ajvACz9W0uiWr6gIEI4n1"
     },
     {
       "added_at": "2022-09-05 15:52:37",
@@ -947,22 +947,6 @@
     {
       "added_at": "2022-09-05 15:52:37",
       "album": {
-        "name": "I'M LOVIN' AMY",
-        "url": "https://open.spotify.com/album/1N3ZneaWp9SVREC9JSgsia"
-      },
-      "artists": [
-        {
-          "name": "AILEE",
-          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
-        }
-      ],
-      "duration_ms": 202853,
-      "name": "Murder On The Dance Floor",
-      "url": "https://open.spotify.com/track/6nuAMaTLREca7BWlXlm52s"
-    },
-    {
-      "added_at": "2022-09-05 15:52:37",
-      "album": {
         "name": "Remained scent",
         "url": "https://open.spotify.com/album/5638w5Ob2sZRfvGT1JkmKu"
       },
@@ -979,18 +963,18 @@
     {
       "added_at": "2022-09-05 15:52:37",
       "album": {
-        "name": "Fire",
-        "url": "https://open.spotify.com/album/3NAD08mjlDk0vW0CHHDzyL"
+        "name": "I'M LOVIN' AMY",
+        "url": "https://open.spotify.com/album/1N3ZneaWp9SVREC9JSgsia"
       },
       "artists": [
         {
-          "name": "OWLER",
-          "url": "https://open.spotify.com/artist/0xiNRwIQfriE5jZN3LDaLr"
+          "name": "AILEE",
+          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
         }
       ],
-      "duration_ms": 141500,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/3ZqO9gU0aFrkawmoT3nc9i"
+      "duration_ms": 202853,
+      "name": "Murder On The Dance Floor",
+      "url": "https://open.spotify.com/track/6nuAMaTLREca7BWlXlm52s"
     },
     {
       "added_at": "2022-09-05 15:52:37",
@@ -1011,18 +995,18 @@
     {
       "added_at": "2022-09-05 15:52:37",
       "album": {
-        "name": "BOYCOLD",
-        "url": "https://open.spotify.com/album/702oAXJwcml4VxPHLQWwrS"
+        "name": "Fire",
+        "url": "https://open.spotify.com/album/3NAD08mjlDk0vW0CHHDzyL"
       },
       "artists": [
         {
-          "name": "Sik-K",
-          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+          "name": "OWLER",
+          "url": "https://open.spotify.com/artist/0xiNRwIQfriE5jZN3LDaLr"
         }
       ],
-      "duration_ms": 193882,
-      "name": "Get That Money",
-      "url": "https://open.spotify.com/track/1Hmj4hRlzSfs7RA1jCkU5m"
+      "duration_ms": 141500,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/3ZqO9gU0aFrkawmoT3nc9i"
     },
     {
       "added_at": "2022-09-05 15:52:37",
@@ -1043,6 +1027,38 @@
     {
       "added_at": "2022-09-05 15:52:37",
       "album": {
+        "name": "BOYCOLD",
+        "url": "https://open.spotify.com/album/702oAXJwcml4VxPHLQWwrS"
+      },
+      "artists": [
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        }
+      ],
+      "duration_ms": 193882,
+      "name": "Get That Money",
+      "url": "https://open.spotify.com/track/1Hmj4hRlzSfs7RA1jCkU5m"
+    },
+    {
+      "added_at": "2022-09-05 15:52:37",
+      "album": {
+        "name": "Dawn Call",
+        "url": "https://open.spotify.com/album/49P8OaQVu9YVHQcUoLLmoX"
+      },
+      "artists": [
+        {
+          "name": "BB",
+          "url": "https://open.spotify.com/artist/4AsWfslaatLcNfRiK0RXX6"
+        }
+      ],
+      "duration_ms": 193844,
+      "name": "Dawn Call",
+      "url": "https://open.spotify.com/track/1e9JncQXdjM4DtFpyZrlU7"
+    },
+    {
+      "added_at": "2022-09-05 15:52:37",
+      "album": {
         "name": "XYZ",
         "url": "https://open.spotify.com/album/07W9u6v5DClq89nGm8MwLc"
       },
@@ -1059,26 +1075,6 @@
       "duration_ms": 237215,
       "name": "DRiNK 2 4GET (feat. oceanfromtheblue)",
       "url": "https://open.spotify.com/track/0Dmy2qmiAKQDbgv2ESvRhx"
-    },
-    {
-      "added_at": "2022-09-05 15:52:37",
-      "album": {
-        "name": "SUNRISE",
-        "url": "https://open.spotify.com/album/1x7iDbE1nFvqPgTgFSz3Ov"
-      },
-      "artists": [
-        {
-          "name": "Wildberry",
-          "url": "https://open.spotify.com/artist/1YQcUhWjs1NGWi24wLDkgf"
-        },
-        {
-          "name": "EunBii",
-          "url": "https://open.spotify.com/artist/1kNV67V0x2A12uccRtB3xE"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Sunrise (Feat. EunBii)",
-      "url": "https://open.spotify.com/track/0RLqnVxt7xUw9squmxCqkN"
     }
   ],
   "unique_name": "\uc139\uc2dc & \ub85c\ub9e8\ud2f1",

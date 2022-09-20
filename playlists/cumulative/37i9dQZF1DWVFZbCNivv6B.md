@@ -2,7 +2,7 @@
 
 ### [Arena Hip\-Hop](https://open.spotify.com/playlist/37i9dQZF1DWVFZbCNivv6B)
 
-> Hip\-hop mexicano, rimas de la calle, en viva voz de Santa Fe Klan.
+> Hip\-hop mexicano, rimas de la calle, en viva voz de Cartel de Santa, Los Dos Carnales.
 
 203 songs - 12 hr 0 min - [published](https://open.spotify.com/playlist/18GYr3VL7srQ56xnZNWbUP)
 

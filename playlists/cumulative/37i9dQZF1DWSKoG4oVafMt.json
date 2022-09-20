@@ -10010,6 +10010,24 @@
     },
     {
       "album": {
+        "name": "Titli",
+        "url": "https://open.spotify.com/album/7m2rdxWm1bxPF5yi37kpO5"
+      },
+      "artists": [
+        {
+          "name": "Satinder Sartaaj",
+          "url": "https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277500,
+      "name": "Titli",
+      "url": "https://open.spotify.com/track/5m62bM6EN1ysBb3nnedLBR"
+    },
+    {
+      "album": {
         "name": "Titliaan",
         "url": "https://open.spotify.com/album/1Wh4r7BE6zZogUSTcMtiku"
       },

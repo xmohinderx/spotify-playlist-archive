@@ -4,7 +4,7 @@
 
 > it's a cinnamon infused kind of mood
 
-181 songs - 11 hr 23 min - [published](https://open.spotify.com/playlist/0mBRoCtoHT76cBA1H5bvPI)
+182 songs - 11 hr 26 min - [published](https://open.spotify.com/playlist/0mBRoCtoHT76cBA1H5bvPI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,8 @@
 | [Nashville](https://open.spotify.com/track/1V0sMfByC4KMT7S6Twnvjg) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [If My Wife New I’d Be Dead](https://open.spotify.com/album/6zn3DcldhCpu6f5HvV32bw) | 5:16 | 2022-06-22 | 2022-08-16 |
 | [Never Sweeter](https://open.spotify.com/track/7DFmXlgtnTR91ytOQkMHSn) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [If That Makes Sense](https://open.spotify.com/album/1K2hRGWppL8Rq2viMVdiSI) | 4:04 | 2021-12-03 | 2022-08-16 |
 | [New Song](https://open.spotify.com/track/3PUMPtOSeXSJsBvK43K96b) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe), [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Notes from the Archive: Recordings 2011\-2016](https://open.spotify.com/album/2li1FMT6riytgLdq4Eu4rb) | 6:22 | 2022-09-16 |  |
-| [Night Moves](https://open.spotify.com/track/7iOSaQAmLZNege7dXunnsE) | [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [Night Moves](https://open.spotify.com/album/26HYYCUQFcYbQHGKnDabuW) | 3:08 | 2022-09-16 |  |
+| [Night Moves](https://open.spotify.com/track/6HOqWQFDKYvZp28ujtEuVu) | [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [Carving Canyons](https://open.spotify.com/album/0keDX0kFNMMZtGWK3YP5GO) | 3:08 | 2022-09-16 |  |
+| [Night Moves](https://open.spotify.com/track/7iOSaQAmLZNege7dXunnsE) | [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [Night Moves](https://open.spotify.com/album/26HYYCUQFcYbQHGKnDabuW) | 3:08 | 2022-09-16 | 2022-09-20 |
 | [No Reason](https://open.spotify.com/track/0V6whmxgRbeeJpijQXUbDN) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [No Reason / Spud Infinity](https://open.spotify.com/album/13lNwYutq39VEtYK5nJ617) | 3:47 | 2022-06-22 | 2022-07-29 |
 | [No Reason](https://open.spotify.com/track/2mdaMDbjFxmxQPO90PxT5w) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dragon New Warm Mountain I Believe In You](https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY) | 3:47 | 2022-06-22 | 2022-08-16 |
 | [No Small Thing](https://open.spotify.com/track/2ZBbHe0eGsOopMXmEaqUT6) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [No Small Thing](https://open.spotify.com/album/2lT0SejUDTztqxLQtFPuzm) | 4:42 | 2021-12-03 | 2022-09-17 |

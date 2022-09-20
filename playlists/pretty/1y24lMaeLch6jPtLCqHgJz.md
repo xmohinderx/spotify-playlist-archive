@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1y24lMaeLch6jPtLCqHgJz.md) - [plain]
 
 > Progressive House Club Anthems\. IF YOU LOVE FESTIVAL MUSIC, THIS IS YOUR PLAYLIST! Check the biggest anthems of Progressive House for 2022 with the most energetic and emotional music updated every week.
 
-[Revealed Recordings](https://open.spotify.com/user/revealedrec) - 83,255 likes - 80 songs - 4 hr 14 min
+[Revealed Recordings](https://open.spotify.com/user/revealedrec) - 83,250 likes - 80 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,9 +22,9 @@ pretty - [cumulative](/playlists/cumulative/1y24lMaeLch6jPtLCqHgJz.md) - [plain]
 | 12 | [I'll Be There](https://open.spotify.com/track/5KzCynjLHERTYYPFholHLr) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR), [Dastic](https://open.spotify.com/artist/1wdU1J2NHzcDYarT7jEU2A) | [I'll Be There](https://open.spotify.com/album/382roHRnixJGvT9BP5BmeG) | 2:55 |
 | 13 | [Pages](https://open.spotify.com/track/4GZgln2CDUEQ0JVuPFaQK2) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB) | [Pages](https://open.spotify.com/album/602QhTBheuUjYdvY4IQOTY) | 3:15 |
 | 14 | [Empty City](https://open.spotify.com/track/4kV5j4OqLxLPD6i3kCIKoD) | [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n), [RYVM](https://open.spotify.com/artist/1WPEvpdkTpcT5R976cTAFJ) | [Empty City](https://open.spotify.com/album/05qA73wEVpqEmOcDpEutiy) | 3:11 |
-| 15 | [Whole Again](https://open.spotify.com/track/4EHMB2LvLEnbpdQKBNbGBq) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR), [John Martin](https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq) | [Whole Again](https://open.spotify.com/album/2cCt0xjFeQjUYW2RaFOHml) | 3:30 |
-| 16 | [Kings \- Shogun Remix](https://open.spotify.com/track/2HpnvnsKMnl88LLOz1xPPh) | [Jeffrey Sutorius](https://open.spotify.com/artist/2XGg454n1pSdgoqrfcSDbq), [HALIENE](https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj), [Shogun](https://open.spotify.com/artist/6diiyZ15AVZoSxzAyjIYJT) | [\#aparttogether \(The Remixes Part 1\)](https://open.spotify.com/album/0OeB4MQV2JLoX7JlIdKwvG) | 3:03 |
-| 17 | [Wish We Never Met](https://open.spotify.com/track/7nE1Oo0I6ojq1TSxQ1oZCY) | [Dastic](https://open.spotify.com/artist/1wdU1J2NHzcDYarT7jEU2A), [Amanda Collis](https://open.spotify.com/artist/2RXmfgMl9V8akCT4wzTyE9) | [Wish We Never Met](https://open.spotify.com/album/1mTsJvaFqaiCn8oMUZ62mW) | 2:43 |
+| 15 | [Kings \- Shogun Remix](https://open.spotify.com/track/2HpnvnsKMnl88LLOz1xPPh) | [Jeffrey Sutorius](https://open.spotify.com/artist/2XGg454n1pSdgoqrfcSDbq), [HALIENE](https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj), [Shogun](https://open.spotify.com/artist/6diiyZ15AVZoSxzAyjIYJT) | [\#aparttogether \(The Remixes Part 1\)](https://open.spotify.com/album/0OeB4MQV2JLoX7JlIdKwvG) | 3:03 |
+| 16 | [Wish We Never Met](https://open.spotify.com/track/7nE1Oo0I6ojq1TSxQ1oZCY) | [Dastic](https://open.spotify.com/artist/1wdU1J2NHzcDYarT7jEU2A), [Amanda Collis](https://open.spotify.com/artist/2RXmfgMl9V8akCT4wzTyE9) | [Wish We Never Met](https://open.spotify.com/album/1mTsJvaFqaiCn8oMUZ62mW) | 2:43 |
+| 17 | [Back To You](https://open.spotify.com/track/4j94DHbP7qELZIltB7VI8K) | [Kosling](https://open.spotify.com/artist/1dsilrkrvxXE6I02SWfDYD) | [Back To You](https://open.spotify.com/album/1QJO7W9Wm3GHqL5hNU5fFT) | 3:14 |
 | 18 | [Pull Me Through](https://open.spotify.com/track/2T1aCo4H9ojFkUxDU758oZ) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [Pull Me Through](https://open.spotify.com/album/4PwQiZ7eS8n5LcOuLDofYL) | 3:02 |
 | 19 | [Falling For You](https://open.spotify.com/track/4PUbu73TaNrlRfoiPndPCg) | [Maryn](https://open.spotify.com/artist/4H4iHbG7nopmzvkwsglVkM), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8), [Eline Esmee](https://open.spotify.com/artist/34t231FBcrTXTbRFFnzker) | [Falling For You](https://open.spotify.com/album/7BG4Z7k5d6LEYETBh55Ztz) | 2:50 |
 | 20 | [Beautiful Disaster](https://open.spotify.com/track/2hqRbIBbF7rNqT9q5Zmqsq) | [Van Snyder](https://open.spotify.com/artist/3hxJ7exqIsY8CkbNh26b4P), [Robbie Rosen](https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM) | [Beautiful Disaster](https://open.spotify.com/album/7xafuOSJw67DzfhM2KlPHE) | 3:07 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/1y24lMaeLch6jPtLCqHgJz.md) - [plain]
 | 79 | [This Time \(Never Be Alone Again\)](https://open.spotify.com/track/4NfNmtFPQwR7IYoKeBErOp) | [Dada Life](https://open.spotify.com/artist/00sAT5YX8W3xNd1EuqyHw9) | [This Time \(Never Be Alone Again\)](https://open.spotify.com/album/0ytdECFIEtdImFLONcZA8N) | 2:46 |
 | 80 | [I Want You](https://open.spotify.com/track/0oZDidA985NcUVE2GhnHI1) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [I Want You](https://open.spotify.com/album/0pdMhSoq6vLUhnSFoM1PnE) | 3:06 |
 
-Snapshot ID: `MjAwMCxiZTA1MjBmZThkM2M4OGEyYTk0Yjk4YTdhZjcwZTk1NzA5NDUzOGIw`
+Snapshot ID: `MjAwMixlYzNkYmZlMzMyNDE5NWViYmE1ZDVjNDkxYTdmMjBhODExYWY3M2Ri`

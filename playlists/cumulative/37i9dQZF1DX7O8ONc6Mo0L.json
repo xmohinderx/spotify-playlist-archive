@@ -26,6 +26,24 @@
     },
     {
       "album": {
+        "name": "A Dois",
+        "url": "https://open.spotify.com/album/0cEbSXoFpciH0qSdL4SU1T"
+      },
+      "artists": [
+        {
+          "name": "Paulo Cesar Baruk",
+          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236001,
+      "name": "A Dois",
+      "url": "https://open.spotify.com/track/6Y6BkX0NThqimi5UxWLeG9"
+    },
+    {
+      "album": {
         "name": "A Mesa",
         "url": "https://open.spotify.com/album/2jWE50PLaYhH32FCIPSZvV"
       },
@@ -1219,7 +1237,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-20",
       "duration_ms": 246000,
       "name": "Primeiro Amor - Ac\u00fastico",
       "url": "https://open.spotify.com/track/7Ez77DgeaCrCgtbsTidmYg"

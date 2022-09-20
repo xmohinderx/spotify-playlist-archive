@@ -2753,10 +2753,28 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-20",
       "duration_ms": 88620,
       "name": "leyawiin",
       "url": "https://open.spotify.com/track/6VqChVa40ZOFZyve05Zq0m"
+    },
+    {
+      "album": {
+        "name": "leyawiin",
+        "url": "https://open.spotify.com/album/0SUtI8v2vOliyEU2WO2yMn"
+      },
+      "artists": [
+        {
+          "name": "Poetics",
+          "url": "https://open.spotify.com/artist/6sdgbah9YMIS5jSYdyzpBP"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88620,
+      "name": "leyawiin",
+      "url": "https://open.spotify.com/track/6ZQ6OSk8nA6iPoE6rDhili"
     },
     {
       "album": {

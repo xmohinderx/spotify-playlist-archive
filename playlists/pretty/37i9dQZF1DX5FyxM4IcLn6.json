@@ -1,12 +1,12 @@
 {
   "description": "The official playlist for the 64rd GRAMMY Awards.",
-  "num_followers": 121297,
+  "num_followers": 121290,
   "original_name": "The GRAMMYs Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODU5Mzc3MSwwMDAwMDAwMDA4NzNjYmY5YTQ5NjdmNTNkZGZmZWU2NDE4NjNlYTFm",
+  "snapshot_id": "MTY0ODU5Mzc3MSwwMDAwMDAwMDhlYjA3MTNkZjhkZjYxOTc3NjJjNDJkZDYwNGM3OWY2",
   "tracks": [
     {
       "added_at": "2022-03-29 19:11:15",
@@ -395,22 +395,6 @@
     {
       "added_at": "2022-03-29 19:11:15",
       "album": {
-        "name": "Donda",
-        "url": "https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 243187,
-      "name": "Hurricane",
-      "url": "https://open.spotify.com/track/6Hfu9sc7jvv6coyy2LlzBF"
-    },
-    {
-      "added_at": "2022-03-29 19:11:15",
-      "album": {
         "name": "Higher Power",
         "url": "https://open.spotify.com/album/6wiPmk3powmcz3G7zr6krg"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 211294,
       "name": "Higher Power",
       "url": "https://open.spotify.com/track/0939D7aT18uBDS2MTjWzct"
+    },
+    {
+      "added_at": "2022-03-29 19:11:15",
+      "album": {
+        "name": "Donda",
+        "url": "https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 243187,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/6Hfu9sc7jvv6coyy2LlzBF"
     },
     {
       "added_at": "2022-03-29 19:11:15",
@@ -999,6 +999,26 @@
     {
       "added_at": "2022-03-29 22:42:51",
       "album": {
+        "name": "Fight For You (From the Original Motion Picture \"Judas and the Black Messiah\")",
+        "url": "https://open.spotify.com/album/1K2PS79KFV29pQe7zfyoyP"
+      },
+      "artists": [
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        },
+        {
+          "name": "Judas and the Black Messiah",
+          "url": "https://open.spotify.com/artist/33eHnoVi12zOWe8MdqRYsR"
+        }
+      ],
+      "duration_ms": 270710,
+      "name": "Fight For You - From the Original Motion Picture \"Judas and the Black Messiah\"",
+      "url": "https://open.spotify.com/track/2UJsKjM595pEyWUcd8JEIR"
+    },
+    {
+      "added_at": "2022-03-29 22:42:51",
+      "album": {
         "name": "The Marfa Tapes",
         "url": "https://open.spotify.com/album/0Jck41FMi9tJooKSHApv9p"
       },
@@ -1019,26 +1039,6 @@
       "duration_ms": 150186,
       "name": "In His Arms",
       "url": "https://open.spotify.com/track/0ddFRjXyLgrNulsOwGJKJZ"
-    },
-    {
-      "added_at": "2022-03-29 22:42:51",
-      "album": {
-        "name": "Fight For You (From the Original Motion Picture \"Judas and the Black Messiah\")",
-        "url": "https://open.spotify.com/album/1K2PS79KFV29pQe7zfyoyP"
-      },
-      "artists": [
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        },
-        {
-          "name": "Judas and the Black Messiah",
-          "url": "https://open.spotify.com/artist/33eHnoVi12zOWe8MdqRYsR"
-        }
-      ],
-      "duration_ms": 270710,
-      "name": "Fight For You - From the Original Motion Picture \"Judas and the Black Messiah\"",
-      "url": "https://open.spotify.com/track/2UJsKjM595pEyWUcd8JEIR"
     },
     {
       "added_at": "2022-03-29 22:42:51",
@@ -1077,34 +1077,6 @@
       "url": "https://open.spotify.com/track/0BdSxc3R86Jw7wOToh19b8"
     },
     {
-      "added_at": "2022-03-29 22:42:51",
-      "album": {
-        "name": "Old Church Basement",
-        "url": "https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        },
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Dante Bowe",
-          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
-        },
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        }
-      ],
-      "duration_ms": 254237,
-      "name": "Wait On You (Reprise) (feat. Dante Bowe & Chandler Moore)",
-      "url": "https://open.spotify.com/track/11kFlEEi5FR2kHDtmVgMLo"
-    },
-    {
       "added_at": "2022-03-29 19:11:15",
       "album": {
         "name": "Flor",
@@ -1131,6 +1103,34 @@
       "duration_ms": 250697,
       "name": "Magnus",
       "url": "https://open.spotify.com/track/6rT1tvDLwn7BhiOoDbbg84"
+    },
+    {
+      "added_at": "2022-03-29 22:42:51",
+      "album": {
+        "name": "Old Church Basement",
+        "url": "https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        }
+      ],
+      "duration_ms": 254237,
+      "name": "Wait On You (Reprise) (feat. Dante Bowe & Chandler Moore)",
+      "url": "https://open.spotify.com/track/11kFlEEi5FR2kHDtmVgMLo"
     },
     {
       "added_at": "2022-03-29 19:11:15",

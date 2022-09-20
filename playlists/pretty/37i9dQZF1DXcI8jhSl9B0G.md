@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcI8jhSl9B0G.md) - [plain]
 
 > Roots and acoustic tunes, for sun drenched days and balmy nights.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,229 likes - 55 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,224 likes - 55 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,10 +58,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcI8jhSl9B0G.md) - [plain]
 | 48 | [Journey Home](https://open.spotify.com/track/5Lo2hiUPj7z32oB3XSHb29) | [Freight Train Foxes](https://open.spotify.com/artist/2kX9CiUl1AAvmXGU3lFHDZ) | [Journey Home](https://open.spotify.com/album/0eHppmZysZlFDqXqdzr9cM) | 4:31 |
 | 49 | [Brisbane](https://open.spotify.com/track/5dM2L19MdawMyQw3nSUsFQ) | [Carla Geneve](https://open.spotify.com/artist/0UzJFZTzFyN6EYjenzezfT) | [Brisbane](https://open.spotify.com/album/5gpHY3opXOnjD074pF2JKR) | 3:17 |
 | 50 | [Still Care \(feat\. NASAYA\)](https://open.spotify.com/track/4m5Kgsr6ZL9RtPTiRptOof) | [Muroki](https://open.spotify.com/artist/3Nvjwz6gDry7Uume9kjCBT), [NASAYA](https://open.spotify.com/artist/5932gYdqLCu1ftKVXf1PO4) | [Still Care \(feat\. NASAYA\)](https://open.spotify.com/album/6M2fIu2ezYUwMBLCI4C2vM) | 3:18 |
-| 51 | [Stuck On You](https://open.spotify.com/track/0PhMtgBpYKemULdfS6fGlc) | [Summer Thieves](https://open.spotify.com/artist/4WCnYYTO46t5FujuWKOc4W) | [Stuck On You](https://open.spotify.com/album/6Jz3C9PFo33X5wkx5mBEvT) | 3:57 |
+| 51 | [Stuck On You](https://open.spotify.com/track/5DkxnItpcG9oqpdwORiZzN) | [Summer Thieves](https://open.spotify.com/artist/4WCnYYTO46t5FujuWKOc4W) | [Paradise Down the Road](https://open.spotify.com/album/2a0TNEB0ljsokVLeCqWONF) | 3:57 |
 | 52 | [For the Dreamers](https://open.spotify.com/track/3wLIctUIIgOhfpiUXndEoT) | [Luke Thompson](https://open.spotify.com/artist/2Cd44ho20XhLnQu1ArHqWh) | [The Trials & Tribulations of Adam & His Seed](https://open.spotify.com/album/3wyWGsJQXn7753hSSzy5dU) | 3:03 |
 | 53 | [Lay In The Sun \- Acoustic](https://open.spotify.com/track/3DhcCcb1Dtio6m7TWtrpXZ) | [Michael Dunstan](https://open.spotify.com/artist/1NiUyWpQtsymFf3Ks4DZlt) | [Lay In The Sun \(Acoustic\)](https://open.spotify.com/album/2Pej2KgeAEZUC0YcsxK81V) | 4:18 |
 | 54 | [Morning Light](https://open.spotify.com/track/4WTshd9xB6Y3HHd8snMMQ1) | [Dusty Boots](https://open.spotify.com/artist/4f7aac6rSCC2VopLH049zY) | [Morning Light](https://open.spotify.com/album/78DnLLGhKsf0jgegmqSja9) | 3:11 |
 | 55 | [Midsummer](https://open.spotify.com/track/0WuXqVDS9LLN41RGSAXuVe) | [Paper Cranes 折り鶴](https://open.spotify.com/artist/5YZSzTjciJAaAek3ujVhpc) | [Voices](https://open.spotify.com/album/4MR4vc3bWQwAaZdbAmH7t9) | 2:45 |
 
-Snapshot ID: `MTYzODI1MzkyNiwwMDAwMDAwMGQ0ODY4MGQzYzExNjVmNzhkMzE1MDcxMDkxZDBmOGFm`
+Snapshot ID: `MTYzODI1MzkyNiwwMDAwMDAwMGM0NGY5MWRlODFhN2E4MmE3MDliZjY1YzNlMzM0YWNl`

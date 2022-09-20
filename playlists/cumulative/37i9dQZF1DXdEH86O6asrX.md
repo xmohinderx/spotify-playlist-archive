@@ -4,7 +4,7 @@
 
 > ¡Disfruta de las mejores bandas sonoras del siglo XXI!
 
-153 songs - 9 hr 0 min - [published](https://open.spotify.com/playlist/3aN5jpBdtu5i0Yw4idYp92)
+154 songs - 9 hr 3 min - [published](https://open.spotify.com/playlist/3aN5jpBdtu5i0Yw4idYp92)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,9 +26,10 @@
 | [Christmas at Hogwarts](https://open.spotify.com/track/4WPw9shOzxaA4cWws44Xjd) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Harry Potter and The Sorcerer's Stone Original Motion Picture Soundtrack](https://open.spotify.com/album/6zeHM5CV0CjcS0K8ouWE4N) | 2:55 | 2021-12-14 |  |
 | [Christmas Eve Montage](https://open.spotify.com/track/1GjrbiapTZYBYZvdZDtvEz) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD) | [The Nightmare Before Christmas](https://open.spotify.com/album/4YF2FhoRfaTLv2sMVLUrJm) | 4:43 | 2021-12-14 | 2022-07-21 |
 | [Christmas Hymn](https://open.spotify.com/track/2ullX9ZmHMWg8hfNqIZDTd) | [Jon Schmidt](https://open.spotify.com/artist/2YQ4MY2VwOMv43C0GemUY5) | [Jon Schmidt Christmas](https://open.spotify.com/album/4fQ7LjdkJNoRp9SO7IJ7YY) | 1:37 | 2021-12-14 | 2022-06-01 |
+| [Christmas Time Is Here](https://open.spotify.com/track/3bMfUUpzUzqWp9II00yRhE) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [Charlie Brown Holiday Hits](https://open.spotify.com/album/1d3w7T3iyK3JJQ6kdpE6l9) | 2:43 | 2022-01-27 |  |
 | [Christmas Time Is Here \- Vocal](https://open.spotify.com/track/299lFlaAsNQdgbIZNPmIA0) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [A Charlie Brown Christmas \[2012 Remastered & Expanded Edition\]](https://open.spotify.com/album/7DuJYWu66RPdcekF5TuZ7w) | 2:46 | 2021-12-14 | 2022-09-18 |
 | [Cool Yule](https://open.spotify.com/track/42wvaSrL3lHbEep0iUfjSv) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Serendipity \- Music From The Miramax Motion Picture](https://open.spotify.com/album/6pfDsTQQ0J7l1rGPmvmSXO) | 2:56 | 2021-12-14 | 2022-07-28 |
-| [Cool Yule](https://open.spotify.com/track/2QWKbE6GpWhRtlbRwcP7g8) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [The Commanders](https://open.spotify.com/artist/3VrWSWV74xyECVDt2zBy4T) | [The Decca Singles 1949\-1958](https://open.spotify.com/album/4PF4AAZ8f5stId2e5dSkE1) | 2:56 | 2022-01-27 |  |
+| [Cool Yule](https://open.spotify.com/track/2QWKbE6GpWhRtlbRwcP7g8) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [The Commanders](https://open.spotify.com/artist/3VrWSWV74xyECVDt2zBy4T) | [The Decca Singles 1949\-1958](https://open.spotify.com/album/4PF4AAZ8f5stId2e5dSkE1) | 2:56 | 2022-01-27 | 2022-09-20 |
 | [Dimensions](https://open.spotify.com/track/1F3pzdYyCJlnQoCM9gFzaU) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB), [Owen Pallett](https://open.spotify.com/artist/77Rj6PHmQJFb8nbSH62y68) | [Her \(Original Score\)](https://open.spotify.com/album/7xBJ2XXlDFfACXAnOE86t8) | 5:39 | 2022-01-27 | 2022-09-06 |
 | [Django](https://open.spotify.com/track/008wXvCVu8W8vCbq5VQDlC) | [Luis Bacalov](https://open.spotify.com/artist/4iy3JrFlBLHPvXqN1OcQS1), [Rocky Roberts](https://open.spotify.com/artist/6eCgsu961ClH7K6NSsXaBh) | [Quentin Tarantino’s Django Unchained Original Motion Picture Soundtrack](https://open.spotify.com/album/0m7dZQ6nLNjDI78hBmpG1L) | 2:53 | 2022-01-27 |  |
 | [Do You Realize??](https://open.spotify.com/track/60eyxDTMQnCOyJjRMrNJbG) | [The Flaming Lips](https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB) | [Boyhood: Music from the Motion Picture](https://open.spotify.com/album/6gVaSasSnh85NVEoAUCqbQ) | 3:32 | 2022-01-27 | 2022-07-29 |

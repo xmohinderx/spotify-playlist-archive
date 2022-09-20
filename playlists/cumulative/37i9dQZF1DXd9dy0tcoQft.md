@@ -4,7 +4,7 @@
 
 > Add some sweet soul music to your dinner\. Cover: Celeste.
 
-115 songs - 7 hr 1 min - [published](https://open.spotify.com/playlist/6eMPj9jP35FWVLCgA9Yvop)
+117 songs - 7 hr 10 min - [published](https://open.spotify.com/playlist/6eMPj9jP35FWVLCgA9Yvop)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,8 @@
 | [I Got Mine](https://open.spotify.com/track/6EJXpictHbHRZh18rybJhU) | [Arjuna Oakes](https://open.spotify.com/artist/724Bei6TsAHJYvnLHGdEAF) | [I Got Mine](https://open.spotify.com/album/62PCk0OSIJqpoUCmx1Boe3) | 3:54 | 2021-12-22 | 2022-07-29 |
 | [I Want You](https://open.spotify.com/track/6yDZ0JtlNLqA9xV7dVkgt0) | [Leela James](https://open.spotify.com/artist/5sennRot4Ls82wfspEQuf2) | [See Me](https://open.spotify.com/album/3AbP9rjHW5cejxH4INUuLE) | 4:08 | 2022-01-14 |  |
 | [If You Want Me To Stay \(with Anthony Ramos\)](https://open.spotify.com/track/177Gk50xMUz4QMiEXLARFP) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [Anthony Ramos](https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse) | [If You Want Me To Stay \(with Anthony Ramos\)](https://open.spotify.com/album/1LVNteRODRZanmsjy2cXYO) | 3:07 | 2021-12-16 |  |
-| [In the Air](https://open.spotify.com/track/5v7h5vQgCJKZT5vB3I9s3o) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B III](https://open.spotify.com/album/5FkhVnR6DLz7ARqioHUwpc) | 4:12 | 2021-12-16 |  |
+| [In the Air](https://open.spotify.com/track/5v7h5vQgCJKZT5vB3I9s3o) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B III](https://open.spotify.com/album/5FkhVnR6DLz7ARqioHUwpc) | 4:12 | 2021-12-16 | 2022-09-20 |
+| [In the Air](https://open.spotify.com/track/6r88rMGtfNgC0SJEytTA7c) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B III](https://open.spotify.com/album/6S2Wk7gzCsJzfArpNgPbHh) | 4:12 | 2022-05-20 |  |
 | [In\-between](https://open.spotify.com/track/1KVSfVRzSi7gTp7NFvoDZZ) | [Lily Moore](https://open.spotify.com/artist/1SQeTDXO492WB6aFvrntSS), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [More Moore Mixtape](https://open.spotify.com/album/5VxtlaenHlQoRl4tQDq7Av) | 2:39 | 2021-12-16 |  |
 | [It Ain't Easy](https://open.spotify.com/track/0URMdm9CITB1VIfdVaqTHt) | [DeWolff](https://open.spotify.com/artist/1OHnmln4huMiBLyxBHNx0k) | [It Ain't Easy](https://open.spotify.com/album/2HEt3arRMRqDw4HOv2uTqN) | 3:24 | 2021-12-16 | 2022-07-29 |
 | [It Ain't Easy](https://open.spotify.com/track/0sWfdO70PRIzqpX2swtFNy) | [DeWolff](https://open.spotify.com/artist/1OHnmln4huMiBLyxBHNx0k) | [Tascam Tapes](https://open.spotify.com/album/43LoWypu3rYrv2TuJmxxaT) | 3:24 | 2022-05-20 |  |
@@ -120,7 +121,8 @@
 | [Window](https://open.spotify.com/track/3hARuUtzTdUuWH1KiLJlSf) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Window](https://open.spotify.com/album/4JxgricHyH0BbMUaefAHfR) | 2:19 | 2021-12-22 | 2021-12-28 |
 | [Yes I Am](https://open.spotify.com/track/5dygCpuOvgXkSWB7hPEwEI) | [Michelle David & the Gospel Sessions](https://open.spotify.com/artist/2O2cy4YGu7HV9GwkvjIQCs) | [Yes I Am](https://open.spotify.com/album/3gN5NETExLN0RtCJ4KtiQP) | 3:56 | 2021-12-16 | 2022-07-29 |
 | [Yes I Am](https://open.spotify.com/track/4mAzDXo7ZVSAhk0iaoqa1b) | [Michelle David & The True\-tones](https://open.spotify.com/artist/7on1NP7h7wh2Onwvkff1pj) | [The Gospel Sessions, Vol\. 4](https://open.spotify.com/album/449DTVTvTCdQgAdmPqgsi8) | 3:56 | 2022-05-20 | 2022-08-30 |
-| [Yes I Do](https://open.spotify.com/track/6oTbxrszNWRsLdwFkGeHy6) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B IV](https://open.spotify.com/album/6PPhLgXiq4nEiZ8x2ZB3xV) | 5:10 | 2022-05-06 |  |
+| [Yes I Do](https://open.spotify.com/track/1Cda2BAeOs8r6X7ptFPkW2) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B IV](https://open.spotify.com/album/15CViSIGJXmn2dn0Tt1wm1) | 5:10 | 2022-05-20 |  |
+| [Yes I Do](https://open.spotify.com/track/6oTbxrszNWRsLdwFkGeHy6) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B IV](https://open.spotify.com/album/6PPhLgXiq4nEiZ8x2ZB3xV) | 5:10 | 2022-05-06 | 2022-09-20 |
 | [Yes I Know](https://open.spotify.com/track/5HGdUDNax7PRir0ctxsY3q) | [Michelle David & The True\-tones](https://open.spotify.com/artist/7on1NP7h7wh2Onwvkff1pj) | [Yes I Know](https://open.spotify.com/album/3oM0byn09fUkSQDO0MdYLo) | 3:42 | 2021-12-16 | 2022-07-29 |
 | [You Live In My Phone](https://open.spotify.com/track/1eNf04Rj2ongsgK8ErzZv7) | [Someone](https://open.spotify.com/artist/28pJPOOQTi0RQiZbkmLvfE) | [You Live In My Phone](https://open.spotify.com/album/6i13Syc3mQBIl0A7xd3hjX) | 4:33 | 2021-12-16 | 2022-07-28 |
 

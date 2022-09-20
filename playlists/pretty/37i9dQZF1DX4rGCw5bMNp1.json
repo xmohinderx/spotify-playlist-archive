@@ -1,12 +1,12 @@
 {
   "description": "Enjoy the electric, amplified sound that is Chicago Blues.\u00a0",
-  "num_followers": 114559,
+  "num_followers": 114613,
   "original_name": "Chicago Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5OTcyOCwwMDAwMDAwMDVkNTExZTQxNDAwMGYxNjI1OTI0ZjNkYmI4ZmFmNWIy",
+  "snapshot_id": "MTY0ODQ5OTcyOCwwMDAwMDAwMDM5NThiMTc0ZjAzNGQxOGI3NDc0YWNjNjQwYzA4ZjJl",
   "tracks": [
     {
       "added_at": "2016-03-21 20:31:35",
@@ -137,6 +137,22 @@
       "url": "https://open.spotify.com/track/73GEVn1tqk9bn0KbtWsiqj"
     },
     {
+      "added_at": "2016-03-21 20:31:35",
+      "album": {
+        "name": "King Of The Electric Blues",
+        "url": "https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 238533,
+      "name": "I'm Your Hoochie Coochie Man",
+      "url": "https://open.spotify.com/track/3KSchPNSklO5McIqRH3qYX"
+    },
+    {
       "added_at": "2018-02-27 18:08:29",
       "album": {
         "name": "The Alligator Records Years",
@@ -171,18 +187,18 @@
     {
       "added_at": "2016-03-21 20:31:35",
       "album": {
-        "name": "King Of The Electric Blues",
-        "url": "https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ"
+        "name": "The Sonet Blues Story",
+        "url": "https://open.spotify.com/album/59KEdgFnT3QYxd3GYoGJQY"
       },
       "artists": [
         {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+          "name": "Mighty Joe Young",
+          "url": "https://open.spotify.com/artist/3s5c2rjSE7v4KbMsGb5qaL"
         }
       ],
-      "duration_ms": 238533,
-      "name": "I'm Your Hoochie Coochie Man",
-      "url": "https://open.spotify.com/track/3KSchPNSklO5McIqRH3qYX"
+      "duration_ms": 238626,
+      "name": "Rock Me Baby",
+      "url": "https://open.spotify.com/track/0P1NVWntMal7tHrLG1HxEC"
     },
     {
       "added_at": "2016-03-21 20:31:35",
@@ -199,22 +215,6 @@
       "duration_ms": 217120,
       "name": "Dark Road",
       "url": "https://open.spotify.com/track/4v9Q6IItjISJFNXvFYtSWo"
-    },
-    {
-      "added_at": "2016-03-21 20:31:35",
-      "album": {
-        "name": "The Sonet Blues Story",
-        "url": "https://open.spotify.com/album/59KEdgFnT3QYxd3GYoGJQY"
-      },
-      "artists": [
-        {
-          "name": "Mighty Joe Young",
-          "url": "https://open.spotify.com/artist/3s5c2rjSE7v4KbMsGb5qaL"
-        }
-      ],
-      "duration_ms": 238626,
-      "name": "Rock Me Baby",
-      "url": "https://open.spotify.com/track/0P1NVWntMal7tHrLG1HxEC"
     },
     {
       "added_at": "2018-02-27 18:08:29",
@@ -235,22 +235,6 @@
     {
       "added_at": "2018-02-27 18:08:29",
       "album": {
-        "name": "Living Chicago Blues, Vol. 3",
-        "url": "https://open.spotify.com/album/6l9iPFb3IBKZxrCwphkvH4"
-      },
-      "artists": [
-        {
-          "name": "A.C. Reed",
-          "url": "https://open.spotify.com/artist/1i31XKLddtEeOIr0nPcxdj"
-        }
-      ],
-      "duration_ms": 258226,
-      "name": "She's Fine",
-      "url": "https://open.spotify.com/track/1GUvbwCftGCU9HTeg1DPAW"
-    },
-    {
-      "added_at": "2018-02-27 18:08:29",
-      "album": {
         "name": "Two Bugs and a Roach",
         "url": "https://open.spotify.com/album/4IWaRuc8RGDetpOm5Bv4Ho"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 316666,
       "name": "You Don't Want Me",
       "url": "https://open.spotify.com/track/6ECnAHxGQilDe32zQqfdz3"
+    },
+    {
+      "added_at": "2018-02-27 18:08:29",
+      "album": {
+        "name": "Living Chicago Blues, Vol. 3",
+        "url": "https://open.spotify.com/album/6l9iPFb3IBKZxrCwphkvH4"
+      },
+      "artists": [
+        {
+          "name": "A.C. Reed",
+          "url": "https://open.spotify.com/artist/1i31XKLddtEeOIr0nPcxdj"
+        }
+      ],
+      "duration_ms": 258226,
+      "name": "She's Fine",
+      "url": "https://open.spotify.com/track/1GUvbwCftGCU9HTeg1DPAW"
     },
     {
       "added_at": "2016-03-21 20:31:35",
@@ -377,22 +377,6 @@
       "url": "https://open.spotify.com/track/7M8XGHJQPYZcYftZyQLmMC"
     },
     {
-      "added_at": "2018-02-27 18:08:29",
-      "album": {
-        "name": "Living Chicago Blues, Vol. 4",
-        "url": "https://open.spotify.com/album/2u30yjGXHGTO5UTWlyG47J"
-      },
-      "artists": [
-        {
-          "name": "Luther \"Guitar Junior\" Johnson",
-          "url": "https://open.spotify.com/artist/2uti5VYcw9CSKw9gYx639x"
-        }
-      ],
-      "duration_ms": 185773,
-      "name": "Somebody Have Mercy",
-      "url": "https://open.spotify.com/track/4MUh1QHWGu6QWFJdwbmKmt"
-    },
-    {
       "added_at": "2016-03-21 20:31:35",
       "album": {
         "name": "Someday",
@@ -407,6 +391,22 @@
       "duration_ms": 206800,
       "name": "Someday (Electric)",
       "url": "https://open.spotify.com/track/5ZUxxja3WzBZUFF6P9M9HN"
+    },
+    {
+      "added_at": "2018-02-27 18:08:29",
+      "album": {
+        "name": "Living Chicago Blues, Vol. 4",
+        "url": "https://open.spotify.com/album/2u30yjGXHGTO5UTWlyG47J"
+      },
+      "artists": [
+        {
+          "name": "Luther \"Guitar Junior\" Johnson",
+          "url": "https://open.spotify.com/artist/2uti5VYcw9CSKw9gYx639x"
+        }
+      ],
+      "duration_ms": 185773,
+      "name": "Somebody Have Mercy",
+      "url": "https://open.spotify.com/track/4MUh1QHWGu6QWFJdwbmKmt"
     },
     {
       "added_at": "2018-02-27 18:08:29",

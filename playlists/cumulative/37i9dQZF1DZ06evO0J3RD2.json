@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Live At Studio 4",
+        "url": "https://open.spotify.com/album/1XmQ6wmZUnP6uNb4MWIYHV"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185841,
+      "name": "Banquet - Live at Studio 4",
+      "url": "https://open.spotify.com/track/3RDTegTI8uKrYjkz8S7obS"
+    },
+    {
+      "album": {
         "name": "Barbed Wire Body",
         "url": "https://open.spotify.com/album/6Re5QwReJ9IUWdd1H8PCtm"
       },

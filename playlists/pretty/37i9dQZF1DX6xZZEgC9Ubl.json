@@ -1,12 +1,12 @@
 {
   "description": "Emo rap feels for the misunderstood. Cover: 347aidan",
-  "num_followers": 1324224,
+  "num_followers": 1324972,
   "original_name": "tear drop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMDhjZjE0NmE5ZDNjZTc1NzQ1Zjk2MjQ0MjA0Mjg5YzZi",
+  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMGIzZWQ1YzA2OTdkZTlmYWNkNzQxMDNmODM3Y2U5Yjk1",
   "tracks": [
     {
       "added_at": "2022-08-30 14:07:46",
@@ -111,6 +111,22 @@
     {
       "added_at": "2022-08-30 14:07:46",
       "album": {
+        "name": "17",
+        "url": "https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "duration_ms": 119133,
+      "name": "Jocelyn Flores",
+      "url": "https://open.spotify.com/track/7m9OqQk4RVRkw9JJdeAw96"
+    },
+    {
+      "added_at": "2022-08-30 14:07:46",
+      "album": {
         "name": "death bed (coffee for your head)",
         "url": "https://open.spotify.com/album/2p9gK2BcdrloHNJwarc9gc"
       },
@@ -131,22 +147,6 @@
     {
       "added_at": "2022-08-30 14:07:46",
       "album": {
-        "name": "17",
-        "url": "https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0"
-      },
-      "artists": [
-        {
-          "name": "XXXTENTACION",
-          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
-        }
-      ],
-      "duration_ms": 119133,
-      "name": "Jocelyn Flores",
-      "url": "https://open.spotify.com/track/7m9OqQk4RVRkw9JJdeAw96"
-    },
-    {
-      "added_at": "2022-08-30 14:07:46",
-      "album": {
         "name": "Luv Is Rage 2",
         "url": "https://open.spotify.com/album/733e1ZfktLSwj96X5rsMeE"
       },
@@ -159,54 +159,6 @@
       "duration_ms": 182706,
       "name": "XO Tour Llif3",
       "url": "https://open.spotify.com/track/7GX5flRQZVHRAGd6B4TmDO"
-    },
-    {
-      "added_at": "2022-08-30 14:07:46",
-      "album": {
-        "name": "Goodbye & Good Riddance",
-        "url": "https://open.spotify.com/album/6tkjU4Umpo79wwkgPMV3nZ"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 165819,
-      "name": "All Girls Are The Same",
-      "url": "https://open.spotify.com/track/4VXIryQMWpIdGgYR4TrjT1"
-    },
-    {
-      "added_at": "2022-08-30 14:07:46",
-      "album": {
-        "name": "Hex",
-        "url": "https://open.spotify.com/album/1CPRTq5GLeZ9hn4igzS6uZ"
-      },
-      "artists": [
-        {
-          "name": "80purppp",
-          "url": "https://open.spotify.com/artist/4F9apzBcSE0OSfHYbxo4RF"
-        }
-      ],
-      "duration_ms": 122221,
-      "name": "Hex",
-      "url": "https://open.spotify.com/track/7D7e6hm2LiNd6nLuJF6K9Q"
-    },
-    {
-      "added_at": "2022-08-30 14:07:46",
-      "album": {
-        "name": "Sing Me a Lullaby, My Sweet Temptation",
-        "url": "https://open.spotify.com/album/3elJRIffdqvypuxoDND2Q3"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        }
-      ],
-      "duration_ms": 238145,
-      "name": "Matte Black",
-      "url": "https://open.spotify.com/track/0hPRWztAIbNkt6GcFcLiqF"
     },
     {
       "added_at": "2022-08-30 14:07:46",
@@ -231,6 +183,54 @@
     {
       "added_at": "2022-08-30 14:07:46",
       "album": {
+        "name": "Hex",
+        "url": "https://open.spotify.com/album/1CPRTq5GLeZ9hn4igzS6uZ"
+      },
+      "artists": [
+        {
+          "name": "80purppp",
+          "url": "https://open.spotify.com/artist/4F9apzBcSE0OSfHYbxo4RF"
+        }
+      ],
+      "duration_ms": 122221,
+      "name": "Hex",
+      "url": "https://open.spotify.com/track/7D7e6hm2LiNd6nLuJF6K9Q"
+    },
+    {
+      "added_at": "2022-08-30 14:07:46",
+      "album": {
+        "name": "Goodbye & Good Riddance",
+        "url": "https://open.spotify.com/album/6tkjU4Umpo79wwkgPMV3nZ"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 165819,
+      "name": "All Girls Are The Same",
+      "url": "https://open.spotify.com/track/4VXIryQMWpIdGgYR4TrjT1"
+    },
+    {
+      "added_at": "2022-08-30 14:07:46",
+      "album": {
+        "name": "Sing Me a Lullaby, My Sweet Temptation",
+        "url": "https://open.spotify.com/album/3elJRIffdqvypuxoDND2Q3"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 238145,
+      "name": "Matte Black",
+      "url": "https://open.spotify.com/track/0hPRWztAIbNkt6GcFcLiqF"
+    },
+    {
+      "added_at": "2022-08-30 14:07:46",
+      "album": {
         "name": "LIFE'S A TRIP",
         "url": "https://open.spotify.com/album/214f4uAY0p2KgY7Fl4fBgk"
       },
@@ -247,18 +247,18 @@
     {
       "added_at": "2022-08-30 14:07:46",
       "album": {
-        "name": "Enough",
-        "url": "https://open.spotify.com/album/1fw8J18rs7te12Bj1UxAUo"
+        "name": "Come Over When You're Sober, Pt. 1",
+        "url": "https://open.spotify.com/album/33TJ52PuwenGmysJrwMGCe"
       },
       "artists": [
         {
-          "name": "charlieonnafriday",
-          "url": "https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA"
+          "name": "Lil Peep",
+          "url": "https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3"
         }
       ],
-      "duration_ms": 185266,
-      "name": "Enough",
-      "url": "https://open.spotify.com/track/4vuVzf7BIZhDAFm3TB0Tzy"
+      "duration_ms": 231546,
+      "name": "Save That Shit",
+      "url": "https://open.spotify.com/track/0S0vWvyZ6Rc79TXkWxT9QA"
     },
     {
       "added_at": "2022-08-30 14:07:46",
@@ -275,6 +275,22 @@
       "duration_ms": 166605,
       "name": "SAD!",
       "url": "https://open.spotify.com/track/3ee8Jmje8o58CHK66QrVC2"
+    },
+    {
+      "added_at": "2022-08-30 14:07:46",
+      "album": {
+        "name": "Enough",
+        "url": "https://open.spotify.com/album/1fw8J18rs7te12Bj1UxAUo"
+      },
+      "artists": [
+        {
+          "name": "charlieonnafriday",
+          "url": "https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA"
+        }
+      ],
+      "duration_ms": 185266,
+      "name": "Enough",
+      "url": "https://open.spotify.com/track/4vuVzf7BIZhDAFm3TB0Tzy"
     },
     {
       "added_at": "2022-08-30 14:07:46",
@@ -311,22 +327,6 @@
       "duration_ms": 188041,
       "name": "Pain",
       "url": "https://open.spotify.com/track/39LJCSHy7nB1akjmhMQ7Y7"
-    },
-    {
-      "added_at": "2022-08-30 14:07:46",
-      "album": {
-        "name": "Come Over When You're Sober, Pt. 1",
-        "url": "https://open.spotify.com/album/33TJ52PuwenGmysJrwMGCe"
-      },
-      "artists": [
-        {
-          "name": "Lil Peep",
-          "url": "https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3"
-        }
-      ],
-      "duration_ms": 231546,
-      "name": "Save That Shit",
-      "url": "https://open.spotify.com/track/0S0vWvyZ6Rc79TXkWxT9QA"
     },
     {
       "added_at": "2022-08-30 14:07:46",
@@ -395,22 +395,22 @@
     {
       "added_at": "2022-08-30 14:07:46",
       "album": {
-        "name": "17",
-        "url": "https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0"
+        "name": "beamer boy",
+        "url": "https://open.spotify.com/album/69nnJOr40uKMOFvB1sSKLp"
       },
       "artists": [
         {
-          "name": "XXXTENTACION",
-          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+          "name": "Lil Peep",
+          "url": "https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3"
         },
         {
-          "name": "Trippie Redd",
-          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+          "name": "Nedarb",
+          "url": "https://open.spotify.com/artist/1VKWlHqcqwmU9CGKkJR09R"
         }
       ],
-      "duration_ms": 146520,
-      "name": "Fuck Love (feat. Trippie Redd)",
-      "url": "https://open.spotify.com/track/7AQim7LbvFVZJE3O8TYgf2"
+      "duration_ms": 203373,
+      "name": "beamer boy",
+      "url": "https://open.spotify.com/track/7hf89cT5FEmLV5E9fjrjG7"
     },
     {
       "added_at": "2022-08-30 14:07:46",
@@ -431,18 +431,22 @@
     {
       "added_at": "2022-08-30 14:07:46",
       "album": {
-        "name": "F*CK LOVE (SAVAGE)",
-        "url": "https://open.spotify.com/album/3YjfdLdpQcVI72uKhooZst"
+        "name": "17",
+        "url": "https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0"
       },
       "artists": [
         {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        },
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
         }
       ],
-      "duration_ms": 151704,
-      "name": "ALWAYS DO",
-      "url": "https://open.spotify.com/track/3QCU8BT0zDS9LPVfEhRFEE"
+      "duration_ms": 146520,
+      "name": "Fuck Love (feat. Trippie Redd)",
+      "url": "https://open.spotify.com/track/7AQim7LbvFVZJE3O8TYgf2"
     },
     {
       "added_at": "2022-08-30 14:07:46",
@@ -463,22 +467,18 @@
     {
       "added_at": "2022-08-30 14:07:46",
       "album": {
-        "name": "beamer boy",
-        "url": "https://open.spotify.com/album/69nnJOr40uKMOFvB1sSKLp"
+        "name": "F*CK LOVE (SAVAGE)",
+        "url": "https://open.spotify.com/album/3YjfdLdpQcVI72uKhooZst"
       },
       "artists": [
         {
-          "name": "Lil Peep",
-          "url": "https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3"
-        },
-        {
-          "name": "Nedarb",
-          "url": "https://open.spotify.com/artist/1VKWlHqcqwmU9CGKkJR09R"
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
         }
       ],
-      "duration_ms": 203373,
-      "name": "beamer boy",
-      "url": "https://open.spotify.com/track/7hf89cT5FEmLV5E9fjrjG7"
+      "duration_ms": 151704,
+      "name": "ALWAYS DO",
+      "url": "https://open.spotify.com/track/3QCU8BT0zDS9LPVfEhRFEE"
     },
     {
       "added_at": "2022-08-30 14:07:46",
@@ -519,6 +519,26 @@
     {
       "added_at": "2022-08-30 14:07:46",
       "album": {
+        "name": "right here",
+        "url": "https://open.spotify.com/album/0aPzug6VeXcedSM4yJyqId"
+      },
+      "artists": [
+        {
+          "name": "Lil Peep",
+          "url": "https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3"
+        },
+        {
+          "name": "Horse Head",
+          "url": "https://open.spotify.com/artist/0LBfcXnrLErD1afLyzB2xA"
+        }
+      ],
+      "duration_ms": 176906,
+      "name": "right here",
+      "url": "https://open.spotify.com/track/5OFf5pzpIcdstWwAhv5YXE"
+    },
+    {
+      "added_at": "2022-08-30 14:07:46",
+      "album": {
         "name": "You Broke My Heart Again",
         "url": "https://open.spotify.com/album/6YYYy7rXFNjORVy1V9nzTn"
       },
@@ -555,30 +575,6 @@
     {
       "added_at": "2022-08-30 14:07:46",
       "album": {
-        "name": "F*CK LOVE 3: OVER YOU",
-        "url": "https://open.spotify.com/album/4bZJWQhHKJckFLJuYdvyX2"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        },
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        },
-        {
-          "name": "Stunna Gambino",
-          "url": "https://open.spotify.com/artist/15ZjD8Gus20Miqw3fdOaXX"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "NOT SOBER (feat. Polo G & Stunna Gambino)",
-      "url": "https://open.spotify.com/track/1JXBNvlDEl2epKSJ9EOgKX"
-    },
-    {
-      "added_at": "2022-08-30 14:07:46",
-      "album": {
         "name": "Mine",
         "url": "https://open.spotify.com/album/5X1ugJYc0B57rw0OnTwBKE"
       },
@@ -607,26 +603,6 @@
       "duration_ms": 187173,
       "name": "Betrayed",
       "url": "https://open.spotify.com/track/4vaxvNDaLSoD36iZX515ug"
-    },
-    {
-      "added_at": "2022-08-30 14:07:46",
-      "album": {
-        "name": "right here",
-        "url": "https://open.spotify.com/album/0aPzug6VeXcedSM4yJyqId"
-      },
-      "artists": [
-        {
-          "name": "Lil Peep",
-          "url": "https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3"
-        },
-        {
-          "name": "Horse Head",
-          "url": "https://open.spotify.com/artist/0LBfcXnrLErD1afLyzB2xA"
-        }
-      ],
-      "duration_ms": 176906,
-      "name": "right here",
-      "url": "https://open.spotify.com/track/5OFf5pzpIcdstWwAhv5YXE"
     },
     {
       "added_at": "2022-08-30 14:07:46",
@@ -663,6 +639,30 @@
       "duration_ms": 140338,
       "name": "I\u2019ll Keep You Safe",
       "url": "https://open.spotify.com/track/1H3Q48ARz2ZEwbOl6s53Mq"
+    },
+    {
+      "added_at": "2022-08-30 14:07:46",
+      "album": {
+        "name": "F*CK LOVE 3: OVER YOU",
+        "url": "https://open.spotify.com/album/4bZJWQhHKJckFLJuYdvyX2"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        },
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        },
+        {
+          "name": "Stunna Gambino",
+          "url": "https://open.spotify.com/artist/15ZjD8Gus20Miqw3fdOaXX"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "NOT SOBER (feat. Polo G & Stunna Gambino)",
+      "url": "https://open.spotify.com/track/1JXBNvlDEl2epKSJ9EOgKX"
     },
     {
       "added_at": "2022-08-30 14:07:46",
@@ -831,26 +831,6 @@
     {
       "added_at": "2022-08-30 14:07:46",
       "album": {
-        "name": "Industry Plant",
-        "url": "https://open.spotify.com/album/5UuzudgFxwLkxC1LFajC5e"
-      },
-      "artists": [
-        {
-          "name": "iann dior",
-          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
-        },
-        {
-          "name": "Trippie Redd",
-          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
-        }
-      ],
-      "duration_ms": 136568,
-      "name": "gone girl",
-      "url": "https://open.spotify.com/track/3iH29NcCxYgI5shlkZrUoB"
-    },
-    {
-      "added_at": "2022-08-30 14:07:46",
-      "album": {
         "name": "you never meant it",
         "url": "https://open.spotify.com/album/6qT7iBnEv3I56ESve2jgfn"
       },
@@ -871,6 +851,26 @@
       "duration_ms": 117692,
       "name": "you never meant it",
       "url": "https://open.spotify.com/track/4LMlIX9Y8qziRafzW30mGc"
+    },
+    {
+      "added_at": "2022-08-30 14:07:46",
+      "album": {
+        "name": "Industry Plant",
+        "url": "https://open.spotify.com/album/5UuzudgFxwLkxC1LFajC5e"
+      },
+      "artists": [
+        {
+          "name": "iann dior",
+          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
+        },
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        }
+      ],
+      "duration_ms": 136568,
+      "name": "gone girl",
+      "url": "https://open.spotify.com/track/3iH29NcCxYgI5shlkZrUoB"
     },
     {
       "added_at": "2022-08-30 14:07:46",
@@ -963,22 +963,6 @@
     {
       "added_at": "2022-08-30 14:07:46",
       "album": {
-        "name": "Demons and Monsters",
-        "url": "https://open.spotify.com/album/3tibCn5U6tDOLkjncjGvI3"
-      },
-      "artists": [
-        {
-          "name": "347aidan",
-          "url": "https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw"
-        }
-      ],
-      "duration_ms": 197902,
-      "name": "Demons and Monsters",
-      "url": "https://open.spotify.com/track/7u9BIFBgxuqntGW7wO5lMs"
-    },
-    {
-      "added_at": "2022-08-30 14:07:46",
-      "album": {
         "name": "Cherry Blossoms",
         "url": "https://open.spotify.com/album/7z0GlCgOrEaME0BYpVPAtI"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 138367,
       "name": "Cherry Blossoms",
       "url": "https://open.spotify.com/track/4LEt6hyaGn4scwUsimBeXt"
+    },
+    {
+      "added_at": "2022-08-30 14:07:46",
+      "album": {
+        "name": "Demons and Monsters",
+        "url": "https://open.spotify.com/album/3tibCn5U6tDOLkjncjGvI3"
+      },
+      "artists": [
+        {
+          "name": "347aidan",
+          "url": "https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw"
+        }
+      ],
+      "duration_ms": 197902,
+      "name": "Demons and Monsters",
+      "url": "https://open.spotify.com/track/7u9BIFBgxuqntGW7wO5lMs"
     },
     {
       "added_at": "2022-08-30 14:07:46",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2022-08-30 14:07:46",
       "album": {
-        "name": "F*ck Love",
-        "url": "https://open.spotify.com/album/7a4z4EPeKp4TEVNbtgL3eg"
-      },
-      "artists": [
-        {
-          "name": "Lund",
-          "url": "https://open.spotify.com/artist/5uLkZ7FWMTBUg1corQqdkR"
-        }
-      ],
-      "duration_ms": 197368,
-      "name": "F*ck Love",
-      "url": "https://open.spotify.com/track/2kHrlDvECzPyjcbmSQNusl"
-    },
-    {
-      "added_at": "2022-08-30 14:07:46",
-      "album": {
         "name": "NEGATIVE",
         "url": "https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 138306,
       "name": "then i met her",
       "url": "https://open.spotify.com/track/5sFIYKbII6QzRT57hCza5Z"
+    },
+    {
+      "added_at": "2022-08-30 14:07:46",
+      "album": {
+        "name": "F*ck Love",
+        "url": "https://open.spotify.com/album/7a4z4EPeKp4TEVNbtgL3eg"
+      },
+      "artists": [
+        {
+          "name": "Lund",
+          "url": "https://open.spotify.com/artist/5uLkZ7FWMTBUg1corQqdkR"
+        }
+      ],
+      "duration_ms": 197368,
+      "name": "F*ck Love",
+      "url": "https://open.spotify.com/track/2kHrlDvECzPyjcbmSQNusl"
     },
     {
       "added_at": "2022-08-30 14:07:46",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2022-08-30 14:07:46",
       "album": {
+        "name": "dream girl",
+        "url": "https://open.spotify.com/album/23LA5dOCq2mVA8sFzfp0V9"
+      },
+      "artists": [
+        {
+          "name": "8percent",
+          "url": "https://open.spotify.com/artist/3IvnJDS7SNCDivxi0xkiSK"
+        }
+      ],
+      "duration_ms": 87408,
+      "name": "dream girl",
+      "url": "https://open.spotify.com/track/0Hfah746oDkvCS7ySP3k1c"
+    },
+    {
+      "added_at": "2022-08-30 14:07:46",
+      "album": {
         "name": "You Don't Want Me Anymore",
         "url": "https://open.spotify.com/album/3fIR123EC4MJUYmPPAJ0Ss"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 165000,
       "name": "You Don't Want Me Anymore",
       "url": "https://open.spotify.com/track/0K4gxQ2u3545b0GAu85ObO"
-    },
-    {
-      "added_at": "2022-08-30 14:07:46",
-      "album": {
-        "name": "dream girl",
-        "url": "https://open.spotify.com/album/23LA5dOCq2mVA8sFzfp0V9"
-      },
-      "artists": [
-        {
-          "name": "8percent",
-          "url": "https://open.spotify.com/artist/3IvnJDS7SNCDivxi0xkiSK"
-        }
-      ],
-      "duration_ms": 87408,
-      "name": "dream girl",
-      "url": "https://open.spotify.com/track/0Hfah746oDkvCS7ySP3k1c"
     },
     {
       "added_at": "2022-08-30 14:07:46",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2022-08-30 14:07:46",
       "album": {
+        "name": "say goodbye",
+        "url": "https://open.spotify.com/album/1EmJAmRdDyfQAqhXOvKzSB"
+      },
+      "artists": [
+        {
+          "name": "Sarcastic Sounds",
+          "url": "https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ"
+        }
+      ],
+      "duration_ms": 86749,
+      "name": "say goodbye",
+      "url": "https://open.spotify.com/track/6JdU7eaEl9fPAq0sEVNzGc"
+    },
+    {
+      "added_at": "2022-08-30 14:07:46",
+      "album": {
         "name": "First Time",
         "url": "https://open.spotify.com/album/6GwqbWxgikcrhZn8M2M7sc"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 165779,
       "name": "First Time",
       "url": "https://open.spotify.com/track/2eFjKl5cyPPYElDByCh6Tb"
-    },
-    {
-      "added_at": "2022-08-30 14:07:46",
-      "album": {
-        "name": "say goodbye",
-        "url": "https://open.spotify.com/album/1EmJAmRdDyfQAqhXOvKzSB"
-      },
-      "artists": [
-        {
-          "name": "Sarcastic Sounds",
-          "url": "https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ"
-        }
-      ],
-      "duration_ms": 86749,
-      "name": "say goodbye",
-      "url": "https://open.spotify.com/track/6JdU7eaEl9fPAq0sEVNzGc"
     },
     {
       "added_at": "2022-08-30 14:07:46",

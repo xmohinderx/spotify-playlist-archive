@@ -4,7 +4,7 @@
 
 > Laid back sounds to see you through your day.
 
-375 songs - 21 hr 13 min - [published](https://open.spotify.com/playlist/395pTXWBe61bIiK2GSpSLA)
+377 songs - 21 hr 20 min - [published](https://open.spotify.com/playlist/395pTXWBe61bIiK2GSpSLA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,7 +131,7 @@
 | [Good Company](https://open.spotify.com/track/5NqL38XhwxqF5TeNY9yr2z) | [Nick Wilson](https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF) | [Good Company](https://open.spotify.com/album/4MczP0Zn15iUoSjXsmxYrK) | 3:14 | 2022-02-21 | 2022-07-29 |
 | [Good Things Take Time](https://open.spotify.com/track/0RIuc7NFiUS8yT9BOPQgha) | [Aidan Martin](https://open.spotify.com/artist/3JKrNnhjEv9h3fyKhQpylb) | [Good Things Take Time](https://open.spotify.com/album/3yECa7f09z1U149eWQrN4e) | 3:32 | 2021-12-16 | 2022-03-27 |
 | [Goodbye](https://open.spotify.com/track/5b6enCVP67LsqqrfTs6rxr) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Goodbye](https://open.spotify.com/album/58Xvw6spiAwJygmEi6iQC7) | 3:04 | 2022-05-31 |  |
-| [Grace](https://open.spotify.com/track/0aJq40QZqvfGubgfKy5knk) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB) | [Grace](https://open.spotify.com/album/44ei9ptYrZ8ys7aXPW6bF8) | 4:13 | 2022-08-02 |  |
+| [Grace](https://open.spotify.com/track/0aJq40QZqvfGubgfKy5knk) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB) | [Grace](https://open.spotify.com/album/44ei9ptYrZ8ys7aXPW6bF8) | 4:13 | 2022-08-02 | 2022-09-20 |
 | [GUCCI BAG](https://open.spotify.com/track/08G63QA6FMXwaABEN6syRb) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [GUCCI BAG](https://open.spotify.com/album/2uglKnENyDI1cz6PxM37dY) | 2:14 | 2022-05-31 |  |
 | [Hallelujah I Love Her So](https://open.spotify.com/track/6chbqElEHkFSRDJpEydK2H) | [Laura Zocca](https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7) | [Hallelujah I Love Her So](https://open.spotify.com/album/4KkR1fwO3tgHfhsKRgfFuf) | 2:43 | 2022-03-08 |  |
 | [Hands Tied](https://open.spotify.com/track/1vrA1Ndw5iMkjxgQ3yvohQ) | [Beatrich](https://open.spotify.com/artist/4R7ILGBgDWUiAT1kWNe90W) | [Hands Tied](https://open.spotify.com/album/3mFpTh7oqlZvjfhHN4hqcC) | 3:13 | 2021-12-16 | 2022-04-05 |
@@ -159,7 +159,8 @@
 | [Hurtless](https://open.spotify.com/track/6HJizCbaqaEQG1eLjn341Z) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Hurtless](https://open.spotify.com/album/1WKIR7hhHN1DvJPn09gIST) | 3:00 | 2022-04-04 |  |
 | [Hymn for Her \(feat\. Lydia Clowes\)](https://open.spotify.com/track/2mKl6EfVpKxrCIdAmMAruF) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91), [Lydia Clowes](https://open.spotify.com/artist/4KNIAGw8aeV4ZgMxzjqkeH) | [Hymn for Her](https://open.spotify.com/album/4PYpVd1NV1nT6fpkWzhGIC) | 3:18 | 2021-12-16 | 2022-03-28 |
 | [I Burned LA Down](https://open.spotify.com/track/34Mg7rSCT7nRsf1kVCAvgz) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [I Burned LA Down](https://open.spotify.com/album/71EPoeTo5QAlsr2OWCRNhM) | 3:15 | 2022-04-11 | 2022-09-15 |
-| [I Burned LA Down](https://open.spotify.com/track/7HCk1IxbjrRcQEAiMxAAFl) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Every Beginning Ends](https://open.spotify.com/album/7pHo5Tov9GyzVnBLxPuHYB) | 3:15 | 2022-09-13 |  |
+| [I Burned LA Down](https://open.spotify.com/track/6HCE76ilvGMSibu8eki1nI) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [The Hardest Part](https://open.spotify.com/album/0CIYj6AV180SmLAEONb2DW) | 3:15 | 2022-09-13 |  |
+| [I Burned LA Down](https://open.spotify.com/track/7HCk1IxbjrRcQEAiMxAAFl) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Every Beginning Ends](https://open.spotify.com/album/7pHo5Tov9GyzVnBLxPuHYB) | 3:15 | 2022-09-13 | 2022-09-20 |
 | [I Don't Think I Love You Anymore](https://open.spotify.com/track/0TS3G3xKO8B7guR0WrfxGO) | [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [I Don't Think I Love You Anymore](https://open.spotify.com/album/6YmBn9Xe8Hbt0baBDxCfMF) | 2:52 | 2022-04-04 | 2022-07-29 |
 | [I hate myself in <3](https://open.spotify.com/track/0yweXXrfN9PGizKifL7A78) | [MaZz](https://open.spotify.com/artist/107O5LIqkinsrUzpFr9gu7) | [I hate myself in <3](https://open.spotify.com/album/4Bq7ZqDJBsWZGsENcioZjX) | 3:56 | 2022-03-29 | 2022-04-20 |
 | [I Lost Myself In Loving You](https://open.spotify.com/track/2ySPkHH3mHCP3r3T040M5V) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [I Lost Myself In Loving You](https://open.spotify.com/album/1gLySgZluGmfvNYkny3H0C) | 3:21 | 2022-02-14 |  |
@@ -257,6 +258,7 @@
 | [Our Song](https://open.spotify.com/track/5zqObw7wjBgL9TDiAymxPn) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Our Song](https://open.spotify.com/album/0zocAVUSizQ74Cn8nCsN3a) | 2:43 | 2021-12-16 | 2022-01-12 |
 | [Painkiller](https://open.spotify.com/track/3L1y08P3oCRP1ecxyCEfnm) | [Call Me Loop](https://open.spotify.com/artist/6NEekR0i3JC1r4BntSjskE) | [Painkiller](https://open.spotify.com/album/3o8lhNYrKvv25wA5sZFBL1) | 3:03 | 2022-03-25 | 2022-07-27 |
 | [Pale Damp Cheeks](https://open.spotify.com/track/2toOLLWUzPPGXYjv3sZlN0) | [Etaoin](https://open.spotify.com/artist/5V9BcFYORnSqjFtBgrpx01) | [Pale Damp Cheeks](https://open.spotify.com/album/2pN3kmD7RLWl0axrlU7OuE) | 3:33 | 2021-12-16 | 2022-07-29 |
+| [Pale Damp Cheeks](https://open.spotify.com/track/5RwjsoPluDen5DPyPdv32Q) | [Etaoin](https://open.spotify.com/artist/5V9BcFYORnSqjFtBgrpx01) | [Bedroom Walls](https://open.spotify.com/album/0cdwwrdKjoW1g9p4BdEKuy) | 3:33 | 2022-09-13 |  |
 | [paper thin](https://open.spotify.com/track/6SjmmjdOvQcQ5lR7E7E7Em) | [Nemahsis](https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f) | [paper thin](https://open.spotify.com/album/0hkbQ2Xpo7VOFoq2LgHsCM) | 3:06 | 2022-03-25 | 2022-04-19 |
 | [Paramaniac](https://open.spotify.com/track/6bO7GeKYXEvOEDi9O3zMOC) | [Abby Roberts](https://open.spotify.com/artist/11260Smss09lExMicvRPeO) | [Paramaniac](https://open.spotify.com/album/3ol4KhcloRgpuQaA9B9rW3) | 3:00 | 2022-03-25 | 2022-04-17 |
 | [Part of Me](https://open.spotify.com/track/4aosx8uOGPG9aJjm0Dj4dN) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Part of Me](https://open.spotify.com/album/6uOlsqNPU8RIwSx0Uv2tH4) | 3:57 | 2021-12-16 | 2022-01-12 |

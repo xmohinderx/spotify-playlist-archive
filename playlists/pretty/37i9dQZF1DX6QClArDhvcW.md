@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QClArDhvcW.md) - [plain]
 
 > Laid\-back beats for an easygoing morning.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,180 likes - 161 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,221 likes - 161 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,7 +118,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QClArDhvcW.md) - [plain]
 | 108 | [Lycium](https://open.spotify.com/track/6UN9NdeZ6xoVrTeXOcgj8t) | [Dualizm](https://open.spotify.com/artist/7q0bttnSm6LD4zu9RoPEkz), [Moody.](https://open.spotify.com/artist/0qdK6GuCLLmh5VHMsozhyb) | [Lycium](https://open.spotify.com/album/5auTxR0jOmqgaeEhNC368p) | 2:15 |
 | 109 | [Cold Pillows](https://open.spotify.com/track/6a3UWWhZheDHZMi8hBLKgn) | [Tailwinds](https://open.spotify.com/artist/6W50Jtaz33gA5opvEA0q0g) | [Softer](https://open.spotify.com/album/1WvWdv5jyAbPHwEgT7nfbf) | 3:20 |
 | 110 | [Cuddle](https://open.spotify.com/track/0qPQBBWJdESIBv0S5CS3to) | [Elton Baptiste](https://open.spotify.com/artist/7qZ2onZeQHlYsD6ZoGzCcS) | [Cuddle](https://open.spotify.com/album/7mjXhZxuAENnEQ3NVjHZaa) | 2:19 |
-| 111 | [leyawiin](https://open.spotify.com/track/6VqChVa40ZOFZyve05Zq0m) | [Poetics](https://open.spotify.com/artist/6sdgbah9YMIS5jSYdyzpBP) | [leyawiin](https://open.spotify.com/album/24u2vd97YmlbRVHeLbxLte) | 1:28 |
+| 111 | [leyawiin](https://open.spotify.com/track/6ZQ6OSk8nA6iPoE6rDhili) | [Poetics](https://open.spotify.com/artist/6sdgbah9YMIS5jSYdyzpBP) | [leyawiin](https://open.spotify.com/album/0SUtI8v2vOliyEU2WO2yMn) | 1:28 |
 | 112 | [left staring](https://open.spotify.com/track/1aKmyCgZQbhVeN9aH6co0I) | [bugdawn](https://open.spotify.com/artist/3iB5oTLzBMSaNQ2CajhcGz) | [left staring](https://open.spotify.com/album/0qRiHtoEzskxs1lcKzLIml) | 2:12 |
 | 113 | [Candy Clouds](https://open.spotify.com/track/0Z4O3yTtmqdLXzCxSX9XPt) | [Airship River](https://open.spotify.com/artist/6v5wK0vEKyLP05vV9dvly6) | [Lemo](https://open.spotify.com/album/0rA6rd8ashXD1xaAQkbZRI) | 3:12 |
 | 114 | [Souvenir](https://open.spotify.com/track/5GFro8JfW7Scx4XsgS5e32) | [Koralle](https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h) | [Souvenir](https://open.spotify.com/album/6v0GUOWu4WAa4XGjSB5eYx) | 2:28 |
@@ -170,4 +170,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QClArDhvcW.md) - [plain]
 | 160 | [Riverside](https://open.spotify.com/track/2sgjopd4amh7swhXSbjAxJ) | [Syndrome](https://open.spotify.com/artist/0aoTIxQJvGyH2vLza8yOe5) | [Riverside](https://open.spotify.com/album/3w8j6o0sPdCDgUrYpLWYeZ) | 1:18 |
 | 161 | [modern grooves](https://open.spotify.com/track/7eZLYuZNekoxGxjMBQ8ACl) | [slån](https://open.spotify.com/artist/3FtHbjWZC4p0XzS0qbaleC) | [modern grooves](https://open.spotify.com/album/0fOAKYEVrzvIGkWEs1fMfl) | 1:36 |
 
-Snapshot ID: `MTY2MzMzNjQ0MCwwMDAwMDAwMDBjNzIyNjNmY2JmNzhiZTE2MTM5YmEzMzdmZTk4MGYw`
+Snapshot ID: `MTY2MzMzNjQ0MCwwMDAwMDAwMDQ4NGRhODY5ZjI5ZGIxNjA0NTFiZWY1Y2Q4MDBkYmM4`

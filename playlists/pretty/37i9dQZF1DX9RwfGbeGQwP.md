@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 
 > chill beats for cool coffeehouse vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,053 likes - 500 songs - 19 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,375 likes - 500 songs - 19 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 | 40 | [Out Of Order](https://open.spotify.com/track/5UgCKTRv3o4HrS5gOLUN4b) | [Tzeri](https://open.spotify.com/artist/52hl0yuSTaDyn0cJxxCMaK) | [Out Of Order](https://open.spotify.com/album/6IeQxgTkyOgmyo26GKWCNl) | 2:21 |
 | 41 | [No Dice](https://open.spotify.com/track/1ErCBvB7V3BmzTVvhHD0xN) | [Liit City](https://open.spotify.com/artist/3jbFAxekmZ5DY8CHuw5Uti) | [No Dice](https://open.spotify.com/album/7ABUKuS9eK7HmaTJLX7Zk5) | 2:31 |
 | 42 | [Everything I'm not](https://open.spotify.com/track/3VRUnokiLze9VzGfeQWt8i) | [lowerful](https://open.spotify.com/artist/5vud9meb096x8pcNKiGDAm) | [Everything I'm not](https://open.spotify.com/album/25MzO5IM7UJI0YLX1eNfbM) | 1:48 |
-| 43 | [cheydinhal](https://open.spotify.com/track/3xMf7Kna90OQykFAxTyq5z) | [Poetics](https://open.spotify.com/artist/6sdgbah9YMIS5jSYdyzpBP) | [cheydinhal](https://open.spotify.com/album/2V0IXWAztq41O6rS4s4Yka) | 2:05 |
+| 43 | [cheydinhal](https://open.spotify.com/track/1LZn2Iumd6EBPa16SxZmgg) | [Poetics](https://open.spotify.com/artist/6sdgbah9YMIS5jSYdyzpBP) | [cheydinhal](https://open.spotify.com/album/5qkawH5rfKsYEwTXWMRDeP) | 2:05 |
 | 44 | [Luminism](https://open.spotify.com/track/6WtvZcBhLlI1pTWkAmyHDk) | [Blossum](https://open.spotify.com/artist/5n57oRR8VeYTcFnpz6svA4), [iamalex](https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU) | [Luminism](https://open.spotify.com/album/1verBqXRd5mPWIdcKnz6Vy) | 2:20 |
 | 45 | [My Kind Of Club](https://open.spotify.com/track/6styRj3YNO2j31nY2ZBR3i) | [Cutecake](https://open.spotify.com/artist/4siWS58eyzzQFTp3XJYKin) | [My Kind Of Club](https://open.spotify.com/album/5EcjvuoqZ0IkVcOQ2ryiYQ) | 2:18 |
 | 46 | [The Parade](https://open.spotify.com/track/6qqBcmjT5DYtXxYlUAtD4W) | [Rosa Mahoney](https://open.spotify.com/artist/28SJ1LuRJWcILK2Mz0uZmn) | [The Parade](https://open.spotify.com/album/55dQPl1fEh3c6M0r225JQu) | 2:24 |
@@ -509,4 +509,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 | 499 | [Au revoir](https://open.spotify.com/track/7tGDAcdGqdeac9dSsqGeye) | [French Connection](https://open.spotify.com/artist/65psUobejSe9ZkjPgtCtZW) | [Amoureuse](https://open.spotify.com/album/4jlBcpGa3hXb8KifyY8U3k) | 1:37 |
 | 500 | [console romance](https://open.spotify.com/track/47ET7YyThyhkitaOaKDJVF) | [illflower](https://open.spotify.com/artist/2MYCX5cNHM1sb7FkHh6b4l) | [all is love](https://open.spotify.com/album/4sokaTGrRyetNwS0jFK2mp) | 2:14 |
 
-Snapshot ID: `MTY2MzMyOTI0MCwwMDAwMDAwMGEyNzMwZWFkMWYwNjIyMmVmMzZmN2I4ZDI3NzA2YWY5`
+Snapshot ID: `MTY2MzMyOTI0MCwwMDAwMDAwMDZkYzFjOWY1Yjk2ZTUwYWU1MGFjZWI3NGY2MGZhMDA4`

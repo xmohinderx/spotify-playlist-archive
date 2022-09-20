@@ -1,12 +1,12 @@
 {
   "description": "Traditional West African blues and North African desert blues. Cover: Songhoy Blues",
-  "num_followers": 4346,
+  "num_followers": 4359,
   "original_name": "African Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNjc5ODg2MCwwMDAwMDAwMDdlZjE3OWQ5MTVhODI3OGRjNTMyOThiNzNkZjVkZmRk",
+  "snapshot_id": "MTYwNjc5ODg2MCwwMDAwMDAwMGMyODVjYzY5ZThkMDljMGZiOWQ2OTE5NmQwZWEwNzhj",
   "tracks": [
     {
       "added_at": "2020-12-01 05:01:00",
@@ -223,6 +223,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "Kidal",
+        "url": "https://open.spotify.com/album/5OomumBipFPjdcXld2zJQc"
+      },
+      "artists": [
+        {
+          "name": "Tamikrest",
+          "url": "https://open.spotify.com/artist/6nZ1wn9URV4oWk4UKuG872"
+        }
+      ],
+      "duration_ms": 218076,
+      "name": "Mawarniha Tartit",
+      "url": "https://open.spotify.com/track/6KnZ9iov6qX5ZZBLS0pUPF"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "African Gnaoua Blues",
         "url": "https://open.spotify.com/album/1re8yFWm97F3S2uD1ztase"
       },
@@ -255,18 +271,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Kidal",
-        "url": "https://open.spotify.com/album/5OomumBipFPjdcXld2zJQc"
+        "name": "The River",
+        "url": "https://open.spotify.com/album/78Pv299m6S629pS6hPFOix"
       },
       "artists": [
         {
-          "name": "Tamikrest",
-          "url": "https://open.spotify.com/artist/6nZ1wn9URV4oWk4UKuG872"
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
         }
       ],
-      "duration_ms": 218076,
-      "name": "Mawarniha Tartit",
-      "url": "https://open.spotify.com/track/6KnZ9iov6qX5ZZBLS0pUPF"
+      "duration_ms": 358626,
+      "name": "Heygana",
+      "url": "https://open.spotify.com/track/3DtHJ8fImqihyFylpeqdqA"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -287,18 +303,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "The River",
-        "url": "https://open.spotify.com/album/78Pv299m6S629pS6hPFOix"
+        "name": "Mali Denhou",
+        "url": "https://open.spotify.com/album/0Y3ejNw8PD0839BoDg8N7E"
       },
       "artists": [
         {
-          "name": "Ali Farka Tour\u00e9",
-          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+          "name": "Boubacar Traor\u00e9",
+          "url": "https://open.spotify.com/artist/63Bilw49Uv4s2wnovytDVU"
         }
       ],
-      "duration_ms": 358626,
-      "name": "Heygana",
-      "url": "https://open.spotify.com/track/3DtHJ8fImqihyFylpeqdqA"
+      "duration_ms": 367040,
+      "name": "M'Badehou",
+      "url": "https://open.spotify.com/track/61AJlCxahP7OhPjYojRvN6"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -335,22 +351,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Mali Denhou",
-        "url": "https://open.spotify.com/album/0Y3ejNw8PD0839BoDg8N7E"
-      },
-      "artists": [
-        {
-          "name": "Boubacar Traor\u00e9",
-          "url": "https://open.spotify.com/artist/63Bilw49Uv4s2wnovytDVU"
-        }
-      ],
-      "duration_ms": 367040,
-      "name": "M'Badehou",
-      "url": "https://open.spotify.com/track/61AJlCxahP7OhPjYojRvN6"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Music In Exile",
         "url": "https://open.spotify.com/album/5zpmNObCgAASco8nNJXIkb"
       },
@@ -363,22 +363,6 @@
       "duration_ms": 212306,
       "name": "Soubour",
       "url": "https://open.spotify.com/track/6myCSm2QEXMrgtUxVN313f"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "The River",
-        "url": "https://open.spotify.com/album/78Pv299m6S629pS6hPFOix"
-      },
-      "artists": [
-        {
-          "name": "Ali Farka Tour\u00e9",
-          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
-        }
-      ],
-      "duration_ms": 380973,
-      "name": "Ai Bine",
-      "url": "https://open.spotify.com/track/4xkNHzlCNBkJrL0PlOLDRP"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -435,6 +419,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "The River",
+        "url": "https://open.spotify.com/album/78Pv299m6S629pS6hPFOix"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "duration_ms": 380973,
+      "name": "Ai Bine",
+      "url": "https://open.spotify.com/track/4xkNHzlCNBkJrL0PlOLDRP"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "The Secret",
         "url": "https://open.spotify.com/album/0gGinv1UJ9R4wAPhimSjWc"
       },
@@ -451,6 +451,22 @@
       "duration_ms": 411013,
       "name": "The Secret",
       "url": "https://open.spotify.com/track/362JdradEO0cX5N7qYhkRE"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Music In Exile",
+        "url": "https://open.spotify.com/album/5zpmNObCgAASco8nNJXIkb"
+      },
+      "artists": [
+        {
+          "name": "Songhoy Blues",
+          "url": "https://open.spotify.com/artist/5fpQ5Qt2BKgoVBSMw4Z17Z"
+        }
+      ],
+      "duration_ms": 213653,
+      "name": "Sekou Oumarou",
+      "url": "https://open.spotify.com/track/2AOCrMXj342i5mz5Ade7Wi"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -487,22 +503,6 @@
       "duration_ms": 311266,
       "name": "Yere faga",
       "url": "https://open.spotify.com/track/2TdpGmTV28dk9XPJhHq1h1"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Music In Exile",
-        "url": "https://open.spotify.com/album/5zpmNObCgAASco8nNJXIkb"
-      },
-      "artists": [
-        {
-          "name": "Songhoy Blues",
-          "url": "https://open.spotify.com/artist/5fpQ5Qt2BKgoVBSMw4Z17Z"
-        }
-      ],
-      "duration_ms": 213653,
-      "name": "Sekou Oumarou",
-      "url": "https://open.spotify.com/track/2AOCrMXj342i5mz5Ade7Wi"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -555,6 +555,26 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "R\u00e9sistance",
+        "url": "https://open.spotify.com/album/4Ihzwun58CM5vmphpBngFG"
+      },
+      "artists": [
+        {
+          "name": "Songhoy Blues",
+          "url": "https://open.spotify.com/artist/5fpQ5Qt2BKgoVBSMw4Z17Z"
+        },
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 183720,
+      "name": "Sahara",
+      "url": "https://open.spotify.com/track/0oh6nHFPCxP2reKoRjuI6Q"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "Adagh",
         "url": "https://open.spotify.com/album/0NCZHorNT5GUmCcT2nbCU4"
       },
@@ -587,22 +607,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Temet",
-        "url": "https://open.spotify.com/album/1RK0pJy13gdxRchYDEemSq"
-      },
-      "artists": [
-        {
-          "name": "Imarhan",
-          "url": "https://open.spotify.com/artist/1KQ1687z0hWSabx0YswG54"
-        }
-      ],
-      "duration_ms": 252493,
-      "name": "Tamudre",
-      "url": "https://open.spotify.com/track/1EPdbtse9qPz2AQN7yUQ1q"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Kongo Magni",
         "url": "https://open.spotify.com/album/0aYCT3cI8cb4q3iRFx8oAe"
       },
@@ -619,6 +623,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "Temet",
+        "url": "https://open.spotify.com/album/1RK0pJy13gdxRchYDEemSq"
+      },
+      "artists": [
+        {
+          "name": "Imarhan",
+          "url": "https://open.spotify.com/artist/1KQ1687z0hWSabx0YswG54"
+        }
+      ],
+      "duration_ms": 252493,
+      "name": "Tamudre",
+      "url": "https://open.spotify.com/track/1EPdbtse9qPz2AQN7yUQ1q"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "Tchamantch\u00e9",
         "url": "https://open.spotify.com/album/7fzlbT0KWe5H0fI0zO1f8Q"
       },
@@ -631,26 +651,6 @@
       "duration_ms": 380613,
       "name": "Dounia",
       "url": "https://open.spotify.com/track/36tIPdhTe49U4gvp6mwCaU"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "R\u00e9sistance",
-        "url": "https://open.spotify.com/album/4Ihzwun58CM5vmphpBngFG"
-      },
-      "artists": [
-        {
-          "name": "Songhoy Blues",
-          "url": "https://open.spotify.com/artist/5fpQ5Qt2BKgoVBSMw4Z17Z"
-        },
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 183720,
-      "name": "Sahara",
-      "url": "https://open.spotify.com/track/0oh6nHFPCxP2reKoRjuI6Q"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -703,22 +703,6 @@
       "duration_ms": 197960,
       "name": "Mississippi-Mali Blues",
       "url": "https://open.spotify.com/track/2L0gh4ZlfAyfSBnAovbQAh"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Wanita",
-        "url": "https://open.spotify.com/album/5NAd6WgCPfR8BxEYWaZcEg"
-      },
-      "artists": [
-        {
-          "name": "Rokia Traor\u00e9",
-          "url": "https://open.spotify.com/artist/6sz0k1q2aEtG5dxEgr4YWV"
-        }
-      ],
-      "duration_ms": 351533,
-      "name": "Tchwa",
-      "url": "https://open.spotify.com/track/3AF8QpzspG8btjyd4s3bjM"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -795,6 +779,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "Wanita",
+        "url": "https://open.spotify.com/album/5NAd6WgCPfR8BxEYWaZcEg"
+      },
+      "artists": [
+        {
+          "name": "Rokia Traor\u00e9",
+          "url": "https://open.spotify.com/artist/6sz0k1q2aEtG5dxEgr4YWV"
+        }
+      ],
+      "duration_ms": 351533,
+      "name": "Tchwa",
+      "url": "https://open.spotify.com/track/3AF8QpzspG8btjyd4s3bjM"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "Tje Ni Mousso",
         "url": "https://open.spotify.com/album/2gyQndyOXeISkSfhyb1FSG"
       },
@@ -811,22 +811,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Mississippi To Mali",
-        "url": "https://open.spotify.com/album/6IzcR4AS2tHjyFq0gBcU6T"
-      },
-      "artists": [
-        {
-          "name": "Corey Harris",
-          "url": "https://open.spotify.com/artist/1TQtbRQbaXw5CeN3mC0DJH"
-        }
-      ],
-      "duration_ms": 400800,
-      "name": "Tamalah",
-      "url": "https://open.spotify.com/track/1x3Y5XIrFf01LIqus4kQKI"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Imidiwan: Companions",
         "url": "https://open.spotify.com/album/1T0sA1dBhet0q3KQlklEhL"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 328853,
       "name": "Tenhert",
       "url": "https://open.spotify.com/track/3eWaUgRTojLlBHfVrETuXD"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Mississippi To Mali",
+        "url": "https://open.spotify.com/album/6IzcR4AS2tHjyFq0gBcU6T"
+      },
+      "artists": [
+        {
+          "name": "Corey Harris",
+          "url": "https://open.spotify.com/artist/1TQtbRQbaXw5CeN3mC0DJH"
+        }
+      ],
+      "duration_ms": 400800,
+      "name": "Tamalah",
+      "url": "https://open.spotify.com/track/1x3Y5XIrFf01LIqus4kQKI"
     },
     {
       "added_at": "2020-12-01 05:01:00",

@@ -4,7 +4,7 @@
 
 > Progressive House Club Anthems\. IF YOU LOVE FESTIVAL MUSIC, THIS IS YOUR PLAYLIST! Check the biggest anthems of Progressive House for 2022 with the most energetic and emotional music updated every week.
 
-92 songs - 4 hr 53 min - [published](https://open.spotify.com/playlist/1Hvu2MIsN55fb0PgQQ9jgu)
+93 songs - 4 hr 56 min - [published](https://open.spotify.com/playlist/1Hvu2MIsN55fb0PgQQ9jgu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [All My Life](https://open.spotify.com/track/7pSIzHh4E7v5TBa6DHEPba) | [Somero](https://open.spotify.com/artist/25QwEFukGdirO64kwGIwTR), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8) | [All My Life](https://open.spotify.com/album/63wRjrPw2IHWN53aeFLhQM) | 2:24 | 2022-07-29 |  |
 | [Apart Together](https://open.spotify.com/track/0X7YZdWOn5deNtx5WUJZGV) | [Jeffrey Sutorius](https://open.spotify.com/artist/2XGg454n1pSdgoqrfcSDbq) | [\#aparttogether](https://open.spotify.com/album/69gjrVGn8OAOGfCz5jAuLC) | 3:33 | 2022-07-29 |  |
 | [Apollo \- SICK INDIVIDUALS Remix](https://open.spotify.com/track/03PgbAWbsMhzaJc8uK3AyU) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Amba Shepherd](https://open.spotify.com/artist/4RTCIP5yp2tL1AtBCq7ukj), [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [Revealed 10 Year Anniversary Remixed](https://open.spotify.com/album/4Pn9DreQQj0WtcNqDeBc7S) | 3:33 | 2022-07-29 |  |
+| [Back To You](https://open.spotify.com/track/4j94DHbP7qELZIltB7VI8K) | [Kosling](https://open.spotify.com/artist/1dsilrkrvxXE6I02SWfDYD) | [Back To You](https://open.spotify.com/album/1QJO7W9Wm3GHqL5hNU5fFT) | 3:14 | 2022-09-19 |  |
 | [Battlefield](https://open.spotify.com/track/4L8tAFBftTAOo5pjeXVW9g) | [Ryos](https://open.spotify.com/artist/7us9kFadl2fztbHSvlNk6M), [Reggio](https://open.spotify.com/artist/1Q6CDBTFFKnanZ20DS2QnQ), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Battlefield](https://open.spotify.com/album/1mtzE0SF8NyrV0CT4NV8tj) | 3:00 | 2022-07-29 |  |
 | [Be Better](https://open.spotify.com/track/0uVBiWEyBsnMvdpkU8LgkM) | [Raven & Kreyn](https://open.spotify.com/artist/6STjC3QJTieuM5WHHtkGuh), [Mingue](https://open.spotify.com/artist/4esHHdhDN4oeg9zYkAFpUs) | [Be Better](https://open.spotify.com/album/6UTSEM42sSiteieJFcb896) | 2:40 | 2022-07-29 |  |
 | [Beautiful Disaster](https://open.spotify.com/track/2hqRbIBbF7rNqT9q5Zmqsq) | [Van Snyder](https://open.spotify.com/artist/3hxJ7exqIsY8CkbNh26b4P), [Robbie Rosen](https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM) | [Beautiful Disaster](https://open.spotify.com/album/7xafuOSJw67DzfhM2KlPHE) | 3:07 | 2022-08-11 |  |
@@ -97,7 +98,7 @@
 | [We Made It](https://open.spotify.com/track/0ejDlgGyrvUNEyYUfNdcjf) | [BLCKØUT](https://open.spotify.com/artist/7EZyaSx7ZEqa0LHMsubhbT) | [We Made It](https://open.spotify.com/album/4pPMc8MqHiGrJ5fdg6jKjU) | 2:22 | 2022-09-09 |  |
 | [What They Want](https://open.spotify.com/track/7a7sY5JTAUu7jMFjJlcCds) | [DeshRoane](https://open.spotify.com/artist/72DDyTYjOtAc12KT4q9Jyl), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8) | [What They Want](https://open.spotify.com/album/33Q8tSs29LwXzUjtMVzh2Q) | 3:44 | 2022-07-29 |  |
 | [Wherever You Go](https://open.spotify.com/track/52bRJhtzE9HaeAOytxAmTw) | [Axity](https://open.spotify.com/artist/4TEOItM1eSa55pK44NiEhp), [Lazz](https://open.spotify.com/artist/4ZoDgLUUzep4J2i47556l9), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8) | [Wherever You Go](https://open.spotify.com/album/7sSlh0DJcDjrOIGFT7MW7e) | 3:52 | 2022-07-29 |  |
-| [Whole Again](https://open.spotify.com/track/4EHMB2LvLEnbpdQKBNbGBq) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR), [John Martin](https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq) | [Whole Again](https://open.spotify.com/album/2cCt0xjFeQjUYW2RaFOHml) | 3:30 | 2022-07-29 |  |
+| [Whole Again](https://open.spotify.com/track/4EHMB2LvLEnbpdQKBNbGBq) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR), [John Martin](https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq) | [Whole Again](https://open.spotify.com/album/2cCt0xjFeQjUYW2RaFOHml) | 3:30 | 2022-07-29 | 2022-09-20 |
 | [Wish We Never Met](https://open.spotify.com/track/7nE1Oo0I6ojq1TSxQ1oZCY) | [Dastic](https://open.spotify.com/artist/1wdU1J2NHzcDYarT7jEU2A), [Amanda Collis](https://open.spotify.com/artist/2RXmfgMl9V8akCT4wzTyE9) | [Wish We Never Met](https://open.spotify.com/album/1mTsJvaFqaiCn8oMUZ62mW) | 2:43 | 2022-07-29 |  |
 | [Young Again \(feat\. Chris Jones\)](https://open.spotify.com/track/1sDq5xK0N3DSlYv4ZrIUpS) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Chris Jones](https://open.spotify.com/artist/138MRWfk2JTHgHSUxcI4bU) | [United We Are](https://open.spotify.com/album/0nPyJm67LIEB1VfPLFvBnS) | 3:39 | 2022-07-29 | 2022-08-27 |
 

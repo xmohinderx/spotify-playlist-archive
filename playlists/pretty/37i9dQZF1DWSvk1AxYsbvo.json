@@ -1,12 +1,12 @@
 {
   "description": "\uc774\ubd88 \uc548 \uc18d\ucc98\ub7fc \ud3ec\uadfc\ud558\uace0 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uacfc \ud568\uaed8 \ud3ed\uc2e0\ud55c \uae30\ubd84\uc744 \ub9cc\ub07d\ud558\uc138\uc694.",
-  "num_followers": 5881,
+  "num_followers": 5882,
   "original_name": "\ud3ec\uadfc \ud3b8\uc548 \ud3ed\uc2e0",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjM5MjU0OCwwMDAwMDAwMDU1MTdlMDA0MmFjYzA3ODMzNzQwMzhjYzA5NTU5MzI2",
+  "snapshot_id": "MTY2MjM5MjU0OCwwMDAwMDAwMGM4ZmRhMmU0MzczNWU5Nzc0ZDMwNDkzZGZkNDg5MDAx",
   "tracks": [
     {
       "added_at": "2022-09-05 15:42:28",
@@ -319,6 +319,22 @@
     {
       "added_at": "2022-09-05 15:42:28",
       "album": {
+        "name": "Dancing With You",
+        "url": "https://open.spotify.com/album/0pCcUdeFSd2j7BhVvUP8HS"
+      },
+      "artists": [
+        {
+          "name": "Yebit",
+          "url": "https://open.spotify.com/artist/7zdCvtTQdMCj37CuQxkyQf"
+        }
+      ],
+      "duration_ms": 236750,
+      "name": "Dancing With You",
+      "url": "https://open.spotify.com/track/7g8LSPXjUmNi3433qYyTOT"
+    },
+    {
+      "added_at": "2022-09-05 15:42:28",
+      "album": {
         "name": "My Beautiful Apartment (Original Television Soundtrack) (O\u2032PENing)",
         "url": "https://open.spotify.com/album/1t9pAo9XneaecUx94i27ms"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 243281,
       "name": "This night",
       "url": "https://open.spotify.com/track/4TpvzMWFgeIU188OdlNhGh"
-    },
-    {
-      "added_at": "2022-09-05 15:42:28",
-      "album": {
-        "name": "Dancing With You",
-        "url": "https://open.spotify.com/album/0pCcUdeFSd2j7BhVvUP8HS"
-      },
-      "artists": [
-        {
-          "name": "Yebit",
-          "url": "https://open.spotify.com/artist/7zdCvtTQdMCj37CuQxkyQf"
-        }
-      ],
-      "duration_ms": 236750,
-      "name": "Dancing With You",
-      "url": "https://open.spotify.com/track/7g8LSPXjUmNi3433qYyTOT"
     },
     {
       "added_at": "2022-09-05 15:42:28",
@@ -399,34 +399,18 @@
     {
       "added_at": "2022-09-05 15:42:28",
       "album": {
-        "name": "Beautiful Now (Original Television Soundtrack) Pt. 9",
-        "url": "https://open.spotify.com/album/2X9zquczSyputp24lpjLkr"
+        "name": "Dancing With You",
+        "url": "https://open.spotify.com/album/0pCcUdeFSd2j7BhVvUP8HS"
       },
       "artists": [
         {
-          "name": "Hello Ga-Young",
-          "url": "https://open.spotify.com/artist/1yewRvlKGWmNRHOSGgiRRo"
+          "name": "Yebit",
+          "url": "https://open.spotify.com/artist/7zdCvtTQdMCj37CuQxkyQf"
         }
       ],
-      "duration_ms": 219939,
-      "name": "beautiful inside",
-      "url": "https://open.spotify.com/track/1bxzxAOlqll6JIAeEZEINR"
-    },
-    {
-      "added_at": "2022-09-05 15:42:28",
-      "album": {
-        "name": "Beautiful Now (Original Television Soundtrack) Pt. 8",
-        "url": "https://open.spotify.com/album/47BJR3AeDuXKNUewXf1OAq"
-      },
-      "artists": [
-        {
-          "name": "Lucia",
-          "url": "https://open.spotify.com/artist/3VHFAtB6fPQwpAWQ5rn4uc"
-        }
-      ],
-      "duration_ms": 213327,
-      "name": "Going home",
-      "url": "https://open.spotify.com/track/6rnHkf4EUMA9HWWsHEuLYh"
+      "duration_ms": 150375,
+      "name": "Shower",
+      "url": "https://open.spotify.com/track/55DF2HAjfwN52aHQwIT5gO"
     },
     {
       "added_at": "2022-09-05 15:42:28",
@@ -447,6 +431,22 @@
     {
       "added_at": "2022-09-05 15:42:28",
       "album": {
+        "name": "Beautiful Now (Original Television Soundtrack) Pt. 9",
+        "url": "https://open.spotify.com/album/2X9zquczSyputp24lpjLkr"
+      },
+      "artists": [
+        {
+          "name": "Hello Ga-Young",
+          "url": "https://open.spotify.com/artist/1yewRvlKGWmNRHOSGgiRRo"
+        }
+      ],
+      "duration_ms": 219939,
+      "name": "beautiful inside",
+      "url": "https://open.spotify.com/track/1bxzxAOlqll6JIAeEZEINR"
+    },
+    {
+      "added_at": "2022-09-05 15:42:28",
+      "album": {
         "name": "Bloom",
         "url": "https://open.spotify.com/album/1IXM5QxiYDAd4BwCUxOg95"
       },
@@ -459,6 +459,22 @@
       "duration_ms": 204373,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/7IElhPx2i4MjnVgzOZVqrB"
+    },
+    {
+      "added_at": "2022-09-05 15:42:28",
+      "album": {
+        "name": "Beautiful Now (Original Television Soundtrack) Pt. 8",
+        "url": "https://open.spotify.com/album/47BJR3AeDuXKNUewXf1OAq"
+      },
+      "artists": [
+        {
+          "name": "Lucia",
+          "url": "https://open.spotify.com/artist/3VHFAtB6fPQwpAWQ5rn4uc"
+        }
+      ],
+      "duration_ms": 213327,
+      "name": "Going home",
+      "url": "https://open.spotify.com/track/6rnHkf4EUMA9HWWsHEuLYh"
     },
     {
       "added_at": "2022-09-05 15:42:28",
@@ -479,22 +495,6 @@
     {
       "added_at": "2022-09-05 15:42:28",
       "album": {
-        "name": "All at Sea",
-        "url": "https://open.spotify.com/album/0Obk9iicqt7qGuBYcAAVWe"
-      },
-      "artists": [
-        {
-          "name": "Ha Yang Su",
-          "url": "https://open.spotify.com/artist/0qDdf7110IG0xfOFulWftA"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "All at Sea",
-      "url": "https://open.spotify.com/track/0213ZfdsDJ5daAi09oZOH5"
-    },
-    {
-      "added_at": "2022-09-05 15:42:28",
-      "album": {
         "name": "let\u2019s play tug",
         "url": "https://open.spotify.com/album/58dDHLjbbAYjwsKnxnTSuR"
       },
@@ -507,38 +507,6 @@
       "duration_ms": 166196,
       "name": "let\u2019s play tug",
       "url": "https://open.spotify.com/track/2D4ePOWVxw7LVFY1NNAAca"
-    },
-    {
-      "added_at": "2022-09-05 15:42:28",
-      "album": {
-        "name": "Dancing With You",
-        "url": "https://open.spotify.com/album/0pCcUdeFSd2j7BhVvUP8HS"
-      },
-      "artists": [
-        {
-          "name": "Yebit",
-          "url": "https://open.spotify.com/artist/7zdCvtTQdMCj37CuQxkyQf"
-        }
-      ],
-      "duration_ms": 150375,
-      "name": "Shower",
-      "url": "https://open.spotify.com/track/55DF2HAjfwN52aHQwIT5gO"
-    },
-    {
-      "added_at": "2022-09-05 15:42:28",
-      "album": {
-        "name": "Summer Festa",
-        "url": "https://open.spotify.com/album/014u0JnJJYVQCpxVSQ9awM"
-      },
-      "artists": [
-        {
-          "name": "NavyQuokka",
-          "url": "https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW"
-        }
-      ],
-      "duration_ms": 190040,
-      "name": "Summer Festa",
-      "url": "https://open.spotify.com/track/48FmyTNts7wIojfB3NxDfR"
     },
     {
       "added_at": "2022-09-05 15:42:28",
@@ -559,6 +527,38 @@
       "duration_ms": 205002,
       "name": "Leave like this",
       "url": "https://open.spotify.com/track/1DjihD1VQAuuaRaMDOKOjy"
+    },
+    {
+      "added_at": "2022-09-05 15:42:28",
+      "album": {
+        "name": "Summer Festa",
+        "url": "https://open.spotify.com/album/014u0JnJJYVQCpxVSQ9awM"
+      },
+      "artists": [
+        {
+          "name": "NavyQuokka",
+          "url": "https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW"
+        }
+      ],
+      "duration_ms": 190040,
+      "name": "Summer Festa",
+      "url": "https://open.spotify.com/track/48FmyTNts7wIojfB3NxDfR"
+    },
+    {
+      "added_at": "2022-09-05 15:42:28",
+      "album": {
+        "name": "All at Sea",
+        "url": "https://open.spotify.com/album/0Obk9iicqt7qGuBYcAAVWe"
+      },
+      "artists": [
+        {
+          "name": "Ha Yang Su",
+          "url": "https://open.spotify.com/artist/0qDdf7110IG0xfOFulWftA"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "All at Sea",
+      "url": "https://open.spotify.com/track/0213ZfdsDJ5daAi09oZOH5"
     },
     {
       "added_at": "2022-09-05 15:42:28",
@@ -651,22 +651,6 @@
     {
       "added_at": "2022-09-05 15:42:28",
       "album": {
-        "name": "sleepless nights (My Sweden Laundry #1)",
-        "url": "https://open.spotify.com/album/4U33ucPMfJMmaMo0SA6kqd"
-      },
-      "artists": [
-        {
-          "name": "Choi Yuree",
-          "url": "https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v"
-        }
-      ],
-      "duration_ms": 220413,
-      "name": "sleepless nights (My Sweden Laundry #1)",
-      "url": "https://open.spotify.com/track/4gOx9XctmKHQ42ytfKNbiC"
-    },
-    {
-      "added_at": "2022-09-05 15:42:28",
-      "album": {
         "name": "Olive",
         "url": "https://open.spotify.com/album/4OOcKhTPbVZtDdy2WKVVEE"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 129000,
       "name": "Olive",
       "url": "https://open.spotify.com/track/4npfaORHCIotPdE5pROSX8"
+    },
+    {
+      "added_at": "2022-09-05 15:42:28",
+      "album": {
+        "name": "sleepless nights (My Sweden Laundry #1)",
+        "url": "https://open.spotify.com/album/4U33ucPMfJMmaMo0SA6kqd"
+      },
+      "artists": [
+        {
+          "name": "Choi Yuree",
+          "url": "https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v"
+        }
+      ],
+      "duration_ms": 220413,
+      "name": "sleepless nights (My Sweden Laundry #1)",
+      "url": "https://open.spotify.com/track/4gOx9XctmKHQ42ytfKNbiC"
     },
     {
       "added_at": "2022-09-05 15:42:28",
@@ -715,22 +715,6 @@
     {
       "added_at": "2022-09-05 15:42:28",
       "album": {
-        "name": "\uae30\ub9c9\ud78c \uc720\uc0b0 (Original Television Soundtrack) Pt. 4",
-        "url": "https://open.spotify.com/album/0gSEdT5M23E5utrxIofSBY"
-      },
-      "artists": [
-        {
-          "name": "Shin Ji Hoon",
-          "url": "https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg"
-        }
-      ],
-      "duration_ms": 233284,
-      "name": "\ub0b4 \uc0ac\ub791 \ub0b4 \uacc1\uc5d0",
-      "url": "https://open.spotify.com/track/77odrU6Z94fsXryPiPf7P7"
-    },
-    {
-      "added_at": "2022-09-05 15:42:28",
-      "album": {
         "name": "Greeting",
         "url": "https://open.spotify.com/album/3nsi8ersP7BvMbA7Qrh5m6"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 400871,
       "name": "Bye (feat. LeeHi)",
       "url": "https://open.spotify.com/track/4DnMtsF3UfkGys5DwjU3BH"
+    },
+    {
+      "added_at": "2022-09-05 15:42:28",
+      "album": {
+        "name": "\uae30\ub9c9\ud78c \uc720\uc0b0 (Original Television Soundtrack) Pt. 4",
+        "url": "https://open.spotify.com/album/0gSEdT5M23E5utrxIofSBY"
+      },
+      "artists": [
+        {
+          "name": "Shin Ji Hoon",
+          "url": "https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg"
+        }
+      ],
+      "duration_ms": 233284,
+      "name": "\ub0b4 \uc0ac\ub791 \ub0b4 \uacc1\uc5d0",
+      "url": "https://open.spotify.com/track/77odrU6Z94fsXryPiPf7P7"
     },
     {
       "added_at": "2022-09-05 15:42:28",
@@ -783,22 +783,6 @@
     {
       "added_at": "2022-09-05 15:42:28",
       "album": {
-        "name": "Now On, Showtime! (Original Television Soundtrack) - 'DANDELION'",
-        "url": "https://open.spotify.com/album/0p6LcAuJfbKxZaPpsgUlF9"
-      },
-      "artists": [
-        {
-          "name": "Zitten",
-          "url": "https://open.spotify.com/artist/3of4z5k152Et4C0IQ7HUAg"
-        }
-      ],
-      "duration_ms": 182906,
-      "name": "DANDELION",
-      "url": "https://open.spotify.com/track/5erdZRi65gQvc4m7znELQp"
-    },
-    {
-      "added_at": "2022-09-05 15:42:28",
-      "album": {
         "name": "To the other side of greed",
         "url": "https://open.spotify.com/album/3BIiz6Akrive4laESm0Eip"
       },
@@ -815,6 +799,38 @@
     {
       "added_at": "2022-09-05 15:42:28",
       "album": {
+        "name": "Now On, Showtime! (Original Television Soundtrack) - 'DANDELION'",
+        "url": "https://open.spotify.com/album/0p6LcAuJfbKxZaPpsgUlF9"
+      },
+      "artists": [
+        {
+          "name": "Zitten",
+          "url": "https://open.spotify.com/artist/3of4z5k152Et4C0IQ7HUAg"
+        }
+      ],
+      "duration_ms": 182906,
+      "name": "DANDELION",
+      "url": "https://open.spotify.com/track/5erdZRi65gQvc4m7znELQp"
+    },
+    {
+      "added_at": "2022-09-05 15:42:28",
+      "album": {
+        "name": "Gently, By Your Side",
+        "url": "https://open.spotify.com/album/2EThyE3VDQbA0LkMgyVoqI"
+      },
+      "artists": [
+        {
+          "name": "Siwa",
+          "url": "https://open.spotify.com/artist/65h2inEcodauMEbyfodXdM"
+        }
+      ],
+      "duration_ms": 178373,
+      "name": "Gently, By Your Side",
+      "url": "https://open.spotify.com/track/50tE4kVgb6E6StIU8aXIiZ"
+    },
+    {
+      "added_at": "2022-09-05 15:42:28",
+      "album": {
         "name": "Asteroid",
         "url": "https://open.spotify.com/album/5geu7QO5MtvQHbN8ohLjNj"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 210840,
       "name": "To My Friend",
       "url": "https://open.spotify.com/track/3v7xLuhQtnm74cJBASJ9eZ"
-    },
-    {
-      "added_at": "2022-09-05 15:42:28",
-      "album": {
-        "name": "Star",
-        "url": "https://open.spotify.com/album/2ZEpVzbFGcMGBXuYRdYVE7"
-      },
-      "artists": [
-        {
-          "name": "Paul Kim",
-          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
-        }
-      ],
-      "duration_ms": 245870,
-      "name": "Something Special",
-      "url": "https://open.spotify.com/track/0Y7AaeEqV9copcxaq1VEja"
     }
   ],
   "unique_name": "\ud3ec\uadfc \ud3b8\uc548 \ud3ed\uc2e0",

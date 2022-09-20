@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXal36n8FZoQm.md) - [plain]
 
 > The official playlist for Cobra Kai\. Watch on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,020 likes - 138 songs - 8 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,179 likes - 143 songs - 8 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -146,5 +146,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXal36n8FZoQm.md) - [plain]
 | 136 | [Wooly Bully](https://open.spotify.com/track/4GNmvOYZW11lGzcZm0FKGY) | [Sam The Sham & The Pharaohs](https://open.spotify.com/artist/05sRO4JdAtJGyZQOTb6kSL) | [Wooly Bully](https://open.spotify.com/album/43ohvLotIrT1cprKaXYMn8) | 2:21 |
 | 137 | [Awake the Snake](https://open.spotify.com/track/5kiMm4Xc8q6aOVfph937J3) | [Leo Birenberg & Zach Robinson](https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp) | [Cobra Kai: Season 1 \(Soundtrack from the Original Series\)](https://open.spotify.com/album/0TkfHTK2sSV4CxrQWqBrNF) | 2:06 |
 | 138 | [Rock 'N' Roll Over You](https://open.spotify.com/track/24ttxzDgbZoMHHSyhhSTOP) | [The Moody Blues](https://open.spotify.com/artist/5BcZ22XONcRoLhTbZRuME1) | [The Other Side Of Life](https://open.spotify.com/album/5dY18oz4mvg4ouRMz7oZTm) | 4:49 |
+| 139 | [The Tree Will Survive](https://open.spotify.com/track/2iRwfxTNwwdaxct7ZiKyEq) | [Leo Birenberg & Zach Robinson](https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp) | [Cobra Kai: Season 5, Vol 2 \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/2dmsENyZefO9B1CRhRPci1) | 2:28 |
+| 140 | [The Fifth Battle of Kawanakajima](https://open.spotify.com/track/1r4j2giTbbVtvoNWwlf9U0) | [Leo Birenberg & Zach Robinson](https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp) | [Cobra Kai: Season 5, Vol 2 \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/2dmsENyZefO9B1CRhRPci1) | 5:10 |
+| 141 | [Sworn Enemies](https://open.spotify.com/track/5wEchT3RGkxMMsgyfhWBjc) | [Leo Birenberg & Zach Robinson](https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp) | [Cobra Kai: Season 5, Vol 1 \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/4i0ZzMWF8i4GgyhQlVgml1) | 3:12 |
+| 142 | [All of Us](https://open.spotify.com/track/26RRShwHcBtzAmSWKhQfJO) | [Leo Birenberg & Zach Robinson](https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp) | [Cobra Kai: Season 5, Vol 1 \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/4i0ZzMWF8i4GgyhQlVgml1) | 2:11 |
+| 143 | [The Eagle and the Lion](https://open.spotify.com/track/72FDfor2MIk4PfXCsupKp3) | [Leo Birenberg & Zach Robinson](https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp) | [Cobra Kai: Season 5, Vol 1 \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/4i0ZzMWF8i4GgyhQlVgml1) | 1:30 |
 
-Snapshot ID: `MTY2MjcyODMwNSwwMDAwMDAwMDUwNmI0YTJjNGRiODZmYjM0MWIxNGM0YzQ3NmJlOTgw`
+Snapshot ID: `MTY2MzYxNDIxNiwwMDAwMDAwMGNiNzc5YmJhYjFlYTViNDZkMDk0MTBjZTViNzhjMzM3`

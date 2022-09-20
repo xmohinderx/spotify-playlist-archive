@@ -80,6 +80,24 @@
     },
     {
       "album": {
+        "name": "Backseat",
+        "url": "https://open.spotify.com/album/7wEu93qQCQX4PaTwka6jvW"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210346,
+      "name": "Backseat",
+      "url": "https://open.spotify.com/track/4lQcddTT0dqUgRsiFux4bK"
+    },
+    {
+      "album": {
         "name": "New Found Glory",
         "url": "https://open.spotify.com/album/4lrBF0IWC9wZiF6btB68ua"
       },
@@ -368,6 +386,24 @@
     },
     {
       "album": {
+        "name": "Sticks And Stones",
+        "url": "https://open.spotify.com/album/29rNv6X8yQsCMiIOqkHud8"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212560,
+      "name": "It's Been A Summer",
+      "url": "https://open.spotify.com/track/4HlCd3nabvTxmR2VDNUt05"
+    },
+    {
+      "album": {
         "name": "Coming Home",
         "url": "https://open.spotify.com/album/1rRe0RrLHXpYhOSQeiGgGK"
       },
@@ -581,7 +617,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-19",
+      "date_removed": null,
       "duration_ms": 121082,
       "name": "Nothing To Say",
       "url": "https://open.spotify.com/track/2pLu37xnqwG8j2oZg86O8M"
@@ -635,7 +671,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-20",
       "duration_ms": 202725,
       "name": "Ready and Willing",
       "url": "https://open.spotify.com/track/7gTzs8ZOry1BSr2aDoMdv4"
@@ -689,7 +725,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-20",
       "duration_ms": 160266,
       "name": "Something I Call Personality",
       "url": "https://open.spotify.com/track/3hr00EQjDABNtQ1XG0sZIW"
@@ -743,7 +779,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-20",
       "duration_ms": 177461,
       "name": "Summer Fling, Don't Mean a Thing",
       "url": "https://open.spotify.com/track/3SJ0UM1ZZQrFeuGYFKSqvq"

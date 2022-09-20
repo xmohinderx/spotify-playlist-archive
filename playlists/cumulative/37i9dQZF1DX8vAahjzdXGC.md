@@ -4,7 +4,7 @@
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: BLACKPINK
 
-13,058 songs - 31 day 5 hr 36 min - [published](https://open.spotify.com/playlist/2dNoJSPuB6EBDvdy37ddCM)
+13,059 songs - 31 day 5 hr 39 min - [published](https://open.spotify.com/playlist/2dNoJSPuB6EBDvdy37ddCM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2874,7 +2874,7 @@
 | [Dizzy](https://open.spotify.com/track/2vB3u3aqSPeH51SSUuNbOh) | [SHAED](https://open.spotify.com/artist/3KwmxIhSe9UTSEF37kwngR) | [Dizzy](https://open.spotify.com/album/6xtaio0Ol0lIHaiOSSvz0m) | 2:40 | 2021-04-30 | 2021-05-07 |
 | [DIZZY](https://open.spotify.com/track/5c0WB921PDc4s4EpthSDJo) | [THE BLSSM](https://open.spotify.com/artist/7lq7hz0Z6rG6v9zbJRRn4K) | [DIZZY](https://open.spotify.com/album/7lFMvbDwtUZhLhVJyUu8tB) | 3:19 | 2022-02-17 | 2022-02-25 |
 | [Djogja](https://open.spotify.com/track/2hHHdJXq2BDbSPXfrQlghV) | [Amorisa](https://open.spotify.com/artist/1XLZHG9a0opr6Z8lheocs3) | [Djogja](https://open.spotify.com/album/3CnfcYJhHFSStywWnldXPu) | 4:01 | 2022-06-02 | 2022-06-10 |
-| [dlma </3 \(feat\. LANY\)](https://open.spotify.com/track/4AnRQ0B1t4terWHDI98WNi) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl), [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Infinite Dream](https://open.spotify.com/album/7CY2Iv5eX7eGAOdRNHfIBr) | 3:05 | 2022-09-15 |  |
+| [dlma </3 \(feat\. LANY\)](https://open.spotify.com/track/4AnRQ0B1t4terWHDI98WNi) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl), [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Infinite Dream](https://open.spotify.com/album/7CY2Iv5eX7eGAOdRNHfIBr) | 3:06 | 2022-09-15 |  |
 | [DM](https://open.spotify.com/track/7B9W7Qsy5M2kyUNjQYIEG8) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Midnight Guest](https://open.spotify.com/album/2WT1URsANJa9zhPsqzspMR) | 3:24 | 2022-01-20 | 2022-01-28 |
 | [DNA](https://open.spotify.com/track/0DfQV2Ri0l83o7Nbzm45vQ) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [DNA](https://open.spotify.com/album/5NRiyd9eDLOnS6PuhlV5iO) | 2:57 | 2022-07-28 | 2022-08-05 |
 | [DNA](https://open.spotify.com/track/1ZIf0d4uqYbHAWWaHs31Rr) | [PANTHEPACK](https://open.spotify.com/artist/3mtw7Fkg8wdXJdub6ZIkJb) | [DNA](https://open.spotify.com/album/5HWBCfbNx4u7vgkBNmDkqa) | 2:50 | 2021-04-23 | 2021-04-30 |
@@ -10100,7 +10100,8 @@
 | [Shuckleford Song](https://open.spotify.com/track/6HtjBmjWshqshbbuEMBWtS) | [NoizeKilla](https://open.spotify.com/artist/5Bld48A2HVtsqeEoSjjVTJ) | [Shuckleford Song](https://open.spotify.com/album/5WjO2sS3rp5Rm7raOE8Xes) | 5:14 | 2022-02-17 | 2022-02-25 |
 | [Shush](https://open.spotify.com/track/4luBzeVj6bAdDYYKgEcATN) | [Rahmania Astrini](https://open.spotify.com/artist/0e5blBgpur3Y18wS1bzXQC) | [Shush](https://open.spotify.com/album/5Q3ju7ogNb8Ar9mBb4L2d9) | 4:24 | 2020-11-20 | 2020-11-27 |
 | [Shush \(The Only One\) \[feat\. Conor Matthews\]](https://open.spotify.com/track/3lkIXV59MrodVwSpeBk3tG) | [Rahmania Astrini](https://open.spotify.com/artist/0e5blBgpur3Y18wS1bzXQC), [Conor Matthews](https://open.spotify.com/artist/5iWU68xnsNiacwbt1fYEcq) | [Shush \(The Only One\) \[feat\. Conor Matthews\]](https://open.spotify.com/album/2WZKxnNubmlqGE1rEn0HDm) | 4:13 | 2021-04-16 | 2021-04-23 |
-| [Shut Down](https://open.spotify.com/track/0ARKW62l9uWIDYMZTUmJHF) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P) | 2:55 | 2022-09-16 |  |
+| [Shut Down](https://open.spotify.com/track/0ARKW62l9uWIDYMZTUmJHF) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P) | 2:55 | 2022-09-16 | 2022-09-20 |
+| [Shut Down](https://open.spotify.com/track/7gRFDGEzF9UkBV233yv2dc) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM) | 2:55 | 2022-09-16 |  |
 | [Shut Off The Lights](https://open.spotify.com/track/6Au9UDzjeGFen7qMEDKju7) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Shut Off The Lights](https://open.spotify.com/album/3tCwAtRvtyPDYQnKPXnJD7) | 3:07 | 2022-01-13 | 2022-01-21 |
 | [Shy Away](https://open.spotify.com/track/2z0IupRlVRlDN5r2IVqHyN) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Shy Away](https://open.spotify.com/album/4JFHfIYCtka66G0izGrJhz) | 2:55 | 2021-04-09 | 2021-04-16 |
 | [Si Lemah](https://open.spotify.com/track/4TPIAnmVnouoZuwB6blHWl) | [RAN](https://open.spotify.com/artist/5DSVjHy2YWufmRUHBM3PLX), [Hindia](https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12) | [Si Lemah](https://open.spotify.com/album/2xPOY2sm6udUyaGh0PiSDK) | 4:14 | 2020-04-24 | 2020-05-01 |

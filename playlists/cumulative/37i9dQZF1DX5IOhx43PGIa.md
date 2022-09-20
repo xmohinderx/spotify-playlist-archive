@@ -4,7 +4,7 @@
 
 > Illuminating Asian artists everywhere\. Cover: NIKI.
 
-284 songs - 14 hr 51 min - [published](https://open.spotify.com/playlist/5NyuBYmYOJuxQT3ZVKo7pG)
+285 songs - 14 hr 54 min - [published](https://open.spotify.com/playlist/5NyuBYmYOJuxQT3ZVKo7pG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [chances](https://open.spotify.com/track/3PPD1wg591kQnsws16mlkS) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [DCMBR](https://open.spotify.com/artist/6sjYoprgk0hVjBA77kIXUr) | [i hope u see this](https://open.spotify.com/album/2nYJj90btoAVA4UE0GWz8P) | 2:47 | 2022-05-27 |  |
 | [changes](https://open.spotify.com/track/3fuaISGMWzSNjkcdeUJUb9) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [a liquid breakfast DELUXE](https://open.spotify.com/album/6LDit3vNb3nWRCNza4IfHj) | 2:04 | 2022-05-27 |  |
 | [Circles](https://open.spotify.com/track/3oRFASmKBxhLj1vlsyCJ3m) | [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg) | [Circles](https://open.spotify.com/album/7Mrf0iOJdb2suGyWSCq96u) | 3:37 | 2022-05-27 | 2022-07-06 |
-| [CLOUDS](https://open.spotify.com/track/43HB7iatxULhCqqIu7ouQT) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) | [CLOUDS](https://open.spotify.com/album/20oky0BNN8ohXkjRUL216l) | 2:58 | 2022-05-27 | 2022-09-19 |
+| [CLOUDS](https://open.spotify.com/track/43HB7iatxULhCqqIu7ouQT) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) | [CLOUDS](https://open.spotify.com/album/20oky0BNN8ohXkjRUL216l) | 2:58 | 2022-05-27 |  |
 | [Coffee Excess feat\. Orono \(Superorganism\) & Lennon](https://open.spotify.com/track/66lOGYNWhKurI1s4izrkdw) | [mabanua](https://open.spotify.com/artist/1lBnm3edbDJ7KbWSHzSGQP), [Orono](https://open.spotify.com/artist/0CqXZXwwLrqnlXqHrVm8ux), [Lennon](https://open.spotify.com/artist/3nPGCD8cnUmkXAmoQx2DbO) | [Coffee Excess feat\. Orono \(Superorganism\) & Lennon](https://open.spotify.com/album/1sdMAIlIq8yc3pU8eixDI1) | 2:14 | 2022-05-27 | 2022-07-29 |
 | [Cold Summer](https://open.spotify.com/track/0njTgAO37O9EWgSwbGAlym) | [Taebz](https://open.spotify.com/artist/5L6UHAq53G5zTorqTxO9Pk), [imugi 이무기](https://open.spotify.com/artist/2rQUmy9WBe1uoPy8y3Wsy8) | [Cold Summer](https://open.spotify.com/album/6SJRBZoVNsiaeVfuozUOZ6) | 2:50 | 2022-05-27 | 2022-07-29 |
 | [cold these days](https://open.spotify.com/track/2DuEsvRGpecluVnVcTYSlo) | [lewloh](https://open.spotify.com/artist/31TM5zBknJ7ZInbxnR0rlX) | [cold these days](https://open.spotify.com/album/4dDsxyUy0txDeucJuGb5aD) | 2:39 | 2022-05-27 | 2022-07-29 |
@@ -201,7 +201,8 @@
 | [people i love \(hurt me\)](https://open.spotify.com/track/2GqbmGCGPEpkM0x2QAwhsh) | [SHN](https://open.spotify.com/artist/5EovY4LBurcmsfIdpNEtfq) | [people i love \(hurt me\)](https://open.spotify.com/album/02UqfJY6ZbmmSzoSdHRRRq) | 2:44 | 2022-05-27 | 2022-07-29 |
 | [Picture Myself](https://open.spotify.com/track/3QWIMcT8jEbBaGAXZDRmel) | [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO) | [Picture Myself](https://open.spotify.com/album/6LHKYRQ0aTADgfgZErmYjT) | 3:31 | 2022-05-27 |  |
 | [pieces](https://open.spotify.com/track/1EJLqTbCBWrXIZsWoJ9XPy) | [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O) | [pieces](https://open.spotify.com/album/00wsSw2OSFR2jpJLQEiQPr) | 2:24 | 2022-05-27 | 2022-08-27 |
-| [Pink Venom](https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [Pink Venom](https://open.spotify.com/album/3dZBZnDa3z20uEVnxR38M1) | 3:06 | 2022-08-19 |  |
+| [Pink Venom](https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [Pink Venom](https://open.spotify.com/album/3dZBZnDa3z20uEVnxR38M1) | 3:06 | 2022-08-19 | 2022-09-20 |
+| [Pink Venom](https://open.spotify.com/track/5zwwW9Oq7ubSxoCGyW1nbY) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM) | 3:06 | 2022-09-16 |  |
 | [playing tricks](https://open.spotify.com/track/6zaayoVlfFp5YmQArKWkRG) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [playing tricks](https://open.spotify.com/album/2qHP34bvPUluFtdG8QRywz) | 3:04 | 2022-08-19 |  |
 | [PLAYTHING](https://open.spotify.com/track/3dvo22rex4PuOkdqsDlP39) | [Pussy Riot](https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5), [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe) | [PLAYTHING](https://open.spotify.com/album/35djQXPgBXiH8rNC8Kh1Hy) | 2:47 | 2022-09-02 |  |
 | [Please Baby Please](https://open.spotify.com/track/06V3aHH7fDSqHQMQhGPoBD) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Please Baby Please](https://open.spotify.com/album/0RLuLmUup2sbIVKwMfKpVx) | 3:31 | 2022-05-27 | 2022-08-13 |
@@ -265,7 +266,7 @@
 | [TOUCH](https://open.spotify.com/track/7mZ19pGoinaWwanIDq0JTY) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [TOUCH](https://open.spotify.com/album/58QltYKAAcCgYSoyzDsCP7) | 3:25 | 2022-05-27 | 2022-07-29 |
 | [trust \(feat\. RINI\)](https://open.spotify.com/track/6GJv5FTWGHWgl4uPdpc6O2) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3) | [trust \(feat\. RINI\)](https://open.spotify.com/album/2p01yIsIKueoaEQ8SKG7Bh) | 3:17 | 2022-07-08 |  |
 | [Tweety](https://open.spotify.com/track/2NDMLu8ZNrAsAsPAoW5VOx) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Tweety](https://open.spotify.com/album/275j6uhDFzJkQZEaRcZZ0T) | 3:52 | 2022-05-27 | 2022-08-27 |
-| [Uncomfortable](https://open.spotify.com/track/0JDLR0RGTSw0KDkn6r4oEz) | [YDE](https://open.spotify.com/artist/1evuFyLdwoIOIrYxMUfnWW) | [SEND HELP](https://open.spotify.com/album/7pcDzQ0QM54XXOqZf6BmSt) | 2:54 | 2022-09-16 |  |
+| [Uncomfortable](https://open.spotify.com/track/0JDLR0RGTSw0KDkn6r4oEz) | [YDE](https://open.spotify.com/artist/1evuFyLdwoIOIrYxMUfnWW) | [SEND HELP](https://open.spotify.com/album/7pcDzQ0QM54XXOqZf6BmSt) | 2:54 | 2022-09-16 | 2022-09-20 |
 | [universe \(DTB Remix\) \- Spotify Singles](https://open.spotify.com/track/3VgbUDt8Vz6RwcRRzjJ3xB) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Spotify Singles](https://open.spotify.com/album/4UNBwrJ55qL75iEqepbIOR) | 3:01 | 2022-05-27 | 2022-08-22 |
 | [Waiting For Love](https://open.spotify.com/track/0LtlhQCJl4un9g0rwmIz9x) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [neverwaves](https://open.spotify.com/artist/2js39lyEUjoD0x3VxshU5o) | [Waiting For Love](https://open.spotify.com/album/6CHRqmshlcoCfUTqck1IUB) | 4:22 | 2022-06-03 |  |
 | [Waiting For You](https://open.spotify.com/track/3tcyNOKOBzLWr45Sg5gi8R) | [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [Waiting For You](https://open.spotify.com/album/0dCKftLBkpep9tF6v91uUD) | 3:34 | 2022-05-27 |  |

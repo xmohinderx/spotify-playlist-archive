@@ -4,7 +4,7 @@
 
 > Good vibes for good times!
 
-90 songs - 5 hr 28 min - [published](https://open.spotify.com/playlist/5mjM1Y8WNUCGGkDhXj1uoY)
+91 songs - 5 hr 32 min - [published](https://open.spotify.com/playlist/5mjM1Y8WNUCGGkDhXj1uoY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [If Tomorrow Never Comes](https://open.spotify.com/track/22ZZBq0OsmYAaKv7seN9Gz) | [Swiss](https://open.spotify.com/artist/3iRQU5nfA9uLRPgmXXhbCy), [Etana](https://open.spotify.com/artist/6oF8gXhgD5ZTQ0biyaw4Cm) | [Lucky Man](https://open.spotify.com/album/3t4ZMKrNUIwsuLoe46XBqh) | 3:50 | 2021-08-24 |  |
 | [Iko Iko](https://open.spotify.com/track/4qlBvxOwFy6og73eik75Ro) | [Justin Wellington](https://open.spotify.com/artist/5lTjv8Ag00qHSGhvK4JbeF), [Small Jam](https://open.spotify.com/artist/6c8akjSeJQw2NYemV6qVT8) | [Iko Iko](https://open.spotify.com/album/4XPwYCtmyrjrA83g0ClH9H) | 3:02 | 2021-08-24 | 2022-07-29 |
 | [Iko Iko \(My Bestie\)](https://open.spotify.com/track/7MC4XR9M9amdmKQr2iDF7i) | [Justin Wellington](https://open.spotify.com/artist/5lTjv8Ag00qHSGhvK4JbeF), [Small Jam](https://open.spotify.com/artist/6c8akjSeJQw2NYemV6qVT8) | [Iko Iko \(My Bestie\)](https://open.spotify.com/album/0IVeq4oFSUAAXmdQqXFTrU) | 3:02 | 2022-06-09 |  |
-| [In the Air](https://open.spotify.com/track/5v7h5vQgCJKZT5vB3I9s3o) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B III](https://open.spotify.com/album/5FkhVnR6DLz7ARqioHUwpc) | 4:12 | 2021-08-24 |  |
+| [In the Air](https://open.spotify.com/track/5v7h5vQgCJKZT5vB3I9s3o) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B III](https://open.spotify.com/album/5FkhVnR6DLz7ARqioHUwpc) | 4:12 | 2021-08-24 | 2022-09-20 |
+| [In the Air](https://open.spotify.com/track/6r88rMGtfNgC0SJEytTA7c) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B III](https://open.spotify.com/album/6S2Wk7gzCsJzfArpNgPbHh) | 4:12 | 2022-08-07 |  |
 | [Is This Love](https://open.spotify.com/track/2sevvnMrqH607r5lwk3kFT) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Legend \- The Best Of Bob Marley And The Wailers](https://open.spotify.com/album/4jKeipwuUTjlx9USNYdhZn) | 3:50 | 2021-08-24 |  |
 | [Island Girl](https://open.spotify.com/track/6Mkftw4IhDly1y4temAjAJ) | [DJ Noiz](https://open.spotify.com/artist/0ZVAv3drBuIRSc88ATH6UK), [JAHBOY](https://open.spotify.com/artist/1Y2oDvzU0n9fALfGLYx6Mt) | [Island Girl](https://open.spotify.com/album/23ka5UY59ulYRPxhdey8Im) | 3:21 | 2021-08-24 |  |
 | [It's You \(feat\. Three Houses Down\)](https://open.spotify.com/track/1FyKp56vQSgm98NBdvs1fA) | [General Fiyah](https://open.spotify.com/artist/4dnsfuI3oozEl16wEcsPc8), [Three Houses Down](https://open.spotify.com/artist/0qWNlZpLfAYDbEVEHAAllv) | [It's You \(feat\. Three Houses Down\)](https://open.spotify.com/album/66oMqt96CJRCKQl3RpyTO1) | 3:19 | 2021-08-24 |  |

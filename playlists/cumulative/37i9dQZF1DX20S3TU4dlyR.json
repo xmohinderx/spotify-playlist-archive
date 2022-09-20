@@ -700,6 +700,28 @@
     },
     {
       "album": {
+        "name": "Desenvaina",
+        "url": "https://open.spotify.com/album/5PENxTBkBfb8mdYD6WmilY"
+      },
+      "artists": [
+        {
+          "name": "MAMA GAIA",
+          "url": "https://open.spotify.com/artist/5uvIzs93CiewRg46Q9VpCx"
+        },
+        {
+          "name": "Alika",
+          "url": "https://open.spotify.com/artist/0w32WixD69mKW0O6bYwRCt"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182471,
+      "name": "Desenvaina",
+      "url": "https://open.spotify.com/track/2ZS1fTBq23a0DV25OEoXuE"
+    },
+    {
+      "album": {
         "name": "Desinformation",
         "url": "https://open.spotify.com/album/1K0WhObVbaoWr0JP4qzv5J"
       },
@@ -1559,7 +1581,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-20",
       "duration_ms": 283400,
       "name": "La Clave",
       "url": "https://open.spotify.com/track/7CkVCRgoZWPt2v1WXRV7rs"
@@ -1715,6 +1737,28 @@
       "duration_ms": 245461,
       "name": "La Planta de Ganja",
       "url": "https://open.spotify.com/track/5HU5cVeCgpmvFDoN4jcSFE"
+    },
+    {
+      "album": {
+        "name": "La Tierra del Desencanto",
+        "url": "https://open.spotify.com/album/76rP6tPR6Jo8gjodM4teJn"
+      },
+      "artists": [
+        {
+          "name": "BlackDali",
+          "url": "https://open.spotify.com/artist/6fQBCAmdaMg4d9WYOMW58B"
+        },
+        {
+          "name": "Nonpalidece",
+          "url": "https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249542,
+      "name": "La Tierra del Desencanto",
+      "url": "https://open.spotify.com/track/2ySXNfWahYbD6Y2s33watc"
     },
     {
       "album": {
@@ -3493,7 +3537,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-20",
       "duration_ms": 253170,
       "name": "Va Salir",
       "url": "https://open.spotify.com/track/7FF4TyQSAvpukqX66mTGu0"

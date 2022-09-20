@@ -1,12 +1,12 @@
 {
   "description": "A relaxing evening with a smooth glass never sounded so good. Hit play and let the room fill with some of the classics.",
-  "num_followers": 118555,
+  "num_followers": 118672,
   "original_name": "Blues on the Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzAwMDgwOSwwMDAwMDAwMDQyYWNlZjE1OTRhN2E4ZjcyYmMyZTY5MmRmMzVmNTll",
+  "snapshot_id": "MTY2MzAwMDgwOSwwMDAwMDAwMDQwY2Q2ZWMyMjYzYjczMDI0NjE0MGU4ZmM1ZTBkY2E5",
   "tracks": [
     {
       "added_at": "2022-09-12 16:40:09",
@@ -251,22 +251,6 @@
     {
       "added_at": "2022-09-12 16:40:09",
       "album": {
-        "name": "Blacksnake Blues",
-        "url": "https://open.spotify.com/album/0x9kL2LgGGnwUVm6ZesWCz"
-      },
-      "artists": [
-        {
-          "name": "All Them Witches",
-          "url": "https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65"
-        }
-      ],
-      "duration_ms": 674000,
-      "name": "Blacksnake Blues",
-      "url": "https://open.spotify.com/track/6FttMYQiHyM0lVZafG3eXO"
-    },
-    {
-      "added_at": "2022-09-12 16:40:09",
-      "album": {
         "name": "Heavy Load Blues",
         "url": "https://open.spotify.com/album/4RZFJXFYLHs9VhATqZ2nan"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 401040,
       "name": "Make It Rain",
       "url": "https://open.spotify.com/track/4FLsABaj5iQbOfp7akXEn5"
+    },
+    {
+      "added_at": "2022-09-12 16:40:09",
+      "album": {
+        "name": "Blacksnake Blues",
+        "url": "https://open.spotify.com/album/0x9kL2LgGGnwUVm6ZesWCz"
+      },
+      "artists": [
+        {
+          "name": "All Them Witches",
+          "url": "https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65"
+        }
+      ],
+      "duration_ms": 674000,
+      "name": "Blacksnake Blues",
+      "url": "https://open.spotify.com/track/6FttMYQiHyM0lVZafG3eXO"
     },
     {
       "added_at": "2022-09-12 16:40:09",
@@ -671,6 +671,22 @@
     {
       "added_at": "2022-09-12 16:40:09",
       "album": {
+        "name": "Hoodoo (Commentary Version)",
+        "url": "https://open.spotify.com/album/2o8wETexTC7MB0MON0oVWN"
+      },
+      "artists": [
+        {
+          "name": "Tony Joe White",
+          "url": "https://open.spotify.com/artist/6QvgWa4x3Ij4tvBpFMo11P"
+        }
+      ],
+      "duration_ms": 268946,
+      "name": "Who You Gonna Hoodoo Now?",
+      "url": "https://open.spotify.com/track/0ezAYtCKGYWVAtSr1xZGVe"
+    },
+    {
+      "added_at": "2022-09-12 16:40:09",
+      "album": {
         "name": "His Best: The Electric B.B. King (Expanded Edition)",
         "url": "https://open.spotify.com/album/5mdl9vCNEXZl1EbRdHMRW4"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 625293,
       "name": "Blues In \"A\"",
       "url": "https://open.spotify.com/track/6qXGPlkW4paWUiKUai43Mj"
-    },
-    {
-      "added_at": "2022-09-12 16:40:09",
-      "album": {
-        "name": "Hoodoo (Commentary Version)",
-        "url": "https://open.spotify.com/album/2o8wETexTC7MB0MON0oVWN"
-      },
-      "artists": [
-        {
-          "name": "Tony Joe White",
-          "url": "https://open.spotify.com/artist/6QvgWa4x3Ij4tvBpFMo11P"
-        }
-      ],
-      "duration_ms": 268946,
-      "name": "Who You Gonna Hoodoo Now?",
-      "url": "https://open.spotify.com/track/0ezAYtCKGYWVAtSr1xZGVe"
     },
     {
       "added_at": "2022-09-12 16:40:09",

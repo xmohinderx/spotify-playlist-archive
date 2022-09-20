@@ -1,12 +1,12 @@
 {
   "description": "Breathe deep, and relax with the softer side of Christian music.",
-  "num_followers": 250316,
+  "num_followers": 250465,
   "original_name": "Calming Christian",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNTY0NDEyNiwwMDAwMDAwMDk3YTE5YTU3ZjBjYmE4M2YzN2JiMzA3ZjU1OGVmMGVj",
+  "snapshot_id": "MTYzNTY0NDEyNiwwMDAwMDAwMDk1YWRhZGVlNjdkNWE2ZWViN2E1NmEwMTRhNzQ1YzJj",
   "tracks": [
     {
       "added_at": "2021-10-31 01:35:26",
@@ -131,18 +131,18 @@
     {
       "added_at": "2021-10-31 01:35:26",
       "album": {
-        "name": "Same God",
-        "url": "https://open.spotify.com/album/294x9L2GHOfyL9k0Ufo1qh"
+        "name": "Wings",
+        "url": "https://open.spotify.com/album/6aAPVuhruUUOmdW4VXsT7t"
       },
       "artists": [
         {
-          "name": "Hannah Kerr",
-          "url": "https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq"
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
         }
       ],
-      "duration_ms": 229480,
-      "name": "Same God",
-      "url": "https://open.spotify.com/track/3kHh1th3S2di1tg5XoZTzU"
+      "duration_ms": 168000,
+      "name": "Wings",
+      "url": "https://open.spotify.com/track/3JnSE5L6NV0W22ZcSJLrBs"
     },
     {
       "added_at": "2021-10-31 01:35:26",
@@ -163,18 +163,22 @@
     {
       "added_at": "2021-10-31 01:35:26",
       "album": {
-        "name": "Wings",
-        "url": "https://open.spotify.com/album/6aAPVuhruUUOmdW4VXsT7t"
+        "name": "Yahweh Elyon",
+        "url": "https://open.spotify.com/album/3AHSvulyhaQ2SBwd2CRKpN"
       },
       "artists": [
         {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+          "name": "Tekoa",
+          "url": "https://open.spotify.com/artist/7Fqu2gBrthnYE53IGOltaI"
+        },
+        {
+          "name": "Nathan Staggers",
+          "url": "https://open.spotify.com/artist/0NPx3nSANBI85VKkLPmiMm"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Wings",
-      "url": "https://open.spotify.com/track/3JnSE5L6NV0W22ZcSJLrBs"
+      "duration_ms": 194753,
+      "name": "Yahweh Elyon",
+      "url": "https://open.spotify.com/track/1b148Civ2D3kkfkf2Q5vx2"
     },
     {
       "added_at": "2021-10-31 01:35:26",
@@ -195,22 +199,18 @@
     {
       "added_at": "2021-10-31 01:35:26",
       "album": {
-        "name": "Yahweh Elyon",
-        "url": "https://open.spotify.com/album/3AHSvulyhaQ2SBwd2CRKpN"
+        "name": "Same God",
+        "url": "https://open.spotify.com/album/294x9L2GHOfyL9k0Ufo1qh"
       },
       "artists": [
         {
-          "name": "Tekoa",
-          "url": "https://open.spotify.com/artist/7Fqu2gBrthnYE53IGOltaI"
-        },
-        {
-          "name": "Nathan Staggers",
-          "url": "https://open.spotify.com/artist/0NPx3nSANBI85VKkLPmiMm"
+          "name": "Hannah Kerr",
+          "url": "https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq"
         }
       ],
-      "duration_ms": 194753,
-      "name": "Yahweh Elyon",
-      "url": "https://open.spotify.com/track/1b148Civ2D3kkfkf2Q5vx2"
+      "duration_ms": 229480,
+      "name": "Same God",
+      "url": "https://open.spotify.com/track/3kHh1th3S2di1tg5XoZTzU"
     },
     {
       "added_at": "2021-10-31 01:35:26",
@@ -819,6 +819,26 @@
     {
       "added_at": "2021-10-31 01:35:26",
       "album": {
+        "name": "Rest On Us",
+        "url": "https://open.spotify.com/album/6CMg5UAglJqxvtWakN3YcF"
+      },
+      "artists": [
+        {
+          "name": "Ben Potter",
+          "url": "https://open.spotify.com/artist/7MgoxvbWh0Svv2Yqt0V2iX"
+        },
+        {
+          "name": "Eric Gilmour",
+          "url": "https://open.spotify.com/artist/6fVjCsKdS30DoRnMfOlG4j"
+        }
+      ],
+      "duration_ms": 209739,
+      "name": "Rest On Us",
+      "url": "https://open.spotify.com/track/4NPEyG5EK6PwJCBNr9phnE"
+    },
+    {
+      "added_at": "2021-10-31 01:35:26",
+      "album": {
         "name": "Learning to Let You Go",
         "url": "https://open.spotify.com/album/4M7526VytrMjd32RxtGJXy"
       },
@@ -847,26 +867,6 @@
       "duration_ms": 170119,
       "name": "Sunrise",
       "url": "https://open.spotify.com/track/1U9teJ7N3lMrDzued877qU"
-    },
-    {
-      "added_at": "2021-10-31 01:35:26",
-      "album": {
-        "name": "Rest On Us",
-        "url": "https://open.spotify.com/album/6CMg5UAglJqxvtWakN3YcF"
-      },
-      "artists": [
-        {
-          "name": "Ben Potter",
-          "url": "https://open.spotify.com/artist/7MgoxvbWh0Svv2Yqt0V2iX"
-        },
-        {
-          "name": "Eric Gilmour",
-          "url": "https://open.spotify.com/artist/6fVjCsKdS30DoRnMfOlG4j"
-        }
-      ],
-      "duration_ms": 209739,
-      "name": "Rest On Us",
-      "url": "https://open.spotify.com/track/4NPEyG5EK6PwJCBNr9phnE"
     },
     {
       "added_at": "2021-10-31 01:35:26",
@@ -959,22 +959,6 @@
     {
       "added_at": "2021-10-31 01:35:26",
       "album": {
-        "name": "Graves Into Gardens (Acoustic)",
-        "url": "https://open.spotify.com/album/2lgBs5Jkwh9k8LvRxCaNmF"
-      },
-      "artists": [
-        {
-          "name": "Will Morrison",
-          "url": "https://open.spotify.com/artist/34VjmhQP0q93vBQ8eganjB"
-        }
-      ],
-      "duration_ms": 278035,
-      "name": "Graves Into Gardens - Acoustic",
-      "url": "https://open.spotify.com/track/0yMTBqAAAtjNtCkphns47E"
-    },
-    {
-      "added_at": "2021-10-31 01:35:26",
-      "album": {
         "name": "Be Thou My Vision",
         "url": "https://open.spotify.com/album/1dpxwkXjH3SkFEKoqG8NW7"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 216000,
       "name": "Be Thou My Vision",
       "url": "https://open.spotify.com/track/1ygyed6ppQD1GRSKw5Bm21"
+    },
+    {
+      "added_at": "2021-10-31 01:35:26",
+      "album": {
+        "name": "Graves Into Gardens (Acoustic)",
+        "url": "https://open.spotify.com/album/2lgBs5Jkwh9k8LvRxCaNmF"
+      },
+      "artists": [
+        {
+          "name": "Will Morrison",
+          "url": "https://open.spotify.com/artist/34VjmhQP0q93vBQ8eganjB"
+        }
+      ],
+      "duration_ms": 278035,
+      "name": "Graves Into Gardens - Acoustic",
+      "url": "https://open.spotify.com/track/0yMTBqAAAtjNtCkphns47E"
     },
     {
       "added_at": "2021-10-31 01:35:26",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2021-10-31 01:35:26",
       "album": {
-        "name": "So Well",
-        "url": "https://open.spotify.com/album/4fTsqC23xThgybhDfyjKry"
-      },
-      "artists": [
-        {
-          "name": "Caleb and Kelsey",
-          "url": "https://open.spotify.com/artist/7l0sphz32GV0AjjEhECpVg"
-        }
-      ],
-      "duration_ms": 289111,
-      "name": "So Well",
-      "url": "https://open.spotify.com/track/7H2oCmru9QL84hO04PIffN"
-    },
-    {
-      "added_at": "2021-10-31 01:35:26",
-      "album": {
         "name": "Now More Than Ever",
         "url": "https://open.spotify.com/album/6enJJMJXMoy92TQZvM8Bxf"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 280413,
       "name": "Take This",
       "url": "https://open.spotify.com/track/6B7rm411U4hSvIwRFSXwvq"
+    },
+    {
+      "added_at": "2021-10-31 01:35:26",
+      "album": {
+        "name": "So Well",
+        "url": "https://open.spotify.com/album/4fTsqC23xThgybhDfyjKry"
+      },
+      "artists": [
+        {
+          "name": "Caleb and Kelsey",
+          "url": "https://open.spotify.com/artist/7l0sphz32GV0AjjEhECpVg"
+        }
+      ],
+      "duration_ms": 289111,
+      "name": "So Well",
+      "url": "https://open.spotify.com/track/7H2oCmru9QL84hO04PIffN"
     },
     {
       "added_at": "2021-10-31 01:35:26",

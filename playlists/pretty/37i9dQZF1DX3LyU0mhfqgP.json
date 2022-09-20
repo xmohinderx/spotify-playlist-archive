@@ -1,12 +1,12 @@
 {
   "description": "The newest songs from LGBTQIA+ artists feat. cover girl Fletcher's fave picks at the top ",
-  "num_followers": 811836,
+  "num_followers": 811950,
   "original_name": "Out Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMDdlNTlmZDhmNjA1Y2ZiZGZhOTc3YmY0YzljOGIwMThk",
+  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMGFlODBlODIxYzFkYzE4ZWEwYTMyZWZjMWZiMDA1MzA4",
   "tracks": [
     {
       "added_at": "2022-09-09 19:33:47",
@@ -527,22 +527,6 @@
     {
       "added_at": "2022-09-09 19:33:47",
       "album": {
-        "name": "SUBSTANCE",
-        "url": "https://open.spotify.com/album/4gH2QdzpnQH1k3JXjnVVfX"
-      },
-      "artists": [
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "duration_ms": 160441,
-      "name": "SUBSTANCE",
-      "url": "https://open.spotify.com/track/5zuT7tF518cJcoOJI9VzDM"
-    },
-    {
-      "added_at": "2022-09-09 19:33:47",
-      "album": {
         "name": "LEIL\u00c3O",
         "url": "https://open.spotify.com/album/6yTozUPMJplNbIMrm1mlBL"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 210405,
       "name": "airplane thoughts",
       "url": "https://open.spotify.com/track/4t5joZkdlXlvzLXJbkgppJ"
+    },
+    {
+      "added_at": "2022-09-09 19:33:47",
+      "album": {
+        "name": "SUBSTANCE",
+        "url": "https://open.spotify.com/album/4gH2QdzpnQH1k3JXjnVVfX"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "duration_ms": 160441,
+      "name": "SUBSTANCE",
+      "url": "https://open.spotify.com/track/5zuT7tF518cJcoOJI9VzDM"
     },
     {
       "added_at": "2022-09-09 19:33:47",
@@ -735,22 +735,6 @@
     {
       "added_at": "2022-09-09 19:33:47",
       "album": {
-        "name": "I F*cking Love You",
-        "url": "https://open.spotify.com/album/2CslMUzH2LTc4rnAuATJCE"
-      },
-      "artists": [
-        {
-          "name": "Zolita",
-          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
-        }
-      ],
-      "duration_ms": 180266,
-      "name": "I F*cking Love You",
-      "url": "https://open.spotify.com/track/7lYjepjDeboEus0v2nSqu5"
-    },
-    {
-      "added_at": "2022-09-09 19:33:47",
-      "album": {
         "name": "God Is A Freak",
         "url": "https://open.spotify.com/album/1MNgeaQuHhr47jSmqQH47e"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 187229,
       "name": "God Is A Freak",
       "url": "https://open.spotify.com/track/4cqj8FIWkyR5A2XBtcqRMU"
+    },
+    {
+      "added_at": "2022-09-09 19:33:47",
+      "album": {
+        "name": "I F*cking Love You",
+        "url": "https://open.spotify.com/album/2CslMUzH2LTc4rnAuATJCE"
+      },
+      "artists": [
+        {
+          "name": "Zolita",
+          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
+        }
+      ],
+      "duration_ms": 180266,
+      "name": "I F*cking Love You",
+      "url": "https://open.spotify.com/track/7lYjepjDeboEus0v2nSqu5"
     },
     {
       "added_at": "2022-09-09 19:33:47",
@@ -867,18 +867,18 @@
     {
       "added_at": "2022-09-09 19:33:47",
       "album": {
-        "name": "Hold On Baby",
-        "url": "https://open.spotify.com/album/3Q998ztjKK3ybjToj0QL9c"
+        "name": "Leave It On The Dancefloor",
+        "url": "https://open.spotify.com/album/07Vt92F3DMX0GHMKSJ6A3o"
       },
       "artists": [
         {
-          "name": "King Princess",
-          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
+          "name": "Hope Tala",
+          "url": "https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e"
         }
       ],
-      "duration_ms": 233088,
-      "name": "Let Us Die",
-      "url": "https://open.spotify.com/track/5uDo40mspcWNHDCLlKTLoJ"
+      "duration_ms": 175016,
+      "name": "Leave It On The Dancefloor",
+      "url": "https://open.spotify.com/track/30ae9cv36eD4Q6Zc8PVF8v"
     },
     {
       "added_at": "2022-09-09 19:33:47",
@@ -899,18 +899,18 @@
     {
       "added_at": "2022-09-09 19:33:47",
       "album": {
-        "name": "Leave It On The Dancefloor",
-        "url": "https://open.spotify.com/album/07Vt92F3DMX0GHMKSJ6A3o"
+        "name": "Hold On Baby",
+        "url": "https://open.spotify.com/album/3Q998ztjKK3ybjToj0QL9c"
       },
       "artists": [
         {
-          "name": "Hope Tala",
-          "url": "https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e"
+          "name": "King Princess",
+          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
         }
       ],
-      "duration_ms": 175016,
-      "name": "Leave It On The Dancefloor",
-      "url": "https://open.spotify.com/track/30ae9cv36eD4Q6Zc8PVF8v"
+      "duration_ms": 233088,
+      "name": "Let Us Die",
+      "url": "https://open.spotify.com/track/5uDo40mspcWNHDCLlKTLoJ"
     },
     {
       "added_at": "2022-09-09 19:33:47",
@@ -931,22 +931,6 @@
     {
       "added_at": "2022-09-09 19:33:47",
       "album": {
-        "name": "Homerun Hitter",
-        "url": "https://open.spotify.com/album/7KRLrC9FUfJDXC7p2E4q11"
-      },
-      "artists": [
-        {
-          "name": "Greyson Chance",
-          "url": "https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX"
-        }
-      ],
-      "duration_ms": 272453,
-      "name": "Homerun Hitter",
-      "url": "https://open.spotify.com/track/5tHalhXKz1l1rCJAMzx0PG"
-    },
-    {
-      "added_at": "2022-09-09 19:33:47",
-      "album": {
         "name": "Skin and Bones",
         "url": "https://open.spotify.com/album/5LCCfjJW4kBomupswapRHE"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 214157,
       "name": "Skin and Bones",
       "url": "https://open.spotify.com/track/6slWOE0SO6HjBH0fNd13YB"
+    },
+    {
+      "added_at": "2022-09-09 19:33:47",
+      "album": {
+        "name": "Homerun Hitter",
+        "url": "https://open.spotify.com/album/7KRLrC9FUfJDXC7p2E4q11"
+      },
+      "artists": [
+        {
+          "name": "Greyson Chance",
+          "url": "https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX"
+        }
+      ],
+      "duration_ms": 272453,
+      "name": "Homerun Hitter",
+      "url": "https://open.spotify.com/track/5tHalhXKz1l1rCJAMzx0PG"
     },
     {
       "added_at": "2022-09-09 19:33:47",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2022-09-09 19:33:47",
       "album": {
+        "name": "FIRST HELLO",
+        "url": "https://open.spotify.com/album/6g7aDEkCteSnfHx2ZSOZYU"
+      },
+      "artists": [
+        {
+          "name": "Grant Knoche",
+          "url": "https://open.spotify.com/artist/4uLexEsM3MDb1sermSib4J"
+        }
+      ],
+      "duration_ms": 197569,
+      "name": "FIRST HELLO",
+      "url": "https://open.spotify.com/track/2ONSelZb6rxDw98aIzTLHt"
+    },
+    {
+      "added_at": "2022-09-09 19:33:47",
+      "album": {
         "name": "My Way",
         "url": "https://open.spotify.com/album/0pvbtMDkjdbU3XDKU6Zm6P"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 219026,
       "name": "Bleach",
       "url": "https://open.spotify.com/track/3j8mwslzqj90yjWWNwwff8"
-    },
-    {
-      "added_at": "2022-09-09 19:33:47",
-      "album": {
-        "name": "FIRST HELLO",
-        "url": "https://open.spotify.com/album/6g7aDEkCteSnfHx2ZSOZYU"
-      },
-      "artists": [
-        {
-          "name": "Grant Knoche",
-          "url": "https://open.spotify.com/artist/4uLexEsM3MDb1sermSib4J"
-        }
-      ],
-      "duration_ms": 197569,
-      "name": "FIRST HELLO",
-      "url": "https://open.spotify.com/track/2ONSelZb6rxDw98aIzTLHt"
     },
     {
       "added_at": "2022-09-09 19:33:47",
@@ -1199,38 +1199,6 @@
     {
       "added_at": "2022-09-09 19:33:47",
       "album": {
-        "name": "SHE CAN DANCE",
-        "url": "https://open.spotify.com/album/0ZvZsk1tWYnw35slDlTXXR"
-      },
-      "artists": [
-        {
-          "name": "Betty Who",
-          "url": "https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB"
-        }
-      ],
-      "duration_ms": 184166,
-      "name": "SHE CAN DANCE",
-      "url": "https://open.spotify.com/track/5rWi2q5zyWZzQupvHJgrWB"
-    },
-    {
-      "added_at": "2022-09-09 19:33:47",
-      "album": {
-        "name": "Palladium",
-        "url": "https://open.spotify.com/album/2YyWyMCjuegqxsrfo1672e"
-      },
-      "artists": [
-        {
-          "name": "Greyson Chance",
-          "url": "https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX"
-        }
-      ],
-      "duration_ms": 247419,
-      "name": "Palladium",
-      "url": "https://open.spotify.com/track/1bI1ASTRif9GKJO9b7PQk3"
-    },
-    {
-      "added_at": "2022-09-09 19:33:47",
-      "album": {
         "name": "Inside Voices / Outside Voices",
         "url": "https://open.spotify.com/album/3rOh1c4zewftORLmjmV8dM"
       },
@@ -1247,6 +1215,22 @@
     {
       "added_at": "2022-09-09 19:33:47",
       "album": {
+        "name": "SHE CAN DANCE",
+        "url": "https://open.spotify.com/album/0ZvZsk1tWYnw35slDlTXXR"
+      },
+      "artists": [
+        {
+          "name": "Betty Who",
+          "url": "https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB"
+        }
+      ],
+      "duration_ms": 184166,
+      "name": "SHE CAN DANCE",
+      "url": "https://open.spotify.com/track/5rWi2q5zyWZzQupvHJgrWB"
+    },
+    {
+      "added_at": "2022-09-09 19:33:47",
+      "album": {
         "name": "Ugly Season",
         "url": "https://open.spotify.com/album/6rFFWK98d8hhdSYgaOxI5L"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 281190,
       "name": "Photograph",
       "url": "https://open.spotify.com/track/7qG7bsMPOmiMt0uT13cLx5"
+    },
+    {
+      "added_at": "2022-09-09 19:33:47",
+      "album": {
+        "name": "Tantrums",
+        "url": "https://open.spotify.com/album/3N2z6l5poKgtLXUwPFFyuc"
+      },
+      "artists": [
+        {
+          "name": "Xana",
+          "url": "https://open.spotify.com/artist/5Ui0TOcqUVmXQORMMkMaD3"
+        }
+      ],
+      "duration_ms": 211675,
+      "name": "Complex",
+      "url": "https://open.spotify.com/track/5R1a0XN84btO27Bn5uV5BK"
     }
   ],
   "unique_name": "Out Now",

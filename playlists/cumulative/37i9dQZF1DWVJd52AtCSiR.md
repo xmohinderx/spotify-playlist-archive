@@ -4,7 +4,7 @@
 
 > Discover the classical side of your favourite Disney soundtracks.
 
-123 songs - 6 hr 19 min - [published](https://open.spotify.com/playlist/0vmRJRYwOgFfUhgFl1I2vw)
+124 songs - 6 hr 22 min - [published](https://open.spotify.com/playlist/0vmRJRYwOgFfUhgFl1I2vw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,8 @@
 | [Suite from Zootopia](https://open.spotify.com/track/1ljmDqxdiIl9Vhghp21DWs) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Zootopia \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3X6netsswLt0U97Doga56C) | 7:28 | 2021-10-07 | 2022-07-16 |
 | [The Archery Affair](https://open.spotify.com/track/7qHs4ZARJCiRZmGqWEmv0t) | [George Bruns](https://open.spotify.com/artist/5T60shnsXD8hlLRDsbvFoO) | [Walt Disney Records The Legacy Collection: Robin Hood](https://open.spotify.com/album/56ewU1ti6LTUjDQzsI9QZD) | 1:53 | 2021-10-07 | 2022-07-16 |
 | [The Bare Necessities \- From "The Jungle Book"](https://open.spotify.com/track/2mHszKdcP0V2DPrv3w1f8P) | [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [The Bare Necessities \(From "The Jungle Book"\)](https://open.spotify.com/album/2ObuQ2rZlx0uJbFMSp6f7M) | 2:40 | 2022-07-07 | 2022-07-29 |
-| [The Bare Necessities \- From "The Jungle Book"](https://open.spotify.com/track/4imtIfVskTzpoloHLaHplb) | [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [The Bare Necessities \(From "The Jungle Book"\)](https://open.spotify.com/album/5sRIFmDAhy6ngKjxrTaO6h) | 2:40 | 2022-07-07 |  |
+| [The Bare Necessities \- From "The Jungle Book"](https://open.spotify.com/track/4imtIfVskTzpoloHLaHplb) | [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [The Bare Necessities \(From "The Jungle Book"\)](https://open.spotify.com/album/5sRIFmDAhy6ngKjxrTaO6h) | 2:40 | 2022-07-07 | 2022-09-20 |
+| [The Bare Necessities \- From "The Jungle Book"](https://open.spotify.com/track/6aDmy1Tf35ee4rr6VTRbV1) | [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [The Disney Book](https://open.spotify.com/album/6s4Nj1n5yQuyn6ML0Jjk3z) | 2:40 | 2022-09-16 |  |
 | [The Bare Necessities \- From "The Jungle Book"](https://open.spotify.com/track/3nJU5HZFOShBsFjCGx9wKT) | [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [The Bare Necessities \(From "The Jungle Book"\)](https://open.spotify.com/album/0BGscoeS9uZfXPsbtzu32K) | 3:41 | 2021-10-07 | 2022-07-16 |
 | [The Bell Tower](https://open.spotify.com/track/5xlq7bxuhPDUEI5GQFS4zQ) | [Alan Menken](https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ) | [The Hunchback of Notre Dame Original Soundtrack \(English Version\)](https://open.spotify.com/album/4oO2rv8QInfX4jVrCdLzlp) | 3:04 | 2021-10-07 | 2022-07-29 |
 | [The Bell Tower](https://open.spotify.com/track/1Dc6Mb9u2az5sQOvqfOqX7) | [Alan Menken](https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ) | [The Hunchback Of Notre Dame \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7btQeUDTIIfnh2iCQ8Pfhq) | 3:05 | 2022-07-07 |  |

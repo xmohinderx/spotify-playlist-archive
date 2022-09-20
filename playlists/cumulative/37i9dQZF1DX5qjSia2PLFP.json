@@ -1185,7 +1185,7 @@
     {
       "album": {
         "name": "Good Movie",
-        "url": "https://open.spotify.com/album/3cNHTRSvsTSp0IjYQvygoB"
+        "url": "https://open.spotify.com/album/2REajdJ8KOaR8Vm2Zx8UXM"
       },
       "artists": [
         {
@@ -1196,6 +1196,24 @@
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 185140,
+      "name": "Good Movie",
+      "url": "https://open.spotify.com/track/3UZdSNMSGjZM5GuGuqB5ff"
+    },
+    {
+      "album": {
+        "name": "Good Movie",
+        "url": "https://open.spotify.com/album/3cNHTRSvsTSp0IjYQvygoB"
+      },
+      "artists": [
+        {
+          "name": "Pi\u2019erre Bourne",
+          "url": "https://open.spotify.com/artist/3x3jSlhyv5CiCZDZlaTq0M"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-20",
       "duration_ms": 185140,
       "name": "Good Movie",
       "url": "https://open.spotify.com/track/4leKMM9HGvo32ZcIGRafGS"

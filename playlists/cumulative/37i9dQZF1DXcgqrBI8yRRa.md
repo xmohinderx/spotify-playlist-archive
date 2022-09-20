@@ -4,7 +4,7 @@
 
 > iykyk
 
-132 songs - 7 hr 32 min - [published](https://open.spotify.com/playlist/3awV2Nz601Vuas3y1IcXci)
+133 songs - 7 hr 35 min - [published](https://open.spotify.com/playlist/3awV2Nz601Vuas3y1IcXci)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,8 @@
 | [No Wahala](https://open.spotify.com/track/1z3Lac4bdl57XLcu35ma1M) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb) | [No Wahala](https://open.spotify.com/album/0iBUE2UCUr4RLMhOzOLaUY) | 2:42 | 2021-12-06 |  |
 | [Normally](https://open.spotify.com/track/2VA1XsvSN6H60KZSEvf9Bt) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Love is Not Enough](https://open.spotify.com/album/4tCH2crJruCSAnwVHO1vJZ) | 2:31 | 2022-07-14 |  |
 | [O2](https://open.spotify.com/track/1b5MhsiBGQyPjrb5zzAlXM) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [OXYGENE](https://open.spotify.com/album/69OCIEKv6ONuYZsJw0v3iI) | 2:59 | 2022-07-04 |  |
-| [ODG](https://open.spotify.com/track/27ftIsCnZyS5l4NfvqALLS) | [Eltee Skhillz](https://open.spotify.com/artist/2TaztBC0I5tyAKvuFvVoTT) | [Body of Work](https://open.spotify.com/album/5OnyqL9XksyqPRkthm0DtL) | 3:13 | 2022-02-23 |  |
+| [ODG](https://open.spotify.com/track/27ftIsCnZyS5l4NfvqALLS) | [Eltee Skhillz](https://open.spotify.com/artist/2TaztBC0I5tyAKvuFvVoTT) | [Body of Work](https://open.spotify.com/album/5OnyqL9XksyqPRkthm0DtL) | 3:13 | 2022-02-23 | 2022-09-20 |
+| [ODG](https://open.spotify.com/track/7MVWJodTHuubI1eGFlKrMy) | [Eltee Skhillz](https://open.spotify.com/artist/2TaztBC0I5tyAKvuFvVoTT) | [Body of Work \(Deluxe Edition\)](https://open.spotify.com/album/67v6c0gBbBW5EGjT3uvMM3) | 3:13 | 2022-02-23 |  |
 | [ODG](https://open.spotify.com/track/4PgMRk7oJmRzJOngQlONBa) | [Eltee Skhillz](https://open.spotify.com/artist/2TaztBC0I5tyAKvuFvVoTT) | [Body Of Work](https://open.spotify.com/album/4GiQ8qKGKc79hjyMshrhVt) | 3:13 | 2022-02-23 | 2022-07-29 |
 | [Omo Baba](https://open.spotify.com/track/6Cq9fb1yZMQ7ZljGQLkkSJ) | [Spirit of Prophecy](https://open.spotify.com/artist/47QqOqn5ySXFRyTezxJRBF) | [Omo Baba](https://open.spotify.com/album/4bup49mjtfuz6vRg1a2Uw2) | 3:15 | 2022-07-13 |  |
 | [Omo Ope \(feat\. Olamide\)](https://open.spotify.com/track/7d1aTQlsHMgWmkPywDi7h1) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Omo Ope](https://open.spotify.com/album/6PU3yx6qtcu2BKkRMGSbdG) | 2:46 | 2022-02-23 |  |

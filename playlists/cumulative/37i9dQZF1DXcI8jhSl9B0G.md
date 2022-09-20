@@ -4,7 +4,7 @@
 
 > Roots and acoustic tunes, for sun drenched days and balmy nights.
 
-56 songs - 3 hr 16 min - [published](https://open.spotify.com/playlist/00T5sUZpIOM8SUBV1DQ66W)
+57 songs - 3 hr 20 min - [published](https://open.spotify.com/playlist/00T5sUZpIOM8SUBV1DQ66W)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,8 @@
 | [Stay Safe](https://open.spotify.com/track/6STzLUBbmGBh0DU143vkdI) | [Husky Gawenda](https://open.spotify.com/artist/1sNJ4MiIoUC38wEPkXdW1W) | [Stay Safe](https://open.spotify.com/album/636X3GYDc89jyQOSoQCSt8) | 1:55 | 2021-11-30 | 2022-09-17 |
 | [Still Care \(feat\. NASAYA\)](https://open.spotify.com/track/4m5Kgsr6ZL9RtPTiRptOof) | [Muroki](https://open.spotify.com/artist/3Nvjwz6gDry7Uume9kjCBT), [NASAYA](https://open.spotify.com/artist/5932gYdqLCu1ftKVXf1PO4) | [Still Care \(feat\. NASAYA\)](https://open.spotify.com/album/6M2fIu2ezYUwMBLCI4C2vM) | 3:18 | 2021-11-30 |  |
 | [Stoney Creek](https://open.spotify.com/track/0ik7YpGVcjTkXBrUv4SaqR) | [Xavier Rudd](https://open.spotify.com/artist/5lbM4g6bhxjNX7R5QHP2nD) | [Jan Juc Moon](https://open.spotify.com/album/0zXonPXtpDEb32sy6PkTsw) | 4:37 | 2021-11-30 |  |
-| [Stuck On You](https://open.spotify.com/track/0PhMtgBpYKemULdfS6fGlc) | [Summer Thieves](https://open.spotify.com/artist/4WCnYYTO46t5FujuWKOc4W) | [Stuck On You](https://open.spotify.com/album/6Jz3C9PFo33X5wkx5mBEvT) | 3:57 | 2021-11-30 |  |
+| [Stuck On You](https://open.spotify.com/track/0PhMtgBpYKemULdfS6fGlc) | [Summer Thieves](https://open.spotify.com/artist/4WCnYYTO46t5FujuWKOc4W) | [Stuck On You](https://open.spotify.com/album/6Jz3C9PFo33X5wkx5mBEvT) | 3:57 | 2021-11-30 | 2022-09-20 |
+| [Stuck On You](https://open.spotify.com/track/5DkxnItpcG9oqpdwORiZzN) | [Summer Thieves](https://open.spotify.com/artist/4WCnYYTO46t5FujuWKOc4W) | [Paradise Down the Road](https://open.spotify.com/album/2a0TNEB0ljsokVLeCqWONF) | 3:57 | 2021-11-30 |  |
 | [Sunday Morning](https://open.spotify.com/track/6EjxCRX9oiCDhxaSl0KcTl) | [Jordy Maxwell](https://open.spotify.com/artist/32adQJGzuFZNh9fBQXhisb) | [Sunday Morning](https://open.spotify.com/album/6blpw51RAg5g4h6Ykn2N9L) | 3:52 | 2021-11-30 |  |
 | [Tattoos](https://open.spotify.com/track/2FVVu9NYYJcsJZyludnA5p) | [Jack Botts](https://open.spotify.com/artist/4VeyhwBUfsaWMkQ2Ld8QNl) | [Slow Mornings](https://open.spotify.com/album/4klmewvkTrB4zj1NuRohTZ) | 3:35 | 2021-11-30 |  |
 | [Tears Don’t Fall](https://open.spotify.com/track/2T3whAdkzXCT58yFXsZgjm) | [Terrible Sons](https://open.spotify.com/artist/3eaJ1prUilN6z7yoFx9u2g) | [Half Awake, Half Asleep](https://open.spotify.com/album/7cHSI1g84HZbJ2GwauTahA) | 3:10 | 2021-11-30 |  |

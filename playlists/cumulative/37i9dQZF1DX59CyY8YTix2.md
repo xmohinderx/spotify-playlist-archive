@@ -4,7 +4,7 @@
 
 > Japanese female rock icons\. Cover: chilldspot
 
-583 songs - 1 day 13 hr 31 min - [published](https://open.spotify.com/playlist/5oLzS8mnacSvAW2zqgcbrN)
+584 songs - 1 day 13 hr 35 min - [published](https://open.spotify.com/playlist/5oLzS8mnacSvAW2zqgcbrN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -353,8 +353,9 @@
 | [スモーキン・ビリー](https://open.spotify.com/track/6JaF5T2956QWqa4bHfv9aM) | [BiS](https://open.spotify.com/artist/686Q2yJDYA5wjFy1PJXjGX) | [スモーキン・ビリー](https://open.spotify.com/album/2hjfiA40BEOHHkCaOJiGFD) | 3:14 | 2022-06-07 | 2022-07-01 |
 | [スローモーション](https://open.spotify.com/track/0vBvzHyCIhghcqqQamSOZy) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [スローモーション](https://open.spotify.com/album/5wJFueegyDyd22s8EDgevS) | 3:40 | 2022-05-26 | 2022-07-29 |
 | [ダッキーちゃん](https://open.spotify.com/track/5zTom8wbfrL1CdEqJxBHbB) | [みらん](https://open.spotify.com/artist/2yfpy1pbfniKZ3I4rMjKnX) | [Ducky](https://open.spotify.com/album/46GDOYQ370pZAP39bZ9tuL) | 4:52 | 2022-06-30 | 2022-07-03 |
+| [ダンスフロア](https://open.spotify.com/track/4DB9XpxWVdGXsHjX8YoIzF) | [LAYRUS LOOP](https://open.spotify.com/artist/3EO554jUf79NLR9mBuD2vk) | [ダンスフロアEP](https://open.spotify.com/album/0OqXDoI0GTKevz8B96ueE9) | 3:55 | 2022-09-15 |  |
 | [チョコレート・ロック](https://open.spotify.com/track/5eahcJvbIpCBnT142txCEc) | [MAX'N](https://open.spotify.com/artist/26Ity8uEBiqnMQeRuieROO) | [チョコレート・ロック](https://open.spotify.com/album/6joD7xcwcMeOTtfXHHhSSL) | 3:34 | 2022-07-12 | 2022-07-15 |
-| [ツキカゲ](https://open.spotify.com/track/0SAsyxJVxrjwD8L7kYFL0T) | [POLKADOT STINGRAY](https://open.spotify.com/artist/5zV9afUO4DVqJeRaZvfNev) | [ツキカゲ](https://open.spotify.com/album/2Hg3U9PLb4HjsnQcBxWtGm) | 3:10 | 2022-08-18 |  |
+| [ツキカゲ](https://open.spotify.com/track/0SAsyxJVxrjwD8L7kYFL0T) | [POLKADOT STINGRAY](https://open.spotify.com/artist/5zV9afUO4DVqJeRaZvfNev) | [ツキカゲ](https://open.spotify.com/album/2Hg3U9PLb4HjsnQcBxWtGm) | 3:10 | 2022-08-18 | 2022-09-20 |
 | [ツキヨツキヨ](https://open.spotify.com/track/3EOPIafs4IzuhrP4Ssxa3i) | [田中未希](https://open.spotify.com/artist/4W742xSzpjksYS36OfM52u) | [ツキヨツキヨ](https://open.spotify.com/album/6wP4YJLQ2kYEIx55Spc4z9) | 2:50 | 2022-06-28 | 2022-07-06 |
 | [テンダーランド](https://open.spotify.com/track/5NoAhvPMNd3y2LaNVueted) | [Scenarioart](https://open.spotify.com/artist/4yHLkC0Z5EYVyinSP2AHvV) | [Blue Smell](https://open.spotify.com/album/78g76Sk7DVhByaj4kpJOw4) | 3:57 | 2022-06-21 | 2022-06-23 |
 | [デウス・エクス・マキナ](https://open.spotify.com/track/7oxLHXummz6DfPF9Mw5Tie) | [yonige](https://open.spotify.com/artist/6uovEmc6Z1C1aUvvdKACXQ) | [デウス・エクス・マキナ](https://open.spotify.com/album/2wzemivJXWInOdmjfojngk) | 4:34 | 2022-05-26 | 2022-07-24 |

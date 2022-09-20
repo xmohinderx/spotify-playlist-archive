@@ -276,6 +276,32 @@
     },
     {
       "album": {
+        "name": "Dicomo",
+        "url": "https://open.spotify.com/album/7uKXXhGd73QD8tDsztI3h3"
+      },
+      "artists": [
+        {
+          "name": "Flans",
+          "url": "https://open.spotify.com/artist/79uYTRCeQmTpq8eUptucKq"
+        },
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        },
+        {
+          "name": "Industria del Amor",
+          "url": "https://open.spotify.com/artist/3ecREliS3Q8g2sCk40y0dw"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245697,
+      "name": "Dicomoz",
+      "url": "https://open.spotify.com/track/7ydAQr1HQYaGu3Q8uupaFc"
+    },
+    {
+      "album": {
         "name": "12 \u00c9xitos Con Sax al Estilo De: Lalo Mora",
         "url": "https://open.spotify.com/album/500FKToABrSXqJrrlt0PoS"
       },
@@ -305,7 +331,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-20",
       "duration_ms": 223106,
       "name": "El Corrido De Monterrey",
       "url": "https://open.spotify.com/track/1CTIs7OmI0qaYjmX1c8DKU"
@@ -323,7 +349,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-20",
       "duration_ms": 180860,
       "name": "El Corrido de Ramiro Quiroz",
       "url": "https://open.spotify.com/track/0sS3oYCoRy1U0yl8KbbX3W"
@@ -755,7 +781,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-19",
+      "date_removed": null,
       "duration_ms": 174013,
       "name": "Leonardo Reyes",
       "url": "https://open.spotify.com/track/1Xsr3iof8yaviVyTbpp0m6"

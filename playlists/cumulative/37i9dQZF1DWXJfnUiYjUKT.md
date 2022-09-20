@@ -4,7 +4,7 @@
 
 > The very best in new music from around the world\. Cover: BLACKPINK
 
-3,744 songs - 8 day 4 hr 15 min - [published](https://open.spotify.com/playlist/5wehzvuAdBk8faZ6p0CSjF)
+3,745 songs - 8 day 4 hr 19 min - [published](https://open.spotify.com/playlist/5wehzvuAdBk8faZ6p0CSjF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -628,7 +628,8 @@
 | [character](https://open.spotify.com/track/2AcqLCNbnnomBQpRzK5lUj) | [Blessing](https://open.spotify.com/artist/57bDO2vmzu955G1W6EsYth) | [character](https://open.spotify.com/album/1UTbd0QgnLBASgodk16RCM) | 3:14 | 2022-03-24 | 2022-04-01 |
 | [CHARGER](https://open.spotify.com/track/0ZHSbNRrrfAs8hwEuecJM6) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [chillpill](https://open.spotify.com/artist/1QzqrU2lmiW9l1mSvliVoM) | [CHARGER](https://open.spotify.com/album/5y1t9JGawPBdgJjd3Ogl0a) | 1:53 | 2022-02-24 | 2022-03-04 |
 | [Charlie](https://open.spotify.com/track/7aRSNPr2LpTl8v8jQnfWmD) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Charlie](https://open.spotify.com/album/4rQJk6OIbc5iVQ6V87AeyF) | 3:04 | 2022-08-12 | 2022-08-20 |
-| [Chasing the Sun](https://open.spotify.com/track/0BB77DvXvevei2pSXP65Jg) | [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [Chasing The Sun](https://open.spotify.com/album/1zLtpGBpnjsCTUf88E2GXw) | 3:42 | 2022-09-16 |  |
+| [Chasing the Sun](https://open.spotify.com/track/0BB77DvXvevei2pSXP65Jg) | [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [Chasing The Sun](https://open.spotify.com/album/1zLtpGBpnjsCTUf88E2GXw) | 3:42 | 2022-09-16 | 2022-09-20 |
+| [Chasing the Sun](https://open.spotify.com/track/0VXgPkyJ1BJ9QXcMv3nDFB) | [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [Carving Canyons](https://open.spotify.com/album/0keDX0kFNMMZtGWK3YP5GO) | 3:42 | 2022-09-16 |  |
 | [Checkmate](https://open.spotify.com/track/3KYTIo9pu84SbLL53iGew4) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed) | [Checkmate](https://open.spotify.com/album/092m8BBfQD4WLKfZXkD2PI) | 2:50 | 2022-09-09 | 2022-09-17 |
 | [cheerios](https://open.spotify.com/track/3TAvhqb2YtfR4J7ejniBg2) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh), [VV](https://open.spotify.com/artist/3Lx3LW1eYrkig48NsWAPdh) | [postcard from Milan](https://open.spotify.com/album/6m86vj4gewDwcEL95tm2j2) | 3:38 | 2022-01-07 | 2022-01-14 |
 | [Chemical High](https://open.spotify.com/track/01mt0RLXC0DQ4VPQpV6WWy) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [Chemical High](https://open.spotify.com/album/6NPgAZh5MU5W7P4EjyLRZ7) | 2:38 | 2022-08-19 | 2022-08-27 |

@@ -1,12 +1,12 @@
 {
   "description": "Entre estrellas pop y el auge del grunge, en Argentina, detr\u00e1s de Dynamo floreci\u00f3 el nuevo rock argentino. Sonido alternativo y vanguardista. Foto: <a href=\"spotify:user:spotify:playlist:37i9dQZF1DXas2oQWNGMlz\">Babas\u00f3nicos</a>",
-  "num_followers": 11821,
+  "num_followers": 11823,
   "original_name": "Rock S\u00f3nico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU4NDEwNTY4OCwwMDAwMDAwMGQxNTNlZmIyYmU0M2MxY2YyOTAzYWI5NTc1MzQ3Mzk3",
+  "snapshot_id": "MTU4NDEwNTY4OCwwMDAwMDAwMDRjYzc0ZjdjYzc4ZGMyZThmNmM2ZGMwNjVjNWQxYTk0",
   "tracks": [
     {
       "added_at": "2020-03-13 13:21:28",
@@ -91,6 +91,22 @@
     {
       "added_at": "2020-03-13 13:21:28",
       "album": {
+        "name": "Dynamo (Remastered)",
+        "url": "https://open.spotify.com/album/4bfwXuecOmNVlPM5RStAiQ"
+      },
+      "artists": [
+        {
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+        }
+      ],
+      "duration_ms": 206426,
+      "name": "Secuencia Inicial - Remasterizado 2007",
+      "url": "https://open.spotify.com/track/2fbNuOkVZWhccPEqnuxXvk"
+    },
+    {
+      "added_at": "2020-03-13 13:21:28",
+      "album": {
         "name": "Dale Aborigen",
         "url": "https://open.spotify.com/album/212ondLs1xEcRuSM0iu70X"
       },
@@ -139,18 +155,18 @@
     {
       "added_at": "2020-03-13 13:21:28",
       "album": {
-        "name": "Dynamo (Remastered)",
-        "url": "https://open.spotify.com/album/4bfwXuecOmNVlPM5RStAiQ"
+        "name": "Vida Modelo",
+        "url": "https://open.spotify.com/album/7AHZl3Y5Y76pObzW9s8SSZ"
       },
       "artists": [
         {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+          "name": "Juana La Loca",
+          "url": "https://open.spotify.com/artist/1B77gQZWI3khQYI19R9YUE"
         }
       ],
-      "duration_ms": 206426,
-      "name": "Secuencia Inicial - Remasterizado 2007",
-      "url": "https://open.spotify.com/track/2fbNuOkVZWhccPEqnuxXvk"
+      "duration_ms": 165160,
+      "name": "Vida Modelo",
+      "url": "https://open.spotify.com/track/3PCEWh4cgGYQAafaR095tx"
     },
     {
       "added_at": "2020-03-13 13:21:28",
@@ -203,38 +219,6 @@
       "duration_ms": 191000,
       "name": "Mate",
       "url": "https://open.spotify.com/track/2E0qictodRb0Y5ChkZ7e4w"
-    },
-    {
-      "added_at": "2020-03-13 13:21:28",
-      "album": {
-        "name": "Vida Modelo",
-        "url": "https://open.spotify.com/album/7AHZl3Y5Y76pObzW9s8SSZ"
-      },
-      "artists": [
-        {
-          "name": "Juana La Loca",
-          "url": "https://open.spotify.com/artist/1B77gQZWI3khQYI19R9YUE"
-        }
-      ],
-      "duration_ms": 165160,
-      "name": "Vida Modelo",
-      "url": "https://open.spotify.com/track/3PCEWh4cgGYQAafaR095tx"
-    },
-    {
-      "added_at": "2020-03-13 13:21:28",
-      "album": {
-        "name": "Peligrosos Gorriones",
-        "url": "https://open.spotify.com/album/2CT63e7WwSrHiEPpLcn41S"
-      },
-      "artists": [
-        {
-          "name": "Peligrosos Gorriones",
-          "url": "https://open.spotify.com/artist/6po2f29ob2NrxTHXbsSS9i"
-        }
-      ],
-      "duration_ms": 173293,
-      "name": "Escafandra",
-      "url": "https://open.spotify.com/track/09XkPoMOoWRiwMkwMMcCN1"
     },
     {
       "added_at": "2020-03-13 13:21:28",
@@ -303,6 +287,38 @@
     {
       "added_at": "2020-03-13 13:21:28",
       "album": {
+        "name": "Trance Zomba",
+        "url": "https://open.spotify.com/album/67kcVCT0DElUimIfyZ2MyS"
+      },
+      "artists": [
+        {
+          "name": "Babas\u00f3nicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+        }
+      ],
+      "duration_ms": 209640,
+      "name": "Monta\u00f1as de Agua",
+      "url": "https://open.spotify.com/track/0zwHOcDekNtzpTbQ81dK7G"
+    },
+    {
+      "added_at": "2020-03-13 13:21:28",
+      "album": {
+        "name": "Peligrosos Gorriones",
+        "url": "https://open.spotify.com/album/2CT63e7WwSrHiEPpLcn41S"
+      },
+      "artists": [
+        {
+          "name": "Peligrosos Gorriones",
+          "url": "https://open.spotify.com/artist/6po2f29ob2NrxTHXbsSS9i"
+        }
+      ],
+      "duration_ms": 173293,
+      "name": "Escafandra",
+      "url": "https://open.spotify.com/track/09XkPoMOoWRiwMkwMMcCN1"
+    },
+    {
+      "added_at": "2020-03-13 13:21:28",
+      "album": {
         "name": "Los 7 Delfines",
         "url": "https://open.spotify.com/album/1c8bV0QDLCW2XQJquWEw9t"
       },
@@ -319,18 +335,18 @@
     {
       "added_at": "2020-03-13 13:21:28",
       "album": {
-        "name": "Trance Zomba",
-        "url": "https://open.spotify.com/album/67kcVCT0DElUimIfyZ2MyS"
+        "name": "Excursiones",
+        "url": "https://open.spotify.com/album/4snJPKc4DWPKigaOSJpsKx"
       },
       "artists": [
         {
-          "name": "Babas\u00f3nicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+          "name": "Suarez",
+          "url": "https://open.spotify.com/artist/3UmO1Acb6OVGSfiLnYe69n"
         }
       ],
-      "duration_ms": 209640,
-      "name": "Monta\u00f1as de Agua",
-      "url": "https://open.spotify.com/track/0zwHOcDekNtzpTbQ81dK7G"
+      "duration_ms": 248706,
+      "name": "Tarde de Cansancio",
+      "url": "https://open.spotify.com/track/5KjdESqDmt86SLyergPpQX"
     },
     {
       "added_at": "2020-03-13 13:21:28",
@@ -355,18 +371,18 @@
     {
       "added_at": "2020-03-13 13:21:28",
       "album": {
-        "name": "Excursiones",
-        "url": "https://open.spotify.com/album/4snJPKc4DWPKigaOSJpsKx"
+        "name": "Pasto",
+        "url": "https://open.spotify.com/album/0iKLZXL2Hp0XJFlhAyFqHa"
       },
       "artists": [
         {
-          "name": "Suarez",
-          "url": "https://open.spotify.com/artist/3UmO1Acb6OVGSfiLnYe69n"
+          "name": "Babas\u00f3nicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
         }
       ],
-      "duration_ms": 248706,
-      "name": "Tarde de Cansancio",
-      "url": "https://open.spotify.com/track/5KjdESqDmt86SLyergPpQX"
+      "duration_ms": 230626,
+      "name": "D-Generaci\u00f3n",
+      "url": "https://open.spotify.com/track/1puFoga8mFmSoBXkUtRwjP"
     },
     {
       "added_at": "2020-03-13 13:21:28",
@@ -431,22 +447,6 @@
       "duration_ms": 143866,
       "name": "Eclipse",
       "url": "https://open.spotify.com/track/36HSUDViFEJfQoPvuJqBn4"
-    },
-    {
-      "added_at": "2020-03-13 13:21:28",
-      "album": {
-        "name": "Pasto",
-        "url": "https://open.spotify.com/album/0iKLZXL2Hp0XJFlhAyFqHa"
-      },
-      "artists": [
-        {
-          "name": "Babas\u00f3nicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
-        }
-      ],
-      "duration_ms": 230626,
-      "name": "D-Generaci\u00f3n",
-      "url": "https://open.spotify.com/track/1puFoga8mFmSoBXkUtRwjP"
     },
     {
       "added_at": "2020-03-13 13:21:28",
@@ -531,22 +531,6 @@
     {
       "added_at": "2020-03-13 13:21:28",
       "album": {
-        "name": "Megaton",
-        "url": "https://open.spotify.com/album/5OEbnIMia7htVVS2xscmg6"
-      },
-      "artists": [
-        {
-          "name": "Santos Inocentes",
-          "url": "https://open.spotify.com/artist/5fs9bxwPJ4ofGlFFY67U8I"
-        }
-      ],
-      "duration_ms": 267839,
-      "name": "Rockstar",
-      "url": "https://open.spotify.com/track/7sUYCPMAKQFGn05M7bpTMz"
-    },
-    {
-      "added_at": "2020-03-13 13:21:28",
-      "album": {
         "name": "El Avi\u00f3n Ya Se Estrell\u00f3 Y Yo Sigo Volando",
         "url": "https://open.spotify.com/album/3KqOKuyjoZO6Ypng9STafB"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 282600,
       "name": "Marmota",
       "url": "https://open.spotify.com/track/60i7zzErAk7saXLo9YVHpL"
+    },
+    {
+      "added_at": "2020-03-13 13:21:28",
+      "album": {
+        "name": "Megaton",
+        "url": "https://open.spotify.com/album/5OEbnIMia7htVVS2xscmg6"
+      },
+      "artists": [
+        {
+          "name": "Santos Inocentes",
+          "url": "https://open.spotify.com/artist/5fs9bxwPJ4ofGlFFY67U8I"
+        }
+      ],
+      "duration_ms": 267839,
+      "name": "Rockstar",
+      "url": "https://open.spotify.com/track/7sUYCPMAKQFGn05M7bpTMz"
     },
     {
       "added_at": "2020-03-13 13:21:28",

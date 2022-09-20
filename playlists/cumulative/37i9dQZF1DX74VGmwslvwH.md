@@ -4,7 +4,7 @@
 
 > Energy flow from root to crown\. Balance your doshas with traditional sounds of India.
 
-83 songs - 6 hr 10 min - [published](https://open.spotify.com/playlist/0Z5cpGwOQ6Tu0NXcqKQnWM)
+86 songs - 6 hr 21 min - [published](https://open.spotify.com/playlist/0Z5cpGwOQ6Tu0NXcqKQnWM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,9 @@
 | [Morning Sun](https://open.spotify.com/track/33ffWFzPUhcsxS823Z7Nqr) | [KunDharma](https://open.spotify.com/artist/3NhCohtDbc2pjX9myuU2YJ) | [Morning Sun](https://open.spotify.com/album/0B5u0PBNsYAdRmhfiNJhcs) | 2:44 | 2022-07-14 |  |
 | [Mount Kailash](https://open.spotify.com/track/5T7JzSKY03KLxvWWSEug8r) | [Aural Waves](https://open.spotify.com/artist/0rqRKblaWE6B3flDy2r0x0) | [Mount Kailash](https://open.spotify.com/album/1KLmnLjZBOC0q3TXkK6t4e) | 4:23 | 2022-05-13 |  |
 | [My People Have Deep Roots](https://open.spotify.com/track/4U1XhaYJ7hbOGKmUxY5PWZ) | [Arushi Jain](https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ) | [Under the Lilac Sky](https://open.spotify.com/album/3S4DtRVn4tjo9Q39e0lJC2) | 4:00 | 2022-05-13 |  |
+| [Osceola](https://open.spotify.com/track/44c1Fee8CMkU7407C4eiqA) | [Alexandra Irwin](https://open.spotify.com/artist/5eXVmpRWpFw0vQcu0jGRVV) | [Osceola](https://open.spotify.com/album/2QlTwprjsdTQphD9D1gMBY) | 2:45 | 2022-09-19 |  |
 | [Passion](https://open.spotify.com/track/10N4pUn5NmbJTodGCJSV4I) | [Banishu](https://open.spotify.com/artist/1QZvqFFagrFlGk46JD2WNi) | [Passion](https://open.spotify.com/album/7KsHiZ06JKArEPc8LMdP2w) | 3:19 | 2022-05-13 |  |
+| [Peace](https://open.spotify.com/track/0as6KfIJRQvPTKVheJbCBE) | [Jo Mar Fred](https://open.spotify.com/artist/4qc5t8tVmhwpYYTCcEz8Wz) | [The Power Of Now](https://open.spotify.com/album/5p2KtH7CjijqRZUjAAeFE5) | 2:56 | 2022-09-19 |  |
 | [Prelude royal](https://open.spotify.com/track/2KSXoyYQGhKFrl887etlVz) | [Tetouze](https://open.spotify.com/artist/4L2vZe0dcqomV8OAhWNmQy), [Jehanne Drai](https://open.spotify.com/artist/0GCwjBKMBF9vSKb8YbxkmF) | [Beyond sand](https://open.spotify.com/album/1U5sg1ejtfqOh4FAEzmODB) | 4:29 | 2022-05-13 |  |
 | [Purrfection 44 \- Meow Mix](https://open.spotify.com/track/18iPekNLWc9PPWe0xwADKb) | [Sudama Mark Kennedy](https://open.spotify.com/artist/3kfvOxAyZ7BXqMLRqcbwms), [Joss Jaffe](https://open.spotify.com/artist/2Nj9Ni0ML57eyiursEE5xx), [Montino Bourbon](https://open.spotify.com/artist/1bXc2vNUSrLcwHgCMPMMRU) | [Purrfection 44 \(Meow Mix\)](https://open.spotify.com/album/5wEbycWmjbR4kxJhxcY0PJ) | 3:30 | 2022-05-13 |  |
 | [Raaga Kafi \- Teentaal](https://open.spotify.com/track/4G526MTBK3TpdNBpvvYO3Z) | [Ronu Majumdar](https://open.spotify.com/artist/2BtkOvKNQUqyBvK5pnSx3P), [Ajeet Pathak](https://open.spotify.com/artist/6RewthLD9pGHUn5dmLVaBh) | [Seven Raagas](https://open.spotify.com/album/2DhxWPxZBSFirR62g3I4Zd) | 7:30 | 2022-05-13 |  |
@@ -71,6 +73,7 @@
 | [Shaantipoorn Bageecha](https://open.spotify.com/track/3qqvBjzXGgeyGCTJ5x3OXu) | [Vinod Kusari](https://open.spotify.com/artist/4xt7e7m4JRwjSZ0CUdjUAZ) | [Rajasthan](https://open.spotify.com/album/3lmvyNXwElZPiV3BLpIbDr) | 4:00 | 2022-05-13 |  |
 | [Shabdkosh](https://open.spotify.com/track/4eJE88d33ZBAEALNv3fnzv) | [Aman Nandi](https://open.spotify.com/artist/6xc1xUCBEBFTkpn6czPe10) | [Aashchary](https://open.spotify.com/album/25TMsMiB5NoYZqvTX082Xp) | 5:59 | 2022-05-13 |  |
 | [Shakti Sunset, Pt\. 1 \(Alap\)](https://open.spotify.com/track/2hE86J1u0gByjj8WXpktfZ) | [Stevin McNamara](https://open.spotify.com/artist/3n25Lt7Pj891H5zFEywMX8), [Mala Ganguly](https://open.spotify.com/artist/3lRG8ptwPxwEtvwKF2krjd) | [Shakti Guitar: A Yogic Journey from Radiant Dawn to Deepest Night](https://open.spotify.com/album/49SZlnNYS7fqBLTy1588Y7) | 7:31 | 2022-05-13 | 2022-09-07 |
+| [Shanat Karna](https://open.spotify.com/track/4hb6mIPZh3N3XKHuMjGbJ4) | [Aman Nandi](https://open.spotify.com/artist/6xc1xUCBEBFTkpn6czPe10) | [Shanat Karna](https://open.spotify.com/album/4x9VFe8Cd0lj4MSl3H6116) | 4:59 | 2022-09-19 |  |
 | [Simoom](https://open.spotify.com/track/7gR19CaxVW3DfvSfJEGRMT) | [Kanta Khatri](https://open.spotify.com/artist/1AIZ3YGySP9lkL7BulRkA0) | [Moksha](https://open.spotify.com/album/2DEYwbAEe0uXNgWdevqUrw) | 3:41 | 2022-05-13 |  |
 | [Sol Rythym](https://open.spotify.com/track/1SuOOxR5CYtqp0wUgG6KqK) | [Solarixo](https://open.spotify.com/artist/5McHUSz4tKBSVrwI9JzUhY) | [Sol Rhythm](https://open.spotify.com/album/2AJAJVg6ebdW9pY61qeV6x) | 3:04 | 2022-05-13 |  |
 | [Spirit](https://open.spotify.com/track/1zoPWKR27qHRfjnMm3wE5d) | [Sasha Green](https://open.spotify.com/artist/5OnulnqJlxCzWEyq3IfoVt) | [Mountain Sunrise](https://open.spotify.com/album/24L98golLv0TemGdFecGA9) | 2:16 | 2022-07-14 |  |

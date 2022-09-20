@@ -71,7 +71,7 @@
     {
       "album": {
         "name": "Made 4 U",
-        "url": "https://open.spotify.com/album/06JiMwMp2OyALOUX9gn8No"
+        "url": "https://open.spotify.com/album/7MtJoa3DKfwRls9963YtqX"
       },
       "artists": [
         {
@@ -90,6 +90,32 @@
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 186074,
+      "name": "All Day",
+      "url": "https://open.spotify.com/track/49S2zEVuoV3BcA2mdyowiA"
+    },
+    {
+      "album": {
+        "name": "Made 4 U",
+        "url": "https://open.spotify.com/album/06JiMwMp2OyALOUX9gn8No"
+      },
+      "artists": [
+        {
+          "name": "Wake the Wild",
+          "url": "https://open.spotify.com/artist/3gi0dYfoSKUqGYRO9Ixhf9"
+        },
+        {
+          "name": "Eren Cannata",
+          "url": "https://open.spotify.com/artist/41RREi0dkr25wYIjgL6O69"
+        },
+        {
+          "name": "Aaron Janik",
+          "url": "https://open.spotify.com/artist/29HcxjpgVWYBjERb3VGmmL"
+        }
+      ],
+      "date_added": "2021-08-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-20",
       "duration_ms": 186074,
       "name": "All Day (feat. Eren Cannata and Aaron Janik)",
       "url": "https://open.spotify.com/track/7kGtjCDWSXuImBomjoeKS5"

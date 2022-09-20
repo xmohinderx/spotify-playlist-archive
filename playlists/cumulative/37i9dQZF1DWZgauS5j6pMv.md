@@ -4,14 +4,15 @@
 
 > The best of today's funk\. Cover: Dabeull
 
-213 songs - 12 hr 47 min - [published](https://open.spotify.com/playlist/4Ap0JqC7qn45iPx4JOt9LF)
+214 songs - 12 hr 51 min - [published](https://open.spotify.com/playlist/4Ap0JqC7qn45iPx4JOt9LF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [AIN'T NO STOPPIN NOW](https://open.spotify.com/track/6YGr9FevwAYqqOiHROyTIb) | [Marlon McClain](https://open.spotify.com/artist/4koQLefRqeoEQcHYt4lMKq), [BD3](https://open.spotify.com/artist/7HXr3w238HsQoQInMLxosZ) | [AIN'T NO STOPPIN NOW](https://open.spotify.com/album/50RNxGT9eCg45WvHY69WeF) | 2:24 | 2021-02-19 | 2022-05-28 |
 | [Alibi](https://open.spotify.com/track/4Gf0lz0QLodvGRqTDLnWQ6) | [Brasstracks](https://open.spotify.com/artist/5sKvgmG84C0bIMWeS2SRPr), [FATHERDUDE](https://open.spotify.com/artist/2B50tPmaH4o50MqFC7j98Z) | [Welcome Back Era](https://open.spotify.com/album/41zEHhnIYYgnQdW9Si2YVf) | 3:34 | 2021-12-10 |  |
 | [ALIENS!](https://open.spotify.com/track/4oLAQkv6ZvXUc4cQpv5uT7) | [ROMderful](https://open.spotify.com/artist/3Aum3IcJEKuGsWVPBZnvyU) | [ALIENS!](https://open.spotify.com/album/6Cku9aqsY8j70iK7iuoeOj) | 4:18 | 2021-09-24 | 2022-04-29 |
-| [All Day \(feat\. Eren Cannata and Aaron Janik\)](https://open.spotify.com/track/7kGtjCDWSXuImBomjoeKS5) | [Wake the Wild](https://open.spotify.com/artist/3gi0dYfoSKUqGYRO9Ixhf9), [Eren Cannata](https://open.spotify.com/artist/41RREi0dkr25wYIjgL6O69), [Aaron Janik](https://open.spotify.com/artist/29HcxjpgVWYBjERb3VGmmL) | [Made 4 U](https://open.spotify.com/album/06JiMwMp2OyALOUX9gn8No) | 3:06 | 2021-08-27 |  |
+| [All Day](https://open.spotify.com/track/49S2zEVuoV3BcA2mdyowiA) | [Wake the Wild](https://open.spotify.com/artist/3gi0dYfoSKUqGYRO9Ixhf9), [Eren Cannata](https://open.spotify.com/artist/41RREi0dkr25wYIjgL6O69), [Aaron Janik](https://open.spotify.com/artist/29HcxjpgVWYBjERb3VGmmL) | [Made 4 U](https://open.spotify.com/album/7MtJoa3DKfwRls9963YtqX) | 3:06 | 2021-08-27 |  |
+| [All Day \(feat\. Eren Cannata and Aaron Janik\)](https://open.spotify.com/track/7kGtjCDWSXuImBomjoeKS5) | [Wake the Wild](https://open.spotify.com/artist/3gi0dYfoSKUqGYRO9Ixhf9), [Eren Cannata](https://open.spotify.com/artist/41RREi0dkr25wYIjgL6O69), [Aaron Janik](https://open.spotify.com/artist/29HcxjpgVWYBjERb3VGmmL) | [Made 4 U](https://open.spotify.com/album/06JiMwMp2OyALOUX9gn8No) | 3:06 | 2021-08-27 | 2022-09-20 |
 | [All I Want](https://open.spotify.com/track/5W5qOh7MA0eXjvhj103smA) | [Andrea](https://open.spotify.com/artist/616WpPUg9RHskfwi4iGscv) | [All I Want](https://open.spotify.com/album/6BQIlSZuzrWsQC150m62fR) | 3:02 | 2022-03-11 |  |
 | [ALL Outta Fucks](https://open.spotify.com/track/5GFadF67iK9w7QtkBzeJnA) | [Johnny Burgos](https://open.spotify.com/artist/1dmBfZXCP98HFGOl5zgOWe), [Jonny Tobin](https://open.spotify.com/artist/5obWvG0ikceXOD0a45DSHO) | [Gone Into The Grey](https://open.spotify.com/album/54qOt7bKvZfUdoGW0ln5Xl) | 4:24 | 2021-03-12 | 2022-06-04 |
 | [Alone](https://open.spotify.com/track/0654qpngLbRcjdIvgkhFhO) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Best of Me](https://open.spotify.com/album/0SFLxkiRkdKuldGjLvlW7P) | 4:16 | 2021-10-01 | 2022-07-16 |

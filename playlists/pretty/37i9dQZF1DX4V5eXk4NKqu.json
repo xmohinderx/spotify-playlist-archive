@@ -1,12 +1,12 @@
 {
   "description": "Best Latin Indie tracks right now. Cover: Kevin Kaarl",
-  "num_followers": 137425,
+  "num_followers": 137459,
   "original_name": "Ultimate Latin Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjQ4MjI5MSwwMDAwMDAwMDY3ZTE4NTBlMGFhZmUwNTVjNWJiY2Q1NWYxY2NjNzc1",
+  "snapshot_id": "MTY2MjQ4MjI5MSwwMDAwMDAwMDlmNDQzZTk0MmUzZjk0ODcwZTc5NjY3NWUyZWU5ZDNm",
   "tracks": [
     {
       "added_at": "2022-09-06 16:38:11",
@@ -235,22 +235,6 @@
     {
       "added_at": "2022-09-06 16:38:11",
       "album": {
-        "name": "Go Away",
-        "url": "https://open.spotify.com/album/1nETLIyhtk8GjuqyfOt1G7"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 207346,
-      "name": "Go Away",
-      "url": "https://open.spotify.com/track/6BXHCHzw706smnLQdCIDUy"
-    },
-    {
-      "added_at": "2022-09-06 16:38:11",
-      "album": {
         "name": "ya no somos los mismos",
         "url": "https://open.spotify.com/album/7MaRtS1x0WlCKm3j8PJ0jH"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 167218,
       "name": "Ac\u00e9rcate",
       "url": "https://open.spotify.com/track/26lQpQ4qsnVrH6QjDwrzUZ"
+    },
+    {
+      "added_at": "2022-09-06 16:38:11",
+      "album": {
+        "name": "Go Away",
+        "url": "https://open.spotify.com/album/1nETLIyhtk8GjuqyfOt1G7"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 207346,
+      "name": "Go Away",
+      "url": "https://open.spotify.com/track/6BXHCHzw706smnLQdCIDUy"
     },
     {
       "added_at": "2022-09-06 16:38:11",
@@ -359,22 +359,6 @@
     {
       "added_at": "2022-09-06 16:38:11",
       "album": {
-        "name": "tdbn",
-        "url": "https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "duration_ms": 202146,
-      "name": "lejos",
-      "url": "https://open.spotify.com/track/2ehzgbfJuRUvEB4Pkm4Ic1"
-    },
-    {
-      "added_at": "2022-09-06 16:38:11",
-      "album": {
         "name": "Garden of Lucid",
         "url": "https://open.spotify.com/album/1ysIsiNZ4iKrrXjVu85wGp"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 210240,
       "name": "Universe",
       "url": "https://open.spotify.com/track/5S5S5oiwdGS4ppgXmF2w0V"
+    },
+    {
+      "added_at": "2022-09-06 16:38:11",
+      "album": {
+        "name": "tdbn",
+        "url": "https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "duration_ms": 202146,
+      "name": "lejos",
+      "url": "https://open.spotify.com/track/2ehzgbfJuRUvEB4Pkm4Ic1"
     },
     {
       "added_at": "2022-09-06 16:38:11",
@@ -599,22 +599,6 @@
     {
       "added_at": "2022-09-06 16:38:11",
       "album": {
-        "name": "Ag\u00fcita",
-        "url": "https://open.spotify.com/album/51kUBshxb3ZJGICNNwJUcH"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Garz\u00f3n-Montano",
-          "url": "https://open.spotify.com/artist/1R4GxRuSVTPSb6oy56SPST"
-        }
-      ],
-      "duration_ms": 221877,
-      "name": "Someone",
-      "url": "https://open.spotify.com/track/15M7rUKWxfg4YZwczUhlkb"
-    },
-    {
-      "added_at": "2022-09-06 16:38:11",
-      "album": {
         "name": "Pastel",
         "url": "https://open.spotify.com/album/3QTnx5ztLT9Ub46YFKWKh3"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 129281,
       "name": "Pastel",
       "url": "https://open.spotify.com/track/6Xur7MWcS7np7zm3ijJO0w"
+    },
+    {
+      "added_at": "2022-09-06 16:38:11",
+      "album": {
+        "name": "Ag\u00fcita",
+        "url": "https://open.spotify.com/album/51kUBshxb3ZJGICNNwJUcH"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Garz\u00f3n-Montano",
+          "url": "https://open.spotify.com/artist/1R4GxRuSVTPSb6oy56SPST"
+        }
+      ],
+      "duration_ms": 221877,
+      "name": "Someone",
+      "url": "https://open.spotify.com/track/15M7rUKWxfg4YZwczUhlkb"
     },
     {
       "added_at": "2022-09-06 16:38:11",
@@ -731,6 +731,22 @@
     {
       "added_at": "2022-09-06 16:38:11",
       "album": {
+        "name": "Marchita",
+        "url": "https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 207786,
+      "name": "Ser De Ti",
+      "url": "https://open.spotify.com/track/0i9GosFgbI0w0YLM8DLR2u"
+    },
+    {
+      "added_at": "2022-09-06 16:38:11",
+      "album": {
         "name": "Ya no estoy aqu\u00ed",
         "url": "https://open.spotify.com/album/2L2rLbtvGZDkJdSHCAOdh6"
       },
@@ -779,18 +795,18 @@
     {
       "added_at": "2022-09-06 16:38:11",
       "album": {
-        "name": "Marchita",
-        "url": "https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi"
+        "name": "Get Lost In The Music",
+        "url": "https://open.spotify.com/album/4r7qQ7yTsRuVghSurlagxs"
       },
       "artists": [
         {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+          "name": "Ambar Lucid",
+          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
         }
       ],
-      "duration_ms": 207786,
-      "name": "Ser De Ti",
-      "url": "https://open.spotify.com/track/0i9GosFgbI0w0YLM8DLR2u"
+      "duration_ms": 181910,
+      "name": "Un Animal (Divina Existencia)",
+      "url": "https://open.spotify.com/track/23ietpawDh7f4PVAGBJ690"
     },
     {
       "added_at": "2022-09-06 16:38:11",
@@ -831,18 +847,18 @@
     {
       "added_at": "2022-09-06 16:38:11",
       "album": {
-        "name": "Get Lost In The Music",
-        "url": "https://open.spotify.com/album/4r7qQ7yTsRuVghSurlagxs"
+        "name": "Tm\u00ed",
+        "url": "https://open.spotify.com/album/6BFTCcyxGLFBHocDnivQnY"
       },
       "artists": [
         {
-          "name": "Ambar Lucid",
-          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
+          "name": "Katz\u00f9 Oso",
+          "url": "https://open.spotify.com/artist/4tSzEOfCj6LXhaf0jtk4XO"
         }
       ],
-      "duration_ms": 181910,
-      "name": "Un Animal (Divina Existencia)",
-      "url": "https://open.spotify.com/track/23ietpawDh7f4PVAGBJ690"
+      "duration_ms": 156862,
+      "name": "Better With You",
+      "url": "https://open.spotify.com/track/4mW0oRgTmwPGFmpuwbvLud"
     },
     {
       "added_at": "2022-09-06 16:38:11",
@@ -879,18 +895,18 @@
     {
       "added_at": "2022-09-06 16:38:11",
       "album": {
-        "name": "Tm\u00ed",
-        "url": "https://open.spotify.com/album/6BFTCcyxGLFBHocDnivQnY"
+        "name": "Garden of Lucid",
+        "url": "https://open.spotify.com/album/1ysIsiNZ4iKrrXjVu85wGp"
       },
       "artists": [
         {
-          "name": "Katz\u00f9 Oso",
-          "url": "https://open.spotify.com/artist/4tSzEOfCj6LXhaf0jtk4XO"
+          "name": "Ambar Lucid",
+          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
         }
       ],
-      "duration_ms": 156862,
-      "name": "Better With You",
-      "url": "https://open.spotify.com/track/4mW0oRgTmwPGFmpuwbvLud"
+      "duration_ms": 190462,
+      "name": "Cuando",
+      "url": "https://open.spotify.com/track/1tvQDFpAtWhBOJYf5Dvt6j"
     },
     {
       "added_at": "2022-09-06 16:38:11",
@@ -943,22 +959,6 @@
     {
       "added_at": "2022-09-06 16:38:11",
       "album": {
-        "name": "Ag\u00fcita: Remixes",
-        "url": "https://open.spotify.com/album/2AW8yUOeKjNxwkqXU8Cs39"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Garz\u00f3n-Montano",
-          "url": "https://open.spotify.com/artist/1R4GxRuSVTPSb6oy56SPST"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "Flor",
-      "url": "https://open.spotify.com/track/1VGZbTAP1DVkA6Wa8MaqLM"
-    },
-    {
-      "added_at": "2022-09-06 16:38:11",
-      "album": {
         "name": "NTE",
         "url": "https://open.spotify.com/album/7iTTVfzk46Vk4NFaJLksLu"
       },
@@ -975,6 +975,22 @@
     {
       "added_at": "2022-09-06 16:38:11",
       "album": {
+        "name": "Ag\u00fcita: Remixes",
+        "url": "https://open.spotify.com/album/2AW8yUOeKjNxwkqXU8Cs39"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Garz\u00f3n-Montano",
+          "url": "https://open.spotify.com/artist/1R4GxRuSVTPSb6oy56SPST"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "Flor",
+      "url": "https://open.spotify.com/track/1VGZbTAP1DVkA6Wa8MaqLM"
+    },
+    {
+      "added_at": "2022-09-06 16:38:11",
+      "album": {
         "name": "Everlasting",
         "url": "https://open.spotify.com/album/2PQOF8sJwxJODZ4MZ97mYn"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 263080,
       "name": "You Were Bored",
       "url": "https://open.spotify.com/track/2Of13LtT5rNs2Zy8DOIs2E"
-    },
-    {
-      "added_at": "2022-09-06 16:38:11",
-      "album": {
-        "name": "Garden of Lucid",
-        "url": "https://open.spotify.com/album/1ysIsiNZ4iKrrXjVu85wGp"
-      },
-      "artists": [
-        {
-          "name": "Ambar Lucid",
-          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
-        }
-      ],
-      "duration_ms": 190462,
-      "name": "Cuando",
-      "url": "https://open.spotify.com/track/1tvQDFpAtWhBOJYf5Dvt6j"
     },
     {
       "added_at": "2022-09-06 16:38:11",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2022-09-06 16:38:11",
       "album": {
-        "name": "Rey",
-        "url": "https://open.spotify.com/album/5jU98FSu18DrwrXBCkGJpN"
-      },
-      "artists": [
-        {
-          "name": "Camila Moreno",
-          "url": "https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H"
-        }
-      ],
-      "duration_ms": 231186,
-      "name": "Rey",
-      "url": "https://open.spotify.com/track/1D3FF8btq4bHzmDpU04fwH"
-    },
-    {
-      "added_at": "2022-09-06 16:38:11",
-      "album": {
         "name": "Hear Me Out",
         "url": "https://open.spotify.com/album/0NNKUMVScFPOCdXiFIV2Ev"
       },
@@ -1159,6 +1143,22 @@
     {
       "added_at": "2022-09-06 16:38:11",
       "album": {
+        "name": "DUALITY",
+        "url": "https://open.spotify.com/album/1mHk73bDEklzG02PtK4lv4"
+      },
+      "artists": [
+        {
+          "name": "Tatiana Hazel",
+          "url": "https://open.spotify.com/artist/5NvrRBcK6hRuboOL0CtZXU"
+        }
+      ],
+      "duration_ms": 222226,
+      "name": "IN MY ROOM!",
+      "url": "https://open.spotify.com/track/74XGMhW9YScgVpeVJmzKqj"
+    },
+    {
+      "added_at": "2022-09-06 16:38:11",
+      "album": {
         "name": "Coachella",
         "url": "https://open.spotify.com/album/77e8Fef7cxAiWngOEq8enQ"
       },
@@ -1171,6 +1171,22 @@
       "duration_ms": 200520,
       "name": "Coachella",
       "url": "https://open.spotify.com/track/2OmMwHDXy86Y9qPvRqiFMA"
+    },
+    {
+      "added_at": "2022-09-06 16:38:11",
+      "album": {
+        "name": "Rey",
+        "url": "https://open.spotify.com/album/5jU98FSu18DrwrXBCkGJpN"
+      },
+      "artists": [
+        {
+          "name": "Camila Moreno",
+          "url": "https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H"
+        }
+      ],
+      "duration_ms": 231186,
+      "name": "Rey",
+      "url": "https://open.spotify.com/track/1D3FF8btq4bHzmDpU04fwH"
     },
     {
       "added_at": "2022-09-06 16:38:11",
@@ -1191,22 +1207,6 @@
     {
       "added_at": "2022-09-06 16:38:11",
       "album": {
-        "name": "DUALITY",
-        "url": "https://open.spotify.com/album/1mHk73bDEklzG02PtK4lv4"
-      },
-      "artists": [
-        {
-          "name": "Tatiana Hazel",
-          "url": "https://open.spotify.com/artist/5NvrRBcK6hRuboOL0CtZXU"
-        }
-      ],
-      "duration_ms": 222226,
-      "name": "IN MY ROOM!",
-      "url": "https://open.spotify.com/track/74XGMhW9YScgVpeVJmzKqj"
-    },
-    {
-      "added_at": "2022-09-06 16:38:11",
-      "album": {
         "name": "CARISMA",
         "url": "https://open.spotify.com/album/62TQ8Q7gaq5T4eUzYr3YXQ"
       },
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2022-09-06 16:38:11",
       "album": {
-        "name": "Month One",
-        "url": "https://open.spotify.com/album/76wb7lJiY2I3doiGroK4YE"
-      },
-      "artists": [
-        {
-          "name": "Marr\u00f3n",
-          "url": "https://open.spotify.com/artist/1uC16BtFc6ihhylNzDo4x5"
-        }
-      ],
-      "duration_ms": 310090,
-      "name": "Week 4",
-      "url": "https://open.spotify.com/track/1FP5gWiRMjw3vfvvbf241v"
-    },
-    {
-      "added_at": "2022-09-06 16:38:11",
-      "album": {
         "name": "Marchita",
         "url": "https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 202360,
       "name": "Te Guardo",
       "url": "https://open.spotify.com/track/7c0Au5lLOgO8HmeCRNHoOb"
+    },
+    {
+      "added_at": "2022-09-06 16:38:11",
+      "album": {
+        "name": "Month One",
+        "url": "https://open.spotify.com/album/76wb7lJiY2I3doiGroK4YE"
+      },
+      "artists": [
+        {
+          "name": "Marr\u00f3n",
+          "url": "https://open.spotify.com/artist/1uC16BtFc6ihhylNzDo4x5"
+        }
+      ],
+      "duration_ms": 310090,
+      "name": "Week 4",
+      "url": "https://open.spotify.com/track/1FP5gWiRMjw3vfvvbf241v"
     },
     {
       "added_at": "2022-09-06 16:38:11",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2022-09-06 16:38:11",
       "album": {
-        "name": "PARIS",
-        "url": "https://open.spotify.com/album/7K5qtRioGQTedUi5FVEyX4"
-      },
-      "artists": [
-        {
-          "name": "Salt Cathedral",
-          "url": "https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP"
-        }
-      ],
-      "duration_ms": 198573,
-      "name": "PARIS",
-      "url": "https://open.spotify.com/track/6RxORxiqBquB74RPHTbx0F"
-    },
-    {
-      "added_at": "2022-09-06 16:38:11",
-      "album": {
         "name": "Canta",
         "url": "https://open.spotify.com/album/3RoPVCstBakWHHls5HEoKp"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 213186,
       "name": "Colors",
       "url": "https://open.spotify.com/track/4S86HrFNj1b7vL0oY4QGao"
+    },
+    {
+      "added_at": "2022-09-06 16:38:11",
+      "album": {
+        "name": "PARIS",
+        "url": "https://open.spotify.com/album/7K5qtRioGQTedUi5FVEyX4"
+      },
+      "artists": [
+        {
+          "name": "Salt Cathedral",
+          "url": "https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP"
+        }
+      ],
+      "duration_ms": 198573,
+      "name": "PARIS",
+      "url": "https://open.spotify.com/track/6RxORxiqBquB74RPHTbx0F"
     },
     {
       "added_at": "2022-09-06 16:38:11",
@@ -1399,18 +1399,18 @@
     {
       "added_at": "2022-09-06 16:38:11",
       "album": {
-        "name": "\u00bfYpqsp?",
-        "url": "https://open.spotify.com/album/2uhxgkK5p7FmO1KQ0IPjmX"
+        "name": "I Don't Mind",
+        "url": "https://open.spotify.com/album/7JsJXXMqaP7uDhSCs63sd9"
       },
       "artists": [
         {
-          "name": "Como Las Movies",
-          "url": "https://open.spotify.com/artist/6GXCmKUYqrkqzwKAe5U67v"
+          "name": "RARRI BLANCO",
+          "url": "https://open.spotify.com/artist/1n4e1x8i4mKDSYWBiOtm6U"
         }
       ],
-      "duration_ms": 272511,
-      "name": "\u00bfYpqsp?",
-      "url": "https://open.spotify.com/track/0llXdaOFchJsMrPJTikF9D"
+      "duration_ms": 216844,
+      "name": "I Don't Mind",
+      "url": "https://open.spotify.com/track/3P1TNAPSbEcNWCUpBiRiaj"
     },
     {
       "added_at": "2022-09-06 16:38:11",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2022-09-06 16:38:11",
       "album": {
+        "name": "\u00bfYpqsp?",
+        "url": "https://open.spotify.com/album/2uhxgkK5p7FmO1KQ0IPjmX"
+      },
+      "artists": [
+        {
+          "name": "Como Las Movies",
+          "url": "https://open.spotify.com/artist/6GXCmKUYqrkqzwKAe5U67v"
+        }
+      ],
+      "duration_ms": 272511,
+      "name": "\u00bfYpqsp?",
+      "url": "https://open.spotify.com/track/0llXdaOFchJsMrPJTikF9D"
+    },
+    {
+      "added_at": "2022-09-06 16:38:11",
+      "album": {
         "name": "Better Than This",
         "url": "https://open.spotify.com/album/5fvNHqH5OcWu55dUAi03qP"
       },
@@ -1443,22 +1459,6 @@
       "duration_ms": 164535,
       "name": "Better Than This",
       "url": "https://open.spotify.com/track/72QD8GncVMD1DdHOtTjDM5"
-    },
-    {
-      "added_at": "2022-09-06 16:38:11",
-      "album": {
-        "name": "I Don't Mind",
-        "url": "https://open.spotify.com/album/7JsJXXMqaP7uDhSCs63sd9"
-      },
-      "artists": [
-        {
-          "name": "RARRI BLANCO",
-          "url": "https://open.spotify.com/artist/1n4e1x8i4mKDSYWBiOtm6U"
-        }
-      ],
-      "duration_ms": 216844,
-      "name": "I Don't Mind",
-      "url": "https://open.spotify.com/track/3P1TNAPSbEcNWCUpBiRiaj"
     },
     {
       "added_at": "2022-09-06 16:38:11",
@@ -1495,6 +1495,22 @@
     {
       "added_at": "2022-09-06 16:38:11",
       "album": {
+        "name": "Canta",
+        "url": "https://open.spotify.com/album/3RoPVCstBakWHHls5HEoKp"
+      },
+      "artists": [
+        {
+          "name": "Amo Amo",
+          "url": "https://open.spotify.com/artist/6IXFZ8obsCsz6YcPuPwSSm"
+        }
+      ],
+      "duration_ms": 231973,
+      "name": "Missed Connection",
+      "url": "https://open.spotify.com/track/5g5vA6ILBex9HxckYqNzHA"
+    },
+    {
+      "added_at": "2022-09-06 16:38:11",
+      "album": {
         "name": "Tormenta",
         "url": "https://open.spotify.com/album/35c6RFSwT57u84wDbLX4c0"
       },
@@ -1523,22 +1539,6 @@
       "duration_ms": 171628,
       "name": "Yo Creo en el Amor",
       "url": "https://open.spotify.com/track/7dZ72UcLeePwDC56oMzEtz"
-    },
-    {
-      "added_at": "2022-09-06 16:38:11",
-      "album": {
-        "name": "Canta",
-        "url": "https://open.spotify.com/album/3RoPVCstBakWHHls5HEoKp"
-      },
-      "artists": [
-        {
-          "name": "Amo Amo",
-          "url": "https://open.spotify.com/artist/6IXFZ8obsCsz6YcPuPwSSm"
-        }
-      ],
-      "duration_ms": 231973,
-      "name": "Missed Connection",
-      "url": "https://open.spotify.com/track/5g5vA6ILBex9HxckYqNzHA"
     },
     {
       "added_at": "2022-09-06 16:38:11",

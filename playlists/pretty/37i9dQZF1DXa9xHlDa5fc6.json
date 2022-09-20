@@ -1,12 +1,12 @@
 {
   "description": "unwind with these alternative favorites.",
-  "num_followers": 415164,
+  "num_followers": 415228,
   "original_name": "License To Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMwMDg2MCwwMDAwMDAwMDMwOGExZjM4ODhlOTBlYmRlNjc5NDVmZDFjZjFlZTMw",
+  "snapshot_id": "MTY2MzMwMDg2MCwwMDAwMDAwMDFmMjk1YjZlNDkwYjIwYzU2ODlhZTRmYTk0NjBkM2U2",
   "tracks": [
     {
       "added_at": "2022-09-16 04:01:00",
@@ -851,6 +851,22 @@
     {
       "added_at": "2022-09-16 04:01:00",
       "album": {
+        "name": "twelvefour",
+        "url": "https://open.spotify.com/album/1f3jCFgt3cXyaPr854eQ2t"
+      },
+      "artists": [
+        {
+          "name": "The Paper Kites",
+          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
+        }
+      ],
+      "duration_ms": 223520,
+      "name": "Electric Indigo",
+      "url": "https://open.spotify.com/track/1erXDiGCnmUQvG6DZRqpuM"
+    },
+    {
+      "added_at": "2022-09-16 04:01:00",
+      "album": {
         "name": "I've Never Been To LA",
         "url": "https://open.spotify.com/album/3Ct1O772WdBCY6Cv7q9JAd"
       },
@@ -871,38 +887,6 @@
     {
       "added_at": "2022-09-16 04:01:00",
       "album": {
-        "name": "Falling In",
-        "url": "https://open.spotify.com/album/59ZFxwkLZ1vUJJVqHTdXEU"
-      },
-      "artists": [
-        {
-          "name": "Inhaler",
-          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
-        }
-      ],
-      "duration_ms": 315491,
-      "name": "Fade Into You",
-      "url": "https://open.spotify.com/track/0v55XuHDYNj4ELPzpRnNo0"
-    },
-    {
-      "added_at": "2022-09-16 04:01:00",
-      "album": {
-        "name": "twelvefour",
-        "url": "https://open.spotify.com/album/1f3jCFgt3cXyaPr854eQ2t"
-      },
-      "artists": [
-        {
-          "name": "The Paper Kites",
-          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
-        }
-      ],
-      "duration_ms": 223520,
-      "name": "Electric Indigo",
-      "url": "https://open.spotify.com/track/1erXDiGCnmUQvG6DZRqpuM"
-    },
-    {
-      "added_at": "2022-09-16 04:01:00",
-      "album": {
         "name": "The Days We Had",
         "url": "https://open.spotify.com/album/3zRcLPFlbstom1vCWT3y9r"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 245386,
       "name": "Something Here",
       "url": "https://open.spotify.com/track/4d2jmClFslZKu3lbDFKgez"
+    },
+    {
+      "added_at": "2022-09-16 04:01:00",
+      "album": {
+        "name": "Falling In",
+        "url": "https://open.spotify.com/album/59ZFxwkLZ1vUJJVqHTdXEU"
+      },
+      "artists": [
+        {
+          "name": "Inhaler",
+          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
+        }
+      ],
+      "duration_ms": 315491,
+      "name": "Fade Into You",
+      "url": "https://open.spotify.com/track/0v55XuHDYNj4ELPzpRnNo0"
     },
     {
       "added_at": "2022-09-16 04:01:00",
@@ -951,22 +951,6 @@
     {
       "added_at": "2022-09-16 04:01:00",
       "album": {
-        "name": "Yellow",
-        "url": "https://open.spotify.com/album/46x6iizcB1N1WdwHO7EO7e"
-      },
-      "artists": [
-        {
-          "name": "Tegan and Sara",
-          "url": "https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH"
-        }
-      ],
-      "duration_ms": 228466,
-      "name": "Yellow",
-      "url": "https://open.spotify.com/track/3AsPDfysPpXHXm8JK85F3W"
-    },
-    {
-      "added_at": "2022-09-16 04:01:00",
-      "album": {
         "name": "Nothing But Thieves (Deluxe)",
         "url": "https://open.spotify.com/album/3q4BkDV5B7sczFcfrIl2a2"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 232360,
       "name": "Graveyard Whistling",
       "url": "https://open.spotify.com/track/3VOrtLsn6VBoqfcB8BqIU0"
+    },
+    {
+      "added_at": "2022-09-16 04:01:00",
+      "album": {
+        "name": "Yellow",
+        "url": "https://open.spotify.com/album/46x6iizcB1N1WdwHO7EO7e"
+      },
+      "artists": [
+        {
+          "name": "Tegan and Sara",
+          "url": "https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH"
+        }
+      ],
+      "duration_ms": 228466,
+      "name": "Yellow",
+      "url": "https://open.spotify.com/track/3AsPDfysPpXHXm8JK85F3W"
     },
     {
       "added_at": "2022-09-16 04:01:00",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2022-09-16 04:01:00",
       "album": {
-        "name": "Shadow Boxing",
-        "url": "https://open.spotify.com/album/2ClkPaYrHeaHGxiiSaMoyA"
-      },
-      "artists": [
-        {
-          "name": "Vundabar",
-          "url": "https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6"
-        }
-      ],
-      "duration_ms": 262346,
-      "name": "Time",
-      "url": "https://open.spotify.com/track/5OSMmIX3QvBW5wrChEujmZ"
-    },
-    {
-      "added_at": "2022-09-16 04:01:00",
-      "album": {
         "name": "Pastlife",
         "url": "https://open.spotify.com/album/2uEcfaomYrfuwGz4ikMU8a"
       },
@@ -1083,18 +1067,18 @@
     {
       "added_at": "2022-09-16 04:01:00",
       "album": {
-        "name": "Fruit",
-        "url": "https://open.spotify.com/album/7sgoUuA9bA0lJYSw1PgbkT"
+        "name": "Shadowboxer",
+        "url": "https://open.spotify.com/album/1lozs5nIWjppJZWFEnfGlV"
       },
       "artists": [
         {
-          "name": "Oliver Sim",
-          "url": "https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm"
+          "name": "Mansionair",
+          "url": "https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s"
         }
       ],
-      "duration_ms": 204240,
-      "name": "Fruit",
-      "url": "https://open.spotify.com/track/5n3NzdPWuSsRbYEObAdXqr"
+      "duration_ms": 272680,
+      "name": "Easier",
+      "url": "https://open.spotify.com/track/59yTEzjOYeugvF9WKAvONs"
     },
     {
       "added_at": "2022-09-16 04:01:00",
@@ -1111,6 +1095,22 @@
       "duration_ms": 224343,
       "name": "Just Say When (Version 2.0)",
       "url": "https://open.spotify.com/track/4JtUz0ZcInSokkKBalijhd"
+    },
+    {
+      "added_at": "2022-09-16 04:01:00",
+      "album": {
+        "name": "Fruit",
+        "url": "https://open.spotify.com/album/7sgoUuA9bA0lJYSw1PgbkT"
+      },
+      "artists": [
+        {
+          "name": "Oliver Sim",
+          "url": "https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm"
+        }
+      ],
+      "duration_ms": 204240,
+      "name": "Fruit",
+      "url": "https://open.spotify.com/track/5n3NzdPWuSsRbYEObAdXqr"
     },
     {
       "added_at": "2022-09-16 04:01:00",
@@ -1191,22 +1191,6 @@
       "duration_ms": 270053,
       "name": "The World Ender",
       "url": "https://open.spotify.com/track/3NNimGud58iHka1LHkda6D"
-    },
-    {
-      "added_at": "2022-09-16 04:01:00",
-      "album": {
-        "name": "Shadowboxer",
-        "url": "https://open.spotify.com/album/1lozs5nIWjppJZWFEnfGlV"
-      },
-      "artists": [
-        {
-          "name": "Mansionair",
-          "url": "https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s"
-        }
-      ],
-      "duration_ms": 272680,
-      "name": "Easier",
-      "url": "https://open.spotify.com/track/59yTEzjOYeugvF9WKAvONs"
     },
     {
       "added_at": "2022-09-16 04:01:00",
@@ -1359,22 +1343,6 @@
     {
       "added_at": "2022-09-16 04:01:00",
       "album": {
-        "name": "Nausea",
-        "url": "https://open.spotify.com/album/19BaCTH1mnqE9rWbZSvNYU"
-      },
-      "artists": [
-        {
-          "name": "Craft Spells",
-          "url": "https://open.spotify.com/artist/16lg8y62dC3J6ok1pNAbFJ"
-        }
-      ],
-      "duration_ms": 263691,
-      "name": "Komorebi",
-      "url": "https://open.spotify.com/track/6giBkfHez7G866LZqjyIhx"
-    },
-    {
-      "added_at": "2022-09-16 04:01:00",
-      "album": {
         "name": "Help Me to Feel Again",
         "url": "https://open.spotify.com/album/49C5Ln1TXkkl8h8CQjp12A"
       },
@@ -1387,6 +1355,22 @@
       "duration_ms": 262383,
       "name": "Help Me to Feel Again",
       "url": "https://open.spotify.com/track/5dIrRgtvRJQlOHvLdAew1p"
+    },
+    {
+      "added_at": "2022-09-16 04:01:00",
+      "album": {
+        "name": "Nausea",
+        "url": "https://open.spotify.com/album/19BaCTH1mnqE9rWbZSvNYU"
+      },
+      "artists": [
+        {
+          "name": "Craft Spells",
+          "url": "https://open.spotify.com/artist/16lg8y62dC3J6ok1pNAbFJ"
+        }
+      ],
+      "duration_ms": 263691,
+      "name": "Komorebi",
+      "url": "https://open.spotify.com/track/6giBkfHez7G866LZqjyIhx"
     },
     {
       "added_at": "2022-09-16 04:01:00",
@@ -1487,22 +1471,6 @@
     {
       "added_at": "2022-09-16 04:01:00",
       "album": {
-        "name": "Can You Feel The Sun",
-        "url": "https://open.spotify.com/album/3GLchSPLUNW5y5Dd09uNNq"
-      },
-      "artists": [
-        {
-          "name": "MISSIO",
-          "url": "https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS"
-        }
-      ],
-      "duration_ms": 286342,
-      "name": "Can You Feel The Sun",
-      "url": "https://open.spotify.com/track/2DZqu0ju4GPs4nJXm1XrQ1"
-    },
-    {
-      "added_at": "2022-09-16 04:01:00",
-      "album": {
         "name": "Sunlit Youth",
         "url": "https://open.spotify.com/album/2qiPY1CqHGexT4yWrQ5uX0"
       },
@@ -1515,6 +1483,22 @@
       "duration_ms": 233520,
       "name": "Fountain Of Youth",
       "url": "https://open.spotify.com/track/46exzPPGwXU9Xcoz5u618b"
+    },
+    {
+      "added_at": "2022-09-16 04:01:00",
+      "album": {
+        "name": "Can You Feel The Sun",
+        "url": "https://open.spotify.com/album/3GLchSPLUNW5y5Dd09uNNq"
+      },
+      "artists": [
+        {
+          "name": "MISSIO",
+          "url": "https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS"
+        }
+      ],
+      "duration_ms": 286342,
+      "name": "Can You Feel The Sun",
+      "url": "https://open.spotify.com/track/2DZqu0ju4GPs4nJXm1XrQ1"
     },
     {
       "added_at": "2022-09-16 04:01:00",
@@ -1599,6 +1583,54 @@
     {
       "added_at": "2022-09-16 04:01:00",
       "album": {
+        "name": "Shadowboxer",
+        "url": "https://open.spotify.com/album/1lozs5nIWjppJZWFEnfGlV"
+      },
+      "artists": [
+        {
+          "name": "Mansionair",
+          "url": "https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s"
+        }
+      ],
+      "duration_ms": 202694,
+      "name": "Astronaut (Something About Your Love)",
+      "url": "https://open.spotify.com/track/61c96X4Th7oYdSDxIOEV3k"
+    },
+    {
+      "added_at": "2022-09-16 04:01:00",
+      "album": {
+        "name": "Sunlit Youth",
+        "url": "https://open.spotify.com/album/2qiPY1CqHGexT4yWrQ5uX0"
+      },
+      "artists": [
+        {
+          "name": "Local Natives",
+          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
+        }
+      ],
+      "duration_ms": 223493,
+      "name": "Past Lives",
+      "url": "https://open.spotify.com/track/2kEpNkZOPdKQbQS65mmEn5"
+    },
+    {
+      "added_at": "2022-09-16 04:01:00",
+      "album": {
+        "name": "I See You",
+        "url": "https://open.spotify.com/album/3dDqhWFE1ev9y7mnkEEG1p"
+      },
+      "artists": [
+        {
+          "name": "MISSIO",
+          "url": "https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS"
+        }
+      ],
+      "duration_ms": 228735,
+      "name": "I See You",
+      "url": "https://open.spotify.com/track/3EqHFfCSbX4Z1pX8JQ0c0r"
+    },
+    {
+      "added_at": "2022-09-16 04:01:00",
+      "album": {
         "name": "It's Depression (feat. Middle Part)",
         "url": "https://open.spotify.com/album/71tpQtJhXuTp5sYYWasvwW"
       },
@@ -1631,38 +1663,6 @@
       "duration_ms": 241866,
       "name": "Turn Your Love",
       "url": "https://open.spotify.com/track/2OE1yF5x0xDjjsC5CYArz2"
-    },
-    {
-      "added_at": "2022-09-16 04:01:00",
-      "album": {
-        "name": "I See You",
-        "url": "https://open.spotify.com/album/3dDqhWFE1ev9y7mnkEEG1p"
-      },
-      "artists": [
-        {
-          "name": "MISSIO",
-          "url": "https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS"
-        }
-      ],
-      "duration_ms": 228735,
-      "name": "I See You",
-      "url": "https://open.spotify.com/track/3EqHFfCSbX4Z1pX8JQ0c0r"
-    },
-    {
-      "added_at": "2022-09-16 04:01:00",
-      "album": {
-        "name": "Sunlit Youth",
-        "url": "https://open.spotify.com/album/2qiPY1CqHGexT4yWrQ5uX0"
-      },
-      "artists": [
-        {
-          "name": "Local Natives",
-          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
-        }
-      ],
-      "duration_ms": 223493,
-      "name": "Past Lives",
-      "url": "https://open.spotify.com/track/2kEpNkZOPdKQbQS65mmEn5"
     },
     {
       "added_at": "2022-09-16 04:01:00",
@@ -1711,22 +1711,6 @@
       "duration_ms": 215693,
       "name": "Nearer My God",
       "url": "https://open.spotify.com/track/1tSVf4MEdh8kVwKCmZw6uc"
-    },
-    {
-      "added_at": "2022-09-16 04:01:00",
-      "album": {
-        "name": "Shadowboxer",
-        "url": "https://open.spotify.com/album/1lozs5nIWjppJZWFEnfGlV"
-      },
-      "artists": [
-        {
-          "name": "Mansionair",
-          "url": "https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s"
-        }
-      ],
-      "duration_ms": 202694,
-      "name": "Astronaut (Something About Your Love)",
-      "url": "https://open.spotify.com/track/61c96X4Th7oYdSDxIOEV3k"
     },
     {
       "added_at": "2022-09-16 04:01:00",
@@ -1843,18 +1827,18 @@
     {
       "added_at": "2022-09-16 04:01:00",
       "album": {
-        "name": "Dear Me",
-        "url": "https://open.spotify.com/album/0qklq3waVgaH4eNeO19ZQY"
+        "name": "Youth is Only Ever Fun in Retrospect",
+        "url": "https://open.spotify.com/album/3Hua29YXoJu25qVEhmssFb"
       },
       "artists": [
         {
-          "name": "OWEL",
-          "url": "https://open.spotify.com/artist/3RrcX2SqUoy1et8LXNZv4S"
+          "name": "Sundara Karma",
+          "url": "https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP"
         }
       ],
-      "duration_ms": 274148,
-      "name": "Too Young to Fall in Love",
-      "url": "https://open.spotify.com/track/3wmtNax868lLyQPbBy36BP"
+      "duration_ms": 362693,
+      "name": "Happy Family",
+      "url": "https://open.spotify.com/track/41JKvaaTrlNggstXrYagZ4"
     },
     {
       "added_at": "2022-09-16 04:01:00",
@@ -1875,18 +1859,18 @@
     {
       "added_at": "2022-09-16 04:01:00",
       "album": {
-        "name": "Youth is Only Ever Fun in Retrospect",
-        "url": "https://open.spotify.com/album/3Hua29YXoJu25qVEhmssFb"
+        "name": "Dear Me",
+        "url": "https://open.spotify.com/album/0qklq3waVgaH4eNeO19ZQY"
       },
       "artists": [
         {
-          "name": "Sundara Karma",
-          "url": "https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP"
+          "name": "OWEL",
+          "url": "https://open.spotify.com/artist/3RrcX2SqUoy1et8LXNZv4S"
         }
       ],
-      "duration_ms": 362693,
-      "name": "Happy Family",
-      "url": "https://open.spotify.com/track/41JKvaaTrlNggstXrYagZ4"
+      "duration_ms": 274148,
+      "name": "Too Young to Fall in Love",
+      "url": "https://open.spotify.com/track/3wmtNax868lLyQPbBy36BP"
     },
     {
       "added_at": "2022-09-16 04:01:00",
@@ -2003,18 +1987,18 @@
     {
       "added_at": "2022-09-16 04:01:00",
       "album": {
-        "name": "Heavy Heart",
-        "url": "https://open.spotify.com/album/0J97gh6EZ7bqsqq4IeGe68"
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/6tw7TyC4sZMrEomXECGqrd"
       },
       "artists": [
         {
-          "name": "Bartees Strange",
-          "url": "https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG"
+          "name": "Betcha",
+          "url": "https://open.spotify.com/artist/3pT3KTodKJRyqpxoXINfQh"
         }
       ],
-      "duration_ms": 263946,
-      "name": "Heavy Heart",
-      "url": "https://open.spotify.com/track/4ax7gFJPsJlE5RYX8Cg78s"
+      "duration_ms": 260293,
+      "name": "Coincidental",
+      "url": "https://open.spotify.com/track/3pdaoKvvkDRW5ed0LM2LBe"
     },
     {
       "added_at": "2022-09-16 04:01:00",
@@ -2031,6 +2015,22 @@
       "duration_ms": 196512,
       "name": "Minimum Wage",
       "url": "https://open.spotify.com/track/1Cgin6oAvA4hvqmRvnRR1v"
+    },
+    {
+      "added_at": "2022-09-16 04:01:00",
+      "album": {
+        "name": "Heavy Heart",
+        "url": "https://open.spotify.com/album/0J97gh6EZ7bqsqq4IeGe68"
+      },
+      "artists": [
+        {
+          "name": "Bartees Strange",
+          "url": "https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG"
+        }
+      ],
+      "duration_ms": 263946,
+      "name": "Heavy Heart",
+      "url": "https://open.spotify.com/track/4ax7gFJPsJlE5RYX8Cg78s"
     }
   ],
   "unique_name": "License To Chill",

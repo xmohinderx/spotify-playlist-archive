@@ -1,12 +1,12 @@
 {
   "description": "Cool vibes from the African continent.",
-  "num_followers": 13648,
+  "num_followers": 13654,
   "original_name": "Afrocentric",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjcxNTgxMCwwMDAwMDAwMGE5ZWFmYmY1YzU5ZjY4ZmM3YTAxNGMyOGQ4OTEwODI4",
+  "snapshot_id": "MTY2MzU3MjkyOSwwMDAwMDAwMDY1ZDI5OWY0YTA2MGY4ZGMxNDI1M2JjYTU4NjNmMzAw",
   "tracks": [
     {
       "added_at": "2022-07-25 06:09:23",
@@ -301,6 +301,22 @@
       "url": "https://open.spotify.com/track/3FskQrDXcY24ur2fCvz35O"
     },
     {
+      "added_at": "2022-09-19 07:35:29",
+      "album": {
+        "name": "Aisha's Sun",
+        "url": "https://open.spotify.com/album/5pmpSBeVv0GaCCXHHlqKYt"
+      },
+      "artists": [
+        {
+          "name": "Kirani Ayat",
+          "url": "https://open.spotify.com/artist/1fFrD70weJrj1mnHPWiVx9"
+        }
+      ],
+      "duration_ms": 169549,
+      "name": "Ina Jin",
+      "url": "https://open.spotify.com/track/5sMl6iTfwS97ZxsuZNpwro"
+    },
+    {
       "added_at": "2022-08-12 05:49:15",
       "album": {
         "name": "Do For Me (feat. YKB & Alana Maria)",
@@ -355,26 +371,6 @@
       "duration_ms": 169031,
       "name": "safe haven",
       "url": "https://open.spotify.com/track/7EEinxDxDsRX3AIIJ026TZ"
-    },
-    {
-      "added_at": "2022-07-28 23:00:00",
-      "album": {
-        "name": "Multitude",
-        "url": "https://open.spotify.com/album/6EwTLRHMROD853Kv1lAMex"
-      },
-      "artists": [
-        {
-          "name": "Stromae",
-          "url": "https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR"
-        },
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-        }
-      ],
-      "duration_ms": 187072,
-      "name": "Mon amour (with Camila Cabello)",
-      "url": "https://open.spotify.com/track/0DTEFwaPFY812t6uUH5i7P"
     },
     {
       "added_at": "2022-02-03 23:02:00",

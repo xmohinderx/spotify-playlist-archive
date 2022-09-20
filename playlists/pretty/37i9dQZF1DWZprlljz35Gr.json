@@ -1,12 +1,12 @@
 {
   "description": "Bluesy blips and blops",
-  "num_followers": 4375,
+  "num_followers": 4389,
   "original_name": "Bluestronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2NzMyMCwwMDAwMDAwMGU3OGVlZjM5OGU5ODdkZmY1Yzk3NTZlNDM1NWE5NGJl",
+  "snapshot_id": "MTY1OTA2NzMyMCwwMDAwMDAwMGQ2ZmNhOTBjM2YxZmY4N2U5OGFmODgyOTFiMTRhMmM4",
   "tracks": [
     {
       "added_at": "2020-12-01 05:01:00",
@@ -231,22 +231,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Funk from the Trunk",
-        "url": "https://open.spotify.com/album/3HA988sMUDSHmW0i7L5Wzl"
-      },
-      "artists": [
-        {
-          "name": "Basement Freaks",
-          "url": "https://open.spotify.com/artist/77OQMkKBvHUwYyRCv6ossJ"
-        }
-      ],
-      "duration_ms": 203456,
-      "name": "A Blues Thang",
-      "url": "https://open.spotify.com/track/1xuBWp4HuSE6Yast5lmVPv"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Human (Deluxe)",
         "url": "https://open.spotify.com/album/1rMmiDKa8V5H9yYTPAbLng"
       },
@@ -263,6 +247,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "Funk from the Trunk",
+        "url": "https://open.spotify.com/album/3HA988sMUDSHmW0i7L5Wzl"
+      },
+      "artists": [
+        {
+          "name": "Basement Freaks",
+          "url": "https://open.spotify.com/artist/77OQMkKBvHUwYyRCv6ossJ"
+        }
+      ],
+      "duration_ms": 203456,
+      "name": "A Blues Thang",
+      "url": "https://open.spotify.com/track/1xuBWp4HuSE6Yast5lmVPv"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "Malfunktionality Part One",
         "url": "https://open.spotify.com/album/0kwv8HIDkVZ5yXaUhtiMh2"
       },
@@ -275,22 +275,6 @@
       "duration_ms": 258776,
       "name": "A Blues Malfunktion",
       "url": "https://open.spotify.com/track/5Ce88giAKr6fK4wj5wztGw"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "The Well",
-        "url": "https://open.spotify.com/album/7mOXwktqE2HJ8EjBnfnBhQ"
-      },
-      "artists": [
-        {
-          "name": "Scarecrow",
-          "url": "https://open.spotify.com/artist/4c4n12jAnviXAyqzsyRCLT"
-        }
-      ],
-      "duration_ms": 253000,
-      "name": "Code Name Loppsi - My Lowd demo",
-      "url": "https://open.spotify.com/track/2oyCx8VFX4bVV7IeLKz1wh"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -331,6 +315,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "The Well",
+        "url": "https://open.spotify.com/album/7mOXwktqE2HJ8EjBnfnBhQ"
+      },
+      "artists": [
+        {
+          "name": "Scarecrow",
+          "url": "https://open.spotify.com/artist/4c4n12jAnviXAyqzsyRCLT"
+        }
+      ],
+      "duration_ms": 253000,
+      "name": "Code Name Loppsi - My Lowd demo",
+      "url": "https://open.spotify.com/track/2oyCx8VFX4bVV7IeLKz1wh"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "This Is For Everyone",
         "url": "https://open.spotify.com/album/1QHlV8vwF7QQjYXO7J2sS7"
       },
@@ -351,22 +351,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Deja Booze",
-        "url": "https://open.spotify.com/album/7Lt0wInlc4Axf66ch2WyD2"
-      },
-      "artists": [
-        {
-          "name": "Charlie Beale",
-          "url": "https://open.spotify.com/artist/5BO1F2wBHUCoX02ZdPP23o"
-        }
-      ],
-      "duration_ms": 217125,
-      "name": "Tale of A.G. Smith",
-      "url": "https://open.spotify.com/track/5aurQvInAVl4pdWzCXvlWM"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Human (Deluxe)",
         "url": "https://open.spotify.com/album/1rMmiDKa8V5H9yYTPAbLng"
       },
@@ -383,8 +367,24 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Come on In",
-        "url": "https://open.spotify.com/album/6QyepVbPWpjsQZAEgqmDsJ"
+        "name": "Deja Booze",
+        "url": "https://open.spotify.com/album/7Lt0wInlc4Axf66ch2WyD2"
+      },
+      "artists": [
+        {
+          "name": "Charlie Beale",
+          "url": "https://open.spotify.com/artist/5BO1F2wBHUCoX02ZdPP23o"
+        }
+      ],
+      "duration_ms": 217125,
+      "name": "Tale of A.G. Smith",
+      "url": "https://open.spotify.com/track/5aurQvInAVl4pdWzCXvlWM"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "A Bothered Mind",
+        "url": "https://open.spotify.com/album/19ox7nB02O5mCJtjqzoqGm"
       },
       "artists": [
         {
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip"
         }
       ],
-      "duration_ms": 268226,
-      "name": "Shuck Dub",
-      "url": "https://open.spotify.com/track/7lNr4eqSP7MCUCbDUGHWRo"
+      "duration_ms": 209640,
+      "name": "Shake 'Em on Down",
+      "url": "https://open.spotify.com/track/1yxCax1l0O8p3lik3WvamC"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -455,22 +455,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Left Behind",
-        "url": "https://open.spotify.com/album/08SSscS6DCQ4QOp4plJcOF"
-      },
-      "artists": [
-        {
-          "name": "Scarecrow",
-          "url": "https://open.spotify.com/artist/4c4n12jAnviXAyqzsyRCLT"
-        }
-      ],
-      "duration_ms": 199040,
-      "name": "FaiBless",
-      "url": "https://open.spotify.com/track/0B7b7hgIRnthz1vbeLGxy4"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Heavy On My Heart",
         "url": "https://open.spotify.com/album/55tjr8iorhH3OJUlT60Emf"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 210430,
       "name": "Heavy On My Heart",
       "url": "https://open.spotify.com/track/3EaoAfUtmDpe3DEtmEmCQf"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Left Behind",
+        "url": "https://open.spotify.com/album/08SSscS6DCQ4QOp4plJcOF"
+      },
+      "artists": [
+        {
+          "name": "Scarecrow",
+          "url": "https://open.spotify.com/artist/4c4n12jAnviXAyqzsyRCLT"
+        }
+      ],
+      "duration_ms": 199040,
+      "name": "FaiBless",
+      "url": "https://open.spotify.com/track/0B7b7hgIRnthz1vbeLGxy4"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -507,38 +507,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Prehistoric Rhythm",
-        "url": "https://open.spotify.com/album/4iPWsm1A64k2xzydc0SmWc"
-      },
-      "artists": [
-        {
-          "name": "MY BABY",
-          "url": "https://open.spotify.com/artist/0c103ZyWDycpfVxR0lNrjm"
-        }
-      ],
-      "duration_ms": 398110,
-      "name": "Electrified",
-      "url": "https://open.spotify.com/track/3LAyeN6fnP8Hxd9uNszLsp"
-    },
-    {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
-        "name": "Reasons",
-        "url": "https://open.spotify.com/album/4eehdx5DtW9A6RvfLaVirQ"
-      },
-      "artists": [
-        {
-          "name": "PARTY SHIRT",
-          "url": "https://open.spotify.com/artist/5QsM7I7aDux4F7lm8aWBNA"
-        }
-      ],
-      "duration_ms": 300000,
-      "name": "Reasons",
-      "url": "https://open.spotify.com/track/4hGyxsLEwbuwlLsxunnMoT"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Dog 'n' Bone",
         "url": "https://open.spotify.com/album/3pnmwntXRlUrBVvxabteEa"
       },
@@ -559,8 +527,24 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "A Bothered Mind",
-        "url": "https://open.spotify.com/album/19ox7nB02O5mCJtjqzoqGm"
+        "name": "Prehistoric Rhythm",
+        "url": "https://open.spotify.com/album/4iPWsm1A64k2xzydc0SmWc"
+      },
+      "artists": [
+        {
+          "name": "MY BABY",
+          "url": "https://open.spotify.com/artist/0c103ZyWDycpfVxR0lNrjm"
+        }
+      ],
+      "duration_ms": 398110,
+      "name": "Electrified",
+      "url": "https://open.spotify.com/track/3LAyeN6fnP8Hxd9uNszLsp"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Come on In",
+        "url": "https://open.spotify.com/album/6QyepVbPWpjsQZAEgqmDsJ"
       },
       "artists": [
         {
@@ -568,9 +552,25 @@
           "url": "https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip"
         }
       ],
-      "duration_ms": 209640,
-      "name": "Shake 'Em on Down",
-      "url": "https://open.spotify.com/track/1yxCax1l0O8p3lik3WvamC"
+      "duration_ms": 268226,
+      "name": "Shuck Dub",
+      "url": "https://open.spotify.com/track/7lNr4eqSP7MCUCbDUGHWRo"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
+        "name": "Reasons",
+        "url": "https://open.spotify.com/album/4eehdx5DtW9A6RvfLaVirQ"
+      },
+      "artists": [
+        {
+          "name": "PARTY SHIRT",
+          "url": "https://open.spotify.com/artist/5QsM7I7aDux4F7lm8aWBNA"
+        }
+      ],
+      "duration_ms": 300000,
+      "name": "Reasons",
+      "url": "https://open.spotify.com/track/4hGyxsLEwbuwlLsxunnMoT"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -623,6 +623,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "Come on In",
+        "url": "https://open.spotify.com/album/6QyepVbPWpjsQZAEgqmDsJ"
+      },
+      "artists": [
+        {
+          "name": "R.L. Burnside",
+          "url": "https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip"
+        }
+      ],
+      "duration_ms": 178800,
+      "name": "Please Don't Stay",
+      "url": "https://open.spotify.com/track/5QCKfr2ckdL5kf9wCQtzUu"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "Precious Time",
         "url": "https://open.spotify.com/album/2jmrU6wflfVSJwZGI3Z8H8"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 255840,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/3NcNF2tvTqGgnHkhqNK8cX"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Hard Grind",
-        "url": "https://open.spotify.com/album/3T2bRUO66PXyXR97uiXQeY"
-      },
-      "artists": [
-        {
-          "name": "Little Axe",
-          "url": "https://open.spotify.com/artist/0ZLV7I1vDpjO5IIDTYfeGJ"
-        }
-      ],
-      "duration_ms": 243973,
-      "name": "Midnight Dream",
-      "url": "https://open.spotify.com/track/0v1JpYiFmnpgbxxzh5Oqul"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -703,6 +703,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "Hard Grind",
+        "url": "https://open.spotify.com/album/3T2bRUO66PXyXR97uiXQeY"
+      },
+      "artists": [
+        {
+          "name": "Little Axe",
+          "url": "https://open.spotify.com/artist/0ZLV7I1vDpjO5IIDTYfeGJ"
+        }
+      ],
+      "duration_ms": 243973,
+      "name": "Midnight Dream",
+      "url": "https://open.spotify.com/track/0v1JpYiFmnpgbxxzh5Oqul"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "Who Else!",
         "url": "https://open.spotify.com/album/0RkgsbkvvlIsCaoRZK40Dm"
       },
@@ -719,22 +735,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Come on In",
-        "url": "https://open.spotify.com/album/6QyepVbPWpjsQZAEgqmDsJ"
-      },
-      "artists": [
-        {
-          "name": "R.L. Burnside",
-          "url": "https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip"
-        }
-      ],
-      "duration_ms": 178800,
-      "name": "Please Don't Stay",
-      "url": "https://open.spotify.com/track/5QCKfr2ckdL5kf9wCQtzUu"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Crossroads",
         "url": "https://open.spotify.com/album/7pPTrDwqzewb4h6cqJjl3w"
       },
@@ -747,22 +747,6 @@
       "duration_ms": 141333,
       "name": "Crossroads",
       "url": "https://open.spotify.com/track/6i5tylayRLCg5LrgUFqg4Z"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Come on Jump Right In",
-        "url": "https://open.spotify.com/album/4YZOzLozsvdyka8cBHZNAy"
-      },
-      "artists": [
-        {
-          "name": "Akolo",
-          "url": "https://open.spotify.com/artist/5n31j1CydRWUtmfct89c5J"
-        }
-      ],
-      "duration_ms": 210461,
-      "name": "Come on Jump Right In",
-      "url": "https://open.spotify.com/track/1dqcArKoJmhj8cjg26Mu5Q"
     },
     {
       "added_at": "2022-03-01 20:08:23",
@@ -819,22 +803,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Delta Disco",
-        "url": "https://open.spotify.com/album/3SDDZMhIy357UN63KjpJP8"
-      },
-      "artists": [
-        {
-          "name": "Mississippi Big Beat",
-          "url": "https://open.spotify.com/artist/430DMjWZpbtg2tt64FynYH"
-        }
-      ],
-      "duration_ms": 319893,
-      "name": "Idol (Should I Know)",
-      "url": "https://open.spotify.com/track/676LOrrQHW9WOz8VL5LYVC"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "A Different Beat",
         "url": "https://open.spotify.com/album/3FgB6MV0HuR9Ie8057mamx"
       },
@@ -851,6 +819,38 @@
       "duration_ms": 738306,
       "name": "Can't Help Myself - E-Z Rollers Remix",
       "url": "https://open.spotify.com/track/2e8IYlqaTSYo7zNR0DTi5m"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Come on Jump Right In",
+        "url": "https://open.spotify.com/album/4YZOzLozsvdyka8cBHZNAy"
+      },
+      "artists": [
+        {
+          "name": "Akolo",
+          "url": "https://open.spotify.com/artist/5n31j1CydRWUtmfct89c5J"
+        }
+      ],
+      "duration_ms": 210461,
+      "name": "Come on Jump Right In",
+      "url": "https://open.spotify.com/track/1dqcArKoJmhj8cjg26Mu5Q"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Delta Disco",
+        "url": "https://open.spotify.com/album/3SDDZMhIy357UN63KjpJP8"
+      },
+      "artists": [
+        {
+          "name": "Mississippi Big Beat",
+          "url": "https://open.spotify.com/artist/430DMjWZpbtg2tt64FynYH"
+        }
+      ],
+      "duration_ms": 319893,
+      "name": "Idol (Should I Know)",
+      "url": "https://open.spotify.com/track/676LOrrQHW9WOz8VL5LYVC"
     }
   ],
   "unique_name": "Bluestronica",

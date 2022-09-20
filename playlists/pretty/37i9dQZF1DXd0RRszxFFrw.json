@@ -1,12 +1,12 @@
 {
   "description": "Dulces rasgueos de cuerdas para acompa\u00f1ar tu velada",
-  "num_followers": 41728,
+  "num_followers": 41746,
   "original_name": "Cena con Guitarras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQ0MDg2MCwwMDAwMDAwMDJjZGMyZGQxYjMwZGQyNTdiZDA5YWQ2YzJkNTZkZjE5",
+  "snapshot_id": "MTY1ODQ0MDg2MCwwMDAwMDAwMGFhMWE4NWFhMzIxYzBlMWRlY2Y2YzllZGE3YTJlNmZh",
   "tracks": [
     {
       "added_at": "2022-07-21 22:01:00",
@@ -459,22 +459,6 @@
     {
       "added_at": "2022-07-21 22:01:00",
       "album": {
-        "name": "Bella Donna",
-        "url": "https://open.spotify.com/album/2TMmjsWz9oQ0WMcNOsZAd4"
-      },
-      "artists": [
-        {
-          "name": "Esteban Delano",
-          "url": "https://open.spotify.com/artist/1L2SxyOV2Cl8bHGXKDZOrN"
-        }
-      ],
-      "duration_ms": 139760,
-      "name": "Bella Donna",
-      "url": "https://open.spotify.com/track/27eMQ8uYoK3trTKkSqqNh3"
-    },
-    {
-      "added_at": "2022-07-21 22:01:00",
-      "album": {
         "name": "Cucchi, Flavio: American Portraits",
         "url": "https://open.spotify.com/album/1NL9JuaGb5u8EgVerSuFmA"
       },
@@ -495,22 +479,18 @@
     {
       "added_at": "2022-07-21 22:01:00",
       "album": {
-        "name": "Guitarras Latinas",
-        "url": "https://open.spotify.com/album/6z1QMvoOBwozy4CvEqNPsD"
+        "name": "Bella Donna",
+        "url": "https://open.spotify.com/album/2TMmjsWz9oQ0WMcNOsZAd4"
       },
       "artists": [
         {
-          "name": "Antonio Garcia Isaac",
-          "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
-        },
-        {
-          "name": "Roberto Aguilar",
-          "url": "https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV"
+          "name": "Esteban Delano",
+          "url": "https://open.spotify.com/artist/1L2SxyOV2Cl8bHGXKDZOrN"
         }
       ],
-      "duration_ms": 241412,
-      "name": "Bossa de Leblon",
-      "url": "https://open.spotify.com/track/3Ct1gUurY7Wp0UAylTAnxW"
+      "duration_ms": 139760,
+      "name": "Bella Donna",
+      "url": "https://open.spotify.com/track/27eMQ8uYoK3trTKkSqqNh3"
     },
     {
       "added_at": "2022-07-21 22:01:00",
@@ -527,6 +507,26 @@
       "duration_ms": 148716,
       "name": "Ponte Veccio",
       "url": "https://open.spotify.com/track/391SJ2oXg8taceaR89iDK1"
+    },
+    {
+      "added_at": "2022-07-21 22:01:00",
+      "album": {
+        "name": "Guitarras Latinas",
+        "url": "https://open.spotify.com/album/6z1QMvoOBwozy4CvEqNPsD"
+      },
+      "artists": [
+        {
+          "name": "Antonio Garcia Isaac",
+          "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
+        },
+        {
+          "name": "Roberto Aguilar",
+          "url": "https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV"
+        }
+      ],
+      "duration_ms": 241412,
+      "name": "Bossa de Leblon",
+      "url": "https://open.spotify.com/track/3Ct1gUurY7Wp0UAylTAnxW"
     },
     {
       "added_at": "2022-07-21 22:01:00",
@@ -603,30 +603,6 @@
     {
       "added_at": "2022-07-21 22:01:00",
       "album": {
-        "name": "Trios",
-        "url": "https://open.spotify.com/album/5uJX8PvDhVkPlUhfbMr4XT"
-      },
-      "artists": [
-        {
-          "name": "Antonio Garcia Isaac",
-          "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
-        },
-        {
-          "name": "Roberto Aguilar",
-          "url": "https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV"
-        },
-        {
-          "name": "Felipe Gutierrez",
-          "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "Cuando Me Lo Pidas",
-      "url": "https://open.spotify.com/track/1A7mAX9YwOxJKDfI2wxvR9"
-    },
-    {
-      "added_at": "2022-07-21 22:01:00",
-      "album": {
         "name": "Habichuela en Rama",
         "url": "https://open.spotify.com/album/6Qrojzu25Wq5JIdRQC6iaB"
       },
@@ -691,22 +667,26 @@
     {
       "added_at": "2022-07-21 22:01:00",
       "album": {
-        "name": "Estrellita",
-        "url": "https://open.spotify.com/album/46d09XEe1Pvxdoo2qKfUWz"
+        "name": "Trios",
+        "url": "https://open.spotify.com/album/5uJX8PvDhVkPlUhfbMr4XT"
       },
       "artists": [
         {
-          "name": "Manuel Ponce",
-          "url": "https://open.spotify.com/artist/3sam97auWZppQpYU1HWNxK"
+          "name": "Antonio Garcia Isaac",
+          "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
         },
         {
-          "name": "Timo Korhonen",
-          "url": "https://open.spotify.com/artist/0lQAmXMjaOpe3l6Kj3JmoT"
+          "name": "Roberto Aguilar",
+          "url": "https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV"
+        },
+        {
+          "name": "Felipe Gutierrez",
+          "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
         }
       ],
-      "duration_ms": 131182,
-      "name": "Estrellita",
-      "url": "https://open.spotify.com/track/6umRoceuzdE9HFGAuXNLu0"
+      "duration_ms": 175000,
+      "name": "Cuando Me Lo Pidas",
+      "url": "https://open.spotify.com/track/1A7mAX9YwOxJKDfI2wxvR9"
     },
     {
       "added_at": "2022-07-21 22:01:00",
@@ -723,6 +703,26 @@
       "duration_ms": 181498,
       "name": "Black Orpheus",
       "url": "https://open.spotify.com/track/4CciHxY48WF8liFZJoRV8Z"
+    },
+    {
+      "added_at": "2022-07-21 22:01:00",
+      "album": {
+        "name": "Estrellita",
+        "url": "https://open.spotify.com/album/46d09XEe1Pvxdoo2qKfUWz"
+      },
+      "artists": [
+        {
+          "name": "Manuel Ponce",
+          "url": "https://open.spotify.com/artist/3sam97auWZppQpYU1HWNxK"
+        },
+        {
+          "name": "Timo Korhonen",
+          "url": "https://open.spotify.com/artist/0lQAmXMjaOpe3l6Kj3JmoT"
+        }
+      ],
+      "duration_ms": 131182,
+      "name": "Estrellita",
+      "url": "https://open.spotify.com/track/6umRoceuzdE9HFGAuXNLu0"
     },
     {
       "added_at": "2022-07-21 22:01:00",
@@ -811,22 +811,6 @@
     {
       "added_at": "2022-07-21 22:01:00",
       "album": {
-        "name": "A Brand New World",
-        "url": "https://open.spotify.com/album/1yYlElFV3Xk2tkBJCMEgJo"
-      },
-      "artists": [
-        {
-          "name": "Eric Josef",
-          "url": "https://open.spotify.com/artist/29w4oGLyEXCDDyaCvKTtfN"
-        }
-      ],
-      "duration_ms": 142560,
-      "name": "Bossa Bravado",
-      "url": "https://open.spotify.com/track/6okyzUui51pNetfcXT40zu"
-    },
-    {
-      "added_at": "2022-07-21 22:01:00",
-      "album": {
         "name": "Cinema Latino Vol. 1",
         "url": "https://open.spotify.com/album/7kNKfwn3JRIPCYXpk2VF4B"
       },
@@ -907,6 +891,22 @@
     {
       "added_at": "2022-07-21 22:01:00",
       "album": {
+        "name": "A Brand New World",
+        "url": "https://open.spotify.com/album/1yYlElFV3Xk2tkBJCMEgJo"
+      },
+      "artists": [
+        {
+          "name": "Eric Josef",
+          "url": "https://open.spotify.com/artist/29w4oGLyEXCDDyaCvKTtfN"
+        }
+      ],
+      "duration_ms": 142560,
+      "name": "Bossa Bravado",
+      "url": "https://open.spotify.com/track/6okyzUui51pNetfcXT40zu"
+    },
+    {
+      "added_at": "2022-07-21 22:01:00",
+      "album": {
         "name": "Siena",
         "url": "https://open.spotify.com/album/7uBcvHDsSXkR6m5CSHqCFJ"
       },
@@ -939,18 +939,18 @@
     {
       "added_at": "2022-07-21 22:01:00",
       "album": {
-        "name": "Ni\u00f1o Josele",
-        "url": "https://open.spotify.com/album/79653plha39OpqECC3HCln"
+        "name": "Parque De Mar\u00eda Luisa",
+        "url": "https://open.spotify.com/album/30Z7x1x9CxJASsEq7mZ2CI"
       },
       "artists": [
         {
-          "name": "Nino Josele",
-          "url": "https://open.spotify.com/artist/7KPoRAFSOQXa0jX1Pad5wT"
+          "name": "Rafael Riqueni",
+          "url": "https://open.spotify.com/artist/5eye4DlE12OQi676MhZGM4"
         }
       ],
-      "duration_ms": 245466,
-      "name": "Madera Negra",
-      "url": "https://open.spotify.com/track/4KIDmG6SAq3EQWytkk0gu7"
+      "duration_ms": 274310,
+      "name": "Monte Gurug\u00fa",
+      "url": "https://open.spotify.com/track/1F33layvcNu2YUzQQFNvWW"
     },
     {
       "added_at": "2022-07-21 22:01:00",
@@ -971,22 +971,6 @@
     {
       "added_at": "2022-07-21 22:01:00",
       "album": {
-        "name": "Parque De Mar\u00eda Luisa",
-        "url": "https://open.spotify.com/album/30Z7x1x9CxJASsEq7mZ2CI"
-      },
-      "artists": [
-        {
-          "name": "Rafael Riqueni",
-          "url": "https://open.spotify.com/artist/5eye4DlE12OQi676MhZGM4"
-        }
-      ],
-      "duration_ms": 274310,
-      "name": "Monte Gurug\u00fa",
-      "url": "https://open.spotify.com/track/1F33layvcNu2YUzQQFNvWW"
-    },
-    {
-      "added_at": "2022-07-21 22:01:00",
-      "album": {
         "name": "Manuel Quiroga Llora la Guitarra",
         "url": "https://open.spotify.com/album/7KX0vUmUh8qwNNOrX7JtEN"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 238973,
       "name": "Ojos Verdes",
       "url": "https://open.spotify.com/track/0JwdbwB4wIOIus3NbNbyET"
+    },
+    {
+      "added_at": "2022-07-21 22:01:00",
+      "album": {
+        "name": "Ni\u00f1o Josele",
+        "url": "https://open.spotify.com/album/79653plha39OpqECC3HCln"
+      },
+      "artists": [
+        {
+          "name": "Nino Josele",
+          "url": "https://open.spotify.com/artist/7KPoRAFSOQXa0jX1Pad5wT"
+        }
+      ],
+      "duration_ms": 245466,
+      "name": "Madera Negra",
+      "url": "https://open.spotify.com/track/4KIDmG6SAq3EQWytkk0gu7"
     },
     {
       "added_at": "2022-07-21 22:01:00",
@@ -1115,38 +1115,6 @@
     {
       "added_at": "2022-07-21 22:01:00",
       "album": {
-        "name": "The Beatles for Classical Guitar",
-        "url": "https://open.spotify.com/album/0rcyFsJ0wcEo7rxntomDiD"
-      },
-      "artists": [
-        {
-          "name": "Notis Mavroudis",
-          "url": "https://open.spotify.com/artist/3O3JrDqhfzJ6kOdvIEJwXK"
-        }
-      ],
-      "duration_ms": 165626,
-      "name": "Girl",
-      "url": "https://open.spotify.com/track/51jdU0DN5BQctErrG44HVX"
-    },
-    {
-      "added_at": "2022-07-21 22:01:00",
-      "album": {
-        "name": "Ilha Do Amor",
-        "url": "https://open.spotify.com/album/3ulttIgCTm7Pcm9Soypv43"
-      },
-      "artists": [
-        {
-          "name": "Ailani Akoni",
-          "url": "https://open.spotify.com/artist/266csn0Mn42WuJ1j8rGB5k"
-        }
-      ],
-      "duration_ms": 147179,
-      "name": "Ilha Do Amor",
-      "url": "https://open.spotify.com/track/0UXh0DcW5J0QSzeq2oORbi"
-    },
-    {
-      "added_at": "2022-07-21 22:01:00",
-      "album": {
         "name": "From Green to Red",
         "url": "https://open.spotify.com/album/7BWUbPO42m6UEir7C5yY7R"
       },
@@ -1163,6 +1131,22 @@
     {
       "added_at": "2022-07-21 22:01:00",
       "album": {
+        "name": "The Beatles for Classical Guitar",
+        "url": "https://open.spotify.com/album/0rcyFsJ0wcEo7rxntomDiD"
+      },
+      "artists": [
+        {
+          "name": "Notis Mavroudis",
+          "url": "https://open.spotify.com/artist/3O3JrDqhfzJ6kOdvIEJwXK"
+        }
+      ],
+      "duration_ms": 165626,
+      "name": "Girl",
+      "url": "https://open.spotify.com/track/51jdU0DN5BQctErrG44HVX"
+    },
+    {
+      "added_at": "2022-07-21 22:01:00",
+      "album": {
         "name": "Spanish Guitar EP",
         "url": "https://open.spotify.com/album/5qLOiuTrmvrpmPxBuGtaNk"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 132446,
       "name": "Adelita Mazurka",
       "url": "https://open.spotify.com/track/2gsOZwrJXlumVqfCJYkHEf"
+    },
+    {
+      "added_at": "2022-07-21 22:01:00",
+      "album": {
+        "name": "Ilha Do Amor",
+        "url": "https://open.spotify.com/album/3ulttIgCTm7Pcm9Soypv43"
+      },
+      "artists": [
+        {
+          "name": "Ailani Akoni",
+          "url": "https://open.spotify.com/artist/266csn0Mn42WuJ1j8rGB5k"
+        }
+      ],
+      "duration_ms": 147179,
+      "name": "Ilha Do Amor",
+      "url": "https://open.spotify.com/track/0UXh0DcW5J0QSzeq2oORbi"
     },
     {
       "added_at": "2022-07-21 22:01:00",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2022-07-21 22:01:00",
       "album": {
-        "name": "Hablando Con Mi Guitarra",
-        "url": "https://open.spotify.com/album/4gJ1Gbn76E8Q5lEryqRGS0"
-      },
-      "artists": [
-        {
-          "name": "Paco Infante",
-          "url": "https://open.spotify.com/artist/5Kkc0wgmIcj0FX2Bs8uHht"
-        }
-      ],
-      "duration_ms": 255529,
-      "name": "Noches de Bohemia - Guitar Version",
-      "url": "https://open.spotify.com/track/2rtScPfFTDz0yMhCA0kdge"
-    },
-    {
-      "added_at": "2022-07-21 22:01:00",
-      "album": {
         "name": "Parque De Mar\u00eda Luisa",
         "url": "https://open.spotify.com/album/30Z7x1x9CxJASsEq7mZ2CI"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 134578,
       "name": "Tiempos Pasados",
       "url": "https://open.spotify.com/track/52Y2oYV8SXt292vc4I7NFO"
+    },
+    {
+      "added_at": "2022-07-21 22:01:00",
+      "album": {
+        "name": "Hablando Con Mi Guitarra",
+        "url": "https://open.spotify.com/album/4gJ1Gbn76E8Q5lEryqRGS0"
+      },
+      "artists": [
+        {
+          "name": "Paco Infante",
+          "url": "https://open.spotify.com/artist/5Kkc0wgmIcj0FX2Bs8uHht"
+        }
+      ],
+      "duration_ms": 255529,
+      "name": "Noches de Bohemia - Guitar Version",
+      "url": "https://open.spotify.com/track/2rtScPfFTDz0yMhCA0kdge"
     },
     {
       "added_at": "2022-07-21 22:01:00",

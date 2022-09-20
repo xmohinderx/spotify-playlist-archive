@@ -1,12 +1,12 @@
 {
   "description": "Love, sex, and heartbreak. Listen to the official playlist for Heartbreak High, now on Netflix.\n",
-  "num_followers": 1890,
+  "num_followers": 2626,
   "original_name": "Heartbreak High: Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzM0OTU4MCwwMDAwMDAwMGI0YmU4OTdmMjIwY2VjMTczNjI3MmVmY2FkOWY2YTIy",
+  "snapshot_id": "MTY2MzYxODMxMywwMDAwMDAwMDUzMzg3NmUzZmU5NjgzNGEyZjNjY2NkZWNjZWY5Yjcz",
   "tracks": [
     {
       "added_at": "2022-09-15 03:21:47",
@@ -583,6 +583,26 @@
       "duration_ms": 194078,
       "name": "Higher",
       "url": "https://open.spotify.com/track/7MUhRZD1UNEYk4PPq2wSw3"
+    },
+    {
+      "added_at": "2022-09-19 20:11:53",
+      "album": {
+        "name": "GLYPH",
+        "url": "https://open.spotify.com/album/01ukt6uUhOmr6N9TvAsUrE"
+      },
+      "artists": [
+        {
+          "name": "Teether",
+          "url": "https://open.spotify.com/artist/4rWywJgjoeVMO8LY87xYZo"
+        },
+        {
+          "name": "Kuya Neil",
+          "url": "https://open.spotify.com/artist/2VOung9TCgKNkNNnRklTAY"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Carafe",
+      "url": "https://open.spotify.com/track/0K56JS9Kt8IY4h58LyO04g"
     },
     {
       "added_at": "2022-09-15 03:21:47",

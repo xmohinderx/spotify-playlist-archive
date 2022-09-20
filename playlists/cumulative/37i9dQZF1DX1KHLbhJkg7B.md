@@ -4,7 +4,7 @@
 
 > Unique versions of hit songs by other artists\. Cover: Ashley McBryde
 
-257 songs - 15 hr 59 min - [published](https://open.spotify.com/playlist/5FG6pwctW4uulQzMoAra0G)
+258 songs - 16 hr 3 min - [published](https://open.spotify.com/playlist/5FG6pwctW4uulQzMoAra0G)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [If I Can't Have You](https://open.spotify.com/track/2qmlRn3crX6OxoJuoDJMyq) | [Sara Evans](https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG) | [Copy That](https://open.spotify.com/album/2hWqaMLhAvTQRD85eNO10H) | 3:10 | 2021-12-10 | 2022-07-28 |
 | [If I Needed You](https://open.spotify.com/track/4VtVQjEOaRzZQK1fnqNwNa) | [Rachel Bradshaw](https://open.spotify.com/artist/6b62EC4kRXUMm8JbMhl3I4), [Jamey Johnson](https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8) | [Rachel Bradshaw](https://open.spotify.com/album/0V2PkvIAZN1VMW6wNPHGUp) | 3:12 | 2022-01-07 |  |
 | [If I Were A Boy](https://open.spotify.com/track/31ULoPWd5SMnGsLEL9YQgh) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Remember Her Name](https://open.spotify.com/album/29WY4kjzCtXpWrYyywIUnD) | 4:04 | 2022-05-06 | 2022-07-06 |
+| [If We Were Vampires](https://open.spotify.com/track/64PHZr3ufu3RxD9pE0ajJM) | [Motel Drive](https://open.spotify.com/artist/504hnDW2yy7YSCbyExbKmD), [Poor Mans Poison](https://open.spotify.com/artist/0YHgnSkV3S5mvSSCTRWDi5) | [If We Were Vampires](https://open.spotify.com/album/5DkrmJBS8N5ZAdEbQnrIBK) | 4:13 | 2022-09-16 |  |
 | [If You Don't Know Me By Now](https://open.spotify.com/track/2XG6hHbJu8339ARntHGMUh) | [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [Everlasting](https://open.spotify.com/album/3ftsdPLG1aVrGMOEK1WoZB) | 3:31 | 2021-12-10 | 2022-07-22 |
 | [If You Want Love](https://open.spotify.com/track/7pIE9aENmQqoy8yWUr0oiz) | [Jon Langston](https://open.spotify.com/artist/4BANbHDs1IluagTx5eRW2P) | [If You Want Love](https://open.spotify.com/album/16For5G0QIZlxb8Yphrbe0) | 3:24 | 2022-07-08 |  |
 | [In The Air Tonight](https://open.spotify.com/track/6j7MXYyyMQXHStKzBFAUez) | [David Nail](https://open.spotify.com/artist/4DZGvSv2oMkBUnPz67E6z6) | [Uncovered](https://open.spotify.com/album/5hs99gvzSISGOEmncgy853) | 4:29 | 2021-12-10 | 2022-07-29 |
@@ -221,7 +222,7 @@
 | [That's the Way Love Goes](https://open.spotify.com/track/20ZTVyGNlRnmCS1LlRMvEr) | [Ronnie Dunn](https://open.spotify.com/artist/1iLuTmIgxCEiEllDSWkeIy) | [Re\-Dunn](https://open.spotify.com/album/3SgV10W3DzqU9ROOMSpxfo) | 3:02 | 2021-12-10 | 2022-07-29 |
 | [The Bottle Let Me Down](https://open.spotify.com/track/7iAPw5fKsiuwaPappNUpX2) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Rancho Fiesta Sessions](https://open.spotify.com/album/01AWRFHGz9ioWiPcFgqGrv) | 2:45 | 2021-12-10 | 2022-07-28 |
 | [The Chair \- The Bootlegger Sessions](https://open.spotify.com/track/10KMzf7sHmbxdEBGOXeyfn) | [Michael Ray](https://open.spotify.com/artist/6ghiFYcwn2Vzl6K50U0UPz) | [The Chair \(The Bootlegger Sessions\)](https://open.spotify.com/album/35sGt91imrj8GqU6E7EV3v) | 2:46 | 2022-09-16 |  |
-| [The Cowboy Rides Away](https://open.spotify.com/track/4BmTdSr3xoKElUVPJZRdiH) | [Ronnie Dunn](https://open.spotify.com/artist/1iLuTmIgxCEiEllDSWkeIy) | [Re\-Dunn](https://open.spotify.com/album/3SgV10W3DzqU9ROOMSpxfo) | 3:24 | 2021-12-10 |  |
+| [The Cowboy Rides Away](https://open.spotify.com/track/4BmTdSr3xoKElUVPJZRdiH) | [Ronnie Dunn](https://open.spotify.com/artist/1iLuTmIgxCEiEllDSWkeIy) | [Re\-Dunn](https://open.spotify.com/album/3SgV10W3DzqU9ROOMSpxfo) | 3:24 | 2021-12-10 | 2022-09-20 |
 | [The Gambler](https://open.spotify.com/track/1oQnkSQhOQSSPCN0Hb9DCf) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Gone Girl](https://open.spotify.com/album/7z2djJtIKZPZtPeTk2VXFq) | 3:41 | 2022-03-25 | 2022-09-10 |
 | [The Grand Tour](https://open.spotify.com/track/4bsaPI9m6fAtOsNTvfvBEv) | [Tony Jackson](https://open.spotify.com/artist/0jNzk1w9xrAevFLpLtJnCR) | [Tony Jackson](https://open.spotify.com/album/5kRHqz0vKYcg1dzPogMRLK) | 3:09 | 2022-02-04 | 2022-07-28 |
 | [The Joker](https://open.spotify.com/track/0vu6Z3bep8kpcy9O2YExzg) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [McGRAW \(The Ultimate Collection\)](https://open.spotify.com/album/3ytKtBtqdHsj6XzNu0sMCT) | 4:55 | 2021-12-10 | 2022-07-25 |

@@ -4,10 +4,11 @@
 
 > Pop classics and show tunes, sung by legendary classical voices\. Cover: Andrea Bocelli
 
-59 songs - 3 hr 51 min - [published](https://open.spotify.com/playlist/2aqWtg3gFyBEEz7hN86TZv)
+60 songs - 3 hr 55 min - [published](https://open.spotify.com/playlist/2aqWtg3gFyBEEz7hN86TZv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [A Man Without Love](https://open.spotify.com/track/4SlFhuKLrdMxyjP2XXHfuQ) | [Michael Ball](https://open.spotify.com/artist/2MISUlPFrBMRlIcazbEOUI), [Alfie Boe](https://open.spotify.com/artist/3g5gwhWAPLq8MyUcUIsA8j) | [A Man Without Love](https://open.spotify.com/album/6VidERJoBxZm4sPQFkPQvX) | 3:31 | 2022-09-16 |  |
 | [A Million Dreams](https://open.spotify.com/track/3f9MVjyYYUr1EF1FOm7dSF) | [Collabro](https://open.spotify.com/artist/0l1nmcjqNlk9dQHb6H4sLR) | [Love Like This](https://open.spotify.com/album/5qCkKRgXcY4O67RsxdoYbc) | 4:20 | 2021-09-24 |  |
 | [A Thousand Years \(From "The Twilight Saga: Breaking Dawn, Pt\. 1"\)](https://open.spotify.com/track/68CGs1SYzsXs7OMHKWpw0w) | [Collabro](https://open.spotify.com/artist/0l1nmcjqNlk9dQHb6H4sLR) | [Act Two](https://open.spotify.com/album/1LF3HfqmS4DTn4cNabNKzJ) | 4:05 | 2021-09-24 |  |
 | [Adagio](https://open.spotify.com/track/1nKTvd5PQrvh9OJ2UuSfMB) | [Laura Bretan](https://open.spotify.com/artist/0Y6f7SArenwsTGRonkDGj0) | [World I See](https://open.spotify.com/album/0CMAg8EvRIOtvSJKZEKFlQ) | 4:08 | 2021-09-24 |  |

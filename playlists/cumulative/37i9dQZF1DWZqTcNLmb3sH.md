@@ -4,7 +4,7 @@
 
 > Check out the latest hits from Sandalwood!<br/>Cover : Vikrant Rona
 
-360 songs - 22 hr 18 min - [published](https://open.spotify.com/playlist/4XS8hgj742MTIKKrgMGo1Z)
+361 songs - 22 hr 22 min - [published](https://open.spotify.com/playlist/4XS8hgj742MTIKKrgMGo1Z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -278,6 +278,7 @@
 | [Ombatthane Dikku Title Track](https://open.spotify.com/track/2Xci3JNBjaskzWVoASfbAk) | [Nihal Tauro](https://open.spotify.com/artist/64KzOsbd6ajeLLswNgJ8RF) | [Ombatthane Dikku](https://open.spotify.com/album/5mSoumxlRkVC3EpmpwmgEf) | 3:53 | 2022-02-15 | 2022-03-14 |
 | [Omme Nodidare](https://open.spotify.com/track/4jpxCVYpPuIaCDQQcBz0JR) | [Sanjith Hegde](https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v) | [Yellow Board](https://open.spotify.com/album/6fx0pjTzUN4vjRIBqXptcq) | 4:02 | 2021-12-06 | 2022-02-03 |
 | [Onde Ondu Koogige](https://open.spotify.com/track/2TxQ2RapCN2OGvFzZQqPLf) | [Santhosh Venky](https://open.spotify.com/artist/1gpRRYfNURm0XJCyxUuH8Q) | [Gajanana And Gang](https://open.spotify.com/album/5RV7wjMRlhmR3aR4T2sdfw) | 4:06 | 2022-06-13 |  |
+| [Ondondu Hejjegu \(From "Riya"\)](https://open.spotify.com/track/5JBfoRI70WUNrPS7MA8jWg) | [Abhinandhan](https://open.spotify.com/artist/7I4jRMJuvyESgt8UPMoYgU), [Kabase Manjunath](https://open.spotify.com/artist/1PXg9pdHGtuQ2q5O1vcQFo), [B.R\. Hemanth Kumar](https://open.spotify.com/artist/1zQ3bsOrUBBOYRfrj7BOAg) | [Ondondu Hejjegu \(From "Riya"\)](https://open.spotify.com/album/09W69n5N4B3ktNujzusYne) | 3:57 | 2022-09-19 |  |
 | [Ondu Oorali](https://open.spotify.com/track/1FDqsTKCK9WI5PqM0ZZ6Hs) | [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Arjun Janya](https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ) | [Ek Love Ya \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4QOXsn9u91ufIcv50eI90F) | 3:46 | 2022-02-24 | 2022-08-25 |
 | [Ondurinali](https://open.spotify.com/track/0ExIZxPkKAlIRK7rHZrQIq) | [Anuradha Bhat](https://open.spotify.com/artist/7sJSfUsXlD9HT8JxFGXGiY) | [Crush](https://open.spotify.com/album/3Uj9cWwxSfE3Agjkvv7GkL) | 3:16 | 2022-09-16 |  |
 | [Ontiyagi Iruvuda Kalithe \- From "Status"](https://open.spotify.com/track/0wjqdhyREDRmiQR8EUcOSi) | [Chethan Naik](https://open.spotify.com/artist/3DaORH0Tws7WPuMKnQQj3Y), [Manjukavi](https://open.spotify.com/artist/0JIkmpZ4giVDE2OcDknOhT) | [Ontiyagi Iruvuda Kalithe \(From "Status"\)](https://open.spotify.com/album/3igNbTSQ7wnE5yMINur6gn) | 3:32 | 2022-08-29 |  |

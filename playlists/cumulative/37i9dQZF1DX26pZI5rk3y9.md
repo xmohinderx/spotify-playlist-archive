@@ -4,7 +4,7 @@
 
 > Classic music for cooking and eating with friends.
 
-83 songs - 4 hr 30 min - [published](https://open.spotify.com/playlist/3uJsjEzjcEqBc4z4TXxjVT)
+84 songs - 4 hr 32 min - [published](https://open.spotify.com/playlist/3uJsjEzjcEqBc4z4TXxjVT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,8 @@
 | [Farther Up The Road](https://open.spotify.com/track/2hPyG7NMpHAmOrmlSziAx2) | [Bobby "Blue" Bland](https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj) | [I Pity The Fool: The Duke Recordings, Vol\. One](https://open.spotify.com/album/58DNpB9P4aUKPtaTiZmjK6) | 2:57 | 2022-07-08 |  |
 | [Farther Up the Road](https://open.spotify.com/track/3zqOdQ27RgcmJRfnpTTnaP) | [Bobby "Blue" Bland](https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj) | [Blues Masters: I Pity the Fool](https://open.spotify.com/album/0368Em9mbirVITT1NBrtNl) | 2:58 | 2022-05-25 | 2022-07-29 |
 | [Fat Mean ´n´ Greens](https://open.spotify.com/track/3rCLCbDYb6kVCQtYlvaQN9) | [Edgar Hayes](https://open.spotify.com/artist/7LuYKkS2JVhnt6x2HmwK2P) | [Mamblues Vol\. 1, Latin\-Tinged Hipshakers \(Rumba Blues, Boogie Cha and Cool Mambo\)](https://open.spotify.com/album/5jre4242cYyVpLniB1eopP) | 2:26 | 2022-05-25 | 2022-07-29 |
-| [Fat Meat N Greens](https://open.spotify.com/track/6yrgUIAB8XpKEvLL2iIdex) | [Edgar Hayes](https://open.spotify.com/artist/7LuYKkS2JVhnt6x2HmwK2P) | [Without You](https://open.spotify.com/album/1MEwm7p2srd8tw34ZUzsEK) | 2:29 | 2022-07-08 |  |
+| [Fat Meat 'n Greens](https://open.spotify.com/track/4QkHAvGUd8OYR5iiVFyxwu) | [Edgar Hayes](https://open.spotify.com/artist/7LuYKkS2JVhnt6x2HmwK2P) | [Kentuckian Bandleader](https://open.spotify.com/album/3EzfBPui2AEzpw3aEZJFgG) | 2:29 | 2022-09-12 |  |
+| [Fat Meat N Greens](https://open.spotify.com/track/6yrgUIAB8XpKEvLL2iIdex) | [Edgar Hayes](https://open.spotify.com/artist/7LuYKkS2JVhnt6x2HmwK2P) | [Without You](https://open.spotify.com/album/1MEwm7p2srd8tw34ZUzsEK) | 2:29 | 2022-07-08 | 2022-09-20 |
 | [Get The Moon Up](https://open.spotify.com/track/2sbhlXbwJhZXQjwX2F99EZ) | [Daniel Norgren](https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO) | [Horrifying Deatheating Bloodspider](https://open.spotify.com/album/7nHCFdhYDs61JyD7HfNudm) | 2:15 | 2022-05-25 | 2022-07-29 |
 | [Get the Moon Up](https://open.spotify.com/track/3KqVnlFmCcjimw02I4mXvA) | [Daniel Norgren](https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO) | [Horrifying Deatheating Bloodspider](https://open.spotify.com/album/27aht0wSf0h3U05DLMTmYY) | 2:15 | 2022-07-08 |  |
 | [Gimme a Pigfoot and a Bottle of Beer](https://open.spotify.com/track/4eCps1RgnG8Oua8JzxbweS) | [Bessie Smith](https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg) | [The Complete Recordings, Vol\. 5: The Final Chapter](https://open.spotify.com/album/7eQ9VnRlRUSdmMjQM13Rl3) | 3:30 | 2022-05-25 |  |

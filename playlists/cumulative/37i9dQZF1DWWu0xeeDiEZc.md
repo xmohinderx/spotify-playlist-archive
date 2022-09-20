@@ -4,12 +4,13 @@
 
 > Get your kids singing along with this fun playlist! They're sure to know these kid\-friendly classics.
 
-64 songs - 2 hr 25 min - [published](https://open.spotify.com/playlist/73tk3HQ1A5zVZL7BTE95Dd)
+65 songs - 2 hr 28 min - [published](https://open.spotify.com/playlist/73tk3HQ1A5zVZL7BTE95Dd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Whole New World](https://open.spotify.com/track/1hwdPQtFHISvZ9SXMkNrIK) | [Lea Salonga](https://open.spotify.com/artist/1GlMjIezcLwV3OFlX0uXOv), [Brad Kane](https://open.spotify.com/artist/3dAzSJ9lQnJSq5Z0OgDBep), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Aladdin Special Edition](https://open.spotify.com/album/7bt2aty3lUo6Q1Ud8pthRz) | 2:40 | 2022-07-25 |  |
+| [A Whole New World](https://open.spotify.com/track/1hwdPQtFHISvZ9SXMkNrIK) | [Lea Salonga](https://open.spotify.com/artist/1GlMjIezcLwV3OFlX0uXOv), [Brad Kane](https://open.spotify.com/artist/3dAzSJ9lQnJSq5Z0OgDBep), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Aladdin Special Edition](https://open.spotify.com/album/7bt2aty3lUo6Q1Ud8pthRz) | 2:40 | 2022-07-25 | 2022-09-20 |
 | [A Whole New World](https://open.spotify.com/track/506nvAQgHmkGd13ipZuBwo) | [Lea Salonga](https://open.spotify.com/artist/1GlMjIezcLwV3OFlX0uXOv), [Brad Kane](https://open.spotify.com/artist/3dAzSJ9lQnJSq5Z0OgDBep), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Aladdin: Special Edition Soundtrack](https://open.spotify.com/album/1Eq5qk8DnHWGOZT2cAASP2) | 2:40 | 2019-03-06 | 2022-07-29 |
+| [A Whole New World \- Remastered 2022](https://open.spotify.com/track/0k7Shopj669EbywEjsqoqm) | [Brad Kane](https://open.spotify.com/artist/3dAzSJ9lQnJSq5Z0OgDBep), [Lea Salonga](https://open.spotify.com/artist/1GlMjIezcLwV3OFlX0uXOv), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Walt Disney Records The Legacy Collection: Aladdin](https://open.spotify.com/album/2k9FuG5GyW61y2a0j4R3vP) | 2:40 | 2022-07-25 |  |
 | [ABC's](https://open.spotify.com/track/1HVy2hV1wg27NB6LCVBxPi) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn), [Nicky Notes](https://open.spotify.com/artist/46BsCUZeInrbY0IkvQ1OQ1) | [Blippi Tunes, Vol\. 1](https://open.spotify.com/album/2Q6P6UWGxdZxsUZZgzikmJ) | 1:15 | 2021-03-30 | 2022-07-29 |
 | [ABC's](https://open.spotify.com/track/1eSmVO3UxWPfle5XCFzzDf) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn), [Nicky Notes](https://open.spotify.com/artist/46BsCUZeInrbY0IkvQ1OQ1) | [Blippi Tunes, Vol\. 1](https://open.spotify.com/album/4y8tx8PVyNSMZAjVn6OblN) | 1:15 | 2022-07-25 |  |
 | [Apples and Bananas](https://open.spotify.com/track/4SI0hC16YcC5fZaCEY0ue4) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [We're All Fruit Salad!: The Wiggles' Greatest Hits](https://open.spotify.com/album/6ExeBKmXwBqZRRlEDfZmMJ) | 1:55 | 2022-07-25 |  |

@@ -1,12 +1,12 @@
 {
   "description": "The freshest smooth jazz. Cover: Nick Colionne",
-  "num_followers": 35988,
+  "num_followers": 36020,
   "original_name": "Nu-Smooth",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMwMDg2MCwwMDAwMDAwMGE3YTI3M2UzMzZlZDQyNzllOWNhYTFlMDk1MjRlYWFm",
+  "snapshot_id": "MTY2MzMwMDg2MCwwMDAwMDAwMGJhYWE2Zjk3ZDgxMDU0ZWU3YWJjYjliYjNjMTdkNDdh",
   "tracks": [
     {
       "added_at": "2022-08-12 04:02:00",
@@ -93,6 +93,22 @@
       "url": "https://open.spotify.com/track/3Wxtwc8fYISyUwqIRONuzc"
     },
     {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "What You Do To Me",
+        "url": "https://open.spotify.com/album/498VXH5Fae33kH2f8CsPpV"
+      },
+      "artists": [
+        {
+          "name": "Nick Colionne",
+          "url": "https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l"
+        }
+      ],
+      "duration_ms": 297750,
+      "name": "What You Do To Me",
+      "url": "https://open.spotify.com/track/60fLe1NP8QEIAbMc9V4SPq"
+    },
+    {
       "added_at": "2022-04-15 04:02:00",
       "album": {
         "name": "Lavish",
@@ -127,22 +143,6 @@
       "duration_ms": 217151,
       "name": "Foolish Heart",
       "url": "https://open.spotify.com/track/3AiFaW6A7PTMAJoekZ85qq"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
-        "name": "What You Do To Me",
-        "url": "https://open.spotify.com/album/498VXH5Fae33kH2f8CsPpV"
-      },
-      "artists": [
-        {
-          "name": "Nick Colionne",
-          "url": "https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l"
-        }
-      ],
-      "duration_ms": 297750,
-      "name": "What You Do To Me",
-      "url": "https://open.spotify.com/track/60fLe1NP8QEIAbMc9V4SPq"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -217,22 +217,6 @@
       "url": "https://open.spotify.com/track/01T4bEtV47xjJQ2ER7rZj2"
     },
     {
-      "added_at": "2022-05-06 04:02:00",
-      "album": {
-        "name": "Sweet Talk",
-        "url": "https://open.spotify.com/album/5EUUo76pUrle56LBRx17N2"
-      },
-      "artists": [
-        {
-          "name": "Ken Navarro",
-          "url": "https://open.spotify.com/artist/6qA8zAyPYgmtPQtQz2G96a"
-        }
-      ],
-      "duration_ms": 244440,
-      "name": "Sweet Talk",
-      "url": "https://open.spotify.com/track/1qSDVsYoVR0XCx3xINyqi4"
-    },
-    {
       "added_at": "2022-05-13 04:02:00",
       "album": {
         "name": "Workin'",
@@ -247,6 +231,22 @@
       "duration_ms": 246024,
       "name": "Workin'",
       "url": "https://open.spotify.com/track/73PMlacQVhln12IqZi16ep"
+    },
+    {
+      "added_at": "2022-05-06 04:02:00",
+      "album": {
+        "name": "Sweet Talk",
+        "url": "https://open.spotify.com/album/5EUUo76pUrle56LBRx17N2"
+      },
+      "artists": [
+        {
+          "name": "Ken Navarro",
+          "url": "https://open.spotify.com/artist/6qA8zAyPYgmtPQtQz2G96a"
+        }
+      ],
+      "duration_ms": 244440,
+      "name": "Sweet Talk",
+      "url": "https://open.spotify.com/track/1qSDVsYoVR0XCx3xINyqi4"
     },
     {
       "added_at": "2022-05-06 04:02:00",
@@ -433,22 +433,6 @@
       "url": "https://open.spotify.com/track/1P0QSIHqHQVMQXsm7zX1c6"
     },
     {
-      "added_at": "2022-04-15 04:02:00",
-      "album": {
-        "name": "Red Tiger",
-        "url": "https://open.spotify.com/album/2jYih8CJwo4nzuzy5aokwV"
-      },
-      "artists": [
-        {
-          "name": "Blair Bryant",
-          "url": "https://open.spotify.com/artist/1bNvtqK9g0M2hDWRLdwpZq"
-        }
-      ],
-      "duration_ms": 249262,
-      "name": "Relentless",
-      "url": "https://open.spotify.com/track/3S7QaZDPqc14xWObHGVfyk"
-    },
-    {
       "added_at": "2022-07-01 04:02:00",
       "album": {
         "name": "Stride",
@@ -463,6 +447,22 @@
       "duration_ms": 254346,
       "name": "Stride",
       "url": "https://open.spotify.com/track/67WJeEof1aydWU9S7CyRVg"
+    },
+    {
+      "added_at": "2022-04-15 04:02:00",
+      "album": {
+        "name": "Red Tiger",
+        "url": "https://open.spotify.com/album/2jYih8CJwo4nzuzy5aokwV"
+      },
+      "artists": [
+        {
+          "name": "Blair Bryant",
+          "url": "https://open.spotify.com/artist/1bNvtqK9g0M2hDWRLdwpZq"
+        }
+      ],
+      "duration_ms": 249262,
+      "name": "Relentless",
+      "url": "https://open.spotify.com/track/3S7QaZDPqc14xWObHGVfyk"
     },
     {
       "added_at": "2022-05-13 04:02:00",
@@ -565,6 +565,22 @@
       "url": "https://open.spotify.com/track/4AOWSlCyRoSKG0psP8U3ak"
     },
     {
+      "added_at": "2022-02-25 05:02:00",
+      "album": {
+        "name": "Simply Worship",
+        "url": "https://open.spotify.com/album/7o99jciAk5Pr2myTCnMWh9"
+      },
+      "artists": [
+        {
+          "name": "Uriel Vega",
+          "url": "https://open.spotify.com/artist/1m9G79dw6i91jo4o5k6AEg"
+        }
+      ],
+      "duration_ms": 249720,
+      "name": "Way Maker",
+      "url": "https://open.spotify.com/track/5mwRmYIiy0rISoe74f1Hol"
+    },
+    {
       "added_at": "2022-02-18 05:02:00",
       "album": {
         "name": "Think Critically",
@@ -591,22 +607,6 @@
       "duration_ms": 251076,
       "name": "Think Critically",
       "url": "https://open.spotify.com/track/7td9QhTIGCmNMP1UCNIWdp"
-    },
-    {
-      "added_at": "2022-02-25 05:02:00",
-      "album": {
-        "name": "Simply Worship",
-        "url": "https://open.spotify.com/album/7o99jciAk5Pr2myTCnMWh9"
-      },
-      "artists": [
-        {
-          "name": "Uriel Vega",
-          "url": "https://open.spotify.com/artist/1m9G79dw6i91jo4o5k6AEg"
-        }
-      ],
-      "duration_ms": 249720,
-      "name": "Way Maker",
-      "url": "https://open.spotify.com/track/5mwRmYIiy0rISoe74f1Hol"
     },
     {
       "added_at": "2022-01-14 05:01:00",
@@ -793,24 +793,20 @@
       "url": "https://open.spotify.com/track/5gOXsqoOraGd2mqEMj0LIw"
     },
     {
-      "added_at": "2022-04-01 04:02:00",
+      "added_at": "2022-09-09 04:01:00",
       "album": {
-        "name": "SOLO",
-        "url": "https://open.spotify.com/album/0MurAaGHilyDEL78yDIYGA"
+        "name": "Hello Beautiful",
+        "url": "https://open.spotify.com/album/1NXp9ZbxAhtxyMrnIV7PoM"
       },
       "artists": [
         {
-          "name": "Julian Vaughn",
-          "url": "https://open.spotify.com/artist/6NS4Qt4ISw27NC9tIN9jgg"
-        },
-        {
-          "name": "Steve Cole",
-          "url": "https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb"
+          "name": "Blair Bryant",
+          "url": "https://open.spotify.com/artist/1bNvtqK9g0M2hDWRLdwpZq"
         }
       ],
-      "duration_ms": 274096,
-      "name": "Busta Move",
-      "url": "https://open.spotify.com/track/4SHv5Chn9bYy55YtUzwmqF"
+      "duration_ms": 268538,
+      "name": "Hello Beautiful - radio single",
+      "url": "https://open.spotify.com/track/2uhzjs4LLyyQdhCbYWFyFp"
     },
     {
       "added_at": "2022-05-20 04:02:00",
@@ -833,38 +829,6 @@
       "url": "https://open.spotify.com/track/6QZdkQEGmJp4LTpLCIf80U"
     },
     {
-      "added_at": "2022-09-09 04:01:00",
-      "album": {
-        "name": "Hello Beautiful",
-        "url": "https://open.spotify.com/album/1NXp9ZbxAhtxyMrnIV7PoM"
-      },
-      "artists": [
-        {
-          "name": "Blair Bryant",
-          "url": "https://open.spotify.com/artist/1bNvtqK9g0M2hDWRLdwpZq"
-        }
-      ],
-      "duration_ms": 268538,
-      "name": "Hello Beautiful - radio single",
-      "url": "https://open.spotify.com/track/2uhzjs4LLyyQdhCbYWFyFp"
-    },
-    {
-      "added_at": "2022-06-03 04:02:00",
-      "album": {
-        "name": "I Wanna Be Down",
-        "url": "https://open.spotify.com/album/1yaQNIXtz4BhOMzwKBS5IQ"
-      },
-      "artists": [
-        {
-          "name": "Nathan Allen",
-          "url": "https://open.spotify.com/artist/6IRnIHHQ6Fj5bEsGkHH2Ce"
-        }
-      ],
-      "duration_ms": 294252,
-      "name": "I Wanna Be Down",
-      "url": "https://open.spotify.com/track/4cxZb1OMmlLdGoZYTJegDL"
-    },
-    {
       "added_at": "2022-03-18 05:00:00",
       "album": {
         "name": "Chicago Morning",
@@ -879,6 +843,42 @@
       "duration_ms": 260398,
       "name": "Chicago Morning",
       "url": "https://open.spotify.com/track/2E6pU3PbdItkREHN9IYCJb"
+    },
+    {
+      "added_at": "2022-04-01 04:02:00",
+      "album": {
+        "name": "SOLO",
+        "url": "https://open.spotify.com/album/0MurAaGHilyDEL78yDIYGA"
+      },
+      "artists": [
+        {
+          "name": "Julian Vaughn",
+          "url": "https://open.spotify.com/artist/6NS4Qt4ISw27NC9tIN9jgg"
+        },
+        {
+          "name": "Steve Cole",
+          "url": "https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb"
+        }
+      ],
+      "duration_ms": 274096,
+      "name": "Busta Move",
+      "url": "https://open.spotify.com/track/4SHv5Chn9bYy55YtUzwmqF"
+    },
+    {
+      "added_at": "2022-07-01 04:02:00",
+      "album": {
+        "name": "Honest",
+        "url": "https://open.spotify.com/album/4masdetfPsUOpFF2yJ7EVB"
+      },
+      "artists": [
+        {
+          "name": "Ryan Montano",
+          "url": "https://open.spotify.com/artist/60c1zWUz1UhsnemRwziySF"
+        }
+      ],
+      "duration_ms": 374536,
+      "name": "Honest",
+      "url": "https://open.spotify.com/track/3GJ5EcLudl4JrUld9sfD7o"
     }
   ],
   "unique_name": "Nu-Smooth",

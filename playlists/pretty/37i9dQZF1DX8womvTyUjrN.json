@@ -1,12 +1,12 @@
 {
   "description": "Fresh Latin pop on the rise. Cover: Sofia Castro",
-  "num_followers": 259891,
+  "num_followers": 259960,
   "original_name": "el nuevo pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY5NjAwMCwwMDAwMDAwMDMyZTE4MzdjMGU2ZjQwYjAyMTQ2NjFiNWY1OTU1M2I0",
+  "snapshot_id": "MTY2MjY5NjAwMCwwMDAwMDAwMDFhY2ViNmIyNzg4NGU4M2UwOTY1ZjNmZWFlMjNmZDY1",
   "tracks": [
     {
       "added_at": "2022-09-09 04:00:00",
@@ -999,26 +999,6 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "two eyes",
-        "url": "https://open.spotify.com/album/0eONLSsIP4tLaGDmMC33QV"
-      },
-      "artists": [
-        {
-          "name": "Danny Schiller",
-          "url": "https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC"
-        },
-        {
-          "name": "Roy Borland",
-          "url": "https://open.spotify.com/artist/5Vr2AKX7BHkLTslxmuSMF7"
-        }
-      ],
-      "duration_ms": 210439,
-      "name": "two eyes",
-      "url": "https://open.spotify.com/track/6o6ZB7mCnwOutmC06Pey0P"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
         "name": "D\u00edmelo",
         "url": "https://open.spotify.com/album/59chl7fGmsBjN3KbUNg2JB"
       },
@@ -1043,22 +1023,22 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "Poco a Poco",
-        "url": "https://open.spotify.com/album/1XDc5KwuzjGvmsV4FAKHEl"
+        "name": "two eyes",
+        "url": "https://open.spotify.com/album/0eONLSsIP4tLaGDmMC33QV"
       },
       "artists": [
         {
-          "name": "Tommy Torres",
-          "url": "https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG"
+          "name": "Danny Schiller",
+          "url": "https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC"
         },
         {
-          "name": "Claire Deli\u0107",
-          "url": "https://open.spotify.com/artist/2vzkENRB95QBQXO01HwyIY"
+          "name": "Roy Borland",
+          "url": "https://open.spotify.com/artist/5Vr2AKX7BHkLTslxmuSMF7"
         }
       ],
-      "duration_ms": 270000,
-      "name": "Poco a Poco",
-      "url": "https://open.spotify.com/track/5QtfHuYdlivBEKmeMWSo9T"
+      "duration_ms": 210439,
+      "name": "two eyes",
+      "url": "https://open.spotify.com/track/6o6ZB7mCnwOutmC06Pey0P"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1087,6 +1067,26 @@
       "duration_ms": 226052,
       "name": "Fuckin' Cupido </3",
       "url": "https://open.spotify.com/track/0LsoBe7x8VCHCdgPFxe7db"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "Poco a Poco",
+        "url": "https://open.spotify.com/album/1XDc5KwuzjGvmsV4FAKHEl"
+      },
+      "artists": [
+        {
+          "name": "Tommy Torres",
+          "url": "https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG"
+        },
+        {
+          "name": "Claire Deli\u0107",
+          "url": "https://open.spotify.com/artist/2vzkENRB95QBQXO01HwyIY"
+        }
+      ],
+      "duration_ms": 270000,
+      "name": "Poco a Poco",
+      "url": "https://open.spotify.com/track/5QtfHuYdlivBEKmeMWSo9T"
     },
     {
       "added_at": "2022-09-09 04:00:00",

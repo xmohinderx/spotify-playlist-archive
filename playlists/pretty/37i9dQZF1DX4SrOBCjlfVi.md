@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Kodak Black, G Herbo, and more\. Cover: EST Gee
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,713 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,849 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 44 | [Diamonds \(feat\. NLE Choppa\)](https://open.spotify.com/track/2TGX0x8Bpkj0vLnyy82l3e) | [Rarri](https://open.spotify.com/artist/4P2n49979tST2XdOxYcM6h), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Diamonds \(feat\. NLE Choppa\)](https://open.spotify.com/album/0rN09QxiqoUlFnChp0IXNH) | 3:15 |
 | 45 | [Say Datt](https://open.spotify.com/track/14Rg3f4eF9LoVZObgxkKiP) | [Fastmoney Ant](https://open.spotify.com/artist/1r1AoJILFfEvsqNiG85zwL), [Lil Zay Osama](https://open.spotify.com/artist/7rkcFChEJ9tCLcVevtu0Nt) | [Say Datt](https://open.spotify.com/album/5pbbxNP5PcmG8lh0iZx0f0) | 2:31 |
 | 46 | [Deuce G7](https://open.spotify.com/track/5i56WHGnaB0x0y4kh5JfR7) | [HorseTheOne](https://open.spotify.com/artist/2f3UhhzxocxMpddhF3dclq), [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO) | [Deuce G7](https://open.spotify.com/album/0Jr2L5prSLYU6m15xGvuxK) | 3:07 |
-| 47 | [On The Come Up](https://open.spotify.com/track/2woZp7c5x1ZP5iSWKj4J2Z) | [Jamila C\. Gray](https://open.spotify.com/artist/4p1OdIptpq04ukwTT3uyTf), [Lady London](https://open.spotify.com/artist/44qqbgojo0P8r68CuRbSN4), [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5) | [On The Come Up](https://open.spotify.com/album/1UkWepw39XVBHvBjuoAAh4) | 2:57 |
+| 47 | [On The Come Up](https://open.spotify.com/track/2woZp7c5x1ZP5iSWKj4J2Z) | [Lady London](https://open.spotify.com/artist/44qqbgojo0P8r68CuRbSN4), [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5), [Jamila C\. Gray](https://open.spotify.com/artist/4p1OdIptpq04ukwTT3uyTf) | [On The Come Up](https://open.spotify.com/album/1UkWepw39XVBHvBjuoAAh4) | 2:57 |
 | 48 | [SENSES](https://open.spotify.com/track/2uMFTGz3NkRBhUpfj9THfp) | [Henny Hermes](https://open.spotify.com/artist/4b0ZS6ycwwhZvMOdhIqJHy) | [SENSES](https://open.spotify.com/album/3DfUfm2Ps8mLBOcrAYgnXT) | 2:31 |
 | 49 | [Idle](https://open.spotify.com/track/6ePdWAIAsms2nOldvPinVq) | [Ahmad Anonimis](https://open.spotify.com/artist/3wnsNFtqQ75UEUAN3PwkPH) | [Idle](https://open.spotify.com/album/0jonNfnHOGwZeDDukZdYcx) | 2:36 |
 | 50 | [4 The Real](https://open.spotify.com/track/2TAXaIr65WqsK4FrQ2I4n6) | [Bale](https://open.spotify.com/artist/0aCVyvK8ZJp1c3nArx8Sy6) | [4 The Real](https://open.spotify.com/album/5OTCP2orKZla0RaQY2uD29) | 2:48 |

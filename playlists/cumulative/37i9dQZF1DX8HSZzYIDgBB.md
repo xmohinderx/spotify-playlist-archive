@@ -4,7 +4,7 @@
 
 > Los nuevos sonidos y fusiones de música Alternativa Latina, con Pahua en portada.
 
-176 songs - 10 hr 37 min - [published](https://open.spotify.com/playlist/14AX2AOMCBOX7NLvLNkMVH)
+177 songs - 10 hr 41 min - [published](https://open.spotify.com/playlist/14AX2AOMCBOX7NLvLNkMVH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Alma Carnavalera](https://open.spotify.com/track/2ia6khUL8cdWGqOc31dgl8) | [Stephanie Santiago](https://open.spotify.com/artist/3UyUbkVWB0PoOA49rU9pi6) | [Alma Carnavalera](https://open.spotify.com/album/0Gx8CUQeiJlkcx2R2hMKJX) | 3:54 | 2022-04-20 |  |
 | [Alma Seca](https://open.spotify.com/track/0TjNcJLSuyWByX7IjYYYs9) | [Juanita Euka](https://open.spotify.com/artist/5a7zFB39QFXzf8amit9zJh) | [Mabanzo](https://open.spotify.com/album/27YMkY29ejf68IpDywP91w) | 4:51 | 2022-04-09 |  |
 | [Almacén de Datos](https://open.spotify.com/track/58ZAoRmXWnP5pXKD23Ymi7) | [Sara Hebe](https://open.spotify.com/artist/4pFUriuYqqAmBCvqF9o6LW), [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [Almacén de Datos](https://open.spotify.com/album/0iEi94s2pqd4fARDElGSnx) | 3:32 | 2022-04-01 | 2022-09-01 |
+| [Amanecer](https://open.spotify.com/track/5TQwSAq0BAU9DWpKmHmI9F) | [Los Americanos](https://open.spotify.com/artist/4Q0wQsRzWYhbAXIKQN6LSw) | [Amanecer](https://open.spotify.com/album/5XX0iRSDLzElMVY2EcDThW) | 4:05 | 2022-09-19 |  |
 | [Amuleto](https://open.spotify.com/track/5vpCo7GpBJmc8RWkOZyvtI) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [Terror/Cactus](https://open.spotify.com/artist/6zDCcrKdLCpKPtgFcD26rq) | [Amuleto](https://open.spotify.com/album/1U6e6MPp6JaQ9lFo6YJyKp) | 3:11 | 2022-07-25 |  |
 | [Andrea](https://open.spotify.com/track/44XjoNvtwevktFKjvVe1vH) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 5:39 | 2022-05-09 | 2022-07-12 |
 | [Aquí seguimos](https://open.spotify.com/track/4Rar7xh8FOl8N50d4i4IL8) | [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M), [George Rhoads](https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y) | [Aquí seguimos](https://open.spotify.com/album/5uclJItFnUVNvdMKqxx2af) | 3:23 | 2022-03-03 |  |
@@ -29,7 +30,7 @@
 | [Chakatrunka](https://open.spotify.com/track/5vw99DjJyEsxK0OU7ix30K) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs), [Valentina Brishantina](https://open.spotify.com/artist/6kRJXBf5UTzwX4faVGTKhx) | [10.000 Días](https://open.spotify.com/album/0VVKlDMWh1Qtt5T9go3RqD) | 3:16 | 2022-03-04 | 2022-08-02 |
 | [Chalino y Sus 7 Balazos](https://open.spotify.com/track/25wMvLWjG1ev4XnKADowa0) | [Tropa Magica](https://open.spotify.com/artist/3uCmGQUSAkY2BvcrhMLLzE) | [Tripiando Al Infinito En Mi Recámara](https://open.spotify.com/album/2Z1qKK31ssXm6CsTBc9yic) | 3:51 | 2021-10-05 | 2022-07-14 |
 | [Cigarros y Tragos](https://open.spotify.com/track/0iw2XtkqcydW4BgdsTyH2L) | [Los Espiritus](https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0) | [Caldero](https://open.spotify.com/album/6K0FP8olOJO2Po8RVFkUhA) | 5:55 | 2021-10-05 | 2022-05-28 |
-| [Clandestina \- Spotify Singles](https://open.spotify.com/track/1Oie9uASbo83OrEkZ2whEM) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Spotify Singles](https://open.spotify.com/album/1KFVMgFxBDhf1fprYdbxHl) | 3:29 | 2022-04-20 |  |
+| [Clandestina \- Spotify Singles](https://open.spotify.com/track/1Oie9uASbo83OrEkZ2whEM) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Spotify Singles](https://open.spotify.com/album/1KFVMgFxBDhf1fprYdbxHl) | 3:29 | 2022-04-20 | 2022-09-20 |
 | [Clandestina \- Spotify Singles](https://open.spotify.com/track/2ETi6XTUOuEjObLiRNmO8F) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Spotify Singles](https://open.spotify.com/album/6HqgKz3U8TtxrwikzgEKfJ) | 3:29 | 2022-04-20 | 2022-09-15 |
 | [Coidar dunhas Colmeas](https://open.spotify.com/track/65ASwR5HmShyIoSFa5QPnf) | [Néboa](https://open.spotify.com/artist/1w6hzUtZfQobZi2NTwAJe8) | [Coidar dunhas Colmeas](https://open.spotify.com/album/0Qgn7S6eY37MTmfBSpq4oN) | 3:58 | 2021-10-05 |  |
 | [Collar de Perlas](https://open.spotify.com/track/3RJ2wUsUieoXwsCGHBsPCl) | [MONTESCO](https://open.spotify.com/artist/2V3eQlSV1eYIQXWD1t9sWb) | [Collar de Perlas](https://open.spotify.com/album/0OcjkwJ6Xr9KkhlL8lnoSM) | 4:29 | 2022-03-03 |  |

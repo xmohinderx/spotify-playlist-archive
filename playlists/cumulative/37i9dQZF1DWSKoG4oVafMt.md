@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Jas
 
-548 songs - 1 day 5 hr 38 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
+549 songs - 1 day 5 hr 42 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -499,6 +499,7 @@
 | [This Is True](https://open.spotify.com/track/38A4VTjMb7nRukMKBlQuTW) | [Romey Maan](https://open.spotify.com/artist/2hmIpieYhZEQJDzlWpNMQg), [Sulfa](https://open.spotify.com/artist/3eHfEU2o61RWizp6PrD9T0) | [This Is True](https://open.spotify.com/album/01m4CEOvDzhy3rbe6fX1DS) | 2:49 | 2022-09-05 | 2022-09-16 |
 | [Till Last Breath](https://open.spotify.com/track/4xzF2qSbPeecqx9spSqNsA) | [Sippy Gill](https://open.spotify.com/artist/2zstvC7L2UiHZZo5Nrz9gY) | [Anything For You](https://open.spotify.com/album/1NLXWJAvPEi3Lz1AJ61EXO) | 2:54 | 2022-08-11 | 2022-08-18 |
 | [Tim Horton](https://open.spotify.com/track/3b7xVbJWIncEr3GGG7Uzia) | [Satbir Aujla](https://open.spotify.com/artist/6JuBBw98XzwRZ6KvN1PpLy) | [Geetkaar](https://open.spotify.com/album/6pTzaVL8DYWRIAXTACbryg) | 3:15 | 2022-07-18 |  |
+| [Titli](https://open.spotify.com/track/5m62bM6EN1ysBb3nnedLBR) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV) | [Titli](https://open.spotify.com/album/7m2rdxWm1bxPF5yi37kpO5) | 4:37 | 2022-09-19 |  |
 | [Titliaan](https://open.spotify.com/track/1980E4Grgu5xAhNbFZ1mb1) | [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo), [Harrdy Sandhu](https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo), [Sargun Mehta](https://open.spotify.com/artist/5rOZMdrXGCOXnmmCICga2Z) | [Titliaan](https://open.spotify.com/album/1Wh4r7BE6zZogUSTcMtiku) | 3:15 | 2021-12-02 | 2022-02-01 |
 | [Tod Gayi](https://open.spotify.com/track/77rovUbI0HYyc1AMjvWvp5) | [Khan Saab](https://open.spotify.com/artist/1Y2YoNjhDco7zu09ZtiEjM), [Garry Sandhu](https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75) | [Tod Gayi](https://open.spotify.com/album/2UKewxdeFG7QX7dszVholW) | 3:08 | 2022-03-29 | 2022-04-29 |
 | [Top Notch Gabru](https://open.spotify.com/track/5ACacHdqtOjENeTgh4qfmy) | [Vicky](https://open.spotify.com/artist/7zCChitz4Xn1O7OqXjOhhR) | [Top Notch Gabru](https://open.spotify.com/album/00ZQAJAlj1QPNEm8hfHJDG) | 2:38 | 2021-12-02 |  |

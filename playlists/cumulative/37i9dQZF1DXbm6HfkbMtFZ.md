@@ -4,7 +4,7 @@
 
 > An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.
 
-424 songs - 1 day 1 hr 47 min - [published](https://open.spotify.com/playlist/3PqA3yBwlmJru2JyyuNSjK)
+425 songs - 1 day 1 hr 50 min - [published](https://open.spotify.com/playlist/3PqA3yBwlmJru2JyyuNSjK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [Free \- Single Version](https://open.spotify.com/track/26ka7pzhIonUoQFYjB6PbG) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Day/Night](https://open.spotify.com/album/2FJj7NVoRCAwjFus0O1BXd) | 3:39 | 2022-07-26 |  |
 | [Free \- Single Version](https://open.spotify.com/track/6kPsTBAGRoAeCCbzYoAZIm) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Free](https://open.spotify.com/album/6O3OdDwmvAM9S9mpk4Z3pv) | 3:39 | 2021-12-16 | 2022-07-29 |
 | [Freedom For a Change](https://open.spotify.com/track/2C0uAETVUpvW1DjMsu8xcb) | [Gizmo Varillas](https://open.spotify.com/artist/47i4lPow1dIRwOb85AB6lj) | [Freedom For a Change](https://open.spotify.com/album/0zpPgSOoLfGB6IOtFsLuXo) | 2:38 | 2021-12-16 | 2022-07-29 |
+| [Freedom For a Change](https://open.spotify.com/track/6IED3V6GMa9SyP8xwkeqpD) | [Gizmo Varillas](https://open.spotify.com/artist/47i4lPow1dIRwOb85AB6lj) | [El Dorado](https://open.spotify.com/album/4sehYh39cQn4y8133SG1En) | 2:38 | 2022-09-08 |  |
 | [Friends \(feat\. Tom Morello\) \- Tom Misch Remix](https://open.spotify.com/track/3QI6Sp9XnqilIPgXLFQxty) | [Raury](https://open.spotify.com/artist/2PU4qFehXQF7WnlFsJpBiJ), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Friends \(Tom Misch Remixes\) \(feat\. Tom Morello\)](https://open.spotify.com/album/2C1NdT1ZhiGcLxnvBSnH2H) | 3:11 | 2022-03-30 | 2022-04-06 |
 | [FYO](https://open.spotify.com/track/2pIZ6QqkFK6Ayg8pZGjomA) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [FYO](https://open.spotify.com/album/4JgRzrCeSKOxzlLXcslAy1) | 2:44 | 2021-12-16 | 2022-07-28 |
 | [Geninha](https://open.spotify.com/track/6QR9FB8xvjtxLknolyTnnQ) | [Bango](https://open.spotify.com/artist/0A7ykdqXt8umX4eqzaEmp3) | [Bango](https://open.spotify.com/album/4Mi5L2ArvAdfFUSs8TeXqL) | 3:26 | 2022-03-30 | 2022-04-21 |
@@ -420,7 +421,7 @@
 | [wyd](https://open.spotify.com/track/2Ev3tTpZzvpqW8pbj3nDlR) | [Grebes](https://open.spotify.com/artist/5BHV73RQsL8zucEcnzs8IE) | [House Creature](https://open.spotify.com/album/2CH2VAYcNjvq5xA6zeudTt) | 2:54 | 2021-12-16 | 2022-06-15 |
 | [You Ain't The Problem \- Claptone Remix](https://open.spotify.com/track/7BFXQINSdAqgOmMydTGnKG) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj), [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry) | [You Ain't The Problem \(Claptone Remix\)](https://open.spotify.com/album/24U03pgag0P2AvPxzbBeH0) | 2:44 | 2021-12-16 | 2022-04-21 |
 | [You Can Have It All](https://open.spotify.com/track/1umKrwGtLeRLd9InuebzP0) | [George McCrae](https://open.spotify.com/artist/6oV3BNm1Gj2GGgpYknc5TN) | [Rock Your Baby](https://open.spotify.com/album/6wE37m8authSsjmKMB8jvM) | 2:54 | 2022-03-30 | 2022-04-21 |
-| [You Don’t Want Me](https://open.spotify.com/track/6wzlFp6Xi5fo3iKZsBFI6V) | [Wesley Bright](https://open.spotify.com/artist/5sDnPhZdAs4FW1ewepXdFj), [Wesley Bright and the Honeytones](https://open.spotify.com/artist/6MW5yx2dPhGcNizd0Y4L9l) | [You Don't Want Me](https://open.spotify.com/album/7yHaXgmBkt2dWA6LC6pY2e) | 4:25 | 2022-07-26 |  |
+| [You Don’t Want Me](https://open.spotify.com/track/6wzlFp6Xi5fo3iKZsBFI6V) | [Wesley Bright](https://open.spotify.com/artist/5sDnPhZdAs4FW1ewepXdFj), [Wesley Bright and the Honeytones](https://open.spotify.com/artist/6MW5yx2dPhGcNizd0Y4L9l) | [You Don't Want Me](https://open.spotify.com/album/7yHaXgmBkt2dWA6LC6pY2e) | 4:25 | 2022-07-26 | 2022-09-20 |
 | [You Don’t Want Me](https://open.spotify.com/track/7uQQG43MouzO3JmZfnchoc) | [Wesley Bright and the Honeytones](https://open.spotify.com/artist/6MW5yx2dPhGcNizd0Y4L9l) | [Happiness / You Don't Want Me](https://open.spotify.com/album/1NQYKIeybp3YoB8hecwbJu) | 4:25 | 2021-12-16 | 2022-07-29 |
 | [You Just Decided](https://open.spotify.com/track/4y9ZtxBEYxBQzU1hQDtBr3) | [Shintaro Sakamoto](https://open.spotify.com/artist/4U7i0wRZh9IIHbjuECMyIq) | [How to Live with a Phantom](https://open.spotify.com/album/7BcMar9TaDywU6GJd7OMRE) | 5:06 | 2022-03-30 | 2022-04-17 |
 | [You Keep Me Waiting](https://open.spotify.com/track/3ZbPMcAQJS0oi6kjy4qBMf) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X), [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG) | [FEELS](https://open.spotify.com/album/3mM44rrpdpfsXs6Kk9qJPb) | 4:27 | 2021-12-16 | 2022-07-08 |

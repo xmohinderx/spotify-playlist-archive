@@ -413,6 +413,24 @@
     {
       "album": {
         "name": "A MI LADO",
+        "url": "https://open.spotify.com/album/50l5G151phFQg3xpXl9piL"
+      },
+      "artists": [
+        {
+          "name": "Lozza",
+          "url": "https://open.spotify.com/artist/76aNccAPsJeTsM4Uv7N8ze"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160676,
+      "name": "A MI LADO",
+      "url": "https://open.spotify.com/track/1clYRWZG6f02avgsV0041A"
+    },
+    {
+      "album": {
+        "name": "A MI LADO",
         "url": "https://open.spotify.com/album/6LIuRNUhLGtJAX1NNWbcl0"
       },
       "artists": [
@@ -809,6 +827,24 @@
       "duration_ms": 201507,
       "name": "Anuel AA: Bzrp Music Sessions, Vol. 46",
       "url": "https://open.spotify.com/track/1mrGEef8GuaEnDdw8J5BQp"
+    },
+    {
+      "album": {
+        "name": "Odas a La Musa",
+        "url": "https://open.spotify.com/album/6JhdB6P2A6jDxKmd2OqKNa"
+      },
+      "artists": [
+        {
+          "name": "LoRenzo ZigZauer",
+          "url": "https://open.spotify.com/artist/28IIVDwfDOk1QihBs5ZLwg"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264395,
+      "name": "Apokatastasis",
+      "url": "https://open.spotify.com/track/7jKPCxPGoWMM7B8ZnR8NH9"
     },
     {
       "album": {
@@ -2563,7 +2599,7 @@
       ],
       "date_added": "2021-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-20",
       "duration_ms": 164895,
       "name": "Eladio Carrion: Bzrp Music Sessions, Vol. 40",
       "url": "https://open.spotify.com/track/1VauUM5CBX7nkLcgafQL2B"
@@ -6569,7 +6605,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-20",
       "duration_ms": 202600,
       "name": "Noche de Teteo",
       "url": "https://open.spotify.com/track/5YBvKoQDMAd7IjonxPQYFN"

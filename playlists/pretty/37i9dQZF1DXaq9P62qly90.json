@@ -1,12 +1,12 @@
 {
   "description": "Conscious songs for everyday reflection.",
-  "num_followers": 11647,
+  "num_followers": 11650,
   "original_name": "Peace Of Mind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNjI3NDE1NSwwMDAwMDAwMGI5MTVjNzcyMzZjZTQ2NTUxMGM2MmQwMzdkNDllM2Y5",
+  "snapshot_id": "MTYwNjI3NDE1NSwwMDAwMDAwMDBiODk2OGVhODI1NzEzODg3Y2JhYTYxMmZiZDlkMjM2",
   "tracks": [
     {
       "added_at": "2020-11-25 03:15:55",
@@ -91,6 +91,22 @@
     {
       "added_at": "2020-11-25 03:15:55",
       "album": {
+        "name": "Chapter Of The Forest",
+        "url": "https://open.spotify.com/album/0Tt5WHP4RdkQemDgD1QItP"
+      },
+      "artists": [
+        {
+          "name": "Trevor Hall",
+          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
+        }
+      ],
+      "duration_ms": 274632,
+      "name": "Green Mountain State",
+      "url": "https://open.spotify.com/track/0c7iF5fSBYxCuwsAv2z4iI"
+    },
+    {
+      "added_at": "2020-11-25 03:15:55",
+      "album": {
         "name": "Already Gone",
         "url": "https://open.spotify.com/album/0qOy9NpS6fADbXb0ViXNtE"
       },
@@ -123,22 +139,6 @@
       "duration_ms": 238767,
       "name": "Summertime (feat. Citizen Cope)",
       "url": "https://open.spotify.com/track/2WbZZGXlVWHEfrCG9mC0UV"
-    },
-    {
-      "added_at": "2020-11-25 03:15:55",
-      "album": {
-        "name": "Chapter Of The Forest",
-        "url": "https://open.spotify.com/album/0Tt5WHP4RdkQemDgD1QItP"
-      },
-      "artists": [
-        {
-          "name": "Trevor Hall",
-          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
-        }
-      ],
-      "duration_ms": 274632,
-      "name": "Green Mountain State",
-      "url": "https://open.spotify.com/track/0c7iF5fSBYxCuwsAv2z4iI"
     },
     {
       "added_at": "2020-11-25 03:15:55",
@@ -207,26 +207,6 @@
     {
       "added_at": "2020-11-25 03:15:55",
       "album": {
-        "name": "Sunday Vibe",
-        "url": "https://open.spotify.com/album/1MXR7QUUBOwbMGVUqE09pc"
-      },
-      "artists": [
-        {
-          "name": "Cisco Adler",
-          "url": "https://open.spotify.com/artist/23apFYuBTpFemqLDn8ViLW"
-        },
-        {
-          "name": "G. Love & Special Sauce",
-          "url": "https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89"
-        }
-      ],
-      "duration_ms": 186760,
-      "name": "Sunday Vibe",
-      "url": "https://open.spotify.com/track/4tNYuLrlxTb8DSVL3bO9F1"
-    },
-    {
-      "added_at": "2020-11-25 03:15:55",
-      "album": {
         "name": "Put Down What You Are Carrying (with Brett Dennen)",
         "url": "https://open.spotify.com/album/2lzYJjnD2rPbjMdmBh45KB"
       },
@@ -243,6 +223,26 @@
       "duration_ms": 268006,
       "name": "Put Down What You Are Carrying (with Brett Dennen)",
       "url": "https://open.spotify.com/track/4rKNAryOSqMpb0qoum5UoN"
+    },
+    {
+      "added_at": "2020-11-25 03:15:55",
+      "album": {
+        "name": "Sunday Vibe",
+        "url": "https://open.spotify.com/album/1MXR7QUUBOwbMGVUqE09pc"
+      },
+      "artists": [
+        {
+          "name": "Cisco Adler",
+          "url": "https://open.spotify.com/artist/23apFYuBTpFemqLDn8ViLW"
+        },
+        {
+          "name": "G. Love & Special Sauce",
+          "url": "https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89"
+        }
+      ],
+      "duration_ms": 186760,
+      "name": "Sunday Vibe",
+      "url": "https://open.spotify.com/track/4tNYuLrlxTb8DSVL3bO9F1"
     },
     {
       "added_at": "2020-11-25 03:15:55",
@@ -367,6 +367,38 @@
     {
       "added_at": "2020-11-25 03:15:55",
       "album": {
+        "name": "HOKA",
+        "url": "https://open.spotify.com/album/3fuNjlUS1tfdcDSy1G5K2T"
+      },
+      "artists": [
+        {
+          "name": "Nahko And Medicine For The People",
+          "url": "https://open.spotify.com/artist/35fFUv2850L9CQjjNrLBpb"
+        }
+      ],
+      "duration_ms": 321388,
+      "name": "Tus Pies (Your Feet)",
+      "url": "https://open.spotify.com/track/1K8fvoDctaQ9unJB40F5Qj"
+    },
+    {
+      "added_at": "2020-11-25 03:15:55",
+      "album": {
+        "name": "The Fruitful Darkness",
+        "url": "https://open.spotify.com/album/4ahv1YI2hpYOtXZsTIqYyG"
+      },
+      "artists": [
+        {
+          "name": "Trevor Hall",
+          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
+        }
+      ],
+      "duration_ms": 239312,
+      "name": "Moon / Sun",
+      "url": "https://open.spotify.com/track/6Nr0StlllyYFmJoIYFVAsr"
+    },
+    {
+      "added_at": "2020-11-25 03:15:55",
+      "album": {
         "name": "Cas Haley",
         "url": "https://open.spotify.com/album/2Rj0pHePr2SyUh6zfyDFaz"
       },
@@ -403,34 +435,18 @@
     {
       "added_at": "2020-11-25 03:15:55",
       "album": {
-        "name": "The Fruitful Darkness",
-        "url": "https://open.spotify.com/album/4ahv1YI2hpYOtXZsTIqYyG"
+        "name": "These Are My Roots",
+        "url": "https://open.spotify.com/album/29QwobCCAbSYwuJMXpMYaC"
       },
       "artists": [
         {
-          "name": "Trevor Hall",
-          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
+          "name": "Mike Love",
+          "url": "https://open.spotify.com/artist/2sgVQmhRbgSEe47A1bJRrC"
         }
       ],
-      "duration_ms": 239312,
-      "name": "Moon / Sun",
-      "url": "https://open.spotify.com/track/6Nr0StlllyYFmJoIYFVAsr"
-    },
-    {
-      "added_at": "2020-11-25 03:15:55",
-      "album": {
-        "name": "HOKA",
-        "url": "https://open.spotify.com/album/3fuNjlUS1tfdcDSy1G5K2T"
-      },
-      "artists": [
-        {
-          "name": "Nahko And Medicine For The People",
-          "url": "https://open.spotify.com/artist/35fFUv2850L9CQjjNrLBpb"
-        }
-      ],
-      "duration_ms": 321388,
-      "name": "Tus Pies (Your Feet)",
-      "url": "https://open.spotify.com/track/1K8fvoDctaQ9unJB40F5Qj"
+      "duration_ms": 234061,
+      "name": "These Are My Roots",
+      "url": "https://open.spotify.com/track/2n0ORNOlH1ZP3nXp4QEqWO"
     },
     {
       "added_at": "2020-11-25 03:15:55",
@@ -447,22 +463,6 @@
       "duration_ms": 145404,
       "name": "You Ain't Going Nowhere",
       "url": "https://open.spotify.com/track/6ToeXQreJDxSwej9PQgoCC"
-    },
-    {
-      "added_at": "2020-11-25 03:15:55",
-      "album": {
-        "name": "These Are My Roots",
-        "url": "https://open.spotify.com/album/29QwobCCAbSYwuJMXpMYaC"
-      },
-      "artists": [
-        {
-          "name": "Mike Love",
-          "url": "https://open.spotify.com/artist/2sgVQmhRbgSEe47A1bJRrC"
-        }
-      ],
-      "duration_ms": 234061,
-      "name": "These Are My Roots",
-      "url": "https://open.spotify.com/track/2n0ORNOlH1ZP3nXp4QEqWO"
     },
     {
       "added_at": "2020-11-25 03:15:55",
@@ -555,6 +555,22 @@
     {
       "added_at": "2020-11-25 03:15:55",
       "album": {
+        "name": "Burn Right Through",
+        "url": "https://open.spotify.com/album/2Xh8UFP8PhWhMm3qGcw2em"
+      },
+      "artists": [
+        {
+          "name": "Sons Of The East",
+          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
+        }
+      ],
+      "duration_ms": 251840,
+      "name": "Keep Running",
+      "url": "https://open.spotify.com/track/6d3HbyUNmygSJMcjGo2cRG"
+    },
+    {
+      "added_at": "2020-11-25 03:15:55",
+      "album": {
         "name": "The Fire in Me",
         "url": "https://open.spotify.com/album/2Msz9ZE73nnfVx6DRKoNet"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 241306,
       "name": "If You Want It",
       "url": "https://open.spotify.com/track/1uU3I51QM7KKqGkizLYU52"
-    },
-    {
-      "added_at": "2020-11-25 03:15:55",
-      "album": {
-        "name": "Burn Right Through",
-        "url": "https://open.spotify.com/album/2Xh8UFP8PhWhMm3qGcw2em"
-      },
-      "artists": [
-        {
-          "name": "Sons Of The East",
-          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
-        }
-      ],
-      "duration_ms": 251840,
-      "name": "Keep Running",
-      "url": "https://open.spotify.com/track/6d3HbyUNmygSJMcjGo2cRG"
     },
     {
       "added_at": "2020-11-25 03:15:55",
@@ -691,6 +691,22 @@
     {
       "added_at": "2020-11-25 03:15:55",
       "album": {
+        "name": "Angels Above Me",
+        "url": "https://open.spotify.com/album/2rQdIWqQVl0bFZJI4whICD"
+      },
+      "artists": [
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "duration_ms": 266746,
+      "name": "Angels Above Me",
+      "url": "https://open.spotify.com/track/77RvTKNAlz36ZmcuphwBw4"
+    },
+    {
+      "added_at": "2020-11-25 03:15:55",
+      "album": {
         "name": "Pulse",
         "url": "https://open.spotify.com/album/0WAZe6WbSTiuFbjeCHVhqx"
       },
@@ -711,22 +727,6 @@
     {
       "added_at": "2020-11-25 03:15:55",
       "album": {
-        "name": "Angels Above Me",
-        "url": "https://open.spotify.com/album/2rQdIWqQVl0bFZJI4whICD"
-      },
-      "artists": [
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        }
-      ],
-      "duration_ms": 266746,
-      "name": "Angels Above Me",
-      "url": "https://open.spotify.com/track/77RvTKNAlz36ZmcuphwBw4"
-    },
-    {
-      "added_at": "2020-11-25 03:15:55",
-      "album": {
         "name": "Kulture",
         "url": "https://open.spotify.com/album/28BxL4zo6T1mTBLh81TzyT"
       },
@@ -739,6 +739,22 @@
       "duration_ms": 276017,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/38B7DBC5xcEiYRHNfNROoe"
+    },
+    {
+      "added_at": "2020-11-25 03:15:55",
+      "album": {
+        "name": "Low Tide",
+        "url": "https://open.spotify.com/album/3K7A6Y2B2pRIuIG779YQ5f"
+      },
+      "artists": [
+        {
+          "name": "Justin Nozuka",
+          "url": "https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "Warm Under the Light",
+      "url": "https://open.spotify.com/track/0BKLqsA3UH88WgyGGhJy6W"
     },
     {
       "added_at": "2020-11-25 03:15:55",
@@ -763,18 +779,18 @@
     {
       "added_at": "2020-11-25 03:15:55",
       "album": {
-        "name": "Low Tide",
-        "url": "https://open.spotify.com/album/3K7A6Y2B2pRIuIG779YQ5f"
+        "name": "Take Your Power Back",
+        "url": "https://open.spotify.com/album/2rMukh8IywcLklutZYSPZT"
       },
       "artists": [
         {
-          "name": "Justin Nozuka",
-          "url": "https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t"
+          "name": "Nahko And Medicine For The People",
+          "url": "https://open.spotify.com/artist/35fFUv2850L9CQjjNrLBpb"
         }
       ],
-      "duration_ms": 234000,
-      "name": "Warm Under the Light",
-      "url": "https://open.spotify.com/track/0BKLqsA3UH88WgyGGhJy6W"
+      "duration_ms": 207485,
+      "name": "Lifeguard",
+      "url": "https://open.spotify.com/track/38tJGBXQVq4BnKHBGCcdQ4"
     },
     {
       "added_at": "2020-11-25 03:15:55",
@@ -795,22 +811,6 @@
     {
       "added_at": "2020-11-25 03:15:55",
       "album": {
-        "name": "Take Your Power Back",
-        "url": "https://open.spotify.com/album/2rMukh8IywcLklutZYSPZT"
-      },
-      "artists": [
-        {
-          "name": "Nahko And Medicine For The People",
-          "url": "https://open.spotify.com/artist/35fFUv2850L9CQjjNrLBpb"
-        }
-      ],
-      "duration_ms": 207485,
-      "name": "Lifeguard",
-      "url": "https://open.spotify.com/track/38tJGBXQVq4BnKHBGCcdQ4"
-    },
-    {
-      "added_at": "2020-11-25 03:15:55",
-      "album": {
         "name": "Por Favor",
         "url": "https://open.spotify.com/album/3xh8mYf6G3AaJaJ5AYlrWN"
       },
@@ -827,6 +827,26 @@
     {
       "added_at": "2020-11-25 03:15:55",
       "album": {
+        "name": "Leylines",
+        "url": "https://open.spotify.com/album/6nGSseeEzhTHlK2z4R2xQE"
+      },
+      "artists": [
+        {
+          "name": "Rising Appalachia",
+          "url": "https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci"
+        },
+        {
+          "name": "Ani DiFranco",
+          "url": "https://open.spotify.com/artist/0AiTwNtYX8m4uhfU7rJ8RD"
+        }
+      ],
+      "duration_ms": 235826,
+      "name": "Speak out",
+      "url": "https://open.spotify.com/track/4WE6L50VXeRbYOqybh2Wi9"
+    },
+    {
+      "added_at": "2020-11-25 03:15:55",
+      "album": {
         "name": "Chill Out",
         "url": "https://open.spotify.com/album/16PDU6lKWAdHpYTGvggfz7"
       },
@@ -839,22 +859,6 @@
       "duration_ms": 235654,
       "name": "Chill Out",
       "url": "https://open.spotify.com/track/2l2rbGwL6R7MP3tcJzBTOX"
-    },
-    {
-      "added_at": "2020-11-25 03:15:55",
-      "album": {
-        "name": "Spirit",
-        "url": "https://open.spotify.com/album/0MEMCZCFDd9SxPggFpH4WD"
-      },
-      "artists": [
-        {
-          "name": "Amos Lee",
-          "url": "https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2"
-        }
-      ],
-      "duration_ms": 231000,
-      "name": "Vaporize",
-      "url": "https://open.spotify.com/track/05m1GXCzSikr5HBveHXKTf"
     }
   ],
   "unique_name": "Peace Of Mind",

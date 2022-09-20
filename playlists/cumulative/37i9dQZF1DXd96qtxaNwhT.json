@@ -3677,10 +3677,28 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-20",
       "duration_ms": 241248,
       "name": "Is It Worth Being Sad",
       "url": "https://open.spotify.com/track/2sdqoPS2AWTS8sb3kdeBmF"
+    },
+    {
+      "album": {
+        "name": "Matter of Time",
+        "url": "https://open.spotify.com/album/2z4hLufnidbzPL3fJA9UnB"
+      },
+      "artists": [
+        {
+          "name": "Meg Mac",
+          "url": "https://open.spotify.com/artist/4faUajx9k93O56nlmpkOuz"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241248,
+      "name": "Is It Worth Being Sad",
+      "url": "https://open.spotify.com/track/3E1HXY3rnghNU4H9JxbK1L"
     },
     {
       "album": {
@@ -4135,7 +4153,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-20",
       "duration_ms": 189427,
       "name": "Letter",
       "url": "https://open.spotify.com/track/0mZvAO1rooF1rAGWsw7xC7"
@@ -4157,6 +4175,24 @@
       "duration_ms": 189427,
       "name": "Letter",
       "url": "https://open.spotify.com/track/60uatEuP0mKDRp1pZFMox7"
+    },
+    {
+      "album": {
+        "name": "Matter of Time",
+        "url": "https://open.spotify.com/album/2z4hLufnidbzPL3fJA9UnB"
+      },
+      "artists": [
+        {
+          "name": "Meg Mac",
+          "url": "https://open.spotify.com/artist/4faUajx9k93O56nlmpkOuz"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189427,
+      "name": "Letter",
+      "url": "https://open.spotify.com/track/7KyCx9yhNre0RdV7D1ANZJ"
     },
     {
       "album": {

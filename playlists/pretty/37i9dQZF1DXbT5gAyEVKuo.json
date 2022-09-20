@@ -1,12 +1,12 @@
 {
   "description": "The power of praise lives on LIVE! Get up on your feet and let the spirit move in your heart to these amazing performances.",
-  "num_followers": 52466,
+  "num_followers": 52491,
   "original_name": "Gospel Live",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyMzQ3MDc1NCwwMDAwMDAwMDE2NWMxYzFjODI4NjU2NDk4YzBhMmQ5OTJlNjQ4Yzgz",
+  "snapshot_id": "MTYyMzQ3MDc1NCwwMDAwMDAwMGIwODFjNmE3OTVmNzMxODNlMmFhOGI1YTYxMDU1OTRl",
   "tracks": [
     {
       "added_at": "2021-06-12 04:05:54",
@@ -127,6 +127,22 @@
     {
       "added_at": "2021-06-12 04:05:54",
       "album": {
+        "name": "Grace (Live/Deluxe)",
+        "url": "https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 406440,
+      "name": "For Your Glory - Live",
+      "url": "https://open.spotify.com/track/0ruqgF5YjYjQPr0uwQsvYQ"
+    },
+    {
+      "added_at": "2021-06-12 04:05:54",
+      "album": {
         "name": "Worship Journal (Live)",
         "url": "https://open.spotify.com/album/2lC14ntR7i7DrUWKVcJd8I"
       },
@@ -175,18 +191,18 @@
     {
       "added_at": "2021-06-12 04:05:54",
       "album": {
-        "name": "Grace (Live/Deluxe)",
-        "url": "https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5"
+        "name": "Setlist: The Very Best Of Kirk Franklin Live",
+        "url": "https://open.spotify.com/album/3pxNJpoQFVi4CBxEQdxTTU"
       },
       "artists": [
         {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
         }
       ],
-      "duration_ms": 406440,
-      "name": "For Your Glory - Live",
-      "url": "https://open.spotify.com/track/0ruqgF5YjYjQPr0uwQsvYQ"
+      "duration_ms": 340200,
+      "name": "Brighter Day",
+      "url": "https://open.spotify.com/track/1QXhzptk3KMnO8xewGePhu"
     },
     {
       "added_at": "2021-06-12 04:05:54",
@@ -207,18 +223,34 @@
     {
       "added_at": "2021-06-12 04:05:54",
       "album": {
-        "name": "Setlist: The Very Best Of Kirk Franklin Live",
-        "url": "https://open.spotify.com/album/3pxNJpoQFVi4CBxEQdxTTU"
+        "name": "Work It Out (Live)",
+        "url": "https://open.spotify.com/album/5fcf47GvauNXh7yGACSXpQ"
       },
       "artists": [
         {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
         }
       ],
-      "duration_ms": 340200,
-      "name": "Brighter Day",
-      "url": "https://open.spotify.com/track/1QXhzptk3KMnO8xewGePhu"
+      "duration_ms": 320955,
+      "name": "Work It Out - Live",
+      "url": "https://open.spotify.com/track/1SDaYLQD1C9twbdZYsNcbX"
+    },
+    {
+      "added_at": "2021-06-12 04:05:54",
+      "album": {
+        "name": "This Is A Move (Live)",
+        "url": "https://open.spotify.com/album/5SH3LZPcZVx5fr6uQ7R2pF"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 445586,
+      "name": "This Is A Move - Live",
+      "url": "https://open.spotify.com/track/776imhCfnvp9NoIYJ8uj0G"
     },
     {
       "added_at": "2021-06-12 04:05:54",
@@ -239,22 +271,6 @@
     {
       "added_at": "2021-06-12 04:05:54",
       "album": {
-        "name": "Work It Out (Live)",
-        "url": "https://open.spotify.com/album/5fcf47GvauNXh7yGACSXpQ"
-      },
-      "artists": [
-        {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        }
-      ],
-      "duration_ms": 320955,
-      "name": "Work It Out - Live",
-      "url": "https://open.spotify.com/track/1SDaYLQD1C9twbdZYsNcbX"
-    },
-    {
-      "added_at": "2021-06-12 04:05:54",
-      "album": {
         "name": "Adoration",
         "url": "https://open.spotify.com/album/1wsXZGszbQUTJnfuJABlZp"
       },
@@ -271,6 +287,38 @@
       "duration_ms": 299600,
       "name": "Total Praise (with Vision) - Live",
       "url": "https://open.spotify.com/track/3eGrTHQnpSE0LRrNrMxMRr"
+    },
+    {
+      "added_at": "2021-06-12 04:05:54",
+      "album": {
+        "name": "Live in London and More ..",
+        "url": "https://open.spotify.com/album/6A55aHMWgoZgzjLfsTJU6v"
+      },
+      "artists": [
+        {
+          "name": "Donnie McClurkin",
+          "url": "https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra"
+        }
+      ],
+      "duration_ms": 320093,
+      "name": "That's What I Believe",
+      "url": "https://open.spotify.com/track/6sX8nB5PoeXEXjQGKvHR1N"
+    },
+    {
+      "added_at": "2021-06-12 04:05:54",
+      "album": {
+        "name": "Royalty: Live At The Ryman",
+        "url": "https://open.spotify.com/album/66hDxNOJJd54OLzt79Uvef"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 506429,
+      "name": "In Spite Of Me - Live",
+      "url": "https://open.spotify.com/track/5JTcaitH5HSzkqFG4nX7Dk"
     },
     {
       "added_at": "2021-06-12 04:05:54",
@@ -299,54 +347,6 @@
     {
       "added_at": "2021-06-12 04:05:54",
       "album": {
-        "name": "This Is A Move (Live)",
-        "url": "https://open.spotify.com/album/5SH3LZPcZVx5fr6uQ7R2pF"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 445586,
-      "name": "This Is A Move - Live",
-      "url": "https://open.spotify.com/track/776imhCfnvp9NoIYJ8uj0G"
-    },
-    {
-      "added_at": "2021-06-12 04:05:54",
-      "album": {
-        "name": "Royalty: Live At The Ryman",
-        "url": "https://open.spotify.com/album/66hDxNOJJd54OLzt79Uvef"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 506429,
-      "name": "In Spite Of Me - Live",
-      "url": "https://open.spotify.com/track/5JTcaitH5HSzkqFG4nX7Dk"
-    },
-    {
-      "added_at": "2021-06-12 04:05:54",
-      "album": {
-        "name": "Live in London and More ..",
-        "url": "https://open.spotify.com/album/6A55aHMWgoZgzjLfsTJU6v"
-      },
-      "artists": [
-        {
-          "name": "Donnie McClurkin",
-          "url": "https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra"
-        }
-      ],
-      "duration_ms": 320093,
-      "name": "That's What I Believe",
-      "url": "https://open.spotify.com/track/6sX8nB5PoeXEXjQGKvHR1N"
-    },
-    {
-      "added_at": "2021-06-12 04:05:54",
-      "album": {
         "name": "Free",
         "url": "https://open.spotify.com/album/6uibqw6D0zCO7FGvAGSf5s"
       },
@@ -367,22 +367,6 @@
     {
       "added_at": "2021-06-12 04:05:54",
       "album": {
-        "name": "One Nation Under God",
-        "url": "https://open.spotify.com/album/3fdcELLJcdrGFL2VJQu6VP"
-      },
-      "artists": [
-        {
-          "name": "Jekalyn Carr",
-          "url": "https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH"
-        }
-      ],
-      "duration_ms": 418261,
-      "name": "It's Yours",
-      "url": "https://open.spotify.com/track/0xYwbNvw4TburjOJYs0GpQ"
-    },
-    {
-      "added_at": "2021-06-12 04:05:54",
-      "album": {
         "name": "Nobody Like You Lord (Radio Edit - Live)",
         "url": "https://open.spotify.com/album/3qQk8UYKGkjp91yl799gWJ"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 244736,
       "name": "Nobody Like You Lord - Radio Edit - Live",
       "url": "https://open.spotify.com/track/4SFD5o0lu61Y2uAdGHqwyv"
+    },
+    {
+      "added_at": "2021-06-12 04:05:54",
+      "album": {
+        "name": "One Nation Under God",
+        "url": "https://open.spotify.com/album/3fdcELLJcdrGFL2VJQu6VP"
+      },
+      "artists": [
+        {
+          "name": "Jekalyn Carr",
+          "url": "https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH"
+        }
+      ],
+      "duration_ms": 418261,
+      "name": "It's Yours",
+      "url": "https://open.spotify.com/track/0xYwbNvw4TburjOJYs0GpQ"
     },
     {
       "added_at": "2021-06-12 04:05:54",
@@ -455,26 +455,6 @@
     {
       "added_at": "2021-06-12 04:05:54",
       "album": {
-        "name": "One Place Live",
-        "url": "https://open.spotify.com/album/0Ki9jp3paaKiamzDDHuoyb"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        },
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        }
-      ],
-      "duration_ms": 376666,
-      "name": "Put A Praise On It - Live",
-      "url": "https://open.spotify.com/track/3yhpA3U2Ki3W6UFSVfMYPS"
-    },
-    {
-      "added_at": "2021-06-12 04:05:54",
-      "album": {
         "name": "The Essential John P. Kee",
         "url": "https://open.spotify.com/album/3GNchlABDyyup8hXKZbZIy"
       },
@@ -491,6 +471,26 @@
       "duration_ms": 326493,
       "name": "I Do Worship (feat. John P. Kee) - Live",
       "url": "https://open.spotify.com/track/7ek6p3oOf0B4HM1A0fiVJO"
+    },
+    {
+      "added_at": "2021-06-12 04:05:54",
+      "album": {
+        "name": "One Place Live",
+        "url": "https://open.spotify.com/album/0Ki9jp3paaKiamzDDHuoyb"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        },
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        }
+      ],
+      "duration_ms": 376666,
+      "name": "Put A Praise On It - Live",
+      "url": "https://open.spotify.com/track/3yhpA3U2Ki3W6UFSVfMYPS"
     },
     {
       "added_at": "2021-06-12 04:05:54",
@@ -531,22 +531,6 @@
       "duration_ms": 292466,
       "name": "I Won't Let Go - Live",
       "url": "https://open.spotify.com/track/0PAidbgBw2xovbTTrSXfy2"
-    },
-    {
-      "added_at": "2021-06-12 04:05:54",
-      "album": {
-        "name": "Your Great Name (Live) - Single",
-        "url": "https://open.spotify.com/album/1b5xZ0TrmAYNNCmtjnl2G5"
-      },
-      "artists": [
-        {
-          "name": "Todd Dulaney",
-          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
-        }
-      ],
-      "duration_ms": 265573,
-      "name": "Your Great Name (Live)",
-      "url": "https://open.spotify.com/track/3hDeZSWqjlQPJM7w8zHToK"
     },
     {
       "added_at": "2021-06-12 04:05:54",
@@ -639,6 +623,38 @@
     {
       "added_at": "2021-06-12 04:05:54",
       "album": {
+        "name": "Your Great Name (Live) - Single",
+        "url": "https://open.spotify.com/album/1b5xZ0TrmAYNNCmtjnl2G5"
+      },
+      "artists": [
+        {
+          "name": "Todd Dulaney",
+          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
+        }
+      ],
+      "duration_ms": 265573,
+      "name": "Your Great Name (Live)",
+      "url": "https://open.spotify.com/track/3hDeZSWqjlQPJM7w8zHToK"
+    },
+    {
+      "added_at": "2021-06-12 04:05:54",
+      "album": {
+        "name": "As We Worship Live",
+        "url": "https://open.spotify.com/album/3Ainh78D6AeVHW9TvIbYvT"
+      },
+      "artists": [
+        {
+          "name": "William McDowell",
+          "url": "https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN"
+        }
+      ],
+      "duration_ms": 292600,
+      "name": "As We Worship",
+      "url": "https://open.spotify.com/track/3cSM9pXri2UMikc9zAFUAQ"
+    },
+    {
+      "added_at": "2021-06-12 04:05:54",
+      "album": {
         "name": "Setlist Vol. 1 (Live)",
         "url": "https://open.spotify.com/album/0fRY9s3aFVDG3n9g4atgII"
       },
@@ -671,38 +687,6 @@
     {
       "added_at": "2021-06-12 04:05:54",
       "album": {
-        "name": "Gospel's Best Live",
-        "url": "https://open.spotify.com/album/5NvLAYXvwMmEfYC5K2CsUd"
-      },
-      "artists": [
-        {
-          "name": "Donald Lawrence & The Tri-City Singers",
-          "url": "https://open.spotify.com/artist/57d6a3ex4tB3hO0WE1hC1V"
-        }
-      ],
-      "duration_ms": 281973,
-      "name": "Never Seen The Righteous - Live",
-      "url": "https://open.spotify.com/track/6COOpzPlhL3nk6Go0PVo3U"
-    },
-    {
-      "added_at": "2021-06-12 04:05:54",
-      "album": {
-        "name": "As We Worship Live",
-        "url": "https://open.spotify.com/album/3Ainh78D6AeVHW9TvIbYvT"
-      },
-      "artists": [
-        {
-          "name": "William McDowell",
-          "url": "https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN"
-        }
-      ],
-      "duration_ms": 292600,
-      "name": "As We Worship",
-      "url": "https://open.spotify.com/track/3cSM9pXri2UMikc9zAFUAQ"
-    },
-    {
-      "added_at": "2021-06-12 04:05:54",
-      "album": {
         "name": "The Experience",
         "url": "https://open.spotify.com/album/2rJx0qDPmdODn2YJvGZgSz"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 465933,
       "name": "Open My Heart - Live",
       "url": "https://open.spotify.com/track/2oujPaH4PjjRFSFUpnjg90"
+    },
+    {
+      "added_at": "2021-06-12 04:05:54",
+      "album": {
+        "name": "Gospel's Best Live",
+        "url": "https://open.spotify.com/album/5NvLAYXvwMmEfYC5K2CsUd"
+      },
+      "artists": [
+        {
+          "name": "Donald Lawrence & The Tri-City Singers",
+          "url": "https://open.spotify.com/artist/57d6a3ex4tB3hO0WE1hC1V"
+        }
+      ],
+      "duration_ms": 281973,
+      "name": "Never Seen The Righteous - Live",
+      "url": "https://open.spotify.com/track/6COOpzPlhL3nk6Go0PVo3U"
     },
     {
       "added_at": "2021-06-12 04:05:54",
@@ -759,22 +759,6 @@
     {
       "added_at": "2021-06-12 04:05:54",
       "album": {
-        "name": "Setlist Vol. 1 (Live)",
-        "url": "https://open.spotify.com/album/0fRY9s3aFVDG3n9g4atgII"
-      },
-      "artists": [
-        {
-          "name": "Travis Greene",
-          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
-        }
-      ],
-      "duration_ms": 338894,
-      "name": "Intentional - Live",
-      "url": "https://open.spotify.com/track/3Tgll8Cq5gfGUv03oTyQQD"
-    },
-    {
-      "added_at": "2021-06-12 04:05:54",
-      "album": {
         "name": "20th Century Masters - The Millennium Collection: The Best Of Richard Smallwood",
         "url": "https://open.spotify.com/album/1vqjoOP0rOi0zHrbvBp8nU"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 267053,
       "name": "The Lord's Prayer - Live",
       "url": "https://open.spotify.com/track/07Mjg6guQW9bJNspyyncGb"
+    },
+    {
+      "added_at": "2021-06-12 04:05:54",
+      "album": {
+        "name": "As We Worship Live",
+        "url": "https://open.spotify.com/album/3Ainh78D6AeVHW9TvIbYvT"
+      },
+      "artists": [
+        {
+          "name": "William McDowell",
+          "url": "https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN"
+        }
+      ],
+      "duration_ms": 287080,
+      "name": "He Is",
+      "url": "https://open.spotify.com/track/7qFOUqL4zWEXKSTzV1VMjr"
     },
     {
       "added_at": "2021-06-12 04:05:54",
@@ -815,22 +815,6 @@
     {
       "added_at": "2021-06-12 04:05:54",
       "album": {
-        "name": "As We Worship Live",
-        "url": "https://open.spotify.com/album/3Ainh78D6AeVHW9TvIbYvT"
-      },
-      "artists": [
-        {
-          "name": "William McDowell",
-          "url": "https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN"
-        }
-      ],
-      "duration_ms": 287080,
-      "name": "He Is",
-      "url": "https://open.spotify.com/track/7qFOUqL4zWEXKSTzV1VMjr"
-    },
-    {
-      "added_at": "2021-06-12 04:05:54",
-      "album": {
         "name": "Gospel's Best Live",
         "url": "https://open.spotify.com/album/5NvLAYXvwMmEfYC5K2CsUd"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 243453,
       "name": "Celebrate - Live",
       "url": "https://open.spotify.com/track/1VB3lMBTurh6z4DcKvINYL"
+    },
+    {
+      "added_at": "2021-06-12 04:05:54",
+      "album": {
+        "name": "Setlist Vol. 1 (Live)",
+        "url": "https://open.spotify.com/album/0fRY9s3aFVDG3n9g4atgII"
+      },
+      "artists": [
+        {
+          "name": "Travis Greene",
+          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
+        }
+      ],
+      "duration_ms": 338894,
+      "name": "Intentional - Live",
+      "url": "https://open.spotify.com/track/3Tgll8Cq5gfGUv03oTyQQD"
     },
     {
       "added_at": "2021-06-12 04:05:54",

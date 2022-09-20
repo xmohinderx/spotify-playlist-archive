@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ37yWkEort.md) - [plain]
 
 > From joyful jubillance to hushed harmonies – this is some of the best in A Cappella Christmas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,513 likes - 45 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,515 likes - 45 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ37yWkEort.md) - [plain]
 | 9 | [Jingle Bell Rock](https://open.spotify.com/track/7h0jTze9vNvp7Kpid2i2dB) | [Rockapella](https://open.spotify.com/artist/1AFSUleuDTapVhm5zUf4ix) | [A Rockapella Holiday](https://open.spotify.com/album/1WCdcmjKznIqlpGrSzMKWO) | 1:55 |
 | 10 | [Winter Wonderland / Don't Worry Be Happy \(feat\. Tori Kelly\)](https://open.spotify.com/track/2kPpxNSgXRvu5yqkRLKJIu) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [That's Christmas To Me \(Deluxe Edition\)](https://open.spotify.com/album/082VlX7cBth0o8xqDGclNn) | 3:27 |
 | 11 | [The 12 Days of Christmas](https://open.spotify.com/track/5f5wlkRHWhYxOdp1hOUsTb) | [Straight No Chaser](https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM) | [Christmas Cheers \(Deluxe\)](https://open.spotify.com/album/2M5NEqQVs7kIit8QbtXrRs) | 2:58 |
-| 12 | [I Heard the Bells on Christmas Day](https://open.spotify.com/track/2xsQpFWuAxu5XhhOLQlB7J) | [Street Corner Symphony](https://open.spotify.com/artist/1PvW2XdqUf53cllgpYv6Ge) | [Sorted Noise Records: A Holiday Album, Vol\. 2](https://open.spotify.com/album/5Mj8SnxH6mYUdEIV7w6sbT) | 2:26 |
+| 12 | [I Heard the Bells on Christmas Day](https://open.spotify.com/track/7qO6uDcPA8dHYAYZQxzkfr) | [Street Corner Symphony](https://open.spotify.com/artist/1PvW2XdqUf53cllgpYv6Ge) | [Sorted Noise Records: A Holiday Album, Vol\. 2](https://open.spotify.com/album/18GWTfG4zqCiTR3mxtDwqY) | 2:26 |
 | 13 | [It Came Upon The Midnight Clear](https://open.spotify.com/track/4zjQjevGJIUCjAJB2qbThT) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [Evergreen](https://open.spotify.com/album/7HgVH7ChzqayHdf1eAi9c1) | 3:09 |
 | 14 | [The First Noel](https://open.spotify.com/track/6Lu8BYRVgnlgEj65RvpFdH) | [Glee Cast](https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm) | [Glee: The Music, The Christmas Album Vol\. 3](https://open.spotify.com/album/5msQHy2ZV5LjOdeqbYZl9y) | 2:24 |
 | 15 | [Silent Night](https://open.spotify.com/track/3WP3OIYgTAnfFuiQBvgzgi) | [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [The Best Of/20th Century Masters: The Christmas Collection](https://open.spotify.com/album/1x6bJdWl3Imquoi2Mu0BsC) | 2:32 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ37yWkEort.md) - [plain]
 | 44 | [Baby, It's Cold Outside \(feat\. Kira Isabella\)](https://open.spotify.com/track/06HNNnj7ID04gJoQs6AqUT) | [Home Free](https://open.spotify.com/artist/2MSlGNpwXDScUdspOK6TS7), [Kira Isabella](https://open.spotify.com/artist/67Dpp3kDh6tqv9TcIzOi38) | [Full Of Cheer \(Deluxe\)](https://open.spotify.com/album/2dCAEsjQuYWvcsyaZk5szk) | 2:42 |
 | 45 | [Coventry Carol](https://open.spotify.com/track/64G40fpdMQE95CSIJx9Qr1) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [A Pentatonix Christmas Deluxe](https://open.spotify.com/album/3sId8sOH47yqOWopzbEtJn) | 3:02 |
 
-Snapshot ID: `MTY0MjE3MjkzMCwwMDAwMDAwMDRkMDk2Y2ZlODI2MzdjZWZhZmFmYjZlZWRjMjc2Mjc2`
+Snapshot ID: `MTY0MjE3MjkzMCwwMDAwMDAwMDdjZDVkMmRmNTMzOGM4YWM0N2YwYTMxNDI1NDA5YzQ5`

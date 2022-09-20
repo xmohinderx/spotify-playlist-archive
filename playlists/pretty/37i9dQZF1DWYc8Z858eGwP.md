@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYc8Z858eGwP.md) - [plain]
 
 > The most exciting new artists on the rise from the African continent & diaspora\. Cover: <a href="https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq?si=wayNsUeRQpG6I2LJ7ptwYg">Ayra Starr </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,633 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,714 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYc8Z858eGwP.md) - [plain]
 | 49 | [Twenties](https://open.spotify.com/track/1li8msSlPGNuiMPUNqz0Ys) | [Suhn](https://open.spotify.com/artist/21FjHoi27TUaIuUSYxdOwf) | [Twenties](https://open.spotify.com/album/1ofj7jvoMEFCMts0v4ZjqI) | 2:24 |
 | 50 | [Condemn \(feat\. City Boy, O'Kenneth, reggie & Kwaku DMC\)](https://open.spotify.com/track/5aFLIpPbYSIQWCxyDvBjqP) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [City Boy](https://open.spotify.com/artist/2ppps0iwSdww4cfepGnscr), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [Condemn \(feat\. City Boy, O'Kenneth, reggie & Kwaku DMC\)](https://open.spotify.com/album/6Xxe0hBs5HEpSpSMvkR91d) | 3:00 |
 
-Snapshot ID: `MTY2MzI2MjI1NCwwMDAwMDAwMGRlOTJmMDkwNjJhMDg3Njc1ODBhNjU5NjIzYjUwMDJj`
+Snapshot ID: `MTY2MzU3MTY3NSwwMDAwMDAwMDJhMGZkMThmZjAyMTFhZGYxOWM4NGYxNTU0NGM0ZDk5`

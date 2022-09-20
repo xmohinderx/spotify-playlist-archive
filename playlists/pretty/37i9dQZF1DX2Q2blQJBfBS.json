@@ -1,12 +1,12 @@
 {
   "description": "Welcome to the underground ",
-  "num_followers": 126367,
+  "num_followers": 126656,
   "original_name": "The Skate Shop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMGY0NjhiYmI0NTc3M2FkOGUxODVhZjQxYjk0NmYzNTdh",
+  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMDYxZmFkYWFmZTU1OTRiMzRmZGUyNTkxNzJlOWEyOWQz",
   "tracks": [
     {
       "added_at": "2022-09-09 04:01:00",
@@ -823,22 +823,6 @@
     {
       "added_at": "2022-05-10 19:26:35",
       "album": {
-        "name": "ATLiens",
-        "url": "https://open.spotify.com/album/1IaBCF26OjgYwUCEPaIyC0"
-      },
-      "artists": [
-        {
-          "name": "Outkast",
-          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
-        }
-      ],
-      "duration_ms": 251666,
-      "name": "Jazzy Belle",
-      "url": "https://open.spotify.com/track/6w4MlvpuxtbjGdL9YeTx89"
-    },
-    {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
         "name": "Midnight Marauders",
         "url": "https://open.spotify.com/album/4v5x3Oo3UjQ9YmF3hRAip5"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 241133,
       "name": "Coolie High",
       "url": "https://open.spotify.com/track/6yZAdQyPJtXjATvAT8ERQg"
+    },
+    {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
+        "name": "ATLiens",
+        "url": "https://open.spotify.com/album/1IaBCF26OjgYwUCEPaIyC0"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        }
+      ],
+      "duration_ms": 251666,
+      "name": "Jazzy Belle",
+      "url": "https://open.spotify.com/track/6w4MlvpuxtbjGdL9YeTx89"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -971,22 +971,6 @@
     {
       "added_at": "2022-05-10 19:26:35",
       "album": {
-        "name": "Lupe Fiasco's The Cool",
-        "url": "https://open.spotify.com/album/0MihD70HInk2rDaChdAdEy"
-      },
-      "artists": [
-        {
-          "name": "Lupe Fiasco",
-          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
-        }
-      ],
-      "duration_ms": 270653,
-      "name": "Paris, Tokyo",
-      "url": "https://open.spotify.com/track/2dXME00xUY1CRcMZsM3Y4q"
-    },
-    {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
         "name": "Pieces of a Man",
         "url": "https://open.spotify.com/album/2YUoojiwp6nk5mBAUbEz9a"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 208570,
       "name": "Understood",
       "url": "https://open.spotify.com/track/0TUK4LKkHVHdsLwscQckX6"
+    },
+    {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
+        "name": "Lupe Fiasco's The Cool",
+        "url": "https://open.spotify.com/album/0MihD70HInk2rDaChdAdEy"
+      },
+      "artists": [
+        {
+          "name": "Lupe Fiasco",
+          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
+        }
+      ],
+      "duration_ms": 270653,
+      "name": "Paris, Tokyo",
+      "url": "https://open.spotify.com/track/2dXME00xUY1CRcMZsM3Y4q"
     },
     {
       "added_at": "2022-05-27 13:52:51",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2022-05-10 19:26:35",
       "album": {
-        "name": "Donuts",
-        "url": "https://open.spotify.com/album/5fMlysqhFE0itGn4KezMBW"
-      },
-      "artists": [
-        {
-          "name": "J Dilla",
-          "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
-        }
-      ],
-      "duration_ms": 71666,
-      "name": "Welcome To The Show",
-      "url": "https://open.spotify.com/track/6YbfTiImEm6kH6gRXpdtgR"
-    },
-    {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
         "name": "SICK!",
         "url": "https://open.spotify.com/album/51heTwkSfb4Z5dRIgwU2bd"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 215640,
       "name": "Just Another Case",
       "url": "https://open.spotify.com/track/60KWmDnLE9jB9dHVkhlu3P"
+    },
+    {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
+        "name": "Donuts",
+        "url": "https://open.spotify.com/album/5fMlysqhFE0itGn4KezMBW"
+      },
+      "artists": [
+        {
+          "name": "J Dilla",
+          "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
+        }
+      ],
+      "duration_ms": 71666,
+      "name": "Welcome To The Show",
+      "url": "https://open.spotify.com/track/6YbfTiImEm6kH6gRXpdtgR"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -1195,6 +1195,30 @@
     {
       "added_at": "2022-05-10 19:26:35",
       "album": {
+        "name": "This Thing Of Ours",
+        "url": "https://open.spotify.com/album/44qqs0b21hn7gAsuTioQkT"
+      },
+      "artists": [
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        },
+        {
+          "name": "Boldy James",
+          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
+        },
+        {
+          "name": "Sideshow",
+          "url": "https://open.spotify.com/artist/53xeKWbSRuGgTxViJTAZKC"
+        }
+      ],
+      "duration_ms": 177373,
+      "name": "TV Dinners (feat. Boldy James & Sideshow)",
+      "url": "https://open.spotify.com/track/706NuVviwPA1BBI2XkDui5"
+    },
+    {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
         "name": "MOVIN'",
         "url": "https://open.spotify.com/album/0Oe48uUpgy05WBgAdYqthi"
       },
@@ -1253,28 +1277,36 @@
       "url": "https://open.spotify.com/track/6ARnCOTlWlCroasGYHAFNi"
     },
     {
-      "added_at": "2022-05-10 19:26:35",
+      "added_at": "2022-09-09 04:01:00",
       "album": {
-        "name": "This Thing Of Ours",
-        "url": "https://open.spotify.com/album/44qqs0b21hn7gAsuTioQkT"
+        "name": "Flying High",
+        "url": "https://open.spotify.com/album/76BINBQvavXWT13Hax9eXF"
       },
       "artists": [
         {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+          "name": "LMD",
+          "url": "https://open.spotify.com/artist/4D5BJQmdXcLgnHcq1ImHn9"
         },
         {
-          "name": "Boldy James",
-          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
+          "name": "Madlib",
+          "url": "https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf"
         },
         {
-          "name": "Sideshow",
-          "url": "https://open.spotify.com/artist/53xeKWbSRuGgTxViJTAZKC"
+          "name": "MED",
+          "url": "https://open.spotify.com/artist/36zSkwftotDHslP3KUQpew"
+        },
+        {
+          "name": "Fly Anakin",
+          "url": "https://open.spotify.com/artist/5WybyjV2fRyRQcJrmmiifF"
+        },
+        {
+          "name": "J Rocc",
+          "url": "https://open.spotify.com/artist/76Bkn226zbX3IMiEiLC2h2"
         }
       ],
-      "duration_ms": 177373,
-      "name": "TV Dinners (feat. Boldy James & Sideshow)",
-      "url": "https://open.spotify.com/track/706NuVviwPA1BBI2XkDui5"
+      "duration_ms": 225303,
+      "name": "Kool",
+      "url": "https://open.spotify.com/track/5YkeyUlwClpOR8297j0uK8"
     },
     {
       "added_at": "2022-05-27 12:00:00",
@@ -1313,38 +1345,6 @@
       "url": "https://open.spotify.com/track/1BQ7NbAotfutwilc1ErwYz"
     },
     {
-      "added_at": "2022-09-09 04:01:00",
-      "album": {
-        "name": "Flying High",
-        "url": "https://open.spotify.com/album/76BINBQvavXWT13Hax9eXF"
-      },
-      "artists": [
-        {
-          "name": "LMD",
-          "url": "https://open.spotify.com/artist/4D5BJQmdXcLgnHcq1ImHn9"
-        },
-        {
-          "name": "Madlib",
-          "url": "https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf"
-        },
-        {
-          "name": "MED",
-          "url": "https://open.spotify.com/artist/36zSkwftotDHslP3KUQpew"
-        },
-        {
-          "name": "Fly Anakin",
-          "url": "https://open.spotify.com/artist/5WybyjV2fRyRQcJrmmiifF"
-        },
-        {
-          "name": "J Rocc",
-          "url": "https://open.spotify.com/artist/76Bkn226zbX3IMiEiLC2h2"
-        }
-      ],
-      "duration_ms": 225303,
-      "name": "Kool",
-      "url": "https://open.spotify.com/track/5YkeyUlwClpOR8297j0uK8"
-    },
-    {
       "added_at": "2022-05-10 19:26:35",
       "album": {
         "name": "Why Worry",
@@ -1361,22 +1361,6 @@
       "url": "https://open.spotify.com/track/0M5pEUmRD3b4nP31L88IdL"
     },
     {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
-        "name": "Clockers (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0KtWSWHsL4CLKeIT8woUKC"
-      },
-      "artists": [
-        {
-          "name": "Crooklyn Dodgers",
-          "url": "https://open.spotify.com/artist/4FjR5GmNXYr2RKHVOXTP7e"
-        }
-      ],
-      "duration_ms": 304840,
-      "name": "Return of The Crooklyn Dodgers",
-      "url": "https://open.spotify.com/track/57iKOKfcj8wVZp6Il1wU4f"
-    },
-    {
       "added_at": "2022-09-02 18:33:39",
       "album": {
         "name": "Southside",
@@ -1391,6 +1375,22 @@
       "duration_ms": 201056,
       "name": "Southside",
       "url": "https://open.spotify.com/track/5kRAI8FU35oY52jn8xwrI0"
+    },
+    {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
+        "name": "Clockers (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0KtWSWHsL4CLKeIT8woUKC"
+      },
+      "artists": [
+        {
+          "name": "Crooklyn Dodgers",
+          "url": "https://open.spotify.com/artist/4FjR5GmNXYr2RKHVOXTP7e"
+        }
+      ],
+      "duration_ms": 304840,
+      "name": "Return of The Crooklyn Dodgers",
+      "url": "https://open.spotify.com/track/57iKOKfcj8wVZp6Il1wU4f"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -1437,22 +1437,6 @@
       "url": "https://open.spotify.com/track/6YRZngBVAy2FgUQWk3lwL1"
     },
     {
-      "added_at": "2022-08-12 12:00:00",
-      "album": {
-        "name": "I'll Fight You",
-        "url": "https://open.spotify.com/album/67n4uk6Rlej4tIZPmrQSrK"
-      },
-      "artists": [
-        {
-          "name": "Open Mike Eagle",
-          "url": "https://open.spotify.com/artist/5CuU6SRJjbbZL926nSGGxX"
-        }
-      ],
-      "duration_ms": 163058,
-      "name": "I'll Fight You",
-      "url": "https://open.spotify.com/track/44ii9mr7Daywg6pdq7S3NW"
-    },
-    {
       "added_at": "2022-05-10 19:26:35",
       "album": {
         "name": "Bread",
@@ -1477,6 +1461,38 @@
       "url": "https://open.spotify.com/track/3jj5c4DGogPb9xglsxl4BI"
     },
     {
+      "added_at": "2022-08-12 12:00:00",
+      "album": {
+        "name": "I'll Fight You",
+        "url": "https://open.spotify.com/album/67n4uk6Rlej4tIZPmrQSrK"
+      },
+      "artists": [
+        {
+          "name": "Open Mike Eagle",
+          "url": "https://open.spotify.com/artist/5CuU6SRJjbbZL926nSGGxX"
+        }
+      ],
+      "duration_ms": 163058,
+      "name": "I'll Fight You",
+      "url": "https://open.spotify.com/track/44ii9mr7Daywg6pdq7S3NW"
+    },
+    {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
+        "name": "Faygo Baby",
+        "url": "https://open.spotify.com/album/7KEDYDcAcnzssHuuSjivNK"
+      },
+      "artists": [
+        {
+          "name": "Kipp Stone",
+          "url": "https://open.spotify.com/artist/3KSsoLvVR3TTJpzRReIs3X"
+        }
+      ],
+      "duration_ms": 202193,
+      "name": "Faygo Baby",
+      "url": "https://open.spotify.com/track/7FShuykT2X15PNUHBBWbGP"
+    },
+    {
       "added_at": "2022-05-13 12:00:00",
       "album": {
         "name": "No Gold Teeth",
@@ -1495,22 +1511,6 @@
       "duration_ms": 153600,
       "name": "No Gold Teeth",
       "url": "https://open.spotify.com/track/7xAfS5dttCDl09bOdXAmY5"
-    },
-    {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
-        "name": "Faygo Baby",
-        "url": "https://open.spotify.com/album/7KEDYDcAcnzssHuuSjivNK"
-      },
-      "artists": [
-        {
-          "name": "Kipp Stone",
-          "url": "https://open.spotify.com/artist/3KSsoLvVR3TTJpzRReIs3X"
-        }
-      ],
-      "duration_ms": 202193,
-      "name": "Faygo Baby",
-      "url": "https://open.spotify.com/track/7FShuykT2X15PNUHBBWbGP"
     },
     {
       "added_at": "2022-07-08 12:00:00",
@@ -1733,22 +1733,6 @@
       "url": "https://open.spotify.com/track/7mYCIIPDmDiFqW3YFHdE6D"
     },
     {
-      "added_at": "2022-08-05 12:00:00",
-      "album": {
-        "name": "50K or Brunch",
-        "url": "https://open.spotify.com/album/2nQwGLF2oQfLuy5I0i9DqE"
-      },
-      "artists": [
-        {
-          "name": "Your Old Droog",
-          "url": "https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp"
-        }
-      ],
-      "duration_ms": 158386,
-      "name": "50K or Brunch",
-      "url": "https://open.spotify.com/track/3Ibuz2B3qy9a6EJBdwC8UV"
-    },
-    {
       "added_at": "2022-05-10 19:26:35",
       "album": {
         "name": "Fantastic, Vol. 2.10",
@@ -1763,6 +1747,22 @@
       "duration_ms": 209119,
       "name": "Hustle",
       "url": "https://open.spotify.com/track/0Q5lwuDqIW85PupgHFJwVb"
+    },
+    {
+      "added_at": "2022-08-05 12:00:00",
+      "album": {
+        "name": "50K or Brunch",
+        "url": "https://open.spotify.com/album/2nQwGLF2oQfLuy5I0i9DqE"
+      },
+      "artists": [
+        {
+          "name": "Your Old Droog",
+          "url": "https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp"
+        }
+      ],
+      "duration_ms": 158386,
+      "name": "50K or Brunch",
+      "url": "https://open.spotify.com/track/3Ibuz2B3qy9a6EJBdwC8UV"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -1811,22 +1811,6 @@
     {
       "added_at": "2022-05-10 19:26:35",
       "album": {
-        "name": "Balens Cho (Hot Candles)",
-        "url": "https://open.spotify.com/album/3lYDlFILOCtV39ompt2uRs"
-      },
-      "artists": [
-        {
-          "name": "Mach-Hommy",
-          "url": "https://open.spotify.com/artist/3ZMur3elMyOs248ah86NRk"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "LABOU",
-      "url": "https://open.spotify.com/track/2CQ4d1BuBN0ordQlCgJxT8"
-    },
-    {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
         "name": "The Black Mobius",
         "url": "https://open.spotify.com/album/1sAeVV3MOJ7WgJFbQ7An8D"
       },
@@ -1843,6 +1827,46 @@
       "duration_ms": 63504,
       "name": "Yeshua",
       "url": "https://open.spotify.com/track/6RwVEhegJzYvwGwt8U7hZW"
+    },
+    {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
+        "name": "Balens Cho (Hot Candles)",
+        "url": "https://open.spotify.com/album/3lYDlFILOCtV39ompt2uRs"
+      },
+      "artists": [
+        {
+          "name": "Mach-Hommy",
+          "url": "https://open.spotify.com/artist/3ZMur3elMyOs248ah86NRk"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "LABOU",
+      "url": "https://open.spotify.com/track/2CQ4d1BuBN0ordQlCgJxT8"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
+        "name": "Beep",
+        "url": "https://open.spotify.com/album/43FECz43FmUI2lCoyGQAND"
+      },
+      "artists": [
+        {
+          "name": "Dave B.",
+          "url": "https://open.spotify.com/artist/5bfqwcEcRrMhtY9smw3IeJ"
+        },
+        {
+          "name": "Jaywop",
+          "url": "https://open.spotify.com/artist/7LHBUDRMoLWz3aw9H3YSb9"
+        },
+        {
+          "name": "Da-P",
+          "url": "https://open.spotify.com/artist/4PKHlnz8cQ79kQ6kd3GufJ"
+        }
+      ],
+      "duration_ms": 171219,
+      "name": "Beep",
+      "url": "https://open.spotify.com/track/42BRNhLPYuzKz0gHSwRX8m"
     },
     {
       "added_at": "2022-07-29 12:00:00",
@@ -1889,30 +1913,6 @@
       "url": "https://open.spotify.com/track/6eeG2PFxH0rFmLoK3hGGZH"
     },
     {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
-        "name": "Beep",
-        "url": "https://open.spotify.com/album/43FECz43FmUI2lCoyGQAND"
-      },
-      "artists": [
-        {
-          "name": "Dave B.",
-          "url": "https://open.spotify.com/artist/5bfqwcEcRrMhtY9smw3IeJ"
-        },
-        {
-          "name": "Jaywop",
-          "url": "https://open.spotify.com/artist/7LHBUDRMoLWz3aw9H3YSb9"
-        },
-        {
-          "name": "Da-P",
-          "url": "https://open.spotify.com/artist/4PKHlnz8cQ79kQ6kd3GufJ"
-        }
-      ],
-      "duration_ms": 171219,
-      "name": "Beep",
-      "url": "https://open.spotify.com/track/42BRNhLPYuzKz0gHSwRX8m"
-    },
-    {
       "added_at": "2022-07-29 12:00:00",
       "album": {
         "name": "MEMO",
@@ -1927,6 +1927,22 @@
       "duration_ms": 174401,
       "name": "GOOD TO BE HOME II",
       "url": "https://open.spotify.com/track/2BcHRkwWWAcucXyFlI8kDA"
+    },
+    {
+      "added_at": "2022-05-20 12:00:00",
+      "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/2ZWovUa3OQ9xkbmFHyR2VK"
+      },
+      "artists": [
+        {
+          "name": "KUMBAYA",
+          "url": "https://open.spotify.com/artist/4C5VirGeSfloffJC78CJio"
+        }
+      ],
+      "duration_ms": 146573,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/596etLASQapOGD4iOcYJOk"
     },
     {
       "added_at": "2022-08-12 12:00:00",
@@ -1947,22 +1963,6 @@
       "duration_ms": 257142,
       "name": "Lemonade",
       "url": "https://open.spotify.com/track/5dG6kn38IgVuGUwFQ3dfSg"
-    },
-    {
-      "added_at": "2022-05-20 12:00:00",
-      "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/2ZWovUa3OQ9xkbmFHyR2VK"
-      },
-      "artists": [
-        {
-          "name": "KUMBAYA",
-          "url": "https://open.spotify.com/artist/4C5VirGeSfloffJC78CJio"
-        }
-      ],
-      "duration_ms": 146573,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/596etLASQapOGD4iOcYJOk"
     },
     {
       "added_at": "2022-05-20 12:00:00",

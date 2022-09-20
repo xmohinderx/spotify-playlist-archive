@@ -374,7 +374,7 @@
     },
     {
       "album": {
-        "name": "Badimo (feat. DJ Maphorisa)",
+        "name": "Badimo (feat. DJ Maphorisa & Boohle)",
         "url": "https://open.spotify.com/album/16T88ND5mXBOVElDNieKZq"
       },
       "artists": [
@@ -385,13 +385,17 @@
         {
           "name": "DJ Maphorisa",
           "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
+        },
+        {
+          "name": "Boohle",
+          "url": "https://open.spotify.com/artist/6fHE8xZBCxzwer9DIbOmv4"
         }
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 254117,
-      "name": "Badimo (feat. DJ Maphorisa)",
+      "name": "Badimo (feat. DJ Maphorisa & Boohle)",
       "url": "https://open.spotify.com/track/5LRdE3vW5Pb4zPXKOHZOa1"
     },
     {
@@ -3806,6 +3810,32 @@
     },
     {
       "album": {
+        "name": "Qoma",
+        "url": "https://open.spotify.com/album/7bL1zIGv1QtVCBU2kEwIr6"
+      },
+      "artists": [
+        {
+          "name": "Blaq Diamond",
+          "url": "https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe"
+        },
+        {
+          "name": "Big Zulu",
+          "url": "https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A"
+        },
+        {
+          "name": "Siya Ntuli",
+          "url": "https://open.spotify.com/artist/5BggJAW7Ubyk8FR87MpGvc"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270769,
+      "name": "Qoma",
+      "url": "https://open.spotify.com/track/7tJRECMBZbgGUh83C48NB0"
+    },
+    {
+      "album": {
         "name": "Trouble In Paradise",
         "url": "https://open.spotify.com/album/1ltjerRedPrqqpM0Nb1MXl"
       },
@@ -4596,6 +4626,28 @@
     },
     {
       "album": {
+        "name": "U Kondelela",
+        "url": "https://open.spotify.com/album/3Q6kTcN2cvW6PWdoGCQ9o2"
+      },
+      "artists": [
+        {
+          "name": "Vee Mampeezy",
+          "url": "https://open.spotify.com/artist/1HnX82fJQuTTF34wrYn2Zq"
+        },
+        {
+          "name": "Makhadzi",
+          "url": "https://open.spotify.com/artist/2aIcnnHTA16VbmhNJGLrGs"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273057,
+      "name": "U Kondelela",
+      "url": "https://open.spotify.com/track/0EhTtfkHu8LoH4q3vJcgsz"
+    },
+    {
+      "album": {
         "name": "Amagalelo",
         "url": "https://open.spotify.com/album/1KdQjmlYYh74SahJmDNGSV"
       },
@@ -5001,7 +5053,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-20",
       "duration_ms": 319466,
       "name": "Vibe",
       "url": "https://open.spotify.com/track/17hmuwTlZn9npZYlSdw8b6"

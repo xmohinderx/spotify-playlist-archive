@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUtjhu2IHar.md) - [plain]
 
 > congrats class of 2021, you crushed it this year \\m/ Cover: WILLOW
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,042 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,098 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUtjhu2IHar.md) - [plain]
 | 30 | [Hills Have Eyes](https://open.spotify.com/track/3HUB8GPbaGpIpjRoONLJP4) | [POORSTACY](https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38) | [Hills Have Eyes](https://open.spotify.com/album/1h7CsqmCV5QFpLJKWwoUY8) | 2:10 |
 | 31 | [HELLSLIDE](https://open.spotify.com/track/5cVQkTrXlij5odCiRQ3Np1) | [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [HELLSLIDE](https://open.spotify.com/album/2kkWAJpP6cI3qGOP4aR3yM) | 2:21 |
 | 32 | [la di die \(feat\. jxdn\)](https://open.spotify.com/track/3RLshk3cDQOqWhSIRCVaXL) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ), [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [la di die \(feat\. jxdn\)](https://open.spotify.com/album/1KBoH5xsMCXPuVsZMORvtO) | 3:15 |
-| 33 | [Find My Own Way](https://open.spotify.com/track/0gyAtsUMGDlf4FGKLSXnCW) | [Arrested Youth](https://open.spotify.com/artist/4UhExRgMW9QR7oNmTI2lPG), [Mark Hoppus](https://open.spotify.com/artist/0FOYGJujASE1pCw5WNHf0g) | [Nonfiction](https://open.spotify.com/album/5tnu3rGzSZuZhkqoKLofh4) | 2:19 |
+| 33 | [Find My Own Way](https://open.spotify.com/track/5csgjh0c05VwX2cDC8mpkb) | [Arrested Youth](https://open.spotify.com/artist/4UhExRgMW9QR7oNmTI2lPG), [Mark Hoppus](https://open.spotify.com/artist/0FOYGJujASE1pCw5WNHf0g) | [Nonfiction](https://open.spotify.com/album/4JQzywD7AhqzDLDtFHxOpi) | 2:19 |
 | 34 | [There For Me](https://open.spotify.com/track/53R8kuDLB4gkxqWeyTEzaY) | [Chad Tepper](https://open.spotify.com/artist/0Tcr6t5uyvDgOuNPCD36A3), [Bowling For Soup](https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb) | [There For Me](https://open.spotify.com/album/6jb64xBTpHW4Lbtx7kQlVL) | 3:17 |
 | 35 | [WITHOUT YOU](https://open.spotify.com/track/4NDffVrm7zr0vJSzakrBbw) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Pegasus: Neon Shark vs Pegasus Presented By Travis Barker \(Deluxe\)](https://open.spotify.com/album/4Sj1MJMO2jaIZyr00ipCkl) | 3:09 |
 | 36 | [nightmare](https://open.spotify.com/track/4ELpTiWFYUgFBzrjqt5Q8e) | [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [Trauma Factory](https://open.spotify.com/album/16rbUsslYCC9NnKIwLQUnY) | 2:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUtjhu2IHar.md) - [plain]
 | 49 | [Meant to be](https://open.spotify.com/track/4ePuicjF5iE9ZBS8Rz6kRm) | [idkjack](https://open.spotify.com/artist/5KpPvlBtQQCf0Jt836PyJX), [ylm shwty](https://open.spotify.com/artist/3jUsUXS7J4xR3UbHUuy7th) | [Meant to be](https://open.spotify.com/album/5Fpq5kAfeuNJHbMeDXlof8) | 2:39 |
 | 50 | [Who Set Us On Fire](https://open.spotify.com/track/1WLQimMOCeqW2rWgFEESWZ) | [CADE](https://open.spotify.com/artist/0CEK8AzyeD5ZUdUloB6yQV) | [Who Set Us On Fire](https://open.spotify.com/album/7z9TGnRj5le6f2bT2efFFl) | 3:13 |
 
-Snapshot ID: `MTYzODM2NjQ4MCwwMDAwMDAwMGY5Mjk5YWMzZDcyOThjYjYzNmQ5NjBkYTQ4OTA4NzYx`
+Snapshot ID: `MTYzODM2NjQ4MCwwMDAwMDAwMGYwM2MxMjA0NGY5MzI4ZDBlZTY1YWVjODNkYjY3NWVk`

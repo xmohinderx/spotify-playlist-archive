@@ -4,7 +4,7 @@
 
 > Lo nuevo de la Música Mexicana\. Cover: Los Dos Carnales
 
-940 songs - 2 day 1 hr 17 min - [published](https://open.spotify.com/playlist/6A73JfWm3me5kCdLBJY6VI)
+941 songs - 2 day 1 hr 21 min - [published](https://open.spotify.com/playlist/6A73JfWm3me5kCdLBJY6VI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -513,6 +513,7 @@
 | [La Pizzería](https://open.spotify.com/track/6jbsGF72Wk1yeOuGTmeCRe) | [Los de la GS](https://open.spotify.com/artist/1mwAXk76AfeW98Xuuui7zW) | [La Pizzería](https://open.spotify.com/album/3YK95tFjSVEne8ATyZF0Av) | 3:24 | 2022-08-12 | 2022-08-20 |
 | [La Propina](https://open.spotify.com/track/3MNizqH3Vgli5czbnBDCie) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [La Propina](https://open.spotify.com/album/5Fe9UKkyuhIZQLkx0MnrqL) | 2:22 | 2022-08-26 | 2022-09-03 |
 | [La Que Se Fue](https://open.spotify.com/track/0CTaaPUheCCdynjsZhhwlB) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Nunca Jamas](https://open.spotify.com/artist/5MgEV0h2E4COzAXi2BtQE7) | [La Que Se Fue](https://open.spotify.com/album/1WXcLpnA8CXFXpHM9Yuz26) | 2:46 | 2022-09-02 | 2022-09-10 |
+| [La Que Se Fue](https://open.spotify.com/track/52Kw3tA8uFocxbbw4Nbnjz) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Pitt Blanco](https://open.spotify.com/artist/30gIMGuXt3QKpyVQHhJc8o) | [La Que Se Fue](https://open.spotify.com/album/61rRHurzkamUCuqQXs8PuP) | 4:27 | 2022-09-19 |  |
 | [La Siembra](https://open.spotify.com/track/14VOqso0CLZIowdMAWT4nH) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Corridos Para Valientes, Vol.1](https://open.spotify.com/album/7mGVKM49bCCwGshz1kEOLl) | 3:54 | 2022-09-16 |  |
 | [La Sombra Del Sombrero](https://open.spotify.com/track/7A1TzKROBNCPBnCj9PaOo8) | [Los Nuevos Ondeados](https://open.spotify.com/artist/6cOnEvtYAaRTCWdLl1nqEI) | [La Sombra Del Sombrero](https://open.spotify.com/album/1GwnzvUm0WKgBEwHnJPVHB) | 2:55 | 2022-06-17 | 2022-06-25 |
 | [La Traidora](https://open.spotify.com/track/1uhC8UtC4DvUwiByVYGFwV) | [Conjunto Amanecer](https://open.spotify.com/artist/0wCyyn2rUtk96O0ZBzgM33), [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [La Traidora](https://open.spotify.com/album/3efEREnxGlkRtcAqt8LZYe) | 3:20 | 2022-08-12 | 2022-08-20 |

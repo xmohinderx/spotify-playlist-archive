@@ -4,7 +4,7 @@
 
 > Love, sex, and heartbreak\. Listen to the official playlist for Heartbreak High, now on Netflix.
 
-126 songs - 7 hr 49 min - [published](https://open.spotify.com/playlist/3fSz2XAu4QpDesLVlBr0GV)
+127 songs - 7 hr 52 min - [published](https://open.spotify.com/playlist/3fSz2XAu4QpDesLVlBr0GV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Bunyip Beat](https://open.spotify.com/track/6bE1EoIVfevON0AGoWiOtc) | [Sleep D](https://open.spotify.com/artist/7DSX8wua9P7LuGapEmftQc) | [Red Rock](https://open.spotify.com/album/1RZYk73el9pnwTasNIPPg5) | 6:18 | 2022-09-14 |  |
 | [Bussit](https://open.spotify.com/track/2rniJeDskk1s6xOcfio3RV) | [VV Pete](https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr) | [Bussit](https://open.spotify.com/album/0z5TThA7B6lgdk0z4uX4qB) | 2:50 | 2022-09-14 |  |
 | [Bye Bye](https://open.spotify.com/track/0yIvgtqLRqmJGh8CPpHRnC) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [Smiling with No Teeth](https://open.spotify.com/album/4j7wEZWND7GIh918rLgYHQ) | 4:09 | 2022-09-14 |  |
+| [Carafe](https://open.spotify.com/track/0K56JS9Kt8IY4h58LyO04g) | [Teether](https://open.spotify.com/artist/4rWywJgjoeVMO8LY87xYZo), [Kuya Neil](https://open.spotify.com/artist/2VOung9TCgKNkNNnRklTAY) | [GLYPH](https://open.spotify.com/album/01ukt6uUhOmr6N9TvAsUrE) | 2:48 | 2022-09-19 |  |
 | [Cards](https://open.spotify.com/track/3iw2FiVfOdP5cuX3UFt23u) | [Hancoq](https://open.spotify.com/artist/78c8pJBdUS6WwWWeoJ5z1W) | [Cards](https://open.spotify.com/album/5NssnsFC87qQsCEh6QOcA9) | 3:15 | 2022-09-14 |  |
 | [Centrefold](https://open.spotify.com/track/2120KPNVl3vALmvodMyu83) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [Smiling with No Teeth](https://open.spotify.com/album/4j7wEZWND7GIh918rLgYHQ) | 3:16 | 2022-09-14 |  |
 | [Cherry Lips \(Go Baby Go\)](https://open.spotify.com/track/2fNYai3gXuzpLFm0549Nin) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Beautiful Garbage \(Remastered\)](https://open.spotify.com/album/0NVuRvkKyJU72UAADRQ1nq) | 3:11 | 2022-09-14 |  |

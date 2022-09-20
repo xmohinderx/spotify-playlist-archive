@@ -4,7 +4,7 @@
 
 > Gorillaz make anti pop.
 
-1,076 songs - 2 day 4 hr 19 min - [published](https://open.spotify.com/playlist/6mIA8qAabkwc8qms18iOYE)
+1,077 songs - 2 day 4 hr 20 min - [published](https://open.spotify.com/playlist/6mIA8qAabkwc8qms18iOYE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -308,6 +308,7 @@
 | [Fiire](https://open.spotify.com/track/0Lsdnv0bZyvuji8Y9fxnn0) | [Moglii](https://open.spotify.com/artist/0lIIsJafIVVi3ruN2vFzpS) | [Fiire](https://open.spotify.com/album/5vynu58xVb4kxmlQsF913s) | 3:37 | 2021-03-14 | 2022-02-12 |
 | [FIND ME](https://open.spotify.com/track/2jqV4ATkjFNyLN2L5WtmUJ) | [burningforestboy](https://open.spotify.com/artist/44JiNZ7Zxi7IDh6njqD55M) | [STARSCREAM](https://open.spotify.com/album/1KT10bvDi0UODxLMZjTVld) | 2:10 | 2022-04-01 | 2022-07-01 |
 | [First Gear](https://open.spotify.com/track/6VSqMGR9ki01c3J2mUvMeH) | [Angelo Mota](https://open.spotify.com/artist/1PpFka2STGQ57kJcgYBgEF) | [First Gear](https://open.spotify.com/album/2htDqgseiL93HoFAlHFo46) | 2:45 | 2021-04-10 | 2021-12-22 |
+| [FIST](https://open.spotify.com/track/1Us2NxqNSrUC9go9QcjQQ3) | [Izzy Spears](https://open.spotify.com/artist/1CtOGEEFiGo6e2s6ySsY9P) | [FIST](https://open.spotify.com/album/3YFf5jiHCuEIawmbEhzSNB) | 1:25 | 2022-09-19 |  |
 | [FIT PIC](https://open.spotify.com/track/2fBhent6RyZfVDVL3mCeFE) | [Hadji Gaviota](https://open.spotify.com/artist/4eX6XMjx0GK6eCr59261Q7) | [FIT PIC](https://open.spotify.com/album/4kq62cyYveJQEMXyNOh35E) | 2:31 | 2021-08-13 | 2021-10-14 |
 | [FIT PIC](https://open.spotify.com/track/44xDuPMVZaGlsBCcBSsfCF) | [Hadji Gaviota](https://open.spotify.com/artist/4eX6XMjx0GK6eCr59261Q7) | [PASTIMES+](https://open.spotify.com/album/1oxM9aky7Q1YMXdKINqtjf) | 2:31 | 2022-04-09 | 2022-05-12 |
 | [FIX YOUR FACE](https://open.spotify.com/track/150pcHJ0Q6v21bj3Tt7NWN) | [seeyousoon](https://open.spotify.com/artist/2QFne35yv8Kjaey8tbYiT1) | [FIX YOUR FACE](https://open.spotify.com/album/3dn5duAhBBki3eyR1juH4m) | 3:06 | 2021-09-03 | 2021-12-22 |
@@ -579,7 +580,7 @@
 | [MARINE](https://open.spotify.com/track/5O6890xm1qwbbmg2pTn5V6) | [HVN](https://open.spotify.com/artist/61GrWHOtJOXpqQjibezT8i) | [ALL GIRLS GO TO HEAVEN](https://open.spotify.com/album/1QmZZE11VkUcOKEO9SJ8R4) | 3:22 | 2022-05-09 | 2022-06-01 |
 | [MARMALADE](https://open.spotify.com/track/7vdv0eDg178o0uUtGvRfm8) | [Donte Thomas](https://open.spotify.com/artist/53F7MNlYur7XEV75tY3Yor), [Ki$](https://open.spotify.com/artist/1oaYpFkpJmfkE0IVBJkfnM) | [COLORS](https://open.spotify.com/album/2qhRG0jx3hR8GjZ6gpUagh) | 3:38 | 2020-10-13\* | 2020-11-03 |
 | [Mask Off \(Feelings\)](https://open.spotify.com/track/5yozbGmaHKYcNW1qE26qMl) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [SG8\*](https://open.spotify.com/album/2vwmN3BESDjpuUWloIjM1S) | 3:06 | 2021-09-23 | 2022-03-01 |
-| [maybe not](https://open.spotify.com/track/1WnfHYAmjW9XwiCeLUpKLc) | [Shy High](https://open.spotify.com/artist/7LtrLa6TmVPbzfkYVhqxmo) | [maybe not](https://open.spotify.com/album/1Q52MWeo7WqYYJnB8suIlL) | 2:42 | 2022-08-05 |  |
+| [maybe not](https://open.spotify.com/track/1WnfHYAmjW9XwiCeLUpKLc) | [Shy High](https://open.spotify.com/artist/7LtrLa6TmVPbzfkYVhqxmo) | [maybe not](https://open.spotify.com/album/1Q52MWeo7WqYYJnB8suIlL) | 2:42 | 2022-08-05 | 2022-09-20 |
 | [Maybe Not](https://open.spotify.com/track/6Ppg45wf1F9t1W9sfyrYMD) | [Unusual Demont](https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR) | [Maybe Not](https://open.spotify.com/album/2Wd8dBdUxM0uEgRdCINM25) | 2:50 | 2022-05-18 | 2022-09-11 |
 | [MAZZA \(feat\. A$AP Rocky\)](https://open.spotify.com/track/5f7MdwR02i1Lxy9TLi80SA) | [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [MAZZA \(feat\. A$AP Rocky\)](https://open.spotify.com/album/5fAID5buWAhtqIdpVDwvar) | 2:51 | 2021-01-06 | 2021-02-20 |
 | [MCQUEEN](https://open.spotify.com/track/7uCtaXvAbJ89VlyWvL7qlM) | [Yoshi T.](https://open.spotify.com/artist/0KDEs3f3DfvAoLp1S24OJ0) | [MCQUEEN](https://open.spotify.com/album/3yyyEi7BGK3IAqQRLU5IXc) | 2:39 | 2022-04-15 | 2022-07-23 |

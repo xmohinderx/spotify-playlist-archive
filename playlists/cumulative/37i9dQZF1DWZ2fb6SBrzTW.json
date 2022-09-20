@@ -250,6 +250,24 @@
     },
     {
       "album": {
+        "name": "Bad To Me",
+        "url": "https://open.spotify.com/album/15hz0gTEdD5H9taOgDdrfJ"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176850,
+      "name": "Bad To Me",
+      "url": "https://open.spotify.com/track/2pUlBBWq8R10ylbBvZJV9j"
+    },
+    {
+      "album": {
         "name": "BAGS",
         "url": "https://open.spotify.com/album/3HKilqWvytZNtmTMvyIfT0"
       },
@@ -967,7 +985,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-20",
       "duration_ms": 209729,
       "name": "Freaky Friday",
       "url": "https://open.spotify.com/track/0m3chcCAwOAgdTj4rcAD8d"
@@ -1736,6 +1754,24 @@
     },
     {
       "album": {
+        "name": "LEADER!",
+        "url": "https://open.spotify.com/album/5ECNF38ye7R9LlzZRgp9YC"
+      },
+      "artists": [
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141958,
+      "name": "LEADER!",
+      "url": "https://open.spotify.com/track/60VJ0CZ1bV5Ln2n3H1Xo1F"
+    },
+    {
+      "album": {
         "name": "Life",
         "url": "https://open.spotify.com/album/6FL0VzDEc7b4EXy4qgidAb"
       },
@@ -2063,7 +2099,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-20",
       "duration_ms": 252785,
       "name": "Moyo (feat. Costa Titch & Phantom Steeze)",
       "url": "https://open.spotify.com/track/7ekrjUWevBEalqmms6kM3K"
@@ -2586,6 +2622,24 @@
     },
     {
       "album": {
+        "name": "Rush",
+        "url": "https://open.spotify.com/album/6CvEsGBD3JdbDKpmJaXn2E"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185093,
+      "name": "Rush",
+      "url": "https://open.spotify.com/track/1rrqJ9QkOBYJlsZgqqwxgB"
+    },
+    {
+      "album": {
         "name": "S3k3",
         "url": "https://open.spotify.com/album/7JjgRBz9e6A2wLPTcjQVYn"
       },
@@ -2663,6 +2717,32 @@
       "duration_ms": 161151,
       "name": "Selah",
       "url": "https://open.spotify.com/track/40AlCv3FTScAtM6zfJnXaG"
+    },
+    {
+      "album": {
+        "name": "Selema (Po Po) [Remix]",
+        "url": "https://open.spotify.com/album/4Inwvvp1zEZrhIriqbZK5f"
+      },
+      "artists": [
+        {
+          "name": "Musa Keys",
+          "url": "https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf"
+        },
+        {
+          "name": "Loui",
+          "url": "https://open.spotify.com/artist/53SBWd8nuUmKxJPS9quQi5"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331349,
+      "name": "Selema (Po Po) - Remix",
+      "url": "https://open.spotify.com/track/32YnNTVsrqcSPj3aXDbi80"
     },
     {
       "album": {
@@ -2769,7 +2849,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-20",
       "duration_ms": 360223,
       "name": "Sporofita (feat. 2woshort, LastbornDiroba, Al xapo & Sunde)",
       "url": "https://open.spotify.com/track/2Hse6wF70MSGbjwuPixL7S"
@@ -2885,7 +2965,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-20",
       "duration_ms": 154000,
       "name": "S\u00e1r\u00e9",
       "url": "https://open.spotify.com/track/6N0nSZAOuzYLLrzmma6KU1"

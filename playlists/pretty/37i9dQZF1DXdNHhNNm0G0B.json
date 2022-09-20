@@ -1,12 +1,12 @@
 {
   "description": "Relax to the sounds of acoustic blues and folk...",
-  "num_followers": 62709,
+  "num_followers": 62758,
   "original_name": "Backporch Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzAwMDcyNCwwMDAwMDAwMDQ1ZDk3NmYyYmU3M2U5MWU2MWVlMGM1MTY5MTQyYjRk",
+  "snapshot_id": "MTY2MzAwMDcyNCwwMDAwMDAwMDFkZGZiZTM4MWUzZjkzZjEwMjJjNjY5YzAyYWQ3NDky",
   "tracks": [
     {
       "added_at": "2022-09-12 16:38:44",
@@ -47,22 +47,6 @@
     {
       "added_at": "2022-09-12 16:38:44",
       "album": {
-        "name": "Heavy Load Blues",
-        "url": "https://open.spotify.com/album/4RZFJXFYLHs9VhATqZ2nan"
-      },
-      "artists": [
-        {
-          "name": "Gov't Mule",
-          "url": "https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708"
-        }
-      ],
-      "duration_ms": 438840,
-      "name": "Heavy Load",
-      "url": "https://open.spotify.com/track/4ZgLOQB66wNk4VNB9H98E2"
-    },
-    {
-      "added_at": "2022-09-12 16:38:44",
-      "album": {
         "name": "Mercury",
         "url": "https://open.spotify.com/album/0ltORgLqzn1ZWiu6a49Cyv"
       },
@@ -75,6 +59,22 @@
       "duration_ms": 142680,
       "name": "Hesitation Theme and Variation Blues",
       "url": "https://open.spotify.com/track/2h4KmvKPMxvZjTpHTpq2FE"
+    },
+    {
+      "added_at": "2022-09-12 16:38:44",
+      "album": {
+        "name": "Heavy Load Blues",
+        "url": "https://open.spotify.com/album/4RZFJXFYLHs9VhATqZ2nan"
+      },
+      "artists": [
+        {
+          "name": "Gov't Mule",
+          "url": "https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708"
+        }
+      ],
+      "duration_ms": 438840,
+      "name": "Heavy Load",
+      "url": "https://open.spotify.com/track/4ZgLOQB66wNk4VNB9H98E2"
     },
     {
       "added_at": "2022-09-12 16:38:44",
@@ -263,22 +263,6 @@
     {
       "added_at": "2022-09-12 16:38:44",
       "album": {
-        "name": "Avalon",
-        "url": "https://open.spotify.com/album/1UC7rVuAprZfBehFxiAGDr"
-      },
-      "artists": [
-        {
-          "name": "Julian Lage & Chris Eldridge",
-          "url": "https://open.spotify.com/artist/0TRdPkXMabkeuB8JautkEf"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Butter and Eggs",
-      "url": "https://open.spotify.com/track/1ba8qyfCD9olHnAfGGgxts"
-    },
-    {
-      "added_at": "2022-09-12 16:38:44",
-      "album": {
         "name": "The Centennial Collection",
         "url": "https://open.spotify.com/album/0MG8ODOjmgu62MpgeS9dRF"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 178853,
       "name": "They're Red Hot - SA.2627-1",
       "url": "https://open.spotify.com/track/4vrPulRxzgljqsYtgGQrpk"
+    },
+    {
+      "added_at": "2022-09-12 16:38:44",
+      "album": {
+        "name": "Avalon",
+        "url": "https://open.spotify.com/album/1UC7rVuAprZfBehFxiAGDr"
+      },
+      "artists": [
+        {
+          "name": "Julian Lage & Chris Eldridge",
+          "url": "https://open.spotify.com/artist/0TRdPkXMabkeuB8JautkEf"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Butter and Eggs",
+      "url": "https://open.spotify.com/track/1ba8qyfCD9olHnAfGGgxts"
     },
     {
       "added_at": "2022-09-12 16:38:44",
@@ -455,22 +455,6 @@
     {
       "added_at": "2022-09-12 16:38:44",
       "album": {
-        "name": "Dark Was The Night (Mojo Workin'- Blues For The Next Generation)",
-        "url": "https://open.spotify.com/album/3H90ji25FlT62CztiEOhrt"
-      },
-      "artists": [
-        {
-          "name": "Blind Willie Johnson",
-          "url": "https://open.spotify.com/artist/5kO4xdEKLuHHHPreu3UmkZ"
-        }
-      ],
-      "duration_ms": 188373,
-      "name": "Let Your Light Shine on Me",
-      "url": "https://open.spotify.com/track/51qp3WsYjiDuBhzR7AON69"
-    },
-    {
-      "added_at": "2022-09-12 16:38:44",
-      "album": {
         "name": "Down in Mississippi",
         "url": "https://open.spotify.com/album/1FhadZKvoH6Kh4SroqVJTP"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 203453,
       "name": "Down in Mississippi",
       "url": "https://open.spotify.com/track/3ArBqpsJ4pyrnKtHZYl6ZJ"
+    },
+    {
+      "added_at": "2022-09-12 16:38:44",
+      "album": {
+        "name": "Dark Was The Night (Mojo Workin'- Blues For The Next Generation)",
+        "url": "https://open.spotify.com/album/3H90ji25FlT62CztiEOhrt"
+      },
+      "artists": [
+        {
+          "name": "Blind Willie Johnson",
+          "url": "https://open.spotify.com/artist/5kO4xdEKLuHHHPreu3UmkZ"
+        }
+      ],
+      "duration_ms": 188373,
+      "name": "Let Your Light Shine on Me",
+      "url": "https://open.spotify.com/track/51qp3WsYjiDuBhzR7AON69"
     },
     {
       "added_at": "2022-09-12 16:38:44",

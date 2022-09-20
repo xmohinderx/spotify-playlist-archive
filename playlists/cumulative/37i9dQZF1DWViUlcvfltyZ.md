@@ -4,7 +4,7 @@
 
 > I FASK e il Liga? What is this, a crossover episode?
 
-166 songs - 9 hr 14 min - [published](https://open.spotify.com/playlist/1ygHfNTT8YmP8RXH0ojm4P)
+167 songs - 9 hr 18 min - [published](https://open.spotify.com/playlist/1ygHfNTT8YmP8RXH0ojm4P)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Canzone 10](https://open.spotify.com/track/4kgotZC0lTFDC9VxshW705) | [Little Pieces of Marmelade](https://open.spotify.com/artist/6ap5FlXui4P9SWOKz98o9Z) | [Canzone 10](https://open.spotify.com/album/0na7MpYLhqiienk3tW9uSg) | 4:18 | 2022-09-15 |  |
 | [Canzone 7](https://open.spotify.com/track/71rPnASxvCbdfVyw7H7GZf) | [Little Pieces of Marmelade](https://open.spotify.com/artist/6ap5FlXui4P9SWOKz98o9Z) | [Canzone 7](https://open.spotify.com/album/2AEHn0g8fL5e5ZzHzdZOtq) | 3:10 | 2022-09-01 | 2022-09-16 |
 | [Caro fottutissimo amico \(feat\. Motta\)](https://open.spotify.com/track/6XNyqB9SGce6cWFlR8wMVP) | [The Zen Circus](https://open.spotify.com/artist/7nrxF1ilcwJNHofGUfsC84), [Motta](https://open.spotify.com/artist/1gRsYpSd9fR8x92ppdlCg3) | [Caro fottutissimo amico \(feat\. Motta\)](https://open.spotify.com/album/4dBHrJUJ6tBAe8pzNWfDRW) | 11:54 | 2022-05-09 | 2022-05-13 |
+| [Chaise Longue](https://open.spotify.com/track/2oXs1w3ISiVPkz32vXJCCg) | [Verdena](https://open.spotify.com/artist/058thnz6odaxoAN4n3cMBN) | [Chaise Longue](https://open.spotify.com/album/2HtuyQa8ttY6Fn433FIs0s) | 3:40 | 2022-09-19 |  |
 | [Charlie Sheen](https://open.spotify.com/track/73DtLKoCK2gVwaXyU8JRuG) | [Nobody Cried For Dinosaurs](https://open.spotify.com/artist/2RQE2lqMvFUFA5u0znpkvo) | [Charlie Sheen](https://open.spotify.com/album/6cNcGxEFYkNCoMI4x2P2QX) | 4:09 | 2022-05-19 | 2022-07-01 |
 | [Cilantro Grass](https://open.spotify.com/track/4n5LbudcAOHocUHg5q2aVf) | [Baseball Gregg](https://open.spotify.com/artist/7MXsu694gc1X8K6s7XPmw4) | [Parrots & The Park \(Pastimes Vol\. I\)](https://open.spotify.com/album/4gJIOhzzi0CCaL6fGP0H2S) | 2:35 | 2022-06-16 | 2022-06-24 |
 | [Città foresta](https://open.spotify.com/track/4GPeaXpFwD2ju3fwnfZQ2Z) | [Alemoa](https://open.spotify.com/artist/0lswjSfiPA2bKp6PHlJISF) | [Città foresta](https://open.spotify.com/album/7Mb7CHDVdLUflxd9pKX21w) | 3:53 | 2022-07-21 |  |
@@ -79,7 +80,7 @@
 | [Idea](https://open.spotify.com/track/0AI35B8TuEtmz5ayf4dQR0) | [La Superluna di Drone Kong](https://open.spotify.com/artist/2yrGOWgivuL3OubJfHj5Xt), [Nikki](https://open.spotify.com/artist/1y9wN6EknDQynEF6123dXJ) | [Idea](https://open.spotify.com/album/3jG7ZwprmZW0PDoImjUL0H) | 2:45 | 2022-05-12 |  |
 | [Identikit / PLOT TWIST](https://open.spotify.com/track/3J93fJVupbMEjlrspQ2fp5) | [Tropea](https://open.spotify.com/artist/35EdAf21qKHNvALdF6loHX) | [Identikit / PLOT TWIST](https://open.spotify.com/album/5nmYuCiGDIlZRFj8VpeFgx) | 2:46 | 2022-05-09 | 2022-07-08 |
 | [If I Can Dream \(From The Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/track/4yibMEwSzelLmFtyXwWwZs) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [If I Can Dream \(From The Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/album/5q021NVGXBp7c9QPpZnijt) | 3:16 | 2022-06-16 |  |
-| [Il Mare e le Farfalle](https://open.spotify.com/track/4qayUwKDrCKiHprgzny8Md) | [Balvin Boys](https://open.spotify.com/artist/1z15QbpnJdMFmYoGKIRq48), [Riel](https://open.spotify.com/artist/5uinZNQ4QAnLvhLyzVR8hj) | [Internet](https://open.spotify.com/album/1W1ogLJ6TxHp2yKmCblCBR) | 2:20 | 2022-06-16 |  |
+| [Il Mare e le Farfalle](https://open.spotify.com/track/4qayUwKDrCKiHprgzny8Md) | [Balvin Boys](https://open.spotify.com/artist/1z15QbpnJdMFmYoGKIRq48), [Riel](https://open.spotify.com/artist/5uinZNQ4QAnLvhLyzVR8hj) | [Internet](https://open.spotify.com/album/1W1ogLJ6TxHp2yKmCblCBR) | 2:20 | 2022-06-16 | 2022-09-20 |
 | [il mondo va veloce](https://open.spotify.com/track/3LKlwc0UPC2t627WKrpciU) | [nicedays](https://open.spotify.com/artist/15dR4o87QRubGtpERgNPLB) | [il mondo va veloce](https://open.spotify.com/album/5BNaMQRSia5tod8TxQS4mZ) | 3:31 | 2022-05-12 | 2022-06-24 |
 | [Il tempo è una bugia \(feat\. Ligabue\)](https://open.spotify.com/track/7tl8kzo4DM62We5mgJRYNx) | [Fast Animals and Slow Kids](https://open.spotify.com/artist/2n92OcdDhE5g2CpDI1rjH6), [Ligabue](https://open.spotify.com/artist/7H8ZC8uHJMPZGLMApRRNIz) | [Il tempo è una bugia \(feat\. Ligabue\)](https://open.spotify.com/album/7oM4l6zPvDNo9WgT7J9pxq) | 3:58 | 2022-09-15 |  |
 | [Imma Stunt](https://open.spotify.com/track/3vZmC8oq2B3mp9kVfIcXr1) | [Stunt Pilots](https://open.spotify.com/artist/5Q2syrsNfctel905QjIMXr) | [Imma Stunt](https://open.spotify.com/album/2JRIfmjUa8aU6MLLlahL52) | 2:11 | 2022-05-12 | 2022-07-08 |

@@ -4,7 +4,7 @@
 
 > This is Pink Floyd\. The essential tracks, all in one playlist.
 
-44 songs - 4 hr 38 min - not published yet
+44 songs - 4 hr 38 min - [published](https://open.spotify.com/playlist/4eRmgKnMASFMx3PjMPtGRQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

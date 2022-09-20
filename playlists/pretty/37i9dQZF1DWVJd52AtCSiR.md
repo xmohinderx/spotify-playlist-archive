@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVJd52AtCSiR.md) - [plain]
 
 > Discover the classical side of your favourite Disney soundtracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,152 likes - 60 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,442 likes - 60 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVJd52AtCSiR.md) - [plain]
 | 23 | [Transformation](https://open.spotify.com/track/3CrxJkMU9wINmIM4Dl9CEP) | [Alan Menken](https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Beauty And The Beast \(Special Edition\)](https://open.spotify.com/album/5CXS5K2wldOxL8bweRXBrq) | 5:49 |
 | 24 | [Bundle of Joy](https://open.spotify.com/track/3eTgg18rKBD30Hef1gv0wz) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Inside Out \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1sNK9vLvzIo626GznCEsBN) | 2:48 |
 | 25 | [Grandmother Willow \- From "Pocahontas"/Score](https://open.spotify.com/track/0YlqJkfuox9LpJ5uW3NPM8) | [Alan Menken](https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ) | [Pocahontas](https://open.spotify.com/album/7L6kEZVkWh7OEI71b1JHZd) | 1:27 |
-| 26 | [The Bare Necessities \- From "The Jungle Book"](https://open.spotify.com/track/4imtIfVskTzpoloHLaHplb) | [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [The Bare Necessities \(From "The Jungle Book"\)](https://open.spotify.com/album/5sRIFmDAhy6ngKjxrTaO6h) | 2:40 |
+| 26 | [The Bare Necessities \- From "The Jungle Book"](https://open.spotify.com/track/6aDmy1Tf35ee4rr6VTRbV1) | [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [The Disney Book](https://open.spotify.com/album/6s4Nj1n5yQuyn6ML0Jjk3z) | 2:40 |
 | 27 | [Transformation \- From "Brother Bear"/Soundtrack Version](https://open.spotify.com/track/3oEllCjRbaRJrZKtZVLsDJ) | [Bulgarian Women's Choir](https://open.spotify.com/artist/6POdwLUtKqP6qQ9bRBx7NZ) | [Brother Bear](https://open.spotify.com/album/0aJ2SqX6w8pJsaFaTiBUgJ) | 2:28 |
 | 28 | [A Golden Childhood](https://open.spotify.com/track/06c5mZyiTC81gCaQ05sCIG) | [Patrick Doyle](https://open.spotify.com/artist/1W42coQfIlt6btgqpfJWYQ) | [Cinderella \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4MaXQAzgpi1UGNNia9r7fx) | 3:56 |
 | 29 | [Suite From Mulan](https://open.spotify.com/track/1b6Spq4MiEzShOBQLtEhWe) | [Jerry Goldsmith](https://open.spotify.com/artist/7t8q7ikEtcPNtoaKAm9Vu6), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Mulan \(Original Soundtrack\)](https://open.spotify.com/album/3Ohs7Jo6GM6mydUOL0m5aC) | 7:06 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVJd52AtCSiR.md) - [plain]
 | 59 | [Finding Dory \(Main Title\)](https://open.spotify.com/track/354K3xQPgALQEOiIYzAMat) | [Thomas Newman](https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK) | [Finding Dory \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1S27vSJrXuHXiBOolInF0j) | 0:55 |
 | 60 | [Ella and Kit](https://open.spotify.com/track/1lMaFGcFzfESerHh28aMLA) | [Patrick Doyle](https://open.spotify.com/artist/1W42coQfIlt6btgqpfJWYQ) | [Cinderella \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4MaXQAzgpi1UGNNia9r7fx) | 2:11 |
 
-Snapshot ID: `MTY2MzM1MDY3NCwwMDAwMDAwMGI4NDQyZGUzYzhkNWIzNWRmYWRjMTU5MzUzNmQ3MmYy`
+Snapshot ID: `MTY2MzM1MDY3NCwwMDAwMDAwMDkxNmE3ODRlNDllYzkwNGQ1MGUyMGVmYjg1MjAzMDUw`

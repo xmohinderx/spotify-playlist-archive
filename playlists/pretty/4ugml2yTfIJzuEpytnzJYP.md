@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4ugml2yTfIJzuEpytnzJYP.md) - [plain]
 
 > Lovingly updated every week\.  Make sure to click the heart 💓 to follow the playlist 140, deep bass,  glitch hop,  halftime, dubstep, DnB, Wave
 
-[An\-Ten\-Nae](https://open.spotify.com/user/124011761) - 5,399 likes - 22 songs - 1 hr 31 min
+[An\-Ten\-Nae](https://open.spotify.com/user/124011761) - 5,422 likes - 23 songs - 1 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,5 +30,6 @@ pretty - [cumulative](/playlists/cumulative/4ugml2yTfIJzuEpytnzJYP.md) - [plain]
 | 20 | [Trooper's Clash](https://open.spotify.com/track/6WhCzDmXwkGloyUYPkw4hK) | [Hypho](https://open.spotify.com/artist/2ODMudAd86RorKe9wTJPs7) | [Feels Like Home EP](https://open.spotify.com/album/1QRustkabNUNqbDBnD56gC) | 5:01 |
 | 21 | [Pathways](https://open.spotify.com/track/37MQC1HF0hiApuaSEcq5fl) | [Dimond Saints](https://open.spotify.com/artist/38LWle0ChG6k0UHsOnoO75) | [Pathways](https://open.spotify.com/album/2aIi4kmiK0wipFpm8PJm1l) | 3:42 |
 | 22 | [Westside](https://open.spotify.com/track/30Cy1PSV9yWfxJvHki4eob) | [Untitld](https://open.spotify.com/artist/1swZwQrIOqGfjpTrFIXEFd) | [Westside](https://open.spotify.com/album/22PIAiNnlJYM6vevTzMbvD) | 2:58 |
+| 23 | [Ruminate](https://open.spotify.com/track/7wqq6vKvzbaTYFZ4QUGjic) | [Mystic State](https://open.spotify.com/artist/052KAntc3fhUFwUgewa3Q4), [SMBR](https://open.spotify.com/artist/7afurVeEHZHC1d8LV3wnQQ) | [Stutter \- EP](https://open.spotify.com/album/2ywexsHX1MUToJaByaEYYQ) | 5:05 |
 
-Snapshot ID: `MTk5MCw5OWE0NGIyOTg2NWEwODM2ZGY5ZTU3MTZhYTkxNGQ4YTZmMTRhNjI0`
+Snapshot ID: `MTk5MSw4MzhmOGFiMGE3ODVlYWE1YWYyZWE4NDVjNjhjYjRmOTcxYTA2ODAy`

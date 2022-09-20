@@ -982,6 +982,24 @@
     },
     {
       "album": {
+        "name": "Hadrat El Walhan",
+        "url": "https://open.spotify.com/album/4KlOIXdhTKjuExCP6bTn6m"
+      },
+      "artists": [
+        {
+          "name": "Aseel Hameem",
+          "url": "https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245675,
+      "name": "Hadrat El Walhan",
+      "url": "https://open.spotify.com/track/0NFYjeH5IavHNEqJkciJR6"
+    },
+    {
+      "album": {
         "name": "Haki Jareh",
         "url": "https://open.spotify.com/album/0xIPVNzOXEp9GhpvKR2qBx"
       },

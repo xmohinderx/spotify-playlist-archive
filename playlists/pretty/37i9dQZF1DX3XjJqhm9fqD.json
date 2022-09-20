@@ -1,12 +1,12 @@
 {
   "description": "Celebrating Haitian music. Cover: Francis Mercier.",
-  "num_followers": 69654,
+  "num_followers": 69671,
   "original_name": "Haitian Heat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDMwMjEwMywwMDAwMDAwMDQyNGM1YjhjMGE5OWVhMWJkMjZjZDQ0NzQ3YjllODMz",
+  "snapshot_id": "MTY2MDMwMjEwMywwMDAwMDAwMDU1NTdiNzZkN2MwNWU2ZjZlNmMwNDU1ZThjNjQwOTM0",
   "tracks": [
     {
       "added_at": "2022-07-14 21:35:16",
@@ -303,26 +303,6 @@
     {
       "added_at": "2022-07-14 21:35:16",
       "album": {
-        "name": "African Sun (Remix)",
-        "url": "https://open.spotify.com/album/1e6xJo2X0UxiXlUV6fIJCu"
-      },
-      "artists": [
-        {
-          "name": "Na\u00efka",
-          "url": "https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT"
-        },
-        {
-          "name": "Michael Brun",
-          "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
-        }
-      ],
-      "duration_ms": 143076,
-      "name": "African Sun - Remix",
-      "url": "https://open.spotify.com/track/20kzGFgtQU4C1G1Rd50YAU"
-    },
-    {
-      "added_at": "2022-07-14 21:35:16",
-      "album": {
         "name": "Melanin",
         "url": "https://open.spotify.com/album/7GeOqIQ7BCbwZmjwpjqeLQ"
       },
@@ -359,6 +339,26 @@
       "duration_ms": 134276,
       "name": "Life Goes On",
       "url": "https://open.spotify.com/track/1TQCfMfITNGtj9Vc4wSHDP"
+    },
+    {
+      "added_at": "2022-07-14 21:35:16",
+      "album": {
+        "name": "African Sun (Remix)",
+        "url": "https://open.spotify.com/album/1e6xJo2X0UxiXlUV6fIJCu"
+      },
+      "artists": [
+        {
+          "name": "Na\u00efka",
+          "url": "https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT"
+        },
+        {
+          "name": "Michael Brun",
+          "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
+        }
+      ],
+      "duration_ms": 143076,
+      "name": "African Sun - Remix",
+      "url": "https://open.spotify.com/track/20kzGFgtQU4C1G1Rd50YAU"
     },
     {
       "added_at": "2022-07-14 21:35:16",
@@ -463,22 +463,6 @@
     {
       "added_at": "2022-07-14 21:35:16",
       "album": {
-        "name": "I Don't Care",
-        "url": "https://open.spotify.com/album/0ggs2PkqXX0iS04QP224FX"
-      },
-      "artists": [
-        {
-          "name": "Sweet Micky",
-          "url": "https://open.spotify.com/artist/05geNTZ09mJ7s6OguQySjc"
-        }
-      ],
-      "duration_ms": 512940,
-      "name": "I Don't Care",
-      "url": "https://open.spotify.com/track/2zJ6ZsqLSAaov7OXnePKcB"
-    },
-    {
-      "added_at": "2022-07-14 21:35:16",
-      "album": {
         "name": "Lost in Parad\u00efse, Pt. 2",
         "url": "https://open.spotify.com/album/3SYtJkujnJeTUXFvkeSDU7"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 203023,
       "name": "For Gerard",
       "url": "https://open.spotify.com/track/5087eyLa8DQ5fMHbNYzJsA"
+    },
+    {
+      "added_at": "2022-07-14 21:35:16",
+      "album": {
+        "name": "I Don't Care",
+        "url": "https://open.spotify.com/album/0ggs2PkqXX0iS04QP224FX"
+      },
+      "artists": [
+        {
+          "name": "Sweet Micky",
+          "url": "https://open.spotify.com/artist/05geNTZ09mJ7s6OguQySjc"
+        }
+      ],
+      "duration_ms": 512940,
+      "name": "I Don't Care",
+      "url": "https://open.spotify.com/track/2zJ6ZsqLSAaov7OXnePKcB"
     },
     {
       "added_at": "2022-07-14 21:35:16",
@@ -599,6 +599,26 @@
     {
       "added_at": "2022-07-14 21:35:16",
       "album": {
+        "name": "Show Me Love (feat. Meer Colon)",
+        "url": "https://open.spotify.com/album/0LWFzHbifhwlQsSj6XxDMJ"
+      },
+      "artists": [
+        {
+          "name": "TeaMarrr",
+          "url": "https://open.spotify.com/artist/1cWyN6TA0n4j9JtqI0sOpt"
+        },
+        {
+          "name": "Meer Colon",
+          "url": "https://open.spotify.com/artist/7hAMaYbIrHi6dH64fPNcTP"
+        }
+      ],
+      "duration_ms": 168510,
+      "name": "Show Me Love (feat. Meer Colon)",
+      "url": "https://open.spotify.com/track/2ShUIgUNPsamHqdmLDtQ1P"
+    },
+    {
+      "added_at": "2022-07-14 21:35:16",
+      "album": {
         "name": "Patron",
         "url": "https://open.spotify.com/album/12zNSP6KR2NUaEvEU7P1L2"
       },
@@ -667,26 +687,6 @@
       "duration_ms": 173113,
       "name": "Ti Sesi Ti Sela",
       "url": "https://open.spotify.com/track/06NjTzaYnc94mMl6hMuVAt"
-    },
-    {
-      "added_at": "2022-07-14 21:35:16",
-      "album": {
-        "name": "Show Me Love (feat. Meer Colon)",
-        "url": "https://open.spotify.com/album/0LWFzHbifhwlQsSj6XxDMJ"
-      },
-      "artists": [
-        {
-          "name": "TeaMarrr",
-          "url": "https://open.spotify.com/artist/1cWyN6TA0n4j9JtqI0sOpt"
-        },
-        {
-          "name": "Meer Colon",
-          "url": "https://open.spotify.com/artist/7hAMaYbIrHi6dH64fPNcTP"
-        }
-      ],
-      "duration_ms": 168510,
-      "name": "Show Me Love (feat. Meer Colon)",
-      "url": "https://open.spotify.com/track/2ShUIgUNPsamHqdmLDtQ1P"
     },
     {
       "added_at": "2022-07-14 21:35:16",
@@ -941,22 +941,6 @@
       "url": "https://open.spotify.com/track/2VcVmSWadOf4SMGBB2abov"
     },
     {
-      "added_at": "2022-08-12 11:01:43",
-      "album": {
-        "name": "K\u00c8M",
-        "url": "https://open.spotify.com/album/1wdzr58LSQYTt4aXtfaAd3"
-      },
-      "artists": [
-        {
-          "name": "Kelly Krow",
-          "url": "https://open.spotify.com/artist/1RG2FZvpca9J9VjnCtmD4p"
-        }
-      ],
-      "duration_ms": 165624,
-      "name": "K\u00c8M",
-      "url": "https://open.spotify.com/track/6BiiDyQPxtij96XHBCyloG"
-    },
-    {
       "added_at": "2022-07-14 21:35:16",
       "album": {
         "name": "The Very Best",
@@ -971,6 +955,22 @@
       "duration_ms": 286840,
       "name": "Flanm",
       "url": "https://open.spotify.com/track/7sJYquSlj8cSMqFtk3A8FJ"
+    },
+    {
+      "added_at": "2022-08-12 11:01:43",
+      "album": {
+        "name": "K\u00c8M",
+        "url": "https://open.spotify.com/album/1wdzr58LSQYTt4aXtfaAd3"
+      },
+      "artists": [
+        {
+          "name": "Kelly Krow",
+          "url": "https://open.spotify.com/artist/1RG2FZvpca9J9VjnCtmD4p"
+        }
+      ],
+      "duration_ms": 165624,
+      "name": "K\u00c8M",
+      "url": "https://open.spotify.com/track/6BiiDyQPxtij96XHBCyloG"
     },
     {
       "added_at": "2022-07-14 21:35:16",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2022-07-14 21:35:16",
       "album": {
+        "name": "Love a Plein Temps",
+        "url": "https://open.spotify.com/album/4ZnxFv2iPAGRWksNm5ILr0"
+      },
+      "artists": [
+        {
+          "name": "Steves J. Bryan",
+          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
+        }
+      ],
+      "duration_ms": 200816,
+      "name": "Love a Plein Temps",
+      "url": "https://open.spotify.com/track/665HvOWV9Uxm40fuXiYI1B"
+    },
+    {
+      "added_at": "2022-07-14 21:35:16",
+      "album": {
         "name": "Ogou (Pran Ka Mwen)",
         "url": "https://open.spotify.com/album/0pcQNg6r5x7FInniNRjP6y"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 296666,
       "name": "Ogou (Pran Ka Mwen)",
       "url": "https://open.spotify.com/track/24w5p9O076nNIdVRkRwhhj"
-    },
-    {
-      "added_at": "2022-07-14 21:35:16",
-      "album": {
-        "name": "Love a Plein Temps",
-        "url": "https://open.spotify.com/album/4ZnxFv2iPAGRWksNm5ILr0"
-      },
-      "artists": [
-        {
-          "name": "Steves J. Bryan",
-          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
-        }
-      ],
-      "duration_ms": 200816,
-      "name": "Love a Plein Temps",
-      "url": "https://open.spotify.com/track/665HvOWV9Uxm40fuXiYI1B"
     },
     {
       "added_at": "2022-07-14 21:35:16",
@@ -1219,26 +1219,6 @@
     {
       "added_at": "2022-07-14 21:35:16",
       "album": {
-        "name": "Designa",
-        "url": "https://open.spotify.com/album/5SqfQYstMm4D1xi8qVDXt0"
-      },
-      "artists": [
-        {
-          "name": "Gio-K",
-          "url": "https://open.spotify.com/artist/7cnGhb65N4hiSdJ2QWdGxI"
-        },
-        {
-          "name": "Egar Boi",
-          "url": "https://open.spotify.com/artist/5BgxilmpjhmqEFKqoQnmIV"
-        }
-      ],
-      "duration_ms": 155294,
-      "name": "Designa",
-      "url": "https://open.spotify.com/track/7d3wIcVooCbZ02cUlhNrZR"
-    },
-    {
-      "added_at": "2022-07-14 21:35:16",
-      "album": {
         "name": "Trap King",
         "url": "https://open.spotify.com/album/5P5jwxaRvA0i64gOJoNpvK"
       },
@@ -1255,6 +1235,26 @@
       "duration_ms": 186857,
       "name": "Fanm Ch\u00e8",
       "url": "https://open.spotify.com/track/5TzWub3nCAAcVZxLSELohS"
+    },
+    {
+      "added_at": "2022-07-14 21:35:16",
+      "album": {
+        "name": "Designa",
+        "url": "https://open.spotify.com/album/5SqfQYstMm4D1xi8qVDXt0"
+      },
+      "artists": [
+        {
+          "name": "Gio-K",
+          "url": "https://open.spotify.com/artist/7cnGhb65N4hiSdJ2QWdGxI"
+        },
+        {
+          "name": "Egar Boi",
+          "url": "https://open.spotify.com/artist/5BgxilmpjhmqEFKqoQnmIV"
+        }
+      ],
+      "duration_ms": 155294,
+      "name": "Designa",
+      "url": "https://open.spotify.com/track/7d3wIcVooCbZ02cUlhNrZR"
     },
     {
       "added_at": "2022-07-14 21:35:16",
@@ -1375,26 +1375,6 @@
     {
       "added_at": "2022-07-14 21:35:16",
       "album": {
-        "name": "Touche'm",
-        "url": "https://open.spotify.com/album/1V40nMnOeYmzAbbBCzq82H"
-      },
-      "artists": [
-        {
-          "name": "Steves J. Bryan",
-          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
-        },
-        {
-          "name": "Vanessa Desire",
-          "url": "https://open.spotify.com/artist/6xVcovJKcJRop6h8Ik9DIa"
-        }
-      ],
-      "duration_ms": 212783,
-      "name": "Touche'm",
-      "url": "https://open.spotify.com/track/5jn2LHOt68Ke5pQkP8m7Wv"
-    },
-    {
-      "added_at": "2022-07-14 21:35:16",
-      "album": {
         "name": "REFLEXION",
         "url": "https://open.spotify.com/album/6i72auNGChVZB8lwCC0pTM"
       },
@@ -1447,6 +1427,26 @@
     {
       "added_at": "2022-07-14 21:35:16",
       "album": {
+        "name": "Touche'm",
+        "url": "https://open.spotify.com/album/1V40nMnOeYmzAbbBCzq82H"
+      },
+      "artists": [
+        {
+          "name": "Steves J. Bryan",
+          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
+        },
+        {
+          "name": "Vanessa Desire",
+          "url": "https://open.spotify.com/artist/6xVcovJKcJRop6h8Ik9DIa"
+        }
+      ],
+      "duration_ms": 212783,
+      "name": "Touche'm",
+      "url": "https://open.spotify.com/track/5jn2LHOt68Ke5pQkP8m7Wv"
+    },
+    {
+      "added_at": "2022-07-14 21:35:16",
+      "album": {
         "name": "HaitiaNola",
         "url": "https://open.spotify.com/album/6qyni7DUo0TiA0a7c25i0z"
       },
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2022-07-14 21:35:16",
       "album": {
-        "name": "La Familia",
-        "url": "https://open.spotify.com/album/6YIYNivggHcvNR3UKXpEz7"
-      },
-      "artists": [
-        {
-          "name": "Dro X Yani",
-          "url": "https://open.spotify.com/artist/6gP0wnbpPZzEbK8f3rfYbK"
-        }
-      ],
-      "duration_ms": 153123,
-      "name": "Bella",
-      "url": "https://open.spotify.com/track/2i1m6FdKuKP15EKPTpJ0U5"
-    },
-    {
-      "added_at": "2022-07-14 21:35:16",
-      "album": {
         "name": "L'aventure Continue",
         "url": "https://open.spotify.com/album/1qNDvBo6mFaZ6bXVPj09UL"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 204840,
       "name": "Premye Fwa'm Damou",
       "url": "https://open.spotify.com/track/02haBMulGrXnL7pMaSKfdO"
+    },
+    {
+      "added_at": "2022-07-14 21:35:16",
+      "album": {
+        "name": "La Familia",
+        "url": "https://open.spotify.com/album/6YIYNivggHcvNR3UKXpEz7"
+      },
+      "artists": [
+        {
+          "name": "Dro X Yani",
+          "url": "https://open.spotify.com/artist/6gP0wnbpPZzEbK8f3rfYbK"
+        }
+      ],
+      "duration_ms": 153123,
+      "name": "Bella",
+      "url": "https://open.spotify.com/track/2i1m6FdKuKP15EKPTpJ0U5"
     },
     {
       "added_at": "2022-07-14 21:35:16",

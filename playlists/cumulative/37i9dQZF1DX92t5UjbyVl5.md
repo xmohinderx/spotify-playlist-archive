@@ -4,7 +4,7 @@
 
 > ¿Tienes flow, tienes rimas? Dale play.
 
-88 songs - 4 hr 40 min - [published](https://open.spotify.com/playlist/63KPGAHXLEGEXvmFWPTRLW)
+89 songs - 4 hr 44 min - [published](https://open.spotify.com/playlist/63KPGAHXLEGEXvmFWPTRLW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [Be Real \- Instrumental Beat](https://open.spotify.com/track/7zlsRqs2QZho0VEWRmuwoZ) | [Boy Greezy Beats](https://open.spotify.com/artist/0qAWErVxnWDB1NZUfKYlQz) | [Trap Meets Twerk Instrumentals, Vol.2 \(The Hottest Banging Trap & Twerk Beats\)](https://open.spotify.com/album/56Qq2JUTSA6XTNRVPpG2R3) | 3:44 | 2021-11-19 |  |
 | [Beatbox Session, Vol\. 1 \(Instrumental\)](https://open.spotify.com/track/2R9I4hiDF2ddQPuD5EsMP4) | [Iacho](https://open.spotify.com/artist/6ybOB74nYTUpM6VGiP1egr) | [Beatbox Session, Vol\. 1 \(Instrumental\)](https://open.spotify.com/album/1ejJmKa7yoCLCMxBBWssoK) | 5:16 | 2021-11-19 |  |
 | [Bedtime](https://open.spotify.com/track/2QPIe60EWvHIdOkbJdTBW0) | [Toby Tranter](https://open.spotify.com/artist/6jQ21P9GEZfQf4aOMoTYDj) | [Homebrew](https://open.spotify.com/album/0X1gFljm5ogWpi4CsbBam2) | 3:01 | 2021-11-19 |  |
-| [Betrayed](https://open.spotify.com/track/5kgw8iZHZoWf4s1zNTGfla) | [Jaeger](https://open.spotify.com/artist/77PxY9mItIkmEo8D2fbfco) | [Betrayed](https://open.spotify.com/album/5KYKDeDAP4JMprc4CF5yUe) | 3:34 | 2022-02-07 |  |
+| [Betrayed](https://open.spotify.com/track/02oAGoCGdHnyR6GcKmkSp7) | [Jaeger](https://open.spotify.com/artist/77PxY9mItIkmEo8D2fbfco) | [Betrayed](https://open.spotify.com/album/2tgamCw8AnESKXUmzXfpKc) | 3:34 | 2022-02-07 |  |
+| [Betrayed](https://open.spotify.com/track/5kgw8iZHZoWf4s1zNTGfla) | [Jaeger](https://open.spotify.com/artist/77PxY9mItIkmEo8D2fbfco) | [Betrayed](https://open.spotify.com/album/5KYKDeDAP4JMprc4CF5yUe) | 3:34 | 2022-02-07 | 2022-09-20 |
 | [Betrayed](https://open.spotify.com/track/67jlkKplNg0drMcQRXFPIv) | [Jaeger](https://open.spotify.com/artist/77PxY9mItIkmEo8D2fbfco) | [Betrayed](https://open.spotify.com/album/619g0xmgl4ZllHZuTjkXk1) | 3:34 | 2021-11-19 | 2022-07-29 |
 | [Blessing](https://open.spotify.com/track/0GQyzcim1bRFEFdVViFeaS) | [DJ Yung Vamp](https://open.spotify.com/artist/69eIrU4oA3mEHensYx0PWL) | [I Need More Blood](https://open.spotify.com/album/4zsZuNBL95R1KDG5qBY2br) | 3:04 | 2022-02-07 |  |
 | [Blessing](https://open.spotify.com/track/2PufhNjQKAxdw5wZB9DOmS) | [DJ Yung Vamp](https://open.spotify.com/artist/69eIrU4oA3mEHensYx0PWL) | [I Need More Blood](https://open.spotify.com/album/7elw8BlCVBaqAktjKUENZU) | 3:04 | 2021-11-19 | 2022-07-29 |

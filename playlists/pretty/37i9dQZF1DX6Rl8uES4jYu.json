@@ -1,12 +1,12 @@
 {
   "description": "This fun, upbeat playlist will help get you up and ready to start your day! ",
-  "num_followers": 234390,
+  "num_followers": 234431,
   "original_name": "Ready for the Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY5NjAwMCwwMDAwMDAwMGJkYjQ2NzU2YTU3MWE3YmMwNGMzNzkwNGIwNWExYjNl",
+  "snapshot_id": "MTY2MjY5NjAwMCwwMDAwMDAwMGU1ODRhYjA1ZTQ2NDNlNGJkNjM4YThmOTMwODliYWNh",
   "tracks": [
     {
       "added_at": "2022-09-09 04:00:00",
@@ -205,38 +205,6 @@
       "url": "https://open.spotify.com/track/40gooTta3y4FgzXaMOGDJL"
     },
     {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
-        "name": "Kids Are Born Stars",
-        "url": "https://open.spotify.com/album/7HhcskxiIqyd0KthMqR7eA"
-      },
-      "artists": [
-        {
-          "name": "Lauv",
-          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
-        }
-      ],
-      "duration_ms": 187026,
-      "name": "Kids Are Born Stars",
-      "url": "https://open.spotify.com/track/2pD74s7WAlBWUXjrTsKgdS"
-    },
-    {
-      "added_at": "2022-08-08 19:18:25",
-      "album": {
-        "name": "Beach House",
-        "url": "https://open.spotify.com/album/0GqKALU6JwUSF5wH6ClRuB"
-      },
-      "artists": [
-        {
-          "name": "Carly Rae Jepsen",
-          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
-        }
-      ],
-      "duration_ms": 150004,
-      "name": "Beach House",
-      "url": "https://open.spotify.com/track/23Pi81mwR6wNeFhym9mUMx"
-    },
-    {
       "added_at": "2022-05-27 04:01:00",
       "album": {
         "name": "Potion (with Dua Lipa & Young Thug)",
@@ -277,6 +245,54 @@
       "url": "https://open.spotify.com/track/2rmwqU7yzTvzkiaRV53DpT"
     },
     {
+      "added_at": "2022-07-01 04:02:00",
+      "album": {
+        "name": "Kids Are Born Stars",
+        "url": "https://open.spotify.com/album/7HhcskxiIqyd0KthMqR7eA"
+      },
+      "artists": [
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        }
+      ],
+      "duration_ms": 187026,
+      "name": "Kids Are Born Stars",
+      "url": "https://open.spotify.com/track/2pD74s7WAlBWUXjrTsKgdS"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "how deep?",
+        "url": "https://open.spotify.com/album/4vaxABro6oVySHD5okB7QE"
+      },
+      "artists": [
+        {
+          "name": "Tai Verdes",
+          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
+        }
+      ],
+      "duration_ms": 154506,
+      "name": "how deep?",
+      "url": "https://open.spotify.com/track/0VcWp30A3hSJrPjdDEHeNE"
+    },
+    {
+      "added_at": "2022-08-08 19:18:25",
+      "album": {
+        "name": "Beach House",
+        "url": "https://open.spotify.com/album/0GqKALU6JwUSF5wH6ClRuB"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "duration_ms": 150004,
+      "name": "Beach House",
+      "url": "https://open.spotify.com/track/23Pi81mwR6wNeFhym9mUMx"
+    },
+    {
       "added_at": "2022-08-08 19:18:25",
       "album": {
         "name": "All She Wanna Do",
@@ -295,6 +311,26 @@
       "duration_ms": 195715,
       "name": "All She Wanna Do (with Saweetie)",
       "url": "https://open.spotify.com/track/0yq6siEu8dMBv2sb8yEtEJ"
+    },
+    {
+      "added_at": "2022-05-20 04:01:00",
+      "album": {
+        "name": "About Damn Time (Purple Disco Machine Remix)",
+        "url": "https://open.spotify.com/album/5sJDNPqLeEUPnod5ovf5h6"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        },
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        }
+      ],
+      "duration_ms": 218476,
+      "name": "About Damn Time - Purple Disco Machine Remix",
+      "url": "https://open.spotify.com/track/4WIaDYUIlXsHi4yMF596aI"
     },
     {
       "added_at": "2022-06-10 04:02:00",
@@ -331,22 +367,6 @@
       "duration_ms": 186080,
       "name": "Weekend Lover",
       "url": "https://open.spotify.com/track/6rNV70K6yK3qd19aNYtf8E"
-    },
-    {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
-        "name": "how deep?",
-        "url": "https://open.spotify.com/album/4vaxABro6oVySHD5okB7QE"
-      },
-      "artists": [
-        {
-          "name": "Tai Verdes",
-          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
-        }
-      ],
-      "duration_ms": 154506,
-      "name": "how deep?",
-      "url": "https://open.spotify.com/track/0VcWp30A3hSJrPjdDEHeNE"
     },
     {
       "added_at": "2022-01-07 05:01:00",
@@ -387,26 +407,6 @@
       "duration_ms": 176293,
       "name": "Silver and Gold (feat. Sam Fischer & Pink Sweat$)",
       "url": "https://open.spotify.com/track/14NGdYOr9abOGH6euZcpu5"
-    },
-    {
-      "added_at": "2022-05-20 04:01:00",
-      "album": {
-        "name": "About Damn Time (Purple Disco Machine Remix)",
-        "url": "https://open.spotify.com/album/5sJDNPqLeEUPnod5ovf5h6"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        },
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        }
-      ],
-      "duration_ms": 218476,
-      "name": "About Damn Time - Purple Disco Machine Remix",
-      "url": "https://open.spotify.com/track/4WIaDYUIlXsHi4yMF596aI"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -545,6 +545,22 @@
       "url": "https://open.spotify.com/track/2cBvJkneFRqK62VDL3yr0c"
     },
     {
+      "added_at": "2022-08-12 04:02:00",
+      "album": {
+        "name": "Automatic",
+        "url": "https://open.spotify.com/album/40P7jOxKnMf7KVpX0kWcCD"
+      },
+      "artists": [
+        {
+          "name": "Lake Street Dive",
+          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
+        }
+      ],
+      "duration_ms": 238613,
+      "name": "Automatic",
+      "url": "https://open.spotify.com/track/27KqSOzLiN6p9sjs95MnZg"
+    },
+    {
       "added_at": "2022-04-29 04:02:00",
       "album": {
         "name": "GUCCI BAG",
@@ -595,22 +611,6 @@
       "duration_ms": 255604,
       "name": "When Someone Loves You",
       "url": "https://open.spotify.com/track/6Z0OTy3hVXDPxskcc262JH"
-    },
-    {
-      "added_at": "2022-08-12 04:02:00",
-      "album": {
-        "name": "Automatic",
-        "url": "https://open.spotify.com/album/40P7jOxKnMf7KVpX0kWcCD"
-      },
-      "artists": [
-        {
-          "name": "Lake Street Dive",
-          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
-        }
-      ],
-      "duration_ms": 238613,
-      "name": "Automatic",
-      "url": "https://open.spotify.com/track/27KqSOzLiN6p9sjs95MnZg"
     },
     {
       "added_at": "2022-01-21 05:01:00",
@@ -689,22 +689,6 @@
       "url": "https://open.spotify.com/track/3554a1PUfDZs7rKJzRhZmp"
     },
     {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
-        "name": "Never Seen You Dance",
-        "url": "https://open.spotify.com/album/73VzHaRZwnn6YkkfCYFGh6"
-      },
-      "artists": [
-        {
-          "name": "Totally Enormous Extinct Dinosaurs",
-          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
-        }
-      ],
-      "duration_ms": 288062,
-      "name": "Never Seen You Dance",
-      "url": "https://open.spotify.com/track/5mdOo5OClzyz4kgdiek8Pu"
-    },
-    {
       "added_at": "2022-04-22 04:01:00",
       "album": {
         "name": "OASIS",
@@ -723,6 +707,22 @@
       "duration_ms": 237368,
       "name": "EASE YOUR MIND",
       "url": "https://open.spotify.com/track/7IRyfeJIBmi08GYgEZwWMM"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
+        "name": "Never Seen You Dance",
+        "url": "https://open.spotify.com/album/73VzHaRZwnn6YkkfCYFGh6"
+      },
+      "artists": [
+        {
+          "name": "Totally Enormous Extinct Dinosaurs",
+          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
+        }
+      ],
+      "duration_ms": 288062,
+      "name": "Never Seen You Dance",
+      "url": "https://open.spotify.com/track/5mdOo5OClzyz4kgdiek8Pu"
     },
     {
       "added_at": "2021-03-05 05:01:00",
@@ -829,6 +829,22 @@
       "url": "https://open.spotify.com/track/1bZmbsNqOkfvGGAikytuW2"
     },
     {
+      "added_at": "2022-04-29 04:02:00",
+      "album": {
+        "name": "Preach",
+        "url": "https://open.spotify.com/album/0CBn5BaDxwLfjHYG7E3QRW"
+      },
+      "artists": [
+        {
+          "name": "Emarosa",
+          "url": "https://open.spotify.com/artist/68tKVjVvcqUfKFFLr2j0Ek"
+        }
+      ],
+      "duration_ms": 208434,
+      "name": "Preach",
+      "url": "https://open.spotify.com/track/50QvPX0gNbb4nFrE8iUrNW"
+    },
+    {
       "added_at": "2021-09-21 15:07:50",
       "album": {
         "name": "Sweet Side",
@@ -845,20 +861,20 @@
       "url": "https://open.spotify.com/track/2R76LiRDiwmISuxTdYlSWD"
     },
     {
-      "added_at": "2022-04-29 04:02:00",
+      "added_at": "2022-08-12 04:02:00",
       "album": {
-        "name": "Preach",
-        "url": "https://open.spotify.com/album/0CBn5BaDxwLfjHYG7E3QRW"
+        "name": "Be Easy",
+        "url": "https://open.spotify.com/album/5m8KQeuqk1u11hlXBST1CY"
       },
       "artists": [
         {
-          "name": "Emarosa",
-          "url": "https://open.spotify.com/artist/68tKVjVvcqUfKFFLr2j0Ek"
+          "name": "KWAYE",
+          "url": "https://open.spotify.com/artist/5dIssYf7lu8wufkQywN9WJ"
         }
       ],
-      "duration_ms": 208434,
-      "name": "Preach",
-      "url": "https://open.spotify.com/track/50QvPX0gNbb4nFrE8iUrNW"
+      "duration_ms": 182026,
+      "name": "Be Easy",
+      "url": "https://open.spotify.com/track/0T4BJnnf1Ru4EqGZl5kEN2"
     },
     {
       "added_at": "2022-04-01 04:02:00",
@@ -883,22 +899,6 @@
       "duration_ms": 177925,
       "name": "Every Night",
       "url": "https://open.spotify.com/track/4VAUxogl12wnQQHvQ3zVuD"
-    },
-    {
-      "added_at": "2022-08-12 04:02:00",
-      "album": {
-        "name": "Be Easy",
-        "url": "https://open.spotify.com/album/5m8KQeuqk1u11hlXBST1CY"
-      },
-      "artists": [
-        {
-          "name": "KWAYE",
-          "url": "https://open.spotify.com/artist/5dIssYf7lu8wufkQywN9WJ"
-        }
-      ],
-      "duration_ms": 182026,
-      "name": "Be Easy",
-      "url": "https://open.spotify.com/track/0T4BJnnf1Ru4EqGZl5kEN2"
     },
     {
       "added_at": "2021-09-21 15:07:50",
@@ -965,22 +965,6 @@
       "url": "https://open.spotify.com/track/3CAUdHOsgijdnNsjO7o7Hd"
     },
     {
-      "added_at": "2021-05-14 04:01:00",
-      "album": {
-        "name": "Bless You",
-        "url": "https://open.spotify.com/album/1IOyct7shyBK5fwXUajCIr"
-      },
-      "artists": [
-        {
-          "name": "Cool Company",
-          "url": "https://open.spotify.com/artist/6lOCVUQbb9wzuZQbZQV9zn"
-        }
-      ],
-      "duration_ms": 225760,
-      "name": "Kind of Freak",
-      "url": "https://open.spotify.com/track/6Z0VYYq9f7iDDRtPUiShrS"
-    },
-    {
       "added_at": "2022-02-18 05:02:00",
       "album": {
         "name": "These Days",
@@ -1001,28 +985,20 @@
       "url": "https://open.spotify.com/track/6ghyebyKTLw7ITymWy5y3g"
     },
     {
-      "added_at": "2022-06-03 04:01:00",
+      "added_at": "2021-05-14 04:01:00",
       "album": {
-        "name": "I Told You",
-        "url": "https://open.spotify.com/album/7D4zYU5Rp03kIE3HMG7fzp"
+        "name": "Bless You",
+        "url": "https://open.spotify.com/album/1IOyct7shyBK5fwXUajCIr"
       },
       "artists": [
         {
-          "name": "Haywood",
-          "url": "https://open.spotify.com/artist/3rFhVqmS6XqZl4LcGLDzAu"
-        },
-        {
-          "name": "Loote",
-          "url": "https://open.spotify.com/artist/00TKPo9MxwZ0j4ooveIxWZ"
-        },
-        {
-          "name": "Petey Martin",
-          "url": "https://open.spotify.com/artist/30B2OY2t19A6zCXGFUNlGB"
+          "name": "Cool Company",
+          "url": "https://open.spotify.com/artist/6lOCVUQbb9wzuZQbZQV9zn"
         }
       ],
-      "duration_ms": 207023,
-      "name": "I Told You",
-      "url": "https://open.spotify.com/track/42gwqd35893WOKpyNLRcCL"
+      "duration_ms": 225760,
+      "name": "Kind of Freak",
+      "url": "https://open.spotify.com/track/6Z0VYYq9f7iDDRtPUiShrS"
     },
     {
       "added_at": "2022-05-06 04:02:00",
@@ -1055,6 +1031,30 @@
       "duration_ms": 163149,
       "name": "Turntables (from the Amazon Original Movie \"All In: The Fight for Democracy\")",
       "url": "https://open.spotify.com/track/1K6s5g4URy2UfS4HNBPhGY"
+    },
+    {
+      "added_at": "2022-06-03 04:01:00",
+      "album": {
+        "name": "I Told You",
+        "url": "https://open.spotify.com/album/7D4zYU5Rp03kIE3HMG7fzp"
+      },
+      "artists": [
+        {
+          "name": "Haywood",
+          "url": "https://open.spotify.com/artist/3rFhVqmS6XqZl4LcGLDzAu"
+        },
+        {
+          "name": "Loote",
+          "url": "https://open.spotify.com/artist/00TKPo9MxwZ0j4ooveIxWZ"
+        },
+        {
+          "name": "Petey Martin",
+          "url": "https://open.spotify.com/artist/30B2OY2t19A6zCXGFUNlGB"
+        }
+      ],
+      "duration_ms": 207023,
+      "name": "I Told You",
+      "url": "https://open.spotify.com/track/42gwqd35893WOKpyNLRcCL"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -1105,6 +1105,26 @@
       "url": "https://open.spotify.com/track/590vTaQpYU6vetBZDbyuFf"
     },
     {
+      "added_at": "2022-04-29 04:02:00",
+      "album": {
+        "name": "Power Station",
+        "url": "https://open.spotify.com/album/5SBfou3NNkuYL0LeU004xy"
+      },
+      "artists": [
+        {
+          "name": "Cory Wong",
+          "url": "https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU"
+        },
+        {
+          "name": "Joey Dosik",
+          "url": "https://open.spotify.com/artist/3kANxNTLNOhxpOPoCbGq9E"
+        }
+      ],
+      "duration_ms": 218248,
+      "name": "First Avenue",
+      "url": "https://open.spotify.com/track/2ICzjmxUrrS0x5YgLqpXqh"
+    },
+    {
       "added_at": "2022-04-22 04:01:00",
       "album": {
         "name": "AM Gold (Tobtok Remix)",
@@ -1143,26 +1163,6 @@
       "duration_ms": 171346,
       "name": "Keep Her",
       "url": "https://open.spotify.com/track/3zg5cOYNckzSAs4aTRBHau"
-    },
-    {
-      "added_at": "2022-04-29 04:02:00",
-      "album": {
-        "name": "Power Station",
-        "url": "https://open.spotify.com/album/5SBfou3NNkuYL0LeU004xy"
-      },
-      "artists": [
-        {
-          "name": "Cory Wong",
-          "url": "https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU"
-        },
-        {
-          "name": "Joey Dosik",
-          "url": "https://open.spotify.com/artist/3kANxNTLNOhxpOPoCbGq9E"
-        }
-      ],
-      "duration_ms": 218248,
-      "name": "First Avenue",
-      "url": "https://open.spotify.com/track/2ICzjmxUrrS0x5YgLqpXqh"
     },
     {
       "added_at": "2021-09-03 04:01:00",
@@ -1317,26 +1317,6 @@
       "url": "https://open.spotify.com/track/0bXnX6oozY4qDbNTBqdJwe"
     },
     {
-      "added_at": "2022-04-29 04:02:00",
-      "album": {
-        "name": "Get Down! (Before You Lose Control)",
-        "url": "https://open.spotify.com/album/3N7ROCIovtTOmU3fyxWuLm"
-      },
-      "artists": [
-        {
-          "name": "Mocky",
-          "url": "https://open.spotify.com/artist/2oofDquWt9tMCETKAHmhlG"
-        },
-        {
-          "name": "Nia Andrews",
-          "url": "https://open.spotify.com/artist/39MJrBGpjji0zkoEgcBtTt"
-        }
-      ],
-      "duration_ms": 204946,
-      "name": "Get Down! (Before You Lose Control)",
-      "url": "https://open.spotify.com/track/3NwKYzeIdX1g73L3dXkySB"
-    },
-    {
       "added_at": "2022-01-28 05:01:00",
       "album": {
         "name": "Lost & Alive",
@@ -1355,6 +1335,26 @@
       "duration_ms": 181330,
       "name": "Lost & Alive",
       "url": "https://open.spotify.com/track/5x2BKKfwtydW0HO6NgH2Pi"
+    },
+    {
+      "added_at": "2022-04-29 04:02:00",
+      "album": {
+        "name": "Get Down! (Before You Lose Control)",
+        "url": "https://open.spotify.com/album/3N7ROCIovtTOmU3fyxWuLm"
+      },
+      "artists": [
+        {
+          "name": "Mocky",
+          "url": "https://open.spotify.com/artist/2oofDquWt9tMCETKAHmhlG"
+        },
+        {
+          "name": "Nia Andrews",
+          "url": "https://open.spotify.com/artist/39MJrBGpjji0zkoEgcBtTt"
+        }
+      ],
+      "duration_ms": 204946,
+      "name": "Get Down! (Before You Lose Control)",
+      "url": "https://open.spotify.com/track/3NwKYzeIdX1g73L3dXkySB"
     },
     {
       "added_at": "2021-08-13 04:01:00",
@@ -1405,6 +1405,22 @@
       "url": "https://open.spotify.com/track/2D3JB5Bs5ut4czq9Xt3PA3"
     },
     {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "Space and Time",
+        "url": "https://open.spotify.com/album/5mTbBJkYvytrLD7xoEcw4n"
+      },
+      "artists": [
+        {
+          "name": "Tasha Angela",
+          "url": "https://open.spotify.com/artist/55icKM7WkjXWnyfvCTlqbk"
+        }
+      ],
+      "duration_ms": 212414,
+      "name": "Space and Time",
+      "url": "https://open.spotify.com/track/4V5rRfySgxrUbUz4ZvbcI4"
+    },
+    {
       "added_at": "2022-03-18 04:01:00",
       "album": {
         "name": "Run Away",
@@ -1427,22 +1443,6 @@
       "duration_ms": 184067,
       "name": "Run Away",
       "url": "https://open.spotify.com/track/4WEsRq6qDqJdH7nAkmKevM"
-    },
-    {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
-        "name": "Space and Time",
-        "url": "https://open.spotify.com/album/5mTbBJkYvytrLD7xoEcw4n"
-      },
-      "artists": [
-        {
-          "name": "Tasha Angela",
-          "url": "https://open.spotify.com/artist/55icKM7WkjXWnyfvCTlqbk"
-        }
-      ],
-      "duration_ms": 212414,
-      "name": "Space and Time",
-      "url": "https://open.spotify.com/track/4V5rRfySgxrUbUz4ZvbcI4"
     },
     {
       "added_at": "2022-04-22 04:01:00",

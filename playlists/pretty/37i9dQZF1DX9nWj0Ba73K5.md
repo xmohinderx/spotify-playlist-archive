@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9nWj0Ba73K5.md) - [plain]
 
 > Featuring the 'Noteable' songwriters who create your favorite songs\.  Cover: Ben Burgess
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,733 likes - 199 songs - 11 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,738 likes - 199 songs - 11 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

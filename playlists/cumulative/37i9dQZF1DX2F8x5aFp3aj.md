@@ -4,7 +4,7 @@
 
 > Revive aquellos tiempos de new wave, post\-punk y sentimientos decadentes\. Foto: The Cure
 
-180 songs - 13 hr 33 min - [published](https://open.spotify.com/playlist/7MNQpJF8R2XZQsiwsBTSQ1)
+181 songs - 13 hr 37 min - [published](https://open.spotify.com/playlist/7MNQpJF8R2XZQsiwsBTSQ1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Boys Don't Cry \(Bestival Live 2011\)](https://open.spotify.com/track/69daVl60U0WWueFAUSQFih) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Bestival Live 2011](https://open.spotify.com/album/06PZTi7nIOTzxdNhL0lnMS) | 3:05 | 2021-09-28 | 2022-07-29 |
 | [Brass in Pocket](https://open.spotify.com/track/6YrHQ3Uv9YXK2gJNVTlT8P) | [Pretenders](https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9) | [Original Album Series](https://open.spotify.com/album/73yNa10jc7Ad4wbM3wVO81) | 3:04 | 2021-09-28 | 2022-07-29 |
 | [Brass in Pocket \- 2006 Remaster](https://open.spotify.com/track/1QaJWSCk3UMKLotnPCIHh1) | [Pretenders](https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9) | [Pretenders](https://open.spotify.com/album/6AFFu3ilmlEDz1I9ZaNOZw) | 3:05 | 2021-09-28 |  |
+| [Bring on the Dancing Horses](https://open.spotify.com/track/5uh98HlgvoJd2zRWAduj2Y) | [Echo & the Bunnymen](https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z) | [Songs to Learn & Sing](https://open.spotify.com/album/0VYyqjM5H2sXj6z8ocAyjb) | 3:55 | 2021-09-28 |  |
 | [Bring on the Dancing Horses](https://open.spotify.com/track/5pCGWaQFtRBkRse3DAN5yB) | [Echo & the Bunnymen](https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z) | [The Best of Echo & The Bunnymen](https://open.spotify.com/album/0KJWnz3i4TZXzWQMSnKzSv) | 3:55 | 2021-09-28 | 2022-07-29 |
 | [Burning Down the House](https://open.spotify.com/track/2VNfJpwdEQBLyXajaa6LWT) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Burning Down the House / I Get Wild / Wild Gravity](https://open.spotify.com/album/1invpprZoPxP2H3CfGgSfJ) | 4:01 | 2021-09-28 |  |
 | [Butterfly On A Wheel](https://open.spotify.com/track/2d1vGDzaGWbCkupDsPniA7) | [The Mission](https://open.spotify.com/artist/4SAdMucvHyws4QTeAUsPtE) | [Carved In Sand](https://open.spotify.com/album/62pkk3ia1TFY68cBrvfmqC) | 5:40 | 2021-09-28 | 2022-07-28 |
@@ -47,7 +48,7 @@
 | [De Do Do Do, De Da Da Da](https://open.spotify.com/track/0yJvWbn8xQKiDZ84VN5lQG) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Zenyatta Mondatta \(Remastered 2003\)](https://open.spotify.com/album/23enz9nXJhH1BR1Rm5CzDJ) | 4:07 | 2021-09-28 |  |
 | [De Do Do Do, De Da Da Da \- 2003 Stereo Remastered Version](https://open.spotify.com/track/4vrfqXhxognqN4Y4cwDnCA) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Every Breath You Take: Greatest Hits \(International Version\)](https://open.spotify.com/album/11WaJQFZ4nEDa9k3L1NrGF) | 4:07 | 2021-09-28 | 2022-07-29 |
 | [Dead Man Walking](https://open.spotify.com/track/4PlXSFnsBw2yyEdWnjMIW1) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Earthling](https://open.spotify.com/album/3aDzKV68K2LLFtl9XsxHaP) | 6:49 | 2021-09-28 | 2022-06-08 |
-| [Dear Prudence](https://open.spotify.com/track/34tFidHrETMAjsiK87WVVW) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Hyaena \(Remastered And Expanded\)](https://open.spotify.com/album/0PF97T9K2E95PV4AbICNjr) | 3:48 | 2021-09-28 |  |
+| [Dear Prudence](https://open.spotify.com/track/34tFidHrETMAjsiK87WVVW) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Hyaena \(Remastered And Expanded\)](https://open.spotify.com/album/0PF97T9K2E95PV4AbICNjr) | 3:48 | 2021-09-28 | 2022-09-20 |
 | [Desire](https://open.spotify.com/track/4B9lC39ZaRFEku3aneRmAE) | [Gene Loves Jezebel](https://open.spotify.com/artist/4Egyhh5C7MvfJaWXFx1qc4) | [Greatest Hits, Remixes & More](https://open.spotify.com/album/2nvFSKDu3gvvHn9X11szDl) | 4:22 | 2021-09-28 | 2022-04-25 |
 | [Disappointed](https://open.spotify.com/track/2PSXD9A74a6eLlrcbR32NM) | [Public Image Ltd.](https://open.spotify.com/artist/70MMkLXtue3Edj3RJhJkYp) | [9](https://open.spotify.com/album/5nATjbetFLkE4EmDJneovN) | 5:34 | 2021-09-28 | 2022-07-28 |
 | [Don't Be Cruel](https://open.spotify.com/track/6A1MJbqxcHvNcT0u9qMqEP) | [Cheap Trick](https://open.spotify.com/artist/1LB8qB5BPb3MHQrfkvifXU) | [Lap Of Luxury](https://open.spotify.com/album/1aYjx4tcmci0lYwT5sKgvM) | 3:07 | 2021-09-28 | 2022-07-29 |

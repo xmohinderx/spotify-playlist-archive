@@ -4,7 +4,7 @@
 
 > Underground indie rock gems\. Cover: Jockstrap
 
-612 songs - 1 day 10 hr 55 min - [published](https://open.spotify.com/playlist/4XA1SOQIX98lp2gcRgRzUr)
+614 songs - 1 day 11 hr 1 min - [published](https://open.spotify.com/playlist/4XA1SOQIX98lp2gcRgRzUr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,6 +171,7 @@
 | [Do U Mind? \(Leave the Light On\)](https://open.spotify.com/track/5d1TzfQh1uuIwh3HQXMyGa) | [Fleece](https://open.spotify.com/artist/3M8JKaNdIRChzvxVK1XxKm) | [Do U Mind? \(Leave the Light On\)](https://open.spotify.com/album/5LfUy7NkFPoM8w63kp3iDi) | 3:42 | 2021-03-05 | 2022-04-29 |
 | [Dog Eat Dog](https://open.spotify.com/track/6JLcvLZP4N8MRhvjG6SGaL) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Dog Eat Dog](https://open.spotify.com/album/6EL1CpUnemPFyu30uPEu9N) | 2:49 | 2022-08-17 |  |
 | [Doja Cat](https://open.spotify.com/track/2kXgy7JdxMUlk6OzkxWbzg) | [Pity Party \(Girls Club\)](https://open.spotify.com/artist/5J3QKfJDFyjR3Q2qRcRaIU) | [Doja Cat](https://open.spotify.com/album/4Mo70Mn9T9VcIiCH77VPol) | 2:40 | 2022-04-26 | 2022-06-25 |
+| [Dolonia](https://open.spotify.com/track/5oRlBYinsa2xdBJIFOtkTe) | [Elliott Fullam](https://open.spotify.com/artist/2Qxud5LpPRMREqYpOX3DQw) | [What's Wrong](https://open.spotify.com/album/3JukWvhnXcwKIl04p2TWse) | 2:44 | 2022-09-19 |  |
 | [drink](https://open.spotify.com/track/0BKepmBtw6vSh6AVhoT0Uo) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [drink](https://open.spotify.com/album/0Lt7OKElAxGnG9WRywJjfB) | 2:30 | 2022-01-28 | 2022-02-22 |
 | [Drink The Lake](https://open.spotify.com/track/66ODte3X9Uk7ON85hnDNmw) | [IAN SWEET](https://open.spotify.com/artist/6mrOjLZyPub9LcecUarcMD) | [Drink The Lake](https://open.spotify.com/album/111JuJ9c9okr6iskmC7DR3) | 3:15 | 2021-03-05 | 2022-04-29 |
 | [Drive](https://open.spotify.com/track/4HwEnH5PQUALrkaiOYatd7) | [Annie Blackman](https://open.spotify.com/artist/4SaxGqc1dzg74v8p8XcfOm) | [Drive](https://open.spotify.com/album/06J51Sg3OlGjelZv6DBzal) | 4:11 | 2021-11-19 | 2022-04-22 |
@@ -531,6 +532,7 @@
 | [That I Won't Do](https://open.spotify.com/track/3mZnzp5DzIxmnSYrUBME8b) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [That I Won't Do](https://open.spotify.com/album/1YrYPr2CJZztg9s3RdUdNo) | 2:42 | 2021-11-12 | 2022-04-28 |
 | [That's The Way I Like It](https://open.spotify.com/track/52cNGf7Bw8cykQ74snRoaw) | [Lily Konigsberg](https://open.spotify.com/artist/0C0xVsusgtna2fFBSPQzQS) | [That's The Way I Like It](https://open.spotify.com/album/4Qc7to2x5jIZH5aCZVXukA) | 2:03 | 2021-08-27 | 2022-04-27 |
 | [That's What Everybody Said](https://open.spotify.com/track/4sp2EycL8CwmVklKhqUjpR) | [Wabie](https://open.spotify.com/artist/3wOQaMNQU0rbzWyGXIudmE) | [That's What Everybody Said](https://open.spotify.com/album/1wGTHTrbX8SulQLoJtjeTk) | 3:10 | 2021-10-08 | 2022-04-21 |
+| [The Burned Down Dairy Queen](https://open.spotify.com/track/6RbFAkfrbJB3BYyNPme7er) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Twin Plagues](https://open.spotify.com/album/00rOqMAZR9zHdtRP5KQ64H) | 3:08 | 2022-09-19 |  |
 | [The Cause](https://open.spotify.com/track/5cFx3Oi4oaNHL090x1LIyQ) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [The Cause](https://open.spotify.com/album/0P3CvoVxTcnTPgwUvR3bbe) | 3:05 | 2021-11-19 | 2022-04-28 |
 | [The Detail](https://open.spotify.com/track/1eVNSUm4POzvNUa9IqiltN) | [Delta Sleep](https://open.spotify.com/artist/05MlomiA9La0OiNIAGqECk) | [The Detail](https://open.spotify.com/album/43OoHqzqkT2tWRoj1hohdz) | 4:29 | 2021-06-11 | 2022-09-03 |
 | [The Extra Sees the Film](https://open.spotify.com/track/1WPsYspncOcNNSMTcmv8Uq) | [Kiwi jr.](https://open.spotify.com/artist/4CMdLKWNEoNSLpaJ6QMWYy) | [Chopper](https://open.spotify.com/album/5KgqAmpA8ajKLOgIgrkoB1) | 4:37 | 2022-07-22 |  |

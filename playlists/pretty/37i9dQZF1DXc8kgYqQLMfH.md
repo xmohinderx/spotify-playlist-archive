@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 
 > The chillest instrumental lofi beats, certified lush.
 
-[Spotify](https://open.spotify.com/user/spotify) - 994,086 likes - 394 songs - 15 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 994,144 likes - 394 songs - 15 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 | 80 | [Starless II \- Spotify Singles](https://open.spotify.com/track/139uZo8dlYHgVyMYN6bSXA) | [Bluewerks](https://open.spotify.com/artist/4ELcaEK7UaF0mUoodoVBfn), [Arbour](https://open.spotify.com/artist/3pSfwb3p6BVPTYDkNdgxS2) | [Spotify Singles](https://open.spotify.com/album/2qTdXY1w3bJXeQ4mI57ye1) | 2:51 |
 | 81 | [Création du Monde](https://open.spotify.com/track/4ZJFDEerMptTZzIbHQqnsi) | [BluntOne](https://open.spotify.com/artist/225l1KEprObX8xgl8xo2Gc), [Baen Mow](https://open.spotify.com/artist/2mt3wR9B4tg9KXvICFYhqM) | [Création du Monde](https://open.spotify.com/album/7xX40x8BpmihVAuvZRBVgG) | 2:01 |
 | 82 | [Mosquito](https://open.spotify.com/track/7rc25QCtoWgpMoS5QKXPhr) | [glenn.](https://open.spotify.com/artist/1HUH0vZwspa4HklgpxO99o) | [Friday Love](https://open.spotify.com/album/73BMGhkiLcIx71RAVqH7hE) | 1:39 |
-| 83 | [lake hylia](https://open.spotify.com/track/1DE2OTIUPBhBCmwrfSgnu4) | [Poetics](https://open.spotify.com/artist/6sdgbah9YMIS5jSYdyzpBP) | [lake hylia](https://open.spotify.com/album/1iGEDqPy6ZLwqO2mSIUqg3) | 1:51 |
+| 83 | [lake hylia](https://open.spotify.com/track/4vvZKGxwq09jL4F30aF1Om) | [Poetics](https://open.spotify.com/artist/6sdgbah9YMIS5jSYdyzpBP) | [lake hylia](https://open.spotify.com/album/2pajMS0QgB2rk8TwXu1Tfo) | 1:51 |
 | 84 | [Upward Falling](https://open.spotify.com/track/6YsXDpB5gqbNZiAIn8T4Ty) | [Tamala Bay](https://open.spotify.com/artist/2lncpX7wgkhvlIkw7ozMRj) | [Upward Falling](https://open.spotify.com/album/3djnMJi6Yzhm2pyk9Cm5IY) | 2:27 |
 | 85 | [Enjoy](https://open.spotify.com/track/7feSrht6OcaDya6Un742qQ) | [Duos On Mars](https://open.spotify.com/artist/22xfcNHhnZQfa6BWd209Az) | [Enjoy](https://open.spotify.com/album/7BdAV4twF950bjoesRSrta) | 1:50 |
 | 86 | [Keep It Calm](https://open.spotify.com/track/7Lk97jmCy6NLGoMOCliR25) | [Flaminguez](https://open.spotify.com/artist/6N1OYOloCfLQRL1NQeHF4x) | [Keep It Calm](https://open.spotify.com/album/0sSxZTHWKC6Cx8llgdP8zN) | 2:12 |
@@ -319,7 +319,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 | 309 | [Lunchtime Naps](https://open.spotify.com/track/7Ek77aQQIXBz9ONMCT1dgt) | [Age of Departures](https://open.spotify.com/artist/6eLOG5NiDw8it9PbnC6WdF) | [Simpler Days](https://open.spotify.com/album/5zPe20u8Mu91BYrRSjqRhn) | 2:42 |
 | 310 | [Mesh](https://open.spotify.com/track/1SFBHnALpYpILOUjPEtLsd) | [Detainment System](https://open.spotify.com/artist/0lw9h7wdLjwlyq40RghxnK) | [Mesh](https://open.spotify.com/album/0XQQsf7sLJj8qPfh6iA1fX) | 2:15 |
 | 311 | ['99](https://open.spotify.com/track/7JE2ujzBHaZVvtiUtBKQn1) | [Hype Right](https://open.spotify.com/artist/5WyDwnrZMIyg4iDWrZuva4) | ['99](https://open.spotify.com/album/3WVWIjOfJ3jHyfFR8pCedL) | 3:30 |
-| 312 | [morrowind](https://open.spotify.com/track/2KEKQ6UuaqnuvYHLbh6rn8) | [Poetics](https://open.spotify.com/artist/6sdgbah9YMIS5jSYdyzpBP) | [morrowind](https://open.spotify.com/album/3iZaHCWiNFfzuQqGTQoDsL) | 1:37 |
+| 312 | [morrowind](https://open.spotify.com/track/2VzFtP6YxLfDk0U7aMD4H2) | [Poetics](https://open.spotify.com/artist/6sdgbah9YMIS5jSYdyzpBP) | [morrowind](https://open.spotify.com/album/2w1B689gsXzaKg85JxAvy3) | 1:37 |
 | 313 | [Jenas](https://open.spotify.com/track/0XkQ0VrK0QGOn9wGiHVwi6) | [Oops 123](https://open.spotify.com/artist/617zYYWCbL7eE07lP9O8rH) | [Jenas](https://open.spotify.com/album/2vFTj0brF8oaVUnRt2qeFD) | 3:25 |
 | 314 | [Dolphins in the Sky](https://open.spotify.com/track/1ribdilCzsLsEdFnLp2LVJ) | [damaa.beats](https://open.spotify.com/artist/4zSHueBRkrGzbb5p9J74dY) | [Dolphins in the Sky](https://open.spotify.com/album/3BbJ1gylD4ZK3IvNkKphdW) | 2:12 |
 | 315 | [Decentralization](https://open.spotify.com/track/6dcyRNOkKL2Djs2peHh2CY) | [Satoshi Nakamoto](https://open.spotify.com/artist/0sXILwwk9X38em5cacNPUF) | [Bitcoin](https://open.spotify.com/album/49c509rgZOKKYFbbXQoivz) | 2:19 |
@@ -403,4 +403,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 | 393 | [Mombasa Night](https://open.spotify.com/track/2lGx79WyAqEyJcxtqqOaEb) | [Idris Jem](https://open.spotify.com/artist/0TsDkwnB2mr1kbQKAU4XcY) | [Mombasa Night](https://open.spotify.com/album/2fk273nfng9SzpuYWygQRo) | 2:09 |
 | 394 | [Lo\-Fi Script](https://open.spotify.com/track/3lgZiAGYdOZt7oY4kF6Zhh) | [Blue Motyl](https://open.spotify.com/artist/0xOHCFbX8RDbK6CHogBjfS) | [Joy Fever](https://open.spotify.com/album/34GqgZ2dZ2ewfyK1kIiNpA) | 2:02 |
 
-Snapshot ID: `MTY2MzMzNjQ0MCwwMDAwMDAwMDEzODFlNzg4M2E1ZjVmZmQzYzBjYzliNWVjNjZjN2Rk`
+Snapshot ID: `MTY2MzMzNjQ0MCwwMDAwMDAwMDJkNDMxZjI2NThkNGEyMTM3NTg3Njg0MWQ2NWRkNDNj`

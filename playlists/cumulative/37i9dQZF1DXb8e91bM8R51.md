@@ -4,7 +4,7 @@
 
 > Hip Hop pra fazer os corres da vida.
 
-290 songs - 16 hr 45 min - [published](https://open.spotify.com/playlist/7DAGjpLvat3eEtPVDLnVUB)
+291 songs - 16 hr 48 min - [published](https://open.spotify.com/playlist/7DAGjpLvat3eEtPVDLnVUB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,8 @@
 | [GO \(feat\. Juice WRLD\)](https://open.spotify.com/track/2t7D3y0jvYjR8IP9Bosyew) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [GO \(feat\. Juice WRLD\)](https://open.spotify.com/album/40wtKuLVVlde1T88LqtZwa) | 3:03 | 2022-01-14 | 2022-07-29 |
 | [Go Crazy \(Remix\) \(feat\. Young Thug, Future, Lil Durk & Latto\)](https://open.spotify.com/track/1Jz1yhcPm1Yt6aoed3zact) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Go Crazy \(Remix\) \(feat\. Young Thug, Future, Lil Durk & Latto\)](https://open.spotify.com/album/57mRzPwzFz7cnnuDM4rHMU) | 3:47 | 2022-01-14 |  |
 | [God's Plan](https://open.spotify.com/track/6DCZcSspjsKoFjzjrWoCdn) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Scorpion](https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX) | 3:18 | 2022-01-14 | 2022-02-26 |
-| [Good Movie](https://open.spotify.com/track/4leKMM9HGvo32ZcIGRafGS) | [Pi’erre Bourne](https://open.spotify.com/artist/3x3jSlhyv5CiCZDZlaTq0M) | [Good Movie](https://open.spotify.com/album/3cNHTRSvsTSp0IjYQvygoB) | 3:05 | 2022-08-26 |  |
+| [Good Movie](https://open.spotify.com/track/3UZdSNMSGjZM5GuGuqB5ff) | [Pi’erre Bourne](https://open.spotify.com/artist/3x3jSlhyv5CiCZDZlaTq0M) | [Good Movie](https://open.spotify.com/album/2REajdJ8KOaR8Vm2Zx8UXM) | 3:05 | 2022-09-09 |  |
+| [Good Movie](https://open.spotify.com/track/4leKMM9HGvo32ZcIGRafGS) | [Pi’erre Bourne](https://open.spotify.com/artist/3x3jSlhyv5CiCZDZlaTq0M) | [Good Movie](https://open.spotify.com/album/3cNHTRSvsTSp0IjYQvygoB) | 3:05 | 2022-08-26 | 2022-09-20 |
 | [Good Thing \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/2Ss2x0xjGRsOXZiYslCKQE) | [D Smoke](https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [War & Wonders](https://open.spotify.com/album/6yXIl5A3rqnIEW6kMX3NwN) | 3:39 | 2022-01-14 | 2022-07-29 |
 | [Good To U](https://open.spotify.com/track/5MD5P4u0egcug4bW6ihDVY) | [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g), [Susan Carol](https://open.spotify.com/artist/7lkBIPB2g6tiQos6UF9plP), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [T3 of Slum Village](https://open.spotify.com/artist/1oSgBOaSWpCj6oo7lFnwaE), [Adam Flowers](https://open.spotify.com/artist/1SggEYhzQY4qw4c9lDIIaq) | [Good To U](https://open.spotify.com/album/2LbfKWC16Qd56tDR0JQ3YO) | 3:09 | 2022-01-14 | 2022-03-05 |
 | [Gravity Glidin](https://open.spotify.com/track/6jOZZsNqqrPN1B4QZ8n9si) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd) | [Gravity Glidin](https://open.spotify.com/album/6d9ugzpUFY3DP5FGsPHPsJ) | 2:20 | 2022-01-14 | 2022-07-29 |

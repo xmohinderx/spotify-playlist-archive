@@ -4,7 +4,7 @@
 
 > Just chill.
 
-330 songs - 18 hr 52 min - [published](https://open.spotify.com/playlist/4xMryNZOIXSOcA9on5hgsi)
+331 songs - 18 hr 54 min - [published](https://open.spotify.com/playlist/4xMryNZOIXSOcA9on5hgsi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Buzzed](https://open.spotify.com/track/125DSBjIfOOCkmyRukprZT) | [¿Téo?](https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [Buzzed](https://open.spotify.com/album/4JGWwlyl97ylcdcuU8IVS9) | 2:39 | 2021-06-07 |  |
 | [Cabriolet](https://open.spotify.com/track/05ZeiujqFx9XGekEXogxdZ) | [Smoke Trees](https://open.spotify.com/artist/6cN5TvotJoRbhYHoCHw8BI), [Lito Akari](https://open.spotify.com/artist/4ATIy1cxe2gE276vbRv2Hu) | [Cabriolet](https://open.spotify.com/album/40SEs7WEPREj4xeb9mVNv2) | 2:42 | 2022-08-17 |  |
 | [Calico](https://open.spotify.com/track/7EWwiyBXMaLzoSXwWZkYyU) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Calico](https://open.spotify.com/album/6ocDemfIGrj8hpvvpjDFoc) | 3:51 | 2020-05-22 | 2022-01-22 |
-| [Can't Stop Your Lovin'](https://open.spotify.com/track/5P1eorfAD2voGnX7ZbuvFz) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Can't Stop Your Lovin'](https://open.spotify.com/album/4wk1q3SvmE08InkoJKodlW) | 3:57 | 2019-07-26 |  |
+| [Can't Stop Your Lovin'](https://open.spotify.com/track/5P1eorfAD2voGnX7ZbuvFz) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Can't Stop Your Lovin'](https://open.spotify.com/album/4wk1q3SvmE08InkoJKodlW) | 3:57 | 2019-07-26 | 2022-09-20 |
 | [Chaos Calls](https://open.spotify.com/track/55EhodVkxmBissqZ02fgKX) | [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Chaos Calls](https://open.spotify.com/album/7qImfA3la1vAndVk8kuarB) | 3:56 | 2022-08-19 |  |
 | [Charlie](https://open.spotify.com/track/43PsEYuMZRBFFA0udH9Y3K) | [Alex Siegel](https://open.spotify.com/artist/65FPMBREZBLfEDpkHlm8sS) | [Charlie](https://open.spotify.com/album/34Yflaq5AUfcIl3f7kWji0) | 3:05 | 2022-08-19 |  |
 | [Charmed](https://open.spotify.com/track/6F5jUW0lOVlCSvhCH0yl3f) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu), [Redinho](https://open.spotify.com/artist/72WcKL1SYgNzcNojYLFQsB) | [Charmed](https://open.spotify.com/album/3jfaxyujChdnrEbjYDaYax) | 2:38 | 2022-03-28 |  |
@@ -304,6 +304,7 @@
 | [Undone](https://open.spotify.com/track/6CtRj0RTOlJkuS5YaI359j) | [Ivytide](https://open.spotify.com/artist/1FYG11siqeY73Lu2hrFMYp) | [Undone](https://open.spotify.com/album/5TBc4QwLqCViRjyznsyGEl) | 3:12 | 2020-05-29 | 2022-01-22 |
 | [Unkind](https://open.spotify.com/track/7DgW7jnyWYe2iOhwP7Uxog) | [Kacy Hill](https://open.spotify.com/artist/4dYQmk5ma04mZ1KJ9KkAQK) | [Unkind](https://open.spotify.com/album/6t0G0GALHFQGSjnIZOyZp9) | 3:18 | 2020-05-09 | 2022-01-22 |
 | [Up All Night](https://open.spotify.com/track/1MkNcbkKddbuLZq1a8Vx7o) | [Alex Siegel](https://open.spotify.com/artist/65FPMBREZBLfEDpkHlm8sS) | [Up All Night](https://open.spotify.com/album/69q3coTXWa2EuyfCXFBQtz) | 2:57 | 2019-06-26 | 2022-08-20 |
+| [Vacation](https://open.spotify.com/track/7c3o20IFicfq6xzf2BMfrx) | [Honeywhip](https://open.spotify.com/artist/1yyRuOZtns01N2hUtseLT0) | [Vacation](https://open.spotify.com/album/2yyJyMbVCggJxBxTguQdza) | 1:59 | 2022-09-19 |  |
 | [Val!um](https://open.spotify.com/track/0yXU3XSY2yYs542ksvHLNL) | [MASN](https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE) | [Val!um](https://open.spotify.com/album/7tCOA660KQ5c83XLJHtRYn) | 3:08 | 2020-02-12 | 2022-04-29 |
 | [Waiting Up](https://open.spotify.com/track/1deqbBUFuyKeifDbTRdAWH) | [Glded](https://open.spotify.com/artist/6LQHbUxsIOTU2vkzbUaXCH) | [Waiting Up](https://open.spotify.com/album/0KN92RwTZ5yOIVQ6GbdwTr) | 2:21 | 2020-08-21 | 2022-01-22 |
 | [walk but in a garden](https://open.spotify.com/track/37bzRWttPZDNdJs24NZaUG) | [LLusion](https://open.spotify.com/artist/5XBb04uBpKPWPWC2jXgGqb) | [walk but in a garden](https://open.spotify.com/album/0iHcSeWJa1zUgnCPA9DO7j) | 1:50 | 2020-05-29 | 2022-07-29 |

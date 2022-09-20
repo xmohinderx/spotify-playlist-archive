@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: The Lone Bellow
 
-[Spotify](https://open.spotify.com/user/spotify) - 742,262 likes - 155 songs - 9 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 742,515 likes - 155 songs - 9 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 11 | [Coyotes](https://open.spotify.com/track/0Ap3RZ5lv127IZZxUpcBku) | [Bill Callahan](https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr) | [Coyotes](https://open.spotify.com/album/1VunM6vUqbKR0ASBarnSOi) | 6:27 |
 | 12 | [You and Me On The Rock \(In The Canyon Haze\)](https://open.spotify.com/track/7tmtdHPAoUZLuJqTnDR7FS) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [You and Me On The Rock \(In The Canyon Haze\)](https://open.spotify.com/album/22EMSIjfksTwA1yizWVXa6) | 4:17 |
 | 13 | [Out of My Head](https://open.spotify.com/track/6hAZx4PQIlwyazfANp6joe) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Out of My Head](https://open.spotify.com/album/0yApDZC0LLXvZ7A21xL9BT) | 3:34 |
-| 14 | [Night Moves](https://open.spotify.com/track/7iOSaQAmLZNege7dXunnsE) | [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [Night Moves](https://open.spotify.com/album/26HYYCUQFcYbQHGKnDabuW) | 3:08 |
+| 14 | [Night Moves](https://open.spotify.com/track/6HOqWQFDKYvZp28ujtEuVu) | [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [Carving Canyons](https://open.spotify.com/album/0keDX0kFNMMZtGWK3YP5GO) | 3:08 |
 | 15 | [I Believe \(When I Fall In Love It Will Be Forever\) \- Recorded at Electric Lady Studios](https://open.spotify.com/track/67GCmLBIyOlIhXwyRqX5S2) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Live at Electric Lady](https://open.spotify.com/album/3cjPWHrJJWSNhNWxRVh0e0) | 4:26 |
 | 16 | [That's How You Know](https://open.spotify.com/track/3Vnpr2sEVngZQgAZYmAgl3) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V), [Sima Cunningham](https://open.spotify.com/artist/7hCrrpVmgtWF6Y3MZed12l), [Macie Stewart](https://open.spotify.com/artist/4bAFS16s5qBFYuOM4gQ5Xv) | [That's How You Know](https://open.spotify.com/album/3L2xXFvMayei3lV4JLqLTU) | 3:45 |
 | 17 | [Late Afternoon in the Meadow \(1887\)](https://open.spotify.com/track/2OBjNngWUWi2aTqZbCrYmb) | [Joshua Burnside](https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV) | [Late Afternoon in the Meadow \(1887\)](https://open.spotify.com/album/6rHxUjTtjlF3r3jTfkJWCi) | 4:34 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 46 | [Leave You Lonely](https://open.spotify.com/track/4rMaibSlgAUHJD9myTJrKD) | [Field Guide](https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz) | [Leave You Lonely](https://open.spotify.com/album/19bm8NFFMHcj3QaqBfq9Es) | 4:24 |
 | 47 | [Tres Hermanos](https://open.spotify.com/track/0cb9Ov9eC2eFxac6bCcUZl) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV), [Dan Auerbach](https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC) | [Tres Hermanos](https://open.spotify.com/album/6EegfhQTzRiBxkmZJ79sC4) | 3:21 |
 | 48 | [Still Water](https://open.spotify.com/track/3inIdx3pCVdZ3rlrDrDIHw) | [Andrew Combs](https://open.spotify.com/artist/4ONwFcI8RGvYMG1vEIdS11) | [Sundays](https://open.spotify.com/album/2pUX7U59JzLuLQFffTrFRV) | 2:49 |
-| 49 | [Sad](https://open.spotify.com/track/2FyJqbLBacg8U7uiSy0cLg) | [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [Sad](https://open.spotify.com/album/5aOz3OK9QSRaFR8oY992ct) | 3:24 |
+| 49 | [Sad](https://open.spotify.com/track/1K6dPwnP8alsRxVc5ET5Ft) | [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [Carving Canyons](https://open.spotify.com/album/0keDX0kFNMMZtGWK3YP5GO) | 3:24 |
 | 50 | [Walking Song](https://open.spotify.com/track/7faNYwo9q4rEdneW1sBJYj) | [Birdtalker](https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt) | [Walking Song](https://open.spotify.com/album/1F7L1p8STaJVQVVYijEng2) | 3:04 |
 | 51 | [Soul Sweet Song](https://open.spotify.com/track/6tvXOpoonSGwxM0R4eq8Tj) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [Soul Sweet Song](https://open.spotify.com/album/1zvef1QMx5kNFNKifTTQud) | 3:55 |
 | 52 | [Monochrome](https://open.spotify.com/track/6ERbOSiVlLgwYcKsN3kmY6) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [Monochrome](https://open.spotify.com/album/2nXzlL3Zhd3LnZkAMyvesX) | 3:28 |
@@ -164,4 +164,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 154 | [Holy Mountain](https://open.spotify.com/track/5styQSSHZtSg4BPfEqiqw7) | [Matt Costa](https://open.spotify.com/artist/0EghvcisxKybq4CVO7rB5t) | [Donde Los Terremotos: Songs from and Inspired by the Film](https://open.spotify.com/album/0gcM0ST0KNf9v3ua0rnpkf) | 5:32 |
 | 155 | [Virginia](https://open.spotify.com/track/1GYSSKVMZB4GNGsP2h0EZJ) | [Torri Weidinger](https://open.spotify.com/artist/48WSeSXisRpPcjSaXVR2LM) | [Virginia](https://open.spotify.com/album/4oXf7xYBCRgxDsA8QyxU4b) | 4:13 |
 
-Snapshot ID: `MTY2MzMwMDgwMCwwMDAwMDAwMDU5ZTE1ZDk1YWQyMDhkYWJiZjllNjAwNTU2ZWNjYWE1`
+Snapshot ID: `MTY2MzMwMDgwMCwwMDAwMDAwMDRkMmVkZTlhYjU3MGM4N2VhMTA1NmQzM2Q1YTg0MDJj`

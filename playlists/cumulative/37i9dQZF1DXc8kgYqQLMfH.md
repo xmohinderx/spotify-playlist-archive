@@ -4,7 +4,7 @@
 
 > The chillest instrumental lofi beats, certified lush.
 
-614 songs - 23 hr 10 min - [published](https://open.spotify.com/playlist/5YUfjMmTDPWP2hNxKcTfly)
+616 songs - 23 hr 14 min - [published](https://open.spotify.com/playlist/5YUfjMmTDPWP2hNxKcTfly)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -285,7 +285,8 @@
 | [Kusytic](https://open.spotify.com/track/3Dz7UfaXyvJ6UfMOtaWwPK) | [Who Dares Wins](https://open.spotify.com/artist/2V9lYv7GWR9uaaDcqm2g6s) | [Kusytic](https://open.spotify.com/album/3bg45ombOYeu3prDdRdKxG) | 2:08 | 2021-11-10 |  |
 | [l u s h](https://open.spotify.com/track/4vkHWjfEG7l5gH72po5X6u) | [caesar torro](https://open.spotify.com/artist/4HWcje0QZ9jSo1wnFcOjW9) | [l u s h](https://open.spotify.com/album/6suXLgCTe0G8yQRLkY2IlD) | 2:16 | 2021-11-10 |  |
 | [laidback paradise](https://open.spotify.com/track/5vMQj2BQeVHxwnouYx2AfR) | [Rushee](https://open.spotify.com/artist/240eY7QFKitmqf9aiXwJQw) | [laidback paradise](https://open.spotify.com/album/6fGWUQo5V8HnrWppbPPYbe) | 3:21 | 2021-11-10 | 2022-04-08 |
-| [lake hylia](https://open.spotify.com/track/1DE2OTIUPBhBCmwrfSgnu4) | [Poetics](https://open.spotify.com/artist/6sdgbah9YMIS5jSYdyzpBP) | [lake hylia](https://open.spotify.com/album/1iGEDqPy6ZLwqO2mSIUqg3) | 1:51 | 2021-11-10 |  |
+| [lake hylia](https://open.spotify.com/track/1DE2OTIUPBhBCmwrfSgnu4) | [Poetics](https://open.spotify.com/artist/6sdgbah9YMIS5jSYdyzpBP) | [lake hylia](https://open.spotify.com/album/1iGEDqPy6ZLwqO2mSIUqg3) | 1:51 | 2021-11-10 | 2022-09-20 |
+| [lake hylia](https://open.spotify.com/track/4vvZKGxwq09jL4F30aF1Om) | [Poetics](https://open.spotify.com/artist/6sdgbah9YMIS5jSYdyzpBP) | [lake hylia](https://open.spotify.com/album/2pajMS0QgB2rk8TwXu1Tfo) | 1:51 | 2022-09-16 |  |
 | [Land Breeze](https://open.spotify.com/track/6Of1IIGfqbi3gmos9Hg0xx) | [Chau Sara](https://open.spotify.com/artist/4VjWi8luQOkJ3hLEW7UMhl) | [Land Breeze](https://open.spotify.com/album/2ViqL6IGro8GTWR3sV7dD4) | 2:34 | 2022-04-15 |  |
 | [Last Summer](https://open.spotify.com/track/5qaQn9EJqXN2oX3wnoahSP) | [Laffey](https://open.spotify.com/artist/7LWdcPFBFcRaamGjIJbPV7), [SCayos](https://open.spotify.com/artist/13rVXSdnUlcpvFQ2iuop8a) | [Last Summer](https://open.spotify.com/album/4JPGEFUfwc7hh8lU1IuRCg) | 2:29 | 2021-11-10 | 2022-07-29 |
 | [Late but calm](https://open.spotify.com/track/4oWsy1FsUhuBmf5kFs2Jwi) | [Snowji](https://open.spotify.com/artist/1jBhtlpf2bKt06VAAjwmBK) | [Late but calm](https://open.spotify.com/album/6Z02cbUU8x5f4cA0Rd1srO) | 2:15 | 2022-08-19 |  |
@@ -363,7 +364,8 @@
 | [Morning Crows](https://open.spotify.com/track/3QQ2zGJQfvfIsenqbMwOgl) | [Bag'o Chips](https://open.spotify.com/artist/636ev3bJk1dl7fPvqSlRwg) | [Morning Crows](https://open.spotify.com/album/26XR781Q3YUSPyz9nYo3DG) | 3:02 | 2021-11-10 |  |
 | [Morning Mist](https://open.spotify.com/track/0ROMwF8gNj8dCog0D8zStX) | [Jelika](https://open.spotify.com/artist/3eJdbQVaYyybG0aBrDdI5u) | [Morning Mist](https://open.spotify.com/album/7czewPa3OyAV9f4kBbUqFR) | 1:40 | 2021-11-10 | 2022-09-03 |
 | [Morning Nature](https://open.spotify.com/track/7mTekQjP822DSXDNsjUM7b) | [Terrence Woods](https://open.spotify.com/artist/68OTfPEEVauMj9rWCFSz1k) | [Morning Nature](https://open.spotify.com/album/0QDzmNXuK79T55gf5UYDAJ) | 2:20 | 2022-09-02 |  |
-| [morrowind](https://open.spotify.com/track/2KEKQ6UuaqnuvYHLbh6rn8) | [Poetics](https://open.spotify.com/artist/6sdgbah9YMIS5jSYdyzpBP) | [morrowind](https://open.spotify.com/album/3iZaHCWiNFfzuQqGTQoDsL) | 1:37 | 2021-11-10 |  |
+| [morrowind](https://open.spotify.com/track/2KEKQ6UuaqnuvYHLbh6rn8) | [Poetics](https://open.spotify.com/artist/6sdgbah9YMIS5jSYdyzpBP) | [morrowind](https://open.spotify.com/album/3iZaHCWiNFfzuQqGTQoDsL) | 1:37 | 2021-11-10 | 2022-09-20 |
+| [morrowind](https://open.spotify.com/track/2VzFtP6YxLfDk0U7aMD4H2) | [Poetics](https://open.spotify.com/artist/6sdgbah9YMIS5jSYdyzpBP) | [morrowind](https://open.spotify.com/album/2w1B689gsXzaKg85JxAvy3) | 1:37 | 2022-09-16 |  |
 | [Mosquito](https://open.spotify.com/track/7rc25QCtoWgpMoS5QKXPhr) | [glenn.](https://open.spotify.com/artist/1HUH0vZwspa4HklgpxO99o) | [Friday Love](https://open.spotify.com/album/73BMGhkiLcIx71RAVqH7hE) | 1:39 | 2022-04-08 |  |
 | [Motivated \(Not\)](https://open.spotify.com/track/5OTiKhOHOO4IKJALSneHzz) | [ChillsmokeႿ](https://open.spotify.com/artist/50PNApaaFiGIOQhsposZnn) | [Broken Heartbeats](https://open.spotify.com/album/5dgGypu0x9sICJZivTBlHI) | 2:36 | 2021-11-10 | 2022-07-29 |
 | [motylek](https://open.spotify.com/track/2jdGc9nzRquVJ24HPDC3Is) | [Kenzo Hill](https://open.spotify.com/artist/0t8px0Bpm4kjzSJ2RREXiK) | [motylek](https://open.spotify.com/album/66pXgt3qcK1xild9iNQV8Y) | 1:57 | 2022-07-22 |  |

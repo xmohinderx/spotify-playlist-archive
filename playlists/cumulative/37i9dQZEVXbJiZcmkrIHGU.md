@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Germany.
 
-1,262 songs - 2 day 14 hr 37 min - [published](https://open.spotify.com/playlist/6ac8Kxyke6Hyo0AQCo7I3J)
+1,263 songs - 2 day 14 hr 41 min - [published](https://open.spotify.com/playlist/6ac8Kxyke6Hyo0AQCo7I3J)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -850,7 +850,7 @@
 | [Oh Digga](https://open.spotify.com/track/68g2bb1Vb2NfARwZ4pLA4Z) | [Loredana](https://open.spotify.com/artist/2Im8m4STDBosjfmb5hmP80), [Mozzik](https://open.spotify.com/artist/1pkDzgHvVqC17qYGKfLPpb) | [Oh Digga](https://open.spotify.com/album/1E7TemdPml06DGjkoA9MpU) | 2:26 | 2021-06-27 | 2021-07-04 |
 | [Oh My God](https://open.spotify.com/track/3Kkjo3cT83cw09VJyrLNwX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:45 | 2021-11-21 | 2021-11-28 |
 | [OHA Remix \(feat\. Luciano\)](https://open.spotify.com/track/6XxDxfDeSl1IPlt1h77ZlY) | [Summer Cem](https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg), [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj), [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [OHA Remix \(feat\. Luciano\)](https://open.spotify.com/album/4Bf4YbkcmXRxMlELeoJVzz) | 3:15 | 2021-08-22 | 2021-08-29 |
-| [Ohh Oh](https://open.spotify.com/track/7HHkKNORH2hAKtC9ztWMaV) | [Azet](https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh), [Zuna](https://open.spotify.com/artist/2otUckChxWf2cp6UP2cD6e) | [Ultra Plus](https://open.spotify.com/album/2Ac8Mp62k1pA3zVk66hltr) | 2:30 | 2022-09-17 |  |
+| [Ohh Oh](https://open.spotify.com/track/7HHkKNORH2hAKtC9ztWMaV) | [Azet](https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh), [Zuna](https://open.spotify.com/artist/2otUckChxWf2cp6UP2cD6e) | [Ultra Plus](https://open.spotify.com/album/2Ac8Mp62k1pA3zVk66hltr) | 2:30 | 2022-09-17 | 2022-09-20 |
 | [Ohne Benzin](https://open.spotify.com/track/3a0F2N6rXJSibQTp77xH4f) | [Domiziana](https://open.spotify.com/artist/3XZewrXpRQqqCMuUMAIhvN) | [Ohne Benzin](https://open.spotify.com/album/44qXZ6KEzcKrp9E9jaxpH0) | 2:35 | 2022-05-22 |  |
 | [Ohne Benzin \- 1,1x Speed Version](https://open.spotify.com/track/2MrKx1k7CSLryCP1sf3cwl) | [Domiziana](https://open.spotify.com/artist/3XZewrXpRQqqCMuUMAIhvN) | [Ohne Benzin \(1,1x Speed Version\)](https://open.spotify.com/album/6v0s7zj6xxVdotp0Buxx88) | 2:19 | 2022-05-26 | 2022-07-10 |
 | [Ohne Dich](https://open.spotify.com/track/1BHgWnOYgtAHhMZU73co1D) | [KASIMIR1441](https://open.spotify.com/artist/7ADRm1oT7VmhRRZrZqycV6), [badmómzjay](https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h), [WILDBWOYS](https://open.spotify.com/artist/44yXVrsMTsKGUBHZsYFZNq) | [EYA](https://open.spotify.com/album/5YltQXZSQFA1W4BL7Pk1Za) | 2:05 | 2021-12-04 | 2021-12-05 |
@@ -1079,6 +1079,7 @@
 | [SUPERWOMAN](https://open.spotify.com/track/4dal09q6f5ZYP20QefD23D) | [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu) | [SUPERWOMAN](https://open.spotify.com/album/6dwn7BzD7ghR0os7Ol2PgN) | 2:18 | 2021-04-26 | 2021-04-29 |
 | [Survival Mode \(Intro\)](https://open.spotify.com/track/6xfjR5HmYHnabfSKvjoh0M) | [badmómzjay](https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h) | [Survival Mode \(Intro\)](https://open.spotify.com/album/7D9np0pd16reMo5ajg1WE0) | 3:33 | 2022-08-06 | 2022-08-14 |
 | [SUVs](https://open.spotify.com/track/01I8aPBUJIMzCtHsCVvmq5) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [SUVs](https://open.spotify.com/album/6dYHhV1ES2wfdoxvWXI5Ld) | 2:42 | 2021-12-05 | 2022-01-15 |
+| [Sweater Weather](https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [I Love You.](https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI) | 4:00 | 2022-09-19 |  |
 | [Sweet Dreams](https://open.spotify.com/track/5Pp64isQvPVgptiOdS9Kcn) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [Sweet Dreams](https://open.spotify.com/album/78qLX2ToMCHZfYokHOC2GJ) | 3:15 | 2022-03-09 | 2022-03-27 |
 | [T\-Shirt & Jeans 2.0](https://open.spotify.com/track/676y7h4kvhZVQdPcr9eOQc) | [Frauenarzt](https://open.spotify.com/artist/38KSpOSYnwQX9zcOcVKdym), [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq) | [T\-Shirt & Jeans 2.0](https://open.spotify.com/album/6wDstWklaaksu3Nvbro4oZ) | 2:35 | 2022-04-02 | 2022-04-04 |
 | [Tag eins](https://open.spotify.com/track/3PSDa8HX97HnJM1W9pXUre) | [kid kapri](https://open.spotify.com/artist/2fPTKvCZ1fEiDiuGFGMh2w) | [Tag eins](https://open.spotify.com/album/5YX9AavF2GbYiF9NuLtcOT) | 2:03 | 2022-02-05 | 2022-02-13 |

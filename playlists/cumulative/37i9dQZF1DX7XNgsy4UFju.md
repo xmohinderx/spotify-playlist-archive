@@ -4,7 +4,7 @@
 
 > Home to all the latest indie jams\. Cover: Marcus Mumford
 
-669 songs - 1 day 15 hr 38 min - [published](https://open.spotify.com/playlist/4hpfeoyJCUxj1W1YZOVAqm)
+670 songs - 1 day 15 hr 43 min - [published](https://open.spotify.com/playlist/4hpfeoyJCUxj1W1YZOVAqm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,6 +222,7 @@
 | [Gloom](https://open.spotify.com/track/5AMe0pqbUp4HR6Vi1ngYLW) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Gloom](https://open.spotify.com/album/4cAwTMcwIYn36iVG2Uz2oz) | 2:00 | 2022-07-29 | 2022-08-27 |
 | [Glory](https://open.spotify.com/track/77fRc8iT858bzRdcR4k8T8) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Valentine](https://open.spotify.com/album/0zNWhYDalgisc4uweLIGZJ) | 2:20 | 2021-12-31 | 2022-01-15 |
 | [Go Easy, Kid \(with James Blake\)](https://open.spotify.com/track/0y8MdWQBAXTTm8BFdqjfrD) | [Monica Martin](https://open.spotify.com/artist/2Oq3sgFa2HSvRY0vL6bDxN), [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Go Easy, Kid \(with James Blake\)](https://open.spotify.com/album/5WqCAcv7n9dfevwkEEfMph) | 4:27 | 2022-02-25 | 2022-04-09 |
+| [Gold Rush](https://open.spotify.com/track/48iDkwmfHzeX5IXFQujb7x) | [Stella Explorer](https://open.spotify.com/artist/4dPeWqBSnhunEI2okArvwD) | [Gold Rush](https://open.spotify.com/album/0s0xUyVkHmZy5GeHlwEvK0) | 4:44 | 2022-09-19 |  |
 | [Gone](https://open.spotify.com/track/4sgchJtqhlDKHXI5qfC15k) | [The Haunted Youth](https://open.spotify.com/artist/2BJzRLleDH2jTAArbI4Xod) | [Gone](https://open.spotify.com/album/60PbOGMe2c5w7ST3UpH3bU) | 6:58 | 2021-12-31 | 2022-02-05 |
 | [Good Kinda High \(feat\. U.S\. Girls\)](https://open.spotify.com/track/1yITtkfWioB4wVYfIzlhDJ) | [Glenn Gould](https://open.spotify.com/artist/3icthvgCtFQ9WHZHO5VWj1), [U.S\. Girls](https://open.spotify.com/artist/3AHFDfqhSqPBecjQDIOIJA) | [Uninvited Guests \- Deluxe](https://open.spotify.com/album/659Zidfi4wFlIwI4kR2l10) | 2:48 | 2021-12-31 | 2022-01-22 |
 | [Good Time](https://open.spotify.com/track/3a7RkHS2uDovVFLHepHRRl) | [Young Guv](https://open.spotify.com/artist/1zEgVwAUxnTP5DDnmZbJnw) | [Good Time](https://open.spotify.com/album/2ZHmA5YprnZSfqQRZOA7ZL) | 3:07 | 2022-02-04 | 2022-03-12 |
@@ -399,7 +400,7 @@
 | [moving song](https://open.spotify.com/track/1PZl6YAnHPyR2wcloffA7R) | [Ivytide](https://open.spotify.com/artist/1FYG11siqeY73Lu2hrFMYp) | [moving song](https://open.spotify.com/album/5wIrtoTzqzi4gx8zyXkZWh) | 2:45 | 2022-07-15 | 2022-09-10 |
 | [Must Come Spring](https://open.spotify.com/track/4YoKbuzIaCFg0Cg4qwcYDs) | [Mind Bath](https://open.spotify.com/artist/6FdP93iZOV7BclbYDSlGOC) | [Must Come Spring](https://open.spotify.com/album/3xZZPmu11MKdXdHzAuv5g3) | 3:54 | 2021-12-31 | 2022-01-22 |
 | [MY DREAM](https://open.spotify.com/track/3Ai9IjVhRy5eMWFQ3luIG6) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [MY DREAM](https://open.spotify.com/album/2wrsym38hvB4Wp9BYkCQxS) | 3:35 | 2022-08-05 | 2022-09-03 |
-| [My Limitations](https://open.spotify.com/track/3jbBgWsDIvqYeF1Du6z6EE) | [The Zolas](https://open.spotify.com/artist/0BVWMc7JEHdh2Ku6xgKuYL) | [My Limitations](https://open.spotify.com/album/55P9us6DOduyACzkWhjMJk) | 3:01 | 2022-08-05 |  |
+| [My Limitations](https://open.spotify.com/track/3jbBgWsDIvqYeF1Du6z6EE) | [The Zolas](https://open.spotify.com/artist/0BVWMc7JEHdh2Ku6xgKuYL) | [My Limitations](https://open.spotify.com/album/55P9us6DOduyACzkWhjMJk) | 3:01 | 2022-08-05 | 2022-09-20 |
 | [Naoko](https://open.spotify.com/track/66pta58sZB4aTd1uiP3CrF) | [JORDANN](https://open.spotify.com/artist/1qlafOeHOtRUZR4AOxlOkF), [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Naoko](https://open.spotify.com/album/7MZeUpZOcGNI03TZdShTgp) | 2:46 | 2021-12-31 | 2022-01-15 |
 | [Neon \(& That's Why\)](https://open.spotify.com/track/16efSM32jTSZ0l8UU9ZlT0) | [Altameda](https://open.spotify.com/artist/01KXhlX2PCz5Uiw7d5eryb) | [Neon \(& That's Why\)](https://open.spotify.com/album/3j54YuvGlflzsxuUL46QN6) | 3:53 | 2022-03-18 | 2022-04-16 |
 | [Neon \(& That's Why\)](https://open.spotify.com/track/5ge9nXOfk4DlUOxExhr4kd) | [Altameda](https://open.spotify.com/artist/01KXhlX2PCz5Uiw7d5eryb) | [Born Losers](https://open.spotify.com/album/64IJHfT3gyFmGcNpjrrV8p) | 3:53 | 2022-04-15 | 2022-06-18 |

@@ -4,7 +4,7 @@
 
 > Instrumental Jazz to set the mood for a relaxed evening.
 
-188 songs - 17 hr 46 min - [published](https://open.spotify.com/playlist/7yuffmCwXVQZElB2HgVYTG)
+189 songs - 17 hr 53 min - [published](https://open.spotify.com/playlist/7yuffmCwXVQZElB2HgVYTG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,8 @@
 | [Hello](https://open.spotify.com/track/3QD2pXczFr1qGEhXik03lQ) | [Vincent Herring](https://open.spotify.com/artist/4vDfWi1S8RneRAgCPOIThL) | [Hello](https://open.spotify.com/album/33rIozmB2h2fgKErvau15a) | 5:56 | 2022-02-18 | 2022-06-01 |
 | [Here's That Rainy Day](https://open.spotify.com/track/2C1LmPGwkeVbV14Gn49ka8) | [Steven Feifke](https://open.spotify.com/artist/5YSPlTYVnXaRSQKCE9wH7S) | [The Role of the Rhythm Section](https://open.spotify.com/album/44yX1YQnWpelj8c2yNOamH) | 5:46 | 2022-04-14 |  |
 | [Hesitation](https://open.spotify.com/track/79DycP44xL69ZNfkH3Kqnd) | [Joey Alexander](https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII) | [Origin](https://open.spotify.com/album/47Y5cRWVXLK2nM3pkOpVxE) | 2:20 | 2022-09-16 |  |
-| [Hidden Island](https://open.spotify.com/track/3TVMWkV66yEVvBOq1K4O6v) | [Morten Schantz](https://open.spotify.com/artist/0areODweNzGZZvnKlQjQw6), [Morten Ankarfeldt](https://open.spotify.com/artist/71zyq1fTht9Jg6Vc3GMMUU), [Janus Templeton](https://open.spotify.com/artist/7k1xy8z0qkIlVuHctNPGlm) | [Apia](https://open.spotify.com/album/6ZwOTNfEwZZkye2WbMiW4b) | 6:55 | 2022-09-13 |  |
+| [Hidden Island](https://open.spotify.com/track/0c0umZtRE9kIrrBMNllIcZ) | [Morten Schantz](https://open.spotify.com/artist/0areODweNzGZZvnKlQjQw6), [Morten Ankarfeldt](https://open.spotify.com/artist/71zyq1fTht9Jg6Vc3GMMUU), [Janus Templeton](https://open.spotify.com/artist/7k1xy8z0qkIlVuHctNPGlm) | [Passenger](https://open.spotify.com/album/6scMvwpK5ncTSk7Ab8H1Qe) | 6:55 | 2022-09-16 |  |
+| [Hidden Island](https://open.spotify.com/track/3TVMWkV66yEVvBOq1K4O6v) | [Morten Schantz](https://open.spotify.com/artist/0areODweNzGZZvnKlQjQw6), [Morten Ankarfeldt](https://open.spotify.com/artist/71zyq1fTht9Jg6Vc3GMMUU), [Janus Templeton](https://open.spotify.com/artist/7k1xy8z0qkIlVuHctNPGlm) | [Apia](https://open.spotify.com/album/6ZwOTNfEwZZkye2WbMiW4b) | 6:55 | 2022-09-13 | 2022-09-20 |
 | [Hidden Island](https://open.spotify.com/track/600RTP3vo0uKAtYu8sutbY) | [Morten Schantz](https://open.spotify.com/artist/0areODweNzGZZvnKlQjQw6), [Morten Ankarfeldt](https://open.spotify.com/artist/71zyq1fTht9Jg6Vc3GMMUU), [Janus Templeton](https://open.spotify.com/artist/7k1xy8z0qkIlVuHctNPGlm) | [Hidden Island](https://open.spotify.com/album/1EnVCdjr7wRPXUjDWqT2G6) | 6:55 | 2022-04-14 | 2022-08-28 |
 | [Hindsight](https://open.spotify.com/track/36Vwqyg0LO1q0aRfAuZkFU) | [Phil Woods](https://open.spotify.com/artist/6G4hVmXKJ9NW5JecncK89f), [Space Jazz Trio](https://open.spotify.com/artist/2sLufQ8lc6cZL6YIO1oD65) | [Phil's Mood](https://open.spotify.com/album/4syA9XxPp63SXbiygEsh43) | 6:31 | 2020-03-31 |  |
 | [Honest Waltz](https://open.spotify.com/track/6XV1s4qGZM3BoPnatmOxzV) | [Eve](https://open.spotify.com/artist/4cN4lpxFzicMaQn2Qb9bBJ), [Michael Blicher](https://open.spotify.com/artist/63pT7P8TZCJmvsEbCbE0sZ) | [Honest Waltz](https://open.spotify.com/album/0Dc8OxbbSCNlfTdvCRzA8L) | 5:25 | 2022-04-21 | 2022-09-04 |

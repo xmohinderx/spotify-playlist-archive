@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127243,
+  "num_followers": 127231,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "MzYzMSxmN2ZkYTJlMTQ5ZTYxM2YyMmY2MjFkMDdiYzU2M2Q0MjNiOWM1NDI5",
+  "snapshot_id": "MzYzMyw1Nzk2M2Y3OTUxZjEyYjdmZTM3OGE0NDBkOTQyMGI5NDAwZDU0Nzg1",
   "tracks": [
+    {
+      "added_at": "2022-09-19 16:22:28",
+      "album": {
+        "name": "Reason",
+        "url": "https://open.spotify.com/album/1j6JOatRilhTi6yfM7ZEnQ"
+      },
+      "artists": [
+        {
+          "name": "Danny Leax",
+          "url": "https://open.spotify.com/artist/7LhadozhnDqlnrs6thTnIu"
+        },
+        {
+          "name": "Reeva",
+          "url": "https://open.spotify.com/artist/6O0oqZZ8xqHnFmzdjhZg6r"
+        }
+      ],
+      "duration_ms": 164008,
+      "name": "Reason",
+      "url": "https://open.spotify.com/track/62BS0SmeL2LGgpiTTcFYQ0"
+    },
     {
       "added_at": "2022-09-16 16:45:32",
       "album": {
@@ -1087,22 +1107,6 @@
       "duration_ms": 178285,
       "name": "Drive You Crazy",
       "url": "https://open.spotify.com/track/5XY6DN8SXjHtj55e7CkZpH"
-    },
-    {
-      "added_at": "2022-07-08 16:48:50",
-      "album": {
-        "name": "Parhelion",
-        "url": "https://open.spotify.com/album/59CxJMzonDgoGlmDPVneGj"
-      },
-      "artists": [
-        {
-          "name": "Stendahl",
-          "url": "https://open.spotify.com/artist/7hLrjiuNxZIf9JSPz2CbAo"
-        }
-      ],
-      "duration_ms": 214500,
-      "name": "Parhelion",
-      "url": "https://open.spotify.com/track/15wsMaJCE6nZQgpivhk46A"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

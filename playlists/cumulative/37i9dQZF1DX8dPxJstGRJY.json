@@ -8,6 +8,28 @@
   "tracks": [
     {
       "album": {
+        "name": "A Man Without Love",
+        "url": "https://open.spotify.com/album/6VidERJoBxZm4sPQFkPQvX"
+      },
+      "artists": [
+        {
+          "name": "Michael Ball",
+          "url": "https://open.spotify.com/artist/2MISUlPFrBMRlIcazbEOUI"
+        },
+        {
+          "name": "Alfie Boe",
+          "url": "https://open.spotify.com/artist/3g5gwhWAPLq8MyUcUIsA8j"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211666,
+      "name": "A Man Without Love",
+      "url": "https://open.spotify.com/track/4SlFhuKLrdMxyjP2XXHfuQ"
+    },
+    {
+      "album": {
         "name": "Love Like This",
         "url": "https://open.spotify.com/album/5qCkKRgXcY4O67RsxdoYbc"
       },

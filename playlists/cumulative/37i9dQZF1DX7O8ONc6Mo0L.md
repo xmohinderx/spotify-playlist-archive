@@ -4,11 +4,12 @@
 
 > Relaxe com hinos acústicos\. Foto: Gabriel Guedes de Almeida
 
-80 songs - 6 hr 10 min - [published](https://open.spotify.com/playlist/2qVFdBscejCMla6A7JhqfJ)
+81 songs - 6 hr 14 min - [published](https://open.spotify.com/playlist/2qVFdBscejCMla6A7JhqfJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Casa É Sua \- Acoustic Session](https://open.spotify.com/track/2KF9qAiNUBdCAkFb1tiyk5) | [Casa Worship](https://open.spotify.com/artist/4bqKmu3kRUl6X7pTl1CuVs) | [Acoustic Session, Vol\. 01](https://open.spotify.com/album/3CbHY7zcK9lxuEDtYtU4ig) | 5:42 | 2022-09-02 |  |
+| [A Dois](https://open.spotify.com/track/6Y6BkX0NThqimi5UxWLeG9) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD) | [A Dois](https://open.spotify.com/album/0cEbSXoFpciH0qSdL4SU1T) | 3:56 | 2022-09-19 |  |
 | [A Mesa](https://open.spotify.com/track/6YfTtc4MhkQwMjbQ41MeFE) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [A Mesa](https://open.spotify.com/album/2jWE50PLaYhH32FCIPSZvV) | 5:06 | 2022-09-02 |  |
 | [A Reforma](https://open.spotify.com/track/2SoMuOk34QwKEfn3RsA60R) | [Jessé Aguiar](https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC) | [A Reforma](https://open.spotify.com/album/4KBIEVDd3ir9rPT0R7NpZJ) | 5:20 | 2022-09-02 |  |
 | [Aba \- Acústico](https://open.spotify.com/track/2tKatbCNaw5fmdCUcX0ehw) | [Kemuel](https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm) | [Filhos Acústico](https://open.spotify.com/album/2rmRfedhDgarSjsUvod3QA) | 4:08 | 2022-09-02 |  |
@@ -70,7 +71,7 @@
 | [Paz da Minha Alma](https://open.spotify.com/track/4vsYsMvuNNl8CRhxVqz9z7) | [Jessé Aguiar](https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC) | [Paz da Minha Alma](https://open.spotify.com/album/73dZVCXiDBA0fLQCOdxM4l) | 4:38 | 2022-09-02 |  |
 | [Pra Sempre \- Acústico](https://open.spotify.com/track/3uLESUUCo5sq0c03Q0WxFr) | [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY), [Paula Santos](https://open.spotify.com/artist/35DMyN0d5YWOdfJLyLZcSi) | [Acústico](https://open.spotify.com/album/5WSufwHXuerKqxUiLZQ5To) | 5:31 | 2022-09-02 |  |
 | [Preciso de Ti](https://open.spotify.com/track/2pt4Nhq39eZgDMZspMAIPm) | [Marcos Almeida](https://open.spotify.com/artist/5PmlW3MANz3vrh2hrDnbhR) | [Preciso de Ti](https://open.spotify.com/album/34KTvYx7zsEo7boa55RrIc) | 3:40 | 2022-09-02 |  |
-| [Primeiro Amor \- Acústico](https://open.spotify.com/track/7Ez77DgeaCrCgtbsTidmYg) | [Lincoln Baena](https://open.spotify.com/artist/5Y9gRv6jhlSzK4IVpSHp57), [Adelso Freire](https://open.spotify.com/artist/1ppkWLi1n5n1lIbp1I95i5) | [Primeiro Amor \(Acústico\)](https://open.spotify.com/album/5936MSabTVIlGYX5nVkoID) | 4:06 | 2022-09-02 |  |
+| [Primeiro Amor \- Acústico](https://open.spotify.com/track/7Ez77DgeaCrCgtbsTidmYg) | [Lincoln Baena](https://open.spotify.com/artist/5Y9gRv6jhlSzK4IVpSHp57), [Adelso Freire](https://open.spotify.com/artist/1ppkWLi1n5n1lIbp1I95i5) | [Primeiro Amor \(Acústico\)](https://open.spotify.com/album/5936MSabTVIlGYX5nVkoID) | 4:06 | 2022-09-02 | 2022-09-20 |
 | [Prossiga](https://open.spotify.com/track/3BXyIobmrRSKBluqalspMi) | [Nani Azevedo](https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF) | [Prossiga](https://open.spotify.com/album/4fY5eKN9tjRUnQTGO1zTs1) | 5:07 | 2022-09-02 |  |
 | [Quem Sou](https://open.spotify.com/track/3R8AdlPHOXTNpnzUoUqcpK) | [PEDRAZUL](https://open.spotify.com/artist/5A2Slemy1IuX9KdV8xjCfA) | [Quem Sou](https://open.spotify.com/album/3K30LIMDmshPzNLSOqMOPj) | 4:30 | 2022-09-02 |  |
 | [Recomeçar](https://open.spotify.com/track/38xsb628AajcMiMOXr3MR6) | [Diego Karter](https://open.spotify.com/artist/7y1jUw8GzgpQzqmmn0einF) | [Recomeçar](https://open.spotify.com/album/6RCZVCNWPM87w17ZNP4Tcv) | 3:50 | 2022-09-02 |  |

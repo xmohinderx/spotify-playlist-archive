@@ -6090,6 +6090,32 @@
     },
     {
       "album": {
+        "name": "HiROQUEST: Genesis",
+        "url": "https://open.spotify.com/album/0lF8VwXlAyOMFt1XQvCa5l"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "KAAZE",
+          "url": "https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR"
+        },
+        {
+          "name": "John Martin",
+          "url": "https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210240,
+      "name": "Whole Again (feat. John Martin)",
+      "url": "https://open.spotify.com/track/3tKv3xadBsTKytIJNhnuNb"
+    },
+    {
+      "album": {
         "name": "Whole Again (feat. John Martin)",
         "url": "https://open.spotify.com/album/5IcKR43R4u5Mz69sudJ4YD"
       },
@@ -6109,7 +6135,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-20",
       "duration_ms": 210240,
       "name": "Whole Again (feat. John Martin)",
       "url": "https://open.spotify.com/track/5oOwmECfqsMOaxprNaDxHK"

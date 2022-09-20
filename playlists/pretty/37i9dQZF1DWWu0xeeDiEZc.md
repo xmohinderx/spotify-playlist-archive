@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWu0xeeDiEZc.md) - [plain]
 
 > Get your kids singing along with this fun playlist! They're sure to know these kid\-friendly classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,737 likes - 45 songs - 1 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,864 likes - 45 songs - 1 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWu0xeeDiEZc.md) - [plain]
 | 20 | [The Hokey Pokey](https://open.spotify.com/track/4aiELSmheCgsRIxvuOckBU) | [Mother Goose Club](https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86) | [Mother Goose Club Sings Nursery Rhymes, Vol\. 6: Fun Baby Songs](https://open.spotify.com/album/5Z4p6QUeFGMH3DiUdfVRFP) | 2:24 |
 | 21 | [Itsy Bitsy Spider](https://open.spotify.com/track/6cKlr2BOXBaqiuaHUY5Zwo) | [Cocomelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [CoComelon Kids Hits, Vol\. 1](https://open.spotify.com/album/1wSJIPGezZDocP5T4DKUSs) | 2:09 |
 | 22 | [This Old Man](https://open.spotify.com/track/0mXkCgqq5Vv86c4lW8Ec1H) | [Mother Goose Club](https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86) | [Mother Goose Club Sings Nursery Rhymes Vol\. 5: Rhyme Around the Rosy](https://open.spotify.com/album/0sF3OFdtFfxv1RYyaYk0aL) | 2:15 |
-| 23 | [A Whole New World](https://open.spotify.com/track/1hwdPQtFHISvZ9SXMkNrIK) | [Lea Salonga](https://open.spotify.com/artist/1GlMjIezcLwV3OFlX0uXOv), [Brad Kane](https://open.spotify.com/artist/3dAzSJ9lQnJSq5Z0OgDBep), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Aladdin Special Edition](https://open.spotify.com/album/7bt2aty3lUo6Q1Ud8pthRz) | 2:40 |
+| 23 | [A Whole New World \- Remastered 2022](https://open.spotify.com/track/0k7Shopj669EbywEjsqoqm) | [Brad Kane](https://open.spotify.com/artist/3dAzSJ9lQnJSq5Z0OgDBep), [Lea Salonga](https://open.spotify.com/artist/1GlMjIezcLwV3OFlX0uXOv), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Walt Disney Records The Legacy Collection: Aladdin](https://open.spotify.com/album/2k9FuG5GyW61y2a0j4R3vP) | 2:40 |
 | 24 | [The More We Get Together](https://open.spotify.com/track/0AVLdFhZInmvfFt4ilSY91) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [Happy, Happy, Happy!](https://open.spotify.com/album/1OB7Vix9Iv9RwB25cHbXTE) | 1:44 |
 | 25 | [Five Little Monkeys](https://open.spotify.com/track/475LPQIUiT6SqfwuqWYtU2) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [Twinkle Twinkle Little Star & More Kids Songs](https://open.spotify.com/album/2T9jkpdjKDjzoOqPfaCAMu) | 2:08 |
 | 26 | [If You're Happy and You Know It](https://open.spotify.com/track/4jbFdoR43axNgUz4SE3Vnd) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [The Wiggles Nursery Rhymes](https://open.spotify.com/album/2Rw0nDYlmZctMw6dOhKCT6) | 1:32 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWu0xeeDiEZc.md) - [plain]
 | 44 | [Wheels on the Bus \(All Through the Town\)](https://open.spotify.com/track/7LydPBAO6s0froW5cOZdfa) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [World Nursery Rhyme Week with Little Baby Bum](https://open.spotify.com/album/3kQQC6EpBgZ8sSdMBKk0TW) | 2:10 |
 | 45 | [Kiss the Girl](https://open.spotify.com/track/4HGIPyqDxSf863tPOwXiLJ) | [Samuel E\. Wright](https://open.spotify.com/artist/6Id8rcDNyBXPcgKQVfQ8rX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [The Little Mermaid Special Edition](https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6) | 2:43 |
 
-Snapshot ID: `MTY1ODc1NTkwMywwMDAwMDAwMDQ4ZmM1ZGM0ZDZlMDFkMWU5MWI5ODJmZDBlOTc3ZTU5`
+Snapshot ID: `MTY1ODc1NTkwMywwMDAwMDAwMGY3NzI5ODQ3YWZkYWEyMDRiZTZlOTRkNjU5NzY5OWM2`

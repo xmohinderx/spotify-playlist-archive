@@ -1459,7 +1459,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-20",
       "duration_ms": 315680,
       "name": "El Verde De Tus Ojos - Remix",
       "url": "https://open.spotify.com/track/1Nl4EXAxSulKlbiro793i4"
@@ -2683,7 +2683,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 467185,
       "name": "Megamix",
       "url": "https://open.spotify.com/track/4IaTGBLqlOee3S98dm4Zxx"
@@ -4070,6 +4070,24 @@
     },
     {
       "album": {
+        "name": "De Amor y Vacil\u00f3n",
+        "url": "https://open.spotify.com/album/3zq884kL6akUG3fcsIdyWV"
+      },
+      "artists": [
+        {
+          "name": "La Combo Tortuga",
+          "url": "https://open.spotify.com/artist/1wyjMJTy6WbOvYBSDL9fMR"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187506,
+      "name": "Soy Feo Pero Rico",
+      "url": "https://open.spotify.com/track/1m7CrLaLdBBVIHIdCOwzYT"
+    },
+    {
+      "album": {
         "name": "De Amor y Vacilon",
         "url": "https://open.spotify.com/album/50J2KHOceXgEP1dRdoObzd"
       },
@@ -4171,7 +4189,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-20",
       "duration_ms": 155878,
       "name": "S\u00f3lo con un Beso",
       "url": "https://open.spotify.com/track/5ucrujpVC5pPdxNR42guhh"

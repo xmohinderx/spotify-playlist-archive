@@ -2916,6 +2916,28 @@
     },
     {
       "album": {
+        "name": "Stupid Hours",
+        "url": "https://open.spotify.com/album/2SAYtYY5yjQD9bi6Nq4Vne"
+      },
+      "artists": [
+        {
+          "name": "Jesse Gold",
+          "url": "https://open.spotify.com/artist/0ScLk4lNexNrtkDmGQicRx"
+        },
+        {
+          "name": "Stefani Kimber",
+          "url": "https://open.spotify.com/artist/4ePVAZ2pFMlU0aFbPc3qgF"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178635,
+      "name": "One In A Million",
+      "url": "https://open.spotify.com/track/6m6Xew8uyUBkVqQ0EbJNSN"
+    },
+    {
+      "album": {
         "name": "One More",
         "url": "https://open.spotify.com/album/2dj0bLZmleAnuRNRzH7a04"
       },
@@ -4725,7 +4747,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-20",
       "duration_ms": 186173,
       "name": "You Right",
       "url": "https://open.spotify.com/track/7Me3GKpQyEsHwS9xnOrUgM"

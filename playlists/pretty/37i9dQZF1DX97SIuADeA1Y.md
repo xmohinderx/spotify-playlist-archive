@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97SIuADeA1Y.md) - [plain]
 
 > When the bassline slaps.
 
-[Spotify](https://open.spotify.com/user/spotify) - 269,820 likes - 60 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 269,846 likes - 60 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97SIuADeA1Y.md) - [plain]
 | 53 | [She Wolf \(Falling to Pieces\)](https://open.spotify.com/track/0hr1uftboYFqgJadb7ecML) | [YES YES](https://open.spotify.com/artist/3jcjf0rNrcWYAdeiz96Yus) | [She Wolf \(Falling to Pieces\)](https://open.spotify.com/album/7A37H04INETElZeLJioWDD) | 2:51 |
 | 54 | [Wenn du mich siehst \- RIBELLU Remix](https://open.spotify.com/track/75HcbS3oSzIR5HMD95sDRI) | [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L), [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF), [RIBELLU](https://open.spotify.com/artist/2cV70GHs4YKfI5OHSy1mJt) | [Wenn du mich siehst \(RIBELLU Remix\)](https://open.spotify.com/album/1Hc0aChcGLmdnkSJSz6sdQ) | 2:18 |
 | 55 | [I'll Be Gone](https://open.spotify.com/track/1xo6bTCYJyviJPZ3TQN76Z) | [Mike Gudmann](https://open.spotify.com/artist/5tF4j2R7iNOIFdmpmEsn3s), [Zombic](https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV) | [I'll Be Gone](https://open.spotify.com/album/4YsyvipGYyveQu8xvmE5O9) | 2:41 |
-| 56 | [Like You Mean It](https://open.spotify.com/track/76QVxIrCN9n49o1QWE9Be2) | [Gaullin](https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K), [Katy Tiz](https://open.spotify.com/artist/2E19mfEFhCr6UgZUYJGOEW) | [Like You Mean It](https://open.spotify.com/album/1qTxHDgm9jc8t0Du3Mmi1K) | 2:18 |
-| 57 | [Secrets](https://open.spotify.com/track/5xjXfai7bW503D99N7ofqb) | [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [SØLO](https://open.spotify.com/artist/0LegaEKnTucYuEeaanHub7) | [Secrets](https://open.spotify.com/album/2RXRJ75O6KCXHWgIaM2kov) | 2:38 |
+| 56 | [Secrets](https://open.spotify.com/track/5xjXfai7bW503D99N7ofqb) | [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [SØLO](https://open.spotify.com/artist/0LegaEKnTucYuEeaanHub7) | [Secrets](https://open.spotify.com/album/2RXRJ75O6KCXHWgIaM2kov) | 2:38 |
+| 57 | [Like You Mean It](https://open.spotify.com/track/76QVxIrCN9n49o1QWE9Be2) | [Gaullin](https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K), [Katy Tiz](https://open.spotify.com/artist/2E19mfEFhCr6UgZUYJGOEW) | [Like You Mean It](https://open.spotify.com/album/1qTxHDgm9jc8t0Du3Mmi1K) | 2:18 |
 | 58 | [Superpowers \- Dimitri Vegas Edit](https://open.spotify.com/track/1eWsKIHgYzYCMRwSwnNVE9) | [Ilkay Sencan](https://open.spotify.com/artist/5deLgmgAEgy8UHOfJ9Dj8w), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Yoelle](https://open.spotify.com/artist/12dRVeXA0qQ3jiHQYFHKI6), [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO) | [Superpowers \(Dimitri Vegas Edit\)](https://open.spotify.com/album/54HQWyhWLuDZ9rtNvgf1Cl) | 2:47 |
 | 59 | [Wishing Well](https://open.spotify.com/track/7CSxGi1PHj8ypY4KnFqTSc) | [Klaas](https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif) | [Wishing Well](https://open.spotify.com/album/6b5C6CPcnegIA3E2vvAseH) | 2:22 |
 | 60 | [Don't Leave Me](https://open.spotify.com/track/5I3kFklNvIQX6ovbvahZGy) | [Braaheim](https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg) | [Don't Leave Me](https://open.spotify.com/album/7hQrFSEgQCmOBYd4s07HZL) | 2:46 |
 
-Snapshot ID: `MTY2MTUxMzQ4NiwwMDAwMDAwMDdiZTgwYTYyZWM4MDllNDk4Mjc5YzE0NjhhZGQ2MTM4`
+Snapshot ID: `MTY2MTUxMzQ4NiwwMDAwMDAwMGQ2NWU2ZDZmYTI3N2FiY2JlNTZjNmViMDIyNGI4MDNm`

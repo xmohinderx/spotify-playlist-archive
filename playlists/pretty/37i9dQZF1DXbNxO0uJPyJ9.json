@@ -1,12 +1,12 @@
 {
   "description": "Classic 12\" singles to take you back to the the vinyl era.",
-  "num_followers": 580981,
+  "num_followers": 581120,
   "original_name": "12\" Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDg2MjY5NCwwMDAwMDAwMDM4NGViYjMxNTg2NzUxNDk5ODc1ODVhZjJiNGQwNTI3",
+  "snapshot_id": "MTY1NDg2MjY5NCwwMDAwMDAwMDc4OTkwOGVmMzU0YjEwMmUwMDlmMjJmOTFlOGUwY2E1",
   "tracks": [
     {
       "added_at": "2022-06-10 12:04:54",
@@ -943,22 +943,6 @@
     {
       "added_at": "2022-06-10 12:04:54",
       "album": {
-        "name": "Fran\u00e7ois",
-        "url": "https://open.spotify.com/album/17EANLCoErHdo9FpzMx25q"
-      },
-      "artists": [
-        {
-          "name": "Desireless",
-          "url": "https://open.spotify.com/artist/1yjAx9cww4f1QuAaN3dUI2"
-        }
-      ],
-      "duration_ms": 403586,
-      "name": "Voyage voyage - Maxi",
-      "url": "https://open.spotify.com/track/1i8isuRSQWFX9qKnaI5hrt"
-    },
-    {
-      "added_at": "2022-06-10 12:04:54",
-      "album": {
         "name": "Body Talk",
         "url": "https://open.spotify.com/album/10Y664SOGkLTvzcP2xrET6"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 275733,
       "name": "Flashback",
       "url": "https://open.spotify.com/track/1EOlxJCq3fXCIvqWJm1xrO"
+    },
+    {
+      "added_at": "2022-06-10 12:04:54",
+      "album": {
+        "name": "Fran\u00e7ois",
+        "url": "https://open.spotify.com/album/17EANLCoErHdo9FpzMx25q"
+      },
+      "artists": [
+        {
+          "name": "Desireless",
+          "url": "https://open.spotify.com/artist/1yjAx9cww4f1QuAaN3dUI2"
+        }
+      ],
+      "duration_ms": 403586,
+      "name": "Voyage voyage - Maxi",
+      "url": "https://open.spotify.com/track/1i8isuRSQWFX9qKnaI5hrt"
     },
     {
       "added_at": "2022-06-10 12:04:54",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2022-06-10 12:04:54",
       "album": {
-        "name": "So80s Presents Sandra - Curated By Blank & Jones",
-        "url": "https://open.spotify.com/album/3AZeLA6zVLTEfUCVG7fdFP"
-      },
-      "artists": [
-        {
-          "name": "Sandra",
-          "url": "https://open.spotify.com/artist/646StQO8yxIiI3niu1OHnG"
-        }
-      ],
-      "duration_ms": 431746,
-      "name": "Maria Magdalena - Extended Version",
-      "url": "https://open.spotify.com/track/5FZfFEb6seV2NzTF7SVChR"
-    },
-    {
-      "added_at": "2022-06-10 12:04:54",
-      "album": {
         "name": "Never Ending Story",
         "url": "https://open.spotify.com/album/2IMheU2zkSgqXk01d1GRrD"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 320946,
       "name": "Never Ending Story",
       "url": "https://open.spotify.com/track/2M6q8SznCTMo9XmppUmSJE"
+    },
+    {
+      "added_at": "2022-06-10 12:04:54",
+      "album": {
+        "name": "So80s Presents Sandra - Curated By Blank & Jones",
+        "url": "https://open.spotify.com/album/3AZeLA6zVLTEfUCVG7fdFP"
+      },
+      "artists": [
+        {
+          "name": "Sandra",
+          "url": "https://open.spotify.com/artist/646StQO8yxIiI3niu1OHnG"
+        }
+      ],
+      "duration_ms": 431746,
+      "name": "Maria Magdalena - Extended Version",
+      "url": "https://open.spotify.com/track/5FZfFEb6seV2NzTF7SVChR"
     },
     {
       "added_at": "2022-06-10 12:04:54",

@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:6wMr4zKPrrR0UVz08WtUWc">Black Coffee</a>'s favorite tracks\. Updated regularly\. Curated by Black Coffee\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-80 songs - 8 hr 29 min - [published](https://open.spotify.com/playlist/5WZUrSohLNzhcvgYmsX579)
+81 songs - 8 hr 37 min - [published](https://open.spotify.com/playlist/5WZUrSohLNzhcvgYmsX579)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Sun of God](https://open.spotify.com/track/1WvtUMTgyeGl1xPYK3NqJH) | [104 BPM](https://open.spotify.com/artist/2EK50Q6gOwRcZgfvlv3tVi) | [Sun of God EP](https://open.spotify.com/album/2e6I0Qicgi7RvEyZgmDzIw) | 7:10 | 2022-09-13 |  |
 | [Texts Go Green](https://open.spotify.com/track/4FIgHqXd4KkOwxrGeLDYM2) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 5:08 | 2022-09-13 |  |
 | [The Balance](https://open.spotify.com/track/0ltqfzMQMK0eVmzPpl6pmt) | [Hyenah](https://open.spotify.com/artist/1YUlJfwsUoerJd3mCK6Ccu), [Pablo Fierro](https://open.spotify.com/artist/5N7gp2n04e1TJ6MaKyvrbI), [Lazarusman](https://open.spotify.com/artist/4Sh3sUk5Pq69gqPHT89aCc) | [Love In Times Of Crisis](https://open.spotify.com/album/4NzOawtG9l1FIVb2RfzKou) | 4:05 | 2022-09-13 |  |
+| [The Journey](https://open.spotify.com/track/7lxrItxcdeNxjmyX1oOxck) | [Foozak](https://open.spotify.com/artist/6bVBQCuQEyT0vgyycuRA4I), [Saint Evo](https://open.spotify.com/artist/08dNTAMCiCM61JnSslHFCE) | [The Journey](https://open.spotify.com/album/4C9C2oc0yqtJu9ofTcJm7Z) | 7:09 | 2022-09-19 |  |
 | [There's Music in the Air](https://open.spotify.com/track/2Eg5ArHjWEzUMnjishGZQK) | [Ami Faku](https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE), [Gallo Remixed](https://open.spotify.com/artist/3Pikdk5QNs7tCeudmFAyM8), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [There's Music in the Air](https://open.spotify.com/album/3y0xLQNdKdxlrKzVmmvbYS) | 3:54 | 2022-09-13 |  |
 | [Time \(feat\. Cassie\)](https://open.spotify.com/track/5WHoJSG9bkSJfVlyf3PrqO) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Cassie](https://open.spotify.com/artist/27FGXRNruFoOdf1vP8dqcH) | [Subconsciously](https://open.spotify.com/album/5zIPpR6ufwhSM0RV1wcrhw) | 4:52 | 2022-09-13 |  |
 | [Tolo \- FNX Omar Remix](https://open.spotify.com/track/7jlACTUszk1RZEmLOYVvVc) | [Jalal Ramdani](https://open.spotify.com/artist/1Q0KlPMSuhBFnCZX01iFyu), [Miishu](https://open.spotify.com/artist/4v2RSTDKxzZ928MWSYCOVf), [Ahmed Sosso](https://open.spotify.com/artist/09jtkgopdNOFuQKcOPPdeP), [FNX OMAR](https://open.spotify.com/artist/3dcqf190oFqc5FQNI05mVW) | [Tolo](https://open.spotify.com/album/732vlGVmJhgDRwLjWce1qv) | 6:37 | 2022-09-13 |  |

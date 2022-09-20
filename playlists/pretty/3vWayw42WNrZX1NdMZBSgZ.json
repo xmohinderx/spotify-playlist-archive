@@ -1,13 +1,29 @@
 {
-  "description": "The perfect mix of the biggest <a href=\"https://www.instagram.com/sonymusiclatin/\">Sony Music Latin</a> hits! Follow this playlist for hot new updates. Cover: Becky G, Daviles de Novelda",
-  "num_followers": 56796,
+  "description": "The perfect mix of the biggest <a href=\"https://www.instagram.com/sonymusiclatin/\">Sony Music Latin</a> hits! Follow this playlist for hot new updates. Cover: Pedro Cap\u00f3",
+  "num_followers": 56792,
   "original_name": "Top Latin Hits",
   "owner": {
     "name": "Filtr Latino",
     "url": "https://open.spotify.com/user/toplatino"
   },
-  "snapshot_id": "MzQ0NywxZjNkY2ZjNmI4NjkyMjVmMjcxNWJkOGUxZTM3MjVkNDUyZDMxOTY2",
+  "snapshot_id": "MzQ0OSwwNGNmOTAzMWY0ZTQzNzA3YzY5MGUxMjAyODQ4MjYzYjMyNWRmMWUy",
   "tracks": [
+    {
+      "added_at": "2022-09-15 23:03:21",
+      "album": {
+        "name": "Volver a Casa",
+        "url": "https://open.spotify.com/album/2xMEHlXjvlU6SoCogDKK5E"
+      },
+      "artists": [
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 173310,
+      "name": "Volver a Casa",
+      "url": "https://open.spotify.com/track/3NMJtDQ4TeOSC8vYNq8kP4"
+    },
     {
       "added_at": "2022-09-16 04:27:02",
       "album": {
@@ -43,22 +59,6 @@
       "duration_ms": 154628,
       "name": "La Copa",
       "url": "https://open.spotify.com/track/2gdBsRfuWGwJwe3X5XwZuI"
-    },
-    {
-      "added_at": "2022-09-15 23:03:21",
-      "album": {
-        "name": "Volver a Casa",
-        "url": "https://open.spotify.com/album/2xMEHlXjvlU6SoCogDKK5E"
-      },
-      "artists": [
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 173310,
-      "name": "Volver a Casa",
-      "url": "https://open.spotify.com/track/3NMJtDQ4TeOSC8vYNq8kP4"
     },
     {
       "added_at": "2022-09-15 15:25:26",
@@ -3335,7 +3335,7 @@
     {
       "added_at": "2022-02-10 05:04:11",
       "album": {
-        "name": "NO SE OLVIDA",
+        "name": "No Se Olvida",
         "url": "https://open.spotify.com/album/0HVoLSZFWBp9F5JbiWrJqA"
       },
       "artists": [
@@ -3345,7 +3345,7 @@
         }
       ],
       "duration_ms": 250841,
-      "name": "NO SE OLVIDA",
+      "name": "No Se Olvida",
       "url": "https://open.spotify.com/track/49qCDjCcu8OvKlSDBYDzHv"
     },
     {

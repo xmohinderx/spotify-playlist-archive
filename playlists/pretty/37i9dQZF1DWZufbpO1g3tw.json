@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDQzMDgwMCwwMDAwMDAwMGU0N2E2YjgxNjVlMTIyNGRhZTIwODg5YjEzY2MwNDFl",
+  "snapshot_id": "MTY1MDQzMDgwMCwwMDAwMDAwMDE0ZDMyNDMxZWE2MTRhYTM1ZTVmN2MwYjhmOTZlZWUy",
   "tracks": [
     {
       "added_at": "2021-10-20 21:31:00",
@@ -151,18 +151,18 @@
     {
       "added_at": "2021-10-20 21:31:00",
       "album": {
-        "name": "Sicod\u00e9licos",
-        "url": "https://open.spotify.com/album/5UBnoa7wdR6WVRXh4Boj12"
+        "name": "Chico de Oro",
+        "url": "https://open.spotify.com/album/3zqIOlC6FwNKRCE7gUpcmr"
       },
       "artists": [
         {
-          "name": "Los Destellos",
-          "url": "https://open.spotify.com/artist/2xfdrsA1TWrKlaEfQQbbmf"
+          "name": "Chico Trujillo",
+          "url": "https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co"
         }
       ],
-      "duration_ms": 212466,
-      "name": "Guajira Sicod\u00e9lica",
-      "url": "https://open.spotify.com/track/0oucyVmfZtpU608vpYA1rs"
+      "duration_ms": 171880,
+      "name": "Conductor",
+      "url": "https://open.spotify.com/track/5DrsyiBfSuIHS015buu06S"
     },
     {
       "added_at": "2022-04-20 05:00:00",
@@ -187,18 +187,18 @@
     {
       "added_at": "2021-10-20 21:31:00",
       "album": {
-        "name": "Omara Portuondo (Buena Vista Social Club Presents)",
-        "url": "https://open.spotify.com/album/49I0jh6YTRjT56eqZvR0fs"
+        "name": "Sicod\u00e9licos",
+        "url": "https://open.spotify.com/album/5UBnoa7wdR6WVRXh4Boj12"
       },
       "artists": [
         {
-          "name": "Omara Portuondo",
-          "url": "https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy"
+          "name": "Los Destellos",
+          "url": "https://open.spotify.com/artist/2xfdrsA1TWrKlaEfQQbbmf"
         }
       ],
-      "duration_ms": 223133,
-      "name": "\u00bfD\u00f3nde estabas t\u00fa?",
-      "url": "https://open.spotify.com/track/3mNKgwNiyOkGPWCo3jV1Ap"
+      "duration_ms": 212466,
+      "name": "Guajira Sicod\u00e9lica",
+      "url": "https://open.spotify.com/track/0oucyVmfZtpU608vpYA1rs"
     },
     {
       "added_at": "2022-04-20 05:00:00",
@@ -219,6 +219,22 @@
     {
       "added_at": "2021-10-20 21:31:00",
       "album": {
+        "name": "Omara Portuondo (Buena Vista Social Club Presents)",
+        "url": "https://open.spotify.com/album/49I0jh6YTRjT56eqZvR0fs"
+      },
+      "artists": [
+        {
+          "name": "Omara Portuondo",
+          "url": "https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy"
+        }
+      ],
+      "duration_ms": 223133,
+      "name": "\u00bfD\u00f3nde estabas t\u00fa?",
+      "url": "https://open.spotify.com/track/3mNKgwNiyOkGPWCo3jV1Ap"
+    },
+    {
+      "added_at": "2021-10-20 21:31:00",
+      "album": {
         "name": "Tropical\u00edsimo: Cl\u00e1sicos de Cumbia Peruana",
         "url": "https://open.spotify.com/album/4y6v6W4BoxN7HjlbxKL6lW"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 245031,
       "name": "Cari\u00f1ito",
       "url": "https://open.spotify.com/track/2jQj5bsJeOad1YoaPWjJHm"
-    },
-    {
-      "added_at": "2021-10-20 21:31:00",
-      "album": {
-        "name": "Chico de Oro",
-        "url": "https://open.spotify.com/album/3zqIOlC6FwNKRCE7gUpcmr"
-      },
-      "artists": [
-        {
-          "name": "Chico Trujillo",
-          "url": "https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co"
-        }
-      ],
-      "duration_ms": 171880,
-      "name": "Conductor",
-      "url": "https://open.spotify.com/track/5DrsyiBfSuIHS015buu06S"
     },
     {
       "added_at": "2022-04-20 05:00:00",
@@ -283,22 +283,18 @@
     {
       "added_at": "2021-10-20 21:31:00",
       "album": {
-        "name": "Cumbia del Monte Fuji",
-        "url": "https://open.spotify.com/album/4QajQb50l0ry5S3dcl2SVo"
+        "name": "Chico de Oro",
+        "url": "https://open.spotify.com/album/3zqIOlC6FwNKRCE7gUpcmr"
       },
       "artists": [
         {
-          "name": "Frente Cumbiero",
-          "url": "https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6"
-        },
-        {
-          "name": "Minyo Crusaders",
-          "url": "https://open.spotify.com/artist/1zpJ58qKOgKcWge9iaFxHG"
+          "name": "Chico Trujillo",
+          "url": "https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co"
         }
       ],
-      "duration_ms": 264842,
-      "name": "Cumbia del Monte Fuji",
-      "url": "https://open.spotify.com/track/24fMHoWCFcyuuSDbHWzbPc"
+      "duration_ms": 187746,
+      "name": "Loca",
+      "url": "https://open.spotify.com/track/2LekureJkYmKUcUTBoHUaX"
     },
     {
       "added_at": "2022-04-20 05:00:00",
@@ -323,6 +319,26 @@
     {
       "added_at": "2021-10-20 21:31:00",
       "album": {
+        "name": "Cumbia del Monte Fuji",
+        "url": "https://open.spotify.com/album/4QajQb50l0ry5S3dcl2SVo"
+      },
+      "artists": [
+        {
+          "name": "Frente Cumbiero",
+          "url": "https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6"
+        },
+        {
+          "name": "Minyo Crusaders",
+          "url": "https://open.spotify.com/artist/1zpJ58qKOgKcWge9iaFxHG"
+        }
+      ],
+      "duration_ms": 264842,
+      "name": "Cumbia del Monte Fuji",
+      "url": "https://open.spotify.com/track/24fMHoWCFcyuuSDbHWzbPc"
+    },
+    {
+      "added_at": "2021-10-20 21:31:00",
+      "album": {
         "name": "Batuco",
         "url": "https://open.spotify.com/album/3M8Eepfnzl2kaKyBVqjguX"
       },
@@ -335,38 +351,6 @@
       "duration_ms": 220866,
       "name": "P\u00e1jaro Cenzontle",
       "url": "https://open.spotify.com/track/3QYQIrQ5ccLToSwFJ1cZcW"
-    },
-    {
-      "added_at": "2022-04-20 05:00:00",
-      "album": {
-        "name": "Ska Cubano",
-        "url": "https://open.spotify.com/album/1Sry0mamK4yz2Khmmtm1DA"
-      },
-      "artists": [
-        {
-          "name": "Ska Cubano",
-          "url": "https://open.spotify.com/artist/6lmoqMxughzdlxvQTsUXjF"
-        }
-      ],
-      "duration_ms": 218640,
-      "name": "Chango",
-      "url": "https://open.spotify.com/track/6X2qyN9UIXitH2UtIOZ85C"
-    },
-    {
-      "added_at": "2021-10-20 21:31:00",
-      "album": {
-        "name": "Chico de Oro",
-        "url": "https://open.spotify.com/album/3zqIOlC6FwNKRCE7gUpcmr"
-      },
-      "artists": [
-        {
-          "name": "Chico Trujillo",
-          "url": "https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co"
-        }
-      ],
-      "duration_ms": 187746,
-      "name": "Loca",
-      "url": "https://open.spotify.com/track/2LekureJkYmKUcUTBoHUaX"
     },
     {
       "added_at": "2022-04-20 05:00:00",
@@ -385,20 +369,20 @@
       "url": "https://open.spotify.com/track/31GD3gDTI7PYt6Dulr1wvh"
     },
     {
-      "added_at": "2021-10-20 21:31:00",
+      "added_at": "2022-04-20 05:00:00",
       "album": {
-        "name": "Los Aut\u00e9nticos",
-        "url": "https://open.spotify.com/album/4sd3JQ7mufYwKdNNtYzc0B"
+        "name": "Ska Cubano",
+        "url": "https://open.spotify.com/album/1Sry0mamK4yz2Khmmtm1DA"
       },
       "artists": [
         {
-          "name": "Los Shapis",
-          "url": "https://open.spotify.com/artist/3LorjMdYWKEtf3wdNtjM6v"
+          "name": "Ska Cubano",
+          "url": "https://open.spotify.com/artist/6lmoqMxughzdlxvQTsUXjF"
         }
       ],
-      "duration_ms": 230973,
-      "name": "El Aguajal",
-      "url": "https://open.spotify.com/track/7nOD24bJ7hchHuwVpT9y9z"
+      "duration_ms": 218640,
+      "name": "Chango",
+      "url": "https://open.spotify.com/track/6X2qyN9UIXitH2UtIOZ85C"
     },
     {
       "added_at": "2022-04-20 05:00:00",
@@ -419,6 +403,22 @@
     {
       "added_at": "2021-10-20 21:31:00",
       "album": {
+        "name": "Los Aut\u00e9nticos",
+        "url": "https://open.spotify.com/album/4sd3JQ7mufYwKdNNtYzc0B"
+      },
+      "artists": [
+        {
+          "name": "Los Shapis",
+          "url": "https://open.spotify.com/artist/3LorjMdYWKEtf3wdNtjM6v"
+        }
+      ],
+      "duration_ms": 230973,
+      "name": "El Aguajal",
+      "url": "https://open.spotify.com/track/7nOD24bJ7hchHuwVpT9y9z"
+    },
+    {
+      "added_at": "2021-10-20 21:31:00",
+      "album": {
         "name": "TEMPLO KOMODO",
         "url": "https://open.spotify.com/album/0ju8Ri6jnaQllxgAnkoPXA"
       },
@@ -431,26 +431,6 @@
       "duration_ms": 310216,
       "name": "Nariz Con Ra\u00edz",
       "url": "https://open.spotify.com/track/5ijJhZPMHeDljcpmgC2lLp"
-    },
-    {
-      "added_at": "2021-10-20 21:31:00",
-      "album": {
-        "name": "Frente Cumbiero Meets Mad Professor",
-        "url": "https://open.spotify.com/album/1dnal49FIWH19CsWYjYMOV"
-      },
-      "artists": [
-        {
-          "name": "Frente Cumbiero",
-          "url": "https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6"
-        },
-        {
-          "name": "Mad Professor",
-          "url": "https://open.spotify.com/artist/3hbnUwHvxyFxeJ9veCzOE7"
-        }
-      ],
-      "duration_ms": 263933,
-      "name": "Chucusteady",
-      "url": "https://open.spotify.com/track/1mUPcRmSmi2XsKAOWFKAF1"
     },
     {
       "added_at": "2021-10-20 21:31:00",
@@ -509,20 +489,24 @@
       "url": "https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw"
     },
     {
-      "added_at": "2022-04-20 05:00:00",
+      "added_at": "2021-10-20 21:31:00",
       "album": {
-        "name": "Ska Cubano",
-        "url": "https://open.spotify.com/album/1Sry0mamK4yz2Khmmtm1DA"
+        "name": "Frente Cumbiero Meets Mad Professor",
+        "url": "https://open.spotify.com/album/1dnal49FIWH19CsWYjYMOV"
       },
       "artists": [
         {
-          "name": "Ska Cubano",
-          "url": "https://open.spotify.com/artist/6lmoqMxughzdlxvQTsUXjF"
+          "name": "Frente Cumbiero",
+          "url": "https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6"
+        },
+        {
+          "name": "Mad Professor",
+          "url": "https://open.spotify.com/artist/3hbnUwHvxyFxeJ9veCzOE7"
         }
       ],
-      "duration_ms": 271466,
-      "name": "Babalu",
-      "url": "https://open.spotify.com/track/1B6eTnzTdnL1FH94eRT5pQ"
+      "duration_ms": 263933,
+      "name": "Chucusteady",
+      "url": "https://open.spotify.com/track/1mUPcRmSmi2XsKAOWFKAF1"
     },
     {
       "added_at": "2022-04-20 05:00:00",
@@ -555,6 +539,22 @@
       "duration_ms": 161426,
       "name": "Cumbia De Los Pajaritos",
       "url": "https://open.spotify.com/track/2qthHzKgzuQIlfSVV44FkK"
+    },
+    {
+      "added_at": "2022-04-20 05:00:00",
+      "album": {
+        "name": "Ska Cubano",
+        "url": "https://open.spotify.com/album/1Sry0mamK4yz2Khmmtm1DA"
+      },
+      "artists": [
+        {
+          "name": "Ska Cubano",
+          "url": "https://open.spotify.com/artist/6lmoqMxughzdlxvQTsUXjF"
+        }
+      ],
+      "duration_ms": 271466,
+      "name": "Babalu",
+      "url": "https://open.spotify.com/track/1B6eTnzTdnL1FH94eRT5pQ"
     },
     {
       "added_at": "2022-04-20 05:00:00",
@@ -639,22 +639,18 @@
     {
       "added_at": "2021-10-20 21:31:00",
       "album": {
-        "name": "Ojos Negros",
-        "url": "https://open.spotify.com/album/5SgYNPLjnGFIrV37pV6mZ1"
+        "name": "Ondatr\u00f3pica (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2clte0oolrkkXFTJy72us2"
       },
       "artists": [
         {
-          "name": "Desta French",
-          "url": "https://open.spotify.com/artist/0Wqws1yyGkVRdAd7ncSW3W"
-        },
-        {
-          "name": "YoSoyMatt",
-          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
+          "name": "Ondatr\u00f3pica",
+          "url": "https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh"
         }
       ],
-      "duration_ms": 224394,
-      "name": "Ojos Negros",
-      "url": "https://open.spotify.com/track/0E34QOEIpfSEvwkWOUi16T"
+      "duration_ms": 245280,
+      "name": "Cumbia Espacial",
+      "url": "https://open.spotify.com/track/7y40GtUQ2pO4rV652rVazz"
     },
     {
       "added_at": "2021-10-20 21:31:00",
@@ -679,18 +675,22 @@
     {
       "added_at": "2021-10-20 21:31:00",
       "album": {
-        "name": "Ondatr\u00f3pica (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2clte0oolrkkXFTJy72us2"
+        "name": "Ojos Negros",
+        "url": "https://open.spotify.com/album/5SgYNPLjnGFIrV37pV6mZ1"
       },
       "artists": [
         {
-          "name": "Ondatr\u00f3pica",
-          "url": "https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh"
+          "name": "Desta French",
+          "url": "https://open.spotify.com/artist/0Wqws1yyGkVRdAd7ncSW3W"
+        },
+        {
+          "name": "YoSoyMatt",
+          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
         }
       ],
-      "duration_ms": 245280,
-      "name": "Cumbia Espacial",
-      "url": "https://open.spotify.com/track/7y40GtUQ2pO4rV652rVazz"
+      "duration_ms": 224394,
+      "name": "Ojos Negros",
+      "url": "https://open.spotify.com/track/0E34QOEIpfSEvwkWOUi16T"
     },
     {
       "added_at": "2022-04-20 05:00:00",
@@ -827,6 +827,22 @@
     {
       "added_at": "2021-10-20 21:31:00",
       "album": {
+        "name": "Baile Bucanero",
+        "url": "https://open.spotify.com/album/1jBC2RT7oXRkOqHrfoZCI3"
+      },
+      "artists": [
+        {
+          "name": "Ondatr\u00f3pica",
+          "url": "https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "Lazalypso",
+      "url": "https://open.spotify.com/track/73nwZubj4lYdp7MfDZO47a"
+    },
+    {
+      "added_at": "2021-10-20 21:31:00",
+      "album": {
         "name": "Enrique Delgado (feat. Enrique Delgado Montes)",
         "url": "https://open.spotify.com/album/62Q0yW6XbxNtuJDOc6ohyj"
       },
@@ -843,34 +859,18 @@
     {
       "added_at": "2021-10-20 21:31:00",
       "album": {
-        "name": "Desesperanza",
-        "url": "https://open.spotify.com/album/5Kz98hHeSt1Qokhc6rZd83"
+        "name": "Sonido Amazonico",
+        "url": "https://open.spotify.com/album/0p5Iiuaj58qCxzMYqgP7B1"
       },
       "artists": [
         {
-          "name": "Meridian Brothers",
-          "url": "https://open.spotify.com/artist/08Y6RNx87Eolrcq1aLM6ow"
+          "name": "Chicha Libre",
+          "url": "https://open.spotify.com/artist/1eiodDx0lIftKNviQGG95x"
         }
       ],
-      "duration_ms": 283106,
-      "name": "Salsa Caliente (Versi\u00f3n Aumentada)",
-      "url": "https://open.spotify.com/track/3qMRDghhgm2V3be7a3yxnn"
-    },
-    {
-      "added_at": "2021-10-20 21:31:00",
-      "album": {
-        "name": "Baile Bucanero",
-        "url": "https://open.spotify.com/album/1jBC2RT7oXRkOqHrfoZCI3"
-      },
-      "artists": [
-        {
-          "name": "Ondatr\u00f3pica",
-          "url": "https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "Lazalypso",
-      "url": "https://open.spotify.com/track/73nwZubj4lYdp7MfDZO47a"
+      "duration_ms": 257333,
+      "name": "Sonido Amazonico",
+      "url": "https://open.spotify.com/track/30XzPuJXYZrPF2jx89SQG1"
     }
   ],
   "unique_name": "Brunch Latino",

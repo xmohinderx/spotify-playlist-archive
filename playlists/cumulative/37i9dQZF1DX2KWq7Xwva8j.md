@@ -4,7 +4,7 @@
 
 > Descubre hoy a los artistas de mañana\. Foto: Marmi
 
-136 songs - 6 hr 38 min - [published](https://open.spotify.com/playlist/0uaQZzCtnp7y3M4o0OYD28)
+138 songs - 6 hr 43 min - [published](https://open.spotify.com/playlist/0uaQZzCtnp7y3M4o0OYD28)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,8 +21,9 @@
 | [Beef Mac](https://open.spotify.com/track/2u1VymaQE1qwy8h9HzTRd6) | [Las Dianas](https://open.spotify.com/artist/5jTPdO06h2aTkDtHCYMAIm) | [Beef Mac](https://open.spotify.com/album/74KscgggMT2lphlAbKp9cY) | 3:26 | 2021-12-31 | 2022-01-07 |
 | [Bonita](https://open.spotify.com/track/6XwtI61NZnkhmclCwC4hbu) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [Lo Bonito](https://open.spotify.com/album/1XoRwACvB8LyKkBV2cSeVB) | 2:52 | 2022-02-03 | 2022-07-15 |
 | [CAMALEÓN](https://open.spotify.com/track/5H1LLTRLRw59GZh6Xd5lGe) | [Belén Aguilera](https://open.spotify.com/artist/5fmYDIdgEkSgLdL6esxgfp) | [Camaleón](https://open.spotify.com/album/0jCM9KSax5G30ZScKCTvAG) | 2:55 | 2021-12-31 | 2022-01-07 |
-| [canción de amor](https://open.spotify.com/track/16ZMVvoC20S1ehGOOxYxkg) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [canción de amor](https://open.spotify.com/album/4Gv5KVGBNzwMikrM6bOLBV) | 2:57 | 2022-07-28 |  |
+| [canción de amor](https://open.spotify.com/track/16ZMVvoC20S1ehGOOxYxkg) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [canción de amor](https://open.spotify.com/album/4Gv5KVGBNzwMikrM6bOLBV) | 2:57 | 2022-07-28 | 2022-09-20 |
 | [canción de amor](https://open.spotify.com/track/6YB52qsOLvjW0Q25NN9ngp) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [canción de amor](https://open.spotify.com/album/7h6aG4Z7zNpbbMKJhKn6Nh) | 2:57 | 2022-03-31 | 2022-07-29 |
+| [canción de amor](https://open.spotify.com/track/75eyMHltJQARx2mxQTN81J) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [ya se me pasará](https://open.spotify.com/album/4UdbepeAR4DDMLWR08MBxr) | 2:57 | 2022-09-16 |  |
 | [Chamaquita](https://open.spotify.com/track/667CH2wRxXnQOfPD1NrlLJ) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Juseph](https://open.spotify.com/artist/5kgDdP7a4TsvkF08gpJGX0) | [Chamaquita](https://open.spotify.com/album/1WuBqKxkSxFeAgnYaQd8We) | 2:50 | 2022-04-13 | 2022-09-17 |
 | [chino cada martes](https://open.spotify.com/track/285mJY862RScGSXLy8WuRQ) | [vangoura](https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g) | [CHINO CADA MARTES](https://open.spotify.com/album/5m5qT7i1FIeKBUT65FKwLJ) | 2:43 | 2022-09-08 |  |
 | [Ciencia Ficción](https://open.spotify.com/track/3In29m8LwiMqdbjtOcsmt8) | [Ters](https://open.spotify.com/artist/5Mf1s6zvBdwT3ZmEfWVovB) | [Ciencia Ficción](https://open.spotify.com/album/6gwnAgOqe7R194PnajM8Hi) | 3:16 | 2021-12-31 | 2022-04-01 |
@@ -134,8 +135,9 @@
 | [Un Amor De Locos](https://open.spotify.com/track/0KngGwsqYzLisleU46WuLH) | [Cano](https://open.spotify.com/artist/60ZOYUFnCYEeKYsxgvPxOS), [Los del Control](https://open.spotify.com/artist/3Nbij6lwrwz0XB7HubxdN2) | [Un Amor De Locos](https://open.spotify.com/album/3GUmhfkz5WZo0LN9daXoGp) | 3:17 | 2022-06-06 |  |
 | [Un Paseo Más](https://open.spotify.com/track/7gVESyKinmw7wpQEBM9x69) | [Rojuu](https://open.spotify.com/artist/04mTej6RpWzBxGwhfThpIi) | [Un Paseo Más](https://open.spotify.com/album/1QUKV49LaQiYrbAE0AvVrq) | 3:43 | 2021-12-31 | 2022-01-28 |
 | [Un paso atrás](https://open.spotify.com/track/5LAHynRwzePn7JQvBxuCjI) | [vangoura](https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g), [Blackpanda](https://open.spotify.com/artist/7LrXIUbc5YUI3SjEaAh3ma) | [Mudar la piel](https://open.spotify.com/album/0xwTpgU6vTP5es4CXe4jpc) | 3:53 | 2022-01-27 | 2022-06-07 |
-| [un poco más](https://open.spotify.com/track/1WFmdhHDXQT3xS1kMzuQNC) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [un poco más](https://open.spotify.com/album/5b1U3awRVijau7faHNtnxJ) | 2:18 | 2022-07-28 |  |
+| [un poco más](https://open.spotify.com/track/1WFmdhHDXQT3xS1kMzuQNC) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [un poco más](https://open.spotify.com/album/5b1U3awRVijau7faHNtnxJ) | 2:18 | 2022-07-28 | 2022-09-20 |
 | [un poco más](https://open.spotify.com/track/5MRRGF2Si2Aql4TobjfGGf) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [un poco más](https://open.spotify.com/album/4EZwSUtUU2l136RiMYkAO0) | 2:18 | 2022-06-06 | 2022-07-29 |
+| [un poco más](https://open.spotify.com/track/6LKZFDMdW2I59hv7jA5UOV) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [ya se me pasará](https://open.spotify.com/album/4UdbepeAR4DDMLWR08MBxr) | 2:18 | 2022-09-16 |  |
 | [un poco sí...](https://open.spotify.com/track/4kQqIsLQk19AIeuGdIeibl) | [vangoura](https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g) | [un poco sí...](https://open.spotify.com/album/3QR37dZ8Zkmx7ZWU4mCUKD) | 2:59 | 2022-06-06 |  |
 | [Universitaria](https://open.spotify.com/track/13goZ7smSa0LkMnNaxKiVF) | [Cyril Kamer](https://open.spotify.com/artist/3J1MhhyXLJRNRZVrx11Lbf) | [Universitaria](https://open.spotify.com/album/7ugNb8tgXC5q1FKGdfuadl) | 3:16 | 2021-12-31 | 2022-04-01 |
 | [uno x ciento](https://open.spotify.com/track/0cbp157hyiM0c9XVLb0Mqk) | [Miren](https://open.spotify.com/artist/4YGQgS8rZcbt0VOsV6GPcv), [Fulston](https://open.spotify.com/artist/4NAeRqTT8u5AC9WUOMCLeM) | [a partes](https://open.spotify.com/album/0wNq0PfOh28Ye1VvygIrBP) | 1:40 | 2022-03-31 |  |

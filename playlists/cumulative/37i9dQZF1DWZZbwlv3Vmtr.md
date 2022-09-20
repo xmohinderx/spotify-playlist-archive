@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-508 songs - 20 hr 0 min - [published](https://open.spotify.com/playlist/6x1tKHsHFtY3Q3ZwJ2jk38)
+509 songs - 20 hr 2 min - [published](https://open.spotify.com/playlist/6x1tKHsHFtY3Q3ZwJ2jk38)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,8 @@
 | [Chanterelle](https://open.spotify.com/track/3JSg9IUjqze3mySqLn4HmT) | [Silva Sax](https://open.spotify.com/artist/4J3sbgdgKQeaCSv5oM2xq9) | [Cartoons & Cereal](https://open.spotify.com/album/6eY7VIvnJeoNfWVpE5N29q) | 3:45 | 2022-04-15 |  |
 | [charles b.](https://open.spotify.com/track/0PspRVTgQPycu9EH88kF4k) | [Rico Manzano](https://open.spotify.com/artist/1hVs4AUzu7CjnBobfDoLoZ) | [charles b.](https://open.spotify.com/album/1MXnC6qRilmNuoYPwenhr4) | 2:30 | 2022-04-15 | 2022-08-19 |
 | [Chasing Clouds](https://open.spotify.com/track/1BzbkoI0867xFsfy1tBwFm) | [Odd Shapes](https://open.spotify.com/artist/7A0I9hUuQHuonQhfYw3HrU) | [Tour Bus](https://open.spotify.com/album/3c4bZOR7st6OBpOVvyT4n0) | 2:54 | 2022-04-15 |  |
-| [cheydinhal](https://open.spotify.com/track/3xMf7Kna90OQykFAxTyq5z) | [Poetics](https://open.spotify.com/artist/6sdgbah9YMIS5jSYdyzpBP) | [cheydinhal](https://open.spotify.com/album/2V0IXWAztq41O6rS4s4Yka) | 2:05 | 2022-04-15 |  |
+| [cheydinhal](https://open.spotify.com/track/1LZn2Iumd6EBPa16SxZmgg) | [Poetics](https://open.spotify.com/artist/6sdgbah9YMIS5jSYdyzpBP) | [cheydinhal](https://open.spotify.com/album/5qkawH5rfKsYEwTXWMRDeP) | 2:05 | 2022-09-16 |  |
+| [cheydinhal](https://open.spotify.com/track/3xMf7Kna90OQykFAxTyq5z) | [Poetics](https://open.spotify.com/artist/6sdgbah9YMIS5jSYdyzpBP) | [cheydinhal](https://open.spotify.com/album/2V0IXWAztq41O6rS4s4Yka) | 2:05 | 2022-04-15 | 2022-09-20 |
 | [Chili is hot](https://open.spotify.com/track/7JnFdD5M4sKv4j26plgBPy) | [Lofidelity Habanero](https://open.spotify.com/artist/5N7C6JFjoEsCGskSYYGbq1) | [Chili is hot](https://open.spotify.com/album/1UisVUTos5X3wOpcDZUo1F) | 1:55 | 2022-04-15 |  |
 | [chillin' at cosmic flight](https://open.spotify.com/track/5fxbWUC21KPOTVDfUVuyFF) | [middt](https://open.spotify.com/artist/3u78iBx7E3vzHHhc47gdTf) | [chillin' at cosmic flight](https://open.spotify.com/album/3KVdh66EJZmY7jh41ydTNu) | 2:45 | 2022-05-13 |  |
 | [Chinatown](https://open.spotify.com/track/4JFEywEZvco1yrUW4UHC36) | [Call Lane](https://open.spotify.com/artist/0AJ4Z8Q5D5OM3llGtJXnXy) | [Capone](https://open.spotify.com/album/2WIJoDYo5qEnNBhwIcY5oQ) | 3:45 | 2022-04-15 | 2022-05-14 |

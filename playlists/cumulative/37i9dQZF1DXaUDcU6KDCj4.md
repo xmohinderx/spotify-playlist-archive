@@ -4,7 +4,7 @@
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: The Lone Bellow
 
-784 songs - 2 day 0 hr 7 min - [published](https://open.spotify.com/playlist/7yU452WcXvKlp2CXhHrD6N)
+786 songs - 2 day 0 hr 14 min - [published](https://open.spotify.com/playlist/7yU452WcXvKlp2CXhHrD6N)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -458,7 +458,8 @@
 | [New Earth](https://open.spotify.com/track/3uT9svp7O7rAzrFgvCq8cW) | [Cass McCombs](https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz) | [Heartmind](https://open.spotify.com/album/2HutgntzLdadMPeSLrwmT1) | 4:11 | 2022-08-19 |  |
 | [New Girl](https://open.spotify.com/track/4LvKvydNv9uSnoTmlYeYJk) | [Jamie Drake](https://open.spotify.com/artist/7rvB7ONJSqlmaCrcbhelir) | [New Girl](https://open.spotify.com/album/2YFroKdZQBbDORo7iJjYhG) | 3:27 | 2022-05-13 | 2022-06-11 |
 | [New Person, Old Place \(New Feelings Version\)](https://open.spotify.com/track/0lejZ7fAcnamUzgepKR4R4) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az), [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [New Person, Old Place \(New Feelings Version\)](https://open.spotify.com/album/11QvMGlst1pUXRc8agkreX) | 3:56 | 2022-02-18 | 2022-03-05 |
-| [Night Moves](https://open.spotify.com/track/7iOSaQAmLZNege7dXunnsE) | [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [Night Moves](https://open.spotify.com/album/26HYYCUQFcYbQHGKnDabuW) | 3:08 | 2022-09-16 |  |
+| [Night Moves](https://open.spotify.com/track/6HOqWQFDKYvZp28ujtEuVu) | [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [Carving Canyons](https://open.spotify.com/album/0keDX0kFNMMZtGWK3YP5GO) | 3:08 | 2022-09-16 |  |
+| [Night Moves](https://open.spotify.com/track/7iOSaQAmLZNege7dXunnsE) | [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [Night Moves](https://open.spotify.com/album/26HYYCUQFcYbQHGKnDabuW) | 3:08 | 2022-09-16 | 2022-09-20 |
 | [Nightbird \- Duo Version](https://open.spotify.com/track/0qq5xXkzgpRlBT6tNns0SJ) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Watchhouse \(Duo\)](https://open.spotify.com/album/2UZLRGQmNZLPuKFn9JVwjo) | 5:17 | 2022-08-12 |  |
 | [Nightjar And The Nightingale](https://open.spotify.com/track/24b6nKhfTwjV3loZHkFUli) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Nightjar and the Nightingale](https://open.spotify.com/album/3uqQVXRX8Yoq88qiXXJyjk) | 4:31 | 2022-04-01 | 2022-07-16 |
 | [Nightmare Town](https://open.spotify.com/track/5dien20PiBWvBulYiZ60et) | [Altameda](https://open.spotify.com/artist/01KXhlX2PCz5Uiw7d5eryb) | [Nightmare Town](https://open.spotify.com/album/2CZJae8QIF5yREwV67MwCV) | 3:37 | 2022-01-14 | 2022-03-18 |
@@ -560,7 +561,8 @@
 | [Roof of the World](https://open.spotify.com/track/0pOYLQ8ZnPF1G6GE43Jf7U) | [Justin Wade Tam](https://open.spotify.com/artist/2kxKYNPzruEZEDD7ccBrLi) | [Roof of the World](https://open.spotify.com/album/4VDDyQSZ7fT8YgQqjufWoP) | 4:16 | 2021-11-12 | 2022-01-22 |
 | [Rubberneckers](https://open.spotify.com/track/31fmOjwCmLvL32qFaPNDHj) | [Christian Lee Hutson](https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3) | [Rubberneckers](https://open.spotify.com/album/2AFzBOWIUgWLK5ymINJmn2) | 3:28 | 2022-01-14 | 2022-04-02 |
 | [Running](https://open.spotify.com/track/5VRGp1W4cpQ0kO3HWLsafP) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Running](https://open.spotify.com/album/2mGGXU9rtoBSgqVKthBSkJ) | 3:05 | 2022-09-09 |  |
-| [Sad](https://open.spotify.com/track/2FyJqbLBacg8U7uiSy0cLg) | [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [Sad](https://open.spotify.com/album/5aOz3OK9QSRaFR8oY992ct) | 3:24 | 2022-08-19 |  |
+| [Sad](https://open.spotify.com/track/1K6dPwnP8alsRxVc5ET5Ft) | [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [Carving Canyons](https://open.spotify.com/album/0keDX0kFNMMZtGWK3YP5GO) | 3:24 | 2022-08-19 |  |
+| [Sad](https://open.spotify.com/track/2FyJqbLBacg8U7uiSy0cLg) | [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [Sad](https://open.spotify.com/album/5aOz3OK9QSRaFR8oY992ct) | 3:24 | 2022-08-19 | 2022-09-20 |
 | [Safe Flight \- Acoustic](https://open.spotify.com/track/2e8vuU33xtWNOPtPzCcDJa) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Safe Flight \(Acoustic\)](https://open.spotify.com/album/5oIF7vKLlB1trWhyCKIeul) | 3:59 | 2022-08-19 |  |
 | [SAGA](https://open.spotify.com/track/1Si6wrL2cPEiIy2aKLYKl8) | [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt) | [LIFE ON EARTH](https://open.spotify.com/album/5oHaiGt9cgATxsrv409jP3) | 4:35 | 2022-02-18 | 2022-03-26 |
 | [Sapling \(feat\. Anderson East\)](https://open.spotify.com/track/62dlYm1sz64D1AST1dCLE2) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu), [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [Sapling \(feat\. Anderson East\)](https://open.spotify.com/album/3hZo4OXyrw0NYHSDGW7FJx) | 3:13 | 2022-01-21 | 2022-04-23 |

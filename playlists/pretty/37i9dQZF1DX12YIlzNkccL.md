@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX12YIlzNkccL.md) - [plain]
 
 > Explore Beethoven's great works in this essential playlist, featuring iconic recordings and special new releases.
 
-[Spotify](https://open.spotify.com/user/spotify) - 556,973 likes - 83 songs - 11 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 557,228 likes - 83 songs - 11 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

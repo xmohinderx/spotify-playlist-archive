@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTpLDJazDBum.md) - [plain]
 
 > Find your flow with these trap and lofi beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,535 likes - 118 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,560 likes - 118 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,7 +124,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTpLDJazDBum.md) - [plain]
 | 114 | [Enigma](https://open.spotify.com/track/6ZSJa6ccyXHdMYhh9Y7Mea) | [FØRTE](https://open.spotify.com/artist/46vhqe1g0BJGdspci0dwbF) | [Enigma](https://open.spotify.com/album/1jXQLiD5zNR1gAOafc27bt) | 2:38 |
 | 115 | [Swept away](https://open.spotify.com/track/50D42NjOSA7pcx8RftldNM) | [Hybrid Vibrations](https://open.spotify.com/artist/794S31SVHKMY16hMneo3XW) | [Swept away](https://open.spotify.com/album/7dL8pdaQekKy8wr8GtiLt6) | 3:13 |
 | 116 | [On The Corner](https://open.spotify.com/track/5EPryLLTb0hiHeoazW19Ed) | [One Disco Light](https://open.spotify.com/artist/3fTraZW8ip4IoGJxXqiQY1) | [Midnight Television](https://open.spotify.com/album/2LsyfY2RqrVZ2keapNGOXa) | 2:18 |
-| 117 | [Escape](https://open.spotify.com/track/7eOJ0Fe4dJdpFE5KiDNv7A) | [RŮDE](https://open.spotify.com/artist/4CWpoyuE7e9NvBkUSTmJfq) | [Escape](https://open.spotify.com/album/5RncSFp1WAv41KMOQnPwb7) | 3:12 |
+| 117 | [Escape](https://open.spotify.com/track/6PWv11SoxcweLVpUetusTO) | [RudeLies](https://open.spotify.com/artist/7hf6L4LN1RTVN66IdBVpPr) | [Escape](https://open.spotify.com/album/3YluATDG7yRXXm5VlYPnF0) | 3:12 |
 | 118 | [Dirt Rhode](https://open.spotify.com/track/0OjrqFG58yjrB01lDkVjJL) | [HATAMITSUNAMI](https://open.spotify.com/artist/6FgjnW0Q1Kx3WEyWfApXmv) | [Dirt Rhode](https://open.spotify.com/album/61uS0CiEDftWmp0hjdXwgm) | 3:05 |
 
-Snapshot ID: `MTY2MzMzNjQ0MCwwMDAwMDAwMDE1ZmIzYzM5ZGUwYTVhOGFmNzFlYTE3N2MyM2E5Zjc0`
+Snapshot ID: `MTY2MzMzNjQ0MCwwMDAwMDAwMDlmNzc0M2I3Zjc5MTcxZmNiYzJlZWRiNTc4NzY2MDAx`

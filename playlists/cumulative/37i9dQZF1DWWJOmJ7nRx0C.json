@@ -4662,6 +4662,24 @@
     },
     {
       "album": {
+        "name": "End of an era",
+        "url": "https://open.spotify.com/album/5dTaJdgmqgz5hcmpSVNgVF"
+      },
+      "artists": [
+        {
+          "name": "Loveless",
+          "url": "https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186129,
+      "name": "MIDDLE OF THE NIGHT",
+      "url": "https://open.spotify.com/track/0CwiF8zPjl7ESC6nDnBvPo"
+    },
+    {
+      "album": {
         "name": "Million Miles of Fun",
         "url": "https://open.spotify.com/album/1VhAqOMUGqdwvDor4Q2gFx"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8n42306eJB.md) - [plain]
 
 > Good vibes for good times!
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,696 likes - 71 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,711 likes - 71 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8n42306eJB.md) - [plain]
 | 48 | [Cool Down](https://open.spotify.com/track/6uJaTP7EbaHXJ5PM09s0uV) | [Kolohe Kai](https://open.spotify.com/artist/3Je8tRazTtqZxGkbeJDGL8) | [This Is The Life](https://open.spotify.com/album/3m89meycBx0T7hYBhj2kkq) | 3:31 |
 | 49 | [Fire](https://open.spotify.com/track/2DyRPkBu8gHPdhxnUjQ86D) | [Soul Brown](https://open.spotify.com/artist/4gRJyO5LOBVHkbJz4W4tTU), [Kabin Bread Boyz](https://open.spotify.com/artist/4bo1Rnjq7uRSYVxTfa1XXO) | [Fire](https://open.spotify.com/album/6s5VEE4s07qFTF3zdezGI7) | 4:04 |
 | 50 | [Coming Home](https://open.spotify.com/track/0b3MO0oAXgxpUUh1idkBcW) | [PAUA](https://open.spotify.com/artist/0qmDXiQHxN2ErIEJ0ShYoD) | [Paua](https://open.spotify.com/album/4M6mGR7ZhUu6y7zTgjTWs2) | 5:31 |
-| 51 | [In the Air](https://open.spotify.com/track/5v7h5vQgCJKZT5vB3I9s3o) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B III](https://open.spotify.com/album/5FkhVnR6DLz7ARqioHUwpc) | 4:12 |
+| 51 | [In the Air](https://open.spotify.com/track/6r88rMGtfNgC0SJEytTA7c) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B III](https://open.spotify.com/album/6S2Wk7gzCsJzfArpNgPbHh) | 4:12 |
 | 52 | [Party](https://open.spotify.com/track/2hrDu4B5sb10WXs1yLqDOo) | [House Of Shem](https://open.spotify.com/artist/2ERWeFslDVHB4E9pSSw845) | [Island Vibration](https://open.spotify.com/album/6cNLIj2EwjJpyL5ugk1GlV) | 4:36 |
 | 53 | [Love Mi Bad](https://open.spotify.com/track/3wni9NKQ88KnU2LLa5rkAK) | [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH) | [Love Mi Bad](https://open.spotify.com/album/5ddeqiKpSSfKkl7RDXBEBe) | 2:40 |
 | 54 | [Duduke](https://open.spotify.com/track/1Dugqy9EGYV66nkp7yLiA4) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Duduke](https://open.spotify.com/album/5LfTq81m11TP8TqTGV2aHk) | 2:52 |
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8n42306eJB.md) - [plain]
 | 70 | [My Baby](https://open.spotify.com/track/0I0BvzTJDO8KR61k9rWVGP) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B IV](https://open.spotify.com/album/6PPhLgXiq4nEiZ8x2ZB3xV) | 3:56 |
 | 71 | [Rhythm in My Soul](https://open.spotify.com/track/1U9GsSNJ2gypyLCRbbvNa1) | [Unity Pacific](https://open.spotify.com/artist/0e0rH9Exdpkq3d7ZSi9VN5) | [Into the Dread](https://open.spotify.com/album/0XUxsYbbxTmkhzMAA9YeTe) | 6:16 |
 
-Snapshot ID: `MTY1OTgzMzY0MSwwMDAwMDAwMDNlNjc2MmYzMDhlYTdiY2JiZGM3YjM5OTg3NzkyNWM0`
+Snapshot ID: `MTY1OTgzMzY0MSwwMDAwMDAwMDYxMmE5YzExMDAxYWNmNzFiYjg3OTQ5MjUxZDY0NzEy`

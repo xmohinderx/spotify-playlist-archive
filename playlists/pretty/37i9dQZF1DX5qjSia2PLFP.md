@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 
 > New music breaking waves\.  Cover: Ice Spice
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,782 likes - 50 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,834 likes - 50 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 | 8 | [Control](https://open.spotify.com/track/29P1QyEgirfz0pJ31npUQx) | [Kenny](https://open.spotify.com/artist/4S4rq4o8gDqTqVKPA7zJmY) | [Control](https://open.spotify.com/album/3gbs7YXcIZ9LkZRa5tAuzn) | 2:03 |
 | 9 | [Sway](https://open.spotify.com/track/5vjfKzxJpDGawFtTq8f4dj) | [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC) | [Sway](https://open.spotify.com/album/7uxnk6j0snMV0K99bWfO4N) | 2:54 |
 | 10 | [QuikkSkope \(feat\. DC The Don\)](https://open.spotify.com/track/5Kvs2iitHuGu1PCaJESZJS) | [yvngxchris](https://open.spotify.com/artist/2qB0DlFsQOpNh0bdMCJLwr), [DC The Don](https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk) | [VIRALITY](https://open.spotify.com/album/4cZQDPI9rDzPpqMMLyvj7B) | 2:41 |
-| 11 | [Good Movie](https://open.spotify.com/track/4leKMM9HGvo32ZcIGRafGS) | [Pi’erre Bourne](https://open.spotify.com/artist/3x3jSlhyv5CiCZDZlaTq0M) | [Good Movie](https://open.spotify.com/album/3cNHTRSvsTSp0IjYQvygoB) | 3:05 |
+| 11 | [Good Movie](https://open.spotify.com/track/3UZdSNMSGjZM5GuGuqB5ff) | [Pi’erre Bourne](https://open.spotify.com/artist/3x3jSlhyv5CiCZDZlaTq0M) | [Good Movie](https://open.spotify.com/album/2REajdJ8KOaR8Vm2Zx8UXM) | 3:05 |
 | 12 | [JUST SAY THAT \(Remix\) \(feat\. Quavo & GloRilla\)](https://open.spotify.com/track/3g9CkAfcdZlBhoLvJqIRGc) | [Duke Deuce](https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [JUST SAY THAT \(Remix\) \(feat\. Quavo & GloRilla\)](https://open.spotify.com/album/4YaTl6b04ax8sSywFGcrPC) | 4:38 |
 | 13 | [AVENTADOR](https://open.spotify.com/track/2NhVY8tOBvbQRCLvBXFrUJ) | [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35) | [Pretty In Black \(Deluxe\)](https://open.spotify.com/album/0mYQnhiqwscLVlk0LgVia1) | 2:03 |
 | 14 | [ME FIRST \- A COLORS SHOW](https://open.spotify.com/track/27r0boXgMC64byb513mJNu) | [Kari Faux](https://open.spotify.com/artist/4c2ighP1wj8E5dVGJDCOiB) | [ME FIRST \- A COLORS SHOW](https://open.spotify.com/album/4xULzJV1dGpBSFI2au8Fdg) | 2:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 | 49 | [APPARENT](https://open.spotify.com/track/1XhINAXbdbMNo8nAAM8xXN) | [Al\-Doms](https://open.spotify.com/artist/2SjTz6It0TjopEYQjJMxqb) | [APPARENT](https://open.spotify.com/album/7mlxFceSjfCACrEhIwVscy) | 1:36 |
 | 50 | [Somebody Told Me](https://open.spotify.com/track/72elEHWSWoCcQZaHCfdeyh) | [Your Grandparents](https://open.spotify.com/artist/4H2uN93zRcRAVmTINvxuiq), [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [Somebody Told Me](https://open.spotify.com/album/5nJ1fosTWsfTfkHKFbDHfk) | 4:15 |
 
-Snapshot ID: `MTY2MzM2OTkzOSwwMDAwMDAwMGZiZDk1Njk4ZTZiZWMwN2JkM2YxM2I5OTZlNWYzYTk4`
+Snapshot ID: `MTY2MzM2OTkzOSwwMDAwMDAwMGU4ZTMzODMwMjM4ZjcwNGM3YTljYmUxZTExNjIwNzI0`

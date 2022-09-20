@@ -6474,6 +6474,24 @@
     },
     {
       "album": {
+        "name": "\u05d1\u05d9\u05df \u05d4\u05e1\u05d9\u05de\u05e0\u05d9\u05dd",
+        "url": "https://open.spotify.com/album/5JE1s3SY7S3xf7JWaDawVC"
+      },
+      "artists": [
+        {
+          "name": "Niv Demirel",
+          "url": "https://open.spotify.com/artist/1ecWGP0ecxDqri9Tt3KJ7p"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202480,
+      "name": "\u05d4\u05e9\u05e2\u05d5\u05ea \u05d4\u05e7\u05d8\u05e0\u05d5\u05ea",
+      "url": "https://open.spotify.com/track/5shn2i4JvFfzNlqeljroXn"
+    },
+    {
+      "album": {
         "name": "\u05d7\u05dc\u05e7 \u05d0'",
         "url": "https://open.spotify.com/album/4oU9sPRsWWZxhju9x2hFJM"
       },
@@ -6933,7 +6951,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-19",
+      "date_removed": null,
       "duration_ms": 152263,
       "name": "\u05d9\u05d0\u05dc\u05dc\u05d4 \u05d1\u05d9\u05d9",
       "url": "https://open.spotify.com/track/1XO1AePYpXpLxtRWpcaJiJ"
@@ -7315,7 +7333,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-20",
       "duration_ms": 175741,
       "name": "\u05dc\u05d9\u05d1\u05d9\u05e0\u05d2 \u05d3\u05d4 \u05d3\u05e8\u05d9\u05dd",
       "url": "https://open.spotify.com/track/3lc6b4cCbPLWNQ95GYxPkN"
@@ -7441,7 +7459,7 @@
       ],
       "date_added": "2022-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-20",
       "duration_ms": 158589,
       "name": "\u05dc\u05da \u05dc\u05d9\u05e9\u05d5\u05df",
       "url": "https://open.spotify.com/track/3fCS3m3uWUgAFm3purs15C"
@@ -8915,7 +8933,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-20",
       "duration_ms": 180984,
       "name": "\u05e4\u05e2\u05de\u05d5\u05df",
       "url": "https://open.spotify.com/track/4DgyTAwiSJsT5u5EljsImB"
@@ -9645,7 +9663,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-19",
+      "date_removed": null,
       "duration_ms": 212963,
       "name": "\u05e9\u05e7\u05d9\u05e2\u05d5\u05ea \u05d0\u05d3\u05d5\u05de\u05d5\u05ea",
       "url": "https://open.spotify.com/track/68kVzJf0STAv91tuLutuDr"

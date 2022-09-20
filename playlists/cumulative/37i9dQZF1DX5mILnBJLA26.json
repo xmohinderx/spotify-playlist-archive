@@ -2333,7 +2333,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-20",
       "duration_ms": 386548,
       "name": "Buhle Bakhe",
       "url": "https://open.spotify.com/track/75QIdUr1wuw4qVHUs5Z8YP"
@@ -7371,6 +7371,36 @@
       "duration_ms": 402952,
       "name": "Kuvaliwe",
       "url": "https://open.spotify.com/track/2IolW8WGqnRwY017Rn1Si7"
+    },
+    {
+      "album": {
+        "name": "Kuwe",
+        "url": "https://open.spotify.com/album/5YbBn1xcNmmwChPYNppBiH"
+      },
+      "artists": [
+        {
+          "name": "Wanitwa Mos",
+          "url": "https://open.spotify.com/artist/2iN5MhOgkenO5FtkPtEVAF"
+        },
+        {
+          "name": "Sir Trill",
+          "url": "https://open.spotify.com/artist/4QkKUb73NVonTlAZaShsuY"
+        },
+        {
+          "name": "Nkosazana Daughter",
+          "url": "https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66"
+        },
+        {
+          "name": "Master KG",
+          "url": "https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311178,
+      "name": "Kuwe",
+      "url": "https://open.spotify.com/track/7FNsLSsnXwRFD4nA4V2Low"
     },
     {
       "album": {
@@ -14365,7 +14395,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-20",
       "duration_ms": 367547,
       "name": "VALLA 2.0",
       "url": "https://open.spotify.com/track/73Ltmaj8pZ8sDjx5FZmylL"

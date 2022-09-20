@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,331 songs - 3 day 20 hr 24 min - [published](https://open.spotify.com/playlist/6qGVoi3AOthCREwmGSToWA)
+1,332 songs - 3 day 20 hr 26 min - [published](https://open.spotify.com/playlist/6qGVoi3AOthCREwmGSToWA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -400,6 +400,7 @@
 | [Find Love](https://open.spotify.com/track/66pEdOGifHT8X8XuVAiZYe) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [Find Love](https://open.spotify.com/album/7uHvh59YtuC9u0Tb2tEhd8) | 4:24 | 2020-04-22 | 2022-04-19 |
 | [Find Our Way \- Night Drive Edit](https://open.spotify.com/track/49rrPHxp0944ZLgAi7XfY8) | [Midnight Kids](https://open.spotify.com/artist/5w39eY1aNDybnDGTNgVt3r), [klei](https://open.spotify.com/artist/04Tq9kLCxG1auw8xfUD4Mp) | [Find Our Way \(Remixes\)](https://open.spotify.com/album/1bS00A1F8wIRrIQKnXaAto) | 3:39 | 2020-03-16 | 2020-10-09 |
 | [Fingerprint](https://open.spotify.com/track/7ixuc4KOSHm0BsrwsRLM3i) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [Fingerprint](https://open.spotify.com/album/6EMOjKnKvgPQrHZjFMRFfM) | 6:44 | 2020-05-18 | 2020-07-03 |
+| [Finish Line](https://open.spotify.com/track/1kJrbr22WU1Sa8NIc4KbBh) | [Alex Keeper](https://open.spotify.com/artist/4hxy6gamr697jKBPSmHcpB), [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na) | [Finish Line](https://open.spotify.com/album/6hfpXk9r3ehlaHmRfs6yDY) | 2:46 | 2022-09-09 |  |
 | [Finnis](https://open.spotify.com/track/5KdJI8rtEmPGGvOrbWQKbN) | [PYFER](https://open.spotify.com/artist/0BkJ9NocSp5F1U7ODnW687) | [Arkade Destinations Tulum](https://open.spotify.com/album/3wIq5okaszSGMxYv4zlzyR) | 5:02 | 2020-03-17 | 2020-10-24 |
 | [Firefly](https://open.spotify.com/track/4fCcieEzqWWc8DfeH6JOuy) | [RÆVE](https://open.spotify.com/artist/0D7x3wBw42v14YOGt34Jaz) | [Firefly](https://open.spotify.com/album/3AzRFVIxYokaX39BvP3w8W) | 3:28 | 2020-05-18 | 2020-07-03 |
 | [Fireproof \- Embody Remix](https://open.spotify.com/track/0ZNkenDGP8wVlnEwfiBJYO) | [Coleman Hell](https://open.spotify.com/artist/3q9nybxzbSHsesDBHUlP4c), [Embody](https://open.spotify.com/artist/0e7jcv95x5MTycydtfg6wv) | [Fireproof \(Embody Remix\)](https://open.spotify.com/album/1zXqUomsQOpXwrfqIts29c) | 3:04 | 2020-05-18 | 2021-01-11 |
@@ -1075,7 +1076,7 @@
 | [Something Was Real](https://open.spotify.com/track/7HXqYIF5kMN1XY52GWQKrZ) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Something Was Real](https://open.spotify.com/album/282285H5zzpms9M3Bwg0c1) | 3:42 | 2020-08-06 |  |
 | [Something, Everything](https://open.spotify.com/track/1QBCsA9ilCqLm7BcWRxqT5) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Richard Walters](https://open.spotify.com/artist/3rUqgY188kWz0hKkqnpk9F) | [Something, Everything](https://open.spotify.com/album/5o3crBnx8Z0JyXQ0rI8OE3) | 5:17 | 2021-03-14 | 2022-08-27 |
 | [Sometime \(feat\. Owl Eyes\)](https://open.spotify.com/track/36fM9efnGh85CtaXe6frd4) | [LO'99](https://open.spotify.com/artist/1kk6o5FDlujcgz2d2iFXKy), [Owl Eyes](https://open.spotify.com/artist/3it7AeHVfXdby9tbwEwE3f) | [Sometime \(feat\. Owl Eyes\)](https://open.spotify.com/album/2kUuUnx2Oxel35bU3xtUVU) | 3:20 | 2020-03-16 | 2022-04-19 |
-| [sometimes it’s scary but it’s still just you and me \- Edit](https://open.spotify.com/track/6S52u11MvLNy9qp8Ju1unG) | [Leaving Laurel](https://open.spotify.com/artist/2Tz2klWNZNGyvOMr8gT98t) | [sometimes it’s scary but it’s still just you and me / Need Little, Want Less](https://open.spotify.com/album/5zlNx3reLlXQj3m05Z5aAI) | 4:07 | 2020-03-21 |  |
+| [sometimes it’s scary but it’s still just you and me \- Edit](https://open.spotify.com/track/6S52u11MvLNy9qp8Ju1unG) | [Leaving Laurel](https://open.spotify.com/artist/2Tz2klWNZNGyvOMr8gT98t) | [sometimes it’s scary but it’s still just you and me / Need Little, Want Less](https://open.spotify.com/album/5zlNx3reLlXQj3m05Z5aAI) | 4:07 | 2020-03-21 | 2022-09-20 |
 | [Sonder](https://open.spotify.com/track/2wynpXzuXf6Cvf2MqHYA9Z) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [More Content](https://open.spotify.com/album/3Sl6q9q5oRkU5fD3V9SNyQ) | 3:01 | 2022-06-24 |  |
 | [Soul Spiral](https://open.spotify.com/track/3Do9fwtLWSCvcGJgq7PXUB) | [Durante](https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh) | [Soul Spiral](https://open.spotify.com/album/0lbxOCslIA34Ll8uiN2PH1) | 3:36 | 2022-04-15 | 2022-07-29 |
 | [Soweto](https://open.spotify.com/track/4WofBAFHcHd87y92Azllpm) | [Michael Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Shirazee](https://open.spotify.com/artist/3yZDwFnQlK2pgG8hu5knnu) | [Soweto](https://open.spotify.com/album/58r0dOmMRQvBNeuXKLoVbd) | 3:04 | 2020-05-18 | 2020-07-18 |

@@ -1,12 +1,12 @@
 {
   "description": "Descubre hoy a los artistas de ma\u00f1ana. Foto: Marmi",
-  "num_followers": 19535,
+  "num_followers": 19541,
   "original_name": "Radar Espa\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMyMDgxNiwwMDAwMDAwMDIyODYyNTVmZTdjMjI3NmRlMTJkM2ZiN2FjMWMxMDIz",
+  "snapshot_id": "MTY2MzMyMDgxNiwwMDAwMDAwMGRhYmIyNzM3MDMyM2NlZGRlYWNmYjBjNWNlNTRkNzY0",
   "tracks": [
     {
       "added_at": "2022-09-16 09:33:36",
@@ -127,22 +127,6 @@
     {
       "added_at": "2022-09-16 09:33:36",
       "album": {
-        "name": "Entre Tejados",
-        "url": "https://open.spotify.com/album/0LmAWZNlPluZIv6LUjPcdA"
-      },
-      "artists": [
-        {
-          "name": "Samura\u00ef",
-          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
-        }
-      ],
-      "duration_ms": 170639,
-      "name": "Entre Tejados",
-      "url": "https://open.spotify.com/track/2l9l2sUyStglyl5nsJ2lde"
-    },
-    {
-      "added_at": "2022-09-16 09:33:36",
-      "album": {
         "name": "Estaba Claro",
         "url": "https://open.spotify.com/album/5m0uBpLcelWpmifp4LteUu"
       },
@@ -159,6 +143,54 @@
       "duration_ms": 146375,
       "name": "Estaba Claro",
       "url": "https://open.spotify.com/track/5psmMQiputcntcZXslMboK"
+    },
+    {
+      "added_at": "2022-09-16 09:33:36",
+      "album": {
+        "name": "Ansiedad",
+        "url": "https://open.spotify.com/album/4jzP7NAgCO7zqDIdZsTnzs"
+      },
+      "artists": [
+        {
+          "name": "Ginebras",
+          "url": "https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva"
+        }
+      ],
+      "duration_ms": 178274,
+      "name": "Ansiedad",
+      "url": "https://open.spotify.com/track/2hswWjOIbxumXz63x796xi"
+    },
+    {
+      "added_at": "2022-09-16 09:33:36",
+      "album": {
+        "name": "Entre Tejados",
+        "url": "https://open.spotify.com/album/0LmAWZNlPluZIv6LUjPcdA"
+      },
+      "artists": [
+        {
+          "name": "Samura\u00ef",
+          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
+        }
+      ],
+      "duration_ms": 170639,
+      "name": "Entre Tejados",
+      "url": "https://open.spotify.com/track/2l9l2sUyStglyl5nsJ2lde"
+    },
+    {
+      "added_at": "2022-09-16 09:33:36",
+      "album": {
+        "name": "cuando anochece",
+        "url": "https://open.spotify.com/album/5UZve9ov6A3UcmR8IdgxIH"
+      },
+      "artists": [
+        {
+          "name": "Gala Nell",
+          "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
+        }
+      ],
+      "duration_ms": 185553,
+      "name": "cuando anochece",
+      "url": "https://open.spotify.com/track/5vK8ILrHjXjdZJHp0AtEVJ"
     },
     {
       "added_at": "2022-09-16 09:33:36",
@@ -199,18 +231,18 @@
     {
       "added_at": "2022-09-16 09:33:36",
       "album": {
-        "name": "Ansiedad",
-        "url": "https://open.spotify.com/album/4jzP7NAgCO7zqDIdZsTnzs"
+        "name": "la pesta\u00f1a que sopl\u00e9",
+        "url": "https://open.spotify.com/album/6amoBQ1iiJHtrnjvwcKG7r"
       },
       "artists": [
         {
-          "name": "Ginebras",
-          "url": "https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva"
+          "name": "Judeline",
+          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
         }
       ],
-      "duration_ms": 178274,
-      "name": "Ansiedad",
-      "url": "https://open.spotify.com/track/2hswWjOIbxumXz63x796xi"
+      "duration_ms": 140823,
+      "name": "la pesta\u00f1a que sopl\u00e9",
+      "url": "https://open.spotify.com/track/6OABmkT3sMp0rDSsbMt9wT"
     },
     {
       "added_at": "2022-09-16 09:33:36",
@@ -231,38 +263,6 @@
     {
       "added_at": "2022-09-16 09:33:36",
       "album": {
-        "name": "cuando anochece",
-        "url": "https://open.spotify.com/album/5UZve9ov6A3UcmR8IdgxIH"
-      },
-      "artists": [
-        {
-          "name": "Gala Nell",
-          "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
-        }
-      ],
-      "duration_ms": 185553,
-      "name": "cuando anochece",
-      "url": "https://open.spotify.com/track/5vK8ILrHjXjdZJHp0AtEVJ"
-    },
-    {
-      "added_at": "2022-09-16 09:33:36",
-      "album": {
-        "name": "la pesta\u00f1a que sopl\u00e9",
-        "url": "https://open.spotify.com/album/6amoBQ1iiJHtrnjvwcKG7r"
-      },
-      "artists": [
-        {
-          "name": "Judeline",
-          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
-        }
-      ],
-      "duration_ms": 140823,
-      "name": "la pesta\u00f1a que sopl\u00e9",
-      "url": "https://open.spotify.com/track/6OABmkT3sMp0rDSsbMt9wT"
-    },
-    {
-      "added_at": "2022-09-16 09:33:36",
-      "album": {
         "name": "Mientras Ando",
         "url": "https://open.spotify.com/album/2aUAwTRu9AWdC5SjZUk7bN"
       },
@@ -279,6 +279,26 @@
       "duration_ms": 198000,
       "name": "Me lo kiero imaginar",
       "url": "https://open.spotify.com/track/155nd0V88H2vMmRXiXsaS9"
+    },
+    {
+      "added_at": "2022-09-16 09:33:36",
+      "album": {
+        "name": "No Llores (feat. Alice Wonder)",
+        "url": "https://open.spotify.com/album/2NlrMp7I85XX6HdkFJmJBM"
+      },
+      "artists": [
+        {
+          "name": "Xavibo",
+          "url": "https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7"
+        },
+        {
+          "name": "Alice Wonder",
+          "url": "https://open.spotify.com/artist/0SquRSkIJbzPqCUxG2EZMi"
+        }
+      ],
+      "duration_ms": 218119,
+      "name": "No Llores (feat. Alice Wonder)",
+      "url": "https://open.spotify.com/track/78LUKLAVTjqQEf7f6b0PXg"
     },
     {
       "added_at": "2022-09-16 09:33:36",
@@ -315,42 +335,18 @@
     {
       "added_at": "2022-09-16 09:33:36",
       "album": {
-        "name": "La Culpable",
-        "url": "https://open.spotify.com/album/2Y6N9ppYwNo0abI6HYplWp"
+        "name": "EN EL CIELO",
+        "url": "https://open.spotify.com/album/4oCebXxwYF98fWjsgn7IpW"
       },
       "artists": [
         {
-          "name": "Camin",
-          "url": "https://open.spotify.com/artist/3qndygm4Vx7bEW8tNyDKSY"
-        },
-        {
-          "name": "David Marley",
-          "url": "https://open.spotify.com/artist/09ryxLeU3mzmubZtcyDGdA"
+          "name": "Judeline",
+          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
         }
       ],
-      "duration_ms": 197052,
-      "name": "La Culpable",
-      "url": "https://open.spotify.com/track/4eFP7SuZV8imjCMWQIKRnU"
-    },
-    {
-      "added_at": "2022-09-16 09:33:36",
-      "album": {
-        "name": "No Llores (feat. Alice Wonder)",
-        "url": "https://open.spotify.com/album/2NlrMp7I85XX6HdkFJmJBM"
-      },
-      "artists": [
-        {
-          "name": "Xavibo",
-          "url": "https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7"
-        },
-        {
-          "name": "Alice Wonder",
-          "url": "https://open.spotify.com/artist/0SquRSkIJbzPqCUxG2EZMi"
-        }
-      ],
-      "duration_ms": 218119,
-      "name": "No Llores (feat. Alice Wonder)",
-      "url": "https://open.spotify.com/track/78LUKLAVTjqQEf7f6b0PXg"
+      "duration_ms": 148915,
+      "name": "EN EL CIELO",
+      "url": "https://open.spotify.com/track/0O8ysXWS3wBFbl1SE5qb8C"
     },
     {
       "added_at": "2022-09-16 09:33:36",
@@ -371,50 +367,22 @@
     {
       "added_at": "2022-09-16 09:33:36",
       "album": {
-        "name": "me gustas mas que un bigmac",
-        "url": "https://open.spotify.com/album/6c9lbnKP3L3RmrfJemWdvq"
+        "name": "La Culpable",
+        "url": "https://open.spotify.com/album/2Y6N9ppYwNo0abI6HYplWp"
       },
       "artists": [
         {
-          "name": "Mafalda",
-          "url": "https://open.spotify.com/artist/2YgYz3EyTUJ5h3n5XThtzt"
-        }
-      ],
-      "duration_ms": 199537,
-      "name": "me gustas mas que un bigmac",
-      "url": "https://open.spotify.com/track/6y669iBVOzMyNG5MfXDMTY"
-    },
-    {
-      "added_at": "2022-09-16 09:33:36",
-      "album": {
-        "name": "un poco m\u00e1s",
-        "url": "https://open.spotify.com/album/5b1U3awRVijau7faHNtnxJ"
-      },
-      "artists": [
+          "name": "Camin",
+          "url": "https://open.spotify.com/artist/3qndygm4Vx7bEW8tNyDKSY"
+        },
         {
-          "name": "daniel sabater",
-          "url": "https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN"
+          "name": "David Marley",
+          "url": "https://open.spotify.com/artist/09ryxLeU3mzmubZtcyDGdA"
         }
       ],
-      "duration_ms": 138741,
-      "name": "un poco m\u00e1s",
-      "url": "https://open.spotify.com/track/1WFmdhHDXQT3xS1kMzuQNC"
-    },
-    {
-      "added_at": "2022-09-16 09:33:36",
-      "album": {
-        "name": "EN EL CIELO",
-        "url": "https://open.spotify.com/album/4oCebXxwYF98fWjsgn7IpW"
-      },
-      "artists": [
-        {
-          "name": "Judeline",
-          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
-        }
-      ],
-      "duration_ms": 148915,
-      "name": "EN EL CIELO",
-      "url": "https://open.spotify.com/track/0O8ysXWS3wBFbl1SE5qb8C"
+      "duration_ms": 197052,
+      "name": "La Culpable",
+      "url": "https://open.spotify.com/track/4eFP7SuZV8imjCMWQIKRnU"
     },
     {
       "added_at": "2022-09-16 09:33:36",
@@ -435,6 +403,22 @@
     {
       "added_at": "2022-09-16 09:33:36",
       "album": {
+        "name": "me gustas mas que un bigmac",
+        "url": "https://open.spotify.com/album/6c9lbnKP3L3RmrfJemWdvq"
+      },
+      "artists": [
+        {
+          "name": "Mafalda",
+          "url": "https://open.spotify.com/artist/2YgYz3EyTUJ5h3n5XThtzt"
+        }
+      ],
+      "duration_ms": 199537,
+      "name": "me gustas mas que un bigmac",
+      "url": "https://open.spotify.com/track/6y669iBVOzMyNG5MfXDMTY"
+    },
+    {
+      "added_at": "2022-09-16 09:33:36",
+      "album": {
         "name": "A Contraluz",
         "url": "https://open.spotify.com/album/5VlLEWKCcPDWAJecwDeZE9"
       },
@@ -451,6 +435,42 @@
       "duration_ms": 187130,
       "name": "A Contraluz",
       "url": "https://open.spotify.com/track/5go70LzuMiSpKWlLn1SzVj"
+    },
+    {
+      "added_at": "2022-09-16 09:33:36",
+      "album": {
+        "name": "Ego\u00edsta",
+        "url": "https://open.spotify.com/album/61lzWKauyC2ZF67goSk5Mu"
+      },
+      "artists": [
+        {
+          "name": "Sebasti\u00e1n Cort\u00e9s",
+          "url": "https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9"
+        }
+      ],
+      "duration_ms": 199148,
+      "name": "Ego\u00edsta",
+      "url": "https://open.spotify.com/track/0xMR5hNDMuCAlpAfHc3iwD"
+    },
+    {
+      "added_at": "2022-09-16 09:33:36",
+      "album": {
+        "name": "ya se me pasar\u00e1",
+        "url": "https://open.spotify.com/album/4UdbepeAR4DDMLWR08MBxr"
+      },
+      "artists": [
+        {
+          "name": "daniel sabater",
+          "url": "https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN"
+        },
+        {
+          "name": "Marco Mares",
+          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
+        }
+      ],
+      "duration_ms": 167000,
+      "name": "de qu\u00e9 sirve?",
+      "url": "https://open.spotify.com/track/3BCAKTSfkvfBeWyK21BD37"
     },
     {
       "added_at": "2022-09-16 09:33:36",
@@ -483,22 +503,6 @@
       "duration_ms": 192768,
       "name": "Malos H\u00e1bitos",
       "url": "https://open.spotify.com/track/0RifTE9442lVRpBz7NSzjL"
-    },
-    {
-      "added_at": "2022-09-16 09:33:36",
-      "album": {
-        "name": "Ego\u00edsta",
-        "url": "https://open.spotify.com/album/61lzWKauyC2ZF67goSk5Mu"
-      },
-      "artists": [
-        {
-          "name": "Sebasti\u00e1n Cort\u00e9s",
-          "url": "https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9"
-        }
-      ],
-      "duration_ms": 199148,
-      "name": "Ego\u00edsta",
-      "url": "https://open.spotify.com/track/0xMR5hNDMuCAlpAfHc3iwD"
     },
     {
       "added_at": "2022-09-16 09:33:36",
@@ -559,26 +563,6 @@
     {
       "added_at": "2022-09-16 09:33:36",
       "album": {
-        "name": "ya se me pasar\u00e1",
-        "url": "https://open.spotify.com/album/4UdbepeAR4DDMLWR08MBxr"
-      },
-      "artists": [
-        {
-          "name": "daniel sabater",
-          "url": "https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN"
-        },
-        {
-          "name": "Marco Mares",
-          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
-        }
-      ],
-      "duration_ms": 167000,
-      "name": "de qu\u00e9 sirve?",
-      "url": "https://open.spotify.com/track/3BCAKTSfkvfBeWyK21BD37"
-    },
-    {
-      "added_at": "2022-09-16 09:33:36",
-      "album": {
         "name": "Dunas",
         "url": "https://open.spotify.com/album/2QJCNYbQjm27rhgM2LIwSK"
       },
@@ -619,6 +603,22 @@
     {
       "added_at": "2022-09-16 09:33:36",
       "album": {
+        "name": "un poco s\u00ed...",
+        "url": "https://open.spotify.com/album/3QR37dZ8Zkmx7ZWU4mCUKD"
+      },
+      "artists": [
+        {
+          "name": "vangoura",
+          "url": "https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g"
+        }
+      ],
+      "duration_ms": 179076,
+      "name": "un poco s\u00ed...",
+      "url": "https://open.spotify.com/track/4kQqIsLQk19AIeuGdIeibl"
+    },
+    {
+      "added_at": "2022-09-16 09:33:36",
+      "album": {
         "name": "Disneyland Paris",
         "url": "https://open.spotify.com/album/1nl8pRMZ9d59YWbNyrzanG"
       },
@@ -655,54 +655,6 @@
     {
       "added_at": "2022-09-16 09:33:36",
       "album": {
-        "name": "un poco s\u00ed...",
-        "url": "https://open.spotify.com/album/3QR37dZ8Zkmx7ZWU4mCUKD"
-      },
-      "artists": [
-        {
-          "name": "vangoura",
-          "url": "https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g"
-        }
-      ],
-      "duration_ms": 179076,
-      "name": "un poco s\u00ed...",
-      "url": "https://open.spotify.com/track/4kQqIsLQk19AIeuGdIeibl"
-    },
-    {
-      "added_at": "2022-09-16 09:33:36",
-      "album": {
-        "name": "canci\u00f3n de amor",
-        "url": "https://open.spotify.com/album/4Gv5KVGBNzwMikrM6bOLBV"
-      },
-      "artists": [
-        {
-          "name": "daniel sabater",
-          "url": "https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN"
-        }
-      ],
-      "duration_ms": 177002,
-      "name": "canci\u00f3n de amor",
-      "url": "https://open.spotify.com/track/16ZMVvoC20S1ehGOOxYxkg"
-    },
-    {
-      "added_at": "2022-09-16 09:33:36",
-      "album": {
-        "name": "Soy Un Desastre",
-        "url": "https://open.spotify.com/album/4HDJZRVlFfApsf6QqwOBnp"
-      },
-      "artists": [
-        {
-          "name": "Paloma Roll\u00e1n",
-          "url": "https://open.spotify.com/artist/3qhKqJ5hDR26yN6Q1cdSp7"
-        }
-      ],
-      "duration_ms": 174623,
-      "name": "Soy Un Desastre",
-      "url": "https://open.spotify.com/track/6BT3cBhFz6wNlCAyY2bAnr"
-    },
-    {
-      "added_at": "2022-09-16 09:33:36",
-      "album": {
         "name": "Sol de Ayer",
         "url": "https://open.spotify.com/album/4vJaartlG3Oor3hWN425eA"
       },
@@ -731,6 +683,22 @@
       "duration_ms": 201290,
       "name": "De Cero",
       "url": "https://open.spotify.com/track/5r8IK44DM54gjzDxEuz9M2"
+    },
+    {
+      "added_at": "2022-09-16 09:33:36",
+      "album": {
+        "name": "Soy Un Desastre",
+        "url": "https://open.spotify.com/album/4HDJZRVlFfApsf6QqwOBnp"
+      },
+      "artists": [
+        {
+          "name": "Paloma Roll\u00e1n",
+          "url": "https://open.spotify.com/artist/3qhKqJ5hDR26yN6Q1cdSp7"
+        }
+      ],
+      "duration_ms": 174623,
+      "name": "Soy Un Desastre",
+      "url": "https://open.spotify.com/track/6BT3cBhFz6wNlCAyY2bAnr"
     },
     {
       "added_at": "2022-09-16 09:33:36",
@@ -843,6 +811,22 @@
     {
       "added_at": "2022-09-16 09:33:36",
       "album": {
+        "name": "ya se me pasar\u00e1",
+        "url": "https://open.spotify.com/album/4UdbepeAR4DDMLWR08MBxr"
+      },
+      "artists": [
+        {
+          "name": "daniel sabater",
+          "url": "https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN"
+        }
+      ],
+      "duration_ms": 177002,
+      "name": "canci\u00f3n de amor",
+      "url": "https://open.spotify.com/track/75eyMHltJQARx2mxQTN81J"
+    },
+    {
+      "added_at": "2022-09-16 09:33:36",
+      "album": {
         "name": "La Lluvia",
         "url": "https://open.spotify.com/album/0WL9vGpQb9rw1coTXvz6o0"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 202126,
       "name": "Ojal\u00e1 Fu\u00e9ramos Amigos (Buffetlibre Remix)",
       "url": "https://open.spotify.com/track/5j6eTIKDiwc8r0LN3lFMSB"
+    },
+    {
+      "added_at": "2022-09-16 09:33:36",
+      "album": {
+        "name": "ya se me pasar\u00e1",
+        "url": "https://open.spotify.com/album/4UdbepeAR4DDMLWR08MBxr"
+      },
+      "artists": [
+        {
+          "name": "daniel sabater",
+          "url": "https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN"
+        }
+      ],
+      "duration_ms": 138742,
+      "name": "un poco m\u00e1s",
+      "url": "https://open.spotify.com/track/6LKZFDMdW2I59hv7jA5UOV"
     }
   ],
   "unique_name": "Radar Espa\u00f1a",

@@ -1,12 +1,12 @@
 {
   "description": "Productores latinos underground para bailar con aud\u00edfonos.",
-  "num_followers": 120445,
+  "num_followers": 120451,
   "original_name": "Escena Electr\u00f3nica Experimental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjM1MTU1NSwwMDAwMDAwMGRjMGNiZTU4NDlkZDlhNmEyYjhhYWVlMzZmMTNlMjc4",
+  "snapshot_id": "MTY2MjM1MTU1NSwwMDAwMDAwMGVmZTgyMGExYWEzNmVlNmJmYTAyM2IyMGY1OGEyN2Ew",
   "tracks": [
     {
       "added_at": "2022-08-18 23:29:09",
@@ -123,26 +123,6 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "Estaci\u00f3n Esperanza",
-        "url": "https://open.spotify.com/album/64q41JtvnThaB2VaVrqfpQ"
-      },
-      "artists": [
-        {
-          "name": "Sofia Kourtesis",
-          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
-        },
-        {
-          "name": "Manu Chao",
-          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
-        }
-      ],
-      "duration_ms": 316721,
-      "name": "Estaci\u00f3n Esperanza",
-      "url": "https://open.spotify.com/track/1jGkLUJCl46NmXIM6rUghn"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
         "name": "Nuestra Forma",
         "url": "https://open.spotify.com/album/1Vr6Mf9IkYR5GEwjLyfxMq"
       },
@@ -159,6 +139,26 @@
       "duration_ms": 347073,
       "name": "No Puedo Funcionar",
       "url": "https://open.spotify.com/track/5ovjlgDlwy3fDfAWDh1Pki"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
+        "name": "Estaci\u00f3n Esperanza",
+        "url": "https://open.spotify.com/album/64q41JtvnThaB2VaVrqfpQ"
+      },
+      "artists": [
+        {
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+        },
+        {
+          "name": "Manu Chao",
+          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
+        }
+      ],
+      "duration_ms": 316721,
+      "name": "Estaci\u00f3n Esperanza",
+      "url": "https://open.spotify.com/track/1jGkLUJCl46NmXIM6rUghn"
     },
     {
       "added_at": "2022-08-18 23:29:09",
@@ -251,6 +251,22 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
+        "name": "Sarita Colonia",
+        "url": "https://open.spotify.com/album/0ku4piLs17h4xD7e92FEf6"
+      },
+      "artists": [
+        {
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+        }
+      ],
+      "duration_ms": 227317,
+      "name": "Sarita Colonia - Edit",
+      "url": "https://open.spotify.com/track/0VNtKhOQZConLZc1GjQckk"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
         "name": "Individuality Riddim",
         "url": "https://open.spotify.com/album/2QQ714tuWG924CXN9H150s"
       },
@@ -287,18 +303,18 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "Sarita Colonia",
-        "url": "https://open.spotify.com/album/0ku4piLs17h4xD7e92FEf6"
+        "name": "Minena",
+        "url": "https://open.spotify.com/album/0IWOooqWyw1lf5xqYGGs3H"
       },
       "artists": [
         {
-          "name": "Sofia Kourtesis",
-          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+          "name": "Ranma Entero",
+          "url": "https://open.spotify.com/artist/779eiS92bExNWIAWxmiWIB"
         }
       ],
-      "duration_ms": 227317,
-      "name": "Sarita Colonia - Edit",
-      "url": "https://open.spotify.com/track/0VNtKhOQZConLZc1GjQckk"
+      "duration_ms": 275574,
+      "name": "Minena",
+      "url": "https://open.spotify.com/track/4yvUIVFjmNJL7nrb0irmBa"
     },
     {
       "added_at": "2022-08-18 23:29:09",
@@ -315,22 +331,6 @@
       "duration_ms": 329596,
       "name": "Cheve",
       "url": "https://open.spotify.com/track/16f4s3WLYMbCtIVlyaqO89"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
-        "name": "Minena",
-        "url": "https://open.spotify.com/album/0IWOooqWyw1lf5xqYGGs3H"
-      },
-      "artists": [
-        {
-          "name": "Ranma Entero",
-          "url": "https://open.spotify.com/artist/779eiS92bExNWIAWxmiWIB"
-        }
-      ],
-      "duration_ms": 275574,
-      "name": "Minena",
-      "url": "https://open.spotify.com/track/4yvUIVFjmNJL7nrb0irmBa"
     },
     {
       "added_at": "2022-08-18 23:29:09",
@@ -411,22 +411,6 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "Mexico Trance",
-        "url": "https://open.spotify.com/album/7AJ6vYLnEU0O6yzO6fvJIZ"
-      },
-      "artists": [
-        {
-          "name": "I\u00f1igo Vontier",
-          "url": "https://open.spotify.com/artist/46102Rmv7OVlBvNRnH3fj2"
-        }
-      ],
-      "duration_ms": 415000,
-      "name": "Mexico Trance",
-      "url": "https://open.spotify.com/track/4yg5djr9I1rhJZAXUxZIg4"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
         "name": "Mexican Superstar",
         "url": "https://open.spotify.com/album/4lSJuFFlo7MEKtpLCBXW14"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 237000,
       "name": "Mexican Superstar",
       "url": "https://open.spotify.com/track/71twNlaatmLS7noNHrjNlZ"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
+        "name": "Mexico Trance",
+        "url": "https://open.spotify.com/album/7AJ6vYLnEU0O6yzO6fvJIZ"
+      },
+      "artists": [
+        {
+          "name": "I\u00f1igo Vontier",
+          "url": "https://open.spotify.com/artist/46102Rmv7OVlBvNRnH3fj2"
+        }
+      ],
+      "duration_ms": 415000,
+      "name": "Mexico Trance",
+      "url": "https://open.spotify.com/track/4yg5djr9I1rhJZAXUxZIg4"
     },
     {
       "added_at": "2022-08-18 23:29:09",
@@ -607,22 +607,6 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "Give It To The Music",
-        "url": "https://open.spotify.com/album/7KNJCJsDEnAdLt9WbJD0Th"
-      },
-      "artists": [
-        {
-          "name": "Nortec: Bostich + Fussible",
-          "url": "https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg"
-        }
-      ],
-      "duration_ms": 294250,
-      "name": "Give It To The Music",
-      "url": "https://open.spotify.com/track/4lzBK0eegI0rCCEIPg0sVI"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
         "name": "Fiebre",
         "url": "https://open.spotify.com/album/6y2lryBMGXmaZ8CxuHfOXj"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 267008,
       "name": "Fiebre",
       "url": "https://open.spotify.com/track/00PyNFoOwrk0Aw3O7qU2kh"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
+        "name": "Give It To The Music",
+        "url": "https://open.spotify.com/album/7KNJCJsDEnAdLt9WbJD0Th"
+      },
+      "artists": [
+        {
+          "name": "Nortec: Bostich + Fussible",
+          "url": "https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg"
+        }
+      ],
+      "duration_ms": 294250,
+      "name": "Give It To The Music",
+      "url": "https://open.spotify.com/track/4lzBK0eegI0rCCEIPg0sVI"
     },
     {
       "added_at": "2022-08-18 23:29:09",
@@ -775,22 +775,6 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "Mala Hierba",
-        "url": "https://open.spotify.com/album/2gUpydA3UPgqBkpjGbCCOy"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda y Jos\u00e9",
-          "url": "https://open.spotify.com/artist/6DsIWcjlRh4a01ig2mutYX"
-        }
-      ],
-      "duration_ms": 215111,
-      "name": "Mala Hierba",
-      "url": "https://open.spotify.com/track/1QjfhdsjAMgXKR78X7NUXr"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
         "name": "Pebbles Mind Horrors",
         "url": "https://open.spotify.com/album/2IwGCkhGFRnn0ojOZRyESl"
       },
@@ -815,6 +799,38 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
+        "name": "Mala Hierba",
+        "url": "https://open.spotify.com/album/2gUpydA3UPgqBkpjGbCCOy"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda y Jos\u00e9",
+          "url": "https://open.spotify.com/artist/6DsIWcjlRh4a01ig2mutYX"
+        }
+      ],
+      "duration_ms": 215111,
+      "name": "Mala Hierba",
+      "url": "https://open.spotify.com/track/1QjfhdsjAMgXKR78X7NUXr"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
+        "name": "Shika Shika / Botanas",
+        "url": "https://open.spotify.com/album/0lxqfF1bXMwwH2zHxHErbO"
+      },
+      "artists": [
+        {
+          "name": "DJ Raff",
+          "url": "https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2"
+        }
+      ],
+      "duration_ms": 206815,
+      "name": "Lejos",
+      "url": "https://open.spotify.com/track/4FdJjt9xr1C8uuo8i4IxWN"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
         "name": "Tu Mirada",
         "url": "https://open.spotify.com/album/4orzCYGgSLcWCcFNS5CUbd"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 267067,
       "name": "Tu Mirada",
       "url": "https://open.spotify.com/track/2iYy3bF7epY1Phd2ovqkbU"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
-        "name": "Shika Shika / Botanas",
-        "url": "https://open.spotify.com/album/0lxqfF1bXMwwH2zHxHErbO"
-      },
-      "artists": [
-        {
-          "name": "DJ Raff",
-          "url": "https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2"
-        }
-      ],
-      "duration_ms": 206815,
-      "name": "Lejos",
-      "url": "https://open.spotify.com/track/4FdJjt9xr1C8uuo8i4IxWN"
     },
     {
       "added_at": "2022-08-18 23:29:09",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96qtxaNwhT.md) - [plain]
 
 > Soak up the serenity with these beautiful melodies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 295,974 likes - 86 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,988 likes - 86 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96qtxaNwhT.md) - [plain]
 | 8 | [Cold Nights \(feat\. Stan Walker & Larissa Lambert\)](https://open.spotify.com/track/5KyDKBcR0BEeLylGRDTCwF) | [Pacific Heights](https://open.spotify.com/artist/0Yty2T0fXIPw6hAzEGV9mK), [Stan Walker](https://open.spotify.com/artist/7fRw4ouudxR1jHgyrTIKuY), [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47) | [Cold Nights \(feat\. Stan Walker & Larissa Lambert\)](https://open.spotify.com/album/3hgBfbjG4TGdfjoqQZLjQi) | 3:06 |
 | 9 | [MEAN!](https://open.spotify.com/track/0KQRhak4Irr2CKxgQ9U6ay) | [Madeline The Person](https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY) | [MEAN!](https://open.spotify.com/album/1JX43p0bIGOMiHjdgoyAQD) | 2:23 |
 | 10 | [One Day Less](https://open.spotify.com/track/3rMbh1zLsh91EcNgu7KuPy) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [One Day Less](https://open.spotify.com/album/6btELiaRuDMZSrhu9PE2xY) | 3:27 |
-| 11 | [Letter](https://open.spotify.com/track/0mZvAO1rooF1rAGWsw7xC7) | [Meg Mac](https://open.spotify.com/artist/4faUajx9k93O56nlmpkOuz) | [Letter](https://open.spotify.com/album/26szxKU44Wwz74Kr8r6W66) | 3:09 |
+| 11 | [Letter](https://open.spotify.com/track/7KyCx9yhNre0RdV7D1ANZJ) | [Meg Mac](https://open.spotify.com/artist/4faUajx9k93O56nlmpkOuz) | [Matter of Time](https://open.spotify.com/album/2z4hLufnidbzPL3fJA9UnB) | 3:09 |
 | 12 | [last request](https://open.spotify.com/track/3e2k9IlblTs4o5cD5DrPcO) | [Neptune](https://open.spotify.com/artist/3WdDxnyyYJgYLxrLPXSVyz) | [last request](https://open.spotify.com/album/5FTXpQ9VirW7NG2Ee2gXvD) | 3:00 |
 | 13 | [swan song](https://open.spotify.com/track/4usm1GSxHP41mtvBK73QZ0) | [Victoria Canal](https://open.spotify.com/artist/2nE9x2JhbyjBVCaSnUGX3G) | [swan song](https://open.spotify.com/album/4BKr7uEHxiqnMnUO3KwNgs) | 3:40 |
 | 14 | [not my job anymore](https://open.spotify.com/track/4i7mcbkECX4kqRvfjbBGQz) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [not my job anymore](https://open.spotify.com/album/4q2D6dkCSdkkTQ8Jqvh6VI) | 3:08 |
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96qtxaNwhT.md) - [plain]
 | 36 | [Heaven](https://open.spotify.com/track/4hpGHoJuJTtAqq9pkevLp6) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Heaven](https://open.spotify.com/album/1K5R5JjqMQnT9wFFCGMGnw) | 3:14 |
 | 37 | [Jealous of Paris](https://open.spotify.com/track/3R5pd8Z7X3MxaFQphHSUaH) | [Haley Joelle](https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8) | [Jealous of Paris](https://open.spotify.com/album/6slQOvDiXKwmytNy4vKIuK) | 2:21 |
 | 38 | [Don't Fade \- Single Version](https://open.spotify.com/track/0m3hslcOQomyJh8Mz7hdrX) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Don't Fade](https://open.spotify.com/album/0z7QrHUhqM60ZPsNFzxMpx) | 3:10 |
-| 39 | [Is It Worth Being Sad](https://open.spotify.com/track/2sdqoPS2AWTS8sb3kdeBmF) | [Meg Mac](https://open.spotify.com/artist/4faUajx9k93O56nlmpkOuz) | [Is It Worth Being Sad](https://open.spotify.com/album/7L8TecVe9iFySR49sUVI4X) | 4:01 |
+| 39 | [Is It Worth Being Sad](https://open.spotify.com/track/3E1HXY3rnghNU4H9JxbK1L) | [Meg Mac](https://open.spotify.com/artist/4faUajx9k93O56nlmpkOuz) | [Matter of Time](https://open.spotify.com/album/2z4hLufnidbzPL3fJA9UnB) | 4:01 |
 | 40 | [Look Me In The Eyes](https://open.spotify.com/track/3ajvu9MpfhVuvRed1dgGvQ) | [Bella Taylor Smith](https://open.spotify.com/artist/5KZN09Gq54DniaMMM7rKCQ) | [The Anita’s Sessions](https://open.spotify.com/album/03O8JZU32YcUxjrF67yCHb) | 3:16 |
 | 41 | [It'll Be Okay](https://open.spotify.com/track/2KnLkZ3z7PO3kgVGHGqDpD) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [It'll Be Okay](https://open.spotify.com/album/3sDud6BapENewYxlL8VH8r) | 3:42 |
 | 42 | [PRETEND RAINBOW](https://open.spotify.com/track/2ChYB5eaB0HxWvXxDqASvk) | [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [PRETEND RAINBOW](https://open.spotify.com/album/1GEwRUCUUUJJahRF4Cxqfy) | 2:38 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96qtxaNwhT.md) - [plain]
 | 85 | [Winter City](https://open.spotify.com/track/6pdvuLmF736BybOwSYEXeg) | [Jack Gray](https://open.spotify.com/artist/0LvfDU74rGXrEGVWqW9rCw) | [Winter City](https://open.spotify.com/album/3MUZrFCwm6v0aUQaawLcFG) | 2:41 |
 | 86 | [Waste My Time](https://open.spotify.com/track/6VKw8mwyk1Z1bFCXy1PC6C) | [Hattie Oates](https://open.spotify.com/artist/21XMngjCd7tTpvn2ruHB6R) | [Waste My Time](https://open.spotify.com/album/15sNqB0QCpkWaTsvuYcLPs) | 4:26 |
 
-Snapshot ID: `MTY2MjY0NTYwMCwwMDAwMDAwMDAxODY1YTdmOTQwZGNkMjc1NjJkZjIwY2ZiNGQyYzNl`
+Snapshot ID: `MTY2MjY0NTYwMCwwMDAwMDAwMDk4MmJjZDdkODUxYTM3MGEyMTgxZjc2Yzc3NjI3NDk4`

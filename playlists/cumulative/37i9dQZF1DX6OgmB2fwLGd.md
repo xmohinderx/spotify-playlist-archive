@@ -4,7 +4,7 @@
 
 > The soundtrack to the internet\. Cover: JELEEL!
 
-411 songs - 17 hr 3 min - [published](https://open.spotify.com/playlist/22i2vvRs1o18fCRD821qvI)
+412 songs - 17 hr 6 min - [published](https://open.spotify.com/playlist/22i2vvRs1o18fCRD821qvI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,6 +163,7 @@
 | [GED](https://open.spotify.com/track/63T33mvThv0sZQEjTcglYx) | [Rocstaryoshi](https://open.spotify.com/artist/11wXsMzrtYLvAsaF1EfHBx) | [GED](https://open.spotify.com/album/79OuTWEfANwyDiKEYmNPgW) | 1:52 | 2022-04-14 | 2022-07-29 |
 | [Genesis](https://open.spotify.com/track/3mcV7PBgaeX9a6TWqgiNzt) | [Derek Pope](https://open.spotify.com/artist/5wWvcn0hJXPhCw9eYUody0) | [Genesis](https://open.spotify.com/album/3IAtz770qd9AW1zXDIWUNx) | 2:33 | 2022-05-27 | 2022-07-19 |
 | [Get TF Out My Face](https://open.spotify.com/track/0m0mtfrpVxsrXqgdCsURNd) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23) | [Get TF Out My Face](https://open.spotify.com/album/3EAlwCLd3mbD7cOZo1GIJv) | 2:13 | 2021-12-10 | 2021-12-27 |
+| [Giddy Up](https://open.spotify.com/track/2G0sI8JvJnccz1p22SzLde) | [Nessly](https://open.spotify.com/artist/6POMCYQE1sq1BJ8FnAvTA8) | [Still Finessin'](https://open.spotify.com/album/5o4hDlHnSv6EgaMe3f8c7q) | 2:59 | 2022-09-19 |  |
 | [Ginseng Strip 2002](https://open.spotify.com/track/79nEEoEPY2w8EXj9hjn5oc) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Lavender](https://open.spotify.com/album/09kU2R5DyHy86Ko8xXfkKK) | 2:33 | 2022-01-21 | 2022-05-21 |
 | [Go](https://open.spotify.com/track/0cNAaZbkK61jCej9BP1NoJ) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [Go](https://open.spotify.com/album/0fas0oNoInW2Y68mdaW0Gf) | 2:12 | 2021-11-27 | 2022-02-26 |
 | [GTTM](https://open.spotify.com/track/4aQzgQwLrFSY1ARcF2999k) | [ZaeHD](https://open.spotify.com/artist/2EoYP6sHWD8746sFp7z3or) | [GTTM](https://open.spotify.com/album/0135TgD7aR1sB0l1Ctx8Ic) | 2:22 | 2022-08-06 |  |
@@ -252,7 +253,7 @@
 | [MEMORIES!](https://open.spotify.com/track/27XMmSWSOXJ7eVb40tH93T) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [TROUBLED MEMORIES!](https://open.spotify.com/album/3OFuRXFkPOzEZbFp3Os28q) | 2:17 | 2021-09-13 | 2022-03-25 |
 | [MIA](https://open.spotify.com/track/4gJqfuiyXLtnjvX7lqFOBu) | [SSGKobe](https://open.spotify.com/artist/1NHCwCMqV9oNQJXl16IltL) | [Caddy](https://open.spotify.com/album/3Z17WkBq7D8FDqXW4NYlmy) | 2:01 | 2021-10-29 | 2022-04-29 |
 | [middle](https://open.spotify.com/track/2F8YuzhSMZHq1rKv3VgnRb) | [dashie](https://open.spotify.com/artist/6uQKiJZQe4rjkMF0HxIGTl) | [middle](https://open.spotify.com/album/1C8prJTb4QpG6J5Vjr9li6) | 2:22 | 2022-04-29 | 2022-07-16 |
-| [Milkshake](https://open.spotify.com/track/2SMJs5sTVXfSoVsyi3dZVJ) | [XANAKIN SKYWOK](https://open.spotify.com/artist/2YHPVKeJcX02OyeNneU5v3), [Chills](https://open.spotify.com/artist/2iGQPw6XUqFdGqAqcXihfT), [Yung Kage](https://open.spotify.com/artist/7j8MiVdcaaVpUvhkXWwYDT) | [Milkshake](https://open.spotify.com/album/6XpP7dGQxmgCqbcwXg89hN) | 2:13 | 2022-08-26 |  |
+| [Milkshake](https://open.spotify.com/track/2SMJs5sTVXfSoVsyi3dZVJ) | [XANAKIN SKYWOK](https://open.spotify.com/artist/2YHPVKeJcX02OyeNneU5v3), [Chills](https://open.spotify.com/artist/2iGQPw6XUqFdGqAqcXihfT), [Yung Kage](https://open.spotify.com/artist/7j8MiVdcaaVpUvhkXWwYDT) | [Milkshake](https://open.spotify.com/album/6XpP7dGQxmgCqbcwXg89hN) | 2:13 | 2022-08-26 | 2022-09-20 |
 | [Mine](https://open.spotify.com/track/4O1UcKLwZ92kxNTn3u0voN) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER) | [Mine](https://open.spotify.com/album/5X1ugJYc0B57rw0OnTwBKE) | 2:34 | 2022-07-22 |  |
 | [Mo Bamba](https://open.spotify.com/track/1xzBco0xcoJEDXktl7Jxrr) | [Sheck Wes](https://open.spotify.com/artist/2RDOrhPqAM4jzTRCEb19qX) | [MUDBOY](https://open.spotify.com/album/15Id9Jrqab8IwHFirdrrLp) | 3:03 | 2022-02-02 | 2022-06-29 |
 | [mondays! \(feat\. Pussy Riot\)](https://open.spotify.com/track/0QlB73ipXvoGegXQXYxcVA) | [WHOKILLEDXIX](https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3), [Pussy Riot](https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9) | [mondays! \(feat\. Pussy Riot\)](https://open.spotify.com/album/0niuG1LLB6hMKjwgyChn02) | 2:01 | 2021-10-15 | 2022-02-05 |

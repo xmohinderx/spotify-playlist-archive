@@ -4,7 +4,7 @@
 
 > This is Guns N' Roses\. The essential tracks, all in one playlist.
 
-38 songs - 3 hr 11 min - not published yet
+38 songs - 3 hr 11 min - [published](https://open.spotify.com/playlist/6Rm1BBdhbjSJ1KueLRaHyt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

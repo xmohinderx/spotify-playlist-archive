@@ -1,12 +1,12 @@
 {
   "description": "Find what's fresh & buzzing in Christian & Gospel music right here!  Cover:  We The Kingdom",
-  "num_followers": 82065,
+  "num_followers": 82075,
   "original_name": "Sing A New Song",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzY3NDg2NCwwMDAwMDAwMDcxNTZkZjNlZDExZTIxOTJjY2M4N2E1MjQ0M2JmOTRi",
+  "snapshot_id": "MTY1MzY3NDg2NCwwMDAwMDAwMGM4NDZkMTBhZDU5ZjczMmFlYWIwODYzNGFiNTM2Y2I1",
   "tracks": [
     {
       "added_at": "2022-05-27 18:07:44",
@@ -535,22 +535,6 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "Good Lord",
-        "url": "https://open.spotify.com/album/6UvRiid9Mlguj4Lt7oYfeF"
-      },
-      "artists": [
-        {
-          "name": "David Leonard",
-          "url": "https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE"
-        }
-      ],
-      "duration_ms": 199573,
-      "name": "Good Lord",
-      "url": "https://open.spotify.com/track/1Jy3KTQbhHHr7DEc72oys2"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
         "name": "This Is the Day",
         "url": "https://open.spotify.com/album/29KW3MYzgYG4RxdqXPVoP2"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 325247,
       "name": "This Is the Day",
       "url": "https://open.spotify.com/track/7irqgbDHvcg4hQwhIR260Y"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
+        "name": "Good Lord",
+        "url": "https://open.spotify.com/album/6UvRiid9Mlguj4Lt7oYfeF"
+      },
+      "artists": [
+        {
+          "name": "David Leonard",
+          "url": "https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE"
+        }
+      ],
+      "duration_ms": 199573,
+      "name": "Good Lord",
+      "url": "https://open.spotify.com/track/1Jy3KTQbhHHr7DEc72oys2"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -947,38 +947,6 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "I See Heaven On Earth",
-        "url": "https://open.spotify.com/album/3irmMXTzkzVkctuv2mMJZz"
-      },
-      "artists": [
-        {
-          "name": "Jim Sonefeld",
-          "url": "https://open.spotify.com/artist/0KNodVzuH2zoT1tglc3C9k"
-        }
-      ],
-      "duration_ms": 239335,
-      "name": "I See Heaven On Earth",
-      "url": "https://open.spotify.com/track/6Np39XMxggFHRDG8OUMEab"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
-        "name": "Secrets",
-        "url": "https://open.spotify.com/album/2Wo9jqoYH9NfVqsdvp2Vgw"
-      },
-      "artists": [
-        {
-          "name": "Rachael Nemiroff",
-          "url": "https://open.spotify.com/artist/4w2fF5b9OiQBhh6Z34rL8t"
-        }
-      ],
-      "duration_ms": 226442,
-      "name": "Secrets",
-      "url": "https://open.spotify.com/track/4GcSp6MeitSVubtS27ykaw"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
         "name": "Unexpected Roads",
         "url": "https://open.spotify.com/album/270YkGxScjMXCnszT2tEgm"
       },
@@ -991,6 +959,22 @@
       "duration_ms": 224666,
       "name": "Unexpected Roads",
       "url": "https://open.spotify.com/track/2QB144MI3R76p3KMcfPu7B"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
+        "name": "I See Heaven On Earth",
+        "url": "https://open.spotify.com/album/3irmMXTzkzVkctuv2mMJZz"
+      },
+      "artists": [
+        {
+          "name": "Jim Sonefeld",
+          "url": "https://open.spotify.com/artist/0KNodVzuH2zoT1tglc3C9k"
+        }
+      ],
+      "duration_ms": 239335,
+      "name": "I See Heaven On Earth",
+      "url": "https://open.spotify.com/track/6Np39XMxggFHRDG8OUMEab"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -1011,6 +995,22 @@
       "duration_ms": 298250,
       "name": "King of Kings",
       "url": "https://open.spotify.com/track/1XjfamozcDQ4FzhiBkUdgO"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
+        "name": "Secrets",
+        "url": "https://open.spotify.com/album/2Wo9jqoYH9NfVqsdvp2Vgw"
+      },
+      "artists": [
+        {
+          "name": "Rachael Nemiroff",
+          "url": "https://open.spotify.com/artist/4w2fF5b9OiQBhh6Z34rL8t"
+        }
+      ],
+      "duration_ms": 226442,
+      "name": "Secrets",
+      "url": "https://open.spotify.com/track/4GcSp6MeitSVubtS27ykaw"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "My King and My Defender",
-        "url": "https://open.spotify.com/album/52qXEqHIba35MnWdE4XHp1"
-      },
-      "artists": [
-        {
-          "name": "Nate Gardiner",
-          "url": "https://open.spotify.com/artist/7xXcCbR0mR4tBTJnLODynI"
-        }
-      ],
-      "duration_ms": 320981,
-      "name": "My King and My Defender",
-      "url": "https://open.spotify.com/track/1gHCQFLyvxrJPJTmRTsm7U"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
         "name": "Better View, Part II",
         "url": "https://open.spotify.com/album/6VJwdT4jWHtnhCtC7tzMNy"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 184393,
       "name": "Invited",
       "url": "https://open.spotify.com/track/4LHJUZCjDrjI7mQEbM48r3"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
+        "name": "My King and My Defender",
+        "url": "https://open.spotify.com/album/52qXEqHIba35MnWdE4XHp1"
+      },
+      "artists": [
+        {
+          "name": "Nate Gardiner",
+          "url": "https://open.spotify.com/artist/7xXcCbR0mR4tBTJnLODynI"
+        }
+      ],
+      "duration_ms": 320981,
+      "name": "My King and My Defender",
+      "url": "https://open.spotify.com/track/1gHCQFLyvxrJPJTmRTsm7U"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "I'm Open",
-        "url": "https://open.spotify.com/album/14km2XMe3pvQq2IsI9Q7dM"
-      },
-      "artists": [
-        {
-          "name": "Cecily",
-          "url": "https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT"
-        }
-      ],
-      "duration_ms": 214292,
-      "name": "I'm Open",
-      "url": "https://open.spotify.com/track/17o0aBdsS66NyCNNG8Jc6X"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
         "name": "Prepare The Way",
         "url": "https://open.spotify.com/album/5U0RfxFmopL8VCvRtsCMvQ"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 255522,
       "name": "Prepare The Way",
       "url": "https://open.spotify.com/track/6LWllzUioINd9vMcoHGep7"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
+        "name": "I'm Open",
+        "url": "https://open.spotify.com/album/14km2XMe3pvQq2IsI9Q7dM"
+      },
+      "artists": [
+        {
+          "name": "Cecily",
+          "url": "https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT"
+        }
+      ],
+      "duration_ms": 214292,
+      "name": "I'm Open",
+      "url": "https://open.spotify.com/track/17o0aBdsS66NyCNNG8Jc6X"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
+        "name": "The Lion Still Roars",
+        "url": "https://open.spotify.com/album/1DkUR3quzk0JN8tI9QlbDe"
+      },
+      "artists": [
+        {
+          "name": "Shelly E. Johnson",
+          "url": "https://open.spotify.com/artist/51ivlzD9Vuy7pi21E3FF67"
+        }
+      ],
+      "duration_ms": 279626,
+      "name": "The Lion Still Roars",
+      "url": "https://open.spotify.com/track/5zT6mPJHo9juu0gG5NKLrb"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
         "name": "I Know You Better",
         "url": "https://open.spotify.com/album/2f6XRWYjtg30AtY09KMaYm"
       },
@@ -1411,22 +1427,6 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "The Lion Still Roars",
-        "url": "https://open.spotify.com/album/1DkUR3quzk0JN8tI9QlbDe"
-      },
-      "artists": [
-        {
-          "name": "Shelly E. Johnson",
-          "url": "https://open.spotify.com/artist/51ivlzD9Vuy7pi21E3FF67"
-        }
-      ],
-      "duration_ms": 279626,
-      "name": "The Lion Still Roars",
-      "url": "https://open.spotify.com/track/5zT6mPJHo9juu0gG5NKLrb"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
         "name": "Born to Love",
         "url": "https://open.spotify.com/album/0LBm9x0GNGI68k11b8AIwY"
       },
@@ -1439,6 +1439,22 @@
       "duration_ms": 229533,
       "name": "Born to Love",
       "url": "https://open.spotify.com/track/6uaXa66iQYahdrRKN3txNP"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
+        "name": "How Can I Be Silent",
+        "url": "https://open.spotify.com/album/3GudEZtWF1vRHf1AM0hH9C"
+      },
+      "artists": [
+        {
+          "name": "Chelsea",
+          "url": "https://open.spotify.com/artist/68rhcOBBEa3q3lKZbOAd18"
+        }
+      ],
+      "duration_ms": 204050,
+      "name": "How Can I Be Silent",
+      "url": "https://open.spotify.com/track/7IgnVHqxDysutaj7txWS9U"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -1491,22 +1507,6 @@
       "duration_ms": 243155,
       "name": "Breaking Boundaries",
       "url": "https://open.spotify.com/track/2vY0q9Qys4nbtXNre1VFxR"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
-        "name": "How Can I Be Silent",
-        "url": "https://open.spotify.com/album/3GudEZtWF1vRHf1AM0hH9C"
-      },
-      "artists": [
-        {
-          "name": "Chelsea",
-          "url": "https://open.spotify.com/artist/68rhcOBBEa3q3lKZbOAd18"
-        }
-      ],
-      "duration_ms": 204050,
-      "name": "How Can I Be Silent",
-      "url": "https://open.spotify.com/track/7IgnVHqxDysutaj7txWS9U"
     },
     {
       "added_at": "2022-05-27 18:07:44",

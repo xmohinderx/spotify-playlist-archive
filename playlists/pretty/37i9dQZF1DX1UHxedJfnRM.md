@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UHxedJfnRM.md) - [plain]
 
 > Los temas más sabrosos del momento suenan aquí\. Foto: Gilberto Santa Rosa
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,200 likes - 80 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,266 likes - 80 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UHxedJfnRM.md) - [plain]
 | 40 | [Como Te Pago](https://open.spotify.com/track/4lkbBBumrQF1SDhQkqs0Y3) | [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [Como Te Pago](https://open.spotify.com/album/4wsFdlinRYh4XPvMLwSgEM) | 3:13 |
 | 41 | [Parecen Viernes](https://open.spotify.com/track/0dqfl4l45vqw2TnNrnbsy0) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [OPUS](https://open.spotify.com/album/0iSDto0c8PqIKtwrYS4lbh) | 4:28 |
 | 42 | [Amarte Es Mi Pecado](https://open.spotify.com/track/2niwYvW4SPtimr7jWAk9ke) | [Jose Carlos Garcia](https://open.spotify.com/artist/0X0GekJ2TVUTakNbRbmeh9), [Amy Gutierrez](https://open.spotify.com/artist/1jrfEx1kZc8BNPLQDC7kVR) | [Amarte Es Mi Pecado](https://open.spotify.com/album/1zCWDAa3D4bZOxHG0WTnGL) | 5:17 |
-| 43 | [Te Dejo Libre](https://open.spotify.com/track/2RFF5DiKhaHPGha0YhUtRb) | [Cielo Torres](https://open.spotify.com/artist/7AqX9JGo4WdLp5gPNSRoDJ) | [Te Dejo Libre](https://open.spotify.com/album/5Vq3L6xD3iDFJ9iCrZofxt) | 3:56 |
+| 43 | [Te Dejo Libre](https://open.spotify.com/track/4fBugAURiDBsuyDPCUaAL6) | [Cielo Torres](https://open.spotify.com/artist/7AqX9JGo4WdLp5gPNSRoDJ) | [Te Dejo Libre](https://open.spotify.com/album/3lYizfZAUZhaVDtLUM8tHk) | 3:56 |
 | 44 | [El Color de Tus Ojos](https://open.spotify.com/track/0HyN13StsSADhbAOY68PdD) | [Bembe Orquesta](https://open.spotify.com/artist/6fsXrJHIeY3ukc4xVP23cP) | [El Color de Tus Ojos](https://open.spotify.com/album/008Ys7V09mrkoKkKaxI7G0) | 4:03 |
 | 45 | [Nunca Es Suficiente](https://open.spotify.com/track/0KFJIvtAx5VfrHPcIDV5as) | [Cielo Torres](https://open.spotify.com/artist/7AqX9JGo4WdLp5gPNSRoDJ) | [Nunca Es Suficiente](https://open.spotify.com/album/6pYclaUw0Iy0vjwYPiW5Eu) | 4:32 |
 | 46 | [Me Vas a Extrañar](https://open.spotify.com/track/10OXEEbtNRaeiHeKHj25XB) | [N'Samble](https://open.spotify.com/artist/7Ksq8BTaGcbM7OgVQi3y8f) | [Me Vas a Extrañar](https://open.spotify.com/album/6KSnZY5Af92l4E1K5XjYL8) | 5:10 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UHxedJfnRM.md) - [plain]
 | 79 | [Hablame de Ti](https://open.spotify.com/track/7eCE1RHUfuYQUJEBAoIGK7) | [Farik Grippa](https://open.spotify.com/artist/00Xr47kjidyk1Kimx2Ypd2) | [Hablame de Ti](https://open.spotify.com/album/1gOzjKHK9YBiKQWz87rxhB) | 4:30 |
 | 80 | [Vamos a Escapar \- Salsa Version](https://open.spotify.com/track/1A474NyT5UKjqElE2JN6Km) | [Alvaro Rod](https://open.spotify.com/artist/5UjFDinYOVndyri7JqzcAP), [Amy Gutierrez](https://open.spotify.com/artist/1jrfEx1kZc8BNPLQDC7kVR) | [Vamos a Escapar](https://open.spotify.com/album/1QB4xPIhfndD41wrNJhXKw) | 4:34 |
 
-Snapshot ID: `MTY2MDI4MDQwMCwwMDAwMDAwMDM2ODhiNDYzNTA1NjNiZjQ4MDZmMWYxNzc5ODA0YWUx`
+Snapshot ID: `MTY2MDI4MDQwMCwwMDAwMDAwMGZmNDAyNWNmNTQ2M2FhYjU3OGVhNWFkZjNmODRhMTNi`

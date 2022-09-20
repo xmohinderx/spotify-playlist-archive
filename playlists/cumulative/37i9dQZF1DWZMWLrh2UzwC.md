@@ -4,7 +4,7 @@
 
 > The best newly released songs of the week\. Cover: BLACKPINK
 
-3,129 songs - 7 day 3 hr 54 min - [published](https://open.spotify.com/playlist/0N7RJ8Z6HROviqzRpgPKEn)
+3,130 songs - 7 day 3 hr 57 min - [published](https://open.spotify.com/playlist/0N7RJ8Z6HROviqzRpgPKEn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -703,7 +703,7 @@
 | [Divine\_Demo.wav](https://open.spotify.com/track/4SeQ08f7w1YZRTvD7GbIg6) | [Eve Alai](https://open.spotify.com/artist/6GKrJIdAimAgCZY3aTO0tZ), [Senara](https://open.spotify.com/artist/6DvmFL4FNiOHNdcuFFVeuZ) | [Divine\_Demo.wav](https://open.spotify.com/album/6c4clW6sVws7W7KtAmgLhv) | 2:33 | 2022-02-24 | 2022-03-04 |
 | [DIZZY](https://open.spotify.com/track/41jTrJllZi9kiBSmow38MK) | [BECKCOTT](https://open.spotify.com/artist/3u65JnLadJSLL5iUuR4cJz) | [DIZZY](https://open.spotify.com/album/5Utn8HdSK5a6ImNQLlO6To) | 4:04 | 2022-02-03 | 2022-02-11 |
 | [DIZZY](https://open.spotify.com/track/5c0WB921PDc4s4EpthSDJo) | [THE BLSSM](https://open.spotify.com/artist/7lq7hz0Z6rG6v9zbJRRn4K) | [DIZZY](https://open.spotify.com/album/7lFMvbDwtUZhLhVJyUu8tB) | 3:19 | 2022-02-17 | 2022-02-25 |
-| [dlma </3 \(feat\. LANY\)](https://open.spotify.com/track/4AnRQ0B1t4terWHDI98WNi) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl), [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Infinite Dream](https://open.spotify.com/album/7CY2Iv5eX7eGAOdRNHfIBr) | 3:05 | 2022-09-15 |  |
+| [dlma </3 \(feat\. LANY\)](https://open.spotify.com/track/4AnRQ0B1t4terWHDI98WNi) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl), [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Infinite Dream](https://open.spotify.com/album/7CY2Iv5eX7eGAOdRNHfIBr) | 3:06 | 2022-09-15 |  |
 | [DM](https://open.spotify.com/track/7B9W7Qsy5M2kyUNjQYIEG8) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Midnight Guest](https://open.spotify.com/album/2WT1URsANJa9zhPsqzspMR) | 3:24 | 2022-01-20 | 2022-01-28 |
 | [DNA](https://open.spotify.com/track/0DfQV2Ri0l83o7Nbzm45vQ) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [DNA](https://open.spotify.com/album/5NRiyd9eDLOnS6PuhlV5iO) | 2:57 | 2022-07-28 | 2022-08-05 |
 | [Do Do Do](https://open.spotify.com/track/7I8fKkJqpLZqJRXar0R8Rj) | [Ghaniyya ghazi](https://open.spotify.com/artist/5PIiQ7ZNG2Ij5LHNBtJhbA) | [Do Do Do](https://open.spotify.com/album/6XUJJ6Zf5ArvFvo603okbN) | 3:32 | 2022-07-07 | 2022-07-15 |
@@ -2323,7 +2323,8 @@
 | [Shower With My Clothes On](https://open.spotify.com/track/1EuCRi6fJpJykEzdpgpXVH) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Shower With My Clothes On](https://open.spotify.com/album/64E4Io1p1VcLemBmVGwFYA) | 3:04 | 2022-07-28 | 2022-08-05 |
 | [SHOWING OFF HER BODY \(with Davido\)](https://open.spotify.com/track/5xHodqknQtgokj6oO1giHb) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [SHOWING OFF HER BODY \(with Davido\)](https://open.spotify.com/album/5CgztNME0IW2ebmYmjWqUN) | 3:32 | 2022-06-23 | 2022-07-01 |
 | [SHTICKY](https://open.spotify.com/track/01XBoslQj87lB9Y2Hqae6j) | [Hullera](https://open.spotify.com/artist/2nQo9sYqeVB9Z6PzpclAUH), [DJ Ziqq](https://open.spotify.com/artist/732U6klwMbJypcaYvGkQmo), [Fuego](https://open.spotify.com/artist/7CnWVhfXRU4HM3p9ZlBaAo) | [SHTICKY](https://open.spotify.com/album/2ILLjRCMWKMzYxL3IY6w8P) | 2:33 | 2022-09-15 |  |
-| [Shut Down](https://open.spotify.com/track/0ARKW62l9uWIDYMZTUmJHF) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P) | 2:55 | 2022-09-16 |  |
+| [Shut Down](https://open.spotify.com/track/0ARKW62l9uWIDYMZTUmJHF) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P) | 2:55 | 2022-09-16 | 2022-09-20 |
+| [Shut Down](https://open.spotify.com/track/7gRFDGEzF9UkBV233yv2dc) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM) | 2:55 | 2022-09-16 |  |
 | [Shut Off The Lights](https://open.spotify.com/track/6Au9UDzjeGFen7qMEDKju7) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Shut Off The Lights](https://open.spotify.com/album/3tCwAtRvtyPDYQnKPXnJD7) | 3:07 | 2022-01-13 | 2022-01-21 |
 | [Sicily](https://open.spotify.com/track/5evK27NsYgIldEmR1CCjUA) | [Beirut](https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX) | [Artifacts](https://open.spotify.com/album/26G7PfSLTyLiIcITVl7GAK) | 3:29 | 2022-01-27 | 2022-02-04 |
 | [Side](https://open.spotify.com/track/3YNgpO4qcJ84ZGftgmysKv) | [Sean Kingston](https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr) | [Side](https://open.spotify.com/album/4AmiK3Gm7keBi59AwVL1mR) | 3:41 | 2022-08-11 | 2022-08-19 |

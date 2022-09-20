@@ -1,12 +1,12 @@
 {
   "description": "Suffering from writer's block? This collection of writerly and literature-inspired songs might help!.",
-  "num_followers": 53351,
+  "num_followers": 53345,
   "original_name": "The Writer's Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU1NTQxNDUzMiwwMDAwMDAwMDRhNDYwOGMxNjlmNDQ1Zjc3MTAzYjE0N2M4NzFhYWY3",
+  "snapshot_id": "MTU1NTQxNDUzMiwwMDAwMDAwMGQ1YzU4NjhkN2RhMjNhNWViMWQ5MmRlOTE0MWUzYTdj",
   "tracks": [
     {
       "added_at": "2018-12-10 14:56:06",
@@ -731,6 +731,22 @@
     {
       "added_at": "2018-12-10 14:56:06",
       "album": {
+        "name": "Com Lag: 2+2=5",
+        "url": "https://open.spotify.com/album/5FI5652iVfs27I7zueBt6l"
+      },
+      "artists": [
+        {
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+        }
+      ],
+      "duration_ms": 238280,
+      "name": "Paperbag Writer",
+      "url": "https://open.spotify.com/track/2VdQeSHJOxA1hk9PlOdWI9"
+    },
+    {
+      "added_at": "2018-12-10 14:56:06",
+      "album": {
         "name": "Lights",
         "url": "https://open.spotify.com/album/4oVG376KpWeBaxrKqRxVri"
       },
@@ -763,34 +779,18 @@
     {
       "added_at": "2018-12-10 14:56:06",
       "album": {
-        "name": "Com Lag: 2+2=5",
-        "url": "https://open.spotify.com/album/5FI5652iVfs27I7zueBt6l"
+        "name": "The End of History",
+        "url": "https://open.spotify.com/album/3lFILJkKAjwlUdSz4wwW4b"
       },
       "artists": [
         {
-          "name": "Radiohead",
-          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+          "name": "Fionn Regan",
+          "url": "https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy"
         }
       ],
-      "duration_ms": 238280,
-      "name": "Paperbag Writer",
-      "url": "https://open.spotify.com/track/2VdQeSHJOxA1hk9PlOdWI9"
-    },
-    {
-      "added_at": "2018-12-10 14:56:06",
-      "album": {
-        "name": "Winter Wheat",
-        "url": "https://open.spotify.com/album/28vCM0a4MYPwcTervwP7Ia"
-      },
-      "artists": [
-        {
-          "name": "John K. Samson",
-          "url": "https://open.spotify.com/artist/3oOylXJSSKnZt9xZIjikTJ"
-        }
-      ],
-      "duration_ms": 203091,
-      "name": "Postdoc Blues",
-      "url": "https://open.spotify.com/track/5l1AMUJEA43GYqxpfTyhoT"
+      "duration_ms": 181106,
+      "name": "The Underwood Typewriter",
+      "url": "https://open.spotify.com/track/2pzlZI4C3f1MSMg047bPI6"
     },
     {
       "added_at": "2018-12-10 14:56:06",

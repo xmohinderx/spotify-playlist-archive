@@ -1,12 +1,12 @@
 {
   "description": "Songs and episodes to help calm your mind, co curated by Clinical psychologist 'Sonali Gupta'.",
-  "num_followers": 53,
+  "num_followers": 98,
   "original_name": "PAUSE: Anxiety",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzI0MDY5NiwwMDAwMDAwMGViZDJlNDJmMDgzYjhkYTA0MDhhZDRiNzlkOTU0YjU3",
+  "snapshot_id": "MTY2MzI0MDY5NiwwMDAwMDAwMGQ4NmUwYzE0OTNkZThjMTdkYWU1MGY3OGEzNjNmNDE0",
   "tracks": [
     {
       "added_at": "2022-09-15 11:18:16",
@@ -139,6 +139,22 @@
     {
       "added_at": "2022-09-15 11:18:16",
       "album": {
+        "name": "Sgt. Pepper's Lonely Hearts Club Band (Remastered)",
+        "url": "https://open.spotify.com/album/6QaVfG1pHYl1z15ZxkvVDW"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 164106,
+      "name": "With A Little Help From My Friends - Remastered 2009",
+      "url": "https://open.spotify.com/track/2RnPATK99oGOZygnD2GTO6"
+    },
+    {
+      "added_at": "2022-09-15 11:18:16",
+      "album": {
         "name": "Ein neuer Tag",
         "url": "https://open.spotify.com/album/3k8hFl0PUK58om8iGsTHaD"
       },
@@ -167,22 +183,6 @@
       "duration_ms": 191647,
       "name": "One Step Ahead",
       "url": "https://open.spotify.com/track/0MbqHR99kNqNrW3vCmSBRo"
-    },
-    {
-      "added_at": "2022-09-15 11:18:16",
-      "album": {
-        "name": "Sgt. Pepper's Lonely Hearts Club Band (Remastered)",
-        "url": "https://open.spotify.com/album/6QaVfG1pHYl1z15ZxkvVDW"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 164106,
-      "name": "With A Little Help From My Friends - Remastered 2009",
-      "url": "https://open.spotify.com/track/2RnPATK99oGOZygnD2GTO6"
     },
     {
       "added_at": "2022-09-15 11:18:16",
@@ -547,6 +547,22 @@
     {
       "added_at": "2022-09-15 11:18:16",
       "album": {
+        "name": "It's Alright",
+        "url": "https://open.spotify.com/album/5sxieYVKKC6kvgIdKmByyI"
+      },
+      "artists": [
+        {
+          "name": "Cecilia Castleman",
+          "url": "https://open.spotify.com/artist/6yB7WddQdPHwbyQpKl1qOH"
+        }
+      ],
+      "duration_ms": 248210,
+      "name": "It's Alright",
+      "url": "https://open.spotify.com/track/67LEdY2HlgEWNnrdaPyYpK"
+    },
+    {
+      "added_at": "2022-09-15 11:18:16",
+      "album": {
         "name": "Maybe Tomorrow It Will Change",
         "url": "https://open.spotify.com/album/0GwHdP2HTwPNhgWvTSR24c"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 127217,
       "name": "Fr\u00fch",
       "url": "https://open.spotify.com/track/7J6nPXzpkCcAOdVgCkCNtM"
-    },
-    {
-      "added_at": "2022-09-15 11:18:16",
-      "album": {
-        "name": "It's Alright",
-        "url": "https://open.spotify.com/album/5sxieYVKKC6kvgIdKmByyI"
-      },
-      "artists": [
-        {
-          "name": "Cecilia Castleman",
-          "url": "https://open.spotify.com/artist/6yB7WddQdPHwbyQpKl1qOH"
-        }
-      ],
-      "duration_ms": 248210,
-      "name": "It's Alright",
-      "url": "https://open.spotify.com/track/67LEdY2HlgEWNnrdaPyYpK"
     },
     {
       "added_at": "2022-09-15 11:18:16",
@@ -851,22 +851,6 @@
     {
       "added_at": "2022-09-15 11:18:16",
       "album": {
-        "name": "Desiderium",
-        "url": "https://open.spotify.com/album/6uUZU6NCqEjsFf3piG0srU"
-      },
-      "artists": [
-        {
-          "name": "Christine Papst",
-          "url": "https://open.spotify.com/artist/0PRooTT7V1vNPXCHBRomZE"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Desiderium",
-      "url": "https://open.spotify.com/track/07KyFspZCxCatWgaXoPlXg"
-    },
-    {
-      "added_at": "2022-09-15 11:18:16",
-      "album": {
         "name": "The Grass",
         "url": "https://open.spotify.com/album/135DspnDnLyzwCcPijPmjX"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 157000,
       "name": "The Grass",
       "url": "https://open.spotify.com/track/0CMcbkaWuxxnfyaqjZWWGv"
+    },
+    {
+      "added_at": "2022-09-15 11:18:16",
+      "album": {
+        "name": "Desiderium",
+        "url": "https://open.spotify.com/album/6uUZU6NCqEjsFf3piG0srU"
+      },
+      "artists": [
+        {
+          "name": "Christine Papst",
+          "url": "https://open.spotify.com/artist/0PRooTT7V1vNPXCHBRomZE"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Desiderium",
+      "url": "https://open.spotify.com/track/07KyFspZCxCatWgaXoPlXg"
     },
     {
       "added_at": "2022-09-15 11:18:16",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2022-09-15 11:18:16",
       "album": {
-        "name": "Finding Solitude",
-        "url": "https://open.spotify.com/album/4HSa5LuC2F1lOVOgnqlky7"
-      },
-      "artists": [
-        {
-          "name": "Miesha Berens",
-          "url": "https://open.spotify.com/artist/59UumpxzWdl3DRy6muL6Ln"
-        }
-      ],
-      "duration_ms": 153124,
-      "name": "Finding Solitude",
-      "url": "https://open.spotify.com/track/44GNDx5mPRKiwSLjJAe5Yg"
-    },
-    {
-      "added_at": "2022-09-15 11:18:16",
-      "album": {
         "name": "Vejlefjord",
         "url": "https://open.spotify.com/album/1gt84E4kL8DdnXW1XlclX4"
       },
@@ -1075,18 +1059,18 @@
     {
       "added_at": "2022-09-15 11:18:16",
       "album": {
-        "name": "P.S. I'm Still Here",
-        "url": "https://open.spotify.com/album/3c1UFkkA7goX16ZYoHawV1"
+        "name": "Finding Solitude",
+        "url": "https://open.spotify.com/album/4HSa5LuC2F1lOVOgnqlky7"
       },
       "artists": [
         {
-          "name": "Vincent & A Secret",
-          "url": "https://open.spotify.com/artist/56GQPPkhPG3G9LgFEo7Ae6"
+          "name": "Miesha Berens",
+          "url": "https://open.spotify.com/artist/59UumpxzWdl3DRy6muL6Ln"
         }
       ],
-      "duration_ms": 105577,
-      "name": "While You Were Sleeping",
-      "url": "https://open.spotify.com/track/54wC2ics8RCpQGYoB516Qs"
+      "duration_ms": 153124,
+      "name": "Finding Solitude",
+      "url": "https://open.spotify.com/track/44GNDx5mPRKiwSLjJAe5Yg"
     },
     {
       "added_at": "2022-09-15 11:18:16",
@@ -1103,6 +1087,22 @@
       "duration_ms": 129095,
       "name": "Story Time",
       "url": "https://open.spotify.com/track/0cDZCWdR8bTlp7QRaBXBYD"
+    },
+    {
+      "added_at": "2022-09-15 11:18:16",
+      "album": {
+        "name": "P.S. I'm Still Here",
+        "url": "https://open.spotify.com/album/3c1UFkkA7goX16ZYoHawV1"
+      },
+      "artists": [
+        {
+          "name": "Vincent & A Secret",
+          "url": "https://open.spotify.com/artist/56GQPPkhPG3G9LgFEo7Ae6"
+        }
+      ],
+      "duration_ms": 105577,
+      "name": "While You Were Sleeping",
+      "url": "https://open.spotify.com/track/54wC2ics8RCpQGYoB516Qs"
     },
     {
       "added_at": "2022-09-15 11:18:16",

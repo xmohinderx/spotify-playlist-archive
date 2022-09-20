@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-773 songs - 1 day 5 hr 23 min - [published](https://open.spotify.com/playlist/4cxKJAR848gUWizvwypmvt)
+774 songs - 1 day 5 hr 25 min - [published](https://open.spotify.com/playlist/4cxKJAR848gUWizvwypmvt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,8 @@
 | [Chasing Clouds](https://open.spotify.com/track/1BzbkoI0867xFsfy1tBwFm) | [Odd Shapes](https://open.spotify.com/artist/7A0I9hUuQHuonQhfYw3HrU) | [Tour Bus](https://open.spotify.com/album/3c4bZOR7st6OBpOVvyT4n0) | 2:54 | 2022-01-27 |  |
 | [Chasing Something](https://open.spotify.com/track/6irjfpaZ3kS7qlIzXFvD7l) | [Enluv](https://open.spotify.com/artist/5g8EUiiIZDqp2xd9eUUHin), [Sitting Duck](https://open.spotify.com/artist/7nlZWVZ0U8EVad0g71xiZt), [Anton](https://open.spotify.com/artist/7crM3nBmCpsIrBUOCpo6jA) | [Chasing Something](https://open.spotify.com/album/0BlUpKBYePUZlqHu9IruxS) | 2:37 | 2022-07-29 |  |
 | [Chesterfield](https://open.spotify.com/track/7x5QoXMfR9tQKp1TPT17Ft) | [paris91](https://open.spotify.com/artist/0IF1xUEFhGXZ7zz8BW1zqv) | [Chesterfield](https://open.spotify.com/album/72FaXIKk4HxWPxTEC9rXOP) | 2:15 | 2022-05-20 |  |
-| [cheydinhal](https://open.spotify.com/track/3xMf7Kna90OQykFAxTyq5z) | [Poetics](https://open.spotify.com/artist/6sdgbah9YMIS5jSYdyzpBP) | [cheydinhal](https://open.spotify.com/album/2V0IXWAztq41O6rS4s4Yka) | 2:05 | 2022-01-27 |  |
+| [cheydinhal](https://open.spotify.com/track/1LZn2Iumd6EBPa16SxZmgg) | [Poetics](https://open.spotify.com/artist/6sdgbah9YMIS5jSYdyzpBP) | [cheydinhal](https://open.spotify.com/album/5qkawH5rfKsYEwTXWMRDeP) | 2:05 | 2022-09-16 |  |
+| [cheydinhal](https://open.spotify.com/track/3xMf7Kna90OQykFAxTyq5z) | [Poetics](https://open.spotify.com/artist/6sdgbah9YMIS5jSYdyzpBP) | [cheydinhal](https://open.spotify.com/album/2V0IXWAztq41O6rS4s4Yka) | 2:05 | 2022-01-27 | 2022-09-20 |
 | [Chillin'](https://open.spotify.com/track/5QasMxBFqYtWjljLCm7SR4) | [Lichtboje](https://open.spotify.com/artist/5OEJiMPYAGd8sgyvA89ygr), [Chris Cross](https://open.spotify.com/artist/0FbvvGVjcfuHRa6BywhbHn), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Chillin'](https://open.spotify.com/album/2erNlAiEBMmBNE9addE9bK) | 2:28 | 2022-04-08 |  |
 | [Chinatown](https://open.spotify.com/track/4JFEywEZvco1yrUW4UHC36) | [Call Lane](https://open.spotify.com/artist/0AJ4Z8Q5D5OM3llGtJXnXy) | [Capone](https://open.spotify.com/album/2WIJoDYo5qEnNBhwIcY5oQ) | 3:45 | 2022-01-27 | 2022-07-08 |
 | [City Blues](https://open.spotify.com/track/6SifLfcOTml8LV7f9LaVwH) | [Dulcet](https://open.spotify.com/artist/7kOMTlIze4HK68RCpaLBTp) | [City Blues](https://open.spotify.com/album/4FrDCGWpPCPaX370mJgiAj) | 1:30 | 2022-04-22 |  |

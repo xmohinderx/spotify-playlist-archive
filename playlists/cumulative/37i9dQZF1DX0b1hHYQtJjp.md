@@ -4,7 +4,7 @@
 
 > Ease into these recent hits and new songs from your favorite artists\. Cover: John Legend
 
-938 songs - 2 day 3 hr 45 min - [published](https://open.spotify.com/playlist/4ml5qGm3jWvLjOnBVMhlu7)
+939 songs - 2 day 3 hr 48 min - [published](https://open.spotify.com/playlist/4ml5qGm3jWvLjOnBVMhlu7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,7 +154,8 @@
 | [Changes \(feat\. Joe P\)](https://open.spotify.com/track/0OZzcGFKrco8AwYD3QWIsW) | [joe p](https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x), [Jax Anderson](https://open.spotify.com/artist/4Gh0D04oCEVbnsx63LXUmT) | [Songs For Every Condition](https://open.spotify.com/album/49ssij42QUj1TH2Pgo21ES) | 2:43 | 2021-10-09 | 2021-11-20 |
 | [Chasing After You \(with Maren Morris\)](https://open.spotify.com/track/1ZIKpMTRPqhwAoVXWY3tXI) | [Ryan Hurd](https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Chasing After You \(with Maren Morris\)](https://open.spotify.com/album/5QUwCi1lbk0kZ5k87fRNbK) | 3:27 | 2021-03-19 | 2022-03-26 |
 | [Chasing Stars \(feat\. James Bay\)](https://open.spotify.com/track/6y6xhAgZjvxy5kR5rigpY3) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chasing Stars \(feat\. James Bay\)](https://open.spotify.com/album/09vWMvGsbMxlVuFS7hCsf6) | 2:50 | 2021-08-21 | 2021-12-24 |
-| [Chasing the Sun](https://open.spotify.com/track/0BB77DvXvevei2pSXP65Jg) | [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [Chasing The Sun](https://open.spotify.com/album/1zLtpGBpnjsCTUf88E2GXw) | 3:42 | 2022-09-16 |  |
+| [Chasing the Sun](https://open.spotify.com/track/0BB77DvXvevei2pSXP65Jg) | [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [Chasing The Sun](https://open.spotify.com/album/1zLtpGBpnjsCTUf88E2GXw) | 3:42 | 2022-09-16 | 2022-09-20 |
+| [Chasing the Sun](https://open.spotify.com/track/0VXgPkyJ1BJ9QXcMv3nDFB) | [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [Carving Canyons](https://open.spotify.com/album/0keDX0kFNMMZtGWK3YP5GO) | 3:42 | 2022-09-16 |  |
 | [Chasing You](https://open.spotify.com/track/3vA2ywtB0I0Huzpr50JFR1) | [Patrick Droney](https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3) | [State of the Heart](https://open.spotify.com/album/6ORYYsCi3iLOT3NHJAfclP) | 3:50 | 2021-01-08 | 2021-02-12 |
 | [Cheat Code](https://open.spotify.com/track/4SeeR3SifSxwq9pzFUU7v3) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Back of My Mind](https://open.spotify.com/album/4IwODpNZKFYkHWXSeWMGmP) | 3:11 | 2021-06-26 | 2021-07-17 |
 | [Cheating on You](https://open.spotify.com/track/0ClPIeT6MSgfSgQ9ZrJbAq) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Cheating on You](https://open.spotify.com/album/1cZNFKrwWK0PGqQFUspj3L) | 3:16 | 2019-10-18 | 2019-12-13 |

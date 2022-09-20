@@ -582,6 +582,32 @@
     },
     {
       "album": {
+        "name": "H8 December",
+        "url": "https://open.spotify.com/album/7uyYsla4oPYWFRWwHYJ71S"
+      },
+      "artists": [
+        {
+          "name": "Slushii",
+          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
+        },
+        {
+          "name": "Aviella",
+          "url": "https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe"
+        },
+        {
+          "name": "Mackenzie Sol",
+          "url": "https://open.spotify.com/artist/3E9DITocLFcvQi0v56uhYA"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140147,
+      "name": "H8 December",
+      "url": "https://open.spotify.com/track/2GmduVx3DDAyqMys6xgqem"
+    },
+    {
+      "album": {
         "name": "heavy metals",
         "url": "https://open.spotify.com/album/1l3e0TB5IdVOwFuOleUmjo"
       },
@@ -885,7 +911,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-20",
       "duration_ms": 201230,
       "name": "Mawlee (feat. Young Buck & DJ Afterthought) - Dr. Fresch Remix",
       "url": "https://open.spotify.com/track/7wawZoPGDr6N559kjYJ8Ug"
@@ -1083,7 +1109,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-20",
       "duration_ms": 203438,
       "name": "No Beef - Steve Aoki's 11 Years Later Remix",
       "url": "https://open.spotify.com/track/03PNqjZycgvVlRqSXEhM57"
@@ -1203,7 +1229,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-20",
       "duration_ms": 220082,
       "name": "Patience (feat. Kayla Rose)",
       "url": "https://open.spotify.com/track/4SiaZNahXQ9oTzPPTxZaox"
@@ -1775,6 +1801,24 @@
       "duration_ms": 163404,
       "name": "Villainy (feat. Gold & Mikey Rotten)",
       "url": "https://open.spotify.com/track/3279d3UVvnvJGhZOHj5Mtq"
+    },
+    {
+      "album": {
+        "name": "Wait For You",
+        "url": "https://open.spotify.com/album/4oDhPuAO99SV2eccvGKO3w"
+      },
+      "artists": [
+        {
+          "name": "aboywithabag",
+          "url": "https://open.spotify.com/artist/6PqSrv8S89SEEpHAAqpUtY"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "Wait For You - Radio Edit",
+      "url": "https://open.spotify.com/track/1Mge9Dsm61dHkXVQkLY2Es"
     },
     {
       "album": {

@@ -520,6 +520,24 @@
     },
     {
       "album": {
+        "name": "Chaise Longue",
+        "url": "https://open.spotify.com/album/2HtuyQa8ttY6Fn433FIs0s"
+      },
+      "artists": [
+        {
+          "name": "Verdena",
+          "url": "https://open.spotify.com/artist/058thnz6odaxoAN4n3cMBN"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220186,
+      "name": "Chaise Longue",
+      "url": "https://open.spotify.com/track/2oXs1w3ISiVPkz32vXJCCg"
+    },
+    {
+      "album": {
         "name": "Charlie Sheen",
         "url": "https://open.spotify.com/album/6cNcGxEFYkNCoMI4x2P2QX"
       },
@@ -1337,7 +1355,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-20",
       "duration_ms": 140689,
       "name": "Il Mare e le Farfalle",
       "url": "https://open.spotify.com/track/4qayUwKDrCKiHprgzny8Md"

@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Aguacero",
+        "url": "https://open.spotify.com/album/4hTAp0JOofvwTrfwmWLSVD"
+      },
+      "artists": [
+        {
+          "name": "Sebjak",
+          "url": "https://open.spotify.com/artist/4WaTBVJBxGQ71Ch0swa8DA"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402545,
+      "name": "Aguacero",
+      "url": "https://open.spotify.com/track/3WZIbQjUkhGXVjWqPjMNvs"
+    },
+    {
+      "album": {
         "name": "Annem",
         "url": "https://open.spotify.com/album/4cCQiTtZbWocNmkqQWyXcI"
       },
@@ -63,7 +81,7 @@
       ],
       "date_added": "2022-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-20",
       "duration_ms": 464000,
       "name": "And & Say",
       "url": "https://open.spotify.com/track/4AP9t1HXnC9DC7gkxxuDJi"
@@ -231,6 +249,24 @@
       "duration_ms": 344000,
       "name": "Chilanzar",
       "url": "https://open.spotify.com/track/3eRKV66fGzyDKLhZpbMPVO"
+    },
+    {
+      "album": {
+        "name": "Desert Tale",
+        "url": "https://open.spotify.com/album/4yuwchv1cn57wwMe8hqW7p"
+      },
+      "artists": [
+        {
+          "name": "Jad Halal",
+          "url": "https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 443697,
+      "name": "Desert Tale",
+      "url": "https://open.spotify.com/track/6TdpnCDgeya8E4t6Skc60K"
     },
     {
       "album": {
@@ -607,7 +643,7 @@
       ],
       "date_added": "2022-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-20",
       "duration_ms": 187096,
       "name": "My City's On Fire",
       "url": "https://open.spotify.com/track/4naKJYQsRnQcBvYcgAGivQ"
@@ -883,7 +919,7 @@
       ],
       "date_added": "2022-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-20",
       "duration_ms": 395172,
       "name": "Suton",
       "url": "https://open.spotify.com/track/6eq7V6zHwnHlRvjbWVA5nJ"
@@ -1157,7 +1193,7 @@
       ],
       "date_added": "2022-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-20",
       "duration_ms": 178304,
       "name": "World Hold On - FISHER Rework",
       "url": "https://open.spotify.com/track/2YDOjCfkGciEXxSutB6LJR"

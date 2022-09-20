@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 
 ### [Éxitos Cristianos](https://open.spotify.com/playlist/37i9dQZF1DWUjxqgjSiQ9K)
 
-> Las canciones de fe que más se escuchan en Latinoamérica\.  Foto: Barak
+> Las canciones de fe que más se escuchan en Latinoamérica\.  Foto: Living
 
-[Spotify](https://open.spotify.com/user/spotify) - 525,204 likes - 99 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 525,394 likes - 99 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 | 98 | [Viviré \(Salmo 118\)](https://open.spotify.com/track/2AfP1FmE3TZffo4bbgOJIt) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Viviré](https://open.spotify.com/album/67uRZ3X95JEwhbxi7GP5gW) | 4:08 |
 | 99 | [Mil Preguntas](https://open.spotify.com/track/5hO2AIo9UgfWsBM2YjT6TW) | [PRISMA Más Vida](https://open.spotify.com/artist/2UHFb8SvTwloYRgoPz8umM), [Ale Fdz](https://open.spotify.com/artist/1m3YfDehEub35DvsmG9gMy) | [Mil Preguntas](https://open.spotify.com/album/5RZ1ZkrtlEuKpMgEdm0bvG) | 3:28 |
 
-Snapshot ID: `MTY2MzMyMjY1MSwwMDAwMDAwMDMzZjM3NDQ0NWJkNDMxOTE3ZDFiMWQyOWVkNDgzNGU4`
+Snapshot ID: `MTY2MzYyMTIwNywwMDAwMDAwMGQ5MzkzNzUzZTVkNjRhYTlhMTY2ZjcyYWM4NWYzODJl`

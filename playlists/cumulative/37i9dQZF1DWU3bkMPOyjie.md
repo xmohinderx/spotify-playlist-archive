@@ -4,7 +4,7 @@
 
 > Get yourself in that summer mood with these great rocking summer songs from the last 20 years.
 
-98 songs - 5 hr 40 min - [published](https://open.spotify.com/playlist/2SdlpqiAcMKgumJj16ODvC)
+99 songs - 5 hr 44 min - [published](https://open.spotify.com/playlist/2SdlpqiAcMKgumJj16ODvC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,8 @@
 | [It's Summertime](https://open.spotify.com/track/4bTXFLSWqZiUrrXD202tVG) | [The Flaming Lips](https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB) | [Yoshimi Battles the Pink Robots](https://open.spotify.com/album/49LA20VMk65fQyEaIzYdvf) | 4:20 | 2020-08-18 |  |
 | [King of the Beach](https://open.spotify.com/track/1CHL6sjDwpivvA4LE0lsww) | [Wavves](https://open.spotify.com/artist/6bUJpbekaIlq2fT5FMV2mQ) | [King of the Beach](https://open.spotify.com/album/7Mn0aXVHjaoFZPKLssqI9d) | 2:38 | 2022-04-26 |  |
 | [King Of The Beach](https://open.spotify.com/track/3pOSTi5yh2krttjdNddRLl) | [Wavves](https://open.spotify.com/artist/6bUJpbekaIlq2fT5FMV2mQ) | [King Of The Beach](https://open.spotify.com/album/39ve9pwi7p3kOYKNkRKcSs) | 2:38 | 2020-08-18 | 2022-07-29 |
-| [Let Me Live / Let Me Die](https://open.spotify.com/track/481idAnpIOHEjR4YPsbA0y) | [Des Rocs](https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8) | [Let the Vultures In](https://open.spotify.com/album/0fnAV8la7b1AZjAfY1oyXZ) | 3:27 | 2020-08-18 |  |
+| [Let Me Live / Let Me Die](https://open.spotify.com/track/0AVIswXP3Q5FnlorjU0DbI) | [Des Rocs](https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8) | [Let the Vultures In](https://open.spotify.com/album/0NvZagPSgA7PLFI7yydUTn) | 3:27 | 2022-04-26 |  |
+| [Let Me Live / Let Me Die](https://open.spotify.com/track/481idAnpIOHEjR4YPsbA0y) | [Des Rocs](https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8) | [Let the Vultures In](https://open.spotify.com/album/0fnAV8la7b1AZjAfY1oyXZ) | 3:27 | 2020-08-18 | 2022-09-20 |
 | [Life is a Highway \- From "Cars"](https://open.spotify.com/track/5YbeJyTQkdSAWe1Ie4sLAl) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Disney/Pixar Greatest](https://open.spotify.com/album/4Tf4nzRuf5W3EvHqigxcmv) | 4:36 | 2020-08-18 |  |
 | [Livin' La Vida Loca](https://open.spotify.com/track/4f3w2PoA3b9CWDSwVYWil1) | [Patent Pending](https://open.spotify.com/artist/0xNdN9NbR572rKrGQBjPlH) | [Other People's Greatest Hits](https://open.spotify.com/album/0PNWoX3z0HgJBR96Bx7R5f) | 3:42 | 2020-08-18 |  |
 | [Lola Montez](https://open.spotify.com/track/1wnq9TwifJ9ipLUFsm8vKx) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Outlaw Gentlemen & Shady Ladies](https://open.spotify.com/album/5SBrIIYCvThaqN9r1SV2pv) | 4:27 | 2022-04-26 |  |

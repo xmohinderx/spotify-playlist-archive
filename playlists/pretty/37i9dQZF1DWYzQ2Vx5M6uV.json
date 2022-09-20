@@ -1,12 +1,12 @@
 {
   "description": "Bringing you the hottest collaborations between Afro & Latin artists. Cover: Ir Sais, Manuel Turizo\n",
-  "num_followers": 98191,
+  "num_followers": 98240,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjQ4MTc1MywwMDAwMDAwMGVkMDI4OGI2YmRmYzc2ZjlhMmJiZjQ2NGE4OWRjYjI2",
+  "snapshot_id": "MTY2MjQ4MTc1MywwMDAwMDAwMDI3N2M2NjI0NzY4MjdhYjExZjNlZjdhNGM3OGI2NDYx",
   "tracks": [
     {
       "added_at": "2022-09-06 16:11:58",
@@ -355,6 +355,22 @@
     {
       "added_at": "2022-09-06 16:11:58",
       "album": {
+        "name": "The Lion King: The Gift",
+        "url": "https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 190108,
+      "name": "JA ARA E",
+      "url": "https://open.spotify.com/track/6pdip6qgVJOI5JxqgbAlu6"
+    },
+    {
+      "added_at": "2022-09-06 16:11:58",
+      "album": {
         "name": "Beamer (Bad Boys)",
         "url": "https://open.spotify.com/album/2H2xvktwcRVmjsIn9KnOhh"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 186693,
       "name": "Arco\u00edris",
       "url": "https://open.spotify.com/track/5zzbORcD0GwLY0wQHP1Xs1"
-    },
-    {
-      "added_at": "2022-09-06 16:11:58",
-      "album": {
-        "name": "The Lion King: The Gift",
-        "url": "https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 190108,
-      "name": "JA ARA E",
-      "url": "https://open.spotify.com/track/6pdip6qgVJOI5JxqgbAlu6"
     },
     {
       "added_at": "2022-09-06 16:11:58",
@@ -775,26 +775,6 @@
     {
       "added_at": "2022-09-06 16:11:58",
       "album": {
-        "name": "Spanglish (with Myke Towers)",
-        "url": "https://open.spotify.com/album/0hZv0L2ymUsqCPVOXzrZgD"
-      },
-      "artists": [
-        {
-          "name": "J.I the Prince of N.Y",
-          "url": "https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 191320,
-      "name": "Spanglish (with Myke Towers)",
-      "url": "https://open.spotify.com/track/6GlNseuKrVgGyieWH5jUIn"
-    },
-    {
-      "added_at": "2022-09-06 16:11:58",
-      "album": {
         "name": "Sounds of My World",
         "url": "https://open.spotify.com/album/2Mju5QRHhBPkUQajYKTUSH"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 204099,
       "name": "Love Language",
       "url": "https://open.spotify.com/track/7Jqa7kWKN4d2Fn7FESctLz"
+    },
+    {
+      "added_at": "2022-09-06 16:11:58",
+      "album": {
+        "name": "Spanglish (with Myke Towers)",
+        "url": "https://open.spotify.com/album/0hZv0L2ymUsqCPVOXzrZgD"
+      },
+      "artists": [
+        {
+          "name": "J.I the Prince of N.Y",
+          "url": "https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 191320,
+      "name": "Spanglish (with Myke Towers)",
+      "url": "https://open.spotify.com/track/6GlNseuKrVgGyieWH5jUIn"
     },
     {
       "added_at": "2022-09-06 16:11:58",
@@ -835,22 +835,6 @@
       "duration_ms": 273370,
       "name": "Mimosas - Remix",
       "url": "https://open.spotify.com/track/07grlLnIM285o7Y69mge5L"
-    },
-    {
-      "added_at": "2022-09-06 16:11:58",
-      "album": {
-        "name": "Claramente",
-        "url": "https://open.spotify.com/album/4tOaBzNRKy3Dl0Kz6itXoH"
-      },
-      "artists": [
-        {
-          "name": "Ir Sais",
-          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
-        }
-      ],
-      "duration_ms": 182542,
-      "name": "Claramente",
-      "url": "https://open.spotify.com/track/3aDFCQQfwcL4aaYEjybAKh"
     },
     {
       "added_at": "2022-09-06 16:11:58",
@@ -895,6 +879,22 @@
       "duration_ms": 175000,
       "name": "before",
       "url": "https://open.spotify.com/track/4E6uEWazcA6C2VaWoODFyH"
+    },
+    {
+      "added_at": "2022-09-06 16:11:58",
+      "album": {
+        "name": "Claramente",
+        "url": "https://open.spotify.com/album/4tOaBzNRKy3Dl0Kz6itXoH"
+      },
+      "artists": [
+        {
+          "name": "Ir Sais",
+          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
+        }
+      ],
+      "duration_ms": 182542,
+      "name": "Claramente",
+      "url": "https://open.spotify.com/track/3aDFCQQfwcL4aaYEjybAKh"
     },
     {
       "added_at": "2022-09-06 16:11:58",
@@ -1095,26 +1095,6 @@
     {
       "added_at": "2022-09-06 16:11:58",
       "album": {
-        "name": "Estrella",
-        "url": "https://open.spotify.com/album/2J0nrljwYK59zr9Fl3cRwb"
-      },
-      "artists": [
-        {
-          "name": "Kevin Roldan",
-          "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
-        },
-        {
-          "name": "Ayo Jay",
-          "url": "https://open.spotify.com/artist/1V6rvT87qMQvo6HAixjlpY"
-        }
-      ],
-      "duration_ms": 205400,
-      "name": "Estrella",
-      "url": "https://open.spotify.com/track/5sU7NsHPwHF991Gir4ovn5"
-    },
-    {
-      "added_at": "2022-09-06 16:11:58",
-      "album": {
         "name": "iluminada",
         "url": "https://open.spotify.com/album/50HmpTkK9ryM9PMnIRAOGr"
       },
@@ -1135,6 +1115,26 @@
       "duration_ms": 155368,
       "name": "iluminada",
       "url": "https://open.spotify.com/track/6C6tPNyzg9yEFKl2z2bEpx"
+    },
+    {
+      "added_at": "2022-09-06 16:11:58",
+      "album": {
+        "name": "Estrella",
+        "url": "https://open.spotify.com/album/2J0nrljwYK59zr9Fl3cRwb"
+      },
+      "artists": [
+        {
+          "name": "Kevin Roldan",
+          "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
+        },
+        {
+          "name": "Ayo Jay",
+          "url": "https://open.spotify.com/artist/1V6rvT87qMQvo6HAixjlpY"
+        }
+      ],
+      "duration_ms": 205400,
+      "name": "Estrella",
+      "url": "https://open.spotify.com/track/5sU7NsHPwHF991Gir4ovn5"
     },
     {
       "added_at": "2022-09-06 16:11:58",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2022-09-06 16:11:58",
       "album": {
+        "name": "GUERRA",
+        "url": "https://open.spotify.com/album/7LMX8MddqoPLWjnm049mkt"
+      },
+      "artists": [
+        {
+          "name": "Aissa",
+          "url": "https://open.spotify.com/artist/6RWMnZmXs8Ob715qLr4374"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "GUERRA",
+      "url": "https://open.spotify.com/track/66nfXAO6C4u5EFQ2DZR8MZ"
+    },
+    {
+      "added_at": "2022-09-06 16:11:58",
+      "album": {
         "name": "Zimenice",
         "url": "https://open.spotify.com/album/36Hqg2CAuLs8mi5G75I6H0"
       },
@@ -1355,22 +1371,6 @@
       "duration_ms": 206538,
       "name": "Te Gusta",
       "url": "https://open.spotify.com/track/1EamspfiJHlyOZdyqGWl5z"
-    },
-    {
-      "added_at": "2022-09-06 16:11:58",
-      "album": {
-        "name": "GUERRA",
-        "url": "https://open.spotify.com/album/7LMX8MddqoPLWjnm049mkt"
-      },
-      "artists": [
-        {
-          "name": "Aissa",
-          "url": "https://open.spotify.com/artist/6RWMnZmXs8Ob715qLr4374"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "GUERRA",
-      "url": "https://open.spotify.com/track/66nfXAO6C4u5EFQ2DZR8MZ"
     },
     {
       "added_at": "2022-09-06 16:11:58",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2022-09-06 16:11:58",
       "album": {
-        "name": "AFRICAN LOVER",
-        "url": "https://open.spotify.com/album/5uty7nPyWOesMiYlgyRMgC"
-      },
-      "artists": [
-        {
-          "name": "Aissa",
-          "url": "https://open.spotify.com/artist/6RWMnZmXs8Ob715qLr4374"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "SOLO CON MI CANCI\u00d3N",
-      "url": "https://open.spotify.com/track/52vcLD3PXtuXWXrHPctLUD"
-    },
-    {
-      "added_at": "2022-09-06 16:11:58",
-      "album": {
         "name": "Popor\u00f3",
         "url": "https://open.spotify.com/album/3JN06AJeeSNLxhpjSR4pLx"
       },
@@ -1503,6 +1487,30 @@
       "duration_ms": 169396,
       "name": "Popor\u00f3",
       "url": "https://open.spotify.com/track/5cTwelN24Ur09iRRqy43Oz"
+    },
+    {
+      "added_at": "2022-09-06 16:11:58",
+      "album": {
+        "name": "Don't Go (feat. Becky G and Mr. Eazi)",
+        "url": "https://open.spotify.com/album/2aK4sd781oVE0mFnHdrtZU"
+      },
+      "artists": [
+        {
+          "name": "Vice",
+          "url": "https://open.spotify.com/artist/0q4NrXqJnc367PieejuROJ"
+        },
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 203598,
+      "name": "Don't Go (feat. Becky G and Mr. Eazi)",
+      "url": "https://open.spotify.com/track/3owxTeAZ7UXqQjeGloHGKg"
     }
   ],
   "unique_name": "Afro Ritmo",

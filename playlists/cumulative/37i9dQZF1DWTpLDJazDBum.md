@@ -4,7 +4,7 @@
 
 > Find your flow with these trap and lofi beats.
 
-236 songs - 10 hr 23 min - [published](https://open.spotify.com/playlist/7G9URZLYPjRGYZEph2wbiQ)
+237 songs - 10 hr 26 min - [published](https://open.spotify.com/playlist/7G9URZLYPjRGYZEph2wbiQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,8 @@
 | [Earthbound \- Drum Quixote Remix](https://open.spotify.com/track/4CGEmTX3M5IzoLPS9HHMDq) | [7apes](https://open.spotify.com/artist/4smeBjKru2y3oeQkGSfotv), [Joha](https://open.spotify.com/artist/2T1sSXJwmNHFMA3Ytp24PF), [Drum Quixote](https://open.spotify.com/artist/6s5uUqayWTF9ZOfxrElDmy) | [Earthbound \(Drum Quixote Remix\)](https://open.spotify.com/album/6PGrAuCS1nIgkKhhnQjsNf) | 2:25 | 2022-04-08 | 2022-09-09 |
 | [Enigma](https://open.spotify.com/track/6ZSJa6ccyXHdMYhh9Y7Mea) | [FØRTE](https://open.spotify.com/artist/46vhqe1g0BJGdspci0dwbF) | [Enigma](https://open.spotify.com/album/1jXQLiD5zNR1gAOafc27bt) | 2:38 | 2022-04-08 |  |
 | [Enter](https://open.spotify.com/track/3wlxcdGzzqNrrOeTbw3Reg) | [Voyage](https://open.spotify.com/artist/6aAXBSjwLUEukyVDhOuKNO) | [Enter](https://open.spotify.com/album/4CrvZ0RQ1sdC0gmSjfT6hg) | 5:20 | 2022-04-08 | 2022-05-27 |
-| [Escape](https://open.spotify.com/track/7eOJ0Fe4dJdpFE5KiDNv7A) | [RŮDE](https://open.spotify.com/artist/4CWpoyuE7e9NvBkUSTmJfq) | [Escape](https://open.spotify.com/album/5RncSFp1WAv41KMOQnPwb7) | 3:12 | 2022-04-08 |  |
+| [Escape](https://open.spotify.com/track/6PWv11SoxcweLVpUetusTO) | [RudeLies](https://open.spotify.com/artist/7hf6L4LN1RTVN66IdBVpPr) | [Escape](https://open.spotify.com/album/3YluATDG7yRXXm5VlYPnF0) | 3:12 | 2022-09-16 |  |
+| [Escape](https://open.spotify.com/track/7eOJ0Fe4dJdpFE5KiDNv7A) | [RŮDE](https://open.spotify.com/artist/4CWpoyuE7e9NvBkUSTmJfq) | [Escape](https://open.spotify.com/album/5RncSFp1WAv41KMOQnPwb7) | 3:12 | 2022-04-08 | 2022-09-20 |
 | [Eternal Youth](https://open.spotify.com/track/0ytvsZOerGzUWfHXVT2Sgy) | [RŮDE](https://open.spotify.com/artist/4CWpoyuE7e9NvBkUSTmJfq) | [Eternal Youth](https://open.spotify.com/album/6STwjBCu3CTEViSxJChKlV) | 3:25 | 2022-08-05 |  |
 | [Evening Ride](https://open.spotify.com/track/5mVuwhsslkuuClVIekKA97) | [Ky\-Fo\-Beatz](https://open.spotify.com/artist/3d8VyDVDObHeXnvYUzFDfA) | [Evening Ride](https://open.spotify.com/album/50jJrDF3VTx4CnZemd3ku3) | 2:19 | 2022-04-08 |  |
 | [Existence](https://open.spotify.com/track/6zOP2sc9YDUM65NIVmVUZj) | [threefourfive](https://open.spotify.com/artist/6Egl0PesupE35TTNF6OF1X) | [Existence](https://open.spotify.com/album/1wQSWnHg5SeEIE1MRegKoX) | 1:54 | 2022-04-08 | 2022-05-27 |

@@ -4,7 +4,7 @@
 
 > Soak up the serenity with these beautiful melodies.
 
-457 songs - 1 day 1 hr 39 min - [published](https://open.spotify.com/playlist/2JotmOf77AlDkIMaQkg9OK)
+459 songs - 1 day 1 hr 47 min - [published](https://open.spotify.com/playlist/2JotmOf77AlDkIMaQkg9OK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,7 +207,8 @@
 | [In The Stars](https://open.spotify.com/track/1ei3hzQmrgealgRKFxIcWn) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [In The Stars](https://open.spotify.com/album/6dSmXsyGAnFtq048IFhiYd) | 3:36 | 2022-04-28 |  |
 | [Invisible](https://open.spotify.com/track/5CC5Dia3BhRVkP1dzJJs7p) | [Grace Davies](https://open.spotify.com/artist/55VbVrjmAWcvCknVFfPzvK) | [Invisible](https://open.spotify.com/album/4TCPGeP8KROlyQn4TuZeH3) | 3:40 | 2020-02-03 | 2021-06-28 |
 | [Is It Worth Being Sad](https://open.spotify.com/track/2dFBrhBttZWkcf5XT7fwUa) | [Meg Mac](https://open.spotify.com/artist/4faUajx9k93O56nlmpkOuz) | [Is It Worth Being Sad](https://open.spotify.com/album/2pfUy25RS4yTTWpA4bfCge) | 4:01 | 2022-07-08 | 2022-07-29 |
-| [Is It Worth Being Sad](https://open.spotify.com/track/2sdqoPS2AWTS8sb3kdeBmF) | [Meg Mac](https://open.spotify.com/artist/4faUajx9k93O56nlmpkOuz) | [Is It Worth Being Sad](https://open.spotify.com/album/7L8TecVe9iFySR49sUVI4X) | 4:01 | 2022-07-14 |  |
+| [Is It Worth Being Sad](https://open.spotify.com/track/2sdqoPS2AWTS8sb3kdeBmF) | [Meg Mac](https://open.spotify.com/artist/4faUajx9k93O56nlmpkOuz) | [Is It Worth Being Sad](https://open.spotify.com/album/7L8TecVe9iFySR49sUVI4X) | 4:01 | 2022-07-14 | 2022-09-20 |
+| [Is It Worth Being Sad](https://open.spotify.com/track/3E1HXY3rnghNU4H9JxbK1L) | [Meg Mac](https://open.spotify.com/artist/4faUajx9k93O56nlmpkOuz) | [Matter of Time](https://open.spotify.com/album/2z4hLufnidbzPL3fJA9UnB) | 4:01 | 2022-09-08 |  |
 | [It'll Be Okay](https://open.spotify.com/track/2KnLkZ3z7PO3kgVGHGqDpD) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [It'll Be Okay](https://open.spotify.com/album/3sDud6BapENewYxlL8VH8r) | 3:42 | 2022-07-08 |  |
 | [It's Ok If You Forget Me](https://open.spotify.com/track/312zSwwbPU7C3sTmro4Wx9) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [It's Ok If You Forget Me](https://open.spotify.com/album/2C91kmyDRWZdm0wR8dK1Wn) | 3:24 | 2020-09-25 | 2022-01-14 |
 | [It's Raining, It's Pouring](https://open.spotify.com/track/0dhw2WjJZBsbBDv0Ipdgbw) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [It's Raining, It's Pouring](https://open.spotify.com/album/7LJY01gIYwchl8f83rFv7g) | 3:03 | 2021-04-07 | 2021-07-23 |
@@ -232,8 +233,9 @@
 | [Let Go](https://open.spotify.com/track/6C4iAGKybEdevddZklaxpX) | [Cody Simpson](https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K) | [Let Go](https://open.spotify.com/album/24lCE3skRS14egP6xhAIjr) | 3:02 | 2022-07-08 |  |
 | [Let Somebody Go](https://open.spotify.com/track/4cGqn0E8JCSY9gQllQj4Mf) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Music Of The Spheres](https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb) | 4:01 | 2021-10-16 | 2022-07-08 |
 | [Let's Fall in Love for the Night \(1964\)](https://open.spotify.com/track/6mKsslj1RDeGIWrAyqOmQE) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Blood Harmony \(Deluxe\)](https://open.spotify.com/album/1O1Ulu4uuaceAzsNfN7ks0) | 3:57 | 2020-08-07 | 2020-09-04 |
-| [Letter](https://open.spotify.com/track/0mZvAO1rooF1rAGWsw7xC7) | [Meg Mac](https://open.spotify.com/artist/4faUajx9k93O56nlmpkOuz) | [Letter](https://open.spotify.com/album/26szxKU44Wwz74Kr8r6W66) | 3:09 | 2022-07-14 |  |
+| [Letter](https://open.spotify.com/track/0mZvAO1rooF1rAGWsw7xC7) | [Meg Mac](https://open.spotify.com/artist/4faUajx9k93O56nlmpkOuz) | [Letter](https://open.spotify.com/album/26szxKU44Wwz74Kr8r6W66) | 3:09 | 2022-07-14 | 2022-09-20 |
 | [Letter](https://open.spotify.com/track/60uatEuP0mKDRp1pZFMox7) | [Meg Mac](https://open.spotify.com/artist/4faUajx9k93O56nlmpkOuz) | [Letter](https://open.spotify.com/album/45KJEa5bL7lxWpVtH4Qt70) | 3:09 | 2022-07-07 | 2022-07-29 |
+| [Letter](https://open.spotify.com/track/7KyCx9yhNre0RdV7D1ANZJ) | [Meg Mac](https://open.spotify.com/artist/4faUajx9k93O56nlmpkOuz) | [Matter of Time](https://open.spotify.com/album/2z4hLufnidbzPL3fJA9UnB) | 3:09 | 2022-09-08 |  |
 | [Lie](https://open.spotify.com/track/27NaNvlmvOHqTF0VPjuRSD) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Lie](https://open.spotify.com/album/1qZDkipk2XWaJ6aoEvJwAm) | 2:59 | 2019-09-27 | 2020-05-29 |
 | [Lie To Me \(feat\. Julia Michaels\)](https://open.spotify.com/track/6GzApXoBQiiAjak3tOQfV3) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Lie To Me \(feat\. Julia Michaels\)](https://open.spotify.com/album/2rSrRHcfwJXxni8HczqKAT) | 2:29 | 2019-08-02 | 2019-12-20 |
 | [Life After](https://open.spotify.com/track/44UE46jEE4NaIIQwkkDyNL) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Don't Feed The Pop Monster](https://open.spotify.com/album/1zVzO9st0ZXLCH6YmgAzYF) | 2:50 | 2019-07-29\* | 2019-08-02 |

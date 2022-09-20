@@ -4,7 +4,7 @@
 
 > This is Led Zeppelin\. The essential tracks, all in one playlist.
 
-48 songs - 4 hr 20 min - not published yet
+48 songs - 4 hr 20 min - [published](https://open.spotify.com/playlist/6OyGGI0mByRxUfkjVIHD2W)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

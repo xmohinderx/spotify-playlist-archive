@@ -2142,6 +2142,28 @@
     },
     {
       "album": {
+        "name": "Stutter - EP",
+        "url": "https://open.spotify.com/album/2ywexsHX1MUToJaByaEYYQ"
+      },
+      "artists": [
+        {
+          "name": "Mystic State",
+          "url": "https://open.spotify.com/artist/052KAntc3fhUFwUgewa3Q4"
+        },
+        {
+          "name": "SMBR",
+          "url": "https://open.spotify.com/artist/7afurVeEHZHC1d8LV3wnQQ"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305142,
+      "name": "Ruminate",
+      "url": "https://open.spotify.com/track/7wqq6vKvzbaTYFZ4QUGjic"
+    },
+    {
+      "album": {
         "name": "See You",
         "url": "https://open.spotify.com/album/1Q6A1gHBqhS3uq5nQpzv30"
       },

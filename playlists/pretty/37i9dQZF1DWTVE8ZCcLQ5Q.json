@@ -1,12 +1,12 @@
 {
   "description": "Descubra Mac J\u00falia e novos talentos brasileiros no horizonte.",
-  "num_followers": 421378,
+  "num_followers": 421353,
   "original_name": "RADAR Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDUzMjQ2MCwwMDAwMDAwMDU5OTg4MWVkODM0YTAyMGFiYmYzNjQ1MWVlOTBjNDE4",
+  "snapshot_id": "MTY2MDUzMjQ2MCwwMDAwMDAwMGZkMjgwZGM3NDg5ODQ3YzgyMTc5MWExNzM5YzMxZWZi",
   "tracks": [
     {
       "added_at": "2022-08-15 03:01:00",
@@ -199,6 +199,26 @@
     {
       "added_at": "2022-08-15 03:01:00",
       "album": {
+        "name": "Incrivel Jogando a Potranca",
+        "url": "https://open.spotify.com/album/5obmsxidcvFcoY8caNUwQ5"
+      },
+      "artists": [
+        {
+          "name": "Mc Gabzin",
+          "url": "https://open.spotify.com/artist/5RmXJq0g7MNmgtxXLGbd6K"
+        },
+        {
+          "name": "DJ Swat",
+          "url": "https://open.spotify.com/artist/3JrsRa8z1Pngkkf4pDrokD"
+        }
+      ],
+      "duration_ms": 110769,
+      "name": "Incrivel Jogando a Potranca",
+      "url": "https://open.spotify.com/track/1Kplq3MbmYv11tcud2ftHp"
+    },
+    {
+      "added_at": "2022-08-15 03:01:00",
+      "album": {
         "name": "Red de Maracuj\u00e1",
         "url": "https://open.spotify.com/album/6vSJkKFM9XI4Pmy23P5MJO"
       },
@@ -239,26 +259,6 @@
       "duration_ms": 169057,
       "name": "O Justo N\u00e3o Treme",
       "url": "https://open.spotify.com/track/032k6qsKSvNfdBndLe4rCD"
-    },
-    {
-      "added_at": "2022-08-15 03:01:00",
-      "album": {
-        "name": "Incrivel Jogando a Potranca",
-        "url": "https://open.spotify.com/album/5obmsxidcvFcoY8caNUwQ5"
-      },
-      "artists": [
-        {
-          "name": "Mc Gabzin",
-          "url": "https://open.spotify.com/artist/5RmXJq0g7MNmgtxXLGbd6K"
-        },
-        {
-          "name": "DJ Swat",
-          "url": "https://open.spotify.com/artist/3JrsRa8z1Pngkkf4pDrokD"
-        }
-      ],
-      "duration_ms": 110769,
-      "name": "Incrivel Jogando a Potranca",
-      "url": "https://open.spotify.com/track/1Kplq3MbmYv11tcud2ftHp"
     },
     {
       "added_at": "2022-08-15 03:01:00",
@@ -459,26 +459,6 @@
     {
       "added_at": "2022-08-15 03:01:00",
       "album": {
-        "name": "Diretoria",
-        "url": "https://open.spotify.com/album/062ycDqIDtT21UFyKlHDvO"
-      },
-      "artists": [
-        {
-          "name": "Tasha & Tracie",
-          "url": "https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT"
-        },
-        {
-          "name": "Pizzol",
-          "url": "https://open.spotify.com/artist/1LvxqCO8GOAKkDzDOXfrAK"
-        }
-      ],
-      "duration_ms": 206546,
-      "name": "Diretoria",
-      "url": "https://open.spotify.com/track/64Clca1w9XxHsPstad5aCX"
-    },
-    {
-      "added_at": "2022-08-15 03:01:00",
-      "album": {
         "name": "P90",
         "url": "https://open.spotify.com/album/6bemhnTC1gXKmGhuYOtVJz"
       },
@@ -495,6 +475,26 @@
       "duration_ms": 123383,
       "name": "P90",
       "url": "https://open.spotify.com/track/43ZNwGCrC4ZD5e0DGGMbvV"
+    },
+    {
+      "added_at": "2022-08-15 03:01:00",
+      "album": {
+        "name": "Diretoria",
+        "url": "https://open.spotify.com/album/062ycDqIDtT21UFyKlHDvO"
+      },
+      "artists": [
+        {
+          "name": "Tasha & Tracie",
+          "url": "https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT"
+        },
+        {
+          "name": "Pizzol",
+          "url": "https://open.spotify.com/artist/1LvxqCO8GOAKkDzDOXfrAK"
+        }
+      ],
+      "duration_ms": 206546,
+      "name": "Diretoria",
+      "url": "https://open.spotify.com/track/64Clca1w9XxHsPstad5aCX"
     },
     {
       "added_at": "2022-08-15 03:01:00",
@@ -539,22 +539,6 @@
     {
       "added_at": "2022-08-15 03:01:00",
       "album": {
-        "name": "bonita e miser\u00e1vel",
-        "url": "https://open.spotify.com/album/2uF3enSQoCCusAYTAiIWhK"
-      },
-      "artists": [
-        {
-          "name": "Clarissa",
-          "url": "https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK"
-        }
-      ],
-      "duration_ms": 171601,
-      "name": "bonita e miser\u00e1vel",
-      "url": "https://open.spotify.com/track/1ePCG4jmr5NWT84Pw678kZ"
-    },
-    {
-      "added_at": "2022-08-15 03:01:00",
-      "album": {
         "name": "Garrafa Colorida",
         "url": "https://open.spotify.com/album/13nFR7PUVvMRC1jx2BgFmC"
       },
@@ -579,6 +563,22 @@
     {
       "added_at": "2022-08-15 03:01:00",
       "album": {
+        "name": "bonita e miser\u00e1vel",
+        "url": "https://open.spotify.com/album/2uF3enSQoCCusAYTAiIWhK"
+      },
+      "artists": [
+        {
+          "name": "Clarissa",
+          "url": "https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK"
+        }
+      ],
+      "duration_ms": 171601,
+      "name": "bonita e miser\u00e1vel",
+      "url": "https://open.spotify.com/track/1ePCG4jmr5NWT84Pw678kZ"
+    },
+    {
+      "added_at": "2022-08-15 03:01:00",
+      "album": {
         "name": "vc \u00e9 msm t\u00e3o melhor que eu?",
         "url": "https://open.spotify.com/album/03SguNzZdoSYJwIwOGAlSk"
       },
@@ -591,6 +591,22 @@
       "duration_ms": 209520,
       "name": "vc \u00e9 msm t\u00e3o melhor que eu?",
       "url": "https://open.spotify.com/track/2K24ijOSojf6F2q0HXgy6b"
+    },
+    {
+      "added_at": "2022-08-15 03:01:00",
+      "album": {
+        "name": "Comum - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/5oIvG4FNiXlSOCEb4Ow184"
+      },
+      "artists": [
+        {
+          "name": "\u00c0VU\u00c0",
+          "url": "https://open.spotify.com/artist/7EDkQ6to7SSWWJto0gbdik"
+        }
+      ],
+      "duration_ms": 211428,
+      "name": "Comum - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/18L8x8zxwq7jxXbZuYWJ6c"
     },
     {
       "added_at": "2022-08-15 03:01:00",
@@ -611,22 +627,6 @@
       "duration_ms": 164908,
       "name": "Te Deixo Crazy",
       "url": "https://open.spotify.com/track/7xyvvzTC0cG4wqJNIDuiNb"
-    },
-    {
-      "added_at": "2022-08-15 03:01:00",
-      "album": {
-        "name": "Comum - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/5oIvG4FNiXlSOCEb4Ow184"
-      },
-      "artists": [
-        {
-          "name": "\u00c0VU\u00c0",
-          "url": "https://open.spotify.com/artist/7EDkQ6to7SSWWJto0gbdik"
-        }
-      ],
-      "duration_ms": 211428,
-      "name": "Comum - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/18L8x8zxwq7jxXbZuYWJ6c"
     },
     {
       "added_at": "2022-08-15 03:01:00",
@@ -807,26 +807,6 @@
     {
       "added_at": "2022-08-15 03:01:00",
       "album": {
-        "name": "Juma",
-        "url": "https://open.spotify.com/album/7f2UOJiCm4KvJfdjXANSBW"
-      },
-      "artists": [
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "Nicoby",
-          "url": "https://open.spotify.com/artist/1Xd91UbkKjjg6Bk8vvlW9C"
-        }
-      ],
-      "duration_ms": 205718,
-      "name": "Jogo Sujo",
-      "url": "https://open.spotify.com/track/4dr0AjgSS9kfTD9U8bfOnF"
-    },
-    {
-      "added_at": "2022-08-15 03:01:00",
-      "album": {
         "name": "Todo Mundo Ama o Sol",
         "url": "https://open.spotify.com/album/2NgVCkUvypsuwrxloKor6X"
       },
@@ -847,6 +827,26 @@
       "duration_ms": 162000,
       "name": "Beira Mar",
       "url": "https://open.spotify.com/track/0behTwZwYY2BR47eX3GjCq"
+    },
+    {
+      "added_at": "2022-08-15 03:01:00",
+      "album": {
+        "name": "Juma",
+        "url": "https://open.spotify.com/album/7f2UOJiCm4KvJfdjXANSBW"
+      },
+      "artists": [
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "Nicoby",
+          "url": "https://open.spotify.com/artist/1Xd91UbkKjjg6Bk8vvlW9C"
+        }
+      ],
+      "duration_ms": 205718,
+      "name": "Jogo Sujo",
+      "url": "https://open.spotify.com/track/4dr0AjgSS9kfTD9U8bfOnF"
     },
     {
       "added_at": "2022-08-15 03:01:00",
@@ -907,6 +907,26 @@
     {
       "added_at": "2022-08-15 03:01:00",
       "album": {
+        "name": "Contram\u00e3o",
+        "url": "https://open.spotify.com/album/0dF3Hp05Ud1aUXPz8qv8X2"
+      },
+      "artists": [
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "Taleko",
+          "url": "https://open.spotify.com/artist/1YMyvUKZLJeBYhN9nmJhyz"
+        }
+      ],
+      "duration_ms": 222857,
+      "name": "Contram\u00e3o",
+      "url": "https://open.spotify.com/track/00CCXySfYOVAXvRb8y8bmo"
+    },
+    {
+      "added_at": "2022-08-15 03:01:00",
+      "album": {
         "name": "Vendaval (Ao Vivo)",
         "url": "https://open.spotify.com/album/0CdhqJwe0aAWf0Oz7SYSiF"
       },
@@ -923,22 +943,6 @@
       "duration_ms": 233236,
       "name": "Vendaval - Ao Vivo",
       "url": "https://open.spotify.com/track/2fkVehr2ZC9tEI2EpeOIOT"
-    },
-    {
-      "added_at": "2022-08-15 03:01:00",
-      "album": {
-        "name": "Bendito Rol\u00ea",
-        "url": "https://open.spotify.com/album/5ThMKwTKtrGl29FxY0Q4FH"
-      },
-      "artists": [
-        {
-          "name": "Juan Marcus & Vin\u00edcius",
-          "url": "https://open.spotify.com/artist/0GVW2S0kS9yOIEo93ZCNLW"
-        }
-      ],
-      "duration_ms": 185749,
-      "name": "Eu Fico",
-      "url": "https://open.spotify.com/track/1WtRLoB6c7wcMbTuZ6EbjT"
     },
     {
       "added_at": "2022-08-15 03:01:00",
@@ -963,6 +967,22 @@
     {
       "added_at": "2022-08-15 03:01:00",
       "album": {
+        "name": "Bendito Rol\u00ea",
+        "url": "https://open.spotify.com/album/5ThMKwTKtrGl29FxY0Q4FH"
+      },
+      "artists": [
+        {
+          "name": "Juan Marcus & Vin\u00edcius",
+          "url": "https://open.spotify.com/artist/0GVW2S0kS9yOIEo93ZCNLW"
+        }
+      ],
+      "duration_ms": 185749,
+      "name": "Eu Fico",
+      "url": "https://open.spotify.com/track/1WtRLoB6c7wcMbTuZ6EbjT"
+    },
+    {
+      "added_at": "2022-08-15 03:01:00",
+      "album": {
         "name": "poderia ser pior",
         "url": "https://open.spotify.com/album/3vaeQA1qsbog2MZKhMbt1O"
       },
@@ -975,26 +995,6 @@
       "duration_ms": 172414,
       "name": "poderia ser pior",
       "url": "https://open.spotify.com/track/0ksL64x432xlpRa2ii0bqN"
-    },
-    {
-      "added_at": "2022-08-15 03:01:00",
-      "album": {
-        "name": "Contram\u00e3o",
-        "url": "https://open.spotify.com/album/0dF3Hp05Ud1aUXPz8qv8X2"
-      },
-      "artists": [
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        },
-        {
-          "name": "Taleko",
-          "url": "https://open.spotify.com/artist/1YMyvUKZLJeBYhN9nmJhyz"
-        }
-      ],
-      "duration_ms": 222857,
-      "name": "Contram\u00e3o",
-      "url": "https://open.spotify.com/track/00CCXySfYOVAXvRb8y8bmo"
     },
     {
       "added_at": "2022-08-15 03:01:00",

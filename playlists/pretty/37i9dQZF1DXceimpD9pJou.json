@@ -1,12 +1,12 @@
 {
   "description": "Las mejores nuevas canciones cristianas.  Foto: Anmily Brown",
-  "num_followers": 106619,
+  "num_followers": 106690,
   "original_name": "Novedades Cristianas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMxNjk0MywwMDAwMDAwMDFhOGU2YTE4OTc4ODI4YzZhZGVlMjI0ZWE4YWM1Mzdj",
+  "snapshot_id": "MTY2MzMxNjk0MywwMDAwMDAwMGFiODNjODA1YTYyMGY3OWU5N2IzODFkNTJlZWQ0NWUy",
   "tracks": [
     {
       "added_at": "2022-09-16 08:29:03",
@@ -60,7 +60,7 @@
           "url": "https://open.spotify.com/artist/4Hpy6w9oVzugC0RBvEO1D0"
         }
       ],
-      "duration_ms": 154731,
+      "duration_ms": 125985,
       "name": "Proverbios",
       "url": "https://open.spotify.com/track/2EygBwrAFmPyo49yEGvLL0"
     },
@@ -459,6 +459,30 @@
     {
       "added_at": "2022-09-16 08:29:03",
       "album": {
+        "name": "Encontr\u00e9",
+        "url": "https://open.spotify.com/album/0GVj0pvjPLGkEygQkKOAY4"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        },
+        {
+          "name": "Sof\u00eda Mancipe",
+          "url": "https://open.spotify.com/artist/13JxTQpXz8TBhXjOjYDioQ"
+        },
+        {
+          "name": "Johan Manjarr\u00e9s",
+          "url": "https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7"
+        }
+      ],
+      "duration_ms": 475893,
+      "name": "Encontr\u00e9",
+      "url": "https://open.spotify.com/track/2WlXjfsY2mZQxnMcKmHuAI"
+    },
+    {
+      "added_at": "2022-09-16 08:29:03",
+      "album": {
         "name": "Tu Bondad",
         "url": "https://open.spotify.com/album/6czX5yPQCPYjFp7QU0eoqU"
       },
@@ -495,26 +519,18 @@
     {
       "added_at": "2022-09-16 08:29:03",
       "album": {
-        "name": "Encontr\u00e9",
-        "url": "https://open.spotify.com/album/0GVj0pvjPLGkEygQkKOAY4"
+        "name": "Hay Fiesta",
+        "url": "https://open.spotify.com/album/6JOTjn48bOftueLqjFaFOp"
       },
       "artists": [
         {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        },
-        {
-          "name": "Sof\u00eda Mancipe",
-          "url": "https://open.spotify.com/artist/13JxTQpXz8TBhXjOjYDioQ"
-        },
-        {
-          "name": "Johan Manjarr\u00e9s",
-          "url": "https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7"
+          "name": "Su Presencia",
+          "url": "https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3"
         }
       ],
-      "duration_ms": 475893,
-      "name": "Encontr\u00e9",
-      "url": "https://open.spotify.com/track/2WlXjfsY2mZQxnMcKmHuAI"
+      "duration_ms": 192959,
+      "name": "Hay Fiesta",
+      "url": "https://open.spotify.com/track/0O5JZMB8BntvrzyMlHY7UW"
     },
     {
       "added_at": "2022-09-16 08:29:03",
@@ -535,22 +551,6 @@
       "duration_ms": 274640,
       "name": "El Final de Mis Sue\u00f1os",
       "url": "https://open.spotify.com/track/1gXYe5u8NUTKNc7tmEDJSS"
-    },
-    {
-      "added_at": "2022-09-16 08:29:03",
-      "album": {
-        "name": "Hay Fiesta",
-        "url": "https://open.spotify.com/album/6JOTjn48bOftueLqjFaFOp"
-      },
-      "artists": [
-        {
-          "name": "Su Presencia",
-          "url": "https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3"
-        }
-      ],
-      "duration_ms": 192959,
-      "name": "Hay Fiesta",
-      "url": "https://open.spotify.com/track/0O5JZMB8BntvrzyMlHY7UW"
     },
     {
       "added_at": "2022-09-16 08:29:03",
@@ -687,6 +687,22 @@
     {
       "added_at": "2022-09-16 08:29:03",
       "album": {
+        "name": "Tamos de Fiesta",
+        "url": "https://open.spotify.com/album/6JCYBeSj1gVZoq0kbrxtao"
+      },
+      "artists": [
+        {
+          "name": "Jaydan",
+          "url": "https://open.spotify.com/artist/7h9VV4VCZdFXVh3FsUxus5"
+        }
+      ],
+      "duration_ms": 198813,
+      "name": "Tamos de Fiesta",
+      "url": "https://open.spotify.com/track/0ft6Igxvsf1HYVFHDp1aX1"
+    },
+    {
+      "added_at": "2022-09-16 08:29:03",
+      "album": {
         "name": "Cielo",
         "url": "https://open.spotify.com/album/0ZqAUP4OtAbiz8chIj9aet"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 188800,
       "name": "Alguien Como T\u00fa",
       "url": "https://open.spotify.com/track/1dirdNUEjZtt5Ruc06p41L"
-    },
-    {
-      "added_at": "2022-09-16 08:29:03",
-      "album": {
-        "name": "Tamos de Fiesta",
-        "url": "https://open.spotify.com/album/6JCYBeSj1gVZoq0kbrxtao"
-      },
-      "artists": [
-        {
-          "name": "Jaydan",
-          "url": "https://open.spotify.com/artist/7h9VV4VCZdFXVh3FsUxus5"
-        }
-      ],
-      "duration_ms": 198813,
-      "name": "Tamos de Fiesta",
-      "url": "https://open.spotify.com/track/0ft6Igxvsf1HYVFHDp1aX1"
     },
     {
       "added_at": "2022-09-16 08:29:03",
@@ -943,26 +943,6 @@
     {
       "added_at": "2022-09-16 08:29:03",
       "album": {
-        "name": "Ruge (Live)",
-        "url": "https://open.spotify.com/album/1Ze1Eu8yoWYb5oB7p1oToa"
-      },
-      "artists": [
-        {
-          "name": "Shammai",
-          "url": "https://open.spotify.com/artist/3hp9n03tGKNU5O3xMdSRMz"
-        },
-        {
-          "name": "Dariann Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/1sgmTpjFhU8xeSlrDGpiSQ"
-        }
-      ],
-      "duration_ms": 409049,
-      "name": "Ruge - Live",
-      "url": "https://open.spotify.com/track/7E4OYesvFO3Rchbd3F3xoG"
-    },
-    {
-      "added_at": "2022-09-16 08:29:03",
-      "album": {
         "name": "Hasta La Eternidad",
         "url": "https://open.spotify.com/album/53dywng9hTIkHvljhNavG2"
       },
@@ -983,6 +963,26 @@
     {
       "added_at": "2022-09-16 08:29:03",
       "album": {
+        "name": "Ruge (Live)",
+        "url": "https://open.spotify.com/album/1Ze1Eu8yoWYb5oB7p1oToa"
+      },
+      "artists": [
+        {
+          "name": "Shammai",
+          "url": "https://open.spotify.com/artist/3hp9n03tGKNU5O3xMdSRMz"
+        },
+        {
+          "name": "Dariann Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/1sgmTpjFhU8xeSlrDGpiSQ"
+        }
+      ],
+      "duration_ms": 409049,
+      "name": "Ruge - Live",
+      "url": "https://open.spotify.com/track/7E4OYesvFO3Rchbd3F3xoG"
+    },
+    {
+      "added_at": "2022-09-16 08:29:03",
+      "album": {
         "name": "Fuente",
         "url": "https://open.spotify.com/album/2KI68yyvIzkthZi19LeFlX"
       },
@@ -995,6 +995,22 @@
       "duration_ms": 216089,
       "name": "Fuente",
       "url": "https://open.spotify.com/track/77HM9474iN1caGgAFSLsWX"
+    },
+    {
+      "added_at": "2022-09-16 08:29:03",
+      "album": {
+        "name": "Vamo' a Celebrar",
+        "url": "https://open.spotify.com/album/2EAZ76xgfVUAEk8lz0EoGJ"
+      },
+      "artists": [
+        {
+          "name": "Kenny Rivers",
+          "url": "https://open.spotify.com/artist/41twdk8sw4fNv4nosACqp9"
+        }
+      ],
+      "duration_ms": 208615,
+      "name": "Vamo' a Celebrar",
+      "url": "https://open.spotify.com/track/4YYKkzvtWZYfCmWvjjhtNB"
     },
     {
       "added_at": "2022-09-16 08:29:03",
@@ -1039,18 +1055,22 @@
     {
       "added_at": "2022-09-16 08:29:03",
       "album": {
-        "name": "Vamo' a Celebrar",
-        "url": "https://open.spotify.com/album/2EAZ76xgfVUAEk8lz0EoGJ"
+        "name": "Tumba",
+        "url": "https://open.spotify.com/album/0gAvd9iYu6hKJ3DvE9oZv2"
       },
       "artists": [
         {
-          "name": "Kenny Rivers",
-          "url": "https://open.spotify.com/artist/41twdk8sw4fNv4nosACqp9"
+          "name": "JXHN PVUL",
+          "url": "https://open.spotify.com/artist/28H3boz2aIeGYUIEP3cHUU"
+        },
+        {
+          "name": "Tommy Royale",
+          "url": "https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs"
         }
       ],
-      "duration_ms": 208615,
-      "name": "Vamo' a Celebrar",
-      "url": "https://open.spotify.com/track/4YYKkzvtWZYfCmWvjjhtNB"
+      "duration_ms": 152439,
+      "name": "Tumba",
+      "url": "https://open.spotify.com/track/3pG0dfvF8vQZY10HOit7UM"
     },
     {
       "added_at": "2022-09-16 08:29:03",
@@ -1091,46 +1111,6 @@
     {
       "added_at": "2022-09-16 08:29:03",
       "album": {
-        "name": "Tumba",
-        "url": "https://open.spotify.com/album/0gAvd9iYu6hKJ3DvE9oZv2"
-      },
-      "artists": [
-        {
-          "name": "JXHN PVUL",
-          "url": "https://open.spotify.com/artist/28H3boz2aIeGYUIEP3cHUU"
-        },
-        {
-          "name": "Tommy Royale",
-          "url": "https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs"
-        }
-      ],
-      "duration_ms": 152439,
-      "name": "Tumba",
-      "url": "https://open.spotify.com/track/3pG0dfvF8vQZY10HOit7UM"
-    },
-    {
-      "added_at": "2022-09-16 08:29:03",
-      "album": {
-        "name": "Ando Buscando",
-        "url": "https://open.spotify.com/album/15lgAi4rF8nNEwMQwjzBAU"
-      },
-      "artists": [
-        {
-          "name": "Pablo Betancourth",
-          "url": "https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe"
-        },
-        {
-          "name": "Oveja Cosmica",
-          "url": "https://open.spotify.com/artist/753kMQPUSpCNEXk4YcEUy6"
-        }
-      ],
-      "duration_ms": 160979,
-      "name": "Ando Buscando",
-      "url": "https://open.spotify.com/track/4CtrV2YrWF6AeaFmIPzP1j"
-    },
-    {
-      "added_at": "2022-09-16 08:29:03",
-      "album": {
         "name": "158",
         "url": "https://open.spotify.com/album/4atRfdVDjejaG9x0wgiNt8"
       },
@@ -1151,22 +1131,22 @@
     {
       "added_at": "2022-09-16 08:29:03",
       "album": {
-        "name": "Nunca Me Dejas",
-        "url": "https://open.spotify.com/album/2qSeri8SLFoMaGDYdMCFmC"
+        "name": "Ando Buscando",
+        "url": "https://open.spotify.com/album/15lgAi4rF8nNEwMQwjzBAU"
       },
       "artists": [
         {
-          "name": "Joivan Jimenez",
-          "url": "https://open.spotify.com/artist/6Z6iqWKEiZ3n2zOkSVqnUu"
+          "name": "Pablo Betancourth",
+          "url": "https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe"
         },
         {
-          "name": "Reach City Worship",
-          "url": "https://open.spotify.com/artist/7uDyMJ0rQsDhzYV4qohIX5"
+          "name": "Oveja Cosmica",
+          "url": "https://open.spotify.com/artist/753kMQPUSpCNEXk4YcEUy6"
         }
       ],
-      "duration_ms": 236905,
-      "name": "Nunca Me Dejas",
-      "url": "https://open.spotify.com/track/17JM9K2flrvggQ1eMoZH2v"
+      "duration_ms": 160979,
+      "name": "Ando Buscando",
+      "url": "https://open.spotify.com/track/4CtrV2YrWF6AeaFmIPzP1j"
     },
     {
       "added_at": "2022-09-16 08:29:03",
@@ -1203,6 +1183,26 @@
       "duration_ms": 185172,
       "name": "A Puerta Cerrada",
       "url": "https://open.spotify.com/track/0HzcNtVVpTB3IdrzHhfrTO"
+    },
+    {
+      "added_at": "2022-09-16 08:29:03",
+      "album": {
+        "name": "Nunca Me Dejas",
+        "url": "https://open.spotify.com/album/2qSeri8SLFoMaGDYdMCFmC"
+      },
+      "artists": [
+        {
+          "name": "Joivan Jimenez",
+          "url": "https://open.spotify.com/artist/6Z6iqWKEiZ3n2zOkSVqnUu"
+        },
+        {
+          "name": "Reach City Worship",
+          "url": "https://open.spotify.com/artist/7uDyMJ0rQsDhzYV4qohIX5"
+        }
+      ],
+      "duration_ms": 236905,
+      "name": "Nunca Me Dejas",
+      "url": "https://open.spotify.com/track/17JM9K2flrvggQ1eMoZH2v"
     },
     {
       "added_at": "2022-09-16 08:29:03",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2022-09-16 08:29:03",
       "album": {
-        "name": "Somos Las Voces",
-        "url": "https://open.spotify.com/album/379L30GLDmpr85KKQPqCmj"
-      },
-      "artists": [
-        {
-          "name": "Harold Velazquez",
-          "url": "https://open.spotify.com/artist/7whnCG4xTRqrIsagRrrjLj"
-        }
-      ],
-      "duration_ms": 242497,
-      "name": "Somos Las Voces",
-      "url": "https://open.spotify.com/track/5R4hkWGbAiuKFkZaaykViK"
-    },
-    {
-      "added_at": "2022-09-16 08:29:03",
-      "album": {
         "name": "VIVO X TI",
         "url": "https://open.spotify.com/album/59qDobCB7MIjEjdt2brrBL"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 179310,
       "name": "VIVO X TI",
       "url": "https://open.spotify.com/track/3dEo4rRlfd4dN621weMh5j"
+    },
+    {
+      "added_at": "2022-09-16 08:29:03",
+      "album": {
+        "name": "Somos Las Voces",
+        "url": "https://open.spotify.com/album/379L30GLDmpr85KKQPqCmj"
+      },
+      "artists": [
+        {
+          "name": "Harold Velazquez",
+          "url": "https://open.spotify.com/artist/7whnCG4xTRqrIsagRrrjLj"
+        }
+      ],
+      "duration_ms": 242497,
+      "name": "Somos Las Voces",
+      "url": "https://open.spotify.com/track/5R4hkWGbAiuKFkZaaykViK"
     },
     {
       "added_at": "2022-09-16 08:29:03",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2022-09-16 08:29:03",
       "album": {
-        "name": "ROMPE EL CIELO",
-        "url": "https://open.spotify.com/album/5XDIK7qq5CxkSHS99Ryrgq"
-      },
-      "artists": [
-        {
-          "name": "Nancy Amancio",
-          "url": "https://open.spotify.com/artist/4225vUKDHwHhcYY9IRWwX0"
-        }
-      ],
-      "duration_ms": 210818,
-      "name": "La Prueba De Tu Amor",
-      "url": "https://open.spotify.com/track/69TqrxFChYFaQKQuFFi3Xt"
-    },
-    {
-      "added_at": "2022-09-16 08:29:03",
-      "album": {
         "name": "...y Continuamos",
         "url": "https://open.spotify.com/album/6cBviCYJc1U741HDe3kDdE"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 223285,
       "name": "No Pierdas la Fe",
       "url": "https://open.spotify.com/track/3YcFkhYxJCPYWkCTowWdbu"
+    },
+    {
+      "added_at": "2022-09-16 08:29:03",
+      "album": {
+        "name": "ROMPE EL CIELO",
+        "url": "https://open.spotify.com/album/5XDIK7qq5CxkSHS99Ryrgq"
+      },
+      "artists": [
+        {
+          "name": "Nancy Amancio",
+          "url": "https://open.spotify.com/artist/4225vUKDHwHhcYY9IRWwX0"
+        }
+      ],
+      "duration_ms": 210818,
+      "name": "La Prueba De Tu Amor",
+      "url": "https://open.spotify.com/track/69TqrxFChYFaQKQuFFi3Xt"
     },
     {
       "added_at": "2022-09-16 08:29:03",
@@ -1471,26 +1471,6 @@
     {
       "added_at": "2022-09-16 08:29:03",
       "album": {
-        "name": "Seguro Estoy",
-        "url": "https://open.spotify.com/album/7hd0cfdDle1RIhzbd3CwPB"
-      },
-      "artists": [
-        {
-          "name": "Moises Cancel",
-          "url": "https://open.spotify.com/artist/1cwI3HJoAcUsUxO6266mFd"
-        },
-        {
-          "name": "Ingrid Rosario",
-          "url": "https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE"
-        }
-      ],
-      "duration_ms": 278785,
-      "name": "Seguro Estoy",
-      "url": "https://open.spotify.com/track/1sHUz1pV1twY2w0kShSaLq"
-    },
-    {
-      "added_at": "2022-09-16 08:29:03",
-      "album": {
         "name": "Favor & Gracia (Live)",
         "url": "https://open.spotify.com/album/2pZwI5UyQpCk0MckYGocG2"
       },
@@ -1507,6 +1487,26 @@
       "duration_ms": 647506,
       "name": "Llena Este Lugar - Live",
       "url": "https://open.spotify.com/track/4S9dzKT2ZD7TeWTH8XDW1f"
+    },
+    {
+      "added_at": "2022-09-16 08:29:03",
+      "album": {
+        "name": "Seguro Estoy",
+        "url": "https://open.spotify.com/album/7hd0cfdDle1RIhzbd3CwPB"
+      },
+      "artists": [
+        {
+          "name": "Moises Cancel",
+          "url": "https://open.spotify.com/artist/1cwI3HJoAcUsUxO6266mFd"
+        },
+        {
+          "name": "Ingrid Rosario",
+          "url": "https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE"
+        }
+      ],
+      "duration_ms": 278785,
+      "name": "Seguro Estoy",
+      "url": "https://open.spotify.com/track/1sHUz1pV1twY2w0kShSaLq"
     },
     {
       "added_at": "2022-09-16 08:29:03",
@@ -1819,38 +1819,34 @@
     {
       "added_at": "2022-09-16 08:29:03",
       "album": {
-        "name": "Lugar Secreto",
-        "url": "https://open.spotify.com/album/5m8ho5SBRDbEV1jUpCKEWa"
+        "name": "Mi Eterno Destino (Live Session From Los Angeles)",
+        "url": "https://open.spotify.com/album/4ZNs1mvGqLfSbHr86jynKy"
       },
       "artists": [
         {
-          "name": "Harborside Music",
-          "url": "https://open.spotify.com/artist/5Lw266onySIyRJlK8cYzyo"
+          "name": "Estaci\u00f3n Cero",
+          "url": "https://open.spotify.com/artist/0ICDrTxXsdPG2nopFWSRyI"
         }
       ],
-      "duration_ms": 404794,
-      "name": "Lugar Secreto",
-      "url": "https://open.spotify.com/track/1iMCR8Y8cSmPF6SC95pRYJ"
+      "duration_ms": 219878,
+      "name": "Mi Eterno Destino - Live Session From Los Angeles",
+      "url": "https://open.spotify.com/track/0R76qZVB37v5LpuwRNZgkB"
     },
     {
       "added_at": "2022-09-16 08:29:03",
       "album": {
-        "name": "Habitante de Tu Presencia",
-        "url": "https://open.spotify.com/album/1449nF2HmUHgCgPigJtOCp"
+        "name": "Agradecido",
+        "url": "https://open.spotify.com/album/0PYYtz2EVulnRpGwRgY1uw"
       },
       "artists": [
         {
-          "name": "In Christ",
-          "url": "https://open.spotify.com/artist/4Az4DwZLXVPAJS9ABa83b7"
-        },
-        {
-          "name": "Karen Martinez",
-          "url": "https://open.spotify.com/artist/0Tyfm2jXrAt3kfWgEi8IVp"
+          "name": "El Leo Pa\u00b4",
+          "url": "https://open.spotify.com/artist/67SzMFfffYwYnlQhxPGsOt"
         }
       ],
-      "duration_ms": 444275,
-      "name": "Habitante de Tu Presencia",
-      "url": "https://open.spotify.com/track/3XtsYXDhQB7IpglQPRVt9W"
+      "duration_ms": 151094,
+      "name": "Agradecido",
+      "url": "https://open.spotify.com/track/7oXKYJXag5vjyZRuBXidpB"
     }
   ],
   "unique_name": "Novedades Cristianas",

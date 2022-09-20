@@ -4,7 +4,7 @@
 
 > The best new indie tracks by independent artists and labels\. Updates every Wednesday\. Cover: Ghost Orchard, Artwork: Robin Clifford Ellis
 
-885 songs - 2 day 0 hr 8 min - [published](https://open.spotify.com/playlist/7guHIvMo0sEfDGJozxIHmH)
+886 songs - 2 day 0 hr 11 min - [published](https://open.spotify.com/playlist/7guHIvMo0sEfDGJozxIHmH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -262,6 +262,7 @@
 | [FEEL LIKE](https://open.spotify.com/track/6MFtTpEpk8Q2hZKKfid7SE) | [Josh Fudge](https://open.spotify.com/artist/6FvkNLhuBDTYfqbl6PV0xp) | [FEEL LIKE](https://open.spotify.com/album/1eIaahZPGk6xyVETQmZ8pu) | 3:08 | 2021-12-01 | 2022-01-13 |
 | [Feel So Blue](https://open.spotify.com/track/2oMr0m4NUuAyk86GfwnUO6) | [Tom Foolery](https://open.spotify.com/artist/5yCxd7epxWavwfjwl5pKyW) | [Feel So Blue](https://open.spotify.com/album/5HInrC2KY2FWKPKKWfAqol) | 2:28 | 2022-02-22 | 2022-04-07 |
 | [Figure It Out](https://open.spotify.com/track/5MJeaFPpTwo5APVTfWxSHV) | [DINA](https://open.spotify.com/artist/1uQe87XogdfYIUaAWax6D8), [COCO VANILLA](https://open.spotify.com/artist/4PfnpCHYjwslqNCvD849Bw) | [Figure It Out](https://open.spotify.com/album/2PFom5mnKmoKcp40kTwkSJ) | 3:57 | 2022-06-29 | 2022-08-11 |
+| [figure me out](https://open.spotify.com/track/65yTBhByFAm1xoP04NSlOf) | [Brvno](https://open.spotify.com/artist/5jEbZchGgpNRgeBQEgVMyN) | [The Trivial Tape](https://open.spotify.com/album/6XafUhmuHFu4LJ7kQ6PWOa) | 3:18 | 2022-09-19 |  |
 | [fine](https://open.spotify.com/track/3CUMzB3yoy8PXZEPcCLnQs) | [dery](https://open.spotify.com/artist/1ZxMxowLXzup8y1McJ3JbT) | [fine](https://open.spotify.com/album/3zlK0FEGDvGh2ZmJ9KM70N) | 4:14 | 2022-05-11 | 2022-06-09 |
 | [Fingers](https://open.spotify.com/track/07ypKDOPuInEOhAMSn23vj) | [Matt MacNeil](https://open.spotify.com/artist/4hkjHFw0TNbgD6qQRi98do) | [Fingers](https://open.spotify.com/album/6lOW2OGZNrVP4gQDAJOxLG) | 3:15 | 2022-01-26 | 2022-03-03 |
 | [Fire](https://open.spotify.com/track/3e8tFKLCzQgokzFuEFOmqW) | [Sam Florian](https://open.spotify.com/artist/2Cn7Bt3a2QtoJnX6lkJN8y) | [Fire](https://open.spotify.com/album/3UZy0yzNrCgwlp9TRE1GDR) | 2:28 | 2022-02-22 | 2022-03-17 |
@@ -456,7 +457,7 @@
 | [Lookin' 4 Pleasure](https://open.spotify.com/track/2zpFidqnzXMpzQCLTBHTtA) | [Dominic Sen](https://open.spotify.com/artist/152t0HrYcs72GHrhM6x5gF) | [Lookin' 4 Pleasure](https://open.spotify.com/album/40iGpxXRNe5Hx9K9ac26WF) | 3:39 | 2022-05-19 | 2022-05-26 |
 | [Looking Backward](https://open.spotify.com/track/478ZW3J7G43YjMRLUlisaq) | [Darksoft](https://open.spotify.com/artist/5pD33SUgX5GQ8NvqZ6IdeE) | [Cryo](https://open.spotify.com/album/5Y27T3hgkcXG4cCVIqNyZp) | 3:29 | 2022-01-26 | 2022-04-07 |
 | [Loser](https://open.spotify.com/track/5O3wRzvkT0Zao9qoheio6v) | [Wild Love](https://open.spotify.com/artist/2HgUSKcdkOOicatZDmzdn6) | [Loser](https://open.spotify.com/album/0bnuwweufvxmO4hl2acsBK) | 2:52 | 2022-08-24 | 2022-09-07 |
-| [losing my mind](https://open.spotify.com/track/7pyi0IwbpspklysMl3pduX) | [Adriel Rivera](https://open.spotify.com/artist/136zvqW4jnDAaw5m5fUg73) | [losing my mind](https://open.spotify.com/album/6x77PGYcBbHht5jN5YqQRA) | 3:08 | 2022-08-03 |  |
+| [losing my mind](https://open.spotify.com/track/7pyi0IwbpspklysMl3pduX) | [Adriel Rivera](https://open.spotify.com/artist/136zvqW4jnDAaw5m5fUg73) | [losing my mind](https://open.spotify.com/album/6x77PGYcBbHht5jN5YqQRA) | 3:08 | 2022-08-03 | 2022-09-20 |
 | [Lost](https://open.spotify.com/track/4Tyb1yqPkrVI5hyudVc0QW) | [Santé Rose](https://open.spotify.com/artist/6ID6N2FNCPskPc2ERK8IH2) | [Lost](https://open.spotify.com/album/4EqiwDa8jcePX5tx172nTU) | 2:20 | 2022-03-30 | 2022-04-27 |
 | [Lost Soul](https://open.spotify.com/track/2yF4djJtpqB91yMGiraVBU) | [Kofi](https://open.spotify.com/artist/4wwF63jiDeeC5kRfPh35B7) | [Lost Soul](https://open.spotify.com/album/0RdIsUwhawBH47qjDRSx6L) | 1:19 | 2022-01-12 | 2022-01-27 |
 | [Louis](https://open.spotify.com/track/5tbw09OvehQRMunOTJLdb6) | [Charlotte Rose Benjamin](https://open.spotify.com/artist/5NGaAzt758rEP9B9feiQIe) | [Dreamtina](https://open.spotify.com/album/4eqHsqsQkGrhY5qjK8CXMd) | 3:55 | 2022-04-27 | 2022-05-26 |

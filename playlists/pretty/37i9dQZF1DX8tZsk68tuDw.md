@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 
 > Tomorrow's <a href="spotify:genre:edm\_dance">dance</a> hits, with Eliza Rose.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,995,105 likes - 96 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,995,150 likes - 96 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,6 +103,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 | 93 | [Just Can't Get Enough](https://open.spotify.com/track/2SlZsV3sXc69uhUNBQNgkD) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Just Can't Get Enough](https://open.spotify.com/album/4ZAfYKXDMGE7FJEMFGNbmu) | 5:03 |
 | 94 | [Dance Like This](https://open.spotify.com/track/0zPRHnj8UVKetT0mIo2EWF) | [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt) | [Dance Like This](https://open.spotify.com/album/580TCktwPgL3nl5XF01R3V) | 2:32 |
 | 95 | [Anymore](https://open.spotify.com/track/0UYbhQk9tUzDeqjcsfDFRF) | [YAZ](https://open.spotify.com/artist/6VvnLfGL8XDQomLEa91WPk) | [Anymore](https://open.spotify.com/album/78Q3dFiGFA9wZwpm9OSocq) | 2:30 |
-| 96 | [As One](https://open.spotify.com/track/6bGRkVAP6s0oRAWA9us77o) | [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi), [Herizen](https://open.spotify.com/artist/3niPESDNKjDtTNfWzxZkXv) | [As One](https://open.spotify.com/album/6MYD76EnOec2G5Cde26mHd) | 3:58 |
+| 96 | [As One](https://open.spotify.com/track/7iTcMkN69dLMJSKJcA5uSb) | [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi), [Herizen](https://open.spotify.com/artist/3niPESDNKjDtTNfWzxZkXv) | [Anomaly](https://open.spotify.com/album/7J8SSnGauta2Uy7HKhEDMA) | 3:58 |
 
-Snapshot ID: `MTY2MzMwMDgwMCwwMDAwMDAwMDI5YzcyZWRhOGZlZGVjM2JjMGU3ZWZhMGU1YjRjMTZm`
+Snapshot ID: `MTY2MzMwMDgwMCwwMDAwMDAwMGQ2ODQ2NjEyYzkxNzA1YTFlMDE0NWE3MzZiOGRhNTA5`

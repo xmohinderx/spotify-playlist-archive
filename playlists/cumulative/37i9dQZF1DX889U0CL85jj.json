@@ -865,7 +865,7 @@
       ],
       "date_added": "2019-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-20",
       "duration_ms": 237533,
       "name": "Can't Stop Your Lovin'",
       "url": "https://open.spotify.com/track/5P1eorfAD2voGnX7ZbuvFz"
@@ -5689,6 +5689,24 @@
       "duration_ms": 177000,
       "name": "Up All Night",
       "url": "https://open.spotify.com/track/1MkNcbkKddbuLZq1a8Vx7o"
+    },
+    {
+      "album": {
+        "name": "Vacation",
+        "url": "https://open.spotify.com/album/2yyJyMbVCggJxBxTguQdza"
+      },
+      "artists": [
+        {
+          "name": "Honeywhip",
+          "url": "https://open.spotify.com/artist/1yyRuOZtns01N2hUtseLT0"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119743,
+      "name": "Vacation",
+      "url": "https://open.spotify.com/track/7c3o20IFicfq6xzf2BMfrx"
     },
     {
       "album": {

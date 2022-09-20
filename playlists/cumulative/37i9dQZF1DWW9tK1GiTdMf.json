@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-09",
-  "description": "canzoni da gridare \u2764\ufe0f\u200d\ud83e\ude79 Giuze in cover",
+  "description": "canzoni da gridare \u2764\ufe0f\u200d\ud83e\ude79 Sethu in cover",
   "name": "sanguegiovane",
   "published_playlist_ids": [
     "2BZ03rNM0vrjFSXCBigadZ"
@@ -731,10 +731,28 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-20",
       "duration_ms": 173133,
       "name": "Break!",
       "url": "https://open.spotify.com/track/0flObXoVkthxtvvOksCZXI"
+    },
+    {
+      "album": {
+        "name": "SUCKERPUNCH",
+        "url": "https://open.spotify.com/album/0EIqEFEc82T70pVTKh7w1k"
+      },
+      "artists": [
+        {
+          "name": "Maggie Lindemann",
+          "url": "https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151624,
+      "name": "cages",
+      "url": "https://open.spotify.com/track/6zmpq82Tlev82M7BIl5V8b"
     },
     {
       "album": {
@@ -1362,6 +1380,28 @@
     },
     {
       "album": {
+        "name": "fmk (with blackbear)",
+        "url": "https://open.spotify.com/album/2JATwGH1Izmuu47IcnfzSO"
+      },
+      "artists": [
+        {
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+        },
+        {
+          "name": "blackbear",
+          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189075,
+      "name": "fmk (with blackbear)",
+      "url": "https://open.spotify.com/track/1hhMX7QQIhBsXjFmTK7owB"
+    },
+    {
+      "album": {
         "name": "FOLLI",
         "url": "https://open.spotify.com/album/7Cj1uKSvSrJg62NEyt15Rt"
       },
@@ -1431,6 +1471,28 @@
       "duration_ms": 147062,
       "name": "Freaks",
       "url": "https://open.spotify.com/track/7EkWXAI1wn8Ii883ecd9xr"
+    },
+    {
+      "album": {
+        "name": "Fuck U",
+        "url": "https://open.spotify.com/album/6W8ZYTSJHBPjFCmISEJmcT"
+      },
+      "artists": [
+        {
+          "name": "PATRIK",
+          "url": "https://open.spotify.com/artist/5Mwqi2MUNHBzXIVuOuO8ca"
+        },
+        {
+          "name": "Drama",
+          "url": "https://open.spotify.com/artist/2h16TAqr8VkUs8ddUxOS6w"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166642,
+      "name": "Fuck U",
+      "url": "https://open.spotify.com/track/3DMg5Yd3UKAHSt8YGqeewE"
     },
     {
       "album": {
@@ -2117,7 +2179,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-20",
       "duration_ms": 195683,
       "name": "Lacrime di sale",
       "url": "https://open.spotify.com/track/4MbFjClHugcdVpFgF5kqPz"
@@ -2715,7 +2777,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-20",
       "duration_ms": 160645,
       "name": "Niente da ridere",
       "url": "https://open.spotify.com/track/5pNN0sTDhLGkPjGw0XBXQb"
@@ -3587,7 +3649,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-20",
       "duration_ms": 174387,
       "name": "rituale",
       "url": "https://open.spotify.com/track/0YAKQqUzN083tPnjJnI1ui"
@@ -3904,6 +3966,24 @@
     },
     {
       "album": {
+        "name": "SONO PAZZO DI TE!?",
+        "url": "https://open.spotify.com/album/6HnH8uK0OuGF730D7BF6nD"
+      },
+      "artists": [
+        {
+          "name": "Cali",
+          "url": "https://open.spotify.com/artist/0Z2oleyYfipmfCvGMtKhph"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166400,
+      "name": "SONO PAZZO DI TE!?",
+      "url": "https://open.spotify.com/track/7CcbOXv6E8JJQQT3cSHg2y"
+    },
+    {
+      "album": {
         "name": "sotto casa tua",
         "url": "https://open.spotify.com/album/4kLQ38DsCUQ4RPDwmWweWu"
       },
@@ -4063,6 +4143,28 @@
       "duration_ms": 151578,
       "name": "Stanotte",
       "url": "https://open.spotify.com/track/5TUMkiGR2gyObPiOOdblD5"
+    },
+    {
+      "album": {
+        "name": "OCCHI DIVERSI STESSI LIVIDI",
+        "url": "https://open.spotify.com/album/40BvGa3B1yjcGZ5FEySYja"
+      },
+      "artists": [
+        {
+          "name": "SCICCHI",
+          "url": "https://open.spotify.com/artist/1RZTru4OtYVGVs0EsX3639"
+        },
+        {
+          "name": "frambo",
+          "url": "https://open.spotify.com/artist/2uJQNjoh5SPxQUGwA2WA27"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136391,
+      "name": "STANOTTE",
+      "url": "https://open.spotify.com/track/3XfC4Z9zd7zqumicT5ncwZ"
     },
     {
       "album": {
@@ -4471,7 +4573,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-20",
       "duration_ms": 215163,
       "name": "Tissues",
       "url": "https://open.spotify.com/track/0jRY4XO556pn1zHZAoY3ph"

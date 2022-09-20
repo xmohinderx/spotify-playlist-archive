@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most viral tracks right now - Mexico.",
-  "num_followers": 212536,
+  "num_followers": 212537,
   "original_name": "Viral 50 - Mexico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzE2ODE3Mjk1LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzE2OTAyODQ1LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2022-09-18 11:54:55",
+      "added_at": "2022-09-19 11:40:45",
       "album": {
         "name": "Romantic Homicide",
         "url": "https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B"
@@ -25,7 +25,39 @@
       "url": "https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL"
     },
     {
-      "added_at": "2022-09-18 11:54:55",
+      "added_at": "2022-09-19 11:40:45",
+      "album": {
+        "name": "The Midnight Club GT",
+        "url": "https://open.spotify.com/album/2We9hFPWAKxXBmKqSDHXOK"
+      },
+      "artists": [
+        {
+          "name": "Funk Tribu",
+          "url": "https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK"
+        }
+      ],
+      "duration_ms": 286145,
+      "name": "Phonky Tribu",
+      "url": "https://open.spotify.com/track/0uo7p6JtXF7U8x0ktN0Vty"
+    },
+    {
+      "added_at": "2022-09-19 11:40:45",
+      "album": {
+        "name": "No Se Va",
+        "url": "https://open.spotify.com/album/4doKN48F7hHYG3WOujGP0F"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 194019,
+      "name": "No Se Va",
+      "url": "https://open.spotify.com/track/5TXLMRrIet3CQxkyBZc3yE"
+    },
+    {
+      "added_at": "2022-09-19 11:40:45",
       "album": {
         "name": "B.O.T.A. (Baddest Of Them All)",
         "url": "https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK"
@@ -45,39 +77,7 @@
       "url": "https://open.spotify.com/track/39JofJHEtg8I4fSyo7Imft"
     },
     {
-      "added_at": "2022-09-18 11:54:55",
-      "album": {
-        "name": "No Se Va",
-        "url": "https://open.spotify.com/album/4doKN48F7hHYG3WOujGP0F"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 194019,
-      "name": "No Se Va",
-      "url": "https://open.spotify.com/track/5TXLMRrIet3CQxkyBZc3yE"
-    },
-    {
-      "added_at": "2022-09-18 11:54:55",
-      "album": {
-        "name": "HELP EVER HURT NEVER",
-        "url": "https://open.spotify.com/album/03QiFOKDh6xMiSTkOnsmMG"
-      },
-      "artists": [
-        {
-          "name": "Fujii Kaze",
-          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
-        }
-      ],
-      "duration_ms": 185573,
-      "name": "\u6b7b\u306c\u306e\u304c\u3044\u3044\u308f",
-      "url": "https://open.spotify.com/track/0HYAsQwJIO6FLqpyTeD3l6"
-    },
-    {
-      "added_at": "2022-09-18 11:54:55",
+      "added_at": "2022-09-19 11:40:45",
       "album": {
         "name": "BABY OTAKU",
         "url": "https://open.spotify.com/album/7HUH0lFoay2KzGEZqGp55G"
@@ -105,7 +105,23 @@
       "url": "https://open.spotify.com/track/0kTMK4gNFfLXaTb62w1UaJ"
     },
     {
-      "added_at": "2022-09-18 11:54:55",
+      "added_at": "2022-09-19 11:40:45",
+      "album": {
+        "name": "HELP EVER HURT NEVER",
+        "url": "https://open.spotify.com/album/03QiFOKDh6xMiSTkOnsmMG"
+      },
+      "artists": [
+        {
+          "name": "Fujii Kaze",
+          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
+        }
+      ],
+      "duration_ms": 185573,
+      "name": "\u6b7b\u306c\u306e\u304c\u3044\u3044\u308f",
+      "url": "https://open.spotify.com/track/0HYAsQwJIO6FLqpyTeD3l6"
+    },
+    {
+      "added_at": "2022-09-19 11:40:45",
       "album": {
         "name": "NewJeans 1st EP 'New Jeans'",
         "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
@@ -121,7 +137,7 @@
       "url": "https://open.spotify.com/track/0a4MMyCrzT0En247IhqZbD"
     },
     {
-      "added_at": "2022-09-18 11:54:55",
+      "added_at": "2022-09-19 11:40:45",
       "album": {
         "name": "El Jami",
         "url": "https://open.spotify.com/album/511TVSxb1rXXuTfUHWdTXO"
@@ -137,7 +153,7 @@
       "url": "https://open.spotify.com/track/05DOiyiRvyed2Kd5Z1sV7S"
     },
     {
-      "added_at": "2022-09-18 11:54:55",
+      "added_at": "2022-09-19 11:40:45",
       "album": {
         "name": "[MESSAGE FROM THE CLERGY]",
         "url": "https://open.spotify.com/album/1BbfbJZan9d1srv8aHavom"
@@ -153,23 +169,23 @@
       "url": "https://open.spotify.com/track/7wdwIaXUuzlu1grzWMFRJm"
     },
     {
-      "added_at": "2022-09-18 11:54:55",
+      "added_at": "2022-09-19 11:40:45",
       "album": {
-        "name": "Orgullo Moreno",
-        "url": "https://open.spotify.com/album/0w3wRmm17KQSnRwby3fRQf"
+        "name": "NewJeans 1st EP 'New Jeans'",
+        "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
       },
       "artists": [
         {
-          "name": "Elmer y Diano",
-          "url": "https://open.spotify.com/artist/5NxQeIebpgWlmphZHXtsHs"
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Orgullo Moreno",
-      "url": "https://open.spotify.com/track/4x9nnQQTZZbLAptcKdMwAa"
+      "duration_ms": 180066,
+      "name": "Attention",
+      "url": "https://open.spotify.com/track/2pIUpMhHL6L9Z5lnKxJJr9"
     },
     {
-      "added_at": "2022-09-18 11:54:55",
+      "added_at": "2022-09-19 11:40:45",
       "album": {
         "name": "SHADOW",
         "url": "https://open.spotify.com/album/4w0uRvtIjqipuoZ7ngqqcV"
@@ -189,23 +205,23 @@
       "url": "https://open.spotify.com/track/0wGbyS1tExQSwOYu6UceyE"
     },
     {
-      "added_at": "2022-09-18 11:54:55",
+      "added_at": "2022-09-19 11:40:45",
       "album": {
-        "name": "NewJeans 1st EP 'New Jeans'",
-        "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
+        "name": "Orgullo Moreno",
+        "url": "https://open.spotify.com/album/0w3wRmm17KQSnRwby3fRQf"
       },
       "artists": [
         {
-          "name": "NewJeans",
-          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+          "name": "Elmer y Diano",
+          "url": "https://open.spotify.com/artist/5NxQeIebpgWlmphZHXtsHs"
         }
       ],
-      "duration_ms": 180066,
-      "name": "Attention",
-      "url": "https://open.spotify.com/track/2pIUpMhHL6L9Z5lnKxJJr9"
+      "duration_ms": 168000,
+      "name": "Orgullo Moreno",
+      "url": "https://open.spotify.com/track/4x9nnQQTZZbLAptcKdMwAa"
     },
     {
-      "added_at": "2022-09-18 11:54:55",
+      "added_at": "2022-09-19 11:40:45",
       "album": {
         "name": "Que Te Vaya Bien",
         "url": "https://open.spotify.com/album/5TPUAeZb0S1JxxUZeGWbUW"
@@ -221,7 +237,7 @@
       "url": "https://open.spotify.com/track/1kJXYVVUu7o3B9gaJpoxjm"
     },
     {
-      "added_at": "2022-09-18 11:54:55",
+      "added_at": "2022-09-19 11:40:45",
       "album": {
         "name": "La Bachata",
         "url": "https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2"
@@ -237,7 +253,23 @@
       "url": "https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u"
     },
     {
-      "added_at": "2022-09-18 11:54:55",
+      "added_at": "2022-09-19 11:40:45",
+      "album": {
+        "name": "365",
+        "url": "https://open.spotify.com/album/01bt5fJVQWZw8bpD1sL6lL"
+      },
+      "artists": [
+        {
+          "name": "Los Reales Del R\u00edo",
+          "url": "https://open.spotify.com/artist/2A6M5I2g7VpFJW950JP6rV"
+        }
+      ],
+      "duration_ms": 188471,
+      "name": "365",
+      "url": "https://open.spotify.com/track/5BAM5vA7mem7otR5ylQxFx"
+    },
+    {
+      "added_at": "2022-09-19 11:40:45",
       "album": {
         "name": "LPM",
         "url": "https://open.spotify.com/album/3fsLDApUM08iTJDtKoXE0L"
@@ -253,7 +285,7 @@
       "url": "https://open.spotify.com/track/1yeN7zkjU0DU1SGEwvxMEk"
     },
     {
-      "added_at": "2022-09-18 11:54:55",
+      "added_at": "2022-09-19 11:40:45",
       "album": {
         "name": "Siempre Pendientes",
         "url": "https://open.spotify.com/album/23UaQnh22hlEWcbGMJidJm"
@@ -273,7 +305,7 @@
       "url": "https://open.spotify.com/track/5PfFHceiEv61KldMOuVrv8"
     },
     {
-      "added_at": "2022-09-18 11:54:55",
+      "added_at": "2022-09-19 11:40:45",
       "album": {
         "name": "My Type EP",
         "url": "https://open.spotify.com/album/2r69WsAMyjbgLf8c4woaUr"
@@ -289,7 +321,23 @@
       "url": "https://open.spotify.com/track/6RKGBcDtgzXx21zUjpeu6F"
     },
     {
-      "added_at": "2022-09-18 11:54:55",
+      "added_at": "2022-09-19 11:40:45",
+      "album": {
+        "name": "BORN PINK",
+        "url": "https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "duration_ms": 186964,
+      "name": "Pink Venom",
+      "url": "https://open.spotify.com/track/5zwwW9Oq7ubSxoCGyW1nbY"
+    },
+    {
+      "added_at": "2022-09-19 11:40:45",
       "album": {
         "name": "Volv\u00ed a Creer",
         "url": "https://open.spotify.com/album/70Lc4xSgJ1jAxS5G4GlgxC"
@@ -305,23 +353,7 @@
       "url": "https://open.spotify.com/track/2yOfYBPbdI0mi1nTyc9npI"
     },
     {
-      "added_at": "2022-09-18 11:54:55",
-      "album": {
-        "name": "Rave & Roses",
-        "url": "https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 219668,
-      "name": "Calm Down",
-      "url": "https://open.spotify.com/track/3BnDvpeuGOj21Ir2aVEtQo"
-    },
-    {
-      "added_at": "2022-09-18 11:54:55",
+      "added_at": "2022-09-19 11:40:45",
       "album": {
         "name": "\u00bfY Qu\u00e9 Tal Si Funciona?",
         "url": "https://open.spotify.com/album/1XLUXguw1oUNDVAvzMl4rq"
@@ -341,39 +373,39 @@
       "url": "https://open.spotify.com/track/6yKoIv4jJSb7trcphSZofT"
     },
     {
-      "added_at": "2022-09-18 11:54:55",
+      "added_at": "2022-09-19 11:40:45",
       "album": {
-        "name": "BORN PINK",
-        "url": "https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM"
+        "name": "Rave & Roses",
+        "url": "https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG"
       },
       "artists": [
         {
-          "name": "BLACKPINK",
-          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
         }
       ],
-      "duration_ms": 186964,
-      "name": "Pink Venom",
-      "url": "https://open.spotify.com/track/5zwwW9Oq7ubSxoCGyW1nbY"
+      "duration_ms": 219668,
+      "name": "Calm Down",
+      "url": "https://open.spotify.com/track/3BnDvpeuGOj21Ir2aVEtQo"
     },
     {
-      "added_at": "2022-09-18 11:54:55",
+      "added_at": "2022-09-19 11:40:45",
       "album": {
-        "name": "XT4S1S",
-        "url": "https://open.spotify.com/album/2SGONYwprYHZruYFhQYiFC"
+        "name": "After LIKE",
+        "url": "https://open.spotify.com/album/0nzRF7khA2UDSZa9T0B6Da"
       },
       "artists": [
         {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
         }
       ],
-      "duration_ms": 219320,
-      "name": "XT4S1S",
-      "url": "https://open.spotify.com/track/7dMTCS9BLzBqYTlAuHP8TM"
+      "duration_ms": 176973,
+      "name": "After LIKE",
+      "url": "https://open.spotify.com/track/2gYj9lubBorOPIVWsTXugG"
     },
     {
-      "added_at": "2022-09-18 11:54:55",
+      "added_at": "2022-09-19 11:40:45",
       "album": {
         "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
         "url": "https://open.spotify.com/album/4PNqWiJAfjj32hVvlchV5u"
@@ -393,23 +425,23 @@
       "url": "https://open.spotify.com/track/2tTmW7RDtMQtBk7m2rYeSw"
     },
     {
-      "added_at": "2022-09-18 11:54:55",
+      "added_at": "2022-09-19 11:40:45",
       "album": {
-        "name": "After LIKE",
-        "url": "https://open.spotify.com/album/0nzRF7khA2UDSZa9T0B6Da"
+        "name": "XT4S1S",
+        "url": "https://open.spotify.com/album/2SGONYwprYHZruYFhQYiFC"
       },
       "artists": [
         {
-          "name": "IVE",
-          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
         }
       ],
-      "duration_ms": 176973,
-      "name": "After LIKE",
-      "url": "https://open.spotify.com/track/2gYj9lubBorOPIVWsTXugG"
+      "duration_ms": 219320,
+      "name": "XT4S1S",
+      "url": "https://open.spotify.com/track/7dMTCS9BLzBqYTlAuHP8TM"
     },
     {
-      "added_at": "2022-09-18 11:54:55",
+      "added_at": "2022-09-19 11:40:45",
       "album": {
         "name": "FELIZ CUMPLEA\u00d1OS FERXXO TE PIRATEAMOS EL \u00c1LBUM",
         "url": "https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9"
@@ -425,7 +457,7 @@
       "url": "https://open.spotify.com/track/2CeKVsFFXG4QzA415QygGb"
     },
     {
-      "added_at": "2022-09-18 11:54:55",
+      "added_at": "2022-09-19 11:40:45",
       "album": {
         "name": "METAMORPHOSIS",
         "url": "https://open.spotify.com/album/3apQZbgVql9mHJlp43jk5D"
@@ -441,7 +473,7 @@
       "url": "https://open.spotify.com/track/2ksyzVfU0WJoBpu8otr4pz"
     },
     {
-      "added_at": "2022-09-18 11:54:55",
+      "added_at": "2022-09-19 11:40:45",
       "album": {
         "name": "De Adentro Pa Afuera",
         "url": "https://open.spotify.com/album/1UTDgnpHmthIsdzSxbhpV2"
@@ -461,7 +493,23 @@
       "url": "https://open.spotify.com/track/7xsew7zvk3Y5XctO2W6MnO"
     },
     {
-      "added_at": "2022-09-18 11:54:55",
+      "added_at": "2022-09-19 11:40:45",
+      "album": {
+        "name": "Bonita",
+        "url": "https://open.spotify.com/album/0GrIKHwtfk4TpzwwJh9QPu"
+      },
+      "artists": [
+        {
+          "name": "Los Dorados",
+          "url": "https://open.spotify.com/artist/3q0KiiH0SqZoOftCEZNAis"
+        }
+      ],
+      "duration_ms": 201084,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/5CYjYxgqGkYVXP70iVasim"
+    },
+    {
+      "added_at": "2022-09-19 11:40:45",
       "album": {
         "name": "Delincuente",
         "url": "https://open.spotify.com/album/3QySYdsvCpB84Tvzkj24Ta"
@@ -485,23 +533,7 @@
       "url": "https://open.spotify.com/track/2ROQe6QkIXODJRx0y8UjzV"
     },
     {
-      "added_at": "2022-09-18 11:54:55",
-      "album": {
-        "name": "Bonita",
-        "url": "https://open.spotify.com/album/0GrIKHwtfk4TpzwwJh9QPu"
-      },
-      "artists": [
-        {
-          "name": "Los Dorados",
-          "url": "https://open.spotify.com/artist/3q0KiiH0SqZoOftCEZNAis"
-        }
-      ],
-      "duration_ms": 201084,
-      "name": "Bonita",
-      "url": "https://open.spotify.com/track/5CYjYxgqGkYVXP70iVasim"
-    },
-    {
-      "added_at": "2022-09-18 11:54:55",
+      "added_at": "2022-09-19 11:40:45",
       "album": {
         "name": "c\u00f3mo dormiste?",
         "url": "https://open.spotify.com/album/2jt6z03JV7Ax8ZdlOrs9BK"
@@ -517,7 +549,7 @@
       "url": "https://open.spotify.com/track/3fjN3y5x4hN53rykAN2LHQ"
     },
     {
-      "added_at": "2022-09-18 11:54:55",
+      "added_at": "2022-09-19 11:40:45",
       "album": {
         "name": "No Me Conformo",
         "url": "https://open.spotify.com/album/60qMDnkh443HxIVbZRImIu"
@@ -541,7 +573,7 @@
       "url": "https://open.spotify.com/track/6t8OjozDxyWUprWqIB58IT"
     },
     {
-      "added_at": "2022-09-18 11:54:55",
+      "added_at": "2022-09-19 11:40:45",
       "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
@@ -561,7 +593,7 @@
       "url": "https://open.spotify.com/track/3k3NWokhRRkEPhCzPmV8TW"
     },
     {
-      "added_at": "2022-09-18 11:54:55",
+      "added_at": "2022-09-19 11:40:45",
       "album": {
         "name": "MOTOMAMI +",
         "url": "https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr"
@@ -577,39 +609,7 @@
       "url": "https://open.spotify.com/track/53tfEupEzQRtVFOeZvk7xq"
     },
     {
-      "added_at": "2022-09-18 11:54:55",
-      "album": {
-        "name": "Mora (ALOCATE REMAKE)",
-        "url": "https://open.spotify.com/album/4tVjVT03N8IgSQH4vUnR0Z"
-      },
-      "artists": [
-        {
-          "name": "44musicla",
-          "url": "https://open.spotify.com/artist/4su6k5XKfq9OaLyuudTWza"
-        }
-      ],
-      "duration_ms": 188929,
-      "name": "Mora (ALOCATE REMAKE)",
-      "url": "https://open.spotify.com/track/5SWRohMTnae9mrts8TAMcO"
-    },
-    {
-      "added_at": "2022-09-18 11:54:55",
-      "album": {
-        "name": "Canciones de Mi Pueblo",
-        "url": "https://open.spotify.com/album/7ACSF32tvdNiJLp6bxxaZh"
-      },
-      "artists": [
-        {
-          "name": "Aida Cuevas",
-          "url": "https://open.spotify.com/artist/5BOm3jiZCxwCXXJ0Hstubr"
-        }
-      ],
-      "duration_ms": 195586,
-      "name": "Viva Mexico",
-      "url": "https://open.spotify.com/track/6Ax9ldRfQH3RDAmBZGBkiA"
-    },
-    {
-      "added_at": "2022-09-18 11:54:55",
+      "added_at": "2022-09-19 11:40:45",
       "album": {
         "name": "Himnos Nacionales De Latino America",
         "url": "https://open.spotify.com/album/4UGfXKTW4BmEjk24ZiNT1Q"
@@ -625,7 +625,39 @@
       "url": "https://open.spotify.com/track/6WbxsSeaWPfYaz7X1pceoh"
     },
     {
-      "added_at": "2022-09-18 11:54:55",
+      "added_at": "2022-09-19 11:40:45",
+      "album": {
+        "name": "Canciones de Mi Pueblo",
+        "url": "https://open.spotify.com/album/7ACSF32tvdNiJLp6bxxaZh"
+      },
+      "artists": [
+        {
+          "name": "Aida Cuevas",
+          "url": "https://open.spotify.com/artist/5BOm3jiZCxwCXXJ0Hstubr"
+        }
+      ],
+      "duration_ms": 195586,
+      "name": "Viva Mexico",
+      "url": "https://open.spotify.com/track/6Ax9ldRfQH3RDAmBZGBkiA"
+    },
+    {
+      "added_at": "2022-09-19 11:40:45",
+      "album": {
+        "name": "Mora (ALOCATE REMAKE)",
+        "url": "https://open.spotify.com/album/4tVjVT03N8IgSQH4vUnR0Z"
+      },
+      "artists": [
+        {
+          "name": "44musicla",
+          "url": "https://open.spotify.com/artist/4su6k5XKfq9OaLyuudTWza"
+        }
+      ],
+      "duration_ms": 188929,
+      "name": "Mora (ALOCATE REMAKE)",
+      "url": "https://open.spotify.com/track/5SWRohMTnae9mrts8TAMcO"
+    },
+    {
+      "added_at": "2022-09-19 11:40:45",
       "album": {
         "name": "Mexico en la Piel (edicion diamante)",
         "url": "https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM"
@@ -641,7 +673,7 @@
       "url": "https://open.spotify.com/track/5BPq1UQa1NSN647R6IzD3n"
     },
     {
-      "added_at": "2022-09-18 11:54:55",
+      "added_at": "2022-09-19 11:40:45",
       "album": {
         "name": "L3tra",
         "url": "https://open.spotify.com/album/70ubyVo5JwY94DLaZBkIBI"
@@ -657,7 +689,7 @@
       "url": "https://open.spotify.com/track/6i1g5ZRmJZAkDwBaUZ3f2i"
     },
     {
-      "added_at": "2022-09-18 11:54:55",
+      "added_at": "2022-09-19 11:40:45",
       "album": {
         "name": "Sabes una Cosa... Gracias Mam\u00e1",
         "url": "https://open.spotify.com/album/62CTMztT7tGrT3s7wUItwz"
@@ -673,39 +705,7 @@
       "url": "https://open.spotify.com/track/2t4Xr23WCRxao3l6EdJaXY"
     },
     {
-      "added_at": "2022-09-18 11:54:55",
-      "album": {
-        "name": "Un Verano Contigo",
-        "url": "https://open.spotify.com/album/3ptuyzxvfJe0o6uS0Wdy6Q"
-      },
-      "artists": [
-        {
-          "name": "Magus",
-          "url": "https://open.spotify.com/artist/2jNWUl9jXcCc3Rwt0FxEQz"
-        }
-      ],
-      "duration_ms": 137000,
-      "name": "Ojos Llorosos",
-      "url": "https://open.spotify.com/track/6MCb9dUGR4Oq4xKV1phz0z"
-    },
-    {
-      "added_at": "2022-09-18 11:54:55",
-      "album": {
-        "name": "M\u00fasica de America",
-        "url": "https://open.spotify.com/album/3NoSCNr4O7hKlpibE7HiRR"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Vargas De Tecalitl\u00e1n",
-          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "El son de la negra",
-      "url": "https://open.spotify.com/track/4WppqUEIiLL4kyo406nnJN"
-    },
-    {
-      "added_at": "2022-09-18 11:54:55",
+      "added_at": "2022-09-19 11:40:45",
       "album": {
         "name": "Calidad",
         "url": "https://open.spotify.com/album/2ZaaYylAxHJ6sPJe9mHwHb"
@@ -725,7 +725,39 @@
       "url": "https://open.spotify.com/track/0uBcoM4zxRXk7kmsmxoiFS"
     },
     {
-      "added_at": "2022-09-18 11:54:55",
+      "added_at": "2022-09-19 11:40:45",
+      "album": {
+        "name": "Un Verano Contigo",
+        "url": "https://open.spotify.com/album/3ptuyzxvfJe0o6uS0Wdy6Q"
+      },
+      "artists": [
+        {
+          "name": "Magus",
+          "url": "https://open.spotify.com/artist/2jNWUl9jXcCc3Rwt0FxEQz"
+        }
+      ],
+      "duration_ms": 137000,
+      "name": "Ojos Llorosos",
+      "url": "https://open.spotify.com/track/6MCb9dUGR4Oq4xKV1phz0z"
+    },
+    {
+      "added_at": "2022-09-19 11:40:45",
+      "album": {
+        "name": "M\u00fasica de America",
+        "url": "https://open.spotify.com/album/3NoSCNr4O7hKlpibE7HiRR"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Vargas De Tecalitl\u00e1n",
+          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "El son de la negra",
+      "url": "https://open.spotify.com/track/4WppqUEIiLL4kyo406nnJN"
+    },
+    {
+      "added_at": "2022-09-19 11:40:45",
       "album": {
         "name": "El Rescate",
         "url": "https://open.spotify.com/album/32QttkMiHZ1eXkXv6BVGcP"
@@ -745,7 +777,7 @@
       "url": "https://open.spotify.com/track/4w273WCBXwM4P3jTX5HkB2"
     },
     {
-      "added_at": "2022-09-18 11:54:55",
+      "added_at": "2022-09-19 11:40:45",
       "album": {
         "name": "Sex Symbol",
         "url": "https://open.spotify.com/album/5tf8kuqoGGyPD6xxhPLlst"
@@ -761,7 +793,7 @@
       "url": "https://open.spotify.com/track/3scW7pt0vlhkCCgCNv5YR9"
     },
     {
-      "added_at": "2022-09-18 11:54:55",
+      "added_at": "2022-09-19 11:40:45",
       "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
@@ -777,7 +809,7 @@
       "url": "https://open.spotify.com/track/31i56LZnwE6uSu3exoHjtB"
     },
     {
-      "added_at": "2022-09-18 11:54:55",
+      "added_at": "2022-09-19 11:40:45",
       "album": {
         "name": "Ojos Marrones",
         "url": "https://open.spotify.com/album/5cgqNq1Esd6F0D1vQ9uD63"
@@ -793,7 +825,7 @@
       "url": "https://open.spotify.com/track/7gwT3HGL84vF7bgtwL1N88"
     },
     {
-      "added_at": "2022-09-18 11:54:55",
+      "added_at": "2022-09-19 11:40:45",
       "album": {
         "name": "Degeneraci\u00f3n Nacional",
         "url": "https://open.spotify.com/album/6pV6SSMwxUzqGRC5OZjrCi"
@@ -813,7 +845,7 @@
       "url": "https://open.spotify.com/track/5eiWiZtsTE7EZqSBkcxKkP"
     },
     {
-      "added_at": "2022-09-18 11:54:55",
+      "added_at": "2022-09-19 11:40:45",
       "album": {
         "name": "LOKERA",
         "url": "https://open.spotify.com/album/4vJcqwIGUuk5TeP29OPovU"
@@ -837,7 +869,7 @@
       "url": "https://open.spotify.com/track/79HZAZNnOE97rb2hnI0XQr"
     },
     {
-      "added_at": "2022-09-18 11:54:55",
+      "added_at": "2022-09-19 11:40:45",
       "album": {
         "name": "AM",
         "url": "https://open.spotify.com/album/6645HGh7ZOZSUTpqW9iYLR"
@@ -851,46 +883,6 @@
       "duration_ms": 183956,
       "name": "I Wanna Be Yours",
       "url": "https://open.spotify.com/track/7a8GawTVgHZvBLQOh46he7"
-    },
-    {
-      "added_at": "2022-09-18 11:54:55",
-      "album": {
-        "name": "Tirando Flow Sesh #5",
-        "url": "https://open.spotify.com/album/0BXoU3t2NxldnHZm789lex"
-      },
-      "artists": [
-        {
-          "name": "Dan Garc\u00eda",
-          "url": "https://open.spotify.com/artist/2yqTf1WKahF4ViLmvnX6Fy"
-        },
-        {
-          "name": "Ritorukai",
-          "url": "https://open.spotify.com/artist/0D59XKX7L0hK51MK9fn4H8"
-        },
-        {
-          "name": "ND Kobi'",
-          "url": "https://open.spotify.com/artist/65vpTU1WPlaRYEX5UKTfrl"
-        }
-      ],
-      "duration_ms": 155625,
-      "name": "Tirando Flow Sesh #5",
-      "url": "https://open.spotify.com/track/3hUzo223UXPJfO2T5oFpfh"
-    },
-    {
-      "added_at": "2022-09-18 11:54:55",
-      "album": {
-        "name": "Nadie",
-        "url": "https://open.spotify.com/album/5iuN3Kw1xtaZG57eSq4irA"
-      },
-      "artists": [
-        {
-          "name": "Ariel Camacho",
-          "url": "https://open.spotify.com/artist/5s31VTVh96lZBPphv51mIH"
-        }
-      ],
-      "duration_ms": 230060,
-      "name": "Nadie",
-      "url": "https://open.spotify.com/track/35slTpVgFj2OktYcYUBqAA"
     }
   ],
   "unique_name": "Viral 50 - Mexico",

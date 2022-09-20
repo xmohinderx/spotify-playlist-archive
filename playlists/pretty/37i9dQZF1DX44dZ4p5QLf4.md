@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 
 > A blend of new songs and new artists in the neo\-soul space\. Cover: Steve Lacy
 
-[Spotify](https://open.spotify.com/user/spotify) - 449,589 likes - 104 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 449,695 likes - 104 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-264 songs - 15 hr 31 min - [published](https://open.spotify.com/playlist/0rvk5w1vdyj62Mqfk2UdnJ)
+265 songs - 15 hr 34 min - [published](https://open.spotify.com/playlist/0rvk5w1vdyj62Mqfk2UdnJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,7 +181,7 @@
 | [Outta My Head](https://open.spotify.com/track/2kYEXIl4BmVZ7WxCRTvnns) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL) | [BXU](https://open.spotify.com/album/4nwYxSA4OjDBTFpiY2yKoJ) | 2:29 | 2022-04-12 | 2022-06-22 |
 | [Over The Water](https://open.spotify.com/track/5zXyoTtfe1YRXWeilcPcaJ) | [ATTLAS](https://open.spotify.com/artist/0jM4IKp6YlTxq8tNDH9fX3), [Mango](https://open.spotify.com/artist/5x6H8meBBWk6J8qcIWxW7w) | [Over The Water](https://open.spotify.com/album/2HcOB7CmgTbZu3fPAvTHeL) | 3:30 | 2022-07-22 |  |
 | [Overcast](https://open.spotify.com/track/1dyoS4DZxZ30XsWlJJk4kM) | [Feathervane](https://open.spotify.com/artist/7j32fTp3oaXsRUmnIQixaX), [OREONIC](https://open.spotify.com/artist/336UacimPDVf0A1Y7yXTcm) | [Overcast](https://open.spotify.com/album/3rcCjWUJuOX7rmdsLc7PTl) | 3:33 | 2022-09-09 |  |
-| [Parhelion](https://open.spotify.com/track/15wsMaJCE6nZQgpivhk46A) | [Stendahl](https://open.spotify.com/artist/7hLrjiuNxZIf9JSPz2CbAo) | [Parhelion](https://open.spotify.com/album/59CxJMzonDgoGlmDPVneGj) | 3:34 | 2022-07-08 |  |
+| [Parhelion](https://open.spotify.com/track/15wsMaJCE6nZQgpivhk46A) | [Stendahl](https://open.spotify.com/artist/7hLrjiuNxZIf9JSPz2CbAo) | [Parhelion](https://open.spotify.com/album/59CxJMzonDgoGlmDPVneGj) | 3:34 | 2022-07-08 | 2022-09-20 |
 | [Perfect](https://open.spotify.com/track/3h4NC7LmDnz05P5rv1DGRK) | [Silent Child](https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M) | [Perfect](https://open.spotify.com/album/5rYoX9kP81D7w11FdjQSxe) | 2:26 | 2022-04-05 | 2022-06-15 |
 | [PEW PEW](https://open.spotify.com/track/0VUiaSYJJgUF0JvweD6Mr9) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9) | [PEW PEW](https://open.spotify.com/album/24SclrXmcuFi7wwD8UZoy3) | 3:19 | 2022-07-14 |  |
 | [Phases Of The Moon](https://open.spotify.com/track/4V7J0Au7NmhmPV9WwKcr48) | [Embliss](https://open.spotify.com/artist/5MSK0EcJzGYAEgTCY7EIAa), [Lumynesynth](https://open.spotify.com/artist/2piOPWDGkopcabpha2zngD) | [Phases Of The Moon](https://open.spotify.com/album/4KE7wS3749LiK3LZFjBVSW) | 4:18 | 2022-07-13 |  |
@@ -190,6 +190,7 @@
 | [Rainbow Rave Parade](https://open.spotify.com/track/0hsD0hitwYa7SbFrpniYuS) | [Chime](https://open.spotify.com/artist/3hMTYaexWgGkXqvbkt6EIS) | [Rainbow Rave Parade](https://open.spotify.com/album/7D4xvOL1vzaKhLM2JIRkWz) | 3:32 | 2022-02-28 | 2022-05-11 |
 | [Rays](https://open.spotify.com/track/72tvo13t5mUarSFhYfU4aG) | [Liam Thomas](https://open.spotify.com/artist/0CDvUUuendAExit0nkRVpN) | [Rays](https://open.spotify.com/album/57mAquqvqkTjkPTkpOjAsh) | 2:30 | 2022-05-25 | 2022-08-05 |
 | [Read Your Lips](https://open.spotify.com/track/7Hvefk37fvqZBtnDlp6ux9) | [DEXTER KING](https://open.spotify.com/artist/1cTcLDR0Y5LuXv7VlOQKmO), [Donna Tella](https://open.spotify.com/artist/39czNpwEAe5tGKIE53XDmm) | [Read Your Lips](https://open.spotify.com/album/4a3UmNTVGw42B39bLhKfZb) | 3:27 | 2021-11-19 | 2022-01-25 |
+| [Reason](https://open.spotify.com/track/62BS0SmeL2LGgpiTTcFYQ0) | [Danny Leax](https://open.spotify.com/artist/7LhadozhnDqlnrs6thTnIu), [Reeva](https://open.spotify.com/artist/6O0oqZZ8xqHnFmzdjhZg6r) | [Reason](https://open.spotify.com/album/1j6JOatRilhTi6yfM7ZEnQ) | 2:44 | 2022-09-19 |  |
 | [Red](https://open.spotify.com/track/2yZDl0edy9OfH2a8W9ynbK) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT) | [Red](https://open.spotify.com/album/5NSzBQyB8v5YpVeePihtP2) | 3:26 | 2022-07-15 |  |
 | [Remedy](https://open.spotify.com/track/1A7abr0cUK9WZRO4AjT0UQ) | [Maliboux](https://open.spotify.com/artist/157IWDnr2hC9SFL5OJF8j7) | [Remedy](https://open.spotify.com/album/2RfxoMmdN94qeqmbfSGsaz) | 2:35 | 2022-04-26 | 2022-07-07 |
 | [Right Through](https://open.spotify.com/track/4KyDMzlS1tynHxn3t6SpIJ) | [Kage](https://open.spotify.com/artist/6ehv7BnQkNEh7Hqd8rRcot), [Asdek](https://open.spotify.com/artist/2rxubOde1svVDYAVDy7PDS) | [The Chase](https://open.spotify.com/album/5ihPWCYA0YE9mPIScQAQMG) | 3:22 | 2022-05-26 | 2022-08-06 |

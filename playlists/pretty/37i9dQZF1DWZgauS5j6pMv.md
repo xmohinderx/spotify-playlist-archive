@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 
 > The best of today's funk\. Cover: Dabeull
 
-[Spotify](https://open.spotify.com/user/spotify) - 272,293 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 272,657 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 | 85 | [Your Sweet Power](https://open.spotify.com/track/4TdfrvxJ2OD1IMMgq4ip0t) | [JB Stark](https://open.spotify.com/artist/0wDQ0wyB5XgsYkLaXsyNqm), [Kestra](https://open.spotify.com/artist/7udzSgwVGJxs3AyFnBD41K) | [Your Sweet Power](https://open.spotify.com/album/0jaJ9e6vSp9noMKJ0xlOaD) | 2:50 |
 | 86 | [Stone Cold Lover](https://open.spotify.com/track/0S5odtCg5QVBkKCVu3vsrl) | [Anduze](https://open.spotify.com/artist/52uJn5izVG1gicalLRYGQn) | [Aura](https://open.spotify.com/album/2TbHzkncYSsWB5xTyl4MtN) | 4:06 |
 | 87 | [Chicken Wings](https://open.spotify.com/track/42F8JMc5pSlGShBkhR0uPQ) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Chicken Wings](https://open.spotify.com/album/0q22c9Zv8OZ7owt8o0jj4X) | 2:48 |
-| 88 | [All Day \(feat\. Eren Cannata and Aaron Janik\)](https://open.spotify.com/track/7kGtjCDWSXuImBomjoeKS5) | [Wake the Wild](https://open.spotify.com/artist/3gi0dYfoSKUqGYRO9Ixhf9), [Eren Cannata](https://open.spotify.com/artist/41RREi0dkr25wYIjgL6O69), [Aaron Janik](https://open.spotify.com/artist/29HcxjpgVWYBjERb3VGmmL) | [Made 4 U](https://open.spotify.com/album/06JiMwMp2OyALOUX9gn8No) | 3:06 |
+| 88 | [All Day](https://open.spotify.com/track/49S2zEVuoV3BcA2mdyowiA) | [Wake the Wild](https://open.spotify.com/artist/3gi0dYfoSKUqGYRO9Ixhf9), [Eren Cannata](https://open.spotify.com/artist/41RREi0dkr25wYIjgL6O69), [Aaron Janik](https://open.spotify.com/artist/29HcxjpgVWYBjERb3VGmmL) | [Made 4 U](https://open.spotify.com/album/7MtJoa3DKfwRls9963YtqX) | 3:06 |
 | 89 | [Tightrope](https://open.spotify.com/track/1v2gz3Z8jdh8LzhM8j1sdc) | [Kwaku Asante](https://open.spotify.com/artist/2aUr9B6iwO3eYiEHJIpB0M) | [Blue Solstice: Volume 1](https://open.spotify.com/album/5gIGA2nOaMi0JRio4ATLr8) | 3:40 |
 | 90 | [You Are In My System](https://open.spotify.com/track/2kSStoNv9O3SLvOXebvuVt) | [Incognito](https://open.spotify.com/artist/5moJNCJeiNwuQAhDLJXULs), [Bluey](https://open.spotify.com/artist/3JYDa2gsS6juqnzBT9wdm9) | [Always There: 1981\-2021 \(40 Years & Still Groovin’\)](https://open.spotify.com/album/1gcxfIY8oeRYr203cTsjVP) | 5:43 |
 | 91 | [I Won't Do U Like That](https://open.spotify.com/track/7DKnkvTDOyFfKXCF8QY4we) | [Landon Sears](https://open.spotify.com/artist/3IKbh0wq6dhJduifP0yPi3) | [Call Collect 8](https://open.spotify.com/album/5WKe6hq1b2Ywo2wpn1o2fD) | 2:35 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 | 99 | [You Got Me](https://open.spotify.com/track/5nLKrvpQBb8sE3MvEfQGFI) | [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k), [Dana Williams](https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc) | [You Got Me](https://open.spotify.com/album/2cogfCjxAEmXoWHFex4gDN) | 3:00 |
 | 100 | [Witchoo](https://open.spotify.com/track/6W9rbkBueZQrwuzO24GHZ2) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Private Space](https://open.spotify.com/album/3nZHH9trTO9xrV1XrW18cW) | 3:42 |
 
-Snapshot ID: `MTY2MzMwMDg2MCwwMDAwMDAwMGI3MjBiNDUxMmE3YzY2OWQ2MDcyNWNmOTIxY2NjYmRh`
+Snapshot ID: `MTY2MzMwMDg2MCwwMDAwMDAwMGUxOGY5ZWQzNTRmNmFmMzAxMDdjNmYzMWEwYzhhMzQw`

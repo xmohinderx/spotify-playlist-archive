@@ -1,12 +1,12 @@
 {
   "description": "Immerse yourself in the mysticism of Tulum!",
-  "num_followers": 52709,
+  "num_followers": 52929,
   "original_name": "Tulum Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMwMzc0OCwwMDAwMDAwMDlmZGQ2MTQ3NGRlZGJlZDMzMzBlY2QzY2M1NTAwYjI2",
+  "snapshot_id": "MTY2MzU5NTE0MywwMDAwMDAwMDE0MTlhMzVkOGY0NGQ4OTY2ZGM5MmRlZTAwMTgxY2Rh",
   "tracks": [
     {
       "added_at": "2022-06-15 04:26:09",
@@ -49,6 +49,22 @@
       "url": "https://open.spotify.com/track/2jG2P21A1c45YU0Z1euaNB"
     },
     {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Mordechai",
+        "url": "https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "duration_ms": 167972,
+      "name": "Pelota",
+      "url": "https://open.spotify.com/track/6FNdzxV9g4NaINrejBTPUi"
+    },
+    {
       "added_at": "2022-08-03 03:35:17",
       "album": {
         "name": "Savanne",
@@ -67,22 +83,6 @@
       "duration_ms": 316093,
       "name": "Savanne",
       "url": "https://open.spotify.com/track/4EtXoWsTabm86xzjQSAwoU"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "Mordechai",
-        "url": "https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        }
-      ],
-      "duration_ms": 167972,
-      "name": "Pelota",
-      "url": "https://open.spotify.com/track/6FNdzxV9g4NaINrejBTPUi"
     },
     {
       "added_at": "2022-08-02 22:05:40",
@@ -229,6 +229,26 @@
       "url": "https://open.spotify.com/track/5LciLoxa1gK70yIUeoHgRx"
     },
     {
+      "added_at": "2022-09-19 13:45:43",
+      "album": {
+        "name": "Fiera",
+        "url": "https://open.spotify.com/album/1yjWcaPexYHc4DYKFfVfuc"
+      },
+      "artists": [
+        {
+          "name": "Electropico",
+          "url": "https://open.spotify.com/artist/0vBqXIopwkJEQZEssLZEBK"
+        },
+        {
+          "name": "Mr. Pauer",
+          "url": "https://open.spotify.com/artist/0yYKXWJ4TLMKfx4UugL8dJ"
+        }
+      ],
+      "duration_ms": 170329,
+      "name": "Pacifico Soy",
+      "url": "https://open.spotify.com/track/3HU8CSLqd7d6XSHOfWggmK"
+    },
+    {
       "added_at": "2022-06-15 04:26:09",
       "album": {
         "name": "Dancy Party",
@@ -247,6 +267,22 @@
       "duration_ms": 194160,
       "name": "Siesta Freestyle",
       "url": "https://open.spotify.com/track/6ZHKeoIOkvmYUIfxHLtE2Z"
+    },
+    {
+      "added_at": "2022-09-03 03:55:19",
+      "album": {
+        "name": "Al Otro Lado del Mar",
+        "url": "https://open.spotify.com/album/1cMLf2f5pP1TDA5z0sGi8G"
+      },
+      "artists": [
+        {
+          "name": "Son de Aqu\u00ed",
+          "url": "https://open.spotify.com/artist/1LY5S6drcTyXaGRQSuv3mJ"
+        }
+      ],
+      "duration_ms": 258000,
+      "name": "Todo Cambia",
+      "url": "https://open.spotify.com/track/2f3mTJUP0bhLf9q9jgfIeQ"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -269,22 +305,6 @@
       "url": "https://open.spotify.com/track/1wXeMZqegwYZ2zWtrwvXab"
     },
     {
-      "added_at": "2022-09-03 03:55:19",
-      "album": {
-        "name": "Al Otro Lado del Mar",
-        "url": "https://open.spotify.com/album/1cMLf2f5pP1TDA5z0sGi8G"
-      },
-      "artists": [
-        {
-          "name": "Son de Aqu\u00ed",
-          "url": "https://open.spotify.com/artist/1LY5S6drcTyXaGRQSuv3mJ"
-        }
-      ],
-      "duration_ms": 258000,
-      "name": "Todo Cambia",
-      "url": "https://open.spotify.com/track/2f3mTJUP0bhLf9q9jgfIeQ"
-    },
-    {
       "added_at": "2022-07-01 02:43:42",
       "album": {
         "name": "Sacatela",
@@ -299,38 +319,6 @@
       "duration_ms": 172026,
       "name": "Sacatela",
       "url": "https://open.spotify.com/track/7AQSnI0NylqRyXJTvN1Aku"
-    },
-    {
-      "added_at": "2022-08-19 01:51:18",
-      "album": {
-        "name": "Caf\u00e9 del Mar XXVIII (Vol. 28)",
-        "url": "https://open.spotify.com/album/50hSMsot2349bT8bzyPzfy"
-      },
-      "artists": [
-        {
-          "name": "Yvonne Archer",
-          "url": "https://open.spotify.com/artist/7silPKojiZ1G2aa6RVmTFa"
-        }
-      ],
-      "duration_ms": 266401,
-      "name": "Ain't Nobody - 12\" Mix",
-      "url": "https://open.spotify.com/track/6RJp9ofpbFw1HCZ2gW3YrU"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "Amanecer",
-        "url": "https://open.spotify.com/album/7GQzUp6R1CtA9CmsVZg090"
-      },
-      "artists": [
-        {
-          "name": "Bomba Est\u00e9reo",
-          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
-        }
-      ],
-      "duration_ms": 269346,
-      "name": "Algo Est\u00e1 Cambiando",
-      "url": "https://open.spotify.com/track/5dLz5CRzW8RcNEptn0NtOi"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -351,6 +339,22 @@
       "duration_ms": 312914,
       "name": "Cumbia Sobre el Mar - El B\u00faho Remix",
       "url": "https://open.spotify.com/track/0HdHd5mJlqFqv8PqAGDsEw"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Amanecer",
+        "url": "https://open.spotify.com/album/7GQzUp6R1CtA9CmsVZg090"
+      },
+      "artists": [
+        {
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+        }
+      ],
+      "duration_ms": 269346,
+      "name": "Algo Est\u00e1 Cambiando",
+      "url": "https://open.spotify.com/track/5dLz5CRzW8RcNEptn0NtOi"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -425,22 +429,6 @@
       "url": "https://open.spotify.com/track/5WgW9bG91h4zRUnBr97d6c"
     },
     {
-      "added_at": "2022-08-19 02:17:00",
-      "album": {
-        "name": "Wish Wish",
-        "url": "https://open.spotify.com/album/55cssb6785kwtAxP2Pv0Bf"
-      },
-      "artists": [
-        {
-          "name": "Weste",
-          "url": "https://open.spotify.com/artist/5TlgMX2qZVaWy2JI12tK2q"
-        }
-      ],
-      "duration_ms": 254709,
-      "name": "Estupor",
-      "url": "https://open.spotify.com/track/6h6GKLDOKNfdDMTZa24GGF"
-    },
-    {
       "added_at": "2022-06-15 04:26:09",
       "album": {
         "name": "Chan Chan",
@@ -491,22 +479,6 @@
       "duration_ms": 219600,
       "name": "Hipn\u00f3tico",
       "url": "https://open.spotify.com/track/7kNUjyZQ1YWN1Nv4JvTaiD"
-    },
-    {
-      "added_at": "2022-08-19 02:57:24",
-      "album": {
-        "name": "Spin",
-        "url": "https://open.spotify.com/album/6GejDhVjHKAmQnPkyW6csf"
-      },
-      "artists": [
-        {
-          "name": "Triathalon",
-          "url": "https://open.spotify.com/artist/2SaIA1enj83vEmJikZdjQ3"
-        }
-      ],
-      "duration_ms": 175250,
-      "name": "XP",
-      "url": "https://open.spotify.com/track/6wYZP0PNiWW5LaAB9JNyQb"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -615,6 +587,22 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
+        "name": "Ojos",
+        "url": "https://open.spotify.com/album/0nt8pOx5bT4aU24zQ5RW9v"
+      },
+      "artists": [
+        {
+          "name": "Mente Org\u00e1nica",
+          "url": "https://open.spotify.com/artist/1wfwGvcBGamXiXxuaExHRT"
+        }
+      ],
+      "duration_ms": 310401,
+      "name": "Manos",
+      "url": "https://open.spotify.com/track/2lkrvCh5EArrBxSagwHRX1"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
         "name": "Psychedelic Train",
         "url": "https://open.spotify.com/album/06w7pCU6snW8ydhyUp8yk3"
       },
@@ -647,22 +635,6 @@
       "duration_ms": 432963,
       "name": "Spies Are Watching Me",
       "url": "https://open.spotify.com/track/1UIqpCB0b56K7U0JJPfskN"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "Ojos",
-        "url": "https://open.spotify.com/album/0nt8pOx5bT4aU24zQ5RW9v"
-      },
-      "artists": [
-        {
-          "name": "Mente Org\u00e1nica",
-          "url": "https://open.spotify.com/artist/1wfwGvcBGamXiXxuaExHRT"
-        }
-      ],
-      "duration_ms": 310401,
-      "name": "Manos",
-      "url": "https://open.spotify.com/track/2lkrvCh5EArrBxSagwHRX1"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -793,26 +765,6 @@
       "url": "https://open.spotify.com/track/0GVu2gXzurD0FBL7CHqE0F"
     },
     {
-      "added_at": "2022-08-13 00:58:04",
-      "album": {
-        "name": "P\u00e1jaros en Verano",
-        "url": "https://open.spotify.com/album/2LZp9KgxfRodgUI4NbKvWS"
-      },
-      "artists": [
-        {
-          "name": "Ela Minus",
-          "url": "https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T"
-        },
-        {
-          "name": "DJ Python",
-          "url": "https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "P\u00e1jaros en Verano",
-      "url": "https://open.spotify.com/track/13T0NsBgMUpCQIPvpEWWTq"
-    },
-    {
       "added_at": "2022-06-15 04:26:09",
       "album": {
         "name": "Paloma + Remixes",
@@ -835,6 +787,26 @@
       "duration_ms": 506655,
       "name": "Paloma",
       "url": "https://open.spotify.com/track/4lvRuiCSvrrfmnAb4YHZHn"
+    },
+    {
+      "added_at": "2022-08-13 00:58:04",
+      "album": {
+        "name": "P\u00e1jaros en Verano",
+        "url": "https://open.spotify.com/album/2LZp9KgxfRodgUI4NbKvWS"
+      },
+      "artists": [
+        {
+          "name": "Ela Minus",
+          "url": "https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T"
+        },
+        {
+          "name": "DJ Python",
+          "url": "https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "P\u00e1jaros en Verano",
+      "url": "https://open.spotify.com/track/13T0NsBgMUpCQIPvpEWWTq"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -889,22 +861,6 @@
       "url": "https://open.spotify.com/track/3C8jZgiUP0pP1l58837NzH"
     },
     {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "Hunch Music",
-        "url": "https://open.spotify.com/album/2Zkm6fLuFZ6gywkYeFsewV"
-      },
-      "artists": [
-        {
-          "name": "Hunee",
-          "url": "https://open.spotify.com/artist/6uElH4moADg7AGB3DCGOwy"
-        }
-      ],
-      "duration_ms": 351207,
-      "name": "Rare Happiness",
-      "url": "https://open.spotify.com/track/2bpvml9LqQIWz1wkiYUcv0"
-    },
-    {
       "added_at": "2022-08-11 18:18:05",
       "album": {
         "name": "French Samba",
@@ -923,6 +879,22 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
+        "name": "Hunch Music",
+        "url": "https://open.spotify.com/album/2Zkm6fLuFZ6gywkYeFsewV"
+      },
+      "artists": [
+        {
+          "name": "Hunee",
+          "url": "https://open.spotify.com/artist/6uElH4moADg7AGB3DCGOwy"
+        }
+      ],
+      "duration_ms": 351207,
+      "name": "Rare Happiness",
+      "url": "https://open.spotify.com/track/2bpvml9LqQIWz1wkiYUcv0"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
         "name": "Grind / Prelims",
         "url": "https://open.spotify.com/album/0hDAUxNVrjkDmfzuVCueMs"
       },
@@ -935,22 +907,6 @@
       "duration_ms": 318014,
       "name": "Grind",
       "url": "https://open.spotify.com/track/13LVADAG1jdD42fe5wihFc"
-    },
-    {
-      "added_at": "2022-08-08 21:58:41",
-      "album": {
-        "name": "Ven Vamos",
-        "url": "https://open.spotify.com/album/3E8idq0ECWEwgb8FpbZCdG"
-      },
-      "artists": [
-        {
-          "name": "Mula",
-          "url": "https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE"
-        }
-      ],
-      "duration_ms": 203265,
-      "name": "Ven Vamos",
-      "url": "https://open.spotify.com/track/0cHpCzglPxJodZNGM5DsRD"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -967,6 +923,22 @@
       "duration_ms": 214553,
       "name": "Chicha Nola - Alternative Version",
       "url": "https://open.spotify.com/track/0PNXaIFtSKlXDJSzWPy8YG"
+    },
+    {
+      "added_at": "2022-08-08 21:58:41",
+      "album": {
+        "name": "Ven Vamos",
+        "url": "https://open.spotify.com/album/3E8idq0ECWEwgb8FpbZCdG"
+      },
+      "artists": [
+        {
+          "name": "Mula",
+          "url": "https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE"
+        }
+      ],
+      "duration_ms": 203265,
+      "name": "Ven Vamos",
+      "url": "https://open.spotify.com/track/0cHpCzglPxJodZNGM5DsRD"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -1191,22 +1163,6 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Aire",
-        "url": "https://open.spotify.com/album/3ubY132O5YHYoxn65Vh72T"
-      },
-      "artists": [
-        {
-          "name": "Bomba Est\u00e9reo",
-          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
-        }
-      ],
-      "duration_ms": 273946,
-      "name": "Ahora",
-      "url": "https://open.spotify.com/track/6W19LhykJsHs6R93DtCP4F"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
         "name": "Forevernevermore",
         "url": "https://open.spotify.com/album/2NhQapO6mTOWbip0fvru36"
       },
@@ -1243,22 +1199,18 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Better When We're Close",
-        "url": "https://open.spotify.com/album/3QAQLlcR4CVx9ySkuNNnah"
+        "name": "Aire",
+        "url": "https://open.spotify.com/album/3ubY132O5YHYoxn65Vh72T"
       },
       "artists": [
         {
-          "name": "Poolside",
-          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
-        },
-        {
-          "name": "Brijean",
-          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
         }
       ],
-      "duration_ms": 213453,
-      "name": "Better When We're Close",
-      "url": "https://open.spotify.com/track/3ZGIZOg6juy0TkF1Gy8Gzg"
+      "duration_ms": 273946,
+      "name": "Ahora",
+      "url": "https://open.spotify.com/track/6W19LhykJsHs6R93DtCP4F"
     },
     {
       "added_at": "2022-08-05 19:16:49",
@@ -1283,6 +1235,26 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
+        "name": "Better When We're Close",
+        "url": "https://open.spotify.com/album/3QAQLlcR4CVx9ySkuNNnah"
+      },
+      "artists": [
+        {
+          "name": "Poolside",
+          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
+        },
+        {
+          "name": "Brijean",
+          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
+        }
+      ],
+      "duration_ms": 213453,
+      "name": "Better When We're Close",
+      "url": "https://open.spotify.com/track/3ZGIZOg6juy0TkF1Gy8Gzg"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
         "name": "La Cura",
         "url": "https://open.spotify.com/album/0SMT9ClQIEh49gPEIPH1Nf"
       },
@@ -1299,6 +1271,38 @@
       "duration_ms": 181000,
       "name": "La Cura",
       "url": "https://open.spotify.com/track/0UVwUs9TMKgee3kvE2uMxC"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Theme from Selva",
+        "url": "https://open.spotify.com/album/6ht7LwHxyNVk8gkqGaK6mM"
+      },
+      "artists": [
+        {
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+        }
+      ],
+      "duration_ms": 340720,
+      "name": "Nineteen Hundred and Eighty Five",
+      "url": "https://open.spotify.com/track/65KrPjUkVnvUUfQaDGn6n7"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "R\u00fambala",
+        "url": "https://open.spotify.com/album/4yf3TyT75f33sAq1o1ORuR"
+      },
+      "artists": [
+        {
+          "name": "Eva de Marce",
+          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
+        }
+      ],
+      "duration_ms": 178823,
+      "name": "R\u00fambala",
+      "url": "https://open.spotify.com/track/0YjGcWlFaksNtsCIxfrmur"
     }
   ],
   "unique_name": "Tulum Vibes",

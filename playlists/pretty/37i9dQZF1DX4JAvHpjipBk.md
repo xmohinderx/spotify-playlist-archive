@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from BLACKPINK, Fred again.., WizKid, Charlie Puth,  and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,959,324 likes - 99 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,959,414 likes - 99 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 76 | [Born To Win](https://open.spotify.com/track/0wau3pD9eDZQRBzg0J3LkE) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Emtee](https://open.spotify.com/artist/6U3gCOvxVWKBxXItqp3mdr) | [Ivyson Army Tour Mixtape](https://open.spotify.com/album/0K1Kj60U6juaomxBtPoaS4) | 2:58 |
 | 77 | [Ghetto Prophets \(feat\. Conway the Machine\)](https://open.spotify.com/track/348cKYhYZPgTen0diYP8Gc) | [Cam’ron](https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS) | [Ghetto Prophets \(feat\. Conway the Machine\)](https://open.spotify.com/album/2ekZrPlgo9wGLcIcoytUru) | 3:07 |
 | 78 | [Talkin](https://open.spotify.com/track/0u1VMv2aVqY1AC9qkCdZUH) | [Alex Vaughn](https://open.spotify.com/artist/24S5IyzXICyGscL4vYshdq) | [Talkin](https://open.spotify.com/album/3nHJDlDfY5j2jTbfyzAmQs) | 1:55 |
-| 79 | [Chasing the Sun](https://open.spotify.com/track/0BB77DvXvevei2pSXP65Jg) | [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [Chasing The Sun](https://open.spotify.com/album/1zLtpGBpnjsCTUf88E2GXw) | 3:42 |
+| 79 | [Chasing the Sun](https://open.spotify.com/track/0VXgPkyJ1BJ9QXcMv3nDFB) | [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [Carving Canyons](https://open.spotify.com/album/0keDX0kFNMMZtGWK3YP5GO) | 3:42 |
 | 80 | [Ashes By The Morning](https://open.spotify.com/track/1idK6bIrrGRcIPV7UdH3fL) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [Bored Of The Circus](https://open.spotify.com/album/4oothiJCmPORbNYinRinfo) | 3:02 |
 | 81 | [Joe](https://open.spotify.com/track/2fSdrOgBjisneSqSwhXWsn) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Joe](https://open.spotify.com/album/6jZmjxCxlbPxxeClvZbjZo) | 3:07 |
 | 82 | [DRAIN STORY](https://open.spotify.com/track/3FkKsImisypEJBOkFWBM2B) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [DRAIN STORY](https://open.spotify.com/album/5QREUQq9c50HA4ObUAl7Og) | 1:50 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 98 | [spaceship](https://open.spotify.com/track/0Ur8l6XzIAwrCW3lGfbOg9) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [god's work](https://open.spotify.com/album/03Y0AUSO0y4o22FL1732Yi) | 4:07 |
 | 99 | [HOW U FEELIN](https://open.spotify.com/track/4zck4tvazBAvyXI8JLOnso) | [Naomi Wild](https://open.spotify.com/artist/5EBlHXi71tDXnFtroEh7Rg), [Tempest](https://open.spotify.com/artist/2FBvlvG5TL6SPA2tCLiusa) | [HOW U FEELIN](https://open.spotify.com/album/5oEQ744C5gWQdEskIvCn69) | 3:14 |
 
-Snapshot ID: `MTY2MzMwMTE4NywwMDAwMDAwMGVlZmUyYzcyMThmYTAwODc1ZDYyZDU3ZmM2ZTVlNjg0`
+Snapshot ID: `MTY2MzMwMTE4NywwMDAwMDAwMGEyNGE1ODY2ZDIxNTBiZTMxMjBhNDUzZGFkMjY5NTVj`

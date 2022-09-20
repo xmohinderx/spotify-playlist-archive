@@ -1,12 +1,12 @@
 {
   "description": "A collection of the best Metal covers out there. Cover: Metallica",
-  "num_followers": 185003,
+  "num_followers": 185191,
   "original_name": "Metal Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTUxODgwMCwwMDAwMDAwMDYyOWU4YjY1M2Q0MGY0OTQxNjBhMWI3MzkxYjZjZjcw",
+  "snapshot_id": "MTY2MTUxODgwMCwwMDAwMDAwMDAzNjk2MTNiNTQ2MzE5ZjYzMjBkZTBlNzRiZjIyMzk4",
   "tracks": [
     {
       "added_at": "2022-06-13 06:46:14",
@@ -283,22 +283,6 @@
     {
       "added_at": "2022-06-13 06:46:14",
       "album": {
-        "name": "Ruthless",
-        "url": "https://open.spotify.com/album/5cfpgi0vLEmw2w5BZwSdtt"
-      },
-      "artists": [
-        {
-          "name": "Nonpoint",
-          "url": "https://open.spotify.com/artist/6BdSOHfQ6kMg0tbAFlXR1z"
-        }
-      ],
-      "duration_ms": 232548,
-      "name": "When Doves Cry - Radio Edit",
-      "url": "https://open.spotify.com/track/6I0tw70v94hTCPjg1iZjrX"
-    },
-    {
-      "added_at": "2022-06-13 06:46:14",
-      "album": {
         "name": "The Sound of Perseverance - Reissue",
         "url": "https://open.spotify.com/album/0p6DxsQOhQ5qiBnUu9G1PB"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 362346,
       "name": "Painkiller",
       "url": "https://open.spotify.com/track/4uOSpJxcpzeNCWXYoXGJM1"
+    },
+    {
+      "added_at": "2022-06-13 06:46:14",
+      "album": {
+        "name": "Beat It",
+        "url": "https://open.spotify.com/album/3EIpsdVjwGV0Bf20sF2QvL"
+      },
+      "artists": [
+        {
+          "name": "One Morning Left",
+          "url": "https://open.spotify.com/artist/4QGKWF55nqfGYToZkoZPRF"
+        }
+      ],
+      "duration_ms": 210639,
+      "name": "Beat It",
+      "url": "https://open.spotify.com/track/0O7fXel2uzgJraKd1NBSVb"
     },
     {
       "added_at": "2022-06-13 06:46:14",
@@ -331,18 +331,18 @@
     {
       "added_at": "2022-06-13 06:46:14",
       "album": {
-        "name": "Beat It",
-        "url": "https://open.spotify.com/album/3EIpsdVjwGV0Bf20sF2QvL"
+        "name": "Ruthless",
+        "url": "https://open.spotify.com/album/5cfpgi0vLEmw2w5BZwSdtt"
       },
       "artists": [
         {
-          "name": "One Morning Left",
-          "url": "https://open.spotify.com/artist/4QGKWF55nqfGYToZkoZPRF"
+          "name": "Nonpoint",
+          "url": "https://open.spotify.com/artist/6BdSOHfQ6kMg0tbAFlXR1z"
         }
       ],
-      "duration_ms": 210639,
-      "name": "Beat It",
-      "url": "https://open.spotify.com/track/0O7fXel2uzgJraKd1NBSVb"
+      "duration_ms": 232548,
+      "name": "When Doves Cry - Radio Edit",
+      "url": "https://open.spotify.com/track/6I0tw70v94hTCPjg1iZjrX"
     },
     {
       "added_at": "2022-06-13 06:46:14",
@@ -727,22 +727,6 @@
     {
       "added_at": "2022-06-13 06:46:14",
       "album": {
-        "name": "Lose Yourself",
-        "url": "https://open.spotify.com/album/36LDkbYemz8vhelZvh3b9F"
-      },
-      "artists": [
-        {
-          "name": "Our Last Night",
-          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
-        }
-      ],
-      "duration_ms": 207453,
-      "name": "Lose Yourself",
-      "url": "https://open.spotify.com/track/7wKLhqM1eZHAB3W8GBFV6W"
-    },
-    {
-      "added_at": "2022-06-13 06:46:14",
-      "album": {
         "name": "The Blood of Gods",
         "url": "https://open.spotify.com/album/4Ps3txaybLW14aDROZ48sL"
       },
@@ -759,22 +743,6 @@
     {
       "added_at": "2022-06-13 06:46:14",
       "album": {
-        "name": "Hidden Treasures",
-        "url": "https://open.spotify.com/album/3jfeL3OUh2Kimx9ZKja8fY"
-      },
-      "artists": [
-        {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
-        }
-      ],
-      "duration_ms": 183360,
-      "name": "No More Mr. Nice Guy",
-      "url": "https://open.spotify.com/track/48xclRgatXaAZQVIc6DYcT"
-    },
-    {
-      "added_at": "2022-06-13 06:46:14",
-      "album": {
         "name": "Chop Suey!",
         "url": "https://open.spotify.com/album/6FDx7On1oIaLAn95L3Swhx"
       },
@@ -787,6 +755,22 @@
       "duration_ms": 214500,
       "name": "Chop Suey!",
       "url": "https://open.spotify.com/track/6mAtV1MrrpaAFtcUgSj3q0"
+    },
+    {
+      "added_at": "2022-06-13 06:46:14",
+      "album": {
+        "name": "Hidden Treasures",
+        "url": "https://open.spotify.com/album/3jfeL3OUh2Kimx9ZKja8fY"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 183360,
+      "name": "No More Mr. Nice Guy",
+      "url": "https://open.spotify.com/track/48xclRgatXaAZQVIc6DYcT"
     },
     {
       "added_at": "2022-06-13 06:46:14",
@@ -823,6 +807,22 @@
     {
       "added_at": "2022-06-13 06:46:14",
       "album": {
+        "name": "Lose Yourself",
+        "url": "https://open.spotify.com/album/36LDkbYemz8vhelZvh3b9F"
+      },
+      "artists": [
+        {
+          "name": "Our Last Night",
+          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
+        }
+      ],
+      "duration_ms": 207453,
+      "name": "Lose Yourself",
+      "url": "https://open.spotify.com/track/7wKLhqM1eZHAB3W8GBFV6W"
+    },
+    {
+      "added_at": "2022-06-13 06:46:14",
+      "album": {
         "name": "Graveyard Classics",
         "url": "https://open.spotify.com/album/6xAD5ZjKofuXaFi7sR79IV"
       },
@@ -839,22 +839,6 @@
     {
       "added_at": "2022-06-13 06:46:14",
       "album": {
-        "name": "Extreme Power Metal",
-        "url": "https://open.spotify.com/album/0xgC478TCYgc4BaO7nAheO"
-      },
-      "artists": [
-        {
-          "name": "DragonForce",
-          "url": "https://open.spotify.com/artist/2pH3wEn4eYlMMIIQyKPbVR"
-        }
-      ],
-      "duration_ms": 204760,
-      "name": "My Heart Will Go On",
-      "url": "https://open.spotify.com/track/2XdidRMHUsStcYW1Gujcry"
-    },
-    {
-      "added_at": "2022-06-13 06:46:14",
-      "album": {
         "name": "Riddles, Ruins & Revelations",
         "url": "https://open.spotify.com/album/3nsfNu84qheLQ4GeJ8XSUm"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 258564,
       "name": "Voyage Voyage",
       "url": "https://open.spotify.com/track/4LINHMbBmU74hxAENodgh3"
+    },
+    {
+      "added_at": "2022-06-13 06:46:14",
+      "album": {
+        "name": "Extreme Power Metal",
+        "url": "https://open.spotify.com/album/0xgC478TCYgc4BaO7nAheO"
+      },
+      "artists": [
+        {
+          "name": "DragonForce",
+          "url": "https://open.spotify.com/artist/2pH3wEn4eYlMMIIQyKPbVR"
+        }
+      ],
+      "duration_ms": 204760,
+      "name": "My Heart Will Go On",
+      "url": "https://open.spotify.com/track/2XdidRMHUsStcYW1Gujcry"
     },
     {
       "added_at": "2022-06-13 06:46:14",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2022-06-13 06:46:14",
       "album": {
-        "name": "Renegades",
-        "url": "https://open.spotify.com/album/387RMZLKNvf1s3ZPSIkYCM"
-      },
-      "artists": [
-        {
-          "name": "36 Crazyfists",
-          "url": "https://open.spotify.com/artist/4ijGLY4dzlurDh7jqH3tW7"
-        }
-      ],
-      "duration_ms": 208906,
-      "name": "Renegades",
-      "url": "https://open.spotify.com/track/66gXuXJx50t2a8XGwhDiHP"
-    },
-    {
-      "added_at": "2022-06-13 06:46:14",
-      "album": {
         "name": "Medium Rarities",
         "url": "https://open.spotify.com/album/3xeGtowrXCRjPOmZahNAoW"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 495591,
       "name": "Orion",
       "url": "https://open.spotify.com/track/1tvr1RopO3KsVQwP8etKA5"
+    },
+    {
+      "added_at": "2022-06-13 06:46:14",
+      "album": {
+        "name": "Renegades",
+        "url": "https://open.spotify.com/album/387RMZLKNvf1s3ZPSIkYCM"
+      },
+      "artists": [
+        {
+          "name": "36 Crazyfists",
+          "url": "https://open.spotify.com/artist/4ijGLY4dzlurDh7jqH3tW7"
+        }
+      ],
+      "duration_ms": 208906,
+      "name": "Renegades",
+      "url": "https://open.spotify.com/track/66gXuXJx50t2a8XGwhDiHP"
     },
     {
       "added_at": "2022-06-13 06:46:14",

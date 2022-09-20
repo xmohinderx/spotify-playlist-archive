@@ -1,12 +1,12 @@
 {
   "description": "Una fusi\u00f3n moderna de m\u00fasica Cristiana que alimenta el alma.",
-  "num_followers": 304909,
+  "num_followers": 305145,
   "original_name": "Creo En Ti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyMTYyNDc2NywwMDAwMDAwMDFhMmE4OTFhZWFhNDllNDk4NDAxMTUxMzUyMjRjMzMx",
+  "snapshot_id": "MTYyMTYyNDc2NywwMDAwMDAwMDY3YzY4MDYyODNmYTM5ZWMyYjQzMTY3YThjMzk4OTc3",
   "tracks": [
     {
       "added_at": "2021-05-21 19:19:27",
@@ -215,22 +215,6 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "Sin Miedo a Nada",
-        "url": "https://open.spotify.com/album/6bE37X0KW4GckXJaD2GQb8"
-      },
-      "artists": [
-        {
-          "name": "Lilly Goodman",
-          "url": "https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS"
-        }
-      ],
-      "duration_ms": 243066,
-      "name": "Al Final",
-      "url": "https://open.spotify.com/track/5qM3CXQgoHVdzTMCIPb1xK"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
         "name": "De Vuelta Al Jardin",
         "url": "https://open.spotify.com/album/4TKIXPyW2jTchcOFw1xAf6"
       },
@@ -259,6 +243,38 @@
       "duration_ms": 499506,
       "name": "Here as in Heaven",
       "url": "https://open.spotify.com/track/0fPwregqch9wLJj4yQH6Bk"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
+        "name": "Sin Miedo a Nada",
+        "url": "https://open.spotify.com/album/6bE37X0KW4GckXJaD2GQb8"
+      },
+      "artists": [
+        {
+          "name": "Lilly Goodman",
+          "url": "https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS"
+        }
+      ],
+      "duration_ms": 243066,
+      "name": "Al Final",
+      "url": "https://open.spotify.com/track/5qM3CXQgoHVdzTMCIPb1xK"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
+        "name": "El Aire De Tu Casa",
+        "url": "https://open.spotify.com/album/0Jttxgk5XzLJgGtJQQWmHd"
+      },
+      "artists": [
+        {
+          "name": "Jes\u00fas Adri\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
+        }
+      ],
+      "duration_ms": 202480,
+      "name": "Es Por Tu Gracia",
+      "url": "https://open.spotify.com/track/2eraB6aW3YLpAJO22mO4GW"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -307,22 +323,6 @@
       "duration_ms": 274106,
       "name": "Tu Poeta",
       "url": "https://open.spotify.com/track/4yatXJP2xfGvVpEQOthgqV"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
-        "name": "El Aire De Tu Casa",
-        "url": "https://open.spotify.com/album/0Jttxgk5XzLJgGtJQQWmHd"
-      },
-      "artists": [
-        {
-          "name": "Jes\u00fas Adri\u00e1n Romero",
-          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
-        }
-      ],
-      "duration_ms": 202480,
-      "name": "Es Por Tu Gracia",
-      "url": "https://open.spotify.com/track/2eraB6aW3YLpAJO22mO4GW"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -411,22 +411,6 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "Comenzar de Cero",
-        "url": "https://open.spotify.com/album/3aAURLKBcjNlwKtyQ5wiMS"
-      },
-      "artists": [
-        {
-          "name": "Tercer Cielo",
-          "url": "https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz"
-        }
-      ],
-      "duration_ms": 230791,
-      "name": "Comenzar de Cero",
-      "url": "https://open.spotify.com/track/2qXnPsj2I6hFMU7KL2E8m2"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
         "name": "Incontenible Es Tu Amor",
         "url": "https://open.spotify.com/album/3US7xplIUPp647q67nCMS0"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 438519,
       "name": "Yo Tambi\u00e9n (Un Bill\u00f3n De Veces)",
       "url": "https://open.spotify.com/track/22H9y1qkAXg4jhrXM3xo3U"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
+        "name": "Comenzar de Cero",
+        "url": "https://open.spotify.com/album/3aAURLKBcjNlwKtyQ5wiMS"
+      },
+      "artists": [
+        {
+          "name": "Tercer Cielo",
+          "url": "https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz"
+        }
+      ],
+      "duration_ms": 230791,
+      "name": "Comenzar de Cero",
+      "url": "https://open.spotify.com/track/2qXnPsj2I6hFMU7KL2E8m2"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -551,26 +551,6 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "El Dios de Lo Extraordinario",
-        "url": "https://open.spotify.com/album/5ReLj0agmusq7c3NnTgYC0"
-      },
-      "artists": [
-        {
-          "name": "Tercer Cielo",
-          "url": "https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz"
-        },
-        {
-          "name": "Inlight",
-          "url": "https://open.spotify.com/artist/58j6JUyjaD09A7mRuF1Gcc"
-        }
-      ],
-      "duration_ms": 244163,
-      "name": "El Dios de Lo Extraordinario",
-      "url": "https://open.spotify.com/track/618hoNBgdlXbXjQrylwapR"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
         "name": "De Vuelta Al Jardin",
         "url": "https://open.spotify.com/album/4TKIXPyW2jTchcOFw1xAf6"
       },
@@ -583,6 +563,22 @@
       "duration_ms": 258640,
       "name": "\u00c9l Nos Ama",
       "url": "https://open.spotify.com/track/6ceXM33Unn92BZIVfjQZ3s"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
+        "name": "Me sostendr\u00e1",
+        "url": "https://open.spotify.com/album/5Tzxd9msntOlKgLeXMlwbS"
+      },
+      "artists": [
+        {
+          "name": "Majo y Dan",
+          "url": "https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi"
+        }
+      ],
+      "duration_ms": 325198,
+      "name": "Me sostendr\u00e1",
+      "url": "https://open.spotify.com/track/7zxuPZFuueFBEj8HkqQSSY"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -619,18 +615,22 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "Me sostendr\u00e1",
-        "url": "https://open.spotify.com/album/5Tzxd9msntOlKgLeXMlwbS"
+        "name": "El Dios de Lo Extraordinario",
+        "url": "https://open.spotify.com/album/5ReLj0agmusq7c3NnTgYC0"
       },
       "artists": [
         {
-          "name": "Majo y Dan",
-          "url": "https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi"
+          "name": "Tercer Cielo",
+          "url": "https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz"
+        },
+        {
+          "name": "Inlight",
+          "url": "https://open.spotify.com/artist/58j6JUyjaD09A7mRuF1Gcc"
         }
       ],
-      "duration_ms": 325198,
-      "name": "Me sostendr\u00e1",
-      "url": "https://open.spotify.com/track/7zxuPZFuueFBEj8HkqQSSY"
+      "duration_ms": 244163,
+      "name": "El Dios de Lo Extraordinario",
+      "url": "https://open.spotify.com/track/618hoNBgdlXbXjQrylwapR"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -775,22 +775,6 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "Tiempo Para Perder",
-        "url": "https://open.spotify.com/album/1T2k2NxjZwxji7SO8a6ZqC"
-      },
-      "artists": [
-        {
-          "name": "Zeri",
-          "url": "https://open.spotify.com/artist/1ISG0zSleX4gwbBf4AydB8"
-        }
-      ],
-      "duration_ms": 220862,
-      "name": "Tiempo Para Perder",
-      "url": "https://open.spotify.com/track/39hExRQoKpDsnbqrnYw8P5"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
         "name": "Incontrolable Amor",
         "url": "https://open.spotify.com/album/6XJYAg8PeAzQ8pXrO8wSa0"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 333120,
       "name": "Incontrolable Amor",
       "url": "https://open.spotify.com/track/6Ox0JjPdrXE0IgvyxoCbTn"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
+        "name": "Tiempo Para Perder",
+        "url": "https://open.spotify.com/album/1T2k2NxjZwxji7SO8a6ZqC"
+      },
+      "artists": [
+        {
+          "name": "Zeri",
+          "url": "https://open.spotify.com/artist/1ISG0zSleX4gwbBf4AydB8"
+        }
+      ],
+      "duration_ms": 220862,
+      "name": "Tiempo Para Perder",
+      "url": "https://open.spotify.com/track/39hExRQoKpDsnbqrnYw8P5"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -879,22 +879,6 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "Cerca Est\u00e1s",
-        "url": "https://open.spotify.com/album/2YW7RI9hOb9hiDzUWeCRVz"
-      },
-      "artists": [
-        {
-          "name": "Marcela Gandara",
-          "url": "https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T"
-        }
-      ],
-      "duration_ms": 189035,
-      "name": "No Hay Distancia",
-      "url": "https://open.spotify.com/track/3RsC2nWzi0XSOJcZTFdKss"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
         "name": "El Cielo Gobierna",
         "url": "https://open.spotify.com/album/5qDjBjsXxYlBVRvBDwVXMy"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 265280,
       "name": "El Cielo Gobierna",
       "url": "https://open.spotify.com/track/3kIhZMcHnynqcSTSA06gds"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
+        "name": "Cerca Est\u00e1s",
+        "url": "https://open.spotify.com/album/2YW7RI9hOb9hiDzUWeCRVz"
+      },
+      "artists": [
+        {
+          "name": "Marcela Gandara",
+          "url": "https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T"
+        }
+      ],
+      "duration_ms": 189035,
+      "name": "No Hay Distancia",
+      "url": "https://open.spotify.com/track/3RsC2nWzi0XSOJcZTFdKss"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -979,38 +979,6 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "Vive en M\u00ed",
-        "url": "https://open.spotify.com/album/0OWlPKpTVq2bLYj80Drs1x"
-      },
-      "artists": [
-        {
-          "name": "Su Presencia",
-          "url": "https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3"
-        }
-      ],
-      "duration_ms": 240704,
-      "name": "Pintas el Aire",
-      "url": "https://open.spotify.com/track/3zfklhEEk5zfyBi3IL4Nk8"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
-        "name": "Cerca Est\u00e1s",
-        "url": "https://open.spotify.com/album/2YW7RI9hOb9hiDzUWeCRVz"
-      },
-      "artists": [
-        {
-          "name": "Marcela Gandara",
-          "url": "https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T"
-        }
-      ],
-      "duration_ms": 212523,
-      "name": "Cerca Est\u00e1s",
-      "url": "https://open.spotify.com/track/7j4GJDmCiUEPZSu420sNul"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
         "name": "M\u00e1s",
         "url": "https://open.spotify.com/album/3RE4acPIRjN24JaowvCKGp"
       },
@@ -1031,6 +999,22 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
+        "name": "Vive en M\u00ed",
+        "url": "https://open.spotify.com/album/0OWlPKpTVq2bLYj80Drs1x"
+      },
+      "artists": [
+        {
+          "name": "Su Presencia",
+          "url": "https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3"
+        }
+      ],
+      "duration_ms": 240704,
+      "name": "Pintas el Aire",
+      "url": "https://open.spotify.com/track/3zfklhEEk5zfyBi3IL4Nk8"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
         "name": "No Soy Hu\u00e9rfano (Versio\u0301n Radio)",
         "url": "https://open.spotify.com/album/7h3IsK0imAHm61MGNQle0t"
       },
@@ -1043,6 +1027,42 @@
       "duration_ms": 321003,
       "name": "No Soy Hu\u00e9rfano (Versio\u0301n Radio)",
       "url": "https://open.spotify.com/track/6myKbhpIGVMV5h0v4wXhnA"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
+        "name": "De La a a La Z",
+        "url": "https://open.spotify.com/album/0LhQiVh7Hdi2qv5xGOOKIt"
+      },
+      "artists": [
+        {
+          "name": "Alex Zurdo",
+          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
+        },
+        {
+          "name": "Redimi2",
+          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
+        }
+      ],
+      "duration_ms": 226306,
+      "name": "No Soy Yo (feat. Redimi2)",
+      "url": "https://open.spotify.com/track/0pA8nTkyVvFdd1HO0oaOrB"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
+        "name": "Cerca Est\u00e1s",
+        "url": "https://open.spotify.com/album/2YW7RI9hOb9hiDzUWeCRVz"
+      },
+      "artists": [
+        {
+          "name": "Marcela Gandara",
+          "url": "https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T"
+        }
+      ],
+      "duration_ms": 212523,
+      "name": "Cerca Est\u00e1s",
+      "url": "https://open.spotify.com/track/7j4GJDmCiUEPZSu420sNul"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -1075,26 +1095,6 @@
       "duration_ms": 210364,
       "name": "Grito de Jubilo",
       "url": "https://open.spotify.com/track/6MWNjHcrwB14NeiHbdY2hO"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
-        "name": "De La a a La Z",
-        "url": "https://open.spotify.com/album/0LhQiVh7Hdi2qv5xGOOKIt"
-      },
-      "artists": [
-        {
-          "name": "Alex Zurdo",
-          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
-        },
-        {
-          "name": "Redimi2",
-          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
-        }
-      ],
-      "duration_ms": 226306,
-      "name": "No Soy Yo (feat. Redimi2)",
-      "url": "https://open.spotify.com/track/0pA8nTkyVvFdd1HO0oaOrB"
     },
     {
       "added_at": "2021-05-21 19:19:27",

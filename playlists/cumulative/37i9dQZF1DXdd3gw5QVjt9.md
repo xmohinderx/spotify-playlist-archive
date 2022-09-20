@@ -4,7 +4,7 @@
 
 > Rise with a relaxing blend of folk and acoustic.
 
-183 songs - 11 hr 8 min - [published](https://open.spotify.com/playlist/5OnqyGQ45pjHIR1UdjdRu4)
+184 songs - 11 hr 11 min - [published](https://open.spotify.com/playlist/5OnqyGQ45pjHIR1UdjdRu4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Going In](https://open.spotify.com/track/51Zo4yemKVPqpmRxOZfYiX) | [Wild Child](https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK), [The Song Confessional](https://open.spotify.com/artist/3zM0frH8HgM7cK5OXpHu4E) | [Going In](https://open.spotify.com/album/76LMmHE9JB7GDA0ihlRlpH) | 2:41 | 2022-06-14 |  |
 | [Gold](https://open.spotify.com/track/6qkPTc4Gvgp2LlrsJF03J1) | [Jamie Scott](https://open.spotify.com/artist/29QbBR0oTzA7A0kiOzrbbr), [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [Gold](https://open.spotify.com/album/1S49ZWcu9h579TXDQ54GtR) | 3:48 | 2019-05-26\* | 2022-06-15 |
 | [Gold Laces](https://open.spotify.com/track/5YBEurEJkVAaMCZcBthBDM) | [Júníus Meyvant](https://open.spotify.com/artist/5IL5awl9gUcb2ez9IgmW26) | [EP](https://open.spotify.com/album/4b3tDQeODz833k7Dr9bYgw) | 3:40 | 2019-05-26\* | 2022-06-10 |
+| [Grow into Love](https://open.spotify.com/track/52AthVA2opex8NcLSwtO8n) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Seasons of Change](https://open.spotify.com/album/74fRgN21qhhAQv43mbCJFq) | 2:42 | 2022-06-14 |  |
 | [Grow into Love](https://open.spotify.com/track/6FloUWDjW3r51mRYyw0vv5) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Seasons of Change](https://open.spotify.com/album/2dyKBgz9mbVHUbeX2lbd8p) | 2:42 | 2020-11-06 | 2022-09-15 |
 | [Guiding Light \- Radio Edit](https://open.spotify.com/track/7uBXwmUteKqu0FDmp3huYX) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [Feel For Me](https://open.spotify.com/album/4Zk4BGwIPN4Gwi5IRK7m4G) | 5:50 | 2019-05-26\* | 2019-06-19 |
 | [Half Your Love](https://open.spotify.com/track/0ut7f4KB9sZQ8uhA4HyOMt) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Sad Hunk](https://open.spotify.com/album/0vWNWn7PcEotOycEtBC7br) | 2:24 | 2020-10-27 |  |
@@ -174,7 +175,7 @@
 | [Until We Get There](https://open.spotify.com/track/6OxJnldrDT2GFcsSajBHgt) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Until We Get There \(Acoustic\)](https://open.spotify.com/album/3s1MDchndgALyQS8GuOATG) | 3:50 | 2019-06-19\* | 2021-10-16 |
 | [Virginia May](https://open.spotify.com/track/435XaJ1Mqo5Pd7AwRE7nrF) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [This Empty Northern Hemisphere](https://open.spotify.com/album/06UoTVgpPiGnRPGjowrG3g) | 2:58 | 2019-05-26\* |  |
 | [We Come And Go](https://open.spotify.com/track/6rug9VlOXHYifhgP2hnnmv) | [Dawn Landes](https://open.spotify.com/artist/1wvqnNcuPa2TpcFvfh3co5), [Piers Faccini](https://open.spotify.com/artist/2hK2gWQ2TequHGKZe5dzHd) | [Desert Songs](https://open.spotify.com/album/7qKtluvfzF0kPPT9IOLQNe) | 4:04 | 2019-05-26\* | 2019-06-19 |
-| [When Creation Was Young](https://open.spotify.com/track/4ZkZeQaJjmKuUPr7SOIjhU) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Front Porch](https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu) | 3:29 | 2019-10-12 |  |
+| [When Creation Was Young](https://open.spotify.com/track/4ZkZeQaJjmKuUPr7SOIjhU) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Front Porch](https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu) | 3:29 | 2019-10-12 | 2022-09-20 |
 | [When I Say That I Love You](https://open.spotify.com/track/1L5jdavZ7YMWIFafo1gyZD) | [Gabe Goodman](https://open.spotify.com/artist/3ak5fTKu5X8h4yhvf5ThmF) | [When I Say That I Love You](https://open.spotify.com/album/0cPJV0lQbAtuMXeFK3a784) | 2:57 | 2021-03-16 |  |
 | [When The Stars Go Blue](https://open.spotify.com/track/04rMpRstoJt3uvqyNGKczX) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Gold](https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc) | 3:31 | 2019-05-26\* | 2019-06-19 |
 | [When We Were Young](https://open.spotify.com/track/5OxWNIpnedq0bhdUhmNrJT) | [Falls](https://open.spotify.com/artist/0SP0jz4htYhpiCuNEvKr0l) | [Omaha](https://open.spotify.com/album/7BfVNstl3oipb2ZGWyKQxH) | 3:18 | 2019-05-26\* | 2019-06-19 |

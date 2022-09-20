@@ -1,12 +1,12 @@
 {
   "description": "A playlist driven from the islands, take the front seat as Soca meets Bashment \n\n",
-  "num_followers": 7821,
+  "num_followers": 7828,
   "original_name": "Soca Bashment",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTcyNTYwMCwwMDAwMDAwMDMzOTkwYWU3YzkxMmRhNjkzZGRjMDY5ZTFmMmQyOGZk",
+  "snapshot_id": "MTY0NTcyNTYwMCwwMDAwMDAwMDgzMzhhNGJmMDAzY2U3NjMxMGQwZmExNDdhYmZhOWFl",
   "tracks": [
     {
       "added_at": "2022-02-24 18:00:00",
@@ -175,22 +175,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Wi Deh Yah",
-        "url": "https://open.spotify.com/album/6VS3rD5JvrO6d7L9v1G7W1"
-      },
-      "artists": [
-        {
-          "name": "Kranium",
-          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
-        }
-      ],
-      "duration_ms": 146400,
-      "name": "Wi Deh Yah",
-      "url": "https://open.spotify.com/track/6EnfbMj5Ui3jkIw8CDaYIW"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "Famalay",
         "url": "https://open.spotify.com/album/0br9N1t4whHPB4Ad7DfHX6"
       },
@@ -215,22 +199,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Update",
-        "url": "https://open.spotify.com/album/0PaM6uUQDeF2SSv3o4noRe"
-      },
-      "artists": [
-        {
-          "name": "Masicka",
-          "url": "https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK"
-        }
-      ],
-      "duration_ms": 204257,
-      "name": "Update",
-      "url": "https://open.spotify.com/track/1Vso1T5aUUflMhgijuG4SZ"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "Mobster",
         "url": "https://open.spotify.com/album/5G06lp7pqVUmyFMR51B3kO"
       },
@@ -243,6 +211,38 @@
       "duration_ms": 193226,
       "name": "Mobster",
       "url": "https://open.spotify.com/track/00mDz9iEvKOdLHNmvucEhs"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Wi Deh Yah",
+        "url": "https://open.spotify.com/album/6VS3rD5JvrO6d7L9v1G7W1"
+      },
+      "artists": [
+        {
+          "name": "Kranium",
+          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
+        }
+      ],
+      "duration_ms": 146400,
+      "name": "Wi Deh Yah",
+      "url": "https://open.spotify.com/track/6EnfbMj5Ui3jkIw8CDaYIW"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Update",
+        "url": "https://open.spotify.com/album/0PaM6uUQDeF2SSv3o4noRe"
+      },
+      "artists": [
+        {
+          "name": "Masicka",
+          "url": "https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK"
+        }
+      ],
+      "duration_ms": 204257,
+      "name": "Update",
+      "url": "https://open.spotify.com/track/1Vso1T5aUUflMhgijuG4SZ"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -267,22 +267,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Split in De Middle",
-        "url": "https://open.spotify.com/album/7ewwmtn3lhROcG8wvT5Zh4"
-      },
-      "artists": [
-        {
-          "name": "Freezy",
-          "url": "https://open.spotify.com/artist/4suXYeRdmqURfBOpvTwViF"
-        }
-      ],
-      "duration_ms": 139000,
-      "name": "Split in De Middle",
-      "url": "https://open.spotify.com/track/5jorKk3TjGkG4gX44l8I4i"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "Lifestyle Riddim",
         "url": "https://open.spotify.com/album/0osc1Nc5V2f1rhGYP35Tgg"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 164106,
       "name": "Go Hard",
       "url": "https://open.spotify.com/track/6lMmcsTaGXqBJqKv1yKdbx"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Split in De Middle",
+        "url": "https://open.spotify.com/album/7ewwmtn3lhROcG8wvT5Zh4"
+      },
+      "artists": [
+        {
+          "name": "Freezy",
+          "url": "https://open.spotify.com/artist/4suXYeRdmqURfBOpvTwViF"
+        }
+      ],
+      "duration_ms": 139000,
+      "name": "Split in De Middle",
+      "url": "https://open.spotify.com/track/5jorKk3TjGkG4gX44l8I4i"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -347,22 +347,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "I Wish",
-        "url": "https://open.spotify.com/album/1OMDWu1SbiOvYA7idzWm2h"
-      },
-      "artists": [
-        {
-          "name": "Masicka",
-          "url": "https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK"
-        }
-      ],
-      "duration_ms": 175187,
-      "name": "I Wish",
-      "url": "https://open.spotify.com/track/0eFqA7YetI2Wp95GgdJbiK"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "Tic It & Tac It",
         "url": "https://open.spotify.com/album/4ZYGqtyawJ66Dsp9C2VR3W"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 123500,
       "name": "Tic It & Tac It",
       "url": "https://open.spotify.com/track/1Cy2yw8wrzHpi1UMK8nnL2"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "I Wish",
+        "url": "https://open.spotify.com/album/1OMDWu1SbiOvYA7idzWm2h"
+      },
+      "artists": [
+        {
+          "name": "Masicka",
+          "url": "https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK"
+        }
+      ],
+      "duration_ms": 175187,
+      "name": "I Wish",
+      "url": "https://open.spotify.com/track/0eFqA7YetI2Wp95GgdJbiK"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -495,18 +495,18 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "The 2:00AM Project",
-        "url": "https://open.spotify.com/album/20XQxBrkD07fk55JehBpjq"
+        "name": "Rate Who Rate You",
+        "url": "https://open.spotify.com/album/0jLzrXLefmAQVJWV1hsPyU"
       },
       "artists": [
         {
-          "name": "Shal Marshall",
-          "url": "https://open.spotify.com/artist/7mds6P3MvNyCg7l2QFpx6d"
+          "name": "Squash",
+          "url": "https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00"
         }
       ],
-      "duration_ms": 215334,
-      "name": "Splinters",
-      "url": "https://open.spotify.com/track/5QaUy0q3xCIRtjdtV28WxR"
+      "duration_ms": 216058,
+      "name": "Rate Who Rate You",
+      "url": "https://open.spotify.com/track/3Wm3PjsO4rvZgtiGAwQnt8"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -531,18 +531,18 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Rate Who Rate You",
-        "url": "https://open.spotify.com/album/0jLzrXLefmAQVJWV1hsPyU"
+        "name": "The 2:00AM Project",
+        "url": "https://open.spotify.com/album/20XQxBrkD07fk55JehBpjq"
       },
       "artists": [
         {
-          "name": "Squash",
-          "url": "https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00"
+          "name": "Shal Marshall",
+          "url": "https://open.spotify.com/artist/7mds6P3MvNyCg7l2QFpx6d"
         }
       ],
-      "duration_ms": 216058,
-      "name": "Rate Who Rate You",
-      "url": "https://open.spotify.com/track/3Wm3PjsO4rvZgtiGAwQnt8"
+      "duration_ms": 215334,
+      "name": "Splinters",
+      "url": "https://open.spotify.com/track/5QaUy0q3xCIRtjdtV28WxR"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
+        "name": "Run Wid It",
+        "url": "https://open.spotify.com/album/3FZhpdntOoX90CLSeb2vBG"
+      },
+      "artists": [
+        {
+          "name": "Mr. Killa",
+          "url": "https://open.spotify.com/artist/0PontvL1D8kH0DRu37ylwq"
+        }
+      ],
+      "duration_ms": 191714,
+      "name": "Run Wid It",
+      "url": "https://open.spotify.com/track/68rYSuJb2351hhpe4Lzvm4"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
         "name": "Sick Jab Riddim (Deluxe Edition)",
         "url": "https://open.spotify.com/album/64b0DuMUUkZcCG74lK0O1k"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 135941,
       "name": "The People Man (T.P.M.)",
       "url": "https://open.spotify.com/track/4s0lXstgGUbGesnLJb02Hy"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
-        "name": "Run Wid It",
-        "url": "https://open.spotify.com/album/3FZhpdntOoX90CLSeb2vBG"
-      },
-      "artists": [
-        {
-          "name": "Mr. Killa",
-          "url": "https://open.spotify.com/artist/0PontvL1D8kH0DRu37ylwq"
-        }
-      ],
-      "duration_ms": 191714,
-      "name": "Run Wid It",
-      "url": "https://open.spotify.com/track/68rYSuJb2351hhpe4Lzvm4"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -1239,30 +1239,22 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Skill & Steady",
-        "url": "https://open.spotify.com/album/4hOYiwVEgniVVhVSC1Sflg"
+        "name": "Toatin Riddim",
+        "url": "https://open.spotify.com/album/4LL4JVrNQbmu7pQixAEPyv"
       },
       "artists": [
         {
-          "name": "Kevyn V",
-          "url": "https://open.spotify.com/artist/3Ny44fCQVoy3gEwdyMqAUu"
+          "name": "Nadia Batson",
+          "url": "https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t"
         },
         {
-          "name": "DancehallRulerz",
-          "url": "https://open.spotify.com/artist/7vKTly2ufzt1vPBUKvuuDh"
-        },
-        {
-          "name": "2Fik",
-          "url": "https://open.spotify.com/artist/3TmucDSfk9ChMNebAXrYyO"
-        },
-        {
-          "name": "Dj Tades",
-          "url": "https://open.spotify.com/artist/1zkwng6zki0lHoikDdfsHf"
+          "name": "Team Foxx",
+          "url": "https://open.spotify.com/artist/0QY1Fzl4cIbO14opQB8AyM"
         }
       ],
-      "duration_ms": 158294,
-      "name": "Skill & Steady",
-      "url": "https://open.spotify.com/track/65dhZDMJ4eifxYqJjERBFW"
+      "duration_ms": 151588,
+      "name": "Kiss",
+      "url": "https://open.spotify.com/track/0MaI2ZRUC1atONjvt5Jr6T"
     }
   ],
   "unique_name": "Soca Bashment",

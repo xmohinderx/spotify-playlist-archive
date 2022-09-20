@@ -4,7 +4,7 @@
 
 > A little bit of pop, a little bit of rap\. Cover: Aidan Bissett
 
-366 songs - 17 hr 7 min - [published](https://open.spotify.com/playlist/2Nwo9aiDgjWV2FZ832hzzr)
+367 songs - 17 hr 11 min - [published](https://open.spotify.com/playlist/2Nwo9aiDgjWV2FZ832hzzr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,6 +177,7 @@
 | [I'D GIVE IT ALL UP](https://open.spotify.com/track/6MsEajhvcMbnuWXT1y6HL2) | [Brevin Kim](https://open.spotify.com/artist/7lU8Gtn7moZmPqqu4oPkEh) | [I'D GIVE IT ALL UP](https://open.spotify.com/album/2bDitgjXkr1k4GWkUXCQxl) | 2:45 | 2022-07-01 |  |
 | [i'm drunk and i miss you more](https://open.spotify.com/track/50jtIig2VWqCVXai7Epm3c) | [Savage Ga$p](https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk), [Shady Moon](https://open.spotify.com/artist/2urobxol2zYHXOUJXDh8n4) | [i'm drunk and i miss you more](https://open.spotify.com/album/766FtGkdeEbLJ2RYOlIuoE) | 2:35 | 2022-03-22 | 2022-04-29 |
 | [I'm So Good at Lying \(feat\. Powfu & Thomas Reid\)](https://open.spotify.com/track/0tW3SDJmTyS3is8QXQ4z1q) | [Rxseboy](https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c), [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Thomas Reid](https://open.spotify.com/artist/0dcxj82ddksd6tDDcJgbqo) | [I'm So Good at Lying \(feat\. Powfu & Thomas Reid\)](https://open.spotify.com/album/5gi5MTy0vTLuaONUjfAn9l) | 2:14 | 2021-11-16 | 2022-02-26 |
+| [I\. The Worst Guys](https://open.spotify.com/track/17wxjHNmOSstc6nVIe401T) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Because the Internet](https://open.spotify.com/album/4GNIhgEGXzWGAefgN5qjdU) | 3:39 | 2022-09-19 |  |
 | [Icee Pop](https://open.spotify.com/track/1zKOagmkCtXuGmCivG8HZE) | [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw) | [Icee Pop](https://open.spotify.com/album/0N75npNB8Wo93bY41XjHr7) | 2:27 | 2021-11-16 | 2022-02-26 |
 | [IDGAF \(with blackbear\)](https://open.spotify.com/track/6Jrdb6CFOJEGaHjaa6c4WR) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [IDGAF](https://open.spotify.com/album/3XEOlBcb076IIUTSr98AMu) | 2:20 | 2022-04-06 | 2022-07-16 |
 | [IMPATIENT](https://open.spotify.com/track/37dVuP5d1BtVDagETMqP3k) | [SEBASTIAN PAUL](https://open.spotify.com/artist/1tQu5TjcAK68fx8qrc8ZgF) | [IMPATIENT](https://open.spotify.com/album/6GH9V2pkHwDjCNWhDkGQM4) | 3:09 | 2022-07-12 |  |

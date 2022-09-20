@@ -8,11 +8,11 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [](https://open.spotify.com/track/1gGlPQjBUdJ7mTtcumuFjC) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/0pUvAtUzuXKBAFTzuvxLcL) | 0:00 | 2021-12-22 |  |
-| [](https://open.spotify.com/track/3lykOhcfTlJmrlnVcXNpu0) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/0yHBhRyRiqllCI9rRjGMfx) | 0:00 | 2021-12-22 |  |
-| [](https://open.spotify.com/track/5RH7e8dotrJNLdfbDgXkxG) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/0pCLie2ziptu5IJwLPJzhI) | 0:00 | 2021-12-22 |  |
-| [](https://open.spotify.com/track/6jnVe0mrlljgBx7il7YtUJ) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/4aBHuJfciuVyOcgAXX2NvJ) | 0:00 | 2021-12-22 |  |
-| [](https://open.spotify.com/track/7ubJ40WEvyuzjmiFsH6RQa) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/7CrpddnQnNkNBQEAJ0ci6a) | 0:00 | 2021-12-22 |  |
+| [](https://open.spotify.com/track/1gGlPQjBUdJ7mTtcumuFjC) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/0pUvAtUzuXKBAFTzuvxLcL) | 0:00 | 2021-12-22 | 2022-09-20 |
+| [](https://open.spotify.com/track/3lykOhcfTlJmrlnVcXNpu0) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/0yHBhRyRiqllCI9rRjGMfx) | 0:00 | 2021-12-22 | 2022-09-20 |
+| [](https://open.spotify.com/track/5RH7e8dotrJNLdfbDgXkxG) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/0pCLie2ziptu5IJwLPJzhI) | 0:00 | 2021-12-22 | 2022-09-20 |
+| [](https://open.spotify.com/track/6jnVe0mrlljgBx7il7YtUJ) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/4aBHuJfciuVyOcgAXX2NvJ) | 0:00 | 2021-12-22 | 2022-09-20 |
+| [](https://open.spotify.com/track/7ubJ40WEvyuzjmiFsH6RQa) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/7CrpddnQnNkNBQEAJ0ci6a) | 0:00 | 2021-12-22 | 2022-09-20 |
 | [Angels From The Realms Of Glory](https://open.spotify.com/track/3PTDBKq7S99lqgvFPDlnJZ) | [Eric Nordhoff](https://open.spotify.com/artist/6egf9BaYi17rYFHpsrELXd) | [Quietime In The Garden](https://open.spotify.com/album/2NdrbO9WGOrDfY9boMUt6N) | 3:46 | 2021-12-22 | 2022-07-29 |
 | [Angels From The Realms Of Glory](https://open.spotify.com/track/4xKthebrMWpRlfCdqGjfZk) | [Eric Nordhoff](https://open.spotify.com/artist/6egf9BaYi17rYFHpsrELXd) | [Quietime \- Peace On Earth](https://open.spotify.com/album/5cVsi9sRldx6HLChLxTZcz) | 3:47 | 2021-12-22 |  |
 | [Ave Maria](https://open.spotify.com/track/1igkY9A1HcPCcvq3PIMReq) | [Jonta Lei](https://open.spotify.com/artist/5bRtL6wZclxJEQiqsR9lNC) | [Religous Harp](https://open.spotify.com/album/4ThFe1arVGMNwLQTNONbWn) | 3:01 | 2021-12-22 |  |

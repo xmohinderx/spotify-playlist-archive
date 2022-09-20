@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2c0C8Vb2IR.md) - [plain]
 
 > All new, all jazz\. Cover: Gyedu\-Blay Ambolley
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,491 likes - 40 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,527 likes - 40 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2c0C8Vb2IR.md) - [plain]
 | 14 | [Musikstycket](https://open.spotify.com/track/56S7m84vW74WlfqTg1kgyO) | [Musicmusicmusic](https://open.spotify.com/artist/5mtFvnvImn9y9m8MaVxTZ8) | [Good Look](https://open.spotify.com/album/4OWO6Wh3dtE3Ybs7DhFHTF) | 6:11 |
 | 15 | [Night Whispers](https://open.spotify.com/track/560zqA3B5mpcAkwvwcb43U) | [Alfonso Gugliucci](https://open.spotify.com/artist/7o2w7PcKeBdqCg0uvvKbgJ), [Jazz AG Trio](https://open.spotify.com/artist/6mSb04vn0JBQsguGh2K6VO), [Albert Fratris](https://open.spotify.com/artist/4jqRqGYJTBEyO7LybN062o), [Mio Costans](https://open.spotify.com/artist/3NBy5bUfAVtcQZZiWFz3er) | [Night Whispers](https://open.spotify.com/album/0M56yjZ7dY0So3n663lPOi) | 2:44 |
 | 16 | [Small Fire, Big Flames](https://open.spotify.com/track/5CQZScCk25asoevibPAs3d) | [Joris Teepe](https://open.spotify.com/artist/6O2Rqtez6yYTnUjW7804Nz) | [Small Fire, Big Flames](https://open.spotify.com/album/6MVuAlWOjJiCQD1rOKaUTu) | 5:24 |
-| 17 | [Bald](https://open.spotify.com/track/15NxxtxCbctEpZCkDKKaC2) | [Vienna](https://open.spotify.com/artist/7bNTxzrU2AIdzkf7pK0Jgy) | [Bald](https://open.spotify.com/album/6cPvXvJbEQK1dQ1Yq1nnnT) | 2:21 |
+| 17 | [Bald](https://open.spotify.com/track/15NxxtxCbctEpZCkDKKaC2) | [Vienna](https://open.spotify.com/artist/7bNTxzrU2AIdzkf7pK0Jgy), [Renon](https://open.spotify.com/artist/66puVL22TUX3DM6r0uZyyY), [Prizm Wizard](https://open.spotify.com/artist/3NY11hCKUaJRJmsPo4pu4c), [Adam Mansfield](https://open.spotify.com/artist/07lxEN2yQLJijFHjZV01Uf), [Ryan Nadin](https://open.spotify.com/artist/1eDdmLqcLhJXubA0xItdGA) | [Bald](https://open.spotify.com/album/6cPvXvJbEQK1dQ1Yq1nnnT) | 2:21 |
 | 18 | [Abyssinian Suite, Pt\. 4](https://open.spotify.com/track/3PBZeQmbywJVKdlRBzSg2C) | [The Shaolin Afronauts](https://open.spotify.com/artist/5zcJp5jvssOgZXcxI1wuWe) | [The Fundamental Nature of Being, Part One](https://open.spotify.com/album/2dQZmSuAqCRaVvcqJ4Robi) | 4:52 |
 | 19 | [Thoughts](https://open.spotify.com/track/7aFYXNmYCZVC4KHqZoigCi) | [Nico Harris](https://open.spotify.com/artist/7uG2WfWc9JvU3scV41GzpM) | [Thoughts](https://open.spotify.com/album/6pIPSRnMVmWe1wm6KzcjJh) | 2:35 |
 | 20 | [Floating](https://open.spotify.com/track/3g0IvK5AC6BrzgpRolvfGA) | [Little North](https://open.spotify.com/artist/0LPOA9noh1qUUtZ2N2YX0J) | [Floating](https://open.spotify.com/album/7Ld1pkzsqh8hBzLVAIGy1o) | 4:54 |

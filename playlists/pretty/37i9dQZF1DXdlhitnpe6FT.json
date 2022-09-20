@@ -1,12 +1,12 @@
 {
   "description": "The notes that will make you long for those days of yore.",
-  "num_followers": 138694,
+  "num_followers": 138750,
   "original_name": "Golden Instrumentals",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDI3NDQ0NSwwMDAwMDAwMGUzNzExYjUyYzEwYjQyNTY4Nzg4NDk2OTJlN2EyNTk4",
+  "snapshot_id": "MTY0MDI3NDQ0NSwwMDAwMDAwMDAzMDJmYmM5OWJjMjY0Zjc5ZjliZDNlNTU2NDkxODE1",
   "tracks": [
     {
       "added_at": "2020-12-08 19:02:01",
@@ -107,6 +107,22 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
+        "name": "Adagio",
+        "url": "https://open.spotify.com/album/4w88QeWw7lHIDL9fvPdUfj"
+      },
+      "artists": [
+        {
+          "name": "Santo & Johnny",
+          "url": "https://open.spotify.com/artist/4hGjngc0tPOBwTgTPci3IK"
+        }
+      ],
+      "duration_ms": 125544,
+      "name": "And I Love Her",
+      "url": "https://open.spotify.com/track/5JtWUJ45BRxGP6F4Tnoej4"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
         "name": "Kill Bill Vol. 1 Original Soundtrack (PA Version)",
         "url": "https://open.spotify.com/album/1FpzNqDbugk77xUj0qOrtQ"
       },
@@ -171,8 +187,8 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Adagio",
-        "url": "https://open.spotify.com/album/4w88QeWw7lHIDL9fvPdUfj"
+        "name": "Volume Secondo",
+        "url": "https://open.spotify.com/album/0EgtsDw1Yc9umsqXTXGbq8"
       },
       "artists": [
         {
@@ -180,9 +196,9 @@
           "url": "https://open.spotify.com/artist/4hGjngc0tPOBwTgTPci3IK"
         }
       ],
-      "duration_ms": 125544,
-      "name": "And I Love Her",
-      "url": "https://open.spotify.com/track/5JtWUJ45BRxGP6F4Tnoej4"
+      "duration_ms": 151092,
+      "name": "Sleepwalk",
+      "url": "https://open.spotify.com/track/1u1PzGnsWKjAwSZ9Rg1kjD"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -283,22 +299,6 @@
       "duration_ms": 233600,
       "name": "The Entertainer",
       "url": "https://open.spotify.com/track/6DWIm1TfM9WiCNQeLbbAsd"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
-        "name": "Volume Secondo",
-        "url": "https://open.spotify.com/album/0EgtsDw1Yc9umsqXTXGbq8"
-      },
-      "artists": [
-        {
-          "name": "Santo & Johnny",
-          "url": "https://open.spotify.com/artist/4hGjngc0tPOBwTgTPci3IK"
-        }
-      ],
-      "duration_ms": 151092,
-      "name": "Sleepwalk",
-      "url": "https://open.spotify.com/track/1u1PzGnsWKjAwSZ9Rg1kjD"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -415,22 +415,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Blue Midnight (Remastered)",
-        "url": "https://open.spotify.com/album/4cXY2pebOf073jBBH7zoza"
-      },
-      "artists": [
-        {
-          "name": "Bert Kaempfert",
-          "url": "https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX"
-        }
-      ],
-      "duration_ms": 139653,
-      "name": "Red Roses For A Blue Lady",
-      "url": "https://open.spotify.com/track/4GXXOBUEpCr58TFHIkLrZ0"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Sail Along Silv'ry Moon",
         "url": "https://open.spotify.com/album/0rkPxOtFWZOiuQ7GzCI3vn"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 191053,
       "name": "Vivre Pour Vivre",
       "url": "https://open.spotify.com/track/2jA7IONZUcWrYxEMnwAPDZ"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Blue Midnight (Remastered)",
+        "url": "https://open.spotify.com/album/4cXY2pebOf073jBBH7zoza"
+      },
+      "artists": [
+        {
+          "name": "Bert Kaempfert",
+          "url": "https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX"
+        }
+      ],
+      "duration_ms": 139653,
+      "name": "Red Roses For A Blue Lady",
+      "url": "https://open.spotify.com/track/4GXXOBUEpCr58TFHIkLrZ0"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -647,18 +647,18 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Kpm 1000 Series: Gentle Sounds - Volume 2",
-        "url": "https://open.spotify.com/album/1XL9bkiNGA0pj3EUvLTkh2"
+        "name": "Los Recuerdos Est\u00e1n Hechos de Esto Vol. 1",
+        "url": "https://open.spotify.com/album/5aQPUujM556YFCGjR4FPof"
       },
       "artists": [
         {
-          "name": "Johnny Pearson",
-          "url": "https://open.spotify.com/artist/3ItwpBXTw2W7w62jKwHqGD"
+          "name": "Johnny Days Orchestra",
+          "url": "https://open.spotify.com/artist/6ddwnoAVajTGZa2ikrJqaY"
         }
       ],
-      "duration_ms": 220240,
-      "name": "Sleepy Shores",
-      "url": "https://open.spotify.com/track/4do1i6WwxBCnponPtzbLUh"
+      "duration_ms": 189346,
+      "name": "Im\u00e1genes",
+      "url": "https://open.spotify.com/track/2qQN7AqqDvUYbpjR7zidQm"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -679,18 +679,18 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Los Recuerdos Est\u00e1n Hechos de Esto Vol. 1",
-        "url": "https://open.spotify.com/album/5aQPUujM556YFCGjR4FPof"
+        "name": "Kpm 1000 Series: Gentle Sounds - Volume 2",
+        "url": "https://open.spotify.com/album/1XL9bkiNGA0pj3EUvLTkh2"
       },
       "artists": [
         {
-          "name": "Johnny Days Orchestra",
-          "url": "https://open.spotify.com/artist/6ddwnoAVajTGZa2ikrJqaY"
+          "name": "Johnny Pearson",
+          "url": "https://open.spotify.com/artist/3ItwpBXTw2W7w62jKwHqGD"
         }
       ],
-      "duration_ms": 189346,
-      "name": "Im\u00e1genes",
-      "url": "https://open.spotify.com/track/2qQN7AqqDvUYbpjR7zidQm"
+      "duration_ms": 220240,
+      "name": "Sleepy Shores",
+      "url": "https://open.spotify.com/track/4do1i6WwxBCnponPtzbLUh"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -791,22 +791,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "The Sting",
-        "url": "https://open.spotify.com/album/0GLCHyDf1JwJRestHhlc91"
-      },
-      "artists": [
-        {
-          "name": "Marvin Hamlisch",
-          "url": "https://open.spotify.com/artist/1VN38ZSdtQnHLa8PfTTKZD"
-        }
-      ],
-      "duration_ms": 183360,
-      "name": "The Entertainer - The Sting/Soundtrack Version/Orchestra Version",
-      "url": "https://open.spotify.com/track/3qq7parQQaohn9N7qKrKtE"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "60 Timeless Classics from the Giants of Traditional Jazz",
         "url": "https://open.spotify.com/album/6fN8msI9VOM3uWxjO1Y9eR"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 164360,
       "name": "Petite Fleur",
       "url": "https://open.spotify.com/track/49ENB0tgwiU80dvt57WQ5x"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "The Sting",
+        "url": "https://open.spotify.com/album/0GLCHyDf1JwJRestHhlc91"
+      },
+      "artists": [
+        {
+          "name": "Marvin Hamlisch",
+          "url": "https://open.spotify.com/artist/1VN38ZSdtQnHLa8PfTTKZD"
+        }
+      ],
+      "duration_ms": 183360,
+      "name": "The Entertainer - The Sting/Soundtrack Version/Orchestra Version",
+      "url": "https://open.spotify.com/track/3qq7parQQaohn9N7qKrKtE"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -927,22 +927,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Instrumental History, The Best",
-        "url": "https://open.spotify.com/album/4IfUM4HqTrBNX2gm5VZCVq"
-      },
-      "artists": [
-        {
-          "name": "Giovanni Marchetti",
-          "url": "https://open.spotify.com/artist/6Zbp6LgCp3MBRiNbfsjUCd"
-        }
-      ],
-      "duration_ms": 170333,
-      "name": "L'Incontro - 1M1",
-      "url": "https://open.spotify.com/track/0AtgGfGsikBai32OmGVSlo"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Rhythms Of The World",
         "url": "https://open.spotify.com/album/0DwuVrXDfEN8qhaLRv5Bfn"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 202805,
       "name": "Chariots Of Fire",
       "url": "https://open.spotify.com/track/3zmXCcrMKpGho2sTRZG1Ux"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Instrumental History, The Best",
+        "url": "https://open.spotify.com/album/4IfUM4HqTrBNX2gm5VZCVq"
+      },
+      "artists": [
+        {
+          "name": "Giovanni Marchetti",
+          "url": "https://open.spotify.com/artist/6Zbp6LgCp3MBRiNbfsjUCd"
+        }
+      ],
+      "duration_ms": 170333,
+      "name": "L'Incontro - 1M1",
+      "url": "https://open.spotify.com/track/0AtgGfGsikBai32OmGVSlo"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Born Losers",
-        "url": "https://open.spotify.com/album/2O0v7b7SRw2YH2vRjaLVKx"
-      },
-      "artists": [
-        {
-          "name": "The Sidewalk Sounds",
-          "url": "https://open.spotify.com/artist/4CV3N7gi2jJZJDZJP0ib60"
-        }
-      ],
-      "duration_ms": 121333,
-      "name": "Billy Jack's Theme",
-      "url": "https://open.spotify.com/track/7pKZJRGVFqoiqWHA0KvAk7"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Rain Forest",
         "url": "https://open.spotify.com/album/1a6EYcDiOwkljTR4coPlNv"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 145573,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/0Xr3UeWGMlgHY8jgb5vp9c"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Born Losers",
+        "url": "https://open.spotify.com/album/2O0v7b7SRw2YH2vRjaLVKx"
+      },
+      "artists": [
+        {
+          "name": "The Sidewalk Sounds",
+          "url": "https://open.spotify.com/artist/4CV3N7gi2jJZJDZJP0ib60"
+        }
+      ],
+      "duration_ms": 121333,
+      "name": "Billy Jack's Theme",
+      "url": "https://open.spotify.com/track/7pKZJRGVFqoiqWHA0KvAk7"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Playas de Ensue\u00f1o",
-        "url": "https://open.spotify.com/album/31E3FJeD3mPINXJu4kXpVD"
-      },
-      "artists": [
-        {
-          "name": "DCO",
-          "url": "https://open.spotify.com/artist/3m8kUt4fTVDHnafKhS66AZ"
-        }
-      ],
-      "duration_ms": 193213,
-      "name": "Playas de Ensue\u00f1o",
-      "url": "https://open.spotify.com/track/1IXc0lJmLcPHHrGL9rSWzX"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "100 All Time Greatest Hits",
         "url": "https://open.spotify.com/album/1nW2vo8BgRcaqyuM57ZwNI"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 142986,
       "name": "Les Parapluies de Cherbourg",
       "url": "https://open.spotify.com/track/3bkNIeAr9FJXzCHUaF0ISU"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Playas de Ensue\u00f1o",
+        "url": "https://open.spotify.com/album/31E3FJeD3mPINXJu4kXpVD"
+      },
+      "artists": [
+        {
+          "name": "DCO",
+          "url": "https://open.spotify.com/artist/3m8kUt4fTVDHnafKhS66AZ"
+        }
+      ],
+      "duration_ms": 193213,
+      "name": "Playas de Ensue\u00f1o",
+      "url": "https://open.spotify.com/track/1IXc0lJmLcPHHrGL9rSWzX"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1447,8 +1447,8 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "A Swingin' Safari",
-        "url": "https://open.spotify.com/album/4DfOHkq52aDLQ2U7z9YpUu"
+        "name": "Look For A Star",
+        "url": "https://open.spotify.com/album/6RMGWC76Pbcy3Ngt32JDoj"
       },
       "artists": [
         {
@@ -1456,9 +1456,9 @@
           "url": "https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0"
         }
       ],
-      "duration_ms": 135666,
-      "name": "A Swingin' Safari",
-      "url": "https://open.spotify.com/track/67dN68PBuUplLJA2VoWfsB"
+      "duration_ms": 132600,
+      "name": "Look For A Star",
+      "url": "https://open.spotify.com/track/72PQJVnhV3FV7z7i1dWzQJ"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1491,22 +1491,6 @@
       "duration_ms": 113880,
       "name": "Woodpecker Song",
       "url": "https://open.spotify.com/track/1b39F2Q4sNP8R9PwGK8G5D"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
-        "name": "Tara's Theme from \"Gone With The Wind\" and Other Movie Themes",
-        "url": "https://open.spotify.com/album/0dA8Iq9534j5yb7b4HA6Li"
-      },
-      "artists": [
-        {
-          "name": "Percy Faith & His Orchestra",
-          "url": "https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv"
-        }
-      ],
-      "duration_ms": 162586,
-      "name": "Never On Sunday",
-      "url": "https://open.spotify.com/track/5mz2sOKTkykheJlp88CTfd"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1591,8 +1575,8 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Look For A Star",
-        "url": "https://open.spotify.com/album/6RMGWC76Pbcy3Ngt32JDoj"
+        "name": "A Swingin' Safari",
+        "url": "https://open.spotify.com/album/4DfOHkq52aDLQ2U7z9YpUu"
       },
       "artists": [
         {
@@ -1600,9 +1584,25 @@
           "url": "https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0"
         }
       ],
-      "duration_ms": 132600,
-      "name": "Look For A Star",
-      "url": "https://open.spotify.com/track/72PQJVnhV3FV7z7i1dWzQJ"
+      "duration_ms": 135666,
+      "name": "A Swingin' Safari",
+      "url": "https://open.spotify.com/track/67dN68PBuUplLJA2VoWfsB"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Tara's Theme from \"Gone With The Wind\" and Other Movie Themes",
+        "url": "https://open.spotify.com/album/0dA8Iq9534j5yb7b4HA6Li"
+      },
+      "artists": [
+        {
+          "name": "Percy Faith & His Orchestra",
+          "url": "https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv"
+        }
+      ],
+      "duration_ms": 162586,
+      "name": "Never On Sunday",
+      "url": "https://open.spotify.com/track/5mz2sOKTkykheJlp88CTfd"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1879,18 +1879,18 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Michel Legrand y Su Gran Orquesta",
-        "url": "https://open.spotify.com/album/6YrMXJE3AKt9IIOypizlq8"
+        "name": "The Unforgettable Sounds of Esquivel",
+        "url": "https://open.spotify.com/album/0SPXzu3ACPLUkupxHdU7Bp"
       },
       "artists": [
         {
-          "name": "Michel Legrand",
-          "url": "https://open.spotify.com/artist/1EtE0iSY6iFlN9L9c53ETy"
+          "name": "Mr. Ho's Orchestrotica",
+          "url": "https://open.spotify.com/artist/2pItGpy5dyOJoJWfEmCbmd"
         }
       ],
-      "duration_ms": 135360,
-      "name": "Boum",
-      "url": "https://open.spotify.com/track/1ByDvF2eKOGlybrLYqUzFE"
+      "duration_ms": 161773,
+      "name": "Andalucia",
+      "url": "https://open.spotify.com/track/61wVl3WPpGKHlCvChWkSXY"
     }
   ],
   "unique_name": "Golden Instrumentals",
