@@ -4610,6 +4610,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Winding Roads](/playlists/pretty/1JuraqRjLX4CmhyvvuXiPF.md)
 - [Wine & Dine](/playlists/pretty/37i9dQZF1DWTJNOeepZTGy.md)
 - [Winter Classical](/playlists/pretty/37i9dQZF1DX0ynPp7KaiSY.md)
+- [Witch House Nights](/playlists/pretty/7LBFMuT8Ool5VxAbDMWjtA.md)
 - [With Love, A Changemaker](/playlists/pretty/37i9dQZF1DWZdp0QTOUSvS.md)
 - [With Love, A Storyteller](/playlists/pretty/37i9dQZF1DWSqkyNSQUvSz.md)
 - [With Love, An Artist](/playlists/pretty/37i9dQZF1DX49H7UBWpZWR.md)
