@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8YFRm3hen8.md) - [plain]
 
 > La banda de sonido de tu día.
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,171 likes - 80 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,241 likes - 80 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8YFRm3hen8.md) - [plain]
 | 20 | [El amor después del amor](https://open.spotify.com/track/1PQzZbitOJ6XPFg7FFzsKQ) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [El Amor Después del Amor](https://open.spotify.com/album/1nDTw13U4zW8YuelhilKW5) | 5:11 |
 | 21 | [Cae el Sol](https://open.spotify.com/track/2nBOPYRoAYOwv6go12SQDs) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Voragine](https://open.spotify.com/album/7IlDM4DB3KkquIIQh0KDOb) | 4:41 |
 | 22 | [Un Poco de Amor Francés](https://open.spotify.com/track/1MRhIdcloOD0uiiG3ybXGX) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [La Mosca y la Sopa](https://open.spotify.com/album/0IcpyzTrT0Gp8PVMC9l0NS) | 3:26 |
-| 23 | [Personalmente](https://open.spotify.com/track/7q7XFO9av9VpNJSXKJwJxD) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Despierta](https://open.spotify.com/album/0289kJfdXVBPSDJfQ1fPJz) | 4:10 |
-| 24 | [Ella Dijo](https://open.spotify.com/track/6cFf4Jfy7ThUwGzbqFcZsx) | [Estelares](https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF), [Jorge Serrano](https://open.spotify.com/artist/0MKZAy5tWkpbK7elkCZRLF) | [Sistema Nervioso Central](https://open.spotify.com/album/6IbJShCtiqesFKNWnNfZp4) | 4:44 |
+| 23 | [Ella Dijo](https://open.spotify.com/track/6cFf4Jfy7ThUwGzbqFcZsx) | [Estelares](https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF), [Jorge Serrano](https://open.spotify.com/artist/0MKZAy5tWkpbK7elkCZRLF) | [Sistema Nervioso Central](https://open.spotify.com/album/6IbJShCtiqesFKNWnNfZp4) | 4:44 |
+| 24 | [Personalmente](https://open.spotify.com/track/7q7XFO9av9VpNJSXKJwJxD) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Despierta](https://open.spotify.com/album/0289kJfdXVBPSDJfQ1fPJz) | 4:10 |
 | 25 | [Juntos a la Par](https://open.spotify.com/track/1Ig4pCPanhzXl7C86MmBUc) | [Pappo](https://open.spotify.com/artist/1db5TWniHR7iqwXer7AiQ2) | [Buscando un Amor](https://open.spotify.com/album/4AMgSDaOROvCGSNSz3rfYw) | 2:41 |
 | 26 | [Deja Vu](https://open.spotify.com/track/6WgUNHiMwJazeG4kWPAH1m) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Fuerza Natural](https://open.spotify.com/album/51wepZm3YvZfvFxiu7D5F8) | 3:24 |
 | 27 | [Como Eran Las Cosas](https://open.spotify.com/track/61qPUnazSdkvua4wgA4L8C) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Mucho](https://open.spotify.com/album/0DUCdIMPrlfPFPPKsNyzx3) | 4:00 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8YFRm3hen8.md) - [plain]
 | 76 | [El trato](https://open.spotify.com/track/4jsWMUBxGEKn6usvMIO1R8) | [Cruzando El Charco](https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z), [Coti](https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj) | [Cicatrices](https://open.spotify.com/album/0B8RpNMbnIrTB8Q9Si7gYY) | 3:28 |
 | 77 | [Pensamientos](https://open.spotify.com/track/1H7ktqkQx1PIuPfNtqvaBs) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Al Parecer Todo Ha Sido una Trampa](https://open.spotify.com/album/25wv6eU2tDQDPLAYTyuj2Q) | 3:53 |
 | 78 | [Cállame](https://open.spotify.com/track/5woNfSOnZYbFbA94DqvJJG) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [El Big Blue](https://open.spotify.com/album/1K6DMhbzgcx1T8e4HPnOX4) | 3:07 |
-| 79 | [La Ladrona](https://open.spotify.com/track/1Gyfg0uusL0jDRllWpwM72) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P) | [La Ladrona](https://open.spotify.com/album/6xr5n3aPVt5KuerSkh86C5) | 3:19 |
-| 80 | [Sigue Girando](https://open.spotify.com/track/4wjbUTC312rQO7rziAONDa) | [Ratones Paranoicos](https://open.spotify.com/artist/5fVtUielMhdztOA34ArB6c) | [Girando](https://open.spotify.com/album/5uXPldCWi4gWWQRkbT0m5B) | 3:58 |
+| 79 | [Sigue Girando](https://open.spotify.com/track/4wjbUTC312rQO7rziAONDa) | [Ratones Paranoicos](https://open.spotify.com/artist/5fVtUielMhdztOA34ArB6c) | [Girando](https://open.spotify.com/album/5uXPldCWi4gWWQRkbT0m5B) | 3:58 |
+| 80 | [La Ladrona](https://open.spotify.com/track/1Gyfg0uusL0jDRllWpwM72) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P) | [La Ladrona](https://open.spotify.com/album/6xr5n3aPVt5KuerSkh86C5) | 3:19 |
 
-Snapshot ID: `MTY2MjY5MjQwMCwwMDAwMDAwMDdkMWI1NTQ1MzRmZmVkZmVmNDMzZjIxMjI0YmI5NTFl`
+Snapshot ID: `MTY2MjY5MjQwMCwwMDAwMDAwMDRkYTdmYzU5MzRhMWVlYTcwMmZiYzc2OTQ2MmUxODZi`

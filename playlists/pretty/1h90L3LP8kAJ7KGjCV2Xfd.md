@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1h90L3LP8kAJ7KGjCV2Xfd.md) - [plain]
 
 > Need a musical pick\-me\-up? Boost that serotonin with these timeless jams.
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 312,160 likes - 151 songs - 8 hr 36 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 312,145 likes - 151 songs - 8 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -160,4 +160,4 @@ pretty - [cumulative](/playlists/cumulative/1h90L3LP8kAJ7KGjCV2Xfd.md) - [plain]
 | 150 | [true american \(feat\. Kyle Lux\)](https://open.spotify.com/track/0ceYW8uhnTOywJRp68iaq2) | [Sally Boy](https://open.spotify.com/artist/0FizvTDN8BVHmV5j2fL9Hf), [Kyle Lux](https://open.spotify.com/artist/63g7H7tihdsX4LtRQioKrR) | [true american \(feat\. Kyle Lux\)](https://open.spotify.com/album/3ZE1urLrVTsuB8KZXq6RAe) | 2:51 |
 | 151 | [Plutón](https://open.spotify.com/track/0w41wEubHTq13Hh4tfRCke) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Plutón](https://open.spotify.com/album/6etaamYe4bL3P9MHoDcMSQ) | 2:45 |
 
-Snapshot ID: `MzE3MSw5OGMyZjE4N2FmN2JlM2Y5MmFiZDAyNTRiYzQxYjQ4MTBiZTZkYjUy`
+Snapshot ID: `MzE3Myw1N2YzOTBlM2NkOTI0MzllY2Y1N2JiMGNkZWVlMDI5MmY3MDRjNjI2`

@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:5mIowAJMp7RKNheelruV5z">&ME</a>'s favorite tracks\. Updated regularly\. Curated by &ME\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-69 songs - 6 hr 27 min - not published yet
+69 songs - 6 hr 27 min - [published](https://open.spotify.com/playlist/0aPO5Ukruwi5tjT4lOAA6p)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

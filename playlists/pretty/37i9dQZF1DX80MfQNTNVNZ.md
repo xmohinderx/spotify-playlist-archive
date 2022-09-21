@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80MfQNTNVNZ.md) - [plain]
 
 > Groove\-heavy, soothing tunes for the soul
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,725 likes - 60 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,802 likes - 60 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80MfQNTNVNZ.md) - [plain]
 | 38 | [Poke It Out \(feat\. J\. Cole\)](https://open.spotify.com/track/1IeCWMwZs4rCmwPOjZYWN7) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Cool & Dre](https://open.spotify.com/artist/2PsjBHyb950JI7BHXY10TD) | [Poke It Out \(feat\. J\. Cole\)](https://open.spotify.com/album/2DXRWlFTI8l2YvBD4iFUK8) | 3:03 |
 | 39 | [The Mission](https://open.spotify.com/track/4CGORuRtjSK6xMy8s1VvSS) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [The Mission](https://open.spotify.com/album/0jsaa9MWnJM4EUG81Ja2fn) | 3:11 |
 | 40 | [Mind Games \(feat\. Jackson Wang\)](https://open.spotify.com/track/6JbxkCyeOto3xXjcFalZ3e) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [MILLI](https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis), [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [Mind Games \(feat\. Jackson Wang\)](https://open.spotify.com/album/1fbmGW0Sy8WQlhCZ5UC5zb) | 3:13 |
-| 41 | [skeletons](https://open.spotify.com/track/0K0JJ3QZEHYhBwkE21L2HZ) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [life's a beach](https://open.spotify.com/album/2xOawu4iq9fwcdFNvGBTdl) | 2:58 |
-| 42 | [Bound \(with Blood Orange\)](https://open.spotify.com/track/3QVOw80vrsAV8UpNMUKI3G) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Letter Blue](https://open.spotify.com/album/2EfIa1JzzYjckiiEbtM7g3) | 3:40 |
+| 41 | [Bound \(with Blood Orange\)](https://open.spotify.com/track/3QVOw80vrsAV8UpNMUKI3G) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Letter Blue](https://open.spotify.com/album/2EfIa1JzzYjckiiEbtM7g3) | 3:40 |
+| 42 | [skeletons](https://open.spotify.com/track/0K0JJ3QZEHYhBwkE21L2HZ) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [life's a beach](https://open.spotify.com/album/2xOawu4iq9fwcdFNvGBTdl) | 2:58 |
 | 43 | [Out Loud \(feat\. Kehlani\)](https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Broken Hearts Club](https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y) | 3:23 |
 | 44 | [Free Room \(feat\. Appleby\)](https://open.spotify.com/track/3HEn14GqygLCNfroOnYiZb) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Appleby](https://open.spotify.com/artist/4Y2i9jhU3jW0PVsvTLIbWX) | [Moon Shoes EP](https://open.spotify.com/album/57X0V74PxWKM2fuyf283tE) | 3:37 |
 | 45 | [Lose My Cool \- Franc Moody Remix](https://open.spotify.com/track/4gdQamULpFs7WeyFGfmTCZ) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu), [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Lose My Cool \(Remixes\)](https://open.spotify.com/album/1UG98QDB2VZMhJtYZaRQAA) | 4:17 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80MfQNTNVNZ.md) - [plain]
 | 59 | [Toothache](https://open.spotify.com/track/6plp1nJtm4Y3m87qmDCy61) | [Topaz Jones](https://open.spotify.com/artist/76bAuLD5jMIT1YDJ84KB8l) | [Toothache / Zoom](https://open.spotify.com/album/3c9W0mGNlgamPdlh1JfNj1) | 3:43 |
 | 60 | [Take You Higher](https://open.spotify.com/track/3QtNPpwrajozNB5AORHYzP) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Sunsetter](https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU) | 3:48 |
 
-Snapshot ID: `MTY2MzI1ODg0NCwwMDAwMDAwMDBiZjQzYmMzNzZlMjcxOTJmNmRmYmE4Y2RjODkyZDBh`
+Snapshot ID: `MTY2MzI1ODg0NCwwMDAwMDAwMGZiOGQ2YzE0YTNhMWE4ODYwZjVlZTNmNmY2YmVlZTgw`

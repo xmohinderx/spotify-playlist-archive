@@ -4,7 +4,7 @@
 
 > Soft Jazz in the background of your cocktail party.
 
-139 songs - 9 hr 43 min - [published](https://open.spotify.com/playlist/2vEWDsu9Afic181JBShVxc)
+141 songs - 9 hr 51 min - [published](https://open.spotify.com/playlist/2vEWDsu9Afic181JBShVxc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [It Could Happen To You](https://open.spotify.com/track/7ns8zu3jKepR1oed6TvglA) | [Herb Ellis](https://open.spotify.com/artist/3cE7UG46bdFd8gHHgzyQEz) | [Ellis In Wonderland](https://open.spotify.com/album/0eoeuhP2vaqXF05wiDTTWP) | 3:44 | 2022-04-26 | 2022-06-09 |
 | [It Might As Well Be Spring](https://open.spotify.com/track/62sqdTmnNpWcJtxtJXmKzy) | [Mark Roswell Trio](https://open.spotify.com/artist/5LyofWLANV5qojc0VHqh6i) | [It Might As Well Be Spring](https://open.spotify.com/album/0FMeAHDC7zwcktJQ3KUzGw) | 4:35 | 2022-04-26 |  |
 | [It's Always You](https://open.spotify.com/track/2i7sJAA8we9WPS4TzDazRQ) | [Bill Parker](https://open.spotify.com/artist/58mMPpww20oJW8J0UZ3frj) | [It's Always You](https://open.spotify.com/album/5nHIEvhqTrblgGXsrDPiQJ) | 3:39 | 2022-08-10 |  |
+| [It's Not Forever](https://open.spotify.com/track/6qi3FFTVaIAZSQnQIoswUQ) | [Pearl Street Trio](https://open.spotify.com/artist/6vOQ06tNCXPAdGfaNV3L0k) | [It's Not Forever](https://open.spotify.com/album/1Va59mXaQclhCVDJ6Sor0L) | 3:26 | 2022-09-20 |  |
 | [It's You Or No One](https://open.spotify.com/track/3CewMyxVNsiu94v6Vm0SS2) | [The Blue Green](https://open.spotify.com/artist/2MV5ORkK9NtSHyy4WbwY80) | [It's You Or No One](https://open.spotify.com/album/21kjz5LLIGohYrVYgkEI0r) | 3:34 | 2022-08-30 |  |
 | [It´s Easy To Remember](https://open.spotify.com/track/5PExCVG0iW5oiWpzHZjxMq) | [Geeder](https://open.spotify.com/artist/65SoHM1qvoOmpiIBxWGAk1) | [It´s Easy To Remember](https://open.spotify.com/album/2mQbfegP0VRuYuBP5sKihX) | 3:32 | 2022-04-26 |  |
 | [I´m Glad There Is You](https://open.spotify.com/track/5aSfAExWXaU5P4wuPkBINx) | [Carlton Maison Quartet](https://open.spotify.com/artist/0Tq1tUZV3Vw3CUvNwIjxpm) | [I´m Glad There Is You](https://open.spotify.com/album/5S8DO23pBgOdUIIfeup4IT) | 4:29 | 2022-04-26 |  |
@@ -98,6 +99,7 @@
 | [Pathfinding](https://open.spotify.com/track/3crZQxfAscJX4GLbmiV4F7) | [Theo Rollins](https://open.spotify.com/artist/60QiTTvsk3chyatkaryUFL) | [Pathfinding](https://open.spotify.com/album/4LjNSnWXsDOgaE7YK20BSF) | 3:10 | 2022-04-26 |  |
 | [Paul's Pal \- Rudy Van Gelder Remaster](https://open.spotify.com/track/6a7RptxOL7EiTs0WNCjpeZ) | [Sonny Rollins Quartet](https://open.spotify.com/artist/2mlKlEmxOO3vb6DqopDh4H) | [Tenor Madness](https://open.spotify.com/album/5qczcj3TPA0gqcsCUTbL7Q) | 5:10 | 2022-04-26 | 2022-08-18 |
 | [Pennies From Heaven](https://open.spotify.com/track/6jnHBP28tpxWLf93Wc3xFG) | [Tribute Trio](https://open.spotify.com/artist/3PuxIr3757alJvpconHY1C) | [Pennies From Heaven](https://open.spotify.com/album/65ZiqvtCcA5LOq4bZph6oC) | 4:01 | 2022-04-26 |  |
+| [Pensativa](https://open.spotify.com/track/1QVNZXoguyS3bBzMldMn7i) | [Gene Hart Trio](https://open.spotify.com/artist/5iUzoJfVuTECa0aM3nCCCh) | [I'm Glad There's You](https://open.spotify.com/album/77AOGNjcrBXivWuex9jHmc) | 4:47 | 2022-09-20 |  |
 | [Pent\-Up House](https://open.spotify.com/track/6TAjrtxxRwWuo5NI4gUG0g) | [Ronnie Robinson Trio](https://open.spotify.com/artist/2GruKi792ZhC1p19Yvj8GP) | [Straight, No Chaser](https://open.spotify.com/album/2w2bzxQmWcOUXTEtUrQvC2) | 2:18 | 2022-04-26 | 2022-08-11 |
 | [Prelude To A Kiss](https://open.spotify.com/track/4Csbgu7LMDGPLjhPgHfQmZ) | [Al Fowler Trio](https://open.spotify.com/artist/5CerxxaCrkjDa5ShjsTwcX) | [Prelude To A Kiss](https://open.spotify.com/album/4cSn217ednrXznxx6lIKvA) | 4:35 | 2022-09-13 |  |
 | [Pure Imagination](https://open.spotify.com/track/2HNYhs4PO9yCuAOS9srcHP) | [Kendra Collins Band](https://open.spotify.com/artist/2VEg5RG7lT8Ej8ZDf63MrO) | [Pure Imagination](https://open.spotify.com/album/5lVkJUkfgzHhpPKYiv3jhK) | 5:15 | 2022-04-26 |  |
@@ -115,7 +117,7 @@
 | [Softly As In A Morning Sunrise \- Remastered](https://open.spotify.com/track/3DZShPBwoWAfFgPKBUcFFJ) | [Sonny Clark Trio](https://open.spotify.com/artist/7CZmsRaJUmKd1tGyfveLGw) | [Sonny Clark Trio \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/0dSFSlppCQph48h0RE52iH) | 6:33 | 2022-04-26 |  |
 | [Sommar och äng](https://open.spotify.com/track/7CVoy8EgYOlKv3utyu8bcF) | [Måns & Dotter](https://open.spotify.com/artist/2p01LeKL4qyvQ5xKWs9S40) | [Sommar & äng](https://open.spotify.com/album/1MRmHT0n0XjI6GJYgYVrG4) | 3:00 | 2022-08-10 |  |
 | [Soon](https://open.spotify.com/track/2fAydkC38qWCHMDz5WjhGk) | [Kevin Waters Group](https://open.spotify.com/artist/57U22BNH5ClRbVtpNjVAoG) | [Soon](https://open.spotify.com/album/4Zj16QaY58OccNy2W9ohpE) | 4:21 | 2022-08-10 |  |
-| [Souvenir](https://open.spotify.com/track/47yAskmqMUSR3W0lte2E1v) | [Bill Charlap Trio](https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja), [Scott Colley](https://open.spotify.com/artist/2xXlVRnJO7vxdGV8Z2nWjb), [Dennis Mackrel](https://open.spotify.com/artist/3PUIxfK6P8boslOXGpZPoK) | [Souvenir](https://open.spotify.com/album/3brxc2ayHoVUxk8PhXFZ8A) | 7:56 | 2022-04-26 |  |
+| [Souvenir](https://open.spotify.com/track/47yAskmqMUSR3W0lte2E1v) | [Bill Charlap Trio](https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja), [Scott Colley](https://open.spotify.com/artist/2xXlVRnJO7vxdGV8Z2nWjb), [Dennis Mackrel](https://open.spotify.com/artist/3PUIxfK6P8boslOXGpZPoK) | [Souvenir](https://open.spotify.com/album/3brxc2ayHoVUxk8PhXFZ8A) | 7:56 | 2022-04-26 | 2022-09-21 |
 | [Speak Low](https://open.spotify.com/track/4qY2rgB6SJM9F1RPaLeGcz) | [The Jazz Cultivators](https://open.spotify.com/artist/24LiiowKnaEDD4I3CCdI3v) | [Speak Low](https://open.spotify.com/album/1yGFyTpml5nZFJ692JMOrN) | 3:41 | 2022-04-26 |  |
 | [Spring Came Early](https://open.spotify.com/track/3vlVtBIC5VDiY98GWAgT67) | [CMC 3](https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC) | [Spring Came Early](https://open.spotify.com/album/3m97OF4An5bONucwGKVgm4) | 3:39 | 2022-04-26 |  |
 | [Spring Fling](https://open.spotify.com/track/1p0jkWytxejDWCaovqjlGs) | [Norberg](https://open.spotify.com/artist/4clALHmaxBpsJ0aWHb3Rdy) | [Spring Fling](https://open.spotify.com/album/1btJwiyroPlhKuQJb2EypQ) | 2:30 | 2022-04-26 |  |

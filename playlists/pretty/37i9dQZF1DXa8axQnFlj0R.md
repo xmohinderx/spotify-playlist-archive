@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8axQnFlj0R.md) - [plain]
 
 > let me hold both your hands in the holes of my sweater
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,176 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,629 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8axQnFlj0R.md) - [plain]
 | 42 | [Autumn Leaves \- Deluxe Edition](https://open.spotify.com/track/7iBSkXB0pTvZasOLf0Qxk9) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [+](https://open.spotify.com/album/02pi98kE0nra0yBqCStzbC) | 3:20 |
 | 43 | [Sense of Home](https://open.spotify.com/track/6oImxt6z8HDS56epRgOi0I) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [Sense of Home](https://open.spotify.com/album/1MggtpuaGB0IPfFUYaY40U) | 4:25 |
 | 44 | [Nothing's Gonna Happen \(Demo\)](https://open.spotify.com/track/4UZOq2XyfLk3Yl5ip4fwm7) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Nothing's Gonna Happen \(Demo\)](https://open.spotify.com/album/77IaIITv6d4uIskRJnIu5U) | 3:56 |
-| 45 | [Seventeen Going Under \- Acoustic](https://open.spotify.com/track/1vXmhTcKkv7Kck2gBap1fz) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Seventeen Going Under \(Acoustic\)](https://open.spotify.com/album/1fjmi1ythcL9bx9rhaGEYy) | 4:30 |
-| 46 | [New Song](https://open.spotify.com/track/3PUMPtOSeXSJsBvK43K96b) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe), [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Notes from the Archive: Recordings 2011\-2016](https://open.spotify.com/album/2li1FMT6riytgLdq4Eu4rb) | 6:22 |
+| 45 | [New Song](https://open.spotify.com/track/3PUMPtOSeXSJsBvK43K96b) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe), [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Notes from the Archive: Recordings 2011\-2016](https://open.spotify.com/album/2li1FMT6riytgLdq4Eu4rb) | 6:22 |
+| 46 | [Seventeen Going Under \- Acoustic](https://open.spotify.com/track/1vXmhTcKkv7Kck2gBap1fz) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Seventeen Going Under \(Acoustic\)](https://open.spotify.com/album/1fjmi1ythcL9bx9rhaGEYy) | 4:30 |
 | 47 | [Middle Of Nowhere](https://open.spotify.com/track/7gUpHwmxXyJ4JVra6UHpKA) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [Middle Of Nowhere](https://open.spotify.com/album/2G7vGmlxwNxKWbjyK3otZb) | 6:42 |
 | 48 | [Simply the Best \(From "Schitt's Creek"\)](https://open.spotify.com/track/1KFuLRUmWf0irn0CLclT2X) | [Noah Reid](https://open.spotify.com/artist/0h3ltaoCYAfisEeddUYDZT) | [Simply the Best \(From "Schitt's Creek"\)](https://open.spotify.com/album/3by1f21NPpyV2sxW4PkzRp) | 2:57 |
 | 49 | [I Should Go \- Solo Version](https://open.spotify.com/track/50kgovuPE9wDZ0hEynlssm) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [I Should Go \(Solo Version\)](https://open.spotify.com/album/3d11dBT3l0OGHxHaOBr4nV) | 2:31 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8axQnFlj0R.md) - [plain]
 | 60 | [Dog Years](https://open.spotify.com/track/5RRNZFyOi17nTh2bPEKPtp) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Now That The Light Is Fading](https://open.spotify.com/album/16wZsyXQ463IYlrXyJnRfY) | 4:37 |
 | 61 | [The Killer Was a Coward](https://open.spotify.com/track/3c67dPnPg08gwduVB08hpZ) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Without Fear \(The Complete Edition\)](https://open.spotify.com/album/4Z6CfVlX40xDUq4CTiFpAa) | 4:20 |
 | 62 | [Unconditional](https://open.spotify.com/track/4s3G9Ifc1dp8xEksZxNe8P) | [Richard Walters](https://open.spotify.com/artist/3rUqgY188kWz0hKkqnpk9F) | [Devon or Las Vegas](https://open.spotify.com/album/2iBH65jlLWmkzAAkqu0Ade) | 4:20 |
-| 63 | [Home Again](https://open.spotify.com/track/46EuzanXhKwIc7755wLAvS) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Home Again](https://open.spotify.com/album/79VDAdjzMMGoftIbw5feYN) | 3:32 |
-| 64 | [Doomsday](https://open.spotify.com/track/5jxjLdZXCqZlAOCC1OHOmc) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Doomsday](https://open.spotify.com/album/5U3mu1u7g2igAERT5ZDLTF) | 3:09 |
+| 63 | [Doomsday](https://open.spotify.com/track/5jxjLdZXCqZlAOCC1OHOmc) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Doomsday](https://open.spotify.com/album/5U3mu1u7g2igAERT5ZDLTF) | 3:09 |
+| 64 | [Home Again](https://open.spotify.com/track/46EuzanXhKwIc7755wLAvS) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Home Again](https://open.spotify.com/album/79VDAdjzMMGoftIbw5feYN) | 3:32 |
 | 65 | [Two People](https://open.spotify.com/track/0htjtrOVbQpWoDYYwPIrWY) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Hypersonic Missiles](https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m) | 3:56 |
 | 66 | [Time](https://open.spotify.com/track/0FjTazWaBSHBVWm2PAGghQ) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Tomb](https://open.spotify.com/album/4bUHu3F1zbCbKKcwvCmAXj) | 3:56 |
 | 67 | [Mountaineer](https://open.spotify.com/track/6qgiIu9Up7oDWfQnaajvy3) | [Arliston](https://open.spotify.com/artist/1zdjZcUSe5thcIAIU5NRYh) | [Mountaineer](https://open.spotify.com/album/5AtMxNyGbY4sJnEyFbbig7) | 3:41 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8axQnFlj0R.md) - [plain]
 | 99 | [Where The Rocks Are](https://open.spotify.com/track/0XzVFPCmBmQuNjshP49T1R) | [Maia Friedman](https://open.spotify.com/artist/3SAdHKW3ICNgtyFgaWdC6c) | [Where The Rocks Are](https://open.spotify.com/album/0JseMx4hFfMch3y8MfbDNo) | 3:53 |
 | 100 | [Racing Stripes](https://open.spotify.com/track/3mOlGrCrh3rJYbjmhfMTiQ) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [Everything Else Has Gone Wrong](https://open.spotify.com/album/11yHtE6IzOk6elh9cJzldJ) | 4:06 |
 
-Snapshot ID: `MTY2MzM0NTcyMSwwMDAwMDAwMGE0NzEyOTE0OWMxMjNmOTMwMmNlNjUwZGM5ZmJjNDYz`
+Snapshot ID: `MTY2MzM0NTcyMSwwMDAwMDAwMGI4OWE0Yzg3ZmU4OTljODdjMmJmOWM1YWMyNmU1MDA2`

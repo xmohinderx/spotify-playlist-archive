@@ -4,7 +4,7 @@
 
 > next gen pop cover: JVKE
 
-1,109 songs - 2 day 5 hr 53 min - [published](https://open.spotify.com/playlist/1MUGAYRMba2bUffdFFswRE)
+1,110 songs - 2 day 5 hr 55 min - [published](https://open.spotify.com/playlist/1MUGAYRMba2bUffdFFswRE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -290,6 +290,7 @@
 | [drivers license](https://open.spotify.com/track/7lPN2DXiMsVn7XUKtOW1CS) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [drivers license](https://open.spotify.com/album/66FPnVL9G4CMKy3wvaGTcr) | 4:02 | 2021-02-16\* | 2021-03-31 |
 | [drunk text me](https://open.spotify.com/track/2tbu7dOzCjM5JrPGr0sIes) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [drunk text me](https://open.spotify.com/album/5UnfL0nJwrdb5th8GyZArU) | 3:33 | 2022-01-07 | 2022-07-29 |
 | [drunk text me](https://open.spotify.com/track/5gukv8x9eP58gFy2OcZEBQ) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [closer to closure](https://open.spotify.com/album/6CfZkq2gT8JmDKJGgHOIf1) | 3:33 | 2022-06-17 | 2022-09-03 |
+| [dumb dumb](https://open.spotify.com/track/7pq7gsLHiMhkF4RSN9RtWT) | [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [dumb dumb](https://open.spotify.com/album/0mq5MBb02slLpdG5Rkm2hz) | 2:05 | 2022-09-21 |  |
 | [Dumped](https://open.spotify.com/track/2G6mLCWcfHTPEJ7Vscf0FL) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Dumped](https://open.spotify.com/album/6mKVK9W2eY2WdfgrAh9HMW) | 2:43 | 2021-10-02 | 2021-12-04 |
 | [dying on the inside](https://open.spotify.com/track/6h1s7cKnUtsbRpE5bwnUTf) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [dying on the inside](https://open.spotify.com/album/67sFRrnPbvz9Te28kO6Ktu) | 3:24 | 2022-02-25 |  |
 | [e\-z \(feat\. UPSAHL & Blu DeTiger\)](https://open.spotify.com/track/2FsHjcNkT4usTdV2b407Iq) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9), [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9), [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [a study of the human experience volume one](https://open.spotify.com/album/1oZ8mqRS1vJFZhSpc4WI4S) | 2:45 | 2022-03-18 | 2022-04-09 |

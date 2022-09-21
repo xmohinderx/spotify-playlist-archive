@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXh4ecan7Hh.md) - [plain]
 
 > County's best like you've never heard before\. Cover: Ingrid Andress
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,898 likes - 65 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,912 likes - 65 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXh4ecan7Hh.md) - [plain]
 | 2 | [Dive \- Recorded At Sound Stage Nashville](https://open.spotify.com/track/2VWBdFsDJVGlRTdz4PvYwy) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Spotify Singles](https://open.spotify.com/album/2H18xXYbVopKYddC2VqoPJ) | 4:20 |
 | 3 | [September \- Recorded at The Tracking Room Nashville](https://open.spotify.com/track/5eGX87IiKsGuzS3iw4CfCX) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Spotify Singles](https://open.spotify.com/album/74utZeTCeaXy01BjOddyv8) | 3:07 |
 | 4 | [Highway 40 Blues \(feat\. Ricky Skaggs & Larry Cordle\)](https://open.spotify.com/track/5E5Ixhxfgqf4Ke0kgwXrhl) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV), [Ricky Skaggs](https://open.spotify.com/artist/0uNC9XuH437fKCCMuzvSks), [Larry Cordle](https://open.spotify.com/artist/2FTZtjNxkvPnXU0XoMYedM) | [Spotify Singles](https://open.spotify.com/album/2lUa80FmRYq0pYjGZiDWBD) | 3:16 |
-| 5 | [Carrying Your Love With Me \- Spotify Singles](https://open.spotify.com/track/6ThMWDBYb8SsqCMup5vLLP) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Carrying Your Love With Me \(Spotify Singles\)](https://open.spotify.com/album/2ppLwCKe1rQxYyRmHlfyb8) | 4:03 |
-| 6 | [Never Be The Same \- Recorded At Revolution Studios, Toronto](https://open.spotify.com/track/4AL1lFrYg2RgSIGVjKOo2E) | [James Barker Band](https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA) | [Spotify Singles](https://open.spotify.com/album/0AccJ5bsbh5fiF4uPaQuyE) | 4:28 |
+| 5 | [Never Be The Same \- Recorded At Revolution Studios, Toronto](https://open.spotify.com/track/4AL1lFrYg2RgSIGVjKOo2E) | [James Barker Band](https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA) | [Spotify Singles](https://open.spotify.com/album/0AccJ5bsbh5fiF4uPaQuyE) | 4:28 |
+| 6 | [Carrying Your Love With Me \- Spotify Singles](https://open.spotify.com/track/6ThMWDBYb8SsqCMup5vLLP) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Carrying Your Love With Me \(Spotify Singles\)](https://open.spotify.com/album/2ppLwCKe1rQxYyRmHlfyb8) | 4:03 |
 | 7 | [Cover Me Up \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2S3Vx5HRNqRr4MCJCFREbl) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [Spotify Singles](https://open.spotify.com/album/1C640BfNRoMu97Y9ye3iLv) | 4:47 |
 | 8 | [Much Too Young \(To Feel This Damn Old\) \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2Zv9cKaT82kHOutvQmBUnD) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Spotify Singles](https://open.spotify.com/album/7DzULGMf4tFgZ65CFlZugm) | 2:37 |
 | 9 | [One Number Away \- Recorded At Sound Stage Nashville](https://open.spotify.com/track/0RmtUP9oQqhO3WFqB3KrM2) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Spotify Singles](https://open.spotify.com/album/2H18xXYbVopKYddC2VqoPJ) | 3:44 |
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXh4ecan7Hh.md) - [plain]
 | 16 | [Bad At Love \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/1kTugNMVMbaQep1srMua2q) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Spotify Singles](https://open.spotify.com/album/0AwgzJZxt4sf2teqdEjxwV) | 3:01 |
 | 17 | [Castle On The Hill \- Recorded at Sound Stage Nashville](https://open.spotify.com/track/71R7NckyIlOd8fJzoZIJfR) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Spotify Singles](https://open.spotify.com/album/5txz8rm3pM2peZ3K8oPNd3) | 4:15 |
 | 18 | [Million Reasons \- Live Session at Sound Stage Studios, Nashville, TN](https://open.spotify.com/track/1tx3VJH2ThfGR0uYvcmkaK) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Spotify Singles](https://open.spotify.com/album/07y7Hurh5dieo9clbTBICi) | 3:14 |
-| 19 | [Tougher Than The Rest \- Recorded At Sound Stage Studios Nashville](https://open.spotify.com/track/76v3BntynHQflWb5ptBgV4) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [Spotify Singles](https://open.spotify.com/album/0Oiwdbyxujtkla4K5a8ttt) | 3:52 |
-| 20 | [Hallelujah \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/33ZIaxsct3MDc0oSPxgY76) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Spotify Singles](https://open.spotify.com/album/1Q7HOVDbx5pHCROjFc2NDK) | 5:46 |
+| 19 | [Hallelujah \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/33ZIaxsct3MDc0oSPxgY76) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Spotify Singles](https://open.spotify.com/album/1Q7HOVDbx5pHCROjFc2NDK) | 5:46 |
+| 20 | [Tougher Than The Rest \- Recorded At Sound Stage Studios Nashville](https://open.spotify.com/track/76v3BntynHQflWb5ptBgV4) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [Spotify Singles](https://open.spotify.com/album/0Oiwdbyxujtkla4K5a8ttt) | 3:52 |
 | 21 | [Smalltown Boy \- Spotify Singles](https://open.spotify.com/track/2UyJBtpLTxB5D4M0Apvu7e) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Smalltown Boy \(Spotify Singles\)](https://open.spotify.com/album/6O29X2hJNBL6TE2SSKQnmL) | 5:17 |
 | 22 | [Strawberry Wine \- Spotify Singles](https://open.spotify.com/track/65pPit9Qk9ZTlhO2mMtwR2) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Strawberry Wine \- Spotify Singles](https://open.spotify.com/album/3ylahM5yMii7H2Z8FkoxZy) | 4:20 |
 | 23 | [Wide Open Spaces \- Spotify Singles](https://open.spotify.com/track/5ZO6g6fEK9tsXNn2yqlzIr) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Wide Open Spaces \- Spotify Singles](https://open.spotify.com/album/14J7gZWOOBbG3LKtE0xs4t) | 4:00 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXh4ecan7Hh.md) - [plain]
 | 64 | [Shitty Golfer \(Recorded at Sound Stage Studios Nashville\)](https://open.spotify.com/track/3moAWjoAN1vphfLnoBHdsO) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Spotify Singles](https://open.spotify.com/album/43Rr16UbNM5Ui01V4tJxSM) | 2:14 |
 | 65 | [Long Live Love \- Recorded at Spotify Studios Nyc](https://open.spotify.com/track/3vVhMYRIZmeuPyhIsd1up8) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [Spotify Singles](https://open.spotify.com/album/6d9KkEhEx8QsRmJ1zlOHMn) | 3:17 |
 
-Snapshot ID: `MTY2MjA1NzE2NCwwMDAwMDAwMDFkZmJjOGZhZGI1OGRhNTQ2NzE0ODc0YWJjMmMxYmEx`
+Snapshot ID: `MTY2MjA1NzE2NCwwMDAwMDAwMDAwOTkzZWIwNDMzNmNjMmUzMWY4Njg2YjMwM2U5YWQx`

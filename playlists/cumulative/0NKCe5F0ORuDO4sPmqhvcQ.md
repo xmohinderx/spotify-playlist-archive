@@ -4,7 +4,7 @@
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-307 songs - 17 hr 4 min - [published](https://open.spotify.com/playlist/2FU048829m51pM28Qzz5gm)
+308 songs - 17 hr 8 min - [published](https://open.spotify.com/playlist/2FU048829m51pM28Qzz5gm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -308,6 +308,7 @@
 | [While My Waves Wonder \- Slow Magic Remix](https://open.spotify.com/track/5D6DcNe4mRDejrA68zyXTH) | [yuragi](https://open.spotify.com/artist/1Ksf2sRoSTPdLYbGxJ9oms), [Slow Magic](https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT) | [While My Waves Wonder \(Slow Magic Remix\)](https://open.spotify.com/album/2SRBOc1uiyQKVOrWesetuH) | 4:17 | 2022-01-18 | 2022-02-05 |
 | [White Honda](https://open.spotify.com/track/57uA9JRQxD9BoEx3N6FC8N) | [rei brown](https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6), [Lecx Stacy](https://open.spotify.com/artist/3hf2fbkCVahsazNW73SovO) | [White Honda](https://open.spotify.com/album/24ihEz3AzFTqxVH2SfGI0u) | 3:15 | 2022-06-24 |  |
 | [Wide Awake \(feat\. Charlie Houston\)](https://open.spotify.com/track/4lKSHi12cKgQlXwkrPHQ6s) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR) | [Wide Awake \(feat\. Charlie Houston\)](https://open.spotify.com/album/4x2RP82FqTREo8eBp0LgI6) | 3:35 | 2022-06-29 |  |
+| [Wide Awake \(feat\. Charlie Houston\) \- Devault Remix](https://open.spotify.com/track/0OXTIle1hA45EBBQJ0ktYG) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL), [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR) | [Wide Awake \(Devault Remix\)](https://open.spotify.com/album/2qTLUHWEVu7AaNUpcrMkwr) | 4:33 | 2022-09-20 |  |
 | [With You](https://open.spotify.com/track/7xbO9ZKSXeos37wSnKPfSZ) | [QRTR](https://open.spotify.com/artist/2THXZEfcOePL7bRFl2DUwj), [artemis orion](https://open.spotify.com/artist/6xLeeQEqxKiq6mXCgvFKSg) | [infina ad nausea: the remixes \[miami rave pack\]](https://open.spotify.com/album/3AVo3rXPsQirTxXQKCHhmw) | 3:33 | 2022-04-18 |  |
 | [Woke Up in Love](https://open.spotify.com/track/21H0pUV2uPIPcFnFhgTBjo) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Woke Up in Love](https://open.spotify.com/album/06q3cqjSYhkePDu6RW6Uoy) | 3:36 | 2022-09-09 | 2022-09-19 |
 | [Worth My Time](https://open.spotify.com/track/2HBtlBkPLCvb35jcmuTUZF) | [KEPIK](https://open.spotify.com/artist/43KdGzqdAQatWUdAFGS4Gn), [Exede](https://open.spotify.com/artist/2vtKZp9zZC9YenxW1szzco) | [Clearer Now EP](https://open.spotify.com/album/62jgddV1RnTux5oI7uzuSU) | 4:20 | 2022-03-11 | 2022-03-31 |

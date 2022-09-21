@@ -4,7 +4,7 @@
 
 > The best of electronic trap\. Cover: RL Grime
 
-226 songs - 12 hr 26 min - [published](https://open.spotify.com/playlist/6tpQ5fWn7pR2a6KV8Us5hN)
+227 songs - 12 hr 31 min - [published](https://open.spotify.com/playlist/6tpQ5fWn7pR2a6KV8Us5hN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Ghosts](https://open.spotify.com/track/0lh5lqLvhqQyarqtL6rD8h) | [Take/Five](https://open.spotify.com/artist/4MD0pIPxvGvPdohFuEkCua) | [Ghosts](https://open.spotify.com/album/4XvlYdkbqmxJj9VpalcyIW) | 2:01 | 2021-11-19 | 2022-02-02 |
 | [Go My Way](https://open.spotify.com/track/5y0X2gA8jlovyL5YmFamIv) | [Oski](https://open.spotify.com/artist/7ERTOmWXRyme5WJUpXVVSl), [The Arcturians](https://open.spotify.com/artist/39Igqv4O9OUd0De2mCdB9K) | [Kid Calamity](https://open.spotify.com/album/4zLskraUiS712MsuxYeQL3) | 3:53 | 2022-07-14 |  |
 | [Go My Way](https://open.spotify.com/track/7baJMiTsqpoQwPOjM7ZlRE) | [Oski](https://open.spotify.com/artist/7ERTOmWXRyme5WJUpXVVSl), [The Arcturians](https://open.spotify.com/artist/39Igqv4O9OUd0De2mCdB9K) | [Kid Calamity](https://open.spotify.com/album/4I1tlO8XZZTnydjNrv0m45) | 3:53 | 2022-02-01 | 2022-07-29 |
+| [GOD \(MUSIC\)](https://open.spotify.com/track/0JwXTGM7R2KGSfck5EZ9xm) | [Mr\. Carmack](https://open.spotify.com/artist/4OHaWpWPKDcZgOOUn9elFn), [Dilip](https://open.spotify.com/artist/5PcwbyuOX1pnaeVYatEEB2) | [HOMETOWN HEROES](https://open.spotify.com/album/370OsF7iXElQn5eBK7R6B4) | 4:30 | 2022-09-09 |  |
 | [Gopher](https://open.spotify.com/track/6RcMHJlUT2QHLdPihLyamW) | [Ivy Lab](https://open.spotify.com/artist/3VXCvo9Sr0hbZ4mk6VOKBs) | [Blonde](https://open.spotify.com/album/2eCPjxsY03PGy7ndGDp5Tk) | 2:49 | 2021-11-19 | 2022-02-02 |
 | [Got 'Em \- ZHU Remix](https://open.spotify.com/track/6RAwKM3TxG9USNt3WcKnbC) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm), [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2), [Trombone Shorty](https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR) | [Pokémon 25: The Blue EP](https://open.spotify.com/album/3N7VGJEuKq6rKQbWcPFWzJ) | 3:54 | 2021-11-19 | 2022-02-02 |
 | [Got Me Like](https://open.spotify.com/track/4JPG8zY4MKIrchfyFGOEPU) | [Big Gigantic](https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r) | [Leisure Season Vol\. 1](https://open.spotify.com/album/0hUxMTFyT6xRfWfsBaCIYg) | 2:51 | 2021-11-19 |  |
@@ -180,7 +181,7 @@
 | [Rumor](https://open.spotify.com/track/2QC2PTvF3yONXlvih301aR) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5), [WYN](https://open.spotify.com/artist/1mFo3mR5ZWTQbNg1RgWj2D) | [Rumor](https://open.spotify.com/album/2vEarBohKW4xTClQB24GHh) | 4:38 | 2021-11-19 |  |
 | [Run Around](https://open.spotify.com/track/1RXh1aAInzM41tTIMwLMxX) | [Lunice](https://open.spotify.com/artist/5I0593TTVPzkanWW8xsTns) | [Run Around](https://open.spotify.com/album/6PEApdxop2cHLXra7RScde) | 2:19 | 2021-11-19 | 2022-07-29 |
 | [SABER TOOTH](https://open.spotify.com/track/4bKqAcgrla5I0xYiAuYSBC) | [TIGER DROOL](https://open.spotify.com/artist/0rSRhW3EmJTsqAM3hTefwA), [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M), [Vincent](https://open.spotify.com/artist/7ymczLNmjz6AVMGApVNWbB) | [SABER TOOTH](https://open.spotify.com/album/6vFjfQyWHawj5cplov6tR9) | 2:45 | 2021-11-19 |  |
-| [Sad B\*tch \(Tisoki Remix\)](https://open.spotify.com/track/0tWgUaqAz1g9RoKbYYfUTG) | [Borgore](https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz), [Tima Dee](https://open.spotify.com/artist/4pQIDKoWXRw04D9e37QzbP), [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64) | [Sad B\*tch \(Tisoki Remix\)](https://open.spotify.com/album/2aOduwWZEWYDJ8389eDUar) | 3:12 | 2021-11-19 |  |
+| [Sad B\*tch \(Tisoki Remix\)](https://open.spotify.com/track/0tWgUaqAz1g9RoKbYYfUTG) | [Borgore](https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz), [Tima Dee](https://open.spotify.com/artist/4pQIDKoWXRw04D9e37QzbP), [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64) | [Sad B\*tch \(Tisoki Remix\)](https://open.spotify.com/album/2aOduwWZEWYDJ8389eDUar) | 3:12 | 2021-11-19 | 2022-09-21 |
 | [Save Me](https://open.spotify.com/track/6VkomiRtWhCiFs4nzrzNUc) | [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm) | [Save Me](https://open.spotify.com/album/6ZTKe8BHDuJ9VlchZfywBD) | 2:07 | 2021-11-19 |  |
 | [Schism](https://open.spotify.com/track/6ORBymYSqdRRqAyZvybcXq) | [Take/Five](https://open.spotify.com/artist/4MD0pIPxvGvPdohFuEkCua), [Besomorph](https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko) | [Schism](https://open.spotify.com/album/7DM9QTovHnLVjFjRkDNQ1F) | 2:33 | 2021-11-19 | 2022-02-02 |
 | [Sense](https://open.spotify.com/track/3mAHtO5lWZmVmZ898Vp3mB) | [capshun](https://open.spotify.com/artist/1iHaJ84BqipzAefeXNAsdL), [Pryzms](https://open.spotify.com/artist/6HNMTkdyksPiM9gdBKLkYf), [broke](https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b) | [Sense](https://open.spotify.com/album/2Ll4zYTAQXnBHi18Jg4K04) | 2:46 | 2022-06-17 | 2022-07-29 |

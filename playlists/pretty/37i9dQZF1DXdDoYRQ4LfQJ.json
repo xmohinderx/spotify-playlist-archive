@@ -1,12 +1,12 @@
 {
   "description": "The hottest corridos in the US! Bien Al Tiro con Peso Pluma y Luis R Conriquez",
-  "num_followers": 96768,
+  "num_followers": 97284,
   "original_name": "Al Tiro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzU3MTk4NCwwMDAwMDAwMDkzMjA0ZjY0MzA0YTk3Mjk5Mjc5YTQ2NDkzMzM1ZGI0",
+  "snapshot_id": "MTY2MzU3MTk4NCwwMDAwMDAwMDljMjgyZWIzOTg3YTg0YzkxNmMxNWZhN2IzNTUwNjcy",
   "tracks": [
     {
       "added_at": "2022-09-19 07:19:44",
@@ -503,22 +503,6 @@
     {
       "added_at": "2022-09-19 07:19:44",
       "album": {
-        "name": "D\u00e9cimo Aniversario",
-        "url": "https://open.spotify.com/album/0rDFeKay5JBgF7fFIUWYca"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 164360,
-      "name": "Tranquilito",
-      "url": "https://open.spotify.com/track/2LJRoFOtMGLnSxJqlJuhge"
-    },
-    {
-      "added_at": "2022-09-19 07:19:44",
-      "album": {
         "name": "Carteles",
         "url": "https://open.spotify.com/album/1c53AOH8tvbZb1mY3jpAHq"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 125818,
       "name": "El B\u00e9lico",
       "url": "https://open.spotify.com/track/50pkO56KXHoH53sVPRSbZ3"
+    },
+    {
+      "added_at": "2022-09-19 07:19:44",
+      "album": {
+        "name": "D\u00e9cimo Aniversario",
+        "url": "https://open.spotify.com/album/0rDFeKay5JBgF7fFIUWYca"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 164360,
+      "name": "Tranquilito",
+      "url": "https://open.spotify.com/track/2LJRoFOtMGLnSxJqlJuhge"
     },
     {
       "added_at": "2022-09-19 07:19:44",
@@ -988,8 +988,8 @@
           "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
         },
         {
-          "name": "Javier Rosas",
-          "url": "https://open.spotify.com/artist/1JKku43pXGs9GM80XoWDzi"
+          "name": "Javier Rosas Y Su Artiller\u00eda Pesada",
+          "url": "https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE"
         }
       ],
       "duration_ms": 176000,
@@ -1663,22 +1663,22 @@
     {
       "added_at": "2022-09-19 07:19:44",
       "album": {
-        "name": "El Comando del Diablo (En Vivo)",
-        "url": "https://open.spotify.com/album/7hMQTRIaeXlCAaVxBX4pNx"
+        "name": "Miami Vibe",
+        "url": "https://open.spotify.com/album/2yPySu8gh3DE4dTpwSvLBI"
       },
       "artists": [
         {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
         },
         {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+          "name": "C\u00f3digo FN",
+          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
         }
       ],
-      "duration_ms": 173250,
-      "name": "El Comando del Diablo - En Vivo",
-      "url": "https://open.spotify.com/track/4ttaps59yHeuSYKhMitFjJ"
+      "duration_ms": 229565,
+      "name": "Miami Vibe",
+      "url": "https://open.spotify.com/track/6ZUBqOrjrdmkP4eLQLBeaq"
     },
     {
       "added_at": "2022-09-19 07:19:44",
@@ -1699,22 +1699,22 @@
     {
       "added_at": "2022-09-19 07:19:44",
       "album": {
-        "name": "Miami Vibe",
-        "url": "https://open.spotify.com/album/2yPySu8gh3DE4dTpwSvLBI"
+        "name": "El Comando del Diablo (En Vivo)",
+        "url": "https://open.spotify.com/album/7hMQTRIaeXlCAaVxBX4pNx"
       },
       "artists": [
         {
-          "name": "Adriel Favela",
-          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
         },
         {
-          "name": "C\u00f3digo FN",
-          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
         }
       ],
-      "duration_ms": 229565,
-      "name": "Miami Vibe",
-      "url": "https://open.spotify.com/track/6ZUBqOrjrdmkP4eLQLBeaq"
+      "duration_ms": 173250,
+      "name": "El Comando del Diablo - En Vivo",
+      "url": "https://open.spotify.com/track/4ttaps59yHeuSYKhMitFjJ"
     },
     {
       "added_at": "2022-09-19 07:19:44",
@@ -1771,6 +1771,22 @@
     {
       "added_at": "2022-09-19 07:19:44",
       "album": {
+        "name": "Lujos De La Vida",
+        "url": "https://open.spotify.com/album/34jGvDlmBDPgWwsokNQt2f"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        }
+      ],
+      "duration_ms": 185045,
+      "name": "18 Libras",
+      "url": "https://open.spotify.com/track/36m0b1aad6A4CXq41VYxDe"
+    },
+    {
+      "added_at": "2022-09-19 07:19:44",
+      "album": {
         "name": "Mi Nueva Familia",
         "url": "https://open.spotify.com/album/4o6joLq7yA3Xe0PWkf9LLL"
       },
@@ -1787,22 +1803,6 @@
       "duration_ms": 191200,
       "name": "Cosas Cambiaron",
       "url": "https://open.spotify.com/track/6weHET4DndhR9N1LFsRCOb"
-    },
-    {
-      "added_at": "2022-09-19 07:19:44",
-      "album": {
-        "name": "Lujos De La Vida",
-        "url": "https://open.spotify.com/album/34jGvDlmBDPgWwsokNQt2f"
-      },
-      "artists": [
-        {
-          "name": "Los Hijos De Garcia",
-          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
-        }
-      ],
-      "duration_ms": 185045,
-      "name": "18 Libras",
-      "url": "https://open.spotify.com/track/36m0b1aad6A4CXq41VYxDe"
     },
     {
       "added_at": "2022-09-19 07:19:44",
@@ -1911,22 +1911,6 @@
     {
       "added_at": "2022-09-19 07:19:44",
       "album": {
-        "name": "Mi Nueva Familia",
-        "url": "https://open.spotify.com/album/1PkLp7f8coVDklhVhEQSvS"
-      },
-      "artists": [
-        {
-          "name": "Calle 24",
-          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
-        }
-      ],
-      "duration_ms": 175038,
-      "name": "Mi Nueva Familia",
-      "url": "https://open.spotify.com/track/4JNEp47KO7F69MjLt61J21"
-    },
-    {
-      "added_at": "2022-09-19 07:19:44",
-      "album": {
         "name": "Por el Free Way",
         "url": "https://open.spotify.com/album/7betwITWXNOT3HGMV0dCWm"
       },
@@ -1959,6 +1943,22 @@
       "duration_ms": 165480,
       "name": "Gente del General",
       "url": "https://open.spotify.com/track/0di4Hh3AqJqbY9lFDgcB5Q"
+    },
+    {
+      "added_at": "2022-09-19 07:19:44",
+      "album": {
+        "name": "Mi Nueva Familia",
+        "url": "https://open.spotify.com/album/1PkLp7f8coVDklhVhEQSvS"
+      },
+      "artists": [
+        {
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+        }
+      ],
+      "duration_ms": 175038,
+      "name": "Mi Nueva Familia",
+      "url": "https://open.spotify.com/track/4JNEp47KO7F69MjLt61J21"
     },
     {
       "added_at": "2022-09-19 07:19:44",

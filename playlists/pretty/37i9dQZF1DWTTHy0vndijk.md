@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTHy0vndijk.md) - [plain]
 
 > Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. Cover: Rocket Punch \(로켓펀치\) \(상큼하고 발랄, 청순한 여아이돌의 세계에 빠져보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 471,904 likes - 57 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 472,004 likes - 57 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTHy0vndijk.md) - [plain]
 | 23 | [Queendom](https://open.spotify.com/track/6SpPr7K4YQ2wp8jU6uOTmQ) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Queendom \- The 6th Mini Album](https://open.spotify.com/album/6Pe5LGQgU3mmvuRjFMsACV) | 3:01 |
 | 24 | [ASAP](https://open.spotify.com/track/5BXr7hYZQOeRttkeWYTq5S) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [STAYDOM](https://open.spotify.com/album/71hjsg660uio3Z8bnbB6fS) | 3:14 |
 | 25 | [Hello](https://open.spotify.com/track/3cGp1jXxLReLKz7QgVbWZR) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [Hello \- Special Album](https://open.spotify.com/album/37mRfTDwQzVbHihypYY8oE) | 3:38 |
-| 26 | [Killing Me](https://open.spotify.com/track/3QD0Y1tTngihByjdWC99lG) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Killing Me](https://open.spotify.com/album/21jf5kUkK5nHYTuZ5GRZVW) | 2:44 |
-| 27 | [DUMB DUMB](https://open.spotify.com/track/5VXSt0cvi5wtJTox0wKI4x) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [XOXO](https://open.spotify.com/album/63pvOn2B5pUUcUKUwIEg9m) | 2:27 |
+| 26 | [DUMB DUMB](https://open.spotify.com/track/5VXSt0cvi5wtJTox0wKI4x) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [XOXO](https://open.spotify.com/album/63pvOn2B5pUUcUKUwIEg9m) | 2:27 |
+| 27 | [Killing Me](https://open.spotify.com/track/3QD0Y1tTngihByjdWC99lG) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Killing Me](https://open.spotify.com/album/21jf5kUkK5nHYTuZ5GRZVW) | 2:44 |
 | 28 | [FIESTA](https://open.spotify.com/track/6Ihdn6wW2UBhfTKWbP29KA) | [IZ\*ONE](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) | [BLOOM\*IZ](https://open.spotify.com/album/5dm3PMCHxTSOdDFZ1hlfMm) | 3:37 |
 | 29 | [Alcohol\-Free](https://open.spotify.com/track/0BTaaKT4RMbs5M73tOHX5Y) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Taste of Love](https://open.spotify.com/album/00vb6sViDbJLmLLchfbRh4) | 3:30 |
 | 30 | [BOP BOP!](https://open.spotify.com/track/3FNuG1PjKcOu7tAqZKB4kZ) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) | [The 1st Mini Album 'Beam Of Prism'](https://open.spotify.com/album/1SO45pKRdNI74Rdx7Hynh2) | 3:39 |
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTHy0vndijk.md) - [plain]
 | 56 | [Trouble? TRAVEL!](https://open.spotify.com/track/6A3J47xL9B4EFAjQ79YX52) | [ADORA](https://open.spotify.com/artist/3M1kgHOpPruu1uBymBHF3r) | [Trouble? TRAVEL!](https://open.spotify.com/album/07FQYMZJFk9t3jpZ8fDQAA) | 3:53 |
 | 57 | [Catallena](https://open.spotify.com/track/5fWKr5p15BTazjflJ6HX5j) | [Orange Caramel](https://open.spotify.com/artist/2QHTtUsN6Q13w3QHdfRqsK) | [THE THIRD SINGLE CATALLENA](https://open.spotify.com/album/3FeATTUjZWvmXW2kP9CHWY) | 3:13 |
 
-Snapshot ID: `MTY2MTc2NTAwMCwwMDAwMDAwMGMxN2I0NjQ4ZTNkMDJiMzRmMzRiZTdkMzdhZTc2MGJk`
+Snapshot ID: `MTY2MTc2NTAwMCwwMDAwMDAwMGI1Mzc2MDkyODEwNTFmOTliYjI0M2I1ZjVhODYxMDY5`

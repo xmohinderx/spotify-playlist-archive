@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXZua9Shbhpk.md) - [plain]
 
 > The best mix of hip hop, pop, country, dance and classic anthems for the game day warm\-up.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,846 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,849 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXZua9Shbhpk.md) - [plain]
 | 30 | [Fair Trade \(with Travis Scott\)](https://open.spotify.com/track/40iJIUlhi6renaREYGeIDS) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 4:51 |
 | 31 | [The Box](https://open.spotify.com/track/0nbXyq5TXYPCO7pr3N8S4I) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Please Excuse Me for Being Antisocial](https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba) | 3:16 |
 | 32 | [Low \(feat\. T\-Pain\)](https://open.spotify.com/track/0CAfXk7DXMnon4gLudAp7J) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Mail on Sunday](https://open.spotify.com/album/5j1wrOAOm5KFd17pPiSvle) | 3:51 |
-| 33 | [Mr\. Blue Sky](https://open.spotify.com/track/2RlgNHKcydI9sayD2Df2xp) | [Electric Light Orchestra](https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk) | [Out of the Blue](https://open.spotify.com/album/3usnShwygMXVZB4IV5dwnU) | 5:03 |
-| 34 | [Ride It](https://open.spotify.com/track/2tnVG71enUj33Ic2nFN6kZ) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev) | [Ride It](https://open.spotify.com/album/4zOhjJfe0dwqsNdDYk622E) | 2:37 |
-| 35 | [hot girl bummer](https://open.spotify.com/track/6jRq8gaZhMUyy5RclRPcAf) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [everything means nothing](https://open.spotify.com/album/4UxlLk460BnmQlRV3WiORh) | 3:08 |
+| 33 | [hot girl bummer](https://open.spotify.com/track/6jRq8gaZhMUyy5RclRPcAf) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [everything means nothing](https://open.spotify.com/album/4UxlLk460BnmQlRV3WiORh) | 3:08 |
+| 34 | [Mr\. Blue Sky](https://open.spotify.com/track/2RlgNHKcydI9sayD2Df2xp) | [Electric Light Orchestra](https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk) | [Out of the Blue](https://open.spotify.com/album/3usnShwygMXVZB4IV5dwnU) | 5:03 |
+| 35 | [Ride It](https://open.spotify.com/track/2tnVG71enUj33Ic2nFN6kZ) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev) | [Ride It](https://open.spotify.com/album/4zOhjJfe0dwqsNdDYk622E) | 2:37 |
 | 36 | [Sunflower \- Spider\-Man: Into the Spider\-Verse](https://open.spotify.com/track/0RiRZpuVRbi7oqRdSMwhQY) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Hollywood's Bleeding](https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi) | 2:37 |
 | 37 | [After Party](https://open.spotify.com/track/527k23H0A4Q0UJN3vGs0Da) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Heaven Or Hell](https://open.spotify.com/album/7z4GhRfLqfSkqrj5F3Yt2B) | 2:47 |
 | 38 | [No Guidance \(feat\. Drake\)](https://open.spotify.com/track/6XHVuErjQ4XNm6nDPVCxVX) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Indigo](https://open.spotify.com/album/1BfLzaTFI5qKsAAk0Ae6aV) | 4:20 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXZua9Shbhpk.md) - [plain]
 | 47 | [family ties \(with Kendrick Lamar\)](https://open.spotify.com/track/7Bpx2vsWfQFBACRz4h3IqH) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [family ties \(with Kendrick Lamar\)](https://open.spotify.com/album/3HqmX8hGcbbQZODgayNEYx) | 4:12 |
 | 48 | [Nonstop](https://open.spotify.com/track/0TlLq3lA83rQOYtrqBqSct) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Scorpion](https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX) | 3:58 |
 | 49 | [Mo Bamba](https://open.spotify.com/track/1xzBco0xcoJEDXktl7Jxrr) | [Sheck Wes](https://open.spotify.com/artist/2RDOrhPqAM4jzTRCEb19qX) | [MUDBOY](https://open.spotify.com/album/15Id9Jrqab8IwHFirdrrLp) | 3:03 |
-| 50 | [The Final Countdown](https://open.spotify.com/track/3MrRksHupTVEQ7YbA0FsZK) | [Europe](https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz) | [The Final Countdown \(Expanded Edition\)](https://open.spotify.com/album/5Jkd47JEaCU1g4DcGBnHm3) | 5:10 |
+| 50 | [ROXANNE](https://open.spotify.com/track/696DnlkuDOXcMAnKlTgXXK) | [Arizona Zervas](https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs) | [ROXANNE](https://open.spotify.com/album/6HJDrXs0hpebaRFKA1sF90) | 2:43 |
 
-Snapshot ID: `MTY2MjE0NjUyMSwwMDAwMDAwMGVhYzc5MzAwOTIxOGY0MGY5NWY0ZmE0ZDc5NzFkMDM5`
+Snapshot ID: `MTY2MjE0NjUyMSwwMDAwMDAwMGFlY2JiYjRmYmYyNGNjZTM3M2QzYzlhNmE0YjEzNmE2`

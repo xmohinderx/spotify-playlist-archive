@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUhWIpUC7Aq1.md) - [plain]
 
 > Not your manic pixie dream girl, just twee af\. Cover: Zooey Deschanel
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,291 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,566 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,16 +64,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUhWIpUC7Aq1.md) - [plain]
 | 54 | [Say Yes](https://open.spotify.com/track/3XtkcPHbYX0BImTQLlbSVN) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Either/Or](https://open.spotify.com/album/6KMdn9HDIqcBPaaok0K34K) | 2:19 |
 | 55 | [Title and Registration](https://open.spotify.com/track/0hgEsoAu23ap8V5GFX9Y3i) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Transatlanticism \(10th Anniversary Edition\)](https://open.spotify.com/album/4jQW2mhMH3TxtAOol3Djuf) | 3:39 |
 | 56 | [The District Sleeps Alone Tonight \- Remastered](https://open.spotify.com/track/3l14MJpQB4tFFgKLqUqtV3) | [The Postal Service](https://open.spotify.com/artist/5yV1qdnmxyIYiSFB02wpDj) | [Give Up \(Deluxe 10th Anniversary Edition\)](https://open.spotify.com/album/5MoaDbFw4nrm2P7Om1on3b) | 4:43 |
-| 57 | [All I Want Is You](https://open.spotify.com/track/2t0Ci12vaJaYzEmsJL2S1X) | [Barry Louis Polisar](https://open.spotify.com/artist/6MUxF4ehonXZ8Q6YMFI2xb) | [Naturally Sweetened](https://open.spotify.com/album/1hKnmfw153bNCqN37f7Qx3) | 2:37 |
-| 58 | [Cut Your Bangs](https://open.spotify.com/track/1JdGVa0eAPovycGrGV03SS) | [Radiator Hospital](https://open.spotify.com/artist/0HMLp79IAd9Z8zMgxqpyxn) | [Torch Song](https://open.spotify.com/album/6droeVoJ4xuxhzLT1FBGgu) | 2:06 |
+| 57 | [Cut Your Bangs](https://open.spotify.com/track/1JdGVa0eAPovycGrGV03SS) | [Radiator Hospital](https://open.spotify.com/artist/0HMLp79IAd9Z8zMgxqpyxn) | [Torch Song](https://open.spotify.com/album/6droeVoJ4xuxhzLT1FBGgu) | 2:06 |
+| 58 | [All I Want Is You](https://open.spotify.com/track/2t0Ci12vaJaYzEmsJL2S1X) | [Barry Louis Polisar](https://open.spotify.com/artist/6MUxF4ehonXZ8Q6YMFI2xb) | [Naturally Sweetened](https://open.spotify.com/album/1hKnmfw153bNCqN37f7Qx3) | 2:37 |
 | 59 | [Go Outside](https://open.spotify.com/track/0V8jGgK39sLsj2yAHHPigU) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Cults](https://open.spotify.com/album/0OvMqTVXYlNpWbGuxQrt6M) | 3:23 |
 | 60 | [Us](https://open.spotify.com/track/6zJms3MX11Qu1IKF44LoRW) | [Regina Spektor](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) | [Soviet Kitsch](https://open.spotify.com/album/0HeAK5QnrTRrksc2WuTYgy) | 4:52 |
 | 61 | [Anthems For A Seventeen Year\-Old Girl](https://open.spotify.com/track/0VXp4zDspR993l2hIKW17g) | [Broken Social Scene](https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd) | [You Forgot It In People](https://open.spotify.com/album/6nL0U84JsEJ0cRsGCnsDnJ) | 4:35 |
 | 62 | [Somebody That I Used To Know](https://open.spotify.com/track/4xfAVJL8R7mVYbDk8a9xOY) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Figure 8](https://open.spotify.com/album/7DC0pE943VR5tAKIvQXHts) | 2:09 |
 | 63 | [Mushaboom](https://open.spotify.com/track/66olzBxCgKlpFRB1LKH5pO) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Let It Die](https://open.spotify.com/album/1dukVxiix2ckr6CMs1T1zI) | 3:44 |
 | 64 | [Please, Please, Please, Let Me Get What I Want \- 2011 Remaster](https://open.spotify.com/track/1oA0tDRFjY5xoNDXuMBGGA) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [Louder Than Bombs](https://open.spotify.com/album/45StnugV9WQMQwk4rRoTy8) | 1:52 |
-| 65 | [That Green Gentleman \(Things Have Changed\)](https://open.spotify.com/track/2d1D1E8M48hHE99u6BO8RN) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Pretty\. Odd.](https://open.spotify.com/album/7Hk9WbjPbN1n2GXaK7aldw) | 3:15 |
-| 66 | [Every Single Night](https://open.spotify.com/track/6HPZo9krwjbhMGKbqVkkDQ) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [The Idler Wheel Is Wiser Than the Driver of the Screw and Whipping Cords Will Serve You More Than Ropes Will Ever Do \(Expanded Edition\)](https://open.spotify.com/album/6B5favhKTShFTjRLsKIUfa) | 3:29 |
+| 65 | [Every Single Night](https://open.spotify.com/track/6HPZo9krwjbhMGKbqVkkDQ) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [The Idler Wheel Is Wiser Than the Driver of the Screw and Whipping Cords Will Serve You More Than Ropes Will Ever Do \(Expanded Edition\)](https://open.spotify.com/album/6B5favhKTShFTjRLsKIUfa) | 3:29 |
+| 66 | [That Green Gentleman \(Things Have Changed\)](https://open.spotify.com/track/2d1D1E8M48hHE99u6BO8RN) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Pretty\. Odd.](https://open.spotify.com/album/7Hk9WbjPbN1n2GXaK7aldw) | 3:15 |
 | 67 | [Tiger Mountain Peasant Song](https://open.spotify.com/track/74TdnqQ0JlIcHBwdSAATiw) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Fleet Foxes](https://open.spotify.com/album/5GRnydamKvIeG46dycID6v) | 3:28 |
 | 68 | [Fidelity](https://open.spotify.com/track/6GskIhdM6TN6EkPgeSjVfW) | [Regina Spektor](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) | [Begin to Hope \(Special Edition\)](https://open.spotify.com/album/0ssMZRCnobXKQXjQ2R5A5a) | 3:46 |
 | 69 | [Portions for Foxes](https://open.spotify.com/track/4yY8JqTOQyi7K4O1QcQtBG) | [Rilo Kiley](https://open.spotify.com/artist/2cevwbv7ISD92VMNLYLHZA) | [More Adventurous \(U.S\. Release\)](https://open.spotify.com/album/4n36X2GMJ84BKh9D9zMRVI) | 4:44 |
@@ -85,9 +85,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUhWIpUC7Aq1.md) - [plain]
 | 75 | [What's Important](https://open.spotify.com/track/4lCzawVrcHNxiH9qyBWAd3) | [Beat Happening](https://open.spotify.com/artist/1qHR9DMfOJQjvWLEfMZQlG) | [Beat Happening](https://open.spotify.com/album/4kjtvHzMCqvSmxOo436NwM) | 2:02 |
 | 76 | [LDN](https://open.spotify.com/track/48T3AtfhOgz3euMEO2Z4hS) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Alright, Still \(Bonus Track Version\)](https://open.spotify.com/album/3nxPzWEJBjzonYWtTNb0uY) | 3:12 |
 | 77 | [With Arms Outstretched](https://open.spotify.com/track/0EKUJ4OqrNWaHpNPODNTaf) | [Rilo Kiley](https://open.spotify.com/artist/2cevwbv7ISD92VMNLYLHZA) | [The Execution Of All Things](https://open.spotify.com/album/1aFyAtSRxLNzSTGwHMRvWj) | 3:43 |
-| 78 | [Heart It Races](https://open.spotify.com/track/6SHYWXOqmf0fBWO1k0Zz2k) | [Architecture In Helsinki](https://open.spotify.com/artist/60eT7q88iLWKnuSXed1AGr) | [Places Like This](https://open.spotify.com/album/1b4lom8FxPZKDw21uWK5aM) | 3:14 |
-| 79 | [Clementine](https://open.spotify.com/track/0nUPuUnqVLOZFayUzxi1JG) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Elliott Smith](https://open.spotify.com/album/60C4r1YwIxsliktUL6eXfw) | 2:46 |
-| 80 | [You, Me and the Bourgeoisie](https://open.spotify.com/track/46tMEl4m47ef5XYcWuWLbw) | [The Submarines](https://open.spotify.com/artist/6D9Y5lqXKgJv8CV6Ur59oS) | [Honeysuckle Weeks](https://open.spotify.com/album/7geqXLdppeJRIbHVugtXpC) | 3:24 |
+| 78 | [Clementine](https://open.spotify.com/track/0nUPuUnqVLOZFayUzxi1JG) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Elliott Smith](https://open.spotify.com/album/60C4r1YwIxsliktUL6eXfw) | 2:46 |
+| 79 | [You, Me and the Bourgeoisie](https://open.spotify.com/track/46tMEl4m47ef5XYcWuWLbw) | [The Submarines](https://open.spotify.com/artist/6D9Y5lqXKgJv8CV6Ur59oS) | [Honeysuckle Weeks](https://open.spotify.com/album/7geqXLdppeJRIbHVugtXpC) | 3:24 |
+| 80 | [Heart It Races](https://open.spotify.com/track/6SHYWXOqmf0fBWO1k0Zz2k) | [Architecture In Helsinki](https://open.spotify.com/artist/60eT7q88iLWKnuSXed1AGr) | [Places Like This](https://open.spotify.com/album/1b4lom8FxPZKDw21uWK5aM) | 3:14 |
 | 81 | [Foundations](https://open.spotify.com/track/1wi4ti9BYUbwoGJ1EBUVtv) | [Kate Nash](https://open.spotify.com/artist/5vBKu1igxFo6g1sHADkIdg) | [Made of Bricks](https://open.spotify.com/album/4KNq0XtAJOTRKIA6W5zRsY) | 4:05 |
 | 82 | [Elephant Gun](https://open.spotify.com/track/52Nm0n6chJlGJJqhiZ6oMz) | [Beirut](https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX) | [Elephant Gun](https://open.spotify.com/album/6nGeQUOXlKSENB3A9ijD20) | 5:48 |
 | 83 | [Cinnamon](https://open.spotify.com/track/4l9fOpDy6cqwaXSsl5l48v) | [The Long Winters](https://open.spotify.com/artist/6zdwVjGPgGGZ7W5oBcisP2) | [When I Pretend To Fall](https://open.spotify.com/album/1ZfxdY1K1fDyRQywHtgLVQ) | 4:12 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUhWIpUC7Aq1.md) - [plain]
 | 99 | [Glow Worms](https://open.spotify.com/track/4jovm2cvQh5HqTlH7xksdL) | [Vashti Bunyan](https://open.spotify.com/artist/4chuPfKtATDZvbRLExsTp2) | [Just Another Diamond Day](https://open.spotify.com/album/6BjFznpsyrxCFMpp3hzlD2) | 2:16 |
 | 100 | [Bobby Malone Moves Home](https://open.spotify.com/track/3hAh0e2keWsI8iY9BqFXqe) | [Casiotone For The Painfully Alone](https://open.spotify.com/artist/4FdSsjcX7vzOnN5zNqQWAy) | [Etiquette](https://open.spotify.com/album/1fMaPBDIcOsEpW4tz6gUhi) | 3:14 |
 
-Snapshot ID: `MTY2MzAwMDg5MSwwMDAwMDAwMDI0M2ZlNDVkZTZlZDM4ZTExNGZlYTE5ZGFlYmEwNWYy`
+Snapshot ID: `MTY2MzAwMDg5MSwwMDAwMDAwMDdjOWMxOTM1MDU0M2YzNjkyY2NlZDc2ZWFmZWIxNzQ4`

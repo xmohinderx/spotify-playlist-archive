@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82Zzp6AKx64.md) - [plain]
 
 > Emotional and powerful \- let your feelings out with these classic power ballads\. Cover: Meat Loaf
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,061,934 likes - 100 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,062,098 likes - 100 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82Zzp6AKx64.md) - [plain]
 | 37 | [Still Loving You](https://open.spotify.com/track/7kjsCbksOZotNNHOvKsJJh) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Love At First Sting](https://open.spotify.com/album/71cfSO0iO1fjgQLEb3Wc6C) | 6:27 |
 | 38 | [Never Say Goodbye](https://open.spotify.com/track/4AfsbRvvuN7nEHAhONdeEp) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Slippery When Wet](https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t) | 4:48 |
 | 39 | [Love Bites \- Remastered 2017](https://open.spotify.com/track/3Dfy8YIxq89i84t108TvMi) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Hysteria \(Super Deluxe\)](https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE) | 5:46 |
-| 40 | [Silent Lucidity \- Remastered 2003](https://open.spotify.com/track/6OSyCAmXT4Gkd3OQ2aPOaF) | [Queensrÿche](https://open.spotify.com/artist/2OgUPVlWYgGBGMefZgGvCO) | [Empire \- 20th Anniversary Edition](https://open.spotify.com/album/6jmesEKzKTLAa3oI96jWow) | 5:47 |
-| 41 | [Amanda](https://open.spotify.com/track/4gpext9x0CbdD9NWaa4nDj) | [Boston](https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK) | [Third Stage](https://open.spotify.com/album/3ZjhhUHc4jFc6ZOTchjXsv) | 4:16 |
+| 40 | [Amanda](https://open.spotify.com/track/4gpext9x0CbdD9NWaa4nDj) | [Boston](https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK) | [Third Stage](https://open.spotify.com/album/3ZjhhUHc4jFc6ZOTchjXsv) | 4:16 |
+| 41 | [Silent Lucidity \- Remastered 2003](https://open.spotify.com/track/6OSyCAmXT4Gkd3OQ2aPOaF) | [Queensrÿche](https://open.spotify.com/artist/2OgUPVlWYgGBGMefZgGvCO) | [Empire \- 20th Anniversary Edition](https://open.spotify.com/album/6jmesEKzKTLAa3oI96jWow) | 5:47 |
 | 42 | [Angel](https://open.spotify.com/track/3kfXUGIdBNpyr2gBvU3Guj) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Permanent Vacation](https://open.spotify.com/album/3XYqOJI1YlX40kJTdzFEzp) | 5:08 |
 | 43 | [Nobody's Fool](https://open.spotify.com/track/01Q4wU19hamqnhNjtuvTyI) | [Cinderella](https://open.spotify.com/artist/7HL4id2U7FSDJtfKQHMgQx) | [Night Songs](https://open.spotify.com/album/6Af1uU7Di8q9oHyXpgvrmY) | 4:47 |
 | 44 | [What About Love?](https://open.spotify.com/track/5nN1jGnCadYk1jYm6oV5zN) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Heart](https://open.spotify.com/album/0zM8rTVzPoT7SD4ZMds430) | 3:41 |
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82Zzp6AKx64.md) - [plain]
 | 90 | [Can't Stop Lovin' You](https://open.spotify.com/track/6z3JD6IqVvu6TUBtCfQPbe) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [Balance](https://open.spotify.com/album/7nbwELkBki6HJrDZoEfXa3) | 4:07 |
 | 91 | [Oh! Darling \- 2019 Mix](https://open.spotify.com/track/3UHv8SSIkNUDRBUHJx3Cg6) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Abbey Road \(Super Deluxe Edition\)](https://open.spotify.com/album/5iT3F2EhjVQVrO4PKhsP8c) | 3:27 |
 | 92 | [Life Goes On \- Remastered](https://open.spotify.com/track/2OWKsyrgUINadOG21dR0Fh) | [Poison](https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo) | [Flesh & Blood](https://open.spotify.com/album/7alngtync76VqYWSKxcBhB) | 4:47 |
-| 93 | [Heaven in Your Eyes](https://open.spotify.com/track/1sMhhVoD3ExOFTeh70EqNe) | [Loverboy](https://open.spotify.com/artist/2CLVPk9FcywjClBcTvWPkT) | [Big Ones](https://open.spotify.com/album/5IYNDR7BraRrltWJLefkuV) | 4:03 |
-| 94 | [Empty Rooms](https://open.spotify.com/track/21hvIW7umCAu3dWab4MYR1) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j) | [Run For Cover](https://open.spotify.com/album/5L7OArC51NP8i6EswjugZI) | 4:17 |
+| 93 | [Empty Rooms](https://open.spotify.com/track/21hvIW7umCAu3dWab4MYR1) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j) | [Run For Cover](https://open.spotify.com/album/5L7OArC51NP8i6EswjugZI) | 4:17 |
+| 94 | [Heaven in Your Eyes](https://open.spotify.com/track/1sMhhVoD3ExOFTeh70EqNe) | [Loverboy](https://open.spotify.com/artist/2CLVPk9FcywjClBcTvWPkT) | [Big Ones](https://open.spotify.com/album/5IYNDR7BraRrltWJLefkuV) | 4:03 |
 | 95 | [Goodbye](https://open.spotify.com/track/50vyUOJM5ncJ6Y5YWZzXvX) | [Night Ranger](https://open.spotify.com/artist/1Ha0Fz4i0d4gu5fZbhBCtH) | [7 Wishes](https://open.spotify.com/album/6zVZkndp9OBVwLrZoOzyLB) | 4:19 |
-| 96 | [Show Me The Way](https://open.spotify.com/track/2upjcGvuiTCGSaGPZZ2dtD) | [Styx](https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh) | [Edge Of The Century](https://open.spotify.com/album/6dLlnu5TPxD74g7w8SfnqF) | 4:37 |
-| 97 | [Goodbye to Romance](https://open.spotify.com/track/44iFQNDCVfv2WHPdn7Wy1R) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Blizzard Of Ozz \(40th Anniversary Expanded Edition\)](https://open.spotify.com/album/4qUMByJ3Pk94BFnCmGaUPS) | 5:35 |
+| 96 | [Goodbye to Romance](https://open.spotify.com/track/44iFQNDCVfv2WHPdn7Wy1R) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Blizzard Of Ozz \(40th Anniversary Expanded Edition\)](https://open.spotify.com/album/4qUMByJ3Pk94BFnCmGaUPS) | 5:35 |
+| 97 | [Show Me The Way](https://open.spotify.com/track/2upjcGvuiTCGSaGPZZ2dtD) | [Styx](https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh) | [Edge Of The Century](https://open.spotify.com/album/6dLlnu5TPxD74g7w8SfnqF) | 4:37 |
 | 98 | [Edge Of A Broken Heart](https://open.spotify.com/track/2mEk0VdrbDJ11DBC6Y92mh) | [Vixen](https://open.spotify.com/artist/4wlPkvHKZzP2K8wtBzFRyY) | [Vixen](https://open.spotify.com/album/51aj98h378eXQJZXtIZKjK) | 4:25 |
 | 99 | [Forever & One](https://open.spotify.com/track/3pb35jSVs2dWAXd6Tfx8o6) | [Helloween](https://open.spotify.com/artist/4pQN0GB0fNEEOfQCaWotsY) | [Treasure Chest \(Bonus Track Edition\)](https://open.spotify.com/album/1AikzyggH724jKtyzwJ2ii) | 3:53 |
-| 100 | [Stone Cold](https://open.spotify.com/track/7HXYoe65kmrPrJR1r0DGtW) | [Rainbow](https://open.spotify.com/artist/6SLAMfhOi7UJI0fMztaK0m) | [Straight Between The Eyes](https://open.spotify.com/album/2TjkjpMXM0fsgmmVjmxNmI) | 5:17 |
+| 100 | [Givin' Yourself Away](https://open.spotify.com/track/066s12j61ZlXnMDtnUiDbP) | [Ratt](https://open.spotify.com/artist/3tufWJzpCiAGleBt5TkmTn) | [Detonator](https://open.spotify.com/album/1I8TqSMkoRvF4xZSvuFDiq) | 5:26 |
 
-Snapshot ID: `MTY2MzAxMDE4MywwMDAwMDAwMDE0YWY2ZjJiOWFhYTNhZDlhZWUwYmQ3MDlmY2EzOTli`
+Snapshot ID: `MTY2MzAxMDE4MywwMDAwMDAwMDQ0NWM4MjNhZjNkNmNhN2M4NzE4OGUxOGQwNDMwZWI1`

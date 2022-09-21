@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbdrcAZnP3Cy.md) - [plain]
 
 > Your favorite Mexican anthems to get the party started! Cover: Vicente Fernández
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,700 likes - 90 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,823 likes - 90 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,24 +79,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbdrcAZnP3Cy.md) - [plain]
 | 69 | [No rompas mi corazón \- Achy Breaky Heart](https://open.spotify.com/track/01sw4YF783cqydsJQbJCwT) | [Caballo Dorado](https://open.spotify.com/artist/38yOUctO9eek9ti5NWMQXm) | [Trayectoria](https://open.spotify.com/album/4yr1klPd996H8VREqxZw7D) | 3:40 |
 | 70 | [El Paso del Gigante](https://open.spotify.com/track/3G0msIrMQ9vVzvFrnkS6vw) | [Grupo Sonador](https://open.spotify.com/artist/2EliUhznUrwHp1yJvhlHQF) | [Grandes Exitos de La Cumbia Vol\. 2](https://open.spotify.com/album/4eIT6DsACeCBoV6Bg5o3H8) | 3:39 |
 | 71 | [El Sinaloense](https://open.spotify.com/track/57qATI59zt97GfYpac1FoS) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Raíces](https://open.spotify.com/album/3P0x6Hb7bQmv3mAHZ3M4Pl) | 1:53 |
-| 72 | [Tamarindo](https://open.spotify.com/track/57gZ0m6MfrQhJu1DwNyIE9) | [La Numero 1 Banda Jerez De Marco A\. Flores](https://open.spotify.com/artist/5KMVb0Y20BTIrobzI2YZUi) | [Me Gustan Las Viejas Buenas](https://open.spotify.com/album/70xlTaBOwwuHqnJ2aqiiLD) | 2:39 |
-| 73 | [Tragos Amargos](https://open.spotify.com/track/7ENNmSQQajwKTPX0m7ejYA) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Cruzando Fronteras](https://open.spotify.com/album/4gNEQSuUGtz13sLf11vchI) | 2:44 |
+| 72 | [Tragos Amargos](https://open.spotify.com/track/7ENNmSQQajwKTPX0m7ejYA) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Cruzando Fronteras](https://open.spotify.com/album/4gNEQSuUGtz13sLf11vchI) | 2:44 |
+| 73 | [Tamarindo](https://open.spotify.com/track/57gZ0m6MfrQhJu1DwNyIE9) | [La Numero 1 Banda Jerez De Marco A\. Flores](https://open.spotify.com/artist/5KMVb0Y20BTIrobzI2YZUi) | [Me Gustan Las Viejas Buenas](https://open.spotify.com/album/70xlTaBOwwuHqnJ2aqiiLD) | 2:39 |
 | 74 | [Arrempujala Arremangala](https://open.spotify.com/track/00xWJo63OSXjWyihycznbe) | [Los Karkik's](https://open.spotify.com/artist/2kRcNmtZoQUI7F0hoYCnCg) | [Arrempujala Arremangala](https://open.spotify.com/album/7o3jw1zUej7NicDM4pNbzM) | 3:17 |
 | 75 | [Dime Cómo Quieres](https://open.spotify.com/track/5fnbYKGq0zhFCCesNhiUE6) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Dime Cómo Quieres](https://open.spotify.com/album/627Wbeny1n8Wuu2zISsiiS) | 2:49 |
 | 76 | [El Camaleón](https://open.spotify.com/track/3a6TQVSXm6zCQzNhTVO2Mo) | [Los Tigrillos](https://open.spotify.com/artist/5kuxm06ltfO1Rj9j5UQewf) | [Camaleón](https://open.spotify.com/album/6w20flSfh4CyLpQALjOape) | 3:06 |
 | 77 | [Cómo Me Duele](https://open.spotify.com/track/50GRxHQ3cW2yBmlPIF9urf) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Vencedor](https://open.spotify.com/album/4cPRux21b3M1X668qR5lZ3) | 3:39 |
 | 78 | [La Inconforme \- Sonidera](https://open.spotify.com/track/6sti0UCUQQzfmSfzCHHUXW) | [Grupo G](https://open.spotify.com/artist/4zKNSiS1LD7OT0z3hTqRE8) | [Estamos Locos](https://open.spotify.com/album/58vEBu5rvv8ct4Pk158A8L) | 3:11 |
 | 79 | [Se Menea](https://open.spotify.com/track/6uhEqYTqhEkSH6Rlf3ILpj) | [Los Karkik's](https://open.spotify.com/artist/2kRcNmtZoQUI7F0hoYCnCg) | [Se Menea Se Menea](https://open.spotify.com/album/2E8WzqhyEL9SqioQ5Fgg8D) | 2:31 |
-| 80 | [Azúcar](https://open.spotify.com/track/71hlW24Et0ZIHjp6pI7SXU) | [A.B\. Quintanilla III Y Los Kumbia Kings](https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL), [Fito Olivares](https://open.spotify.com/artist/4VRHPqW54KVxJAhUWNKjNF) | [A.B\. Quintanilla III Presents Kumbia Kings Greatest Hits "Album Versions"](https://open.spotify.com/album/1RGWEZOK9E2fH75E6D3cqZ) | 3:30 |
-| 81 | [Un Puño De Tierra](https://open.spotify.com/track/466JLm2qQmjOzfbee0PIg6) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [40 Éxitos](https://open.spotify.com/album/7L9TeAqSwkvSkFzyogoVxd) | 3:46 |
+| 80 | [Un Puño De Tierra](https://open.spotify.com/track/466JLm2qQmjOzfbee0PIg6) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [40 Éxitos](https://open.spotify.com/album/7L9TeAqSwkvSkFzyogoVxd) | 3:46 |
+| 81 | [Azúcar](https://open.spotify.com/track/71hlW24Et0ZIHjp6pI7SXU) | [A.B\. Quintanilla III Y Los Kumbia Kings](https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL), [Fito Olivares](https://open.spotify.com/artist/4VRHPqW54KVxJAhUWNKjNF) | [A.B\. Quintanilla III Presents Kumbia Kings Greatest Hits "Album Versions"](https://open.spotify.com/album/1RGWEZOK9E2fH75E6D3cqZ) | 3:30 |
 | 82 | [Pena Tras Pena](https://open.spotify.com/track/17Atin09BMavpAvwc8qWph) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Tengo Una Illusión](https://open.spotify.com/album/3hbjT0ctHBW6BxZLcysm7m) | 2:50 |
 | 83 | [La Dieta](https://open.spotify.com/track/4WIKeVqB17mcYrWE5NWWoN) | [Banda Fresa Roja](https://open.spotify.com/artist/5k6geKS4IAc3ay7YuDM7Y0) | [Gold Collection, Vol.1](https://open.spotify.com/album/7bMQ7sSTPUqNPMZhX0kG9O) | 2:44 |
-| 84 | [Pistear, Pistear, Pistear](https://open.spotify.com/track/6lsukPXxhMdPfG6nVtLE2R) | [Chuy Lizarraga y Su Banda Tierra Sinaloense](https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr) | [Pistear, Pistear](https://open.spotify.com/album/3Vi5kjZrUvp4vJmUg6dMR0) | 2:45 |
-| 85 | [Un Fin en Culiacán](https://open.spotify.com/track/0HfQLHvzSzPFCLKBpjCT16) | [La Adictiva Banda San José de Mesillas](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Disfruté Engañarte](https://open.spotify.com/album/2GRDNB7h1xv11f6caN3rBr) | 2:34 |
+| 84 | [Un Fin en Culiacán](https://open.spotify.com/track/0HfQLHvzSzPFCLKBpjCT16) | [La Adictiva Banda San José de Mesillas](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Disfruté Engañarte](https://open.spotify.com/album/2GRDNB7h1xv11f6caN3rBr) | 2:34 |
+| 85 | [Pistear, Pistear, Pistear](https://open.spotify.com/track/6lsukPXxhMdPfG6nVtLE2R) | [Chuy Lizarraga y Su Banda Tierra Sinaloense](https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr) | [Pistear, Pistear](https://open.spotify.com/album/3Vi5kjZrUvp4vJmUg6dMR0) | 2:45 |
 | 86 | [La Jaiba](https://open.spotify.com/track/0BQ7uJTvZDZxH4k7cwrSQ1) | [Los Karkik's](https://open.spotify.com/artist/2kRcNmtZoQUI7F0hoYCnCg) | [Arrempujala Arremangala](https://open.spotify.com/album/7o3jw1zUej7NicDM4pNbzM) | 3:13 |
 | 87 | [El Wiri Wiri Aka El Guiri Guiri](https://open.spotify.com/track/1fYwFiuLGzGuXRiwvHqqjl) | [Los Canarios De Michoacan](https://open.spotify.com/artist/4j6JwUsiURpHgIWYzzdElp) | [Aceptalo Ya !](https://open.spotify.com/album/5NrYXAeq8EqovAyrb9JWNf) | 3:22 |
 | 88 | [Micaela](https://open.spotify.com/track/4b07ImFm5cxW7gx05lFWqG) | [Alacranes Musical](https://open.spotify.com/artist/2aZtzjAzD8fq3OhZ9egqda) | [Por Siempre Alacranes](https://open.spotify.com/album/4HxFwtq3TyZ4zZvl6fO6rX) | 3:55 |
 | 89 | [Na Na Na \(Dulce Niña\)](https://open.spotify.com/track/6M870HixVgIS4VTudBHcz8) | [A.B\. Quintanilla III Y Los Kumbia Kings](https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL) | [Fuego](https://open.spotify.com/album/1CJEE36qrJYAUXVJuVQ7ne) | 3:25 |
 | 90 | [Qué Bonita](https://open.spotify.com/track/6uJ0y1FoiRjVUpCPGdsydA) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Tengo Una Illusión](https://open.spotify.com/album/3hbjT0ctHBW6BxZLcysm7m) | 2:48 |
 
-Snapshot ID: `MTY2MDkyOTQzNSwwMDAwMDAwMDkwYmJjZjQ2MTkxN2I4YjhkZDdmZDg3NzkxOGZjNTdh`
+Snapshot ID: `MTY2MDkyOTQzNSwwMDAwMDAwMGVmMTk2ZjM0MmU5MGJhOThiNjliNDIzNjE3MjQ1MWYw`

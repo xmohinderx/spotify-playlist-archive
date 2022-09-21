@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZnTv0GKubq.md) - [plain]
 
 > Late night chilled vibes, for those intimate moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,863 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,875 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,10 +29,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZnTv0GKubq.md) - [plain]
 | 19 | [Not Another Love Song](https://open.spotify.com/track/5XqDJFVCyRTm5J7cIfRmR1) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Not Another Love Song](https://open.spotify.com/album/5QJAMz9LqY5DC2BAjLmO7p) | 3:37 |
 | 20 | [Fair](https://open.spotify.com/track/1SlGaBvTqX0gb24ouXonOo) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [Fair](https://open.spotify.com/album/4x3ZBZ3p7pi1UTLVldx7YF) | 3:04 |
 | 21 | [17](https://open.spotify.com/track/034KyQEk7IhbLtniVhBErj) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [17](https://open.spotify.com/album/6DQxe5EW0vZ1AfaoD8thFq) | 2:40 |
-| 22 | [Ride for Me](https://open.spotify.com/track/4SVvpjmHsFKmXBcdsG5B84) | [B Young](https://open.spotify.com/artist/7JMwO9tyFPMsb2KnsJqZlp) | [Ride for Me](https://open.spotify.com/album/3buKj4qYFKO2qKMdgdv3rg) | 3:14 |
+| 22 | [blue](https://open.spotify.com/track/7pt64sepCy5QmDrgy9wOJS) | [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [blue](https://open.spotify.com/album/3GsV8bdcTiMKRlrRlnnHvo) | 3:04 |
 | 23 | [Tryna Be](https://open.spotify.com/track/0h1ednFFd4xK5SCO8mXNOe) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Give Or Take](https://open.spotify.com/album/64LkgCfNbLqjclQYCTid8L) | 2:50 |
 | 24 | [This Side](https://open.spotify.com/track/6XPG4Gk25Ml6QWWQw6axxC) | [Miles from Kinshasa](https://open.spotify.com/artist/6ZWpMqNWzoiiQScsuzeBaE) | [This Side](https://open.spotify.com/album/5Vze5kztj3LK8OPzXUswf2) | 3:01 |
-| 25 | [blue](https://open.spotify.com/track/7pt64sepCy5QmDrgy9wOJS) | [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [blue](https://open.spotify.com/album/3GsV8bdcTiMKRlrRlnnHvo) | 3:04 |
+| 25 | [Ride for Me](https://open.spotify.com/track/4SVvpjmHsFKmXBcdsG5B84) | [B Young](https://open.spotify.com/artist/7JMwO9tyFPMsb2KnsJqZlp) | [Ride for Me](https://open.spotify.com/album/3buKj4qYFKO2qKMdgdv3rg) | 3:14 |
 | 26 | [just a boy](https://open.spotify.com/track/2fAeROYFSbWdvML6rbnCar) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [just a boy](https://open.spotify.com/album/6C2WtjbTyOmdMq7E8uTXcg) | 3:05 |
 | 27 | [Want U Around \(feat\. Ruel\)](https://open.spotify.com/track/5vprsDWNcHMEMH95sbJkH2) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO), [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Want U Around \(feat\. Ruel\)](https://open.spotify.com/album/5UKxiuiDgmjI35ZKYbAUPx) | 4:07 |
 | 28 | [Hu Man](https://open.spotify.com/track/2ZfVt2skRwfEq1Wb3D7GmP) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [Hu Man](https://open.spotify.com/album/1weDKnsUBvJMN9sdlaqC2W) | 3:23 |
@@ -43,20 +43,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZnTv0GKubq.md) - [plain]
 | 33 | [Alibi](https://open.spotify.com/track/7A9aASmJF3GtnBBri3Km23) | [Jordan Mackampa](https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST) | [Come Around EP](https://open.spotify.com/album/4VQebFp9TEuKOaCu5lUUrC) | 3:48 |
 | 34 | [Paper Thin](https://open.spotify.com/track/7kC97zPE0PxrcItXyGdk8P) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Lianne La Havas](https://open.spotify.com/album/1CqNrKEv2fhF7mudTXrydV) | 4:58 |
 | 35 | [Intertwined](https://open.spotify.com/track/0P7GCKyCEugSVtpLOTl7v1) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Somewhere In\-Between](https://open.spotify.com/album/6rV900qbJeP9I3QwrZMfsO) | 2:41 |
-| 36 | [My Own Person](https://open.spotify.com/track/0o0BtyLhvu05czmflES2tH) | [Ezra Williams](https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48) | [My Own Person](https://open.spotify.com/album/04D3qjBVzStR7FNHXFK373) | 4:24 |
-| 37 | [Cigarettes & Alcohol](https://open.spotify.com/track/2A6vQ5l3fb9U1Ad7nKHUV0) | [Santino Le Saint](https://open.spotify.com/artist/49WBtnIs3VA1tHR7jQG1F6) | [Cigarettes & Alcohol](https://open.spotify.com/album/5MLIpA3CQXoXukgGckiYdT) | 3:04 |
+| 36 | [Cigarettes & Alcohol](https://open.spotify.com/track/2A6vQ5l3fb9U1Ad7nKHUV0) | [Santino Le Saint](https://open.spotify.com/artist/49WBtnIs3VA1tHR7jQG1F6) | [Cigarettes & Alcohol](https://open.spotify.com/album/5MLIpA3CQXoXukgGckiYdT) | 3:04 |
+| 37 | [My Own Person](https://open.spotify.com/track/0o0BtyLhvu05czmflES2tH) | [Ezra Williams](https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48) | [My Own Person](https://open.spotify.com/album/04D3qjBVzStR7FNHXFK373) | 4:24 |
 | 38 | [Inside Friend \(feat\. John Mayer\)](https://open.spotify.com/track/4ehkZtzPTbjsRULRfQSWYu) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Inside Friend \(feat\. John Mayer\)](https://open.spotify.com/album/2zYmSJZxBTCvDYBAEcixyV) | 2:55 |
 | 39 | [Show U Off](https://open.spotify.com/track/00selpxxljfn9n5Pf4K3VR) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Show U Off](https://open.spotify.com/album/4vmD2mzd6e6UCvuQgKT00m) | 4:11 |
 | 40 | [By Any Means](https://open.spotify.com/track/2UWnZrXLXIyfMgNvJr2KUa) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [By Any Means](https://open.spotify.com/album/5KGU6dXP8K978diRu0eetZ) | 3:45 |
 | 41 | [homebody](https://open.spotify.com/track/3I3ZmlSouhOYDHGWn3w0CW) | [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [homebody](https://open.spotify.com/album/5sgzeY6Z2rZchiVFO1H80f) | 3:09 |
 | 42 | [Morning Matters](https://open.spotify.com/track/1EeS8SQ0BAhNrLVLCNrxrj) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Morning Matters](https://open.spotify.com/album/3VEmUbg3oFmZ2Bfn7b5bit) | 4:06 |
 | 43 | [Bittersweet \- Radio Edit](https://open.spotify.com/track/7CNtRYYyhNJKXFr2bQ5rv2) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Bittersweet \(Radio Edit\)](https://open.spotify.com/album/6zqOLPAQagrbNJCd10MiST) | 3:56 |
-| 44 | [Heavenly Mother](https://open.spotify.com/track/328rLNs6WQPOlFSPpIUy7E) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [Lost In June \- EP](https://open.spotify.com/album/1n2Qha9Jrppqk5FXnWxWSX) | 3:59 |
-| 45 | [Everybody Business](https://open.spotify.com/track/6TrdeNEgbKuBqIToRfdWMY) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [It Was Good Until It Wasn't](https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3) | 2:45 |
-| 46 | [Antidote \(feat\. Adekunle Gold\)](https://open.spotify.com/track/1ndeyZurGdaWqLh3srX0ia) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Antidote \(feat\. Adekunle Gold\)](https://open.spotify.com/album/3KQZiAYQg3kXCKPKKNDdbX) | 3:22 |
-| 47 | [if you got a problem](https://open.spotify.com/track/1wk5QI8DKu2iwDGpMfUSss) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness](https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ) | 3:06 |
+| 44 | [if you got a problem](https://open.spotify.com/track/1wk5QI8DKu2iwDGpMfUSss) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness](https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ) | 3:06 |
+| 45 | [Heavenly Mother](https://open.spotify.com/track/328rLNs6WQPOlFSPpIUy7E) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [Lost In June \- EP](https://open.spotify.com/album/1n2Qha9Jrppqk5FXnWxWSX) | 3:59 |
+| 46 | [Everybody Business](https://open.spotify.com/track/6TrdeNEgbKuBqIToRfdWMY) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [It Was Good Until It Wasn't](https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3) | 2:45 |
+| 47 | [Antidote \(feat\. Adekunle Gold\)](https://open.spotify.com/track/1ndeyZurGdaWqLh3srX0ia) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Antidote \(feat\. Adekunle Gold\)](https://open.spotify.com/album/3KQZiAYQg3kXCKPKKNDdbX) | 3:22 |
 | 48 | [Wickedest](https://open.spotify.com/track/0IbJBhAkIFqTHoYjWYxpzZ) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [Wickedest](https://open.spotify.com/album/5tnnQsnZmgGqIbTQH6MqLy) | 3:12 |
 | 49 | [Never Leave](https://open.spotify.com/track/6d5E28VYwyws9CY00lwxfq) | [WSTRN](https://open.spotify.com/artist/5nSAh3wlH7VaqpnkiMjzDs), [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [Never Leave](https://open.spotify.com/album/1uHkmdfOvhr3Jj7mdLIIkp) | 3:16 |
 | 50 | [Bussdown \(feat\. Shaybo\)](https://open.spotify.com/track/2gP19KH3V5JlR5MycAIL3R) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Shaybo](https://open.spotify.com/artist/5QdfW7A9eh0XjCyg9XAZpy) | [Be Right Back](https://open.spotify.com/album/7MbcxleVqx5qeZgXdw5FAi) | 3:21 |
 
-Snapshot ID: `MTY2MTE1ODU1MiwwMDAwMDAwMGFlYzJkMzljYWZkMmRhNGY4MzAyYjBjZmFhMWEyZTgw`
+Snapshot ID: `MTY2MTE1ODU1MiwwMDAwMDAwMDhkMjgwYTg3ODFlZTRjMzE3MGVlYTk2Y2UwZGRiY2Ji`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zwZ4R1dXab.md) - [plain]
 
 > Songs and episodes to help calm your mind, co curated by Clinical psychologist 'Sonali Gupta'.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98 likes - 75 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 143 likes - 75 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,19 +50,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zwZ4R1dXab.md) - [plain]
 | 40 | [Molecules](https://open.spotify.com/track/4G5VeedjbIEbvNP45vxBvJ) | [Lectus](https://open.spotify.com/artist/2JolphwQB4Yg7sLfSsoJuk) | [Atoms](https://open.spotify.com/album/2iNhRXKY6D7E9mv00F9EoM) | 2:37 |
 | 41 | [Origami](https://open.spotify.com/track/5MIyzgrAUZ5TryLLF30hcY) | [Berlioz](https://open.spotify.com/artist/6kndrupH2JaLYqh1wBKGar) | [Origami](https://open.spotify.com/album/689hMeFt2wAkXJjLNsPfQF) | 1:46 |
 | 42 | [Felt Improv No\. 31](https://open.spotify.com/track/7hq0zahMPS0Ct7k9tyI59F) | [Niall Byrne](https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ) | [Felt Improv No\. 31](https://open.spotify.com/album/7AqUPWCuSEeAVmkRlA3quC) | 2:24 |
-| 43 | [Salve](https://open.spotify.com/track/3ciGnLsselzhecVZZiHzfZ) | [Ferdinando Zetticci](https://open.spotify.com/artist/4MLLLG0z38an4nXddu8R3O) | [Salve](https://open.spotify.com/album/73yZQQSNzwlGyMBwndXjrd) | 2:50 |
-| 44 | [Varazdin](https://open.spotify.com/track/4MbjcL460D3UHueKiREBPZ) | [Davorka Poljak](https://open.spotify.com/artist/4BBOdslZwXmnXLC4JUm3xg) | [Varazdin](https://open.spotify.com/album/4vYwpkP10mwLThSSeYpsoV) | 1:46 |
+| 43 | [Varazdin](https://open.spotify.com/track/4MbjcL460D3UHueKiREBPZ) | [Davorka Poljak](https://open.spotify.com/artist/4BBOdslZwXmnXLC4JUm3xg) | [Varazdin](https://open.spotify.com/album/4vYwpkP10mwLThSSeYpsoV) | 1:46 |
+| 44 | [Salve](https://open.spotify.com/track/3ciGnLsselzhecVZZiHzfZ) | [Ferdinando Zetticci](https://open.spotify.com/artist/4MLLLG0z38an4nXddu8R3O) | [Salve](https://open.spotify.com/album/73yZQQSNzwlGyMBwndXjrd) | 2:50 |
 | 45 | [Silent](https://open.spotify.com/track/2wtXjG8mWHPGKbJcVNzjAR) | [Sogni Lunari](https://open.spotify.com/artist/02LLVbAMjm7ALCBmjmihqL) | [Silent](https://open.spotify.com/album/1qN9ZsA6ELL3C5dOOdwrTf) | 2:13 |
-| 46 | [On the Stairs](https://open.spotify.com/track/6qedmSEhHCcpsAxSAc0YZ0) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [On the Stairs](https://open.spotify.com/album/1y6ItDuTMzmJfIJ6Z4ghGu) | 2:21 |
-| 47 | [Sleeping Beauty](https://open.spotify.com/track/0l1YnleLOy8MYRImQBYB1Q) | [Isaac Cassidy](https://open.spotify.com/artist/3QoWofhE474wVe9XdvQrHJ) | [Sleeping Beauty](https://open.spotify.com/album/259LOCwtmWn8iDUzgNle8K) | 2:01 |
-| 48 | [Apart, Together](https://open.spotify.com/track/0OiXiEqUyVZrz8OnJkek2q) | [Garreth Broke](https://open.spotify.com/artist/2VfNXBb3vlgXHEzQci1btx) | [Apart, Together](https://open.spotify.com/album/5XtJ21nRx5xJ9KNI9bZP2e) | 2:04 |
+| 46 | [Apart, Together](https://open.spotify.com/track/0OiXiEqUyVZrz8OnJkek2q) | [Garreth Broke](https://open.spotify.com/artist/2VfNXBb3vlgXHEzQci1btx) | [Apart, Together](https://open.spotify.com/album/5XtJ21nRx5xJ9KNI9bZP2e) | 2:04 |
+| 47 | [On the Stairs](https://open.spotify.com/track/6qedmSEhHCcpsAxSAc0YZ0) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [On the Stairs](https://open.spotify.com/album/1y6ItDuTMzmJfIJ6Z4ghGu) | 2:21 |
+| 48 | [Sleeping Beauty](https://open.spotify.com/track/0l1YnleLOy8MYRImQBYB1Q) | [Isaac Cassidy](https://open.spotify.com/artist/3QoWofhE474wVe9XdvQrHJ) | [Sleeping Beauty](https://open.spotify.com/album/259LOCwtmWn8iDUzgNle8K) | 2:01 |
 | 49 | [City Lights](https://open.spotify.com/track/041EqVueOI4pszWGJfKerh) | [Oliver Évilo](https://open.spotify.com/artist/6pr16671AS8qchaPqDDM0Y) | [City Lights](https://open.spotify.com/album/5edrSUkO57ts9EwVVjvPAx) | 2:06 |
 | 50 | [Comtemplating Still](https://open.spotify.com/track/3nq5cRQENEy6gZGwhlpdPz) | [Bree Arnold](https://open.spotify.com/artist/442UEEXcXRGduZmBuiZCwV) | [Comtemplating Still](https://open.spotify.com/album/6nEgQaVsZ4unrb44vrRRZo) | 1:40 |
 | 51 | [Pragmatique](https://open.spotify.com/track/5lLjOkaJ7pqx2qOS7bN22M) | [Sabrina Austin](https://open.spotify.com/artist/3RyXWAkPxxntDFBAeGst6K) | [Pragmatique](https://open.spotify.com/album/4Ex97kKG6Boz9EYF6hivhc) | 2:00 |
-| 52 | [Piano Eléctrico](https://open.spotify.com/track/658ysPC6WdtiRSQjiv2AJZ) | [Rancul](https://open.spotify.com/artist/7cVXjdkl7yJQfp2a76guvf) | [Rancul](https://open.spotify.com/album/30dDuezgO9cqoTGi0cMhPn) | 1:45 |
-| 53 | [The Grass](https://open.spotify.com/track/0CMcbkaWuxxnfyaqjZWWGv) | [Brandon Cason](https://open.spotify.com/artist/2HOrmW7Jd402Exqju0Bttt) | [The Grass](https://open.spotify.com/album/135DspnDnLyzwCcPijPmjX) | 2:37 |
+| 52 | [The Grass](https://open.spotify.com/track/0CMcbkaWuxxnfyaqjZWWGv) | [Brandon Cason](https://open.spotify.com/artist/2HOrmW7Jd402Exqju0Bttt) | [The Grass](https://open.spotify.com/album/135DspnDnLyzwCcPijPmjX) | 2:37 |
+| 53 | [Appalachian Hike](https://open.spotify.com/track/7bvwShGPBpiojWB5SdI8Dh) | [Paolo Capello](https://open.spotify.com/artist/3RsJfN4McPUPnLMecUGhik) | [Appalachian Hike](https://open.spotify.com/album/1gkHmZmkrqGiP1X6Gso7WX) | 2:16 |
 | 54 | [Desiderium](https://open.spotify.com/track/07KyFspZCxCatWgaXoPlXg) | [Christine Papst](https://open.spotify.com/artist/0PRooTT7V1vNPXCHBRomZE) | [Desiderium](https://open.spotify.com/album/6uUZU6NCqEjsFf3piG0srU) | 2:24 |
-| 55 | [Appalachian Hike](https://open.spotify.com/track/7bvwShGPBpiojWB5SdI8Dh) | [Paolo Capello](https://open.spotify.com/artist/3RsJfN4McPUPnLMecUGhik) | [Appalachian Hike](https://open.spotify.com/album/1gkHmZmkrqGiP1X6Gso7WX) | 2:16 |
+| 55 | [Piano Eléctrico](https://open.spotify.com/track/658ysPC6WdtiRSQjiv2AJZ) | [Rancul](https://open.spotify.com/artist/7cVXjdkl7yJQfp2a76guvf) | [Rancul](https://open.spotify.com/album/30dDuezgO9cqoTGi0cMhPn) | 1:45 |
 | 56 | [Papperssvalan](https://open.spotify.com/track/537FP4rNU5SILZ5uWF2zDi) | [Norröga](https://open.spotify.com/artist/6k2rfOW9DnWyV4cKXkfjMw) | [Papperssvalan](https://open.spotify.com/album/2Qg3Na5QnWlPFJf0O2CiWV) | 2:33 |
 | 57 | [Space And Time](https://open.spotify.com/track/2WlKoxl8hJiuOgKolOH3WR) | [Lake Geneva](https://open.spotify.com/artist/6CcMV3fTlrJ4ECazXDdOA9) | [Space And Time](https://open.spotify.com/album/5RpZBi2zTH4WjK7AWc5OzN) | 2:25 |
 | 58 | [I Will Wait](https://open.spotify.com/track/5efmTcG1xyKUGP6UMBx6x3) | [Alina Linnéa](https://open.spotify.com/artist/2eWNqV0E7nkCq8MndbcmAU) | [I Will Wait](https://open.spotify.com/album/3djy7T65ukIdrFIOxFM1k6) | 2:06 |
@@ -71,10 +71,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zwZ4R1dXab.md) - [plain]
 | 61 | [Calm](https://open.spotify.com/track/4CK6vuYb4BaaQ2oYbkASuB) | [Henrik Janson](https://open.spotify.com/artist/5kIhxGyX6VtcsLk88dwYED) | [Calm](https://open.spotify.com/album/68XXJLCevHtMqzrnKPobT9) | 1:49 |
 | 62 | [Zadar](https://open.spotify.com/track/0LOaCUBNsulgH8qEHH7Y4O) | [Davorka Poljak](https://open.spotify.com/artist/4BBOdslZwXmnXLC4JUm3xg) | [Zadar](https://open.spotify.com/album/3pudp0e767UMQu6w1DWzfz) | 2:03 |
 | 63 | [Sweet Gesture](https://open.spotify.com/track/72qpJcGJO8yGMDoJpKsMBQ) | [Bruno Joel](https://open.spotify.com/artist/3YojgmGKYcr1V6480v3qwy) | [By Your Side](https://open.spotify.com/album/1IHOhvP4jBMk7dgRw8k2JI) | 2:34 |
-| 64 | [m4a](https://open.spotify.com/track/0p1dvFjInHmk6nUparv5dk) | [Blue Arch](https://open.spotify.com/artist/1hGVjA5Yn16irUKclsgYY5) | [m4a](https://open.spotify.com/album/0Y7ZoYmiH4VBpBBuxTwpCg) | 2:22 |
-| 65 | [Vejlefjord](https://open.spotify.com/track/6ff7MgoSLL9Cxi3t2qYVnA) | [Rasmus H Thomsen](https://open.spotify.com/artist/42jjk371b9jW9zsmrMls10) | [Vejlefjord](https://open.spotify.com/album/1gt84E4kL8DdnXW1XlclX4) | 2:14 |
-| 66 | [Finding Solitude](https://open.spotify.com/track/44GNDx5mPRKiwSLjJAe5Yg) | [Miesha Berens](https://open.spotify.com/artist/59UumpxzWdl3DRy6muL6Ln) | [Finding Solitude](https://open.spotify.com/album/4HSa5LuC2F1lOVOgnqlky7) | 2:33 |
-| 67 | [Story Time](https://open.spotify.com/track/0cDZCWdR8bTlp7QRaBXBYD) | [Jackson Love](https://open.spotify.com/artist/1UgWMZAdp3B83W5kgT6QEC) | [Story Time](https://open.spotify.com/album/0v547nlB4ydYCt26HXGxIl) | 2:09 |
+| 64 | [Vejlefjord](https://open.spotify.com/track/6ff7MgoSLL9Cxi3t2qYVnA) | [Rasmus H Thomsen](https://open.spotify.com/artist/42jjk371b9jW9zsmrMls10) | [Vejlefjord](https://open.spotify.com/album/1gt84E4kL8DdnXW1XlclX4) | 2:14 |
+| 65 | [m4a](https://open.spotify.com/track/0p1dvFjInHmk6nUparv5dk) | [Blue Arch](https://open.spotify.com/artist/1hGVjA5Yn16irUKclsgYY5) | [m4a](https://open.spotify.com/album/0Y7ZoYmiH4VBpBBuxTwpCg) | 2:22 |
+| 66 | [Story Time](https://open.spotify.com/track/0cDZCWdR8bTlp7QRaBXBYD) | [Jackson Love](https://open.spotify.com/artist/1UgWMZAdp3B83W5kgT6QEC) | [Story Time](https://open.spotify.com/album/0v547nlB4ydYCt26HXGxIl) | 2:09 |
+| 67 | [Finding Solitude](https://open.spotify.com/track/44GNDx5mPRKiwSLjJAe5Yg) | [Miesha Berens](https://open.spotify.com/artist/59UumpxzWdl3DRy6muL6Ln) | [Finding Solitude](https://open.spotify.com/album/4HSa5LuC2F1lOVOgnqlky7) | 2:33 |
 | 68 | [While You Were Sleeping](https://open.spotify.com/track/54wC2ics8RCpQGYoB516Qs) | [Vincent & A Secret](https://open.spotify.com/artist/56GQPPkhPG3G9LgFEo7Ae6) | [P.S\. I'm Still Here](https://open.spotify.com/album/3c1UFkkA7goX16ZYoHawV1) | 1:45 |
 | 69 | [Ainda Ontem](https://open.spotify.com/track/5uig3Oq5R05OuOAERGKnlu) | [Leonidas Myaló](https://open.spotify.com/artist/6dumU4QYEB8C4dDdTPfRg3) | [Ainda Ontem](https://open.spotify.com/album/4fCDlV21vCQxgNa5D1wtEW) | 2:25 |
 | 70 | [Bocks](https://open.spotify.com/track/2uefuYyOh0LTfrMcuvl2ID) | [Granite Stone](https://open.spotify.com/artist/2IIgijC6z7dO3WTWEX79tv) | [Bocks](https://open.spotify.com/album/5P5KYC3jZPN7F6lVMEZLCa) | 2:13 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zwZ4R1dXab.md) - [plain]
 | 74 | [Pensamiento \(Variacion 1\)](https://open.spotify.com/track/1XjmvMlHQeXqXqbIiphr7L) | [Night Effects](https://open.spotify.com/artist/3LYasSAMIunoZHkV2FC7WB) | [Night Effects](https://open.spotify.com/album/6YAH0vPQGXSSWdXv4ENVzU) | 1:42 |
 | 75 | [On a Clear Day](https://open.spotify.com/track/5PcP4bmY5dSL9jfWhTVVjB) | [Rannar Sillard](https://open.spotify.com/artist/3WIjOR36QpKStT6hfxguh5) | [Weightless Again](https://open.spotify.com/album/66ZFnHFTZ1NcORTEAGX0dG) | 1:59 |
 
-Snapshot ID: `MTY2MzI0MDY5NiwwMDAwMDAwMGQ4NmUwYzE0OTNkZThjMTdkYWU1MGY3OGEzNjNmNDE0`
+Snapshot ID: `MTY2MzI0MDY5NiwwMDAwMDAwMDhkNTJlYWI4YjY2YTdhODFmYzQzYWZlNTY2MmQ4NTc1`

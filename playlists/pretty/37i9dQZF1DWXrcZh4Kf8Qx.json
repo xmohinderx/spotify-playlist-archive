@@ -1,12 +1,12 @@
 {
   "description": "All 70s, all ballads. Cover: Barbra Streisand",
-  "num_followers": 177523,
+  "num_followers": 177645,
   "original_name": "70s Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDg1Njk5NiwwMDAwMDAwMGI4NTQ2NzJmYTQ2MmZhNDNhYTcwODk5OWRlODA0ODRh",
+  "snapshot_id": "MTY1MDg1Njk5NiwwMDAwMDAwMGM5ZjgyMDdhNTUzZGU3MGRmOTI0OTAyODhlMTNkYTJj",
   "tracks": [
     {
       "added_at": "2022-04-25 03:23:16",
@@ -491,22 +491,6 @@
     {
       "added_at": "2022-04-25 03:23:16",
       "album": {
-        "name": "McCartney (Archive Collection)",
-        "url": "https://open.spotify.com/album/2lOll0xAGw8FPjwmwopAKT"
-      },
-      "artists": [
-        {
-          "name": "Paul McCartney",
-          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
-        }
-      ],
-      "duration_ms": 229826,
-      "name": "Maybe I\u2019m Amazed - Remastered 2011",
-      "url": "https://open.spotify.com/track/1Qa0Y05al633fG8f9Peytc"
-    },
-    {
-      "added_at": "2022-04-25 03:23:16",
-      "album": {
         "name": "I Am",
         "url": "https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 278040,
       "name": "After the Love Has Gone",
       "url": "https://open.spotify.com/track/3cfnGXJ9bmiWvFqEO6ff8B"
+    },
+    {
+      "added_at": "2022-04-25 03:23:16",
+      "album": {
+        "name": "McCartney (Archive Collection)",
+        "url": "https://open.spotify.com/album/2lOll0xAGw8FPjwmwopAKT"
+      },
+      "artists": [
+        {
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+        }
+      ],
+      "duration_ms": 229826,
+      "name": "Maybe I\u2019m Amazed - Remastered 2011",
+      "url": "https://open.spotify.com/track/1Qa0Y05al633fG8f9Peytc"
     },
     {
       "added_at": "2022-04-25 03:23:16",

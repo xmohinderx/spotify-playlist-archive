@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1g0iEXLFycr.md) - [plain]
 
 > Uplifting anthems to power you through 'til the weekend.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,052,645 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,052,616 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1g0iEXLFycr.md) - [plain]
 | 36 | [I Gotta Feeling](https://open.spotify.com/track/2H1047e0oMSj10dgp7p2VG) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [THE E.N.D\. \(THE ENERGY NEVER DIES\)](https://open.spotify.com/album/3lng6RAtdksQ2q02Fk5jaB) | 4:49 |
 | 37 | [CAN'T STOP THE FEELING! \(from DreamWorks Animation's "TROLLS"\)](https://open.spotify.com/track/1WkMMavIMc4JZ8cfMmxHkI) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [TROLLS \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7) | 3:57 |
 | 38 | [Send My Love \(To Your New Lover\)](https://open.spotify.com/track/0t7fVeEJxO2Xi4H2K5Svc9) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi) | 3:43 |
-| 39 | [Alright](https://open.spotify.com/track/5xC8uOesnn0udeXAYlAnoY) | [Supergrass](https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU) | [I Should Coco](https://open.spotify.com/album/3YfIjaJEWqiSbKPguS9Bxd) | 3:00 |
+| 39 | [Suddenly I See](https://open.spotify.com/track/5p9XWUdvbUzmPCukOmwoU3) | [KT Tunstall](https://open.spotify.com/artist/5zzrJD2jXrE9dZ1AklRFcL) | [Eye To The Telescope](https://open.spotify.com/album/3j70PDKieTWQAwas3bPHRZ) | 3:21 |
 | 40 | [Heaven On My Mind \(with Sigala\)](https://open.spotify.com/track/7bIq1v8svANsAys7I694Up) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN) | [Heaven On My Mind \(with Sigala\)](https://open.spotify.com/album/7LOS5IWTamBcpqLTdLXFLm) | 3:12 |
-| 41 | [Suddenly I See](https://open.spotify.com/track/5p9XWUdvbUzmPCukOmwoU3) | [KT Tunstall](https://open.spotify.com/artist/5zzrJD2jXrE9dZ1AklRFcL) | [Eye To The Telescope](https://open.spotify.com/album/3j70PDKieTWQAwas3bPHRZ) | 3:21 |
+| 41 | [Alright](https://open.spotify.com/track/5xC8uOesnn0udeXAYlAnoY) | [Supergrass](https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU) | [I Should Coco](https://open.spotify.com/album/3YfIjaJEWqiSbKPguS9Bxd) | 3:00 |
 | 42 | [Call Me Maybe](https://open.spotify.com/track/3TGRqZ0a2l1LRblBkJoaDx) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Kiss \(Deluxe\)](https://open.spotify.com/album/29blfJv8AddJrjuG3DpE13) | 3:13 |
 | 43 | [Dog Days Are Over](https://open.spotify.com/track/1YLJVmuzeM2YSUkCCaTNUB) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Edition\)](https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ) | 4:11 |
 | 44 | [MMMBop](https://open.spotify.com/track/0lnxrQAd9ZxbhBBe7d8FO8) | [Hanson](https://open.spotify.com/artist/0SdiiPkr02EUdekHZJkt58) | [Middle Of Nowhere](https://open.spotify.com/album/3StpQT9Qd87FSeWeQAdg1h) | 4:28 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1g0iEXLFycr.md) - [plain]
 | 60 | [Little L](https://open.spotify.com/track/7hhclvecTpNxNNRCk7NUoc) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [A funk odyssey](https://open.spotify.com/album/6cLYs4e403jQk6PJ8PG9rs) | 4:55 |
 | 61 | [Freedom! '90 \- Remastered](https://open.spotify.com/track/3tyTt5pEWblt96j1HsXiV5) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Listen Without Prejudice / MTV Unplugged \(Deluxe\)](https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj) | 6:30 |
 | 62 | [California \- Tchad Blake Mix](https://open.spotify.com/track/497Fkp3gRiGrRMoqBTDudr) | [Phantom Planet](https://open.spotify.com/artist/0LsTFjEB1IIrh7IlTxs1GY) | [The Guest \(Expanded Edition\)](https://open.spotify.com/album/4SvTjA2cwASS1cWzEIG0WD) | 3:13 |
-| 63 | [Sweet Lovin' \- Radio Edit](https://open.spotify.com/track/1qp0ptMXNg9hqLH8sk7cc2) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Bryn Christopher](https://open.spotify.com/artist/7mWMzxN6IAIQ1tfFFtAiQv) | [Brighter Days](https://open.spotify.com/album/5rr0xAQfk01cPi1N37jX11) | 3:22 |
-| 64 | [Ugly Heart](https://open.spotify.com/track/3qqho4PnTn3zlMPBzWhFFD) | [G.R.L.](https://open.spotify.com/artist/3Yl4nkmEa8BSuGWbwhdLDq) | [G.R.L.](https://open.spotify.com/album/3EnagjeTqe4GvpF3dgVPtF) | 3:18 |
+| 63 | [Ugly Heart](https://open.spotify.com/track/3qqho4PnTn3zlMPBzWhFFD) | [G.R.L.](https://open.spotify.com/artist/3Yl4nkmEa8BSuGWbwhdLDq) | [G.R.L.](https://open.spotify.com/album/3EnagjeTqe4GvpF3dgVPtF) | 3:18 |
+| 64 | [Sweet Lovin' \- Radio Edit](https://open.spotify.com/track/1qp0ptMXNg9hqLH8sk7cc2) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Bryn Christopher](https://open.spotify.com/artist/7mWMzxN6IAIQ1tfFFtAiQv) | [Brighter Days](https://open.spotify.com/album/5rr0xAQfk01cPi1N37jX11) | 3:22 |
 | 65 | [Superstar \(feat\. Matthew Santos\)](https://open.spotify.com/track/7dltD9eEX7X1zk8JJ9BS0e) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf), [Matthew Santos](https://open.spotify.com/artist/5t2P9w0qT2I9y0DrNhykSj) | [Lupe Fiasco's The Cool](https://open.spotify.com/album/0MihD70HInk2rDaChdAdEy) | 4:49 |
 | 66 | [Everywhere](https://open.spotify.com/track/1prZ0pr6XoRCxcrC3MCL0M) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Greatest Hits](https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz) | 3:42 |
 | 67 | [Pretty Shining People](https://open.spotify.com/track/2JVwsN6viHjR9t5pCPQ4Br) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Staying at Tamara's](https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj) | 3:32 |
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1g0iEXLFycr.md) - [plain]
 | 85 | [When I Was A Youngster](https://open.spotify.com/track/2LrTrVQc3jblY2lh61zNsu) | [Rizzle Kicks](https://open.spotify.com/artist/2ajhZ7EA6Dec0kaWiKCApF) | [Stereo Typical](https://open.spotify.com/album/7dn5EHt0T7jdPf4q0ljrmp) | 2:55 |
 | 86 | [Praise You](https://open.spotify.com/track/3yGy1JYz3zQKlxSgjgpQqX) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [You've Come A Long Way Baby](https://open.spotify.com/album/5oF9RaCKaF7e5siW9zdl6L) | 5:23 |
 | 87 | [I Wanna Feel](https://open.spotify.com/track/5nrdOK0i7daIsDAt4zRbHM) | [Secondcity](https://open.spotify.com/artist/2ew9JvyyuOGkhahuwdovDq) | [I Wanna Feel](https://open.spotify.com/album/18hwLKK9KK28ceLoxjPCG3) | 3:06 |
-| 88 | [Anywhere](https://open.spotify.com/track/6lD9nDl7jBUSIPDMAMZjuD) | [Sigma](https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS), [Louis III](https://open.spotify.com/artist/4XY7BEqVPyIqRve1CWHTqr) | [Anywhere](https://open.spotify.com/album/5D7wyvS4OM7u1PvEH2k3FO) | 3:25 |
-| 89 | [Busy Earnin'](https://open.spotify.com/track/5TloYFwzd09yWy8xkRLVUu) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Jungle](https://open.spotify.com/album/5dYCfDcz1KB5E9i2kgWXXr) | 3:01 |
+| 88 | [Busy Earnin'](https://open.spotify.com/track/5TloYFwzd09yWy8xkRLVUu) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Jungle](https://open.spotify.com/album/5dYCfDcz1KB5E9i2kgWXXr) | 3:01 |
+| 89 | [Anywhere](https://open.spotify.com/track/6lD9nDl7jBUSIPDMAMZjuD) | [Sigma](https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS), [Louis III](https://open.spotify.com/artist/4XY7BEqVPyIqRve1CWHTqr) | [Anywhere](https://open.spotify.com/album/5D7wyvS4OM7u1PvEH2k3FO) | 3:25 |
 | 90 | [Place Your Hands](https://open.spotify.com/track/29OrKlVi8EM1u8VDIlF4qO) | [Reef](https://open.spotify.com/artist/191Koh7PSIi28IrGAGoINO) | [Together \- The Best Of](https://open.spotify.com/album/6ksyAGg2voMofLSmaQycHq) | 3:37 |
 | 91 | [Sax](https://open.spotify.com/track/20dJUFrfY0TBZ7HHhJgjsg) | [Fleur East](https://open.spotify.com/artist/37mtx80nMDETlbsq2eFCzc) | [Sax](https://open.spotify.com/album/5rywm2MmNo44XiEXaVyMJ8) | 3:56 |
 | 92 | [Movin' on Up](https://open.spotify.com/track/5Vx3e9PipiEceifVyBzCdj) | [Primal Scream](https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze) | [Screamadelica](https://open.spotify.com/album/4TECsw2dFHZ1ULrT7OA3OL) | 3:50 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1g0iEXLFycr.md) - [plain]
 | 99 | [No Worries](https://open.spotify.com/track/0Q95QAw0HKaykvMZA3tMOb) | [Simon Webbe](https://open.spotify.com/artist/3P6nMEGXn0hzBlMndKfLQH) | [Sanctuary](https://open.spotify.com/album/4zlJk4dH9eE5wQGOrKvKhs) | 3:29 |
 | 100 | [Bright Idea](https://open.spotify.com/track/1Y4AkpQCj2StN2iamDlFTz) | [Orson](https://open.spotify.com/artist/5zgc8pooHxd4un0F49YaCJ) | [Bright Idea](https://open.spotify.com/album/2ucuasGA8B0buntFFcsP8g) | 4:14 |
 
-Snapshot ID: `MTU5ODU0NDYyNSwwMDAwMDAwMDMyNDNjODVkYjQ2ZjA2YmFkZjI5N2MyNjliNjY1OWY5`
+Snapshot ID: `MTU5ODU0NDYyNSwwMDAwMDAwMDQxMWZlNzlmMDM0ZjQ2ZTFjNjgwYWVmZDNmODYyNmNl`

@@ -2,9 +2,9 @@
 
 ### [Modern Jazz Japan](https://open.spotify.com/playlist/37i9dQZF1DWWGewPG5S5oE)
 
-> 日本の現代ジャズシーンで活躍するアーティストをピックアップ。cover: 秩父英里
+> 日本の現代ジャズシーンで活躍するアーティストをピックアップ。cover: NAUTILUS
 
-53 songs - 4 hr 31 min - [published](https://open.spotify.com/playlist/7J6KTI9ttmEPnJtwsQFdN5)
+55 songs - 4 hr 39 min - [published](https://open.spotify.com/playlist/7J6KTI9ttmEPnJtwsQFdN5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Blue Eyed Monster](https://open.spotify.com/track/5wG5pbeTBYzAhlT6iE8Ptg) | [SOIL & “PIMP” SESSIONS](https://open.spotify.com/artist/5COMNbVWoe1Kb5UTFAaUwF) | [TVアニメーション「BEM」オリジナルサウンドトラック OUTSIDE](https://open.spotify.com/album/2kXmIAi8Y1CrvIObUJRMVr) | 4:10 | 2022-09-06 |  |
 | [City Creatures](https://open.spotify.com/track/0ubaJUyQahfdL3FK60FjyH) | [U\-zhaan](https://open.spotify.com/artist/0CDt5nfGQ8it4IerQwquMS), [BIGYUKI](https://open.spotify.com/artist/5bQhICu3eC2RFDr4OPRQHq) | [City Creatures](https://open.spotify.com/album/3Ztt5dDDen4CC6ugiRR559) | 3:04 | 2022-09-06 |  |
 | [Confirmation](https://open.spotify.com/track/4hT1CgkQIlhmA1DIVYrLx8) | [MONKY](https://open.spotify.com/artist/2NFTxb149zkG83xRLkRv4O), [re os \- REO MATSUMOTO](https://open.spotify.com/artist/4501R3d8kL9mW1JgkPvlUW) | [Confirmation](https://open.spotify.com/album/5k4X1OKVhx8GWWaxgdfPej) | 4:55 | 2022-09-06 |  |
-| [DAN DA DAN \~Nikujiru Juicy\~](https://open.spotify.com/track/6bU0xA0rcv4BUhiCUeSpga) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [DAN DA DAN \~Nikujiru Juicy\~](https://open.spotify.com/album/1DRsv2J8yzJqte4iM47vP7) | 4:10 | 2022-09-06 |  |
+| [DAN DA DAN \~Nikujiru Juicy\~](https://open.spotify.com/track/6bU0xA0rcv4BUhiCUeSpga) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [DAN DA DAN \~Nikujiru Juicy\~](https://open.spotify.com/album/1DRsv2J8yzJqte4iM47vP7) | 4:10 | 2022-09-06 | 2022-09-21 |
 | [Danny Boy](https://open.spotify.com/track/5V4DDq4TAn5UPrJBbKl5M2) | [Mao Sone](https://open.spotify.com/artist/674ZhINhNClUw6elVb96BG) | [Danny Boy](https://open.spotify.com/album/5edIjcQxIfRjLDKplE8edG) | 2:52 | 2022-09-06 | 2022-09-15 |
 | [Everybody Loves The Sunshine](https://open.spotify.com/track/4F17fOFNxTHhNk6fXq46w6) | [Takuya Kuroda](https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP), [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz) | [Rising Son](https://open.spotify.com/album/7GDnn7XSLCIjZkBkw0SMZd) | 9:25 | 2022-09-06 |  |
 | [Extra Freedom](https://open.spotify.com/track/0ViSJTe0YkVRP5FXcNo91V) | [Kyoto Jazz Sextet](https://open.spotify.com/artist/6HJLP8BxT0IJtEtZRba2Xd) | [UNITY](https://open.spotify.com/album/3sR1fIm8LCnPukPiLghLgV) | 6:19 | 2022-09-06 |  |
@@ -23,7 +23,9 @@
 | [If Sea Could Sing](https://open.spotify.com/track/2NGtsSSgjvq2ZbFxDDnAUT) | [Okada Takuro](https://open.spotify.com/artist/4d4VL0LIBWkVXAq4YZ07wm) | [Betsu No Jikan](https://open.spotify.com/album/6osbGxXryMZUWTlysq7Tcu) | 5:45 | 2022-09-06 |  |
 | [Ishonsho Abe](https://open.spotify.com/track/7tPh9tj8JNZITMuEN8iDOK) | [Martha Kato](https://open.spotify.com/artist/3NvIawjJlIxAqZlfCyodcY) | [Ishonsho Abe](https://open.spotify.com/album/62Io1sWPF4COlD4jBApYk5) | 5:48 | 2022-09-06 |  |
 | [It's just love](https://open.spotify.com/track/4yqpJakTlgryUCYpgkl8qv) | [MISIA](https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk) | [MISIA SOUL JAZZ SESSION](https://open.spotify.com/album/0lAWJPnLw3LQYqPV86qKhd) | 5:50 | 2022-09-06 |  |
+| [Japan Beauty](https://open.spotify.com/track/6mWVGALFfErKjjl5EOYS1D) | [Yusuke Shima](https://open.spotify.com/artist/0pJNX3A4a4Q6KuMLXgOfa8) | [Silent Jazz Case 4](https://open.spotify.com/album/5uTFFDWu3enCmiMxz2Y178) | 4:13 | 2022-09-20 |  |
 | [Last Recollection](https://open.spotify.com/track/1i5dlXpWm2qyygCqeaGPD5) | [Alter Ego](https://open.spotify.com/artist/3fh440O6YUksZVM7BfS1jj) | [We'll be always on your side](https://open.spotify.com/album/5qD1q5sIgRJaU1mnvtdwHT) | 3:38 | 2022-09-06 |  |
+| [Looking Back](https://open.spotify.com/track/623GBDquxF9q6vH4pTn0kT) | [Nautilus](https://open.spotify.com/artist/4BkWJqgQzg2M6iVG8u8mPA) | [Looking Back / Paint It Black](https://open.spotify.com/album/3Jjw4UwZ54whJSLgP7qNBH) | 3:41 | 2022-09-20 |  |
 | [MASQUERADE!](https://open.spotify.com/track/7COeUxxiLP2GqTIzOvCZhK) | [YUSUKE NAKAMURA](https://open.spotify.com/artist/3stNhAAg61ozi8VHUgtcjG) | [MASQUERADE!](https://open.spotify.com/album/4Z7AfRdyvxpPPH837iTaXS) | 3:48 | 2022-09-06 |  |
 | [Midnight Crisp](https://open.spotify.com/track/44egUa8FkT17spwSFvQis6) | [Takuya Kuroda](https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP) | [Midnight Crisp](https://open.spotify.com/album/2eSj73qPvFATLh2sNxHDrG) | 5:26 | 2022-09-06 |  |
 | [Moonlight Syndrome](https://open.spotify.com/track/7EkfLobuyqgITbfn3BFmXh) | [ADAM at](https://open.spotify.com/artist/7D67zF9RCypjeEGvnZLKGo) | [トワイライトシンドローム](https://open.spotify.com/album/4b3k9LC24PNvgX9ExlAS8K) | 4:07 | 2022-09-06 |  |
@@ -49,7 +51,7 @@
 | [Voice](https://open.spotify.com/track/0XRBOfz9bPhjazuQCcRkbJ) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc), [Anthony Jackson](https://open.spotify.com/artist/4jSvNq6yedPhkC4p3zlznC), [Simon Phillips](https://open.spotify.com/artist/6pPx8jYe1vzHuQea1st8Iy) | [Voice](https://open.spotify.com/album/26WGFrTj3fwGJysohbdK04) | 9:13 | 2022-09-06 |  |
 | [くちばしにチェリー](https://open.spotify.com/track/5qSOiMOIJ7e6YdRciPafef) | [EGO\-WRAPPIN’](https://open.spotify.com/artist/133lXHKraE97JysMPVLgOX) | [ROUTE 20 HIT THE ROAD](https://open.spotify.com/album/5EQ4i1sBwc4LKmFwqQt8jT) | 4:18 | 2022-09-06 |  |
 | [ほとり](https://open.spotify.com/track/0pxQ9OIN7NLZiZAX2C5B7H) | [賽](https://open.spotify.com/artist/4SnEXsyTXJi4auNP46cr7b) | [ほとり](https://open.spotify.com/album/6gpUCKIj7g6zGXlzkJcWBj) | 5:09 | 2022-09-06 |  |
-| [まるくなって](https://open.spotify.com/track/4Ygoj6ygvEYM5Msadc3Ko8) | [矢崎恵理](https://open.spotify.com/artist/5u29jSzmiMAB7bfz8kroxU) | [it](https://open.spotify.com/album/1Lm5y4PE7Ld6lMHtOPfRgN) | 4:10 | 2022-09-06 |  |
+| [まるくなって](https://open.spotify.com/track/4Ygoj6ygvEYM5Msadc3Ko8) | [矢崎恵理](https://open.spotify.com/artist/5u29jSzmiMAB7bfz8kroxU) | [it](https://open.spotify.com/album/1Lm5y4PE7Ld6lMHtOPfRgN) | 4:10 | 2022-09-06 | 2022-09-21 |
 | [やわらかな夜](https://open.spotify.com/track/4C2QmZ97vRkzXOiWTwn6FL) | [Orange Pekoe](https://open.spotify.com/artist/0C9HwsaagMBxCdG43F9A0l) | [Organic Plastic Music](https://open.spotify.com/album/0CFCsLMHqaByFkM5USUOfP) | 4:00 | 2022-09-06 |  |
 | [アイ・ミス・ユー](https://open.spotify.com/track/3CSI0s3623E1ExOVG0fQus) | [akiko](https://open.spotify.com/artist/27ykGL8CGbRE5LOT3K9IUp) | [ムード・インディゴ](https://open.spotify.com/album/79DUHlyE8a7R77ETOVCyDM) | 4:47 | 2022-09-06 |  |
 | [カリソメ乙女 \- DEATH JAZZ ver.](https://open.spotify.com/track/2M6Do3ldCBgbChvpxXhHfx) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi), [SOIL & “PIMP” SESSIONS](https://open.spotify.com/artist/5COMNbVWoe1Kb5UTFAaUwF) | [三文ゴシップ](https://open.spotify.com/album/4ryRMlHeVAEoNbN4XTquIm) | 2:29 | 2022-09-06 |  |

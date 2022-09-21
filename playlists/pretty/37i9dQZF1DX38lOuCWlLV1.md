@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX38lOuCWlLV1.md) - [plain]
 
 > Eclectic indie love songs from throughout the years\. Delicate lyrics that say it best.
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,942 likes - 75 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,195 likes - 75 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,16 +51,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX38lOuCWlLV1.md) - [plain]
 | 41 | [Retrograde](https://open.spotify.com/track/2IqjKEBiz0CdLKdkXhxw84) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Overgrown](https://open.spotify.com/album/53FEYOXnplxBWoQMmWn82U) | 3:43 |
 | 42 | [Sea of Love](https://open.spotify.com/track/33kKcOJoyNduHwXhEnga8X) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [The Covers Record](https://open.spotify.com/album/4dZBOO1PjjmtPA974xHMND) | 2:19 |
 | 43 | [Re: Stacks](https://open.spotify.com/track/20AC70RUlVz6A6dCcQ5tRS) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [For Emma, Forever Ago](https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM) | 6:41 |
-| 44 | [Lovesong \- 2010 Remaster](https://open.spotify.com/track/0X5C4WjQNubRysTkHOubz3) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Disintegration \(Deluxe Edition\)](https://open.spotify.com/album/6vQB3ZBxnQPP3jQcGV2qzg) | 3:29 |
-| 45 | [Archie, Marry Me](https://open.spotify.com/track/5HLes17mwCwKt81mi0Tk35) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Alvvays](https://open.spotify.com/album/4PrBMzWzzoMOwm55Bfo3dt) | 3:16 |
-| 46 | [9](https://open.spotify.com/track/3e90JC8EKLsSDUHmPpxkfp) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [3](https://open.spotify.com/album/5cAJxOFxRwXkCihLMQJYtl) | 4:13 |
-| 47 | [Youth](https://open.spotify.com/track/4AmcmraFjVzFb9SQDNTRyl) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [If You Leave](https://open.spotify.com/album/31LehqnrVyTuEBEKeXeqVx) | 4:13 |
+| 44 | [Archie, Marry Me](https://open.spotify.com/track/5HLes17mwCwKt81mi0Tk35) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Alvvays](https://open.spotify.com/album/4PrBMzWzzoMOwm55Bfo3dt) | 3:16 |
+| 45 | [Lovesong \- 2010 Remaster](https://open.spotify.com/track/0X5C4WjQNubRysTkHOubz3) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Disintegration \(Deluxe Edition\)](https://open.spotify.com/album/6vQB3ZBxnQPP3jQcGV2qzg) | 3:29 |
+| 46 | [Youth](https://open.spotify.com/track/4AmcmraFjVzFb9SQDNTRyl) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [If You Leave](https://open.spotify.com/album/31LehqnrVyTuEBEKeXeqVx) | 4:13 |
+| 47 | [9](https://open.spotify.com/track/3e90JC8EKLsSDUHmPpxkfp) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [3](https://open.spotify.com/album/5cAJxOFxRwXkCihLMQJYtl) | 4:13 |
 | 48 | [Naked as We Came](https://open.spotify.com/track/6UIxGIqWlO5wsddY44AV1R) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Our Endless Numbered Days \(Deluxe Edition\)](https://open.spotify.com/album/169vCBCFaW2na816P8Ir7m) | 2:32 |
 | 49 | [The Girl](https://open.spotify.com/track/1IFRVS4t1olI0XG9RBWdKH) | [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [Bring Me Your Love \(Special Edition\)](https://open.spotify.com/album/1GYDVFWPK1HFI3TRWmj7hr) | 6:00 |
 | 50 | [Bonnie And Clyde](https://open.spotify.com/track/358jMpTqOfIOYjpcg2Ig2j) | [Brigitte Bardot](https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy), [Serge Gainsbourg](https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo) | [Bubble Gum](https://open.spotify.com/album/1Rvk3tavC4U97f1UObfsnb) | 4:16 |
 | 51 | [Cosmic Love](https://open.spotify.com/track/0CSTvWUps1YmpQoXXay9ol) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Edition\)](https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ) | 4:15 |
-| 52 | [Do You Realize??](https://open.spotify.com/track/2DFRFqWNahKtFD112H2iEZ) | [The Flaming Lips](https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB) | [Yoshimi Battles the Pink Robots](https://open.spotify.com/album/49LA20VMk65fQyEaIzYdvf) | 3:33 |
-| 53 | [Til Kingdom Come](https://open.spotify.com/track/1wQXj5bgxyZQ2XmE2X9s6n) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [X&Y](https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6) | 4:10 |
+| 52 | [Til Kingdom Come](https://open.spotify.com/track/1wQXj5bgxyZQ2XmE2X9s6n) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [X&Y](https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6) | 4:10 |
+| 53 | [Do You Realize??](https://open.spotify.com/track/2DFRFqWNahKtFD112H2iEZ) | [The Flaming Lips](https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB) | [Yoshimi Battles the Pink Robots](https://open.spotify.com/album/49LA20VMk65fQyEaIzYdvf) | 3:33 |
 | 54 | [Thank You](https://open.spotify.com/track/751gBcu62kORDelX7FV0mM) | [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs) | [No Angel](https://open.spotify.com/album/5HC0K52InwrhTEd5zDPzRk) | 3:37 |
 | 55 | [Mystery of Love \(From the Original Motion Picture “Call Me by Your Name”\)](https://open.spotify.com/track/0oTtnnedK0C4unALxVTPhz) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Mystery of Love \(From the Original Motion Picture “Call Me by Your Name”\)](https://open.spotify.com/album/2uMaCzN7a35J3I3qceso0c) | 4:08 |
 | 56 | [No One's Gonna Love You](https://open.spotify.com/track/2IvNxLl01CTAfCOA103Tgx) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [Cease To Begin](https://open.spotify.com/album/0zWsqSsamm615uHbVj7uiZ) | 3:37 |
@@ -77,11 +77,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX38lOuCWlLV1.md) - [plain]
 | 67 | [Eyes](https://open.spotify.com/track/1a9czdo8IX5InOiSOg6xpv) | [Rogue Wave](https://open.spotify.com/artist/2JSc53B5cQ31m0xTB7JFpG) | [Eyes](https://open.spotify.com/album/7KMiuupbbjzq7tzwCC0rhc) | 2:28 |
 | 68 | [Transatlanticism](https://open.spotify.com/track/0DoACS30GwIY6qaFjCMMUz) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Transatlanticism \(10th Anniversary Edition\)](https://open.spotify.com/album/4jQW2mhMH3TxtAOol3Djuf) | 7:55 |
 | 69 | [Such Great Heights](https://open.spotify.com/track/6dDxgfvM8pJm7AzmLZB1nN) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Around the Well](https://open.spotify.com/album/5tOzXq44rU4yCCVY94f6m7) | 4:11 |
-| 70 | [She Moves In Her Own Way](https://open.spotify.com/track/2SGBEDwsOAOAHrrdAd304i) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Inside In / Inside Out](https://open.spotify.com/album/4MhInH4XT7ReDV5fCZjaSz) | 2:49 |
-| 71 | [Say Yes](https://open.spotify.com/track/3XtkcPHbYX0BImTQLlbSVN) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Either/Or](https://open.spotify.com/album/6KMdn9HDIqcBPaaok0K34K) | 2:19 |
+| 70 | [Say Yes](https://open.spotify.com/track/3XtkcPHbYX0BImTQLlbSVN) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Either/Or](https://open.spotify.com/album/6KMdn9HDIqcBPaaok0K34K) | 2:19 |
+| 71 | [She Moves In Her Own Way](https://open.spotify.com/track/2SGBEDwsOAOAHrrdAd304i) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Inside In / Inside Out](https://open.spotify.com/album/4MhInH4XT7ReDV5fCZjaSz) | 2:49 |
 | 72 | [Kingdom Leader](https://open.spotify.com/track/5GeIdhQ2HZ86I9HsQwvRAP) | [Boo Seeka](https://open.spotify.com/artist/1SFz3S9eSUTc49ysstadiO) | [Kingdom Leader – Single](https://open.spotify.com/album/03EMOcMFTB5rep0KfqI9XX) | 3:34 |
 | 73 | [\(No One Knows Me\) Like the Piano](https://open.spotify.com/track/2UBwvSk8tTMqydEdWsfBb8) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Process \(Bonus Edition\)](https://open.spotify.com/album/4rA6i9oXyMhh77pqK0cXKv) | 3:38 |
 | 74 | [I Ain't Ever Loved No One \- Acoustic](https://open.spotify.com/track/2z3HKlpENvfz1Am2MNF2pL) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti), [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [The Other Way](https://open.spotify.com/album/1BjtuA4CufCsT4myvX3WpQ) | 3:19 |
 | 75 | [Tobacco Sunburst](https://open.spotify.com/track/4pJEkzhZY84h8kmPkUhfwC) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Chip Chrome & The Mono\-Tones](https://open.spotify.com/album/4uNgt1uQs6wZRm4giB3shX) | 4:56 |
 
-Snapshot ID: `MTY2MTE5NDM0OCwwMDAwMDAwMDI5YWQ5OWNlMTk5YTllYWRhNjZhZDgxZDVlZWUyMTQy`
+Snapshot ID: `MTY2MTE5NDM0OCwwMDAwMDAwMGUwMjI4ZjRiOTM3NzJmZTRkNDY5MWM4MThhZmU0ZjY3`

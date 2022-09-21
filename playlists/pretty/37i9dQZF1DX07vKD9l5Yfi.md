@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07vKD9l5Yfi.md) - [plain]
 
 > The perfect noughties blend.
 
-[Spotify](https://open.spotify.com/user/spotify) - 832,954 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 833,059 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07vKD9l5Yfi.md) - [plain]
 | 16 | [Fix You](https://open.spotify.com/track/7LVHVU3tWfcxj5aiPFEW4Q) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [X&Y](https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6) | 4:55 |
 | 17 | [This Love](https://open.spotify.com/track/6ECp64rv50XVz93WvxXMGF) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Songs About Jane: 10th Anniversary Edition](https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc) | 3:26 |
 | 18 | [Drops of Jupiter \(Tell Me\)](https://open.spotify.com/track/2hKdd3qO7cWr2Jo0Bcs0MA) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Drops Of Jupiter](https://open.spotify.com/album/6j6Zgm7vzAZegr48UppFVT) | 4:19 |
-| 19 | [No One](https://open.spotify.com/track/6IwKcFdiRQZOWeYNhUiWIv) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [As I Am \(Expanded Edition\)](https://open.spotify.com/album/6KlxyxhXEDo1LdheFulN7h) | 4:13 |
-| 20 | [Homecoming](https://open.spotify.com/track/4iz9lGMjU1lXS51oPmUmTe) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Chris Martin](https://open.spotify.com/artist/0LQoZQIV0mIs0y0XQb0Sw2) | [Graduation](https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3) | 3:23 |
+| 19 | [Homecoming](https://open.spotify.com/track/4iz9lGMjU1lXS51oPmUmTe) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Chris Martin](https://open.spotify.com/artist/0LQoZQIV0mIs0y0XQb0Sw2) | [Graduation](https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3) | 3:23 |
+| 20 | [No One](https://open.spotify.com/track/6IwKcFdiRQZOWeYNhUiWIv) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [As I Am \(Expanded Edition\)](https://open.spotify.com/album/6KlxyxhXEDo1LdheFulN7h) | 4:13 |
 | 21 | [Viva La Vida](https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Viva La Vida or Death and All His Friends](https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty) | 4:02 |
 | 22 | [Lady \- Hear Me Tonight](https://open.spotify.com/track/49X0LAl6faAusYq02PRAY6) | [Modjo](https://open.spotify.com/artist/0AkpPlFLnr0VQwZQeMGht0) | [Modjo \(Remastered\)](https://open.spotify.com/album/0vwDxngkhZuwNbcxzebCXI) | 5:07 |
 | 23 | [Grenade](https://open.spotify.com/track/2tJulUYLDKOg9XrtVkMgcJ) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX) | 3:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07vKD9l5Yfi.md) - [plain]
 | 49 | [Your Body Is a Wonderland](https://open.spotify.com/track/7vFv0yFGMJW3qVXbAd9BK9) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Room For Squares](https://open.spotify.com/album/3yHOaiXecTJVUdn7mApZ48) | 4:09 |
 | 50 | [Breakeven](https://open.spotify.com/track/285hMzLhJwHVLe9QT9qilk) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [The Script](https://open.spotify.com/album/1r5J0N6Ep181K0i8YuTYgO) | 4:21 |
 
-Snapshot ID: `MTY1MDI0NzM3NiwwMDAwMDAwMDU3MjY2OTRhNjg3ZGNiNDJkNGVkMDkwYzA3YmFjYTZl`
+Snapshot ID: `MTY1MDI0NzM3NiwwMDAwMDAwMDZlNDI5ODk1ODZiNTVlMDgzN2U0MjQyOWRiMWYxY2Fl`

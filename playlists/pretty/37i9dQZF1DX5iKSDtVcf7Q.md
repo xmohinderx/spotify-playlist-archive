@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iKSDtVcf7Q.md) - [plain]
 
 > Music paying tribute to the Heartland of America.
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,501 likes - 104 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,497 likes - 104 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,17 +100,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iKSDtVcf7Q.md) - [plain]
 | 90 | [Back Where I Come From](https://open.spotify.com/track/4BbwjVS27IuC7bvN7qzAvS) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Me And You](https://open.spotify.com/album/5aG9PNqK9jLLJoehlNXlwW) | 3:56 |
 | 91 | [Meanwhile Back At Mama's](https://open.spotify.com/track/2rO28hRLDbsenVjeWvwqQz) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd), [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [Sundown Heaven Town \(Deluxe Edition\)](https://open.spotify.com/album/5d1gd7lRLgljr3YPnkfU7k) | 3:48 |
 | 92 | [Red Dirt Road](https://open.spotify.com/track/5QHElgktygMkgRdpPhXfn2) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz) | [\#1s ..\. and then some](https://open.spotify.com/album/1ZXM9jY3Bsg12KXgwftBrO) | 4:20 |
-| 93 | [Famous In a Small Town](https://open.spotify.com/track/4oXOOBwZsHFnRRNBNXrr9X) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Crazy Ex\-Girlfriend](https://open.spotify.com/album/4y5aIMkIOdo6z1c8qsI6xb) | 4:05 |
-| 94 | [Rub A Little Dirt On It](https://open.spotify.com/track/5bY9b9fpvjI0qxFaBbY59Q) | [Randy Houser](https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB) | [Rub A Little Dirt On It](https://open.spotify.com/album/2YrqT4unDLB3Pu1ytCoEHV) | 2:44 |
+| 93 | [Rub A Little Dirt On It](https://open.spotify.com/track/5bY9b9fpvjI0qxFaBbY59Q) | [Randy Houser](https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB) | [Rub A Little Dirt On It](https://open.spotify.com/album/2YrqT4unDLB3Pu1ytCoEHV) | 2:44 |
+| 94 | [Famous In a Small Town](https://open.spotify.com/track/4oXOOBwZsHFnRRNBNXrr9X) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Crazy Ex\-Girlfriend](https://open.spotify.com/album/4y5aIMkIOdo6z1c8qsI6xb) | 4:05 |
 | 95 | [Summertime](https://open.spotify.com/track/30ZGbfPsjDNCgL21Qzciuj) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Greatest Hits II](https://open.spotify.com/album/2d4eS9a7DRTlfeTKVJQ0kr) | 3:26 |
 | 96 | [Mayberry](https://open.spotify.com/track/04rZkq3ihHmGNfKPgBiTX1) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Melt](https://open.spotify.com/album/6kGMwYN1ChjX0yyhN7tDs2) | 4:32 |
 | 97 | [Hometown](https://open.spotify.com/track/2NqHZYzBWUHbbpDDgdGWJL) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Kane Brown](https://open.spotify.com/album/4hhvgHjPqUOAYkclDkhL2T) | 3:24 |
 | 98 | [I Called Mama](https://open.spotify.com/track/2oWuBmQtYMx3LEgahIsJvs) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Here On Earth](https://open.spotify.com/album/1txWLNMKiZ5K6ezFMtyjLM) | 3:32 |
 | 99 | [My Town](https://open.spotify.com/track/5M8oqeozsjPMSXbkjo0SyD) | [Montgomery Gentry](https://open.spotify.com/artist/3bGXaFVQLASmDMdjjeJr8a) | [Something To Be Proud Of: Best Of 1999\-2005](https://open.spotify.com/album/5xPDOWC4cy0sS9FrF7HiHZ) | 4:45 |
-| 100 | [American Rust](https://open.spotify.com/track/2XkT5kbEEWPBJ99y7AadzM) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky) | [American Rust](https://open.spotify.com/album/66XAhQha2NZG3oP7jQTtjR) | 3:16 |
-| 101 | [Temporary Home](https://open.spotify.com/track/0d0tJF80562KcMndcBcSfM) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Play On](https://open.spotify.com/album/3iLrVuA1k7onNmZTuUQH4u) | 4:28 |
+| 100 | [Temporary Home](https://open.spotify.com/track/0d0tJF80562KcMndcBcSfM) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Play On](https://open.spotify.com/album/3iLrVuA1k7onNmZTuUQH4u) | 4:28 |
+| 101 | [American Rust](https://open.spotify.com/track/2XkT5kbEEWPBJ99y7AadzM) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky) | [American Rust](https://open.spotify.com/album/66XAhQha2NZG3oP7jQTtjR) | 3:16 |
 | 102 | [Where Corn Don't Grow](https://open.spotify.com/track/6KFGzQWTcemjtFgjN9yCBf) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [The Restless Kind](https://open.spotify.com/album/4DAKrRaNrLQvATy0UO4SUJ) | 3:28 |
 | 103 | [Something Like That](https://open.spotify.com/track/1zG6cEmeo4rv7Old8XD7vC) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Number One Hits](https://open.spotify.com/album/1ckBGyrkltenXO6WNFkqxj) | 3:03 |
 | 104 | [It’s America](https://open.spotify.com/track/6QbcLktLNe7eYqh8TjZeCd) | [Rodney Atkins](https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2) | [It's America](https://open.spotify.com/album/1bWrDfZLiqzpac2iNiFAJH) | 3:33 |
 
-Snapshot ID: `MTY2MjY5NjAwMCwwMDAwMDAwMDI4ZGViMjQyZDU5NDNkNDMzODQ1MzJkNTE5ZDA5MGY4`
+Snapshot ID: `MTY2MjY5NjAwMCwwMDAwMDAwMDBmMzJiYzczOGIyMzAxM2ZjMTEyYWEwMWFkMWRlOGNm`

@@ -4,7 +4,7 @@
 
 > Relaxing Jazz on a warm summer day.
 
-174 songs - 11 hr 24 min - [published](https://open.spotify.com/playlist/66JAt3sdiNPtvzJv9rg7XC)
+176 songs - 11 hr 33 min - [published](https://open.spotify.com/playlist/66JAt3sdiNPtvzJv9rg7XC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [My Ideal](https://open.spotify.com/track/6G0UnjCnn674okDwLhYR6W) | [The Bob Davis Group](https://open.spotify.com/artist/1lfkgC6uwLGN8qsvoaRgzT) | [My Ideal](https://open.spotify.com/album/1VPyA2gRCqIEGIXf2wtOQ9) | 3:27 | 2022-02-16 |  |
 | [My Romance](https://open.spotify.com/track/4kjKUNTgMPWnzAD00cpd91) | [Ballroom Jazz Collective](https://open.spotify.com/artist/0i7Yh2vJ2r5pMEMUjgntGL) | [My Romance](https://open.spotify.com/album/0qoXES4Bc1uLeVjahn6ypA) | 3:48 | 2022-02-16 | 2022-05-04 |
 | [Namely You](https://open.spotify.com/track/29naPagLSF8eIFdJXgBmVi) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [Newk's Time](https://open.spotify.com/album/61ZMZem0tvxv63NqN8mesY) | 3:18 | 2022-02-16 |  |
+| [Never in Nevada](https://open.spotify.com/track/5AZsC9Qv221OunU8yTo12V) | [Philip & Friends](https://open.spotify.com/artist/0RZuTZ0nzO9iMDvGSv6kyB) | [Never in Nevada](https://open.spotify.com/album/2Hi0U5Wq2upDnIyBS1JMhM) | 4:34 | 2022-09-20 |  |
 | [Notes and Nights](https://open.spotify.com/track/6Jpxh4o4RypOIfqfxwC4Gp) | [Tate Jackson Trio](https://open.spotify.com/artist/2xOmrHsNNnSQQwav65tSwZ) | [Notes and Nights](https://open.spotify.com/album/4GfxolUrEhXLPHHOtcKxh4) | 3:04 | 2022-06-28 |  |
 | [O Morro Nao Tem Vez](https://open.spotify.com/track/7GzGoTxCzyrPPEVmdiLnkt) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Luiz Bonfá](https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb) | [The Girl From Ipanema \- The Bossa Nova Years](https://open.spotify.com/album/4I26wT2bckDbv8Xl5iVInQ) | 6:52 | 2022-02-16 |  |
 | [Oh So Sweet](https://open.spotify.com/track/2RfCPlpFKP0onHwvYZmpgV) | [The Boston Four](https://open.spotify.com/artist/2vRbMto00LAZjdA2s227Sl) | [Oh So Sweet](https://open.spotify.com/album/1u1MqTmOjUYbOG5a8i6jSZ) | 3:43 | 2022-08-16 |  |
@@ -116,6 +117,7 @@
 | [Over Here](https://open.spotify.com/track/5XLasheriaLTs6momYfB9n) | [Hara Noda](https://open.spotify.com/artist/6ezFSYpcIHmJfQ0ZrGQmyh) | [The Silver Lining](https://open.spotify.com/album/1clbyCl11JZL9cV00ldsVY) | 3:49 | 2022-08-10 |  |
 | [Pathfinding](https://open.spotify.com/track/3crZQxfAscJX4GLbmiV4F7) | [Theo Rollins](https://open.spotify.com/artist/60QiTTvsk3chyatkaryUFL) | [Pathfinding](https://open.spotify.com/album/4LjNSnWXsDOgaE7YK20BSF) | 3:10 | 2022-02-16 |  |
 | [Paul's Pal \- Rudy Van Gelder Remaster](https://open.spotify.com/track/6a7RptxOL7EiTs0WNCjpeZ) | [Sonny Rollins Quartet](https://open.spotify.com/artist/2mlKlEmxOO3vb6DqopDh4H) | [Tenor Madness](https://open.spotify.com/album/5qczcj3TPA0gqcsCUTbL7Q) | 5:10 | 2022-02-16 |  |
+| [Pensativa](https://open.spotify.com/track/1QVNZXoguyS3bBzMldMn7i) | [Gene Hart Trio](https://open.spotify.com/artist/5iUzoJfVuTECa0aM3nCCCh) | [I'm Glad There's You](https://open.spotify.com/album/77AOGNjcrBXivWuex9jHmc) | 4:47 | 2022-09-20 |  |
 | [Prohibido](https://open.spotify.com/track/1KMCGNXS9HjyOZnuyJrn7N) | [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32) | [Additions To Further Definitions](https://open.spotify.com/album/7xZfgQPKxnmAAt6mLTTSVb) | 3:20 | 2022-06-28 |  |
 | [Prohibido](https://open.spotify.com/track/2dHvFDMGGLzQFIKuRngSA7) | [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32) | [Further Definitions](https://open.spotify.com/album/4HSABxiXhFWk3UQrCzloLz) | 3:20 | 2022-02-16 | 2022-07-29 |
 | [Recorda Me](https://open.spotify.com/track/3KUSSxjujFcEGhnsm0qeDo) | [Joe Henderson](https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt) | [Page One](https://open.spotify.com/album/7mQGTuvmdp56DNz0AmMwWi) | 6:01 | 2022-02-16 | 2022-05-04 |

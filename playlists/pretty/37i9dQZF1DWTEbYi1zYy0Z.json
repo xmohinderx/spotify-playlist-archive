@@ -1,12 +1,12 @@
 {
   "description": "The freshest smooth jazz. Cover: Nick Colionne",
-  "num_followers": 36020,
+  "num_followers": 36052,
   "original_name": "Nu-Smooth",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMwMDg2MCwwMDAwMDAwMGJhYWE2Zjk3ZDgxMDU0ZWU3YWJjYjliYjNjMTdkNDdh",
+  "snapshot_id": "MTY2MzMwMDg2MCwwMDAwMDAwMDZiYWQwNTIwZWEwMDk1Y2ExMjRkZjI2MTkxOWY1YTUz",
   "tracks": [
     {
       "added_at": "2022-08-12 04:02:00",
@@ -433,6 +433,22 @@
       "url": "https://open.spotify.com/track/1P0QSIHqHQVMQXsm7zX1c6"
     },
     {
+      "added_at": "2022-05-13 04:02:00",
+      "album": {
+        "name": "Savoir Faire",
+        "url": "https://open.spotify.com/album/4LHZJCWjESiatRHwjjNlGp"
+      },
+      "artists": [
+        {
+          "name": "Najee",
+          "url": "https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3"
+        }
+      ],
+      "duration_ms": 318733,
+      "name": "Savoir Faire",
+      "url": "https://open.spotify.com/track/1TOR7FOoECmAgHgFvyzM6i"
+    },
+    {
       "added_at": "2022-07-01 04:02:00",
       "album": {
         "name": "Stride",
@@ -463,22 +479,6 @@
       "duration_ms": 249262,
       "name": "Relentless",
       "url": "https://open.spotify.com/track/3S7QaZDPqc14xWObHGVfyk"
-    },
-    {
-      "added_at": "2022-05-13 04:02:00",
-      "album": {
-        "name": "Savoir Faire",
-        "url": "https://open.spotify.com/album/4LHZJCWjESiatRHwjjNlGp"
-      },
-      "artists": [
-        {
-          "name": "Najee",
-          "url": "https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3"
-        }
-      ],
-      "duration_ms": 318733,
-      "name": "Savoir Faire",
-      "url": "https://open.spotify.com/track/1TOR7FOoECmAgHgFvyzM6i"
     },
     {
       "added_at": "2022-05-20 04:02:00",
@@ -769,6 +769,22 @@
       "url": "https://open.spotify.com/track/108rbeIEFrj81JWNXXWsX4"
     },
     {
+      "added_at": "2022-09-09 04:01:00",
+      "album": {
+        "name": "Hello Beautiful",
+        "url": "https://open.spotify.com/album/1NXp9ZbxAhtxyMrnIV7PoM"
+      },
+      "artists": [
+        {
+          "name": "Blair Bryant",
+          "url": "https://open.spotify.com/artist/1bNvtqK9g0M2hDWRLdwpZq"
+        }
+      ],
+      "duration_ms": 268538,
+      "name": "Hello Beautiful - radio single",
+      "url": "https://open.spotify.com/track/2uhzjs4LLyyQdhCbYWFyFp"
+    },
+    {
       "added_at": "2022-01-14 05:01:00",
       "album": {
         "name": "Run Through the Urban City",
@@ -791,22 +807,6 @@
       "duration_ms": 369000,
       "name": "Run Through the Urban City",
       "url": "https://open.spotify.com/track/5gOXsqoOraGd2mqEMj0LIw"
-    },
-    {
-      "added_at": "2022-09-09 04:01:00",
-      "album": {
-        "name": "Hello Beautiful",
-        "url": "https://open.spotify.com/album/1NXp9ZbxAhtxyMrnIV7PoM"
-      },
-      "artists": [
-        {
-          "name": "Blair Bryant",
-          "url": "https://open.spotify.com/artist/1bNvtqK9g0M2hDWRLdwpZq"
-        }
-      ],
-      "duration_ms": 268538,
-      "name": "Hello Beautiful - radio single",
-      "url": "https://open.spotify.com/track/2uhzjs4LLyyQdhCbYWFyFp"
     },
     {
       "added_at": "2022-05-20 04:02:00",
@@ -865,20 +865,20 @@
       "url": "https://open.spotify.com/track/4SHv5Chn9bYy55YtUzwmqF"
     },
     {
-      "added_at": "2022-07-01 04:02:00",
+      "added_at": "2022-06-03 04:02:00",
       "album": {
-        "name": "Honest",
-        "url": "https://open.spotify.com/album/4masdetfPsUOpFF2yJ7EVB"
+        "name": "I Wanna Be Down",
+        "url": "https://open.spotify.com/album/1yaQNIXtz4BhOMzwKBS5IQ"
       },
       "artists": [
         {
-          "name": "Ryan Montano",
-          "url": "https://open.spotify.com/artist/60c1zWUz1UhsnemRwziySF"
+          "name": "Nathan Allen",
+          "url": "https://open.spotify.com/artist/6IRnIHHQ6Fj5bEsGkHH2Ce"
         }
       ],
-      "duration_ms": 374536,
-      "name": "Honest",
-      "url": "https://open.spotify.com/track/3GJ5EcLudl4JrUld9sfD7o"
+      "duration_ms": 294252,
+      "name": "I Wanna Be Down",
+      "url": "https://open.spotify.com/track/4cxZb1OMmlLdGoZYTJegDL"
     }
   ],
   "unique_name": "Nu-Smooth",

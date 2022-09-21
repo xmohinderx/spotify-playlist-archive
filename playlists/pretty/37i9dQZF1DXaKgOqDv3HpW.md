@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKgOqDv3HpW.md) - [plain]
 
 > Respira, inspira..\. Uma seleção musical ideal para você relaxar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 724,940 likes - 175 songs - 8 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 724,958 likes - 175 songs - 8 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

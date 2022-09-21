@@ -4,7 +4,7 @@
 
 > This is Akari Kito\. The essential tracks, all in one playlist.
 
-38 songs - 2 hr 36 min - [published](https://open.spotify.com/playlist/2QLQcLJZETqsNf96r3ofWm)
+39 songs - 2 hr 41 min - [published](https://open.spotify.com/playlist/2QLQcLJZETqsNf96r3ofWm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,8 @@
 | [Esquisse](https://open.spotify.com/track/3ntiFciUGTZcTzheQz56h9) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Esquisse](https://open.spotify.com/album/4pVpioTvYdQ01Dt9u4INXw) | 5:08 | 2022-09-16 |  |
 | [Esquisse](https://open.spotify.com/track/7aWBulbCFKjBPmY9AOJmhc) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Esquisse](https://open.spotify.com/album/49EXGjFz7XT2UeSqyb2W7H) | 5:08 | 2022-09-15 | 2022-09-17 |
 | [Fly\-High\-Five!](https://open.spotify.com/track/0jMIYKjbGzbWBWBqU34nZc) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [STYLE](https://open.spotify.com/album/2QFDuTNbTa8HGukQx4e5bL) | 4:24 | 2022-06-09 |  |
-| [Follow me!](https://open.spotify.com/track/53VABfq0LKJa6Ru7ZNaZAi) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Kaleidoscope](https://open.spotify.com/album/7sUJB7RcSlzbww6NLR3TyU) | 4:22 | 2022-06-09 |  |
+| [Follow me!](https://open.spotify.com/track/3zY59yGG3JzTUUr6657zd0) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Kaleidoscope](https://open.spotify.com/album/3TyoqTtXHujGQBJ9LAA32n) | 4:22 | 2022-09-20 |  |
+| [Follow me!](https://open.spotify.com/track/53VABfq0LKJa6Ru7ZNaZAi) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Kaleidoscope](https://open.spotify.com/album/7sUJB7RcSlzbww6NLR3TyU) | 4:22 | 2022-06-09 | 2022-09-21 |
 | [Haremachinote](https://open.spotify.com/track/7Dqkjap4ckvMiDYoPnO0aU) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Michikusa](https://open.spotify.com/album/4lHjeSfvndzpJcpUQBPYRS) | 4:37 | 2022-06-09 |  |
 | [INNOCENT](https://open.spotify.com/track/3feBsvcacgOruGJDwV2Ev6) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [STYLE](https://open.spotify.com/album/2QFDuTNbTa8HGukQx4e5bL) | 4:01 | 2022-06-16 | 2022-09-19 |
 | [Kimi no Tonaride](https://open.spotify.com/track/38LULZ1VrM0u9p13WT7JlZ) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Kimi no Tonaride](https://open.spotify.com/album/23CWIjCLZrE3FfZbCRQ90A) | 4:34 | 2022-06-09 |  |

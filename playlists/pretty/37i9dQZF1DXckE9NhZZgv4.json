@@ -1,12 +1,12 @@
 {
   "description": "Let's make this a day and night to remember. ",
-  "num_followers": 17700,
+  "num_followers": 17761,
   "original_name": "Bachelorette Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjQ1NTMyMiwwMDAwMDAwMDZhOTg5ZjJhNzJhYzllNmFjZjNiZWZhYjY3NWM3ZWMz",
+  "snapshot_id": "MTY1MjQ1NTMyMiwwMDAwMDAwMGQ2MTY1MTEwZDgxYTBhZTdiYzljNjg4ZjlmM2IzY2Q4",
   "tracks": [
     {
       "added_at": "2022-05-10 20:49:49",
@@ -439,22 +439,6 @@
     {
       "added_at": "2022-05-10 20:49:49",
       "album": {
-        "name": "Animal (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F"
-      },
-      "artists": [
-        {
-          "name": "Kesha",
-          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
-        }
-      ],
-      "duration_ms": 199693,
-      "name": "TiK ToK",
-      "url": "https://open.spotify.com/track/0HPD5WQqrq7wPWR7P7Dw1i"
-    },
-    {
-      "added_at": "2022-05-10 20:49:49",
-      "album": {
         "name": "This Is What You Came For",
         "url": "https://open.spotify.com/album/3pEgGUv379EDinvg1TN7Kt"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 222160,
       "name": "This Is What You Came For",
       "url": "https://open.spotify.com/track/0azC730Exh71aQlOt9Zj3y"
+    },
+    {
+      "added_at": "2022-05-10 20:49:49",
+      "album": {
+        "name": "Animal (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F"
+      },
+      "artists": [
+        {
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+        }
+      ],
+      "duration_ms": 199693,
+      "name": "TiK ToK",
+      "url": "https://open.spotify.com/track/0HPD5WQqrq7wPWR7P7Dw1i"
     },
     {
       "added_at": "2022-05-10 20:49:49",
@@ -747,22 +747,6 @@
     {
       "added_at": "2022-05-10 20:49:49",
       "album": {
-        "name": "Warrior (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5ZQB1ZQ2Yx9YT3nZlR2Pgu"
-      },
-      "artists": [
-        {
-          "name": "Kesha",
-          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
-        }
-      ],
-      "duration_ms": 211920,
-      "name": "Die Young",
-      "url": "https://open.spotify.com/track/7EQGXaVSyEDsCWKmUcfpLk"
-    },
-    {
-      "added_at": "2022-05-10 20:49:49",
-      "album": {
         "name": "What You See Is What You Get",
         "url": "https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 186733,
       "name": "Beer Never Broke My Heart",
       "url": "https://open.spotify.com/track/7aEtlGHoiPAfRB084NiDmx"
+    },
+    {
+      "added_at": "2022-05-10 20:49:49",
+      "album": {
+        "name": "Warrior (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5ZQB1ZQ2Yx9YT3nZlR2Pgu"
+      },
+      "artists": [
+        {
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+        }
+      ],
+      "duration_ms": 211920,
+      "name": "Die Young",
+      "url": "https://open.spotify.com/track/7EQGXaVSyEDsCWKmUcfpLk"
     },
     {
       "added_at": "2022-05-10 20:49:49",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2022-05-10 20:49:49",
       "album": {
-        "name": "777",
-        "url": "https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 172540,
-      "name": "Big Energy",
-      "url": "https://open.spotify.com/track/4pi1G1x8tl9VfdD9bL3maT"
-    },
-    {
-      "added_at": "2022-05-10 20:49:49",
-      "album": {
         "name": "La 167",
         "url": "https://open.spotify.com/album/0T6QxdJZwYrXPHd829SnqK"
       },
@@ -1095,6 +1079,22 @@
     {
       "added_at": "2022-05-10 20:49:49",
       "album": {
+        "name": "777",
+        "url": "https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 172540,
+      "name": "Big Energy",
+      "url": "https://open.spotify.com/track/4pi1G1x8tl9VfdD9bL3maT"
+    },
+    {
+      "added_at": "2022-05-10 20:49:49",
+      "album": {
         "name": "Cuz I Love You",
         "url": "https://open.spotify.com/album/6dFFcYQ8VhifgdKgYY5LYL"
       },
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2022-05-10 20:49:49",
       "album": {
-        "name": "Laundry Service",
-        "url": "https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 196160,
-      "name": "Whenever, Wherever",
-      "url": "https://open.spotify.com/track/2lnzGkdtDj5mtlcOW2yRtG"
-    },
-    {
-      "added_at": "2022-05-10 20:49:49",
-      "album": {
         "name": "Nellyville",
         "url": "https://open.spotify.com/album/4HUUHHXBXImwksfbSPqE7q"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 228240,
       "name": "Hot In Herre",
       "url": "https://open.spotify.com/track/04KTF78FFg8sOHC1BADqbY"
+    },
+    {
+      "added_at": "2022-05-10 20:49:49",
+      "album": {
+        "name": "Laundry Service",
+        "url": "https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 196160,
+      "name": "Whenever, Wherever",
+      "url": "https://open.spotify.com/track/2lnzGkdtDj5mtlcOW2yRtG"
     },
     {
       "added_at": "2022-05-10 20:49:49",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5IRdCjOHb6RwaIl1PaomPV.md) - [plain]
 
 > The latest tracks from Mad Decent and friends\. New Life and Death remixes of Diplo, plus the latest cuts from NxxxxxS, Lolahol, TDJ, niina, Ayra Star, and more.
 
-[Mad Decent](https://open.spotify.com/user/maddecent) - 51,477 likes - 63 songs - 4 hr 6 min
+[Mad Decent](https://open.spotify.com/user/maddecent) - 51,475 likes - 63 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

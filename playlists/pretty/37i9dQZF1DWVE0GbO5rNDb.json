@@ -1,12 +1,12 @@
 {
   "description": "Musica dance per le tue giornate di sole!",
-  "num_followers": 91619,
+  "num_followers": 91615,
   "original_name": "Voglia di Sole",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ4NjUyMCwwMDAwMDAwMDA0NmEwNjFhNWVkNjRlYjU3NzhkYmNjYjcxNDEyMmQy",
+  "snapshot_id": "MTY2MTQ4NjUyMCwwMDAwMDAwMGJjODFlMzljZjEzOThmNDI2OWI2ZTFmNzJjNzQzOGY0",
   "tracks": [
     {
       "added_at": "2022-08-26 04:02:00",
@@ -855,22 +855,6 @@
     {
       "added_at": "2022-08-26 04:02:00",
       "album": {
-        "name": "Summer 91 (Looking Back)",
-        "url": "https://open.spotify.com/album/4QCh5emLRWuIg8CUzprNXm"
-      },
-      "artists": [
-        {
-          "name": "Noizu",
-          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Summer 91 (Looking Back)",
-      "url": "https://open.spotify.com/track/4FEcEwbE2vsqhxbTPtiNTL"
-    },
-    {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
         "name": "Summer Feelings (feat. Charlie Puth)",
         "url": "https://open.spotify.com/album/4D9M4nzQ9kvchgxyQyymtW"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 182564,
       "name": "Run Into Trouble",
       "url": "https://open.spotify.com/track/5C2mUkFTs51bizl4LAaqRy"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "Summer 91 (Looking Back)",
+        "url": "https://open.spotify.com/album/4QCh5emLRWuIg8CUzprNXm"
+      },
+      "artists": [
+        {
+          "name": "Noizu",
+          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Summer 91 (Looking Back)",
+      "url": "https://open.spotify.com/track/4FEcEwbE2vsqhxbTPtiNTL"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -1175,26 +1175,6 @@
     {
       "added_at": "2022-08-26 04:02:00",
       "album": {
-        "name": "Leave A Little Love",
-        "url": "https://open.spotify.com/album/7x6hV80YBk3pWE4of9Q23y"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        }
-      ],
-      "duration_ms": 187029,
-      "name": "Leave A Little Love",
-      "url": "https://open.spotify.com/track/5pmbZWt1lYVMvZ12MSdtqF"
-    },
-    {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
         "name": "Diplo Presents Thomas Wesley Chapter 1: Snake Oil",
         "url": "https://open.spotify.com/album/24EiVoJXLPY9a6a7AqZNDg"
       },
@@ -1211,6 +1191,26 @@
       "duration_ms": 139809,
       "name": "Lonely (with Jonas Brothers)",
       "url": "https://open.spotify.com/track/6eXFl418w8hsxKcLgv1jwJ"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "Leave A Little Love",
+        "url": "https://open.spotify.com/album/7x6hV80YBk3pWE4of9Q23y"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        }
+      ],
+      "duration_ms": 187029,
+      "name": "Leave A Little Love",
+      "url": "https://open.spotify.com/track/5pmbZWt1lYVMvZ12MSdtqF"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -1347,26 +1347,6 @@
     {
       "added_at": "2022-08-26 04:02:00",
       "album": {
-        "name": "Breathe (feat. kaspara)",
-        "url": "https://open.spotify.com/album/5MYFonEyI51lu0JHBpSRfK"
-      },
-      "artists": [
-        {
-          "name": "Syn Cole",
-          "url": "https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH"
-        },
-        {
-          "name": "Kaspara",
-          "url": "https://open.spotify.com/artist/4DTvSNQv43222tg1K7C8k2"
-        }
-      ],
-      "duration_ms": 175081,
-      "name": "Breathe (feat. kaspara)",
-      "url": "https://open.spotify.com/track/7pDdE5FLqcNCvjxzRzm80r"
-    },
-    {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
         "name": "Live For",
         "url": "https://open.spotify.com/album/075Aglr1S2AQZRNKv13Ho7"
       },
@@ -1383,6 +1363,26 @@
       "duration_ms": 171433,
       "name": "Live For",
       "url": "https://open.spotify.com/track/0F9fZwEu2cWSgqoRWzAtAS"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "Breathe (feat. kaspara)",
+        "url": "https://open.spotify.com/album/5MYFonEyI51lu0JHBpSRfK"
+      },
+      "artists": [
+        {
+          "name": "Syn Cole",
+          "url": "https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH"
+        },
+        {
+          "name": "Kaspara",
+          "url": "https://open.spotify.com/artist/4DTvSNQv43222tg1K7C8k2"
+        }
+      ],
+      "duration_ms": 175081,
+      "name": "Breathe (feat. kaspara)",
+      "url": "https://open.spotify.com/track/7pDdE5FLqcNCvjxzRzm80r"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2022-08-26 04:02:00",
       "album": {
-        "name": "Both Of Us",
-        "url": "https://open.spotify.com/album/6tKMQ3udmP1PErZYHKXnqA"
-      },
-      "artists": [
-        {
-          "name": "Jayda G",
-          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
-        }
-      ],
-      "duration_ms": 229424,
-      "name": "Both Of Us - Edit",
-      "url": "https://open.spotify.com/track/75rGONmoi48LLYBFaGiYsv"
-    },
-    {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
         "name": "Runaway (with Sigala and JP Cooper)",
         "url": "https://open.spotify.com/album/3ZdVOcrDeEyQt9UNPubYgo"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 168196,
       "name": "Runaway (with Sigala and JP Cooper)",
       "url": "https://open.spotify.com/track/6tS1Fm9z3UKuLSxrinY3pC"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "Both Of Us",
+        "url": "https://open.spotify.com/album/6tKMQ3udmP1PErZYHKXnqA"
+      },
+      "artists": [
+        {
+          "name": "Jayda G",
+          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
+        }
+      ],
+      "duration_ms": 229424,
+      "name": "Both Of Us - Edit",
+      "url": "https://open.spotify.com/track/75rGONmoi48LLYBFaGiYsv"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -1819,6 +1819,22 @@
     {
       "added_at": "2022-08-26 04:02:00",
       "album": {
+        "name": "Why Do I Call",
+        "url": "https://open.spotify.com/album/5eNuYTGzaZ36i04rdcz3bN"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 158958,
+      "name": "Why Do I Call",
+      "url": "https://open.spotify.com/track/7sRjDSJ5Vp3xC669buQVGi"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
         "name": "Make You Feel Like",
         "url": "https://open.spotify.com/album/4YWN7kOFGK0z8XWluklKtU"
       },
@@ -1839,22 +1855,6 @@
     {
       "added_at": "2022-08-26 04:02:00",
       "album": {
-        "name": "Why Do I Call",
-        "url": "https://open.spotify.com/album/5eNuYTGzaZ36i04rdcz3bN"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 158958,
-      "name": "Why Do I Call",
-      "url": "https://open.spotify.com/track/7sRjDSJ5Vp3xC669buQVGi"
-    },
-    {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
         "name": "Behind the Moon",
         "url": "https://open.spotify.com/album/1qCOccM3lTlzp2G6ZpJto9"
       },
@@ -1871,6 +1871,26 @@
       "duration_ms": 164919,
       "name": "Behind the Moon",
       "url": "https://open.spotify.com/track/0kRU3miiIJCzGkviEwU90m"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "Shadow",
+        "url": "https://open.spotify.com/album/6gBdU9KlMWSrqM3rkuZyY0"
+      },
+      "artists": [
+        {
+          "name": "Syn Cole",
+          "url": "https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH"
+        },
+        {
+          "name": "Alida",
+          "url": "https://open.spotify.com/artist/1kiq2kUV0cbLUhJsr7cpW0"
+        }
+      ],
+      "duration_ms": 166572,
+      "name": "Shadow",
+      "url": "https://open.spotify.com/track/102rhgJ5PEFt62e0PumSF2"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -1899,22 +1919,22 @@
     {
       "added_at": "2022-08-26 04:02:00",
       "album": {
-        "name": "Shadow",
-        "url": "https://open.spotify.com/album/6gBdU9KlMWSrqM3rkuZyY0"
+        "name": "Only For The Better",
+        "url": "https://open.spotify.com/album/2YCkfABSqmSv2hW2v9w3Vl"
       },
       "artists": [
         {
-          "name": "Syn Cole",
-          "url": "https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH"
+          "name": "John De Sohn",
+          "url": "https://open.spotify.com/artist/3TVjdmhfFoYJLgBEkkZTBm"
         },
         {
-          "name": "Alida",
-          "url": "https://open.spotify.com/artist/1kiq2kUV0cbLUhJsr7cpW0"
+          "name": "Ericka Jane",
+          "url": "https://open.spotify.com/artist/1L4HGLMFRrJsAnug5M7slL"
         }
       ],
-      "duration_ms": 166572,
-      "name": "Shadow",
-      "url": "https://open.spotify.com/track/102rhgJ5PEFt62e0PumSF2"
+      "duration_ms": 168297,
+      "name": "Only For The Better",
+      "url": "https://open.spotify.com/track/2XI5yPRHlAg2a2xZtlTbpI"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -1939,26 +1959,6 @@
       "duration_ms": 158354,
       "name": "The Best",
       "url": "https://open.spotify.com/track/1OU3OPHczBcfFU8cDzSzKT"
-    },
-    {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
-        "name": "Only For The Better",
-        "url": "https://open.spotify.com/album/2YCkfABSqmSv2hW2v9w3Vl"
-      },
-      "artists": [
-        {
-          "name": "John De Sohn",
-          "url": "https://open.spotify.com/artist/3TVjdmhfFoYJLgBEkkZTBm"
-        },
-        {
-          "name": "Ericka Jane",
-          "url": "https://open.spotify.com/artist/1L4HGLMFRrJsAnug5M7slL"
-        }
-      ],
-      "duration_ms": 168297,
-      "name": "Only For The Better",
-      "url": "https://open.spotify.com/track/2XI5yPRHlAg2a2xZtlTbpI"
     },
     {
       "added_at": "2022-08-26 04:02:00",

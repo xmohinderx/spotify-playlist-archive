@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Sweden.
 
-993 songs - 2 day 4 hr 27 min - [published](https://open.spotify.com/playlist/5P2yiuo1XuPDWVYvCs1X7X)
+994 songs - 2 day 4 hr 29 min - [published](https://open.spotify.com/playlist/5P2yiuo1XuPDWVYvCs1X7X)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,7 +137,7 @@
 | [Bumblebee](https://open.spotify.com/track/4dmSIn2DxtfX1rySnUDamj) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Voyage](https://open.spotify.com/album/0uUtGVj0y9FjfKful7cABY) | 3:57 | 2021-11-07 | 2021-11-11 |
 | [Butter](https://open.spotify.com/track/3VqeTFIvhxu3DIe4eZVzGq) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Butter](https://open.spotify.com/album/2BDhPi2XCYujYxU6VM0QaD) | 2:44 | 2021-05-23 | 2021-06-06 |
 | [By Your Side \(feat\. Tom Grennan\)](https://open.spotify.com/track/0vR2rIVORmgeKiGIgNT0fV) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [By Your Side \(feat\. Tom Grennan\)](https://open.spotify.com/album/6Z6QdCXb3IBonAUSwLP4iB) | 3:09 | 2021-06-06 | 2021-06-22 |
-| [Bästis Festis](https://open.spotify.com/track/6xjKLvdIXKA3mXDZUsMmPC) | [Lov1](https://open.spotify.com/artist/2kSCHFK5uErN4BO7IkTrHK) | [Bästis Festis](https://open.spotify.com/album/2KjDSl0pA1On4JX6G9qjX6) | 2:26 | 2022-08-20 |  |
+| [Bästis Festis](https://open.spotify.com/track/6xjKLvdIXKA3mXDZUsMmPC) | [Lov1](https://open.spotify.com/artist/2kSCHFK5uErN4BO7IkTrHK) | [Bästis Festis](https://open.spotify.com/album/2KjDSl0pA1On4JX6G9qjX6) | 2:26 | 2022-08-20 | 2022-09-21 |
 | [Call Me Little Sunshine](https://open.spotify.com/track/4W6MuwB3D4fjc0kLlUKZEl) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Call Me Little Sunshine](https://open.spotify.com/album/0K1mTbmQQ6pcVLoxgk6WMq) | 4:44 | 2022-01-22 | 2022-01-24 |
 | [Call Me Little Sunshine](https://open.spotify.com/track/4xAmbn7xiy6wGOs4oaxv70) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [IMPERA](https://open.spotify.com/album/3fn4HfVz5dhmE0PG24rh6h) | 4:44 | 2022-03-12 | 2022-03-14 |
 | [Can I Get It](https://open.spotify.com/track/6w8ZPYdnGajyfPddTWdthN) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:30 | 2021-11-21 | 2021-12-03 |
@@ -390,6 +390,7 @@
 | [HIT](https://open.spotify.com/track/6cxsZBG6pyWdwFvsuvRLcN) | [1.Cuz](https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr) | [HIT](https://open.spotify.com/album/5H1qCWg1kaLodR8GAPlhkr) | 2:29 | 2022-07-16 | 2022-07-22 |
 | [Hit the club](https://open.spotify.com/track/7aEoH0aL6hQEgRFwRb6fXb) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt) | [Barn av vår tid](https://open.spotify.com/album/1StOdefPDHrQiwQLm3teNm) | 2:31 | 2021-10-03 | 2021-10-18 |
 | [Hit the club](https://open.spotify.com/track/6qDoOONP41Jbt9qmQEkKuX) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt) | [Hit the club](https://open.spotify.com/album/4EGO6nnb3amwj6ovMY1arM) | 2:32 | 2021-08-22 | 2021-10-03 |
+| [Hjerteløs](https://open.spotify.com/track/5PzratDTUf07VyMKrGGxz3) | [El Papi](https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV) | [Hjerteløs](https://open.spotify.com/album/14EKNiLzDMZicYko6DBUFV) | 2:17 | 2022-09-20 |  |
 | [HKF \(Håll käften & försvinn\)](https://open.spotify.com/track/2YjWAJEES4VMcwoOWvqk08) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [Bara hälften kvar](https://open.spotify.com/album/2XOBT3JlFI2ouu3I3yVnVT) | 3:10 | 2021-03-27\* | 2021-07-16 |
 | [Hold Me Closer](https://open.spotify.com/track/697bFWgzBRm6bmnYWd8GyD) | [Cornelia Jakobs](https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4) | [Hold Me Closer](https://open.spotify.com/album/0rRDqExu5jTJRRZtxJc3Ao) | 3:19 | 2022-02-28 | 2022-07-31 |
 | [Hold Me Closer](https://open.spotify.com/track/5TJEBoTCDbJXiKMdCN9pd3) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [The Lockdown Sessions](https://open.spotify.com/album/3O52AkvWUCF7MfkfLfnobb) | 3:22 | 2022-09-03 |  |
@@ -525,7 +526,7 @@
 | [Lifetime \(with Ty Dolla $ign & 070 Shake\)](https://open.spotify.com/track/3zQpGaH50HeMjxurMZVF6q) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Lifetime](https://open.spotify.com/album/4jFxIzyBN7JD5rwLT0chjg) | 3:06 | 2021-07-25 | 2021-08-06 |
 | [Light Switch](https://open.spotify.com/track/1BSMpVGWs3v5BZKnAQziAc) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Light Switch](https://open.spotify.com/album/6PBwTu4IgZMQNTKtrgxzZQ) | 3:05 | 2022-01-22 | 2022-02-06 |
 | [Like I Can](https://open.spotify.com/track/0mJBiaODgK0XjOLCN5fItq) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour \(Deluxe\)](https://open.spotify.com/album/6oSJciY7B2HlZPJpyR9nOR) | 2:47 | 2021-08-21 | 2021-10-17 |
-| [Lilla Nisse](https://open.spotify.com/track/3caeN4bneZW7GQAqwslu2U) | [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ) | [Einár](https://open.spotify.com/album/1LJeZmd25DaFGgjYDZzfVy) | 3:11 | 2022-06-07 | 2022-09-18 |
+| [Lilla Nisse](https://open.spotify.com/track/3caeN4bneZW7GQAqwslu2U) | [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ) | [Einár](https://open.spotify.com/album/1LJeZmd25DaFGgjYDZzfVy) | 3:11 | 2022-06-07 |  |
 | [Lillebror](https://open.spotify.com/track/4XrilgzGsMBrzAiUz3MePx) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY) | [DOM SKA VETA](https://open.spotify.com/album/48vIZKupNW6lDWwjCyCgeA) | 2:49 | 2021-05-09 | 2021-05-10 |
 | [Lita på mig](https://open.spotify.com/track/7pXLc2yBOVWnpc4FafRR85) | [Dree Low](https://open.spotify.com/artist/3tNPDodRNuLdezJnTsYOqy), [Adel](https://open.spotify.com/artist/3vHwJg9XHrACvX9ZlwV8pT) | [PRICELESS](https://open.spotify.com/album/6PxUXGR120hMiXAozmB29G) | 2:46 | 2021-03-27\* | 2021-03-27 |
 | [Liten&Lost](https://open.spotify.com/track/2K1p3thq7V9KerKSuOHAdI) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [Liten&Lost](https://open.spotify.com/album/7hyYLHFyCVJrkLx8113hWo) | 3:37 | 2021-08-29 | 2021-08-30 |
@@ -680,7 +681,7 @@
 | [Peru](https://open.spotify.com/track/4hJhHbkhZFnxmWbAkZRoe0) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Peru](https://open.spotify.com/album/5SLXbErenG3tJrVdIMpQHk) | 3:07 | 2021-12-27 | 2022-01-17 |
 | [Piece Of Me \(with LOVA\)](https://open.spotify.com/track/5mlNLzIdl6Ae2a4YRphSI4) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Piece Of Me \(with LOVA\)](https://open.spotify.com/album/3L5V3sfPdsd1SoSWzcW5Xb) | 3:22 | 2021-09-12 | 2021-09-13 |
 | [Plug Talk](https://open.spotify.com/track/0eXMADfYyg9DRiKbmKuAOu) | [Dree Low](https://open.spotify.com/artist/3tNPDodRNuLdezJnTsYOqy) | [PRICELESS](https://open.spotify.com/album/6PxUXGR120hMiXAozmB29G) | 2:19 | 2021-03-27\* | 2021-04-01 |
-| [POLERS](https://open.spotify.com/track/3L2N1sejA5EKPKB1JOHCsX) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [POLERS](https://open.spotify.com/album/0ABOpblTw4qpuhvZpIkbbj) | 3:13 | 2022-09-10 |  |
+| [POLERS](https://open.spotify.com/track/3L2N1sejA5EKPKB1JOHCsX) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [POLERS](https://open.spotify.com/album/0ABOpblTw4qpuhvZpIkbbj) | 3:13 | 2022-09-10 | 2022-09-21 |
 | [Police](https://open.spotify.com/track/3B903DhOIENm4wNq356KJj) | [1.Cuz](https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr) | [Police](https://open.spotify.com/album/23klDTxN5Qe2wuZ9ad1y37) | 2:43 | 2022-08-27 | 2022-09-04 |
 | [Pop Smoke](https://open.spotify.com/track/4N9RKF9hpWY7asYF0V72s6) | [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ), [Moewgli](https://open.spotify.com/artist/2QQcLziAzX1VdysI6Mvsl0), [5iftyy](https://open.spotify.com/artist/56hM6Y3Cw2g8xZOfZrHBuS) | [Unge Med Extra Energi](https://open.spotify.com/album/6WZR2h3rFvJH8DKq3oHt6T) | 2:53 | 2021-10-23 | 2021-10-26 |
 | [Poppis](https://open.spotify.com/track/0YdaLD97uhero6WpO4HfMe) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [Poppis](https://open.spotify.com/album/5abDAhJ618gaQ26XyMa8Bp) | 2:07 | 2022-02-12 | 2022-04-17 |

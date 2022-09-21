@@ -4,7 +4,7 @@
 
 > Chill\. The best indie tracks for just hanging out.
 
-508 songs - 1 day 7 hr 10 min - [published](https://open.spotify.com/playlist/41MzLqMCO3UL9HEUFZj7KO)
+509 songs - 1 day 7 hr 13 min - [published](https://open.spotify.com/playlist/41MzLqMCO3UL9HEUFZj7KO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,7 +156,7 @@
 | [Drive](https://open.spotify.com/track/0czTyG0fnI3ERVcVrUx8Ol) | [Glades](https://open.spotify.com/artist/14rP13jdQNgQvuPA2AkBgm) | [This Is What It's Like](https://open.spotify.com/album/7jJdFic5YXGnrFUjultwMf) | 3:07 | 2020-10-16 | 2022-04-20 |
 | [Drive](https://open.spotify.com/track/2kJqNHHGOzLNahukdvlDWN) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [Oh Wonder](https://open.spotify.com/album/37ABUtLPqktcopsBJ7jmXT) | 3:16 | 2020-10-16 |  |
 | [Drive Slow](https://open.spotify.com/track/13795WBWdWvQHCXeOPLCWQ) | [Calica](https://open.spotify.com/artist/1gi49JL4LNUMlylXm5Z0ZG) | [Drive Slow](https://open.spotify.com/album/16hoKJlZ0Y3kt7zJ5eIP7R) | 2:57 | 2021-06-15 | 2022-07-09 |
-| [Driving South](https://open.spotify.com/track/1Mp50vmIphq9ui2UUJoX3m) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3), [Blood Cultures](https://open.spotify.com/artist/1kDqy7SpqyJ7aZi7cqSBis) | [Santa Catalina](https://open.spotify.com/album/6wv8zT8vG5EICl083UHoVm) | 3:55 | 2022-03-07 |  |
+| [Driving South](https://open.spotify.com/track/1Mp50vmIphq9ui2UUJoX3m) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3), [Blood Cultures](https://open.spotify.com/artist/1kDqy7SpqyJ7aZi7cqSBis) | [Santa Catalina](https://open.spotify.com/album/6wv8zT8vG5EICl083UHoVm) | 3:55 | 2022-03-07 | 2022-09-21 |
 | [Each Time You Fall in Love](https://open.spotify.com/track/4Qj1zpjp5ZPria4BlKaCda) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/5OVcAB06ttNop0LKRUUKKD) | 4:50 | 2021-03-17 | 2022-04-21 |
 | [Early to the Party](https://open.spotify.com/track/7bHW6RpriqTGOla0Zdt3TZ) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [The Party](https://open.spotify.com/album/35FWLG8Ysjj1BF3sx4F6zM) | 4:05 | 2020-10-16 | 2022-04-20 |
 | [Eastside](https://open.spotify.com/track/7MTmPkKezlfu5imj1irLpH) | [DAISY](https://open.spotify.com/artist/7riIDkMpiCIuZUbLaScpQq) | [Eastside](https://open.spotify.com/album/3hHlsvOtGLxPdL0XJDQ1dM) | 5:34 | 2021-10-08 | 2022-05-12 |
@@ -232,6 +232,7 @@
 | [I Can't Speak](https://open.spotify.com/track/2DX5gNbz6dPpv9UJpFgHRh) | [La Luz](https://open.spotify.com/artist/6QRlkjrHz5A62mqeNZz7t3) | [Weirdo Shrine](https://open.spotify.com/album/6q4OSe8nsfQ6eHYETx7yis) | 3:03 | 2020-10-05\* | 2022-04-17 |
 | [I Don't Know](https://open.spotify.com/track/56PgQIFxAvXcEtXNYrsB0w) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [I Don't Know](https://open.spotify.com/album/0C0Oq2jJhJ4Rs6IwgCe0Ob) | 3:15 | 2020-10-05\* |  |
 | [I Dreamt We Spoke Again](https://open.spotify.com/track/0AHOqF7FKuOR7rSUIMQkWr) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [I Dreamt We Spoke Again](https://open.spotify.com/album/3NggszD6AO6baGJUz131Nr) | 3:04 | 2020-10-05\* | 2021-05-24 |
+| [I Hope to Be Around \(Live\)](https://open.spotify.com/track/1EOC47ETkQCedpxemcJpal) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Forever Live Sessions](https://open.spotify.com/album/4p73PcjJvWer7WDYXcGetn) | 3:46 | 2022-09-15 |  |
 | [I Lied \(with Allison Ponthier\)](https://open.spotify.com/track/7xQg5QTx8eiQnsxEnfynPh) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25), [Allison Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Long Lost](https://open.spotify.com/album/5xiePX6kXj5ZsmUsqIqzeD) | 3:54 | 2021-06-04 |  |
 | [I Need A Forest Fire](https://open.spotify.com/track/0TLAptKgYxe7F0KewWH6X6) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [The Colour In Anything](https://open.spotify.com/album/1WyrGCkFDlH1xPadZ5qTkL) | 4:17 | 2021-03-15 | 2022-04-20 |
 | [i need to be alone.](https://open.spotify.com/track/7LBfVMw4MNNGCLGmXeuDv6) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [i need to be alone.](https://open.spotify.com/album/3vqVKQSlZ2tl4Hj8MIftt3) | 2:56 | 2020-10-05\* | 2021-05-28 |

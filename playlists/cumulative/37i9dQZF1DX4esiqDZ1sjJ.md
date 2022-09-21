@@ -8,7 +8,6 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| ['Till I Collapse](https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [The Eminem Show](https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo) | 4:57 | 2016-06-15 |  |
 | [\(Don't Fear\) The Reaper](https://open.spotify.com/track/5QTxFnGygVM4jFQiBovmRo) | [Blue Öyster Cult](https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2) | [Agents Of Fortune](https://open.spotify.com/album/6C9WzlQANeoD0GW5B41YJt) | 5:08 | 2021-12-21 |  |
 | [6 Foot 7 Foot](https://open.spotify.com/track/6BCs8vxnGgKL9eMCOrG2wm) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Cory Gunz](https://open.spotify.com/artist/7BAaznGSsqcksud4R5ou5z) | [Tha Carter IV](https://open.spotify.com/album/1MGEMBqM3v8OUM2glv7MSx) | 4:08 | 2021-12-21 |  |
 | [A Milli](https://open.spotify.com/track/6ScJMrlpiLfZUGtWp4QIVt) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Tha Carter III](https://open.spotify.com/album/5BGzOpea6At0Nd7tYtYZOP) | 3:41 | 2021-12-21 | 2022-07-29 |
@@ -151,6 +150,7 @@
 | [Thnks fr th Mmrs](https://open.spotify.com/track/18GC3F8YPGB8CePXcTUizQ) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Infinity On High \(Deluxe Edition\)](https://open.spotify.com/album/03Og8YvbFYbe3hmr9MfZHT) | 3:23 | 2021-12-21 | 2022-07-29 |
 | [Thnks fr th Mmrs](https://open.spotify.com/track/3Zwu2K0Qa5sT6teCCHPShP) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Infinity On High](https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g) | 3:23 | 2022-01-05 |  |
 | [Thunderstruck](https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [The Razors Edge](https://open.spotify.com/album/4vu7F6h90Br1ZtYYaqfITy) | 4:52 | 2021-12-21 |  |
+| [Till I Collapse](https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [The Eminem Show](https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo) | 4:57 | 2016-06-15 |  |
 | [Tom Sawyer](https://open.spotify.com/track/3QZ7uX97s82HFYSmQUAN1D) | [Rush](https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq) | [Moving Pictures \(2011 Remaster\)](https://open.spotify.com/album/2xg7iIKoSqaDNpDbJnyCjY) | 4:36 | 2021-12-21 |  |
 | [Trophies](https://open.spotify.com/track/4DXTwvIbilf8AUncEjgg9W) | [Young Money](https://open.spotify.com/artist/5OrB6Jhhrl9y2PK0pSV4VP), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Rise Of An Empire](https://open.spotify.com/album/3FTlw7Neeg4UXOZexmBbGX) | 3:08 | 2021-12-21 | 2022-07-29 |
 | [Uprising](https://open.spotify.com/track/4VqPOruhp5EdPBeR92t6lQ) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [The Resistance](https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM) | 5:04 | 2021-12-21 |  |

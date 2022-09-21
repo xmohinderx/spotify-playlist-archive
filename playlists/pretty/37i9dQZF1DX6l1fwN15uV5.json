@@ -1,12 +1,12 @@
 {
   "description": "Take it easy with these laid back tracks from the eighties...",
-  "num_followers": 1181808,
+  "num_followers": 1181996,
   "original_name": "Easy 80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjUwNzAxMCwwMDAwMDAwMGM3Y2E1MzQ0ZjNkNGUxN2RiNDlhMzNkZmZlNDA4ZmU0",
+  "snapshot_id": "MTY0MjUwNzAxMCwwMDAwMDAwMDQ3N2FlZjhlYmNmNGNhNzA3ZWMxNDA2NDNlOTIzOTE1",
   "tracks": [
     {
       "added_at": "2020-07-08 17:45:56",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2020-07-08 17:45:56",
       "album": {
-        "name": "Ice On Fire",
-        "url": "https://open.spotify.com/album/0xuxPr53iRlhWCu7QqHH24"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 343240,
-      "name": "Nikita",
-      "url": "https://open.spotify.com/track/3G0ENKW9vzV0SuYKaWFflI"
-    },
-    {
-      "added_at": "2020-07-08 17:45:56",
-      "album": {
         "name": "Lost in Love",
         "url": "https://open.spotify.com/album/3fB2z5YtmKvSCu77Z3nTnW"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 243000,
       "name": "All Out of Love",
       "url": "https://open.spotify.com/track/7dQC53NiYOY9gKg3Qsu2Bs"
+    },
+    {
+      "added_at": "2020-07-08 17:45:56",
+      "album": {
+        "name": "Ice On Fire",
+        "url": "https://open.spotify.com/album/0xuxPr53iRlhWCu7QqHH24"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 343240,
+      "name": "Nikita",
+      "url": "https://open.spotify.com/track/3G0ENKW9vzV0SuYKaWFflI"
     },
     {
       "added_at": "2020-07-08 17:45:56",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1BcGDqSxiaP.md) - [plain]
 
 > Releases from the legendary label.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,617 likes - 52 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,625 likes - 52 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,9 +56,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1BcGDqSxiaP.md) - [plain]
 | 46 | [Blue Monday Hangover](https://open.spotify.com/track/2eloCAkMPcrfktP3k2J063) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Frostbite](https://open.spotify.com/album/7C64occ2ChtDhSH5Wsj8mV) | 5:34 |
 | 47 | [When The Welfare Turns Its Back On You](https://open.spotify.com/track/0TgqyhREoY6ZXQ1pA6qo5J) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Ice Pickin'](https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab) | 5:26 |
 | 48 | [Brick](https://open.spotify.com/track/1QKpDEm8FxSxBgKTRNZn5n) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Frostbite](https://open.spotify.com/album/7C64occ2ChtDhSH5Wsj8mV) | 4:35 |
-| 49 | [I Can Love You Like A Woman \(Or I Can Fight You Like A Man\)](https://open.spotify.com/track/2OAFshgrBDMtr2IsOVEpdu) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [Queen Of The Blues](https://open.spotify.com/album/0GXwSbl0Q1cZDHL1EIE2oa) | 3:52 |
-| 50 | [Master Mechanic](https://open.spotify.com/track/4165vsiricmCuE4eKeuZ4v) | [Johnny Winter](https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO) | [Serious Business](https://open.spotify.com/album/30XtgsTePORy5sbslFewYU) | 3:41 |
+| 49 | [Master Mechanic](https://open.spotify.com/track/4165vsiricmCuE4eKeuZ4v) | [Johnny Winter](https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO) | [Serious Business](https://open.spotify.com/album/30XtgsTePORy5sbslFewYU) | 3:41 |
+| 50 | [I Can Love You Like A Woman \(Or I Can Fight You Like A Man\)](https://open.spotify.com/track/2OAFshgrBDMtr2IsOVEpdu) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [Queen Of The Blues](https://open.spotify.com/album/0GXwSbl0Q1cZDHL1EIE2oa) | 3:52 |
 | 51 | [If Trouble Was Money](https://open.spotify.com/track/63t31Qj7dDoNxeo5UTrEBL) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Alligator Records 45th Anniversary Collection](https://open.spotify.com/album/6kpeOuu1Z7cbasKOurTs0B) | 8:00 |
 | 52 | [My Time After A While](https://open.spotify.com/track/0wluTX9lMR6MxlZyPsclHi) | [Johnny Winter](https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO) | [Serious Business](https://open.spotify.com/album/30XtgsTePORy5sbslFewYU) | 6:17 |
 
-Snapshot ID: `MTYxOTY5MTIzMiwwMDAwMDAwMDhjZWI4OTEyMzQyZjEyNmRlODE1YmJmYjg5NTcxMWI5`
+Snapshot ID: `MTYxOTY5MTIzMiwwMDAwMDAwMDAyMTRmYjljYjVjNTA4N2Q1NzIxMDQzZWMyNzE1YTJl`

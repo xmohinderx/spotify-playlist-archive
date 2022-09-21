@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30Mgh34Cry8.md) - [plain]
 
 > Music for all your adventures on Roblox\. Check out <a href="https://www.roblox.com/spotify">Spotify Island on Roblox</a> today.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,067 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,074 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30Mgh34Cry8.md) - [plain]
 | 5 | [Oh Sorry Ya](https://open.spotify.com/track/03HYOtfzbzx0HPHMcfLFOe) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Oh Sorry Ya](https://open.spotify.com/album/4LKKDcLPX4aZXGfnlpFPi7) | 2:35 |
 | 6 | [I Love You So](https://open.spotify.com/track/4SqWKzw0CbA05TGszDgMlc) | [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [I Love You So](https://open.spotify.com/album/7ucm85tRsWk6EyVHaYAxe9) | 2:40 |
 | 7 | [Dynamite](https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr) | 3:19 |
-| 8 | [House of Memories](https://open.spotify.com/track/2DgdHcjWmO3qd50RzuBLgZ) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Death of a Bachelor](https://open.spotify.com/album/6twKQ0EsUJHVlAr6XBylrj) | 3:28 |
-| 9 | [Freaks](https://open.spotify.com/track/7EkWXAI1wn8Ii883ecd9xr) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Freaks](https://open.spotify.com/album/5WjaIWthUR3AjA0UYG3jR5) | 2:27 |
+| 8 | [Freaks](https://open.spotify.com/track/7EkWXAI1wn8Ii883ecd9xr) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Freaks](https://open.spotify.com/album/5WjaIWthUR3AjA0UYG3jR5) | 2:27 |
+| 9 | [House of Memories](https://open.spotify.com/track/2DgdHcjWmO3qd50RzuBLgZ) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Death of a Bachelor](https://open.spotify.com/album/6twKQ0EsUJHVlAr6XBylrj) | 3:28 |
 | 10 | [Candyland](https://open.spotify.com/track/0euyZh7zSUmpNXVpVBdcN2) | [Tobu](https://open.spotify.com/artist/1feoGrmmD8QmNqtK2Gdwy8) | [Candyland](https://open.spotify.com/album/47O9f9upAsjc5BMV6z7TqG) | 3:20 |
 | 11 | [Believer](https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Evolve](https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU) | 3:24 |
 | 12 | [Wait a Minute!](https://open.spotify.com/track/0y60itmpH0aPKsFiGxmtnh) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [ARDIPITHECUS](https://open.spotify.com/album/0wfne2JijoxJm0qzJd3V5h) | 3:16 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30Mgh34Cry8.md) - [plain]
 | 32 | [sun and moon](https://open.spotify.com/track/769Ld8demNhMgVLAQcjTDn) | [anees](https://open.spotify.com/artist/2HPqVfdPh9JkBSlFG5hK6h) | [sun and moon](https://open.spotify.com/album/4bUd4H9GN11TlKhJDBUGsc) | 2:31 |
 | 33 | [Prom Night](https://open.spotify.com/track/7KhJdiu4zbPlhlImRLIyDl) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [Prom Night](https://open.spotify.com/album/3ft78ZmPZcpVxpgzHTqcNZ) | 2:25 |
 | 34 | [Psycho](https://open.spotify.com/track/3CYH422oy1cZNoo0GTG1TK) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [‘The ReVe Festival’ Finale](https://open.spotify.com/album/3rVtm00UfbuzWOewdm4iYM) | 3:30 |
-| 35 | [this is what heartbreak feels like](https://open.spotify.com/track/33aLws184a7SVqraKuDqI3) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what heartbreak feels like](https://open.spotify.com/album/1QkRzqv1FTMR9R0MIUsiNy) | 2:37 |
-| 36 | [Next Level](https://open.spotify.com/track/2zrhoHlFKxFTRF5aMyxMoQ) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Next Level](https://open.spotify.com/album/2CzbrboOLzeRoaaH1N5K0N) | 3:41 |
+| 35 | [Next Level](https://open.spotify.com/track/2zrhoHlFKxFTRF5aMyxMoQ) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Next Level](https://open.spotify.com/album/2CzbrboOLzeRoaaH1N5K0N) | 3:41 |
+| 36 | [this is what heartbreak feels like](https://open.spotify.com/track/33aLws184a7SVqraKuDqI3) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what heartbreak feels like](https://open.spotify.com/album/1QkRzqv1FTMR9R0MIUsiNy) | 2:37 |
 | 37 | [Sail](https://open.spotify.com/track/7ueP5u2qkdZbIPN2YA6LR0) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Megalithic Symphony](https://open.spotify.com/album/1fag8cnc5p4Umu4tRMAsLv) | 4:19 |
 | 38 | [Darkside](https://open.spotify.com/track/6SRWhUJcD2YKahCwHavz3X) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV), [Tomine Harket](https://open.spotify.com/artist/6064pL9Hu3Wx2bwJMeOx6o) | [Different World](https://open.spotify.com/album/3nzuGtN3nXARvvecier4K0) | 3:31 |
 | 39 | [Loverboy](https://open.spotify.com/track/0qXP5fMhxGzxALOkXYUxfP) | [A\-Wall](https://open.spotify.com/artist/56OjNTX2bkrdGcB0staUOV) | [Helios](https://open.spotify.com/album/4uObGgFhiUjJNrj298b500) | 3:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30Mgh34Cry8.md) - [plain]
 | 49 | [Holiday](https://open.spotify.com/track/14Bcv6siTBPw3TlP84dasC) | [KSI](https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z) | [All Over The Place \(Platinum VIP Edition\)](https://open.spotify.com/album/41jQTuRYzHH58MwygrUxty) | 3:13 |
 | 50 | [Roadtrip](https://open.spotify.com/track/4Agtk2MrapdZAVN7v6PuFO) | [Dream](https://open.spotify.com/artist/6LArUyIoMiHmDvvOAsE2cd), [PmBata](https://open.spotify.com/artist/3jeXY6LJU0ZiKhXoXa9rRw) | [Roadtrip](https://open.spotify.com/album/4nndDRqggBACyN5dw13kDI) | 2:13 |
 
-Snapshot ID: `MTY2MTg5MTE2MywwMDAwMDAwMDlmM2UzMTgxZDQ0NGMwMDBlNTZhNjMxN2VmZWRmZjJj`
+Snapshot ID: `MTY2MTg5MTE2MywwMDAwMDAwMDA5NGNkMjU2ZWUxODdkMzc5MjM2MTA0NTZmYTA5MmU0`

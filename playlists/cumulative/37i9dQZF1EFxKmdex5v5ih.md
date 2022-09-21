@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/04m0BRLb94VPV1VP1UqK36">Michael Pollack</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-187 songs - 10 hr 6 min - [published](https://open.spotify.com/playlist/0rdAoqaS1oWHzYCCSmlmau)
+188 songs - 10 hr 10 min - [published](https://open.spotify.com/playlist/0rdAoqaS1oWHzYCCSmlmau)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Chateau](https://open.spotify.com/track/2yedRoI0ixMxQSyHE0q1Jq) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [DNA](https://open.spotify.com/album/02FX4aLHDNacfV4bMnO9Kv) | 3:08 | 2021-12-27 |  |
 | [childhood bedroom](https://open.spotify.com/track/3GndP4EReJb9DdA4ByUZeF) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Reverie](https://open.spotify.com/album/7LUMQHRWTTILN7yR6LJwHR) | 3:17 | 2021-12-27 |  |
 | [Chills](https://open.spotify.com/track/7tN0ceaX3JAz6aVtyXn9mn) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [Chills](https://open.spotify.com/album/73MA39KSFI537siPGXAb8q) | 2:45 | 2022-01-20 |  |
+| [Circles](https://open.spotify.com/track/7a0PtNlA2njR3OYszwCWJ1) | [Mini Pop Kids](https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93) | [Mini Pop Kids 17](https://open.spotify.com/album/4RucFi1MogLkft52GQPS0S) | 3:30 | 2022-09-20 |  |
 | [come back](https://open.spotify.com/track/1QwRhyt1sjYJXAWzFCBjuE) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Reverie](https://open.spotify.com/album/7LUMQHRWTTILN7yR6LJwHR) | 3:36 | 2021-12-27 |  |
 | [Coming To My Senses](https://open.spotify.com/track/0wNenHPLy8qwMfxHTqScoR) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [The Color Of You](https://open.spotify.com/album/6R8UeugxGTPvPwFkLVqUqs) | 3:06 | 2021-12-27 |  |
 | [Conflicted](https://open.spotify.com/track/33e3om2LnwbpMvLrII4Iuw) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Vicious](https://open.spotify.com/album/6hIMdrqgLXY73T9411Y7Ux) | 3:29 | 2021-12-27 |  |

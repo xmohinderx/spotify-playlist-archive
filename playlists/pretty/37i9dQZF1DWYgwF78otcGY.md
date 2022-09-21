@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgwF78otcGY.md) - [plain]
 
 > På med fjäderboan och de gyllene skorna\. Nu ska vi dansa i neon!
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,777 likes - 52 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,785 likes - 52 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgwF78otcGY.md) - [plain]
 | 15 | [Satellit](https://open.spotify.com/track/10AwlsmVEASSiWORkKcgRo) | [Ted Gärdestad](https://open.spotify.com/artist/6zpub6jbY6CdrcqQsDq8P4) | [Blue Virgin Isles](https://open.spotify.com/album/5xHCzowaod3845uvIfXAkg) | 4:17 |
 | 16 | [Hon Kommer Med Solsken](https://open.spotify.com/track/0GdHzLwAZkDcJz6cAV0Qz9) | [Östen Med Resten](https://open.spotify.com/artist/20nKo8C8M0JpIznby9Dv5p) | [Greatest of the Best](https://open.spotify.com/album/03wYV1m0EmBAhtgVLvGNKn) | 2:55 |
 | 17 | [Tusen och en natt](https://open.spotify.com/track/6JIwvW8ioos5KFp0Q0mS3Y) | [Charlotte Perrelli](https://open.spotify.com/artist/39Waq6UmqYCBEuyv8M8kjl) | [Take Me To Your Heaven](https://open.spotify.com/album/6fgypOA8G33QMu1Fuufn7Y) | 3:02 |
-| 18 | [Ashes To Ashes](https://open.spotify.com/track/1iqxk51n6yyc6OIXu7dX8o) | [Anna Bergendahl](https://open.spotify.com/artist/2QLxag7UehMTlparZcbQn9) | [Ashes To Ashes](https://open.spotify.com/album/3PdI7t8cuGziQ76P2ooFpR) | 3:00 |
-| 19 | [Håll om mig](https://open.spotify.com/track/6LjXwyNIh30VWsnvT8JHhz) | [Nanne](https://open.spotify.com/artist/0whAheccvr5O5qbQjNk4gi) | [Alltid på väg](https://open.spotify.com/album/3CDoUVCjpSa2N08MBL8Ovy) | 3:02 |
+| 18 | [Håll om mig](https://open.spotify.com/track/6LjXwyNIh30VWsnvT8JHhz) | [Nanne](https://open.spotify.com/artist/0whAheccvr5O5qbQjNk4gi) | [Alltid på väg](https://open.spotify.com/album/3CDoUVCjpSa2N08MBL8Ovy) | 3:02 |
+| 19 | [Ashes To Ashes](https://open.spotify.com/track/1iqxk51n6yyc6OIXu7dX8o) | [Anna Bergendahl](https://open.spotify.com/artist/2QLxag7UehMTlparZcbQn9) | [Ashes To Ashes](https://open.spotify.com/album/3PdI7t8cuGziQ76P2ooFpR) | 3:00 |
 | 20 | [När vindarna viskar mitt namn](https://open.spotify.com/track/1nSyBcZr8IS9wZcFyvqqE7) | [Roger Pontare](https://open.spotify.com/artist/2eo54qMMNjVgFIxwhKfijG) | [När vindarna viskar mitt namn \- Single](https://open.spotify.com/album/7oSqWiKS8F3GGIh6ihn50H) | 3:04 |
 | 21 | [Bra vibrationer](https://open.spotify.com/track/0FSlaiuv4eBrrjz05jpxz6) | [Kikki Danielsson](https://open.spotify.com/artist/3ktAhWMnoYiz6UpBEKfv5i) | [Bra vibrationer](https://open.spotify.com/album/6pTczERNVTTxtoFjfOIKWU) | 3:06 |
 | 22 | [Alla flickor](https://open.spotify.com/track/6YGqMb6MmqcwIHaDSCA7Nq) | [Linda Bengtzing](https://open.spotify.com/artist/6IBNZlx6x6TbLUIJhXT4xV) | [Ingenting att förlora](https://open.spotify.com/album/7KW1wOSzVGdWs1aA3pzT1l) | 2:49 |
@@ -59,6 +59,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgwF78otcGY.md) - [plain]
 | 49 | [Min kärlek](https://open.spotify.com/track/5dpkOqj8pVFn3nS8OvMJNG) | [Shirley Clamp](https://open.spotify.com/artist/09AdawDC7B5zcphs18nRB7) | [Den långsamma blomman](https://open.spotify.com/album/42M4B14wexkW2YK3iJ1KeA) | 3:01 |
 | 50 | [Möt mig i Gamla Stan](https://open.spotify.com/track/5uYkCI6EcIKq4EGlah4NLu) | [Magnus Carlsson](https://open.spotify.com/artist/12VIfmT1N5FGyCuuXGKuYB) | [Gamla Stan](https://open.spotify.com/album/2Oi3P11a5suZr2JcKjuh9B) | 3:02 |
 | 51 | [In My Cabana](https://open.spotify.com/track/4QQNLEpCHjwovArZsDIUD6) | [Margaret](https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ) | [In My Cabana](https://open.spotify.com/album/117MLkbXJnYCcN1lNxDm8k) | 2:52 |
-| 52 | [E' de' det här du kallar kärlek](https://open.spotify.com/track/5MBBQ7P9AozcQ8lF7So1B3) | [Lasse Holm](https://open.spotify.com/artist/4fYwnbPagtCH2o6prMmgoI), [Monica Thörnell](https://open.spotify.com/artist/2jC1JNttGelaaJn6QLyJYA) | [Lasse Holm](https://open.spotify.com/album/6YqYUREfAQkDJmn2BfaCrQ) | 2:49 |
+| 52 | [Never Let It Go](https://open.spotify.com/track/28ihA2Fp5zRmcmi8hpfWiC) | [Afro\-Dite](https://open.spotify.com/artist/0oO1vycfLbA7I18jfy2eWe) | [Never Let It Go](https://open.spotify.com/album/7nbwgaAlzIqneeDFjoxxL4) | 3:02 |
 
-Snapshot ID: `MTU1MTM1ODY3OCwwMDAwMDAwMDUyNDgyYThiYTFmMjI2ZTU4ZGRmYTA2NWE3NTI4YTUz`
+Snapshot ID: `MTU1MTM1ODY3OCwwMDAwMDAwMDU4NjdmYjUxZTc4MTk2Yzg2NjA5ZTkyOWJhZjQyNjA1`

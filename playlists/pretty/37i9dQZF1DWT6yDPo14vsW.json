@@ -1,12 +1,12 @@
 {
   "description": "\u00bfQu\u00e9 es lo que est\u00e1 pasando? \u00bfAmor o Desamor?",
-  "num_followers": 264244,
+  "num_followers": 264367,
   "original_name": "Amor y Desamor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjQwNzIwNiwwMDAwMDAwMDI5MmM1MjA5MWRmNjE3MjY2MTliM2EyYmRmNzcyMzU1",
+  "snapshot_id": "MTY2MjQwNzIwNiwwMDAwMDAwMGIyZDA2MDJjN2RmMWIxODI5YzczM2YyNzcxODA1NDAz",
   "tracks": [
     {
       "added_at": "2022-07-04 15:12:52",
@@ -823,22 +823,6 @@
     {
       "added_at": "2022-07-04 15:12:52",
       "album": {
-        "name": "A Medio Vivir",
-        "url": "https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM"
-      },
-      "artists": [
-        {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        }
-      ],
-      "duration_ms": 279000,
-      "name": "Te Extra\u00f1o, Te Olvido, Te Amo",
-      "url": "https://open.spotify.com/track/4S1bYWrLOC8smuy8kJzxKQ"
-    },
-    {
-      "added_at": "2022-07-04 15:12:52",
-      "album": {
         "name": "Lo mejor de Laura Pausini - Volver\u00e9 junto a ti",
         "url": "https://open.spotify.com/album/0myaHlqK31HgqSV2k6Caqj"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 257440,
       "name": "Amores extra\u00f1os - Versi\u00f3n 2001",
       "url": "https://open.spotify.com/track/2FeYK41Grs7KdR9Nqoy1MK"
+    },
+    {
+      "added_at": "2022-07-04 15:12:52",
+      "album": {
+        "name": "A Medio Vivir",
+        "url": "https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        }
+      ],
+      "duration_ms": 279000,
+      "name": "Te Extra\u00f1o, Te Olvido, Te Amo",
+      "url": "https://open.spotify.com/track/4S1bYWrLOC8smuy8kJzxKQ"
     },
     {
       "added_at": "2022-07-04 15:12:52",
@@ -903,18 +903,18 @@
     {
       "added_at": "2022-07-04 15:12:52",
       "album": {
-        "name": "La Dulzura",
-        "url": "https://open.spotify.com/album/0ma0z5JUPvi7ZZtfV8Di0A"
+        "name": "Entre t\u00fa y mil mares",
+        "url": "https://open.spotify.com/album/6YZ8BnXi5PavXdw8XmOmUj"
       },
       "artists": [
         {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
         }
       ],
-      "duration_ms": 364959,
-      "name": "La Complicidad",
-      "url": "https://open.spotify.com/track/0yAc7tMrxA3KwdVpVDe402"
+      "duration_ms": 228493,
+      "name": "Entre t\u00fa y mil mares",
+      "url": "https://open.spotify.com/track/3reCcj2BzaDnnrlnZ0aq2X"
     },
     {
       "added_at": "2022-07-04 15:12:52",
@@ -935,22 +935,18 @@
     {
       "added_at": "2022-07-04 15:12:52",
       "album": {
-        "name": "Lo Esencial De Ana Gabriel",
-        "url": "https://open.spotify.com/album/2bdaZKWu05LqbN8OwJtuPZ"
+        "name": "La Dulzura",
+        "url": "https://open.spotify.com/album/0ma0z5JUPvi7ZZtfV8Di0A"
       },
       "artists": [
         {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        },
-        {
-          "name": "Vikki Carr",
-          "url": "https://open.spotify.com/artist/3tM3DTmG7ahfACzwqtazLD"
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
         }
       ],
-      "duration_ms": 257453,
-      "name": "Cosas del Amor (with Vikki Carr)",
-      "url": "https://open.spotify.com/track/4BBJezanyqAj6rRC1fKIg4"
+      "duration_ms": 364959,
+      "name": "La Complicidad",
+      "url": "https://open.spotify.com/track/0yAc7tMrxA3KwdVpVDe402"
     },
     {
       "added_at": "2022-07-04 15:12:52",
@@ -975,18 +971,22 @@
     {
       "added_at": "2022-07-04 15:12:52",
       "album": {
-        "name": "Entre t\u00fa y mil mares",
-        "url": "https://open.spotify.com/album/6YZ8BnXi5PavXdw8XmOmUj"
+        "name": "Lo Esencial De Ana Gabriel",
+        "url": "https://open.spotify.com/album/2bdaZKWu05LqbN8OwJtuPZ"
       },
       "artists": [
         {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        },
+        {
+          "name": "Vikki Carr",
+          "url": "https://open.spotify.com/artist/3tM3DTmG7ahfACzwqtazLD"
         }
       ],
-      "duration_ms": 228493,
-      "name": "Entre t\u00fa y mil mares",
-      "url": "https://open.spotify.com/track/3reCcj2BzaDnnrlnZ0aq2X"
+      "duration_ms": 257453,
+      "name": "Cosas del Amor (with Vikki Carr)",
+      "url": "https://open.spotify.com/track/4BBJezanyqAj6rRC1fKIg4"
     },
     {
       "added_at": "2022-07-04 15:12:52",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2022-07-04 15:12:52",
       "album": {
-        "name": "Romances",
-        "url": "https://open.spotify.com/album/7k5Wb6g7tsGezxQc2dwCK1"
-      },
-      "artists": [
-        {
-          "name": "David Bisbal",
-          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
-        }
-      ],
-      "duration_ms": 265226,
-      "name": "D\u00edgale",
-      "url": "https://open.spotify.com/track/4KgcAo8wQrXexfwpIsgzLf"
-    },
-    {
-      "added_at": "2022-07-04 15:12:52",
-      "album": {
         "name": "Kany Garc\u00eda",
         "url": "https://open.spotify.com/album/0xMspEBjMb20urG4Rx73vO"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 248613,
       "name": "Cuando Se Va el Amor",
       "url": "https://open.spotify.com/track/5Kw7AEL0Hq69Ky7WxRFseh"
+    },
+    {
+      "added_at": "2022-07-04 15:12:52",
+      "album": {
+        "name": "Romances",
+        "url": "https://open.spotify.com/album/7k5Wb6g7tsGezxQc2dwCK1"
+      },
+      "artists": [
+        {
+          "name": "David Bisbal",
+          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
+        }
+      ],
+      "duration_ms": 265226,
+      "name": "D\u00edgale",
+      "url": "https://open.spotify.com/track/4KgcAo8wQrXexfwpIsgzLf"
     },
     {
       "added_at": "2022-07-04 15:12:52",

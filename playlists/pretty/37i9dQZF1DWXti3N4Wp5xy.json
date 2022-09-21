@@ -1,12 +1,12 @@
 {
   "description": "A perfect little pop party. ",
-  "num_followers": 343287,
+  "num_followers": 343643,
   "original_name": "Pop Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY5NjAwMCwwMDAwMDAwMDFiNjZlMTExNjdhZTE1YTQ2Y2Q0ZGU4OWJhMGJkYWU0",
+  "snapshot_id": "MTY2MjY5NjAwMCwwMDAwMDAwMDIwZjUwNGUxNjdiYzIzZGYwMTk5OTUxZjlhNDE4NGFl",
   "tracks": [
     {
       "added_at": "2022-09-09 04:00:00",
@@ -323,6 +323,22 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
+        "name": "BE",
+        "url": "https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 199053,
+      "name": "Dynamite",
+      "url": "https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
         "name": "Gangsta's Paradise",
         "url": "https://open.spotify.com/album/0BJYNipGyMrw4ngKDJXzXZ"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 240693,
       "name": "Gangsta's Paradise",
       "url": "https://open.spotify.com/track/1DIXPcTDzTj8ZMHt3PDt8p"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "BE",
-        "url": "https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 199053,
-      "name": "Dynamite",
-      "url": "https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "Purpose (Deluxe)",
-        "url": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 200786,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/09CtPGIpYB4BrO8qb1RGsF"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
         "name": "Dua Lipa (Deluxe)",
         "url": "https://open.spotify.com/album/01sfgrNbnnPUEyz6GZYlt9"
       },
@@ -1123,18 +1107,18 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "Animal (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F"
+        "name": "Purpose (Deluxe)",
+        "url": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
       },
       "artists": [
         {
-          "name": "Kesha",
-          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
         }
       ],
-      "duration_ms": 199693,
-      "name": "TiK ToK",
-      "url": "https://open.spotify.com/track/0HPD5WQqrq7wPWR7P7Dw1i"
+      "duration_ms": 200786,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/09CtPGIpYB4BrO8qb1RGsF"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1155,6 +1139,22 @@
       "duration_ms": 222160,
       "name": "This Is What You Came For",
       "url": "https://open.spotify.com/track/0azC730Exh71aQlOt9Zj3y"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "Animal (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F"
+      },
+      "artists": [
+        {
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+        }
+      ],
+      "duration_ms": 199693,
+      "name": "TiK ToK",
+      "url": "https://open.spotify.com/track/0HPD5WQqrq7wPWR7P7Dw1i"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
+        "name": "Future Nostalgia",
+        "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 183290,
+      "name": "Don't Start Now",
+      "url": "https://open.spotify.com/track/3PfIrDoz19wz7qK7tYeu62"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
         "name": "Camila",
         "url": "https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE"
       },
@@ -1283,38 +1299,6 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "Future Nostalgia",
-        "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 183290,
-      "name": "Don't Start Now",
-      "url": "https://open.spotify.com/track/3PfIrDoz19wz7qK7tYeu62"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "Hot Pink",
-        "url": "https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 237893,
-      "name": "Say So",
-      "url": "https://open.spotify.com/track/3Dv1eDb0MEgF93GpLXlucZ"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
         "name": "Sweet Talker (Deluxe Version)",
         "url": "https://open.spotify.com/album/2rDIivxBafNKpgRqlzIRSb"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 199386,
       "name": "Bang Bang",
       "url": "https://open.spotify.com/track/0puf9yIluy9W0vpMEUoAnN"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "Hot Pink",
+        "url": "https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 237893,
+      "name": "Say So",
+      "url": "https://open.spotify.com/track/3Dv1eDb0MEgF93GpLXlucZ"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -2551,22 +2551,6 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "The Sign",
-        "url": "https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB"
-      },
-      "artists": [
-        {
-          "name": "Ace of Base",
-          "url": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
-        }
-      ],
-      "duration_ms": 211213,
-      "name": "All That She Wants",
-      "url": "https://open.spotify.com/track/6kWJvPfC4DgUpRsXKNa9z9"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
         "name": "THE E.N.D. (THE ENERGY NEVER DIES)",
         "url": "https://open.spotify.com/album/3lng6RAtdksQ2q02Fk5jaB"
       },
@@ -2579,6 +2563,22 @@
       "duration_ms": 289133,
       "name": "I Gotta Feeling",
       "url": "https://open.spotify.com/track/2H1047e0oMSj10dgp7p2VG"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "The Sign",
+        "url": "https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB"
+      },
+      "artists": [
+        {
+          "name": "Ace of Base",
+          "url": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
+        }
+      ],
+      "duration_ms": 211213,
+      "name": "All That She Wants",
+      "url": "https://open.spotify.com/track/6kWJvPfC4DgUpRsXKNa9z9"
     },
     {
       "added_at": "2022-09-09 04:00:00",

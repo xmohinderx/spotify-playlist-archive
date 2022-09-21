@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain]
 
 > Listen to the women of AU & NZ at full volume\. Cover: Thelma Plum
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,900 likes - 92 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,898 likes - 92 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [The Brown Snake](https://open.spotify.com/track/31CbsclpQWU4bKzLKnLHaS) | [Thelma Plum](https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC) | [The Brown Snake](https://open.spotify.com/album/2KBj0ahthLPdXhYODnXRIL) | 3:15 |
 | 2 | [can't get laid](https://open.spotify.com/track/3GyLZPZlnVteR6NpvPAJq7) | [bella amor](https://open.spotify.com/artist/0YHLS3lTpmblVqI74qAz6M) | [can't get laid](https://open.spotify.com/album/43r40totUGXyIiUH0OE0iI) | 2:54 |
-| 3 | [Understand](https://open.spotify.com/track/7qbF7t9vmBaAVS7VJ6gP82) | [Meg Mac](https://open.spotify.com/artist/4faUajx9k93O56nlmpkOuz) | [Understand](https://open.spotify.com/album/5QxQ9fuQFnYqqRfF3oyLXg) | 2:57 |
+| 3 | [Understand](https://open.spotify.com/track/4JkRISoAHFRP40FGzNymNp) | [Meg Mac](https://open.spotify.com/artist/4faUajx9k93O56nlmpkOuz) | [Matter of Time](https://open.spotify.com/album/2z4hLufnidbzPL3fJA9UnB) | 2:57 |
 | 4 | [Can't Be Enough](https://open.spotify.com/track/0M2o4vmqNyiMySMs3e9i8m) | [Lola Scott](https://open.spotify.com/artist/6oU5PNSVWwkSZSXwsOVF3m) | [Can't Be Enough](https://open.spotify.com/album/13qki0Gl6TJ4YmuEmQ6kdM) | 3:07 |
 | 5 | [Break!](https://open.spotify.com/track/0flObXoVkthxtvvOksCZXI) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Break!](https://open.spotify.com/album/05Bz4ReOzzjSCOYU0zAezd) | 2:53 |
 | 6 | [Hey](https://open.spotify.com/track/7rBNJKnqq8m717RsTOsJQi) | [Phoebe Go](https://open.spotify.com/artist/4WZlZAyyBNVwoG4Zrh1tfC) | [Hey](https://open.spotify.com/album/4kiVwF4algaMfLFsqmM0SW) | 3:08 |
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain]
 | 23 | [Slow Down Girl](https://open.spotify.com/track/1vY84RjMLrximsaUSuUVgJ) | [Abby Christo](https://open.spotify.com/artist/0aE69mf1NjsaqZzXsoo4qH) | [Slow Down Girl](https://open.spotify.com/album/0h0scsiujwR3ZDmdaE6ia8) | 3:06 |
 | 24 | [Stained Glass Love](https://open.spotify.com/track/5d8HnEi996KfVq0svmeeb0) | [Telenova](https://open.spotify.com/artist/5UlJRJmlRLhQJX8lJuerVq) | [Stained Glass Love](https://open.spotify.com/album/3pqjmCTohneJF9XiI9b0RF) | 5:54 |
 | 25 | [Ur So Annoying](https://open.spotify.com/track/0qwsNyrQFx5hXt9mxmOHzw) | [Jupita](https://open.spotify.com/artist/20dEUQqgrMGEybe0K79QpF) | [Ur So Annoying](https://open.spotify.com/album/3ameCWDwidBX4sVAmbahMc) | 2:38 |
-| 26 | [Expert In A Dying Field](https://open.spotify.com/track/7FxEMjLh4toXn1fVZAvT1O) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Expert In A Dying Field](https://open.spotify.com/album/6NxZFLWv5D3rr5Wom4HUvU) | 4:11 |
+| 26 | [Expert In A Dying Field](https://open.spotify.com/track/7v5SMNpbt9eaO7dFHGoXLZ) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Expert In A Dying Field](https://open.spotify.com/album/6RWLJx7kQLSnwwPyTqPj0U) | 4:11 |
 | 27 | [is forever off the table?](https://open.spotify.com/track/1po8cEXRIOGcmDt2Ag8IU4) | [Carla Wehbe](https://open.spotify.com/artist/7G8jUNhcaie5DslhcoCB9w) | [is forever off the table?](https://open.spotify.com/album/0zyKAMlAh2zpnWtIk3A5ft) | 3:29 |
 | 28 | [Closer](https://open.spotify.com/track/3OBpUFjf9F2fLtYkHg7T3w) | [Haywood](https://open.spotify.com/artist/3rFhVqmS6XqZl4LcGLDzAu) | [Pressure On My Heart](https://open.spotify.com/album/6WZmNEImJwmXCbQGuvuHj5) | 3:05 |
 | 29 | [Flood](https://open.spotify.com/track/6WstYKyrp8qkVBNtpcvaO1) | [Stella Donnelly](https://open.spotify.com/artist/2mHjhKyKCLh6MZELuCe1Es) | [Flood](https://open.spotify.com/album/3un2FDbZwuK5JidL4OFaTW) | 3:43 |
@@ -96,9 +96,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain]
 | 86 | [Lean Across](https://open.spotify.com/track/1xIiuti9ChczqV6pF9U6b4) | [CLEWS](https://open.spotify.com/artist/6cw5iGpmkR9dNaIZ85j8ya) | [Lean Across](https://open.spotify.com/album/2qcWvD3FcexP83c5OmgYuZ) | 3:06 |
 | 87 | [READ](https://open.spotify.com/track/1o2SurUyAJFFkf0kjSMKo1) | [Zoe A'dore](https://open.spotify.com/artist/3LGngRo9kg4ETVaiRQ0ZgY) | [READ](https://open.spotify.com/album/7uMlhSlAXQWMfrgcnJ7Xxi) | 2:48 |
 | 88 | [Where The Light Used To Lay](https://open.spotify.com/track/3rPD7muv5zfAnHUttFJ2R0) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [Where The Light Used To Lay](https://open.spotify.com/album/5dta0K0dySJ527iiB9AFFa) | 3:36 |
-| 89 | [Mother's Daughter](https://open.spotify.com/track/2wBMRAphewXmBYoAE3OkCe) | [Jamie McDell](https://open.spotify.com/artist/44MWRwByQXnNT4PwguMPIH) | [Jamie McDell](https://open.spotify.com/album/1p7026lEIycyDwybn1VLPT) | 3:31 |
+| 89 | [Mother's Daughter](https://open.spotify.com/track/51Ii1uruA8HhOuMWSbHTyY) | [Jamie McDell](https://open.spotify.com/artist/44MWRwByQXnNT4PwguMPIH) | [Jamie Mcdell](https://open.spotify.com/album/6cDTr6ROfRdPeSqT0T54se) | 3:31 |
 | 90 | [Quicksand](https://open.spotify.com/track/6LhSsOUN9BRqiXKfGBkNp6) | [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [Giving The World Away](https://open.spotify.com/album/2TwATR1G07ckXIDydjPKsw) | 4:11 |
 | 91 | [Loser](https://open.spotify.com/track/0JGXmt0UISP8sttvwFvT76) | [Reyanna Maria](https://open.spotify.com/artist/7kRrkUEPgO3TRfAi7Gsw2i) | [Loser](https://open.spotify.com/album/1O1J9ZCRpjUfTVATGWoYUw) | 2:24 |
 | 92 | [Selfish](https://open.spotify.com/track/625zvGkOpwTNi4tZ54bdZH) | [GRAACE](https://open.spotify.com/artist/4nqqGSsclFchZXaiafOYyV) | [Self Preservation](https://open.spotify.com/album/4F1hweOR3EvXq0VxMm6bUF) | 2:08 |
 
-Snapshot ID: `MTY2MjM0MjEwNiwwMDAwMDAwMDU4OWIxYTUyOTRjNTU2NDI4Nzg4Y2RkODVjNGYyNmRj`
+Snapshot ID: `MTY2MjM0MjEwNiwwMDAwMDAwMDEyMjVmMGM2M2RkMTQ4ZGJiMTdmMTRmNTUzMThmYjhh`

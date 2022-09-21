@@ -4,7 +4,7 @@
 
 > Proudly marching to the beat of their own drum\. Cover: Mura Masa
 
-494 songs - 1 day 3 hr 44 min - [published](https://open.spotify.com/playlist/2eZDT7fvyZw5HsAm74ImXE)
+495 songs - 1 day 3 hr 49 min - [published](https://open.spotify.com/playlist/2eZDT7fvyZw5HsAm74ImXE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,8 @@
 | [Ain't No Sunshine \- Spotify Singles](https://open.spotify.com/track/3oafbB3oIvGF8IxgDOfYJV) | [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel), [Himmat Sandhu](https://open.spotify.com/artist/3wsrcGXTRAukQgXrUHJMwC), [Preston Pablo](https://open.spotify.com/artist/5TvdGhdmRObqOkU6eGfXb5) | [Spotify Singles](https://open.spotify.com/album/2amvrQLu6W6CHTRhe2YImN) | 3:32 | 2022-07-22 | 2022-09-17 |
 | [Airplanes](https://open.spotify.com/track/62ZyZBJDJmvwBjKOFvAaDt) | [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK), [Cadence Weapon](https://open.spotify.com/artist/179CHqJZlZwKBQhjcOeAOS) | [Airplanes / Caribou](https://open.spotify.com/album/6F0h2APKV6LqwUYgJ3MrjS) | 4:36 | 2022-02-18 | 2022-02-26 |
 | [Al Boomer's Lounge](https://open.spotify.com/track/5XkNlLfzV9DHWKVlw9Mu8a) | [Honeydripper](https://open.spotify.com/artist/0NSnMsVaDmZlhgEb9jIGu7) | [Al Boomer's Lounge](https://open.spotify.com/album/29XUzzBVAOWS8UvzhtP6tJ) | 5:58 | 2022-07-08 | 2022-09-10 |
-| [All Along \(Kaytranada Remix\)](https://open.spotify.com/track/35WIVWDcONu3B64ZcYbPX6) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [All Along \(Kaytranada Remix\)](https://open.spotify.com/album/3UtKaTe3ZGpNo0cVdffTCi) | 4:44 | 2022-09-16 |  |
+| [All Along \(Kaytranada Remix\)](https://open.spotify.com/track/35WIVWDcONu3B64ZcYbPX6) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [All Along \(Kaytranada Remix\)](https://open.spotify.com/album/3UtKaTe3ZGpNo0cVdffTCi) | 4:44 | 2022-09-16 | 2022-09-21 |
+| [All Along \(Kaytranada Remix\)](https://open.spotify.com/track/3fTwZdX5X3BIsdEJvai7Be) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Play With The Changes \(Remixed\)](https://open.spotify.com/album/3fMIqhERSssKur9QOqa5X1) | 4:44 | 2022-09-16 |  |
 | [All Around The World \(with Duckwrth\)](https://open.spotify.com/track/3ngEX8ZedhgdYazU5wcKZx) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [All Around The World \(with Duckwrth\)](https://open.spotify.com/album/3TrrZvyvECJITBRTdLB6Dt) | 2:47 | 2022-07-01 | 2022-08-27 |
 | [All Over Again](https://open.spotify.com/track/4tIf90OKoSku44rLMJK1YA) | [Jesse Gold](https://open.spotify.com/artist/0ScLk4lNexNrtkDmGQicRx) | [All Over Again](https://open.spotify.com/album/2WfyZcLvn0KtB4p3U28hvA) | 2:24 | 2022-04-29 | 2022-06-04 |
 | [All Over This Party](https://open.spotify.com/track/4Wbfb7B6ke5nJZUHX0P7mk) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [All Over This Party](https://open.spotify.com/album/4ofp2cEcuD3oelw7Qp3ooz) | 3:32 | 2022-09-03 |  |

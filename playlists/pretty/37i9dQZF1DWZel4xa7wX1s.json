@@ -1,12 +1,12 @@
 {
   "description": "Key words: Contemporary pop, legends, country music - and something in between. Just good tunes!",
-  "num_followers": 89342,
+  "num_followers": 89340,
   "original_name": "The New Waltz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU3NTAyMDI3NSwwMDAwMDAwMDhiMzlhMDAyZjlhMmYzODBiOWZhYjc1NDljMGRkZjM5",
+  "snapshot_id": "MTU3NTAyMDI3NSwwMDAwMDAwMDJkMjMzMjYwZjkxMTMwNTk2Yjc0MzVkMDdhMzBiMGRk",
   "tracks": [
     {
       "added_at": "2019-11-29 09:37:55",
@@ -771,22 +771,6 @@
     {
       "added_at": "2019-11-29 09:37:55",
       "album": {
-        "name": "I've Gotta Be Me",
-        "url": "https://open.spotify.com/album/7HZxoITz0x1fCsNQKrXoqD"
-      },
-      "artists": [
-        {
-          "name": "Paloma Faith",
-          "url": "https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa"
-        }
-      ],
-      "duration_ms": 176690,
-      "name": "I've Gotta Be Me",
-      "url": "https://open.spotify.com/track/19I5aPSNdfo86gMAekHWxT"
-    },
-    {
-      "added_at": "2019-11-29 09:37:55",
-      "album": {
         "name": "The Best Of Everything - The Definitive Career Spanning Hits Collection 1976-2016",
         "url": "https://open.spotify.com/album/32OhZ2CWxc259H9w52JMTH"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 231946,
       "name": "For Real",
       "url": "https://open.spotify.com/track/4SazNxh9XSYD65EHiv2ZTx"
+    },
+    {
+      "added_at": "2019-11-29 09:37:55",
+      "album": {
+        "name": "I've Gotta Be Me",
+        "url": "https://open.spotify.com/album/7HZxoITz0x1fCsNQKrXoqD"
+      },
+      "artists": [
+        {
+          "name": "Paloma Faith",
+          "url": "https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa"
+        }
+      ],
+      "duration_ms": 176690,
+      "name": "I've Gotta Be Me",
+      "url": "https://open.spotify.com/track/19I5aPSNdfo86gMAekHWxT"
     },
     {
       "added_at": "2019-11-29 09:37:55",

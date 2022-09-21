@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkaDif7Ztbp.md) - [plain]
 
 > The tracks heating up the continent right now!  Cover: <a href="https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp?si=Cb38Es3YRlq8YsdOAtgOzg"> WizKid</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,081,865 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,082,788 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5FgmqNGPLc.md) - [plain]
 
 > All live, all jazz\. Cover: Erroll Garner
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,324 likes - 86 songs - 13 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,334 likes - 86 songs - 13 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Mali \(Live\)](https://open.spotify.com/track/7xgveO0ftVy4VcKt6gCGBu) | [John Patitucci](https://open.spotify.com/artist/4KmKbbEq6PMnW2TdkrbBIH) | [John Patitucci Trio: Live in Italy](https://open.spotify.com/album/3pxAc3Z4c4RX3y24cHJuA7) | 14:10 |
 | 2 | [Splendido Sundance \- Live at Warfield Theater, San Francisco, CA \- December 6, 1980](https://open.spotify.com/track/7evFX4LIgofxcz2MGnPaf5) | [Al Di Meola](https://open.spotify.com/artist/3bBWKHfpepPOychRNFzg4q), [John McLaughlin](https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY), [Paco de Lucía](https://open.spotify.com/artist/3h8OjAdgYXVRoMZ8jFd6Uw) | [Saturday Night in San Francisco \(Expanded Edition\) \[Live\]](https://open.spotify.com/album/0ucEskHaCyeqMWBmgT3J3n) | 7:05 |
 | 3 | [Giant Steps \- Live \(Remastered\)](https://open.spotify.com/track/6OMjeAy4dTJ02R2QQ38XdW) | [Max Roach](https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g), [Sam Rivers](https://open.spotify.com/artist/0DNuWm5ZBKuCIXLNmrzuk5) | [Now's The Time \[Live \(Remastered\)\]](https://open.spotify.com/album/5t0yHmctZiaGUPWX8YYOEL) | 7:11 |
-| 4 | [What It Is \- Live at Theatre St\-Denis, Montreal, Canada \- July 7, 1983](https://open.spotify.com/track/19SAIkqkaDzQsaX1h0Jmam) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [That's What Happened 1982\-1985: The Bootleg Series, Vol\. 7](https://open.spotify.com/album/2mwZpszzkV5EzChG04oDWv) | 6:45 |
+| 4 | [What It Is \- Live at Theatre St\-Denis, Montreal, Canada \- July 7, 1983](https://open.spotify.com/track/3oNcGjNy8kWNrORs3LGfrL) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [What It Is: Montreal 7/7/83 \(Live\)](https://open.spotify.com/album/5NUH4GlFSKf4QnKsK8EQHL) | 6:45 |
 | 5 | [Sierre \- Live](https://open.spotify.com/track/0na21NgHCDoPzS5Mjl9gMz) | [T.S\. Monk](https://open.spotify.com/artist/3dNwAPe7GZxgNZjNhMyx5f) | [Two Continents One Groove \(Live\)](https://open.spotify.com/album/3eppyJqKLmkav7Pzhhp9qK) | 8:38 |
 | 6 | [マネー・ジャングル \- Live](https://open.spotify.com/track/72lmCMKToDf2R7vyeU5qbd) | [桑原あい](https://open.spotify.com/artist/6ATrUDyyYVTcuJPnlafenR) | [Money Jungle \(Live\)](https://open.spotify.com/album/48IZ2dCDjfGQ3jdg4jfCjO) | 5:47 |
 | 7 | [Pops \(AKA When the Saints Go Marching In\) \- Live](https://open.spotify.com/track/6FbS0wgTrEHAB7O7xVo7dx) | [Charles Mingus](https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H) | [The Lost Album from Ronnie Scott’s \(Live\)](https://open.spotify.com/album/3uB6lXxaCmjy76Spz1Gv9A) | 7:35 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5FgmqNGPLc.md) - [plain]
 | 85 | [Sweet Georgia Brown \(Live\)](https://open.spotify.com/track/6ptWwk9T4s1CBWNRV1w975) | [Anat Cohen](https://open.spotify.com/artist/64uVMGwRMxvNbymPIveiZH), [Benny Green](https://open.spotify.com/artist/4g55GmK5iQOyCoDdQCzWKZ), [Peter Washington](https://open.spotify.com/artist/6t5ibafOkoWm4GveO6lBzp), [Lewis Nash](https://open.spotify.com/artist/2v2TVDl1P2YDSy9jXntWFt) | [Clarinetwork: Live at the Village Vanguard](https://open.spotify.com/album/3brnYanZeSKFMtx9JGuqaf) | 7:25 |
 | 86 | [Air Pakistan](https://open.spotify.com/track/3KuhFmxiL8cbFdJs8LobPk) | [John Scofield](https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK) | [Live](https://open.spotify.com/album/7EpgY8SeCWDsNAN9rZTOUb) | 9:41 |
 
-Snapshot ID: `MTY2MzMwMDg2MCwwMDAwMDAwMDc0NWU0MzVkYTExMzlkNmUzMWFmYzkwMDBlODQ4NjBj`
+Snapshot ID: `MTY2MzMwMDg2MCwwMDAwMDAwMDQ0MWMzMjRjNjE5MDAxZTQ4YTg3N2VkNzdkNDRkMGUw`

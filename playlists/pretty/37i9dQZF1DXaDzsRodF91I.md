@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDzsRodF91I.md) - [plain]
 
 > Songs from all genres get a punk rock makeover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 302,912 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 303,000 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,10 +46,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDzsRodF91I.md) - [plain]
 | 36 | [Don’t Tell Me It’s Over](https://open.spotify.com/track/17px1Xc6wfPnhHWM84njQP) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Don’t Tell Me It’s Over](https://open.spotify.com/album/1GNtqzWi7abSqeagV7eEDd) | 2:29 |
 | 37 | [Real World](https://open.spotify.com/track/0it1N64W6rvkZrAOh8zvdS) | [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr) | [Real World](https://open.spotify.com/album/796uBM2suTGG6K1395NAdK) | 3:48 |
 | 38 | [My Own Worst Enemy](https://open.spotify.com/track/28DVBHTfrD0pFK5EpcwevN) | [Get Scared](https://open.spotify.com/artist/5r9uIJCoquVtEkCkvcn8Ez) | [Punk Goes 90's, Vol\. 2](https://open.spotify.com/album/4OEnCG1PkPtwNwuIcb0Whv) | 3:00 |
-| 39 | [Good As Hell](https://open.spotify.com/track/6Pyqwi4DuNmOi6zUg7QypL) | [Cold Years](https://open.spotify.com/artist/5zJB2KYIylCM6uPtl9R9yp) | [Good As Hell](https://open.spotify.com/album/3TbhUxXZVy5o5IWARpxptt) | 2:53 |
+| 39 | [death bed \(coffee for your head\)](https://open.spotify.com/track/4SSfV3UhD90WDBp5OyY82t) | [Faber Drive](https://open.spotify.com/artist/3SziwNj6JCnqd2ajUdXlIT), [Dave Faber](https://open.spotify.com/artist/2eQOHn4qBMuuKTtx7seCz8) | [death bed \(coffee for your head\)](https://open.spotify.com/album/2I9MOmbSZg7yNEAFSrFeCj) | 2:40 |
 | 40 | [Your Graduation](https://open.spotify.com/track/28yJKwgBMenhf5VZn4M87U) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [Your Graduation](https://open.spotify.com/album/25XnjAZVINPXDBeifHQxiJ) | 2:40 |
-| 41 | [Without Me](https://open.spotify.com/track/2ErhC6VNFH8DFV9x7lZ8Cm) | [FigureItOut](https://open.spotify.com/artist/1IuyjI3FTndgSAXk2cMXXV) | [Without Me](https://open.spotify.com/album/1L8knGs23OsDiIWcREQUUK) | 3:04 |
-| 42 | [death bed \(coffee for your head\)](https://open.spotify.com/track/4SSfV3UhD90WDBp5OyY82t) | [Faber Drive](https://open.spotify.com/artist/3SziwNj6JCnqd2ajUdXlIT), [Dave Faber](https://open.spotify.com/artist/2eQOHn4qBMuuKTtx7seCz8) | [death bed \(coffee for your head\)](https://open.spotify.com/album/2I9MOmbSZg7yNEAFSrFeCj) | 2:40 |
+| 41 | [Good As Hell](https://open.spotify.com/track/6Pyqwi4DuNmOi6zUg7QypL) | [Cold Years](https://open.spotify.com/artist/5zJB2KYIylCM6uPtl9R9yp) | [Good As Hell](https://open.spotify.com/album/3TbhUxXZVy5o5IWARpxptt) | 2:53 |
+| 42 | [Without Me](https://open.spotify.com/track/2ErhC6VNFH8DFV9x7lZ8Cm) | [FigureItOut](https://open.spotify.com/artist/1IuyjI3FTndgSAXk2cMXXV) | [Without Me](https://open.spotify.com/album/1L8knGs23OsDiIWcREQUUK) | 3:04 |
 | 43 | [Can’t Feel My Face](https://open.spotify.com/track/2TZu0eg6gBNwbqPyzSDqnf) | [The Amity Affliction](https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK) | [Punk Goes Pop, Vol\. 7](https://open.spotify.com/album/3vpUxVKjm32bKN7c3LkNxU) | 3:21 |
 | 44 | [Eye of the Tiger](https://open.spotify.com/track/7zV1lZsCJZRh26TwAAz8uP) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [From The Screen To Your Stereo 3](https://open.spotify.com/album/5kXa75AebVa3cTR07N4fxv) | 3:24 |
 | 45 | [In Too Deep](https://open.spotify.com/track/76rOZ9F8s8mX9N3NhZBgxt) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [In Too Deep](https://open.spotify.com/album/5cBeOUywALVmPxmCS8CPPw) | 3:41 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDzsRodF91I.md) - [plain]
 | 71 | [The kids aren't alright](https://open.spotify.com/track/3v7u4pUZcvpxDtPgwMMh5u) | [Nomy](https://open.spotify.com/artist/20bAxKr0YrCvceZeLqs37e) | [Kill us all](https://open.spotify.com/album/0oHclsVKO0voqIP0u2cifF) | 3:00 |
 | 72 | [Youngblood](https://open.spotify.com/track/4p45ziVRdZu8vRIHbklfY0) | [Colour & Shade](https://open.spotify.com/artist/0Kp0fg86lfOzSBpM3CafS8) | [Youngblood](https://open.spotify.com/album/11edJDSbJOQ09CnqJUp2fi) | 3:46 |
 | 73 | [Your Love](https://open.spotify.com/track/4TKXwzlxzqUeG2Rk9JfQZh) | [Living in Fiction](https://open.spotify.com/artist/1AQHAqCjfAC3iitV5bd3ET) | [Your Love](https://open.spotify.com/album/0XPEgk2PMqXJJsqMLAEqx9) | 3:36 |
-| 74 | [So Done](https://open.spotify.com/track/6TVz1JegvHHx9a0BlMiURt) | [Five AM](https://open.spotify.com/artist/5yOIBW9Rxj73pJrqhW0fpS) | [So Done](https://open.spotify.com/album/35btLqmmx303H9UxLwUSrv) | 1:59 |
-| 75 | [There's Nothing Holdin' Me Back](https://open.spotify.com/track/4dUedvWuuvVMW5qwdGfyrE) | [The Gospel Youth](https://open.spotify.com/artist/5EWAtvRDy8I6sSYlMjD6g0) | [There's Nothing Holdin' Me Back](https://open.spotify.com/album/4USDJ3abnqMqHJxL2IRgPu) | 3:23 |
+| 74 | [There's Nothing Holdin' Me Back](https://open.spotify.com/track/4dUedvWuuvVMW5qwdGfyrE) | [The Gospel Youth](https://open.spotify.com/artist/5EWAtvRDy8I6sSYlMjD6g0) | [There's Nothing Holdin' Me Back](https://open.spotify.com/album/4USDJ3abnqMqHJxL2IRgPu) | 3:23 |
+| 75 | [So Done](https://open.spotify.com/track/6TVz1JegvHHx9a0BlMiURt) | [Five AM](https://open.spotify.com/artist/5yOIBW9Rxj73pJrqhW0fpS) | [So Done](https://open.spotify.com/album/35btLqmmx303H9UxLwUSrv) | 1:59 |
 | 76 | [Treat You Better](https://open.spotify.com/track/18af6i5FTYmaA4hZIgHcxU) | [Throw The Fight](https://open.spotify.com/artist/1nRfyHvAh1foLjOCa3hbv7) | [Treat You Better](https://open.spotify.com/album/54FrEL61hWG3qKQK07lnbR) | 3:07 |
 | 77 | [Losing My Religion](https://open.spotify.com/track/6wLbbFtRtoWoVXB3PEOHwW) | [The Wonder Years](https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K) | [Losing My Religion](https://open.spotify.com/album/5DrlVXdnx3j7ZL6ZEuvbW2) | 4:28 |
 | 78 | [Don't Stop Me Now](https://open.spotify.com/track/6tUejaw8c0HZDg9TM4lXXf) | [The Regrettes](https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E) | [Don't Stop Me Now](https://open.spotify.com/album/1YwulgouNoPhGJ3qLB511P) | 3:20 |
@@ -99,14 +99,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDzsRodF91I.md) - [plain]
 | 89 | [PEOPLE \(feat\. FIDLAR\)](https://open.spotify.com/track/6YBz2t787QoPWZrIww5AvV) | [SWMRS](https://open.spotify.com/artist/7dLkuQHF2ijbK6jiLFyIWM), [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [PEOPLE \(feat\. FIDLAR\)](https://open.spotify.com/album/6uHbCLoVuonbsJrIVvELKI) | 2:49 |
 | 90 | [Mr\. Brightside](https://open.spotify.com/track/6888KUSNyofc6EQD5IwOFB) | [FigureItOut](https://open.spotify.com/artist/1IuyjI3FTndgSAXk2cMXXV) | [Mr\. Brightside](https://open.spotify.com/album/6s1utBdxP5zDWN29GjdbLx) | 3:21 |
 | 91 | [Adore You](https://open.spotify.com/track/520z2yumDjdc18QvmWk5vM) | [First to Eleven](https://open.spotify.com/artist/3Cpk1xlScqbYhmv5EqoI4Y) | [Covers, Vol\. 5](https://open.spotify.com/album/6SFXA3Oo0WxQmcqucfHPVm) | 3:29 |
-| 92 | [Thatcher Fucked the Kids](https://open.spotify.com/track/4bQm41HanVPO4wh6pNpB9L) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [West Coast vs\. Wessex](https://open.spotify.com/album/1V0jqCyz5StIhGp16Ggdz7) | 3:07 |
-| 93 | [Surrender](https://open.spotify.com/track/1yHvODNeWfw7yKdlyEzNOu) | [The Dirty Nil](https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98) | [Surrender](https://open.spotify.com/album/6fvyhhViksucPFXiYHs1DG) | 3:32 |
+| 92 | [Surrender](https://open.spotify.com/track/1yHvODNeWfw7yKdlyEzNOu) | [The Dirty Nil](https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98) | [Surrender](https://open.spotify.com/album/6fvyhhViksucPFXiYHs1DG) | 3:32 |
+| 93 | [Thatcher Fucked the Kids](https://open.spotify.com/track/4bQm41HanVPO4wh6pNpB9L) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [West Coast vs\. Wessex](https://open.spotify.com/album/1V0jqCyz5StIhGp16Ggdz7) | 3:07 |
 | 94 | [Larger Than Life](https://open.spotify.com/track/7gTKH7BRYJ1hfVuTHbAfoK) | [Ready Steady Steroids](https://open.spotify.com/artist/1ObNbwiR2rX4PUY2BUF9xN) | [Homebound](https://open.spotify.com/album/2Ctb46rmaHdsvHDzjzMLvC) | 3:47 |
 | 95 | [You're Dead / Vampire Ska](https://open.spotify.com/track/65k4rC8pAWcKq6xkGPhtbt) | [We Are The Union](https://open.spotify.com/artist/4AAXAVOZ3fw7M8ILLrKLvs) | [You're Dead / Vampire Ska](https://open.spotify.com/album/7L9mILJxtPj59Mwj0YT0Sh) | 2:29 |
 | 96 | [Wake Me Up When September Ends](https://open.spotify.com/track/1Rr4FlKdImwLx8AKvjwdyi) | [With Confidence](https://open.spotify.com/artist/2PWXHVDEtObSmUrNhfPRav) | [Not Your American Idiots](https://open.spotify.com/album/3PoOM4CglYzNmpLxVFvePx) | 3:16 |
 | 97 | [Teenage Dream](https://open.spotify.com/track/0kpDTCeGWOfGor1kcJUFwu) | [The Plugs](https://open.spotify.com/artist/4ER2AgS7VMGpUcTXcbBddj) | [Judging Books by Their Covers](https://open.spotify.com/album/3easwftCM6KOgEo0FzYZ1E) | 3:27 |
 | 98 | [Yummy](https://open.spotify.com/track/5rUY5iXXSZbuJJsmDb1QRU) | [Fame on Fire](https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP) | [Yummy](https://open.spotify.com/album/3CuZMYOl73DPzfm8suzQ7v) | 3:21 |
 | 99 | [Give Yourself A Try](https://open.spotify.com/track/6PtjoQQDYygkbN13dg4OIv) | [WSTR](https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7) | [Give Yourself A Hell](https://open.spotify.com/album/2r9VWcYFQft2V6PBQkRIA7) | 3:19 |
-| 100 | [Hand in My Pocket](https://open.spotify.com/track/4iiwJWeyRKIyrbs6GR5EXY) | [Seaway](https://open.spotify.com/artist/0JXDwBs1sEp6UKoAP58UdF) | [Fresh Produce](https://open.spotify.com/album/1TvvUBfgFDs6RWsAG7rsmG) | 3:28 |
+| 100 | [Morning Glory](https://open.spotify.com/track/7Jus0fkLaBKa0vljILAkSS) | [Locket](https://open.spotify.com/artist/6h0cRpTv4GFq0zYbCbsDXy) | [Morning Glory](https://open.spotify.com/album/5QKFFremJ9WJV3SlEQQMcX) | 4:08 |
 
-Snapshot ID: `MTYzMDYwMjgyMSwwMDAwMDAwMGZkMjgwNWIzMTFlYjY5YTcyMGJkYzcwMGZiYzY4YTlk`
+Snapshot ID: `MTYzMDYwMjgyMSwwMDAwMDAwMGM1N2E1MmM0OWE2ZTkzZTIyNzVjYzQwYTFmYzliYTdm`

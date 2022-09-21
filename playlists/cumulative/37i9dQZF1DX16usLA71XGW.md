@@ -4,11 +4,11 @@
 
 > East Africa Queens in their musical element.
 
-67 songs - 3 hr 32 min - [published](https://open.spotify.com/playlist/2a1bfihdwFyMCcETvTMWBc)
+68 songs - 3 hr 34 min - [published](https://open.spotify.com/playlist/2a1bfihdwFyMCcETvTMWBc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Anayefaa](https://open.spotify.com/track/6WJpstQ3jrreN8NPFGcj1a) | [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ) | [Anayefaa](https://open.spotify.com/album/4gZlkGvAaeJWyZbygBFoUi) | 3:19 | 2022-07-18 |  |
+| [Anayefaa](https://open.spotify.com/track/6WJpstQ3jrreN8NPFGcj1a) | [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ) | [Anayefaa](https://open.spotify.com/album/4gZlkGvAaeJWyZbygBFoUi) | 3:19 | 2022-07-18 | 2022-09-21 |
 | [Baby Yoo](https://open.spotify.com/track/0yRLwpZId3BTseg4sts3hR) | [Ruth Ngendo](https://open.spotify.com/artist/7BNAToPYtiC9nK6KXexLAc) | [Baby Yoo](https://open.spotify.com/album/5k5SMqOpxmpQUrQbXtZUJ8) | 3:04 | 2022-07-18 | 2022-09-09 |
 | [Back4th](https://open.spotify.com/track/3B1ULzAnh4OsrxSeSonN5d) | [Fena Gitu](https://open.spotify.com/artist/5uWJrA5m2FRzq2FnZAmL1W) | [Back4th](https://open.spotify.com/album/1GfzwGWp0yd53AGZX98zrt) | 3:12 | 2022-07-18 |  |
 | [Bayi](https://open.spotify.com/track/1CkRUUq109CKIB96vSXFwR) | [Apio Moro](https://open.spotify.com/artist/3TS6PfDQo5FRZaG03GdkAj) | [Choore](https://open.spotify.com/album/1JJS21TtylktwlJYPrZuxH) | 3:19 | 2022-07-18 |  |
@@ -54,6 +54,7 @@
 | [Omutima](https://open.spotify.com/track/4uDqe7prnIPYPU2wq1VsVW) | [Lydia Jazmine](https://open.spotify.com/artist/3iIWxRdX4e7W4ZD2urn7WM) | [Omutima](https://open.spotify.com/album/61wC1nlhsMQeNVSCDEZDhY) | 2:43 | 2022-07-18 |  |
 | [One Bite](https://open.spotify.com/track/6OOi3c5ikce6w19EN5Mp1T) | [Vinka](https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES) | [One Bite](https://open.spotify.com/album/5806Vs0UN9KhUaJwKEc7TO) | 2:54 | 2022-07-18 |  |
 | [Pen & Paper](https://open.spotify.com/track/08MoSv9F2ZzT3B1GJR3OD6) | [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [Hook](https://open.spotify.com/artist/0d2cvrJfsN0fBd6WuwwlDQ) | [Pen & Paper](https://open.spotify.com/album/185DPVsnR1b6ooK4VDqJPl) | 3:07 | 2022-07-18 |  |
+| [Penzi Wa Kasi](https://open.spotify.com/track/4vaKIBY9351V0u6bstPpUu) | [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ) | [Unintentional](https://open.spotify.com/album/1f0MuY3kBgS1QmAIaRu3kj) | 2:44 | 2022-09-20 |  |
 | [Pity Party](https://open.spotify.com/track/01j67FBrhCFWC2kYJWGmdA) | [Kamanzii](https://open.spotify.com/artist/5Qzz9wRaEZdcWmSvCEn5Hb) | [Pity Party](https://open.spotify.com/album/3vLiY1nSz8oe12nrSzkW4y) | 3:24 | 2022-07-18 |  |
 | [Poison](https://open.spotify.com/track/0tHwaQYWrerlG3WlkrLACX) | [Nyax](https://open.spotify.com/artist/609q0eLCXxneCVx3w6j6W5) | [2Young4Love](https://open.spotify.com/album/4RbPPMKU4YBIbv0RTg2QLC) | 3:01 | 2022-07-18 |  |
 | [Praises to Mama](https://open.spotify.com/track/2zLlJmbsJfec7NX7cUjlpY) | [Cathy Matete](https://open.spotify.com/artist/1HwWig74b2zj1B37LeiXfX) | [Praises to Mama](https://open.spotify.com/album/44oSU6bHazwBL0dUovMxRH) | 4:10 | 2022-07-18 |  |

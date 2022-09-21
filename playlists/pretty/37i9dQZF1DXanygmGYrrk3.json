@@ -1,12 +1,12 @@
 {
   "description": "Tus canciones favoritas de M\u00fasica Mexicana, all in one place! Cover: Selena",
-  "num_followers": 161287,
+  "num_followers": 161457,
   "original_name": "Las Favoritas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY3MTI2MCwwMDAwMDAwMGYxYmNiMDI1M2VjNzJlMzkzOWY0ZmJmYTExOGZhOTg3",
+  "snapshot_id": "MTY2MjY3MTI2MCwwMDAwMDAwMGQxYmMwZWUxZjNjMTQyZTI4NWQ1MGUwZDY5MmE5NmY4",
   "tracks": [
     {
       "added_at": "2022-09-08 21:07:40",
@@ -391,22 +391,6 @@
     {
       "added_at": "2022-09-08 21:07:40",
       "album": {
-        "name": "D\u00e9cimo Aniversario",
-        "url": "https://open.spotify.com/album/0rDFeKay5JBgF7fFIUWYca"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 164360,
-      "name": "Tranquilito",
-      "url": "https://open.spotify.com/track/2LJRoFOtMGLnSxJqlJuhge"
-    },
-    {
-      "added_at": "2022-09-08 21:07:40",
-      "album": {
         "name": "Ojos Cerrados",
         "url": "https://open.spotify.com/album/0bmO2mhykyBDs7jt1ftQe0"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 180750,
       "name": "Ojos Cerrados",
       "url": "https://open.spotify.com/track/4OVpyR6yhYyVoRj9D7CERz"
+    },
+    {
+      "added_at": "2022-09-08 21:07:40",
+      "album": {
+        "name": "D\u00e9cimo Aniversario",
+        "url": "https://open.spotify.com/album/0rDFeKay5JBgF7fFIUWYca"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 164360,
+      "name": "Tranquilito",
+      "url": "https://open.spotify.com/track/2LJRoFOtMGLnSxJqlJuhge"
     },
     {
       "added_at": "2022-09-08 21:07:40",
@@ -535,22 +535,6 @@
     {
       "added_at": "2022-09-08 21:07:40",
       "album": {
-        "name": "Encerrados Pero Enfiestados Vol. 1 (Live)",
-        "url": "https://open.spotify.com/album/3EznPHQJtIYF3OH2gFUt9K"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 246131,
-      "name": "Tu - Live",
-      "url": "https://open.spotify.com/track/64xuDtR4TKUI8JAeZoqndu"
-    },
-    {
-      "added_at": "2022-09-08 21:07:40",
-      "album": {
         "name": "Fuera De Servicio",
         "url": "https://open.spotify.com/album/2zPcd5LBH4VamS81YFR0nG"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 154868,
       "name": "Fuera De Servicio",
       "url": "https://open.spotify.com/track/6wTqVQ6RRkqAyT5XDGcRq4"
+    },
+    {
+      "added_at": "2022-09-08 21:07:40",
+      "album": {
+        "name": "Encerrados Pero Enfiestados Vol. 1 (Live)",
+        "url": "https://open.spotify.com/album/3EznPHQJtIYF3OH2gFUt9K"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 246131,
+      "name": "Tu - Live",
+      "url": "https://open.spotify.com/track/64xuDtR4TKUI8JAeZoqndu"
     },
     {
       "added_at": "2022-09-08 21:07:40",
@@ -651,26 +651,6 @@
     {
       "added_at": "2022-09-08 21:07:40",
       "album": {
-        "name": "Puerta Abierta, Vol. 1 (En Vivo)",
-        "url": "https://open.spotify.com/album/7rJgUM53wtu1WnwcAMaEgg"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        },
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 142064,
-      "name": "Cabr\u00f3n y Vago - En Vivo",
-      "url": "https://open.spotify.com/track/4nbWX2HzrOEnX4xxvYRCyU"
-    },
-    {
-      "added_at": "2022-09-08 21:07:40",
-      "album": {
         "name": "El Amor De Tu Vida",
         "url": "https://open.spotify.com/album/0TkiwzRoKzV332NLyvnKjJ"
       },
@@ -687,6 +667,26 @@
       "duration_ms": 163223,
       "name": "El Amor De Tu Vida",
       "url": "https://open.spotify.com/track/5HpXH64cSBNu26yhw3vK37"
+    },
+    {
+      "added_at": "2022-09-08 21:07:40",
+      "album": {
+        "name": "Puerta Abierta, Vol. 1 (En Vivo)",
+        "url": "https://open.spotify.com/album/7rJgUM53wtu1WnwcAMaEgg"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        },
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 142064,
+      "name": "Cabr\u00f3n y Vago - En Vivo",
+      "url": "https://open.spotify.com/track/4nbWX2HzrOEnX4xxvYRCyU"
     },
     {
       "added_at": "2022-09-08 21:07:40",
@@ -807,22 +807,6 @@
     {
       "added_at": "2022-09-08 21:07:40",
       "album": {
-        "name": "Mi Mexico Querido",
-        "url": "https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1"
-      },
-      "artists": [
-        {
-          "name": "Mi Banda El Mexicano",
-          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
-        }
-      ],
-      "duration_ms": 212776,
-      "name": "Ramito De Violetas",
-      "url": "https://open.spotify.com/track/6sRaqq9SYsSTPvrWkL1sRy"
-    },
-    {
-      "added_at": "2022-09-08 21:07:40",
-      "album": {
         "name": "El Malo",
         "url": "https://open.spotify.com/album/4fvBzXczcpD346IFgtWnaI"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 155802,
       "name": "Me La Avente",
       "url": "https://open.spotify.com/track/3ahvKiNH7l6EpnTnzkZpG1"
+    },
+    {
+      "added_at": "2022-09-08 21:07:40",
+      "album": {
+        "name": "Mi Mexico Querido",
+        "url": "https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "duration_ms": 212776,
+      "name": "Ramito De Violetas",
+      "url": "https://open.spotify.com/track/6sRaqq9SYsSTPvrWkL1sRy"
     },
     {
       "added_at": "2022-09-08 21:07:40",
@@ -975,18 +975,18 @@
     {
       "added_at": "2022-09-08 21:07:40",
       "album": {
-        "name": "Buena Vibra",
-        "url": "https://open.spotify.com/album/3mnkgCAgh8lwjzMkGxHGw1"
+        "name": "Me Volvi A Acordar De Ti",
+        "url": "https://open.spotify.com/album/5UDp9amJcdxcM86mM0Hwiy"
       },
       "artists": [
         {
-          "name": "Jose Villarreal",
-          "url": "https://open.spotify.com/artist/02qtde8veYObRnk68N35sP"
+          "name": "Los Bukis",
+          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
         }
       ],
-      "duration_ms": 193874,
-      "name": "Buena Vibra",
-      "url": "https://open.spotify.com/track/6Y2qNukfWKFGbAv2iONhvy"
+      "duration_ms": 212226,
+      "name": "Tu C\u00e1rcel",
+      "url": "https://open.spotify.com/track/0LNn2O06dvsZqvWaS870xJ"
     },
     {
       "added_at": "2022-09-08 21:07:40",
@@ -1007,18 +1007,18 @@
     {
       "added_at": "2022-09-08 21:07:40",
       "album": {
-        "name": "Me Volvi A Acordar De Ti",
-        "url": "https://open.spotify.com/album/5UDp9amJcdxcM86mM0Hwiy"
+        "name": "Buena Vibra",
+        "url": "https://open.spotify.com/album/3mnkgCAgh8lwjzMkGxHGw1"
       },
       "artists": [
         {
-          "name": "Los Bukis",
-          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
+          "name": "Jose Villarreal",
+          "url": "https://open.spotify.com/artist/02qtde8veYObRnk68N35sP"
         }
       ],
-      "duration_ms": 212226,
-      "name": "Tu C\u00e1rcel",
-      "url": "https://open.spotify.com/track/0LNn2O06dvsZqvWaS870xJ"
+      "duration_ms": 193874,
+      "name": "Buena Vibra",
+      "url": "https://open.spotify.com/track/6Y2qNukfWKFGbAv2iONhvy"
     },
     {
       "added_at": "2022-09-08 21:07:40",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2022-09-08 21:07:40",
       "album": {
-        "name": "No Paras de Hacerme Feliz",
-        "url": "https://open.spotify.com/album/4GnznPcGs85z1yeeWA5Gyi"
-      },
-      "artists": [
-        {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        }
-      ],
-      "duration_ms": 185296,
-      "name": "No Paras de Hacerme Feliz",
-      "url": "https://open.spotify.com/track/5bP1RCdGcUxkwASwKAbPHa"
-    },
-    {
-      "added_at": "2022-09-08 21:07:40",
-      "album": {
         "name": "Corridos Tumbados",
         "url": "https://open.spotify.com/album/0Pr7tJefVMQCh8hy1n8OLr"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 187352,
       "name": "Disfruto Lo Malo",
       "url": "https://open.spotify.com/track/7LH2UUuyMHt7035PLZQ8wx"
+    },
+    {
+      "added_at": "2022-09-08 21:07:40",
+      "album": {
+        "name": "No Paras de Hacerme Feliz",
+        "url": "https://open.spotify.com/album/4GnznPcGs85z1yeeWA5Gyi"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "duration_ms": 185296,
+      "name": "No Paras de Hacerme Feliz",
+      "url": "https://open.spotify.com/track/5bP1RCdGcUxkwASwKAbPHa"
     },
     {
       "added_at": "2022-09-08 21:07:40",
@@ -2195,6 +2195,22 @@
     {
       "added_at": "2022-09-08 21:07:40",
       "album": {
+        "name": "Mi Princesa",
+        "url": "https://open.spotify.com/album/74Z68wlXXHP5nzOobB6ppJ"
+      },
+      "artists": [
+        {
+          "name": "Remmy Valenzuela",
+          "url": "https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX"
+        }
+      ],
+      "duration_ms": 214146,
+      "name": "Espero Con Ansias",
+      "url": "https://open.spotify.com/track/22SnIb63vexyG4RlRcqI9r"
+    },
+    {
+      "added_at": "2022-09-08 21:07:40",
+      "album": {
         "name": "Qu\u00e9 Bueno Es Tenerte",
         "url": "https://open.spotify.com/album/5mylIAlnG7NVExUV5hPc3H"
       },
@@ -2215,22 +2231,6 @@
     {
       "added_at": "2022-09-08 21:07:40",
       "album": {
-        "name": "Mi Princesa",
-        "url": "https://open.spotify.com/album/74Z68wlXXHP5nzOobB6ppJ"
-      },
-      "artists": [
-        {
-          "name": "Remmy Valenzuela",
-          "url": "https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX"
-        }
-      ],
-      "duration_ms": 214146,
-      "name": "Espero Con Ansias",
-      "url": "https://open.spotify.com/track/22SnIb63vexyG4RlRcqI9r"
-    },
-    {
-      "added_at": "2022-09-08 21:07:40",
-      "album": {
         "name": "El Alba\u00f1il",
         "url": "https://open.spotify.com/album/3E7KG2YrZfnOCaMAV1UShV"
       },
@@ -2243,38 +2243,6 @@
       "duration_ms": 235701,
       "name": "El Alba\u00f1il",
       "url": "https://open.spotify.com/track/6Cp7mxrHFobJvo7YSv0zEb"
-    },
-    {
-      "added_at": "2022-09-08 21:07:40",
-      "album": {
-        "name": "No Pongan Esas Canciones",
-        "url": "https://open.spotify.com/album/0NTVddhlKzjxGdCAdWR80h"
-      },
-      "artists": [
-        {
-          "name": "Espinoza Paz",
-          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
-        }
-      ],
-      "duration_ms": 197819,
-      "name": "Qu\u00e9 Mal Te Ves Sin M\u00ed",
-      "url": "https://open.spotify.com/track/4lc3SmNj0FBtPGygUfeGc4"
-    },
-    {
-      "added_at": "2022-09-08 21:07:40",
-      "album": {
-        "name": "En Vida",
-        "url": "https://open.spotify.com/album/0P7idNzelnJCzpY1LFuJxN"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Sebastianes",
-          "url": "https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6"
-        }
-      ],
-      "duration_ms": 145826,
-      "name": "En Vida",
-      "url": "https://open.spotify.com/track/7LNtyuekYHiZ99UxkrfCQR"
     },
     {
       "added_at": "2022-09-08 21:07:40",
@@ -2295,6 +2263,38 @@
       "duration_ms": 191200,
       "name": "Cosas Cambiaron",
       "url": "https://open.spotify.com/track/6weHET4DndhR9N1LFsRCOb"
+    },
+    {
+      "added_at": "2022-09-08 21:07:40",
+      "album": {
+        "name": "En Vida",
+        "url": "https://open.spotify.com/album/0P7idNzelnJCzpY1LFuJxN"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Sebastianes",
+          "url": "https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6"
+        }
+      ],
+      "duration_ms": 145826,
+      "name": "En Vida",
+      "url": "https://open.spotify.com/track/7LNtyuekYHiZ99UxkrfCQR"
+    },
+    {
+      "added_at": "2022-09-08 21:07:40",
+      "album": {
+        "name": "No Pongan Esas Canciones",
+        "url": "https://open.spotify.com/album/0NTVddhlKzjxGdCAdWR80h"
+      },
+      "artists": [
+        {
+          "name": "Espinoza Paz",
+          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
+        }
+      ],
+      "duration_ms": 197819,
+      "name": "Qu\u00e9 Mal Te Ves Sin M\u00ed",
+      "url": "https://open.spotify.com/track/4lc3SmNj0FBtPGygUfeGc4"
     },
     {
       "added_at": "2022-09-08 21:07:40",
@@ -2331,22 +2331,6 @@
     {
       "added_at": "2022-09-08 21:07:40",
       "album": {
-        "name": "Esta Vida Es Muy Bonita",
-        "url": "https://open.spotify.com/album/2nXwmdIdulClgc82z8E2EB"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 130240,
-      "name": "Esta Vida Es Muy Bonita",
-      "url": "https://open.spotify.com/track/0crk5HnlDyF0lpHPRiLbX1"
-    },
-    {
-      "added_at": "2022-09-08 21:07:40",
-      "album": {
         "name": "Te Vas a Arrepentir",
         "url": "https://open.spotify.com/album/0EcTd4rBSHWuk8bp86vk06"
       },
@@ -2359,6 +2343,22 @@
       "duration_ms": 231839,
       "name": "Te Vas a Arrepentir",
       "url": "https://open.spotify.com/track/2uAqlWmMNq1CJSezD2b2Fj"
+    },
+    {
+      "added_at": "2022-09-08 21:07:40",
+      "album": {
+        "name": "Esta Vida Es Muy Bonita",
+        "url": "https://open.spotify.com/album/2nXwmdIdulClgc82z8E2EB"
+      },
+      "artists": [
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "duration_ms": 130240,
+      "name": "Esta Vida Es Muy Bonita",
+      "url": "https://open.spotify.com/track/0crk5HnlDyF0lpHPRiLbX1"
     },
     {
       "added_at": "2022-09-08 21:07:40",
@@ -2383,22 +2383,6 @@
     {
       "added_at": "2022-09-08 21:07:40",
       "album": {
-        "name": "Ced\u00ed",
-        "url": "https://open.spotify.com/album/6Tez8YETehXZ8GS6Q9yh4j"
-      },
-      "artists": [
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        }
-      ],
-      "duration_ms": 193346,
-      "name": "Ced\u00ed",
-      "url": "https://open.spotify.com/track/0C5u9cvJGDP4YpIbUyzJW4"
-    },
-    {
-      "added_at": "2022-09-08 21:07:40",
-      "album": {
         "name": "Estrenando Amante",
         "url": "https://open.spotify.com/album/6OTgNYYTX9V9VwlK1swNVw"
       },
@@ -2419,22 +2403,18 @@
     {
       "added_at": "2022-09-08 21:07:40",
       "album": {
-        "name": "Que La Quieran (Que La Cuiden)",
-        "url": "https://open.spotify.com/album/4pLO8dVJIBjoxiRjIM2KRG"
+        "name": "Ced\u00ed",
+        "url": "https://open.spotify.com/album/6Tez8YETehXZ8GS6Q9yh4j"
       },
       "artists": [
         {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        },
-        {
-          "name": "Joss Favela",
-          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
         }
       ],
-      "duration_ms": 194797,
-      "name": "Que La Quieran (Que La Cuiden)",
-      "url": "https://open.spotify.com/track/1axqKw987jqGeTfjm9tOuv"
+      "duration_ms": 193346,
+      "name": "Ced\u00ed",
+      "url": "https://open.spotify.com/track/0C5u9cvJGDP4YpIbUyzJW4"
     },
     {
       "added_at": "2022-09-08 21:07:40",
@@ -2451,6 +2431,26 @@
       "duration_ms": 174286,
       "name": "Hoy Voy a Olvidarte",
       "url": "https://open.spotify.com/track/7jKegvohKUhAEh0PxoKnxG"
+    },
+    {
+      "added_at": "2022-09-08 21:07:40",
+      "album": {
+        "name": "Que La Quieran (Que La Cuiden)",
+        "url": "https://open.spotify.com/album/4pLO8dVJIBjoxiRjIM2KRG"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        },
+        {
+          "name": "Joss Favela",
+          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
+        }
+      ],
+      "duration_ms": 194797,
+      "name": "Que La Quieran (Que La Cuiden)",
+      "url": "https://open.spotify.com/track/1axqKw987jqGeTfjm9tOuv"
     },
     {
       "added_at": "2022-09-08 21:07:40",
@@ -2575,22 +2575,6 @@
     {
       "added_at": "2022-09-08 21:07:40",
       "album": {
-        "name": "Entre A Mi Mundo",
-        "url": "https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 251373,
-      "name": "La Carcacha",
-      "url": "https://open.spotify.com/track/4JiVXc4q95AGnxrOS4VEK1"
-    },
-    {
-      "added_at": "2022-09-08 21:07:40",
-      "album": {
         "name": "\u00bfEn D\u00f3nde Estabas?",
         "url": "https://open.spotify.com/album/7ipOxYIavj7VLSeQAgi20D"
       },
@@ -2603,6 +2587,22 @@
       "duration_ms": 176066,
       "name": "\u00bfEn D\u00f3nde Estabas?",
       "url": "https://open.spotify.com/track/1lLHpScIhT8a9Mebm5YqX4"
+    },
+    {
+      "added_at": "2022-09-08 21:07:40",
+      "album": {
+        "name": "Entre A Mi Mundo",
+        "url": "https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 251373,
+      "name": "La Carcacha",
+      "url": "https://open.spotify.com/track/4JiVXc4q95AGnxrOS4VEK1"
     }
   ],
   "unique_name": "Las Favoritas",

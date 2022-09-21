@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Summer Vee Artwork: Joy Yamusangie
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,267 likes - 80 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,330 likes - 80 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

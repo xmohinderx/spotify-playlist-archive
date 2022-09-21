@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLmaNnR9HlL.md) - [plain]
 
 > La banda sonora para tus cenas en casa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 336,400 likes - 75 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 336,421 likes - 75 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLmaNnR9HlL.md) - [plain]
 | 70 | [Heartbeats](https://open.spotify.com/track/5YqpHuXpFjDVZ7tY1ClFll) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Veneer](https://open.spotify.com/album/2e0BYdQ7VJlzSNHafdmfrl) | 2:41 |
 | 71 | [What A Diff'rence A Day Made](https://open.spotify.com/track/66iKqUazBbTlAEjcZrpDkD) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [What A Diff'rence A Day Makes! \(Expanded Edition\)](https://open.spotify.com/album/0w8YD8Wz1hEkwXdsAMzzFe) | 2:31 |
 | 72 | [Movement](https://open.spotify.com/track/1djzKW3eYLyzjjHXazEWWh) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Wasteland, Baby!](https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw) | 3:57 |
-| 73 | [El Cuarto de Tula](https://open.spotify.com/track/7dRfobhDNnsEgB2ZArxA1f) | [Buena Vista Social Club](https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW) | [Buena Vista Social Club](https://open.spotify.com/album/6DPdEaZ0KDBCCgXyy4q8bi) | 7:24 |
-| 74 | [The Look Of Love](https://open.spotify.com/track/3CDHydgW0ssTh59f0jy1y3) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [The Look Of Love](https://open.spotify.com/album/4nmjBh2Td9I9x9JDncrQr3) | 4:42 |
+| 73 | [The Look Of Love](https://open.spotify.com/track/3CDHydgW0ssTh59f0jy1y3) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [The Look Of Love](https://open.spotify.com/album/4nmjBh2Td9I9x9JDncrQr3) | 4:42 |
+| 74 | [El Cuarto de Tula](https://open.spotify.com/track/7dRfobhDNnsEgB2ZArxA1f) | [Buena Vista Social Club](https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW) | [Buena Vista Social Club](https://open.spotify.com/album/6DPdEaZ0KDBCCgXyy4q8bi) | 7:24 |
 | 75 | [Gamesofluck](https://open.spotify.com/track/0rdWkO7ncrh1lrJGDmLq9L) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Gamesofluck](https://open.spotify.com/album/0ugE0qpkFDNLYFmNiUOOKA) | 5:48 |
 
-Snapshot ID: `MTYyOTM2NTIzOCwwMDAwMDAwMDg0M2NkYmRkODYyYjQwNDlkYTkxNmJjN2M5YjNiMzI0`
+Snapshot ID: `MTYyOTM2NTIzOCwwMDAwMDAwMDlmYmUyYTM4OTQxNjNlZjExNzUxOTQwN2I3MDU1NThj`

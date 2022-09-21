@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > Jag vill vara den som tar hela staden hem och tillbaka!
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,572 likes - 50 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,651 likes - 50 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,11 +40,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 30 | [Fingrarna i halsen](https://open.spotify.com/track/2JPEh0GTJA9SULAojbMjp4) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [Fingrarna i halsen](https://open.spotify.com/album/6xELbiSTUzXsradJS2oMH9) | 3:00 |
 | 31 | [BALENCIAGA](https://open.spotify.com/track/17NCOO2YdoHdtziSV9AoJo) | [FILV](https://open.spotify.com/artist/438DEJaM9KJdqbBUPnVYB0) | [BALENCIAGA](https://open.spotify.com/album/0c2qecYSSiW9ibtBlFyRWI) | 2:34 |
 | 32 | [Raggarbil](https://open.spotify.com/track/5Gltinn48NXDSsIwCuIRmK) | [Albatraoz](https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x) | [Raggarbil](https://open.spotify.com/album/6FdDyRhsoCoQlCVg1B6QYn) | 2:15 |
-| 33 | [Sämst i Norden \(Utan Sverige vore Norge ingenting\)](https://open.spotify.com/track/0GouWpGnbwyInBEPYrTvOp) | [SamTheMan](https://open.spotify.com/artist/33ynUCCkq4sqASHJiYveJX) | [Sämst i Norden \(Utan Sverige vore Norge ingenting\)](https://open.spotify.com/album/64mEH4zoGUodlMoCz8nbc6) | 2:13 |
+| 33 | [EFTERFEST PÅ VÅR BALKONG](https://open.spotify.com/track/2mb8CyNT8vw2UjOxfGwX60) | [Kuselofte](https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2), [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt) | [EFTERFEST PÅ VÅR BALKONG](https://open.spotify.com/album/2p4Z7QkMsyhIqLuf8W4fQL) | 2:20 |
 | 34 | [MEDVETSLÖS \- Ringnes\-Ronny Remix](https://open.spotify.com/track/6GgK6y4XRp2D4hNO5oj7Bt) | [LOAM](https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P), [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [MEDVETSLÖS \(Ringnes\-Ronny Remix\)](https://open.spotify.com/album/45I8yqaI4OJyg425GLNowv) | 3:06 |
 | 35 | [En gång till](https://open.spotify.com/track/0FupHylTHhYVgWAwzq5h58) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [En gång till](https://open.spotify.com/album/2g1GNjRGreJp22uF1ZUIAy) | 2:43 |
 | 36 | [Någon annan \(efter fem\)](https://open.spotify.com/track/0PoBA7LXHHc2maknAn7wEW) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [Någon annan \(efter fem\)](https://open.spotify.com/album/2uLEsGITJoOOYvkzfELW6Q) | 2:21 |
-| 37 | [EFTERFEST PÅ VÅR BALKONG](https://open.spotify.com/track/2mb8CyNT8vw2UjOxfGwX60) | [Kuselofte](https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2), [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt) | [EFTERFEST PÅ VÅR BALKONG](https://open.spotify.com/album/2p4Z7QkMsyhIqLuf8W4fQL) | 2:20 |
+| 37 | [Sämst i Norden \(Utan Sverige vore Norge ingenting\)](https://open.spotify.com/track/0GouWpGnbwyInBEPYrTvOp) | [SamTheMan](https://open.spotify.com/artist/33ynUCCkq4sqASHJiYveJX) | [Sämst i Norden \(Utan Sverige vore Norge ingenting\)](https://open.spotify.com/album/64mEH4zoGUodlMoCz8nbc6) | 2:13 |
 | 38 | [Tequila](https://open.spotify.com/track/3F2AroE0CHSFXZqFw4SXGu) | [AronChupa](https://open.spotify.com/artist/5vCOdeiQt9LyzdI87kt5Sh), [Flamingoz](https://open.spotify.com/artist/4hwEhYAJJmsXyRkuhzQ0IL) | [Tequila](https://open.spotify.com/album/5CAG06uHSoZeGjUK4WLojr) | 2:12 |
 | 39 | [Var Ska Vi Sova Inatt](https://open.spotify.com/track/454J9ZekfjmjWbfcpFaur3) | [Perikles](https://open.spotify.com/artist/2WjMknfXoWEZL4X5QbGd3z) | [Namn & Nummer](https://open.spotify.com/album/6KZycHubSS6ZY9CuMFGkhP) | 3:40 |
 | 40 | [Du kan inte få min öl](https://open.spotify.com/track/5htxjeCzsfkps5rh8ZiCd6) | [Albatraoz](https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x) | [Du kan inte få min öl](https://open.spotify.com/album/5mC9mcXhQFXcGUuyyuMdcN) | 2:16 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 46 | [VI SKA BLI FULLA](https://open.spotify.com/track/37EyJVC84SzAVpSf3h4792) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [Danspunk](https://open.spotify.com/album/6A1xmfg6FIEavYK0mmEswK) | 2:45 |
 | 47 | [Ooa hela natten](https://open.spotify.com/track/2pa73fbZD7ltJ09AB0Teox) | [Attack](https://open.spotify.com/artist/7xDHTY5TFdVXbIt961koTh) | [Rätt stuk](https://open.spotify.com/album/0mCkxwfQqeZw72kKV59TfW) | 4:13 |
 | 48 | [SNABB](https://open.spotify.com/track/23Aq54DbkbK2Bo1PicKxF2) | [250 kg kärlek](https://open.spotify.com/artist/4zLti6k7kpm9jwOVJv7wtT), [Erik Meduza](https://open.spotify.com/artist/4zZY1aZuZugxyhDzZlMphr), [Julia Kedhammar](https://open.spotify.com/artist/24JKr8xzxciKUmpx8fu8AY) | [SNABB](https://open.spotify.com/album/3Of7CxWmAnTswawayj6X6I) | 2:24 |
-| 49 | [Piga & dräng](https://open.spotify.com/track/0fXANVK5oDCujoed5II6La) | [Drängarna](https://open.spotify.com/artist/2HwptwPQ4lvpYimzOJcYoY) | [Piga & dräng](https://open.spotify.com/album/7cuJlIPSxVVZu6kTOJZAJr) | 2:58 |
-| 50 | [Legenden Om Mange](https://open.spotify.com/track/4W0Jsiw7Rbxp9BGChwz4js) | [Mange Makers](https://open.spotify.com/artist/3h4mC2mtKfxToywPSrVPcC), [HENO](https://open.spotify.com/artist/4IKiD6do1SVAEARBUbBF6r) | [Legenden Om Mange](https://open.spotify.com/album/1mWtV61d4Q5d8L4VPszDTG) | 2:38 |
+| 49 | [Legenden Om Mange](https://open.spotify.com/track/4W0Jsiw7Rbxp9BGChwz4js) | [Mange Makers](https://open.spotify.com/artist/3h4mC2mtKfxToywPSrVPcC), [HENO](https://open.spotify.com/artist/4IKiD6do1SVAEARBUbBF6r) | [Legenden Om Mange](https://open.spotify.com/album/1mWtV61d4Q5d8L4VPszDTG) | 2:38 |
+| 50 | [Piga & dräng](https://open.spotify.com/track/0fXANVK5oDCujoed5II6La) | [Drängarna](https://open.spotify.com/artist/2HwptwPQ4lvpYimzOJcYoY) | [Piga & dräng](https://open.spotify.com/album/7cuJlIPSxVVZu6kTOJZAJr) | 2:58 |
 
-Snapshot ID: `MTY2MzU3MTYyNiwwMDAwMDAwMGEzNTk0YzkzNTU1YTA5MDA1ZTIyNjY4MzFmNzE0NWQ2`
+Snapshot ID: `MTY2MzU3MTYyNiwwMDAwMDAwMDBkY2U2YmM0MmYzMTM3OWUzYzE4MWM3MTY0NjYzNDgy`

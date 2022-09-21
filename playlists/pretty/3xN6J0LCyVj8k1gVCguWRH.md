@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 
 > Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies—it’s an example of how music really can bring us all together\. \(Includes the 2021 &amp; 2020 editions + bonus tracks\)
 
-[soundsdeli](https://open.spotify.com/user/soundsdeli) - 100,349 likes - 167 songs - 10 hr 24 min
+[soundsdeli](https://open.spotify.com/user/soundsdeli) - 100,353 likes - 167 songs - 10 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

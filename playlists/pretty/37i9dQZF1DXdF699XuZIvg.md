@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdF699XuZIvg.md) - [plain]
 
 > Hit the road and scream your heart out!
 
-[Spotify](https://open.spotify.com/user/spotify) - 540,444 likes - 75 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 540,707 likes - 75 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,12 +57,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdF699XuZIvg.md) - [plain]
 | 47 | [Girls Got Rhythm](https://open.spotify.com/track/6Wn3pdFtAcnYJyJVITwt7N) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Highway to Hell](https://open.spotify.com/album/10v912xgTZbjAtYfyKWJCS) | 3:23 |
 | 48 | [Balls to the Wall](https://open.spotify.com/track/2dbOYFfS7r7NAzquRvji9A) | [Accept](https://open.spotify.com/artist/3JDIAtVrJdQ7GFOX26LYpv) | [Balls To The Wall](https://open.spotify.com/album/2twCPCDGJjVD90GWUjA8vN) | 5:42 |
 | 49 | [Prey](https://open.spotify.com/track/7lMFAK8dv0QkWpIlZcWQlJ) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Reverence](https://open.spotify.com/album/46hNwndF4Tm6D1cGr0G5zL) | 4:15 |
-| 50 | [Go With The Flow](https://open.spotify.com/track/45DElIx0dXqUH4A88yQFdE) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Songs For The Deaf](https://open.spotify.com/album/58HZZpS0wxJKwGjoerg0mk) | 3:07 |
-| 51 | [When Legends Rise](https://open.spotify.com/track/1Si7crvw1M6Kgz9XiAtMiJ) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [When Legends Rise](https://open.spotify.com/album/1n5bxxxowQ8ufvx2DXKeEV) | 2:52 |
+| 50 | [When Legends Rise](https://open.spotify.com/track/1Si7crvw1M6Kgz9XiAtMiJ) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [When Legends Rise](https://open.spotify.com/album/1n5bxxxowQ8ufvx2DXKeEV) | 2:52 |
+| 51 | [Go With The Flow](https://open.spotify.com/track/45DElIx0dXqUH4A88yQFdE) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Songs For The Deaf](https://open.spotify.com/album/58HZZpS0wxJKwGjoerg0mk) | 3:07 |
 | 52 | [Black Wedding \(feat\. Rob Halford\)](https://open.spotify.com/track/3zUwwYcmob803s2Bkck8GY) | [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT), [Rob Halford](https://open.spotify.com/artist/7CTjkl9M3enzBBfm1u10Sy) | [Ritual](https://open.spotify.com/album/1JIIc6FIetBaCAzWkCSBjL) | 4:07 |
 | 53 | [Children of the Grave \- 2014 Remaster](https://open.spotify.com/track/5clz8BOBulxx7q2yHxqOCk) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Master of Reality \(2014 Remaster\)](https://open.spotify.com/album/7pGb2cOGVz6vLyaZaKOQ7D) | 5:17 |
-| 54 | [Hunted](https://open.spotify.com/track/2o34ml66r7gmwmsIHcg6ym) | [Egypt Central](https://open.spotify.com/artist/1d5wNTZ8WZYE5WuXXjug9w) | [Hunted](https://open.spotify.com/album/6A0zg9omFxGDUqKLAC5Cog) | 2:53 |
-| 55 | [Breakin' Outta Hell](https://open.spotify.com/track/3HFqO1Khvk1pdmhjz3tXsk) | [Airbourne](https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb) | [Breakin' Outta Hell](https://open.spotify.com/album/2rtA2D8SqJ1aGUd3flJYFP) | 3:52 |
+| 54 | [Breakin' Outta Hell](https://open.spotify.com/track/3HFqO1Khvk1pdmhjz3tXsk) | [Airbourne](https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb) | [Breakin' Outta Hell](https://open.spotify.com/album/2rtA2D8SqJ1aGUd3flJYFP) | 3:52 |
+| 55 | [Hunted](https://open.spotify.com/track/2o34ml66r7gmwmsIHcg6ym) | [Egypt Central](https://open.spotify.com/artist/1d5wNTZ8WZYE5WuXXjug9w) | [Hunted](https://open.spotify.com/album/6A0zg9omFxGDUqKLAC5Cog) | 2:53 |
 | 56 | [Freak](https://open.spotify.com/track/2RDgs05sg2vrpwiAEUkWd0) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Freak Show](https://open.spotify.com/album/511p6iaCuK8Sr0BYdpcfkq) | 3:46 |
 | 57 | [Swerve City](https://open.spotify.com/track/2OUR8g12h5qsGDs1v5lqvp) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Koi No Yokan](https://open.spotify.com/album/4PIVdqvL1Rc7T7Vfsr8n8Q) | 2:44 |
 | 58 | [Gasoline](https://open.spotify.com/track/33AxY0QUitvte6JV6B6uLE) | [Audioslave](https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn) | [Audioslave](https://open.spotify.com/album/78guAsers0klWl6RwzgDLd) | 4:39 |
@@ -76,12 +76,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdF699XuZIvg.md) - [plain]
 | 66 | [Blame It on the Boom Boom](https://open.spotify.com/track/58VTMFtsoe0E0vSX1pV03h) | [Black Stone Cherry](https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug) | [Between the Devil & the Deep Blue Sea \(Special Edition\)](https://open.spotify.com/album/5VppVyy751PTQWrfJbrJ4H) | 3:09 |
 | 67 | [Eat The Rich](https://open.spotify.com/track/0CFtlafteObzOEuJdESQkb) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Get A Grip](https://open.spotify.com/album/1tuM8yBePaekEruGsH2J79) | 4:09 |
 | 68 | [Blue on Black](https://open.spotify.com/track/1ADRAy7q7FjRak0uQva68H) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [And Justice for None \(Deluxe\)](https://open.spotify.com/album/440w9VaZP1M7FnfMdHapR3) | 4:34 |
-| 69 | [Low Life](https://open.spotify.com/track/3qsLiIMrQAq12sY3kWAoWm) | [Crobot](https://open.spotify.com/artist/4ygqEKxbe61knnDaodGFmi) | [Motherbrain](https://open.spotify.com/album/3iCTx5xyZ4Y6VWYoDMaXTm) | 3:36 |
-| 70 | [God Save the Queen](https://open.spotify.com/track/6ui6l3ZNvlrGQZArwo8195) | [Sex Pistols](https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR) | [Never Mind The Bollocks, Here's The Sex Pistols](https://open.spotify.com/album/5fxYu3rqjCNTSPKN8mtEl2) | 3:20 |
+| 69 | [God Save the Queen](https://open.spotify.com/track/6ui6l3ZNvlrGQZArwo8195) | [Sex Pistols](https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR) | [Never Mind The Bollocks, Here's The Sex Pistols](https://open.spotify.com/album/5fxYu3rqjCNTSPKN8mtEl2) | 3:20 |
+| 70 | [Low Life](https://open.spotify.com/track/3qsLiIMrQAq12sY3kWAoWm) | [Crobot](https://open.spotify.com/artist/4ygqEKxbe61knnDaodGFmi) | [Motherbrain](https://open.spotify.com/album/3iCTx5xyZ4Y6VWYoDMaXTm) | 3:36 |
 | 71 | [Outlaws & Outsiders](https://open.spotify.com/track/4OBrZqJzkwdDaXoYVfmIw7) | [Cory Marks](https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv), [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2), [Ivan Moody](https://open.spotify.com/artist/0IkXJjOYzNVtC7JByRI2cD), [Mick Mars](https://open.spotify.com/artist/5zSvn5I6wIFwEgFxIIaqJc) | [Outlaws & Outsiders](https://open.spotify.com/album/1FMwktOdGcAx5tzgdHRUf4) | 3:17 |
 | 72 | [Viva La Victoria](https://open.spotify.com/track/2MC57MCOiCz2UGskL2uCVF) | [Eclipse](https://open.spotify.com/artist/23ajwxFk5RBpPERZrcjHUr) | [Paradigm](https://open.spotify.com/album/0WxqXKlhcm6ktQMFJ0emiZ) | 3:11 |
 | 73 | [New Disease](https://open.spotify.com/track/5xqi4X6J5PHwndSJc7YLYH) | [Spineshank](https://open.spotify.com/artist/6fmbbxNvgHkglIakp1Wrv4) | [The Height of Callousness](https://open.spotify.com/album/5EdPM4V1kWFrFPniEvS5LL) | 3:14 |
 | 74 | [Breathe Again](https://open.spotify.com/track/1NkHDIbGjHqFjZJrdHjQGZ) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [Breathe Again](https://open.spotify.com/album/5S9HFBNWUGkRsurXXB6O0m) | 3:11 |
 | 75 | [Again](https://open.spotify.com/track/79wVMF2iOCML96gdWYqO9L) | [Black Stone Cherry](https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug) | [The Human Condition](https://open.spotify.com/album/6B5lqns5bfyeAStm1vLj9e) | 3:55 |
 
-Snapshot ID: `MTYzODg3MjU2NSwwMDAwMDAwMGFmNzZiNTI5MWQ0MmQ2ZTRiYTc3ZDRjZDQ0NjA0YzEy`
+Snapshot ID: `MTYzODg3MjU2NSwwMDAwMDAwMDY2MTVhZTkyZTE1MjQ0NzEyMTIwYjg1M2IwMjQ2OGM5`

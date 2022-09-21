@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbOY1zkU5qF.md) - [plain]
 
 > Versiones acústicas de tus canciones favoritas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,220 likes - 80 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,310 likes - 80 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbOY1zkU5qF.md) - [plain]
 | 48 | [Si Veo a Tu Mamá](https://open.spotify.com/track/1TzT4fQENDBK4a1GkDvB0P) | [Melanie Espinosa](https://open.spotify.com/artist/2ZfqsIUeid08QO6i4Bqbi6) | [Si Veo a Tu Mamá](https://open.spotify.com/album/2s2db0CNIpRhDdHHOGwyJh) | 2:40 |
 | 49 | [Mis ojos lloran por ti](https://open.spotify.com/track/4IQPpwVShAHMXx9Qehpp4B) | [Laura Naranjo](https://open.spotify.com/artist/3xf1o37bU0ANm6kT3YAlLr) | [Mis ojos lloran por ti](https://open.spotify.com/album/57d7YCLPJ9quoQ0mmDIWHp) | 3:50 |
 | 50 | [Me Llamas \- Versión Acústica](https://open.spotify.com/track/1NNNDr8YjI7oIzEksdi5ap) | [Segundo Piso](https://open.spotify.com/artist/5qN0sPcoiBWKOXJw6b5659) | [Me Llamas \(Versión Acústica\)](https://open.spotify.com/album/0eYb5PlrKL31jDjvKWNGTG) | 3:30 |
-| 51 | [Qué Maldición](https://open.spotify.com/track/3nzQ1oTlpb03DGy5CYk9yT) | [Miky Mendozza](https://open.spotify.com/artist/7iJNYh5D6FchEeryIG87vL), [Diego Amoz](https://open.spotify.com/artist/40eNb3QTIcFoH0ga3LTnlN) | [Qué Maldición](https://open.spotify.com/album/2slx4sczbHiZEFALNFW71z) | 2:05 |
-| 52 | [Échame La Culpa](https://open.spotify.com/track/0qo4ywp67nbYaxI2hRBVts) | [Cris Moné](https://open.spotify.com/artist/5Exvb6CXfgIb7sYwvzO7pS), [Lou Cornago](https://open.spotify.com/artist/71QLvXvl9jdkFiGzLIwh9v) | [Échame La Culpa](https://open.spotify.com/album/5zmiQwf0xQI91Yhh65riGr) | 3:00 |
+| 51 | [Échame La Culpa](https://open.spotify.com/track/0qo4ywp67nbYaxI2hRBVts) | [Cris Moné](https://open.spotify.com/artist/5Exvb6CXfgIb7sYwvzO7pS), [Lou Cornago](https://open.spotify.com/artist/71QLvXvl9jdkFiGzLIwh9v) | [Échame La Culpa](https://open.spotify.com/album/5zmiQwf0xQI91Yhh65riGr) | 3:00 |
+| 52 | [Qué Maldición](https://open.spotify.com/track/3nzQ1oTlpb03DGy5CYk9yT) | [Miky Mendozza](https://open.spotify.com/artist/7iJNYh5D6FchEeryIG87vL), [Diego Amoz](https://open.spotify.com/artist/40eNb3QTIcFoH0ga3LTnlN) | [Qué Maldición](https://open.spotify.com/album/2slx4sczbHiZEFALNFW71z) | 2:05 |
 | 53 | [Bailame](https://open.spotify.com/track/2LCU2czGbhjboUOUjB9NUK) | [Reggaeton Acústico](https://open.spotify.com/artist/2VG4iLloPFUXdzWZ9knh7c) | [Viral Hits, Vol\. 1](https://open.spotify.com/album/31JdJ3MW0AF5NWmLECQwnU) | 3:35 |
 | 54 | [Otra Vez](https://open.spotify.com/track/7hwhLO6kskiavCM8Xi6bpQ) | [Panacea Project](https://open.spotify.com/artist/2JPjEf17xC7Rp1lMpDZv7c) | [Panacea Session, Vol\. 2](https://open.spotify.com/album/0vVu8iHQmGTkfc0YwwtA0n) | 3:36 |
 | 55 | [Déjala que vuelva](https://open.spotify.com/track/56FZGghCNsEffwJF1wyagX) | [Carolina García](https://open.spotify.com/artist/4WsjFGzfwGHbcbkRfxQbnC) | [Déjala que vuelva](https://open.spotify.com/album/0YQ4Qna8FKWSBCelqPk9kY) | 3:18 |
@@ -78,15 +78,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbOY1zkU5qF.md) - [plain]
 | 68 | [Calma](https://open.spotify.com/track/5Z52mAR8UvfDNmm6xMvIIR) | [Ledes Diaz](https://open.spotify.com/artist/47IqbEaIiXjlosr45bjtPV) | [Calma](https://open.spotify.com/album/3F0daqlEpGUxXQCRIjMwql) | 3:05 |
 | 69 | [Duele el Corazón](https://open.spotify.com/track/7f2gcdeYTCYbGvoljwzdCl) | [Bely Basarte](https://open.spotify.com/artist/6akDfyocmsREgR5eUXZt3I) | [Duele el Corazón](https://open.spotify.com/album/0LML5tHNZSGzSEbaXKzlbY) | 2:15 |
 | 70 | [Mamita \- Acústica](https://open.spotify.com/track/0L8h7Eo1LksZrT3vu4eRES) | [Carlo Gless](https://open.spotify.com/artist/0JHf76hafaLMLN3BXSCFBm) | [Mamita \(Acústica\)](https://open.spotify.com/album/77TsvmLS36GDZBQuZM4asl) | 2:22 |
-| 71 | [Y Cómo Es Él?](https://open.spotify.com/track/3sTh8rnycgz4pBRqAd1V9y) | [Nara Gilberto](https://open.spotify.com/artist/5H8qAk2IBifRhZK1BS8XFs) | [Y Cómo Es Él?](https://open.spotify.com/album/5CmwEq7NdDCZSLtl44Vu90) | 3:51 |
+| 71 | [Despacito](https://open.spotify.com/track/0anEuO11FGUN4Y9hDHGuym) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 3](https://open.spotify.com/album/3Z5c9YxXkoRBfbPfgMgXsy) | 3:51 |
 | 72 | [Con la miel en los labios](https://open.spotify.com/track/37IxNTaLe74OKWltUcF7Og) | [Carolina García](https://open.spotify.com/artist/4WsjFGzfwGHbcbkRfxQbnC) | [Con la miel en los labios](https://open.spotify.com/album/5Cdz5tyljQmbTMZUkDLphi) | 3:30 |
 | 73 | [Otro trago](https://open.spotify.com/track/6VFsWv9LkBMAnSE4vVqvJV) | [Xandra Garsem](https://open.spotify.com/artist/14HpVzsOYc0nufSwtkMp1s), [Paul Fourmy](https://open.spotify.com/artist/0wEhgN98ys7Fzv7FIKUAQo) | [Otro trago](https://open.spotify.com/album/6YjTRY19KnNn9hU04Uq9Gx) | 2:47 |
-| 74 | [Despacito](https://open.spotify.com/track/0anEuO11FGUN4Y9hDHGuym) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 3](https://open.spotify.com/album/3Z5c9YxXkoRBfbPfgMgXsy) | 3:51 |
-| 75 | [Amigos con derechos](https://open.spotify.com/track/1HfYMwc523BOgGi6xBIFJX) | [Laura Naranjo](https://open.spotify.com/artist/3xf1o37bU0ANm6kT3YAlLr) | [Amigos con derechos](https://open.spotify.com/album/1wrc9RHnvnQRrtjlErc8w2) | 2:40 |
-| 76 | [Pobre De Ti](https://open.spotify.com/track/1BfG1GebmxE0OWl0lz1E3l) | [Eloise Freud](https://open.spotify.com/artist/4fCVdhbvs0qYEAQozKSyOh) | [Pobre De Ti](https://open.spotify.com/album/2wCNlBIDraaqMYzy6GV4sX) | 3:50 |
+| 74 | [Y Cómo Es Él?](https://open.spotify.com/track/3sTh8rnycgz4pBRqAd1V9y) | [Nara Gilberto](https://open.spotify.com/artist/5H8qAk2IBifRhZK1BS8XFs) | [Y Cómo Es Él?](https://open.spotify.com/album/5CmwEq7NdDCZSLtl44Vu90) | 3:51 |
+| 75 | [Pobre De Ti](https://open.spotify.com/track/1BfG1GebmxE0OWl0lz1E3l) | [Eloise Freud](https://open.spotify.com/artist/4fCVdhbvs0qYEAQozKSyOh) | [Pobre De Ti](https://open.spotify.com/album/2wCNlBIDraaqMYzy6GV4sX) | 3:50 |
+| 76 | [Solamente una Vez](https://open.spotify.com/track/4uqmcATBKbBKN5Tec5I4T1) | [César Avila](https://open.spotify.com/artist/3rngVMXFqeLP0WFB1ss6J1) | [Extrañándote en Cuarentena](https://open.spotify.com/album/1UfEr0bXeemQhpBacsZRfO) | 2:11 |
 | 77 | [Cristina](https://open.spotify.com/track/2IflnDF3IgSICcREE2gD8s) | [Carolina García](https://open.spotify.com/artist/4WsjFGzfwGHbcbkRfxQbnC) | [Cristina](https://open.spotify.com/album/3nmlWxHwI4xYMeM1AaXR9C) | 3:41 |
-| 78 | [Solamente una Vez](https://open.spotify.com/track/4uqmcATBKbBKN5Tec5I4T1) | [César Avila](https://open.spotify.com/artist/3rngVMXFqeLP0WFB1ss6J1) | [Extrañándote en Cuarentena](https://open.spotify.com/album/1UfEr0bXeemQhpBacsZRfO) | 2:11 |
+| 78 | [Amigos con derechos](https://open.spotify.com/track/1HfYMwc523BOgGi6xBIFJX) | [Laura Naranjo](https://open.spotify.com/artist/3xf1o37bU0ANm6kT3YAlLr) | [Amigos con derechos](https://open.spotify.com/album/1wrc9RHnvnQRrtjlErc8w2) | 2:40 |
 | 79 | [Me Hace Tanto Bien \- En Vivo](https://open.spotify.com/track/1gemIOvi0ybSilXyxNkk9J) | [Mo Rivas](https://open.spotify.com/artist/6RfNQchFdYSfkgbAkoWMZz), [Carlos Law](https://open.spotify.com/artist/3nxhMRNxXV5givTbEvsjHD) | [Me Hace Tanto Bien \(En Vivo\)](https://open.spotify.com/album/64H5xJmU6jY4l5UVbeLLQh) | 3:08 |
 | 80 | [Vete](https://open.spotify.com/track/1dyeQq5l5dxAcMPxFhE3pM) | [Alfa Omega](https://open.spotify.com/artist/6unfrgA6NT9eX0W09Y42YE), [Cláudia Nunes](https://open.spotify.com/artist/23Q6X7fvKHUilv3ii6VFMl) | [Vete](https://open.spotify.com/album/1bJebMwImKlh4wNpHj9hHb) | 3:34 |
 
-Snapshot ID: `MTY1MDkxNjI2NywwMDAwMDAwMDNhMjgzYzUyMTE3MTA3NzhjOTM1MzJhNDk4N2RkMWQz`
+Snapshot ID: `MTY1MDkxNjI2NywwMDAwMDAwMDYwNDk4NTEyMWNmZmVlZmY1NGU1NDZmMjI5YTdjMmVk`

@@ -355,7 +355,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 155841,
       "name": "Called You Out",
       "url": "https://open.spotify.com/track/2I0hkWJEy3BhVBvkWsnW5S"
@@ -427,7 +427,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 199384,
       "name": "Cool Girl",
       "url": "https://open.spotify.com/track/0FSOenCj42lbikl1vd5ah9"
@@ -503,10 +503,28 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 168615,
       "name": "Cut Me Out Your Photos",
       "url": "https://open.spotify.com/track/2JDu2WDRJxQrLVMCHXh3HY"
+    },
+    {
+      "album": {
+        "name": "Safe Haven",
+        "url": "https://open.spotify.com/album/6FgtuX3PtiB5civjHYhc52"
+      },
+      "artists": [
+        {
+          "name": "Ruth B.",
+          "url": "https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233720,
+      "name": "Dandelions",
+      "url": "https://open.spotify.com/track/2eAvDnpXP5W0cVtiI0PUxV"
     },
     {
       "album": {
@@ -1047,7 +1065,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 196333,
       "name": "Hurt Like That",
       "url": "https://open.spotify.com/track/6fBN1a9LcsB3QohnijExpz"
@@ -1065,7 +1083,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 242488,
       "name": "hurt so bad",
       "url": "https://open.spotify.com/track/4DLgDYAX6lsGXlrUmKJex8"
@@ -1105,6 +1123,24 @@
       "duration_ms": 180274,
       "name": "Hurtless",
       "url": "https://open.spotify.com/track/6HJizCbaqaEQG1eLjn341Z"
+    },
+    {
+      "album": {
+        "name": "Hurts The Most",
+        "url": "https://open.spotify.com/album/0IgxGIwmn9h0w5hepke0x8"
+      },
+      "artists": [
+        {
+          "name": "Bradley Marshall",
+          "url": "https://open.spotify.com/artist/41l2yNxDG4VydqE4lvbm1y"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202642,
+      "name": "Hurts The Most",
+      "url": "https://open.spotify.com/track/6SO2o0mJhtbsfwdwJfXKkk"
     },
     {
       "album": {
@@ -1195,6 +1231,24 @@
       "duration_ms": 203928,
       "name": "I'm Not Ok",
       "url": "https://open.spotify.com/track/2smg1NNlkCgQNLbqwdn3bv"
+    },
+    {
+      "album": {
+        "name": "In The Lonely Hour",
+        "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239316,
+      "name": "I'm Not The Only One",
+      "url": "https://open.spotify.com/track/7795WJLVKJoAyVoOtCWqXN"
     },
     {
       "album": {
@@ -1938,6 +1992,24 @@
     },
     {
       "album": {
+        "name": "Screaming At Traffic",
+        "url": "https://open.spotify.com/album/0awqSPSGOzyjsYteW1IfiM"
+      },
+      "artists": [
+        {
+          "name": "Bea Stewart",
+          "url": "https://open.spotify.com/artist/1HjCjNkTNeBFF3aqqf6kli"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235651,
+      "name": "Screaming At Traffic",
+      "url": "https://open.spotify.com/track/3xlV9ddro4IMk92Ti0cHc1"
+    },
+    {
+      "album": {
         "name": "Seven",
         "url": "https://open.spotify.com/album/0h6H0mvA1LVBjamUATXOM3"
       },
@@ -2047,6 +2119,24 @@
       "duration_ms": 227093,
       "name": "Sparks",
       "url": "https://open.spotify.com/track/7D0RhFcb3CrfPuTJ0obrod"
+    },
+    {
+      "album": {
+        "name": "Warm - EP",
+        "url": "https://open.spotify.com/album/5eed330fRyfporIAak7ZmH"
+      },
+      "artists": [
+        {
+          "name": "Moncrieff",
+          "url": "https://open.spotify.com/artist/7axEazQlDDxu7KBQyFTfoC"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172666,
+      "name": "Talk",
+      "url": "https://open.spotify.com/track/1r5MwvQZLff9Y2o1QCMY9N"
     },
     {
       "album": {
@@ -2321,7 +2411,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 99620,
       "name": "We'll Never Have Sex",
       "url": "https://open.spotify.com/track/4zXuYQNDmw3dlauyc8q3Kd"
@@ -2441,6 +2531,24 @@
       "duration_ms": 144666,
       "name": "WYD Now?",
       "url": "https://open.spotify.com/track/3ZBeHiRJUj1vdiU8zzGPgb"
+    },
+    {
+      "album": {
+        "name": "X&Y (What I Didn\u2019t Say)",
+        "url": "https://open.spotify.com/album/1ecaFPMua9VZqGYrGVSl7G"
+      },
+      "artists": [
+        {
+          "name": "Caity Baser",
+          "url": "https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141693,
+      "name": "X&Y (What I Didn\u2019t Say)",
+      "url": "https://open.spotify.com/track/4cg1yntWrBdhCSh9atw6rk"
     },
     {
       "album": {

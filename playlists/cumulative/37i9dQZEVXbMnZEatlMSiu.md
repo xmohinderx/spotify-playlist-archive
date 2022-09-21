@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Taiwan.
 
-481 songs - 1 day 5 hr 27 min - [published](https://open.spotify.com/playlist/6qEGFgtQEnclzvoSiB5z4r)
+482 songs - 1 day 5 hr 31 min - [published](https://open.spotify.com/playlist/6qEGFgtQEnclzvoSiB5z4r)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [I am not a woman, I'm a god](https://open.spotify.com/track/5RhFmJifQe83FpQ6ZFFTZ5) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [If I Can’t Have Love, I Want Power](https://open.spotify.com/album/3sq0hRtlT2SYeYajr5Cx22) | 2:56 | 2021-09-04 | 2021-09-05 |
 | [I Drink Wine](https://open.spotify.com/track/6v0UJD4a2FtleHeSYVX02A) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 6:16 | 2021-11-21 | 2021-11-30 |
 | [I Like You \(A Happier Song\) \(with Doja Cat\)](https://open.spotify.com/track/0O6u0VJ46W86TxN9wgyqDj) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Twelve Carat Toothache](https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx) | 3:12 | 2022-06-06 | 2022-07-16 |
+| [I Really Want to Stay at Your House](https://open.spotify.com/track/7mykoq6R3BArsSpNDjFQTm) | [Rosa Walton](https://open.spotify.com/artist/1X0HaTcdkHW7LviblBiEeq), [Hallie Coggins](https://open.spotify.com/artist/5JNkPX6dYGLeEm4cUjHNGc) | [Cyberpunk 2077: Radio, Vol\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/1VGVJdmvOSRK2w9RKXk18A) | 4:06 | 2022-09-20 |  |
 | [I'm Alive](https://open.spotify.com/track/0FfNFvy5KRRyB2snvK39zL) | [W.M.L](https://open.spotify.com/artist/5PeVQEj4Yr0TB9CuG83dPB), [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ) | [I'm Alive](https://open.spotify.com/album/494KRb9whsEPJ0IjKS4Dji) | 2:52 | 2022-02-16 |  |
 | [In the morning](https://open.spotify.com/track/2QdH0rKlV3d9Y6lWzcnlBH) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [GUESS WHO](https://open.spotify.com/album/1PKhKkeCqANY5E9RGcUWUX) | 2:52 | 2021-05-03 | 2021-06-01 |
 | [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/track/27NovPIUIRrOZoCHxABJwK) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/album/622NFw5Yk0OReMJ2XWcXUh) | 3:32 | 2021-07-30 | 2021-09-19 |
@@ -442,7 +443,7 @@
 | [縱橫四海](https://open.spotify.com/track/46ALtWhiHtNpJVrr3pfcut) | [Ronghao Li](https://open.spotify.com/artist/0rTP0x4vRFSDbhtqcCqc8K) | [縱橫四海](https://open.spotify.com/album/3J7Fpv3maowZeSOcX3ZLju) | 4:01 | 2021-07-23 | 2021-08-12 |
 | [繞 \- 原創影集《火神的眼淚》片尾曲](https://open.spotify.com/track/2XyCniKJUGKglRg01aehRn) | [Maggie Chiang](https://open.spotify.com/artist/1BZg1ebq8ftAkalzJoGq7u) | [繞 \(原創影集《火神的眼淚》片尾曲\)](https://open.spotify.com/album/33PYcY5m2zHwJ32YtMYRQp) | 4:27 | 2021-05-27 | 2021-06-19 |
 | [續寫 \- 電視劇《一生一世》主題曲](https://open.spotify.com/track/3eiSB7mTeNI49OAs7I8u39) | [單依純](https://open.spotify.com/artist/7rXM91kSsqGzvYANukdQJD) | [續寫 \(電視劇《一生一世》主題曲\)](https://open.spotify.com/album/5KkkO7JNoXMQdoNLn8wAEy) | 3:48 | 2021-09-30 | 2021-10-08 |
-| [習慣不習慣](https://open.spotify.com/track/2bLphDJvGyfjPbmxs7V4rX) | [理想混蛋 雞丁](https://open.spotify.com/artist/5gLzM47RVqMDkkFc2CaSon) | [底片裡的夏卡爾](https://open.spotify.com/album/3s1pKBhbHzoUzcRFBabug4) | 5:00 | 2022-07-25 |  |
+| [習慣不習慣](https://open.spotify.com/track/2bLphDJvGyfjPbmxs7V4rX) | [理想混蛋 雞丁](https://open.spotify.com/artist/5gLzM47RVqMDkkFc2CaSon) | [底片裡的夏卡爾](https://open.spotify.com/album/3s1pKBhbHzoUzcRFBabug4) | 5:00 | 2022-07-25 | 2022-09-21 |
 | [能火](https://open.spotify.com/track/0edXRhdQfF6YY9f7ZGZITt) | [Kumachan](https://open.spotify.com/artist/5DdhWWd83hbrWLXIVx129X) | [PRO](https://open.spotify.com/album/34T8LkJ3sKBl1cVXGM6W2k) | 3:42 | 2022-05-12 | 2022-05-28 |
 | [脫胎換骨](https://open.spotify.com/track/3KMozKCYJDSNJ53paNEIXk) | [Ronghao Li](https://open.spotify.com/artist/0rTP0x4vRFSDbhtqcCqc8K) | [脫胎換骨](https://open.spotify.com/album/0nkgECpB80bkATzGsvvFI7) | 4:30 | 2022-03-18 | 2022-04-06 |
 | [與我無關](https://open.spotify.com/track/2qlUhwv6Hqx5ZZHCucRlGF) | [阿冗](https://open.spotify.com/artist/3dTgjg7lzUGiD3NwcGCK1n) | [與我無關](https://open.spotify.com/album/2nVfpyVu94tgwFT9XX7ufJ) | 4:00 | 2021-07-22 | 2022-07-02 |

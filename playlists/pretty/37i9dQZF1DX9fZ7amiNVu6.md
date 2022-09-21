@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9fZ7amiNVu6.md) - [plain]
 
 > Kick back and enjoy these classic summer songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,081 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,191 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9fZ7amiNVu6.md) - [plain]
 | 22 | [Three Little Birds](https://open.spotify.com/track/75FYqcxt1YEAtqDLrOeIJn) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S) | 3:00 |
 | 23 | [Stuck In The Middle With You](https://open.spotify.com/track/3Vby4nGmtbDo7HDJamOWkT) | [Stealers Wheel](https://open.spotify.com/artist/7bPU7cvfoD20ixGD9Qnqki) | [Stealers Wheel](https://open.spotify.com/album/5ApN9lqru1t3Xh1IaEGTll) | 3:28 |
 | 24 | [Escape \(The Pina Colada Song\)](https://open.spotify.com/track/5IMtdHjJ1OtkxbGe4zfUxQ) | [Rupert Holmes](https://open.spotify.com/artist/0TqIPD4IS1w4e30R38B3vj) | [Partners In Crime](https://open.spotify.com/album/163iYwl7Kdm9ayTnD4VyfN) | 4:36 |
-| 25 | [American Pie](https://open.spotify.com/track/1fDsrQ23eTAVFElUMaf38X) | [Don McLean](https://open.spotify.com/artist/1gRNBaI4yn6wCCTvRhGWh8) | [American Pie](https://open.spotify.com/album/10jsW2NYd9blCrDITMh2zS) | 8:36 |
-| 26 | [California Dreamin' \- Single Version](https://open.spotify.com/track/4s6LhHAV5SEsOV0lC2tjvJ) | [The Mamas & The Papas](https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN) | [If You Can Believe Your Eyes & Ears](https://open.spotify.com/album/76oMr4Y2pOtcrvZLc2ZikF) | 2:42 |
+| 25 | [California Dreamin' \- Single Version](https://open.spotify.com/track/4s6LhHAV5SEsOV0lC2tjvJ) | [The Mamas & The Papas](https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN) | [If You Can Believe Your Eyes & Ears](https://open.spotify.com/album/76oMr4Y2pOtcrvZLc2ZikF) | 2:42 |
+| 26 | [American Pie](https://open.spotify.com/track/1fDsrQ23eTAVFElUMaf38X) | [Don McLean](https://open.spotify.com/artist/1gRNBaI4yn6wCCTvRhGWh8) | [American Pie](https://open.spotify.com/album/10jsW2NYd9blCrDITMh2zS) | 8:36 |
 | 27 | [Spirit In The Sky](https://open.spotify.com/track/0jvN7eQJJt4nxQzgQfZ1SP) | [Norman Greenbaum](https://open.spotify.com/artist/7f8LNBVXN0h35veHrpxQFL) | [Spirit In The Sky](https://open.spotify.com/album/05qYXT9UP6pXR9u0BtntD1) | 4:02 |
 | 28 | [My Sweet Lord \- Remastered 2014](https://open.spotify.com/track/0qdQUeKVyevrbKhAo0ibxS) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(Remastered 2014\)](https://open.spotify.com/album/4I4xtHaIFOzhZfp1NIHkY6) | 4:41 |
 | 29 | [Jack & Diane](https://open.spotify.com/track/43btz2xjMKpcmjkuRsvxyg) | [John Mellencamp](https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH) | [American Fool](https://open.spotify.com/album/4gouGcdQn9OvjX42xnWrF0) | 4:14 |
@@ -55,9 +55,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9fZ7amiNVu6.md) - [plain]
 | 45 | [In the Summertime](https://open.spotify.com/track/3RNyGLgSvmVRZ7xKUp8Wgd) | [Mungo Jerry](https://open.spotify.com/artist/2mbvqMGpwLsakeH45p1Jrb) | [In the Summertime](https://open.spotify.com/album/30UgyUTvmdYXNo7CeMabXY) | 3:35 |
 | 46 | [The Weight \- Remastered 2000](https://open.spotify.com/track/0P7DoyGrr4Wp9w5TotEtUC) | [The Band](https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA) | [Music From Big Pink \(Remastered\)](https://open.spotify.com/album/0ky5kdvfPxSmSpj03hpSAE) | 4:34 |
 | 47 | [Somewhere Over The Rainbow\_What A Wonderful World](https://open.spotify.com/track/25U7raB3ZSszayTYClh4hF) | [Israel Kamakawiwo'ole](https://open.spotify.com/artist/4ogvuDRerGhZfSf7TtzHlr) | [Facing Future](https://open.spotify.com/album/0pquf1NcG9FdiypBPwICu9) | 5:08 |
-| 48 | [Do You Believe in Magic?](https://open.spotify.com/track/1udKn1oNKYQSQ9OmiIWCMu) | [The Lovin' Spoonful](https://open.spotify.com/artist/7CCn4PFRRRZF127jtCBAUe) | [Do you Believe In Magic](https://open.spotify.com/album/5bx2ZHa0KUDMD5T0r9V030) | 2:05 |
+| 48 | [Sailing](https://open.spotify.com/track/6Hu6dzwlvoyg3zBUC8k4BK) | [Christopher Cross](https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH) | [Christopher Cross](https://open.spotify.com/album/2m2nl8cBT7bEgIA6LLmgah) | 4:16 |
 | 49 | [Surfin' U.S.A\. \- Remastered 2001](https://open.spotify.com/track/0wz1LjDb9ZNEYwOmDJ3Q4b) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Surfin' USA \(Remastered\)](https://open.spotify.com/album/6u5tGarzvESDsQiIpC4SlI) | 2:29 |
-| 50 | [Sailing](https://open.spotify.com/track/6Hu6dzwlvoyg3zBUC8k4BK) | [Christopher Cross](https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH) | [Christopher Cross](https://open.spotify.com/album/2m2nl8cBT7bEgIA6LLmgah) | 4:16 |
+| 50 | [Do You Believe in Magic?](https://open.spotify.com/track/1udKn1oNKYQSQ9OmiIWCMu) | [The Lovin' Spoonful](https://open.spotify.com/artist/7CCn4PFRRRZF127jtCBAUe) | [Do you Believe In Magic](https://open.spotify.com/album/5bx2ZHa0KUDMD5T0r9V030) | 2:05 |
 | 51 | [Sunshine Of Your Love](https://open.spotify.com/track/2K2M0TcglCRLLpFOzKeFZA) | [Cream](https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw) | [Disraeli Gears \(Deluxe Edition\)](https://open.spotify.com/album/3W6CI0Lw7lElAPID2Fd3B4) | 4:10 |
 | 52 | [Daydream Believer](https://open.spotify.com/track/7uEcCGtM1FBBGIhPozhJjv) | [The Monkees](https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck) | [The Birds, The Bees, & The Monkees](https://open.spotify.com/album/2Ov6zb7NfgDh3EXSIIWrb2) | 2:59 |
 | 53 | [Move on Up \- Single Edit](https://open.spotify.com/track/0MHXrqn909p0LRTPsNsGEi) | [Curtis Mayfield](https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm) | [Move on Up](https://open.spotify.com/album/2EwoYRFQRJqw7BTVG6GlTw) | 2:45 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9fZ7amiNVu6.md) - [plain]
 | 69 | [La Bamba \- Single Version](https://open.spotify.com/track/2aEeghgUcnu75tzcolFMfs) | [Ritchie Valens](https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P) | [Ritchie Valens](https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W) | 2:06 |
 | 70 | [\(Love Is Like A\) Heat Wave](https://open.spotify.com/track/3VgrSJEKBRT3xmwzpaxxEF) | [Martha Reeves & The Vandellas](https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP) | [Heat Wave](https://open.spotify.com/album/2GxwwKxtwDZkc9qX15YqKK) | 2:43 |
 | 71 | [Sunny](https://open.spotify.com/track/4vju55Ag7apDL2CfotuE7Q) | [Bobby Hebb](https://open.spotify.com/artist/2uNpV18izVIP7DNusoWbT5) | [Sunny](https://open.spotify.com/album/6pJkF95sYsVg3FJtTvTuEG) | 2:45 |
-| 72 | [ABC](https://open.spotify.com/track/6wDviYDtmSDZ0S6TVMM9Vc) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [ABC](https://open.spotify.com/album/3btVhknqDeGAEd1Qj7lL57) | 2:57 |
-| 73 | [Train in Vain \(Stand by Me\) \- Remastered](https://open.spotify.com/track/6ITuEsxEy2qPhqMowdDAeI) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [London Calling \(Remastered\)](https://open.spotify.com/album/6FCzvataOZh68j8OKzOt9a) | 3:14 |
+| 72 | [Train in Vain \(Stand by Me\) \- Remastered](https://open.spotify.com/track/6ITuEsxEy2qPhqMowdDAeI) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [London Calling \(Remastered\)](https://open.spotify.com/album/6FCzvataOZh68j8OKzOt9a) | 3:14 |
+| 73 | [ABC](https://open.spotify.com/track/6wDviYDtmSDZ0S6TVMM9Vc) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [ABC](https://open.spotify.com/album/3btVhknqDeGAEd1Qj7lL57) | 2:57 |
 | 74 | [I Can See Clearly Now](https://open.spotify.com/track/7aJZxI6TVdIvQSuWxQ4rqp) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [We All Are One: The Best Of Jimmy Cliff](https://open.spotify.com/album/0g0F1l0hQ1nZTelBbmlmB5) | 3:16 |
 | 75 | [Ain't Too Proud To Beg](https://open.spotify.com/track/4CoGNqLap7UGU5Q3VdKug0) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [Gettin' Ready \(Expanded Edition\)](https://open.spotify.com/album/3RE8NUULcBzFvVtCmlI4lb) | 2:36 |
 | 76 | [Everybody Loves The Sunshine](https://open.spotify.com/track/5le4sn0iMcnKU56bdmNzso) | [Roy Ayers Ubiquity](https://open.spotify.com/artist/3WbeZvDk1COiO2dEokZqn7) | [Everybody Loves The Sunshine \(Reissue\)](https://open.spotify.com/album/5JehGpTedBPXzhUcwXoIlf) | 3:59 |
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9fZ7amiNVu6.md) - [plain]
 | 90 | [September](https://open.spotify.com/track/3wpLkju0bJy89kjgdRys0j) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [The Essential Earth, Wind & Fire](https://open.spotify.com/album/75CDFLAqMl6VgmPJtaTHmg) | 3:35 |
 | 91 | [Kokomo](https://open.spotify.com/track/7B22szTT8omMRmpQw6DMqV) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Made In California](https://open.spotify.com/album/2bNE80uDjuw9kqCjC6cZMR) | 3:37 |
 | 92 | [Uptown Top Ranking \- Remastered 2001](https://open.spotify.com/track/34zWZOSpU2V1ab0PiZCcv4) | [Althea And Donna](https://open.spotify.com/artist/5E8FbSTegbOlYAH4b2rZj2) | [Uptown Top Ranking](https://open.spotify.com/album/1FWimRgPFwDVyVlHe9EEnP) | 3:49 |
-| 93 | [One Fine Day](https://open.spotify.com/track/6vcG9EgeqJUSmmF65lxUm6) | [The Chiffons](https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj) | [The Chiffons Absolutely The Best!](https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq) | 2:08 |
-| 94 | [We Can Work It Out](https://open.spotify.com/track/41q8ZiB3LZl4HRmmzUTIo4) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Signed, Sealed And Delivered](https://open.spotify.com/album/54ootLtDyMZFr9obtWQvvO) | 3:19 |
+| 93 | [We Can Work It Out](https://open.spotify.com/track/41q8ZiB3LZl4HRmmzUTIo4) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Signed, Sealed And Delivered](https://open.spotify.com/album/54ootLtDyMZFr9obtWQvvO) | 3:19 |
+| 94 | [One Fine Day](https://open.spotify.com/track/6vcG9EgeqJUSmmF65lxUm6) | [The Chiffons](https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj) | [The Chiffons Absolutely The Best!](https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq) | 2:08 |
 | 95 | [This Will Be \(An Everlasting Love\) \- 2003 Remaster](https://open.spotify.com/track/241RmK77gecJ1y7jOoQ5lu) | [Natalie Cole](https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9) | [Natalie Cole Anthology](https://open.spotify.com/album/64J3qlh1WF6x8DnrB8chqb) | 2:51 |
 | 96 | [Up on the Roof](https://open.spotify.com/track/7cNRqg0lbiqBaGeOlA4AEU) | [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT) | [Under the Boardwalk](https://open.spotify.com/album/7AgI5vniflcbh86Znea7yM) | 2:37 |
 | 97 | [Breezin'](https://open.spotify.com/track/1m3BAsNsQAaSNMD2M6vlKY) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [Breezin'](https://open.spotify.com/album/1ei5QjnfB7PHINJOH8Gft5) | 5:41 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9fZ7amiNVu6.md) - [plain]
 | 99 | [It's Your Thing](https://open.spotify.com/track/3ZxfehzRtB3oJcBuxWXFZQ) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [It's Our Thing](https://open.spotify.com/album/2tMcirhdFUp4hS2eJwsHvF) | 2:49 |
 | 100 | [Concrete Schoolyard](https://open.spotify.com/track/37pnnS4zO9s6xzeblq9Jrd) | [Jurassic 5](https://open.spotify.com/artist/6wFId9Jhuf9AKVzWboOj2B) | [J5 \(Deluxe Edition\)](https://open.spotify.com/album/5Lj4qWG2xATA2XNz3l6BZT) | 5:21 |
 
-Snapshot ID: `MTY1OTA2ODgwNywwMDAwMDAwMDNiOWEyMjljYzIxNGEwZTBjMTQxZGJlZGQ4MjE4YmYz`
+Snapshot ID: `MTY1OTA2ODgwNywwMDAwMDAwMDJhODQxNzk0ZmVjYzE4YjI4ZDYyOThiYTVkNWZlZGJj`

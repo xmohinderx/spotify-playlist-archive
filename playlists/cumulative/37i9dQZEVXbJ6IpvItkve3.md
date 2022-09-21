@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Israel.
 
-504 songs - 1 day 4 hr 14 min - [published](https://open.spotify.com/playlist/05mBfCDcqpe58bcfcRKya9)
+505 songs - 1 day 4 hr 17 min - [published](https://open.spotify.com/playlist/05mBfCDcqpe58bcfcRKya9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,7 +194,7 @@
 | [Peaches \(feat\. Daniel Caesar & Giveon\)](https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 3:18 | 2021-03-27\* | 2021-09-17 |
 | [Pepas](https://open.spotify.com/track/2B4GHvToeLTOBB4QLzW3Ni) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [La 167](https://open.spotify.com/album/0T6QxdJZwYrXPHd829SnqK) | 4:47 | 2021-10-07 | 2022-06-21 |
 | [Pink Venom](https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [Pink Venom](https://open.spotify.com/album/3dZBZnDa3z20uEVnxR38M1) | 3:06 | 2022-08-24 | 2022-09-11 |
-| [Pink Venom](https://open.spotify.com/track/5zwwW9Oq7ubSxoCGyW1nbY) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM) | 3:06 | 2022-09-17 |  |
+| [Pink Venom](https://open.spotify.com/track/5zwwW9Oq7ubSxoCGyW1nbY) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM) | 3:06 | 2022-09-17 | 2022-09-21 |
 | [Please Don't Suck](https://open.spotify.com/track/2Sx4OLfgMfRgYDvGHBJvck) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [Please Don't Suck](https://open.spotify.com/album/7he1ByOAq0rTVmSoW5ny1E) | 2:55 | 2021-07-16 | 2021-09-26 |
 | [positions](https://open.spotify.com/track/35mvY5S1H3J2QZyna3TFe0) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Positions](https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd) | 2:52 | 2021-03-27\* | 2021-04-02 |
 | [Praise God](https://open.spotify.com/track/0Zm7NKJgoKY6ZWwtoEUILK) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 3:46 | 2021-08-31 | 2021-09-02 |
@@ -215,6 +215,7 @@
 | [Shivers](https://open.spotify.com/track/6bQfNiqyCX7UaQSvVVGo4I) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Shivers](https://open.spotify.com/album/5kFCfioZraFsRWpoitQjmx) | 3:27 | 2021-09-15 | 2021-09-17 |
 | [Shivers](https://open.spotify.com/track/75MNhvTCCKsST3YqqUiU9r) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Shivers](https://open.spotify.com/album/531c37GGv5IvddCvBv3sWT) | 3:27 | 2021-09-18 | 2021-10-31 |
 | [SHUM](https://open.spotify.com/track/7mEDVrAHDnQJStDo8jKJJm) | [Go\_A](https://open.spotify.com/artist/4kvCU3MzggM2piZCqvxj0x) | [SHUM](https://open.spotify.com/album/4AQOhI7QMKq9vmHuzduPRk) | 2:52 | 2021-05-25 | 2021-05-26 |
+| [Shut Down](https://open.spotify.com/track/7gRFDGEzF9UkBV233yv2dc) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM) | 2:55 | 2022-09-20 |  |
 | [Silent Hill](https://open.spotify.com/track/3tYTyAt1q6BFBiGyYVOLhi) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:40 | 2022-05-14 | 2022-05-20 |
 | [Smokin Out The Window](https://open.spotify.com/track/7sMBvZCSUl99bJLXZaLa0b) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [An Evening With Silk Sonic](https://open.spotify.com/album/2qLI9pIjubUQMlpdmid2sE) | 3:17 | 2021-11-14 | 2021-12-17 |
 | [SNAP](https://open.spotify.com/track/6zJejIfVYLgjud3lTk4DLB) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP PACK](https://open.spotify.com/album/2nzuzJvr3yowqbPaYjEYof) | 2:59 | 2022-08-13 |  |

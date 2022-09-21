@@ -1,12 +1,12 @@
 {
   "description": "A cup of Joe and the raw blues.\n",
-  "num_followers": 33827,
+  "num_followers": 33952,
   "original_name": "Black Coffee Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzAwMDc2MywwMDAwMDAwMGYxMjI1NzEzMjc0NjE1MzAwZjUwNWZmOWYxNTYwMTc2",
+  "snapshot_id": "MTY2MzAwMDc2MywwMDAwMDAwMDRmZmUxMTIyYjBiZDYyZDIwOTNkMmFjYzJmZTVhNDE2",
   "tracks": [
     {
       "added_at": "2022-09-12 16:39:23",
@@ -459,22 +459,6 @@
     {
       "added_at": "2022-09-12 16:39:23",
       "album": {
-        "name": "Don't Lose This",
-        "url": "https://open.spotify.com/album/3OEEKjCodSc3o3jf6EGyO1"
-      },
-      "artists": [
-        {
-          "name": "Pops Staples",
-          "url": "https://open.spotify.com/artist/0F8Bkp3cWlXJKp1GmFV5n3"
-        }
-      ],
-      "duration_ms": 247293,
-      "name": "Somebody Was Watching",
-      "url": "https://open.spotify.com/track/4SmbQt4iFY5GTJQXGxz5Is"
-    },
-    {
-      "added_at": "2022-09-12 16:39:23",
-      "album": {
         "name": "Hoodoo (Commentary Version)",
         "url": "https://open.spotify.com/album/2o8wETexTC7MB0MON0oVWN"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 268946,
       "name": "Who You Gonna Hoodoo Now?",
       "url": "https://open.spotify.com/track/0ezAYtCKGYWVAtSr1xZGVe"
+    },
+    {
+      "added_at": "2022-09-12 16:39:23",
+      "album": {
+        "name": "Don't Lose This",
+        "url": "https://open.spotify.com/album/3OEEKjCodSc3o3jf6EGyO1"
+      },
+      "artists": [
+        {
+          "name": "Pops Staples",
+          "url": "https://open.spotify.com/artist/0F8Bkp3cWlXJKp1GmFV5n3"
+        }
+      ],
+      "duration_ms": 247293,
+      "name": "Somebody Was Watching",
+      "url": "https://open.spotify.com/track/4SmbQt4iFY5GTJQXGxz5Is"
     },
     {
       "added_at": "2022-09-12 16:39:23",
@@ -579,22 +579,6 @@
     {
       "added_at": "2022-09-12 16:39:23",
       "album": {
-        "name": "Come to Find",
-        "url": "https://open.spotify.com/album/6TdbTfL5Ql2BMqkAknneZd"
-      },
-      "artists": [
-        {
-          "name": "Doug MacLeod",
-          "url": "https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz"
-        }
-      ],
-      "duration_ms": 301733,
-      "name": "Mystery Woman",
-      "url": "https://open.spotify.com/track/1iHbbd44X6nmnF6may22sd"
-    },
-    {
-      "added_at": "2022-09-12 16:39:23",
-      "album": {
         "name": "All Blues's Up: Songs of Led Zeppelin",
         "url": "https://open.spotify.com/album/1nvuBxN1Uc6HdVyS2J01Yp"
       },
@@ -619,6 +603,22 @@
     {
       "added_at": "2022-09-12 16:39:23",
       "album": {
+        "name": "Come to Find",
+        "url": "https://open.spotify.com/album/6TdbTfL5Ql2BMqkAknneZd"
+      },
+      "artists": [
+        {
+          "name": "Doug MacLeod",
+          "url": "https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz"
+        }
+      ],
+      "duration_ms": 301733,
+      "name": "Mystery Woman",
+      "url": "https://open.spotify.com/track/1iHbbd44X6nmnF6may22sd"
+    },
+    {
+      "added_at": "2022-09-12 16:39:23",
+      "album": {
         "name": "My Feeling For the Blues",
         "url": "https://open.spotify.com/album/1Usun6ssY8Yq6GqRKWsSFz"
       },
@@ -631,6 +631,22 @@
       "duration_ms": 202266,
       "name": "Yonder Wall",
       "url": "https://open.spotify.com/track/2vKadnRjDi4F56pHspv9u1"
+    },
+    {
+      "added_at": "2022-09-12 16:39:23",
+      "album": {
+        "name": "Smoke From The Chimney",
+        "url": "https://open.spotify.com/album/5VcbS7I5iRYJoZSOp344F1"
+      },
+      "artists": [
+        {
+          "name": "Tony Joe White",
+          "url": "https://open.spotify.com/artist/6QvgWa4x3Ij4tvBpFMo11P"
+        }
+      ],
+      "duration_ms": 207573,
+      "name": "Boot Money",
+      "url": "https://open.spotify.com/track/2WzaKNNPxwE4dKGaGlghqh"
     },
     {
       "added_at": "2022-09-12 16:39:23",
@@ -655,22 +671,6 @@
       "duration_ms": 260092,
       "name": "Angel In The Alleyways",
       "url": "https://open.spotify.com/track/4q0iE01soDpTD7jObdxTX9"
-    },
-    {
-      "added_at": "2022-09-12 16:39:23",
-      "album": {
-        "name": "Smoke From The Chimney",
-        "url": "https://open.spotify.com/album/5VcbS7I5iRYJoZSOp344F1"
-      },
-      "artists": [
-        {
-          "name": "Tony Joe White",
-          "url": "https://open.spotify.com/artist/6QvgWa4x3Ij4tvBpFMo11P"
-        }
-      ],
-      "duration_ms": 207573,
-      "name": "Boot Money",
-      "url": "https://open.spotify.com/track/2WzaKNNPxwE4dKGaGlghqh"
     },
     {
       "added_at": "2022-09-12 16:39:23",
@@ -711,22 +711,6 @@
     {
       "added_at": "2022-09-12 16:39:23",
       "album": {
-        "name": "Racing To A Red Light",
-        "url": "https://open.spotify.com/album/19gorkDhGxNv1eydTzvZ1a"
-      },
-      "artists": [
-        {
-          "name": "Early James",
-          "url": "https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY"
-        }
-      ],
-      "duration_ms": 264066,
-      "name": "Racing To A Red Light",
-      "url": "https://open.spotify.com/track/171aGpy6zowgTlHROdFKdY"
-    },
-    {
-      "added_at": "2022-09-12 16:39:23",
-      "album": {
         "name": "Martin Scorsese Presents The Blues: Keb' Mo'",
         "url": "https://open.spotify.com/album/1El1ZLtpLoUpQHjUdXtLxc"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 195226,
       "name": "Perpetual Blues Machine",
       "url": "https://open.spotify.com/track/2CgFNet99tzGTEIxYrYbuN"
+    },
+    {
+      "added_at": "2022-09-12 16:39:23",
+      "album": {
+        "name": "Racing To A Red Light",
+        "url": "https://open.spotify.com/album/19gorkDhGxNv1eydTzvZ1a"
+      },
+      "artists": [
+        {
+          "name": "Early James",
+          "url": "https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY"
+        }
+      ],
+      "duration_ms": 264066,
+      "name": "Racing To A Red Light",
+      "url": "https://open.spotify.com/track/171aGpy6zowgTlHROdFKdY"
     },
     {
       "added_at": "2022-09-12 16:39:23",
@@ -859,22 +859,6 @@
     {
       "added_at": "2022-09-12 16:39:23",
       "album": {
-        "name": "Presenting Robert Nighthawk",
-        "url": "https://open.spotify.com/album/4VIFEGvSDLnyTUoZDSJinS"
-      },
-      "artists": [
-        {
-          "name": "Robert Nighthawk",
-          "url": "https://open.spotify.com/artist/1ycL0Ct3hz0glGDIwsUyNG"
-        }
-      ],
-      "duration_ms": 184466,
-      "name": "Black Angel Blues",
-      "url": "https://open.spotify.com/track/5insosOirGOL3cvJ0li2bD"
-    },
-    {
-      "added_at": "2022-09-12 16:39:23",
-      "album": {
         "name": "Country Blues Guitar",
         "url": "https://open.spotify.com/album/13TN7isubmqCzQxa3iLPVO"
       },
@@ -895,18 +879,18 @@
     {
       "added_at": "2022-09-12 16:39:23",
       "album": {
-        "name": "Dust My Broom",
-        "url": "https://open.spotify.com/album/4wvZ1QR3tMnLNDzzxxn1pj"
+        "name": "Presenting Robert Nighthawk",
+        "url": "https://open.spotify.com/album/4VIFEGvSDLnyTUoZDSJinS"
       },
       "artists": [
         {
-          "name": "Bobby Rush",
-          "url": "https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi"
+          "name": "Robert Nighthawk",
+          "url": "https://open.spotify.com/artist/1ycL0Ct3hz0glGDIwsUyNG"
         }
       ],
-      "duration_ms": 215662,
-      "name": "Dust My Broom",
-      "url": "https://open.spotify.com/track/3OGfvgASu7KjQn8whfBALw"
+      "duration_ms": 184466,
+      "name": "Black Angel Blues",
+      "url": "https://open.spotify.com/track/5insosOirGOL3cvJ0li2bD"
     },
     {
       "added_at": "2022-09-12 16:39:23",
@@ -923,6 +907,22 @@
       "duration_ms": 277733,
       "name": "Bonnie",
       "url": "https://open.spotify.com/track/5q49F0QAhWWnIDhNOyAhfV"
+    },
+    {
+      "added_at": "2022-09-12 16:39:23",
+      "album": {
+        "name": "Dust My Broom",
+        "url": "https://open.spotify.com/album/4wvZ1QR3tMnLNDzzxxn1pj"
+      },
+      "artists": [
+        {
+          "name": "Bobby Rush",
+          "url": "https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi"
+        }
+      ],
+      "duration_ms": 215662,
+      "name": "Dust My Broom",
+      "url": "https://open.spotify.com/track/3OGfvgASu7KjQn8whfBALw"
     },
     {
       "added_at": "2022-09-12 16:39:23",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2022-09-12 16:39:23",
       "album": {
-        "name": "High Flying Bird",
-        "url": "https://open.spotify.com/album/1PKo6UvTCdxihIRNH5qLyA"
-      },
-      "artists": [
-        {
-          "name": "Judy Henske",
-          "url": "https://open.spotify.com/artist/3UtfXMhd36NSwHMvWYuE8A"
-        }
-      ],
-      "duration_ms": 159360,
-      "name": "Blues Chase up a Rabbit",
-      "url": "https://open.spotify.com/track/1sUlYlnaANkXLmv78fRkzA"
-    },
-    {
-      "added_at": "2022-09-12 16:39:23",
-      "album": {
         "name": "Death Valley Blues",
         "url": "https://open.spotify.com/album/1TbXvKBvqWDDIOADkyTNoM"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 163000,
       "name": "Death Valley Blues",
       "url": "https://open.spotify.com/track/7rG5HKSHsK3HDb2HWGiDAT"
+    },
+    {
+      "added_at": "2022-09-12 16:39:23",
+      "album": {
+        "name": "High Flying Bird",
+        "url": "https://open.spotify.com/album/1PKo6UvTCdxihIRNH5qLyA"
+      },
+      "artists": [
+        {
+          "name": "Judy Henske",
+          "url": "https://open.spotify.com/artist/3UtfXMhd36NSwHMvWYuE8A"
+        }
+      ],
+      "duration_ms": 159360,
+      "name": "Blues Chase up a Rabbit",
+      "url": "https://open.spotify.com/track/1sUlYlnaANkXLmv78fRkzA"
     },
     {
       "added_at": "2022-09-12 16:39:23",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2022-09-12 16:39:23",
       "album": {
-        "name": "The \"Killer\" Rocks On",
-        "url": "https://open.spotify.com/album/6vFYcOml32pCUDT7Adp5hW"
-      },
-      "artists": [
-        {
-          "name": "Jerry Lee Lewis",
-          "url": "https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "C.C. Rider",
-      "url": "https://open.spotify.com/track/2jpyzovZr1zpVVVKck8rlu"
-    },
-    {
-      "added_at": "2022-09-12 16:39:23",
-      "album": {
         "name": "Navigation Blues",
         "url": "https://open.spotify.com/album/1uVVEurSRPaxgJF2EuAHEr"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 296466,
       "name": "Navigation Blues",
       "url": "https://open.spotify.com/track/55WTb0BjmzXUUurFiNRWVk"
+    },
+    {
+      "added_at": "2022-09-12 16:39:23",
+      "album": {
+        "name": "The \"Killer\" Rocks On",
+        "url": "https://open.spotify.com/album/6vFYcOml32pCUDT7Adp5hW"
+      },
+      "artists": [
+        {
+          "name": "Jerry Lee Lewis",
+          "url": "https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "C.C. Rider",
+      "url": "https://open.spotify.com/track/2jpyzovZr1zpVVVKck8rlu"
     },
     {
       "added_at": "2022-09-12 16:39:23",

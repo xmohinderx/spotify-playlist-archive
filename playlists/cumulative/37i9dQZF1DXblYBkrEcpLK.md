@@ -4,7 +4,7 @@
 
 > アニメシーンを彩る女性アーティスト達を特集！ Celebrate the great female artists from anime culture\. Cover: ウタ/UTA from ONE PIECE FILM RED ©尾田栄一郎／2022「ワンピース」製作委員会
 
-343 songs - 23 hr 45 min - [published](https://open.spotify.com/playlist/6FtaHCMkDX6tcjL4vlT8MU)
+344 songs - 23 hr 50 min - [published](https://open.spotify.com/playlist/6FtaHCMkDX6tcjL4vlT8MU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -276,7 +276,7 @@
 | [僕らが愚かだなんて誰が言った](https://open.spotify.com/track/4IdIiPXZ0nzs7fn2RQuKLv) | [DIALOGUE+](https://open.spotify.com/artist/2edEpSuGIPWwl7QJF3hXM0) | [僕らが愚かだなんて誰が言った](https://open.spotify.com/album/3e9QtEHcwrweYA2Vtpplf2) | 4:26 | 2022-06-21 | 2022-06-26 |
 | [優しい彗星](https://open.spotify.com/track/19fhOFi6pNGeZe5uiFlm7c) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [優しい彗星](https://open.spotify.com/album/2JTvRXbEc1JGPrlKC435Jf) | 3:35 | 2022-06-09 |  |
 | [光るとき](https://open.spotify.com/track/1MKAHjp9mxM80u8K3rROKf) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [光るとき](https://open.spotify.com/album/0xGnJth0EnzU8kupgRPZop) | 5:51 | 2022-06-09 | 2022-07-29 |
-| [凸凹](https://open.spotify.com/track/59zVkMccrN10JrDGdV4JeG) | [Kiyoe Yoshioka](https://open.spotify.com/artist/7sG4FexEprpVch00GAM0w7) | [凸凹](https://open.spotify.com/album/2Rk7kN8xzphuTZgp2YJHmn) | 3:49 | 2022-06-12 |  |
+| [凸凹](https://open.spotify.com/track/59zVkMccrN10JrDGdV4JeG) | [Kiyoe Yoshioka](https://open.spotify.com/artist/7sG4FexEprpVch00GAM0w7) | [凸凹](https://open.spotify.com/album/2Rk7kN8xzphuTZgp2YJHmn) | 3:49 | 2022-06-12 | 2022-09-21 |
 | [制服](https://open.spotify.com/track/17NRaW1lyJdj359L5zk7DL) | [Ayane Sakura](https://open.spotify.com/artist/17uMaak4xTNl5roQnxUVvw) | [VOICE\~声優たちが歌う松田聖子ソング\~ \(Female Edition\)](https://open.spotify.com/album/6fUH571p2INdf32SFdpBQ2) | 3:53 | 2022-07-07 | 2022-07-15 |
 | [叫べ](https://open.spotify.com/track/6WqqjLJhvNkt0gQYvcMeWI) | [沼倉愛美](https://open.spotify.com/artist/1nHABHMHJWvV3bgLLyIyJo) | [My LIVE](https://open.spotify.com/album/5QASnfCgG2ylFA4sjQjybP) | 4:07 | 2022-06-12 | 2022-07-02 |
 | [君が笑む夕暮れ](https://open.spotify.com/track/6xoeHus2kq0kpDwB8M2xR2) | [Yoshino Nanjo](https://open.spotify.com/artist/4nhgAvJhMQMK4pVA1xVuew) | [東京 1/3650](https://open.spotify.com/album/1BIeqAyl2kRaTSoQz7NdQP) | 5:21 | 2022-07-07 | 2022-07-27 |
@@ -321,6 +321,7 @@
 | [灯火セレナード](https://open.spotify.com/track/4ArweSrn1ZczGwYQnokKCk) | [ChouCho](https://open.spotify.com/artist/5t7eQ2d1UmzfIr9oWQ538Y) | [灯火セレナード](https://open.spotify.com/album/7JcSNFuDqAIItqA91TeqeV) | 3:48 | 2022-06-21 | 2022-07-15 |
 | [炎](https://open.spotify.com/track/0cSkn2l67csUljEy0EEBPn) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [炎](https://open.spotify.com/album/1KmL1EZ0Pg9Vj3rPYMDqHY) | 4:35 | 2022-06-09 |  |
 | [燦々デイズ](https://open.spotify.com/track/4CebKGVZUJw18tnDzsjv2d) | [スピラ・スピカ](https://open.spotify.com/artist/3ncARjIEl4SrcrnpOIV5CO) | [燦々デイズ](https://open.spotify.com/album/0NnGObV44jyw4aJwz4nfAF) | 3:52 | 2022-06-09 |  |
+| [独創収差](https://open.spotify.com/track/1TDNF588GS7ijlkGB57o0f) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [独創収差](https://open.spotify.com/album/6sqC5pyp0EFFxysVHJFcWo) | 4:35 | 2022-09-20 |  |
 | [生命線](https://open.spotify.com/track/4Ut1yVtaTsq0Mp6F2V2yJC) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [月姫 \-A piece of blue glass moon\- THEME SONG E.P.](https://open.spotify.com/album/25lcvkvNjoSlU07gs1M3hi) | 4:15 | 2022-06-09 | 2022-07-28 |
 | [真っ白](https://open.spotify.com/track/4QGwWIrSqaITsefkbVSTHg) | [諸星すみれ](https://open.spotify.com/artist/5Z7neAQq0zjjW8UX383psP) | [デビューミニアルバム「smile」](https://open.spotify.com/album/1P950IwnBjVGbImslEefQf) | 4:19 | 2022-06-09 | 2022-06-13 |
 | [知らなきゃ](https://open.spotify.com/track/0OKPegc5MwJHYhoMkjDxdS) | [安月名莉子](https://open.spotify.com/artist/7ChJuYuw9pM8MqaZOAmvHX) | [TVアニメ「ハコヅメ\~交番女子の逆襲\~」オープニングテーマ「知らなきゃ」](https://open.spotify.com/album/2iiaezKudY12uKe5LT7Fmh) | 3:53 | 2022-06-09 | 2022-06-12 |

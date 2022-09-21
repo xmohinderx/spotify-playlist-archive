@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9B1hu73DioC.md) - [plain]
 
 > Chill\. The best indie tracks for just hanging out.
 
-[Spotify](https://open.spotify.com/user/spotify) - 742,959 likes - 75 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 743,021 likes - 75 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,10 +21,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9B1hu73DioC.md) - [plain]
 | 11 | [Sunsetz](https://open.spotify.com/track/69UqtTHfUKAJweQwEStRzC) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/5bP82ZIls6rzhpf5Qu6AzC) | 3:34 |
 | 12 | [Pretty Boy](https://open.spotify.com/track/7IL8PSVwLOJxqYne6azxQv) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Chip Chrome & The Mono\-Tones](https://open.spotify.com/album/4uNgt1uQs6wZRm4giB3shX) | 3:54 |
 | 13 | [Kingston](https://open.spotify.com/track/5WbfFTuIldjL9x7W6y5l7R) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Atlanta Millionaires Club](https://open.spotify.com/album/7jXmmQ1gNTXHyTF7uvH4Tn) | 3:22 |
-| 14 | [Texas Sun](https://open.spotify.com/track/24ntSW3QVJzR79lHAAOTaY) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Sun](https://open.spotify.com/album/4HFO9PDRxsdbcegkcNhxgz) | 4:12 |
+| 14 | [Bags](https://open.spotify.com/track/6UFivO2zqqPFPoQYsEMuCc) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 4:20 |
 | 15 | [dirty claws](https://open.spotify.com/track/4dTnpAfrXeEWuGQt1cA3SF) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [play it pretty](https://open.spotify.com/album/7fip95aV1gjbCJBqHoa8lR) | 3:56 |
 | 16 | [Sweet](https://open.spotify.com/track/3VSYkAf6f46i5ZkXOHORq1) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/5bP82ZIls6rzhpf5Qu6AzC) | 4:51 |
-| 17 | [Bags](https://open.spotify.com/track/6UFivO2zqqPFPoQYsEMuCc) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 4:20 |
+| 17 | [Texas Sun](https://open.spotify.com/track/24ntSW3QVJzR79lHAAOTaY) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Sun](https://open.spotify.com/album/4HFO9PDRxsdbcegkcNhxgz) | 4:12 |
 | 18 | [Someone To Spend Time With](https://open.spotify.com/track/6SE4JAo7T8C7XkFka5bbga) | [Los Retros](https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG) | [Someone To Spend Time With](https://open.spotify.com/album/0DyyOMpwfB5KS6OFNiUV1m) | 2:53 |
 | 19 | [Kids](https://open.spotify.com/track/3pyyGVqWvRMq43qtJBzxe0) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [Kids](https://open.spotify.com/album/39OIkrUzvzzCkwhXh9Rdeg) | 4:29 |
 | 20 | [Fire for You](https://open.spotify.com/track/4o0LyB69tylqDG6eTGhmig) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Shadows](https://open.spotify.com/album/0pMkbror5DyuBSl5yeUYTn) | 3:51 |
@@ -54,12 +54,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9B1hu73DioC.md) - [plain]
 | 44 | [Movie](https://open.spotify.com/track/6pxElwU80zhjbCC77Vn8EI) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Geography](https://open.spotify.com/album/28enuddLPEA914scE6Drvk) | 5:57 |
 | 45 | [Mykonos](https://open.spotify.com/track/2s7pyee9w04uQy3cNKzey9) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [First Collection 2006\-2009](https://open.spotify.com/album/6ou9sQOsIY5xIIX417L3ud) | 4:35 |
 | 46 | [Time \(You and I\)](https://open.spotify.com/track/0S3BtG3i5tkQmehJhIhHF3) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Mordechai](https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb) | 5:42 |
-| 47 | [Truly Madly Deeply \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0ApIlfcdY0hVdVEVUyS2Zf) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Spotify Singles](https://open.spotify.com/album/4yLdDDVmXRbB5q2hFGac4t) | 3:10 |
-| 48 | [I Lied \(with Allison Ponthier\)](https://open.spotify.com/track/7xQg5QTx8eiQnsxEnfynPh) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25), [Allison Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Long Lost](https://open.spotify.com/album/5xiePX6kXj5ZsmUsqIqzeD) | 3:54 |
+| 47 | [I Lied \(with Allison Ponthier\)](https://open.spotify.com/track/7xQg5QTx8eiQnsxEnfynPh) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25), [Allison Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Long Lost](https://open.spotify.com/album/5xiePX6kXj5ZsmUsqIqzeD) | 3:54 |
+| 48 | [Truly Madly Deeply \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0ApIlfcdY0hVdVEVUyS2Zf) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Spotify Singles](https://open.spotify.com/album/4yLdDDVmXRbB5q2hFGac4t) | 3:10 |
 | 49 | [Cold War](https://open.spotify.com/track/6DwiGVCgXGREeCyJZtX7S1) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Blood Type](https://open.spotify.com/album/1xpNb3oOnWsZJYQyomLe4Z) | 3:22 |
-| 50 | [Retrograde](https://open.spotify.com/track/2IqjKEBiz0CdLKdkXhxw84) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Overgrown](https://open.spotify.com/album/53FEYOXnplxBWoQMmWn82U) | 3:43 |
-| 51 | [Saw You In A Dream](https://open.spotify.com/track/0U3u0HdRQjD8mAMYBak4Ok) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Saw You In A Dream](https://open.spotify.com/album/1x8SKoPwUTpOfc0w5gBPsk) | 3:28 |
-| 52 | [Sugar](https://open.spotify.com/track/2joEpsXflccZD0ZwKEdz5m) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Untourable Album](https://open.spotify.com/album/7FkJxlcljM6Ix0pC2JSNOE) | 2:56 |
+| 50 | [Sugar](https://open.spotify.com/track/2joEpsXflccZD0ZwKEdz5m) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Untourable Album](https://open.spotify.com/album/7FkJxlcljM6Ix0pC2JSNOE) | 2:56 |
+| 51 | [Retrograde](https://open.spotify.com/track/2IqjKEBiz0CdLKdkXhxw84) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Overgrown](https://open.spotify.com/album/53FEYOXnplxBWoQMmWn82U) | 3:43 |
+| 52 | [Saw You In A Dream](https://open.spotify.com/track/0U3u0HdRQjD8mAMYBak4Ok) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Saw You In A Dream](https://open.spotify.com/album/1x8SKoPwUTpOfc0w5gBPsk) | 3:28 |
 | 53 | [Playground](https://open.spotify.com/track/4IroNECciKcq3M2QtSTus7) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Apollo XXI](https://open.spotify.com/album/3IhDL1HDvlujs6ZcIfL9gE) | 3:33 |
 | 54 | [White Gloves](https://open.spotify.com/track/4AKUOaCRcoKTFnVI9LtsrN) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [The Universe Smiles Upon You](https://open.spotify.com/album/2OPcQNLP8DQVumD8kBRAH3) | 3:38 |
 | 55 | [Hey, Ma](https://open.spotify.com/track/0RstfX9nRY1Lfuy1808MoT) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [i,i](https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW) | 3:36 |
@@ -75,13 +75,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9B1hu73DioC.md) - [plain]
 | 65 | [No Woman](https://open.spotify.com/track/5KPXcfXaGOaWUqOHLDXFRP) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Light Upon the Lake](https://open.spotify.com/album/3UhUTuYtGypQWuhqqoImsv) | 3:57 |
 | 66 | [Bitter](https://open.spotify.com/track/2DkZisoN9h1dLa8Sn5sx0n) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [So Long Forever](https://open.spotify.com/album/6cmFNl8lllA6BGc7SKLy3y) | 3:53 |
 | 67 | [Rose Pink Cadillac](https://open.spotify.com/track/3YC7FYhduZbYObLRCdhANa) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Rose Pink Cadillac](https://open.spotify.com/album/0JUuId9ZVeNiCk9KGtAUuv) | 4:21 |
-| 68 | [Got Weird](https://open.spotify.com/track/5z1KeOpL9n1b3iFAJk91iu) | [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Got Weird](https://open.spotify.com/album/2NBdHnQrggzuLN3FgeO9Om) | 3:22 |
-| 69 | [Heart It Races \- Cover Version](https://open.spotify.com/track/0SyOHG2V9CgMSlebbnyoLJ) | [Dr\. Dog](https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7) | [Heart It Races \(Cover Version\)](https://open.spotify.com/album/5H7DXLYdOFUa0KD62HqCvd) | 3:51 |
+| 68 | [Heart It Races \- Cover Version](https://open.spotify.com/track/0SyOHG2V9CgMSlebbnyoLJ) | [Dr\. Dog](https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7) | [Heart It Races \(Cover Version\)](https://open.spotify.com/album/5H7DXLYdOFUa0KD62HqCvd) | 3:51 |
+| 69 | [Got Weird](https://open.spotify.com/track/5z1KeOpL9n1b3iFAJk91iu) | [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Got Weird](https://open.spotify.com/album/2NBdHnQrggzuLN3FgeO9Om) | 3:22 |
 | 70 | [Sometimes](https://open.spotify.com/track/7oJmIBxEAYjfkS7lhZ7M1S) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Sometimes](https://open.spotify.com/album/7LPsBxxixuOPJl7grf3PX3) | 4:22 |
 | 71 | [Sunday Funday](https://open.spotify.com/track/2OjZhG8BnvrsVWqGnZk4PO) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [Jockeys of Love](https://open.spotify.com/album/3yAepUj1zxXIt5g7w6uvYT) | 4:16 |
 | 72 | [Bedroom](https://open.spotify.com/track/3LH6EfPCeySeuymuK2gWAO) | [Litany](https://open.spotify.com/artist/2z6JjrrJKNLilqlx8mlxcc) | [4 Track EP](https://open.spotify.com/album/64NBfuKfE49atmxBp4H3ZZ) | 3:06 |
 | 73 | [Bound \(with Blood Orange\)](https://open.spotify.com/track/3QVOw80vrsAV8UpNMUKI3G) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Letter Blue](https://open.spotify.com/album/2EfIa1JzzYjckiiEbtM7g3) | 3:40 |
 | 74 | [ocean view](https://open.spotify.com/track/4MfLjVBgqn4e8fBKWJk6sU) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [life's a beach](https://open.spotify.com/album/2xOawu4iq9fwcdFNvGBTdl) | 2:54 |
-| 75 | [Driving South](https://open.spotify.com/track/1Mp50vmIphq9ui2UUJoX3m) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3), [Blood Cultures](https://open.spotify.com/artist/1kDqy7SpqyJ7aZi7cqSBis) | [Santa Catalina](https://open.spotify.com/album/6wv8zT8vG5EICl083UHoVm) | 3:55 |
+| 75 | [I Hope to Be Around \(Live\)](https://open.spotify.com/track/1EOC47ETkQCedpxemcJpal) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Forever Live Sessions](https://open.spotify.com/album/4p73PcjJvWer7WDYXcGetn) | 3:46 |
 
-Snapshot ID: `MTY2MzI2MDEwMSwwMDAwMDAwMGQyZWQ3NDQ0Yzg3ZDYxMDI5ZThiMDc4NmNjMjI4YTM3`
+Snapshot ID: `MTY2MzI2MDEwMSwwMDAwMDAwMGMzZDVkYjljMmFhM2YxZDgwYmYxYTY1ZjRkYTZhZjVj`

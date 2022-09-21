@@ -1,12 +1,12 @@
 {
   "description": "Lay back. Chill out.",
-  "num_followers": 77319,
+  "num_followers": 77437,
   "original_name": "floating",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ3OTc1MywwMDAwMDAwMDdhODkxNTMyNjgwNmI4MmM3OWU4OWRhMmM4MDcyYzNk",
+  "snapshot_id": "MTY2MTQ3OTc1MywwMDAwMDAwMDA3NTlkN2I5YmFlZGIzMTY3Nzc0YWE2NDk1M2ZjNTc0",
   "tracks": [
     {
       "added_at": "2022-08-26 02:09:12",
@@ -203,22 +203,6 @@
     {
       "added_at": "2022-08-26 02:09:12",
       "album": {
-        "name": "Mahogany Soul",
-        "url": "https://open.spotify.com/album/1pJld4hH1xL3ONIlWZEhXw"
-      },
-      "artists": [
-        {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        }
-      ],
-      "duration_ms": 270893,
-      "name": "Wish I Didn't Miss You",
-      "url": "https://open.spotify.com/track/3tZm76otWH20xzJC7icHCk"
-    },
-    {
-      "added_at": "2022-08-26 02:09:12",
-      "album": {
         "name": "Hive Mind",
         "url": "https://open.spotify.com/album/27ThgFMUAx3MXLQ297DzWF"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 406466,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/5tqZJUHEuqdN12RZVq2l9p"
+    },
+    {
+      "added_at": "2022-08-26 02:09:12",
+      "album": {
+        "name": "A Seat at the Table",
+        "url": "https://open.spotify.com/album/3Yko2SxDk4hc6fncIBQlcM"
+      },
+      "artists": [
+        {
+          "name": "Solange",
+          "url": "https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU"
+        }
+      ],
+      "duration_ms": 250973,
+      "name": "Cranes in the Sky",
+      "url": "https://open.spotify.com/track/48EjSdYh8wz2gBxxqzrsLe"
     },
     {
       "added_at": "2022-08-26 02:09:12",
@@ -251,18 +251,18 @@
     {
       "added_at": "2022-08-26 02:09:12",
       "album": {
-        "name": "A Seat at the Table",
-        "url": "https://open.spotify.com/album/3Yko2SxDk4hc6fncIBQlcM"
+        "name": "Mahogany Soul",
+        "url": "https://open.spotify.com/album/1pJld4hH1xL3ONIlWZEhXw"
       },
       "artists": [
         {
-          "name": "Solange",
-          "url": "https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU"
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
         }
       ],
-      "duration_ms": 250973,
-      "name": "Cranes in the Sky",
-      "url": "https://open.spotify.com/track/48EjSdYh8wz2gBxxqzrsLe"
+      "duration_ms": 270893,
+      "name": "Wish I Didn't Miss You",
+      "url": "https://open.spotify.com/track/3tZm76otWH20xzJC7icHCk"
     },
     {
       "added_at": "2022-08-26 02:09:12",
@@ -499,6 +499,22 @@
     {
       "added_at": "2022-08-26 02:09:12",
       "album": {
+        "name": "Summer Madness",
+        "url": "https://open.spotify.com/album/2g0Mwf7ujbQmtZzMAhiCkp"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "duration_ms": 201917,
+      "name": "Summer Madness",
+      "url": "https://open.spotify.com/track/7fpiYh33Xph4OPj8gS8jL0"
+    },
+    {
+      "added_at": "2022-08-26 02:09:12",
+      "album": {
         "name": "Eddie",
         "url": "https://open.spotify.com/album/5FTrv0ut24vm76hx1WuWSN"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 290893,
       "name": "Out Of Love",
       "url": "https://open.spotify.com/track/3hNywmR93yvj68y2zl8mRt"
-    },
-    {
-      "added_at": "2022-08-26 02:09:12",
-      "album": {
-        "name": "Summer Madness",
-        "url": "https://open.spotify.com/album/2g0Mwf7ujbQmtZzMAhiCkp"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        }
-      ],
-      "duration_ms": 201917,
-      "name": "Summer Madness",
-      "url": "https://open.spotify.com/track/7fpiYh33Xph4OPj8gS8jL0"
     },
     {
       "added_at": "2022-08-26 02:09:12",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2022-08-26 02:09:12",
       "album": {
-        "name": "Ashanti",
-        "url": "https://open.spotify.com/album/5M3BrdaT0TV5SsYsM5PM8X"
-      },
-      "artists": [
-        {
-          "name": "Ashanti",
-          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
-        }
-      ],
-      "duration_ms": 249106,
-      "name": "Movies",
-      "url": "https://open.spotify.com/track/7lBETHInBVdFrKhC9J24H0"
-    },
-    {
-      "added_at": "2022-08-26 02:09:12",
-      "album": {
         "name": "ALICIA",
         "url": "https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 151133,
       "name": "Lullaby (feat. Syd)",
       "url": "https://open.spotify.com/track/56cPHHY51YpcD4OwU42GS3"
+    },
+    {
+      "added_at": "2022-08-26 02:09:12",
+      "album": {
+        "name": "Ashanti",
+        "url": "https://open.spotify.com/album/5M3BrdaT0TV5SsYsM5PM8X"
+      },
+      "artists": [
+        {
+          "name": "Ashanti",
+          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
+        }
+      ],
+      "duration_ms": 249106,
+      "name": "Movies",
+      "url": "https://open.spotify.com/track/7lBETHInBVdFrKhC9J24H0"
     },
     {
       "added_at": "2022-08-26 02:09:12",

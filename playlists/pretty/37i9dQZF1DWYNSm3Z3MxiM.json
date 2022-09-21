@@ -1,12 +1,12 @@
 {
   "description": "Anthems only. For an extra rep, an extra set or an extra mile.",
-  "num_followers": 614408,
+  "num_followers": 614746,
   "original_name": "Classic Rock Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjU2MzQxMCwwMDAwMDAwMGFkOWMyZDdlYTBjOGU4NzczODJhOTJiMjQ2ZTMxNDE4",
+  "snapshot_id": "MTY2MjU2MzQxMCwwMDAwMDAwMGE0ZWRkYjFkYjNlMzFjZWUwNWQ1YTEyOTYyMzAzZWI0",
   "tracks": [
     {
       "added_at": "2021-12-14 20:27:19",
@@ -779,22 +779,6 @@
     {
       "added_at": "2022-06-29 15:30:44",
       "album": {
-        "name": "4 (Expanded)",
-        "url": "https://open.spotify.com/album/2Pw51hAGvWpTA3AYl2WVuu"
-      },
-      "artists": [
-        {
-          "name": "Foreigner",
-          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
-        }
-      ],
-      "duration_ms": 259800,
-      "name": "Juke Box Hero",
-      "url": "https://open.spotify.com/track/00qOE7OjRl0BpYiCiweZB2"
-    },
-    {
-      "added_at": "2022-06-29 15:30:44",
-      "album": {
         "name": "Led Zeppelin IV (Deluxe Edition)",
         "url": "https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 220560,
       "name": "Rock and Roll - Remaster",
       "url": "https://open.spotify.com/track/4PRGxHpCpF2yoOHYKQIEwD"
+    },
+    {
+      "added_at": "2022-06-29 15:30:44",
+      "album": {
+        "name": "4 (Expanded)",
+        "url": "https://open.spotify.com/album/2Pw51hAGvWpTA3AYl2WVuu"
+      },
+      "artists": [
+        {
+          "name": "Foreigner",
+          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
+        }
+      ],
+      "duration_ms": 259800,
+      "name": "Juke Box Hero",
+      "url": "https://open.spotify.com/track/00qOE7OjRl0BpYiCiweZB2"
     },
     {
       "added_at": "2021-12-14 20:27:19",
@@ -843,22 +843,6 @@
     {
       "added_at": "2021-12-14 20:27:19",
       "album": {
-        "name": "Van Halen (Remastered)",
-        "url": "https://open.spotify.com/album/7DdEbYFPKTZ8KB4z6L4UnQ"
-      },
-      "artists": [
-        {
-          "name": "Van Halen",
-          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
-        }
-      ],
-      "duration_ms": 214960,
-      "name": "Runnin' with the Devil - 2015 Remaster",
-      "url": "https://open.spotify.com/track/3KhF2YiNpJvGpfiCW45R6D"
-    },
-    {
-      "added_at": "2021-12-14 20:27:19",
-      "album": {
         "name": "Pieces Of Eight",
         "url": "https://open.spotify.com/album/294yFGYq9SBXWR4g6dK63D"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 257226,
       "name": "Renegade",
       "url": "https://open.spotify.com/track/1CQqupcyMg7176PPmIVmSj"
+    },
+    {
+      "added_at": "2021-12-14 20:27:19",
+      "album": {
+        "name": "Van Halen (Remastered)",
+        "url": "https://open.spotify.com/album/7DdEbYFPKTZ8KB4z6L4UnQ"
+      },
+      "artists": [
+        {
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+        }
+      ],
+      "duration_ms": 214960,
+      "name": "Runnin' with the Devil - 2015 Remaster",
+      "url": "https://open.spotify.com/track/3KhF2YiNpJvGpfiCW45R6D"
     },
     {
       "added_at": "2022-06-01 14:25:59",
@@ -919,22 +919,6 @@
       "duration_ms": 232533,
       "name": "Slow Ride",
       "url": "https://open.spotify.com/track/4MYb7NWLwXNDB7bYs3HeX8"
-    },
-    {
-      "added_at": "2021-12-14 20:27:19",
-      "album": {
-        "name": "1984 (Remastered)",
-        "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
-      },
-      "artists": [
-        {
-          "name": "Van Halen",
-          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
-        }
-      ],
-      "duration_ms": 282746,
-      "name": "Hot for Teacher - 2015 Remaster",
-      "url": "https://open.spotify.com/track/6QDbGdbJ57Mtkflsg42WV5"
     },
     {
       "added_at": "2021-12-14 20:27:19",
@@ -1003,6 +987,22 @@
     {
       "added_at": "2021-12-14 20:27:19",
       "album": {
+        "name": "1984 (Remastered)",
+        "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
+      },
+      "artists": [
+        {
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+        }
+      ],
+      "duration_ms": 282746,
+      "name": "Hot for Teacher - 2015 Remaster",
+      "url": "https://open.spotify.com/track/6QDbGdbJ57Mtkflsg42WV5"
+    },
+    {
+      "added_at": "2021-12-14 20:27:19",
+      "album": {
         "name": "Tommy",
         "url": "https://open.spotify.com/album/5cT7ee1sy2oEbFalP4asS4"
       },
@@ -1035,18 +1035,18 @@
     {
       "added_at": "2021-12-14 20:27:19",
       "album": {
-        "name": "Sticky Fingers (Remastered)",
-        "url": "https://open.spotify.com/album/29m6DinzdaD0OPqWKGyMdz"
+        "name": "Bark At The Moon (Expanded Edition)",
+        "url": "https://open.spotify.com/album/537qKeG5gbEvKJpQ4Qmszn"
       },
       "artists": [
         {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
         }
       ],
-      "duration_ms": 228666,
-      "name": "Brown Sugar - 2009 Remaster",
-      "url": "https://open.spotify.com/track/61UuPxxYUvacEH6SHIK3sU"
+      "duration_ms": 257120,
+      "name": "Bark at the Moon",
+      "url": "https://open.spotify.com/track/2E7W1X4maFFcjHrVrFA7Vs"
     }
   ],
   "unique_name": "Classic Rock Workout",

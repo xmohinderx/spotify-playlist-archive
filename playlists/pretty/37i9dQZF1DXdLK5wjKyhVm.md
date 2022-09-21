@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdLK5wjKyhVm.md) - [plain]
 
 > Blissed out beats and head nodding grooves \- Relax, study and vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,201 likes - 127 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,480 likes - 127 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

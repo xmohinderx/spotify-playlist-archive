@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6FdIcKzUp2r.md) - [plain]
 
 > Work or rest with these gems from the 80s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,902 likes - 80 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,957 likes - 80 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,15 +20,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6FdIcKzUp2r.md) - [plain]
 | 10 | [Night Nurse](https://open.spotify.com/track/4DQttwipnILl88cru3BRZx) | [Gregory Isaacs](https://open.spotify.com/artist/6QHu71f8LLeT8n0GzfbYFc) | [Night Nurse \(Expanded Edition\)](https://open.spotify.com/album/2HEXjNNUSOwBmhyaEXG5yx) | 4:09 |
 | 11 | [The End Of The Innocence](https://open.spotify.com/track/3NWcFiL6oCEagrFiTdDr1m) | [Don Henley](https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2) | [The End Of The Innocence](https://open.spotify.com/album/12lDqJuZIqMk6DNe1fInFl) | 5:15 |
 | 12 | [Avalon](https://open.spotify.com/track/7iWIdiJlKvJ4PjFYVrWLUU) | [Roxy Music](https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo) | [Avalon](https://open.spotify.com/album/3JXODSjT9mUz2lIb4YIErw) | 4:16 |
-| 13 | [The Power Of Love](https://open.spotify.com/track/1GbyYL0B0Mjn3kSbrEwKKI) | [Frankie Goes To Hollywood](https://open.spotify.com/artist/1mZu3rO7qSD09GdDpePHhY) | [Welcome To The Pleasuredome](https://open.spotify.com/album/0FU4Eo42Oyg1We3eRrOf4m) | 5:32 |
-| 14 | [Save a Prayer \- 2009 Remaster](https://open.spotify.com/track/1ff8lsrJ2kuZuofMw81EQo) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Rio \(Collector's Edition\)](https://open.spotify.com/album/02tfQwJSOLP77oCd9U8bqm) | 5:33 |
+| 13 | [Save a Prayer \- 2009 Remaster](https://open.spotify.com/track/1ff8lsrJ2kuZuofMw81EQo) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Rio \(Collector's Edition\)](https://open.spotify.com/album/02tfQwJSOLP77oCd9U8bqm) | 5:33 |
+| 14 | [The Power Of Love](https://open.spotify.com/track/1GbyYL0B0Mjn3kSbrEwKKI) | [Frankie Goes To Hollywood](https://open.spotify.com/artist/1mZu3rO7qSD09GdDpePHhY) | [Welcome To The Pleasuredome](https://open.spotify.com/album/0FU4Eo42Oyg1We3eRrOf4m) | 5:32 |
 | 15 | [Father Figure \- Remastered](https://open.spotify.com/track/0L0T4tMAaGqLgIVj1MOj9t) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Faith](https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw) | 5:36 |
 | 16 | [All Out of Love](https://open.spotify.com/track/6Nq8YtPAHuL1outooeiFde) | [Air Supply](https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW) | [Ultimate Air Supply](https://open.spotify.com/album/5PXeBHFjvr8EykHfFxJMje) | 4:01 |
 | 17 | [Through the Barricades \- Remastered](https://open.spotify.com/track/5ALQSecfsZLsWip5CZK9aN) | [Spandau Ballet](https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv) | [Through the Barricades \(Remastered\)](https://open.spotify.com/album/5O1G1WHUO1IVRbl5VUUIdH) | 5:59 |
 | 18 | [A Real Hero](https://open.spotify.com/track/1aJrVsHwcQMZ8TZ6mlvT5J) | [College & Electric Youth](https://open.spotify.com/artist/3moPFBjUsSSJAC92afLgOH) | [A Real Hero EP](https://open.spotify.com/album/1fpoZQUSFwlfSve4rkFjCI) | 4:27 |
-| 19 | [Hold Me Now](https://open.spotify.com/track/0BJU4rYOfj43xHw6gvTIwE) | [Thompson Twins](https://open.spotify.com/artist/5jVeqi3PNaTOajfvBa4uFn) | [Into The Gap](https://open.spotify.com/album/0jcUegqpKCfHQ8va6aWwv0) | 4:46 |
+| 19 | [An Ending \(Ascent\) \- Remastered 2005](https://open.spotify.com/track/1vgSaC0BPlL6LEm4Xsx59J) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Apollo](https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E) | 4:26 |
 | 20 | [Careless Whisper](https://open.spotify.com/track/2R7858bg0GHuBBxjTyOL7N) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [The Final](https://open.spotify.com/album/6ZJD7uT643TvniNyAk90bd) | 5:02 |
-| 21 | [An Ending \(Ascent\) \- Remastered 2005](https://open.spotify.com/track/1vgSaC0BPlL6LEm4Xsx59J) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Apollo](https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E) | 4:26 |
+| 21 | [Hold Me Now](https://open.spotify.com/track/0BJU4rYOfj43xHw6gvTIwE) | [Thompson Twins](https://open.spotify.com/artist/5jVeqi3PNaTOajfvBa4uFn) | [Into The Gap](https://open.spotify.com/album/0jcUegqpKCfHQ8va6aWwv0) | 4:46 |
 | 22 | [The One You Love](https://open.spotify.com/track/4uvARnZIajUDXWXPifhK3B) | [Glenn Frey](https://open.spotify.com/artist/3vMWY1bUrmYoSoEWLiQWOZ) | [No Fun Aloud](https://open.spotify.com/album/1vgK8Yq0G3E3MO4MzI4BJJ) | 4:34 |
 | 23 | [Old and Wise](https://open.spotify.com/track/5Jt2AQv1c3RUF5ENtAYF1i) | [The Alan Parsons Project](https://open.spotify.com/artist/2m62cc253Xvd9qYQ8d2X3d) | [Eye In The Sky \(Expanded Edition\)](https://open.spotify.com/album/4BGd9BmpePqeSfHLeYiCDr) | 4:55 |
 | 24 | [Theme from Harry's Game \- Remastered](https://open.spotify.com/track/2hcxPnu5RljXH0eMOtctuF) | [Clannad](https://open.spotify.com/artist/0BkAYxgwF9VQiid4wI07yJ) | [Magical Ring](https://open.spotify.com/album/1HQJUZCAhN3e3LR43VVa5j) | 2:29 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6FdIcKzUp2r.md) - [plain]
 | 54 | [I Believe](https://open.spotify.com/track/2iwXxZD87p1Q3ISveQteiJ) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [Songs From The Big Chair](https://open.spotify.com/album/7y7459SFZReE5Wec4hejv5) | 4:55 |
 | 55 | [Tara](https://open.spotify.com/track/5oMNDwCx1Lr9BSL4WkkazM) | [Roxy Music](https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo) | [Avalon](https://open.spotify.com/album/3JXODSjT9mUz2lIb4YIErw) | 1:43 |
 | 56 | [A Change Is Gonna Come](https://open.spotify.com/track/1Aw8AzGtFssawCsiCxxyAr) | [The Neville Brothers](https://open.spotify.com/artist/3d1olqhURDe8e5HOta1Qxg) | [Yellow Moon](https://open.spotify.com/album/5mk6XIaqIFbESIcfqh8GEF) | 3:43 |
-| 57 | [For a Friend](https://open.spotify.com/track/6Cfvxx7v5MxCzGQOXjxo35) | [The Communards](https://open.spotify.com/artist/17U2ImH5IyYMvjkCfPhMHT) | [Red](https://open.spotify.com/album/2Av2EXgkvzZbq3sJqQAUaE) | 5:03 |
-| 58 | [Shipbuilding](https://open.spotify.com/track/7DV1fLakiEgpJ1OuMQH4yb) | [Elvis Costello & The Attractions](https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH) | [Punch The Clock](https://open.spotify.com/album/0jo7K3IkLusU2dbYLvQIOs) | 4:52 |
+| 57 | [Shipbuilding](https://open.spotify.com/track/7DV1fLakiEgpJ1OuMQH4yb) | [Elvis Costello & The Attractions](https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH) | [Punch The Clock](https://open.spotify.com/album/0jo7K3IkLusU2dbYLvQIOs) | 4:52 |
+| 58 | [For a Friend](https://open.spotify.com/track/6Cfvxx7v5MxCzGQOXjxo35) | [The Communards](https://open.spotify.com/artist/17U2ImH5IyYMvjkCfPhMHT) | [Red](https://open.spotify.com/album/2Av2EXgkvzZbq3sJqQAUaE) | 5:03 |
 | 59 | [The Captain of Her Heart \- Radio Version](https://open.spotify.com/track/36NiEVgYkR3njVyydBphXV) | [Double](https://open.spotify.com/artist/4NOA8osMRoNN1FZ5vrR4y2) | [The Captain of Her Heart \(Radio Version\)](https://open.spotify.com/album/5oOBMhtW7txojzTblbiGRV) | 3:58 |
 | 60 | [Contacting My Angel](https://open.spotify.com/track/3oy4xC2pSV0ieFvd7RAYAH) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Avalon Sunset](https://open.spotify.com/album/2vE3SSFPxYt7jRu93j6rsi) | 4:58 |
 | 61 | [Can't Stay Away from You](https://open.spotify.com/track/3JeTD3IfCntCx3nLSAv56U) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889), [Miami Sound Machine](https://open.spotify.com/artist/18xgcedCGxFbqLbIQn5R8F) | [Let It Loose](https://open.spotify.com/album/1QFhYMcCFGK1pVVwStxf4x) | 3:55 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6FdIcKzUp2r.md) - [plain]
 | 79 | [Saturday Night](https://open.spotify.com/track/6X8zrGoGa1zKgIO2PMq3Bk) | [The Blue Nile](https://open.spotify.com/artist/1GWV70Reko15eV2nHCm0bM) | [Hats](https://open.spotify.com/album/4pLVvQiysxBwbUuSB3ceQv) | 6:27 |
 | 80 | [The Experience Of Swimming \- 2003 Digital Remaster](https://open.spotify.com/track/3xTX2k03pGJ8PO9pytIrY2) | [Japan](https://open.spotify.com/artist/7vPXrGlSGukcwpaPxUfKKR) | [Gentlemen Take Polaroids](https://open.spotify.com/album/0RhywRDYdXYC5Qzk0iIprW) | 4:04 |
 
-Snapshot ID: `MTU0NzY0NjM5NiwwMDAwMDAwMGQ4Njc4OGM5ZjU2MmMzYzRkNmE0ZTBkZGExNjg3NjNi`
+Snapshot ID: `MTU0NzY0NjM5NiwwMDAwMDAwMDIxYjhhZDg5YTBhNWJkODIxZmFhOGY5ZmRlMTA4NWMx`

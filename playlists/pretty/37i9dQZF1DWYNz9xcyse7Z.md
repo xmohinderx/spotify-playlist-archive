@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNz9xcyse7Z.md) - [plain]
 
 > Recordando el legado campirano y rancherón con las clásicas del sierreño\. Ariel Camacho en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,774 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,838 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,17 +54,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNz9xcyse7Z.md) - [plain]
 | 44 | [El Huizache](https://open.spotify.com/track/2zL6yRd7BBITUAYBBNnh1n) | [El Tigrillo Palma](https://open.spotify.com/artist/2usAJ9Mtrw570XlQ5MHJek) | [Por Las Calles Enlodadas](https://open.spotify.com/album/5Dxgtj1Vd7vpOC5vnNrJhD) | 2:56 |
 | 45 | [Para Reconquistarte](https://open.spotify.com/track/5IlUimjaPMBV9OxSY9JF8D) | [Los Nietos](https://open.spotify.com/artist/3exw3iAIHmh6Kw7fevjPHv) | [Para Reconquistarte](https://open.spotify.com/album/1ZE9yPRFe7mkKNgCLr50rP) | 2:49 |
 | 46 | [Jardin Olvidado](https://open.spotify.com/track/7aOzAKV1A7auw4S5cDHpsS) | [Los Nuevos de Sinaloa](https://open.spotify.com/artist/6Q5TEd26K9VgRNVrEmvpU5) | [El Jardin Olvidado](https://open.spotify.com/album/4akU0gaOGgrJJvg2oP3eSB) | 2:37 |
-| 47 | [Sentimiento De Dolor](https://open.spotify.com/track/7z1YWymBM7ZnzN8ewUFQ7B) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [En La Mira](https://open.spotify.com/album/3rZ0PIGZtHCSSaBKZPYJAa) | 3:42 |
-| 48 | [Con Que Me Pagas](https://open.spotify.com/track/2EAabOFWset3x4EkvCJqaX) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [La Que Se Fue](https://open.spotify.com/album/4nq2E1X1n3p4Lq1to52vhB) | 2:14 |
+| 47 | [Con Que Me Pagas](https://open.spotify.com/track/2EAabOFWset3x4EkvCJqaX) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [La Que Se Fue](https://open.spotify.com/album/4nq2E1X1n3p4Lq1to52vhB) | 2:14 |
+| 48 | [Sentimiento De Dolor](https://open.spotify.com/track/7z1YWymBM7ZnzN8ewUFQ7B) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [En La Mira](https://open.spotify.com/album/3rZ0PIGZtHCSSaBKZPYJAa) | 3:42 |
 | 49 | [Piel de Azúcar](https://open.spotify.com/track/1y8ZcMQhBEySjQxmxnyurt) | [Los Gavilanes de la Sierra](https://open.spotify.com/artist/1m41o6nhLXMVGGzz9kLgq1) | [Piel de Azúcar](https://open.spotify.com/album/6LRYnSGOYJZufNSd5IscGV) | 2:41 |
 | 50 | [Sueños](https://open.spotify.com/track/3gZDsRgCqVKc9hIYBMcjfq) | [Los Nietos](https://open.spotify.com/artist/3exw3iAIHmh6Kw7fevjPHv) | [Para Reconquistarte](https://open.spotify.com/album/1ZE9yPRFe7mkKNgCLr50rP) | 3:12 |
 | 51 | [Flor de Capomo](https://open.spotify.com/track/6H9rzRBCwj6y9rrHfCRcpa) | [Los Ciclones del Arroyo](https://open.spotify.com/artist/474014H20e2LqUwdWaaVLO) | [Ahora Si](https://open.spotify.com/album/539yukpAnDK7WNQqMtfA4v) | 2:58 |
 | 52 | [Las Rancheras de los Reyes](https://open.spotify.com/track/5bkmKDY3FsMvzp6qh2L16s) | [Los Reyes De Sinaloa](https://open.spotify.com/artist/00dw07ifKzcH0KYN6DWBmQ) | [Ven](https://open.spotify.com/album/2R1mIUBimCzH70f7yD2OW1) | 10:30 |
 | 53 | [Atrapado](https://open.spotify.com/track/3GRuvSySNW7ewnrXEtPTku) | [Los Alegres de la Sierra](https://open.spotify.com/artist/4Yfe8uXcl5PYwknQ4OMZIP) | [10th Aniversario](https://open.spotify.com/album/2vBnKNe8AYlOjvI767hpiz) | 3:58 |
-| 54 | [La Que Se Fue](https://open.spotify.com/track/1yluoIrIPGx20QsXmUYNRO) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [La Que Se Fue](https://open.spotify.com/album/4nq2E1X1n3p4Lq1to52vhB) | 2:59 |
-| 55 | [No Existe Amor Igual \- Versiones con Guitarras](https://open.spotify.com/track/38xi2dkB1aNLCLxlV9l4su) | [Ulises Quintero](https://open.spotify.com/artist/3bMp5goOxqKUKLvYfP6Qvu) | [Contigo](https://open.spotify.com/album/5ulSs304XcWr5uHQhGnHFw) | 2:58 |
-| 56 | [Ella Me Dijo Que No](https://open.spotify.com/track/3S5Z71zGniOIV9cqSFBzQ0) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [En La Mira](https://open.spotify.com/album/3rZ0PIGZtHCSSaBKZPYJAa) | 2:43 |
-| 57 | [El Frijolito](https://open.spotify.com/track/2DinJPTgjKjiBG8zEmUAq8) | [El Canelo De Sinaloa](https://open.spotify.com/artist/5WyCFEWzY8eMcSOu0BFjhJ), [Los Dos Del Sitio](https://open.spotify.com/artist/4fKzhjg1iCHqWvXBB1U6G2) | [El Diablo y el Federal](https://open.spotify.com/album/2rcwazegT8e3JlhPPtHJYk) | 2:13 |
+| 54 | [No Existe Amor Igual \- Versiones con Guitarras](https://open.spotify.com/track/38xi2dkB1aNLCLxlV9l4su) | [Ulises Quintero](https://open.spotify.com/artist/3bMp5goOxqKUKLvYfP6Qvu) | [Contigo](https://open.spotify.com/album/5ulSs304XcWr5uHQhGnHFw) | 2:58 |
+| 55 | [La Que Se Fue](https://open.spotify.com/track/1yluoIrIPGx20QsXmUYNRO) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [La Que Se Fue](https://open.spotify.com/album/4nq2E1X1n3p4Lq1to52vhB) | 2:59 |
+| 56 | [El Frijolito](https://open.spotify.com/track/2DinJPTgjKjiBG8zEmUAq8) | [El Canelo De Sinaloa](https://open.spotify.com/artist/5WyCFEWzY8eMcSOu0BFjhJ), [Los Dos Del Sitio](https://open.spotify.com/artist/4fKzhjg1iCHqWvXBB1U6G2) | [El Diablo y el Federal](https://open.spotify.com/album/2rcwazegT8e3JlhPPtHJYk) | 2:13 |
+| 57 | [Ella Me Dijo Que No](https://open.spotify.com/track/3S5Z71zGniOIV9cqSFBzQ0) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [En La Mira](https://open.spotify.com/album/3rZ0PIGZtHCSSaBKZPYJAa) | 2:43 |
 | 58 | [Que Casualidad](https://open.spotify.com/track/6mYGR28K8XuYJGER8EvBN4) | [Grupo cessna](https://open.spotify.com/artist/5cxRMXREpTmtI6lFc5hE7W) | [Hombres de Rancho](https://open.spotify.com/album/4Twk9Hn6QoII8zuuQ7rC5t) | 3:24 |
 | 59 | [Aunque Por Fin Te Vas](https://open.spotify.com/track/2eZ7aKBUAZGqbVL9jYPS1Z) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [Mi Guitarra Y Yo](https://open.spotify.com/album/5RzfxZNDUrlruKHo1kYGq1) | 2:16 |
 | 60 | [Esta Libertad](https://open.spotify.com/track/5EIsjOZwmokUey87tmr9sW) | [Los Gavilanes de la Sierra](https://open.spotify.com/artist/1m41o6nhLXMVGGzz9kLgq1) | [Intentare Olvidarte](https://open.spotify.com/album/2Mi81BcVJsuS21dli3yqhN) | 2:41 |
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNz9xcyse7Z.md) - [plain]
 | 90 | [Llorando Por Ti](https://open.spotify.com/track/7xtzhHqkdbgCqefLIKgKpY) | [Los Students](https://open.spotify.com/artist/468vRwxNFLQ9bnv9LeA5Sm) | [Para Siempre](https://open.spotify.com/album/0h1qpEWCEyKf6lJHPbN4MR) | 3:18 |
 | 91 | [Las Lluvias](https://open.spotify.com/track/5JWnxJIBUa7bVHqaZIEoUy) | [Los Gavilanes de la Sierra](https://open.spotify.com/artist/1m41o6nhLXMVGGzz9kLgq1) | [Piel de Azúcar](https://open.spotify.com/album/6LRYnSGOYJZufNSd5IscGV) | 3:04 |
 | 92 | [Amores Fingidos](https://open.spotify.com/track/7dHPgzcHDFq8s6B50H9bfn) | [Los Cuen's De Sinaloa](https://open.spotify.com/artist/4QLyaPcH64FhlBxA8FAeN2) | [Los Cuen's De Sinaloa](https://open.spotify.com/album/0ySeNWEVo1p6JLkylvagO0) | 2:48 |
-| 93 | [Ambicion](https://open.spotify.com/track/6UFTow898t6dbHb14FnKzk) | [Los Pescadores De Guaymas](https://open.spotify.com/artist/0Lnai7lNe8gZOe9fPaYFmv) | [Raza Pesada](https://open.spotify.com/album/5RPjZ9F7vHbXBDya9z9f8t) | 3:14 |
-| 94 | [Dos Seres Que Se Aman](https://open.spotify.com/track/6EvHYa6KUiXAl9rqt7E7Z5) | [Los Dos De La Sierra](https://open.spotify.com/artist/3VCLVWGByXwgEpCQW1jmBc) | [Tres Suspiros](https://open.spotify.com/album/1uBsBFgV33cAfgSkIfD9bB) | 2:42 |
+| 93 | [Dos Seres Que Se Aman](https://open.spotify.com/track/6EvHYa6KUiXAl9rqt7E7Z5) | [Los Dos De La Sierra](https://open.spotify.com/artist/3VCLVWGByXwgEpCQW1jmBc) | [Tres Suspiros](https://open.spotify.com/album/1uBsBFgV33cAfgSkIfD9bB) | 2:42 |
+| 94 | [Ambicion](https://open.spotify.com/track/6UFTow898t6dbHb14FnKzk) | [Los Pescadores De Guaymas](https://open.spotify.com/artist/0Lnai7lNe8gZOe9fPaYFmv) | [Raza Pesada](https://open.spotify.com/album/5RPjZ9F7vHbXBDya9z9f8t) | 3:14 |
 | 95 | [Cielo Azul, Cielo Nublado](https://open.spotify.com/track/5GRe4EsGxq49GaxKYvWQoZ) | [Roman De Los Reyes](https://open.spotify.com/artist/5fTnZFgNX2qnnYqGf3KubF) | [Tu Lo Decidiste](https://open.spotify.com/album/0JNCEzRPMSqwTTVh350Mj8) | 3:05 |
 | 96 | [Siempre Te Amaré](https://open.spotify.com/track/2dgAOE1CW61s4pPfrQtgqT) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Grandes Exitos con Tuba, Acordeón y Guitarra Vol\. 1](https://open.spotify.com/album/2E9MK3bAEAJSpuyRqrSIb2) | 2:30 |
 | 97 | [Vete ya](https://open.spotify.com/track/7nyrLXE5oinHY87LpZL1e3) | [Los Sierreños](https://open.spotify.com/artist/5MXWcBs0RGTVN1bz9N7g3A) | [Homenaje Sierreño Al Gallo De Oro](https://open.spotify.com/album/0J8RcbQTePcVEYxnbcZqr0) | 2:31 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNz9xcyse7Z.md) - [plain]
 | 99 | [Que Casualidad](https://open.spotify.com/track/1ARNcGlXQKky7zX4TZkCtx) | [Sierreños de Sinaloa](https://open.spotify.com/artist/49XtLcagl18fnpRxiW7QW8) | [Siguen los Exitos](https://open.spotify.com/album/3x6EZXwwRU7kDo9DKzVWKa) | 2:58 |
 | 100 | [Basta ya](https://open.spotify.com/track/2MlQFNJIcc8WpU0gX5Q6r1) | [Los Gallitos de Chihuahua](https://open.spotify.com/artist/0uwdzlFGWhAaDmItgmaQOg) | [Calles Enlodadas](https://open.spotify.com/album/5X7AV8856QVjc7nsOSJivW) | 2:44 |
 
-Snapshot ID: `MTY0MzM0NTUyMywwMDAwMDAwMDdkYjNlNjljODgxZDFjZDRjMDBhZWY1MDc5NjVjZjM4`
+Snapshot ID: `MTY0MzM0NTUyMywwMDAwMDAwMDZkZDg5ZDMzMGNkNzE2ODAzMzU3YTk3ZTgxODYxYjFk`

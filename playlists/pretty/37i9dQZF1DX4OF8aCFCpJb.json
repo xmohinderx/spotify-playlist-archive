@@ -1,12 +1,12 @@
 {
   "description": "Det b\u00e4sta fr\u00e5n den svenska reggaescenen.",
-  "num_followers": 65266,
+  "num_followers": 65269,
   "original_name": "Svensk Reggae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Nzg5NDYxMCwwMDAwMDAwMDYzMDIzYzVmZGU1OTc2MTE5MjFhZjk4YTg1N2MzM2E4",
+  "snapshot_id": "MTY1Nzg5NDYxMCwwMDAwMDAwMGU0NDlkOTI1MGZhODE0YWE2YzE2ZTAzNDYxNDk3YWU4",
   "tracks": [
     {
       "added_at": "2022-07-15 14:16:50",
@@ -627,26 +627,22 @@
     {
       "added_at": "2022-07-15 14:16:50",
       "album": {
-        "name": "S\u00e5na \u00f6gon",
-        "url": "https://open.spotify.com/album/5ppjkcjRmiWpmmdaHYGoaj"
+        "name": "One",
+        "url": "https://open.spotify.com/album/0VNoWNuBCHyc0ibxfyxyEI"
       },
       "artists": [
         {
-          "name": "Moncho",
-          "url": "https://open.spotify.com/artist/6L1yXwZajCFJsGZcCIRuTc"
+          "name": "Allyawan",
+          "url": "https://open.spotify.com/artist/5Pcez7u1H2Po6e2LmMdF3f"
         },
         {
-          "name": "Naasty",
-          "url": "https://open.spotify.com/artist/70TySYlQjHgABej9yaENJA"
-        },
-        {
-          "name": "Linda Pira",
-          "url": "https://open.spotify.com/artist/0qeei9KQnptjwb8MgkqEoy"
+          "name": "Eek-A-Mouse",
+          "url": "https://open.spotify.com/artist/6xqlgBccdlxUh5DeJSx2ho"
         }
       ],
-      "duration_ms": 172000,
-      "name": "S\u00e5na \u00f6gon",
-      "url": "https://open.spotify.com/track/1i5mgpA55CwusMHk60brcU"
+      "duration_ms": 260168,
+      "name": "Smugglaren",
+      "url": "https://open.spotify.com/track/6vZ3MadtYqe7xEITIJbcr0"
     },
     {
       "added_at": "2022-07-15 14:16:50",
@@ -667,22 +663,26 @@
     {
       "added_at": "2022-07-15 14:16:50",
       "album": {
-        "name": "One",
-        "url": "https://open.spotify.com/album/0VNoWNuBCHyc0ibxfyxyEI"
+        "name": "S\u00e5na \u00f6gon",
+        "url": "https://open.spotify.com/album/5ppjkcjRmiWpmmdaHYGoaj"
       },
       "artists": [
         {
-          "name": "Allyawan",
-          "url": "https://open.spotify.com/artist/5Pcez7u1H2Po6e2LmMdF3f"
+          "name": "Moncho",
+          "url": "https://open.spotify.com/artist/6L1yXwZajCFJsGZcCIRuTc"
         },
         {
-          "name": "Eek-A-Mouse",
-          "url": "https://open.spotify.com/artist/6xqlgBccdlxUh5DeJSx2ho"
+          "name": "Naasty",
+          "url": "https://open.spotify.com/artist/70TySYlQjHgABej9yaENJA"
+        },
+        {
+          "name": "Linda Pira",
+          "url": "https://open.spotify.com/artist/0qeei9KQnptjwb8MgkqEoy"
         }
       ],
-      "duration_ms": 260168,
-      "name": "Smugglaren",
-      "url": "https://open.spotify.com/track/6vZ3MadtYqe7xEITIJbcr0"
+      "duration_ms": 172000,
+      "name": "S\u00e5na \u00f6gon",
+      "url": "https://open.spotify.com/track/1i5mgpA55CwusMHk60brcU"
     },
     {
       "added_at": "2022-07-15 14:16:50",
@@ -851,6 +851,22 @@
     {
       "added_at": "2022-07-15 14:16:50",
       "album": {
+        "name": "Teaterapan",
+        "url": "https://open.spotify.com/album/1GCkDBZQ9hOKUcRBfNgLTr"
+      },
+      "artists": [
+        {
+          "name": "Jezper",
+          "url": "https://open.spotify.com/artist/1nUDrql1pSmVp7akXTpvtF"
+        }
+      ],
+      "duration_ms": 182378,
+      "name": "Teaterapan",
+      "url": "https://open.spotify.com/track/6uZEw8eryA76WSAST3yIiv"
+    },
+    {
+      "added_at": "2022-07-15 14:16:50",
+      "album": {
         "name": "Slutpl\u00e4deringen",
         "url": "https://open.spotify.com/album/32qy7Z7Db0xCpB5m0yLsRs"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 156360,
       "name": "Rikslarm",
       "url": "https://open.spotify.com/track/0KnRzbQpj0J5nXRqtuSRhz"
-    },
-    {
-      "added_at": "2022-07-15 14:16:50",
-      "album": {
-        "name": "Teaterapan",
-        "url": "https://open.spotify.com/album/1GCkDBZQ9hOKUcRBfNgLTr"
-      },
-      "artists": [
-        {
-          "name": "Jezper",
-          "url": "https://open.spotify.com/artist/1nUDrql1pSmVp7akXTpvtF"
-        }
-      ],
-      "duration_ms": 182378,
-      "name": "Teaterapan",
-      "url": "https://open.spotify.com/track/6uZEw8eryA76WSAST3yIiv"
     }
   ],
   "unique_name": "Svensk Reggae",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27Vvs8ZCWJn.md) - [plain]
 
 > Clásicas románticas, melodiosas, apacibles.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,487 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,579 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27Vvs8ZCWJn.md) - [plain]
 | 3 | [¿Y cómo es él?](https://open.spotify.com/track/7aSxNjoVoAwNL7HDAKwGtC) | [José Luis Perales](https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP) | [Entre El Agua Y El Fuego](https://open.spotify.com/album/2D6nGOEEyp7GZCyWlO99GI) | 4:08 |
 | 4 | [A Puro Dolor \- Balada](https://open.spotify.com/track/28upjDakWVnHAgW2anm273) | [Son By Four](https://open.spotify.com/artist/1qyAl8T6GTcaOViaI7fs1j) | [Son By 4](https://open.spotify.com/album/6FaDCE5IxXXMXVn3etukKq) | 3:30 |
 | 5 | [Tabaco Y Chanel](https://open.spotify.com/track/48svUiwMMYQRPyesVEnof1) | [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl) | [Bacilos \(Re\-Issue\)](https://open.spotify.com/album/3oCkAeDln8FVoGIOvf9TNl) | 5:12 |
-| 6 | [Burbujas de Amor](https://open.spotify.com/track/0TarPYIjJndYucFUOMce8P) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Bachata Rosa](https://open.spotify.com/album/3lRQHKkCpntPvEoqh3C3B0) | 4:10 |
-| 7 | [Vamos a Darnos Tiempo](https://open.spotify.com/track/4hsISengUD6beOi6kUIcXl) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Gracias](https://open.spotify.com/album/306myLvJlcA5LBGoIYDp2D) | 4:08 |
+| 6 | [Vamos a Darnos Tiempo](https://open.spotify.com/track/4hsISengUD6beOi6kUIcXl) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Gracias](https://open.spotify.com/album/306myLvJlcA5LBGoIYDp2D) | 4:08 |
+| 7 | [Burbujas de Amor](https://open.spotify.com/track/0TarPYIjJndYucFUOMce8P) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Bachata Rosa](https://open.spotify.com/album/3lRQHKkCpntPvEoqh3C3B0) | 4:10 |
 | 8 | [No Sé Tú](https://open.spotify.com/track/2DAsLftcRKP3iarCPmI1RY) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Romance](https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP) | 3:49 |
 | 9 | [Hasta Que Te Conocí](https://open.spotify.com/track/6XLobzCdi98lFcxG3eGYNr) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Pensamientos](https://open.spotify.com/album/48zTdk2DxqybNPEJfL6Mnl) | 7:15 |
 | 10 | [Rayando El Sol \(feat\. Pablo Alborán\)](https://open.spotify.com/track/3uKdu7AtigAJ8GgTu0yJTe) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz), [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Rayando El Sol \(feat\. Pablo Alborán\)](https://open.spotify.com/album/7h8WIue8MJiW8Erw1Nr6N8) | 4:18 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27Vvs8ZCWJn.md) - [plain]
 | 45 | [Carta urgente \(feat\. Abel Pintos\)](https://open.spotify.com/track/7ljsdGh3oj4bNGqQsx4UM7) | [Rosana](https://open.spotify.com/artist/5ttV0N9HvMH3KLqNKcS2M0) | [8 Lunas](https://open.spotify.com/album/4zsSDL0SbCqgifIHgiNxll) | 4:20 |
 | 46 | [Yolanda](https://open.spotify.com/track/2A0ZLZ2Bixhcnf9Jkdh5Xp) | [Pablo Milanés](https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5) | [Yo Me Quedo](https://open.spotify.com/album/3tOrqsV4WmxXbI57j3RHvU) | 4:38 |
 | 47 | [Eres Tú](https://open.spotify.com/track/08HeIb9BidFjKROf9ptln0) | [Mocedades](https://open.spotify.com/artist/4Sm7JCttzWMwHJtb3UJ8SY) | [Grandes Exitos](https://open.spotify.com/album/1PCiyADys8TTu8HrSFrTAl) | 3:34 |
-| 48 | [Te Voy a Enseñar a Querer](https://open.spotify.com/track/1611GmlolwbEqZgoi3nqvN) | [Manoella Torres](https://open.spotify.com/artist/4JRKcLbpjobmoOVoOXPd6y) | [La Gran Colección del 60 Aniversario CBS \- Manoella Torres](https://open.spotify.com/album/7Hri6gZJ0HGvNoM7pZxPfi) | 3:16 |
-| 49 | [Necesito](https://open.spotify.com/track/7H62s62eUQqYXTA3WsrTK7) | [Sui Generis](https://open.spotify.com/artist/5lCqW8vcd4TyTHzGIuKdH8) | [Vida](https://open.spotify.com/album/0EdYPXNaKi8QOBwq1C13jM) | 2:13 |
+| 48 | [Necesito](https://open.spotify.com/track/7H62s62eUQqYXTA3WsrTK7) | [Sui Generis](https://open.spotify.com/artist/5lCqW8vcd4TyTHzGIuKdH8) | [Vida](https://open.spotify.com/album/0EdYPXNaKi8QOBwq1C13jM) | 2:13 |
+| 49 | [Te Voy a Enseñar a Querer](https://open.spotify.com/track/1611GmlolwbEqZgoi3nqvN) | [Manoella Torres](https://open.spotify.com/artist/4JRKcLbpjobmoOVoOXPd6y) | [La Gran Colección del 60 Aniversario CBS \- Manoella Torres](https://open.spotify.com/album/7Hri6gZJ0HGvNoM7pZxPfi) | 3:16 |
 | 50 | [Aquellas Pequeñas Cosas](https://open.spotify.com/track/0AYP9qfJJumsxSOZF3MndI) | [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7) | [Mediterráneo](https://open.spotify.com/album/7h6vVYPUiuDF6KKcqMdE72) | 1:50 |
 
-Snapshot ID: `MTY0MDQ1NTM0NywwMDAwMDAwMDU1Yzg4M2NkM2Q0NTRhZmQ2ZDE5ZWE1YjEzMzZlM2E4`
+Snapshot ID: `MTY0MDQ1NTM0NywwMDAwMDAwMDgzMGE0N2JlYmMyZDI1ZTI2MDA3Y2JjOGE1MWExZDRm`

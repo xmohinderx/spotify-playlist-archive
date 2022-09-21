@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1f2CQHNexG.md) - [plain]
 
 > Dancing to electro\-pop like a robot from 1984\. Cover: The Psychedelic Furs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,647 likes - 75 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,833 likes - 75 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1f2CQHNexG.md) - [plain]
 | 45 | [Genius of Love](https://open.spotify.com/track/6UBQONiLH8kNmmB8UrV2Ef) | [Tom Tom Club](https://open.spotify.com/artist/1m24736Bdew1oQVxTePOCo) | [Tom Tom Club](https://open.spotify.com/album/5WKUL88usO5Y8cfbh2EQdu) | 5:34 |
 | 46 | [Steppin' Out](https://open.spotify.com/track/2KY0QUeRY3IPuJI1gyU9BJ) | [Joe Jackson](https://open.spotify.com/artist/6KOqPxwfNAmZPkiCnDE9yT) | [Night And Day](https://open.spotify.com/album/01sMJCr0xosXP8uZ2djLvd) | 4:28 |
 | 47 | [Hold Me Now](https://open.spotify.com/track/0BJU4rYOfj43xHw6gvTIwE) | [Thompson Twins](https://open.spotify.com/artist/5jVeqi3PNaTOajfvBa4uFn) | [Into The Gap](https://open.spotify.com/album/0jcUegqpKCfHQ8va6aWwv0) | 4:46 |
-| 48 | [If You Leave \- 2019 Remaster](https://open.spotify.com/track/38w6aqERgBYjyvWQsltcvs) | [Orchestral Manoeuvres In The Dark](https://open.spotify.com/artist/7wJ9NwdRWtN92NunmXuwBk) | [Souvenir](https://open.spotify.com/album/5CVouzgQnK0xK3M3YC8ncs) | 4:29 |
-| 49 | [West End Girls \- 2018 Remaster](https://open.spotify.com/track/2Di0qFNb7ATroCGB3q0Ka7) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Please: Further Listening 1984 \- 1986 \(2018 Remaster\)](https://open.spotify.com/album/47fRf3JwriMUPPzFjdvNS6) | 4:45 |
+| 48 | [West End Girls \- 2018 Remaster](https://open.spotify.com/track/2Di0qFNb7ATroCGB3q0Ka7) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Please: Further Listening 1984 \- 1986 \(2018 Remaster\)](https://open.spotify.com/album/47fRf3JwriMUPPzFjdvNS6) | 4:45 |
+| 49 | [If You Leave \- 2019 Remaster](https://open.spotify.com/track/38w6aqERgBYjyvWQsltcvs) | [Orchestral Manoeuvres In The Dark](https://open.spotify.com/artist/7wJ9NwdRWtN92NunmXuwBk) | [Souvenir](https://open.spotify.com/album/5CVouzgQnK0xK3M3YC8ncs) | 4:29 |
 | 50 | [Obsession](https://open.spotify.com/track/3N7GqZMpZJW69Te1bfUTc3) | [Animotion](https://open.spotify.com/artist/6eQHjJJa52LUGjBKP5UPos) | [Obsession: The Best Of Animotion](https://open.spotify.com/album/5BG5Z2wbth8YRlOtlrlAFC) | 5:37 |
 | 51 | [Only You](https://open.spotify.com/track/3mGwufkovVPrzsJaXWg8PU) | [Yazoo](https://open.spotify.com/artist/1G1mX30GpUJqOr1QU2eBSs) | [Upstairs At Eric's](https://open.spotify.com/album/47FOg0GaQDPGTbBTHDXg9V) | 3:15 |
 | 52 | [Blue Monday '88 \- 2015 Remaster](https://open.spotify.com/track/3PQEaRs2JEwtk79IqbQYt1) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [Singles \(2016 Remaster\)](https://open.spotify.com/album/2ODAEaYlqS88SU4ZZu1bI6) | 4:11 |
@@ -64,16 +64,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1f2CQHNexG.md) - [plain]
 | 54 | [Say Hello, Wave Goodbye \- 7" Single Version](https://open.spotify.com/track/0Lx6O1tC3CPF1giLJIt5Jv) | [Soft Cell](https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc) | [Non\-Stop Erotic Cabaret](https://open.spotify.com/album/3KFWViJ1wIHAdOVLFTVzjD) | 5:23 |
 | 55 | [Pop Muzik \- Nik Launay '79 12"](https://open.spotify.com/track/0FBeVAGy58YREuZK2rpRVm) | [M](https://open.spotify.com/artist/4ZYjW9vY2BTk1er3xomkwI), [Robin Scott](https://open.spotify.com/artist/5UQO8IQ2YE4eRUrGtHygB8) | [New York, London, Paris, Munich](https://open.spotify.com/album/5n9dcCzWXYSZqAFCE64Vl0) | 4:56 |
 | 56 | [Mirror Man](https://open.spotify.com/track/52s6Ea6aSZMvPUIH0dSpk4) | [The Human League](https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG) | [Fascination!](https://open.spotify.com/album/0esnpjv1cOeVWSYTSY3jRc) | 3:50 |
-| 57 | [To Cut a Long Story Short \- 2010 Remaster](https://open.spotify.com/track/1NlJv9YBuvgbb9pO51vqOY) | [Spandau Ballet](https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv) | [Journeys to Glory \(Special Edition\)](https://open.spotify.com/album/6SeOw1xyjKM6CbEstaGzqd) | 3:19 |
+| 57 | [It's a Sin \- 2018 Remaster](https://open.spotify.com/track/5fy4vfEtv6lzqLx2Mt7stF) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Actually: Further Listening 1987 \- 1988 \(2018 Remaster\)](https://open.spotify.com/album/7ae4SfR2B1wEXX5EwS2Cg7) | 4:59 |
 | 58 | [Situation](https://open.spotify.com/track/1QlogZxaAT35c3HqjJt1JH) | [Yazoo](https://open.spotify.com/artist/1G1mX30GpUJqOr1QU2eBSs) | [Upstairs At Eric's](https://open.spotify.com/album/47FOg0GaQDPGTbBTHDXg9V) | 5:46 |
-| 59 | [It's a Sin \- 2018 Remaster](https://open.spotify.com/track/5fy4vfEtv6lzqLx2Mt7stF) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Actually: Further Listening 1987 \- 1988 \(2018 Remaster\)](https://open.spotify.com/album/7ae4SfR2B1wEXX5EwS2Cg7) | 4:59 |
+| 59 | [To Cut a Long Story Short \- 2010 Remaster](https://open.spotify.com/track/1NlJv9YBuvgbb9pO51vqOY) | [Spandau Ballet](https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv) | [Journeys to Glory \(Special Edition\)](https://open.spotify.com/album/6SeOw1xyjKM6CbEstaGzqd) | 3:19 |
 | 60 | [I'm In Love With A German Film Star](https://open.spotify.com/track/7A3rywP8wA9HbL36NMnD81) | [The Passions](https://open.spotify.com/artist/6emLiLQsxkbmQMs0Bn51h3) | [Thirty Thousand Feet Over China](https://open.spotify.com/album/5Obv3KwOfysf310dXYqXQH) | 4:01 |
 | 61 | [Chains of Love](https://open.spotify.com/track/1I0qu4PsBjAHfJHy9wy5AA) | [Erasure](https://open.spotify.com/artist/0z5DFXmhT4ZNzWElsM7V89) | [The Innocents](https://open.spotify.com/album/7BS88XlHgbYq4bEnO6sICd) | 3:35 |
 | 62 | [Everything Counts](https://open.spotify.com/track/31xOx8PgBKBdXk5gfUvr0p) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Everything Counts](https://open.spotify.com/album/1pXjpgob9bE4OFxCUSSVjQ) | 3:59 |
 | 63 | [Imagination](https://open.spotify.com/track/0DJFfzpoWz0wiaBzqcSeuh) | [Belouis Some](https://open.spotify.com/artist/0EX1yiXXmblRFdw2pb10NF) | [Some People](https://open.spotify.com/album/2DOXuDtgzRFomH47RGG1TG) | 3:34 |
-| 64 | [Wishing \(If I Had a Photograph of You\)](https://open.spotify.com/track/6bJhaEuaDpObzFOrsOejlJ) | [A Flock Of Seagulls](https://open.spotify.com/artist/0uAjBatvB4ubpd4kCfjmNt) | [Listen](https://open.spotify.com/album/3rZuJ5oWUJGLmJLpvILp1B) | 5:30 |
+| 64 | [Suburbia \- 2018 Remaster](https://open.spotify.com/track/3SZhwgn2fYVmpBuzi4NIyM) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Please: Further Listening 1984 \- 1986 \(2018 Remaster\)](https://open.spotify.com/album/47fRf3JwriMUPPzFjdvNS6) | 5:07 |
 | 65 | [Human](https://open.spotify.com/track/537yo062QIz16oQOgxmul3) | [The Human League](https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG) | [Crash](https://open.spotify.com/album/5PHV7kFMuDYufMWOy68gNx) | 4:25 |
-| 66 | [Suburbia \- 2018 Remaster](https://open.spotify.com/track/3SZhwgn2fYVmpBuzi4NIyM) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Please: Further Listening 1984 \- 1986 \(2018 Remaster\)](https://open.spotify.com/album/47fRf3JwriMUPPzFjdvNS6) | 5:07 |
+| 66 | [Wishing \(If I Had a Photograph of You\)](https://open.spotify.com/track/6bJhaEuaDpObzFOrsOejlJ) | [A Flock Of Seagulls](https://open.spotify.com/artist/0uAjBatvB4ubpd4kCfjmNt) | [Listen](https://open.spotify.com/album/3rZuJ5oWUJGLmJLpvILp1B) | 5:30 |
 | 67 | [Nobody's Diary](https://open.spotify.com/track/1qQKLpOEtUJYMSOzxOIfkS) | [Yaz](https://open.spotify.com/artist/1XSKLwRyT1GttGP7fqr5o5) | [You And Me Both](https://open.spotify.com/album/2R2ayUdwlcamdEKFJD5BZu) | 4:29 |
 | 68 | [Echo Beach](https://open.spotify.com/track/2uUHKPZF6W0ayxmdi6HRxa) | [Martha and the Muffins](https://open.spotify.com/artist/5nWbdgU2jcFSbrPV7EAoLK) | [Oh Canada!: Rock Hits](https://open.spotify.com/album/04c15XwztwFaHZchwcHSFP) | 3:34 |
 | 69 | [The Things That Dreams Are Made Of \- 2002 Mix](https://open.spotify.com/track/5GLYtND9tYHCEdIQ1i1JH3) | [The Human League](https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG) | [Dare!](https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY) | 4:17 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1f2CQHNexG.md) - [plain]
 | 74 | [Being Boiled](https://open.spotify.com/track/6fbeOOv9u5JQwZx4pyW4mY) | [The Human League](https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG) | [Travelogue](https://open.spotify.com/album/3nRP83YnVmP4TTyEzieq2H) | 4:21 |
 | 75 | [Dancing with Tears in My Eyes](https://open.spotify.com/track/3or3oEITvJmMwZRYeWSaen) | [Ultravox](https://open.spotify.com/artist/3iUjRVvYCsMfz7tuAQtBDI) | [The Collection](https://open.spotify.com/album/3gMzGxXgstsEZEfjdsIwnM) | 4:04 |
 
-Snapshot ID: `MTY2MzQ3NjA5NiwwMDAwMDAwMDk5M2NkNTViMGUxOWU4MTBkNmMzNTg1MjlmYjA3ZGMy`
+Snapshot ID: `MTY2MzQ3NjA5NiwwMDAwMDAwMDVjNzQxMTNmZmUxMmZhZDU3M2JhMjk4ZTMxMzg5Njg0`

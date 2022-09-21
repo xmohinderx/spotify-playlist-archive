@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Con todo el sentimiento andino! Foto: William Luna",
-  "num_followers": 21617,
+  "num_followers": 21650,
   "original_name": "Huaynos Cl\u00e1sicos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Mzk4NTk1NywwMDAwMDAwMGYwYWNjMDkzMzI2NmMyZjdmODlmYjBjOGUxMjQyODk5",
+  "snapshot_id": "MTY0Mzk4NTk1NywwMDAwMDAwMDE1YjRjYmQyNTZiYzg1ZjQ2M2E2MTZkNDMxZjllNWJm",
   "tracks": [
     {
       "added_at": "2022-02-04 14:45:56",
@@ -495,22 +495,6 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "Los Pacharacos",
-        "url": "https://open.spotify.com/album/5r2IZe4Ce9ozJ1lcBU9iAZ"
-      },
-      "artists": [
-        {
-          "name": "Los Pacharacos",
-          "url": "https://open.spotify.com/artist/1zo4zNnsG4FZjK7OFqvDLW"
-        }
-      ],
-      "duration_ms": 177133,
-      "name": "R\u00edo Mantaro",
-      "url": "https://open.spotify.com/track/3IOnWo0h8Vl0VrQKhOQmLj"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
         "name": "Cantares Huaracinos",
         "url": "https://open.spotify.com/album/1XdlfgaPbCWRq3XGmEP9OK"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 160200,
       "name": "Carrito del Gobierno",
       "url": "https://open.spotify.com/track/1Net8ueUaiGDbFvokcINq7"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
+        "name": "Los Pacharacos",
+        "url": "https://open.spotify.com/album/5r2IZe4Ce9ozJ1lcBU9iAZ"
+      },
+      "artists": [
+        {
+          "name": "Los Pacharacos",
+          "url": "https://open.spotify.com/artist/1zo4zNnsG4FZjK7OFqvDLW"
+        }
+      ],
+      "duration_ms": 177133,
+      "name": "R\u00edo Mantaro",
+      "url": "https://open.spotify.com/track/3IOnWo0h8Vl0VrQKhOQmLj"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -703,22 +703,6 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "Ayacucho En El Corazon De Todos Vol.2",
-        "url": "https://open.spotify.com/album/5J36nWq3TbIe8S9zvQaERi"
-      },
-      "artists": [
-        {
-          "name": "Kiko Revatta",
-          "url": "https://open.spotify.com/artist/13biTRIVK4wnKZ8KVvTgRa"
-        }
-      ],
-      "duration_ms": 197080,
-      "name": "Donde Estar\u00e1s Palomita",
-      "url": "https://open.spotify.com/track/3M4eyS4qeq1GXUNAVdTGHN"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
         "name": "Mis \u00c9xitos Eternos Vol. 2",
         "url": "https://open.spotify.com/album/06vV1HQ2BaOUSqK70fYMi2"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 210560,
       "name": "Adi\u00f3s Pueblo De Ayacucho",
       "url": "https://open.spotify.com/track/3HmLLvBwJhsYChABzWH9Of"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
+        "name": "Ayacucho En El Corazon De Todos Vol.2",
+        "url": "https://open.spotify.com/album/5J36nWq3TbIe8S9zvQaERi"
+      },
+      "artists": [
+        {
+          "name": "Kiko Revatta",
+          "url": "https://open.spotify.com/artist/13biTRIVK4wnKZ8KVvTgRa"
+        }
+      ],
+      "duration_ms": 197080,
+      "name": "Donde Estar\u00e1s Palomita",
+      "url": "https://open.spotify.com/track/3M4eyS4qeq1GXUNAVdTGHN"
     },
     {
       "added_at": "2022-02-04 14:45:56",

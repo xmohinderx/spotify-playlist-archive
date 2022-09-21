@@ -524,6 +524,28 @@
     },
     {
       "album": {
+        "name": "Small Lights",
+        "url": "https://open.spotify.com/album/5TzC5ApNzngIspcRD7heNL"
+      },
+      "artists": [
+        {
+          "name": "Rhucle",
+          "url": "https://open.spotify.com/artist/0y0cl3t1UlQf0730g7Zjkl"
+        },
+        {
+          "name": "No Death",
+          "url": "https://open.spotify.com/artist/75HAJoZ2A5TotYPFSYgCnP"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Ceramic Bubbles - No Death Remix",
+      "url": "https://open.spotify.com/track/0efbgQ82IjFjgDsr5vBckW"
+    },
+    {
+      "album": {
         "name": "Full Circle Reworks",
         "url": "https://open.spotify.com/album/456HZjogXSlOUsCkKmjoqC"
       },

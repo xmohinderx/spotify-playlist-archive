@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5AVYhCeISA6.md) - [plain]
 
 > Latinas que inspiran\. Kickback and listen to these amazing women\. Cover: Villano Antillano
 
-[Spotify](https://open.spotify.com/user/spotify) - 593,679 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 593,756 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5AVYhCeISA6.md) - [plain]
 | 66 | [Quédate](https://open.spotify.com/track/0is5MOZLNpo5iAY3M0B9ml) | [Debi Nova](https://open.spotify.com/artist/5zaG384VZzAb6AMfEnSy2r), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Quédate](https://open.spotify.com/album/2DoBcaHj1t8enwJ8sygr3g) | 2:55 |
 | 67 | [Nos Volvimos Locos](https://open.spotify.com/track/0IGVeQJ7K97RuyyUm3cuyi) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Nos Volvimos Locos](https://open.spotify.com/album/1PrUFcnAHFDhCZi2nYdWuG) | 2:56 |
 | 68 | [LALALA](https://open.spotify.com/track/0vjqOn8iw1jQygL4KK2JCu) | [ANGEL22](https://open.spotify.com/artist/77dCZ05TEfVFypRDzM1R44) | [LALALA](https://open.spotify.com/album/1oOiiAylUiGg1ccIvP5wha) | 2:42 |
-| 69 | [Estoy Soltera](https://open.spotify.com/track/597HxeFN4prkOZml250ZhR) | [Leslie Shaw](https://open.spotify.com/artist/3bAPo06XsUX6fo8iHYUqH7), [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [Farina](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90) | [Estoy Soltera](https://open.spotify.com/album/5WZfuGX8Ca4eaes5LYxk22) | 2:52 |
-| 70 | [Amores](https://open.spotify.com/track/0BrONFWDiPzPENqT88xP03) | [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT), [Luis Jimenez](https://open.spotify.com/artist/0Pgy6pdn5oc95ayXvbo6ny) | [Amores](https://open.spotify.com/album/0DSrZQhNEnpV8WiiIoaLVH) | 3:15 |
+| 69 | [Amores](https://open.spotify.com/track/0BrONFWDiPzPENqT88xP03) | [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT), [Luis Jimenez](https://open.spotify.com/artist/0Pgy6pdn5oc95ayXvbo6ny) | [Amores](https://open.spotify.com/album/0DSrZQhNEnpV8WiiIoaLVH) | 3:15 |
+| 70 | [Estoy Soltera](https://open.spotify.com/track/597HxeFN4prkOZml250ZhR) | [Leslie Shaw](https://open.spotify.com/artist/3bAPo06XsUX6fo8iHYUqH7), [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [Farina](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90) | [Estoy Soltera](https://open.spotify.com/album/5WZfuGX8Ca4eaes5LYxk22) | 2:52 |
 | 71 | [Ya Tú Me Conoces](https://open.spotify.com/track/4yuAWrga4ugFz8pnkPBtzE) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Ya Tú Me Conoces](https://open.spotify.com/album/1HLBpz1LijH2GD2Um5vemj) | 3:15 |
 | 72 | [lovin kind](https://open.spotify.com/track/1KvcOHuYfTIUhe1bYBR4pY) | [Isabela Merced](https://open.spotify.com/artist/2bIxak1AAD8wlDfMLnumUj) | [the better half of me](https://open.spotify.com/album/3YFDPOp9da0GFHeIHEuOSj) | 3:00 |
 | 73 | [Soltera](https://open.spotify.com/track/0V8URCCVyRD89huEDFsIR4) | [Chesca](https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP) | [Soltera](https://open.spotify.com/album/0MN98GoMbQLO6Y8lwHuvI7) | 3:02 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5AVYhCeISA6.md) - [plain]
 | 99 | [Noches en Miami](https://open.spotify.com/track/6MkRRQcKD5n3bLmFA3rJbd) | [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Noches en Miami](https://open.spotify.com/album/2dCZVCwASQV3KKhnAXY7Py) | 2:34 |
 | 100 | [Ram Pam Pam](https://open.spotify.com/track/730gfBUwEpyruhbSvDuytR) | [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [NATTIVIDAD](https://open.spotify.com/album/2ZjmvVKeVy3CgaT2BvsyvM) | 3:20 |
 
-Snapshot ID: `MTY2MTkzMDAzOSwwMDAwMDAwMDU0NWMxYjQ3YThmYmViYjc1NDhlMTEzMzc2ZjkyMGNi`
+Snapshot ID: `MTY2MTkzMDAzOSwwMDAwMDAwMDgwZTBhNTg0M2E1YjUyNDI4ODM5ZmRjYjM0MDc4Yzk2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8VZ9nbXQ1z.md) - [plain]
 
 > <a href="spotify:artist:6wMr4zKPrrR0UVz08WtUWc">Black Coffee</a>'s favorite tracks\. Updated regularly\. Curated by Black Coffee\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,847 likes - 81 songs - 8 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,928 likes - 81 songs - 8 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8VZ9nbXQ1z.md) - [plain]
 | 57 | [Beautiful Silence \- FKA Mash Afro Glitch](https://open.spotify.com/track/3RA1coQHKERaMErmbcooZq) | [Made By Pete](https://open.spotify.com/artist/4yLpA3QZ00hrlmJ0yX0TVa), [Jinadu](https://open.spotify.com/artist/0o9k6CmDuy07gP28ov82wp), [Fka Mash](https://open.spotify.com/artist/6tooLez7Cq2bgY60m3TJMq) | [The Forgotten Ones](https://open.spotify.com/album/7pU5AiXXfG7rRkuwWdpunP) | 6:38 |
 | 58 | [Aguita Salá](https://open.spotify.com/track/2yiSoPjq0Us13QF00PNImo) | [Kyodai](https://open.spotify.com/artist/3zEmehFdXCHTEZrmlEfL1I), [OSABA](https://open.spotify.com/artist/2PzdrOVsz76n2iBcca58L2) | [Aguita Salá](https://open.spotify.com/album/2HeiK66kafGiHhxYhmjTou) | 7:31 |
 | 59 | [She Don't Love Me \- Black Circle Remix](https://open.spotify.com/track/4PKvYTSzdgLVecY5T30Nmt) | [Nico de Andrea](https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD), [Black Circle](https://open.spotify.com/artist/3f9ttFig9YeqVKerYRPX1M), [Lola Melita](https://open.spotify.com/artist/3tEXliVP7fJ9B0e1cJCsxI), [Cherry Lena](https://open.spotify.com/artist/0vkN6Ib0aW335dFCf4iWNo) | [She Don't Love Me](https://open.spotify.com/album/3ma5CF8bSKPT3COPvKeeSl) | 6:30 |
-| 60 | [Vulkan](https://open.spotify.com/track/3yly7p2890vlHyhLOZSQVw) | [Tom Peters](https://open.spotify.com/artist/4bgmH6gGEwEkbZlPcNLOqO) | [Secret Weapons Part 14 IV/VI](https://open.spotify.com/album/3JFljGegQwhjErldn0XCuS) | 8:11 |
+| 60 | [Vulkan](https://open.spotify.com/track/3yly7p2890vlHyhLOZSQVw) | [Tom Peters](https://open.spotify.com/artist/0yUYrvHPgCOeATNI3tHGPo) | [Secret Weapons Part 14 IV/VI](https://open.spotify.com/album/3JFljGegQwhjErldn0XCuS) | 8:11 |
 | 61 | [Ayikh' Indaw' Enjengekhaya \(Henrik Schwarz Rework\)](https://open.spotify.com/track/5GmYZKs60MPyyVySv6yQKF) | [Henrik Schwarz](https://open.spotify.com/artist/1ooAqaFu4Ac3BO2HpL4V2R), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d), [Gallo Remixed](https://open.spotify.com/artist/3Pikdk5QNs7tCeudmFAyM8) | [Ayikh' Indaw' Enjengekhaya \(Henrik Schwarz Rework\)](https://open.spotify.com/album/2uGCLaCAJ7EuKCrPZVxf8X) | 6:41 |
 | 62 | [Spectrum \[Mixed\]](https://open.spotify.com/track/3mLwJokBNaYRqA2Kd9qFzN) | [Angelos](https://open.spotify.com/artist/2zagWFWxFhQg3OvUmnnliq) | [Angelos Rebirth Mix](https://open.spotify.com/album/2KvL2S5zjJpn72vYEouq6B) | 5:22 |
 | 63 | [Silence & Secrets \- Black Coffee Remix](https://open.spotify.com/track/3ZZDwhwD6ZsFQW0IGfiKrG) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Silence & Secrets \(Black Coffee Remix\)](https://open.spotify.com/album/6yaDQvusuMpB2BqrsmhSRI) | 7:54 |

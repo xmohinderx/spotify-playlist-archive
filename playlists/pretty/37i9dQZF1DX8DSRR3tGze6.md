@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DSRR3tGze6.md) - [plain]
 
 > Let these Latin hits guide you through your daily commute!
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,302 likes - 90 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,367 likes - 90 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DSRR3tGze6.md) - [plain]
 | 56 | [Cuando Me Enamoro](https://open.spotify.com/track/79gkHjNTSyGPXEyGkNQ8zH) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Euphoria \(Standard US/Latin version\)](https://open.spotify.com/album/12HeDZhPHHzCe7VE0uEYwD) | 3:20 |
 | 57 | [Dembow](https://open.spotify.com/track/30LBoQSk8gjcN0hWCWtdbF) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [54+1](https://open.spotify.com/album/3pHFjWCK7d5YLtEuFwfR5N) | 3:35 |
 | 58 | [Muévelo](https://open.spotify.com/track/4VgYtXCVJ7IbWAZ5ryfvEQ) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Muévelo](https://open.spotify.com/album/6sTdi5hrN3uFhARaqbikjG) | 3:14 |
-| 59 | [Favorito](https://open.spotify.com/track/0Snbzbd74RLfL0i4nn1vU5) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Favorito](https://open.spotify.com/album/5wb9Mx2yfXZzKYPzHp4fae) | 3:31 |
-| 60 | [Loco](https://open.spotify.com/track/2J9B63FawlTaPdg4eH5X03) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Loco](https://open.spotify.com/album/1uFr2PCsnDVZ71AiJnZYrb) | 3:24 |
+| 59 | [Loco](https://open.spotify.com/track/2J9B63FawlTaPdg4eH5X03) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Loco](https://open.spotify.com/album/1uFr2PCsnDVZ71AiJnZYrb) | 3:24 |
+| 60 | [Favorito](https://open.spotify.com/track/0Snbzbd74RLfL0i4nn1vU5) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Favorito](https://open.spotify.com/album/5wb9Mx2yfXZzKYPzHp4fae) | 3:31 |
 | 61 | [Créeme](https://open.spotify.com/track/1mT47pKLXUwPYGwB91GcNz) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Créeme](https://open.spotify.com/album/0bVsozItEQQVu2M5FnpnrG) | 3:32 |
 | 62 | [Swing](https://open.spotify.com/track/4DbhxwlkhTbCTqlZptxmI6) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [54+1](https://open.spotify.com/album/3pHFjWCK7d5YLtEuFwfR5N) | 2:35 |
 | 63 | [Un Año](https://open.spotify.com/track/5BDP2tky8oMQJPS33frKVp) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Un Año](https://open.spotify.com/album/4Vtx3PxyOfBUBuEYAIocsP) | 2:44 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DSRR3tGze6.md) - [plain]
 | 89 | [De Pies A Cabeza](https://open.spotify.com/track/2CkHE54EH44Qj945ynQRw7) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [De Pies A Cabeza](https://open.spotify.com/album/6efrJuQzniYmb1SAuaKjTO) | 4:10 |
 | 90 | [La Difícil](https://open.spotify.com/track/0PaNKfwdqHjmW7hVEQ0lbu) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [La Difícil](https://open.spotify.com/album/6Pc3YAtxdkZba2tpmeXAXW) | 2:38 |
 
-Snapshot ID: `MTY2MDc1ODIxMCwwMDAwMDAwMDU0MTNlZGEzMTYxYjg2MmZiYzM4Mzc2ZDRmMjExZTAx`
+Snapshot ID: `MTY2MDc1ODIxMCwwMDAwMDAwMGZlMjFkYTY4ZDNhZGYwMjNkN2U4ZTg1MjRiM2UxZTgz`

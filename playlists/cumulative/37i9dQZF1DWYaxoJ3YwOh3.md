@@ -2,9 +2,9 @@
 
 ### [Calming Retreat](https://open.spotify.com/playlist/37i9dQZF1DWYaxoJ3YwOh3)
 
-> Enchanting vibes to help you find peace and tranquillity.
+> Enchanting vibes, inspired by Middle Eastern and Arabian music, to help you find a relaxing moment of wellness.
 
-62 songs - 4 hr 2 min - [published](https://open.spotify.com/playlist/0B1OnkIhmClG2Ttjg48j9D)
+63 songs - 4 hr 6 min - [published](https://open.spotify.com/playlist/0B1OnkIhmClG2Ttjg48j9D)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Masal \- Instrumental](https://open.spotify.com/track/0J0f4HTpSzV5szjahBbSmA) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw), [Neval](https://open.spotify.com/artist/3xsWhJ3BXOnSewlzawH8RU) | [Masal](https://open.spotify.com/album/38ODX8TSmkn3iKYjCDxYlh) | 2:52 | 2022-09-06 |  |
 | [Masnavi Bayat Esfahan](https://open.spotify.com/track/294vBP3FeWDwpYwvGsy9Y4) | [Shahram Gholami](https://open.spotify.com/artist/2JugnbSfIzPFPZGOQFdej8) | [Persian Oud, Dirine Delkhah](https://open.spotify.com/album/1IcKkU9qhXv3jSOHXXPDV4) | 2:52 | 2022-09-06 |  |
 | [Mental Wellbeing](https://open.spotify.com/track/28BKLc1P33rinEfjvXV8PW) | [Tranquility Spa Universe](https://open.spotify.com/artist/5JmcaXlVpjfZctdmHTgWLd) | [Arabian Spa \(Middle Eastern Music\)](https://open.spotify.com/album/3wpMpKERtJxcg3m8SOR8AX) | 3:26 | 2022-09-06 |  |
+| [Mirrors](https://open.spotify.com/track/6MZ1N2y8tdws6NoYmS9mMe) | [Nicolello](https://open.spotify.com/artist/7IWbQLZ91NbHT6EiaF5l9V), [Carlo Minuta](https://open.spotify.com/artist/04cP6qBKH2rTpfylxtnlWO) | [Mirrors](https://open.spotify.com/album/3WZnQkHKY2L0g4lE0sAVwF) | 3:44 | 2022-09-20 |  |
 | [Moments égyptiens de spa](https://open.spotify.com/track/00OkNY5VMmgSbiLWuxxn0E) | [Zen Méditation Ambiance](https://open.spotify.com/artist/6tberbrKFcndFNn2Yj2Ber) | [Secret of Arabic Healing Massage \(Oriental Spa, Eastern Relaxing Drums, Ethnic Journey\)](https://open.spotify.com/album/0QZAbFoGd9fBfsUigysXex) | 3:26 | 2022-09-06 |  |
 | [Moroccan Dance](https://open.spotify.com/track/3oowGaxhUt7eoRjaIOys0e) | [Rumi Ged](https://open.spotify.com/artist/4QzAg324qBeb33bzKsBxaI) | [Bar de Lune Presents Bedouin Cafe](https://open.spotify.com/album/3vgO9x2bALPEEjpFYcDEEy) | 4:31 | 2022-09-06 |  |
 | [Nava \(Taknavazi\)](https://open.spotify.com/track/2fXONc4pUGr3TeTfd8vJiL) | [Zohreh Jooya](https://open.spotify.com/artist/4aPe9EHxbJctF6lD7BOslz) | [Johare Eshgh](https://open.spotify.com/album/2hZanYkYDWli5TpWkUmv6q) | 1:54 | 2022-09-06 |  |

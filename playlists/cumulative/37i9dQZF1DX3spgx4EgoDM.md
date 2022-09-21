@@ -4,7 +4,7 @@
 
 > ¡El mejor condimento para tus comidas!
 
-260 songs - 16 hr 17 min - [published](https://open.spotify.com/playlist/4CkcBa2yg5PYM4HXnr0aPa)
+261 songs - 16 hr 20 min - [published](https://open.spotify.com/playlist/4CkcBa2yg5PYM4HXnr0aPa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,7 +138,7 @@
 | [Lo Intentamos \(feat\. Grupo Play\)](https://open.spotify.com/track/3tkOtUYwVBLXtDej4HZrOr) | [Los Bonnitos](https://open.spotify.com/artist/7d1kmnhwauydKmuAvjgQrH), [Grupo Play](https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS) | [Lo Intentamos \(feat\. Grupo Play\)](https://open.spotify.com/album/3JfEpmUsapYmTveLcrD96x) | 3:12 | 2022-07-05 | 2022-07-29 |
 | [Loca](https://open.spotify.com/track/7nqJSKq4bLSU5np1UKQl6f) | [Chico Trujillo](https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co) | [Plato Único Bailable](https://open.spotify.com/album/14cao29REfwt7L3liH4hQh) | 3:08 | 2022-07-05 | 2022-07-26 |
 | [Los Caminos De La Vida](https://open.spotify.com/track/1layZXCAmJ84fi21OmnTt5) | [La Tropa Vallenata](https://open.spotify.com/artist/6ESzKdcEDKvhUek4ZaHruk) | [Los Caminos De La Vida](https://open.spotify.com/album/2I72wA4qxK4ur3biscv0hv) | 4:51 | 2022-07-05 |  |
-| [Lágrimas y Flores \(feat\. Natalie Perez\)](https://open.spotify.com/track/5ddqh5tCgWitBsKdKsp0kC) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY), [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [Lágrimas y Flores \(feat\. Natalie Perez\)](https://open.spotify.com/album/6GkLBhohzpGAdnnLmkBAKX) | 3:37 | 2022-07-05 |  |
+| [Lágrimas y Flores \(feat\. Natalie Perez\)](https://open.spotify.com/track/5ddqh5tCgWitBsKdKsp0kC) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY), [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [Lágrimas y Flores \(feat\. Natalie Perez\)](https://open.spotify.com/album/6GkLBhohzpGAdnnLmkBAKX) | 3:37 | 2022-07-05 | 2022-09-21 |
 | [Maracuyá Con Mango](https://open.spotify.com/track/0p5aiL6Dt7NPzxcu615IEK) | [Sondelvalle](https://open.spotify.com/artist/1en2WgpLwFV2kiSnCqW0gl) | [Rap Guachaca & Cumbia Reflexiva](https://open.spotify.com/album/7nQdEffGKLmEawaZkMtO7o) | 2:34 | 2022-07-05 | 2022-07-21 |
 | [Maravillosa Esta Noche](https://open.spotify.com/track/1gonyTKH24V4eDFEbnvewJ) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [Maravillosa Esta Noche](https://open.spotify.com/album/5fgZ0novezag3oHcyGWVQb) | 4:02 | 2022-07-05 | 2022-07-28 |
 | [Me Enamore](https://open.spotify.com/track/69Z2hUoeaxVx3Hxf8unmks) | [Agrupación Marilyn](https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG) | [Historias](https://open.spotify.com/album/1SEf8KBy0khQM5Hxrk9CYm) | 3:32 | 2022-07-05 |  |
@@ -168,6 +168,7 @@
 | [No Me Arrepiento de Este Amor](https://open.spotify.com/track/3mXLgWxNIbEFXWPppGjc6a) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [No me Arrepiento de Este Amor](https://open.spotify.com/album/3Y572iPz6e7ddpowsAffn2) | 3:47 | 2022-07-05 | 2022-07-23 |
 | [No Me Lo Creo](https://open.spotify.com/track/1y5ASkTQugJGPghwyJMEiS) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX) | [Como la Gente](https://open.spotify.com/album/4X0Zg0oFkXXqlbSqv4lCX4) | 4:45 | 2022-07-05 | 2022-07-29 |
 | [No Me Vuelvo A Enamorar](https://open.spotify.com/track/0iii6zu0TV7pjvak7L5Ugg) | [Repiola](https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ) | [Con La Cumbia En La Sangre](https://open.spotify.com/album/1UBMgErKd8zh0DDacOrLTp) | 2:51 | 2022-07-05 | 2022-07-29 |
+| [No Podre Olvidarme](https://open.spotify.com/track/3tl8h7FZbALLLTGk5MPeHL) | [Grupo Red](https://open.spotify.com/artist/7zGKMkRT4IMLgAJmFhf5cz) | [El Color De Tu Corazón](https://open.spotify.com/album/4i5dZPh3Yu4S4F4CAu0LRv) | 3:15 | 2022-09-09 |  |
 | [No Podré Olvidarte](https://open.spotify.com/track/4z6kdL1fD52SlRKNKZA1iX) | [Grupo Red](https://open.spotify.com/artist/7zGKMkRT4IMLgAJmFhf5cz) | [El Color de tu Corazón](https://open.spotify.com/album/1e5EdsdbKNMXUABtXSrD98) | 3:15 | 2022-07-05 | 2022-07-29 |
 | [No Se](https://open.spotify.com/track/0tTkyk0axNyWRHzPBgRb8l) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [No Se](https://open.spotify.com/album/6NJlOO58BXDL9pDfc4kuqb) | 2:40 | 2022-07-05 |  |
 | [No Se Va](https://open.spotify.com/track/0kS31L4yk4ZpSCvvwyZ6T3) | [Roman El Original](https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ), [La Kuppe](https://open.spotify.com/artist/7krUxybhp1bUwFBxpOtmZb) | [No Se Va](https://open.spotify.com/album/1qYntEy4y4mTAisca3zseT) | 3:21 | 2022-07-05 | 2022-07-29 |

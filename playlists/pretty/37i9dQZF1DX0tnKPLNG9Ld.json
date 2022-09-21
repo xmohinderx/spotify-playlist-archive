@@ -1,12 +1,12 @@
 {
   "description": "Blue skies, nothing but blue skies. Sun in your eyes and uplifting jazz in your ears on a sunny day.",
-  "num_followers": 35657,
+  "num_followers": 35714,
   "original_name": "Sunny Day Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzA3MjUyNywwMDAwMDAwMGI0Nzk0YWRkZmEwNmQzOTNjOTZmYzU2ZmUyMDNmMGI5",
+  "snapshot_id": "MTY2MzA3MjUyNywwMDAwMDAwMDdkZmE2NTcwY2NkODQwODI5ODlkYzg4MGI0ZjI5NGUw",
   "tracks": [
     {
       "added_at": "2022-09-13 12:35:27",
@@ -459,6 +459,22 @@
     {
       "added_at": "2022-09-13 12:35:27",
       "album": {
+        "name": "Anthology-Lou Rawls",
+        "url": "https://open.spotify.com/album/6RZbUqqODcPvuxw6zAD5fX"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "duration_ms": 178626,
+      "name": "Scotch & Soda",
+      "url": "https://open.spotify.com/track/18Qu2MK93VADxqHFYctpql"
+    },
+    {
+      "added_at": "2022-09-13 12:35:27",
+      "album": {
         "name": "Love Swings",
         "url": "https://open.spotify.com/album/5Jny59DZHuswsttq0zJE65"
       },
@@ -475,18 +491,18 @@
     {
       "added_at": "2022-09-13 12:35:27",
       "album": {
-        "name": "Anthology-Lou Rawls",
-        "url": "https://open.spotify.com/album/6RZbUqqODcPvuxw6zAD5fX"
+        "name": "Broadway, Right Now!",
+        "url": "https://open.spotify.com/album/5ZIEB6I2Ei1ijuI8X3G2iw"
       },
       "artists": [
         {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+          "name": "Margaret Whiting",
+          "url": "https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87"
         }
       ],
-      "duration_ms": 178626,
-      "name": "Scotch & Soda",
-      "url": "https://open.spotify.com/track/18Qu2MK93VADxqHFYctpql"
+      "duration_ms": 132773,
+      "name": "Make Someone Happy - From \"Do Re Mi\"",
+      "url": "https://open.spotify.com/track/0vFP6jMvrIsmxdwVdza7GA"
     },
     {
       "added_at": "2022-09-13 12:35:27",
@@ -507,22 +523,6 @@
       "duration_ms": 215520,
       "name": "Let's Do It (Let's Fall In Love)",
       "url": "https://open.spotify.com/track/0YUsHYHiwi6drC1ATz47hm"
-    },
-    {
-      "added_at": "2022-09-13 12:35:27",
-      "album": {
-        "name": "Broadway, Right Now!",
-        "url": "https://open.spotify.com/album/5ZIEB6I2Ei1ijuI8X3G2iw"
-      },
-      "artists": [
-        {
-          "name": "Margaret Whiting",
-          "url": "https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87"
-        }
-      ],
-      "duration_ms": 132773,
-      "name": "Make Someone Happy - From \"Do Re Mi\"",
-      "url": "https://open.spotify.com/track/0vFP6jMvrIsmxdwVdza7GA"
     },
     {
       "added_at": "2022-09-13 12:35:27",
@@ -1239,18 +1239,18 @@
     {
       "added_at": "2022-09-13 12:35:27",
       "album": {
-        "name": "Something Wonderful",
-        "url": "https://open.spotify.com/album/7HtSgNU7pzv4zeMldVdHav"
+        "name": "Inside Betty Carter",
+        "url": "https://open.spotify.com/album/3rFnwsVrrSYZQsCGTkOT7W"
       },
       "artists": [
         {
-          "name": "Nancy Wilson",
-          "url": "https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb"
+          "name": "Betty Carter",
+          "url": "https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ"
         }
       ],
-      "duration_ms": 139906,
-      "name": "This Time The Dream's On Me - Remastered",
-      "url": "https://open.spotify.com/track/0lpb1PV5pCTLhpRJILti7E"
+      "duration_ms": 110933,
+      "name": "It's A Big Wide Wonderful World",
+      "url": "https://open.spotify.com/track/7viOK0TULHr1y8RU1K0R0s"
     },
     {
       "added_at": "2022-09-13 12:35:27",
@@ -1271,18 +1271,18 @@
     {
       "added_at": "2022-09-13 12:35:27",
       "album": {
-        "name": "Inside Betty Carter",
-        "url": "https://open.spotify.com/album/3rFnwsVrrSYZQsCGTkOT7W"
+        "name": "Something Wonderful",
+        "url": "https://open.spotify.com/album/7HtSgNU7pzv4zeMldVdHav"
       },
       "artists": [
         {
-          "name": "Betty Carter",
-          "url": "https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ"
+          "name": "Nancy Wilson",
+          "url": "https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb"
         }
       ],
-      "duration_ms": 110933,
-      "name": "It's A Big Wide Wonderful World",
-      "url": "https://open.spotify.com/track/7viOK0TULHr1y8RU1K0R0s"
+      "duration_ms": 139906,
+      "name": "This Time The Dream's On Me - Remastered",
+      "url": "https://open.spotify.com/track/0lpb1PV5pCTLhpRJILti7E"
     },
     {
       "added_at": "2022-09-13 12:35:27",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2022-09-13 12:35:27",
       "album": {
-        "name": "But Beautiful",
-        "url": "https://open.spotify.com/album/6AjdJUoXWogissT2Opkebq"
-      },
-      "artists": [
-        {
-          "name": "Nancy Wilson",
-          "url": "https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb"
-        }
-      ],
-      "duration_ms": 142400,
-      "name": "Oh! Look At Me Now",
-      "url": "https://open.spotify.com/track/2QgtqdIQJTNhStSWal6ceV"
-    },
-    {
-      "added_at": "2022-09-13 12:35:27",
-      "album": {
         "name": "Mel Torme: Swings Shubert Alley",
         "url": "https://open.spotify.com/album/0CEOTjrTaR5vu6GlptfPFE"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 245800,
       "name": "Too Close For Comfort",
       "url": "https://open.spotify.com/track/5Omijj1Iu3rbEADHsGSpKe"
+    },
+    {
+      "added_at": "2022-09-13 12:35:27",
+      "album": {
+        "name": "But Beautiful",
+        "url": "https://open.spotify.com/album/6AjdJUoXWogissT2Opkebq"
+      },
+      "artists": [
+        {
+          "name": "Nancy Wilson",
+          "url": "https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb"
+        }
+      ],
+      "duration_ms": 142400,
+      "name": "Oh! Look At Me Now",
+      "url": "https://open.spotify.com/track/2QgtqdIQJTNhStSWal6ceV"
     },
     {
       "added_at": "2022-09-13 12:35:27",

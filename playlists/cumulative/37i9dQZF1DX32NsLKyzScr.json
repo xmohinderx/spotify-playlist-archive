@@ -4377,7 +4377,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-20",
+      "date_removed": null,
       "duration_ms": 149516,
       "name": "Easy",
       "url": "https://open.spotify.com/track/4VVzgTike7FW8OiUIDN7hk"
@@ -5909,7 +5909,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 155000,
       "name": "God is A DJ",
       "url": "https://open.spotify.com/track/4exGSaz6lVTxxZVF1xVD4k"
@@ -7699,7 +7699,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 161035,
       "name": "In My Zone",
       "url": "https://open.spotify.com/track/3LR2EPyj36gxYgCYbC0au0"
@@ -10433,6 +10433,24 @@
       "duration_ms": 130412,
       "name": "No Fun",
       "url": "https://open.spotify.com/track/2yYb6Ru1cwcDUBS4txRYQL"
+    },
+    {
+      "album": {
+        "name": "No Good",
+        "url": "https://open.spotify.com/album/1G0rWIYGn6jpGeMkQcDb4X"
+      },
+      "artists": [
+        {
+          "name": "MORTEN",
+          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141562,
+      "name": "No Good",
+      "url": "https://open.spotify.com/track/0oS1yir1qJvwCsFPdaBiqN"
     },
     {
       "album": {

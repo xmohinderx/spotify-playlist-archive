@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89EkrAT8Z6U.md) - [plain]
 
 > the perfect fight scene
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,802 likes - 75 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,708 likes - 75 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89EkrAT8Z6U.md) - [plain]
 | 44 | [Kyouran Hey Kids!!](https://open.spotify.com/track/38kcwx5znepLWCIBID0Bwm) | [THE ORAL CIGARETTES](https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q) | [FIXION](https://open.spotify.com/album/7uy0IV2P1VxmeYcssedEq0) | 4:10 |
 | 45 | [インフェルノ](https://open.spotify.com/track/2vOAHp8PBBFYqvQUWSoITY) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [Attitude](https://open.spotify.com/album/3bRSI9DOQA2KdJ7t6zdW0V) | 3:31 |
 | 46 | [The Law of Recognition](https://open.spotify.com/track/4DPYOF6Tvptit1xDUbOo8o) | [KYSLINGO](https://open.spotify.com/artist/2JdZlNYqYJ8xY0a5nFlXdO) | [The Law of Recognition](https://open.spotify.com/album/6ZvIedykZIKjNhYoPxozOB) | 2:09 |
-| 47 | [JoJo Pose](https://open.spotify.com/track/4dPVmeisPfQrLcjx0Wz1KW) | [Apollo Fresh](https://open.spotify.com/artist/3ivDFy7UfjLbyIGzepJ5hJ) | [JoJo Pose](https://open.spotify.com/album/4x9AjlHkbRPKSEtpsf8ZmJ) | 1:45 |
-| 48 | [uhh](https://open.spotify.com/track/3iDQnloxYVrnzE0eNZ85en) | [framed](https://open.spotify.com/artist/6qW2MCeqjNlMwiLl0JPbuZ) | [Uhh](https://open.spotify.com/album/3PgoWZSSEFdI0f5gektpdn) | 1:23 |
-| 49 | [I'm Only a Fool for You](https://open.spotify.com/track/05cgRQhps18PBrnIyCFGyH) | [Dybbukk](https://open.spotify.com/artist/0UAfgrYSLcjHNocndTNjhH) | [I'm Only a Fool for You](https://open.spotify.com/album/1o4uAS6AObHidkNKFdD81N) | 1:01 |
+| 47 | [I'm Only a Fool for You](https://open.spotify.com/track/05cgRQhps18PBrnIyCFGyH) | [Dybbukk](https://open.spotify.com/artist/0UAfgrYSLcjHNocndTNjhH) | [I'm Only a Fool for You](https://open.spotify.com/album/1o4uAS6AObHidkNKFdD81N) | 1:01 |
+| 48 | [JoJo Pose](https://open.spotify.com/track/4dPVmeisPfQrLcjx0Wz1KW) | [Apollo Fresh](https://open.spotify.com/artist/3ivDFy7UfjLbyIGzepJ5hJ) | [JoJo Pose](https://open.spotify.com/album/4x9AjlHkbRPKSEtpsf8ZmJ) | 1:45 |
+| 49 | [uhh](https://open.spotify.com/track/3iDQnloxYVrnzE0eNZ85en) | [framed](https://open.spotify.com/artist/6qW2MCeqjNlMwiLl0JPbuZ) | [Uhh](https://open.spotify.com/album/3PgoWZSSEFdI0f5gektpdn) | 1:23 |
 | 50 | [again](https://open.spotify.com/track/4OQq1bcP12GQQXJNupxqfR) | [YUI](https://open.spotify.com/artist/5WBO8UyOuJ1l7ZBqqBimpO) | [HOLIDAYS IN THE SUN](https://open.spotify.com/album/2rOHJ6kE8LjvDegataPviX) | 4:14 |
 | 51 | [FLY HIGH!!](https://open.spotify.com/track/3YOZLPRiTuYgItSGO41gPT) | [BURNOUT SYNDROMES](https://open.spotify.com/artist/0Oazwl71qoHvXnbSxv0wOT) | [檸檬](https://open.spotify.com/album/48IbAUpWY9uLHfJNaiXnkP) | 4:04 |
 | 52 | [Hatchback](https://open.spotify.com/track/18lkWhwmY0fVVv40eCxohv) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [Benbow Crescent](https://open.spotify.com/album/3QXYqRVyBQfNK3MDn82hVF) | 2:29 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89EkrAT8Z6U.md) - [plain]
 | 59 | [MUKANJYO](https://open.spotify.com/track/4MTgIH5OZQHAbdBWgbKSAb) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh) | [MUKANJYO](https://open.spotify.com/album/1FGsYEkFLkIv9ffhgoOgZh) | 3:12 |
 | 60 | [A Cruel Angel's Thesis \(Director's Edit Version\)](https://open.spotify.com/track/3x4378ztiLvFmm2nuzEI0C) | [Yoko Takahashi](https://open.spotify.com/artist/2RSmBT9gH02j53dMSw982t) | [Neon Genesis Evangelion \(Original Series Soundtrack\)](https://open.spotify.com/album/4vwgTxjKwiSWfEoGOqhiWa) | 4:05 |
 | 61 | [V\-12](https://open.spotify.com/track/3OjCfATz0aDdfndJ4hWCKU) | [Lil Dew'](https://open.spotify.com/artist/5rdLddw7ViJqfFb2xptiMQ) | [V\-12](https://open.spotify.com/album/0vE68M9oSKgdquoSwnCagE) | 2:20 |
-| 62 | [Go!](https://open.spotify.com/track/4Fd2jLQspwZVv7hF3bXHFg) | [NEFFEX](https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6) | [Go!](https://open.spotify.com/album/2e1GXVnwfl6zGCigos6g4w) | 2:40 |
-| 63 | [i know you hate me](https://open.spotify.com/track/1dyGAvhMll39BwCGb6u9pP) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [i know you hate me](https://open.spotify.com/album/4ZJoNTkzmI2R9iG5CURjWh) | 2:04 |
+| 62 | [i know you hate me](https://open.spotify.com/track/1dyGAvhMll39BwCGb6u9pP) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [i know you hate me](https://open.spotify.com/album/4ZJoNTkzmI2R9iG5CURjWh) | 2:04 |
+| 63 | [Go!](https://open.spotify.com/track/4Fd2jLQspwZVv7hF3bXHFg) | [NEFFEX](https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6) | [Go!](https://open.spotify.com/album/2e1GXVnwfl6zGCigos6g4w) | 2:40 |
 | 64 | [Bars No Jutsu](https://open.spotify.com/track/5H9VMgnzuU62NYzWdJlqae) | [Louis Capone](https://open.spotify.com/artist/29zXTjItl1yrV99QZQxECu) | [Bars No Jutsu](https://open.spotify.com/album/0bvzkMcYdnGAqgrD8pKAWT) | 2:28 |
 | 65 | [She Bad](https://open.spotify.com/track/7yF19wC6msoj2cGUEtlm1S) | [Khantrast](https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo) | [She Bad](https://open.spotify.com/album/4qfFCBcWN7Z1SJxZoEAXcT) | 1:45 |
 | 66 | [BLACKED OUT](https://open.spotify.com/track/11YEKSSOXXw0rXVCZgHKi6) | [777villain](https://open.spotify.com/artist/1W1JrFrwTTyv081hWOQJa7) | [BLACKED OUT](https://open.spotify.com/album/6NNH2nFEZqwaHWONf8qTvJ) | 2:13 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89EkrAT8Z6U.md) - [plain]
 | 74 | [Gxth B!tch](https://open.spotify.com/track/47waplZLdcwNwtVUtQI9h8) | [Live Solum](https://open.spotify.com/artist/24wU3BBK0ZKIiSZq3zi9ZV) | [Gxth B!tch](https://open.spotify.com/album/6l54NDbgveDA1Lboi9xoBd) | 1:56 |
 | 75 | [I'm Toxic](https://open.spotify.com/track/6aLzDW8TlgccoWycY99mfU) | [Khantrast](https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo) | [I'm Toxic](https://open.spotify.com/album/0LbmzupwRcQfKfF2VQr4q0) | 1:56 |
 
-Snapshot ID: `MTY2MzI4NDY0NSwwMDAwMDAwMDJjZTcxNjI5ZWNhMDljMWQ1ZTlhZDY2MWQ0MTQ5ODc4`
+Snapshot ID: `MTY2MzY4MTA0MCwwMDAwMDAwMGJmNTVhMjJmZDMwODQ2MzgzZmQyZmUxMDY1N2FjYmIx`

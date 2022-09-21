@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: BLACKPINK
 
-[Spotify](https://open.spotify.com/user/spotify) - 321,976 likes - 91 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 322,198 likes - 91 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 81 | [LEADER!](https://open.spotify.com/track/60VJ0CZ1bV5Ln2n3H1Xo1F) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [LEADER!](https://open.spotify.com/album/5ECNF38ye7R9LlzZRgp9YC) | 2:21 |
 | 82 | [Born To Win](https://open.spotify.com/track/0wau3pD9eDZQRBzg0J3LkE) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Emtee](https://open.spotify.com/artist/6U3gCOvxVWKBxXItqp3mdr) | [Ivyson Army Tour Mixtape](https://open.spotify.com/album/0K1Kj60U6juaomxBtPoaS4) | 2:58 |
 | 83 | [Ghetto Prophets \(feat\. Conway the Machine\)](https://open.spotify.com/track/348cKYhYZPgTen0diYP8Gc) | [Cam’ron](https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS) | [Ghetto Prophets \(feat\. Conway the Machine\)](https://open.spotify.com/album/2ekZrPlgo9wGLcIcoytUru) | 3:07 |
-| 84 | [One Time \(feat\. Ice Spice, Skillibeng & J.I the Prince of N.Y\)](https://open.spotify.com/track/5c1veUUGWMIxFv84E5P9uH) | [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [J.I the Prince of N.Y](https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h) | [One Time \(feat\. Ice Spice, Skillibeng & J.I the Prince of N.Y\)](https://open.spotify.com/album/7FX6vTJxAvOSM7DIpFCHRC) | 3:16 |
+| 84 | [One Time \(feat\. Ice Spice, Skillibeng & J.I the Prince of N.Y\)](https://open.spotify.com/track/5c1veUUGWMIxFv84E5P9uH) | [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [J.I the Prince of N.Y](https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [One Time \(feat\. Ice Spice, Skillibeng & J.I the Prince of N.Y\)](https://open.spotify.com/album/7FX6vTJxAvOSM7DIpFCHRC) | 3:16 |
 | 85 | [DRAIN STORY](https://open.spotify.com/track/3FkKsImisypEJBOkFWBM2B) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [DRAIN STORY](https://open.spotify.com/album/5QREUQq9c50HA4ObUAl7Og) | 1:50 |
 | 86 | [Joe](https://open.spotify.com/track/2fSdrOgBjisneSqSwhXWsn) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Joe](https://open.spotify.com/album/6jZmjxCxlbPxxeClvZbjZo) | 3:07 |
 | 87 | [my best friend's ex](https://open.spotify.com/track/7zAET3CA2JHtQmvC5EtysA) | [emlyn](https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1) | [my best friend's ex](https://open.spotify.com/album/6FsEy3lKqjcJyZgLD7OQsF) | 2:55 |

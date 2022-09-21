@@ -1,12 +1,12 @@
 {
   "description": "La carica giusta per i tuoi allenamenti!",
-  "num_followers": 279182,
+  "num_followers": 279290,
   "original_name": "Rap Motivazionale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY0NjIxNCwwMDAwMDAwMDAxOTUyZGRmNDAwMzU5YjQ1ZGQ4ZTBlNzU5YjlmNTRl",
+  "snapshot_id": "MTY2MjY0NjIxNCwwMDAwMDAwMDg2YWI3OWNhZjNkOWFkMTA1MTAzYzMwMmJlODc5MmMy",
   "tracks": [
     {
       "added_at": "2022-09-08 14:07:50",
@@ -25,7 +25,7 @@
         }
       ],
       "duration_ms": 297786,
-      "name": "'Till I Collapse",
+      "name": "Till I Collapse",
       "url": "https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS"
     },
     {
@@ -419,22 +419,6 @@
     {
       "added_at": "2022-09-08 14:07:50",
       "album": {
-        "name": "Shakerando",
-        "url": "https://open.spotify.com/album/4ZF92wezwJWluQn4CQcXLJ"
-      },
-      "artists": [
-        {
-          "name": "Rhove",
-          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
-        }
-      ],
-      "duration_ms": 195555,
-      "name": "Shakerando",
-      "url": "https://open.spotify.com/track/4EC028SvtlC25iHQSG2OIa"
-    },
-    {
-      "added_at": "2022-09-08 14:07:50",
-      "album": {
         "name": "My Beautiful Dark Twisted Fantasy",
         "url": "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 292093,
       "name": "POWER",
       "url": "https://open.spotify.com/track/2gZUPNdnz5Y45eiGxpHGSc"
+    },
+    {
+      "added_at": "2022-09-08 14:07:50",
+      "album": {
+        "name": "Shakerando",
+        "url": "https://open.spotify.com/album/4ZF92wezwJWluQn4CQcXLJ"
+      },
+      "artists": [
+        {
+          "name": "Rhove",
+          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
+        }
+      ],
+      "duration_ms": 195555,
+      "name": "Shakerando",
+      "url": "https://open.spotify.com/track/4EC028SvtlC25iHQSG2OIa"
     },
     {
       "added_at": "2022-09-08 14:07:50",
@@ -827,22 +827,6 @@
     {
       "added_at": "2022-09-08 14:07:50",
       "album": {
-        "name": "Salvatore",
-        "url": "https://open.spotify.com/album/0RZfejsPZnXDvacWKUe85B"
-      },
-      "artists": [
-        {
-          "name": "Paky",
-          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
-        }
-      ],
-      "duration_ms": 159840,
-      "name": "Auto tedesca",
-      "url": "https://open.spotify.com/track/2dTjaUZFpnlohX8oZ5A2sy"
-    },
-    {
-      "added_at": "2022-09-08 14:07:50",
-      "album": {
         "name": "Watch The Throne (Deluxe)",
         "url": "https://open.spotify.com/album/2P2Xwvh2xWXIZ1OWY9S9o5"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 272506,
       "name": "No Church In The Wild",
       "url": "https://open.spotify.com/track/3Osd3Yf8K73aj4ySn6LrvK"
+    },
+    {
+      "added_at": "2022-09-08 14:07:50",
+      "album": {
+        "name": "Salvatore",
+        "url": "https://open.spotify.com/album/0RZfejsPZnXDvacWKUe85B"
+      },
+      "artists": [
+        {
+          "name": "Paky",
+          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
+        }
+      ],
+      "duration_ms": 159840,
+      "name": "Auto tedesca",
+      "url": "https://open.spotify.com/track/2dTjaUZFpnlohX8oZ5A2sy"
     },
     {
       "added_at": "2022-09-08 14:07:50",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2022-09-08 14:07:50",
       "album": {
-        "name": "Port Of Miami",
-        "url": "https://open.spotify.com/album/42T8qfRs7jdpInsSk6nDJk"
-      },
-      "artists": [
-        {
-          "name": "Rick Ross",
-          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
-        }
-      ],
-      "duration_ms": 254093,
-      "name": "Hustlin'",
-      "url": "https://open.spotify.com/track/3hQCHzkE5oSA3F1xM8bpcM"
-    },
-    {
-      "added_at": "2022-09-08 14:07:50",
-      "album": {
         "name": "Potere",
         "url": "https://open.spotify.com/album/2PjyVGPJwYRg9GbNXlicKM"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 181661,
       "name": "Non Abbiamo Et\u00e0",
       "url": "https://open.spotify.com/track/0NwuXciw6eQc4edjwSBnV3"
+    },
+    {
+      "added_at": "2022-09-08 14:07:50",
+      "album": {
+        "name": "Port Of Miami",
+        "url": "https://open.spotify.com/album/42T8qfRs7jdpInsSk6nDJk"
+      },
+      "artists": [
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        }
+      ],
+      "duration_ms": 254093,
+      "name": "Hustlin'",
+      "url": "https://open.spotify.com/track/3hQCHzkE5oSA3F1xM8bpcM"
     },
     {
       "added_at": "2022-09-08 14:07:50",
@@ -1259,6 +1259,30 @@
     {
       "added_at": "2022-09-08 14:07:50",
       "album": {
+        "name": "Scialla Semper",
+        "url": "https://open.spotify.com/album/3fMHmtOJf2KK3HThKh9ZNX"
+      },
+      "artists": [
+        {
+          "name": "Massimo Pericolo",
+          "url": "https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq"
+        },
+        {
+          "name": "Crookers",
+          "url": "https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C"
+        },
+        {
+          "name": "Nic Sarno",
+          "url": "https://open.spotify.com/artist/3PbxfXGwcCLn85zVQK1ulo"
+        }
+      ],
+      "duration_ms": 180950,
+      "name": "Amici",
+      "url": "https://open.spotify.com/track/7aVX95NjONZszSeb8vJZF3"
+    },
+    {
+      "added_at": "2022-09-08 14:07:50",
+      "album": {
         "name": "Deep End Freestyle",
         "url": "https://open.spotify.com/album/39sypxAyq6TZFqz8CMK3tJ"
       },
@@ -1295,30 +1319,6 @@
       "duration_ms": 177600,
       "name": "3 DI CUORI (feat. Lazza)",
       "url": "https://open.spotify.com/track/5w1eX8eQf8Z9jvqTCAtHkY"
-    },
-    {
-      "added_at": "2022-09-08 14:07:50",
-      "album": {
-        "name": "Scialla Semper",
-        "url": "https://open.spotify.com/album/3fMHmtOJf2KK3HThKh9ZNX"
-      },
-      "artists": [
-        {
-          "name": "Massimo Pericolo",
-          "url": "https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq"
-        },
-        {
-          "name": "Crookers",
-          "url": "https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C"
-        },
-        {
-          "name": "Nic Sarno",
-          "url": "https://open.spotify.com/artist/3PbxfXGwcCLn85zVQK1ulo"
-        }
-      ],
-      "duration_ms": 180950,
-      "name": "Amici",
-      "url": "https://open.spotify.com/track/7aVX95NjONZszSeb8vJZF3"
     },
     {
       "added_at": "2022-09-08 14:07:50",

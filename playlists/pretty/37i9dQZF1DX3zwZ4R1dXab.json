@@ -1,12 +1,12 @@
 {
   "description": "Songs and episodes to help calm your mind, co curated by Clinical psychologist 'Sonali Gupta'.",
-  "num_followers": 98,
+  "num_followers": 143,
   "original_name": "PAUSE: Anxiety",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzI0MDY5NiwwMDAwMDAwMGQ4NmUwYzE0OTNkZThjMTdkYWU1MGY3OGEzNjNmNDE0",
+  "snapshot_id": "MTY2MzI0MDY5NiwwMDAwMDAwMDhkNTJlYWI4YjY2YTdhODFmYzQzYWZlNTY2MmQ4NTc1",
   "tracks": [
     {
       "added_at": "2022-09-15 11:18:16",
@@ -691,22 +691,6 @@
     {
       "added_at": "2022-09-15 11:18:16",
       "album": {
-        "name": "Salve",
-        "url": "https://open.spotify.com/album/73yZQQSNzwlGyMBwndXjrd"
-      },
-      "artists": [
-        {
-          "name": "Ferdinando Zetticci",
-          "url": "https://open.spotify.com/artist/4MLLLG0z38an4nXddu8R3O"
-        }
-      ],
-      "duration_ms": 170124,
-      "name": "Salve",
-      "url": "https://open.spotify.com/track/3ciGnLsselzhecVZZiHzfZ"
-    },
-    {
-      "added_at": "2022-09-15 11:18:16",
-      "album": {
         "name": "Varazdin",
         "url": "https://open.spotify.com/album/4vYwpkP10mwLThSSeYpsoV"
       },
@@ -723,6 +707,22 @@
     {
       "added_at": "2022-09-15 11:18:16",
       "album": {
+        "name": "Salve",
+        "url": "https://open.spotify.com/album/73yZQQSNzwlGyMBwndXjrd"
+      },
+      "artists": [
+        {
+          "name": "Ferdinando Zetticci",
+          "url": "https://open.spotify.com/artist/4MLLLG0z38an4nXddu8R3O"
+        }
+      ],
+      "duration_ms": 170124,
+      "name": "Salve",
+      "url": "https://open.spotify.com/track/3ciGnLsselzhecVZZiHzfZ"
+    },
+    {
+      "added_at": "2022-09-15 11:18:16",
+      "album": {
         "name": "Silent",
         "url": "https://open.spotify.com/album/1qN9ZsA6ELL3C5dOOdwrTf"
       },
@@ -735,6 +735,22 @@
       "duration_ms": 133193,
       "name": "Silent",
       "url": "https://open.spotify.com/track/2wtXjG8mWHPGKbJcVNzjAR"
+    },
+    {
+      "added_at": "2022-09-15 11:18:16",
+      "album": {
+        "name": "Apart, Together",
+        "url": "https://open.spotify.com/album/5XtJ21nRx5xJ9KNI9bZP2e"
+      },
+      "artists": [
+        {
+          "name": "Garreth Broke",
+          "url": "https://open.spotify.com/artist/2VfNXBb3vlgXHEzQci1btx"
+        }
+      ],
+      "duration_ms": 124074,
+      "name": "Apart, Together",
+      "url": "https://open.spotify.com/track/0OiXiEqUyVZrz8OnJkek2q"
     },
     {
       "added_at": "2022-09-15 11:18:16",
@@ -767,22 +783,6 @@
       "duration_ms": 121500,
       "name": "Sleeping Beauty",
       "url": "https://open.spotify.com/track/0l1YnleLOy8MYRImQBYB1Q"
-    },
-    {
-      "added_at": "2022-09-15 11:18:16",
-      "album": {
-        "name": "Apart, Together",
-        "url": "https://open.spotify.com/album/5XtJ21nRx5xJ9KNI9bZP2e"
-      },
-      "artists": [
-        {
-          "name": "Garreth Broke",
-          "url": "https://open.spotify.com/artist/2VfNXBb3vlgXHEzQci1btx"
-        }
-      ],
-      "duration_ms": 124074,
-      "name": "Apart, Together",
-      "url": "https://open.spotify.com/track/0OiXiEqUyVZrz8OnJkek2q"
     },
     {
       "added_at": "2022-09-15 11:18:16",
@@ -835,22 +835,6 @@
     {
       "added_at": "2022-09-15 11:18:16",
       "album": {
-        "name": "Rancul",
-        "url": "https://open.spotify.com/album/30dDuezgO9cqoTGi0cMhPn"
-      },
-      "artists": [
-        {
-          "name": "Rancul",
-          "url": "https://open.spotify.com/artist/7cVXjdkl7yJQfp2a76guvf"
-        }
-      ],
-      "duration_ms": 105626,
-      "name": "Piano Ele\u0301ctrico",
-      "url": "https://open.spotify.com/track/658ysPC6WdtiRSQjiv2AJZ"
-    },
-    {
-      "added_at": "2022-09-15 11:18:16",
-      "album": {
         "name": "The Grass",
         "url": "https://open.spotify.com/album/135DspnDnLyzwCcPijPmjX"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 157000,
       "name": "The Grass",
       "url": "https://open.spotify.com/track/0CMcbkaWuxxnfyaqjZWWGv"
+    },
+    {
+      "added_at": "2022-09-15 11:18:16",
+      "album": {
+        "name": "Appalachian Hike",
+        "url": "https://open.spotify.com/album/1gkHmZmkrqGiP1X6Gso7WX"
+      },
+      "artists": [
+        {
+          "name": "Paolo Capello",
+          "url": "https://open.spotify.com/artist/3RsJfN4McPUPnLMecUGhik"
+        }
+      ],
+      "duration_ms": 136000,
+      "name": "Appalachian Hike",
+      "url": "https://open.spotify.com/track/7bvwShGPBpiojWB5SdI8Dh"
     },
     {
       "added_at": "2022-09-15 11:18:16",
@@ -883,18 +883,18 @@
     {
       "added_at": "2022-09-15 11:18:16",
       "album": {
-        "name": "Appalachian Hike",
-        "url": "https://open.spotify.com/album/1gkHmZmkrqGiP1X6Gso7WX"
+        "name": "Rancul",
+        "url": "https://open.spotify.com/album/30dDuezgO9cqoTGi0cMhPn"
       },
       "artists": [
         {
-          "name": "Paolo Capello",
-          "url": "https://open.spotify.com/artist/3RsJfN4McPUPnLMecUGhik"
+          "name": "Rancul",
+          "url": "https://open.spotify.com/artist/7cVXjdkl7yJQfp2a76guvf"
         }
       ],
-      "duration_ms": 136000,
-      "name": "Appalachian Hike",
-      "url": "https://open.spotify.com/track/7bvwShGPBpiojWB5SdI8Dh"
+      "duration_ms": 105626,
+      "name": "Piano Ele\u0301ctrico",
+      "url": "https://open.spotify.com/track/658ysPC6WdtiRSQjiv2AJZ"
     },
     {
       "added_at": "2022-09-15 11:18:16",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2022-09-15 11:18:16",
       "album": {
-        "name": "m4a",
-        "url": "https://open.spotify.com/album/0Y7ZoYmiH4VBpBBuxTwpCg"
-      },
-      "artists": [
-        {
-          "name": "Blue Arch",
-          "url": "https://open.spotify.com/artist/1hGVjA5Yn16irUKclsgYY5"
-        }
-      ],
-      "duration_ms": 142030,
-      "name": "m4a",
-      "url": "https://open.spotify.com/track/0p1dvFjInHmk6nUparv5dk"
-    },
-    {
-      "added_at": "2022-09-15 11:18:16",
-      "album": {
         "name": "Vejlefjord",
         "url": "https://open.spotify.com/album/1gt84E4kL8DdnXW1XlclX4"
       },
@@ -1059,18 +1043,18 @@
     {
       "added_at": "2022-09-15 11:18:16",
       "album": {
-        "name": "Finding Solitude",
-        "url": "https://open.spotify.com/album/4HSa5LuC2F1lOVOgnqlky7"
+        "name": "m4a",
+        "url": "https://open.spotify.com/album/0Y7ZoYmiH4VBpBBuxTwpCg"
       },
       "artists": [
         {
-          "name": "Miesha Berens",
-          "url": "https://open.spotify.com/artist/59UumpxzWdl3DRy6muL6Ln"
+          "name": "Blue Arch",
+          "url": "https://open.spotify.com/artist/1hGVjA5Yn16irUKclsgYY5"
         }
       ],
-      "duration_ms": 153124,
-      "name": "Finding Solitude",
-      "url": "https://open.spotify.com/track/44GNDx5mPRKiwSLjJAe5Yg"
+      "duration_ms": 142030,
+      "name": "m4a",
+      "url": "https://open.spotify.com/track/0p1dvFjInHmk6nUparv5dk"
     },
     {
       "added_at": "2022-09-15 11:18:16",
@@ -1087,6 +1071,22 @@
       "duration_ms": 129095,
       "name": "Story Time",
       "url": "https://open.spotify.com/track/0cDZCWdR8bTlp7QRaBXBYD"
+    },
+    {
+      "added_at": "2022-09-15 11:18:16",
+      "album": {
+        "name": "Finding Solitude",
+        "url": "https://open.spotify.com/album/4HSa5LuC2F1lOVOgnqlky7"
+      },
+      "artists": [
+        {
+          "name": "Miesha Berens",
+          "url": "https://open.spotify.com/artist/59UumpxzWdl3DRy6muL6Ln"
+        }
+      ],
+      "duration_ms": 153124,
+      "name": "Finding Solitude",
+      "url": "https://open.spotify.com/track/44GNDx5mPRKiwSLjJAe5Yg"
     },
     {
       "added_at": "2022-09-15 11:18:16",

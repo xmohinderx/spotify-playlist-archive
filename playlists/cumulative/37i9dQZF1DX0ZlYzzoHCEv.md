@@ -4,7 +4,7 @@
 
 > musica per quando non sai insomma come
 
-223 songs - 10 hr 15 min - [published](https://open.spotify.com/playlist/1k8A1gJChAu6YTOeCB3ZkM)
+224 songs - 10 hr 17 min - [published](https://open.spotify.com/playlist/1k8A1gJChAu6YTOeCB3ZkM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [DUE PUNTI PARENTESI](https://open.spotify.com/track/2eHWYDuQtme0a0nBmJn286) | [Demï](https://open.spotify.com/artist/7IwAuqqh9EUk6mlD9ZLFy0) | [DUE PUNTI PARENTESI](https://open.spotify.com/album/1UzynnhgvD247VCKQFIkVL) | 1:55 | 2022-06-24 | 2022-07-16 |
 | [E tu fai](https://open.spotify.com/track/6JKB9p3DKLU7T7wPOLR0HK) | [Luchino Luce](https://open.spotify.com/artist/6wqUUpbLC6kOWt6FAMzDnH), [xx.buio](https://open.spotify.com/artist/79fm1bknXIjgvx5kMmzOm6) | [E tu fai](https://open.spotify.com/album/58mbxR2Jx8ecOk9MIMoAXL) | 2:37 | 2022-09-08 |  |
 | [Easy](https://open.spotify.com/track/5Tr0ol7vcovoGqotDfvkwB) | [Anna Carol](https://open.spotify.com/artist/6BJWROUyan9xhxGKBcrT1I) | [Easy](https://open.spotify.com/album/2tIsEywEdtGcrt5vj8hF8C) | 3:15 | 2022-06-21 | 2022-07-26 |
-| [engravings](https://open.spotify.com/track/4u5CfuAGAHNYDIHSSW7BiY) | [Ethan Bortnick](https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY) | [engravings](https://open.spotify.com/album/2SbLcM1nwlKO76evmEuX6w) | 3:00 | 2022-08-09 |  |
+| [engravings](https://open.spotify.com/track/4u5CfuAGAHNYDIHSSW7BiY) | [Ethan Bortnick](https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY) | [engravings](https://open.spotify.com/album/2SbLcM1nwlKO76evmEuX6w) | 3:00 | 2022-08-09 | 2022-09-21 |
 | [Essere Pelati](https://open.spotify.com/track/41cLnOB2fWQOs8m3CfXuqR) | [Garage Gang](https://open.spotify.com/artist/0nVylSfYAbjeETmI5FbRyM), [Aegeminus](https://open.spotify.com/artist/2UJLlfZSc3wzkT5PVG8zRN) | [Boomer Remover](https://open.spotify.com/album/5ZNIg3GIa9sRLMg7wmrPI5) | 3:49 | 2022-05-06 | 2022-07-20 |
 | [Estate](https://open.spotify.com/track/3BbLfgcR9pM3LZxAhizjR0) | [Lil Angel$](https://open.spotify.com/artist/6IQRYBzfChxRdujgZIyJIa) | [Estate](https://open.spotify.com/album/0ZpzUCCjh4vfzWYfNAVVLv) | 5:05 | 2022-06-13 | 2022-06-18 |
 | [ESTILAZO](https://open.spotify.com/track/3S6VRZQYwuPIllMmYdAj66) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [ESTILAZO](https://open.spotify.com/album/5JsaR3E92H6w32amvOhl7t) | 2:49 | 2022-05-13 | 2022-05-18 |
@@ -122,6 +122,7 @@
 | [Maybe My Soulmate Died](https://open.spotify.com/track/7N1bEUVuQo8HHuikDgJ10c) | [iamnotshane](https://open.spotify.com/artist/3jN7f9X0EmFnsbRS6nl6as) | [Maybe My Soulmate Died](https://open.spotify.com/album/0sCKHcwHvwtLYuaBNfE6BL) | 1:54 | 2022-07-29 |  |
 | [Megablast](https://open.spotify.com/track/4kSF9vv3i4IrMVew2uwMCs) | [Downhill2k01](https://open.spotify.com/artist/0xBBjvYwXtW0k90kDx9JLs) | [Butterfly Tetrad](https://open.spotify.com/album/2CBjTGZPlSwhBb5XhXKiXt) | 1:27 | 2022-06-03 | 2022-07-04 |
 | [MEMORIES!](https://open.spotify.com/track/27XMmSWSOXJ7eVb40tH93T) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [TROUBLED MEMORIES!](https://open.spotify.com/album/3OFuRXFkPOzEZbFp3Os28q) | 2:17 | 2022-05-06 |  |
+| [METAMORPHOSIS](https://open.spotify.com/track/2ksyzVfU0WJoBpu8otr4pz) | [INTERWORLD](https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN) | [METAMORPHOSIS](https://open.spotify.com/album/3apQZbgVql9mHJlp43jk5D) | 2:22 | 2022-09-20 |  |
 | [MIDNIGHT](https://open.spotify.com/track/2WzAAerBvZvvFXgUpSwHZ9) | [PLAYAMANE](https://open.spotify.com/artist/13itspgSHkUbOq03AhIyjS), [Nateki](https://open.spotify.com/artist/3g0UoyvaTaHUrfpHiRqsD1) | [MIDNIGHT](https://open.spotify.com/album/5nWRdZWdSXAMvLTZFxuD2W) | 2:01 | 2022-06-17 |  |
 | [MISA & LIGHT](https://open.spotify.com/track/3x7EyXuAXqSlvu8FH5rYyr) | [NXFEIT](https://open.spotify.com/artist/1gU9mTuXPAIAHzudmIXU8k), [Sillyelly](https://open.spotify.com/artist/1rWg0CyGoCsRYYtpj5NC5P), [Hen848](https://open.spotify.com/artist/7t908TEGKS05D7xMAsyzqo) | [MISA & LIGHT](https://open.spotify.com/album/3VuoJuyQGrWF3r1X3zZHLY) | 2:50 | 2022-05-06 | 2022-07-27 |
 | [moment](https://open.spotify.com/track/5K9tfeoiztw94dyWzF39jq) | [Vierre Cloud](https://open.spotify.com/artist/31ijgiurmIPTNojkYQXdnl) | [moment](https://open.spotify.com/album/4FehFP4tVEFyT75LCTHl7m) | 2:09 | 2022-05-06 |  |

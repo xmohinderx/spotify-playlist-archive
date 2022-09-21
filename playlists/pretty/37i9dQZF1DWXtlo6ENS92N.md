@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtlo6ENS92N.md) - [plain]
 
 > The finest quality of Bollywood music handpicked for you\. Cover\- Alia and Ranbir.
 
-[Spotify](https://open.spotify.com/user/spotify) - 691,940 likes - 55 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 692,879 likes - 55 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtlo6ENS92N.md) - [plain]
 | 3 | [Hum Nashe Mein Toh Nahin \(From "Bhool Bhulaiyaa 2"\)](https://open.spotify.com/track/6XZWokIxs4leaSmXmU8b26) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Tulsi Kumar](https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1) | [Hum Nashe Mein Toh Nahin \(From "Bhool Bhulaiyaa 2"\)](https://open.spotify.com/album/3i3rwvDDpdY1BZmIW2pAvT) | 3:58 |
 | 4 | [Maiyya Mainu \(From "Jersey"\)](https://open.spotify.com/track/4PwTeFfKqmR3XIeXXUBDOf) | [Sachet\-Parampara](https://open.spotify.com/artist/1SyKki7JI1AZNKwgNMkn25), [Sachet Tandon](https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG) | [Maiyya Mainu \(From "Jersey"\)](https://open.spotify.com/album/1I3s1v090iECnF0ZhCL1ui) | 3:51 |
 | 5 | [Dil \(From "Ek Villain Returns"\)](https://open.spotify.com/track/043SPVu75TXbs94ZfM9dfn) | [Kaushik\-Guddu](https://open.spotify.com/artist/7EiUTtmmkwGtbgR6gZaZzW), [Raghav Chaitanya](https://open.spotify.com/artist/3qpyErDI4i90q5EGgSRmNK), [Kunaal Vermaa](https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx) | [Dil \(From "Ek Villain Returns"\)](https://open.spotify.com/album/5RFQhO7dqTjNfZt1Ei710x) | 5:09 |
-| 6 | [Pehla Pyaar](https://open.spotify.com/track/0ojpEubhy4JNeVftmVuiN7) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs) | [Kabir Singh](https://open.spotify.com/album/3uuu6u13U0KeVQsZ3CZKK4) | 4:32 |
+| 6 | [Pehla Pyaar](https://open.spotify.com/track/0ojpEubhy4JNeVftmVuiN7) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507) | [Kabir Singh](https://open.spotify.com/album/3uuu6u13U0KeVQsZ3CZKK4) | 4:32 |
 | 7 | [Rangisari](https://open.spotify.com/track/3x9vShiP4hDhE94zvObYNS) | [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo), [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv) | [Jugjugg Jeeyo](https://open.spotify.com/album/49wsmGDdtSoQiLt2lsVbaQ) | 3:43 |
 | 8 | [Atak Gaya \- Arijit Singh](https://open.spotify.com/track/5WzfGg2ueNoOS5aIkaR9qX) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Rupali Moghe](https://open.spotify.com/artist/3quVbB0VVwzGIU1FRBWpX0) | [Badhaai Do \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2g7GkmjF2onRnLexy9cUiC) | 3:19 |
 | 9 | [Kalank \(Title Track\)](https://open.spotify.com/track/6vo7Y1iWyZvpjvFbf6BiZ5) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Kalank \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/63jrLuBlHcMN7MUbjbJ4LI) | 5:11 |

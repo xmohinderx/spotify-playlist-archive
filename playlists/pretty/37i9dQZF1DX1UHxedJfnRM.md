@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UHxedJfnRM.md) - [plain]
 
 > Los temas más sabrosos del momento suenan aquí\. Foto: Gilberto Santa Rosa
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,266 likes - 80 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,337 likes - 80 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UHxedJfnRM.md) - [plain]
 | 42 | [Amarte Es Mi Pecado](https://open.spotify.com/track/2niwYvW4SPtimr7jWAk9ke) | [Jose Carlos Garcia](https://open.spotify.com/artist/0X0GekJ2TVUTakNbRbmeh9), [Amy Gutierrez](https://open.spotify.com/artist/1jrfEx1kZc8BNPLQDC7kVR) | [Amarte Es Mi Pecado](https://open.spotify.com/album/1zCWDAa3D4bZOxHG0WTnGL) | 5:17 |
 | 43 | [Te Dejo Libre](https://open.spotify.com/track/4fBugAURiDBsuyDPCUaAL6) | [Cielo Torres](https://open.spotify.com/artist/7AqX9JGo4WdLp5gPNSRoDJ) | [Te Dejo Libre](https://open.spotify.com/album/3lYizfZAUZhaVDtLUM8tHk) | 3:56 |
 | 44 | [El Color de Tus Ojos](https://open.spotify.com/track/0HyN13StsSADhbAOY68PdD) | [Bembe Orquesta](https://open.spotify.com/artist/6fsXrJHIeY3ukc4xVP23cP) | [El Color de Tus Ojos](https://open.spotify.com/album/008Ys7V09mrkoKkKaxI7G0) | 4:03 |
-| 45 | [Nunca Es Suficiente](https://open.spotify.com/track/0KFJIvtAx5VfrHPcIDV5as) | [Cielo Torres](https://open.spotify.com/artist/7AqX9JGo4WdLp5gPNSRoDJ) | [Nunca Es Suficiente](https://open.spotify.com/album/6pYclaUw0Iy0vjwYPiW5Eu) | 4:32 |
+| 45 | [Nunca Es Suficiente](https://open.spotify.com/track/5bNZVcZIPFX9eyeCzsjEUz) | [Cielo Torres](https://open.spotify.com/artist/7AqX9JGo4WdLp5gPNSRoDJ) | [Nunca Es Suficiente](https://open.spotify.com/album/22qXCxQhiH4Cg0TAqHYbOt) | 4:32 |
 | 46 | [Me Vas a Extrañar](https://open.spotify.com/track/10OXEEbtNRaeiHeKHj25XB) | [N'Samble](https://open.spotify.com/artist/7Ksq8BTaGcbM7OgVQi3y8f) | [Me Vas a Extrañar](https://open.spotify.com/album/6KSnZY5Af92l4E1K5XjYL8) | 5:10 |
 | 47 | [Mala y Peligrosa \(feat\. Bad Bunny\)](https://open.spotify.com/track/0afpbPmRHldjP59YRslQz9) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Mala y Peligrosa \(feat\. Bad Bunny\)](https://open.spotify.com/album/5g7QwZJvDLvaSGjqFVex0d) | 4:24 |
 | 48 | [Corazón Embusteros](https://open.spotify.com/track/527sYZvnJbG8z5ScW2DAVU) | [N'Samble](https://open.spotify.com/artist/7Ksq8BTaGcbM7OgVQi3y8f) | [Y No Hay Más Na](https://open.spotify.com/album/3NfQpI1g7293zTjirDR73X) | 5:53 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UHxedJfnRM.md) - [plain]
 | 79 | [Hablame de Ti](https://open.spotify.com/track/7eCE1RHUfuYQUJEBAoIGK7) | [Farik Grippa](https://open.spotify.com/artist/00Xr47kjidyk1Kimx2Ypd2) | [Hablame de Ti](https://open.spotify.com/album/1gOzjKHK9YBiKQWz87rxhB) | 4:30 |
 | 80 | [Vamos a Escapar \- Salsa Version](https://open.spotify.com/track/1A474NyT5UKjqElE2JN6Km) | [Alvaro Rod](https://open.spotify.com/artist/5UjFDinYOVndyri7JqzcAP), [Amy Gutierrez](https://open.spotify.com/artist/1jrfEx1kZc8BNPLQDC7kVR) | [Vamos a Escapar](https://open.spotify.com/album/1QB4xPIhfndD41wrNJhXKw) | 4:34 |
 
-Snapshot ID: `MTY2MDI4MDQwMCwwMDAwMDAwMGZmNDAyNWNmNTQ2M2FhYjU3OGVhNWFkZjNmODRhMTNi`
+Snapshot ID: `MTY2MDI4MDQwMCwwMDAwMDAwMDU0Y2Y3MzM2ZDkyNzQ0NzQ0ZjkxMzMzY2ZkOTBjNmNh`

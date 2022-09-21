@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4zvnN9RL36v.md) - [plain]
 
 > 내 마음을 노랫말이 알아줄 때.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,693 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,705 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4zvnN9RL36v.md) - [plain]
 | 20 | [나였으면](https://open.spotify.com/track/7sp5iTQjB7GHXX4TKrhOaO) | [Na Yoon Kwon](https://open.spotify.com/artist/49fyJl5wIzI5GtRuCKxKRw) | [중독](https://open.spotify.com/album/4MDKAWZP2Z4czla9K68CDK) | 4:22 |
 | 21 | [\(Bonus Track\) Voice Mail \(Korean Version\)](https://open.spotify.com/track/0MMUVb6JJzOtMyTx9qrAjy) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Modern Times](https://open.spotify.com/album/2QcuXvQBWv1ZKyQtEhLbFe) | 4:06 |
 | 22 | [Maybe I am](https://open.spotify.com/track/6r6CGnSzirRWxfmzOQHQfw) | [KIMSEJEONG](https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu) | [I'm](https://open.spotify.com/album/085XU5PQYl7eUA97BkkE8Z) | 3:48 |
-| 23 | [사랑은 언제나 목 마르다 Love Is Always Thirsty](https://open.spotify.com/track/3DfZJ4RowfA7OjSIQYSDoI) | [유미 Youme](https://open.spotify.com/artist/4y8PoupChBX11WsE6lUy3C) | [Sad](https://open.spotify.com/album/0zUSlyzOMtllEdGzQXQHex) | 4:30 |
-| 24 | [mistaken](https://open.spotify.com/track/7c8cPVLWvtZwxDxA3KkWFP) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt) | [inside](https://open.spotify.com/album/1gphhxPPKfz8n69hKEK5D8) | 4:03 |
+| 23 | [mistaken](https://open.spotify.com/track/7c8cPVLWvtZwxDxA3KkWFP) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt) | [inside](https://open.spotify.com/album/1gphhxPPKfz8n69hKEK5D8) | 4:03 |
+| 24 | [사랑은 언제나 목 마르다 Love Is Always Thirsty](https://open.spotify.com/track/3DfZJ4RowfA7OjSIQYSDoI) | [유미 Youme](https://open.spotify.com/artist/4y8PoupChBX11WsE6lUy3C) | [Sad](https://open.spotify.com/album/0zUSlyzOMtllEdGzQXQHex) | 4:30 |
 | 25 | [해가 지기 전에](https://open.spotify.com/track/7uEBXvioZbOXQx2lMN20F4) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [매드독 \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/4yaskZdmtLHYLUirCrCimM) | 3:09 |
 | 26 | [UP ALL NIGHT](https://open.spotify.com/track/3cLdPR1C6skgxJBIBv1CKt) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu), [Tablo](https://open.spotify.com/artist/3NdOtTPPaXrCyC7Lpmzyhv) | [SEOULITE](https://open.spotify.com/album/3cGyWEJaQlj7kCdKBCOGeb) | 3:40 |
 | 27 | [Greeting](https://open.spotify.com/track/741iHAqg8dbs8vaNnnMDve) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [Chocolate, Pt\. 6 \(Original Television Soundtrack\)](https://open.spotify.com/album/0w6aqyXQlvBxOIhqmRKk4C) | 3:25 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4zvnN9RL36v.md) - [plain]
 | 40 | [Her](https://open.spotify.com/track/4QmWRo0gGe2IzmAqgyPUH0) | [CherryB](https://open.spotify.com/artist/0Bd1VLl8A4yk5vo2XfVnCd) | [Her](https://open.spotify.com/album/7ChNlZPMqGp9NBKKkWdj7t) | 4:09 |
 | 41 | [to him](https://open.spotify.com/track/1w5xpDtyMckJYrrn9Z1bEX) | [JAMIE](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT) | [19to20](https://open.spotify.com/album/7zq8yS4JkTPQNRrS8lptY1) | 3:39 |
 | 42 | [A lonely song](https://open.spotify.com/track/2naBl4NQlX9a4t6ONd47nF) | [I'll](https://open.spotify.com/artist/5CMK32w7gbxJsFe67eZJqs) | [A lonely song](https://open.spotify.com/album/6AJlKivqnbSRgP49nNR0ba) | 3:45 |
-| 43 | [Wanna be her](https://open.spotify.com/track/0SrnU0smAgD9CdD6591gKN) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [One Strange Night](https://open.spotify.com/album/2NIHcafPBpwE9exKTsSWrr) | 4:11 |
-| 44 | [화분 \- 알렉스 Version](https://open.spotify.com/track/253k2EVSIBol9zDYdugv4w) | [Alex](https://open.spotify.com/artist/3E0hcDz3BQfblBm7PU4Ghr) | [화분](https://open.spotify.com/album/3S2nA0Y4QaO3HWgmm3C9qS) | 4:30 |
+| 43 | [화분 \- 알렉스 Version](https://open.spotify.com/track/253k2EVSIBol9zDYdugv4w) | [Alex](https://open.spotify.com/artist/3E0hcDz3BQfblBm7PU4Ghr) | [화분](https://open.spotify.com/album/3S2nA0Y4QaO3HWgmm3C9qS) | 4:30 |
+| 44 | [Wanna be her](https://open.spotify.com/track/0SrnU0smAgD9CdD6591gKN) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [One Strange Night](https://open.spotify.com/album/2NIHcafPBpwE9exKTsSWrr) | 4:11 |
 | 45 | [Knot](https://open.spotify.com/track/0abcdEtyIbdQGNMP9cNmPh) | [The Deep](https://open.spotify.com/artist/0hYtrPQ05Qu1N5r0QcpoDp) | [Knot](https://open.spotify.com/album/2kgNRya8F4X05PgYdL34o6) | 3:22 |
 | 46 | [Zzack sarang](https://open.spotify.com/track/3mvnSG5sJLUTHiyXap5xgo) | [Western Kite](https://open.spotify.com/artist/3Ut5D9lZhPzIdAnInEltxw) | [Subtitle](https://open.spotify.com/album/3b7lh3a4DfFxPCCKm7baGT) | 3:14 |
 | 47 | [Sooni \(I'm your fanatic girl\)](https://open.spotify.com/track/0l9jBZWCFyKdYVVYrzzTMR) | [ソヌ・ジョンア](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [4X4](https://open.spotify.com/album/4vL5pTsmH3jfwfJyrqHhfx) | 4:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4zvnN9RL36v.md) - [plain]
 | 49 | [I Ain't Over](https://open.spotify.com/track/5Z92WE7OM4DB7yphLcbFhb) | [Vanilla Acoustic](https://open.spotify.com/artist/57xPD2CfuwxN6Ld7rf2iLG) | [Fit Me](https://open.spotify.com/album/4pFmu6Kza4fbk5spjtpxBB) | 4:10 |
 | 50 | [Unrequited](https://open.spotify.com/track/57EwG684FFleTMHfxl0f2B) | [Swai](https://open.spotify.com/artist/0CfbuMzbd5fIGT2mew4JWH), [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Unrequited](https://open.spotify.com/album/1fARMCu9O702sbE7KFMqPq) | 3:45 |
 
-Snapshot ID: `MTY2MDgzMjczMiwwMDAwMDAwMDlhNGM5ZDMyMDRjODFmYmY3ZDNjYWYzZjE5NDk5YTZh`
+Snapshot ID: `MTY2MDgzMjczMiwwMDAwMDAwMDk4ZTZjOTlkOWFkZDIyZDk3YzgwNzg4ZjY2NDFmYTI2`

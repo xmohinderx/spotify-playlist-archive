@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,878 likes - 1,198 songs - 3 day 7 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,928 likes - 1,198 songs - 3 day 7 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -568,7 +568,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 558 | [To Minore Tis Avgis](https://open.spotify.com/track/7DrGc72zMMvu3VOLRVRsgm) | [Markos Vamvakaris](https://open.spotify.com/artist/2MOeRxQqwrvur6it4B3G3R), [Apostolos Hatzichristos](https://open.spotify.com/artist/5XFtjPHUPYfb0ea4iUCfmq) | [Complete Guide to Markos Vamvakaris](https://open.spotify.com/album/2LfXDPKz7EANTKaLweYyRJ) | 3:19 |
 | 559 | [Still Got a Way to Fall](https://open.spotify.com/track/06xHsdwvGuvdBivuCyGps5) | [Nicole Willis](https://open.spotify.com/artist/0eNjd1MGYdXbMLHoMNu1NI), [UMO Jazz Orchestra](https://open.spotify.com/artist/1tF1OoWEyzysLCCBRwzDc1) | [My Name Is Nicole Willis](https://open.spotify.com/album/0e7kN4e5eTuvhpqBXSVq4V) | 3:47 |
 | 560 | [Handsome Boy \(E Wara\) \- Pt\. 1 & 2](https://open.spotify.com/track/1XAOOkVxdWLra00faqOiyU) | [The Rwenzori's](https://open.spotify.com/artist/7FvUNDLSBrTUnAo3IRmhL0) | [Mr Bongo Record Club, Vol\. 1](https://open.spotify.com/album/54FBJ6Mge0mw3czvirto1r) | 6:44 |
-| 561 | [Oh Yeh Soweto](https://open.spotify.com/track/62PQBJn14c9Um19YDFfU2j) | [Teaspoon](https://open.spotify.com/artist/7KC3heaWvCM1YKpctH4U4D), [The Waves](https://open.spotify.com/artist/01JMJxTziEMRUIJ9J8JK2z) | [Mr Bongo Record Club, Vol\. 2](https://open.spotify.com/album/6FUoMNfQiCUMmwvfZC8lRI) | 4:09 |
+| 561 | [Oh Yeh Soweto](https://open.spotify.com/track/6Ev8U76AVKTwpIz4PAIp2e) | [Teaspoon](https://open.spotify.com/artist/7KC3heaWvCM1YKpctH4U4D), [EL Waves](https://open.spotify.com/artist/0A3ZPfG5yGOmuFh5UzNZBH) | [Afrobeat Experience, Vol.1](https://open.spotify.com/album/4wlCSu49JOHgOT4xAPlLto) | 4:07 |
 | 562 | [Quando O Carnaval Chegar](https://open.spotify.com/track/5Iuqp8HuZwjV3Uo5g5naHw) | [Quarteto Em Cy](https://open.spotify.com/artist/177N2fB1WvNBCQ4epjMQ3O) | [Quarteto Em Cy](https://open.spotify.com/album/3SklHlQWmxoeFj2k0q99HI) | 2:52 |
 | 563 | [Les voyages](https://open.spotify.com/track/0ID6Hh3bFnyW7wpUsiCAbQ) | [Jeanne Moreau](https://open.spotify.com/artist/3rbOOc4VJ3BFxQXKppOuQP) | [Jeanne Chante Jeanne](https://open.spotify.com/album/7uzZRu1T0i14kICtviB9x7) | 3:01 |
 | 564 | [O Calhambeque \(Road Hog\) \- Versão remasterizada](https://open.spotify.com/track/5fI3VyojzKwYROh9b7cgRQ) | [Roberto Carlos](https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65) | [É Proibido Fumar \(Remasterizado\)](https://open.spotify.com/album/0T4Oun2SB4oIuy9w9Qgw6v) | 2:21 |
@@ -1034,7 +1034,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1024 | [Tudo Que Voce Podia Ser](https://open.spotify.com/track/4iVpZVKaPUnMhEagBOIIuI) | [Quarteto Em Cy](https://open.spotify.com/artist/177N2fB1WvNBCQ4epjMQ3O) | [Quarteto Em Cy](https://open.spotify.com/album/3SklHlQWmxoeFj2k0q99HI) | 2:41 |
 | 1025 | [Keep Him Strong](https://open.spotify.com/track/4empBL14lMnkSLsy1MLgr8) | [Candy McKenzie](https://open.spotify.com/artist/023atltPg02qf65sueZvsc) | [Lee 'Scratch' Perry Presents Candy McKenzie](https://open.spotify.com/album/3UMKLTwJWmX5tILq8x79xl) | 5:05 |
 | 1026 | [Chega Mais \(Imaginei Você Dançando\)](https://open.spotify.com/track/6GavAPHYA7OdbJP7EQOFxI) | [Banda Black Rio](https://open.spotify.com/artist/47UDFBXxSM6d5zbKvflXhv) | [Gafieira Universal](https://open.spotify.com/album/38pRkmDsvQHMvkqIgvJyo3) | 2:51 |
-| 1027 | [Adome Nyueto](https://open.spotify.com/track/4JxUuQvXNpSWOZloyLpqVU) | [Yta Jourias](https://open.spotify.com/artist/2SGAAoINRpH9UQf7Gq9WcK) | [Togo Soul 70](https://open.spotify.com/album/5geXl28rgMnrOjqvEgBBdi) | 5:26 |
+| 1027 | [Adome Nyueto](https://open.spotify.com/track/0U3EbpYDTSF2PrnkAi5y7e) | [Yta Jourias](https://open.spotify.com/artist/2SGAAoINRpH9UQf7Gq9WcK) | [Afrobeat Experience, Vol.1](https://open.spotify.com/album/4wlCSu49JOHgOT4xAPlLto) | 5:25 |
 | 1028 | [My Life](https://open.spotify.com/track/62TzmJFxjBN8CjXfxN2P4n) | [Noriko Miyamoto](https://open.spotify.com/artist/2inTsiufLTjZppw4nlCaMk), [Isao Suzuki](https://open.spotify.com/artist/19Jnq7URlFKcxRPe9cm1pb) | [Push](https://open.spotify.com/album/5CXBCsYUVcbeFHisHsBfnA) | 6:09 |
 | 1029 | [Do Leme Ao Pontal](https://open.spotify.com/track/70QAZmaOxrSQGP2OMY5DUz) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [World Psychedelic Classics 4: Nobody Can Live Forever: The Existential Soul of Tim Maia](https://open.spotify.com/album/0q41u8oMFT9Ewr2tqGnmL8) | 3:12 |
 | 1030 | [Atlantico](https://open.spotify.com/track/0RsRS2pwENLgnEYB7Bmu1u) | [Combo Lulo](https://open.spotify.com/artist/75aMLBgnB2VQKcdlVfdBQE) | [Atlantico](https://open.spotify.com/album/0RBvaaOldPuz7ezsD6roB9) | 2:42 |
@@ -1207,4 +1207,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1197 | [María del Carmen](https://open.spotify.com/track/4wwLkoEEtiWSVy0EVVMiy1) | [Andres Landero Y Su Conjunto](https://open.spotify.com/artist/1a1B3usUWpHK4S3u0iN8T4) | [Cumbias y Más Cumbias](https://open.spotify.com/album/4pD1vtjlFm2ftlWQPZCQJd) | 4:16 |
 | 1198 | [Quem Não Faz Filho](https://open.spotify.com/track/4L23xuGPw1CCdQwrQ3x1ui) | [Os Kiezos](https://open.spotify.com/artist/5y4KGcTAhFsxkLXQiE8cZf) | [Memórias](https://open.spotify.com/album/5YyS2wklqzjTvZXxntH6VT) | 4:05 |
 
-Snapshot ID: `MTY2MzIzMDYwMCwwMDAwMDAwMDVkNmYwOTg5NmQ4OGVlM2EwMzY1MTg0NzdkMWM0M2Vj`
+Snapshot ID: `MTY2MzIzMDYwMCwwMDAwMDAwMDExNWRiNDNlM2I4YzIzM2YxNmMzODAxYjJlYzJiMDAy`

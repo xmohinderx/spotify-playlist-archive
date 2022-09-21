@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:4Jh6PxSFH7CrZrQpDivlYf">Amine K</a>'s favorite tracks\. Updated regularly\. Curated by Amine K\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-67 songs - 7 hr 1 min - [published](https://open.spotify.com/playlist/2GrckdjTcrkCQD0V0CNGd1)
+68 songs - 7 hr 11 min - [published](https://open.spotify.com/playlist/2GrckdjTcrkCQD0V0CNGd1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,8 @@
 | [Strangely Enough \- Amine K Stripped Down Remix](https://open.spotify.com/track/1WscS7OuSdPO1DxjCssTCB) | [Matthias Meyer](https://open.spotify.com/artist/6bWakzaLHaNewLTdhJHPQb), [Amine K \(Moroko Loko\)](https://open.spotify.com/artist/4Jh6PxSFH7CrZrQpDivlYf) | [Strangely Enough Remixes](https://open.spotify.com/album/5dgUK5cS7D6WU5iHL0zBSt) | 5:59 | 2022-09-08 |  |
 | [Take Flight](https://open.spotify.com/track/6FAGFcIJfSzuDDk2Rbz3pi) | [Denney](https://open.spotify.com/artist/7vm3musYjzfqoMloVCEF7v), [Dean Mickoski](https://open.spotify.com/artist/51HLurY6ZdJtatIdyeOrBI), [Celeda](https://open.spotify.com/artist/6eOBEYGx9M4t87osYMIakb) | [Take Flight EP](https://open.spotify.com/album/5cPX28V6vYst2hq01jwxTR) | 4:07 | 2022-09-08 |  |
 | [Temma \- Amine K Remix](https://open.spotify.com/track/5vcwuLS7GC5pXlyxXCSc0o) | [Oum](https://open.spotify.com/artist/4io8n4UJrGAd0T3uf2S72f), [Amine K \(Moroko Loko\)](https://open.spotify.com/artist/4Jh6PxSFH7CrZrQpDivlYf) | [Buddha Bar by Amine K & Ravin](https://open.spotify.com/album/7Awsu0TzbHe1Wxt9cGg1EL) | 7:39 | 2022-08-01 |  |
-| [The Baguio Track \- Chus & Ceballos Mix](https://open.spotify.com/track/4vEzG3NarB1Z5GeL6A5gQo) | [Luzon](https://open.spotify.com/artist/57sbhIOYKsrAGlzBClwqJ3), [Chus](https://open.spotify.com/artist/1ZSVg4XUh5sAy6wx5zlGHA), [Ceballos](https://open.spotify.com/artist/77kMQ6I9X6hi06rBZEvdk8) | [Yoshitoshi Classics 100Th Release](https://open.spotify.com/album/1pWTeJVJHBq9dH5VFcXno9) | 10:07 | 2022-08-01 |  |
+| [The Baguio Track \- Chus & Ceballos Mix](https://open.spotify.com/track/4vEzG3NarB1Z5GeL6A5gQo) | [Luzon](https://open.spotify.com/artist/57sbhIOYKsrAGlzBClwqJ3), [Chus](https://open.spotify.com/artist/1ZSVg4XUh5sAy6wx5zlGHA), [Ceballos](https://open.spotify.com/artist/77kMQ6I9X6hi06rBZEvdk8) | [Yoshitoshi Classics 100Th Release](https://open.spotify.com/album/1pWTeJVJHBq9dH5VFcXno9) | 10:07 | 2022-08-01 | 2022-09-21 |
+| [The Baguio Track \- Chus & Ceballos Mix](https://open.spotify.com/track/2HZrVMUfpyHP3EtUXHiWxg) | [Luzon](https://open.spotify.com/artist/57sbhIOYKsrAGlzBClwqJ3), [Chus & Ceballos](https://open.spotify.com/artist/3yjqxf3d3aCOFrrsxIl326) | [Yoshitoshi Classics 100Th Release](https://open.spotify.com/album/4XhblKlgJqykVA4Gmys2md) | 10:07 | 2022-09-08 |  |
 | [The Brooklyn Gypsy](https://open.spotify.com/track/5d7jzy1RYtL85inxWGuTkv) | [Danny Tenaglia](https://open.spotify.com/artist/2tG935baRE4mH8B3saiwbm) | [The Brooklyn Gypsy](https://open.spotify.com/album/3eQPJWKBogo2jFUQlXo0BK) | 7:41 | 2022-09-08 |  |
 | [The Prophet \- Remastered](https://open.spotify.com/track/5wXZTamLGclZu8irxR5muH) | [Chus & Ceballos](https://open.spotify.com/artist/3yjqxf3d3aCOFrrsxIl326), [Supernova](https://open.spotify.com/artist/1vpJBCwcAMbetCwtn2KPEG) | [Playa del Carmen 2017](https://open.spotify.com/album/31NQOVWoy3lgFnJE2sgXEI) | 6:40 | 2022-08-01 |  |
 | [The Story Continues \- Extended Mix](https://open.spotify.com/track/7J7zVc023HlDs9aZBzpHDL) | [Marco Lys](https://open.spotify.com/artist/5WiohqjMNs7MtChjoHE9D1) | [The Story Continues](https://open.spotify.com/album/4GFN6yPYH6QCkYwWacnPhi) | 7:40 | 2022-09-08 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 
 > Classic 12" singles to take you back to the the vinyl era.
 
-[Spotify](https://open.spotify.com/user/spotify) - 581,120 likes - 80 songs - 7 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 581,256 likes - 80 songs - 7 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,14 +26,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 | 16 | [Red Red Wine](https://open.spotify.com/track/1tOE1dIyIjsfLJWiQ4ZRJW) | [UB40](https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5) | [Labour Of Love](https://open.spotify.com/album/5kxx0oDspXVyGCOjdDjSFi) | 5:20 |
 | 17 | [1999 \- 2019 Remaster](https://open.spotify.com/track/2QSUyofqpGDCo026OPiTBQ) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [1999](https://open.spotify.com/album/34MHuXONazzgSxI0cThpAg) | 6:13 |
 | 18 | [Poison Arrow](https://open.spotify.com/track/7abGerACQx9G1OBqHYFKAb) | [ABC](https://open.spotify.com/artist/2s79xe5F6eUQkjwjww27Fh) | [The Lexicon Of Love](https://open.spotify.com/album/1vkql5n4Vb9j5XG3yxOU66) | 3:24 |
-| 19 | [Dolce Vita](https://open.spotify.com/track/6AsF1pBjFMIEMXuA8JgRag) | [Ryan Paris](https://open.spotify.com/artist/3nRifdQMP5925XSkIN07oC) | [ZYX Italo Disco Collection](https://open.spotify.com/album/58tXa8CpjYSGAJpUEhgKsb) | 7:31 |
-| 20 | [Enjoy the Silence \- 2006 Remaster](https://open.spotify.com/track/1EjQRTG53jsinzk2xlVVJP) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Violator \(2006 Remaster\)](https://open.spotify.com/album/5g3Yi15plTSMaq6tYiuw8p) | 6:12 |
+| 19 | [Enjoy the Silence \- 2006 Remaster](https://open.spotify.com/track/1EjQRTG53jsinzk2xlVVJP) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Violator \(2006 Remaster\)](https://open.spotify.com/album/5g3Yi15plTSMaq6tYiuw8p) | 6:12 |
+| 20 | [Dolce Vita](https://open.spotify.com/track/6AsF1pBjFMIEMXuA8JgRag) | [Ryan Paris](https://open.spotify.com/artist/3nRifdQMP5925XSkIN07oC) | [ZYX Italo Disco Collection](https://open.spotify.com/album/58tXa8CpjYSGAJpUEhgKsb) | 7:31 |
 | 21 | [You're a Woman](https://open.spotify.com/track/7J5B4k0AT8KIoV5KiUa4o7) | [Bad Boys Blue](https://open.spotify.com/artist/6OXILsPD4WNJ7XiGMAkCWa) | [Hot Girls, Bad Boys](https://open.spotify.com/album/20Al9Br3ICD73ni3WuhA9Y) | 5:21 |
 | 22 | [Sounds Like a Melody \- 2019 Remaster](https://open.spotify.com/track/4yDCTzaFfr7YOuYKpwgidL) | [Alphaville](https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX) | [Forever Young \(Super Deluxe Edition; 2019 Remaster\)](https://open.spotify.com/album/1BAmE3bdBnxej0umzyHQ5x) | 4:46 |
 | 23 | [Ladies Night](https://open.spotify.com/track/2uKJxjqcFu2Pr2CEsGGYJa) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Ladies' Night](https://open.spotify.com/album/0zK7P6PLhBU02U9Tc98VSK) | 6:25 |
 | 24 | [Bakerman](https://open.spotify.com/track/6AxqU1NcIvnBC3W62TSk3n) | [Laid Back](https://open.spotify.com/artist/2OLmN3LLWtLF7zerL4VdaX) | [Good Vibes \- The Very Best of Laid Back](https://open.spotify.com/album/2PTte9WD2NqJzmbqNaDpa1) | 4:41 |
-| 25 | [The Safety Dance \- Extended Dance Version](https://open.spotify.com/track/2IqPRjJAcLvPqAEbnB2VJz) | [Men Without Hats](https://open.spotify.com/artist/34PLzyi7CdXUekiLHYyqXq) | [Rhythm Of Youth \(Expanded Edition\)](https://open.spotify.com/album/7EpYnc9mbn4dwQE7B9nnfz) | 4:38 |
-| 26 | [True](https://open.spotify.com/track/4q2lRiodoQnyFO65watkse) | [Spandau Ballet](https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv) | [The Twelve Inch Mixes](https://open.spotify.com/album/4CGIZczLp11pbF2HBvKehm) | 6:05 |
+| 25 | [True](https://open.spotify.com/track/4q2lRiodoQnyFO65watkse) | [Spandau Ballet](https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv) | [The Twelve Inch Mixes](https://open.spotify.com/album/4CGIZczLp11pbF2HBvKehm) | 6:05 |
+| 26 | [The Safety Dance \- Extended Dance Version](https://open.spotify.com/track/2IqPRjJAcLvPqAEbnB2VJz) | [Men Without Hats](https://open.spotify.com/artist/34PLzyi7CdXUekiLHYyqXq) | [Rhythm Of Youth \(Expanded Edition\)](https://open.spotify.com/album/7EpYnc9mbn4dwQE7B9nnfz) | 4:38 |
 | 27 | [Buffalo Stance](https://open.spotify.com/track/3XWgwgbWDI56mf1Wl3cLzb) | [Neneh Cherry](https://open.spotify.com/artist/3JxCEqL9zjKnDJgUhRuRJD) | [Raw Like Sushi](https://open.spotify.com/album/2AyJzvREOnlnYhaBzF1Kxp) | 5:42 |
 | 28 | [Oh Yeah \- Remastered 2005](https://open.spotify.com/track/1iOHLlEsMbgJfYBFWy4TjG) | [Yello](https://open.spotify.com/artist/3xgj17ZsWxxU86S4qlWvOi) | [Stella \(Remastered 2005\)](https://open.spotify.com/album/3Df3vYTyJKTZobnCvNUNMC) | 3:05 |
 | 29 | [Music and Lights](https://open.spotify.com/track/3kEA66ZM9mCxwhynOxgsLh) | [Imagination](https://open.spotify.com/artist/2CkhxuagMCG9uvlbKm5G3m) | [In the Heat of the Night](https://open.spotify.com/album/7FbF8LUVnfmJWkzYfBrvt6) | 5:22 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 | 79 | [She Blinded Me With Science \- Extended Version](https://open.spotify.com/track/1vORDwbaam9l3Z7OMXdzhw) | [Thomas Dolby](https://open.spotify.com/artist/2Uz58cSxlJgefDaSikxYQ7) | [12x12 Original Remixes](https://open.spotify.com/album/7lrciFpBNouYjer14LGVwO) | 5:10 |
 | 80 | [I Feel Love / Johnny Remember Me](https://open.spotify.com/track/5HgqQJMn2cwVCP34GuwQHc) | [Bronski Beat](https://open.spotify.com/artist/2wpWOzQE5TpA0dVnh5YD08) | [The Very Best Of Jimmy Somerville, Bronski Beat & The Communards](https://open.spotify.com/album/1B167z084g8Q52jRazKLVZ) | 5:46 |
 
-Snapshot ID: `MTY1NDg2MjY5NCwwMDAwMDAwMDc4OTkwOGVmMzU0YjEwMmUwMDlmMjJmOTFlOGUwY2E1`
+Snapshot ID: `MTY1NDg2MjY5NCwwMDAwMDAwMGZkMGM2MTQ1ZWI1OGZkZGU5MDM4NDU1MDZkZTdhZDEw`

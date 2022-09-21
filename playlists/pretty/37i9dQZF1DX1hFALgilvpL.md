@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hFALgilvpL.md) - [plain]
 
 > Cuddle up and relax with these country tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,588 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,694 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hFALgilvpL.md) - [plain]
 | 39 | [Good as You](https://open.spotify.com/track/19kUPdKTp85q9RZNwaXM15) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Experiment Extended](https://open.spotify.com/album/4yf4bD1iM96hBH6aIc6SaF) | 3:12 |
 | 40 | [Take Your Time](https://open.spotify.com/track/6DEaND0SHv3sC11xobZLiy) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Montevallo](https://open.spotify.com/album/0V7c0hnrLUFJyHNtjiAT2E) | 4:03 |
 | 41 | [It Goes Like This](https://open.spotify.com/track/6GsAD8PgHxmEuIPTG8GP3M) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [It Goes Like This](https://open.spotify.com/album/2ZHYOFW5giX6a4n5eqTnUB) | 3:06 |
-| 42 | [American Honey](https://open.spotify.com/track/4xInIiKipU1mtUogJ3ZdYr) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Need You Now](https://open.spotify.com/album/3hnGcNi8oqGdwTm3CeniFA) | 3:44 |
-| 43 | [Better Man](https://open.spotify.com/track/23TxRN09aR1RB0G0tFoT0b) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [The Breaker](https://open.spotify.com/album/2aQOzEjLzPkffXDwREXdAh) | 4:23 |
+| 42 | [Better Man](https://open.spotify.com/track/23TxRN09aR1RB0G0tFoT0b) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [The Breaker](https://open.spotify.com/album/2aQOzEjLzPkffXDwREXdAh) | 4:23 |
+| 43 | [American Honey](https://open.spotify.com/track/4xInIiKipU1mtUogJ3ZdYr) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Need You Now](https://open.spotify.com/album/3hnGcNi8oqGdwTm3CeniFA) | 3:44 |
 | 44 | [Giving You Up](https://open.spotify.com/track/3f3VeiJIaWOZcmkJpTqxyj) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Giving You Up](https://open.spotify.com/album/5kb55Z7no2v4AJjBGL2h6p) | 3:50 |
 | 45 | [From the Ground Up](https://open.spotify.com/track/0lQJBl9YEsoMtE8D4yTE9g) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Obsessed](https://open.spotify.com/album/4rQa0t2qWm1MNPy7DNEUHB) | 4:13 |
 | 46 | [Best Shot](https://open.spotify.com/track/3VamXAvVMczcS2PTYtPfBQ) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Mercury Lane](https://open.spotify.com/album/7EpN0TPMSMqGKVjIEzc0Ts) | 3:15 |
 | 47 | [Burning House](https://open.spotify.com/track/2zhk0kypGeOPsaaZcjyc14) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Untamed](https://open.spotify.com/album/5KlzsMAsw5NujrJVQtjQAB) | 3:51 |
 | 48 | [Talladega](https://open.spotify.com/track/1TKlBK9cSrM5u4CiL4SETS) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [The Outsiders](https://open.spotify.com/album/7Ad3sRoSJmRcjtd5Ce27Oj) | 4:22 |
-| 49 | [All On Me](https://open.spotify.com/track/2mfahQ0EaaZWq4cFNg6A1o) | [Devin Dawson](https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu) | [Dark Horse](https://open.spotify.com/album/0veZCRGPKNnX0ufHxiUnTM) | 3:44 |
-| 50 | [Long Haul](https://open.spotify.com/track/7nERlpaH7QghaO7jC60Xtu) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn) | [Coyote Cry](https://open.spotify.com/album/5uQt9PVJIZvYjOL43EkOId) | 3:51 |
+| 49 | [Long Haul](https://open.spotify.com/track/7nERlpaH7QghaO7jC60Xtu) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn) | [Coyote Cry](https://open.spotify.com/album/5uQt9PVJIZvYjOL43EkOId) | 3:51 |
+| 50 | [All On Me](https://open.spotify.com/track/2mfahQ0EaaZWq4cFNg6A1o) | [Devin Dawson](https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu) | [Dark Horse](https://open.spotify.com/album/0veZCRGPKNnX0ufHxiUnTM) | 3:44 |
 
-Snapshot ID: `MTY1OTA2NzI2MCwwMDAwMDAwMDlmNjYyZGFlZmE1MGQxNDEzZWUwZDg4ZWM5Y2ZiM2Rl`
+Snapshot ID: `MTY1OTA2NzI2MCwwMDAwMDAwMDRhNDhhMzA2NDk4ZDZiZGE4YWI4M2Y2MGIwNzljY2Mx`

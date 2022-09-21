@@ -1,12 +1,12 @@
 {
   "description": "Den perfekta mixade spellistan f\u00f6r tr\u00e4ningspasset.",
-  "num_followers": 157165,
+  "num_followers": 157171,
   "original_name": "Tr\u00e4ning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Nzg5NDI0NCwwMDAwMDAwMDEzZDk0ODczNzc3YTI0ZjEyNmZlYjU0ZWRhOTlmNjNk",
+  "snapshot_id": "MTY1Nzg5NDI0NCwwMDAwMDAwMDFiODJmYzQwMDE5YjQyM2IxNjEzZWMxYWE5YTFlMmZi",
   "tracks": [
     {
       "added_at": "2022-07-15 14:10:44",
@@ -247,6 +247,26 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
+        "name": "Sweater Weather",
+        "url": "https://open.spotify.com/album/3cPk3K7p6FB7OVEBoNxuW2"
+      },
+      "artists": [
+        {
+          "name": "Gaullin",
+          "url": "https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K"
+        },
+        {
+          "name": "Julian Perretta",
+          "url": "https://open.spotify.com/artist/2JLl6rSFWx9YuSPLcLhkAG"
+        }
+      ],
+      "duration_ms": 171133,
+      "name": "Sweater Weather",
+      "url": "https://open.spotify.com/track/6siDDghVE7fxel5o7fE4OF"
+    },
+    {
+      "added_at": "2022-07-15 14:10:44",
+      "album": {
         "name": "Close Your Eyes",
         "url": "https://open.spotify.com/album/0PhTTyRWpJVlg4F5RC0xmE"
       },
@@ -267,26 +287,6 @@
       "duration_ms": 160794,
       "name": "Close Your Eyes",
       "url": "https://open.spotify.com/track/7N06jo3EnV792VFaG8vuW6"
-    },
-    {
-      "added_at": "2022-07-15 14:10:44",
-      "album": {
-        "name": "Sweater Weather",
-        "url": "https://open.spotify.com/album/3cPk3K7p6FB7OVEBoNxuW2"
-      },
-      "artists": [
-        {
-          "name": "Gaullin",
-          "url": "https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K"
-        },
-        {
-          "name": "Julian Perretta",
-          "url": "https://open.spotify.com/artist/2JLl6rSFWx9YuSPLcLhkAG"
-        }
-      ],
-      "duration_ms": 171133,
-      "name": "Sweater Weather",
-      "url": "https://open.spotify.com/track/6siDDghVE7fxel5o7fE4OF"
     },
     {
       "added_at": "2022-07-15 14:10:44",
@@ -571,6 +571,22 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
+        "name": "Peru",
+        "url": "https://open.spotify.com/album/1wGjhakHpFEE3uPqGViTgI"
+      },
+      "artists": [
+        {
+          "name": "Tungevaag",
+          "url": "https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck"
+        }
+      ],
+      "duration_ms": 147656,
+      "name": "Peru",
+      "url": "https://open.spotify.com/track/7t3cEJpYDi8tzNmBtxeHUj"
+    },
+    {
+      "added_at": "2022-07-15 14:10:44",
+      "album": {
         "name": "Voices In My Head",
         "url": "https://open.spotify.com/album/2dzWfg2MZA2F2SciTuedG2"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 162983,
       "name": "Voices In My Head",
       "url": "https://open.spotify.com/track/5TPWOzPTIxCjqfqORrzoiO"
-    },
-    {
-      "added_at": "2022-07-15 14:10:44",
-      "album": {
-        "name": "Peru",
-        "url": "https://open.spotify.com/album/1wGjhakHpFEE3uPqGViTgI"
-      },
-      "artists": [
-        {
-          "name": "Tungevaag",
-          "url": "https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck"
-        }
-      ],
-      "duration_ms": 147656,
-      "name": "Peru",
-      "url": "https://open.spotify.com/track/7t3cEJpYDi8tzNmBtxeHUj"
     },
     {
       "added_at": "2022-07-15 14:10:44",
@@ -1175,6 +1175,26 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
+        "name": "No One Dies From Love (220 KID Remix)",
+        "url": "https://open.spotify.com/album/1GtfedQBKMYZioLiv1LzuZ"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        },
+        {
+          "name": "220 KID",
+          "url": "https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs"
+        }
+      ],
+      "duration_ms": 186180,
+      "name": "No One Dies From Love (220 KID Remix)",
+      "url": "https://open.spotify.com/track/0FDYLzgHnQ0LUUm1n6kUft"
+    },
+    {
+      "added_at": "2022-07-15 14:10:44",
+      "album": {
         "name": "Te Bot\u00e9",
         "url": "https://open.spotify.com/album/24tx57L8SkaN4SPUattbZI"
       },
@@ -1195,26 +1215,6 @@
       "duration_ms": 136500,
       "name": "Te Bot\u00e9",
       "url": "https://open.spotify.com/track/3WK855oWM0YXIWKqkIwK6U"
-    },
-    {
-      "added_at": "2022-07-15 14:10:44",
-      "album": {
-        "name": "No One Dies From Love (220 KID Remix)",
-        "url": "https://open.spotify.com/album/1GtfedQBKMYZioLiv1LzuZ"
-      },
-      "artists": [
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        },
-        {
-          "name": "220 KID",
-          "url": "https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs"
-        }
-      ],
-      "duration_ms": 186180,
-      "name": "No One Dies From Love (220 KID Remix)",
-      "url": "https://open.spotify.com/track/0FDYLzgHnQ0LUUm1n6kUft"
     },
     {
       "added_at": "2022-07-15 14:10:44",
@@ -1367,30 +1367,6 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
-        "name": "Bruk It Down (feat. TxTHEWAY)",
-        "url": "https://open.spotify.com/album/696wZWXfscdFjxQxK06WgP"
-      },
-      "artists": [
-        {
-          "name": "KSHMR",
-          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
-        },
-        {
-          "name": "Sak Noel",
-          "url": "https://open.spotify.com/artist/15jrieCvf3EklAScnD9kKl"
-        },
-        {
-          "name": "TxTHEWAY",
-          "url": "https://open.spotify.com/artist/1G8r1xxQVLm8AXRI2iohhe"
-        }
-      ],
-      "duration_ms": 136981,
-      "name": "Bruk It Down (feat. TxTHEWAY)",
-      "url": "https://open.spotify.com/track/04J03yanQCmSuigan5Y0cM"
-    },
-    {
-      "added_at": "2022-07-15 14:10:44",
-      "album": {
         "name": "Wanna Go",
         "url": "https://open.spotify.com/album/2XrgEnXG5bxZhEpAItTzm4"
       },
@@ -1411,6 +1387,30 @@
       "duration_ms": 148200,
       "name": "Wanna Go",
       "url": "https://open.spotify.com/track/40L4n2A2AkMZGrTcEmS10x"
+    },
+    {
+      "added_at": "2022-07-15 14:10:44",
+      "album": {
+        "name": "Bruk It Down (feat. TxTHEWAY)",
+        "url": "https://open.spotify.com/album/696wZWXfscdFjxQxK06WgP"
+      },
+      "artists": [
+        {
+          "name": "KSHMR",
+          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
+        },
+        {
+          "name": "Sak Noel",
+          "url": "https://open.spotify.com/artist/15jrieCvf3EklAScnD9kKl"
+        },
+        {
+          "name": "TxTHEWAY",
+          "url": "https://open.spotify.com/artist/1G8r1xxQVLm8AXRI2iohhe"
+        }
+      ],
+      "duration_ms": 136981,
+      "name": "Bruk It Down (feat. TxTHEWAY)",
+      "url": "https://open.spotify.com/track/04J03yanQCmSuigan5Y0cM"
     },
     {
       "added_at": "2022-07-15 14:10:44",

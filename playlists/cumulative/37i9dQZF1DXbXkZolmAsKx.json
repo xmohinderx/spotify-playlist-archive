@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "The Unfolding",
+        "url": "https://open.spotify.com/album/6fePA0wognv8fQ9mPed4YQ"
+      },
+      "artists": [
+        {
+          "name": "Chequerboard",
+          "url": "https://open.spotify.com/artist/4xjrTN2tw4VsS7mlBdSCmr"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 453700,
+      "name": "A Field of Night",
+      "url": "https://open.spotify.com/track/0YeA95qfyzG5jhm8M5XTpp"
+    },
+    {
+      "album": {
         "name": "For Those Of You Who Have Never (And Also Those Who Have)",
         "url": "https://open.spotify.com/album/57o6rhS5v8qPeRPzrNRWF9"
       },
@@ -266,6 +284,28 @@
     },
     {
       "album": {
+        "name": "Small Lights",
+        "url": "https://open.spotify.com/album/5TzC5ApNzngIspcRD7heNL"
+      },
+      "artists": [
+        {
+          "name": "Rhucle",
+          "url": "https://open.spotify.com/artist/0y0cl3t1UlQf0730g7Zjkl"
+        },
+        {
+          "name": "No Death",
+          "url": "https://open.spotify.com/artist/75HAJoZ2A5TotYPFSYgCnP"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Ceramic Bubbles - No Death Remix",
+      "url": "https://open.spotify.com/track/0efbgQ82IjFjgDsr5vBckW"
+    },
+    {
+      "album": {
         "name": "Forgotten Hill",
         "url": "https://open.spotify.com/album/53fSlFeav0ih0YWUU2M1Kf"
       },
@@ -483,6 +523,24 @@
       "duration_ms": 227458,
       "name": "Faded Earth",
       "url": "https://open.spotify.com/track/5d6YkxTsmw6isMtqsw8vzh"
+    },
+    {
+      "album": {
+        "name": "Talk To The Sea",
+        "url": "https://open.spotify.com/album/2Ug1g1ufvv4D4K4iooE3wK"
+      },
+      "artists": [
+        {
+          "name": "Gigi Masin",
+          "url": "https://open.spotify.com/artist/0dCVhSVXD9JhJh2bTySJZx"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199000,
+      "name": "First Time Ruth Saw The Sea - Original Mix",
+      "url": "https://open.spotify.com/track/1986yd9X1YNziEDbpVBn9U"
     },
     {
       "album": {
@@ -1380,6 +1438,24 @@
     },
     {
       "album": {
+        "name": "Fire Light",
+        "url": "https://open.spotify.com/album/2fj4Z9IkqS9SK3lOeeHrY3"
+      },
+      "artists": [
+        {
+          "name": "Darshan Ambient",
+          "url": "https://open.spotify.com/artist/711EaFigHKV5CTbjIYWswu"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207529,
+      "name": "So Close",
+      "url": "https://open.spotify.com/track/3kZKCUgtVv8NuzgobobYk9"
+    },
+    {
+      "album": {
         "name": "chapter",
         "url": "https://open.spotify.com/album/6ngt1QPHyq3rCaYdffI03e"
       },
@@ -1543,6 +1619,24 @@
       "duration_ms": 556007,
       "name": "Sunlight of Oneness",
       "url": "https://open.spotify.com/track/12XE6yM8VZhcNq3Qx5lIEI"
+    },
+    {
+      "album": {
+        "name": "Fire Light",
+        "url": "https://open.spotify.com/album/2fj4Z9IkqS9SK3lOeeHrY3"
+      },
+      "artists": [
+        {
+          "name": "Darshan Ambient",
+          "url": "https://open.spotify.com/artist/711EaFigHKV5CTbjIYWswu"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249758,
+      "name": "Sunrise on the Mississippi",
+      "url": "https://open.spotify.com/track/5CUVMOya16zes7XHR8Kja7"
     },
     {
       "album": {

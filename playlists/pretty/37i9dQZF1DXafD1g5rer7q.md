@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafD1g5rer7q.md) - [plain]
 
 > Create the new vibe by mixing in the retro sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 305,150 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 305,279 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafD1g5rer7q.md) - [plain]
 | 37 | [On My Mind](https://open.spotify.com/track/5lXY6PTuWXOludKy4zDQwM) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [On My Mind](https://open.spotify.com/album/2JvNCktHSlDwB9PhNYfOEq) | 3:09 |
 | 38 | [Hear Me Tonight](https://open.spotify.com/track/0v8OKUrqZGoEbgEUXScRSQ) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [THRDL!FE](https://open.spotify.com/artist/04O00MEN0lHEKWTwRjb1nS) | [Hear Me Tonight](https://open.spotify.com/album/2kJHrTUZ21XbtKO9fEFzhG) | 3:08 |
 | 39 | [The Mack](https://open.spotify.com/track/2fUZ3aMp8amSaV0mp8s6rQ) | [Nevada](https://open.spotify.com/artist/15NtJjjHRFybdNSMyM9smT), [Mark Morrison](https://open.spotify.com/artist/6V3F8MZrOKdT9fU686ybE9), [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL) | [The Mack](https://open.spotify.com/album/38E9SU3aWcymyFDmyJwaGn) | 2:47 |
-| 40 | [More Than Friends](https://open.spotify.com/track/53SnCRcGrB2UCqNGyYZhJD) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [More Than Friends](https://open.spotify.com/album/6A764hvsFQK48oNsYo7q9M) | 2:20 |
-| 41 | [Make Your Move](https://open.spotify.com/track/4cuJbDiraxt9AsEeevmFuQ) | [Anton Powers](https://open.spotify.com/artist/7h7ahzbTkbAFsshWJ7fOrc), [Redondo](https://open.spotify.com/artist/3T0HSMgUpuH1hXbT1JPwQF) | [Make Your Move](https://open.spotify.com/album/0MuTtOd6C9QlO1iWiIlXgq) | 2:48 |
+| 40 | [Make Your Move](https://open.spotify.com/track/4cuJbDiraxt9AsEeevmFuQ) | [Anton Powers](https://open.spotify.com/artist/7h7ahzbTkbAFsshWJ7fOrc), [Redondo](https://open.spotify.com/artist/3T0HSMgUpuH1hXbT1JPwQF) | [Make Your Move](https://open.spotify.com/album/0MuTtOd6C9QlO1iWiIlXgq) | 2:48 |
+| 41 | [More Than Friends](https://open.spotify.com/track/53SnCRcGrB2UCqNGyYZhJD) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [More Than Friends](https://open.spotify.com/album/6A764hvsFQK48oNsYo7q9M) | 2:20 |
 | 42 | [Havana](https://open.spotify.com/track/2cMH4ENPzIeKqXS0PbKLoY) | [Prezioso](https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr), [Laurell](https://open.spotify.com/artist/69Pm1OWlxk1tbYphlkcKHR) | [Havana](https://open.spotify.com/album/5RK7gHsV6IJ54NBJxan4fk) | 2:40 |
 | 43 | [Que Calor \(feat\. J Balvin & El Alfa\)](https://open.spotify.com/track/1RKZvaLj3UPhGjZkaIrFm7) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Que Calor \(feat\. J Balvin & El Alfa\)](https://open.spotify.com/album/5AKSUA3pizhoVgfjW1ijVC) | 2:49 |
 | 44 | [Weekend](https://open.spotify.com/track/6G3t9WroSJiK5S66umOfIA) | [Mufasa & Hypeman](https://open.spotify.com/artist/4L2dV3zY7RmkeiNO035Fi0), [Dopamine](https://open.spotify.com/artist/3Edve4VIATi0OZngclQlkN) | [Weekend](https://open.spotify.com/album/4VZHXgN7AtOJAmUysU6SxF) | 2:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafD1g5rer7q.md) - [plain]
 | 49 | [Real Love x Sunchyme \(feat\. Jess Glynne\) \[VIP Mash\-up\]](https://open.spotify.com/track/17fPLuA4TttWwfNcf833J1) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Dario G](https://open.spotify.com/artist/3Eo78i1MPfle0XVjMvia8A), [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [Real Love x Sunchyme \(feat\. Jess Glynne\) \[VIP Mash\-up\]](https://open.spotify.com/album/47ZID0LqufsflsEdOtWk5H) | 3:39 |
 | 50 | [Split \(Only U\)](https://open.spotify.com/track/1Q4jb2UjtWUDUojHsB8mLY) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [Split \(Only U\)](https://open.spotify.com/album/0WTYsW1iJz4NQqdclJ4gcd) | 4:16 |
 
-Snapshot ID: `MTY2MzU2MTc1MiwwMDAwMDAwMGI0ODBjNTI0ZWM0ZmIyYzQ1ZTIxYWMyYTdkODgwYjMz`
+Snapshot ID: `MTY2MzU2MTc1MiwwMDAwMDAwMDVhMTViZWY0NTUxYmRlOGE3OTIwYzE2MjYzODc3MWY5`

@@ -1,12 +1,12 @@
 {
   "description": "como en una nube. Bedroom pop vibes featuring Clara Yolks.",
-  "num_followers": 32852,
+  "num_followers": 32929,
   "original_name": "\u2728 dreamy \u2728",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjA5NDgwMCwwMDAwMDAwMDEyYjczOTY2MjU4YjM2YWViOGJlYTBjNjZmYzMxYjlm",
+  "snapshot_id": "MTY2MjA5NDgwMCwwMDAwMDAwMDc2YTk5NmRmNjgwZjU4NWRjZGZjNjg2OWU1ZmE2NmYz",
   "tracks": [
     {
       "added_at": "2022-09-02 05:00:00",
@@ -527,6 +527,22 @@
     {
       "added_at": "2022-09-02 05:00:00",
       "album": {
+        "name": "como si nada",
+        "url": "https://open.spotify.com/album/6VbPiVnWX1EaMKtOuuVr9e"
+      },
+      "artists": [
+        {
+          "name": "Kora",
+          "url": "https://open.spotify.com/artist/3ZxaYY2eYNWxg8v1s2k6JD"
+        }
+      ],
+      "duration_ms": 231568,
+      "name": "como si nada",
+      "url": "https://open.spotify.com/track/4hMKS6gf79eVQ70AkAXyCE"
+    },
+    {
+      "added_at": "2022-09-02 05:00:00",
+      "album": {
         "name": "Pinta y Colorea",
         "url": "https://open.spotify.com/album/2WfExJBJdOzCEKTksL9DuI"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 257170,
       "name": "Cosas raras (feat. Pimp Flaco)",
       "url": "https://open.spotify.com/track/6b7U0cQstqjoRLA2Xpd3Dg"
-    },
-    {
-      "added_at": "2022-09-02 05:00:00",
-      "album": {
-        "name": "como si nada",
-        "url": "https://open.spotify.com/album/6VbPiVnWX1EaMKtOuuVr9e"
-      },
-      "artists": [
-        {
-          "name": "Kora",
-          "url": "https://open.spotify.com/artist/3ZxaYY2eYNWxg8v1s2k6JD"
-        }
-      ],
-      "duration_ms": 231568,
-      "name": "como si nada",
-      "url": "https://open.spotify.com/track/4hMKS6gf79eVQ70AkAXyCE"
     },
     {
       "added_at": "2022-09-02 05:00:00",
@@ -615,22 +615,6 @@
     {
       "added_at": "2022-09-02 05:00:00",
       "album": {
-        "name": "Idiota",
-        "url": "https://open.spotify.com/album/3LCaWH5lNjftW6IHgxV4sT"
-      },
-      "artists": [
-        {
-          "name": "Manu Beker",
-          "url": "https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH"
-        }
-      ],
-      "duration_ms": 179959,
-      "name": "Idiota",
-      "url": "https://open.spotify.com/track/3bHZsUnYWWjDgAbBK9KuKa"
-    },
-    {
-      "added_at": "2022-09-02 05:00:00",
-      "album": {
         "name": "tdbn (Deluxe)",
         "url": "https://open.spotify.com/album/7A0d7VPtIDRo5kLEiZyghH"
       },
@@ -647,6 +631,22 @@
     {
       "added_at": "2022-09-02 05:00:00",
       "album": {
+        "name": "Idiota",
+        "url": "https://open.spotify.com/album/3LCaWH5lNjftW6IHgxV4sT"
+      },
+      "artists": [
+        {
+          "name": "Manu Beker",
+          "url": "https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH"
+        }
+      ],
+      "duration_ms": 179959,
+      "name": "Idiota",
+      "url": "https://open.spotify.com/track/3bHZsUnYWWjDgAbBK9KuKa"
+    },
+    {
+      "added_at": "2022-09-02 05:00:00",
+      "album": {
         "name": "Pens\u00e1ndote",
         "url": "https://open.spotify.com/album/6wygbshVymM5s9O72bQoXv"
       },
@@ -659,38 +659,6 @@
       "duration_ms": 147300,
       "name": "Pens\u00e1ndote",
       "url": "https://open.spotify.com/track/27t3JKhBGtztVLquHwn6NX"
-    },
-    {
-      "added_at": "2022-09-02 05:00:00",
-      "album": {
-        "name": "Polaroid Paradise",
-        "url": "https://open.spotify.com/album/10NBQIh2ZteCveetOTwx01"
-      },
-      "artists": [
-        {
-          "name": "Sexy Pigeon",
-          "url": "https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Unstoppable",
-      "url": "https://open.spotify.com/track/47pbvBtWtt7aMHENsw8ehQ"
-    },
-    {
-      "added_at": "2022-09-02 05:00:00",
-      "album": {
-        "name": "Ojos",
-        "url": "https://open.spotify.com/album/1aubTSnt8NNqx2mYBLNhsX"
-      },
-      "artists": [
-        {
-          "name": "Montufar",
-          "url": "https://open.spotify.com/artist/6BuzxLQYLRoxxjuD8iSx1t"
-        }
-      ],
-      "duration_ms": 222099,
-      "name": "Ojos",
-      "url": "https://open.spotify.com/track/15WodMbVgXo5jVuGtYztjp"
     },
     {
       "added_at": "2022-09-02 05:00:00",
@@ -723,6 +691,38 @@
       "duration_ms": 126227,
       "name": "Espinas De Rosas",
       "url": "https://open.spotify.com/track/1mOm59T1dzILITuOHfnkp1"
+    },
+    {
+      "added_at": "2022-09-02 05:00:00",
+      "album": {
+        "name": "Ojos",
+        "url": "https://open.spotify.com/album/1aubTSnt8NNqx2mYBLNhsX"
+      },
+      "artists": [
+        {
+          "name": "Montufar",
+          "url": "https://open.spotify.com/artist/6BuzxLQYLRoxxjuD8iSx1t"
+        }
+      ],
+      "duration_ms": 222099,
+      "name": "Ojos",
+      "url": "https://open.spotify.com/track/15WodMbVgXo5jVuGtYztjp"
+    },
+    {
+      "added_at": "2022-09-02 05:00:00",
+      "album": {
+        "name": "Polaroid Paradise",
+        "url": "https://open.spotify.com/album/10NBQIh2ZteCveetOTwx01"
+      },
+      "artists": [
+        {
+          "name": "Sexy Pigeon",
+          "url": "https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Unstoppable",
+      "url": "https://open.spotify.com/track/47pbvBtWtt7aMHENsw8ehQ"
     },
     {
       "added_at": "2022-09-02 05:00:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2022-09-02 05:00:00",
       "album": {
-        "name": "1990",
-        "url": "https://open.spotify.com/album/3QstzFfkNiVxsgCyjCC7iS"
-      },
-      "artists": [
-        {
-          "name": "Sexy Pigeon",
-          "url": "https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U"
-        }
-      ],
-      "duration_ms": 100500,
-      "name": "1990",
-      "url": "https://open.spotify.com/track/4GZuIMVBPy6POYGa4rvhKz"
-    },
-    {
-      "added_at": "2022-09-02 05:00:00",
-      "album": {
         "name": "Amor Como Pu\u00f1al",
         "url": "https://open.spotify.com/album/1hD1UWONeqXqGrUXp07zzf"
       },
@@ -803,6 +787,38 @@
       "duration_ms": 181600,
       "name": "Amor Como Pu\u00f1al",
       "url": "https://open.spotify.com/track/0TJNfCB3eN9wEIdxZhrbO8"
+    },
+    {
+      "added_at": "2022-09-02 05:00:00",
+      "album": {
+        "name": "Nostalgia Pop",
+        "url": "https://open.spotify.com/album/3kNLywiQeiYFDuLOeJat5I"
+      },
+      "artists": [
+        {
+          "name": "RPLK",
+          "url": "https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g"
+        }
+      ],
+      "duration_ms": 96735,
+      "name": "No soy de aqu\u00ed",
+      "url": "https://open.spotify.com/track/3SgKzvkNojXk1l9nIRzqky"
+    },
+    {
+      "added_at": "2022-09-02 05:00:00",
+      "album": {
+        "name": "L\u00ednea Recta",
+        "url": "https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL"
+      },
+      "artists": [
+        {
+          "name": "Vale",
+          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
+        }
+      ],
+      "duration_ms": 207266,
+      "name": "Dulce Amargo",
+      "url": "https://open.spotify.com/track/6KcpZ7jPd0Rf58em3JNpeK"
     },
     {
       "added_at": "2022-09-02 05:00:00",
@@ -827,34 +843,18 @@
     {
       "added_at": "2022-09-02 05:00:00",
       "album": {
-        "name": "L\u00ednea Recta",
-        "url": "https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL"
+        "name": "Especial",
+        "url": "https://open.spotify.com/album/4FSNPjZJIRazbypUcTzIH3"
       },
       "artists": [
         {
-          "name": "Vale",
-          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
+          "name": "sailawway",
+          "url": "https://open.spotify.com/artist/7tg2hHygz0gM2dq5PrNH2q"
         }
       ],
-      "duration_ms": 207266,
-      "name": "Dulce Amargo",
-      "url": "https://open.spotify.com/track/6KcpZ7jPd0Rf58em3JNpeK"
-    },
-    {
-      "added_at": "2022-09-02 05:00:00",
-      "album": {
-        "name": "Nostalgia Pop",
-        "url": "https://open.spotify.com/album/3kNLywiQeiYFDuLOeJat5I"
-      },
-      "artists": [
-        {
-          "name": "RPLK",
-          "url": "https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g"
-        }
-      ],
-      "duration_ms": 96735,
-      "name": "No soy de aqu\u00ed",
-      "url": "https://open.spotify.com/track/3SgKzvkNojXk1l9nIRzqky"
+      "duration_ms": 242407,
+      "name": "Especial",
+      "url": "https://open.spotify.com/track/6M0iMWjgLJi6ndo5n0fCI8"
     },
     {
       "added_at": "2022-09-02 05:00:00",
@@ -875,18 +875,18 @@
     {
       "added_at": "2022-09-02 05:00:00",
       "album": {
-        "name": "Young",
-        "url": "https://open.spotify.com/album/25At4hX7SKuKb4jPtaGRmC"
+        "name": "Nunca Te Dejar\u00e9 Ir",
+        "url": "https://open.spotify.com/album/1Dck2luCLqrh6rudNBEkCv"
       },
       "artists": [
         {
-          "name": "Harmless",
-          "url": "https://open.spotify.com/artist/5dYGaoCO0iaUZKfl9K8Gtd"
+          "name": "Sexy Pigeon",
+          "url": "https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U"
         }
       ],
-      "duration_ms": 133714,
-      "name": "Young",
-      "url": "https://open.spotify.com/track/47VlZn29DoKGOL64qbqxvt"
+      "duration_ms": 114042,
+      "name": "Nunca Te Dejar\u00e9 Ir",
+      "url": "https://open.spotify.com/track/5Enzcachkod8O3ykRHUZLw"
     },
     {
       "added_at": "2022-09-02 05:00:00",
@@ -907,6 +907,22 @@
     {
       "added_at": "2022-09-02 05:00:00",
       "album": {
+        "name": "Young",
+        "url": "https://open.spotify.com/album/25At4hX7SKuKb4jPtaGRmC"
+      },
+      "artists": [
+        {
+          "name": "Harmless",
+          "url": "https://open.spotify.com/artist/5dYGaoCO0iaUZKfl9K8Gtd"
+        }
+      ],
+      "duration_ms": 133714,
+      "name": "Young",
+      "url": "https://open.spotify.com/track/47VlZn29DoKGOL64qbqxvt"
+    },
+    {
+      "added_at": "2022-09-02 05:00:00",
+      "album": {
         "name": "Moncler",
         "url": "https://open.spotify.com/album/10vp9TVLfS1ByCx0atI6x9"
       },
@@ -923,34 +939,22 @@
     {
       "added_at": "2022-09-02 05:00:00",
       "album": {
-        "name": "Especial",
-        "url": "https://open.spotify.com/album/4FSNPjZJIRazbypUcTzIH3"
+        "name": "Nada Mal",
+        "url": "https://open.spotify.com/album/05HWbis9WEawfsBCJPQiVb"
       },
       "artists": [
         {
-          "name": "sailawway",
-          "url": "https://open.spotify.com/artist/7tg2hHygz0gM2dq5PrNH2q"
-        }
-      ],
-      "duration_ms": 242407,
-      "name": "Especial",
-      "url": "https://open.spotify.com/track/6M0iMWjgLJi6ndo5n0fCI8"
-    },
-    {
-      "added_at": "2022-09-02 05:00:00",
-      "album": {
-        "name": "Nunca Te Dejar\u00e9 Ir",
-        "url": "https://open.spotify.com/album/1Dck2luCLqrh6rudNBEkCv"
-      },
-      "artists": [
+          "name": "Kimberley Tell",
+          "url": "https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka"
+        },
         {
-          "name": "Sexy Pigeon",
-          "url": "https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U"
+          "name": "mariagrep",
+          "url": "https://open.spotify.com/artist/6qW73GlY1wPnQ9zxIOYCzy"
         }
       ],
-      "duration_ms": 114042,
-      "name": "Nunca Te Dejar\u00e9 Ir",
-      "url": "https://open.spotify.com/track/5Enzcachkod8O3ykRHUZLw"
+      "duration_ms": 140952,
+      "name": "Nada Mal",
+      "url": "https://open.spotify.com/track/0cs0nlOhJUTks1eOKVRWyU"
     },
     {
       "added_at": "2022-09-02 05:00:00",
@@ -987,26 +991,6 @@
     {
       "added_at": "2022-09-02 05:00:00",
       "album": {
-        "name": "Nada Mal",
-        "url": "https://open.spotify.com/album/05HWbis9WEawfsBCJPQiVb"
-      },
-      "artists": [
-        {
-          "name": "Kimberley Tell",
-          "url": "https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka"
-        },
-        {
-          "name": "mariagrep",
-          "url": "https://open.spotify.com/artist/6qW73GlY1wPnQ9zxIOYCzy"
-        }
-      ],
-      "duration_ms": 140952,
-      "name": "Nada Mal",
-      "url": "https://open.spotify.com/track/0cs0nlOhJUTks1eOKVRWyU"
-    },
-    {
-      "added_at": "2022-09-02 05:00:00",
-      "album": {
         "name": "Bijoux",
         "url": "https://open.spotify.com/album/7gxGCdVpkDisfbfPfOD1qC"
       },
@@ -1035,6 +1019,38 @@
       "duration_ms": 192150,
       "name": "un sue\u00f1o raro",
       "url": "https://open.spotify.com/track/2ASygHwRhyPWzh6pdiuWYR"
+    },
+    {
+      "added_at": "2022-09-02 05:00:00",
+      "album": {
+        "name": "1990",
+        "url": "https://open.spotify.com/album/3QstzFfkNiVxsgCyjCC7iS"
+      },
+      "artists": [
+        {
+          "name": "Sexy Pigeon",
+          "url": "https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U"
+        }
+      ],
+      "duration_ms": 100500,
+      "name": "1990",
+      "url": "https://open.spotify.com/track/4GZuIMVBPy6POYGa4rvhKz"
+    },
+    {
+      "added_at": "2022-09-02 05:00:00",
+      "album": {
+        "name": "Como Nadie",
+        "url": "https://open.spotify.com/album/2pZIeoVraZI0B4xDAYwIZT"
+      },
+      "artists": [
+        {
+          "name": "Jard\u00edn",
+          "url": "https://open.spotify.com/artist/3heEUIjUbWkseFTU8s4zqP"
+        }
+      ],
+      "duration_ms": 227620,
+      "name": "Como Nadie",
+      "url": "https://open.spotify.com/track/5FnaEou98yODChyeRz8Tys"
     },
     {
       "added_at": "2022-09-02 05:00:00",
@@ -1087,22 +1103,6 @@
     {
       "added_at": "2022-09-02 05:00:00",
       "album": {
-        "name": "Polaroid Paradise",
-        "url": "https://open.spotify.com/album/10NBQIh2ZteCveetOTwx01"
-      },
-      "artists": [
-        {
-          "name": "Sexy Pigeon",
-          "url": "https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U"
-        }
-      ],
-      "duration_ms": 110175,
-      "name": "Never Felt This Before",
-      "url": "https://open.spotify.com/track/6wlwBbeNhohbrPfCxRGBYe"
-    },
-    {
-      "added_at": "2022-09-02 05:00:00",
-      "album": {
         "name": "Caf\u00e9",
         "url": "https://open.spotify.com/album/4xWKfkBOyOca4gEy1Vvd7g"
       },
@@ -1119,38 +1119,18 @@
     {
       "added_at": "2022-09-02 05:00:00",
       "album": {
-        "name": "Como Nadie",
-        "url": "https://open.spotify.com/album/2pZIeoVraZI0B4xDAYwIZT"
+        "name": "Polaroid Paradise",
+        "url": "https://open.spotify.com/album/10NBQIh2ZteCveetOTwx01"
       },
       "artists": [
         {
-          "name": "Jard\u00edn",
-          "url": "https://open.spotify.com/artist/3heEUIjUbWkseFTU8s4zqP"
+          "name": "Sexy Pigeon",
+          "url": "https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U"
         }
       ],
-      "duration_ms": 227620,
-      "name": "Como Nadie",
-      "url": "https://open.spotify.com/track/5FnaEou98yODChyeRz8Tys"
-    },
-    {
-      "added_at": "2022-09-02 05:00:00",
-      "album": {
-        "name": "Para Hacernos Bien",
-        "url": "https://open.spotify.com/album/5EfzUHUPMdgbWZft0Lr91A"
-      },
-      "artists": [
-        {
-          "name": "Ferraz",
-          "url": "https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2"
-        },
-        {
-          "name": "erihka",
-          "url": "https://open.spotify.com/artist/68pEaQXF6WYi0PWfq1LyYd"
-        }
-      ],
-      "duration_ms": 190806,
-      "name": "Para Hacernos Bien",
-      "url": "https://open.spotify.com/track/55GecPCH7Vvl9j36euFxNu"
+      "duration_ms": 110175,
+      "name": "Never Felt This Before",
+      "url": "https://open.spotify.com/track/6wlwBbeNhohbrPfCxRGBYe"
     },
     {
       "added_at": "2022-09-02 05:00:00",
@@ -1175,6 +1155,26 @@
     {
       "added_at": "2022-09-02 05:00:00",
       "album": {
+        "name": "Para Hacernos Bien",
+        "url": "https://open.spotify.com/album/5EfzUHUPMdgbWZft0Lr91A"
+      },
+      "artists": [
+        {
+          "name": "Ferraz",
+          "url": "https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2"
+        },
+        {
+          "name": "erihka",
+          "url": "https://open.spotify.com/artist/68pEaQXF6WYi0PWfq1LyYd"
+        }
+      ],
+      "duration_ms": 190806,
+      "name": "Para Hacernos Bien",
+      "url": "https://open.spotify.com/track/55GecPCH7Vvl9j36euFxNu"
+    },
+    {
+      "added_at": "2022-09-02 05:00:00",
+      "album": {
         "name": "Una Sola Vez",
         "url": "https://open.spotify.com/album/4WsPV4Bh44VtunOPOeYbmT"
       },
@@ -1187,22 +1187,6 @@
       "duration_ms": 256907,
       "name": "Una Sola Vez",
       "url": "https://open.spotify.com/track/6ppst2BmCySRxbPRIVSrfX"
-    },
-    {
-      "added_at": "2022-09-02 05:00:00",
-      "album": {
-        "name": "D\u00ed Que No",
-        "url": "https://open.spotify.com/album/03dEcuGrRyypQTCtCHNXVh"
-      },
-      "artists": [
-        {
-          "name": "Celest",
-          "url": "https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl"
-        }
-      ],
-      "duration_ms": 235066,
-      "name": "D\u00ed Que No",
-      "url": "https://open.spotify.com/track/6oLxwWMuLrfFpOYQBW0ZS0"
     },
     {
       "added_at": "2022-09-02 05:00:00",
@@ -1223,6 +1207,22 @@
       "duration_ms": 208276,
       "name": "\u00c1mbar",
       "url": "https://open.spotify.com/track/5xfqvQKlmZwC6aGbsW95w6"
+    },
+    {
+      "added_at": "2022-09-02 05:00:00",
+      "album": {
+        "name": "D\u00ed Que No",
+        "url": "https://open.spotify.com/album/03dEcuGrRyypQTCtCHNXVh"
+      },
+      "artists": [
+        {
+          "name": "Celest",
+          "url": "https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl"
+        }
+      ],
+      "duration_ms": 235066,
+      "name": "D\u00ed Que No",
+      "url": "https://open.spotify.com/track/6oLxwWMuLrfFpOYQBW0ZS0"
     },
     {
       "added_at": "2022-09-02 05:00:00",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2022-09-02 05:00:00",
       "album": {
-        "name": "Laurel",
-        "url": "https://open.spotify.com/album/5jxjVPBCWVqwnZI0keIMYG"
-      },
-      "artists": [
-        {
-          "name": "Chini.png",
-          "url": "https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz"
-        }
-      ],
-      "duration_ms": 313885,
-      "name": "Laurel",
-      "url": "https://open.spotify.com/track/37YyT8i9em5eFScILi8Pcy"
-    },
-    {
-      "added_at": "2022-09-02 05:00:00",
-      "album": {
         "name": "Tiempo Compartido",
         "url": "https://open.spotify.com/album/75nbafNyS33ripWC6dOXKz"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 343413,
       "name": "Tiempo Compartido",
       "url": "https://open.spotify.com/track/5ms50lUojH8Ft48znLxsfF"
+    },
+    {
+      "added_at": "2022-09-02 05:00:00",
+      "album": {
+        "name": "Laurel",
+        "url": "https://open.spotify.com/album/5jxjVPBCWVqwnZI0keIMYG"
+      },
+      "artists": [
+        {
+          "name": "Chini.png",
+          "url": "https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz"
+        }
+      ],
+      "duration_ms": 313885,
+      "name": "Laurel",
+      "url": "https://open.spotify.com/track/37YyT8i9em5eFScILi8Pcy"
     }
   ],
   "unique_name": "\u2728 dreamy \u2728",

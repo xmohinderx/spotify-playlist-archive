@@ -1,12 +1,12 @@
 {
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
-  "num_followers": 161276,
+  "num_followers": 161288,
   "original_name": "Nordic Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY3NDQwMCwwMDAwMDAwMDVkOTYxMzliM2U4ZjFkYmY4MzAyZDE3OWMxZjQxMTI5",
+  "snapshot_id": "MTY2MjY3NDQwMCwwMDAwMDAwMGRkNzFjMjhjNjNiZDhjNDlhNTQ3NjQwNmYzZWNjNjRi",
   "tracks": [
     {
       "added_at": "2022-09-08 22:00:00",
@@ -407,6 +407,22 @@
     {
       "added_at": "2022-09-08 22:00:00",
       "album": {
+        "name": "The Gods We Can Touch",
+        "url": "https://open.spotify.com/album/5z1xjvymitc0DJETtvVmaX"
+      },
+      "artists": [
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        }
+      ],
+      "duration_ms": 215573,
+      "name": "A Dangerous Thing",
+      "url": "https://open.spotify.com/track/0PDlmmYkuQCUAFhMXvtlsU"
+    },
+    {
+      "added_at": "2022-09-08 22:00:00",
+      "album": {
         "name": "The Sky is Painted Gray Today",
         "url": "https://open.spotify.com/album/4iEFEhFxzgr7VKpuo4rjUT"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 180077,
       "name": "Oak Tree",
       "url": "https://open.spotify.com/track/0H9gWRPB92lrwtjtQtdrwD"
-    },
-    {
-      "added_at": "2022-09-08 22:00:00",
-      "album": {
-        "name": "The Gods We Can Touch",
-        "url": "https://open.spotify.com/album/5z1xjvymitc0DJETtvVmaX"
-      },
-      "artists": [
-        {
-          "name": "AURORA",
-          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
-        }
-      ],
-      "duration_ms": 215573,
-      "name": "A Dangerous Thing",
-      "url": "https://open.spotify.com/track/0PDlmmYkuQCUAFhMXvtlsU"
     },
     {
       "added_at": "2022-09-08 22:00:00",
@@ -667,6 +667,22 @@
     {
       "added_at": "2022-09-08 22:00:00",
       "album": {
+        "name": "Early Summer Rain",
+        "url": "https://open.spotify.com/album/41rw0yKJcpUla5orniwd45"
+      },
+      "artists": [
+        {
+          "name": "August Flendahl",
+          "url": "https://open.spotify.com/artist/2YdblFMUbUSxdwFNffi7ct"
+        }
+      ],
+      "duration_ms": 170181,
+      "name": "Early Summer Rain",
+      "url": "https://open.spotify.com/track/44Weew9zeqTPmGujEIFXnh"
+    },
+    {
+      "added_at": "2022-09-08 22:00:00",
+      "album": {
         "name": "Jonas Alaska",
         "url": "https://open.spotify.com/album/6j9O86yZRjGScUxrgRJzy9"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 224560,
       "name": "When the Mourning Comes",
       "url": "https://open.spotify.com/track/0EaHuGgiDdWDQi9VsS6Xrv"
-    },
-    {
-      "added_at": "2022-09-08 22:00:00",
-      "album": {
-        "name": "Early Summer Rain",
-        "url": "https://open.spotify.com/album/41rw0yKJcpUla5orniwd45"
-      },
-      "artists": [
-        {
-          "name": "August Flendahl",
-          "url": "https://open.spotify.com/artist/2YdblFMUbUSxdwFNffi7ct"
-        }
-      ],
-      "duration_ms": 170181,
-      "name": "Early Summer Rain",
-      "url": "https://open.spotify.com/track/44Weew9zeqTPmGujEIFXnh"
     },
     {
       "added_at": "2022-09-08 22:00:00",
@@ -747,6 +747,22 @@
     {
       "added_at": "2022-09-08 22:00:00",
       "album": {
+        "name": "June",
+        "url": "https://open.spotify.com/album/4nNRxS6sgZOa7o96KfyIRM"
+      },
+      "artists": [
+        {
+          "name": "Mathias Gundhus",
+          "url": "https://open.spotify.com/artist/6PURFnZQmtTtjlraMNaHW7"
+        }
+      ],
+      "duration_ms": 218497,
+      "name": "June",
+      "url": "https://open.spotify.com/track/4pduaq2UnV1fpgevorNxAv"
+    },
+    {
+      "added_at": "2022-09-08 22:00:00",
+      "album": {
         "name": "The Last Great Country Swindle",
         "url": "https://open.spotify.com/album/1I25HgAQMA4yhiW7jIv0qQ"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 203933,
       "name": "Ain't Nobody Like Me",
       "url": "https://open.spotify.com/track/1HClG4JoFtukyPDO73eoVe"
-    },
-    {
-      "added_at": "2022-09-08 22:00:00",
-      "album": {
-        "name": "June",
-        "url": "https://open.spotify.com/album/4nNRxS6sgZOa7o96KfyIRM"
-      },
-      "artists": [
-        {
-          "name": "Mathias Gundhus",
-          "url": "https://open.spotify.com/artist/6PURFnZQmtTtjlraMNaHW7"
-        }
-      ],
-      "duration_ms": 218497,
-      "name": "June",
-      "url": "https://open.spotify.com/track/4pduaq2UnV1fpgevorNxAv"
     },
     {
       "added_at": "2022-09-08 22:00:00",

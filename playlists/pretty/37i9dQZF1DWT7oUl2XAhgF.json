@@ -1,12 +1,12 @@
 {
   "description": "A new take on a classic sound. Cover: Jalen Ngonda",
-  "num_followers": 142145,
+  "num_followers": 142476,
   "original_name": "Retro Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMGFiOGVmMTgxYjQ0MTk4MjQwZDgxZGU5OTU1NWQ5Mjlh",
+  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMDEyOGI1YjdmMTg0NmVlZDg4YzJiMzRjNWM1Y2M5ZTNm",
   "tracks": [
     {
       "added_at": "2022-09-09 04:00:00",
@@ -647,22 +647,6 @@
     {
       "added_at": "2021-07-09 02:40:08",
       "album": {
-        "name": "Good Thing",
-        "url": "https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 242520,
-      "name": "Mrs.",
-      "url": "https://open.spotify.com/track/2R4O7MgIrN35QXnyLKMFVl"
-    },
-    {
-      "added_at": "2021-07-09 02:40:08",
-      "album": {
         "name": "Building Balance",
         "url": "https://open.spotify.com/album/2vExIljZtXXu7wRRENGGwy"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 184952,
       "name": "Consider Me",
       "url": "https://open.spotify.com/track/6eA8pANu9ryDcoTTe5myKk"
+    },
+    {
+      "added_at": "2021-07-09 02:40:08",
+      "album": {
+        "name": "Good Thing",
+        "url": "https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 242520,
+      "name": "Mrs.",
+      "url": "https://open.spotify.com/track/2R4O7MgIrN35QXnyLKMFVl"
     },
     {
       "added_at": "2021-07-09 02:40:08",
@@ -1037,6 +1037,22 @@
       "url": "https://open.spotify.com/track/5xJ2iRDQ7jKJl2DLsYJPYD"
     },
     {
+      "added_at": "2022-01-14 05:01:00",
+      "album": {
+        "name": "Thee Sacred Souls",
+        "url": "https://open.spotify.com/album/0UKT9me1zkVDmah2MjmCma"
+      },
+      "artists": [
+        {
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
+        }
+      ],
+      "duration_ms": 174586,
+      "name": "Trade of Hearts",
+      "url": "https://open.spotify.com/track/6p2uzqM9QqCVxXhs2A9rBN"
+    },
+    {
       "added_at": "2021-07-09 02:40:08",
       "album": {
         "name": "It Rains Love",
@@ -1053,20 +1069,20 @@
       "url": "https://open.spotify.com/track/2axJJQBO4KbFsx0Twvb8mn"
     },
     {
-      "added_at": "2022-01-14 05:01:00",
+      "added_at": "2021-11-05 04:01:00",
       "album": {
-        "name": "Thee Sacred Souls",
-        "url": "https://open.spotify.com/album/0UKT9me1zkVDmah2MjmCma"
+        "name": "Last Call For Coco",
+        "url": "https://open.spotify.com/album/1dpef92yGV81tOPHCzFWeU"
       },
       "artists": [
         {
-          "name": "Thee Sacred Souls",
-          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
+          "name": "Hajaj",
+          "url": "https://open.spotify.com/artist/08yjRkGm8KNsShKjtbEmt6"
         }
       ],
-      "duration_ms": 174586,
-      "name": "Trade of Hearts",
-      "url": "https://open.spotify.com/track/6p2uzqM9QqCVxXhs2A9rBN"
+      "duration_ms": 163766,
+      "name": "Love To Last",
+      "url": "https://open.spotify.com/track/492FG3XeaSPRftcsu8vD9k"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -1091,22 +1107,6 @@
       "duration_ms": 196840,
       "name": "Human (feat. Vince Harder & Louis Baker)",
       "url": "https://open.spotify.com/track/7d6YmH9igGf2l809Os6hB2"
-    },
-    {
-      "added_at": "2021-11-05 04:01:00",
-      "album": {
-        "name": "Last Call For Coco",
-        "url": "https://open.spotify.com/album/1dpef92yGV81tOPHCzFWeU"
-      },
-      "artists": [
-        {
-          "name": "Hajaj",
-          "url": "https://open.spotify.com/artist/08yjRkGm8KNsShKjtbEmt6"
-        }
-      ],
-      "duration_ms": 163766,
-      "name": "Love To Last",
-      "url": "https://open.spotify.com/track/492FG3XeaSPRftcsu8vD9k"
     },
     {
       "added_at": "2022-05-13 04:02:00",
@@ -1193,20 +1193,20 @@
       "url": "https://open.spotify.com/track/3Jf2y674Wnhjz2RwPRsp84"
     },
     {
-      "added_at": "2021-12-03 05:01:00",
+      "added_at": "2021-07-09 02:40:08",
       "album": {
-        "name": "aloha",
-        "url": "https://open.spotify.com/album/3rioHzbE7RDGbgxzg9uFNd"
+        "name": "California Wine",
+        "url": "https://open.spotify.com/album/6pPCScZ1pajucY9zcPEYje"
       },
       "artists": [
         {
-          "name": "Son Little",
-          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
+          "name": "Quinn Devlin",
+          "url": "https://open.spotify.com/artist/1a18ASCKBGTJJ95oIl7M5J"
         }
       ],
-      "duration_ms": 175937,
-      "name": "hey rose",
-      "url": "https://open.spotify.com/track/6J4et4u2ECB9AH2QC9B5tg"
+      "duration_ms": 187231,
+      "name": "California Wine",
+      "url": "https://open.spotify.com/track/1HtLKqdCmOmM3zQxBzueUI"
     }
   ],
   "unique_name": "Retro Soul",

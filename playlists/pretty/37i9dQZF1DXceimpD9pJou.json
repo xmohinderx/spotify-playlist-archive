@@ -1,12 +1,12 @@
 {
   "description": "Las mejores nuevas canciones cristianas.  Foto: Anmily Brown",
-  "num_followers": 106690,
+  "num_followers": 106752,
   "original_name": "Novedades Cristianas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMxNjk0MywwMDAwMDAwMGFiODNjODA1YTYyMGY3OWU5N2IzODFkNTJlZWQ0NWUy",
+  "snapshot_id": "MTY2MzMxNjk0MywwMDAwMDAwMDdkZjIwNWJhMzliNTg0ZDNhNWViMjAwYjFhNDQwMWE5",
   "tracks": [
     {
       "added_at": "2022-09-16 08:29:03",
@@ -439,26 +439,6 @@
     {
       "added_at": "2022-09-16 08:29:03",
       "album": {
-        "name": "Lo Volver\u00eda A Hacer (feat. Grilex)",
-        "url": "https://open.spotify.com/album/105Pb9j0NYKUeeLLn2yEtX"
-      },
-      "artists": [
-        {
-          "name": "Kike Pav\u00f3n",
-          "url": "https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0"
-        },
-        {
-          "name": "Grilex",
-          "url": "https://open.spotify.com/artist/5jViV3w4fYOGcMSPYJ7AR8"
-        }
-      ],
-      "duration_ms": 208910,
-      "name": "Lo Volver\u00eda A Hacer (feat. Grilex)",
-      "url": "https://open.spotify.com/track/0HPKcGVJgcCOOiWZ3N9QpZ"
-    },
-    {
-      "added_at": "2022-09-16 08:29:03",
-      "album": {
         "name": "Encontr\u00e9",
         "url": "https://open.spotify.com/album/0GVj0pvjPLGkEygQkKOAY4"
       },
@@ -479,6 +459,26 @@
       "duration_ms": 475893,
       "name": "Encontr\u00e9",
       "url": "https://open.spotify.com/track/2WlXjfsY2mZQxnMcKmHuAI"
+    },
+    {
+      "added_at": "2022-09-16 08:29:03",
+      "album": {
+        "name": "Lo Volver\u00eda A Hacer (feat. Grilex)",
+        "url": "https://open.spotify.com/album/105Pb9j0NYKUeeLLn2yEtX"
+      },
+      "artists": [
+        {
+          "name": "Kike Pav\u00f3n",
+          "url": "https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0"
+        },
+        {
+          "name": "Grilex",
+          "url": "https://open.spotify.com/artist/5jViV3w4fYOGcMSPYJ7AR8"
+        }
+      ],
+      "duration_ms": 208910,
+      "name": "Lo Volver\u00eda A Hacer (feat. Grilex)",
+      "url": "https://open.spotify.com/track/0HPKcGVJgcCOOiWZ3N9QpZ"
     },
     {
       "added_at": "2022-09-16 08:29:03",
@@ -603,6 +603,22 @@
     {
       "added_at": "2022-09-16 08:29:03",
       "album": {
+        "name": "On (Deluxe)",
+        "url": "https://open.spotify.com/album/4dzcicWJ4Hb9nhEY0Toz9H"
+      },
+      "artists": [
+        {
+          "name": "Madiel Lara",
+          "url": "https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42"
+        }
+      ],
+      "duration_ms": 206527,
+      "name": "Sin Ti",
+      "url": "https://open.spotify.com/track/3WDHbrD3rJ8nKJPEQxPLNK"
+    },
+    {
+      "added_at": "2022-09-16 08:29:03",
+      "album": {
         "name": "Contracorriente",
         "url": "https://open.spotify.com/album/24w1NsYr1HPGiSLzccvV2A"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 184765,
       "name": "Contracorriente",
       "url": "https://open.spotify.com/track/60YS7XYRdzEyCXsVpqYf2W"
-    },
-    {
-      "added_at": "2022-09-16 08:29:03",
-      "album": {
-        "name": "On (Deluxe)",
-        "url": "https://open.spotify.com/album/4dzcicWJ4Hb9nhEY0Toz9H"
-      },
-      "artists": [
-        {
-          "name": "Madiel Lara",
-          "url": "https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42"
-        }
-      ],
-      "duration_ms": 206527,
-      "name": "Sin Ti",
-      "url": "https://open.spotify.com/track/3WDHbrD3rJ8nKJPEQxPLNK"
     },
     {
       "added_at": "2022-09-16 08:29:03",
@@ -671,22 +671,6 @@
     {
       "added_at": "2022-09-16 08:29:03",
       "album": {
-        "name": "Suerte Divina \u2618\ufe0f (En Vivo desde Bogot\u00e1, Colombia)",
-        "url": "https://open.spotify.com/album/5E99xK6yYWB8ovl0hoHkYO"
-      },
-      "artists": [
-        {
-          "name": "Living",
-          "url": "https://open.spotify.com/artist/2miffAnnUvKSyB9ykA2su9"
-        }
-      ],
-      "duration_ms": 297729,
-      "name": "Suerte Divina \u2618\ufe0f (En Vivo desde Bogot\u00e1, Colombia)",
-      "url": "https://open.spotify.com/track/6KLAGuFSys1R7gHfpQjGkV"
-    },
-    {
-      "added_at": "2022-09-16 08:29:03",
-      "album": {
         "name": "Tamos de Fiesta",
         "url": "https://open.spotify.com/album/6JCYBeSj1gVZoq0kbrxtao"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 198813,
       "name": "Tamos de Fiesta",
       "url": "https://open.spotify.com/track/0ft6Igxvsf1HYVFHDp1aX1"
+    },
+    {
+      "added_at": "2022-09-16 08:29:03",
+      "album": {
+        "name": "Suerte Divina \u2618\ufe0f (En Vivo desde Bogot\u00e1, Colombia)",
+        "url": "https://open.spotify.com/album/5E99xK6yYWB8ovl0hoHkYO"
+      },
+      "artists": [
+        {
+          "name": "Living",
+          "url": "https://open.spotify.com/artist/2miffAnnUvKSyB9ykA2su9"
+        }
+      ],
+      "duration_ms": 297729,
+      "name": "Suerte Divina \u2618\ufe0f (En Vivo desde Bogot\u00e1, Colombia)",
+      "url": "https://open.spotify.com/track/6KLAGuFSys1R7gHfpQjGkV"
     },
     {
       "added_at": "2022-09-16 08:29:03",
@@ -799,6 +799,22 @@
     {
       "added_at": "2022-09-16 08:29:03",
       "album": {
+        "name": "Corro Ante Ti",
+        "url": "https://open.spotify.com/album/3GM0rKIyYeIizZ06WBsaHZ"
+      },
+      "artists": [
+        {
+          "name": "Emir Sensini",
+          "url": "https://open.spotify.com/artist/0PymX5SwKjel2b1lXRvU20"
+        }
+      ],
+      "duration_ms": 252134,
+      "name": "Corro Ante Ti",
+      "url": "https://open.spotify.com/track/7i0LfXbTNpFVu4gE9TIh6o"
+    },
+    {
+      "added_at": "2022-09-16 08:29:03",
+      "album": {
         "name": "Al Estar Aqu\u00ed",
         "url": "https://open.spotify.com/album/4x5IRsgF4QmJ6bAKTCS2gt"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 292298,
       "name": "Al Estar Aqu\u00ed",
       "url": "https://open.spotify.com/track/36IK0Hvtgilu4HewsuXYPH"
-    },
-    {
-      "added_at": "2022-09-16 08:29:03",
-      "album": {
-        "name": "Corro Ante Ti",
-        "url": "https://open.spotify.com/album/3GM0rKIyYeIizZ06WBsaHZ"
-      },
-      "artists": [
-        {
-          "name": "Emir Sensini",
-          "url": "https://open.spotify.com/artist/0PymX5SwKjel2b1lXRvU20"
-        }
-      ],
-      "duration_ms": 252134,
-      "name": "Corro Ante Ti",
-      "url": "https://open.spotify.com/track/7i0LfXbTNpFVu4gE9TIh6o"
     },
     {
       "added_at": "2022-09-16 08:29:03",
@@ -911,22 +911,6 @@
     {
       "added_at": "2022-09-16 08:29:03",
       "album": {
-        "name": "Guiame",
-        "url": "https://open.spotify.com/album/3SSB5daodrYRnJKWW4LeIu"
-      },
-      "artists": [
-        {
-          "name": "Gabriel EMC",
-          "url": "https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH"
-        }
-      ],
-      "duration_ms": 200963,
-      "name": "Gu\u00edame",
-      "url": "https://open.spotify.com/track/4c4LbMkJxQ7o9UBdJxVzqn"
-    },
-    {
-      "added_at": "2022-09-16 08:29:03",
-      "album": {
         "name": "Mi Sanador (The Healing)",
         "url": "https://open.spotify.com/album/2HYp66kwn5xrOaTolFbrUt"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 197333,
       "name": "Mi Sanador (The Healing)",
       "url": "https://open.spotify.com/track/7gPP82EsbzEyHmCQ2tnNko"
+    },
+    {
+      "added_at": "2022-09-16 08:29:03",
+      "album": {
+        "name": "Guiame",
+        "url": "https://open.spotify.com/album/3SSB5daodrYRnJKWW4LeIu"
+      },
+      "artists": [
+        {
+          "name": "Gabriel EMC",
+          "url": "https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH"
+        }
+      ],
+      "duration_ms": 200963,
+      "name": "Gu\u00edame",
+      "url": "https://open.spotify.com/track/4c4LbMkJxQ7o9UBdJxVzqn"
     },
     {
       "added_at": "2022-09-16 08:29:03",
@@ -963,6 +963,22 @@
     {
       "added_at": "2022-09-16 08:29:03",
       "album": {
+        "name": "Fuente",
+        "url": "https://open.spotify.com/album/2KI68yyvIzkthZi19LeFlX"
+      },
+      "artists": [
+        {
+          "name": "Ale Fdz",
+          "url": "https://open.spotify.com/artist/1m3YfDehEub35DvsmG9gMy"
+        }
+      ],
+      "duration_ms": 216089,
+      "name": "Fuente",
+      "url": "https://open.spotify.com/track/77HM9474iN1caGgAFSLsWX"
+    },
+    {
+      "added_at": "2022-09-16 08:29:03",
+      "album": {
         "name": "Ruge (Live)",
         "url": "https://open.spotify.com/album/1Ze1Eu8yoWYb5oB7p1oToa"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 409049,
       "name": "Ruge - Live",
       "url": "https://open.spotify.com/track/7E4OYesvFO3Rchbd3F3xoG"
-    },
-    {
-      "added_at": "2022-09-16 08:29:03",
-      "album": {
-        "name": "Fuente",
-        "url": "https://open.spotify.com/album/2KI68yyvIzkthZi19LeFlX"
-      },
-      "artists": [
-        {
-          "name": "Ale Fdz",
-          "url": "https://open.spotify.com/artist/1m3YfDehEub35DvsmG9gMy"
-        }
-      ],
-      "duration_ms": 216089,
-      "name": "Fuente",
-      "url": "https://open.spotify.com/track/77HM9474iN1caGgAFSLsWX"
     },
     {
       "added_at": "2022-09-16 08:29:03",
@@ -1035,26 +1035,6 @@
     {
       "added_at": "2022-09-16 08:29:03",
       "album": {
-        "name": "Con Qu\u00e9 Pagar\u00e9?",
-        "url": "https://open.spotify.com/album/5SOg5hB6NprWFePQ4uRcn7"
-      },
-      "artists": [
-        {
-          "name": "Pablo Martinez",
-          "url": "https://open.spotify.com/artist/5IirgPwhfjHp6MDFXbLRdz"
-        },
-        {
-          "name": "Crist\u00f3bal Fones, Sj",
-          "url": "https://open.spotify.com/artist/4Jqs0PJ4Q5gmz1WzS1OUHk"
-        }
-      ],
-      "duration_ms": 212125,
-      "name": "Con Qu\u00e9 Pagar\u00e9?",
-      "url": "https://open.spotify.com/track/2LKYoKY35J9bd69QLbGOoG"
-    },
-    {
-      "added_at": "2022-09-16 08:29:03",
-      "album": {
         "name": "Tumba",
         "url": "https://open.spotify.com/album/0gAvd9iYu6hKJ3DvE9oZv2"
       },
@@ -1071,6 +1051,26 @@
       "duration_ms": 152439,
       "name": "Tumba",
       "url": "https://open.spotify.com/track/3pG0dfvF8vQZY10HOit7UM"
+    },
+    {
+      "added_at": "2022-09-16 08:29:03",
+      "album": {
+        "name": "Con Qu\u00e9 Pagar\u00e9?",
+        "url": "https://open.spotify.com/album/5SOg5hB6NprWFePQ4uRcn7"
+      },
+      "artists": [
+        {
+          "name": "Pablo Martinez",
+          "url": "https://open.spotify.com/artist/5IirgPwhfjHp6MDFXbLRdz"
+        },
+        {
+          "name": "Crist\u00f3bal Fones, Sj",
+          "url": "https://open.spotify.com/artist/4Jqs0PJ4Q5gmz1WzS1OUHk"
+        }
+      ],
+      "duration_ms": 212125,
+      "name": "Con Qu\u00e9 Pagar\u00e9?",
+      "url": "https://open.spotify.com/track/2LKYoKY35J9bd69QLbGOoG"
     },
     {
       "added_at": "2022-09-16 08:29:03",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2022-09-16 08:29:03",
       "album": {
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/6STEoF1u2LVQkUlIZQCiko"
+      },
+      "artists": [
+        {
+          "name": "Kev Miranda",
+          "url": "https://open.spotify.com/artist/5mAsjDDm81xwtAbB6TrWVR"
+        }
+      ],
+      "duration_ms": 189599,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/1exBPbUemd8mDuaAYJYqSH"
+    },
+    {
+      "added_at": "2022-09-16 08:29:03",
+      "album": {
         "name": "Nunca Me Dejas",
         "url": "https://open.spotify.com/album/2qSeri8SLFoMaGDYdMCFmC"
       },
@@ -1207,18 +1223,18 @@
     {
       "added_at": "2022-09-16 08:29:03",
       "album": {
-        "name": "Eclipse",
-        "url": "https://open.spotify.com/album/6STEoF1u2LVQkUlIZQCiko"
+        "name": "L\u00e1mpara Encendida (En Vivo)",
+        "url": "https://open.spotify.com/album/1F88DMsFnuwr0NXrtNSrtH"
       },
       "artists": [
         {
-          "name": "Kev Miranda",
-          "url": "https://open.spotify.com/artist/5mAsjDDm81xwtAbB6TrWVR"
+          "name": "Shammai",
+          "url": "https://open.spotify.com/artist/3hp9n03tGKNU5O3xMdSRMz"
         }
       ],
-      "duration_ms": 189599,
-      "name": "Eclipse",
-      "url": "https://open.spotify.com/track/1exBPbUemd8mDuaAYJYqSH"
+      "duration_ms": 686780,
+      "name": "L\u00e1mpara Encendida - En Vivo",
+      "url": "https://open.spotify.com/track/27oXuZCLZ5UcRfP2LRiVoY"
     },
     {
       "added_at": "2022-09-16 08:29:03",
@@ -1235,22 +1251,6 @@
       "duration_ms": 189213,
       "name": "Yoyo",
       "url": "https://open.spotify.com/track/0zYuk0Yu7i182Ze1OieTiV"
-    },
-    {
-      "added_at": "2022-09-16 08:29:03",
-      "album": {
-        "name": "L\u00e1mpara Encendida (En Vivo)",
-        "url": "https://open.spotify.com/album/1F88DMsFnuwr0NXrtNSrtH"
-      },
-      "artists": [
-        {
-          "name": "Shammai",
-          "url": "https://open.spotify.com/artist/3hp9n03tGKNU5O3xMdSRMz"
-        }
-      ],
-      "duration_ms": 686780,
-      "name": "L\u00e1mpara Encendida - En Vivo",
-      "url": "https://open.spotify.com/track/27oXuZCLZ5UcRfP2LRiVoY"
     },
     {
       "added_at": "2022-09-16 08:29:03",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2022-09-16 08:29:03",
       "album": {
+        "name": "...y Continuamos",
+        "url": "https://open.spotify.com/album/6cBviCYJc1U741HDe3kDdE"
+      },
+      "artists": [
+        {
+          "name": "Mariannah y Diego",
+          "url": "https://open.spotify.com/artist/2bZwH6BImOFTkOPaSdbtOG"
+        }
+      ],
+      "duration_ms": 223285,
+      "name": "No Pierdas la Fe",
+      "url": "https://open.spotify.com/track/3YcFkhYxJCPYWkCTowWdbu"
+    },
+    {
+      "added_at": "2022-09-16 08:29:03",
+      "album": {
         "name": "As\u00ed Ser\u00e1",
         "url": "https://open.spotify.com/album/2j9eRIqy911zusKpNfwGGW"
       },
@@ -1403,22 +1419,6 @@
     {
       "added_at": "2022-09-16 08:29:03",
       "album": {
-        "name": "...y Continuamos",
-        "url": "https://open.spotify.com/album/6cBviCYJc1U741HDe3kDdE"
-      },
-      "artists": [
-        {
-          "name": "Mariannah y Diego",
-          "url": "https://open.spotify.com/artist/2bZwH6BImOFTkOPaSdbtOG"
-        }
-      ],
-      "duration_ms": 223285,
-      "name": "No Pierdas la Fe",
-      "url": "https://open.spotify.com/track/3YcFkhYxJCPYWkCTowWdbu"
-    },
-    {
-      "added_at": "2022-09-16 08:29:03",
-      "album": {
         "name": "ROMPE EL CIELO",
         "url": "https://open.spotify.com/album/5XDIK7qq5CxkSHS99Ryrgq"
       },
@@ -1431,6 +1431,22 @@
       "duration_ms": 210818,
       "name": "La Prueba De Tu Amor",
       "url": "https://open.spotify.com/track/69TqrxFChYFaQKQuFFi3Xt"
+    },
+    {
+      "added_at": "2022-09-16 08:29:03",
+      "album": {
+        "name": "Indescriptible",
+        "url": "https://open.spotify.com/album/4e04GeGqfgyzoLBckBnIp6"
+      },
+      "artists": [
+        {
+          "name": "Pas Music",
+          "url": "https://open.spotify.com/artist/3YBDkiTcXAo1f0qSms2q2h"
+        }
+      ],
+      "duration_ms": 293773,
+      "name": "Indescriptible",
+      "url": "https://open.spotify.com/track/5XOKZCaeaJyhVWathlw2Zk"
     },
     {
       "added_at": "2022-09-16 08:29:03",
@@ -1451,22 +1467,6 @@
       "duration_ms": 296808,
       "name": "Mi Lugar Es Aqu\u00ed",
       "url": "https://open.spotify.com/track/7DKyZ3vvmilx3FXgFAzLXx"
-    },
-    {
-      "added_at": "2022-09-16 08:29:03",
-      "album": {
-        "name": "Indescriptible",
-        "url": "https://open.spotify.com/album/4e04GeGqfgyzoLBckBnIp6"
-      },
-      "artists": [
-        {
-          "name": "Pas Music",
-          "url": "https://open.spotify.com/artist/3YBDkiTcXAo1f0qSms2q2h"
-        }
-      ],
-      "duration_ms": 293773,
-      "name": "Indescriptible",
-      "url": "https://open.spotify.com/track/5XOKZCaeaJyhVWathlw2Zk"
     },
     {
       "added_at": "2022-09-16 08:29:03",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2022-09-16 08:29:03",
       "album": {
+        "name": "Lugar De Rompimiento",
+        "url": "https://open.spotify.com/album/7kr3d8FYpaS7MDjPED8Qcr"
+      },
+      "artists": [
+        {
+          "name": "Yamilka",
+          "url": "https://open.spotify.com/artist/0fpgHrtIeF5g66x4zeI4S0"
+        }
+      ],
+      "duration_ms": 824419,
+      "name": "Lugar De Rompimiento",
+      "url": "https://open.spotify.com/track/7Fc2HpS7I7qHlvztdJCzdR"
+    },
+    {
+      "added_at": "2022-09-16 08:29:03",
+      "album": {
         "name": "M\u00edrame",
         "url": "https://open.spotify.com/album/4VKiCYuoQomndlrSjGlkx5"
       },
@@ -1579,22 +1595,6 @@
       "duration_ms": 214749,
       "name": "Completo En Ti",
       "url": "https://open.spotify.com/track/7pji0IMqwXtaE7jDKiCD0S"
-    },
-    {
-      "added_at": "2022-09-16 08:29:03",
-      "album": {
-        "name": "Lugar De Rompimiento",
-        "url": "https://open.spotify.com/album/7kr3d8FYpaS7MDjPED8Qcr"
-      },
-      "artists": [
-        {
-          "name": "Yamilka",
-          "url": "https://open.spotify.com/artist/0fpgHrtIeF5g66x4zeI4S0"
-        }
-      ],
-      "duration_ms": 824419,
-      "name": "Lugar De Rompimiento",
-      "url": "https://open.spotify.com/track/7Fc2HpS7I7qHlvztdJCzdR"
     },
     {
       "added_at": "2022-09-16 08:29:03",
@@ -1667,26 +1667,6 @@
     {
       "added_at": "2022-09-16 08:29:03",
       "album": {
-        "name": "Fiel",
-        "url": "https://open.spotify.com/album/4zM7OVDuoWnX5PWnh0PTO8"
-      },
-      "artists": [
-        {
-          "name": "NewSpring Worship",
-          "url": "https://open.spotify.com/artist/1wUcqswHv80fp5nMF2hVwM"
-        },
-        {
-          "name": "Charlee Buitrago",
-          "url": "https://open.spotify.com/artist/76g8gyIWxuCkaeiqynU9L8"
-        }
-      ],
-      "duration_ms": 328623,
-      "name": "Fiel",
-      "url": "https://open.spotify.com/track/7tEFVJ9gz30drRMeMCkvDF"
-    },
-    {
-      "added_at": "2022-09-16 08:29:03",
-      "album": {
         "name": "Heroe",
         "url": "https://open.spotify.com/album/2MidMpkWfheBj3Ukql5L4C"
       },
@@ -1703,6 +1683,26 @@
       "duration_ms": 372437,
       "name": "Heroe",
       "url": "https://open.spotify.com/track/5MR3eNoJ4EG06UzXD2Jikb"
+    },
+    {
+      "added_at": "2022-09-16 08:29:03",
+      "album": {
+        "name": "Fiel",
+        "url": "https://open.spotify.com/album/4zM7OVDuoWnX5PWnh0PTO8"
+      },
+      "artists": [
+        {
+          "name": "NewSpring Worship",
+          "url": "https://open.spotify.com/artist/1wUcqswHv80fp5nMF2hVwM"
+        },
+        {
+          "name": "Charlee Buitrago",
+          "url": "https://open.spotify.com/artist/76g8gyIWxuCkaeiqynU9L8"
+        }
+      ],
+      "duration_ms": 328623,
+      "name": "Fiel",
+      "url": "https://open.spotify.com/track/7tEFVJ9gz30drRMeMCkvDF"
     },
     {
       "added_at": "2022-09-16 08:29:03",
@@ -1743,6 +1743,22 @@
     {
       "added_at": "2022-09-16 08:29:03",
       "album": {
+        "name": "Yo Te Creo",
+        "url": "https://open.spotify.com/album/2bgEZbK4J7CwbJx0odt0dW"
+      },
+      "artists": [
+        {
+          "name": "Patty Gleason",
+          "url": "https://open.spotify.com/artist/2vLptSd6u5kZKCGBkXIJBJ"
+        }
+      ],
+      "duration_ms": 258995,
+      "name": "Yo Te Creo",
+      "url": "https://open.spotify.com/track/2xa0d6PSdSngPH4Xl4OaFz"
+    },
+    {
+      "added_at": "2022-09-16 08:29:03",
+      "album": {
         "name": "From Down",
         "url": "https://open.spotify.com/album/0ECsXg8ObxnJn4sZCt7ISV"
       },
@@ -1763,22 +1779,6 @@
       "duration_ms": 219789,
       "name": "From Down",
       "url": "https://open.spotify.com/track/3er23VTb4wAIn3HIAqqOJm"
-    },
-    {
-      "added_at": "2022-09-16 08:29:03",
-      "album": {
-        "name": "Yo Te Creo",
-        "url": "https://open.spotify.com/album/2bgEZbK4J7CwbJx0odt0dW"
-      },
-      "artists": [
-        {
-          "name": "Patty Gleason",
-          "url": "https://open.spotify.com/artist/2vLptSd6u5kZKCGBkXIJBJ"
-        }
-      ],
-      "duration_ms": 258995,
-      "name": "Yo Te Creo",
-      "url": "https://open.spotify.com/track/2xa0d6PSdSngPH4Xl4OaFz"
     },
     {
       "added_at": "2022-09-16 08:29:03",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxLagECufdp.md) - [plain]
 
 > Fanfarrias y ritmos clown para gozar las tragicomedias de la vida
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,902 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,936 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,12 +36,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxLagECufdp.md) - [plain]
 | 26 | [Que No, Que No](https://open.spotify.com/track/1CfDgFfSpVIrufYPVX02et) | [Las Taradas](https://open.spotify.com/artist/0cvN008loU6mGFr4IiYjVO) | [Son y Se Hacen](https://open.spotify.com/album/7CBtEchhPV1o3BLPlgPcuC) | 3:08 |
 | 27 | [Harta](https://open.spotify.com/track/1J4xv5V5dzkA8UGtXSbCNU) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Harta](https://open.spotify.com/album/7xxEXEwifY6NE0sEmIybSg) | 3:05 |
 | 28 | [Mesecina / Moonlight](https://open.spotify.com/track/4j3HKFuIHwdxxbZmPqJJYX) | [Goran Bregović](https://open.spotify.com/artist/491v9k5NTGBGanwqPNSkuS) | [Underground \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2xMLHeRDiuzNWIrZt7Q8na) | 3:59 |
-| 29 | [Marrakumbiah](https://open.spotify.com/track/45X61WpnNpZopCO92ZwKdw) | [La Internacional Sonora Balkanera](https://open.spotify.com/artist/7zBN4dVulSEiunuM8jw98C) | [Etno Pachanga Sound System](https://open.spotify.com/album/6fCxJA4Ar7o8PXRjDrKECo) | 3:45 |
-| 30 | [Flor de Cumbión](https://open.spotify.com/track/1iw2aoN9vgmzHw0acRFvAZ) | [Banda Conmoción](https://open.spotify.com/artist/2UNMW1OKE0X1cwJHWER67g) | [Pregonero](https://open.spotify.com/album/44vJ4lHPNZmfZ09TJ4Q1Hd) | 2:37 |
+| 29 | [Flor de Cumbión](https://open.spotify.com/track/1iw2aoN9vgmzHw0acRFvAZ) | [Banda Conmoción](https://open.spotify.com/artist/2UNMW1OKE0X1cwJHWER67g) | [Pregonero](https://open.spotify.com/album/44vJ4lHPNZmfZ09TJ4Q1Hd) | 2:37 |
+| 30 | [Marrakumbiah](https://open.spotify.com/track/45X61WpnNpZopCO92ZwKdw) | [La Internacional Sonora Balkanera](https://open.spotify.com/artist/7zBN4dVulSEiunuM8jw98C) | [Etno Pachanga Sound System](https://open.spotify.com/album/6fCxJA4Ar7o8PXRjDrKECo) | 3:45 |
 | 31 | [Chocolat \(Swing\)](https://open.spotify.com/track/42gaDDxNCrQMkri7sQcqGq) | [Feten Feten](https://open.spotify.com/artist/2jA6wEXprTZysvomP2krp8) | [Bailables](https://open.spotify.com/album/2LXPajOlTfGvlm6jm1oFtW) | 3:44 |
 | 32 | [Karnaval](https://open.spotify.com/track/0QoKi5HQm7srBiovlTpTws) | [Fanko](https://open.spotify.com/artist/7FTVF3GI4iIuxErFlgYS2n), [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Volver al Futuro \(Otro Futuro\)](https://open.spotify.com/album/184ZgYcvVQWNyvoDHBYtuE) | 4:22 |
-| 33 | [Cumbia Klezmer](https://open.spotify.com/track/2bsNIf7cT3PYRriUSNcnck) | [La Mano Ajena](https://open.spotify.com/artist/611eLbdAybrp9seo2dr6eJ) | [Radio Galena](https://open.spotify.com/album/1Ra9M1mo2LU1TQRSYJ7Vjg) | 2:49 |
-| 34 | [Bulgarian Chicks \(feat\. Vlada Tomova & Kristin Espeland\)](https://open.spotify.com/track/6Z0xtMYSC5RSSPFcFTzNZY) | [Balkan Beat Box](https://open.spotify.com/artist/2rmMyZC0sUD1a3jkDxp7iY), [Vlada Tomova](https://open.spotify.com/artist/74f7fNXxNm4fYu7ajpXykd), [Kristin Espeland](https://open.spotify.com/artist/1z15SEPLxHchqfFI7SBCTJ) | [Balkan Beat Box](https://open.spotify.com/album/3kpfXAnyZmUXmjnVe8u1G2) | 5:52 |
+| 33 | [Bulgarian Chicks \(feat\. Vlada Tomova & Kristin Espeland\)](https://open.spotify.com/track/6Z0xtMYSC5RSSPFcFTzNZY) | [Balkan Beat Box](https://open.spotify.com/artist/2rmMyZC0sUD1a3jkDxp7iY), [Vlada Tomova](https://open.spotify.com/artist/74f7fNXxNm4fYu7ajpXykd), [Kristin Espeland](https://open.spotify.com/artist/1z15SEPLxHchqfFI7SBCTJ) | [Balkan Beat Box](https://open.spotify.com/album/3kpfXAnyZmUXmjnVe8u1G2) | 5:52 |
+| 34 | [Cumbia Klezmer](https://open.spotify.com/track/2bsNIf7cT3PYRriUSNcnck) | [La Mano Ajena](https://open.spotify.com/artist/611eLbdAybrp9seo2dr6eJ) | [Radio Galena](https://open.spotify.com/album/1Ra9M1mo2LU1TQRSYJ7Vjg) | 2:49 |
 | 35 | [Sadagora Hot Dub \- Remixed by Shantel](https://open.spotify.com/track/3Wb0d7PcBdFKVnTJ75UQ1l) | [Amsterdam Klezmer Band](https://open.spotify.com/artist/2vMBszTQ5H66LhDEM3mSvl) | [Remixed](https://open.spotify.com/album/5LjkNrn1rnhAk0dimZGrk5) | 5:11 |
 | 36 | [No Corro, No Grito, No Empujo](https://open.spotify.com/track/2zMauuBuWdlJxv3EFkEGLv) | [Triciclo Circus Band](https://open.spotify.com/artist/6Kkbu7QNMwiSeQxTJ8hFZt) | [No Corro, No Grito, No Empujo](https://open.spotify.com/album/0Gl73ICTO0K3h8f1E9cdZy) | 3:04 |
 | 37 | [ゴッドファーザー愛のテーマ](https://open.spotify.com/track/3wMcumG7H13Oq3HvHeeok5) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [WILD PEACE](https://open.spotify.com/album/5R19j19wldlcON2ZTaJikv) | 3:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxLagECufdp.md) - [plain]
 | 49 | [Gas Gas](https://open.spotify.com/track/19Ah7Hh26xdpgaXVv0sEJo) | [Goran Bregović](https://open.spotify.com/artist/491v9k5NTGBGanwqPNSkuS) | [Karmen with a Happy End](https://open.spotify.com/album/1l723TBcNXs5iQOMn1w3Zc) | 3:04 |
 | 50 | [Constelación](https://open.spotify.com/track/58yXDaeNbIqbbAkFH8or6a) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Constelación](https://open.spotify.com/album/5hXsDY407wtAlm5W81aM1F) | 3:09 |
 
-Snapshot ID: `MTY1OTQ4OTQ5MSwwMDAwMDAwMDY5MmFmZmRmNmRhYTI5NDUxYTJhOTBmZTIwODA5OTU0`
+Snapshot ID: `MTY1OTQ4OTQ5MSwwMDAwMDAwMDI5NjFmY2YzMjhjZTA3YjJlOTlhMTMyZGJmMzk3MTRh`

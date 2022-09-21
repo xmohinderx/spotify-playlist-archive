@@ -4,7 +4,7 @@
 
 > All the greatest Ambient tracks in one place\. Cover: Brian Eno
 
-138 songs - 16 hr 16 min - [published](https://open.spotify.com/playlist/4tCCo6NoGYqZ9eXOzwjcnm)
+139 songs - 16 hr 20 min - [published](https://open.spotify.com/playlist/4tCCo6NoGYqZ9eXOzwjcnm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Bhakti](https://open.spotify.com/track/44tHSayEL4rW64qonY0odi) | [Ishq](https://open.spotify.com/artist/4SOjulesys5BeXKPGUCY9F) | [Orchid](https://open.spotify.com/album/14sn0IU3GveZS7XNzPhVhd) | 10:18 | 2022-04-20 | 2022-07-29 |
 | [Black White Felt](https://open.spotify.com/track/5n1HBXOeeKzEfdlEMJ6Tmm) | [Roedelius](https://open.spotify.com/artist/7v5E9zviGMsOGHRdMVmhDc), [Arnold Kasar](https://open.spotify.com/artist/700im8kgUAWwcvUOAqrTWm) | [Einfluss](https://open.spotify.com/album/3UNzfV1VqrqTBTHLa3flUd) | 4:01 | 2021-12-22 |  |
 | [Boreal Kiss Pt\. 1](https://open.spotify.com/track/1i8MaQec4fQXj1enX8ZWF4) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Haunt Me](https://open.spotify.com/album/5MZRB9G4snRWIG0otfxJYq) | 3:28 | 2021-12-22 |  |
+| [Ceramic Bubbles \- No Death Remix](https://open.spotify.com/track/0efbgQ82IjFjgDsr5vBckW) | [Rhucle](https://open.spotify.com/artist/0y0cl3t1UlQf0730g7Zjkl), [No Death](https://open.spotify.com/artist/75HAJoZ2A5TotYPFSYgCnP) | [Small Lights](https://open.spotify.com/album/5TzC5ApNzngIspcRD7heNL) | 3:40 | 2022-09-20 |  |
 | [Circle 23 \- Slow Meadow Rework](https://open.spotify.com/track/3AmZCKbonOoIjcIxf5xpEJ) | [Robot Koch](https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI), [Foam and Sand](https://open.spotify.com/artist/1auVJGxP1B7a0GYbD6G6dd), [Slow Meadow](https://open.spotify.com/artist/1X93CiijNCFQa4o17hLwI3) | [Full Circle Reworks](https://open.spotify.com/album/456HZjogXSlOUsCkKmjoqC) | 5:23 | 2022-05-26 |  |
 | [Complex Heaven](https://open.spotify.com/track/5EhvDAos2Ppf82XN5EV60u) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [Leo Abrahams](https://open.spotify.com/artist/6g4q7DPLaVqWGnfMpAb2Yd) | [Small Craft On A Milk Sea](https://open.spotify.com/album/47e7SP8MtzYKK8Lm3gEK2i) | 3:05 | 2021-12-22 |  |
 | [Dawn Chorus](https://open.spotify.com/track/6a06vmzIppjBTTdVrx8t5D) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Dawn Chorus](https://open.spotify.com/album/09wpxcomjoPy3G0wKpZZzD) | 3:28 | 2021-12-22 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Country music to get you back to the basics.",
-  "num_followers": 3015143,
+  "num_followers": 3015875,
   "original_name": "Chillin' on a Dirt Road",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjQxNDQwMCwwMDAwMDAwMDBmMzhiZDNkZTkwMThkOTBjNmEwMjZiNDU5ZTJmZmJm",
+  "snapshot_id": "MTY1MjQxNDQwMCwwMDAwMDAwMDQ2Y2QzZTgzYTEwMTM3NzQ2ZWVhOGRkNDI3YWNhYjlk",
   "tracks": [
     {
       "added_at": "2022-05-13 04:00:00",
@@ -375,22 +375,6 @@
     {
       "added_at": "2022-05-13 04:00:00",
       "album": {
-        "name": "If I Was a Cowboy",
-        "url": "https://open.spotify.com/album/30ECcjA3lMZPRpdJDyHAnT"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 195013,
-      "name": "If I Was a Cowboy",
-      "url": "https://open.spotify.com/track/6F7UOC6fPWOkPqybOWBHSv"
-    },
-    {
-      "added_at": "2022-05-13 04:00:00",
-      "album": {
         "name": "Chief",
         "url": "https://open.spotify.com/album/5dtw6CoMhbrSj01YUvdQOF"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 263386,
       "name": "Springsteen",
       "url": "https://open.spotify.com/track/05ZACkzW8YbRq3eFgIfSNB"
+    },
+    {
+      "added_at": "2022-05-13 04:00:00",
+      "album": {
+        "name": "If I Was a Cowboy",
+        "url": "https://open.spotify.com/album/30ECcjA3lMZPRpdJDyHAnT"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 195013,
+      "name": "If I Was a Cowboy",
+      "url": "https://open.spotify.com/track/6F7UOC6fPWOkPqybOWBHSv"
     },
     {
       "added_at": "2022-05-13 04:00:00",
@@ -723,30 +723,6 @@
     {
       "added_at": "2022-05-13 04:00:00",
       "album": {
-        "name": "Beers On Me",
-        "url": "https://open.spotify.com/album/5MCXOrCsU3R1xQ3kLI4oXM"
-      },
-      "artists": [
-        {
-          "name": "Dierks Bentley",
-          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
-        },
-        {
-          "name": "BRELAND",
-          "url": "https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1"
-        },
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 174680,
-      "name": "Beers On Me",
-      "url": "https://open.spotify.com/track/19ZzEzb4BVK1wVO4brrmZz"
-    },
-    {
-      "added_at": "2022-05-13 04:00:00",
-      "album": {
         "name": "Barefoot Blue Jean Night",
         "url": "https://open.spotify.com/album/4GeJssW5iLOSLOIXhLfOUJ"
       },
@@ -775,6 +751,30 @@
       "duration_ms": 182960,
       "name": "American Kids",
       "url": "https://open.spotify.com/track/1dgWTMoHwTUnQhOQ8SR5fV"
+    },
+    {
+      "added_at": "2022-05-13 04:00:00",
+      "album": {
+        "name": "Beers On Me",
+        "url": "https://open.spotify.com/album/5MCXOrCsU3R1xQ3kLI4oXM"
+      },
+      "artists": [
+        {
+          "name": "Dierks Bentley",
+          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
+        },
+        {
+          "name": "BRELAND",
+          "url": "https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1"
+        },
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 174680,
+      "name": "Beers On Me",
+      "url": "https://open.spotify.com/track/19ZzEzb4BVK1wVO4brrmZz"
     },
     {
       "added_at": "2022-05-13 04:00:00",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2022-05-13 04:00:00",
       "album": {
-        "name": "Skeletons",
-        "url": "https://open.spotify.com/album/0OA03FrXlln4FvE30LaEXR"
-      },
-      "artists": [
-        {
-          "name": "Brothers Osborne",
-          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
-        }
-      ],
-      "duration_ms": 172106,
-      "name": "I'm Not For Everyone",
-      "url": "https://open.spotify.com/track/143YESFOZqxVGrKEWisbid"
-    },
-    {
-      "added_at": "2022-05-13 04:00:00",
-      "album": {
         "name": "Dig Your Roots",
         "url": "https://open.spotify.com/album/09KOjaflTBRE28GVvXqkYC"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 226173,
       "name": "May We All",
       "url": "https://open.spotify.com/track/498ZVInMGDkmmNVpSWqHiZ"
+    },
+    {
+      "added_at": "2022-05-13 04:00:00",
+      "album": {
+        "name": "Skeletons",
+        "url": "https://open.spotify.com/album/0OA03FrXlln4FvE30LaEXR"
+      },
+      "artists": [
+        {
+          "name": "Brothers Osborne",
+          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
+        }
+      ],
+      "duration_ms": 172106,
+      "name": "I'm Not For Everyone",
+      "url": "https://open.spotify.com/track/143YESFOZqxVGrKEWisbid"
     },
     {
       "added_at": "2022-05-13 04:00:00",
@@ -1135,18 +1135,18 @@
     {
       "added_at": "2022-05-13 04:00:00",
       "album": {
-        "name": "JEKYLL + HYDE",
-        "url": "https://open.spotify.com/album/12WhHcWieyHNLP0RGbRtrr"
+        "name": "Hard 2 Love",
+        "url": "https://open.spotify.com/album/0RnVSSUbSBEjk5MlQZhYYP"
       },
       "artists": [
         {
-          "name": "Zac Brown Band",
-          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
+          "name": "Lee Brice",
+          "url": "https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk"
         }
       ],
-      "duration_ms": 205000,
-      "name": "Homegrown",
-      "url": "https://open.spotify.com/track/2kR18wsL3gvXRXdNE4dCGc"
+      "duration_ms": 224293,
+      "name": "Hard To Love",
+      "url": "https://open.spotify.com/track/6E9V9TRlVOLjenGjHemzEH"
     },
     {
       "added_at": "2022-05-13 04:00:00",
@@ -1167,18 +1167,18 @@
     {
       "added_at": "2022-05-13 04:00:00",
       "album": {
-        "name": "Hard 2 Love",
-        "url": "https://open.spotify.com/album/0RnVSSUbSBEjk5MlQZhYYP"
+        "name": "JEKYLL + HYDE",
+        "url": "https://open.spotify.com/album/12WhHcWieyHNLP0RGbRtrr"
       },
       "artists": [
         {
-          "name": "Lee Brice",
-          "url": "https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk"
+          "name": "Zac Brown Band",
+          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
         }
       ],
-      "duration_ms": 224293,
-      "name": "Hard To Love",
-      "url": "https://open.spotify.com/track/6E9V9TRlVOLjenGjHemzEH"
+      "duration_ms": 205000,
+      "name": "Homegrown",
+      "url": "https://open.spotify.com/track/2kR18wsL3gvXRXdNE4dCGc"
     },
     {
       "added_at": "2022-05-13 04:00:00",

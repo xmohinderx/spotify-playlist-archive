@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLS4T1o0HG9.md) - [plain]
 
 > The essential pop rock songs from the 80s\. Cover: The Go\-Go's
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,357 likes - 100 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,754 likes - 100 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,12 +24,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLS4T1o0HG9.md) - [plain]
 | 14 | [Bette Davis Eyes](https://open.spotify.com/track/0odIT9B9BvOCnXfS0e4lB5) | [Kim Carnes](https://open.spotify.com/artist/5PN2aHIvLEM98XIorsPMhE) | [Mistaken Identity](https://open.spotify.com/album/3iMwQk5yE0UDDKbLCdcxZA) | 3:48 |
 | 15 | [Nothing's Gonna Stop Us Now](https://open.spotify.com/track/3X7uFMzJrEE0sxn62qd8Ch) | [Starship](https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf) | [No Protection](https://open.spotify.com/album/3nCQjsOzTmnWM6gnjIaT8J) | 4:30 |
 | 16 | [Don't You \(Forget About Me\)](https://open.spotify.com/track/3fH4KjXFYMmljxrcGrbPj9) | [Simple Minds](https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj) | [Once Upon A Time \(Super Deluxe\)](https://open.spotify.com/album/4YimfceN1R0nOS9CefIFhm) | 4:23 |
-| 17 | [You Can't Hurry Love \- 2016 Remaster](https://open.spotify.com/track/4YwbSZaYeYja8Umyt222Qf) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [Hello, I Must Be Going! \(Deluxe Edition\)](https://open.spotify.com/album/6sn6eWmPciSiHj0ltTBl7M) | 2:55 |
-| 18 | [Heaven](https://open.spotify.com/track/7Ewz6bJ97vUqk5HdkvguFQ) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Reckless \(30th Anniversary / Deluxe Edition\)](https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL) | 4:03 |
+| 17 | [Heaven](https://open.spotify.com/track/7Ewz6bJ97vUqk5HdkvguFQ) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Reckless \(30th Anniversary / Deluxe Edition\)](https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL) | 4:03 |
+| 18 | [You Can't Hurry Love \- 2016 Remaster](https://open.spotify.com/track/4YwbSZaYeYja8Umyt222Qf) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [Hello, I Must Be Going! \(Deluxe Edition\)](https://open.spotify.com/album/6sn6eWmPciSiHj0ltTBl7M) | 2:55 |
 | 19 | [The Power Of Love](https://open.spotify.com/track/2olVm1lHicpveMAo4AUDRB) | [Huey Lewis & The News](https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6) | [Greatest Hits: Huey Lewis And The News](https://open.spotify.com/album/0u34k1ANjgZ47uQfG9yaLj) | 3:54 |
 | 20 | [We Didn't Start the Fire](https://open.spotify.com/track/3Cx4yrFaX8CeHwBMReOWXI) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [Storm Front](https://open.spotify.com/album/1Vw2uoVkLAJFVViJ1QyK1D) | 4:47 |
-| 21 | [You Can Call Me Al](https://open.spotify.com/track/0qxYx4F3vm1AOnfux6dDxP) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Graceland \(25th Anniversary Deluxe Edition\)](https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky) | 4:40 |
-| 22 | [Your Love](https://open.spotify.com/track/4oDZ5L8izBals6jKBJDBcX) | [The Outfield](https://open.spotify.com/artist/1zxDewzd2j1ZdSBGaYcr0y) | [Play Deep](https://open.spotify.com/album/2d5GU9ms5JCSS9GjsFebu8) | 3:36 |
+| 21 | [Your Love](https://open.spotify.com/track/4oDZ5L8izBals6jKBJDBcX) | [The Outfield](https://open.spotify.com/artist/1zxDewzd2j1ZdSBGaYcr0y) | [Play Deep](https://open.spotify.com/album/2d5GU9ms5JCSS9GjsFebu8) | 3:36 |
+| 22 | [You Can Call Me Al](https://open.spotify.com/track/0qxYx4F3vm1AOnfux6dDxP) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Graceland \(25th Anniversary Deluxe Edition\)](https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky) | 4:40 |
 | 23 | [Come On Eileen](https://open.spotify.com/track/3MrWxJaD2AT0W9DjWF64Vm) | [Dexys Midnight Runners](https://open.spotify.com/artist/4QTVePrFu1xuGM9K0kNXkk) | [Too Rye Ay](https://open.spotify.com/album/7nCWzcMZanUBPZgZaKpzM6) | 4:47 |
 | 24 | [We Built This City](https://open.spotify.com/track/6OnfBiiSc9RGKiBKKtZXgQ) | [Starship](https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf) | [Knee Deep In The Hoopla](https://open.spotify.com/album/0YCraVqAWvJHiBYP2AXgV6) | 4:56 |
 | 25 | [Centerfold](https://open.spotify.com/track/1ynmMEK1fkyiZ6Z6F3ThEt) | [The J\. Geils Band](https://open.spotify.com/artist/69Mj3u4FTUrpyeGNSIaU6F) | [Freeze Frame](https://open.spotify.com/album/48joW5905AMbTFLvy8ZWch) | 3:36 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLS4T1o0HG9.md) - [plain]
 | 65 | [Bizarre Love Triangle](https://open.spotify.com/track/6wVViUl2xSRoDK2T7dMZbR) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [Brotherhood \(Collector's Edition\)](https://open.spotify.com/album/0PSWY4XyjTWppfBb0tBtqu) | 4:23 |
 | 66 | [Abracadabra](https://open.spotify.com/track/2E2ZVy2fxslpAUgbb4zu84) | [Steve Miller Band](https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk) | [Abracadabra](https://open.spotify.com/album/0afS7TjKOoq8LzTx9CgOnu) | 5:08 |
 | 67 | [Talking In Your Sleep](https://open.spotify.com/track/7fRvtXvJMpGfTLdF0M09a1) | [The Romantics](https://open.spotify.com/artist/3daM7asS0gCFvyLemNx2EE) | [In Heat](https://open.spotify.com/album/0LMfbsue7HETT4P8Mqxbvg) | 3:55 |
-| 68 | [Whip It](https://open.spotify.com/track/4sscDOZCkbLSlDqcCgUJnX) | [DEVO](https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3) | [Freedom of Choice](https://open.spotify.com/album/6UsP4NQ9K4L4Nqxj0Qis41) | 2:41 |
-| 69 | [My Best Friend's Girl](https://open.spotify.com/track/1SRkKyJ2JjMZgyDWC30zKv) | [The Cars](https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp) | [The Cars](https://open.spotify.com/album/4tJPWT4r4FSKwy784Qs1Fq) | 3:43 |
+| 68 | [My Best Friend's Girl](https://open.spotify.com/track/1SRkKyJ2JjMZgyDWC30zKv) | [The Cars](https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp) | [The Cars](https://open.spotify.com/album/4tJPWT4r4FSKwy784Qs1Fq) | 3:43 |
+| 69 | [Whip It](https://open.spotify.com/track/4sscDOZCkbLSlDqcCgUJnX) | [DEVO](https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3) | [Freedom of Choice](https://open.spotify.com/album/6UsP4NQ9K4L4Nqxj0Qis41) | 2:41 |
 | 70 | [Valerie](https://open.spotify.com/track/3aAuIvgJGdp4wWd60riWfB) | [Steve Winwood](https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte) | [Talking Back To The Night](https://open.spotify.com/album/6zpu2C7qPjXrhv5cyuLNZn) | 4:06 |
 | 71 | [I Can't Go for That \(No Can Do\)](https://open.spotify.com/track/41dDygR3r7e926oGUXfrLt) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Private Eyes \(Expanded Edition\)](https://open.spotify.com/album/7rfpaXxmQG7dnFycZjLae0) | 5:07 |
 | 72 | [Raspberry Beret](https://open.spotify.com/track/2I1W3hcSsPIsEJfD69pHrW) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Around The World In A Day](https://open.spotify.com/album/27SA4Pkelh2pbwbVEORPOM) | 3:35 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLS4T1o0HG9.md) - [plain]
 | 83 | [Our House](https://open.spotify.com/track/1qV6e4ITnfGmA6m6Vklvbi) | [Madness](https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd) | [Madness](https://open.spotify.com/album/2P1bkVHSonLBBSKvrBbdbw) | 3:21 |
 | 84 | [Mr\. Roboto](https://open.spotify.com/track/7C0rG4oWO7VeZcffyW1sK9) | [Styx](https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh) | [Kilroy Was Here](https://open.spotify.com/album/0fRptUxZ5A1EAJww9bcqu6) | 5:28 |
 | 85 | [Good Times Roll](https://open.spotify.com/track/7hVhRCDV100Jq26NGR7adw) | [The Cars](https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp) | [The Cars](https://open.spotify.com/album/4tJPWT4r4FSKwy784Qs1Fq) | 3:45 |
-| 86 | [A View to a Kill](https://open.spotify.com/track/6I4snLrVOrJsLdd43isc27) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Decade](https://open.spotify.com/album/4P6rgSkSEXFGrpTk9NZUAj) | 3:37 |
-| 87 | [Manic Monday](https://open.spotify.com/track/00vYs0qZA40Z8AAaN7xmMO) | [The Bangles](https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC) | [Different Light \(Expanded Edition\)](https://open.spotify.com/album/7qEP3i0f0zfk6JUFW3SyeN) | 3:04 |
+| 86 | [Manic Monday](https://open.spotify.com/track/00vYs0qZA40Z8AAaN7xmMO) | [The Bangles](https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC) | [Different Light \(Expanded Edition\)](https://open.spotify.com/album/7qEP3i0f0zfk6JUFW3SyeN) | 3:04 |
+| 87 | [A View to a Kill](https://open.spotify.com/track/6I4snLrVOrJsLdd43isc27) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Decade](https://open.spotify.com/album/4P6rgSkSEXFGrpTk9NZUAj) | 3:37 |
 | 88 | [Sara](https://open.spotify.com/track/0HzjKCZmFhwcO2vnnHpj9q) | [Starship](https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf) | [Knee Deep In The Hoopla](https://open.spotify.com/album/0YCraVqAWvJHiBYP2AXgV6) | 4:52 |
 | 89 | [Out of Touch](https://open.spotify.com/track/7o67roCVsFiCt7Cf0ZLOJq) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [The Very Best of Daryl Hall / John Oates](https://open.spotify.com/album/4tUyNf5dGXwY4TaMaxwhqF) | 4:09 |
 | 90 | [Vacation](https://open.spotify.com/track/0oc7YoWV783fGr2GbdcIrz) | [The Go\-Go's](https://open.spotify.com/artist/2mG8HHQ9S9kcbjcrb5N1FE) | [Vacation](https://open.spotify.com/album/7qSxcMI3rTQaD1oTi1vel0) | 2:59 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLS4T1o0HG9.md) - [plain]
 | 99 | [In Between Days \- 2006 Remaster](https://open.spotify.com/track/07CyrZF9eVd02zzIse7tZA) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [The Head on the Door \(Deluxed Edition\)](https://open.spotify.com/album/4Uq47onfCEj5en94jpHovk) | 2:57 |
 | 100 | [Walk Like an Egyptian](https://open.spotify.com/track/5L6HNuXN71bfeuKXYtRasF) | [The Bangles](https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC) | [Different Light \(Expanded Edition\)](https://open.spotify.com/album/7qEP3i0f0zfk6JUFW3SyeN) | 3:23 |
 
-Snapshot ID: `MTY1MzQyMTk0MiwwMDAwMDAwMGNlY2NlMGM2N2EwNTdiMzE4OGUzMWJkMTdiNjE1NWIy`
+Snapshot ID: `MTY1MzQyMTk0MiwwMDAwMDAwMGM1Yzg0MzJlYjI4ZWI0OGE4MDlmZjdhZjQ1OWRkZGY5`

@@ -1,12 +1,12 @@
 {
   "description": "Unique versions of hit songs by other artists. Cover: Ashley McBryde",
-  "num_followers": 77537,
+  "num_followers": 77594,
   "original_name": "Country Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMDM0NjhmMTUyOGQ4MGM0ZDRhMzM1YWFjMzFjNDA4ZWJk",
+  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMDgzNWQ4ZTY2NDU2MmIxMjkwMzRkZDc0NGY0MTZiNTAw",
   "tracks": [
     {
       "added_at": "2022-09-16 04:00:00",
@@ -775,22 +775,18 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Reba Duets",
-        "url": "https://open.spotify.com/album/39Os87XP3yC2XBSpAur4BL"
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/5suOEzLE9dyan78iILj4aK"
       },
       "artists": [
         {
-          "name": "Reba McEntire",
-          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
-        },
-        {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+          "name": "Sturgill Simpson",
+          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
         }
       ],
-      "duration_ms": 223746,
-      "name": "Because Of You",
-      "url": "https://open.spotify.com/track/5LGEfWqwgYL16tyXkrRC8J"
+      "duration_ms": 198786,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/4zWjHKeCkNcNUrSBPNIGkc"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -811,18 +807,22 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/5suOEzLE9dyan78iILj4aK"
+        "name": "Reba Duets",
+        "url": "https://open.spotify.com/album/39Os87XP3yC2XBSpAur4BL"
       },
       "artists": [
         {
-          "name": "Sturgill Simpson",
-          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
+          "name": "Reba McEntire",
+          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
+        },
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
         }
       ],
-      "duration_ms": 198786,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/4zWjHKeCkNcNUrSBPNIGkc"
+      "duration_ms": 223746,
+      "name": "Because Of You",
+      "url": "https://open.spotify.com/track/5LGEfWqwgYL16tyXkrRC8J"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Just to See You Smile",
-        "url": "https://open.spotify.com/album/1J2QLVUYxNpY1AXYl7iUqA"
-      },
-      "artists": [
-        {
-          "name": "Mitchell Tenpenny",
-          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
-        }
-      ],
-      "duration_ms": 269525,
-      "name": "Just to See You Smile",
-      "url": "https://open.spotify.com/track/0KCLvp7viHNA3UsJyV0O6W"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Make Me Want To",
         "url": "https://open.spotify.com/album/2rb2vdtPBkHPzqw05jbQAU"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 175227,
       "name": "Make Me Want To",
       "url": "https://open.spotify.com/track/5qzSSqOzkNTLr6NPtH4xtD"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Just to See You Smile",
+        "url": "https://open.spotify.com/album/1J2QLVUYxNpY1AXYl7iUqA"
+      },
+      "artists": [
+        {
+          "name": "Mitchell Tenpenny",
+          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
+        }
+      ],
+      "duration_ms": 269525,
+      "name": "Just to See You Smile",
+      "url": "https://open.spotify.com/track/0KCLvp7viHNA3UsJyV0O6W"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "This Land Is Your Land (From Bright: The Album)",
-        "url": "https://open.spotify.com/album/24MCyGcqGDWuWQBAKadPfS"
-      },
-      "artists": [
-        {
-          "name": "Sam Hunt",
-          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
-        }
-      ],
-      "duration_ms": 154893,
-      "name": "This Land Is Your Land",
-      "url": "https://open.spotify.com/track/7HT2vhADZOJrwczl10DDaO"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Hallelujah",
         "url": "https://open.spotify.com/album/0s4mjch2kYLFQQNbgPNbuE"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 229574,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/0wDRNOFe1nzWFDQc5FoKk1"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "This Land Is Your Land (From Bright: The Album)",
+        "url": "https://open.spotify.com/album/24MCyGcqGDWuWQBAKadPfS"
+      },
+      "artists": [
+        {
+          "name": "Sam Hunt",
+          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
+        }
+      ],
+      "duration_ms": 154893,
+      "name": "This Land Is Your Land",
+      "url": "https://open.spotify.com/track/7HT2vhADZOJrwczl10DDaO"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Carolina In My Mind",
-        "url": "https://open.spotify.com/album/096rv9JgHgwoc4VTICs8Np"
-      },
-      "artists": [
-        {
-          "name": "Raleigh Keegan",
-          "url": "https://open.spotify.com/artist/1mDIaHzalOaN9oX7hHnpXV"
-        }
-      ],
-      "duration_ms": 233684,
-      "name": "Carolina In My Mind",
-      "url": "https://open.spotify.com/track/4DG1AciZ86C7zaee6VkLih"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Wide Open Spaces - Spotify Singles",
         "url": "https://open.spotify.com/album/14J7gZWOOBbG3LKtE0xs4t"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 240224,
       "name": "Wide Open Spaces - Spotify Singles",
       "url": "https://open.spotify.com/track/5ZO6g6fEK9tsXNn2yqlzIr"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Carolina In My Mind",
+        "url": "https://open.spotify.com/album/096rv9JgHgwoc4VTICs8Np"
+      },
+      "artists": [
+        {
+          "name": "Raleigh Keegan",
+          "url": "https://open.spotify.com/artist/1mDIaHzalOaN9oX7hHnpXV"
+        }
+      ],
+      "duration_ms": 233684,
+      "name": "Carolina In My Mind",
+      "url": "https://open.spotify.com/track/4DG1AciZ86C7zaee6VkLih"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Nobody Knows",
-        "url": "https://open.spotify.com/album/5HneOaxBGbFAwZR1tvLImP"
-      },
-      "artists": [
-        {
-          "name": "Rayne Johnson",
-          "url": "https://open.spotify.com/artist/3Zo19GTbgk9V6yCLrIfsxt"
-        }
-      ],
-      "duration_ms": 223253,
-      "name": "Nobody Knows",
-      "url": "https://open.spotify.com/track/7kty8TspGq6DFI7LP91Kfh"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/10hkWR17NEvncSn3w1sYPz"
       },
@@ -1459,18 +1443,18 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Dylan Marlowe",
-        "url": "https://open.spotify.com/album/1Cn8tdli6qxfcmhTQ8RcnY"
+        "name": "Nobody Knows",
+        "url": "https://open.spotify.com/album/5HneOaxBGbFAwZR1tvLImP"
       },
       "artists": [
         {
-          "name": "Dylan Marlowe",
-          "url": "https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax"
+          "name": "Rayne Johnson",
+          "url": "https://open.spotify.com/artist/3Zo19GTbgk9V6yCLrIfsxt"
         }
       ],
-      "duration_ms": 202988,
-      "name": "Drivers License",
-      "url": "https://open.spotify.com/track/5kP970YG6XuXHfXZiTW5sk"
+      "duration_ms": 223253,
+      "name": "Nobody Knows",
+      "url": "https://open.spotify.com/track/7kty8TspGq6DFI7LP91Kfh"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1487,6 +1471,22 @@
       "duration_ms": 210013,
       "name": "Send My Love (To Your New Lover)",
       "url": "https://open.spotify.com/track/5U2HfXfIm9li9FK6F38hTS"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Dylan Marlowe",
+        "url": "https://open.spotify.com/album/1Cn8tdli6qxfcmhTQ8RcnY"
+      },
+      "artists": [
+        {
+          "name": "Dylan Marlowe",
+          "url": "https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax"
+        }
+      ],
+      "duration_ms": 202988,
+      "name": "Drivers License",
+      "url": "https://open.spotify.com/track/5kP970YG6XuXHfXZiTW5sk"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1603,6 +1603,26 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
+        "name": "If We Were Vampires",
+        "url": "https://open.spotify.com/album/5DkrmJBS8N5ZAdEbQnrIBK"
+      },
+      "artists": [
+        {
+          "name": "Motel Drive",
+          "url": "https://open.spotify.com/artist/504hnDW2yy7YSCbyExbKmD"
+        },
+        {
+          "name": "Poor Mans Poison",
+          "url": "https://open.spotify.com/artist/0YHgnSkV3S5mvSSCTRWDi5"
+        }
+      ],
+      "duration_ms": 253370,
+      "name": "If We Were Vampires",
+      "url": "https://open.spotify.com/track/64PHZr3ufu3RxD9pE0ajJM"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
         "name": "Flower Shops",
         "url": "https://open.spotify.com/album/6a0snbHrAHLQXNHiAnmmAW"
       },
@@ -1615,6 +1635,22 @@
       "duration_ms": 214684,
       "name": "Flower Shops",
       "url": "https://open.spotify.com/track/5H51cBWdVVStrUl5ymGeqa"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Outskirts of Heaven",
+        "url": "https://open.spotify.com/album/6koiaXW97fMtsGIFX11CZm"
+      },
+      "artists": [
+        {
+          "name": "Matt Schuster",
+          "url": "https://open.spotify.com/artist/4HNYqvVDimiWSfGfSyGJGD"
+        }
+      ],
+      "duration_ms": 243545,
+      "name": "Outskirts of Heaven",
+      "url": "https://open.spotify.com/track/7H3EzoWKPRcagDVhJU4WxI"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1651,22 +1687,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Outskirts of Heaven",
-        "url": "https://open.spotify.com/album/6koiaXW97fMtsGIFX11CZm"
-      },
-      "artists": [
-        {
-          "name": "Matt Schuster",
-          "url": "https://open.spotify.com/artist/4HNYqvVDimiWSfGfSyGJGD"
-        }
-      ],
-      "duration_ms": 243545,
-      "name": "Outskirts of Heaven",
-      "url": "https://open.spotify.com/track/7H3EzoWKPRcagDVhJU4WxI"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Cosmic Hallelujah",
         "url": "https://open.spotify.com/album/0bBHLytjtuHYxKxuAE5G5G"
       },
@@ -1679,26 +1699,6 @@
       "duration_ms": 301146,
       "name": "I Want to Know What Love Is",
       "url": "https://open.spotify.com/track/3qTOcH165UGRRH49LMHc8H"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "If We Were Vampires",
-        "url": "https://open.spotify.com/album/5DkrmJBS8N5ZAdEbQnrIBK"
-      },
-      "artists": [
-        {
-          "name": "Motel Drive",
-          "url": "https://open.spotify.com/artist/504hnDW2yy7YSCbyExbKmD"
-        },
-        {
-          "name": "Poor Mans Poison",
-          "url": "https://open.spotify.com/artist/0YHgnSkV3S5mvSSCTRWDi5"
-        }
-      ],
-      "duration_ms": 253370,
-      "name": "If We Were Vampires",
-      "url": "https://open.spotify.com/track/64PHZr3ufu3RxD9pE0ajJM"
     }
   ],
   "unique_name": "Country Covers",

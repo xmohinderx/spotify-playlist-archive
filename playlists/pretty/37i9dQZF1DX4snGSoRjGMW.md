@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4snGSoRjGMW.md) - [plain]
 
 > Soul meets blues\. Cover: Bettye LaVette
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,048 likes - 60 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,063 likes - 60 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4snGSoRjGMW.md) - [plain]
 | 38 | [First You Cry](https://open.spotify.com/track/28hYrUWnji9pKfEZ5RcZQD) | [Little Buster & the Soul Brothers](https://open.spotify.com/artist/6UN2nDyCut9rrFFhfrO1Qs) | [Right On Time!](https://open.spotify.com/album/0fasWjmufll2DjLombteEC) | 4:25 |
 | 39 | [Girl Your Best Friend Done Took Your Place](https://open.spotify.com/track/7hpfCSScaK9u7Lq6pZRMvC) | [Joey Gilmore](https://open.spotify.com/artist/3plaeA9K4obOgZifz8qx64) | [Eccentric Soul: The Saadia Label](https://open.spotify.com/album/6qA44kTPPgHYcpphlPqMei) | 2:55 |
 | 40 | [Soul Deep](https://open.spotify.com/track/6ffEgX5nzfQTbXXLiaDW1P) | [Lavelle White](https://open.spotify.com/artist/4GJ4yxV0hwx6Y1mfc3Qxwz) | [Into the Mystic](https://open.spotify.com/album/113YdmaOGCEg3wmh1zW92Y) | 3:04 |
-| 41 | [Someday Baby](https://open.spotify.com/track/2SSqOWVTbKN0pTTKjgy6dg) | [Chick Willis](https://open.spotify.com/artist/0NrO6QCCIuFygHBeEN670A) | [From the Heart and Soul](https://open.spotify.com/album/3uwUrRcmhucNTtlNmaXtNn) | 4:42 |
-| 42 | [Baby I Will](https://open.spotify.com/track/5ep51jd4xhZusf8QnaTfor) | [Preston Shannon](https://open.spotify.com/artist/2MdVkGwNAnweIZS739BhFp) | [Midnight In Memphis](https://open.spotify.com/album/69umcBTHWhRf3fqo97ydAx) | 4:29 |
+| 41 | [Baby I Will](https://open.spotify.com/track/5ep51jd4xhZusf8QnaTfor) | [Preston Shannon](https://open.spotify.com/artist/2MdVkGwNAnweIZS739BhFp) | [Midnight In Memphis](https://open.spotify.com/album/69umcBTHWhRf3fqo97ydAx) | 4:29 |
+| 42 | [Someday Baby](https://open.spotify.com/track/2SSqOWVTbKN0pTTKjgy6dg) | [Chick Willis](https://open.spotify.com/artist/0NrO6QCCIuFygHBeEN670A) | [From the Heart and Soul](https://open.spotify.com/album/3uwUrRcmhucNTtlNmaXtNn) | 4:42 |
 | 43 | [On The Surface](https://open.spotify.com/track/0qQTdGIA3YPcC1L3kaJpm4) | [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3) | [I've Got My Own Hell To Raise](https://open.spotify.com/album/0JTNbX0ZE6zvhxk02nfLLC) | 3:26 |
 | 44 | [You Got the Goods on You](https://open.spotify.com/track/5ad6BP0tSKEHMC2fOStbdj) | [Bobby Rush](https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi) | [Sitting on Top of the Blues](https://open.spotify.com/album/2Kf9UPahXKB2vrPUcw7M10) | 4:03 |
 | 45 | [I Can't Stop](https://open.spotify.com/track/4zKzINcISloFWm2mh0yyFG) | [Syl Johnson](https://open.spotify.com/artist/6XItHNeKXecnFpkJHOn5JL) | [Back In The Game](https://open.spotify.com/album/1LJKmJgD6dS77Ud3MgEqsZ) | 4:17 |
@@ -57,16 +57,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4snGSoRjGMW.md) - [plain]
 | 47 | [Engines And Wings](https://open.spotify.com/track/5DKD8QtRqQbCwIQ7mTXPpl) | [Little Buster & the Soul Brothers](https://open.spotify.com/artist/6UN2nDyCut9rrFFhfrO1Qs) | [Right On Time!](https://open.spotify.com/album/0fasWjmufll2DjLombteEC) | 4:16 |
 | 48 | [Stop Doggin Me Around](https://open.spotify.com/track/4CI56rOk5ClZPhxgnvRcP7) | [Joyce Lawson](https://open.spotify.com/artist/0Hw5PTRTJMSYkLGnIqQeqW) | [Today I Sing The Blues](https://open.spotify.com/album/2FETHI04M6eFdnKaDBaiqF) | 4:35 |
 | 49 | [I'm So Proud](https://open.spotify.com/track/5t6lSg9siTTeRc5WHOdqkH) | [Tutu Jones](https://open.spotify.com/artist/2YJ9frh2VN2BXKVtEjiV2L) | [Inside Out](https://open.spotify.com/album/1SNeILyRS6UHWV0zlRbmLb) | 4:48 |
-| 50 | [What Can A Man Do?](https://open.spotify.com/track/03mq9rVxvMrzu7qBQQZ588) | [Michael Burks](https://open.spotify.com/artist/19YeucN49a9jRiTyseG6a6) | [Make It Rain](https://open.spotify.com/album/7mSgK9b9TLn1KA6xOoe2FF) | 5:16 |
-| 51 | [The Streets Will Love You To Death](https://open.spotify.com/track/5H1aZtAOqmliM5naRN3YfX) | [Preston Shannon](https://open.spotify.com/artist/2MdVkGwNAnweIZS739BhFp) | [Midnight In Memphis](https://open.spotify.com/album/69umcBTHWhRf3fqo97ydAx) | 3:55 |
+| 50 | [Going to the Shack](https://open.spotify.com/track/7Edg1SdyEws5DfX5FEkME2) | [Billy Price](https://open.spotify.com/artist/509o7Fm0youPHjgcq5nCRI), [Otis Clay](https://open.spotify.com/artist/2jV8AcZ8W3TfiqInUGWwlL) | [This Time For Real](https://open.spotify.com/album/749QhTw8T5oHNNZ3MigsLQ) | 4:15 |
+| 51 | [What Can A Man Do?](https://open.spotify.com/track/03mq9rVxvMrzu7qBQQZ588) | [Michael Burks](https://open.spotify.com/artist/19YeucN49a9jRiTyseG6a6) | [Make It Rain](https://open.spotify.com/album/7mSgK9b9TLn1KA6xOoe2FF) | 5:16 |
 | 52 | [I Won't Be Lonely](https://open.spotify.com/track/7nRPUUqMMwAt4sDBaoODA2) | [Willie Walker](https://open.spotify.com/artist/4ATDRGpJ9wi6e5FRYb8C2t), [The Butanes](https://open.spotify.com/artist/3zlUDjxwrKGcnAvgPG2c3L) | [Memphisapolis](https://open.spotify.com/album/6TEps2bRTcnlOVvIIhGutL) | 3:47 |
-| 53 | [Going to the Shack](https://open.spotify.com/track/7Edg1SdyEws5DfX5FEkME2) | [Billy Price](https://open.spotify.com/artist/509o7Fm0youPHjgcq5nCRI), [Otis Clay](https://open.spotify.com/artist/2jV8AcZ8W3TfiqInUGWwlL) | [This Time For Real](https://open.spotify.com/album/749QhTw8T5oHNNZ3MigsLQ) | 4:15 |
-| 54 | [You're Only Good For One Thang Baby](https://open.spotify.com/track/0CLPTSldV2Dp016RKyBUqi) | [Sista Monica](https://open.spotify.com/artist/22FdZlPVKxIeNwRHvx74A7) | [People Love The Blues](https://open.spotify.com/album/7bfoTZkMiZ6GzNvTydX9ax) | 3:28 |
+| 53 | [The Streets Will Love You To Death](https://open.spotify.com/track/5H1aZtAOqmliM5naRN3YfX) | [Preston Shannon](https://open.spotify.com/artist/2MdVkGwNAnweIZS739BhFp) | [Midnight In Memphis](https://open.spotify.com/album/69umcBTHWhRf3fqo97ydAx) | 3:55 |
+| 54 | [Reckless Heart](https://open.spotify.com/track/2P4SDDe2O1sMNETDMK2NXF) | [Johnny Rawls](https://open.spotify.com/artist/7vuXCITiRilCLfuySIgZKM) | [Tiger in a Cage](https://open.spotify.com/album/2y2airR6ysuixHtrYfHpEG) | 4:25 |
 | 55 | [Sweet Dynamite!](https://open.spotify.com/track/2UsMjBWTZftDuCmF5QGN0g) | [Syl Johnson](https://open.spotify.com/artist/6XItHNeKXecnFpkJHOn5JL) | [Talkin' About Chicago](https://open.spotify.com/album/2COElwuZipCYIYNPvxpdCj) | 4:31 |
-| 56 | [Reckless Heart](https://open.spotify.com/track/2P4SDDe2O1sMNETDMK2NXF) | [Johnny Rawls](https://open.spotify.com/artist/7vuXCITiRilCLfuySIgZKM) | [Tiger in a Cage](https://open.spotify.com/album/2y2airR6ysuixHtrYfHpEG) | 4:25 |
+| 56 | [You're Only Good For One Thang Baby](https://open.spotify.com/track/0CLPTSldV2Dp016RKyBUqi) | [Sista Monica](https://open.spotify.com/artist/22FdZlPVKxIeNwRHvx74A7) | [People Love The Blues](https://open.spotify.com/album/7bfoTZkMiZ6GzNvTydX9ax) | 3:28 |
 | 57 | [I Can't Hold It](https://open.spotify.com/track/1YIEDMHFSa43AFA3fNtbk6) | [Lou Pride](https://open.spotify.com/artist/3AEOeIFNFooiCVzG5BD5kZ) | [Keep On Believing](https://open.spotify.com/album/1Ujf4A1kIy1BW6RqW9CJYN) | 4:25 |
 | 58 | [What's It Take?](https://open.spotify.com/track/0DD4k4dwa8AzxphFMzC5xp) | [Willie Walker](https://open.spotify.com/artist/4ATDRGpJ9wi6e5FRYb8C2t), [The Butanes](https://open.spotify.com/artist/3zlUDjxwrKGcnAvgPG2c3L) | [Memphisapolis](https://open.spotify.com/album/6TEps2bRTcnlOVvIIhGutL) | 4:09 |
 | 59 | [In Your Arms Again](https://open.spotify.com/track/669EMLj2E0nvm68Y95XBbr) | [Eugene Bridges](https://open.spotify.com/artist/727soeGZ5CJB5qksGORqNR) | [Jump the Joint](https://open.spotify.com/album/5AEPi7bvMdOMv6n6KFjnsZ) | 5:08 |
 | 60 | [Black Cat Roun' My Do'](https://open.spotify.com/track/4wQkp4iGbBrE4QbJbqC3CM) | [Jackie Payne Steve Edmonson Band](https://open.spotify.com/artist/0XnUcbdWKZxfPl6bNDTZt3) | [Master of the Game](https://open.spotify.com/album/2EfYz1jjfWM3TNmawkeMKX) | 3:56 |
 
-Snapshot ID: `MTYyMTU2OTY2MCwwMDAwMDAwMDVkMTE1NGUwZDcwYTJmMGQ4YTE4NDFkZTYwYWU3OTEz`
+Snapshot ID: `MTYyMTU2OTY2MCwwMDAwMDAwMGRiM2M3YzFlODcwMmZlNWM1M2ZhYThhOWYyNjA3MDk1`

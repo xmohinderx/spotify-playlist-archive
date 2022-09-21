@@ -1,12 +1,12 @@
 {
   "description": "Get lifted by the waves of faith-infused music.  Cover:  Jonathan McReynolds",
-  "num_followers": 23535,
+  "num_followers": 23639,
   "original_name": "Lifted Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjE2Nzg5MiwwMDAwMDAwMDExNGMxZDA2NGJjMjA5MmFmYWI0NDIzYzM3NTM5MzM3",
+  "snapshot_id": "MTY2MjE2Nzg5MiwwMDAwMDAwMGFkNWI5NzdkNjgzNmZhNDE4MzBiNWE2ODAyYzM5MzI0",
   "tracks": [
     {
       "added_at": "2022-09-03 01:18:12",
@@ -307,30 +307,6 @@
     {
       "added_at": "2022-09-03 01:18:12",
       "album": {
-        "name": "Respect My Team",
-        "url": "https://open.spotify.com/album/1d7o2fV8QVIxvIDYGlRLxe"
-      },
-      "artists": [
-        {
-          "name": "Tedashii",
-          "url": "https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1"
-        },
-        {
-          "name": "Trip Lee",
-          "url": "https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy"
-        },
-        {
-          "name": "Lecrae",
-          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
-        }
-      ],
-      "duration_ms": 227741,
-      "name": "Respect My Team",
-      "url": "https://open.spotify.com/track/1oEPa4o4yRCKNPVD0PVUkW"
-    },
-    {
-      "added_at": "2022-09-03 01:18:12",
-      "album": {
         "name": "Watch The Sun",
         "url": "https://open.spotify.com/album/5H1FtrVEYKl9hQyDxBZHvN"
       },
@@ -363,6 +339,30 @@
       "duration_ms": 323855,
       "name": "The Better Benediction (feat. Zacardi Cortez, Gene Moore, Samoht, Tim Rogers & Darrel 'MusiqCity' Walls)",
       "url": "https://open.spotify.com/track/3lHg2hk5SKxykj9bt48ARl"
+    },
+    {
+      "added_at": "2022-09-03 01:18:12",
+      "album": {
+        "name": "Respect My Team",
+        "url": "https://open.spotify.com/album/1d7o2fV8QVIxvIDYGlRLxe"
+      },
+      "artists": [
+        {
+          "name": "Tedashii",
+          "url": "https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1"
+        },
+        {
+          "name": "Trip Lee",
+          "url": "https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy"
+        },
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        }
+      ],
+      "duration_ms": 227741,
+      "name": "Respect My Team",
+      "url": "https://open.spotify.com/track/1oEPa4o4yRCKNPVD0PVUkW"
     },
     {
       "added_at": "2022-09-03 01:18:12",
@@ -419,46 +419,6 @@
     {
       "added_at": "2022-09-03 01:18:12",
       "album": {
-        "name": "Summertime",
-        "url": "https://open.spotify.com/album/1g538z0oTFoZdKOciRvPJn"
-      },
-      "artists": [
-        {
-          "name": "Steven Malcolm",
-          "url": "https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        },
-        {
-          "name": "Jay-Way",
-          "url": "https://open.spotify.com/artist/1RDbE3dM2bNNSTh88R4MQ7"
-        }
-      ],
-      "duration_ms": 189009,
-      "name": "Summertime",
-      "url": "https://open.spotify.com/track/2pVXqvUkfOb9S7NNsRvQey"
-    },
-    {
-      "added_at": "2022-09-03 01:18:12",
-      "album": {
-        "name": "We Gon\u2019 Be Alright",
-        "url": "https://open.spotify.com/album/7mlzDISRd3IcS4MFf0Cuxb"
-      },
-      "artists": [
-        {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        }
-      ],
-      "duration_ms": 214973,
-      "name": "We Gon\u2019 Be Alright",
-      "url": "https://open.spotify.com/track/0ErItBOhcHJahcQ8BGqk4V"
-    },
-    {
-      "added_at": "2022-09-03 01:18:12",
-      "album": {
         "name": "Royalty: Live At The Ryman",
         "url": "https://open.spotify.com/album/66hDxNOJJd54OLzt79Uvef"
       },
@@ -479,6 +439,22 @@
     {
       "added_at": "2022-09-03 01:18:12",
       "album": {
+        "name": "We Gon\u2019 Be Alright",
+        "url": "https://open.spotify.com/album/7mlzDISRd3IcS4MFf0Cuxb"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        }
+      ],
+      "duration_ms": 214973,
+      "name": "We Gon\u2019 Be Alright",
+      "url": "https://open.spotify.com/track/0ErItBOhcHJahcQ8BGqk4V"
+    },
+    {
+      "added_at": "2022-09-03 01:18:12",
+      "album": {
         "name": "Thank You Lord",
         "url": "https://open.spotify.com/album/1iItuJVyvs7hpvhsShybhv"
       },
@@ -491,6 +467,30 @@
       "duration_ms": 133053,
       "name": "Thank You Lord",
       "url": "https://open.spotify.com/track/3lZqJ8lyCWUobZLJ0vIr0w"
+    },
+    {
+      "added_at": "2022-09-03 01:18:12",
+      "album": {
+        "name": "Summertime",
+        "url": "https://open.spotify.com/album/1g538z0oTFoZdKOciRvPJn"
+      },
+      "artists": [
+        {
+          "name": "Steven Malcolm",
+          "url": "https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Jay-Way",
+          "url": "https://open.spotify.com/artist/1RDbE3dM2bNNSTh88R4MQ7"
+        }
+      ],
+      "duration_ms": 189009,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/2pVXqvUkfOb9S7NNsRvQey"
     },
     {
       "added_at": "2022-09-03 01:18:12",
@@ -831,6 +831,26 @@
     {
       "added_at": "2022-09-03 01:18:12",
       "album": {
+        "name": "Hard Times (feat. Mali Music)",
+        "url": "https://open.spotify.com/album/25hqQNi8mhRfP34y9dKvD0"
+      },
+      "artists": [
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        },
+        {
+          "name": "Mali Music",
+          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
+        }
+      ],
+      "duration_ms": 205333,
+      "name": "Hard Times (feat. Mali Music)",
+      "url": "https://open.spotify.com/track/3rFbsLHao2fghAslf30Qmm"
+    },
+    {
+      "added_at": "2022-09-03 01:18:12",
+      "album": {
         "name": "Easy!",
         "url": "https://open.spotify.com/album/1gT3Q7Av72uP0WSRaS8RlU"
       },
@@ -855,22 +875,6 @@
     {
       "added_at": "2022-09-03 01:18:12",
       "album": {
-        "name": "Get Up",
-        "url": "https://open.spotify.com/album/7HHLL2T8rdwV1T8Tzw4CLi"
-      },
-      "artists": [
-        {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        }
-      ],
-      "duration_ms": 362346,
-      "name": "Get Up",
-      "url": "https://open.spotify.com/track/5r3afYPAvNdqVpMfsHm6qS"
-    },
-    {
-      "added_at": "2022-09-03 01:18:12",
-      "album": {
         "name": "Something Has To Break (feat. Karen Clark Sheard)",
         "url": "https://open.spotify.com/album/6uRvS7BE7GbZh9xNMMVCqn"
       },
@@ -891,22 +895,18 @@
     {
       "added_at": "2022-09-03 01:18:12",
       "album": {
-        "name": "Hard Times (feat. Mali Music)",
-        "url": "https://open.spotify.com/album/25hqQNi8mhRfP34y9dKvD0"
+        "name": "Get Up",
+        "url": "https://open.spotify.com/album/7HHLL2T8rdwV1T8Tzw4CLi"
       },
       "artists": [
         {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
-        },
-        {
-          "name": "Mali Music",
-          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
         }
       ],
-      "duration_ms": 205333,
-      "name": "Hard Times (feat. Mali Music)",
-      "url": "https://open.spotify.com/track/3rFbsLHao2fghAslf30Qmm"
+      "duration_ms": 362346,
+      "name": "Get Up",
+      "url": "https://open.spotify.com/track/5r3afYPAvNdqVpMfsHm6qS"
     },
     {
       "added_at": "2022-09-03 01:18:12",
@@ -947,22 +947,6 @@
     {
       "added_at": "2022-09-03 01:18:12",
       "album": {
-        "name": "Start Over",
-        "url": "https://open.spotify.com/album/7ENwhMMoaNFPlIUF7XxTcr"
-      },
-      "artists": [
-        {
-          "name": "Matthews Ntlele",
-          "url": "https://open.spotify.com/artist/1fi880kqdH6Pg581Z6IEWX"
-        }
-      ],
-      "duration_ms": 202546,
-      "name": "Start Over",
-      "url": "https://open.spotify.com/track/6NC7f4MVisYYpVPl0I3O6p"
-    },
-    {
-      "added_at": "2022-09-03 01:18:12",
-      "album": {
         "name": "Church",
         "url": "https://open.spotify.com/album/30cPB00t2FzvXPQLtSNJF8"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 169817,
       "name": "Church",
       "url": "https://open.spotify.com/track/5c5Cn75uLZbYsGHVbDHVHD"
+    },
+    {
+      "added_at": "2022-09-03 01:18:12",
+      "album": {
+        "name": "Start Over",
+        "url": "https://open.spotify.com/album/7ENwhMMoaNFPlIUF7XxTcr"
+      },
+      "artists": [
+        {
+          "name": "Matthews Ntlele",
+          "url": "https://open.spotify.com/artist/1fi880kqdH6Pg581Z6IEWX"
+        }
+      ],
+      "duration_ms": 202546,
+      "name": "Start Over",
+      "url": "https://open.spotify.com/track/6NC7f4MVisYYpVPl0I3O6p"
     },
     {
       "added_at": "2022-09-03 01:18:12",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2022-09-03 01:18:12",
       "album": {
+        "name": "Be Real",
+        "url": "https://open.spotify.com/album/6zv0299GsEbWGWSnQAXi8x"
+      },
+      "artists": [
+        {
+          "name": "Battz",
+          "url": "https://open.spotify.com/artist/1l528yNr0Jpv2dqg4r06kI"
+        }
+      ],
+      "duration_ms": 147000,
+      "name": "Be Real",
+      "url": "https://open.spotify.com/track/3IyDfQUM8Dvk67b0hO6or9"
+    },
+    {
+      "added_at": "2022-09-03 01:18:12",
+      "album": {
         "name": "Black As Heaven",
         "url": "https://open.spotify.com/album/2Dh5SVSE4omZnFNxZ2vbnp"
       },
@@ -1427,22 +1443,6 @@
       "duration_ms": 217600,
       "name": "Black As Heaven",
       "url": "https://open.spotify.com/track/2A39ETlkPGtIKmQT5F2nDo"
-    },
-    {
-      "added_at": "2022-09-03 01:18:12",
-      "album": {
-        "name": "Be Real",
-        "url": "https://open.spotify.com/album/6zv0299GsEbWGWSnQAXi8x"
-      },
-      "artists": [
-        {
-          "name": "Battz",
-          "url": "https://open.spotify.com/artist/1l528yNr0Jpv2dqg4r06kI"
-        }
-      ],
-      "duration_ms": 147000,
-      "name": "Be Real",
-      "url": "https://open.spotify.com/track/3IyDfQUM8Dvk67b0hO6or9"
     },
     {
       "added_at": "2022-09-03 01:18:12",

@@ -4,7 +4,7 @@
 
 > Headbangers of Bangladesh\. Cover \- Meghdol
 
-99 songs - 7 hr 47 min - [published](https://open.spotify.com/playlist/5E1dMl5K80HmX4b03WyB3C)
+102 songs - 8 hr 30 min - [published](https://open.spotify.com/playlist/5E1dMl5K80HmX4b03WyB3C)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Ghumheen Shohore](https://open.spotify.com/track/50z1myCt0rcbFZMN5peb5d) | [Abir Mannan](https://open.spotify.com/artist/75tnGqluDnpfDILALcANFf) | [Ghumheen Shohore](https://open.spotify.com/album/5eApWi4z5Gj1G7dsTV1l5f) | 6:46 | 2022-08-29 |  |
 | [Harmony \- TV Size](https://open.spotify.com/track/6SizagOQEpjnLYXI5UuQuB) | [Naveed and the Navlets](https://open.spotify.com/artist/2EFzFMXMmHCeIBq9JBxoqv) | [Harmony \(TV Size\)](https://open.spotify.com/album/2aafnsBObPenvOBKMAcWA4) | 2:12 | 2022-07-29 |  |
 | [ISD](https://open.spotify.com/track/5NHklX2aJag4YCJndtjjci) | [Indalo](https://open.spotify.com/artist/37LGjqM0je1KNrLRD3MZ47) | [Kokhon Kibhabe Ekhane Ke Jane](https://open.spotify.com/album/7atnOE38HHe2eIHud4VvHP) | 3:59 | 2022-06-16 |  |
+| [Jana Ki Chhilo?](https://open.spotify.com/track/7BFOxqjMLxKGXOn8VB7VQG) | [Buffering](https://open.spotify.com/artist/1W4HbIZa9wnuJLYxVIrBnH) | [Jana Ki Chhilo?](https://open.spotify.com/album/0J8risMmNAx4OOAqRUQlCh) | 6:20 | 2022-09-20 |  |
 | [Je Shohore Ami Nei](https://open.spotify.com/track/1DI1uHLG1yesDqaucsLKLH) | [Bay of Bengal](https://open.spotify.com/artist/6dXgxvd22ojzmwry1cXSP6) | [Nirob Durvikkho](https://open.spotify.com/album/6CqQxAKa6d8ibYyiGGSZZc) | 5:05 | 2022-06-16 |  |
 | [Jhaal](https://open.spotify.com/track/5584oJPEvdI51kgsCR4mbp) | [SIN](https://open.spotify.com/artist/22bCoAwCZyUVMFQBaChhgS) | [Jhaal](https://open.spotify.com/album/4TbsjQcvZa5FkbI8GsjzFA) | 3:38 | 2022-08-29 |  |
 | [Jibonto Somadhi](https://open.spotify.com/track/6XL84ZO0NDI6ssyn0kbV8V) | [FRAZE KHAN](https://open.spotify.com/artist/0pCSCTvPFOBkkD70vjwjFy) | [Jibonto Somadhi](https://open.spotify.com/album/649gMbZYZYUu36UxD34t4J) | 3:25 | 2022-06-16 | 2022-07-16 |
@@ -61,6 +62,7 @@
 | [Khoye Jawa Chaad](https://open.spotify.com/track/7drgfsb1o3LPQQc5tHZW8O) | [Level Five](https://open.spotify.com/artist/0wf0kncEWHLMGqYqXgZql8) | [Khoye Jawa Chaad](https://open.spotify.com/album/0FwGhAmAhssWTEzv9P0VYX) | 4:13 | 2022-06-16 |  |
 | [Ki Kore Bhulecho](https://open.spotify.com/track/60zmqnMo2hbsg9KMslHChB) | [Hridoy Khan](https://open.spotify.com/artist/4L8j8SN9LKAcKYq8oy4f5j) | [Ki Kore Bhulecho](https://open.spotify.com/album/0uGQ03b444OyPeMweM5Xks) | 3:55 | 2022-06-16 |  |
 | [Kokhon Kibhabe Ekhane Ke Jane](https://open.spotify.com/track/3jy2Bz9A9YBl9HbPvQle8X) | [Indalo](https://open.spotify.com/artist/37LGjqM0je1KNrLRD3MZ47) | [Kokhon Kibhabe Ekhane Ke Jane](https://open.spotify.com/album/1q7I38qz1tvEI6Oa1sAmIm) | 4:10 | 2022-06-16 | 2022-07-16 |
+| [Krittrim Prithibi Deluxe Edition](https://open.spotify.com/track/7ceKXmTvOuIcj8VALPZTfq) | [Hallucination](https://open.spotify.com/artist/19KFB4cmXVPZKalVqcmYwc) | [Krittrim Prithibi Deluxe Edition](https://open.spotify.com/album/6xNhHoAXlmtVeIg7cZbTzH) | 33:47 | 2022-09-20 |  |
 | [Maa Go Bhabna Keno](https://open.spotify.com/track/2BwUnAP2QhfFjtN0Ah7nPX) | [Shishir Ahmed](https://open.spotify.com/artist/7B9OMl4OkifBonxyDNBJ2A), [Bakhtiar Hossain](https://open.spotify.com/artist/5BixMBi6zYuMQ3suvrT6LF), [Ishmamul Farhad](https://open.spotify.com/artist/3a3SXVCQIAqiC8jIQ5S6en) | [Maa Go Bhabna Keno](https://open.spotify.com/album/5DrJc56e982XXy1ZfjQ9iV) | 1:57 | 2022-06-16 | 2022-07-16 |
 | [Mayabee](https://open.spotify.com/track/0sNM2ixLSvQyt1UvIyzej5) | [Blue Touch](https://open.spotify.com/artist/0aL6Av2TQ6oCEi6ctrectc) | [Mayabee](https://open.spotify.com/album/5jK5GGn8Z76n8PZRTclzoH) | 4:02 | 2022-06-16 |  |
 | [Mitthe Shopno](https://open.spotify.com/track/5sTph7Ktij6uPkWgVdTTPL) | [Vanomous](https://open.spotify.com/artist/6837JIyq53JF6Je9Tvbov9) | [Rockoholic](https://open.spotify.com/album/2DLL4wKniDTPu17TPVKvpA) | 4:17 | 2022-06-16 |  |
@@ -106,6 +108,7 @@
 | [Tomay Mone Pore](https://open.spotify.com/track/5wW1wMvFAYkG0PIA1XSPkf) | [Shafayet Badhon](https://open.spotify.com/artist/6IkPa1RHI4966Tmbos22Px), [Bayzid Rony](https://open.spotify.com/artist/0d9xrOzUVP4VRw0zeVqiDh) | [Project North Star, Vol\. 1](https://open.spotify.com/album/0eg9Gl97LB6NoSL9C01eMO) | 2:45 | 2022-06-16 | 2022-07-16 |
 | [Tumi, Ami O Bhor](https://open.spotify.com/track/12KuRGdlIUoPOYUmMqFiPa) | [Nemesis](https://open.spotify.com/artist/694bRUlAdfIh4BpiMWI3FF) | [Tumi, Ami O Bhor](https://open.spotify.com/album/0nGeQAJDGQnl3pYUUPEwCy) | 4:50 | 2022-06-16 |  |
 | [Utshorgo](https://open.spotify.com/track/7tcHBMra1AZ3QWIHX3hX0r) | [Aftermath](https://open.spotify.com/artist/79iOqoOkavfzftyQjx21qp) | [JED](https://open.spotify.com/album/1oLSVb8CrKCdQyoY7LIeIZ) | 5:52 | 2022-06-16 |  |
+| [Way Out](https://open.spotify.com/track/5fSpAecOc745zR9aPZr0Ls) | [Shepherds](https://open.spotify.com/artist/2jU7XZcRaztSc7jEs7F7ex) | [Way Out](https://open.spotify.com/album/7xfi75F5Ph8WSykPk6hGNR) | 3:13 | 2022-09-20 |  |
 | [ও মুরুব্বি](https://open.spotify.com/track/1Cn5z87cpiD0uxMIzcFE4b) | [Ariyan Khan](https://open.spotify.com/artist/28y51UfdmY0xm7lHLrDd34) | [ও মুরুব্বি](https://open.spotify.com/album/2bkb02lSyVRDdbPVjkZcER) | 3:43 | 2022-06-16 |  |
 
 \*This playlist was first scraped on 2022-06-22. Prior content cannot be recovered.

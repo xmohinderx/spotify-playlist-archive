@@ -3921,7 +3921,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 258431,
       "name": "Can't Hold Us (feat. Ray Dalton)",
       "url": "https://open.spotify.com/track/22skzmqfdWrjJylampe0kt"
@@ -6649,7 +6649,7 @@
       ],
       "date_added": "2022-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-20",
+      "date_removed": null,
       "duration_ms": 150296,
       "name": "Eine Idee",
       "url": "https://open.spotify.com/track/21MlfDYRjL0DuBbiCS9wlB"
@@ -9639,7 +9639,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 197333,
       "name": "Hotel",
       "url": "https://open.spotify.com/track/0JzG1wJuB4v9UPkSE7LMXi"
@@ -11809,7 +11809,7 @@
       ],
       "date_added": "2022-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-20",
+      "date_removed": null,
       "duration_ms": 162637,
       "name": "La Bachata",
       "url": "https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u"
@@ -14395,7 +14395,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 184447,
       "name": "MIDDLE OF THE NIGHT",
       "url": "https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly"
@@ -15553,7 +15553,7 @@
       ],
       "date_added": "2022-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-18",
+      "date_removed": null,
       "duration_ms": 158080,
       "name": "Nachts wach (Lila Wolken Bootleg)",
       "url": "https://open.spotify.com/track/6ZjuBJah2xFEl4z3X20di3"
@@ -17311,7 +17311,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 263400,
       "name": "Perfect",
       "url": "https://open.spotify.com/track/0tgVpDi06FyKpA1z0VMD4v"
@@ -19821,7 +19821,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 233712,
       "name": "Shape of You",
       "url": "https://open.spotify.com/track/7qiZfU4dY1lWllzX7mPBI3"
@@ -20837,7 +20837,7 @@
       ],
       "date_added": "2022-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-18",
+      "date_removed": null,
       "duration_ms": 141395,
       "name": "Sternenstaub",
       "url": "https://open.spotify.com/track/0j1whACQqbHlGzSZaUh6uR"
@@ -20993,7 +20993,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 163025,
       "name": "Sunroof",
       "url": "https://open.spotify.com/track/4h4QlmocP3IuwYEj2j14p8"
@@ -21029,7 +21029,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-20",
+      "date_removed": null,
       "duration_ms": 170977,
       "name": "Super Freaky Girl",
       "url": "https://open.spotify.com/track/2yjlYDiNiQkdxVqTlaSrlX"
@@ -22257,6 +22257,24 @@
       "duration_ms": 146468,
       "name": "Tranova",
       "url": "https://open.spotify.com/track/0LT8JOx0FxzQnZ7zhTKD84"
+    },
+    {
+      "album": {
+        "name": "4AM",
+        "url": "https://open.spotify.com/album/3RphX1drnlADazsWfpobjv"
+      },
+      "artists": [
+        {
+          "name": "Mahir Baj",
+          "url": "https://open.spotify.com/artist/1MvUrlhjVKkdCQdDqRoYgA"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138205,
+      "name": "True",
+      "url": "https://open.spotify.com/track/47H26TwwZ6SCcU1CF2aRYn"
     },
     {
       "album": {

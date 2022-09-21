@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:220xv2aB3dsGxaJI1gGs7l">Hotboii</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,680,065 likes - 100 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,680,349 likes - 100 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 6 | [Munch \(Feelin’ U\)](https://open.spotify.com/track/1jOgJN75btuUONIdf57vHz) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Munch \(Feelin’ U\)](https://open.spotify.com/album/0LgFPcU3P2HLGUtBQTBBpv) | 1:44 |
 | 7 | [Shoot It Myself \(feat\. Future\)](https://open.spotify.com/track/1PeDMQb4OIt2QBVvvXUd15) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Shoot It Myself \(feat\. Future\)](https://open.spotify.com/album/0afoo6vjuoRwsWH60vsbwN) | 3:07 |
 | 8 | [STEP BACK \(FEAT\. MIKE DIMES\)](https://open.spotify.com/track/1OwD4SeTFdUYZaJkbGcPuv) | [Dro Kenji](https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R), [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [LOST IN HERE](https://open.spotify.com/album/4URIzfA3qieoUfUmBRTwFS) | 2:56 |
-| 9 | [One Time \(feat\. Ice Spice, Skillibeng & J.I the Prince of N.Y\)](https://open.spotify.com/track/5c1veUUGWMIxFv84E5P9uH) | [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [J.I the Prince of N.Y](https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h) | [One Time \(feat\. Ice Spice, Skillibeng & J.I the Prince of N.Y\)](https://open.spotify.com/album/7FX6vTJxAvOSM7DIpFCHRC) | 3:16 |
+| 9 | [One Time \(feat\. Ice Spice, Skillibeng & J.I the Prince of N.Y\)](https://open.spotify.com/track/5c1veUUGWMIxFv84E5P9uH) | [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [J.I the Prince of N.Y](https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [One Time \(feat\. Ice Spice, Skillibeng & J.I the Prince of N.Y\)](https://open.spotify.com/album/7FX6vTJxAvOSM7DIpFCHRC) | 3:16 |
 | 10 | [Uncle Tommy](https://open.spotify.com/track/6BDANe68PkkUUbqa7CZDPC) | [BigWalkDog](https://open.spotify.com/artist/5RivQkx7CAT7TSVFJKvbDz) | [Uncle Tommy](https://open.spotify.com/album/1D1Cn0FPzUT1xaGuONoX7m) | 3:32 |
 | 11 | [On My Mama](https://open.spotify.com/track/5uKaDwrqiCfXMGR2auRqG4) | [BIG30](https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE) | [On My Mama](https://open.spotify.com/album/06RJFLDhyqbZWchervXQU1) | 2:45 |
 | 12 | [Rich How I'm Dyin](https://open.spotify.com/track/0eUP5Pyd69bv6uqTLFgF3m) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l) | [Rich How I'm Dyin](https://open.spotify.com/album/5L7WF303YbVt8FUDudC5xF) | 2:33 |

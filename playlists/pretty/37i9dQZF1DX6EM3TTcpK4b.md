@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EM3TTcpK4b.md) - [plain]
 
 > Pa' cantar, bailar y pistear\. ¡Qué suene el mariachi! En portada: Javier Solís
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,545 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,843 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EM3TTcpK4b.md) - [plain]
 | 32 | [Ya Lo Sé](https://open.spotify.com/track/4pIiKrGXCgTZOAFGJjCEvL) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [La Gran Señora](https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa) | 3:23 |
 | 33 | [Costumbres](https://open.spotify.com/track/4y42VnzfGCV7gXr1qcL302) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Canta A Juan Gabriel](https://open.spotify.com/album/0KXlM36v51VrPceSsiz42M) | 4:32 |
 | 34 | [Por Una Mujer Bonita](https://open.spotify.com/track/0ttipGf9tKRBGayR53Zy79) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Por Una Mujer Bonita](https://open.spotify.com/album/575z6jPePLhrgIlIeaKflS) | 2:44 |
-| 35 | [Te Solté la Rienda](https://open.spotify.com/track/3YubPkIjza38KmXTIGdk91) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [El Cantinero](https://open.spotify.com/album/7Gxn1LKL1SUSW8CVJugfES) | 2:38 |
-| 36 | [El Hijo Desobediente](https://open.spotify.com/track/1uWves4S89RPNHMMM28H0x) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Rancherísimo, Vol\. 2](https://open.spotify.com/album/3AV09tqLmn5HRwmf54Dz1U) | 3:15 |
+| 35 | [El Hijo Desobediente](https://open.spotify.com/track/1uWves4S89RPNHMMM28H0x) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Rancherísimo, Vol\. 2](https://open.spotify.com/album/3AV09tqLmn5HRwmf54Dz1U) | 3:15 |
+| 36 | [Te Solté la Rienda](https://open.spotify.com/track/3YubPkIjza38KmXTIGdk91) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [El Cantinero](https://open.spotify.com/album/7Gxn1LKL1SUSW8CVJugfES) | 2:38 |
 | 37 | [Soy lo prohibido](https://open.spotify.com/track/3zceb1fYe5jdwEmuGvJINO) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [¡MÉXICO Por Siempre!](https://open.spotify.com/album/46FkZmwdxnGPVXUTTfhche) | 3:04 |
 | 38 | [La Farsante](https://open.spotify.com/track/1o0tPc9qFFFuGK4ka2IkCp) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Todo](https://open.spotify.com/album/6X4xZK2oV8ydJDnIMpL5TX) | 2:55 |
 | 39 | [Para Siempre](https://open.spotify.com/track/0uyVgmoXDbwS1ubv8AurVZ) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernandez Para Siempre](https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203) | 2:51 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EM3TTcpK4b.md) - [plain]
 | 41 | [Soñador Eterno](https://open.spotify.com/track/3mPcFoFfDb5r6WkbIFQKqa) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Amanecida Con Todo y Con Todos](https://open.spotify.com/album/21EdAKCODBRv3OSIEHSYUa) | 3:13 |
 | 42 | [Perdóname](https://open.spotify.com/track/5Ss6PEMm27CQUCotqWLKe6) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Por Una Mujer Bonita](https://open.spotify.com/album/575z6jPePLhrgIlIeaKflS) | 3:31 |
 | 43 | [Mi Talismán](https://open.spotify.com/track/6CYf0PlFE36q772z8qrZrT) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Mi Mexico](https://open.spotify.com/album/0AhHiKGTjvrxCmy3eN4dsa) | 4:48 |
-| 44 | [Yo...El Aventurero](https://open.spotify.com/track/5k4oS18NesIeSpnZEDnh6p) | [Pedro Fernández](https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh) | [La Más Completa Colección](https://open.spotify.com/album/3Jtuf52P0Xo8JaE7oCMAdA) | 2:59 |
-| 45 | [Se Me Olvidó Otra Vez](https://open.spotify.com/track/6Y3AwA8UfVSDjeMrdJyjLK) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [15 Anos De Exitos](https://open.spotify.com/album/0raOnVnK8S60UkiSpIzVIY) | 2:57 |
+| 44 | [Se Me Olvidó Otra Vez](https://open.spotify.com/track/6Y3AwA8UfVSDjeMrdJyjLK) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [15 Anos De Exitos](https://open.spotify.com/album/0raOnVnK8S60UkiSpIzVIY) | 2:57 |
+| 45 | [Yo...El Aventurero](https://open.spotify.com/track/5k4oS18NesIeSpnZEDnh6p) | [Pedro Fernández](https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh) | [La Más Completa Colección](https://open.spotify.com/album/3Jtuf52P0Xo8JaE7oCMAdA) | 2:59 |
 | 46 | [El Rey](https://open.spotify.com/track/4ihZFukyNotzCUtxI4qpu8) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [El Cantinero](https://open.spotify.com/album/7Gxn1LKL1SUSW8CVJugfES) | 2:09 |
 | 47 | [Esclavo y Amo](https://open.spotify.com/track/6FdA99MiSW1e18f2vEAx27) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Los Boleros Morunos Solis](https://open.spotify.com/album/5fJVD81W2XvK9a2IBHyEjq) | 2:57 |
 | 48 | [Una Página Más](https://open.spotify.com/track/2eVPRDZqjO0sMD32ecDPyP) | [Ezequiel Peña](https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty) | [A Todas Las Que Amé](https://open.spotify.com/album/3mPYmDJtfS7QiqWJ1OtIeA) | 2:41 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EM3TTcpK4b.md) - [plain]
 | 99 | [Himno A La Humildad](https://open.spotify.com/track/73VnO22Ad7K9lJSpUZT9QT) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd), [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Por Amor A Mi Pueblo](https://open.spotify.com/album/6Fzh7DxhjZ1fImQAHBe8od) | 4:25 |
 | 100 | [Golondrina De Ojos Negros \- Versión Mariachi](https://open.spotify.com/track/3syPKM9ORE0fyb7tucLR58) | [Rigo Tovar](https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx) | [Con Mariachi](https://open.spotify.com/album/6ZmAvrZsc7atoSDqqODDVF) | 3:13 |
 
-Snapshot ID: `MTY2MTk2MTU3MywwMDAwMDAwMDU0NjA5MmE1NjY0NzVjZTFlMDhmMjk0Yjg1NmFkZTE0`
+Snapshot ID: `MTY2MTk2MTU3MywwMDAwMDAwMGYwYzU3MTM3ZmY2YTNkZDQ2MjJmYWUzZWU0MmY4MTk2`

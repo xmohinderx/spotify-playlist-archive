@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9iGsUcr0Bpa.md) - [plain]
 
 > Classics from trailblazing women in hip\-hop\. Cover: Lil' Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,196 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,305 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9iGsUcr0Bpa.md) - [plain]
 | 26 | [Itty Bitty Piggy](https://open.spotify.com/track/1uYxHHZBRliM9cNzCxq93g) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Beam Me Up Scotty](https://open.spotify.com/album/2upw5IrzeqKApIQZyx5o6r) | 4:06 |
 | 27 | [The Jump Off](https://open.spotify.com/track/6UZS3KgNc0NF13bbtQTzD6) | [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX) | [La Bella Mafia](https://open.spotify.com/album/6UlNLXBFLqRDiKnyrF4oDE) | 3:54 |
 | 28 | [Oh Yeah](https://open.spotify.com/track/2mSLhpYdxyeKUeiSwdtS6E) | [Foxy Brown](https://open.spotify.com/artist/1wvlC6NwleHt1iRD6d5X2C), [Spragga Benz](https://open.spotify.com/artist/2RUW6D53228zMHAXjaQI8f) | [Broken Silence](https://open.spotify.com/album/0V5LKel3fj8JvCNeYHWCuU) | 4:20 |
-| 29 | [Feels So Good](https://open.spotify.com/track/6oSoFV8IDRMrFh2C4aXIKt) | [Remy Ma](https://open.spotify.com/artist/39mHYiNmLR7p8PXNG8Wll6), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [There's Something About Remy\-Based On A True Story \(Explicit\)](https://open.spotify.com/album/3fsD8zvVTghKqePQ19oKLO) | 4:02 |
-| 30 | [Final Hour](https://open.spotify.com/track/7nY3NA1AvORewLU3BU7GNX) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 4:16 |
+| 29 | [Final Hour](https://open.spotify.com/track/7nY3NA1AvORewLU3BU7GNX) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 4:16 |
+| 30 | [Feels So Good](https://open.spotify.com/track/6oSoFV8IDRMrFh2C4aXIKt) | [Remy Ma](https://open.spotify.com/artist/39mHYiNmLR7p8PXNG8Wll6), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [There's Something About Remy\-Based On A True Story \(Explicit\)](https://open.spotify.com/album/3fsD8zvVTghKqePQ19oKLO) | 4:02 |
 | 31 | [Gettin' Some](https://open.spotify.com/track/4uNisev7PGUAixBOagpgyY) | [Shawnna](https://open.spotify.com/artist/4gpDA7R5796e6zbvZxGNga) | [Block Music](https://open.spotify.com/album/60JjM21U15tdaMbiYv3naR) | 3:22 |
 | 32 | [Pull Over](https://open.spotify.com/track/6M33HiUHLC3R3gfXYNGMAy) | [Trina](https://open.spotify.com/artist/4PrinKSrmILmo0kERG0Ogn) | [Da Baddest Bitch](https://open.spotify.com/album/5tXpmutwVnXITJLptIssVU) | 3:14 |
 | 33 | [What'chu Like \(feat\. Tyrese\)](https://open.spotify.com/track/5d8woPn6sHRA6yPnnHnqSt) | [Da Brat](https://open.spotify.com/artist/2I1bnmb9VQEQGKHxvr0gSf), [Tyrese](https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ) | [Unrestricted](https://open.spotify.com/album/6O6Ljcn3hIcxMw3eSLD811) | 3:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9iGsUcr0Bpa.md) - [plain]
 | 49 | [Cold Rock a Party \(feat\. Missy Misdemeanor Elliott\) \- Bad Boy Remix](https://open.spotify.com/track/0hfNQm7gmjbIFlKiHoiACx) | [MC Lyte](https://open.spotify.com/artist/2ZbWlThDW0qSbI3hinpl0w), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Bad Boy](https://open.spotify.com/artist/30YAm5k11pWaOvbHcNhi08) | [Bad As I Wanna B](https://open.spotify.com/album/1E3ssiuLLWw9OqRYQ59UjK) | 4:37 |
 | 50 | [Ching Ching](https://open.spotify.com/track/4YqYDP9MoPeBh1AqmzxD8g) | [Ms\. Jade](https://open.spotify.com/artist/0WjnlObkDedRrSBTC9N3lW), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Girl Interrupted](https://open.spotify.com/album/0Byh9TWAYzZgzVCXAtKpIB) | 3:58 |
 
-Snapshot ID: `MTYzNjc3ODg1MCwwMDAwMDAwMDc5OWUxMTk0ZWJhMWMzOWI3MmU4MGZmZTUyYzAwZWZm`
+Snapshot ID: `MTYzNjc3ODg1MCwwMDAwMDAwMGQ5OWI0ZGE4Zjg1OTA3ZGQ5MWEwNzY4MjE1Y2FhODhm`

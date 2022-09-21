@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 
 > A selection of Ambient and Experimental tracks made by Caterina Barbieri, as inspiration for Spirit Exit, her most recent album.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,954 likes - 30 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,007 likes - 30 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 | 12 | [The Landscape Listens](https://open.spotify.com/track/6qQTNojH1JExNttv0NthOb) | [Caterina Barbieri](https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu) | [Spirit Exit](https://open.spotify.com/album/5KHpUME9BlHi5Dhf3thJoH) | 8:17 |
 | 13 | [Resurgence](https://open.spotify.com/track/0Xy8Xdk360sJyqD2IJTaxY) | [KMRU](https://open.spotify.com/artist/5blZUSGq0z7HhuSldSXV3a), [Aho Ssan](https://open.spotify.com/artist/6DP0aNDMupNmkyK4drCrvC) | [Limen](https://open.spotify.com/album/3kymDZ82blY8DFzM6uz880) | 11:53 |
 | 14 | [Mille Voix](https://open.spotify.com/track/3HAb2QPhllNttEKZNYDdX2) | [Robert Aiki Aubrey Lowe](https://open.spotify.com/artist/1RWnH2AYF6gpgtDNOlLZLg), [Ariel Kalma](https://open.spotify.com/artist/1XDHnXR3sd1pGoc7vqUtBq) | [FRKWYS Vol\. 12 \- We Know Each Other Somehow](https://open.spotify.com/album/4ncD4cYn7gssNrzPBgzPEK) | 4:22 |
-| 15 | [Rain from a Blue Sky](https://open.spotify.com/track/3TAXWN7VJYXTfyvXi1jLhf) | [Jonas Colstrup](https://open.spotify.com/artist/5ZRR9BnCZ89uKNgkvnwCJ2) | [Rain from a Blue Sky](https://open.spotify.com/album/2Govw4yIBd07fdq4kMCfyw) | 6:05 |
+| 15 | [Rain from a Blue Sky](https://open.spotify.com/track/3TAXWN7VJYXTfyvXi1jLhf) | [Jonas Colstrup](https://open.spotify.com/artist/5ZRR9BnCZ89uKNgkvnwCJ2), [Budapest Art Orchestra](https://open.spotify.com/artist/6OepiS5BXsCRgfBGf5CD9N), [Theatre Of Voices](https://open.spotify.com/artist/4XFASxAPCD5LZ6omKGJI56) | [Rain from a Blue Sky](https://open.spotify.com/album/2Govw4yIBd07fdq4kMCfyw) | 6:05 |
 | 16 | [Only Love From Now On \(with Johanna Scheie Orellana\)](https://open.spotify.com/track/3Woi4fIAiktL6UwEcDFPfo) | [Carmen Villain](https://open.spotify.com/artist/4Ps6q34DtWOueT2tJtwE5l), [Johanna Scheie Orellana](https://open.spotify.com/artist/2XZZ4suNvaBBsxrHcRa7pG) | [Only Love From Now On](https://open.spotify.com/album/51gBdOcPhuUMKlSTO5CySL) | 8:13 |
 | 17 | [Titik Titik Kenai Ujan \(The Sound of Rain\)](https://open.spotify.com/track/0QjeE0Xx4uDwjnGzlzboGU) | [Tusau Padan](https://open.spotify.com/artist/6118mSy0ooADEhDqoS6B2X) | [Masters of the Sarawakian Sape, Featuring Tusau Padan](https://open.spotify.com/album/6SBMB6gFg8FtPV3blJFFis) | 9:10 |
 | 18 | [Freedom at the 45th Floor](https://open.spotify.com/track/3FhTy63b1pmm5FSEUtpCPR) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Trans\-Millenia Music](https://open.spotify.com/album/4hY9BjX7ydDk7hlXaP8ykw) | 4:34 |

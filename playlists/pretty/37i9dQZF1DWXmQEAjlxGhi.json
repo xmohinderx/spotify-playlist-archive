@@ -1,12 +1,12 @@
 {
   "description": "Upbeat Latin songs to keep your heart rate up.",
-  "num_followers": 1285808,
+  "num_followers": 1286252,
   "original_name": "Latin Cardio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDY2Nzk1MiwwMDAwMDAwMDM2MTlmNjQ5NjI5ODg0YjQzN2VlMGY1OWFmYjg5ZjJl",
+  "snapshot_id": "MTY2MDY2Nzk1MiwwMDAwMDAwMGFjOGZhNDIyYzdlYzJjY2UxZjllMjRjZjNkNzcxM2Ey",
   "tracks": [
     {
       "added_at": "2022-08-16 16:39:12",
@@ -931,26 +931,6 @@
     {
       "added_at": "2022-08-16 16:39:12",
       "album": {
-        "name": "Qu\u00e9 M\u00e1s Pues?",
-        "url": "https://open.spotify.com/album/53ul5SFjVUQCotbJhjCkkK"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 217773,
-      "name": "Qu\u00e9 M\u00e1s Pues?",
-      "url": "https://open.spotify.com/track/6hf0RpxTbOprT5nnwzkk8e"
-    },
-    {
-      "added_at": "2022-08-16 16:39:12",
-      "album": {
         "name": "Una Vaina Loca",
         "url": "https://open.spotify.com/album/1I92y0NxYT4cUYSQePekyM"
       },
@@ -971,6 +951,26 @@
       "duration_ms": 226187,
       "name": "Una Vaina Loca",
       "url": "https://open.spotify.com/track/2qEoAz0i6yEz5dPggABcLH"
+    },
+    {
+      "added_at": "2022-08-16 16:39:12",
+      "album": {
+        "name": "Qu\u00e9 M\u00e1s Pues?",
+        "url": "https://open.spotify.com/album/53ul5SFjVUQCotbJhjCkkK"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 217773,
+      "name": "Qu\u00e9 M\u00e1s Pues?",
+      "url": "https://open.spotify.com/track/6hf0RpxTbOprT5nnwzkk8e"
     },
     {
       "added_at": "2022-08-16 16:39:12",
@@ -1039,26 +1039,6 @@
       "duration_ms": 231603,
       "name": "Loco",
       "url": "https://open.spotify.com/track/6PDlkWmrq2ZKiUuFt2aQsH"
-    },
-    {
-      "added_at": "2022-08-16 16:39:12",
-      "album": {
-        "name": "In Da Getto",
-        "url": "https://open.spotify.com/album/2M7g0SNXnSq7j5BgYJYJsl"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-        }
-      ],
-      "duration_ms": 131065,
-      "name": "In Da Getto",
-      "url": "https://open.spotify.com/track/63aj87TQG6F3RVO5nbG2VQ"
     },
     {
       "added_at": "2022-08-16 16:39:12",
@@ -1175,6 +1155,26 @@
     {
       "added_at": "2022-08-16 16:39:12",
       "album": {
+        "name": "In Da Getto",
+        "url": "https://open.spotify.com/album/2M7g0SNXnSq7j5BgYJYJsl"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        }
+      ],
+      "duration_ms": 131065,
+      "name": "In Da Getto",
+      "url": "https://open.spotify.com/track/63aj87TQG6F3RVO5nbG2VQ"
+    },
+    {
+      "added_at": "2022-08-16 16:39:12",
+      "album": {
         "name": "AEIOU",
         "url": "https://open.spotify.com/album/4J8uihMqMcLWlhz6DsGdJK"
       },
@@ -1191,30 +1191,6 @@
       "duration_ms": 161880,
       "name": "AEIOU",
       "url": "https://open.spotify.com/track/1c2vVx6knoiZHXbJJ9Mk8L"
-    },
-    {
-      "added_at": "2022-08-16 16:39:12",
-      "album": {
-        "name": "OASIS",
-        "url": "https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 218826,
-      "name": "COMO UN BEB\u00c9",
-      "url": "https://open.spotify.com/track/7knLcYCOSaURD0d7HUULFM"
     },
     {
       "added_at": "2022-08-16 16:39:12",
@@ -1371,8 +1347,8 @@
     {
       "added_at": "2022-08-16 16:39:12",
       "album": {
-        "name": "Nivel De Perreo",
-        "url": "https://open.spotify.com/album/6uDeoe39q6zh4vNScJTTgr"
+        "name": "OASIS",
+        "url": "https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN"
       },
       "artists": [
         {
@@ -1380,13 +1356,17 @@
           "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
         },
         {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
         }
       ],
-      "duration_ms": 151573,
-      "name": "Nivel De Perreo",
-      "url": "https://open.spotify.com/track/0nDGgXV5oI8TdAmWjUx65l"
+      "duration_ms": 218826,
+      "name": "COMO UN BEB\u00c9",
+      "url": "https://open.spotify.com/track/7knLcYCOSaURD0d7HUULFM"
     },
     {
       "added_at": "2022-08-16 16:39:12",
@@ -1443,30 +1423,6 @@
     {
       "added_at": "2022-08-16 16:39:12",
       "album": {
-        "name": "WOW BB",
-        "url": "https://open.spotify.com/album/09qDFWKi7sDxRV8l40osDR"
-      },
-      "artists": [
-        {
-          "name": "Natti Natasha",
-          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
-        },
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        },
-        {
-          "name": "Chimbala",
-          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
-        }
-      ],
-      "duration_ms": 191250,
-      "name": "WOW BB",
-      "url": "https://open.spotify.com/track/4fQAjk5sPe6ay04m5slBlU"
-    },
-    {
-      "added_at": "2022-08-16 16:39:12",
-      "album": {
         "name": "Int\u00e9ntalo (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4ldSAxBxxmdxlfoh81njb4"
       },
@@ -1491,6 +1447,30 @@
     {
       "added_at": "2022-08-16 16:39:12",
       "album": {
+        "name": "WOW BB",
+        "url": "https://open.spotify.com/album/09qDFWKi7sDxRV8l40osDR"
+      },
+      "artists": [
+        {
+          "name": "Natti Natasha",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Chimbala",
+          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
+        }
+      ],
+      "duration_ms": 191250,
+      "name": "WOW BB",
+      "url": "https://open.spotify.com/track/4fQAjk5sPe6ay04m5slBlU"
+    },
+    {
+      "added_at": "2022-08-16 16:39:12",
+      "album": {
         "name": "Wow Wow (feat. Becky G)",
         "url": "https://open.spotify.com/album/7peqMFYmRXaFJ5nXvKtA86"
       },
@@ -1507,26 +1487,6 @@
       "duration_ms": 199772,
       "name": "Wow Wow (feat. Becky G)",
       "url": "https://open.spotify.com/track/20ChN6ZWJ2yhuXcE6SKHDM"
-    },
-    {
-      "added_at": "2022-08-16 16:39:12",
-      "album": {
-        "name": "Mi Gente",
-        "url": "https://open.spotify.com/album/1ZJtkYBzRb7drznu3UYb3k"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Willy William",
-          "url": "https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq"
-        }
-      ],
-      "duration_ms": 189440,
-      "name": "Mi Gente",
-      "url": "https://open.spotify.com/track/4ipnJyDU3Lq15qBAYNqlqK"
     },
     {
       "added_at": "2022-08-16 16:39:12",
@@ -1571,6 +1531,42 @@
     {
       "added_at": "2022-08-16 16:39:12",
       "album": {
+        "name": "Nivel De Perreo",
+        "url": "https://open.spotify.com/album/6uDeoe39q6zh4vNScJTTgr"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "duration_ms": 151573,
+      "name": "Nivel De Perreo",
+      "url": "https://open.spotify.com/track/0nDGgXV5oI8TdAmWjUx65l"
+    },
+    {
+      "added_at": "2022-08-16 16:39:12",
+      "album": {
+        "name": "Diva Platinum Edition",
+        "url": "https://open.spotify.com/album/5n1pmoNSuLWs9bSGXzUY7e"
+      },
+      "artists": [
+        {
+          "name": "Ivy Queen",
+          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
+        }
+      ],
+      "duration_ms": 184506,
+      "name": "Quiero Bailar",
+      "url": "https://open.spotify.com/track/1EyH5BK5Cx5XzQyEDks0fT"
+    },
+    {
+      "added_at": "2022-08-16 16:39:12",
+      "album": {
         "name": "INTER SHIBUYA (FERXXO EDITION)",
         "url": "https://open.spotify.com/album/0kI46dzlikgAVpJ6LdkbJE"
       },
@@ -1607,22 +1603,6 @@
       "duration_ms": 200706,
       "name": "Ram Pam Pam",
       "url": "https://open.spotify.com/track/730gfBUwEpyruhbSvDuytR"
-    },
-    {
-      "added_at": "2022-08-16 16:39:12",
-      "album": {
-        "name": "Diva Platinum Edition",
-        "url": "https://open.spotify.com/album/5n1pmoNSuLWs9bSGXzUY7e"
-      },
-      "artists": [
-        {
-          "name": "Ivy Queen",
-          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
-        }
-      ],
-      "duration_ms": 184506,
-      "name": "Quiero Bailar",
-      "url": "https://open.spotify.com/track/1EyH5BK5Cx5XzQyEDks0fT"
     },
     {
       "added_at": "2022-08-16 16:39:12",
@@ -1723,6 +1703,26 @@
       "duration_ms": 180680,
       "name": "Pa Que Sude (Gonna Make You Sweat/Chosen Few Mix) Feat Shooter Ledo",
       "url": "https://open.spotify.com/track/64znnDhgrJjbxQK7dsEe3Q"
+    },
+    {
+      "added_at": "2022-08-16 16:39:12",
+      "album": {
+        "name": "Mi Gente",
+        "url": "https://open.spotify.com/album/1ZJtkYBzRb7drznu3UYb3k"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Willy William",
+          "url": "https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq"
+        }
+      ],
+      "duration_ms": 189440,
+      "name": "Mi Gente",
+      "url": "https://open.spotify.com/track/4ipnJyDU3Lq15qBAYNqlqK"
     },
     {
       "added_at": "2022-08-16 16:39:12",

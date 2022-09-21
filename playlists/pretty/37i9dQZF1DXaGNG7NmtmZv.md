@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaGNG7NmtmZv.md) - [plain]
 
 > Classic songs from the legends of the hardcore scene.
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,640 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,720 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,17 +13,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaGNG7NmtmZv.md) - [plain]
 | 3 | [Punishment](https://open.spotify.com/track/3eI2C0gohXlg4AsavdYSiz) | [Biohazard](https://open.spotify.com/artist/3nhxXtHwC2TookQyqQlFK1) | [Urban Discipline](https://open.spotify.com/album/4ZtfEq2ES0vRMUY5shqDws) | 4:44 |
 | 4 | [Fazer](https://open.spotify.com/track/0Bv2ixOjn8jKiVTQXE9mF8) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Slip](https://open.spotify.com/album/3LVYsDFVGuPE7kNQyXZvgp) | 3:13 |
 | 5 | [Living to Die](https://open.spotify.com/track/3w8lbCMKWBMu40MoNyV0Il) | [Vision Of Disorder](https://open.spotify.com/artist/5EWBxA1pUqWVhFwBZYUQil) | [From Bliss To Devestation](https://open.spotify.com/album/6HUbHHOrjEUmttu2eVrACC) | 4:06 |
-| 6 | [Hard Times](https://open.spotify.com/track/2o3v9646q5cqBv5mdYXAYR) | [Cro\-Mags](https://open.spotify.com/artist/5WCrzTQZ6S6EgebqI57Ilg) | [Before The Quarrel](https://open.spotify.com/album/4cOlUeoODYu4DODpSnlU3i) | 1:36 |
-| 7 | [Start Today](https://open.spotify.com/track/1izvrCbd0C75ScVDI6uVOl) | [Gorilla Biscuits](https://open.spotify.com/artist/4dJX4iJ0qbB4gjkeenbK2N) | [Start Today](https://open.spotify.com/album/1AAn8Qve9N7NET9v1dKceh) | 2:03 |
+| 6 | [Start Today](https://open.spotify.com/track/1izvrCbd0C75ScVDI6uVOl) | [Gorilla Biscuits](https://open.spotify.com/artist/4dJX4iJ0qbB4gjkeenbK2N) | [Start Today](https://open.spotify.com/album/1AAn8Qve9N7NET9v1dKceh) | 2:03 |
+| 7 | [Hard Times](https://open.spotify.com/track/2o3v9646q5cqBv5mdYXAYR) | [Cro\-Mags](https://open.spotify.com/artist/5WCrzTQZ6S6EgebqI57Ilg) | [Before The Quarrel](https://open.spotify.com/album/4cOlUeoODYu4DODpSnlU3i) | 1:36 |
 | 8 | [Step Down](https://open.spotify.com/track/6DE037vHREtIRYjqzZ8fkf) | [Sick Of It All](https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU) | [Scratch the Surface](https://open.spotify.com/album/64ZNLvblppwORqskxoMbG1) | 3:09 |
 | 9 | [The Disconnect](https://open.spotify.com/track/5KX5fs2yfRPZ2E2SYYA4lD) | [Counterparts](https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z) | [The Current Will Carry Us](https://open.spotify.com/album/3bJtSVsqSsqmVtfvtnisbU) | 3:56 |
 | 10 | [Caboose](https://open.spotify.com/track/4lIyRjVqJlN8naBv6Cd5Dw) | [Snapcase](https://open.spotify.com/artist/1egTA9mNgTwglPEQLmMd9W) | [Progression Through Unlearning](https://open.spotify.com/album/0EXE2JkwLwhSPaOuMBAxxu) | 2:33 |
 | 11 | [For My Family](https://open.spotify.com/track/4Y4fGklrIKERF6TixxvLQi) | [Agnostic Front](https://open.spotify.com/artist/3zDvanHxaETiHltPkKKYhT) | [Warriors \(Tour Edition\)](https://open.spotify.com/album/5WmhGmiqWgPRmuuAVP7cCP) | 2:22 |
-| 12 | [Set It Off](https://open.spotify.com/track/165wS8DOyhHPiNgB8vlfsE) | [Madball](https://open.spotify.com/artist/1qh6ppVtiFTKMyta0NXsjf) | [Set It Off](https://open.spotify.com/album/13DHqlzDQfKsvJc69fkElW) | 3:26 |
-| 13 | [Animal Farm](https://open.spotify.com/track/1QfjU50ABFOfNhoQVREWXa) | [The Hope Conspiracy](https://open.spotify.com/artist/0EE0FUSX633ANADunRfZ9d) | [Death Knows Your Name](https://open.spotify.com/album/6U0Bmn36FE4pISKv5fluBK) | 3:40 |
-| 14 | [Scratch the Surface](https://open.spotify.com/track/6yzoLxsBLiEqyB7zpAcJnX) | [Sick Of It All](https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU) | [Nonstop](https://open.spotify.com/album/5bdXigJqWl2VDffgjWdcXU) | 2:45 |
-| 15 | [Pure Trauma](https://open.spotify.com/track/7FpFV1oQhhZm6Vyj7K5FcS) | [Downset](https://open.spotify.com/artist/6SBgDfIRb6IE9TrA6w8Zg6) | [Check Your People](https://open.spotify.com/album/0kFn5JKSC76NteLv33NyVe) | 2:33 |
-| 16 | [New Direction](https://open.spotify.com/track/7CdGO6KJg20UAAXl7CW8q6) | [Gorilla Biscuits](https://open.spotify.com/artist/4dJX4iJ0qbB4gjkeenbK2N) | [Start Today](https://open.spotify.com/album/1AAn8Qve9N7NET9v1dKceh) | 2:29 |
+| 12 | [New Direction](https://open.spotify.com/track/7CdGO6KJg20UAAXl7CW8q6) | [Gorilla Biscuits](https://open.spotify.com/artist/4dJX4iJ0qbB4gjkeenbK2N) | [Start Today](https://open.spotify.com/album/1AAn8Qve9N7NET9v1dKceh) | 2:29 |
+| 13 | [Set It Off](https://open.spotify.com/track/165wS8DOyhHPiNgB8vlfsE) | [Madball](https://open.spotify.com/artist/1qh6ppVtiFTKMyta0NXsjf) | [Set It Off](https://open.spotify.com/album/13DHqlzDQfKsvJc69fkElW) | 3:26 |
+| 14 | [Animal Farm](https://open.spotify.com/track/1QfjU50ABFOfNhoQVREWXa) | [The Hope Conspiracy](https://open.spotify.com/artist/0EE0FUSX633ANADunRfZ9d) | [Death Knows Your Name](https://open.spotify.com/album/6U0Bmn36FE4pISKv5fluBK) | 3:40 |
+| 15 | [Scratch the Surface](https://open.spotify.com/track/6yzoLxsBLiEqyB7zpAcJnX) | [Sick Of It All](https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU) | [Nonstop](https://open.spotify.com/album/5bdXigJqWl2VDffgjWdcXU) | 2:45 |
+| 16 | [Pure Trauma](https://open.spotify.com/track/7FpFV1oQhhZm6Vyj7K5FcS) | [Downset](https://open.spotify.com/artist/6SBgDfIRb6IE9TrA6w8Zg6) | [Check Your People](https://open.spotify.com/album/0kFn5JKSC76NteLv33NyVe) | 2:33 |
 | 17 | [Voice of Rebellion](https://open.spotify.com/track/2BNshqUpO2WSXRpp3lP37y) | [Pro\-Pain](https://open.spotify.com/artist/56F64pmwSSCcmS1CxAnPk8) | [Voice of Rebellion](https://open.spotify.com/album/51TN24k8XMS8vQ98aUshFR) | 4:01 |
 | 18 | [Can't Take It Away](https://open.spotify.com/track/0AaoUCJLOhCiiMEWVNAc5C) | [Kill Your Idols](https://open.spotify.com/artist/6XMDTpG4mtZWvDlFjRF3XT) | [This Is Just the Beginning](https://open.spotify.com/album/4RHBb8u3uid3lJGFwS0Jb1) | 1:36 |
 | 19 | [Firestorm](https://open.spotify.com/track/49d4jmxM4yyLkJA7NOiQ7M) | [Earth Crisis](https://open.spotify.com/artist/4ITkzAQWPILwWpEWJxHB9g) | [Forever True \(1991\-2001\)](https://open.spotify.com/album/2NlUqiYUsqBqE5o41dl4eh) | 3:51 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaGNG7NmtmZv.md) - [plain]
 | 46 | [Always \- A Friend For Life](https://open.spotify.com/track/4eKXxBigaMftkFQQphl1eO) | [Warzone](https://open.spotify.com/artist/7cvibKo9n0RsgKaW4p4RVO) | [Lower East Side](https://open.spotify.com/album/3Ri754L0sioGyPUkRONKFl) | 2:15 |
 | 47 | [Family Tree](https://open.spotify.com/track/3MRHzHjvLtvaLK4qORjxSj) | [H2O](https://open.spotify.com/artist/4mQm8gcXNNyzNQRqYKTKqo) | [H2O](https://open.spotify.com/album/6SIXL2tKLkV6FBZSzf9agC) | 2:55 |
 | 48 | [Get This Right!](https://open.spotify.com/track/7y952AaC6SYiWlNwuC3Rfv) | [Raised Fist](https://open.spotify.com/artist/7ik758oYwkKmQtbZtAdOOm) | [Dedication](https://open.spotify.com/album/5snErIyF82CrqTpnvLQ32G) | 3:30 |
-| 49 | [Let's Pretend](https://open.spotify.com/track/2fnHEggVPhncefeyheMsfw) | [Life Of Agony](https://open.spotify.com/artist/4gyzQpfG5YQZJt2jj0IkEl) | [Ugly](https://open.spotify.com/album/0DfwAJXDy8TzMgRuPNsjkc) | 3:58 |
+| 49 | [Proud To Be DFL](https://open.spotify.com/track/4cOG1ei21V0EsLRM0lFeL0) | [DFL](https://open.spotify.com/artist/6y4bvr8bJvqFuOzG6FcABb) | [Proud To Be](https://open.spotify.com/album/7LgklKSetpWGxBnFHwHP1P) | 1:25 |
 | 50 | [Gomorrah's Season Ends](https://open.spotify.com/track/3FUkmuhMgkxwvYuV8lvGwU) | [Earth Crisis](https://open.spotify.com/artist/4ITkzAQWPILwWpEWJxHB9g) | [Gomorrah's Season Ends](https://open.spotify.com/album/05mqPyEEjTfvM3TDWkt11k) | 3:29 |
 
-Snapshot ID: `MTYwNzQ0MDMzMSwwMDAwMDAwMDhlZjNmNDU5YTY3ODVkYTE3Y2Y0ZTdiMDdhOGU3Mzhi`
+Snapshot ID: `MTYwNzQ0MDMzMSwwMDAwMDAwMDc4OWI5ODdlODliYWZhZDVmZjBhNzU2OTA4Njk2ZWVj`

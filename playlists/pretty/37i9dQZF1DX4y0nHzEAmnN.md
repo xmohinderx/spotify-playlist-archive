@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y0nHzEAmnN.md) - [plain]
 
 > Las partes aburridas del día pueden ser divertidas con música\. ¡En Inglés y Español!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,204 likes - 50 songs - 1 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,205 likes - 50 songs - 1 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y0nHzEAmnN.md) - [plain]
 | 2 | [No Me Quiero Bañar](https://open.spotify.com/track/1q1kUQzASshxcEb5jcMWeO) | [Tatiana](https://open.spotify.com/artist/60alJNnwGVBdNXrx4kOfW0) | [Salta Sin Parar](https://open.spotify.com/album/6ZHDbA5xHesrQC8IvKQhrg) | 3:40 |
 | 3 | [Brush Your Teeth](https://open.spotify.com/track/1NtMwloRp8OIVwWGipngkw) | [Raffi](https://open.spotify.com/artist/7oWSqrgMuIEyH9qp5nu2e5) | [Singable Songs for the Very Young](https://open.spotify.com/album/3U5LJdhLG5ZxKkbHbNCyGH) | 1:12 |
 | 4 | [Drivin' in My Car](https://open.spotify.com/track/0oFzsGRIzjGaHfTZTSCBlW) | [Ralph's World](https://open.spotify.com/artist/4qIIexaFmYNueu5mnSQnzU) | [Ralph's World](https://open.spotify.com/album/5wKoYzvE2R6xGvbw5tkWQa) | 2:49 |
-| 5 | [Let's Get Ready!](https://open.spotify.com/track/3OYHw99STxBfqoBEov2M5F) | [Peppa Pig](https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG) | [My First Album](https://open.spotify.com/album/3A3N9hChYmsWPd3px8eF5u) | 2:05 |
-| 6 | [Tres Pecesitos](https://open.spotify.com/track/7depgXySK1EO7lIjnbFPav) | [Muñequitas Elizabeth](https://open.spotify.com/artist/1SyPH4ZiGzMG2nBSdX0VwS) | [20 Éxitos 20 Aniversario](https://open.spotify.com/album/5yMrbHsMkW16azJB96x3tB) | 1:07 |
+| 5 | [Tres Pecesitos](https://open.spotify.com/track/7depgXySK1EO7lIjnbFPav) | [Muñequitas Elizabeth](https://open.spotify.com/artist/1SyPH4ZiGzMG2nBSdX0VwS) | [20 Éxitos 20 Aniversario](https://open.spotify.com/album/5yMrbHsMkW16azJB96x3tB) | 1:07 |
+| 6 | [Let's Get Ready!](https://open.spotify.com/track/3OYHw99STxBfqoBEov2M5F) | [Peppa Pig](https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG) | [My First Album](https://open.spotify.com/album/3A3N9hChYmsWPd3px8eF5u) | 2:05 |
 | 7 | [Bate Con La Cucharita](https://open.spotify.com/track/7H3ELsx12mCquQRYs4v7YP) | [Canticuénticos](https://open.spotify.com/artist/0Ochpv3RZ8qvqUcJFn2tMr) | [Algo Que Decirte](https://open.spotify.com/album/2wXtS4ELgf5cab27G8Yqqf) | 2:45 |
 | 8 | [Baile del marinero](https://open.spotify.com/track/4MCWEpke2vLhcS96ZK88oo) | [Duo Tiempo de Sol](https://open.spotify.com/artist/58IHn7WX5UYrLG9BhjAiEA) | [20 Grandes Éxitos](https://open.spotify.com/album/0y5nHLqrkcPducSd8QRISi) | 2:34 |
 | 9 | [La Merienda \- Remasterizado](https://open.spotify.com/track/2tvxS6fcbjWTSdFyOIdQqR) | [Cri\-Cri](https://open.spotify.com/artist/4vM6clYXqkZbQv4O2OT5P4) | [Las 100 Clásicas de Cri Cri Vol\. 1](https://open.spotify.com/album/4fY0mv7l1rEmuBHOeLGq13) | 2:43 |
@@ -28,16 +28,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y0nHzEAmnN.md) - [plain]
 | 18 | [Canción para la hora del baño \(Agua, jabón\)](https://open.spotify.com/track/530Obi3SgOJuKe3H4OzLSq) | [Nene León](https://open.spotify.com/artist/77KB559uFak8dFDQNrfz6q) | [Canciones Infantiles, Vol\. 2](https://open.spotify.com/album/2uMGB4cOYTat3Z5mJmydNE) | 1:32 |
 | 19 | [Todos a Moverse](https://open.spotify.com/track/2qDZD2UljoMNasceWl4qg9) | [Elenco Junior Express](https://open.spotify.com/artist/1qpObFWDQW9EPFSzAzi71h), [Diego Topa](https://open.spotify.com/artist/3y6NjjMEV0m5fSaz6AXTsa) | [Junior Express \- Grandes Éxitos](https://open.spotify.com/album/32PoW1uZHdQE8Gm3MGSkBG) | 2:42 |
 | 20 | [Rise And Shine](https://open.spotify.com/track/0NW7dYHm3TxI5CQtXYOIhs) | [Cast \- Sofia the First](https://open.spotify.com/artist/2ItqDyOHeQBaOPeZmKVu2p), [Sofia](https://open.spotify.com/artist/5ocA7gtizL3y8huRNXlali) | [Sofia the First: Once Upon a Princess](https://open.spotify.com/album/60YMCDFuBPIl0vmyEkaVrF) | 2:56 |
-| 21 | [Do The Chores](https://open.spotify.com/track/0cZ4s1F7yUuroClNhCyllT) | [Daddy A Go Go](https://open.spotify.com/artist/2Is133tsib9BqI1564cX1H) | [Mojo A Go Go \- Real Rock For Kids](https://open.spotify.com/album/17unav8C6QE4UmvLGxMPVu) | 3:13 |
-| 22 | [The Potty Dance Song](https://open.spotify.com/track/0zLK9oC1XI6x29tpm0YX1l) | [Heidi Butkus](https://open.spotify.com/artist/2xXDALR7lXGiKnXvleJ6Au) | [Music for Classroom Management](https://open.spotify.com/album/0iixhTccBWiiOBasHBLBs1) | 1:06 |
+| 21 | [The Potty Dance Song](https://open.spotify.com/track/0zLK9oC1XI6x29tpm0YX1l) | [Heidi Butkus](https://open.spotify.com/artist/2xXDALR7lXGiKnXvleJ6Au) | [Music for Classroom Management](https://open.spotify.com/album/0iixhTccBWiiOBasHBLBs1) | 1:06 |
+| 22 | [Do The Chores](https://open.spotify.com/track/0cZ4s1F7yUuroClNhCyllT) | [Daddy A Go Go](https://open.spotify.com/artist/2Is133tsib9BqI1564cX1H) | [Mojo A Go Go \- Real Rock For Kids](https://open.spotify.com/album/17unav8C6QE4UmvLGxMPVu) | 3:13 |
 | 23 | [Good Morning](https://open.spotify.com/track/1IFnPPBJrH6QQkeOybxmff) | [Love to Sing](https://open.spotify.com/artist/5dz42IMRAYRfEn0igXDjoz) | [With You](https://open.spotify.com/album/12Bh0hHZUqDxCYy11xCxBv) | 2:11 |
 | 24 | [Brush Brush Brush](https://open.spotify.com/track/7HzQisHGh5gaizlXEuXtBx) | [of Montreal](https://open.spotify.com/artist/5xeBMeW0YzWIXSVzAxhM8O) | [Fantastic Voyages](https://open.spotify.com/album/3zVRLqmMADrwtlvGl7Z4G7) | 1:32 |
 | 25 | [Washing My Hands](https://open.spotify.com/track/0QUoJpzAzY9Rgw0C9T1U3B) | [Rocknoceros](https://open.spotify.com/artist/6vEKt6eIx5Cnd0KzbNlwyD) | [Rocknoceros](https://open.spotify.com/album/4eub8hBkToROharOKy0U6s) | 3:21 |
 | 26 | [El Primer Día de Escuela](https://open.spotify.com/track/3fkpODmwBAdwSl8AbLWGsB) | [Patylu](https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb) | [El Primer Día de Escuela](https://open.spotify.com/album/6Al0OxQ0ESjbWkiWHYpKhX) | 2:38 |
-| 27 | [Going Back to School Today](https://open.spotify.com/track/796sb0EwG3wdXsBqOAnpiP) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Life Lessons for Children from LittleBabyBum](https://open.spotify.com/album/1g9tg76IleuNteUpi6bhd8) | 1:30 |
-| 28 | [The Potty Song](https://open.spotify.com/track/2pl6yuX79AQJtn2gmBjLtW) | [Miss Kitty](https://open.spotify.com/artist/0Sm4L9Y9n0PDeNXTX7xTEx) | [Please Come To My Party](https://open.spotify.com/album/1VP9v0mRFiqjhzrzCj4lt9) | 2:24 |
+| 27 | [The Potty Song](https://open.spotify.com/track/2pl6yuX79AQJtn2gmBjLtW) | [Miss Kitty](https://open.spotify.com/artist/0Sm4L9Y9n0PDeNXTX7xTEx) | [Please Come To My Party](https://open.spotify.com/album/1VP9v0mRFiqjhzrzCj4lt9) | 2:24 |
+| 28 | [Getting Dressed Is the Best](https://open.spotify.com/track/0sRYvGZX6GeAVuKQ1YZNE5) | [Moey](https://open.spotify.com/artist/0G3ifZoKHqFJRrHGqcqoCs) | [Moey's Music Party](https://open.spotify.com/album/29OT5CvFbFVT7B5NQi2dGU) | 3:20 |
 | 29 | [Un Nuevo Viaje](https://open.spotify.com/track/0amtQOumjJeGVMVbnq6EMl) | [Elenco Junior Express](https://open.spotify.com/artist/1qpObFWDQW9EPFSzAzi71h), [Diego Topa](https://open.spotify.com/artist/3y6NjjMEV0m5fSaz6AXTsa) | [Junior Express \- Grandes Éxitos](https://open.spotify.com/album/32PoW1uZHdQE8Gm3MGSkBG) | 2:04 |
-| 30 | [Getting Dressed Is the Best](https://open.spotify.com/track/0sRYvGZX6GeAVuKQ1YZNE5) | [Moey](https://open.spotify.com/artist/0G3ifZoKHqFJRrHGqcqoCs) | [Moey's Music Party](https://open.spotify.com/album/29OT5CvFbFVT7B5NQi2dGU) | 3:20 |
+| 30 | [Going Back to School Today](https://open.spotify.com/track/796sb0EwG3wdXsBqOAnpiP) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Life Lessons for Children from LittleBabyBum](https://open.spotify.com/album/1g9tg76IleuNteUpi6bhd8) | 1:30 |
 | 31 | [Me cepillo los dientes](https://open.spotify.com/track/0zi6orW9DLawYdACuAf7QZ) | [Barney](https://open.spotify.com/artist/4rB5wLJLaXdMrXaYsOYLmK) | [Juguemos a cantar con Barney](https://open.spotify.com/album/6UCyXsJVld7N1DhpbMHaVL) | 1:53 |
 | 32 | [Nice 'N' Clean](https://open.spotify.com/track/2iLdeJktl6Q1cp7NJp0pIU) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Fantastic Voyages](https://open.spotify.com/album/3zVRLqmMADrwtlvGl7Z4G7) | 1:49 |
 | 33 | [El Baño del Elefantito](https://open.spotify.com/track/1poO0BVtZGS6ISJPgL2iKC) | [Leoncito Alado](https://open.spotify.com/artist/19pX8AEyaqJBjAprZ0Itr5) | [Leoncito Alado](https://open.spotify.com/album/58ObjUdXguF9WXqbTKPz4S) | 1:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y0nHzEAmnN.md) - [plain]
 | 49 | [I Always Sit When I Eat](https://open.spotify.com/track/7Gmhedp0ne4neq1BgNHClT) | [Moey](https://open.spotify.com/artist/0G3ifZoKHqFJRrHGqcqoCs) | [Moey's Music Party](https://open.spotify.com/album/29OT5CvFbFVT7B5NQi2dGU) | 2:09 |
 | 50 | [Exercise Time](https://open.spotify.com/track/0qquzf6BNSWNIDPqj83c3Q) | [Big Bird](https://open.spotify.com/artist/0iDC0DDdk9WL7W8OdBSmtE), [Sesame Street's Gordon](https://open.spotify.com/artist/3gC3iIFCSULaG9w18MsSJe) | [Sesame Street: Getting Ready for School](https://open.spotify.com/album/1cTBGtVBDegjOQcR6Ou4NM) | 1:43 |
 
-Snapshot ID: `MTY0NzI3Njg2OSwwMDAwMDAwMGY5N2FlNmI0NDMwZmJiZjA5ZGJkMWYyYWY1YzAzZDQ2`
+Snapshot ID: `MTY0NzI3Njg2OSwwMDAwMDAwMGQ0MzBlMjdjNzA2MTRkZjAzOTQ3MDkyMGJhNTE2YTJm`

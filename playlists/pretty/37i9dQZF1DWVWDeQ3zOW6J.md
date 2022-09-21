@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWDeQ3zOW6J.md) - [plain]
 
 > ¡Nada le gana a una comida hecha con buena salsa!
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,451 likes - 60 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,479 likes - 60 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWDeQ3zOW6J.md) - [plain]
 | 33 | [Pa'l 23](https://open.spotify.com/track/1mSdpVmDxvZKa80PykOlHZ) | [Ray Perez](https://open.spotify.com/artist/5bRPdkLc8yyAsdgUmdCMwK) | [Lo Mejor de Ray Perez \- Salsa](https://open.spotify.com/album/3mrztnhqCv54Lzb3s4jFCF) | 3:13 |
 | 34 | [Ché Ché Colé](https://open.spotify.com/track/4rPtnAmfvHkVSCO2KKkiC1) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Crime Pays](https://open.spotify.com/album/31FDxX16G7sPB3p5bNhf8K) | 3:31 |
 | 35 | [El Manicero](https://open.spotify.com/track/1xTtQuHbtAh6WvzZZNXbIu) | [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ) | [Éxitos, Vol\. 1](https://open.spotify.com/album/1BoeS73vVRPncBCDWbF3ep) | 4:42 |
-| 36 | [Ahora me da pena](https://open.spotify.com/track/3ogUFoUSvXN7GLb0Q0EAgu) | [Henry Fiol](https://open.spotify.com/artist/3mnx8ehcNQEYMFSGXWOaVB) | [Fe, Esperanza y Caridad](https://open.spotify.com/album/6vJ37s97d7zDUj9rvlJsII) | 6:44 |
-| 37 | [No No No](https://open.spotify.com/track/6kWG4fIWsx6Qf4b0kgRMXM) | [Boogaloo Assassins](https://open.spotify.com/artist/2k5tpM7WrvCytpVWO8XTjU) | [Old Love Dies Hard](https://open.spotify.com/album/3ZS5ekQ7jFi2jtwnbg19Lx) | 5:27 |
+| 36 | [No No No](https://open.spotify.com/track/6kWG4fIWsx6Qf4b0kgRMXM) | [Boogaloo Assassins](https://open.spotify.com/artist/2k5tpM7WrvCytpVWO8XTjU) | [Old Love Dies Hard](https://open.spotify.com/album/3ZS5ekQ7jFi2jtwnbg19Lx) | 5:27 |
+| 37 | [Ahora me da pena](https://open.spotify.com/track/3ogUFoUSvXN7GLb0Q0EAgu) | [Henry Fiol](https://open.spotify.com/artist/3mnx8ehcNQEYMFSGXWOaVB) | [Fe, Esperanza y Caridad](https://open.spotify.com/album/6vJ37s97d7zDUj9rvlJsII) | 6:44 |
 | 38 | [Arroz Con Habichuela](https://open.spotify.com/track/6p8Dt5ofRsmwhBSYhDwMRS) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [Arroz Con Habichuela](https://open.spotify.com/album/2uLb1q19tjdf66SuNpOsda) | 5:56 |
 | 39 | [Marejada Feliz](https://open.spotify.com/track/6yntDRxeKQo8eB5cLY9tkm) | [Roberto Roena Y Su Apollo Sound](https://open.spotify.com/artist/0KdPDmQhHxBKsHNsQuh5ry) | [Apollo Sound 9](https://open.spotify.com/album/6yivkfOmyn8EP68CYsQ5OT) | 7:22 |
 | 40 | [Salsa Y Control](https://open.spotify.com/track/4y6QWwI8lqYYemjYK1PCPc) | [Lebrón Brothers](https://open.spotify.com/artist/3MeSOWo9ZSTe5Esf66uXam) | [Salsa Y Control](https://open.spotify.com/album/539af69eELgsPBWn4ZwK8I) | 3:47 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWDeQ3zOW6J.md) - [plain]
 | 59 | [El Bodeguero](https://open.spotify.com/track/5KWXFC6zIKvAzGSxD0Z537) | [Orquesta Aragón De Cuba](https://open.spotify.com/artist/2OLihLtYOqpRtNddqyLWsG) | [Antología de la Música Cubana](https://open.spotify.com/album/1v0ts1bkcJc8tzs68G1nLt) | 3:01 |
 | 60 | [Tocineta \- Remastered](https://open.spotify.com/track/0iPlfTLQ9Z6SOg59fGKjaA) | [Beny Moré](https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw), [Pérez Prado](https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT) | [Tocineta \(Remastered\)](https://open.spotify.com/album/5XhCnynzqMzAFYjiQc6sP3) | 3:13 |
 
-Snapshot ID: `MTU5MjM0MjMwMiwwMDAwMDAwMDM2ZWUyMTY0Mzk0ODEyNTc1MDJiYmE4ZjlmN2Q2Njc5`
+Snapshot ID: `MTU5MjM0MjMwMiwwMDAwMDAwMGYxNjExZWQ1NDYwZmEyNGUzNDRjNmRhZmQ4OGM3OWIy`

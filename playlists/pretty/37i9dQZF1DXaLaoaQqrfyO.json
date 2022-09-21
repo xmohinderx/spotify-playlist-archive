@@ -1,12 +1,12 @@
 {
   "description": "Seminal indie pop tracks from the 2010s. Cover: Blood Orange.",
-  "num_followers": 307817,
+  "num_followers": 307914,
   "original_name": " Indie Pop 2010s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA0NDgyNywwMDAwMDAwMDQ5ZGFkOWE4YWUxNGVlMTZlM2NkM2ZkZTYzZDcwZjg3",
+  "snapshot_id": "MTY1OTA0NDgyNywwMDAwMDAwMGQyYjc0ZjEzZWNlZWNmNWRkMDI3YTYxOGY2OTMwZjA1",
   "tracks": [
     {
       "added_at": "2021-03-15 19:25:13",
@@ -339,22 +339,6 @@
     {
       "added_at": "2021-03-15 19:25:13",
       "album": {
-        "name": "Goodie Bag",
-        "url": "https://open.spotify.com/album/0y8sikccXZ3TIW4PkjtI8R"
-      },
-      "artists": [
-        {
-          "name": "Still Woozy",
-          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
-        }
-      ],
-      "duration_ms": 146390,
-      "name": "Goodie Bag",
-      "url": "https://open.spotify.com/track/4vHNeBWDQpVCmGbaccrRzi"
-    },
-    {
-      "added_at": "2021-03-15 19:25:13",
-      "album": {
         "name": "Stranger in the Alps",
         "url": "https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 229760,
       "name": "Motion Sickness",
       "url": "https://open.spotify.com/track/5xo8RrjJ9CVNrtRg2S3B1R"
+    },
+    {
+      "added_at": "2021-03-15 19:25:13",
+      "album": {
+        "name": "Goodie Bag",
+        "url": "https://open.spotify.com/album/0y8sikccXZ3TIW4PkjtI8R"
+      },
+      "artists": [
+        {
+          "name": "Still Woozy",
+          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
+        }
+      ],
+      "duration_ms": 146390,
+      "name": "Goodie Bag",
+      "url": "https://open.spotify.com/track/4vHNeBWDQpVCmGbaccrRzi"
     },
     {
       "added_at": "2022-07-07 04:00:00",
@@ -565,6 +565,22 @@
       "url": "https://open.spotify.com/track/3UjtIALeg72qmJiKPWBvM3"
     },
     {
+      "added_at": "2021-03-15 19:25:13",
+      "album": {
+        "name": "1950",
+        "url": "https://open.spotify.com/album/5p0UaZsYWMn4L1dSpc6AhN"
+      },
+      "artists": [
+        {
+          "name": "King Princess",
+          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
+        }
+      ],
+      "duration_ms": 225133,
+      "name": "1950",
+      "url": "https://open.spotify.com/track/0CZ8lquoTX2Dkg7Ak2inwA"
+    },
+    {
       "added_at": "2022-07-07 04:00:00",
       "album": {
         "name": "I Follow Rivers (The Magician Remix)",
@@ -583,22 +599,6 @@
       "duration_ms": 280069,
       "name": "I Follow Rivers - The Magician Remix",
       "url": "https://open.spotify.com/track/4Jv7lweGIUOFQ7Oq2AtAh9"
-    },
-    {
-      "added_at": "2021-03-15 19:25:13",
-      "album": {
-        "name": "1950",
-        "url": "https://open.spotify.com/album/5p0UaZsYWMn4L1dSpc6AhN"
-      },
-      "artists": [
-        {
-          "name": "King Princess",
-          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
-        }
-      ],
-      "duration_ms": 225133,
-      "name": "1950",
-      "url": "https://open.spotify.com/track/0CZ8lquoTX2Dkg7Ak2inwA"
     },
     {
       "added_at": "2021-03-15 19:25:13",
@@ -907,22 +907,6 @@
     {
       "added_at": "2021-03-15 19:25:13",
       "album": {
-        "name": "Holy Fire",
-        "url": "https://open.spotify.com/album/6SBkXTPlJ3oEaFwRm5o2lD"
-      },
-      "artists": [
-        {
-          "name": "Foals",
-          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
-        }
-      ],
-      "duration_ms": 238853,
-      "name": "My Number",
-      "url": "https://open.spotify.com/track/04caEZhAsQKnWqKsMwk9ud"
-    },
-    {
-      "added_at": "2021-03-15 19:25:13",
-      "album": {
         "name": "Bombs Away",
         "url": "https://open.spotify.com/album/2Yi29VOccHCwktsZNqtxbt"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 218227,
       "name": "Geronimo",
       "url": "https://open.spotify.com/track/19cL3SOKpwnwoKkII7U3Wh"
+    },
+    {
+      "added_at": "2021-03-15 19:25:13",
+      "album": {
+        "name": "Holy Fire",
+        "url": "https://open.spotify.com/album/6SBkXTPlJ3oEaFwRm5o2lD"
+      },
+      "artists": [
+        {
+          "name": "Foals",
+          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
+        }
+      ],
+      "duration_ms": 238853,
+      "name": "My Number",
+      "url": "https://open.spotify.com/track/04caEZhAsQKnWqKsMwk9ud"
     },
     {
       "added_at": "2021-03-15 19:25:13",
@@ -1021,22 +1021,6 @@
       "url": "https://open.spotify.com/track/4qjLvvBh5ZeKEPyShKRf06"
     },
     {
-      "added_at": "2021-03-15 19:25:13",
-      "album": {
-        "name": "Sure Sure",
-        "url": "https://open.spotify.com/album/7EfgATnOllXJ96s4sSdzei"
-      },
-      "artists": [
-        {
-          "name": "Sure Sure",
-          "url": "https://open.spotify.com/artist/1anAI9P9iSzc9qzLv6AtHZ"
-        }
-      ],
-      "duration_ms": 219260,
-      "name": "This Must Be The Place",
-      "url": "https://open.spotify.com/track/6PuoZT4kgw5DrUEdnQ6e01"
-    },
-    {
       "added_at": "2022-07-07 04:00:00",
       "album": {
         "name": "Being So Normal",
@@ -1051,6 +1035,22 @@
       "duration_ms": 361760,
       "name": "Tommy's Party",
       "url": "https://open.spotify.com/track/5OuJTtNve7FxUX82eEBupN"
+    },
+    {
+      "added_at": "2021-03-15 19:25:13",
+      "album": {
+        "name": "Sure Sure",
+        "url": "https://open.spotify.com/album/7EfgATnOllXJ96s4sSdzei"
+      },
+      "artists": [
+        {
+          "name": "Sure Sure",
+          "url": "https://open.spotify.com/artist/1anAI9P9iSzc9qzLv6AtHZ"
+        }
+      ],
+      "duration_ms": 219260,
+      "name": "This Must Be The Place",
+      "url": "https://open.spotify.com/track/6PuoZT4kgw5DrUEdnQ6e01"
     },
     {
       "added_at": "2021-06-09 20:21:58",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2021-03-15 19:25:13",
       "album": {
-        "name": "Sylvan Esso",
-        "url": "https://open.spotify.com/album/1862qnxqsLeiNDblknjtiL"
-      },
-      "artists": [
-        {
-          "name": "Sylvan Esso",
-          "url": "https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv"
-        }
-      ],
-      "duration_ms": 268213,
-      "name": "Coffee",
-      "url": "https://open.spotify.com/track/30GGIrrJdSNtecPiFcVP5O"
-    },
-    {
-      "added_at": "2021-03-15 19:25:13",
-      "album": {
         "name": "Bloom",
         "url": "https://open.spotify.com/album/02PXepuNHYKvGnXYy03oCp"
       },
@@ -1271,18 +1255,18 @@
     {
       "added_at": "2021-03-15 19:25:13",
       "album": {
-        "name": "iii",
-        "url": "https://open.spotify.com/album/3pWJFrSX6apPzt4inM4zXt"
+        "name": "Sylvan Esso",
+        "url": "https://open.spotify.com/album/1862qnxqsLeiNDblknjtiL"
       },
       "artists": [
         {
-          "name": "Miike Snow",
-          "url": "https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J"
+          "name": "Sylvan Esso",
+          "url": "https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv"
         }
       ],
-      "duration_ms": 212146,
-      "name": "Genghis Khan",
-      "url": "https://open.spotify.com/track/6MDijuuArPJv1vbp7K1x3f"
+      "duration_ms": 268213,
+      "name": "Coffee",
+      "url": "https://open.spotify.com/track/30GGIrrJdSNtecPiFcVP5O"
     },
     {
       "added_at": "2022-07-07 04:00:00",
@@ -1299,6 +1283,22 @@
       "duration_ms": 176146,
       "name": "Sarah",
       "url": "https://open.spotify.com/track/0Xmz2shisTG8peoqnFj5tu"
+    },
+    {
+      "added_at": "2021-03-15 19:25:13",
+      "album": {
+        "name": "iii",
+        "url": "https://open.spotify.com/album/3pWJFrSX6apPzt4inM4zXt"
+      },
+      "artists": [
+        {
+          "name": "Miike Snow",
+          "url": "https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J"
+        }
+      ],
+      "duration_ms": 212146,
+      "name": "Genghis Khan",
+      "url": "https://open.spotify.com/track/6MDijuuArPJv1vbp7K1x3f"
     },
     {
       "added_at": "2021-03-15 19:25:13",

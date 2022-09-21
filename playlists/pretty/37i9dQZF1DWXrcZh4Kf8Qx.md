@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrcZh4Kf8Qx.md) - [plain]
 
 > All 70s, all ballads\. Cover: Barbra Streisand
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,523 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,645 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrcZh4Kf8Qx.md) - [plain]
 | 28 | [Sailing](https://open.spotify.com/track/6OuRbvP4PgbuzBIapVzmFJ) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Atlantic Crossing](https://open.spotify.com/album/7vV3q5jE7DSuKsnHr7OmmN) | 4:37 |
 | 29 | [Too Much Heaven](https://open.spotify.com/track/6T5GTy1l6dRmagqpNPjdoc) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Spirits Having Flown](https://open.spotify.com/album/6bddpRTD2imtFdhXqr6MKm) | 4:56 |
 | 30 | [Make It with You](https://open.spotify.com/track/7wWw7hBmErNg9u5w6Xx0vy) | [Bread](https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL) | [On the Waters](https://open.spotify.com/album/2eTrV6WUTJtKFzg5iznPJ7) | 3:12 |
-| 31 | [Maybe I’m Amazed \- Remastered 2011](https://open.spotify.com/track/1Qa0Y05al633fG8f9Peytc) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [McCartney \(Archive Collection\)](https://open.spotify.com/album/2lOll0xAGw8FPjwmwopAKT) | 3:49 |
-| 32 | [After the Love Has Gone](https://open.spotify.com/track/3cfnGXJ9bmiWvFqEO6ff8B) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [I Am](https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt) | 4:38 |
+| 31 | [After the Love Has Gone](https://open.spotify.com/track/3cfnGXJ9bmiWvFqEO6ff8B) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [I Am](https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt) | 4:38 |
+| 32 | [Maybe I’m Amazed \- Remastered 2011](https://open.spotify.com/track/1Qa0Y05al633fG8f9Peytc) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [McCartney \(Archive Collection\)](https://open.spotify.com/album/2lOll0xAGw8FPjwmwopAKT) | 3:49 |
 | 33 | [Me and Mrs\. Jones](https://open.spotify.com/track/6Ro2z4RtAUew9Kz2HZWZUi) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [360 Degrees of Billy Paul \(Expanded Edition\)](https://open.spotify.com/album/2t3e2RCx9fmVO7jmhrOm3a) | 4:44 |
 | 34 | [I Don't Want to Talk About It \- 2008 Remaster](https://open.spotify.com/track/2JWKzkQbYsNzx019WyGzaH) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Atlantic Crossing](https://open.spotify.com/album/7vV3q5jE7DSuKsnHr7OmmN) | 4:48 |
 | 35 | [Daniel](https://open.spotify.com/track/1BvJmtaXsqtH438BcDPeBb) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Don't Shoot Me I'm Only The Piano Player](https://open.spotify.com/album/1reJ8DttK5EGwdyf7y9FBR) | 3:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrcZh4Kf8Qx.md) - [plain]
 | 49 | [The Long And Winding Road \- Remastered 2009](https://open.spotify.com/track/3mlMpmY8oZIBFc39D9zLbh) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Let It Be \(Remastered\)](https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5) | 3:38 |
 | 50 | [Honesty](https://open.spotify.com/track/34E0Higz6fFVXlbVsn6TIW) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [52nd Street](https://open.spotify.com/album/1HmCO8VK98AU6EXPOjGYyI) | 3:53 |
 
-Snapshot ID: `MTY1MDg1Njk5NiwwMDAwMDAwMGI4NTQ2NzJmYTQ2MmZhNDNhYTcwODk5OWRlODA0ODRh`
+Snapshot ID: `MTY1MDg1Njk5NiwwMDAwMDAwMGM5ZjgyMDdhNTUzZGU3MGRmOTI0OTAyODhlMTNkYTJj`

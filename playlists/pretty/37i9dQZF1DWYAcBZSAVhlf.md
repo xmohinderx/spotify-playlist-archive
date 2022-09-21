@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAcBZSAVhlf.md) - [plain]
 
 > The best feel\-good songs of the 1980s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,805 likes - 100 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,065 likes - 100 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAcBZSAVhlf.md) - [plain]
 | 50 | [Live Is Life \(Digitally Remastered\) \(Single Version\)](https://open.spotify.com/track/5luOvrlnzfvJQdQjrScVj4) | [Opus](https://open.spotify.com/artist/5pf1217gT8zcjOFc7oMi47) | [Live Is Life](https://open.spotify.com/album/6QFG7oroyUrjT0LeXHt7CD) | 4:09 |
 | 51 | [Good Thing](https://open.spotify.com/track/6lRkdG1HurVS72F9GoBeWJ) | [Fine Young Cannibals](https://open.spotify.com/artist/20p5D2KrE8CGuOjHtxsyTp) | [The Raw & The Cooked](https://open.spotify.com/album/6CoeDRu0SmpFtLZMcRTO2F) | 3:21 |
 | 52 | [Girls Just Want to Have Fun](https://open.spotify.com/track/2zjt2hHBbiv5SuxYg8Z7eP) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [She's So Unusual: A 30th Anniversary Celebration \(Deluxe Edition\)](https://open.spotify.com/album/4pox3k0CGuwwAknR9GtcoX) | 3:58 |
-| 53 | [\(I've Had\) The Time Of My Life](https://open.spotify.com/track/2JCTiiJQFWQNC0Zp8rsJRB) | [Bill Medley](https://open.spotify.com/artist/1XE70WwxhnrXNAJYQQ9ygx), [Jennifer Warnes](https://open.spotify.com/artist/1BwHztAQKypBuy5WBEdJnG) | [The Best Of Bill Medley](https://open.spotify.com/album/1O7j1wsOIpUZEVYkqAqZyr) | 4:49 |
-| 54 | [Hip To Be Square](https://open.spotify.com/track/648BMGrt98kUbLo24A4vgj) | [Huey Lewis & The News](https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6) | [Fore!](https://open.spotify.com/album/5L0vaNLbzgP8RIJqs1zamE) | 4:05 |
+| 53 | [Hip To Be Square](https://open.spotify.com/track/648BMGrt98kUbLo24A4vgj) | [Huey Lewis & The News](https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6) | [Fore!](https://open.spotify.com/album/5L0vaNLbzgP8RIJqs1zamE) | 4:05 |
+| 54 | [\(I've Had\) The Time Of My Life](https://open.spotify.com/track/2JCTiiJQFWQNC0Zp8rsJRB) | [Bill Medley](https://open.spotify.com/artist/1XE70WwxhnrXNAJYQQ9ygx), [Jennifer Warnes](https://open.spotify.com/artist/1BwHztAQKypBuy5WBEdJnG) | [The Best Of Bill Medley](https://open.spotify.com/album/1O7j1wsOIpUZEVYkqAqZyr) | 4:49 |
 | 55 | [Sussudio \- 2016 Remaster](https://open.spotify.com/track/4qM461TqtpnP4GLRIXwEnW) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [No Jacket Required \(2016 Remaster\)](https://open.spotify.com/album/1rVhockt4RAiZFaK3M3zPB) | 4:23 |
 | 56 | [Let's Hear It for the Boy \- From "Footloose" Original Soundtrack](https://open.spotify.com/track/4VyU9Tg4drTj2mOUZHSK2u) | [Deniece Williams](https://open.spotify.com/artist/5jNGQ7VOU87x5402JjhTtd) | [Let's Hear It for the Boy \(Expanded Edition\)](https://open.spotify.com/album/5SQ28k8Esr8yY55ZKvgC5u) | 4:22 |
 | 57 | [I'm Every Woman](https://open.spotify.com/track/1oFiPGBafH9Woo9AMwgBSl) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Chaka](https://open.spotify.com/album/2lvaLIoEg3hwL2dybu6zTC) | 4:09 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAcBZSAVhlf.md) - [plain]
 | 99 | [Walk Like an Egyptian](https://open.spotify.com/track/5L6HNuXN71bfeuKXYtRasF) | [The Bangles](https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC) | [Different Light \(Expanded Edition\)](https://open.spotify.com/album/7qEP3i0f0zfk6JUFW3SyeN) | 3:23 |
 | 100 | [Making Your Mind Up](https://open.spotify.com/track/0Azn2vpP3Sbs8qAG8e1KUc) | [Bucks Fizz](https://open.spotify.com/artist/5ZfzzHE7rxONfoksJsLXrX) | [Bucks Fizz](https://open.spotify.com/album/5HqRd9aYv1b0x8A6q2ljFb) | 2:38 |
 
-Snapshot ID: `MTY1NDE1MjExNywwMDAwMDAwMDMwNjc4NjNkOGI3Mzc4N2NiZWM5MDZiNjgyYTM0YzQy`
+Snapshot ID: `MTY1NDE1MjExNywwMDAwMDAwMGIwZWVkNjAyODAzOGM3MWJlYjllY2JhYzliMDMyMjBi`

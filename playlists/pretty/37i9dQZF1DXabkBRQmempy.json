@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del rock en espa\u00f1ol en la d\u00e9cada de los 90. \n\n",
-  "num_followers": 115347,
+  "num_followers": 115696,
   "original_name": "Rock en Espa\u00f1ol: Los 90",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzEzNjk2NSwwMDAwMDAwMDVkZDQzZmU5MjBhOWJjYjViNjY4NzRjODZlNjFlZWRk",
+  "snapshot_id": "MTY1NzEzNjk2NSwwMDAwMDAwMGFlNWVlNzQ1MzdmYjcyN2QzOGEyMmI4ZDFkYmZkZTkw",
   "tracks": [
     {
       "added_at": "2022-07-06 19:49:25",
@@ -523,22 +523,6 @@
     {
       "added_at": "2022-07-06 19:49:25",
       "album": {
-        "name": "Amor Chiquito",
-        "url": "https://open.spotify.com/album/1oNccmu6KxWyQnGi9P7g5u"
-      },
-      "artists": [
-        {
-          "name": "Fobia",
-          "url": "https://open.spotify.com/artist/3SqzxvGCKGJ9PYKXXPwjQS"
-        }
-      ],
-      "duration_ms": 283093,
-      "name": "Vivo",
-      "url": "https://open.spotify.com/track/5IfhLKhOBkHazqaoqFzH8G"
-    },
-    {
-      "added_at": "2022-07-06 19:49:25",
-      "album": {
         "name": "La Danza De La Ciudad",
         "url": "https://open.spotify.com/album/44adPKDzweqAm43dx0zyIf"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 270933,
       "name": "Es por Ti",
       "url": "https://open.spotify.com/track/3NP8zp1RvnblXNsYiZrjd9"
+    },
+    {
+      "added_at": "2022-07-06 19:49:25",
+      "album": {
+        "name": "Amor Chiquito",
+        "url": "https://open.spotify.com/album/1oNccmu6KxWyQnGi9P7g5u"
+      },
+      "artists": [
+        {
+          "name": "Fobia",
+          "url": "https://open.spotify.com/artist/3SqzxvGCKGJ9PYKXXPwjQS"
+        }
+      ],
+      "duration_ms": 283093,
+      "name": "Vivo",
+      "url": "https://open.spotify.com/track/5IfhLKhOBkHazqaoqFzH8G"
     },
     {
       "added_at": "2022-07-06 19:49:25",
@@ -683,22 +683,6 @@
     {
       "added_at": "2022-07-06 19:49:25",
       "album": {
-        "name": "Mi Vida Loca",
-        "url": "https://open.spotify.com/album/2wV2nY2P5vHYiUNTWWzXj5"
-      },
-      "artists": [
-        {
-          "name": "Los Aut\u00e9nticos Decadentes",
-          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
-        }
-      ],
-      "duration_ms": 283053,
-      "name": "Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/12NW2sUhBFz5VUxDZTp3Op"
-    },
-    {
-      "added_at": "2022-07-06 19:49:25",
-      "album": {
         "name": "Honestidad Brutal",
         "url": "https://open.spotify.com/album/4OZincs6XqlfEuKEFtpq1Y"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 261626,
       "name": "La parte de adelante",
       "url": "https://open.spotify.com/track/0fHTVPRRKmWaRuIwrsNTMp"
+    },
+    {
+      "added_at": "2022-07-06 19:49:25",
+      "album": {
+        "name": "Mi Vida Loca",
+        "url": "https://open.spotify.com/album/2wV2nY2P5vHYiUNTWWzXj5"
+      },
+      "artists": [
+        {
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+        }
+      ],
+      "duration_ms": 283053,
+      "name": "Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/12NW2sUhBFz5VUxDZTp3Op"
     },
     {
       "added_at": "2022-07-06 19:49:25",

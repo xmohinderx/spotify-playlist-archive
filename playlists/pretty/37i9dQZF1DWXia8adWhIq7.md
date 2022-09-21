@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXia8adWhIq7.md) - [plain]
 
 > Ouça as novidades e sucessos do Pop Cristão\. Foto: Leidy Murilho
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,634 likes - 80 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,690 likes - 80 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,22 +71,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXia8adWhIq7.md) - [plain]
 | 61 | [Batida](https://open.spotify.com/track/0ijEZW5pIhMu0mDaQdPArX) | [Silas Magalhães](https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5) | [Batida](https://open.spotify.com/album/7997L9t3OvtVovg51EsNNm) | 4:04 |
 | 62 | [Vida Leve](https://open.spotify.com/track/3GISbYrRNr8z9nbJRdeX1g) | [Talita Barreto](https://open.spotify.com/artist/6hCE1qcuALXMkltFGrEM6Y) | [Acústico Talita Barreto](https://open.spotify.com/album/4Sz7dZPt2bFoc9V0ujUe1K) | 2:16 |
 | 63 | [Azul do Céu](https://open.spotify.com/track/3v2bkyjuqCsb8RuHMXuLpI) | [Débora Ulhoa](https://open.spotify.com/artist/0WBHp81TcpbOKldBXWTSYz), [Leidy Murilho](https://open.spotify.com/artist/4tld50GNxSiqbzRGRi5nwv) | [Azul do Céu](https://open.spotify.com/album/68akHXeQKYnjTELPGdV2JI) | 3:02 |
-| 64 | [Vem Com Teu Espírito](https://open.spotify.com/track/5eLUik7N6bsWvQ2rKPA7xz) | [Tomatti](https://open.spotify.com/artist/6QSaldbCVLPl1QYQFYALrR) | [Vem Com Teu Espírito](https://open.spotify.com/album/2Zci8Uw9pwTctGoaorDbVj) | 2:48 |
-| 65 | [Te Vejo](https://open.spotify.com/track/6CS88lKEQ0A7xvGqL0r5Z1) | [Hadassah Perez](https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb) | [Te Vejo](https://open.spotify.com/album/4F5ccF1Z6aw4YHXvHZkohv) | 3:30 |
+| 64 | [Te Vejo](https://open.spotify.com/track/6CS88lKEQ0A7xvGqL0r5Z1) | [Hadassah Perez](https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb) | [Te Vejo](https://open.spotify.com/album/4F5ccF1Z6aw4YHXvHZkohv) | 3:30 |
+| 65 | [Vem Com Teu Espírito](https://open.spotify.com/track/5eLUik7N6bsWvQ2rKPA7xz) | [Tomatti](https://open.spotify.com/artist/6QSaldbCVLPl1QYQFYALrR) | [Vem Com Teu Espírito](https://open.spotify.com/album/2Zci8Uw9pwTctGoaorDbVj) | 2:48 |
 | 66 | [Sinal de Aviso](https://open.spotify.com/track/5PY2MOXyMqxtEhrWQyiQkj) | [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b) | [Sinal de Aviso](https://open.spotify.com/album/0b9NRTT6BnPxZXrdW7CBZI) | 3:15 |
 | 67 | [Mude as Coisas do Meu Coração](https://open.spotify.com/track/504W6WBbmUgJK3lQwHLsHa) | [Silas Magalhães](https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5) | [Mude as Coisas do Meu Coração](https://open.spotify.com/album/2spTFjHH7vg9aNq1g8K0DA) | 2:45 |
-| 68 | [Planos Melhores](https://open.spotify.com/track/1DnacuelO6vaD1Sr2V7iHL) | [Andressa Cordeiro](https://open.spotify.com/artist/7iICuF7ma3KioXKdjyafmF) | [Planos Melhores](https://open.spotify.com/album/0pz4ntxUkuSSvMmI6tXQul) | 3:04 |
-| 69 | [Me Leva Além](https://open.spotify.com/track/0OVWqVO7oWrCnyM657ZTiC) | [Geovanne Oliveira](https://open.spotify.com/artist/6fcUTkDPBlx0pabVubvZiR) | [Me Leva Além](https://open.spotify.com/album/2iwdXuyuljCkNwooRrWCIU) | 3:35 |
+| 68 | [Me Leva Além](https://open.spotify.com/track/0OVWqVO7oWrCnyM657ZTiC) | [Geovanne Oliveira](https://open.spotify.com/artist/6fcUTkDPBlx0pabVubvZiR) | [Me Leva Além](https://open.spotify.com/album/2iwdXuyuljCkNwooRrWCIU) | 3:35 |
+| 69 | [Planos Melhores](https://open.spotify.com/track/1DnacuelO6vaD1Sr2V7iHL) | [Andressa Cordeiro](https://open.spotify.com/artist/7iICuF7ma3KioXKdjyafmF) | [Planos Melhores](https://open.spotify.com/album/0pz4ntxUkuSSvMmI6tXQul) | 3:04 |
 | 70 | [GPS](https://open.spotify.com/track/41o7R8todwMq1U9SEhSgB9) | [Ana Gabriela](https://open.spotify.com/artist/1lIUn0y4rx85uawdgAHzjF) | [GPS](https://open.spotify.com/album/0RP1BkkknVO5bYYSUMjp2b) | 3:35 |
 | 71 | [Teu Calor](https://open.spotify.com/track/4VCJzN8CnPPyRtzfYaWtIT) | [Thais Castro](https://open.spotify.com/artist/2niScuDrXnzm3VrBdmVIwF), [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b) | [Teu Calor](https://open.spotify.com/album/3vPE8PhgjRTYSJATjYDRNm) | 3:44 |
 | 72 | [Me Chamar de Filho](https://open.spotify.com/track/6wJEeDU8gqDrX4yw2ggmo0) | [Ana Canhoto](https://open.spotify.com/artist/3DhF2mhTVqQtTIwUk9wn6y) | [Me Chamar de Filho](https://open.spotify.com/album/59m8L5x58ZYO2j2pimCJrM) | 3:07 |
 | 73 | [Ensimesmo \- Acústico](https://open.spotify.com/track/690Rz5W01uGPGm754L5diO) | [Ana Heloysa](https://open.spotify.com/artist/57AZPoFXiEjFDMGRt5uTG4), [Coletivo Candiero](https://open.spotify.com/artist/2WoLRZ8lSMvx4BWJGNblqV), [Daniel Alves](https://open.spotify.com/artist/3eW6cEr5fLxtSXZDBTJNSK), [Midian Nascimento](https://open.spotify.com/artist/2SlY9FvHwUMC2kyrgbCLtE) | [Vivente Acústico](https://open.spotify.com/album/1dzFWWFq7oEdbCc5xa2SN8) | 3:32 |
-| 74 | [Amado](https://open.spotify.com/track/6fGwm1Qb7MkW9PEy5v4SEV) | [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b), [Marcelo Markes](https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2) | [Amado](https://open.spotify.com/album/373Qpp1O7HijqwAIMNO8VE) | 4:10 |
+| 74 | [Um Novo Lugar](https://open.spotify.com/track/1CFcWP4avTVNTJyS0v1nuC) | [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b) | [Um Novo Lugar](https://open.spotify.com/album/25xop1SdYHlViPxywAyWTP) | 3:01 |
 | 75 | [Manuscrito](https://open.spotify.com/track/2ramZL8iUXXFgSbgZZ3Tiu) | [JARDENYA](https://open.spotify.com/artist/7qpTv7VDYeg2EwHrDjln66) | [Manuscrito](https://open.spotify.com/album/4sQnOzkB97HBeG2AmYMGLB) | 3:43 |
 | 76 | [Teu Calor \- Acústico](https://open.spotify.com/track/4N6ShFZEd74fQWyZejZGUS) | [Thais Castro](https://open.spotify.com/artist/2niScuDrXnzm3VrBdmVIwF), [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b) | [Teu Calor \(Acústico\)](https://open.spotify.com/album/7gvDYalsG1qogowfBLJ2zY) | 3:44 |
 | 77 | [Contigo](https://open.spotify.com/track/2z06u1grifKTmzRf48Hbdh) | [Leif Bessa](https://open.spotify.com/artist/7AXkzxHwKWcrSmdAJ5e5WV) | [Contigo](https://open.spotify.com/album/75MMXMPZcSAK8L0Q4QQhk0) | 3:19 |
 | 78 | [Eu Só Peço a Deus](https://open.spotify.com/track/0YbWUvV9EpeAQEwMfryios) | [Lontraz](https://open.spotify.com/artist/3Wn4mhmC40P4e8NEdUGSIa) | [Eu Só Peço a Deus](https://open.spotify.com/album/0mDivhPMAh9lJxmk5qvuRw) | 3:06 |
 | 79 | [Leve](https://open.spotify.com/track/6NEBjm4QrmQB4chfVfQLdj) | [Lagoinha Music](https://open.spotify.com/artist/2zU9KvRIyqKppyGRam4lhG), [Samuel Mizrahy](https://open.spotify.com/artist/5KjzizwcrrTujTyKJjmyC7) | [Leve](https://open.spotify.com/album/6aTANRPCMqRssjccxkYExE) | 3:24 |
-| 80 | [Um Novo Lugar](https://open.spotify.com/track/1CFcWP4avTVNTJyS0v1nuC) | [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b) | [Um Novo Lugar](https://open.spotify.com/album/25xop1SdYHlViPxywAyWTP) | 3:01 |
+| 80 | [Amado](https://open.spotify.com/track/6fGwm1Qb7MkW9PEy5v4SEV) | [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b), [Marcelo Markes](https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2) | [Amado](https://open.spotify.com/album/373Qpp1O7HijqwAIMNO8VE) | 4:10 |
 
-Snapshot ID: `MTY1OTY3MjE3MCwwMDAwMDAwMDUzOWJmNmQ4NTNiN2M3MGI5MDBlNjQ5OGVmZTA0MmE0`
+Snapshot ID: `MTY1OTY3MjE3MCwwMDAwMDAwMGJiYzBmYWZkNjhkMWE2ODJmODZlMzk2NjVjYjc0MjNh`

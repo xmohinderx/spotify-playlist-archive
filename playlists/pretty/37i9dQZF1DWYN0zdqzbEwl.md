@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYN0zdqzbEwl.md) - [plain]
 
 > Legendarios del rock en español\. Cover: Maná
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,023,325 likes - 60 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,023,725 likes - 60 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,10 +25,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYN0zdqzbEwl.md) - [plain]
 | 15 | [Afuera](https://open.spotify.com/track/3pJfnBjO3kjudEchcPEDxS) | [Caifanes](https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9) | [El Nervio Del Volcan](https://open.spotify.com/album/2mPZNQNgW1zrkIPyL9XJcf) | 4:48 |
 | 16 | [En El Muelle De San Blas](https://open.spotify.com/track/0mvocLIWUnT10znvIXwHGr) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [Sueños Líquidos](https://open.spotify.com/album/7ydFJUb1tmZPd6p4xIe10V) | 5:52 |
 | 17 | [Lobo\-hombre en París](https://open.spotify.com/track/3M1H1CWjrSq7nxABHc8EXv) | [La Unión](https://open.spotify.com/artist/2Ax9wZpdlg4r2zkc3pcI8U) | [Grandes Exitos](https://open.spotify.com/album/7bYD4tCxzQOzGZmKBKtT3m) | 3:53 |
-| 18 | [La Muralla Verde](https://open.spotify.com/track/1qvY1z3Wm3sAYeHfPTnrbI) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Originales \- 20 Exitos](https://open.spotify.com/album/3AWurTYrtIfp7HwHg48DxV) | 2:41 |
+| 18 | [Crimen](https://open.spotify.com/track/3oqWr0jDWNXxWufNogGREp) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Ahí Vamos](https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP) | 3:52 |
 | 19 | [Love](https://open.spotify.com/track/5tyznRXlcIx0XlQ7S8iCMW) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Rocanlover](https://open.spotify.com/album/45fpjQkEMNvYJn5SGPcCSX) | 3:23 |
 | 20 | [El ataque de las chicas cocodrilo](https://open.spotify.com/track/3quyxN3SapEsojxk1Uw10K) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [La Cagaste..\. Burt Lancaster](https://open.spotify.com/album/6clqMga4PMBcBlWCR6idis) | 3:04 |
-| 21 | [Crimen](https://open.spotify.com/track/3oqWr0jDWNXxWufNogGREp) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Ahí Vamos](https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP) | 3:52 |
+| 21 | [La Muralla Verde](https://open.spotify.com/track/1qvY1z3Wm3sAYeHfPTnrbI) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Originales \- 20 Exitos](https://open.spotify.com/album/3AWurTYrtIfp7HwHg48DxV) | 2:41 |
 | 22 | [Trátame Suavemente \- Remasterizado 2007](https://open.spotify.com/track/65DBZofI0b79kfHTcWWDuU) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Soda Stereo \(Remastered\)](https://open.spotify.com/album/3i4nU0OIi7gMmXDEhG9ZRt) | 3:20 |
 | 23 | [La Dosis Perfecta](https://open.spotify.com/track/5bymCzswBkt0deeD1hlTIq) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [A la Izquierda de la Tierra](https://open.spotify.com/album/4H2Qf4zgMbm6np5JU3z9Qd) | 4:15 |
 | 24 | [La Célula Que Explota](https://open.spotify.com/track/5mB0MGsRfKZALHrXjnktCK) | [Caifanes](https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9) | [El Diablito](https://open.spotify.com/album/2cGrlR3OJwtQXUa4aQJRCV) | 3:35 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYN0zdqzbEwl.md) - [plain]
 | 59 | [Frente a frente \(feat\. Tulsa\)](https://open.spotify.com/track/5kFkQoKmsuRZjjS4GEaxNj) | [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT), [Tulsa](https://open.spotify.com/artist/2gtVnbrVpID8VrotZPOg2a) | [Las Consecuencias](https://open.spotify.com/album/2oOUx7YZnwBm4tshQbhdyO) | 3:53 |
 | 60 | [Corazon Espinado \(feat\. Mana\)](https://open.spotify.com/track/2WoqgtWEBbbBKMDN6Becs7) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [Supernatural \(Remastered\)](https://open.spotify.com/album/10aiDpdFGyfCFEcqpx6XTq) | 4:34 |
 
-Snapshot ID: `MTY2MTkyNzc0MSwwMDAwMDAwMGUxYmJhYjNhNTE5M2UyMmU2YThmYWUyZWMyYWE0NzFk`
+Snapshot ID: `MTY2MTkyNzc0MSwwMDAwMDAwMDM3NTlhNGJiYTNjYTVhNzI2OGRjM2VjOGU2MzYwZjRi`

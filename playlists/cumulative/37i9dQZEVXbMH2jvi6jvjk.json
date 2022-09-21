@@ -661,7 +661,7 @@
       ],
       "date_added": "2022-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-18",
+      "date_removed": null,
       "duration_ms": 215459,
       "name": "ALIEN SUPERSTAR",
       "url": "https://open.spotify.com/track/1Hohk6AufHZOrrhMXZppax"
@@ -679,7 +679,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 274026,
       "name": "All for You",
       "url": "https://open.spotify.com/track/3JyEmaZmPsuIvFivnwN22k"
@@ -1169,7 +1169,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-16",
+      "date_removed": null,
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
@@ -2849,7 +2849,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 183103,
       "name": "Buga (Lo Lo Lo)",
       "url": "https://open.spotify.com/track/4eZZofkV1OQ9GDqAgHqNpA"
@@ -4987,7 +4987,7 @@
       ],
       "date_added": "2022-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 368610,
       "name": "Down The Drain",
       "url": "https://open.spotify.com/track/62SaDdv956IYAt5nS1nWx7"
@@ -6743,7 +6743,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-18",
+      "date_removed": null,
       "duration_ms": 153190,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G"
@@ -7896,6 +7896,24 @@
     },
     {
       "album": {
+        "name": "Hotel",
+        "url": "https://open.spotify.com/album/0ykf7jcx3yY49RpkIO1byF"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197333,
+      "name": "Hotel",
+      "url": "https://open.spotify.com/track/0JzG1wJuB4v9UPkSE7LMXi"
+    },
+    {
+      "album": {
         "name": "Dawn FM",
         "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
       },
@@ -8257,7 +8275,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-18",
+      "date_removed": null,
       "duration_ms": 192840,
       "name": "I Like You (A Happier Song) (with Doja Cat)",
       "url": "https://open.spotify.com/track/0O6u0VJ46W86TxN9wgyqDj"
@@ -9825,7 +9843,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 382328,
       "name": "Kancane",
       "url": "https://open.spotify.com/track/0dHswGoIHgWfHSraVv9mnq"
@@ -10279,7 +10297,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 382605,
       "name": "Kusezo Khanya",
       "url": "https://open.spotify.com/track/1LB6HHcswEA8yee4z10rbJ"
@@ -11547,7 +11565,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-16",
+      "date_removed": null,
       "duration_ms": 200185,
       "name": "lovely (with Khalid)",
       "url": "https://open.spotify.com/track/0u2P5u6lvoDfwTYjAADbn4"
@@ -16495,7 +16513,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-20",
+      "date_removed": null,
       "duration_ms": 207853,
       "name": "Shivers",
       "url": "https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5"
@@ -17713,7 +17731,7 @@
       ],
       "date_added": "2021-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-18",
+      "date_removed": null,
       "duration_ms": 141805,
       "name": "STAY (with Justin Bieber)",
       "url": "https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX"
@@ -17799,7 +17817,7 @@
       ],
       "date_added": "2022-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-18",
+      "date_removed": null,
       "duration_ms": 178176,
       "name": "STAYING ALIVE (feat. Drake & Lil Baby)",
       "url": "https://open.spotify.com/track/7Ddk8FhoYKdsVoX9AOCPMm"
@@ -17869,7 +17887,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-18",
+      "date_removed": null,
       "duration_ms": 243227,
       "name": "Sticky",
       "url": "https://open.spotify.com/track/4rmVZajAF7PkrCagGPHbqa"
@@ -18203,7 +18221,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -18443,7 +18461,7 @@
       ],
       "date_added": "2022-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 376078,
       "name": "Tanzania",
       "url": "https://open.spotify.com/track/5z6oqX6l6kTSPB9gSRnLzE"
@@ -18689,7 +18707,7 @@
       ],
       "date_added": "2022-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 410540,
       "name": "The Fxckin Injury",
       "url": "https://open.spotify.com/track/1EZMFiD30CythJ73EBZfUq"
@@ -19061,7 +19079,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 382339,
       "name": "Thula",
       "url": "https://open.spotify.com/track/7rmpguwTH3XwEPZMSeL4RH"
@@ -20437,7 +20455,7 @@
       ],
       "date_added": "2022-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 278706,
       "name": "Voicemail",
       "url": "https://open.spotify.com/track/1zHdh2Muk7jyPYXc8h1zPs"

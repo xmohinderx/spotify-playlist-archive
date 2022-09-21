@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWC0NIJDJKL.md) - [plain]
 
 > Perfect sunshiney indie tracks for summer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,179 likes - 75 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,433 likes - 75 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWC0NIJDJKL.md) - [plain]
 | 20 | [Sunscreen](https://open.spotify.com/track/2bMaGaVedzuLragkMjbPeS) | [Booshell](https://open.spotify.com/artist/1gFHHF3QyQxjbbKXV3qLu9), [Charm on the beat](https://open.spotify.com/artist/2PAputxnXRLw2RtF8MIrFD) | [Sunscreen](https://open.spotify.com/album/77OpzfBjErs49FzgegI6cZ) | 3:18 |
 | 21 | [Cloud 9](https://open.spotify.com/track/6vFsBXYczYsP0H3lgunZOm) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Honeymoon](https://open.spotify.com/album/6QZyKchQivUBTSMcoBmlPa) | 2:27 |
 | 22 | [Take Me Out](https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Franz Ferdinand](https://open.spotify.com/album/0vi5ePiEHrGZJF7QhnDW2z) | 3:57 |
-| 23 | [Wish You Were Sober](https://open.spotify.com/track/0kn2gu8Pd03DiYHzRvX2Xk) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 2:48 |
+| 23 | [The Adults Are Talking](https://open.spotify.com/track/5ruzrDWcT0vuJIOMW7gMnW) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [The New Abnormal](https://open.spotify.com/album/2xkZV2Hl1Omi8rk2D7t5lN) | 5:09 |
 | 24 | [The Ring](https://open.spotify.com/track/1anctgvz1HhbvrO6hb6fGa) | [Ev Bird](https://open.spotify.com/artist/5ZLnYZBRZimCRU1vJzzGsI), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY) | [The Ring](https://open.spotify.com/album/7cf8z97FmxtiztoxqZX69J) | 3:09 |
-| 25 | [The Adults Are Talking](https://open.spotify.com/track/5ruzrDWcT0vuJIOMW7gMnW) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [The New Abnormal](https://open.spotify.com/album/2xkZV2Hl1Omi8rk2D7t5lN) | 5:09 |
+| 25 | [Wish You Were Sober](https://open.spotify.com/track/0kn2gu8Pd03DiYHzRvX2Xk) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 2:48 |
 | 26 | [Devil Town](https://open.spotify.com/track/0vf2eBw2inhl8y61cYQMv2) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Cavetown](https://open.spotify.com/album/0ZyaO9oGhq7blYJzo3l65t) | 2:59 |
 | 27 | [Sunflower](https://open.spotify.com/track/4EpZ4eYuZOwPSSwyqpdHnJ) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Sunflower](https://open.spotify.com/album/1FhmTMNe8AziAPkB29114F) | 4:12 |
 | 28 | [comethru](https://open.spotify.com/track/18uwL0vNUanqZH0ro2QcOP) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [summer,](https://open.spotify.com/album/6Whp0T7d1SAt4gDUNkWWD1) | 3:01 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWC0NIJDJKL.md) - [plain]
 | 35 | [Boys Will Be Bugs](https://open.spotify.com/track/6suYoN4gFkanqOBn5yRnJC) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Animal Kingdom](https://open.spotify.com/album/40MJoESOQ4BDr5Y6jY7cFa) | 5:29 |
 | 36 | [Remember When](https://open.spotify.com/track/5naar7XewEOAjOywIp6Jjq) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Nothing Happens](https://open.spotify.com/album/7eed9MBclFPjjjvotfR2e9) | 2:35 |
 | 37 | [Love$ick \(feat\. A$AP Rocky\)](https://open.spotify.com/track/3sTN90bIP2cJ1783ctHykO) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Mura Masa](https://open.spotify.com/album/0NBTBo1qrg554sAj79nEqD) | 3:12 |
-| 38 | [We Are Young \(feat\. Janelle Monáe\)](https://open.spotify.com/track/7a86XRg84qjasly9f6bPSD) | [fun.](https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0), [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [Some Nights](https://open.spotify.com/album/7iycyHwOW2plljYIK6I1Zo) | 4:10 |
-| 39 | [beside you](https://open.spotify.com/track/1Fhb9iJPufNMZSwupsXiRe) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [beside you](https://open.spotify.com/album/3boOG8cQ8szHDizPKUyBFD) | 2:46 |
+| 38 | [beside you](https://open.spotify.com/track/1Fhb9iJPufNMZSwupsXiRe) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [beside you](https://open.spotify.com/album/3boOG8cQ8szHDizPKUyBFD) | 2:46 |
+| 39 | [We Are Young \(feat\. Janelle Monáe\)](https://open.spotify.com/track/7a86XRg84qjasly9f6bPSD) | [fun.](https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0), [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [Some Nights](https://open.spotify.com/album/7iycyHwOW2plljYIK6I1Zo) | 4:10 |
 | 40 | [Super Rich Kids](https://open.spotify.com/track/0725YWm6Z0TpZ6wrNk64Eb) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM), [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 5:04 |
 | 41 | [Amoeba](https://open.spotify.com/track/0HAqq2GcQKyi3s87GuN7jU) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sling](https://open.spotify.com/album/32ium7Cxb1Xwp2MLzH2459) | 3:48 |
 | 42 | [People Watching](https://open.spotify.com/track/4JeOesjcWWlprTAvucDSJX) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [People Watching](https://open.spotify.com/album/03HTFr18vhLwCLFq6kWHIw) | 2:38 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWC0NIJDJKL.md) - [plain]
 | 53 | [Hey Lover!](https://open.spotify.com/track/7rC3P7tpWriaC4hYWKwGQd) | [Wabie](https://open.spotify.com/artist/3wOQaMNQU0rbzWyGXIudmE) | [Cyclones and Hey Lover](https://open.spotify.com/album/076hhK2bCjHhQJqWY7wRh0) | 2:42 |
 | 54 | [sunburn](https://open.spotify.com/track/4gBkCqlITvat2A3aYPtMqS) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [sunburn](https://open.spotify.com/album/6Edd6ynhByESPwWdNgXCFP) | 2:53 |
 | 55 | [Home \- 2019 \- Remaster](https://open.spotify.com/track/7KWGfnsUU4Ri46TIvjpAPx) | [Edward Sharpe & The Magnetic Zeros](https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh) | [Up From Below \(10th Anniversary Edition\) \[2019 \- Remaster\]](https://open.spotify.com/album/71eRIPUemoGlRpNryhlZjU) | 5:06 |
-| 56 | [Daylight](https://open.spotify.com/track/57i3M29DWoo7RDk0Tf0LZG) | [Matt and Kim](https://open.spotify.com/artist/4MSMDY0ClgWqXApU53I1L1) | [Grand](https://open.spotify.com/album/4bQi4sDv5BugGpaQWJiEXa) | 2:51 |
-| 57 | [Prairies \(with mxmtoon\)](https://open.spotify.com/track/7w2iqaRxQgAGnkOdMhsiqu) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp), [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [Serotonin Dreams](https://open.spotify.com/album/1I79ZTFJ5FVLwMYRWvhk73) | 3:11 |
+| 56 | [Prairies \(with mxmtoon\)](https://open.spotify.com/track/7w2iqaRxQgAGnkOdMhsiqu) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp), [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [Serotonin Dreams](https://open.spotify.com/album/1I79ZTFJ5FVLwMYRWvhk73) | 3:11 |
+| 57 | [Daylight](https://open.spotify.com/track/57i3M29DWoo7RDk0Tf0LZG) | [Matt and Kim](https://open.spotify.com/artist/4MSMDY0ClgWqXApU53I1L1) | [Grand](https://open.spotify.com/album/4bQi4sDv5BugGpaQWJiEXa) | 2:51 |
 | 58 | [Hotel](https://open.spotify.com/track/3xyr2xfbSZiZWWGsjLyMFh) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [6 Of A Billion](https://open.spotify.com/album/00XbpqjUL8dH40s3vGltsV) | 2:14 |
 | 59 | [Perfume](https://open.spotify.com/track/4OJC6NJCMyvjX0pENJhSrL) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Pebble Brain](https://open.spotify.com/album/5FjI8XVSj9YAmGAlZub7Bo) | 3:27 |
 | 60 | [Solar Power](https://open.spotify.com/track/7s2kWabRM60W9I61HpKg8C) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Solar Power](https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J) | 3:12 |
@@ -77,11 +77,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWC0NIJDJKL.md) - [plain]
 | 67 | [don't miss me](https://open.spotify.com/track/5MG69A9XyXDbBbeOxdR3Tl) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [don’t miss me](https://open.spotify.com/album/2uXE0PE2nWgjXDV6nZi1l0) | 2:03 |
 | 68 | [Sexy Villain](https://open.spotify.com/track/27sBcXtgTBSJRdUxei1a7J) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Juno](https://open.spotify.com/album/7tJ8Wtej161vR0uCbGDiDR) | 3:08 |
 | 69 | [Canopée](https://open.spotify.com/track/260V7huyJrXnyYe0dFv2Fa) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Caravelle](https://open.spotify.com/album/0SuFqlCe5i30Fr75ZlPQVT) | 4:36 |
-| 70 | [This Must Be The Place](https://open.spotify.com/track/6PuoZT4kgw5DrUEdnQ6e01) | [Sure Sure](https://open.spotify.com/artist/1anAI9P9iSzc9qzLv6AtHZ) | [Sure Sure](https://open.spotify.com/album/7EfgATnOllXJ96s4sSdzei) | 3:39 |
-| 71 | [sun keeps on shining](https://open.spotify.com/track/5OAEQKfQzIB3X4K7TtviZf) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [sun keeps on shining](https://open.spotify.com/album/4LBGeeTC8GUcMSTM8Aesm8) | 2:47 |
+| 70 | [sun keeps on shining](https://open.spotify.com/track/5OAEQKfQzIB3X4K7TtviZf) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [sun keeps on shining](https://open.spotify.com/album/4LBGeeTC8GUcMSTM8Aesm8) | 2:47 |
+| 71 | [This Must Be The Place](https://open.spotify.com/track/6PuoZT4kgw5DrUEdnQ6e01) | [Sure Sure](https://open.spotify.com/artist/1anAI9P9iSzc9qzLv6AtHZ) | [Sure Sure](https://open.spotify.com/album/7EfgATnOllXJ96s4sSdzei) | 3:39 |
 | 72 | [That I Miss You](https://open.spotify.com/track/7szBZqBJuj9eAC8HJ4CyTM) | [Vansire](https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY) | [That I Miss You](https://open.spotify.com/album/3tE8rkq0T77F2hwjXMzCfF) | 2:20 |
 | 73 | [Serotonin](https://open.spotify.com/track/16MneRxNQpHK250NaIo3bg) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/10nQ1u8Y1zlOb61zwZavDk) | 3:02 |
 | 74 | [Be Sweet](https://open.spotify.com/track/0dpyzcT3RMNNSd2xKBf35I) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Jubilee](https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY) | 3:15 |
 | 75 | [GOOD TIMES](https://open.spotify.com/track/1WeqJkPY5rDIfyOKWfyuf5) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [GOOD TIMES / PROBLEMZ](https://open.spotify.com/album/2j8Bsbbqb9EyS1ajAq3GME) | 3:01 |
 
-Snapshot ID: `MTY2MzU5ODE2NCwwMDAwMDAwMGY0OWFiMDA4NDUxNjczMjA1N2NhZGNmZjU5NzllZTRl`
+Snapshot ID: `MTY2MzU5ODE2NCwwMDAwMDAwMDY5OThjYTRhYjhlYzkyOWYzOTU3ZjYzMThkYjMyMjNj`

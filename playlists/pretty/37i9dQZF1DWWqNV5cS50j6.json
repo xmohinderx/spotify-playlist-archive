@@ -1,12 +1,12 @@
 {
   "description": "Gorillaz make anti pop.",
-  "num_followers": 664823,
+  "num_followers": 665116,
   "original_name": "anti pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzYwNTc1MywwMDAwMDAwMGY1YzViMjc3MzhkNzJkMTkyYjdiNmEwZmQzNzc4NzJi",
+  "snapshot_id": "MTY2MzYwNTc1MywwMDAwMDAwMGUyMjhkZDM5ZjRkMTNlYmEwMDg5MjU1MWFmMjY3M2Uw",
   "tracks": [
     {
       "added_at": "2022-09-02 09:10:00",
@@ -765,54 +765,6 @@
       "url": "https://open.spotify.com/track/2MAEd35YAuGXXCifA2M1Wz"
     },
     {
-      "added_at": "2022-08-08 17:11:17",
-      "album": {
-        "name": "What Box?",
-        "url": "https://open.spotify.com/album/6zxHzgT0fKSMEgIi7BpoyQ"
-      },
-      "artists": [
-        {
-          "name": "Terry Presume",
-          "url": "https://open.spotify.com/artist/4JLuMu6NZUAU8gYhrzvOdX"
-        }
-      ],
-      "duration_ms": 184826,
-      "name": "Act Up",
-      "url": "https://open.spotify.com/track/1Oqr9YhCi3JmuHcyHDBhf8"
-    },
-    {
-      "added_at": "2022-09-02 09:10:00",
-      "album": {
-        "name": "Lazy Summer Day / Chinese Restaurant",
-        "url": "https://open.spotify.com/album/31Llb7Ur6VlRgCHsZBaGaQ"
-      },
-      "artists": [
-        {
-          "name": "Yung Lean",
-          "url": "https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3"
-        }
-      ],
-      "duration_ms": 141290,
-      "name": "Lazy Summer Day",
-      "url": "https://open.spotify.com/track/6ND3HuPxTJzFcRpyAAvhpL"
-    },
-    {
-      "added_at": "2022-08-08 17:11:17",
-      "album": {
-        "name": "Sugar",
-        "url": "https://open.spotify.com/album/4bPrS4muAMw2G5M6ARaZ01"
-      },
-      "artists": [
-        {
-          "name": "Unusual Demont",
-          "url": "https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR"
-        }
-      ],
-      "duration_ms": 114416,
-      "name": "Sugar",
-      "url": "https://open.spotify.com/track/5KfUqRRbm6ACSzLxUS57R2"
-    },
-    {
       "added_at": "2022-09-02 18:12:52",
       "album": {
         "name": "Carefree (with Femdot & Mick Jenkins)",
@@ -835,6 +787,54 @@
       "duration_ms": 241582,
       "name": "Carefree (with Femdot & Mick Jenkins)",
       "url": "https://open.spotify.com/track/5B6EIqgRxNOU08BgyKNQSS"
+    },
+    {
+      "added_at": "2022-09-02 09:10:00",
+      "album": {
+        "name": "Lazy Summer Day / Chinese Restaurant",
+        "url": "https://open.spotify.com/album/31Llb7Ur6VlRgCHsZBaGaQ"
+      },
+      "artists": [
+        {
+          "name": "Yung Lean",
+          "url": "https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3"
+        }
+      ],
+      "duration_ms": 141290,
+      "name": "Lazy Summer Day",
+      "url": "https://open.spotify.com/track/6ND3HuPxTJzFcRpyAAvhpL"
+    },
+    {
+      "added_at": "2022-08-08 17:11:17",
+      "album": {
+        "name": "What Box?",
+        "url": "https://open.spotify.com/album/6zxHzgT0fKSMEgIi7BpoyQ"
+      },
+      "artists": [
+        {
+          "name": "Terry Presume",
+          "url": "https://open.spotify.com/artist/4JLuMu6NZUAU8gYhrzvOdX"
+        }
+      ],
+      "duration_ms": 184826,
+      "name": "Act Up",
+      "url": "https://open.spotify.com/track/1Oqr9YhCi3JmuHcyHDBhf8"
+    },
+    {
+      "added_at": "2022-08-08 17:11:17",
+      "album": {
+        "name": "Sugar",
+        "url": "https://open.spotify.com/album/4bPrS4muAMw2G5M6ARaZ01"
+      },
+      "artists": [
+        {
+          "name": "Unusual Demont",
+          "url": "https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR"
+        }
+      ],
+      "duration_ms": 114416,
+      "name": "Sugar",
+      "url": "https://open.spotify.com/track/5KfUqRRbm6ACSzLxUS57R2"
     },
     {
       "added_at": "2022-08-27 22:35:33",

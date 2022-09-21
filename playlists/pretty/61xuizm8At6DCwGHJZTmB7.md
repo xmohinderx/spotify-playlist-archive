@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 
 > Listen to the top Christian and worship hits of 2022 featuring Hillsong Worship, Maverick City, Kari Jobe, Chris Tomlin and more\.  Cover: Brooke Ligertwood
 
-[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 113,277 likes - 102 songs - 9 hr 24 min
+[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 113,292 likes - 103 songs - 9 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 | 51 | [Fall Afresh](https://open.spotify.com/track/7N2y4URYFzeoON8IJPiVse) | [Equippers Worship](https://open.spotify.com/artist/1eswTstCzVURi1R8PeAmE1) | [Fall Afresh](https://open.spotify.com/album/41FngW0FFs9zqIp2oeEzCI) | 6:07 |
 | 52 | [In Christ Alone \- Live](https://open.spotify.com/track/6aRwLqDf1bN3lI2gMd6wXp) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Passion: Let The Future Begin](https://open.spotify.com/album/6AEqQa8wsva60vuNuhpjGQ) | 5:39 |
 | 53 | [Christ Is Risen](https://open.spotify.com/track/1GQsaKKI0ZJJPI5Zsop20u) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj) | [Greater Things](https://open.spotify.com/album/6zCU9zG1tIfA9V1UEfSPsz) | 5:07 |
-| 54 | [God Song](https://open.spotify.com/track/460oUWkGwaNZM2ZrJzJAMK) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM) | [Are We There Yet?](https://open.spotify.com/album/5Ol7XeGGIlNkihAl0ucpmk) | 6:46 |
+| 54 | [God Song](https://open.spotify.com/track/460oUWkGwaNZM2ZrJzJAMK) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [Hannah Hobbs](https://open.spotify.com/artist/7DfCVb2hqPHt6gEMkTJh5h), [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [Are We There Yet?](https://open.spotify.com/album/5Ol7XeGGIlNkihAl0ucpmk) | 6:46 |
 | 55 | [How Great Is Our God](https://open.spotify.com/track/0jOSpB2zK2O0SNxj8ZT5lp) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [How Great Is Our God: The Essential Collection](https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu) | 5:05 |
 | 56 | [As You Can \- Live](https://open.spotify.com/track/4vguRbzcA2Ewj7tai8jerX) | [Jesus People](https://open.spotify.com/artist/35UBfTl4RQiyBsrZTbIBmp), [Adam Smucker](https://open.spotify.com/artist/414BovAUSONHbIcZIlfnDr) | [As You Can \(Live\)](https://open.spotify.com/album/4CM3QMzL3U0zhxTflYL0dF) | 10:19 |
 | 57 | [Stand In Faith](https://open.spotify.com/track/4QKm2QRHU66cfhyuINkaa0) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Stand In Faith](https://open.spotify.com/album/1UsdGQkoh2wjtHwCCgqCAd) | 3:20 |
@@ -110,5 +110,6 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 | 100 | [Raise A Hallelujah \- Live From Passion 2020](https://open.spotify.com/track/7GT8eex9MR0kW80XSMYlYg) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Brett Younker](https://open.spotify.com/artist/1bv56110xRuPw0V8YaWiM5) | [Roar \(Live From Passion 2020\)](https://open.spotify.com/album/3TlEGcbneZP4tE2V0dn1em) | 5:39 |
 | 101 | [Promises](https://open.spotify.com/track/3wkcyREQrVVDOIUjx1eZ1W) | [Maranatha! Music](https://open.spotify.com/artist/67OFzndMlzj7cDF2BqnwYe) | [Promises](https://open.spotify.com/album/0Aq2RVdHV4pzxDTNi3UP7b) | 4:47 |
 | 102 | [I See You](https://open.spotify.com/track/2SXrg51ciQMurVKgwTpatg) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [I See You](https://open.spotify.com/album/4ZLqUbhVPHmY5QD1gbYEij) | 3:48 |
+| 103 | [Keep In Step \- Live](https://open.spotify.com/track/1sGVoxezS8GxpH3caseKg2) | [Dreamers](https://open.spotify.com/artist/4LW8svP1k62JqCoU4Esw51) | [Keep In Step \(Live\)](https://open.spotify.com/album/3Nr38C2V90IH9kUG9ieK24) | 4:03 |
 
-Snapshot ID: `NjY0MCwxNDk3NmNiOGQ2YWZiMTc3NjI0ZTUyNDk1NmIyNTY4YWZjNWNlYzZk`
+Snapshot ID: `NjY0MSw3OWExMDIyNDNmMDA1NjFkOTdiMmYwMjJjNDM3YjQ3NmQ4MmIxZmI1`

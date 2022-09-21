@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVt7Sb7a9kCb.md) - [plain]
 
 > Llévatela tranqui con los hits más relajados del urbano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,371 likes - 80 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,399 likes - 80 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVt7Sb7a9kCb.md) - [plain]
 | 28 | [Buenos Días](https://open.spotify.com/track/2MxHuZWC99rsELX9SrCW7K) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Los Legendarios](https://open.spotify.com/artist/0n6sKrG0xKAf8xmdqeNGke) | [Buenos Días](https://open.spotify.com/album/4bmS0E4xk96TPMC9MXc9Xv) | 3:19 |
 | 29 | [El Mensaje](https://open.spotify.com/track/2KixbV3oLBNrQP2cXwrAC4) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [El Mensaje](https://open.spotify.com/album/7rm64Fm5KyyffZ5w0lFwpV) | 3:02 |
 | 30 | [Quiéreme Mientras Se Pueda](https://open.spotify.com/track/34LI7rwi9H8w2S5KTHnv1M) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Quiéreme Mientras Se Pueda](https://open.spotify.com/album/7cd7ofPesyBoPDb2dtUbj5) | 3:11 |
-| 31 | [La Botella](https://open.spotify.com/track/6GPBXtnSepHovJi1uD1Ggj) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [La Última Promesa](https://open.spotify.com/album/4AHHM76jyqUiC1HRd37ZQQ) | 3:46 |
-| 32 | [Me Olvidé De Los 2](https://open.spotify.com/track/02qcrVQ61nS94wWvLaiXGf) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [LA ISLA LP](https://open.spotify.com/album/7kuJ6wtlijDEk2A71qG2q6) | 2:59 |
+| 31 | [Me Olvidé De Los 2](https://open.spotify.com/track/02qcrVQ61nS94wWvLaiXGf) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [LA ISLA LP](https://open.spotify.com/album/7kuJ6wtlijDEk2A71qG2q6) | 2:59 |
+| 32 | [La Botella](https://open.spotify.com/track/6GPBXtnSepHovJi1uD1Ggj) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [La Última Promesa](https://open.spotify.com/album/4AHHM76jyqUiC1HRd37ZQQ) | 3:46 |
 | 33 | [Sigo Esperando Que Vuelvas \(feat\. Los Golpes\)](https://open.spotify.com/track/1rdkLyIU3b9LTX1a6RrP5M) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Eirian Music](https://open.spotify.com/artist/4hMiTS2vx4r1mJbR4VUzn4), [Los Golpes](https://open.spotify.com/artist/7vyUXV67P88Hxq4Q5cpC1j) | [Sigo Esperando Que Vuelvas \(feat\. Los Golpes\)](https://open.spotify.com/album/58a7npneCuVfs5wqIT64TY) | 3:16 |
 | 34 | [AM](https://open.spotify.com/track/2dNhNlpZAtV4lwAFW45LIv) | [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [Flow La Movie](https://open.spotify.com/artist/2oT7xd9iTO2ejLsNGIMa5f) | [AM](https://open.spotify.com/album/3dGUvydBX9qhg2YBMsVope) | 3:02 |
 | 35 | [BEBÉ](https://open.spotify.com/track/7D7EH7MGyNHWSkqrszerI1) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [BEBÉ](https://open.spotify.com/album/0krfGu8Xf8xZGOeEcQUjai) | 3:18 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVt7Sb7a9kCb.md) - [plain]
 | 50 | [Otra Noche Sin Ti](https://open.spotify.com/track/2CdTLdDjwZdVcm0bresVWx) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Otra Noche Sin Ti](https://open.spotify.com/album/0Q7L1MC5jSE0srnjEWCifV) | 3:48 |
 | 51 | [Dueles Tan Bien](https://open.spotify.com/track/75ncCwXqalTnnl6t1ruQRq) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Dueles Tan Bien](https://open.spotify.com/album/4EFml19fOt7aLf4EMhg8jq) | 2:54 |
 | 52 | [Kaprichosa](https://open.spotify.com/track/11iYGnLvPxB2O9k0xGmPvq) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Kaprichosa](https://open.spotify.com/album/398f6bMojV8IIh3FXd3q0o) | 3:20 |
-| 53 | [Nadie Más](https://open.spotify.com/track/2gWN7hIUWkNR6aBBIE7tLG) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Portales](https://open.spotify.com/album/5KKcchRuyjfuLkecyRJcWx) | 2:35 |
-| 54 | [Casualidad](https://open.spotify.com/track/5FcT2TuosRkokjn3xyncER) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Casualidad](https://open.spotify.com/album/2TMrMWOfJY01n2MRhANkWi) | 3:13 |
+| 53 | [Casualidad](https://open.spotify.com/track/5FcT2TuosRkokjn3xyncER) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Casualidad](https://open.spotify.com/album/2TMrMWOfJY01n2MRhANkWi) | 3:13 |
+| 54 | [Nadie Más](https://open.spotify.com/track/2gWN7hIUWkNR6aBBIE7tLG) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Portales](https://open.spotify.com/album/5KKcchRuyjfuLkecyRJcWx) | 2:35 |
 | 55 | [La Playa \- Remix](https://open.spotify.com/track/70zg99pT51vB4wlMS7e4q7) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [La Playa \(Remix\)](https://open.spotify.com/album/3qppmBh6lM8UXGTZF0dyTD) | 4:10 |
 | 56 | [Verte](https://open.spotify.com/track/2mMZAd3ol9wGI2WJl4XJCF) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36) | [Verte](https://open.spotify.com/album/3NXbwVxHga0cmLdnRIDX64) | 2:37 |
 | 57 | [Agua de Jamaica](https://open.spotify.com/track/41BzKiCrKpUQHS3TP0jmdr) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [\#7DJ \(7 Días En Jamaica\)](https://open.spotify.com/album/7vZC8PTQUCcw3687OxqY98) | 2:56 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVt7Sb7a9kCb.md) - [plain]
 | 79 | [Podemos Intentar](https://open.spotify.com/track/3Mi8RoaiZ6jmPIFkuNkYAg) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3), [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [Amor En Español](https://open.spotify.com/album/1e8k4kAKtcC5GIjfP4JDdR) | 4:11 |
 | 80 | [Perreito Under](https://open.spotify.com/track/6l0pG6obvyfFGeSUI3aS5y) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE), [Kevin Roldan](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO), [HIT$ MUSIC](https://open.spotify.com/artist/44ALfmkGESKyMbbRrvw9gT) | [Perreito Under](https://open.spotify.com/album/5x6HNSub3IXwgDrvv1ond5) | 3:06 |
 
-Snapshot ID: `MTY2MjQwNDg3NCwwMDAwMDAwMGUzN2FmNzA2OTU0MjI2OTk4YmM4MGIzZDBiMzU3ZTM3`
+Snapshot ID: `MTY2MjQwNDg3NCwwMDAwMDAwMDVkYWM2NzU1YmI2NzBkOTNlODM0ZWE2YzQ3Yjg3NWJk`

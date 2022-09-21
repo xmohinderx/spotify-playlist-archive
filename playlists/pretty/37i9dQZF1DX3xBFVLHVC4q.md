@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xBFVLHVC4q.md) - [plain]
 
 > Music from "Love Live! Sunshine!!" /Aqoursの「みんなで叶える物語」を彩ってきた名曲の数々がここに。▶︎「Love Live！」<a href="spotify:user:spotify:playlist:37i9dQZF1DX1uvQpDoMmUF">Here</a> ©2017 プロジェクトラブライブ！サンシャイン!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,751 likes - 50 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,765 likes - 50 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xBFVLHVC4q.md) - [plain]
 | 30 | [未来の僕らは知ってるよ](https://open.spotify.com/track/4Kr4DGSLD2SRmjxNjfm3uS) | [Aqours](https://open.spotify.com/artist/6zxQda06WxXX8GmCeYstwV) | [未来の僕らは知ってるよ](https://open.spotify.com/album/1MlqcaVEU0wY1jDr1lka7U) | 4:10 |
 | 31 | [夏の終わりの雨音が](https://open.spotify.com/track/4YKBQ79ioNaMJJlXpCK74l) | [高海千歌 \(CV.伊波杏樹\)](https://open.spotify.com/artist/6plej5RLgqzBFny1o6uODr), [松浦果南 \(CV.諏訪ななか\)](https://open.spotify.com/artist/2eVnZH9Ie92OBHLwDMoWN6) | [デュオトリオコレクション \(VOL.1 〜SUMMER VACATION〜\)](https://open.spotify.com/album/1hMpUC2AhCku7MHmq8awKW) | 5:21 |
 | 32 | [近未来ハッピーエンド](https://open.spotify.com/track/09hTxG0bQXAulhD92ambAW) | [CYaRon!](https://open.spotify.com/artist/45hvLVhSaKsJ4YifJ69A3Z) | [近未来ハッピーエンド](https://open.spotify.com/album/55Mz7WkM8ILMs57h5jAemf) | 5:10 |
-| 33 | [One More Sunshine Story](https://open.spotify.com/track/7h73Xkk2JqVV2bMo0P7x06) | [高海千歌 \(CV.伊波杏樹\) from Aqours](https://open.spotify.com/artist/1nooN5DIt9Zps8shc8Sbno) | [LoveLive! Sunshine!! Takami Chika First Solo Concert Album 〜One More Sunshine Story〜](https://open.spotify.com/album/634zNexQcxLqmJ9e884bdp) | 4:31 |
+| 33 | [さかなかなんだか?](https://open.spotify.com/track/57fDiwr1ayxeS57PC8r13R) | [松浦果南 \(CV.諏訪ななか\) from Aqours](https://open.spotify.com/artist/3qmeR7kGRtevhMxvZ0ls0i) | [LoveLive! Sunshine!! Matsuura Kanan First Solo Concert Album 〜さかなかなんだか?〜](https://open.spotify.com/album/3kp2CxXz4KVbtHxr3axkXG) | 4:48 |
 | 34 | [Lonely Snow Planet](https://open.spotify.com/track/4oYq3ZBW4v34rQbdzMrWab) | [Saint Snow](https://open.spotify.com/artist/5bAFl5UIKoCUr4A6090lR7) | [Dazzling White Town](https://open.spotify.com/album/07OQgrBCdszGK0JaU2s1Uv) | 4:15 |
-| 35 | [さかなかなんだか?](https://open.spotify.com/track/57fDiwr1ayxeS57PC8r13R) | [松浦果南 \(CV.諏訪ななか\) from Aqours](https://open.spotify.com/artist/3qmeR7kGRtevhMxvZ0ls0i) | [LoveLive! Sunshine!! Matsuura Kanan First Solo Concert Album 〜さかなかなんだか?〜](https://open.spotify.com/album/3kp2CxXz4KVbtHxr3axkXG) | 4:48 |
+| 35 | [One More Sunshine Story](https://open.spotify.com/track/7h73Xkk2JqVV2bMo0P7x06) | [高海千歌 \(CV.伊波杏樹\) from Aqours](https://open.spotify.com/artist/1nooN5DIt9Zps8shc8Sbno) | [LoveLive! Sunshine!! Takami Chika First Solo Concert Album 〜One More Sunshine Story〜](https://open.spotify.com/album/634zNexQcxLqmJ9e884bdp) | 4:31 |
 | 36 | [Shadow gate to love](https://open.spotify.com/track/102b9XE1FmD4seoZrOBWoj) | [Guilty Kiss](https://open.spotify.com/artist/7gKNDpetmXrzHZuLdo9tv8) | [コワレヤスキ](https://open.spotify.com/album/5cY6POleXeaynRty3PZjnO) | 4:05 |
 | 37 | [RED GEM WINK](https://open.spotify.com/track/6puhUOFB5b7CggOnVUufpI) | [黒澤ルビィ \(CV.降幡 愛\) from Aqours](https://open.spotify.com/artist/5vjMooJRmrsyJuFv8z5HAh) | [LoveLive! Sunshine!! Kurosawa Ruby First Solo Concert Album 〜RED GEM WINK〜](https://open.spotify.com/album/5j7nXWzvMsMrXAsHTSXKXr) | 4:55 |
 | 38 | [夢で夜空を照らしたい](https://open.spotify.com/track/0x89IEs0NJHOULPx4wgPPB) | [高海千歌 \(CV.伊波杏樹\)](https://open.spotify.com/artist/6plej5RLgqzBFny1o6uODr), [桜内梨子 \(CV.逢田梨香子\)](https://open.spotify.com/artist/0yF5feBSqKd4frxmdkft3O), [渡辺 曜 \(CV.斉藤朱夏\)](https://open.spotify.com/artist/0tfFouX7e1G86zdxkzBlRB), [津島善子 \(CV.小林愛香\)](https://open.spotify.com/artist/4e6MC71bwNfP6rnStiWyVY), [国木田花丸 \(CV.高槻かなこ\)](https://open.spotify.com/artist/13zuD1JY2mY2kwG3dOS8an), [黒澤ルビィ \(CV.降幡 愛\)](https://open.spotify.com/artist/3eMNL0H3RQlfNX3dadmmAO) | [夢で夜空を照らしたい/未熟DREAMER](https://open.spotify.com/album/3RC4kNrfwR8LXVbu6x85KM) | 5:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xBFVLHVC4q.md) - [plain]
 | 49 | [1STAR](https://open.spotify.com/track/71WkT8jdbJeb5mgNhzo8oU) | [黒澤ルビィ \(CV.降幡 愛\) from Aqours](https://open.spotify.com/artist/5vjMooJRmrsyJuFv8z5HAh) | [LoveLive! Sunshine!! Second Solo Concert Album \~THE STORY OF FEATHER\~ starring Kurosawa Ruby](https://open.spotify.com/album/3SBDAPMnWbt2amyheZB4dc) | 5:53 |
 | 50 | [Amazing Travel DNA](https://open.spotify.com/track/6b5SwxLObqfrx9ewIU3UWU) | [AZALEA](https://open.spotify.com/artist/18QWe6vnAE1n1FnO0wAfPN) | [Amazing Travel DNA](https://open.spotify.com/album/42GXO2RpG8GXDZaWPXGBJ2) | 4:15 |
 
-Snapshot ID: `MTY2MzUxMzIwMCwwMDAwMDAwMGM3MGIwZjA0MjczMWM1Y2ZmYWY1MGM0NGQ3NmQyMzRh`
+Snapshot ID: `MTY2MzUxMzIwMCwwMDAwMDAwMDJiZGNiNWUzMDlmMTA1MDM2MGJmYzk4MTc4OWFmNDM1`

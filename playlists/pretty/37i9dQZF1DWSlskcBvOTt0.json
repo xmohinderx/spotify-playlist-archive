@@ -1,12 +1,12 @@
 {
   "description": "Hypnotic melodic <a href=\"spotify:genre:house\">house</a> and <a href=\"spotify:genre:techno\">techno</a> to light up the night.",
-  "num_followers": 316950,
+  "num_followers": 317291,
   "original_name": "Tantra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMDJjYzgxZDU2YTcxOWZhOTE5ZjQ4NGFiZjYwMzZhZTA4",
+  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMDhkZmJkMTJlYzgyNTZhYWU2OGIwN2EyNmRlMmIxMzlk",
   "tracks": [
     {
       "added_at": "2022-07-01 04:01:00",
@@ -605,6 +605,26 @@
       "url": "https://open.spotify.com/track/6j0ao2DgHem5dpnGeHwufi"
     },
     {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Florianopolis",
+        "url": "https://open.spotify.com/album/4RJ3PkqGmetEBDM5At7cpj"
+      },
+      "artists": [
+        {
+          "name": "BADDIES ONLY",
+          "url": "https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot"
+        },
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        }
+      ],
+      "duration_ms": 141467,
+      "name": "Florianopolis",
+      "url": "https://open.spotify.com/track/0Mn0K9k16wbDlyOPm0k4nU"
+    },
+    {
       "added_at": "2022-07-01 04:01:00",
       "album": {
         "name": "Whistleman EP",
@@ -659,26 +679,6 @@
       "duration_ms": 417346,
       "name": "UUUU - &ME Remix",
       "url": "https://open.spotify.com/track/0rfLJGjPdvqHXgvDCTdGc6"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "Florianopolis",
-        "url": "https://open.spotify.com/album/4RJ3PkqGmetEBDM5At7cpj"
-      },
-      "artists": [
-        {
-          "name": "BADDIES ONLY",
-          "url": "https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot"
-        },
-        {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        }
-      ],
-      "duration_ms": 141467,
-      "name": "Florianopolis",
-      "url": "https://open.spotify.com/track/0Mn0K9k16wbDlyOPm0k4nU"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -747,18 +747,18 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
-        "name": "Sol",
-        "url": "https://open.spotify.com/album/5DJ34liCqUWS4AZuEWDkfi"
+        "name": "A Time To",
+        "url": "https://open.spotify.com/album/3BQgR0hDgi4uPaQ31siV83"
       },
       "artists": [
         {
-          "name": "Kalaman",
-          "url": "https://open.spotify.com/artist/2x9Tz0FYWRix00sWgamS4L"
+          "name": "Giorgia Angiuli",
+          "url": "https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq"
         }
       ],
-      "duration_ms": 384000,
-      "name": "Sol",
-      "url": "https://open.spotify.com/track/4wYiqFMQiGnUseioUWrdWU"
+      "duration_ms": 231980,
+      "name": "A Time To",
+      "url": "https://open.spotify.com/track/4UiwDnk0riQvDpoNJFAfME"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -779,18 +779,18 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
-        "name": "A Time To",
-        "url": "https://open.spotify.com/album/3BQgR0hDgi4uPaQ31siV83"
+        "name": "Sol",
+        "url": "https://open.spotify.com/album/5DJ34liCqUWS4AZuEWDkfi"
       },
       "artists": [
         {
-          "name": "Giorgia Angiuli",
-          "url": "https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq"
+          "name": "Kalaman",
+          "url": "https://open.spotify.com/artist/2x9Tz0FYWRix00sWgamS4L"
         }
       ],
-      "duration_ms": 231980,
-      "name": "A Time To",
-      "url": "https://open.spotify.com/track/4UiwDnk0riQvDpoNJFAfME"
+      "duration_ms": 384000,
+      "name": "Sol",
+      "url": "https://open.spotify.com/track/4wYiqFMQiGnUseioUWrdWU"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -1099,38 +1099,6 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
-        "name": "WAYU Various Artists, Vol. 2",
-        "url": "https://open.spotify.com/album/3do9W9ShRLxIKfUat5nERL"
-      },
-      "artists": [
-        {
-          "name": "Notre Dame",
-          "url": "https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt"
-        }
-      ],
-      "duration_ms": 328089,
-      "name": "La Luz",
-      "url": "https://open.spotify.com/track/4qK2KHiMFdZG9DLJRuEHge"
-    },
-    {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
-        "name": "Night Bell (Arizona)",
-        "url": "https://open.spotify.com/album/5eFPnkzLRO1EGogagnJyx7"
-      },
-      "artists": [
-        {
-          "name": "Kerala Dust",
-          "url": "https://open.spotify.com/artist/6lK8O3kyFThiTmgowQZGOH"
-        }
-      ],
-      "duration_ms": 448479,
-      "name": "Night Bell - Arizona",
-      "url": "https://open.spotify.com/track/7f1eD0myp4ntwnVLA5jmIU"
-    },
-    {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
         "name": "Fool's Paradise (Joris Voorn Remix)",
         "url": "https://open.spotify.com/album/7qcjHaXG3iYB6o3ifQYUel"
       },
@@ -1151,6 +1119,38 @@
       "duration_ms": 285000,
       "name": "Fool's Paradise - Joris Voorn Remix",
       "url": "https://open.spotify.com/track/4SH7CUxlrgvN9vf3oWa05d"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
+        "name": "Night Bell (Arizona)",
+        "url": "https://open.spotify.com/album/5eFPnkzLRO1EGogagnJyx7"
+      },
+      "artists": [
+        {
+          "name": "Kerala Dust",
+          "url": "https://open.spotify.com/artist/6lK8O3kyFThiTmgowQZGOH"
+        }
+      ],
+      "duration_ms": 448479,
+      "name": "Night Bell - Arizona",
+      "url": "https://open.spotify.com/track/7f1eD0myp4ntwnVLA5jmIU"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
+        "name": "WAYU Various Artists, Vol. 2",
+        "url": "https://open.spotify.com/album/3do9W9ShRLxIKfUat5nERL"
+      },
+      "artists": [
+        {
+          "name": "Notre Dame",
+          "url": "https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt"
+        }
+      ],
+      "duration_ms": 328089,
+      "name": "La Luz",
+      "url": "https://open.spotify.com/track/4qK2KHiMFdZG9DLJRuEHge"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
-        "name": "Marimba",
-        "url": "https://open.spotify.com/album/4f7UUXCh9WUMTstz8PMLcx"
-      },
-      "artists": [
-        {
-          "name": "Kermesse",
-          "url": "https://open.spotify.com/artist/6DPQIFnbvlnYf0QozkfiPw"
-        }
-      ],
-      "duration_ms": 359808,
-      "name": "Marimba",
-      "url": "https://open.spotify.com/track/1RiRfhBguCU7nmxkdK1cdW"
-    },
-    {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
         "name": "A380",
         "url": "https://open.spotify.com/album/24SZgEw38GafDdGtQUdy1f"
       },
@@ -1283,6 +1267,22 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
+        "name": "Marimba",
+        "url": "https://open.spotify.com/album/4f7UUXCh9WUMTstz8PMLcx"
+      },
+      "artists": [
+        {
+          "name": "Kermesse",
+          "url": "https://open.spotify.com/artist/6DPQIFnbvlnYf0QozkfiPw"
+        }
+      ],
+      "duration_ms": 359808,
+      "name": "Marimba",
+      "url": "https://open.spotify.com/track/1RiRfhBguCU7nmxkdK1cdW"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
         "name": "Mesta",
         "url": "https://open.spotify.com/album/2uDlUnjYwrxwSmeftzqo8G"
       },
@@ -1299,6 +1299,22 @@
       "duration_ms": 371106,
       "name": "Mesta",
       "url": "https://open.spotify.com/track/3HIyzleWbghroY372GMajL"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
+        "name": "About My Dreams",
+        "url": "https://open.spotify.com/album/5IQWTaU7T5EQk6zzQZZfod"
+      },
+      "artists": [
+        {
+          "name": "Stephan Jolk",
+          "url": "https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM"
+        }
+      ],
+      "duration_ms": 320000,
+      "name": "About My Dreams",
+      "url": "https://open.spotify.com/track/0esqnRo6slUc3hjqppnVAn"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -1331,22 +1347,6 @@
       "duration_ms": 368682,
       "name": "Universal Love",
       "url": "https://open.spotify.com/track/7uJvzzUgt8CpkEduX4m1Sp"
-    },
-    {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
-        "name": "About My Dreams",
-        "url": "https://open.spotify.com/album/5IQWTaU7T5EQk6zzQZZfod"
-      },
-      "artists": [
-        {
-          "name": "Stephan Jolk",
-          "url": "https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM"
-        }
-      ],
-      "duration_ms": 320000,
-      "name": "About My Dreams",
-      "url": "https://open.spotify.com/track/0esqnRo6slUc3hjqppnVAn"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -1557,22 +1557,6 @@
       "url": "https://open.spotify.com/track/4Bl14xQWo7Q6jagOcPZ5mI"
     },
     {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
-        "name": "Antares / Stay",
-        "url": "https://open.spotify.com/album/2skTHY010QHQpI328uliT0"
-      },
-      "artists": [
-        {
-          "name": "Rokazer",
-          "url": "https://open.spotify.com/artist/0kBZmuhkAKIdZE5YVkdhqV"
-        }
-      ],
-      "duration_ms": 288000,
-      "name": "Antares",
-      "url": "https://open.spotify.com/track/1Wtzml7KMFbC3Iq5v1AeUK"
-    },
-    {
       "added_at": "2022-09-02 04:01:00",
       "album": {
         "name": "Regina Blue EP",
@@ -1587,6 +1571,22 @@
       "duration_ms": 525619,
       "name": "Regina Blue",
       "url": "https://open.spotify.com/track/4TR6mBYhwSML6pxV0gF4Ts"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
+        "name": "Antares / Stay",
+        "url": "https://open.spotify.com/album/2skTHY010QHQpI328uliT0"
+      },
+      "artists": [
+        {
+          "name": "Rokazer",
+          "url": "https://open.spotify.com/artist/0kBZmuhkAKIdZE5YVkdhqV"
+        }
+      ],
+      "duration_ms": 288000,
+      "name": "Antares",
+      "url": "https://open.spotify.com/track/1Wtzml7KMFbC3Iq5v1AeUK"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
-        "name": "Giza",
-        "url": "https://open.spotify.com/album/5X04fNVdcHNUNgqFFK1iPw"
-      },
-      "artists": [
-        {
-          "name": "S\u00e9bastien L\u00e9ger",
-          "url": "https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp"
-        }
-      ],
-      "duration_ms": 432786,
-      "name": "Giza",
-      "url": "https://open.spotify.com/track/13E7IeNnA8kgQ1Jcz1Cehf"
-    },
-    {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
         "name": "Minero",
         "url": "https://open.spotify.com/album/7ijwFFxaAbIFuhQE41eznr"
       },
@@ -1707,18 +1691,38 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
-        "name": "Marco Tegui / Raw Main",
-        "url": "https://open.spotify.com/album/5dV8KbeFNzZcncF57GBEPA"
+        "name": "Giza",
+        "url": "https://open.spotify.com/album/5X04fNVdcHNUNgqFFK1iPw"
       },
       "artists": [
         {
-          "name": "Marco Tegui",
-          "url": "https://open.spotify.com/artist/4gqouQdirzlMyGgnjMrrIU"
+          "name": "S\u00e9bastien L\u00e9ger",
+          "url": "https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp"
         }
       ],
-      "duration_ms": 399465,
-      "name": "Yira Yirar",
-      "url": "https://open.spotify.com/track/6cUqwmaSHB6bzwAd3TNF2a"
+      "duration_ms": 432786,
+      "name": "Giza",
+      "url": "https://open.spotify.com/track/13E7IeNnA8kgQ1Jcz1Cehf"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
+        "name": "Alabora",
+        "url": "https://open.spotify.com/album/5aFbgu112bBrasrwQWVk2O"
+      },
+      "artists": [
+        {
+          "name": "Beyhude",
+          "url": "https://open.spotify.com/artist/65orViGnlMcbptdIGceZzo"
+        },
+        {
+          "name": "Foxall",
+          "url": "https://open.spotify.com/artist/3iT6d90Vy630068736OgW8"
+        }
+      ],
+      "duration_ms": 470335,
+      "name": "Alabora - Foxall Pale Blue Remix",
+      "url": "https://open.spotify.com/track/32hpq6FjVS2QrE5Z0q8Ffa"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -1747,22 +1751,18 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
-        "name": "Alabora",
-        "url": "https://open.spotify.com/album/5aFbgu112bBrasrwQWVk2O"
+        "name": "Marco Tegui / Raw Main",
+        "url": "https://open.spotify.com/album/5dV8KbeFNzZcncF57GBEPA"
       },
       "artists": [
         {
-          "name": "Beyhude",
-          "url": "https://open.spotify.com/artist/65orViGnlMcbptdIGceZzo"
-        },
-        {
-          "name": "Foxall",
-          "url": "https://open.spotify.com/artist/3iT6d90Vy630068736OgW8"
+          "name": "Marco Tegui",
+          "url": "https://open.spotify.com/artist/4gqouQdirzlMyGgnjMrrIU"
         }
       ],
-      "duration_ms": 470335,
-      "name": "Alabora - Foxall Pale Blue Remix",
-      "url": "https://open.spotify.com/track/32hpq6FjVS2QrE5Z0q8Ffa"
+      "duration_ms": 399465,
+      "name": "Yira Yirar",
+      "url": "https://open.spotify.com/track/6cUqwmaSHB6bzwAd3TNF2a"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -1817,22 +1817,6 @@
       "url": "https://open.spotify.com/track/3KTkkZvSPmh3leXluyABBs"
     },
     {
-      "added_at": "2022-07-28 17:34:57",
-      "album": {
-        "name": "Caramel",
-        "url": "https://open.spotify.com/album/2t96IikgoOKzS0FF74gtJC"
-      },
-      "artists": [
-        {
-          "name": "Einmusik",
-          "url": "https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1"
-        }
-      ],
-      "duration_ms": 448057,
-      "name": "Caramel",
-      "url": "https://open.spotify.com/track/6SWaPVw1U27HKNQ1311hSL"
-    },
-    {
       "added_at": "2022-07-01 04:01:00",
       "album": {
         "name": "Disko Axiom",
@@ -1867,6 +1851,22 @@
       "duration_ms": 212459,
       "name": "Waves of the Soul",
       "url": "https://open.spotify.com/track/3pIFT7NY5IjtUoLlD1kWOt"
+    },
+    {
+      "added_at": "2022-07-28 17:34:57",
+      "album": {
+        "name": "Caramel",
+        "url": "https://open.spotify.com/album/2t96IikgoOKzS0FF74gtJC"
+      },
+      "artists": [
+        {
+          "name": "Einmusik",
+          "url": "https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1"
+        }
+      ],
+      "duration_ms": 448057,
+      "name": "Caramel",
+      "url": "https://open.spotify.com/track/6SWaPVw1U27HKNQ1311hSL"
     }
   ],
   "unique_name": "Tantra",

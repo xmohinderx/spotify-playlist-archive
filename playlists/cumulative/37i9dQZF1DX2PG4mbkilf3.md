@@ -4,7 +4,7 @@
 
 > This is R&B in Canada, elevate your aura\. Cover: Jessie Reyez
 
-375 songs - 19 hr 30 min - [published](https://open.spotify.com/playlist/5Scr3kl4jdyMwylCsvsI3D)
+376 songs - 19 hr 34 min - [published](https://open.spotify.com/playlist/5Scr3kl4jdyMwylCsvsI3D)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,8 @@
 | [Actin'](https://open.spotify.com/track/4MH4vhC8PnVJ1OZ7XU1N4n) | [Skip Waiters](https://open.spotify.com/artist/4VarNqx7kH5tBCBQwtixav) | [Actin'](https://open.spotify.com/album/2hWtcQwTmjF57dTH8PpTdp) | 3:15 | 2022-02-18 | 2022-06-25 |
 | [Africvillean Funk](https://open.spotify.com/track/1rbN7wvQtAYoGV5DZliziB) | [Aquakultre](https://open.spotify.com/artist/38Lr1bGvJiIU0UKntaJJus), [Trobiz](https://open.spotify.com/artist/1SOChUFxbvRq02w2HC1XvX) | [Africvillean Funk](https://open.spotify.com/album/4dA1mxVyeTqlbOurVp76TN) | 3:12 | 2022-07-01 | 2022-07-23 |
 | [Airplane Mode](https://open.spotify.com/track/1u5IMenRvdZOsqSfEN2stL) | [Astrokidjay](https://open.spotify.com/artist/4EqrcmIvzNaisM7z775lyE) | [Airplane Mode](https://open.spotify.com/album/5n2BO8pOPn8K4mLPFz7c2y) | 2:24 | 2022-02-18 | 2022-03-18 |
-| [All Along \(Kaytranada Remix\)](https://open.spotify.com/track/35WIVWDcONu3B64ZcYbPX6) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [All Along \(Kaytranada Remix\)](https://open.spotify.com/album/3UtKaTe3ZGpNo0cVdffTCi) | 4:44 | 2022-09-16 |  |
+| [All Along \(Kaytranada Remix\)](https://open.spotify.com/track/35WIVWDcONu3B64ZcYbPX6) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [All Along \(Kaytranada Remix\)](https://open.spotify.com/album/3UtKaTe3ZGpNo0cVdffTCi) | 4:44 | 2022-09-16 | 2022-09-21 |
+| [All Along \(Kaytranada Remix\)](https://open.spotify.com/track/3fTwZdX5X3BIsdEJvai7Be) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Play With The Changes \(Remixed\)](https://open.spotify.com/album/3fMIqhERSssKur9QOqa5X1) | 4:44 | 2022-09-16 |  |
 | [All Day](https://open.spotify.com/track/5htQl1fFBVyMCcaYlkq5sV) | [Nicole Chambers](https://open.spotify.com/artist/5kvxSGkZcVesEX2mqw0AtC) | [All Day](https://open.spotify.com/album/5BfxdwzF7282Kn8G3VNF1Z) | 2:57 | 2022-06-17 |  |
 | [All I Need](https://open.spotify.com/track/0ZsWurOpUo8u4fjMygvSAG) | [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz) | [Get Home SAFE \(Part 1\)](https://open.spotify.com/album/1DFMDukfXi9x0okLHjDNd9) | 3:04 | 2022-02-25 | 2022-03-12 |
 | [All I Want](https://open.spotify.com/track/1SxwdCDLAXhB9XdbdOhu6M) | [Joéllen](https://open.spotify.com/artist/2y7cvgbbpRXy36T223ujdf) | [All I Want](https://open.spotify.com/album/1mDXmf7ds2Ch4J5qDns5xd) | 2:57 | 2022-07-22 |  |

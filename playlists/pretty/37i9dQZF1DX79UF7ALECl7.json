@@ -1,12 +1,12 @@
 {
   "description": "Have some chill house with your coffee.",
-  "num_followers": 114694,
+  "num_followers": 114715,
   "original_name": "Coffee Club",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzI3OTIwMCwwMDAwMDAwMGQzYjIxZmNjZjFiZDAwNDlhNzA5Y2M4OTU1ZWUxNzlh",
+  "snapshot_id": "MTY2MzI3OTIwMCwwMDAwMDAwMGFhNDgyMzExNDZlYTdhZDBiYTAyYTI2MTZhZGQ5Mjhh",
   "tracks": [
     {
       "added_at": "2022-09-15 22:00:00",
@@ -135,22 +135,6 @@
     {
       "added_at": "2022-09-15 22:00:00",
       "album": {
-        "name": "Luminous",
-        "url": "https://open.spotify.com/album/2nTexLdtmJEpfFSftYb7C0"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9 Aguado",
-          "url": "https://open.spotify.com/artist/6USxBSmx4wkhLW61dT1DgC"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Through The Night",
-      "url": "https://open.spotify.com/track/6cC17xWrGqAFqJ3DNBOrqp"
-    },
-    {
-      "added_at": "2022-09-15 22:00:00",
-      "album": {
         "name": "Alive",
         "url": "https://open.spotify.com/album/003P9cOisHb5VLP12SHkXH"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 280888,
       "name": "Alive",
       "url": "https://open.spotify.com/track/7gTNtKHUoCCkb5kygNE1vn"
+    },
+    {
+      "added_at": "2022-09-15 22:00:00",
+      "album": {
+        "name": "Luminous",
+        "url": "https://open.spotify.com/album/2nTexLdtmJEpfFSftYb7C0"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Aguado",
+          "url": "https://open.spotify.com/artist/6USxBSmx4wkhLW61dT1DgC"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Through The Night",
+      "url": "https://open.spotify.com/track/6cC17xWrGqAFqJ3DNBOrqp"
     },
     {
       "added_at": "2022-09-15 22:00:00",
@@ -239,6 +239,22 @@
     {
       "added_at": "2022-09-15 22:00:00",
       "album": {
+        "name": "Edits 001",
+        "url": "https://open.spotify.com/album/7KVQivbhzpMiRbQj4mNw4g"
+      },
+      "artists": [
+        {
+          "name": "Alex Lustig",
+          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
+        }
+      ],
+      "duration_ms": 131764,
+      "name": "Midnight - Ambient Edit",
+      "url": "https://open.spotify.com/track/6zWkS1HDW9k91fSvYsBheY"
+    },
+    {
+      "added_at": "2022-09-15 22:00:00",
+      "album": {
         "name": "MOSS",
         "url": "https://open.spotify.com/album/1zpy9y8QLdMYZnHUaMbcPs"
       },
@@ -255,6 +271,22 @@
     {
       "added_at": "2022-09-15 22:00:00",
       "album": {
+        "name": "Pull Up",
+        "url": "https://open.spotify.com/album/5WiPDSMPC7kSi0UxssC9qQ"
+      },
+      "artists": [
+        {
+          "name": "Thom Merlin",
+          "url": "https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC"
+        }
+      ],
+      "duration_ms": 205645,
+      "name": "Pull Up",
+      "url": "https://open.spotify.com/track/0uRM8HOFdHPHqCoLd8vgE1"
+    },
+    {
+      "added_at": "2022-09-15 22:00:00",
+      "album": {
         "name": "Travellers",
         "url": "https://open.spotify.com/album/52gMQAcOxIRVUKsVRBxyHe"
       },
@@ -267,22 +299,6 @@
       "duration_ms": 215743,
       "name": "Suburban Sunrise",
       "url": "https://open.spotify.com/track/3kIyVa8Rnp80iREwvmdTip"
-    },
-    {
-      "added_at": "2022-09-15 22:00:00",
-      "album": {
-        "name": "Edits 001",
-        "url": "https://open.spotify.com/album/7KVQivbhzpMiRbQj4mNw4g"
-      },
-      "artists": [
-        {
-          "name": "Alex Lustig",
-          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
-        }
-      ],
-      "duration_ms": 131764,
-      "name": "Midnight - Ambient Edit",
-      "url": "https://open.spotify.com/track/6zWkS1HDW9k91fSvYsBheY"
     },
     {
       "added_at": "2022-09-15 22:00:00",
@@ -335,22 +351,6 @@
       "duration_ms": 176000,
       "name": "I Don't Know Why",
       "url": "https://open.spotify.com/track/0WE4sAFEeNxm1y3E6iTwVL"
-    },
-    {
-      "added_at": "2022-09-15 22:00:00",
-      "album": {
-        "name": "Pull Up",
-        "url": "https://open.spotify.com/album/5WiPDSMPC7kSi0UxssC9qQ"
-      },
-      "artists": [
-        {
-          "name": "Thom Merlin",
-          "url": "https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC"
-        }
-      ],
-      "duration_ms": 205645,
-      "name": "Pull Up",
-      "url": "https://open.spotify.com/track/0uRM8HOFdHPHqCoLd8vgE1"
     },
     {
       "added_at": "2022-09-15 22:00:00",
@@ -427,22 +427,6 @@
     {
       "added_at": "2022-09-15 22:00:00",
       "album": {
-        "name": "Endurance / Heart",
-        "url": "https://open.spotify.com/album/62QvEUJymDy8luwuJQFALW"
-      },
-      "artists": [
-        {
-          "name": "Road Kahan",
-          "url": "https://open.spotify.com/artist/3YR1VNcG6ld2CHMSkia9Xs"
-        }
-      ],
-      "duration_ms": 200126,
-      "name": "Endurance",
-      "url": "https://open.spotify.com/track/2PEQZNjNKN4GEsUbo3yD8d"
-    },
-    {
-      "added_at": "2022-09-15 22:00:00",
-      "album": {
         "name": "Don't Say Goodbye",
         "url": "https://open.spotify.com/album/4QrlY7zLqIns9wayxlvit3"
       },
@@ -459,8 +443,24 @@
     {
       "added_at": "2022-09-15 22:00:00",
       "album": {
-        "name": "Hundred Fifty Up",
-        "url": "https://open.spotify.com/album/6LvmyVnczzlxxdC7c9xEvO"
+        "name": "Endurance / Heart",
+        "url": "https://open.spotify.com/album/62QvEUJymDy8luwuJQFALW"
+      },
+      "artists": [
+        {
+          "name": "Road Kahan",
+          "url": "https://open.spotify.com/artist/3YR1VNcG6ld2CHMSkia9Xs"
+        }
+      ],
+      "duration_ms": 200126,
+      "name": "Endurance",
+      "url": "https://open.spotify.com/track/2PEQZNjNKN4GEsUbo3yD8d"
+    },
+    {
+      "added_at": "2022-09-15 22:00:00",
+      "album": {
+        "name": "Reunion",
+        "url": "https://open.spotify.com/album/2M9pkurc1jUmSXH95OGixK"
       },
       "artists": [
         {
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
         }
       ],
-      "duration_ms": 264192,
-      "name": "Hundred Fifty Up",
-      "url": "https://open.spotify.com/track/3ru2qqEuNU3mCFcr1bgb7C"
+      "duration_ms": 247724,
+      "name": "Coffee and Feels",
+      "url": "https://open.spotify.com/track/2Z2qsGVCBCAPGvXqe3JxeG"
     },
     {
       "added_at": "2022-09-15 22:00:00",
@@ -547,18 +547,18 @@
     {
       "added_at": "2022-09-15 22:00:00",
       "album": {
-        "name": "Finds You Well",
-        "url": "https://open.spotify.com/album/2w487BAUXgly5he0U5TU2p"
+        "name": "Chill Executive Officer (CEO), Vol. 20 [Selected by Maykel Piron]",
+        "url": "https://open.spotify.com/album/5WOoYzx48dwyrW0KQquytu"
       },
       "artists": [
         {
-          "name": "Khotin",
-          "url": "https://open.spotify.com/artist/0q2WkTHTEczNf8wNq6MBRk"
+          "name": "ARTO",
+          "url": "https://open.spotify.com/artist/3T70Dxzh4RhkD3jPvkRLxn"
         }
       ],
-      "duration_ms": 230400,
-      "name": "Groove 32",
-      "url": "https://open.spotify.com/track/6658u0EPu6u0x9r5A4qT4h"
+      "duration_ms": 158181,
+      "name": "Para Mi",
+      "url": "https://open.spotify.com/track/2RBzADQT2i31c0Au59HnP8"
     },
     {
       "added_at": "2022-09-15 22:00:00",
@@ -587,6 +587,54 @@
     {
       "added_at": "2022-09-15 22:00:00",
       "album": {
+        "name": "Finds You Well",
+        "url": "https://open.spotify.com/album/2w487BAUXgly5he0U5TU2p"
+      },
+      "artists": [
+        {
+          "name": "Khotin",
+          "url": "https://open.spotify.com/artist/0q2WkTHTEczNf8wNq6MBRk"
+        }
+      ],
+      "duration_ms": 230400,
+      "name": "Groove 32",
+      "url": "https://open.spotify.com/track/6658u0EPu6u0x9r5A4qT4h"
+    },
+    {
+      "added_at": "2022-09-15 22:00:00",
+      "album": {
+        "name": "Hundred Fifty Up",
+        "url": "https://open.spotify.com/album/6LvmyVnczzlxxdC7c9xEvO"
+      },
+      "artists": [
+        {
+          "name": "Satin Jackets",
+          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
+        }
+      ],
+      "duration_ms": 264192,
+      "name": "Hundred Fifty Up",
+      "url": "https://open.spotify.com/track/3ru2qqEuNU3mCFcr1bgb7C"
+    },
+    {
+      "added_at": "2022-09-15 22:00:00",
+      "album": {
+        "name": "Deneb Cygni",
+        "url": "https://open.spotify.com/album/4E8xASCYvVo4vBkuESnpOP"
+      },
+      "artists": [
+        {
+          "name": "Takuya Yamashita",
+          "url": "https://open.spotify.com/artist/4zpl6dfVHVNbqAIk6huc2v"
+        }
+      ],
+      "duration_ms": 453559,
+      "name": "Deneb Cygni - Original Mix",
+      "url": "https://open.spotify.com/track/7w3TeiGbzbfvPE192wpKdX"
+    },
+    {
+      "added_at": "2022-09-15 22:00:00",
+      "album": {
         "name": "Somewhere In Nirvana",
         "url": "https://open.spotify.com/album/4V3ClACArpBjii3B7f5xwr"
       },
@@ -611,50 +659,18 @@
     {
       "added_at": "2022-09-15 22:00:00",
       "album": {
-        "name": "Reunion",
-        "url": "https://open.spotify.com/album/2M9pkurc1jUmSXH95OGixK"
+        "name": "Gaia",
+        "url": "https://open.spotify.com/album/5JRX3f42FwJdGRawM04Vsp"
       },
       "artists": [
         {
-          "name": "Satin Jackets",
-          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
+          "name": "Yamil",
+          "url": "https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS"
         }
       ],
-      "duration_ms": 247724,
-      "name": "Coffee and Feels",
-      "url": "https://open.spotify.com/track/2Z2qsGVCBCAPGvXqe3JxeG"
-    },
-    {
-      "added_at": "2022-09-15 22:00:00",
-      "album": {
-        "name": "Deneb Cygni",
-        "url": "https://open.spotify.com/album/4E8xASCYvVo4vBkuESnpOP"
-      },
-      "artists": [
-        {
-          "name": "Takuya Yamashita",
-          "url": "https://open.spotify.com/artist/4zpl6dfVHVNbqAIk6huc2v"
-        }
-      ],
-      "duration_ms": 453559,
-      "name": "Deneb Cygni - Original Mix",
-      "url": "https://open.spotify.com/track/7w3TeiGbzbfvPE192wpKdX"
-    },
-    {
-      "added_at": "2022-09-15 22:00:00",
-      "album": {
-        "name": "Chill Executive Officer (CEO), Vol. 20 [Selected by Maykel Piron]",
-        "url": "https://open.spotify.com/album/5WOoYzx48dwyrW0KQquytu"
-      },
-      "artists": [
-        {
-          "name": "ARTO",
-          "url": "https://open.spotify.com/artist/3T70Dxzh4RhkD3jPvkRLxn"
-        }
-      ],
-      "duration_ms": 158181,
-      "name": "Para Mi",
-      "url": "https://open.spotify.com/track/2RBzADQT2i31c0Au59HnP8"
+      "duration_ms": 245202,
+      "name": "Gaia - Radio Edit",
+      "url": "https://open.spotify.com/track/4ZbY3tViWurTa5JmaitOxX"
     },
     {
       "added_at": "2022-09-15 22:00:00",
@@ -691,22 +707,6 @@
       "duration_ms": 392347,
       "name": "Harmonic Dreams",
       "url": "https://open.spotify.com/track/13yelaqEIzn1hOz2ZRx2xz"
-    },
-    {
-      "added_at": "2022-09-15 22:00:00",
-      "album": {
-        "name": "Gaia",
-        "url": "https://open.spotify.com/album/5JRX3f42FwJdGRawM04Vsp"
-      },
-      "artists": [
-        {
-          "name": "Yamil",
-          "url": "https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS"
-        }
-      ],
-      "duration_ms": 245202,
-      "name": "Gaia - Radio Edit",
-      "url": "https://open.spotify.com/track/4ZbY3tViWurTa5JmaitOxX"
     },
     {
       "added_at": "2022-09-15 22:00:00",
@@ -835,26 +835,6 @@
     {
       "added_at": "2022-09-15 22:00:00",
       "album": {
-        "name": "Half Light",
-        "url": "https://open.spotify.com/album/7yLmNk8ErmeAlgd6zYw0vn"
-      },
-      "artists": [
-        {
-          "name": "Henry Green",
-          "url": "https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp"
-        },
-        {
-          "name": "Andreya Triana",
-          "url": "https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2"
-        }
-      ],
-      "duration_ms": 186340,
-      "name": "Tide (feat. Andreya Triana)",
-      "url": "https://open.spotify.com/track/4mjno1cpVrlldeElighIIw"
-    },
-    {
-      "added_at": "2022-09-15 22:00:00",
-      "album": {
         "name": "Forms / Objects",
         "url": "https://open.spotify.com/album/25f72Bhjb3GOERoGTNAnMu"
       },
@@ -871,6 +851,26 @@
       "duration_ms": 386508,
       "name": "Objects",
       "url": "https://open.spotify.com/track/4FxDO7idxRd2P8sri4gNif"
+    },
+    {
+      "added_at": "2022-09-15 22:00:00",
+      "album": {
+        "name": "Half Light",
+        "url": "https://open.spotify.com/album/7yLmNk8ErmeAlgd6zYw0vn"
+      },
+      "artists": [
+        {
+          "name": "Henry Green",
+          "url": "https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp"
+        },
+        {
+          "name": "Andreya Triana",
+          "url": "https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2"
+        }
+      ],
+      "duration_ms": 186340,
+      "name": "Tide (feat. Andreya Triana)",
+      "url": "https://open.spotify.com/track/4mjno1cpVrlldeElighIIw"
     },
     {
       "added_at": "2022-09-15 22:00:00",
@@ -1039,26 +1039,6 @@
     {
       "added_at": "2022-09-15 22:00:00",
       "album": {
-        "name": "You're Beautiful",
-        "url": "https://open.spotify.com/album/7nEBgm3FMtdY1XNRijKkS3"
-      },
-      "artists": [
-        {
-          "name": "Krono",
-          "url": "https://open.spotify.com/artist/17TFSnqADESRM8BPSaM5aB"
-        },
-        {
-          "name": "Paul Kostick",
-          "url": "https://open.spotify.com/artist/36CfCKvycNlh3Bp67K1Uip"
-        }
-      ],
-      "duration_ms": 163902,
-      "name": "You're Beautiful",
-      "url": "https://open.spotify.com/track/5dB4ktNiRIGBBnPIZ2y0Py"
-    },
-    {
-      "added_at": "2022-09-15 22:00:00",
-      "album": {
         "name": "Riptide",
         "url": "https://open.spotify.com/album/3E7TWzpSvp0tGEUd6UNbJR"
       },
@@ -1075,6 +1055,26 @@
       "duration_ms": 163563,
       "name": "Riptide - Edit",
       "url": "https://open.spotify.com/track/542iecX5VYzhAbqJgbHFQ1"
+    },
+    {
+      "added_at": "2022-09-15 22:00:00",
+      "album": {
+        "name": "You're Beautiful",
+        "url": "https://open.spotify.com/album/7nEBgm3FMtdY1XNRijKkS3"
+      },
+      "artists": [
+        {
+          "name": "Krono",
+          "url": "https://open.spotify.com/artist/17TFSnqADESRM8BPSaM5aB"
+        },
+        {
+          "name": "Paul Kostick",
+          "url": "https://open.spotify.com/artist/36CfCKvycNlh3Bp67K1Uip"
+        }
+      ],
+      "duration_ms": 163902,
+      "name": "You're Beautiful",
+      "url": "https://open.spotify.com/track/5dB4ktNiRIGBBnPIZ2y0Py"
     },
     {
       "added_at": "2022-09-15 22:00:00",
@@ -1171,6 +1171,26 @@
     {
       "added_at": "2022-09-15 22:00:00",
       "album": {
+        "name": "Echo Of Youth Remodel",
+        "url": "https://open.spotify.com/album/736ZHBrEbC3XvvacaoA1t6"
+      },
+      "artists": [
+        {
+          "name": "Menke",
+          "url": "https://open.spotify.com/artist/56fiEsX7uP1maw2NajHZXJ"
+        },
+        {
+          "name": "Satin Jackets",
+          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
+        }
+      ],
+      "duration_ms": 298440,
+      "name": "Youth - Satin Jackets Remix",
+      "url": "https://open.spotify.com/track/3Vm1sSi0FyIpQ7fYHHMW8Q"
+    },
+    {
+      "added_at": "2022-09-15 22:00:00",
+      "album": {
         "name": "House Shit",
         "url": "https://open.spotify.com/album/4G3XZqQsuKeQmfYuT5OsgD"
       },
@@ -1207,22 +1227,18 @@
     {
       "added_at": "2022-09-15 22:00:00",
       "album": {
-        "name": "Echo Of Youth Remodel",
-        "url": "https://open.spotify.com/album/736ZHBrEbC3XvvacaoA1t6"
+        "name": "Tempranillo",
+        "url": "https://open.spotify.com/album/2wJKMd7MSk2KB3JmlYfc4J"
       },
       "artists": [
         {
-          "name": "Menke",
-          "url": "https://open.spotify.com/artist/56fiEsX7uP1maw2NajHZXJ"
-        },
-        {
-          "name": "Satin Jackets",
-          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
+          "name": "Corren Cavini",
+          "url": "https://open.spotify.com/artist/2UgCkNOjEjL0uKDwewjet8"
         }
       ],
-      "duration_ms": 298440,
-      "name": "Youth - Satin Jackets Remix",
-      "url": "https://open.spotify.com/track/3Vm1sSi0FyIpQ7fYHHMW8Q"
+      "duration_ms": 377060,
+      "name": "Tempranillo",
+      "url": "https://open.spotify.com/track/48KcLnGPfXDikD5Snv7q16"
     },
     {
       "added_at": "2022-09-15 22:00:00",
@@ -1251,18 +1267,18 @@
     {
       "added_at": "2022-09-15 22:00:00",
       "album": {
-        "name": "Tempranillo",
-        "url": "https://open.spotify.com/album/2wJKMd7MSk2KB3JmlYfc4J"
+        "name": "Torn Apart",
+        "url": "https://open.spotify.com/album/1pz8dFp7qIKS1yQKaFgGrG"
       },
       "artists": [
         {
-          "name": "Corren Cavini",
-          "url": "https://open.spotify.com/artist/2UgCkNOjEjL0uKDwewjet8"
+          "name": "Fynn",
+          "url": "https://open.spotify.com/artist/4xuvLbpdu8lDCLSnpZY45m"
         }
       ],
-      "duration_ms": 377060,
-      "name": "Tempranillo",
-      "url": "https://open.spotify.com/track/48KcLnGPfXDikD5Snv7q16"
+      "duration_ms": 207000,
+      "name": "Torn Apart",
+      "url": "https://open.spotify.com/track/7m9euwqyxRdTgPACE0E8T1"
     },
     {
       "added_at": "2022-09-15 22:00:00",
@@ -1295,22 +1311,6 @@
       "duration_ms": 268474,
       "name": "Parrot Fever",
       "url": "https://open.spotify.com/track/1oFLxZDxOVThs5gjWIFlrN"
-    },
-    {
-      "added_at": "2022-09-15 22:00:00",
-      "album": {
-        "name": "Torn Apart",
-        "url": "https://open.spotify.com/album/1pz8dFp7qIKS1yQKaFgGrG"
-      },
-      "artists": [
-        {
-          "name": "Fynn",
-          "url": "https://open.spotify.com/artist/4xuvLbpdu8lDCLSnpZY45m"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "Torn Apart",
-      "url": "https://open.spotify.com/track/7m9euwqyxRdTgPACE0E8T1"
     },
     {
       "added_at": "2022-09-15 22:00:00",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2022-09-15 22:00:00",
       "album": {
+        "name": "Late Night Obsession",
+        "url": "https://open.spotify.com/album/30Wa2MaR7XuSsd4g79tNE4"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Davidson",
+          "url": "https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp"
+        }
+      ],
+      "duration_ms": 166798,
+      "name": "Slow Goods",
+      "url": "https://open.spotify.com/track/66D24YMI6FMRRGHO8QoBhO"
+    },
+    {
+      "added_at": "2022-09-15 22:00:00",
+      "album": {
         "name": "9",
         "url": "https://open.spotify.com/album/1QAF4JyZ1mqNnuyS0IW9r7"
       },
@@ -1367,18 +1383,18 @@
     {
       "added_at": "2022-09-15 22:00:00",
       "album": {
-        "name": "Late Night Obsession",
-        "url": "https://open.spotify.com/album/30Wa2MaR7XuSsd4g79tNE4"
+        "name": "Arturia",
+        "url": "https://open.spotify.com/album/1x6NXAtpBEYXOLLsB78cI2"
       },
       "artists": [
         {
-          "name": "Sebastian Davidson",
-          "url": "https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp"
+          "name": "Gavinco",
+          "url": "https://open.spotify.com/artist/7dUeQwfHuOEQGH5PbksGf6"
         }
       ],
-      "duration_ms": 166798,
-      "name": "Slow Goods",
-      "url": "https://open.spotify.com/track/66D24YMI6FMRRGHO8QoBhO"
+      "duration_ms": 331960,
+      "name": "Company",
+      "url": "https://open.spotify.com/track/5rUwnnAkh9XcZsLt5hdgoF"
     },
     {
       "added_at": "2022-09-15 22:00:00",
@@ -1399,22 +1415,6 @@
       "duration_ms": 224400,
       "name": "Looking Up",
       "url": "https://open.spotify.com/track/46qdT0wtTVMsPvpQnqdzPN"
-    },
-    {
-      "added_at": "2022-09-15 22:00:00",
-      "album": {
-        "name": "Arturia",
-        "url": "https://open.spotify.com/album/1x6NXAtpBEYXOLLsB78cI2"
-      },
-      "artists": [
-        {
-          "name": "Gavinco",
-          "url": "https://open.spotify.com/artist/7dUeQwfHuOEQGH5PbksGf6"
-        }
-      ],
-      "duration_ms": 331960,
-      "name": "Company",
-      "url": "https://open.spotify.com/track/5rUwnnAkh9XcZsLt5hdgoF"
     },
     {
       "added_at": "2022-09-15 22:00:00",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2022-09-15 22:00:00",
       "album": {
-        "name": "Wax Casting",
-        "url": "https://open.spotify.com/album/1S6wyTKwsHD4heZDkpm9hx"
-      },
-      "artists": [
-        {
-          "name": "Mr. Woodcole",
-          "url": "https://open.spotify.com/artist/38AUTCj4EteaGRYKghL9qg"
-        }
-      ],
-      "duration_ms": 195971,
-      "name": "Blue Orchid",
-      "url": "https://open.spotify.com/track/5S5BANAZW6Z3w7QNieTDLm"
-    },
-    {
-      "added_at": "2022-09-15 22:00:00",
-      "album": {
         "name": "No More / You Like Me",
         "url": "https://open.spotify.com/album/2J3FizlVKqLcGKYCYP3KNc"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 158563,
       "name": "No More",
       "url": "https://open.spotify.com/track/1XHCxvbJuVLd6n8Tj9oiCy"
+    },
+    {
+      "added_at": "2022-09-15 22:00:00",
+      "album": {
+        "name": "Wax Casting",
+        "url": "https://open.spotify.com/album/1S6wyTKwsHD4heZDkpm9hx"
+      },
+      "artists": [
+        {
+          "name": "Mr. Woodcole",
+          "url": "https://open.spotify.com/artist/38AUTCj4EteaGRYKghL9qg"
+        }
+      ],
+      "duration_ms": 195971,
+      "name": "Blue Orchid",
+      "url": "https://open.spotify.com/track/5S5BANAZW6Z3w7QNieTDLm"
     },
     {
       "added_at": "2022-09-15 22:00:00",

@@ -4,7 +4,7 @@
 
 > Celebrating Latin Heritage Month con un poquito De TODO! Cover: Omar Apollo
 
-70 songs - 3 hr 36 min - [published](https://open.spotify.com/playlist/6DZwNA9MjbDEuxRfTl6EGo)
+71 songs - 3 hr 39 min - [published](https://open.spotify.com/playlist/6DZwNA9MjbDEuxRfTl6EGo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Buenas Vibras](https://open.spotify.com/track/59RDOIHszAvUmJdnnV1x13) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Don Esteban](https://open.spotify.com/album/4TdFGG8K4OW4O0e8G6udtr) | 3:03 | 2022-09-14 |  |
 | [Cantares](https://open.spotify.com/track/7tn64XRTYFqr2K7ujNLgTl) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Cantares](https://open.spotify.com/album/1UBBUboWIBuEYeYQy7QFCO) | 2:55 | 2022-09-14 |  |
 | [Cariño](https://open.spotify.com/track/55DyBUkjebkcYhDGfEXitR) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Cariño](https://open.spotify.com/album/2VFNH1CUpSOnRKBBjjEDe6) | 4:18 | 2022-09-14 |  |
+| [Cohen's Cumbia](https://open.spotify.com/track/0grJOktXuvYmpU2FAW8uMG) | [Tropa Magica](https://open.spotify.com/artist/3uCmGQUSAkY2BvcrhMLLzE) | [III](https://open.spotify.com/album/5tZXoFSg0vzFbJk0q8TtkI) | 2:33 | 2022-09-20 |  |
 | [Colores](https://open.spotify.com/track/3cjX2kNtmCn9uP4vvxvNdK) | [Oliver Kid](https://open.spotify.com/artist/2GAntPIbrC47uOoCNVnDPG), [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [Colores](https://open.spotify.com/album/2Una6joFhZ97eo86LGN8k4) | 3:35 | 2022-09-14 |  |
 | [Commitment](https://open.spotify.com/track/64qmLY9DLw4hoUzIWh7bmS) | [Luna Luna](https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr) | [Carousel](https://open.spotify.com/album/0JpUzX4S0FePzeU8Iw871V) | 4:07 | 2022-09-14 |  |
 | [Como Te Quiero Yo A Ti \- Regional Mexican Version](https://open.spotify.com/track/4PUcIVtKlu3QXDraTWoleG) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [MOONCHILD MIXES](https://open.spotify.com/album/71Om9aLEMuwpmB0POX3amC) | 3:09 | 2022-09-14 |  |

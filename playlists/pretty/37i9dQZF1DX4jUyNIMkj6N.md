@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 
 > The very best in Scandifolk \- from Icelandic blues rock to Norwegicana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,276 likes - 60 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,288 likes - 60 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 | 22 | [Tell Me About It](https://open.spotify.com/track/4NVTUHYCmMGtnnULELfZjy) | [thea wang](https://open.spotify.com/artist/1Rlj58KRo8BwuksKHsoZCo) | [Tell Me About It](https://open.spotify.com/album/10yraezHmuWHzLrJK5qEls) | 3:20 |
 | 23 | [Gold Laces](https://open.spotify.com/track/6V9hQ6dVr42xlNVoH8r8om) | [Júníus Meyvant](https://open.spotify.com/artist/5IL5awl9gUcb2ez9IgmW26) | [Floating Harmonies](https://open.spotify.com/album/47zAxwGvi23uYEItSkTRgY) | 3:40 |
 | 24 | [Waiting](https://open.spotify.com/track/4uVC8WydYHDmemPeYov9rZ) | [Alice Boman](https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt) | [EPII \(+ Skisser EP\)](https://open.spotify.com/album/4WQf5Do7ASTXKeaRjnzgm9) | 3:04 |
-| 25 | [The Sky is Painted Gray Today](https://open.spotify.com/track/0WOz7oU6zfuUvDzWHmIdMK) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [The Sky is Painted Gray Today](https://open.spotify.com/album/4iEFEhFxzgr7VKpuo4rjUT) | 3:41 |
-| 26 | [Oak Tree](https://open.spotify.com/track/0H9gWRPB92lrwtjtQtdrwD) | [Mirel Wagner](https://open.spotify.com/artist/599W9qxs3LzkiiEmkoK6Kx) | [When the Cellar Children See the Light of Day](https://open.spotify.com/album/4RP8ZcEWH1tPoEdkaPf8KK) | 3:00 |
-| 27 | [A Dangerous Thing](https://open.spotify.com/track/0PDlmmYkuQCUAFhMXvtlsU) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [The Gods We Can Touch](https://open.spotify.com/album/5z1xjvymitc0DJETtvVmaX) | 3:35 |
+| 25 | [A Dangerous Thing](https://open.spotify.com/track/0PDlmmYkuQCUAFhMXvtlsU) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [The Gods We Can Touch](https://open.spotify.com/album/5z1xjvymitc0DJETtvVmaX) | 3:35 |
+| 26 | [The Sky is Painted Gray Today](https://open.spotify.com/track/0WOz7oU6zfuUvDzWHmIdMK) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [The Sky is Painted Gray Today](https://open.spotify.com/album/4iEFEhFxzgr7VKpuo4rjUT) | 3:41 |
+| 27 | [Oak Tree](https://open.spotify.com/track/0H9gWRPB92lrwtjtQtdrwD) | [Mirel Wagner](https://open.spotify.com/artist/599W9qxs3LzkiiEmkoK6Kx) | [When the Cellar Children See the Light of Day](https://open.spotify.com/album/4RP8ZcEWH1tPoEdkaPf8KK) | 3:00 |
 | 28 | [Lou Lou](https://open.spotify.com/track/5JZWiZ8ePCWYqoX99fdUbB) | [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK) | [About You](https://open.spotify.com/album/1t7FwYLSRY0gcMZvsndBVM) | 2:08 |
 | 29 | [Romain's Place](https://open.spotify.com/track/36o9p1Xk3StK2x3jXE8P60) | [Siv Jakobsen](https://open.spotify.com/artist/0vWslArrZa7drINEUobJZl) | [Gardening, Pt\. 1](https://open.spotify.com/album/33f0npYRcXfQpXMwgrwh6v) | 3:44 |
 | 30 | [Alle Snakker Sant](https://open.spotify.com/track/34gxnmqg4Nbzziv265qul7) | [Siri Nilsen](https://open.spotify.com/artist/1tN0vK9jF9KVzvJHzWQaUM) | [Alle Snakker Sant](https://open.spotify.com/album/45MigZAWPOEXhoQfZONmS3) | 2:48 |
@@ -47,13 +47,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 | 37 | [Grey](https://open.spotify.com/track/6VVMhLXX7329EmXVwrm40I) | [Silver Lining](https://open.spotify.com/artist/2fpiIE5NAH8HpcYthaxm97) | [Grey](https://open.spotify.com/album/2hhuqUYYuwCGiGVPDFt53J) | 3:52 |
 | 38 | [Dark](https://open.spotify.com/track/401H08YGkVs5iKtiX3ccBn) | [Siv Jakobsen](https://open.spotify.com/artist/0vWslArrZa7drINEUobJZl) | [The Lingering](https://open.spotify.com/album/3dmPz4j1JhjGi9NXlbrK6S) | 3:13 |
 | 39 | [Chicago](https://open.spotify.com/track/4WGfbOXbDMj5ugvmJ38irE) | [The Northern Belle](https://open.spotify.com/artist/3SSBBFq7ACVCk7vapfDqIS), [Darling West](https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY), [Ida Jenshus](https://open.spotify.com/artist/15qMqM0HdFCZ6IKVNfLGNd), [Louien](https://open.spotify.com/artist/3ZwQaquUgrZdqoWDtVUUMY), [Malin Pettersen](https://open.spotify.com/artist/3kVhFap6wa2EN5yrMZIupm), [Signe Marie Rustad](https://open.spotify.com/artist/23JSMmZOW1mgd7UhYDk4iJ) | [The Women in Me](https://open.spotify.com/album/6iixNCrjwoAe2MfDuONaLu) | 4:39 |
-| 40 | [October](https://open.spotify.com/track/3vBvMNtVbINeQj708jIjqU) | [Jonas Alaska](https://open.spotify.com/artist/1OH3Hbbo6G6uBWunJnU148) | [Jonas Alaska](https://open.spotify.com/album/6j9O86yZRjGScUxrgRJzy9) | 3:44 |
-| 41 | [When the Mourning Comes](https://open.spotify.com/track/0EaHuGgiDdWDQi9VsS6Xrv) | [Christian Kjellvander](https://open.spotify.com/artist/2NNMCcN4t0zn04kTzdVAS6) | [I Saw Her from Here / I Saw Here](https://open.spotify.com/album/6VR7bphUiAWAguSNdCxpHI) | 3:44 |
-| 42 | [Early Summer Rain](https://open.spotify.com/track/44Weew9zeqTPmGujEIFXnh) | [August Flendahl](https://open.spotify.com/artist/2YdblFMUbUSxdwFNffi7ct) | [Early Summer Rain](https://open.spotify.com/album/41rw0yKJcpUla5orniwd45) | 2:50 |
+| 40 | [Early Summer Rain](https://open.spotify.com/track/44Weew9zeqTPmGujEIFXnh) | [August Flendahl](https://open.spotify.com/artist/2YdblFMUbUSxdwFNffi7ct) | [Early Summer Rain](https://open.spotify.com/album/41rw0yKJcpUla5orniwd45) | 2:50 |
+| 41 | [October](https://open.spotify.com/track/3vBvMNtVbINeQj708jIjqU) | [Jonas Alaska](https://open.spotify.com/artist/1OH3Hbbo6G6uBWunJnU148) | [Jonas Alaska](https://open.spotify.com/album/6j9O86yZRjGScUxrgRJzy9) | 3:44 |
+| 42 | [When the Mourning Comes](https://open.spotify.com/track/0EaHuGgiDdWDQi9VsS6Xrv) | [Christian Kjellvander](https://open.spotify.com/artist/2NNMCcN4t0zn04kTzdVAS6) | [I Saw Her from Here / I Saw Here](https://open.spotify.com/album/6VR7bphUiAWAguSNdCxpHI) | 3:44 |
 | 43 | [Ei ny tid](https://open.spotify.com/track/2tK1DxbYpBl4x5sp7wJJFi) | [Moddi](https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM) | [Bråtebrann](https://open.spotify.com/album/2KZF4X0awI3SD4xY8tWVzP) | 2:26 |
 | 44 | [Morgan, I Might](https://open.spotify.com/track/546zJv5pyapMZO5O0l0p4x) | [Marit Larsen](https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg) | [Joni Was Right](https://open.spotify.com/album/4b9Jd0hGddS6xH6zjsCEV7) | 3:17 |
-| 45 | [Ain't Nobody Like Me](https://open.spotify.com/track/1HClG4JoFtukyPDO73eoVe) | [Bendik Brænne](https://open.spotify.com/artist/2xHFB5Nl4D6Il5tfP57sr1), [Daniel Romano](https://open.spotify.com/artist/2kTXvMOmrHVjVewErG5kHD) | [The Last Great Country Swindle](https://open.spotify.com/album/1I25HgAQMA4yhiW7jIv0qQ) | 3:23 |
-| 46 | [June](https://open.spotify.com/track/4pduaq2UnV1fpgevorNxAv) | [Mathias Gundhus](https://open.spotify.com/artist/6PURFnZQmtTtjlraMNaHW7) | [June](https://open.spotify.com/album/4nNRxS6sgZOa7o96KfyIRM) | 3:38 |
+| 45 | [June](https://open.spotify.com/track/4pduaq2UnV1fpgevorNxAv) | [Mathias Gundhus](https://open.spotify.com/artist/6PURFnZQmtTtjlraMNaHW7) | [June](https://open.spotify.com/album/4nNRxS6sgZOa7o96KfyIRM) | 3:38 |
+| 46 | [Ain't Nobody Like Me](https://open.spotify.com/track/1HClG4JoFtukyPDO73eoVe) | [Bendik Brænne](https://open.spotify.com/artist/2xHFB5Nl4D6Il5tfP57sr1), [Daniel Romano](https://open.spotify.com/artist/2kTXvMOmrHVjVewErG5kHD) | [The Last Great Country Swindle](https://open.spotify.com/album/1I25HgAQMA4yhiW7jIv0qQ) | 3:23 |
 | 47 | [Year of Love](https://open.spotify.com/track/2P0LyX02PXKXKMPOH7Zff7) | [Jenny Hval](https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7) | [Year of Love](https://open.spotify.com/album/31PsAJJtuhlTV0rqmFzjtU) | 4:13 |
 | 48 | [Glimpse of a Time](https://open.spotify.com/track/06zhgqhDgIM6CMI4NyDVxu) | [Broken Twin](https://open.spotify.com/artist/4Y1f57EtKq7YF6DfftpopX) | [May](https://open.spotify.com/album/2vXLNhdNLU10FscOd07Xbl) | 3:34 |
 | 49 | [The Devil's Tongue](https://open.spotify.com/track/0zJ5Alcy6I5mqjQVcUqTSx) | [Mirel Wagner](https://open.spotify.com/artist/599W9qxs3LzkiiEmkoK6Kx) | [When the Cellar Children See the Light of Day](https://open.spotify.com/album/4RP8ZcEWH1tPoEdkaPf8KK) | 2:13 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 | 59 | [Bluebelle Mountain](https://open.spotify.com/track/02nxCFRn4cmbfKQB4mUFP5) | [Marit Larsen](https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg) | [Joni Was Right Pt\. II](https://open.spotify.com/album/6wonVPtSuwYgTjn76yMCgE) | 3:20 |
 | 60 | [Oh God](https://open.spotify.com/track/3LHSrehhdEgEvQRpFpc0VC) | [Hello Saferide](https://open.spotify.com/artist/4Qxe8uorrQxMoMkhv0HrK3) | [Dad Told Me](https://open.spotify.com/album/2mboC8ajeSsXhwG4IQMzb2) | 2:35 |
 
-Snapshot ID: `MTY2MjY3NDQwMCwwMDAwMDAwMDVkOTYxMzliM2U4ZjFkYmY4MzAyZDE3OWMxZjQxMTI5`
+Snapshot ID: `MTY2MjY3NDQwMCwwMDAwMDAwMGRkNzFjMjhjNjNiZDhjNDlhNTQ3NjQwNmYzZWNjNjRi`

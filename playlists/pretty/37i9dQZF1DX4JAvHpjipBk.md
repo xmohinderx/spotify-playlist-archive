@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from BLACKPINK, Fred again.., WizKid, Charlie Puth,  and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,959,414 likes - 99 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,959,567 likes - 99 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 84 | [Nothing Lasts Forever](https://open.spotify.com/track/6IzTSuvoY6w3QAhCfN1Sgb) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [Nothing Lasts Forever](https://open.spotify.com/album/0eeLFV76Mnl91MEXf893YQ) | 2:47 |
 | 85 | [Drunk Text](https://open.spotify.com/track/4pe5oDdk2m1FlTN7IFOKZX) | [lilianne](https://open.spotify.com/artist/4QSD2XUu0a8JS54NZ3HmjZ) | [Drunk Text](https://open.spotify.com/album/64uyNa0QQ2pagCUmdMlqHK) | 3:39 |
 | 86 | [Crank](https://open.spotify.com/track/0gtZ8DwXXeqGTc09iFWRBv) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v) | [Crank](https://open.spotify.com/album/2LP73ifQTZ6b7B8XTGQlLD) | 2:58 |
-| 87 | [One Time \(feat\. Ice Spice, Skillibeng & J.I the Prince of N.Y\)](https://open.spotify.com/track/5c1veUUGWMIxFv84E5P9uH) | [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [J.I the Prince of N.Y](https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h) | [One Time \(feat\. Ice Spice, Skillibeng & J.I the Prince of N.Y\)](https://open.spotify.com/album/7FX6vTJxAvOSM7DIpFCHRC) | 3:16 |
+| 87 | [One Time \(feat\. Ice Spice, Skillibeng & J.I the Prince of N.Y\)](https://open.spotify.com/track/5c1veUUGWMIxFv84E5P9uH) | [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [J.I the Prince of N.Y](https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [One Time \(feat\. Ice Spice, Skillibeng & J.I the Prince of N.Y\)](https://open.spotify.com/album/7FX6vTJxAvOSM7DIpFCHRC) | 3:16 |
 | 88 | [less than me \(with NoCap\)](https://open.spotify.com/track/1giAAC2ehzhihRYA7sxYHO) | [KA$HDAMI](https://open.spotify.com/artist/4YEl33ar2WlUSF94Yh9CCf), [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [WORLD DAMINATION](https://open.spotify.com/album/3N8tj0jEEDRSKwET5u3xgW) | 3:14 |
 | 89 | [LEADER!](https://open.spotify.com/track/60VJ0CZ1bV5Ln2n3H1Xo1F) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [LEADER!](https://open.spotify.com/album/5ECNF38ye7R9LlzZRgp9YC) | 2:21 |
 | 90 | [Mine](https://open.spotify.com/track/1IkXnZOpAy7rHbRlMpWov9) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [We The Kingdom](https://open.spotify.com/album/0gkEJZHlqciximZV1b9Drp) | 3:49 |

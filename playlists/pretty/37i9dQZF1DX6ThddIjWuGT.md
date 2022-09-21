@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ThddIjWuGT.md) - [plain]
 
 > Timeless Latin pop hits through the decades! Cover: Juanes
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,864,669 likes - 100 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,865,018 likes - 100 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,9 +50,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ThddIjWuGT.md) - [plain]
 | 40 | [Cuando Me Enamoro](https://open.spotify.com/track/79gkHjNTSyGPXEyGkNQ8zH) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Euphoria \(Standard US/Latin version\)](https://open.spotify.com/album/12HeDZhPHHzCe7VE0uEYwD) | 3:20 |
 | 41 | [Suave](https://open.spotify.com/track/4p7XH4NhQ25iGYrrbg93gt) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Aries](https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC) | 4:49 |
 | 42 | [Estoy Aquí](https://open.spotify.com/track/4M1lEbqPzlEw1JYWB6aE7K) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Pies Descalzos](https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9) | 3:52 |
-| 43 | [Azul](https://open.spotify.com/track/6pHCJmx9FXnMwEqB0LWUEH) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Grandes Hits](https://open.spotify.com/album/6Q2UpW0s9cDeZ59bCd5CYL) | 4:19 |
+| 43 | [Eres Tú](https://open.spotify.com/track/75zvC8d4iozawMJvxt8T1f) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Déjenme Llorar](https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve) | 3:48 |
 | 44 | [¿Cómo Pagarte?](https://open.spotify.com/track/7kkJnzW5TlGwzYYcps0Qv9) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Yo Creo](https://open.spotify.com/album/3AprieF2G5BAcPGbeANZ6e) | 3:31 |
-| 45 | [Eres Tú](https://open.spotify.com/track/75zvC8d4iozawMJvxt8T1f) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Déjenme Llorar](https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve) | 3:48 |
+| 45 | [Azul](https://open.spotify.com/track/6pHCJmx9FXnMwEqB0LWUEH) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Grandes Hits](https://open.spotify.com/album/6Q2UpW0s9cDeZ59bCd5CYL) | 4:19 |
 | 46 | [Humanos a Marte](https://open.spotify.com/track/7lOzUJzsELALh5FQsPKTEn) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [En Todo Estaré \(Deluxe Edition\)](https://open.spotify.com/album/0P0d0y1LQ5VGrp58TQ0oM2) | 3:45 |
 | 47 | [Hasta Que Te Conocí](https://open.spotify.com/track/6XLobzCdi98lFcxG3eGYNr) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Pensamientos](https://open.spotify.com/album/48zTdk2DxqybNPEJfL6Mnl) | 7:15 |
 | 48 | [No Me Doy Por Vencido](https://open.spotify.com/track/4lerOTNr2tFWJCAmmhymhi) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Palabras Del Silencio \(Edición Aniversario \- Un Año Despues\)](https://open.spotify.com/album/5gCxcHCAA50nboku1ks180) | 3:59 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ThddIjWuGT.md) - [plain]
 | 74 | [Más Que Amigos](https://open.spotify.com/track/06PcFr42yEwK5Dv2cdkcC0) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU) | [Sube](https://open.spotify.com/album/4G2BGiu4lG5GNW6LR9oWb0) | 2:57 |
 | 75 | [Corazón En La Maleta](https://open.spotify.com/track/3ljr9ATeLs2BY9gNp7vm62) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [8](https://open.spotify.com/album/3dnAanoquMtbaksF7pUjyI) | 3:41 |
 | 76 | [Me Enamora](https://open.spotify.com/track/5BY0p2EH4EznNZ0MFD9mjt) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [La Vida Es Un Ratico](https://open.spotify.com/album/0TFz2Xw2kzFlcYFGetcCMY) | 3:12 |
-| 77 | [Ser O Parecer](https://open.spotify.com/track/5sgvzXoYFCr5F5tUZdAA20) | [RBD](https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs), [Anahí](https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri), [Dulce María](https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL), [Maite Perroni](https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt), [Christian Chávez](https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN), [Christopher von Uckermann](https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo), [Alfonso Herrera](https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN) | [Celestial](https://open.spotify.com/album/1cjDwE4UHCXZOwgYE3XUgw) | 3:31 |
-| 78 | [Te Perdiste Mi Amor \(feat\. Prince Royce\)](https://open.spotify.com/track/1Q8NiatGDc6YgefNwT7Jgu) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Habítame Siempre \(Bonus Tracks Version\)](https://open.spotify.com/album/5HDevGeDLIZMhZKvRZLSkI) | 3:40 |
+| 77 | [Te Perdiste Mi Amor \(feat\. Prince Royce\)](https://open.spotify.com/track/1Q8NiatGDc6YgefNwT7Jgu) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Habítame Siempre \(Bonus Tracks Version\)](https://open.spotify.com/album/5HDevGeDLIZMhZKvRZLSkI) | 3:40 |
+| 78 | [Ser O Parecer](https://open.spotify.com/track/5sgvzXoYFCr5F5tUZdAA20) | [RBD](https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs), [Anahí](https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri), [Dulce María](https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL), [Maite Perroni](https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt), [Christian Chávez](https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN), [Christopher von Uckermann](https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo), [Alfonso Herrera](https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN) | [Celestial](https://open.spotify.com/album/1cjDwE4UHCXZOwgYE3XUgw) | 3:31 |
 | 79 | [La parte de adelante](https://open.spotify.com/track/0fHTVPRRKmWaRuIwrsNTMp) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Honestidad Brutal](https://open.spotify.com/album/4OZincs6XqlfEuKEFtpq1Y) | 4:21 |
 | 80 | [Amores extraños \- Versión 2001](https://open.spotify.com/track/2FeYK41Grs7KdR9Nqoy1MK) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Lo mejor de Laura Pausini \- Volveré junto a ti](https://open.spotify.com/album/0myaHlqK31HgqSV2k6Caqj) | 4:17 |
 | 81 | [Voy a Olvidarte](https://open.spotify.com/track/6UwB2R8I5LoUmmYc0mphdl) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Des/Amor](https://open.spotify.com/album/6Tap30zqzXj22sVKoy1GUj) | 3:19 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ThddIjWuGT.md) - [plain]
 | 99 | [Te Amaré](https://open.spotify.com/track/3PFyeq4aBtLfShPJ9oiK4p) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | ["Miguel"](https://open.spotify.com/album/6Xo9GlYWbxSTZn0KI7l7Gb) | 3:31 |
 | 100 | [El Noa Noa](https://open.spotify.com/track/55LmsCprSozlCgM2XbmhhW) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Juan Gabriel \- 40 Aniversario](https://open.spotify.com/album/1Iofb00kc6shksa6a7wSah) | 4:13 |
 
-Snapshot ID: `MTY1OTcxNzc0NCwwMDAwMDAwMDAzNzBiMjFjNTk4YjE2NmZjNDE5MmE4YmVjY2U3ZTAx`
+Snapshot ID: `MTY1OTcxNzc0NCwwMDAwMDAwMDU0ZDJhODcyOTUyYTg2YTFhOTVhNDAzNzUxNTY3MzMw`

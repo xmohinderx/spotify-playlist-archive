@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4m87u0.md) - [plain]
 
 > This is The Black Keys\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 241,745 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,800 likes - 51 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,13 +24,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4m87u0.md) - [plain]
 | 14 | [I Got Mine](https://open.spotify.com/track/319zpJMCzpz50Uz0PsjlJN) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Attack & Release](https://open.spotify.com/album/1YHS3Fw8THvsKVVQ1znAqi) | 3:59 |
 | 15 | [Shine A Little Light](https://open.spotify.com/track/365TSrFPqM66giaxJuafR3) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | ["Let's Rock"](https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg) | 3:16 |
 | 16 | [Dead and Gone](https://open.spotify.com/track/3UD4sghkq8dHUwvKxln1nB) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [El Camino](https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm) | 3:41 |
-| 17 | [Turn Blue](https://open.spotify.com/track/1pwWrPxonLIE12WWu9NzgU) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Turn Blue](https://open.spotify.com/album/6TvxpBzf9c8H1fsrAaQ8t3) | 3:42 |
+| 17 | [Gotta Get Away](https://open.spotify.com/track/0zo4T5c5VV42554ySEc5J6) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Turn Blue](https://open.spotify.com/album/6TvxpBzf9c8H1fsrAaQ8t3) | 3:00 |
 | 18 | [Thickfreakness](https://open.spotify.com/track/4m6uJViB1sb3OXErHUkkWk) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Thickfreakness](https://open.spotify.com/album/0GJH6shkenNdqkpGdsY8aa) | 3:48 |
 | 19 | [Go](https://open.spotify.com/track/2GuXIMRlaxVLcU0a5jacHw) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | ["Let's Rock"](https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg) | 2:26 |
-| 20 | [Psychotic Girl](https://open.spotify.com/track/2mFnxVS2wZpqntPzZB17O1) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Attack & Release](https://open.spotify.com/album/1YHS3Fw8THvsKVVQ1znAqi) | 4:10 |
-| 21 | [Gotta Get Away](https://open.spotify.com/track/0zo4T5c5VV42554ySEc5J6) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Turn Blue](https://open.spotify.com/album/6TvxpBzf9c8H1fsrAaQ8t3) | 3:00 |
-| 22 | [Meet Me in the City](https://open.spotify.com/track/0vblqF5R4FyCAVBasjLGdu) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Chulahoma](https://open.spotify.com/album/6jJKeu4hPomUuMOM6iGVzQ) | 3:38 |
-| 23 | [Sister](https://open.spotify.com/track/5LCuFER5mMzL0fGNpClksf) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [El Camino](https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm) | 3:25 |
+| 20 | [Sister](https://open.spotify.com/track/5LCuFER5mMzL0fGNpClksf) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [El Camino](https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm) | 3:25 |
+| 21 | [Turn Blue](https://open.spotify.com/track/1pwWrPxonLIE12WWu9NzgU) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Turn Blue](https://open.spotify.com/album/6TvxpBzf9c8H1fsrAaQ8t3) | 3:42 |
+| 22 | [Psychotic Girl](https://open.spotify.com/track/2mFnxVS2wZpqntPzZB17O1) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Attack & Release](https://open.spotify.com/album/1YHS3Fw8THvsKVVQ1znAqi) | 4:10 |
+| 23 | [Meet Me in the City](https://open.spotify.com/track/0vblqF5R4FyCAVBasjLGdu) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Chulahoma](https://open.spotify.com/album/6jJKeu4hPomUuMOM6iGVzQ) | 3:38 |
 | 24 | [I'll Be Your Man](https://open.spotify.com/track/1nIUgRxbi4aY4fV5A26Jrp) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [The Big Come Up](https://open.spotify.com/album/1xVlDcp3ZHntqgvhHYw1rp) | 2:20 |
 | 25 | [10 Lovers](https://open.spotify.com/track/5HPnumlogzZtpLEaORZjz1) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Turn Blue](https://open.spotify.com/album/6TvxpBzf9c8H1fsrAaQ8t3) | 3:33 |
 | 26 | [How Long](https://open.spotify.com/track/0hPLjCtNnCwt3InwsDgux6) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Dropout Boogie](https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk) | 3:20 |
@@ -47,16 +47,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4m87u0.md) - [plain]
 | 37 | [Sit Around And Miss You](https://open.spotify.com/track/4yBxXm4dDL00YGdO5G9ubK) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | ["Let's Rock"](https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg) | 2:40 |
 | 38 | [It Ain't Over](https://open.spotify.com/track/4fNtMdGY2dYp2ODClA9CB4) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Dropout Boogie](https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk) | 3:48 |
 | 39 | [Midnight in Her Eyes](https://open.spotify.com/track/2l8qA0PtOz6JLMzxMnKOaO) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Thickfreakness](https://open.spotify.com/album/0GJH6shkenNdqkpGdsY8aa) | 4:03 |
-| 40 | [Strange Times](https://open.spotify.com/track/0dpNxKXHazvWga4MN6z2rn) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Attack & Release](https://open.spotify.com/album/1YHS3Fw8THvsKVVQ1znAqi) | 3:10 |
-| 41 | [Keep Me](https://open.spotify.com/track/5wGmaQYNYxJZrnWykQG3HF) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Rubber Factory](https://open.spotify.com/album/1rlGDm1KQJfDyT5v1U8Xk5) | 2:52 |
+| 40 | [Keep Me](https://open.spotify.com/track/5wGmaQYNYxJZrnWykQG3HF) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Rubber Factory](https://open.spotify.com/album/1rlGDm1KQJfDyT5v1U8Xk5) | 2:52 |
+| 41 | [Strange Times](https://open.spotify.com/track/0dpNxKXHazvWga4MN6z2rn) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Attack & Release](https://open.spotify.com/album/1YHS3Fw8THvsKVVQ1znAqi) | 3:10 |
 | 42 | [Your Team Is Looking Good](https://open.spotify.com/track/50J9zbu0UzOFnUVSjvecl7) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Dropout Boogie](https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk) | 3:05 |
 | 43 | [Hold Me in Your Arms](https://open.spotify.com/track/2FbBdId9VlKkTl3QcD7wkn) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Thickfreakness](https://open.spotify.com/album/0GJH6shkenNdqkpGdsY8aa) | 3:19 |
 | 44 | [Come on and Go with Me](https://open.spotify.com/track/7M9Bru9dH3gHSmx6c7bo7j) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Delta Kream](https://open.spotify.com/album/682pJqnx8hcrCfSjvyNBki) | 5:55 |
 | 45 | [Girl Is on My Mind](https://open.spotify.com/track/4KVYCdoWmDa4KS1OY6sgMa) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Rubber Factory](https://open.spotify.com/album/1rlGDm1KQJfDyT5v1U8Xk5) | 3:28 |
 | 46 | [You're the One](https://open.spotify.com/track/1ZJf6hZVPU1NoOPS5ThJvA) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Magic Potion](https://open.spotify.com/album/4jFfuHyKmhGeipjRmKIh8O) | 3:28 |
-| 47 | [She Said, She Said](https://open.spotify.com/track/1e8Y35sK08V3BbHKkgYZAM) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [The Big Come Up](https://open.spotify.com/album/1xVlDcp3ZHntqgvhHYw1rp) | 2:32 |
+| 47 | [The Breaks](https://open.spotify.com/track/2W1OhZFB3uGJ3FpU19BpvZ) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [The Big Come Up](https://open.spotify.com/album/1xVlDcp3ZHntqgvhHYw1rp) | 3:01 |
 | 48 | [Crawling Kingsnake](https://open.spotify.com/track/4Yk7nkmqitDCycO0Z0UsKe) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Delta Kream](https://open.spotify.com/album/682pJqnx8hcrCfSjvyNBki) | 6:08 |
-| 49 | [Oceans & Streams](https://open.spotify.com/track/0RRS27vZj5U0N2eIBctL4K) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Attack & Release](https://open.spotify.com/album/1YHS3Fw8THvsKVVQ1znAqi) | 3:25 |
-| 50 | [The Breaks](https://open.spotify.com/track/2W1OhZFB3uGJ3FpU19BpvZ) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [The Big Come Up](https://open.spotify.com/album/1xVlDcp3ZHntqgvhHYw1rp) | 3:01 |
+| 49 | [Have Mercy on Me](https://open.spotify.com/track/5l4K6OAwpIUlAsItJoZwYr) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Chulahoma](https://open.spotify.com/album/6jJKeu4hPomUuMOM6iGVzQ) | 4:42 |
+| 50 | [Oceans & Streams](https://open.spotify.com/track/0RRS27vZj5U0N2eIBctL4K) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Attack & Release](https://open.spotify.com/album/1YHS3Fw8THvsKVVQ1znAqi) | 3:25 |
+| 51 | [She Said, She Said](https://open.spotify.com/track/1e8Y35sK08V3BbHKkgYZAM) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [The Big Come Up](https://open.spotify.com/album/1xVlDcp3ZHntqgvhHYw1rp) | 2:32 |
 
-Snapshot ID: `Mjc3MjY1NDUsMDAwMDAwMDA5YjU1ZjA4MWZlYWIxZTg3NWViMmMyYzZhNzIyZjhhYg==`
+Snapshot ID: `Mjc3MjgwMzgsMDAwMDAwMDAwYzM0MTE0YjBiYjhkZjU3YzliMjUwMDQ1MzFiNGU0OA==`

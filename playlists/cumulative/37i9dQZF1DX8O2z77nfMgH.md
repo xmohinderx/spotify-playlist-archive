@@ -4,7 +4,7 @@
 
 > Los lanzamientos latinos más destacados de toda la región\. En portada: Paulo Londra y Duki
 
-2,283 songs - 5 day 4 hr 23 min - [published](https://open.spotify.com/playlist/5IWBvXWeYccBbcwARaX1Z3)
+2,284 songs - 5 day 4 hr 27 min - [published](https://open.spotify.com/playlist/5IWBvXWeYccBbcwARaX1Z3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1885,7 +1885,8 @@
 | [Sistema De Patio](https://open.spotify.com/track/65497v9jzFfu5sSA8ADap5) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Treintisiete](https://open.spotify.com/artist/1ZbuFVK9SeRYrZfQLkNzah) | [Sistema De Patio](https://open.spotify.com/album/2CEgQxkmV8DKlSp0hHR839) | 2:14 | 2022-07-15 | 2022-07-23 |
 | [Sitting In The Corner \(feat\. Adriel Favela & Kacey Musgraves\)](https://open.spotify.com/track/1Cx5pTBRWI67JXVmMGJT23) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Fantasy Gateway](https://open.spotify.com/album/7JvjOgEBBcrLs9048x1QcM) | 3:52 | 2022-07-22 | 2022-07-30 |
 | [Six Flags](https://open.spotify.com/track/7FbWdVkWMxtu3WCkRJ5qWr) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0), [M2H](https://open.spotify.com/artist/7bWN0FHvLppK8ozEH6exdi) | [Six Flags](https://open.spotify.com/album/3CC5OhmKYTQw0pvfTODjzV) | 2:39 | 2022-04-01 | 2022-04-09 |
-| [Smoothie Bonce](https://open.spotify.com/track/75mUa0GTRmzUTDtDuUWR8y) | [Temple Sour](https://open.spotify.com/artist/1s5qi7koTDNSvEC71Y3Jg3) | [N.A.R.R.O \(Not Another Roots Reggae Odyssey\)](https://open.spotify.com/album/2JStyArHh5oc1QdGRmAwLu) | 3:58 | 2022-09-16 |  |
+| [Smoothie Bonce](https://open.spotify.com/track/5YGZzjC9mnjBovs8Bf9pzf) | [Temple Sour](https://open.spotify.com/artist/1s5qi7koTDNSvEC71Y3Jg3) | [N.A.R.R.O \(Not Another Roots Reggae Odyssey\)](https://open.spotify.com/album/3BmDU5YJhoip0L8YzIetJr) | 3:58 | 2022-09-16 |  |
+| [Smoothie Bonce](https://open.spotify.com/track/75mUa0GTRmzUTDtDuUWR8y) | [Temple Sour](https://open.spotify.com/artist/1s5qi7koTDNSvEC71Y3Jg3) | [N.A.R.R.O \(Not Another Roots Reggae Odyssey\)](https://open.spotify.com/album/2JStyArHh5oc1QdGRmAwLu) | 3:58 | 2022-09-16 | 2022-09-21 |
 | [SMP \(Sol, Mar y Playa\) \(with Farruko & Wisin\)](https://open.spotify.com/track/4pj68dTcvGVXgzD7qWAGEd) | [KEVVO](https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz) | [SMP \(Sol, Mar y Playa\) \(with Farruko & Wisin\)](https://open.spotify.com/album/7eoNzwrC6Hs8kYNSgAQEkE) | 4:33 | 2022-04-01 | 2022-04-09 |
 | [Sobredosis De Amor](https://open.spotify.com/track/3GnHo2KwNIEmgM5IPEifx6) | [Cupido](https://open.spotify.com/artist/4cK5uxWRVJ3QOSfaBMX2Ex) | [Sobredosis De Amor](https://open.spotify.com/album/1OGHhV3eZDaWgBtA6Pjnlh) | 2:41 | 2022-05-27 | 2022-06-04 |
 | [Sobreviviremos](https://open.spotify.com/track/4G9cFeirAvaF3GlxKvLdzQ) | [Mocedades](https://open.spotify.com/artist/4Sm7JCttzWMwHJtb3UJ8SY), [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Sobreviviremos](https://open.spotify.com/album/44ovc8YFBJp2OyBgkB3J8h) | 3:34 | 2022-05-06 | 2022-05-14 |

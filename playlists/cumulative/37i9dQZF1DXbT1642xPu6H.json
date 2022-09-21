@@ -194,6 +194,28 @@
     },
     {
       "album": {
+        "name": "AMANTES",
+        "url": "https://open.spotify.com/album/2yEEceuPovV5sAoey4GUJF"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "Daviles de Novelda",
+          "url": "https://open.spotify.com/artist/6E94QKXZv8BbO6QQJxcxLI"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180153,
+      "name": "AMANTES",
+      "url": "https://open.spotify.com/track/3Q7o2zzvXj7QiSCumjBpvu"
+    },
+    {
+      "album": {
         "name": "Amor Pasajero",
         "url": "https://open.spotify.com/album/3ZufYhU3vzNGPNMq5pO7ls"
       },
@@ -303,6 +325,24 @@
       "duration_ms": 231041,
       "name": "Bad Habits",
       "url": "https://open.spotify.com/track/6PQ88X9TkUIAUIZJHW2upE"
+    },
+    {
+      "album": {
+        "name": "Bam Bae",
+        "url": "https://open.spotify.com/album/6Q9yaSKHTC2gtZtvIC3Ch9"
+      },
+      "artists": [
+        {
+          "name": "Mr. Pig",
+          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "Bam Bae",
+      "url": "https://open.spotify.com/track/0Sq6xXpQgHbTStVmhJYADV"
     },
     {
       "album": {
@@ -493,7 +533,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-20",
+      "date_removed": null,
       "duration_ms": 199826,
       "name": "Buenos D\u00edas",
       "url": "https://open.spotify.com/track/2MxHuZWC99rsELX9SrCW7K"
@@ -613,7 +653,7 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 184797,
       "name": "Charlie",
       "url": "https://open.spotify.com/track/7aRSNPr2LpTl8v8jQnfWmD"
@@ -733,7 +773,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 321662,
       "name": "como me encanta",
       "url": "https://open.spotify.com/track/6LkquZ7k3q1eeBtltF63lj"
@@ -893,7 +933,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 195760,
       "name": "Dharma",
       "url": "https://open.spotify.com/track/5tpAcJ47UgF4udM5YXcDd2"
@@ -1127,7 +1167,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 180779,
       "name": "Elevator",
       "url": "https://open.spotify.com/track/0EukPxfcz0Liu8qVHU5HWH"
@@ -1203,7 +1243,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 174825,
       "name": "estereotipo",
       "url": "https://open.spotify.com/track/6voO89mK2xygUwHsiPUi6u"
@@ -1279,7 +1319,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 173947,
       "name": "First Class",
       "url": "https://open.spotify.com/track/1rDQ4oMwGJI7B4tovsBOxc"
@@ -1341,7 +1381,7 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 163181,
       "name": "French Samba",
       "url": "https://open.spotify.com/track/6wLK0SBUsxpfsl8XhxII7c"
@@ -1469,7 +1509,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 229977,
       "name": "Guadalajara",
       "url": "https://open.spotify.com/track/3GtG0XwENlN6axQI33FjsR"
@@ -1531,6 +1571,28 @@
       "duration_ms": 174923,
       "name": "I Like 2 Be",
       "url": "https://open.spotify.com/track/1KtTsGHdFznXFNqGIPovLA"
+    },
+    {
+      "album": {
+        "name": "I'm Good (Blue)",
+        "url": "https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175238,
+      "name": "I'm Good (Blue)",
+      "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
     },
     {
       "album": {
@@ -1669,6 +1731,24 @@
       "duration_ms": 200826,
       "name": "Kaprichosa",
       "url": "https://open.spotify.com/track/11iYGnLvPxB2O9k0xGmPvq"
+    },
+    {
+      "album": {
+        "name": "La Copa",
+        "url": "https://open.spotify.com/album/2PC6PCA91NxKDtuV63i0rF"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154628,
+      "name": "La Copa",
+      "url": "https://open.spotify.com/track/2gdBsRfuWGwJwe3X5XwZuI"
     },
     {
       "album": {
@@ -2103,7 +2183,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 177879,
       "name": "Me Myself & I",
       "url": "https://open.spotify.com/track/0C9aH2f4LO8SPPqUWOrcbk"
@@ -2195,7 +2275,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 194630,
       "name": "Meteorite",
       "url": "https://open.spotify.com/track/2ZNtnGN0zpek3i1TDzQwPd"
@@ -2733,7 +2813,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 205426,
       "name": "Pass The Dutchie",
       "url": "https://open.spotify.com/track/1BkY0N8ChFk2mdLbAUu8ZK"
@@ -2787,7 +2867,7 @@
       ],
       "date_added": "2022-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 170105,
       "name": "Pensando En Ti",
       "url": "https://open.spotify.com/track/0DA7ylqBTevQpc5ytIkaF6"
@@ -2889,7 +2969,7 @@
       ],
       "date_added": "2022-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-12",
+      "date_removed": null,
       "duration_ms": 165533,
       "name": "Plut\u00f3n",
       "url": "https://open.spotify.com/track/0w41wEubHTq13Hh4tfRCke"
@@ -3295,7 +3375,7 @@
       ],
       "date_added": "2022-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 145890,
       "name": "Sex & Love",
       "url": "https://open.spotify.com/track/3ylhgzhvSICQcyv0U3Ozwv"
@@ -3354,6 +3434,24 @@
     },
     {
       "album": {
+        "name": "BORN PINK",
+        "url": "https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175889,
+      "name": "Shut Down",
+      "url": "https://open.spotify.com/track/0ARKW62l9uWIDYMZTUmJHF"
+    },
+    {
+      "album": {
         "name": "Sigue/Forever My Love",
         "url": "https://open.spotify.com/album/5umofLk634QVTKYtt2Deoy"
       },
@@ -3395,6 +3493,28 @@
       "duration_ms": 168270,
       "name": "Sin Ropa (with Ingratax)",
       "url": "https://open.spotify.com/track/1p39fLrejm3vWAnGFGIYvC"
+    },
+    {
+      "album": {
+        "name": "Soltera",
+        "url": "https://open.spotify.com/album/1LpGk730HxND92t3AW8Jee"
+      },
+      "artists": [
+        {
+          "name": "Cali Y El Dandee",
+          "url": "https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK"
+        },
+        {
+          "name": "Omar Montes",
+          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171400,
+      "name": "Soltera",
+      "url": "https://open.spotify.com/track/41ffIDkb10CvzGNBYXm498"
     },
     {
       "album": {
@@ -3895,7 +4015,7 @@
       ],
       "date_added": "2022-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 200502,
       "name": "Todo My Love",
       "url": "https://open.spotify.com/track/0XOr0FAZIbUaxyU84o9AWJ"

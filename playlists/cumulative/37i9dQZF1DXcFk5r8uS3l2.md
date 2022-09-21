@@ -4,7 +4,7 @@
 
 > You've come to the crossroads of soul, folk, and the blues\. Cover: Amythyst Kiah
 
-210 songs - 13 hr 22 min - [published](https://open.spotify.com/playlist/3G1eoqHvHRUa7LJeikn6w5)
+211 songs - 13 hr 25 min - [published](https://open.spotify.com/playlist/3G1eoqHvHRUa7LJeikn6w5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Hard to Stay Cool](https://open.spotify.com/track/1sA5P8waghOeBj5nc1S4XZ) | [Cedric Burnside](https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc) | [Hard to Stay Cool](https://open.spotify.com/album/3fpTOEGSvGIhVtLMZ44w8t) | 5:34 | 2021-12-17 | 2022-07-29 |
 | [Hard To Stay Cool](https://open.spotify.com/track/5mkwcdqarspFI0bbMfzAum) | [Cedric Burnside](https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc) | [Benton County Relic](https://open.spotify.com/album/6N2kgU28H4AZWrsnw8IVeu) | 5:34 | 2022-01-28 | 2022-08-20 |
 | [Harder To Blame](https://open.spotify.com/track/6Qfd1lfuOpHwyyccBXAHH6) | [Early James](https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY) | [Harder To Blame](https://open.spotify.com/album/7J1pLKAXPMishkIbaZroGc) | 4:06 | 2022-06-17 | 2022-06-25 |
+| [Have A Ball](https://open.spotify.com/track/0M5ulWgUKiuyaVbs4h3jCI) | [Luke Winslow\-King](https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC) | [Have A Ball](https://open.spotify.com/album/2DxhN63gMkdmNEMrCGn2AT) | 2:24 | 2022-05-06 |  |
 | [Have a Ball](https://open.spotify.com/track/6ngNT63RRgIqmgZkWK39Q7) | [Luke Winslow\-King](https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC) | [If These Walls Could Talk](https://open.spotify.com/album/4FN73eUqBC3Nh0nnsz4A8c) | 2:24 | 2022-05-06 | 2022-06-11 |
 | [Heart by Heart](https://open.spotify.com/track/3xOt8ADrsq52yDivtBZfS6) | [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y) | [Heart by Heart](https://open.spotify.com/album/35lPmfsSzeu5pgEIlO2Ntv) | 4:03 | 2021-12-17 | 2022-07-29 |
 | [Heaven Knows](https://open.spotify.com/track/6IqUGU2UsJc6ys3veZeAbK) | [Mica Millar](https://open.spotify.com/artist/3u7WZTVUhTgjSKrlqzPfs9) | [Heaven Knows](https://open.spotify.com/album/0YpOrdUp8zE96Z9Xm0gjE8) | 5:23 | 2022-04-29 | 2022-06-11 |
@@ -106,7 +107,7 @@
 | [It Feels Alright](https://open.spotify.com/track/6QbSBJjorahQM08lPpFfkW) | [Sam Burchfield](https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5) | [It Feels Alright](https://open.spotify.com/album/0xsAiiO0KEvKLn9J7v9XIJ) | 3:28 | 2022-05-20 | 2022-07-09 |
 | [Jet Black Cadillac](https://open.spotify.com/track/5W0GIUYxM787mpfkl84hSF) | [Mike Clark & the Sugar Sounds](https://open.spotify.com/artist/01RocYhqTJzt3gzdpVM2MJ) | [Moon Rock](https://open.spotify.com/album/4CBsnUSUmxwCH1NmtEyGUH) | 5:14 | 2022-03-11 | 2022-07-28 |
 | [King Bee](https://open.spotify.com/track/6efvpN45pRby2dC0ayfSU7) | [Wynonna](https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1) | [I Hear You Knocking](https://open.spotify.com/album/7oo5eTB3LyjpbPzxINbvBK) | 3:50 | 2021-12-17 | 2022-06-11 |
-| [Knew The Day Was Comin'](https://open.spotify.com/track/2ozeYfDCDYipVRTENpgCnT) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Bloodline Maintenance](https://open.spotify.com/album/5ZiQvnBPWaLdNtoZxYNuth) | 2:10 | 2022-07-26 |  |
+| [Knew The Day Was Comin'](https://open.spotify.com/track/2ozeYfDCDYipVRTENpgCnT) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Bloodline Maintenance](https://open.spotify.com/album/5ZiQvnBPWaLdNtoZxYNuth) | 2:10 | 2022-07-26 | 2022-09-21 |
 | [L'hotel Serein](https://open.spotify.com/track/2VO0kA8zIwG14cTDfPOGIH) | [All Them Witches](https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65) | [L'hotel Serein](https://open.spotify.com/album/7pMl0sRjNchXQX7fb6HUQL) | 4:12 | 2022-06-24 |  |
 | [Light \- Edit](https://open.spotify.com/track/0h04eWLXS72ITUgN4PKnLg) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Light \(Edit\)](https://open.spotify.com/album/0fKENvWUaivTdcglwpXvzz) | 3:05 | 2021-12-17 |  |
 | [Lissa's Song](https://open.spotify.com/track/1zwnTZVdOd85R5XFpV6vqf) | [Luke Winslow\-King](https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC) | [Lissa's Song](https://open.spotify.com/album/2PDEbqRQ2nlVwPTuQcmvhU) | 5:07 | 2021-12-17 | 2022-07-21 |

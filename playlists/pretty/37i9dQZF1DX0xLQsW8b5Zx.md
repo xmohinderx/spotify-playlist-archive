@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xLQsW8b5Zx.md) - [plain]
 
 > Live fast, die awesome! A great mix of the best rockabilly tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 505,419 likes - 60 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 505,522 likes - 60 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xLQsW8b5Zx.md) - [plain]
 | 32 | [Rock Billy Boogie](https://open.spotify.com/track/6kJ86Zi4x1LY9KEdjQA5S2) | [Robert Gordon](https://open.spotify.com/artist/1coQ4GcxuazfjZ0MP9JnBF) | [Rock Billy Boogie](https://open.spotify.com/album/10xfK1QoJAKJTatrJTp4Wt) | 2:33 |
 | 33 | [Red Light \(Spells Danger\)](https://open.spotify.com/track/0Ujsx46cUBEIgt1rwLl6Wc) | [Black Raven](https://open.spotify.com/artist/7LkWVc8qgKldq6Ja5WI784) | [Rock In Threes!](https://open.spotify.com/album/3Oz8GlDjzuPH777lTIOhyD) | 3:05 |
 | 34 | [Once More](https://open.spotify.com/track/6s3WmrBER7k2TVM1wvue3i) | [The Buckaroos](https://open.spotify.com/artist/74wE2KMCkSnUpjtgKF9cUr) | [Nola](https://open.spotify.com/album/6c6YN42siupi6OxN7ZwqJC) | 2:19 |
-| 35 | [Musta Notta Gotta Lotta](https://open.spotify.com/track/0MJiECmrhQvEggBvVfBSOj) | [Joe Ely](https://open.spotify.com/artist/388Y4nUQbYSyonhNlBEypT) | [Musta Notta Gotta Lotta](https://open.spotify.com/album/0Og633EW0zPdlclAXI9TJg) | 2:35 |
-| 36 | [Hold Me, Hug Me, Rock Me](https://open.spotify.com/track/0P9wPwqLUHzp5jeY1cHeAd) | [Gene Vincent & His Blue Caps](https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq) | [Gene Vincent And The Blue Caps](https://open.spotify.com/album/0hiKWm7WLBpTtzIlnwTnrk) | 2:15 |
+| 35 | [Hold Me, Hug Me, Rock Me](https://open.spotify.com/track/0P9wPwqLUHzp5jeY1cHeAd) | [Gene Vincent & His Blue Caps](https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq) | [Gene Vincent And The Blue Caps](https://open.spotify.com/album/0hiKWm7WLBpTtzIlnwTnrk) | 2:15 |
+| 36 | [Musta Notta Gotta Lotta](https://open.spotify.com/track/0MJiECmrhQvEggBvVfBSOj) | [Joe Ely](https://open.spotify.com/artist/388Y4nUQbYSyonhNlBEypT) | [Musta Notta Gotta Lotta](https://open.spotify.com/album/0Og633EW0zPdlclAXI9TJg) | 2:35 |
 | 37 | [Rockin' the Night Away](https://open.spotify.com/track/5jt2cfZCz9L0f3LqAgktSs) | [The Jetaways](https://open.spotify.com/artist/4d6H6DOyHM4g55AY3fIQxy) | [Rockin' the Night Away](https://open.spotify.com/album/1eWWmQYAkAnthpK6W6VuVZ) | 2:53 |
 | 38 | [Everybody's Trying to Be My Baby](https://open.spotify.com/track/75MzeS5tyJDX7a5ZytcqS8) | [Carl Perkins](https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f) | [The Dance Album](https://open.spotify.com/album/2mDKmUu61YwkVAJfvD81HK) | 2:13 |
 | 39 | [Tiger Twist \- 2007 Remaster](https://open.spotify.com/track/0WZiGJT2NawjIySdHLzhMx) | [Teddy & The Tigers](https://open.spotify.com/artist/1vKtKEWbJ3NcT14A49sBbb) | [Burn It Up](https://open.spotify.com/album/7mqE83mgUVFGH58PShzMBg) | 2:05 |
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xLQsW8b5Zx.md) - [plain]
 | 53 | [Bad News From Pretty Red Lips](https://open.spotify.com/track/1jy0EJerJqjpwdGHkUrZQd) | [Fatboy](https://open.spotify.com/artist/5vK6yZH3E1wOYY93NHZwJT) | [Overdrive](https://open.spotify.com/album/1PfyEOST0PpaP4c258vF0E) | 2:46 |
 | 54 | [Baby Come Back](https://open.spotify.com/track/0giw3w1nkwpF7isclQaUy0) | [TT Grace](https://open.spotify.com/artist/174fMDtkjlEdRIF9gXZcHc) | [Baby Come Back](https://open.spotify.com/album/0mt0K3Xgp7zN5nOZFoPJ4L) | 3:21 |
 | 55 | [Debt With the Devil](https://open.spotify.com/track/1HJx9hfIu9Ud26NBpDmy9Q) | [Hillbilly Casino](https://open.spotify.com/artist/5j0P209RtE4MZDmD6QdZpO) | [Tennessee Stomp](https://open.spotify.com/album/0A0uohuhu45hTyqwlgg0Ni) | 2:13 |
-| 56 | [Come on Little Mama](https://open.spotify.com/track/11OqzAcT8jMaNZAt6kdpvR) | [Ray Harris](https://open.spotify.com/artist/0luI6OOG3mYAFQj4BC1hR8) | [Come on Little Mama / Where'd You Stay Last Night](https://open.spotify.com/album/0jRvfTjOFuHrNJrVUT8BZY) | 2:18 |
-| 57 | [Redneck Rock](https://open.spotify.com/track/1UH6UAeMdL5k8hJe8dNrk8) | [Jerry Jaye](https://open.spotify.com/artist/34LPrj2jJHyeenP4sURa7N) | [One More Time](https://open.spotify.com/album/5nT4fJpMylZufxoYnB1Pbl) | 2:15 |
-| 58 | [Northern Girl](https://open.spotify.com/track/3ddovtNdDK3nrseLGpI4hV) | [Lee Ericson](https://open.spotify.com/artist/4i9dZAd8B1gXWY8iyPdgnY), [The Kingbees](https://open.spotify.com/artist/4cu77OuihTaUDYozqa2u9G) | [Stockholm Blue](https://open.spotify.com/album/7xFg94LOru7QaN5couhbh1) | 3:30 |
+| 56 | [Redneck Rock](https://open.spotify.com/track/1UH6UAeMdL5k8hJe8dNrk8) | [Jerry Jaye](https://open.spotify.com/artist/34LPrj2jJHyeenP4sURa7N) | [One More Time](https://open.spotify.com/album/5nT4fJpMylZufxoYnB1Pbl) | 2:15 |
+| 57 | [Come on Little Mama](https://open.spotify.com/track/11OqzAcT8jMaNZAt6kdpvR) | [Ray Harris](https://open.spotify.com/artist/0luI6OOG3mYAFQj4BC1hR8) | [Come on Little Mama / Where'd You Stay Last Night](https://open.spotify.com/album/0jRvfTjOFuHrNJrVUT8BZY) | 2:18 |
+| 58 | [Devil On My Shoulder](https://open.spotify.com/track/3UZo90wgkXdNPtSVIMYfdu) | [Kim Lenz & Her Jaguars](https://open.spotify.com/artist/2yG5isAT56JzRO1qpmmwnB) | [Kim Lenz And Her Jaguars](https://open.spotify.com/album/1S8GKcUi2QMBDN6AtSZLOL) | 2:37 |
 | 59 | [Don't Come Knocking on My Door](https://open.spotify.com/track/3yZL03V9NrrM6PnjK9WEqu) | [Danny Cooltmoore](https://open.spotify.com/artist/5QJXgfc6xBUgLtMctf1fHF), [Small Town Pimps](https://open.spotify.com/artist/5Pta9k4k1L77SPVrUxAVvS) | [Don't Come Knocking on My Door](https://open.spotify.com/album/1nPMU7cEdcWQfCXNg37M2h) | 3:17 |
-| 60 | [Devil On My Shoulder](https://open.spotify.com/track/3UZo90wgkXdNPtSVIMYfdu) | [Kim Lenz & Her Jaguars](https://open.spotify.com/artist/2yG5isAT56JzRO1qpmmwnB) | [Kim Lenz And Her Jaguars](https://open.spotify.com/album/1S8GKcUi2QMBDN6AtSZLOL) | 2:37 |
+| 60 | [Northern Girl](https://open.spotify.com/track/3ddovtNdDK3nrseLGpI4hV) | [Lee Ericson](https://open.spotify.com/artist/4i9dZAd8B1gXWY8iyPdgnY), [The Kingbees](https://open.spotify.com/artist/4cu77OuihTaUDYozqa2u9G) | [Stockholm Blue](https://open.spotify.com/album/7xFg94LOru7QaN5couhbh1) | 3:30 |
 
-Snapshot ID: `MTY2MjEwMzE5NSwwMDAwMDAwMDI2ZTEyZTg2ZWNkYmFlN2ZiNWJkMTA2NWRlNzlmYzdh`
+Snapshot ID: `MTY2MjEwMzE5NSwwMDAwMDAwMGNjZmM0MDEzOGM3MmFiMmYwZDAyMzNjOTA0YmU4NDQ2`

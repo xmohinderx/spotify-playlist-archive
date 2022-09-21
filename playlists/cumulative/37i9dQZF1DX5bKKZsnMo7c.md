@@ -4,7 +4,7 @@
 
 > All eyes on you\. Cover: Bo Burnham
 
-166 songs - 9 hr 11 min - [published](https://open.spotify.com/playlist/04RUTcmGoLXt8vaCbdBnpU)
+167 songs - 9 hr 14 min - [published](https://open.spotify.com/playlist/04RUTcmGoLXt8vaCbdBnpU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Fairytale](https://open.spotify.com/track/4eDtZP99H6xfasP4Tku9Ee) | [Livingston](https://open.spotify.com/artist/2fPsJqR6zfoHatC1eFr0eQ) | [Lighthouse](https://open.spotify.com/album/4Pmm7z9aZUxOifop5oDvOJ) | 2:49 | 2022-05-23 | 2022-06-02 |
 | [Fall In Love With A Girl \(feat\. Beabadoobee\)](https://open.spotify.com/track/0rH1Y0mcALJgAq8EKF2Zwt) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8), [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Fall In Love With A Girl \(feat\. Beabadoobee\)](https://open.spotify.com/album/18czgkFPCbEyxqTGt3dBQ1) | 3:11 | 2022-05-17 | 2022-06-02 |
 | [Fall In Love With A Girl \(feat\. Orla Gartland\)](https://open.spotify.com/track/3oDm8bWMqVw2Hn4R8nYwyZ) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8), [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Fall In Love With A Girl \(feat\. Orla Gartland\)](https://open.spotify.com/album/4rhuxHJsNJdATS6PHxMvQ6) | 2:48 | 2022-06-10 | 2022-07-08 |
-| [Falling Behind](https://open.spotify.com/track/38EDrbRyjeIFaAw0XPNX6e) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Falling Behind](https://open.spotify.com/album/47ikRYlLNytQQxCBXzCQrQ) | 2:53 | 2022-09-02 |  |
+| [Falling Behind](https://open.spotify.com/track/38EDrbRyjeIFaAw0XPNX6e) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Falling Behind](https://open.spotify.com/album/47ikRYlLNytQQxCBXzCQrQ) | 2:53 | 2022-09-02 | 2022-09-21 |
 | [Feel Better](https://open.spotify.com/track/0mfHN9LcAPidSI3JCPqYml) | [Penelope Scott](https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB) | [Public Void](https://open.spotify.com/album/49iT8dV8hZ5o7bqpOI5yfI) | 4:12 | 2022-06-07 |  |
 | [Feel Better](https://open.spotify.com/track/6e0vjU61OuUzcqVKPEXHb4) | [Penelope Scott](https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB) | [Public Void](https://open.spotify.com/album/0G2RxSCixG5Nl6jpjwiw2g) | 4:12 | 2022-05-17 | 2022-07-29 |
 | [First Love / Late Spring](https://open.spotify.com/track/3sslYZcFKtUvIEWN9lADgr) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Bury Me At Makeout Creek](https://open.spotify.com/album/3I2KkX13lHXuYqfBjSOopo) | 4:38 | 2022-05-17 |  |
@@ -103,6 +103,7 @@
 | [Liberation](https://open.spotify.com/track/3I0PsB3pr6PPyesjPIXjA9) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Will Of The People](https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk) | 3:06 | 2022-08-26 |  |
 | [Life Letters](https://open.spotify.com/track/29VdNzgJIxzlIDkIYjFQqS) | [Never Get Used To People](https://open.spotify.com/artist/0j5kVHxvTgUN4nBIPKCLRJ) | [Life Letters](https://open.spotify.com/album/2f5voeeirzSQBRR4ovCNnD) | 2:28 | 2022-08-20 |  |
 | [Life on Mars? \- 2015 Remaster](https://open.spotify.com/track/3ZE3wv8V3w2T2f7nOCjV0N) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Hunky Dory \(2015 Remaster\)](https://open.spotify.com/album/6fQElzBNTiEMGdIeY0hy5l) | 3:55 | 2022-05-17 |  |
+| [Like or Like Like](https://open.spotify.com/track/2laAFvo3q3GIcXX7Ql8OeD) | [Miniature Tigers](https://open.spotify.com/artist/7xWU2A2lw1xf4zTjKhkrGK) | [Tell It to the Volcano](https://open.spotify.com/album/6LVXJslQ2aT7xyIBnDsXXj) | 2:38 | 2022-09-20 |  |
 | [Love Letter From The Sea to The Shore](https://open.spotify.com/track/2uPFYzZXZSgIP6AHKneCLT) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [Love Letter From The Sea to The Shore](https://open.spotify.com/album/5OTyzmAOlaJviW3PhFsxz0) | 3:11 | 2022-09-02 |  |
 | [Loveology](https://open.spotify.com/track/3hhU5HJkLOTSTdEWkXMvYS) | [Regina Spektor](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) | [Loveology](https://open.spotify.com/album/0Y3VeIqUxmsZ5Tr5mwawTa) | 5:16 | 2022-06-10 | 2022-06-25 |
 | [Mad Hoes](https://open.spotify.com/track/7g1o1CUxSRbuTWa8m1Afgi) | [TAELA](https://open.spotify.com/artist/0UpJN0IU36gOyMJLHYHTYq) | [Mad Hoes](https://open.spotify.com/album/7tuRGmj8L9bUYjlpkNXJWT) | 2:43 | 2022-09-02 |  |

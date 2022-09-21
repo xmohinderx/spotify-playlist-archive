@@ -1,12 +1,12 @@
 {
   "description": "The songs you just keep coming back to. Cover: Big Sean",
-  "num_followers": 421377,
+  "num_followers": 421406,
   "original_name": "Hip-Hop Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMwMDg2MCwwMDAwMDAwMGY2NjA3OGJiMjhlMTk1NzgyOWI1ZjkzZGQ3YmY1ZjFj",
+  "snapshot_id": "MTY2MzMwMDg2MCwwMDAwMDAwMDFmNzIxZWNlNDUyMzllOWM2ODNhZGFjZjAxMzAyNTYy",
   "tracks": [
     {
       "added_at": "2022-09-16 04:01:00",
@@ -635,22 +635,6 @@
     {
       "added_at": "2022-09-16 04:01:00",
       "album": {
-        "name": "Come Home The Kids Miss You",
-        "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 135053,
-      "name": "Dua Lipa",
-      "url": "https://open.spotify.com/track/0LnS7aOdOdI1dNKZqdOLz4"
-    },
-    {
-      "added_at": "2022-09-16 04:01:00",
-      "album": {
         "name": "Perfect Ten",
         "url": "https://open.spotify.com/album/2WrNHOba5u6P9S9xEboaUy"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 180434,
       "name": "Ballin' (with Roddy Ricch)",
       "url": "https://open.spotify.com/track/3QzAOrNlsabgbMwlZt7TAY"
+    },
+    {
+      "added_at": "2022-09-16 04:01:00",
+      "album": {
+        "name": "Come Home The Kids Miss You",
+        "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 135053,
+      "name": "Dua Lipa",
+      "url": "https://open.spotify.com/track/0LnS7aOdOdI1dNKZqdOLz4"
     },
     {
       "added_at": "2022-09-16 04:01:00",
@@ -867,22 +867,6 @@
     {
       "added_at": "2022-09-16 04:01:00",
       "album": {
-        "name": "Banking On Me",
-        "url": "https://open.spotify.com/album/0J2kO9eiQauyjKyYgBFtPn"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Banking On Me",
-      "url": "https://open.spotify.com/track/7Fege3yv4dvehB3NdRBGwI"
-    },
-    {
-      "added_at": "2022-09-16 04:01:00",
-      "album": {
         "name": "ONEPOINTFIVE",
         "url": "https://open.spotify.com/album/4mwO9qIVmngSe7yR5Ios0I"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 121346,
       "name": "REEL IT IN",
       "url": "https://open.spotify.com/track/5qHirGR7M9tdm6C17DlzSY"
+    },
+    {
+      "added_at": "2022-09-16 04:01:00",
+      "album": {
+        "name": "Banking On Me",
+        "url": "https://open.spotify.com/album/0J2kO9eiQauyjKyYgBFtPn"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Banking On Me",
+      "url": "https://open.spotify.com/track/7Fege3yv4dvehB3NdRBGwI"
     },
     {
       "added_at": "2022-09-16 04:01:00",
@@ -995,26 +995,6 @@
     {
       "added_at": "2022-09-16 04:01:00",
       "album": {
-        "name": "DS4EVER",
-        "url": "https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 193346,
-      "name": "P power (feat. Drake)",
-      "url": "https://open.spotify.com/track/0lEjxUUlKqjqXrVlIHFduD"
-    },
-    {
-      "added_at": "2022-09-16 04:01:00",
-      "album": {
         "name": "The Off-Season",
         "url": "https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX"
       },
@@ -1091,6 +1071,26 @@
       "duration_ms": 215693,
       "name": "Solid (feat. Drake)",
       "url": "https://open.spotify.com/track/6rTInqW3YECMkQsBEHw4sd"
+    },
+    {
+      "added_at": "2022-09-16 04:01:00",
+      "album": {
+        "name": "DS4EVER",
+        "url": "https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 193346,
+      "name": "P power (feat. Drake)",
+      "url": "https://open.spotify.com/track/0lEjxUUlKqjqXrVlIHFduD"
     },
     {
       "added_at": "2022-09-16 04:01:00",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2022-09-16 04:01:00",
       "album": {
+        "name": "The New Toronto 3",
+        "url": "https://open.spotify.com/album/2TbrXjwWklhT7JrC5sdUkf"
+      },
+      "artists": [
+        {
+          "name": "Tory Lanez",
+          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
+        }
+      ],
+      "duration_ms": 132023,
+      "name": "Broke In A Minute",
+      "url": "https://open.spotify.com/track/4xqIYGwwZTEem9U8A42SPF"
+    },
+    {
+      "added_at": "2022-09-16 04:01:00",
+      "album": {
         "name": "It's Almost Dry",
         "url": "https://open.spotify.com/album/6o38CdD7CUlZDCFhjZYLDH"
       },
@@ -1223,22 +1239,6 @@
     {
       "added_at": "2022-09-16 04:01:00",
       "album": {
-        "name": "The New Toronto 3",
-        "url": "https://open.spotify.com/album/2TbrXjwWklhT7JrC5sdUkf"
-      },
-      "artists": [
-        {
-          "name": "Tory Lanez",
-          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
-        }
-      ],
-      "duration_ms": 132023,
-      "name": "Broke In A Minute",
-      "url": "https://open.spotify.com/track/4xqIYGwwZTEem9U8A42SPF"
-    },
-    {
-      "added_at": "2022-09-16 04:01:00",
-      "album": {
         "name": "F*CK LOVE",
         "url": "https://open.spotify.com/album/6RuwGwQcAureaOraKJNFQG"
       },
@@ -1271,30 +1271,6 @@
       "duration_ms": 156944,
       "name": "Up",
       "url": "https://open.spotify.com/track/1XXimziG1uhM0eDNCZCrUl"
-    },
-    {
-      "added_at": "2022-09-16 04:01:00",
-      "album": {
-        "name": "U-Digg (feat. 42 Dugg & Veeze)",
-        "url": "https://open.spotify.com/album/0gnnmRUd9qg7ihL70KEtVZ"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "42 Dugg",
-          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
-        },
-        {
-          "name": "Veeze",
-          "url": "https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7"
-        }
-      ],
-      "duration_ms": 235500,
-      "name": "U-Digg (feat. 42 Dugg & Veeze)",
-      "url": "https://open.spotify.com/track/0b7UwotRCrS7qBoLDjfvSY"
     },
     {
       "added_at": "2022-09-16 04:01:00",
@@ -1343,6 +1319,30 @@
       "duration_ms": 153626,
       "name": "Out Of Love (feat. Internet Money)",
       "url": "https://open.spotify.com/track/0IJA9KP6rT55jrP1YpTdhx"
+    },
+    {
+      "added_at": "2022-09-16 04:01:00",
+      "album": {
+        "name": "U-Digg (feat. 42 Dugg & Veeze)",
+        "url": "https://open.spotify.com/album/0gnnmRUd9qg7ihL70KEtVZ"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "42 Dugg",
+          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
+        },
+        {
+          "name": "Veeze",
+          "url": "https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7"
+        }
+      ],
+      "duration_ms": 235500,
+      "name": "U-Digg (feat. 42 Dugg & Veeze)",
+      "url": "https://open.spotify.com/track/0b7UwotRCrS7qBoLDjfvSY"
     },
     {
       "added_at": "2022-09-16 04:01:00",
@@ -1567,22 +1567,18 @@
     {
       "added_at": "2022-09-16 04:01:00",
       "album": {
-        "name": "Hollywood's Bleeding",
-        "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
+        "name": "vice city",
+        "url": "https://open.spotify.com/album/23Q7W5jYwmLuOhu9ZeGdTd"
       },
       "artists": [
         {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        },
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
         }
       ],
-      "duration_ms": 196760,
-      "name": "Enemies (feat. DaBaby)",
-      "url": "https://open.spotify.com/track/0Xek5rqai2jcOWCYWJfVCF"
+      "duration_ms": 220708,
+      "name": "vice city",
+      "url": "https://open.spotify.com/track/6MOst484piqXpzPPRRe8i5"
     },
     {
       "added_at": "2022-09-16 04:01:00",
@@ -1611,18 +1607,22 @@
     {
       "added_at": "2022-09-16 04:01:00",
       "album": {
-        "name": "vice city",
-        "url": "https://open.spotify.com/album/23Q7W5jYwmLuOhu9ZeGdTd"
+        "name": "Hollywood's Bleeding",
+        "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
       },
       "artists": [
         {
-          "name": "XXXTENTACION",
-          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
         }
       ],
-      "duration_ms": 220708,
-      "name": "vice city",
-      "url": "https://open.spotify.com/track/6MOst484piqXpzPPRRe8i5"
+      "duration_ms": 196760,
+      "name": "Enemies (feat. DaBaby)",
+      "url": "https://open.spotify.com/track/0Xek5rqai2jcOWCYWJfVCF"
     },
     {
       "added_at": "2022-09-16 04:01:00",
@@ -1803,6 +1803,22 @@
     {
       "added_at": "2022-09-16 04:01:00",
       "album": {
+        "name": "CLOUDS (THE MIXTAPE)",
+        "url": "https://open.spotify.com/album/7eQGtkzCgrIWDOe76E9F8t"
+      },
+      "artists": [
+        {
+          "name": "NF",
+          "url": "https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz"
+        }
+      ],
+      "duration_ms": 251236,
+      "name": "JUST LIKE YOU",
+      "url": "https://open.spotify.com/track/7tTRFVlFzk6yTnoMcParmi"
+    },
+    {
+      "added_at": "2022-09-16 04:01:00",
+      "album": {
         "name": "Do We Have A Problem?",
         "url": "https://open.spotify.com/album/1fDcx48pkgRmOXQ3weT0ct"
       },
@@ -1819,22 +1835,6 @@
       "duration_ms": 207065,
       "name": "Do We Have A Problem?",
       "url": "https://open.spotify.com/track/1PNs0uGru3TcrA94kpyGnc"
-    },
-    {
-      "added_at": "2022-09-16 04:01:00",
-      "album": {
-        "name": "CLOUDS (THE MIXTAPE)",
-        "url": "https://open.spotify.com/album/7eQGtkzCgrIWDOe76E9F8t"
-      },
-      "artists": [
-        {
-          "name": "NF",
-          "url": "https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz"
-        }
-      ],
-      "duration_ms": 251236,
-      "name": "JUST LIKE YOU",
-      "url": "https://open.spotify.com/track/7tTRFVlFzk6yTnoMcParmi"
     },
     {
       "added_at": "2022-09-16 04:01:00",
@@ -1899,6 +1899,26 @@
     {
       "added_at": "2022-09-16 04:01:00",
       "album": {
+        "name": "Hotel Diablo",
+        "url": "https://open.spotify.com/album/0bJIHF1Or1YBLFBMwv53K2"
+      },
+      "artists": [
+        {
+          "name": "Machine Gun Kelly",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        },
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        }
+      ],
+      "duration_ms": 156719,
+      "name": "Candy (feat. Trippie Redd)",
+      "url": "https://open.spotify.com/track/37AGgp9VP8TVJBfEat74Bj"
+    },
+    {
+      "added_at": "2022-09-16 04:01:00",
+      "album": {
         "name": "Own Brand Freestyle",
         "url": "https://open.spotify.com/album/7lR5tiB0EL8xr8HodoIXg7"
       },
@@ -1919,26 +1939,6 @@
       "duration_ms": 153808,
       "name": "Own Brand Freestyle",
       "url": "https://open.spotify.com/track/6Jzdxguk63s6CVVXHIrQ0x"
-    },
-    {
-      "added_at": "2022-09-16 04:01:00",
-      "album": {
-        "name": "Hotel Diablo",
-        "url": "https://open.spotify.com/album/0bJIHF1Or1YBLFBMwv53K2"
-      },
-      "artists": [
-        {
-          "name": "Machine Gun Kelly",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
-        },
-        {
-          "name": "Trippie Redd",
-          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
-        }
-      ],
-      "duration_ms": 156719,
-      "name": "Candy (feat. Trippie Redd)",
-      "url": "https://open.spotify.com/track/37AGgp9VP8TVJBfEat74Bj"
     }
   ],
   "unique_name": "Hip-Hop Favourites",

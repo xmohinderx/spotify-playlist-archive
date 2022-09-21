@@ -1208,6 +1208,24 @@
     },
     {
       "album": {
+        "name": "Just As Easily",
+        "url": "https://open.spotify.com/album/4z4anMfIasayTBmyVIGlqa"
+      },
+      "artists": [
+        {
+          "name": "Frizzell D'souza",
+          "url": "https://open.spotify.com/artist/17j8WfojaUlIDrnDG7IfIQ"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189333,
+      "name": "Just As Easily",
+      "url": "https://open.spotify.com/track/7k695jTLLrMiNnFnyRWDCN"
+    },
+    {
+      "album": {
         "name": "Keep - Single",
         "url": "https://open.spotify.com/album/0VlDd0PvwmbCvCZO4qGcK5"
       },

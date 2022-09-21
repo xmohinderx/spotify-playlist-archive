@@ -1,12 +1,12 @@
 {
   "description": "The melancholic and soft sound of Jazz.",
-  "num_followers": 51529,
+  "num_followers": 51706,
   "original_name": "Jazz Noir",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMyOTM2MiwwMDAwMDAwMGM3ZGNjMjI5YmQwNmY4Zjc2OTZiNTUwODBkNjliMWQ2",
+  "snapshot_id": "MTY2MzMyOTM2MiwwMDAwMDAwMGRhNzc4ZjkyOWM0MjhmZTVlNmM5ZjIzN2Q5YzEyMzI2",
   "tracks": [
     {
       "added_at": "2022-09-16 11:56:02",
@@ -467,18 +467,18 @@
     {
       "added_at": "2022-09-16 11:56:02",
       "album": {
-        "name": "Somethin' Else (Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/3Wu0chxAm4GxSeRnIIf2Om"
+        "name": "A Swingin' Affair",
+        "url": "https://open.spotify.com/album/2MDFi0jt8SnjYIFwgtU2Q3"
       },
       "artists": [
         {
-          "name": "Cannonball Adderley",
-          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
+          "name": "Dexter Gordon",
+          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
         }
       ],
-      "duration_ms": 247200,
-      "name": "Dancing In The Dark",
-      "url": "https://open.spotify.com/track/5DDx7lVobjWfLyvRDtW7BX"
+      "duration_ms": 409840,
+      "name": "(It Will Have To Do) Until The Real Thing Comes Along - Remastered",
+      "url": "https://open.spotify.com/track/37MsN9jkHraBoRU0rbl64A"
     },
     {
       "added_at": "2022-09-16 11:56:02",
@@ -519,18 +519,18 @@
     {
       "added_at": "2022-09-16 11:56:02",
       "album": {
-        "name": "A Swingin' Affair",
-        "url": "https://open.spotify.com/album/2MDFi0jt8SnjYIFwgtU2Q3"
+        "name": "Somethin' Else (Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/3Wu0chxAm4GxSeRnIIf2Om"
       },
       "artists": [
         {
-          "name": "Dexter Gordon",
-          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+          "name": "Cannonball Adderley",
+          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
         }
       ],
-      "duration_ms": 409840,
-      "name": "(It Will Have To Do) Until The Real Thing Comes Along - Remastered",
-      "url": "https://open.spotify.com/track/37MsN9jkHraBoRU0rbl64A"
+      "duration_ms": 247200,
+      "name": "Dancing In The Dark",
+      "url": "https://open.spotify.com/track/5DDx7lVobjWfLyvRDtW7BX"
     },
     {
       "added_at": "2022-09-16 11:56:02",
@@ -635,6 +635,22 @@
     {
       "added_at": "2022-09-16 11:56:02",
       "album": {
+        "name": "Mingus Mingus Mingus Mingus Mingus",
+        "url": "https://open.spotify.com/album/12DCd8u80PoRIvBgjQrtuH"
+      },
+      "artists": [
+        {
+          "name": "Charles Mingus",
+          "url": "https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H"
+        }
+      ],
+      "duration_ms": 285933,
+      "name": "Mood Indigo",
+      "url": "https://open.spotify.com/track/2Z7ktNuO2YsY2wS5FC62k4"
+    },
+    {
+      "added_at": "2022-09-16 11:56:02",
+      "album": {
         "name": "Way Out West (OJC Remaster)",
         "url": "https://open.spotify.com/album/6pWgCHxQp3DYbPKxduwvmC"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 471173,
       "name": "Solitude",
       "url": "https://open.spotify.com/track/6W25U2EbDixQbLbqpjz0TT"
-    },
-    {
-      "added_at": "2022-09-16 11:56:02",
-      "album": {
-        "name": "Song For My Father",
-        "url": "https://open.spotify.com/album/4LEnATSqKeANOJ0mLUAuCE"
-      },
-      "artists": [
-        {
-          "name": "Horace Silver",
-          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
-        }
-      ],
-      "duration_ms": 422933,
-      "name": "Lonely Woman - Remastered 1999/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/23VGdNEZzKVCpIazC3ZHK6"
     },
     {
       "added_at": "2022-09-16 11:56:02",
@@ -683,18 +683,18 @@
     {
       "added_at": "2022-09-16 11:56:02",
       "album": {
-        "name": "Mingus Mingus Mingus Mingus Mingus",
-        "url": "https://open.spotify.com/album/12DCd8u80PoRIvBgjQrtuH"
+        "name": "Song For My Father",
+        "url": "https://open.spotify.com/album/4LEnATSqKeANOJ0mLUAuCE"
       },
       "artists": [
         {
-          "name": "Charles Mingus",
-          "url": "https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H"
+          "name": "Horace Silver",
+          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
         }
       ],
-      "duration_ms": 285933,
-      "name": "Mood Indigo",
-      "url": "https://open.spotify.com/track/2Z7ktNuO2YsY2wS5FC62k4"
+      "duration_ms": 422933,
+      "name": "Lonely Woman - Remastered 1999/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/23VGdNEZzKVCpIazC3ZHK6"
     },
     {
       "added_at": "2022-09-16 11:56:02",
@@ -767,22 +767,6 @@
     {
       "added_at": "2022-09-16 11:56:02",
       "album": {
-        "name": "The Bridge",
-        "url": "https://open.spotify.com/album/4IUPjc5q4g3MlRC2TFHHOJ"
-      },
-      "artists": [
-        {
-          "name": "Sonny Rollins",
-          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
-        }
-      ],
-      "duration_ms": 310666,
-      "name": "Where Are You - Remastered",
-      "url": "https://open.spotify.com/track/3EvT0m0eRWFtdXA89M2sk8"
-    },
-    {
-      "added_at": "2022-09-16 11:56:02",
-      "album": {
         "name": "Jazz Impressions Of New York",
         "url": "https://open.spotify.com/album/595TGZHxJLd3Zwu1Rlz5RH"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 328066,
       "name": "Autumn in Washington Square",
       "url": "https://open.spotify.com/track/5I3dI6HaVLW34JxNYxB7sn"
+    },
+    {
+      "added_at": "2022-09-16 11:56:02",
+      "album": {
+        "name": "The Bridge",
+        "url": "https://open.spotify.com/album/4IUPjc5q4g3MlRC2TFHHOJ"
+      },
+      "artists": [
+        {
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+        }
+      ],
+      "duration_ms": 310666,
+      "name": "Where Are You - Remastered",
+      "url": "https://open.spotify.com/track/3EvT0m0eRWFtdXA89M2sk8"
     },
     {
       "added_at": "2022-09-16 11:56:02",
@@ -867,22 +867,6 @@
     {
       "added_at": "2022-09-16 11:56:02",
       "album": {
-        "name": "Inside Betty Carter",
-        "url": "https://open.spotify.com/album/3rFnwsVrrSYZQsCGTkOT7W"
-      },
-      "artists": [
-        {
-          "name": "Betty Carter",
-          "url": "https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ"
-        }
-      ],
-      "duration_ms": 317906,
-      "name": "Spring Can Really Hang You Up The Most",
-      "url": "https://open.spotify.com/track/2xnCxYTSqq7qJZupXFO5Lq"
-    },
-    {
-      "added_at": "2022-09-16 11:56:02",
-      "album": {
         "name": "Leapin' And Lopin'",
         "url": "https://open.spotify.com/album/2akec72Ypln9yScfhHo8rm"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 402799,
       "name": "Deep In A Dream",
       "url": "https://open.spotify.com/track/0em61RfC2p6XAi9cBSEjE6"
+    },
+    {
+      "added_at": "2022-09-16 11:56:02",
+      "album": {
+        "name": "Inside Betty Carter",
+        "url": "https://open.spotify.com/album/3rFnwsVrrSYZQsCGTkOT7W"
+      },
+      "artists": [
+        {
+          "name": "Betty Carter",
+          "url": "https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ"
+        }
+      ],
+      "duration_ms": 317906,
+      "name": "Spring Can Really Hang You Up The Most",
+      "url": "https://open.spotify.com/track/2xnCxYTSqq7qJZupXFO5Lq"
     },
     {
       "added_at": "2022-09-16 11:56:02",
@@ -979,22 +979,18 @@
     {
       "added_at": "2022-09-16 11:56:02",
       "album": {
-        "name": "Coleman Hawkins Encounters Ben Webster (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5AmT3edRjRxnDR2ZVW3QJZ"
+        "name": "Dexter Blows Hot & Cool",
+        "url": "https://open.spotify.com/album/007UOKwZqyvqWhjcIHlYqI"
       },
       "artists": [
         {
-          "name": "Coleman Hawkins",
-          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
-        },
-        {
-          "name": "Ben Webster",
-          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
+          "name": "Dexter Gordon",
+          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
         }
       ],
-      "duration_ms": 252893,
-      "name": "Prisoner Of Love",
-      "url": "https://open.spotify.com/track/6lO3wImM4oMAhOzDptCqa6"
+      "duration_ms": 222763,
+      "name": "Cry Me A River",
+      "url": "https://open.spotify.com/track/1ZAJSDOejLqTsKZ5LSvCOv"
     },
     {
       "added_at": "2022-09-16 11:56:02",
@@ -1035,18 +1031,18 @@
     {
       "added_at": "2022-09-16 11:56:02",
       "album": {
-        "name": "Dexter Blows Hot & Cool",
-        "url": "https://open.spotify.com/album/007UOKwZqyvqWhjcIHlYqI"
+        "name": "Art",
+        "url": "https://open.spotify.com/album/3jsIHlh7BZr0HHvzPHi84G"
       },
       "artists": [
         {
-          "name": "Dexter Gordon",
-          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+          "name": "Art Farmer",
+          "url": "https://open.spotify.com/artist/4L9xEztn5PKQIO5WnI5W3u"
         }
       ],
-      "duration_ms": 222763,
-      "name": "Cry Me A River",
-      "url": "https://open.spotify.com/track/1ZAJSDOejLqTsKZ5LSvCOv"
+      "duration_ms": 333493,
+      "name": "I'm A Fool To Want",
+      "url": "https://open.spotify.com/track/3410BOLt7ZrWxZaQHeqTmZ"
     },
     {
       "added_at": "2022-09-16 11:56:02",
@@ -1067,18 +1063,22 @@
     {
       "added_at": "2022-09-16 11:56:02",
       "album": {
-        "name": "Art",
-        "url": "https://open.spotify.com/album/3jsIHlh7BZr0HHvzPHi84G"
+        "name": "Coleman Hawkins Encounters Ben Webster (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5AmT3edRjRxnDR2ZVW3QJZ"
       },
       "artists": [
         {
-          "name": "Art Farmer",
-          "url": "https://open.spotify.com/artist/4L9xEztn5PKQIO5WnI5W3u"
+          "name": "Coleman Hawkins",
+          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
+        },
+        {
+          "name": "Ben Webster",
+          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
         }
       ],
-      "duration_ms": 333493,
-      "name": "I'm A Fool To Want",
-      "url": "https://open.spotify.com/track/3410BOLt7ZrWxZaQHeqTmZ"
+      "duration_ms": 252893,
+      "name": "Prisoner Of Love",
+      "url": "https://open.spotify.com/track/6lO3wImM4oMAhOzDptCqa6"
     },
     {
       "added_at": "2022-09-16 11:56:02",

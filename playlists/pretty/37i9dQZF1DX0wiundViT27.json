@@ -1,12 +1,12 @@
 {
   "description": "A dose of high-energy, feel-good rock tunes.",
-  "num_followers": 611858,
+  "num_followers": 611874,
   "original_name": "Rock Me Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDg4MTYwMCwwMDAwMDAwMDQ0M2JlN2RmZTZjZDY2ZmJkOTM1ZWQ5OWI0NjA0NDEz",
+  "snapshot_id": "MTY2MDg4MTYwMCwwMDAwMDAwMGEyNzlmN2U3MTM1YjhmZTMyNWQxYWQ3ZDQ1ZDQwMmU5",
   "tracks": [
     {
       "added_at": "2022-08-19 04:00:00",
@@ -623,22 +623,6 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "Natural Born Killer/Pink Lullabye",
-        "url": "https://open.spotify.com/album/379z7WiokF2pa4kKUgVjRF"
-      },
-      "artists": [
-        {
-          "name": "Highly Suspect",
-          "url": "https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg"
-        }
-      ],
-      "duration_ms": 196135,
-      "name": "Natural Born Killer",
-      "url": "https://open.spotify.com/track/78wMThFTNKThsWq19o0F1H"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
         "name": "With Teeth",
         "url": "https://open.spotify.com/album/56Us3Q6UIM4jKJZlWhqddL"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 211680,
       "name": "The Hand That Feeds",
       "url": "https://open.spotify.com/track/5ugzDiilhy6ILKmKfhEzd7"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
+        "name": "Natural Born Killer/Pink Lullabye",
+        "url": "https://open.spotify.com/album/379z7WiokF2pa4kKUgVjRF"
+      },
+      "artists": [
+        {
+          "name": "Highly Suspect",
+          "url": "https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg"
+        }
+      ],
+      "duration_ms": 196135,
+      "name": "Natural Born Killer",
+      "url": "https://open.spotify.com/track/78wMThFTNKThsWq19o0F1H"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -803,22 +803,6 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "Life's Coming in Slow (from GRAN TURISMO 7)",
-        "url": "https://open.spotify.com/album/6SCFmqcXOVneLBo6eks8k1"
-      },
-      "artists": [
-        {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
-        }
-      ],
-      "duration_ms": 169655,
-      "name": "Life's Coming in Slow - from GRAN TURISMO 7",
-      "url": "https://open.spotify.com/track/24SyVpif5eshcNmLKdvOcj"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
         "name": "Don't Miss",
         "url": "https://open.spotify.com/album/5yHrrUGbMoZxefRxJY1LN9"
       },
@@ -835,18 +819,18 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "indieedgycool",
-        "url": "https://open.spotify.com/album/4QmiBPsOgNxhjYrbDSaFhQ"
+        "name": "Life's Coming in Slow (from GRAN TURISMO 7)",
+        "url": "https://open.spotify.com/album/6SCFmqcXOVneLBo6eks8k1"
       },
       "artists": [
         {
-          "name": "GAYLE",
-          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
         }
       ],
-      "duration_ms": 146769,
-      "name": "indieedgycool",
-      "url": "https://open.spotify.com/track/7nl5O8gRhQBCZUv3WHFxoV"
+      "duration_ms": 169655,
+      "name": "Life's Coming in Slow - from GRAN TURISMO 7",
+      "url": "https://open.spotify.com/track/24SyVpif5eshcNmLKdvOcj"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -867,6 +851,22 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
+        "name": "indieedgycool",
+        "url": "https://open.spotify.com/album/4QmiBPsOgNxhjYrbDSaFhQ"
+      },
+      "artists": [
+        {
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+        }
+      ],
+      "duration_ms": 146769,
+      "name": "indieedgycool",
+      "url": "https://open.spotify.com/track/7nl5O8gRhQBCZUv3WHFxoV"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
         "name": "you're not special",
         "url": "https://open.spotify.com/album/7vvGNS9MRPrzfi0cHbDeQC"
       },
@@ -883,22 +883,6 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "Eye of the Storm",
-        "url": "https://open.spotify.com/album/6qqCXmeilVuyFxSaOpp59b"
-      },
-      "artists": [
-        {
-          "name": "Pop Evil",
-          "url": "https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2"
-        }
-      ],
-      "duration_ms": 234149,
-      "name": "Eye of the Storm",
-      "url": "https://open.spotify.com/track/0TTSQeJnGnpCxX7LWsdD9F"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
         "name": "TIRED OF WINNING",
         "url": "https://open.spotify.com/album/7zH2ySKpWjzJHX76zWG7SY"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 206586,
       "name": "TIRED OF WINNING",
       "url": "https://open.spotify.com/track/0PZrUz3FLIkW8j7GaFbYBO"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
+        "name": "Eye of the Storm",
+        "url": "https://open.spotify.com/album/6qqCXmeilVuyFxSaOpp59b"
+      },
+      "artists": [
+        {
+          "name": "Pop Evil",
+          "url": "https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2"
+        }
+      ],
+      "duration_ms": 234149,
+      "name": "Eye of the Storm",
+      "url": "https://open.spotify.com/track/0TTSQeJnGnpCxX7LWsdD9F"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "Typhoons",
-        "url": "https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi"
-      },
-      "artists": [
-        {
-          "name": "Royal Blood",
-          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
-        }
-      ],
-      "duration_ms": 236933,
-      "name": "Typhoons",
-      "url": "https://open.spotify.com/track/5aFGo8wHEntVxFI8IF7Wuj"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
         "name": "Foxglove",
         "url": "https://open.spotify.com/album/0l684ODdBRRFtnBrNn6wSd"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 218552,
       "name": "Foxglove",
       "url": "https://open.spotify.com/track/3kpW19uTVTQF9EYJ9jhIOG"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
+        "name": "Typhoons",
+        "url": "https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi"
+      },
+      "artists": [
+        {
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+        }
+      ],
+      "duration_ms": 236933,
+      "name": "Typhoons",
+      "url": "https://open.spotify.com/track/5aFGo8wHEntVxFI8IF7Wuj"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
+        "name": "Outrage! Is Now",
+        "url": "https://open.spotify.com/album/4kKKH6cFBtNd9etSJzkMjZ"
+      },
+      "artists": [
+        {
+          "name": "Death From Above 1979",
+          "url": "https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj"
+        }
+      ],
+      "duration_ms": 198081,
+      "name": "Freeze Me",
+      "url": "https://open.spotify.com/track/50jXnyrzW4mcBBqFTMEoAC"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
         "name": "\u2022NOTDEAD!\u2022",
         "url": "https://open.spotify.com/album/3wSkJjnc6ayPUKr8X8ucUK"
       },
@@ -1139,22 +1155,6 @@
       "duration_ms": 203273,
       "name": "Be Legendary",
       "url": "https://open.spotify.com/track/3pOMQhSSzx6IZ96kMef6i1"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
-        "name": "Outrage! Is Now",
-        "url": "https://open.spotify.com/album/4kKKH6cFBtNd9etSJzkMjZ"
-      },
-      "artists": [
-        {
-          "name": "Death From Above 1979",
-          "url": "https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj"
-        }
-      ],
-      "duration_ms": 198081,
-      "name": "Freeze Me",
-      "url": "https://open.spotify.com/track/50jXnyrzW4mcBBqFTMEoAC"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -1223,22 +1223,18 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "Heat Seeker",
-        "url": "https://open.spotify.com/album/56XJWuqnHhxXsM73y8ecZM"
+        "name": "Wildfire",
+        "url": "https://open.spotify.com/album/1EEFnTyINt6GLnTrNJH1zT"
       },
       "artists": [
         {
-          "name": "DREAMERS",
-          "url": "https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A"
-        },
-        {
-          "name": "grandson",
-          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
+          "name": "Against The Current",
+          "url": "https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B"
         }
       ],
-      "duration_ms": 175342,
-      "name": "Heat Seeker",
-      "url": "https://open.spotify.com/track/7noHzxuNmeIwYftylZfVRT"
+      "duration_ms": 166779,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/2yHmIxXi48DFl6zQlIhEaj"
     }
   ],
   "unique_name": "Rock Me Up",

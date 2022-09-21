@@ -666,6 +666,24 @@
     },
     {
       "album": {
+        "name": "Between All Things",
+        "url": "https://open.spotify.com/album/0vLJbkcXDXkSar4Hmzn7kX"
+      },
+      "artists": [
+        {
+          "name": "OHMA",
+          "url": "https://open.spotify.com/artist/7mbyocfSOEDLUpdGRyDVgx"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318378,
+      "name": "Between All Things",
+      "url": "https://open.spotify.com/track/7jLjQEkCOJCULvabedRnCL"
+    },
+    {
+      "album": {
         "name": "There's Always Glimmer",
         "url": "https://open.spotify.com/album/4W0GjlWkF5lLRiw6hF9UU8"
       },
@@ -2672,6 +2690,24 @@
     },
     {
       "album": {
+        "name": "Here With Me",
+        "url": "https://open.spotify.com/album/1HPTbRqv30KYao7mpuZ6dm"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242484,
+      "name": "Here With Me",
+      "url": "https://open.spotify.com/track/4U4h7WNNyvhpdaDgHSdD4j"
+    },
+    {
+      "album": {
         "name": "Apolonio",
         "url": "https://open.spotify.com/album/7HlxxaJOHK0ArY4Ae4Qfc7"
       },
@@ -3099,7 +3135,7 @@
       ],
       "date_added": "2020-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 222400,
       "name": "I'll Come Too",
       "url": "https://open.spotify.com/track/6EvUAsfncetT0RcWshHCbl"
@@ -4627,7 +4663,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 256000,
       "name": "Out Getting Ribs",
       "url": "https://open.spotify.com/track/30JUrbIq4PsRjIvDz8freE"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKpvyAAcaNZ.md) - [plain]
 
 > It's edgy, innovative, and rooted in soul, folk, Americana, and of course, the blues\. Cover: Ben Harper
 
-[Spotify](https://open.spotify.com/user/spotify) - 577,178 likes - 150 songs - 9 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 577,283 likes - 150 songs - 9 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKpvyAAcaNZ.md) - [plain]
 | 38 | [Need To Know Basis](https://open.spotify.com/track/03medhiG64fBChIiDBTNPK) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Need To Know Basis](https://open.spotify.com/album/1OIHlXoGI7Ybv44vuI8oP3) | 1:59 |
 | 39 | [Be Enough](https://open.spotify.com/track/2bZQo6fEj21r1gDz8nKBbq) | [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y) | [Be Enough](https://open.spotify.com/album/23MBziPP4TVvxaRjIsi3Px) | 4:12 |
 | 40 | [Baby We're Through](https://open.spotify.com/track/2TQjuRQINEQxEWpqaGZM7F) | [Ghost Hounds](https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor) | [Baby We're Through](https://open.spotify.com/album/07BLwEv9lflgXcyLqihBNU) | 3:56 |
-| 41 | [Under the Sun](https://open.spotify.com/track/1GQ7M3b1B4Dt9lMjoBOGcl) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B V](https://open.spotify.com/album/5QNjmWuzmbjl0I27zqdFJ7) | 4:52 |
+| 41 | [Under the Sun](https://open.spotify.com/track/1fTW6CCD4RFNnsKhxWKCFs) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B V](https://open.spotify.com/album/52O3QyngsXELzoDyyIsZuQ) | 4:52 |
 | 42 | [You Were Mine](https://open.spotify.com/track/4cmSWeG4xfAJboduGW9g8A) | [Tami Neilson](https://open.spotify.com/artist/4PmC63uE7ZLY5TI3p0PGd3) | [CHICKABOOM! Deluxe](https://open.spotify.com/album/53hH23tLuN4ggfQ3g7O3fY) | 3:43 |
 | 43 | [Low Down Rolling Stone](https://open.spotify.com/track/59oXRNRnmmTbwgkZkV7l4g) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [This Land](https://open.spotify.com/album/6pwdy6oQdwSQo8XOfpfAJJ) | 4:18 |
 | 44 | [She's A Self Made Man](https://open.spotify.com/track/7Bu4ET2R5zKAeqM68l3Oqk) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [She's A Self Made Man](https://open.spotify.com/album/6dzXBWjuzGjI5TQxJWBh7G) | 3:01 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKpvyAAcaNZ.md) - [plain]
 | 149 | [I Killed Robert Johnson](https://open.spotify.com/track/7eogexfpzqrkrJ8Z6B9kHQ) | [The Stone Foxes](https://open.spotify.com/artist/40N10exWtaCVUtBMftQn3t) | [Bears & Bulls](https://open.spotify.com/album/53N4FKFKdWe2i5JeRgEOkt) | 5:25 |
 | 150 | [So Long Gone](https://open.spotify.com/track/5T9PcJQ7S24pnvtrIVSSmq) | [Pete Molinari](https://open.spotify.com/artist/4BrRTXokeSeCxUuJcZYq57), [Dan Auerbach](https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC) | [Theosophy](https://open.spotify.com/album/1Uiz1myYQrTrmUrwZDQAhs) | 3:32 |
 
-Snapshot ID: `MTY2MjY5NjAwMCwwMDAwMDAwMGMzZDBiODg1MTcxYTc1Y2E3ZGE4MTA3YTgxNWY3NDU4`
+Snapshot ID: `MTY2MjY5NjAwMCwwMDAwMDAwMGE3YjIwOTIzNTEwODg5YmY1ODNjYWViMmVmYmJhYzdm`

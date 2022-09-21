@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLL3REk8t1E.md) - [plain]
 
 > ¡A calentar garganta!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,083,352 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,083,484 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,14 +85,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLL3REk8t1E.md) - [plain]
 | 75 | [Aunque Ahora Estés Con Él](https://open.spotify.com/track/49ItgqFP5shdUdK9ggonW0) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Aunque Ahora Estés Con Él](https://open.spotify.com/album/7qS6xf08vzZcHRgwnQsGRP) | 3:34 |
 | 76 | [Mi Enemigo El Amor](https://open.spotify.com/track/3V5mrjHNr7VFhcUJ5oh45V) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [El Vagabundo Que Te Ama](https://open.spotify.com/album/4aHIYnbJXldkqugU3YpRSs) | 3:54 |
 | 77 | [El Rey De Mil Coronas \- Live](https://open.spotify.com/track/1c0i26VMuRPQotPKBDfnzd) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Desvelada Con Banda y Mariachi](https://open.spotify.com/album/4XbELhyxUc6LUWu3sewRnf) | 2:27 |
-| 78 | [Caballero](https://open.spotify.com/track/5DL6BDuqhnQw8HfIvUYkm9) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Caballero](https://open.spotify.com/album/0hfscUH57noj17kB2Aun2C) | 3:48 |
+| 78 | [Tragos Amargos](https://open.spotify.com/track/3hqlTqu571M1MqRWX6ZX0x) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Tragos Amargos](https://open.spotify.com/album/3bY0J2yoFogW28oX2mwQyo) | 2:41 |
 | 79 | [Seis Pies Abajo](https://open.spotify.com/track/6oiKbZIaQ8A0Rnsq9jMJ1E) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [De Mexico para el Mundo](https://open.spotify.com/album/32TIJn1x8SCsHVCswGnQZQ) | 2:56 |
-| 80 | [Tragos Amargos](https://open.spotify.com/track/3hqlTqu571M1MqRWX6ZX0x) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Tragos Amargos](https://open.spotify.com/album/3bY0J2yoFogW28oX2mwQyo) | 2:41 |
+| 80 | [Caballero](https://open.spotify.com/track/5DL6BDuqhnQw8HfIvUYkm9) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Caballero](https://open.spotify.com/album/0hfscUH57noj17kB2Aun2C) | 3:48 |
 | 81 | [¿Por Qué Terminamos?](https://open.spotify.com/track/1nK0XDR5ZdBfBMfkS5SXRF) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Hoy Más Fuerte](https://open.spotify.com/album/2OAr7CKU64w3VzHkSsdC46) | 3:01 |
 | 82 | [Te Vas a Arrepentir](https://open.spotify.com/track/2uAqlWmMNq1CJSezD2b2Fj) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Te Vas a Arrepentir](https://open.spotify.com/album/0EcTd4rBSHWuk8bp86vk06) | 3:51 |
-| 83 | [Casi Algo \- Versión Mariachi](https://open.spotify.com/track/5zwhq3lsGiks3Uffseze9o) | [Uriel Barrera](https://open.spotify.com/artist/3pfVmZKUiPAsoIVAa1I8lH) | [Casi Algo \(Versión Mariachi\)](https://open.spotify.com/album/6z6XxuId7yju4sXvtkez0d) | 2:12 |
+| 83 | [Mujeres Divinas](https://open.spotify.com/track/2PxGGRmj5yunYdNF2Ud2vm) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [El Cuatrero](https://open.spotify.com/album/7La2o9LMM9fFhHpkBAZZxP) | 3:09 |
 | 84 | [Entonces Que Somos](https://open.spotify.com/track/4xgBQfC09yhhY44xgcN6vx) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Haciendo Historia](https://open.spotify.com/album/3rgETN4XlGeTJaU4w1BfEO) | 3:20 |
-| 85 | [Mujeres Divinas](https://open.spotify.com/track/2PxGGRmj5yunYdNF2Ud2vm) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [El Cuatrero](https://open.spotify.com/album/7La2o9LMM9fFhHpkBAZZxP) | 3:09 |
+| 85 | [Casi Algo \- Versión Mariachi](https://open.spotify.com/track/5zwhq3lsGiks3Uffseze9o) | [Uriel Barrera](https://open.spotify.com/artist/3pfVmZKUiPAsoIVAa1I8lH) | [Casi Algo \(Versión Mariachi\)](https://open.spotify.com/album/6z6XxuId7yju4sXvtkez0d) | 2:12 |
 | 86 | [Ahí Donde Me Ven](https://open.spotify.com/track/4kdmt0MDdze6TZvyU0Fmqg) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Ahí Donde Me Ven](https://open.spotify.com/album/6M9GNcF5jLv8CNmDlFrGid) | 4:04 |
 | 87 | [Moños Negros](https://open.spotify.com/track/1DAIPsYEXEOaOlJaG8Lv0w) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Moños Negros](https://open.spotify.com/album/5amUm1QKYdr7cW3T4uoUX9) | 3:22 |
 | 88 | [No](https://open.spotify.com/track/5EIGTiQSk0WCwwBvvbciJT) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [De Noche \- Clasicos A Mi Manera](https://open.spotify.com/album/7A8jjPIYtiY0ZXhzmd9Oms) | 3:18 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLL3REk8t1E.md) - [plain]
 | 99 | [Ya No Quiero Andar Contigo](https://open.spotify.com/track/00XB6UnshchPDNdCvXzokD) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh) | [Ya No Quiero Andar Contigo](https://open.spotify.com/album/00xw9cwU9fJbQKQrCHYDJI) | 3:32 |
 | 100 | [Desaires](https://open.spotify.com/track/1Kr3Yod5u7TrZMTPqOeNto) | [Laraim](https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Pa' Los Dolidos](https://open.spotify.com/album/2GQFwhWhS0guyuKxD7hoMi) | 2:41 |
 
-Snapshot ID: `MTY1OTU1MzE2NiwwMDAwMDAwMDc3NmMxZDhkNDVkN2FiNWVhMDkzODE3ZjYyYTIyZGNj`
+Snapshot ID: `MTY1OTU1MzE2NiwwMDAwMDAwMGIxOGFhYmY5NjZlMDFhODY3OTNjNGNlOGQ5MThhOTM1`

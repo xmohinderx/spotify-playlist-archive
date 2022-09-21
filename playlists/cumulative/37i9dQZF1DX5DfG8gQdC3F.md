@@ -4,7 +4,7 @@
 
 > All the best new tracks this week, all in one place\. Cover: Jessie Reyez
 
-3,819 songs - 8 day 11 hr 32 min - [published](https://open.spotify.com/playlist/0hFWp2G6YuhbNzCZerTb0q)
+3,820 songs - 8 day 11 hr 36 min - [published](https://open.spotify.com/playlist/0hFWp2G6YuhbNzCZerTb0q)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,7 +144,8 @@
 | [All 4 Nothing \(I'm So In Love\)](https://open.spotify.com/track/21AziTMaZwcLflGMAj85o5) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [All 4 Nothing \(I'm So In Love\)](https://open.spotify.com/album/0krbjj0iriZnWpy1Vi8tUd) | 3:02 | 2022-04-08 | 2022-04-16 |
 | [ALL ABOUT ME](https://open.spotify.com/track/3EtksbbfZ5mNPwMVkLhWhL) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [ALL ABOUT ME](https://open.spotify.com/album/2VK0WXTW6jGf4BsryzurVP) | 1:37 | 2022-04-01 | 2022-04-09 |
 | [All Aces](https://open.spotify.com/track/6LZys87Q37Jr3RKWDFUkRF) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [Byg Byrd](https://open.spotify.com/artist/1QO8PBgZ3Cv1xtKyw9ihjT), [Blamo](https://open.spotify.com/artist/217YiebQLxLOSubsItInzR) | [All Aces](https://open.spotify.com/album/58xwAleBBDucWbz7xukMsh) | 3:21 | 2022-01-07 | 2022-01-15 |
-| [All Along \(Kaytranada Remix\)](https://open.spotify.com/track/35WIVWDcONu3B64ZcYbPX6) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [All Along \(Kaytranada Remix\)](https://open.spotify.com/album/3UtKaTe3ZGpNo0cVdffTCi) | 4:44 | 2022-09-16 |  |
+| [All Along \(Kaytranada Remix\)](https://open.spotify.com/track/35WIVWDcONu3B64ZcYbPX6) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [All Along \(Kaytranada Remix\)](https://open.spotify.com/album/3UtKaTe3ZGpNo0cVdffTCi) | 4:44 | 2022-09-16 | 2022-09-21 |
+| [All Along \(Kaytranada Remix\)](https://open.spotify.com/track/3fTwZdX5X3BIsdEJvai7Be) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Play With The Changes \(Remixed\)](https://open.spotify.com/album/3fMIqhERSssKur9QOqa5X1) | 4:44 | 2022-09-16 |  |
 | [All at Once](https://open.spotify.com/track/6n9tl2bJYBRlWwdzAoAaUS) | [Jesse Mac Cormack](https://open.spotify.com/artist/2H8M8TXbgq7ZF676K4Zm2C) | [All at Once](https://open.spotify.com/album/3w8w1LT7ecbsDwWvYpQJeK) | 3:46 | 2022-04-08 | 2022-04-16 |
 | [All Comes Crashing](https://open.spotify.com/track/1gKLWryPONC9dyrx5fX3Dr) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [All Comes Crashing](https://open.spotify.com/album/7uOTYWH3RBce6YFD7hRnvY) | 4:23 | 2022-04-29 | 2022-05-07 |
 | [All Day](https://open.spotify.com/track/5htQl1fFBVyMCcaYlkq5sV) | [Nicole Chambers](https://open.spotify.com/artist/5kvxSGkZcVesEX2mqw0AtC) | [All Day](https://open.spotify.com/album/5BfxdwzF7282Kn8G3VNF1Z) | 2:57 | 2022-06-17 | 2022-06-25 |

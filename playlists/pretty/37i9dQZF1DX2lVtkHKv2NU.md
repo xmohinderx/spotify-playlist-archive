@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lVtkHKv2NU.md) - [plain]
 
 > me gustas mucho\. <3 I've got a crush on you.
 
-[Spotify](https://open.spotify.com/user/spotify) - 268,264 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 268,418 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lVtkHKv2NU.md) - [plain]
 | 67 | [Therefore I Am](https://open.spotify.com/track/54bFM56PmE4YLRnqpW6Tha) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Therefore I Am](https://open.spotify.com/album/5G58VVE9ub1KE01Mvbd8XM) | 2:54 |
 | 68 | [Home](https://open.spotify.com/track/2qPSa6HXjzwa9sLhNGpA1T) | [Edith Whiskers](https://open.spotify.com/artist/15K8w0bfYieOr55vhSMgJN) | [Home](https://open.spotify.com/album/6FTZtwV3e6WYgVeRhi6Gbm) | 3:15 |
 | 69 | [Dancing in My Room](https://open.spotify.com/track/6Pgmqg15yVexuOgtzuxwoX) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [Dancing in My Room](https://open.spotify.com/album/3t1MvGhT6LU3fOIp3KMrta) | 3:00 |
-| 70 | [Falling for U](https://open.spotify.com/track/2xhGZ3WzOa3tir28y7Cb88) | [Peachy!](https://open.spotify.com/artist/7gvbCoLA8lJUktp8G2xIRR), [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [Falling for U](https://open.spotify.com/album/3PUmELve1Jt5EdFU6cv8Hb) | 2:04 |
-| 71 | [Runaway](https://open.spotify.com/track/0TCmhnbMpw5zwPsTvlXTJi) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [All My Demons Greeting Me as a Friend \(Deluxe\)](https://open.spotify.com/album/0ltlJlYNzuXoMMv7fie9D9) | 4:08 |
+| 70 | [Runaway](https://open.spotify.com/track/0TCmhnbMpw5zwPsTvlXTJi) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [All My Demons Greeting Me as a Friend \(Deluxe\)](https://open.spotify.com/album/0ltlJlYNzuXoMMv7fie9D9) | 4:08 |
+| 71 | [Falling for U](https://open.spotify.com/track/2xhGZ3WzOa3tir28y7Cb88) | [Peachy!](https://open.spotify.com/artist/7gvbCoLA8lJUktp8G2xIRR), [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [Falling for U](https://open.spotify.com/album/3PUmELve1Jt5EdFU6cv8Hb) | 2:04 |
 | 72 | [What A Shame](https://open.spotify.com/track/7FGIEAVXfegxngH9Jg6VwA) | [Leyla Blue](https://open.spotify.com/artist/6HpIVA13SPof8sYuXRUfxj) | [What A Shame](https://open.spotify.com/album/6CDPh3OAeHXOtZlyuaxELX) | 2:57 |
 | 73 | [Lost Cause](https://open.spotify.com/track/4191RXFPa7Ge9XkA4cWlna) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 3:32 |
 | 74 | [Habits \(Stay High\)](https://open.spotify.com/track/14OxJlLdcHNpgsm4DRwDOB) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Queen Of The Clouds](https://open.spotify.com/album/47C7w4o1resDhr7jvYEpxE) | 3:29 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lVtkHKv2NU.md) - [plain]
 | 99 | [Inside of My Eyelids](https://open.spotify.com/track/4Y2QuvgYFm30gcsToZmojA) | [DLG.](https://open.spotify.com/artist/6OjbjDH6ZfL9NWdioYibGP) | [Inside of My Eyelids](https://open.spotify.com/album/082w0kWPKkY25GsoqFSXqP) | 3:48 |
 | 100 | [Yours](https://open.spotify.com/track/0gmStTUTuiU807EB4KafOX) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Yours](https://open.spotify.com/album/0aMCgryYtjpLrk4FhcTSU9) | 3:40 |
 
-Snapshot ID: `MTY2MTUzOTQxNywwMDAwMDAwMDcxM2Q2NmI1ZjlkN2ZhYjNkYjYyZTM1ZmMzYzBhYzhl`
+Snapshot ID: `MTY2MTUzOTQxNywwMDAwMDAwMGRlZDUwNWViYTQ1YzY3NzVhOGNmMjFkMDExOTNkYTgz`

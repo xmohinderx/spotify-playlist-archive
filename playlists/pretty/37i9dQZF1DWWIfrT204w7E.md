@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWIfrT204w7E.md) - [plain]
 
 > Drill scenes connect\. Cover: 22Gz
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,603 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,665 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWIfrT204w7E.md) - [plain]
 | 7 | [Got It On Me](https://open.spotify.com/track/25zlnOAzbVoOzIeXSvQFf1) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Shoot For The Stars Aim For The Moon](https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc) | 2:44 |
 | 8 | [We Droppin' \(feat\. PGF Nuk\)](https://open.spotify.com/track/7LkIkjlWgXYIHgWW0DHsSg) | [Sha EK](https://open.spotify.com/artist/3jVAqTL4NbB88q4lj94VX9), [PGF Nuk](https://open.spotify.com/artist/0PUh7TSiwhSf0xL0b6SLXH) | [We Droppin' \(feat\. PGF Nuk\)](https://open.spotify.com/album/02a5YA3rWMRQz1ZqWZ19BA) | 2:38 |
 | 9 | [GATTI](https://open.spotify.com/track/40mjsnRjCpycdUw3xhS20g) | [JACKBOYS](https://open.spotify.com/artist/7A8S43ryYdbWpJKeHRZRcq), [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [JACKBOYS](https://open.spotify.com/album/1Sf8GsXG32t0jNrX11xqWx) | 3:01 |
-| 10 | [Headshot \(feat\. Polo G & Fivio Foreign\)](https://open.spotify.com/track/4eNOLmx8r2IJAVKvBBL1jv) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [Destined 2 Win](https://open.spotify.com/album/3MEKpJ7wSSp6Z661ThjrUJ) | 2:24 |
-| 11 | [Munch \(Feelin’ U\)](https://open.spotify.com/track/1jOgJN75btuUONIdf57vHz) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Munch \(Feelin’ U\)](https://open.spotify.com/album/0LgFPcU3P2HLGUtBQTBBpv) | 1:44 |
+| 10 | [Munch \(Feelin’ U\)](https://open.spotify.com/track/1jOgJN75btuUONIdf57vHz) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Munch \(Feelin’ U\)](https://open.spotify.com/album/0LgFPcU3P2HLGUtBQTBBpv) | 1:44 |
+| 11 | [Headshot \(feat\. Polo G & Fivio Foreign\)](https://open.spotify.com/track/4eNOLmx8r2IJAVKvBBL1jv) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [Destined 2 Win](https://open.spotify.com/album/3MEKpJ7wSSp6Z661ThjrUJ) | 2:24 |
 | 12 | [Off The Grid](https://open.spotify.com/track/6LNoArVBBVZzUTUiAX2aKO) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz) | 5:39 |
 | 13 | [Paris to Tokyo](https://open.spotify.com/track/5QvW5lK6mkfTegpAK9JOO7) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Paris to Tokyo](https://open.spotify.com/album/5BXl6r5L4zXQufLQjgkU6U) | 2:10 |
 | 14 | [Welcome To Brixton](https://open.spotify.com/track/7kQUdVjev73xIuwu7W6YW9) | [SR](https://open.spotify.com/artist/2NZN0JDhWXmMmhSXTbhm1h) | [Welcome To Brixton](https://open.spotify.com/album/2cJGDIj1sw0CRisyitZqdQ) | 3:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWIfrT204w7E.md) - [plain]
 | 49 | [Changed On Me \(feat\. Vory & Polo G\)](https://open.spotify.com/track/0aJMggmjMva3QFnAbmM2U9) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [B.I.B.L.E.](https://open.spotify.com/album/6np2Ix6RidhSseqw2dZovP) | 4:01 |
 | 50 | [Wow](https://open.spotify.com/track/1zEtEb820Vwe9giuUFXH7H) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt) | [Wow](https://open.spotify.com/album/50GEiFeJvh61ifn8ZWyH4Y) | 2:53 |
 
-Snapshot ID: `MTY2MzMwMTEwNiwwMDAwMDAwMGZmNzE3OTcwNTdjZDE4OTQ1MGU1ZmYzNGRkMjlhZjlm`
+Snapshot ID: `MTY2MzMwMTEwNiwwMDAwMDAwMDQ3ZjVmZTIxMmJkMWI2MGVmMjliZTlmNzg5MTI2OWE0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OMFcrBEcP3.md) - [plain]
 
 > The Corridos of yesterday and today all in one place!
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,772 likes - 77 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,794 likes - 77 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OMFcrBEcP3.md) - [plain]
 | 14 | [Hablando Claro \(En Vivo\)](https://open.spotify.com/track/5hRFjooNvZWb9gdnXjrv2j) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Grupo Recluta](https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo) | [Hablando Claro \(En Vivo\)](https://open.spotify.com/album/2F58yhcgZckSuL5pDXqEi8) | 3:10 |
 | 15 | [Descansando](https://open.spotify.com/track/3QXBaUQ8iwP2WI1GpQIP18) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Descansando](https://open.spotify.com/album/4n05Mdr8HuetVr4V6TWnWI) | 3:45 |
 | 16 | [Desde Morro](https://open.spotify.com/track/5u6lAvdS8mmHHTHQlC3TtN) | [Justin Morales](https://open.spotify.com/artist/5D7x9esAF6twPxuOqSMkeO) | [Desde Morro](https://open.spotify.com/album/6ruqxBlrH2BEZKZjgG3hSS) | 2:26 |
-| 17 | [La Escuela No Me Gustó](https://open.spotify.com/track/4qArKIA7dnmdushoBlkV94) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [Javier Rosas](https://open.spotify.com/artist/1JKku43pXGs9GM80XoWDzi) | [Señalado por Costumbre](https://open.spotify.com/album/0zwj2mx5EeRPkdU9r9yeXs) | 2:56 |
+| 17 | [La Escuela No Me Gustó](https://open.spotify.com/track/4qArKIA7dnmdushoBlkV94) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [Javier Rosas Y Su Artillería Pesada](https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE) | [Señalado por Costumbre](https://open.spotify.com/album/0zwj2mx5EeRPkdU9r9yeXs) | 2:56 |
 | 18 | [El Envidioso](https://open.spotify.com/track/53PoPAD389bBE4ePYuT95g) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Al Estilo Rancheron](https://open.spotify.com/album/7jomGVik8nyxBGpIMSCnRd) | 3:11 |
 | 19 | [El Karma](https://open.spotify.com/track/34eVjAbZ5CzAtZIVMDHL1C) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [El Karma \(Deluxe Version\)](https://open.spotify.com/album/2ReeGlHU8J7gkxsMGlpNhY) | 3:15 |
 | 20 | [Mis Tres Viejas](https://open.spotify.com/track/1yxJIFPhP2EqnQ6oWJKbmP) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Corridos De Primera Plana](https://open.spotify.com/album/368bh2s0aVeChSmOHvmXxz) | 2:42 |

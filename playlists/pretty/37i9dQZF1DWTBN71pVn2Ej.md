@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 
 > The best new alternative rock tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,719 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,826 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

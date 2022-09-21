@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9235ICuUcIM.md) - [plain]
 
 > A llorar a la llorería.
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,383 likes - 60 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,631 likes - 60 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,13 +16,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9235ICuUcIM.md) - [plain]
 | 6 | [Terraformar](https://open.spotify.com/track/4ZDdMGTlSgm7ATgbx4pZlP) | [El David](https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b) | [Terraformar](https://open.spotify.com/album/3CT4nIVAbLmPqCK3LtFMzK) | 2:20 |
 | 7 | [Someone You Loved](https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent](https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70) | 3:02 |
 | 8 | [Florecer](https://open.spotify.com/track/0uEwlYeHAiVNUCcXbx6ntR) | [valeria dávila](https://open.spotify.com/artist/2CoZrPsp90NW3x0jvWKmbj) | [Florecer](https://open.spotify.com/album/3KvbOKpjZB95IwRwnW0TZk) | 3:34 |
-| 9 | [august](https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:21 |
+| 9 | [Heather](https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 3:18 |
 | 10 | [las consecuencias](https://open.spotify.com/track/0x3M7EQkASM6NQW53mNK9d) | [Jaze](https://open.spotify.com/artist/5HUVDs80ZZCRRB9grwWzZc) | [las consecuencias](https://open.spotify.com/album/2jcKhSAes8tIw5GXH91Ks9) | 3:11 |
-| 11 | [Heather](https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 3:18 |
+| 11 | [august](https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:21 |
 | 12 | [Love In The Dark](https://open.spotify.com/track/7B5Npv8NjjTCzk8PLpU66h) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi) | 4:45 |
 | 13 | [Fuera del mercado](https://open.spotify.com/track/1UdzJEpgJxtuXAlCOvD4S0) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [@dannocean](https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I) | 2:39 |
-| 14 | [Un Verano Sin Ti](https://open.spotify.com/track/18HOjcvTVV7W8YzBuOsAPS) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 2:28 |
-| 15 | [When I Was Your Man](https://open.spotify.com/track/0nJW01T7XtvILxQgC5J7Wh) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Unorthodox Jukebox](https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI) | 3:33 |
+| 14 | [When I Was Your Man](https://open.spotify.com/track/0nJW01T7XtvILxQgC5J7Wh) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Unorthodox Jukebox](https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI) | 3:33 |
+| 15 | [Un Verano Sin Ti](https://open.spotify.com/track/18HOjcvTVV7W8YzBuOsAPS) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 2:28 |
 | 16 | [Photograph](https://open.spotify.com/track/1HNkqx9Ahdgi1Ixy2xkKkL) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Deluxe Edition\)](https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd) | 4:18 |
 | 17 | [Falling](https://open.spotify.com/track/1ZMiCix7XSAbfAJlEZWMCp) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 4:00 |
 | 18 | [Colapso](https://open.spotify.com/track/7dT9D6117e5DbhnKxDLNW9) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Hasta el Fin Del Mundo](https://open.spotify.com/album/7M4AeOUpTfAHk1Ch4xKUC7) | 3:55 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9235ICuUcIM.md) - [plain]
 | 41 | [Your Power](https://open.spotify.com/track/042Sl6Mn83JHyLEqdK7uI0) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 4:05 |
 | 42 | [As the World Caves In](https://open.spotify.com/track/2xXNLutYAOELYVObYb1C1S) | [Sarah Cothran](https://open.spotify.com/artist/3kft86DbqCNr7rjq3pEj0G) | [As the World Caves In](https://open.spotify.com/album/0RiimwsSMUsxrBu0RsyuRH) | 2:41 |
 | 43 | [Chachachá](https://open.spotify.com/track/6aommJFM8i3iT4inKuDSXh) | [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Háblate de Mí](https://open.spotify.com/album/5DtrZ74RgqpVVqLWncmqyZ) | 3:35 |
-| 44 | [Million Reasons](https://open.spotify.com/track/7dZ1Odmx9jWIweQSatnRqo) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Joanne \(Deluxe\)](https://open.spotify.com/album/2ZUwFxlWo0gwTsvZ6L4Meh) | 3:25 |
-| 45 | [Soy El Unico](https://open.spotify.com/track/4pKhxDtzoLPVy4GzW1ibAz) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Obsessed \(Deluxe\)](https://open.spotify.com/album/39CdVx9DN5FtCzIyqkrzAq) | 3:33 |
+| 44 | [Soy El Unico](https://open.spotify.com/track/4pKhxDtzoLPVy4GzW1ibAz) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Obsessed \(Deluxe\)](https://open.spotify.com/album/39CdVx9DN5FtCzIyqkrzAq) | 3:33 |
+| 45 | [Million Reasons](https://open.spotify.com/track/7dZ1Odmx9jWIweQSatnRqo) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Joanne \(Deluxe\)](https://open.spotify.com/album/2ZUwFxlWo0gwTsvZ6L4Meh) | 3:25 |
 | 46 | [Sálvame](https://open.spotify.com/track/3hbTkJ0yFzHbawnKyhvTQj) | [RBD](https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs), [Anahí](https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri), [Dulce María](https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL), [Maite Perroni](https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt), [Christian Chávez](https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN), [Christopher von Uckermann](https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo), [Alfonso Herrera](https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN) | [Rebelde](https://open.spotify.com/album/5wvatwGTc0zWIx3dBQadaj) | 3:44 |
 | 47 | [Lonely \(with benny blanco\)](https://open.spotify.com/track/4y4spB9m0Q6026KfkAvy9Q) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [Lonely \(with benny blanco\)](https://open.spotify.com/album/3P5WIUJO0Ots1lQx09TOxk) | 2:29 |
 | 48 | [Está Dañada](https://open.spotify.com/track/6G2xXQRSZlEzYsUEb3uvuR) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Alma Vacía](https://open.spotify.com/album/4DmITPOATTsiWEWtJrPqkk) | 3:34 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9235ICuUcIM.md) - [plain]
 | 59 | [Ropa De Bazar](https://open.spotify.com/track/7kWFRZdedr2gtfE8JDumVZ) | [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT), [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Ropa De Bazar](https://open.spotify.com/album/7z9qYJVpdYt9zplriyrrZI) | 3:17 |
 | 60 | [The One That Got Away](https://open.spotify.com/track/6hkOqJ5mE093AQf2lbZnsG) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream](https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1) | 3:47 |
 
-Snapshot ID: `MTY2MTQ5MDAwMCwwMDAwMDAwMGU2NjczZDc1NTJjZDYwNDAyNTExOGJjZDc1OTE4MGY1`
+Snapshot ID: `MTY2MTQ5MDAwMCwwMDAwMDAwMDU4NjdlMjc0ZDU4OWI1ODkwZTIyZmVlYzQ5OWVjYjYz`

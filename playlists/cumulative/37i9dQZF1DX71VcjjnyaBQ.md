@@ -4,7 +4,7 @@
 
 > Jazz for breakfast to start your day right.
 
-145 songs - 12 hr 44 min - [published](https://open.spotify.com/playlist/00KxmXWSXPzcN3QrlgmEa1)
+146 songs - 12 hr 50 min - [published](https://open.spotify.com/playlist/00KxmXWSXPzcN3QrlgmEa1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [Peaceful Paranoia](https://open.spotify.com/track/1P9zMTrGMBPTDr0A4MU7cd) | [Niclas Knudsen Trio](https://open.spotify.com/artist/2Z3lQTlj6dkxFg1RwLfwEn), [Kresten Osgood](https://open.spotify.com/artist/41MI7s5qtXYNCp7Ev8T5LN), [Niclas Knudsen](https://open.spotify.com/artist/7ErSwiH3ISJy905okfPJU5), [Anders Christensen](https://open.spotify.com/artist/21LcuBnhMZZraq4AB6mgwM) | [Times Revisited](https://open.spotify.com/album/5EKzqYzzf5GHNBo9iRVZAM) | 4:25 | 2022-06-30 |  |
 | [Play The 4th Prime](https://open.spotify.com/track/3HpW5YWatfVXULfzQAEXms) | [Barrett Martin Group](https://open.spotify.com/artist/0m2tJDhw7jrEj9qjVxIWRK) | [Transcendence](https://open.spotify.com/album/6gAtbVMWzbdLKhDR0Kblm2) | 4:24 | 2021-12-21 |  |
 | [PRAYER](https://open.spotify.com/track/5GIHgkip0SeCDcuBsEUGUi) | [Joel Ross](https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l) | [PRAYER](https://open.spotify.com/album/1pR1odHigDWvudMQgYMrhs) | 7:45 | 2022-04-14 |  |
-| [Prelude to a Kiss](https://open.spotify.com/track/5Z9BMdHdZVOX5GXUtzaxr3) | [Jerry Bergonzi](https://open.spotify.com/artist/5CSkWcdoRvgBQDwJTZZstJ), [The Modern Jazz Trio](https://open.spotify.com/artist/0nAuSsRUTeyOp4cvsam5pt) | [Standard Gonz](https://open.spotify.com/album/4jym5FR0j3jAdcazPDLLDa) | 7:14 | 2022-02-10 |  |
+| [Prelude to a Kiss](https://open.spotify.com/track/5Z9BMdHdZVOX5GXUtzaxr3) | [Jerry Bergonzi](https://open.spotify.com/artist/5CSkWcdoRvgBQDwJTZZstJ), [The Modern Jazz Trio](https://open.spotify.com/artist/0nAuSsRUTeyOp4cvsam5pt) | [Standard Gonz](https://open.spotify.com/album/4jym5FR0j3jAdcazPDLLDa) | 7:14 | 2022-02-10 | 2022-09-21 |
 | [Pure Imagination](https://open.spotify.com/track/1EcSvZ9Kq0EAohVfPcHToh) | [Rob Barron](https://open.spotify.com/artist/1QoFjUjxsHULNzFihvt8Sd) | [Pure Imagination](https://open.spotify.com/album/1a2ltY23XnBtmf47BRtKVK) | 5:58 | 2021-12-21 |  |
 | [På nye eventyr](https://open.spotify.com/track/3PVMg33zbePrQvoUgXpnBq) | [Maridalen](https://open.spotify.com/artist/4OQGQzQBxycDy5HlOGLAMJ) | [På nye eventyr](https://open.spotify.com/album/532pfB7ZluWCvQzrO4o4t6) | 5:22 | 2022-02-24 |  |
 | [Queen Of The South](https://open.spotify.com/track/5zzuc4E1t63gH4NRITIUWa) | [Ron Miles](https://open.spotify.com/artist/1FTPaN9v2BFiu2LglOdZKP) | [Queen Of The South](https://open.spotify.com/album/14eu3scYNCK8QwPNqwYelY) | 4:20 | 2021-12-21 | 2022-09-02 |
@@ -136,8 +136,9 @@
 | [To Mr K.K.](https://open.spotify.com/track/1naTwydH0ks78g3oXpTmGC) | [Carl Bagge](https://open.spotify.com/artist/052RNZarYkMsvs3jzWLtIF) | [Visitor](https://open.spotify.com/album/4syZHZiuvbXt0nWb9QT39A) | 5:30 | 2022-04-07 |  |
 | [Together](https://open.spotify.com/track/2wOlZrHUpRP9hQbqbV9Ae5) | [Matthew Halsall](https://open.spotify.com/artist/0Cioop2zjxXxtcPUme7R46) | [Colour Yes \(Special Edition\)](https://open.spotify.com/album/1fcREbFQfCqfwxXkxGgvV7) | 11:12 | 2021-12-21 | 2022-07-29 |
 | [Together \- Special Edition](https://open.spotify.com/track/6sJUbzyzNOrAt9dr3pkOPk) | [Matthew Halsall](https://open.spotify.com/artist/0Cioop2zjxXxtcPUme7R46) | [Colour Yes \(Special Edition\)](https://open.spotify.com/album/5Pdyuk0PEwXvPUKgAwMP46) | 11:12 | 2022-06-30 |  |
-| [Touch](https://open.spotify.com/track/0rHgcsBwgdZuHR6YPquW49) | [Eberhard Weber](https://open.spotify.com/artist/2BPSfZHtSYon5DKvp95xXT) | [Yellow Fields](https://open.spotify.com/album/6tw9j5BoCn63TftByUOIKR) | 4:59 | 2021-12-21 | 2022-09-18 |
+| [Touch](https://open.spotify.com/track/0rHgcsBwgdZuHR6YPquW49) | [Eberhard Weber](https://open.spotify.com/artist/2BPSfZHtSYon5DKvp95xXT) | [Yellow Fields](https://open.spotify.com/album/6tw9j5BoCn63TftByUOIKR) | 4:59 | 2021-12-21 |  |
 | [Tributary](https://open.spotify.com/track/7q6UmBKNhBLgMt0dg9UKr2) | [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [Tributary](https://open.spotify.com/album/4Smd5XsAnGKCt8QepEw9AM) | 5:47 | 2022-08-11 |  |
+| [Triceratops / The Caller](https://open.spotify.com/track/1DXrHK5VDk1GPW5j1aQlrP) | [Ruby Rushton](https://open.spotify.com/artist/6DO2Eyazl6ToBSvp7OGLuF) | [Ironside](https://open.spotify.com/album/5rAMFNRPhYbuunjpa96flo) | 5:15 | 2022-09-20 |  |
 | [Triceratops / The Caller](https://open.spotify.com/track/2k5d3V0BVehNIXYUBWTaaD) | [Ruby Rushton](https://open.spotify.com/artist/6DO2Eyazl6ToBSvp7OGLuF) | [Ironside](https://open.spotify.com/album/6zmUoCKw6UvkLGjaVEZsin) | 5:15 | 2021-12-21 | 2022-06-24 |
 | [Trouble Maker](https://open.spotify.com/track/6saSpp7UZUXltPD6OYGn9u) | [Lucas Figueiredo Santana](https://open.spotify.com/artist/4wXu0yhZX9vB4dZxzu3G7N) | [Trouble Maker](https://open.spotify.com/album/1uWMkNdhSSdVnTQoxNH4RS) | 6:47 | 2021-12-21 |  |
 | [Velvet Gloves & Spit](https://open.spotify.com/track/28nqRn3qpWokvnhGfXwbEf) | [Michael Wollny](https://open.spotify.com/artist/7MbjIv3XpMc2ciNcoWHFcS) | [Velvet Gloves & Spit](https://open.spotify.com/album/4xAd50gOzhbIldhrmYAJWK) | 2:43 | 2021-12-21 | 2022-07-29 |
@@ -151,7 +152,7 @@
 | [Wolves](https://open.spotify.com/track/6swC1FhShFOBw1WelyqIfZ) | [Foehn Trio](https://open.spotify.com/artist/71YdDTi8qnsYcgSEnTI3et) | [Highlines](https://open.spotify.com/album/0ONIe9ezp42TGsOjz7n9pF) | 6:02 | 2021-12-21 | 2022-06-01 |
 | [Yardley Suite](https://open.spotify.com/track/2u9mRfYp5vzMCCSLxS85X9) | [Ruby Rushton](https://open.spotify.com/artist/6DO2Eyazl6ToBSvp7OGLuF) | [Yardley Suite](https://open.spotify.com/album/1MVB8WaiCepzmHVvX741WN) | 3:55 | 2021-12-21 | 2022-07-28 |
 | [Yardley Suite](https://open.spotify.com/track/3FLsuVjJ5Ioqb1hgst8N1b) | [Ruby Rushton](https://open.spotify.com/artist/6DO2Eyazl6ToBSvp7OGLuF) | [Yardley Suite](https://open.spotify.com/album/6GYzn93otdQDLDrlHx3mSX) | 3:55 | 2022-06-30 |  |
-| [Yesterday's Dreams](https://open.spotify.com/track/2PeJWalk3QIOZbf9Z90M16) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [First Light \(CTI Records 40th Anniversary Edition\)](https://open.spotify.com/album/7EKI2xGm95sooPhcZ6wYGu) | 3:56 | 2022-09-13 |  |
+| [Yesterday's Dreams](https://open.spotify.com/track/2PeJWalk3QIOZbf9Z90M16) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [First Light \(CTI Records 40th Anniversary Edition\)](https://open.spotify.com/album/7EKI2xGm95sooPhcZ6wYGu) | 3:56 | 2022-09-13 | 2022-09-21 |
 | [Yesterday's Dreams](https://open.spotify.com/track/0rT1BwALaymdi8Ivsl0Oew) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [First Light](https://open.spotify.com/album/1FziKW5OiiPik3VeXFhtf2) | 3:56 | 2021-12-21 | 2022-07-29 |
 
 \*This playlist was first scraped on 2022-01-01. Prior content cannot be recovered.

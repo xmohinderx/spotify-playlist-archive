@@ -1,12 +1,12 @@
 {
   "description": "Discover rhythmic crossover hits from cultures around the world. Cover: Will.i.am, El Alfa & Yandel",
-  "num_followers": 450417,
+  "num_followers": 450501,
   "original_name": "Global X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMDZhYzQ3NDA1ZGNhODYzZDRiYTNmYjRmNzUwOGIwZWUx",
+  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMGM3NjAxMThlZDM4MDZhOTUxNmU5MTE0ZGViZjU5ODY0",
   "tracks": [
     {
       "added_at": "2022-09-16 04:00:00",
@@ -651,26 +651,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "MAMIII",
-        "url": "https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        },
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 226088,
-      "name": "MAMIII",
-      "url": "https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "The Motto",
         "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
       },
@@ -687,6 +667,26 @@
       "duration_ms": 164818,
       "name": "The Motto",
       "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "MAMIII",
+        "url": "https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 226088,
+      "name": "MAMIII",
+      "url": "https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Envolver",
-        "url": "https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 193805,
-      "name": "Envolver",
-      "url": "https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "KU LO SA - A COLORS SHOW",
         "url": "https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 147580,
       "name": "KU LO SA - A COLORS SHOW",
       "url": "https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Envolver",
+        "url": "https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 193805,
+      "name": "Envolver",
+      "url": "https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1139,26 +1139,18 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Thunder",
-        "url": "https://open.spotify.com/album/35Q09Y0b7ZxOoCdF7sBiGf"
+        "name": "Mood",
+        "url": "https://open.spotify.com/album/0of66YXURMrVzhAVkYNDeO"
       },
       "artists": [
         {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        },
-        {
-          "name": "LUM!X",
-          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
-        },
-        {
-          "name": "Prezioso",
-          "url": "https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr"
+          "name": "Makar",
+          "url": "https://open.spotify.com/artist/4PUr4W5mWlzMkyVpSiX2ZN"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Thunder",
-      "url": "https://open.spotify.com/track/2USlegnFJLrVLpoVfPimKB"
+      "duration_ms": 151690,
+      "name": "Mood",
+      "url": "https://open.spotify.com/track/4k6yZRw7M04gZE2uW12Cw6"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1203,18 +1195,26 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Mood",
-        "url": "https://open.spotify.com/album/0of66YXURMrVzhAVkYNDeO"
+        "name": "Thunder",
+        "url": "https://open.spotify.com/album/35Q09Y0b7ZxOoCdF7sBiGf"
       },
       "artists": [
         {
-          "name": "Makar",
-          "url": "https://open.spotify.com/artist/4PUr4W5mWlzMkyVpSiX2ZN"
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "LUM!X",
+          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
+        },
+        {
+          "name": "Prezioso",
+          "url": "https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr"
         }
       ],
-      "duration_ms": 151690,
-      "name": "Mood",
-      "url": "https://open.spotify.com/track/4k6yZRw7M04gZE2uW12Cw6"
+      "duration_ms": 160000,
+      "name": "Thunder",
+      "url": "https://open.spotify.com/track/2USlegnFJLrVLpoVfPimKB"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Last Last",
-        "url": "https://open.spotify.com/album/6aWJgsbvVPQR2HgPztf4qe"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 172342,
-      "name": "Last Last",
-      "url": "https://open.spotify.com/track/2PDgArI0p7UkeYgXWuqpmh"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Arcade",
         "url": "https://open.spotify.com/album/7BISGeB7QwhqRIadxuLHfG"
       },
@@ -1307,18 +1291,18 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "LALISA",
-        "url": "https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd"
+        "name": "Last Last",
+        "url": "https://open.spotify.com/album/6aWJgsbvVPQR2HgPztf4qe"
       },
       "artists": [
         {
-          "name": "LISA",
-          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         }
       ],
-      "duration_ms": 168227,
-      "name": "MONEY",
-      "url": "https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q"
+      "duration_ms": 172342,
+      "name": "Last Last",
+      "url": "https://open.spotify.com/track/2PDgArI0p7UkeYgXWuqpmh"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1339,6 +1323,22 @@
       "duration_ms": 234706,
       "name": "El Pa\u00f1uelo",
       "url": "https://open.spotify.com/track/3c7H5RL3H6jFgDTbMxGBe9"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "LALISA",
+        "url": "https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "duration_ms": 168227,
+      "name": "MONEY",
+      "url": "https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1563,18 +1563,26 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "MOTOMAMI",
-        "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
+        "name": "Cap\u00edtulo 1",
+        "url": "https://open.spotify.com/album/0jps45S3BLg0ObqAyboGVb"
       },
       "artists": [
         {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+          "name": "Beny Jr",
+          "url": "https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt"
+        },
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        },
+        {
+          "name": "K y B",
+          "url": "https://open.spotify.com/artist/1enXMVomlMi88CZFYL1m2f"
         }
       ],
-      "duration_ms": 193480,
-      "name": "CANDY",
-      "url": "https://open.spotify.com/track/70AYiGbc4mWZGEqiipBBDb"
+      "duration_ms": 211456,
+      "name": "Sigue",
+      "url": "https://open.spotify.com/track/63ZedTAVRCICh2CNLWnsPZ"
     }
   ],
   "unique_name": "Global X",

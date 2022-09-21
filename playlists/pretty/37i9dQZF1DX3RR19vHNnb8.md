@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RR19vHNnb8.md) - [plain]
 
 > Hip hop tracks to kick your workout up a notch
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,998 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,014 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RR19vHNnb8.md) - [plain]
 | 24 | [Poke It Out \(feat\. J\. Cole\)](https://open.spotify.com/track/1IeCWMwZs4rCmwPOjZYWN7) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Cool & Dre](https://open.spotify.com/artist/2PsjBHyb950JI7BHXY10TD) | [Poke It Out \(feat\. J\. Cole\)](https://open.spotify.com/album/2DXRWlFTI8l2YvBD4iFUK8) | 3:03 |
 | 25 | [Second Sermon \- Remix](https://open.spotify.com/track/574QNMkQGedluLOgr275s9) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Second Sermon \(Remix\)](https://open.spotify.com/album/2YaqeghqhsIi2u9fQjGBsq) | 3:14 |
 | 26 | [Khabib](https://open.spotify.com/track/194U52vElkbmFe8QTefrgw) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Khabib](https://open.spotify.com/album/3v6aq6iIqFXgAubGncj9Ce) | 3:21 |
-| 27 | [STAYING ALIVE \(feat\. Drake & Lil Baby\)](https://open.spotify.com/track/36YpCIK6NmhC9i6bvcwcdm) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [STAYING ALIVE \(feat\. Drake & Lil Baby\)](https://open.spotify.com/album/2i9q4Ax4pXU62uNOJHy2qo) | 2:58 |
-| 28 | [Feeling](https://open.spotify.com/track/29e2gdZN35wxeGgDtkXjIa) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Feeling](https://open.spotify.com/album/7HUbrb8z5gdwm9OoPEDh5A) | 3:44 |
+| 27 | [Feeling](https://open.spotify.com/track/29e2gdZN35wxeGgDtkXjIa) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Feeling](https://open.spotify.com/album/7HUbrb8z5gdwm9OoPEDh5A) | 3:44 |
+| 28 | [STAYING ALIVE \(feat\. Drake & Lil Baby\)](https://open.spotify.com/track/36YpCIK6NmhC9i6bvcwcdm) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [STAYING ALIVE \(feat\. Drake & Lil Baby\)](https://open.spotify.com/album/2i9q4Ax4pXU62uNOJHy2qo) | 2:58 |
 | 29 | [Diet Coke](https://open.spotify.com/track/3BMG9dnjNymT1OGUXQTAXl) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [Diet Coke](https://open.spotify.com/album/6AmzYhYXSHDndclYdVsKeF) | 2:59 |
 | 30 | [Bigger Than Life](https://open.spotify.com/track/5PqO45k0bwz7idhZYdbHSY) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [Bigger Than Life](https://open.spotify.com/album/6Nf93VWSRWwBArgnPXhn8G) | 2:40 |
 | 31 | [King of Parole](https://open.spotify.com/track/1neQ0MJbFV4O1eYwa7Hj2x) | [Ajebutter22](https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW) | [King of Parole](https://open.spotify.com/album/3SxZ36WBWGwoDwXAAAS8Bk) | 3:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RR19vHNnb8.md) - [plain]
 | 49 | [Assignment](https://open.spotify.com/track/1Crv7EI1sdcy07OlvvoA2Y) | [KiddBlack](https://open.spotify.com/artist/3vQvbO6Fd24F5StyZp1UMH), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [DJ FortuneDJ](https://open.spotify.com/artist/3H1ujqsrtJXeYDoJ2Ar9I9) | [Assignment](https://open.spotify.com/album/2CnjO9KA45Cu5OTtshEr0D) | 2:17 |
 | 50 | [SKI](https://open.spotify.com/track/1vE1nV0Q3t9gcw6ZlZ0yJT) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [SKI](https://open.spotify.com/album/24rTvY9feCnZe0SLsLdzbF) | 2:34 |
 
-Snapshot ID: `MTY2MjcxNTE3MiwwMDAwMDAwMGQxMWM0N2YzNTkyOWQ2NDgxZWVjNWU5ZTFkNTJmODcx`
+Snapshot ID: `MTY2MjcxNTE3MiwwMDAwMDAwMGFmMzkzOTBjODdjMjYxZGJjODFhZTIwZjhlNTE3YzY2`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: J-JUN(\uae40\uc7ac\uc911)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d\uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: Peppertones(\ud398\ud37c\ud1a4\uc2a4)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d\uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Cool K'IDs Rock",
   "published_playlist_ids": [
     "6LGjkxX0dG6eEuNv9EUWQY"
@@ -1757,6 +1757,24 @@
       "duration_ms": 300786,
       "name": "Event Horizon",
       "url": "https://open.spotify.com/track/6RBziRcDeiho3iTPdtEeg9"
+    },
+    {
+      "album": {
+        "name": "thousand years",
+        "url": "https://open.spotify.com/album/3pDA2ikEslIDXpzIWmauQY"
+      },
+      "artists": [
+        {
+          "name": "Peppertones",
+          "url": "https://open.spotify.com/artist/0gos4GVpI0PzhyrWhsc7nj"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246866,
+      "name": "Eye of the Typhoon",
+      "url": "https://open.spotify.com/track/0nSEAABoviV818GLEZsD6r"
     },
     {
       "album": {
@@ -5583,7 +5601,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 201066,
       "name": "Starlight",
       "url": "https://open.spotify.com/track/24dSyqfPW6WNzdegehvuBw"

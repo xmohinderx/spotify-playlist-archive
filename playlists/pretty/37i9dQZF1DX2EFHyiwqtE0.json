@@ -1,12 +1,12 @@
 {
   "description": "Latin tunes that both you and your little one can enjoy.",
-  "num_followers": 8794,
+  "num_followers": 8827,
   "original_name": "Raised on Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NjY4NjIyNCwwMDAwMDAwMGZhMTRlYjI1MGU3NDM5N2YzYTVmMTdlYWQxYmMzZWQ4",
+  "snapshot_id": "MTY0NjY4NjIyNCwwMDAwMDAwMDI2OTQxYjMxMzM5ZmQ1YjJhMTk5ZjAxZGYwYjlhYWQ5",
   "tracks": [
     {
       "added_at": "2022-01-01 08:00:00",
@@ -887,22 +887,6 @@
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
-        "name": "The Reventon: 30 Pegaditas",
-        "url": "https://open.spotify.com/album/1BVdrfS67jHUUNBF4epJeD"
-      },
-      "artists": [
-        {
-          "name": "Wilfrido Vargas",
-          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
-        }
-      ],
-      "duration_ms": 263253,
-      "name": "El Baile del Perrito",
-      "url": "https://open.spotify.com/track/2XESoQVXG9ssxyjxXSrmxo"
-    },
-    {
-      "added_at": "2022-01-01 08:00:00",
-      "album": {
         "name": "Los D\u00fao",
         "url": "https://open.spotify.com/album/2IlXnGyMzDixqs44RSUObZ"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 295280,
       "name": "Querida",
       "url": "https://open.spotify.com/track/7osHjFGYUmIMB6eAiU9HDs"
+    },
+    {
+      "added_at": "2022-01-01 08:00:00",
+      "album": {
+        "name": "The Reventon: 30 Pegaditas",
+        "url": "https://open.spotify.com/album/1BVdrfS67jHUUNBF4epJeD"
+      },
+      "artists": [
+        {
+          "name": "Wilfrido Vargas",
+          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
+        }
+      ],
+      "duration_ms": 263253,
+      "name": "El Baile del Perrito",
+      "url": "https://open.spotify.com/track/2XESoQVXG9ssxyjxXSrmxo"
     },
     {
       "added_at": "2022-01-01 08:00:00",
@@ -1023,18 +1023,18 @@
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
-        "name": "gloria!",
-        "url": "https://open.spotify.com/album/5bSHuTJy9CAEmbHHA5CgjO"
+        "name": "Lo Mejor De Los Tres Grandes",
+        "url": "https://open.spotify.com/album/3Z5BcHC31NUFParR4uostL"
       },
       "artists": [
         {
-          "name": "Gloria Estefan",
-          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
         }
       ],
-      "duration_ms": 279626,
-      "name": "Oye",
-      "url": "https://open.spotify.com/track/7k8Ykg4aJ1rSWB1nCBUQsI"
+      "duration_ms": 351333,
+      "name": "Pero Qu\u00e9 Necesidad",
+      "url": "https://open.spotify.com/track/5UTmhKIe3xRyYrNnVMNRCw"
     }
   ],
   "unique_name": "Raised on Latin",

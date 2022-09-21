@@ -1,12 +1,12 @@
 {
   "description": "This is the best of ska, new and classic. Cover: The Interrupters",
-  "num_followers": 320330,
+  "num_followers": 320394,
   "original_name": "The Essential Ska",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDg3Mzg2NCwwMDAwMDAwMDI2ZjQzZjNiMThlYTE5ZDc3MDQwZjVlNGZiZDU0Zjg3",
+  "snapshot_id": "MTY1NDg3Mzg2NCwwMDAwMDAwMDAwMGNjY2M2NTMzNmE0OTlhYjEyOTcyMTBhMjJjODg0",
   "tracks": [
     {
       "added_at": "2022-04-14 09:43:03",
@@ -299,22 +299,6 @@
     {
       "added_at": "2022-04-14 09:43:03",
       "album": {
-        "name": "Say It Out Loud",
-        "url": "https://open.spotify.com/album/5vFP4PaGtuIccr1hW1PQKs"
-      },
-      "artists": [
-        {
-          "name": "The Interrupters",
-          "url": "https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF"
-        }
-      ],
-      "duration_ms": 205723,
-      "name": "She Got Arrested",
-      "url": "https://open.spotify.com/track/2MWC3IWfhh3IteOUPbtogB"
-    },
-    {
-      "added_at": "2022-04-14 09:43:03",
-      "album": {
         "name": "Keasbey Nights",
         "url": "https://open.spotify.com/album/2sFPd4EWqI4x6RsaeMqA8a"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 116946,
       "name": "9mm And A Three Piece Suit",
       "url": "https://open.spotify.com/track/2BYJwdVcgfrGkRtVdZeX14"
+    },
+    {
+      "added_at": "2022-04-14 09:43:03",
+      "album": {
+        "name": "Say It Out Loud",
+        "url": "https://open.spotify.com/album/5vFP4PaGtuIccr1hW1PQKs"
+      },
+      "artists": [
+        {
+          "name": "The Interrupters",
+          "url": "https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF"
+        }
+      ],
+      "duration_ms": 205723,
+      "name": "She Got Arrested",
+      "url": "https://open.spotify.com/track/2MWC3IWfhh3IteOUPbtogB"
     },
     {
       "added_at": "2022-04-14 09:43:03",
@@ -395,18 +395,18 @@
     {
       "added_at": "2022-04-14 09:43:03",
       "album": {
-        "name": "Keasbey Nights",
-        "url": "https://open.spotify.com/album/2sFPd4EWqI4x6RsaeMqA8a"
+        "name": "So Long & Thanks For All The Shoes",
+        "url": "https://open.spotify.com/album/1EaixZGxjvdZIsRiyMBZDb"
       },
       "artists": [
         {
-          "name": "Catch 22",
-          "url": "https://open.spotify.com/artist/1xgA0hENxpykh3AxlMBjlT"
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
         }
       ],
-      "duration_ms": 182880,
-      "name": "Keasbey Nights",
-      "url": "https://open.spotify.com/track/4XhzDUvgDIokNmvMtHsmOz"
+      "duration_ms": 112493,
+      "name": "All Outta Angst",
+      "url": "https://open.spotify.com/track/0eVZhPIexAYqdwKNqSp3Qm"
     },
     {
       "added_at": "2022-04-14 09:43:03",
@@ -423,22 +423,6 @@
       "duration_ms": 143166,
       "name": "Wallflower",
       "url": "https://open.spotify.com/track/31RJ1xFMQCGfGniKY4IMdO"
-    },
-    {
-      "added_at": "2022-04-14 09:43:03",
-      "album": {
-        "name": "So Long & Thanks For All The Shoes",
-        "url": "https://open.spotify.com/album/1EaixZGxjvdZIsRiyMBZDb"
-      },
-      "artists": [
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        }
-      ],
-      "duration_ms": 112493,
-      "name": "All Outta Angst",
-      "url": "https://open.spotify.com/track/0eVZhPIexAYqdwKNqSp3Qm"
     },
     {
       "added_at": "2022-04-14 09:43:03",
@@ -471,6 +455,22 @@
       "duration_ms": 182800,
       "name": "Super Rad!",
       "url": "https://open.spotify.com/track/0wZuFLzQhVAJU9JSmdixTE"
+    },
+    {
+      "added_at": "2022-04-14 09:43:03",
+      "album": {
+        "name": "Keasbey Nights",
+        "url": "https://open.spotify.com/album/2sFPd4EWqI4x6RsaeMqA8a"
+      },
+      "artists": [
+        {
+          "name": "Catch 22",
+          "url": "https://open.spotify.com/artist/1xgA0hENxpykh3AxlMBjlT"
+        }
+      ],
+      "duration_ms": 182880,
+      "name": "Keasbey Nights",
+      "url": "https://open.spotify.com/track/4XhzDUvgDIokNmvMtHsmOz"
     },
     {
       "added_at": "2022-04-14 09:43:03",
@@ -639,22 +639,6 @@
     {
       "added_at": "2022-04-14 09:43:03",
       "album": {
-        "name": "Tragic Kingdom",
-        "url": "https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8"
-      },
-      "artists": [
-        {
-          "name": "No Doubt",
-          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
-        }
-      ],
-      "duration_ms": 275360,
-      "name": "Different People",
-      "url": "https://open.spotify.com/track/6PM8yaNDDfXc0kHIMSuIKR"
-    },
-    {
-      "added_at": "2022-04-14 09:43:03",
-      "album": {
         "name": "Silver Linings",
         "url": "https://open.spotify.com/album/6PIQdcVGp07UYR4zWhVE1O"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 218240,
       "name": "Lie to Me",
       "url": "https://open.spotify.com/track/49KsGRK6Pq6pjlGvBQ8NoQ"
+    },
+    {
+      "added_at": "2022-04-14 09:43:03",
+      "album": {
+        "name": "Tragic Kingdom",
+        "url": "https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8"
+      },
+      "artists": [
+        {
+          "name": "No Doubt",
+          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
+        }
+      ],
+      "duration_ms": 275360,
+      "name": "Different People",
+      "url": "https://open.spotify.com/track/6PM8yaNDDfXc0kHIMSuIKR"
     },
     {
       "added_at": "2022-04-14 09:43:03",
@@ -975,22 +975,6 @@
     {
       "added_at": "2022-04-14 09:43:03",
       "album": {
-        "name": "Here in The Heights",
-        "url": "https://open.spotify.com/album/2lGYvbR1ovYdsZKb2lTiq0"
-      },
-      "artists": [
-        {
-          "name": "Tropidelic",
-          "url": "https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl"
-        }
-      ],
-      "duration_ms": 223347,
-      "name": "Cali",
-      "url": "https://open.spotify.com/track/75pC1KbHcJ9Wmrkdb53tGl"
-    },
-    {
-      "added_at": "2022-04-14 09:43:03",
-      "album": {
         "name": "Keasbey Nights",
         "url": "https://open.spotify.com/album/2sFPd4EWqI4x6RsaeMqA8a"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 194146,
       "name": "On & On & On",
       "url": "https://open.spotify.com/track/66UiVrGhYHHyfJlE1g8y61"
+    },
+    {
+      "added_at": "2022-04-14 09:43:03",
+      "album": {
+        "name": "Here in The Heights",
+        "url": "https://open.spotify.com/album/2lGYvbR1ovYdsZKb2lTiq0"
+      },
+      "artists": [
+        {
+          "name": "Tropidelic",
+          "url": "https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl"
+        }
+      ],
+      "duration_ms": 223347,
+      "name": "Cali",
+      "url": "https://open.spotify.com/track/75pC1KbHcJ9Wmrkdb53tGl"
     },
     {
       "added_at": "2022-04-14 09:43:03",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2022-04-14 09:43:03",
       "album": {
-        "name": "Grazie Governo",
-        "url": "https://open.spotify.com/album/1MxhSb18IacC40HRB86dTr"
-      },
-      "artists": [
-        {
-          "name": "The Bar Stool Preachers",
-          "url": "https://open.spotify.com/artist/3KcidWlhRLEyML9jFE6fKg"
-        }
-      ],
-      "duration_ms": 182560,
-      "name": "Choose My Friends",
-      "url": "https://open.spotify.com/track/5xhB62X5svVDYitg5fDe3v"
-    },
-    {
-      "added_at": "2022-04-14 09:43:03",
-      "album": {
         "name": "To the Moon",
         "url": "https://open.spotify.com/album/26hyjp4UUl9tsWW802rFEt"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 343786,
       "name": "Wisdom Teeth",
       "url": "https://open.spotify.com/track/147mMd7jI2ty1fR5AVJhS7"
+    },
+    {
+      "added_at": "2022-04-14 09:43:03",
+      "album": {
+        "name": "Grazie Governo",
+        "url": "https://open.spotify.com/album/1MxhSb18IacC40HRB86dTr"
+      },
+      "artists": [
+        {
+          "name": "The Bar Stool Preachers",
+          "url": "https://open.spotify.com/artist/3KcidWlhRLEyML9jFE6fKg"
+        }
+      ],
+      "duration_ms": 182560,
+      "name": "Choose My Friends",
+      "url": "https://open.spotify.com/track/5xhB62X5svVDYitg5fDe3v"
     },
     {
       "added_at": "2022-04-14 09:43:03",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2022-04-14 09:43:03",
       "album": {
-        "name": "Viva La Ska Revolution",
-        "url": "https://open.spotify.com/album/7Ix9aOmnkTwAIQomGB4ATh"
-      },
-      "artists": [
-        {
-          "name": "Bad Manners",
-          "url": "https://open.spotify.com/artist/0GShYlUdyLahdsvgKdselx"
-        }
-      ],
-      "duration_ms": 166640,
-      "name": "Lip Up Fatty",
-      "url": "https://open.spotify.com/track/2V5tv4ZwtNTgAp4MCwNOXb"
-    },
-    {
-      "added_at": "2022-04-14 09:43:03",
-      "album": {
         "name": "Heads Are Gonna Roll",
         "url": "https://open.spotify.com/album/1ShvLX5xWw2wwvBMu3ENWn"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 144426,
       "name": "Lost It",
       "url": "https://open.spotify.com/track/0BvtEvt2oftqEAwOLl4ujT"
+    },
+    {
+      "added_at": "2022-04-14 09:43:03",
+      "album": {
+        "name": "Viva La Ska Revolution",
+        "url": "https://open.spotify.com/album/7Ix9aOmnkTwAIQomGB4ATh"
+      },
+      "artists": [
+        {
+          "name": "Bad Manners",
+          "url": "https://open.spotify.com/artist/0GShYlUdyLahdsvgKdselx"
+        }
+      ],
+      "duration_ms": 166640,
+      "name": "Lip Up Fatty",
+      "url": "https://open.spotify.com/track/2V5tv4ZwtNTgAp4MCwNOXb"
     },
     {
       "added_at": "2022-04-14 09:43:03",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2022-04-14 09:43:03",
       "album": {
-        "name": "Kosmopoliturbo",
-        "url": "https://open.spotify.com/album/0RGMKEJfpeWIUbSkZVWNYP"
-      },
-      "artists": [
-        {
-          "name": "Russkaja",
-          "url": "https://open.spotify.com/artist/3FuzPmx49qjFhzbG99d9Kr"
-        }
-      ],
-      "duration_ms": 229813,
-      "name": "Hey Road",
-      "url": "https://open.spotify.com/track/0GnkpXQV1n2W6gJ5Mq4b9T"
-    },
-    {
-      "added_at": "2022-04-14 09:43:03",
-      "album": {
         "name": "Nice Things",
         "url": "https://open.spotify.com/album/5tNQBbbRsvoCDgJA8WA91T"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 141057,
       "name": "The Sweat",
       "url": "https://open.spotify.com/track/577X4F4HAZZUVzvT7wml4E"
+    },
+    {
+      "added_at": "2022-04-14 09:43:03",
+      "album": {
+        "name": "Kosmopoliturbo",
+        "url": "https://open.spotify.com/album/0RGMKEJfpeWIUbSkZVWNYP"
+      },
+      "artists": [
+        {
+          "name": "Russkaja",
+          "url": "https://open.spotify.com/artist/3FuzPmx49qjFhzbG99d9Kr"
+        }
+      ],
+      "duration_ms": 229813,
+      "name": "Hey Road",
+      "url": "https://open.spotify.com/track/0GnkpXQV1n2W6gJ5Mq4b9T"
     },
     {
       "added_at": "2022-04-14 09:43:03",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2022-04-14 09:43:03",
       "album": {
-        "name": "No One is Illegal",
-        "url": "https://open.spotify.com/album/2Gy5JaGmiaykwDoJZH4xQO"
-      },
-      "artists": [
-        {
-          "name": "Russkaja",
-          "url": "https://open.spotify.com/artist/3FuzPmx49qjFhzbG99d9Kr"
-        }
-      ],
-      "duration_ms": 226413,
-      "name": "Here is the News (Papa\u00b4s Got a Brand New Pigbag)",
-      "url": "https://open.spotify.com/track/0Sgv5oF4OGGGFlEmtzpAEc"
-    },
-    {
-      "added_at": "2022-04-14 09:43:03",
-      "album": {
         "name": "Keep It Together",
         "url": "https://open.spotify.com/album/3MByj0jMYnFWIE82Z0ypvb"
       },
@@ -1503,6 +1487,22 @@
     {
       "added_at": "2022-04-14 09:43:03",
       "album": {
+        "name": "No One is Illegal",
+        "url": "https://open.spotify.com/album/2Gy5JaGmiaykwDoJZH4xQO"
+      },
+      "artists": [
+        {
+          "name": "Russkaja",
+          "url": "https://open.spotify.com/artist/3FuzPmx49qjFhzbG99d9Kr"
+        }
+      ],
+      "duration_ms": 226413,
+      "name": "Here is the News (Papa\u00b4s Got a Brand New Pigbag)",
+      "url": "https://open.spotify.com/track/0Sgv5oF4OGGGFlEmtzpAEc"
+    },
+    {
+      "added_at": "2022-04-14 09:43:03",
+      "album": {
         "name": "Rental!! Eviction!!",
         "url": "https://open.spotify.com/album/7jbc6VssvRQLTYCAYMAT9W"
       },
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2022-04-14 09:43:03",
       "album": {
-        "name": "Checkered Past",
-        "url": "https://open.spotify.com/album/4RpU4zEboCRpkRxhlds9Dj"
-      },
-      "artists": [
-        {
-          "name": "Save Ferris",
-          "url": "https://open.spotify.com/artist/1PAi6SNPtaiFqTRiTfecFr"
-        }
-      ],
-      "duration_ms": 164880,
-      "name": "Anything",
-      "url": "https://open.spotify.com/track/4rcNt8pEnkQSQVyTXgmlG9"
-    },
-    {
-      "added_at": "2022-04-14 09:43:03",
-      "album": {
         "name": "When The Wall Falls",
         "url": "https://open.spotify.com/album/1gRbKCXYYJjE07OQeNNcel"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 165813,
       "name": "When The Wall Falls",
       "url": "https://open.spotify.com/track/4H37sUD0Hfx2vqODJInQQ9"
+    },
+    {
+      "added_at": "2022-04-14 09:43:03",
+      "album": {
+        "name": "Checkered Past",
+        "url": "https://open.spotify.com/album/4RpU4zEboCRpkRxhlds9Dj"
+      },
+      "artists": [
+        {
+          "name": "Save Ferris",
+          "url": "https://open.spotify.com/artist/1PAi6SNPtaiFqTRiTfecFr"
+        }
+      ],
+      "duration_ms": 164880,
+      "name": "Anything",
+      "url": "https://open.spotify.com/track/4rcNt8pEnkQSQVyTXgmlG9"
     },
     {
       "added_at": "2022-04-14 09:43:03",

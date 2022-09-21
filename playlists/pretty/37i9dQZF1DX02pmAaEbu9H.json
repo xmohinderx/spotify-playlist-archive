@@ -1,12 +1,12 @@
 {
   "description": "Recorre los kil\u00f3metros con estos cantables cl\u00e1sicos para el camino.",
-  "num_followers": 1270344,
+  "num_followers": 1270706,
   "original_name": "Viaje en Carretera Nostalgia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNTE5NTkzMiwwMDAwMDAwMDZhYWFlYWU4YmQ4ZDU4ZjhjYjdhY2RkNTAwM2IzNDIy",
+  "snapshot_id": "MTYzNTE5NTkzMiwwMDAwMDAwMDU2YzhjMzE5YmFkMzVmOWNiZmFjYjU5ZmVhYTZiN2Fk",
   "tracks": [
     {
       "added_at": "2021-10-25 21:05:32",
@@ -515,22 +515,6 @@
     {
       "added_at": "2021-10-25 21:05:32",
       "album": {
-        "name": "Be Not Nobody",
-        "url": "https://open.spotify.com/album/5e7T2qUigzt0oIr50KsOld"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Carlton",
-          "url": "https://open.spotify.com/artist/5ILrArfIV0tMURcHJN8Q07"
-        }
-      ],
-      "duration_ms": 237493,
-      "name": "A Thousand Miles",
-      "url": "https://open.spotify.com/track/4w1lzcaoZ1IC2K5TwjalRP"
-    },
-    {
-      "added_at": "2021-10-25 21:05:32",
-      "album": {
         "name": "Audioslave",
         "url": "https://open.spotify.com/album/78guAsers0klWl6RwzgDLd"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 293960,
       "name": "Like a Stone",
       "url": "https://open.spotify.com/track/3YuaBvuZqcwN3CEAyyoaei"
+    },
+    {
+      "added_at": "2021-10-25 21:05:32",
+      "album": {
+        "name": "Be Not Nobody",
+        "url": "https://open.spotify.com/album/5e7T2qUigzt0oIr50KsOld"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Carlton",
+          "url": "https://open.spotify.com/artist/5ILrArfIV0tMURcHJN8Q07"
+        }
+      ],
+      "duration_ms": 237493,
+      "name": "A Thousand Miles",
+      "url": "https://open.spotify.com/track/4w1lzcaoZ1IC2K5TwjalRP"
     },
     {
       "added_at": "2021-10-25 21:05:32",
@@ -595,22 +595,6 @@
     {
       "added_at": "2021-10-25 21:05:32",
       "album": {
-        "name": "The Very Best of Bonnie Tyler",
-        "url": "https://open.spotify.com/album/0VJI3wpebzRyVHq0eZQidb"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Tyler",
-          "url": "https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2"
-        }
-      ],
-      "duration_ms": 267360,
-      "name": "Total Eclipse of the Heart",
-      "url": "https://open.spotify.com/track/7wuJGgpTNzbUyn26IOY6rj"
-    },
-    {
-      "added_at": "2021-10-25 21:05:32",
-      "album": {
         "name": "Vivi En Do",
         "url": "https://open.spotify.com/album/1nqhr6N5KbIaUbsTXq5WCa"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 245055,
       "name": "Tu Sin Mi",
       "url": "https://open.spotify.com/track/2cIDetbjLPkhYf4r7z86WH"
+    },
+    {
+      "added_at": "2021-10-25 21:05:32",
+      "album": {
+        "name": "The Very Best of Bonnie Tyler",
+        "url": "https://open.spotify.com/album/0VJI3wpebzRyVHq0eZQidb"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Tyler",
+          "url": "https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2"
+        }
+      ],
+      "duration_ms": 267360,
+      "name": "Total Eclipse of the Heart",
+      "url": "https://open.spotify.com/track/7wuJGgpTNzbUyn26IOY6rj"
     },
     {
       "added_at": "2021-10-25 21:05:32",
@@ -747,22 +747,6 @@
     {
       "added_at": "2021-10-25 21:05:32",
       "album": {
-        "name": "Dare!",
-        "url": "https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY"
-      },
-      "artists": [
-        {
-          "name": "The Human League",
-          "url": "https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG"
-        }
-      ],
-      "duration_ms": 236920,
-      "name": "Don't You Want Me",
-      "url": "https://open.spotify.com/track/3L7RtEcu1Hw3OXrpnthngx"
-    },
-    {
-      "added_at": "2021-10-25 21:05:32",
-      "album": {
         "name": "Tragic Kingdom",
         "url": "https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 263560,
       "name": "Don't Speak",
       "url": "https://open.spotify.com/track/6urCAbunOQI4bLhmGpX7iS"
+    },
+    {
+      "added_at": "2021-10-25 21:05:32",
+      "album": {
+        "name": "Dare!",
+        "url": "https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY"
+      },
+      "artists": [
+        {
+          "name": "The Human League",
+          "url": "https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG"
+        }
+      ],
+      "duration_ms": 236920,
+      "name": "Don't You Want Me",
+      "url": "https://open.spotify.com/track/3L7RtEcu1Hw3OXrpnthngx"
     },
     {
       "added_at": "2021-10-25 21:05:32",
@@ -911,22 +911,6 @@
     {
       "added_at": "2021-10-25 21:05:32",
       "album": {
-        "name": "She's So Unusual",
-        "url": "https://open.spotify.com/album/1FvdZ1oizXwF9bxogujoF0"
-      },
-      "artists": [
-        {
-          "name": "Cyndi Lauper",
-          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
-        }
-      ],
-      "duration_ms": 241333,
-      "name": "Time After Time",
-      "url": "https://open.spotify.com/track/7o9uu2GDtVDr9nsR7ZRN73"
-    },
-    {
-      "added_at": "2021-10-25 21:05:32",
-      "album": {
         "name": "I Don't Want To Miss A Thing EP",
         "url": "https://open.spotify.com/album/4GYrE0hDKjM0v6EQIjkBV3"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 299760,
       "name": "I Don't Want to Miss a Thing - From \"Armageddon\" Soundtrack",
       "url": "https://open.spotify.com/track/6lEuFGrUqR9Yc6hSsHPnYP"
+    },
+    {
+      "added_at": "2021-10-25 21:05:32",
+      "album": {
+        "name": "She's So Unusual",
+        "url": "https://open.spotify.com/album/1FvdZ1oizXwF9bxogujoF0"
+      },
+      "artists": [
+        {
+          "name": "Cyndi Lauper",
+          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
+        }
+      ],
+      "duration_ms": 241333,
+      "name": "Time After Time",
+      "url": "https://open.spotify.com/track/7o9uu2GDtVDr9nsR7ZRN73"
     },
     {
       "added_at": "2021-10-25 21:05:32",
@@ -959,22 +959,6 @@
     {
       "added_at": "2021-10-25 21:05:32",
       "album": {
-        "name": "Achtung Baby (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 276186,
-      "name": "One",
-      "url": "https://open.spotify.com/track/3G69vJMWsX6ZohTykad2AU"
-    },
-    {
-      "added_at": "2021-10-25 21:05:32",
-      "album": {
         "name": "M\u00e1s",
         "url": "https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 343413,
       "name": "Coraz\u00f3n part\u00edo",
       "url": "https://open.spotify.com/track/0wQCKR9OFjYu5Kzrk7WivJ"
+    },
+    {
+      "added_at": "2021-10-25 21:05:32",
+      "album": {
+        "name": "Achtung Baby (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 276186,
+      "name": "One",
+      "url": "https://open.spotify.com/track/3G69vJMWsX6ZohTykad2AU"
     },
     {
       "added_at": "2021-10-25 21:05:32",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2021-10-25 21:05:32",
       "album": {
-        "name": "No Secrets",
-        "url": "https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5"
-      },
-      "artists": [
-        {
-          "name": "Carly Simon",
-          "url": "https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm"
-        }
-      ],
-      "duration_ms": 258411,
-      "name": "You're so Vain",
-      "url": "https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba"
-    },
-    {
-      "added_at": "2021-10-25 21:05:32",
-      "album": {
         "name": "Pies Descalzos",
         "url": "https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 254240,
       "name": "Antologia",
       "url": "https://open.spotify.com/track/0KAqMRUSZwzG3dZLdDA4eH"
+    },
+    {
+      "added_at": "2021-10-25 21:05:32",
+      "album": {
+        "name": "No Secrets",
+        "url": "https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5"
+      },
+      "artists": [
+        {
+          "name": "Carly Simon",
+          "url": "https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm"
+        }
+      ],
+      "duration_ms": 258411,
+      "name": "You're so Vain",
+      "url": "https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba"
     },
     {
       "added_at": "2021-10-25 21:05:32",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2021-10-25 21:05:32",
       "album": {
-        "name": "Fijaci\u00f3n Oral, Vol. 1",
-        "url": "https://open.spotify.com/album/3zHPYwiMJqa3hTBgk695Ae"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 173133,
-      "name": "Dia de Enero",
-      "url": "https://open.spotify.com/track/0OEBOJhSObnFuHuasXdt52"
-    },
-    {
-      "added_at": "2021-10-25 21:05:32",
-      "album": {
         "name": "The Sign",
         "url": "https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 211213,
       "name": "All That She Wants",
       "url": "https://open.spotify.com/track/6kWJvPfC4DgUpRsXKNa9z9"
+    },
+    {
+      "added_at": "2021-10-25 21:05:32",
+      "album": {
+        "name": "Fijaci\u00f3n Oral, Vol. 1",
+        "url": "https://open.spotify.com/album/3zHPYwiMJqa3hTBgk695Ae"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 173133,
+      "name": "Dia de Enero",
+      "url": "https://open.spotify.com/track/0OEBOJhSObnFuHuasXdt52"
     },
     {
       "added_at": "2021-10-25 21:05:32",
@@ -1563,18 +1563,18 @@
     {
       "added_at": "2021-10-25 21:05:32",
       "album": {
-        "name": "1 (Remastered)",
-        "url": "https://open.spotify.com/album/7vEJAtP3KgKSpOHVgwm3Eh"
+        "name": "MTV Unplugged M\u00fasica De Fondo (Reissue/Live)",
+        "url": "https://open.spotify.com/album/5fl6q7SKOuaO2tHXeTaZeV"
       },
       "artists": [
         {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+          "name": "Zo\u00e9",
+          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
         }
       ],
-      "duration_ms": 425653,
-      "name": "Hey Jude - Remastered 2015",
-      "url": "https://open.spotify.com/track/0aym2LBJBk9DAYuHHutrIl"
+      "duration_ms": 226626,
+      "name": "So\u00f1\u00e9 - En Vivo",
+      "url": "https://open.spotify.com/track/2VhJ4nrPorAbySEgO4V0BS"
     },
     {
       "added_at": "2021-10-25 21:05:32",
@@ -1595,18 +1595,18 @@
     {
       "added_at": "2021-10-25 21:05:32",
       "album": {
-        "name": "MTV Unplugged M\u00fasica De Fondo (Reissue/Live)",
-        "url": "https://open.spotify.com/album/5fl6q7SKOuaO2tHXeTaZeV"
+        "name": "1 (Remastered)",
+        "url": "https://open.spotify.com/album/7vEJAtP3KgKSpOHVgwm3Eh"
       },
       "artists": [
         {
-          "name": "Zo\u00e9",
-          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
         }
       ],
-      "duration_ms": 226626,
-      "name": "So\u00f1\u00e9 - En Vivo",
-      "url": "https://open.spotify.com/track/2VhJ4nrPorAbySEgO4V0BS"
+      "duration_ms": 425653,
+      "name": "Hey Jude - Remastered 2015",
+      "url": "https://open.spotify.com/track/0aym2LBJBk9DAYuHHutrIl"
     },
     {
       "added_at": "2021-10-25 21:05:32",

@@ -147,7 +147,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 233998,
       "name": "Cleanup Hitter",
       "url": "https://open.spotify.com/track/0RQT5rs8uElx7yrvhj6GMU"
@@ -393,7 +393,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 234133,
       "name": "Heaven Is A Honky Tonk",
       "url": "https://open.spotify.com/track/5pg5piAxkAjXqA7aXnOw5Z"
@@ -490,6 +490,28 @@
     },
     {
       "album": {
+        "name": "(self-titled)",
+        "url": "https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE"
+      },
+      "artists": [
+        {
+          "name": "Marcus Mumford",
+          "url": "https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224893,
+      "name": "How (feat. Brandi Carlile)",
+      "url": "https://open.spotify.com/track/171xo7JC4bf7vqFmjF88M8"
+    },
+    {
+      "album": {
         "name": "The Firewatcher's Daughter",
         "url": "https://open.spotify.com/album/5ZpxRLVRkCZ2BXXW1KYbTB"
       },
@@ -553,7 +575,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-20",
+      "date_removed": null,
       "duration_ms": 193373,
       "name": "If She Ever Leaves Me",
       "url": "https://open.spotify.com/track/7eU4GSfrANUlZBptlflhR5"

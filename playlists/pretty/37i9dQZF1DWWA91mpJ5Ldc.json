@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica brasileira para temperar as receitas do dia-a-dia.",
-  "num_followers": 102817,
+  "num_followers": 102848,
   "original_name": "Cozinhando em Casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjQ4NjA4OSwwMDAwMDAwMDEzOWMyZjFmYmZkYWFkYTVmNzhkODRhYTU0ZDkzODYw",
+  "snapshot_id": "MTY2MjQ4NjA4OSwwMDAwMDAwMDQyODVkZmY2N2FjM2NkN2RkZmMyNjNhY2EzNTYxOGQz",
   "tracks": [
     {
       "added_at": "2022-09-06 17:41:29",
@@ -991,6 +991,22 @@
     {
       "added_at": "2022-09-06 17:41:29",
       "album": {
+        "name": "ZAM ZAM",
+        "url": "https://open.spotify.com/album/1e7w1jb3tAk4BRXZORhWa6"
+      },
+      "artists": [
+        {
+          "name": "Lamparina",
+          "url": "https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z"
+        }
+      ],
+      "duration_ms": 212433,
+      "name": "No Stress",
+      "url": "https://open.spotify.com/track/2fIdSo9QPKWtlc29d9L0u3"
+    },
+    {
+      "added_at": "2022-09-06 17:41:29",
+      "album": {
         "name": "Fim do Horizonte",
         "url": "https://open.spotify.com/album/46bYEuUXkQl7pL0p88TdgJ"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 200608,
       "name": "Fim do Horizonte",
       "url": "https://open.spotify.com/track/7D3Kw5T7nQtM3Cg5jgNVeX"
-    },
-    {
-      "added_at": "2022-09-06 17:41:29",
-      "album": {
-        "name": "ZAM ZAM",
-        "url": "https://open.spotify.com/album/1e7w1jb3tAk4BRXZORhWa6"
-      },
-      "artists": [
-        {
-          "name": "Lamparina",
-          "url": "https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z"
-        }
-      ],
-      "duration_ms": 212433,
-      "name": "No Stress",
-      "url": "https://open.spotify.com/track/2fIdSo9QPKWtlc29d9L0u3"
     },
     {
       "added_at": "2022-09-06 17:41:29",

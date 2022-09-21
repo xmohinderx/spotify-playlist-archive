@@ -4,7 +4,7 @@
 
 > This is Madison Cunningham\. The essential tracks, all in one playlist.
 
-51 songs - 3 hr 20 min - [published](https://open.spotify.com/playlist/47kA07wVyKhpcPYywANZEm)
+52 songs - 3 hr 25 min - [published](https://open.spotify.com/playlist/47kA07wVyKhpcPYywANZEm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,8 +16,8 @@
 | [Beauty Into Clichés](https://open.spotify.com/track/0kUnazSkIJAOJl3GiWEC94) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [For The Sake Of The Rhyme](https://open.spotify.com/album/4BaN7uc9vzyOberlO92BRR) | 4:01 | 2022-09-16 |  |
 | [Broken Harvest](https://open.spotify.com/track/4RgMyZb1frf45zF2BSjMD4) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Broken Harvest](https://open.spotify.com/album/3cw9LHQyTxAjwGbkJDewme) | 4:47 | 2022-09-16 |  |
 | [Coming Back](https://open.spotify.com/track/2B6uTBqOlMpfaa5icFCs6x) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Coming Back](https://open.spotify.com/album/5wsEdLwlrgniybkBkYZqBN) | 2:23 | 2022-09-16 |  |
-| [Common Language](https://open.spotify.com/track/3rEwolA0qEDonOpKkws7V7) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Who Are You Now](https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy) | 4:26 | 2022-09-16 | 2022-09-19 |
-| [Dry As Sand](https://open.spotify.com/track/3IJzE46O8hpo05HM9D7k44) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Who Are You Now](https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy) | 4:19 | 2022-09-18 |  |
+| [Common Language](https://open.spotify.com/track/3rEwolA0qEDonOpKkws7V7) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Who Are You Now](https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy) | 4:26 | 2022-09-16 |  |
+| [Dry As Sand](https://open.spotify.com/track/3IJzE46O8hpo05HM9D7k44) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Who Are You Now](https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy) | 4:19 | 2022-09-18 | 2022-09-21 |
 | [Forever Young](https://open.spotify.com/track/5SEIUFwcfzz23XOsV9Zkq4) | [Scary Pockets](https://open.spotify.com/artist/1e16kiJQtCTveTl7TQnkFN), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Ups & Downs](https://open.spotify.com/album/3NRo2C87t72OqUzt1DnRBD) | 3:22 | 2022-09-16 |  |
 | [Giraffe](https://open.spotify.com/track/7bTL9liJExG79P5M6SAz3b) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Giraffe](https://open.spotify.com/album/528JQRLIrcelhIX7s7L2xS) | 4:12 | 2022-09-16 |  |
 | [Good Guys And The Villains](https://open.spotify.com/track/5dQ2LCCzIHUKR7onMXbo9E) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Love, Lose, Remember](https://open.spotify.com/album/33cGQwuhKjfvlGziUdKMWL) | 4:08 | 2022-09-16 |  |
@@ -29,7 +29,8 @@
 | [John Wayne](https://open.spotify.com/track/61D7FDCFgp9U4h6VgpRN0t) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [For The Sake Of The Rhyme](https://open.spotify.com/album/4BaN7uc9vzyOberlO92BRR) | 4:55 | 2022-09-16 |  |
 | [L.A\. \(Looking Alive\)](https://open.spotify.com/track/7zPotVoWNGt5TxFLg24cbT) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Who Are You Now](https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy) | 3:48 | 2022-09-16 |  |
 | [Last Boat To Freedom](https://open.spotify.com/track/4EmXzLFLqPKspA94RIYYM9) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [For The Sake Of The Rhyme](https://open.spotify.com/album/4BaN7uc9vzyOberlO92BRR) | 4:25 | 2022-09-16 |  |
-| [Life According To Raechel](https://open.spotify.com/track/0L6aCvJcfTEAx0INqVxjBH) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Life According To Raechel](https://open.spotify.com/album/72oba0tTHatmqgkzdHCosS) | 4:33 | 2022-09-16 |  |
+| [Life According To Raechel](https://open.spotify.com/track/0L6aCvJcfTEAx0INqVxjBH) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Life According To Raechel](https://open.spotify.com/album/72oba0tTHatmqgkzdHCosS) | 4:33 | 2022-09-16 | 2022-09-21 |
+| [Life According To Raechel](https://open.spotify.com/track/35sEqwW23uB0PqZATuQVjW) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Revealer](https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D) | 4:33 | 2022-09-20 |  |
 | [Little Things With Great Love \(Live\) \[feat\. Madison Cunningham\]](https://open.spotify.com/track/4mpVCcWKI4uQVJoQWAwTHV) | [The Porter's Gate](https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Work Songs: The Porter's Gate Worship Project Vol 1](https://open.spotify.com/album/0fGjqZbsoSCGJEfjdaCyCI) | 5:07 | 2022-09-16 |  |
 | [Location](https://open.spotify.com/track/4Eegpewr60UiKR7w8wfGMH) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [For The Sake Of The Rhyme](https://open.spotify.com/album/4BaN7uc9vzyOberlO92BRR) | 3:23 | 2022-09-16 |  |
 | [Louisiana 1927 \(feat\. Madison Cunningham\)](https://open.spotify.com/track/08v0Un342hJHIgtsLcBbER) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Live To Tape: Volume II](https://open.spotify.com/album/6WocdLjm1E7hXslJgK1mMU) | 3:15 | 2022-09-16 |  |
@@ -58,6 +59,6 @@
 | [When Love Loves Alone](https://open.spotify.com/track/0123Q9pS0KtXal4ejQd0ju) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Love, Lose, Remember](https://open.spotify.com/album/33cGQwuhKjfvlGziUdKMWL) | 4:30 | 2022-09-16 |  |
 | [Who Are You Now](https://open.spotify.com/track/5kxVd8hCvJWaXw8Rp5xtGh) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Revealer](https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D) | 3:17 | 2022-09-16 |  |
 | [Window](https://open.spotify.com/track/6gOIKwnnUBcpwRfEpYHBxI) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Love, Lose, Remember](https://open.spotify.com/album/33cGQwuhKjfvlGziUdKMWL) | 4:28 | 2022-09-16 |  |
-| [Your Hate Could Power A Train](https://open.spotify.com/track/4WMivpvdBVAOKQsYvJr4wy) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Revealer](https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D) | 3:11 | 2022-09-16 |  |
+| [Your Hate Could Power A Train](https://open.spotify.com/track/4WMivpvdBVAOKQsYvJr4wy) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Revealer](https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D) | 3:11 | 2022-09-16 | 2022-09-21 |
 
 \*This playlist was first scraped on 2022-09-17. Prior content cannot be recovered.

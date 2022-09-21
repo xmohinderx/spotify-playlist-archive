@@ -1,12 +1,12 @@
 {
   "description": "An introduction to the music of Bartok, Hungary's greatest composer.",
-  "num_followers": 13625,
+  "num_followers": 13637,
   "original_name": "This Is Bart\u00f3k",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjY0ODEyMCwwMDAwMDAwMDhjZjUwMWFkYjdjMTY5N2FmYTIxOTJiODQyN2E2MmFj",
+  "snapshot_id": "MTY1NjY0ODEyMCwwMDAwMDAwMDQ4ZWU1NWQ4MTBkMjY1OGFlNTNkM2FkZDlmYTllYjc2",
   "tracks": [
     {
       "added_at": "2022-07-01 04:02:00",
@@ -455,30 +455,6 @@
     {
       "added_at": "2022-07-01 04:02:00",
       "album": {
-        "name": "Bartok: Miraculous Mandarin (The) (Complete Ballet) / Hungarian Pictures / Dance Suite",
-        "url": "https://open.spotify.com/album/4b2Zzk0foPXsLJfsgH9Osk"
-      },
-      "artists": [
-        {
-          "name": "B\u00e9la Bart\u00f3k",
-          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
-        },
-        {
-          "name": "Bournemouth Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/2KuPDJp7FCpmaUy4jKcjfB"
-        },
-        {
-          "name": "Marin Alsop",
-          "url": "https://open.spotify.com/artist/0lluGWFB8hZ6HFktcH6kkr"
-        }
-      ],
-      "duration_ms": 171600,
-      "name": "Dance Suite, BB 86b: IV. Molto tranquillo",
-      "url": "https://open.spotify.com/track/0aCTZe479Fv0AhMDiDtEIf"
-    },
-    {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
         "name": "Bart\u00f3k: 44 Violin Duos",
         "url": "https://open.spotify.com/album/5Q7FzPEcV0ZTXlprkNEBZd"
       },
@@ -499,6 +475,30 @@
       "duration_ms": 127880,
       "name": "Erd\u00e9lyi t\u00e1nc",
       "url": "https://open.spotify.com/track/7np35tcxkRbHzm75KXbIXA"
+    },
+    {
+      "added_at": "2022-07-01 04:02:00",
+      "album": {
+        "name": "Bartok: Miraculous Mandarin (The) (Complete Ballet) / Hungarian Pictures / Dance Suite",
+        "url": "https://open.spotify.com/album/4b2Zzk0foPXsLJfsgH9Osk"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Bournemouth Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/2KuPDJp7FCpmaUy4jKcjfB"
+        },
+        {
+          "name": "Marin Alsop",
+          "url": "https://open.spotify.com/artist/0lluGWFB8hZ6HFktcH6kkr"
+        }
+      ],
+      "duration_ms": 171600,
+      "name": "Dance Suite, BB 86b: IV. Molto tranquillo",
+      "url": "https://open.spotify.com/track/0aCTZe479Fv0AhMDiDtEIf"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -555,8 +555,8 @@
     {
       "added_at": "2022-07-01 04:02:00",
       "album": {
-        "name": "Bartok: Concerto for Orchestra / Music for Strings, Percussion and Celesta",
-        "url": "https://open.spotify.com/album/6FKv73yrYV5xVzDQJqqM0x"
+        "name": "Bart\u00f3k: Violin Sonatas",
+        "url": "https://open.spotify.com/album/4sKZELunuNVCa0ZJN7hY5X"
       },
       "artists": [
         {
@@ -564,17 +564,13 @@
           "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
         },
         {
-          "name": "Belgian Radio and Television Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/46Y1wFSF9ScMqk1U4SBGky"
-        },
-        {
-          "name": "Alexander Rahbari",
-          "url": "https://open.spotify.com/artist/2enPrYI2oHc6IWCuCmLfX9"
+          "name": "Isabelle Faust",
+          "url": "https://open.spotify.com/artist/00q3HI6mnGUJqMlfwBJTco"
         }
       ],
-      "duration_ms": 453000,
-      "name": "Music for Strings, Percussion and Celesta, BB 114: III. Adagio",
-      "url": "https://open.spotify.com/track/6NEwZwRUI1gGoY2VtPQeeD"
+      "duration_ms": 702266,
+      "name": "Sonata for Solo Violin in G Minor, Sz. 117: I. Tempo di Ciaccona",
+      "url": "https://open.spotify.com/track/60q5F3eZAix0vodIamukbp"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -607,8 +603,8 @@
     {
       "added_at": "2022-07-01 04:02:00",
       "album": {
-        "name": "Bart\u00f3k: Violin Sonatas",
-        "url": "https://open.spotify.com/album/4sKZELunuNVCa0ZJN7hY5X"
+        "name": "Bartok: Concerto for Orchestra / Music for Strings, Percussion and Celesta",
+        "url": "https://open.spotify.com/album/6FKv73yrYV5xVzDQJqqM0x"
       },
       "artists": [
         {
@@ -616,13 +612,17 @@
           "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
         },
         {
-          "name": "Isabelle Faust",
-          "url": "https://open.spotify.com/artist/00q3HI6mnGUJqMlfwBJTco"
+          "name": "Belgian Radio and Television Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/46Y1wFSF9ScMqk1U4SBGky"
+        },
+        {
+          "name": "Alexander Rahbari",
+          "url": "https://open.spotify.com/artist/2enPrYI2oHc6IWCuCmLfX9"
         }
       ],
-      "duration_ms": 702266,
-      "name": "Sonata for Solo Violin in G Minor, Sz. 117: I. Tempo di Ciaccona",
-      "url": "https://open.spotify.com/track/60q5F3eZAix0vodIamukbp"
+      "duration_ms": 453000,
+      "name": "Music for Strings, Percussion and Celesta, BB 114: III. Adagio",
+      "url": "https://open.spotify.com/track/6NEwZwRUI1gGoY2VtPQeeD"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -827,50 +827,6 @@
     {
       "added_at": "2022-07-01 04:02:00",
       "album": {
-        "name": "Bart\u00f3k: Complete Works for Piano Solo, Vol. 2 \u2013 The Romantic Bart\u00f3k",
-        "url": "https://open.spotify.com/album/2NYDZNpORZUw9Jon6Z1TYH"
-      },
-      "artists": [
-        {
-          "name": "B\u00e9la Bart\u00f3k",
-          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
-        },
-        {
-          "name": "Andreas Bach",
-          "url": "https://open.spotify.com/artist/3mie871VjIKR2EV34P1lhj"
-        }
-      ],
-      "duration_ms": 673800,
-      "name": "4 Piano Pieces, Sz. 22: No. 4. Scherzo",
-      "url": "https://open.spotify.com/track/0tlHSq6tvEB7ohg0aaL58d"
-    },
-    {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
-        "name": "Bartok: Rhapsodies Nos. 1 And 2 / Piano Quintet",
-        "url": "https://open.spotify.com/album/3WXg9ApkQ8cDUO2AdpKz6J"
-      },
-      "artists": [
-        {
-          "name": "B\u00e9la Bart\u00f3k",
-          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
-        },
-        {
-          "name": "Kod\u00e1ly Quartet",
-          "url": "https://open.spotify.com/artist/1LP6gYZMSGJNpso6MWoOWr"
-        },
-        {
-          "name": "Jen\u0151 Jand\u00f3",
-          "url": "https://open.spotify.com/artist/5Kb0Qf13EyYtVJvzCdI9M7"
-        }
-      ],
-      "duration_ms": 527400,
-      "name": "Piano Quintet, BB 33: Vivace - Scherzando",
-      "url": "https://open.spotify.com/track/1ILSqTTfisGu8mgL3kqtca"
-    },
-    {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
         "name": "Bartok, E\u00f6tv\u00f6s, Ligeti",
         "url": "https://open.spotify.com/album/3TWUktoDymo3inYpD6yNpS"
       },
@@ -923,8 +879,8 @@
     {
       "added_at": "2022-07-01 04:02:00",
       "album": {
-        "name": "Bartok: Concerto for Orchestra / Music for Strings, Percussion and Celesta",
-        "url": "https://open.spotify.com/album/6FKv73yrYV5xVzDQJqqM0x"
+        "name": "Bart\u00f3k: Complete Works for Piano Solo, Vol. 2 \u2013 The Romantic Bart\u00f3k",
+        "url": "https://open.spotify.com/album/2NYDZNpORZUw9Jon6Z1TYH"
       },
       "artists": [
         {
@@ -932,17 +888,37 @@
           "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
         },
         {
-          "name": "Belgian Radio and Television Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/46Y1wFSF9ScMqk1U4SBGky"
-        },
-        {
-          "name": "Alexander Rahbari",
-          "url": "https://open.spotify.com/artist/2enPrYI2oHc6IWCuCmLfX9"
+          "name": "Andreas Bach",
+          "url": "https://open.spotify.com/artist/3mie871VjIKR2EV34P1lhj"
         }
       ],
-      "duration_ms": 652000,
-      "name": "Concerto for Orchestra, BB 123: I. Introduzione: Andante non troppo - Allegro vivace",
-      "url": "https://open.spotify.com/track/7KnuT7nqwqj3JjgqZ4EFil"
+      "duration_ms": 673800,
+      "name": "4 Piano Pieces, Sz. 22: No. 4. Scherzo",
+      "url": "https://open.spotify.com/track/0tlHSq6tvEB7ohg0aaL58d"
+    },
+    {
+      "added_at": "2022-07-01 04:02:00",
+      "album": {
+        "name": "Bartok: Rhapsodies Nos. 1 And 2 / Piano Quintet",
+        "url": "https://open.spotify.com/album/3WXg9ApkQ8cDUO2AdpKz6J"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Kod\u00e1ly Quartet",
+          "url": "https://open.spotify.com/artist/1LP6gYZMSGJNpso6MWoOWr"
+        },
+        {
+          "name": "Jen\u0151 Jand\u00f3",
+          "url": "https://open.spotify.com/artist/5Kb0Qf13EyYtVJvzCdI9M7"
+        }
+      ],
+      "duration_ms": 527400,
+      "name": "Piano Quintet, BB 33: Vivace - Scherzando",
+      "url": "https://open.spotify.com/track/1ILSqTTfisGu8mgL3kqtca"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -967,6 +943,30 @@
       "duration_ms": 161466,
       "name": "Mikrokosmos: 7 Pieces for 2 Pianos, 4 Hands, BB 120: No. 7. Ostinato: Vivacissimo (arr. of Vol. 6, No. 146)",
       "url": "https://open.spotify.com/track/6nQEtXqLyiug0wZwvT38pj"
+    },
+    {
+      "added_at": "2022-07-01 04:02:00",
+      "album": {
+        "name": "Bartok: Concerto for Orchestra / Music for Strings, Percussion and Celesta",
+        "url": "https://open.spotify.com/album/6FKv73yrYV5xVzDQJqqM0x"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Belgian Radio and Television Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/46Y1wFSF9ScMqk1U4SBGky"
+        },
+        {
+          "name": "Alexander Rahbari",
+          "url": "https://open.spotify.com/artist/2enPrYI2oHc6IWCuCmLfX9"
+        }
+      ],
+      "duration_ms": 652000,
+      "name": "Concerto for Orchestra, BB 123: I. Introduzione: Andante non troppo - Allegro vivace",
+      "url": "https://open.spotify.com/track/7KnuT7nqwqj3JjgqZ4EFil"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -1059,34 +1059,6 @@
     {
       "added_at": "2022-07-01 04:02:00",
       "album": {
-        "name": "Bart\u00f3k",
-        "url": "https://open.spotify.com/album/3H1H5H49IB1Xw8z6qX8lmt"
-      },
-      "artists": [
-        {
-          "name": "B\u00e9la Bart\u00f3k",
-          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
-        },
-        {
-          "name": "Gil Shaham",
-          "url": "https://open.spotify.com/artist/6ALhP2ILfgcSmpTefE4C3Q"
-        },
-        {
-          "name": "Chicago Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/6TD08jYeuN128P2MZTbc8E"
-        },
-        {
-          "name": "Pierre Boulez",
-          "url": "https://open.spotify.com/artist/2prZJWfQMnIgwUKxKcBxH7"
-        }
-      ],
-      "duration_ms": 315000,
-      "name": "Rhapsody For Violin And Orchestra No. 2 Sz 90: I. Lass\u00fa: Moderato",
-      "url": "https://open.spotify.com/track/6mpgrSwDbtMZ285O8ETIew"
-    },
-    {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
         "name": "Bart\u00f3k: Bluebeard's Castle, Op. 11, Sz. 48",
         "url": "https://open.spotify.com/album/36dGchtqt2hLKTS2oeNHPx"
       },
@@ -1119,6 +1091,34 @@
     {
       "added_at": "2022-07-01 04:02:00",
       "album": {
+        "name": "Bart\u00f3k",
+        "url": "https://open.spotify.com/album/3H1H5H49IB1Xw8z6qX8lmt"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Gil Shaham",
+          "url": "https://open.spotify.com/artist/6ALhP2ILfgcSmpTefE4C3Q"
+        },
+        {
+          "name": "Chicago Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/6TD08jYeuN128P2MZTbc8E"
+        },
+        {
+          "name": "Pierre Boulez",
+          "url": "https://open.spotify.com/artist/2prZJWfQMnIgwUKxKcBxH7"
+        }
+      ],
+      "duration_ms": 315000,
+      "name": "Rhapsody For Violin And Orchestra No. 2 Sz 90: I. Lass\u00fa: Moderato",
+      "url": "https://open.spotify.com/track/6mpgrSwDbtMZ285O8ETIew"
+    },
+    {
+      "added_at": "2022-07-01 04:02:00",
+      "album": {
         "name": "Bart\u00f3k: Complete Solo Piano Works",
         "url": "https://open.spotify.com/album/2QGqrHVhT67lWT1MYO4lqB"
       },
@@ -1139,6 +1139,34 @@
     {
       "added_at": "2022-07-01 04:02:00",
       "album": {
+        "name": "Bart\u00f3k",
+        "url": "https://open.spotify.com/album/3H1H5H49IB1Xw8z6qX8lmt"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Leif Ove Andsnes",
+          "url": "https://open.spotify.com/artist/7J9Fo9dMjGNYY8usNMietL"
+        },
+        {
+          "name": "Berliner Philharmoniker",
+          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+        },
+        {
+          "name": "Pierre Boulez",
+          "url": "https://open.spotify.com/artist/2prZJWfQMnIgwUKxKcBxH7"
+        }
+      ],
+      "duration_ms": 373000,
+      "name": "Piano Concerto No. 2, BB 101, Sz. 95: III. Allegro molto",
+      "url": "https://open.spotify.com/track/7mnL1wVTvqWrQIrWVbPczg"
+    },
+    {
+      "added_at": "2022-07-01 04:02:00",
+      "album": {
         "name": "Bart\u00f3k: Piano Works",
         "url": "https://open.spotify.com/album/3LRCqap0DfYVNr4RH6ZWM6"
       },
@@ -1155,34 +1183,6 @@
       "duration_ms": 257306,
       "name": "Dance Suite, Sz 77: VI. Finale. Allegro",
       "url": "https://open.spotify.com/track/74Jby8fyKAnjN3rAuiifwi"
-    },
-    {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
-        "name": "Bartok: Concertos",
-        "url": "https://open.spotify.com/album/5wcok340bwuCkcVjriLZpo"
-      },
-      "artists": [
-        {
-          "name": "B\u00e9la Bart\u00f3k",
-          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
-        },
-        {
-          "name": "Yuri Bashmet",
-          "url": "https://open.spotify.com/artist/6x1iIq6sH6TPtCA5IJjA4x"
-        },
-        {
-          "name": "Berliner Philharmoniker",
-          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
-        },
-        {
-          "name": "Pierre Boulez",
-          "url": "https://open.spotify.com/artist/2prZJWfQMnIgwUKxKcBxH7"
-        }
-      ],
-      "duration_ms": 871493,
-      "name": "Concerto For Viola And Orchestra, Op. Post. - Version: Tibor Serly: I. Moderato - Lento parlando",
-      "url": "https://open.spotify.com/track/1fNrbXNmmArLhhR2fYOOon"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -1219,8 +1219,8 @@
     {
       "added_at": "2022-07-01 04:02:00",
       "album": {
-        "name": "Bart\u00f3k",
-        "url": "https://open.spotify.com/album/3H1H5H49IB1Xw8z6qX8lmt"
+        "name": "Bartok: Concertos",
+        "url": "https://open.spotify.com/album/5wcok340bwuCkcVjriLZpo"
       },
       "artists": [
         {
@@ -1228,8 +1228,8 @@
           "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
         },
         {
-          "name": "Leif Ove Andsnes",
-          "url": "https://open.spotify.com/artist/7J9Fo9dMjGNYY8usNMietL"
+          "name": "Yuri Bashmet",
+          "url": "https://open.spotify.com/artist/6x1iIq6sH6TPtCA5IJjA4x"
         },
         {
           "name": "Berliner Philharmoniker",
@@ -1240,9 +1240,9 @@
           "url": "https://open.spotify.com/artist/2prZJWfQMnIgwUKxKcBxH7"
         }
       ],
-      "duration_ms": 373000,
-      "name": "Piano Concerto No. 2, BB 101, Sz. 95: III. Allegro molto",
-      "url": "https://open.spotify.com/track/7mnL1wVTvqWrQIrWVbPczg"
+      "duration_ms": 871493,
+      "name": "Concerto For Viola And Orchestra, Op. Post. - Version: Tibor Serly: I. Moderato - Lento parlando",
+      "url": "https://open.spotify.com/track/1fNrbXNmmArLhhR2fYOOon"
     },
     {
       "added_at": "2022-07-01 04:02:00",

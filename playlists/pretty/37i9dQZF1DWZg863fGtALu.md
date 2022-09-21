@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZg863fGtALu.md) - [plain]
 
 > Summer memories from yesteryear!
 
-[Spotify](https://open.spotify.com/user/spotify) - 507,049 likes - 80 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 507,016 likes - 80 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZg863fGtALu.md) - [plain]
 | 43 | [Budapest](https://open.spotify.com/track/2ixsaeFioXJmMgkkbd4uj1) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Wanted on Voyage \(Expanded Edition\)](https://open.spotify.com/album/6mcMKGEgukjyiR5IKElQ2E) | 3:20 |
 | 44 | [Dynamite](https://open.spotify.com/track/2CEgGE6aESpnmtfiZwYlbV) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [The Rokstarr Hits Collection](https://open.spotify.com/album/0eGvq1J5Ke7VlLLOYIlY4k) | 3:22 |
 | 45 | [Old Town Road \- Remix](https://open.spotify.com/track/2YpeDb67231RjR0MgVLzsG) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Billy Ray Cyrus](https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa) | [7 EP](https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO) | 2:37 |
-| 46 | [I Love It \(feat\. Charli XCX\)](https://open.spotify.com/track/3VZQshi4COChhXaz7cLP02) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [I Love It](https://open.spotify.com/album/5hf74KpfuwSJXVs85k3dVI) | 2:35 |
+| 46 | [I Love It \(feat\. Charli XCX\)](https://open.spotify.com/track/3VZQshi4COChhXaz7cLP02) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [I Love It \(feat\. Charli XCX\)](https://open.spotify.com/album/5hf74KpfuwSJXVs85k3dVI) | 2:35 |
 | 47 | [California Gurls](https://open.spotify.com/track/6tS3XVuOyu10897O3ae7bi) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Teenage Dream: The Complete Confection](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) | 3:54 |
 | 48 | [Señorita](https://open.spotify.com/track/0TK2YIli7K1leLovkQiNik) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Señorita](https://open.spotify.com/album/2ZaX1FdZCwchXl1QZiD4O4) | 3:10 |
 | 49 | [Waka Waka \(This Time for Africa\) \[The Official 2010 FIFA World Cup \(TM\) Song\] \(feat\. Freshlyground\)](https://open.spotify.com/track/2Cd9iWfcOpGDHLz6tVA3G4) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Freshlyground](https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle) | [Waka Waka \(This Time for Africa\) \[The Official 2010 FIFA World Cup \(TM\) Song\] \(feat\. Freshlyground\)](https://open.spotify.com/album/3pzQF7YgU1f66pBayA8uHv) | 3:22 |

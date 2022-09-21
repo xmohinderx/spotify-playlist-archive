@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFRZSqP41al.md) - [plain]
 
 > Burn off all those beers from last night.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,368,503 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,368,647 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,11 +47,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFRZSqP41al.md) - [plain]
 | 37 | [Fallen Leaves](https://open.spotify.com/track/3jUTjCISntIUFL8jnAjzgc) | [Billy Talent](https://open.spotify.com/artist/08yf5A2nS4XEeNvabDXqyg) | [Billy Talent II](https://open.spotify.com/album/0cTOvcvrbNiaiv4WXEUHzT) | 3:19 |
 | 38 | [Boom](https://open.spotify.com/track/5DooySfCD1xCJ49gQm9rx7) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Satellite \(U.S\. Version\)](https://open.spotify.com/album/4eUmncMYQRg0Ot29KKqbuk) | 3:10 |
 | 39 | [Help](https://open.spotify.com/track/6EaGMOSWL2LndwY6gClBaD) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Crooked Teeth \(Deluxe\)](https://open.spotify.com/album/4KTUNKma9YpiSbioeui4pW) | 3:34 |
-| 40 | [Woman](https://open.spotify.com/track/3CkjLJYnnyOtGk4Jx4iYS4) | [Wolfmother](https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4) | [Wolfmother](https://open.spotify.com/album/5ywynDHLHT3l8QSu41TcmC) | 2:56 |
-| 41 | [Stinkfist](https://open.spotify.com/track/0pwObEOHolQZSldJ2q1wpy) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [Ænima](https://open.spotify.com/album/6yWMN087PgSimbcVmHLEwG) | 5:12 |
+| 40 | [Stinkfist](https://open.spotify.com/track/0pwObEOHolQZSldJ2q1wpy) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [Ænima](https://open.spotify.com/album/6yWMN087PgSimbcVmHLEwG) | 5:12 |
+| 41 | [Woman](https://open.spotify.com/track/3CkjLJYnnyOtGk4Jx4iYS4) | [Wolfmother](https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4) | [Wolfmother](https://open.spotify.com/album/5ywynDHLHT3l8QSu41TcmC) | 2:56 |
 | 42 | [Wake Up](https://open.spotify.com/track/2QiqwOVUctPRVggO9G1Zs5) | [Rage Against The Machine](https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj) | [Rage Against The Machine \- XX \(20th Anniversary Special Edition\)](https://open.spotify.com/album/4Io5vWtmV1rFj4yirKb4y4) | 6:03 |
-| 43 | [Crawling In The Dark](https://open.spotify.com/track/1PJRDeZSoZk7gtisdTYfLi) | [Hoobastank](https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO) | [Hoobastank \(20th Anniversary Edition\)](https://open.spotify.com/album/0NZrJM8gL8xBCsPR7nZGqR) | 2:55 |
-| 44 | [Mudshovel](https://open.spotify.com/track/6264zKFgXM13JuRBX4MMyD) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [Dysfunction](https://open.spotify.com/album/4fLp0YBi1chfMHSBkIeI6w) | 4:42 |
+| 43 | [Mudshovel](https://open.spotify.com/track/6264zKFgXM13JuRBX4MMyD) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [Dysfunction](https://open.spotify.com/album/4fLp0YBi1chfMHSBkIeI6w) | 4:42 |
+| 44 | [Crawling In The Dark](https://open.spotify.com/track/1PJRDeZSoZk7gtisdTYfLi) | [Hoobastank](https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO) | [Hoobastank \(20th Anniversary Edition\)](https://open.spotify.com/album/0NZrJM8gL8xBCsPR7nZGqR) | 2:55 |
 | 45 | [Machinehead](https://open.spotify.com/track/6dJODklApmve5IzgKWUqV2) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa) | [Sixteen Stone \(Remastered\)](https://open.spotify.com/album/5IJm0boSQuEBLiYNZJKV2Y) | 4:16 |
 | 46 | [Go To War](https://open.spotify.com/track/4A0LV6W7IUKPP2pyAZ356E) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [The Stories We Tell Ourselves](https://open.spotify.com/album/4tEmy5QxiF1b65HxuGnkco) | 4:05 |
 | 47 | [Alive \- Chris Lord\-Alge Mix](https://open.spotify.com/track/1X4Ntw6Lbaa1ACgilCqMpr) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Satellite \(U.S\. Version\)](https://open.spotify.com/album/4eUmncMYQRg0Ot29KKqbuk) | 3:25 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFRZSqP41al.md) - [plain]
 | 52 | [Broken Heart](https://open.spotify.com/track/5LV0oQV98daZAUoWnQEW6N) | [Escape the Fate](https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum) | [I Am Human](https://open.spotify.com/album/0b4KJR48ZibGZafb5sviX3) | 3:07 |
 | 53 | [BLACKOUT](https://open.spotify.com/track/0bGImSqDB2ebdeoCidUC8o) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [GLOW ON](https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS) | 2:53 |
 | 54 | [Break Stuff](https://open.spotify.com/track/2YC6ET3q1F29B0V7UcPV70) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Greatest Hitz](https://open.spotify.com/album/50na3UenOpUOS1uuWXM0AY) | 2:46 |
-| 55 | [The Devil's Bleeding Crown](https://open.spotify.com/track/79M3Eq1q61lkeQJ1OCVEdZ) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Seal The Deal & Let's Boogie](https://open.spotify.com/album/43UPS43heoPmecwkeQhAnI) | 3:58 |
-| 56 | [Paranoia](https://open.spotify.com/track/3HhaSocKwTptze7PySNZlW) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Bad Vibrations \(Deluxe Edition\)](https://open.spotify.com/album/5rSgMFmmuaKQxma4bSEviU) | 3:20 |
+| 55 | [Paranoia](https://open.spotify.com/track/3HhaSocKwTptze7PySNZlW) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Bad Vibrations \(Deluxe Edition\)](https://open.spotify.com/album/5rSgMFmmuaKQxma4bSEviU) | 3:20 |
+| 56 | [The Devil's Bleeding Crown](https://open.spotify.com/track/79M3Eq1q61lkeQJ1OCVEdZ) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Seal The Deal & Let's Boogie](https://open.spotify.com/album/43UPS43heoPmecwkeQhAnI) | 3:58 |
 | 57 | [I Don't Care \- Single Version](https://open.spotify.com/track/7ewT0nLFkMD8ONbRibePr9) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Folie à Deux](https://open.spotify.com/album/6KOWjVP0mh5rOqmzm4tkPD) | 3:34 |
 | 58 | [Teardrops](https://open.spotify.com/track/3aniWcwiiYKHpm3F5TdeKD) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Teardrops](https://open.spotify.com/album/4U4nKoTy4lsQlUoaGqg8U4) | 3:35 |
 | 59 | [Go With The Flow](https://open.spotify.com/track/45DElIx0dXqUH4A88yQFdE) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Songs For The Deaf](https://open.spotify.com/album/58HZZpS0wxJKwGjoerg0mk) | 3:07 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFRZSqP41al.md) - [plain]
 | 99 | [Victorious](https://open.spotify.com/track/6TFGNgCyhgHKNn046iG6fa) | [Wolfmother](https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4) | [Victorious](https://open.spotify.com/album/2dwb86bhTK0Nr9ClfXQbZA) | 4:24 |
 | 100 | [Straight to Hell](https://open.spotify.com/track/1mbPPfppc4tbxyvSRpgPrY) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Ordinary Man](https://open.spotify.com/album/2x2cG56QicVfymWnRF0Nmj) | 3:45 |
 
-Snapshot ID: `MTY1NzgxOTc4MywwMDAwMDAwMDY3MTliMWVlMjk1Yjg1MTdkYzUzOGQ3YjhjMTQwY2M2`
+Snapshot ID: `MTY1NzgxOTc4MywwMDAwMDAwMDQzMTE5MTNlYzYxZGI4NjU3YzI2MjEwY2QwNTIwMGJm`

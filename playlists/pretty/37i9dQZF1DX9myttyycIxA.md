@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: Jockstrap
 
-[Spotify](https://open.spotify.com/user/spotify) - 266,381 likes - 132 songs - 7 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 266,441 likes - 132 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 51 | [The Rift](https://open.spotify.com/track/3vUHrmHxjsngAXKvxRJ6nc) | [Chappaqua Wrestling](https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC) | [The Rift](https://open.spotify.com/album/7zDuEI2gGYXabIHsI4ZjAZ) | 3:48 |
 | 52 | [Dog Eat Dog](https://open.spotify.com/track/6JLcvLZP4N8MRhvjG6SGaL) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Dog Eat Dog](https://open.spotify.com/album/6EL1CpUnemPFyu30uPEu9N) | 2:49 |
 | 53 | [Her](https://open.spotify.com/track/3vOfOukwKoWE6AGRXscucS) | [FUR](https://open.spotify.com/artist/0e0z6v7dIm0XM7BgQTtB0a) | [Her](https://open.spotify.com/album/5SlWmYvt5uc2ga9MmkUxBH) | 3:51 |
-| 54 | [1TL2DU4 \(Feat\. girlpuppy\)](https://open.spotify.com/track/39XbojaoPgqjMj6SmX4vtb) | [The Brazen Youth](https://open.spotify.com/artist/7tnIA4ww5dwoyENYz4GM5T), [girlpuppy](https://open.spotify.com/artist/2dV0D4uKMB4c8VhYHzt360) | [1TL2DU4 \(Feat\. girlpuppy\)](https://open.spotify.com/album/0PvotAknEpNt5IeYhJ4DTJ) | 2:39 |
+| 54 | [1TL2DU4 \(Feat\. girlpuppy\)](https://open.spotify.com/track/3kNe7jhyAX4swhKqBM6KJK) | [The Brazen Youth](https://open.spotify.com/artist/7tnIA4ww5dwoyENYz4GM5T), [girlpuppy](https://open.spotify.com/artist/2dV0D4uKMB4c8VhYHzt360) | [Eagle, Idaho](https://open.spotify.com/album/1NKTNi0HMBHs4KH1QPrO2l) | 2:39 |
 | 55 | [Before Dawn](https://open.spotify.com/track/5wVwKdWcEwgf2pX3SgBod4) | [Unflirt](https://open.spotify.com/artist/19fxSFm3VSC8tg7msuw8zV) | [Before Dawn](https://open.spotify.com/album/1yXSX2NYq0beXees0O5EXg) | 4:17 |
 | 56 | [City](https://open.spotify.com/track/4lUWT0HdlZAOmy5fOJoIyO) | [distraction4ever](https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh) | [Please Don't Think About Tomorrow](https://open.spotify.com/album/3iXL32S132siz2SRS3zQ6U) | 3:03 |
 | 57 | [Structure](https://open.spotify.com/track/0OPD9fnjX6xWgHBQ4QClgu) | [Odd Sweetheart](https://open.spotify.com/artist/0Re7wtl0w6niMZR0GfROpg) | [Odd Sweetheart](https://open.spotify.com/album/3LLHBI11ekr5he4Y8TqVnG) | 2:31 |
@@ -141,4 +141,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 131 | [Not in the Cards](https://open.spotify.com/track/29QbcQ0P5uD76Uwk9XOxmp) | [The Red Pears](https://open.spotify.com/artist/3FRYBFCNEBWMjk6kvwjHQT) | [You Thought We Left Because The Door Was Open But We Were Waiting Outside](https://open.spotify.com/album/3njVnwW9KBX7kIZDJdA1dS) | 2:08 |
 | 132 | [Once More](https://open.spotify.com/track/3pI9rsup0vcma9YE0PI10t) | [Bathe Alone](https://open.spotify.com/artist/384r9G0NILqkGrQL8IPMkC) | [Once More](https://open.spotify.com/album/33MciQPUWvqtKSCb1WPRG7) | 3:24 |
 
-Snapshot ID: `MTY2MzYxNDU4NiwwMDAwMDAwMGMyNWVhNTY3ZTBjNzJjMWFkZjdhYjhkMWIzNWM2NTZj`
+Snapshot ID: `MTY2MzYxNDU4NiwwMDAwMDAwMGE5OWEwZThkMDJjY2QwZWVmNGIxNzI1YmEyYjFjNTBk`

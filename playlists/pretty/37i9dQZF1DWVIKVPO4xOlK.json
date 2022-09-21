@@ -1,12 +1,12 @@
 {
   "description": "Welcome to L.A. Lo que suena in the city of dreams. Cover: Luis R Conriquez",
-  "num_followers": 372918,
+  "num_followers": 372963,
   "original_name": "Rompiendo: Los Angeles",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI3NjgwMCwwMDAwMDAwMDA3NjI3ZGY3NGRmOWFlZGEwNzUyYTBhMzcyZTJkN2Q4",
+  "snapshot_id": "MTY2MDI3NjgwMCwwMDAwMDAwMDIwOTFhMmM1MjM1NWY2MDg5ZTg5MWI2OTk3ZWU3NGMw",
   "tracks": [
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
+        "name": "ESQUEMAS",
+        "url": "https://open.spotify.com/album/7eC4wtMG1I2Jtk4FDWbkKC"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "duration_ms": 161880,
+      "name": "BAIL\u00c9 CON MI EX",
+      "url": "https://open.spotify.com/track/2Td8H23gwQZqKubcUOyCSI"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
         "name": "Por Apodo Soy Sobrino (En Vivo)",
         "url": "https://open.spotify.com/album/7B52dEX4yFDEYHZszTnQhk"
       },
@@ -1455,22 +1471,6 @@
       "duration_ms": 206000,
       "name": "Por Apodo Soy Sobrino (En Vivo)",
       "url": "https://open.spotify.com/track/49qfoWzVYUENMSdwzBjgs3"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "ESQUEMAS",
-        "url": "https://open.spotify.com/album/7eC4wtMG1I2Jtk4FDWbkKC"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        }
-      ],
-      "duration_ms": 161880,
-      "name": "BAIL\u00c9 CON MI EX",
-      "url": "https://open.spotify.com/track/2Td8H23gwQZqKubcUOyCSI"
     },
     {
       "added_at": "2022-08-12 04:00:00",

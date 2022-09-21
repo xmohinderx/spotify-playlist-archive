@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bxAUv7BcDH.md) - [plain]
 
 > Song of the Year winners from 1959\-2021\. How many do you know? \#SpotifyTBT
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,632 likes - 62 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,633 likes - 62 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Every Breath You Take](https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Synchronicity \(Remastered 2003\)](https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY) | 4:13 |
-| 2 | [bad guy](https://open.spotify.com/track/2Fxmhks0bxGSBdJ92vM42m) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 3:14 |
-| 3 | [Viva La Vida](https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Viva La Vida or Death and All His Friends](https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty) | 4:02 |
+| 2 | [Viva La Vida](https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Viva La Vida or Death and All His Friends](https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty) | 4:02 |
+| 3 | [bad guy](https://open.spotify.com/track/2Fxmhks0bxGSBdJ92vM42m) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 3:14 |
 | 4 | [Thinking out Loud](https://open.spotify.com/track/34gCuhDGsG4bRPIf9bb02f) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Deluxe Edition\)](https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd) | 4:41 |
 | 5 | [That's What I Like](https://open.spotify.com/track/0KKkJNfGyhkQ5aFogxQAPU) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [24K Magic](https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA) | 3:26 |
 | 6 | [Rolling in the Deep](https://open.spotify.com/track/1c8gk2PeTE04A1pIDH9YMk) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL) | 3:48 |
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bxAUv7BcDH.md) - [plain]
 | 21 | [This Is America](https://open.spotify.com/track/0b9oOr2ZgvyQu88wzixux9) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [This Is America](https://open.spotify.com/album/7arx9qPJexCsDz67El4qvk) | 3:45 |
 | 22 | [Don't Worry Be Happy](https://open.spotify.com/track/4hObp5bmIJ3PP3cKA9K9GY) | [Bobby McFerrin](https://open.spotify.com/artist/2FjkZT851ez950cyPjeYid) | [Simple Pleasures](https://open.spotify.com/album/4zhRkgoZKC2xCPPys1gK4b) | 4:54 |
 | 23 | [Smooth \(feat\. Rob Thomas\)](https://open.spotify.com/track/0n2SEXB2qoRQg171q7XqeW) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [Rob Thomas](https://open.spotify.com/artist/3aBkeBhwadnWMWoVJ2CxJC) | [Supernatural \(Remastered\)](https://open.spotify.com/album/10aiDpdFGyfCFEcqpx6XTq) | 4:54 |
-| 24 | [Single Ladies \(Put a Ring on It\)](https://open.spotify.com/track/5R9a4t5t5O0IsznsrKPVro) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [I AM...SASHA FIERCE](https://open.spotify.com/album/39P7VD7qlg3Z0ltq60eHp7) | 3:13 |
-| 25 | [Fallin'](https://open.spotify.com/track/3unsLiH5FXmaDWtT5Imolu) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Songs In A Minor \(Expanded Edition\)](https://open.spotify.com/album/1SLgJeTdzDAJLcDyQqoWnu) | 3:30 |
+| 24 | [Fallin'](https://open.spotify.com/track/3unsLiH5FXmaDWtT5Imolu) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Songs In A Minor \(Expanded Edition\)](https://open.spotify.com/album/1SLgJeTdzDAJLcDyQqoWnu) | 3:30 |
+| 25 | [Single Ladies \(Put a Ring on It\)](https://open.spotify.com/track/5R9a4t5t5O0IsznsrKPVro) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [I AM...SASHA FIERCE](https://open.spotify.com/album/39P7VD7qlg3Z0ltq60eHp7) | 3:13 |
 | 26 | [We Are The World](https://open.spotify.com/track/3Z2tPWiNiIpg8UMMoowHIk) | [U.S.A\. For Africa](https://open.spotify.com/artist/7sF6m3PpW6G6m6J2gzzmzM) | [We Are The World](https://open.spotify.com/album/2O6gXGWFJcNrLYAqDINrDa) | 7:07 |
 | 27 | [Daughters](https://open.spotify.com/track/5FPnjikbwlDMULCCCa6ZCJ) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Heavier Things](https://open.spotify.com/album/6WivmTXugLZLmAWnZhlz7g) | 3:57 |
 | 28 | [Unforgettable](https://open.spotify.com/track/648TTtYB0bH0P8Hfy0FmkL) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Unforgettable](https://open.spotify.com/album/7GBvXtxnvBluo2f4xBVNkm) | 3:11 |
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bxAUv7BcDH.md) - [plain]
 | 61 | [You’ve Got A Friend \- Live At The Troubadour / 2007](https://open.spotify.com/track/7jNvvrEFtIQYnaukWx5ZSu) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6), [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Live At The Troubadour](https://open.spotify.com/album/0sCulNLnuzZW4TGugGi6Gv) | 5:51 |
 | 62 | [Days Of Wine And Roses \- REMASTERED](https://open.spotify.com/track/2sWRC12vYVTHjdTD2WOE4v) | [Henry Mancini](https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf) | [Greatest Hits \- The Best of Henry Mancini](https://open.spotify.com/album/1qUmcNnG6GBGXw9tLCTJ3V) | 2:06 |
 
-Snapshot ID: `MTY0NDk4OTg2MSwwMDAwMDAwMDFkNzVkMTNjYjEyN2EzYjQ2MTUyZmVlODg5N2U5NjYz`
+Snapshot ID: `MTY0NDk4OTg2MSwwMDAwMDAwMDdjMzgxMzY4ZTYyZjNlMzRlZmE4MGJmYzM3MWZkMjE4`

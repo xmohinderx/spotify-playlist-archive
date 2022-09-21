@@ -4,7 +4,7 @@
 
 > This is ZZ Top\. The essential tracks, all in one playlist.
 
-52 songs - 3 hr 23 min - [published](https://open.spotify.com/playlist/41prJYhrgPNDi8w3ldhpb3)
+53 songs - 3 hr 28 min - [published](https://open.spotify.com/playlist/41prJYhrgPNDi8w3ldhpb3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,9 +19,10 @@
 | [Cheap Sunglasses](https://open.spotify.com/track/30jsPpxLvSCYTTTtdjRzBp) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Deguello](https://open.spotify.com/album/339EONXrRgL9iLpxOKrUJZ) | 4:48 | 2022-09-17 |  |
 | [Consumption](https://open.spotify.com/track/2WtcpnIJRKuzrOA9BRzaEt) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [La Futura \(Deluxe Version\)](https://open.spotify.com/album/3BS9MUmVKghsOa7Y3otqpE) | 3:47 | 2022-09-17 |  |
 | [Dipping Low \(In the Lap of Luxury\)](https://open.spotify.com/track/4m4XQfjhxm5lV7AT38aeK1) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Afterburner](https://open.spotify.com/album/1YRTFKHD0QDO2QAKvU4mLz) | 3:11 | 2022-09-17 |  |
+| [Dirty Dog \- 2008 Remaster](https://open.spotify.com/track/1RLc2ojStMvkdkM00owYkm) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Eliminator](https://open.spotify.com/album/5LMGAYhn2ywaxGZdtmXGpw) | 4:06 | 2022-09-20 |  |
 | [Doubleback](https://open.spotify.com/track/57JtOe7GSDOWbIB71EOCNj) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Recycler](https://open.spotify.com/album/0WbYC0Gc9DFh35DhzDwR1k) | 3:56 | 2022-09-17 |  |
 | [Francine](https://open.spotify.com/track/1dzfGr4PZ5npvdv6DWvycB) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Rio Grande Mud](https://open.spotify.com/album/4M9bA8YsjIlZOg2wD0BmsM) | 3:33 | 2022-09-17 |  |
-| [Gimme All Your Lovin'](https://open.spotify.com/track/0OBwxFLu6Yj61s2OagYbgY) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Eliminator](https://open.spotify.com/album/5LMGAYhn2ywaxGZdtmXGpw) | 4:01 | 2022-09-18 |  |
+| [Gimme All Your Lovin'](https://open.spotify.com/track/0OBwxFLu6Yj61s2OagYbgY) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Eliminator](https://open.spotify.com/album/5LMGAYhn2ywaxGZdtmXGpw) | 4:01 | 2022-09-18 | 2022-09-21 |
 | [Got Me Under Pressure \- 2008 Remaster](https://open.spotify.com/track/1jzZZsfzxsebFa6KpWXaAr) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Eliminator](https://open.spotify.com/album/5LMGAYhn2ywaxGZdtmXGpw) | 4:03 | 2022-09-17 |  |
 | [Heard It On The X](https://open.spotify.com/track/2hVpNA46kjPlYHapuFJ2yS) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [RAW \('That Little Ol' Band From Texas' Original Soundtrack\)](https://open.spotify.com/album/2sXtcMxeUDyYrGZ6hiYWBh) | 2:50 | 2022-09-18 |  |
 | [Heard It On The X](https://open.spotify.com/track/4tbHJc3pgypdIGeWxK5CwS) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Heard It On The X](https://open.spotify.com/album/6HThlq6qQOLiaOigjNpHaH) | 2:50 | 2022-09-17 | 2022-09-19 |

@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:house">House</a> music lives here\. United in one house\. Cover: Dom Dolla
 
-408 songs - 1 day 0 hr 44 min - [published](https://open.spotify.com/playlist/1B1wblzRfDqZJTGVsoUfwr)
+409 songs - 1 day 0 hr 47 min - [published](https://open.spotify.com/playlist/1B1wblzRfDqZJTGVsoUfwr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Cold Love \(feat\. Jack Hawitt\)](https://open.spotify.com/track/23Hpu8KpFzy6NpycYnvk9L) | [Jess Bays](https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB), [Jack Hawitt](https://open.spotify.com/artist/0AikfZHjypmTXKZnPUq5ER) | [Cold Love \(feat\. Jack Hawitt\)](https://open.spotify.com/album/39txCRq92K0VTohkvuqYaE) | 2:26 | 2021-11-20 | 2022-06-11 |
 | [Conga Rock](https://open.spotify.com/track/28nynuyo2jMTzMyT146Bvu) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Mat.Joe](https://open.spotify.com/artist/38jpuy3yt3QIxQ8Fn1HTeJ), [Toto Bona Lokua](https://open.spotify.com/artist/5y4XN2SJVH1eWbXhRS7lbK) | [Conga Rock](https://open.spotify.com/album/3rnrgH0bOWn4nQDF8EuKu5) | 4:30 | 2021-03-27\* | 2021-08-28 |
 | [Conspiracy](https://open.spotify.com/track/6onf7sfOexU1s9F8733kJy) | [Sydney Blu](https://open.spotify.com/artist/2Js5903erwUWbAijR6A8rb) | [Conspiracy](https://open.spotify.com/album/4DqTnfnTAxjnoAAG7aUscH) | 6:13 | 2021-03-27\* | 2021-05-03 |
+| [Crank](https://open.spotify.com/track/0gtZ8DwXXeqGTc09iFWRBv) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v) | [Crank](https://open.spotify.com/album/2LP73ifQTZ6b7B8XTGQlLD) | 2:58 | 2022-09-16 |  |
 | [Critical](https://open.spotify.com/track/7FiYF0ocZO3hwxrPkJ5wQs) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2) | [Critical](https://open.spotify.com/album/2xsNfWycOQhnQ9Gx1z1Cax) | 4:20 | 2021-03-27\* | 2021-04-24 |
 | [Crystalline](https://open.spotify.com/track/6v2y4LdmqC1S9F4YDXoaxR) | [Joyce Muniz](https://open.spotify.com/artist/2V5PoybhNfFnNEs0NKv44L) | [Crystalline](https://open.spotify.com/album/6o13uSKWCjRtQAO9YqlTJr) | 6:46 | 2021-03-27\* | 2021-08-28 |
 | [Crystallise](https://open.spotify.com/track/7jJfACKhaxK3kF3bda6AVS) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Crystallise](https://open.spotify.com/album/11faQiUnyNFKWJYpj1HXsK) | 3:02 | 2021-06-19 | 2022-07-29 |
@@ -241,7 +242,7 @@
 | [Love You Better](https://open.spotify.com/track/1TvazP1ZwXFtJnkO3FcGsD) | [Alex Preston](https://open.spotify.com/artist/0f8HuVIxsHG6bnEZsz0RuD) | [Love You Better](https://open.spotify.com/album/38ra4cHiMOZQRLZQrrTFp1) | 3:14 | 2021-04-24 | 2022-07-26 |
 | [Love You Like That](https://open.spotify.com/track/6QNOYe6I5Dt7oHtcIkmYZ5) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR) | [Love You Like That](https://open.spotify.com/album/47Nuvze924yiqkfwcXkcTT) | 2:55 | 2021-09-18 |  |
 | [Loving Touch \- Edit](https://open.spotify.com/track/66gN2X2yIMR51Y2jRkJROa) | [BURNS](https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7) | [Loving Touch](https://open.spotify.com/album/4J0OAAqZ8k8B20tXlpidtg) | 3:00 | 2021-03-27\* | 2021-04-24 |
-| [Make Me Believe](https://open.spotify.com/track/57j1baIxDU1WmSHajjLb3R) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Melé](https://open.spotify.com/artist/6EZO7Baz0SIFskWTO1GHqX) | [Diplo \(Deluxe\)](https://open.spotify.com/album/6zPSpPHyyOkbT8zDy7Kzl7) | 3:12 | 2022-08-05 |  |
+| [Make Me Believe](https://open.spotify.com/track/57j1baIxDU1WmSHajjLb3R) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Melé](https://open.spotify.com/artist/6EZO7Baz0SIFskWTO1GHqX) | [Diplo \(Deluxe\)](https://open.spotify.com/album/6zPSpPHyyOkbT8zDy7Kzl7) | 3:12 | 2022-08-05 | 2022-09-21 |
 | [Make Me Feel](https://open.spotify.com/track/4vgP9RNzsXEUcW7Ws50VrI) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205) | [Make Me Feel](https://open.spotify.com/album/4UIF595KTWQs5H1NHDinJI) | 3:21 | 2021-03-27\* |  |
 | [Manizer](https://open.spotify.com/track/32MHis9ga5UmCo2hivlkEs) | [Fleur Shore](https://open.spotify.com/artist/7GyRA9n7JVslQGcbo72Dil) | [Manizer](https://open.spotify.com/album/0OY87u7mQKYk8nJ96Br0QM) | 4:04 | 2022-05-27 | 2022-07-09 |
 | [Mars 500](https://open.spotify.com/track/7KU1k3MVP8eFj81U3L85i8) | [Chloé \(Thévenin\)](https://open.spotify.com/artist/0W8ZVf53GqJkTOPRWQaaBq) | [Mars 500](https://open.spotify.com/album/7lfXilxttazWRwNcThahfc) | 6:52 | 2021-03-27\* | 2021-06-12 |

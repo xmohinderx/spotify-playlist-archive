@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > Fresh releases from Latin independent artists and labels\. Lanzamientos frescos de artistas y sellos latinxs independientes\. La Valenti on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,749 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,748 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 12 | [no sé quién soy](https://open.spotify.com/track/6BUWGhSxHTbOb5lv81O41n) | [K4](https://open.spotify.com/artist/0yjlGMMFuIci8JCTAOb2AU) | [no sé quién soy](https://open.spotify.com/album/6bDXLYFW8ZzmYBgAdsJIVw) | 2:08 |
 | 13 | [Los Estimados](https://open.spotify.com/track/4YiUEZRZL8Ns7pseiazQZa) | [Tati Falco](https://open.spotify.com/artist/2iaZ9zGdSh6fSP3uBS6jV6) | [Los Estimados](https://open.spotify.com/album/30sX3OfIDl2WB1DwbtHqlB) | 4:37 |
 | 14 | [Bandolera](https://open.spotify.com/track/1SjGkMkBgIvDDMcZqyXJ0N) | [Terapia](https://open.spotify.com/artist/5sIea266s3izLKCqmH1SRk), [Santa Salut](https://open.spotify.com/artist/75vabMROpVyiTX4wv3iHFH) | [Bandolera](https://open.spotify.com/album/1k6i5BOlJCY8QFaEeuEvQ3) | 4:34 |
-| 15 | [Verde Artificial](https://open.spotify.com/track/4ISo0mSJfcDi9tx2WBDCq9) | [raquel](https://open.spotify.com/artist/5kbQRJ14wqLdFlnphxZlEB) | [Verde Artificial](https://open.spotify.com/album/5uzeX8BMNL4p4jDiRDJ9dF) | 4:04 |
-| 16 | [Repetición](https://open.spotify.com/track/7EoJTbmhC0DopqfGhk7VPE) | [Jass Reyes](https://open.spotify.com/artist/3iFcLV27WtmxR8CemVQRoF) | [Repetición](https://open.spotify.com/album/4ml39ShearVXanY2dd7HQ0) | 2:56 |
+| 15 | [Repetición](https://open.spotify.com/track/7EoJTbmhC0DopqfGhk7VPE) | [Jass Reyes](https://open.spotify.com/artist/3iFcLV27WtmxR8CemVQRoF) | [Repetición](https://open.spotify.com/album/4ml39ShearVXanY2dd7HQ0) | 2:56 |
+| 16 | [Verde Artificial](https://open.spotify.com/track/4ISo0mSJfcDi9tx2WBDCq9) | [raquel](https://open.spotify.com/artist/5kbQRJ14wqLdFlnphxZlEB) | [Verde Artificial](https://open.spotify.com/album/5uzeX8BMNL4p4jDiRDJ9dF) | 4:04 |
 | 17 | [Nudos](https://open.spotify.com/track/2xbzDOzq3F9WnbHrgDhixH) | [Alejo y Valentin](https://open.spotify.com/artist/18e0X2rB92SDmDYGCFTGum) | [En El Palacio de Las Almas](https://open.spotify.com/album/4XsbM55fQ2RpOriLDQZJtI) | 4:03 |
 | 18 | [A Fling](https://open.spotify.com/track/3vMT9YnaHxJmfYw78RXMTt) | [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT) | [A Fling](https://open.spotify.com/album/1vD5edBn4vm1Z3wMQeHynf) | 3:23 |
 | 19 | [Dancing with the Devil](https://open.spotify.com/track/4JT3ei83U7FnONltcI1M4M) | [Nanu](https://open.spotify.com/artist/0NdqwX70EDgH6cXE2Nf6g6) | [Borderline Genius Disorder](https://open.spotify.com/album/6Sn2fvq9ZzBobOVJ0n1Eoy) | 2:34 |
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 27 | [No Me Quieras Tanto](https://open.spotify.com/track/3SALW0JHFPsrk4WZGeqJA3) | [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH), [Luca Bocci](https://open.spotify.com/artist/1h3H1KWtfAC1YRqYrQmXLF) | [Cecilia](https://open.spotify.com/album/04tPJyxfLKaTZ65DDZrd6p) | 3:34 |
 | 28 | [DUCATI](https://open.spotify.com/track/0zwxKc6lECZ3pgBXPkVdGX) | [Le Coco](https://open.spotify.com/artist/2ikSIaA1jYSCznIZnWiw2v) | [DUCATI](https://open.spotify.com/album/1j0h6KGTofqV39fVaHsg6X) | 2:49 |
 | 29 | [360 al Mundo](https://open.spotify.com/track/4jZysO9Cyydag0oBsGgPCc) | [Sofía Mora](https://open.spotify.com/artist/2ACpw1qZnCwDlLA4JpeTnE) | [Xoxo](https://open.spotify.com/album/6ELJsqVkUsw9k8341j22u8) | 2:59 |
-| 30 | [ALCOHOL](https://open.spotify.com/track/1KlXeNDsdBFK8hUy98hM3a) | [Valeria Cid](https://open.spotify.com/artist/1klJBfGgnBcEI8uVTwLm9U) | [ALCOHOL](https://open.spotify.com/album/4VRmyOwP7CCT3hxwxlWWla) | 2:52 |
-| 31 | [Fuego](https://open.spotify.com/track/6XkTyoyuTotgPCDpDEQTOx) | [Kepa](https://open.spotify.com/artist/641uUz4loRaQhEkuFOIefT) | [Fuego](https://open.spotify.com/album/5K672EviATQUJg8QgeRzsm) | 2:05 |
+| 30 | [Fuego](https://open.spotify.com/track/6XkTyoyuTotgPCDpDEQTOx) | [Kepa](https://open.spotify.com/artist/641uUz4loRaQhEkuFOIefT) | [Fuego](https://open.spotify.com/album/5K672EviATQUJg8QgeRzsm) | 2:05 |
+| 31 | [ALCOHOL](https://open.spotify.com/track/1KlXeNDsdBFK8hUy98hM3a) | [Valeria Cid](https://open.spotify.com/artist/1klJBfGgnBcEI8uVTwLm9U) | [ALCOHOL](https://open.spotify.com/album/4VRmyOwP7CCT3hxwxlWWla) | 2:52 |
 | 32 | [Muñeca \(Sin Pilas Incluidas\)](https://open.spotify.com/track/60uCZaPtkdQ5XXLYSLjLon) | [ADRIANAH](https://open.spotify.com/artist/4qqpXhZ0OApTtS6cOOaPHn) | [Muñeca \(Sin Pilas Incluidas\)](https://open.spotify.com/album/5f8tUSpNqjENnKf3oKIGMU) | 3:29 |
 | 33 | [Comprende](https://open.spotify.com/track/1ii8yeKRIJLDmmQjWPe4Kd) | [Lalo Cortés](https://open.spotify.com/artist/5aOSxuZtFtsOFvNB4xlssQ) | [Comprende](https://open.spotify.com/album/1izMjI469MuMCqXMiUM3jB) | 4:37 |
 | 34 | [Lo Que Dijimos](https://open.spotify.com/track/4tuj4EmYiW80rJFtCKGgEl) | [Mojo Myst](https://open.spotify.com/artist/5ZyxEP1eCs4f2uGH2ZaJiG) | [Lo Que Dijimos](https://open.spotify.com/album/2w1e2yRUmtm0i1MEmKlXI3) | 3:56 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 44 | [Mixta](https://open.spotify.com/track/5FfPTznt4H4MC4C0IyvM3H) | [Antuantu](https://open.spotify.com/artist/6uVAKYhqGGGvQg1UXB3ckV), [Desaria](https://open.spotify.com/artist/7foAh38jbvCS0d9AiOW1V8) | [Música tonta](https://open.spotify.com/album/3e37E07ITqzsxf0a3UfZnA) | 3:17 |
 | 45 | [María](https://open.spotify.com/track/0Pe7U91cqrdUFW46STjAjV) | [Odin Parada](https://open.spotify.com/artist/0ZrCTT7qjo9iFI7ArCPoZE), [Andres Landon](https://open.spotify.com/artist/1E2YZnjGxFq8SxaQpDgG5o) | [María](https://open.spotify.com/album/1ONh865o0F9ugVXw7QQso5) | 4:15 |
 | 46 | [Chicomiel](https://open.spotify.com/track/4pdl1r8KGscHXTarQzP0it) | [Apollo No Te Vayas](https://open.spotify.com/artist/2EcTh9qrj4sDwdZCVQ55oW) | [Chicomiel](https://open.spotify.com/album/6X6DJXkpN2vkZRS6OMmalu) | 3:32 |
-| 47 | [Piedra Angular](https://open.spotify.com/track/3l1220M9lPXg4phZugh5FL) | [FE](https://open.spotify.com/artist/3rIhIOOuEkwLUu9FBNp30q) | [Piedra Angular](https://open.spotify.com/album/5UcWM7PLCeNZqCaDFemk5N) | 2:37 |
+| 47 | [Piedra Angular](https://open.spotify.com/track/3l1220M9lPXg4phZugh5FL) | [Fe Baca](https://open.spotify.com/artist/5SndtmBMtH0QTixMMM8l2z) | [Piedra Angular](https://open.spotify.com/album/5UcWM7PLCeNZqCaDFemk5N) | 2:37 |
 | 48 | [Fugaz](https://open.spotify.com/track/6STwMaFymWBAZo2qbgT5uG) | [Kev Sanart](https://open.spotify.com/artist/6xn2WeEucmAz1GRL2DlFS4) | [Fugaz](https://open.spotify.com/album/3buvXjwKjbGsOOg2fiwQL6) | 4:44 |
 | 49 | [Inconsciencia](https://open.spotify.com/track/4Dm11rwqGsTvDLml88JyIL) | [La Honte](https://open.spotify.com/artist/4Irt9HPbh6MbM90waVOFiA) | [Inconsciencia](https://open.spotify.com/album/10PYCHUMNWA4vfuXR8DByd) | 3:32 |
 | 50 | [El Incendio](https://open.spotify.com/track/58SONbpFYstwN4LCITKI0v) | [Sara y Jacobo](https://open.spotify.com/artist/3xPClsuX8srpHtN8CCgSZX) | [El Incendio](https://open.spotify.com/album/2wKY7SiYOJsGgo54d199pr) | 4:12 |
 
-Snapshot ID: `MTY2MzM2NDI0NCwwMDAwMDAwMDVmMDM3Y2RiNzgyMDFkMDQzM2JkMmIyMGQzOTM1NjYy`
+Snapshot ID: `MTY2MzM2NDI0NCwwMDAwMDAwMDI1ZTNjNWQyYWYxOTdjZjUwNDNlNTU1MmYyYTM2YzRh`

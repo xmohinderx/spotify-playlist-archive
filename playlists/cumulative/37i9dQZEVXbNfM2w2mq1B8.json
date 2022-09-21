@@ -2076,6 +2076,24 @@
     },
     {
       "album": {
+        "name": "REDEYE",
+        "url": "https://open.spotify.com/album/1VqvKZeG7dPToIHAso6KnA"
+      },
+      "artists": [
+        {
+          "name": "Rizziatta",
+          "url": "https://open.spotify.com/artist/4GnyxayfC823P4cQ87aiud"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119485,
+      "name": "BVHT!",
+      "url": "https://open.spotify.com/track/13GRVUH2tL94b9yHCkLHRm"
+    },
+    {
+      "album": {
         "name": "The Off-Season",
         "url": "https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX"
       },
@@ -3079,7 +3097,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 260253,
       "name": "Die For You",
       "url": "https://open.spotify.com/track/2LBqCSwhJGcFQeTHMVGwy3"
@@ -5105,7 +5123,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-20",
+      "date_removed": null,
       "duration_ms": 189350,
       "name": "GRRT",
       "url": "https://open.spotify.com/track/2tqDS3gLLAPh66bSm8I32D"
@@ -6461,7 +6479,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-19",
+      "date_removed": null,
       "duration_ms": 218364,
       "name": "Jimmy Cooks (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/3F5CgOj3wFlRv51JsHbxhe"
@@ -8137,7 +8155,7 @@
       ],
       "date_added": "2022-08-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-18",
+      "date_removed": null,
       "duration_ms": 178000,
       "name": "Med",
       "url": "https://open.spotify.com/track/4Nkgkvf4AKvt6a3VXlyM0O"
@@ -10521,7 +10539,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 169245,
       "name": "RAVE",
       "url": "https://open.spotify.com/track/01kfSdF9zfcDLri5sSWEoL"
@@ -14691,7 +14709,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 230755,
       "name": "\u0410+\u0413=\u0412\u041d\u041b",
       "url": "https://open.spotify.com/track/5bYyQzaUSXpGGrJuGZfafd"
@@ -15925,7 +15943,7 @@
       ],
       "date_added": "2022-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 272215,
       "name": "\u041f\u0430\u043a \u0449\u0435 \u0441\u0435 \u0431\u0440\u043e\u0438\u0448",
       "url": "https://open.spotify.com/track/3Ya6AUGGni7HPC5P9gh2bj"

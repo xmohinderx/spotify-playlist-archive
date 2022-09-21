@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Perreo del bueno!\nCover: J Balvin & El Alfa",
-  "num_followers": 1267892,
+  "num_followers": 1268037,
   "original_name": "Puro Perreo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMDczNTRhMmZjMzQzN2E1YzRjMTI2MWQ4YmI3MjlkNTY1",
+  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMDI1MzAyMjgzZmY5NTVhNWQzNzkzNTgxYzcwNTk1YmI0",
   "tracks": [
     {
       "added_at": "2022-09-16 04:00:00",
@@ -615,18 +615,22 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Castigo",
-        "url": "https://open.spotify.com/album/1yUx6Fn9wMxJX7pCvy1CCQ"
+        "name": "De Tanto Chimbiar",
+        "url": "https://open.spotify.com/album/2KeczAPgvvkbctpPl50BNp"
       },
       "artists": [
         {
           "name": "Feid",
           "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Totoy El Frio",
+          "url": "https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z"
         }
       ],
-      "duration_ms": 178080,
-      "name": "Castigo",
-      "url": "https://open.spotify.com/track/7INDea2qgB7TlUgpux3hsg"
+      "duration_ms": 186066,
+      "name": "De Tanto Chimbiar",
+      "url": "https://open.spotify.com/track/5Zf8ytWP3Q6LWoTPl4SGHO"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -703,26 +707,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Mojando Asientos (feat. Feid)",
-        "url": "https://open.spotify.com/album/7d2q5cmU01iy4lToXvQ1qB"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 252162,
-      "name": "Mojando Asientos (feat. Feid)",
-      "url": "https://open.spotify.com/track/0LKu09Iq053CEUZ5ktQEWc"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "\u00c9pico",
         "url": "https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT"
       },
@@ -747,42 +731,58 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "De Tanto Chimbiar",
-        "url": "https://open.spotify.com/album/2KeczAPgvvkbctpPl50BNp"
+        "name": "Mojando Asientos (feat. Feid)",
+        "url": "https://open.spotify.com/album/7d2q5cmU01iy4lToXvQ1qB"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 252162,
+      "name": "Mojando Asientos (feat. Feid)",
+      "url": "https://open.spotify.com/track/0LKu09Iq053CEUZ5ktQEWc"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Castigo",
+        "url": "https://open.spotify.com/album/1yUx6Fn9wMxJX7pCvy1CCQ"
       },
       "artists": [
         {
           "name": "Feid",
           "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        },
-        {
-          "name": "Totoy El Frio",
-          "url": "https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z"
         }
       ],
-      "duration_ms": 186066,
-      "name": "De Tanto Chimbiar",
-      "url": "https://open.spotify.com/track/5Zf8ytWP3Q6LWoTPl4SGHO"
+      "duration_ms": 178080,
+      "name": "Castigo",
+      "url": "https://open.spotify.com/track/7INDea2qgB7TlUgpux3hsg"
     },
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "UN PASO",
-        "url": "https://open.spotify.com/album/490OfeapGjQDnyiLjDAJcL"
+        "name": "Felicilandia",
+        "url": "https://open.spotify.com/album/7jg09IJJXi1eigVLZja2hN"
       },
       "artists": [
         {
-          "name": "Trueno",
-          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
         },
         {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
         }
       ],
-      "duration_ms": 192143,
-      "name": "UN PASO",
-      "url": "https://open.spotify.com/track/4LUzWf03uKUeEKvo6FbhV0"
+      "duration_ms": 192613,
+      "name": "Problem\u00f3n",
+      "url": "https://open.spotify.com/track/1mSviQV9iQnGSRyvTIuxAj"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -827,22 +827,22 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Felicilandia",
-        "url": "https://open.spotify.com/album/7jg09IJJXi1eigVLZja2hN"
+        "name": "UN PASO",
+        "url": "https://open.spotify.com/album/490OfeapGjQDnyiLjDAJcL"
       },
       "artists": [
         {
-          "name": "Alvaro Diaz",
-          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
         },
         {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
         }
       ],
-      "duration_ms": 192613,
-      "name": "Problem\u00f3n",
-      "url": "https://open.spotify.com/track/1mSviQV9iQnGSRyvTIuxAj"
+      "duration_ms": 192143,
+      "name": "UN PASO",
+      "url": "https://open.spotify.com/track/4LUzWf03uKUeEKvo6FbhV0"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "La \u00daltima Promesa",
-        "url": "https://open.spotify.com/album/4AHHM76jyqUiC1HRd37ZQQ"
-      },
-      "artists": [
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        }
-      ],
-      "duration_ms": 194989,
-      "name": "Color\u00edn Colorado",
-      "url": "https://open.spotify.com/track/2YZDh5CecWx0qlFiTvqVQ9"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "MICRODOSIS",
         "url": "https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 171690,
       "name": "2010",
       "url": "https://open.spotify.com/track/6XHBJ1LSOcVINYXAAd6KIH"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "La \u00daltima Promesa",
+        "url": "https://open.spotify.com/album/4AHHM76jyqUiC1HRd37ZQQ"
+      },
+      "artists": [
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        }
+      ],
+      "duration_ms": 194989,
+      "name": "Color\u00edn Colorado",
+      "url": "https://open.spotify.com/track/2YZDh5CecWx0qlFiTvqVQ9"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
+        "name": "Persia",
+        "url": "https://open.spotify.com/album/5IEJzd1WqQOCDFyCnq9TVs"
+      },
+      "artists": [
+        {
+          "name": "Jossef",
+          "url": "https://open.spotify.com/artist/7kaC28XGoTp1ViSZAA0iuX"
+        }
+      ],
+      "duration_ms": 199493,
+      "name": "Persia",
+      "url": "https://open.spotify.com/track/3Nb754wzOs49m1gT0U4yn1"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
         "name": "Se Menea",
         "url": "https://open.spotify.com/album/1MtqA947JKdlShamS80Wr5"
       },
@@ -1379,18 +1395,22 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Persia",
-        "url": "https://open.spotify.com/album/5IEJzd1WqQOCDFyCnq9TVs"
+        "name": "Afrodis\u00edaco",
+        "url": "https://open.spotify.com/album/3fq06DDIkadDRB9RuBb22v"
       },
       "artists": [
         {
-          "name": "Jossef",
-          "url": "https://open.spotify.com/artist/7kaC28XGoTp1ViSZAA0iuX"
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
         }
       ],
-      "duration_ms": 199493,
-      "name": "Persia",
-      "url": "https://open.spotify.com/track/3Nb754wzOs49m1gT0U4yn1"
+      "duration_ms": 231594,
+      "name": "Reloj",
+      "url": "https://open.spotify.com/track/4loQgPwJHocL3dFwLfjb1J"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1415,26 +1435,6 @@
       "duration_ms": 249801,
       "name": "Llueve",
       "url": "https://open.spotify.com/track/5yDAnr9USNQTP6ojiWBCvv"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "Afrodis\u00edaco",
-        "url": "https://open.spotify.com/album/3fq06DDIkadDRB9RuBb22v"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 231594,
-      "name": "Reloj",
-      "url": "https://open.spotify.com/track/4loQgPwJHocL3dFwLfjb1J"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1535,30 +1535,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Nunca y Pico",
-        "url": "https://open.spotify.com/album/3uNbOY2ihiX05YVsOuYDwZ"
-      },
-      "artists": [
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        },
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 203680,
-      "name": "Nunca y Pico",
-      "url": "https://open.spotify.com/track/0GcToAAsQocPVkbVvsORj1"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Las Leyendas Nunca Mueren",
         "url": "https://open.spotify.com/album/4MTtBjQEt7i752hISXjKqA"
       },
@@ -1579,6 +1555,30 @@
       "duration_ms": 239797,
       "name": "S\u00fabelo",
       "url": "https://open.spotify.com/track/3xv8JksRyqHa1lwkM9xvJf"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Nunca y Pico",
+        "url": "https://open.spotify.com/album/3uNbOY2ihiX05YVsOuYDwZ"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 203680,
+      "name": "Nunca y Pico",
+      "url": "https://open.spotify.com/track/0GcToAAsQocPVkbVvsORj1"
     },
     {
       "added_at": "2022-09-16 04:00:00",

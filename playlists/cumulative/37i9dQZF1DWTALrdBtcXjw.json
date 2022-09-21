@@ -575,7 +575,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-17",
+      "date_removed": null,
       "duration_ms": 405907,
       "name": "Cabin in the Sky",
       "url": "https://open.spotify.com/track/1OCmPNCqZH3PGoO0tbEWZ7"
@@ -1487,7 +1487,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 423538,
       "name": "I Think of You",
       "url": "https://open.spotify.com/track/5O7gq2BSiX0UhDgPMLbayr"
@@ -2503,7 +2503,7 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 347377,
       "name": "Other Jewels",
       "url": "https://open.spotify.com/track/43QCn1fqNpaVllvjNXx5eX"
@@ -3471,6 +3471,32 @@
       "duration_ms": 298991,
       "name": "The More I See You",
       "url": "https://open.spotify.com/track/6KkSnMvEWLyArGwgTP6Jrp"
+    },
+    {
+      "album": {
+        "name": "The Time is Now",
+        "url": "https://open.spotify.com/album/6rbxPC5MijiKjZo5C7VPtd"
+      },
+      "artists": [
+        {
+          "name": "David Hazeltine",
+          "url": "https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q"
+        },
+        {
+          "name": "Ron Carter",
+          "url": "https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP"
+        },
+        {
+          "name": "Al Foster",
+          "url": "https://open.spotify.com/artist/4PqV4TEgVltnn4N47ODKV6"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325046,
+      "name": "The Odd Couple",
+      "url": "https://open.spotify.com/track/1eQjKq6FlYU7kJGm3J4FbR"
     },
     {
       "album": {

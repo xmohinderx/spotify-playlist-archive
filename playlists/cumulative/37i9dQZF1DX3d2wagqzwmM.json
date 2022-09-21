@@ -316,6 +316,24 @@
     },
     {
       "album": {
+        "name": "Beat Of My Heart",
+        "url": "https://open.spotify.com/album/0jTrfHAkabTrkRUS9EjaGS"
+      },
+      "artists": [
+        {
+          "name": "R3SPAWN",
+          "url": "https://open.spotify.com/artist/2Pfp9mATiuKRzCMLhfs3tB"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161674,
+      "name": "Beat Of My Heart",
+      "url": "https://open.spotify.com/track/6IHQczMpJmWnNIKijtKHY1"
+    },
+    {
+      "album": {
         "name": "BED (David Guetta Festival Mix)",
         "url": "https://open.spotify.com/album/2g7TH4pjOmA7jcfPi24m2H"
       },
@@ -3871,7 +3889,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 210109,
       "name": "Vibe",
       "url": "https://open.spotify.com/track/0FV6WL3ZWgPrjVyFw3psz4"

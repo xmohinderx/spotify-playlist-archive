@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3SAODMj4JP.md) - [plain]
 
 > Uma pausa no dia para tomar um chocolate quente e aproveitar seu momento com Deus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,832 likes - 69 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,995 likes - 69 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3SAODMj4JP.md) - [plain]
 | 40 | [Então Vem](https://open.spotify.com/track/0tBJj2vwsjpGgEWgKd35nD) | [Caio Veríssimo](https://open.spotify.com/artist/3M1QiN5TINHyqdV1vpjTOb) | [Então Vem](https://open.spotify.com/album/2G8WdVOQFvvVwyLWeH7z2d) | 5:41 |
 | 41 | [Abraço](https://open.spotify.com/track/7y4puTp3k9X5jUxxlko0Pd) | [Nós em Um](https://open.spotify.com/artist/42xizszi345HS5i21AR5MT) | [Abraço](https://open.spotify.com/album/5zaifallEnusWXIpU2mMEX) | 4:04 |
 | 42 | [Todo Medo](https://open.spotify.com/track/7C0NIIqcZK4reNv9boACco) | [Estevão Queiroga](https://open.spotify.com/artist/1nQaNbf287f5x9oe2R3faK) | [Ocideia](https://open.spotify.com/album/0z4207UV2U8qFqxDEYhwPy) | 4:23 |
-| 43 | [Mais Perto Quero Estar](https://open.spotify.com/track/35DUClZPzxnb92NcikSBJK) | [Matheus Rizzo](https://open.spotify.com/artist/6UHIabLGNVJuFaEODpWoPP) | [Mais Perto Quero Estar](https://open.spotify.com/album/0Fct6gWAW1dnLNUvxyaHXC) | 3:21 |
-| 44 | [Abençoada](https://open.spotify.com/track/0aVX67dzetn3Wz5OQ0G7o2) | [Talita Barreto](https://open.spotify.com/artist/6hCE1qcuALXMkltFGrEM6Y) | [Abençoada](https://open.spotify.com/album/2Px3s6xmp09u79C7JHfWYW) | 3:09 |
+| 43 | [Abençoada](https://open.spotify.com/track/0aVX67dzetn3Wz5OQ0G7o2) | [Talita Barreto](https://open.spotify.com/artist/6hCE1qcuALXMkltFGrEM6Y) | [Abençoada](https://open.spotify.com/album/2Px3s6xmp09u79C7JHfWYW) | 3:09 |
+| 44 | [Mais Perto Quero Estar](https://open.spotify.com/track/35DUClZPzxnb92NcikSBJK) | [Matheus Rizzo](https://open.spotify.com/artist/6UHIabLGNVJuFaEODpWoPP) | [Mais Perto Quero Estar](https://open.spotify.com/album/0Fct6gWAW1dnLNUvxyaHXC) | 3:21 |
 | 45 | [A Lei e o Amor](https://open.spotify.com/track/6Vgwjqe67ynLvDN7cZgzcd) | [Séo Fernandes](https://open.spotify.com/artist/5z8EidGfAtpODxAxR9j0w1) | [Graça, Tambor e Cordas](https://open.spotify.com/album/2ZaQzGpfN8j7sYaqVg9H3a) | 5:34 |
 | 46 | [Tua Presença Vale Mais](https://open.spotify.com/track/4ghsOtdYykkVMzKgD2Z07g) | [Os Bravos](https://open.spotify.com/artist/1fR2eijp4FoQX7RmBUeyEm) | [Tua Presença Vale Mais](https://open.spotify.com/album/7547nl48X9lwWNOYsbXsaq) | 6:00 |
 | 47 | [Eu Quero Voltar](https://open.spotify.com/track/2RF5COhGA2at2zoJvlEbKB) | [Lancellote](https://open.spotify.com/artist/4LsKHWRuD6TlQPJrvVLD8K) | [Eu Quero Voltar](https://open.spotify.com/album/2BmAe3tRit49ajh1gHWMoW) | 3:33 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3SAODMj4JP.md) - [plain]
 | 68 | [Louvor IV](https://open.spotify.com/track/6MMr4Yqk7Oa8NsoksmxACf) | [O Bairro Novo](https://open.spotify.com/artist/03lFVbrzJauPmQwZpiJ4zD), [Joyce Carnassale](https://open.spotify.com/artist/54IDWdM8TrNpxWiQAL1U3z) | [Louvor IV](https://open.spotify.com/album/4B961hpeGLK1YHTqP0PJp9) | 4:52 |
 | 69 | [Visita](https://open.spotify.com/track/657aCgepX1HRKoCNbFHWh6) | [Ana Tristão](https://open.spotify.com/artist/04sHHdilT7bBAzYRTtKLKC) | [Visita](https://open.spotify.com/album/78wHMwGlGTHNL70AxQYZGr) | 4:47 |
 
-Snapshot ID: `MTY2MjA4NzYwMCwwMDAwMDAwMDMwZDAxOTg0NjQ2NTIyYjQ5MTk2ZjZjNDYxZTBmZDk1`
+Snapshot ID: `MTY2MjA4NzYwMCwwMDAwMDAwMDBjNGRhZjQ2N2I3MmZhNDQ1ZjUwZGFlNTAzMGM4OThi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV4u7VWM4nPt.md) - [plain]
 
 > The biggest songs in Latin America in 2000\. Cover: Joan Sebastian
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,709 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,773 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV4u7VWM4nPt.md) - [plain]
 | 28 | [La Vaca](https://open.spotify.com/track/7neWp4incUBLP1XQTNWmP0) | [Mala Fe](https://open.spotify.com/artist/4oVcPiYDvfGxamTzwvnKtp) | [Con Su Loquera](https://open.spotify.com/album/4S18mM72RcD7OY9WiyHE8q) | 4:15 |
 | 29 | [Sin Ti](https://open.spotify.com/track/1mmaywWRQzNE5dt0eUISBd) | [King Chango](https://open.spotify.com/artist/5nZlhgO7iNedGlO0gKu9us) | [The Return of El Santo](https://open.spotify.com/album/5cOccFEax9P6EPRJc4xPx9) | 4:47 |
 | 30 | [Toco Y Me Voy](https://open.spotify.com/track/0NELwHhQu4EVcmGmu8D7vV) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [Hijos Del Culo](https://open.spotify.com/album/3e8flfLtloaUHUqv3PIR2o) | 4:09 |
-| 31 | [Tramposa Y Mentirosa](https://open.spotify.com/track/6KzeUBu1BE8q24CblG6oku) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [Un Homenaje Al Cielo](https://open.spotify.com/album/5fPNASmvNeT43QSYp6Asd2) | 3:32 |
-| 32 | [Fuego en el Fuego](https://open.spotify.com/track/5zGJT3TTShcNHeJeDrjPvs) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Estilolibre \(Spanish Version\)](https://open.spotify.com/album/5T0HgCj7T4adMFXKGHV5qf) | 4:00 |
+| 31 | [Fuego en el Fuego](https://open.spotify.com/track/5zGJT3TTShcNHeJeDrjPvs) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Estilolibre \(Spanish Version\)](https://open.spotify.com/album/5T0HgCj7T4adMFXKGHV5qf) | 4:00 |
+| 32 | [Tramposa Y Mentirosa](https://open.spotify.com/track/6KzeUBu1BE8q24CblG6oku) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [Un Homenaje Al Cielo](https://open.spotify.com/album/5fPNASmvNeT43QSYp6Asd2) | 3:32 |
 | 33 | [Tonta](https://open.spotify.com/track/1A1yn53ZypVPUcV4W54j8A) | [Grupo Mojado](https://open.spotify.com/artist/28NFZuZbEm7yzMpv1q1Rb7) | [25 Exitos Vol\. 1 \(USA\)](https://open.spotify.com/album/0dgNt6D4pz86nn0ZTRYoVQ) | 3:10 |
 | 34 | [Lo Unico Que Quiero](https://open.spotify.com/track/10TpHf2j6C6RTRQnYtFPsp) | [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ) | [Amanece \(Deluxe Edition\)](https://open.spotify.com/album/5iI8Rm9RDdCBRAKD8Lyk8J) | 7:27 |
 | 35 | [Samba De Verao](https://open.spotify.com/track/1vt0n3GcAYrsSMue1C6OtC) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [A Bossa De Caetano](https://open.spotify.com/album/2YE1G8rqX7FPwixLn3N5sv) | 3:07 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV4u7VWM4nPt.md) - [plain]
 | 47 | [Todo Me Gusta De Ti](https://open.spotify.com/track/4rh6NUKzdzOenErCBd9AJO) | [Aaron Y Su Grupo Ilusion](https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ) | [Lo Más Escuchado De](https://open.spotify.com/album/6O1uu6IBrLPZqax4yCisSt) | 4:05 |
 | 48 | [Quisiera ser](https://open.spotify.com/track/2sC8ZDPXm0jZTPG84hQ80S) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Coleccion definitiva \(Deluxe\)](https://open.spotify.com/album/2avjXzB9ndvLElhdXzKOBX) | 5:28 |
 | 49 | [Pegame Tu Vicio](https://open.spotify.com/track/25ILWrCvXPpkUFU0R7znEv) | [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [Me Enamore](https://open.spotify.com/album/5yhEOwF6bRo08QhTGU9FQC) | 5:00 |
-| 50 | [Rubão, O Dono Do Mundo](https://open.spotify.com/track/201AtbXVYC48kdfzZVBMtn) | [Charlie Brown Jr.](https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5) | [Nadando Com Os Tubarões](https://open.spotify.com/album/5eF1HzO5mIQxs7bCwW9TJC) | 2:14 |
+| 50 | [Imagina](https://open.spotify.com/track/5rTpWh5T1yPhIAV9mbmYEW) | [Genitallica](https://open.spotify.com/artist/5Bk3LL5WujH6UG9iqpDaxA) | [Originales \- 20 Exitos](https://open.spotify.com/album/3mHTWntPW5EGMkb54cn1PK) | 3:01 |
 
-Snapshot ID: `MTY2MDEwODYzOCwwMDAwMDAwMDQ2MzgwMTVlMWExZWI5NWNlNzFhZWFlNWRlMWQ5ZGYy`
+Snapshot ID: `MTY2MDEwODYzOCwwMDAwMDAwMDI4OTYwY2QwYWI3NzZmMzJmN2ViY2RlZGE4MzlhOGUz`

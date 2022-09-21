@@ -1,12 +1,12 @@
 {
   "description": "A selection of the greatest funk & soul records ever made.",
-  "num_followers": 1355771,
+  "num_followers": 1356336,
   "original_name": "Funk & Soul Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5OTczMDIzOSwwMDAwMDAwMDliNzZlMjJhN2MxYTU5ZDMyMWZkNDhhYjcxMTU4ZDhl",
+  "snapshot_id": "MTU5OTczMDIzOSwwMDAwMDAwMGNkYWVjZWMxOThjY2M0YzA2ZTI5ZDc0NWVlZTk0NzJi",
   "tracks": [
     {
       "added_at": "2020-09-10 09:30:39",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2020-09-10 09:30:39",
       "album": {
-        "name": "Shaft (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5HAXYSqdNjjbvoFrXwtrBw"
-      },
-      "artists": [
-        {
-          "name": "Isaac Hayes",
-          "url": "https://open.spotify.com/artist/3IKV7o6WPphDB7cCWXaG3E"
-        }
-      ],
-      "duration_ms": 279200,
-      "name": "Theme From Shaft - Remastered",
-      "url": "https://open.spotify.com/track/7KMILVTQdVS4zQ8ilTcpRO"
-    },
-    {
-      "added_at": "2020-09-10 09:30:39",
-      "album": {
         "name": "Honey",
         "url": "https://open.spotify.com/album/6cdbsUYFysGXOh5fqWpIuR"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 290160,
       "name": "Love Rollercoaster",
       "url": "https://open.spotify.com/track/1hRDHWWealh2Pk3fnpIe75"
+    },
+    {
+      "added_at": "2020-09-10 09:30:39",
+      "album": {
+        "name": "Shaft (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5HAXYSqdNjjbvoFrXwtrBw"
+      },
+      "artists": [
+        {
+          "name": "Isaac Hayes",
+          "url": "https://open.spotify.com/artist/3IKV7o6WPphDB7cCWXaG3E"
+        }
+      ],
+      "duration_ms": 279200,
+      "name": "Theme From Shaft - Remastered",
+      "url": "https://open.spotify.com/track/7KMILVTQdVS4zQ8ilTcpRO"
     },
     {
       "added_at": "2020-09-10 09:30:39",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2020-09-10 09:30:39",
       "album": {
+        "name": "Mothership Connection",
+        "url": "https://open.spotify.com/album/4q1HNSka8CzuLvC8ydcsD2"
+      },
+      "artists": [
+        {
+          "name": "Parliament",
+          "url": "https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH"
+        }
+      ],
+      "duration_ms": 348066,
+      "name": "Give Up The Funk (Tear The Roof Off The Sucker)",
+      "url": "https://open.spotify.com/track/4XRkQloZFcRrCONN7ZQ49Y"
+    },
+    {
+      "added_at": "2020-09-10 09:30:39",
+      "album": {
         "name": "Complete Them (1964-1967) (feat. Van Morrison)",
         "url": "https://open.spotify.com/album/0I5bDXICWz4idoFkxv0W4Z"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 162293,
       "name": "Baby, Please Don't Go (feat. Van Morrison)",
       "url": "https://open.spotify.com/track/5WUgOOaTk00PnksDekcgcg"
-    },
-    {
-      "added_at": "2020-09-10 09:30:39",
-      "album": {
-        "name": "Mothership Connection",
-        "url": "https://open.spotify.com/album/4q1HNSka8CzuLvC8ydcsD2"
-      },
-      "artists": [
-        {
-          "name": "Parliament",
-          "url": "https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH"
-        }
-      ],
-      "duration_ms": 348066,
-      "name": "Give Up The Funk (Tear The Roof Off The Sucker)",
-      "url": "https://open.spotify.com/track/4XRkQloZFcRrCONN7ZQ49Y"
     },
     {
       "added_at": "2020-09-10 09:30:39",

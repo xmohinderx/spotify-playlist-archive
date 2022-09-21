@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5GdOk4Dsb5.md) - [plain]
 
 > Para ahogar las penas en el fondo de una botella.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,384 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,485 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5GdOk4Dsb5.md) - [plain]
 | 56 | [Duele](https://open.spotify.com/track/6CFaze42M5wiTqMidNtJLE) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Duele](https://open.spotify.com/album/6ia94ihMQr60Wzr9kqvjoT) | 3:12 |
 | 57 | [De Qué Manera Te Olvido](https://open.spotify.com/track/0j0ntQup1Wp9ZiQTUvgnhm) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Mexico en la Piel \(edicion diamante\)](https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM) | 2:31 |
 | 58 | [Los Caminos de la Vida \- Spotify Singles](https://open.spotify.com/track/0LPcBW66vudTxR0HcauKNy) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Los Caminos de la Vida \(Spotify Singles\)](https://open.spotify.com/album/1GdDkx6ATOjvmbi7AYDtq5) | 5:28 |
-| 59 | [Te Solté la Rienda](https://open.spotify.com/track/3YubPkIjza38KmXTIGdk91) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [El Cantinero](https://open.spotify.com/album/7Gxn1LKL1SUSW8CVJugfES) | 2:38 |
-| 60 | [El Hijo Desobediente](https://open.spotify.com/track/1uWves4S89RPNHMMM28H0x) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Rancherísimo, Vol\. 2](https://open.spotify.com/album/3AV09tqLmn5HRwmf54Dz1U) | 3:15 |
+| 59 | [El Hijo Desobediente](https://open.spotify.com/track/1uWves4S89RPNHMMM28H0x) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Rancherísimo, Vol\. 2](https://open.spotify.com/album/3AV09tqLmn5HRwmf54Dz1U) | 3:15 |
+| 60 | [Te Solté la Rienda](https://open.spotify.com/track/3YubPkIjza38KmXTIGdk91) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [El Cantinero](https://open.spotify.com/album/7Gxn1LKL1SUSW8CVJugfES) | 2:38 |
 | 61 | [El Malo](https://open.spotify.com/track/6mLX6uVPp6uLlBVim1rR82) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [El Malo](https://open.spotify.com/album/4fvBzXczcpD346IFgtWnaI) | 2:57 |
 | 62 | [Alguien Me Gusta](https://open.spotify.com/track/4iFTIshL0xDCw8JJUl5AJ3) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2), [Jhonny Rivera](https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Alguien Me Gusta](https://open.spotify.com/album/79WB96tQV9vPJ920cbneZ9) | 2:48 |
 | 63 | [La Farsante](https://open.spotify.com/track/1o0tPc9qFFFuGK4ka2IkCp) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Todo](https://open.spotify.com/album/6X4xZK2oV8ydJDnIMpL5TX) | 2:55 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5GdOk4Dsb5.md) - [plain]
 | 96 | [Soltero Feliz](https://open.spotify.com/track/0J3K43YwdkPzfce68mdQrW) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Que No Se Caiga el Ritmo](https://open.spotify.com/album/0EXq8bLcuNc6DIj20qRFgj) | 3:51 |
 | 97 | [Matemos las Ganas](https://open.spotify.com/track/0bID0lGh8aR5jc6PkiyPUN) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Matemos las Ganas](https://open.spotify.com/album/4F9KrbhXKsZaHMv5R0zmom) | 3:02 |
 | 98 | [Sombras \- Versión Trío](https://open.spotify.com/track/5XvhkNqprUww9RHa4XjSd2) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Exitos Con Trio](https://open.spotify.com/album/1BiLtcjrB3K5nJOaJ8gmaD) | 3:27 |
-| 99 | [Pa' Todo el Año](https://open.spotify.com/track/3O8QuZZrZF9aDYlmmClMO6) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [Las 100 Clasicas Vol\. 2](https://open.spotify.com/album/0A7PWw6nPn5DztmUhIICiG) | 3:07 |
-| 100 | [Moños Negros](https://open.spotify.com/track/1DAIPsYEXEOaOlJaG8Lv0w) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Moños Negros](https://open.spotify.com/album/5amUm1QKYdr7cW3T4uoUX9) | 3:22 |
+| 99 | [Moños Negros](https://open.spotify.com/track/1DAIPsYEXEOaOlJaG8Lv0w) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Moños Negros](https://open.spotify.com/album/5amUm1QKYdr7cW3T4uoUX9) | 3:22 |
+| 100 | [Pa' Todo el Año](https://open.spotify.com/track/3O8QuZZrZF9aDYlmmClMO6) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [Las 100 Clasicas Vol\. 2](https://open.spotify.com/album/0A7PWw6nPn5DztmUhIICiG) | 3:07 |
 
-Snapshot ID: `MTY1NDczMTc1MywwMDAwMDAwMGRhNjg3YThkNWUxYTk0OTVlOTYwM2YxZjg4YzcyN2E1`
+Snapshot ID: `MTY1NDczMTc1MywwMDAwMDAwMGRhN2E4NjcwOTQ3ZjFlMmQxNTg5MWExZDUwZGJjZWEz`

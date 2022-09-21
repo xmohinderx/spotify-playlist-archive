@@ -1,12 +1,12 @@
 {
   "description": "Musica che, come la primavera, rende tutto pi\u00f9 bello.",
-  "num_followers": 55674,
+  "num_followers": 55687,
   "original_name": "Primavera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyNDYwNjgwMywwMDAwMDAwMDc5NDljNmZmN2RkODBhNjBlOTA3NGZjZjJhMjYwNzQ4",
+  "snapshot_id": "MTYyNDYwNjgwMywwMDAwMDAwMDY1MDM4ZjU2YzVmZWExZjc4ZDgxOGJiZTBhNWQwMGY2",
   "tracks": [
     {
       "added_at": "2021-06-25 07:40:03",
@@ -879,22 +879,6 @@
     {
       "added_at": "2021-06-25 07:40:03",
       "album": {
-        "name": "Father of the Bride",
-        "url": "https://open.spotify.com/album/1A3nVEWRJ8yvlPzawHI1pQ"
-      },
-      "artists": [
-        {
-          "name": "Vampire Weekend",
-          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
-        }
-      ],
-      "duration_ms": 268600,
-      "name": "This Life",
-      "url": "https://open.spotify.com/track/4dRqYKhLVujxiBXcq50YzG"
-    },
-    {
-      "added_at": "2021-06-25 07:40:03",
-      "album": {
         "name": "love + everything else",
         "url": "https://open.spotify.com/album/3viPcBAym7FXyZWuvTM5T7"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 156505,
       "name": "parachute",
       "url": "https://open.spotify.com/track/3orJ0XpgXRG1LTA521BpDz"
+    },
+    {
+      "added_at": "2021-06-25 07:40:03",
+      "album": {
+        "name": "Father of the Bride",
+        "url": "https://open.spotify.com/album/1A3nVEWRJ8yvlPzawHI1pQ"
+      },
+      "artists": [
+        {
+          "name": "Vampire Weekend",
+          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+        }
+      ],
+      "duration_ms": 268600,
+      "name": "This Life",
+      "url": "https://open.spotify.com/track/4dRqYKhLVujxiBXcq50YzG"
     },
     {
       "added_at": "2021-06-25 07:40:03",
@@ -943,22 +943,6 @@
     {
       "added_at": "2021-06-25 07:40:03",
       "album": {
-        "name": "One Day At A Time",
-        "url": "https://open.spotify.com/album/2S3HfZLtg6KQ6czD3lyfBH"
-      },
-      "artists": [
-        {
-          "name": "Kodaline",
-          "url": "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
-        }
-      ],
-      "duration_ms": 185016,
-      "name": "Wherever You Are",
-      "url": "https://open.spotify.com/track/42fu5cmEhi5EWmoqaZUZuK"
-    },
-    {
-      "added_at": "2021-06-25 07:40:03",
-      "album": {
         "name": "Pride",
         "url": "https://open.spotify.com/album/3P3zn45t3NEjaFILRIsybN"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 224169,
       "name": "My Lighthouse",
       "url": "https://open.spotify.com/track/5AcdaSVQfLcUKMaqchfBie"
+    },
+    {
+      "added_at": "2021-06-25 07:40:03",
+      "album": {
+        "name": "One Day At A Time",
+        "url": "https://open.spotify.com/album/2S3HfZLtg6KQ6czD3lyfBH"
+      },
+      "artists": [
+        {
+          "name": "Kodaline",
+          "url": "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
+        }
+      ],
+      "duration_ms": 185016,
+      "name": "Wherever You Are",
+      "url": "https://open.spotify.com/track/42fu5cmEhi5EWmoqaZUZuK"
     },
     {
       "added_at": "2021-06-25 07:40:03",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2021-06-25 07:40:03",
       "album": {
-        "name": "Peaceful, The World Lays Me Down",
-        "url": "https://open.spotify.com/album/4bzNinbJcnth182w03fSL2"
-      },
-      "artists": [
-        {
-          "name": "Noah And The Whale",
-          "url": "https://open.spotify.com/artist/0aeLcja6hKzb7Uz2ou7ulP"
-        }
-      ],
-      "duration_ms": 214920,
-      "name": "5 Years Time",
-      "url": "https://open.spotify.com/track/1KlDcHrlDPUJJPmMup3tUp"
-    },
-    {
-      "added_at": "2021-06-25 07:40:03",
-      "album": {
         "name": "Pretty Girl (Acoustic Version)",
         "url": "https://open.spotify.com/album/3qbKaJJsSO5uuMcYPvKALk"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 180828,
       "name": "Pretty Girl - Acoustic Version",
       "url": "https://open.spotify.com/track/4Q28TwldTqBGxYfyWaYPFL"
+    },
+    {
+      "added_at": "2021-06-25 07:40:03",
+      "album": {
+        "name": "Peaceful, The World Lays Me Down",
+        "url": "https://open.spotify.com/album/4bzNinbJcnth182w03fSL2"
+      },
+      "artists": [
+        {
+          "name": "Noah And The Whale",
+          "url": "https://open.spotify.com/artist/0aeLcja6hKzb7Uz2ou7ulP"
+        }
+      ],
+      "duration_ms": 214920,
+      "name": "5 Years Time",
+      "url": "https://open.spotify.com/track/1KlDcHrlDPUJJPmMup3tUp"
     },
     {
       "added_at": "2021-06-25 07:40:03",
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2021-06-25 07:40:03",
       "album": {
+        "name": "Sunday Best (Acoustic Version)",
+        "url": "https://open.spotify.com/album/0RlzFvBDjmOP8LGXvOoJhu"
+      },
+      "artists": [
+        {
+          "name": "Brandon Chase",
+          "url": "https://open.spotify.com/artist/3qXWWITvZcTD1M2QmXszJK"
+        }
+      ],
+      "duration_ms": 150538,
+      "name": "Sunday Best - Acoustic Version",
+      "url": "https://open.spotify.com/track/5OfJhmXJMOrmRqNqYWkXBk"
+    },
+    {
+      "added_at": "2021-06-25 07:40:03",
+      "album": {
         "name": "Departures",
         "url": "https://open.spotify.com/album/6XjPtcU79xRGRXvCx3Owlj"
       },
@@ -1587,22 +1603,6 @@
       "duration_ms": 165604,
       "name": "Off",
       "url": "https://open.spotify.com/track/73Ilcr8ZN7m1tKXRGax5JO"
-    },
-    {
-      "added_at": "2021-06-25 07:40:03",
-      "album": {
-        "name": "Sunday Best (Acoustic Version)",
-        "url": "https://open.spotify.com/album/0RlzFvBDjmOP8LGXvOoJhu"
-      },
-      "artists": [
-        {
-          "name": "Brandon Chase",
-          "url": "https://open.spotify.com/artist/3qXWWITvZcTD1M2QmXszJK"
-        }
-      ],
-      "duration_ms": 150538,
-      "name": "Sunday Best - Acoustic Version",
-      "url": "https://open.spotify.com/track/5OfJhmXJMOrmRqNqYWkXBk"
     },
     {
       "added_at": "2021-06-25 07:40:03",
@@ -1675,22 +1675,18 @@
     {
       "added_at": "2021-06-25 07:40:03",
       "album": {
-        "name": "Following the Sun",
-        "url": "https://open.spotify.com/album/140Jok6j3tn10bqgUqcUVG"
+        "name": "Scars To Your Beautiful",
+        "url": "https://open.spotify.com/album/7lwdqOUtzxHH7wxUHtFffj"
       },
       "artists": [
         {
-          "name": "SUPER-Hi",
-          "url": "https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE"
-        },
-        {
-          "name": "NEEKA",
-          "url": "https://open.spotify.com/artist/1JPZHb1qziDJ05n0a1OvfW"
+          "name": "Thomas Daniel",
+          "url": "https://open.spotify.com/artist/6szSMqKKwkFqJoK3MxK3Hk"
         }
       ],
-      "duration_ms": 217520,
-      "name": "Following the Sun - Acoustic",
-      "url": "https://open.spotify.com/track/3v5ZzxwENtgyJkrwR5JW4N"
+      "duration_ms": 237857,
+      "name": "Scars To Your Beautiful",
+      "url": "https://open.spotify.com/track/19f6MVdX9dLFerHynoM5im"
     }
   ],
   "unique_name": "Primavera",

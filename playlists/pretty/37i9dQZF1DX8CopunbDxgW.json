@@ -1,12 +1,12 @@
 {
   "description": "Portola Festival takes over the metropolis playlist bringing you some heaters.",
-  "num_followers": 806255,
+  "num_followers": 806438,
   "original_name": "metropolis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzM4NzIwMCwwMDAwMDAwMDg3YWRhMTk5M2E3ZTAyMTEwMGM4MzgyZWI5ODBmNzVl",
+  "snapshot_id": "MTY2MzM4NzIwMCwwMDAwMDAwMDc2NDhkOTFmOWEzMDNhOWZkODJmNjEyNDZiN2MwYzAz",
   "tracks": [
     {
       "added_at": "2022-09-17 04:00:00",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2022-09-17 04:00:00",
       "album": {
+        "name": "MUNA",
+        "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 243236,
+      "name": "What I Want",
+      "url": "https://open.spotify.com/track/7uvxkcv7FWVh4wE91I8Bi2"
+    },
+    {
+      "added_at": "2022-09-17 04:00:00",
+      "album": {
         "name": "Palaces",
         "url": "https://open.spotify.com/album/2V1L71NRmzGYsqOqnjGimb"
       },
@@ -1163,22 +1179,6 @@
     {
       "added_at": "2022-09-17 04:00:00",
       "album": {
-        "name": "MUNA",
-        "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 243236,
-      "name": "What I Want",
-      "url": "https://open.spotify.com/track/7uvxkcv7FWVh4wE91I8Bi2"
-    },
-    {
-      "added_at": "2022-09-17 04:00:00",
-      "album": {
         "name": "Small World",
         "url": "https://open.spotify.com/album/5CHaXCMeag2aPjo72Ib8Xj"
       },
@@ -1191,22 +1191,6 @@
       "duration_ms": 224133,
       "name": "Right on time",
       "url": "https://open.spotify.com/track/6JJ3UK1YfxO26iEiMWUHHj"
-    },
-    {
-      "added_at": "2022-09-17 04:00:00",
-      "album": {
-        "name": "Keep Moving",
-        "url": "https://open.spotify.com/album/2RfWbfIULVPJq4Ng554eyX"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 240880,
-      "name": "Keep Moving",
-      "url": "https://open.spotify.com/track/6a88fc0zSrVWGPdoj445nJ"
     },
     {
       "added_at": "2022-09-17 04:00:00",
@@ -1227,6 +1211,22 @@
       "duration_ms": 192138,
       "name": "Esther",
       "url": "https://open.spotify.com/track/7JIFyFT89CwNK7EmhG2eqn"
+    },
+    {
+      "added_at": "2022-09-17 04:00:00",
+      "album": {
+        "name": "Keep Moving",
+        "url": "https://open.spotify.com/album/2RfWbfIULVPJq4Ng554eyX"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 240880,
+      "name": "Keep Moving",
+      "url": "https://open.spotify.com/track/6a88fc0zSrVWGPdoj445nJ"
     },
     {
       "added_at": "2022-09-17 04:00:00",
@@ -1535,18 +1535,22 @@
     {
       "added_at": "2022-09-17 04:00:00",
       "album": {
-        "name": "Must Be Nice",
-        "url": "https://open.spotify.com/album/6OofM4R1bZLZXrU1Pwr09L"
+        "name": "demon time",
+        "url": "https://open.spotify.com/album/2B8rBYLpIJNkP4OsN16yRm"
       },
       "artists": [
         {
-          "name": "49th & Main",
-          "url": "https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F"
+          "name": "Mura Masa",
+          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
+        },
+        {
+          "name": "slowthai",
+          "url": "https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP"
         }
       ],
-      "duration_ms": 239846,
-      "name": "Never Gonna Stop",
-      "url": "https://open.spotify.com/track/216LOkWfwFC0oI2ffMApMc"
+      "duration_ms": 122617,
+      "name": "up all week (with slowthai)",
+      "url": "https://open.spotify.com/track/1l73bwJECQdHrcep2LNwLG"
     },
     {
       "added_at": "2022-09-17 04:00:00",
@@ -1607,6 +1611,38 @@
     {
       "added_at": "2022-09-17 04:00:00",
       "album": {
+        "name": "Must Be Nice",
+        "url": "https://open.spotify.com/album/6OofM4R1bZLZXrU1Pwr09L"
+      },
+      "artists": [
+        {
+          "name": "49th & Main",
+          "url": "https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F"
+        }
+      ],
+      "duration_ms": 239846,
+      "name": "Never Gonna Stop",
+      "url": "https://open.spotify.com/track/216LOkWfwFC0oI2ffMApMc"
+    },
+    {
+      "added_at": "2022-09-17 04:00:00",
+      "album": {
+        "name": "Kerosene",
+        "url": "https://open.spotify.com/album/6ZZJgVir4fSS9inF2IFoU9"
+      },
+      "artists": [
+        {
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        }
+      ],
+      "duration_ms": 149840,
+      "name": "Kerosene",
+      "url": "https://open.spotify.com/track/1uPRLmmA2YGNItLRp3BgFO"
+    },
+    {
+      "added_at": "2022-09-17 04:00:00",
+      "album": {
         "name": "Can't Do Without (My Baby)",
         "url": "https://open.spotify.com/album/2Y2bKgwqnGKYeN7Zun222X"
       },
@@ -1619,22 +1655,6 @@
       "duration_ms": 202253,
       "name": "Can't Do Without (My Baby)",
       "url": "https://open.spotify.com/track/4hG6H7xPvEleJD9QUEqaAS"
-    },
-    {
-      "added_at": "2022-09-17 04:00:00",
-      "album": {
-        "name": "Frisco",
-        "url": "https://open.spotify.com/album/2ZW8wrrHv95qMif7MaGWb4"
-      },
-      "artists": [
-        {
-          "name": "Little Dragon",
-          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
-        }
-      ],
-      "duration_ms": 222911,
-      "name": "Frisco",
-      "url": "https://open.spotify.com/track/1cU4jWWFTAiclPWyD3X2KP"
     },
     {
       "added_at": "2022-09-17 04:00:00",
@@ -1655,18 +1675,18 @@
     {
       "added_at": "2022-09-17 04:00:00",
       "album": {
-        "name": "Kerosene",
-        "url": "https://open.spotify.com/album/6ZZJgVir4fSS9inF2IFoU9"
+        "name": "Frisco",
+        "url": "https://open.spotify.com/album/2ZW8wrrHv95qMif7MaGWb4"
       },
       "artists": [
         {
-          "name": "Biig Piig",
-          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
         }
       ],
-      "duration_ms": 149840,
-      "name": "Kerosene",
-      "url": "https://open.spotify.com/track/1uPRLmmA2YGNItLRp3BgFO"
+      "duration_ms": 222911,
+      "name": "Frisco",
+      "url": "https://open.spotify.com/track/1cU4jWWFTAiclPWyD3X2KP"
     },
     {
       "added_at": "2022-09-17 04:00:00",
@@ -1711,22 +1731,6 @@
     {
       "added_at": "2022-09-17 04:00:00",
       "album": {
-        "name": "Mango Feedback",
-        "url": "https://open.spotify.com/album/16YdLmhRGsqy6b2RKxIQWr"
-      },
-      "artists": [
-        {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
-        }
-      ],
-      "duration_ms": 291721,
-      "name": "Mango Feedback",
-      "url": "https://open.spotify.com/track/4lEkWLEF4MRTJE03dCF2O9"
-    },
-    {
-      "added_at": "2022-09-17 04:00:00",
-      "album": {
         "name": "Butterflies (with Starrah & Four Tet)",
         "url": "https://open.spotify.com/album/1j2uX2CKl8szGRxKqsXOfm"
       },
@@ -1767,6 +1771,22 @@
     {
       "added_at": "2022-09-17 04:00:00",
       "album": {
+        "name": "Mango Feedback",
+        "url": "https://open.spotify.com/album/16YdLmhRGsqy6b2RKxIQWr"
+      },
+      "artists": [
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "duration_ms": 291721,
+      "name": "Mango Feedback",
+      "url": "https://open.spotify.com/track/4lEkWLEF4MRTJE03dCF2O9"
+    },
+    {
+      "added_at": "2022-09-17 04:00:00",
+      "album": {
         "name": "When the Lights Go",
         "url": "https://open.spotify.com/album/2aApNIlo8yWlCk6x899rhY"
       },
@@ -1779,26 +1799,6 @@
       "duration_ms": 247327,
       "name": "Be with You",
       "url": "https://open.spotify.com/track/2ECjeYPCdRNeuCzO0W1UMW"
-    },
-    {
-      "added_at": "2022-09-17 04:00:00",
-      "album": {
-        "name": "Wide Awake (feat. Charlie Houston)",
-        "url": "https://open.spotify.com/album/4x2RP82FqTREo8eBp0LgI6"
-      },
-      "artists": [
-        {
-          "name": "ODESZA",
-          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
-        },
-        {
-          "name": "Charlie Houston",
-          "url": "https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR"
-        }
-      ],
-      "duration_ms": 215039,
-      "name": "Wide Awake (feat. Charlie Houston)",
-      "url": "https://open.spotify.com/track/4lKSHi12cKgQlXwkrPHQ6s"
     }
   ],
   "unique_name": "metropolis",

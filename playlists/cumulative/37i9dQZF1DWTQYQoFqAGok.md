@@ -4,7 +4,7 @@
 
 > Descubre la escena del jazz en México en la curaduría de los expertos Mariana Pérez,  Juan Carlos Reyes, Erik Montenegro y José Enrique Fernández.
 
-54 songs - 4 hr 0 min - [published](https://open.spotify.com/playlist/15XX6lawI7eg99bVMwOVQB)
+55 songs - 4 hr 3 min - [published](https://open.spotify.com/playlist/15XX6lawI7eg99bVMwOVQB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [La Canción de Linyera](https://open.spotify.com/track/4LK5SHNZuDT9hjy7EMvyob) | [Paté de Fuá](https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa) | [Bon appetit \(Lo Mejor de Paté de Fuá\)](https://open.spotify.com/album/4NCt0MxUIzpRifMmnFV29f) | 4:45 | 2021-07-28 |  |
 | [La Cigarra](https://open.spotify.com/track/5VoLcv7J5mAwcRANKImy4R) | [Adrián Oropeza Trío](https://open.spotify.com/artist/3kSQteccOICAnocbnba3yl) | [Mezcal](https://open.spotify.com/album/0siHdOQxgRjJBawzzQqksX) | 6:33 | 2021-07-28 |  |
 | [La Cocola](https://open.spotify.com/track/2XxyE2LiLidlNXuoYpczZA) | [Gerardo Batiz](https://open.spotify.com/artist/6xBEVM1pgWPp5v93sBVcm3) | [Soñe \- Jazz Mexicano](https://open.spotify.com/album/1d4BQoieyMuga0PEjsdcB6) | 4:26 | 2021-07-28 |  |
-| [Las Pulgas Freeway](https://open.spotify.com/track/5AFlumcmhChuLqzrkPzj0M) | [Arturo Cipriano](https://open.spotify.com/artist/5MagvaL80lMCb6ZTiNHW0u), [Gerardo Batiz](https://open.spotify.com/artist/6xBEVM1pgWPp5v93sBVcm3), [Sacbe](https://open.spotify.com/artist/2UA1zpDaD5s3Uy5R7JzzOh) | [Sacbe: Sacbe \(Complete\)](https://open.spotify.com/album/3LhbAvlKoxmYCbagKUajAP) | 6:44 | 2021-07-28 |  |
+| [Las Pulgas Freeway](https://open.spotify.com/track/5AFlumcmhChuLqzrkPzj0M) | [Arturo Cipriano](https://open.spotify.com/artist/5MagvaL80lMCb6ZTiNHW0u), [Gerardo Batiz](https://open.spotify.com/artist/6xBEVM1pgWPp5v93sBVcm3), [Sacbe](https://open.spotify.com/artist/2UA1zpDaD5s3Uy5R7JzzOh) | [Sacbe: Sacbe \(Complete\)](https://open.spotify.com/album/3LhbAvlKoxmYCbagKUajAP) | 6:44 | 2021-07-28 | 2022-09-21 |
 | [Los Pequeños Detalles](https://open.spotify.com/track/7JIuo1FbYeIdJlwXXztn01) | [Iraida Noriega](https://open.spotify.com/artist/5nOZrHmLp5IoE7ZzJYZOfi), [Zinco Big Band](https://open.spotify.com/artist/3cj2yEjzcCZVRaIuPgfkfv) | [Así Era Entonces, Ahora...](https://open.spotify.com/album/7DvwqriKTJbGOnrXQot7tX) | 4:30 | 2021-07-28 |  |
 | [Luna Taxqueña \- Jazz Mariachi](https://open.spotify.com/track/3KV4Rqy4xUPFDxtNQ9yTqp) | [Tino Contreras](https://open.spotify.com/artist/48kCMQ00lfjWnQZCUPOYrX) | [Jazz Mariachi](https://open.spotify.com/album/3aoFmJGzas336JTwS4DGFh) | 3:31 | 2021-07-28 |  |
 | [Mama Nature](https://open.spotify.com/track/30TeIbEyHxzftJeNFZmlWz) | [Joaquina Mertz](https://open.spotify.com/artist/7lSGnBub2g8JGbNDgmrXsJ) | [Honey](https://open.spotify.com/album/5jeIcIob6QVT4W3zvAH7hZ) | 3:40 | 2021-07-28 |  |
@@ -49,6 +49,7 @@
 | [Paisaje Gris](https://open.spotify.com/track/7Fo5vh8oUOsw8LsziLXe60) | [Jenny Beaujean](https://open.spotify.com/artist/6ex3zdLBHsbn07VkD3Nnq3), [Benjamín García](https://open.spotify.com/artist/25pBtHDlplMjQ9FrFoMcuE) | [Paisaje Gris](https://open.spotify.com/album/4WAskgkj1leGkHgXXobvRG) | 4:19 | 2021-07-28 |  |
 | [Quién Eres Tú?](https://open.spotify.com/track/19V9sBVJLuMEVWiqTMiU4N) | [Iraida Noriega](https://open.spotify.com/artist/5nOZrHmLp5IoE7ZzJYZOfi), [Enrique Nery](https://open.spotify.com/artist/5lOnG3d2nIvI20objBklwi), [Aarón Cruz](https://open.spotify.com/artist/6km6DCmnVWUSAzNEccF8yv) | [Quién Eres Tú?](https://open.spotify.com/album/6627kcDKivQe10EdHUDmok) | 5:50 | 2021-07-28 |  |
 | [Razón de Vivir \(Desde Casa\)](https://open.spotify.com/track/7332CH0YojbWtMhBTh1Ssg) | [Magos Herrera](https://open.spotify.com/artist/2Ns9sLtYVQhj9NU9y96Lwh), [Chano Dominguez](https://open.spotify.com/artist/63Znb1LZJ0KljCmhuxcRMI) | [Razón de Vivir \(Desde Casa\)](https://open.spotify.com/album/2R5tdma1EXvW93NHGfNjtz) | 4:14 | 2021-07-28 |  |
+| [Relaxing](https://open.spotify.com/track/3w0aUsD1t1BLjS07tJkb79) | [Felipe Gordillo](https://open.spotify.com/artist/7b0QXH6YJSemZ94reTyszH) | [Felipe Gordillo: En vuelo & Other Works](https://open.spotify.com/album/077ACfTSz4Gm89aPe4JhgP) | 3:32 | 2021-07-28 |  |
 | [Safo \(La Sacerdotiza Del Amor\)](https://open.spotify.com/track/7FohOjzp6xDJQ14BxlDI9T) | [Tino Contreras](https://open.spotify.com/artist/48kCMQ00lfjWnQZCUPOYrX) | [Frente A Frente: Mexican Jazz Jam](https://open.spotify.com/album/3hF6IXgJlQ0gEwHJzVl9fr) | 3:24 | 2021-07-28 |  |
 | [Sueños](https://open.spotify.com/track/0IhXOXLvA8B9J91O2BhB2t) | [Xalapa Jazz Orchestra](https://open.spotify.com/artist/5IWPXtD7sSSNEJQiskp96F) | [Cronologías](https://open.spotify.com/album/7bCzc6xDFgVGpVXyEJ26gK) | 8:05 | 2022-08-16 |  |
 | [Suite Yusef Lateef](https://open.spotify.com/track/0AkwnLhfQNazmhFaWQ9unK) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH), [Guillaume Pouget](https://open.spotify.com/artist/68aVRNEtPd31Qmo77iGojE) | [Kumoi](https://open.spotify.com/album/2qLAtuAVOqy3KXRhLb7bsU) | 2:07 | 2022-03-30 |  |

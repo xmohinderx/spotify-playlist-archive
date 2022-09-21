@@ -4,10 +4,11 @@
 
 > A journey into the unknown, dark, and experimental.
 
-118 songs - 7 hr 40 min - [published](https://open.spotify.com/playlist/4Yl6V9aO8ob35sgpwk1lVL)
+121 songs - 7 hr 53 min - [published](https://open.spotify.com/playlist/4Yl6V9aO8ob35sgpwk1lVL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [1st Day](https://open.spotify.com/track/1zbAxqx1OfY6Avcp7s1wJb) | [Debit](https://open.spotify.com/artist/101vLnWdoeyAyQhADB4bqe) | [The Long Count](https://open.spotify.com/album/5E3VtquEh09l4f1jvLbksN) | 2:21 | 2022-09-21 |  |
 | [4ÆM](https://open.spotify.com/track/3sqmHaUVKizwwoKsHMVc1U) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Miss Anthropocene \(Deluxe Edition\)](https://open.spotify.com/album/1ZKbjlrUC5REoa13uSH5KL) | 4:30 | 2020-10-20 | 2022-07-29 |
 | [4ÆM](https://open.spotify.com/track/4keclC0eBhQm8lFtYmX01K) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Miss Anthropocene \(Deluxe Edition\)](https://open.spotify.com/album/4zyqNfmTrnvUejh8M1IEh9) | 4:30 | 2020-10-20 |  |
 | [A Garden by the Sea](https://open.spotify.com/track/1Nzdc7gAPufUvqXulMHsWu) | [Beautify Junkyards](https://open.spotify.com/artist/2Rrf9CkzPdPihESHDo5KZl) | [Cosmorama](https://open.spotify.com/album/51huDw05lsbbpDcR1MuIfq) | 4:42 | 2021-01-22 |  |
@@ -39,6 +40,7 @@
 | [Exit to Enter](https://open.spotify.com/track/1XOHLjNzLVbQUgNBk23hRp) | [The Lazy Jesus](https://open.spotify.com/artist/5lZF9dixBp7VJ1EHUBod9h) | [Original Fighter](https://open.spotify.com/album/4EOxbxXfaGo5LGkCR1Sfdo) | 2:58 | 2020-10-20 |  |
 | [Fear is your Only God](https://open.spotify.com/track/0uHZlstP3u3R2lA3WBjXqr) | [Mala Sangre](https://open.spotify.com/artist/4ZNEFyoM6tmMuwuTGH2vbh) | [Fear is your Only God](https://open.spotify.com/album/33yHeuUDSnnCpuc7Af2eR1) | 4:26 | 2021-06-23 | 2022-07-29 |
 | [Fear is your Only God](https://open.spotify.com/track/5E4PTNUV7RPpIZCEOM1lD2) | [Mala Sangre](https://open.spotify.com/artist/4ZNEFyoM6tmMuwuTGH2vbh) | [Fear is your Only God](https://open.spotify.com/album/3sNxVmpdyxEuvoPkLdtKNR) | 4:26 | 2021-06-23 |  |
+| [Fimmine Fimmine](https://open.spotify.com/track/7ANEW2g8PEhk3pLP2UxPVT) | [Mai Mai Mai](https://open.spotify.com/artist/5qVRuanPGaUlDLpcS4l7b3), [Vera Di Lecce](https://open.spotify.com/artist/2J86M7FAdzuVVYL5IMJYZZ) | [Rimorso](https://open.spotify.com/album/35LHiySmiksIVj8dex7Xg7) | 4:39 | 2022-09-21 |  |
 | [Harimau](https://open.spotify.com/track/2pRilzRQGc3pAIlpZWYgZG) | [Zatua](https://open.spotify.com/artist/75bOXA83zDlnrFh1clMrCj) | [Sin Existencia](https://open.spotify.com/album/6IjQpSZvu3171WDCQAaHf2) | 5:13 | 2020-10-20 |  |
 | [HATE](https://open.spotify.com/track/7BCnH6TnAy4bpO21NcqEHe) | [Alina Pash](https://open.spotify.com/artist/2rC7t19zOtFIcJvmi6lH1i) | [Amerikraine Dream](https://open.spotify.com/album/0q2WCwd8k4rSiuvha8aap5) | 3:32 | 2020-10-20 |  |
 | [Have You Felt Lately?](https://open.spotify.com/track/2v7b1jWrpXzHRkeLmHE81K) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH) | [Let's Turn It Into Sound](https://open.spotify.com/album/6OejvHOkJc24k5Psvw2kS3) | 3:54 | 2022-08-31 |  |
@@ -116,6 +118,7 @@
 | [Watch Me](https://open.spotify.com/track/26nkRghL4ROI2GdxjJ2ZQG) | [The Pom\-Poms](https://open.spotify.com/artist/2ufAy0kXnQMTP8rkvoTqUC) | [The Pom\-Poms](https://open.spotify.com/album/75mwsGyTLIsi3PnxFxz061) | 2:56 | 2020-10-20 | 2022-07-29 |
 | [Watch Me](https://open.spotify.com/track/2biaN4CEUrKHqJgPZLXgEc) | [The Pom\-Poms](https://open.spotify.com/artist/2ufAy0kXnQMTP8rkvoTqUC) | [The Pom\-Poms](https://open.spotify.com/album/237EqTv2dtmYvRWcADo4lj) | 2:56 | 2020-10-20 |  |
 | [WET](https://open.spotify.com/track/4JncjhRUDvh84eO25bopKp) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [WET](https://open.spotify.com/album/5UUIPBAzbPaM9J05cLZiaw) | 2:49 | 2020-10-20 |  |
+| [Win Some](https://open.spotify.com/track/0U1e0nOw2WlQ6l2sTgfxJS) | [LEYA](https://open.spotify.com/artist/6Af4zImb75tO0LxOAEdUI1), [Okay Kaya](https://open.spotify.com/artist/7d64ZVOXg02y73HB5UMqkb) | [Eyeline](https://open.spotify.com/album/0wiBZdQc7wQA1s6oOZmlNx) | 5:12 | 2022-09-21 |  |
 | [Đi Tìm](https://open.spotify.com/track/2tr5nB15QjKueCSypsuEz7) | [Ngo Hong Quang](https://open.spotify.com/artist/0bSlwjLk6yxanA1aR9QhGY) | [Nhìn Lại](https://open.spotify.com/album/3C7WkkrbcsB80RvXUfJkBO) | 6:29 | 2021-06-23 |  |
 | [выжженные поля](https://open.spotify.com/track/0qCSVXlSql2UkFJupliZon) | [тише воды](https://open.spotify.com/artist/7sGURNRYCWDBglrCckFIP9) | [выжженные поля](https://open.spotify.com/album/0ZmB2xyQ2r53QIIsziTUO6) | 3:53 | 2020-10-20 |  |
 | [Кожа](https://open.spotify.com/track/6O2IxBAZlVeQxgjQIQZtz1) | [AIGEL](https://open.spotify.com/artist/1gpjSKJC0UekvhaI8fAcoq) | [Кожа](https://open.spotify.com/album/4wCIFuLXlbqc5QQIj14H1S) | 4:28 | 2021-06-23 |  |

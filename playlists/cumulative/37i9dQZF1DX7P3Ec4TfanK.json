@@ -813,7 +813,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 164000,
       "name": "farfalle",
       "url": "https://open.spotify.com/track/5HujDMiRNqZwEzVAh3oFD3"
@@ -2339,6 +2339,24 @@
       "duration_ms": 156300,
       "name": "Slidin' (feat. Kodak Black)",
       "url": "https://open.spotify.com/track/173ff06by7Ujur3An4cHWf"
+    },
+    {
+      "album": {
+        "name": "Some Say",
+        "url": "https://open.spotify.com/album/5pCAWYym13GcQN8CXEb89m"
+      },
+      "artists": [
+        {
+          "name": "Nea",
+          "url": "https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175601,
+      "name": "Some Say",
+      "url": "https://open.spotify.com/track/4poybupy26pTWPr9zY1i7h"
     },
     {
       "album": {

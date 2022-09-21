@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSk9DH2Upl3o.md) - [plain]
 
 > The jam scene is alive and well\. Cover: Papadosio
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,631 likes - 50 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,677 likes - 50 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSk9DH2Upl3o.md) - [plain]
 | 10 | [Playing With My Emotions](https://open.spotify.com/track/4zEFa1VjwShQ70oiiELHMf) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [I Am The Moon: II\. Ascension](https://open.spotify.com/album/1kAOpSgqnN3ya5cFIeZMbM) | 4:10 |
 | 11 | [Saturday's Children \(feat\. Neal Casal\)](https://open.spotify.com/track/0l47ZhSBfu9MeKAmBXLq1y) | [Circles Around The Sun](https://open.spotify.com/artist/4Aixcj6XBhqbdEHDKS7QcH), [Neal Casal](https://open.spotify.com/artist/0rZpNCCYOe06am554MyKRu) | [Interludes For The Dead \(feat\. Neal Casal\)](https://open.spotify.com/album/2BsLSSEQrjxOBCdNLyqzfh) | 9:25 |
 | 12 | [Inside Out](https://open.spotify.com/track/0w2JzMK1cb5Wx4feWnWKAP) | [O.A.R.](https://open.spotify.com/artist/1Cq0LAHFfvUTBEtMPXUidI) | [The Arcade](https://open.spotify.com/album/4Ganxbl3L5KDZP9MHnSB5N) | 3:13 |
-| 13 | [Kangaroo](https://open.spotify.com/track/2iRud7yNC2yYGVFyl8ik0b) | [The Big Wu](https://open.spotify.com/artist/2IQLjVQHKnzSQAVAkeCcQ0) | [Tracking Buffalo Through the Bathtub](https://open.spotify.com/album/6pEnxOBIV3UGzmH7W0JOFx) | 4:05 |
-| 14 | [Just A Little](https://open.spotify.com/track/4Z8qmRtrwLynVX4GMlUmjM) | [SunSquabi](https://open.spotify.com/artist/1CLLPNftraxuTDyTd6hn3J) | [Just a Little](https://open.spotify.com/album/1TqY6YxFZdVqwReNRDyEo7) | 6:10 |
+| 13 | [Just A Little](https://open.spotify.com/track/4Z8qmRtrwLynVX4GMlUmjM) | [SunSquabi](https://open.spotify.com/artist/1CLLPNftraxuTDyTd6hn3J) | [Just a Little](https://open.spotify.com/album/1TqY6YxFZdVqwReNRDyEo7) | 6:10 |
+| 14 | [Kangaroo](https://open.spotify.com/track/2iRud7yNC2yYGVFyl8ik0b) | [The Big Wu](https://open.spotify.com/artist/2IQLjVQHKnzSQAVAkeCcQ0) | [Tracking Buffalo Through the Bathtub](https://open.spotify.com/album/6pEnxOBIV3UGzmH7W0JOFx) | 4:05 |
 | 15 | [Colorado](https://open.spotify.com/track/4p1d0mR5Fc8jObB91e3iMv) | [Lotus ](https://open.spotify.com/artist/1a4N2lwra7WGjwCDJS1Dkk) | [Nomad](https://open.spotify.com/album/0lTdz5ebFKF06UI9SYoOEh) | 5:06 |
 | 16 | [Song for Us](https://open.spotify.com/track/57lOagpbrS9oL3pHcXQONR) | [Big Something](https://open.spotify.com/artist/3kzqfNqrlEwieWGqRFiQso) | [Tumbleweed](https://open.spotify.com/album/0Wdd7IhlwI1uGNIeJayzM4) | 6:41 |
 | 17 | [Mucho](https://open.spotify.com/track/6RGXvExPr2zOTSfqqpRqx2) | [Dopapod](https://open.spotify.com/artist/6ur6SxSBdRLBgehOIT2iwX) | [Megagem](https://open.spotify.com/album/37NK8Dp8ms7so7FqzhopCm) | 6:33 |
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSk9DH2Upl3o.md) - [plain]
 | 27 | [Tumbleweed](https://open.spotify.com/track/1DWPCV6sKNGnzn4ypzDIcm) | [Big Something](https://open.spotify.com/artist/3kzqfNqrlEwieWGqRFiQso) | [Tumbleweed](https://open.spotify.com/album/0Wdd7IhlwI1uGNIeJayzM4) | 6:40 |
 | 28 | [Curse Lifter \(feat\. Derek Trucks\)](https://open.spotify.com/track/3qhvHN2UFlOouwkEEBWn37) | [Eric Krasno](https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k), [Derek Trucks](https://open.spotify.com/artist/1xJPYI7GXasA3ariMSftPq) | [Blood from a Stone](https://open.spotify.com/album/2OMMQdI71h7sWqkhis2ZkT) | 4:59 |
 | 29 | [Electric Taco Stand](https://open.spotify.com/track/2mMElb3GObwkGdVYtyT0nu) | [Spafford](https://open.spotify.com/artist/7fA0IDinGo27lmOeGy6oGV) | [Spafford](https://open.spotify.com/album/6XNKBFhh66GoOhMpOd8s05) | 4:23 |
-| 30 | [Ghost In The Machine](https://open.spotify.com/track/5VBPHVGLIpMdwRolGDxAm9) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [Ghost In The Machine](https://open.spotify.com/album/35uUl3hTYQfBhH8CvSsTiV) | 6:19 |
-| 31 | [All I Need](https://open.spotify.com/track/6vC5WWQXWqBUW5iq7XoGnu) | [Goose](https://open.spotify.com/artist/5tkITWzssc9z9hu7ZEOCXz) | [Night Lights](https://open.spotify.com/album/1UyBQOLKc5jxzrdAOpHjv4) | 6:41 |
+| 30 | [All I Need](https://open.spotify.com/track/6vC5WWQXWqBUW5iq7XoGnu) | [Goose](https://open.spotify.com/artist/5tkITWzssc9z9hu7ZEOCXz) | [Night Lights](https://open.spotify.com/album/1UyBQOLKc5jxzrdAOpHjv4) | 6:41 |
+| 31 | [Ghost In The Machine](https://open.spotify.com/track/5VBPHVGLIpMdwRolGDxAm9) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [Ghost In The Machine](https://open.spotify.com/album/35uUl3hTYQfBhH8CvSsTiV) | 6:19 |
 | 32 | [Opelika Yella](https://open.spotify.com/track/0lNcPLNpygKPwn4rh07yHQ) | [Cbdb](https://open.spotify.com/artist/0Rt9ML8x5r1DFhSPAJhbwr) | [Out of Line](https://open.spotify.com/album/0L8s86CwVUyPR1wF2HiTRg) | 5:39 |
 | 33 | [Mr\. Scientist](https://open.spotify.com/track/4873MdwrLRw2FuAddS0h3F) | [The Magic Beans](https://open.spotify.com/artist/6v39xVS6Vpmnun982EF8XH) | [Casino Cabaret](https://open.spotify.com/album/2Y7VfgO3VkHuZHgTfmbHco) | 7:28 |
 | 34 | [Mokuba](https://open.spotify.com/track/58Ge6PmTc9PfP0mK5GC8Mk) | [Tauk](https://open.spotify.com/artist/6qauwCj8W2mTcDGbyDGo6O) | [Collisions](https://open.spotify.com/album/0Hzx5qahFYpoxFlNz0iHrK) | 5:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSk9DH2Upl3o.md) - [plain]
 | 49 | [When Ya Hustle](https://open.spotify.com/track/3AttQu1NPvaCrgw9O3jgOq) | [Cytrus](https://open.spotify.com/artist/6VrNLN6Thj1iUMsiL4Yt5q) | [Extraction](https://open.spotify.com/album/6Rr6d7WcYWtsdMZImjvWmA) | 4:07 |
 | 50 | [Lily's Tiger](https://open.spotify.com/track/1wEt9nM5wq2U5RNuWBxnyA) | [Great Blue](https://open.spotify.com/artist/1LlkBNUOz29oWc0IeX0lXc) | [Great Blue](https://open.spotify.com/album/3EuzVI8uESnKwlOOdh4wr6) | 4:57 |
 
-Snapshot ID: `MTY2MzMwMDg2MCwwMDAwMDAwMGQyMWJiMWM0OWMwYTA1YmQzYjM5YzgyYThmN2IxZGQy`
+Snapshot ID: `MTY2MzMwMDg2MCwwMDAwMDAwMGZlN2ZjODhjMWM1NDU4N2JjNjk5NjVhMDE3ZDZjNGIz`

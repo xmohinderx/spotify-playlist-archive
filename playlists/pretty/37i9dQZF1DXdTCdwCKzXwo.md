@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTCdwCKzXwo.md) - [plain]
 
 > Early pioneers that brought the underground to the foreground\. Cover: Nico
 
-[Spotify](https://open.spotify.com/user/spotify) - 961,963 likes - 75 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 962,591 likes - 75 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,15 +42,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTCdwCKzXwo.md) - [plain]
 | 32 | [Mad World](https://open.spotify.com/track/0Qv7xi6uPSqH2k82tOkGSt) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [The Hurting](https://open.spotify.com/album/3sIFpEctox1XOs3FEkqrgr) | 3:35 |
 | 33 | [Cannonball](https://open.spotify.com/track/1KdwPeY1WRWQGHCmRJTveb) | [The Breeders](https://open.spotify.com/artist/1xgFexIwrf2QjbU0buCNnp) | [Last Splash](https://open.spotify.com/album/57F44c0MTziVzHPEuJtH9A) | 3:33 |
 | 34 | [We Got The Beat](https://open.spotify.com/track/5kz9GDBTX846OXwqWoyKzF) | [The Go\-Go's](https://open.spotify.com/artist/2mG8HHQ9S9kcbjcrb5N1FE) | [Beauty And The Beat](https://open.spotify.com/album/1L4HE00En7eNK74voVZums) | 2:33 |
-| 35 | [Ever Fallen in Love \(With Someone You Shouldn't've?\) \- 1996 Remastered Version](https://open.spotify.com/track/5YUJMvTg4AWHKjqQidTsGK) | [Buzzcocks](https://open.spotify.com/artist/2DxlS3lTLFIq70S7ap5H3y) | [Love Bites](https://open.spotify.com/album/5rMPmOj5n5TRtphgHpqEVg) | 2:43 |
-| 36 | [Deceptacon](https://open.spotify.com/track/4l0HxP8wm5iWHqo9myvFsm) | [Le Tigre](https://open.spotify.com/artist/2n6FviARgtjjimZXu18uRM) | [Le Tigre](https://open.spotify.com/album/5k3SJlcTe5aDF7gDkcBnOL) | 3:04 |
+| 35 | [Deceptacon](https://open.spotify.com/track/4l0HxP8wm5iWHqo9myvFsm) | [Le Tigre](https://open.spotify.com/artist/2n6FviARgtjjimZXu18uRM) | [Le Tigre](https://open.spotify.com/album/5k3SJlcTe5aDF7gDkcBnOL) | 3:04 |
+| 36 | [Ever Fallen in Love \(With Someone You Shouldn't've?\) \- 1996 Remastered Version](https://open.spotify.com/track/5YUJMvTg4AWHKjqQidTsGK) | [Buzzcocks](https://open.spotify.com/artist/2DxlS3lTLFIq70S7ap5H3y) | [Love Bites](https://open.spotify.com/album/5rMPmOj5n5TRtphgHpqEVg) | 2:43 |
 | 37 | [Girls on Film \- 2010 Remaster](https://open.spotify.com/track/4EFkvOhgAmlHEfDfvfSoh5) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Duran Duran \(Deluxe Edition\)](https://open.spotify.com/album/2Tc7ILGF89w1PWOhzuZlqB) | 3:32 |
-| 38 | [Mrs\. Robinson \- Remastered](https://open.spotify.com/track/5EugXICXL06waHgP4iTI58) | [The Lemonheads](https://open.spotify.com/artist/6w7fc6IZlo5zwBaKT5jU1X) | [It's A Shame About Ray \(Expanded Edition\)](https://open.spotify.com/album/3AKjod7W29b6DQKwuInZji) | 3:44 |
-| 39 | [Waiting Room](https://open.spotify.com/track/2DBlfjL5chsdeULzhTp5K8) | [Fugazi](https://open.spotify.com/artist/62sC6lUEWRjbFqXpMmOk4G) | [13 Songs](https://open.spotify.com/album/1FcRwT7uoNdO8L9wbYsfAY) | 2:53 |
+| 38 | [Waiting Room](https://open.spotify.com/track/2DBlfjL5chsdeULzhTp5K8) | [Fugazi](https://open.spotify.com/artist/62sC6lUEWRjbFqXpMmOk4G) | [13 Songs](https://open.spotify.com/album/1FcRwT7uoNdO8L9wbYsfAY) | 2:53 |
+| 39 | [Mrs\. Robinson \- Remastered](https://open.spotify.com/track/5EugXICXL06waHgP4iTI58) | [The Lemonheads](https://open.spotify.com/artist/6w7fc6IZlo5zwBaKT5jU1X) | [It's A Shame About Ray \(Expanded Edition\)](https://open.spotify.com/album/3AKjod7W29b6DQKwuInZji) | 3:44 |
 | 40 | [Ashes to Ashes \- 2017 Remaster](https://open.spotify.com/track/37CRPk0L5ZpfPeePEPwE0t) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Scary Monsters \(And Super Creeps\) \[2017 Remaster\]](https://open.spotify.com/album/5fxvWHvIDPIALfTfRiwyB0) | 4:26 |
 | 41 | [These Days](https://open.spotify.com/track/3uCkIqD0VzQUijbs8WIizs) | [Nico](https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj) | [Chelsea Girl](https://open.spotify.com/album/6O62Cqi0YqOytEbFmeLyjU) | 3:30 |
-| 42 | [Pump It Up \- 2021 Remaster](https://open.spotify.com/track/3oyc1mIdCBGaU55wX7otqM) | [Elvis Costello & The Attractions](https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH) | [This Year's Model \(2021 Remaster\)](https://open.spotify.com/album/4RLIesiAVONV4fOUlOSmr4) | 3:16 |
-| 43 | [Alison](https://open.spotify.com/track/33HRECrmuelZxOpid6XTNX) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Souvlaki](https://open.spotify.com/album/53eHm1f3sFiSzWMaKOl98Z) | 3:50 |
+| 42 | [Alison](https://open.spotify.com/track/33HRECrmuelZxOpid6XTNX) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Souvlaki](https://open.spotify.com/album/53eHm1f3sFiSzWMaKOl98Z) | 3:50 |
+| 43 | [Pump It Up \- 2021 Remaster](https://open.spotify.com/track/3oyc1mIdCBGaU55wX7otqM) | [Elvis Costello & The Attractions](https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH) | [This Year's Model \(2021 Remaster\)](https://open.spotify.com/album/4RLIesiAVONV4fOUlOSmr4) | 3:16 |
 | 44 | [Tainted Love](https://open.spotify.com/track/58E1XVmZTODC67YNjneuXM) | [Soft Cell](https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc) | [Non\-Stop Erotic Cabaret](https://open.spotify.com/album/1R4TikWrz6Mz53aB66dZRn) | 2:33 |
 | 45 | [Making Plans For Nigel](https://open.spotify.com/track/1XT5kxg6Tk0ukCO2vBQN4v) | [XTC](https://open.spotify.com/artist/2qT62DYO8Ajb276vUJmvhz) | [Drums And Wires](https://open.spotify.com/album/4S6y2iTYbGONSlNJHYyrVl) | 4:13 |
 | 46 | [Anemone](https://open.spotify.com/track/70WSr32oW4jC1na5I0j0D6) | [The Brian Jonestown Massacre](https://open.spotify.com/artist/30uiS1n3uIGXJEYFR1GVDy) | [Their Satanic Majesties' Second Request](https://open.spotify.com/album/4kXc4XcGYOpHpXRlWq1RFi) | 5:34 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTCdwCKzXwo.md) - [plain]
 | 74 | [Buena](https://open.spotify.com/track/2SSBJhvMsujY94GK5JAtKs) | [Morphine](https://open.spotify.com/artist/3QgSmABpItIdj908ek80n5) | [Cure for Pain](https://open.spotify.com/album/0FocpOyE7RnaNsiaEhSbp6) | 3:19 |
 | 75 | [Love Plus One](https://open.spotify.com/track/4vwLjB2NRtl9b34jRe6cWd) | [Haircut 100](https://open.spotify.com/artist/6imyM8T1Xbe8v2iZe41dR7) | [Pelican West Plus](https://open.spotify.com/album/6VIiHu2RCwWo4151YCG7ND) | 3:32 |
 
-Snapshot ID: `MTY2MjY0OTkyNCwwMDAwMDAwMDUyMTJmMTM2NGQxMGIyN2U0NjQ5MDVmZjk4YmY5MWEw`
+Snapshot ID: `MTY2MjY0OTkyNCwwMDAwMDAwMGI4NjU5ZWE1NjRhY2VlNGRkMmE1NzZlZDliY2NlNWEw`

@@ -1,12 +1,12 @@
 {
   "description": "Big bands, big sounds.",
-  "num_followers": 370909,
+  "num_followers": 370938,
   "original_name": "Big Band",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQ2MjUyMCwwMDAwMDAwMDc2M2VlYTBhYjlkY2NhZWE4NzM5Y2E5MTBmYTEwODkw",
+  "snapshot_id": "MTY1ODQ2MjUyMCwwMDAwMDAwMGU4MWZhODcxYzdmZGQzYmQyZWYzMWVjZmM4MGNhNTYy",
   "tracks": [
     {
       "added_at": "2022-07-22 04:02:00",
@@ -555,22 +555,6 @@
     {
       "added_at": "2020-03-06 16:28:56",
       "album": {
-        "name": "The Great American Songbook",
-        "url": "https://open.spotify.com/album/3AiEMTv9oFDRaDjqv93mOU"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 183960,
-      "name": "I Can't Believe That You're In Love With Me",
-      "url": "https://open.spotify.com/track/57sdRcA5sfIFOKFjReXp2P"
-    },
-    {
-      "added_at": "2020-03-06 16:28:56",
-      "album": {
         "name": "Q's Jook Joint",
         "url": "https://open.spotify.com/album/5zq1m9RP5iwHBRQlgbROx1"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 175733,
       "name": "Let The Good Times Roll",
       "url": "https://open.spotify.com/track/2dFJA0ZQ2OjA8TWjEV6P5n"
+    },
+    {
+      "added_at": "2020-03-06 16:28:56",
+      "album": {
+        "name": "The Great American Songbook",
+        "url": "https://open.spotify.com/album/3AiEMTv9oFDRaDjqv93mOU"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 183960,
+      "name": "I Can't Believe That You're In Love With Me",
+      "url": "https://open.spotify.com/track/57sdRcA5sfIFOKFjReXp2P"
     },
     {
       "added_at": "2020-03-06 16:28:56",
@@ -623,22 +623,6 @@
     {
       "added_at": "2020-03-06 16:28:56",
       "album": {
-        "name": "Inspiration (A Tribute To Nat King Cole)",
-        "url": "https://open.spotify.com/album/7CVBlFmDZnYjHyP6G0aj0m"
-      },
-      "artists": [
-        {
-          "name": "George Benson",
-          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
-        }
-      ],
-      "duration_ms": 162080,
-      "name": "Just One Of Those Things",
-      "url": "https://open.spotify.com/track/6QZ4ZhD8hGVTfwoN2Ypl4Z"
-    },
-    {
-      "added_at": "2020-03-06 16:28:56",
-      "album": {
         "name": "Night In Tunisia: The Very Best Of Dizzy Gillespie",
         "url": "https://open.spotify.com/album/23CDAtj0sfiYYuoDWYR6cf"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 186693,
       "name": "Manteca",
       "url": "https://open.spotify.com/track/6KpMB0Wgw1NVFqwn0DCprf"
+    },
+    {
+      "added_at": "2020-03-06 16:28:56",
+      "album": {
+        "name": "Inspiration (A Tribute To Nat King Cole)",
+        "url": "https://open.spotify.com/album/7CVBlFmDZnYjHyP6G0aj0m"
+      },
+      "artists": [
+        {
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+        }
+      ],
+      "duration_ms": 162080,
+      "name": "Just One Of Those Things",
+      "url": "https://open.spotify.com/track/6QZ4ZhD8hGVTfwoN2Ypl4Z"
     },
     {
       "added_at": "2020-03-06 16:28:56",
@@ -707,6 +707,22 @@
     {
       "added_at": "2020-03-06 16:28:56",
       "album": {
+        "name": "Birks Works: The Verve Big-Band Sessions",
+        "url": "https://open.spotify.com/album/7yyH8DozyrWFMEAWhCV2oS"
+      },
+      "artists": [
+        {
+          "name": "Dizzy Gillespie",
+          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
+        }
+      ],
+      "duration_ms": 235866,
+      "name": "Doodlin'",
+      "url": "https://open.spotify.com/track/2jb1Abu8FOdpIAICSnV6C6"
+    },
+    {
+      "added_at": "2020-03-06 16:28:56",
+      "album": {
         "name": "More Smiles",
         "url": "https://open.spotify.com/album/4Pyfz10lCoDGuFISUxLZmg"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 582509,
       "name": "The Waltz I Blew for You",
       "url": "https://open.spotify.com/track/3dx30dESDnNEglqLAVknpX"
-    },
-    {
-      "added_at": "2020-03-06 16:28:56",
-      "album": {
-        "name": "Birks Works: The Verve Big-Band Sessions",
-        "url": "https://open.spotify.com/album/7yyH8DozyrWFMEAWhCV2oS"
-      },
-      "artists": [
-        {
-          "name": "Dizzy Gillespie",
-          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
-        }
-      ],
-      "duration_ms": 235866,
-      "name": "Doodlin'",
-      "url": "https://open.spotify.com/track/2jb1Abu8FOdpIAICSnV6C6"
     },
     {
       "added_at": "2020-03-06 16:28:56",
@@ -865,24 +865,24 @@
       "url": "https://open.spotify.com/track/0GHiAT0RLCsrikRft0KWVC"
     },
     {
-      "added_at": "2021-10-08 04:02:00",
+      "added_at": "2020-03-06 16:28:56",
       "album": {
-        "name": "I Didn\u00b4t Tell Them Why",
-        "url": "https://open.spotify.com/album/5MMnRfc7EhstEv91b1itP7"
+        "name": "Tony Bennett With Count Baise",
+        "url": "https://open.spotify.com/album/4WHnCeRDUhw3uecb62g7C6"
       },
       "artists": [
         {
-          "name": "Andrea Motis",
-          "url": "https://open.spotify.com/artist/6CEcslhZk3A6cnin9neg5j"
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
         },
         {
-          "name": "WDR Big Band",
-          "url": "https://open.spotify.com/artist/5oldzkZrHypxJpr1ri05Fu"
+          "name": "Count Basie",
+          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
         }
       ],
-      "duration_ms": 297373,
-      "name": "I Didn\u00b4t Tell Them Why",
-      "url": "https://open.spotify.com/track/16yjO1COFYdqvjg0r6sweq"
+      "duration_ms": 163122,
+      "name": "Are You Having Any Fun",
+      "url": "https://open.spotify.com/track/7J15xzJsmb6ikExnnMO7MP"
     }
   ],
   "unique_name": "Big Band",

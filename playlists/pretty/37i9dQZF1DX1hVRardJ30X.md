@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Anuel AA
 
-[Spotify](https://open.spotify.com/user/spotify) - 517,156 likes - 62 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 517,332 likes - 63 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,17 +58,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 48 | [Lollipop](https://open.spotify.com/track/6HDE5xrqoIoF8t96xN9DF0) | [Jan Blakeee](https://open.spotify.com/artist/3r0kkjcXjHeym35lYmeEC6) | [Lollipop](https://open.spotify.com/album/4ToCaQ4wGsGAPncK09ZXnJ) | 3:09 |
 | 49 | [Bummed](https://open.spotify.com/track/2em94u4QNIp9RMuIewNlr6) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Bummed](https://open.spotify.com/album/1TKoeVdstQkrNsYn5ErzwD) | 3:00 |
 | 50 | [50 millas](https://open.spotify.com/track/1amowE7E89IHoQsclJlSyh) | [Sofía Paola](https://open.spotify.com/artist/6gC5HmMueMdiRY3rGtkrKx) | [50 millas](https://open.spotify.com/album/5cJB0qfDV1jnW191BAdB7z) | 3:05 |
-| 51 | [Victory](https://open.spotify.com/track/1c5m0wnXVgfYsde0Ul0mXl) | [MAR MEJÍA](https://open.spotify.com/artist/2W7MXufoOuXiXjPjjbjEmw) | [Victory](https://open.spotify.com/album/7Mq3Xi7ysLamam0M881uZu) | 3:45 |
-| 52 | [Oficialmente en Soltería](https://open.spotify.com/track/63BZhuQ6OZQmxy2RERMHko) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Oficialmente en Soltería](https://open.spotify.com/album/6PVL1eOWGgrULXTd6diUxe) | 2:02 |
-| 53 | [Perreo](https://open.spotify.com/track/00pzK0N5lKU80Qr9SxswuU) | [Castillo La Cone](https://open.spotify.com/artist/0F40CdkERy7qYPgM8YLGYP), [Jory Boy](https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT) | [Perreo](https://open.spotify.com/album/68I6OQQgy4lIVQJyu47gfJ) | 3:36 |
-| 54 | [Se Vive](https://open.spotify.com/track/7bO8DJ5j5yAB6UUP0j0t1c) | [Darkiel](https://open.spotify.com/artist/4z19QMyPVRwbd4Fs2LisBa), [Ch12](https://open.spotify.com/artist/3gvFr8y3T5ctUErKSK5ivj), [Dayme y El High](https://open.spotify.com/artist/4JreHVYyb6GqE2BU03Kx96) | [Se Vive](https://open.spotify.com/album/7DjMB57zSueCKPMLb4uANC) | 2:56 |
-| 55 | [Ya Me Contaron](https://open.spotify.com/track/3iXBJFCgER31zBfwyfWnUx) | [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK), [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV) | [Ya Me Contaron](https://open.spotify.com/album/0WrPTpiIgKioi7arRnTmJB) | 2:38 |
-| 56 | [64](https://open.spotify.com/track/6qwntdVzuBdG3kGC73bcFl) | [Feefa](https://open.spotify.com/artist/52EfcUQ2nkatuNSusz3v7C), [MasFortuna](https://open.spotify.com/artist/5H9UQ0IpJV65ZCfo5oW0ii) | [64](https://open.spotify.com/album/0d2PsgkIufDXYxeqSZ9Baq) | 2:17 |
-| 57 | [Soy el King](https://open.spotify.com/track/7IRRg2KDRB9PkFiD61rVYO) | [Dixson Waz](https://open.spotify.com/artist/0ojgcvasAUtJXXV8ddYQNt), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0), [Mozart La Para](https://open.spotify.com/artist/0odliLZMTk45CEVzF3Zocl) | [Soy el King](https://open.spotify.com/album/633k2Gf1lvH3dLaXPjEq8F) | 2:00 |
-| 58 | [Telepathy \(with Dylan Fuentes\)](https://open.spotify.com/track/42xON3Qp1vBXoVT39Qmwx2) | [Olivia Addams](https://open.spotify.com/artist/56o9EclNeDcE7p8txENfLn), [Dylan Fuentes](https://open.spotify.com/artist/4Wcscw7z9AAE6y7qWdIAin) | [Telepathy \(with Dylan Fuentes\)](https://open.spotify.com/album/7ghxZQhpY7TXI3RSDROG4o) | 2:29 |
-| 59 | [Flashy](https://open.spotify.com/track/2AHoi03XAHDv5df9AJjLYs) | [Anmily Brown](https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT) | [Flashy](https://open.spotify.com/album/6xbofFdMv6ZQCUTHs8CyIi) | 2:28 |
-| 60 | [Infierno](https://open.spotify.com/track/4G03VkKng0MrTO79ciABqe) | [Lennis Rodriguez](https://open.spotify.com/artist/4Rzu63KnqMsThOdfkrJk1Z) | [Infierno](https://open.spotify.com/album/52h8T5PcW7hPwEjz8y4wB9) | 2:45 |
-| 61 | [Para Ti No](https://open.spotify.com/track/5SpueQHv3xgumn1fHbtRZY) | [ANGEL22](https://open.spotify.com/artist/77dCZ05TEfVFypRDzM1R44) | [Para Ti No](https://open.spotify.com/album/4EapkHVCYFicbJrMFriCUn) | 3:19 |
-| 62 | [THAI](https://open.spotify.com/track/0g2evOsdxJfPfAYlQjaoAi) | [Teo](https://open.spotify.com/artist/4bv5cRKu2eAjm1mGDPGkeq) | [THAI](https://open.spotify.com/album/6xkFQaeXnidhXuFBvALtxO) | 2:38 |
+| 51 | [V12](https://open.spotify.com/track/7KV8P0buuf2zGQPU6jjb5Z) | [Felva](https://open.spotify.com/artist/0kBKozfaxXcY19DSGKQiFY) | [V12](https://open.spotify.com/album/5YHHz3mqYuWV8Dh5NZ0EQB) | 3:03 |
+| 52 | [Victory](https://open.spotify.com/track/1c5m0wnXVgfYsde0Ul0mXl) | [MAR MEJÍA](https://open.spotify.com/artist/2W7MXufoOuXiXjPjjbjEmw) | [Victory](https://open.spotify.com/album/7Mq3Xi7ysLamam0M881uZu) | 3:45 |
+| 53 | [Oficialmente en Soltería](https://open.spotify.com/track/63BZhuQ6OZQmxy2RERMHko) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Oficialmente en Soltería](https://open.spotify.com/album/6PVL1eOWGgrULXTd6diUxe) | 2:02 |
+| 54 | [Perreo](https://open.spotify.com/track/00pzK0N5lKU80Qr9SxswuU) | [Castillo La Cone](https://open.spotify.com/artist/0F40CdkERy7qYPgM8YLGYP), [Jory Boy](https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT) | [Perreo](https://open.spotify.com/album/68I6OQQgy4lIVQJyu47gfJ) | 3:36 |
+| 55 | [Se Vive](https://open.spotify.com/track/7bO8DJ5j5yAB6UUP0j0t1c) | [Darkiel](https://open.spotify.com/artist/4z19QMyPVRwbd4Fs2LisBa), [Ch12](https://open.spotify.com/artist/3gvFr8y3T5ctUErKSK5ivj), [Dayme y El High](https://open.spotify.com/artist/4JreHVYyb6GqE2BU03Kx96) | [Se Vive](https://open.spotify.com/album/7DjMB57zSueCKPMLb4uANC) | 2:56 |
+| 56 | [Ya Me Contaron](https://open.spotify.com/track/3iXBJFCgER31zBfwyfWnUx) | [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK), [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV) | [Ya Me Contaron](https://open.spotify.com/album/0WrPTpiIgKioi7arRnTmJB) | 2:38 |
+| 57 | [64](https://open.spotify.com/track/6qwntdVzuBdG3kGC73bcFl) | [Feefa](https://open.spotify.com/artist/52EfcUQ2nkatuNSusz3v7C), [MasFortuna](https://open.spotify.com/artist/5H9UQ0IpJV65ZCfo5oW0ii) | [64](https://open.spotify.com/album/0d2PsgkIufDXYxeqSZ9Baq) | 2:17 |
+| 58 | [Soy el King](https://open.spotify.com/track/7IRRg2KDRB9PkFiD61rVYO) | [Dixson Waz](https://open.spotify.com/artist/0ojgcvasAUtJXXV8ddYQNt), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0), [Mozart La Para](https://open.spotify.com/artist/0odliLZMTk45CEVzF3Zocl) | [Soy el King](https://open.spotify.com/album/633k2Gf1lvH3dLaXPjEq8F) | 2:00 |
+| 59 | [Telepathy \(with Dylan Fuentes\)](https://open.spotify.com/track/42xON3Qp1vBXoVT39Qmwx2) | [Olivia Addams](https://open.spotify.com/artist/56o9EclNeDcE7p8txENfLn), [Dylan Fuentes](https://open.spotify.com/artist/4Wcscw7z9AAE6y7qWdIAin) | [Telepathy \(with Dylan Fuentes\)](https://open.spotify.com/album/7ghxZQhpY7TXI3RSDROG4o) | 2:29 |
+| 60 | [Flashy](https://open.spotify.com/track/2AHoi03XAHDv5df9AJjLYs) | [Anmily Brown](https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT) | [Flashy](https://open.spotify.com/album/6xbofFdMv6ZQCUTHs8CyIi) | 2:28 |
+| 61 | [Infierno](https://open.spotify.com/track/4G03VkKng0MrTO79ciABqe) | [Lennis Rodriguez](https://open.spotify.com/artist/4Rzu63KnqMsThOdfkrJk1Z) | [Infierno](https://open.spotify.com/album/52h8T5PcW7hPwEjz8y4wB9) | 2:45 |
+| 62 | [Para Ti No](https://open.spotify.com/track/5SpueQHv3xgumn1fHbtRZY) | [ANGEL22](https://open.spotify.com/artist/77dCZ05TEfVFypRDzM1R44) | [Para Ti No](https://open.spotify.com/album/4EapkHVCYFicbJrMFriCUn) | 3:19 |
+| 63 | [THAI](https://open.spotify.com/track/0g2evOsdxJfPfAYlQjaoAi) | [Teo](https://open.spotify.com/artist/4bv5cRKu2eAjm1mGDPGkeq) | [THAI](https://open.spotify.com/album/6xkFQaeXnidhXuFBvALtxO) | 2:38 |
 
-Snapshot ID: `MTY2MzM0MzQzMCwwMDAwMDAwMDNjM2IzMjliNWJlMWI5MGIxMGEzYzEzYmRiM2RlZDRk`
+Snapshot ID: `MTY2MzY4NDM0OCwwMDAwMDAwMDhmOTFjMDcwODAxYWE5MGM4NjJlMTkyMDRiODY4NWVk`

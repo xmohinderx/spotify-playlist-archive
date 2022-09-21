@@ -6212,6 +6212,24 @@
     },
     {
       "album": {
+        "name": "Goodies",
+        "url": "https://open.spotify.com/album/67bFXY7O9MCywon0nEyS1Z"
+      },
+      "artists": [
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121904,
+      "name": "Goodies",
+      "url": "https://open.spotify.com/track/1rGd2CoMxEg2dnaytLY5ZG"
+    },
+    {
+      "album": {
         "name": "Goosebumps",
         "url": "https://open.spotify.com/album/49HjM8mnjS9PgYjSC03tkS"
       },
@@ -8599,7 +8617,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 201868,
       "name": "Liquor Store",
       "url": "https://open.spotify.com/track/3aLsMcZZTLgQqjpWgeWMMM"
@@ -12303,7 +12321,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 135265,
       "name": "Real Love",
       "url": "https://open.spotify.com/track/4Juaa2ppIOYcSWbrVtcrNp"
@@ -16561,7 +16579,7 @@
       ],
       "date_added": "2021-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-20",
+      "date_removed": null,
       "duration_ms": 157160,
       "name": "You - Topic Remix",
       "url": "https://open.spotify.com/track/5bbtc9t6FcerXp732H2XNu"

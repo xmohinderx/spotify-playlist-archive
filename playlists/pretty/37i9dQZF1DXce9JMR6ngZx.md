@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXce9JMR6ngZx.md) - [plain]
 
 > Grandes sucessos dos anos 80 para te acompanhar na faxina!
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,397 likes - 100 songs - 7 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,458 likes - 100 songs - 7 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,9 +20,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXce9JMR6ngZx.md) - [plain]
 | 10 | [You Give Love A Bad Name](https://open.spotify.com/track/0rmGAIH9LNJewFw7nKzZnc) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Slippery When Wet](https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t) | 3:42 |
 | 11 | [Should I Stay or Should I Go \- Remastered](https://open.spotify.com/track/39shmbIHICJ2Wxnk1fPSdz) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Combat Rock \(Remastered\)](https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2) | 3:08 |
 | 12 | [Never Gonna Give You Up](https://open.spotify.com/track/4cOdK2wGLETKBW3PvgPWqT) | [Rick Astley](https://open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt) | [Whenever You Need Somebody](https://open.spotify.com/album/5Z9iiGl2FcIfa3BMiv6OIw) | 3:33 |
-| 13 | [Wake Me Up Before You Go\-Go](https://open.spotify.com/track/0ikz6tENMONtK6qGkOrU3c) | [Wham!](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) | [Make It Big](https://open.spotify.com/album/02f3y3NTsddjdUMoNiBppI) | 3:51 |
+| 13 | [There Is a Light That Never Goes Out \- 2011 Remaster](https://open.spotify.com/track/0WQiDwKJclirSYG9v5tayI) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [The Queen Is Dead](https://open.spotify.com/album/5Y0p2XCgRRIjna91aQE8q7) | 4:04 |
 | 14 | [Careless Whisper](https://open.spotify.com/track/4jDmJ51x1o9NZB5Nxxc7gY) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Ladies And Gentlemen..\. The Best Of George Michael](https://open.spotify.com/album/3coLNlyStg9h7f8CZ103Rl) | 5:00 |
-| 15 | [There Is a Light That Never Goes Out \- 2011 Remaster](https://open.spotify.com/track/0WQiDwKJclirSYG9v5tayI) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [The Queen Is Dead](https://open.spotify.com/album/5Y0p2XCgRRIjna91aQE8q7) | 4:04 |
+| 15 | [Wake Me Up Before You Go\-Go](https://open.spotify.com/track/0ikz6tENMONtK6qGkOrU3c) | [Wham!](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) | [Make It Big](https://open.spotify.com/album/02f3y3NTsddjdUMoNiBppI) | 3:51 |
 | 16 | [Beat It](https://open.spotify.com/track/1OOtq8tRnDM8kG2gqUPjAj) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller 25 Super Deluxe Edition](https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a) | 4:18 |
 | 17 | [Uptown Girl](https://open.spotify.com/track/5zA8vzDGqPl2AzZkEYQGKh) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [An Innocent Man](https://open.spotify.com/album/3R3x4zIabsvpD3yxqLaUpc) | 3:17 |
 | 18 | [Girls Just Want to Have Fun](https://open.spotify.com/track/4y1LsJpmMti1PfRQV9AWWe) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [She's So Unusual](https://open.spotify.com/album/1FvdZ1oizXwF9bxogujoF0) | 3:58 |
@@ -78,11 +78,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXce9JMR6ngZx.md) - [plain]
 | 68 | [Crazy Little Thing Called Love \- Remastered 2011](https://open.spotify.com/track/35ItUJlMtjOQW3SSiTCrrw) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(Deluxe Remastered Version\)](https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa) | 2:43 |
 | 69 | [Call Me](https://open.spotify.com/track/7HKxTNVlkHsfMLhigmhC0I) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Call Me](https://open.spotify.com/album/18fOLsMG8Msf1DEaW0E71K) | 3:32 |
 | 70 | [Ain't Nobody](https://open.spotify.com/track/2NVpYQqdraEcQwqT7GhUkh) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Epiphany: The Best of Chaka Khan, Vol\. 1](https://open.spotify.com/album/3qeheeurjW0lNtf9d7hJLe) | 4:40 |
-| 71 | [Rhythm Of The Night](https://open.spotify.com/track/5yGTQzYbEdY6B9RFZJypgt) | [DeBarge](https://open.spotify.com/artist/6is2U7I1jlI8PjxNZOHIMV) | [Rhythm Of The Night](https://open.spotify.com/album/13xiHt25Hn4WZ6OLzhK1n8) | 3:49 |
-| 72 | [Head Over Heels \- Dave Bascombe 7" N.Mix](https://open.spotify.com/track/5lwQGZYF4BXOzFtXc5zk8q) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU), [Dave Bascombe](https://open.spotify.com/artist/3pAVaThptde5bneOqDfY1I) | [Songs From The Big Chair \(Deluxe\)](https://open.spotify.com/album/06J93pgtDCUw6bsAQINhCs) | 4:17 |
+| 71 | [Head Over Heels \- Dave Bascombe 7" N.Mix](https://open.spotify.com/track/5lwQGZYF4BXOzFtXc5zk8q) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU), [Dave Bascombe](https://open.spotify.com/artist/3pAVaThptde5bneOqDfY1I) | [Songs From The Big Chair \(Deluxe\)](https://open.spotify.com/album/06J93pgtDCUw6bsAQINhCs) | 4:17 |
+| 72 | [Rhythm Of The Night](https://open.spotify.com/track/5yGTQzYbEdY6B9RFZJypgt) | [DeBarge](https://open.spotify.com/artist/6is2U7I1jlI8PjxNZOHIMV) | [Rhythm Of The Night](https://open.spotify.com/album/13xiHt25Hn4WZ6OLzhK1n8) | 3:49 |
 | 73 | [Fame](https://open.spotify.com/track/5CI1FP2Volc9wjz2MBZsGx) | [Irene Cara](https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G) | [Fame \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0Dmq3geiHxPk20sTt8sXxy) | 5:16 |
-| 74 | [\(I've Had\) The Time Of My Life](https://open.spotify.com/track/2JCTiiJQFWQNC0Zp8rsJRB) | [Bill Medley](https://open.spotify.com/artist/1XE70WwxhnrXNAJYQQ9ygx), [Jennifer Warnes](https://open.spotify.com/artist/1BwHztAQKypBuy5WBEdJnG) | [The Best Of Bill Medley](https://open.spotify.com/album/1O7j1wsOIpUZEVYkqAqZyr) | 4:49 |
-| 75 | [Exagerado](https://open.spotify.com/track/4d0DpU7Odiv0ztvX2GxJlk) | [Cazuza](https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU) | [Exagerado](https://open.spotify.com/album/6WvN5lJoLYNXc8HYLuxjeX) | 3:43 |
+| 74 | [Exagerado](https://open.spotify.com/track/4d0DpU7Odiv0ztvX2GxJlk) | [Cazuza](https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU) | [Exagerado](https://open.spotify.com/album/6WvN5lJoLYNXc8HYLuxjeX) | 3:43 |
+| 75 | [\(I've Had\) The Time Of My Life](https://open.spotify.com/track/2JCTiiJQFWQNC0Zp8rsJRB) | [Bill Medley](https://open.spotify.com/artist/1XE70WwxhnrXNAJYQQ9ygx), [Jennifer Warnes](https://open.spotify.com/artist/1BwHztAQKypBuy5WBEdJnG) | [The Best Of Bill Medley](https://open.spotify.com/album/1O7j1wsOIpUZEVYkqAqZyr) | 4:49 |
 | 76 | [Need You Tonight](https://open.spotify.com/track/5eU8qMd0TpaLqTGDZJaLDs) | [INXS](https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv) | [Kick](https://open.spotify.com/album/7cuwWzS0oiApEt2fpKafkX) | 3:00 |
 | 77 | [Papa Don't Preach](https://open.spotify.com/track/6A8OnjnpShshNpcqWtZRjr) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [True Blue \(Reissue\)](https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD) | 4:28 |
 | 78 | [Boys Don't Cry \- Single Version](https://open.spotify.com/track/4dneV7C1yDt9UtyxrQY375) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Three Imaginary Boys \(Deluxe Edition\)](https://open.spotify.com/album/7gPql7GFpBMOxeO80vMMsC) | 2:37 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXce9JMR6ngZx.md) - [plain]
 | 99 | [1999 \- 2019 Remaster](https://open.spotify.com/track/2QSUyofqpGDCo026OPiTBQ) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [1999](https://open.spotify.com/album/34MHuXONazzgSxI0cThpAg) | 6:13 |
 | 100 | [Heaven Is A Place On Earth \- Promo 7" Edit](https://open.spotify.com/track/3EvpaRZkKWxsgDIO2zMH7g) | [Belinda Carlisle](https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U) | [Heaven On Earth \(Deluxe Edition\)](https://open.spotify.com/album/34SBayfOPJb9ztyCTvS3no) | 3:53 |
 
-Snapshot ID: `MTU5MzAwOTQ0MCwwMDAwMDAwMDA0YTAwOTY3ZGFlYjdmYmM1MDM2ZTkyZDNhN2MwYmI3`
+Snapshot ID: `MTU5MzAwOTQ0MCwwMDAwMDAwMDc2N2VmNTE4NzliYjQ4ZjhhZTZiNzFlNjI5NTkzNGRj`

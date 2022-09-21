@@ -4,7 +4,7 @@
 
 > Revive aquellos tiempos de new wave, post\-punk y sentimientos decadentes\. Foto: The Cure
 
-181 songs - 13 hr 37 min - [published](https://open.spotify.com/playlist/7MNQpJF8R2XZQsiwsBTSQ1)
+182 songs - 13 hr 42 min - [published](https://open.spotify.com/playlist/7MNQpJF8R2XZQsiwsBTSQ1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Boys Don't Cry \(Bestival Live 2011\)](https://open.spotify.com/track/69daVl60U0WWueFAUSQFih) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Bestival Live 2011](https://open.spotify.com/album/06PZTi7nIOTzxdNhL0lnMS) | 3:05 | 2021-09-28 | 2022-07-29 |
 | [Brass in Pocket](https://open.spotify.com/track/6YrHQ3Uv9YXK2gJNVTlT8P) | [Pretenders](https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9) | [Original Album Series](https://open.spotify.com/album/73yNa10jc7Ad4wbM3wVO81) | 3:04 | 2021-09-28 | 2022-07-29 |
 | [Brass in Pocket \- 2006 Remaster](https://open.spotify.com/track/1QaJWSCk3UMKLotnPCIHh1) | [Pretenders](https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9) | [Pretenders](https://open.spotify.com/album/6AFFu3ilmlEDz1I9ZaNOZw) | 3:05 | 2021-09-28 |  |
-| [Bring on the Dancing Horses](https://open.spotify.com/track/5uh98HlgvoJd2zRWAduj2Y) | [Echo & the Bunnymen](https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z) | [Songs to Learn & Sing](https://open.spotify.com/album/0VYyqjM5H2sXj6z8ocAyjb) | 3:55 | 2021-09-28 |  |
+| [Bring on the Dancing Horses](https://open.spotify.com/track/5uh98HlgvoJd2zRWAduj2Y) | [Echo & the Bunnymen](https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z) | [Songs to Learn & Sing](https://open.spotify.com/album/0VYyqjM5H2sXj6z8ocAyjb) | 3:55 | 2021-09-28 | 2022-09-21 |
 | [Bring on the Dancing Horses](https://open.spotify.com/track/5pCGWaQFtRBkRse3DAN5yB) | [Echo & the Bunnymen](https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z) | [The Best of Echo & The Bunnymen](https://open.spotify.com/album/0KJWnz3i4TZXzWQMSnKzSv) | 3:55 | 2021-09-28 | 2022-07-29 |
 | [Burning Down the House](https://open.spotify.com/track/2VNfJpwdEQBLyXajaa6LWT) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Burning Down the House / I Get Wild / Wild Gravity](https://open.spotify.com/album/1invpprZoPxP2H3CfGgSfJ) | 4:01 | 2021-09-28 |  |
 | [Butterfly On A Wheel](https://open.spotify.com/track/2d1vGDzaGWbCkupDsPniA7) | [The Mission](https://open.spotify.com/artist/4SAdMucvHyws4QTeAUsPtE) | [Carved In Sand](https://open.spotify.com/album/62pkk3ia1TFY68cBrvfmqC) | 5:40 | 2021-09-28 | 2022-07-28 |
@@ -133,6 +133,7 @@
 | [Radio Free Europe](https://open.spotify.com/track/7A6Z9bZgSq8WRuoDIVNM6P) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Murmur \- Deluxe Edition](https://open.spotify.com/album/0vAX6P1azQqgtrTWuxYWrm) | 4:05 | 2021-09-28 | 2022-07-27 |
 | [Rebel Yell \- Remastered](https://open.spotify.com/track/2ZTIw0fZhFp3nnvF41nvVc) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Greatest Hits](https://open.spotify.com/album/1gTvJG5YnrTiwr0uDuzaoA) | 4:46 | 2021-09-28 |  |
 | [Repetition](https://open.spotify.com/track/2Dq6BAHRXcoTxg9azES5xW) | [Information Society](https://open.spotify.com/artist/6bJUzb3mLEYCkTAp7eNJgO) | [Information Society \(CD+G\)](https://open.spotify.com/album/1DkvggCdd36Kr3ZtXqLk8l) | 4:34 | 2021-09-28 | 2022-07-23 |
+| [Repetition](https://open.spotify.com/track/2inEARypHsfVOk7yMs9ptr) | [Information Society](https://open.spotify.com/artist/6bJUzb3mLEYCkTAp7eNJgO) | [Information Society](https://open.spotify.com/album/1pQhBQI8Oxo4p2wh61rGfg) | 4:34 | 2021-09-28 |  |
 | [Rock the Casbah](https://open.spotify.com/track/5vzW6FDzBtnGGnf4uLwLe5) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [The Essential Clash](https://open.spotify.com/album/6B2e7yG3Www5reNM6WfGdS) | 3:40 | 2021-09-28 | 2022-07-29 |
 | [Rock the Casbah \- Remastered](https://open.spotify.com/track/56KqaFSGTb7ifpt16t5Y1N) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Combat Rock \(Remastered\)](https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2) | 3:42 | 2021-09-28 |  |
 | [Roundabout \- 2003 Remaster](https://open.spotify.com/track/0YveezON7jpiaHA8fnUHxN) | [Yes](https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil) | [Fragile \(Deluxe Edition\)](https://open.spotify.com/album/0dZF93WHyOhTWjz5EWM7yG) | 8:30 | 2021-09-28 |  |

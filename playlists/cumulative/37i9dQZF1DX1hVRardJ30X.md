@@ -4,7 +4,7 @@
 
 > All\-new releases by Latin artists! Cover: Anuel AA
 
-2,261 songs - 4 day 23 hr 56 min - [published](https://open.spotify.com/playlist/6FBekxXSQYqfZkSeoMBQid)
+2,262 songs - 4 day 23 hr 59 min - [published](https://open.spotify.com/playlist/6FBekxXSQYqfZkSeoMBQid)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2136,6 +2136,7 @@
 | [Until She’s Gone \(with Sebastian Yatra\)](https://open.spotify.com/track/0onGEXtVcTkj8j24w5jD92) | [Matteo Bocelli](https://open.spotify.com/artist/3SzmIPVTtVc0AzbR8kwk0w), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Until She's Gone / Tu Luz Quedó](https://open.spotify.com/album/4lRwzMaCoSZgkTUnTandBz) | 3:33 | 2022-04-08 | 2022-04-16 |
 | [Until the Day \- Remix](https://open.spotify.com/track/0Nrl6CH3oNL6QcnLOQlGVV) | [Alexcis](https://open.spotify.com/artist/2tDA2vvMMRpi5GZL0hzqqj), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Until the Day \(Remix\)](https://open.spotify.com/album/6U6Nt1f09c6lbtUGvbrqlW) | 4:50 | 2021-12-24 | 2022-01-15 |
 | [Usala](https://open.spotify.com/track/41vPhGqAax4hQocJ4lkOAl) | [Omy de Oro](https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi) | [Usala](https://open.spotify.com/album/102Qg6ICYQX6S8FJFrCjDB) | 3:14 | 2022-09-16 |  |
+| [V12](https://open.spotify.com/track/7KV8P0buuf2zGQPU6jjb5Z) | [Felva](https://open.spotify.com/artist/0kBKozfaxXcY19DSGKQiFY) | [V12](https://open.spotify.com/album/5YHHz3mqYuWV8Dh5NZ0EQB) | 3:03 | 2022-09-20 |  |
 | [VA HABLAR](https://open.spotify.com/track/1D9JQx1HkH3VFfBlsJCckF) | [Hugo D Almonte](https://open.spotify.com/artist/4cJdMWi5D3uJC93mePpJAP) | [HUGITO](https://open.spotify.com/album/4GVUmgD20UFchp7dIp5ItU) | 2:27 | 2022-05-20 | 2022-05-28 |
 | [Vacaciones](https://open.spotify.com/track/5a1uP3YHcvb4XkucSQGC1c) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Vacaciones](https://open.spotify.com/album/1HP0xerTMAjxal5A8B8luG) | 2:35 | 2022-01-21 | 2022-01-29 |
 | [Vaina Cara](https://open.spotify.com/track/1jlCndlFWOWUl1YXETLB2h) | [Messiah](https://open.spotify.com/artist/0tR60pwxQ5WKjPxQcKoCQ7), [Dowba Montana](https://open.spotify.com/artist/39FKVjqhZLz4E1iG77d5AO) | [Vaina Cara](https://open.spotify.com/album/0sFWXAG0ruP2xDGSfI0jMv) | 3:12 | 2022-04-01 | 2022-04-09 |

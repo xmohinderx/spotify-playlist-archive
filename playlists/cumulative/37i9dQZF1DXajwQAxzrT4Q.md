@@ -4,7 +4,7 @@
 
 > Bounce to the Brick City sound\. From New Jersey to the world\. Cover: UNIIQU3.
 
-175 songs - 6 hr 56 min - [published](https://open.spotify.com/playlist/4ILVMe10Lfw8QYUgZ8QkTU)
+176 songs - 6 hr 59 min - [published](https://open.spotify.com/playlist/4ILVMe10Lfw8QYUgZ8QkTU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,7 @@
 | [Money Mouth](https://open.spotify.com/track/0G6rvTge4OQ8DYaOntvqFd) | [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk), [Ayelle](https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF) | [Money Mouth](https://open.spotify.com/album/691hEcaZox9DpOhMnzRa4o) | 2:09 | 2022-02-11 | 2022-07-29 |
 | [Movie](https://open.spotify.com/track/2zsSsvsJD16JbnrBKrRwRt) | [DIALYUP](https://open.spotify.com/artist/31kpdqeO4EBxFxzlpAA5Fb) | [Movie](https://open.spotify.com/album/6or8AVqz4RP8ChQJjwazvy) | 2:43 | 2022-02-11 | 2022-07-29 |
 | [My Back \(Jersey Club\)](https://open.spotify.com/track/6U3bIehegtlGdaIDDgZnlI) | [Kyle Edwards](https://open.spotify.com/artist/5zvOGQ4uW2viBHMmkyl3C2), [DJ Bake](https://open.spotify.com/artist/1pwvByMN5SdSJoj8gWXyZE) | [My Back \(Jersey Club\)](https://open.spotify.com/album/2bA0cYTB40RbbPs7IIEYCy) | 2:07 | 2022-02-11 |  |
-| [My Back 2020](https://open.spotify.com/track/1CQNhW4EjAbKxCBDzrc9ru) | [DJ Bake](https://open.spotify.com/artist/1pwvByMN5SdSJoj8gWXyZE), [Dinero](https://open.spotify.com/artist/08qzaspDb3uZph7u5ZI35F), [ReekOnaBeat](https://open.spotify.com/artist/2kzZeBkumPkgewG4FZfCN2) | [The Last One](https://open.spotify.com/album/2f4c6NPzKvnz2aY0DeRJaR) | 2:38 | 2022-02-11 |  |
+| [My Back 2020](https://open.spotify.com/track/1CQNhW4EjAbKxCBDzrc9ru) | [DJ Bake](https://open.spotify.com/artist/1pwvByMN5SdSJoj8gWXyZE), [Dinero](https://open.spotify.com/artist/08qzaspDb3uZph7u5ZI35F), [ReekOnaBeat](https://open.spotify.com/artist/2kzZeBkumPkgewG4FZfCN2) | [The Last One](https://open.spotify.com/album/2f4c6NPzKvnz2aY0DeRJaR) | 2:38 | 2022-02-11 | 2022-09-21 |
 | [My Boo \(Running Man Challenge\)](https://open.spotify.com/track/5bF0IsOH5bHZh1hSKkJtwU) | [Kyle Edwards](https://open.spotify.com/artist/5zvOGQ4uW2viBHMmkyl3C2), [DJ Smallz 732](https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK) | [My Boo \(Running Man Challenge\)](https://open.spotify.com/album/3Oo8LIqO7sN4tnTt2msL6r) | 1:57 | 2022-07-22 |  |
 | [My Heart Freestyle](https://open.spotify.com/track/6sVO9BPNBPQUPtxV6KES1q) | [Prvnci](https://open.spotify.com/artist/7pv0Od3fJfZDF1B8ywl9qW) | [My Heart Freestyle](https://open.spotify.com/album/6Ygz14g1xrVThYm0Sh5Cqp) | 2:27 | 2022-09-02 |  |
 | [My Humps \- JBroadway Remix](https://open.spotify.com/track/3jCMS72hCFNF1NESsL6L9m) | [JBroadway](https://open.spotify.com/artist/6WdccSPsTJcEHFoSdWpYvh), [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [My Humps \(JBroadway Remix\)](https://open.spotify.com/album/2YFV7FShMxZW4zUMF0KnXw) | 2:15 | 2022-02-11 |  |
@@ -169,6 +169,7 @@
 | [Sticky](https://open.spotify.com/track/0C6ShwHWvn4JyvcJc1LjbS) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/2hicq6IKmDsPxZV7fJablX) | 4:03 | 2022-06-21 |  |
 | [SuperBad \- Jersey Club Remix](https://open.spotify.com/track/1uRswTqUtGeuAZHEe4jG0p) | [Dmelz](https://open.spotify.com/artist/1blYLoeVh3GFXYz83uyvrK), [DJ Jayhood](https://open.spotify.com/artist/7s0NPSWJQJOS4TNhENy85G) | [SuperBad \(Jersey Club Remix\)](https://open.spotify.com/album/6omk1I2LEfKgEOIDg8OybN) | 2:03 | 2022-02-11 | 2022-07-29 |
 | [Swamp Life Anthem \- DJ Jayhood Jersey Club Remix](https://open.spotify.com/track/7fvZE1Ryvpqknz1buRZDDj) | [SWAMPLIFETERRY](https://open.spotify.com/artist/7vIPf48FaSPvxaYD4N1r4i), [337Mayhem](https://open.spotify.com/artist/3OHH2dQjcWIdx65HgQvRJG), [DJ Jayhood](https://open.spotify.com/artist/7s0NPSWJQJOS4TNhENy85G) | [Swamp Life Anthem \(DJ Jayhood Jersey Club Remix\)](https://open.spotify.com/album/73MVESpvv1oLqSateO2ysa) | 1:53 | 2022-02-11 | 2022-07-06 |
+| [Take Me Somewhere](https://open.spotify.com/track/7H7OC2u9UODzNifLt8uAkN) | [Tonee Marino](https://open.spotify.com/artist/21UFN5zFxnMGuYahHjcd0p) | [Take Me Somewhere](https://open.spotify.com/album/4htNruvVbTGIAQk4o37NRc) | 2:33 | 2022-09-16 |  |
 | [Team Lilman Anthem](https://open.spotify.com/track/1EDyZylarxYWAJ2tucrSsW) | [DJ LILMAN](https://open.spotify.com/artist/0IYk6BQrE0HkCOkdITNEUi) | [Team Lilman Anthem](https://open.spotify.com/album/7keNPILEHzrizAaBpDTH2l) | 2:58 | 2022-02-11 |  |
 | [Unavailable](https://open.spotify.com/track/6hi2SU53dvRJcko8Esqt7g) | [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx), [R3LL](https://open.spotify.com/artist/1oIdLFKLJx0NicqeiEvBj5) | [Unavailable](https://open.spotify.com/album/1AMwkyhrdiuLaRksmvT6kS) | 3:21 | 2022-02-11 |  |
 | [Vacation](https://open.spotify.com/track/2eAcey7KS6TmHulCNjxABW) | [Cookiee Kawaii](https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1) | [Club Soda, Vol\. 2](https://open.spotify.com/album/5uYz79dshnrizAGPcM7bKz) | 2:25 | 2022-02-11 |  |

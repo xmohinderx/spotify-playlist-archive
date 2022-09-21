@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rCrO4CFRfM.md) - [plain]
 
 > Relax to acoustic versions of your favorite rock songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 828,467 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 828,728 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rCrO4CFRfM.md) - [plain]
 | 24 | [Wherever You Will Go \- Acoustic](https://open.spotify.com/track/5Tybis9p4M4TX2gJM8iqgh) | [The Calling](https://open.spotify.com/artist/5aMmmNxw4vgpc5XC6hK0zp) | [The Best Of...](https://open.spotify.com/album/0eumbPpzy0UGChIwnCpLpl) | 3:20 |
 | 25 | [Scars \- Acoustic Version](https://open.spotify.com/track/0xIIXygHdt17X6HtObqK7M) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Scars](https://open.spotify.com/album/3LObamEg1uFuGxN6ZOpi1D) | 3:11 |
 | 26 | [Tears Don't Fall \- Acoustic Version](https://open.spotify.com/track/5fG83KM7CgRmjcKwmBNx2p) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [The Poison \(Deluxe Version\)](https://open.spotify.com/album/4uNzDULQ9RAy0nxGaPbCDn) | 4:37 |
-| 27 | [Nevermind](https://open.spotify.com/track/25cgB8QvrmNetiG5Q0YB3g) | [Deaf Havana](https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M) | [Nevermind](https://open.spotify.com/album/7CHjGNDrCPUppVXm3lX2Gi) | 3:52 |
-| 28 | [The Reason \- Acoustic](https://open.spotify.com/track/1CobuGL6ysSrfCE2tWcfFU) | [Hoobastank](https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO) | [The Reason \(Acoustic\) / Right Before Your Eyes](https://open.spotify.com/album/1wPX89HNEWb6FIWcQDlV36) | 3:54 |
+| 27 | [The Reason \- Acoustic](https://open.spotify.com/track/1CobuGL6ysSrfCE2tWcfFU) | [Hoobastank](https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO) | [The Reason \(Acoustic\) / Right Before Your Eyes](https://open.spotify.com/album/1wPX89HNEWb6FIWcQDlV36) | 3:54 |
+| 28 | [Nevermind](https://open.spotify.com/track/25cgB8QvrmNetiG5Q0YB3g) | [Deaf Havana](https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M) | [Nevermind](https://open.spotify.com/album/7CHjGNDrCPUppVXm3lX2Gi) | 3:52 |
 | 29 | [Kryptonite](https://open.spotify.com/track/1SBuYdJK3a3NU55nGomgAe) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Acoustic Back Porch Jam](https://open.spotify.com/album/3jpYIjli4tGKeVlqCl5ipC) | 3:55 |
 | 30 | [Stay With Me \- Acoustic Version](https://open.spotify.com/track/39IX2P1yPA5opcTaHXLPlW) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [Stay With Me](https://open.spotify.com/album/0fsWxXjjgHAnFLCEAGWHS5) | 3:18 |
 | 31 | [Sorry \- Acoustic](https://open.spotify.com/track/0Akytll1e5KvwNKvhqIZFn) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Broken Machine \(Deluxe\)](https://open.spotify.com/album/0r7wrRVD77lNrD9t2QgZrq) | 3:34 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rCrO4CFRfM.md) - [plain]
 | 45 | [Kill The Noise \- Acoustic](https://open.spotify.com/track/7oLfJtNvOFHYo02uProOfr) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Kill The Noise \(Acoustic\)](https://open.spotify.com/album/4NuxF7PTPbjtboHpQ6b3NI) | 2:41 |
 | 46 | [Bored To Death \(Acoustic\)](https://open.spotify.com/track/2hQRxgtDliE6eD7NmEfpuD) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [California \(Deluxe Edition\)](https://open.spotify.com/album/0jLf8ecN5HjstQqPAjJlsS) | 3:55 |
 | 47 | [Something Human \(Acoustic\)](https://open.spotify.com/track/1D2ISRyHAs9QBHIWVQIbgM) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Simulation Theory \(Super Deluxe\)](https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC) | 3:46 |
-| 48 | [In Bloom \(Acoustic\)](https://open.spotify.com/track/0MkIn6BHsrQswE5v44kToW) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [In Bloom: Versions](https://open.spotify.com/album/6UjgPXbovoEObPAYEfuC85) | 3:32 |
-| 49 | [Legendary \- Acoustic](https://open.spotify.com/track/5l4O7VzsZhKpAJO8w2jrC9) | [Welshly Arms](https://open.spotify.com/artist/1xKrH6GSh9CJh8nYwbqW7B) | [Legendary \(Acoustic\)](https://open.spotify.com/album/1hj9cR7EcEIisOX3eeke2x) | 3:36 |
+| 48 | [Legendary \- Acoustic](https://open.spotify.com/track/5l4O7VzsZhKpAJO8w2jrC9) | [Welshly Arms](https://open.spotify.com/artist/1xKrH6GSh9CJh8nYwbqW7B) | [Legendary \(Acoustic\)](https://open.spotify.com/album/1hj9cR7EcEIisOX3eeke2x) | 3:36 |
+| 49 | [In Bloom \(Acoustic\)](https://open.spotify.com/track/0MkIn6BHsrQswE5v44kToW) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [In Bloom: Versions](https://open.spotify.com/album/6UjgPXbovoEObPAYEfuC85) | 3:32 |
 | 50 | [Scumbag \- Acoustic](https://open.spotify.com/track/37Eb16TFeVB2dxkoEnzW4W) | [Goody Grace](https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30) | [Scumbag \(Acoustic\)](https://open.spotify.com/album/3bauwJBwUAGFxVCoajMIKv) | 3:29 |
 
-Snapshot ID: `MTY2MzAxMTgxNCwwMDAwMDAwMDBkYWVjNWE4MmFmOGZlNTE2ZGU5ZDIxNTZlNjEyYzYz`
+Snapshot ID: `MTY2MzAxMTgxNCwwMDAwMDAwMDc3NzY4NzAzNGVhMzI0NGUwYmRkZmEyMWU3ODZhYTVm`

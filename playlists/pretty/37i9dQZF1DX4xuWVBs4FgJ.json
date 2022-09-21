@@ -1,12 +1,12 @@
 {
   "description": "Dinner with Friends? Here's the perfect playlist.",
-  "num_followers": 1451612,
+  "num_followers": 1451956,
   "original_name": "Dinner with Friends",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMDYwMWE2NGFhNWVlMzI3MTQ2NzgzZWMzMzQ0ZGY5YWE4",
+  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMDc3ZjE3ZWZhOWY4ODE1ZjE4ZTMxNzdkODNhZTAwOGMy",
   "tracks": [
     {
       "added_at": "2022-09-16 04:00:00",
@@ -99,6 +99,22 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
+        "name": "Ivory",
+        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 216680,
+      "name": "Evergreen (You Didn\u2019t Deserve Me At All)",
+      "url": "https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
         "name": "Fleetwood Mac",
         "url": "https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo"
       },
@@ -143,22 +159,6 @@
       "duration_ms": 256173,
       "name": "The Lady In Red",
       "url": "https://open.spotify.com/track/1GeNWyZtCHbcp3ZWp8GTOO"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "Ivory",
-        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 216680,
-      "name": "Evergreen (You Didn\u2019t Deserve Me At All)",
-      "url": "https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -323,22 +323,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "I Put A Spell On You",
-        "url": "https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Feeling Good",
-      "url": "https://open.spotify.com/track/6Rqn2GFlmvmV4w9Ala0I1e"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Come Away With Me (Super Deluxe Edition)",
         "url": "https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 198226,
       "name": "Come Away With Me",
       "url": "https://open.spotify.com/track/6jGnykaS6TkWp15utXSAeI"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "I Put A Spell On You",
+        "url": "https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Feeling Good",
+      "url": "https://open.spotify.com/track/6Rqn2GFlmvmV4w9Ala0I1e"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -403,6 +403,22 @@
       "duration_ms": 190760,
       "name": "You Are The Reason - Duet Version",
       "url": "https://open.spotify.com/track/1x3W8RZxW94lrVGhP95qA6"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Feels Like Home",
+        "url": "https://open.spotify.com/album/7GaAXgbFSpcJOiLlFGYyOL"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 200626,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/7zkLpY72g6lKQbiHDqri1S"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -467,22 +483,6 @@
       "duration_ms": 234623,
       "name": "Lost",
       "url": "https://open.spotify.com/track/45Q6RNX1yeHpGZpR0RjpKI"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "Feels Like Home",
-        "url": "https://open.spotify.com/album/7GaAXgbFSpcJOiLlFGYyOL"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        }
-      ],
-      "duration_ms": 200626,
-      "name": "Sunrise",
-      "url": "https://open.spotify.com/track/7zkLpY72g6lKQbiHDqri1S"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -619,6 +619,22 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
+        "name": "Teenage Dream",
+        "url": "https://open.spotify.com/album/0FPqPpVTND59rpe6YsNnyz"
+      },
+      "artists": [
+        {
+          "name": "Stephen Dawes",
+          "url": "https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose"
+        }
+      ],
+      "duration_ms": 177857,
+      "name": "Teenage Dream",
+      "url": "https://open.spotify.com/track/3Y2MvObZdPakD1X71KOxCD"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
         "name": "Chapters",
         "url": "https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 210213,
       "name": "Leaving My Love Behind",
       "url": "https://open.spotify.com/track/1NxHgM5nOnmqi3KUVLbaIw"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "Teenage Dream",
-        "url": "https://open.spotify.com/album/0FPqPpVTND59rpe6YsNnyz"
-      },
-      "artists": [
-        {
-          "name": "Stephen Dawes",
-          "url": "https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose"
-        }
-      ],
-      "duration_ms": 177857,
-      "name": "Teenage Dream",
-      "url": "https://open.spotify.com/track/3Y2MvObZdPakD1X71KOxCD"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -883,22 +883,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Baby, It's Okay",
-        "url": "https://open.spotify.com/album/0C61FN9PR7AocB3A0E4Fvw"
-      },
-      "artists": [
-        {
-          "name": "flora cash",
-          "url": "https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd"
-        }
-      ],
-      "duration_ms": 219013,
-      "name": "You're Somebody Else",
-      "url": "https://open.spotify.com/track/6iWEhoALoBFnQMNVhYY0Sc"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Busyhead",
         "url": "https://open.spotify.com/album/3DNQrMjvVGiueVrj1qquJd"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 213320,
       "name": "Mess",
       "url": "https://open.spotify.com/track/1BlQWQgGP84r4GYUVty4Ar"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Baby, It's Okay",
+        "url": "https://open.spotify.com/album/0C61FN9PR7AocB3A0E4Fvw"
+      },
+      "artists": [
+        {
+          "name": "flora cash",
+          "url": "https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd"
+        }
+      ],
+      "duration_ms": 219013,
+      "name": "You're Somebody Else",
+      "url": "https://open.spotify.com/track/6iWEhoALoBFnQMNVhYY0Sc"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "The George Benson Collection",
-        "url": "https://open.spotify.com/album/1IcNxT9zu74BfNhuHD9MBN"
-      },
-      "artists": [
-        {
-          "name": "George Benson",
-          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
-        }
-      ],
-      "duration_ms": 222626,
-      "name": "Give Me the Night",
-      "url": "https://open.spotify.com/track/62GYoGszQfROZswLee6W3O"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Daydream",
         "url": "https://open.spotify.com/album/7N2QQisOFbQ0rWHDwIKd8O"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 189672,
       "name": "Daydream",
       "url": "https://open.spotify.com/track/7CFPVdKn4FFkIm7rZYhNZQ"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "The George Benson Collection",
+        "url": "https://open.spotify.com/album/1IcNxT9zu74BfNhuHD9MBN"
+      },
+      "artists": [
+        {
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+        }
+      ],
+      "duration_ms": 222626,
+      "name": "Give Me the Night",
+      "url": "https://open.spotify.com/track/62GYoGszQfROZswLee6W3O"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Desafinado (From 'Minions: The Rise of Gru' Soundtrack)",
-        "url": "https://open.spotify.com/album/3l4QQKkuRpYQCmmq3F6DLv"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 130955,
-      "name": "Desafinado - From 'Minions: The Rise of Gru' Soundtrack",
-      "url": "https://open.spotify.com/track/12j5ByuhjK6vsb0vJS1cwM"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Grow As We Go (feat. Sara Bareilles)",
         "url": "https://open.spotify.com/album/3BEJQtuowUpkfO9ducuC0M"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 249937,
       "name": "Grow As We Go (feat. Sara Bareilles)",
       "url": "https://open.spotify.com/track/1xscBC6UV21t0sMCgu0mLi"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Desafinado (From 'Minions: The Rise of Gru' Soundtrack)",
+        "url": "https://open.spotify.com/album/3l4QQKkuRpYQCmmq3F6DLv"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 130955,
+      "name": "Desafinado - From 'Minions: The Rise of Gru' Soundtrack",
+      "url": "https://open.spotify.com/track/12j5ByuhjK6vsb0vJS1cwM"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1647,18 +1647,18 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Origami",
-        "url": "https://open.spotify.com/album/4EkS7qZRqAHYPJSVIrxPbA"
+        "name": "Embers Mixtape",
+        "url": "https://open.spotify.com/album/558oOcAGpoyyjsVCPxD0gI"
       },
       "artists": [
         {
-          "name": "Bleu Toucan",
-          "url": "https://open.spotify.com/artist/3lv9GfkVw9I9X4Rgtf2o4r"
+          "name": "Blakey",
+          "url": "https://open.spotify.com/artist/3cqjRMFHyTEbY3Gq1P7sAl"
         }
       ],
-      "duration_ms": 194082,
-      "name": "Hano\u00ef caf\u00e9",
-      "url": "https://open.spotify.com/track/2I4AhSWdVku2SQsJXiIci6"
+      "duration_ms": 215239,
+      "name": "Confidant",
+      "url": "https://open.spotify.com/track/5CRMZVNTo7AxJkWmIPehJQ"
     }
   ],
   "unique_name": "Dinner with Friends",

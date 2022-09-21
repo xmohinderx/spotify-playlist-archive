@@ -1,12 +1,12 @@
 {
   "description": "selects from music we've been listening to @ Moving Castle. Manila Killa's album, Dusk drops July 21st!",
-  "num_followers": 21243,
+  "num_followers": 21242,
   "original_name": "Moving Castle Monthly",
   "owner": {
     "name": "Moving Castle",
     "url": "https://open.spotify.com/user/moving-castle"
   },
-  "snapshot_id": "OTk4MCwxYmYzMWY1ZDNjNGFlNWYwZGM2Zjc2NTc4YWNiYzQxMzM0N2YwMTUz",
+  "snapshot_id": "OTk4NSxhNTAxMjhmNDI0OWQwZDRmYmM1NTlhZjhlODExYmFlYmNlMDVlYjRl",
   "tracks": [
     {
       "added_at": "2022-09-02 17:26:49",
@@ -33,24 +33,28 @@
       "url": "https://open.spotify.com/track/0jT25u5GLiQtqX8k25Rjup"
     },
     {
-      "added_at": "2022-09-18 03:50:30",
+      "added_at": "2022-09-20 15:42:20",
       "album": {
-        "name": "Anomaly",
-        "url": "https://open.spotify.com/album/7J8SSnGauta2Uy7HKhEDMA"
+        "name": "Wide Awake (Devault Remix)",
+        "url": "https://open.spotify.com/album/2qTLUHWEVu7AaNUpcrMkwr"
       },
       "artists": [
         {
-          "name": "What So Not",
-          "url": "https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi"
+          "name": "ODESZA",
+          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
         },
         {
-          "name": "M\u00d8",
-          "url": "https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv"
+          "name": "Devault",
+          "url": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
+        },
+        {
+          "name": "Charlie Houston",
+          "url": "https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR"
         }
       ],
-      "duration_ms": 197142,
-      "name": "Mercy (2022 Edit)",
-      "url": "https://open.spotify.com/track/4NmNw3RnHtp6t6M0DjP1v3"
+      "duration_ms": 273750,
+      "name": "Wide Awake (feat. Charlie Houston) - Devault Remix",
+      "url": "https://open.spotify.com/track/0OXTIle1hA45EBBQJ0ktYG"
     },
     {
       "added_at": "2022-09-18 03:50:08",
@@ -103,6 +107,26 @@
       "duration_ms": 168552,
       "name": "Gorgeous (with Reo Cragun)",
       "url": "https://open.spotify.com/track/4inDHMhS9nxqOygYurJH2Q"
+    },
+    {
+      "added_at": "2022-09-18 03:50:30",
+      "album": {
+        "name": "Anomaly",
+        "url": "https://open.spotify.com/album/7J8SSnGauta2Uy7HKhEDMA"
+      },
+      "artists": [
+        {
+          "name": "What So Not",
+          "url": "https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi"
+        },
+        {
+          "name": "M\u00d8",
+          "url": "https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv"
+        }
+      ],
+      "duration_ms": 197142,
+      "name": "Mercy (2022 Edit)",
+      "url": "https://open.spotify.com/track/4NmNw3RnHtp6t6M0DjP1v3"
     },
     {
       "added_at": "2022-09-16 15:08:19",

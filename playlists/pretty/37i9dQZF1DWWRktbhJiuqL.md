@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWRktbhJiuqL.md) - [plain]
 
 > Various sounds, various decades, but with 1 thing in common: it's pure rock & roll.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,499,608 likes - 100 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,499,913 likes - 100 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWRktbhJiuqL.md) - [plain]
 | 16 | [More Than a Feeling](https://open.spotify.com/track/1QEEqeFIZktqIpPI4jSVSF) | [Boston](https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK) | [Boston](https://open.spotify.com/album/2QLp07RO6anZHmtcKTEvSC) | 4:45 |
 | 17 | [Sweet Child O' Mine](https://open.spotify.com/track/7snQQk1zcKl8gZ92AnueZW) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction](https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW) | 5:56 |
 | 18 | [Rest In Peace](https://open.spotify.com/track/2PZ5teF9vepeL2Qq7dkd59) | [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up) | [Gifts From The Holy Ghost](https://open.spotify.com/album/258YZ2TUzI1SJBU626eYFc) | 3:37 |
-| 19 | [Bad Moon Rising](https://open.spotify.com/track/20OFwXhEXf12DzwXmaV7fj) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Green River \(Expanded Edition\)](https://open.spotify.com/album/0i9mOB6mPGqwVvtJEXiwPG) | 2:21 |
-| 20 | [Take Me Out](https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Franz Ferdinand](https://open.spotify.com/album/0vi5ePiEHrGZJF7QhnDW2z) | 3:57 |
+| 19 | [Take Me Out](https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Franz Ferdinand](https://open.spotify.com/album/0vi5ePiEHrGZJF7QhnDW2z) | 3:57 |
+| 20 | [Bad Moon Rising](https://open.spotify.com/track/20OFwXhEXf12DzwXmaV7fj) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Green River \(Expanded Edition\)](https://open.spotify.com/album/0i9mOB6mPGqwVvtJEXiwPG) | 2:21 |
 | 21 | [The Pretender](https://open.spotify.com/track/7x8dCjCr0x6x2lXKujYD34) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Echoes, Silence, Patience & Grace](https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz) | 4:29 |
 | 22 | [Kickstart My Heart](https://open.spotify.com/track/6imjJij6aCM0IbbODUzJQn) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Dr\. Feelgood](https://open.spotify.com/album/23krn1eEy7o3u9laLI1PLD) | 4:44 |
 | 23 | [The Retaliators Theme \(21 Bullets\) \(feat\. Mötley Crüe, Asking Alexandria, Ice Nine Kills, From Ashes To New\)](https://open.spotify.com/track/3iEmgajStVBooooNaltdOv) | [The Retaliators](https://open.spotify.com/artist/0DqFxv4ZnxzDc6KPt6cUD5), [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL), [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ), [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt), [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [The Retaliators Theme Song \(21 Bullets\) \[feat\. Motley Crue, Asking Alexandria, Ice Nine Kills, From Ashes To New\]](https://open.spotify.com/album/5vyHnq2QdGJWMzjrjn4S6k) | 4:02 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWRktbhJiuqL.md) - [plain]
 | 36 | [\(Don't Fear\) The Reaper](https://open.spotify.com/track/5QTxFnGygVM4jFQiBovmRo) | [Blue Öyster Cult](https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2) | [Agents Of Fortune](https://open.spotify.com/album/6C9WzlQANeoD0GW5B41YJt) | 5:08 |
 | 37 | [Jack & Diane](https://open.spotify.com/track/43btz2xjMKpcmjkuRsvxyg) | [John Mellencamp](https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH) | [American Fool](https://open.spotify.com/album/4gouGcdQn9OvjX42xnWrF0) | 4:14 |
 | 38 | [Johnny B\. Goode](https://open.spotify.com/track/2QfiRTz5Yc8DdShCxG1tB2) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Berry Is On Top](https://open.spotify.com/album/6eedtCtCjibu80yOhylSGL) | 2:41 |
-| 39 | [Born in the U.S.A.](https://open.spotify.com/track/0dOg1ySSI7NkpAe89Zo0b9) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born In The U.S.A.](https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O) | 4:38 |
-| 40 | [Man in the Box](https://open.spotify.com/track/6gZVQvQZOFpzIy3HblJ20F) | [Alice In Chains](https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL) | [Facelift](https://open.spotify.com/album/5LbHbwejgZXRZAgzVAjkhj) | 4:45 |
+| 39 | [Man in the Box](https://open.spotify.com/track/6gZVQvQZOFpzIy3HblJ20F) | [Alice In Chains](https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL) | [Facelift](https://open.spotify.com/album/5LbHbwejgZXRZAgzVAjkhj) | 4:45 |
+| 40 | [Born in the U.S.A.](https://open.spotify.com/track/0dOg1ySSI7NkpAe89Zo0b9) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born In The U.S.A.](https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O) | 4:38 |
 | 41 | [Walk This Way](https://open.spotify.com/track/5SZ6zX4rOrEQferfFC2MfP) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Toys In The Attic](https://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B) | 3:40 |
 | 42 | [Pour Some Sugar On Me \- Remastered 2017](https://open.spotify.com/track/0PdM2a6oIjqepoEfcJo0RO) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Hysteria \(Super Deluxe\)](https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE) | 4:27 |
 | 43 | [Welcome To The Jungle](https://open.spotify.com/track/0G21yYKMZoHa30cYVi1iA8) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction](https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW) | 4:33 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWRktbhJiuqL.md) - [plain]
 | 92 | [A Hard Day's Night \- Remastered 2009](https://open.spotify.com/track/5J2CHimS7dWYMImCHkEFaJ) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [A Hard Day's Night \(Remastered\)](https://open.spotify.com/album/6wCttLq0ADzkPgtRnUihLV) | 2:34 |
 | 93 | [Cochise](https://open.spotify.com/track/1TDk2Jmi4dVZhm2dum3Jim) | [Audioslave](https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn) | [Audioslave](https://open.spotify.com/album/78guAsers0klWl6RwzgDLd) | 3:42 |
 | 94 | [American Woman](https://open.spotify.com/track/3X6iIrFuQoCshIWBseEKPl) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [5](https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN) | 4:24 |
-| 95 | [Louie Louie](https://open.spotify.com/track/0iA3xXSkSCiJywKyo1UKjQ) | [The Kingsmen](https://open.spotify.com/artist/2iIn8H3l2NNBNHFpYKWbfo) | [The Best of The Kingsmen](https://open.spotify.com/album/2SMBIc9VqCmLvWAd9srlSx) | 2:45 |
-| 96 | [Howlin' for You](https://open.spotify.com/track/0grFc6klR3hxoHLcgCYsF4) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers](https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v) | 3:11 |
+| 95 | [Howlin' for You](https://open.spotify.com/track/0grFc6klR3hxoHLcgCYsF4) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers](https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v) | 3:11 |
+| 96 | [Louie Louie](https://open.spotify.com/track/0iA3xXSkSCiJywKyo1UKjQ) | [The Kingsmen](https://open.spotify.com/artist/2iIn8H3l2NNBNHFpYKWbfo) | [The Best of The Kingsmen](https://open.spotify.com/album/2SMBIc9VqCmLvWAd9srlSx) | 2:45 |
 | 97 | [Woman](https://open.spotify.com/track/3CkjLJYnnyOtGk4Jx4iYS4) | [Wolfmother](https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4) | [Wolfmother](https://open.spotify.com/album/5ywynDHLHT3l8QSu41TcmC) | 2:56 |
 | 98 | [Heavy Metal](https://open.spotify.com/track/1XxUDJp9zsjd6tBSvE3la4) | [Sammy Hagar](https://open.spotify.com/artist/1hXjTjJzZTXDZ75AclOo6N) | [Standing Hampton](https://open.spotify.com/album/5EuL5NWA7SbMENWt8C16wn) | 3:50 |
 | 99 | [Jet Airliner](https://open.spotify.com/track/2zI3bUYn2pcF27of6i2oqK) | [Steve Miller Band](https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk) | [Greatest Hits 1974\-78](https://open.spotify.com/album/5hLazW5a3Ysgy3dncwGgUn) | 3:35 |
 | 100 | [S.O.B.](https://open.spotify.com/track/1VPUpUwtbpoRVXt0txVU0w) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/album/1uJRMyfjWu3255ihMnNuj4) | 4:07 |
 
-Snapshot ID: `MTY2MDgzOTI0OCwwMDAwMDAwMGJhMTdkMTM5ZmJlMzliNzM5OTI0MmU2YzA1Y2VlNDM1`
+Snapshot ID: `MTY2MDgzOTI0OCwwMDAwMDAwMGUyM2YzZDk2NGQ2ZWI5OTQ3OTVlZjE0MDRlNjk0NDRh`

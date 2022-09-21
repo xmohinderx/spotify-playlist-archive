@@ -1,12 +1,12 @@
 {
   "description": "Latin music to game to! Cover: Bizarrap",
-  "num_followers": 125527,
+  "num_followers": 125560,
   "original_name": "Latin Gaming",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDc3MTEzMSwwMDAwMDAwMDM3ZGZlNzllNTAwZGFkNzQ3MmRmZWQ5OWE3OGM4MTgz",
+  "snapshot_id": "MTY2MDc3MTEzMSwwMDAwMDAwMDZiZjIyOTcxZGNiNjVjMmJhN2IxNDczZDkxNWJkZmI1",
   "tracks": [
     {
       "added_at": "2022-08-17 21:18:51",
@@ -1459,6 +1459,26 @@
     {
       "added_at": "2022-08-17 21:18:51",
       "album": {
+        "name": "Sauce Boyz 2",
+        "url": "https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 232560,
+      "name": "No Te Deseo el Mal",
+      "url": "https://open.spotify.com/track/3HQxzXOb4p9pfpD5gP38D5"
+    },
+    {
+      "added_at": "2022-08-17 21:18:51",
+      "album": {
         "name": "TKN (feat. Travis Scott)",
         "url": "https://open.spotify.com/album/4KEOAWBMpvJrIZ7tQfx44i"
       },
@@ -1491,26 +1511,6 @@
       "duration_ms": 209146,
       "name": "Sensual Beb\u00e9",
       "url": "https://open.spotify.com/track/1xqbfjRuUw0ot43wgBuVkt"
-    },
-    {
-      "added_at": "2022-08-17 21:18:51",
-      "album": {
-        "name": "Sauce Boyz 2",
-        "url": "https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 232560,
-      "name": "No Te Deseo el Mal",
-      "url": "https://open.spotify.com/track/3HQxzXOb4p9pfpD5gP38D5"
     },
     {
       "added_at": "2022-08-17 21:18:51",
@@ -1591,26 +1591,6 @@
     {
       "added_at": "2022-08-17 21:18:51",
       "album": {
-        "name": "Sci-Fi",
-        "url": "https://open.spotify.com/album/1aVp3b9xC3Wrc0du10sDBu"
-      },
-      "artists": [
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 198540,
-      "name": "Sci-Fi",
-      "url": "https://open.spotify.com/track/5hF1rSgXQ4EPdWdYb8E6q0"
-    },
-    {
-      "added_at": "2022-08-17 21:18:51",
-      "album": {
         "name": "Fiel (Remix)",
         "url": "https://open.spotify.com/album/1jBESH0DEFN7z8WH8B0B5c"
       },
@@ -1671,6 +1651,26 @@
       "duration_ms": 367680,
       "name": "Toda Remix - Remix",
       "url": "https://open.spotify.com/track/47ZS1OjnJpJVfGN9yHXfMn"
+    },
+    {
+      "added_at": "2022-08-17 21:18:51",
+      "album": {
+        "name": "Sci-Fi",
+        "url": "https://open.spotify.com/album/1aVp3b9xC3Wrc0du10sDBu"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 198540,
+      "name": "Sci-Fi",
+      "url": "https://open.spotify.com/track/5hF1rSgXQ4EPdWdYb8E6q0"
     },
     {
       "added_at": "2022-08-17 21:18:51",
@@ -1831,26 +1831,6 @@
     {
       "added_at": "2022-08-17 21:18:51",
       "album": {
-        "name": "FULANITO",
-        "url": "https://open.spotify.com/album/5AVKorAwqFCfUiPkNwv89o"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        },
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        }
-      ],
-      "duration_ms": 158531,
-      "name": "FULANITO",
-      "url": "https://open.spotify.com/track/59L8x0xy8njj75vzVCPMqg"
-    },
-    {
-      "added_at": "2022-08-17 21:18:51",
-      "album": {
         "name": "Enoc",
         "url": "https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q"
       },
@@ -1871,6 +1851,26 @@
       "duration_ms": 233160,
       "name": "Caramelo - Remix",
       "url": "https://open.spotify.com/track/67jvGGbJmOmVonlyX3mNkV"
+    },
+    {
+      "added_at": "2022-08-17 21:18:51",
+      "album": {
+        "name": "FULANITO",
+        "url": "https://open.spotify.com/album/5AVKorAwqFCfUiPkNwv89o"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        }
+      ],
+      "duration_ms": 158531,
+      "name": "FULANITO",
+      "url": "https://open.spotify.com/track/59L8x0xy8njj75vzVCPMqg"
     },
     {
       "added_at": "2022-08-17 21:18:51",
@@ -1951,6 +1951,26 @@
     {
       "added_at": "2022-08-17 21:18:51",
       "album": {
+        "name": "Sauce Boyz",
+        "url": "https://open.spotify.com/album/2JwUsV3QP7FMWx1Fzt6dHQ"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 152960,
+      "name": "Kemba Walker",
+      "url": "https://open.spotify.com/track/4jhHaLksdP8DJZzxYAjOSz"
+    },
+    {
+      "added_at": "2022-08-17 21:18:51",
+      "album": {
         "name": "Travesuras (Remix)",
         "url": "https://open.spotify.com/album/1rQpXDegLbNBpe0fshpeKa"
       },
@@ -1983,26 +2003,6 @@
       "duration_ms": 324426,
       "name": "Travesuras - Remix",
       "url": "https://open.spotify.com/track/0VWLId2RwPCno9s1cJm2Vy"
-    },
-    {
-      "added_at": "2022-08-17 21:18:51",
-      "album": {
-        "name": "Sauce Boyz",
-        "url": "https://open.spotify.com/album/2JwUsV3QP7FMWx1Fzt6dHQ"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 152960,
-      "name": "Kemba Walker",
-      "url": "https://open.spotify.com/track/4jhHaLksdP8DJZzxYAjOSz"
     },
     {
       "added_at": "2022-08-17 21:18:51",
@@ -2087,26 +2087,6 @@
     {
       "added_at": "2022-08-17 21:18:51",
       "album": {
-        "name": "AM",
-        "url": "https://open.spotify.com/album/3dGUvydBX9qhg2YBMsVope"
-      },
-      "artists": [
-        {
-          "name": "Nio Garcia",
-          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
-        },
-        {
-          "name": "Flow La Movie",
-          "url": "https://open.spotify.com/artist/2oT7xd9iTO2ejLsNGIMa5f"
-        }
-      ],
-      "duration_ms": 182496,
-      "name": "AM",
-      "url": "https://open.spotify.com/track/2dNhNlpZAtV4lwAFW45LIv"
-    },
-    {
-      "added_at": "2022-08-17 21:18:51",
-      "album": {
         "name": "4K",
         "url": "https://open.spotify.com/album/2w8ok8XKZXEgyRozx2MNNQ"
       },
@@ -2147,6 +2127,26 @@
     {
       "added_at": "2022-08-17 21:18:51",
       "album": {
+        "name": "D\u00eda De Pago",
+        "url": "https://open.spotify.com/album/267aSH2QW3J5PwVuq1NxJe"
+      },
+      "artists": [
+        {
+          "name": "Ovi",
+          "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "duration_ms": 187295,
+      "name": "D\u00eda De Pago",
+      "url": "https://open.spotify.com/track/56CnVxbOqzOXBJrVxnMTtk"
+    },
+    {
+      "added_at": "2022-08-17 21:18:51",
+      "album": {
         "name": "PORFA Remix ( Feat. Maluma, Nicky Jam, Sech)",
         "url": "https://open.spotify.com/album/5cLb4vSQukBpYmox3UKa4M"
       },
@@ -2183,42 +2183,22 @@
     {
       "added_at": "2022-08-17 21:18:51",
       "album": {
-        "name": "D\u00eda De Pago",
-        "url": "https://open.spotify.com/album/267aSH2QW3J5PwVuq1NxJe"
+        "name": "AM",
+        "url": "https://open.spotify.com/album/3dGUvydBX9qhg2YBMsVope"
       },
       "artists": [
         {
-          "name": "Ovi",
-          "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
+          "name": "Nio Garcia",
+          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
         },
         {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+          "name": "Flow La Movie",
+          "url": "https://open.spotify.com/artist/2oT7xd9iTO2ejLsNGIMa5f"
         }
       ],
-      "duration_ms": 187295,
-      "name": "D\u00eda De Pago",
-      "url": "https://open.spotify.com/track/56CnVxbOqzOXBJrVxnMTtk"
-    },
-    {
-      "added_at": "2022-08-17 21:18:51",
-      "album": {
-        "name": "Romances de una Nota 2021, Vol.2",
-        "url": "https://open.spotify.com/album/6uEzgIGDVyYfx0yyfON43T"
-      },
-      "artists": [
-        {
-          "name": "Randy",
-          "url": "https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav"
-        },
-        {
-          "name": "Ape Drums",
-          "url": "https://open.spotify.com/artist/4HJnsUVBubdKJ2aV0sr48u"
-        }
-      ],
-      "duration_ms": 167504,
-      "name": "23 (With Ape Drums)",
-      "url": "https://open.spotify.com/track/4vv8wcnT04GHHbUCFBAiHF"
+      "duration_ms": 182496,
+      "name": "AM",
+      "url": "https://open.spotify.com/track/2dNhNlpZAtV4lwAFW45LIv"
     },
     {
       "added_at": "2022-08-17 21:18:51",
@@ -2243,6 +2223,26 @@
       "duration_ms": 226500,
       "name": "Sal y Perrea - Remix",
       "url": "https://open.spotify.com/track/1mG8VynhqySA52bALfYrvO"
+    },
+    {
+      "added_at": "2022-08-17 21:18:51",
+      "album": {
+        "name": "Romances de una Nota 2021, Vol.2",
+        "url": "https://open.spotify.com/album/6uEzgIGDVyYfx0yyfON43T"
+      },
+      "artists": [
+        {
+          "name": "Randy",
+          "url": "https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav"
+        },
+        {
+          "name": "Ape Drums",
+          "url": "https://open.spotify.com/artist/4HJnsUVBubdKJ2aV0sr48u"
+        }
+      ],
+      "duration_ms": 167504,
+      "name": "23 (With Ape Drums)",
+      "url": "https://open.spotify.com/track/4vv8wcnT04GHHbUCFBAiHF"
     },
     {
       "added_at": "2022-08-17 21:18:51",
@@ -2875,6 +2875,22 @@
     {
       "added_at": "2022-08-17 21:18:51",
       "album": {
+        "name": "Tus Poses",
+        "url": "https://open.spotify.com/album/5BKKUlMDOGTW0rF02Owg33"
+      },
+      "artists": [
+        {
+          "name": "Nio Garcia",
+          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
+        }
+      ],
+      "duration_ms": 201200,
+      "name": "Tus Poses",
+      "url": "https://open.spotify.com/track/5g7gOcJf2CInnuZWnmEfRK"
+    },
+    {
+      "added_at": "2022-08-17 21:18:51",
+      "album": {
         "name": "Chantaje",
         "url": "https://open.spotify.com/album/0q8QW2ceM8XpkNRQRe5akg"
       },
@@ -2891,22 +2907,6 @@
       "duration_ms": 238688,
       "name": "Chantaje",
       "url": "https://open.spotify.com/track/63XiGZGxNIWXA5CDz1dZ2l"
-    },
-    {
-      "added_at": "2022-08-17 21:18:51",
-      "album": {
-        "name": "Tus Poses",
-        "url": "https://open.spotify.com/album/5BKKUlMDOGTW0rF02Owg33"
-      },
-      "artists": [
-        {
-          "name": "Nio Garcia",
-          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
-        }
-      ],
-      "duration_ms": 201200,
-      "name": "Tus Poses",
-      "url": "https://open.spotify.com/track/5g7gOcJf2CInnuZWnmEfRK"
     },
     {
       "added_at": "2022-08-17 21:18:51",

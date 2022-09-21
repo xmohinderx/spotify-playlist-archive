@@ -4,7 +4,7 @@
 
 > Bad b\*\*\*\* energy\. Be blessed, be spicy\. Cover: Nicki Minaj
 
-234 songs - 11 hr 31 min - [published](https://open.spotify.com/playlist/6fHUp4TYDozaapLssJC9LA)
+235 songs - 11 hr 33 min - [published](https://open.spotify.com/playlist/6fHUp4TYDozaapLssJC9LA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,6 +187,7 @@
 | [Say It Right](https://open.spotify.com/track/2aI21FnmY7TJVKeMaoQZ0t) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Loose](https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT) | 3:43 | 2022-02-15 | 2022-08-13 |
 | [SCOOP \(feat\. Doja Cat\)](https://open.spotify.com/track/6bpq1jGkVz66Q3LYeoXdjZ) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:54 | 2022-04-29 | 2022-08-06 |
 | [Self Made](https://open.spotify.com/track/6I0vBiTtWTVJ0P6tH2y7Qo) | [Tay Money](https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7) | [Self Made](https://open.spotify.com/album/3pu3OJfmpdpGXmf6tHYZxl) | 2:48 | 2021-12-24 | 2022-01-20 |
+| [Seven](https://open.spotify.com/track/0YrwiodQd07LE9vpI0w3Iw) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [Seven](https://open.spotify.com/album/4bahLUJtW6lWbzyAfn4xD0) | 2:04 | 2022-09-20 |  |
 | [Sex With Me](https://open.spotify.com/track/7BiELrM90hRxpozaIXbsLw) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 3:26 | 2021-10-15 |  |
 | [SIMP](https://open.spotify.com/track/7uIrdhnGQw7bZSR2ygopuX) | [Full Tac](https://open.spotify.com/artist/5ZXkHp732tYHIzqctoZP0E), [Lil Mariko](https://open.spotify.com/artist/1ZRRl4S2B4xZBzHtIf65Jx), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [SIMP](https://open.spotify.com/album/4SR1C8HMMnFHpcU4cDGlRa) | 3:00 | 2021-10-15 | 2022-01-29 |
 | [Sl\*t Him Out](https://open.spotify.com/track/03AgMO71u7FXf2SV32oP76) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [What's Love / Sl\*t Him Out](https://open.spotify.com/album/1nJEmFZiNByDdugR0gOeb9) | 2:52 | 2022-02-20 | 2022-03-08 |

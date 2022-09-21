@@ -4,11 +4,12 @@
 
 > Alternative Arabic songs\. Cover: Bigsam.
 
-92 songs - 5 hr 29 min - [published](https://open.spotify.com/playlist/5Kcna48CrV8fuYA6mNyZOZ)
+93 songs - 5 hr 32 min - [published](https://open.spotify.com/playlist/5Kcna48CrV8fuYA6mNyZOZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [3abali](https://open.spotify.com/track/7be2niudzNWRnBdhTMKzWz) | [Police Voleur](https://open.spotify.com/artist/4ZIaNtLAJXK0Bee9QHJ9MR) | [3abali](https://open.spotify.com/album/0JUu2lcXnRmvJwAy7V32V1) | 2:37 | 2022-02-18 |  |
+| [Afkarik](https://open.spotify.com/track/1ebIGIiewKtLSjLf6n76KX) | [Salim Tarabay](https://open.spotify.com/artist/4gLyumFZwjNYDdiHPpl9Pq) | [Afkarik](https://open.spotify.com/album/4aATb7Kb0iTifiMphvFpbW) | 3:42 | 2022-09-20 |  |
 | [Al Fajer Al Kazeb](https://open.spotify.com/track/75f1DWsH7SzOHQbtURZf0u) | [Yousef Kekhia](https://open.spotify.com/artist/7EhcVdfydM4Hdfv5usdCRw) | [Polylog](https://open.spotify.com/album/68PRVUPTJsIygqpuDKrgXG) | 6:04 | 2021-12-23 |  |
 | [Al Rabta](https://open.spotify.com/track/7BnxgBDGc0f0xgFGNaYaWC) | [Yousef Kekhia](https://open.spotify.com/artist/7EhcVdfydM4Hdfv5usdCRw) | [Al Rabta](https://open.spotify.com/album/74YSFIcE0BoGp0vLfkYNis) | 5:03 | 2021-12-23 | 2022-04-16 |
 | [Al Sa'aa Al Oula](https://open.spotify.com/track/7hQSSr9kFGmM1zyQmeIkPw) | [Statues of Sinking Men](https://open.spotify.com/artist/0Yb1BJkuMs6USz8shheqxY) | [Al Sa'aa Al Oula](https://open.spotify.com/album/0Zucsn1XIbYo6OZ2wel2hB) | 4:33 | 2022-09-05 |  |
@@ -86,7 +87,7 @@
 | [Wahda Fada'ya](https://open.spotify.com/track/5zMYGqq1UgoyyyevlTz1BD) | [Galaleo](https://open.spotify.com/artist/60W1OtLk0gjWoE4kEP8tuY), [Amir Eid](https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp) | [Wahda Fada'ya](https://open.spotify.com/album/1Vdrh8MWfQxgq1gistq2PR) | 2:58 | 2022-02-17 |  |
 | [Wahna Kbar](https://open.spotify.com/track/7MUFWM9ColelDcWwUNpllS) | [Ÿuma](https://open.spotify.com/artist/1PRH2VLBHk1kMY2BFI0GQW) | [Wahna Kbar](https://open.spotify.com/album/3xGHjKsxftZypjhKbL8tA8) | 2:58 | 2022-03-09 |  |
 | [Wein Rayheen](https://open.spotify.com/track/7mHpjI49tleTX9YezPPqS6) | [Aziz Maraka](https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU), [Noel Kharman](https://open.spotify.com/artist/76G2QPGz4HBmhn0D3vr9UL) | [Wein Rayheen](https://open.spotify.com/album/4bcHZwnRYGf63bmvfpUFDq) | 3:05 | 2021-12-23 |  |
-| [Winds of Jawlan](https://open.spotify.com/track/3JNVotjNZ9Mu5GNRPc4Lx5) | [Haya Zaatry](https://open.spotify.com/artist/7BbiOEvJs6qrSDp54s1EUB) | [Rahawan](https://open.spotify.com/album/4NvaG3qf2KhQj6ppLU278A) | 4:48 | 2022-04-18 |  |
+| [Winds of Jawlan](https://open.spotify.com/track/3JNVotjNZ9Mu5GNRPc4Lx5) | [Haya Zaatry](https://open.spotify.com/artist/7BbiOEvJs6qrSDp54s1EUB) | [Rahawan](https://open.spotify.com/album/4NvaG3qf2KhQj6ppLU278A) | 4:48 | 2022-04-18 | 2022-09-21 |
 | [Ya Binti يا بنتي](https://open.spotify.com/track/26NE022e5BfYdvYh9okReN) | [Rasha Nahas](https://open.spotify.com/artist/6kA597KeEKoghJHvQ92RYO) | [Ya Binti يا بنتي](https://open.spotify.com/album/49TmFXyLavSzC02TC1sbWg) | 4:03 | 2022-03-10 |  |
 | [Ya Msafer Wahdak](https://open.spotify.com/track/1zPfv9d1zoorqjH3rVQq04) | [Hana Malhas](https://open.spotify.com/artist/0EQjOxeqpT2ebzA1NvT9Cu) | [Ya Msafer Wahdak](https://open.spotify.com/album/6C9tz8uAtt3WVIIH4P3Gjo) | 2:26 | 2022-01-06 |  |
 | [Yay](https://open.spotify.com/track/5E7b7E6SQDuCHqs35YsZGi) | [Dana Hourani](https://open.spotify.com/artist/15hYqWGQsqwtFi7FgLE4i6) | [Yay](https://open.spotify.com/album/3L7dNXLdUIYLjpEKCsfDnj) | 2:51 | 2021-12-23 | 2022-02-18 |

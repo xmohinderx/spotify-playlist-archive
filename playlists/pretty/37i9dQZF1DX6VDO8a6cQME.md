@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6VDO8a6cQME.md) - [plain]
 
 > Celebrating 25 years of Usher's "My Way," Mariah Carey's "Butterfly" and Jon B's "COOL RELAX." Cover: Usher
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,960,615 likes - 75 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,961,434 likes - 75 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,11 +77,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6VDO8a6cQME.md) - [plain]
 | 67 | [Sweet Lady](https://open.spotify.com/track/1Dx8rIZaXzZPvUQRF2j9hB) | [Tyrese](https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ) | [Tyrese](https://open.spotify.com/album/1srJ4xgMWliQdwquG81ObA) | 4:50 |
 | 68 | [Steelo](https://open.spotify.com/track/5OQO6NEs89flntUWPtXUiG) | [702](https://open.spotify.com/artist/2S8UlyXW4JjjHcbeg8ddIo) | [No Doubt](https://open.spotify.com/album/5Zm0jwZc5J4jWk9rLmABKO) | 4:17 |
 | 69 | [I Can Love You](https://open.spotify.com/track/4MTHIKGWNTBoubzDMkXFfa) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX) | [Share My World](https://open.spotify.com/album/11s3RAPMk0LpsZhuniepSW) | 4:46 |
-| 70 | [Back & Forth](https://open.spotify.com/track/45wneA2j0Z0WMnYNDO6Ad0) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4) | [Age Ain't Nothing But A Number](https://open.spotify.com/album/3E3QRjL4Cre7Krms420Irl) | 3:51 |
-| 71 | [Can't You See](https://open.spotify.com/track/0coGyBNQcxxqkOOT2UhT4v) | [Total](https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7), [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [BAD BOY CELEBRATES DIDDY: The Executive](https://open.spotify.com/album/7yTl88MTPG3O9MSgkro9UR) | 4:41 |
+| 70 | [Can't You See](https://open.spotify.com/track/0coGyBNQcxxqkOOT2UhT4v) | [Total](https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7), [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [BAD BOY CELEBRATES DIDDY: The Executive](https://open.spotify.com/album/7yTl88MTPG3O9MSgkro9UR) | 4:41 |
+| 71 | [Back & Forth](https://open.spotify.com/track/45wneA2j0Z0WMnYNDO6Ad0) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4) | [Age Ain't Nothing But A Number](https://open.spotify.com/album/3E3QRjL4Cre7Krms420Irl) | 3:51 |
 | 72 | [Next Lifetime](https://open.spotify.com/track/6sIMSl1n3KDPr03Fw8mujd) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Baduizm](https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3) | 6:26 |
 | 73 | [Brown Sugar](https://open.spotify.com/track/7rt0kEDWRg3pgTZJKuszoE) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Brown Sugar](https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4) | 4:22 |
 | 74 | [Every Little Thing I Do](https://open.spotify.com/track/5u3rsmRYRSKJpFHXPT4p07) | [Soul For Real](https://open.spotify.com/artist/296LotOmbj7eOX7r9l46fK) | [Candy Rain](https://open.spotify.com/album/0GmC4fd7RwxsFoo5Ht4nKp) | 4:20 |
-| 75 | [Bring It All to Me \(feat\. \*NSYNC\)](https://open.spotify.com/track/1cjBan0t4eBk2Y5j17hdyf) | [Blaque](https://open.spotify.com/artist/1nSRa2YjjFWJLHGKM07oGQ), [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [Blaque](https://open.spotify.com/album/4M3ZR714EWG904OX0XXQbp) | 3:38 |
+| 75 | [Fortunate](https://open.spotify.com/track/2RtvkLz5tmOXlzz918It6E) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [Fortunate](https://open.spotify.com/album/59f5YlSvsyT1Wa5Df1277H) | 5:01 |
 
-Snapshot ID: `MTY2MzM4ODgyNywwMDAwMDAwMDUzZWE4ZDk4MTIzMGEyNjU0Y2VhMDM2ZjI5YmE0Nzlm`
+Snapshot ID: `MTY2MzM4ODgyNywwMDAwMDAwMDFhZmMzMGU5YWNhZGVlODBkNzI2ODA0MDdhYTdmMjIx`

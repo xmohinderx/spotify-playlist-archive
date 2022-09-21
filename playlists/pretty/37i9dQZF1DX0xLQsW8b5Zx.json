@@ -1,12 +1,12 @@
 {
   "description": "Live fast, die awesome! A great mix of the best rockabilly tracks.",
-  "num_followers": 505419,
+  "num_followers": 505522,
   "original_name": "Rockabilly Mania",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjEwMzE5NSwwMDAwMDAwMDI2ZTEyZTg2ZWNkYmFlN2ZiNWJkMTA2NWRlNzlmYzdh",
+  "snapshot_id": "MTY2MjEwMzE5NSwwMDAwMDAwMGNjZmM0MDEzOGM3MmFiMmYwZDAyMzNjOTA0YmU4NDQ2",
   "tracks": [
     {
       "added_at": "2022-09-02 07:19:55",
@@ -559,22 +559,6 @@
     {
       "added_at": "2022-09-02 07:19:55",
       "album": {
-        "name": "Musta Notta Gotta Lotta",
-        "url": "https://open.spotify.com/album/0Og633EW0zPdlclAXI9TJg"
-      },
-      "artists": [
-        {
-          "name": "Joe Ely",
-          "url": "https://open.spotify.com/artist/388Y4nUQbYSyonhNlBEypT"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "Musta Notta Gotta Lotta",
-      "url": "https://open.spotify.com/track/0MJiECmrhQvEggBvVfBSOj"
-    },
-    {
-      "added_at": "2022-09-02 07:19:55",
-      "album": {
         "name": "Gene Vincent And The Blue Caps",
         "url": "https://open.spotify.com/album/0hiKWm7WLBpTtzIlnwTnrk"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 135373,
       "name": "Hold Me, Hug Me, Rock Me",
       "url": "https://open.spotify.com/track/0P9wPwqLUHzp5jeY1cHeAd"
+    },
+    {
+      "added_at": "2022-09-02 07:19:55",
+      "album": {
+        "name": "Musta Notta Gotta Lotta",
+        "url": "https://open.spotify.com/album/0Og633EW0zPdlclAXI9TJg"
+      },
+      "artists": [
+        {
+          "name": "Joe Ely",
+          "url": "https://open.spotify.com/artist/388Y4nUQbYSyonhNlBEypT"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "Musta Notta Gotta Lotta",
+      "url": "https://open.spotify.com/track/0MJiECmrhQvEggBvVfBSOj"
     },
     {
       "added_at": "2022-09-02 07:19:55",
@@ -899,22 +899,6 @@
     {
       "added_at": "2022-09-02 07:19:55",
       "album": {
-        "name": "Come on Little Mama / Where'd You Stay Last Night",
-        "url": "https://open.spotify.com/album/0jRvfTjOFuHrNJrVUT8BZY"
-      },
-      "artists": [
-        {
-          "name": "Ray Harris",
-          "url": "https://open.spotify.com/artist/0luI6OOG3mYAFQj4BC1hR8"
-        }
-      ],
-      "duration_ms": 138813,
-      "name": "Come on Little Mama",
-      "url": "https://open.spotify.com/track/11OqzAcT8jMaNZAt6kdpvR"
-    },
-    {
-      "added_at": "2022-09-02 07:19:55",
-      "album": {
         "name": "One More Time",
         "url": "https://open.spotify.com/album/5nT4fJpMylZufxoYnB1Pbl"
       },
@@ -931,22 +915,34 @@
     {
       "added_at": "2022-09-02 07:19:55",
       "album": {
-        "name": "Stockholm Blue",
-        "url": "https://open.spotify.com/album/7xFg94LOru7QaN5couhbh1"
+        "name": "Come on Little Mama / Where'd You Stay Last Night",
+        "url": "https://open.spotify.com/album/0jRvfTjOFuHrNJrVUT8BZY"
       },
       "artists": [
         {
-          "name": "Lee Ericson",
-          "url": "https://open.spotify.com/artist/4i9dZAd8B1gXWY8iyPdgnY"
-        },
-        {
-          "name": "The Kingbees",
-          "url": "https://open.spotify.com/artist/4cu77OuihTaUDYozqa2u9G"
+          "name": "Ray Harris",
+          "url": "https://open.spotify.com/artist/0luI6OOG3mYAFQj4BC1hR8"
         }
       ],
-      "duration_ms": 210186,
-      "name": "Northern Girl",
-      "url": "https://open.spotify.com/track/3ddovtNdDK3nrseLGpI4hV"
+      "duration_ms": 138813,
+      "name": "Come on Little Mama",
+      "url": "https://open.spotify.com/track/11OqzAcT8jMaNZAt6kdpvR"
+    },
+    {
+      "added_at": "2022-09-02 07:19:55",
+      "album": {
+        "name": "Kim Lenz And Her Jaguars",
+        "url": "https://open.spotify.com/album/1S8GKcUi2QMBDN6AtSZLOL"
+      },
+      "artists": [
+        {
+          "name": "Kim Lenz & Her Jaguars",
+          "url": "https://open.spotify.com/artist/2yG5isAT56JzRO1qpmmwnB"
+        }
+      ],
+      "duration_ms": 157426,
+      "name": "Devil On My Shoulder",
+      "url": "https://open.spotify.com/track/3UZo90wgkXdNPtSVIMYfdu"
     },
     {
       "added_at": "2022-09-02 07:19:55",
@@ -971,18 +967,22 @@
     {
       "added_at": "2022-09-02 07:19:55",
       "album": {
-        "name": "Kim Lenz And Her Jaguars",
-        "url": "https://open.spotify.com/album/1S8GKcUi2QMBDN6AtSZLOL"
+        "name": "Stockholm Blue",
+        "url": "https://open.spotify.com/album/7xFg94LOru7QaN5couhbh1"
       },
       "artists": [
         {
-          "name": "Kim Lenz & Her Jaguars",
-          "url": "https://open.spotify.com/artist/2yG5isAT56JzRO1qpmmwnB"
+          "name": "Lee Ericson",
+          "url": "https://open.spotify.com/artist/4i9dZAd8B1gXWY8iyPdgnY"
+        },
+        {
+          "name": "The Kingbees",
+          "url": "https://open.spotify.com/artist/4cu77OuihTaUDYozqa2u9G"
         }
       ],
-      "duration_ms": 157426,
-      "name": "Devil On My Shoulder",
-      "url": "https://open.spotify.com/track/3UZo90wgkXdNPtSVIMYfdu"
+      "duration_ms": 210186,
+      "name": "Northern Girl",
+      "url": "https://open.spotify.com/track/3ddovtNdDK3nrseLGpI4hV"
     }
   ],
   "unique_name": "Rockabilly Mania",

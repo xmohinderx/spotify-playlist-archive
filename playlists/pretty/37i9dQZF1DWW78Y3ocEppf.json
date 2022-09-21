@@ -1,12 +1,12 @@
 {
   "description": "The feelings you can't put into words...only songs. Cover: Brent Faiyaz",
-  "num_followers": 34521,
+  "num_followers": 34590,
   "original_name": "Some Kinda Way",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMGVkOTkzOGVhM2YzZWY5YzZmNzFkMmVmNDMwMThmNWJm",
+  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMGY4NDI2YWVjN2RhNmRkNWJlMmU4ZTZhYTFjYzkyODg2",
   "tracks": [
     {
       "added_at": "2022-07-15 04:00:00",
@@ -89,22 +89,6 @@
       "url": "https://open.spotify.com/track/6ufcuVInt0ocHrUimDjGlb"
     },
     {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
-        "name": "Public Displays Of Affection",
-        "url": "https://open.spotify.com/album/2ngrG39dI2ofhCxjmFnKv5"
-      },
-      "artists": [
-        {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
-        }
-      ],
-      "duration_ms": 204316,
-      "name": "Hrs & Hrs",
-      "url": "https://open.spotify.com/track/3M5azWqeZbfoVkGXygatlb"
-    },
-    {
       "added_at": "2022-08-06 10:43:59",
       "album": {
         "name": "I Used To Know Her",
@@ -123,6 +107,22 @@
       "duration_ms": 252746,
       "name": "Could've Been (feat. Bryson Tiller)",
       "url": "https://open.spotify.com/track/6oEVnWKgPqIEPc53OYDNqG"
+    },
+    {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
+        "name": "Public Displays Of Affection",
+        "url": "https://open.spotify.com/album/2ngrG39dI2ofhCxjmFnKv5"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "duration_ms": 204316,
+      "name": "Hrs & Hrs",
+      "url": "https://open.spotify.com/track/3M5azWqeZbfoVkGXygatlb"
     },
     {
       "added_at": "2022-08-05 04:11:54",
@@ -397,20 +397,20 @@
       "url": "https://open.spotify.com/track/0e0JshRej2NwT7jahEmv52"
     },
     {
-      "added_at": "2022-07-15 04:00:00",
+      "added_at": "2022-09-09 04:09:30",
       "album": {
-        "name": "Alone With You",
-        "url": "https://open.spotify.com/album/310ZzmkHr5zvYyqMkNhXlm"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/28wKxlJocWCrrxUgYC2zEQ"
       },
       "artists": [
         {
-          "name": "Alina Baraz",
-          "url": "https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1"
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
         }
       ],
-      "duration_ms": 226278,
-      "name": "Alone With You",
-      "url": "https://open.spotify.com/track/0jHVNBt8A9L8qEAB8XxGuB"
+      "duration_ms": 189462,
+      "name": "DO 4 LOVE",
+      "url": "https://open.spotify.com/track/3FImu2LpSuH6gDHBuFgIbS"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -429,20 +429,20 @@
       "url": "https://open.spotify.com/track/5XqDJFVCyRTm5J7cIfRmR1"
     },
     {
-      "added_at": "2022-09-09 04:09:30",
+      "added_at": "2022-07-15 04:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/28wKxlJocWCrrxUgYC2zEQ"
+        "name": "Alone With You",
+        "url": "https://open.spotify.com/album/310ZzmkHr5zvYyqMkNhXlm"
       },
       "artists": [
         {
-          "name": "Snoh Aalegra",
-          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+          "name": "Alina Baraz",
+          "url": "https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1"
         }
       ],
-      "duration_ms": 189462,
-      "name": "DO 4 LOVE",
-      "url": "https://open.spotify.com/track/3FImu2LpSuH6gDHBuFgIbS"
+      "duration_ms": 226278,
+      "name": "Alone With You",
+      "url": "https://open.spotify.com/track/0jHVNBt8A9L8qEAB8XxGuB"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -533,6 +533,22 @@
       "url": "https://open.spotify.com/track/2K2kujL7erU8ItCd2Tv5lh"
     },
     {
+      "added_at": "2022-08-05 04:11:54",
+      "album": {
+        "name": "COLORWAY",
+        "url": "https://open.spotify.com/album/4cGY0jqWYTCIPwQRXHgKvy"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        }
+      ],
+      "duration_ms": 136695,
+      "name": "IN THE AIR",
+      "url": "https://open.spotify.com/track/4TLJNON6mZLpfZX3g4Oh8B"
+    },
+    {
       "added_at": "2022-07-15 04:00:00",
       "album": {
         "name": "Ur Best Friend",
@@ -551,22 +567,6 @@
       "duration_ms": 182858,
       "name": "Ur Best Friend (with Kehlani)",
       "url": "https://open.spotify.com/track/1gsYCXkisSnnjBb3qwYZoc"
-    },
-    {
-      "added_at": "2022-08-05 04:11:54",
-      "album": {
-        "name": "COLORWAY",
-        "url": "https://open.spotify.com/album/4cGY0jqWYTCIPwQRXHgKvy"
-      },
-      "artists": [
-        {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
-        }
-      ],
-      "duration_ms": 136695,
-      "name": "IN THE AIR",
-      "url": "https://open.spotify.com/track/4TLJNON6mZLpfZX3g4Oh8B"
     },
     {
       "added_at": "2022-09-09 04:09:30",
@@ -731,22 +731,6 @@
     {
       "added_at": "2022-07-15 04:00:00",
       "album": {
-        "name": "TEMPORARY HIGHS IN THE VIOLET SKIES",
-        "url": "https://open.spotify.com/album/57ttk3xzHMWLr6CGrEa8F3"
-      },
-      "artists": [
-        {
-          "name": "Snoh Aalegra",
-          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
-        }
-      ],
-      "duration_ms": 177720,
-      "name": "LOST YOU",
-      "url": "https://open.spotify.com/track/26aJMMLBSOQmiC4JenVjjl"
-    },
-    {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
         "name": "Hello Poison",
         "url": "https://open.spotify.com/album/75ROXu2vbXVKe3OLeW54yS"
       },
@@ -767,18 +751,18 @@
     {
       "added_at": "2022-07-15 04:00:00",
       "album": {
-        "name": "Mother",
-        "url": "https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR"
+        "name": "TEMPORARY HIGHS IN THE VIOLET SKIES",
+        "url": "https://open.spotify.com/album/57ttk3xzHMWLr6CGrEa8F3"
       },
       "artists": [
         {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
         }
       ],
-      "duration_ms": 264826,
-      "name": "Promises",
-      "url": "https://open.spotify.com/track/6aQ7nlAEOhhRnsHi6eY0zT"
+      "duration_ms": 177720,
+      "name": "LOST YOU",
+      "url": "https://open.spotify.com/track/26aJMMLBSOQmiC4JenVjjl"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -795,6 +779,22 @@
       "duration_ms": 177445,
       "name": "Still Your Best",
       "url": "https://open.spotify.com/track/2qvWsotNWTvRkwCksOnl92"
+    },
+    {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
+        "name": "Mother",
+        "url": "https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "duration_ms": 264826,
+      "name": "Promises",
+      "url": "https://open.spotify.com/track/6aQ7nlAEOhhRnsHi6eY0zT"
     },
     {
       "added_at": "2022-08-05 04:11:54",
@@ -849,6 +849,22 @@
       "url": "https://open.spotify.com/track/67bOItGZHSECTH9LffxpUm"
     },
     {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Irresponsible",
+        "url": "https://open.spotify.com/album/5Mv9dyRbKf8x90M86mibc0"
+      },
+      "artists": [
+        {
+          "name": "Kiana Led\u00e9",
+          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
+        }
+      ],
+      "duration_ms": 192545,
+      "name": "Irresponsible",
+      "url": "https://open.spotify.com/track/3PIDY9vzQP6U8OLTYlcA50"
+    },
+    {
       "added_at": "2022-08-05 04:11:54",
       "album": {
         "name": "The Lead",
@@ -897,26 +913,6 @@
       "url": "https://open.spotify.com/track/0H6CZCG2F1N3XZWNZAVqE7"
     },
     {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
-        "name": "KIKI",
-        "url": "https://open.spotify.com/album/6UmILTxwjM8sME3wbsZgQh"
-      },
-      "artists": [
-        {
-          "name": "Kiana Led\u00e9",
-          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
-        },
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        }
-      ],
-      "duration_ms": 242400,
-      "name": "Forfeit. (ft. Lucky Daye)",
-      "url": "https://open.spotify.com/track/4uMvvCwqs046uxyJiFJTT1"
-    },
-    {
       "added_at": "2022-08-05 04:11:54",
       "album": {
         "name": "3000\u00b0",
@@ -935,6 +931,26 @@
       "duration_ms": 202755,
       "name": "I'm Baby (ft. Jvck James)",
       "url": "https://open.spotify.com/track/2rZQC2Hwy4sClylYHg2MXI"
+    },
+    {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
+        "name": "KIKI",
+        "url": "https://open.spotify.com/album/6UmILTxwjM8sME3wbsZgQh"
+      },
+      "artists": [
+        {
+          "name": "Kiana Led\u00e9",
+          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
+        },
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "duration_ms": 242400,
+      "name": "Forfeit. (ft. Lucky Daye)",
+      "url": "https://open.spotify.com/track/4uMvvCwqs046uxyJiFJTT1"
     },
     {
       "added_at": "2022-08-05 04:11:54",
@@ -971,6 +987,26 @@
       "duration_ms": 195401,
       "name": "Love Quotes",
       "url": "https://open.spotify.com/track/6FnXRfvhQsTbiMaiXb2gff"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "YESSIE",
+        "url": "https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV"
+      },
+      "artists": [
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        },
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        }
+      ],
+      "duration_ms": 223160,
+      "name": "FOREVER (with 6LACK)",
+      "url": "https://open.spotify.com/track/2lVYLiHGIX6GajMqYXF1Un"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -1041,26 +1077,6 @@
       "url": "https://open.spotify.com/track/2JLVZYEMmqPWbUoAJAMKfm"
     },
     {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "YESSIE",
-        "url": "https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV"
-      },
-      "artists": [
-        {
-          "name": "Jessie Reyez",
-          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
-        },
-        {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
-        }
-      ],
-      "duration_ms": 223160,
-      "name": "FOREVER (with 6LACK)",
-      "url": "https://open.spotify.com/track/2lVYLiHGIX6GajMqYXF1Un"
-    },
-    {
       "added_at": "2022-07-15 04:00:00",
       "album": {
         "name": "VICES",
@@ -1075,22 +1091,6 @@
       "duration_ms": 183750,
       "name": "VICES",
       "url": "https://open.spotify.com/track/1CfVpNo9PPCdv8akjNVBWQ"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "Irresponsible",
-        "url": "https://open.spotify.com/album/5Mv9dyRbKf8x90M86mibc0"
-      },
-      "artists": [
-        {
-          "name": "Kiana Led\u00e9",
-          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
-        }
-      ],
-      "duration_ms": 192545,
-      "name": "Irresponsible",
-      "url": "https://open.spotify.com/track/3PIDY9vzQP6U8OLTYlcA50"
     },
     {
       "added_at": "2022-07-15 04:00:00",

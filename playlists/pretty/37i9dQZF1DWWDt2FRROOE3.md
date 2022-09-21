@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDt2FRROOE3.md) - [plain]
 
 > ¡Los éxitos del pop y el rock interpretados con mariachi!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,237 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,247 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDt2FRROOE3.md) - [plain]
 | 39 | [I'm Gonna Be \(500 Miles\)](https://open.spotify.com/track/4jBkwecH1M6L2M0LhrJZyw) | [The Mariachis](https://open.spotify.com/artist/65Xpewey6CgYSNGZuGinLb) | [Mexipop](https://open.spotify.com/album/2Y007c4RwCfTEzv012ou7F) | 4:40 |
 | 40 | [Don't You Want Me](https://open.spotify.com/track/33lBbfm7wD1lyorChcTqdK) | [The Mariachis](https://open.spotify.com/artist/65Xpewey6CgYSNGZuGinLb) | [Mexican Party](https://open.spotify.com/album/7iJFGWy0nsWGB3PIKtw1T4) | 3:33 |
 | 41 | [Livin' On a Prayer](https://open.spotify.com/track/3Gz5Eih3pFCSXuVvAFGNxf) | [The Mariachis](https://open.spotify.com/artist/65Xpewey6CgYSNGZuGinLb) | [Mexipop](https://open.spotify.com/album/2Y007c4RwCfTEzv012ou7F) | 3:55 |
-| 42 | [The Final Countdown](https://open.spotify.com/track/1vLw8Ns5fqzXzkPQYhmR6i) | [The Mariachis](https://open.spotify.com/artist/65Xpewey6CgYSNGZuGinLb) | [Mexipop](https://open.spotify.com/album/2Y007c4RwCfTEzv012ou7F) | 3:18 |
-| 43 | [Dark World \(from “The Legend of Zelda: A Link to the Past"\)](https://open.spotify.com/track/6sorbC4D7e4wEyjbP9bkdP) | [Mariachi Entertainment System](https://open.spotify.com/artist/6Fo4ZNILtdNHxC61x0Q8IX) | [Mariachi Entertainment System](https://open.spotify.com/album/4zWoXcRFJvf1xAFa92pMYi) | 2:33 |
+| 42 | [Dark World \(from “The Legend of Zelda: A Link to the Past"\)](https://open.spotify.com/track/6sorbC4D7e4wEyjbP9bkdP) | [Mariachi Entertainment System](https://open.spotify.com/artist/6Fo4ZNILtdNHxC61x0Q8IX) | [Mariachi Entertainment System](https://open.spotify.com/album/4zWoXcRFJvf1xAFa92pMYi) | 2:33 |
+| 43 | [The Final Countdown](https://open.spotify.com/track/1vLw8Ns5fqzXzkPQYhmR6i) | [The Mariachis](https://open.spotify.com/artist/65Xpewey6CgYSNGZuGinLb) | [Mexipop](https://open.spotify.com/album/2Y007c4RwCfTEzv012ou7F) | 3:18 |
 | 44 | [Gerudo Valley \(from "The Legend of Zelda: Ocarina of Time"\)](https://open.spotify.com/track/1Tj2GsPM4kfI5FXU1ODvTk) | [Mariachi Entertainment System](https://open.spotify.com/artist/6Fo4ZNILtdNHxC61x0Q8IX) | [Mariachi Entertainment System](https://open.spotify.com/album/4zWoXcRFJvf1xAFa92pMYi) | 2:33 |
 | 45 | [Proud Mary](https://open.spotify.com/track/7tkTRdDsuCBpTj9lzpRCfL) | [Mariachi Rock\-O](https://open.spotify.com/artist/0Op3oPwgkCDb3JfAKLPw98) | [Sonidos de Jalisco, Vol\. 3](https://open.spotify.com/album/2NsLXfknDB4MX0gumLdn5m) | 3:31 |
 | 46 | [Don't Look Back in Anger](https://open.spotify.com/track/0KsennSmqjD5V1q4XAqia6) | [The Mariachis](https://open.spotify.com/artist/65Xpewey6CgYSNGZuGinLb) | [Mexipop](https://open.spotify.com/album/2Y007c4RwCfTEzv012ou7F) | 4:28 |
 | 47 | [Don't Stop Me Now](https://open.spotify.com/track/7vwp4fDLYkaLmMABuTQJKz) | [The Mariachis](https://open.spotify.com/artist/65Xpewey6CgYSNGZuGinLb) | [Mexipop](https://open.spotify.com/album/2Y007c4RwCfTEzv012ou7F) | 4:40 |
-| 48 | [Penny Lane \- Instrumental](https://open.spotify.com/track/7iPzul10s8hh3dFxuZ6ixJ) | [Los Mariachis](https://open.spotify.com/artist/2YwopcCMqCYbtZmxVXTcNk) | [Exitos De Los Chicos De Liverpool \(Instrumental\)](https://open.spotify.com/album/0O9zaZlb91ZFgm9Ken6YEu) | 3:03 |
-| 49 | [Dr\. Wily \- Stage 1 \(from "Mega Man 2"\)](https://open.spotify.com/track/65b6IuBQGi1g3D9bxrlNe9) | [Mariachi Entertainment System](https://open.spotify.com/artist/6Fo4ZNILtdNHxC61x0Q8IX) | [Mariachi Entertainment System](https://open.spotify.com/album/4zWoXcRFJvf1xAFa92pMYi) | 3:00 |
+| 48 | [Dr\. Wily \- Stage 1 \(from "Mega Man 2"\)](https://open.spotify.com/track/65b6IuBQGi1g3D9bxrlNe9) | [Mariachi Entertainment System](https://open.spotify.com/artist/6Fo4ZNILtdNHxC61x0Q8IX) | [Mariachi Entertainment System](https://open.spotify.com/album/4zWoXcRFJvf1xAFa92pMYi) | 3:00 |
+| 49 | [Penny Lane \- Instrumental](https://open.spotify.com/track/7iPzul10s8hh3dFxuZ6ixJ) | [Los Mariachis](https://open.spotify.com/artist/2YwopcCMqCYbtZmxVXTcNk) | [Exitos De Los Chicos De Liverpool \(Instrumental\)](https://open.spotify.com/album/0O9zaZlb91ZFgm9Ken6YEu) | 3:03 |
 | 50 | [The Fool on the Hill \- Instrumental](https://open.spotify.com/track/7HBsdQUoEtTKmPfOEZdd9o) | [Los Mariachis](https://open.spotify.com/artist/2YwopcCMqCYbtZmxVXTcNk) | [Exitos De Los Chicos De Liverpool \(Instrumental\)](https://open.spotify.com/album/0O9zaZlb91ZFgm9Ken6YEu) | 2:56 |
 
-Snapshot ID: `MTY0MjE3ODg0OSwwMDAwMDAwMDQ0NDc5YjYwYmUwNDc4M2ZkNTI5NGE4NDk5OGU0MzE2`
+Snapshot ID: `MTY0MjE3ODg0OSwwMDAwMDAwMDdlMWVhNTAwNmM5OTI5NGM2YmNmNWIwOTkxYWFmYmI4`

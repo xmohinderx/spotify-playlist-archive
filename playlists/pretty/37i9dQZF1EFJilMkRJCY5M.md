@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJilMkRJCY5M.md) - [plain]
 | 5 | [Wasted](https://open.spotify.com/track/5HUfKHpYUG2Q5qtuVJ9IE3) | [Carda](https://open.spotify.com/artist/37SJYTTMo0trMRVJqKiUoO), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [Wasted](https://open.spotify.com/album/6kdwiQJEmAhrNPo9mvhD8m) | 2:45 |
 | 6 | [Mercury Rising](https://open.spotify.com/track/00Onz80bx3KFwXcAcwZfH4) | [Tezza](https://open.spotify.com/artist/6T3zoiBS7q6g0H7rSnKvRd) | [Mercury Rising](https://open.spotify.com/album/6GQGzl8XsvWfPgr0KL22I5) | 2:41 |
 | 7 | [Keep in Touch](https://open.spotify.com/track/4G3U1mkd1x0qYYzVAcV4rY) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [TWENTYTWENTY](https://open.spotify.com/album/13j0Kg7NR6uwvE1TEXlNQi) | 3:02 |
-| 8 | [summer](https://open.spotify.com/track/2lGcI6Ree0yaSZcZchs0tK) | [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [night, love you.](https://open.spotify.com/album/58J1HN0dJl1pkTwu1YGJSq) | 2:55 |
-| 9 | [never been in love](https://open.spotify.com/track/3C1BJMHwYRUBrg78duMaOE) | [Gatlin](https://open.spotify.com/artist/1KGcdM5KxCVydaHe29QAj9) | [Sugarcoated](https://open.spotify.com/album/4505aBIeu5JcRNKg3nFQbt) | 3:06 |
+| 8 | [never been in love](https://open.spotify.com/track/3C1BJMHwYRUBrg78duMaOE) | [Gatlin](https://open.spotify.com/artist/1KGcdM5KxCVydaHe29QAj9) | [Sugarcoated](https://open.spotify.com/album/4505aBIeu5JcRNKg3nFQbt) | 3:06 |
+| 9 | [summer](https://open.spotify.com/track/2lGcI6Ree0yaSZcZchs0tK) | [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [night, love you.](https://open.spotify.com/album/58J1HN0dJl1pkTwu1YGJSq) | 2:55 |
 | 10 | [Call Your Sister](https://open.spotify.com/track/4ZhULfF8Sto8LKYUgx1yU3) | [Taylor Edwards](https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki) | [Born in July](https://open.spotify.com/album/3Y22F7f6OISIYwTirf2E6R) | 3:00 |
 | 11 | [Pattern](https://open.spotify.com/track/3tEMXXRquvE9gwBV6qiHfQ) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [Reminders](https://open.spotify.com/album/5jqeOZVEhtWzvTFMatjDic) | 4:12 |
 | 12 | [I'm Still Breathing](https://open.spotify.com/track/6saWL01T4ENiamU9HyBMmb) | [Kevin Quinn](https://open.spotify.com/artist/3HTHz4rj84gMMV8T3u81op) | [I'm Still Breathing](https://open.spotify.com/album/3xselxcmppcZRrOD5DdVWb) | 3:30 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJilMkRJCY5M.md) - [plain]
 | 64 | [Are We Still Good](https://open.spotify.com/track/1E4lKGhLeldkoBiocnsptN) | [Forrest Finn](https://open.spotify.com/artist/4CHpwd1pdYUKJaGKbElg3m) | [Spotlight](https://open.spotify.com/album/7uj8AZOnobHVP6GEwGlCj0) | 2:57 |
 | 65 | [Parallel Universe](https://open.spotify.com/track/7Bjeh8lHQZMolHSm4kX2Ie) | [Navyhue](https://open.spotify.com/artist/1ab6W5waGBlE1nmkVtLdX5) | [Parallel Universe](https://open.spotify.com/album/00zC5ot02HOcq5pf9odGIw) | 3:32 |
 
-Snapshot ID: `Mjc3MjcyODEsMDAwMDAwMDA0MDYyYmIyOWNhNzk4ZWViNTFiNzdlN2IzYWQ4NjQ5ZA==`
+Snapshot ID: `Mjc3Mjg3MjEsMDAwMDAwMDA1ZjQzM2MxNmUzMDU5NTZiNTNkYjU1M2QxZmQ5MWNkMQ==`

@@ -1,12 +1,12 @@
 {
   "description": "Find what's fresh & buzzing in Christian & Gospel music right here!  Cover:  We The Kingdom",
-  "num_followers": 82075,
+  "num_followers": 82085,
   "original_name": "Sing A New Song",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzY3NDg2NCwwMDAwMDAwMGM4NDZkMTBhZDU5ZjczMmFlYWIwODYzNGFiNTM2Y2I1",
+  "snapshot_id": "MTY1MzY3NDg2NCwwMDAwMDAwMDE0NDIwZGU1MGMwODllN2M2YjhmMjMwMTIzNTE4ODEx",
   "tracks": [
     {
       "added_at": "2022-05-27 18:07:44",
@@ -471,22 +471,6 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "Good Feeling (Radio Version)",
-        "url": "https://open.spotify.com/album/3kT4i3tkyT8FmcuAYUPJjJ"
-      },
-      "artists": [
-        {
-          "name": "Austin French",
-          "url": "https://open.spotify.com/artist/5m8b1Ofn4kNkzRV84GopBU"
-        }
-      ],
-      "duration_ms": 161583,
-      "name": "Good Feeling - Radio Version",
-      "url": "https://open.spotify.com/track/7L3dULJxns4VDBBgItRVR6"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
         "name": "Revival",
         "url": "https://open.spotify.com/album/350DvgUbR83wdpqAIEAUeU"
       },
@@ -503,18 +487,18 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "In You",
-        "url": "https://open.spotify.com/album/6CGOHFD1cO5u0jldukqYNO"
+        "name": "Good Feeling (Radio Version)",
+        "url": "https://open.spotify.com/album/3kT4i3tkyT8FmcuAYUPJjJ"
       },
       "artists": [
         {
-          "name": "Iveth Luna",
-          "url": "https://open.spotify.com/artist/2fiP5LcBybuvRJlE9RW8zv"
+          "name": "Austin French",
+          "url": "https://open.spotify.com/artist/5m8b1Ofn4kNkzRV84GopBU"
         }
       ],
-      "duration_ms": 205060,
-      "name": "In You",
-      "url": "https://open.spotify.com/track/1oaifckP3fuz18gjdB1m9z"
+      "duration_ms": 161583,
+      "name": "Good Feeling - Radio Version",
+      "url": "https://open.spotify.com/track/7L3dULJxns4VDBBgItRVR6"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -531,6 +515,22 @@
       "duration_ms": 188426,
       "name": "No Matter What",
       "url": "https://open.spotify.com/track/5zlWZifhZcoFGgMdXWycFw"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
+        "name": "In You",
+        "url": "https://open.spotify.com/album/6CGOHFD1cO5u0jldukqYNO"
+      },
+      "artists": [
+        {
+          "name": "Iveth Luna",
+          "url": "https://open.spotify.com/artist/2fiP5LcBybuvRJlE9RW8zv"
+        }
+      ],
+      "duration_ms": 205060,
+      "name": "In You",
+      "url": "https://open.spotify.com/track/1oaifckP3fuz18gjdB1m9z"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -631,22 +631,6 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "When You Speak (Deluxe)",
-        "url": "https://open.spotify.com/album/4gqvwAZqd78xeSPE10MObb"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Camp",
-          "url": "https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk"
-        }
-      ],
-      "duration_ms": 216610,
-      "name": "Say Amen",
-      "url": "https://open.spotify.com/track/5uPjLPvofaEYditIE1mjzz"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
         "name": "Love Won\u2019t Let Go",
         "url": "https://open.spotify.com/album/4lVaX2sjMP6qnyGnLHLrdQ"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 193934,
       "name": "Loved By You",
       "url": "https://open.spotify.com/track/45HtUmhWSfLEBuFl68t4wl"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
+        "name": "When You Speak (Deluxe)",
+        "url": "https://open.spotify.com/album/4gqvwAZqd78xeSPE10MObb"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Camp",
+          "url": "https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk"
+        }
+      ],
+      "duration_ms": 216610,
+      "name": "Say Amen",
+      "url": "https://open.spotify.com/track/5uPjLPvofaEYditIE1mjzz"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -963,22 +963,6 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "I See Heaven On Earth",
-        "url": "https://open.spotify.com/album/3irmMXTzkzVkctuv2mMJZz"
-      },
-      "artists": [
-        {
-          "name": "Jim Sonefeld",
-          "url": "https://open.spotify.com/artist/0KNodVzuH2zoT1tglc3C9k"
-        }
-      ],
-      "duration_ms": 239335,
-      "name": "I See Heaven On Earth",
-      "url": "https://open.spotify.com/track/6Np39XMxggFHRDG8OUMEab"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
         "name": "King of Kings",
         "url": "https://open.spotify.com/album/2EwNW4WtmA5PLCfchjXGIR"
       },
@@ -999,38 +983,6 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "Secrets",
-        "url": "https://open.spotify.com/album/2Wo9jqoYH9NfVqsdvp2Vgw"
-      },
-      "artists": [
-        {
-          "name": "Rachael Nemiroff",
-          "url": "https://open.spotify.com/artist/4w2fF5b9OiQBhh6Z34rL8t"
-        }
-      ],
-      "duration_ms": 226442,
-      "name": "Secrets",
-      "url": "https://open.spotify.com/track/4GcSp6MeitSVubtS27ykaw"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
-        "name": "Heaven's on the Move (Deluxe)",
-        "url": "https://open.spotify.com/album/5VLaZK1eadF5WEd2N9q0Mc"
-      },
-      "artists": [
-        {
-          "name": "Central Live",
-          "url": "https://open.spotify.com/artist/4wgCtJHJAspY8Pwr09Cgkn"
-        }
-      ],
-      "duration_ms": 350520,
-      "name": "Amen (The Lord's Prayer)",
-      "url": "https://open.spotify.com/track/5ZHTFwzhEpa1OJMyrpdGE7"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
         "name": "Authentic Love",
         "url": "https://open.spotify.com/album/7l6LQWt8V0gd2kKvGc8aT3"
       },
@@ -1047,6 +999,38 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
+        "name": "I See Heaven On Earth",
+        "url": "https://open.spotify.com/album/3irmMXTzkzVkctuv2mMJZz"
+      },
+      "artists": [
+        {
+          "name": "Jim Sonefeld",
+          "url": "https://open.spotify.com/artist/0KNodVzuH2zoT1tglc3C9k"
+        }
+      ],
+      "duration_ms": 239335,
+      "name": "I See Heaven On Earth",
+      "url": "https://open.spotify.com/track/6Np39XMxggFHRDG8OUMEab"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
+        "name": "Secrets",
+        "url": "https://open.spotify.com/album/2Wo9jqoYH9NfVqsdvp2Vgw"
+      },
+      "artists": [
+        {
+          "name": "Rachael Nemiroff",
+          "url": "https://open.spotify.com/artist/4w2fF5b9OiQBhh6Z34rL8t"
+        }
+      ],
+      "duration_ms": 226442,
+      "name": "Secrets",
+      "url": "https://open.spotify.com/track/4GcSp6MeitSVubtS27ykaw"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
         "name": "Who You Want Me To Be",
         "url": "https://open.spotify.com/album/2QX3GyZIXeWsJog7XwWV03"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 196746,
       "name": "Who You Want Me To Be",
       "url": "https://open.spotify.com/track/5VXVRtAzzsHT2KQbeOdnlz"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
+        "name": "Heaven's on the Move (Deluxe)",
+        "url": "https://open.spotify.com/album/5VLaZK1eadF5WEd2N9q0Mc"
+      },
+      "artists": [
+        {
+          "name": "Central Live",
+          "url": "https://open.spotify.com/artist/4wgCtJHJAspY8Pwr09Cgkn"
+        }
+      ],
+      "duration_ms": 350520,
+      "name": "Amen (The Lord's Prayer)",
+      "url": "https://open.spotify.com/track/5ZHTFwzhEpa1OJMyrpdGE7"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "Need You",
-        "url": "https://open.spotify.com/album/4xOxYOkrefDfXuOVenXPIl"
-      },
-      "artists": [
-        {
-          "name": "Caz",
-          "url": "https://open.spotify.com/artist/4BC0mFwxuHdoumvM6sxLDu"
-        }
-      ],
-      "duration_ms": 200931,
-      "name": "Need You",
-      "url": "https://open.spotify.com/track/1g1gGNiGpQ8Oc83C3W6Wuq"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
         "name": "Better View, Part II",
         "url": "https://open.spotify.com/album/6VJwdT4jWHtnhCtC7tzMNy"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 184393,
       "name": "Invited",
       "url": "https://open.spotify.com/track/4LHJUZCjDrjI7mQEbM48r3"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
+        "name": "Need You",
+        "url": "https://open.spotify.com/album/4xOxYOkrefDfXuOVenXPIl"
+      },
+      "artists": [
+        {
+          "name": "Caz",
+          "url": "https://open.spotify.com/artist/4BC0mFwxuHdoumvM6sxLDu"
+        }
+      ],
+      "duration_ms": 200931,
+      "name": "Need You",
+      "url": "https://open.spotify.com/track/1g1gGNiGpQ8Oc83C3W6Wuq"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "Beautiful Name",
-        "url": "https://open.spotify.com/album/0Hv5gNQ7XVnYjJDaHlqkYI"
-      },
-      "artists": [
-        {
-          "name": "Point Of Grace",
-          "url": "https://open.spotify.com/artist/5y1gFSVnE4DGxUxHeKrGk6"
-        }
-      ],
-      "duration_ms": 228253,
-      "name": "Rest In You",
-      "url": "https://open.spotify.com/track/7jtl5N8T1YFvVXkbNypLDL"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
         "name": "Breaking Boundaries",
         "url": "https://open.spotify.com/album/30TzQ0x522lnXuyPa3Jizb"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 243155,
       "name": "Breaking Boundaries",
       "url": "https://open.spotify.com/track/2vY0q9Qys4nbtXNre1VFxR"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
+        "name": "Beautiful Name",
+        "url": "https://open.spotify.com/album/0Hv5gNQ7XVnYjJDaHlqkYI"
+      },
+      "artists": [
+        {
+          "name": "Point Of Grace",
+          "url": "https://open.spotify.com/artist/5y1gFSVnE4DGxUxHeKrGk6"
+        }
+      ],
+      "duration_ms": 228253,
+      "name": "Rest In You",
+      "url": "https://open.spotify.com/track/7jtl5N8T1YFvVXkbNypLDL"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "The Greatest Discovery",
-        "url": "https://open.spotify.com/album/4sL4lTlL4SJqho15bwT2LK"
-      },
-      "artists": [
-        {
-          "name": "Sarah Hawkyard",
-          "url": "https://open.spotify.com/artist/3CgmDph153yB1nP3meLZkr"
-        }
-      ],
-      "duration_ms": 257670,
-      "name": "I Now Have Purpose",
-      "url": "https://open.spotify.com/track/0wOfICh5Zv8w1tB78ro0rp"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
         "name": "King of Love",
         "url": "https://open.spotify.com/album/4MQY7rqK8vJK6wLiDuQb74"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 232000,
       "name": "King of Love",
       "url": "https://open.spotify.com/track/5shWIh3eSLiACdpeN9zWJe"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
+        "name": "The Greatest Discovery",
+        "url": "https://open.spotify.com/album/4sL4lTlL4SJqho15bwT2LK"
+      },
+      "artists": [
+        {
+          "name": "Sarah Hawkyard",
+          "url": "https://open.spotify.com/artist/3CgmDph153yB1nP3meLZkr"
+        }
+      ],
+      "duration_ms": 257670,
+      "name": "I Now Have Purpose",
+      "url": "https://open.spotify.com/track/0wOfICh5Zv8w1tB78ro0rp"
     },
     {
       "added_at": "2022-05-27 18:07:44",

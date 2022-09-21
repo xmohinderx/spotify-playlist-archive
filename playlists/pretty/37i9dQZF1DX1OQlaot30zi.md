@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Night Skinny, Rkomi, Paky, Lazza, Ghali etc\. etc\. etc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,463 likes - 73 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,478 likes - 73 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 21 | [Respiro \(ti ricordi di noi?\)](https://open.spotify.com/track/3FwarDyrUu4WLErrK7ZrIs) | [DOXX](https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr) | [Respiro \(ti ricordi di noi?\)](https://open.spotify.com/album/5RWA7IvGTu9KsuW4eEL7Op) | 2:16 |
 | 22 | [6AM](https://open.spotify.com/track/6Fs8133FRPVHqHt3ltIkU8) | [Kkrisna](https://open.spotify.com/artist/6mOW02ZcgtNJSF5jP8eqmf) | [6AM](https://open.spotify.com/album/6XKdFOomRus3J1zDB3o69C) | 3:27 |
 | 23 | [Non pensare](https://open.spotify.com/track/59sih44JSBBUF7epzzj8Rr) | [Half](https://open.spotify.com/artist/2kJMfHqGPuXlLdwzKrdPOO) | [Non pensare](https://open.spotify.com/album/730ATuSrkZBsWSLP45sYOZ) | 2:27 |
-| 24 | [Oh Mama](https://open.spotify.com/track/67MqI4NtV2GJn7dSrrDN4I) | [STT](https://open.spotify.com/artist/6c60C0NWReBTcF3GPLvjYY) | [Oh Mama](https://open.spotify.com/album/1exRezhpYi7BrEKsyJQUsn) | 2:46 |
+| 24 | [Oh Mama](https://open.spotify.com/track/67MqI4NtV2GJn7dSrrDN4I) | [STT](https://open.spotify.com/artist/6c60C0NWReBTcF3GPLvjYY), [Julian Ross](https://open.spotify.com/artist/1zS6KfVgteM7pt8GvkNyKR) | [Oh Mama](https://open.spotify.com/album/1exRezhpYi7BrEKsyJQUsn) | 2:46 |
 | 25 | [Coki \(con Tony Effe, Noyz Narcos, Ketama126 & Guè\)](https://open.spotify.com/track/19MTV4slq11KeCGoF7RQZ6) | [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY), [Ketama126](https://open.spotify.com/artist/0pSx3asj3usz5PRt8COo0E), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Botox](https://open.spotify.com/album/1CjtjrWyjx2eT5OejciTVr) | 3:53 |
 | 26 | [Venticinquesimo piano](https://open.spotify.com/track/5DlgjkIUojjo1fzCcwsgEL) | [Sailas](https://open.spotify.com/artist/4t8cHQudZ30teudqXp4IQw), [Peripezie](https://open.spotify.com/artist/5d5CRw67pU1hNJDnbPwGHt) | [Venticinquesimo piano](https://open.spotify.com/album/6HLXfMVh3ugt39JgmFeXsg) | 3:34 |
 | 27 | [Lamentele](https://open.spotify.com/track/7mumSxHdLAbjowCBWTgmrw) | [Keir](https://open.spotify.com/artist/3mf1OQi0M2B6xuyglx2HWV) | [Lamentele](https://open.spotify.com/album/08PeZgV4CJYYZB6HcF4nXE) | 3:00 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 56 | [STREET](https://open.spotify.com/track/4JoZl7cZ4qMw1P5zaXlElQ) | [Reed](https://open.spotify.com/artist/4eFBfxE5UExIHvWamPhByA) | [STREET](https://open.spotify.com/album/5mDeq9OODoD9x8GXATx3i8) | 2:35 |
 | 57 | [BONOLA BISS](https://open.spotify.com/track/1HVg50myI8gqFKn7JJTL2d) | [Favelas JFlous](https://open.spotify.com/artist/0NYaoz0lPdCsWJAdZyj211), [Inoki](https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF) | [BONOLA BISS](https://open.spotify.com/album/72XeVvkWrSXDabIFTgM66w) | 2:43 |
 | 58 | [NON VOLEVO](https://open.spotify.com/track/1uhpABS64K2CJWHDQ8PwEA) | [Gori](https://open.spotify.com/artist/2nQiKqJ7JSLdfMcgTjJn4k) | [NON VOLEVO](https://open.spotify.com/album/04kxH6XGjmIgniGeJgNadV) | 2:26 |
-| 59 | [Dawg](https://open.spotify.com/track/59BWRUiUYhNxv7y8Ji6pXA) | [STT](https://open.spotify.com/artist/6c60C0NWReBTcF3GPLvjYY) | [Dawg](https://open.spotify.com/album/3ungEzXZWgpVqIpfONaecE) | 2:28 |
+| 59 | [Dawg](https://open.spotify.com/track/59BWRUiUYhNxv7y8Ji6pXA) | [STT](https://open.spotify.com/artist/6c60C0NWReBTcF3GPLvjYY), [Julian Ross](https://open.spotify.com/artist/1zS6KfVgteM7pt8GvkNyKR) | [Dawg](https://open.spotify.com/album/3ungEzXZWgpVqIpfONaecE) | 2:28 |
 | 60 | [Fatturato meno](https://open.spotify.com/track/0weRnzGIHBAW14Io7JQPgV) | [Klefyl](https://open.spotify.com/artist/25AgQztGa6R0pjdOu1guC0), [DoR3](https://open.spotify.com/artist/61mWNBVoS65Mie7IOwtTTt), [A.L](https://open.spotify.com/artist/2RhurHFRQAWeewa5ZQbiIY) | [Fatturato meno](https://open.spotify.com/album/4WKnxRL5xG1R0Ogz8T1KbQ) | 2:01 |
 | 61 | [Damn albarn](https://open.spotify.com/track/0zfiMr2NKxBwuRvsknagFu) | [Aleaka](https://open.spotify.com/artist/63sB40l1dT9CV5vXu1E7q1), [Jack The Smoker](https://open.spotify.com/artist/0vZAzVAFQL1gKLBPfnXMaS) | [The almighty birds](https://open.spotify.com/album/79aApijDu3waJhvArpfpR2) | 1:36 |
 | 62 | [BEVERLY](https://open.spotify.com/track/33nyVdbqYNoRymnGv8R0ht) | [LA PLATA](https://open.spotify.com/artist/2Hb9O6tBkCp1zVmq1vR3KQ), [Silnyya](https://open.spotify.com/artist/0MTV1wG5r8M1hTexjolpA5) | [BEVERLY](https://open.spotify.com/album/0Pc4M6KqlXzvn18fhgqnzj) | 3:32 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7zd1uDsK3tZ.md) - [plain]
 
 > Timeless tunes served over easy for all your brunching needs!
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,853 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,932 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,16 +33,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7zd1uDsK3tZ.md) - [plain]
 | 23 | [Me and Julio Down by the Schoolyard](https://open.spotify.com/track/6vxHp3CDNo0afgKGp2yi1E) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Paul Simon](https://open.spotify.com/album/7npBPiCHjPj8PVIGPuHXep) | 2:44 |
 | 24 | [Gypsy](https://open.spotify.com/track/19Ym5Sg0YyOCa6ao21bdoG) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Greatest Hits](https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz) | 4:24 |
 | 25 | [Fire and Rain \- 2019 Remaster](https://open.spotify.com/track/1oht5GevPN9t1T3kG1m1GO) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Sweet Baby James \(2019 Remaster\)](https://open.spotify.com/album/1HiG0ukRmFPN13EVcf98Jx) | 3:23 |
-| 26 | [\(Your Love Keeps Lifting Me\) Higher & Higher](https://open.spotify.com/track/5qyq1H5OPMlfuvZQ1wQNo7) | [Jackie Wilson](https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju) | [Higher And Higher](https://open.spotify.com/album/4OgYmImCWz3VK7At9GTWHN) | 2:59 |
-| 27 | [Sunrise](https://open.spotify.com/track/7zkLpY72g6lKQbiHDqri1S) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Feels Like Home](https://open.spotify.com/album/7GaAXgbFSpcJOiLlFGYyOL) | 3:20 |
+| 26 | [Sunrise](https://open.spotify.com/track/7zkLpY72g6lKQbiHDqri1S) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Feels Like Home](https://open.spotify.com/album/7GaAXgbFSpcJOiLlFGYyOL) | 3:20 |
+| 27 | [\(Your Love Keeps Lifting Me\) Higher & Higher](https://open.spotify.com/track/5qyq1H5OPMlfuvZQ1wQNo7) | [Jackie Wilson](https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju) | [Higher And Higher](https://open.spotify.com/album/4OgYmImCWz3VK7At9GTWHN) | 2:59 |
 | 28 | [Sir Duke](https://open.spotify.com/track/4pNiE4LCVV74vfIBaUHm1b) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Songs In The Key Of Life](https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0) | 3:52 |
 | 29 | [It Ain't Over 'Til It's Over](https://open.spotify.com/track/6VnpKLtfNH4Dk09YSGPSyR) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Mama Said](https://open.spotify.com/album/7A3LlV59lh4KljWa7I6Tks) | 4:02 |
 | 30 | [The Boxer](https://open.spotify.com/track/76TZCvJ8GitQ2FA1q5dKu0) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bridge Over Troubled Water](https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV) | 5:08 |
 | 31 | [Love Train](https://open.spotify.com/track/28285KFbyCq8sJofn58qlD) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Back Stabbers](https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX) | 2:58 |
 | 32 | [What You Won't Do for Love](https://open.spotify.com/track/6Dk5fHTvH897XrVzCO64Mx) | [Bobby Caldwell](https://open.spotify.com/artist/4V4Z3qMCwYofWHtip6ePF6) | [What You Won't Do for Love](https://open.spotify.com/album/4pBJRxtR5TQe8hfsUgZ1r2) | 4:46 |
 | 33 | [Cowboy Take Me Away](https://open.spotify.com/track/3rXCZRMiMZp0feGcYXpwYX) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Fly](https://open.spotify.com/album/3y6G5El2I6QrJA9BdfAbqA) | 4:47 |
-| 34 | [I Can See Clearly Now \- Edit](https://open.spotify.com/track/0DcrhZ12WcCqruCs8ibXSf) | [Johnny Nash](https://open.spotify.com/artist/0nAVvgfE9yI4DwvMiYwk8a) | [I Can See Clearly Now](https://open.spotify.com/album/2ZdUVurLZBrEphCLzX7MdU) | 2:44 |
-| 35 | [Cold Little Heart \- Radio Edit](https://open.spotify.com/track/7KX65PC1UZuImsUInThbav) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Cold Little Heart \(Radio Edit\)](https://open.spotify.com/album/55A6d8TOuiAs6zDiKj2c3A) | 3:30 |
+| 34 | [Cold Little Heart \- Radio Edit](https://open.spotify.com/track/7KX65PC1UZuImsUInThbav) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Cold Little Heart \(Radio Edit\)](https://open.spotify.com/album/55A6d8TOuiAs6zDiKj2c3A) | 3:30 |
+| 35 | [I Can See Clearly Now \- Edit](https://open.spotify.com/track/0DcrhZ12WcCqruCs8ibXSf) | [Johnny Nash](https://open.spotify.com/artist/0nAVvgfE9yI4DwvMiYwk8a) | [I Can See Clearly Now](https://open.spotify.com/album/2ZdUVurLZBrEphCLzX7MdU) | 2:44 |
 | 36 | [I'll Take You There](https://open.spotify.com/track/5YLnfy7R2kueN0BRPkjiEG) | [The Staple Singers](https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC) | [The Very Best Of The Staple Singers](https://open.spotify.com/album/7tUOJxXojOWdWU2T2ZSge7) | 3:16 |
 | 37 | [Coming Home](https://open.spotify.com/track/65GbQI9VDTs7vo6MJL2iJA) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Coming Home \(Deluxe\)](https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv) | 3:26 |
 | 38 | [\(What A\) Wonderful World](https://open.spotify.com/track/2g2GkH3vZHk4lWzBjgQ6nY) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [The Man Who Invented Soul](https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY) | 2:05 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7zd1uDsK3tZ.md) - [plain]
 | 83 | [All I Do](https://open.spotify.com/track/0k3fBeBIcok5gbYQyQbxP5) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Hotter Than July](https://open.spotify.com/album/1ZuQduJGh0lBynUsfzD1tH) | 5:06 |
 | 84 | [Angel Of The Morning](https://open.spotify.com/track/6NVB6W7G3svCKe5zB7kY8q) | [Juice Newton](https://open.spotify.com/artist/4L1z1IcfK7lbqx8izGHaw5) | [Juice Newton's Greatest Hits](https://open.spotify.com/album/0fSvQOkU8rRgcsW6MerdVw) | 4:14 |
 | 85 | [Don't Dream It's Over \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/4PFnROqBlAVnizUrhF1x7C) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Spotify Singles](https://open.spotify.com/album/7txW0oEFE7Cxj1OPROdRvq) | 4:33 |
-| 86 | [Lady Day and John Coltrane](https://open.spotify.com/track/7aLn70gMnbTCVGoIro42Kd) | [Gil Scott\-Heron](https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU) | [Pieces of a Man](https://open.spotify.com/album/3Iny1eqJMoqU1I1UoUbVQl) | 3:36 |
-| 87 | [Ahead By A Century](https://open.spotify.com/track/2SVEOxPGB8Z8WikO4DppNA) | [The Tragically Hip](https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0) | [Trouble At The Henhouse](https://open.spotify.com/album/5mMBYPBUI6jHW40ASk1ekn) | 3:43 |
+| 86 | [Ahead By A Century](https://open.spotify.com/track/2SVEOxPGB8Z8WikO4DppNA) | [The Tragically Hip](https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0) | [Trouble At The Henhouse](https://open.spotify.com/album/5mMBYPBUI6jHW40ASk1ekn) | 3:43 |
+| 87 | [Lady Day and John Coltrane](https://open.spotify.com/track/7aLn70gMnbTCVGoIro42Kd) | [Gil Scott\-Heron](https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU) | [Pieces of a Man](https://open.spotify.com/album/3Iny1eqJMoqU1I1UoUbVQl) | 3:36 |
 | 88 | [Summer Breeze, Pts\. 1 & 2](https://open.spotify.com/track/7wcP2Aa2SliFhwi4SyfvfV) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [3+3](https://open.spotify.com/album/27eI33obJuyKebMTxAJJam) | 6:11 |
 | 89 | [America](https://open.spotify.com/track/228IDYsx1EAHiuh9xLktmj) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [America](https://open.spotify.com/album/1LbsN7ZwjjnafolKPbnDZK) | 3:38 |
 | 90 | [My Life](https://open.spotify.com/track/6Ep2XErOa5SCBGzARBpCr4) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Essential Billy Joel](https://open.spotify.com/album/7r36rel1M4gyBavfcJP6Yz) | 4:41 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7zd1uDsK3tZ.md) - [plain]
 | 99 | [Rock Your Baby](https://open.spotify.com/track/16KwF7IrKHTVTitUKH58g3) | [George McCrae](https://open.spotify.com/artist/6oV3BNm1Gj2GGgpYknc5TN) | [George McCrae \- Disco Pioneer](https://open.spotify.com/album/3qJGzbhk63pzwqzpTr0bxt) | 3:20 |
 | 100 | [You Don't Know Me \(feat\. Regina Spektor\)](https://open.spotify.com/track/1rihwqlxLr1kL7zg5193FF) | [Ben Folds](https://open.spotify.com/artist/55tif8708yyDQlSjh3Trdu), [Regina Spektor](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) | [Way To Normal](https://open.spotify.com/album/3V8q5Mi44jT2wvKyaMVM3x) | 3:09 |
 
-Snapshot ID: `MTY2MDYyMjQwMCwwMDAwMDAwMGNhNmQxNzlkZWM4NDJlZTFhZDdlZGU4NzM2YmMwODA1`
+Snapshot ID: `MTY2MDYyMjQwMCwwMDAwMDAwMDJhYmZiMzk3ODdmMjVkMDhiMjhiZmVjZDMyNzU1YmE3`

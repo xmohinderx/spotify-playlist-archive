@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 
 > The freshest smooth jazz\. Cover: Nick Colionne
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,020 likes - 50 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,052 likes - 50 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,9 +33,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 | 23 | [G\-Wiggle](https://open.spotify.com/track/4HjRmQiDLMQ1VQcVQuuh3d) | [Gerald Albright](https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp) | [G\-Stream 2\-Turn It Up](https://open.spotify.com/album/69dx6W2l6wJdcvRYhFDlt8) | 4:30 |
 | 24 | [Weekend Groove](https://open.spotify.com/track/6v8AwEkXA8IvgVz00otrNT) | [Jesse Thompson](https://open.spotify.com/artist/6gaTtx4sTEvLIX01paATf5), [Althea Rene](https://open.spotify.com/artist/5FnGUGAaOtAqnk6Zxn6nFY) | [The Inauguration of Jtjazz \(Jesse Thompson the Man Behind the Keys\)](https://open.spotify.com/album/6fBZT07tMHRqSCNYwPJE3a) | 4:53 |
 | 25 | [Catalina Nights](https://open.spotify.com/track/1P0QSIHqHQVMQXsm7zX1c6) | [Braxton Brothers](https://open.spotify.com/artist/6nkylX7POzzqZ44nSYH2hw) | [Catalina Nights](https://open.spotify.com/album/0qAGgRZUQlLzmIHww3hz97) | 4:04 |
-| 26 | [Stride](https://open.spotify.com/track/67WJeEof1aydWU9S7CyRVg) | [Eric Essix](https://open.spotify.com/artist/4wvpXjRsX6L8NJMbx996yp) | [Stride](https://open.spotify.com/album/4G0oTjBaePASiWKmPPvhkF) | 4:14 |
-| 27 | [Relentless](https://open.spotify.com/track/3S7QaZDPqc14xWObHGVfyk) | [Blair Bryant](https://open.spotify.com/artist/1bNvtqK9g0M2hDWRLdwpZq) | [Red Tiger](https://open.spotify.com/album/2jYih8CJwo4nzuzy5aokwV) | 4:09 |
-| 28 | [Savoir Faire](https://open.spotify.com/track/1TOR7FOoECmAgHgFvyzM6i) | [Najee](https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3) | [Savoir Faire](https://open.spotify.com/album/4LHZJCWjESiatRHwjjNlGp) | 5:18 |
+| 26 | [Savoir Faire](https://open.spotify.com/track/1TOR7FOoECmAgHgFvyzM6i) | [Najee](https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3) | [Savoir Faire](https://open.spotify.com/album/4LHZJCWjESiatRHwjjNlGp) | 5:18 |
+| 27 | [Stride](https://open.spotify.com/track/67WJeEof1aydWU9S7CyRVg) | [Eric Essix](https://open.spotify.com/artist/4wvpXjRsX6L8NJMbx996yp) | [Stride](https://open.spotify.com/album/4G0oTjBaePASiWKmPPvhkF) | 4:14 |
+| 28 | [Relentless](https://open.spotify.com/track/3S7QaZDPqc14xWObHGVfyk) | [Blair Bryant](https://open.spotify.com/artist/1bNvtqK9g0M2hDWRLdwpZq) | [Red Tiger](https://open.spotify.com/album/2jYih8CJwo4nzuzy5aokwV) | 4:09 |
 | 29 | [Summertime in Nyc \(Instrumental Mix\)](https://open.spotify.com/track/2noLzEHQMcnY5IPSfAruFZ) | [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm) | [Summertime in Nyc \(Instrumental Mix\)](https://open.spotify.com/album/6Npy31tIY5yvCpV77agfU0) | 3:30 |
 | 30 | [Making Love To You](https://open.spotify.com/track/76M4Z7niotejRyHwsFnEvh) | [Rocco Ventrella](https://open.spotify.com/artist/6X06HdPkKhybx6Q0FKESFJ), [Andrea Razzauti](https://open.spotify.com/artist/37JnRNxKxXJzBZ8Yo7itp1) | [Making Love To You](https://open.spotify.com/album/6BTMbPWNBqjkTzOczj8Kj7) | 4:45 |
 | 31 | [Drive](https://open.spotify.com/track/5X2j0GGlmibh2OK99qRzGO) | [Cindy Bradley](https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J) | [Drive](https://open.spotify.com/album/2Xx94sKdbpy6vb55fho0QD) | 4:21 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 | 42 | [Forever](https://open.spotify.com/track/3etLxAosogqfbvsLyBh58S) | [Mindi Abair](https://open.spotify.com/artist/4NpYuUHLxUMcGSzuYxv3W4) | [Forever](https://open.spotify.com/album/6LvqB0xOeML6cyQdw33y1O) | 5:16 |
 | 43 | [Pioneer Town](https://open.spotify.com/track/53djpTONT01aF8xYjuLosr) | [David Benoit](https://open.spotify.com/artist/1OLWM7nUNcTjZ9ct4DEPZu) | [A Midnight Rendezvous](https://open.spotify.com/album/3up7BY3W1z8pMNipUQOl7x) | 3:57 |
 | 44 | [Ticket to Pittsburgh](https://open.spotify.com/track/108rbeIEFrj81JWNXXWsX4) | [David Garfield](https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb), [Paul Jackson, Jr.](https://open.spotify.com/artist/2OeN0JVfTWYog354hHhQ2S), [Eric Marienthal](https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK) | [Ticket to Pittsburgh](https://open.spotify.com/album/3OTI2McvDpATafqL7qxUq7) | 5:23 |
-| 45 | [Run Through the Urban City](https://open.spotify.com/track/5gOXsqoOraGd2mqEMj0LIw) | [Rei Narita](https://open.spotify.com/artist/6zdbvCBN9A5Avpp6zzfhO2), [Nelson Rangell](https://open.spotify.com/artist/5lFAGKb5mvPQX9on6lKC88), [Omar Hakim](https://open.spotify.com/artist/6jJcdCcI6czvcCnM1D1lWg) | [Run Through the Urban City](https://open.spotify.com/album/7B39cVgoZPPFhMacdWCLuJ) | 6:09 |
-| 46 | [Hello Beautiful \- radio single](https://open.spotify.com/track/2uhzjs4LLyyQdhCbYWFyFp) | [Blair Bryant](https://open.spotify.com/artist/1bNvtqK9g0M2hDWRLdwpZq) | [Hello Beautiful](https://open.spotify.com/album/1NXp9ZbxAhtxyMrnIV7PoM) | 4:28 |
+| 45 | [Hello Beautiful \- radio single](https://open.spotify.com/track/2uhzjs4LLyyQdhCbYWFyFp) | [Blair Bryant](https://open.spotify.com/artist/1bNvtqK9g0M2hDWRLdwpZq) | [Hello Beautiful](https://open.spotify.com/album/1NXp9ZbxAhtxyMrnIV7PoM) | 4:28 |
+| 46 | [Run Through the Urban City](https://open.spotify.com/track/5gOXsqoOraGd2mqEMj0LIw) | [Rei Narita](https://open.spotify.com/artist/6zdbvCBN9A5Avpp6zzfhO2), [Nelson Rangell](https://open.spotify.com/artist/5lFAGKb5mvPQX9on6lKC88), [Omar Hakim](https://open.spotify.com/artist/6jJcdCcI6czvcCnM1D1lWg) | [Run Through the Urban City](https://open.spotify.com/album/7B39cVgoZPPFhMacdWCLuJ) | 6:09 |
 | 47 | [Fika Talk](https://open.spotify.com/track/6QZdkQEGmJp4LTpLCIf80U) | [WaKaNa](https://open.spotify.com/artist/707I9mm4dUetOtYJpqrTQ6), [Jonathan Fritzén](https://open.spotify.com/artist/5CYmlWkTi0RV4UxgREp6fM) | [A Sunny Day](https://open.spotify.com/album/2zboDFwCox3Ust1NUbTDrA) | 4:15 |
 | 48 | [Chicago Morning](https://open.spotify.com/track/2E6pU3PbdItkREHN9IYCJb) | [Spontaneous Groovin' Combustion](https://open.spotify.com/artist/48jWgkXNkHqn6SVQZniYe5) | [Chicago Morning](https://open.spotify.com/album/32yiS9sXWBCJvOvCLU276N) | 4:20 |
 | 49 | [Busta Move](https://open.spotify.com/track/4SHv5Chn9bYy55YtUzwmqF) | [Julian Vaughn](https://open.spotify.com/artist/6NS4Qt4ISw27NC9tIN9jgg), [Steve Cole](https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb) | [SOLO](https://open.spotify.com/album/0MurAaGHilyDEL78yDIYGA) | 4:34 |
-| 50 | [Honest](https://open.spotify.com/track/3GJ5EcLudl4JrUld9sfD7o) | [Ryan Montano](https://open.spotify.com/artist/60c1zWUz1UhsnemRwziySF) | [Honest](https://open.spotify.com/album/4masdetfPsUOpFF2yJ7EVB) | 6:14 |
+| 50 | [I Wanna Be Down](https://open.spotify.com/track/4cxZb1OMmlLdGoZYTJegDL) | [Nathan Allen](https://open.spotify.com/artist/6IRnIHHQ6Fj5bEsGkHH2Ce) | [I Wanna Be Down](https://open.spotify.com/album/1yaQNIXtz4BhOMzwKBS5IQ) | 4:54 |
 
-Snapshot ID: `MTY2MzMwMDg2MCwwMDAwMDAwMGJhYWE2Zjk3ZDgxMDU0ZWU3YWJjYjliYjNjMTdkNDdh`
+Snapshot ID: `MTY2MzMwMDg2MCwwMDAwMDAwMDZiYWQwNTIwZWEwMDk1Y2ExMjRkZjI2MTkxOWY1YTUz`

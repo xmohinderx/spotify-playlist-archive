@@ -3873,7 +3873,7 @@
       ],
       "date_added": "2022-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 117146,
       "name": "Champion Belt",
       "url": "https://open.spotify.com/track/5Ya5fmH03ZUzpW56N3j3Wb"
@@ -7523,7 +7523,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 169091,
       "name": "GOTT (Feat. MOON & Woo & Jvcki Wai)",
       "url": "https://open.spotify.com/track/2d7cl6sY3LnfnStaq6jyS5"
@@ -12767,7 +12767,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-16",
+      "date_removed": null,
       "duration_ms": 185460,
       "name": "NO TIME",
       "url": "https://open.spotify.com/track/5Gk91Q0KYwC5pycyOn01sQ"
@@ -18797,6 +18797,36 @@
       "duration_ms": 183608,
       "name": "Trouble Child (Full Ver.) (Full Version)",
       "url": "https://open.spotify.com/track/4hru8jF2LrRpPaLri7fOAz"
+    },
+    {
+      "album": {
+        "name": "TTFU",
+        "url": "https://open.spotify.com/album/5K6d8lB7dP9CNXv9LPR1nN"
+      },
+      "artists": [
+        {
+          "name": "Simon Dominic",
+          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
+        },
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "Woo",
+          "url": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02"
+        },
+        {
+          "name": "Coogie",
+          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220426,
+      "name": "TTFU",
+      "url": "https://open.spotify.com/track/2Ijm5CQ4Y24lS0Zi7oK6hj"
     },
     {
       "album": {

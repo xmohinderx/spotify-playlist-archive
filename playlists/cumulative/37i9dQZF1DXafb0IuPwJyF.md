@@ -4,7 +4,7 @@
 
 > The Hottest Hits in Japan right now\. 日本のポップシーンを彩る最新ベスト50。毎週月曜日更新。Cover:ちゃんみな
 
-467 songs - 1 day 5 hr 13 min - [published](https://open.spotify.com/playlist/2sQ5Fh8iNKxcYtrG1CztwE)
+468 songs - 1 day 5 hr 17 min - [published](https://open.spotify.com/playlist/2sQ5Fh8iNKxcYtrG1CztwE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,7 +132,7 @@
 | [MELODY \(prod.by BREIMEN\)](https://open.spotify.com/track/5ExfTiWAHvxG03Kq9zrjBn) | [Akihito Okano](https://open.spotify.com/artist/1ioDAlx6i5snCxm2z9ZnUD), [井口理](https://open.spotify.com/artist/573aEcIHzIyX9guZtasykj) | [MELODY \(prod.by BREIMEN\)](https://open.spotify.com/album/6l85wjdD63ne29466jIuOV) | 4:05 | 2022-05-15 | 2022-06-28 |
 | [melt bitter](https://open.spotify.com/track/6uSe3ACORUIVrAyiP84RZi) | [satomoka](https://open.spotify.com/artist/0yFTQM79Y12E6J6aOPRoZg) | [melt bitter](https://open.spotify.com/album/6HtIYzXgZyoTc5QczqYZiI) | 5:09 | 2022-06-12 | 2022-07-25 |
 | [MEMORIES](https://open.spotify.com/track/3NfKXjvzsP17Tra55CffOO) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [X](https://open.spotify.com/album/16Bd2ZNChy3Emmy1Vmdo0e) | 3:25 | 2022-08-28 | 2022-09-05 |
-| [Message](https://open.spotify.com/track/3r1eh0G1uNiCvjClCCmLvb) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [BE:1](https://open.spotify.com/album/3bzgtBdR3ljgLUxFTBfCmU) | 3:23 | 2022-09-01 |  |
+| [Message](https://open.spotify.com/track/3r1eh0G1uNiCvjClCCmLvb) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [BE:1](https://open.spotify.com/album/3bzgtBdR3ljgLUxFTBfCmU) | 3:23 | 2022-09-01 | 2022-09-21 |
 | [Midnight Pretenders \(feat\. ひかり\)](https://open.spotify.com/track/5fHDSR4DixHSS93sPW1tWL) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc) | [Midnight Pretenders \(feat\. ひかり\)](https://open.spotify.com/album/7iKiMZAlyXjlC3HGP9DKnI) | 5:47 | 2022-02-20 | 2022-03-07 |
 | [MIU](https://open.spotify.com/track/1qPp3HgkZDNKXcgSMHlYjc) | [中村佳穂](https://open.spotify.com/artist/0illCOhPkFBykngmCWos6u) | [MIU](https://open.spotify.com/album/61FMY9vYheCQCzwx2SgExu) | 3:40 | 2022-03-06 | 2022-03-21 |
 | [Mixed Nuts](https://open.spotify.com/track/3RFL9hE5cBocBsjD5XLJLQ) | [Official HIGE DANdism](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Mixed Nuts](https://open.spotify.com/album/2PN9UPqCKmZgXNtZPJtsc4) | 3:33 | 2022-07-25 | 2022-09-12 |
@@ -154,6 +154,7 @@
 | [One Way feat\. YONCE](https://open.spotify.com/track/4MurygBmG61XN24T1VbQQy) | [Ryohu](https://open.spotify.com/artist/0qQOHfWvRf8O1wXYXMmV6U), [YONCE](https://open.spotify.com/artist/5k2q1zqe89zMofacOpysHf) | [One Way feat\. YONCE](https://open.spotify.com/album/7lIJNVESbT9N8qWr0INc97) | 3:29 | 2022-04-10 | 2022-06-13 |
 | [OOPARTS](https://open.spotify.com/track/3HcJcQMiELuw62Y8bigYC8) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [OOPARTS](https://open.spotify.com/album/0JVNFe0D5yp5QP28yoCCxb) | 5:06 | 2022-04-10 | 2022-04-18 |
 | [Othello](https://open.spotify.com/track/4TAnJMwy3dFjRMyYsvQ9Fh) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Othello](https://open.spotify.com/album/3i2MhTc7yo7UNtpSSP3Lzp) | 4:29 | 2022-08-07 | 2022-08-22 |
+| [Overdose](https://open.spotify.com/track/2Dzzhb1oV5ckgOjWZLraIB) | [なとり](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [Overdose](https://open.spotify.com/album/1ieXthJ9zXRWqTU8ROAeJa) | 3:17 | 2022-09-20 |  |
 | [Oz.](https://open.spotify.com/track/2VRcLEvQCMByWBuvM9gaJ2) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [Oz.](https://open.spotify.com/album/7C3ayPvTdGuzNCUZL7wLNQ) | 3:14 | 2021-12-19 | 2022-02-07 |
 | [O・La](https://open.spotify.com/track/0fG9lay0PuGHNFiAqsOVKO) | [chelmico](https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV) | [O・La](https://open.spotify.com/album/3O8XfocJyV7jqHH32cfNaO) | 4:04 | 2022-05-22 | 2022-05-30 |
 | [Pale Rain](https://open.spotify.com/track/6YYC9PEH4T4rLTo5EcHgyF) | [imase with PUNPEE & Toby Fox](https://open.spotify.com/artist/0yiiGLiANIkpsBL3gvtqcC), [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27), [PUNPEE](https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6), [Toby Fox](https://open.spotify.com/artist/57DlMWmbVIf2ssJ8QBpBau) | [Pale Rain](https://open.spotify.com/album/1LtevBef4ZzFe4wYMpRHBm) | 3:41 | 2022-04-10 | 2022-04-16 |

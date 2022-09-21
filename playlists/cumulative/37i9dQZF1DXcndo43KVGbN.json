@@ -628,6 +628,28 @@
     },
     {
       "album": {
+        "name": "Hydration",
+        "url": "https://open.spotify.com/album/1ioJSaISDIC2U2ORPHCzQ8"
+      },
+      "artists": [
+        {
+          "name": "Tenka",
+          "url": "https://open.spotify.com/artist/2B1vFfrtORGBQQdIKAckkw"
+        },
+        {
+          "name": "Meitei",
+          "url": "https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 516051,
+      "name": "Diverse Aesthetics",
+      "url": "https://open.spotify.com/track/5DWmgX0OEBkKOsuSpYw27X"
+    },
+    {
+      "album": {
         "name": "Violet Opposition",
         "url": "https://open.spotify.com/album/6zV9NA0YcqrZbcicuxbVtS"
       },
@@ -1579,6 +1601,24 @@
       "duration_ms": 177520,
       "name": "Siblings",
       "url": "https://open.spotify.com/track/3ExkbOfWgrL78xCyTOTeJT"
+    },
+    {
+      "album": {
+        "name": "From The Bottom",
+        "url": "https://open.spotify.com/album/1G8AOgllFttdD9FXioRU2j"
+      },
+      "artists": [
+        {
+          "name": "Rhucle",
+          "url": "https://open.spotify.com/artist/0y0cl3t1UlQf0730g7Zjkl"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276363,
+      "name": "Skyer",
+      "url": "https://open.spotify.com/track/1qW7P4iqULHpZuoTzcWB71"
     },
     {
       "album": {

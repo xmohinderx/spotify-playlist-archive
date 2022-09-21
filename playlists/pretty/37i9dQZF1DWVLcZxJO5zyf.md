@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLcZxJO5zyf.md) - [plain]
 
 > Ouça os hits do momento do pop BR! Foto: IZA
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,403,902 likes - 51 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,404,130 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,6 +58,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLcZxJO5zyf.md) - [plain]
 | 48 | [MODO TURBO](https://open.spotify.com/track/0YqTL3nSL36OFdHwHoqCag) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [MODO TURBO](https://open.spotify.com/album/07PF9SyKuu6hstifHc0nEt) | 2:30 |
 | 49 | [Medley Lud Session \- Modo Avião / A Tua Voz / 700 Por Hora / Radar / A Música Mais Triste do Ano](https://open.spotify.com/track/7HYdckQd1guaSYVwMQ3SFL) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Medley Lud Session \- Modo Avião / A Tua Voz / 700 Por Hora / Radar / A Música Mais Triste do Ano](https://open.spotify.com/album/0zaigYjLBnB3JcrUwZEfNV) | 9:19 |
 | 50 | [Rainha da Favela](https://open.spotify.com/track/3vu864xi5Xis9VfOsJpmXu) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Rainha da Favela](https://open.spotify.com/album/6GbNAks50cyJFMDhiMdVj8) | 2:40 |
-| 51 | [Vixe \(Ao Vivo na Prainha da Claudinha\)](https://open.spotify.com/track/6QIsQQa0iOiHXsT507DsXk) | [Claudia Leitte](https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp), [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1) | [Prainha da Claudinha \(Ao Vivo\)](https://open.spotify.com/album/5L7cyBdm7XIXby9rdJk025) | 3:17 |
 
-Snapshot ID: `MTY2MjY5MjQwMCwwMDAwMDAwMGM0OGNmODhmMDkzMGFhZDllMjZlOTI4YTkwYWNjNjRi`
+Snapshot ID: `MTY2MzY5NDc2NCwwMDAwMDAwMGE1NTM1MTEyMWMwNTA1MGRkZGIzYzMxNGM5YjYzYjgz`

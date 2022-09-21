@@ -4,7 +4,7 @@
 
 > A new gen of bands gazing at their pedals, while soaring celestially\-high\. Trementina on cover!
 
-196 songs - 13 hr 41 min - [published](https://open.spotify.com/playlist/7khBi2LhuBeMPgT1Gz4AOk)
+198 songs - 13 hr 48 min - [published](https://open.spotify.com/playlist/7khBi2LhuBeMPgT1Gz4AOk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [23](https://open.spotify.com/track/4h9pwQbHEz9HSGeOE8UMf4) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [23](https://open.spotify.com/album/7iOloZrq72k9GsuJUUo1pO) | 5:18 | 2021-10-19 | 2022-07-29 |
 | [A Heavy Abacus](https://open.spotify.com/track/18bMfoScYmenFKMristSDI) | [The Joy Formidable](https://open.spotify.com/artist/4LdZNE5MHGqvc0N9ivXNF3) | [The Big Roar](https://open.spotify.com/album/2R45MnKwqMVAuqQ6UvNwet) | 3:40 | 2021-10-19 |  |
 | [A Rising Sun](https://open.spotify.com/track/3ABSF4lV3ENRWjwKbHWQTF) | [Mint Julep](https://open.spotify.com/artist/60xrFrkTS0lvRRpbS1cpnr) | [In a Deep and Dreamless Sleep](https://open.spotify.com/album/2TYJIVtnQigi7lMTBEKD3L) | 3:48 | 2021-10-19 | 2022-07-26 |
+| [Air Supply](https://open.spotify.com/track/3I7Uqll4wyJmfBSDQWiLWh) | [Sweet Trip](https://open.spotify.com/artist/5NtMqQLCzdVvL7F8vFp3zM) | [You Will Never Know Why](https://open.spotify.com/album/78lIjVFQSSRqO47Pvw1b9M) | 4:41 | 2022-09-21 |  |
 | [Akira](https://open.spotify.com/track/5etys3p3H0qRDscHy7eWKc) | [Deafcult](https://open.spotify.com/artist/6AX5hnjYSvcjZd9IyqYPsp) | [Deafcult](https://open.spotify.com/album/6dPwwV3dTTa7P4isGGBXvy) | 3:09 | 2021-10-19 |  |
 | [Al Revés \- feat\. Petite Amie](https://open.spotify.com/track/7MdUqzrHXeTk2zf55YXqM4) | [Charles Spearin](https://open.spotify.com/artist/3PEieAx7awxOPIdseRJuFb), [iiis](https://open.spotify.com/artist/2bp4bYrLHmI6gekDL7433D), [Petite Amie](https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw) | [Al Revés \(feat\. Petite Amie\)](https://open.spotify.com/album/4VP9sto7vsed9Qi6wjmklj) | 3:15 | 2022-04-09 | 2022-09-01 |
 | [All Gone](https://open.spotify.com/track/7BgzLzMFHTVJn9TP7gZX9o) | [Beachy Head](https://open.spotify.com/artist/6Kq54gSL9Ms7dLu8t4AcZz) | [Beachy Head](https://open.spotify.com/album/7n95iySQSShHU7doQfeGP4) | 3:17 | 2021-10-19 | 2022-07-28 |
@@ -80,6 +81,7 @@
 | [Fields](https://open.spotify.com/track/2ryh0usciIkkHrtlgsv1gC) | [JAUS](https://open.spotify.com/artist/0m43w9Hjef7w2XWtttk7j2) | [Fields](https://open.spotify.com/album/3zxXCJpeI1PcsNI8e4JVE6) | 3:50 | 2021-10-19 | 2022-07-29 |
 | [Firefly](https://open.spotify.com/track/5Fmk7akgjEpRI4vvu7CQ2m) | [Airiel](https://open.spotify.com/artist/1WOhabhnnH1k6KcD81xGD1), [Stella Tran](https://open.spotify.com/artist/3yETcd6deerTsw8RJDqW01) | [Winks & Kisses: Melted](https://open.spotify.com/album/3WG7osXmDwUsMt3QGNoYll) | 6:25 | 2021-10-19 |  |
 | [Flores Rotas](https://open.spotify.com/track/4Kpx1Srna5losw7gIq1Kkv) | [Los Árboles Mentirosos](https://open.spotify.com/artist/5lV4P5M7zfo78N6IBB67nK) | [Flores Rotas](https://open.spotify.com/album/4aLjH5HM35HSeShlbFYymW) | 5:05 | 2021-12-02 | 2022-07-29 |
+| [Frame Of Reference](https://open.spotify.com/track/1Ob2kl4e6Yb5wd6wpxvtGa) | [Drug Store Romeos](https://open.spotify.com/artist/7MMjkDVrjxW9iObeZeeejh) | [The world within our bedrooms](https://open.spotify.com/album/1b9X8S1gflcRRRfhTHcxs3) | 2:33 | 2022-09-21 |  |
 | [Gemelos Cóctel](https://open.spotify.com/track/4Y3INBmiizfTIIBrOQvvFO) | [No Somos Marineros](https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP) | [D'arcy](https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu) | 3:51 | 2021-10-19 |  |
 | [Glass Valley](https://open.spotify.com/track/1r55rKvt0UH8nyEaras6V6) | [Kraus](https://open.spotify.com/artist/3e5kCmgoxtTlHdtlteC951) | [View No Country](https://open.spotify.com/album/3BNTd1ct9IBA2k2Gzp8EHj) | 2:58 | 2021-10-19 |  |
 | [Glass Valley](https://open.spotify.com/track/5TqYhJBV22End06snSsWLq) | [Kraus](https://open.spotify.com/artist/3e5kCmgoxtTlHdtlteC951) | [Glass Valley](https://open.spotify.com/album/3ey2323WoTKzqzKq8APUwO) | 2:58 | 2021-10-19 | 2022-07-29 |
@@ -125,7 +127,7 @@
 | [Life in Color](https://open.spotify.com/track/4TdpOtzVF7aeh7EhvOk377) | [Floral Tattoo](https://open.spotify.com/artist/5A9WRVGRY9QQf7RVJxVnSS) | [You Can Never Have a Long Enough Head Start](https://open.spotify.com/album/3F9nzTMzXo2rOpyYn5YrY1) | 3:47 | 2021-10-19 | 2022-07-29 |
 | [Lime \- Elliott Frazier remix](https://open.spotify.com/track/28CohxX0xYGKWdKsHKvDaV) | [Lucid Express](https://open.spotify.com/artist/0WwjT0WO2JQSXIq7EeDxXf), [Elliott Frazier](https://open.spotify.com/artist/2h5Ha3Cr7HoTCp82TQdUDO) | [Lime](https://open.spotify.com/album/6jRYJfOVHjixKyxZC7ZRSC) | 3:39 | 2022-08-31 |  |
 | [Look Around](https://open.spotify.com/track/5cTWjmahOp7R6KGy7cAhmM) | [Blankenberge](https://open.spotify.com/artist/0N9CUdcRxZfnPGAmbkuUrm) | [More](https://open.spotify.com/album/2SywxWP4IsaFO8zo9G3Ogx) | 4:17 | 2021-10-19 |  |
-| [Love Comes In Waves](https://open.spotify.com/track/2boEyOYahQ5kYuAQnr05B9) | [Andy Bell](https://open.spotify.com/artist/0DCLBHSfbqLoGK3ikLGPxc) | [Love Comes In Waves](https://open.spotify.com/album/6H1YKdZQvIuOVQkKUpOHtR) | 4:48 | 2021-10-19 |  |
+| [Love Comes In Waves](https://open.spotify.com/track/2boEyOYahQ5kYuAQnr05B9) | [Andy Bell](https://open.spotify.com/artist/0DCLBHSfbqLoGK3ikLGPxc) | [Love Comes In Waves](https://open.spotify.com/album/6H1YKdZQvIuOVQkKUpOHtR) | 4:48 | 2021-10-19 | 2022-09-21 |
 | [Love Fade](https://open.spotify.com/track/0p6JvwRK6RqC1SyRVKP6cN) | [Tamaryn](https://open.spotify.com/artist/3TdVTSmMfLh55VrJDUpIQ2) | [The Waves](https://open.spotify.com/album/2GrLKfN6dTb4o7Eoz6pqSG) | 3:40 | 2021-10-19 |  |
 | [Love Fade](https://open.spotify.com/track/24ZsdPJj8uwhCxo4uanFpG) | [Tamaryn](https://open.spotify.com/artist/3TdVTSmMfLh55VrJDUpIQ2) | [The Waves](https://open.spotify.com/album/4yfIr3uR60hcYNr1ttJNoC) | 3:40 | 2021-10-19 | 2022-07-29 |
 | [Luminous](https://open.spotify.com/track/0HIqiZlMuJm7fV4CyxaQF2) | [Youthlim](https://open.spotify.com/artist/0rHYAz4lrtdEHOXNZA7XzC) | [Luminous](https://open.spotify.com/album/001WORXD9jU5p2yIcfzHfd) | 6:08 | 2022-01-19 | 2022-07-19 |
@@ -171,7 +173,7 @@
 | [Showers](https://open.spotify.com/track/5lJDgnn9Wq06dBoEdMyXuz) | [Bored at My Grandmas House](https://open.spotify.com/artist/0hQ6Js0CTBu337vggHinhk) | [Showers](https://open.spotify.com/album/2BOX9sptUqhm34flUnHuM0) | 3:40 | 2021-10-19 |  |
 | [Soltar](https://open.spotify.com/track/6JJyABXU4ABVFjTUEpT8xZ) | [Aladin Fox](https://open.spotify.com/artist/1vl07Fu7VoBoAQQwtg490l) | [Soltar](https://open.spotify.com/album/70B6sLcsi9H7ozR3FuuPuh) | 3:54 | 2022-02-04 | 2022-07-28 |
 | [Songs](https://open.spotify.com/track/0y15BMv8TXeAUsDhWIGQFl) | [Pinkshinyultrablast](https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4) | [Songs](https://open.spotify.com/album/5el9vQQOpGyHpsfv0MXqjs) | 15:50 | 2021-10-19 |  |
-| [Spring and by Summer Fall](https://open.spotify.com/track/3plzNcg0RAtFKTR3y7uPRy) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [23](https://open.spotify.com/album/018fr4NxxsR6o5TbVpzsIy) | 4:15 | 2021-10-19 |  |
+| [Spring and by Summer Fall](https://open.spotify.com/track/3plzNcg0RAtFKTR3y7uPRy) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [23](https://open.spotify.com/album/018fr4NxxsR6o5TbVpzsIy) | 4:15 | 2021-10-19 | 2022-09-21 |
 | [Spring and by Summer Fall](https://open.spotify.com/track/4H1WerRdoDxPnra8SJtW3R) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [23](https://open.spotify.com/album/7iOloZrq72k9GsuJUUo1pO) | 4:15 | 2021-10-19 | 2022-07-29 |
 | [Stare at the Sun](https://open.spotify.com/track/5pvmhSKAEGovYtUQW8xqJp) | [Ringo Deathstarr](https://open.spotify.com/artist/3sWLSYm3MFYosc4AZhwajg) | [Pure Mood](https://open.spotify.com/album/6nbPtKlhPst5q52OuVgPhb) | 4:19 | 2021-10-19 |  |
 | [Starting Over](https://open.spotify.com/track/0dcu28YT8cXZH7JTIraszp) | [LSD and the Search for God](https://open.spotify.com/artist/2feOOr1Yjovo67byuxvjZv) | [LSD and the Search for God](https://open.spotify.com/album/46q859znSzYPVwz7OaO7GS) | 5:04 | 2021-10-19 |  |

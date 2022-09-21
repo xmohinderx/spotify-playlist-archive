@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 
 > The songs and collaborations pushing the Mexican sound to a global level\. Cover: Piso 21 & Carin Leon
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,631 likes - 57 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,653 likes - 57 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

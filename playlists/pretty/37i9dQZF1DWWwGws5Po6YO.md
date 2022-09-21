@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwGws5Po6YO.md) - [plain]
 
 > The women at the forefront of ambient and experimental music\. Cover: Mira Calix
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,064 likes - 59 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,078 likes - 59 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwGws5Po6YO.md) - [plain]
 | 30 | [Russian Snow](https://open.spotify.com/track/74DxOVwXdBdn1rrfK8SFCU) | [Lucette Bourdin](https://open.spotify.com/artist/1mLHAhpOa5hFC5ht47RrT3) | [Rising Fog](https://open.spotify.com/album/5UqAY7B1XX3QoFWgu7bfil) | 8:28 |
 | 31 | [Morning Spring](https://open.spotify.com/track/0MBiVK0AHaR70AuD061Np7) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [@0 EP1](https://open.spotify.com/album/1eEFnKUqaKC6pgzRKzS29k) | 5:00 |
 | 32 | [Night Journeys II](https://open.spotify.com/track/43uv8HHkDXbCi5JsjpPS0t) | [Courtesy](https://open.spotify.com/artist/0osYTSrOpW6YESEC1lClwN) | [Night Journeys II](https://open.spotify.com/album/5CAU2Xx0mL2PyKGOW8y1Pp) | 7:16 |
-| 33 | [Fantas Morbida](https://open.spotify.com/track/3EmimXCpHQ9PW6FN0ajDeU) | [Caterina Barbieri](https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu), [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Fantas Variations](https://open.spotify.com/album/7zytkfZ6AvjmCbvwqFgFWO) | 3:07 |
+| 33 | [Humidity](https://open.spotify.com/track/2WO4gKLH1gaydKHuJof33I) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn), [Nana Pi](https://open.spotify.com/artist/3gbm3E5mVftZywfgEysN6I) | [Humidity](https://open.spotify.com/album/3RD5Gg1dcm6bHJUQIFWJba) | 4:31 |
 | 34 | [Pale Interior](https://open.spotify.com/track/6nI1FAfYETS7qtrPpyg3d7) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Shade](https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ) | 3:51 |
-| 35 | [Humidity](https://open.spotify.com/track/2WO4gKLH1gaydKHuJof33I) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn), [Nana Pi](https://open.spotify.com/artist/3gbm3E5mVftZywfgEysN6I) | [Humidity](https://open.spotify.com/album/3RD5Gg1dcm6bHJUQIFWJba) | 4:31 |
+| 35 | [Fantas Morbida](https://open.spotify.com/track/3EmimXCpHQ9PW6FN0ajDeU) | [Caterina Barbieri](https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu), [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Fantas Variations](https://open.spotify.com/album/7zytkfZ6AvjmCbvwqFgFWO) | 3:07 |
 | 36 | [ME](https://open.spotify.com/track/2d7FoK7amJiLOk6S0IT8AS) | [Felicia Atkinson](https://open.spotify.com/artist/5YQURNvswNpWWUWyeNT7we), [Jefre Cantu\-Ledesma](https://open.spotify.com/artist/5MqgtmMdtrsZIQpZzLhpX5) | [Comme Un Seul Narcisse](https://open.spotify.com/album/7lOB1lg0Iu810pZhvJCmk4) | 4:21 |
 | 37 | [Grafts](https://open.spotify.com/track/3MNKjPvkQnMNq8BU2GwYFq) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Grafts](https://open.spotify.com/album/6hT28oOwJbnRX9qvxbXbTw) | 22:31 |
 | 38 | [Silver Ladders](https://open.spotify.com/track/0cWCoT7I1XOmpXAYG0C6QE) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Silver Ladders](https://open.spotify.com/album/5Ykv18C5wYbOe3QsZX7kyy) | 3:45 |
@@ -57,15 +57,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwGws5Po6YO.md) - [plain]
 | 47 | [Long Dizzying Air Through A Balcony Door](https://open.spotify.com/track/6dzqvZkDtCNLw46Juiarvv) | [Perila](https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi) | [7.37/2.11](https://open.spotify.com/album/1oYDe8bwryHz91moudqL6X) | 7:48 |
 | 48 | [How to build an automaton](https://open.spotify.com/track/2tqrvJPhctmcZmJNZORJU0) | [Lucy Liyou](https://open.spotify.com/artist/0oGtixfxP0ukNPM6KVuwC1) | [Welfare / Practice](https://open.spotify.com/album/2329qbh46SMwjMuprpj5eE) | 3:51 |
 | 49 | [Kali](https://open.spotify.com/track/5LZxYZ4oQ0LA6VvgaxW36k) | [Salamanda](https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru) | [Kali](https://open.spotify.com/album/5ZZqEAvWi7uagiA3QEnRKt) | 6:40 |
-| 50 | [Rushes Recede](https://open.spotify.com/track/4LldU6Isq6ecYkaNISaDDc) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Rushes Recede](https://open.spotify.com/album/1uQvJ6TmCHQV6bdRdDIkrq) | 6:34 |
-| 51 | [A Journey](https://open.spotify.com/track/5fxfFBYhfCIBSU9LvHk0pF) | [Hinako Omori](https://open.spotify.com/artist/31vAiCz7AsxXsljIGKg4UB) | [a journey...](https://open.spotify.com/album/3H7S86kkmy5zKqw7DTmULR) | 4:16 |
+| 50 | [A Journey](https://open.spotify.com/track/5fxfFBYhfCIBSU9LvHk0pF) | [Hinako Omori](https://open.spotify.com/artist/31vAiCz7AsxXsljIGKg4UB) | [a journey...](https://open.spotify.com/album/3H7S86kkmy5zKqw7DTmULR) | 4:16 |
+| 51 | [Rushes Recede](https://open.spotify.com/track/4LldU6Isq6ecYkaNISaDDc) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Rushes Recede](https://open.spotify.com/album/1uQvJ6TmCHQV6bdRdDIkrq) | 6:34 |
 | 52 | [Sun \- Midnight Version](https://open.spotify.com/track/7MJNbajzY9V54Eq2a0SiQD) | [Lisa Nordström](https://open.spotify.com/artist/4K9TXqOfC8Owin6QflkeHl) | [Midnight](https://open.spotify.com/album/3jzXWkXEgM5WDtLnf3ySUK) | 19:28 |
-| 53 | [You Make It Look so Easy \- Reverbed by Malibu](https://open.spotify.com/track/5hKekn6sLhu07TbCNNqn9a) | [Himera](https://open.spotify.com/artist/1Vi0Dq6hC56i3a6eVA9Y6g), [Petal Supply](https://open.spotify.com/artist/3QpNnKSjUIIMwFei8h3eOj), [Malibu](https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B) | [You Make It Look so Easy \(Reverbed by Malibu\)](https://open.spotify.com/album/5qBsJT3UuTQ3me60RNgDPl) | 3:59 |
-| 54 | [Moon View](https://open.spotify.com/track/2SmHi3TIZKxgeadZBR47S8) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Hill, Flower, Fog](https://open.spotify.com/album/4kUoHjxVlyhhTnmSwM47ol) | 5:47 |
+| 53 | [Moon View](https://open.spotify.com/track/2SmHi3TIZKxgeadZBR47S8) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Hill, Flower, Fog](https://open.spotify.com/album/4kUoHjxVlyhhTnmSwM47ol) | 5:47 |
+| 54 | [You Make It Look so Easy \- Reverbed by Malibu](https://open.spotify.com/track/5hKekn6sLhu07TbCNNqn9a) | [Himera](https://open.spotify.com/artist/1Vi0Dq6hC56i3a6eVA9Y6g), [Petal Supply](https://open.spotify.com/artist/3QpNnKSjUIIMwFei8h3eOj), [Malibu](https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B) | [You Make It Look so Easy \(Reverbed by Malibu\)](https://open.spotify.com/album/5qBsJT3UuTQ3me60RNgDPl) | 3:59 |
 | 55 | [Falling Water Lullaby](https://open.spotify.com/track/107dsC2GDls9Yc3roCakzj) | [Ulla](https://open.spotify.com/artist/0ijZlfRS4zxGYWMxf8rvRN) | [Memories of Log](https://open.spotify.com/album/7zYfVGpVHFMBlFQfKNPy0b) | 6:40 |
 | 56 | [Ubiquitous](https://open.spotify.com/track/6AA44gTSmQ6S2aMUsjd3ZG) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [Holotropica](https://open.spotify.com/album/2W4n1zPDKzqGpbMKU21mBu) | 3:49 |
 | 57 | [Lear](https://open.spotify.com/track/58tXLPg2DQsrg5ts5CqWrR) | [Pauline Oliveros](https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi), [Stuart Dempster](https://open.spotify.com/artist/174yhQdHRtoWDlvtZ15NuK), [Panaiotis](https://open.spotify.com/artist/3nNs3fKoNiAHgx4B6p5fYA) | [Deep Listening](https://open.spotify.com/album/1h4VM1Nsgav7liCdWBoGlC) | 24:56 |
 | 58 | [Moderato Cantabile](https://open.spotify.com/track/5js7CxlUAAIVS5KGklskr7) | [Felicia Atkinson](https://open.spotify.com/artist/5YQURNvswNpWWUWyeNT7we) | [The Flower And The Vessel](https://open.spotify.com/album/6q2zdnjrihfiV0NZJQvEOy) | 7:58 |
 | 59 | [CHU / 處](https://open.spotify.com/track/5D4LseymlE9t3nEZCMtEYN) | [LI YILEI](https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp) | [CHU / 處](https://open.spotify.com/album/1yhSwBtIuk49GmK6pBydQC) | 2:23 |
 
-Snapshot ID: `MTY2MDkyOTg5NywwMDAwMDAwMGMxODNlOWNhMDlmMDg4Mjc3MTQ4MmM1NzUwYWE1NjQ0`
+Snapshot ID: `MTY2MDkyOTg5NywwMDAwMDAwMDgwYjEwNzE0OTRlMjRmNjM1MWEzNzY0YjQ2OTU5NWM2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uNKnwcoVm9.md) - [plain]
 
 > Un playlist que te llena de esperanza\.  ¡Con fe!
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,780 likes - 100 songs - 8 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,865 likes - 100 songs - 8 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,11 +23,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uNKnwcoVm9.md) - [plain]
 | 13 | [El Nombre De Jesús \(feat\. Christine D´Clario\)](https://open.spotify.com/track/1T2Q9IzgGK3eyPUWFD4C1U) | [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Operación Mundial](https://open.spotify.com/album/0dWYBm4QsccUGjlhEtfbkK) | 4:30 |
 | 14 | [Como Dijiste](https://open.spotify.com/track/5Q5ArHcJlRcWLZMRBRN4sX) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [De Vuelta Al Jardin](https://open.spotify.com/album/4TKIXPyW2jTchcOFw1xAf6) | 4:59 |
 | 15 | [El Proceso](https://open.spotify.com/track/5MjSIkSafNOHiDqE8nL9m4) | [Nancy Amancio](https://open.spotify.com/artist/4225vUKDHwHhcYY9IRWwX0) | [Me Paro En La Brecha](https://open.spotify.com/album/7cj5YMKHlgG8M1tHfFw3Ol) | 4:30 |
-| 16 | [Soy Un Altar](https://open.spotify.com/track/0b8Sxqx5Lt8mgU4xPsm7Hr) | [Julio Melgar](https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2) | [Creo en Ti](https://open.spotify.com/album/1TMLlJQHzj0J07QexSE72S) | 5:30 |
+| 16 | [Precioso Jesús](https://open.spotify.com/track/7mEYivIHySFGJS8HySzcf2) | [Esperanza de Vida](https://open.spotify.com/artist/2JjoUSP8dUA7UhlWW59fK1) | [Me Has Hecho Libre](https://open.spotify.com/album/0dNBk8BUcnZoA0YouvHGRP) | 6:20 |
 | 17 | [Mi Universo](https://open.spotify.com/track/6lMk5sY36yHg5vY2Q29lJd) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [El Aire De Tu Casa](https://open.spotify.com/album/0Jttxgk5XzLJgGtJQQWmHd) | 4:13 |
 | 18 | [No Crezcas Mas](https://open.spotify.com/track/1RsBgR6T1Put9AD0qPl3Cm) | [Tercer Cielo](https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz) | [Irreversible](https://open.spotify.com/album/1swzvWIqMQtG6Z0HA8KoYV) | 4:20 |
 | 19 | [Si Puedes Creer](https://open.spotify.com/track/03zBrLi4BWMlf09IoK9TIJ) | [Lilly Goodman](https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS) | [Vuelve a Casa](https://open.spotify.com/album/6GUNfGkyL4Xi4KiWNCYkNQ) | 4:14 |
-| 20 | [Precioso Jesús](https://open.spotify.com/track/7mEYivIHySFGJS8HySzcf2) | [Esperanza de Vida](https://open.spotify.com/artist/2JjoUSP8dUA7UhlWW59fK1) | [Me Has Hecho Libre](https://open.spotify.com/album/0dNBk8BUcnZoA0YouvHGRP) | 6:20 |
+| 20 | [Soy Un Altar](https://open.spotify.com/track/0b8Sxqx5Lt8mgU4xPsm7Hr) | [Julio Melgar](https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2) | [Creo en Ti](https://open.spotify.com/album/1TMLlJQHzj0J07QexSE72S) | 5:30 |
 | 21 | [Me Paro En La Brecha](https://open.spotify.com/track/3pM6OolQIxI5YZl77qwD3t) | [Nancy Amancio](https://open.spotify.com/artist/4225vUKDHwHhcYY9IRWwX0) | [Me Paro En La Brecha](https://open.spotify.com/album/7cj5YMKHlgG8M1tHfFw3Ol) | 3:51 |
 | 22 | [Ven Espíritu Ven](https://open.spotify.com/track/05BkWRVy0cubbSnsyzw2lu) | [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ) | [Marco Barrientos Auditorio Nacional](https://open.spotify.com/album/02jz93WiEGLDvMhDb2xCPC) | 4:48 |
 | 23 | [Mi Ultimo Dia](https://open.spotify.com/track/7fFufce5eI7CGGX5aeN07r) | [Tercer Cielo](https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz) | [Gente Comun Sueños Extraordinarios](https://open.spotify.com/album/5Yj2mPciYoTKNEP3WadauI) | 3:35 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uNKnwcoVm9.md) - [plain]
 | 66 | [Hermoso \(feat\. Coalo Zamorano\)](https://open.spotify.com/track/4TwzyWf4K1oeybmNUsNL24) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2), [Coalo Zamorano](https://open.spotify.com/artist/1EIEV6r6Jr6BQIzwZJdf5b) | [Jesús Salva](https://open.spotify.com/album/4HRYBD8BpJaPSfRHreRGxw) | 5:35 |
 | 67 | [El No Pereció](https://open.spotify.com/track/5chE8rPKomf8QxhllFujhi) | [Julissa](https://open.spotify.com/artist/6WCFOdK10oxg9dYaaIyeZu) | [En Las Alas Del Amor](https://open.spotify.com/album/3zHypYyLfjX3Ikil2H9bOI) | 4:20 |
 | 68 | [Siempre Más feat\. Un Corazón](https://open.spotify.com/track/2x4DbDfgF8WRrbKC1ieyCk) | [Living](https://open.spotify.com/artist/2miffAnnUvKSyB9ykA2su9), [Un Corazón](https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm) | [Más Que Suficiente](https://open.spotify.com/album/10MAZP2R3fsjRzpdZ2Gatm) | 5:52 |
-| 69 | [Nadie Me Dijo](https://open.spotify.com/track/5xVUzEyx6UK23sDpYVhjOf) | [Lilly Goodman](https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS) | [Amor Favor Gracia](https://open.spotify.com/album/0rBvLEdEON5eyTJbcVkxZS) | 4:18 |
-| 70 | [Tan Solo Cree](https://open.spotify.com/track/52UBY1QBlCTRAyWa6GO0mZ) | [Jose Luis Reyes](https://open.spotify.com/artist/77Zo41CMTIsSUP47AkNhie) | [Algo Grande Viene](https://open.spotify.com/album/72sKgqdTMvoBgWyVo6ZzXX) | 4:12 |
+| 69 | [Tan Solo Cree](https://open.spotify.com/track/52UBY1QBlCTRAyWa6GO0mZ) | [Jose Luis Reyes](https://open.spotify.com/artist/77Zo41CMTIsSUP47AkNhie) | [Algo Grande Viene](https://open.spotify.com/album/72sKgqdTMvoBgWyVo6ZzXX) | 4:12 |
+| 70 | [Nadie Me Dijo](https://open.spotify.com/track/5xVUzEyx6UK23sDpYVhjOf) | [Lilly Goodman](https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS) | [Amor Favor Gracia](https://open.spotify.com/album/0rBvLEdEON5eyTJbcVkxZS) | 4:18 |
 | 71 | [Roca eterna](https://open.spotify.com/track/6XQmgFgA5ERwrgbmb7iUx3) | [Esperanza de Vida](https://open.spotify.com/artist/2JjoUSP8dUA7UhlWW59fK1) | [Me Has Hecho Libre](https://open.spotify.com/album/0dNBk8BUcnZoA0YouvHGRP) | 4:55 |
 | 72 | [Llegaste Tú](https://open.spotify.com/track/4gxJmwQeeG1RSJm1AtLlAS) | [Gadiel Espinoza](https://open.spotify.com/artist/6LsF1LrB6rmAiWps0Mo1t6) | [Al Que Vive](https://open.spotify.com/album/0EnsJ3Ctbamkhj0rOVtAhQ) | 4:12 |
 | 73 | [No Basta](https://open.spotify.com/track/0x5bPI62nRetHyUiPykJwK) | [Juan Carlos Alvarado](https://open.spotify.com/artist/1NWIpqck2zZ43JamLJgf6U) | [Hoy Más Que Ayer](https://open.spotify.com/album/7HgsN9Iac7wiBz4TsucSBw) | 3:50 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uNKnwcoVm9.md) - [plain]
 | 99 | [Padre Nuestro](https://open.spotify.com/track/3Askzcj7HSPFNv5T32Vh3E) | [Ingrid Rosario](https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE) | [Padre Nuestro](https://open.spotify.com/album/2gPeuoMs6OLrrS66wEhXCh) | 6:11 |
 | 100 | [Cree Solamente](https://open.spotify.com/track/4G33FeKB2sM4W9bC4bSii4) | [Danilo Montero](https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF) | [Cree Solamente](https://open.spotify.com/album/3vHjJkngHJKd3bZjjIn6IZ) | 4:38 |
 
-Snapshot ID: `MTYwNjIyNDIxOCwwMDAwMDAwMDZhMTQ5MzIwOWJkYmFjN2FjNDJjY2ViNGUxMDEzNmVh`
+Snapshot ID: `MTYwNjIyNDIxOCwwMDAwMDAwMDMzNTI1NmJiM2QyYzIyMjNlMGI4YmQxYTFlZmIwZDEx`

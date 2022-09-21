@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wNY9tfWQsS.md) - [plain]
 
 > A musical celebration of women in R&amp;B, from its earliest acts to its newest stars\. Cover: Mary J\. Blige
 
-[Spotify](https://open.spotify.com/user/spotify) - 475,516 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 475,698 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wNY9tfWQsS.md) - [plain]
 | 16 | [When I See U](https://open.spotify.com/track/4iuNZTcvT9diFySSzVsnVS) | [Fantasia](https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1) | [Fantasia](https://open.spotify.com/album/42DybH3gl3WcfXAQySOEiX) | 3:37 |
 | 17 | [Persuasive \(with SZA\)](https://open.spotify.com/track/67v2UHujFruxWrDmjPYxD6) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Persuasive \(with SZA\)](https://open.spotify.com/album/7LYy99hyg4eHQeYkKPuS6R) | 3:30 |
 | 18 | [What's Love Got to Do with It](https://open.spotify.com/track/4kOfxxnW1ukZdsNbCKY9br) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [What's Love Got to Do with It?](https://open.spotify.com/album/5HmYiJnUkFuciiqRrAAv4o) | 3:46 |
-| 19 | [I'm Coming Out](https://open.spotify.com/track/3SnGymj6ijE2iuUfWxLo1q) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Diana](https://open.spotify.com/album/3zgDLoVcpVGfFbDZJf3uHI) | 5:23 |
-| 20 | [B.S\. \(feat\. H.E.R.\)](https://open.spotify.com/track/63wx9vdskaXbYxyDx4oJCZ) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Chilombo](https://open.spotify.com/album/5jlE1zlhT3mEWw0mRpN920) | 3:32 |
+| 19 | [B.S\. \(feat\. H.E.R.\)](https://open.spotify.com/track/63wx9vdskaXbYxyDx4oJCZ) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Chilombo](https://open.spotify.com/album/5jlE1zlhT3mEWw0mRpN920) | 3:32 |
+| 20 | [I'm Coming Out](https://open.spotify.com/track/3SnGymj6ijE2iuUfWxLo1q) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Diana](https://open.spotify.com/album/3zgDLoVcpVGfFbDZJf3uHI) | 5:23 |
 | 21 | [DFMU](https://open.spotify.com/track/1bdm32mVmoGcek5bVKxQKd) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Heart On My Sleeve](https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy) | 3:17 |
 | 22 | [We Belong Together](https://open.spotify.com/track/3LmvfNUQtglbTrydsdIqFU) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [The Emancipation of Mimi](https://open.spotify.com/album/43iBTEWECK7hSnE0p6GgNo) | 3:21 |
 | 23 | [\(You Make Me Feel Like\) A Natural Woman](https://open.spotify.com/track/5K09WxKdlkroDyEVyOSySy) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Lady Soul \(With Bonus Selections\)](https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG) | 2:45 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wNY9tfWQsS.md) - [plain]
 | 44 | [Karma](https://open.spotify.com/track/3qmm9AdG0TnShv0drgXNIQ) | [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98) | [Karma](https://open.spotify.com/album/13AioFwH1nNynbyO8AZW6L) | 2:56 |
 | 45 | [Bad Girls](https://open.spotify.com/track/1ibRqifchaAfeNdQGpbRVW) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [Bad Girls](https://open.spotify.com/album/58GjBhQvLHwfQFJtdP9Oxg) | 4:55 |
 | 46 | [Don't Walk Away](https://open.spotify.com/track/7tsRp7QKUBp6hc9bth0h7x) | [Jade](https://open.spotify.com/artist/7ypgj95aGInvJMJbMv78wB) | [Jade To The Max](https://open.spotify.com/album/2EwwOSHl7oOX1vyjQBx4Zc) | 3:36 |
-| 47 | [If You Love Me](https://open.spotify.com/track/0BTGqPIW9acmhhUmENkq5r) | [Brownstone](https://open.spotify.com/artist/6dQgkiJm1fRkcqKOvPzysr) | [From The Bottom Up](https://open.spotify.com/album/4AqJY8SxoiR6MWWfawrxVz) | 5:04 |
-| 48 | [I Feel for You](https://open.spotify.com/track/5yR9u8QiOt8hJaddv32oo7) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [I Feel for You](https://open.spotify.com/album/08yanJqA75TPyDowCXvvPU) | 5:43 |
+| 47 | [I Feel for You](https://open.spotify.com/track/5yR9u8QiOt8hJaddv32oo7) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [I Feel for You](https://open.spotify.com/album/08yanJqA75TPyDowCXvvPU) | 5:43 |
+| 48 | [If You Love Me](https://open.spotify.com/track/0BTGqPIW9acmhhUmENkq5r) | [Brownstone](https://open.spotify.com/artist/6dQgkiJm1fRkcqKOvPzysr) | [From The Bottom Up](https://open.spotify.com/album/4AqJY8SxoiR6MWWfawrxVz) | 5:04 |
 | 49 | [You're All I Need To Get By](https://open.spotify.com/track/6Ndauo9gCxNjTfklsFYS7b) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA), [Tammi Terrell](https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8) | [You're All I Need](https://open.spotify.com/album/1i1HqvvJk7zGpNDygYlXQd) | 2:53 |
 | 50 | [I'm So Into You](https://open.spotify.com/track/5A0aUvnfAEcmUx3hoXjI8R) | [SWV](https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa) | [It's About Time](https://open.spotify.com/album/2BBrAtWY0c6dPio5b2JYFK) | 4:38 |
 
-Snapshot ID: `MTY2Mjc0ODkwNywwMDAwMDAwMDI3Y2IwYmM0OGM4Y2VmYjQzNTVjMTA1YWUxZDA1NzE0`
+Snapshot ID: `MTY2Mjc0ODkwNywwMDAwMDAwMDM5ZjBkY2JlZDhiYTY0YjAzZWQxM2E2Y2I4OWFiN2Vk`

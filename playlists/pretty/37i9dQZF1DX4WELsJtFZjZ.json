@@ -1,12 +1,12 @@
 {
   "description": "Mellow songs from the 1980s.",
-  "num_followers": 522374,
+  "num_followers": 522862,
   "original_name": "Soft 80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjA0NzkxOSwwMDAwMDAwMGZhN2Q4MWJhMmFiMTU1ODk4NjZlNjVhYTM4MzBmNzBm",
+  "snapshot_id": "MTY1NjA0NzkxOSwwMDAwMDAwMGIzZjRjOTIxZjQzZGYzNjViNmU1NmM4MGEyNjZiNTY5",
   "tracks": [
     {
       "added_at": "2022-05-25 11:38:55",
@@ -915,22 +915,6 @@
     {
       "added_at": "2022-05-25 11:38:55",
       "album": {
-        "name": "Too Low For Zero",
-        "url": "https://open.spotify.com/album/0OmYuz9hwn1XoqmDaU0yJ7"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 285333,
-      "name": "I Guess That's Why They Call It The Blues",
-      "url": "https://open.spotify.com/track/23l1kVpqMVREiwU1YAlcr4"
-    },
-    {
-      "added_at": "2022-05-25 11:38:55",
-      "album": {
         "name": "Simple Pleasures",
         "url": "https://open.spotify.com/album/4zhRkgoZKC2xCPPys1gK4b"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 294400,
       "name": "Don't Worry Be Happy",
       "url": "https://open.spotify.com/track/4hObp5bmIJ3PP3cKA9K9GY"
+    },
+    {
+      "added_at": "2022-05-25 11:38:55",
+      "album": {
+        "name": "Too Low For Zero",
+        "url": "https://open.spotify.com/album/0OmYuz9hwn1XoqmDaU0yJ7"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 285333,
+      "name": "I Guess That's Why They Call It The Blues",
+      "url": "https://open.spotify.com/track/23l1kVpqMVREiwU1YAlcr4"
     },
     {
       "added_at": "2022-05-25 11:38:55",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2022-05-25 11:38:55",
       "album": {
-        "name": "Ice On Fire",
-        "url": "https://open.spotify.com/album/0xuxPr53iRlhWCu7QqHH24"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 343240,
-      "name": "Nikita",
-      "url": "https://open.spotify.com/track/3G0ENKW9vzV0SuYKaWFflI"
-    },
-    {
-      "added_at": "2022-05-25 11:38:55",
-      "album": {
         "name": "Lost in Love",
         "url": "https://open.spotify.com/album/3fB2z5YtmKvSCu77Z3nTnW"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 243000,
       "name": "All Out of Love",
       "url": "https://open.spotify.com/track/7dQC53NiYOY9gKg3Qsu2Bs"
+    },
+    {
+      "added_at": "2022-05-25 11:38:55",
+      "album": {
+        "name": "Ice On Fire",
+        "url": "https://open.spotify.com/album/0xuxPr53iRlhWCu7QqHH24"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 343240,
+      "name": "Nikita",
+      "url": "https://open.spotify.com/track/3G0ENKW9vzV0SuYKaWFflI"
     },
     {
       "added_at": "2022-05-25 11:38:55",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2022-05-25 11:38:55",
       "album": {
-        "name": "Human Racing",
-        "url": "https://open.spotify.com/album/5cl4eOKYrrX0pcFFnEieYR"
-      },
-      "artists": [
-        {
-          "name": "Nik Kershaw",
-          "url": "https://open.spotify.com/artist/7kCL98rPFsNKjAHDmWrMac"
-        }
-      ],
-      "duration_ms": 277053,
-      "name": "Wouldn't It Be Good",
-      "url": "https://open.spotify.com/track/00FDHurakzVEiPutdUxXXq"
-    },
-    {
-      "added_at": "2022-05-25 11:38:55",
-      "album": {
         "name": "Winner In You",
         "url": "https://open.spotify.com/album/5wESpjGUZ1QKY2DziNM5fN"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 290840,
       "name": "On My Own",
       "url": "https://open.spotify.com/track/5HrVgmO1govSOrPUehW1VV"
+    },
+    {
+      "added_at": "2022-05-25 11:38:55",
+      "album": {
+        "name": "Human Racing",
+        "url": "https://open.spotify.com/album/5cl4eOKYrrX0pcFFnEieYR"
+      },
+      "artists": [
+        {
+          "name": "Nik Kershaw",
+          "url": "https://open.spotify.com/artist/7kCL98rPFsNKjAHDmWrMac"
+        }
+      ],
+      "duration_ms": 277053,
+      "name": "Wouldn't It Be Good",
+      "url": "https://open.spotify.com/track/00FDHurakzVEiPutdUxXXq"
     },
     {
       "added_at": "2022-05-25 11:38:55",
@@ -1731,6 +1731,22 @@
     {
       "added_at": "2022-05-25 11:38:55",
       "album": {
+        "name": "Good To Be Back",
+        "url": "https://open.spotify.com/album/0mqBJAuGoE3RpiK8cxjnvg"
+      },
+      "artists": [
+        {
+          "name": "Natalie Cole",
+          "url": "https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9"
+        }
+      ],
+      "duration_ms": 234280,
+      "name": "Miss You Like Crazy",
+      "url": "https://open.spotify.com/track/6d1IYeSfyqOTW61rPgocGD"
+    },
+    {
+      "added_at": "2022-05-25 11:38:55",
+      "album": {
         "name": "Born To Love",
         "url": "https://open.spotify.com/album/2tM4mgvIwXse9Ty1i59yVE"
       },
@@ -1747,22 +1763,6 @@
       "duration_ms": 211000,
       "name": "Tonight I Celebrate My Love",
       "url": "https://open.spotify.com/track/7JOyY9GA3P2Evx50oetDKb"
-    },
-    {
-      "added_at": "2022-05-25 11:38:55",
-      "album": {
-        "name": "Good To Be Back",
-        "url": "https://open.spotify.com/album/0mqBJAuGoE3RpiK8cxjnvg"
-      },
-      "artists": [
-        {
-          "name": "Natalie Cole",
-          "url": "https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9"
-        }
-      ],
-      "duration_ms": 234280,
-      "name": "Miss You Like Crazy",
-      "url": "https://open.spotify.com/track/6d1IYeSfyqOTW61rPgocGD"
     },
     {
       "added_at": "2022-05-25 11:38:55",
@@ -1815,22 +1815,6 @@
     {
       "added_at": "2022-05-25 11:38:55",
       "album": {
-        "name": "Rhythm Of The Night",
-        "url": "https://open.spotify.com/album/13xiHt25Hn4WZ6OLzhK1n8"
-      },
-      "artists": [
-        {
-          "name": "DeBarge",
-          "url": "https://open.spotify.com/artist/6is2U7I1jlI8PjxNZOHIMV"
-        }
-      ],
-      "duration_ms": 267733,
-      "name": "Who's Holding Donna Now?",
-      "url": "https://open.spotify.com/track/66rdGSb6FMm0neFXxmJdPQ"
-    },
-    {
-      "added_at": "2022-05-25 11:38:55",
-      "album": {
         "name": "Nightshift",
         "url": "https://open.spotify.com/album/6QRiOSB53KZEe22LfWr6EP"
       },
@@ -1843,6 +1827,22 @@
       "duration_ms": 306560,
       "name": "Nightshift",
       "url": "https://open.spotify.com/track/23IK8TF2MSiLnuEjaYPfVV"
+    },
+    {
+      "added_at": "2022-05-25 11:38:55",
+      "album": {
+        "name": "Rhythm Of The Night",
+        "url": "https://open.spotify.com/album/13xiHt25Hn4WZ6OLzhK1n8"
+      },
+      "artists": [
+        {
+          "name": "DeBarge",
+          "url": "https://open.spotify.com/artist/6is2U7I1jlI8PjxNZOHIMV"
+        }
+      ],
+      "duration_ms": 267733,
+      "name": "Who's Holding Donna Now?",
+      "url": "https://open.spotify.com/track/66rdGSb6FMm0neFXxmJdPQ"
     },
     {
       "added_at": "2022-05-25 11:38:55",
@@ -1895,22 +1895,6 @@
     {
       "added_at": "2022-05-25 11:38:55",
       "album": {
-        "name": "The Power Of Love: The Best Of Jennifer Rush",
-        "url": "https://open.spotify.com/album/6qCyqeMjwwh2wRQWvQyHgG"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Rush",
-          "url": "https://open.spotify.com/artist/3fsCWTIuWIRvEGS7gerSJX"
-        }
-      ],
-      "duration_ms": 268200,
-      "name": "The Power of Love",
-      "url": "https://open.spotify.com/track/18DfMhEx4ddoreHrvZDF6Q"
-    },
-    {
-      "added_at": "2022-05-25 11:38:55",
-      "album": {
         "name": "Share Your Love",
         "url": "https://open.spotify.com/album/0RlTMOUZMLq2Tmj6K9NgX6"
       },
@@ -1923,6 +1907,22 @@
       "duration_ms": 286066,
       "name": "Through The Years - Single Version",
       "url": "https://open.spotify.com/track/4pP5xVUYEZljcmfyYFQXsx"
+    },
+    {
+      "added_at": "2022-05-25 11:38:55",
+      "album": {
+        "name": "The Power Of Love: The Best Of Jennifer Rush",
+        "url": "https://open.spotify.com/album/6qCyqeMjwwh2wRQWvQyHgG"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Rush",
+          "url": "https://open.spotify.com/artist/3fsCWTIuWIRvEGS7gerSJX"
+        }
+      ],
+      "duration_ms": 268200,
+      "name": "The Power of Love",
+      "url": "https://open.spotify.com/track/18DfMhEx4ddoreHrvZDF6Q"
     },
     {
       "added_at": "2022-05-25 11:38:55",
@@ -2331,22 +2331,6 @@
     {
       "added_at": "2022-05-25 11:38:55",
       "album": {
-        "name": "Suddenly (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0gNeqVQyUq6SYzVSq7Suuo"
-      },
-      "artists": [
-        {
-          "name": "Billy Ocean",
-          "url": "https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo"
-        }
-      ],
-      "duration_ms": 234706,
-      "name": "Suddenly",
-      "url": "https://open.spotify.com/track/65h7Qhxl2WfW31Bl6sjWAI"
-    },
-    {
-      "added_at": "2022-05-25 11:38:55",
-      "album": {
         "name": "Tootsie (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7CHXmIYw1PDxJR5795csK7"
       },
@@ -2359,6 +2343,22 @@
       "duration_ms": 256226,
       "name": "It Might Be You (Theme from Tootsie)",
       "url": "https://open.spotify.com/track/3TRexXc7XRFVZA1WZPkOGY"
+    },
+    {
+      "added_at": "2022-05-25 11:38:55",
+      "album": {
+        "name": "Suddenly (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0gNeqVQyUq6SYzVSq7Suuo"
+      },
+      "artists": [
+        {
+          "name": "Billy Ocean",
+          "url": "https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo"
+        }
+      ],
+      "duration_ms": 234706,
+      "name": "Suddenly",
+      "url": "https://open.spotify.com/track/65h7Qhxl2WfW31Bl6sjWAI"
     },
     {
       "added_at": "2022-05-25 11:38:55",
@@ -2447,18 +2447,18 @@
     {
       "added_at": "2022-05-25 11:38:55",
       "album": {
-        "name": "M & J",
-        "url": "https://open.spotify.com/album/3ptx9VPjMyOjQzrNsvjLIc"
+        "name": "Thriller",
+        "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
       },
       "artists": [
         {
-          "name": "Vanessa Paradis",
-          "url": "https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd"
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
         }
       ],
-      "duration_ms": 235226,
-      "name": "Joe le taxi",
-      "url": "https://open.spotify.com/track/7nZCg1jgmXIjSBRifWkmaJ"
+      "duration_ms": 246040,
+      "name": "Human Nature",
+      "url": "https://open.spotify.com/track/4cgjA7B4fJBHyB9Ya2bu0t"
     }
   ],
   "unique_name": "Soft 80s",

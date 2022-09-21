@@ -361,7 +361,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 253360,
       "name": "No Shade",
       "url": "https://open.spotify.com/track/0KveCmWIH6u2VQ5MpgeobH"
@@ -545,6 +545,24 @@
       "duration_ms": 194479,
       "name": "Viceroy",
       "url": "https://open.spotify.com/track/1GDHLUJbmUrd0Jf88q2pZP"
+    },
+    {
+      "album": {
+        "name": "WACO",
+        "url": "https://open.spotify.com/album/6ix7lKcyEpFlEpyiq8vfne"
+      },
+      "artists": [
+        {
+          "name": "Violent Soho",
+          "url": "https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240840,
+      "name": "Waco",
+      "url": "https://open.spotify.com/track/7x3k7amEYstlspNVXEp2B5"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1BE4x4"

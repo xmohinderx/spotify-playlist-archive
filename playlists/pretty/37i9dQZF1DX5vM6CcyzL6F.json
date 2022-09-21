@@ -1,12 +1,12 @@
 {
   "description": "Si la salsa se cruza con la chamba... \u00a1s\u00fabele a la bocina y ponle sabor a tus labores!",
-  "num_followers": 12108,
+  "num_followers": 12180,
   "original_name": "Chambeando con Salsa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTQ4MDc5MywwMDAwMDAwMGFmZGQ1YTY4ZDg2YWEyYmU3NWY2MTI3ZmEwZmEyYzVh",
+  "snapshot_id": "MTY1OTQ4MDc5MywwMDAwMDAwMDVjYzViYTk3ODYyMjYwYzZlNDAzYzVjNGI3ODI4OTdk",
   "tracks": [
     {
       "added_at": "2022-08-02 22:53:13",
@@ -719,22 +719,6 @@
     {
       "added_at": "2022-08-02 22:53:13",
       "album": {
-        "name": "20th Anniversary",
-        "url": "https://open.spotify.com/album/02IhbBURLOQ1PiaDODuHfW"
-      },
-      "artists": [
-        {
-          "name": "Rey Ruiz",
-          "url": "https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ"
-        }
-      ],
-      "duration_ms": 292973,
-      "name": "Mi Media Mitad",
-      "url": "https://open.spotify.com/track/0vffx55ffXHq2bz0yKlZiM"
-    },
-    {
-      "added_at": "2022-08-02 22:53:13",
-      "album": {
         "name": "Mi Raz\u00f3n de Ser",
         "url": "https://open.spotify.com/album/0CdhFwicPfGBbNQx7qdCx7"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 261600,
       "name": "Porqu\u00e9 Ser\u00e1",
       "url": "https://open.spotify.com/track/0vGGu88Cicm2MpV1MfMh8Z"
+    },
+    {
+      "added_at": "2022-08-02 22:53:13",
+      "album": {
+        "name": "20th Anniversary",
+        "url": "https://open.spotify.com/album/02IhbBURLOQ1PiaDODuHfW"
+      },
+      "artists": [
+        {
+          "name": "Rey Ruiz",
+          "url": "https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ"
+        }
+      ],
+      "duration_ms": 292973,
+      "name": "Mi Media Mitad",
+      "url": "https://open.spotify.com/track/0vffx55ffXHq2bz0yKlZiM"
     },
     {
       "added_at": "2022-08-02 22:53:13",
@@ -883,18 +883,18 @@
     {
       "added_at": "2022-08-02 22:53:13",
       "album": {
-        "name": "Memoria",
-        "url": "https://open.spotify.com/album/1GoscVGngfCuRuqRtv1hZP"
+        "name": "A Pesar Del Tiempo",
+        "url": "https://open.spotify.com/album/2w7deBpcUwnDDk2pIEhzd3"
       },
       "artists": [
         {
-          "name": "Polo Monta\u00f1ez",
-          "url": "https://open.spotify.com/artist/0NJbkbtOgSj2Q5bkUV3FPz"
+          "name": "Mickey Taveras",
+          "url": "https://open.spotify.com/artist/1iVpMZKqpnZWfCXO2vIozm"
         }
       ],
-      "duration_ms": 364466,
-      "name": "Un Monton De Estrellas",
-      "url": "https://open.spotify.com/track/6aRaqc6pTMrm530rf7uL0S"
+      "duration_ms": 297888,
+      "name": "A Pesar Del Tiempo",
+      "url": "https://open.spotify.com/track/694UEye58A0IZCIluDQNRv"
     },
     {
       "added_at": "2022-08-02 22:53:13",
@@ -911,6 +911,22 @@
       "duration_ms": 252306,
       "name": "Si Supiera",
       "url": "https://open.spotify.com/track/6edMEekESIWsXZrs8GRoOb"
+    },
+    {
+      "added_at": "2022-08-02 22:53:13",
+      "album": {
+        "name": "Memoria",
+        "url": "https://open.spotify.com/album/1GoscVGngfCuRuqRtv1hZP"
+      },
+      "artists": [
+        {
+          "name": "Polo Monta\u00f1ez",
+          "url": "https://open.spotify.com/artist/0NJbkbtOgSj2Q5bkUV3FPz"
+        }
+      ],
+      "duration_ms": 364466,
+      "name": "Un Monton De Estrellas",
+      "url": "https://open.spotify.com/track/6aRaqc6pTMrm530rf7uL0S"
     },
     {
       "added_at": "2022-08-02 22:53:13",
@@ -963,22 +979,6 @@
       "duration_ms": 253346,
       "name": "La Negra Tiene Tumbao",
       "url": "https://open.spotify.com/track/2uzCfFYh6tSNFdz14ZIf3N"
-    },
-    {
-      "added_at": "2022-08-02 22:53:13",
-      "album": {
-        "name": "A Pesar Del Tiempo",
-        "url": "https://open.spotify.com/album/2w7deBpcUwnDDk2pIEhzd3"
-      },
-      "artists": [
-        {
-          "name": "Mickey Taveras",
-          "url": "https://open.spotify.com/artist/1iVpMZKqpnZWfCXO2vIozm"
-        }
-      ],
-      "duration_ms": 297888,
-      "name": "A Pesar Del Tiempo",
-      "url": "https://open.spotify.com/track/694UEye58A0IZCIluDQNRv"
     },
     {
       "added_at": "2022-08-02 22:53:13",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2022-08-02 22:53:13",
       "album": {
-        "name": "Viva Rosario",
-        "url": "https://open.spotify.com/album/68Gx7E0QgelZ6Uvpo9PWzB"
-      },
-      "artists": [
-        {
-          "name": "Willie Rosario",
-          "url": "https://open.spotify.com/artist/24qSVomYxpfAFwzBnKCc8J"
-        }
-      ],
-      "duration_ms": 301010,
-      "name": "Anuncio Clasificado / D\u00e1melo",
-      "url": "https://open.spotify.com/track/3kqapvD6gg0TlUeqinOX9u"
-    },
-    {
-      "added_at": "2022-08-02 22:53:13",
-      "album": {
         "name": "From Cali with Love",
         "url": "https://open.spotify.com/album/6l2H02jQ5TEVk0QTI90I4s"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 301400,
       "name": "Tendria Que Llorar Por Ti",
       "url": "https://open.spotify.com/track/1KvvRNWBKRcWE6aSxroIb0"
+    },
+    {
+      "added_at": "2022-08-02 22:53:13",
+      "album": {
+        "name": "Viva Rosario",
+        "url": "https://open.spotify.com/album/68Gx7E0QgelZ6Uvpo9PWzB"
+      },
+      "artists": [
+        {
+          "name": "Willie Rosario",
+          "url": "https://open.spotify.com/artist/24qSVomYxpfAFwzBnKCc8J"
+        }
+      ],
+      "duration_ms": 301010,
+      "name": "Anuncio Clasificado / D\u00e1melo",
+      "url": "https://open.spotify.com/track/3kqapvD6gg0TlUeqinOX9u"
     },
     {
       "added_at": "2022-08-02 22:53:13",

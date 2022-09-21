@@ -1,12 +1,12 @@
 {
   "description": "H\u00e4r h\u00f6r du de b\u00e4sta svenska l\u00e5tarna just nu.",
-  "num_followers": 117407,
+  "num_followers": 117424,
   "original_name": "Made in Sweden",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzI3OTIwMCwwMDAwMDAwMGFiZGNlODIwNmUxMjIzMGViYTBiZDU1ZDEwZWVkZGVl",
+  "snapshot_id": "MTY2MzI3OTIwMCwwMDAwMDAwMDhkN2Y3MGJiYzU2YzQyYTgxZDRkNDE1YjA1MDc3ZWQ3",
   "tracks": [
     {
       "added_at": "2022-09-15 22:00:00",
@@ -63,22 +63,6 @@
     {
       "added_at": "2022-09-15 22:00:00",
       "album": {
-        "name": "Out of My Head",
-        "url": "https://open.spotify.com/album/0yApDZC0LLXvZ7A21xL9BT"
-      },
-      "artists": [
-        {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "Out of My Head",
-      "url": "https://open.spotify.com/track/6hAZx4PQIlwyazfANp6joe"
-    },
-    {
-      "added_at": "2022-09-15 22:00:00",
-      "album": {
         "name": "Stockholmsvy",
         "url": "https://open.spotify.com/album/4NUrMxS5Jwc0sa84UeOeZf"
       },
@@ -95,6 +79,22 @@
       "duration_ms": 161396,
       "name": "Stockholmsvy",
       "url": "https://open.spotify.com/track/3vWJ3fZKghO8kHntrAa8oB"
+    },
+    {
+      "added_at": "2022-09-15 22:00:00",
+      "album": {
+        "name": "Out of My Head",
+        "url": "https://open.spotify.com/album/0yApDZC0LLXvZ7A21xL9BT"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Out of My Head",
+      "url": "https://open.spotify.com/track/6hAZx4PQIlwyazfANp6joe"
     },
     {
       "added_at": "2022-09-15 22:00:00",
@@ -339,6 +339,22 @@
     {
       "added_at": "2022-09-15 22:00:00",
       "album": {
+        "name": "V\u00e5gar",
+        "url": "https://open.spotify.com/album/5iOQhsgCAUTf9BUVwYR5m3"
+      },
+      "artists": [
+        {
+          "name": "lovad",
+          "url": "https://open.spotify.com/artist/3MPhQdwcGDArJTh3SvU9nj"
+        }
+      ],
+      "duration_ms": 158644,
+      "name": "V\u00e5gar",
+      "url": "https://open.spotify.com/track/7uiGgzShu2Hz9iMg1Cgvpk"
+    },
+    {
+      "added_at": "2022-09-15 22:00:00",
+      "album": {
         "name": "Sommarregn (feat. Hanna Ferm)",
         "url": "https://open.spotify.com/album/12SjrFUpHO06Xm2Co5ookK"
       },
@@ -355,22 +371,6 @@
       "duration_ms": 182515,
       "name": "Sommarregn (feat. Hanna Ferm)",
       "url": "https://open.spotify.com/track/3rZtRBAKCHaZVxMQqXLAPu"
-    },
-    {
-      "added_at": "2022-09-15 22:00:00",
-      "album": {
-        "name": "V\u00e5gar",
-        "url": "https://open.spotify.com/album/5iOQhsgCAUTf9BUVwYR5m3"
-      },
-      "artists": [
-        {
-          "name": "lovad",
-          "url": "https://open.spotify.com/artist/3MPhQdwcGDArJTh3SvU9nj"
-        }
-      ],
-      "duration_ms": 158644,
-      "name": "V\u00e5gar",
-      "url": "https://open.spotify.com/track/7uiGgzShu2Hz9iMg1Cgvpk"
     },
     {
       "added_at": "2022-09-15 22:00:00",
@@ -443,22 +443,6 @@
     {
       "added_at": "2022-09-15 22:00:00",
       "album": {
-        "name": "Belly Shots",
-        "url": "https://open.spotify.com/album/6H1RcenTQD6kd35jhbO25i"
-      },
-      "artists": [
-        {
-          "name": "Sarah Klang",
-          "url": "https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf"
-        }
-      ],
-      "duration_ms": 155520,
-      "name": "Belly Shots",
-      "url": "https://open.spotify.com/track/6pXeSXCMHOIQBdl5BYHcG8"
-    },
-    {
-      "added_at": "2022-09-15 22:00:00",
-      "album": {
         "name": "NOTED...EP",
         "url": "https://open.spotify.com/album/6AMjHESQyOiW52JfQC8PEm"
       },
@@ -479,18 +463,34 @@
     {
       "added_at": "2022-09-15 22:00:00",
       "album": {
-        "name": "Bara bby",
-        "url": "https://open.spotify.com/album/3plhQIEFllsYNv708OaENV"
+        "name": "I Feel It In The Wind",
+        "url": "https://open.spotify.com/album/1OedsPZaNzUJILkvivIYF7"
       },
       "artists": [
         {
-          "name": "bby",
-          "url": "https://open.spotify.com/artist/229RQG4IQ1BFiS1FJvww5N"
+          "name": "Smith & Thell",
+          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
         }
       ],
-      "duration_ms": 155026,
-      "name": "Hon har dig",
-      "url": "https://open.spotify.com/track/02twVAfoDG1podz5ns885c"
+      "duration_ms": 213717,
+      "name": "I Feel It In The Wind",
+      "url": "https://open.spotify.com/track/4bc5uke0uDwT78j0pIKlDg"
+    },
+    {
+      "added_at": "2022-09-15 22:00:00",
+      "album": {
+        "name": "Belly Shots",
+        "url": "https://open.spotify.com/album/6H1RcenTQD6kd35jhbO25i"
+      },
+      "artists": [
+        {
+          "name": "Sarah Klang",
+          "url": "https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf"
+        }
+      ],
+      "duration_ms": 155520,
+      "name": "Belly Shots",
+      "url": "https://open.spotify.com/track/6pXeSXCMHOIQBdl5BYHcG8"
     },
     {
       "added_at": "2022-09-15 22:00:00",
@@ -531,6 +531,22 @@
     {
       "added_at": "2022-09-15 22:00:00",
       "album": {
+        "name": "Bara bby",
+        "url": "https://open.spotify.com/album/3plhQIEFllsYNv708OaENV"
+      },
+      "artists": [
+        {
+          "name": "bby",
+          "url": "https://open.spotify.com/artist/229RQG4IQ1BFiS1FJvww5N"
+        }
+      ],
+      "duration_ms": 155026,
+      "name": "Hon har dig",
+      "url": "https://open.spotify.com/track/02twVAfoDG1podz5ns885c"
+    },
+    {
+      "added_at": "2022-09-15 22:00:00",
+      "album": {
         "name": "Saknar inte dig",
         "url": "https://open.spotify.com/album/7xHtg244xpRLKbGeAspT72"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 250635,
       "name": "Till slutet av augusti - Live fr\u00e5n Benjamin's",
       "url": "https://open.spotify.com/track/4DADoG4Te1jpbBBCbj7hiH"
-    },
-    {
-      "added_at": "2022-09-15 22:00:00",
-      "album": {
-        "name": "I Feel It In The Wind",
-        "url": "https://open.spotify.com/album/1OedsPZaNzUJILkvivIYF7"
-      },
-      "artists": [
-        {
-          "name": "Smith & Thell",
-          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
-        }
-      ],
-      "duration_ms": 213717,
-      "name": "I Feel It In The Wind",
-      "url": "https://open.spotify.com/track/4bc5uke0uDwT78j0pIKlDg"
     },
     {
       "added_at": "2022-09-15 22:00:00",
@@ -687,22 +687,6 @@
     {
       "added_at": "2022-09-15 22:00:00",
       "album": {
-        "name": "Tempo",
-        "url": "https://open.spotify.com/album/1tmpqcQo2ELxzhAogvUjDT"
-      },
-      "artists": [
-        {
-          "name": "Cherrie",
-          "url": "https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW"
-        }
-      ],
-      "duration_ms": 151816,
-      "name": "Tempo",
-      "url": "https://open.spotify.com/track/26gPOGI1XfspV0qkIB82rZ"
-    },
-    {
-      "added_at": "2022-09-15 22:00:00",
-      "album": {
         "name": "Musik Non Stop - Spotify Singles",
         "url": "https://open.spotify.com/album/4rkc0m2fJ9RvXsgoIhYMV5"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 215818,
       "name": "Isabelle",
       "url": "https://open.spotify.com/track/6RIWWLyss6LfdqJXANlhFv"
+    },
+    {
+      "added_at": "2022-09-15 22:00:00",
+      "album": {
+        "name": "Tempo",
+        "url": "https://open.spotify.com/album/1tmpqcQo2ELxzhAogvUjDT"
+      },
+      "artists": [
+        {
+          "name": "Cherrie",
+          "url": "https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW"
+        }
+      ],
+      "duration_ms": 151816,
+      "name": "Tempo",
+      "url": "https://open.spotify.com/track/26gPOGI1XfspV0qkIB82rZ"
     },
     {
       "added_at": "2022-09-15 22:00:00",
@@ -787,22 +787,6 @@
     {
       "added_at": "2022-09-15 22:00:00",
       "album": {
-        "name": "MER",
-        "url": "https://open.spotify.com/album/3pKahzSD2oF35BNuc5i5Oi"
-      },
-      "artists": [
-        {
-          "name": "Cherrie",
-          "url": "https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW"
-        }
-      ],
-      "duration_ms": 153987,
-      "name": "MER",
-      "url": "https://open.spotify.com/track/0FHJmO5wdJsNUCNEkd5OZ3"
-    },
-    {
-      "added_at": "2022-09-15 22:00:00",
-      "album": {
         "name": "What You Were Made For",
         "url": "https://open.spotify.com/album/2tp55z03GJL1CexjXcEfBw"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 183775,
       "name": "Metal Firecracker",
       "url": "https://open.spotify.com/track/7tzifC2bbcUfLz1RoH2zeR"
+    },
+    {
+      "added_at": "2022-09-15 22:00:00",
+      "album": {
+        "name": "MER",
+        "url": "https://open.spotify.com/album/3pKahzSD2oF35BNuc5i5Oi"
+      },
+      "artists": [
+        {
+          "name": "Cherrie",
+          "url": "https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW"
+        }
+      ],
+      "duration_ms": 153987,
+      "name": "MER",
+      "url": "https://open.spotify.com/track/0FHJmO5wdJsNUCNEkd5OZ3"
     },
     {
       "added_at": "2022-09-15 22:00:00",
@@ -947,22 +947,6 @@
     {
       "added_at": "2022-09-15 22:00:00",
       "album": {
-        "name": "\u00c4lskling EP",
-        "url": "https://open.spotify.com/album/0ksVRgGY7uTN70btWV3ObS"
-      },
-      "artists": [
-        {
-          "name": "lovad",
-          "url": "https://open.spotify.com/artist/3MPhQdwcGDArJTh3SvU9nj"
-        }
-      ],
-      "duration_ms": 176640,
-      "name": "Aldrig mer tillbaka",
-      "url": "https://open.spotify.com/track/0TRWebGVO0wuelGMnAHkkm"
-    },
-    {
-      "added_at": "2022-09-15 22:00:00",
-      "album": {
         "name": "Sommart\u00e5rar",
         "url": "https://open.spotify.com/album/0HsAsAQ5yJvZv8W0ZNWGRY"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 190454,
       "name": "Aldrig s\u00e4ga aldrig",
       "url": "https://open.spotify.com/track/4Za77Ywg9rpSmK24PkWBxU"
+    },
+    {
+      "added_at": "2022-09-15 22:00:00",
+      "album": {
+        "name": "\u00c4lskling EP",
+        "url": "https://open.spotify.com/album/0ksVRgGY7uTN70btWV3ObS"
+      },
+      "artists": [
+        {
+          "name": "lovad",
+          "url": "https://open.spotify.com/artist/3MPhQdwcGDArJTh3SvU9nj"
+        }
+      ],
+      "duration_ms": 176640,
+      "name": "Aldrig mer tillbaka",
+      "url": "https://open.spotify.com/track/0TRWebGVO0wuelGMnAHkkm"
     },
     {
       "added_at": "2022-09-15 22:00:00",
@@ -1095,38 +1095,6 @@
     {
       "added_at": "2022-09-15 22:00:00",
       "album": {
-        "name": "Slutet av dagen",
-        "url": "https://open.spotify.com/album/7b7qdKJlsMRhIibvs7Zo0Q"
-      },
-      "artists": [
-        {
-          "name": "Petter",
-          "url": "https://open.spotify.com/artist/5A0Bu9azuFEnud3q7t0V2r"
-        }
-      ],
-      "duration_ms": 208043,
-      "name": "Slutet av dagen",
-      "url": "https://open.spotify.com/track/3BwAqx9Bm9W9PQROjHQ07Z"
-    },
-    {
-      "added_at": "2022-09-15 22:00:00",
-      "album": {
-        "name": "Sk\u00e5l",
-        "url": "https://open.spotify.com/album/2U56u39r3FrTJkhdBthB8W"
-      },
-      "artists": [
-        {
-          "name": "Tjuvjakt",
-          "url": "https://open.spotify.com/artist/0XDfNJsQy7B3q0GfsMHSkp"
-        }
-      ],
-      "duration_ms": 175400,
-      "name": "Sk\u00e5l",
-      "url": "https://open.spotify.com/track/0d53D9YtdbRErx5b94XNpm"
-    },
-    {
-      "added_at": "2022-09-15 22:00:00",
-      "album": {
         "name": "T\u00e4nd alla ljus (Fr\u00e5n Benjamin's)",
         "url": "https://open.spotify.com/album/2N7xVJBwo7MaFhEukHMoDt"
       },
@@ -1147,6 +1115,22 @@
     {
       "added_at": "2022-09-15 22:00:00",
       "album": {
+        "name": "Sk\u00e5l",
+        "url": "https://open.spotify.com/album/2U56u39r3FrTJkhdBthB8W"
+      },
+      "artists": [
+        {
+          "name": "Tjuvjakt",
+          "url": "https://open.spotify.com/artist/0XDfNJsQy7B3q0GfsMHSkp"
+        }
+      ],
+      "duration_ms": 175400,
+      "name": "Sk\u00e5l",
+      "url": "https://open.spotify.com/track/0d53D9YtdbRErx5b94XNpm"
+    },
+    {
+      "added_at": "2022-09-15 22:00:00",
+      "album": {
         "name": "\u00c4R DU INTE TR\u00d6TT P\u00c5 ATT VARA DU?",
         "url": "https://open.spotify.com/album/4D3HtYzfE4oQXrEODIQkmI"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 179268,
       "name": "\u00c4R DU INTE TR\u00d6TT P\u00c5 ATT VARA DU?",
       "url": "https://open.spotify.com/track/459dyx2K2WuQRWxT3g8lwg"
+    },
+    {
+      "added_at": "2022-09-15 22:00:00",
+      "album": {
+        "name": "Slutet av dagen",
+        "url": "https://open.spotify.com/album/7b7qdKJlsMRhIibvs7Zo0Q"
+      },
+      "artists": [
+        {
+          "name": "Petter",
+          "url": "https://open.spotify.com/artist/5A0Bu9azuFEnud3q7t0V2r"
+        }
+      ],
+      "duration_ms": 208043,
+      "name": "Slutet av dagen",
+      "url": "https://open.spotify.com/track/3BwAqx9Bm9W9PQROjHQ07Z"
     },
     {
       "added_at": "2022-09-15 22:00:00",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2022-09-15 22:00:00",
       "album": {
+        "name": "Say Something",
+        "url": "https://open.spotify.com/album/2mnXp1mWtGCdlCY4WlDVmR"
+      },
+      "artists": [
+        {
+          "name": "Ella Tiritiello",
+          "url": "https://open.spotify.com/artist/2Dpj2Fts5HbgdsjZ12khbp"
+        }
+      ],
+      "duration_ms": 203039,
+      "name": "Say Something",
+      "url": "https://open.spotify.com/track/29jS36CANsKdfrlYzwbbJL"
+    },
+    {
+      "added_at": "2022-09-15 22:00:00",
+      "album": {
         "name": "Djur och m\u00e4nniska",
         "url": "https://open.spotify.com/album/4Q6QpBgnx0XhGEgZHTC0hd"
       },
@@ -1259,22 +1275,6 @@
     {
       "added_at": "2022-09-15 22:00:00",
       "album": {
-        "name": "Say Something",
-        "url": "https://open.spotify.com/album/2mnXp1mWtGCdlCY4WlDVmR"
-      },
-      "artists": [
-        {
-          "name": "Ella Tiritiello",
-          "url": "https://open.spotify.com/artist/2Dpj2Fts5HbgdsjZ12khbp"
-        }
-      ],
-      "duration_ms": 203039,
-      "name": "Say Something",
-      "url": "https://open.spotify.com/track/29jS36CANsKdfrlYzwbbJL"
-    },
-    {
-      "added_at": "2022-09-15 22:00:00",
-      "album": {
         "name": "Blessed / Black Star",
         "url": "https://open.spotify.com/album/28ykkNfCAOhfUloUtxRQIO"
       },
@@ -1303,6 +1303,26 @@
       "duration_ms": 232976,
       "name": "F\u00f6rst\u00e5r Det Nu",
       "url": "https://open.spotify.com/track/2HnE1eny50TK0PAm804LDy"
+    },
+    {
+      "added_at": "2022-09-15 22:00:00",
+      "album": {
+        "name": "Bygga Nytt",
+        "url": "https://open.spotify.com/album/4ipVGk4eu3saiPXuN1firl"
+      },
+      "artists": [
+        {
+          "name": "Timbuktu",
+          "url": "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+        },
+        {
+          "name": "Sabina Ddumba",
+          "url": "https://open.spotify.com/artist/2Mp409M6EpFr3kGdQ1mwjS"
+        }
+      ],
+      "duration_ms": 220013,
+      "name": "Bygga Nytt",
+      "url": "https://open.spotify.com/track/2530kYkCKjqD2neMyPwPtp"
     },
     {
       "added_at": "2022-09-15 22:00:00",
@@ -1355,26 +1375,6 @@
     {
       "added_at": "2022-09-15 22:00:00",
       "album": {
-        "name": "Bygga Nytt",
-        "url": "https://open.spotify.com/album/4ipVGk4eu3saiPXuN1firl"
-      },
-      "artists": [
-        {
-          "name": "Timbuktu",
-          "url": "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
-        },
-        {
-          "name": "Sabina Ddumba",
-          "url": "https://open.spotify.com/artist/2Mp409M6EpFr3kGdQ1mwjS"
-        }
-      ],
-      "duration_ms": 220013,
-      "name": "Bygga Nytt",
-      "url": "https://open.spotify.com/track/2530kYkCKjqD2neMyPwPtp"
-    },
-    {
-      "added_at": "2022-09-15 22:00:00",
-      "album": {
         "name": "St\u00f6rre",
         "url": "https://open.spotify.com/album/1t9Y1lXxIG52p0x0oPeKcb"
       },
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2022-09-15 22:00:00",
       "album": {
-        "name": "Besvikelsens melodi",
-        "url": "https://open.spotify.com/album/1vQFs8ArZg3Gh8OrbGrW14"
-      },
-      "artists": [
-        {
-          "name": "Petter",
-          "url": "https://open.spotify.com/artist/5A0Bu9azuFEnud3q7t0V2r"
-        }
-      ],
-      "duration_ms": 161231,
-      "name": "Besvikelsens melodi",
-      "url": "https://open.spotify.com/track/2vMkLWQPmHXDy9vBD06KuP"
-    },
-    {
-      "added_at": "2022-09-15 22:00:00",
-      "album": {
         "name": "Sunshine",
         "url": "https://open.spotify.com/album/0wOtQE4XS0U9DPwCFram7H"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 221350,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/7ApIjBn1tqOyof0zvVX7CY"
+    },
+    {
+      "added_at": "2022-09-15 22:00:00",
+      "album": {
+        "name": "Besvikelsens melodi",
+        "url": "https://open.spotify.com/album/1vQFs8ArZg3Gh8OrbGrW14"
+      },
+      "artists": [
+        {
+          "name": "Petter",
+          "url": "https://open.spotify.com/artist/5A0Bu9azuFEnud3q7t0V2r"
+        }
+      ],
+      "duration_ms": 161231,
+      "name": "Besvikelsens melodi",
+      "url": "https://open.spotify.com/track/2vMkLWQPmHXDy9vBD06KuP"
     },
     {
       "added_at": "2022-09-15 22:00:00",
@@ -1471,6 +1471,30 @@
     {
       "added_at": "2022-09-15 22:00:00",
       "album": {
+        "name": "space / emma",
+        "url": "https://open.spotify.com/album/7zKoHoObscvApk5HXFMJi1"
+      },
+      "artists": [
+        {
+          "name": "yaeow",
+          "url": "https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH"
+        },
+        {
+          "name": "Ollie",
+          "url": "https://open.spotify.com/artist/5OyoCvyau6TiGqcCKnDBCR"
+        },
+        {
+          "name": "YOG$",
+          "url": "https://open.spotify.com/artist/22PiLADkpKIOBgYDt10UXI"
+        }
+      ],
+      "duration_ms": 168437,
+      "name": "space",
+      "url": "https://open.spotify.com/track/4nstXEMLPc7P3lZcGuHKUI"
+    },
+    {
+      "added_at": "2022-09-15 22:00:00",
+      "album": {
         "name": "Brev fr\u00e5n botten",
         "url": "https://open.spotify.com/album/0VOFmm3Q52uhN25LlCviJ2"
       },
@@ -1503,22 +1527,6 @@
     {
       "added_at": "2022-09-15 22:00:00",
       "album": {
-        "name": "Din blomstertid nu kommer",
-        "url": "https://open.spotify.com/album/6kxkTvgmJu4phBuW10rdUZ"
-      },
-      "artists": [
-        {
-          "name": "Axel Schylstr\u00f6m",
-          "url": "https://open.spotify.com/artist/0Oomam5yjtfqVPnscjx8GT"
-        }
-      ],
-      "duration_ms": 195600,
-      "name": "Din blomstertid nu kommer",
-      "url": "https://open.spotify.com/track/7kFd9RMRnobIXL3CNtS968"
-    },
-    {
-      "added_at": "2022-09-15 22:00:00",
-      "album": {
         "name": "EYEYE",
         "url": "https://open.spotify.com/album/4DEuMVYWVQHxhE8oNBO8T4"
       },
@@ -1531,6 +1539,22 @@
       "duration_ms": 296960,
       "name": "HAPPY HURTS",
       "url": "https://open.spotify.com/track/2r2l2KmLnaULSmaeB7Df8b"
+    },
+    {
+      "added_at": "2022-09-15 22:00:00",
+      "album": {
+        "name": "Din blomstertid nu kommer",
+        "url": "https://open.spotify.com/album/6kxkTvgmJu4phBuW10rdUZ"
+      },
+      "artists": [
+        {
+          "name": "Axel Schylstr\u00f6m",
+          "url": "https://open.spotify.com/artist/0Oomam5yjtfqVPnscjx8GT"
+        }
+      ],
+      "duration_ms": 195600,
+      "name": "Din blomstertid nu kommer",
+      "url": "https://open.spotify.com/track/7kFd9RMRnobIXL3CNtS968"
     },
     {
       "added_at": "2022-09-15 22:00:00",
@@ -1567,30 +1591,6 @@
       "duration_ms": 178213,
       "name": "Allt jag kan",
       "url": "https://open.spotify.com/track/7oBOc7PJvCvPTbwQEXgkBd"
-    },
-    {
-      "added_at": "2022-09-15 22:00:00",
-      "album": {
-        "name": "space / emma",
-        "url": "https://open.spotify.com/album/7zKoHoObscvApk5HXFMJi1"
-      },
-      "artists": [
-        {
-          "name": "yaeow",
-          "url": "https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH"
-        },
-        {
-          "name": "Ollie",
-          "url": "https://open.spotify.com/artist/5OyoCvyau6TiGqcCKnDBCR"
-        },
-        {
-          "name": "YOG$",
-          "url": "https://open.spotify.com/artist/22PiLADkpKIOBgYDt10UXI"
-        }
-      ],
-      "duration_ms": 168437,
-      "name": "space",
-      "url": "https://open.spotify.com/track/4nstXEMLPc7P3lZcGuHKUI"
     },
     {
       "added_at": "2022-09-15 22:00:00",
@@ -1695,18 +1695,18 @@
     {
       "added_at": "2022-09-15 22:00:00",
       "album": {
-        "name": "Stilla",
-        "url": "https://open.spotify.com/album/4O3mvAJiHJU0oBP35n3q8x"
+        "name": "Superstar",
+        "url": "https://open.spotify.com/album/4O6zCCdEquqKmMcXHrSbBy"
       },
       "artists": [
         {
-          "name": "Dag Tolstoy",
-          "url": "https://open.spotify.com/artist/3pqmSK0CTIQ5RGfGLm2d9y"
+          "name": "Darin",
+          "url": "https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr"
         }
       ],
-      "duration_ms": 167803,
-      "name": "Stilla",
-      "url": "https://open.spotify.com/track/7G7XjX6ELRTtlIfvcpOgKj"
+      "duration_ms": 201201,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/21pE89kv4OQssxpzUPwMek"
     }
   ],
   "unique_name": "Made in Sweden",

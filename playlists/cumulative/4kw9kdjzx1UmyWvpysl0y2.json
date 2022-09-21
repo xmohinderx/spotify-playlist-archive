@@ -1610,6 +1610,24 @@
     },
     {
       "album": {
+        "name": "fallen",
+        "url": "https://open.spotify.com/album/0lV2fwEZ74jxwquxMxwWUc"
+      },
+      "artists": [
+        {
+          "name": "Foxela",
+          "url": "https://open.spotify.com/artist/1R2OPNS7EkGLKcDjyGnpEu"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "fallen",
+      "url": "https://open.spotify.com/track/7aiv9KI14BSQ1syfHIvmdF"
+    },
+    {
+      "album": {
         "name": "Falling Apart",
         "url": "https://open.spotify.com/album/5ciCvi9pccBxbpOBwfHYom"
       },

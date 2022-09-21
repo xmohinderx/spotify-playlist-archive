@@ -1650,6 +1650,28 @@
     },
     {
       "album": {
+        "name": "HOMETOWN HEROES",
+        "url": "https://open.spotify.com/album/370OsF7iXElQn5eBK7R6B4"
+      },
+      "artists": [
+        {
+          "name": "Mr. Carmack",
+          "url": "https://open.spotify.com/artist/4OHaWpWPKDcZgOOUn9elFn"
+        },
+        {
+          "name": "Dilip",
+          "url": "https://open.spotify.com/artist/5PcwbyuOX1pnaeVYatEEB2"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270422,
+      "name": "GOD (MUSIC)",
+      "url": "https://open.spotify.com/track/0JwXTGM7R2KGSfck5EZ9xm"
+    },
+    {
+      "album": {
         "name": "Blonde",
         "url": "https://open.spotify.com/album/2eCPjxsY03PGy7ndGDp5Tk"
       },
@@ -3627,7 +3649,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 192000,
       "name": "Sad B*tch (Tisoki Remix)",
       "url": "https://open.spotify.com/track/0tWgUaqAz1g9RoKbYYfUTG"

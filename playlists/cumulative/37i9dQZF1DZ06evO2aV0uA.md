@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [11th Hour](https://open.spotify.com/track/6WDJv2slxzc6Xu7CVonDBM) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [As The Palaces Burn](https://open.spotify.com/album/5OubC3vkQNuA3rVu6iD6xa) | 3:44 | 2022-05-30 | 2022-09-20 |
+| [11th Hour](https://open.spotify.com/track/6WDJv2slxzc6Xu7CVonDBM) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [As The Palaces Burn](https://open.spotify.com/album/5OubC3vkQNuA3rVu6iD6xa) | 3:44 | 2022-05-30 |  |
 | [512](https://open.spotify.com/track/1WWq2DUV0UbO4XJda2usuv) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [VII: Sturm und Drang](https://open.spotify.com/album/3MnHIi1Nbk2TaHSE2dMVM0) | 4:44 | 2022-05-30 |  |
 | [Again We Rise](https://open.spotify.com/track/5b7PFsHhtWAFV2AZC869Mf) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Sacrament](https://open.spotify.com/album/1cikCss5SRQLrIAmpyHoVw) | 4:30 | 2022-05-30 |  |
 | [As The Palaces Burn](https://open.spotify.com/track/2KjmnyVafBbq4VEnrJ5rra) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [As The Palaces Burn](https://open.spotify.com/album/5OubC3vkQNuA3rVu6iD6xa) | 2:24 | 2022-05-30 |  |
@@ -28,7 +28,7 @@
 | [Engage the Fear Machine](https://open.spotify.com/track/4R18Uyjo017HPKx6v4Lcab) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [VII: Sturm Und Drang \(Deluxe\)](https://open.spotify.com/album/01Lg3FKNxZ0We36Exz8Q9V) | 4:48 | 2022-05-30 |  |
 | [Erase This](https://open.spotify.com/track/6y0PbQqNdZ5uxXuFAhDBJD) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [VII: Sturm Und Drang \(Deluxe\)](https://open.spotify.com/album/01Lg3FKNxZ0We36Exz8Q9V) | 5:08 | 2022-05-31 | 2022-06-18 |
 | [Erase This](https://open.spotify.com/track/4canbnkWyGwRYxMo9UHkfX) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [VII: Sturm und Drang](https://open.spotify.com/album/4JvuAxQRUNbVcw66kFlXH9) | 5:08 | 2022-06-19 | 2022-09-12 |
-| [Footprints](https://open.spotify.com/track/44suwRrP7rmlugLUaC9qyZ) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [VII: Sturm und Drang](https://open.spotify.com/album/4JvuAxQRUNbVcw66kFlXH9) | 4:24 | 2022-06-29 |  |
+| [Footprints](https://open.spotify.com/track/44suwRrP7rmlugLUaC9qyZ) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [VII: Sturm und Drang](https://open.spotify.com/album/4JvuAxQRUNbVcw66kFlXH9) | 4:24 | 2022-06-29 | 2022-09-21 |
 | [Footprints](https://open.spotify.com/track/5EP7CdqAOvhOs6LJWw69sA) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [VII: Sturm Und Drang \(Deluxe\)](https://open.spotify.com/album/01Lg3FKNxZ0We36Exz8Q9V) | 4:24 | 2022-05-30 | 2022-06-27 |
 | [For Your Malice](https://open.spotify.com/track/3jH1c9em3bdzwkc2JjYJwY) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [As The Palaces Burn](https://open.spotify.com/album/5OubC3vkQNuA3rVu6iD6xa) | 3:43 | 2022-05-30 | 2022-09-11 |
 | [Gears](https://open.spotify.com/track/5GwPTFXjE3WLJevK6KLMyc) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Lamb of God](https://open.spotify.com/album/34Y9ZcZ4b3WGbhx66zS0QV) | 3:55 | 2022-05-30 |  |

@@ -1,12 +1,12 @@
 {
   "description": "We hear you.",
-  "num_followers": 903651,
+  "num_followers": 904985,
   "original_name": "idk.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzYxODU1NCwwMDAwMDAwMGQxYTc0ZTgzZGEzNDQ4MzQzZjdkZmNiZTQwZWE3MzZj",
+  "snapshot_id": "MTY2MzYxODU1NCwwMDAwMDAwMGQ0MmJmOGNjZjMzNWJlMzQ3Nzc0MmQyNDYzZTczMTk0",
   "tracks": [
     {
       "added_at": "2022-09-19 20:15:53",
@@ -27,22 +27,6 @@
     {
       "added_at": "2022-09-19 20:15:53",
       "album": {
-        "name": "Harry's House",
-        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 245964,
-      "name": "Matilda",
-      "url": "https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O"
-    },
-    {
-      "added_at": "2022-09-19 20:15:53",
-      "album": {
         "name": "Romantic Homicide",
         "url": "https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 132630,
       "name": "Romantic Homicide",
       "url": "https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL"
+    },
+    {
+      "added_at": "2022-09-19 20:15:53",
+      "album": {
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 245964,
+      "name": "Matilda",
+      "url": "https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O"
     },
     {
       "added_at": "2022-09-19 20:15:53",
@@ -479,22 +479,6 @@
     {
       "added_at": "2022-09-19 20:15:53",
       "album": {
-        "name": "Welcome to Wonderland",
-        "url": "https://open.spotify.com/album/6YgJ3NjlqdUX6MdejVudHp"
-      },
-      "artists": [
-        {
-          "name": "Anson Seabra",
-          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
-        }
-      ],
-      "duration_ms": 199131,
-      "name": "Welcome to Wonderland",
-      "url": "https://open.spotify.com/track/3JfHYZKy5JmE5Fv4gDTCiz"
-    },
-    {
-      "added_at": "2022-09-19 20:15:53",
-      "album": {
         "name": "Violent",
         "url": "https://open.spotify.com/album/5wf6uZP8SBgXlNkbIFNQJ1"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 135877,
       "name": "Violent",
       "url": "https://open.spotify.com/track/7CFfqRW50ffULvBv7lfIIg"
+    },
+    {
+      "added_at": "2022-09-19 20:15:53",
+      "album": {
+        "name": "Welcome to Wonderland",
+        "url": "https://open.spotify.com/album/6YgJ3NjlqdUX6MdejVudHp"
+      },
+      "artists": [
+        {
+          "name": "Anson Seabra",
+          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
+        }
+      ],
+      "duration_ms": 199131,
+      "name": "Welcome to Wonderland",
+      "url": "https://open.spotify.com/track/3JfHYZKy5JmE5Fv4gDTCiz"
     },
     {
       "added_at": "2022-09-19 20:15:53",
@@ -607,22 +607,6 @@
     {
       "added_at": "2022-09-19 20:15:53",
       "album": {
-        "name": "Do You Love Me, or Are You Just Lonely?",
-        "url": "https://open.spotify.com/album/28B3NkA4cyPjPH0EJJTsN3"
-      },
-      "artists": [
-        {
-          "name": "Jess Benko",
-          "url": "https://open.spotify.com/artist/6U53xCCVXmyimAgsBjCS8P"
-        }
-      ],
-      "duration_ms": 316556,
-      "name": "A Soulmate Who Wasn\u2019t Meant to Be",
-      "url": "https://open.spotify.com/track/0gOz9JUXsaKVzLTSmFDtdo"
-    },
-    {
-      "added_at": "2022-09-19 20:15:53",
-      "album": {
         "name": "five seconds flat",
         "url": "https://open.spotify.com/album/7vh3nkUP7HlDQIeSm7Ht6N"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 182887,
       "name": "ceilings",
       "url": "https://open.spotify.com/track/3hiuZQQ33aDnu4Xmmn8Lr7"
+    },
+    {
+      "added_at": "2022-09-19 20:15:53",
+      "album": {
+        "name": "Do You Love Me, or Are You Just Lonely?",
+        "url": "https://open.spotify.com/album/28B3NkA4cyPjPH0EJJTsN3"
+      },
+      "artists": [
+        {
+          "name": "Jess Benko",
+          "url": "https://open.spotify.com/artist/6U53xCCVXmyimAgsBjCS8P"
+        }
+      ],
+      "duration_ms": 316556,
+      "name": "A Soulmate Who Wasn\u2019t Meant to Be",
+      "url": "https://open.spotify.com/track/0gOz9JUXsaKVzLTSmFDtdo"
     },
     {
       "added_at": "2022-09-19 20:15:53",
@@ -671,6 +671,22 @@
     {
       "added_at": "2022-09-19 20:15:53",
       "album": {
+        "name": "Atlas: II",
+        "url": "https://open.spotify.com/album/4mVqE0sAXMG9DpfWxxLhsh"
+      },
+      "artists": [
+        {
+          "name": "Sleeping At Last",
+          "url": "https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g"
+        }
+      ],
+      "duration_ms": 256299,
+      "name": "Touch",
+      "url": "https://open.spotify.com/track/4g2WiijzSKzH8PApKDbadN"
+    },
+    {
+      "added_at": "2022-09-19 20:15:53",
+      "album": {
         "name": "Elliot's Song (From \"Euphoria\" An HBO Original Series)",
         "url": "https://open.spotify.com/album/67WBZwhfjfOQ5gnH8iXsQ8"
       },
@@ -691,26 +707,14 @@
     {
       "added_at": "2022-09-19 20:15:53",
       "album": {
-        "name": "Atlas: II",
-        "url": "https://open.spotify.com/album/4mVqE0sAXMG9DpfWxxLhsh"
-      },
-      "artists": [
-        {
-          "name": "Sleeping At Last",
-          "url": "https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g"
-        }
-      ],
-      "duration_ms": 256299,
-      "name": "Touch",
-      "url": "https://open.spotify.com/track/4g2WiijzSKzH8PApKDbadN"
-    },
-    {
-      "added_at": "2022-09-19 20:15:53",
-      "album": {
         "name": "Love Is the Same as Sadness",
         "url": "https://open.spotify.com/album/4JcORch57yBGLItxgest7E"
       },
       "artists": [
+        {
+          "name": "CORBAL",
+          "url": "https://open.spotify.com/artist/2jjSx5EpZwv9iBAgFkGWPh"
+        },
         {
           "name": "Shiloh Dynasty",
           "url": "https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r"
@@ -723,6 +727,22 @@
       "duration_ms": 87411,
       "name": "Dance with Me",
       "url": "https://open.spotify.com/track/55rn9bs7vZBsEK4Y4URraH"
+    },
+    {
+      "added_at": "2022-09-19 20:15:53",
+      "album": {
+        "name": "Sometimes (Backwood)",
+        "url": "https://open.spotify.com/album/3hdw3AH6dkRpONWlJnotZn"
+      },
+      "artists": [
+        {
+          "name": "gigi",
+          "url": "https://open.spotify.com/artist/3FVGHhoCQxw0fmNhRMhmOT"
+        }
+      ],
+      "duration_ms": 153000,
+      "name": "Sometimes (Backwood)",
+      "url": "https://open.spotify.com/track/1ElGmhauttS9p7LwmHG9uM"
     },
     {
       "added_at": "2022-09-19 20:15:53",
@@ -743,18 +763,18 @@
     {
       "added_at": "2022-09-19 20:15:53",
       "album": {
-        "name": "Sometimes (Backwood)",
-        "url": "https://open.spotify.com/album/3hdw3AH6dkRpONWlJnotZn"
+        "name": "i walk this earth all by myself",
+        "url": "https://open.spotify.com/album/6tdl27ojBwZ5ZexzZOP4mG"
       },
       "artists": [
         {
-          "name": "gigi",
-          "url": "https://open.spotify.com/artist/3FVGHhoCQxw0fmNhRMhmOT"
+          "name": "EKKSTACY",
+          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
         }
       ],
-      "duration_ms": 153000,
-      "name": "Sometimes (Backwood)",
-      "url": "https://open.spotify.com/track/1ElGmhauttS9p7LwmHG9uM"
+      "duration_ms": 145634,
+      "name": "i walk this earth all by myself",
+      "url": "https://open.spotify.com/track/5a8QUc4ubHJqQm7vzs2YhA"
     },
     {
       "added_at": "2022-09-19 20:15:53",
@@ -787,22 +807,6 @@
       "duration_ms": 156187,
       "name": "Eyes Blue Like The Atlantic, Pt. 2 (feat. Powfu, Alec Benjamin & Rxseboy)",
       "url": "https://open.spotify.com/track/1eCTQhsNA31FcwyNcJcf86"
-    },
-    {
-      "added_at": "2022-09-19 20:15:53",
-      "album": {
-        "name": "i walk this earth all by myself",
-        "url": "https://open.spotify.com/album/6tdl27ojBwZ5ZexzZOP4mG"
-      },
-      "artists": [
-        {
-          "name": "EKKSTACY",
-          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
-        }
-      ],
-      "duration_ms": 145634,
-      "name": "i walk this earth all by myself",
-      "url": "https://open.spotify.com/track/5a8QUc4ubHJqQm7vzs2YhA"
     },
     {
       "added_at": "2022-09-19 20:15:53",
@@ -847,6 +851,22 @@
     {
       "added_at": "2022-09-19 20:15:53",
       "album": {
+        "name": "Teenage Mind",
+        "url": "https://open.spotify.com/album/7uxkPJEel1MLzreQUmvra0"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 155205,
+      "name": "Teenage Mind",
+      "url": "https://open.spotify.com/track/1vdjJ55uw3WOuu7ZSyABFP"
+    },
+    {
+      "added_at": "2022-09-19 20:15:53",
+      "album": {
         "name": "Can't Love Myself",
         "url": "https://open.spotify.com/album/6nXrZeaXICH9TIPomAT9Be"
       },
@@ -863,22 +883,6 @@
       "duration_ms": 122723,
       "name": "Can't Love Myself",
       "url": "https://open.spotify.com/track/0MO1qNhm8aRZchi8CJlIRo"
-    },
-    {
-      "added_at": "2022-09-19 20:15:53",
-      "album": {
-        "name": "Teenage Mind",
-        "url": "https://open.spotify.com/album/7uxkPJEel1MLzreQUmvra0"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 155205,
-      "name": "Teenage Mind",
-      "url": "https://open.spotify.com/track/1vdjJ55uw3WOuu7ZSyABFP"
     },
     {
       "added_at": "2022-09-19 20:15:53",
@@ -1087,6 +1091,22 @@
     {
       "added_at": "2022-09-19 20:15:53",
       "album": {
+        "name": "JAMIE",
+        "url": "https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 302000,
+      "name": "Darling",
+      "url": "https://open.spotify.com/track/6UpgMTjhFiKV3Sk0emuqDz"
+    },
+    {
+      "added_at": "2022-09-19 20:15:53",
+      "album": {
         "name": "tell me your feelings and i won't tell you mine",
         "url": "https://open.spotify.com/album/0nyUIJbb1bEIRCTpD2sQ2R"
       },
@@ -1107,22 +1127,6 @@
       "duration_ms": 187500,
       "name": "snowflake (feat. Jaden & Sarcastic Sounds)",
       "url": "https://open.spotify.com/track/7KW1AtQKFToSoF1kmyk2wE"
-    },
-    {
-      "added_at": "2022-09-19 20:15:53",
-      "album": {
-        "name": "JAMIE",
-        "url": "https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 302000,
-      "name": "Darling",
-      "url": "https://open.spotify.com/track/6UpgMTjhFiKV3Sk0emuqDz"
     },
     {
       "added_at": "2022-09-19 20:15:53",
@@ -1371,22 +1375,6 @@
     {
       "added_at": "2022-09-19 20:15:53",
       "album": {
-        "name": "A Black Mile To The Surface",
-        "url": "https://open.spotify.com/album/4hruYceqit29o6m4arpAql"
-      },
-      "artists": [
-        {
-          "name": "Manchester Orchestra",
-          "url": "https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f"
-        }
-      ],
-      "duration_ms": 419093,
-      "name": "The Silence",
-      "url": "https://open.spotify.com/track/72dIN8F7D5ydB3auSqNi84"
-    },
-    {
-      "added_at": "2022-09-19 20:15:53",
-      "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/0R2eIVnmPN3dXRj77Gb4Up"
       },
@@ -1399,6 +1387,22 @@
       "duration_ms": 211746,
       "name": "Close to Me",
       "url": "https://open.spotify.com/track/4jPr49jXRJHftXlwTEA2w4"
+    },
+    {
+      "added_at": "2022-09-19 20:15:53",
+      "album": {
+        "name": "A Black Mile To The Surface",
+        "url": "https://open.spotify.com/album/4hruYceqit29o6m4arpAql"
+      },
+      "artists": [
+        {
+          "name": "Manchester Orchestra",
+          "url": "https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f"
+        }
+      ],
+      "duration_ms": 419093,
+      "name": "The Silence",
+      "url": "https://open.spotify.com/track/72dIN8F7D5ydB3auSqNi84"
     },
     {
       "added_at": "2022-09-19 20:15:53",
@@ -1567,18 +1571,18 @@
     {
       "added_at": "2022-09-19 20:15:53",
       "album": {
-        "name": "minor",
-        "url": "https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy"
+        "name": "Insane",
+        "url": "https://open.spotify.com/album/21gi2LoATc1aYgKLD39uVy"
       },
       "artists": [
         {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+          "name": "Sky McCreery",
+          "url": "https://open.spotify.com/artist/1LvKB5b2uYh3adUcl1pRPh"
         }
       ],
-      "duration_ms": 160506,
-      "name": "minor",
-      "url": "https://open.spotify.com/track/1G9YZPtxUGfl1yVw7kq4yc"
+      "duration_ms": 166389,
+      "name": "Insane",
+      "url": "https://open.spotify.com/track/3mLFCocZgUvih60frphM6l"
     },
     {
       "added_at": "2022-09-19 20:15:53",
@@ -1599,6 +1603,22 @@
     {
       "added_at": "2022-09-19 20:15:53",
       "album": {
+        "name": "minor",
+        "url": "https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 160506,
+      "name": "minor",
+      "url": "https://open.spotify.com/track/1G9YZPtxUGfl1yVw7kq4yc"
+    },
+    {
+      "added_at": "2022-09-19 20:15:53",
+      "album": {
         "name": "Don't Leave, Don't Go / Bleed",
         "url": "https://open.spotify.com/album/1awanVhccvZ0L2WTMm9FfT"
       },
@@ -1611,22 +1631,6 @@
       "duration_ms": 184242,
       "name": "Don't Leave, Don't Go",
       "url": "https://open.spotify.com/track/07nd9H2REZKIhVgp3n36YL"
-    },
-    {
-      "added_at": "2022-09-19 20:15:53",
-      "album": {
-        "name": "Insane",
-        "url": "https://open.spotify.com/album/21gi2LoATc1aYgKLD39uVy"
-      },
-      "artists": [
-        {
-          "name": "Sky McCreery",
-          "url": "https://open.spotify.com/artist/1LvKB5b2uYh3adUcl1pRPh"
-        }
-      ],
-      "duration_ms": 166389,
-      "name": "Insane",
-      "url": "https://open.spotify.com/track/3mLFCocZgUvih60frphM6l"
     },
     {
       "added_at": "2022-09-19 20:15:53",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-16",
-  "description": "With Love Generation, RuPaul's Drag Race Live, Rina Sawayama and more",
+  "description": "With Love Generation, Sandra Resendes, Kesha and more",
   "name": "Lady Gaga Radio",
   "published_playlist_ids": [
     "5wwUkYS2OcCkau5CdCfyc6"
@@ -343,7 +343,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 120546,
       "name": "A Dream Is a Wish Your Heart Makes",
       "url": "https://open.spotify.com/track/3s6nfqfT6kyLBT10vs0M4l"
@@ -553,7 +553,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-19",
+      "date_removed": null,
       "duration_ms": 212226,
       "name": "About You Now",
       "url": "https://open.spotify.com/track/4J6zcs7YMYiKBLjJUPMHLc"
@@ -1181,7 +1181,7 @@
       ],
       "date_added": "2022-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 226000,
       "name": "Amen",
       "url": "https://open.spotify.com/track/3OrdQkxqR3aP42PhDlHV2u"
@@ -1877,7 +1877,7 @@
       ],
       "date_added": "2022-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 263066,
       "name": "Bad Romance - Skrillex Remix",
       "url": "https://open.spotify.com/track/3ipLg66ktOi3Ag0p26ZBbp"
@@ -2721,7 +2721,7 @@
       ],
       "date_added": "2022-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-17",
+      "date_removed": null,
       "duration_ms": 190572,
       "name": "Bitch On Heels",
       "url": "https://open.spotify.com/track/3pK3HdXgQnBIQ8nHsPHzPT"
@@ -3101,7 +3101,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-12",
+      "date_removed": null,
       "duration_ms": 352560,
       "name": "Born This Way - Chew Fu Born To Fix Remix",
       "url": "https://open.spotify.com/track/15ZTmxkC2yUCSY15ScJKyt"
@@ -3529,7 +3529,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 187200,
       "name": "Brown Cow Stunning",
       "url": "https://open.spotify.com/track/17nicr4bub5sGc9Hac7hUg"
@@ -4193,7 +4193,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-19",
+      "date_removed": null,
       "duration_ms": 201613,
       "name": "Celebrity",
       "url": "https://open.spotify.com/track/5TfTuipU7TlZh8bki6ZNsW"
@@ -4367,7 +4367,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 185991,
       "name": "Chic C'est La Vie",
       "url": "https://open.spotify.com/track/2whNAems1FPPusbAIuOTb8"
@@ -4403,7 +4403,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-18",
+      "date_removed": null,
       "duration_ms": 250840,
       "name": "Circle of Life Remix",
       "url": "https://open.spotify.com/track/70IUh8iL1FyzDdYB6SF84x"
@@ -4911,7 +4911,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 181520,
       "name": "Crank It Up",
       "url": "https://open.spotify.com/track/3Min2Z3ZLkjYGlSAwxCtMh"
@@ -5553,7 +5553,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-17",
+      "date_removed": null,
       "duration_ms": 177706,
       "name": "Devil",
       "url": "https://open.spotify.com/track/6mfsAvXQ3pTT5tEnKKbxZp"
@@ -5811,7 +5811,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 220640,
       "name": "Doesn't Everybody Want To Fall In Love",
       "url": "https://open.spotify.com/track/4CmQYfnjOMT5mIeYuUt2tc"
@@ -6065,6 +6065,24 @@
       "duration_ms": 262240,
       "name": "Don't Let Me Be Misunderstood (feat. Lady Gaga)",
       "url": "https://open.spotify.com/track/6DO29wBOfESk3C2sScpxZn"
+    },
+    {
+      "album": {
+        "name": "Don't Pray For Me",
+        "url": "https://open.spotify.com/album/5HLYMV9AApImlATNqKbNlY"
+      },
+      "artists": [
+        {
+          "name": "Eline Noelia",
+          "url": "https://open.spotify.com/artist/2SS1QCUXo3gFSnJwF8D4Vl"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205613,
+      "name": "Don't Pray For Me",
+      "url": "https://open.spotify.com/track/224OSwGKSUAKEH730rmLg2"
     },
     {
       "album": {
@@ -6349,6 +6367,32 @@
       "duration_ms": 199738,
       "name": "Dreamcatcher",
       "url": "https://open.spotify.com/track/3jYWTsZM3R3cnF0n2DpxhS"
+    },
+    {
+      "album": {
+        "name": "It\u00b4s My War",
+        "url": "https://open.spotify.com/album/4saxLfBVTSiofpwEKmkZ3H"
+      },
+      "artists": [
+        {
+          "name": "Safura",
+          "url": "https://open.spotify.com/artist/1tTdeHASGZ3QNAfhn09Kxu"
+        },
+        {
+          "name": "Radomir",
+          "url": "https://open.spotify.com/artist/6p6zCvsDXSZH88HS6slxTz"
+        },
+        {
+          "name": "Perez",
+          "url": "https://open.spotify.com/artist/6Kn8uvTUocIr1Vt6he4lWd"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212426,
+      "name": "Drip Drop - Success Remix",
+      "url": "https://open.spotify.com/track/7HcDXPJNglSPtcHFh9bI2Z"
     },
     {
       "album": {
@@ -6867,7 +6911,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-13",
+      "date_removed": null,
       "duration_ms": 170995,
       "name": "Fashion (From \"Confessions of a Shopaholic\")",
       "url": "https://open.spotify.com/track/0MSz8yS0sAzGon743xH9IK"
@@ -6903,7 +6947,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 187160,
       "name": "Feeling So Good",
       "url": "https://open.spotify.com/track/4GAFlFLouTialsJv1kiKaC"
@@ -7533,7 +7577,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-15",
+      "date_removed": null,
       "duration_ms": 176250,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/2VYDrBH6WUu7l1d4bfMtFn"
@@ -8481,7 +8525,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 176960,
       "name": "Gotta Go My Own Way",
       "url": "https://open.spotify.com/track/0XklyPBOruCbUcw8CKw3yj"
@@ -9285,7 +9329,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 327053,
       "name": "High School Musical 2- The Megamix",
       "url": "https://open.spotify.com/track/7iaoEnvpzajqDBerCiqGGM"
@@ -9787,7 +9831,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 173516,
       "name": "Hungry Eyes (Original Radio Mix)",
       "url": "https://open.spotify.com/track/3wJd2L85uufyNmdQvvcFJt"
@@ -10265,7 +10309,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 264266,
       "name": "I Know Him So Well",
       "url": "https://open.spotify.com/track/5wlQ23VlVfhHGcFMlxmHQP"
@@ -11039,7 +11083,7 @@
       ],
       "date_added": "2022-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 240226,
       "name": "I'm Outta Love - Hex Hector Radio Edit",
       "url": "https://open.spotify.com/track/6KMdMe54uoAcCdffmvyiic"
@@ -11519,7 +11563,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 228406,
       "name": "It's Raining Them",
       "url": "https://open.spotify.com/track/1Qtuv8nXy9jdPIpCeDSL3D"
@@ -11787,7 +11831,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-19",
+      "date_removed": null,
       "duration_ms": 241933,
       "name": "Just Dance",
       "url": "https://open.spotify.com/track/2x7MyWybabEz6Y6wvHuwGE"
@@ -11863,7 +11907,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-06",
+      "date_removed": null,
       "duration_ms": 258546,
       "name": "Just Wanna Dance",
       "url": "https://open.spotify.com/track/4g2WDh74q80WjNZ1o1wqbK"
@@ -12761,7 +12805,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-26",
+      "date_removed": null,
       "duration_ms": 156245,
       "name": "LITTLE NOKIA (feat. Rico Nasty) - REMIX / BONUS TRACK",
       "url": "https://open.spotify.com/track/3jVoY0vaTlfHhpDOOHqrEE"
@@ -12913,7 +12957,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 213500,
       "name": "Losing is the New Winning",
       "url": "https://open.spotify.com/track/2ZZKU0M4flhnJ2LO45iwqu"
@@ -16533,7 +16577,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 211506,
       "name": "Pretty Mess - Dave Aude Radio Edit",
       "url": "https://open.spotify.com/track/5ASngoftozJl6l2Cl6GX8c"
@@ -16653,7 +16697,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 263030,
       "name": "Private Life",
       "url": "https://open.spotify.com/track/3FkyJH5uE5XmN3voocBcYK"
@@ -16783,7 +16827,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 244761,
       "name": "QUEEN",
       "url": "https://open.spotify.com/track/78M3KcOo6yIVBKxSiwG3Gp"
@@ -16809,6 +16853,24 @@
       "duration_ms": 197945,
       "name": "Queen of the North",
       "url": "https://open.spotify.com/track/1y2qpCzDD6i9Wa970Ri8w0"
+    },
+    {
+      "album": {
+        "name": "Queen of the North",
+        "url": "https://open.spotify.com/album/5q3H7xP47hFw27GQfkov2Z"
+      },
+      "artists": [
+        {
+          "name": "The Cast of Canada's Drag Race",
+          "url": "https://open.spotify.com/artist/5u0HllIQCKS8g2wwOkzb4t"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177132,
+      "name": "Queen of the North",
+      "url": "https://open.spotify.com/track/5qTuKNWHFsPndAtf8VAtKy"
     },
     {
       "album": {
@@ -16893,7 +16955,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 182200,
       "name": "Rain On Me (with Ariana Grande)",
       "url": "https://open.spotify.com/track/7ju97lgwC2rKQ6wwsf9no9"
@@ -17829,7 +17891,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 288444,
       "name": "Running Up That Hill",
       "url": "https://open.spotify.com/track/2DOLnbsYoLcEWQXPlYlLiT"
@@ -18161,7 +18223,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-19",
+      "date_removed": null,
       "duration_ms": 198237,
       "name": "Scratch",
       "url": "https://open.spotify.com/track/6clgRVeWxoblA2hcPbCimm"
@@ -20265,7 +20327,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-19",
+      "date_removed": null,
       "duration_ms": 259746,
       "name": "Superwoman",
       "url": "https://open.spotify.com/track/1X02StSk1WxNrDudaasECu"
@@ -20665,7 +20727,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-09",
+      "date_removed": null,
       "duration_ms": 155975,
       "name": "Taste So Good (The Cann Song)",
       "url": "https://open.spotify.com/track/4FqUvCrGGtjFWektg6I65l"
@@ -21811,7 +21873,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-05",
+      "date_removed": null,
       "duration_ms": 215986,
       "name": "This Moment",
       "url": "https://open.spotify.com/track/5FY2ZsnTSIQv7lzfPVbbq8"
@@ -22221,7 +22283,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-17",
+      "date_removed": null,
       "duration_ms": 241632,
       "name": "Troubled Paradise",
       "url": "https://open.spotify.com/track/30qNNWs5kUgcviZxOrQRTo"
@@ -22609,7 +22671,7 @@
       ],
       "date_added": "2022-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-19",
+      "date_removed": null,
       "duration_ms": 144240,
       "name": "Ur Man",
       "url": "https://open.spotify.com/track/6bJm2QRP0pYF8nVwF2YR4l"

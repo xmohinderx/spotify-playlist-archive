@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Xlyj8WKw1E.md) - [plain]
 
 > Midwest music breaking waves\. Cover, Midwxst
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,298 likes - 54 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,302 likes - 54 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Xlyj8WKw1E.md) - [plain]
 | 17 | [2k in tha Soda \(feat\. LUCKI\)](https://open.spotify.com/track/3yzr99ZegC5AxFwjRHve2y) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [2k in tha Soda \(feat\. LUCKI\)](https://open.spotify.com/album/4Td95iGAA6pFxLPDW64Oxt) | 1:59 |
 | 18 | [Hot Shit \(feat\. Ye & Lil Durk\)](https://open.spotify.com/track/3uJFmluXzYedoJcvhpC1AW) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Hot Shit \(feat\. Ye & Lil Durk\)](https://open.spotify.com/album/2qTIltFPwJzsyssGeOwdRO) | 3:31 |
 | 19 | [Sleazy Flow \(with Lil Baby\) \- Remix](https://open.spotify.com/track/5cx7vkF8BQ0iOsVpfvZbnz) | [SleazyWorld Go](https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Sleazy Flow \(Remix\)](https://open.spotify.com/album/4N1yQmAeHbswH8jbcRnsEG) | 2:41 |
-| 20 | [HDBG \(Shemix\)](https://open.spotify.com/track/2A59foYLjX4iUuvtncE8BZ) | [cupcakKe](https://open.spotify.com/artist/76SlrtEaq2oViRXulxjfuM), [Erica Banks](https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM), [Tweeday](https://open.spotify.com/artist/6X94tEGcPVz8dyYUZqUHWj) | [HDBG \(Shemix\)](https://open.spotify.com/album/6ol7utlb56Owco0kPzLhbt) | 2:21 |
+| 20 | [HDBG Shemix](https://open.spotify.com/track/2A59foYLjX4iUuvtncE8BZ) | [cupcakKe](https://open.spotify.com/artist/76SlrtEaq2oViRXulxjfuM), [Erica Banks](https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM), [Tweeday](https://open.spotify.com/artist/6X94tEGcPVz8dyYUZqUHWj) | [HDBG Shemix](https://open.spotify.com/album/6ol7utlb56Owco0kPzLhbt) | 2:21 |
 | 21 | [Back 2 Back \(feat\. CEO Trayle\)](https://open.spotify.com/track/3Lr9J0UuPrnTVlmA5wosqi) | [Sonny Digital](https://open.spotify.com/artist/655963AgkTZeYUvCyodCIL), [CEO Trayle](https://open.spotify.com/artist/6RuutbNl5ny8LAf1uSK3fS) | [Back 2 Back \(feat\. CEO Trayle\)](https://open.spotify.com/album/77QuhYQbJy5g4OAZv7Ebsc) | 2:55 |
 | 22 | [WYO \(feat\. PGF Nuk\)](https://open.spotify.com/track/69Q3vsqXFMKhZGTHssGSDC) | [DCG BROTHERS](https://open.spotify.com/artist/7MP0JM4me8DNocS55hbd2J), [DCG Shun](https://open.spotify.com/artist/7okkZ7wwW0Jkh3N8FHOR11), [DCG Bsavv](https://open.spotify.com/artist/1mU5tzu4Oi1c7pq0WPqMOL), [PGF Nuk](https://open.spotify.com/artist/0PUh7TSiwhSf0xL0b6SLXH) | [WYO \(feat\. PGF Nuk\)](https://open.spotify.com/album/5MTkjTQASZLLnrAze7GC90) | 3:16 |
 | 23 | [FOOT ON NECK](https://open.spotify.com/track/3MJ3z0VOd9pzRXbQIA4Lmf) | [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC) | [CATCH ME IF YOU CAN](https://open.spotify.com/album/2wCRNE4T5Neq52FhgGB2kl) | 2:36 |

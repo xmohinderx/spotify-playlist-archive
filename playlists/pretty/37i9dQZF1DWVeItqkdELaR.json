@@ -1,12 +1,12 @@
 {
   "description": "A trilha sonora do ver\u00e3o.",
-  "num_followers": 82862,
+  "num_followers": 82897,
   "original_name": "Ver\u00e3o 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTg3MzY4OSwwMDAwMDAwMDBlYWRjZWVhMTE2Mjg2N2QxMDAyOGMwYTdiMjg1ODE5",
+  "snapshot_id": "MTY2MTg3MzY4OSwwMDAwMDAwMGRlNzYxNDg4OTc0Yzk2OWRlZDZjN2IwMWQ4ZmRkNzE4",
   "tracks": [
     {
       "added_at": "2022-08-30 15:34:49",
@@ -27,22 +27,6 @@
     {
       "added_at": "2022-08-30 15:34:49",
       "album": {
-        "name": "Glimpse of Us",
-        "url": "https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71"
-      },
-      "artists": [
-        {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
-        }
-      ],
-      "duration_ms": 233456,
-      "name": "Glimpse of Us",
-      "url": "https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ"
-    },
-    {
-      "added_at": "2022-08-30 15:34:49",
-      "album": {
         "name": "I Ain\u2019t Worried (Music From The Motion Picture \"Top Gun: Maverick\")",
         "url": "https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 148485,
       "name": "I Ain't Worried",
       "url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"
+    },
+    {
+      "added_at": "2022-08-30 15:34:49",
+      "album": {
+        "name": "Glimpse of Us",
+        "url": "https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "duration_ms": 233456,
+      "name": "Glimpse of Us",
+      "url": "https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ"
     },
     {
       "added_at": "2022-08-30 15:34:49",
@@ -175,6 +175,22 @@
     {
       "added_at": "2022-08-30 15:34:49",
       "album": {
+        "name": "SNAP",
+        "url": "https://open.spotify.com/album/4fb1QzgTJpTk9TBjFzjmlR"
+      },
+      "artists": [
+        {
+          "name": "Rosa Linn",
+          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
+        }
+      ],
+      "duration_ms": 179551,
+      "name": "SNAP",
+      "url": "https://open.spotify.com/track/76OGwb5RA9h4FxQPT33ekc"
+    },
+    {
+      "added_at": "2022-08-30 15:34:49",
+      "album": {
         "name": "Ferrari",
         "url": "https://open.spotify.com/album/6moZ4sNThthUAwCklyuPY8"
       },
@@ -191,22 +207,6 @@
       "duration_ms": 186661,
       "name": "Ferrari",
       "url": "https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP"
-    },
-    {
-      "added_at": "2022-08-30 15:34:49",
-      "album": {
-        "name": "SNAP",
-        "url": "https://open.spotify.com/album/4fb1QzgTJpTk9TBjFzjmlR"
-      },
-      "artists": [
-        {
-          "name": "Rosa Linn",
-          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
-        }
-      ],
-      "duration_ms": 179551,
-      "name": "SNAP",
-      "url": "https://open.spotify.com/track/76OGwb5RA9h4FxQPT33ekc"
     },
     {
       "added_at": "2022-08-30 15:34:49",
@@ -335,22 +335,6 @@
     {
       "added_at": "2022-08-30 15:34:49",
       "album": {
-        "name": "Hounds of Love (2018 Remaster)",
-        "url": "https://open.spotify.com/album/3OYnManu1Nlxnw9OMng7BH"
-      },
-      "artists": [
-        {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
-        }
-      ],
-      "duration_ms": 300840,
-      "name": "Running Up That Hill (A Deal With God) - 2018 Remaster",
-      "url": "https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP"
-    },
-    {
-      "added_at": "2022-08-30 15:34:49",
-      "album": {
         "name": "=",
         "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 230746,
       "name": "Bad Habits",
       "url": "https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d"
+    },
+    {
+      "added_at": "2022-08-30 15:34:49",
+      "album": {
+        "name": "Hounds of Love (2018 Remaster)",
+        "url": "https://open.spotify.com/album/3OYnManu1Nlxnw9OMng7BH"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "duration_ms": 300840,
+      "name": "Running Up That Hill (A Deal With God) - 2018 Remaster",
+      "url": "https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP"
     },
     {
       "added_at": "2022-08-30 15:34:49",
@@ -427,26 +427,6 @@
     {
       "added_at": "2022-08-30 15:34:49",
       "album": {
-        "name": "MAMIII",
-        "url": "https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        },
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 226088,
-      "name": "MAMIII",
-      "url": "https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs"
-    },
-    {
-      "added_at": "2022-08-30 15:34:49",
-      "album": {
         "name": "The Motto",
         "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
       },
@@ -463,6 +443,26 @@
       "duration_ms": 164818,
       "name": "The Motto",
       "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
+    },
+    {
+      "added_at": "2022-08-30 15:34:49",
+      "album": {
+        "name": "MAMIII",
+        "url": "https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 226088,
+      "name": "MAMIII",
+      "url": "https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs"
     },
     {
       "added_at": "2022-08-30 15:34:49",
@@ -671,6 +671,22 @@
     {
       "added_at": "2022-08-30 15:34:49",
       "album": {
+        "name": "CKay The First",
+        "url": "https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 145800,
+      "name": "love nwantiti (ah ah ah)",
+      "url": "https://open.spotify.com/track/2Xr1dTzJee307rmrkt8c0g"
+    },
+    {
+      "added_at": "2022-08-30 15:34:49",
+      "album": {
         "name": "Stay With Me (with Justin Timberlake, Halsey, & Pharrell)",
         "url": "https://open.spotify.com/album/62SWIKrov7HPXU0Jpc6LY1"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 229282,
       "name": "Stay With Me (with Justin Timberlake, Halsey, & Pharrell)",
       "url": "https://open.spotify.com/track/5lfWrciYtohtIMVDVZd0Rf"
-    },
-    {
-      "added_at": "2022-08-30 15:34:49",
-      "album": {
-        "name": "CKay The First",
-        "url": "https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 145800,
-      "name": "love nwantiti (ah ah ah)",
-      "url": "https://open.spotify.com/track/2Xr1dTzJee307rmrkt8c0g"
     },
     {
       "added_at": "2022-08-30 15:34:49",
@@ -1031,26 +1031,6 @@
     {
       "added_at": "2022-08-30 15:34:49",
       "album": {
-        "name": "Gostosinho Tu Cai",
-        "url": "https://open.spotify.com/album/03YfAkvJjMXlA0T5I7vLMX"
-      },
-      "artists": [
-        {
-          "name": "Mc Pepeu",
-          "url": "https://open.spotify.com/artist/3THyxXDkvAVvmfZKP3Fq7G"
-        },
-        {
-          "name": "DJ Swat",
-          "url": "https://open.spotify.com/artist/3JrsRa8z1Pngkkf4pDrokD"
-        }
-      ],
-      "duration_ms": 132922,
-      "name": "Gostosinho Tu Cai",
-      "url": "https://open.spotify.com/track/75fCsUnTiDelE4HMd06t4O"
-    },
-    {
-      "added_at": "2022-08-30 15:34:49",
-      "album": {
         "name": "Do It Better (feat. Zoe Wees)",
         "url": "https://open.spotify.com/album/5mqNZCRQAKtzzDyohUmBEU"
       },
@@ -1067,6 +1047,26 @@
       "duration_ms": 170045,
       "name": "Do It Better (feat. Zoe Wees)",
       "url": "https://open.spotify.com/track/1kwHrBWAlucOE57lWugotk"
+    },
+    {
+      "added_at": "2022-08-30 15:34:49",
+      "album": {
+        "name": "Gostosinho Tu Cai",
+        "url": "https://open.spotify.com/album/03YfAkvJjMXlA0T5I7vLMX"
+      },
+      "artists": [
+        {
+          "name": "Mc Pepeu",
+          "url": "https://open.spotify.com/artist/3THyxXDkvAVvmfZKP3Fq7G"
+        },
+        {
+          "name": "DJ Swat",
+          "url": "https://open.spotify.com/artist/3JrsRa8z1Pngkkf4pDrokD"
+        }
+      ],
+      "duration_ms": 132922,
+      "name": "Gostosinho Tu Cai",
+      "url": "https://open.spotify.com/track/75fCsUnTiDelE4HMd06t4O"
     },
     {
       "added_at": "2022-08-30 15:34:49",

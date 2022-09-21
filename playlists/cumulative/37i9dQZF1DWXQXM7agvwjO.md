@@ -4,7 +4,7 @@
 
 > Hottest indie sounds & the best new tracks from Asia\. Cover: The Black Skirts \(South Korea\)
 
-381 songs - 22 hr 49 min - [published](https://open.spotify.com/playlist/150ZZwzNCm1BXFjIA5T8kJ)
+382 songs - 22 hr 53 min - [published](https://open.spotify.com/playlist/150ZZwzNCm1BXFjIA5T8kJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,7 +211,8 @@
 | [Moonlight \(Feat\. YooJeong\)](https://open.spotify.com/track/3UXHgrtANbsoWAn5DfUcz6) | [soowoo](https://open.spotify.com/artist/6yrdEI0g5zLDdYiBmqNYxo), [YooJeong](https://open.spotify.com/artist/6IDgXpF52ULsVz5Oqc0JST) | [Moonlight](https://open.spotify.com/album/4QagrJlMwIQYju8jKPLj8B) | 2:29 | 2022-03-31 | 2022-06-10 |
 | [Music All We Have](https://open.spotify.com/track/5BtEJ0u8sxno9kymiloA0S) | [SCALLER](https://open.spotify.com/artist/6IjWOreXe5zdIiRpDD4stM) | [Music All We Have](https://open.spotify.com/album/7HdVwXyh6GSIe8n6Ilnbo7) | 4:02 | 2022-08-11 |  |
 | [MY DREAM](https://open.spotify.com/track/3Ai9IjVhRy5eMWFQ3luIG6) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [MY DREAM](https://open.spotify.com/album/2wrsym38hvB4Wp9BYkCQxS) | 3:35 | 2022-08-04 | 2022-09-09 |
-| [My Little Lambs](https://open.spotify.com/track/3mLf0rGbBQHpkK0Sm8IQR6) | [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [My Little Lambs](https://open.spotify.com/album/3qSiB7QbxOnt7bx6ieXtm4) | 3:37 | 2022-08-04 |  |
+| [My Little Lambs](https://open.spotify.com/track/5h1HkyDCvKdyJAA1GM2VH4) | [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [TEEN TROUBLES](https://open.spotify.com/album/1KCSoihLiF0x66tJyQ6VbE) | 3:37 | 2022-09-15 |  |
+| [My Little Lambs](https://open.spotify.com/track/3mLf0rGbBQHpkK0Sm8IQR6) | [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [My Little Lambs](https://open.spotify.com/album/3qSiB7QbxOnt7bx6ieXtm4) | 3:37 | 2022-08-04 | 2022-09-21 |
 | [My Summertime](https://open.spotify.com/track/4u9Pz63jjw4Us1yQx7mDzL) | [Jiwhan Kim](https://open.spotify.com/artist/5iuodxEu3skXjt8pTbImO1), [Minjeong](https://open.spotify.com/artist/61tWd17tvt3qHk7PlrTVpv) | [My Summertime](https://open.spotify.com/album/2PMoJIyudoJWvcMGxfhJ4x) | 2:45 | 2022-06-23 | 2022-08-05 |
 | [Mystery Train \- feat\. Wez Atlas](https://open.spotify.com/track/0v2zPLhc7ZROOxz1uOQjps) | [Helsinki Lambda Club](https://open.spotify.com/artist/3jpFXrTLWqYtXSAxboiiL5), [Wez Atlas](https://open.spotify.com/artist/6fDdl8sluLiRg4fbrqMoeQ) | [Mystery Train \(feat\. Wez Atlas\)](https://open.spotify.com/album/19pg8oyWhvQ9ILkHML1Uo4) | 3:41 | 2022-06-23 | 2022-09-02 |
 | [Mấy Khi](https://open.spotify.com/track/14Y6vaDKyaUzjoZT0VA6pB) | [Ngọt](https://open.spotify.com/artist/0V2DfUrZvBuUReS1LFo5ZI) | [Mấy Khi](https://open.spotify.com/album/49lLzMMt9lTfxAZN6a1my0) | 3:00 | 2022-03-31 | 2022-05-07 |

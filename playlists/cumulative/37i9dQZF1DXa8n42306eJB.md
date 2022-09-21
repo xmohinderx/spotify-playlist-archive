@@ -4,7 +4,7 @@
 
 > Good vibes for good times!
 
-91 songs - 5 hr 32 min - [published](https://open.spotify.com/playlist/5mjM1Y8WNUCGGkDhXj1uoY)
+92 songs - 5 hr 36 min - [published](https://open.spotify.com/playlist/5mjM1Y8WNUCGGkDhXj1uoY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,8 @@
 | [Love Me](https://open.spotify.com/track/3zfn7mpuEfL0C4x6MTjTAr) | [Fia](https://open.spotify.com/artist/3uwg3MMPpcXtJ7OknqdO9W) | [Love Me](https://open.spotify.com/album/0W5jW3o1KpH0qHBwmytpwK) | 4:24 | 2021-08-24 |  |
 | [Love Mi Bad](https://open.spotify.com/track/3wni9NKQ88KnU2LLa5rkAK) | [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH) | [Love Mi Bad](https://open.spotify.com/album/5ddeqiKpSSfKkl7RDXBEBe) | 2:40 | 2021-08-24 |  |
 | [Murder She Wrote](https://open.spotify.com/track/1HGyhNaRUFEDBiVLbvtbL6) | [Chaka Demus & Pliers](https://open.spotify.com/artist/6RQkaOWddQmiLLJqSgnTbm) | [Tease Me](https://open.spotify.com/album/6GTzBIyPe32G2mXBaYSqYY) | 4:05 | 2021-08-24 |  |
-| [My Baby](https://open.spotify.com/track/0I0BvzTJDO8KR61k9rWVGP) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B IV](https://open.spotify.com/album/6PPhLgXiq4nEiZ8x2ZB3xV) | 3:56 | 2021-08-24 |  |
+| [My Baby](https://open.spotify.com/track/0I0BvzTJDO8KR61k9rWVGP) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B IV](https://open.spotify.com/album/6PPhLgXiq4nEiZ8x2ZB3xV) | 3:56 | 2021-08-24 | 2022-09-21 |
+| [My Baby](https://open.spotify.com/track/784sJR2S68F1joSvINXhe0) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B IV](https://open.spotify.com/album/15CViSIGJXmn2dn0Tt1wm1) | 3:56 | 2022-08-07 |  |
 | [My Everything](https://open.spotify.com/track/5H7vRoyMgI4VcuPBLnElAI) | [Victor J Sefo](https://open.spotify.com/artist/2C1zgkYFPzuU7GBM66c1S9) | [My Everything](https://open.spotify.com/album/2SrbC71vZRVuFYPkMoIfOK) | 4:12 | 2021-08-24 |  |
 | [My Guy](https://open.spotify.com/track/1gBPX3aGaa58zr02vXp0tC) | [Tomorrow People](https://open.spotify.com/artist/06pkUJtvwH93XlSdc0RAOY), [Wayno](https://open.spotify.com/artist/3HVur1nWxj1AGZoY5u04AW) | [21](https://open.spotify.com/album/37yx9V8gn8cpLZRvTR8ft8) | 3:51 | 2022-06-09 | 2022-08-31 |
 | [My Guy](https://open.spotify.com/track/3l1AjvzYObjfx0sSTHuMWJ) | [Tomorrow People](https://open.spotify.com/artist/06pkUJtvwH93XlSdc0RAOY), [Wayno](https://open.spotify.com/artist/3HVur1nWxj1AGZoY5u04AW) | [My Guy](https://open.spotify.com/album/7vNkxEWGt4gA6eYnAmbUqv) | 3:51 | 2021-08-24 | 2022-07-29 |

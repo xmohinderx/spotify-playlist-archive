@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35qF4A5M9ux.md) - [plain]
 
 > ¡Éxitos salseros para prenderle fuego a la pista de baile!
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,809 likes - 100 songs - 8 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,073 likes - 100 songs - 8 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35qF4A5M9ux.md) - [plain]
 | 51 | [La Magia De Tus Besos](https://open.spotify.com/track/3nBQUOFwVZumOzzSV3h2sw) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Siempre Una Aventura](https://open.spotify.com/album/2yAheDQ4qgtbVfHVOhKDNF) | 4:44 |
 | 52 | [Ese](https://open.spotify.com/track/23gGTtWSjeTx4HEnAfdCgW) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [No Me Olvidaras](https://open.spotify.com/album/3nPnMxM4svBJpKF2UwtnRD) | 3:31 |
 | 53 | [Un Sueño Y Nada Mas](https://open.spotify.com/track/2bVisOYbfWI29XxWEdTKSX) | [Grupo Polo Montañes](https://open.spotify.com/artist/3qI8efQwFJlPuiOcBIdbWC) | [Un Sueño Y Nada Más](https://open.spotify.com/album/0Be08NMtq8dwdVqLCHJoZ0) | 4:38 |
-| 54 | [Conciencia](https://open.spotify.com/track/5bccusEjEtnC5cDfWXQ8rf) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [20th Anniversary](https://open.spotify.com/album/3cN4DzawdHmneVAVQDtvjs) | 5:33 |
-| 55 | [Nunca Te Diré Adiós](https://open.spotify.com/track/4tU8YSzSnz57md7qlbcYhO) | [Max Torres](https://open.spotify.com/artist/4iVn2h04jEDnVvx2UV2ukF) | [Nunca Te Diré Adiós](https://open.spotify.com/album/5r7p2gSk26Jh4KnKMsQwr7) | 4:24 |
+| 54 | [Nunca Te Diré Adiós](https://open.spotify.com/track/4tU8YSzSnz57md7qlbcYhO) | [Max Torres](https://open.spotify.com/artist/4iVn2h04jEDnVvx2UV2ukF) | [Nunca Te Diré Adiós](https://open.spotify.com/album/5r7p2gSk26Jh4KnKMsQwr7) | 4:24 |
+| 55 | [Conciencia](https://open.spotify.com/track/5bccusEjEtnC5cDfWXQ8rf) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [20th Anniversary](https://open.spotify.com/album/3cN4DzawdHmneVAVQDtvjs) | 5:33 |
 | 56 | [La Cita](https://open.spotify.com/track/1Wzt0dNLjAqN3OzGwWeGH5) | [Galy Galiano](https://open.spotify.com/artist/2OSKh2JIKMr66DxByxhwzT) | [Galy Galiano 30 Años](https://open.spotify.com/album/07fXyhm97NonPri4FLOqyy) | 7:18 |
 | 57 | [Hazme Olvidarla](https://open.spotify.com/track/752aNrC43L3ZCIuPoK8YTK) | [Willie Gonzalez](https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z) | [Grandes Exitos Vol\. 2](https://open.spotify.com/album/6F2D1YfaSnPpH5Lf2bbUoJ) | 5:37 |
 | 58 | [Si Volvieras A Mi](https://open.spotify.com/track/7FntdQdzMcHcD4QhItlq9s) | [Maelo Ruiz](https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw) | [En Tiempo De Amor](https://open.spotify.com/album/6oSejW0PK0YiKXj5YPm1tl) | 4:50 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35qF4A5M9ux.md) - [plain]
 | 74 | [No Podras Escapar De Mi](https://open.spotify.com/track/0lacKf3kZXbQ1F17QvurMs) | [Willie Gonzalez](https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z) | [Grandes Exitos](https://open.spotify.com/album/2FakrUxHjeJKeY0QxX4MGo) | 5:31 |
 | 75 | [Si Supieras](https://open.spotify.com/track/6JUOHyIgRFhZumikb2u1uA) | [Pedro Conga](https://open.spotify.com/artist/5AvuagpXeJtpvaq7OtBG1y) | [Salsa Exitos](https://open.spotify.com/album/7d6NQ9TSwDphlr9UExZMUW) | 5:11 |
 | 76 | [Aquél Viejo Motel](https://open.spotify.com/track/286NP8kXWzx2uHb5tr7TGv) | [David Pabon](https://open.spotify.com/artist/3L3YHYkS8b2vgAbnqBTXrE) | [Oro Salsero](https://open.spotify.com/album/45jRKB7cqJYwk7vHyYgveo) | 5:08 |
-| 77 | [Así Fue](https://open.spotify.com/track/4xaOEKr5ekCoBcGesvcrM9) | [NELSON DÍAZ Y LA CONSTELACIÓN](https://open.spotify.com/artist/0dDHeD2Xl3l0p8tSMcVRBO) | [Nelson Díaz y la Constelación](https://open.spotify.com/album/09vJMrho92acNaYIBvqcVi) | 4:27 |
-| 78 | [Caretas](https://open.spotify.com/track/6CJAk19Xw9rXoUy1Egshpe) | [Ismael Miranda](https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq) | [Por el Buen Camino](https://open.spotify.com/album/1fwcGFkXIXDmd3CJ1w5KM3) | 5:11 |
+| 77 | [Caretas](https://open.spotify.com/track/6CJAk19Xw9rXoUy1Egshpe) | [Ismael Miranda](https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq) | [Por el Buen Camino](https://open.spotify.com/album/1fwcGFkXIXDmd3CJ1w5KM3) | 5:11 |
+| 78 | [Así Fue](https://open.spotify.com/track/4xaOEKr5ekCoBcGesvcrM9) | [NELSON DÍAZ Y LA CONSTELACIÓN](https://open.spotify.com/artist/0dDHeD2Xl3l0p8tSMcVRBO) | [Nelson Díaz y la Constelación](https://open.spotify.com/album/09vJMrho92acNaYIBvqcVi) | 4:27 |
 | 79 | [Tú Me Vuelves Loco](https://open.spotify.com/track/1hiy2Mm4Xw57Vh6tiWbyam) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Frankie Ruiz La Leyenda](https://open.spotify.com/album/1R8Tr9GPJZS6XGEvnOn8sJ) | 4:55 |
 | 80 | [Fuego En El 23](https://open.spotify.com/track/5EX3Q9GWGMtvvugQFkNTUb) | [Sonora Ponceña](https://open.spotify.com/artist/39qcQ01yJQbaMje70kIiFa), [Papo Lucca](https://open.spotify.com/artist/1KbyKzIyGQig2K7sP5E7gv), [Luigui Gomez](https://open.spotify.com/artist/7iY8Y06Ta3wYvBpH0fTHVQ), [Tito Gómez](https://open.spotify.com/artist/6d5spDidb3nveGjwpybfdn) | [Fuego en el 23!](https://open.spotify.com/album/0c3F6OlWKJnkRTb78nswUt) | 4:44 |
 | 81 | [Maria Teresa y Danilo](https://open.spotify.com/track/5D1P4P7IxymGprWdbaq8N4) | [Hansel Y Raul](https://open.spotify.com/artist/2BXQwWUSIivZCgT0EqLx6g) | [Siempre Charanga](https://open.spotify.com/album/5LRCh0vhclTfXIwnPaU7Az) | 4:47 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35qF4A5M9ux.md) - [plain]
 | 99 | [Mascaras](https://open.spotify.com/track/7zKD27zr6GGvmnftzyze8O) | [El Inspector De La Salsa](https://open.spotify.com/artist/3jakCpqlxelvHkdvhPWl2p) | [Salsa Estelar](https://open.spotify.com/album/00TVXvhvENeaYgeHGzH157) | 5:26 |
 | 100 | [Dime Que Pasó](https://open.spotify.com/track/65D6E7asOuIcW8MQWaRCV2) | [The Latin Brothers](https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK), [Morist Jimenez](https://open.spotify.com/artist/5aGvZHNmq1JOt3vaEPDI2t) | [¡Para Bailar!](https://open.spotify.com/album/371uwra4kQVB4GyUxSSHGs) | 3:32 |
 
-Snapshot ID: `MTY1OTY0NDA5MSwwMDAwMDAwMGFlYzg0NmRjNmZmYjMzZTg5MDFmOTYyMjQ4NjQ1MmVm`
+Snapshot ID: `MTY1OTY0NDA5MSwwMDAwMDAwMGQwMWE0MTQxZTcwMjAyM2Y3YjhiODc5ODA5OWY5ZTI1`

@@ -1,12 +1,12 @@
 {
   "description": "When the funk is just too funky for words to keep up.",
-  "num_followers": 303868,
+  "num_followers": 304004,
   "original_name": "Instrumental Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjA5MTMyMCwwMDAwMDAwMDAzZTFjYjQxYTU4MzBkOWM0NmNiN2MxNzc4OTU2NTgy",
+  "snapshot_id": "MTY2MjA5MTMyMCwwMDAwMDAwMDY4Yzg0NzczNDNkNWMyOTk4MjBhMmRkNDE0ZDkxMWJi",
   "tracks": [
     {
       "added_at": "2020-11-13 05:02:00",
@@ -281,20 +281,20 @@
       "url": "https://open.spotify.com/track/2moo0ESu4dQjHAcUbnEEfm"
     },
     {
-      "added_at": "2020-11-13 05:02:00",
+      "added_at": "2021-06-25 04:02:00",
       "album": {
-        "name": "KINFOLK: Postcards from Everywhere",
-        "url": "https://open.spotify.com/album/5ZZ16e0qQpQRMWeHc6uAnl"
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/45yGFEPm310zjAc1psZzEv"
       },
       "artists": [
         {
-          "name": "Nate Smith",
-          "url": "https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy"
+          "name": "Glass Beams",
+          "url": "https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF"
         }
       ],
-      "duration_ms": 333304,
-      "name": "Bounce: pts I + II",
-      "url": "https://open.spotify.com/track/2Xt6ANxPp2Ds41E3CWYiSV"
+      "duration_ms": 287645,
+      "name": "Kong",
+      "url": "https://open.spotify.com/track/1MrzCY8KeTcU2UGDITsAoz"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -331,6 +331,22 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
+        "name": "KINFOLK: Postcards from Everywhere",
+        "url": "https://open.spotify.com/album/5ZZ16e0qQpQRMWeHc6uAnl"
+      },
+      "artists": [
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy"
+        }
+      ],
+      "duration_ms": 333304,
+      "name": "Bounce: pts I + II",
+      "url": "https://open.spotify.com/track/2Xt6ANxPp2Ds41E3CWYiSV"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
         "name": "Laid Black",
         "url": "https://open.spotify.com/album/3REq2IkHZ1fo8BNWnfGGNc"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 355986,
       "name": "7-T's",
       "url": "https://open.spotify.com/track/008BspjuJpmAPCRi7fWbOY"
-    },
-    {
-      "added_at": "2021-06-25 04:02:00",
-      "album": {
-        "name": "Mirage",
-        "url": "https://open.spotify.com/album/45yGFEPm310zjAc1psZzEv"
-      },
-      "artists": [
-        {
-          "name": "Glass Beams",
-          "url": "https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF"
-        }
-      ],
-      "duration_ms": 287645,
-      "name": "Kong",
-      "url": "https://open.spotify.com/track/1MrzCY8KeTcU2UGDITsAoz"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -595,22 +595,6 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "Jazz In The Present Tense",
-        "url": "https://open.spotify.com/album/6mB4Dw3ryI693Cpm1KOYIK"
-      },
-      "artists": [
-        {
-          "name": "Solsonics",
-          "url": "https://open.spotify.com/artist/0hRcHqu2R885utzNyofwbj"
-        }
-      ],
-      "duration_ms": 249933,
-      "name": "Montuno Funk",
-      "url": "https://open.spotify.com/track/1HwXgiTt6K0MtxxBriAQEl"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
         "name": "Golden Ticket",
         "url": "https://open.spotify.com/album/0iOLQnizNBBrvLbvmdUPF6"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 228986,
       "name": "Basket Case",
       "url": "https://open.spotify.com/track/4X9qoigjhdm32eRJRcjtm2"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "Jazz In The Present Tense",
+        "url": "https://open.spotify.com/album/6mB4Dw3ryI693Cpm1KOYIK"
+      },
+      "artists": [
+        {
+          "name": "Solsonics",
+          "url": "https://open.spotify.com/artist/0hRcHqu2R885utzNyofwbj"
+        }
+      ],
+      "duration_ms": 249933,
+      "name": "Montuno Funk",
+      "url": "https://open.spotify.com/track/1HwXgiTt6K0MtxxBriAQEl"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -675,22 +675,6 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "Scratch My Itch",
-        "url": "https://open.spotify.com/album/50JWmtnK2xUgMY321aZyzs"
-      },
-      "artists": [
-        {
-          "name": "The Soul Snatchers",
-          "url": "https://open.spotify.com/artist/7DssAVUkBP2JAMLRvfrg20"
-        }
-      ],
-      "duration_ms": 239280,
-      "name": "Do You Wanna Get Down",
-      "url": "https://open.spotify.com/track/1U2WuiUGSpZfzoL0e3n8Kj"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
         "name": "Baked, Broiled & Fried",
         "url": "https://open.spotify.com/album/5TB3O4gATp2KZ9R65dsDuN"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 275200,
       "name": "Feel Good Inc.",
       "url": "https://open.spotify.com/track/4GVx7oT2KnKCN9Ia0YDGau"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "Scratch My Itch",
+        "url": "https://open.spotify.com/album/50JWmtnK2xUgMY321aZyzs"
+      },
+      "artists": [
+        {
+          "name": "The Soul Snatchers",
+          "url": "https://open.spotify.com/artist/7DssAVUkBP2JAMLRvfrg20"
+        }
+      ],
+      "duration_ms": 239280,
+      "name": "Do You Wanna Get Down",
+      "url": "https://open.spotify.com/track/1U2WuiUGSpZfzoL0e3n8Kj"
     },
     {
       "added_at": "2021-06-11 04:01:00",
@@ -957,22 +957,6 @@
       "url": "https://open.spotify.com/track/0WEMvMJZUrCUJJtu7rOPjB"
     },
     {
-      "added_at": "2021-07-09 04:01:00",
-      "album": {
-        "name": "Praise Me Now",
-        "url": "https://open.spotify.com/album/1XWqVrK5rTsKxL4rXrjHm5"
-      },
-      "artists": [
-        {
-          "name": "Funky Destination",
-          "url": "https://open.spotify.com/artist/2FK2jZ7cuokxYOC5nSM7bK"
-        }
-      ],
-      "duration_ms": 220363,
-      "name": "Mr Bong",
-      "url": "https://open.spotify.com/track/51DMIydCssADRLfnmgt8ZI"
-    },
-    {
       "added_at": "2020-11-13 05:02:00",
       "album": {
         "name": "The Hang",
@@ -987,6 +971,22 @@
       "duration_ms": 232140,
       "name": "Monster Funk",
       "url": "https://open.spotify.com/track/0RyrQ4Xh6Z0wE8DQOjKvUa"
+    },
+    {
+      "added_at": "2021-07-09 04:01:00",
+      "album": {
+        "name": "Praise Me Now",
+        "url": "https://open.spotify.com/album/1XWqVrK5rTsKxL4rXrjHm5"
+      },
+      "artists": [
+        {
+          "name": "Funky Destination",
+          "url": "https://open.spotify.com/artist/2FK2jZ7cuokxYOC5nSM7bK"
+        }
+      ],
+      "duration_ms": 220363,
+      "name": "Mr Bong",
+      "url": "https://open.spotify.com/track/51DMIydCssADRLfnmgt8ZI"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -1041,6 +1041,22 @@
       "url": "https://open.spotify.com/track/5poYqonWICaAZaQCZIPMcu"
     },
     {
+      "added_at": "2021-01-15 21:11:37",
+      "album": {
+        "name": "The Duke",
+        "url": "https://open.spotify.com/album/2FnbvOsZ4x8mnx4eKOKnA9"
+      },
+      "artists": [
+        {
+          "name": "Menahan Street Band",
+          "url": "https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp"
+        }
+      ],
+      "duration_ms": 166760,
+      "name": "The Duke",
+      "url": "https://open.spotify.com/track/11V8HzOfn85nFZmDntBvnP"
+    },
+    {
       "added_at": "2020-11-13 05:02:00",
       "album": {
         "name": "Shake It",
@@ -1059,22 +1075,6 @@
       "duration_ms": 184634,
       "name": "Permission to Land - 45",
       "url": "https://open.spotify.com/track/3TNH0Ae83rW4hNM0LfKxFi"
-    },
-    {
-      "added_at": "2021-01-15 21:11:37",
-      "album": {
-        "name": "The Duke",
-        "url": "https://open.spotify.com/album/2FnbvOsZ4x8mnx4eKOKnA9"
-      },
-      "artists": [
-        {
-          "name": "Menahan Street Band",
-          "url": "https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp"
-        }
-      ],
-      "duration_ms": 166760,
-      "name": "The Duke",
-      "url": "https://open.spotify.com/track/11V8HzOfn85nFZmDntBvnP"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -1125,6 +1125,22 @@
       "url": "https://open.spotify.com/track/00iZlOpfLr21eTSl0Ba3hn"
     },
     {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "The Basement Beat",
+        "url": "https://open.spotify.com/album/3JrhYYG6NXmVmLQ2mH8zaB"
+      },
+      "artists": [
+        {
+          "name": "Chris Hazelton's Boogaloo 7",
+          "url": "https://open.spotify.com/artist/74IYxnwsZ1xNeGIDDujtWr"
+        }
+      ],
+      "duration_ms": 470371,
+      "name": "Bambu",
+      "url": "https://open.spotify.com/track/2zMTauBe9guPMWLTbG1pAH"
+    },
+    {
       "added_at": "2022-02-25 05:02:00",
       "album": {
         "name": "Bunny Hop!",
@@ -1159,18 +1175,18 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "The Basement Beat",
-        "url": "https://open.spotify.com/album/3JrhYYG6NXmVmLQ2mH8zaB"
+        "name": "Stay Awhile",
+        "url": "https://open.spotify.com/album/1EnNQRl2u7SVbSfaLp8ZN1"
       },
       "artists": [
         {
-          "name": "Chris Hazelton's Boogaloo 7",
-          "url": "https://open.spotify.com/artist/74IYxnwsZ1xNeGIDDujtWr"
+          "name": "Jay Soto",
+          "url": "https://open.spotify.com/artist/5uDQgKIEg2yDXU3FQBD7Me"
         }
       ],
-      "duration_ms": 470371,
-      "name": "Bambu",
-      "url": "https://open.spotify.com/track/2zMTauBe9guPMWLTbG1pAH"
+      "duration_ms": 255093,
+      "name": "Make It Happen",
+      "url": "https://open.spotify.com/track/508i2fa2DAEchJjKbW3bb9"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -1187,22 +1203,6 @@
       "duration_ms": 352192,
       "name": "Chili Wa Man",
       "url": "https://open.spotify.com/track/73wTZTmfSWoUbTk6daCj4S"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
-        "name": "Stay Awhile",
-        "url": "https://open.spotify.com/album/1EnNQRl2u7SVbSfaLp8ZN1"
-      },
-      "artists": [
-        {
-          "name": "Jay Soto",
-          "url": "https://open.spotify.com/artist/5uDQgKIEg2yDXU3FQBD7Me"
-        }
-      ],
-      "duration_ms": 255093,
-      "name": "Make It Happen",
-      "url": "https://open.spotify.com/track/508i2fa2DAEchJjKbW3bb9"
     },
     {
       "added_at": "2021-01-22 05:01:00",

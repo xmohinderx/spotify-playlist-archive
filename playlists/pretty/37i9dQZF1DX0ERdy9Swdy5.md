@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ERdy9Swdy5.md) - [plain]
 
 > Los mejor de los 90s\. The Best of the 90s
 
-[Spotify](https://open.spotify.com/user/spotify) - 568,872 likes - 100 songs - 8 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 569,098 likes - 100 songs - 8 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ERdy9Swdy5.md) - [plain]
 | 29 | [Amores como el nuestro \(Salsa\)](https://open.spotify.com/track/0r8RjrJjZ9U3OxZpGsn3v8) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [Un poquito de' to \(Salsa \- Merengue \- Bachata & Reggaeton\)](https://open.spotify.com/album/2b4nbJCVka7rbb5B7D4QON) | 5:05 |
 | 30 | [Por Ella](https://open.spotify.com/track/6xggO96o1OD6zNd5wjevhQ) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Inconfundible](https://open.spotify.com/album/1VOFVi0W0TME7lcHaorE5B) | 4:38 |
 | 31 | [Una Aventura](https://open.spotify.com/track/4F8IB14Sjvqb9qJUOxndRZ) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Siempre Una Aventura](https://open.spotify.com/album/2yAheDQ4qgtbVfHVOhKDNF) | 5:16 |
-| 32 | [Salsa Con Coco](https://open.spotify.com/track/3Xy4svERcnUuFcOaBI0539) | [Pochy Y Su Cocoband](https://open.spotify.com/artist/5AWKC0rd625VHM69d7X2tu) | [El Arrollador](https://open.spotify.com/album/2JWLAvJiDRdUJfrr2Xhfju) | 4:54 |
-| 33 | [Hasta el sol de Hoy](https://open.spotify.com/track/2vnWoSjTm3I7VO280loEX9) | [Edgar Joel](https://open.spotify.com/artist/2Q6zKMFyq67L6fBml9cn4A) | [Edgar Joel](https://open.spotify.com/album/4JEM0eOrQHAsZANiLOFTyD) | 4:44 |
+| 32 | [Hasta el sol de Hoy](https://open.spotify.com/track/2vnWoSjTm3I7VO280loEX9) | [Edgar Joel](https://open.spotify.com/artist/2Q6zKMFyq67L6fBml9cn4A) | [Edgar Joel](https://open.spotify.com/album/4JEM0eOrQHAsZANiLOFTyD) | 4:44 |
+| 33 | [Salsa Con Coco](https://open.spotify.com/track/3Xy4svERcnUuFcOaBI0539) | [Pochy Y Su Cocoband](https://open.spotify.com/artist/5AWKC0rd625VHM69d7X2tu) | [El Arrollador](https://open.spotify.com/album/2JWLAvJiDRdUJfrr2Xhfju) | 4:54 |
 | 34 | [Cara de Niño](https://open.spotify.com/track/2WOMIZnu99mzeMo13bZq8m) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [Cara De Niño](https://open.spotify.com/album/0QH703ohOGjIj2EYeBUTr0) | 4:56 |
 | 35 | [Vivir Lo Nuestro](https://open.spotify.com/track/0LIZVQBQtDi4lLhB83qJIp) | [LA INDIA](https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Desde Un Principio / From The Beginning](https://open.spotify.com/album/5d7Tr9DguGh9z9oByKWYoI) | 6:06 |
 | 36 | [Se Acabó el Amor](https://open.spotify.com/track/7nxoTSiir8y3vF8HPhFmQ9) | [Adolescent's Orquesta](https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O) | [Búscame](https://open.spotify.com/album/76GMXDdpCLC8NwXtv37yYj) | 4:01 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ERdy9Swdy5.md) - [plain]
 | 52 | [Cuenta Conmigo](https://open.spotify.com/track/11GaqHqSJIHtS4Y4FRZq5Q) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [Mis Favoritas](https://open.spotify.com/album/3Ph28YClqOZvb2nmdsXKBA) | 3:48 |
 | 53 | [Si Te Preguntan](https://open.spotify.com/track/3Bg1xF0RPxbFN4eIen8PSG) | [Rey Ruiz](https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ) | [Oro Salsero](https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE) | 4:47 |
 | 54 | [Ella se Hizo Deseo](https://open.spotify.com/track/6xcpIxu4IDH2gzAYCr6dIR) | [Tito Rojas](https://open.spotify.com/artist/2kgCV0fFS0wt3q6M5B39nH) | [Exitos y Más](https://open.spotify.com/album/3nXyqYDpyYCZRQyTqRSssX) | 5:04 |
-| 55 | [Por Eso Está Conmigo](https://open.spotify.com/track/2gB1aIidmaeWBapZuqr4xg) | [Johnny Rivera](https://open.spotify.com/artist/3YUhNvMNTyZ65USgOFlq1p) | [Cuando Parará La Lluvia](https://open.spotify.com/album/7wPHaKaBhYBlruGndq64gJ) | 4:40 |
-| 56 | [Así Es la Vida](https://open.spotify.com/track/7sxCk2tplxW6yEVlguvgET) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [Coleccion de Oro](https://open.spotify.com/album/6eK3n2MpVdKqhIOnH9BCe5) | 4:41 |
+| 55 | [Así Es la Vida](https://open.spotify.com/track/7sxCk2tplxW6yEVlguvgET) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [Coleccion de Oro](https://open.spotify.com/album/6eK3n2MpVdKqhIOnH9BCe5) | 4:41 |
+| 56 | [Por Eso Está Conmigo](https://open.spotify.com/track/2gB1aIidmaeWBapZuqr4xg) | [Johnny Rivera](https://open.spotify.com/artist/3YUhNvMNTyZ65USgOFlq1p) | [Cuando Parará La Lluvia](https://open.spotify.com/album/7wPHaKaBhYBlruGndq64gJ) | 4:40 |
 | 57 | [Ya No Queda Nada \- Salsa Version](https://open.spotify.com/track/2Jcr5m0dP68G1Zlrp7iKp3) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [Fabricando Fantasías](https://open.spotify.com/album/3Gxrf8cYKgle42MdOOxqu8) | 3:24 |
 | 58 | [No Morirá \- No Matter What](https://open.spotify.com/track/2PsTyxNYFJ5AnjpYOUo3VN) | [DLG](https://open.spotify.com/artist/0z0w28IvsF1gsKhVAMbh9p) | [Lo Esencial](https://open.spotify.com/album/60IcnJNtwZVqhvuzf9mGcz) | 4:31 |
 | 59 | [Sobredosis](https://open.spotify.com/track/0Ncmfi9ff3wTC87zGHAAKE) | [Los Titanes](https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S) | [Grandes Exitos de Salsa](https://open.spotify.com/album/5YrlCDihTCk8ubcTapuc8E) | 4:12 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ERdy9Swdy5.md) - [plain]
 | 99 | [Inolvidable](https://open.spotify.com/track/6JeEtAKTZj4hz7KqxmhJpU) | [Frankie Negrón](https://open.spotify.com/artist/3QPEwHBLL8xX8p8HaT4S16) | [Con Amor Se Gana](https://open.spotify.com/album/3MaqSrmpWmDkg3kFo7nhbV) | 4:35 |
 | 100 | [Discúlpeme Señora](https://open.spotify.com/track/1X8CGZ8BzIiCyfFAYHYMKu) | [José Alberto "El Canario"](https://open.spotify.com/artist/6TRzinjf5dzE8zA8baPbYz) | [Greatest Hits \(Serie Cristal\)](https://open.spotify.com/album/2zWUGZTsdpLSDIQDasNUv6) | 4:38 |
 
-Snapshot ID: `MTY2MTkyODM0NCwwMDAwMDAwMGQyZjdkNzhlNTE0ZjgwMDJkZjhkMjExMGUxZmY5ZmRl`
+Snapshot ID: `MTY2MTkyODM0NCwwMDAwMDAwMGI2MjE0MGRmYTU1ODI2MDBiZDZlY2JiMDUxZGQzYTYw`

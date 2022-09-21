@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXco6WE2xPt0R.md) - [plain]
 
 > Aquela playlist pra ficar no quentin, gostosin.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,101 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,160 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXco6WE2xPt0R.md) - [plain]
 | 59 | [Still Wonder](https://open.spotify.com/track/48Ni2LTyeTjTzWBD69q9Dm) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As), [Jack Dine](https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn) | [Still Wonder](https://open.spotify.com/album/2UUBiQAfkxgPcMGBbfy5zi) | 3:58 |
 | 60 | [Thought of You \(feat\. Joyce Wrice\)](https://open.spotify.com/track/0OLSlzgN1eafqbICQ5vOdo) | [Mack Keane](https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO), [ESTA.](https://open.spotify.com/artist/4KZmpaIhanIo46eaQimtgO), [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum) | [Intersections](https://open.spotify.com/album/1mhJA30itw9ItQOGXb9s4N) | 3:37 |
 | 61 | [Me x 7 \(feat\. Tierra Whack\)](https://open.spotify.com/track/4HWhqsHKli9ujBAFVabKuJ) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh) | [ALICIA](https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1) | 3:32 |
-| 62 | [Exposure](https://open.spotify.com/track/0tHWsBI54oBishkTwMwd9Y) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [Exposure](https://open.spotify.com/album/1K1Dv8UvUhejxrbAMPCFu7) | 3:44 |
-| 63 | [Right Time](https://open.spotify.com/track/279rl4oKt4TZGxMOaQa34T) | [Ye Ali](https://open.spotify.com/artist/0Maq4Nk8ZM6keGZjTCXGIH), [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC) | [Right Time \(feat\. Reggie Becton\)](https://open.spotify.com/album/68GpIwLR39Lkm6B5QqmEIi) | 2:57 |
+| 62 | [Right Time](https://open.spotify.com/track/279rl4oKt4TZGxMOaQa34T) | [Ye Ali](https://open.spotify.com/artist/0Maq4Nk8ZM6keGZjTCXGIH), [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC) | [Right Time \(feat\. Reggie Becton\)](https://open.spotify.com/album/68GpIwLR39Lkm6B5QqmEIi) | 2:57 |
+| 63 | [Exposure](https://open.spotify.com/track/0tHWsBI54oBishkTwMwd9Y) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [Exposure](https://open.spotify.com/album/1K1Dv8UvUhejxrbAMPCFu7) | 3:44 |
 | 64 | [Lessons](https://open.spotify.com/track/2Z6BAgNrGvouF0KZet8hl2) | [Eric Roberson](https://open.spotify.com/artist/2ewAU3d4El7WSIxWUJaZJn) | [Lessons](https://open.spotify.com/album/5VMzvf9fE5QsaZmVFJLwVv) | 4:10 |
 | 65 | [City Girl](https://open.spotify.com/track/7HaAuZBOJTp0bpZPnccBUm) | [Ari PenSmith](https://open.spotify.com/artist/4e8ULyN5otwmBHxanRiBnP), [Jonah Christian](https://open.spotify.com/artist/6pDfhbJGBQJ22SvibycTYb) | [City Girl](https://open.spotify.com/album/6Yb2iAl9GFYc0QjurOGgsn) | 2:39 |
 | 66 | [Heaven](https://open.spotify.com/track/1OOZ7HK33XptwtvGuKmb5s) | [Amaal](https://open.spotify.com/artist/785y6F5AHHafGaFaRdpMtz) | [Milly](https://open.spotify.com/album/0ybPRt9okiivYSRzyyv1Yd) | 3:03 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXco6WE2xPt0R.md) - [plain]
 | 99 | [Wake Up Baby](https://open.spotify.com/track/4dYeHoqnh0sBhgmByab3ME) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [Hidden Beach presents: The Original Jill Scott: from the vault vol\. 1](https://open.spotify.com/album/2gxhBK34gxGZHMCWBztdGq) | 3:55 |
 | 100 | [Mr\. Midnight \- Winter Time Remix](https://open.spotify.com/track/7Abompe9RyQ6qIng5kkgPP) | [Raheem DeVaughn](https://open.spotify.com/artist/59NO6KX7wQCG7jGdtH1NtL), [Bee Boy$oul](https://open.spotify.com/artist/2leVNDYvVvNjWr0aGMWXQc) | [Mr\. Midnight \(Winter Time Remix\)](https://open.spotify.com/album/3ZEfnijyXzxMa6JR1xBa6i) | 4:00 |
 
-Snapshot ID: `MTY2MjY5MjQ2MCwwMDAwMDAwMDUyYTliMGRjN2ZmY2Y4YWQxNGJiNGQ0OTg2YzYwNjRm`
+Snapshot ID: `MTY2MjY5MjQ2MCwwMDAwMDAwMDIyYjBlOTBhMjVmODlhY2IxZmNhMzNiMThhZmI0ZGI5`

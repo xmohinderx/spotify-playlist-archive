@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:37fxVoFAMzet5CiiDg7SL7">CC:DISCO's </a> favourite tracks\. Updated regularly\. Curated by CC:DISCO!\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-54 songs - 5 hr 1 min - not published yet
+54 songs - 5 hr 1 min - [published](https://open.spotify.com/playlist/3zjUy4MI1JxgA135u6K15F)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

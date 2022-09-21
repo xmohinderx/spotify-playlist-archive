@@ -6,8 +6,24 @@
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "MzYzMyw1Nzk2M2Y3OTUxZjEyYjdmZTM3OGE0NDBkOTQyMGI5NDAwZDU0Nzg1",
+  "snapshot_id": "MzYzNCwxODkxYWMyZjVjZjk2ZmVmNjVjMWRlN2I0N2UxZmRmY2Q5ZmZiMmZj",
   "tracks": [
+    {
+      "added_at": "2022-09-20 17:01:40",
+      "album": {
+        "name": "fallen",
+        "url": "https://open.spotify.com/album/0lV2fwEZ74jxwquxMxwWUc"
+      },
+      "artists": [
+        {
+          "name": "Foxela",
+          "url": "https://open.spotify.com/artist/1R2OPNS7EkGLKcDjyGnpEu"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "fallen",
+      "url": "https://open.spotify.com/track/7aiv9KI14BSQ1syfHIvmdF"
+    },
     {
       "added_at": "2022-09-19 16:22:28",
       "album": {

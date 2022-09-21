@@ -4,7 +4,7 @@
 
 > Beautiful, uplifting Ambient for being in the moment.
 
-80 songs - 3 hr 55 min - [published](https://open.spotify.com/playlist/4IVbdAUmvNe0Yl83P8wD6V)
+81 songs - 3 hr 58 min - [published](https://open.spotify.com/playlist/4IVbdAUmvNe0Yl83P8wD6V)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Transcendental Waves](https://open.spotify.com/track/0wHxhO1wW2Xa2sjszhpYfy) | [Hibiskus](https://open.spotify.com/artist/092ojOuOkibdb82lTdKhsJ) | [Transcendental Waves](https://open.spotify.com/album/0R9tXgiJeGYi2qrWGh01E8) | 2:20 | 2022-08-05 |  |
 | [Unconscious Hours](https://open.spotify.com/track/39ziD9wgBpKjA7lhuv9jPT) | [Insomnia Curator](https://open.spotify.com/artist/2KOGEdahm8S9YknCwiUIHf) | [Natural Events](https://open.spotify.com/album/5be1q5HZtRuUZtWLXB4TVB) | 3:28 | 2022-08-05 |  |
 | [Vaikne](https://open.spotify.com/track/2vu8kAPw2W0gVKrK68YR5P) | [Eyla Calmes](https://open.spotify.com/artist/3CAe04TEaKSxEMemLZqw3X) | [Vaikne](https://open.spotify.com/album/0iej0wwEJwhbKyUlYEhv5F) | 2:58 | 2022-08-05 |  |
+| [Vivid Imagination](https://open.spotify.com/track/4wV6irpJa9f21iaadadfrG) | [Heaven on Earth Instrumental Universe](https://open.spotify.com/artist/7aLueB60C95UX3TOvWgbAt) | [Psybient \(Psychedelic Ambient Music\)](https://open.spotify.com/album/0hXQHpXhx1EupvlaZC7tvM) | 3:16 | 2022-09-20 |  |
 | [Water Shapes](https://open.spotify.com/track/2BXn2oEXL6XD2iXzuSzd0g) | [Calil](https://open.spotify.com/artist/0wZ9TiIXE76xXjZUUbVmN7) | [Water Shapes](https://open.spotify.com/album/4gRZeAvNFnIQZvhUEPbf2H) | 3:20 | 2022-08-05 |  |
 | [Y](https://open.spotify.com/track/2aO1Kx044UxkdUn9HMjsnY) | [Clip Aloe](https://open.spotify.com/artist/6CxgcvEFmR83qRXJmgZj67) | [Y](https://open.spotify.com/album/6HFV1kH4B3WPJWfhxF8CAF) | 3:29 | 2022-08-05 |  |
 | [Yalmi](https://open.spotify.com/track/4vbpZqfVsIz1lPEsMT0IkE) | [Merc La](https://open.spotify.com/artist/0bSzN4RWd1T5I0ICYR2LJS) | [Yalmi](https://open.spotify.com/album/5O6cASUJg7un5RD7kqO0UT) | 2:23 | 2022-08-05 |  |

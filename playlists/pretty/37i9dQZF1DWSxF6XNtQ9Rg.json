@@ -1,12 +1,12 @@
 {
   "description": "Solo hit rap da riascoltare in loop. Cover: Marracash",
-  "num_followers": 142118,
+  "num_followers": 142228,
   "original_name": "Hit Rap Italiane",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjU1NzA4MiwwMDAwMDAwMGRkZWYzN2FmM2U4ODkyZDg2MDJiNGMxNjk0ZjYxOWJl",
+  "snapshot_id": "MTY2MjU1NzA4MiwwMDAwMDAwMGU1MWM1NDY5NGZjOWQzNmRhM2M2MTZlNDA0ZGIzNzIz",
   "tracks": [
     {
       "added_at": "2022-09-07 13:24:41",
@@ -799,6 +799,22 @@
     {
       "added_at": "2022-09-07 13:24:41",
       "album": {
+        "name": "Dark Love EP",
+        "url": "https://open.spotify.com/album/5Z5JxIgeTDnZdg6pLootUs"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        }
+      ],
+      "duration_ms": 176245,
+      "name": "Pensando a lei",
+      "url": "https://open.spotify.com/track/2d0ZupCYQL3ME43vB3Dei3"
+    },
+    {
+      "added_at": "2022-09-07 13:24:41",
+      "album": {
         "name": "MACHETE MIXTAPE 4",
         "url": "https://open.spotify.com/album/5OOd2aAkgZJlYRqYlT1Axz"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 144097,
       "name": "MARYLEAN (feat. Marracash) - prod. Low Kidd",
       "url": "https://open.spotify.com/track/28fRkU3vhqAJdl9i9458pQ"
-    },
-    {
-      "added_at": "2022-09-07 13:24:41",
-      "album": {
-        "name": "Dark Love EP",
-        "url": "https://open.spotify.com/album/5Z5JxIgeTDnZdg6pLootUs"
-      },
-      "artists": [
-        {
-          "name": "Shiva",
-          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
-        }
-      ],
-      "duration_ms": 176245,
-      "name": "Pensando a lei",
-      "url": "https://open.spotify.com/track/2d0ZupCYQL3ME43vB3Dei3"
     },
     {
       "added_at": "2022-09-07 13:24:41",
@@ -879,30 +879,6 @@
     {
       "added_at": "2022-09-07 13:24:41",
       "album": {
-        "name": "20",
-        "url": "https://open.spotify.com/album/0KYX8LOknGNZ7CkC5EuHJw"
-      },
-      "artists": [
-        {
-          "name": "Capo Plaza",
-          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
-        },
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        },
-        {
-          "name": "DrefGold",
-          "url": "https://open.spotify.com/artist/6jwzGu5VdkR5tsRROYuxso"
-        }
-      ],
-      "duration_ms": 185146,
-      "name": "Tesla (feat. Sfera Ebbasta & DrefGold)",
-      "url": "https://open.spotify.com/track/093RgZ7RXHZwIrxZhZYX4Q"
-    },
-    {
-      "added_at": "2022-09-07 13:24:41",
-      "album": {
         "name": "Persona",
         "url": "https://open.spotify.com/album/3ZOt77e63uMgJXU7xcFpqu"
       },
@@ -923,6 +899,30 @@
       "duration_ms": 223045,
       "name": "SUPREME - L'ego (feat. thasup & Sfera Ebbasta)",
       "url": "https://open.spotify.com/track/5EpBEqf5bnKeJ3p4zA1Sod"
+    },
+    {
+      "added_at": "2022-09-07 13:24:41",
+      "album": {
+        "name": "20",
+        "url": "https://open.spotify.com/album/0KYX8LOknGNZ7CkC5EuHJw"
+      },
+      "artists": [
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        },
+        {
+          "name": "DrefGold",
+          "url": "https://open.spotify.com/artist/6jwzGu5VdkR5tsRROYuxso"
+        }
+      ],
+      "duration_ms": 185146,
+      "name": "Tesla (feat. Sfera Ebbasta & DrefGold)",
+      "url": "https://open.spotify.com/track/093RgZ7RXHZwIrxZhZYX4Q"
     },
     {
       "added_at": "2022-09-07 13:24:41",

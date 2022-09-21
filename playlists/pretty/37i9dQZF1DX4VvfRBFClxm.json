@@ -1,12 +1,12 @@
 {
   "description": "A mix of soulful, folksy, and beloved singer-songwriter acoustic gems. Cover: Noah Kahan",
-  "num_followers": 1453795,
+  "num_followers": 1453859,
   "original_name": "Acoustic Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTg3ODE4MSwwMDAwMDAwMDBlYTQ0ZWNmNzAxZjE4MDhiYjY1NTIyZWU2ZTBlMWYw",
+  "snapshot_id": "MTY2MTg3ODE4MSwwMDAwMDAwMDgzN2U4Y2RjMDRhMjc5MmU2ZDRkNDQ0MjQ2NTg3MjMz",
   "tracks": [
     {
       "added_at": "2022-07-22 04:00:00",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
-        "name": "Fallen so Young",
-        "url": "https://open.spotify.com/album/7BlVUDoAnsDbZHwIYT2S74"
-      },
-      "artists": [
-        {
-          "name": "Declan J Donovan",
-          "url": "https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r"
-        }
-      ],
-      "duration_ms": 232164,
-      "name": "Fallen so Young",
-      "url": "https://open.spotify.com/track/3y4uSQwxHckyRcvafEilkN"
-    },
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
         "name": "Optimist",
         "url": "https://open.spotify.com/album/3KChz6qdEH9AfHE6VCBshZ"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 224278,
       "name": "Love is Pain",
       "url": "https://open.spotify.com/track/2tJUcBxiQEYSCzC3BdIOk8"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
+        "name": "Fallen so Young",
+        "url": "https://open.spotify.com/album/7BlVUDoAnsDbZHwIYT2S74"
+      },
+      "artists": [
+        {
+          "name": "Declan J Donovan",
+          "url": "https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r"
+        }
+      ],
+      "duration_ms": 232164,
+      "name": "Fallen so Young",
+      "url": "https://open.spotify.com/track/3y4uSQwxHckyRcvafEilkN"
     },
     {
       "added_at": "2022-07-22 04:00:00",
@@ -1487,26 +1487,18 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
-        "name": "Starving (Acoustic)",
-        "url": "https://open.spotify.com/album/5btWj40qkYd8xGP9K42E7Q"
+        "name": "Love Like That",
+        "url": "https://open.spotify.com/album/3A6pwCsqEs8t3pe60T8nfi"
       },
       "artists": [
         {
-          "name": "Hailee Steinfeld",
-          "url": "https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F"
-        },
-        {
-          "name": "Grey",
-          "url": "https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl"
-        },
-        {
-          "name": "Zedd",
-          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
+          "name": "Phillip Phillips",
+          "url": "https://open.spotify.com/artist/6p5JxpTc7USNnBnLzctyd4"
         }
       ],
-      "duration_ms": 181293,
-      "name": "Starving - Acoustic",
-      "url": "https://open.spotify.com/track/3rdTo5LQGou3pS2ZLxTAcQ"
+      "duration_ms": 194840,
+      "name": "Love Like That",
+      "url": "https://open.spotify.com/track/5FkMAjNnp34RGJJj9TTY2A"
     },
     {
       "added_at": "2022-07-22 04:00:00",
@@ -1527,18 +1519,26 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
-        "name": "Love Like That",
-        "url": "https://open.spotify.com/album/3A6pwCsqEs8t3pe60T8nfi"
+        "name": "Starving (Acoustic)",
+        "url": "https://open.spotify.com/album/5btWj40qkYd8xGP9K42E7Q"
       },
       "artists": [
         {
-          "name": "Phillip Phillips",
-          "url": "https://open.spotify.com/artist/6p5JxpTc7USNnBnLzctyd4"
+          "name": "Hailee Steinfeld",
+          "url": "https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F"
+        },
+        {
+          "name": "Grey",
+          "url": "https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl"
+        },
+        {
+          "name": "Zedd",
+          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
         }
       ],
-      "duration_ms": 194840,
-      "name": "Love Like That",
-      "url": "https://open.spotify.com/track/5FkMAjNnp34RGJJj9TTY2A"
+      "duration_ms": 181293,
+      "name": "Starving - Acoustic",
+      "url": "https://open.spotify.com/track/3rdTo5LQGou3pS2ZLxTAcQ"
     },
     {
       "added_at": "2022-07-22 04:00:00",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
-        "name": "Purpose (Deluxe)",
-        "url": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 203800,
-      "name": "What Do You Mean? - Acoustic",
-      "url": "https://open.spotify.com/track/5YNf9s8WE3iF33YaFNrgpa"
-    },
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
         "name": "Wouldn't Come Back",
         "url": "https://open.spotify.com/album/2X0Oi2vkyzqYWPy2dSdim1"
       },
@@ -1695,18 +1679,18 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
-        "name": "Lines",
-        "url": "https://open.spotify.com/album/1UkOPjlvgtqoeeIETfK2fs"
+        "name": "Purpose (Deluxe)",
+        "url": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
       },
       "artists": [
         {
-          "name": "Charlie Cunningham",
-          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
         }
       ],
-      "duration_ms": 178826,
-      "name": "You Sigh",
-      "url": "https://open.spotify.com/track/2Gsare6GuBE2Ph3zJanNKl"
+      "duration_ms": 203800,
+      "name": "What Do You Mean? - Acoustic",
+      "url": "https://open.spotify.com/track/5YNf9s8WE3iF33YaFNrgpa"
     },
     {
       "added_at": "2022-07-22 04:00:00",
@@ -1727,6 +1711,22 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
+        "name": "Lines",
+        "url": "https://open.spotify.com/album/1UkOPjlvgtqoeeIETfK2fs"
+      },
+      "artists": [
+        {
+          "name": "Charlie Cunningham",
+          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
+        }
+      ],
+      "duration_ms": 178826,
+      "name": "You Sigh",
+      "url": "https://open.spotify.com/track/2Gsare6GuBE2Ph3zJanNKl"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
         "name": "I Will Spend My Whole Life Loving You",
         "url": "https://open.spotify.com/album/3g1yz9GQMMswHeQrHQCm21"
       },
@@ -1743,6 +1743,22 @@
       "duration_ms": 227619,
       "name": "I Will Spend My Whole Life Loving You",
       "url": "https://open.spotify.com/track/77enz5hl8RicxrbPB56VXQ"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
+        "name": "Hozier",
+        "url": "https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 240146,
+      "name": "Cherry Wine - Live",
+      "url": "https://open.spotify.com/track/0bZ52QzCCKfrfOqs7za6lI"
     },
     {
       "added_at": "2022-07-22 04:00:00",
@@ -1775,22 +1791,6 @@
       "duration_ms": 297120,
       "name": "All My Days",
       "url": "https://open.spotify.com/track/3RPerpXuNznZbCuWYEBz5i"
-    },
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
-        "name": "Hozier",
-        "url": "https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 240146,
-      "name": "Cherry Wine - Live",
-      "url": "https://open.spotify.com/track/0bZ52QzCCKfrfOqs7za6lI"
     },
     {
       "added_at": "2022-07-22 04:00:00",

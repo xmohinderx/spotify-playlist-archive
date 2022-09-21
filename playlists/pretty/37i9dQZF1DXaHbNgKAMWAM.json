@@ -1,12 +1,12 @@
 {
   "description": "\uc5f0\uc778\uc5d0\uac8c \uc804\ud558\ub294 \ub178\ub7ab\ub9d0\uacfc \ub2ec\ub2ec\ud55c \uc2dc\uac04\uc744 \ud568\uaed8\ud558\uc138\uc694.",
-  "num_followers": 6964,
+  "num_followers": 6981,
   "original_name": "\uc0ac\ub791\ud558\ub294 \ub108\uc5d0\uac8c.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjM5MzA3MSwwMDAwMDAwMGU3OGQ3NTQ3MzdlNTBmMTQ1MjhkZjhmYTdjZmJjYjhh",
+  "snapshot_id": "MTY2MjM5MzA3MSwwMDAwMDAwMDgzMWZmMGY0MjNlMDkwMWNjM2VlMTJlOWE2NmUxYjhm",
   "tracks": [
     {
       "added_at": "2022-09-05 15:51:11",
@@ -351,22 +351,6 @@
     {
       "added_at": "2022-09-05 15:51:11",
       "album": {
-        "name": "Our Blues, Pt. 8 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/7HGYMEqDL4pBarAVmpQDho"
-      },
-      "artists": [
-        {
-          "name": "STAYC",
-          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
-        }
-      ],
-      "duration_ms": 257471,
-      "name": "STAR",
-      "url": "https://open.spotify.com/track/0DZ2mMWPkgDwWBnH6gtsQW"
-    },
-    {
-      "added_at": "2022-09-05 15:51:11",
-      "album": {
         "name": "Purpose - The 2nd Album",
         "url": "https://open.spotify.com/album/0h6wCpdgpSOAbYDDYJVuwr"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 239499,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/1fzLM4SRonzoHm723a2mP5"
+    },
+    {
+      "added_at": "2022-09-05 15:51:11",
+      "album": {
+        "name": "Our Blues, Pt. 8 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/7HGYMEqDL4pBarAVmpQDho"
+      },
+      "artists": [
+        {
+          "name": "STAYC",
+          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+        }
+      ],
+      "duration_ms": 257471,
+      "name": "STAR",
+      "url": "https://open.spotify.com/track/0DZ2mMWPkgDwWBnH6gtsQW"
     },
     {
       "added_at": "2022-09-05 15:51:11",
@@ -495,6 +495,22 @@
     {
       "added_at": "2022-09-05 15:51:11",
       "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/1kLQss3VwPK4vrS1H2zDAN"
+      },
+      "artists": [
+        {
+          "name": "SHAUN",
+          "url": "https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358"
+        }
+      ],
+      "duration_ms": 184066,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/59fPM7nPg0z5L9LoyoNhbK"
+    },
+    {
+      "added_at": "2022-09-05 15:51:11",
+      "album": {
         "name": "I LUV U (with Mirani)",
         "url": "https://open.spotify.com/album/0qEIU0KfIbHijGpo2GkaG1"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 235197,
       "name": "I LUV U (with Mirani)",
       "url": "https://open.spotify.com/track/2a5u3MX1d7Q8gAw1gYQcGk"
-    },
-    {
-      "added_at": "2022-09-05 15:51:11",
-      "album": {
-        "name": "For You",
-        "url": "https://open.spotify.com/album/1kLQss3VwPK4vrS1H2zDAN"
-      },
-      "artists": [
-        {
-          "name": "SHAUN",
-          "url": "https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358"
-        }
-      ],
-      "duration_ms": 184066,
-      "name": "For You",
-      "url": "https://open.spotify.com/track/59fPM7nPg0z5L9LoyoNhbK"
     },
     {
       "added_at": "2022-09-05 15:51:11",
@@ -619,22 +619,6 @@
     {
       "added_at": "2022-09-05 15:51:11",
       "album": {
-        "name": "Minamdang (Original Television Soundtrack, Pt. 7)",
-        "url": "https://open.spotify.com/album/2GIuXzkq4ta6ymxiFQuLgv"
-      },
-      "artists": [
-        {
-          "name": "SU A",
-          "url": "https://open.spotify.com/artist/72XqIIqjxuftxq8x5l0V9Y"
-        }
-      ],
-      "duration_ms": 186973,
-      "name": "Still with you",
-      "url": "https://open.spotify.com/track/4qL1uZDOmVW5sgXi1IAOic"
-    },
-    {
-      "added_at": "2022-09-05 15:51:11",
-      "album": {
         "name": "The King: Eternal Monarch (Original Television Soundtrack), Pt. 10",
         "url": "https://open.spotify.com/album/02zl7wdcgbI0URRfMbzmF5"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 220933,
       "name": "My Day Is Full Of You",
       "url": "https://open.spotify.com/track/2QWa5RjnIGFwraHDPqlhFh"
+    },
+    {
+      "added_at": "2022-09-05 15:51:11",
+      "album": {
+        "name": "Minamdang (Original Television Soundtrack, Pt. 7)",
+        "url": "https://open.spotify.com/album/2GIuXzkq4ta6ymxiFQuLgv"
+      },
+      "artists": [
+        {
+          "name": "SU A",
+          "url": "https://open.spotify.com/artist/72XqIIqjxuftxq8x5l0V9Y"
+        }
+      ],
+      "duration_ms": 186973,
+      "name": "Still with you",
+      "url": "https://open.spotify.com/track/4qL1uZDOmVW5sgXi1IAOic"
     },
     {
       "added_at": "2022-09-05 15:51:11",
@@ -879,6 +879,22 @@
     {
       "added_at": "2022-09-05 15:51:11",
       "album": {
+        "name": "A-TEEN2 Part.1",
+        "url": "https://open.spotify.com/album/2quxDpdeABmtoUbYIHgnNa"
+      },
+      "artists": [
+        {
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Lean On Me",
+      "url": "https://open.spotify.com/track/43IxBx4zsgELpVdMIAkkF0"
+    },
+    {
+      "added_at": "2022-09-05 15:51:11",
+      "album": {
         "name": "Dearest (feat. Sllo)",
         "url": "https://open.spotify.com/album/3WgCQ87OvZIlunqvrMVRRZ"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 167786,
       "name": "Dearest (feat. Sllo)",
       "url": "https://open.spotify.com/track/4gXUBLN9qdv7SSwvB0dg1u"
-    },
-    {
-      "added_at": "2022-09-05 15:51:11",
-      "album": {
-        "name": "A-TEEN2 Part.1",
-        "url": "https://open.spotify.com/album/2quxDpdeABmtoUbYIHgnNa"
-      },
-      "artists": [
-        {
-          "name": "Yerin Baek",
-          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Lean On Me",
-      "url": "https://open.spotify.com/track/43IxBx4zsgELpVdMIAkkF0"
     },
     {
       "added_at": "2022-09-05 15:51:11",
@@ -947,22 +947,6 @@
     {
       "added_at": "2022-09-05 15:51:11",
       "album": {
-        "name": "A Korean Odyssey (Original Television Soundtrack), Pt. 3",
-        "url": "https://open.spotify.com/album/6AB63xLs034lp5hjjB3MJP"
-      },
-      "artists": [
-        {
-          "name": "MeloMance",
-          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
-        }
-      ],
-      "duration_ms": 244764,
-      "name": "I Will Be By Your Side",
-      "url": "https://open.spotify.com/track/7gWKxBSrDUfs4dWaneLVKm"
-    },
-    {
-      "added_at": "2022-09-05 15:51:11",
-      "album": {
         "name": "gr8",
         "url": "https://open.spotify.com/album/4XrJYiy91zJZnYNMYPCUnU"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 158468,
       "name": "gr8",
       "url": "https://open.spotify.com/track/0BsQtnv3ch7w64B52ik72W"
+    },
+    {
+      "added_at": "2022-09-05 15:51:11",
+      "album": {
+        "name": "A Korean Odyssey (Original Television Soundtrack), Pt. 3",
+        "url": "https://open.spotify.com/album/6AB63xLs034lp5hjjB3MJP"
+      },
+      "artists": [
+        {
+          "name": "MeloMance",
+          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
+        }
+      ],
+      "duration_ms": 244764,
+      "name": "I Will Be By Your Side",
+      "url": "https://open.spotify.com/track/7gWKxBSrDUfs4dWaneLVKm"
     },
     {
       "added_at": "2022-09-05 15:51:11",

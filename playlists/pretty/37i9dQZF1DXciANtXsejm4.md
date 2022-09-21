@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciANtXsejm4.md) - [plain]
 
 > El ritmo cumbiero que te mueve el corazón\. <br/>Foto: Leo Mattioli.
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,586 likes - 80 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,712 likes - 80 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciANtXsejm4.md) - [plain]
 | 29 | [Cómo Pude Amarla](https://open.spotify.com/track/0Le0iRaJHumW9uSHpbDJrW) | [Mario Luis](https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx) | [Solo \(Amistad..\. o Nada!!!\)](https://open.spotify.com/album/5tkOEPqwtHCsxfm6VnD7gv) | 3:25 |
 | 30 | [Soy Sabalero](https://open.spotify.com/track/6MIulZ9FG6Td02EpvFC5ZL) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Soy Sabalero](https://open.spotify.com/album/4E9U7vlfoRlUIi57xcO53W) | 2:59 |
 | 31 | [Quitame Ese Hombre](https://open.spotify.com/track/4VmrRnnsNxAQysmVMePzxt) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Éxitos de Oro](https://open.spotify.com/album/0qZMzAHtoxM6aBQlhjCIJ6) | 3:31 |
-| 32 | [Ahora Lloras](https://open.spotify.com/track/7wYlYp0oTUseK5yxRS56Np) | [Sergio Torres](https://open.spotify.com/artist/42duZ4KIXcWBEobTPLzHzg) | [Marca Registrada](https://open.spotify.com/album/2fUaaq8T22CMfqzH2Jz4Tz) | 4:22 |
+| 32 | [Nada](https://open.spotify.com/track/6E4QxXiJaNE6zAE0HbJXct) | [Mario Pereyra y Su Banda](https://open.spotify.com/artist/6xihzJv7xtLyRc420HlM0y) | [Nada](https://open.spotify.com/album/2BfL5Eidwew1KpoJzq1eLA) | 3:06 |
 | 33 | [Tan Solo Amantes](https://open.spotify.com/track/0oONA6yBr4XfW8iloofFSg) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [Creciendo](https://open.spotify.com/album/54PCI2vrd9zYtH2GhP3W8v) | 3:55 |
-| 34 | [Nada](https://open.spotify.com/track/6E4QxXiJaNE6zAE0HbJXct) | [Mario Pereyra y Su Banda](https://open.spotify.com/artist/6xihzJv7xtLyRc420HlM0y) | [Nada](https://open.spotify.com/album/2BfL5Eidwew1KpoJzq1eLA) | 3:06 |
+| 34 | [Ahora Lloras](https://open.spotify.com/track/7wYlYp0oTUseK5yxRS56Np) | [Sergio Torres](https://open.spotify.com/artist/42duZ4KIXcWBEobTPLzHzg) | [Marca Registrada](https://open.spotify.com/album/2fUaaq8T22CMfqzH2Jz4Tz) | 4:22 |
 | 35 | [Humíllate](https://open.spotify.com/track/3waF7QuxEZFzflQR7ax0Xc) | [Kaniche](https://open.spotify.com/artist/7vnM4YuUSEpsH03GI0FCRk) | [Mi Única Alegría](https://open.spotify.com/album/5HrwyfJMLulEGxgV5rIMkT) | 2:42 |
 | 36 | [A Decirme Qué](https://open.spotify.com/track/0usHK6nqUWU1PLkKi1Gy7c) | [Los Lirios De Santa Fe](https://open.spotify.com/artist/75ykMrcaF4136KUIbcxBP7), [Mario Luis](https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx) | [25 Años](https://open.spotify.com/album/3gjGW42amvKTLvJLl4wPua) | 4:02 |
 | 37 | [Si Me Ves Llorar por Ti](https://open.spotify.com/track/0XFn0YkjPrKMSLLU4jsLAS) | [Los Del Maranaho](https://open.spotify.com/artist/4pPaTS0Is7K9pHjgp5Pdgs) | [Después de Tí, Que](https://open.spotify.com/album/3Mz010MHaDI7vdl546QozX) | 3:55 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciANtXsejm4.md) - [plain]
 | 65 | [Te Llevas Mi Vida](https://open.spotify.com/track/2uOUobz0fNo2rs2relzB4N) | [Mario Luis](https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx) | [Te Llevas Mi Vida](https://open.spotify.com/album/1sXfRjfRtUWwwBwugKsxzR) | 3:52 |
 | 66 | [Dígale](https://open.spotify.com/track/08c3uA4n8HcMMj8zgTqAZK) | [Chanchi y Los Autenticos](https://open.spotify.com/artist/137pHEZ9U76r4ouXTa6Bjc) | [Como un Caramelo](https://open.spotify.com/album/5AWeZMvbhQFe3c6XJ8DxA6) | 4:52 |
 | 67 | [Te Soñé una Vez](https://open.spotify.com/track/1blhnIXhg3Bpt2qzVVxPRD) | [Simplemente Naguel](https://open.spotify.com/artist/4fARNbsdisPYTZtwYzAayh) | [Simplemente Nagüel](https://open.spotify.com/album/2MES3DwHFmsblVObLyLlRh) | 3:01 |
-| 68 | [La Segunda del Hombre del Acordeón](https://open.spotify.com/track/6GiqyOWzkol9gZsSIqLLxF) | [Los Lirios De Santa Fe](https://open.spotify.com/artist/75ykMrcaF4136KUIbcxBP7), [Grupo Cali](https://open.spotify.com/artist/4R5IzlNSizG1oT8Gs4HH6k), [Gerardo Gross](https://open.spotify.com/artist/0xpHGyu4fPxDalDVfjb1Ni), [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG), [Cuarteto Imperial](https://open.spotify.com/artist/4oBHTIwTL6w4QsqBDK0F87), [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX) | [La Segunda del Hombre del Acordeón](https://open.spotify.com/album/5Gxv471mSx2PNVklNpicaU) | 4:20 |
-| 69 | [Enganchados 2 \(Contigo me gusta / No me acostumbro\)](https://open.spotify.com/track/5YOF7OshUzsTYSayUZoHG4) | [Leo Mattioli y Trinidad](https://open.spotify.com/artist/1Kdqfub5UFyQM8DP9ie1gH) | [Juntando Las Almas](https://open.spotify.com/album/5sbfEnlkljlsbgW04Dr9To) | 3:20 |
+| 68 | [Enganchados 2 \(Contigo me gusta / No me acostumbro\)](https://open.spotify.com/track/5YOF7OshUzsTYSayUZoHG4) | [Leo Mattioli y Trinidad](https://open.spotify.com/artist/1Kdqfub5UFyQM8DP9ie1gH) | [Juntando Las Almas](https://open.spotify.com/album/5sbfEnlkljlsbgW04Dr9To) | 3:20 |
+| 69 | [La Segunda del Hombre del Acordeón](https://open.spotify.com/track/6GiqyOWzkol9gZsSIqLLxF) | [Los Lirios De Santa Fe](https://open.spotify.com/artist/75ykMrcaF4136KUIbcxBP7), [Grupo Cali](https://open.spotify.com/artist/4R5IzlNSizG1oT8Gs4HH6k), [Gerardo Gross](https://open.spotify.com/artist/0xpHGyu4fPxDalDVfjb1Ni), [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG), [Cuarteto Imperial](https://open.spotify.com/artist/4oBHTIwTL6w4QsqBDK0F87), [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX) | [La Segunda del Hombre del Acordeón](https://open.spotify.com/album/5Gxv471mSx2PNVklNpicaU) | 4:20 |
 | 70 | [Esta Noche Quiero Brandy](https://open.spotify.com/track/2cZS89lJVnN2DQKL4mYQbK) | [La San Francisco](https://open.spotify.com/artist/5PjBUzYkEvqbzBw5HtEAEr) | [Respetando un Estilo](https://open.spotify.com/album/6FvvpSp5IUdBVzIQ9su2dC) | 4:01 |
 | 71 | [Qué Se Siente](https://open.spotify.com/track/0sL2C1WvJnmrvE9F3hTZaw) | [Los Del Maranaho](https://open.spotify.com/artist/4pPaTS0Is7K9pHjgp5Pdgs) | [Una Eterna Pasión](https://open.spotify.com/album/6rYOGgU9UPgjVhmpbBFVfn) | 3:59 |
 | 72 | [Entre el Odio y el Amor](https://open.spotify.com/track/5qfwWBHMPJVyVuS7BcyKkX) | [La Groupera](https://open.spotify.com/artist/0vOORe7cIa49Egvl6QUVt7) | [Rico y Suave](https://open.spotify.com/album/2fhIHdHYooK2MPRt6ehxsP) | 3:38 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciANtXsejm4.md) - [plain]
 | 79 | [Cosas del amor](https://open.spotify.com/track/4Gd1XTVJtxzGdrr87WY2h8) | [Mario Luis con los Angeles Colombianos](https://open.spotify.com/artist/7tB6buXGRGgBaZftFGMCMy) | [20 años de cumbia \- Los mejores exitos de 1990 \- 2010](https://open.spotify.com/album/6x0GbSgMkwKW1rP4x5YWbU) | 3:40 |
 | 80 | [Tuyo Siempre Tuyo](https://open.spotify.com/track/6XDbqQ8Agqi3ny4te6xgBz) | [Los Nobles](https://open.spotify.com/artist/1WfpH53VReC5lgeuKaT91T) | [Lo Mejor De Los Mejores](https://open.spotify.com/album/6DOloKLBD2ScpYBRVxRYmP) | 2:43 |
 
-Snapshot ID: `MTY2MjczMDAzMCwwMDAwMDAwMGMxMWVjMjMyM2Y2YWM5OGUzZmEwZjc2MzY3NWFhYmJm`
+Snapshot ID: `MTY2MjczMDAzMCwwMDAwMDAwMDg0NzBiN2E4NDRjNmI1ODhjMzRjMDlkMzhhZDVkZmQy`

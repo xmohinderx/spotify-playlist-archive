@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTsQCBPjpyc.md) - [plain]
 
 > Blues meets funk\. Cover: Eric Gales
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,166 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,214 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTsQCBPjpyc.md) - [plain]
 | 23 | [Cold Cuts](https://open.spotify.com/track/1kqd9zoyn4sBPzmI9f8BP8) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Deluxe Edition](https://open.spotify.com/album/3MSyCHOkBoZQT2byE3vprN) | 6:00 |
 | 24 | [When A Woman's Had Enough](https://open.spotify.com/track/6BouDfZTJhdO9E0RnwyvV0) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Talking To Strangers](https://open.spotify.com/album/1BRAG9BQ8m0r61bGfQElaK) | 3:54 |
 | 25 | [What Are You Doin' to Me](https://open.spotify.com/track/4QfqueHQZPCKo0ndzDD7bz) | [Michael Burks](https://open.spotify.com/artist/19YeucN49a9jRiTyseG6a6) | [I'm a Bluesman](https://open.spotify.com/album/3w37tUJZ2IFUANBIxRMiuv) | 3:58 |
-| 26 | [Come To Mama](https://open.spotify.com/track/3j3pLudjSCN0kaXH0YCps8) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [Deluxe Edition](https://open.spotify.com/album/0Jvj3KAEiuS4bAFiPmiNFH) | 4:48 |
-| 27 | [Witch Doctor](https://open.spotify.com/track/38T1WjiuU3ZZwHOCBHpfZ2) | [Samuel Ashton](https://open.spotify.com/artist/5en6zJOqyjNe9djR5UVcpz) | [Witch Doctor](https://open.spotify.com/album/0VwqogF4FSDwJf0hLSIpwJ) | 3:19 |
+| 26 | [Witch Doctor](https://open.spotify.com/track/38T1WjiuU3ZZwHOCBHpfZ2) | [Samuel Ashton](https://open.spotify.com/artist/5en6zJOqyjNe9djR5UVcpz) | [Witch Doctor](https://open.spotify.com/album/0VwqogF4FSDwJf0hLSIpwJ) | 3:19 |
+| 27 | [Come To Mama](https://open.spotify.com/track/3j3pLudjSCN0kaXH0YCps8) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [Deluxe Edition](https://open.spotify.com/album/0Jvj3KAEiuS4bAFiPmiNFH) | 4:48 |
 | 28 | [Watch Me Move](https://open.spotify.com/track/4UPOf0qg0qY2tw6cMSF04r) | [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK) | [On Tap](https://open.spotify.com/album/5SBCzYVKKttcMOu5m2FN7C) | 4:05 |
 | 29 | [Crosscut Saw](https://open.spotify.com/track/3YHEwYxevWWe4Agis11Gnf) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o) | [I Wanna Get Funky](https://open.spotify.com/album/6046X2I4SRTkO4BY14PGG6) | 7:44 |
 | 30 | [I Always Get My Man](https://open.spotify.com/track/4xgmjrBK2hgfwZJm44BlK3) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Turn The Heat Up!](https://open.spotify.com/album/3OluM5Un09XiWdyrjwtAOX) | 3:49 |
@@ -44,10 +44,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTsQCBPjpyc.md) - [plain]
 | 34 | [Do It](https://open.spotify.com/track/5Pj5FDwnQkGzd3iDYxeaLW) | [Robert Cray](https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj) | [That's What I Heard](https://open.spotify.com/album/5MHALMDVXq4S7Ad6pNVl8I) | 3:25 |
 | 35 | [The Moon Is Full](https://open.spotify.com/track/7pk8ZJ45YhxPtaAiglHniu) | [The Jeff Healey Band](https://open.spotify.com/artist/3d2hJTVTwo08F9b0ZFQukJ) | [Cover To Cover](https://open.spotify.com/album/6brfMrKnGoGFF1AtB7TTS5) | 4:06 |
 | 36 | [Stop On By](https://open.spotify.com/track/3nqj5Fx7sbZBkTIuCoRjGN) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [All The Way](https://open.spotify.com/album/7EVdCFnjNzPlPBWI89YtGs) | 4:07 |
-| 37 | [Greasy Man](https://open.spotify.com/track/2Izextri7Ho1xu0mvVZcpI) | [Lonnie Brooks](https://open.spotify.com/artist/56tyBq8Ta1BdSTBs0gGhog) | [Let's Talk It Over](https://open.spotify.com/album/2rwVXn5G7TueG7w3wyQXZ8) | 5:56 |
-| 38 | [Meet Me in Chicago](https://open.spotify.com/track/35sEYu9d2rT5BPLiOiMYob) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Rhythm & Blues](https://open.spotify.com/album/5IyOwYWSw2m1mwD4OEpFeM) | 3:45 |
-| 39 | [Put The Shoe On The Other Foot](https://open.spotify.com/track/19maOy2xgQP0FxuWqsey2n) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Iceman](https://open.spotify.com/album/5TwWjSByMhcsb7tYFkQ1el) | 5:32 |
-| 40 | [Take Me Just As I Am](https://open.spotify.com/track/2BR8UJjWRQBAuvBFUqInok) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV), [LaDonna Gales](https://open.spotify.com/artist/5qolIJGqHqYn1a1igndmgV) | [Crown](https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i) | 3:03 |
+| 37 | [Meet Me in Chicago](https://open.spotify.com/track/35sEYu9d2rT5BPLiOiMYob) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Rhythm & Blues](https://open.spotify.com/album/5IyOwYWSw2m1mwD4OEpFeM) | 3:45 |
+| 38 | [Greasy Man](https://open.spotify.com/track/2Izextri7Ho1xu0mvVZcpI) | [Lonnie Brooks](https://open.spotify.com/artist/56tyBq8Ta1BdSTBs0gGhog) | [Let's Talk It Over](https://open.spotify.com/album/2rwVXn5G7TueG7w3wyQXZ8) | 5:56 |
+| 39 | [Take Me Just As I Am](https://open.spotify.com/track/2BR8UJjWRQBAuvBFUqInok) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV), [LaDonna Gales](https://open.spotify.com/artist/5qolIJGqHqYn1a1igndmgV) | [Crown](https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i) | 3:03 |
+| 40 | [Put The Shoe On The Other Foot](https://open.spotify.com/track/19maOy2xgQP0FxuWqsey2n) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Iceman](https://open.spotify.com/album/5TwWjSByMhcsb7tYFkQ1el) | 5:32 |
 | 41 | [Bad Axe](https://open.spotify.com/track/1HZ2vpt77v6yycE41O1jV6) | [Son Seals](https://open.spotify.com/artist/0phMS1UDPTZlxuEnarDUKt) | [Deluxe Edition](https://open.spotify.com/album/3koZiy03TZtXMIdhIX3OfL) | 3:13 |
 | 42 | [Give It Back](https://open.spotify.com/track/2gvv5ad4yRlJd9UqRgHGn8) | [Hamilton Loomis](https://open.spotify.com/artist/4LSgIUOMJoKu4Egt0F6JML), [Victor Wooten](https://open.spotify.com/artist/2STVYmc2T02GlvvWZl7umj) | [Give It Back](https://open.spotify.com/album/4jUaphuhb3mO9p6wJG5MML) | 4:39 |
 | 43 | [Night Train](https://open.spotify.com/track/3qdcSUX3d8iG6K3zyyR5ny) | [Bernard Allison](https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI) | [Let It Go](https://open.spotify.com/album/6iMMxMoKbZbW2jcE8J3udJ) | 3:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTsQCBPjpyc.md) - [plain]
 | 49 | [I Smell Smoke](https://open.spotify.com/track/4ihshArvoPJsADnFAg889U) | [Michael Burks](https://open.spotify.com/artist/19YeucN49a9jRiTyseG6a6) | [The Alligator Records Years](https://open.spotify.com/album/6nOsfFBRnpQovp3zndKuzl) | 3:51 |
 | 50 | [Hard Times](https://open.spotify.com/track/6fCbc4NrOEU96KtdPTupuS) | [The Hoodoo Kings](https://open.spotify.com/artist/3mFAzD0HSWZP9WE59ftBQR) | [The Hoodoo Kings](https://open.spotify.com/album/03LrKTthrYgqSr7jC6VpFz) | 4:26 |
 
-Snapshot ID: `MTY2MDg4MTcyMCwwMDAwMDAwMDU3M2VhNmRjY2NmNTRmYTljMjQxOTE5YThlZDg2ZmU0`
+Snapshot ID: `MTY2MDg4MTcyMCwwMDAwMDAwMDA1Y2Q5NzI5ZGIzMWUzNTAxOWM4NWVhZjYwZGYyYWVj`

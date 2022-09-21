@@ -1,12 +1,12 @@
 {
   "description": "Grandes sucessos e novidades do rock Crist\u00e3o. Foto: Theo Rubia, Felipe Vilela",
-  "num_followers": 107149,
+  "num_followers": 107173,
   "original_name": "Templo do Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjE0MjQ4NywwMDAwMDAwMDNjMDEzOTYyNWRjOGNhZmU3NjNhNTAyODgyODU4NDJm",
+  "snapshot_id": "MTY2MjE0MjQ4NywwMDAwMDAwMDZkNmVhYjFiYzg4ZjIxZDEyOGViNTE2NTJmNzI3N2Ix",
   "tracks": [
     {
       "added_at": "2022-09-02 03:00:00",
@@ -95,6 +95,26 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
+        "name": "Assume a Responsa",
+        "url": "https://open.spotify.com/album/2Z8TDPzD9x6rDB1VSRtFm8"
+      },
+      "artists": [
+        {
+          "name": "Julliany Souza",
+          "url": "https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq"
+        },
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "duration_ms": 259862,
+      "name": "Assume a Responsa",
+      "url": "https://open.spotify.com/track/1QsGZr3d0O0vqJhJr1QZQg"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
         "name": "De Malas Prontas",
         "url": "https://open.spotify.com/album/0FYt1B473sCYjKI7cm1Dng"
       },
@@ -127,26 +147,6 @@
       "duration_ms": 252348,
       "name": "Daniel (feat. Fernandinho)",
       "url": "https://open.spotify.com/track/5KyiPrg9MOVz8fd6MGvKa2"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
-        "name": "Assume a Responsa",
-        "url": "https://open.spotify.com/album/2Z8TDPzD9x6rDB1VSRtFm8"
-      },
-      "artists": [
-        {
-          "name": "Julliany Souza",
-          "url": "https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq"
-        },
-        {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        }
-      ],
-      "duration_ms": 259862,
-      "name": "Assume a Responsa",
-      "url": "https://open.spotify.com/track/1QsGZr3d0O0vqJhJr1QZQg"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -315,18 +315,18 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
-        "name": "Baile das M\u00e1scaras",
-        "url": "https://open.spotify.com/album/2DXK8ESfAJ14eUn2NZ3l3t"
+        "name": "Meu Acampamento",
+        "url": "https://open.spotify.com/album/7nFGxAkZ9iz7h5cho5xIqm"
       },
       "artists": [
         {
-          "name": "Rosa de Saron",
-          "url": "https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX"
+          "name": "Thiago Brado",
+          "url": "https://open.spotify.com/artist/7nhFPRuBTebusd2cBMAaEK"
         }
       ],
-      "duration_ms": 215754,
-      "name": "Baile das M\u00e1scaras",
-      "url": "https://open.spotify.com/track/5IGQBVvlJrovuvK6LxuwO0"
+      "duration_ms": 356831,
+      "name": "Meu Mundo",
+      "url": "https://open.spotify.com/track/712wkFgYgi6i6xJfFtBoNL"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -347,6 +347,22 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
+        "name": "Baile das M\u00e1scaras",
+        "url": "https://open.spotify.com/album/2DXK8ESfAJ14eUn2NZ3l3t"
+      },
+      "artists": [
+        {
+          "name": "Rosa de Saron",
+          "url": "https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX"
+        }
+      ],
+      "duration_ms": 215754,
+      "name": "Baile das M\u00e1scaras",
+      "url": "https://open.spotify.com/track/5IGQBVvlJrovuvK6LxuwO0"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
         "name": "Mauro",
         "url": "https://open.spotify.com/album/7hEouc61wJMBhedf31Tonz"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 250475,
       "name": "Escolho Ser Fiel",
       "url": "https://open.spotify.com/track/5z9gHODKZUYCsA5cxj14my"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
-        "name": "Meu Acampamento",
-        "url": "https://open.spotify.com/album/7nFGxAkZ9iz7h5cho5xIqm"
-      },
-      "artists": [
-        {
-          "name": "Thiago Brado",
-          "url": "https://open.spotify.com/artist/7nhFPRuBTebusd2cBMAaEK"
-        }
-      ],
-      "duration_ms": 356831,
-      "name": "Meu Mundo",
-      "url": "https://open.spotify.com/track/712wkFgYgi6i6xJfFtBoNL"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -467,26 +467,6 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
-        "name": "A F\u00eanix",
-        "url": "https://open.spotify.com/album/5TTQATslcS8RatQMnppMh6"
-      },
-      "artists": [
-        {
-          "name": "Rosa de Saron",
-          "url": "https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX"
-        },
-        {
-          "name": "Mauro Henrique",
-          "url": "https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd"
-        }
-      ],
-      "duration_ms": 240302,
-      "name": "A F\u00eanix",
-      "url": "https://open.spotify.com/track/036y2ECw1GN9hzwYtUzcjh"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
         "name": "Yeshua",
         "url": "https://open.spotify.com/album/2ubpSKz1ULV8ECWpKcBj20"
       },
@@ -531,6 +511,26 @@
       "duration_ms": 403932,
       "name": "Descanso",
       "url": "https://open.spotify.com/track/3QedBFF9E1St6Hkb2zWauL"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
+        "name": "A F\u00eanix",
+        "url": "https://open.spotify.com/album/5TTQATslcS8RatQMnppMh6"
+      },
+      "artists": [
+        {
+          "name": "Rosa de Saron",
+          "url": "https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX"
+        },
+        {
+          "name": "Mauro Henrique",
+          "url": "https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd"
+        }
+      ],
+      "duration_ms": 240302,
+      "name": "A F\u00eanix",
+      "url": "https://open.spotify.com/track/036y2ECw1GN9hzwYtUzcjh"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -631,6 +631,22 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
+        "name": "Mauro Henrique: Live Session {Lado B}",
+        "url": "https://open.spotify.com/album/2Y8CQnkB62SbJenuBxurcu"
+      },
+      "artists": [
+        {
+          "name": "Mauro Henrique",
+          "url": "https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd"
+        }
+      ],
+      "duration_ms": 402000,
+      "name": "Canta Minha'alma (Behold) - Live Session",
+      "url": "https://open.spotify.com/track/6xFNwNFUyHRMb74AB9kPDj"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
         "name": "Mente Brilhante",
         "url": "https://open.spotify.com/album/5c35wXVbHDGXhnY84WFmSy"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 307533,
       "name": "Mente Brilhante",
       "url": "https://open.spotify.com/track/7GJdlUbMQHcAS9ztW6YFZ7"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
-        "name": "Mauro Henrique: Live Session {Lado B}",
-        "url": "https://open.spotify.com/album/2Y8CQnkB62SbJenuBxurcu"
-      },
-      "artists": [
-        {
-          "name": "Mauro Henrique",
-          "url": "https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd"
-        }
-      ],
-      "duration_ms": 402000,
-      "name": "Canta Minha'alma (Behold) - Live Session",
-      "url": "https://open.spotify.com/track/6xFNwNFUyHRMb74AB9kPDj"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -787,26 +787,6 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
-        "name": "No Jardim Parte 1/3 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1iSiezemfGT9mCzLzATNVX"
-      },
-      "artists": [
-        {
-          "name": "Palankin",
-          "url": "https://open.spotify.com/artist/796gkD2e78sHPMakFcnqUJ"
-        },
-        {
-          "name": "Ana Rock",
-          "url": "https://open.spotify.com/artist/7hh91Pi4y3ey6t0m8I0P5U"
-        }
-      ],
-      "duration_ms": 313397,
-      "name": "Novo G\u00eanesis - Ao Vivo",
-      "url": "https://open.spotify.com/track/1iWwHkE9rUvbDbiascv1LF"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
         "name": "Peregrino",
         "url": "https://open.spotify.com/album/4dR7tsqUtupAePL6ySYmJG"
       },
@@ -835,6 +815,26 @@
       "duration_ms": 244457,
       "name": "N\u00e1ufrago",
       "url": "https://open.spotify.com/track/4S59qX21KI984gd80DhHCx"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
+        "name": "No Jardim Parte 1/3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1iSiezemfGT9mCzLzATNVX"
+      },
+      "artists": [
+        {
+          "name": "Palankin",
+          "url": "https://open.spotify.com/artist/796gkD2e78sHPMakFcnqUJ"
+        },
+        {
+          "name": "Ana Rock",
+          "url": "https://open.spotify.com/artist/7hh91Pi4y3ey6t0m8I0P5U"
+        }
+      ],
+      "duration_ms": 313397,
+      "name": "Novo G\u00eanesis - Ao Vivo",
+      "url": "https://open.spotify.com/track/1iWwHkE9rUvbDbiascv1LF"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -875,22 +875,6 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
-        "name": "O Mundo ao Seu Redor",
-        "url": "https://open.spotify.com/album/3Dxe0faYOB7cLrnxnyHq1K"
-      },
-      "artists": [
-        {
-          "name": "O Maior Clich\u00ea do Mundo",
-          "url": "https://open.spotify.com/artist/4fvOeE1bNOgK9e10xKwg4w"
-        }
-      ],
-      "duration_ms": 188253,
-      "name": "O Mundo ao Seu Redor",
-      "url": "https://open.spotify.com/track/4NKYXoK9cY8l37UGyrws1a"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
         "name": "Caminho Sem Volta",
         "url": "https://open.spotify.com/album/7mzXUBD7si5aoKWckv7gJR"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 215064,
       "name": "Caminho Sem Volta",
       "url": "https://open.spotify.com/track/0KyqZzXWJSInwvSlCkFvUh"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
+        "name": "O Mundo ao Seu Redor",
+        "url": "https://open.spotify.com/album/3Dxe0faYOB7cLrnxnyHq1K"
+      },
+      "artists": [
+        {
+          "name": "O Maior Clich\u00ea do Mundo",
+          "url": "https://open.spotify.com/artist/4fvOeE1bNOgK9e10xKwg4w"
+        }
+      ],
+      "duration_ms": 188253,
+      "name": "O Mundo ao Seu Redor",
+      "url": "https://open.spotify.com/track/4NKYXoK9cY8l37UGyrws1a"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
+        "name": "Agora Eu Vivo Teu Amor",
+        "url": "https://open.spotify.com/album/32ZRNqlaLU1i87f73nuEvO"
+      },
+      "artists": [
+        {
+          "name": "Stone Worship",
+          "url": "https://open.spotify.com/artist/5os8iRRBrrRuvfN85jnuIf"
+        }
+      ],
+      "duration_ms": 190519,
+      "name": "Agora Eu Vivo Teu Amor",
+      "url": "https://open.spotify.com/track/7xZmvwdTsv3Yn8iCTsaVl0"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
         "name": "Sua Gl\u00f3ria",
         "url": "https://open.spotify.com/album/6K1HD84eh9d8xLSEjOzyAU"
       },
@@ -1063,22 +1079,6 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
-        "name": "Agora Eu Vivo Teu Amor",
-        "url": "https://open.spotify.com/album/32ZRNqlaLU1i87f73nuEvO"
-      },
-      "artists": [
-        {
-          "name": "Stone Worship",
-          "url": "https://open.spotify.com/artist/5os8iRRBrrRuvfN85jnuIf"
-        }
-      ],
-      "duration_ms": 190519,
-      "name": "Agora Eu Vivo Teu Amor",
-      "url": "https://open.spotify.com/track/7xZmvwdTsv3Yn8iCTsaVl0"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
         "name": "Profundo",
         "url": "https://open.spotify.com/album/1m0GeZjCt95u0WiONSKcDc"
       },
@@ -1107,26 +1107,6 @@
       "duration_ms": 265815,
       "name": "N\u00e3o H\u00e1 Varia\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/0yAV4dcvF10aCATM4fRvuQ"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
-        "name": "Trindade",
-        "url": "https://open.spotify.com/album/7KRAib9LMy9keCV4YHT3aK"
-      },
-      "artists": [
-        {
-          "name": "Luzlive",
-          "url": "https://open.spotify.com/artist/40kzfUaDe3Pq6r0evczeaa"
-        },
-        {
-          "name": "Arthur Lemos",
-          "url": "https://open.spotify.com/artist/5pOq7exRqZuoSibuUQa4dz"
-        }
-      ],
-      "duration_ms": 769852,
-      "name": "Trindade",
-      "url": "https://open.spotify.com/track/3rtLD5pPNKASw1t4MRnIW3"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -1175,6 +1155,26 @@
       "duration_ms": 216427,
       "name": "Tudo Muda Com Voc\u00ea",
       "url": "https://open.spotify.com/track/63bD9D793ZOOHhFbf0Ot96"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
+        "name": "Trindade",
+        "url": "https://open.spotify.com/album/7KRAib9LMy9keCV4YHT3aK"
+      },
+      "artists": [
+        {
+          "name": "Luzlive",
+          "url": "https://open.spotify.com/artist/40kzfUaDe3Pq6r0evczeaa"
+        },
+        {
+          "name": "Arthur Lemos",
+          "url": "https://open.spotify.com/artist/5pOq7exRqZuoSibuUQa4dz"
+        }
+      ],
+      "duration_ms": 769852,
+      "name": "Trindade",
+      "url": "https://open.spotify.com/track/3rtLD5pPNKASw1t4MRnIW3"
     },
     {
       "added_at": "2022-09-02 03:00:00",

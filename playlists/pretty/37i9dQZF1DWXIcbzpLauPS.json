@@ -1,12 +1,12 @@
 {
   "description": "This is the new Core at its finest. Cover: Motionless In White",
-  "num_followers": 853565,
+  "num_followers": 853556,
   "original_name": "The Core",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMzMzIwMCwwMDAwMDAwMDYxOGRmOTJlYzczN2JhNmQ5MGEzZTA0YzljN2NmNDI4",
+  "snapshot_id": "MTY2MzMzMzIwMCwwMDAwMDAwMDVhZGJmMTY3MmZjY2UzYmQ5MTczZWU2YzAwOGExNWZi",
   "tracks": [
     {
       "added_at": "2022-09-16 13:00:00",
@@ -259,22 +259,6 @@
     {
       "added_at": "2022-09-16 13:00:00",
       "album": {
-        "name": "Empires Fall",
-        "url": "https://open.spotify.com/album/1A8gLXrhRu9GJl0j8D9oJb"
-      },
-      "artists": [
-        {
-          "name": "Our Last Night",
-          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
-        }
-      ],
-      "duration_ms": 183750,
-      "name": "Graveyard",
-      "url": "https://open.spotify.com/track/4lDhUegBfuSYmL2REY3P8y"
-    },
-    {
-      "added_at": "2022-09-16 13:00:00",
-      "album": {
         "name": "Anomaly",
         "url": "https://open.spotify.com/album/3x0fD3AKsVdr63OInlGAXv"
       },
@@ -307,6 +291,22 @@
     {
       "added_at": "2022-09-16 13:00:00",
       "album": {
+        "name": "Empires Fall",
+        "url": "https://open.spotify.com/album/1A8gLXrhRu9GJl0j8D9oJb"
+      },
+      "artists": [
+        {
+          "name": "Our Last Night",
+          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
+        }
+      ],
+      "duration_ms": 183750,
+      "name": "Graveyard",
+      "url": "https://open.spotify.com/track/4lDhUegBfuSYmL2REY3P8y"
+    },
+    {
+      "added_at": "2022-09-16 13:00:00",
+      "album": {
         "name": "Heretic",
         "url": "https://open.spotify.com/album/0lQqsnfP4Hwy8KoIg1H07y"
       },
@@ -327,22 +327,6 @@
     {
       "added_at": "2022-09-16 13:00:00",
       "album": {
-        "name": "Throne",
-        "url": "https://open.spotify.com/album/66snwEHAdTrN5gw7z3mpoA"
-      },
-      "artists": [
-        {
-          "name": "Smash Into Pieces",
-          "url": "https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq"
-        }
-      ],
-      "duration_ms": 207936,
-      "name": "Throne",
-      "url": "https://open.spotify.com/track/1IIHG2cRp9PBYSGLSKAdgD"
-    },
-    {
-      "added_at": "2022-09-16 13:00:00",
-      "album": {
         "name": "Hangfire",
         "url": "https://open.spotify.com/album/2C7Caj4q2ImxfS717oEZYC"
       },
@@ -359,18 +343,18 @@
     {
       "added_at": "2022-09-16 13:00:00",
       "album": {
-        "name": "Mass Produced",
-        "url": "https://open.spotify.com/album/48PMipn3cRGT6Ck9KCbV8w"
+        "name": "Throne",
+        "url": "https://open.spotify.com/album/66snwEHAdTrN5gw7z3mpoA"
       },
       "artists": [
         {
-          "name": "Oceano",
-          "url": "https://open.spotify.com/artist/79A0IUxQD9skV7LVjPq53s"
+          "name": "Smash Into Pieces",
+          "url": "https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq"
         }
       ],
-      "duration_ms": 181680,
-      "name": "Mass Produced",
-      "url": "https://open.spotify.com/track/2gq5XvSm3XrbKmyV4m3wSX"
+      "duration_ms": 207936,
+      "name": "Throne",
+      "url": "https://open.spotify.com/track/1IIHG2cRp9PBYSGLSKAdgD"
     },
     {
       "added_at": "2022-09-16 13:00:00",
@@ -387,6 +371,22 @@
       "duration_ms": 204040,
       "name": "Dead Inside",
       "url": "https://open.spotify.com/track/4hZIolup6cgYhrzzGq46aq"
+    },
+    {
+      "added_at": "2022-09-16 13:00:00",
+      "album": {
+        "name": "Mass Produced",
+        "url": "https://open.spotify.com/album/48PMipn3cRGT6Ck9KCbV8w"
+      },
+      "artists": [
+        {
+          "name": "Oceano",
+          "url": "https://open.spotify.com/artist/79A0IUxQD9skV7LVjPq53s"
+        }
+      ],
+      "duration_ms": 181680,
+      "name": "Mass Produced",
+      "url": "https://open.spotify.com/track/2gq5XvSm3XrbKmyV4m3wSX"
     },
     {
       "added_at": "2022-09-16 13:00:00",
@@ -503,22 +503,6 @@
     {
       "added_at": "2022-09-16 13:00:00",
       "album": {
-        "name": "Lifestyles of the Sick & Dangerous",
-        "url": "https://open.spotify.com/album/2kcAri2GgDTQD7k8k727Mb"
-      },
-      "artists": [
-        {
-          "name": "Blind Channel",
-          "url": "https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs"
-        }
-      ],
-      "duration_ms": 189482,
-      "name": "Alive or Only Burning",
-      "url": "https://open.spotify.com/track/3OFbZftPhoSCFbxyNBzPF3"
-    },
-    {
-      "added_at": "2022-09-16 13:00:00",
-      "album": {
         "name": "Nonnegative",
         "url": "https://open.spotify.com/album/2XA78l6T2geC3hfxcnOs6V"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 233678,
       "name": "From Today",
       "url": "https://open.spotify.com/track/7qLbPd5yhm0Vne45PXPabV"
+    },
+    {
+      "added_at": "2022-09-16 13:00:00",
+      "album": {
+        "name": "Lifestyles of the Sick & Dangerous",
+        "url": "https://open.spotify.com/album/2kcAri2GgDTQD7k8k727Mb"
+      },
+      "artists": [
+        {
+          "name": "Blind Channel",
+          "url": "https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs"
+        }
+      ],
+      "duration_ms": 189482,
+      "name": "Alive or Only Burning",
+      "url": "https://open.spotify.com/track/3OFbZftPhoSCFbxyNBzPF3"
     },
     {
       "added_at": "2022-09-16 13:00:00",
@@ -823,22 +823,6 @@
     {
       "added_at": "2022-09-16 13:00:00",
       "album": {
-        "name": "Forsaken",
-        "url": "https://open.spotify.com/album/1AdoiciuD5DrLLBHHBQrq2"
-      },
-      "artists": [
-        {
-          "name": "Until I Wake",
-          "url": "https://open.spotify.com/artist/4XYFjTd83FIwArFrWEYhd5"
-        }
-      ],
-      "duration_ms": 183069,
-      "name": "Forsaken",
-      "url": "https://open.spotify.com/track/29RLIEdsr7lXMkct9omK00"
-    },
-    {
-      "added_at": "2022-09-16 13:00:00",
-      "album": {
         "name": "Miscreation",
         "url": "https://open.spotify.com/album/6iVF7LgG1mjmMfBGF5jGP2"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 187285,
       "name": "Reflections",
       "url": "https://open.spotify.com/track/1Llt2DZh24nULvOmBj8Ooc"
+    },
+    {
+      "added_at": "2022-09-16 13:00:00",
+      "album": {
+        "name": "Forsaken",
+        "url": "https://open.spotify.com/album/1AdoiciuD5DrLLBHHBQrq2"
+      },
+      "artists": [
+        {
+          "name": "Until I Wake",
+          "url": "https://open.spotify.com/artist/4XYFjTd83FIwArFrWEYhd5"
+        }
+      ],
+      "duration_ms": 183069,
+      "name": "Forsaken",
+      "url": "https://open.spotify.com/track/29RLIEdsr7lXMkct9omK00"
     },
     {
       "added_at": "2022-09-16 13:00:00",
@@ -919,6 +919,26 @@
     {
       "added_at": "2022-09-16 13:00:00",
       "album": {
+        "name": "NWWM",
+        "url": "https://open.spotify.com/album/62P9pQQM3XNuM7RNSd1PEm"
+      },
+      "artists": [
+        {
+          "name": "Borders",
+          "url": "https://open.spotify.com/artist/4LlvZpSkapl3vj704A7XKO"
+        },
+        {
+          "name": "Dropout Kings",
+          "url": "https://open.spotify.com/artist/0COl8x4QKImQ0IBO8KjomQ"
+        }
+      ],
+      "duration_ms": 182750,
+      "name": "NWWM",
+      "url": "https://open.spotify.com/track/7gK1TOuXG2PrB78hDCgC5d"
+    },
+    {
+      "added_at": "2022-09-16 13:00:00",
+      "album": {
         "name": "Raw",
         "url": "https://open.spotify.com/album/73pyrNaGLPGT8JuHZTSfv9"
       },
@@ -951,22 +971,18 @@
     {
       "added_at": "2022-09-16 13:00:00",
       "album": {
-        "name": "NWWM",
-        "url": "https://open.spotify.com/album/62P9pQQM3XNuM7RNSd1PEm"
+        "name": "Losing You",
+        "url": "https://open.spotify.com/album/3xktdDHWRCYC4zkypdLlUb"
       },
       "artists": [
         {
-          "name": "Borders",
-          "url": "https://open.spotify.com/artist/4LlvZpSkapl3vj704A7XKO"
-        },
-        {
-          "name": "Dropout Kings",
-          "url": "https://open.spotify.com/artist/0COl8x4QKImQ0IBO8KjomQ"
+          "name": "Our Promise",
+          "url": "https://open.spotify.com/artist/4ISeDymLgZtEyx5Dy4BaqD"
         }
       ],
-      "duration_ms": 182750,
-      "name": "NWWM",
-      "url": "https://open.spotify.com/track/7gK1TOuXG2PrB78hDCgC5d"
+      "duration_ms": 198657,
+      "name": "Losing You",
+      "url": "https://open.spotify.com/track/1if0Z6htYQenIrHO23yl28"
     },
     {
       "added_at": "2022-09-16 13:00:00",
@@ -987,22 +1003,6 @@
       "duration_ms": 169000,
       "name": "Enough",
       "url": "https://open.spotify.com/track/46PbPFnjEgaUQtxiYh334k"
-    },
-    {
-      "added_at": "2022-09-16 13:00:00",
-      "album": {
-        "name": "Losing You",
-        "url": "https://open.spotify.com/album/3xktdDHWRCYC4zkypdLlUb"
-      },
-      "artists": [
-        {
-          "name": "Our Promise",
-          "url": "https://open.spotify.com/artist/4ISeDymLgZtEyx5Dy4BaqD"
-        }
-      ],
-      "duration_ms": 198657,
-      "name": "Losing You",
-      "url": "https://open.spotify.com/track/1if0Z6htYQenIrHO23yl28"
     },
     {
       "added_at": "2022-09-16 13:00:00",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2022-09-16 13:00:00",
       "album": {
-        "name": "Call It Home",
-        "url": "https://open.spotify.com/album/65cX0qLgpscBtANqVWZs0Z"
-      },
-      "artists": [
-        {
-          "name": "Elyne",
-          "url": "https://open.spotify.com/artist/2ldJ3WucPLlQJBtoNnl3Dk"
-        }
-      ],
-      "duration_ms": 210128,
-      "name": "Call It Home",
-      "url": "https://open.spotify.com/track/1jdcRfcIYZuorAcGDmHapO"
-    },
-    {
-      "added_at": "2022-09-16 13:00:00",
-      "album": {
         "name": "I Will Return",
         "url": "https://open.spotify.com/album/3fX3jDxRc6uDQbhjdoZ8wS"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 209230,
       "name": "I Will Return",
       "url": "https://open.spotify.com/track/0AQcFVw3RkS01iMfs24qUt"
+    },
+    {
+      "added_at": "2022-09-16 13:00:00",
+      "album": {
+        "name": "Call It Home",
+        "url": "https://open.spotify.com/album/65cX0qLgpscBtANqVWZs0Z"
+      },
+      "artists": [
+        {
+          "name": "Elyne",
+          "url": "https://open.spotify.com/artist/2ldJ3WucPLlQJBtoNnl3Dk"
+        }
+      ],
+      "duration_ms": 210128,
+      "name": "Call It Home",
+      "url": "https://open.spotify.com/track/1jdcRfcIYZuorAcGDmHapO"
     },
     {
       "added_at": "2022-09-16 13:00:00",
@@ -1235,18 +1235,18 @@
     {
       "added_at": "2022-09-16 13:00:00",
       "album": {
-        "name": "What Is Delicious? Who Swarms?",
-        "url": "https://open.spotify.com/album/5Z9n0CXvfI0fsvXC0PLHO2"
+        "name": "Trapped",
+        "url": "https://open.spotify.com/album/3qKY0taBBsvUZaSSblJtrf"
       },
       "artists": [
         {
-          "name": "The Callous Daoboys",
-          "url": "https://open.spotify.com/artist/4ZWRLOs7c4drt9mKGc0Ds0"
+          "name": "Suasion",
+          "url": "https://open.spotify.com/artist/3By3NlIbjZW9Uqlph8kcgK"
         }
       ],
-      "duration_ms": 196602,
-      "name": "What Is Delicious? Who Swarms?",
-      "url": "https://open.spotify.com/track/4zyPbDKebdwbahJsaQs57a"
+      "duration_ms": 204198,
+      "name": "Trapped",
+      "url": "https://open.spotify.com/track/2rggHX6x7fQUmo4WXTBzMQ"
     }
   ],
   "unique_name": "The Core",

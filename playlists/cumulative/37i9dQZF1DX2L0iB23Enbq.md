@@ -4,7 +4,7 @@
 
 > Viral, trending and taking off.
 
-228 songs - 12 hr 4 min - [published](https://open.spotify.com/playlist/2hH5qQbyuOq8mla61ka40f)
+230 songs - 12 hr 10 min - [published](https://open.spotify.com/playlist/2hH5qQbyuOq8mla61ka40f)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Enchanted](https://open.spotify.com/track/04S1pkp1VaIqjg8zZqknR5) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now](https://open.spotify.com/album/6Ar2o9KCqcyYF9J0aQP3au) | 5:52 | 2021-12-20 | 2022-01-17 |
 | [Enemy \(with JID\) \- from the series Arcane League of Legends](https://open.spotify.com/track/1r9xUipOqoNwggBpENDsvJ) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Enemy \(with JID\) \[from the series Arcane League of Legends\]](https://open.spotify.com/album/1bTgKomQYSkKYPD9UI9W4b) | 2:53 | 2022-01-24 | 2022-07-26 |
 | [Envolver](https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Envolver](https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7) | 3:13 | 2022-03-15 | 2022-04-23 |
+| [Evergreen \(You Didn’t Deserve Me At All\)](https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:36 | 2022-09-20 |  |
 | [Every Summertime](https://open.spotify.com/track/68HocO7fx9z0MgDU0ZPHro) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Every Summertime](https://open.spotify.com/album/2HPj0XZe9WduSsyKTQqgVa) | 3:35 | 2022-01-20 | 2022-04-16 |
 | [Fingers Crossed](https://open.spotify.com/track/5S9Zs5g9lTWnLIboN1pdlU) | [Lauren Spencer\-Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Fingers Crossed](https://open.spotify.com/album/1UPlwdM0JYNwlDcKbeXrKZ) | 2:55 | 2022-01-11 | 2022-07-23 |
 | [First Class](https://open.spotify.com/track/1rDQ4oMwGJI7B4tovsBOxc) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [First Class](https://open.spotify.com/album/4uVXrwE4aSV2L2aqAHSOXa) | 2:53 | 2022-04-08 |  |
@@ -236,5 +237,6 @@
 | [WYD Now?](https://open.spotify.com/track/3ZBeHiRJUj1vdiU8zzGPgb) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [WYD Now?](https://open.spotify.com/album/7vHnOZjiqPEgDP6BkmEp2Z) | 2:24 | 2022-01-24 | 2022-03-15 |
 | [Yo Voy \(feat\. Daddy Yankee\)](https://open.spotify.com/track/5gflgO9EPbIBf16n5TKnQS) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Motivando a la Yal](https://open.spotify.com/album/2aItcV9jj0LvaluaDFTLqF) | 3:52 | 2022-02-18 | 2022-08-20 |
 | [You Are Enough](https://open.spotify.com/track/1Wdj4wRDYS7aT4CoPS0mAH) | [Sleeping At Last](https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g) | [Atlas: I](https://open.spotify.com/album/1E9iqjfSf5I5hPNfI1DRIh) | 3:00 | 2021-12-20 | 2022-02-01 |
+| [死ぬのがいいわ](https://open.spotify.com/track/0HYAsQwJIO6FLqpyTeD3l6) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [HELP EVER HURT NEVER](https://open.spotify.com/album/03QiFOKDh6xMiSTkOnsmMG) | 3:05 | 2022-09-20 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

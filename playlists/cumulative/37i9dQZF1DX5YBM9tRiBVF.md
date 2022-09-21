@@ -4,7 +4,7 @@
 
 > Listen to women from Belgium, at full volume\. Cover: Coely
 
-204 songs - 11 hr 8 min - [published](https://open.spotify.com/playlist/3owvrGw8mQsT590xhLQpXI)
+205 songs - 11 hr 11 min - [published](https://open.spotify.com/playlist/3owvrGw8mQsT590xhLQpXI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,7 +160,8 @@
 | [PRETTY](https://open.spotify.com/track/0EH2THNT0WdnXEPpNOg46h) | [Cyra Gwynth](https://open.spotify.com/artist/73xasVLAvFrnbuhBdAucpp) | [CHAPTER I: SOUL](https://open.spotify.com/album/1PQ2EI0p0iyjlaouIXkqyi) | 2:15 | 2021-12-08 | 2022-02-03 |
 | [Problem](https://open.spotify.com/track/1QWRJgUBpse0bJoPMzmO6v) | [OLIVIA](https://open.spotify.com/artist/0r4SuP92ATT2wpKCT7blnM) | [i like you, but i love me more](https://open.spotify.com/album/3VVNuVj4npbeB9hfxT2dD3) | 3:30 | 2022-05-03 | 2022-07-06 |
 | [Promise](https://open.spotify.com/track/6bd0qX99KRESGOo3ef9xAw) | [Steffi Vertriest](https://open.spotify.com/artist/3bER6D6mq0c5CsoOxclwIu) | [Promise](https://open.spotify.com/album/30t8b7kER7E1UxTmE02Soo) | 4:30 | 2022-03-07 | 2022-06-01 |
-| [PSYCHE](https://open.spotify.com/track/5tw4HCtnE99b6pfAfpp0G1) | [Spacebabymadcha](https://open.spotify.com/artist/4Twtl8sz0ceeOrdXmglVpa) | [PSYCHE](https://open.spotify.com/album/5L3dqtGr2Pw9Q2D34IiSMa) | 3:12 | 2022-07-05 |  |
+| [PSYCHE](https://open.spotify.com/track/1FBWjmbVxqqA0pdBJ6z67R) | [Spacebabymadcha](https://open.spotify.com/artist/4Twtl8sz0ceeOrdXmglVpa) | [PSYCHE](https://open.spotify.com/album/5LKrtVuVHCq6jwjSsBMjaL) | 3:12 | 2022-09-06 |  |
+| [PSYCHE](https://open.spotify.com/track/5tw4HCtnE99b6pfAfpp0G1) | [Spacebabymadcha](https://open.spotify.com/artist/4Twtl8sz0ceeOrdXmglVpa) | [PSYCHE](https://open.spotify.com/album/5L3dqtGr2Pw9Q2D34IiSMa) | 3:12 | 2022-07-05 | 2022-09-21 |
 | [Rain](https://open.spotify.com/track/0n3mJYAdd8KbnWEKeTCkGg) | [MEYY](https://open.spotify.com/artist/6ovTUUvyWpxSigzDhtfVs5), [Jelani Blackman](https://open.spotify.com/artist/0fjaIHFhiW9vWX8bncZCOo) | [Rain](https://open.spotify.com/album/4iA6IF2ZeaXvkF1T0KIw2o) | 3:56 | 2022-01-05 | 2022-04-06 |
 | [Rio](https://open.spotify.com/track/4g9dsiC7LLEA1ttJQAk626) | [Grace](https://open.spotify.com/artist/3GKpXtb9Zb3QvDg9uzNi98) | [Rio](https://open.spotify.com/album/61E21CgOIc1sC02iHy15u7) | 2:29 | 2022-09-06 |  |
 | [Ronquières](https://open.spotify.com/track/5xEZmYsLt2UWVth2O0aPFd) | [Madou](https://open.spotify.com/artist/5LHkXGZndRebUjbJqvMQyN) | [Is er iets?](https://open.spotify.com/album/3CNXgUf786KbgCqq42BIXT) | 4:42 | 2021-12-08 | 2022-03-08 |

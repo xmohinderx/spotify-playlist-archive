@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 
 > Spotify Singles\. Like nothing you’ve heard before\.  Cover: Giveon
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,204 likes - 785 songs - 2 day 0 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,219 likes - 785 songs - 2 day 0 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 | 13 | [On brûlera \- Spotify Singles](https://open.spotify.com/track/5yYaqnixSbNmlcYRywbCfm) | [Milk & Bone](https://open.spotify.com/artist/4fmvA5uVlZUNsje29D1PaW) | [Spotify Singles](https://open.spotify.com/album/3Xj4TtMdMydSBQTjCWobxp) | 3:28 |
 | 14 | [minnesota is a place that exists \- Spotify Singles](https://open.spotify.com/track/3DBCwzH4K0CvD7QSTDEoQz) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [Spotify Singles](https://open.spotify.com/album/54lLvzhlVF4QhQMBfPQhtl) | 2:45 |
 | 15 | [i will follow you into the dark \- Spotify Singles](https://open.spotify.com/track/7lxfdfIocUHefodQ8JLyfk) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [Spotify Singles](https://open.spotify.com/album/54lLvzhlVF4QhQMBfPQhtl) | 2:33 |
-| 16 | [Tu / You](https://open.spotify.com/track/4L6hCEc9xFf01U4d66JzK0) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs) | [Tu / You](https://open.spotify.com/album/4MGu4YPgaKkxwgGf6MaAyn) | 2:22 |
+| 16 | [Tu / You](https://open.spotify.com/track/4L6hCEc9xFf01U4d66JzK0) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs) | [Tu/You \- Spotify Singles](https://open.spotify.com/album/4MGu4YPgaKkxwgGf6MaAyn) | 2:22 |
 | 17 | [Partner In Crime \- Spotify Singles](https://open.spotify.com/track/33IZBhRtyMDZoa5SUNs3F7) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Spotify Singles](https://open.spotify.com/album/2Ugyft4arCFXPSASDVIXs0) | 3:53 |
 | 18 | [Believe \- Spotify Singles](https://open.spotify.com/track/5mtW8Fo5sjFQY6nA10mDIy) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Spotify Singles](https://open.spotify.com/album/2Ugyft4arCFXPSASDVIXs0) | 4:08 |
 | 19 | [80 90 \- Spotify Singles](https://open.spotify.com/track/2Xh7UWFpUNLpVfY420u7c3) | [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel), [Garry Sandhu](https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75) | [Spotify Singles](https://open.spotify.com/album/2amvrQLu6W6CHTRhe2YImN) | 4:05 |

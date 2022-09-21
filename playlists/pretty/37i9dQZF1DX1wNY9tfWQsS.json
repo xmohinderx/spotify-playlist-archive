@@ -1,12 +1,12 @@
 {
   "description": "A musical celebration of women in R&amp;B, from its earliest acts to its newest stars. Cover: Mary J. Blige",
-  "num_followers": 475516,
+  "num_followers": 475698,
   "original_name": "Women of R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mjc0ODkwNywwMDAwMDAwMDI3Y2IwYmM0OGM4Y2VmYjQzNTVjMTA1YWUxZDA1NzE0",
+  "snapshot_id": "MTY2Mjc0ODkwNywwMDAwMDAwMDM5ZjBkY2JlZDhiYTY0YjAzZWQxM2E2Y2I4OWFiN2Vk",
   "tracks": [
     {
       "added_at": "2022-03-08 19:58:52",
@@ -319,22 +319,6 @@
     {
       "added_at": "2022-03-08 19:58:52",
       "album": {
-        "name": "Diana",
-        "url": "https://open.spotify.com/album/3zgDLoVcpVGfFbDZJf3uHI"
-      },
-      "artists": [
-        {
-          "name": "Diana Ross",
-          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
-        }
-      ],
-      "duration_ms": 323346,
-      "name": "I'm Coming Out",
-      "url": "https://open.spotify.com/track/3SnGymj6ijE2iuUfWxLo1q"
-    },
-    {
-      "added_at": "2022-03-08 19:58:52",
-      "album": {
         "name": "Chilombo",
         "url": "https://open.spotify.com/album/5jlE1zlhT3mEWw0mRpN920"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 212866,
       "name": "B.S. (feat. H.E.R.)",
       "url": "https://open.spotify.com/track/63wx9vdskaXbYxyDx4oJCZ"
+    },
+    {
+      "added_at": "2022-03-08 19:58:52",
+      "album": {
+        "name": "Diana",
+        "url": "https://open.spotify.com/album/3zgDLoVcpVGfFbDZJf3uHI"
+      },
+      "artists": [
+        {
+          "name": "Diana Ross",
+          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
+        }
+      ],
+      "duration_ms": 323346,
+      "name": "I'm Coming Out",
+      "url": "https://open.spotify.com/track/3SnGymj6ijE2iuUfWxLo1q"
     },
     {
       "added_at": "2022-03-08 19:58:52",
@@ -783,22 +783,6 @@
     {
       "added_at": "2022-03-08 19:58:52",
       "album": {
-        "name": "From The Bottom Up",
-        "url": "https://open.spotify.com/album/4AqJY8SxoiR6MWWfawrxVz"
-      },
-      "artists": [
-        {
-          "name": "Brownstone",
-          "url": "https://open.spotify.com/artist/6dQgkiJm1fRkcqKOvPzysr"
-        }
-      ],
-      "duration_ms": 304160,
-      "name": "If You Love Me",
-      "url": "https://open.spotify.com/track/0BTGqPIW9acmhhUmENkq5r"
-    },
-    {
-      "added_at": "2022-03-08 19:58:52",
-      "album": {
         "name": "I Feel for You",
         "url": "https://open.spotify.com/album/08yanJqA75TPyDowCXvvPU"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 343400,
       "name": "I Feel for You",
       "url": "https://open.spotify.com/track/5yR9u8QiOt8hJaddv32oo7"
+    },
+    {
+      "added_at": "2022-03-08 19:58:52",
+      "album": {
+        "name": "From The Bottom Up",
+        "url": "https://open.spotify.com/album/4AqJY8SxoiR6MWWfawrxVz"
+      },
+      "artists": [
+        {
+          "name": "Brownstone",
+          "url": "https://open.spotify.com/artist/6dQgkiJm1fRkcqKOvPzysr"
+        }
+      ],
+      "duration_ms": 304160,
+      "name": "If You Love Me",
+      "url": "https://open.spotify.com/track/0BTGqPIW9acmhhUmENkq5r"
     },
     {
       "added_at": "2022-03-08 19:58:52",

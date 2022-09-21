@@ -1,12 +1,12 @@
 {
   "description": "Puras rolitas pa' destapar un bote y empinar el codo.",
-  "num_followers": 617071,
+  "num_followers": 617439,
   "original_name": "Pa' Pistear",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTk3NDgwNiwwMDAwMDAwMGI2NmY0ZDc4MjNjZDY5YzgxMWM3NThiYTNlYWE0ZDEy",
+  "snapshot_id": "MTY2MTk3NDgwNiwwMDAwMDAwMDU5MDQxMGM4MDE4YjViOGMzYzE2OWMxMWRkNzUzZDQ2",
   "tracks": [
     {
       "added_at": "2022-08-31 19:40:06",
@@ -663,18 +663,22 @@
     {
       "added_at": "2022-08-31 19:40:06",
       "album": {
-        "name": "D\u00e9cimo Aniversario",
-        "url": "https://open.spotify.com/album/0rDFeKay5JBgF7fFIUWYca"
+        "name": "Ojos Cerrados",
+        "url": "https://open.spotify.com/album/0bmO2mhykyBDs7jt1ftQe0"
       },
       "artists": [
         {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 164360,
-      "name": "Tranquilito",
-      "url": "https://open.spotify.com/track/2LJRoFOtMGLnSxJqlJuhge"
+      "duration_ms": 180750,
+      "name": "Ojos Cerrados",
+      "url": "https://open.spotify.com/track/4OVpyR6yhYyVoRj9D7CERz"
     },
     {
       "added_at": "2022-08-31 19:40:06",
@@ -695,22 +699,18 @@
     {
       "added_at": "2022-08-31 19:40:06",
       "album": {
-        "name": "Ojos Cerrados",
-        "url": "https://open.spotify.com/album/0bmO2mhykyBDs7jt1ftQe0"
+        "name": "D\u00e9cimo Aniversario",
+        "url": "https://open.spotify.com/album/0rDFeKay5JBgF7fFIUWYca"
       },
       "artists": [
         {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        },
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
         }
       ],
-      "duration_ms": 180750,
-      "name": "Ojos Cerrados",
-      "url": "https://open.spotify.com/track/4OVpyR6yhYyVoRj9D7CERz"
+      "duration_ms": 164360,
+      "name": "Tranquilito",
+      "url": "https://open.spotify.com/track/2LJRoFOtMGLnSxJqlJuhge"
     },
     {
       "added_at": "2022-08-31 19:40:06",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2022-08-31 19:40:06",
       "album": {
+        "name": "De Lo Bueno, Lo Mejor",
+        "url": "https://open.spotify.com/album/6fg7ANywTbldJWzw8y1p4F"
+      },
+      "artists": [
+        {
+          "name": "Banda Tierra Sagrada",
+          "url": "https://open.spotify.com/artist/0v7JYEoQOQbzNNESKwxmzT"
+        }
+      ],
+      "duration_ms": 204453,
+      "name": "La Buena y la Mala",
+      "url": "https://open.spotify.com/track/4y0n8xKuEKE0J2sThzswhg"
+    },
+    {
+      "added_at": "2022-08-31 19:40:06",
+      "album": {
         "name": "Una Raya M\u00e1s al Tigre",
         "url": "https://open.spotify.com/album/1hZdcTNXS48yGctGfpQPpB"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 139658,
       "name": "Una Raya M\u00e1s al Tigre",
       "url": "https://open.spotify.com/track/3fzC9A2azykZmtSHuXt0kg"
-    },
-    {
-      "added_at": "2022-08-31 19:40:06",
-      "album": {
-        "name": "De Lo Bueno, Lo Mejor",
-        "url": "https://open.spotify.com/album/6fg7ANywTbldJWzw8y1p4F"
-      },
-      "artists": [
-        {
-          "name": "Banda Tierra Sagrada",
-          "url": "https://open.spotify.com/artist/0v7JYEoQOQbzNNESKwxmzT"
-        }
-      ],
-      "duration_ms": 204453,
-      "name": "La Buena y la Mala",
-      "url": "https://open.spotify.com/track/4y0n8xKuEKE0J2sThzswhg"
     },
     {
       "added_at": "2022-08-31 19:40:06",
@@ -1471,26 +1471,6 @@
     {
       "added_at": "2022-08-31 19:40:06",
       "album": {
-        "name": "La Barda Me Vol\u00e9",
-        "url": "https://open.spotify.com/album/13SwxlksMXwzpK8iAafFDh"
-      },
-      "artists": [
-        {
-          "name": "Los 2 de la S",
-          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
-        },
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 280093,
-      "name": "Somos Los Que Somos - En Vivo",
-      "url": "https://open.spotify.com/track/1Z04XN4pH2b8JfdiaIEkl5"
-    },
-    {
-      "added_at": "2022-08-31 19:40:06",
-      "album": {
         "name": "Hay Que Hacer Dinero",
         "url": "https://open.spotify.com/album/2Ma1mkoOmvxHwp261QxWPN"
       },
@@ -1507,6 +1487,26 @@
       "duration_ms": 179130,
       "name": "Hay Que Hacer Dinero",
       "url": "https://open.spotify.com/track/4eqDVqsli1ILflQfB5MoeP"
+    },
+    {
+      "added_at": "2022-08-31 19:40:06",
+      "album": {
+        "name": "La Barda Me Vol\u00e9",
+        "url": "https://open.spotify.com/album/13SwxlksMXwzpK8iAafFDh"
+      },
+      "artists": [
+        {
+          "name": "Los 2 de la S",
+          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
+        },
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 280093,
+      "name": "Somos Los Que Somos - En Vivo",
+      "url": "https://open.spotify.com/track/1Z04XN4pH2b8JfdiaIEkl5"
     },
     {
       "added_at": "2022-08-31 19:40:06",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2022-08-31 19:40:06",
       "album": {
+        "name": "Mi Mayor Anhelo",
+        "url": "https://open.spotify.com/album/3y4zsDJdS6o2oYprOn0XKp"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 209786,
+      "name": "Mi Mayor Anhelo",
+      "url": "https://open.spotify.com/track/0bBvuLFzIjrHm9PPyvohIA"
+    },
+    {
+      "added_at": "2022-08-31 19:40:06",
+      "album": {
         "name": "25 A\u00f1os, Vol. 1",
         "url": "https://open.spotify.com/album/6yftM74Ij8cxnOSRax1hRE"
       },
@@ -1575,22 +1591,6 @@
       "duration_ms": 266000,
       "name": "En Esta Vida No Se Pudo",
       "url": "https://open.spotify.com/track/4ZRWZSgXGuMe9kILi6hzKL"
-    },
-    {
-      "added_at": "2022-08-31 19:40:06",
-      "album": {
-        "name": "El D\u00eda Que Te Fuiste",
-        "url": "https://open.spotify.com/album/4jNZTWsgOpv4rejGsqn0jy"
-      },
-      "artists": [
-        {
-          "name": "Virlan Garcia",
-          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
-        }
-      ],
-      "duration_ms": 172321,
-      "name": "El D\u00eda Que Te Fuiste",
-      "url": "https://open.spotify.com/track/5ckWeqMScCK2BUrZZlBjZt"
     },
     {
       "added_at": "2022-08-31 19:40:06",
@@ -1611,18 +1611,18 @@
     {
       "added_at": "2022-08-31 19:40:06",
       "album": {
-        "name": "Mi Mayor Anhelo",
-        "url": "https://open.spotify.com/album/3y4zsDJdS6o2oYprOn0XKp"
+        "name": "El D\u00eda Que Te Fuiste",
+        "url": "https://open.spotify.com/album/4jNZTWsgOpv4rejGsqn0jy"
       },
       "artists": [
         {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+          "name": "Virlan Garcia",
+          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
         }
       ],
-      "duration_ms": 209786,
-      "name": "Mi Mayor Anhelo",
-      "url": "https://open.spotify.com/track/0bBvuLFzIjrHm9PPyvohIA"
+      "duration_ms": 172321,
+      "name": "El D\u00eda Que Te Fuiste",
+      "url": "https://open.spotify.com/track/5ckWeqMScCK2BUrZZlBjZt"
     },
     {
       "added_at": "2022-08-31 19:40:06",

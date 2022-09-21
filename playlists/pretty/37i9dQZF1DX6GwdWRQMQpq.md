@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GwdWRQMQpq.md) - [plain]
 
 > The hip\-hop playlist that's a whole mood\. Art By Laci Jordan; Cover: Ice Spice
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,313,142 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,313,991 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GwdWRQMQpq.md) - [plain]
 | 4 | [Real Bitch \(feat\. Gloss Up\)](https://open.spotify.com/track/4zH4kR30s4Cx6HMvodrf32) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1) | [Real Bitch \(feat\. Gloss Up\)](https://open.spotify.com/album/6MUUM532DEcR697rck5n90) | 2:04 |
 | 5 | [Munch \(Feelin’ U\)](https://open.spotify.com/track/1jOgJN75btuUONIdf57vHz) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Munch \(Feelin’ U\)](https://open.spotify.com/album/0LgFPcU3P2HLGUtBQTBBpv) | 1:44 |
 | 6 | [Fly Sh!t](https://open.spotify.com/track/3HbMXSKuTdKWChpvMIKhg5) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Fly Sh!t](https://open.spotify.com/album/38tlAzTpYRs5lL14yBjLxj) | 2:15 |
-| 7 | [HDBG \(Shemix\)](https://open.spotify.com/track/2A59foYLjX4iUuvtncE8BZ) | [cupcakKe](https://open.spotify.com/artist/76SlrtEaq2oViRXulxjfuM), [Erica Banks](https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM), [Tweeday](https://open.spotify.com/artist/6X94tEGcPVz8dyYUZqUHWj) | [HDBG \(Shemix\)](https://open.spotify.com/album/6ol7utlb56Owco0kPzLhbt) | 2:21 |
+| 7 | [HDBG Shemix](https://open.spotify.com/track/2A59foYLjX4iUuvtncE8BZ) | [cupcakKe](https://open.spotify.com/artist/76SlrtEaq2oViRXulxjfuM), [Erica Banks](https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM), [Tweeday](https://open.spotify.com/artist/6X94tEGcPVz8dyYUZqUHWj) | [HDBG Shemix](https://open.spotify.com/album/6ol7utlb56Owco0kPzLhbt) | 2:21 |
 | 8 | [Wet](https://open.spotify.com/track/4RCwUGboTNqqrY2tgy37nF) | [Kali](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Wet](https://open.spotify.com/album/31TtTfGTyqjNQvTXa6Ig9u) | 2:16 |
 | 9 | [Conceited](https://open.spotify.com/track/02nTpchENdZ4Nm8AfTmrFv) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Conceited](https://open.spotify.com/album/2q7cKHWIXtGBtEtARc5lyV) | 2:26 |
 | 10 | [BILLS PAID \(feat\. Latto & City Girls\)](https://open.spotify.com/track/0JiLQRLOeWQdPC9rVpOqqo) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [GOD DID](https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50) | 3:28 |

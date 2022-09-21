@@ -4,11 +4,12 @@
 
 > Sad and gloomy Jazz for a rainy day.
 
-186 songs - 12 hr 19 min - [published](https://open.spotify.com/playlist/3gSdGstAEf78VwlStuMXxy)
+190 songs - 12 hr 34 min - [published](https://open.spotify.com/playlist/3gSdGstAEf78VwlStuMXxy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Hero Lives Another Day](https://open.spotify.com/track/5R5fWpRXhe5YqmtZ2WPzw0) | [Claudia Torrek](https://open.spotify.com/artist/2vTJc7s0MUGFXfXVK8TypJ) | [A Hero Lives Another Day](https://open.spotify.com/album/15BIymmR9Y0raWZcbcFs6n) | 3:06 | 2021-12-14 |  |
+| [A Knock On The Door](https://open.spotify.com/track/1lKkIBFCcsUOG14fPmvbhw) | [Clover Post](https://open.spotify.com/artist/2XWP1prJQm6CLoHKAqXCEz) | [A Knock On The Door](https://open.spotify.com/album/0q2peKbZDl0x0NuIn7UZ7F) | 3:27 | 2022-09-20 |  |
 | [A Time for Love](https://open.spotify.com/track/2PxYJDohsBXaBLByHBITp5) | [Peter Rostov Trio](https://open.spotify.com/artist/6fbkQAxn9Df2sZWwuYQ820) | [A Portrait of Jennie](https://open.spotify.com/album/1UahARgInHkxb4fqm8455I) | 3:48 | 2021-12-14 |  |
 | [Abisko](https://open.spotify.com/track/65zFbHuyUdai6WFwtPAkix) | [Norberg](https://open.spotify.com/artist/4clALHmaxBpsJ0aWHb3Rdy) | [Abisko](https://open.spotify.com/album/0Lkn1OWDVLcaxHR9hOmyBp) | 2:48 | 2021-12-14 |  |
 | [After Rain](https://open.spotify.com/track/62xixWZZULL8nW0bUJAi8J) | [Morgan Coleman Quintet](https://open.spotify.com/artist/2Ntcz3nIhmiM2R6LWNsjAZ) | [After Rain](https://open.spotify.com/album/3hCG5qX46IuTorWJSBloMI) | 3:40 | 2021-12-14 |  |
@@ -104,6 +105,7 @@
 | [Madison](https://open.spotify.com/track/4XJwaQOwqrfkiXkAuxZSNd) | [The Late Nighters](https://open.spotify.com/artist/22RipbQQrUasT0JEHZLOFa) | [Madison](https://open.spotify.com/album/0rzTWa0urikuszTgERM9Jd) | 2:33 | 2021-12-14 |  |
 | [Midday Walk](https://open.spotify.com/track/1rgG63Kci1aVlCCxFjQ4ci) | [Loft Trio](https://open.spotify.com/artist/0deAuR6p2brrc0MsfMlQXI) | [Midday Walk](https://open.spotify.com/album/47WU0DqHlyUmr3LYNiXdEp) | 3:31 | 2022-08-10 |  |
 | [Midnight midtown](https://open.spotify.com/track/23SM99bJ0j6IejFfLXkUoA) | [Nordic Swing](https://open.spotify.com/artist/5LL0LIw64LrSLwmZEhJNq4) | [Midnight midtown](https://open.spotify.com/album/0zCX7YfKIsb7SmiDl93KZi) | 4:33 | 2021-12-14 |  |
+| [Miles and Miles](https://open.spotify.com/track/6EjkHR4gYfNQjWwoyiCTbh) | [Pimm's Trio](https://open.spotify.com/artist/0vlyMzroosYUjkAfHLx6kF) | [Miles and Miles](https://open.spotify.com/album/1Gl5EDLgmZ5qFglvsJUCSX) | 4:31 | 2022-09-20 |  |
 | [Minor Steps](https://open.spotify.com/track/63f2Jx0K11nKoezrnM427S) | [Lee Davis](https://open.spotify.com/artist/4GTZfDMmFwiIThMu6b39qp) | [Minor Steps](https://open.spotify.com/album/303hgtImyShjRc4EEncVDU) | 4:01 | 2022-05-03 |  |
 | [Misty](https://open.spotify.com/track/1LX2CtpOwnPphgZTCl05Ot) | [Bob Brookmeyer](https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN) | [Bob Brookmeyer & Friends](https://open.spotify.com/album/12JCMQ79q662srkjDGoe02) | 5:17 | 2022-01-26 |  |
 | [Misty November](https://open.spotify.com/track/5LJcQXhDafjTy7GOqYLjJM) | [Kevin Waters Group](https://open.spotify.com/artist/57U22BNH5ClRbVtpNjVAoG) | [Misty November](https://open.spotify.com/album/6xxtWCf4X7qatxA0IPFWly) | 3:12 | 2022-02-15 |  |
@@ -118,6 +120,7 @@
 | [Myren](https://open.spotify.com/track/0ndyWE3s5txZ0p4YXMiVDj) | [Måns & Dotter](https://open.spotify.com/artist/2p01LeKL4qyvQ5xKWs9S40) | [Myren](https://open.spotify.com/album/32wLo8nPlRDWr2aBvqStje) | 2:35 | 2021-12-14 | 2022-06-09 |
 | [Naima](https://open.spotify.com/track/360beQMahQ2FdZ9OmWYiBT) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Giant Steps](https://open.spotify.com/album/7cZ6oBx0SEUPDAoxJtxNDh) | 4:18 | 2021-12-14 | 2022-07-29 |
 | [Naima \- Mono](https://open.spotify.com/track/5cAwEKmadsW4nCYe9QUvgU) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Giant Steps \(Mono\)](https://open.spotify.com/album/7MBQWjukLxXZYvQ8vzEH7t) | 4:25 | 2022-06-28 | 2022-08-11 |
+| [Nancy \(WIth The Laughing Face\)](https://open.spotify.com/track/7jQriEubeC9KTClyfJtthT) | [Cecil Andrews](https://open.spotify.com/artist/3w12mAdbXsNTiBc4xhM0OV) | [Nancy \(WIth The Laughing Face\)](https://open.spotify.com/album/3u3JR9SJ5OuiT9dKIdkSpq) | 4:05 | 2022-09-20 |  |
 | [Neighbours](https://open.spotify.com/track/0eo6CVRixQy70hPIUHh36m) | [Yorkville](https://open.spotify.com/artist/6VR3RgGN43zxy9ckRugsXn) | [In The Days Of Our Love](https://open.spotify.com/album/2QBCdxvkPxKABMrvkDd8aL) | 3:06 | 2021-12-14 |  |
 | [Never Let Me Go](https://open.spotify.com/track/6JqS6NY4vXjP9sTAwH8k6N) | [Alexander Martin Jazz Trio](https://open.spotify.com/artist/5OBtP3zDHNFdzP9cO0eHSm) | [Lil' Darlin'](https://open.spotify.com/album/6PYtdDNbiWRopTRvYUbjPh) | 4:18 | 2021-12-14 |  |
 | [Next Door Dreaming](https://open.spotify.com/track/7efC0wMGzDX0nsZX1dQodO) | [Rob Kasaki](https://open.spotify.com/artist/41EpNGSsN3YUU0KhLhJ7Uh) | [Next Door Dreaming](https://open.spotify.com/album/27GlvAjgPmmgXpZUBiYWjS) | 2:18 | 2021-12-14 |  |
@@ -131,7 +134,7 @@
 | [Prelude to a Kiss](https://open.spotify.com/track/4WTKq8cF5bZJNlvZyKVff8) | [Brendan Maynard + 2](https://open.spotify.com/artist/28j2IaYoLNPDEr3ogCZ4tM) | [Giant Steps](https://open.spotify.com/album/2m5RKUit8PUNE6QPcmA7sI) | 4:24 | 2021-12-14 |  |
 | [Pretty Are Your Eyes](https://open.spotify.com/track/0QXIct82DEE5RmlpeVHE4Y) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [Stars in Your Eyes](https://open.spotify.com/album/0e1PjJ10JCgMQLAIUT4NJ4) | 3:13 | 2022-08-17 |  |
 | [Rainbow Mountains](https://open.spotify.com/track/3c0kOPcHy2wJr3p8Vkno2j) | [Chris Memento](https://open.spotify.com/artist/6dLMos1sm6vC0KWbloaCXb) | [Rainbow Mountains](https://open.spotify.com/album/2DMK4fULgBjylc9Kj8J73K) | 4:50 | 2022-05-31 |  |
-| [Reaching](https://open.spotify.com/track/1zL6ms4dZJ1l8y8F46llOv) | [The Midnight Quartet](https://open.spotify.com/artist/3RgMoZ7V6T8taBTLb58Wld) | [Reaching](https://open.spotify.com/album/7nWW2h7SFTPQJgJX0h1IMA) | 3:22 | 2021-12-14 |  |
+| [Reaching](https://open.spotify.com/track/1zL6ms4dZJ1l8y8F46llOv) | [The Midnight Quartet](https://open.spotify.com/artist/3RgMoZ7V6T8taBTLb58Wld) | [Reaching](https://open.spotify.com/album/7nWW2h7SFTPQJgJX0h1IMA) | 3:22 | 2021-12-14 | 2022-09-21 |
 | [Remembering Benny](https://open.spotify.com/track/7HFXTKZhD4wsko0rty1WIk) | [Three Four Trio](https://open.spotify.com/artist/71RWScq7sSiOx08UQe37fv) | [A Simple Book](https://open.spotify.com/album/49asGdlaiX4oisY9vHf3vt) | 3:49 | 2022-08-10 |  |
 | [Remembrance](https://open.spotify.com/track/20idPJhwG1p86XbpNt5dAJ) | [Ben & Katsy](https://open.spotify.com/artist/7zk65sKwJHv61CsjCr8PVw) | [Remembrance](https://open.spotify.com/album/6dT2PVzDSBtjKXu4EhdezZ) | 4:04 | 2022-08-30 |  |
 | [Remembrance](https://open.spotify.com/track/0kbWuiN6FdHJXu1xCBVxvW) | [Grayville Trio](https://open.spotify.com/artist/6ll13Y20dnndy8mAuF9tgk) | [Remembrance](https://open.spotify.com/album/6aO2ui4ldnUa338vXUkMGz) | 3:10 | 2022-08-30 |  |
@@ -175,6 +178,7 @@
 | [Turn Down the Lights](https://open.spotify.com/track/0ogRwGa7KtCUBF2PKJKO3F) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [A Future With You](https://open.spotify.com/album/6BQydkNHQgsSwEhsFm1YUf) | 2:57 | 2022-09-13 |  |
 | [Turn Out the Stars](https://open.spotify.com/track/70BXRAXtYxQdNQnkq6aljf) | [Tyrone Coates & Friends](https://open.spotify.com/artist/2XSpojB87LHkWSrF4yBNmC) | [Turn Out the Stars](https://open.spotify.com/album/0uioB9VBjFggpQITMYMIeQ) | 3:23 | 2021-12-14 |  |
 | [Under the same roof](https://open.spotify.com/track/3IzCbEBNJV97OpSdjd6DwQ) | [Krista Lake Band](https://open.spotify.com/artist/3WVZp2cbKWXh2PzmQEOx9D) | [Old Habits](https://open.spotify.com/album/1fco2lBvgsVH2R0xsklBaZ) | 3:58 | 2021-12-14 |  |
+| [Waiting](https://open.spotify.com/track/3LTZWlerXvIG5w5bRPXe0J) | [Streetlight Trio](https://open.spotify.com/artist/2TjyBWyiwIEhrsjMy4Q7t4) | [Waiting](https://open.spotify.com/album/0Y36HrqDhG2FiVQlNzkgRD) | 3:21 | 2022-09-20 |  |
 | [Waveless Sea](https://open.spotify.com/track/3U2J9LyloQzn8bTdc3BfF6) | [Mitch Coleman](https://open.spotify.com/artist/5YyVZ8kxK9sRVEg1pBh1PV) | [Waveless Sea](https://open.spotify.com/album/0y5GVPzc0TspKuOMa8qF3s) | 3:59 | 2022-08-30 |  |
 | [Whatever Possessed Me](https://open.spotify.com/track/2ctouihgYSV7onIUDRBjbK) | [More than Jazz](https://open.spotify.com/artist/6BLANsh44CPzD19TF0X0Et) | [Whatever Possessed Me](https://open.spotify.com/album/4y9NYqUGF8rFBkisD65CTt) | 3:49 | 2022-04-26 |  |
 | [When All Was Said and Done](https://open.spotify.com/track/4RTUdqbqiuKJ3cu7PBvScU) | [Sally's Trio](https://open.spotify.com/artist/3SFDEtIEdBh9Ala7ZyIyma) | [When All Was Said and Done](https://open.spotify.com/album/2RD4jX3CYtP6pvuNAnLqPi) | 4:35 | 2022-05-17 |  |

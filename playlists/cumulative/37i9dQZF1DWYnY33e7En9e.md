@@ -4,7 +4,7 @@
 
 > Hits of the 70s, 80s and 90s for gamers who love things retro.
 
-429 songs - 1 day 5 hr 54 min - [published](https://open.spotify.com/playlist/28maSpA5bzCPJTSBtwdjUV)
+430 songs - 1 day 5 hr 57 min - [published](https://open.spotify.com/playlist/28maSpA5bzCPJTSBtwdjUV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -263,7 +263,7 @@
 | [N.Y\. State of Mind](https://open.spotify.com/track/0trHOzAhNpGCsGBEu7dOJo) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Illmatic](https://open.spotify.com/album/3kEtdS2pH6hKcMU9Wioob1) | 4:53 | 2021-05-19 | 2022-04-21 |
 | [Never Gonna Give You Up](https://open.spotify.com/track/4cOdK2wGLETKBW3PvgPWqT) | [Rick Astley](https://open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt) | [Whenever You Need Somebody](https://open.spotify.com/album/5Z9iiGl2FcIfa3BMiv6OIw) | 3:33 | 2021-05-19 |  |
 | [Never Gonna Give You Up](https://open.spotify.com/track/4uLU6hMCjMI75M1A2tKUQC) | [Rick Astley](https://open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt) | [Whenever You Need Somebody](https://open.spotify.com/album/6N9PS4QXF1D0OWPk0Sxtb4) | 3:33 | 2021-05-19 | 2022-07-29 |
-| [No Diggity](https://open.spotify.com/track/6MdqqkQ8sSC0WB4i8PyRuQ) | [Blackstreet](https://open.spotify.com/artist/2P3cjUru4H3fhSXXNxE9kA), [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Queen Pen](https://open.spotify.com/artist/0VbIlorLz3I5SEtIsc5vAr) | [Another Level](https://open.spotify.com/album/2zGZLQiFl9UubtrVmtIkbi) | 5:04 | 2021-05-19 |  |
+| [No Diggity](https://open.spotify.com/track/6MdqqkQ8sSC0WB4i8PyRuQ) | [Blackstreet](https://open.spotify.com/artist/2P3cjUru4H3fhSXXNxE9kA), [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Queen Pen](https://open.spotify.com/artist/0VbIlorLz3I5SEtIsc5vAr) | [Another Level](https://open.spotify.com/album/2zGZLQiFl9UubtrVmtIkbi) | 5:04 | 2021-05-19 | 2022-09-21 |
 | [No More Mr\. Nice Guy](https://open.spotify.com/track/5D2eCwqbHcqOnfHOCM6TnV) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Billion Dollar Babies \(Deluxe Reissue\)](https://open.spotify.com/album/4SlY4oyiPg6At7vyouZ7ep) | 3:07 | 2021-05-19 | 2022-05-05 |
 | [No One Like You](https://open.spotify.com/track/26fZwf1ImE4aUJ4XaqOkUg) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Blackout](https://open.spotify.com/album/6x75r5C54z1quun86Bbqbr) | 3:57 | 2021-05-19 | 2022-07-28 |
 | [No Scrubs](https://open.spotify.com/track/1KGi9sZVMeszgZOWivFpxs) | [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) | [Fanmail](https://open.spotify.com/album/1CvjjpvqVMoyprsf74bpYW) | 3:34 | 2021-05-19 |  |
@@ -381,6 +381,7 @@
 | [The Kids Aren't Alright](https://open.spotify.com/track/4EchqUKQ3qAQuRNKmeIpnf) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Americana](https://open.spotify.com/album/2RNTBrSO8U8XjjEj9RVvZ5) | 3:00 | 2021-05-19 |  |
 | [The Riddle](https://open.spotify.com/track/6sn3FHCq2csvNkq2h9Au8V) | [Nik Kershaw](https://open.spotify.com/artist/7kCL98rPFsNKjAHDmWrMac) | [The Riddle \(Expanded Edition\)](https://open.spotify.com/album/2CqELgQ8dNxGgBuIic49Gq) | 3:54 | 2021-05-19 | 2022-07-02 |
 | [There Is a Light That Never Goes Out \- 2011 Remaster](https://open.spotify.com/track/0WQiDwKJclirSYG9v5tayI) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [The Queen Is Dead](https://open.spotify.com/album/5Y0p2XCgRRIjna91aQE8q7) | 4:04 | 2021-05-19 |  |
+| [This Charming Man \- 2011 Remaster](https://open.spotify.com/track/1FvDJ9KGxcqwv1utyPL3JZ) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [The Smiths](https://open.spotify.com/album/6cI1XoZsOhkyrCwtuI70CN) | 2:42 | 2021-05-19 |  |
 | [Thunderstruck](https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [The Razors Edge](https://open.spotify.com/album/4vu7F6h90Br1ZtYYaqfITy) | 4:52 | 2021-05-19 |  |
 | [Tiny Dancer](https://open.spotify.com/track/2TVxnKdb3tqe1nhQWwwZCO) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Madman Across The Water](https://open.spotify.com/album/2OZbaW9tgO62ndm375lFZr) | 6:17 | 2021-05-19 |  |
 | [Tom Sawyer](https://open.spotify.com/track/1MkoCFGbhPQIDI5lRdAheQ) | [Rush](https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq) | [Moving Pictures \(2011 Remaster\)](https://open.spotify.com/album/3yBAvj1wgPEFbnUdgihqlR) | 4:36 | 2021-05-19 | 2022-07-28 |

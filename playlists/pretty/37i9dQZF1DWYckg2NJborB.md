@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYckg2NJborB.md) - [plain]
 
 > Suffering from writer's block? This collection of writerly and literature\-inspired songs might help!.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,345 likes - 50 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,339 likes - 50 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYckg2NJborB.md) - [plain]
 | 12 | [Sweet Ophelia](https://open.spotify.com/track/1jPZgfC9tWFNf7iBGdrTPV) | [Zella Day](https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6) | [Kicker](https://open.spotify.com/album/600XgAY1N6sRPVczmBogiF) | 3:09 |
 | 13 | [Lolita](https://open.spotify.com/track/696cNqpF2NwRLzC7KqCurz) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Born To Die \- The Paradise Edition](https://open.spotify.com/album/5PW8nAtvf2HV8RYZFd4IrX) | 3:40 |
 | 14 | [Ulysses](https://open.spotify.com/track/5sCjd47MEpd7vkvhYukANl) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Tonight](https://open.spotify.com/album/6ppF24fU5pqbPrPuK5zVnS) | 3:13 |
-| 15 | [Soma](https://open.spotify.com/track/6gU7ohksNd6LsEJMWfDRhp) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Is This It](https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE) | 2:33 |
-| 16 | [If I Could Write](https://open.spotify.com/track/6Rdmwrln6jrQGdRDHl246o) | [Sam Phillips](https://open.spotify.com/artist/6Epdio7Ic0zhZkhXHFc8qa) | [A Boot and a Shoe](https://open.spotify.com/album/5ga0Nw06TGpciOmL6T6qMS) | 2:18 |
+| 15 | [If I Could Write](https://open.spotify.com/track/6Rdmwrln6jrQGdRDHl246o) | [Sam Phillips](https://open.spotify.com/artist/6Epdio7Ic0zhZkhXHFc8qa) | [A Boot and a Shoe](https://open.spotify.com/album/5ga0Nw06TGpciOmL6T6qMS) | 2:18 |
+| 16 | [Soma](https://open.spotify.com/track/6gU7ohksNd6LsEJMWfDRhp) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Is This It](https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE) | 2:33 |
 | 17 | [Mr\. Writer](https://open.spotify.com/track/1D6dE2mMlGz3WN1gjKQ76E) | [Stereophonics](https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8) | [Just Enough Education To Perform](https://open.spotify.com/album/51I2N3YcrmqOJfzywty3l4) | 5:19 |
 | 18 | [Great American Novel](https://open.spotify.com/track/4ry2Jh7zMFRDzqOHil8prF) | [Max Jury](https://open.spotify.com/artist/3MuPVbFDynbq9zRTAqjRxi) | [Max Jury](https://open.spotify.com/album/4dylZZrQcKM84MAAmvkIlb) | 3:55 |
 | 19 | [All I Can Do Is Write About It](https://open.spotify.com/track/1xGkvw8sTnDujVFcMN6zvc) | [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0) | [Gimme Back My Bullets](https://open.spotify.com/album/7nl7cH6KtKcKU7I2Hj2gAM) | 4:16 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYckg2NJborB.md) - [plain]
 | 43 | [Shalott](https://open.spotify.com/track/1mCm0Tb2pLTlJ26SxqrAFY) | [Emilie Autumn](https://open.spotify.com/artist/1K6L6Hw4HibspToNP1FeBC) | [Opheliac \(The Deluxe Edition\)](https://open.spotify.com/album/7FDaA4N8rvotYVci2updNR) | 4:04 |
 | 44 | [Books Written For Girls](https://open.spotify.com/track/1f9jTXNHEKHANrZoalrIlx) | [Camera Obscura](https://open.spotify.com/artist/5gInJ5P5gQnOKPM3SUEVFt) | [Underachievers Please Try Harder](https://open.spotify.com/album/5d9FNx7UMLgfiGQGXU19jh) | 5:13 |
 | 45 | [Everyday I Write The Book](https://open.spotify.com/track/36F8DzJ1IP1m8C1h0CpIaz) | [Elvis Costello & The Attractions](https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH) | [The Best Of The First 10 Years](https://open.spotify.com/album/5ydDN9dDjtwauLG2vLVpsw) | 3:54 |
-| 46 | [Paperbag Writer](https://open.spotify.com/track/2VdQeSHJOxA1hk9PlOdWI9) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Com Lag: 2+2=5](https://open.spotify.com/album/5FI5652iVfs27I7zueBt6l) | 3:58 |
-| 47 | [The Writer](https://open.spotify.com/track/0uBWMWm5P6tuCiavbjPWS0) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Lights](https://open.spotify.com/album/4oVG376KpWeBaxrKqRxVri) | 4:11 |
+| 46 | [The Writer](https://open.spotify.com/track/0uBWMWm5P6tuCiavbjPWS0) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Lights](https://open.spotify.com/album/4oVG376KpWeBaxrKqRxVri) | 4:11 |
+| 47 | [Paperbag Writer](https://open.spotify.com/track/2VdQeSHJOxA1hk9PlOdWI9) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Com Lag: 2+2=5](https://open.spotify.com/album/5FI5652iVfs27I7zueBt6l) | 3:58 |
 | 48 | [Orpheo Looks Back](https://open.spotify.com/track/4JAMwBOzLF61hZVndX0oGQ) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [Break It Yourself](https://open.spotify.com/album/4t062fa39U8W9MBz1sdJjQ) | 4:53 |
 | 49 | [The Underwood Typewriter](https://open.spotify.com/track/2pzlZI4C3f1MSMg047bPI6) | [Fionn Regan](https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy) | [The End of History](https://open.spotify.com/album/3lFILJkKAjwlUdSz4wwW4b) | 3:01 |
 | 50 | [Harper Lee](https://open.spotify.com/track/5KWesyeHlejVprGxufFxtq) | [Little Green Cars](https://open.spotify.com/artist/2Vz3AN2wY3xjS2jCaGMVsy) | [Absolute Zero](https://open.spotify.com/album/6etgcx8zgTyaGJBXXweGsf) | 3:31 |
 
-Snapshot ID: `MTU1NTQxNDUzMiwwMDAwMDAwMGQ1YzU4NjhkN2RhMjNhNWViMWQ5MmRlOTE0MWUzYTdj`
+Snapshot ID: `MTU1NTQxNDUzMiwwMDAwMDAwMGYzMWMzZjJjMjg2ZTBmZDg4ZjUzZjhlMmUwY2YxNThk`

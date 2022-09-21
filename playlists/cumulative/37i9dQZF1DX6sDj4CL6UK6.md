@@ -4,7 +4,7 @@
 
 > Finest of the Indian English Indie\. Cover \-Parekh & Singh
 
-112 songs - 6 hr 33 min - [published](https://open.spotify.com/playlist/4hbRgfKnTzMsI4t17faPau)
+113 songs - 6 hr 36 min - [published](https://open.spotify.com/playlist/4hbRgfKnTzMsI4t17faPau)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Je Suis La Pomme Rouge](https://open.spotify.com/track/5HzPAB3IWjlH1KHDoTuv9P) | [Parekh & Singh](https://open.spotify.com/artist/5HyacDSdBkCTDOBoX49ayp) | [Je Suis La Pomme Rouge](https://open.spotify.com/album/071Ym9vm31HXWiF14VARnv) | 4:30 | 2022-03-25 |  |
 | [Jukebox Of History \- Title Track](https://open.spotify.com/track/5TckSQXTGcIBl17jE7yY0F) | [Hriday Gattani](https://open.spotify.com/artist/0xWGBvlwCBHAgXyR7TmPwp) | [Jukebox Of History](https://open.spotify.com/album/00xX5TjEFY70OoI3Vo1mXv) | 3:08 | 2022-05-06 | 2022-05-28 |
 | [Just A Word](https://open.spotify.com/track/4iP7HF6dhCmvXOk6pHnX9u) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Just A Word](https://open.spotify.com/album/6vsFUU0gYqbQVoV2tiz94v) | 3:00 | 2022-03-25 |  |
+| [Just As Easily](https://open.spotify.com/track/7k695jTLLrMiNnFnyRWDCN) | [Frizzell D'souza](https://open.spotify.com/artist/17j8WfojaUlIDrnDG7IfIQ) | [Just As Easily](https://open.spotify.com/album/4z4anMfIasayTBmyVIGlqa) | 3:09 | 2022-09-20 |  |
 | [Keep](https://open.spotify.com/track/4eYkUYICxHoejgygQmBZR9) | [Meghana Mokhasi](https://open.spotify.com/artist/1o2ZuDHSBbuSRRdPiBaSGW) | [Keep \- Single](https://open.spotify.com/album/0VlDd0PvwmbCvCZO4qGcK5) | 2:24 | 2022-03-25 |  |
 | [Lemonade](https://open.spotify.com/track/29YHCfHLkqLLWcf8GhPnA0) | [Sanjana Devarajan](https://open.spotify.com/artist/3kWyp6jo8u9mSrg4q5dxRr) | [Mood](https://open.spotify.com/album/1KKnwcyHAvHuNkQebSgkxN) | 2:49 | 2022-03-25 | 2022-06-21 |
 | [Love Drunk](https://open.spotify.com/track/7Lek6TgDH6aEi6jdDuEeaC) | [Faime](https://open.spotify.com/artist/6bNCZ9mUA7Qpg8Vu6WGox4) | [Love Drunk](https://open.spotify.com/album/4InhKcOEUc6o8aj9ty30lO) | 2:30 | 2022-03-25 |  |

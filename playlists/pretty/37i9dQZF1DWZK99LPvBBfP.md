@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZK99LPvBBfP.md) - [plain]
 
 > Club classics from the homeland of dance music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,301 likes - 50 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,476 likes - 50 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZK99LPvBBfP.md) - [plain]
 | 34 | [Music Is the Answer \- Original Extended 12\-Inch Mix](https://open.spotify.com/track/4n8YdXETqQ3NvWs5XNpvar) | [Celeda](https://open.spotify.com/artist/6eOBEYGx9M4t87osYMIakb), [Danny Tenaglia](https://open.spotify.com/artist/2tG935baRE4mH8B3saiwbm) | [Music Is the Answer \(Part 2\)](https://open.spotify.com/album/06DQnIInJxEezrxyFBHERC) | 14:09 |
 | 35 | [Situation](https://open.spotify.com/track/1QlogZxaAT35c3HqjJt1JH) | [Yazoo](https://open.spotify.com/artist/1G1mX30GpUJqOr1QU2eBSs) | [Upstairs At Eric's](https://open.spotify.com/album/47FOg0GaQDPGTbBTHDXg9V) | 5:46 |
 | 36 | [Natural Blues](https://open.spotify.com/track/5MIOomJuCJkfuf6mrHJu9H) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Play & Play: B Sides](https://open.spotify.com/album/3wRlU7n3LULfjL0e9RtB5Q) | 4:13 |
-| 37 | [Madan](https://open.spotify.com/track/5aoJnOhycrs0NtXomySi3e) | [Martin Solveig](https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [So Far](https://open.spotify.com/album/2lZokCz6x1j296NYepSBxB) | 4:50 |
-| 38 | [Saltwater](https://open.spotify.com/track/05c4AAJKIulqI8vQQ41Rch) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD), [Moya Brennan](https://open.spotify.com/artist/3ZvmmlF8EMEpnnK90jfuJv) | [Twenty](https://open.spotify.com/album/44vqzi1IjdNLJ6AtkTuzIh) | 3:22 |
+| 37 | [Saltwater](https://open.spotify.com/track/05c4AAJKIulqI8vQQ41Rch) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD), [Moya Brennan](https://open.spotify.com/artist/3ZvmmlF8EMEpnnK90jfuJv) | [Twenty](https://open.spotify.com/album/44vqzi1IjdNLJ6AtkTuzIh) | 3:22 |
+| 38 | [Madan](https://open.spotify.com/track/5aoJnOhycrs0NtXomySi3e) | [Martin Solveig](https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [So Far](https://open.spotify.com/album/2lZokCz6x1j296NYepSBxB) | 4:50 |
 | 39 | [Les Nuits](https://open.spotify.com/track/4P8qXnroR43S0xk0hmSbNs) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [Carboot Soul](https://open.spotify.com/album/5pwdeiIEpfn2TF7M1J21MR) | 6:20 |
 | 40 | [Love Story](https://open.spotify.com/track/3SdXO2B5AVG6BDHiS7dOH6) | [Layo & Bushwacka!](https://open.spotify.com/artist/4XO18kRHLT6F5RhomZGrpc) | [Night Works](https://open.spotify.com/album/7a25FtnvBLOmW6BA9444Wn) | 5:12 |
 | 41 | [State of Independence](https://open.spotify.com/track/3mZ6PVxWBhCycZxeEJQDNs) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [Donna Summer](https://open.spotify.com/album/5FrCkoFG25Zd6QVJTtviYW) | 5:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZK99LPvBBfP.md) - [plain]
 | 49 | [Body Language](https://open.spotify.com/track/2Q7DRtNo4Hc5AjmV0Xx8mf) | [M.A.N.D.Y.](https://open.spotify.com/artist/20O4Ik25BbWfWBz0kZtsxX), [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [Defected In The House Miami 2017](https://open.spotify.com/album/7KdDwh4tZOgArMJ5RVg6Bl) | 7:15 |
 | 50 | [Canoa](https://open.spotify.com/track/7yAqzJAp6RaOtiDL4MgKzx) | [DJ Gregory](https://open.spotify.com/artist/08P7D5oQ3HUmQ0Gjbw6nzR), [Gregor Salto](https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew) | [Canoa](https://open.spotify.com/album/4hpJ2yJGx1GM6j6qyT8fpt) | 9:06 |
 
-Snapshot ID: `MTY0OTg2MjE2MSwwMDAwMDAwMDM2NjA3ODA2OTczYjZiOWQ0ZWNiOGFkYjViZGI1NmY5`
+Snapshot ID: `MTY0OTg2MjE2MSwwMDAwMDAwMGRiY2IxMjFjZTE0ZjU5MzVkNzVmZDJhMmMwZDRjYTI2`

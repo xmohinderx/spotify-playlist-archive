@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnMiSD7sWFC.md) - [plain]
 
 > your guide for a peaceful night.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,931 likes - 80 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,047 likes - 80 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnMiSD7sWFC.md) - [plain]
 | 3 | [And It's Still Alright](https://open.spotify.com/track/2tRxHjEkdgGMv9kZbOyqOH) | [Nathaniel Rateliff](https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79) | [And It’s Still Alright](https://open.spotify.com/album/2bWrnSJNyGevb1pr2VYEGW) | 3:55 |
 | 4 | [Carry You](https://open.spotify.com/track/0u4rkpmNtgcFxYHepnVF4v) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Bathing Beach](https://open.spotify.com/album/4vGuMdwnxc6X8izbVS6MTN) | 4:33 |
 | 5 | [Truly Madly Deeply \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0ApIlfcdY0hVdVEVUyS2Zf) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Spotify Singles](https://open.spotify.com/album/4yLdDDVmXRbB5q2hFGac4t) | 3:10 |
-| 6 | [Nothing Arrived \- Live from Spotify London](https://open.spotify.com/track/0TQ8ZHFhrbH9I0WRjIzOCQ) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [Spotify Sessions](https://open.spotify.com/album/0hjao9hWIDjmUFDiW6Q59W) | 3:39 |
-| 7 | [Medicine](https://open.spotify.com/track/4TxJQDtvYHJcOBH6ONi6q2) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [Wild Youth](https://open.spotify.com/album/3k1RJDh4AnciWhtXm8fymT) | 4:18 |
+| 6 | [Medicine](https://open.spotify.com/track/4TxJQDtvYHJcOBH6ONi6q2) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [Wild Youth](https://open.spotify.com/album/3k1RJDh4AnciWhtXm8fymT) | 4:18 |
+| 7 | [Nothing Arrived \- Live from Spotify London](https://open.spotify.com/track/0TQ8ZHFhrbH9I0WRjIzOCQ) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [Spotify Sessions](https://open.spotify.com/album/0hjao9hWIDjmUFDiW6Q59W) | 3:39 |
 | 8 | [Call It Dreaming](https://open.spotify.com/track/1MxHIIzcTeFnaNsDGY3pfj) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Beast Epic](https://open.spotify.com/album/33zayrSBdboyCyGTjtQrsw) | 3:51 |
 | 9 | [Give Me A Minute](https://open.spotify.com/track/0d0iBmyaaywSWyEjN9NQla) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Give Me A Minute](https://open.spotify.com/album/2PullXMROSpzCdFdzEmFhy) | 2:37 |
 | 10 | [Between the Bars](https://open.spotify.com/track/3mtIUX9LrCpIUiAAv9SD4a) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Either/Or](https://open.spotify.com/album/6KMdn9HDIqcBPaaok0K34K) | 2:21 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnMiSD7sWFC.md) - [plain]
 | 46 | [The Wave](https://open.spotify.com/track/71Cqtvc1JltT8qRnnDd0RY) | [Bedouine](https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5) | [Waysides](https://open.spotify.com/album/6Vsrdh2ayCbJuyh6roVVri) | 3:45 |
 | 47 | [Horizon](https://open.spotify.com/track/0YZzt5PD7o4pS0wNzV6bNT) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Party](https://open.spotify.com/album/6wPvhV9G6irAbzpLCADP3K) | 4:09 |
 | 48 | [Woodpecker](https://open.spotify.com/track/0D5YcW57alDCPA6XQwwKcZ) | [Explosions In The Sky](https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p) | [Big Bend \(An Original Soundtrack for Public Television\)](https://open.spotify.com/album/7w3BcToSqLYL2z3HOgMWwv) | 2:05 |
-| 49 | [Waiting](https://open.spotify.com/track/5vnEI7lOTPqulXqBuV7o3w) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Waiting](https://open.spotify.com/album/1mtoKw1qiU13YdQkz5vgEe) | 3:32 |
-| 50 | [Grow into Love](https://open.spotify.com/track/52AthVA2opex8NcLSwtO8n) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Seasons of Change](https://open.spotify.com/album/74fRgN21qhhAQv43mbCJFq) | 2:42 |
+| 49 | [Grow into Love](https://open.spotify.com/track/52AthVA2opex8NcLSwtO8n) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Seasons of Change](https://open.spotify.com/album/74fRgN21qhhAQv43mbCJFq) | 2:42 |
+| 50 | [Waiting](https://open.spotify.com/track/5vnEI7lOTPqulXqBuV7o3w) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Waiting](https://open.spotify.com/album/1mtoKw1qiU13YdQkz5vgEe) | 3:32 |
 | 51 | [Blindsided](https://open.spotify.com/track/0lPCROErEeqqqzwRMMXJHR) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [True Love](https://open.spotify.com/album/1rUuIrTj6F1PHo3v9Vlbl6) | 3:42 |
 | 52 | [Try to Make a Fire Burn Again](https://open.spotify.com/track/7BIcO9nvZ2AdIfhZcXnTS7) | [Dawn Landes](https://open.spotify.com/artist/1wvqnNcuPa2TpcFvfh3co5) | [Bluebird](https://open.spotify.com/album/6vGalAgGwYwgFhENJOeFuN) | 3:02 |
 | 53 | [Dublin, Texas](https://open.spotify.com/track/2OhnZjTg7evaWdAtRJ5B1c) | [RF Shannon](https://open.spotify.com/artist/46CVdgJTvxMLcMqZ7YY0b5) | [Dublin, Texas](https://open.spotify.com/album/2yJ45g1GWeNubkv8o6wGPW) | 4:29 |
@@ -69,12 +69,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnMiSD7sWFC.md) - [plain]
 | 59 | [Surprise, Surprise](https://open.spotify.com/track/3dcHxeQx9i7SxLb2VpWQmA) | [Savannah Conley](https://open.spotify.com/artist/4iyGL0YdGnDUVbmuca9e2G) | [Surprise, Surprise](https://open.spotify.com/album/0R4kzJi947HKhzHKepxHwE) | 3:56 |
 | 60 | [Reach Out](https://open.spotify.com/track/5hVKXeJg1R9qGbrGW5eHNl) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c), [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Reach Out / Olympus](https://open.spotify.com/album/5cXWxz4WZUPtMIeSLK3HDL) | 3:43 |
 | 61 | [Farm](https://open.spotify.com/track/2C4ESQIc6lROCWKMwffsU6) | [Skullcrusher](https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD) | [Farm b/w Lift](https://open.spotify.com/album/7L0CdrL4wrljsZvpIB3yVK) | 4:43 |
-| 62 | [Thrift Store](https://open.spotify.com/track/73sQ8REIBnQfqg6ZHAgfoz) | [Bowerbirds](https://open.spotify.com/artist/4MoGkOmfK6oKi1Isc8Iv9m) | [Endless Chase: 2020 Singles](https://open.spotify.com/album/3Bwkxb1PPKKBK9ZRpBhsZ9) | 3:22 |
-| 63 | [Montana](https://open.spotify.com/track/3hcmDRD8Nz9aX9TqDMUy4b) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Moveys](https://open.spotify.com/album/5C66ZV77hQsUlhSIYJYcar) | 3:20 |
+| 62 | [Montana](https://open.spotify.com/track/3hcmDRD8Nz9aX9TqDMUy4b) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Moveys](https://open.spotify.com/album/5C66ZV77hQsUlhSIYJYcar) | 3:20 |
+| 63 | [Thrift Store](https://open.spotify.com/track/73sQ8REIBnQfqg6ZHAgfoz) | [Bowerbirds](https://open.spotify.com/artist/4MoGkOmfK6oKi1Isc8Iv9m) | [Endless Chase: 2020 Singles](https://open.spotify.com/album/3Bwkxb1PPKKBK9ZRpBhsZ9) | 3:22 |
 | 64 | [Tupperware](https://open.spotify.com/track/4NJb1w94F475aQXXE07I5N) | [Field Guide](https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz) | [Make Peace with That](https://open.spotify.com/album/69KtzbWEQ6c6bS7VkJBoRe) | 3:06 |
 | 65 | [New Auburn \(feat\. Anaïs Mitchell\)](https://open.spotify.com/track/3CGuLclpNF2xFTOoONWmQX) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [How Long Do You Think It's Gonna Last?](https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T) | 3:24 |
-| 66 | [You're Smiling \(But I Don't Believe You\)](https://open.spotify.com/track/7ajY0y3joEbeL1gZW4ujmR) | [Margaret Glaspy](https://open.spotify.com/artist/13YVfXddjRIUrubItJjadb) | [If & When](https://open.spotify.com/album/39VHhQwmza9iT3K3PuNHSU) | 3:33 |
-| 67 | [Air Forces](https://open.spotify.com/track/0FoUOS7ExFM2FmEuyGBxOP) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [When Smoke Rises](https://open.spotify.com/album/0iPWPiOsdGaWgcy9RMpvXw) | 3:09 |
+| 66 | [Air Forces](https://open.spotify.com/track/0FoUOS7ExFM2FmEuyGBxOP) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [When Smoke Rises](https://open.spotify.com/album/0iPWPiOsdGaWgcy9RMpvXw) | 3:09 |
+| 67 | [You're Smiling \(But I Don't Believe You\)](https://open.spotify.com/track/7ajY0y3joEbeL1gZW4ujmR) | [Margaret Glaspy](https://open.spotify.com/artist/13YVfXddjRIUrubItJjadb) | [If & When](https://open.spotify.com/album/39VHhQwmza9iT3K3PuNHSU) | 3:33 |
 | 68 | [Something To Believe In](https://open.spotify.com/track/79NCNvyJMKSCVSGQZjSLf4) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Who Are You Now](https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy) | 3:57 |
 | 69 | [I Can Go With You](https://open.spotify.com/track/2PRTaVpNOOIQSKuOqbjfSX) | [Sam Burton](https://open.spotify.com/artist/38uF92nRI3YmOAeocf4D6J) | [I Can Go With You](https://open.spotify.com/album/5CgAtDCY8HxQ0eyt4RQQCj) | 3:36 |
 | 70 | [Awake for the Sunrise](https://open.spotify.com/track/6f8Z7xDKhliHAqWpoFdYXr) | [Flock of Dimes](https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP) | [Head of Roses](https://open.spotify.com/album/3GQfoIqcz1eNgQXsPkzVk0) | 3:58 |
@@ -84,9 +84,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnMiSD7sWFC.md) - [plain]
 | 74 | [Shine](https://open.spotify.com/track/5ouMWwTXJfgTOiCvz6fbFX) | [The Ballroom Thieves](https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC) | [Clouds](https://open.spotify.com/album/3pg8vVz9dDzYdfQxgT9MCP) | 3:31 |
 | 75 | [Mint Condition](https://open.spotify.com/track/3k0YUWIovSt3e6BRsERRPA) | [Caroline Spence](https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE) | [Mint Condition](https://open.spotify.com/album/4zAQQvgbXyFJ5Hk20BF794) | 4:02 |
 | 76 | [Bed Head \- Acoustic](https://open.spotify.com/track/2d7DuVXlzYByepNPmQSejc) | [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f) | [Bed Head \(Acoustic\)](https://open.spotify.com/album/51adUeflIsXW7VBLulUd3M) | 4:03 |
-| 77 | [Seeing Things](https://open.spotify.com/track/4hbv9aipddzC45SYVXPc3K) | [Charlie Hickey](https://open.spotify.com/artist/4Ky0ZDJDfY7UBbTVYPyVKc) | [Count The Stairs](https://open.spotify.com/album/3SN77D9un4frOIHa3vbblM) | 3:34 |
-| 78 | [Ocotillo](https://open.spotify.com/track/6YAHre8n87f7WZUkZOMJPK) | [Loma](https://open.spotify.com/artist/4oCcCzMjKNCjQTzxtVlOJT) | [Don't Shy Away](https://open.spotify.com/album/7noRk0kA8noaDwLS8xy5U4) | 4:50 |
+| 77 | [Ocotillo](https://open.spotify.com/track/6YAHre8n87f7WZUkZOMJPK) | [Loma](https://open.spotify.com/artist/4oCcCzMjKNCjQTzxtVlOJT) | [Don't Shy Away](https://open.spotify.com/album/7noRk0kA8noaDwLS8xy5U4) | 4:50 |
+| 78 | [Seeing Things](https://open.spotify.com/track/4hbv9aipddzC45SYVXPc3K) | [Charlie Hickey](https://open.spotify.com/artist/4Ky0ZDJDfY7UBbTVYPyVKc) | [Count The Stairs](https://open.spotify.com/album/3SN77D9un4frOIHa3vbblM) | 3:34 |
 | 79 | [Close My Eyes](https://open.spotify.com/track/3bU8rIEuatTa7XjHl4Sw8f) | [Arthur Russell](https://open.spotify.com/artist/3iJJD5v7oIFUevW4N5w5cj) | [Love Is Overtaking Me](https://open.spotify.com/album/02WH3YQOSzeEwwZK1jQWjX) | 2:33 |
 | 80 | [If You Call](https://open.spotify.com/track/7pzTko8DSWv5UfoxXQ7p93) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf), [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [If You Call](https://open.spotify.com/album/0OY4ylUoapLz9T0UAy2t8K) | 5:47 |
 
-Snapshot ID: `MTY0MjAxMDMwNCwwMDAwMDAwMGUyYjJjMzk2OTFlNjczNDRiNDQ4MGI2OTU1YzdlN2U5`
+Snapshot ID: `MTY0MjAxMDMwNCwwMDAwMDAwMDEzZjdjMzhlZTg2YjZlZTEyZjc0Nzg4MmMxZWM1NTQ4`

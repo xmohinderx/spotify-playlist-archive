@@ -1,12 +1,12 @@
 {
   "description": "De Argentina para el mundo, los m\u00e1s destacados int\u00e9rpretes y compositores. Foto: Roxana Amed.",
-  "num_followers": 29029,
+  "num_followers": 29038,
   "original_name": "Jazz Argentino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY5MjQwMCwwMDAwMDAwMDNjOGM1OGFiN2IzZDk1ZDAwNDYwM2EwYTZjMmNhODZh",
+  "snapshot_id": "MTY2MjY5MjQwMCwwMDAwMDAwMDg3MjNmNTAzZTEyZGJlMTA0MDI1ZjdiMDIyOTk2MTg4",
   "tracks": [
     {
       "added_at": "2022-09-09 03:00:00",
@@ -431,6 +431,22 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
+        "name": "Camino",
+        "url": "https://open.spotify.com/album/6sIwEICZAmGjQqZ9UcRYsl"
+      },
+      "artists": [
+        {
+          "name": "Hern\u00e1n Jacinto",
+          "url": "https://open.spotify.com/artist/3waJSGCslQ87FHecJ3aRpl"
+        }
+      ],
+      "duration_ms": 220532,
+      "name": "Lago de Forma Mia",
+      "url": "https://open.spotify.com/track/4OSzjErsAek3EJ2spyisYI"
+    },
+    {
+      "added_at": "2022-09-09 03:00:00",
+      "album": {
         "name": "Acto 2",
         "url": "https://open.spotify.com/album/7xcvIRi7rTn5QSFqsR42HK"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 353220,
       "name": "Mi Elemento",
       "url": "https://open.spotify.com/track/6kdT5qRuBmiQDhegDgvkrU"
-    },
-    {
-      "added_at": "2022-09-09 03:00:00",
-      "album": {
-        "name": "Camino",
-        "url": "https://open.spotify.com/album/6sIwEICZAmGjQqZ9UcRYsl"
-      },
-      "artists": [
-        {
-          "name": "Hern\u00e1n Jacinto",
-          "url": "https://open.spotify.com/artist/3waJSGCslQ87FHecJ3aRpl"
-        }
-      ],
-      "duration_ms": 220532,
-      "name": "Lago de Forma Mia",
-      "url": "https://open.spotify.com/track/4OSzjErsAek3EJ2spyisYI"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -855,22 +855,6 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
-        "name": "Essence of Wes Montgomery (Live in Thelonious Club, Buenos Aires, Argentina)",
-        "url": "https://open.spotify.com/album/2Dmf8Z3soN83btDViX5IQH"
-      },
-      "artists": [
-        {
-          "name": "Valentino Jazz Bazar",
-          "url": "https://open.spotify.com/artist/4k7yksiXsWK7nHHn3H95fm"
-        }
-      ],
-      "duration_ms": 286109,
-      "name": "Full House - Live",
-      "url": "https://open.spotify.com/track/3Bl33BzVPmnsJhJpfS3cZc"
-    },
-    {
-      "added_at": "2022-09-09 03:00:00",
-      "album": {
         "name": "Sesiones 2017-2020",
         "url": "https://open.spotify.com/album/17NlLQlimG217X7OALtTSy"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 374748,
       "name": "Nublado",
       "url": "https://open.spotify.com/track/1kVLgCqLkgrBtCVgAJiXuC"
+    },
+    {
+      "added_at": "2022-09-09 03:00:00",
+      "album": {
+        "name": "Essence of Wes Montgomery (Live in Thelonious Club, Buenos Aires, Argentina)",
+        "url": "https://open.spotify.com/album/2Dmf8Z3soN83btDViX5IQH"
+      },
+      "artists": [
+        {
+          "name": "Valentino Jazz Bazar",
+          "url": "https://open.spotify.com/artist/4k7yksiXsWK7nHHn3H95fm"
+        }
+      ],
+      "duration_ms": 286109,
+      "name": "Full House - Live",
+      "url": "https://open.spotify.com/track/3Bl33BzVPmnsJhJpfS3cZc"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -919,22 +919,6 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
-        "name": "Rata",
-        "url": "https://open.spotify.com/album/43SsBBOs9JSbrLRE8zH32K"
-      },
-      "artists": [
-        {
-          "name": "Pipi Piazzolla Trio",
-          "url": "https://open.spotify.com/artist/3KqZLxxrzdxAlIqm4YMz4B"
-        }
-      ],
-      "duration_ms": 237240,
-      "name": "Aura",
-      "url": "https://open.spotify.com/track/2QF4GEpnQkVMPFKcHMgc3c"
-    },
-    {
-      "added_at": "2022-09-09 03:00:00",
-      "album": {
         "name": "El Jard\u00edn de Ord\u00f3\u00f1ez",
         "url": "https://open.spotify.com/album/7pa2jpIWS7mbAY2GBnuTDh"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 347200,
       "name": "Ordo\u0301n\u0303ez y Ernestina (o el Banquito de Ordo\u0301n\u0303ez)",
       "url": "https://open.spotify.com/track/0yFcvCGFCpZzmQP890rtSJ"
+    },
+    {
+      "added_at": "2022-09-09 03:00:00",
+      "album": {
+        "name": "Rata",
+        "url": "https://open.spotify.com/album/43SsBBOs9JSbrLRE8zH32K"
+      },
+      "artists": [
+        {
+          "name": "Pipi Piazzolla Trio",
+          "url": "https://open.spotify.com/artist/3KqZLxxrzdxAlIqm4YMz4B"
+        }
+      ],
+      "duration_ms": 237240,
+      "name": "Aura",
+      "url": "https://open.spotify.com/track/2QF4GEpnQkVMPFKcHMgc3c"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -995,22 +995,6 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
-        "name": "Viva Jujuy",
-        "url": "https://open.spotify.com/album/7zqBQINQuhtMbgHk7sZ8fm"
-      },
-      "artists": [
-        {
-          "name": "Arturo Puertas",
-          "url": "https://open.spotify.com/artist/68VGzNdHAbP0eDDdmyvNCZ"
-        }
-      ],
-      "duration_ms": 361280,
-      "name": "Viva Jujuy",
-      "url": "https://open.spotify.com/track/29MTjfwiZZ8wfAy5TUlQM5"
-    },
-    {
-      "added_at": "2022-09-09 03:00:00",
-      "album": {
         "name": "Onyx",
         "url": "https://open.spotify.com/album/5LhbsJBXOaqJe6NSTnXpj1"
       },
@@ -1027,18 +1011,18 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
-        "name": "Brilliant Corners",
-        "url": "https://open.spotify.com/album/1U7l8CHeLqBjDKVx4987C4"
+        "name": "Viva Jujuy",
+        "url": "https://open.spotify.com/album/7zqBQINQuhtMbgHk7sZ8fm"
       },
       "artists": [
         {
-          "name": "Pipi Piazzolla Trio",
-          "url": "https://open.spotify.com/artist/3KqZLxxrzdxAlIqm4YMz4B"
+          "name": "Arturo Puertas",
+          "url": "https://open.spotify.com/artist/68VGzNdHAbP0eDDdmyvNCZ"
         }
       ],
-      "duration_ms": 104195,
-      "name": "Brilliant Corners",
-      "url": "https://open.spotify.com/track/2fFSR3ZclE7Tid8nk2iQUI"
+      "duration_ms": 361280,
+      "name": "Viva Jujuy",
+      "url": "https://open.spotify.com/track/29MTjfwiZZ8wfAy5TUlQM5"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -1055,6 +1039,22 @@
       "duration_ms": 319386,
       "name": "Superestrella",
       "url": "https://open.spotify.com/track/4jB6brPwacdWQsRVBHMZGO"
+    },
+    {
+      "added_at": "2022-09-09 03:00:00",
+      "album": {
+        "name": "Brilliant Corners",
+        "url": "https://open.spotify.com/album/1U7l8CHeLqBjDKVx4987C4"
+      },
+      "artists": [
+        {
+          "name": "Pipi Piazzolla Trio",
+          "url": "https://open.spotify.com/artist/3KqZLxxrzdxAlIqm4YMz4B"
+        }
+      ],
+      "duration_ms": 104195,
+      "name": "Brilliant Corners",
+      "url": "https://open.spotify.com/track/2fFSR3ZclE7Tid8nk2iQUI"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -1099,26 +1099,6 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
-        "name": "Algo Bueno - Something Good",
-        "url": "https://open.spotify.com/album/7w52y2XkpM2gdI9u3XwMI5"
-      },
-      "artists": [
-        {
-          "name": "Marta Bellomo",
-          "url": "https://open.spotify.com/artist/7x3oAEeK0qQgiuTNbHBFFm"
-        },
-        {
-          "name": "Alejandro Moro",
-          "url": "https://open.spotify.com/artist/38VjOepx14QeNPXXYucLt8"
-        }
-      ],
-      "duration_ms": 572278,
-      "name": "Estate",
-      "url": "https://open.spotify.com/track/15lMmbejFNbJJFuq8Q0U2N"
-    },
-    {
-      "added_at": "2022-09-09 03:00:00",
-      "album": {
         "name": "Corre Ni\u00f1a",
         "url": "https://open.spotify.com/album/5g0VVvKVm6kcqxr7dizJLf"
       },
@@ -1139,22 +1119,22 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
-        "name": "El Ombligo de un Sue\u00f1o",
-        "url": "https://open.spotify.com/album/5WIyPkKZAMMCnzohJQMxkH"
+        "name": "Algo Bueno - Something Good",
+        "url": "https://open.spotify.com/album/7w52y2XkpM2gdI9u3XwMI5"
       },
       "artists": [
         {
-          "name": "Ernesto Amstein",
-          "url": "https://open.spotify.com/artist/3RtoD2Lg2AMClwewzI109w"
+          "name": "Marta Bellomo",
+          "url": "https://open.spotify.com/artist/7x3oAEeK0qQgiuTNbHBFFm"
         },
         {
-          "name": "Gabriel Domenicucci",
-          "url": "https://open.spotify.com/artist/0RVTCxjrWgfnzamvKD61G0"
+          "name": "Alejandro Moro",
+          "url": "https://open.spotify.com/artist/38VjOepx14QeNPXXYucLt8"
         }
       ],
-      "duration_ms": 324506,
-      "name": "Pretos",
-      "url": "https://open.spotify.com/track/3qU2fhuzoTAHUkKtdcnz1H"
+      "duration_ms": 572278,
+      "name": "Estate",
+      "url": "https://open.spotify.com/track/15lMmbejFNbJJFuq8Q0U2N"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -1187,6 +1167,26 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
+        "name": "El Ombligo de un Sue\u00f1o",
+        "url": "https://open.spotify.com/album/5WIyPkKZAMMCnzohJQMxkH"
+      },
+      "artists": [
+        {
+          "name": "Ernesto Amstein",
+          "url": "https://open.spotify.com/artist/3RtoD2Lg2AMClwewzI109w"
+        },
+        {
+          "name": "Gabriel Domenicucci",
+          "url": "https://open.spotify.com/artist/0RVTCxjrWgfnzamvKD61G0"
+        }
+      ],
+      "duration_ms": 324506,
+      "name": "Pretos",
+      "url": "https://open.spotify.com/track/3qU2fhuzoTAHUkKtdcnz1H"
+    },
+    {
+      "added_at": "2022-09-09 03:00:00",
+      "album": {
         "name": "El Sapo Argentino de Boca Ancha",
         "url": "https://open.spotify.com/album/5IKVW5aNCv3eyoBUM0qENX"
       },
@@ -1199,26 +1199,6 @@
       "duration_ms": 419426,
       "name": "Tatami",
       "url": "https://open.spotify.com/track/2o08Et8AGn8tEusatrFYAJ"
-    },
-    {
-      "added_at": "2022-09-09 03:00:00",
-      "album": {
-        "name": "I Remember Clifford",
-        "url": "https://open.spotify.com/album/19YMIWrZTWuSDYzxlzRIqY"
-      },
-      "artists": [
-        {
-          "name": "Hugo Lobo",
-          "url": "https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN"
-        },
-        {
-          "name": "Facundo Canosa",
-          "url": "https://open.spotify.com/artist/6MorVkOyr0Yc097YejqTiS"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "I Remember Clifford",
-      "url": "https://open.spotify.com/track/71xGulRFIDEs2gqk6fSSz2"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -1243,6 +1223,26 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
+        "name": "I Remember Clifford",
+        "url": "https://open.spotify.com/album/19YMIWrZTWuSDYzxlzRIqY"
+      },
+      "artists": [
+        {
+          "name": "Hugo Lobo",
+          "url": "https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN"
+        },
+        {
+          "name": "Facundo Canosa",
+          "url": "https://open.spotify.com/artist/6MorVkOyr0Yc097YejqTiS"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "I Remember Clifford",
+      "url": "https://open.spotify.com/track/71xGulRFIDEs2gqk6fSSz2"
+    },
+    {
+      "added_at": "2022-09-09 03:00:00",
+      "album": {
         "name": "Enero",
         "url": "https://open.spotify.com/album/6zuBb3nDs2lQSjwfjQtu4b"
       },
@@ -1255,26 +1255,6 @@
       "duration_ms": 412693,
       "name": "Cero",
       "url": "https://open.spotify.com/track/1mMzrMwcexRJe5PNMTJISZ"
-    },
-    {
-      "added_at": "2022-09-09 03:00:00",
-      "album": {
-        "name": "80 A\u00f1os - Jazztar\u00edaenbaterita",
-        "url": "https://open.spotify.com/album/4VeDizEy0EEcVNoWVV9MRo"
-      },
-      "artists": [
-        {
-          "name": "Nestor Astarita",
-          "url": "https://open.spotify.com/artist/45y1rWlUfzQmyR3RLCHF3x"
-        },
-        {
-          "name": "Gato Barbieri",
-          "url": "https://open.spotify.com/artist/7dXBi98p0mN5JCpBnU0XEm"
-        }
-      ],
-      "duration_ms": 413595,
-      "name": "Equinox",
-      "url": "https://open.spotify.com/track/0dZPiN3FTuvYDJtFyFUdqQ"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -1295,6 +1275,42 @@
       "duration_ms": 341695,
       "name": "Way You Look Tonight The",
       "url": "https://open.spotify.com/track/2o3fntRoRh42nT7PxHFZta"
+    },
+    {
+      "added_at": "2022-09-09 03:00:00",
+      "album": {
+        "name": "En Las Afueras",
+        "url": "https://open.spotify.com/album/3HFpmU9TMoadAv0ZX2N6my"
+      },
+      "artists": [
+        {
+          "name": "Pat Nu\u00f1o",
+          "url": "https://open.spotify.com/artist/273KEzVbjsjzo9q8bb3SiN"
+        }
+      ],
+      "duration_ms": 230133,
+      "name": "Caminando Con Aud\u00edfonos",
+      "url": "https://open.spotify.com/track/3JYHW0mhebs5DIgmaJu6Im"
+    },
+    {
+      "added_at": "2022-09-09 03:00:00",
+      "album": {
+        "name": "80 A\u00f1os - Jazztar\u00edaenbaterita",
+        "url": "https://open.spotify.com/album/4VeDizEy0EEcVNoWVV9MRo"
+      },
+      "artists": [
+        {
+          "name": "Nestor Astarita",
+          "url": "https://open.spotify.com/artist/45y1rWlUfzQmyR3RLCHF3x"
+        },
+        {
+          "name": "Gato Barbieri",
+          "url": "https://open.spotify.com/artist/7dXBi98p0mN5JCpBnU0XEm"
+        }
+      ],
+      "duration_ms": 413595,
+      "name": "Equinox",
+      "url": "https://open.spotify.com/track/0dZPiN3FTuvYDJtFyFUdqQ"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -1371,22 +1387,6 @@
       "duration_ms": 408293,
       "name": "I Should Care",
       "url": "https://open.spotify.com/track/7DwkKNQ3dAruurDpRyCHiH"
-    },
-    {
-      "added_at": "2022-09-09 03:00:00",
-      "album": {
-        "name": "En Las Afueras",
-        "url": "https://open.spotify.com/album/3HFpmU9TMoadAv0ZX2N6my"
-      },
-      "artists": [
-        {
-          "name": "Pat Nu\u00f1o",
-          "url": "https://open.spotify.com/artist/273KEzVbjsjzo9q8bb3SiN"
-        }
-      ],
-      "duration_ms": 230133,
-      "name": "Caminando Con Aud\u00edfonos",
-      "url": "https://open.spotify.com/track/3JYHW0mhebs5DIgmaJu6Im"
     },
     {
       "added_at": "2022-09-09 03:00:00",

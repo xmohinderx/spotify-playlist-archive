@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8n42306eJB.md) - [plain]
 
 > Good vibes for good times!
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,711 likes - 71 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,735 likes - 71 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8n42306eJB.md) - [plain]
 | 67 | [It's You \(feat\. Three Houses Down\)](https://open.spotify.com/track/1FyKp56vQSgm98NBdvs1fA) | [General Fiyah](https://open.spotify.com/artist/4dnsfuI3oozEl16wEcsPc8), [Three Houses Down](https://open.spotify.com/artist/0qWNlZpLfAYDbEVEHAAllv) | [It's You \(feat\. Three Houses Down\)](https://open.spotify.com/album/66oMqt96CJRCKQl3RpyTO1) | 3:19 |
 | 68 | [Sunshine Girl](https://open.spotify.com/track/4RjHalDdUreXDJSJLo44lK) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Peetah Morgan](https://open.spotify.com/artist/6TP4fQvAG9uXcPgHEpPriw) | [Backyard Boogie](https://open.spotify.com/album/7oyBRhMZuVDSdDk7uQOGzI) | 3:37 |
 | 69 | [If I Ever \(feat\. J Boog\)](https://open.spotify.com/track/24QYLOpc7vYphfSk89ZEeg) | [Jah Maoli](https://open.spotify.com/artist/1xr92u8uPinpRXsjZbgGKw) | [If I Ever \(feat\. J Boog\) \- Single](https://open.spotify.com/album/5i8MnTWpHcGZdO6F775dWE) | 4:42 |
-| 70 | [My Baby](https://open.spotify.com/track/0I0BvzTJDO8KR61k9rWVGP) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B IV](https://open.spotify.com/album/6PPhLgXiq4nEiZ8x2ZB3xV) | 3:56 |
+| 70 | [My Baby](https://open.spotify.com/track/784sJR2S68F1joSvINXhe0) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B IV](https://open.spotify.com/album/15CViSIGJXmn2dn0Tt1wm1) | 3:56 |
 | 71 | [Rhythm in My Soul](https://open.spotify.com/track/1U9GsSNJ2gypyLCRbbvNa1) | [Unity Pacific](https://open.spotify.com/artist/0e0rH9Exdpkq3d7ZSi9VN5) | [Into the Dread](https://open.spotify.com/album/0XUxsYbbxTmkhzMAA9YeTe) | 6:16 |
 
-Snapshot ID: `MTY1OTgzMzY0MSwwMDAwMDAwMDYxMmE5YzExMDAxYWNmNzFiYjg3OTQ5MjUxZDY0NzEy`
+Snapshot ID: `MTY1OTgzMzY0MSwwMDAwMDAwMGQyNmU5ODBmNjQ2M2NkZjc4Yzg3YTM3OWEwOTYyNGI1`

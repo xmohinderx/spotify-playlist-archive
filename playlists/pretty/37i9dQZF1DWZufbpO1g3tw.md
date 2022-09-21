@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZufbpO1g3tw.md) - [plain]
 
 > ¡Trompetas, piano y timbal para darle sazón a tu mediodía!
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,569 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,580 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZufbpO1g3tw.md) - [plain]
 | 19 | [Cumbia del Monte Fuji](https://open.spotify.com/track/24fMHoWCFcyuuSDbHWzbPc) | [Frente Cumbiero](https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6), [Minyo Crusaders](https://open.spotify.com/artist/1zpJ58qKOgKcWge9iaFxHG) | [Cumbia del Monte Fuji](https://open.spotify.com/album/4QajQb50l0ry5S3dcl2SVo) | 4:24 |
 | 20 | [Pájaro Cenzontle](https://open.spotify.com/track/3QYQIrQ5ccLToSwFJ1cZcW) | [Son Rompe Pera](https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V) | [Batuco](https://open.spotify.com/album/3M8Eepfnzl2kaKyBVqjguX) | 3:40 |
 | 21 | [Los sabanales](https://open.spotify.com/track/31GD3gDTI7PYt6Dulr1wvh) | [Los Corraleros De Majagual](https://open.spotify.com/artist/4gUlOT8yUtjFDWKlkEpLI4) | [The Afrosound Of Colombia Volume 1](https://open.spotify.com/album/7GuPa60Lh3Wlls5rMGpOJf) | 2:43 |
-| 22 | [Chango](https://open.spotify.com/track/6X2qyN9UIXitH2UtIOZ85C) | [Ska Cubano](https://open.spotify.com/artist/6lmoqMxughzdlxvQTsUXjF) | [Ska Cubano](https://open.spotify.com/album/1Sry0mamK4yz2Khmmtm1DA) | 3:38 |
-| 23 | [Para Elisa](https://open.spotify.com/track/6t6QEaiKAXtVOORoNbGR9O) | [Los Destellos](https://open.spotify.com/artist/2xfdrsA1TWrKlaEfQQbbmf) | [En Orbita](https://open.spotify.com/album/0jzpJgWjBGLxQsGbwKT7TB) | 2:49 |
+| 22 | [Para Elisa](https://open.spotify.com/track/6t6QEaiKAXtVOORoNbGR9O) | [Los Destellos](https://open.spotify.com/artist/2xfdrsA1TWrKlaEfQQbbmf) | [En Orbita](https://open.spotify.com/album/0jzpJgWjBGLxQsGbwKT7TB) | 2:49 |
+| 23 | [Chango](https://open.spotify.com/track/6X2qyN9UIXitH2UtIOZ85C) | [Ska Cubano](https://open.spotify.com/artist/6lmoqMxughzdlxvQTsUXjF) | [Ska Cubano](https://open.spotify.com/album/1Sry0mamK4yz2Khmmtm1DA) | 3:38 |
 | 24 | [El Aguajal](https://open.spotify.com/track/7nOD24bJ7hchHuwVpT9y9z) | [Los Shapis](https://open.spotify.com/artist/3LorjMdYWKEtf3wdNtjM6v) | [Los Auténticos](https://open.spotify.com/album/4sd3JQ7mufYwKdNNtYzc0B) | 3:50 |
 | 25 | [Nariz Con Raíz](https://open.spotify.com/track/5ijJhZPMHeDljcpmgC2lLp) | [Briela Ojeda](https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo) | [TEMPLO KOMODO](https://open.spotify.com/album/0ju8Ri6jnaQllxgAnkoPXA) | 5:10 |
 | 26 | [Cumbia Sobre el Mar](https://open.spotify.com/track/0xi0Z6QaaoeHWPahfTiISG) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Flowering Inferno](https://open.spotify.com/artist/2JLqcc3mwS4Xf7xZuYwK0p) | [Dog With a Rope](https://open.spotify.com/album/1DKfTnMLIUo2yXXSrfwVNH) | 6:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZufbpO1g3tw.md) - [plain]
 | 49 | [Para Elisa](https://open.spotify.com/track/4cu1KDI2JSaf6lQbUlzDlX) | [Los Hermanos Zañartu](https://open.spotify.com/artist/3eZmniklmCQj7Jn6i6alvI) | [Enrique Delgado \(feat\. Enrique Delgado Montes\)](https://open.spotify.com/album/62Q0yW6XbxNtuJDOc6ohyj) | 2:48 |
 | 50 | [Sonido Amazonico](https://open.spotify.com/track/30XzPuJXYZrPF2jx89SQG1) | [Chicha Libre](https://open.spotify.com/artist/1eiodDx0lIftKNviQGG95x) | [Sonido Amazonico](https://open.spotify.com/album/0p5Iiuaj58qCxzMYqgP7B1) | 4:17 |
 
-Snapshot ID: `MTY1MDQzMDgwMCwwMDAwMDAwMDE0ZDMyNDMxZWE2MTRhYTM1ZTVmN2MwYjhmOTZlZWUy`
+Snapshot ID: `MTY1MDQzMDgwMCwwMDAwMDAwMDgyZDUyNTQwYjYxZmE2MmNjNWUxNGQ3M2IyNTA0NDEz`

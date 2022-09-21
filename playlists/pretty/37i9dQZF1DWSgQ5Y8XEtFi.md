@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgQ5Y8XEtFi.md) - [plain]
 
 > songs that break bones
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,981 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,524 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgQ5Y8XEtFi.md) - [plain]
 | 17 | [Punk Tactics](https://open.spotify.com/track/2KBYPTSTHjYYOPACrFTkPy) | [Joey Valence & Brae](https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh) | [Punk Tactics](https://open.spotify.com/album/7pG2QdrVFNTid1hqezx5dH) | 2:23 |
 | 18 | [DIVE IN!](https://open.spotify.com/track/192DMwgDbgS8ghTKc0ACWq) | [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d) | [DIVE IN! \(SPED UP! / SLOWED REVERB!\)](https://open.spotify.com/album/4IGyRFgzpVUXtcFdhUGiLP) | 1:40 |
 | 19 | [See Me Fall \- Y2K Remix](https://open.spotify.com/track/5MLreTrtwv7fGyyAy0RyeB) | [Ro Ransom](https://open.spotify.com/artist/5tLx2xpkiHdzvX9CIymCfR), [Y2K](https://open.spotify.com/artist/6USMTwO0MNDnKte5a5h0xx) | [Momentum \(Mixtape\)](https://open.spotify.com/album/20ZH0IHnyBagQUmOGcAHmp) | 3:21 |
-| 20 | [Stick \(with JID & J\. Cole feat\. Kenny Mason & Sheck Wes\)](https://open.spotify.com/track/1BzXvBpIFWJgu0P8P6xmP4) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv), [Sheck Wes](https://open.spotify.com/artist/2RDOrhPqAM4jzTRCEb19qX) | [D\-Day: A Gangsta Grillz Mixtape](https://open.spotify.com/album/3tFjhFPqGhhLrCULnPu7Wy) | 5:09 |
-| 21 | [Talk](https://open.spotify.com/track/0oO1AbL92F6329z13C2qQH) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Lyfë](https://open.spotify.com/album/6Xo2PDEoQKzCndIbks2kvu) | 2:54 |
+| 20 | [Talk](https://open.spotify.com/track/0oO1AbL92F6329z13C2qQH) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Lyfë](https://open.spotify.com/album/6Xo2PDEoQKzCndIbks2kvu) | 2:54 |
+| 21 | [Stick \(with JID & J\. Cole feat\. Kenny Mason & Sheck Wes\)](https://open.spotify.com/track/1BzXvBpIFWJgu0P8P6xmP4) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv), [Sheck Wes](https://open.spotify.com/artist/2RDOrhPqAM4jzTRCEb19qX) | [D\-Day: A Gangsta Grillz Mixtape](https://open.spotify.com/album/3tFjhFPqGhhLrCULnPu7Wy) | 5:09 |
 | 22 | [Icon](https://open.spotify.com/track/22nyEAEM29tcBRhukR089b) | [Jaden](https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT) | [SYRE](https://open.spotify.com/album/4IFpj2jyRcugt1yzH82m3E) | 3:40 |
 | 23 | [151 Rum](https://open.spotify.com/track/22WV03i2lBbwNVCE1g671p) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [DiCaprio 2](https://open.spotify.com/album/2oI6gtIXrvNiL2VEMmj5kY) | 2:36 |
 | 24 | [GOODMORNINGTOKYO!](https://open.spotify.com/track/0Q2n5yzl2XRqYbV77tZNYp) | [TOKYO’S REVENGE](https://open.spotify.com/artist/5TbLOwv8BNnik3f03NZJlt) | [GOODMORNINGTOKYO!](https://open.spotify.com/album/2P4n4HSzB7ZHocIaIp96bD) | 2:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgQ5Y8XEtFi.md) - [plain]
 | 49 | [BLACKOUT](https://open.spotify.com/track/0bGImSqDB2ebdeoCidUC8o) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [GLOW ON](https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS) | 2:53 |
 | 50 | [SIMP](https://open.spotify.com/track/7uIrdhnGQw7bZSR2ygopuX) | [Full Tac](https://open.spotify.com/artist/5ZXkHp732tYHIzqctoZP0E), [Lil Mariko](https://open.spotify.com/artist/1ZRRl4S2B4xZBzHtIf65Jx), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [SIMP](https://open.spotify.com/album/4SR1C8HMMnFHpcU4cDGlRa) | 3:00 |
 
-Snapshot ID: `MTY2MzU5ODA1MSwwMDAwMDAwMDg2M2Y2YjZhMmMxNDI4YTIxMjk2OTliNzM1YzRlNTg1`
+Snapshot ID: `MTY2MzU5ODA1MSwwMDAwMDAwMDMwMDVhM2E5NTU0ZTg3NmYwNDg0YWQ2ZDdkYTczNGY0`

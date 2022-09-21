@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XbKgPOSda8.md) - [plain]
 
 > ¡Oi nomás ese cumbión!
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,609 likes - 100 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,748 likes - 100 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XbKgPOSda8.md) - [plain]
 | 43 | [El Baile de San Juan](https://open.spotify.com/track/25KUL02kWrFzEVhANo0ESg) | [Grupo La Chomba](https://open.spotify.com/artist/1PU5TO9w2QczOKNvSjtctd) | [El Baile de San Juan](https://open.spotify.com/album/6I3BGNjjCmPZ6NKvB9krta) | 4:14 |
 | 44 | [Mariana](https://open.spotify.com/track/4xFjlFkQ4zrPKGhCwe6vNW) | [Grupo Fragancia](https://open.spotify.com/artist/0rWMayP5qWv4dno1JFiwtj) | [Los Mejores Hits del Ano](https://open.spotify.com/album/60kUtdHaTgEfTFESmWUlcV) | 3:17 |
 | 45 | [Conga Y Timbal](https://open.spotify.com/track/7hEGGwLjfVZ83avJgpt4Fc) | [Los Yaguarú](https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ) | [Conga Y Timbal](https://open.spotify.com/album/5Lzi3hgh55BuQEj1RsD2VO) | 3:39 |
-| 46 | [El Amor de la Nena](https://open.spotify.com/track/4B0wSQuEJDmpKyYBtkxqxw) | [Grupo Que Nota](https://open.spotify.com/artist/3mJJNmthWhmdkuyfzYDsGv) | [20 Exitos Originales 20](https://open.spotify.com/album/4Xgd2qnCo2yu3dQEbMdvXA) | 4:37 |
-| 47 | [Cumbia Francesa](https://open.spotify.com/track/6gcI2byXyIPQM2tFybviuo) | [Grupo Saya](https://open.spotify.com/artist/2T6hbG0qQTyZglPgH7UEMP) | [Sólo Éxitos](https://open.spotify.com/album/5hfRoSTXSY1sISkQTVc0nn) | 3:40 |
+| 46 | [Cumbia Francesa](https://open.spotify.com/track/6gcI2byXyIPQM2tFybviuo) | [Grupo Saya](https://open.spotify.com/artist/2T6hbG0qQTyZglPgH7UEMP) | [Sólo Éxitos](https://open.spotify.com/album/5hfRoSTXSY1sISkQTVc0nn) | 3:40 |
+| 47 | [El Amor de la Nena](https://open.spotify.com/track/4B0wSQuEJDmpKyYBtkxqxw) | [Grupo Que Nota](https://open.spotify.com/artist/3mJJNmthWhmdkuyfzYDsGv) | [20 Exitos Originales 20](https://open.spotify.com/album/4Xgd2qnCo2yu3dQEbMdvXA) | 4:37 |
 | 48 | [Agua De Vida](https://open.spotify.com/track/6eL8Ej7iJqv7NOPoY7bC8Z) | [Grupo Perla Colombiana](https://open.spotify.com/artist/559JHjpDxj6SYy8kwGoa5V) | [Agua De Vida](https://open.spotify.com/album/7I9KOeQ3uj3CMRcRg5Sf2l) | 3:34 |
 | 49 | [El Gigante De Hierro](https://open.spotify.com/track/4HswuCNDyzUiRFfb8DH5Ub) | [Grupo Sonador](https://open.spotify.com/artist/2EliUhznUrwHp1yJvhlHQF) | [Lo Nuevo Y…Lo Mejor](https://open.spotify.com/album/7qIY0P5qM0LzI1SYx9r8dZ) | 3:36 |
 | 50 | [La Monjita Voladora \- Cumbia Sonidera](https://open.spotify.com/track/24zP7HDzOD078cjG0q61i3) | [Grupo Toca Recio](https://open.spotify.com/artist/1j98coEFrGNwVfl7gGMO7u) | [La Monjita Voladora \- Cumbia Sonidera](https://open.spotify.com/album/7HxXxjI6VekYFOUtJL7n2V) | 4:09 |
@@ -66,9 +66,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XbKgPOSda8.md) - [plain]
 | 56 | [Me Vas A Recordar](https://open.spotify.com/track/4C2vKZ0tciewPr6RrYZ4QD) | [Los Angeles De Charly](https://open.spotify.com/artist/0fdpJLsenUo15X3dPPWJSR) | [La Magia Del Amor](https://open.spotify.com/album/5a8Au4FTsdvCWYV5OnkjzN) | 3:00 |
 | 57 | [El Verde De Tus Ojos \- Remix](https://open.spotify.com/track/1Nl4EXAxSulKlbiro793i4) | [Los Yes Yes](https://open.spotify.com/artist/6h9B8wche8pbvJ0wiWKn8q) | [Trayectoria](https://open.spotify.com/album/0YtGKnOCOt9IYnHDsuJwQt) | 5:15 |
 | 58 | [¡Ay! El Amor](https://open.spotify.com/track/1qwxoareNYzR62kM9iK9Ww) | [Los Askis](https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi) | [Amor Andino](https://open.spotify.com/album/0UtZKdJlBaxmdAUNaAm7r8) | 3:33 |
-| 59 | [Destilando Amor](https://open.spotify.com/track/6Gi35T5449ZbiGpzn9cfBl) | [Aaron Y Su Grupo Ilusion](https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ) | [Destilando Amor](https://open.spotify.com/album/0Hkn7bDEG0kyUxI6gQdHzB) | 3:34 |
-| 60 | [Mami \(Angel De Paz\)](https://open.spotify.com/track/6Ty47iTpofWm0kytiMddq9) | [Andikiru](https://open.spotify.com/artist/7lVcmAxMvrV6ALiIKnNp8o) | [Sueño Contigo](https://open.spotify.com/album/6g6KhEpDtyvSFyoUXk9g2O) | 3:31 |
-| 61 | [La Cumbia De La Cerveza](https://open.spotify.com/track/2J0QDG9aKp41dl3nT9d9IQ) | [Grupo Sonador](https://open.spotify.com/artist/2EliUhznUrwHp1yJvhlHQF) | [Lo Nuevo Y…Lo Mejor](https://open.spotify.com/album/7qIY0P5qM0LzI1SYx9r8dZ) | 2:49 |
+| 59 | [La Cumbia De La Cerveza](https://open.spotify.com/track/2J0QDG9aKp41dl3nT9d9IQ) | [Grupo Sonador](https://open.spotify.com/artist/2EliUhznUrwHp1yJvhlHQF) | [Lo Nuevo Y…Lo Mejor](https://open.spotify.com/album/7qIY0P5qM0LzI1SYx9r8dZ) | 2:49 |
+| 60 | [Destilando Amor](https://open.spotify.com/track/6Gi35T5449ZbiGpzn9cfBl) | [Aaron Y Su Grupo Ilusion](https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ) | [Destilando Amor](https://open.spotify.com/album/0Hkn7bDEG0kyUxI6gQdHzB) | 3:34 |
+| 61 | [Mami \(Angel De Paz\)](https://open.spotify.com/track/6Ty47iTpofWm0kytiMddq9) | [Andikiru](https://open.spotify.com/artist/7lVcmAxMvrV6ALiIKnNp8o) | [Sueño Contigo](https://open.spotify.com/album/6g6KhEpDtyvSFyoUXk9g2O) | 3:31 |
 | 62 | [Nunca Pense Llorar](https://open.spotify.com/track/3oXF0sRycbyJUDRd5BqTUw) | [Rossy War y Su Banda Kaliente](https://open.spotify.com/artist/04laTTTa6l3hNn8a1EG7UQ) | [Como un Dulce Poema, Vol\. 3](https://open.spotify.com/album/0XdMiGlG64yiq2Np190XbY) | 4:09 |
 | 63 | [Llorando Se Fue "Lambada"](https://open.spotify.com/track/2X5nEYIzulPNs3abgszxXH) | [Cuarteto Continental de Alberto Maraví](https://open.spotify.com/artist/22YXWmEIyYQ4UL4j4QsHyq) | [El Auténtico e Imbatible](https://open.spotify.com/album/2wNHVSeBDQLAl1WT8tBw62) | 3:28 |
 | 64 | [El Hombre Que Yo Amo](https://open.spotify.com/track/3bukaSKEeFiyYx9JfgiqYf) | [Sonora Tropicana](https://open.spotify.com/artist/0XKgjkHamDZy6obrO52fIs) | [Tesoros De Coleccion](https://open.spotify.com/album/7g5bfjbwzzYDTXFqBXaGfn) | 4:07 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XbKgPOSda8.md) - [plain]
 | 79 | [Amor Carnal](https://open.spotify.com/track/2BvixI7ri9MTF60jLSZLGW) | [Grupo Karo's](https://open.spotify.com/artist/3wOf6DlTkRycQcnlDrTe2x) | [Locura De Amor](https://open.spotify.com/album/5EDey3kMxdheEFK69Tq8EF) | 3:57 |
 | 80 | [Tú Eres La Razón \- Electrocumbia Remake](https://open.spotify.com/track/3ZPIjIpVU6vh5gf3DvSV3a) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064) | [Tú Eres La Razón \(Electrocumbia Remake\)](https://open.spotify.com/album/2Ym9wv4J5XWjnkeWmG5r3w) | 3:15 |
 | 81 | [Abandonado](https://open.spotify.com/track/3zTtqNPnbLUKTmj69JapdD) | [Efrén David](https://open.spotify.com/artist/5j8A0drRTB6kfW70XY9J2g) | [Recuerdos](https://open.spotify.com/album/3bvSVLCNLuiBqLiXt6bAN5) | 4:32 |
-| 82 | [Cariñito Sin MI](https://open.spotify.com/track/7zSluZ0cnnNomeIGYSThMm) | [Pastor Lopez](https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE) | [Sus Más Grandes Éxitos Volume 2](https://open.spotify.com/album/60LUbwOhyXfoMZDOV1fXQv) | 3:55 |
-| 83 | [El Afilador](https://open.spotify.com/track/7ob6SovekT6cESeyUHiFQn) | [Grupo Carabo](https://open.spotify.com/artist/0pY1OqclT7G3fojvX0dKdv) | [Grito En Silencio](https://open.spotify.com/album/5FXAiILW1gioBCuF7I39wS) | 3:35 |
+| 82 | [El Afilador](https://open.spotify.com/track/7ob6SovekT6cESeyUHiFQn) | [Grupo Carabo](https://open.spotify.com/artist/0pY1OqclT7G3fojvX0dKdv) | [Grito En Silencio](https://open.spotify.com/album/5FXAiILW1gioBCuF7I39wS) | 3:35 |
+| 83 | [Cariñito Sin MI](https://open.spotify.com/track/7zSluZ0cnnNomeIGYSThMm) | [Pastor Lopez](https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE) | [Sus Más Grandes Éxitos Volume 2](https://open.spotify.com/album/60LUbwOhyXfoMZDOV1fXQv) | 3:55 |
 | 84 | [Cañita Cañaveral](https://open.spotify.com/track/0yn0pxR5KRY2vIY2cZ7nbd) | [Grupo Saya](https://open.spotify.com/artist/2T6hbG0qQTyZglPgH7UEMP) | [Sus Mejores Exitos](https://open.spotify.com/album/7wZn8Eko5bz1vSx1zYMPJD) | 3:15 |
 | 85 | [Corazón Enamorado](https://open.spotify.com/track/54PSHIY4nF4CxtwBpSOqW6) | [Super Grupo Colombia](https://open.spotify.com/artist/4VUjAlb1nGT2FW5n4CPxwi) | [Super Grupo Colombia](https://open.spotify.com/album/16b1llxcevVntDsf1HLbtK) | 4:08 |
 | 86 | [Cumbia de los Pajaritos](https://open.spotify.com/track/0fNwZHd0wq3eQEOppEqUEG) | [Los Mirlos](https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh) | [Cumbias Chichadelicas: Peruvian Psychedelic Chicha](https://open.spotify.com/album/1YCdKn5y7C99mM2sb3QTlo) | 2:51 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XbKgPOSda8.md) - [plain]
 | 99 | [Los sabanales](https://open.spotify.com/track/31GD3gDTI7PYt6Dulr1wvh) | [Los Corraleros De Majagual](https://open.spotify.com/artist/4gUlOT8yUtjFDWKlkEpLI4) | [The Afrosound Of Colombia Volume 1](https://open.spotify.com/album/7GuPa60Lh3Wlls5rMGpOJf) | 2:43 |
 | 100 | [Cumbia Barulera](https://open.spotify.com/track/2CR5YD5yF77bSxV7qXrSTG) | [Los Dinamiteros de Colombia](https://open.spotify.com/artist/0OJXBz0TBaRCbyDpx62nZW), [Aniceto Molina](https://open.spotify.com/artist/0vpwDjHfD1T65OcmvpcF0S) | [Disco De Oro \- Cumbia](https://open.spotify.com/album/6uHRsIS95PzYt0ajDqtGCU) | 3:00 |
 
-Snapshot ID: `MTY1OTQ4MjYxMCwwMDAwMDAwMGUwNmZlNzI1YzU1NGU3Yjc1MzM0MmNiYzY2ZTYyYTBj`
+Snapshot ID: `MTY1OTQ4MjYxMCwwMDAwMDAwMDIxYWI5Mzg0ZDkyNTEyZjE5OWI0MWVmNGJhMmI5ZWE1`

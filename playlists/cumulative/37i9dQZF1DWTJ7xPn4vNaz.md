@@ -4,7 +4,7 @@
 
 > The biggest songs of the 1970s\. Cover: Olivia Newton\-John.
 
-516 songs - 1 day 11 hr 1 min - [published](https://open.spotify.com/playlist/4f5WBgUIVWfE2Rex20Gg2k)
+517 songs - 1 day 11 hr 4 min - [published](https://open.spotify.com/playlist/4f5WBgUIVWfE2Rex20Gg2k)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Angeleyes](https://open.spotify.com/track/7rWgGyRK7RAqAAXy4bLft9) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Voulez\-Vous](https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh) | 4:20 | 2022-06-08 |  |
 | [Angie](https://open.spotify.com/track/1GcVa4jFySlun4jLSuMhiq) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Goats Head Soup \(Remastered 2009\)](https://open.spotify.com/album/6iVOz2hudE6dv5Yrcsw2c9) | 4:32 | 2019-06-01 |  |
 | [Annie's Song](https://open.spotify.com/track/5qxFudz7A6PGptviHsz4Yd) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w) | [Back Home Again](https://open.spotify.com/album/33KGuaxYmTlMgauIxfovy6) | 2:58 | 2019-05-26\* | 2022-07-29 |
+| [Annie's Song](https://open.spotify.com/track/4J0DbyODwZJcmIAiTSJfMF) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w) | [Back Home Again](https://open.spotify.com/album/6zWmAA39H0c4SjnD4MB1Dm) | 3:00 | 2022-08-12 |  |
 | [Another Brick in the Wall, Pt\. 2](https://open.spotify.com/track/4gMgiXfqyzZLMhsksGmbQV) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Wall](https://open.spotify.com/album/5Dbax7G8SWrP9xyzkOvy2F) | 3:58 | 2019-06-21 |  |
 | [Are You Ready For Love? \- Remastered](https://open.spotify.com/track/3D15FZXmjfna7aFfKmEajd) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Diamonds \(Deluxe\)](https://open.spotify.com/album/1uzIyRT1QxDx4fMIX0UiAE) | 3:32 | 2019-05-26\* | 2022-07-29 |
 | [Baba O'Riley](https://open.spotify.com/track/3qiyyUfYe7CRYLucrPmulD) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who's Next \(Deluxe Edition\)](https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ) | 5:00 | 2019-05-26\* |  |
@@ -111,7 +112,7 @@
 | [Desperado \- 2013 Remaster](https://open.spotify.com/track/2TjnCxxQRYn56Ye8gkUKiW) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Desperado \(2013 Remaster\)](https://open.spotify.com/album/09WBxbis5Sixt01FVMs8UM) | 3:33 | 2022-06-03 | 2022-07-29 |
 | [Detroit Rock City](https://open.spotify.com/track/2jz6rWGqVCYsymwxGoaON4) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Double Platinum](https://open.spotify.com/album/7FNmV0xgcXHkXkAW2HRTFC) | 3:35 | 2019-06-26 | 2021-05-27 |
 | [Detroit Rock City](https://open.spotify.com/track/3uz0O62HqYoyRiWZjS61KK) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Smashes Thrashes & Hits](https://open.spotify.com/album/2TrudRaCE8XYG56z1Xbmh6) | 3:48 | 2022-06-03 |  |
-| [Dirty Work](https://open.spotify.com/track/0s1aSsYlLIEiy16LjFWbdp) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Can't Buy A Thrill](https://open.spotify.com/album/4Gh6pRaXqXTtJx4plAJbBw) | 3:07 | 2020-12-23 |  |
+| [Dirty Work](https://open.spotify.com/track/0s1aSsYlLIEiy16LjFWbdp) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Can't Buy A Thrill](https://open.spotify.com/album/4Gh6pRaXqXTtJx4plAJbBw) | 3:07 | 2020-12-23 | 2022-09-21 |
 | [Disco Inferno](https://open.spotify.com/track/3GXo1eWlT2flv4x01l5OTu) | [The Trammps](https://open.spotify.com/artist/1zgNpeHQe8GulzfVkYP2VK) | [Playlist: The Best Of The Trammps](https://open.spotify.com/album/2fbPRtAt1i5f68lZegx1iB) | 3:33 | 2020-12-23 | 2021-10-13 |
 | [Disco Inferno \- Single Edit](https://open.spotify.com/track/22ff60cZy4APp7bzESHLR8) | [The Trammps](https://open.spotify.com/artist/1zgNpeHQe8GulzfVkYP2VK) | [Rhino Hi\-Five: The Trammps](https://open.spotify.com/album/6eAq1OY2L1F3qleomkvtX7) | 3:11 | 2020-06-12 | 2020-12-23 |
 | [Do It Again](https://open.spotify.com/track/2BstRQGodshjGpeDGQiNgo) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Can't Buy A Thrill](https://open.spotify.com/album/4Gh6pRaXqXTtJx4plAJbBw) | 5:56 | 2019-05-26\* | 2022-07-30 |

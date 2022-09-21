@@ -1,12 +1,12 @@
 {
   "description": "Late night cool and the sound of smooth blues.",
-  "num_followers": 50713,
+  "num_followers": 50818,
   "original_name": "Midnight Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzAwMDc5NSwwMDAwMDAwMGY4MDExMzUxOGNiOTQ1YTFlYjFhNmVhODQ4OTU2NGVl",
+  "snapshot_id": "MTY2MzAwMDc5NSwwMDAwMDAwMDk4ZDRmNTAxYThhYTU2Y2I3MDdhNzYxMGNmMWMzN2Yz",
   "tracks": [
     {
       "added_at": "2022-09-12 16:39:55",
@@ -767,6 +767,26 @@
     {
       "added_at": "2022-09-12 16:39:55",
       "album": {
+        "name": "Mama Roux",
+        "url": "https://open.spotify.com/album/4mVyWlC7YuwWmHeUUSj9s5"
+      },
+      "artists": [
+        {
+          "name": "Matthis Pascaud",
+          "url": "https://open.spotify.com/artist/1qn5qnZBihsurzBW3YrMTp"
+        },
+        {
+          "name": "Hugh Coltman",
+          "url": "https://open.spotify.com/artist/6tV34lUTJjldwoOHb7EwIQ"
+        }
+      ],
+      "duration_ms": 280400,
+      "name": "Mama Roux",
+      "url": "https://open.spotify.com/track/2J9x0DWR1kDyRZBPWKKT0Q"
+    },
+    {
+      "added_at": "2022-09-12 16:39:55",
+      "album": {
         "name": "The Motown Years 1972-1976",
         "url": "https://open.spotify.com/album/5b1RrcADU8Ziwyz6ViTGpW"
       },
@@ -795,26 +815,6 @@
       "duration_ms": 290106,
       "name": "Night Time Is the Right Time",
       "url": "https://open.spotify.com/track/5BFsVmmI84lGKuC2BGAhew"
-    },
-    {
-      "added_at": "2022-09-12 16:39:55",
-      "album": {
-        "name": "Mama Roux",
-        "url": "https://open.spotify.com/album/4mVyWlC7YuwWmHeUUSj9s5"
-      },
-      "artists": [
-        {
-          "name": "Matthis Pascaud",
-          "url": "https://open.spotify.com/artist/1qn5qnZBihsurzBW3YrMTp"
-        },
-        {
-          "name": "Hugh Coltman",
-          "url": "https://open.spotify.com/artist/6tV34lUTJjldwoOHb7EwIQ"
-        }
-      ],
-      "duration_ms": 280400,
-      "name": "Mama Roux",
-      "url": "https://open.spotify.com/track/2J9x0DWR1kDyRZBPWKKT0Q"
     },
     {
       "added_at": "2022-09-12 16:39:55",

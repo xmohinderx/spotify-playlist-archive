@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain]
 
 > Experience music from some of your favorite Gospel artists and those they've influenced\.  Cover: Naomi Raine
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,071 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,137 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain]
 | 75 | [Heavy](https://open.spotify.com/track/5hJLoLdTvr2IhKkJpDnVJp) | [Daphne Richardson](https://open.spotify.com/artist/5KoV3ti1KQiY6Q430OSIHa) | [Heavy](https://open.spotify.com/album/1AMyeFXfU67wKsGzdnNkpE) | 3:30 |
 | 76 | [What Would I Gain?](https://open.spotify.com/track/10tkcAcUnlENPwDbnIaD5p) | [Jonny Henninger](https://open.spotify.com/artist/1L9zhXcitRv35NwUZmwBZ4), [Eliza King](https://open.spotify.com/artist/3b3oceAq7kCrQBmrsWOtMa) | [What Would I Gain?](https://open.spotify.com/album/1O5hJ19jwKmEjqkQHFgYjD) | 3:54 |
 | 77 | [GUIDE MY HEART](https://open.spotify.com/track/3cvS3ZYNjqF5LAQbW3vCPj) | [Ben Lawrence](https://open.spotify.com/artist/4hwbEkmTTgBuc7sYVKA5PN), [JSteph](https://open.spotify.com/artist/0MCSKdSCK4aujv5BeTJPj3) | [GUIDE MY HEART](https://open.spotify.com/album/7EnV7Wi07R4Vm8T8Gn0iCG) | 2:23 |
-| 78 | [Cheers](https://open.spotify.com/track/5KOiFHii9i6Ly8l0h3iSFL) | [Phil J.](https://open.spotify.com/artist/5D2KHBBywjO32ifLVWSci9) | [Tale of a Free Man](https://open.spotify.com/album/486Jn45SQX3AOPeWjw0XKh) | 3:42 |
-| 79 | [Abide](https://open.spotify.com/track/4dZTZ3GsxQ2d3RZs07Yjyj) | [Mystro Productions](https://open.spotify.com/artist/3xPvqSwcmpA8ytvPa9oskQ), [Kylie Odetta](https://open.spotify.com/artist/2meUQKRm9yos5hbsWl9TRq) | [Abide](https://open.spotify.com/album/7GQqvnCTxwbBLAvImtplIX) | 4:27 |
+| 78 | [Abide](https://open.spotify.com/track/4dZTZ3GsxQ2d3RZs07Yjyj) | [Mystro Productions](https://open.spotify.com/artist/3xPvqSwcmpA8ytvPa9oskQ), [Kylie Odetta](https://open.spotify.com/artist/2meUQKRm9yos5hbsWl9TRq) | [Abide](https://open.spotify.com/album/7GQqvnCTxwbBLAvImtplIX) | 4:27 |
+| 79 | [Cheers](https://open.spotify.com/track/5KOiFHii9i6Ly8l0h3iSFL) | [Phil J.](https://open.spotify.com/artist/5D2KHBBywjO32ifLVWSci9) | [Tale of a Free Man](https://open.spotify.com/album/486Jn45SQX3AOPeWjw0XKh) | 3:42 |
 | 80 | [Motive](https://open.spotify.com/track/3Sxbmguh06sHGiOedKYCqY) | [Kennis Clark](https://open.spotify.com/artist/3f0rz7vcRwXDBjkbBkkmSs) | [Motive](https://open.spotify.com/album/6BwDhZVaF5BiXi9pLnP8rH) | 2:42 |
 | 81 | [God of Dreams](https://open.spotify.com/track/6OD33offEicVtdSPeqh2UN) | [Adia](https://open.spotify.com/artist/1FzKCmWxE6QIfp23ikbuIt) | [God of Dreams](https://open.spotify.com/album/7AyJ6DJld2Dff5BZoCTgf0) | 2:41 |
 | 82 | [This Is Love](https://open.spotify.com/track/5fqaHMgEw4LWZvcD3Em2UH) | [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3) | [This Is Love](https://open.spotify.com/album/4aExnwAGR6qJ8wgMmVf4VY) | 3:11 |
@@ -94,9 +94,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain]
 | 84 | [God Made](https://open.spotify.com/track/10R9lhq4htwyCqvso7QgL5) | [Deitrick Haddon](https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9) | [God Made](https://open.spotify.com/album/0O6JNTsJfdSmmot1eaHwft) | 3:20 |
 | 85 | [Caught Up](https://open.spotify.com/track/2qEgM0aQLDWJrOUoOuBfyA) | [Saint James](https://open.spotify.com/artist/0i3IFzWtRtl3IDWx6GhECi) | [Caught Up](https://open.spotify.com/album/1FaaYcLCHwBf0EkHSN7xnl) | 2:20 |
 | 86 | [Preach](https://open.spotify.com/track/5mzY0sgr4IfN9MI8lDU3Zv) | [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp) | [Preach](https://open.spotify.com/album/6EujkT5oqXhCfzmXFJS7Vj) | 3:00 |
-| 87 | [Thanks and Praise](https://open.spotify.com/track/4RgrucjGNOmcNo2NF7hsYb) | [Bay Worship Collective](https://open.spotify.com/artist/0sqo3WtvwFbQzu9eMRWOuT), [Josh Manongdo](https://open.spotify.com/artist/2k86aeAGM873qCIVSGImKe), [Sarita Canel](https://open.spotify.com/artist/5sUMPqfzRZPTsNbmguPX9N), [Ariel Catanyag](https://open.spotify.com/artist/2dmtwwOZ1U96RuKPLVitgt) | [Vol 3](https://open.spotify.com/album/6XNIUHPboj5X6br6mTkpFi) | 4:41 |
-| 88 | [Hold Me Close](https://open.spotify.com/track/0rTNfHq56NzUNnIwk6zgru) | [Jimmy McNeal](https://open.spotify.com/artist/6qAVuHCboewGWzHF0JwYx5) | [Roots](https://open.spotify.com/album/4nYioApK4PisBkfRaXzO36) | 6:08 |
-| 89 | [Thank You](https://open.spotify.com/track/3xPHSL8ciVL7fqIrcMQpLy) | [Kelechi](https://open.spotify.com/artist/7evBSxu0dtP6Hgjgo3RHO7) | [Thank You](https://open.spotify.com/album/58Rs0Hr1q87t7lsA0DFeLR) | 3:25 |
+| 87 | [Thank You](https://open.spotify.com/track/3xPHSL8ciVL7fqIrcMQpLy) | [Kelechi](https://open.spotify.com/artist/7evBSxu0dtP6Hgjgo3RHO7) | [Thank You](https://open.spotify.com/album/58Rs0Hr1q87t7lsA0DFeLR) | 3:25 |
+| 88 | [Thanks and Praise](https://open.spotify.com/track/4RgrucjGNOmcNo2NF7hsYb) | [Bay Worship Collective](https://open.spotify.com/artist/0sqo3WtvwFbQzu9eMRWOuT), [Josh Manongdo](https://open.spotify.com/artist/2k86aeAGM873qCIVSGImKe), [Sarita Canel](https://open.spotify.com/artist/5sUMPqfzRZPTsNbmguPX9N), [Ariel Catanyag](https://open.spotify.com/artist/2dmtwwOZ1U96RuKPLVitgt) | [Vol 3](https://open.spotify.com/album/6XNIUHPboj5X6br6mTkpFi) | 4:41 |
+| 89 | [Hold Me Close](https://open.spotify.com/track/0rTNfHq56NzUNnIwk6zgru) | [Jimmy McNeal](https://open.spotify.com/artist/6qAVuHCboewGWzHF0JwYx5) | [Roots](https://open.spotify.com/album/4nYioApK4PisBkfRaXzO36) | 6:08 |
 | 90 | [Rescue \(Reimagined\)](https://open.spotify.com/track/3WIhBPVP3v9O7rXserceei) | [Antoine Bradford](https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl) | [Rescue \(Reimagined\)](https://open.spotify.com/album/022ehc5YpTikEsYXysMeun) | 3:15 |
 | 91 | [GRACE](https://open.spotify.com/track/01ioXCMkGpxuKrdEO3TSob) | [Jor'dan Armstrong](https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8) | [GRACE](https://open.spotify.com/album/6JzWGtTmJ29ZlAA87eW6Ct) | 4:15 |
 | 92 | [Raise Me up](https://open.spotify.com/track/3lhwLzBFmGqt0gQ4iIExNy) | [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp), [BINDANG](https://open.spotify.com/artist/3TFW2ZeRoCbbx7SrS3rcNW) | [Raise Me up](https://open.spotify.com/album/0ejViiyqE6EPBVDoCzd1G4) | 2:46 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain]
 | 94 | [Grace](https://open.spotify.com/track/1hCa15BtSKMQGa4iDcnV3S) | [Kevin Downswell](https://open.spotify.com/artist/19yI5UdtGvSKDu23hoG3K4) | [Grace](https://open.spotify.com/album/1PlYeaM005XFc1ggzEjllS) | 4:15 |
 | 95 | [VANILLA](https://open.spotify.com/track/0VvBm20XZedf4wQhbUs3hb) | [Sarah Nathalié](https://open.spotify.com/artist/1O8Ex2yuddkMknV0uM2oni) | [VANILLA](https://open.spotify.com/album/6VuA0G64riGnjOxs5ArVNB) | 2:28 |
 | 96 | [You Won't Leave Us](https://open.spotify.com/track/2vwqf7ECS2Th0lHoN9LuUz) | [Jeremiah Paltan](https://open.spotify.com/artist/7gaLLumDYrznRYzpPtvrru) | [You Won't Leave Us](https://open.spotify.com/album/4wiAzOB2eT9e6XLWtsYLzQ) | 3:19 |
-| 97 | [more like you](https://open.spotify.com/track/039ZACDj8Cb8AA0jdKyQgT) | [Reed Deming](https://open.spotify.com/artist/1fKEt9S1A4iszlgL9rFjPR) | [more like you](https://open.spotify.com/album/7LXQLC9LcezYqo9wTWzj2J) | 3:17 |
-| 98 | [No One's Gonna Save Me](https://open.spotify.com/track/2sKX02STKwRRUNqrwohWvV) | [Saint James](https://open.spotify.com/artist/0i3IFzWtRtl3IDWx6GhECi) | [No One's Gonna Save Me](https://open.spotify.com/album/4yP1cRV0rpwGqLnyj0Ye6i) | 2:39 |
+| 97 | [No One's Gonna Save Me](https://open.spotify.com/track/2sKX02STKwRRUNqrwohWvV) | [Saint James](https://open.spotify.com/artist/0i3IFzWtRtl3IDWx6GhECi) | [No One's Gonna Save Me](https://open.spotify.com/album/4yP1cRV0rpwGqLnyj0Ye6i) | 2:39 |
+| 98 | [more like you](https://open.spotify.com/track/039ZACDj8Cb8AA0jdKyQgT) | [Reed Deming](https://open.spotify.com/artist/1fKEt9S1A4iszlgL9rFjPR) | [more like you](https://open.spotify.com/album/7LXQLC9LcezYqo9wTWzj2J) | 3:17 |
 | 99 | [Belongs To You \- R&B Remix](https://open.spotify.com/track/66pxUHORGhVzEjvzIAijcq) | [Sarah Téibo](https://open.spotify.com/artist/2TiTzlqsBiRzHXSHQIIabT), [Davidb](https://open.spotify.com/artist/7jNo7ygyhy9pNeEhJLqS3M), [Rae Rae](https://open.spotify.com/artist/2Zhpjwk7OjYXrQG3YOhIzo) | [Belongs To You \(R&B Remix\)](https://open.spotify.com/album/3uXFWEyEpYYnOhwHjBUxOz) | 3:11 |
 | 100 | [YOU](https://open.spotify.com/track/1d27EOdOzpEGWWT59hf1xm) | [Jor'dan Armstrong](https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8) | [YOU](https://open.spotify.com/album/2lS3khKD2lhxL44NQbfxd4) | 3:08 |
 
-Snapshot ID: `MTY1ODAzNjMxMSwwMDAwMDAwMGEwZGE4Y2FmNDQ0NjljNDk2NDU3ODZiY2QzNGU0NjAw`
+Snapshot ID: `MTY1ODAzNjMxMSwwMDAwMDAwMGJjMTk4ZTMzNzk3NDZlYjE1YTg1ODRiZGY0ZjlmZDY5`

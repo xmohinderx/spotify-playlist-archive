@@ -1,15 +1,31 @@
 {
-  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: J-JUN(\uae40\uc7ac\uc911)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d\uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 184115,
+  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: Peppertones(\ud398\ud37c\ud1a4\uc2a4)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d\uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "num_followers": 184273,
   "original_name": "Cool K'IDs Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzA2ODA1NywwMDAwMDAwMGU5NzQxYmJmNDRjNGU3MWYzNDYyMzk1Y2Y4MmZmOWU0",
+  "snapshot_id": "MTY2MzY2NTUwNywwMDAwMDAwMGEyM2IyZTczOTdhOTE2ZTM5YzhlNTMwODM4YjhiNjBl",
   "tracks": [
     {
-      "added_at": "2022-09-13 11:20:57",
+      "added_at": "2022-09-20 09:18:27",
+      "album": {
+        "name": "thousand years",
+        "url": "https://open.spotify.com/album/3pDA2ikEslIDXpzIWmauQY"
+      },
+      "artists": [
+        {
+          "name": "Peppertones",
+          "url": "https://open.spotify.com/artist/0gos4GVpI0PzhyrWhsc7nj"
+        }
+      ],
+      "duration_ms": 246866,
+      "name": "Eye of the Typhoon",
+      "url": "https://open.spotify.com/track/0nSEAABoviV818GLEZsD6r"
+    },
+    {
+      "added_at": "2022-09-20 09:18:27",
       "album": {
         "name": "BORN GENE",
         "url": "https://open.spotify.com/album/7EJ5ExGkZRhAtRCl9aAY4Z"
@@ -25,23 +41,7 @@
       "url": "https://open.spotify.com/track/5FOSwCZ66T9mSUMASC5PLh"
     },
     {
-      "added_at": "2022-09-13 11:20:57",
-      "album": {
-        "name": "Password 486",
-        "url": "https://open.spotify.com/album/6pZdY6TKxDTkk6Ndi3eOt1"
-      },
-      "artists": [
-        {
-          "name": "BIGONE",
-          "url": "https://open.spotify.com/artist/0bQhUyXffQjkd6horP6fKX"
-        }
-      ],
-      "duration_ms": 198600,
-      "name": "Password 486",
-      "url": "https://open.spotify.com/track/1KrreL8nKfx44ibk9sd9Cu"
-    },
-    {
-      "added_at": "2022-09-13 11:20:57",
+      "added_at": "2022-09-20 09:18:27",
       "album": {
         "name": "Consolation To You",
         "url": "https://open.spotify.com/album/7vI2dIKirgwRLqsxqtfANO"
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/7i0Z1ID0SxDW71oKO7JjK9"
     },
     {
-      "added_at": "2022-09-13 11:20:57",
+      "added_at": "2022-09-20 09:18:27",
       "album": {
         "name": "Stock Struck (Original Television Soundtrack), Pt.2",
         "url": "https://open.spotify.com/album/4ZhtmPkIeJdCFMYa6Kd8IU"
@@ -73,7 +73,7 @@
       "url": "https://open.spotify.com/track/3tbzKxaika0fcyA61YOgH0"
     },
     {
-      "added_at": "2022-09-13 11:20:57",
+      "added_at": "2022-09-20 09:18:27",
       "album": {
         "name": "Childhood",
         "url": "https://open.spotify.com/album/6Nb2vk4KMl2TH12CXc6YAb"
@@ -89,7 +89,7 @@
       "url": "https://open.spotify.com/track/0ddSLVdbpKFO1FtIYpYnw9"
     },
     {
-      "added_at": "2022-09-13 11:20:57",
+      "added_at": "2022-09-20 09:18:27",
       "album": {
         "name": "DIAMOND",
         "url": "https://open.spotify.com/album/7KE2RqHy21ZGDYNoNCTdw5"
@@ -105,23 +105,23 @@
       "url": "https://open.spotify.com/track/6uGQf0XAjHkXooeSk3fFAB"
     },
     {
-      "added_at": "2022-09-13 11:20:57",
+      "added_at": "2022-09-20 09:18:27",
       "album": {
-        "name": "Poong, the Joseon Psychiatrist OST Part.5",
-        "url": "https://open.spotify.com/album/50DAxrpePNE16yJnYS7QT2"
+        "name": "Password 486",
+        "url": "https://open.spotify.com/album/6pZdY6TKxDTkk6Ndi3eOt1"
       },
       "artists": [
         {
-          "name": "Xydo",
-          "url": "https://open.spotify.com/artist/0vcbn6MqAvgM8Gh6wh8d6X"
+          "name": "BIGONE",
+          "url": "https://open.spotify.com/artist/0bQhUyXffQjkd6horP6fKX"
         }
       ],
-      "duration_ms": 201066,
-      "name": "Starlight",
-      "url": "https://open.spotify.com/track/24dSyqfPW6WNzdegehvuBw"
+      "duration_ms": 198600,
+      "name": "Password 486",
+      "url": "https://open.spotify.com/track/1KrreL8nKfx44ibk9sd9Cu"
     },
     {
-      "added_at": "2022-09-13 11:20:57",
+      "added_at": "2022-09-20 09:18:27",
       "album": {
         "name": "Only Ones Left in this World",
         "url": "https://open.spotify.com/album/11TsV6N3xprEZVKo4haCMX"
@@ -137,7 +137,7 @@
       "url": "https://open.spotify.com/track/0fhHQODEITI549NaUWqJDx"
     },
     {
-      "added_at": "2022-09-13 11:20:57",
+      "added_at": "2022-09-20 09:18:27",
       "album": {
         "name": "Youth Hostel",
         "url": "https://open.spotify.com/album/1nbMITy1nsScR47Pd4zWJ6"
@@ -153,7 +153,7 @@
       "url": "https://open.spotify.com/track/55FLC4BaLbUr7plCVL0j1e"
     },
     {
-      "added_at": "2022-09-13 11:20:57",
+      "added_at": "2022-09-20 09:18:27",
       "album": {
         "name": "eight",
         "url": "https://open.spotify.com/album/5vJNAlQeTf9lsulO1YlmSt"
@@ -173,7 +173,7 @@
       "url": "https://open.spotify.com/track/0pYacDCZuRhcrwGUA5nTBe"
     },
     {
-      "added_at": "2022-09-13 11:20:57",
+      "added_at": "2022-09-20 09:18:27",
       "album": {
         "name": "Still Life",
         "url": "https://open.spotify.com/album/2oCAY48bhZvQte0l7apmYC"
@@ -189,7 +189,7 @@
       "url": "https://open.spotify.com/track/3TSLqZssCoCdDlMhCJ08XW"
     },
     {
-      "added_at": "2022-09-13 11:20:57",
+      "added_at": "2022-09-20 09:18:27",
       "album": {
         "name": "Fragile",
         "url": "https://open.spotify.com/album/58QwKbqqxvic4OsBubpZ6h"
@@ -209,7 +209,7 @@
       "url": "https://open.spotify.com/track/6KE3Fs6LMzi4hJI3eFqyLC"
     },
     {
-      "added_at": "2022-09-13 11:20:57",
+      "added_at": "2022-09-20 09:18:27",
       "album": {
         "name": "Dawn",
         "url": "https://open.spotify.com/album/0YZ0m6Z8xUurgzV9lXvflS"
@@ -225,7 +225,7 @@
       "url": "https://open.spotify.com/track/2I0LNCqlQpAPJlwOEWaefE"
     },
     {
-      "added_at": "2022-09-13 11:20:57",
+      "added_at": "2022-09-20 09:18:27",
       "album": {
         "name": "Wings",
         "url": "https://open.spotify.com/album/1vhNGBTFoaSTLbHjPGFIlF"
@@ -241,7 +241,7 @@
       "url": "https://open.spotify.com/track/3gxNkvcP8scSzL6mGznTn3"
     },
     {
-      "added_at": "2022-09-13 11:20:57",
+      "added_at": "2022-09-20 09:18:27",
       "album": {
         "name": "SUNRISE",
         "url": "https://open.spotify.com/album/4B2Ijqpz9hRDqWraaDxLSS"
@@ -257,7 +257,7 @@
       "url": "https://open.spotify.com/track/71WZ7yFuwxmQz5jJUpvkGv"
     },
     {
-      "added_at": "2022-09-13 11:20:57",
+      "added_at": "2022-09-20 09:18:27",
       "album": {
         "name": "[Dystopia : Lose Myself]",
         "url": "https://open.spotify.com/album/4tKKN5LO7CcTOcsSV3OmMQ"
@@ -273,7 +273,7 @@
       "url": "https://open.spotify.com/track/37Ctz6MOHM2thzNIOMo7Z0"
     },
     {
-      "added_at": "2022-09-13 11:20:57",
+      "added_at": "2022-09-20 09:18:27",
       "album": {
         "name": "ITAEWON CLASS (Original Television Soundtrack) Pt.2",
         "url": "https://open.spotify.com/album/4AgCiUejVvU6729YAJwRH9"
@@ -289,7 +289,7 @@
       "url": "https://open.spotify.com/track/4kIpBfvK44bxqX7zo8K1oP"
     },
     {
-      "added_at": "2022-09-13 11:20:57",
+      "added_at": "2022-09-20 09:18:27",
       "album": {
         "name": "Sorry",
         "url": "https://open.spotify.com/album/6D48tHXsa6LzoViDIACdkt"
@@ -305,7 +305,7 @@
       "url": "https://open.spotify.com/track/7zmrZMinkTMJ2kZgM9Kqgp"
     },
     {
-      "added_at": "2022-09-13 11:20:57",
+      "added_at": "2022-09-20 09:18:27",
       "album": {
         "name": "UNSTABLE MINDSET",
         "url": "https://open.spotify.com/album/7tY3mqjeJaMr6RFJYnjI2s"
@@ -325,7 +325,7 @@
       "url": "https://open.spotify.com/track/4Eefey3uN90Abhbr47zKmC"
     },
     {
-      "added_at": "2022-09-13 11:20:57",
+      "added_at": "2022-09-20 09:18:27",
       "album": {
         "name": "LEGEND",
         "url": "https://open.spotify.com/album/28GiIRNu9nEugqnUci3aIC"
@@ -341,7 +341,7 @@
       "url": "https://open.spotify.com/track/5BqwC9kOBbqYkzdOKeXFFk"
     },
     {
-      "added_at": "2022-09-13 11:20:57",
+      "added_at": "2022-09-20 09:18:27",
       "album": {
         "name": "minisode1 : Blue Hour",
         "url": "https://open.spotify.com/album/2DDNDdePEx9R0bBwRqahdr"
@@ -357,7 +357,7 @@
       "url": "https://open.spotify.com/track/4A6f3zMLDDAUgkGTLtpMc3"
     },
     {
-      "added_at": "2022-09-13 11:20:57",
+      "added_at": "2022-09-20 09:18:27",
       "album": {
         "name": "Shoot Me : Youth Part 1",
         "url": "https://open.spotify.com/album/7cAFD2IBjYXaZr2bZdTTIf"
@@ -373,7 +373,7 @@
       "url": "https://open.spotify.com/track/3cl6BsTDeeGRbgug5TXrvg"
     },
     {
-      "added_at": "2022-09-13 11:20:57",
+      "added_at": "2022-09-20 09:18:27",
       "album": {
         "name": "Love Yourself \u7d50 'Answer'",
         "url": "https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y"
@@ -389,7 +389,7 @@
       "url": "https://open.spotify.com/track/1WjGvMbHE23jEipydV80Mu"
     },
     {
-      "added_at": "2022-09-13 11:20:57",
+      "added_at": "2022-09-20 09:18:27",
       "album": {
         "name": "RED",
         "url": "https://open.spotify.com/album/5CrMZwZuJcDpzFmMO35vxN"
@@ -405,7 +405,7 @@
       "url": "https://open.spotify.com/track/1JsBcVdlKZJmDPJWu4wJPC"
     },
     {
-      "added_at": "2022-09-13 11:20:57",
+      "added_at": "2022-09-20 09:18:27",
       "album": {
         "name": "[Apocalypse : Save us]",
         "url": "https://open.spotify.com/album/1ONjVRtxAqiTivu0EiEBm5"
@@ -421,7 +421,7 @@
       "url": "https://open.spotify.com/track/1fdlTXD7obDyqOpx96BEL9"
     },
     {
-      "added_at": "2022-09-13 11:20:57",
+      "added_at": "2022-09-20 09:18:27",
       "album": {
         "name": "Twenty-Five Twenty-One OST Part 5",
         "url": "https://open.spotify.com/album/285SCIzheZ0SrcZp4Q5YvR"
@@ -437,7 +437,7 @@
       "url": "https://open.spotify.com/track/4hzeoIOERTL4jdTXAQ0FWr"
     },
     {
-      "added_at": "2022-09-13 11:20:57",
+      "added_at": "2022-09-20 09:18:27",
       "album": {
         "name": "MOONRISE",
         "url": "https://open.spotify.com/album/4cIBNWCiJdOupf3cjuKpvG"
@@ -453,7 +453,7 @@
       "url": "https://open.spotify.com/track/4aceMabp5rzZYoKKXsUffr"
     },
     {
-      "added_at": "2022-09-13 11:20:57",
+      "added_at": "2022-09-20 09:18:27",
       "album": {
         "name": "Traffic light",
         "url": "https://open.spotify.com/album/4lHGpxL8peLQSZRgl1Lssm"
@@ -469,7 +469,7 @@
       "url": "https://open.spotify.com/track/03qu1u4hDyepQQi2lNxCka"
     },
     {
-      "added_at": "2022-09-13 11:20:57",
+      "added_at": "2022-09-20 09:18:27",
       "album": {
         "name": "20",
         "url": "https://open.spotify.com/album/6bzkEKKOMT3I3jaIrUtEaO"
@@ -485,7 +485,7 @@
       "url": "https://open.spotify.com/track/66UcQu5LBo2A7AC0A5r0lI"
     },
     {
-      "added_at": "2022-09-13 11:20:57",
+      "added_at": "2022-09-20 09:18:27",
       "album": {
         "name": "1st Album [Dystopia : The Tree of Language]",
         "url": "https://open.spotify.com/album/7no7EZnKgoRWBbGMjZo9gB"
@@ -501,7 +501,7 @@
       "url": "https://open.spotify.com/track/3vPHCKu5UhbGLe9rs8dBGr"
     },
     {
-      "added_at": "2022-09-13 11:20:57",
+      "added_at": "2022-09-20 09:18:27",
       "album": {
         "name": "5.3 (Gradation)",
         "url": "https://open.spotify.com/album/4uqihIyXomdsr6ttzYwKjG"
@@ -517,7 +517,7 @@
       "url": "https://open.spotify.com/track/775S83AMYbQc8SYteOktTL"
     },
     {
-      "added_at": "2022-09-13 11:20:57",
+      "added_at": "2022-09-20 09:18:27",
       "album": {
         "name": "NAN CHUN \ub09c\ucd98",
         "url": "https://open.spotify.com/album/5aMMzZZNRZ1yBr6aArv4Dh"
@@ -533,7 +533,7 @@
       "url": "https://open.spotify.com/track/320twJYO0LC64eWCuCC5vj"
     },
     {
-      "added_at": "2022-09-13 11:20:57",
+      "added_at": "2022-09-20 09:18:27",
       "album": {
         "name": "COLORFUL TRAUMA",
         "url": "https://open.spotify.com/album/2A3y4U3r7xzgicuJYisnOe"
@@ -549,7 +549,7 @@
       "url": "https://open.spotify.com/track/1XlSkQeITGEv8r6HIZfpfX"
     },
     {
-      "added_at": "2022-09-13 11:20:57",
+      "added_at": "2022-09-20 09:18:27",
       "album": {
         "name": "Void",
         "url": "https://open.spotify.com/album/58njxSTVkyBNIuCpAmmAJc"
@@ -565,7 +565,7 @@
       "url": "https://open.spotify.com/track/3XE1R53gdbfHjLNa8hJ8hr"
     },
     {
-      "added_at": "2022-09-13 11:20:57",
+      "added_at": "2022-09-20 09:18:27",
       "album": {
         "name": "FLY HIGH PROJECT #2 'Rooftop'",
         "url": "https://open.spotify.com/album/6UGXwkMNagPJ3jhSMTv4V5"
@@ -581,7 +581,7 @@
       "url": "https://open.spotify.com/track/2LwH6T39A5IODRgPv9XitR"
     },
     {
-      "added_at": "2022-09-13 11:20:57",
+      "added_at": "2022-09-20 09:18:27",
       "album": {
         "name": "Purpose - The 2nd Album",
         "url": "https://open.spotify.com/album/0h6wCpdgpSOAbYDDYJVuwr"
@@ -597,7 +597,7 @@
       "url": "https://open.spotify.com/track/49euWwcjQTzVCynY53tvH5"
     },
     {
-      "added_at": "2022-09-13 11:20:57",
+      "added_at": "2022-09-20 09:18:27",
       "album": {
         "name": "The Book of Us : Entropy",
         "url": "https://open.spotify.com/album/2vnlVtSs6PP1iKvcTWtX2h"
@@ -613,7 +613,7 @@
       "url": "https://open.spotify.com/track/499qjESUqiZjlNI7XQhyLp"
     },
     {
-      "added_at": "2022-09-13 11:20:57",
+      "added_at": "2022-09-20 09:18:27",
       "album": {
         "name": "Raid of Dream",
         "url": "https://open.spotify.com/album/4Y5YucmQPgaCJOkmRshYGs"
@@ -629,7 +629,7 @@
       "url": "https://open.spotify.com/track/7uvW1F97LfVbOF6bzHs3nO"
     },
     {
-      "added_at": "2022-09-13 11:20:57",
+      "added_at": "2022-09-20 09:18:27",
       "album": {
         "name": "Verse 2",
         "url": "https://open.spotify.com/album/3njOv3C2UJ9fqjGhj4O4cN"
@@ -645,7 +645,7 @@
       "url": "https://open.spotify.com/track/0pBjBL0a6gcLfwgtFsuw10"
     },
     {
-      "added_at": "2022-09-13 11:20:57",
+      "added_at": "2022-09-20 09:18:27",
       "album": {
         "name": "Right Through Me",
         "url": "https://open.spotify.com/album/7HrZpKCxm1fqem02ALHn2D"
@@ -661,7 +661,7 @@
       "url": "https://open.spotify.com/track/4cK8aSO2Ec4gmIjhtHfAKd"
     },
     {
-      "added_at": "2022-09-13 11:20:57",
+      "added_at": "2022-09-20 09:18:27",
       "album": {
         "name": "Grey Suit - The 2nd Mini Album",
         "url": "https://open.spotify.com/album/7tZyxlG9PNEBwrxMbIJdoB"
@@ -677,7 +677,7 @@
       "url": "https://open.spotify.com/track/40wEuG76R9nFumrBp6PHwm"
     },
     {
-      "added_at": "2022-09-13 11:20:57",
+      "added_at": "2022-09-20 09:18:27",
       "album": {
         "name": "DIVE",
         "url": "https://open.spotify.com/album/4uyM4cCQB9dS18W7YQ1MaH"
@@ -693,7 +693,7 @@
       "url": "https://open.spotify.com/track/7CBnUjo3qL7c8p129PFqzb"
     },
     {
-      "added_at": "2022-09-13 11:20:57",
+      "added_at": "2022-09-20 09:18:27",
       "album": {
         "name": "VINCENZO (Original Television Soundtrack) Pt. 3",
         "url": "https://open.spotify.com/album/47ulDGfVUWUcUSWRQCzxr3"
@@ -709,7 +709,7 @@
       "url": "https://open.spotify.com/track/6ZQmJVUuXk1Q27d8vkmgm8"
     },
     {
-      "added_at": "2022-09-13 11:20:57",
+      "added_at": "2022-09-20 09:18:27",
       "album": {
         "name": "22",
         "url": "https://open.spotify.com/album/5JMSzU0FPsOut85jmhHbfw"
@@ -725,7 +725,7 @@
       "url": "https://open.spotify.com/track/0Nld5ohgWfoPueMEtYNbgE"
     },
     {
-      "added_at": "2022-09-13 11:20:57",
+      "added_at": "2022-09-20 09:18:27",
       "album": {
         "name": "Nevertheless, (Original Television Soundtrack, Pt. 8)",
         "url": "https://open.spotify.com/album/7uuHf9rwmvlkUS9AlxK6D2"
@@ -741,7 +741,7 @@
       "url": "https://open.spotify.com/track/1Qhcx4uDQ4RFy9m4mKdzUN"
     },
     {
-      "added_at": "2022-09-13 11:20:57",
+      "added_at": "2022-09-20 09:18:27",
       "album": {
         "name": "MOONRISE",
         "url": "https://open.spotify.com/album/4cIBNWCiJdOupf3cjuKpvG"
@@ -757,7 +757,7 @@
       "url": "https://open.spotify.com/track/780nTLMKXf6kX1B2yq1dFa"
     },
     {
-      "added_at": "2022-09-13 11:20:57",
+      "added_at": "2022-09-20 09:18:27",
       "album": {
         "name": "The End of Nightmare",
         "url": "https://open.spotify.com/album/02YL02Pjk6moxi5iuYsIPC"
@@ -773,7 +773,7 @@
       "url": "https://open.spotify.com/track/6vHyPhg8fgclBiY8QN68wp"
     },
     {
-      "added_at": "2022-09-13 11:20:57",
+      "added_at": "2022-09-20 09:18:27",
       "album": {
         "name": "The Book of Us : Gluon - Nothing Can Tear Us Apart",
         "url": "https://open.spotify.com/album/2ozuUEt58hDK0PX8mjKOvc"
@@ -789,7 +789,7 @@
       "url": "https://open.spotify.com/track/5eiCYAQ7K7pob2Ev9nfBXO"
     },
     {
-      "added_at": "2022-09-13 11:20:57",
+      "added_at": "2022-09-20 09:18:27",
       "album": {
         "name": "Eternal",
         "url": "https://open.spotify.com/album/6JuoNIefYEpSGTT0lUMIX3"
@@ -805,7 +805,7 @@
       "url": "https://open.spotify.com/track/3AQLNP4d68hIenp2KpwLlp"
     },
     {
-      "added_at": "2022-09-13 11:20:57",
+      "added_at": "2022-09-20 09:18:27",
       "album": {
         "name": "Tree",
         "url": "https://open.spotify.com/album/5MuQTjOeSApez8vNGb94Ur"

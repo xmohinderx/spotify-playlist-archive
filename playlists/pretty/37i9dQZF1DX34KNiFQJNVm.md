@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Mc Don Juan com Mc Davi e MC Ryan SP e mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,777,219 likes - 81 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,777,578 likes - 81 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 28 | [Cathedral \(Piece Of Me\) \[feat\. JEN\]](https://open.spotify.com/track/7CXln4Z9LfQdsPpXaPrDQn) | [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT), [JEN](https://open.spotify.com/artist/6DaSJnsDXVDcrHzru4MHrx) | [Cathedral \(Piece Of Me\) \[feat\. JEN\]](https://open.spotify.com/album/7bOJCwe874SKa24MfzyNEG) | 2:28 |
 | 29 | [fmk \(with blackbear\)](https://open.spotify.com/track/1hhMX7QQIhBsXjFmTK7owB) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [fmk \(with blackbear\)](https://open.spotify.com/album/2JATwGH1Izmuu47IcnfzSO) | 3:09 |
 | 30 | [Bem Acompanhada](https://open.spotify.com/track/7FLA5HH8TKp8MIwkJJ6tdg) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH), [Tati Quebra Barraco](https://open.spotify.com/artist/3CuWYvDpKC3HVLru1CPGts) | [Bem Acompanhada](https://open.spotify.com/album/1BATwZiFwFEX89v1lc7NmA) | 3:08 |
-| 31 | [MERGULHO](https://open.spotify.com/track/5IiXMO5gSehzrwdcYV1IYy) | [Scalene](https://open.spotify.com/artist/4PTd1rpXV7XDffOuLY7M0z) | [\( L A B I R I N T O \)](https://open.spotify.com/album/41YFkzhUoaJqjz2NwQtJiP) | 4:00 |
+| 31 | [MERGULHO](https://open.spotify.com/track/5IiXMO5gSehzrwdcYV1IYy) | [Scalene](https://open.spotify.com/artist/4PTd1rpXV7XDffOuLY7M0z) | [L A B I R I N T 0](https://open.spotify.com/album/41YFkzhUoaJqjz2NwQtJiP) | 4:00 |
 | 32 | [A Chuva](https://open.spotify.com/track/03Hd92o7d3eT9uZCr6yx6K) | [Henrique Portugal](https://open.spotify.com/artist/3vI8Ld2y1zCY8vvkZ8VFq5), [Frejat](https://open.spotify.com/artist/3WVjDclrbHsxjxhiOqHdnw) | [A Chuva](https://open.spotify.com/album/53IU6IerXxWXepApqpW5MD) | 3:45 |
 | 33 | [Bolsominions](https://open.spotify.com/track/4Ed62oOeczGnac7NT9pod4) | [Chico César](https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH) | [Bolsominions](https://open.spotify.com/album/2iW32zQdytklUu0B2Ekiui) | 6:30 |
 | 34 | [Only Fan \(feat\. Cordae\)](https://open.spotify.com/track/6514uhzGpeyocCHv5kBih4) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl), [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [Infinite Dream](https://open.spotify.com/album/7CY2Iv5eX7eGAOdRNHfIBr) | 2:33 |

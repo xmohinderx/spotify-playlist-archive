@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmr8GM6X0hs.md) - [plain]
 
 > El inolvidable sonido del amor nunca había estado tan cerca de ti.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,523 likes - 60 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,581 likes - 60 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmr8GM6X0hs.md) - [plain]
 | 9 | [Perfidia](https://open.spotify.com/track/3QQl3tSiEooVLQvC8IT5EE) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [A Mis Amigos](https://open.spotify.com/album/5zcIAONlMUtS6U5aSX97bc) | 2:20 |
 | 10 | [Ojitos de Aceituna](https://open.spotify.com/track/2KhOJ9fPnHE6HJd7R6jF2L) | [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT), [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [Ojitos de Aceituna](https://open.spotify.com/album/0T1toCzjEqFltKmHuwznI5) | 2:47 |
 | 11 | [El Contragolpe](https://open.spotify.com/track/44qNH2IBVbzLimI97YyJeK) | [Alci Acosta](https://open.spotify.com/artist/3CoaObestry7i9joSvJ2hK) | [30 Mejores: Alci Acosta](https://open.spotify.com/album/1NdnBLYZy9ZtgzPbyxdM5E) | 2:33 |
-| 12 | [El Teléfono](https://open.spotify.com/track/7GlDEtXzNPFUAWr4Qu4K4d) | [Segundo Rosero](https://open.spotify.com/artist/41EMdaUylPIcdbGdojyr2O) | [La Tripleta Popular, Vol\. 19](https://open.spotify.com/album/6fMrPRvcyU4X80kojIGxHF) | 2:49 |
-| 13 | [Cien Años](https://open.spotify.com/track/4SL8wbnGRP0nkIYyjeIKRU) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Un Canto por México, Vol\. II](https://open.spotify.com/album/0Ece1my4kjbR0frvMUzRT0) | 3:42 |
+| 12 | [Cien Años](https://open.spotify.com/track/4SL8wbnGRP0nkIYyjeIKRU) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Un Canto por México, Vol\. II](https://open.spotify.com/album/0Ece1my4kjbR0frvMUzRT0) | 3:42 |
+| 13 | [El Teléfono](https://open.spotify.com/track/7GlDEtXzNPFUAWr4Qu4K4d) | [Segundo Rosero](https://open.spotify.com/artist/41EMdaUylPIcdbGdojyr2O) | [La Tripleta Popular, Vol\. 19](https://open.spotify.com/album/6fMrPRvcyU4X80kojIGxHF) | 2:49 |
 | 14 | [Me Dices Que Te Vas](https://open.spotify.com/track/3N2a9M6Dm9azoY1YmmSBmu) | [Iván Cruz](https://open.spotify.com/artist/3zQZWNtvXSGkESIkW5Bf2L) | [Sé Que Me Engañaste un Día](https://open.spotify.com/album/6QAmZA5XSfwanx2QdCyxT1) | 3:21 |
 | 15 | [En la orilla del mar \(Bolero version\)](https://open.spotify.com/track/4ok44lUrhQgJEoyQq5Ot3N) | [Bienvenido Granda](https://open.spotify.com/artist/4IyPs1rPOAQOnXeqUTjty4) | [Cuba: Bienvenido Granda](https://open.spotify.com/album/3RxQinQEYdWBtAZkrMGfRt) | 2:50 |
 | 16 | [Tú Me Haces Falta](https://open.spotify.com/track/4mOmZqz9rjPTqphPiot9WK) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [La Historia De Jose Feliciano](https://open.spotify.com/album/0Nev5wXF40lBeYwjz1syW9) | 2:49 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmr8GM6X0hs.md) - [plain]
 | 36 | [Mi Viejo / Recordando a Mi Padre](https://open.spotify.com/track/5sK9OW4DCGyfO7uaIR9pJq) | [Eva Ayllón](https://open.spotify.com/artist/6AQFORISOneOZkh6r1sGS2) | [Un Bolero un Vals, Vol\. 2](https://open.spotify.com/album/6QcqMrnNCOFagbX5Xn1Gg4) | 5:07 |
 | 37 | [Cabellitos de Mi Madre](https://open.spotify.com/track/5CEIxkQc67VmkkR2pQljSj) | [Ramón Avilés](https://open.spotify.com/artist/1IJ4cVs5Zjf2445S6ge2R1) | [Poker de Ases](https://open.spotify.com/album/2vbLzJhA0KgGveLxp1qnnK) | 3:00 |
 | 38 | [Kio](https://open.spotify.com/track/3ns4FKqAax76kulOxWSZdC) | [Pedrito Otiniano](https://open.spotify.com/artist/6wRjkV95z5xfzG7Yd9eOvG) | [Pedrito Otiniano y Sus Exitos](https://open.spotify.com/album/37tYAxmi3FWqBFjVl46F75) | 2:51 |
-| 39 | [Desvelo De Amor](https://open.spotify.com/track/5z46fEEorQBtY64lIyyBfo) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [La Tierna, Conmovedora, Bamboleadora](https://open.spotify.com/album/3505DvX9TkUjchDLCeSv5I) | 2:54 |
-| 40 | [Solo Cenizas Quedaron](https://open.spotify.com/track/5blYKQjsXDbGhENFKFBMXJ) | [Daniel Aranda](https://open.spotify.com/artist/4QCcLssqPwu4I7BJUECJPJ) | [Boleros & Baladas: Peruvians Sing For The Brokenhearted](https://open.spotify.com/album/2aKXlmYHTdm68pa9Q289Pk) | 3:15 |
+| 39 | [Solo Cenizas Quedaron](https://open.spotify.com/track/5blYKQjsXDbGhENFKFBMXJ) | [Daniel Aranda](https://open.spotify.com/artist/4QCcLssqPwu4I7BJUECJPJ) | [Boleros & Baladas: Peruvians Sing For The Brokenhearted](https://open.spotify.com/album/2aKXlmYHTdm68pa9Q289Pk) | 3:15 |
+| 40 | [Desvelo De Amor](https://open.spotify.com/track/5z46fEEorQBtY64lIyyBfo) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [La Tierna, Conmovedora, Bamboleadora](https://open.spotify.com/album/3505DvX9TkUjchDLCeSv5I) | 2:54 |
 | 41 | [Loca Ansiedad](https://open.spotify.com/track/4ALC5ZxsZDggCppZcqOrNO) | [Raul Lopez](https://open.spotify.com/artist/0WoNXUXKyGZ4gzN2uJgp6S), [Orquesta de Ricaurte Arias](https://open.spotify.com/artist/7wR8LmVjcmGvqdOHZGhWAr) | [Loca Ansiedad](https://open.spotify.com/album/2JGjsZpQxsRZlNobxeLr4s) | 2:55 |
 | 42 | [Canta Canta](https://open.spotify.com/track/6FmscChYXXYOYMrwMt6CZr) | [Toña "La Negra"](https://open.spotify.com/artist/1SZQKoMtYV7tyEZSagGFio) | [Aquellas Lindas Melodias, Vol\. 9](https://open.spotify.com/album/2gnllsi7CMqa2oo5APO54S) | 2:45 |
 | 43 | [Mañanas de Carnaval](https://open.spotify.com/track/1TpiHiQiv8TY3Tw0KZKv0V) | [Betty Missiego](https://open.spotify.com/artist/160HajXHxdQFEbwdvDaunP) | [Inolvidable \(Boleros\)](https://open.spotify.com/album/28FSqSrZWqwnzdtBswzkiv) | 3:35 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmr8GM6X0hs.md) - [plain]
 | 46 | [Escándalo / Luz y Sombra](https://open.spotify.com/track/3L1iwOmLRPkzYLf8IPNZuJ) | [Tania Libertad](https://open.spotify.com/artist/2nvZRZAeuKXzsntCKFHTKh) | [Mucho Corazón](https://open.spotify.com/album/7vJaotg3rgAIezud8FO4QU) | 3:11 |
 | 47 | [Qué Quieres Tú de Mi / De Qué Estoy Hecha](https://open.spotify.com/track/5umXQ7OjEhHaZ4iIXi19pT) | [Eva Ayllón](https://open.spotify.com/artist/6AQFORISOneOZkh6r1sGS2) | [Un Bolero un Vals](https://open.spotify.com/album/5IcQgIVDhWwn5BWXqVbBZo) | 6:24 |
 | 48 | [Ese Bolero Es Mío](https://open.spotify.com/track/37gfxVderzFMP4zRiFdSPa) | [Felipe Pirela](https://open.spotify.com/artist/6PbZObu8NuIhiU6L0OzkZN) | [El Bolerista De América](https://open.spotify.com/album/1G5i6MjFQqHQpwX7uS5jJT) | 2:53 |
-| 49 | [Y Después Del Amor](https://open.spotify.com/track/40uK9I0QmVwRaZqS0v1IBq) | [Los Hermanos Castro](https://open.spotify.com/artist/73bp01vqoNhqJr3sirTzIc) | [50 Años Live](https://open.spotify.com/album/58aXd3xlsqShN3YqfOM3kS) | 5:35 |
-| 50 | [Brujerias](https://open.spotify.com/track/3KMZevenugNMlqN1q5RyKR) | [Johnny Farfán](https://open.spotify.com/artist/0Bwzbgfx2UJ7tiHBs2LHwj) | [La Voz Elegante del Bolero](https://open.spotify.com/album/1JLkMWNGLHIp2KWRWXq39H) | 2:25 |
+| 49 | [Brujerias](https://open.spotify.com/track/3KMZevenugNMlqN1q5RyKR) | [Johnny Farfán](https://open.spotify.com/artist/0Bwzbgfx2UJ7tiHBs2LHwj) | [La Voz Elegante del Bolero](https://open.spotify.com/album/1JLkMWNGLHIp2KWRWXq39H) | 2:25 |
+| 50 | [Y Después Del Amor](https://open.spotify.com/track/40uK9I0QmVwRaZqS0v1IBq) | [Los Hermanos Castro](https://open.spotify.com/artist/73bp01vqoNhqJr3sirTzIc) | [50 Años Live](https://open.spotify.com/album/58aXd3xlsqShN3YqfOM3kS) | 5:35 |
 | 51 | [Dimelo](https://open.spotify.com/track/3hY0TCeZr9VVBz8ZXnL9U2) | [Carmen Delia Dipini](https://open.spotify.com/artist/6DmGRDkFsjh9CAdjzcueSL) | [Toda una Vida](https://open.spotify.com/album/5vDTFuOk5kEFLFb5PsampY) | 2:58 |
 | 52 | [Amor Perdido](https://open.spotify.com/track/6kJrQyiydPbEiAgfU5Phrp) | [Maria Luisa Landin](https://open.spotify.com/artist/6xwRfnFKMKRoHL8LuLNBpf) | [Colección Diamante](https://open.spotify.com/album/1mzaWbfnxIq01Jyi23b96h) | 3:14 |
 | 53 | [Sendas Distintas](https://open.spotify.com/track/1dDww9N6QpAVCo8wGLbqjv) | [Trío Los Brillantes](https://open.spotify.com/artist/34IbPLLHZ8mgTheWAToL2S) | [Época de Oro](https://open.spotify.com/album/6XW6Ia3kWV7xtS4r8frSWx) | 3:14 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmr8GM6X0hs.md) - [plain]
 | 59 | [Lo Que Quiera Lola](https://open.spotify.com/track/6443igXMStgLhDvCveDZfQ) | [Bobby Capo](https://open.spotify.com/artist/4HtNNYomY2s6l36CdhOqWW) | [Canta](https://open.spotify.com/album/3cAzDp7oyxsh1nJiEfWoJr) | 2:46 |
 | 60 | [Otra Copa](https://open.spotify.com/track/48L73UQjzeXjq7MjDAe12U) | [Los Pasteles Verdes](https://open.spotify.com/artist/2lHzW2pMhRYX3ohx5lZY8y) | [Éxitos Eternos](https://open.spotify.com/album/3P9Y7c860rgTpYjK8SBMon) | 4:24 |
 
-Snapshot ID: `MTYzOTcxNzI2MCwwMDAwMDAwMGZkNTQwMjZmOGI3NzJhZjZhOGFlODgyYjllMWI1YWFm`
+Snapshot ID: `MTYzOTcxNzI2MCwwMDAwMDAwMGQ0MmI4NmJmYWY5NzQ2ZjUxZTgwMDA5ZGU5M2IyN2Ew`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 
 > só faixa rosa, tem disposição? 🎀 Foto: Mc Luanna
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,256 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,308 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 | 43 | [Malandrona](https://open.spotify.com/track/5CNE1OG4dUufkO8NrKlfxF) | [Juju Rude](https://open.spotify.com/artist/3d8GIcSCusjD1PkMxt76e1) | [Malandrona](https://open.spotify.com/album/2zMrmtd5uzAjLO83Fr2pVc) | 3:24 |
 | 44 | [Difere](https://open.spotify.com/track/6AgGeM4gmmSxWJeIblSa5G) | [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh), [Marreta](https://open.spotify.com/artist/0glk5tMutCR844wvAoFJ8J) | [Difere](https://open.spotify.com/album/1CqyxG4xsl7HoqBPGwWVhQ) | 2:12 |
 | 45 | [FREESTYLE DAS FAIXA ROSA](https://open.spotify.com/track/5wmnvwl9CFEr2Td4xkJ1ZK) | [WillsBife](https://open.spotify.com/artist/3QlBuIqyonbRMU1yZIh7o3), [ONNiKA](https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [FEBRE AMARELA \(Deluxe Edition\)](https://open.spotify.com/album/59JY68uudM8V2Xm26iIZBL) | 2:35 |
-| 46 | [Sobrenome](https://open.spotify.com/track/7lfKqObVLqhJ8O5PF8UwtW) | [Dagrace](https://open.spotify.com/artist/5RWAfDPfPQklvfe40tNxWT), [Dodoin](https://open.spotify.com/artist/4I0iZ0003sCk7k5eHKzKh1) | [Sobrenome](https://open.spotify.com/album/5CXvCpwUJ9GdHjumehKIQ7) | 2:14 |
-| 47 | [Morango no Gin](https://open.spotify.com/track/64AaCofmb0AqrN7vWuXO5c) | [Barona](https://open.spotify.com/artist/26STitvgUGkBvAG0obuDQn), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [Morango no Gin](https://open.spotify.com/album/6nkJrMukU7V3XXfVKLujjA) | 2:29 |
+| 46 | [Morango no Gin](https://open.spotify.com/track/64AaCofmb0AqrN7vWuXO5c) | [Barona](https://open.spotify.com/artist/26STitvgUGkBvAG0obuDQn), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [Morango no Gin](https://open.spotify.com/album/6nkJrMukU7V3XXfVKLujjA) | 2:29 |
+| 47 | [Sobrenome](https://open.spotify.com/track/7lfKqObVLqhJ8O5PF8UwtW) | [Dagrace](https://open.spotify.com/artist/5RWAfDPfPQklvfe40tNxWT), [Dodoin](https://open.spotify.com/artist/4I0iZ0003sCk7k5eHKzKh1) | [Sobrenome](https://open.spotify.com/album/5CXvCpwUJ9GdHjumehKIQ7) | 2:14 |
 | 48 | [Florescer](https://open.spotify.com/track/7k5SeF10dmOPbzxebfUc7F) | [Mayarah Magalhães](https://open.spotify.com/artist/2FmV8Y424XsncsEO9ztY3p), [Blood Beatz](https://open.spotify.com/artist/5MGHzEwXZ13izki8gsjrFc) | [Florescer](https://open.spotify.com/album/1NJsjzZ2AZBFCPCOeVyb7x) | 4:48 |
 | 49 | [Gloss da Fenty](https://open.spotify.com/track/0DjukObSYMD9NkhKJlB01i) | [ADH4RAA](https://open.spotify.com/artist/5b6HkQI2FG6VyL7ZnK9t1e), [Ayla On The Beat](https://open.spotify.com/artist/6k595dcIJDVjfgANp2VgTV), [Xavier2bit](https://open.spotify.com/artist/5b3JwpsWnUgqkDNAsoJWwV) | [Gloss da Fenty](https://open.spotify.com/album/6CeFh6CSzKy1bc26R0155q) | 2:30 |
 | 50 | [Ritmada e Pixadona](https://open.spotify.com/track/3ulPHMUKYGIkaAuKMeCQvY) | [Juju Rude](https://open.spotify.com/artist/3d8GIcSCusjD1PkMxt76e1), [L3OZIN](https://open.spotify.com/artist/3xbUtkAk7Bbhwosg3mI3ez) | [Ritmada e Pixadona](https://open.spotify.com/album/202zAHkreptTG0EXvqNNfb) | 3:25 |
 
-Snapshot ID: `MTY2MzQ0MTM2MSwwMDAwMDAwMGQ0MWQwNjQ2MDRiZWI0MGEzNGFkYTcwZjYzMzU1ZDVm`
+Snapshot ID: `MTY2MzQ0MTM2MSwwMDAwMDAwMDgzNTI3ZDFjMjdhMTIwNWQ3ODNiY2Y1MzgyMjVjZTg3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZA4G4jVRXy.md) - [plain]
 
 > Pour yourself a mai tai and festoon youself with lei, welcome to the Hawaiian party!
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,132 likes - 76 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,156 likes - 76 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZA4G4jVRXy.md) - [plain]
 | 21 | [Nani Wale Ka Lau Oliva](https://open.spotify.com/track/6GLfF4lksULpecQMFMy3lU) | [Benitez, Darren](https://open.spotify.com/artist/1ZmCUwq9iEoBTFE9unlWTI) | [Dear Mama](https://open.spotify.com/album/1Zqt9Q1iqeRLPZBFHiMGmn) | 5:07 |
 | 22 | [So Nice \(Samba De Verao\) \- Remastered](https://open.spotify.com/track/3xkNsybtI1tNUNhVyI99yO) | [Wanda De Sah](https://open.spotify.com/artist/53fV7ZIDRHAnZyHYAszLki), [Sérgio Mendes](https://open.spotify.com/artist/65c5si0ePAwkOCn4M35Ho7) | [Ultra\-Lounge: Bossa Novaville](https://open.spotify.com/album/5utRkK1KmqAY9H5UiRT2WM) | 2:17 |
 | 23 | [Alika](https://open.spotify.com/track/5VUZ3kwdQHr9rMVkJot15R) | [Genoa Keawe](https://open.spotify.com/artist/3TOhHfwiR2xQYQFph79xOy) | [Hana Hou! Vol\. 1](https://open.spotify.com/album/2LSvzyw8Xt2r11gsaSfPVt) | 4:36 |
-| 24 | [Chant Of The Moon](https://open.spotify.com/track/6j46ude4neMZMiEagbYkie) | [Robert Drasnin](https://open.spotify.com/artist/4lWj8PHjMEv0e2SZ7j1ZE4) | [Voodoo!](https://open.spotify.com/album/6SnfMkaU2WAvBmmiFpz892) | 2:33 |
-| 25 | [Terry's Theme \(From "Limelight\)](https://open.spotify.com/track/5w8RGAqzAgXsrKjb7BFxle) | [The Three Suns](https://open.spotify.com/artist/6SOQrmfK6SFNQgl1krQrNc) | [On A Magic Carpet](https://open.spotify.com/album/6kx51Uus6xYrzcO7unJAqJ) | 3:18 |
+| 24 | [Terry's Theme \(From "Limelight\)](https://open.spotify.com/track/5w8RGAqzAgXsrKjb7BFxle) | [The Three Suns](https://open.spotify.com/artist/6SOQrmfK6SFNQgl1krQrNc) | [On A Magic Carpet](https://open.spotify.com/album/6kx51Uus6xYrzcO7unJAqJ) | 3:18 |
+| 25 | [Chant Of The Moon](https://open.spotify.com/track/6j46ude4neMZMiEagbYkie) | [Robert Drasnin](https://open.spotify.com/artist/4lWj8PHjMEv0e2SZ7j1ZE4) | [Voodoo!](https://open.spotify.com/album/6SnfMkaU2WAvBmmiFpz892) | 2:33 |
 | 26 | [Palace of the Tiger Women](https://open.spotify.com/track/0pApiVPobdC1NR1DhTPWpY) | [Kava Kon](https://open.spotify.com/artist/1fok8glC2cepDQ0b1VBUkd) | [Tiki for the Atomic Age](https://open.spotify.com/album/2nM2Rcvns6Yb64AxylBDUA) | 2:48 |
 | 27 | [Taboo Tu](https://open.spotify.com/track/7tmHTrXjolQZbD0qxLWn9Y) | [Arthur Lyman](https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln) | [Taboo 2: New Exotic Sounds of Arthur Lyman](https://open.spotify.com/album/4QQrUheyVPgbSgnW3QCh5T) | 2:08 |
 | 28 | [Coffee Bean / Calabash Annie](https://open.spotify.com/track/7zpbyRkpMvD0Enc1b9muHq) | [Les Baxter](https://open.spotify.com/artist/35pV6EUbherudlvAftoueR) | [The Soul Of The Drums](https://open.spotify.com/album/5lJ4DgN4VRUi7IUeeGgub0) | 2:15 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZA4G4jVRXy.md) - [plain]
 | 75 | [Hana Maui \- Digitally Remastered 1995](https://open.spotify.com/track/0XN9TYjtGswD7jsLsg6xU2) | [Chick Floyd](https://open.spotify.com/artist/404efVa1buWrjEeOfQKGdN) | [Ultra\-Lounge/Mondo Exotica: Volume One](https://open.spotify.com/album/2NuOkgVt9mmGOGVG0YsVtm) | 3:16 |
 | 76 | [Lust](https://open.spotify.com/track/65jpm2yvG0Fz67GkUCClQV) | [Les Baxter](https://open.spotify.com/artist/35pV6EUbherudlvAftoueR), [Bas Sheva](https://open.spotify.com/artist/2754ZKfUBzGnAsiA2gYoxP) | [The Passions](https://open.spotify.com/album/63VK8OhIxPTYmKK5zc3i6L) | 2:59 |
 
-Snapshot ID: `MTY0ODYwNDc3OCwwMDAwMDAwMDVlMWM2Y2I1NmJkNzQwNDIxZDEyN2Q1NTY2NzUwMzc3`
+Snapshot ID: `MTY0ODYwNDc3OCwwMDAwMDAwMDg1ODIzNTZhMDk0YjU0MWIyZmQxYTY2YmE3NzY3YzUz`

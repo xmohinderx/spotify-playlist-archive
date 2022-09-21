@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWEcRhUVtL8n.md) - [plain]
 
 > New and approved indie pop\. Cover: The 1975
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,695,211 likes - 75 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,695,140 likes - 75 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,18 +41,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWEcRhUVtL8n.md) - [plain]
 | 31 | [Sunflower](https://open.spotify.com/track/1camd9eP6HEbhNjXww8FKN) | [Michele Leigh](https://open.spotify.com/artist/2VRzDvOFUJEFtt0vvnPg9A) | [Sunflower](https://open.spotify.com/album/2mHFAtwST4vVJPdnV8ApHk) | 2:45 |
 | 32 | [Dream Girl Evil](https://open.spotify.com/track/7GtOjSSp5Qyi3gNbNDZgja) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Dance Fever](https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE) | 3:47 |
 | 33 | [Mona Lisa, Mona Lisa](https://open.spotify.com/track/252G7yirQ4pXj6ZD4T9R2W) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Mona Lisa, Mona Lisa](https://open.spotify.com/album/0PmQqosU37by7LZHObTC8r) | 2:52 |
-| 34 | [Another Man's Jeans](https://open.spotify.com/track/2Tv3bPKLESHfl8jgAlY2Pv) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Another Man's Jeans](https://open.spotify.com/album/54xLeetI8f6mslHLEJ5K2X) | 2:45 |
-| 35 | [I'm Not In Love](https://open.spotify.com/track/0fB64S7FNKUDQlyYXlacYi) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x) | [I'm Not In Love](https://open.spotify.com/album/10VeT6WRqObxGPOirjcank) | 1:37 |
-| 36 | [All I Ever Asked](https://open.spotify.com/track/2F9DCIJ7ZXHhNkiIlIIOkw) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [All I Ever Asked](https://open.spotify.com/album/2FuT85CBZhzZ8dndFdtwXn) | 3:35 |
+| 34 | [I'm Not In Love](https://open.spotify.com/track/0fB64S7FNKUDQlyYXlacYi) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x) | [I'm Not In Love](https://open.spotify.com/album/10VeT6WRqObxGPOirjcank) | 1:37 |
+| 35 | [Another Man's Jeans](https://open.spotify.com/track/2Tv3bPKLESHfl8jgAlY2Pv) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Another Man's Jeans](https://open.spotify.com/album/54xLeetI8f6mslHLEJ5K2X) | 2:45 |
+| 36 | [Blue Spirits](https://open.spotify.com/track/7xXUNbWepi09rzwW1Il61B) | [DWLLRS](https://open.spotify.com/artist/2TviQllPVEQ7E68Yr4uPKR) | [Blue Spirits](https://open.spotify.com/album/7fKKW6npF1UzqRXre0Y39n) | 3:08 |
 | 37 | [Threads](https://open.spotify.com/track/2SJ0exVB6NRWLbdjCsNWAd) | [Indy](https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ) | [Threads](https://open.spotify.com/album/1SZmDUuIlro250y8TPMMbd) | 3:52 |
-| 38 | [Dover Beach](https://open.spotify.com/track/5BCYtpbTyUQSMRwDVPb5wk) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [The Yearbook](https://open.spotify.com/album/5AxHpSJXhis5BFb1AA24pe) | 3:38 |
-| 39 | [Blue Spirits](https://open.spotify.com/track/7xXUNbWepi09rzwW1Il61B) | [DWLLRS](https://open.spotify.com/artist/2TviQllPVEQ7E68Yr4uPKR) | [Blue Spirits](https://open.spotify.com/album/7fKKW6npF1UzqRXre0Y39n) | 3:08 |
+| 38 | [All I Ever Asked](https://open.spotify.com/track/2F9DCIJ7ZXHhNkiIlIIOkw) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [All I Ever Asked](https://open.spotify.com/album/2FuT85CBZhzZ8dndFdtwXn) | 3:35 |
+| 39 | [Line Without a Hook \(feat\. mxmtoon\)](https://open.spotify.com/track/4dHdqpGaO9km4TEw9nNQSR) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw), [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [Line Without a Hook \(feat\. mxmtoon\)](https://open.spotify.com/album/6uDkQYNploKRDP7Pu36DNz) | 4:11 |
 | 40 | [Forever Is A Charm](https://open.spotify.com/track/6TlRcJOQR1vXemRRfTcFw7) | [Princess Chelsea](https://open.spotify.com/artist/6SrA4711bML5NvPO13Tr6t) | [Forever Is A Charm](https://open.spotify.com/album/2tu1YFttjNiRIsCICSMyEl) | 3:11 |
-| 41 | [Line Without a Hook \(feat\. mxmtoon\)](https://open.spotify.com/track/4dHdqpGaO9km4TEw9nNQSR) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw), [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [Line Without a Hook \(feat\. mxmtoon\)](https://open.spotify.com/album/6uDkQYNploKRDP7Pu36DNz) | 4:11 |
+| 41 | [Dover Beach](https://open.spotify.com/track/5BCYtpbTyUQSMRwDVPb5wk) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [The Yearbook](https://open.spotify.com/album/5AxHpSJXhis5BFb1AA24pe) | 3:38 |
 | 42 | [Serotonin](https://open.spotify.com/track/1q2Zb0v5ZGxKDktEz7wSPb) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Serotonin](https://open.spotify.com/album/7Dv5bbo8oZ0KTrXG6CkeUO) | 3:02 |
 | 43 | [One More Weekend](https://open.spotify.com/track/19YOJKCVvOL7v6B2Oe3UBc) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [One More Weekend](https://open.spotify.com/album/4tylLsr8HZOfL4FQ6h7SB7) | 2:22 |
-| 44 | [Time Bomb](https://open.spotify.com/track/5d8a5B6RlYnquvR4X4OIrX) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [So Far So Good](https://open.spotify.com/album/4nZ4dv1XvDE25Lf2MFhOqA) | 3:23 |
-| 45 | [Friend](https://open.spotify.com/track/6fGSHpEipD1YjtLLChnBzW) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [minor](https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy) | 2:56 |
+| 44 | [Friend](https://open.spotify.com/track/6fGSHpEipD1YjtLLChnBzW) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [minor](https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy) | 2:56 |
+| 45 | [Time Bomb](https://open.spotify.com/track/5d8a5B6RlYnquvR4X4OIrX) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [So Far So Good](https://open.spotify.com/album/4nZ4dv1XvDE25Lf2MFhOqA) | 3:23 |
 | 46 | [Easy](https://open.spotify.com/track/3gzIK2dGSVvPBiohsTwEWZ) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [In A Dream](https://open.spotify.com/album/6DutwGzMeny33G6mIpujDj) | 3:46 |
 | 47 | [I Gotta I Gotta](https://open.spotify.com/track/2pKLhfqiY6yD1tZWlbE3tQ) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [I Gotta I Gotta](https://open.spotify.com/album/5tfq2xwJtGRKA7rIJgMyix) | 2:17 |
 | 48 | [I Want To Be With You](https://open.spotify.com/track/4LK36kV9w3KBD2GYL26ZBq) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Blood Bunny](https://open.spotify.com/album/1nXTxXK5WyXz7cLYYVPhKA) | 2:59 |
@@ -74,14 +74,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWEcRhUVtL8n.md) - [plain]
 | 64 | [slow down](https://open.spotify.com/track/2IKix80lBA5ppm6096p5U7) | [Forrest.](https://open.spotify.com/artist/6chWbUfdu6ibyaCXM1w8kQ), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [slow down](https://open.spotify.com/album/6esHeLToAEKkGVkjTbmd1i) | 2:50 |
 | 65 | [Grocery Store](https://open.spotify.com/track/5eGIOMy0V0r7neaaPve2kB) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Grocery Store](https://open.spotify.com/album/1eCqGxTppTVL3jtVMzD2Wd) | 2:14 |
 | 66 | [Anything But Me](https://open.spotify.com/track/0MtRE3z0MqQp9ZgYVW9s8u) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [MUNA](https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l) | 3:33 |
-| 67 | [Catch Me In The Air](https://open.spotify.com/track/6VRfsebyIwzt9otSvcuV87) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Catch Me In The Air](https://open.spotify.com/album/31uMGaqlOlC9QcKG8e7aVq) | 3:35 |
-| 68 | [Cutie](https://open.spotify.com/track/4nLTOnpSCBwRlul92HLIyW) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Cutie](https://open.spotify.com/album/5bn7iiPpq2Za6KX1PekKD2) | 3:04 |
+| 67 | [Cutie](https://open.spotify.com/track/4nLTOnpSCBwRlul92HLIyW) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Cutie](https://open.spotify.com/album/5bn7iiPpq2Za6KX1PekKD2) | 3:04 |
+| 68 | [Catch Me In The Air](https://open.spotify.com/track/6VRfsebyIwzt9otSvcuV87) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Catch Me In The Air](https://open.spotify.com/album/31uMGaqlOlC9QcKG8e7aVq) | 3:35 |
 | 69 | [Fruity](https://open.spotify.com/track/4XVPArAtSq0657KUF0vXRy) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Fruity](https://open.spotify.com/album/63awPWi564xa0E4Y61w2dz) | 3:13 |
-| 70 | [Where Do We Go From Here?](https://open.spotify.com/track/5DObWDHfwHE2mIdZGgRnzE) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Easy / Where Do We Go From Here?](https://open.spotify.com/album/1paYV647AAPnlKgpFJVtLa) | 3:51 |
-| 71 | [Petrified](https://open.spotify.com/track/0G41EUi3xiwUR6iOtXAQCz) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:17 |
+| 70 | [Petrified](https://open.spotify.com/track/0G41EUi3xiwUR6iOtXAQCz) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:17 |
+| 71 | [Where Do We Go From Here?](https://open.spotify.com/track/5DObWDHfwHE2mIdZGgRnzE) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Easy / Where Do We Go From Here?](https://open.spotify.com/album/1paYV647AAPnlKgpFJVtLa) | 3:51 |
 | 72 | [stuck on us](https://open.spotify.com/track/5GIsnSmSyFM8dI3e4dP1G5) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24), [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [stuck on us](https://open.spotify.com/album/1KXHYyQGGw2QbPGQSOBwJN) | 2:55 |
 | 73 | [gentle](https://open.spotify.com/track/7LhVGZrF9jgkT97CaKTlds) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [closer to closure](https://open.spotify.com/album/6CfZkq2gT8JmDKJGgHOIf1) | 3:18 |
-| 74 | [kaleidoscope](https://open.spotify.com/track/5bD7bhOa64aE8a0vifa5J6) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [kaleidoscope](https://open.spotify.com/album/5AVdHQYItgjzDu5qRVmONy) | 3:05 |
-| 75 | [Meteorite](https://open.spotify.com/track/6el1gIJ39V0ycFwNLZiKm7) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI), [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Meteorite](https://open.spotify.com/album/0fwTvb0Qo1pjmAr82hCE7t) | 3:14 |
+| 74 | [Meteorite](https://open.spotify.com/track/6el1gIJ39V0ycFwNLZiKm7) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI), [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Meteorite](https://open.spotify.com/album/0fwTvb0Qo1pjmAr82hCE7t) | 3:14 |
+| 75 | [kaleidoscope](https://open.spotify.com/track/5bD7bhOa64aE8a0vifa5J6) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [kaleidoscope](https://open.spotify.com/album/5AVdHQYItgjzDu5qRVmONy) | 3:05 |
 
-Snapshot ID: `MTY2MzMwMDgwMCwwMDAwMDAwMGU3MGEyMzlhNmFhNTUyODQ3ODdmNzk1MjZkMzU4NDNl`
+Snapshot ID: `MTY2MzMwMDgwMCwwMDAwMDAwMGE1YzI3MzA3YmE5N2I5Y2Q5OTFmN2Q5OGY1M2IxYzhj`

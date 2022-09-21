@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzD9XKRPIjnv.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0JLbaF5wHm7PYeI06NPRsa">Sarah Aarons</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,364 likes - 113 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,365 likes - 113 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzD9XKRPIjnv.md) - [plain]
 | 18 | [GIRL](https://open.spotify.com/track/0pGXe7umwkcCm01Ipoxp0U) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [GIRL](https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf) | 4:10 |
 | 19 | [working](https://open.spotify.com/track/31sSFHIe4NaxltVFOEIcTa) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [working](https://open.spotify.com/album/4iCcsBlzVQVZoJzxBvhuyS) | 3:30 |
 | 20 | [With You](https://open.spotify.com/track/1xK7enJZVdv37fnnxoZlPq) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [With You](https://open.spotify.com/album/03Rd91m56yw4XklwHF9FHq) | 3:00 |
-| 21 | [Tell Me You Love Me](https://open.spotify.com/track/5kgqTe1BM720OjU78TGYDw) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [Throttle](https://open.spotify.com/artist/6mPZJXtFVaakznkRxdgWtC) | [The Aviary](https://open.spotify.com/album/7DNmxxEuJe19wNVrinaXx4) | 3:10 |
-| 22 | [21](https://open.spotify.com/track/2D2lazsae9o1UoVPUAdxyT) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [21](https://open.spotify.com/album/1IbwoLXOOvXeLeyE7tZnOl) | 3:05 |
+| 21 | [21](https://open.spotify.com/track/2D2lazsae9o1UoVPUAdxyT) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [21](https://open.spotify.com/album/1IbwoLXOOvXeLeyE7tZnOl) | 3:05 |
+| 22 | [Tell Me You Love Me](https://open.spotify.com/track/5kgqTe1BM720OjU78TGYDw) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [Throttle](https://open.spotify.com/artist/6mPZJXtFVaakznkRxdgWtC) | [The Aviary](https://open.spotify.com/album/7DNmxxEuJe19wNVrinaXx4) | 3:10 |
 | 23 | [Preach](https://open.spotify.com/track/2AaF78iCWISMWYog5RnSi5) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Preach](https://open.spotify.com/album/32r4o1R9a1lK5DoVXGEC7E) | 3:56 |
 | 24 | [Fire](https://open.spotify.com/track/3BZkEOJwKUYRlkLWZB1izC) | [Peking Duk](https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY) | [Reprisal](https://open.spotify.com/album/1BJ0H6MrMADSdqHm3aadbM) | 3:46 |
 | 25 | [Paradise](https://open.spotify.com/track/6fOOKqQWcSy33ApU1wqkkW) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Free Spirit](https://open.spotify.com/album/6KT8x5oqZJl9CcnM66hddo) | 2:53 |
@@ -109,8 +109,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzD9XKRPIjnv.md) - [plain]
 | 99 | [Lonely Walls](https://open.spotify.com/track/4LCaPu4CHDCMRWKFuNgjH1) | [PON CHO](https://open.spotify.com/artist/2NYOggWBPKbqdEYs7jUr1n), [Paige IV](https://open.spotify.com/artist/7FhrJLDe6bQ0Hqt9Wf7zXh) | [Lonely Walls](https://open.spotify.com/album/0flfw3It14JDz4DqI5z5M0) | 3:09 |
 | 100 | [Grow](https://open.spotify.com/track/0LugbsjGtC0vOv87uqQN1W) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [How To Let Go](https://open.spotify.com/album/4V714KyABj469FBI9Dao8T) | 3:13 |
 | 101 | [WITHOUT YOU](https://open.spotify.com/track/7aLUbVBpLgsj4QW4fchL47) | [Cashmere Cat](https://open.spotify.com/artist/2LZDXcxJWgsJfKXZv9a5eG) | [PRINCESS CATGIRL](https://open.spotify.com/album/5DFEo8Nh5N6BYScoCDKvkh) | 3:24 |
-| 102 | [The Calling](https://open.spotify.com/track/46Fy5SFlRgziwsV98Iupt3) | [L D R U](https://open.spotify.com/artist/2RnDmyX1zzOkK5Cj9QPhMq) | [Sizzlar](https://open.spotify.com/album/4AVhMub7KtxGzPlBrKJ6L7) | 3:48 |
-| 103 | [Together Now](https://open.spotify.com/track/0wGlWyLEXXjeBTpNIPFii0) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [Anna Kendrick](https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Anthony Ramos](https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse), [Ester Dean](https://open.spotify.com/artist/0v2Y5jwtcv8LiWNTRls1KM) | [TROLLS Holiday In Harmony](https://open.spotify.com/album/4QhiPwSJKMHBk0EL67zBaT) | 2:56 |
+| 102 | [Together Now](https://open.spotify.com/track/0wGlWyLEXXjeBTpNIPFii0) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [Anna Kendrick](https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Anthony Ramos](https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse), [Ester Dean](https://open.spotify.com/artist/0v2Y5jwtcv8LiWNTRls1KM) | [TROLLS Holiday In Harmony](https://open.spotify.com/album/4QhiPwSJKMHBk0EL67zBaT) | 2:56 |
+| 103 | [The Calling](https://open.spotify.com/track/46Fy5SFlRgziwsV98Iupt3) | [L D R U](https://open.spotify.com/artist/2RnDmyX1zzOkK5Cj9QPhMq) | [Sizzlar](https://open.spotify.com/album/4AVhMub7KtxGzPlBrKJ6L7) | 3:48 |
 | 104 | [Paradigm](https://open.spotify.com/track/3VX9HKHVjgyP0ttPleaRDE) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Every Shade of Blue](https://open.spotify.com/album/3MS8HC8JyaMQWZeDrh8heB) | 3:24 |
 | 105 | [HAPPY HURTS](https://open.spotify.com/track/2r2l2KmLnaULSmaeB7Df8b) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [EYEYE](https://open.spotify.com/album/4DEuMVYWVQHxhE8oNBO8T4) | 4:56 |
 | 106 | [Head Away](https://open.spotify.com/track/6Pq3iabH7bmUzsLW3Ql51G) | [Meg Mac](https://open.spotify.com/artist/4faUajx9k93O56nlmpkOuz) | [HOPE](https://open.spotify.com/album/5xDFzFfY4gWoTVUfc2JoRB) | 3:56 |
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzD9XKRPIjnv.md) - [plain]
 | 112 | [Broken Home \- From "Empire: Season 6"](https://open.spotify.com/track/4dkn6avuOxa9hwnk9507KQ) | [Empire Cast](https://open.spotify.com/artist/7EjxNoVjXo7gL73F2EdXVA), [Alexandra Grey](https://open.spotify.com/artist/6VW8RmPy2TkeibNTFafG6n) | [Broken Home \(From "Empire: Season 6"\)](https://open.spotify.com/album/1pQ8f3ulVNTU3WZytYxMb6) | 3:20 |
 | 113 | [Trust Issues](https://open.spotify.com/track/1pF2jde5bhVXkDlWyl7N03) | [Aaron](https://open.spotify.com/artist/556QXf5aTw46XDZ9swLCYE) | [Trust Issues](https://open.spotify.com/album/0NU1WYWYXzGtC4SwkOsxD4) | 3:21 |
 
-Snapshot ID: `Mjc3MjcyNzMsMDAwMDAwMDBhNGQ5ZmM3ZTQzMjZiYjZlMzkzZmUyM2Y5ODQxOGZlYQ==`
+Snapshot ID: `Mjc3Mjg3MTIsMDAwMDAwMDAxMTkxNGNmMWU5OGY3ZjViZWYyODlmMjQ0MjIwN2Q0YQ==`

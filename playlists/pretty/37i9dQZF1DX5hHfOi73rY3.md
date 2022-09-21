@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hHfOi73rY3.md) - [plain]
 
 > Classic party anthems from the club to your ears!
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,954 likes - 50 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,022 likes - 50 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hHfOi73rY3.md) - [plain]
 | 14 | [Liquid Spirit \- Claptone Remix](https://open.spotify.com/track/6wp5tGVNQYpKJPo1s3WUEY) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8), [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry) | [Liquid Spirit \(Claptone Remix\)](https://open.spotify.com/album/2IeDDT5i132tRkKHrdfWS2) | 6:23 |
 | 15 | [Rinse & Repeat](https://open.spotify.com/track/5oYYYDhyPFPXjAn4TzymOC) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [Rinse & Repeat](https://open.spotify.com/album/0mjQLxpw5AdIxWI4Jqpenn) | 2:32 |
 | 16 | [Need U \(100%\) \(feat\. A\*M\*E\) \- Radio Edit](https://open.spotify.com/track/5zdkUzguZYAfBH9fnWn3Zl) | [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E), [A\*M\*E](https://open.spotify.com/artist/0tMbQtD3YwrVFk9Lb6abmB) | [Need U \(100%\) \(feat\. A\*M\*E\) \[Remixes\]](https://open.spotify.com/album/3kiROSu1UpNbBPlewWu3f6) | 2:54 |
-| 17 | [Rhymes](https://open.spotify.com/track/5QTlj4L7ODIKNnTkhDE16p) | [Hannah Wants](https://open.spotify.com/artist/7sK4hnuUOXw6VStDw0q8NI), [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj) | [Rhymes](https://open.spotify.com/album/4hqlx8mdrCorDXsdzQfmX1) | 3:20 |
-| 18 | [Cola](https://open.spotify.com/track/7ir1tVqAtNjctvteJPw5MF) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Cola](https://open.spotify.com/album/06M4lDqeBSMxVTFsNE8Sxi) | 3:43 |
+| 17 | [Cola](https://open.spotify.com/track/7ir1tVqAtNjctvteJPw5MF) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Cola](https://open.spotify.com/album/06M4lDqeBSMxVTFsNE8Sxi) | 3:43 |
+| 18 | [Rhymes](https://open.spotify.com/track/5QTlj4L7ODIKNnTkhDE16p) | [Hannah Wants](https://open.spotify.com/artist/7sK4hnuUOXw6VStDw0q8NI), [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj) | [Rhymes](https://open.spotify.com/album/4hqlx8mdrCorDXsdzQfmX1) | 3:20 |
 | 19 | [Tidal Wave](https://open.spotify.com/track/3NKLPcvDM0pefpLNcmui2W) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Alpines](https://open.spotify.com/artist/5Rja2iSIMNhzHMRoKzHKNX) | [Torus](https://open.spotify.com/album/5VDg2zP4jsc8Ufj1dPEA3d) | 3:48 |
 | 20 | [Best Be Believing \- Shadow Child Remix](https://open.spotify.com/track/4ZOuB9nVbvyeEIYKbm55O4) | [AlunaGeorge](https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38), [Shadow Child](https://open.spotify.com/artist/0tMr0e1EQZ0Vci7EHz2bM9) | [Body Music \(Remixed\)](https://open.spotify.com/album/02ia0xYRyujnMk3AuCUqoR) | 5:51 |
 | 21 | [The Groovy Cat](https://open.spotify.com/track/08d1uFAAtQgLbuvyP2AkoH) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS) | [The Groovy Cat](https://open.spotify.com/album/2zL3pun7npuBMHeBPr7mtz) | 4:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hHfOi73rY3.md) - [plain]
 | 49 | [Finder](https://open.spotify.com/track/2DNO2h1Qsc0vPAyLGReDvN) | [Ninetoes](https://open.spotify.com/artist/5MP4PiGA5PNFrsVjtauFnC) | [Finder](https://open.spotify.com/album/11fQed1lTippkC0Emeah41) | 5:49 |
 | 50 | [Piece Of Me](https://open.spotify.com/track/5xCKDXzh2JPFFcyHr39ROH) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Piece Of Me](https://open.spotify.com/album/7upcRDTY9YCYtAxuZkpJa2) | 3:07 |
 
-Snapshot ID: `MTY0MzI3ODQzNSwwMDAwMDAwMGI2YmEzM2E5MDdjY2UyMzdmYzZiODg3MDI1NDFlOGRk`
+Snapshot ID: `MTY0MzI3ODQzNSwwMDAwMDAwMGI0YWIyYzA4NGU4NmQ2OWUyN2Q0NzY5MDViZmFmZmMw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89XXHpIgTCJ.md) - [plain]
 
 > When Rock meets Rap: covers, collabs, mashups and everything that rhymes\. Cover:  JAY\-Z & Linkin Park
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,000 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,226 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89XXHpIgTCJ.md) - [plain]
 | 41 | [Gangsta's Paradise](https://open.spotify.com/track/5zXln9RP9AYK3eva2Lkj8w) | [Falling In Reverse](https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz) | [Punk Goes 90's, Vol\. 2](https://open.spotify.com/album/4OEnCG1PkPtwNwuIcb0Whv) | 3:54 |
 | 42 | [Wicked \(feat\. Chino Moreno\)](https://open.spotify.com/track/2PeLrcfqn5agneKc3S2HMu) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD), [Chino Moreno](https://open.spotify.com/artist/0Wfo0pd0KC47vx7uUEVOQ9) | [Life Is Peachy](https://open.spotify.com/album/2b813fSxxzp9lcOfnLrrTH) | 4:00 |
 | 43 | [GERONIMO \(feat\. Chino Moreno\)](https://open.spotify.com/track/3VAwH0vRDwvKl8jRVnQU0w) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX), [Chino Moreno](https://open.spotify.com/artist/0Wfo0pd0KC47vx7uUEVOQ9) | [Pegasus: Neon Shark vs Pegasus Presented By Travis Barker \(Deluxe\)](https://open.spotify.com/album/4Sj1MJMO2jaIZyr00ipCkl) | 2:59 |
-| 44 | [Shame](https://open.spotify.com/track/44go3ZmDNtKdfCc15IseAx) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1), [Wu\-Tang Clan](https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk) | [Loud Rocks](https://open.spotify.com/album/5PIDHpTCc6iT5WM2JZzFKu) | 2:40 |
-| 45 | [Let's Go](https://open.spotify.com/track/0vJ3WZ0Q6AdntTxQ384JQN) | [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX), [Yelawolf](https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57), [Twista](https://open.spotify.com/artist/6vbY3hOaCAhC7VjucswgdS), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) | [Give The Drummer Some \(Deluxe\)](https://open.spotify.com/album/6t4AZ1h46ksEZiKLjh7oes) | 3:13 |
+| 44 | [Let's Go](https://open.spotify.com/track/0vJ3WZ0Q6AdntTxQ384JQN) | [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX), [Yelawolf](https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57), [Twista](https://open.spotify.com/artist/6vbY3hOaCAhC7VjucswgdS), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) | [Give The Drummer Some \(Deluxe\)](https://open.spotify.com/album/6t4AZ1h46ksEZiKLjh7oes) | 3:13 |
+| 45 | [Shame](https://open.spotify.com/track/44go3ZmDNtKdfCc15IseAx) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1), [Wu\-Tang Clan](https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk) | [Loud Rocks](https://open.spotify.com/album/5PIDHpTCc6iT5WM2JZzFKu) | 2:40 |
 | 46 | [Rip It Up](https://open.spotify.com/track/0EcdmJCR4pURncLgeeBYvl) | [28 Days](https://open.spotify.com/artist/0NXVGrFkPu0Cohh3BJV5Wx) | [Up Style Down](https://open.spotify.com/album/6OT8sbDrxyACRi1mzzkj9M) | 3:39 |
 | 47 | [Made An America](https://open.spotify.com/track/0Q6AD7e7d9tpN1dXL4qh5P) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [Made An America](https://open.spotify.com/album/6HLseXtiQsGBeLaQ43Pm6G) | 2:53 |
 | 48 | [Get Naked](https://open.spotify.com/track/0CqQvJTH40jIehyC3ND6Er) | [Methods of Mayhem](https://open.spotify.com/artist/0AnjaOjAt53Ej9223SQv2p), [Fred Durst](https://open.spotify.com/artist/6xs3t4VrfszbO3YJg2wLPa), [George Clinton](https://open.spotify.com/artist/2GVBp7QyHckoOg7rYkLvrA), [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX), [Mix Master Mike](https://open.spotify.com/artist/4BeDVC50BVhB0bjQqjbhmt) | [Methods Of Mayhem](https://open.spotify.com/album/3xwu0sGFVTgeiExI6XIf1E) | 3:21 |
 | 49 | [King of Rock](https://open.spotify.com/track/7112WRQXlBGe4Os43yw8gV) | [Run–D.M.C.](https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA) | [King Of Rock \(Expanded Edition\)](https://open.spotify.com/album/57FQTvThrTFPrGPAvZCjw6) | 5:14 |
 | 50 | [Can't Get the Best of Me](https://open.spotify.com/track/4cmfwCjNRd7kOGlyM36pMw) | [Cypress Hill](https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX) | [Skull & Bones](https://open.spotify.com/album/31XG9UWJIXSXSsPUEsh3D2) | 4:14 |
 
-Snapshot ID: `MTY1MTI2MzMxMCwwMDAwMDAwMGM3YzMxY2M2ZGM1Yzk5OGRlZDY2MzIwOGMyYWE4OThj`
+Snapshot ID: `MTY1MTI2MzMxMCwwMDAwMDAwMDUxZTk4MWU1OWRjZGNkOTliMTAyYWQ2OWMzNzhmMTcy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 
 > ¡Presentamos a La Santa Grifa, nuestro artista Radar!
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,067 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,095 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 | 10 | [No Vale La Pena](https://open.spotify.com/track/6L2vmngcyjUFuwRBCJCNqA) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A), [Elie Tigre](https://open.spotify.com/artist/6tM7AHGyfVc57FK5hZlEd1) | [No Vale la Pena](https://open.spotify.com/album/1Xf1J2t3uTb2dMgnH3gout) | 3:38 |
 | 11 | [Vámonos a Marte](https://open.spotify.com/track/2TzkIzgzIHhewMxyh1u4hh) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Hasta el Fin Del Mundo](https://open.spotify.com/album/7M4AeOUpTfAHk1Ch4xKUC7) | 2:59 |
 | 12 | [Esta Noche](https://open.spotify.com/track/2sVM0on2db42X3aH5hrx7o) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Obsessed \(Deluxe\)](https://open.spotify.com/album/39CdVx9DN5FtCzIyqkrzAq) | 3:09 |
-| 13 | [Soy de Sinaloa](https://open.spotify.com/track/0G8UX6rA6OLal4OXPZLv5K) | [Diferente Nivel](https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0) | [Soy de Sinaloa](https://open.spotify.com/album/2RirpFu0iqptAyM5eARyl2) | 2:41 |
-| 14 | [Olvidarte](https://open.spotify.com/track/1sq5yMUQfFvrJ62WfBUSNW) | [Nicole Favre](https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1) | [Y Te Lo Digo Yo](https://open.spotify.com/album/5c1Tq06BqlqyiMlFZKGlxg) | 2:17 |
+| 13 | [Olvidarte](https://open.spotify.com/track/1sq5yMUQfFvrJ62WfBUSNW) | [Nicole Favre](https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1) | [Y Te Lo Digo Yo](https://open.spotify.com/album/5c1Tq06BqlqyiMlFZKGlxg) | 2:17 |
+| 14 | [Soy de Sinaloa](https://open.spotify.com/track/0G8UX6rA6OLal4OXPZLv5K) | [Diferente Nivel](https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0) | [Soy de Sinaloa](https://open.spotify.com/album/2RirpFu0iqptAyM5eARyl2) | 2:41 |
 | 15 | [tú vales la pena](https://open.spotify.com/track/1ewVg7ZtI4rliY9kAaNQWt) | [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au), [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A) | [tú vales la pena](https://open.spotify.com/album/5WjmPd7foWYVCiyxpJnk4r) | 2:27 |
 | 16 | [No Lo Podía Hacer Mejor](https://open.spotify.com/track/0miQuUmnk0hQ0HaviDOrUA) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [No Lo Podía Hacer Mejor](https://open.spotify.com/album/6k964PchdjqpKVlAuoYvfL) | 2:58 |
 | 17 | [siente más](https://open.spotify.com/track/6sycT6FiSI1YSERI9279qY) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Paris Texas](https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8) | 4:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 | 49 | [Voy A Superarte \- En Vivo](https://open.spotify.com/track/4j0gW8CD4w9qiX3JBvVcei) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Voy A Superarte \(En Vivo\)](https://open.spotify.com/album/6tMFnDvudKXUOlsfkefgdx) | 2:45 |
 | 50 | [Más Tarde \(Remix\)](https://open.spotify.com/track/46kwFYNCjWyNtc92c8ShxN) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Elilluminari](https://open.spotify.com/artist/0BHo5QBLAjH32hoe4xHGYq), [Ey Gary](https://open.spotify.com/artist/4b4iRS4BUIkDBteNwGc9Ww) | [Más Tarde \(Remix\)](https://open.spotify.com/album/73YYxkYl0FlBgD2uhfeTHR) | 3:26 |
 
-Snapshot ID: `MTY2MjcyOTA4MCwwMDAwMDAwMGNhOWU4MjU5MWRhMTE1ZDUxMTg0NWI1ZjVhYmVjNTI2`
+Snapshot ID: `MTY2MjcyOTA4MCwwMDAwMDAwMDlhZjNlMGIzNDBhZmNhY2IxMjlmYmE4NGQzZTMyMGE2`

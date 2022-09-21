@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSJhvEbMTwW6.md) - [plain]
 
 > Favor de hacer doble fila para bailar estos cumbiones ¡Súbale hay lugares!
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,911 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,082 likes - 100 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSJhvEbMTwW6.md) - [plain]
 | 46 | [Amigos Nunca](https://open.spotify.com/track/3I0UsenRbVz54ypUDOfzGW) | [Los Askis](https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi) | [Pasión Y Cumbia](https://open.spotify.com/album/6DPWLpcFLqrD50JfN6NOk1) | 3:06 |
 | 47 | [Mariana](https://open.spotify.com/track/4xFjlFkQ4zrPKGhCwe6vNW) | [Grupo Fragancia](https://open.spotify.com/artist/0rWMayP5qWv4dno1JFiwtj) | [Los Mejores Hits del Ano](https://open.spotify.com/album/60kUtdHaTgEfTFESmWUlcV) | 3:17 |
 | 48 | [Conga Y Timbal](https://open.spotify.com/track/7hEGGwLjfVZ83avJgpt4Fc) | [Los Yaguarú](https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ) | [Conga Y Timbal](https://open.spotify.com/album/5Lzi3hgh55BuQEj1RsD2VO) | 3:39 |
-| 49 | [El Amor de la Nena](https://open.spotify.com/track/4B0wSQuEJDmpKyYBtkxqxw) | [Grupo Que Nota](https://open.spotify.com/artist/3mJJNmthWhmdkuyfzYDsGv) | [20 Exitos Originales 20](https://open.spotify.com/album/4Xgd2qnCo2yu3dQEbMdvXA) | 4:37 |
-| 50 | [Cumbia Francesa](https://open.spotify.com/track/6gcI2byXyIPQM2tFybviuo) | [Grupo Saya](https://open.spotify.com/artist/2T6hbG0qQTyZglPgH7UEMP) | [Sólo Éxitos](https://open.spotify.com/album/5hfRoSTXSY1sISkQTVc0nn) | 3:40 |
+| 49 | [Cumbia Francesa](https://open.spotify.com/track/6gcI2byXyIPQM2tFybviuo) | [Grupo Saya](https://open.spotify.com/artist/2T6hbG0qQTyZglPgH7UEMP) | [Sólo Éxitos](https://open.spotify.com/album/5hfRoSTXSY1sISkQTVc0nn) | 3:40 |
+| 50 | [El Amor de la Nena](https://open.spotify.com/track/4B0wSQuEJDmpKyYBtkxqxw) | [Grupo Que Nota](https://open.spotify.com/artist/3mJJNmthWhmdkuyfzYDsGv) | [20 Exitos Originales 20](https://open.spotify.com/album/4Xgd2qnCo2yu3dQEbMdvXA) | 4:37 |
 | 51 | [Quedate Con Él](https://open.spotify.com/track/1ftwyOlhOp4up63kcGsDq4) | [Grupo Jalado](https://open.spotify.com/artist/71mQj8OrRgy3smRMjnFioM) | [Que Te Vaya Bien](https://open.spotify.com/album/40Dl0QnoNEuO3tsbftHtIS) | 3:36 |
 | 52 | [Agua De Vida](https://open.spotify.com/track/6eL8Ej7iJqv7NOPoY7bC8Z) | [Grupo Perla Colombiana](https://open.spotify.com/artist/559JHjpDxj6SYy8kwGoa5V) | [Agua De Vida](https://open.spotify.com/album/7I9KOeQ3uj3CMRcRg5Sf2l) | 3:34 |
 | 53 | [El Piropo \- Versión Sonidera](https://open.spotify.com/track/1rjRdZ3OptBUnvL0ImiltE) | [Pepe Gomez Jr\. y su Grupo Union 82](https://open.spotify.com/artist/3aiiZsdJHqXrPkYOBQI0Uo) | [Vaya Que Sabor!!](https://open.spotify.com/album/5ekGtbNe6EW4omlCEKZBSL) | 3:51 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSJhvEbMTwW6.md) - [plain]
 | 86 | [Amor Carnal](https://open.spotify.com/track/2BvixI7ri9MTF60jLSZLGW) | [Grupo Karo's](https://open.spotify.com/artist/3wOf6DlTkRycQcnlDrTe2x) | [Locura De Amor](https://open.spotify.com/album/5EDey3kMxdheEFK69Tq8EF) | 3:57 |
 | 87 | [Donde Estas?](https://open.spotify.com/track/5JKrQ2hLkjh6V8zh1MgaS5) | [Alcalde La Sonora](https://open.spotify.com/artist/6sXu0pNqYJNlS46xqSwKxZ) | [Donde Estas?](https://open.spotify.com/album/3qn9IYBLGqTUNGHfV4BaeX) | 4:50 |
 | 88 | [Abandonado](https://open.spotify.com/track/3zTtqNPnbLUKTmj69JapdD) | [Efrén David](https://open.spotify.com/artist/5j8A0drRTB6kfW70XY9J2g) | [Recuerdos](https://open.spotify.com/album/3bvSVLCNLuiBqLiXt6bAN5) | 4:32 |
-| 89 | [Cariñito Sin MI](https://open.spotify.com/track/7zSluZ0cnnNomeIGYSThMm) | [Pastor Lopez](https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE) | [Sus Más Grandes Éxitos Volume 2](https://open.spotify.com/album/60LUbwOhyXfoMZDOV1fXQv) | 3:55 |
-| 90 | [El Afilador](https://open.spotify.com/track/7ob6SovekT6cESeyUHiFQn) | [Grupo Carabo](https://open.spotify.com/artist/0pY1OqclT7G3fojvX0dKdv) | [Grito En Silencio](https://open.spotify.com/album/5FXAiILW1gioBCuF7I39wS) | 3:35 |
+| 89 | [El Afilador](https://open.spotify.com/track/7ob6SovekT6cESeyUHiFQn) | [Grupo Carabo](https://open.spotify.com/artist/0pY1OqclT7G3fojvX0dKdv) | [Grito En Silencio](https://open.spotify.com/album/5FXAiILW1gioBCuF7I39wS) | 3:35 |
+| 90 | [Cariñito Sin MI](https://open.spotify.com/track/7zSluZ0cnnNomeIGYSThMm) | [Pastor Lopez](https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE) | [Sus Más Grandes Éxitos Volume 2](https://open.spotify.com/album/60LUbwOhyXfoMZDOV1fXQv) | 3:55 |
 | 91 | [He Creído](https://open.spotify.com/track/0VOPCehPHWW9El3rHVsNmJ) | [Los Llayras](https://open.spotify.com/artist/2ArV1M689cANDANMu9OfBz) | [20 Cumbias Andinas](https://open.spotify.com/album/5Jus6DesLl1qcvuVhlZ86R) | 4:24 |
 | 92 | [Cañita Cañaveral](https://open.spotify.com/track/0yn0pxR5KRY2vIY2cZ7nbd) | [Grupo Saya](https://open.spotify.com/artist/2T6hbG0qQTyZglPgH7UEMP) | [Sus Mejores Exitos](https://open.spotify.com/album/7wZn8Eko5bz1vSx1zYMPJD) | 3:15 |
 | 93 | [Corazón Enamorado](https://open.spotify.com/track/54PSHIY4nF4CxtwBpSOqW6) | [Super Grupo Colombia](https://open.spotify.com/artist/4VUjAlb1nGT2FW5n4CPxwi) | [Super Grupo Colombia](https://open.spotify.com/album/16b1llxcevVntDsf1HLbtK) | 4:08 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSJhvEbMTwW6.md) - [plain]
 | 97 | [Eres](https://open.spotify.com/track/1OeKx8ya9DRQBWKJmlRFJp) | [Los Extraños](https://open.spotify.com/artist/4o42b77fvOMfJGnDVo8aWK) | [Sigueme](https://open.spotify.com/album/1gWllGhiiVZRYJ3OXqMrOw) | 3:22 |
 | 98 | [Culpable O No](https://open.spotify.com/track/7pFkCMjIYl91V7oRIo0Sat) | [Los Byby's](https://open.spotify.com/artist/3CmqbJaTL0hrMiYfY0ssiN) | [Cumbias Con Amor](https://open.spotify.com/album/5GebqosGDuhpy9unAu9nvN) | 3:28 |
 | 99 | [El Fantasma del Amor](https://open.spotify.com/track/2P0CVPl7JUmoKOXSFoL2wH) | [Grupo Ternura Dinastia Toxqui](https://open.spotify.com/artist/6zgNAWCeLAvNWLasnMi2oZ) | [El Fantasma del Amor](https://open.spotify.com/album/10uRdZo4A5BxPHERGzd2jZ) | 4:13 |
-| 100 | [Lagrimas de Escarcha](https://open.spotify.com/track/4rRX8M117ii4lulb7Iw379) | [Tiberio Y Sus Gatos Negros](https://open.spotify.com/artist/6a5iqJmvklikJ2kUIl2xl1) | [Los Exitos de Tiberio y Sus Gatos Negros](https://open.spotify.com/album/2zUls9Mq7XLfndfTtKeynj) | 3:44 |
+| 100 | [Negrita](https://open.spotify.com/track/2Bei9aVd6E0PejqXO5VArJ) | [Los Yes Yes](https://open.spotify.com/artist/6h9B8wche8pbvJ0wiWKn8q) | [Trayectoria](https://open.spotify.com/album/0YtGKnOCOt9IYnHDsuJwQt) | 4:07 |
 
-Snapshot ID: `MTY1NDY0MzQ5MiwwMDAwMDAwMDIzNTY2NzcwZjMyNzZmNGEyODgxODMyMzJmZmEyY2Zh`
+Snapshot ID: `MTY1NDY0MzQ5MiwwMDAwMDAwMGFjY2Y4YTZiOTA3NTU3MjcxMGQ5NmU2MzE3Y2FjODFm`

@@ -1,12 +1,12 @@
 {
   "description": "Orgoglio! David Blank, Andrea Di Giovanni in cover \u2728",
-  "num_followers": 4611,
+  "num_followers": 4618,
   "original_name": "Pride Italia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY3NDQ2MCwwMDAwMDAwMGU0ZWQ2MTMwYjg5ZjE1MjMzNWI1NGVhZTRjZTFiODRk",
+  "snapshot_id": "MTY2MjY3NDQ2MCwwMDAwMDAwMDZlYjFkMTk4MTY5ZWRjNTI5MzU4ODY0ZTM2NWYxN2Ji",
   "tracks": [
     {
       "added_at": "2022-09-08 22:01:00",
@@ -931,6 +931,22 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
+        "name": "Sumikko Gurashi 2.0",
+        "url": "https://open.spotify.com/album/6UWPDKMxhkCZIDEfvAsddg"
+      },
+      "artists": [
+        {
+          "name": "Sillyelly",
+          "url": "https://open.spotify.com/artist/1rWg0CyGoCsRYYtpj5NC5P"
+        }
+      ],
+      "duration_ms": 91966,
+      "name": "Sumikko Gurashi 2.0",
+      "url": "https://open.spotify.com/track/02ddENFyhzjTaeUkL35QeB"
+    },
+    {
+      "added_at": "2022-09-08 22:01:00",
+      "album": {
         "name": "CLUB TOPPERIA",
         "url": "https://open.spotify.com/album/55jRiCSPrXaypNbQFnL1ei"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 196653,
       "name": "MOVESET (feat. Kiddy Smile & David Blank)",
       "url": "https://open.spotify.com/track/3i6DPGR1k1AOnVaGltT4hY"
-    },
-    {
-      "added_at": "2022-09-08 22:01:00",
-      "album": {
-        "name": "Sumikko Gurashi 2.0",
-        "url": "https://open.spotify.com/album/6UWPDKMxhkCZIDEfvAsddg"
-      },
-      "artists": [
-        {
-          "name": "Sillyelly",
-          "url": "https://open.spotify.com/artist/1rWg0CyGoCsRYYtpj5NC5P"
-        }
-      ],
-      "duration_ms": 91966,
-      "name": "Sumikko Gurashi 2.0",
-      "url": "https://open.spotify.com/track/02ddENFyhzjTaeUkL35QeB"
     },
     {
       "added_at": "2022-09-08 22:01:00",
@@ -1071,38 +1071,6 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
-        "name": "Comet",
-        "url": "https://open.spotify.com/album/0KXgKVlIfLxHni3HT4iqQr"
-      },
-      "artists": [
-        {
-          "name": "L I M",
-          "url": "https://open.spotify.com/artist/6TGrYfNonLf6yO3RGiM4EF"
-        }
-      ],
-      "duration_ms": 261795,
-      "name": "Comet",
-      "url": "https://open.spotify.com/track/2706bJ1IBduQztEVAMKOST"
-    },
-    {
-      "added_at": "2022-09-08 22:01:00",
-      "album": {
-        "name": "Discodelic Edits Vol.1",
-        "url": "https://open.spotify.com/album/0KSk4F1DUoj7u6I3lhoG9e"
-      },
-      "artists": [
-        {
-          "name": "Peter LC",
-          "url": "https://open.spotify.com/artist/0suFn6dKQlrirLWDJrDRG8"
-        }
-      ],
-      "duration_ms": 371705,
-      "name": "Tentami & Rubami",
-      "url": "https://open.spotify.com/track/1e22pleH4nPfOZwZMl2xFy"
-    },
-    {
-      "added_at": "2022-09-08 22:01:00",
-      "album": {
         "name": "CLUB TOPPERIA",
         "url": "https://open.spotify.com/album/55jRiCSPrXaypNbQFnL1ei"
       },
@@ -1127,18 +1095,18 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
-        "name": "Bang",
-        "url": "https://open.spotify.com/album/1jumWWMXzGF6WbHwDm6Of2"
+        "name": "Comet",
+        "url": "https://open.spotify.com/album/0KXgKVlIfLxHni3HT4iqQr"
       },
       "artists": [
         {
-          "name": "Andrea Di Giovanni",
-          "url": "https://open.spotify.com/artist/6LgSivOZVfHs4mY4TYobQa"
+          "name": "L I M",
+          "url": "https://open.spotify.com/artist/6TGrYfNonLf6yO3RGiM4EF"
         }
       ],
-      "duration_ms": 170000,
-      "name": "Bang",
-      "url": "https://open.spotify.com/track/7gbtsFZWeMQLGYA6zwMfY2"
+      "duration_ms": 261795,
+      "name": "Comet",
+      "url": "https://open.spotify.com/track/2706bJ1IBduQztEVAMKOST"
     },
     {
       "added_at": "2022-09-08 22:01:00",
@@ -1159,22 +1127,34 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
-        "name": "Malcostume",
-        "url": "https://open.spotify.com/album/3hIdDm2lLaOgB8IkhsciaN"
+        "name": "Discodelic Edits Vol.1",
+        "url": "https://open.spotify.com/album/0KSk4F1DUoj7u6I3lhoG9e"
       },
       "artists": [
         {
-          "name": "Immanuel Casto",
-          "url": "https://open.spotify.com/artist/2zG5ycak5H5A12ypISC39F"
-        },
-        {
-          "name": "Romina Falconi",
-          "url": "https://open.spotify.com/artist/7miQC7MI2Hne4f41KiPi1K"
+          "name": "Peter LC",
+          "url": "https://open.spotify.com/artist/0suFn6dKQlrirLWDJrDRG8"
         }
       ],
-      "duration_ms": 238074,
-      "name": "Insegnami la vita",
-      "url": "https://open.spotify.com/track/2hzsb9bskRD3XOZP2eMUUC"
+      "duration_ms": 371705,
+      "name": "Tentami & Rubami",
+      "url": "https://open.spotify.com/track/1e22pleH4nPfOZwZMl2xFy"
+    },
+    {
+      "added_at": "2022-09-08 22:01:00",
+      "album": {
+        "name": "Bang",
+        "url": "https://open.spotify.com/album/1jumWWMXzGF6WbHwDm6Of2"
+      },
+      "artists": [
+        {
+          "name": "Andrea Di Giovanni",
+          "url": "https://open.spotify.com/artist/6LgSivOZVfHs4mY4TYobQa"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Bang",
+      "url": "https://open.spotify.com/track/7gbtsFZWeMQLGYA6zwMfY2"
     },
     {
       "added_at": "2022-09-08 22:01:00",
@@ -1191,6 +1171,26 @@
       "duration_ms": 245000,
       "name": "Tell Me What You See",
       "url": "https://open.spotify.com/track/7He1AYDz7BSwkA0OJ4g7QK"
+    },
+    {
+      "added_at": "2022-09-08 22:01:00",
+      "album": {
+        "name": "Malcostume",
+        "url": "https://open.spotify.com/album/3hIdDm2lLaOgB8IkhsciaN"
+      },
+      "artists": [
+        {
+          "name": "Immanuel Casto",
+          "url": "https://open.spotify.com/artist/2zG5ycak5H5A12ypISC39F"
+        },
+        {
+          "name": "Romina Falconi",
+          "url": "https://open.spotify.com/artist/7miQC7MI2Hne4f41KiPi1K"
+        }
+      ],
+      "duration_ms": 238074,
+      "name": "Insegnami la vita",
+      "url": "https://open.spotify.com/track/2hzsb9bskRD3XOZP2eMUUC"
     },
     {
       "added_at": "2022-09-08 22:01:00",
@@ -1235,26 +1235,6 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
-        "name": "FUORI!!!",
-        "url": "https://open.spotify.com/album/6VFWixoW1lG2MXlyPC4fRt"
-      },
-      "artists": [
-        {
-          "name": "Hey Cabrera!",
-          "url": "https://open.spotify.com/artist/5jDaczIoNB0UAsvNWyYFrf"
-        },
-        {
-          "name": "Francesco Urbano Ragazzi",
-          "url": "https://open.spotify.com/artist/1vPNjv1tf5kA9bSQAeyRlw"
-        }
-      ],
-      "duration_ms": 140500,
-      "name": "FUORI!!!",
-      "url": "https://open.spotify.com/track/3ujQOSC1tMc3sQUMppJQkK"
-    },
-    {
-      "added_at": "2022-09-08 22:01:00",
-      "album": {
         "name": "Blue Songs",
         "url": "https://open.spotify.com/album/07DoR2BYZ3bApdUCpjf38P"
       },
@@ -1271,6 +1251,26 @@
       "duration_ms": 363986,
       "name": "Painted Eyes - Original Mix",
       "url": "https://open.spotify.com/track/7Aaig6TQeCjY6vjy9TlsCw"
+    },
+    {
+      "added_at": "2022-09-08 22:01:00",
+      "album": {
+        "name": "FUORI!!!",
+        "url": "https://open.spotify.com/album/6VFWixoW1lG2MXlyPC4fRt"
+      },
+      "artists": [
+        {
+          "name": "Hey Cabrera!",
+          "url": "https://open.spotify.com/artist/5jDaczIoNB0UAsvNWyYFrf"
+        },
+        {
+          "name": "Francesco Urbano Ragazzi",
+          "url": "https://open.spotify.com/artist/1vPNjv1tf5kA9bSQAeyRlw"
+        }
+      ],
+      "duration_ms": 140500,
+      "name": "FUORI!!!",
+      "url": "https://open.spotify.com/track/3ujQOSC1tMc3sQUMppJQkK"
     },
     {
       "added_at": "2022-09-08 22:01:00",

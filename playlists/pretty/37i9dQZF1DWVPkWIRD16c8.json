@@ -1,12 +1,12 @@
 {
   "description": "Have a fantastic road trip with upbeat songs from your favorite Christian artists!",
-  "num_followers": 26166,
+  "num_followers": 26234,
   "original_name": "Christian Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU3NDIzNDkwMCwwMDAwMDAwMDU2ZTA4OTIwZTE4MjQ4YWMxNDVlMWMzMzhkZjc3NzM5",
+  "snapshot_id": "MTU3NDIzNDkwMCwwMDAwMDAwMGVhNDhlYmVkYzk3N2NlNTgyNmU2ODAyYjU0MTAzYzQz",
   "tracks": [
     {
       "added_at": "2019-11-20 07:28:20",
@@ -551,22 +551,6 @@
     {
       "added_at": "2019-11-20 07:28:20",
       "album": {
-        "name": "A Way to See in the Dark",
-        "url": "https://open.spotify.com/album/70mx4CmJ3HDkkaFOZHHJ7t"
-      },
-      "artists": [
-        {
-          "name": "Jason Gray",
-          "url": "https://open.spotify.com/artist/4i2mkyKkRrc0OvPrWqb4BE"
-        }
-      ],
-      "duration_ms": 227266,
-      "name": "Remind Me Who I Am",
-      "url": "https://open.spotify.com/track/7a9EoyKfRjz7lOW43Z8ZRW"
-    },
-    {
-      "added_at": "2019-11-20 07:28:20",
-      "album": {
         "name": "Fill This Place (Live)",
         "url": "https://open.spotify.com/album/16CdyumvxDomk04TnJZYe7"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 248854,
       "name": "I'm Listening - Radio Version",
       "url": "https://open.spotify.com/track/5ExBj7cdyNLZ1t5PalfPWa"
+    },
+    {
+      "added_at": "2019-11-20 07:28:20",
+      "album": {
+        "name": "A Way to See in the Dark",
+        "url": "https://open.spotify.com/album/70mx4CmJ3HDkkaFOZHHJ7t"
+      },
+      "artists": [
+        {
+          "name": "Jason Gray",
+          "url": "https://open.spotify.com/artist/4i2mkyKkRrc0OvPrWqb4BE"
+        }
+      ],
+      "duration_ms": 227266,
+      "name": "Remind Me Who I Am",
+      "url": "https://open.spotify.com/track/7a9EoyKfRjz7lOW43Z8ZRW"
     },
     {
       "added_at": "2019-11-20 07:28:20",
@@ -623,22 +623,6 @@
     {
       "added_at": "2019-11-20 07:28:20",
       "album": {
-        "name": "Listen To The Sound",
-        "url": "https://open.spotify.com/album/3ly4JA0oAHyQWl0YmTB8LD"
-      },
-      "artists": [
-        {
-          "name": "Building 429",
-          "url": "https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY"
-        }
-      ],
-      "duration_ms": 200373,
-      "name": "Where I Belong",
-      "url": "https://open.spotify.com/track/1N2fNKIlJJ6PQgcVD1GrBP"
-    },
-    {
-      "added_at": "2019-11-20 07:28:20",
-      "album": {
         "name": "Awake",
         "url": "https://open.spotify.com/album/6ZPHrDQvgzBcaKtGUMd9rC"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 264320,
       "name": "Awake My Soul",
       "url": "https://open.spotify.com/track/6AvQ48ohekN6f2eqZCYICX"
+    },
+    {
+      "added_at": "2019-11-20 07:28:20",
+      "album": {
+        "name": "Listen To The Sound",
+        "url": "https://open.spotify.com/album/3ly4JA0oAHyQWl0YmTB8LD"
+      },
+      "artists": [
+        {
+          "name": "Building 429",
+          "url": "https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY"
+        }
+      ],
+      "duration_ms": 200373,
+      "name": "Where I Belong",
+      "url": "https://open.spotify.com/track/1N2fNKIlJJ6PQgcVD1GrBP"
     },
     {
       "added_at": "2019-11-20 07:28:20",
@@ -927,6 +927,22 @@
     {
       "added_at": "2019-11-20 07:28:20",
       "album": {
+        "name": "You Got This",
+        "url": "https://open.spotify.com/album/1bqjdAockCikwMTVoncR8I"
+      },
+      "artists": [
+        {
+          "name": "Love & The Outcome",
+          "url": "https://open.spotify.com/artist/1xU1V8I8pFrMOjtuSmjPBs"
+        }
+      ],
+      "duration_ms": 194680,
+      "name": "You Got This",
+      "url": "https://open.spotify.com/track/1gibxiYQ2bDcnbYga7qXY7"
+    },
+    {
+      "added_at": "2019-11-20 07:28:20",
+      "album": {
         "name": "God Only Knows (Timbaland Remix)",
         "url": "https://open.spotify.com/album/1EVzer4Sth6dDaSXxZRuR0"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 215020,
       "name": "God Only Knows (Timbaland Remix)",
       "url": "https://open.spotify.com/track/0XMQuzgUJu7AjruBHzTg4Z"
-    },
-    {
-      "added_at": "2019-11-20 07:28:20",
-      "album": {
-        "name": "You Got This",
-        "url": "https://open.spotify.com/album/1bqjdAockCikwMTVoncR8I"
-      },
-      "artists": [
-        {
-          "name": "Love & The Outcome",
-          "url": "https://open.spotify.com/artist/1xU1V8I8pFrMOjtuSmjPBs"
-        }
-      ],
-      "duration_ms": 194680,
-      "name": "You Got This",
-      "url": "https://open.spotify.com/track/1gibxiYQ2bDcnbYga7qXY7"
     },
     {
       "added_at": "2019-11-20 07:28:20",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2019-11-20 07:28:20",
       "album": {
-        "name": "Flags",
-        "url": "https://open.spotify.com/album/1uyQnFBlGNgJEMpj7LOyyR"
-      },
-      "artists": [
-        {
-          "name": "Brooke Fraser",
-          "url": "https://open.spotify.com/artist/1W2FTsCUlviVRhHNjZwWiN"
-        }
-      ],
-      "duration_ms": 183073,
-      "name": "Something in the Water",
-      "url": "https://open.spotify.com/track/2NCYYlzzRKyX24hyyKPMeW"
-    },
-    {
-      "added_at": "2019-11-20 07:28:20",
-      "album": {
         "name": "Faultlines Vol. I",
         "url": "https://open.spotify.com/album/2xfrjrhWCJszsRlrBUsYWC"
       },
@@ -1063,18 +1047,18 @@
     {
       "added_at": "2019-11-20 07:28:20",
       "album": {
-        "name": "Dark Is The Way, Light Is A Place",
-        "url": "https://open.spotify.com/album/0aJvU0peEjLVYTOhaPVLXv"
+        "name": "Flags",
+        "url": "https://open.spotify.com/album/1uyQnFBlGNgJEMpj7LOyyR"
       },
       "artists": [
         {
-          "name": "Anberlin",
-          "url": "https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp"
+          "name": "Brooke Fraser",
+          "url": "https://open.spotify.com/artist/1W2FTsCUlviVRhHNjZwWiN"
         }
       ],
-      "duration_ms": 243573,
-      "name": "Impossible",
-      "url": "https://open.spotify.com/track/4LmVyajDL2aJrii88rncNr"
+      "duration_ms": 183073,
+      "name": "Something in the Water",
+      "url": "https://open.spotify.com/track/2NCYYlzzRKyX24hyyKPMeW"
     },
     {
       "added_at": "2019-11-20 07:28:20",
@@ -1091,6 +1075,22 @@
       "duration_ms": 199078,
       "name": "Who We Are",
       "url": "https://open.spotify.com/track/3iPrzSUiI1PojLdulvGudz"
+    },
+    {
+      "added_at": "2019-11-20 07:28:20",
+      "album": {
+        "name": "Dark Is The Way, Light Is A Place",
+        "url": "https://open.spotify.com/album/0aJvU0peEjLVYTOhaPVLXv"
+      },
+      "artists": [
+        {
+          "name": "Anberlin",
+          "url": "https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp"
+        }
+      ],
+      "duration_ms": 243573,
+      "name": "Impossible",
+      "url": "https://open.spotify.com/track/4LmVyajDL2aJrii88rncNr"
     },
     {
       "added_at": "2019-11-20 07:28:20",

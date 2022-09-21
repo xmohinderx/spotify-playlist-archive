@@ -4,7 +4,7 @@
 
 > Covers of classic songs with a touch of Jazz\. Cover: Jamie Cullum
 
-100 songs - 7 hr 51 min - [published](https://open.spotify.com/playlist/0a8qLwuYjb3BzzgElxKw9i)
+101 songs - 7 hr 55 min - [published](https://open.spotify.com/playlist/0a8qLwuYjb3BzzgElxKw9i)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Can't Buy Me Love](https://open.spotify.com/track/6YoqJRJSjkP1NeVR26RIf3) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Jazz Plays The Beatles](https://open.spotify.com/album/0aMvDpN8TRj3BD9E703y5i) | 2:37 | 2022-09-13 |  |
 | [Car Wash](https://open.spotify.com/track/6esuuSi7EMHUUpAwiE2su4) | [Christian McBride Trio](https://open.spotify.com/artist/3nh2jsKXbzQzTBm5qzVXEP) | [Live at the Village Vanguard](https://open.spotify.com/album/3UJbQf5jRzsa1B6mad1gVB) | 7:12 | 2022-09-13 |  |
 | [Chelsea Morning](https://open.spotify.com/track/0KIqkIvNZcS5pBzkHHvFt1) | [Sara Colman](https://open.spotify.com/artist/4PfopQBQZtuDd8NmCvOBXa) | [Ink on a Pin \- A Celebration of Joni Mitchell](https://open.spotify.com/album/62dQ3hNEiWLBOCJLHILChk) | 3:52 | 2022-09-13 |  |
-| [Comfortably Numb](https://open.spotify.com/track/0aQZxKrtx2JhXQfT4TD23E) | [The Bad Plus](https://open.spotify.com/artist/5qOfTfMzTj2dvvpWKzIFk6) | [For All I Care](https://open.spotify.com/album/3CGYqqKu94N6TBohkL35OV) | 6:41 | 2022-09-13 |  |
+| [Comfortably Numb](https://open.spotify.com/track/0aQZxKrtx2JhXQfT4TD23E) | [The Bad Plus](https://open.spotify.com/artist/5qOfTfMzTj2dvvpWKzIFk6) | [For All I Care](https://open.spotify.com/album/3CGYqqKu94N6TBohkL35OV) | 6:41 | 2022-09-13 | 2022-09-21 |
 | [Creep](https://open.spotify.com/track/32SkNdTcuxvUGjtv0ObOgu) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [Karen Souza Essentials](https://open.spotify.com/album/7oLFzJWMBpnAB7jd5bMOxm) | 3:31 | 2022-09-13 |  |
 | [Dance Me To The End Of Love](https://open.spotify.com/track/13zjNPZUyWvzZC2dlYjW0L) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [Careless Love](https://open.spotify.com/album/4Kev9VMY5Ypfo19jRqK6bW) | 3:57 | 2022-09-13 |  |
 | [Diamonds And Pearls](https://open.spotify.com/track/3yArsNjOHHr7FF0pxDFhwo) | [Marcin Wasilewski Trio](https://open.spotify.com/artist/2UGL8QDKTSVXMqZqQR8DRL) | [January](https://open.spotify.com/album/0uZt1xe1sLvt4ZAOLHj3fY) | 5:45 | 2022-09-13 |  |
@@ -104,6 +104,7 @@
 | [When a Man Loves a Woman](https://open.spotify.com/track/4tag1OCBjKXVAcfBpL6Fn7) | [Michael Stephenson](https://open.spotify.com/artist/2hLykFY0OkRxdzJAaidlzk), [Alexander Claffy](https://open.spotify.com/artist/68A73mdUJaTyVodPFbfDnG), [Benny Benack III](https://open.spotify.com/artist/4qinsDOSZCJRirJq6Pm8SG) | [When a Man Loves a Woman](https://open.spotify.com/album/7HXO2Y7G36z8v9E2aO2ouW) | 4:18 | 2022-09-13 |  |
 | [When Most I Wink \- Sonnet 43](https://open.spotify.com/track/7Lo8oj9nSXy6DWCpbd4mGb) | [Birgit Minichmayr](https://open.spotify.com/artist/0AmppM0rypylyKScAYazvl), [Quadro Nuevo](https://open.spotify.com/artist/02VSzyVA68par8UGNNRbAN), [Bernd Lhotzky](https://open.spotify.com/artist/2McJefV5ZI8QkQHoQUU4PR) | [As an Unperfect Actor \(Nine Shakespeare Sonnets\)](https://open.spotify.com/album/28TO5COQrry3X4i8amGonZ) | 3:30 | 2022-09-13 |  |
 | [Wind Cries Mary](https://open.spotify.com/track/3jUSBrXmLIYVdlXbHIcTzm) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Twentysomething](https://open.spotify.com/album/6FbhvZweI6o9Szb2j9ls9o) | 3:36 | 2022-09-13 |  |
+| [Wonderwall](https://open.spotify.com/track/0qjQ47pkjxL9Oodg8lp0os) | [Paul Anka](https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh) | [Rock Swings](https://open.spotify.com/album/68hTTrAwPFA0dWrxkAUMVl) | 3:36 | 2022-09-20 |  |
 | [Yellow](https://open.spotify.com/track/7MF6TekcON2t7g8aGijtqI) | [Ive Mendes](https://open.spotify.com/artist/536ylK53FB0GDGfTmwk7ZN) | [Magnetism, Vol\. 1](https://open.spotify.com/album/7rqgZCddN1qd5kfkrjiZgw) | 3:40 | 2022-09-13 |  |
 | [Yesterday](https://open.spotify.com/track/6c6XaTu2VM32NHxtYZUWMY) | [Oliver Nelson](https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN) | [Oliver Nelson Plays Michelle](https://open.spotify.com/album/4gpVcA06Od08ym7LDyQ0qw) | 2:42 | 2022-09-13 |  |
 | [You've Got A Friend](https://open.spotify.com/track/7CbgvHE083TAjaRuEfwwgm) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [The Boy Next Door \(Special Edition\)](https://open.spotify.com/album/1A5ThMX4BueAGS2d8geecc) | 4:21 | 2022-09-13 |  |

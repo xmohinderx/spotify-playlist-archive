@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 33,049 likes - 93 songs - 4 hr 58 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 33,091 likes - 93 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 3 | [Bentayga](https://open.spotify.com/track/6tvmff4YVisq3ROGcTjcq3) | [DigDat](https://open.spotify.com/artist/47rT8CoKTbr0S945AGgATQ) | [Bentayga](https://open.spotify.com/album/4K9qmTMBynQg5SLLHFyJSZ) | 2:52 |
 | 4 | [Groundwork](https://open.spotify.com/track/6VBQuholHCe5LyCdyIWvzo) | [Big Narstie](https://open.spotify.com/artist/4ITNzglfuGtfHgDu29GIMW), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Papoose](https://open.spotify.com/artist/0mbgkaYR8KNUb5s3s1yYHG) | [Groundwork](https://open.spotify.com/album/6N25MmXrrGmBV8ZlUW8cTv) | 3:28 |
 | 5 | [superficial energy](https://open.spotify.com/track/2wmbk7U26XVNsS89UUffe5) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [superficial energy](https://open.spotify.com/album/14clBGWaMoyRGVfI3o7nlQ) | 2:55 |
-| 6 | [long legs](https://open.spotify.com/track/1h6Clzt71p8iOQpVM4saBz) | [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [long legs](https://open.spotify.com/album/1Wrt0ZrCiCYv2og1F07LjE) | 4:34 |
+| 6 | [long legs](https://open.spotify.com/track/1h6Clzt71p8iOQpVM4saBz) | [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [long legs](https://open.spotify.com/album/1Wrt0ZrCiCYv2og1F07LjE) | 4:03 |
 | 7 | [Brinca](https://open.spotify.com/track/4thaPjhvTCppMbLESrBKZ1) | [Nicoletta de Lira](https://open.spotify.com/artist/1TgmTG3L0Yga4SXddc95fI) | [Brinca](https://open.spotify.com/album/4BaRlr3y8I7kzeIJplFhtL) | 2:34 |
 | 8 | [2AM](https://open.spotify.com/track/2L7aGhBkuQOl9sBRRaJvCv) | [EASY FREAK](https://open.spotify.com/artist/5X9T1si7pOUmy2IayH147S), [Rowlene](https://open.spotify.com/artist/0pEJe38UHfdkFEEaPgwH0P) | [2AM](https://open.spotify.com/album/63fRzLuF6enQzO6YutLtlv) | 3:14 |
 | 9 | [la danse](https://open.spotify.com/track/1UbfKuIjG38PR3MpjVsbyX) | [berlioz](https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141), [Ted Jasper](https://open.spotify.com/artist/4PfXiTCDXTYEobjXjcRFNW) | [la danse](https://open.spotify.com/album/6HHA2Wth4o5ntz3GZ4O0XL) | 2:57 |

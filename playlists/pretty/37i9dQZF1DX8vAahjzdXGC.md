@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: BLACKPINK
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,627 likes - 96 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,655 likes - 96 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 10 | [Terlalu Ikhlas Untuk Kau Sakiti](https://open.spotify.com/track/6bPYivdHyKIKCTjWgoKFvu) | [Shena Malsiana](https://open.spotify.com/artist/1UpiPeTurOAzrCPnA1HxeP) | [Terlalu Ikhlas Untuk Kau Sakiti](https://open.spotify.com/album/4mLZ5XoKOWFPElToPGmV08) | 4:17 |
 | 11 | [Terpendam](https://open.spotify.com/track/24ZUIQSNha4kvdOm3zK7Dk) | [Rifan Kalbuadi](https://open.spotify.com/artist/6dO5K9GKFs1yW4fHZLI3ys) | [Terpendam](https://open.spotify.com/album/6OR6Afdqdi7OCyBXlahWen) | 3:27 |
 | 12 | [Flow](https://open.spotify.com/track/4dvCZnkUjjReuZCpIzr5W0) | [Titi Radjo Padmaja](https://open.spotify.com/artist/2nt7eXwpsdbkonaYau62X1) | [Flow](https://open.spotify.com/album/2IOluFiafIoN8HlOtXzoAO) | 4:01 |
-| 13 | [Gelegak Darah Muda](https://open.spotify.com/track/1qhZ6c7m2JqWGoIcecrFDa) | [Souljah](https://open.spotify.com/artist/2LgT59KKL3VlfSdPdO5mfM), [Daun Jatuh](https://open.spotify.com/artist/3EaScgA3zh2rORlbrAL8RI) | [Gelegak Darah Muda](https://open.spotify.com/album/7pAsDgQ3g49HVLmegjbTPX) | 4:59 |
+| 13 | [Gelegak Darah Muda](https://open.spotify.com/track/1qhZ6c7m2JqWGoIcecrFDa) | [Souljah](https://open.spotify.com/artist/2OUT0ugpzUB1AD5PhKeztB), [Daun Jatuh](https://open.spotify.com/artist/3EaScgA3zh2rORlbrAL8RI) | [Gelegak Darah Muda](https://open.spotify.com/album/7pAsDgQ3g49HVLmegjbTPX) | 4:59 |
 | 14 | [Nothing Lasts Forever](https://open.spotify.com/track/6IzTSuvoY6w3QAhCfN1Sgb) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [Nothing Lasts Forever](https://open.spotify.com/album/0eeLFV76Mnl91MEXf893YQ) | 2:47 |
 | 15 | [Moonlight](https://open.spotify.com/track/5FMaHFAPTjeWvym1F3IoGb) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g), [Reiley](https://open.spotify.com/artist/1nHcGkMVml7a44TVwfrAN8) | [Moonlight](https://open.spotify.com/album/3Bs3EaKLhOE2wQMriF5hRo) | 3:08 |
 | 16 | [ore ore](https://open.spotify.com/track/2hPvWV02856ZW1LSWbOycO) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [imagine club](https://open.spotify.com/album/1Fhu3FJHqttNA1d6e7VXxC) | 3:31 |

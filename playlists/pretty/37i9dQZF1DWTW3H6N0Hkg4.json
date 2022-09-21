@@ -1,12 +1,12 @@
 {
   "description": "Cumbias de anta\u00f1o para bailar.",
-  "num_followers": 78878,
+  "num_followers": 79137,
   "original_name": "Cumbias Viejitas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODI1NDAyOCwwMDAwMDAwMGY4MjkzNTlmMTg3MWQ5YjU1NTBhODRmZDFmMGM0NTM2",
+  "snapshot_id": "MTY1ODI1NDAyOCwwMDAwMDAwMDk3NGUxMDk5NGU1MmI2M2E3NjA1ZGI2NDI2MDgzNTA4",
   "tracks": [
     {
       "added_at": "2022-07-19 18:07:08",
@@ -435,6 +435,22 @@
     {
       "added_at": "2022-07-19 18:07:08",
       "album": {
+        "name": "Lo Mejor De Lo Mejor",
+        "url": "https://open.spotify.com/album/5utAZ2gLHaRWCTAzbG5e0t"
+      },
+      "artists": [
+        {
+          "name": "Amar Azul",
+          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
+        }
+      ],
+      "duration_ms": 161239,
+      "name": "Yo Tomo Licor",
+      "url": "https://open.spotify.com/track/5EHRc2WJASyZg3alJqsbqU"
+    },
+    {
+      "added_at": "2022-07-19 18:07:08",
+      "album": {
         "name": "Lo Mejor de Banda Blanca - 16 Exitos",
         "url": "https://open.spotify.com/album/696Y05qV9YgqTqA8gPmY20"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 204680,
       "name": "Besar Tu Piel",
       "url": "https://open.spotify.com/track/3sxYWCxHH0TcbPcEd6Ie0N"
-    },
-    {
-      "added_at": "2022-07-19 18:07:08",
-      "album": {
-        "name": "Lo Mejor De Lo Mejor",
-        "url": "https://open.spotify.com/album/5utAZ2gLHaRWCTAzbG5e0t"
-      },
-      "artists": [
-        {
-          "name": "Amar Azul",
-          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
-        }
-      ],
-      "duration_ms": 161239,
-      "name": "Yo Tomo Licor",
-      "url": "https://open.spotify.com/track/5EHRc2WJASyZg3alJqsbqU"
     },
     {
       "added_at": "2022-07-19 18:07:08",
@@ -547,22 +547,6 @@
     {
       "added_at": "2022-07-19 18:07:08",
       "album": {
-        "name": "Qu\u00e9 Cante El Amor",
-        "url": "https://open.spotify.com/album/0vPT6w0dqWEo45IJuqqAuo"
-      },
-      "artists": [
-        {
-          "name": "Rayito Colombiano",
-          "url": "https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn"
-        }
-      ],
-      "duration_ms": 202613,
-      "name": "Al Despertar",
-      "url": "https://open.spotify.com/track/0GCM7zzCulIbsU07Tt8trk"
-    },
-    {
-      "added_at": "2022-07-19 18:07:08",
-      "album": {
         "name": "Separece A Ti",
         "url": "https://open.spotify.com/album/5Bdfuz8R1s29LQyU0UOyuw"
       },
@@ -611,18 +595,18 @@
     {
       "added_at": "2022-07-19 18:07:08",
       "album": {
-        "name": "Vol\u00f3 La Paloma/Un Toque Diferente",
-        "url": "https://open.spotify.com/album/04lLSTAYIBNjlJ0L6JJnDK"
+        "name": "Qu\u00e9 Cante El Amor",
+        "url": "https://open.spotify.com/album/0vPT6w0dqWEo45IJuqqAuo"
       },
       "artists": [
         {
-          "name": "Los Palmeras",
-          "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
+          "name": "Rayito Colombiano",
+          "url": "https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn"
         }
       ],
-      "duration_ms": 290120,
-      "name": "Olv\u00eddala",
-      "url": "https://open.spotify.com/track/0cXGtTRfQKSHojilCoBAOd"
+      "duration_ms": 202613,
+      "name": "Al Despertar",
+      "url": "https://open.spotify.com/track/0GCM7zzCulIbsU07Tt8trk"
     },
     {
       "added_at": "2022-07-19 18:07:08",
@@ -639,6 +623,22 @@
       "duration_ms": 183266,
       "name": "Una R\u00e1faga de Amor",
       "url": "https://open.spotify.com/track/4i5NFoPWqTqlsR4WyoVFtB"
+    },
+    {
+      "added_at": "2022-07-19 18:07:08",
+      "album": {
+        "name": "Vol\u00f3 La Paloma/Un Toque Diferente",
+        "url": "https://open.spotify.com/album/04lLSTAYIBNjlJ0L6JJnDK"
+      },
+      "artists": [
+        {
+          "name": "Los Palmeras",
+          "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
+        }
+      ],
+      "duration_ms": 290120,
+      "name": "Olv\u00eddala",
+      "url": "https://open.spotify.com/track/0cXGtTRfQKSHojilCoBAOd"
     },
     {
       "added_at": "2022-07-19 18:07:08",
@@ -759,22 +759,6 @@
     {
       "added_at": "2022-07-19 18:07:08",
       "album": {
-        "name": "S\u00f3lo \u00c9xitos",
-        "url": "https://open.spotify.com/album/5hfRoSTXSY1sISkQTVc0nn"
-      },
-      "artists": [
-        {
-          "name": "Grupo Saya",
-          "url": "https://open.spotify.com/artist/2T6hbG0qQTyZglPgH7UEMP"
-        }
-      ],
-      "duration_ms": 220533,
-      "name": "Cumbia Francesa",
-      "url": "https://open.spotify.com/track/6gcI2byXyIPQM2tFybviuo"
-    },
-    {
-      "added_at": "2022-07-19 18:07:08",
-      "album": {
         "name": "Sa, Za...Sabor!!!",
         "url": "https://open.spotify.com/album/3kAXiEiI9Je5tywIAywzcp"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 233613,
       "name": "Porque te Amo",
       "url": "https://open.spotify.com/track/25DfDOwP1giHlA05V3LyUR"
+    },
+    {
+      "added_at": "2022-07-19 18:07:08",
+      "album": {
+        "name": "S\u00f3lo \u00c9xitos",
+        "url": "https://open.spotify.com/album/5hfRoSTXSY1sISkQTVc0nn"
+      },
+      "artists": [
+        {
+          "name": "Grupo Saya",
+          "url": "https://open.spotify.com/artist/2T6hbG0qQTyZglPgH7UEMP"
+        }
+      ],
+      "duration_ms": 220533,
+      "name": "Cumbia Francesa",
+      "url": "https://open.spotify.com/track/6gcI2byXyIPQM2tFybviuo"
     },
     {
       "added_at": "2022-07-19 18:07:08",
@@ -887,22 +887,6 @@
     {
       "added_at": "2022-07-19 18:07:08",
       "album": {
-        "name": "Los Yaguaru",
-        "url": "https://open.spotify.com/album/6zLHoo66ahzFaPgo7Sp3FA"
-      },
-      "artists": [
-        {
-          "name": "Los Yaguar\u00fa",
-          "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
-        }
-      ],
-      "duration_ms": 235128,
-      "name": "Alma De Acero",
-      "url": "https://open.spotify.com/track/3LgQlKNGiQiQhMiTU0ZKao"
-    },
-    {
-      "added_at": "2022-07-19 18:07:08",
-      "album": {
         "name": "Coraz\u00f3n Valiente",
         "url": "https://open.spotify.com/album/3WuwesFp1zHaIQa98Y3Fcn"
       },
@@ -919,18 +903,18 @@
     {
       "added_at": "2022-07-19 18:07:08",
       "album": {
-        "name": "Trayectoria",
-        "url": "https://open.spotify.com/album/0YtGKnOCOt9IYnHDsuJwQt"
+        "name": "Los Yaguaru",
+        "url": "https://open.spotify.com/album/6zLHoo66ahzFaPgo7Sp3FA"
       },
       "artists": [
         {
-          "name": "Los Yes Yes",
-          "url": "https://open.spotify.com/artist/6h9B8wche8pbvJ0wiWKn8q"
+          "name": "Los Yaguar\u00fa",
+          "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
         }
       ],
-      "duration_ms": 315680,
-      "name": "El Verde De Tus Ojos - Remix",
-      "url": "https://open.spotify.com/track/1Nl4EXAxSulKlbiro793i4"
+      "duration_ms": 235128,
+      "name": "Alma De Acero",
+      "url": "https://open.spotify.com/track/3LgQlKNGiQiQhMiTU0ZKao"
     },
     {
       "added_at": "2022-07-19 18:07:08",
@@ -947,6 +931,22 @@
       "duration_ms": 311386,
       "name": "Rumba Frenesi",
       "url": "https://open.spotify.com/track/1nASPG3ZiLBi3fJMOZmRsJ"
+    },
+    {
+      "added_at": "2022-07-19 18:07:08",
+      "album": {
+        "name": "Trayectoria",
+        "url": "https://open.spotify.com/album/0YtGKnOCOt9IYnHDsuJwQt"
+      },
+      "artists": [
+        {
+          "name": "Los Yes Yes",
+          "url": "https://open.spotify.com/artist/6h9B8wche8pbvJ0wiWKn8q"
+        }
+      ],
+      "duration_ms": 315680,
+      "name": "El Verde De Tus Ojos - Remix",
+      "url": "https://open.spotify.com/track/1Nl4EXAxSulKlbiro793i4"
     },
     {
       "added_at": "2022-07-19 18:07:08",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2022-07-19 18:07:08",
       "album": {
+        "name": "El Color De Tu Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/4i5dZPh3Yu4S4F4CAu0LRv"
+      },
+      "artists": [
+        {
+          "name": "Grupo Red",
+          "url": "https://open.spotify.com/artist/7zGKMkRT4IMLgAJmFhf5cz"
+        }
+      ],
+      "duration_ms": 190760,
+      "name": "Amor De Adolescentes",
+      "url": "https://open.spotify.com/track/5v1umyExZ3id6U0RtHrHcD"
+    },
+    {
+      "added_at": "2022-07-19 18:07:08",
+      "album": {
         "name": "El Aut\u00e9ntico e Imbatible",
         "url": "https://open.spotify.com/album/2wNHVSeBDQLAl1WT8tBw62"
       },
@@ -1091,22 +1107,6 @@
       "duration_ms": 252679,
       "name": "Cumbia Del Chinito",
       "url": "https://open.spotify.com/track/761FhLirwe3hFnJKgHUN8y"
-    },
-    {
-      "added_at": "2022-07-19 18:07:08",
-      "album": {
-        "name": "El Color De Tu Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/4i5dZPh3Yu4S4F4CAu0LRv"
-      },
-      "artists": [
-        {
-          "name": "Grupo Red",
-          "url": "https://open.spotify.com/artist/7zGKMkRT4IMLgAJmFhf5cz"
-        }
-      ],
-      "duration_ms": 190760,
-      "name": "Amor De Adolescentes",
-      "url": "https://open.spotify.com/track/5v1umyExZ3id6U0RtHrHcD"
     },
     {
       "added_at": "2022-07-19 18:07:08",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2022-07-19 18:07:08",
       "album": {
-        "name": "Miguel Alejandro - El conejito de Rio Cuarto",
-        "url": "https://open.spotify.com/album/5cAP4mv4XQWlfZfjOK11nt"
-      },
-      "artists": [
-        {
-          "name": "Miguel Alejandro",
-          "url": "https://open.spotify.com/artist/0d2A861NEFqVpEogrYewVJ"
-        }
-      ],
-      "duration_ms": 205213,
-      "name": "En septiembre fuiste mia",
-      "url": "https://open.spotify.com/track/0ZEg8E3mddYWsQXdcOniLI"
-    },
-    {
-      "added_at": "2022-07-19 18:07:08",
-      "album": {
         "name": "El Soltero",
         "url": "https://open.spotify.com/album/0bjpHFI6ooAjv8ePZj8NsL"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 183440,
       "name": "Ojitos Mentirosos",
       "url": "https://open.spotify.com/track/7DTKpVBKNPsDGKwVTl2Txe"
+    },
+    {
+      "added_at": "2022-07-19 18:07:08",
+      "album": {
+        "name": "Miguel Alejandro - El conejito de Rio Cuarto",
+        "url": "https://open.spotify.com/album/5cAP4mv4XQWlfZfjOK11nt"
+      },
+      "artists": [
+        {
+          "name": "Miguel Alejandro",
+          "url": "https://open.spotify.com/artist/0d2A861NEFqVpEogrYewVJ"
+        }
+      ],
+      "duration_ms": 205213,
+      "name": "En septiembre fuiste mia",
+      "url": "https://open.spotify.com/track/0ZEg8E3mddYWsQXdcOniLI"
     },
     {
       "added_at": "2022-07-19 18:07:08",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2022-07-19 18:07:08",
       "album": {
-        "name": "Duelo de Sonoras",
-        "url": "https://open.spotify.com/album/6cKW6XlgLPzuNM0f7emBjY"
-      },
-      "artists": [
-        {
-          "name": "Margarita la diosa de la cumbia",
-          "url": "https://open.spotify.com/artist/2vdi5RS6XV5Qy7J5GgDqgn"
-        }
-      ],
-      "duration_ms": 288560,
-      "name": "Esc\u00e1ndalo",
-      "url": "https://open.spotify.com/track/4EhRKeEN4RE7AWaI9pWXQ5"
-    },
-    {
-      "added_at": "2022-07-19 18:07:08",
-      "album": {
         "name": "Exitos Para Amanecer Bailando",
         "url": "https://open.spotify.com/album/17GuJaIZdVJKUhVcRPjCuz"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 124604,
       "name": "El Pipiripau",
       "url": "https://open.spotify.com/track/6o37HYivkZWytjATLbQ7xk"
+    },
+    {
+      "added_at": "2022-07-19 18:07:08",
+      "album": {
+        "name": "Duelo de Sonoras",
+        "url": "https://open.spotify.com/album/6cKW6XlgLPzuNM0f7emBjY"
+      },
+      "artists": [
+        {
+          "name": "Margarita la diosa de la cumbia",
+          "url": "https://open.spotify.com/artist/2vdi5RS6XV5Qy7J5GgDqgn"
+        }
+      ],
+      "duration_ms": 288560,
+      "name": "Esc\u00e1ndalo",
+      "url": "https://open.spotify.com/track/4EhRKeEN4RE7AWaI9pWXQ5"
     },
     {
       "added_at": "2022-07-19 18:07:08",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2022-07-19 18:07:08",
       "album": {
-        "name": "Nunca Me Faltes",
-        "url": "https://open.spotify.com/album/4IERX704YcJHePC2n4irxt"
-      },
-      "artists": [
-        {
-          "name": "Santamarta",
-          "url": "https://open.spotify.com/artist/4O1lKl5yU8I0laT5XnVZjB"
-        }
-      ],
-      "duration_ms": 266146,
-      "name": "Hoja En Blanco",
-      "url": "https://open.spotify.com/track/1KeFTzRrYwnDlxRFNJY4uQ"
-    },
-    {
-      "added_at": "2022-07-19 18:07:08",
-      "album": {
         "name": "Serie Diamante - 15 S\u00faper Exitos",
         "url": "https://open.spotify.com/album/6CbDYnfZuYfuC9aKn9LcSq"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 180533,
       "name": "Me Vas A Recordar",
       "url": "https://open.spotify.com/track/5Nh4sheOYL11EWJzxhRu5c"
+    },
+    {
+      "added_at": "2022-07-19 18:07:08",
+      "album": {
+        "name": "Nunca Me Faltes",
+        "url": "https://open.spotify.com/album/4IERX704YcJHePC2n4irxt"
+      },
+      "artists": [
+        {
+          "name": "Santamarta",
+          "url": "https://open.spotify.com/artist/4O1lKl5yU8I0laT5XnVZjB"
+        }
+      ],
+      "duration_ms": 266146,
+      "name": "Hoja En Blanco",
+      "url": "https://open.spotify.com/track/1KeFTzRrYwnDlxRFNJY4uQ"
     },
     {
       "added_at": "2022-07-19 18:07:08",
@@ -1807,22 +1807,6 @@
     {
       "added_at": "2022-07-19 18:07:08",
       "album": {
-        "name": "Ritmo, Sol y Arena",
-        "url": "https://open.spotify.com/album/6GNCUK92o0O92UgV14oI6H"
-      },
-      "artists": [
-        {
-          "name": "Acapulco Tropical",
-          "url": "https://open.spotify.com/artist/0wNzx85rLgKy0OXYhpCItV"
-        }
-      ],
-      "duration_ms": 147866,
-      "name": "Acapulco Tropical",
-      "url": "https://open.spotify.com/track/3gs1Vacn6b0kc67zLYilY9"
-    },
-    {
-      "added_at": "2022-07-19 18:07:08",
-      "album": {
         "name": "Nelson Henr\u00edquez vs. Pastor L\u00f3pez",
         "url": "https://open.spotify.com/album/4dniAe3ER3NCfMl60ByGaW"
       },
@@ -1839,6 +1823,22 @@
       "duration_ms": 248373,
       "name": "Mentirosa",
       "url": "https://open.spotify.com/track/3KTfwLP1ohmZNPLGbWxcjb"
+    },
+    {
+      "added_at": "2022-07-19 18:07:08",
+      "album": {
+        "name": "Ritmo, Sol y Arena",
+        "url": "https://open.spotify.com/album/6GNCUK92o0O92UgV14oI6H"
+      },
+      "artists": [
+        {
+          "name": "Acapulco Tropical",
+          "url": "https://open.spotify.com/artist/0wNzx85rLgKy0OXYhpCItV"
+        }
+      ],
+      "duration_ms": 147866,
+      "name": "Acapulco Tropical",
+      "url": "https://open.spotify.com/track/3gs1Vacn6b0kc67zLYilY9"
     },
     {
       "added_at": "2022-07-19 18:07:08",

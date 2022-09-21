@@ -4,7 +4,7 @@
 
 > The best independent music in a post\-genre world
 
-1,734 songs - 3 day 22 hr 36 min - [published](https://open.spotify.com/playlist/3VMk54nY0oCnTsFHeWOKJN)
+1,734 songs - 3 day 22 hr 35 min - [published](https://open.spotify.com/playlist/3VMk54nY0oCnTsFHeWOKJN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -914,7 +914,7 @@
 | [Loneliness on the run \- QuinzeQuinze Remix](https://open.spotify.com/track/4lNiM1Y3r5V11kD9Sir34z) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX), [QuinzeQuinze](https://open.spotify.com/artist/2SWMwDn0bu2QcXwBWznf5u) | [Loneliness on the run \(QuinzeQuinze Remix\)](https://open.spotify.com/album/0r6mHRxC1UMreF7wngNsdi) | 2:55 | 2022-04-15 | 2022-07-09 |
 | [Lonely Road](https://open.spotify.com/track/7c5dtWi2N1DBmEwIBWangX) | [The Tazers](https://open.spotify.com/artist/3oBP043HsDnok9FzprqPce) | [Lonely Road](https://open.spotify.com/album/5O7lOQew1oBQHZ4ndqKESK) | 3:15 | 2021-04-24 | 2021-05-03 |
 | [LONERS ANTHEM](https://open.spotify.com/track/5TJlSKnKnvPcp48BXhHWik) | [WHO SHOT SCOTT](https://open.spotify.com/artist/4INpCNtJho77CQ6ZOfk5lP) | [LONERS ANTHEM](https://open.spotify.com/album/34zxLXckaHvHXtheuNUcrq) | 2:58 | 2022-06-24 | 2022-07-23 |
-| [long legs](https://open.spotify.com/track/1h6Clzt71p8iOQpVM4saBz) | [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [long legs](https://open.spotify.com/album/1Wrt0ZrCiCYv2og1F07LjE) | 4:34 | 2022-09-09 |  |
+| [long legs](https://open.spotify.com/track/1h6Clzt71p8iOQpVM4saBz) | [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [long legs](https://open.spotify.com/album/1Wrt0ZrCiCYv2og1F07LjE) | 4:03 | 2022-09-09 |  |
 | [Longsleeves](https://open.spotify.com/track/2REnKRaReSjlEu86i2XoTa) | [Colourblind](https://open.spotify.com/artist/2Tzh2zHsSIBYCkytK2L82k) | [Longsleeves](https://open.spotify.com/album/3SLhB5ZwhTSjsaD7EzRk02) | 2:58 | 2021-10-30 | 2021-11-06 |
 | [Look At Me Now](https://open.spotify.com/track/4LVlEmHc2lnByIIUkXHr1E) | [BOI](https://open.spotify.com/artist/7y73UWza7rolywdtTdYJV4) | [Look At Me Now](https://open.spotify.com/album/3HoclZOhhA33VkVHrhZcG6) | 3:21 | 2021-02-12 | 2021-04-03 |
 | [LOOK AWAY \(feat\. Roméo & RMR\)](https://open.spotify.com/track/1toxhzcFq9atJVuA8TCL9M) | [Young Saab](https://open.spotify.com/artist/3koEtGT6SxcjRgwh6YwDx5), [RMR](https://open.spotify.com/artist/0j1Pwmd6nuk0BXD1RqoHDw), [ROMÉO](https://open.spotify.com/artist/6UZAR4NCq8pcvxGZVlfuf2) | [LOOK AWAY \(feat\. Roméo & RMR\)](https://open.spotify.com/album/0suDpZ1YhwvHwxMTk2b9Qp) | 2:34 | 2022-08-19 |  |

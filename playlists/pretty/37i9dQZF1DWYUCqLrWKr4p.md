@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUCqLrWKr4p.md) - [plain]
 
 > Unforgettable love songs from the 1960s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,084 likes - 73 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,220 likes - 73 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUCqLrWKr4p.md) - [plain]
 | 56 | [I'm Gonna Make You Love Me](https://open.spotify.com/track/3Rhxe6P1im82NFVkt9X2qZ) | [Diana Ross & The Supremes](https://open.spotify.com/artist/0rXI0q8Cahq6numvPlloaq), [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [Diana Ross & The Supremes Join The Temptations](https://open.spotify.com/album/7tZt4EApjs2MSzt0OJ1vaT) | 3:07 |
 | 57 | [\(Today I Met\) The Boy I'm Gonna Marry](https://open.spotify.com/track/2Px4PrbPBMeWB1silbjI5H) | [Darlene Love](https://open.spotify.com/artist/391oLRVmoTkumiN79HkTWu) | [The Sound Of Love: The Very Best Of Darlene Love](https://open.spotify.com/album/2KMh9uqFrGblh1Ui23yoXU) | 2:46 |
 | 58 | [It's In The Kiss \(The Shoop Shoop Song\)](https://open.spotify.com/track/35hfuechuOqaW31ogdauO7) | [Betty Everett](https://open.spotify.com/artist/53jXEVVJtpaWVQ3ffvhDtl) | [No Place To Hide](https://open.spotify.com/album/7CPcd7Sl9L4TahP1gTqR5q) | 2:09 |
-| 59 | [My Guy \- Single Version](https://open.spotify.com/track/7arXVtGNJPa7aOHiKOeUsl) | [Mary Wells](https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7) | [The Definitive Collection](https://open.spotify.com/album/0rgnbePrBYNFSaXnCZOcod) | 2:51 |
-| 60 | [Hey Paula \- Single Version](https://open.spotify.com/track/6MpCxTJNdkHIpvQRuID8zU) | [Paul & Paula](https://open.spotify.com/artist/2pycVt1qR9u8bKdb4oLI98) | [\#1 Radio Hits of the 60's](https://open.spotify.com/album/4o3sNKvKE9yfyhMVm6oSg3) | 2:31 |
+| 59 | [Hey Paula \- Single Version](https://open.spotify.com/track/6MpCxTJNdkHIpvQRuID8zU) | [Paul & Paula](https://open.spotify.com/artist/2pycVt1qR9u8bKdb4oLI98) | [\#1 Radio Hits of the 60's](https://open.spotify.com/album/4o3sNKvKE9yfyhMVm6oSg3) | 2:31 |
+| 60 | [My Guy \- Single Version](https://open.spotify.com/track/7arXVtGNJPa7aOHiKOeUsl) | [Mary Wells](https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7) | [The Definitive Collection](https://open.spotify.com/album/0rgnbePrBYNFSaXnCZOcod) | 2:51 |
 | 61 | [I Love How You Love Me](https://open.spotify.com/track/6wceQSqQDvdcw0cMNKdp7s) | [Bobby Vinton](https://open.spotify.com/artist/6bOYtKnpLPQSfMpS2ilotK) | [I Love How You Love Me](https://open.spotify.com/album/4gurJ6L9p3piSJutIH2E3z) | 2:30 |
 | 62 | [Poetry In Motion \- 1960 \#2 Billboard chart hit](https://open.spotify.com/track/2HKafPuzWaKsCzcE3zFOIX) | [Johnny Tillotson](https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794) | [Johnny Tillotson's Best](https://open.spotify.com/album/23FZ6dkeF3N8cAfVqzggFR) | 2:34 |
 | 63 | [Angel Baby](https://open.spotify.com/track/1HzfcOcxJeGmxgf5a6MK0W) | [Rosie & The Originals](https://open.spotify.com/artist/422gtj7D6L6pvr0GE08lwf) | [Presenting Rosie & the Originals](https://open.spotify.com/album/76X16nVTLk9S8FrLrAP8ff) | 3:47 |
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUCqLrWKr4p.md) - [plain]
 | 72 | [When Something Is Wrong with My Baby](https://open.spotify.com/track/056rtilqF4cqLOgDQGqYqv) | [Sam & Dave](https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2) | [The Best of Sam & Dave](https://open.spotify.com/album/4IDa38FYTYlqHFbZM6rb5I) | 3:14 |
 | 73 | [When You're Young And In Love](https://open.spotify.com/track/3URfKi5DOvUaJMuTuT8osm) | [The Marvelettes](https://open.spotify.com/artist/0MponVSpW81oLvJZ53vYZH) | [The Marvelettes](https://open.spotify.com/album/10PshaiGlvqUfdADKJXbTV) | 2:39 |
 
-Snapshot ID: `MTY1MzkxNTc0NCwwMDAwMDAwMDY4MTE0OTk3NzdiNDlmNWNkYjIzOGM0MjViYTgyY2I1`
+Snapshot ID: `MTY1MzkxNTc0NCwwMDAwMDAwMDgyMTdmODI2Y2EwNDA2NmFlN2UyMDM1NTkyYTgzNzQ3`

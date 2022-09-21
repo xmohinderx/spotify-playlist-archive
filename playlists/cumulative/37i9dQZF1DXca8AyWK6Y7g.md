@@ -4,7 +4,7 @@
 
 > living life in your 250 sq ft micro apt\. Cover: Dylan
 
-1,285 songs - 2 day 18 hr 15 min - [published](https://open.spotify.com/playlist/5ughHfqxtBosozqZ6BniQD)
+1,286 songs - 2 day 18 hr 17 min - [published](https://open.spotify.com/playlist/5ughHfqxtBosozqZ6BniQD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -327,6 +327,7 @@
 | [Drowning in the Culture](https://open.spotify.com/track/2L79zW9LUnohYifrJDPBtg) | [AVIV](https://open.spotify.com/artist/1EWcnusq6BavKMW5OCsRMo) | [Drowning in the Culture](https://open.spotify.com/album/7yHAkAp1DJ4Z8MDFqpABWo) | 2:10 | 2022-04-15 | 2022-05-25 |
 | [Drugs](https://open.spotify.com/track/06ioYJ99HHjzRk8HrGfkKS) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Drugs](https://open.spotify.com/album/46S95aTUFWSVmRmDKAGnFf) | 2:35 | 2019-05-26\* | 2020-06-29 |
 | [Dry Spell](https://open.spotify.com/track/6akbqRYcAzX4sDibV4PofA) | [JORDY](https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E) | [Dry Spell](https://open.spotify.com/album/5jy7stWw7eNshcMa1A6IwK) | 3:27 | 2022-05-27 | 2022-07-30 |
+| [dumb dumb](https://open.spotify.com/track/4qbEaaJ29p32GI8EWQmm6R) | [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [the rainbow cassette](https://open.spotify.com/album/7uzmNefPoRgc5Pi9DS00CC) | 2:05 | 2022-09-20 |  |
 | [Duo](https://open.spotify.com/track/0KbMjhlUH1xUGDgeIQzLsn) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [Duo](https://open.spotify.com/album/5Mp5iZqsRMvP3izACMnLPF) | 2:06 | 2021-04-23 | 2021-11-19 |
 | [dying on the inside](https://open.spotify.com/track/6h1s7cKnUtsbRpE5bwnUTf) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [dying on the inside](https://open.spotify.com/album/67sFRrnPbvz9Te28kO6Ktu) | 3:24 | 2022-02-25 | 2022-06-25 |
 | [e\-z \(feat\. UPSAHL & Blu DeTiger\)](https://open.spotify.com/track/2FsHjcNkT4usTdV2b407Iq) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9), [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9), [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [a study of the human experience volume one](https://open.spotify.com/album/1oZ8mqRS1vJFZhSpc4WI4S) | 2:45 | 2022-03-18 | 2022-07-16 |
@@ -679,7 +680,7 @@
 | [Like Home](https://open.spotify.com/track/4yf12uq8vpmBePwRbTYJib) | [Great Good Fine Ok](https://open.spotify.com/artist/422RLznpwUa5FsQgnTlgUH) | [GGFOUR](https://open.spotify.com/album/09n5FwLDoFRlzVvwyLhjMD) | 3:25 | 2019-07-27 | 2021-05-13 |
 | [Like Summer](https://open.spotify.com/track/3innRzfJF3RMcZbXv6It28) | [Kyan](https://open.spotify.com/artist/1fpemL1wk3ZyXVfpzlVEkL) | [Like Summer / Nothing Beyond](https://open.spotify.com/album/2PZ7bnYRX9sOawrIAKeGdT) | 5:36 | 2020-06-12 | 2021-10-12 |
 | [LiLBiTcH \(feat\. Rico Nasty & Soleima\)](https://open.spotify.com/track/2ay96C6SLNv9urvXKD3ecB) | [chillpill](https://open.spotify.com/artist/1QzqrU2lmiW9l1mSvliVoM), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [Soleima](https://open.spotify.com/artist/71le7jtjw9hq389Fnvi6XM) | [LiLBiTcH \(feat\. Rico Nasty & Soleima\)](https://open.spotify.com/album/6WQTNgQPCS6GApd4cWQUTB) | 2:15 | 2021-02-22 | 2021-05-24 |
-| [Line](https://open.spotify.com/track/1VdILQlpAs1WR20E0mLreP) | [Zoe Ko](https://open.spotify.com/artist/493xhO4GiL1eOhWUBt8CzZ) | [Line](https://open.spotify.com/album/5wFOIRtz2zAN3RA8DcVO7K) | 3:16 | 2022-05-20 |  |
+| [Line](https://open.spotify.com/track/1VdILQlpAs1WR20E0mLreP) | [Zoe Ko](https://open.spotify.com/artist/493xhO4GiL1eOhWUBt8CzZ) | [Line](https://open.spotify.com/album/5wFOIRtz2zAN3RA8DcVO7K) | 3:16 | 2022-05-20 | 2022-09-21 |
 | [Living](https://open.spotify.com/track/7zJxChdtfJFwVCCnF2YWvS) | [TENDER](https://open.spotify.com/artist/1I9HNoVK6kOQGVZfulXVnm) | [Living](https://open.spotify.com/album/71WzlDb4sKJlvbakA9qRcR) | 3:58 | 2021-02-23 | 2021-10-12 |
 | [living far away](https://open.spotify.com/track/3LI67DuBMjlhVeg5Z50nHi) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL), [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [living far away](https://open.spotify.com/album/0uhIHWuzEYVDrANrfclLzj) | 2:58 | 2021-05-11 | 2021-10-14 |
 | [LMK](https://open.spotify.com/track/0efL46uAuNEfukXQYsbPlX) | [Lil Xxel](https://open.spotify.com/artist/7iDeMFJKjI1ak40N3hoYOZ) | [LMK](https://open.spotify.com/album/7J4rvxMkuQ2JZSVEdK4iTq) | 3:08 | 2020-06-12 | 2020-09-25 |

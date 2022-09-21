@@ -1,12 +1,12 @@
 {
   "description": "O trap nacional pra qualquer hora, daquele jeit\u00e3o.",
-  "num_followers": 92509,
+  "num_followers": 92581,
   "original_name": "Trap Classe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMDYwNzc5NywwMDAwMDAwMGQwY2NlYmUyOGMzYTE1ZjM3YTQyMjg0NjVkMjQyZWE2",
+  "snapshot_id": "MTYzMDYwNzc5NywwMDAwMDAwMDU4YmMxNjA5ZWIxMGY5MjgyMWQ4YmEzNmVkNzdiYmIx",
   "tracks": [
     {
       "added_at": "2021-09-02 18:36:37",
@@ -435,22 +435,6 @@
     {
       "added_at": "2021-09-02 18:36:37",
       "album": {
-        "name": "Ok Baby",
-        "url": "https://open.spotify.com/album/0N8j8hvyEfBrQbBPMhNGD9"
-      },
-      "artists": [
-        {
-          "name": "Japa",
-          "url": "https://open.spotify.com/artist/3455RNeKZ9giouA4pde2qA"
-        }
-      ],
-      "duration_ms": 164210,
-      "name": "Ok Baby",
-      "url": "https://open.spotify.com/track/6EHSC5FGDVtL3LPcHkZQCi"
-    },
-    {
-      "added_at": "2021-09-02 18:36:37",
-      "album": {
         "name": "Quadro",
         "url": "https://open.spotify.com/album/5FbEpa7ZliTKb16jB2wQj3"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 167384,
       "name": "Quadro",
       "url": "https://open.spotify.com/track/6quxGsXP50tQOZG9onTDMI"
+    },
+    {
+      "added_at": "2021-09-02 18:36:37",
+      "album": {
+        "name": "Ok Baby",
+        "url": "https://open.spotify.com/album/0N8j8hvyEfBrQbBPMhNGD9"
+      },
+      "artists": [
+        {
+          "name": "Japa",
+          "url": "https://open.spotify.com/artist/3455RNeKZ9giouA4pde2qA"
+        }
+      ],
+      "duration_ms": 164210,
+      "name": "Ok Baby",
+      "url": "https://open.spotify.com/track/6EHSC5FGDVtL3LPcHkZQCi"
     },
     {
       "added_at": "2021-09-02 18:36:37",
@@ -571,22 +571,6 @@
     {
       "added_at": "2021-09-02 18:36:37",
       "album": {
-        "name": "Dejavu",
-        "url": "https://open.spotify.com/album/1HyDJJWmrJjfz1txHR17UF"
-      },
-      "artists": [
-        {
-          "name": "Japa",
-          "url": "https://open.spotify.com/artist/3455RNeKZ9giouA4pde2qA"
-        }
-      ],
-      "duration_ms": 146165,
-      "name": "Dejavu",
-      "url": "https://open.spotify.com/track/4WnUiUZyqIF7vP6S4wriKG"
-    },
-    {
-      "added_at": "2021-09-02 18:36:37",
-      "album": {
         "name": "Bail\u00e3o",
         "url": "https://open.spotify.com/album/6Y0lWZcXvfvSHkJwsNFLwp"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 210616,
       "name": "Bail\u00e3o",
       "url": "https://open.spotify.com/track/5dpFeWLyIjhJupWAG7U5PX"
+    },
+    {
+      "added_at": "2021-09-02 18:36:37",
+      "album": {
+        "name": "Disfarce",
+        "url": "https://open.spotify.com/album/6tMKjaduCP1Xts8Norkiy6"
+      },
+      "artists": [
+        {
+          "name": "Thiago Kelbert",
+          "url": "https://open.spotify.com/artist/22kCWlXVaiBMYozPgHQhZM"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Disfarce",
+      "url": "https://open.spotify.com/track/4Rx0VjnR16gkAuA322epk4"
     },
     {
       "added_at": "2021-09-02 18:36:37",
@@ -631,18 +631,18 @@
     {
       "added_at": "2021-09-02 18:36:37",
       "album": {
-        "name": "Disfarce",
-        "url": "https://open.spotify.com/album/6tMKjaduCP1Xts8Norkiy6"
+        "name": "Dejavu",
+        "url": "https://open.spotify.com/album/1HyDJJWmrJjfz1txHR17UF"
       },
       "artists": [
         {
-          "name": "Thiago Kelbert",
-          "url": "https://open.spotify.com/artist/22kCWlXVaiBMYozPgHQhZM"
+          "name": "Japa",
+          "url": "https://open.spotify.com/artist/3455RNeKZ9giouA4pde2qA"
         }
       ],
-      "duration_ms": 176000,
-      "name": "Disfarce",
-      "url": "https://open.spotify.com/track/4Rx0VjnR16gkAuA322epk4"
+      "duration_ms": 146165,
+      "name": "Dejavu",
+      "url": "https://open.spotify.com/track/4WnUiUZyqIF7vP6S4wriKG"
     },
     {
       "added_at": "2021-09-02 18:36:37",
@@ -691,34 +691,6 @@
     {
       "added_at": "2021-09-02 18:36:37",
       "album": {
-        "name": "Oclin e Evoque",
-        "url": "https://open.spotify.com/album/1lm0ePGaAMF91JfN3O9sI7"
-      },
-      "artists": [
-        {
-          "name": "Tropa do Bruxo",
-          "url": "https://open.spotify.com/artist/4s3lxX76LwxzMdQEAFYdzv"
-        },
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "MC Rick",
-          "url": "https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt"
-        },
-        {
-          "name": "Sidoka",
-          "url": "https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l"
-        }
-      ],
-      "duration_ms": 212581,
-      "name": "Oclin e Evoque",
-      "url": "https://open.spotify.com/track/3PnDIGbfmswMaxX386zp3X"
-    },
-    {
-      "added_at": "2021-09-02 18:36:37",
-      "album": {
         "name": "Para todas as mulheres que j\u00e1 rimei",
         "url": "https://open.spotify.com/album/3UQLzEpN117dUBLbe2W2gD"
       },
@@ -743,6 +715,34 @@
       "duration_ms": 182608,
       "name": "Ferve\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/5R1h9ssiMJIDFAeEzGj9G0"
+    },
+    {
+      "added_at": "2021-09-02 18:36:37",
+      "album": {
+        "name": "Oclin e Evoque",
+        "url": "https://open.spotify.com/album/1lm0ePGaAMF91JfN3O9sI7"
+      },
+      "artists": [
+        {
+          "name": "Tropa do Bruxo",
+          "url": "https://open.spotify.com/artist/4s3lxX76LwxzMdQEAFYdzv"
+        },
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "MC Rick",
+          "url": "https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt"
+        },
+        {
+          "name": "Sidoka",
+          "url": "https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l"
+        }
+      ],
+      "duration_ms": 212581,
+      "name": "Oclin e Evoque",
+      "url": "https://open.spotify.com/track/3PnDIGbfmswMaxX386zp3X"
     },
     {
       "added_at": "2021-09-02 18:36:37",
@@ -991,6 +991,26 @@
     {
       "added_at": "2021-09-02 18:36:37",
       "album": {
+        "name": "Apoteose",
+        "url": "https://open.spotify.com/album/5zLYG5pdbwVyQD96FYgGdQ"
+      },
+      "artists": [
+        {
+          "name": "Mateca",
+          "url": "https://open.spotify.com/artist/6PCKJU7fu36U4fRl7354wU"
+        },
+        {
+          "name": "MC Caverinha",
+          "url": "https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee"
+        }
+      ],
+      "duration_ms": 176888,
+      "name": "Probleminha",
+      "url": "https://open.spotify.com/track/1zCJZUgIsBrs1wlKTm52oo"
+    },
+    {
+      "added_at": "2021-09-02 18:36:37",
+      "album": {
         "name": "Criminal Influencer",
         "url": "https://open.spotify.com/album/4c14Voy3lrcEd4pseEreG3"
       },
@@ -1051,26 +1071,6 @@
       "duration_ms": 223732,
       "name": "POC POC",
       "url": "https://open.spotify.com/track/1IIoQ4SDLTA1I0KU5mHlgl"
-    },
-    {
-      "added_at": "2021-09-02 18:36:37",
-      "album": {
-        "name": "Apoteose",
-        "url": "https://open.spotify.com/album/5zLYG5pdbwVyQD96FYgGdQ"
-      },
-      "artists": [
-        {
-          "name": "Mateca",
-          "url": "https://open.spotify.com/artist/6PCKJU7fu36U4fRl7354wU"
-        },
-        {
-          "name": "MC Caverinha",
-          "url": "https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee"
-        }
-      ],
-      "duration_ms": 176888,
-      "name": "Probleminha",
-      "url": "https://open.spotify.com/track/1zCJZUgIsBrs1wlKTm52oo"
     },
     {
       "added_at": "2021-09-02 18:36:37",

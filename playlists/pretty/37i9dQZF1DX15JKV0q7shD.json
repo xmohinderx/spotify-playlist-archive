@@ -1,12 +1,12 @@
 {
   "description": "Those quintessential sad songs ",
-  "num_followers": 86322,
+  "num_followers": 86431,
   "original_name": "Classics For Crying",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjQ2MTE0NCwwMDAwMDAwMDM2YWRjYzZhMThlNGVlYjg5MjEyMjU2Y2VmMzQ1YWQ0",
+  "snapshot_id": "MTY1MjQ2MTE0NCwwMDAwMDAwMDkzZDQ3ZTM3M2IwOWUyMTU2Njc0ZTI3NTA4ZTVkNmYx",
   "tracks": [
     {
       "added_at": "2022-05-13 16:59:04",
@@ -851,22 +851,6 @@
     {
       "added_at": "2022-05-13 16:59:04",
       "album": {
-        "name": "lovestrong.",
-        "url": "https://open.spotify.com/album/3XNK8vPk3O1rjhDZyOMJ6n"
-      },
-      "artists": [
-        {
-          "name": "Christina Perri",
-          "url": "https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6"
-        }
-      ],
-      "duration_ms": 246587,
-      "name": "Jar of Hearts",
-      "url": "https://open.spotify.com/track/0HZhYMZOcUzZKSFwPOti6m"
-    },
-    {
-      "added_at": "2022-05-13 16:59:04",
-      "album": {
         "name": "Brand New Eyes",
         "url": "https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 267653,
       "name": "The Only Exception",
       "url": "https://open.spotify.com/track/7JIuqL4ZqkpfGKQhYlrirs"
+    },
+    {
+      "added_at": "2022-05-13 16:59:04",
+      "album": {
+        "name": "lovestrong.",
+        "url": "https://open.spotify.com/album/3XNK8vPk3O1rjhDZyOMJ6n"
+      },
+      "artists": [
+        {
+          "name": "Christina Perri",
+          "url": "https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6"
+        }
+      ],
+      "duration_ms": 246587,
+      "name": "Jar of Hearts",
+      "url": "https://open.spotify.com/track/0HZhYMZOcUzZKSFwPOti6m"
     },
     {
       "added_at": "2022-05-13 16:59:04",

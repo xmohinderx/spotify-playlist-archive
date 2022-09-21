@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40AQSQVhD0g.md) - [plain]
 
 > Buenas vibras para limpiar la casa! The best vibes to keep the house clean!
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,374 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,440 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40AQSQVhD0g.md) - [plain]
 | 41 | [Hoja En Blanco](https://open.spotify.com/track/0wDEs6WvqDHq4XJZC0dHhO) | [Monchy & Alexandra](https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub) | [Hoja en Blanco](https://open.spotify.com/album/4aqcDA0Q2UEPInj5a89Cjr) | 5:07 |
 | 42 | [SUBEME LA RADIO \(feat\. Descemer Bueno & Zion & Lennox\)](https://open.spotify.com/track/7nKBxz47S9SD79N086fuhn) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Descemer Bueno](https://open.spotify.com/artist/5luyt0SUvGkDMY4ILP6Qhl), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [SUBEME LA RADIO \(feat\. Descemer Bueno & Zion & Lennox\)](https://open.spotify.com/album/2Ib7wM5qXKXDzZFhzNQ7TG) | 3:27 |
 | 43 | [Mi primer millon](https://open.spotify.com/track/5fSDXbY8o9pA3TKwAbfwML) | [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl) | [Caraluna](https://open.spotify.com/album/2bM009J81OBNisrMbFwBJj) | 3:57 |
-| 44 | [Yo También \(feat\. Marc Anthony\)](https://open.spotify.com/track/5A9AILetvfQg3LHyX5X0pV) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Fórmula, Vol\. 2 \(Deluxe Edition\)](https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L) | 5:06 |
-| 45 | [Te Extraño \- Bachata Version](https://open.spotify.com/track/0muI8DpTEpLqqibPm3sKYf) | [Xtreme](https://open.spotify.com/artist/47bVt95bvBMpmJFWoyhH0C) | [Xtreme](https://open.spotify.com/album/66g9Nydw29UNG9b2ndrlRi) | 3:32 |
+| 44 | [Te Extraño \- Bachata Version](https://open.spotify.com/track/0muI8DpTEpLqqibPm3sKYf) | [Xtreme](https://open.spotify.com/artist/47bVt95bvBMpmJFWoyhH0C) | [Xtreme](https://open.spotify.com/album/66g9Nydw29UNG9b2ndrlRi) | 3:32 |
+| 45 | [Yo También \(feat\. Marc Anthony\)](https://open.spotify.com/track/5A9AILetvfQg3LHyX5X0pV) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Fórmula, Vol\. 2 \(Deluxe Edition\)](https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L) | 5:06 |
 | 46 | [Si Una Vez](https://open.spotify.com/track/3zLQtoEeXA6Lr1sNrbyYbs) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Amor Prohibido](https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E) | 2:47 |
 | 47 | [Bachata En Fukuoka](https://open.spotify.com/track/6IfMD01z39P15HKezjdaMP) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Asondeguerra](https://open.spotify.com/album/2LqYd5gIJxEvG5md8kGeyL) | 3:11 |
 | 48 | [La Vida Es Un Carnaval](https://open.spotify.com/track/1BwrMGGhPA6GarWIYaFrW8) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Para La Eternidad](https://open.spotify.com/album/2MSP1JG7KflqYqAHtk7wlB) | 4:38 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40AQSQVhD0g.md) - [plain]
 | 99 | [No Te Veo \- Digital Single](https://open.spotify.com/track/40EDOraCqoiMf14TzODihf) | [Casa De Leones](https://open.spotify.com/artist/26YAHs5On4KQDNsU2cYFdL) | [No Te Veo](https://open.spotify.com/album/2gSW9jTCv7OZgx8JKlkyE7) | 4:15 |
 | 100 | [Sopa de Caracol](https://open.spotify.com/track/4V8uHuLaBRxQ02H4YNCOO7) | [Banda Blanca](https://open.spotify.com/artist/1Ykx49KpY0FqIXUwyuD3TJ) | [Lo Mejor de Banda Blanca \- 16 Exitos](https://open.spotify.com/album/696Y05qV9YgqTqA8gPmY20) | 4:53 |
 
-Snapshot ID: `MTY1ODIxNDE5MCwwMDAwMDAwMDQ0YmIxNWZhNDk3YzlhMGE0MmE4ZjlhODFkMTUwMzlk`
+Snapshot ID: `MTY1ODIxNDE5MCwwMDAwMDAwMGI2YjY0M2MyZjI1YWZjYTE0NWNlNzA4NzA0OWIwNDhj`

@@ -4,7 +4,7 @@
 
 > This is Elliott Smith\. The essential tracks, all in one playlist.
 
-47 songs - 2 hr 41 min - [published](https://open.spotify.com/playlist/70Ohsc6IHNs6h9xH85dU25)
+48 songs - 2 hr 44 min - [published](https://open.spotify.com/playlist/70Ohsc6IHNs6h9xH85dU25)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Between The Bars](https://open.spotify.com/track/52Bg6oaos7twR7IUtEpqcE) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Either/Or](https://open.spotify.com/album/5hryhrT7wEdLnZCbJX9F6L) | 2:21 | 2022-09-16 |  |
 | [Bottle Up And Explode!](https://open.spotify.com/track/2c7AnyxXkbemyTEpzprQVx) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [XO](https://open.spotify.com/album/1zOxlHQGGV6EH7n4OIFTyh) | 2:58 | 2022-09-16 |  |
 | [Can't Make A Sound](https://open.spotify.com/track/3WaYhAz45pwhS2boBUjvfO) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Figure 8](https://open.spotify.com/album/7DC0pE943VR5tAKIvQXHts) | 4:15 | 2022-09-16 |  |
-| [Christian Brothers](https://open.spotify.com/track/17dXDRfCPqxAG3xt9g5Kpe) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Elliott Smith](https://open.spotify.com/album/60C4r1YwIxsliktUL6eXfw) | 4:30 | 2022-09-19 |  |
+| [Christian Brothers](https://open.spotify.com/track/17dXDRfCPqxAG3xt9g5Kpe) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Elliott Smith](https://open.spotify.com/album/60C4r1YwIxsliktUL6eXfw) | 4:30 | 2022-09-19 | 2022-09-21 |
 | [Christian Brothers](https://open.spotify.com/track/1QUXSToImDkW7CUzJwRrWQ) | [Heatmiser](https://open.spotify.com/artist/59IPo3F7aZifhZtHnoGHbo), [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Heaven Adores You Soundtrack](https://open.spotify.com/album/7Ilu6VpX49cnTkgklQpz4M) | 5:00 | 2022-09-16 |  |
 | [Clementine](https://open.spotify.com/track/0nUPuUnqVLOZFayUzxi1JG) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Elliott Smith](https://open.spotify.com/album/60C4r1YwIxsliktUL6eXfw) | 2:46 | 2022-09-16 |  |
 | [Coming Up Roses](https://open.spotify.com/track/56glzc2mZUIJwKsEjKqY8b) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Elliott Smith](https://open.spotify.com/album/60C4r1YwIxsliktUL6eXfw) | 3:10 | 2022-09-16 |  |
@@ -30,6 +30,7 @@
 | [Half Right](https://open.spotify.com/track/5KqUAChw7ZFJpc4knm4jka) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [New Moon](https://open.spotify.com/album/22KjY8SLvYh2DVMmLPPatF) | 3:50 | 2022-09-16 |  |
 | [Happiness/The Gondola Man](https://open.spotify.com/track/3aU2ui8JQOtmgHYH0g1qFL) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Figure 8](https://open.spotify.com/album/7DC0pE943VR5tAKIvQXHts) | 5:04 | 2022-09-16 |  |
 | [High Times](https://open.spotify.com/track/72fRYCzzLOdbuzDJ2RYUSU) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [New Moon](https://open.spotify.com/album/22KjY8SLvYh2DVMmLPPatF) | 3:11 | 2022-09-16 |  |
+| [I Didn't Understand](https://open.spotify.com/track/3IQApXKUun0iHHtpsvI7xL) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [XO](https://open.spotify.com/album/1zOxlHQGGV6EH7n4OIFTyh) | 2:17 | 2022-09-20 |  |
 | [Independence Day](https://open.spotify.com/track/3pM7gfel0ho7yVJw4KK5Eq) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [XO](https://open.spotify.com/album/1zOxlHQGGV6EH7n4OIFTyh) | 3:04 | 2022-09-16 |  |
 | [Junk Bond Trader](https://open.spotify.com/track/5I82Gy3FcoPGP4rzYbXADt) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Figure 8](https://open.spotify.com/album/7DC0pE943VR5tAKIvQXHts) | 3:49 | 2022-09-18 | 2022-09-20 |
 | [King's Crossing](https://open.spotify.com/track/2GsiKnbHHXDpoL7R6cJUTZ) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [From A Basement On The Hill](https://open.spotify.com/album/2K4OE5cl22fNSRrwzrhIZZ) | 4:57 | 2022-09-16 |  |
@@ -48,11 +49,11 @@
 | [Somebody That I Used To Know](https://open.spotify.com/track/4xfAVJL8R7mVYbDk8a9xOY) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Figure 8](https://open.spotify.com/album/7DC0pE943VR5tAKIvQXHts) | 2:09 | 2022-09-16 |  |
 | [Son Of Sam](https://open.spotify.com/track/6tPiCU4LFsXUQPRIykOAnl) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Figure 8](https://open.spotify.com/album/7DC0pE943VR5tAKIvQXHts) | 3:04 | 2022-09-16 |  |
 | [Speed Trials](https://open.spotify.com/track/4ePiNo6s2nZdxP26A0ATau) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Either/Or](https://open.spotify.com/album/6KMdn9HDIqcBPaaok0K34K) | 3:01 | 2022-09-16 |  |
-| [Sweet Adeline](https://open.spotify.com/track/5KmMMmc1pXL5lL4HlR9Srz) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [XO](https://open.spotify.com/album/1zOxlHQGGV6EH7n4OIFTyh) | 3:15 | 2022-09-16 |  |
+| [Sweet Adeline](https://open.spotify.com/track/5KmMMmc1pXL5lL4HlR9Srz) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [XO](https://open.spotify.com/album/1zOxlHQGGV6EH7n4OIFTyh) | 3:15 | 2022-09-16 | 2022-09-21 |
 | [Talking To Mary](https://open.spotify.com/track/3BkD7KRNgTXh0bLLL2TsWQ) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [New Moon](https://open.spotify.com/album/22KjY8SLvYh2DVMmLPPatF) | 3:42 | 2022-09-16 |  |
 | [The Biggest Lie](https://open.spotify.com/track/4xFNWqI3kQ34kNKMplWsk2) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Elliott Smith](https://open.spotify.com/album/60C4r1YwIxsliktUL6eXfw) | 2:39 | 2022-09-16 |  |
 | [The Last Hour](https://open.spotify.com/track/7DgQ1vzahOgimHdnm2pQov) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [From A Basement On The Hill](https://open.spotify.com/album/2K4OE5cl22fNSRrwzrhIZZ) | 3:27 | 2022-09-16 |  |
-| [The White Lady Loves You More](https://open.spotify.com/track/75l3rO9pLGAas7P4O22RDE) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Elliott Smith](https://open.spotify.com/album/60C4r1YwIxsliktUL6eXfw) | 2:24 | 2022-09-16 | 2022-09-20 |
+| [The White Lady Loves You More](https://open.spotify.com/track/75l3rO9pLGAas7P4O22RDE) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Elliott Smith](https://open.spotify.com/album/60C4r1YwIxsliktUL6eXfw) | 2:24 | 2022-09-16 |  |
 | [Twilight](https://open.spotify.com/track/5YoR2agiVdBpuAuW9PvgKD) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [From A Basement On The Hill](https://open.spotify.com/album/2K4OE5cl22fNSRrwzrhIZZ) | 4:29 | 2022-09-16 |  |
 | [Waltz \#2 \(XO\)](https://open.spotify.com/track/5AMrnF761nziCWUfjBgRUI) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [XO](https://open.spotify.com/album/1zOxlHQGGV6EH7n4OIFTyh) | 4:40 | 2022-09-16 |  |
 

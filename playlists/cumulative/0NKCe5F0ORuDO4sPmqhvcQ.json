@@ -6144,6 +6144,32 @@
     },
     {
       "album": {
+        "name": "Wide Awake (Devault Remix)",
+        "url": "https://open.spotify.com/album/2qTLUHWEVu7AaNUpcrMkwr"
+      },
+      "artists": [
+        {
+          "name": "ODESZA",
+          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
+        },
+        {
+          "name": "Devault",
+          "url": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
+        },
+        {
+          "name": "Charlie Houston",
+          "url": "https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273750,
+      "name": "Wide Awake (feat. Charlie Houston) - Devault Remix",
+      "url": "https://open.spotify.com/track/0OXTIle1hA45EBBQJ0ktYG"
+    },
+    {
+      "album": {
         "name": "infina ad nausea: the remixes [miami rave pack]",
         "url": "https://open.spotify.com/album/3AVo3rXPsQirTxXQKCHhmw"
       },

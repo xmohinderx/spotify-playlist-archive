@@ -1,12 +1,12 @@
 {
   "description": "2016 highlights from the home of indie music.",
-  "num_followers": 46432,
+  "num_followers": 46539,
   "original_name": "Best of Indie 2016",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTIxNzE0NiwwMDAwMDAwMDg1NjA3OTE5Yjc2ZTJjZWZmZTY1NTY3MmZiMWMyNmRk",
+  "snapshot_id": "MTY0MTIxNzE0NiwwMDAwMDAwMDJmZDk4OWI1MTViY2FmMzRjMzlkNTc2OTkyYjE3OGFk",
   "tracks": [
     {
       "added_at": "2021-09-22 14:36:46",
@@ -25,22 +25,6 @@
       "url": "https://open.spotify.com/track/0TCmhnbMpw5zwPsTvlXTJi"
     },
     {
-      "added_at": "2021-11-16 09:16:19",
-      "album": {
-        "name": "Notion",
-        "url": "https://open.spotify.com/album/4Uf8BVznefnd2xZm2nRFUx"
-      },
-      "artists": [
-        {
-          "name": "The Rare Occasions",
-          "url": "https://open.spotify.com/artist/1QfpRUtH14JLoY6F6AYmwt"
-        }
-      ],
-      "duration_ms": 195120,
-      "name": "Notion",
-      "url": "https://open.spotify.com/track/0sTlGEld0h8kIPZaKDYUf4"
-    },
-    {
       "added_at": "2021-09-22 14:36:46",
       "album": {
         "name": "Blonde",
@@ -55,6 +39,22 @@
       "duration_ms": 184516,
       "name": "Pink + White",
       "url": "https://open.spotify.com/track/3xKsf9qdS1CyvXSMEid6g8"
+    },
+    {
+      "added_at": "2021-11-16 09:16:19",
+      "album": {
+        "name": "Notion",
+        "url": "https://open.spotify.com/album/4Uf8BVznefnd2xZm2nRFUx"
+      },
+      "artists": [
+        {
+          "name": "The Rare Occasions",
+          "url": "https://open.spotify.com/artist/1QfpRUtH14JLoY6F6AYmwt"
+        }
+      ],
+      "duration_ms": 195120,
+      "name": "Notion",
+      "url": "https://open.spotify.com/track/0sTlGEld0h8kIPZaKDYUf4"
     },
     {
       "added_at": "2021-12-22 13:48:47",
@@ -171,22 +171,6 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
-        "name": "How To Be A Human Being",
-        "url": "https://open.spotify.com/album/6qb9MDR0lfsN9a2pw77uJy"
-      },
-      "artists": [
-        {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
-        }
-      ],
-      "duration_ms": 320654,
-      "name": "The Other Side Of Paradise",
-      "url": "https://open.spotify.com/track/0rRjGruFonCGOt0S5zAJNQ"
-    },
-    {
-      "added_at": "2021-09-22 14:36:46",
-      "album": {
         "name": "Blonde",
         "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 249191,
       "name": "Ivy",
       "url": "https://open.spotify.com/track/2ZWlPOoWh0626oTaHrnl2a"
+    },
+    {
+      "added_at": "2021-09-22 14:36:46",
+      "album": {
+        "name": "How To Be A Human Being",
+        "url": "https://open.spotify.com/album/6qb9MDR0lfsN9a2pw77uJy"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "duration_ms": 320654,
+      "name": "The Other Side Of Paradise",
+      "url": "https://open.spotify.com/track/0rRjGruFonCGOt0S5zAJNQ"
     },
     {
       "added_at": "2021-09-22 14:36:46",
@@ -251,22 +251,6 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
-        "name": "A/B",
-        "url": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
-      },
-      "artists": [
-        {
-          "name": "KALEO",
-          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
-        }
-      ],
-      "duration_ms": 269893,
-      "name": "All the Pretty Girls",
-      "url": "https://open.spotify.com/track/0QQIhT6PtJ5glyn4HKNKQ6"
-    },
-    {
-      "added_at": "2021-09-22 14:36:46",
-      "album": {
         "name": "Blonde",
         "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 307151,
       "name": "Nights",
       "url": "https://open.spotify.com/track/7eqoqGkKwgOaWNNHx90uEZ"
+    },
+    {
+      "added_at": "2021-09-22 14:36:46",
+      "album": {
+        "name": "A/B",
+        "url": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
+      },
+      "artists": [
+        {
+          "name": "KALEO",
+          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+        }
+      ],
+      "duration_ms": 269893,
+      "name": "All the Pretty Girls",
+      "url": "https://open.spotify.com/track/0QQIhT6PtJ5glyn4HKNKQ6"
     },
     {
       "added_at": "2021-09-22 14:36:46",
@@ -335,22 +335,6 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
-        "name": "How To Be A Human Being",
-        "url": "https://open.spotify.com/album/6qb9MDR0lfsN9a2pw77uJy"
-      },
-      "artists": [
-        {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
-        }
-      ],
-      "duration_ms": 230693,
-      "name": "Youth",
-      "url": "https://open.spotify.com/track/1LPGwuFgIzbJoShfDdw7MY"
-    },
-    {
-      "added_at": "2021-09-22 14:36:46",
-      "album": {
         "name": "Heard It In A Past Life",
         "url": "https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 188000,
       "name": "Alaska",
       "url": "https://open.spotify.com/track/4HfLQJtVT1KiX1eVedDyTm"
+    },
+    {
+      "added_at": "2021-09-22 14:36:46",
+      "album": {
+        "name": "How To Be A Human Being",
+        "url": "https://open.spotify.com/album/6qb9MDR0lfsN9a2pw77uJy"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "duration_ms": 230693,
+      "name": "Youth",
+      "url": "https://open.spotify.com/track/1LPGwuFgIzbJoShfDdw7MY"
     },
     {
       "added_at": "2021-09-22 14:36:46",
@@ -479,22 +479,6 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
-        "name": "How To Be A Human Being",
-        "url": "https://open.spotify.com/album/6qb9MDR0lfsN9a2pw77uJy"
-      },
-      "artists": [
-        {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
-        }
-      ],
-      "duration_ms": 281406,
-      "name": "Life Itself",
-      "url": "https://open.spotify.com/track/32zkKx35Et6A515oZKxDkD"
-    },
-    {
-      "added_at": "2021-09-22 14:36:46",
-      "album": {
         "name": "Wild World (Complete Edition)",
         "url": "https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 166791,
       "name": "Charlemagne",
       "url": "https://open.spotify.com/track/7H5WVBQdSnJ1zmu8JoD6pg"
+    },
+    {
+      "added_at": "2021-09-22 14:36:46",
+      "album": {
+        "name": "How To Be A Human Being",
+        "url": "https://open.spotify.com/album/6qb9MDR0lfsN9a2pw77uJy"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "duration_ms": 281406,
+      "name": "Life Itself",
+      "url": "https://open.spotify.com/track/32zkKx35Et6A515oZKxDkD"
     },
     {
       "added_at": "2021-09-22 14:36:46",
@@ -647,22 +647,6 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
-        "name": "Coast Modern",
-        "url": "https://open.spotify.com/album/4jdtl0zpleiD135aYrg9D2"
-      },
-      "artists": [
-        {
-          "name": "Coast Modern",
-          "url": "https://open.spotify.com/artist/4wYk01oPJNfaEssVFL46oQ"
-        }
-      ],
-      "duration_ms": 204066,
-      "name": "Guru",
-      "url": "https://open.spotify.com/track/5M7IGym8CgSVOMNvDAGheL"
-    },
-    {
-      "added_at": "2021-09-22 14:36:46",
-      "album": {
         "name": "How To Be A Human Being",
         "url": "https://open.spotify.com/album/6qb9MDR0lfsN9a2pw77uJy"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 243509,
       "name": "Season 2 Episode 3",
       "url": "https://open.spotify.com/track/4vcoNCrTtunmJ9q8srpVly"
+    },
+    {
+      "added_at": "2021-09-22 14:36:46",
+      "album": {
+        "name": "Coast Modern",
+        "url": "https://open.spotify.com/album/4jdtl0zpleiD135aYrg9D2"
+      },
+      "artists": [
+        {
+          "name": "Coast Modern",
+          "url": "https://open.spotify.com/artist/4wYk01oPJNfaEssVFL46oQ"
+        }
+      ],
+      "duration_ms": 204066,
+      "name": "Guru",
+      "url": "https://open.spotify.com/track/5M7IGym8CgSVOMNvDAGheL"
     },
     {
       "added_at": "2021-09-22 14:36:46",
@@ -843,30 +843,6 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
-        "name": "Everything You've Come To Expect (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6q1ZuWCnYTQb7KhXHZo947"
-      },
-      "artists": [
-        {
-          "name": "The Last Shadow Puppets",
-          "url": "https://open.spotify.com/artist/2Z7UcsdweVlRbAk5wH5fsf"
-        },
-        {
-          "name": "Alex Turner",
-          "url": "https://open.spotify.com/artist/1ctkBmvz80MGyi72Ix055S"
-        },
-        {
-          "name": "Miles Kane",
-          "url": "https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn"
-        }
-      ],
-      "duration_ms": 245727,
-      "name": "Miracle Aligner",
-      "url": "https://open.spotify.com/track/4iwpCp7qdDLngGI3gsVTza"
-    },
-    {
-      "added_at": "2021-09-22 14:36:46",
-      "album": {
         "name": "Harmless Melodies",
         "url": "https://open.spotify.com/album/5CPwacWmIAaA5DLUq7EHUC"
       },
@@ -899,6 +875,30 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
+        "name": "Everything You've Come To Expect (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6q1ZuWCnYTQb7KhXHZo947"
+      },
+      "artists": [
+        {
+          "name": "The Last Shadow Puppets",
+          "url": "https://open.spotify.com/artist/2Z7UcsdweVlRbAk5wH5fsf"
+        },
+        {
+          "name": "Alex Turner",
+          "url": "https://open.spotify.com/artist/1ctkBmvz80MGyi72Ix055S"
+        },
+        {
+          "name": "Miles Kane",
+          "url": "https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn"
+        }
+      ],
+      "duration_ms": 245727,
+      "name": "Miracle Aligner",
+      "url": "https://open.spotify.com/track/4iwpCp7qdDLngGI3gsVTza"
+    },
+    {
+      "added_at": "2021-09-22 14:36:46",
+      "album": {
         "name": "Home of the Strange",
         "url": "https://open.spotify.com/album/3PYk8e7eo2t5CA1Y3AvhaG"
       },
@@ -915,22 +915,6 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
-        "name": "Uno",
-        "url": "https://open.spotify.com/album/10KjUArbSYS7VCcTNbnVxS"
-      },
-      "artists": [
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        }
-      ],
-      "duration_ms": 171789,
-      "name": "Uno",
-      "url": "https://open.spotify.com/track/5WvDO1ZKap15ehQeNRHJ9H"
-    },
-    {
-      "added_at": "2021-09-22 14:36:46",
-      "album": {
         "name": "All My Demons Greeting Me as a Friend (Deluxe)",
         "url": "https://open.spotify.com/album/0ltlJlYNzuXoMMv7fie9D9"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 194760,
       "name": "Running with the Wolves",
       "url": "https://open.spotify.com/track/20qtjUDcb8HH8ouF51BirQ"
+    },
+    {
+      "added_at": "2021-09-22 14:36:46",
+      "album": {
+        "name": "Uno",
+        "url": "https://open.spotify.com/album/10KjUArbSYS7VCcTNbnVxS"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "duration_ms": 171789,
+      "name": "Uno",
+      "url": "https://open.spotify.com/track/5WvDO1ZKap15ehQeNRHJ9H"
     },
     {
       "added_at": "2021-09-22 14:36:46",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
-        "name": "A Moon Shaped Pool",
-        "url": "https://open.spotify.com/album/2ix8vWvvSp2Yo7rKMiWpkg"
-      },
-      "artists": [
-        {
-          "name": "Radiohead",
-          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
-        }
-      ],
-      "duration_ms": 281011,
-      "name": "Decks Dark",
-      "url": "https://open.spotify.com/track/4mRSbPLnOm54ttkTYvxxSY"
-    },
-    {
-      "added_at": "2021-09-22 14:36:46",
-      "album": {
         "name": "A Mineral Love",
         "url": "https://open.spotify.com/album/47riSLCeFOffFRi9BZ2eig"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 152333,
       "name": "Petals",
       "url": "https://open.spotify.com/track/1TVd8FHpeg1Afa92kaO0kR"
+    },
+    {
+      "added_at": "2021-09-22 14:36:46",
+      "album": {
+        "name": "A Moon Shaped Pool",
+        "url": "https://open.spotify.com/album/2ix8vWvvSp2Yo7rKMiWpkg"
+      },
+      "artists": [
+        {
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+        }
+      ],
+      "duration_ms": 281011,
+      "name": "Decks Dark",
+      "url": "https://open.spotify.com/track/4mRSbPLnOm54ttkTYvxxSY"
     },
     {
       "added_at": "2021-09-22 14:36:46",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
-        "name": "A Moon Shaped Pool",
-        "url": "https://open.spotify.com/album/2ix8vWvvSp2Yo7rKMiWpkg"
-      },
-      "artists": [
-        {
-          "name": "Radiohead",
-          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
-        }
-      ],
-      "duration_ms": 220609,
-      "name": "Burn the Witch",
-      "url": "https://open.spotify.com/track/3DpuYpzkvUWXbmzCm6pfzR"
-    },
-    {
-      "added_at": "2021-09-22 14:36:46",
-      "album": {
         "name": "Die Trying",
         "url": "https://open.spotify.com/album/3GtcNdfScg8xtLLbJNJbfm"
       },
@@ -1251,18 +1235,18 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
-        "name": "Berhana",
-        "url": "https://open.spotify.com/album/5Tl4ncCoenypfpqZqRbtp3"
+        "name": "Cardinal (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4hsC5IvasDOCrWwM8UQ3N4"
       },
       "artists": [
         {
-          "name": "Berhana",
-          "url": "https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl"
+          "name": "Pinegrove",
+          "url": "https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB"
         }
       ],
-      "duration_ms": 261102,
-      "name": "Grey Luh",
-      "url": "https://open.spotify.com/track/1x1BKrrpq7CfOZPBeUsx16"
+      "duration_ms": 207720,
+      "name": "Old Friends",
+      "url": "https://open.spotify.com/track/4ykQ18swXrkrrbwsZKxQo7"
     },
     {
       "added_at": "2021-09-22 14:36:46",
@@ -1283,18 +1267,34 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
-        "name": "Cardinal (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4hsC5IvasDOCrWwM8UQ3N4"
+        "name": "A Moon Shaped Pool",
+        "url": "https://open.spotify.com/album/2ix8vWvvSp2Yo7rKMiWpkg"
       },
       "artists": [
         {
-          "name": "Pinegrove",
-          "url": "https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB"
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
         }
       ],
-      "duration_ms": 207720,
-      "name": "Old Friends",
-      "url": "https://open.spotify.com/track/4ykQ18swXrkrrbwsZKxQo7"
+      "duration_ms": 220609,
+      "name": "Burn the Witch",
+      "url": "https://open.spotify.com/track/3DpuYpzkvUWXbmzCm6pfzR"
+    },
+    {
+      "added_at": "2021-09-22 14:36:46",
+      "album": {
+        "name": "Berhana",
+        "url": "https://open.spotify.com/album/5Tl4ncCoenypfpqZqRbtp3"
+      },
+      "artists": [
+        {
+          "name": "Berhana",
+          "url": "https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl"
+        }
+      ],
+      "duration_ms": 261102,
+      "name": "Grey Luh",
+      "url": "https://open.spotify.com/track/1x1BKrrpq7CfOZPBeUsx16"
     },
     {
       "added_at": "2021-09-22 14:36:46",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
+        "name": "The Wilds",
+        "url": "https://open.spotify.com/album/6mG8sVZlEsKwNZeSq8sMpA"
+      },
+      "artists": [
+        {
+          "name": "Henry Jamison",
+          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
+        }
+      ],
+      "duration_ms": 233289,
+      "name": "Real Peach",
+      "url": "https://open.spotify.com/track/6p4mASLulKdpNFLxQhs0ff"
+    },
+    {
+      "added_at": "2021-09-22 14:36:46",
+      "album": {
         "name": "saintmotelevision",
         "url": "https://open.spotify.com/album/43URJ507cdoIRy3GJdfxjs"
       },
@@ -1443,22 +1459,6 @@
       "duration_ms": 309013,
       "name": "8 (circle)",
       "url": "https://open.spotify.com/track/16WkFbQRW2BhvMUwuIaIsx"
-    },
-    {
-      "added_at": "2021-09-22 14:36:46",
-      "album": {
-        "name": "The Wilds",
-        "url": "https://open.spotify.com/album/6mG8sVZlEsKwNZeSq8sMpA"
-      },
-      "artists": [
-        {
-          "name": "Henry Jamison",
-          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
-        }
-      ],
-      "duration_ms": 233289,
-      "name": "Real Peach",
-      "url": "https://open.spotify.com/track/6p4mASLulKdpNFLxQhs0ff"
     },
     {
       "added_at": "2021-09-22 14:36:46",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
-        "name": "22, A Million",
-        "url": "https://open.spotify.com/album/4bJCKmpKgti10f3ltz6LLl"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "22 (OVER S\u221e\u221eN)",
-      "url": "https://open.spotify.com/track/3EYj5rxRbNM3nijF9dOtry"
-    },
-    {
-      "added_at": "2021-09-22 14:36:46",
-      "album": {
         "name": "If You Let Me",
         "url": "https://open.spotify.com/album/2WTbzsNwxQ53kvZAdPBozx"
       },
@@ -1563,6 +1547,22 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
+        "name": "22, A Million",
+        "url": "https://open.spotify.com/album/4bJCKmpKgti10f3ltz6LLl"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "22 (OVER S\u221e\u221eN)",
+      "url": "https://open.spotify.com/track/3EYj5rxRbNM3nijF9dOtry"
+    },
+    {
+      "added_at": "2021-09-22 14:36:46",
+      "album": {
         "name": "A Seat at the Table",
         "url": "https://open.spotify.com/album/3Yko2SxDk4hc6fncIBQlcM"
       },
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
-        "name": "Lewis Del Mar",
-        "url": "https://open.spotify.com/album/7BKGTpCWDwTCeHnlLFcfLJ"
-      },
-      "artists": [
-        {
-          "name": "Lewis Del Mar",
-          "url": "https://open.spotify.com/artist/2oqwwcM17wrP9hBD25zKSR"
-        }
-      ],
-      "duration_ms": 243413,
-      "name": "Painting (Masterpiece)",
-      "url": "https://open.spotify.com/track/4kK14radw0XfwxJDPt9tnP"
-    },
-    {
-      "added_at": "2021-09-22 14:36:46",
-      "album": {
         "name": "Schmilco",
         "url": "https://open.spotify.com/album/1Wjheru5k9DMQduRIasAyL"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 175946,
       "name": "If I Ever Was a Child",
       "url": "https://open.spotify.com/track/41Kl6LI2iFiT3I2IvXMsFT"
+    },
+    {
+      "added_at": "2021-09-22 14:36:46",
+      "album": {
+        "name": "Lewis Del Mar",
+        "url": "https://open.spotify.com/album/7BKGTpCWDwTCeHnlLFcfLJ"
+      },
+      "artists": [
+        {
+          "name": "Lewis Del Mar",
+          "url": "https://open.spotify.com/artist/2oqwwcM17wrP9hBD25zKSR"
+        }
+      ],
+      "duration_ms": 243413,
+      "name": "Painting (Masterpiece)",
+      "url": "https://open.spotify.com/track/4kK14radw0XfwxJDPt9tnP"
     },
     {
       "added_at": "2021-09-22 14:36:46",

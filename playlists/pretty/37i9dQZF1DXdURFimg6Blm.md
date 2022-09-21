@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdURFimg6Blm.md) - [plain]
 
 > Dance tracks for a big workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 389,102 likes - 75 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 389,184 likes - 75 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdURFimg6Blm.md) - [plain]
 | 43 | [Lonely Heart](https://open.spotify.com/track/4iGjLLvo4Pax82YX3jE3Q1) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Martin Solveig](https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl), [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ), [Europa](https://open.spotify.com/artist/2NlKrNMdpYxGjt3Pvw87rC) | [Lonely Heart](https://open.spotify.com/album/4vyvkwkkwuCdLhQjWJG01q) | 2:47 |
 | 44 | [Off Of My Mind](https://open.spotify.com/track/1HHnQYqcnlnE9q7LGFFGFj) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0) | [Off Of My Mind](https://open.spotify.com/album/1CAAuVihGJthVufDRUjsQ5) | 2:44 |
 | 45 | [Check Out](https://open.spotify.com/track/2n6qz4opcJlHsEpI8030YM) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj), [Leo Stannard](https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0) | [Check Out](https://open.spotify.com/album/1i9flcfwW08i5ynf4YZHsb) | 2:54 |
-| 46 | [Rather Be Alone](https://open.spotify.com/track/1hUV7Uu4pYQZaaXLjEIIYn) | [Shane Codd](https://open.spotify.com/artist/2s7Oijd4mFGgEkhYJtf3sJ) | [Rather Be Alone](https://open.spotify.com/album/5MFbTHhx95bMJrUfyELiQo) | 2:17 |
-| 47 | [Heavy Metal Love](https://open.spotify.com/track/07VcTAooOBP8hIluuUS5xr) | [twocolors](https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9) | [Heavy Metal Love](https://open.spotify.com/album/2WTW41lq0cDQjdsXhRhyqH) | 2:12 |
+| 46 | [Heavy Metal Love](https://open.spotify.com/track/07VcTAooOBP8hIluuUS5xr) | [twocolors](https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9) | [Heavy Metal Love](https://open.spotify.com/album/2WTW41lq0cDQjdsXhRhyqH) | 2:12 |
+| 47 | [Rather Be Alone](https://open.spotify.com/track/1hUV7Uu4pYQZaaXLjEIIYn) | [Shane Codd](https://open.spotify.com/artist/2s7Oijd4mFGgEkhYJtf3sJ) | [Rather Be Alone](https://open.spotify.com/album/5MFbTHhx95bMJrUfyELiQo) | 2:17 |
 | 48 | [These Nights](https://open.spotify.com/track/1GL7vwDnPqCnJ2xGNxNLwG) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [KIDDO](https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i) | [These Nights](https://open.spotify.com/album/6VsiabIfqnY6VH8qJAJVPd) | 2:12 |
 | 49 | [Always Be There](https://open.spotify.com/track/1PKqiewc0OyZVYxFz5ugbH) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Louisa Johnson](https://open.spotify.com/artist/5IHqlcCbQkyhWl0KmIwgeq) | [Always Be There](https://open.spotify.com/album/5AjjKzTDARZEg5gPPJx597) | 3:18 |
 | 50 | [Rave Harder Techno Bass](https://open.spotify.com/track/1tkS8yt5NwTZkqFvZMxM0F) | [Mark Dekoda](https://open.spotify.com/artist/3FzG2HgsgPRfwpX1qSK1g8) | [Rave Harder Techno Bass](https://open.spotify.com/album/0GbjMnAZAeoHabYDB4IMYe) | 6:00 |
@@ -77,11 +77,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdURFimg6Blm.md) - [plain]
 | 67 | [1x1](https://open.spotify.com/track/1afXT2ntjBUlydAFZ3db66) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [1x1](https://open.spotify.com/album/4Q2e5JRxMvRIrdeNWY7Bp2) | 2:19 |
 | 68 | [Only You](https://open.spotify.com/track/7mXNYEVh9FW72c12qBaO3p) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Sentinel](https://open.spotify.com/artist/2GPNLOJ6KU8G9VyrLsz1Sw) | [Only You](https://open.spotify.com/album/7HYcGsdfiY8AEOgGesSknZ) | 2:25 |
 | 69 | [Rooftop](https://open.spotify.com/track/21LTZZP3cRDzVFKmvDEtZt) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR) | [Rooftop](https://open.spotify.com/album/3NY5MKyBEE0w2ZGQrANjHQ) | 2:45 |
-| 70 | [Can You Pay?](https://open.spotify.com/track/2sjwKudWZUa5Dyf7Fo842f) | [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV), [Pessto](https://open.spotify.com/artist/2DDWrsqTqYfha6N07pwbJe) | [Can You Pay?](https://open.spotify.com/album/29hmGx8YNFYhhMZoTmIHri) | 2:13 |
-| 71 | [Don’t Keep Me Waiting](https://open.spotify.com/track/1aEHWqvtZ1JIBUl1loQBDn) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [Don’t Keep Me Waiting](https://open.spotify.com/album/03fU1mpcpIJ70JaKzwmbbF) | 3:29 |
+| 70 | [Don’t Keep Me Waiting](https://open.spotify.com/track/1aEHWqvtZ1JIBUl1loQBDn) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [Don’t Keep Me Waiting](https://open.spotify.com/album/03fU1mpcpIJ70JaKzwmbbF) | 3:29 |
+| 71 | [Can You Pay?](https://open.spotify.com/track/2sjwKudWZUa5Dyf7Fo842f) | [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV), [Pessto](https://open.spotify.com/artist/2DDWrsqTqYfha6N07pwbJe) | [Can You Pay?](https://open.spotify.com/album/29hmGx8YNFYhhMZoTmIHri) | 2:13 |
 | 72 | [No Fun](https://open.spotify.com/track/08Cz11QoQysCqgDONUVXmL) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY) | [Feel Again, Pt\. 1](https://open.spotify.com/album/25UHk7kHvvkRPvXmpkGaTd) | 2:10 |
 | 73 | [LOW](https://open.spotify.com/track/4Ko0kuCmsJW0HMKkQM7Xw8) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY), [Anabel Englund](https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c) | [LOW](https://open.spotify.com/album/026fudJsLFwB4U0WBYRdXm) | 3:23 |
 | 74 | [I Want You](https://open.spotify.com/track/5ECWJFKkqePRH2SSlv8Ltq) | [La Fuente](https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD) | [I Want You](https://open.spotify.com/album/41pfq7q7EHjKjBIih3d3wn) | 3:39 |
 | 75 | [What It Feels Like](https://open.spotify.com/track/5Yg3kRGlB8UB6Sa8Fq4njc) | [Navos](https://open.spotify.com/artist/6YCM9JwkqdEFQSzztmh4Kb), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [YOU](https://open.spotify.com/artist/266PvBAoJzPdxt3dgkEsBW) | [What It Feels Like](https://open.spotify.com/album/0IMdcAOMTVKZ0VRShzII45) | 2:26 |
 
-Snapshot ID: `MTY2Mjk5NDYyMywwMDAwMDAwMDI5ZDNhYWY0ZmFlYzNlZGNmYTQ1MGVhMDE1NzhhY2Uy`
+Snapshot ID: `MTY2Mjk5NDYyMywwMDAwMDAwMGMwM2VlOTVlNjY4MDc2MTBkMGI0OGMyMDc0ZGE3YTli`

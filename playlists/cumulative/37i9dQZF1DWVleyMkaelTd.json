@@ -444,6 +444,24 @@
     },
     {
       "album": {
+        "name": "Can't Help Falling in Love",
+        "url": "https://open.spotify.com/album/7BPyCsw6Aj8iieaIYi9tNx"
+      },
+      "artists": [
+        {
+          "name": "Leandro Amor Trio",
+          "url": "https://open.spotify.com/artist/4S4flqSBJsefHltJ4wZXEZ"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255251,
+      "name": "Can't Help Falling in Love",
+      "url": "https://open.spotify.com/track/1syEcdkRqqRFnhrHeA1zFb"
+    },
+    {
+      "album": {
         "name": "Introducing",
         "url": "https://open.spotify.com/album/4QvzDLq0wD993COTRQcxi2"
       },
@@ -1031,7 +1049,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 207871,
       "name": "Happy",
       "url": "https://open.spotify.com/track/3VoamGkXelS0NOIVm1BBJg"
@@ -1895,7 +1913,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 282000,
       "name": "The Look Of Love",
       "url": "https://open.spotify.com/track/3CDHydgW0ssTh59f0jy1y3"

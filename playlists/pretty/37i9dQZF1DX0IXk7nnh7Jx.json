@@ -1,12 +1,12 @@
 {
   "description": "Celebrate the spirit of independence! Cover: John Mark McMillan",
-  "num_followers": 42384,
+  "num_followers": 42395,
   "original_name": "Indie Spirit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwODI3MTMzNCwwMDAwMDAwMDFhOGQwNWQ2ZTZmZjgxNjFjZDI2NTkxMTYwZDY4MTNl",
+  "snapshot_id": "MTYwODI3MTMzNCwwMDAwMDAwMDRhMTc4M2Q3MmNhNTNjMDA5NmViNmViMWIwNDNlZjgy",
   "tracks": [
     {
       "added_at": "2020-12-18 06:02:14",
@@ -399,6 +399,22 @@
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
+        "name": "VILLAIN",
+        "url": "https://open.spotify.com/album/1WYu7wMRAWA0G3IwqcwFAL"
+      },
+      "artists": [
+        {
+          "name": "Jared Marc",
+          "url": "https://open.spotify.com/artist/4VGrnFhLNsG1ni78qk7ZWM"
+        }
+      ],
+      "duration_ms": 246760,
+      "name": "Avalanche - Piano Version",
+      "url": "https://open.spotify.com/track/5P9944uZjaKP2TzRdtErdd"
+    },
+    {
+      "added_at": "2020-12-18 06:02:14",
+      "album": {
         "name": "Dawn",
         "url": "https://open.spotify.com/album/4X8FlSjZW7YUTj277XNyFY"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 297546,
       "name": "Dawn",
       "url": "https://open.spotify.com/track/5rKbWEBYZNIR3ep6pBOK0t"
-    },
-    {
-      "added_at": "2020-12-18 06:02:14",
-      "album": {
-        "name": "VILLAIN",
-        "url": "https://open.spotify.com/album/1WYu7wMRAWA0G3IwqcwFAL"
-      },
-      "artists": [
-        {
-          "name": "Jared Marc",
-          "url": "https://open.spotify.com/artist/4VGrnFhLNsG1ni78qk7ZWM"
-        }
-      ],
-      "duration_ms": 246760,
-      "name": "Avalanche - Piano Version",
-      "url": "https://open.spotify.com/track/5P9944uZjaKP2TzRdtErdd"
     },
     {
       "added_at": "2020-12-18 06:02:14",
@@ -687,22 +687,6 @@
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
-        "name": "Everything Is Possible",
-        "url": "https://open.spotify.com/album/0u2ivB7R3oDMcA5zfUfeuX"
-      },
-      "artists": [
-        {
-          "name": "Matthew Zigenis",
-          "url": "https://open.spotify.com/artist/6qW8jmrfF8dslzJDELDxdj"
-        }
-      ],
-      "duration_ms": 269560,
-      "name": "Yes and Amen",
-      "url": "https://open.spotify.com/track/4DgiEJ7Jd1P91E88iswJoX"
-    },
-    {
-      "added_at": "2020-12-18 06:02:14",
-      "album": {
         "name": "Person In Christ",
         "url": "https://open.spotify.com/album/5TZciwCzlDz8wObaigKYBu"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 217675,
       "name": "Worth It All",
       "url": "https://open.spotify.com/track/0LO9dTebf6qQ8apUEF93VI"
+    },
+    {
+      "added_at": "2020-12-18 06:02:14",
+      "album": {
+        "name": "Everything Is Possible",
+        "url": "https://open.spotify.com/album/0u2ivB7R3oDMcA5zfUfeuX"
+      },
+      "artists": [
+        {
+          "name": "Matthew Zigenis",
+          "url": "https://open.spotify.com/artist/6qW8jmrfF8dslzJDELDxdj"
+        }
+      ],
+      "duration_ms": 269560,
+      "name": "Yes and Amen",
+      "url": "https://open.spotify.com/track/4DgiEJ7Jd1P91E88iswJoX"
     },
     {
       "added_at": "2020-12-18 06:02:14",
@@ -863,18 +863,18 @@
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
-        "name": "Good As Gone",
-        "url": "https://open.spotify.com/album/32y5C6o9zbNZYypf951kAZ"
+        "name": "Trust",
+        "url": "https://open.spotify.com/album/61PYfqEJI4JxUhr7uwBkjN"
       },
       "artists": [
         {
-          "name": "Citizens",
-          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
+          "name": "The Bookouts",
+          "url": "https://open.spotify.com/artist/4mJUqOlgsaXtBDn3TjaaTF"
         }
       ],
-      "duration_ms": 239400,
-      "name": "Good As Gone",
-      "url": "https://open.spotify.com/track/5sKTOx9wcRrW84darhOBc5"
+      "duration_ms": 320003,
+      "name": "Trust",
+      "url": "https://open.spotify.com/track/6lv4AXg9dFv4su7MOX73tD"
     },
     {
       "added_at": "2020-12-18 06:02:14",
@@ -895,18 +895,18 @@
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
-        "name": "Trust",
-        "url": "https://open.spotify.com/album/61PYfqEJI4JxUhr7uwBkjN"
+        "name": "Good As Gone",
+        "url": "https://open.spotify.com/album/32y5C6o9zbNZYypf951kAZ"
       },
       "artists": [
         {
-          "name": "The Bookouts",
-          "url": "https://open.spotify.com/artist/4mJUqOlgsaXtBDn3TjaaTF"
+          "name": "Citizens",
+          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
         }
       ],
-      "duration_ms": 320003,
-      "name": "Trust",
-      "url": "https://open.spotify.com/track/6lv4AXg9dFv4su7MOX73tD"
+      "duration_ms": 239400,
+      "name": "Good As Gone",
+      "url": "https://open.spotify.com/track/5sKTOx9wcRrW84darhOBc5"
     },
     {
       "added_at": "2020-12-18 06:02:14",
@@ -995,18 +995,18 @@
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
-        "name": "Wendigo",
-        "url": "https://open.spotify.com/album/1F3g88B97YjpzE2Pc6Rw1q"
+        "name": "A New Heart",
+        "url": "https://open.spotify.com/album/6kZYWMvOAvXoUcpOFgkHSG"
       },
       "artists": [
         {
-          "name": "Penny and Sparrow",
-          "url": "https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur"
+          "name": "Cory Emery",
+          "url": "https://open.spotify.com/artist/7BPnaZXmzlAmylptWQG7so"
         }
       ],
-      "duration_ms": 261191,
-      "name": "Salome & Saint Procula",
-      "url": "https://open.spotify.com/track/3U6uXEUbqUT8OlYrLgccOX"
+      "duration_ms": 197462,
+      "name": "Found",
+      "url": "https://open.spotify.com/track/1P1GB5tbf3wF9e7RyH1Qqu"
     }
   ],
   "unique_name": "Indie Spirit",

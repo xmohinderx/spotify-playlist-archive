@@ -2,7 +2,7 @@
 
 ### [Disney Hits](https://open.spotify.com/playlist/37i9dQZF1DX8C9xQcOrE6T)
 
-> All of your favorite Disney hits, including songs from Moana\. Stream Moana on Disney+.
+> All of your favorite Disney hits, including songs from Encanto\. Stream Encanto on Disney+.
 
 129 songs - 6 hr 25 min - [published](https://open.spotify.com/playlist/636MTeCEICQctVDwXtEgUe)
 

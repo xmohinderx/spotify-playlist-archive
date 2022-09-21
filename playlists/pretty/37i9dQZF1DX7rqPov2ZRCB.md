@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7rqPov2ZRCB.md) - [plain]
 
 > Ponte a guayar con este playlist de Merengue Tipico\. Cover: El Prodigio
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,103 likes - 51 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,142 likes - 51 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7rqPov2ZRCB.md) - [plain]
 | 16 | [El Pobre Infeliz](https://open.spotify.com/track/0lxmQbbQEpIo7nViGV4SkK) | [Urbanda](https://open.spotify.com/artist/0gEbDhqRDCeCdZM9N970ov) | [El Pobre Infeliz](https://open.spotify.com/album/2tnZoQHJZoMsDjYaGUtGRL) | 4:21 |
 | 17 | [Porque Te Fuiste Dulce Amor](https://open.spotify.com/track/2teVg77oXxa7UOSochwdEo) | [Raquel Arias](https://open.spotify.com/artist/49P6VROZM32gIQyX9CvJE8) | [Porque Te Fuiste Dulce Amor](https://open.spotify.com/album/3eYIiRrrWsTWP76NwqrFBd) | 5:57 |
 | 18 | [La Mecedora](https://open.spotify.com/track/4gud2okz9KBcDUjVGw36sD) | [Tatico Henriquez Y Sus Muchachos](https://open.spotify.com/artist/4Pva9KTs5FoQl4TuyZZ3Mm) | [Homenaje A Tatico Henríquez](https://open.spotify.com/album/6wpHAV5jdgysuRBal7lYvu) | 2:54 |
-| 19 | [El Conejo De La Vecina](https://open.spotify.com/track/0quAI5YgttjrisTDw3CH4d) | [Blas Duran](https://open.spotify.com/artist/0N8kOoceUhHFL16Rhe5rvb) | [Bachata Pueblo](https://open.spotify.com/album/0GMRJn4slEK9YSkAIfT9BU) | 5:38 |
+| 19 | [Vamos hablar ingles](https://open.spotify.com/track/0sCPSj1zmc6utsy0czb54e) | [Fefita La Grande](https://open.spotify.com/artist/4IYHkkHuBFwfBrqQ4XJiPA) | [El Prodigio Vs\. Geovanny Polanco: La Batalla del Tipico \- Round 3](https://open.spotify.com/album/716GiAM5y7ZXcfotDUNb13) | 4:31 |
 | 20 | [El Amor De Su Vida](https://open.spotify.com/track/5czvt8OzNCPsfvlmZSaZSy) | [Geovanny Polanco](https://open.spotify.com/artist/0awBNuVACBDglhyp0vRMgY) | [Pero Dime](https://open.spotify.com/album/3QCV2feb5IGyfAOB6x2mBC) | 4:11 |
-| 21 | [Vamos hablar ingles](https://open.spotify.com/track/0sCPSj1zmc6utsy0czb54e) | [Fefita La Grande](https://open.spotify.com/artist/4IYHkkHuBFwfBrqQ4XJiPA) | [El Prodigio Vs\. Geovanny Polanco: La Batalla del Tipico \- Round 3](https://open.spotify.com/album/716GiAM5y7ZXcfotDUNb13) | 4:31 |
+| 21 | [El Conejo De La Vecina](https://open.spotify.com/track/0quAI5YgttjrisTDw3CH4d) | [Blas Duran](https://open.spotify.com/artist/0N8kOoceUhHFL16Rhe5rvb) | [Bachata Pueblo](https://open.spotify.com/album/0GMRJn4slEK9YSkAIfT9BU) | 5:38 |
 | 22 | [El Refrán](https://open.spotify.com/track/5JMVZua23rOH7Wt1rFYeSH) | [El Prodigio](https://open.spotify.com/artist/0mXFUCl68VMz2BhKzq1zCO) | [From Santo Domingo: Live!](https://open.spotify.com/album/7j6mg2CE7wd6i3R5dRkr2Z) | 5:35 |
 | 23 | [La Pava](https://open.spotify.com/track/7dwqCe1TRY8pUG3HIgjzdm) | [Tatico Henriquez](https://open.spotify.com/artist/3Ut6HQlDNxriysExMqRCYm) | [Consagración de Cariño](https://open.spotify.com/album/4eUT2dtQUXBoBF0GxhTxFE) | 2:51 |
 | 24 | [Que Se Vaya](https://open.spotify.com/track/0Xtj6e8Buf5iPqopUp74N3) | [El Prodigio & Su Banda Tipica](https://open.spotify.com/artist/20f0aBVhhWPudN6pWBcfb6) | [Que Se Vaya](https://open.spotify.com/album/1zPVnHTB7zHAcfENR2zDIo) | 3:58 |
@@ -55,9 +55,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7rqPov2ZRCB.md) - [plain]
 | 45 | [Déjame Entrar](https://open.spotify.com/track/2vJJxPOAPHPYBJqEHl64Oi) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [Me Muero De Amor](https://open.spotify.com/album/3KiIKJRkp6FoZMpBqx6CVc) | 6:05 |
 | 46 | [Tipico Caliente](https://open.spotify.com/track/6sJmVh5brIuD3PywP0gVoE) | [Fefita La Grande](https://open.spotify.com/artist/4IYHkkHuBFwfBrqQ4XJiPA) | [La Reina del Soberano](https://open.spotify.com/album/6JG72C5AvYstaw7ZWdz8xv) | 5:05 |
 | 47 | [Navidad Sin Mi Madre](https://open.spotify.com/track/2lZCupBD2NIlB9NFyXSkBf) | [El General Larguito](https://open.spotify.com/artist/0syFtsAFtNjMuF5HKojLvS) | [Los Numero 1](https://open.spotify.com/album/3uMEJcu34DYo8TfZO1sEvI) | 4:22 |
-| 48 | [Las Viejas De Ahora](https://open.spotify.com/track/10Qtbtv3Qf2eB5BmmuVEP9) | [Toribio De La Cruz](https://open.spotify.com/artist/0bCUZmoy78zl0pSuHiiDPe) | [El Contentoso!](https://open.spotify.com/album/3SJ3WJYdRWLt5vrumrxRBC) | 3:57 |
+| 48 | [Ya No Creo en Ti](https://open.spotify.com/track/1ZE5wyZzjE25sEZ6nDXKbl) | [Rikar2nes](https://open.spotify.com/artist/0ZOHKurmSl9Nj3cpp5juyt) | [A Otro Nivel](https://open.spotify.com/album/6xLvSMjRybGGIeAu83sj1h) | 4:39 |
 | 49 | [La Funda](https://open.spotify.com/track/75OFcipYCvVFui2YdNdfGc) | [El Prodigio](https://open.spotify.com/artist/0mXFUCl68VMz2BhKzq1zCO) | [From Santo Domingo: Live!](https://open.spotify.com/album/7j6mg2CE7wd6i3R5dRkr2Z) | 8:14 |
-| 50 | [Ya No Creo en Ti](https://open.spotify.com/track/1ZE5wyZzjE25sEZ6nDXKbl) | [Rikar2nes](https://open.spotify.com/artist/0ZOHKurmSl9Nj3cpp5juyt) | [A Otro Nivel](https://open.spotify.com/album/6xLvSMjRybGGIeAu83sj1h) | 4:39 |
+| 50 | [Las Viejas De Ahora](https://open.spotify.com/track/10Qtbtv3Qf2eB5BmmuVEP9) | [Toribio De La Cruz](https://open.spotify.com/artist/0bCUZmoy78zl0pSuHiiDPe) | [El Contentoso!](https://open.spotify.com/album/3SJ3WJYdRWLt5vrumrxRBC) | 3:57 |
 | 51 | [La Correa](https://open.spotify.com/track/09HW13Gn5zXFQnJlvt95n9) | [Tatico Henriquez](https://open.spotify.com/artist/3Ut6HQlDNxriysExMqRCYm) | [60 Éxitos](https://open.spotify.com/album/49AtvL6fjFXMg8ckR7cFjm) | 2:48 |
 
-Snapshot ID: `MTU2ODA1MTM2NCwwMDAwMDAwMGM3NDkyNDQzODc2YzI3NjQ5MTI0OTBmOTViYWU1ZTM4`
+Snapshot ID: `MTU2ODA1MTM2NCwwMDAwMDAwMGNiOTk1YzI0Y2JjYjg2NTkzYzFmMDJhNDYyMzUwZmVk`

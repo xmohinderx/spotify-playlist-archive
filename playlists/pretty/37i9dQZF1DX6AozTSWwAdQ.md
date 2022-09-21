@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AozTSWwAdQ.md) - [plain]
 
 > 沒有什麼比感覺好更重要了！這裡的歌曲能大大振奮心情、令你元氣十足！
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,292 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,300 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,14 +38,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AozTSWwAdQ.md) - [plain]
 | 28 | [Irrelevant](https://open.spotify.com/track/5Oz15cyQP3TMDDXKWm4tYH) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Irrelevant](https://open.spotify.com/album/02wEEiMLBV64tAhyPCtD4J) | 3:52 |
 | 29 | [All 4 Nothing \(I'm So In Love\)](https://open.spotify.com/track/21AziTMaZwcLflGMAj85o5) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [All 4 Nothing \(I'm So In Love\)](https://open.spotify.com/album/0krbjj0iriZnWpy1Vi8tUd) | 3:03 |
 | 30 | [bloody valentine](https://open.spotify.com/track/6mADjHs6FXdroPzEGW6KVJ) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [Tickets To My Downfall](https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK) | 3:25 |
-| 31 | [BLENDER](https://open.spotify.com/track/5VXDmiV2pC2KY2N60oKz4B) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [BLENDER](https://open.spotify.com/album/5RWbbE6qM3kNDSNyXuNNXS) | 2:27 |
-| 32 | [So Am I](https://open.spotify.com/track/2Xnv3GntqbBH1juvUYSpHG) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Heaven & Hell](https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM) | 3:03 |
-| 33 | [It's Not Living \(If It's Not With You\)](https://open.spotify.com/track/3TgMcrV32NUKjEG2ujn9eh) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [A Brief Inquiry Into Online Relationships](https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY) | 4:08 |
-| 34 | [Give Me A Kiss](https://open.spotify.com/track/0ocf3HwWhrXtA8r63Vcd2h) | [Crash Adams](https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5) | [Give Me A Kiss](https://open.spotify.com/album/4Cxkou3pFWfzoLsw9Aonfw) | 2:49 |
-| 35 | [Love Of Mine \- Night Visions Demo](https://open.spotify.com/track/4C20SN2nzLbsZbS6A4idoA) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Love Of Mine \(Night Visions Demo\)](https://open.spotify.com/album/3BAUn8SPQORLl49pDhR30l) | 4:09 |
+| 31 | [Give Me A Kiss](https://open.spotify.com/track/0ocf3HwWhrXtA8r63Vcd2h) | [Crash Adams](https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5) | [Give Me A Kiss](https://open.spotify.com/album/4Cxkou3pFWfzoLsw9Aonfw) | 2:49 |
+| 32 | [BLENDER](https://open.spotify.com/track/5VXDmiV2pC2KY2N60oKz4B) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [BLENDER](https://open.spotify.com/album/5RWbbE6qM3kNDSNyXuNNXS) | 2:27 |
+| 33 | [So Am I](https://open.spotify.com/track/2Xnv3GntqbBH1juvUYSpHG) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Heaven & Hell](https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM) | 3:03 |
+| 34 | [It's Not Living \(If It's Not With You\)](https://open.spotify.com/track/3TgMcrV32NUKjEG2ujn9eh) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [A Brief Inquiry Into Online Relationships](https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY) | 4:08 |
+| 35 | [I'm Just a Kid](https://open.spotify.com/track/6otiaV2fagE3s8IvP6WkwG) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [No Pads, No Helmets...Just Balls \(15th Anniversary Tour Edition\)](https://open.spotify.com/album/3W6TEVlmaP22E4KvWY9HrS) | 3:18 |
 | 36 | [emo girl \(feat\. WILLOW\)](https://open.spotify.com/track/3tBZ60j1jQ7NJm8IjelyQe) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [mainstream sellout](https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc) | 2:39 |
-| 37 | [Something to Someone](https://open.spotify.com/track/2eWOo3ooHrVezj2pmapV8X) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Something to Someone](https://open.spotify.com/album/5XVJCXSorhPUlf8rTl4iOI) | 3:18 |
-| 38 | [I'm Just a Kid](https://open.spotify.com/track/6otiaV2fagE3s8IvP6WkwG) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [No Pads, No Helmets...Just Balls \(15th Anniversary Tour Edition\)](https://open.spotify.com/album/3W6TEVlmaP22E4KvWY9HrS) | 3:18 |
+| 37 | [Love Of Mine \- Night Visions Demo](https://open.spotify.com/track/4C20SN2nzLbsZbS6A4idoA) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Love Of Mine \(Night Visions Demo\)](https://open.spotify.com/album/3BAUn8SPQORLl49pDhR30l) | 4:09 |
+| 38 | [Something to Someone](https://open.spotify.com/track/2eWOo3ooHrVezj2pmapV8X) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Something to Someone](https://open.spotify.com/album/5XVJCXSorhPUlf8rTl4iOI) | 3:18 |
 | 39 | [Look What God Gave Her](https://open.spotify.com/track/2KqJC0koTBUyDlsMt5ok1V) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Center Point Road](https://open.spotify.com/album/5gnWhEFNbtCn0RLG2cp90g) | 2:48 |
 | 40 | [MAMMAMIA](https://open.spotify.com/track/78SCmQ8A7KQSMdkem2SwBP) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [MAMMAMIA](https://open.spotify.com/album/7lVXNBav3Z8oA4jGk62Gme) | 3:06 |
 | 41 | [Let's Love](https://open.spotify.com/track/6lhZLbb0czULpjb2kFryPS) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Let's Love](https://open.spotify.com/album/4t9C75dy0UtR4JE7vNYQRr) | 3:20 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AozTSWwAdQ.md) - [plain]
 | 46 | [Little Bit of Love](https://open.spotify.com/track/2sX7lJXsOYGP1Us6CqM9t1) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Little Bit of Love](https://open.spotify.com/album/0NZUGfUMwjt3bPlVHxnIN2) | 3:46 |
 | 47 | [Youngblood](https://open.spotify.com/track/55S2PQgSMYAhgoTCcGCDfw) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Youngblood](https://open.spotify.com/album/16Qs4jnIyXe7jprnMNRddy) | 3:23 |
 | 48 | [You & Me](https://open.spotify.com/track/1bQhZOoXYqjXs7u7rFXo0h) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Chapters](https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP) | 3:51 |
-| 49 | [dead inside](https://open.spotify.com/track/2Oo397nWzelAKMQBBIL8YI) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [in loving memory](https://open.spotify.com/album/0ZvU2iSXtYxBeR9QzvHQau) | 3:02 |
-| 50 | [She's So Gone](https://open.spotify.com/track/4DTrKnvkHtwQN6kBu4XXIF) | [Naomi Scott](https://open.spotify.com/artist/2Zi3RrdQqk63Xj0914STkS) | [Lemonade Mouth](https://open.spotify.com/album/6Vsml6sziVKBHxbMEp5wgQ) | 3:06 |
+| 49 | [She's So Gone](https://open.spotify.com/track/4DTrKnvkHtwQN6kBu4XXIF) | [Naomi Scott](https://open.spotify.com/artist/2Zi3RrdQqk63Xj0914STkS) | [Lemonade Mouth](https://open.spotify.com/album/6Vsml6sziVKBHxbMEp5wgQ) | 3:06 |
+| 50 | [dead inside](https://open.spotify.com/track/2Oo397nWzelAKMQBBIL8YI) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [in loving memory](https://open.spotify.com/album/0ZvU2iSXtYxBeR9QzvHQau) | 3:02 |
 
-Snapshot ID: `MTY2MzU1NDI3MCwwMDAwMDAwMDRkMGQ1ZDI3YzU0YjBhNDI1N2NjOGYzNjM2MjVhODZm`
+Snapshot ID: `MTY2MzU1NDI3MCwwMDAwMDAwMDYzYmRhODgzOGQ3M2RiYzZlNGE0OWY4MTNhZDQzMWMw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GT5IIzDqMe.md) - [plain]
 
 > Detroit <a href="spotify:genre:techno">Techno</a> Essentials\. Cover: DJ Minx.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,213 likes - 50 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,256 likes - 50 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,9 +18,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GT5IIzDqMe.md) - [plain]
 | 8 | [Strings of Life](https://open.spotify.com/track/7N3FfUFMud1rjI6Vgw71mm) | [Derrick May](https://open.spotify.com/artist/0v6N0xV7AfHHKVcgUOjC51) | [Innovator \(Mayday\)](https://open.spotify.com/album/2DtFJsPFDFp8b8AebiZmIL) | 6:02 |
 | 9 | [The Bells](https://open.spotify.com/track/0ISxyAhfop0MoMeAUw72RN) | [Jeff Mills](https://open.spotify.com/artist/2eIDAcLKnWc4D350YyzvgS) | [SIGHT SOUND AND SPACE](https://open.spotify.com/album/1FfGSThzZxeULHDWvkZZHb) | 4:45 |
 | 10 | [I Can't Kick This Feeling When It Hits](https://open.spotify.com/track/2PmT3D5xmvVzZCf11L2ifX) | [Moodymann](https://open.spotify.com/artist/6pohviZSNRueSX7uNu63ZX) | [Silentintroduction](https://open.spotify.com/album/1WuyO8qwthV94n8A4crVss) | 8:05 |
-| 11 | [Never Grow Old \- Re\-Plant](https://open.spotify.com/track/4ylwhtHT57G5VbpVMyUIBR) | [Floorplan](https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies) | [Never Grow Old \(Re\-Plant\) / Phobia \(Re\-Plant\)](https://open.spotify.com/album/7nIB2qmP6H7svgk8bIaQC2) | 7:19 |
-| 12 | [Big Fun \(Remastered\)](https://open.spotify.com/track/0iiQCzqzytQsVmlkGjTGB1) | [Inner City](https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp) | [Big Fun \(Remastered\)](https://open.spotify.com/album/63Tyk1UCFndIYpHtZUKRWr) | 3:18 |
-| 13 | [A Wonderful Life \- Version](https://open.spotify.com/track/65POCexjbdPA7mbSKxL0vd) | [Carl Craig](https://open.spotify.com/artist/17dbJyUCrxh4I7iyUrjaHU) | [The Album Formerly Known As ...](https://open.spotify.com/album/6AwKcT6k1YlIDkEBA3KDKM) | 6:55 |
+| 11 | [A Wonderful Life \- Version](https://open.spotify.com/track/65POCexjbdPA7mbSKxL0vd) | [Carl Craig](https://open.spotify.com/artist/17dbJyUCrxh4I7iyUrjaHU) | [The Album Formerly Known As ...](https://open.spotify.com/album/6AwKcT6k1YlIDkEBA3KDKM) | 6:55 |
+| 12 | [Never Grow Old \- Re\-Plant](https://open.spotify.com/track/4ylwhtHT57G5VbpVMyUIBR) | [Floorplan](https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies) | [Never Grow Old \(Re\-Plant\) / Phobia \(Re\-Plant\)](https://open.spotify.com/album/7nIB2qmP6H7svgk8bIaQC2) | 7:19 |
+| 13 | [Big Fun \(Remastered\)](https://open.spotify.com/track/0iiQCzqzytQsVmlkGjTGB1) | [Inner City](https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp) | [Big Fun \(Remastered\)](https://open.spotify.com/album/63Tyk1UCFndIYpHtZUKRWr) | 3:18 |
 | 14 | [Andreaen Sand Dunes](https://open.spotify.com/track/5vcCF1Q328JhaZj4MS6XqO) | [Drexciya](https://open.spotify.com/artist/3KcV1kKG7Y0Gq7xPAGVjkZ) | [Neptune's Lair](https://open.spotify.com/album/7bBx5uPv2YgRIAFyXBWhEV) | 6:16 |
 | 15 | [Spastik](https://open.spotify.com/track/553HOkDZQktOEBKvxTBPS1) | [Plastikman](https://open.spotify.com/artist/7GoFQNOTX0suC6Tn59qx8n), [Richie Hawtin](https://open.spotify.com/artist/3AhwIUus3pIaA3CvYBEtpy) | [Recycled Plastik](https://open.spotify.com/album/4AFkZfFvIGYxNc28b2FKpy) | 9:15 |
 | 16 | [Jupiter Jazz](https://open.spotify.com/track/2T6rMXWYc934IWMudx1H1X) | [Galaxy 2 Galaxy](https://open.spotify.com/artist/2JW9UTb6ViFLYf7VQxBJqD) | [Galaxy 2 Galaxy: A High Tech Jazz Compilation](https://open.spotify.com/album/5f4gnlLgeEAj7RRoo4gIYV) | 4:30 |
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GT5IIzDqMe.md) - [plain]
 | 18 | [Do It All Night \- Honey Dijon Remix \[Radio Edit\]](https://open.spotify.com/track/2H39iFssrfIvFm66Bm43AR) | [DJ Minx](https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B), [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS) | [Do It All Night \(Honey Dijon Remix \[Radio Edit\]\)](https://open.spotify.com/album/6Opkh7SR0vMoTDEfalZxc8) | 4:12 |
 | 19 | [Dancer](https://open.spotify.com/track/47L7EinVbbEBraJE0MMnW9) | [Robert Hood](https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8) | [The Greatest Dancer](https://open.spotify.com/album/2TVb3PnbULiYIxHr4Oje9P) | 7:02 |
 | 20 | [Desire](https://open.spotify.com/track/2j7Lf6WAu02OpLcb5LPN4U) | [69](https://open.spotify.com/artist/7L7l7toWdGA3T1wmFr83sg) | [The Legendary Adventures Of A Filter King](https://open.spotify.com/album/6DoSCkujawZm3BjfqlJrjO) | 6:27 |
-| 21 | [Pennies From Heaven \(Remastered\)](https://open.spotify.com/track/4EfIHd5ymQthDOEpZifCZ9) | [Inner City](https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp) | [Pennies From Heaven \(Remastered\)](https://open.spotify.com/album/0OU1d6ClYVzKrvtNzZANKB) | 3:18 |
-| 22 | [Tedra](https://open.spotify.com/track/6Au8dwqW17E3rykzOtXzqn) | [Kenny Larkin](https://open.spotify.com/artist/7A4qanEMCOPcywaqZ01yVV) | [Azimuth](https://open.spotify.com/album/3KsHkbdeGg3rnuYVRxWv53) | 5:41 |
+| 21 | [Tedra](https://open.spotify.com/track/6Au8dwqW17E3rykzOtXzqn) | [Kenny Larkin](https://open.spotify.com/artist/7A4qanEMCOPcywaqZ01yVV) | [Azimuth](https://open.spotify.com/album/3KsHkbdeGg3rnuYVRxWv53) | 5:41 |
+| 22 | [Pennies From Heaven \(Remastered\)](https://open.spotify.com/track/4EfIHd5ymQthDOEpZifCZ9) | [Inner City](https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp) | [Pennies From Heaven \(Remastered\)](https://open.spotify.com/album/0OU1d6ClYVzKrvtNzZANKB) | 3:18 |
 | 23 | [Lightyears](https://open.spotify.com/track/4SFEzGRviQqJpZHtQjDAA5) | [Juan Atkins](https://open.spotify.com/artist/208EQzx7RmoE2Ng9gF2edh), [Moritz Von Oswald](https://open.spotify.com/artist/33GGoMV3iYpV5tlsh32N7q) | [Juan Atkins & Moritz von Oswald Present Borderland: Transport](https://open.spotify.com/album/7kTo32LJe7JOUiYnsATgLT) | 6:07 |
 | 24 | [A Walk in the Park](https://open.spotify.com/track/3n8TM8osvrpkm7IddlaO4Q) | [DJ Minx](https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B) | [A Walk in the Park](https://open.spotify.com/album/3N0p2BtGWPMdz86ZiTc6ZI) | 5:25 |
 | 25 | [Right There](https://open.spotify.com/track/5YKYzjEbhcMxzhFgU2CLbf) | [Floorplan](https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies) | [Right There / Holy Ghost](https://open.spotify.com/album/1v1mqL9KE1f5ZzAww9x2MX) | 2:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GT5IIzDqMe.md) - [plain]
 | 49 | [Feel It](https://open.spotify.com/track/7AjK0QATXS2Ee857NmZABa) | [Stacey Pullen](https://open.spotify.com/artist/0GJpYdmVCgg90TkyB1nB1y) | [Feel It / Circus Act](https://open.spotify.com/album/4UapkYniEMCTYnA9SzZgh0) | 7:38 |
 | 50 | [The Color of Love \- Reese Deep Mix](https://open.spotify.com/track/1Qg29ZSo2roSr6ghY08jhn) | [The Reese Project](https://open.spotify.com/artist/0BshoWL6YCwwdSTLXETd6d) | [Faith, Hope & Clarity](https://open.spotify.com/album/1kPIn4PuSmvGDsXDCxVDB7) | 5:46 |
 
-Snapshot ID: `MTY1ODQ4MDI2OCwwMDAwMDAwMGIwMDMwNjhjYTVjMmMwOTI1ZDA2ZjYyNWVjOGFmOTNj`
+Snapshot ID: `MTY1ODQ4MDI2OCwwMDAwMDAwMDA5YmVkMGZkN2NhYzIzM2U0OGMzMGVlN2Q2NmRhOTU2`

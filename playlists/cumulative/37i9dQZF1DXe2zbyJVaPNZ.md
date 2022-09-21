@@ -4,7 +4,7 @@
 
 > Ambient waves for ethereal days
 
-93 songs - 6 hr 59 min - [published](https://open.spotify.com/playlist/7wXXw42CJoQ0vEBzeJubty)
+94 songs - 7 hr 4 min - [published](https://open.spotify.com/playlist/7wXXw42CJoQ0vEBzeJubty)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Breezy Blossoms](https://open.spotify.com/track/4Q3dtldbIdhLpVh7qZKb7f) | [Antero Lehto](https://open.spotify.com/artist/7gBBSNhDsDRvI4XfsVNpC8) | [Breezy Blossoms](https://open.spotify.com/album/35hc57m3qemrRYgnYu4E1b) | 2:46 | 2022-09-08 |  |
 | [but it's okay](https://open.spotify.com/track/6LFmSFCDS0cqoOzSxRSdUa) | [Glass Rivers](https://open.spotify.com/artist/5qQvSeMMwzvjZlw1pqmAC6) | [Warmth](https://open.spotify.com/album/50CnzyFIF0oNPS3ceEW4Hg) | 3:07 | 2022-08-05 |  |
 | [Clear Path](https://open.spotify.com/track/2tCmr9BYhSjQilIomSM8EI) | [William Francisco](https://open.spotify.com/artist/2jQwLGGaI5zOgqc5SiMp7V) | [Clear Path](https://open.spotify.com/album/10tajn5McEnxj6z3B5KOqN) | 3:02 | 2022-09-08 |  |
+| [Coming Up for Air](https://open.spotify.com/track/0X7iktHTTvyMfGaufN7qRI) | [Sinerider](https://open.spotify.com/artist/078yWg2B5y9LrSGUiyKRQi) | [Moon Phase](https://open.spotify.com/album/0YN30MfuqGiAnzGS3Jum0D) | 4:53 | 2022-09-20 |  |
 | [constellations](https://open.spotify.com/track/1cFfCnmXgU4KgdKxEvAG51) | [das ambient works](https://open.spotify.com/artist/2jbDGx0DKI8uOenFU22tYK) | [constellations](https://open.spotify.com/album/25T4CZAQQPQ1HjmgdnpktK) | 4:36 | 2022-08-05 |  |
 | [Cosmic Dust](https://open.spotify.com/track/0yuKkb9X0PxKU5WWhpPD2i) | [Muffler](https://open.spotify.com/artist/4HSQ4ALTUXgWlSrhfc4LNA) | [Starburst](https://open.spotify.com/album/0lBv6vqeXWUSt8WKyIhv8j) | 3:51 | 2022-08-05 |  |
 | [Delsjön](https://open.spotify.com/track/0XSItwVvlVdO0hynKzwsSi) | [Carbon Based Lifeforms](https://open.spotify.com/artist/38DX4hQVvPBs3PThDIAK11) | [Stochastic](https://open.spotify.com/album/4eWFIeWwhu48jhtbVnAlKu) | 6:33 | 2022-08-05 |  |

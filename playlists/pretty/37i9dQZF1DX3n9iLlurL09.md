@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3n9iLlurL09.md) - [plain]
 
 > 2012 highlights from the home of indie music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,681 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,733 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3n9iLlurL09.md) - [plain]
 | 49 | [How Did I Get Here](https://open.spotify.com/track/4aJnMRNeuDZSQN7FaSNGtM) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw) | [Summer's Gone](https://open.spotify.com/album/0ebTxbNe07spVPn7uxKOb1) | 2:11 |
 | 50 | [Closer](https://open.spotify.com/track/4dTVgHZFPlaq9nPbLVVLSG) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Heartthrob](https://open.spotify.com/album/5IUJ6v408Z7pECC3BXUJxX) | 3:29 |
 | 51 | [Trojans](https://open.spotify.com/track/0wDEiGfq4pw7FAkYKpkwMo) | [Atlas Genius](https://open.spotify.com/artist/42vg2T0Xg9yPaAgogJzoQH) | [When It Was Now](https://open.spotify.com/album/3yhETmhJwSVSLGDyTJgnqo) | 3:37 |
-| 52 | [Carried Away](https://open.spotify.com/track/52a6VcF23v5HB7KfDEmBHq) | [Passion Pit](https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh) | [Gossamer](https://open.spotify.com/album/14JU5SskmcyckE5I8PY6lv) | 3:41 |
-| 53 | [Fitzpleasure](https://open.spotify.com/track/7DdXf9x75iEVCHWfoRwRuR) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [An Awesome Wave](https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL) | 3:39 |
+| 52 | [Fitzpleasure](https://open.spotify.com/track/7DdXf9x75iEVCHWfoRwRuR) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [An Awesome Wave](https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL) | 3:39 |
+| 53 | [Carried Away](https://open.spotify.com/track/52a6VcF23v5HB7KfDEmBHq) | [Passion Pit](https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh) | [Gossamer](https://open.spotify.com/album/14JU5SskmcyckE5I8PY6lv) | 3:41 |
 | 54 | [Disparate Youth](https://open.spotify.com/track/0t2QiRkpag0fAgs9zuCPlH) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [Master of My Make\-Believe](https://open.spotify.com/album/58ZjpgafuBeQ0JVxIt0hdr) | 4:44 |
 | 55 | [Apocalypse Dreams](https://open.spotify.com/track/7qU7vhCPKhkDiJYGoboISc) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism](https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7) | 5:56 |
 | 56 | [Born To Die](https://open.spotify.com/track/5wEreUfwxZxWnEol61ulIi) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Born To Die – Paradise Edition \(Special Version\)](https://open.spotify.com/album/0Dt3FbpMQwjoT5KNAw0IXR) | 4:46 |
@@ -99,14 +99,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3n9iLlurL09.md) - [plain]
 | 89 | [Every Single Night](https://open.spotify.com/track/6HPZo9krwjbhMGKbqVkkDQ) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [The Idler Wheel Is Wiser Than the Driver of the Screw and Whipping Cords Will Serve You More Than Ropes Will Ever Do \(Expanded Edition\)](https://open.spotify.com/album/6B5favhKTShFTjRLsKIUfa) | 3:29 |
 | 90 | [Forest Whitaker](https://open.spotify.com/track/5S67wnJOMjuySVEu4ssCof) | [Bad Books](https://open.spotify.com/artist/0e9H8oaYYRCKFXOVv848nt), [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f), [Kevin Devine](https://open.spotify.com/artist/66ScZxprvrMbCtN4ivA0JX) | [II](https://open.spotify.com/album/1RHlOUoinOK5WZconLM6lp) | 3:43 |
 | 91 | [Breathing Underwater](https://open.spotify.com/track/1KZjU7csKHOLRiRPBWZIJS) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Synthetica \(Deluxe Edition\)](https://open.spotify.com/album/2xbkLrXys1oVlp5fgTgwSJ) | 3:56 |
-| 92 | [Chained](https://open.spotify.com/track/1E5HgxGmPFETzZp6g929hu) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [Coexist](https://open.spotify.com/album/4SXTQ305LjMh2DBHA3CXIW) | 2:47 |
-| 93 | [Gimme Twice](https://open.spotify.com/track/3DUBhiM44zetJNERX0n8Nk) | [The Royal Concept](https://open.spotify.com/artist/7LAucJAvbQa7ZIA0qP8YI2) | [Royal](https://open.spotify.com/album/4o7rdd2fYeSEXcTJLzpvsg) | 3:24 |
+| 92 | [Gimme Twice](https://open.spotify.com/track/3DUBhiM44zetJNERX0n8Nk) | [The Royal Concept](https://open.spotify.com/artist/7LAucJAvbQa7ZIA0qP8YI2) | [Royal](https://open.spotify.com/album/4o7rdd2fYeSEXcTJLzpvsg) | 3:24 |
+| 93 | [Chained](https://open.spotify.com/track/1E5HgxGmPFETzZp6g929hu) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [Coexist](https://open.spotify.com/album/4SXTQ305LjMh2DBHA3CXIW) | 2:47 |
 | 94 | [Rearrange](https://open.spotify.com/track/6f4V3llGPLYgv49ro7vXSE) | [Miles Kane](https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn) | [Colour Of The Trap](https://open.spotify.com/album/671vYDTGlzYQfsibwLHxNB) | 3:29 |
 | 95 | [Funtimes in Babylon](https://open.spotify.com/track/5AHYDez7G9xD3CIReL88yU) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Fear Fun](https://open.spotify.com/album/2CXVonfqGwTQu8dgr2qkNS) | 3:39 |
 | 96 | [On Top](https://open.spotify.com/track/1iLH4eIX2JISmOqLQb9hDQ) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [T\-Shirt](https://open.spotify.com/artist/09v1n02OCBEntKxrSTw1L1) | [Flume: Deluxe Edition](https://open.spotify.com/album/1yc3Ldus5BkJBVX9mSFMt4) | 3:51 |
 | 97 | [Paddling Out](https://open.spotify.com/track/2egGsu9X7zdNJxU9Kftq6l) | [Miike Snow](https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J) | [Happy To You](https://open.spotify.com/album/1ypgE8LXmgSdpBWCa5gTOF) | 3:37 |
 | 98 | [obedear](https://open.spotify.com/track/2apc40z2R0wwOwLdrQ79NH) | [Purity Ring](https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4) | [shrines](https://open.spotify.com/album/7nuxFL8lYQTIlpEEPEMpN8) | 3:29 |
-| 99 | [Next Year](https://open.spotify.com/track/0Rr8xlOfXa8bezebu0TbVY) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Beacon](https://open.spotify.com/album/7mxF1FNLd12k1e5MpkMdKg) | 4:11 |
-| 100 | [California](https://open.spotify.com/track/4Y3gLYlV5rD3fhirhWKtei) | [Delta Spirit](https://open.spotify.com/artist/1xVWSPiw5B0OduIC0DSu3V) | [Delta Spirit](https://open.spotify.com/album/7azn6b0REXVeI7x6I8ebQi) | 3:39 |
+| 99 | [California](https://open.spotify.com/track/4Y3gLYlV5rD3fhirhWKtei) | [Delta Spirit](https://open.spotify.com/artist/1xVWSPiw5B0OduIC0DSu3V) | [Delta Spirit](https://open.spotify.com/album/7azn6b0REXVeI7x6I8ebQi) | 3:39 |
+| 100 | [Next Year](https://open.spotify.com/track/0Rr8xlOfXa8bezebu0TbVY) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Beacon](https://open.spotify.com/album/7mxF1FNLd12k1e5MpkMdKg) | 4:11 |
 
-Snapshot ID: `MTY2Mjk3MDE2NywwMDAwMDAwMDVlYWI1ZTNhNTI3YWRmOWNmYzZmZjU5MjMyNjlkZDNl`
+Snapshot ID: `MTY2Mjk3MDE2NywwMDAwMDAwMGZmODk5M2VkMjY3MDJmZTZhMDdkOThiNjA0NjcxNzA5`

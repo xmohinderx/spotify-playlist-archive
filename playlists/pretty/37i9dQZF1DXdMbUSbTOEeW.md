@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMbUSbTOEeW.md) - [plain]
 
 > Trending dance hits in India\. Cover: Lil Pump & Yo Yo Honey Singh
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,889 likes - 47 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,906 likes - 47 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Mil Jaa Na](https://open.spotify.com/track/4OcqMM7ptbMq4duRiVm9Cg) | [Blu Attic](https://open.spotify.com/artist/4yIQ0g5IyRNgJBsWsgkjIe), [Chayan Bhardwaj](https://open.spotify.com/artist/127oaNBXE2sa0RaTaC9sJ8) | [Resurface](https://open.spotify.com/album/0duF0mQpA1prb73d0BTUm5) | 3:38 |
 | 2 | [Casanova \(feat\. Simar Kaur\)](https://open.spotify.com/track/4dnD517ZzwS68r2JlUybIe) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Lil Pump](https://open.spotify.com/artist/3wyVrVrFCkukjdVIdirGVY), [DJ Shadow Dubai](https://open.spotify.com/artist/3qnsN7WTgndwqTiBHelp6S), [Simar Kaur](https://open.spotify.com/artist/5yI5MjFLwQwfP24OxchqN1) | [Casanova \(feat\. Simar Kaur\)](https://open.spotify.com/album/6WMxMrIallcyiPjLQdMKwt) | 3:34 |
 | 3 | [Jhanak Jhanak](https://open.spotify.com/track/3IvL7aRZDOsL4kcZ7qq9GV) | [Blu Attic](https://open.spotify.com/artist/4yIQ0g5IyRNgJBsWsgkjIe), [Gatha](https://open.spotify.com/artist/010FK25JoVsN1fr5iudnjv) | [Resurface](https://open.spotify.com/album/0duF0mQpA1prb73d0BTUm5) | 4:23 |
-| 4 | [Ek Meri Akh Kashni Trap Mix](https://open.spotify.com/track/3NGH0wmZ0pT3Z1LCPOWWtt) | [Surinder Kaur](https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC), [Dixit](https://open.spotify.com/artist/3KMLfRawLHil8ZtlF5wnAt) | [Punjabi Retro Trap Mix](https://open.spotify.com/album/6qeYUrQzY8NZJlAFBKaa1v) | 1:45 |
+| 4 | [Ek Meri Akh Kashni Trap Mix](https://open.spotify.com/track/3NGH0wmZ0pT3Z1LCPOWWtt) | [Surinder Kaur](https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC), [Dixit](https://open.spotify.com/artist/4NrIN5zzc1DXEGbvsPlpOM) | [Punjabi Retro Trap Mix](https://open.spotify.com/album/6qeYUrQzY8NZJlAFBKaa1v) | 1:45 |
 | 5 | [Summer High](https://open.spotify.com/track/1aL9518P5G72N92b48tuKw) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB) | [Summer High](https://open.spotify.com/album/7sni37uwHitUkllYmcRO8W) | 2:57 |
 | 6 | [Balenciaga](https://open.spotify.com/track/7AkaTXiCoyXfUGF1Mzk0Ep) | [T3NZU](https://open.spotify.com/artist/5bgu60VOkifx3xadonzsgi) | [Balenciaga](https://open.spotify.com/album/4ysDej04vod1SPIq4o4m3n) | 2:48 |
 | 7 | [Bhool Bhulaiyaa 2 Title Track \(From "Bhool Bhulaiyaa 2"\)](https://open.spotify.com/track/2cbaCL38j8eUXBQjvLawET) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Neeraj Shridhar](https://open.spotify.com/artist/3tHD07u1ON4uHxmnT9rwqZ) | [Bhool Bhulaiyaa 2 Title Track \(From "Bhool Bhulaiyaa 2"\)](https://open.spotify.com/album/1pDOFak83OlJVuXnMRkXHq) | 3:31 |

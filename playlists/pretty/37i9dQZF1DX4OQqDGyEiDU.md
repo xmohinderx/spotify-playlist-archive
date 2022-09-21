@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 
 > 命を持たないVOCALOIDの魅力を特集。
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,753 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,824 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 | 49 | [God sees all](https://open.spotify.com/track/1MES6o0hVfvTcoK0JYDQq6) | [Ethyria](https://open.spotify.com/artist/1FUCVcTXn8jXmPTS3vV9xy) | [God sees all](https://open.spotify.com/album/2UvWMD9DOfJxpJaSwNtqFU) | 3:16 |
 | 50 | [炉心融解](https://open.spotify.com/track/705CVl7WvtnJgVpGIgZ6dQ) | [iroha\(sasaki\)](https://open.spotify.com/artist/0ucp2eJpluVvW5qn53vIuc) | [炉心融解](https://open.spotify.com/album/57aSkuZLXXOAyUbhclh3p3) | 5:29 |
 
-Snapshot ID: `MTY2MzA4MTIwMCwwMDAwMDAwMDNhOWEwMWJlYjIyOTQ3NDA4NGNmZGFmNzIzNTgxOWUy`
+Snapshot ID: `MTY2MzY5NTQ4NSwwMDAwMDAwMGVmYzY5MGUwZDc1MWY5ZjdkZGQ2MmUxNWVhYWFmYmU1`

@@ -4,7 +4,7 @@
 
 > What's happening in R&B, right now\. Cover: WizKid
 
-315 songs - 17 hr 25 min - [published](https://open.spotify.com/playlist/1MI0QV708eM6TBitmgfhKB)
+316 songs - 17 hr 30 min - [published](https://open.spotify.com/playlist/1MI0QV708eM6TBitmgfhKB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [About U](https://open.spotify.com/track/4bBdFSu4WcfJhWl1EsreVj) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s) | [About U](https://open.spotify.com/album/48lbAUdEwFZFKWY2y4BfvB) | 2:42 | 2022-07-22 | 2022-08-27 |
 | [About You](https://open.spotify.com/track/0P9lyICk63dqZSqXV2HBP0) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [About You](https://open.spotify.com/album/24i8TDxRtaHGSDiWjVyseC) | 2:50 | 2021-12-31 | 2022-03-05 |
 | [ALIEN SUPERSTAR](https://open.spotify.com/track/1Hohk6AufHZOrrhMXZppax) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:35 | 2022-08-26 |  |
-| [All Along \(Kaytranada Remix\)](https://open.spotify.com/track/35WIVWDcONu3B64ZcYbPX6) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [All Along \(Kaytranada Remix\)](https://open.spotify.com/album/3UtKaTe3ZGpNo0cVdffTCi) | 4:44 | 2022-09-16 |  |
+| [All Along \(Kaytranada Remix\)](https://open.spotify.com/track/35WIVWDcONu3B64ZcYbPX6) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [All Along \(Kaytranada Remix\)](https://open.spotify.com/album/3UtKaTe3ZGpNo0cVdffTCi) | 4:44 | 2022-09-16 | 2022-09-21 |
+| [All Along \(Kaytranada Remix\)](https://open.spotify.com/track/3fTwZdX5X3BIsdEJvai7Be) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Play With The Changes \(Remixed\)](https://open.spotify.com/album/3fMIqhERSssKur9QOqa5X1) | 4:44 | 2022-09-16 |  |
 | [All I Need](https://open.spotify.com/track/0ZsWurOpUo8u4fjMygvSAG) | [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz) | [Get Home SAFE \(Part 1\)](https://open.spotify.com/album/1DFMDukfXi9x0okLHjDNd9) | 3:04 | 2022-02-25 | 2022-05-07 |
 | [ALL MINE](https://open.spotify.com/track/3XgGQ1wjo5khvq2UImjyNF) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [WASTELAND](https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg) | 3:36 | 2022-07-08 |  |
 | [All That Matters \- Spotify Singles](https://open.spotify.com/track/3lAVnqeRhV3zmkdDhEunUq) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [Spotify Singles](https://open.spotify.com/album/2jsHeeW2DY8HuwZWmU1dvc) | 3:44 | 2022-08-05 |  |

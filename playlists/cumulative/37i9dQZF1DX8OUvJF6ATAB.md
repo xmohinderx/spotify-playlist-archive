@@ -4,12 +4,13 @@
 
 > Explore the inner worlds floating in the imagination of experimental Ambient music producers.
 
-273 songs - 23 hr 54 min - [published](https://open.spotify.com/playlist/4jkUs66aepxZIx8eyJu8qK)
+274 songs - 23 hr 57 min - [published](https://open.spotify.com/playlist/4jkUs66aepxZIx8eyJu8qK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1969](https://open.spotify.com/track/6AP8cZgUPZbbxlV40H98Xv) | [Ken Verheecke](https://open.spotify.com/artist/2zRXC9OjmjzJYeGJ76irbl) | [Northern Skies](https://open.spotify.com/album/2CQlQUHsZIiLKJkDyXZhj0) | 2:50 | 2022-02-18 | 2022-08-18 |
 | [1st Day](https://open.spotify.com/track/1zbAxqx1OfY6Avcp7s1wJb) | [Debit](https://open.spotify.com/artist/101vLnWdoeyAyQhADB4bqe) | [The Long Count](https://open.spotify.com/album/5E3VtquEh09l4f1jvLbksN) | 2:21 | 2022-03-04 | 2022-09-19 |
+| [5th Night](https://open.spotify.com/track/7vEkNIl8MnRzugwZyQtSQY) | [Debit](https://open.spotify.com/artist/101vLnWdoeyAyQhADB4bqe) | [The Long Count](https://open.spotify.com/album/5E3VtquEh09l4f1jvLbksN) | 3:04 | 2022-09-21 |  |
 | [92982.3](https://open.spotify.com/track/0BWfj3oeIWOQOTzpikVEG1) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [92982](https://open.spotify.com/album/1fsBK1GajNTKmwFqb77u9z) | 7:07 | 2021-10-06 |  |
 | [92982.3](https://open.spotify.com/track/5iTMWX6wdY27SoiEK0mylf) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [92982](https://open.spotify.com/album/48tMas4MWlpELCY8kVILSq) | 7:07 | 2021-10-06 | 2022-07-20 |
 | [A Biochemical Cascade](https://open.spotify.com/track/4L3vsz9MxEZ5kMiT6U8Yrm) | [Yann Novak](https://open.spotify.com/artist/6OWE5QBb8V4viSlZLjJv0w) | [A Biochemical Cascade](https://open.spotify.com/album/6oeSCBHsgFScQbgtQIBcpt) | 8:34 | 2021-10-06 | 2022-07-29 |
@@ -49,7 +50,7 @@
 | [Boreal](https://open.spotify.com/track/4SfLJ0ZO8LTbrgxqNKnzys) | [Aeromancias](https://open.spotify.com/artist/3jiI4qEyqOZAmbB2VBB6tw) | [Auroras](https://open.spotify.com/album/6STaRwLyivZTQosFvfYQnt) | 2:34 | 2021-10-06 | 2022-09-12 |
 | [Building Lights](https://open.spotify.com/track/5oGLsflNC9Y6xlZWyxi3j7) | [HELIOCHRYSUM](https://open.spotify.com/artist/0McohN0KW4zvtvJpATBGRy) | [Forbidden Structures](https://open.spotify.com/album/1kGckxkwJIXtE6IiueKjPd) | 3:30 | 2021-10-06 | 2022-07-23 |
 | [Burned](https://open.spotify.com/track/32bSNM2r6rNrj8abnSaXxP) | [Seefeel](https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f) | [Reduct](https://open.spotify.com/album/3mNZPQiVKNEvKp7mYhRQPd) | 4:28 | 2021-10-06 | 2022-07-28 |
-| [Caisson](https://open.spotify.com/track/7CvIZIUj1wwT2Kdq1Mnyxv) | [Loscil](https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK) | [Caisson](https://open.spotify.com/album/6iRkzAQN5FmXmuoimn26q7) | 7:49 | 2021-10-06 | 2022-07-29 |
+| [Caisson](https://open.spotify.com/track/7CvIZIUj1wwT2Kdq1Mnyxv) | [Loscil](https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK) | [Caisson](https://open.spotify.com/album/6iRkzAQN5FmXmuoimn26q7) | 7:49 | 2021-10-06 |  |
 | [Carrying Gravity](https://open.spotify.com/track/3Ff1Ylp4WGizdPXenhYKhr) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH) | [The Mosaic of Transformation](https://open.spotify.com/album/1vp1UaO7d7JE4poHbHuBVI) | 7:03 | 2021-10-06 | 2022-07-24 |
 | [Chapter House](https://open.spotify.com/track/5ZsNdzF4TSLNMCQep8roGb) | [Marsha Fisher](https://open.spotify.com/artist/2JKG7GQvMvAFno1X8t6NgU) | [New Ruins](https://open.spotify.com/album/78JLakJJeYMwk0L8FpnTwo) | 6:15 | 2021-10-06 | 2022-07-29 |
 | [Charlotte's Mouth](https://open.spotify.com/track/3lDZ7YSrmfemUho7hDzOdA) | [Seefeel](https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f) | [Quique](https://open.spotify.com/album/1DbyTqEOzovAduSqB7Xskh) | 7:27 | 2021-10-06 | 2022-07-05 |
@@ -151,7 +152,7 @@
 | [Monastic](https://open.spotify.com/track/4VZAiJm5BugPrnlsMzqgUu) | [Seefeel](https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f) | [Succour \(Redux\)](https://open.spotify.com/album/3Nrbrk8rTB1tI12OwvQ2PM) | 6:33 | 2021-10-06 |  |
 | [Monos](https://open.spotify.com/track/488C2VMsZc3YwIei1AsRZn) | [Mica Levi](https://open.spotify.com/artist/29LOCR81IrdEJjCAeCEOU3) | [Monos](https://open.spotify.com/album/2Q32nNS58ffrVE9u2pGBpq) | 4:00 | 2021-10-06 | 2022-06-18 |
 | [Mother](https://open.spotify.com/track/1dHMMGQxzMSFPBF1BtAmvX) | [Jacob Haage](https://open.spotify.com/artist/2gBDfxaTBWODAdv66Kgk3p), [Sarah Assbring](https://open.spotify.com/artist/5vbz6O5eYXa0dJ4SZvjka4) | [RIPTIDE](https://open.spotify.com/album/7lAip95eODxxCJOKeeQW1P) | 6:09 | 2021-10-06 | 2022-07-23 |
-| [Mountain <expanded>](https://open.spotify.com/track/6Q9CG7gjL0DyNRYF5j6nIm) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT) | [No Mind <expanded>](https://open.spotify.com/album/6eBYRR9GyKQxTAP8Izsj0Z) | 10:04 | 2022-01-21 |  |
+| [Mountain <expanded>](https://open.spotify.com/track/6Q9CG7gjL0DyNRYF5j6nIm) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT) | [No Mind <expanded>](https://open.spotify.com/album/6eBYRR9GyKQxTAP8Izsj0Z) | 10:04 | 2022-01-21 | 2022-09-21 |
 | [Mourning Shadows We Perish](https://open.spotify.com/track/5AWooNwNN205pZYMrx7jLj) | [zakè](https://open.spotify.com/artist/22becwc1PhY3lSxHM3YThr), [City of Dawn](https://open.spotify.com/artist/16TKNLx6K4oJmIgSX0s4Y2), [Ossa](https://open.spotify.com/artist/6UDMoQbqPXHUXfLRN6aXrc) | [A Pale Shelter](https://open.spotify.com/album/4A4urd6gIK7PGxRC2E6Q1B) | 5:44 | 2022-01-12 | 2022-07-29 |
 | [Mummon Tarina](https://open.spotify.com/track/4j8jtEHJq3A92q8TpwYXcF) | [Auvinen](https://open.spotify.com/artist/4MiDOWLTXzjLVpuWMG2sBz) | [Akkosaari](https://open.spotify.com/album/3xZKjBTuNJpwBy5K6xsGvz) | 3:05 | 2021-10-06 | 2022-07-29 |
 | [Murmur \- Machinefabriek Remix](https://open.spotify.com/track/3sF0muGOQvjsV4ZKLxr7KQ) | [Simon Goff](https://open.spotify.com/artist/6TsjNI2RRk5DaCbKZK2J90), [Machinefabriek](https://open.spotify.com/artist/4Tzunwe7m9sBMSsmEV49Qo) | [Murmur \(Machinefabriek Remix\)](https://open.spotify.com/album/0ZO7czDtPwdpa76DvMdydf) | 4:01 | 2022-01-13 | 2022-07-28 |
@@ -213,7 +214,7 @@
 | [Silia](https://open.spotify.com/track/1weVdmYURX7xLaaV9PqSzl) | [Apparat](https://open.spotify.com/artist/40Ojab0UtVQFjA76qXr8Ot) | [Soundtracks: Capri\-Revolution](https://open.spotify.com/album/1BEMFHKm50nmtjgvDNgQeJ) | 3:03 | 2021-10-06 | 2022-07-28 |
 | [Snowflakes](https://open.spotify.com/track/3PryCUaKSzRhMB0D1xr1Tt) | [Zabala](https://open.spotify.com/artist/1XsGvEIqRwfXb3iZ8Jq5cr) | [Vik](https://open.spotify.com/album/09VRYoZ63rZQujaRMwJO1w) | 2:54 | 2021-10-06 | 2022-07-22 |
 | [Solidarity Theme \(Release\)](https://open.spotify.com/track/1Qf5pKkuNCXCRz4OfHK5Ll) | [James Holden](https://open.spotify.com/artist/15e0X6NuMsVuHi7AZhcfyI) | [A Cambodian Spring OST](https://open.spotify.com/album/3YbEtVUAk5nfY4ZVSpdjJ6) | 3:25 | 2021-10-06 | 2022-07-25 |
-| [Solidarity Theme \(Release\)](https://open.spotify.com/track/1yfM8QbSyuKL8XF9HcejBV) | [James Holden](https://open.spotify.com/artist/15e0X6NuMsVuHi7AZhcfyI) | [A Cambodian Spring OST](https://open.spotify.com/album/2fl8CRGeDa3JCX7RHP9lgD) | 3:25 | 2021-10-06 |  |
+| [Solidarity Theme \(Release\)](https://open.spotify.com/track/1yfM8QbSyuKL8XF9HcejBV) | [James Holden](https://open.spotify.com/artist/15e0X6NuMsVuHi7AZhcfyI) | [A Cambodian Spring OST](https://open.spotify.com/album/2fl8CRGeDa3JCX7RHP9lgD) | 3:25 | 2021-10-06 | 2022-09-21 |
 | [Solidit](https://open.spotify.com/track/1nfZXgLSdbR188vL2P7vrF) | [Chris Carter](https://open.spotify.com/artist/4Fw9V88d2NoplsZBOkBWaS) | [Solidit](https://open.spotify.com/album/4Iu295PX9PaSbEpgcjdTAb) | 3:50 | 2021-10-06 | 2022-07-28 |
 | [Spirit](https://open.spotify.com/track/5ju6xqK60MEA8mxAnGQGFR) | [Tomas Nordmark](https://open.spotify.com/artist/0TBCJYEeBoQspLmeXE6Ixy) | [Spirit](https://open.spotify.com/album/6OefUdFlXkiUdNlh2QYJLG) | 6:22 | 2021-10-06 | 2022-07-29 |
 | [Spopolatore](https://open.spotify.com/track/6m0hPtzLEFhZcZqAIHlqUI) | [Valerio Tricoli](https://open.spotify.com/artist/5pgG0WAfRftFGmj05N0LsD) | [Say Goodbye To The Wind](https://open.spotify.com/album/2S9IkYjEwf2vNfu7B9HEJJ) | 25:44 | 2022-09-03 |  |

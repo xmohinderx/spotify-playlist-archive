@@ -4,7 +4,7 @@
 
 > The latest in gamer music.
 
-745 songs - 1 day 17 hr 31 min - [published](https://open.spotify.com/playlist/2JpGV57sJHq5GKNwF0vuUD)
+748 songs - 1 day 17 hr 37 min - [published](https://open.spotify.com/playlist/2JpGV57sJHq5GKNwF0vuUD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,6 +214,7 @@
 | [Enemy \(with JID\) \- from the series Arcane League of Legends](https://open.spotify.com/track/1r9xUipOqoNwggBpENDsvJ) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Enemy \(with JID\) \[from the series Arcane League of Legends\]](https://open.spotify.com/album/1bTgKomQYSkKYPD9UI9W4b) | 2:53 | 2021-10-28 |  |
 | [Episode I \- Duel of The Fates](https://open.spotify.com/track/4oZwvVtLqXMdZLJnlQDlt1) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc), [London Voices](https://open.spotify.com/artist/7y3ULlnKKpeZ4JOKMAJQzK) | [Star Wars Episode 1: The Phantom Menace: Original Motion Picture Soundtrack](https://open.spotify.com/album/69YzvRcwhpusDLxorifBl1) | 4:14 | 2019-09-29\* | 2021-03-11 |
 | [Erase](https://open.spotify.com/track/3B5iO2B4HxZDXfmIGrQq9z) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Erase](https://open.spotify.com/album/6DDLcNQXmKpWTW195gkI0d) | 2:24 | 2021-05-26 | 2021-12-11 |
+| [ERROR143](https://open.spotify.com/track/1rMfxheMMYyOwGoYhpXXEd) | [kroh](https://open.spotify.com/artist/6IOp54e0ZK9Ccnb8WUIeUa) | [ERROR143](https://open.spotify.com/album/4AJPrZMXhg3LDf10is0Rf3) | 1:20 | 2022-09-20 |  |
 | [ErruDumEllaHvad](https://open.spotify.com/track/5qaaQp6KvkEdB2q7SKQAcJ) | [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [ErruDumEllaHvad](https://open.spotify.com/album/6X1t3OqSHWM8zFEjGKHcyN) | 2:28 | 2021-03-14 | 2021-04-05 |
 | [Eternal](https://open.spotify.com/track/5IPNnqPAvdVEcYanVKihca) | [Athena](https://open.spotify.com/artist/35e9lLLCAkexOFe3m0pK0W), [smle](https://open.spotify.com/artist/1JV42BPeocUJ0EyQh8ug6V) | [Eternal](https://open.spotify.com/album/5LB31xPvUGvNI4EqqjXvtA) | 3:33 | 2022-04-20 | 2022-04-28 |
 | [Everlasting](https://open.spotify.com/track/49wwSGFhdbU0dbVUviNbQ3) | [Polock](https://open.spotify.com/artist/0dRPyk7hiV4FJxSG1VHf2L) | [Rising Up](https://open.spotify.com/album/4hEWfqT9jR72Nsr1dDBRWK) | 3:05 | 2021-03-16 | 2021-03-23 |
@@ -466,6 +467,7 @@
 | [no14 \- feat\. Dani Faiv](https://open.spotify.com/track/7KksdXBhdufqWDxGxyt4I7) | [tha Supreme](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Dani Faiv](https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ) | [23 6451](https://open.spotify.com/album/42wflBbrb9OchJfd3qiGRO) | 2:56 | 2021-03-14 | 2021-09-30 |
 | [Norman](https://open.spotify.com/track/027EHYg4QyKzJsl7XyaUH9) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Fury \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0lEF3CVFjTMpohq2IbMFEm) | 2:50 | 2019-09-29\* | 2021-03-11 |
 | [Notion of Justice](https://open.spotify.com/track/3rYKA9BoNwzo89omWWLG0B) | [Schepetkov](https://open.spotify.com/artist/0MRze6X3tOV76bQXUupBtK), [2WEI](https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc) | [Notion of Justice](https://open.spotify.com/album/3XDKyUCQII6w7JknLLn5yz) | 3:06 | 2022-06-10 | 2022-07-06 |
+| [Novia](https://open.spotify.com/track/1bn6dqeM5Sle3rYsZXPvdx) | [Jake Daniels](https://open.spotify.com/artist/3AYZMgvmzNKc3cGmJUSITh) | [Novia](https://open.spotify.com/album/7LjSaV9Tacv5WOqD6hAx8r) | 2:03 | 2022-09-20 |  |
 | [Number One](https://open.spotify.com/track/1Gbr3gTYWJgrPcPclAtbxC) | [Sally Sossa](https://open.spotify.com/artist/58q28H7IgX06YXkPvUtGgR) | [Madden NFL 22 Soundtrack](https://open.spotify.com/album/42WcUIaTj6ggCHj6bNelpB) | 1:54 | 2021-08-15 | 2021-10-16 |
 | [Odin's Ghost](https://open.spotify.com/track/30fklVHmLiaBRgCg3nr0JC) | [Stephen Walking](https://open.spotify.com/artist/0FvgCHaMG7KL6M83yJuhmL) | [Odin's Ghost](https://open.spotify.com/album/68GcRX2MPHJTBFmghuaAGj) | 3:43 | 2021-03-15 | 2022-02-24 |
 | [Offence](https://open.spotify.com/track/4cakdyTV2GRb9ktqBNMChH) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [GREY Area](https://open.spotify.com/album/4Wwm4xg2748zhYuzDRFTgY) | 2:48 | 2021-05-24 | 2021-05-28 |
@@ -747,6 +749,7 @@
 | [WWW](https://open.spotify.com/track/3HS7X5lZzBe1idgi0AEzID) | [O Fresh](https://open.spotify.com/artist/4CQD7DOvEpUanDVq86HLg0) | [ReFresh: The PreGame](https://open.spotify.com/album/3nolCaTmSRt6jhd7rB20Lt) | 4:56 | 2021-04-13 | 2021-04-13 |
 | [Yeah Yeah Yeah \- Radio Edit](https://open.spotify.com/track/6reg46TnVrrHBEpV4H9yZN) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [Yeah Yeah Yeah](https://open.spotify.com/album/6wNPedWIJRB1Jblr5dofvj) | 3:39 | 2021-05-22 | 2021-12-11 |
 | [Years Of Training \- Part 1 \- Motherland](https://open.spotify.com/track/4GYEtjm0a03LLBRSD6Y7Zx) | [The Flight](https://open.spotify.com/artist/633wBWQrbgm4Tugw7MmsgA) | [Horizon Zero Dawn \(Original Soundtrack\)](https://open.spotify.com/album/5ZAaYcFudS0BtKhWJqeMCH) | 2:22 | 2019-09-29\* | 2021-03-14 |
+| [YES MOM](https://open.spotify.com/track/3imd2WJDPDoIOyqDmw3plc) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [YES MOM](https://open.spotify.com/album/3vE82WGpKX2oHOC8qbCjOS) | 2:42 | 2022-09-20 |  |
 | [Yesterday](https://open.spotify.com/track/0pRyOQjr12h9RBEFmhbTQc) | [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k) | [Yesterday](https://open.spotify.com/album/2VZolgD2RKzb5F4gSNkx1Y) | 2:48 | 2021-09-30 | 2021-10-22 |
 | [Yo x Ti, Tu x Mi](https://open.spotify.com/track/7BlBVFwvbWvcwNcUarQmjk) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Yo x Ti, Tu x Mi](https://open.spotify.com/album/3844bY26oeSkqd06th4EYp) | 3:21 | 2021-05-22 | 2021-05-25 |
 | [You Shaped Hole](https://open.spotify.com/track/6EDUMn3BJw6bI9JjigYZm1) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [You Shaped Hole](https://open.spotify.com/album/7J9wdRxHvteGjRbx5AWDWm) | 2:59 | 2021-10-09 | 2021-10-20 |

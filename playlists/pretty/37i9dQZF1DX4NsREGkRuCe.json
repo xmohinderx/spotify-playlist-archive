@@ -1,12 +1,12 @@
 {
   "description": "Turn traffic stops into jam sessions.",
-  "num_followers": 23969,
+  "num_followers": 24020,
   "original_name": "Traffic Jams Naija ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzU3MjA2MiwwMDAwMDAwMGM0YzI1NDZkOWVmOTdmYzliOTQwZWIzNmZjZGQzZmYz",
+  "snapshot_id": "MTY2MzU3MjA2MiwwMDAwMDAwMGFmNTRhY2UzNjg2YTk2MjhkNzAyMjFhMmQ5OTA5N2Vk",
   "tracks": [
     {
       "added_at": "2022-06-16 23:00:00",
@@ -899,26 +899,6 @@
     {
       "added_at": "2022-06-08 08:18:16",
       "album": {
-        "name": "Sungba (Remix) [feat. Burna Boy]",
-        "url": "https://open.spotify.com/album/4zK5YK5uXEDbGPnvv7DCNE"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Sungba (feat. Burna Boy) - Remix",
-      "url": "https://open.spotify.com/track/5FtWjKVBTMklN2yCP9UhF6"
-    },
-    {
-      "added_at": "2022-06-08 08:18:16",
-      "album": {
         "name": "Made In Lagos: Deluxe Edition",
         "url": "https://open.spotify.com/album/6bCs4XCCkm9cTwlswlu0VD"
       },
@@ -939,22 +919,42 @@
     {
       "added_at": "2022-06-08 08:18:16",
       "album": {
-        "name": "PALAZZO",
-        "url": "https://open.spotify.com/album/2O2xKMqPSpnYYQMk5DPSTf"
+        "name": "Sungba (Remix) [feat. Burna Boy]",
+        "url": "https://open.spotify.com/album/4zK5YK5uXEDbGPnvv7DCNE"
       },
       "artists": [
         {
-          "name": "SPINALL",
-          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
-        },
-        {
           "name": "Asake",
           "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         }
       ],
-      "duration_ms": 186002,
-      "name": "PALAZZO",
-      "url": "https://open.spotify.com/track/2SaRkvUkzNzL39fBB2hLpt"
+      "duration_ms": 210000,
+      "name": "Sungba (feat. Burna Boy) - Remix",
+      "url": "https://open.spotify.com/track/5FtWjKVBTMklN2yCP9UhF6"
+    },
+    {
+      "added_at": "2022-08-18 23:00:00",
+      "album": {
+        "name": "Electricity",
+        "url": "https://open.spotify.com/album/5vOpDVowekdCylaDIiV5We"
+      },
+      "artists": [
+        {
+          "name": "Pheelz",
+          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 132912,
+      "name": "Electricity",
+      "url": "https://open.spotify.com/track/6McBvfxgkVfREmQPwTKBUn"
     },
     {
       "added_at": "2022-06-08 08:18:16",
@@ -977,24 +977,24 @@
       "url": "https://open.spotify.com/track/3ketN3dth18vSJ1T3HIztN"
     },
     {
-      "added_at": "2022-08-18 23:00:00",
+      "added_at": "2022-06-08 08:18:16",
       "album": {
-        "name": "Electricity",
-        "url": "https://open.spotify.com/album/5vOpDVowekdCylaDIiV5We"
+        "name": "PALAZZO",
+        "url": "https://open.spotify.com/album/2O2xKMqPSpnYYQMk5DPSTf"
       },
       "artists": [
         {
-          "name": "Pheelz",
-          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
+          "name": "SPINALL",
+          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
         },
         {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
         }
       ],
-      "duration_ms": 132912,
-      "name": "Electricity",
-      "url": "https://open.spotify.com/track/6McBvfxgkVfREmQPwTKBUn"
+      "duration_ms": 186002,
+      "name": "PALAZZO",
+      "url": "https://open.spotify.com/track/2SaRkvUkzNzL39fBB2hLpt"
     },
     {
       "added_at": "2022-08-05 07:32:43",
@@ -1289,6 +1289,46 @@
       "url": "https://open.spotify.com/track/6g8vNyogMW32lhHlNcDiwX"
     },
     {
+      "added_at": "2022-07-08 06:11:37",
+      "album": {
+        "name": "Comforter (feat. Ayra Starr)",
+        "url": "https://open.spotify.com/album/2NmB4LzQtfkv88hY595YtL"
+      },
+      "artists": [
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Comforter (feat. Ayra Starr)",
+      "url": "https://open.spotify.com/track/2Vr7Qvt5a9f6W9m6ifke4K"
+    },
+    {
+      "added_at": "2022-07-28 23:00:00",
+      "album": {
+        "name": "Black Panther: Wakanda Forever Prologue",
+        "url": "https://open.spotify.com/album/5O6YjrVzzeXStO3YJZuXaM"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        },
+        {
+          "name": "Marvel",
+          "url": "https://open.spotify.com/artist/3JKb5kVdAbFREFnHtwhBKa"
+        }
+      ],
+      "duration_ms": 213860,
+      "name": "No Woman No Cry",
+      "url": "https://open.spotify.com/track/6jo1FMdBzPKofW4iPIdQkR"
+    },
+    {
       "added_at": "2022-06-16 23:00:00",
       "album": {
         "name": "WATAWI (feat. Davido, Focalistic & Abidoza)",
@@ -1315,46 +1355,6 @@
       "duration_ms": 305941,
       "name": "WATAWI (feat. Davido, Focalistic & Abidoza)",
       "url": "https://open.spotify.com/track/3AZY6NZ1R8GI9003EEFPeu"
-    },
-    {
-      "added_at": "2022-07-28 23:00:00",
-      "album": {
-        "name": "Black Panther: Wakanda Forever Prologue",
-        "url": "https://open.spotify.com/album/5O6YjrVzzeXStO3YJZuXaM"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        },
-        {
-          "name": "Marvel",
-          "url": "https://open.spotify.com/artist/3JKb5kVdAbFREFnHtwhBKa"
-        }
-      ],
-      "duration_ms": 213860,
-      "name": "No Woman No Cry",
-      "url": "https://open.spotify.com/track/6jo1FMdBzPKofW4iPIdQkR"
-    },
-    {
-      "added_at": "2022-07-08 06:11:37",
-      "album": {
-        "name": "Comforter (feat. Ayra Starr)",
-        "url": "https://open.spotify.com/album/2NmB4LzQtfkv88hY595YtL"
-      },
-      "artists": [
-        {
-          "name": "ElGrandeToto",
-          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Comforter (feat. Ayra Starr)",
-      "url": "https://open.spotify.com/track/2Vr7Qvt5a9f6W9m6ifke4K"
     },
     {
       "added_at": "2022-07-14 23:00:00",
@@ -1455,6 +1455,22 @@
     {
       "added_at": "2022-06-08 08:18:16",
       "album": {
+        "name": "19 & Dangerous",
+        "url": "https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "Fashion Killer",
+      "url": "https://open.spotify.com/track/3R2Etej4zzbt8LTs3rvJA1"
+    },
+    {
+      "added_at": "2022-06-08 08:18:16",
+      "album": {
         "name": "Always (feat. Black Sherif)",
         "url": "https://open.spotify.com/album/0ZYjSOqqH5cw3rxkIjIeKH"
       },
@@ -1471,22 +1487,6 @@
       "duration_ms": 154957,
       "name": "Always (feat. Black Sherif)",
       "url": "https://open.spotify.com/track/2koM4vqlpUzeRbNkjsDBwF"
-    },
-    {
-      "added_at": "2022-06-08 08:18:16",
-      "album": {
-        "name": "19 & Dangerous",
-        "url": "https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "Fashion Killer",
-      "url": "https://open.spotify.com/track/3R2Etej4zzbt8LTs3rvJA1"
     },
     {
       "added_at": "2022-07-14 23:00:00",

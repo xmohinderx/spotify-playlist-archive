@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccH49bh52dB.md) - [plain]
 
 > The softer side of dance.
 
-[Spotify](https://open.spotify.com/user/spotify) - 359,488 likes - 107 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 359,708 likes - 107 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,9 +57,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccH49bh52dB.md) - [plain]
 | 47 | [Headlights \(feat\. Ilsey\)](https://open.spotify.com/track/0tDC3KJPPu5eonGTtCURpq) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Ilsey](https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j) | [Sugar](https://open.spotify.com/album/5XyJzEROSmup2TcWmVjTIt) | 3:29 |
 | 48 | [Crazy](https://open.spotify.com/track/64fwanXDvwmsQrLsDSVHMv) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Zonderling](https://open.spotify.com/artist/0bMKf3lIYR9GaNTdFKkTOr) | [Crazy](https://open.spotify.com/album/6SysUU95ns1m8xfNrLCWDx) | 2:33 |
 | 49 | [Oceans Away](https://open.spotify.com/track/6A8dnC0xkiuWN4BshmTB2I) | [A R I Z O N A](https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt) | [GALLERY](https://open.spotify.com/album/2FNk380jCQyICbwtkOdEHE) | 3:14 |
-| 50 | [Sad Machine](https://open.spotify.com/track/1JY6B9ILvmRla2IKKRZvnH) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Worlds](https://open.spotify.com/album/7AJPV0L05IyIBid97AvwVD) | 5:50 |
-| 51 | [Working For It](https://open.spotify.com/track/2HJQcyUpmUuvzS5vBAICIc) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [THEY.](https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx) | [GENERATIONWHY](https://open.spotify.com/album/6Xhb46t8f3z8FkuXQAj4UV) | 3:51 |
-| 52 | [Young](https://open.spotify.com/track/1KeZgPUr54C8iz3FjqzVoz) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [Memories...Do Not Open](https://open.spotify.com/album/4JPguzRps3kuWDD5GS6oXr) | 3:44 |
+| 50 | [Young](https://open.spotify.com/track/1KeZgPUr54C8iz3FjqzVoz) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [Memories...Do Not Open](https://open.spotify.com/album/4JPguzRps3kuWDD5GS6oXr) | 3:44 |
+| 51 | [Sad Machine](https://open.spotify.com/track/1JY6B9ILvmRla2IKKRZvnH) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Worlds](https://open.spotify.com/album/7AJPV0L05IyIBid97AvwVD) | 5:50 |
+| 52 | [Working For It](https://open.spotify.com/track/2HJQcyUpmUuvzS5vBAICIc) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [THEY.](https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx) | [GENERATIONWHY](https://open.spotify.com/album/6Xhb46t8f3z8FkuXQAj4UV) | 3:51 |
 | 53 | [Sex](https://open.spotify.com/track/4CGGIk81BvfCZiscwFP6t0) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R) | [Sex](https://open.spotify.com/album/10DpegJFVLDxbKyNUqeCrG) | 3:48 |
 | 54 | [No Place](https://open.spotify.com/track/6rLQZW36LaEUGWl3sWTg7v) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [SOLACE](https://open.spotify.com/album/5Jazpq8mEgSgQs06mdwkQd) | 3:57 |
 | 55 | [Cut Your Teeth \- Kygo Remix](https://open.spotify.com/track/1y4Kln6VEjQMpmHW7j9GeY) | [Kyla La Grange](https://open.spotify.com/artist/6KcmUwBzfwLaYxdfIboqcp), [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4) | [Cut Your Teeth \(Kygo Remix\)](https://open.spotify.com/album/2i4AbvFA9e6XszmH1x4G2h) | 6:39 |
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccH49bh52dB.md) - [plain]
 | 106 | [Carry Me \(feat\. Julia Michaels\)](https://open.spotify.com/track/3FZEv9JddkjHNFiMVxJYpS) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Cloud Nine](https://open.spotify.com/album/0uMIzWh1uEpHEBell4rlF8) | 3:53 |
 | 107 | [ID \- Ultra Music Festival Anthem](https://open.spotify.com/track/4SBqydJCEhcroni09XgT2c) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4) | [ID \(Ultra Music Festival Anthem\)](https://open.spotify.com/album/08lvNATRudyG5K7eEjWk1t) | 4:49 |
 
-Snapshot ID: `MTY0MjUxNzY0NCwwMDAwMDAwMGFmOGJjMGZmZmM4ZWNlNGI2M2RhNWM5YzJjYjFkZGE4`
+Snapshot ID: `MTY0MjUxNzY0NCwwMDAwMDAwMGY3MWRhMmE1NjAzMzE2NjA2NjQ1YWM3Y2EwOWY0YjIw`

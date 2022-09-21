@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVJd52AtCSiR.md) - [plain]
 
 > Discover the classical side of your favourite Disney soundtracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,442 likes - 60 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,768 likes - 60 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVJd52AtCSiR.md) - [plain]
 | 38 | [Main Titles \- Jungle Run](https://open.spotify.com/track/1T9cr9vATD3qqo4xY1Xr0H) | [John Debney](https://open.spotify.com/artist/7mCsyzq823cXJ5puxUN3aJ) | [The Jungle Book \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3aE3jpLLfDpmAb0mhxB5tm) | 2:25 |
 | 39 | [Waiting for the Lights \- From "Tangled"/Score](https://open.spotify.com/track/0OAnOHYJxsMtMTZ6vf14xh) | [Alan Menken](https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ) | [Tangled](https://open.spotify.com/album/1l0aFrH24oPrQSqGtfeFyE) | 2:47 |
 | 40 | [Crossing the Marigold Bridge](https://open.spotify.com/track/5EY7WQEQgsMU9Fm9zD6uR3) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Coco \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7nMexBA71PdwPnfqS5Yji5) | 1:48 |
-| 41 | [Dos Oruguitas \- From "Encanto" \(Feat\. Sebastián Yatra\)](https://open.spotify.com/track/1H1YLuRIe5yOLnF4sPXKUE) | [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Dos Oruguitas \[From "Encanto" \(Feat\. Sebastián Yatra\)\]](https://open.spotify.com/album/461CLQruOGg653N6axfh6K) | 4:48 |
+| 41 | [Dos Oruguitas \- From "Encanto" \(Feat\. Sebastián Yatra\)](https://open.spotify.com/track/1WP1kqcMfydoTyEIzVZlWG) | [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [The Disney Book](https://open.spotify.com/album/6s4Nj1n5yQuyn6ML0Jjk3z) | 4:48 |
 | 42 | [Bibbidi\-Bobbidi\-Boo \(The Magic Song\) \- Instrumental Version](https://open.spotify.com/track/3QAVDFM3uoPvuWTjAuNGuR) | [Mack David](https://open.spotify.com/artist/4tMrFa88Ah85DwbtjQjohF), [Al Hoffman](https://open.spotify.com/artist/2bOYhu5rjw0HUYzJC9Plv7), [Jerry Livingston](https://open.spotify.com/artist/7wRCKMWe6GQPUDr8CauOmf) | [Cinderella \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4MaXQAzgpi1UGNNia9r7fx) | 1:21 |
 | 43 | [Can You Feel the Love Tonight \- From "The Lion King"](https://open.spotify.com/track/208SVXxGgwTCVMz7WUUZna) | [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1), [Matteo Bocelli](https://open.spotify.com/artist/3SzmIPVTtVc0AzbR8kwk0w) | [Can You Feel the Love Tonight \(From "The Lion King"\)](https://open.spotify.com/album/7us3ZQanJYStL0Q58bY2bD) | 4:03 |
 | 44 | [Epilogue \- From "Frozen"/Score](https://open.spotify.com/track/3awivj0Q2xo4YNZeUaFUpB) | [Christophe Beck](https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw) | [Frozen \(Original Score\)](https://open.spotify.com/album/7o2waKdsh4gVGgb0KgQlc0) | 3:06 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVJd52AtCSiR.md) - [plain]
 | 59 | [Finding Dory \(Main Title\)](https://open.spotify.com/track/354K3xQPgALQEOiIYzAMat) | [Thomas Newman](https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK) | [Finding Dory \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1S27vSJrXuHXiBOolInF0j) | 0:55 |
 | 60 | [Ella and Kit](https://open.spotify.com/track/1lMaFGcFzfESerHh28aMLA) | [Patrick Doyle](https://open.spotify.com/artist/1W42coQfIlt6btgqpfJWYQ) | [Cinderella \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4MaXQAzgpi1UGNNia9r7fx) | 2:11 |
 
-Snapshot ID: `MTY2MzM1MDY3NCwwMDAwMDAwMDkxNmE3ODRlNDllYzkwNGQ1MGUyMGVmYjg1MjAzMDUw`
+Snapshot ID: `MTY2MzM1MDY3NCwwMDAwMDAwMDIzYzM5ZjVkNjEzOTcwZjBhM2NhYjE3MGEwN2Y3ODE3`

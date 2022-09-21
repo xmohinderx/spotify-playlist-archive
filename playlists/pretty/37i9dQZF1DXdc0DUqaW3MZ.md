@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 
 > Soul, R'n'B all with a tinge of electronic goodness\. Cover: Jitwam
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,974 likes - 70 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 281,086 likes - 70 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 | 28 | [soulboy \- IZCO Remix](https://open.spotify.com/track/3G1YAm52YxIp0jlxalE0hK) | [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD), [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K), [IZCO](https://open.spotify.com/artist/4uqqEE1NaQBAa4wnDug9c1) | [soulboy \(IZCO Remix\)](https://open.spotify.com/album/63sYFrw1yLHU0k3IkCPUdX) | 3:49 |
 | 29 | [For Keeps](https://open.spotify.com/track/14n6WNRYJDqXhWJKE57zln) | [JGrrey](https://open.spotify.com/artist/66rDbD3tWR3M1uNuIaDAGx) | [Rocks \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1gWLuBpsrzqXjyObZZdSZg) | 2:52 |
 | 30 | [Mr\. Sun \(miss da sun\)](https://open.spotify.com/track/2NHVRc2gml9maFMHRgIC0y) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [Mr\. Sun \(miss da sun\)](https://open.spotify.com/album/4GnTrP3MNkopc3NRopSPGS) | 3:43 |
-| 31 | [fuego \(feat\. Tyler, The Creator\)](https://open.spotify.com/track/6UYbt0ZVXP5pnrhzk8z2d8) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [i can't go outside](https://open.spotify.com/album/1p2LdU7Q9Aq8OjO8sfnVMU) | 4:08 |
-| 32 | [Young Love](https://open.spotify.com/track/4UpBPaIMx7OoFpjeNdXfMn) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Rose in the Dark](https://open.spotify.com/album/4o5dzQHDzmBBc4Z3jSWVR9) | 4:24 |
+| 31 | [Young Love](https://open.spotify.com/track/4UpBPaIMx7OoFpjeNdXfMn) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Rose in the Dark](https://open.spotify.com/album/4o5dzQHDzmBBc4Z3jSWVR9) | 4:24 |
+| 32 | [fuego \(feat\. Tyler, The Creator\)](https://open.spotify.com/track/6UYbt0ZVXP5pnrhzk8z2d8) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [i can't go outside](https://open.spotify.com/album/1p2LdU7Q9Aq8OjO8sfnVMU) | 4:08 |
 | 33 | [Two Steps](https://open.spotify.com/track/4ACWPAiIYOtETNu9QsFEaP) | [Maths Time Joy](https://open.spotify.com/artist/3w18CP1k8zFZb1GfRlPHyK), [Kevin Garrett](https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E) | [Two Steps](https://open.spotify.com/album/2a9OfXHzWrnWmYoXN3QPYM) | 4:02 |
 | 34 | [You Could Be](https://open.spotify.com/track/56tNMHvbcFPvYiDxA7xROH) | [Anz](https://open.spotify.com/artist/1Ysz8yMgr4g1Ol3l1m3yOt), [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [You Could Be](https://open.spotify.com/album/32bdwKmh9xPoBmYlCjNNZI) | 3:38 |
 | 35 | [Sweating](https://open.spotify.com/track/47aXdSXENr8dOecqWtOk0T) | [Alewya](https://open.spotify.com/artist/0wcjJjpvnHb5vK4iwKfxPm) | [Sweating](https://open.spotify.com/album/3ct1sH3rZPE4ZpgwsKj6tQ) | 3:24 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 | 52 | [Moving](https://open.spotify.com/track/3FsbNA7632mDE8gLp4K6oB) | [Dan Kye](https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf) | [Small Moments](https://open.spotify.com/album/75GwgzYvvgaJQS6DooqcIC) | 5:15 |
 | 53 | [Shadows](https://open.spotify.com/track/4PDYYvVrcHWDvesiKo74Lh) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Shadows](https://open.spotify.com/album/62qsqtnaiVv09V1yjxfLx0) | 4:45 |
 | 54 | [Right Now](https://open.spotify.com/track/2cXOqys4hyhCdwy4qp6hYD) | [Ayelle](https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF) | [Right Now](https://open.spotify.com/album/3LjaQJxClcafNQjSNwJytA) | 3:59 |
-| 55 | [LoveConfusion](https://open.spotify.com/track/38xyC5uryAeiprkzLbNF6W) | [Karnaval Blues](https://open.spotify.com/artist/4APHks5GcW1GrlfnSvL5O3) | [LoveConfusion](https://open.spotify.com/album/1KKBhVD7u0bD0EdvHI7BeP) | 4:18 |
-| 56 | [Cut Me](https://open.spotify.com/track/1A2BT8JYVRjsKdswwvWXG6) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [græ](https://open.spotify.com/album/1iYsYnkc0Bccy66X4GQ2tm) | 4:10 |
+| 55 | [Cut Me](https://open.spotify.com/track/1A2BT8JYVRjsKdswwvWXG6) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [græ](https://open.spotify.com/album/1iYsYnkc0Bccy66X4GQ2tm) | 4:10 |
+| 56 | [LoveConfusion](https://open.spotify.com/track/38xyC5uryAeiprkzLbNF6W) | [Karnaval Blues](https://open.spotify.com/artist/4APHks5GcW1GrlfnSvL5O3) | [LoveConfusion](https://open.spotify.com/album/1KKBhVD7u0bD0EdvHI7BeP) | 4:18 |
 | 57 | [Hot In Herre](https://open.spotify.com/track/6YjRsyEcSOLKYIT5MIkKYT) | [LION BABE](https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE) | [Hot In Herre](https://open.spotify.com/album/3nh64W0WwLqiG8eCHBJWXW) | 3:05 |
 | 58 | [Summer Lovin'](https://open.spotify.com/track/5TzW5wlm4qaJ2hwhJWIbTx) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F), [KEHLI](https://open.spotify.com/artist/1l6JUvRJkj7kHhWhMUp3AA) | [Summer Lovin'](https://open.spotify.com/album/0biYlETukeDyF2Gu51y1BS) | 3:06 |
 | 59 | [Unrequited Love](https://open.spotify.com/track/55odIfJy7sm2HkHf3n9Gha) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [It Is What It Is](https://open.spotify.com/album/59GRmAvlGs7KjLizFnV7Y9) | 3:14 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 | 69 | [Without You](https://open.spotify.com/track/4fkgjkCqxOsjePLSpHZbpa) | [Becca Hatch](https://open.spotify.com/artist/1ypgMpyZkcMwXMkWuNFwyg) | [Without You](https://open.spotify.com/album/0ounACjKD0M8EjnTxAF3UW) | 2:57 |
 | 70 | [Half Hour Verve](https://open.spotify.com/track/6YdpCujgKQpiFWtmin0E6k) | [Harvey Causon](https://open.spotify.com/artist/7CfGxgCfRwumbKatrTjC4d) | [Fourth Wall](https://open.spotify.com/album/6f5i8vNHXp944iy5UPvSI7) | 4:05 |
 
-Snapshot ID: `MTY1NTczNDc4MiwwMDAwMDAwMDI3MTZhNDE4YzY5OGMxOWQ1YTcyZDgzNDJiN2FlMWFj`
+Snapshot ID: `MTY1NTczNDc4MiwwMDAwMDAwMDk3NmJlYWYyYzM4MjdmNDE5ZGY3NmI5M2Y2Mzg4MmVh`

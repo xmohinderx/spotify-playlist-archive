@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDdN3ZRC5EmY.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/20GjXoOdMhodfDMvSdh6mm">Jessie Reyez</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,944 likes - 62 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,950 likes - 62 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDdN3ZRC5EmY.md) - [plain]
 | 10 | [Nice Guy \(with Jessie Reyez\)](https://open.spotify.com/track/09FfQO3PqHO4HIJL511Ksi) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Kamikaze](https://open.spotify.com/album/3HNnxK7NgLXbDoxRZxNWiR) | 2:30 |
 | 11 | [Sacrifice \(feat\. Jessie Reyez\)](https://open.spotify.com/track/4LbfLqheRZesqH794Avpd9) | [Black Atlass](https://open.spotify.com/artist/7AbKOHOvn27dK0FOiboAno), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Fifty Shades Freed \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4w0N1CaZwQ5RPIuawqlYyy) | 3:29 |
 | 12 | [Wherever You Go](https://open.spotify.com/track/4H0iUwnJaY9Ev07IP6DW5j) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51) | [Blue](https://open.spotify.com/album/2xZSrcBmvMw9Y8hac6xU7L) | 3:28 |
-| 13 | [F2020](https://open.spotify.com/track/5XkqFA48j4kARMAXQuyfHT) | [Avenue Beat](https://open.spotify.com/artist/1htYtUdXVMwR6HCSs821Lc) | [the debut farewell album](https://open.spotify.com/album/3iWRmRghXrGibQlzqNkbLQ) | 3:01 |
-| 14 | [Great One](https://open.spotify.com/track/1rm9z2o1PgcJHIYL6nx0VG) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Kiddo](https://open.spotify.com/album/2q7EwuXduuQGDJrPYPVFyw) | 2:49 |
+| 13 | [Great One](https://open.spotify.com/track/1rm9z2o1PgcJHIYL6nx0VG) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Kiddo](https://open.spotify.com/album/2q7EwuXduuQGDJrPYPVFyw) | 2:49 |
+| 14 | [F2020](https://open.spotify.com/track/5XkqFA48j4kARMAXQuyfHT) | [Avenue Beat](https://open.spotify.com/artist/1htYtUdXVMwR6HCSs821Lc) | [the debut farewell album](https://open.spotify.com/album/3iWRmRghXrGibQlzqNkbLQ) | 3:01 |
 | 15 | [Shutter Island](https://open.spotify.com/track/0LDFH1WLQ6NPEMH556LUGs) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Kiddo](https://open.spotify.com/album/2q7EwuXduuQGDJrPYPVFyw) | 3:07 |
 | 16 | [Hard to Love \(feat\. Jessie Reyez\)](https://open.spotify.com/track/6KdmNK9MogmGcnO3wNZHhp) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [Funk Wav](https://open.spotify.com/artist/4A0TivfinfALCAMJqqjZIk) | [Funk Wav Bounces Vol.1](https://open.spotify.com/album/2HaqChIDc5go3qxVunBDK0) | 3:50 |
 | 17 | [Go For Broke \(feat\. James Arthur\)](https://open.spotify.com/track/7w1JDEjmXYw2DwllK1EwCg) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [bloom](https://open.spotify.com/album/3yWRq9Dd2UO5xyqxTjLDmp) | 3:30 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDdN3ZRC5EmY.md) - [plain]
 | 44 | [DEAF \(who are you\)](https://open.spotify.com/track/0ASJErUz9Jft45bkkfNAXq) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [BEFORE LOVE CAME TO KILL US](https://open.spotify.com/album/42MQxlJENU0xJORW7byNNS) | 2:53 |
 | 45 | [Con el Viento](https://open.spotify.com/track/6B2enoSQxSITUe4Y84R5EF) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Music Inspired by the Film Roma](https://open.spotify.com/album/6fn5SvyjVLlUROm7dxny1s) | 3:14 |
 | 46 | [INTRUDERS](https://open.spotify.com/track/5dWtSsXTOn5uQzMVMv2X3j) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [BEFORE LOVE CAME TO KILL US](https://open.spotify.com/album/42MQxlJENU0xJORW7byNNS) | 3:05 |
-| 47 | [K Goodnight](https://open.spotify.com/track/0p9aEyXQmmvArpgXor7YDu) | [Tim Suby](https://open.spotify.com/artist/5kfcmYOF2W9C1U8lvwhXnP), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [K Goodnight \(feat\. Jessie Reyez\) \- Single](https://open.spotify.com/album/5nEjbgwBJYj7QGtWbKQlyk) | 3:02 |
-| 48 | [SAME SIDE](https://open.spotify.com/track/6KpQ6CbTu0j1GYrsv4WQDZ) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [BEFORE LOVE CAME TO KILL US](https://open.spotify.com/album/42MQxlJENU0xJORW7byNNS) | 3:10 |
+| 47 | [SAME SIDE](https://open.spotify.com/track/6KpQ6CbTu0j1GYrsv4WQDZ) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [BEFORE LOVE CAME TO KILL US](https://open.spotify.com/album/42MQxlJENU0xJORW7byNNS) | 3:10 |
+| 48 | [K Goodnight](https://open.spotify.com/track/0p9aEyXQmmvArpgXor7YDu) | [Tim Suby](https://open.spotify.com/artist/5kfcmYOF2W9C1U8lvwhXnP), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [K Goodnight \(feat\. Jessie Reyez\) \- Single](https://open.spotify.com/album/5nEjbgwBJYj7QGtWbKQlyk) | 3:02 |
 | 49 | [Hechicera](https://open.spotify.com/track/3CZpRVhVh66psVNSzTVObr) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Cumbiana](https://open.spotify.com/album/1AWWSFCourc5LCAczs3GOS) | 3:36 |
 | 50 | [Passcode](https://open.spotify.com/track/0nDHPCCaeODqI0zEjK6rPz) | [Jannine Weigel](https://open.spotify.com/artist/3KnpO8dT2xgObEBmRsLv1u) | [Passcode](https://open.spotify.com/album/2gpqQvp09UtwQS4AZorpl9) | 3:13 |
 | 51 | [LA MEMORIA](https://open.spotify.com/track/1AJ1ybVy9k4qmxl9tP4VQc) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [BEFORE LOVE CAME TO KILL US](https://open.spotify.com/album/42MQxlJENU0xJORW7byNNS) | 3:17 |
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDdN3ZRC5EmY.md) - [plain]
 | 61 | [Coffin](https://open.spotify.com/track/2CWZ7nG31mNqWyvM2RcdLr) | [Yaielle Golden](https://open.spotify.com/artist/79nlaaiSCwAMxb3PlsjVvV) | [Bedroom Studio Covers](https://open.spotify.com/album/4N6b3CWuyGjsG2DaMfw4RP) | 2:59 |
 | 62 | [Rain](https://open.spotify.com/track/23ytV3kbb4LHaAyPOzP0v7) | [J\-Benji3](https://open.spotify.com/artist/6ywzkeo5qo0eG2MjT6UeVP) | [Blue Benji](https://open.spotify.com/album/5MpZCA7sjUbJBxnSEyCdD3) | 2:49 |
 
-Snapshot ID: `Mjc3MjczMjIsMDAwMDAwMDBhYjRmNWZhZjliMTQ4ZWU0NGM2MDljNzE5YTAxZGM5ZA==`
+Snapshot ID: `Mjc3Mjg3NjIsMDAwMDAwMDA4NDI4ZDAwNDE3OGE0ZWQ0ZWZiYTg1NTEwYzYxMTRlMg==`

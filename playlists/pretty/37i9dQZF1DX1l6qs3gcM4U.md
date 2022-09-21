@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1l6qs3gcM4U.md) - [plain]
 
 > Fall in love with the sensual sounds of Kizomba! Cover: Loony Johnson with Djodje.
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,923 likes - 80 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,021 likes - 80 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1l6qs3gcM4U.md) - [plain]
 | 9 | [Bela](https://open.spotify.com/track/03iBdmxAQ20A3SeIBazzjS) | [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [Bela](https://open.spotify.com/album/6wYlnMmxyiCqrQqiW2fDtA) | 3:58 |
 | 10 | [Fica Comigo](https://open.spotify.com/track/01qO8ZCxyp07BHfsigcI5P) | [Cubita](https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di) | [Fica Comigo](https://open.spotify.com/album/7cg4MQKXsUNxQakPQVuZYE) | 3:22 |
 | 11 | [Akanadja](https://open.spotify.com/track/5YFM2pnhKvoBUPOlBkCXrV) | [Neyna](https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7) | [Akanadja](https://open.spotify.com/album/2bvvjR9iZN9jo4qugFZnON) | 3:02 |
-| 12 | [Miúda Linda](https://open.spotify.com/track/0jmwFUYbHEqPY60yeJIGvT) | [Nelson Freitas](https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB) | [Four](https://open.spotify.com/album/796mwl4j1EFonUd7zdA6g5) | 3:37 |
-| 13 | [Te Amo Tanto](https://open.spotify.com/track/3syibMhmDhttEP0TMH6cBd) | [Rui Orlando](https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa) | [Te Amo Tanto](https://open.spotify.com/album/4dixo3rNF8P3i0IazGXqFj) | 3:02 |
+| 12 | [Te Amo Tanto](https://open.spotify.com/track/3syibMhmDhttEP0TMH6cBd) | [Rui Orlando](https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa) | [Te Amo Tanto](https://open.spotify.com/album/4dixo3rNF8P3i0IazGXqFj) | 3:02 |
+| 13 | [Miúda Linda](https://open.spotify.com/track/0jmwFUYbHEqPY60yeJIGvT) | [Nelson Freitas](https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB) | [Four](https://open.spotify.com/album/796mwl4j1EFonUd7zdA6g5) | 3:37 |
 | 14 | [Suleban](https://open.spotify.com/track/6nDSopKJiyH5XfhwNSsKYG) | [William Araujo](https://open.spotify.com/artist/0Y8ziaoma06j8kuFH2rjon), [Dynamo](https://open.spotify.com/artist/6QIDj58kioY2urnpvAttwi), [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [RED](https://open.spotify.com/album/5wNjW2Z5HwxBy8ljV6BKff) | 3:20 |
 | 15 | [Tu És a Mulher](https://open.spotify.com/track/3AxKlhbCVMwrDbP4laSyys) | [C4 Pedro](https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao) | [King Ckwa](https://open.spotify.com/album/7F4vDACMrg7U40ZRAA1VTV) | 4:36 |
 | 16 | [Bai](https://open.spotify.com/track/3ooG7GI5gSSROggAE2pnji) | [Soraia Ramos](https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L) | [Bai](https://open.spotify.com/album/76HqC9jwLHzsx5OEWFjQbK) | 3:23 |
@@ -56,14 +56,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1l6qs3gcM4U.md) - [plain]
 | 46 | [You](https://open.spotify.com/track/4oj1WpRBb0K4BVsonGwENA) | [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [You](https://open.spotify.com/album/3dshYkPBm10Z8AmEzhXCu7) | 3:15 |
 | 47 | [Desculpa](https://open.spotify.com/track/0TuuZwRot3vVK6tqV8zh2q) | [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj) | [Desculpa](https://open.spotify.com/album/258S9L0PGKl7o0dRA1A27H) | 3:32 |
 | 48 | [Teu Ego](https://open.spotify.com/track/2ZQdBUpl0oLp97sZ1F5vdQ) | [Ivan Alekxei](https://open.spotify.com/artist/4kR1QWyFVV4vr0JxkWv7EC), [Rui Orlando](https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa) | [Teu Ego](https://open.spotify.com/album/2Q1f06VzUef6eeyAwa4QKa) | 4:46 |
-| 49 | [Africana](https://open.spotify.com/track/39GEvvoMVqRnxpy69XGRvT) | [Gerilson Insrael](https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO) | [Africana](https://open.spotify.com/album/17vDciwK52wtjT5rFjmlXt) | 3:20 |
-| 50 | [Au revoir](https://open.spotify.com/track/4oMjvchKYV7mlrxJ50byCe) | [Cubita](https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di) | [Au revoir](https://open.spotify.com/album/0FeMKRGs3x5kA5s0ZwZYu2) | 3:54 |
-| 51 | [Meu Marido](https://open.spotify.com/track/5zeTVFJmNIhn5DIkRDvFuo) | [Soraia Ramos](https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L) | [Meu Marido](https://open.spotify.com/album/35GN3dkUAe9pzWBlnIondq) | 3:39 |
+| 49 | [Meu Marido](https://open.spotify.com/track/5zeTVFJmNIhn5DIkRDvFuo) | [Soraia Ramos](https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L) | [Meu Marido](https://open.spotify.com/album/35GN3dkUAe9pzWBlnIondq) | 3:39 |
+| 50 | [Africana](https://open.spotify.com/track/39GEvvoMVqRnxpy69XGRvT) | [Gerilson Insrael](https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO) | [Africana](https://open.spotify.com/album/17vDciwK52wtjT5rFjmlXt) | 3:20 |
+| 51 | [Au revoir](https://open.spotify.com/track/4oMjvchKYV7mlrxJ50byCe) | [Cubita](https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di) | [Au revoir](https://open.spotify.com/album/0FeMKRGs3x5kA5s0ZwZYu2) | 3:54 |
 | 52 | [Kuyuyu](https://open.spotify.com/track/2ieA58j9Fsuo35Gwa6oX8P) | [Landrick](https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU) | [Zolana](https://open.spotify.com/album/1QZFUA00SScMMaea5DW1Mn) | 3:54 |
 | 53 | [Puro](https://open.spotify.com/track/6SSlXfbFGZs7D4cIjO73dH) | [Anna Joyce](https://open.spotify.com/artist/0TFtGB2jsMA97sNDTLJ8QX) | [Puro](https://open.spotify.com/album/50AyTumEEiT1mXTY8zZqNi) | 4:23 |
 | 54 | [Cada Detalhe Teu](https://open.spotify.com/track/6p7j5VQkywOk8aPKw2CGpU) | [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj) | [Cada Detalhe Teu](https://open.spotify.com/album/02y9Q2mTw9lGr3C3A3IO79) | 3:26 |
-| 55 | [Não Posso](https://open.spotify.com/track/0wVFtfUnFotGMSxPlG56a7) | [Yasmine](https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr) | [Não Posso](https://open.spotify.com/album/4Jz4rivUmmAZiHQIzoDjHb) | 3:48 |
-| 56 | [No Bad Vibez](https://open.spotify.com/track/4Csfj1xoyB2e9KcbhRempz) | [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo), [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj) | [Mininu Di Oru](https://open.spotify.com/album/5nuvoFFCWhSMnZPEs7v0nu) | 3:10 |
+| 55 | [No Bad Vibez](https://open.spotify.com/track/4Csfj1xoyB2e9KcbhRempz) | [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo), [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj) | [Mininu Di Oru](https://open.spotify.com/album/5nuvoFFCWhSMnZPEs7v0nu) | 3:10 |
+| 56 | [Não Posso](https://open.spotify.com/track/0wVFtfUnFotGMSxPlG56a7) | [Yasmine](https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr) | [Não Posso](https://open.spotify.com/album/4Jz4rivUmmAZiHQIzoDjHb) | 3:48 |
 | 57 | [Cigana Linda](https://open.spotify.com/track/5ZhYcNNdJMYUkUkFjeuWDI) | [Badoxa](https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW) | [Cigana Linda](https://open.spotify.com/album/0cuU1N758RKwWSrTFf2IvK) | 3:38 |
 | 58 | [Nha Rainha \(feat\. Dino D'Santiago\)](https://open.spotify.com/track/2eWly1qDvIMnrV91WGvAzX) | [C4 Pedro](https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao), [Dino d'Santiago](https://open.spotify.com/artist/7qb2GMJaX4HeXqqPPyYdlr) | [The Gentleman](https://open.spotify.com/album/6xea2QmncKCbmHNbxW1BJ0) | 3:46 |
 | 59 | [Você Me Kuia](https://open.spotify.com/track/4gvDUHpTEiVHhDeeobenz4) | [Jay Oliver](https://open.spotify.com/artist/19ynMaKoJYvOhZATkHYt3X) | [Longe de Ti](https://open.spotify.com/album/03wfykCwviZBpxcxcBEaN1) | 4:08 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1l6qs3gcM4U.md) - [plain]
 | 76 | [Deusa do Amor](https://open.spotify.com/track/6JHiXHpIkZH7dR5B2INFjT) | [Kizomba da Boa](https://open.spotify.com/artist/5s5qErKST3QG1Lsiqg4v3i), [Edgar Domingos](https://open.spotify.com/artist/24ln2MhGkr8aWPhqrgQ7LZ), [Anderson Mario](https://open.spotify.com/artist/6REvCEamm1KPVrULbpAmdh), [Button](https://open.spotify.com/artist/0ZdXdsO7mcsS6921sIGKdL) | [Deusa do Amor](https://open.spotify.com/album/07eHTr7xC266F2C6LxKPXS) | 4:39 |
 | 77 | [Quarentena](https://open.spotify.com/track/26SEljwRV5sPTAtZhbbxS2) | [Gerilson Insrael](https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO) | [Quarentena](https://open.spotify.com/album/2Z3rHccS9A2hd1R4SvkPeB) | 3:38 |
 | 78 | [Don't Judge Me \(Saxo\-Kizomba\)](https://open.spotify.com/track/4kfiS4tlucOjdcBXT29cVY) | [P\. Lowe](https://open.spotify.com/artist/5t3JjYIpjLiK8bjt5HAFDa), [M&n Pro](https://open.spotify.com/artist/13qKpK0ZU4XuJJTuoSXASK) | [Don't Judge Me \(Saxo\-Kizomba\)](https://open.spotify.com/album/7xpxOj2V9Pr00hgfNeeq4C) | 4:56 |
-| 79 | [Water](https://open.spotify.com/track/2YGCbj4HPFKc40ow5Ica9X) | [Derick Banks](https://open.spotify.com/artist/6i82JFbfMvOi01V8M937aK), [P\. Lowe](https://open.spotify.com/artist/5iwOutOAetaUm6Yg14BRTu), [Archie & Sizzle](https://open.spotify.com/artist/6GYBds9JOCUmcooVni808I) | [Water](https://open.spotify.com/album/0iP0x5PfiePxWk18TMjoGf) | 4:21 |
-| 80 | [Fica Parado \(feat\. C4 Pedro\)](https://open.spotify.com/track/7qeh3o6nW5XCZZjbMCEVWd) | [Pérola](https://open.spotify.com/artist/34Gw52pP6ExWNrH6U6fpeO), [C4 Pedro](https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao) | [Mais de Mim](https://open.spotify.com/album/6evUi8BHqDJDURIBsPRPLi) | 3:48 |
+| 79 | [Fica Parado \(feat\. C4 Pedro\)](https://open.spotify.com/track/7qeh3o6nW5XCZZjbMCEVWd) | [Pérola](https://open.spotify.com/artist/34Gw52pP6ExWNrH6U6fpeO), [C4 Pedro](https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao) | [Mais de Mim](https://open.spotify.com/album/6evUi8BHqDJDURIBsPRPLi) | 3:48 |
+| 80 | [Water](https://open.spotify.com/track/2YGCbj4HPFKc40ow5Ica9X) | [Derick Banks](https://open.spotify.com/artist/6i82JFbfMvOi01V8M937aK), [P\. Lowe](https://open.spotify.com/artist/5iwOutOAetaUm6Yg14BRTu), [Archie & Sizzle](https://open.spotify.com/artist/6GYBds9JOCUmcooVni808I) | [Water](https://open.spotify.com/album/0iP0x5PfiePxWk18TMjoGf) | 4:21 |
 
-Snapshot ID: `MTY2MzI4MjgwMCwwMDAwMDAwMDE0NmJiMWVhMDNjNjBlZDk4NzJhZTY3MmJmMDg5NmY1`
+Snapshot ID: `MTY2MzI4MjgwMCwwMDAwMDAwMDZiMGViZWI0MmIwZjM3Y2UwM2I2MzMxZjg0YzEwZjk5`

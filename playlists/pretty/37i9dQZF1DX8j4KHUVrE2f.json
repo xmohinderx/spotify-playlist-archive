@@ -1,12 +1,12 @@
 {
   "description": "Take a trip down memory lane with these noughties classics...",
-  "num_followers": 1044479,
+  "num_followers": 1044491,
   "original_name": "Easy 00s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjUwNjE5OSwwMDAwMDAwMDJlMGJkOTAwNDVmYWE0ZTgxY2RkOGYyNWE4OTVlMjg0",
+  "snapshot_id": "MTY0MjUwNjE5OSwwMDAwMDAwMDdiZGFkZWZmNjM4NTJiNGZlZjIwN2MzZWNhMjlkYWEw",
   "tracks": [
     {
       "added_at": "2020-07-08 17:51:15",
@@ -731,22 +731,6 @@
     {
       "added_at": "2020-07-08 17:51:15",
       "album": {
-        "name": "This Is The Life (eDeluxe)",
-        "url": "https://open.spotify.com/album/5DaToG3KvHnUgTPqY4cEbq"
-      },
-      "artists": [
-        {
-          "name": "Amy Macdonald",
-          "url": "https://open.spotify.com/artist/1hJuGCUpefX24GFmss9bjH"
-        }
-      ],
-      "duration_ms": 184413,
-      "name": "This Is The Life",
-      "url": "https://open.spotify.com/track/2T3jgoAMbBXiMMD8pSc6QL"
-    },
-    {
-      "added_at": "2020-07-08 17:51:15",
-      "album": {
         "name": "Come Away With Me (Super Deluxe Edition)",
         "url": "https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl"
       },
@@ -763,18 +747,34 @@
     {
       "added_at": "2020-07-08 17:51:15",
       "album": {
-        "name": "Rock n Roll Jesus",
-        "url": "https://open.spotify.com/album/2xChdOg0PvxzHzE1BooUpI"
+        "name": "This Is The Life (eDeluxe)",
+        "url": "https://open.spotify.com/album/5DaToG3KvHnUgTPqY4cEbq"
       },
       "artists": [
         {
-          "name": "Kid Rock",
-          "url": "https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM"
+          "name": "Amy Macdonald",
+          "url": "https://open.spotify.com/artist/1hJuGCUpefX24GFmss9bjH"
         }
       ],
-      "duration_ms": 297586,
-      "name": "All Summer Long",
-      "url": "https://open.spotify.com/track/5rX6C5QVvvZB7XckETNych"
+      "duration_ms": 184413,
+      "name": "This Is The Life",
+      "url": "https://open.spotify.com/track/2T3jgoAMbBXiMMD8pSc6QL"
+    },
+    {
+      "added_at": "2020-07-08 17:51:15",
+      "album": {
+        "name": "The Script",
+        "url": "https://open.spotify.com/album/1r5J0N6Ep181K0i8YuTYgO"
+      },
+      "artists": [
+        {
+          "name": "The Script",
+          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
+        }
+      ],
+      "duration_ms": 261426,
+      "name": "Breakeven",
+      "url": "https://open.spotify.com/track/285hMzLhJwHVLe9QT9qilk"
     },
     {
       "added_at": "2020-07-08 17:51:15",
@@ -799,18 +799,18 @@
     {
       "added_at": "2020-07-08 17:51:15",
       "album": {
-        "name": "The Script",
-        "url": "https://open.spotify.com/album/1r5J0N6Ep181K0i8YuTYgO"
+        "name": "Rock n Roll Jesus",
+        "url": "https://open.spotify.com/album/2xChdOg0PvxzHzE1BooUpI"
       },
       "artists": [
         {
-          "name": "The Script",
-          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
+          "name": "Kid Rock",
+          "url": "https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM"
         }
       ],
-      "duration_ms": 261426,
-      "name": "Breakeven",
-      "url": "https://open.spotify.com/track/285hMzLhJwHVLe9QT9qilk"
+      "duration_ms": 297586,
+      "name": "All Summer Long",
+      "url": "https://open.spotify.com/track/5rX6C5QVvvZB7XckETNych"
     },
     {
       "added_at": "2020-07-08 17:51:15",
@@ -895,6 +895,22 @@
     {
       "added_at": "2020-07-08 17:51:15",
       "album": {
+        "name": "The Script",
+        "url": "https://open.spotify.com/album/1r5J0N6Ep181K0i8YuTYgO"
+      },
+      "artists": [
+        {
+          "name": "The Script",
+          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
+        }
+      ],
+      "duration_ms": 241373,
+      "name": "The Man Who Can't Be Moved",
+      "url": "https://open.spotify.com/track/3nqqDo8CcCLke3ZoTgiOKf"
+    },
+    {
+      "added_at": "2020-07-08 17:51:15",
+      "album": {
         "name": "We Sing. We Dance. We Steal Things.",
         "url": "https://open.spotify.com/album/04G0YylSjvDQZrjOfE5jA5"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 211160,
       "name": "Billionaire (feat. Bruno Mars)",
       "url": "https://open.spotify.com/track/2qPUnoasNe4Ep43emVXEig"
-    },
-    {
-      "added_at": "2020-07-08 17:51:15",
-      "album": {
-        "name": "The Script",
-        "url": "https://open.spotify.com/album/1r5J0N6Ep181K0i8YuTYgO"
-      },
-      "artists": [
-        {
-          "name": "The Script",
-          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
-        }
-      ],
-      "duration_ms": 241373,
-      "name": "The Man Who Can't Be Moved",
-      "url": "https://open.spotify.com/track/3nqqDo8CcCLke3ZoTgiOKf"
     },
     {
       "added_at": "2020-07-08 17:51:15",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2020-07-08 17:51:15",
       "album": {
-        "name": "No Gravity",
-        "url": "https://open.spotify.com/album/2keR8rEBTmRLpDKxWaoBDc"
-      },
-      "artists": [
-        {
-          "name": "Shontelle",
-          "url": "https://open.spotify.com/artist/4M6Z1wubeKtwPqbjJygTOc"
-        }
-      ],
-      "duration_ms": 226533,
-      "name": "Impossible",
-      "url": "https://open.spotify.com/track/1T8PwF3JhIiWwBhun23RNe"
-    },
-    {
-      "added_at": "2020-07-08 17:51:15",
-      "album": {
         "name": "For Emma, Forever Ago",
         "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 238520,
       "name": "Skinny Love",
       "url": "https://open.spotify.com/track/3B3eOgLJSqPEA0RfboIQVM"
+    },
+    {
+      "added_at": "2020-07-08 17:51:15",
+      "album": {
+        "name": "No Gravity",
+        "url": "https://open.spotify.com/album/2keR8rEBTmRLpDKxWaoBDc"
+      },
+      "artists": [
+        {
+          "name": "Shontelle",
+          "url": "https://open.spotify.com/artist/4M6Z1wubeKtwPqbjJygTOc"
+        }
+      ],
+      "duration_ms": 226533,
+      "name": "Impossible",
+      "url": "https://open.spotify.com/track/1T8PwF3JhIiWwBhun23RNe"
     },
     {
       "added_at": "2020-07-08 17:51:15",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2020-07-08 17:51:15",
       "album": {
+        "name": "A Day Without Rain",
+        "url": "https://open.spotify.com/album/2ioso1tqQ5zABQDVYyiUi5"
+      },
+      "artists": [
+        {
+          "name": "Enya",
+          "url": "https://open.spotify.com/artist/6uothxMWeLWIhsGeF7cyo4"
+        }
+      ],
+      "duration_ms": 218546,
+      "name": "Only Time",
+      "url": "https://open.spotify.com/track/6FLwmdmW77N1Pxb1aWsZmO"
+    },
+    {
+      "added_at": "2020-07-08 17:51:15",
+      "album": {
         "name": "Jordin Sparks",
         "url": "https://open.spotify.com/album/6JCNOvp9UeMrFuXwNW0JW6"
       },
@@ -1227,22 +1243,6 @@
     {
       "added_at": "2020-07-08 17:51:15",
       "album": {
-        "name": "A Day Without Rain",
-        "url": "https://open.spotify.com/album/2ioso1tqQ5zABQDVYyiUi5"
-      },
-      "artists": [
-        {
-          "name": "Enya",
-          "url": "https://open.spotify.com/artist/6uothxMWeLWIhsGeF7cyo4"
-        }
-      ],
-      "duration_ms": 218546,
-      "name": "Only Time",
-      "url": "https://open.spotify.com/track/6FLwmdmW77N1Pxb1aWsZmO"
-    },
-    {
-      "added_at": "2020-07-08 17:51:15",
-      "album": {
         "name": "Everything All The Time",
         "url": "https://open.spotify.com/album/7ik4rjxOnmwnAWWzjj5ni3"
       },
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2020-07-08 17:51:15",
       "album": {
-        "name": "8701",
-        "url": "https://open.spotify.com/album/6k16WXh4rKyusIoN00rmpi"
-      },
-      "artists": [
-        {
-          "name": "Usher",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        }
-      ],
-      "duration_ms": 266893,
-      "name": "U Remind Me",
-      "url": "https://open.spotify.com/track/2QsZVnbWVSjKMXK6K3uRBL"
-    },
-    {
-      "added_at": "2020-07-08 17:51:15",
-      "album": {
         "name": "Veckatimest",
         "url": "https://open.spotify.com/album/6FIFqclBriPCb0SjWDaHIk"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 243160,
       "name": "Two Weeks",
       "url": "https://open.spotify.com/track/0iTpQYzJnYgh7kIxyq8A2O"
+    },
+    {
+      "added_at": "2020-07-08 17:51:15",
+      "album": {
+        "name": "8701",
+        "url": "https://open.spotify.com/album/6k16WXh4rKyusIoN00rmpi"
+      },
+      "artists": [
+        {
+          "name": "Usher",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "duration_ms": 266893,
+      "name": "U Remind Me",
+      "url": "https://open.spotify.com/track/2QsZVnbWVSjKMXK6K3uRBL"
     },
     {
       "added_at": "2020-07-08 17:51:15",

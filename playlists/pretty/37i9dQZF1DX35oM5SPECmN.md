@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35oM5SPECmN.md) - [plain]
 
 > Uplifting and uptempo indie folk and roots rock, guaranteed to open your stride.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,428,541 likes - 75 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,428,511 likes - 75 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,19 +69,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35oM5SPECmN.md) - [plain]
 | 59 | [Can't Cheat Death](https://open.spotify.com/track/2W7LF1AC58Y4Qmk9UpZ5c1) | [The Ballroom Thieves](https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC) | [Paper Crown](https://open.spotify.com/album/6SZ8LmrpZfJofLgriF6yIZ) | 3:10 |
 | 60 | [Elevate](https://open.spotify.com/track/5BxVRqpZi6tIhAap1ZjzVD) | [St\. Lucia](https://open.spotify.com/artist/5WId4o5jdGVhptNU0uqKxu) | [When The Night](https://open.spotify.com/album/7fbye8EAeiLsiKAe2upMEh) | 5:08 |
 | 61 | [Caesar Knows](https://open.spotify.com/track/7skCLVpO2PbGfPib1FgD5C) | [Oliver Hazard](https://open.spotify.com/artist/3F4iXxXxe7iazo3Jnwucng) | [34 N\. River](https://open.spotify.com/album/1DBaSoZDEr2HG4X3TTDjjw) | 2:36 |
-| 62 | [Monochrome](https://open.spotify.com/track/6ERbOSiVlLgwYcKsN3kmY6) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [Monochrome](https://open.spotify.com/album/2nXzlL3Zhd3LnZkAMyvesX) | 3:28 |
-| 63 | [Right Time](https://open.spotify.com/track/33bIBZTNim7ZxKrhEAXYyu) | [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [All Or Nothin'](https://open.spotify.com/album/1d0rJFoBz1G0QsIpyYOa1s) | 3:21 |
-| 64 | [Awake](https://open.spotify.com/track/47ed9eO66cBHvWteLlF7C0) | [Freedom Fry](https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7) | [Classic](https://open.spotify.com/album/2gHoyHYnaGEctKR8kysOAU) | 3:14 |
-| 65 | [Making Do](https://open.spotify.com/track/1ID7FIrnDFtAoRebVRBhlO) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Obviously](https://open.spotify.com/album/2Zi7uv234eNZJfLPGUIkSD) | 3:34 |
-| 66 | [Las Vegas](https://open.spotify.com/track/6dnrxlk3s3we2lqMvckukJ) | [Houndmouth](https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5) | [Good For You](https://open.spotify.com/album/7pDkPWgwrc2weqXdL0ID6m) | 3:42 |
-| 67 | [Philosophize In It! Chemicalize With It!](https://open.spotify.com/track/7ICjrouimwa79iCbBdUWoq) | [Kishi Bashi](https://open.spotify.com/artist/3LVPGE5jPPwtbGslx07YR0) | [Lighght \(Deluxe Version\)](https://open.spotify.com/album/3oPVMDW85Fo8tXQWKhYIQO) | 3:20 |
-| 68 | [My Boy](https://open.spotify.com/track/5ndSLoHMt298BYsru2seYK) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [My Boy](https://open.spotify.com/album/6BkPM6yssffxIhcKimWI3B) | 2:43 |
-| 69 | [Bad Moves](https://open.spotify.com/track/04LtT3aIQTrKUpVR9UG3OL) | [The Bones of J.R\. Jones](https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn) | [Bad Moves](https://open.spotify.com/album/6c2fkeEyjpOCqJqj5L6BTy) | 4:06 |
+| 62 | [Grace](https://open.spotify.com/track/4i4gcJSMofr3Pe9YWThzRp) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB) | [\(self\-titled\)](https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE) | 4:13 |
+| 63 | [Monochrome](https://open.spotify.com/track/6ERbOSiVlLgwYcKsN3kmY6) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [Monochrome](https://open.spotify.com/album/2nXzlL3Zhd3LnZkAMyvesX) | 3:28 |
+| 64 | [Right Time](https://open.spotify.com/track/33bIBZTNim7ZxKrhEAXYyu) | [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [All Or Nothin'](https://open.spotify.com/album/1d0rJFoBz1G0QsIpyYOa1s) | 3:21 |
+| 65 | [Awake](https://open.spotify.com/track/47ed9eO66cBHvWteLlF7C0) | [Freedom Fry](https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7) | [Classic](https://open.spotify.com/album/2gHoyHYnaGEctKR8kysOAU) | 3:14 |
+| 66 | [My Boy](https://open.spotify.com/track/5ndSLoHMt298BYsru2seYK) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [My Boy](https://open.spotify.com/album/6BkPM6yssffxIhcKimWI3B) | 2:43 |
+| 67 | [Making Do](https://open.spotify.com/track/1ID7FIrnDFtAoRebVRBhlO) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Obviously](https://open.spotify.com/album/2Zi7uv234eNZJfLPGUIkSD) | 3:34 |
+| 68 | [Las Vegas](https://open.spotify.com/track/6dnrxlk3s3we2lqMvckukJ) | [Houndmouth](https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5) | [Good For You](https://open.spotify.com/album/7pDkPWgwrc2weqXdL0ID6m) | 3:42 |
+| 69 | [Philosophize In It! Chemicalize With It!](https://open.spotify.com/track/7ICjrouimwa79iCbBdUWoq) | [Kishi Bashi](https://open.spotify.com/artist/3LVPGE5jPPwtbGslx07YR0) | [Lighght \(Deluxe Version\)](https://open.spotify.com/album/3oPVMDW85Fo8tXQWKhYIQO) | 3:20 |
 | 70 | [Who Do You Think You're Talking To?](https://open.spotify.com/track/3JRKgmK00uNLQzXGcLUaZ3) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [Good Luck With Whatever](https://open.spotify.com/album/3esEgXmUs1zjBVqijbZ6RQ) | 3:19 |
-| 71 | [Living In The City](https://open.spotify.com/track/03NrJwKoZVAhiBz4jsWVCx) | [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt) | [The Navigator](https://open.spotify.com/album/31poENBRik5Velm7Z2gPSw) | 3:16 |
-| 72 | [Heroes](https://open.spotify.com/track/1FudW4lBMbxG1BVP7Ko1DT) | [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw) | [Heroes](https://open.spotify.com/album/7817F6Nn9C1XdQmENndiks) | 3:13 |
-| 73 | [Highway Queen](https://open.spotify.com/track/1HSK85Escjg7ClgwgnMI0G) | [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [Highway Queen](https://open.spotify.com/album/0tYgeDm3xRF6AV19UwDXXW) | 3:51 |
-| 74 | [Grace](https://open.spotify.com/track/4i4gcJSMofr3Pe9YWThzRp) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB) | [\(self\-titled\)](https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE) | 4:13 |
+| 71 | [Bad Moves](https://open.spotify.com/track/04LtT3aIQTrKUpVR9UG3OL) | [The Bones of J.R\. Jones](https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn) | [Bad Moves](https://open.spotify.com/album/6c2fkeEyjpOCqJqj5L6BTy) | 4:06 |
+| 72 | [Living In The City](https://open.spotify.com/track/03NrJwKoZVAhiBz4jsWVCx) | [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt) | [The Navigator](https://open.spotify.com/album/31poENBRik5Velm7Z2gPSw) | 3:16 |
+| 73 | [Heroes](https://open.spotify.com/track/1FudW4lBMbxG1BVP7Ko1DT) | [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw) | [Heroes](https://open.spotify.com/album/7817F6Nn9C1XdQmENndiks) | 3:13 |
+| 74 | [Highway Queen](https://open.spotify.com/track/1HSK85Escjg7ClgwgnMI0G) | [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [Highway Queen](https://open.spotify.com/album/0tYgeDm3xRF6AV19UwDXXW) | 3:51 |
 | 75 | [On The Road Again](https://open.spotify.com/track/6f2o3F3BoPwlicA0ko2gAb) | [The Brother Brothers](https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5) | [Calla Lily](https://open.spotify.com/album/44QrG8cDITqHHGZcGfeZWr) | 2:53 |
 
-Snapshot ID: `MTY2MzYxNDY0MSwwMDAwMDAwMDVmY2U0N2IwNjg2MTIxNmI5NmQxMzAwZTY4ZDBjMTli`
+Snapshot ID: `MTY2MzYxNDY0MSwwMDAwMDAwMDdlMWM3ZDBmNThkZjIyYzhkMmRhYWNiZmI3ZjE4Yzli`

@@ -1,12 +1,12 @@
 {
   "description": "Chillout to the coolest Korean acoustic tunes. (Cover: \b JEONG SEWOON(\uc815\uc138\uc6b4)) (\uac10\ubbf8\ub86d\uace0 \ubd80\ub4dc\ub7ec\uc6b4 \ud55c\uad6d \uc5b4\ucfe0\uc2a4\ud2f1 \uc74c\uc545\uacfc \ud568\uaed8\ud558\uc138\uc694.)",
-  "num_followers": 223779,
+  "num_followers": 223809,
   "original_name": "K-Pop Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjM5MjUwMywwMDAwMDAwMDI5MjQ3NjdiNjgwODNhYTQyOGFmNzc3ODQxNDg5MjU3",
+  "snapshot_id": "MTY2MjM5MjUwMywwMDAwMDAwMGFiY2RjMjQ3NjVhNjY5YmQ2OWE5MDc2YTgzYTRmNjNi",
   "tracks": [
     {
       "added_at": "2022-09-05 15:41:43",
@@ -307,26 +307,6 @@
     {
       "added_at": "2022-09-05 15:41:43",
       "album": {
-        "name": "Chancellor",
-        "url": "https://open.spotify.com/album/5Jw4ohSYaEuxyOeIOR47Hq"
-      },
-      "artists": [
-        {
-          "name": "Chancellor",
-          "url": "https://open.spotify.com/artist/0u06YeydlBk3awnk5KgdBx"
-        },
-        {
-          "name": "Younha",
-          "url": "https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS"
-        }
-      ],
-      "duration_ms": 248906,
-      "name": "Walking In The Rain (feat. Younha)",
-      "url": "https://open.spotify.com/track/3cJ520R7Pwav2xrQUHCcZo"
-    },
-    {
-      "added_at": "2022-09-05 15:41:43",
-      "album": {
         "name": "Modern Times \u2013 Epilogue",
         "url": "https://open.spotify.com/album/56MqewtCUq5bplrqEYTVL0"
       },
@@ -343,6 +323,26 @@
       "duration_ms": 217129,
       "name": "Friday (feat.Jang Yi-jeong)",
       "url": "https://open.spotify.com/track/0GsRx0gPft6RmijIwMsKmG"
+    },
+    {
+      "added_at": "2022-09-05 15:41:43",
+      "album": {
+        "name": "Chancellor",
+        "url": "https://open.spotify.com/album/5Jw4ohSYaEuxyOeIOR47Hq"
+      },
+      "artists": [
+        {
+          "name": "Chancellor",
+          "url": "https://open.spotify.com/artist/0u06YeydlBk3awnk5KgdBx"
+        },
+        {
+          "name": "Younha",
+          "url": "https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS"
+        }
+      ],
+      "duration_ms": 248906,
+      "name": "Walking In The Rain (feat. Younha)",
+      "url": "https://open.spotify.com/track/3cJ520R7Pwav2xrQUHCcZo"
     },
     {
       "added_at": "2022-09-05 15:41:43",
@@ -455,18 +455,18 @@
     {
       "added_at": "2022-09-05 15:41:43",
       "album": {
-        "name": "Tomorrow - SM STATION",
-        "url": "https://open.spotify.com/album/5sPtM10mGhGGEUIkTkNMhm"
+        "name": "IU 5th Album 'LILAC'",
+        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
       },
       "artists": [
         {
-          "name": "CHANYEOL",
-          "url": "https://open.spotify.com/artist/6jV25rzTKQ2zMgrqHha1V5"
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
         }
       ],
-      "duration_ms": 145360,
-      "name": "Tomorrow",
-      "url": "https://open.spotify.com/track/1kOIM9LKyTlqdtsLRS7RUR"
+      "duration_ms": 229573,
+      "name": "Epilogue",
+      "url": "https://open.spotify.com/track/6rcwrRWKyjaFyUL8b8GlIJ"
     },
     {
       "added_at": "2022-09-05 15:41:43",
@@ -487,18 +487,18 @@
     {
       "added_at": "2022-09-05 15:41:43",
       "album": {
-        "name": "IU 5th Album 'LILAC'",
-        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
+        "name": "Tomorrow - SM STATION",
+        "url": "https://open.spotify.com/album/5sPtM10mGhGGEUIkTkNMhm"
       },
       "artists": [
         {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+          "name": "CHANYEOL",
+          "url": "https://open.spotify.com/artist/6jV25rzTKQ2zMgrqHha1V5"
         }
       ],
-      "duration_ms": 229573,
-      "name": "Epilogue",
-      "url": "https://open.spotify.com/track/6rcwrRWKyjaFyUL8b8GlIJ"
+      "duration_ms": 145360,
+      "name": "Tomorrow",
+      "url": "https://open.spotify.com/track/1kOIM9LKyTlqdtsLRS7RUR"
     },
     {
       "added_at": "2022-09-05 15:41:43",
@@ -539,22 +539,6 @@
     {
       "added_at": "2022-09-05 15:41:43",
       "album": {
-        "name": "Our Blues, Pt. 8 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/7HGYMEqDL4pBarAVmpQDho"
-      },
-      "artists": [
-        {
-          "name": "STAYC",
-          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
-        }
-      ],
-      "duration_ms": 257471,
-      "name": "STAR",
-      "url": "https://open.spotify.com/track/0DZ2mMWPkgDwWBnH6gtsQW"
-    },
-    {
-      "added_at": "2022-09-05 15:41:43",
-      "album": {
         "name": "Paint",
         "url": "https://open.spotify.com/album/5jxRZ8YZanMKXowrQVYf3A"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 188196,
       "name": "Paint",
       "url": "https://open.spotify.com/track/4lthTadTs7WMkpn9w2krk4"
+    },
+    {
+      "added_at": "2022-09-05 15:41:43",
+      "album": {
+        "name": "Our Blues, Pt. 8 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/7HGYMEqDL4pBarAVmpQDho"
+      },
+      "artists": [
+        {
+          "name": "STAYC",
+          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+        }
+      ],
+      "duration_ms": 257471,
+      "name": "STAR",
+      "url": "https://open.spotify.com/track/0DZ2mMWPkgDwWBnH6gtsQW"
     },
     {
       "added_at": "2022-09-05 15:41:43",
@@ -847,22 +847,6 @@
     {
       "added_at": "2022-09-05 15:41:43",
       "album": {
-        "name": "Uncontrollably Fond OST Part.14",
-        "url": "https://open.spotify.com/album/7x0gVxvOhrQZKTFuWVkAlh"
-      },
-      "artists": [
-        {
-          "name": "New Empire",
-          "url": "https://open.spotify.com/artist/5iVjA1Of8CIToe69eg3EUQ"
-        }
-      ],
-      "duration_ms": 206854,
-      "name": "A Little Braver",
-      "url": "https://open.spotify.com/track/2ekUnvuL7fclPdPK28kwDH"
-    },
-    {
-      "added_at": "2022-09-05 15:41:43",
-      "album": {
         "name": "H_ello?",
         "url": "https://open.spotify.com/album/6jfjO5f2SuzkXZHlE7pH4B"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 223200,
       "name": "I want to be a pillow",
       "url": "https://open.spotify.com/track/5lDeH3wAzJ1YnBYDPL6NYk"
+    },
+    {
+      "added_at": "2022-09-05 15:41:43",
+      "album": {
+        "name": "Uncontrollably Fond OST Part.14",
+        "url": "https://open.spotify.com/album/7x0gVxvOhrQZKTFuWVkAlh"
+      },
+      "artists": [
+        {
+          "name": "New Empire",
+          "url": "https://open.spotify.com/artist/5iVjA1Of8CIToe69eg3EUQ"
+        }
+      ],
+      "duration_ms": 206854,
+      "name": "A Little Braver",
+      "url": "https://open.spotify.com/track/2ekUnvuL7fclPdPK28kwDH"
     },
     {
       "added_at": "2022-09-05 15:41:43",

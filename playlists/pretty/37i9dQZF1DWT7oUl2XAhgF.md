@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 
 > A new take on a classic sound\. Cover: Jalen Ngonda
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,145 likes - 70 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,476 likes - 70 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 | 35 | [Free](https://open.spotify.com/track/0yyTUTW3QCekpMvFJi3f2f) | [Otis Kane](https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl) | [Free](https://open.spotify.com/album/1aM7FK3fr3L00Y3q79TXns) | 2:46 |
 | 36 | [Love Again](https://open.spotify.com/track/1rbykFoRXzj8yEG1Wyu6FC) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Matters of the Heart](https://open.spotify.com/album/1vA0EaXRAYS09mishgGhJa) | 3:30 |
 | 37 | [Piece Of Me](https://open.spotify.com/track/63hmrFUS4mvbiWzFP9u2LK) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Piece of Me](https://open.spotify.com/album/6YZfQdeTTIIkPUEAFmXvMB) | 3:44 |
-| 38 | [Mrs.](https://open.spotify.com/track/2R4O7MgIrN35QXnyLKMFVl) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing](https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8) | 4:02 |
-| 39 | [Consider Me](https://open.spotify.com/track/6eA8pANu9ryDcoTTe5myKk) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Building Balance](https://open.spotify.com/album/2vExIljZtXXu7wRRENGGwy) | 3:04 |
+| 38 | [Consider Me](https://open.spotify.com/track/6eA8pANu9ryDcoTTe5myKk) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Building Balance](https://open.spotify.com/album/2vExIljZtXXu7wRRENGGwy) | 3:04 |
+| 39 | [Mrs.](https://open.spotify.com/track/2R4O7MgIrN35QXnyLKMFVl) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing](https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8) | 4:02 |
 | 40 | [Stay Away](https://open.spotify.com/track/4ml0940tmn92PzmkSb2lwU) | [Charles Bradley](https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf), [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp) | [No Time For Dreaming](https://open.spotify.com/album/6llfJp31mi9r7swqmSAwuK) | 3:11 |
 | 41 | [Don’t You Know](https://open.spotify.com/track/0jecTSpHjOy5CyqEdfod5c) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP) | [American Love Call](https://open.spotify.com/album/7FU0CDJvPwKDWRXtHYcsoY) | 3:20 |
 | 42 | [Do You Wanna Do Nothing with Me?](https://open.spotify.com/track/2M7UdnD0fEaryh8TnCvqFX) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [Breakfast](https://open.spotify.com/album/7zRCJCgUmYNYZvTJDTRItd) | 4:11 |
@@ -68,15 +68,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 | 58 | [Through It All](https://open.spotify.com/track/65vtwc4JSGhKZJTV0Nhs3W) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Piece of Me](https://open.spotify.com/album/6YZfQdeTTIIkPUEAFmXvMB) | 3:24 |
 | 59 | [Good Man](https://open.spotify.com/track/5KfKnJVNXZoohjeSA6hw8e) | [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Don't Forget to Look Up](https://open.spotify.com/album/5tjk1ytGtD0o0uSS52VkeK) | 3:30 |
 | 60 | [Good, Better, Best](https://open.spotify.com/track/5xJ2iRDQ7jKJl2DLsYJPYD) | [Swamp Dogg](https://open.spotify.com/artist/6ZEUa75BqZkvpjhuVzCsdX) | [Sorry You Couldn't Make It](https://open.spotify.com/album/2p5pkNlYTEAzPdNdLHLMlP) | 2:50 |
-| 61 | [It Rains Love](https://open.spotify.com/track/2axJJQBO4KbFsx0Twvb8mn) | [Lee Fields & The Expressions](https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K) | [It Rains Love](https://open.spotify.com/album/6sPPhqjKQHveRVqR6Ijf8s) | 3:55 |
-| 62 | [Trade of Hearts](https://open.spotify.com/track/6p2uzqM9QqCVxXhs2A9rBN) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Thee Sacred Souls](https://open.spotify.com/album/0UKT9me1zkVDmah2MjmCma) | 2:54 |
-| 63 | [Human \(feat\. Vince Harder & Louis Baker\)](https://open.spotify.com/track/7d6YmH9igGf2l809Os6hB2) | [Stan Walker](https://open.spotify.com/artist/7fRw4ouudxR1jHgyrTIKuY), [Vince Harder](https://open.spotify.com/artist/3sQWafIIB2nfCc9hR9Ng6M), [Louis Baker](https://open.spotify.com/artist/6cKB91cRebrHboAUTx5uUy) | [Human \(feat\. Vince Harder & Louis Baker\)](https://open.spotify.com/album/1OR9HNKkrsXXDyY5u98HYD) | 3:16 |
-| 64 | [Love To Last](https://open.spotify.com/track/492FG3XeaSPRftcsu8vD9k) | [Hajaj](https://open.spotify.com/artist/08yjRkGm8KNsShKjtbEmt6) | [Last Call For Coco](https://open.spotify.com/album/1dpef92yGV81tOPHCzFWeU) | 2:43 |
+| 61 | [Trade of Hearts](https://open.spotify.com/track/6p2uzqM9QqCVxXhs2A9rBN) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Thee Sacred Souls](https://open.spotify.com/album/0UKT9me1zkVDmah2MjmCma) | 2:54 |
+| 62 | [It Rains Love](https://open.spotify.com/track/2axJJQBO4KbFsx0Twvb8mn) | [Lee Fields & The Expressions](https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K) | [It Rains Love](https://open.spotify.com/album/6sPPhqjKQHveRVqR6Ijf8s) | 3:55 |
+| 63 | [Love To Last](https://open.spotify.com/track/492FG3XeaSPRftcsu8vD9k) | [Hajaj](https://open.spotify.com/artist/08yjRkGm8KNsShKjtbEmt6) | [Last Call For Coco](https://open.spotify.com/album/1dpef92yGV81tOPHCzFWeU) | 2:43 |
+| 64 | [Human \(feat\. Vince Harder & Louis Baker\)](https://open.spotify.com/track/7d6YmH9igGf2l809Os6hB2) | [Stan Walker](https://open.spotify.com/artist/7fRw4ouudxR1jHgyrTIKuY), [Vince Harder](https://open.spotify.com/artist/3sQWafIIB2nfCc9hR9Ng6M), [Louis Baker](https://open.spotify.com/artist/6cKB91cRebrHboAUTx5uUy) | [Human \(feat\. Vince Harder & Louis Baker\)](https://open.spotify.com/album/1OR9HNKkrsXXDyY5u98HYD) | 3:16 |
 | 65 | [Sage Motel](https://open.spotify.com/track/0AmK67QC3fhZYvFw74f0fD) | [Monophonics](https://open.spotify.com/artist/6LXZac7iBIZgnNrywTkQRw), [Kelly Finnigan](https://open.spotify.com/artist/0gdEDrF1Fve7FIBYcmX7W4) | [Sage Motel](https://open.spotify.com/album/7J428fRkJYE2u9p2hjrOo9) | 3:52 |
 | 66 | [Don't Stop](https://open.spotify.com/track/5KZqapwQzE9ss8V5uzy50q) | [Sonny Cleveland](https://open.spotify.com/artist/068h66CFkNBvqw5SaIQ3ZA) | [Gold](https://open.spotify.com/album/0I3HXcGWFhDJR5ENzDYZ9r) | 2:42 |
 | 67 | [Dreams](https://open.spotify.com/track/1Wntxxt7R2mwfa4bDfAa5h) | [Common Saints](https://open.spotify.com/artist/5UA8O7xDhZ74ebRYT0XOxB) | [Starchild](https://open.spotify.com/album/3qnWQRiiv8upClnaeZHTPx) | 3:51 |
 | 68 | [Under The Sun](https://open.spotify.com/track/2RX7oNugjq7hYgWW0yhqQv) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Piece of Me](https://open.spotify.com/album/6YZfQdeTTIIkPUEAFmXvMB) | 3:21 |
 | 69 | [I Miss You Baby, Pt\. 1](https://open.spotify.com/track/3Jf2y674Wnhjz2RwPRsp84) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk) | [I Miss You Baby, Pt\. 1](https://open.spotify.com/album/46INZCbg8BTR4f66KzhzHF) | 4:04 |
-| 70 | [hey rose](https://open.spotify.com/track/6J4et4u2ECB9AH2QC9B5tg) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [aloha](https://open.spotify.com/album/3rioHzbE7RDGbgxzg9uFNd) | 2:55 |
+| 70 | [California Wine](https://open.spotify.com/track/1HtLKqdCmOmM3zQxBzueUI) | [Quinn Devlin](https://open.spotify.com/artist/1a18ASCKBGTJJ95oIl7M5J) | [California Wine](https://open.spotify.com/album/6pPCScZ1pajucY9zcPEYje) | 3:07 |
 
-Snapshot ID: `MTY2MzMwMDgwMCwwMDAwMDAwMGFiOGVmMTgxYjQ0MTk4MjQwZDgxZGU5OTU1NWQ5Mjlh`
+Snapshot ID: `MTY2MzMwMDgwMCwwMDAwMDAwMDEyOGI1YjdmMTg0NmVlZDg4YzJiMzRjNWM1Y2M5ZTNm`

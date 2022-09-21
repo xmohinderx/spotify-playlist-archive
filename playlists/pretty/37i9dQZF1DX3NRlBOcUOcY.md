@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NRlBOcUOcY.md) - [plain]
 
 > Good vibes only! Aquí solo hay buena vibra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 442,936 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 442,953 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NRlBOcUOcY.md) - [plain]
 | 85 | [Noche en LA](https://open.spotify.com/track/1FLiL8ETgtjbWOWrlLwLVS) | [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8), [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [Noche en LA](https://open.spotify.com/album/7tusQcdm6cndTKQUwtK7Iw) | 3:29 |
 | 86 | [atravesao](https://open.spotify.com/track/00HU2RYUeBcOVJPbdOtdJ2) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [atravesao](https://open.spotify.com/album/2NQf4yrGL2SCUFvOYIKdFr) | 3:20 |
 | 87 | [El Carnaval De Celia: A Tribute \(La Vida es un Carnaval / La Negra Tiene Tumbao / Rie y Llora\)](https://open.spotify.com/track/0Upe0FIOS01lwUu7d4WSrR) | [KYEN?ES?](https://open.spotify.com/artist/7clZc3rkBtBtHiZtwmkXXx) | [El Carnaval De Celia: A Tribute \(La Vida es un Carnaval / La Negra Tiene Tumbao / Rie y Llora\)](https://open.spotify.com/album/3lzryn2k5cSfBNzivYMJCT) | 3:06 |
-| 88 | [CHASING THE SUN](https://open.spotify.com/track/4ld5JAPiiU0O4smQ0j4pAd) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [FINAL \(Vol.1\)](https://open.spotify.com/album/61a4XyIj98CGrUnKy8Hu4Z) | 2:31 |
-| 89 | [Me Tienes](https://open.spotify.com/track/6gOsbSsolvkGLvalNpIQ1O) | [õndas](https://open.spotify.com/artist/2C5bspfGva39DUPg5ZYJ4p) | [Me Tienes](https://open.spotify.com/album/4FKgvX4aa1XS0VLAjV4vrS) | 3:03 |
+| 88 | [Me Tienes](https://open.spotify.com/track/6gOsbSsolvkGLvalNpIQ1O) | [õndas](https://open.spotify.com/artist/2C5bspfGva39DUPg5ZYJ4p) | [Me Tienes](https://open.spotify.com/album/4FKgvX4aa1XS0VLAjV4vrS) | 3:03 |
+| 89 | [CHASING THE SUN](https://open.spotify.com/track/4ld5JAPiiU0O4smQ0j4pAd) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [FINAL \(Vol.1\)](https://open.spotify.com/album/61a4XyIj98CGrUnKy8Hu4Z) | 2:31 |
 | 90 | [Otra Vez](https://open.spotify.com/track/5iwezY285OvcvpWZ5DOwHc) | [Chavi Leons](https://open.spotify.com/artist/2NpvOJUmcKkw4BEVsVbUcx) | [Otra Vez](https://open.spotify.com/album/1b50tBHDr0LWi7GAOHPwey) | 2:30 |
 | 91 | [Calor](https://open.spotify.com/track/4YGFWYHhXfCmZ3zOC22AyT) | [Chesca](https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP) | [Calor](https://open.spotify.com/album/7gWwq96ivfK76zTC8howhG) | 2:34 |
 | 92 | [Poema](https://open.spotify.com/track/4ki07OxnhAu6PT5iViZxye) | [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM) | [Flow Romántico](https://open.spotify.com/album/4r0PI0BKDrDhftCfvFjxWT) | 2:35 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NRlBOcUOcY.md) - [plain]
 | 99 | [Bad Kiss](https://open.spotify.com/track/1pXdYW93QYTfReu4hhXozQ) | [Samantha Sánchez](https://open.spotify.com/artist/1GhW0GVy12AcLQc5kA14PJ) | [Bad Kiss](https://open.spotify.com/album/6k9wPtpVp9mfAOwp56g5LJ) | 2:22 |
 | 100 | [I've Seen Better Days](https://open.spotify.com/track/0c6I474Mfy2VEDD80Yinhi) | [jame minogue](https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck) | [I've Seen Better Days](https://open.spotify.com/album/7mYHrBhLey9y1r5TpL05cL) | 3:04 |
 
-Snapshot ID: `MTY2MjQ4MDYxNCwwMDAwMDAwMGI0NDZhMTdhODVlMTRlMjA3OWEzN2RmNzYwZjUyZjVm`
+Snapshot ID: `MTY2MjQ4MDYxNCwwMDAwMDAwMGI0ZDk1Yjk3NTdiYjAwYjM4YWFjZThhZmY1NTI3NGQ3`

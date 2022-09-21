@@ -4,7 +4,7 @@
 
 > Most adored pop hits from the Middle East and North Africa\. Cover: Wael Kfoury
 
-99 songs - 5 hr 58 min - [published](https://open.spotify.com/playlist/3oCJHmm7pEXb9N40JMypnM)
+100 songs - 6 hr 2 min - [published](https://open.spotify.com/playlist/3oCJHmm7pEXb9N40JMypnM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,7 @@
 | [Sa'af](https://open.spotify.com/track/2KBVedkyvdFdbm2AQOBTYM) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [Sa'af](https://open.spotify.com/album/1R2gySJizByGXC2rLdVE7X) | 3:36 | 2022-05-04 | 2022-07-13 |
 | [Saaba](https://open.spotify.com/track/3SZ3zSiJynzOAXYqwQqXeG) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [Saaba](https://open.spotify.com/album/2ZSFVfGQxDQvUvha7Vze6j) | 3:01 | 2022-05-04 |  |
 | [Sabra](https://open.spotify.com/track/0iqRTNFvfLZUjdkIBaJkVS) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Sabra](https://open.spotify.com/album/7DTt8yVftsh8Gi0opaE74z) | 3:43 | 2022-05-04 |  |
-| [Saheb Elgmal](https://open.spotify.com/track/7mVS4YxLT7IT2Ao4K7iIEo) | [Haytham Shaker](https://open.spotify.com/artist/6qRALpme6YIgJ8jWM2D0G2) | [صاحب الجمال](https://open.spotify.com/album/2eHo5yU1pR9oRmAbS6Ql41) | 3:35 | 2022-05-04 |  |
+| [Saheb Elgmal](https://open.spotify.com/track/7mVS4YxLT7IT2Ao4K7iIEo) | [Haytham Shaker](https://open.spotify.com/artist/6qRALpme6YIgJ8jWM2D0G2) | [صاحب الجمال](https://open.spotify.com/album/2eHo5yU1pR9oRmAbS6Ql41) | 3:35 | 2022-05-04 | 2022-09-21 |
 | [Sahran](https://open.spotify.com/track/1VPjnnkxsxXdgaIbH2dhnq) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Sahran](https://open.spotify.com/album/08fHah0PYjQwfoqIis8y84) | 4:46 | 2022-05-04 | 2022-06-07 |
 | [Ser Alsada \( Mountain View\)](https://open.spotify.com/track/1b4eTrznDOiLZX2oWisl2m) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Ser Alsada \( Mountain View\)](https://open.spotify.com/album/7ihocihukbewYHZZBzfk8c) | 3:50 | 2022-05-04 |  |
 | [Set El Kel](https://open.spotify.com/track/5AkcsVLzhVBC22ZiXcPTu6) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [Set El Kel](https://open.spotify.com/album/2ctVSYPczKZ6uQGW4Pfd4s) | 3:18 | 2022-08-09 |  |
@@ -106,6 +106,7 @@
 | [باشا باشا](https://open.spotify.com/track/5u6I8MExcbewu6VcSnI1Sc) | [ِEmad Basha](https://open.spotify.com/artist/4oYGyyjjeg3AJofnWGjqR6) | [باشا باشا](https://open.spotify.com/album/3s2sywrjEFwOK8xewRebzc) | 4:09 | 2022-05-04 |  |
 | [بتوحشيني](https://open.spotify.com/track/5JAf3OAFDSrQ3MHonCo69E) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [بتوحشيني](https://open.spotify.com/album/55mOWoEYw3i3WAMF23O5rg) | 3:53 | 2022-05-04 | 2022-07-15 |
 | [زهرة حالة حلوة \(مع ميريام فارس و اسر ياسين\)](https://open.spotify.com/track/6AZzs7g85UpFDJUTKwLzgo) | [Memaar Al Morshedy](https://open.spotify.com/artist/6YNhk9uSHg8MTtdwNjhh6d) | [زهرة حالة حلوة \(مع ميريام فارس و اسر ياسين\)](https://open.spotify.com/album/7g0oVx8s5TOZKU4hIwmpsG) | 2:04 | 2022-05-04 | 2022-07-29 |
+| [طمنوني](https://open.spotify.com/track/0v3mouuIIh0XrzN6vmYI1v) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB), [Asmaa Elgamal](https://open.spotify.com/artist/2Y8SZOvkkfWMs6TKUP8Kit) | [طمنوني](https://open.spotify.com/album/2F2YUKy3j4nH2Nm6B5RfrA) | 4:19 | 2022-09-20 |  |
 | [نهارنا وردي](https://open.spotify.com/track/1AZELIVj9dbzculbZXocRS) | [Maya Diab](https://open.spotify.com/artist/4b5UHpUmrPycvsgu2M3ujz) | [نهارنا وردي](https://open.spotify.com/album/02l1jHBJrh68fU2kaiM8V7) | 3:09 | 2022-05-04 | 2022-07-10 |
 
 \*This playlist was first scraped on 2022-05-13. Prior content cannot be recovered.

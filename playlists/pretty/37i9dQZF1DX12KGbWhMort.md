@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX12KGbWhMort.md) - [plain]
 
 > Dale play, y que el amor no pare.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,176 likes - 100 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,293 likes - 100 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,19 +35,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX12KGbWhMort.md) - [plain]
 | 25 | [Tan enamorados](https://open.spotify.com/track/5kxol5m6MfiJgahqyzbDRH) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Ricardo Montaner Con La London Metropolitan Orchestra](https://open.spotify.com/album/7dI1jAbtx6nFn2rcQKVPFE) | 4:49 |
 | 26 | [Algo Contigo](https://open.spotify.com/track/4zsDA31stWMtLveU61hejd) | [Vicentico](https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ) | [Vicentico](https://open.spotify.com/album/6Qt9Yiol5QcAEeKPyIQafo) | 3:38 |
 | 27 | [Tú](https://open.spotify.com/track/6ZEVQ2whiJvhjCNAOJ0DC3) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Donde Estan Los Ladrones](https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe) | 3:34 |
-| 28 | [Azul](https://open.spotify.com/track/6pHCJmx9FXnMwEqB0LWUEH) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Grandes Hits](https://open.spotify.com/album/6Q2UpW0s9cDeZ59bCd5CYL) | 4:19 |
-| 29 | [Hoy Tengo Ganas De Ti](https://open.spotify.com/track/0qO4GfXADY9QfgcgtrasT9) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9), [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Confidencias](https://open.spotify.com/album/3g2uS0IsIdaKqRiBSFrbBk) | 4:51 |
+| 28 | [Hoy Tengo Ganas De Ti](https://open.spotify.com/track/0qO4GfXADY9QfgcgtrasT9) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9), [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Confidencias](https://open.spotify.com/album/3g2uS0IsIdaKqRiBSFrbBk) | 4:51 |
+| 29 | [Azul](https://open.spotify.com/track/6pHCJmx9FXnMwEqB0LWUEH) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Grandes Hits](https://open.spotify.com/album/6Q2UpW0s9cDeZ59bCd5CYL) | 4:19 |
 | 30 | [Otra Como Tu](https://open.spotify.com/track/2cSXotAohYx0EWCNljCzs7) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Todo Historias](https://open.spotify.com/album/6nWZLgTAuIgulKZcJxgsg4) | 4:41 |
 | 31 | [Entrégate](https://open.spotify.com/track/5fj3zNkXfOlrJGVcZBId6D) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [20 Años](https://open.spotify.com/album/3D9NENGfg4DFmYJrEaxRHd) | 4:23 |
 | 32 | [No Me Doy Por Vencido](https://open.spotify.com/track/4lerOTNr2tFWJCAmmhymhi) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Palabras Del Silencio \(Edición Aniversario \- Un Año Despues\)](https://open.spotify.com/album/5gCxcHCAA50nboku1ks180) | 3:59 |
 | 33 | [Un Siglo Sin Ti](https://open.spotify.com/track/5NSJ0qoxwbO26tVvqpL4N2) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Chayanne](https://open.spotify.com/album/51dg2LdYMIVQqCuUBlfQsN) | 4:41 |
 | 34 | [Vuelve](https://open.spotify.com/track/3OK8WgNRmp4F3ahXe6XX6l) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Vuelve](https://open.spotify.com/album/3B7djG7pr1PycUJiWW6NQL) | 5:07 |
-| 35 | [Inmortal](https://open.spotify.com/track/2swZ0X1njeU32SNJeBKIfW) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [Utopia](https://open.spotify.com/album/1yM8iaMk4Slsqr94LabgN1) | 4:16 |
-| 36 | [Fotografía](https://open.spotify.com/track/0dEPlb8waIqRtKpLb3l6So) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Un Día Normal](https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1) | 3:58 |
+| 35 | [Fotografía](https://open.spotify.com/track/0dEPlb8waIqRtKpLb3l6So) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Un Día Normal](https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1) | 3:58 |
+| 36 | [Inmortal](https://open.spotify.com/track/2swZ0X1njeU32SNJeBKIfW) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [Utopia](https://open.spotify.com/album/1yM8iaMk4Slsqr94LabgN1) | 4:16 |
 | 37 | [Ojalá](https://open.spotify.com/track/75KrTLbcLWgCcldZGxZR12) | [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl) | [Prisma](https://open.spotify.com/album/3p9YnUYZyns6PGxTbKeLFq) | 3:38 |
-| 38 | [Lloviendo Estrellas](https://open.spotify.com/track/5b00r2xveYfVIOExZJJ395) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Grandes Hits](https://open.spotify.com/album/6Q2UpW0s9cDeZ59bCd5CYL) | 4:16 |
-| 39 | [Y Cómo Es El](https://open.spotify.com/track/3h8KGJn9UFX2cfjN78iMVF) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Iconos](https://open.spotify.com/album/5SGUCNeCuGHbR73Iyh2F7g) | 4:00 |
-| 40 | [Devuélveme El Corazón](https://open.spotify.com/track/7etlF1zMxJbiaeQrXYh0PY) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [MANTRA](https://open.spotify.com/album/1l1zcI8iwJg4WCb7jxHtbN) | 4:03 |
+| 38 | [Devuélveme El Corazón](https://open.spotify.com/track/7etlF1zMxJbiaeQrXYh0PY) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [MANTRA](https://open.spotify.com/album/1l1zcI8iwJg4WCb7jxHtbN) | 4:03 |
+| 39 | [Lloviendo Estrellas](https://open.spotify.com/track/5b00r2xveYfVIOExZJJ395) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Grandes Hits](https://open.spotify.com/album/6Q2UpW0s9cDeZ59bCd5CYL) | 4:16 |
+| 40 | [Y Cómo Es El](https://open.spotify.com/track/3h8KGJn9UFX2cfjN78iMVF) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Iconos](https://open.spotify.com/album/5SGUCNeCuGHbR73Iyh2F7g) | 4:00 |
 | 41 | [Labios Compartidos](https://open.spotify.com/track/4C2zOFgrXxfNGNpYQWIcaH) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [Amar Es Combatir](https://open.spotify.com/album/6XrpkEuQyfilUHMduKDeuB) | 5:17 |
 | 42 | [Sin miedo a nada \(feat\. Amaia Montero\)](https://open.spotify.com/track/02bKaAG61tMw9c63fzKXal) | [Alex Ubago](https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X), [Amaia Montero](https://open.spotify.com/artist/4LbuSjHhhAddvN44qXpRJo) | [¿Qué pides tú? \(Argentina\)](https://open.spotify.com/album/7cJiLvzLDaEhi2K4pfPYjl) | 5:10 |
 | 43 | [Oye](https://open.spotify.com/track/09nSCeCs6eYfAIJVfye1CE) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Oye](https://open.spotify.com/album/1xwUFsb21qbGugy09vdd7O) | 2:53 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX12KGbWhMort.md) - [plain]
 | 80 | [Seré](https://open.spotify.com/track/50M1kLXHo81fX9puNdB5ER) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Tu Mano](https://open.spotify.com/album/0ofPx6C6bKrF23aZbDwbLR) | 4:09 |
 | 81 | [De Enero a Enero](https://open.spotify.com/track/1UQw9rjhed1P8vNxNWJ0tR) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Sabroso](https://open.spotify.com/album/7Bw4f5B4VlYURukRFjBov0) | 3:10 |
 | 82 | [Me Muero de Amor](https://open.spotify.com/track/43RkmILnITcWx7i95eoNVm) | [Natalia Oreiro](https://open.spotify.com/artist/0Uit4gta4PrT7HvUe8W2Xo) | [Natalia Oreiro](https://open.spotify.com/album/6Bsk9AwFOjCe81mq6OvMKo) | 3:53 |
-| 83 | [Perdóname](https://open.spotify.com/track/63I0BWAZ6HxEoiR18ZEmAn) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [A Quien Quiera Escuchar \(Deluxe Edition\)](https://open.spotify.com/album/375cUd86z58eqXN2yW3Do9) | 4:00 |
-| 84 | [Con La Miel En Los Labios](https://open.spotify.com/track/5VOPzPBHcubxHK1BEru2G5) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Con La Miel En Los Labios](https://open.spotify.com/album/4pIf4sqEVKaTjXUgLsG6aD) | 3:22 |
+| 83 | [Con La Miel En Los Labios](https://open.spotify.com/track/5VOPzPBHcubxHK1BEru2G5) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Con La Miel En Los Labios](https://open.spotify.com/album/4pIf4sqEVKaTjXUgLsG6aD) | 3:22 |
+| 84 | [Perdóname](https://open.spotify.com/track/63I0BWAZ6HxEoiR18ZEmAn) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [A Quien Quiera Escuchar \(Deluxe Edition\)](https://open.spotify.com/album/375cUd86z58eqXN2yW3Do9) | 4:00 |
 | 85 | [Besos a la Lona](https://open.spotify.com/track/0p9zxloVaytLMbORCBMfwO) | [Melendi](https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4) | [Besos a la Lona](https://open.spotify.com/album/2OVkLEMcPk9LPdl4eza40X) | 4:06 |
 | 86 | [Mujer de las Mil Batallas](https://open.spotify.com/track/4CKNP0H3WEWQBSNGeOvjFU) | [Frank Reyes](https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ) | [Devuélveme Mi Libertad](https://open.spotify.com/album/2fde5WKTf4YilScZxEdd07) | 3:24 |
 | 87 | [Me Enamoré De Ti](https://open.spotify.com/track/3Vfqh883w3ydFU2wjMPxPp) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Me Enamore De Ti](https://open.spotify.com/album/1N1f6kovQCF1BzSoIIwWBY) | 4:41 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX12KGbWhMort.md) - [plain]
 | 99 | [Desde el Principio](https://open.spotify.com/track/2zQW4cVDdtx6ILz9rNdPLD) | [Franco De Vita](https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu) | [Libre](https://open.spotify.com/album/6gHHe4wRRfwGbhBTk7hDEx) | 3:04 |
 | 100 | [Lo Que Son las Cosas](https://open.spotify.com/track/6TanzeHh5Ffh5EP2AJnGD3) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Lo Que Son las Cosas](https://open.spotify.com/album/7LiVEl4UrNRnVAydhYjCfl) | 3:52 |
 
-Snapshot ID: `MTYzNDg3MTYwMCwwMDAwMDAwMDQzZWRjZDUzNmMxZmQ2ZjYzMWRmY2JmZjk1ZTQ5Njdm`
+Snapshot ID: `MTYzNDg3MTYwMCwwMDAwMDAwMDMwMjg4Zjk0OTgxZjJhYzljNmM1NDdmNTkwNWQ2YTUz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10zKzsJ2jva.md) - [plain]
 
 > Today's top Latin hits, elevando nuestra música\. Cover: Feid
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,543,789 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,547,109 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10zKzsJ2jva.md) - [plain]
 | 8 | [Los Cachos](https://open.spotify.com/track/5fhcuVxuBWfgNXGuyAtLmr) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Los Cachos](https://open.spotify.com/album/0SXW8l00nztnoYkGT7BjJh) | 3:32 |
 | 9 | [El Pañuelo](https://open.spotify.com/track/3c7H5RL3H6jFgDTbMxGBe9) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [El Pañuelo](https://open.spotify.com/album/6UHVdZCYgXo8xeSCw4RXp5) | 3:54 |
 | 10 | [Tití Me Preguntó](https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:03 |
-| 11 | [Ambulancia](https://open.spotify.com/track/5OPte07J5hRK1pTn0f7ldr) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [De Adentro Pa Afuera](https://open.spotify.com/album/1UTDgnpHmthIsdzSxbhpV2) | 3:32 |
-| 12 | [LOKERA](https://open.spotify.com/track/79HZAZNnOE97rb2hnI0XQr) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [LOKERA](https://open.spotify.com/album/4vJcqwIGUuk5TeP29OPovU) | 3:15 |
+| 11 | [LOKERA](https://open.spotify.com/track/79HZAZNnOE97rb2hnI0XQr) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [LOKERA](https://open.spotify.com/album/4vJcqwIGUuk5TeP29OPovU) | 3:15 |
+| 12 | [Aeropuerto](https://open.spotify.com/track/4v7riPZWyAclrOfUSwD0zp) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [De Adentro Pa Afuera](https://open.spotify.com/album/1UTDgnpHmthIsdzSxbhpV2) | 2:57 |
 | 13 | [Sin Fin](https://open.spotify.com/track/3qaHzxjNtFU7QiEuhGx70x) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Sin Fin](https://open.spotify.com/album/6bcsXfLlMTAWGWdWofzM2l) | 3:54 |
 | 14 | [cómo dormiste?](https://open.spotify.com/track/3fjN3y5x4hN53rykAN2LHQ) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [cómo dormiste?](https://open.spotify.com/album/2jt6z03JV7Ax8ZdlOrs9BK) | 1:52 |
 | 15 | [Mercedes Tintia](https://open.spotify.com/track/6e9Ew4AECYwY5Xgs2ZKMgp) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Mercedes Tintia](https://open.spotify.com/album/3Hp4KQN2Oib1HM5MO3Q69s) | 3:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10zKzsJ2jva.md) - [plain]
 | 49 | [Loco Por Perrearte \- Remix](https://open.spotify.com/track/0vHfVsEe6Ps0d8cZ9PGzSw) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Loco Por Perrearte \(Remix\)](https://open.spotify.com/album/6qLWzKEkkYEbHDIVXjrMBP) | 3:19 |
 | 50 | [GIVENCHY](https://open.spotify.com/track/6bTVP50bbtMtD6RGe2cUoQ) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [GIVENCHY](https://open.spotify.com/album/4yNnIoQh8y1uDB6ScOS2vx) | 3:02 |
 
-Snapshot ID: `MTY2MzU5OTc5OSwwMDAwMDAwMDNhMWQ5ODAxYzg0OGM5MjZkNDM3MDJmZDdhNGFmOTU1`
+Snapshot ID: `MTY2MzY4NjQzNSwwMDAwMDAwMDJlNTY4MDVlNGFlODg5YTQ0Njk4ZGQzZDA3OGNjYTFi`

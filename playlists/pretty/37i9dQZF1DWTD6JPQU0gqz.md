@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6JPQU0gqz.md) - [plain]
 
 > Celebrando a los músicos Afro\-Latinos\. Cover: Tego Calderon
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,815 likes - 77 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,812 likes - 77 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6JPQU0gqz.md) - [plain]
 | 51 | [Juana Kalamidad](https://open.spotify.com/track/4LAj0B7XK4lAmmI70kJsSC) | [Arianna Puello](https://open.spotify.com/artist/19Xm04ZiVtOB6J2Ti5vXhL) | [13 razones](https://open.spotify.com/album/4246XUQKkGAoJfz8zC9g8y) | 4:52 |
 | 52 | [Que Tengo Que Hacer](https://open.spotify.com/track/1tkwIX1dhNQZmkFKgucIgI) | [El Micha](https://open.spotify.com/artist/0d7jzRhjOifL8X9hxNvbEn), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Que Tengo Que Hacer](https://open.spotify.com/album/5nMt32SNGPGANwkPWVUWIF) | 3:48 |
 | 53 | [Caramelo](https://open.spotify.com/track/7HShBDHwZokDkH2qMEwqZ7) | [Lil Viic](https://open.spotify.com/artist/1wxP4p2fz72aCgmfymu0CZ), [Lennis Rodriguez](https://open.spotify.com/artist/4Rzu63KnqMsThOdfkrJk1Z) | [Caramelo](https://open.spotify.com/album/4gyoEgPnJ6yiZsazqXrucj) | 3:28 |
-| 54 | [Dormir Sola](https://open.spotify.com/track/5IJL0TAmAojNvWnNW5HRUd) | [Joyce Santana](https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX) | [A Quien Pueda Interesar](https://open.spotify.com/album/01ASF6lHKnCDcYOnVqxGTm) | 2:41 |
-| 55 | [Hey Mami](https://open.spotify.com/track/29DyVpcvZ8Sl5j9ROFXyz7) | [Mabiland](https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J) | [NIÑXS ROTXS](https://open.spotify.com/album/1XLeW2s0YvZSomXynkBKgm) | 3:26 |
+| 54 | [Hey Mami](https://open.spotify.com/track/29DyVpcvZ8Sl5j9ROFXyz7) | [Mabiland](https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J) | [NIÑXS ROTXS](https://open.spotify.com/album/1XLeW2s0YvZSomXynkBKgm) | 3:26 |
+| 55 | [Dormir Sola](https://open.spotify.com/track/5IJL0TAmAojNvWnNW5HRUd) | [Joyce Santana](https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX) | [A Quien Pueda Interesar](https://open.spotify.com/album/01ASF6lHKnCDcYOnVqxGTm) | 2:41 |
 | 56 | [No Vuelvas a Mí](https://open.spotify.com/track/0QtpKLa62AfLe5m0L2x3Gr) | [ChocQuibTown](https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z), [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu) | [ChocQuib House](https://open.spotify.com/album/4lcEaPygjuFuB4ON8i2Vj2) | 3:20 |
 | 57 | [Para Mi](https://open.spotify.com/track/4DW0XUPnGT6hWuJYZxErVX) | [Anmily Brown](https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT) | [Para Mi](https://open.spotify.com/album/4xALKUOR6fodvNlUKaOHti) | 3:37 |
 | 58 | [Afro Mambo](https://open.spotify.com/track/0wY0E2GIqSSH2WuoV9FBRM) | [Roberto Fonseca](https://open.spotify.com/artist/0Yi6vOMIP1cqp8WppadgOu) | [ABUC](https://open.spotify.com/album/7iNebsQzdjcj501Gd16Hzo) | 3:45 |
@@ -80,10 +80,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6JPQU0gqz.md) - [plain]
 | 70 | [Soy](https://open.spotify.com/track/6sBBmnwoII25pWOpy6TmLK) | [Luchy DR](https://open.spotify.com/artist/0SbiXy5hZuC7ZjOXNXygql) | [Lucky 7](https://open.spotify.com/album/3b2Zck8DtLyhMYxUgVDyho) | 3:16 |
 | 71 | [Mismo De Antes](https://open.spotify.com/track/0e3pNr8A7NEAb9ItjHLlfb) | [Los Rakas](https://open.spotify.com/artist/513odGmQbPb6hVERfJGeF0), [Akanni](https://open.spotify.com/artist/0wgIOP9UaikBczBsamAyFh), [Jay Fire](https://open.spotify.com/artist/1V3fm7z9TDaSA5JnfRaWUe), [The F](https://open.spotify.com/artist/12vv65YPMmM49KAsC1mnK5) | [Mismo De Antes](https://open.spotify.com/album/7K1G6hWjrZF7bJqMr4R1Tz) | 3:55 |
 | 72 | [Budy Bye](https://open.spotify.com/track/5U3IT5EsLJ71XUVXaaG5ds) | [Johnny Osbourne](https://open.spotify.com/artist/5TUTGRG0FlRoYTZ4GEdOVO) | [Sleng Teng Riddim](https://open.spotify.com/album/0yvN4eN3T0OZwPiVARh5ci) | 4:20 |
-| 73 | [Esa Flaca](https://open.spotify.com/track/2e0EnlrAtFtzo4q91sR38G) | [La Perversa](https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo), [Lirico En La Casa](https://open.spotify.com/artist/1Vr7DTbtTpOp4tn4hAGOYo) | [Esa Flaca](https://open.spotify.com/album/2k3ZEVpOgGtzuqxXK2PhvV) | 3:01 |
-| 74 | [Don't Unplug My Body](https://open.spotify.com/track/1nQ57qUxbC32K6zWEPlttu) | [Daymé Arocena](https://open.spotify.com/artist/6LcWO77VeIUPqNY22N3fI0) | [Nueva Era](https://open.spotify.com/album/1pj7w6r8Ae3bWJVOGB5gxW) | 4:58 |
+| 73 | [Don't Unplug My Body](https://open.spotify.com/track/1nQ57qUxbC32K6zWEPlttu) | [Daymé Arocena](https://open.spotify.com/artist/6LcWO77VeIUPqNY22N3fI0) | [Nueva Era](https://open.spotify.com/album/1pj7w6r8Ae3bWJVOGB5gxW) | 4:58 |
+| 74 | [Esa Flaca](https://open.spotify.com/track/2e0EnlrAtFtzo4q91sR38G) | [La Perversa](https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo), [Lirico En La Casa](https://open.spotify.com/artist/1Vr7DTbtTpOp4tn4hAGOYo) | [Esa Flaca](https://open.spotify.com/album/2k3ZEVpOgGtzuqxXK2PhvV) | 3:01 |
 | 75 | [Quimbara](https://open.spotify.com/track/73wEEHZH7sJwckufY0OEwb) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [50 éxitos de salsa cubana](https://open.spotify.com/album/1WT0tVPiWIRGjgpyTvHciX) | 4:53 |
 | 76 | [Latinos](https://open.spotify.com/track/5Ym38eMwTsm4P4aEEMlxlJ) | [Aldo Ranks](https://open.spotify.com/artist/0lsEtpjLWn4S7KBra82VG3) | [Latinos](https://open.spotify.com/album/4aRHR4cVo99A4Zp1XTgL30) | 3:31 |
 | 77 | [La rebelion](https://open.spotify.com/track/00Ro1lnV3V6i87aY4t8Q43) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg) | [Sabor a Salsa](https://open.spotify.com/album/4168LZnMKT5rgITtNBbo5z) | 6:16 |
 
-Snapshot ID: `MTY2MzA3NTI1NywwMDAwMDAwMGJjYWZmOGIwMDUyMDBlZWQxMmI0OGY3Mzg0ZWQ5MTM0`
+Snapshot ID: `MTY2MzA3NTI1NywwMDAwMDAwMDQwODdkNTk2MzM3YzVlZTRjYmUyNDNiZGQ2NjEwMmY1`

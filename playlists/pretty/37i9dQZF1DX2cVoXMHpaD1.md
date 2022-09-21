@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cVoXMHpaD1.md) - [plain]
 
 > It's been a great decade for K\-Pop\. Check it out! Cover: Super Junior
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,189 likes - 121 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,194 likes - 121 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cVoXMHpaD1.md) - [plain]
 | 44 | [Miniskirt](https://open.spotify.com/track/6Yj8kVuVR3UPxx9r5eFEoV) | [AOA](https://open.spotify.com/artist/54gWVQFHf8IIqbjxAoOarN) | [MINISKIRT](https://open.spotify.com/album/6esB2DBt46m38ZycDPsn8D) | 2:59 |
 | 45 | [This Love](https://open.spotify.com/track/0T5G5cJUwg3WnAiCVtClOs) | [SHINHWA](https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0) | [The Classic](https://open.spotify.com/album/1C0uqSZyf4EIBpx3qPK567) | 3:40 |
 | 46 | [Better Together](https://open.spotify.com/track/07BrAHEuDfgZ3mtHZyCa6u) | [SE7EN](https://open.spotify.com/artist/14yLuCwlBqteUdBqx9soJV) | [Digital Bounce](https://open.spotify.com/album/3o9MuNv5noRVl9IJL01BK6) | 3:38 |
-| 47 | [Erase](https://open.spotify.com/track/61wVRxT2l9NYgN2bbu8mzS) | [Hyolyn](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ), [Jooyoung](https://open.spotify.com/artist/1vct46rBqLNRbE9wCibXUH), [Iron](https://open.spotify.com/artist/42dy8y24lMURTr4RjATpYS) | [Erase](https://open.spotify.com/album/2xlOv4KlRfJBbKtPjrJFgr) | 3:48 |
+| 47 | [Erase \(feat.Iron\)](https://open.spotify.com/track/61wVRxT2l9NYgN2bbu8mzS) | [Hyolyn](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ), [Jooyoung](https://open.spotify.com/artist/1vct46rBqLNRbE9wCibXUH), [Iron](https://open.spotify.com/artist/42dy8y24lMURTr4RjATpYS) | [Erase](https://open.spotify.com/album/2xlOv4KlRfJBbKtPjrJFgr) | 3:48 |
 | 48 | [High High](https://open.spotify.com/track/00Luoss7SGaxzTEy94cfia) | [GD&TOP](https://open.spotify.com/artist/3e3oLJehq4vQl2H0FAJnvn) | [GD&TOP](https://open.spotify.com/album/6M11igFHxA92s2ks2uqu6F) | 3:06 |
 | 49 | [Rough](https://open.spotify.com/track/3CVeGXpoPKJQ9JuhPp3mpL) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [GFRIEND 3rd Mini Album 'SNOWFLAKE'](https://open.spotify.com/album/0COnSwFb5qOhABUyWNw6Kp) | 3:29 |
 | 50 | [If You Love Me](https://open.spotify.com/track/0Pa2q707CcPDrj8yO6Av16) | [NS Yoon\-G](https://open.spotify.com/artist/15EDMg4DaX49QQyxlBzC2f), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [If You Love Me](https://open.spotify.com/album/5797QjOLRyc2CAZkYV0tjY) | 3:18 |
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cVoXMHpaD1.md) - [plain]
 | 58 | [Far away… Young love](https://open.spotify.com/track/3sm4Y7jIMFIFsviVYo9xXr) | [C\-CLOWN](https://open.spotify.com/artist/5HBeCjZkFtwfLYD7X3kLwi) | [Young Love](https://open.spotify.com/album/5jWVvga8eohxe2jiYCZVp0) | 3:44 |
 | 59 | [We are a bit different](https://open.spotify.com/track/31vC4Lt8ZxmaKT5azztqOn) | [Evol](https://open.spotify.com/artist/3ACbVQlfUaW0Qm2DDe5T18) | [Let Me Explode](https://open.spotify.com/album/6V0GTRDWjwAdAHQPSKF0qO) | 3:37 |
 | 60 | [Punishment](https://open.spotify.com/track/4rjOI2OTEdql6ccXAH0aeQ) | [Roh Ji Hoon](https://open.spotify.com/artist/1prPVJQczG7kTTKCHFE2Rw) | [The Next Big Thing](https://open.spotify.com/album/4RVlJmqIsDAzlFy6hvjGjd) | 3:15 |
-| 61 | [I will get lost, you go your way \(feat\. Jun Hyung Yong\)](https://open.spotify.com/track/7tLzYnj0QjiUbYvl0G4xYn) | [G.NA](https://open.spotify.com/artist/3hzcooxMtbApMTvvn6XKVA), [Yong Jun Hyung](https://open.spotify.com/artist/4drjiBRSqZoTD67xgZCmNo) | [Black & White](https://open.spotify.com/album/0bmc5WouIbima9CO2owVnw) | 3:33 |
+| 61 | [I will get lost, you go your way \(Feat\. Jun Hyung Yong\)](https://open.spotify.com/track/7tLzYnj0QjiUbYvl0G4xYn) | [G.NA](https://open.spotify.com/artist/3hzcooxMtbApMTvvn6XKVA), [Yong Jun Hyung](https://open.spotify.com/artist/4drjiBRSqZoTD67xgZCmNo) | [Black & White](https://open.spotify.com/album/0bmc5WouIbima9CO2owVnw) | 3:33 |
 | 62 | [One Of A Kind](https://open.spotify.com/track/6CtYW6EWGMbfe96eqwCThq) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [One of a Kind](https://open.spotify.com/album/4EitCfNTOlnqtRrmBBuwGQ) | 3:25 |
 | 63 | [Bloom](https://open.spotify.com/track/3lcdPSfDGg11Qyimx2ONYH) | [Gain](https://open.spotify.com/artist/4R60A85t9mTZzCqJlVswuo) | [Talk about S.](https://open.spotify.com/album/0gVRGN17vkeY9z4mXiPr8i) | 3:47 |
 | 64 | [Severely](https://open.spotify.com/track/55IWnmlg29mY9EiLhH514C) | [FTISLAND](https://open.spotify.com/artist/6KhH771vq2X2Aom91nNzpZ) | [Grown\-Up](https://open.spotify.com/album/2sL1ldelPgWvckBsnI3wBx) | 4:10 |

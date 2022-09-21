@@ -1,12 +1,12 @@
 {
   "description": "Classic soft rock. For that free and easy feeling.",
-  "num_followers": 86942,
+  "num_followers": 87082,
   "original_name": "Free & Easy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2NzI2MCwwMDAwMDAwMDA3MmZkMzk1ZjcwY2U0OTQxM2E0NjU5YmQxMzk1MWIz",
+  "snapshot_id": "MTY1OTA2NzI2MCwwMDAwMDAwMGRmNjcyYjgwMWE0MDQyMWM5MmY0OTlkOWEwODQyNGUx",
   "tracks": [
     {
       "added_at": "2021-04-22 18:12:12",
@@ -543,22 +543,6 @@
     {
       "added_at": "2021-04-22 18:12:12",
       "album": {
-        "name": "Diamantina Cocktail (2010 Remaster)",
-        "url": "https://open.spotify.com/album/6CIFONNOVR9frrraKZpiPi"
-      },
-      "artists": [
-        {
-          "name": "Little River Band",
-          "url": "https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg"
-        }
-      ],
-      "duration_ms": 247506,
-      "name": "Help Is On Its Way - 2010 Digital Remaster",
-      "url": "https://open.spotify.com/track/64RnIqEMPUPx3MTzPwcfKO"
-    },
-    {
-      "added_at": "2021-04-22 18:12:12",
-      "album": {
         "name": "Robbie Dupree",
         "url": "https://open.spotify.com/album/1sY2wLftl601YlV9YUQFgW"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 213973,
       "name": "Steal Away - Remastered",
       "url": "https://open.spotify.com/track/7v5rsCN3LhX9XaIlWyTdx3"
+    },
+    {
+      "added_at": "2021-04-22 18:12:12",
+      "album": {
+        "name": "Diamantina Cocktail (2010 Remaster)",
+        "url": "https://open.spotify.com/album/6CIFONNOVR9frrraKZpiPi"
+      },
+      "artists": [
+        {
+          "name": "Little River Band",
+          "url": "https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg"
+        }
+      ],
+      "duration_ms": 247506,
+      "name": "Help Is On Its Way - 2010 Digital Remaster",
+      "url": "https://open.spotify.com/track/64RnIqEMPUPx3MTzPwcfKO"
     },
     {
       "added_at": "2021-04-22 18:12:12",

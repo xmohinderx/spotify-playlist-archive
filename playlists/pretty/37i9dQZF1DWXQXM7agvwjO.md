@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 > Hottest indie sounds & the best new tracks from Asia\. Cover: The Black Skirts \(South Korea\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,305 likes - 75 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,340 likes - 75 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 70 | [Cerita Bahaya](https://open.spotify.com/track/3vudXFZo78HISE8sA9Lwo3) | [Goodnight Electric](https://open.spotify.com/artist/01mXW5OUPBFLlEDcYwD3zE) | [Cerita Bahaya](https://open.spotify.com/album/0qJbdOQddkmhalfruJob47) | 5:15 |
 | 71 | [I'll Be Honest](https://open.spotify.com/track/3jQQUM4NyNnbmKAnz5xguG) | [Dru Chen](https://open.spotify.com/artist/0n1n8JVg3vec8svJHivjnf), [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [I'll Be Honest](https://open.spotify.com/album/018IL10TXkNudbOVScsjGI) | 2:33 |
 | 72 | [Let's Just](https://open.spotify.com/track/6UcoNdWZiTkV13VYENFP9V) | [RESORT](https://open.spotify.com/artist/5xuLRF6Q5vKklxMJ3ZXJng) | [Let's Just](https://open.spotify.com/album/45ughHI0FcfZT3B1SCzZWl) | 2:28 |
-| 73 | [My Little Lambs](https://open.spotify.com/track/3mLf0rGbBQHpkK0Sm8IQR6) | [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [My Little Lambs](https://open.spotify.com/album/3qSiB7QbxOnt7bx6ieXtm4) | 3:37 |
+| 73 | [My Little Lambs](https://open.spotify.com/track/5h1HkyDCvKdyJAA1GM2VH4) | [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [TEEN TROUBLES](https://open.spotify.com/album/1KCSoihLiF0x66tJyQ6VbE) | 3:37 |
 | 74 | [Pahit Manis](https://open.spotify.com/track/6Bgz0aLA2UuVizhbSw0w1j) | [Bayangan](https://open.spotify.com/artist/6Vf2sAgnMGioPLNUqqBgAI), [Herri Hamid](https://open.spotify.com/artist/0EtE4shOS9M5b0eVQt6KuI) | [Kelana](https://open.spotify.com/album/3l8kJNJHSCPLaxmHgAyqpC) | 3:24 |
 | 75 | [Giá Như](https://open.spotify.com/track/4LAhAPG2urDP2j00BlI878) | [Quờ](https://open.spotify.com/artist/0SHFKeut4NctFFYAnzDfoq), [Haisam](https://open.spotify.com/artist/5h0cBKxBX54CqPaQU6tJhk) | [Giá Như](https://open.spotify.com/album/3rauH3HdGAdw0on4FKo9rD) | 3:13 |
 
-Snapshot ID: `MTY2MzI2MTIwMCwwMDAwMDAwMDVhMjdlNjEwYjA4ZjU5MGFmYzFhZGE4MTBhYjVhODY2`
+Snapshot ID: `MTY2MzI2MTIwMCwwMDAwMDAwMDY4YTNjYTRjMTMwOGFiNTZjOWZkMWVlNGJmZGU3M2M1`

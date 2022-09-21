@@ -1,12 +1,12 @@
 {
   "description": "Tristeza independiente para aquellos d\u00edas de baj\u00f3n.",
-  "num_followers": 549786,
+  "num_followers": 550068,
   "original_name": "Qu\u00e9 Sad!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mjc2NjkzOCwwMDAwMDAwMDJjNzVmY2E2MjIwZThmZThjZjkyZDk3Y2FiYjBiMjRm",
+  "snapshot_id": "MTY2Mjc2NjkzOCwwMDAwMDAwMGRiYWYyY2E5MGFmMjcwNzM5YzQxMDY4NGQ1ODY0Yjg0",
   "tracks": [
     {
       "added_at": "2022-09-09 23:42:18",
@@ -207,18 +207,18 @@
     {
       "added_at": "2022-09-09 23:42:18",
       "album": {
-        "name": "Obsessed (Deluxe)",
-        "url": "https://open.spotify.com/album/39CdVx9DN5FtCzIyqkrzAq"
+        "name": "Alma Vac\u00eda",
+        "url": "https://open.spotify.com/album/4DmITPOATTsiWEWtJrPqkk"
       },
       "artists": [
         {
-          "name": "Yahritza Y Su Esencia",
-          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+          "name": "Ivan Cornejo",
+          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
         }
       ],
-      "duration_ms": 213999,
-      "name": "Soy El Unico",
-      "url": "https://open.spotify.com/track/4pKhxDtzoLPVy4GzW1ibAz"
+      "duration_ms": 214148,
+      "name": "Est\u00e1 Da\u00f1ada",
+      "url": "https://open.spotify.com/track/6G2xXQRSZlEzYsUEb3uvuR"
     },
     {
       "added_at": "2022-09-09 23:42:18",
@@ -239,18 +239,18 @@
     {
       "added_at": "2022-09-09 23:42:18",
       "album": {
-        "name": "Alma Vac\u00eda",
-        "url": "https://open.spotify.com/album/4DmITPOATTsiWEWtJrPqkk"
+        "name": "Obsessed (Deluxe)",
+        "url": "https://open.spotify.com/album/39CdVx9DN5FtCzIyqkrzAq"
       },
       "artists": [
         {
-          "name": "Ivan Cornejo",
-          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
         }
       ],
-      "duration_ms": 214148,
-      "name": "Est\u00e1 Da\u00f1ada",
-      "url": "https://open.spotify.com/track/6G2xXQRSZlEzYsUEb3uvuR"
+      "duration_ms": 213999,
+      "name": "Soy El Unico",
+      "url": "https://open.spotify.com/track/4pKhxDtzoLPVy4GzW1ibAz"
     },
     {
       "added_at": "2022-09-09 23:42:18",
@@ -883,6 +883,22 @@
     {
       "added_at": "2022-09-09 23:42:18",
       "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/7yjeHjZ43TiOl65KvSEwnL"
+      },
+      "artists": [
+        {
+          "name": "Sous-Sol",
+          "url": "https://open.spotify.com/artist/6npvMAuRzmnkSxIlxwdG0T"
+        }
+      ],
+      "duration_ms": 150315,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/3baHPHIKvDuugzoowvdJBo"
+    },
+    {
+      "added_at": "2022-09-09 23:42:18",
+      "album": {
         "name": "Hoy No",
         "url": "https://open.spotify.com/album/277bMalOjznL9f3X8wtv2A"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 242450,
       "name": "Hoy No",
       "url": "https://open.spotify.com/track/0jGBvWB2j1LfUUTm6oxXKs"
-    },
-    {
-      "added_at": "2022-09-09 23:42:18",
-      "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/7yjeHjZ43TiOl65KvSEwnL"
-      },
-      "artists": [
-        {
-          "name": "Sous-Sol",
-          "url": "https://open.spotify.com/artist/6npvMAuRzmnkSxIlxwdG0T"
-        }
-      ],
-      "duration_ms": 150315,
-      "name": "Solo",
-      "url": "https://open.spotify.com/track/3baHPHIKvDuugzoowvdJBo"
     },
     {
       "added_at": "2022-09-09 23:42:18",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2022-09-09 23:42:18",
       "album": {
-        "name": "Qui\u00e9n Dice",
-        "url": "https://open.spotify.com/album/3tAKezwIGgXfXJZQtbF7eK"
-      },
-      "artists": [
-        {
-          "name": "Marcos Menchaca",
-          "url": "https://open.spotify.com/artist/1Pvcsw46EYSQKIa5TRrfGj"
-        }
-      ],
-      "duration_ms": 225196,
-      "name": "Qui\u00e9n Dice",
-      "url": "https://open.spotify.com/track/567t9YdgQ12cPNJma02EPT"
-    },
-    {
-      "added_at": "2022-09-09 23:42:18",
-      "album": {
         "name": "Suspiros",
         "url": "https://open.spotify.com/album/2dU3JOkZlSKu7WdqIGvCcK"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 293098,
       "name": "Quisiera",
       "url": "https://open.spotify.com/track/1DH0Cg447H2wioWGvW4S3z"
+    },
+    {
+      "added_at": "2022-09-09 23:42:18",
+      "album": {
+        "name": "Qui\u00e9n Dice",
+        "url": "https://open.spotify.com/album/3tAKezwIGgXfXJZQtbF7eK"
+      },
+      "artists": [
+        {
+          "name": "Marcos Menchaca",
+          "url": "https://open.spotify.com/artist/1Pvcsw46EYSQKIa5TRrfGj"
+        }
+      ],
+      "duration_ms": 225196,
+      "name": "Qui\u00e9n Dice",
+      "url": "https://open.spotify.com/track/567t9YdgQ12cPNJma02EPT"
     },
     {
       "added_at": "2022-09-09 23:42:18",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2022-09-09 23:42:18",
       "album": {
-        "name": "Hacer Bien",
-        "url": "https://open.spotify.com/album/05soUjUMNTaITz1z2NtLjt"
-      },
-      "artists": [
-        {
-          "name": "Sous-Sol",
-          "url": "https://open.spotify.com/artist/6npvMAuRzmnkSxIlxwdG0T"
-        }
-      ],
-      "duration_ms": 221515,
-      "name": "Hacer Bien",
-      "url": "https://open.spotify.com/track/7KpJ8MmYn7LE7R02PCHCJh"
-    },
-    {
-      "added_at": "2022-09-09 23:42:18",
-      "album": {
         "name": "Cada Vez M\u00e1s > :-(",
         "url": "https://open.spotify.com/album/1xOsz3xD4Wszm6eysQcZkY"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 187666,
       "name": "Vete a la Chingada",
       "url": "https://open.spotify.com/track/4RYxRVqc2vaKvRjwAX4FQK"
+    },
+    {
+      "added_at": "2022-09-09 23:42:18",
+      "album": {
+        "name": "Hacer Bien",
+        "url": "https://open.spotify.com/album/05soUjUMNTaITz1z2NtLjt"
+      },
+      "artists": [
+        {
+          "name": "Sous-Sol",
+          "url": "https://open.spotify.com/artist/6npvMAuRzmnkSxIlxwdG0T"
+        }
+      ],
+      "duration_ms": 221515,
+      "name": "Hacer Bien",
+      "url": "https://open.spotify.com/track/7KpJ8MmYn7LE7R02PCHCJh"
     },
     {
       "added_at": "2022-09-09 23:42:18",

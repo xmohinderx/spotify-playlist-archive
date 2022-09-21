@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfZ6moR6J0G.md) - [plain]
 
 > The sound of a g\-g\-generation\. Cover: Limp Bizkit
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,441,231 likes - 70 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,442,071 likes - 70 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfZ6moR6J0G.md) - [plain]
 | 36 | [Somewhere I Belong](https://open.spotify.com/track/3agtg0x11wPvLIWkYR39nZ) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Meteora](https://open.spotify.com/album/4Gfnly5CzMJQqkUFfoHaP3) | 3:33 |
 | 37 | [Blind](https://open.spotify.com/track/1pr9TZGOXeJUggIal1Wq3R) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Korn](https://open.spotify.com/album/7D3XFJlfZIkmGWqZXm2X8z) | 4:18 |
 | 38 | [7 Words](https://open.spotify.com/track/6DoXuH326aAYEN8CnlLmhP) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Adrenaline](https://open.spotify.com/album/30YN03R4Bjl8Qwz8wPRoXG) | 3:43 |
-| 39 | [Crawling In The Dark](https://open.spotify.com/track/1PJRDeZSoZk7gtisdTYfLi) | [Hoobastank](https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO) | [Hoobastank \(20th Anniversary Edition\)](https://open.spotify.com/album/0NZrJM8gL8xBCsPR7nZGqR) | 2:55 |
-| 40 | [Mudshovel](https://open.spotify.com/track/6264zKFgXM13JuRBX4MMyD) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [Dysfunction](https://open.spotify.com/album/4fLp0YBi1chfMHSBkIeI6w) | 4:42 |
+| 39 | [Mudshovel](https://open.spotify.com/track/6264zKFgXM13JuRBX4MMyD) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [Dysfunction](https://open.spotify.com/album/4fLp0YBi1chfMHSBkIeI6w) | 4:42 |
+| 40 | [Crawling In The Dark](https://open.spotify.com/track/1PJRDeZSoZk7gtisdTYfLi) | [Hoobastank](https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO) | [Hoobastank \(20th Anniversary Edition\)](https://open.spotify.com/album/0NZrJM8gL8xBCsPR7nZGqR) | 2:55 |
 | 41 | [Between Angels And Insects](https://open.spotify.com/track/24z528iI9kZu5LbkLainjI) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Infest](https://open.spotify.com/album/0BHa0ePkvGAVKymB4FU58m) | 3:54 |
 | 42 | [Downfall](https://open.spotify.com/track/76xddM2irVQCbuBoVbaElZ) | [TRUSTcompany](https://open.spotify.com/artist/21ALJSG7U07dShegeJQ2xA) | [The Lonely Position Of Neutral](https://open.spotify.com/album/2fjLRxrWTlE20dPbICrNnh) | 3:11 |
 | 43 | [Faith](https://open.spotify.com/track/5MYsvAONqcsIVOwu2HTQ3p) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Three Dollar Bill, Y'all $](https://open.spotify.com/album/3I34EprFC0rlAO4pKNeX1t) | 2:26 |
@@ -73,10 +73,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfZ6moR6J0G.md) - [plain]
 | 63 | [Loco](https://open.spotify.com/track/34SVUs66rBnOqsCJl45Ek8) | [Coal Chamber](https://open.spotify.com/artist/69k6uTSZMPLpSnhmLCiKxQ) | [Coal Chamber](https://open.spotify.com/album/1f67cRBr8LloCk9sEdUINv) | 4:14 |
 | 64 | [Get Up Again](https://open.spotify.com/track/7jClgHzR5JG69gar7rVMoX) | [Flaw](https://open.spotify.com/artist/4hFScNSgSkApFw193xlyH7) | [Through The Eyes](https://open.spotify.com/album/4ENDNin0EF4elzkaWLvbAM) | 2:56 |
 | 65 | [Bloodwork](https://open.spotify.com/track/201NunZ5rsvabQoX2PxMlS) | [36 Crazyfists](https://open.spotify.com/artist/4ijGLY4dzlurDh7jqH3tW7) | [A Snow Capped Romance](https://open.spotify.com/album/4RXbqQIZqHp5VhyhQZkvD9) | 3:18 |
-| 66 | [Alive \- 2006 Remaster](https://open.spotify.com/track/3IRovqSVYx3CNtDWRebsET) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Greatest Hits \(The Atlantic Years\)](https://open.spotify.com/album/1i3YXOzNkaykTt6CxWGOOU) | 3:23 |
+| 66 | [Loose](https://open.spotify.com/track/5u07rgQcg8F2xIZp90lm3p) | [Primer 55](https://open.spotify.com/artist/6jnxIScI1LhNdbLNbTDNwY) | [Introduction To Mayhem](https://open.spotify.com/album/1TwA6wlxYBuYZi8xb3Hk76) | 3:02 |
 | 67 | [Stupid Girl](https://open.spotify.com/track/40u9RFyKQfXwpPjFzK1bGO) | [Cold](https://open.spotify.com/artist/0Gw3a3BkWLwsMLFbOBmo6Q) | [Year Of The Spider](https://open.spotify.com/album/0XxmvWFp66NnlSxco9i7yr) | 3:09 |
-| 68 | [Loose](https://open.spotify.com/track/5u07rgQcg8F2xIZp90lm3p) | [Primer 55](https://open.spotify.com/artist/6jnxIScI1LhNdbLNbTDNwY) | [Introduction To Mayhem](https://open.spotify.com/album/1TwA6wlxYBuYZi8xb3Hk76) | 3:02 |
+| 68 | [Alive \- 2006 Remaster](https://open.spotify.com/track/3IRovqSVYx3CNtDWRebsET) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Greatest Hits \(The Atlantic Years\)](https://open.spotify.com/album/1i3YXOzNkaykTt6CxWGOOU) | 3:23 |
 | 69 | [Black](https://open.spotify.com/track/5DoTRJlzMaGAMHPTDrfvfW) | [Sevendust](https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2) | [Sevendust \(Definitive Edition\)](https://open.spotify.com/album/7tpMJufRsPz0EPv5hZSWs3) | 4:08 |
 | 70 | [South Texas Deathride](https://open.spotify.com/track/4DenxoUslmyLJB5vzurCBD) | [The Union Underground](https://open.spotify.com/artist/54akiBa0DkNM3qkhnGRflb) | [...An Education In Rebellion](https://open.spotify.com/album/5owwvzRpYAdnhc2Xe8aq76) | 3:24 |
 
-Snapshot ID: `MTY1NTUyOTc0OCwwMDAwMDAwMDg0YWY2MzZlMzM1MGFhMDNmMGRmNzQ2ZTE3Mzg0NmI4`
+Snapshot ID: `MTY1NTUyOTc0OCwwMDAwMDAwMDRjNzgzYTVkNTRmNWRkZjk4ZGVkOGU5MGNmZjhmNzNh`

@@ -4,12 +4,13 @@
 
 > Slow instrumental Jazz for evening listening pleasure.
 
-166 songs - 11 hr 22 min - [published](https://open.spotify.com/playlist/5fb91bkAejoTbTEhFeEeo3)
+170 songs - 11 hr 38 min - [published](https://open.spotify.com/playlist/5fb91bkAejoTbTEhFeEeo3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Better Place](https://open.spotify.com/track/7JfORZg3Tvn0YyDZCiGhMU) | [Joel Lyssarides](https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx) | [A Better Place](https://open.spotify.com/album/0BIRayldwphnBlwreGKihM) | 2:13 | 2021-12-14 | 2022-01-06 |
 | [A Hero Lives Another Day](https://open.spotify.com/track/5R5fWpRXhe5YqmtZ2WPzw0) | [Claudia Torrek](https://open.spotify.com/artist/2vTJc7s0MUGFXfXVK8TypJ) | [A Hero Lives Another Day](https://open.spotify.com/album/15BIymmR9Y0raWZcbcFs6n) | 3:06 | 2021-12-14 |  |
+| [A Knock On The Door](https://open.spotify.com/track/1lKkIBFCcsUOG14fPmvbhw) | [Clover Post](https://open.spotify.com/artist/2XWP1prJQm6CLoHKAqXCEz) | [A Knock On The Door](https://open.spotify.com/album/0q2peKbZDl0x0NuIn7UZ7F) | 3:27 | 2022-09-20 |  |
 | [A Time For Love](https://open.spotify.com/track/1lj6MFAyOG9mlwmp0EkBAF) | [Mandevilla](https://open.spotify.com/artist/4Na5KNSDTg543P1FMbaAMk) | [On A Misty Night](https://open.spotify.com/album/4wOwSu9EKBoAywQp51RVV9) | 5:08 | 2021-12-14 |  |
 | [Alfie](https://open.spotify.com/track/5YTYCMTxcvM29aTYRp99gm) | [Long Island Quartet](https://open.spotify.com/artist/2fmPgnUqExSLjXIwIyigPR) | [Born in July](https://open.spotify.com/album/4IJTErkPQ9dSsEt2FyPuzt) | 3:37 | 2021-12-14 |  |
 | [All To Soon](https://open.spotify.com/track/6IhdygzBXr39qlNR0rLOE6) | [Long Island Quartet](https://open.spotify.com/artist/2fmPgnUqExSLjXIwIyigPR) | [All To Soon](https://open.spotify.com/album/4rYzfpEKqXD0aX3ZeVUvHi) | 4:13 | 2022-05-17 |  |
@@ -69,6 +70,7 @@
 | [I Should Care](https://open.spotify.com/track/6737EPSxTorgEKqLbvBgUZ) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv) | [Messages](https://open.spotify.com/album/6jePTuUPpahMgH5j9u9o55) | 10:02 | 2022-02-03 | 2022-06-30 |
 | [I Wish I Knew](https://open.spotify.com/track/41XCiJOUytKpsgT1kDzYzE) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Explorations \[Original Jazz Classics Remasters\]](https://open.spotify.com/album/3PGsNODk3bl8GYvAtgbBBw) | 4:40 | 2022-02-03 | 2022-09-09 |
 | [I'm Getting Sentimental Over You](https://open.spotify.com/track/1FW3sdgzfR7gdqXXqprBxJ) | [Chris Memento](https://open.spotify.com/artist/6dLMos1sm6vC0KWbloaCXb) | [I'm Getting Sentimental Over You](https://open.spotify.com/album/01sPJkRHG839tmyrd1V8s6) | 3:49 | 2022-09-08 |  |
+| [I'm Glad There's You](https://open.spotify.com/track/46xwl2PYDmeEnYGdXnvW2g) | [Gene Hart Trio](https://open.spotify.com/artist/5iUzoJfVuTECa0aM3nCCCh) | [I'm Glad There's You](https://open.spotify.com/album/77AOGNjcrBXivWuex9jHmc) | 4:01 | 2022-09-20 |  |
 | [I'm Through With Love](https://open.spotify.com/track/38DuwiVs95AQqNTYTJLJFe) | [Courtney Salas Group](https://open.spotify.com/artist/7hQlDvOgJjwCaF5Ecsvnj7) | [I'm Through With Love](https://open.spotify.com/album/1468tP4UUGtE9dHEKSBnbq) | 4:44 | 2022-08-17 |  |
 | [If You Could See Me Now](https://open.spotify.com/track/7g7uRAOFaOoLG6CcAPSUX5) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Trio 65](https://open.spotify.com/album/5v3Im6RH6X2GeaTKU1yH6e) | 4:46 | 2021-12-14 |  |
 | [In a Sentimental Mood](https://open.spotify.com/track/7JNNtslGExM27L7sCMzQiS) | [The Uptown Players](https://open.spotify.com/artist/1S2Mr3FmzAs8p9Wl0xHEe2) | [In a Sentimental Mood](https://open.spotify.com/album/5rOOiUweJ8OZ7eDqlRHURS) | 4:34 | 2021-12-14 |  |
@@ -87,6 +89,7 @@
 | [Late Lament](https://open.spotify.com/track/3eDOviMyR6gSoN2AeONg7Q) | [Tim Franks Trio](https://open.spotify.com/artist/6tFpLOLeaW3EmB3r8VEMok) | [Late Lament](https://open.spotify.com/album/4dJPl3BYP23MU5cAVJUT3z) | 5:20 | 2021-12-14 |  |
 | [Late Night Walk](https://open.spotify.com/track/2uSdRkfWEUU7kE9sDceU70) | [Henry Lindon](https://open.spotify.com/artist/6YFu93nQbZx5Nrt6Qjfj90) | [Late Night Walk](https://open.spotify.com/album/1IoNZGBuzPT37zMyRUHk1g) | 3:47 | 2021-12-14 |  |
 | [Laura](https://open.spotify.com/track/6nXrnq0lJpbowo1P84J2t7) | [Scott Hamilton](https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr) | [Scott Hamilton Plays Ballads](https://open.spotify.com/album/0bw16TpTm9imdckwKYYoKm) | 4:50 | 2021-12-14 | 2022-08-18 |
+| [Life At Point Nemo](https://open.spotify.com/track/31SW7BwZNGQau7Tmydxzfl) | [Andreas Gidlund](https://open.spotify.com/artist/1i1prvKQoU8d7eTrRHIMtO) | [Life At Point Nemo](https://open.spotify.com/album/2Y39wUJVAIJP0QcTgB8mpj) | 3:54 | 2022-09-20 |  |
 | [Life In Paradise](https://open.spotify.com/track/7DhwU4DOhVLPI30Rj2X6e4) | [Sally's Trio](https://open.spotify.com/artist/3SFDEtIEdBh9Ala7ZyIyma) | [Life In Paradise](https://open.spotify.com/album/5TNHvnh6yY5FwDBqo3g59W) | 4:34 | 2022-06-01 |  |
 | [Life In The Deepest Blue](https://open.spotify.com/track/7xVV4ujd2zDDJeyxcBR4i0) | [Astoria Three](https://open.spotify.com/artist/72pfIIbH2JQbShGyx4c7ri) | [Life In The Deepest Blue](https://open.spotify.com/album/4a30lMOexLL1l9Y8n9AzR7) | 2:53 | 2022-08-17 |  |
 | [Lonely Woman \- Remastered 1999/Rudy Van Gelder Edition](https://open.spotify.com/track/23VGdNEZzKVCpIazC3ZHK6) | [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5) | [Song For My Father](https://open.spotify.com/album/4LEnATSqKeANOJ0mLUAuCE) | 7:02 | 2021-12-14 |  |
@@ -103,6 +106,7 @@
 | [My Ideal](https://open.spotify.com/track/7GnMpHjVWHC5W87OifzPX6) | [Tate Jackson Trio](https://open.spotify.com/artist/2xOmrHsNNnSQQwav65tSwZ) | [My Ideal](https://open.spotify.com/album/1NnYrcvic7aXLEDtvQmVCF) | 3:50 | 2021-12-14 |  |
 | [My Lonely Days Are Over](https://open.spotify.com/track/3A2U0deukLyVDP7IMDPk5K) | [Henning Witsell](https://open.spotify.com/artist/6O4yrTe0loBI2ZGPcMnrdF) | [My Lonely Days Are Over](https://open.spotify.com/album/6cHr3pZ7P9eQHuRcpLH0H9) | 3:50 | 2022-08-11 |  |
 | [My Old Flame](https://open.spotify.com/track/3xuslygka7eRD9KYn3MMhc) | [Zoot Sims](https://open.spotify.com/artist/1pwr5rTWLVfqhvHfB7Reap) | [Zoot Sims avec Henri Renaud et son orchestre](https://open.spotify.com/album/1tYXf9tuMLCiUrW18UwlHE) | 3:23 | 2022-02-03 | 2022-05-25 |
+| [Nancy \(WIth The Laughing Face\)](https://open.spotify.com/track/7jQriEubeC9KTClyfJtthT) | [Cecil Andrews](https://open.spotify.com/artist/3w12mAdbXsNTiBc4xhM0OV) | [Nancy \(WIth The Laughing Face\)](https://open.spotify.com/album/3u3JR9SJ5OuiT9dKIdkSpq) | 4:05 | 2022-09-20 |  |
 | [Never Let Me Go](https://open.spotify.com/track/0t5LDxM86wbi5W7gwkGtPv) | [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S) | [Trios Live](https://open.spotify.com/album/4E4vQi6Vc8FTynRbeNcTGf) | 6:38 | 2021-12-14 |  |
 | [Not Too Hot](https://open.spotify.com/track/0FoNYyoLC8Jj12GQggux8T) | [Goldilocks Trio](https://open.spotify.com/artist/2fVn4UU5CHiuJtJwHx0q7M) | [Not Too Hot](https://open.spotify.com/album/4qOxXHChJ2JsAkT3Id2zQf) | 4:47 | 2022-06-29 |  |
 | [Once I Had A Secret Love](https://open.spotify.com/track/05prboiM4bmlXfvsvghvI1) | [CMC 3](https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC) | [Dear Old Stockholm](https://open.spotify.com/album/4GI4i7HoTbp7QQdMTGn28L) | 4:18 | 2021-12-14 |  |
@@ -166,7 +170,7 @@
 | [Windows](https://open.spotify.com/track/6ADfA2iC7wIIll0JC99ZH8) | [Chip Weasley](https://open.spotify.com/artist/37X0wybCupItXHrjK20Mdy) | [Windows](https://open.spotify.com/album/11WQszEkjI5k7Q15XkBvNP) | 3:54 | 2022-08-11 |  |
 | [Yesterday](https://open.spotify.com/track/2eIry6lu8pdyShi9RPk2dR) | [Tommies Trio](https://open.spotify.com/artist/2k2e33oHCm8aQalDfKTvz6) | [Yesterday](https://open.spotify.com/album/5mfTNVaNN6hwzcBKZ6Pj9w) | 3:47 | 2022-06-08 |  |
 | [You Can Call Me Again](https://open.spotify.com/track/2o0AN4oU66mlc9dH54ENFd) | [Norris Walker Trio](https://open.spotify.com/artist/2AOwERyiRRzThecI5m7xK9) | [You Can Call Me Again](https://open.spotify.com/album/1FVvVtu6dwRrZlrx08pL6p) | 3:31 | 2022-08-17 |  |
-| [You Confuse Me](https://open.spotify.com/track/46WT4GuSWziUJIDtjUJHQr) | [Jeff Laine & Co](https://open.spotify.com/artist/4i2Ps9G6SHd16reEGA5xva) | [You Confuse Me](https://open.spotify.com/album/4lXqZHzOGouVzTh2J2FFip) | 3:11 | 2021-12-14 |  |
+| [You Confuse Me](https://open.spotify.com/track/46WT4GuSWziUJIDtjUJHQr) | [Jeff Laine & Co](https://open.spotify.com/artist/4i2Ps9G6SHd16reEGA5xva) | [You Confuse Me](https://open.spotify.com/album/4lXqZHzOGouVzTh2J2FFip) | 3:11 | 2021-12-14 | 2022-09-21 |
 | [You Don't Know What Love Is](https://open.spotify.com/track/4bDk3TKM6kF1MT2Tzek7QJ) | [The Sweetgreens](https://open.spotify.com/artist/106pccUBSkmw5RR27vUT2N) | [You Don't Know What Love Is](https://open.spotify.com/album/3WpU0MCWwrDDqsA3KZQJnt) | 2:30 | 2021-12-14 |  |
 | [You Must Believe In Spring](https://open.spotify.com/track/0vVpu5nKzGGNRgnBhei5Vc) | [Piper Williamson](https://open.spotify.com/artist/5ahbWWBc8VL95P5BG7Miai) | [Earthshine](https://open.spotify.com/album/1CBELvMmpFlAwF0j2YiveM) | 3:42 | 2022-09-08 |  |
 | [You Turned The Tables On Me](https://open.spotify.com/track/5E3iFJgQfgXojFieNg9C2w) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Stan Getz Plays \(Clef Records LPR\)](https://open.spotify.com/album/5VDjsnQKRNJyR90or4Tsjw) | 2:56 | 2022-02-03 |  |

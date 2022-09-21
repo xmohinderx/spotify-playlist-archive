@@ -4,7 +4,7 @@
 
 > This is The XCERTS\. The essential tracks, all in one playlist.
 
-46 songs - 2 hr 53 min - [published](https://open.spotify.com/playlist/4HQ8jbRFH0oLg7Xqm9c9uw)
+47 songs - 2 hr 56 min - [published](https://open.spotify.com/playlist/4HQ8jbRFH0oLg7Xqm9c9uw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Cool Ethan](https://open.spotify.com/track/2qHRHqAVw7HPjCiJHF4UPM) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [In the Cold Wind We Smile \(10th Anniversary Edition\)](https://open.spotify.com/album/7KpMyE6xSVdRVdkIxSng5N) | 5:16 | 2022-09-16 |  |
 | [Crazy](https://open.spotify.com/track/4OUtEuCBZvKlaPKzBG7M4G) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Hold on to Your Heart](https://open.spotify.com/album/0dUfvaLw6L22guWr1ldEr2) | 3:32 | 2022-09-16 |  |
 | [Crisis in the Slow Lane](https://open.spotify.com/track/7qWw4H4fBYV3p0rPrpT8IV) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [In the Cold Wind We Smile \(10th Anniversary Edition\)](https://open.spotify.com/album/7KpMyE6xSVdRVdkIxSng5N) | 4:22 | 2022-09-16 |  |
-| [Cry](https://open.spotify.com/track/52vsw5MbrxfOWRaDWn6va9) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Hold on to Your Heart](https://open.spotify.com/album/0dUfvaLw6L22guWr1ldEr2) | 5:44 | 2022-09-16 |  |
+| [Cry](https://open.spotify.com/track/52vsw5MbrxfOWRaDWn6va9) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Hold on to Your Heart](https://open.spotify.com/album/0dUfvaLw6L22guWr1ldEr2) | 5:44 | 2022-09-16 | 2022-09-21 |
 | [Daydream](https://open.spotify.com/track/4ZJRoFTNJzcA1KKJgxncvu) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Hold on to Your Heart](https://open.spotify.com/album/0dUfvaLw6L22guWr1ldEr2) | 2:26 | 2022-09-16 |  |
 | [Distant Memory](https://open.spotify.com/track/4l4SP3rYBjOvJCEcLQH75f) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Scatterbrain](https://open.spotify.com/album/7qJcUjJEAzI5t3xdD496Ap) | 4:30 | 2022-09-16 | 2022-09-19 |
 | [Do You Feel Safe?](https://open.spotify.com/track/71B1fNBwSnln85JuY4bTh3) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [In the Cold Wind We Smile \(10th Anniversary Edition\)](https://open.spotify.com/album/7KpMyE6xSVdRVdkIxSng5N) | 3:32 | 2022-09-16 |  |
@@ -47,6 +47,7 @@
 | [Show Me Beautiful](https://open.spotify.com/track/5yMpH6XqTIjz2nWJMsP3ua) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Hold on to Your Heart](https://open.spotify.com/album/0dUfvaLw6L22guWr1ldEr2) | 4:00 | 2022-09-16 |  |
 | [Slackerpop](https://open.spotify.com/track/7qgp4PNvNPG5vPoMeGg29E) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Scatterbrain](https://open.spotify.com/album/7qJcUjJEAzI5t3xdD496Ap) | 2:34 | 2022-09-16 |  |
 | [Tar Ok](https://open.spotify.com/track/1u1jI9VL59hB2YrgdCYU3a) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Scatterbrain](https://open.spotify.com/album/7qJcUjJEAzI5t3xdD496Ap) | 0:59 | 2022-09-16 | 2022-09-19 |
+| [The Dark](https://open.spotify.com/track/0dssgFX5eTaCA7TcSwgDII) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Hold on to Your Heart](https://open.spotify.com/album/0dUfvaLw6L22guWr1ldEr2) | 2:58 | 2022-09-20 |  |
 | [There Is Only You](https://open.spotify.com/track/0gnM4QIVLmjpNQcbYSnwsL) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [There Is Only You](https://open.spotify.com/album/0D8FcMKT9NRdJ2KoqSajEh) | 5:43 | 2022-09-16 |  |
 | [We Are Gonna Live](https://open.spotify.com/track/4xecVWlowXeLZXxGZ3eeBS) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Hold on to Your Heart](https://open.spotify.com/album/0dUfvaLw6L22guWr1ldEr2) | 3:34 | 2022-09-16 |  |
 | [We Built This City](https://open.spotify.com/track/6uGax7tGLYcmZ0Nk12eO9a) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [We Built This City](https://open.spotify.com/album/25XwdliNAo6VrO7J2U2GxJ) | 3:55 | 2022-09-16 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 
 > Lo nuevo y lo mejor en el estilo mariachi\. Cover: Luis R Conriquez, Jessie Uribe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,623 likes - 127 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,629 likes - 127 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 | 38 | [Qué Ganas De Verte](https://open.spotify.com/track/1qhEdQNFKBFFVmzGBAnD95) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Qué Ganas De Verte](https://open.spotify.com/album/1F0OQrdweimPVk3119NKVM) | 3:18 |
 | 39 | [Que Digan Lo Que Digan](https://open.spotify.com/track/0ZgWkCML3yoVANOBbSVKzl) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Que Digan Lo Que Digan](https://open.spotify.com/album/4cBBdOIxQQXmOtuXpjKLWl) | 2:52 |
 | 40 | [De Vez En Cuando](https://open.spotify.com/track/3n4C6uS30lIWNIcP72dhBE) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z), [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [De Vez En Cuando](https://open.spotify.com/album/5r8Dx1QTwa0whbezRX2AyB) | 3:33 |
-| 41 | [10 PM \- Popular](https://open.spotify.com/track/5Wa3cRSjVUeQm5zhwAFUao) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [10 PM \(Popular\)](https://open.spotify.com/album/0UKMqy1QBgwAgfwIsWmOsR) | 3:33 |
-| 42 | [Amor Ilegal](https://open.spotify.com/track/4RBH4sNzQen0YqoIhqw7Eg) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Amor Ilegal](https://open.spotify.com/album/65WCj2K3NGk7Qe63CKlvUW) | 2:50 |
+| 41 | [Amor Ilegal](https://open.spotify.com/track/4RBH4sNzQen0YqoIhqw7Eg) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Amor Ilegal](https://open.spotify.com/album/65WCj2K3NGk7Qe63CKlvUW) | 2:50 |
+| 42 | [10 PM \- Popular](https://open.spotify.com/track/5Wa3cRSjVUeQm5zhwAFUao) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [10 PM \(Popular\)](https://open.spotify.com/album/0UKMqy1QBgwAgfwIsWmOsR) | 3:33 |
 | 43 | [La Reina](https://open.spotify.com/track/5hgtFPs0T9r4YQqLjmam3h) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [La Fuerza](https://open.spotify.com/album/10g6da1CbqB78EddjRvJK5) | 3:48 |
 | 44 | [Bonita](https://open.spotify.com/track/2pXBlxJkTD1Ma039jIJpSZ) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh) | [Hecho a Mano](https://open.spotify.com/album/4XQWbicaoDhiiqXEaxBciJ) | 3:27 |
 | 45 | [Son Amores \(That's Amore\) \(feat\. Los Macorinos\)](https://open.spotify.com/track/10HQmG706HZtAhXRypWw01) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Los Macorinos](https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx) | [Musas \(Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos, Vol\. 1\)](https://open.spotify.com/album/30isRfL4u7fowKgTVsydDt) | 3:44 |
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 | 84 | [Mala Racha](https://open.spotify.com/track/3Skq5ppANsqiSN6H6JAp3C) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Mala Racha](https://open.spotify.com/album/5c2EQotM6xXKB6A7dSEFzv) | 2:46 |
 | 85 | [Amarlas Es Un Placer](https://open.spotify.com/track/79TGd2i6kti3xxiVP5wDWU) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Quinto Elemento \(Deluxe\)](https://open.spotify.com/album/2202BXQpm7R0eKyyZk5BlX) | 3:17 |
 | 86 | [Es Mejor Decir Adiós](https://open.spotify.com/track/5sI2Uak0Ma7wnYVypyjeT3) | [Neto Bernal](https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5) | [Es Mejor Decir Adiós](https://open.spotify.com/album/5ULdbRI84YH7MWi21emnYP) | 4:32 |
-| 87 | [Ojalá Que Te Vaya Bonito](https://open.spotify.com/track/0LPpHtoUCbSLEXno1CF1kW) | [Jorge Medina](https://open.spotify.com/artist/4uZP9vHYfFu3DW9ywwtLpf) | [Ojalá Que Te Vaya Bonito](https://open.spotify.com/album/7jg0q5OAZYGDL808LxnpRb) | 2:53 |
-| 88 | [Dime Que Sí](https://open.spotify.com/track/6BqRzKHibZ9HhBHmbsCoez) | [Nabález](https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF) | [Dime Que Sí](https://open.spotify.com/album/3MzH50WWwdkZTcKp27T1p2) | 2:35 |
+| 87 | [Dime Que Sí](https://open.spotify.com/track/6BqRzKHibZ9HhBHmbsCoez) | [Nabález](https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF) | [Dime Que Sí](https://open.spotify.com/album/3MzH50WWwdkZTcKp27T1p2) | 2:35 |
+| 88 | [Ojalá Que Te Vaya Bonito](https://open.spotify.com/track/0LPpHtoUCbSLEXno1CF1kW) | [Jorge Medina](https://open.spotify.com/artist/4uZP9vHYfFu3DW9ywwtLpf) | [Ojalá Que Te Vaya Bonito](https://open.spotify.com/album/7jg0q5OAZYGDL808LxnpRb) | 2:53 |
 | 89 | [Tu Adiós Como Tequila \- Versión Mariachi](https://open.spotify.com/track/6ByvWKgYeXKxw8WXQzluWi) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh) | [Tu Adiós Como Tequila \(Versión Mariachi\)](https://open.spotify.com/album/32ZSvVzmVoHGeXeT9JIxRH) | 3:35 |
 | 90 | [Pero Me Acuerdo de Ti](https://open.spotify.com/track/79yFonF4USs9eIlLEGowaD) | [Nora González](https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9) | [Pero Me Acuerdo de Ti](https://open.spotify.com/album/0WZvGpgxno7i8kDlo6Znb9) | 4:15 |
 | 91 | [Nadie Me Cree](https://open.spotify.com/track/3fpxOreB9Suo6mZD8xata4) | [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [Nadie Me Cree](https://open.spotify.com/album/4YzXxSlNCqf8ofNuPNaCkO) | 3:28 |
@@ -126,8 +126,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 | 116 | [Te Amare \(Version Mariachi\)](https://open.spotify.com/track/2PWRbt4DwXa6ZcigYPa3AN) | [Rogelio Martinez](https://open.spotify.com/artist/7o6sbyEJZOSvb84L987hVH) | [Te Amare \(Versión Mariachi\)](https://open.spotify.com/album/2Cct0JbheL9MpyAIMTCj0Q) | 3:28 |
 | 117 | [Los Mandados](https://open.spotify.com/track/31JZmPlv1H0npDMY4G5r9b) | [Janine](https://open.spotify.com/artist/0lu4CrVNwnwEblIqvD5A5z) | [Los Mandados](https://open.spotify.com/album/7uNCs64FQWq2ZsWA2PjJPK) | 2:43 |
 | 118 | [Cartas Marcadas](https://open.spotify.com/track/71uuSDIUcy2AWBM9H7uWwq) | [Santiago Arroyo](https://open.spotify.com/artist/6uvBoFUSlKquPBsj8qrSUq) | [Cartas Marcadas](https://open.spotify.com/album/42KB9YEhXM4jHbtB3zf0B9) | 3:09 |
-| 119 | [Lamentablemente](https://open.spotify.com/track/1s76QNibNLVKAxUg1KIXgr) | [Xavier Zazueta](https://open.spotify.com/artist/503bpBBwBb5ZFTwWnSYsDE) | [Lamentablemente](https://open.spotify.com/album/7J6VNwvGoPyZW0DnSnbrOl) | 3:22 |
-| 120 | [No Queda de Otra](https://open.spotify.com/track/35LlbTW5B5Xm5hA5S4C4LD) | [Jorge Almir](https://open.spotify.com/artist/1GKXviU5O6Yj7o8qobC869) | [No Queda de Otra](https://open.spotify.com/album/7lnPWHavMWZt4Zm7Yh2OFl) | 3:07 |
+| 119 | [No Queda de Otra](https://open.spotify.com/track/35LlbTW5B5Xm5hA5S4C4LD) | [Jorge Almir](https://open.spotify.com/artist/1GKXviU5O6Yj7o8qobC869) | [No Queda de Otra](https://open.spotify.com/album/7lnPWHavMWZt4Zm7Yh2OFl) | 3:07 |
+| 120 | [Lamentablemente](https://open.spotify.com/track/1s76QNibNLVKAxUg1KIXgr) | [Xavier Zazueta](https://open.spotify.com/artist/503bpBBwBb5ZFTwWnSYsDE) | [Lamentablemente](https://open.spotify.com/album/7J6VNwvGoPyZW0DnSnbrOl) | 3:22 |
 | 121 | [Probablemente](https://open.spotify.com/track/4prmUBle7TtAeeUgCnsc3Z) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Me Dejé Llevar](https://open.spotify.com/album/2XHw4PFHT6srg7dxA3yrKv) | 3:53 |
 | 122 | [Aguardiente](https://open.spotify.com/track/16DThpmVTU5UfqglnMcYye) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Forajido EP 1](https://open.spotify.com/album/7I8Jkv7b1hFt0Pc1eePHTR) | 2:22 |
 | 123 | [Limón Con Sal](https://open.spotify.com/track/2yG1RaWw4zhu9YvIgXl2fD) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Forajido EP 1](https://open.spotify.com/album/7I8Jkv7b1hFt0Pc1eePHTR) | 2:54 |
@@ -136,4 +136,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 | 126 | [Ya No Somos Ni Seremos](https://open.spotify.com/track/7CnmrsgrDklemSrdq8tuzL) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Forajido EP 1](https://open.spotify.com/album/7I8Jkv7b1hFt0Pc1eePHTR) | 3:05 |
 | 127 | [Probablemente](https://open.spotify.com/track/3WVloZ8Z5h6vgKQ7wFhi2Q) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Festivo](https://open.spotify.com/album/5dpj0D8wTg7QFG5VMashbU) | 3:53 |
 
-Snapshot ID: `MTY1OTA2NzIwMCwwMDAwMDAwMGVhOGYzYWUzNjlhYzg3OThiYTQ4N2IyNDI4ZDk5MWQz`
+Snapshot ID: `MTY1OTA2NzIwMCwwMDAwMDAwMGQxMmQ3YTFlNWEzNzlhNTBkNjNhZTgyNTdlZjUwMzkx`

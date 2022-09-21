@@ -1,12 +1,12 @@
 {
   "description": "Essential tracks of Shah Rukh Khan all in one playlist",
-  "num_followers": 188820,
+  "num_followers": 188941,
   "original_name": "Starring Shah Rukh Khan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODEyNDY5NCwwMDAwMDAwMDk1MzI5MWY0ZTg5NTI1NDA5Yjk1MzhmYzhmOTkzOTdm",
+  "snapshot_id": "MTY1ODEyNDY5NCwwMDAwMDAwMGFhNjkxZTMwZmZjM2ZhYjFhM2E2OTQ4MDYyYmI2M2Uw",
   "tracks": [
     {
       "added_at": "2022-07-18 06:11:34",
@@ -1015,34 +1015,6 @@
     {
       "added_at": "2022-07-18 06:11:34",
       "album": {
-        "name": "Veer - Zaara",
-        "url": "https://open.spotify.com/album/690w3h4czL3x3W3zIgEcB6"
-      },
-      "artists": [
-        {
-          "name": "Madan Mohan",
-          "url": "https://open.spotify.com/artist/5Uvn1P3OFu268QovsUAnDu"
-        },
-        {
-          "name": "Lata Mangeshkar",
-          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
-        },
-        {
-          "name": "Udit Narayan",
-          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
-        },
-        {
-          "name": "Javed Akhtar",
-          "url": "https://open.spotify.com/artist/3UpmjPgIFSGqnxXuiwD014"
-        }
-      ],
-      "duration_ms": 427781,
-      "name": "Aisa Des Hai Mera",
-      "url": "https://open.spotify.com/track/4M7pu2MwyGysZM4deGXueq"
-    },
-    {
-      "added_at": "2022-07-18 06:11:34",
-      "album": {
         "name": "Dear Zindagi (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/29njH6pDF6JE65D2VJbAxW"
       },
@@ -1099,6 +1071,34 @@
       "duration_ms": 247458,
       "name": "Tukur Tukur",
       "url": "https://open.spotify.com/track/5swv4r5dYNHhsL54jGqmn8"
+    },
+    {
+      "added_at": "2022-07-18 06:11:34",
+      "album": {
+        "name": "Veer - Zaara",
+        "url": "https://open.spotify.com/album/690w3h4czL3x3W3zIgEcB6"
+      },
+      "artists": [
+        {
+          "name": "Madan Mohan",
+          "url": "https://open.spotify.com/artist/5Uvn1P3OFu268QovsUAnDu"
+        },
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Udit Narayan",
+          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
+        },
+        {
+          "name": "Javed Akhtar",
+          "url": "https://open.spotify.com/artist/3UpmjPgIFSGqnxXuiwD014"
+        }
+      ],
+      "duration_ms": 427781,
+      "name": "Aisa Des Hai Mera",
+      "url": "https://open.spotify.com/track/4M7pu2MwyGysZM4deGXueq"
     },
     {
       "added_at": "2022-07-18 06:11:34",

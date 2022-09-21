@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5XEAHcCzWcH.md) - [plain]
 
 > The unmistakable sound of Blues piano: the best pianists to have pioneered the sound and shape the genre\. Cover: Ray Charles
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,186 likes - 64 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,234 likes - 64 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5XEAHcCzWcH.md) - [plain]
 | 18 | [Papa's on the House Top](https://open.spotify.com/track/2O36OWzPpO7qg7CxdmPtN3) | [Leroy Carr](https://open.spotify.com/artist/2FtoVJBkfbE89zyZJ0E9eR) | [The Essential Leroy Carr](https://open.spotify.com/album/02k5tV3zpF2khwjxro1oUT) | 2:55 |
 | 19 | [Junco Partner](https://open.spotify.com/track/6h42FqekL3vp5Hm3zbuSVK) | [James Booker](https://open.spotify.com/artist/0gxNgUdRvhVgeq4L3gFamF) | [Junco Partner](https://open.spotify.com/album/4vrbtFQktShLb9fqcfWxYV) | 5:10 |
 | 20 | [None of My Jelly Roll](https://open.spotify.com/track/2fFhD3A1gSpm0liAvtvSdk) | [Sweet Emma Barrett](https://open.spotify.com/artist/0YLo7NrjjafYk8rbapwCZk) | [Her New Orleans Music](https://open.spotify.com/album/6KrB8Sf5g2WpCcWUOE9CpE) | 3:45 |
-| 21 | [Milk And Water](https://open.spotify.com/track/4Bo2E1DybKQL2radivMQFA) | [Amos Milburn](https://open.spotify.com/artist/3uZRvkqeNHKLMFQrJBaUCX) | [Down The Road Apiece \-The Best Of Amos Milburn](https://open.spotify.com/album/04bo29HzmFDq9Un9O93nEp) | 3:10 |
-| 22 | [Lovesick Soul](https://open.spotify.com/track/0E3Ck752Kw29gVpyAVDLDo) | [Eddie Boyd](https://open.spotify.com/artist/6tlPbmYME3fjRkSBb3pjoB) | [The Sonet Blues Story](https://open.spotify.com/album/4PTxdqiU8HhL5GW5Zf0pZ0) | 3:56 |
+| 21 | [Lovesick Soul](https://open.spotify.com/track/0E3Ck752Kw29gVpyAVDLDo) | [Eddie Boyd](https://open.spotify.com/artist/6tlPbmYME3fjRkSBb3pjoB) | [The Sonet Blues Story](https://open.spotify.com/album/4PTxdqiU8HhL5GW5Zf0pZ0) | 3:56 |
+| 22 | [Milk And Water](https://open.spotify.com/track/4Bo2E1DybKQL2radivMQFA) | [Amos Milburn](https://open.spotify.com/artist/3uZRvkqeNHKLMFQrJBaUCX) | [Down The Road Apiece \-The Best Of Amos Milburn](https://open.spotify.com/album/04bo29HzmFDq9Un9O93nEp) | 3:10 |
 | 23 | [Ooh La La](https://open.spotify.com/track/48z80QkPMtPvnwlISGnsQO) | [Champion Jack Dupree](https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7) | [La cave saravah, vol.1](https://open.spotify.com/album/1UQEub9EkeutcHqiBLPXSa) | 6:09 |
 | 24 | [Everytime I Get to Drinking](https://open.spotify.com/track/11YPTpoSLvcOBGB7keHcNi) | [Sunnyland Slim](https://open.spotify.com/artist/5IrMTnoQ7OgoLpFfsisXX2) | [I Didn't Give a Damn If Whites Bought It, Vol\. 4](https://open.spotify.com/album/0bbZ3fsCdmUiKiZwVkY8W8) | 4:15 |
 | 25 | [Ain't Times Hard](https://open.spotify.com/track/7L5U6eRJEFQbjqUUTwDVPu) | [Nick Moss & The Flip Tops](https://open.spotify.com/artist/41z6z2F1HddUUSPOtOhhuk), [Barrelhouse Chuck](https://open.spotify.com/artist/5xdyzBf4bTgRC13sG3dShO), [Kate Moss](https://open.spotify.com/artist/3IP1UVkxCwvyb5wdQVn269) | [Count Your Blessings](https://open.spotify.com/album/0wXMoxr5erc9iBIkzuwzYl) | 4:01 |
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5XEAHcCzWcH.md) - [plain]
 | 63 | [Me and My Gin](https://open.spotify.com/track/5L4sfgGbYh7CgXVBTmUcfz) | [Jimmie Gordon](https://open.spotify.com/artist/6XrOb8biVVH7gH09AIjB7l) | [This Is the Blues! Vol\. 7 \(Mono Version\)](https://open.spotify.com/album/4U9fxJlHlKvp5GwKmenuQ3) | 3:12 |
 | 64 | [I'll Be Right Some Day](https://open.spotify.com/track/3OpoVrckZ1J2IhAri7bWKl) | [Willie Dixon](https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY) | [Nail Jumping](https://open.spotify.com/album/2DegOuID6Bx94UtWX4xYf4) | 2:26 |
 
-Snapshot ID: `MTY1MjQzODk0OCwwMDAwMDAwMDgwMDcxNWU4NDkwMWRlZWVlMzA5ODJjYzFhNTZiOTZl`
+Snapshot ID: `MTY1MjQzODk0OCwwMDAwMDAwMGM1MDhlY2EwNDI4MTJmOWE0ZWI4ZGQ3OWRmY2ZmN2Q4`

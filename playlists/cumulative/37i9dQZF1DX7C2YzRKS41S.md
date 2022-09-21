@@ -4,7 +4,7 @@
 
 > Um pouco de folk, MPB e indie para acordar com o pé na estrada.
 
-374 songs - 22 hr 14 min - [published](https://open.spotify.com/playlist/4PN19Rocw5jhy931gtx7Hy)
+375 songs - 22 hr 17 min - [published](https://open.spotify.com/playlist/4PN19Rocw5jhy931gtx7Hy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,7 +165,7 @@
 | [Home](https://open.spotify.com/track/2OBU3S3Mc3XOYG7wCAYW3Z) | [Dan Croll](https://open.spotify.com/artist/5Rr15NSbi1Xjno1AEP9u21) | [Home](https://open.spotify.com/album/2zFskA4WhcUAMhGdKhVzXo) | 3:46 | 2022-03-25 | 2022-04-21 |
 | [Home](https://open.spotify.com/track/3X01VeoR0GckfiXlFRrJmF) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Home](https://open.spotify.com/album/0227L6DB3iVlI5xDLttmTN) | 4:07 | 2021-12-24 |  |
 | [I Got So High That I Saw Jesus](https://open.spotify.com/track/0ouTaNuDfXPLnXkKi4AYOO) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [I Got So High That I Saw Jesus](https://open.spotify.com/album/7qnNmLMaMfljQNUMyaXpIo) | 3:37 | 2022-03-25 | 2022-04-18 |
-| [I Got So High That I Saw Jesus](https://open.spotify.com/track/3zQikNPCgTVnQLmj5RPn1k) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [THE END OF EVERYTHING](https://open.spotify.com/album/5Gn3fFzlWL89j0hGumtXb5) | 3:37 | 2022-07-04 |  |
+| [I Got So High That I Saw Jesus](https://open.spotify.com/track/3zQikNPCgTVnQLmj5RPn1k) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [THE END OF EVERYTHING](https://open.spotify.com/album/5Gn3fFzlWL89j0hGumtXb5) | 3:37 | 2022-07-04 | 2022-09-21 |
 | [I Think I Met You In A Dream](https://open.spotify.com/track/09MZIpr7ciaUZyxHKb37Mz) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [I Think I Met You In A Dream](https://open.spotify.com/album/22LPEr1Zguz9lVmqLQReEO) | 3:09 | 2022-02-18 | 2022-04-21 |
 | [I Went Hunting](https://open.spotify.com/track/2X0B89nchlocmZ12zyYd7H) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [I Went Hunting](https://open.spotify.com/album/1P1G2eyoP4UphHDjRiol6T) | 3:45 | 2022-07-04 |  |
 | [Ilustração](https://open.spotify.com/track/67gKjKI5PMBgUWTYmXa2Yf) | [Jaffar Bambirra](https://open.spotify.com/artist/7fKgOWFmEK3tIokXoTaXV5) | [Ilustração](https://open.spotify.com/album/4b9bgPJYL0keoE67LGYv1g) | 3:47 | 2021-12-24 | 2022-07-28 |
@@ -281,6 +281,7 @@
 | [Quis Mudar](https://open.spotify.com/track/1eDgTE2hIW2GKps8y4H3IW) | [Tim Bernardes](https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4) | [Recomeçar](https://open.spotify.com/album/5MCqEdFGL3K7ZZavFcJdhb) | 3:08 | 2022-03-25 | 2022-05-19 |
 | [Quiçá](https://open.spotify.com/track/0vIFdIP5wGUmD8D0w3JMyL) | [almanua](https://open.spotify.com/artist/4s2zj4RMLkUdNzJFBkc1NL) | [Quiçá](https://open.spotify.com/album/2mSlSMSYj9AEGn5ZNzOGzr) | 4:20 | 2021-12-24 | 2022-07-29 |
 | [Raízes](https://open.spotify.com/track/24JSk3sRgRL3CyeS9XsIr6) | [arthur victor](https://open.spotify.com/artist/1jVomOMlfDuIWR9JuLUxMy) | [Raízes](https://open.spotify.com/album/2MAajUPaFEbrtFCtxbhjxm) | 4:48 | 2021-12-24 | 2022-05-08 |
+| [Ready to Go](https://open.spotify.com/track/0ImT0gd8nSmypPjZQrEecl) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [The Hardest Part](https://open.spotify.com/album/0CIYj6AV180SmLAEONb2DW) | 3:07 | 2022-08-19 |  |
 | [Ready to Go](https://open.spotify.com/track/4DPbmIOru8LNVnYctKG9oc) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Ready to Go](https://open.spotify.com/album/226XwxWegT3yUEwlvxWmvA) | 3:07 | 2022-07-04 | 2022-09-15 |
 | [Recomeçaria](https://open.spotify.com/track/2vy56ZXuKeDYZmuqSAdVmk) | [Luizga](https://open.spotify.com/artist/2805s9LKfRvmaFi6eK6L0f) | [Presente](https://open.spotify.com/album/3SziD5Z2skKqvr2wobYG2e) | 2:17 | 2022-01-21 | 2022-06-13 |
 | [Recomeço](https://open.spotify.com/track/7pyj2l80Wwz3LnAstQK1dE) | [Lucas Felix](https://open.spotify.com/artist/4bdlQqQxa0NVjqHWkr5meV) | [Recomeço](https://open.spotify.com/album/1vo6iJXFZceDfEz9099CpC) | 3:28 | 2021-12-24 | 2022-07-29 |

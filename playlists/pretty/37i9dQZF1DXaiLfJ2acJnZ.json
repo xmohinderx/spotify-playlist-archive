@@ -1,12 +1,12 @@
 {
   "description": "Lovely, pop-filled, fun.",
-  "num_followers": 34745,
+  "num_followers": 34766,
   "original_name": "Wholesome",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Mjc3NzMwOSwwMDAwMDAwMGViYWZhMDJiNmVhMTYxYzdmZjI1ZjliYjlmZDk0OTRh",
+  "snapshot_id": "MTY0Mjc3NzMwOSwwMDAwMDAwMDRiMDBjNmQ4MzYwY2NjNDUzYmQwYmM1YWE0ZjUwYjFj",
   "tracks": [
     {
       "added_at": "2022-01-21 15:01:49",
@@ -775,22 +775,6 @@
     {
       "added_at": "2022-01-21 15:01:49",
       "album": {
-        "name": "Waves of Blue",
-        "url": "https://open.spotify.com/album/4kYLTRv7rgzUlGVbatSBLD"
-      },
-      "artists": [
-        {
-          "name": "Majid Jordan",
-          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
-        }
-      ],
-      "duration_ms": 208746,
-      "name": "Waves of Blue",
-      "url": "https://open.spotify.com/track/5BQHyj5Pb3dUY8W6TSjeTF"
-    },
-    {
-      "added_at": "2022-01-21 15:01:49",
-      "album": {
         "name": "Feel Something",
         "url": "https://open.spotify.com/album/5hnjWGpT06tLDq8u8WxhGI"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 163866,
       "name": "Feel Something",
       "url": "https://open.spotify.com/track/0JU7KoyKSFgY1zJV2ex6Ee"
+    },
+    {
+      "added_at": "2022-01-21 15:01:49",
+      "album": {
+        "name": "Waves of Blue",
+        "url": "https://open.spotify.com/album/4kYLTRv7rgzUlGVbatSBLD"
+      },
+      "artists": [
+        {
+          "name": "Majid Jordan",
+          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
+        }
+      ],
+      "duration_ms": 208746,
+      "name": "Waves of Blue",
+      "url": "https://open.spotify.com/track/5BQHyj5Pb3dUY8W6TSjeTF"
     },
     {
       "added_at": "2022-01-21 15:01:49",
@@ -911,22 +911,6 @@
     {
       "added_at": "2022-01-21 15:01:49",
       "album": {
-        "name": "Voices",
-        "url": "https://open.spotify.com/album/55w4D3r62g4hmMVvpnVkSV"
-      },
-      "artists": [
-        {
-          "name": "Tusse",
-          "url": "https://open.spotify.com/artist/1BwDWgdDJe3TJXLZkBkpsI"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Voices",
-      "url": "https://open.spotify.com/track/5zxZ7M4RgWZUHlMEwac8vt"
-    },
-    {
-      "added_at": "2022-01-21 15:01:49",
-      "album": {
         "name": "Out of the Blue EP",
         "url": "https://open.spotify.com/album/37b14FQWTZDLom4wPcEywB"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 168410,
       "name": "Out of the Blue",
       "url": "https://open.spotify.com/track/1vi5DdsHyYXVhsnxDZxAaF"
+    },
+    {
+      "added_at": "2022-01-21 15:01:49",
+      "album": {
+        "name": "Voices",
+        "url": "https://open.spotify.com/album/55w4D3r62g4hmMVvpnVkSV"
+      },
+      "artists": [
+        {
+          "name": "Tusse",
+          "url": "https://open.spotify.com/artist/1BwDWgdDJe3TJXLZkBkpsI"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Voices",
+      "url": "https://open.spotify.com/track/5zxZ7M4RgWZUHlMEwac8vt"
     },
     {
       "added_at": "2022-01-21 15:01:49",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2022-01-21 15:01:49",
       "album": {
-        "name": "Daydream",
-        "url": "https://open.spotify.com/album/7H3DDXj9Q5QrfIlIhMt03o"
-      },
-      "artists": [
-        {
-          "name": "Johnny Orlando",
-          "url": "https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW"
-        }
-      ],
-      "duration_ms": 175508,
-      "name": "Daydream",
-      "url": "https://open.spotify.com/track/7cGbXyQknlw334XA0NdH80"
-    },
-    {
-      "added_at": "2022-01-21 15:01:49",
-      "album": {
         "name": "Call My Name",
         "url": "https://open.spotify.com/album/0DtFQfEdnLy29pxYoizSgn"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 201178,
       "name": "Call My Name",
       "url": "https://open.spotify.com/track/3RUi4rBDYospTGr92P7Xin"
+    },
+    {
+      "added_at": "2022-01-21 15:01:49",
+      "album": {
+        "name": "Daydream",
+        "url": "https://open.spotify.com/album/7H3DDXj9Q5QrfIlIhMt03o"
+      },
+      "artists": [
+        {
+          "name": "Johnny Orlando",
+          "url": "https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW"
+        }
+      ],
+      "duration_ms": 175508,
+      "name": "Daydream",
+      "url": "https://open.spotify.com/track/7cGbXyQknlw334XA0NdH80"
     },
     {
       "added_at": "2022-01-21 15:01:49",

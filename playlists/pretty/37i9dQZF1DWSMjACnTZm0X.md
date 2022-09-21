@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjACnTZm0X.md) - [plain]
 
 > Join the global ampiano movement with tracks and artists pushing amapiano on the global stage\. Cover: <a href="https://open.spotify.com/artist/0JTurBlK1OnYn1Ohq7fGuJ?si=q\_qxg5yHSauXo44\_i4aE3A">Frenzyoffixial</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,906 likes - 50 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,909 likes - 50 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

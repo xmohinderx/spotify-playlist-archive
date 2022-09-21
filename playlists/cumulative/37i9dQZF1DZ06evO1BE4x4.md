@@ -4,7 +4,7 @@
 
 > This is Violent Soho\. The essential tracks, all in one playlist.
 
-30 songs - 1 hr 49 min - [published](https://open.spotify.com/playlist/6UIyQ5VyY3HdaXY64zHqcW)
+31 songs - 1 hr 53 min - [published](https://open.spotify.com/playlist/6UIyQ5VyY3HdaXY64zHqcW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Muscle Junkie](https://open.spotify.com/track/6gDmTuKbuGUkFSpVqdZH4r) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Violent Soho](https://open.spotify.com/album/752CwfZ8NvwXHv8IOjnWV0) | 3:16 | 2022-09-16 |  |
 | [Narrow Ways](https://open.spotify.com/track/0k3F1sYirFzPz7o5MW6b2Q) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Violent Soho](https://open.spotify.com/album/752CwfZ8NvwXHv8IOjnWV0) | 3:36 | 2022-09-16 |  |
 | [Neighbour Neighbour](https://open.spotify.com/track/25RDhyRdQzU2k7jsgn04h5) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Neighbour Neighbour](https://open.spotify.com/album/4skF6msX6Vw1U0BbiQYVuF) | 3:33 | 2022-09-16 |  |
-| [No Shade](https://open.spotify.com/track/0KveCmWIH6u2VQ5MpgeobH) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [WACO](https://open.spotify.com/album/6ix7lKcyEpFlEpyiq8vfne) | 4:13 | 2022-09-16 |  |
+| [No Shade](https://open.spotify.com/track/0KveCmWIH6u2VQ5MpgeobH) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [WACO](https://open.spotify.com/album/6ix7lKcyEpFlEpyiq8vfne) | 4:13 | 2022-09-16 | 2022-09-21 |
 | [OK Cathedral](https://open.spotify.com/track/45ERko0Qgz1a1xAHrrKLD9) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Hungry Ghost](https://open.spotify.com/album/7MGL9NDDFd6JdFUAcJ0GbZ) | 4:44 | 2022-09-16 |  |
 | [Outsider](https://open.spotify.com/track/2kwh1mJLQ2BBUEdx4NoIWb) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Violent Soho](https://open.spotify.com/album/752CwfZ8NvwXHv8IOjnWV0) | 3:00 | 2022-09-16 |  |
 | [Paper Plane](https://open.spotify.com/track/3j0rJCwtLGdK136n7d92p7) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Violent Soho \(Australia Version\)](https://open.spotify.com/album/6JekHcc4LeZNIYLanvjWW2) | 3:01 | 2022-09-16 |  |
@@ -38,5 +38,6 @@
 | [Tinderbox](https://open.spotify.com/track/4kzdwZS1CRsIb391XOeTcO) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Tinderbox](https://open.spotify.com/album/6uWSyefA6d0g8mR1EljR89) | 3:54 | 2022-09-16 |  |
 | [Vacation Forever](https://open.spotify.com/track/0MkH3VaXZB98jWQ5JnDeu9) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Everything Is A\-OK](https://open.spotify.com/album/4IayAjHP3LfFZZ79jetguT) | 4:28 | 2022-09-16 |  |
 | [Viceroy](https://open.spotify.com/track/1GDHLUJbmUrd0Jf88q2pZP) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [WACO](https://open.spotify.com/album/6ix7lKcyEpFlEpyiq8vfne) | 3:14 | 2022-09-16 |  |
+| [Waco](https://open.spotify.com/track/7x3k7amEYstlspNVXEp2B5) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [WACO](https://open.spotify.com/album/6ix7lKcyEpFlEpyiq8vfne) | 4:00 | 2022-09-20 |  |
 
 \*This playlist was first scraped on 2022-09-17. Prior content cannot be recovered.

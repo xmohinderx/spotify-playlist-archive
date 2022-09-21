@@ -1,12 +1,12 @@
 {
   "description": "Being alone (again) can be tough, but these songs will keep you company.",
-  "num_followers": 3140700,
+  "num_followers": 3141700,
   "original_name": "Alone Again",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMyOTYwMCwwMDAwMDAwMDI0OTY4M2NhNTI4ZGJiMGQ0NzcwYmIwYzlhZGIxMDBh",
+  "snapshot_id": "MTY2MzMyOTYwMCwwMDAwMDAwMDE5MTQ2NTQ4NWY0OGE1MTI2OTljMTNkYzFjNjhkNTAx",
   "tracks": [
     {
       "added_at": "2022-09-16 12:00:00",
@@ -975,6 +975,22 @@
     {
       "added_at": "2022-09-16 12:00:00",
       "album": {
+        "name": "Coping",
+        "url": "https://open.spotify.com/album/52dIh2e2qt0uiDQySjlrHN"
+      },
+      "artists": [
+        {
+          "name": "Rosie Darling",
+          "url": "https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI"
+        }
+      ],
+      "duration_ms": 190266,
+      "name": "Coping",
+      "url": "https://open.spotify.com/track/4RX020eHQpZbZFP5jpbwOP"
+    },
+    {
+      "added_at": "2022-09-16 12:00:00",
+      "album": {
         "name": "What Is Love? (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1MvF4ulZKH7SaDQs9rE5nc"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 205986,
       "name": "I Miss You (feat. Julia Michaels)",
       "url": "https://open.spotify.com/track/0Ult84lvFuqNvbyXwyRQ58"
-    },
-    {
-      "added_at": "2022-09-16 12:00:00",
-      "album": {
-        "name": "Coping",
-        "url": "https://open.spotify.com/album/52dIh2e2qt0uiDQySjlrHN"
-      },
-      "artists": [
-        {
-          "name": "Rosie Darling",
-          "url": "https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI"
-        }
-      ],
-      "duration_ms": 190266,
-      "name": "Coping",
-      "url": "https://open.spotify.com/track/4RX020eHQpZbZFP5jpbwOP"
     },
     {
       "added_at": "2022-09-16 12:00:00",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2022-09-16 12:00:00",
       "album": {
-        "name": "The Best Damn Thing (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6lqE05fiHWJVYYdMVJNj38"
-      },
-      "artists": [
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        }
-      ],
-      "duration_ms": 239906,
-      "name": "Keep Holding On",
-      "url": "https://open.spotify.com/track/4UPcXTh26ilb7owtuyHqNI"
-    },
-    {
-      "added_at": "2022-09-16 12:00:00",
-      "album": {
         "name": "x (Wembley Edition)",
         "url": "https://open.spotify.com/album/6NoBzYmh5gUusGPCfg0pct"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 258986,
       "name": "Photograph",
       "url": "https://open.spotify.com/track/6fxVffaTuwjgEk5h9QyRjy"
+    },
+    {
+      "added_at": "2022-09-16 12:00:00",
+      "album": {
+        "name": "The Best Damn Thing (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6lqE05fiHWJVYYdMVJNj38"
+      },
+      "artists": [
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "duration_ms": 239906,
+      "name": "Keep Holding On",
+      "url": "https://open.spotify.com/track/4UPcXTh26ilb7owtuyHqNI"
     },
     {
       "added_at": "2022-09-16 12:00:00",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2022-09-16 12:00:00",
       "album": {
-        "name": "Bright Lights (Lights Re-pack / Bonus Version)",
-        "url": "https://open.spotify.com/album/64Pv36CiG9rBcyvKnud02V"
-      },
-      "artists": [
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        }
-      ],
-      "duration_ms": 191826,
-      "name": "Your Song - Bonus Track",
-      "url": "https://open.spotify.com/track/1a9hBnJodCsNcp0HoJAObp"
-    },
-    {
-      "added_at": "2022-09-16 12:00:00",
-      "album": {
         "name": "Handwritten",
         "url": "https://open.spotify.com/album/6sUOosXuYt0oUeczJRbedZ"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 214533,
       "name": "Life Of The Party",
       "url": "https://open.spotify.com/track/14hJ5tc1VCFMWhVn9axRTC"
+    },
+    {
+      "added_at": "2022-09-16 12:00:00",
+      "album": {
+        "name": "Bright Lights (Lights Re-pack / Bonus Version)",
+        "url": "https://open.spotify.com/album/64Pv36CiG9rBcyvKnud02V"
+      },
+      "artists": [
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "duration_ms": 191826,
+      "name": "Your Song - Bonus Track",
+      "url": "https://open.spotify.com/track/1a9hBnJodCsNcp0HoJAObp"
     },
     {
       "added_at": "2022-09-16 12:00:00",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2022-09-16 12:00:00",
       "album": {
-        "name": "Hate Everything",
-        "url": "https://open.spotify.com/album/4NV2SxuesqKwcBdDgACH9R"
-      },
-      "artists": [
-        {
-          "name": "GSoul",
-          "url": "https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL"
-        }
-      ],
-      "duration_ms": 205773,
-      "name": "Hate Everything",
-      "url": "https://open.spotify.com/track/52UDFFwUueOBfJ2vB5BqRr"
-    },
-    {
-      "added_at": "2022-09-16 12:00:00",
-      "album": {
         "name": "The Time Of Our Lives",
         "url": "https://open.spotify.com/album/64aKkqxc3Ur2LYIKeS5osS"
       },
@@ -1783,6 +1767,22 @@
       "duration_ms": 248586,
       "name": "When I Look At You",
       "url": "https://open.spotify.com/track/7ywzEdEuVG1lsjsRCGJfLy"
+    },
+    {
+      "added_at": "2022-09-16 12:00:00",
+      "album": {
+        "name": "Hate Everything",
+        "url": "https://open.spotify.com/album/4NV2SxuesqKwcBdDgACH9R"
+      },
+      "artists": [
+        {
+          "name": "GSoul",
+          "url": "https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL"
+        }
+      ],
+      "duration_ms": 205773,
+      "name": "Hate Everything",
+      "url": "https://open.spotify.com/track/52UDFFwUueOBfJ2vB5BqRr"
     },
     {
       "added_at": "2022-09-16 12:00:00",
@@ -1819,22 +1819,6 @@
     {
       "added_at": "2022-09-16 12:00:00",
       "album": {
-        "name": "Hopeful",
-        "url": "https://open.spotify.com/album/2HkUMYp8oYG62y7qKK2olM"
-      },
-      "artists": [
-        {
-          "name": "AJ Mitchell",
-          "url": "https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77"
-        }
-      ],
-      "duration_ms": 224144,
-      "name": "I Don't Want You Back",
-      "url": "https://open.spotify.com/track/38nKfxyRrjYfx0ODX1W5yB"
-    },
-    {
-      "added_at": "2022-09-16 12:00:00",
-      "album": {
         "name": "Handwritten",
         "url": "https://open.spotify.com/album/6sUOosXuYt0oUeczJRbedZ"
       },
@@ -1847,6 +1831,22 @@
       "duration_ms": 215813,
       "name": "Never Be Alone",
       "url": "https://open.spotify.com/track/4LWIp8HAFxpfg37mnxHqCS"
+    },
+    {
+      "added_at": "2022-09-16 12:00:00",
+      "album": {
+        "name": "Hopeful",
+        "url": "https://open.spotify.com/album/2HkUMYp8oYG62y7qKK2olM"
+      },
+      "artists": [
+        {
+          "name": "AJ Mitchell",
+          "url": "https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77"
+        }
+      ],
+      "duration_ms": 224144,
+      "name": "I Don't Want You Back",
+      "url": "https://open.spotify.com/track/38nKfxyRrjYfx0ODX1W5yB"
     },
     {
       "added_at": "2022-09-16 12:00:00",
@@ -1983,6 +1983,22 @@
     {
       "added_at": "2022-09-16 12:00:00",
       "album": {
+        "name": "Champion",
+        "url": "https://open.spotify.com/album/7Bn79CglkuFFWRJa7w5FPt"
+      },
+      "artists": [
+        {
+          "name": "Elina",
+          "url": "https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9"
+        }
+      ],
+      "duration_ms": 173237,
+      "name": "Champion",
+      "url": "https://open.spotify.com/track/1z1mMZtZW0gvR9FSPc7JpJ"
+    },
+    {
+      "added_at": "2022-09-16 12:00:00",
+      "album": {
         "name": "Handwritten (Revisited)",
         "url": "https://open.spotify.com/album/11fLgnq2LE8p5hzo8urweI"
       },
@@ -2011,22 +2027,6 @@
       "duration_ms": 241373,
       "name": "All Out of Love",
       "url": "https://open.spotify.com/track/6Nq8YtPAHuL1outooeiFde"
-    },
-    {
-      "added_at": "2022-09-16 12:00:00",
-      "album": {
-        "name": "Champion",
-        "url": "https://open.spotify.com/album/7Bn79CglkuFFWRJa7w5FPt"
-      },
-      "artists": [
-        {
-          "name": "Elina",
-          "url": "https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9"
-        }
-      ],
-      "duration_ms": 173237,
-      "name": "Champion",
-      "url": "https://open.spotify.com/track/1z1mMZtZW0gvR9FSPc7JpJ"
     },
     {
       "added_at": "2022-09-16 12:00:00",
@@ -2159,18 +2159,22 @@
     {
       "added_at": "2022-09-16 12:00:00",
       "album": {
-        "name": "Say It Again (Acoustic)",
-        "url": "https://open.spotify.com/album/4skXIqZpJdY12tJy4KJvxV"
+        "name": "half a world away",
+        "url": "https://open.spotify.com/album/25RxV46h2mPurwhtc03UC7"
       },
       "artists": [
         {
-          "name": "Frances",
-          "url": "https://open.spotify.com/artist/4m6VmvHDXWmVdIw6EJGQ86"
+          "name": "remme",
+          "url": "https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5"
+        },
+        {
+          "name": "Clara Mae",
+          "url": "https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu"
         }
       ],
-      "duration_ms": 181408,
-      "name": "Say It Again - Acoustic",
-      "url": "https://open.spotify.com/track/7puldW6ecGUcM3Vau6U0SD"
+      "duration_ms": 207954,
+      "name": "half a world away",
+      "url": "https://open.spotify.com/track/0qYSlBFBpuE61liPdMBQHW"
     },
     {
       "added_at": "2022-09-16 12:00:00",
@@ -2191,22 +2195,18 @@
     {
       "added_at": "2022-09-16 12:00:00",
       "album": {
-        "name": "half a world away",
-        "url": "https://open.spotify.com/album/25RxV46h2mPurwhtc03UC7"
+        "name": "Say It Again (Acoustic)",
+        "url": "https://open.spotify.com/album/4skXIqZpJdY12tJy4KJvxV"
       },
       "artists": [
         {
-          "name": "remme",
-          "url": "https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5"
-        },
-        {
-          "name": "Clara Mae",
-          "url": "https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu"
+          "name": "Frances",
+          "url": "https://open.spotify.com/artist/4m6VmvHDXWmVdIw6EJGQ86"
         }
       ],
-      "duration_ms": 207954,
-      "name": "half a world away",
-      "url": "https://open.spotify.com/track/0qYSlBFBpuE61liPdMBQHW"
+      "duration_ms": 181408,
+      "name": "Say It Again - Acoustic",
+      "url": "https://open.spotify.com/track/7puldW6ecGUcM3Vau6U0SD"
     },
     {
       "added_at": "2022-09-16 12:00:00",
@@ -2275,22 +2275,6 @@
     {
       "added_at": "2022-09-16 12:00:00",
       "album": {
-        "name": "A Star Is Born Soundtrack",
-        "url": "https://open.spotify.com/album/3a3AKiS0o5qVn25cloDYII"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 210200,
-      "name": "Always Remember Us This Way",
-      "url": "https://open.spotify.com/track/1koJk8rrMBlhDZ8MNiLzH9"
-    },
-    {
-      "added_at": "2022-09-16 12:00:00",
-      "album": {
         "name": "Dangerous Woman",
         "url": "https://open.spotify.com/album/3pdKKSqqLVIKmRTGw0x2N7"
       },
@@ -2303,6 +2287,22 @@
       "duration_ms": 202360,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/2ZHH9aoZjrqtFk1SX1dXy7"
+    },
+    {
+      "added_at": "2022-09-16 12:00:00",
+      "album": {
+        "name": "A Star Is Born Soundtrack",
+        "url": "https://open.spotify.com/album/3a3AKiS0o5qVn25cloDYII"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 210200,
+      "name": "Always Remember Us This Way",
+      "url": "https://open.spotify.com/track/1koJk8rrMBlhDZ8MNiLzH9"
     },
     {
       "added_at": "2022-09-16 12:00:00",
@@ -2423,6 +2423,22 @@
     {
       "added_at": "2022-09-16 12:00:00",
       "album": {
+        "name": "Trouble",
+        "url": "https://open.spotify.com/album/6X7HEjHrNHimc0buMQpNya"
+      },
+      "artists": [
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "duration_ms": 235800,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/1UGMu0Tf5nmKoYIPPztbQQ"
+    },
+    {
+      "added_at": "2022-09-16 12:00:00",
+      "album": {
         "name": "The Thrill Of It All (Special Edition)",
         "url": "https://open.spotify.com/album/3XftSbguntyRTBQaGItmfK"
       },
@@ -2439,22 +2455,6 @@
       "duration_ms": 283294,
       "name": "No Peace",
       "url": "https://open.spotify.com/track/75TlwJ8oBgdq8P9kO7uVML"
-    },
-    {
-      "added_at": "2022-09-16 12:00:00",
-      "album": {
-        "name": "Trouble",
-        "url": "https://open.spotify.com/album/6X7HEjHrNHimc0buMQpNya"
-      },
-      "artists": [
-        {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        }
-      ],
-      "duration_ms": 235800,
-      "name": "Lonely",
-      "url": "https://open.spotify.com/track/1UGMu0Tf5nmKoYIPPztbQQ"
     },
     {
       "added_at": "2022-09-16 12:00:00",

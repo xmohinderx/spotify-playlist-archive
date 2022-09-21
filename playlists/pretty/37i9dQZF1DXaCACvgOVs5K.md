@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaCACvgOVs5K.md) - [plain]
 
 > Ibiza season is back for 2022\. Let's dance!
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,008 likes - 100 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,366 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaCACvgOVs5K.md) - [plain]
 | 63 | [Liquor Store](https://open.spotify.com/track/3aLsMcZZTLgQqjpWgeWMMM) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [Liquor Store](https://open.spotify.com/album/4FgvuityoVGuhA5dYXQtIF) | 3:21 |
 | 64 | [Looking For Me](https://open.spotify.com/track/2KYnSFIrSbaKUXWetW7Klt) | [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Kareen Lomax](https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa) | [Do You Dance?](https://open.spotify.com/album/6Az907HDvldO5qxqVyysz0) | 3:31 |
 | 65 | [My Paradise](https://open.spotify.com/track/5erkBzi1uzfVzRotIEDevu) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji) | [My Paradise](https://open.spotify.com/album/1dM4NGu8XRvlZx5CtXM8J2) | 3:31 |
-| 66 | [Nightjar \(feat\. SHELLS\)](https://open.spotify.com/track/2rNy5Ils7RO6m2E2W83CR5) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [SHELLS](https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN) | [Nightjar \(feat\. SHELLS\)](https://open.spotify.com/album/217RKKVaQMcI0f8iOgnjFC) | 2:29 |
-| 67 | [Know My Name](https://open.spotify.com/track/1JeM2RHVfWP3S4mKE3akNf) | [TS7](https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki) | [Know My Name](https://open.spotify.com/album/4u3WpX3v5gyBHFqfH5JObW) | 3:03 |
+| 66 | [Know My Name](https://open.spotify.com/track/1JeM2RHVfWP3S4mKE3akNf) | [TS7](https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki) | [Know My Name](https://open.spotify.com/album/4u3WpX3v5gyBHFqfH5JObW) | 3:03 |
+| 67 | [Nightjar \(feat\. SHELLS\)](https://open.spotify.com/track/2rNy5Ils7RO6m2E2W83CR5) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [SHELLS](https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN) | [Nightjar \(feat\. SHELLS\)](https://open.spotify.com/album/217RKKVaQMcI0f8iOgnjFC) | 2:29 |
 | 68 | [Lights Go Out](https://open.spotify.com/track/18KVIouF8klKE9HdqdpUxd) | [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t) | [Lights Go Out](https://open.spotify.com/album/2JhLwfCqWdJaRCJ9d6gVdh) | 3:46 |
 | 69 | [You've Done Enough](https://open.spotify.com/track/77VqW84V88aKD8Bi8CzEsP) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [Olympia](https://open.spotify.com/album/3r4dG6bUfL4jasKeo50kLE) | 3:32 |
 | 70 | [You Don't Know Me \(feat\. Duane Harden\) \- Radio Edit](https://open.spotify.com/track/7BpyfQEmvi0sUmOq29plEE) | [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE), [Duane Harden](https://open.spotify.com/artist/6t8VAB5OTHKxi4p1I5aqn0) | [You Don't Know Me \(feat\. Duane Harden\)](https://open.spotify.com/album/62vJ3t4nZ50SigVCT6TUwb) | 4:02 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaCACvgOVs5K.md) - [plain]
 | 99 | [Is It You](https://open.spotify.com/track/4jlS72eGLijzfr7PymxDYi) | [PAX](https://open.spotify.com/artist/3NYySx3H1V7zHemD9hmsQv) | [Is It You](https://open.spotify.com/album/0slFvrkkV4qgU8HPsDZDSh) | 2:39 |
 | 100 | [Atlas](https://open.spotify.com/track/54TgI46OnNqcf0SyzQyCL6) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Isles](https://open.spotify.com/album/0EdtTRCl3J22AnWrNpH1w9) | 5:48 |
 
-Snapshot ID: `MTY2MTUzNzc2MCwwMDAwMDAwMDhiOTcyMGFiYmZjYmIxYTEyNzkwYzkwYmQ2NTJlMTQz`
+Snapshot ID: `MTY2MTUzNzc2MCwwMDAwMDAwMDBmMWZjM2E5YzJiZGNmNTE4YzgxMWZkYjYzZDYzNGEz`

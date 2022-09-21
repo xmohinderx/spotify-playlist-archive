@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 
 > ludde is the baddest of them all.\. 😍
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,455 likes - 585 songs - 1 day 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,592 likes - 585 songs - 1 day 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 | 34 | [Seven](https://open.spotify.com/track/0YrwiodQd07LE9vpI0w3Iw) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [Seven](https://open.spotify.com/album/4bahLUJtW6lWbzyAfn4xD0) | 2:04 |
 | 35 | [Run Away to Mars](https://open.spotify.com/track/6G1Mz5yMgn0ydOlIvTrZ65) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [Run Away to Mars](https://open.spotify.com/album/4ks1Xkpt67UXbJamJFZ8et) | 3:33 |
 | 36 | [SHADOW](https://open.spotify.com/track/0wGbyS1tExQSwOYu6UceyE) | [ONIMXRU](https://open.spotify.com/artist/3ysIyoivMDpeqLg0VMRPQw), [SMITHMANE](https://open.spotify.com/artist/5WOke44Ea57bHmJ3X0qluG) | [SHADOW](https://open.spotify.com/album/4w0uRvtIjqipuoZ7ngqqcV) | 2:42 |
-| 37 | [NOT A BREAKUP](https://open.spotify.com/track/2wO2DRtVj18dromHOc4JvQ) | [Dafna](https://open.spotify.com/artist/6FR2ARlfDqNU7BMBaWjGZP) | [NOT A BREAKUP](https://open.spotify.com/album/1LOd11FMtc1MOo3W2rOSOz) | 3:38 |
+| 37 | [NOT A BREAKUP](https://open.spotify.com/track/4mZ9qpvKX9oq08TVFpI8PP) | [Dafna](https://open.spotify.com/artist/6FR2ARlfDqNU7BMBaWjGZP) | [NOT A BREAKUP](https://open.spotify.com/album/1k94h397LZMqDH0pAQxN4F) | 3:38 |
 | 38 | [Old Love](https://open.spotify.com/track/3W4U7TEgILGpq0EmquurtH) | [yuji](https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW), [putri dahlia](https://open.spotify.com/artist/54nGORfHS6Uldjlr4QeN7g) | [Old Love](https://open.spotify.com/album/6mKwqGY2IS3qSs3mgs30A5) | 4:09 |
 | 39 | [Paro](https://open.spotify.com/track/6zvHwijlnwqjS6d46yAffi) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [Paro](https://open.spotify.com/album/7Kt404MeesjKF910O5fTop) | 3:24 |
 | 40 | [Summertime Sadness](https://open.spotify.com/track/1Ist6PR2BZR3n2z2Y5R6S1) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Born To Die – Paradise Edition \(Special Version\)](https://open.spotify.com/album/0Dt3FbpMQwjoT5KNAw0IXR) | 4:24 |
@@ -594,4 +594,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 | 584 | [Cold \(feat\. Future\)](https://open.spotify.com/track/7gwLQ4tZ5UdZ7qNcDyJ8wr) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Red Pill Blues \(Deluxe\)](https://open.spotify.com/album/3ThQ5dvf9wlqB0C7evh5nH) | 3:54 |
 | 585 | [Slumber Party \(feat\. Princess Nokia\)](https://open.spotify.com/track/11ZulcYY4lowvcQm4oe3VJ) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP), [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [DEMIDEVIL](https://open.spotify.com/album/438ToDoVaJH5aTIXXrlDyI) | 2:58 |
 
-Snapshot ID: `MTY2MzU5MjAxNCwwMDAwMDAwMDEzNmM5NjlmOTQ2MWMzYjc3ODVmY2ZiNTk4ZmFjYjUx`
+Snapshot ID: `MTY2MzU5MjAxNCwwMDAwMDAwMGJiOGE3YTM2NTMzNTJkMWE1MWRjNTM0N2QxZDdmNDk5`

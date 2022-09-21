@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZa22FVzx47m.md) - [plain]
 
 > Canciones te inspiran a ti y a todas las mamás.
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,519 likes - 100 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,908 likes - 100 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,13 +64,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZa22FVzx47m.md) - [plain]
 | 54 | [Maldita Primavera](https://open.spotify.com/track/3GUyiFEglEm9rSToOf5YZW) | [Yuri](https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx) | [Coleccion Suprema](https://open.spotify.com/album/3CxDiBxX6u10UpaRnYeKSx) | 3:54 |
 | 55 | [Desde Que Llegaste](https://open.spotify.com/track/4iuQ88fgaqBRkzb1JWKUbZ) | [Reyli Barba](https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ) | [Reyli En La Luna](https://open.spotify.com/album/3BLkomoXh6O4Sp2m9z4tiY) | 3:33 |
 | 56 | [La Fuerza del Destino](https://open.spotify.com/track/0fKqhLgg5CYEW2fLlhtWRj) | [Mecano](https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G) | [Descanso Dominical \(Bonus Tracks Edition\)](https://open.spotify.com/album/5E4nBdPPUynTOEOG7Lj4yA) | 5:11 |
-| 57 | [Si tú no vuelves](https://open.spotify.com/track/1YFBO31kSEYo1DVkjSj8LG) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [Bajo El Signo De Caín](https://open.spotify.com/album/3TNVefBL4j3T9Cr7XU232u) | 4:38 |
-| 58 | [Pero Me Acuerdo de Tí](https://open.spotify.com/track/4B1sb2YVO03sBmyR8bvzEB) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Mi Reflejo](https://open.spotify.com/album/3TdbZH4OnoGoMgil9f1YzK) | 4:25 |
+| 57 | [Pero Me Acuerdo de Tí](https://open.spotify.com/track/4B1sb2YVO03sBmyR8bvzEB) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Mi Reflejo](https://open.spotify.com/album/3TdbZH4OnoGoMgil9f1YzK) | 4:25 |
+| 58 | [Si tú no vuelves](https://open.spotify.com/track/1YFBO31kSEYo1DVkjSj8LG) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [Bajo El Signo De Caín](https://open.spotify.com/album/3TNVefBL4j3T9Cr7XU232u) | 4:38 |
 | 59 | [Nada De Nada](https://open.spotify.com/track/4oAXfBdNH0qHr32w82E8dg) | [Marco di Mauro](https://open.spotify.com/artist/62x8NZZ2E8iLiCTNM7zWvK) | [Nada De Nada \(Edición de lujo\)](https://open.spotify.com/album/6oHnCzahK7EHvqfFbI1vVE) | 4:10 |
 | 60 | [Te Hubieras Ido Antes](https://open.spotify.com/track/20S5GpuTDgnx9nwBFp5Lpb) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [De México](https://open.spotify.com/album/52R4l0OYnS6DBSeiJ4KnBV) | 3:19 |
 | 61 | [Estés Donde Estés](https://open.spotify.com/track/7pZzzxLTZepcPfHIHI7JlG) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [HA\-ASH](https://open.spotify.com/album/0DzhgRe9ovRl6trAcHMUO8) | 4:01 |
-| 62 | [Historia de Taxi](https://open.spotify.com/track/4qmXbnmZxZy9pavpf3YfP5) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [Quién Dijo Ayer](https://open.spotify.com/album/1icNy43dW75nSFOkucRFJZ) | 6:42 |
-| 63 | [Rosas](https://open.spotify.com/track/06p2Ij0lXD45LODQDCov0u) | [La Oreja de Van Gogh](https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC) | [París](https://open.spotify.com/album/0QM5DL8C9uOYI2hGKbLUq8) | 3:57 |
+| 62 | [Rosas](https://open.spotify.com/track/06p2Ij0lXD45LODQDCov0u) | [La Oreja de Van Gogh](https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC) | [París](https://open.spotify.com/album/0QM5DL8C9uOYI2hGKbLUq8) | 3:57 |
+| 63 | [Historia de Taxi](https://open.spotify.com/track/4qmXbnmZxZy9pavpf3YfP5) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [Quién Dijo Ayer](https://open.spotify.com/album/1icNy43dW75nSFOkucRFJZ) | 6:42 |
 | 64 | [Por Amarte](https://open.spotify.com/track/3nTP1d8K9jHFHiozzXGVDF) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Enrique Iglesias](https://open.spotify.com/album/18FB0rct42g5hNr14l70GK) | 4:04 |
 | 65 | [Me equivoqué](https://open.spotify.com/track/0mjwigpuvO4IAAMtoNoUyQ) | [María José](https://open.spotify.com/artist/1dJyh390MvfYPuNbhnbSDs) | [María José](https://open.spotify.com/album/3ZYCIP3Z0UcypRrTLghQ4M) | 3:59 |
 | 66 | [Me va a extrañar \(aka Unchain My Heart\)](https://open.spotify.com/track/35436ddSANnATz1eBT5FAY) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Ricardo Montaner Con La London Metropolitan Orchestra](https://open.spotify.com/album/7dI1jAbtx6nFn2rcQKVPFE) | 4:58 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZa22FVzx47m.md) - [plain]
 | 99 | [Duele El Amor!](https://open.spotify.com/track/2SfWO6xWCJd7q5oiUcphyi) | [Aleks Syntek](https://open.spotify.com/artist/0r8toju2ecKaVtItkzAnNi), [Ana Torroja](https://open.spotify.com/artist/5YekZn3GGnPIURNA6RG124) | [1989\-2009](https://open.spotify.com/album/19I8hvP9qeZOudvIPd7Gv5) | 4:35 |
 | 100 | [Para Amarnos Más](https://open.spotify.com/track/4Kjh2Yot6QjyebFqfLaoMm) | [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p) | [Celebridades\- Mijares](https://open.spotify.com/album/754knedaR3meZPGrnCf1Hf) | 3:29 |
 
-Snapshot ID: `MTY1OTk5Nzc2OCwwMDAwMDAwMDJjNWVjZDQ2NDU4M2UxZmNlNGRmYTE1NGI3ZWMzYjNi`
+Snapshot ID: `MTY1OTk5Nzc2OCwwMDAwMDAwMGE0ZmY2M2FhZGFiNjY1YmY2OTAyOTY3MWNjMzEzZjY3`

@@ -1,12 +1,12 @@
 {
   "description": "Dark and moody progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1369058,
+  "num_followers": 1369413,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMDkwNGRkNzllOGZlNjUzYjFhYzI4ZmI0NTcwOWQ0ODBi",
+  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMDA3NmFlMTdmODNjYjlhZGExYzlhNTkzMmFkODhlYzhm",
   "tracks": [
     {
       "added_at": "2022-07-01 11:37:35",
@@ -75,22 +75,6 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
-        "name": "Forget It",
-        "url": "https://open.spotify.com/album/7eHMIQZVEnyoGAacgmuTTf"
-      },
-      "artists": [
-        {
-          "name": "Matroda",
-          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
-        }
-      ],
-      "duration_ms": 173694,
-      "name": "Forget It",
-      "url": "https://open.spotify.com/track/76XAEIVTSmXwrq41rt2n5G"
-    },
-    {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
         "name": "Horizon",
         "url": "https://open.spotify.com/album/43MmWS3TZ60DH9XKn6SPwv"
       },
@@ -107,26 +91,38 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
-        "name": "Weightless (jamesjamesjames Remix)",
-        "url": "https://open.spotify.com/album/5la1PqKrf6aVJeIlL6i1lv"
+        "name": "Consciousness",
+        "url": "https://open.spotify.com/album/3PXBTfh5elG5YjbNM3QWAP"
       },
       "artists": [
         {
-          "name": "Ben B\u00f6hmer",
-          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
         },
         {
-          "name": "Panama",
-          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
-        },
-        {
-          "name": "jamesjamesjames",
-          "url": "https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ"
+          "name": "Chris Avantgarde",
+          "url": "https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U"
         }
       ],
-      "duration_ms": 249779,
-      "name": "Weightless - jamesjamesjames Remix",
-      "url": "https://open.spotify.com/track/0OOT6JmtkcYidsuQ9Fh54i"
+      "duration_ms": 274551,
+      "name": "Consciousness",
+      "url": "https://open.spotify.com/track/1DOuZaf52j4O1zlyQpxSQx"
+    },
+    {
+      "added_at": "2022-07-01 11:37:35",
+      "album": {
+        "name": "Forget It",
+        "url": "https://open.spotify.com/album/7eHMIQZVEnyoGAacgmuTTf"
+      },
+      "artists": [
+        {
+          "name": "Matroda",
+          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
+        }
+      ],
+      "duration_ms": 173694,
+      "name": "Forget It",
+      "url": "https://open.spotify.com/track/76XAEIVTSmXwrq41rt2n5G"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -155,22 +151,26 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
-        "name": "Invisible (Paul Kalkbrenner Remix)",
-        "url": "https://open.spotify.com/album/4cqsB6UXqiauyUjNFxh8yf"
+        "name": "Weightless (jamesjamesjames Remix)",
+        "url": "https://open.spotify.com/album/5la1PqKrf6aVJeIlL6i1lv"
       },
       "artists": [
         {
-          "name": "NTO",
-          "url": "https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq"
+          "name": "Ben B\u00f6hmer",
+          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
         },
         {
-          "name": "Paul Kalkbrenner",
-          "url": "https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R"
+          "name": "Panama",
+          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
+        },
+        {
+          "name": "jamesjamesjames",
+          "url": "https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ"
         }
       ],
-      "duration_ms": 457036,
-      "name": "Invisible - Paul Kalkbrenner Remix",
-      "url": "https://open.spotify.com/track/2xUsXYIiK18wSnv2SXFGtj"
+      "duration_ms": 249779,
+      "name": "Weightless - jamesjamesjames Remix",
+      "url": "https://open.spotify.com/track/0OOT6JmtkcYidsuQ9Fh54i"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -195,18 +195,22 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
-        "name": "Breathe Me In",
-        "url": "https://open.spotify.com/album/0Ez7Txv5ziazJVEVZq41Rc"
+        "name": "Invisible (Paul Kalkbrenner Remix)",
+        "url": "https://open.spotify.com/album/4cqsB6UXqiauyUjNFxh8yf"
       },
       "artists": [
         {
-          "name": "Harrison",
-          "url": "https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94"
+          "name": "NTO",
+          "url": "https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq"
+        },
+        {
+          "name": "Paul Kalkbrenner",
+          "url": "https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R"
         }
       ],
-      "duration_ms": 178420,
-      "name": "Breathe Me In",
-      "url": "https://open.spotify.com/track/0eiLudweyosA5c7EUJ6y0c"
+      "duration_ms": 457036,
+      "name": "Invisible - Paul Kalkbrenner Remix",
+      "url": "https://open.spotify.com/track/2xUsXYIiK18wSnv2SXFGtj"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -233,28 +237,20 @@
       "url": "https://open.spotify.com/track/3ztXhsmAArhAJAf6eGnu0v"
     },
     {
-      "added_at": "2022-08-12 04:02:00",
+      "added_at": "2022-07-01 11:37:35",
       "album": {
-        "name": "Mercury",
-        "url": "https://open.spotify.com/album/5q2bsjSrluBoWf3F61Fofp"
+        "name": "Breathe Me In",
+        "url": "https://open.spotify.com/album/0Ez7Txv5ziazJVEVZq41Rc"
       },
       "artists": [
         {
-          "name": "HI-LO",
-          "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
-        },
-        {
-          "name": "Space 92",
-          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
-        },
-        {
-          "name": "Oliver Heldens",
-          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94"
         }
       ],
-      "duration_ms": 225346,
-      "name": "Mercury",
-      "url": "https://open.spotify.com/track/25dFcH5EsCJLMSmFDDJLT3"
+      "duration_ms": 178420,
+      "name": "Breathe Me In",
+      "url": "https://open.spotify.com/track/0eiLudweyosA5c7EUJ6y0c"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -281,24 +277,28 @@
       "url": "https://open.spotify.com/track/7nMhRQY2qk6TBfhb64UopK"
     },
     {
-      "added_at": "2022-07-01 11:37:35",
+      "added_at": "2022-08-12 04:02:00",
       "album": {
-        "name": "Consciousness",
-        "url": "https://open.spotify.com/album/3PXBTfh5elG5YjbNM3QWAP"
+        "name": "Mercury",
+        "url": "https://open.spotify.com/album/5q2bsjSrluBoWf3F61Fofp"
       },
       "artists": [
         {
-          "name": "Anyma",
-          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+          "name": "HI-LO",
+          "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
         },
         {
-          "name": "Chris Avantgarde",
-          "url": "https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U"
+          "name": "Space 92",
+          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
+        },
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
         }
       ],
-      "duration_ms": 274551,
-      "name": "Consciousness",
-      "url": "https://open.spotify.com/track/1DOuZaf52j4O1zlyQpxSQx"
+      "duration_ms": 225346,
+      "name": "Mercury",
+      "url": "https://open.spotify.com/track/25dFcH5EsCJLMSmFDDJLT3"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -467,6 +467,22 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
+        "name": "Echoes Of Life: Night",
+        "url": "https://open.spotify.com/album/3XARakl3JkVizUCWSFG0wY"
+      },
+      "artists": [
+        {
+          "name": "Sultan + Shepard",
+          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
+        }
+      ],
+      "duration_ms": 215250,
+      "name": "The Way",
+      "url": "https://open.spotify.com/track/7Ib1fj8HnRmi9WRBpDK6ie"
+    },
+    {
+      "added_at": "2022-07-01 11:37:35",
+      "album": {
         "name": "Power",
         "url": "https://open.spotify.com/album/0ZGfflZX2H16q4Omg1kraL"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 198387,
       "name": "Power",
       "url": "https://open.spotify.com/track/6NpWqc7uYthjC5M7v7c1Gs"
-    },
-    {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
-        "name": "Echoes Of Life: Night",
-        "url": "https://open.spotify.com/album/3XARakl3JkVizUCWSFG0wY"
-      },
-      "artists": [
-        {
-          "name": "Sultan + Shepard",
-          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
-        }
-      ],
-      "duration_ms": 215250,
-      "name": "The Way",
-      "url": "https://open.spotify.com/track/7Ib1fj8HnRmi9WRBpDK6ie"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -1207,22 +1207,22 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
-        "name": "Should Have Seen It Coming",
-        "url": "https://open.spotify.com/album/6yVQrYmOxFjvS4875yrfGa"
+        "name": "Feel Again, Pt. 1",
+        "url": "https://open.spotify.com/album/25UHk7kHvvkRPvXmpkGaTd"
       },
       "artists": [
         {
-          "name": "Franky Wah",
-          "url": "https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco"
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
         },
         {
-          "name": "AETHO",
-          "url": "https://open.spotify.com/artist/6d1k1QqEg5v7gVCJmbilHG"
+          "name": "Wrabel",
+          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
         }
       ],
-      "duration_ms": 238072,
-      "name": "Should Have Seen It Coming",
-      "url": "https://open.spotify.com/track/5XU99uJiaZIlfy1ID23veH"
+      "duration_ms": 178750,
+      "name": "Feel Again",
+      "url": "https://open.spotify.com/track/2oPwqbELgu5i1UtsjqkR3H"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -1243,22 +1243,22 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
-        "name": "Feel Again, Pt. 1",
-        "url": "https://open.spotify.com/album/25UHk7kHvvkRPvXmpkGaTd"
+        "name": "Should Have Seen It Coming",
+        "url": "https://open.spotify.com/album/6yVQrYmOxFjvS4875yrfGa"
       },
       "artists": [
         {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+          "name": "Franky Wah",
+          "url": "https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco"
         },
         {
-          "name": "Wrabel",
-          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
+          "name": "AETHO",
+          "url": "https://open.spotify.com/artist/6d1k1QqEg5v7gVCJmbilHG"
         }
       ],
-      "duration_ms": 178750,
-      "name": "Feel Again",
-      "url": "https://open.spotify.com/track/2oPwqbELgu5i1UtsjqkR3H"
+      "duration_ms": 238072,
+      "name": "Should Have Seen It Coming",
+      "url": "https://open.spotify.com/track/5XU99uJiaZIlfy1ID23veH"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -1519,6 +1519,22 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
+        "name": "Deep State",
+        "url": "https://open.spotify.com/album/52beQVaTRkEsdip6N4nWZo"
+      },
+      "artists": [
+        {
+          "name": "Grum",
+          "url": "https://open.spotify.com/artist/3VEqFWRt47xQAZJMBF3duQ"
+        }
+      ],
+      "duration_ms": 337500,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/0bqjS54zmDlYanW8mlx28k"
+    },
+    {
+      "added_at": "2022-07-01 11:37:35",
+      "album": {
         "name": "Neon Jungle Remixes",
         "url": "https://open.spotify.com/album/2DFDsmaWVdYxxkxGaPi2i2"
       },
@@ -1535,22 +1551,6 @@
       "duration_ms": 249919,
       "name": "Neon Jungle - Lane 8 Remix",
       "url": "https://open.spotify.com/track/4G3qY8rJC9C4BjKpzwsZN3"
-    },
-    {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
-        "name": "Deep State",
-        "url": "https://open.spotify.com/album/52beQVaTRkEsdip6N4nWZo"
-      },
-      "artists": [
-        {
-          "name": "Grum",
-          "url": "https://open.spotify.com/artist/3VEqFWRt47xQAZJMBF3duQ"
-        }
-      ],
-      "duration_ms": 337500,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/0bqjS54zmDlYanW8mlx28k"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
-        "name": "Ashes",
-        "url": "https://open.spotify.com/album/5B5HDCCEGMkJELMnocaoSJ"
-      },
-      "artists": [
-        {
-          "name": "Chapter & Verse",
-          "url": "https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t"
-        }
-      ],
-      "duration_ms": 222250,
-      "name": "Ashes",
-      "url": "https://open.spotify.com/track/2rqgrjE3T96UvvQ0MheJ8T"
-    },
-    {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/6GM324cKBxHB2Hb44u5G8y"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 220644,
       "name": "Gold",
       "url": "https://open.spotify.com/track/22Gd0aeeTTa5E81i5bJ3FB"
+    },
+    {
+      "added_at": "2022-07-01 11:37:35",
+      "album": {
+        "name": "Ashes",
+        "url": "https://open.spotify.com/album/5B5HDCCEGMkJELMnocaoSJ"
+      },
+      "artists": [
+        {
+          "name": "Chapter & Verse",
+          "url": "https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t"
+        }
+      ],
+      "duration_ms": 222250,
+      "name": "Ashes",
+      "url": "https://open.spotify.com/track/2rqgrjE3T96UvvQ0MheJ8T"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -1795,26 +1795,6 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
-        "name": "Roar (Adana Twins Remix)",
-        "url": "https://open.spotify.com/album/3FY1RYMswstlQcPkPIF9hX"
-      },
-      "artists": [
-        {
-          "name": "Patrice B\u00e4umel",
-          "url": "https://open.spotify.com/artist/5OvpF1A65DXs93M9NfPIjT"
-        },
-        {
-          "name": "Adana Twins",
-          "url": "https://open.spotify.com/artist/2JnkjHtuUjz83gkEx8QMS4"
-        }
-      ],
-      "duration_ms": 493580,
-      "name": "Roar - Adana Twins Remix",
-      "url": "https://open.spotify.com/track/5cWtZM21FH4YL0aWq3Syfv"
-    },
-    {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
         "name": "Steps",
         "url": "https://open.spotify.com/album/0uin82gWKieM4DTE77Ayrk"
       },
@@ -1831,22 +1811,22 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
-        "name": "Spectacle",
-        "url": "https://open.spotify.com/album/6TABqazLHONbP5kyTWIFW1"
+        "name": "Roar (Adana Twins Remix)",
+        "url": "https://open.spotify.com/album/3FY1RYMswstlQcPkPIF9hX"
       },
       "artists": [
         {
-          "name": "Estiva",
-          "url": "https://open.spotify.com/artist/1ltDgA6tV4utKM6y1BOYIE"
+          "name": "Patrice B\u00e4umel",
+          "url": "https://open.spotify.com/artist/5OvpF1A65DXs93M9NfPIjT"
         },
         {
-          "name": "Dezza",
-          "url": "https://open.spotify.com/artist/3p7y4jD6cIfONGyx6xaFik"
+          "name": "Adana Twins",
+          "url": "https://open.spotify.com/artist/2JnkjHtuUjz83gkEx8QMS4"
         }
       ],
-      "duration_ms": 193563,
-      "name": "Hero",
-      "url": "https://open.spotify.com/track/5XAQO5MN3T7Z5ecAAql0JV"
+      "duration_ms": 493580,
+      "name": "Roar - Adana Twins Remix",
+      "url": "https://open.spotify.com/track/5cWtZM21FH4YL0aWq3Syfv"
     },
     {
       "added_at": "2022-08-26 13:27:46",
@@ -1867,6 +1847,26 @@
       "duration_ms": 480000,
       "name": "Midnight",
       "url": "https://open.spotify.com/track/0GhMImCJ8bJ1oKDZOhUedJ"
+    },
+    {
+      "added_at": "2022-07-01 11:37:35",
+      "album": {
+        "name": "Spectacle",
+        "url": "https://open.spotify.com/album/6TABqazLHONbP5kyTWIFW1"
+      },
+      "artists": [
+        {
+          "name": "Estiva",
+          "url": "https://open.spotify.com/artist/1ltDgA6tV4utKM6y1BOYIE"
+        },
+        {
+          "name": "Dezza",
+          "url": "https://open.spotify.com/artist/3p7y4jD6cIfONGyx6xaFik"
+        }
+      ],
+      "duration_ms": 193563,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/5XAQO5MN3T7Z5ecAAql0JV"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -1905,22 +1905,6 @@
       "url": "https://open.spotify.com/track/4UwtgYX9wp4z9zLIfzVviV"
     },
     {
-      "added_at": "2022-08-12 04:02:00",
-      "album": {
-        "name": "Murphy",
-        "url": "https://open.spotify.com/album/4YPqdsHuhVRGp2RglgnzSM"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Olander",
-          "url": "https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB"
-        }
-      ],
-      "duration_ms": 308571,
-      "name": "Murphy - Edit",
-      "url": "https://open.spotify.com/track/4n8fxV2m3ESCoQgOaMrR2n"
-    },
-    {
       "added_at": "2022-07-01 11:37:35",
       "album": {
         "name": "Profound Mysteries",
@@ -1939,6 +1923,22 @@
       "duration_ms": 464200,
       "name": "This Time, This Place\u2026",
       "url": "https://open.spotify.com/track/50BApvEvSnoCPYb4ymbb8y"
+    },
+    {
+      "added_at": "2022-08-12 04:02:00",
+      "album": {
+        "name": "Murphy",
+        "url": "https://open.spotify.com/album/4YPqdsHuhVRGp2RglgnzSM"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Olander",
+          "url": "https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB"
+        }
+      ],
+      "duration_ms": 308571,
+      "name": "Murphy - Edit",
+      "url": "https://open.spotify.com/track/4n8fxV2m3ESCoQgOaMrR2n"
     },
     {
       "added_at": "2022-07-01 11:37:35",

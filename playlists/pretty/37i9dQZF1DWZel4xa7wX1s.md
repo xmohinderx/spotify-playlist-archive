@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZel4xa7wX1s.md) - [plain]
 
 > Key words: Contemporary pop, legends, country music \- and something in between\. Just good tunes!
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,342 likes - 60 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,340 likes - 60 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZel4xa7wX1s.md) - [plain]
 | 41 | [Everybody's Someone \(with Olivia Newton\-John\)](https://open.spotify.com/track/2DjVZhFqVCRcIw1qo002co) | [Cliff Richard](https://open.spotify.com/artist/2nvKpWcP8etYTq4JrRiUiy), [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [Rise Up](https://open.spotify.com/album/1ixsXzGu3qPdWhSP6uVe8o) | 3:45 |
 | 42 | [My Love Goes On \(feat\. Joss Stone\)](https://open.spotify.com/track/0irDfV3ctQGVN69ograYiK) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35), [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [My Love Goes On \(feat\. Joss Stone\)](https://open.spotify.com/album/3Cq3SXwDWPgfurTBArted5) | 3:36 |
 | 43 | [We Need Love \- from Songland](https://open.spotify.com/track/2GtSvnYFfj7vvpo9B0FqlI) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [We Need Love \(from Songland\)](https://open.spotify.com/album/5ek765URdBnZNbVtzDmQ8c) | 2:39 |
-| 44 | [I've Gotta Be Me](https://open.spotify.com/track/19I5aPSNdfo86gMAekHWxT) | [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa) | [I've Gotta Be Me](https://open.spotify.com/album/7HZxoITz0x1fCsNQKrXoqD) | 2:56 |
-| 45 | [For Real](https://open.spotify.com/track/4SazNxh9XSYD65EHiv2ZTx) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [The Best Of Everything \- The Definitive Career Spanning Hits Collection 1976\-2016](https://open.spotify.com/album/32OhZ2CWxc259H9w52JMTH) | 3:51 |
+| 44 | [For Real](https://open.spotify.com/track/4SazNxh9XSYD65EHiv2ZTx) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [The Best Of Everything \- The Definitive Career Spanning Hits Collection 1976\-2016](https://open.spotify.com/album/32OhZ2CWxc259H9w52JMTH) | 3:51 |
+| 45 | [I've Gotta Be Me](https://open.spotify.com/track/19I5aPSNdfo86gMAekHWxT) | [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa) | [I've Gotta Be Me](https://open.spotify.com/album/7HZxoITz0x1fCsNQKrXoqD) | 2:56 |
 | 46 | [More Than Friends \(feat\. Meghan Trainor\)](https://open.spotify.com/track/2Eowpnfjs5iXP8OLToAOYA) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [More Than Friends \(feat\. Meghan Trainor\)](https://open.spotify.com/album/5E6dG2q42szysfESYn40FL) | 3:01 |
 | 47 | [At the End of the Day](https://open.spotify.com/track/4my3EKKyF3ASnJ7OPHTBUl) | [Gilbert O'Sullivan](https://open.spotify.com/artist/4HVmeVTQBgvTuvjB1JYwaf) | [Gilbert O'Sullivan](https://open.spotify.com/album/147bBWdV1tgPQ5pabOzQF4) | 3:11 |
 | 48 | [If You See Her, Say Hello \- Take 1](https://open.spotify.com/track/6cLewsHaYRcexjUMJapSdR) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [More Blood, More Tracks: The Bootleg Series, Vol\. 14 \(Sampler\)](https://open.spotify.com/album/5faKzawYFUfk3IRRe6ERXl) | 3:57 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZel4xa7wX1s.md) - [plain]
 | 59 | [Amazing](https://open.spotify.com/track/0JahrDBriRtoaO473f00rk) | [Paul Carrack](https://open.spotify.com/artist/0FFuvdY7fuiuTmHN9unYoz) | [These Days](https://open.spotify.com/album/0OyJRO76yPcp9woysD5VT6) | 4:01 |
 | 60 | [Loves Missing](https://open.spotify.com/track/78W2JgujSHp98M87UJkcjM) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Free](https://open.spotify.com/album/2aRxolqVA2v2TFeuWPIuEI) | 4:19 |
 
-Snapshot ID: `MTU3NTAyMDI3NSwwMDAwMDAwMDhiMzlhMDAyZjlhMmYzODBiOWZhYjc1NDljMGRkZjM5`
+Snapshot ID: `MTU3NTAyMDI3NSwwMDAwMDAwMDJkMjMzMjYwZjkxMTMwNTk2Yjc0MzVkMDdhMzBiMGRk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcbAIldMQMIs.md) - [plain]
 
 > indie pop when ur crushing so hard it hurts
 
-[Spotify](https://open.spotify.com/user/spotify) - 420,467 likes - 70 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 420,845 likes - 70 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcbAIldMQMIs.md) - [plain]
 | 29 | [Drew Barrymore](https://open.spotify.com/track/06u5LrUpbosQlQ1QJFhPpG) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Ctrl](https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh) | 3:51 |
 | 30 | [Be My Mistake](https://open.spotify.com/track/18UsAG7SfOQ5sxJEdjAMH0) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [A Brief Inquiry Into Online Relationships](https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY) | 4:16 |
 | 31 | [Loverboy](https://open.spotify.com/track/3CboywxfJIgvHqi2FF4exb) | [A\-Wall](https://open.spotify.com/artist/56OjNTX2bkrdGcB0staUOV) | [Loverboy](https://open.spotify.com/album/1K1loWZRyk1Dtk5zIy4qjx) | 3:44 |
-| 32 | [4EVER](https://open.spotify.com/track/5mIOsPuQdXchVY0jB5NO9Q) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [4EVER](https://open.spotify.com/album/7E5bHNtTN25JAw8vJALDz9) | 2:39 |
-| 33 | [striptease](https://open.spotify.com/track/47xgQmlCCR6XNAjNcVU0co) | [carwash](https://open.spotify.com/artist/53k2km8u55n9YaJJB7scjX) | [striptease](https://open.spotify.com/album/1BV3rjvNM2gzE7dDYojukl) | 2:40 |
+| 32 | [striptease](https://open.spotify.com/track/47xgQmlCCR6XNAjNcVU0co) | [carwash](https://open.spotify.com/artist/53k2km8u55n9YaJJB7scjX) | [striptease](https://open.spotify.com/album/1BV3rjvNM2gzE7dDYojukl) | 2:40 |
+| 33 | [4EVER](https://open.spotify.com/track/5mIOsPuQdXchVY0jB5NO9Q) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [4EVER](https://open.spotify.com/album/7E5bHNtTN25JAw8vJALDz9) | 2:39 |
 | 34 | [Pain](https://open.spotify.com/track/7CIERzyqIwLVKGp00YbHRO) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Pain](https://open.spotify.com/album/6N4ySRXQsXl6g9mCr7QPFx) | 1:38 |
 | 35 | [A Soulmate Who Wasn’t Meant to Be](https://open.spotify.com/track/0gOz9JUXsaKVzLTSmFDtdo) | [Jess Benko](https://open.spotify.com/artist/6U53xCCVXmyimAgsBjCS8P) | [Do You Love Me, or Are You Just Lonely?](https://open.spotify.com/album/28B3NkA4cyPjPH0EJJTsN3) | 5:16 |
 | 36 | [drunk text me](https://open.spotify.com/track/5gukv8x9eP58gFy2OcZEBQ) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [closer to closure](https://open.spotify.com/album/6CfZkq2gT8JmDKJGgHOIf1) | 3:33 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcbAIldMQMIs.md) - [plain]
 | 41 | [Hey Lover!](https://open.spotify.com/track/7rC3P7tpWriaC4hYWKwGQd) | [Wabie](https://open.spotify.com/artist/3wOQaMNQU0rbzWyGXIudmE) | [Cyclones and Hey Lover](https://open.spotify.com/album/076hhK2bCjHhQJqWY7wRh0) | 2:42 |
 | 42 | [Fool](https://open.spotify.com/track/5Yx9t9RgATAtYoHN8gbRM0) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [Next Thing](https://open.spotify.com/album/0vhRTvVCv9O5orRMgFjxT1) | 2:04 |
 | 43 | [Comfort Crowd](https://open.spotify.com/track/6uaBrivDHCaV0uBTiwHTUi) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 2:54 |
-| 44 | [Bossa No Sé \(feat\. Jean Carter\)](https://open.spotify.com/track/3kEsMLO3qUUwiXeCndsMIb) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [Jean Carter](https://open.spotify.com/artist/2LRR1XoqMZ64hebNjiFJqj) | [Para Mi](https://open.spotify.com/album/6e8eJS3DUWZ9SAjHE5AD5m) | 3:21 |
-| 45 | [Teenage Dream](https://open.spotify.com/track/3Y2MvObZdPakD1X71KOxCD) | [Stephen Dawes](https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose) | [Teenage Dream](https://open.spotify.com/album/0FPqPpVTND59rpe6YsNnyz) | 2:57 |
+| 44 | [Teenage Dream](https://open.spotify.com/track/3Y2MvObZdPakD1X71KOxCD) | [Stephen Dawes](https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose) | [Teenage Dream](https://open.spotify.com/album/0FPqPpVTND59rpe6YsNnyz) | 2:57 |
+| 45 | [Bossa No Sé \(feat\. Jean Carter\)](https://open.spotify.com/track/3kEsMLO3qUUwiXeCndsMIb) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [Jean Carter](https://open.spotify.com/artist/2LRR1XoqMZ64hebNjiFJqj) | [Para Mi](https://open.spotify.com/album/6e8eJS3DUWZ9SAjHE5AD5m) | 3:21 |
 | 46 | [fools \(can't help falling in love\) \(feat\. Sody\)](https://open.spotify.com/track/4VEEDnEFLI9dUy5QA51rom) | [Foster](https://open.spotify.com/artist/6vCIRD06VaQwwaZS0TqiCz), [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt), [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [fools \(can't help falling in love\) \(feat\. Sody\)](https://open.spotify.com/album/4mNmrwxha3NNfEyciju5wc) | 2:45 |
-| 47 | [Love Affair](https://open.spotify.com/track/4ZaRg5Sf4TKr0YcFRLh7QJ) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Love Language](https://open.spotify.com/album/11SCAGedBEKgapd6mCZNZ5) | 3:10 |
+| 47 | [Nothing's Gonna Hurt You Baby](https://open.spotify.com/track/3GhsBdS9ulPK3KCdwHRPhG) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [I.](https://open.spotify.com/album/6w9osZGOS8B7XWW51SBwFT) | 4:46 |
 | 48 | [Crush Culture](https://open.spotify.com/track/2sHwSBNDZN2yjCtgwStYt1) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Sunset Season](https://open.spotify.com/album/16pubXUlqRziVWRsT6lLNz) | 3:24 |
-| 49 | [Nothing's Gonna Hurt You Baby](https://open.spotify.com/track/3GhsBdS9ulPK3KCdwHRPhG) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [I.](https://open.spotify.com/album/6w9osZGOS8B7XWW51SBwFT) | 4:46 |
+| 49 | [Love Affair](https://open.spotify.com/track/4ZaRg5Sf4TKr0YcFRLh7QJ) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Love Language](https://open.spotify.com/album/11SCAGedBEKgapd6mCZNZ5) | 3:10 |
 | 50 | [Hello?](https://open.spotify.com/track/7qwt4xUIqQWCu1DJf96g2k) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag), [Rejjie Snow](https://open.spotify.com/artist/3lLHpTOJ11tWiUNGYN14gt) | [diary 001](https://open.spotify.com/album/3NEDQmYF1roygFssVEwkwv) | 2:15 |
 | 51 | [She](https://open.spotify.com/track/45h4w81P5iJJTSeR0jJUQ8) | [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Human](https://open.spotify.com/album/6Kr92CEAh6YLlEO8ubps17) | 3:33 |
 | 52 | [Habit](https://open.spotify.com/track/4BsLwvaJOTOHDNg7xMpvrL) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Habit](https://open.spotify.com/album/2vIIWsslRiFHiHPWFTsdaE) | 2:33 |
@@ -72,11 +72,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcbAIldMQMIs.md) - [plain]
 | 62 | [blue](https://open.spotify.com/track/7pt64sepCy5QmDrgy9wOJS) | [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [blue](https://open.spotify.com/album/3GsV8bdcTiMKRlrRlnnHvo) | 3:04 |
 | 63 | [Make Me Your Queen](https://open.spotify.com/track/5QJuMhGWTUB4t9BqR7ndL3) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [What Do You Think About the Car?](https://open.spotify.com/album/3HJiLDJgWA9Z0MvCxlzHYQ) | 3:41 |
 | 64 | [Wishful Thinking](https://open.spotify.com/track/06Xh1KvQofFghlSt33mFjc) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [FIRE ON MARZZ](https://open.spotify.com/album/6pTMhQX8gt1xegiIwo3Ekb) | 3:33 |
-| 65 | [First Date](https://open.spotify.com/track/733hyyG8U8kxxebds98nc6) | [frad](https://open.spotify.com/artist/1XLYJ9VzlgEpBdlkC4MhOL) | [First Date](https://open.spotify.com/album/1nU6zoYEGCPBe6qTjbxwYH) | 2:53 |
-| 66 | [If You Want To](https://open.spotify.com/track/7I1kle4TNmkfednJDKo8GR) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Patched Up](https://open.spotify.com/album/7zPBy6Rjmijd4p8drmQPu7) | 3:43 |
+| 65 | [If You Want To](https://open.spotify.com/track/7I1kle4TNmkfednJDKo8GR) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Patched Up](https://open.spotify.com/album/7zPBy6Rjmijd4p8drmQPu7) | 3:43 |
+| 66 | [First Date](https://open.spotify.com/track/733hyyG8U8kxxebds98nc6) | [frad](https://open.spotify.com/artist/1XLYJ9VzlgEpBdlkC4MhOL) | [First Date](https://open.spotify.com/album/1nU6zoYEGCPBe6qTjbxwYH) | 2:53 |
 | 67 | [Was It Something I Said](https://open.spotify.com/track/65j65yDSE06CNKAPjsHoJt) | [MyKey](https://open.spotify.com/artist/191tnItkCke3YcHpUxDOD9) | [Was It Something I Said](https://open.spotify.com/album/6MIBfXSkuo1F9fiNVCBsZH) | 3:40 |
 | 68 | [Butterfly](https://open.spotify.com/track/4qkVALwOxCIEZ7I5gkZ3m4) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Butterfly](https://open.spotify.com/album/4nTs6mHKBGIvSJTL1IXE5i) | 2:40 |
 | 69 | [Feels So Easy](https://open.spotify.com/track/671QGJAMRtE5Gtaa3T8GV4) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x) | [Feels So Easy](https://open.spotify.com/album/1yB6oGVd0ehSSRaHGNlFd3) | 2:26 |
 | 70 | [Kenny](https://open.spotify.com/track/6FmnMoph4yx7zjhuBcrHDv) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Kenny](https://open.spotify.com/album/33xwiZOclaWIDKouzuc32w) | 3:14 |
 
-Snapshot ID: `MTY2MjY5NjA2MCwwMDAwMDAwMGVhZWZhZmFiNzQxMzg3MTA0YmJhNmE0MzRkMDg2OTIx`
+Snapshot ID: `MTY2MjY5NjA2MCwwMDAwMDAwMDE3YTM5NTllYWFlOTY3NWIwOTRhNTZiZjQ1OWUyMjI3`

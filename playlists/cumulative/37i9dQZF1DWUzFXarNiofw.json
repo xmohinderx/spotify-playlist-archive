@@ -2316,6 +2316,24 @@
     },
     {
       "album": {
+        "name": "Every Pretty Girl In The City",
+        "url": "https://open.spotify.com/album/0HvrxDrkTUtngi2RAcvRKo"
+      },
+      "artists": [
+        {
+          "name": "WanMor",
+          "url": "https://open.spotify.com/artist/5XmuuM2C6t4HSPa3FSuU3h"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154634,
+      "name": "Every Pretty Girl In The City",
+      "url": "https://open.spotify.com/track/7xXEVCWZvpRfP2UxLfblnj"
+    },
+    {
+      "album": {
         "name": "blue water road",
         "url": "https://open.spotify.com/album/2WfV3cpI2BUuIxMISh9nqF"
       },

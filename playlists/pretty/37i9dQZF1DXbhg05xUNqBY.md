@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbhg05xUNqBY.md) - [plain]
 
 > Breathe deep, and relax with the softer side of Christian music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,465 likes - 70 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,645 likes - 70 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,11 +13,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbhg05xUNqBY.md) - [plain]
 | 3 | [Peace Be Still](https://open.spotify.com/track/4epvekncJds5DpsOOjBT9B) | [Hope Darst](https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36) | [Peace Be Still](https://open.spotify.com/album/5NB3XmeK1ICymTWKPEWnSt) | 5:20 |
 | 4 | [No One Ever Cared for Me Like Jesus](https://open.spotify.com/track/2oIFaafMda5ATaMr2b9pK8) | [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW) | [Forever Amen](https://open.spotify.com/album/4INKppNLM2RZwGmggvpMvY) | 4:53 |
 | 5 | [Creio Que Tu És a Cura](https://open.spotify.com/track/5jx2LwFHh9zj1iqxh6BtLe) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Creio Que Tu És a Cura](https://open.spotify.com/album/1C6VxwtIawHZhDybYTXol6) | 5:51 |
-| 6 | [Sueños](https://open.spotify.com/track/3nOjFj0WWbsci9foo3o2tk) | [Un Corazón](https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm), [Daniel Jaguar](https://open.spotify.com/artist/1BB1RTgquZcIV9ZmbVYqhu) | [Todos A La Mesa](https://open.spotify.com/album/6Etivewzt1lcrYkWUAqnd9) | 4:29 |
+| 6 | [Yahweh Elyon](https://open.spotify.com/track/1b148Civ2D3kkfkf2Q5vx2) | [Tekoa](https://open.spotify.com/artist/7Fqu2gBrthnYE53IGOltaI), [Nathan Staggers](https://open.spotify.com/artist/0NPx3nSANBI85VKkLPmiMm) | [Yahweh Elyon](https://open.spotify.com/album/3AHSvulyhaQ2SBwd2CRKpN) | 3:14 |
 | 7 | [Broken People](https://open.spotify.com/track/3kdBJj2IH9h4urhoAlWWiZ) | [Israel & New Breed](https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E), [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [Project LA: Alive in Los Angeles](https://open.spotify.com/album/45rmoHNeEtDa0SHbl3FdSL) | 9:18 |
 | 8 | [Wings](https://open.spotify.com/track/3JnSE5L6NV0W22ZcSJLrBs) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Wings](https://open.spotify.com/album/6aAPVuhruUUOmdW4VXsT7t) | 2:48 |
 | 9 | [Need](https://open.spotify.com/track/2RfgkRJsO6BllEhl2d9C6s) | [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [Need](https://open.spotify.com/album/4LvD9dnrTbni49Os2ibSPR) | 3:22 |
-| 10 | [Yahweh Elyon](https://open.spotify.com/track/1b148Civ2D3kkfkf2Q5vx2) | [Tekoa](https://open.spotify.com/artist/7Fqu2gBrthnYE53IGOltaI), [Nathan Staggers](https://open.spotify.com/artist/0NPx3nSANBI85VKkLPmiMm) | [Yahweh Elyon](https://open.spotify.com/album/3AHSvulyhaQ2SBwd2CRKpN) | 3:14 |
+| 10 | [Sueños](https://open.spotify.com/track/3nOjFj0WWbsci9foo3o2tk) | [Un Corazón](https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm), [Daniel Jaguar](https://open.spotify.com/artist/1BB1RTgquZcIV9ZmbVYqhu) | [Todos A La Mesa](https://open.spotify.com/album/6Etivewzt1lcrYkWUAqnd9) | 4:29 |
 | 11 | [You Didn't Break It](https://open.spotify.com/track/7je4oOSxRs9KssL0L2lqQN) | [Mark Barlow](https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl) | [You Didn't Break It](https://open.spotify.com/album/59ZgNeHrx3KxmMZHQjnGiG) | 4:52 |
 | 12 | [Same God](https://open.spotify.com/track/3kHh1th3S2di1tg5XoZTzU) | [Hannah Kerr](https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq) | [Same God](https://open.spotify.com/album/294x9L2GHOfyL9k0Ufo1qh) | 3:49 |
 | 13 | [Constellations](https://open.spotify.com/track/4ggf5GOKRt0BuvErp8P87t) | [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [Canyon](https://open.spotify.com/album/7Hbyzqec8Ls87yM0J7xCaQ) | 3:40 |
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbhg05xUNqBY.md) - [plain]
 | 33 | [Peace \- Acoustic](https://open.spotify.com/track/3MCsTv1aRe3rE7PDso4ses) | [Anna Golden](https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe) | [Peace](https://open.spotify.com/album/4dTADOo6eZ7MztRDwgqHMz) | 5:07 |
 | 34 | [Wash Me Clean](https://open.spotify.com/track/7jnKoJHxdjjjQGqbkgyRPH) | [Josh Garrels](https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8) | [Peace to All Who Enter Here](https://open.spotify.com/album/5OSq9qdMdN2DyGx90wekZk) | 3:42 |
 | 35 | [It's a Wonderful Life](https://open.spotify.com/track/4ieeVg8E0Mws1kaSBoQZOj) | [John Lucas](https://open.spotify.com/artist/7iEy8zKFtlYIINaxxLIyBk) | [It's a Wonderful Life](https://open.spotify.com/album/4IUddwGckU9duvn9dEQLnz) | 4:09 |
-| 36 | [New Day](https://open.spotify.com/track/0KukPaDC7s9OVAaTu9rPaJ) | [John Mark Pantana](https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG), [Mark Barlow](https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl) | [New Day](https://open.spotify.com/album/4gkzovY1vntp4pgxxBcz5y) | 2:55 |
+| 36 | [Can’t Get Enough](https://open.spotify.com/track/6zp8BWzu4dzuygZTVf5H2H) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Can’t Get Enough](https://open.spotify.com/album/474MpKHvn3W8j2E9x3qEfu) | 2:11 |
 | 37 | [Digital Death](https://open.spotify.com/track/66Y2qVIDNRfNypqUSlX57Q) | [Jervis Campbell](https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW) | [Onward & Upward](https://open.spotify.com/album/6bPc9nUVS4Hk4M2RCGtjFi) | 4:50 |
-| 38 | [Can’t Get Enough](https://open.spotify.com/track/6zp8BWzu4dzuygZTVf5H2H) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Can’t Get Enough](https://open.spotify.com/album/474MpKHvn3W8j2E9x3qEfu) | 2:11 |
+| 38 | [New Day](https://open.spotify.com/track/0KukPaDC7s9OVAaTu9rPaJ) | [John Mark Pantana](https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG), [Mark Barlow](https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl) | [New Day](https://open.spotify.com/album/4gkzovY1vntp4pgxxBcz5y) | 2:55 |
 | 39 | [Hallelujah \(In Your Arms\)](https://open.spotify.com/track/3gg07cCfx8W4oA4ASElvhs) | [Semler](https://open.spotify.com/artist/1UPqLSmKOY8Ld8LoAuNA5g) | [Late Bloomer](https://open.spotify.com/album/3UVxs4HGKC84VG8kQdRjJz) | 3:55 |
 | 40 | [It Is Well With My Soul](https://open.spotify.com/track/4aQ5Z7NMkYNFwwGKXc43Pe) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx) | [It Is Well With My Soul](https://open.spotify.com/album/5vuquqvqSQIH1Og1QkMnFu) | 6:08 |
 | 41 | [Omnipotent Yet Intimate](https://open.spotify.com/track/6gveqMRdyw6wxWgmSKW4vT) | [Ben Potter](https://open.spotify.com/artist/7MgoxvbWh0Svv2Yqt0V2iX), [Elyssa Smith](https://open.spotify.com/artist/0p7lJtfYpKXr9KClOkpRaF) | [Omnipotent Yet Intimate](https://open.spotify.com/album/4qUDEpOHh14cpHgKrFLabN) | 4:39 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbhg05xUNqBY.md) - [plain]
 | 69 | [Help Is on the Way](https://open.spotify.com/track/6XKKR2EK2L6MV6zRQQuVxe) | [Amanda Cook](https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP) | [Help Is on the Way](https://open.spotify.com/album/7dAapYfDJBwmlF7ZWsLTXV) | 3:40 |
 | 70 | [Psalm 42 \(Loudest Praise\)](https://open.spotify.com/track/6x8yjJaCVAzjoSCD3MEOaJ) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Psalm 42 \(Loudest Praise\)](https://open.spotify.com/album/7lRjBY8NzfbMvNYijKMVgB) | 5:55 |
 
-Snapshot ID: `MTYzNTY0NDEyNiwwMDAwMDAwMDk1YWRhZGVlNjdkNWE2ZWViN2E1NmEwMTRhNzQ1YzJj`
+Snapshot ID: `MTYzNTY0NDEyNiwwMDAwMDAwMDM2ZTI2MmUxODY2ZDVjYWVjNTJlMTgzZWQwYjgxMjZl`

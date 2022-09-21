@@ -4,7 +4,7 @@
 
 > Genre\-defying artists pushing boundaries in electronic ambient music\. Cover: JakoJako
 
-245 songs - 20 hr 56 min - [published](https://open.spotify.com/playlist/7yZuMWSP3DmPnpKPoOfSdU)
+246 songs - 21 hr 0 min - [published](https://open.spotify.com/playlist/7yZuMWSP3DmPnpKPoOfSdU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,9 +192,10 @@
 | [Shortwave Memories](https://open.spotify.com/track/2XCBIIIzpn2dCWJG3uiNuf) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Shortwave Memories](https://open.spotify.com/album/19qBP7vJMQXgn78B3LfqRN) | 7:53 | 2021-12-26 | 2022-07-29 |
 | [Shruti](https://open.spotify.com/track/0TgfYjPVPGuWIa3VURQsDL) | [Lobo Lawen](https://open.spotify.com/artist/6T5fcQ6WFoV1IjfcdU7hAJ) | [Shruti](https://open.spotify.com/album/3SaojN7o1djtTr1W3uXM1Q) | 4:51 | 2022-01-07 | 2022-07-23 |
 | [Shut You Down \- Mogwai Remix](https://open.spotify.com/track/7lATA7vYdauDytEhW5x1iq) | [Clark](https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta), [Yair Elazar Glotman](https://open.spotify.com/artist/5WauIMQCkt1pLvm15mi22B), [Yamila](https://open.spotify.com/artist/1C2cyevjTKPJ4WVvTlPzUF), [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [Shut You Down \(Mogwai Remix\)](https://open.spotify.com/album/6OlPyb2efRYOKFosqOkQCq) | 5:18 | 2021-12-26 | 2022-07-29 |
-| [Silicon Jungle \- Sofie Birch Remix](https://open.spotify.com/track/3zpbuCezsYzGBtaNI2whRN) | [Para One](https://open.spotify.com/artist/5MRONaryo2z75lLiuJ0NWJ), [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [Silicon Jungle \(Sofie Birch Remix\)](https://open.spotify.com/album/0G7LEsMsmaZX2f9w8u4hrP) | 5:21 | 2021-12-26 |  |
+| [Silicon Jungle \- Sofie Birch Remix](https://open.spotify.com/track/3zpbuCezsYzGBtaNI2whRN) | [Para One](https://open.spotify.com/artist/5MRONaryo2z75lLiuJ0NWJ), [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [Silicon Jungle \(Sofie Birch Remix\)](https://open.spotify.com/album/0G7LEsMsmaZX2f9w8u4hrP) | 5:21 | 2021-12-26 | 2022-09-21 |
 | [Simferopol](https://open.spotify.com/track/10NtTpFDhKyNvZYPtjcrZt) | [Andrew Pekler](https://open.spotify.com/artist/4nDIRB3WZRZ40uSmZG0q6J), [Giuseppe Ielasi](https://open.spotify.com/artist/7JqFxlbv8o0djCv6o1LWLL) | [Palimpsests](https://open.spotify.com/album/3zh7gaR5TzIP4qE4QcI4uv) | 2:54 | 2021-12-26 | 2022-07-29 |
 | [Simulacrum II \- Roly Porter Remix](https://open.spotify.com/track/0qfAe2NZhRf5y958UrK4HH) | [Aho Ssan](https://open.spotify.com/artist/6DP0aNDMupNmkyK4drCrvC), [Roly Porter](https://open.spotify.com/artist/4RN8pUdphaky5GRL8rUL6P) | [Simulacrum Remixed](https://open.spotify.com/album/4IkLBRzKXlH5Y90CZRYkuo) | 6:11 | 2021-12-26 | 2022-01-14 |
+| [Sine Waves](https://open.spotify.com/track/3iLbERuL98HVj4utkn7U04) | [Martin Roth](https://open.spotify.com/artist/4LoSbPey3kklzX5f2KEks1), [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Mono No Aware](https://open.spotify.com/album/70hyp5k7zuvuI52UZvWBKx) | 4:38 | 2022-09-20 |  |
 | [Singularity](https://open.spotify.com/track/5H7MkToBZTfphmaYyCFNWS) | [Germind](https://open.spotify.com/artist/6Nqurhynev5eAUbHCaKzZh) | [My Space](https://open.spotify.com/album/4u1IvjuiRix1rN7ZoVxVzv) | 6:37 | 2022-01-23 | 2022-07-28 |
 | [Solace](https://open.spotify.com/track/36KdtPFaNf5agHpqQqE7ka) | [Batu](https://open.spotify.com/artist/4WmdmK9wvEhtRChA2ko9Sr) | [Solace](https://open.spotify.com/album/60xW167qnSy1Uukg6g6Mce) | 2:44 | 2022-04-01 |  |
 | [Solstice](https://open.spotify.com/track/2A2KhiDjc7NXsqhuMyKXp9) | [SVLBRD](https://open.spotify.com/artist/40SVMdCuPtqI6suYOG3Qk0) | [Solstice](https://open.spotify.com/album/5In0aQDAEJHdrI4oxgzdtX) | 8:00 | 2021-12-26 | 2022-07-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEZt3tTR001.md) - [plain]
 
 > Lay back\. Chill out.
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,319 likes - 70 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,437 likes - 70 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,10 +19,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEZt3tTR001.md) - [plain]
 | 9 | [Tell Me](https://open.spotify.com/track/2lp8xjq0WTm3HZKHuDEweg) | [Groove Theory](https://open.spotify.com/artist/7opRqRgF9lvnVraBFCMvIj) | [Groove Theory](https://open.spotify.com/album/0VVegiriO1eyyfOKrLmxtc) | 3:56 |
 | 10 | [Can U Handle It?](https://open.spotify.com/track/6gRGMnzrsAY5Fl2byZf2jd) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Confessions \(Expanded Edition\)](https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk) | 4:39 |
 | 11 | [Coastin’](https://open.spotify.com/track/1IjeGPU5hqHlJpm00zObN7) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Coastin’](https://open.spotify.com/album/6PVTVZo9iYmpcQucpIN9Kr) | 2:55 |
-| 12 | [Wish I Didn't Miss You](https://open.spotify.com/track/3tZm76otWH20xzJC7icHCk) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Mahogany Soul](https://open.spotify.com/album/1pJld4hH1xL3ONIlWZEhXw) | 4:30 |
-| 13 | [Hold On](https://open.spotify.com/track/5tqZJUHEuqdN12RZVq2l9p) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8) | [Hive Mind](https://open.spotify.com/album/27ThgFMUAx3MXLQ297DzWF) | 6:46 |
+| 12 | [Hold On](https://open.spotify.com/track/5tqZJUHEuqdN12RZVq2l9p) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8) | [Hive Mind](https://open.spotify.com/album/27ThgFMUAx3MXLQ297DzWF) | 6:46 |
+| 13 | [Cranes in the Sky](https://open.spotify.com/track/48EjSdYh8wz2gBxxqzrsLe) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [A Seat at the Table](https://open.spotify.com/album/3Yko2SxDk4hc6fncIBQlcM) | 4:10 |
 | 14 | [Orange Moon](https://open.spotify.com/track/5dlfvkyZOuBCFP1KbzRHUx) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Mama's Gun](https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH) | 7:10 |
-| 15 | [Cranes in the Sky](https://open.spotify.com/track/48EjSdYh8wz2gBxxqzrsLe) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [A Seat at the Table](https://open.spotify.com/album/3Yko2SxDk4hc6fncIBQlcM) | 4:10 |
+| 15 | [Wish I Didn't Miss You](https://open.spotify.com/track/3tZm76otWH20xzJC7icHCk) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Mahogany Soul](https://open.spotify.com/album/1pJld4hH1xL3ONIlWZEhXw) | 4:30 |
 | 16 | [At Your Best \(You Are Love\)](https://open.spotify.com/track/4lRrk574qIHpoEEKC1zuam) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4) | [Age Ain't Nothing But A Number](https://open.spotify.com/album/3E3QRjL4Cre7Krms420Irl) | 4:51 |
 | 17 | [Ascension \(Don't Ever Wonder\) \- Remastered 2021](https://open.spotify.com/track/6l4TNbfPtNAOOlGIfceSaO) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [Maxwell's Urban Hang Suite](https://open.spotify.com/album/2k5YAxjmAD3DmYtmlrY64p) | 5:45 |
 | 18 | [When I'm in Your Arms](https://open.spotify.com/track/47s5hKfwGXliAAB8wKMiNo) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Rose in the Dark](https://open.spotify.com/album/4o5dzQHDzmBBc4Z3jSWVR9) | 5:35 |
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEZt3tTR001.md) - [plain]
 | 26 | [Good & Plenty](https://open.spotify.com/track/1VAKnb1btGrQXcVZVSRkPe) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Jack Dine](https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE) | [Good & Plenty](https://open.spotify.com/album/53FhNZMrcBim6Ec9mp8ifl) | 3:24 |
 | 27 | [Fortunate](https://open.spotify.com/track/2RtvkLz5tmOXlzz918It6E) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [Fortunate](https://open.spotify.com/album/59f5YlSvsyT1Wa5Df1277H) | 5:01 |
 | 28 | [Sweet Love](https://open.spotify.com/track/4xVXe1VS5zlQyECVk6GRrL) | [Anita Baker](https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG) | [Sweet Love](https://open.spotify.com/album/5ua8gCeWXrvivM9hfVCXhD) | 4:22 |
-| 29 | [Out Of Love](https://open.spotify.com/track/3hNywmR93yvj68y2zl8mRt) | [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK), [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Eddie](https://open.spotify.com/album/5FTrv0ut24vm76hx1WuWSN) | 4:50 |
-| 30 | [Summer Madness](https://open.spotify.com/track/7fpiYh33Xph4OPj8gS8jL0) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Summer Madness](https://open.spotify.com/album/2g0Mwf7ujbQmtZzMAhiCkp) | 3:21 |
+| 29 | [Summer Madness](https://open.spotify.com/track/7fpiYh33Xph4OPj8gS8jL0) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Summer Madness](https://open.spotify.com/album/2g0Mwf7ujbQmtZzMAhiCkp) | 3:21 |
+| 30 | [Out Of Love](https://open.spotify.com/track/3hNywmR93yvj68y2zl8mRt) | [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK), [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Eddie](https://open.spotify.com/album/5FTrv0ut24vm76hx1WuWSN) | 4:50 |
 | 31 | [If Only](https://open.spotify.com/track/4jyU03J2YOhRxgOHit2auK) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [If Only](https://open.spotify.com/album/3uXIOaZWXwkW3CYVwcIxLy) | 3:21 |
 | 32 | [Sending My Love](https://open.spotify.com/track/7f5dRZ6W2Si4SoPLQxNHbm) | [Zhané](https://open.spotify.com/artist/6cjSmkVvMvyE6tCAo1M9Is) | [Pronounced Jah\-Nay](https://open.spotify.com/album/4Rj3sxQFk2chQQqfad4siz) | 3:40 |
 | 33 | [Get to You Again](https://open.spotify.com/track/5pNiAcguRrBdYf5V0QXdir) | [Mac Ayres](https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL) | [Something to Feel](https://open.spotify.com/album/02dq5KH5htRQNedTyplLu8) | 4:27 |
@@ -70,13 +70,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEZt3tTR001.md) - [plain]
 | 60 | [Only With Time \- A COLORS SHOW](https://open.spotify.com/track/17fEBNv11IqWe4O9592GvU) | [Adria Kain](https://open.spotify.com/artist/2egizXtrbzmhjs0SgViG8y) | [Only With Time \- A COLORS SHOW](https://open.spotify.com/album/2m68gpBt70o4bo4NJxkl78) | 5:04 |
 | 61 | [Backinluv](https://open.spotify.com/track/0k3WtyxIG1Hvv5nn6BwhfX) | [Clairmont The Second](https://open.spotify.com/artist/2FtWl97A21W2V0urMwaWn7) | [Full Circle](https://open.spotify.com/album/61T2bvjnhjUEmucspVNvtE) | 4:30 |
 | 62 | [Still Wonder](https://open.spotify.com/track/48Ni2LTyeTjTzWBD69q9Dm) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As), [Jack Dine](https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn) | [Still Wonder](https://open.spotify.com/album/2UUBiQAfkxgPcMGBbfy5zi) | 3:58 |
-| 63 | [Movies](https://open.spotify.com/track/7lBETHInBVdFrKhC9J24H0) | [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Ashanti](https://open.spotify.com/album/5M3BrdaT0TV5SsYsM5PM8X) | 4:09 |
-| 64 | [Jill Scott \(feat\. Jill Scott\)](https://open.spotify.com/track/7ajm1QlAaMFkNFlpZbcceL) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [ALICIA](https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1) | 4:05 |
-| 65 | [Lullaby \(feat\. Syd\)](https://open.spotify.com/track/56cPHHY51YpcD4OwU42GS3) | [Amaal](https://open.spotify.com/artist/785y6F5AHHafGaFaRdpMtz), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Milly](https://open.spotify.com/album/0ybPRt9okiivYSRzyyv1Yd) | 2:31 |
+| 63 | [Jill Scott \(feat\. Jill Scott\)](https://open.spotify.com/track/7ajm1QlAaMFkNFlpZbcceL) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [ALICIA](https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1) | 4:05 |
+| 64 | [Lullaby \(feat\. Syd\)](https://open.spotify.com/track/56cPHHY51YpcD4OwU42GS3) | [Amaal](https://open.spotify.com/artist/785y6F5AHHafGaFaRdpMtz), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Milly](https://open.spotify.com/album/0ybPRt9okiivYSRzyyv1Yd) | 2:31 |
+| 65 | [Movies](https://open.spotify.com/track/7lBETHInBVdFrKhC9J24H0) | [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Ashanti](https://open.spotify.com/album/5M3BrdaT0TV5SsYsM5PM8X) | 4:09 |
 | 66 | [Lay](https://open.spotify.com/track/3lKPcUIf29EDNES4vCYxmb) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Play With The Changes](https://open.spotify.com/album/5qJ0CnwfIUUgcKFdrjRP6v) | 3:31 |
 | 67 | [Distant Lady](https://open.spotify.com/track/61mkzcrrV7CfpggUuCNMib) | [Adriana Evans](https://open.spotify.com/artist/6sCf6HW9zBhLN64XC8tRdv) | [Lost and Found](https://open.spotify.com/album/7Je3fpcl3IE4Labowc1y8S) | 4:58 |
 | 68 | [GIFTED](https://open.spotify.com/track/6jCvpNfDksF9ociFet0nE3) | [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl) | [sounds of so\(u\)litude](https://open.spotify.com/album/6AWmEQFkIdkoQGaJkDCQj9) | 4:30 |
 | 69 | [Love In Full Bloom](https://open.spotify.com/track/4LCxUSGC5gg291GXE0CUwL) | [Karla Felecia Scaife](https://open.spotify.com/artist/10cEgWO5EK436JaZkGQUKj) | [Love in Full Bloom](https://open.spotify.com/album/4cEfTkaA9FcgZOuyjVkiZG) | 3:51 |
 | 70 | [elephant in the room](https://open.spotify.com/track/1N3br7Nh0Dz80SjntIRDIG) | [untradition](https://open.spotify.com/artist/14iZPa9FB6NBz4t5mR0oFe) | [elephant in the room](https://open.spotify.com/album/1PK3LYFEFFBEq7SiqqF39y) | 3:19 |
 
-Snapshot ID: `MTY2MTQ3OTc1MywwMDAwMDAwMDdhODkxNTMyNjgwNmI4MmM3OWU4OWRhMmM4MDcyYzNk`
+Snapshot ID: `MTY2MTQ3OTc1MywwMDAwMDAwMDA3NTlkN2I5YmFlZGIzMTY3Nzc0YWE2NDk1M2ZjNTc0`

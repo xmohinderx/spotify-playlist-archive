@@ -1,12 +1,12 @@
 {
   "description": "Songs of positivity from some of today's leading inspiring artists. Cover: Chance The Rapper featuring visual artist Na\u00efla Opiangah",
-  "num_followers": 2701,
+  "num_followers": 2720,
   "original_name": "Blessings",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Mzc2NjE5NCwwMDAwMDAwMGRiODViZDc2OTI5NDM0MjhhNDM1YTc1YjYzOWU5OGQ2",
+  "snapshot_id": "MTY1Mzc2NjE5NCwwMDAwMDAwMDIxYjc1ZjA2OWI2ODk2MjY0MmI4ZjRkYWIyNmJhN2E2",
   "tracks": [
     {
       "added_at": "2022-05-28 19:29:54",
@@ -895,6 +895,26 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
+        "name": "His Glory Alone",
+        "url": "https://open.spotify.com/album/6MnWWXrO1wvrzmGZ7iG1Sj"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "Tommy Royale",
+          "url": "https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs"
+        }
+      ],
+      "duration_ms": 229324,
+      "name": "Libre (feat. Tommy Royale)",
+      "url": "https://open.spotify.com/track/7GloK7WTwb5wK8rIjymhRC"
+    },
+    {
+      "added_at": "2022-05-28 19:29:54",
+      "album": {
         "name": "WAITING",
         "url": "https://open.spotify.com/album/2oQ1qwYoczja6rQxwkVN6w"
       },
@@ -915,26 +935,6 @@
       "duration_ms": 177230,
       "name": "WAITING",
       "url": "https://open.spotify.com/track/7axHfZh6a7JQD8dmblDDmt"
-    },
-    {
-      "added_at": "2022-05-28 19:29:54",
-      "album": {
-        "name": "His Glory Alone",
-        "url": "https://open.spotify.com/album/6MnWWXrO1wvrzmGZ7iG1Sj"
-      },
-      "artists": [
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        },
-        {
-          "name": "Tommy Royale",
-          "url": "https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs"
-        }
-      ],
-      "duration_ms": 229324,
-      "name": "Libre (feat. Tommy Royale)",
-      "url": "https://open.spotify.com/track/7GloK7WTwb5wK8rIjymhRC"
     },
     {
       "added_at": "2022-05-28 19:29:54",
@@ -1263,18 +1263,22 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
-        "name": "MAKE IT MAKE SENSE",
-        "url": "https://open.spotify.com/album/3JQmpYGKuUhmJ0CttBZCC5"
+        "name": "Lightning",
+        "url": "https://open.spotify.com/album/0egIrc1XFeHAYIMbhIVjcN"
       },
       "artists": [
         {
-          "name": "S.O.",
-          "url": "https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33"
+          "name": "Pat Barrett",
+          "url": "https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3"
+        },
+        {
+          "name": "Harolddd",
+          "url": "https://open.spotify.com/artist/44av3ir0vktBzXpTjnuR7V"
         }
       ],
-      "duration_ms": 165789,
-      "name": "MAKE IT MAKE SENSE",
-      "url": "https://open.spotify.com/track/5XOsnWdQhXQbwW3DMmSp9D"
+      "duration_ms": 214554,
+      "name": "Lightning",
+      "url": "https://open.spotify.com/track/0CZd9O1bThdWCQxNSHwjf7"
     },
     {
       "added_at": "2022-05-28 19:29:54",
@@ -1295,22 +1299,18 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
-        "name": "Lightning",
-        "url": "https://open.spotify.com/album/0egIrc1XFeHAYIMbhIVjcN"
+        "name": "MAKE IT MAKE SENSE",
+        "url": "https://open.spotify.com/album/3JQmpYGKuUhmJ0CttBZCC5"
       },
       "artists": [
         {
-          "name": "Pat Barrett",
-          "url": "https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3"
-        },
-        {
-          "name": "Harolddd",
-          "url": "https://open.spotify.com/artist/44av3ir0vktBzXpTjnuR7V"
+          "name": "S.O.",
+          "url": "https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33"
         }
       ],
-      "duration_ms": 214554,
-      "name": "Lightning",
-      "url": "https://open.spotify.com/track/0CZd9O1bThdWCQxNSHwjf7"
+      "duration_ms": 165789,
+      "name": "MAKE IT MAKE SENSE",
+      "url": "https://open.spotify.com/track/5XOsnWdQhXQbwW3DMmSp9D"
     },
     {
       "added_at": "2022-05-28 19:29:54",
@@ -1599,18 +1599,18 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
-        "name": "Way Up Above",
-        "url": "https://open.spotify.com/album/3pbLIHC3cgCoBH14rmVhgl"
+        "name": "Mind",
+        "url": "https://open.spotify.com/album/50473ucNN99wGu21iP93rO"
       },
       "artists": [
         {
-          "name": "Sansone",
-          "url": "https://open.spotify.com/artist/3hAgyK1maarE5o2slH51jU"
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
         }
       ],
-      "duration_ms": 167944,
-      "name": "With Me Now",
-      "url": "https://open.spotify.com/track/3npTjeLyoI6YG84NR444od"
+      "duration_ms": 158399,
+      "name": "Mind",
+      "url": "https://open.spotify.com/track/7tcRUsbzwk4rc1THwZiNAk"
     },
     {
       "added_at": "2022-05-28 19:29:54",
@@ -1635,18 +1635,18 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
-        "name": "Mind",
-        "url": "https://open.spotify.com/album/50473ucNN99wGu21iP93rO"
+        "name": "Way Up Above",
+        "url": "https://open.spotify.com/album/3pbLIHC3cgCoBH14rmVhgl"
       },
       "artists": [
         {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+          "name": "Sansone",
+          "url": "https://open.spotify.com/artist/3hAgyK1maarE5o2slH51jU"
         }
       ],
-      "duration_ms": 158399,
-      "name": "Mind",
-      "url": "https://open.spotify.com/track/7tcRUsbzwk4rc1THwZiNAk"
+      "duration_ms": 167944,
+      "name": "With Me Now",
+      "url": "https://open.spotify.com/track/3npTjeLyoI6YG84NR444od"
     },
     {
       "added_at": "2022-05-28 19:29:54",
@@ -1671,6 +1671,22 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
+        "name": "2022",
+        "url": "https://open.spotify.com/album/3wr1hWL6eyUjhqULGy0oyK"
+      },
+      "artists": [
+        {
+          "name": "Battz",
+          "url": "https://open.spotify.com/artist/1l528yNr0Jpv2dqg4r06kI"
+        }
+      ],
+      "duration_ms": 114000,
+      "name": "2022",
+      "url": "https://open.spotify.com/track/2F1Z3G7IZKissAgLtZSUup"
+    },
+    {
+      "added_at": "2022-05-28 19:29:54",
+      "album": {
         "name": "Everywhere + Nowhere (Black Edition Deluxe)",
         "url": "https://open.spotify.com/album/308B9tBVWyLjjLan4517p4"
       },
@@ -1687,22 +1703,6 @@
       "duration_ms": 188443,
       "name": "Very Original",
       "url": "https://open.spotify.com/track/5qbzWsGFJ6zLDTim11yaLa"
-    },
-    {
-      "added_at": "2022-05-28 19:29:54",
-      "album": {
-        "name": "2022",
-        "url": "https://open.spotify.com/album/3wr1hWL6eyUjhqULGy0oyK"
-      },
-      "artists": [
-        {
-          "name": "Battz",
-          "url": "https://open.spotify.com/artist/1l528yNr0Jpv2dqg4r06kI"
-        }
-      ],
-      "duration_ms": 114000,
-      "name": "2022",
-      "url": "https://open.spotify.com/track/2F1Z3G7IZKissAgLtZSUup"
     },
     {
       "added_at": "2022-05-28 19:29:54",
@@ -1743,30 +1743,6 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
-        "name": "Clocked In (feat. Aklesso & Derek Minor)",
-        "url": "https://open.spotify.com/album/35vRMyqv8TeWFwCuSRlaCt"
-      },
-      "artists": [
-        {
-          "name": "Shepherd",
-          "url": "https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU"
-        },
-        {
-          "name": "Aklesso",
-          "url": "https://open.spotify.com/artist/7r3HxO330lmabOprT2MMFK"
-        },
-        {
-          "name": "Derek Minor",
-          "url": "https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B"
-        }
-      ],
-      "duration_ms": 266550,
-      "name": "Clocked In (feat. Aklesso & Derek Minor)",
-      "url": "https://open.spotify.com/track/4MR9wuxQ5Euw2Ng46ZpuiE"
-    },
-    {
-      "added_at": "2022-05-28 19:29:54",
-      "album": {
         "name": "Little Longer",
         "url": "https://open.spotify.com/album/6N6y7ags2X6ZQPXJuAH3PC"
       },
@@ -1787,6 +1763,30 @@
       "duration_ms": 198152,
       "name": "Little Longer",
       "url": "https://open.spotify.com/track/7gETe38EeZmGFM6Ij0rClG"
+    },
+    {
+      "added_at": "2022-05-28 19:29:54",
+      "album": {
+        "name": "Clocked In (feat. Aklesso & Derek Minor)",
+        "url": "https://open.spotify.com/album/35vRMyqv8TeWFwCuSRlaCt"
+      },
+      "artists": [
+        {
+          "name": "Shepherd",
+          "url": "https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU"
+        },
+        {
+          "name": "Aklesso",
+          "url": "https://open.spotify.com/artist/7r3HxO330lmabOprT2MMFK"
+        },
+        {
+          "name": "Derek Minor",
+          "url": "https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B"
+        }
+      ],
+      "duration_ms": 266550,
+      "name": "Clocked In (feat. Aklesso & Derek Minor)",
+      "url": "https://open.spotify.com/track/4MR9wuxQ5Euw2Ng46ZpuiE"
     },
     {
       "added_at": "2022-05-28 19:29:54",
@@ -1835,22 +1835,18 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
-        "name": "Desesperado (Espa\u00f1ol)",
-        "url": "https://open.spotify.com/album/3KkwQBbgUCdbStPTGEN8qQ"
+        "name": "Tru Talk Tony, Vol. 1",
+        "url": "https://open.spotify.com/album/5Ko5gZvBN5vyWwZpze9d7P"
       },
       "artists": [
         {
-          "name": "Evan Craft",
-          "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
-        },
-        {
-          "name": "Redimi2",
-          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
+          "name": "Mission",
+          "url": "https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba"
         }
       ],
-      "duration_ms": 181533,
-      "name": "Reborn",
-      "url": "https://open.spotify.com/track/7IPD7tvVOxDasWX0ZTU8Gx"
+      "duration_ms": 192000,
+      "name": "Can't Lose",
+      "url": "https://open.spotify.com/track/1gwz0qanN2fEsqnU4T7vSb"
     },
     {
       "added_at": "2022-05-28 19:29:54",
@@ -1871,18 +1867,22 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
-        "name": "Tru Talk Tony, Vol. 1",
-        "url": "https://open.spotify.com/album/5Ko5gZvBN5vyWwZpze9d7P"
+        "name": "Desesperado (Espa\u00f1ol)",
+        "url": "https://open.spotify.com/album/3KkwQBbgUCdbStPTGEN8qQ"
       },
       "artists": [
         {
-          "name": "Mission",
-          "url": "https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba"
+          "name": "Evan Craft",
+          "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
+        },
+        {
+          "name": "Redimi2",
+          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Can't Lose",
-      "url": "https://open.spotify.com/track/1gwz0qanN2fEsqnU4T7vSb"
+      "duration_ms": 181533,
+      "name": "Reborn",
+      "url": "https://open.spotify.com/track/7IPD7tvVOxDasWX0ZTU8Gx"
     },
     {
       "added_at": "2022-05-28 19:29:54",
@@ -1907,46 +1907,42 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
-        "name": "Heard Not Seen III",
-        "url": "https://open.spotify.com/album/5RHrcFrhFu7rz2QSGiMiBk"
+        "name": "Ascend",
+        "url": "https://open.spotify.com/album/2VwSTUlrkCFsCyKNbpqvnN"
       },
       "artists": [
         {
-          "name": "theBeatbreaker",
-          "url": "https://open.spotify.com/artist/6QJCYAKI6fPSDmXHeliNNu"
+          "name": "Jeremiah Paltan",
+          "url": "https://open.spotify.com/artist/7gaLLumDYrznRYzpPtvrru"
         },
         {
-          "name": "1K Phew",
-          "url": "https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl"
-        },
-        {
-          "name": "TNED",
-          "url": "https://open.spotify.com/artist/1wG3mhMC241gq1jwwRsBHT"
+          "name": "KDNS",
+          "url": "https://open.spotify.com/artist/1SzoqS86kItL3yvFG0eKN0"
         }
       ],
-      "duration_ms": 195927,
-      "name": "Striking Matches (feat. 1K Phew & TNED)",
-      "url": "https://open.spotify.com/track/59kiSVJTiUYXJxpyModhI5"
+      "duration_ms": 198095,
+      "name": "Ascend",
+      "url": "https://open.spotify.com/track/4jb2OO7G3J68R5mmQtjZKA"
     },
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
-        "name": "Never Change",
-        "url": "https://open.spotify.com/album/5RWc74ZeXbwi0xMYyg8Elc"
+        "name": "Be Gone (feat. Mike Teezy)",
+        "url": "https://open.spotify.com/album/6OLJkhICitLisBY6dAYNY5"
       },
       "artists": [
         {
-          "name": "Patrick McMillan",
-          "url": "https://open.spotify.com/artist/4NrPW4DGb9D94qqZFam4NC"
+          "name": "Mission",
+          "url": "https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba"
         },
         {
-          "name": "Xay Hill",
-          "url": "https://open.spotify.com/artist/6e7kIHb5oTfOJY5IzLyzR6"
+          "name": "Mike Teezy",
+          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
         }
       ],
-      "duration_ms": 181558,
-      "name": "Never Change",
-      "url": "https://open.spotify.com/track/2nGr6tipAPJNYZbnShEB1y"
+      "duration_ms": 176076,
+      "name": "Be Gone (feat. Mike Teezy)",
+      "url": "https://open.spotify.com/track/2cnc9jsFHDsGDQpYBMtgP9"
     },
     {
       "added_at": "2022-05-28 19:29:54",

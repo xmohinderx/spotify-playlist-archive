@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfUtaeUAwqa.md) - [plain]
 
 > Dixieland, Chicago Style and upbeat traditional jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,075 likes - 55 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,079 likes - 55 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfUtaeUAwqa.md) - [plain]
 | 6 | [When My Sugar Walks Down The Street](https://open.spotify.com/track/778SCkNfo4MyNQyB4H0fXb) | [Turk Murphy](https://open.spotify.com/artist/4h2o94HOvvR0FMjxpfvsDM) | [Favorites](https://open.spotify.com/album/5lfNvNliTVmnEAexxSRrES) | 2:44 |
 | 7 | [I Found A New Baby](https://open.spotify.com/track/666dKdmoRCRcBNY6BwB98J) | [Sidney Bechet](https://open.spotify.com/artist/1RsmXc1ZqW3WBs9iwxiSwk) | [The Best Of Sidney Bechet](https://open.spotify.com/album/1DNkzO3Wq6tXBmlg7Xrpj1) | 3:08 |
 | 8 | [New Orleans Shout](https://open.spotify.com/track/5Pcr62bLUsT3KIotsiafwB) | [Bourbon Street Jazzband](https://open.spotify.com/artist/2SvsDVaQnwhr8da9LPepJO) | [I Must Have It](https://open.spotify.com/album/6ZdBK9AQtlbIFhf2tszKY8) | 2:55 |
-| 9 | [Savoy Blues](https://open.spotify.com/track/5LmttN1s1QbpLBVVCInT1N) | [Kid Ory's Creole Jazz Band](https://open.spotify.com/artist/2BHUVGNVyL4P9boK9roEZZ) | [Kid Ory New Orleans Jazz Man](https://open.spotify.com/album/4WDAhCf6ihX5PBZwpadK9Z) | 3:03 |
-| 10 | [Doctor Jazz](https://open.spotify.com/track/5LHzQRQpnxXeKMn3pmusSK) | [Jelly Roll Morton](https://open.spotify.com/artist/4XepUkisa56DUeA3gbjDQD) | [Doctor Jazz](https://open.spotify.com/album/14rmyNpoLWlrgLIyF5jtbu) | 3:28 |
+| 9 | [Doctor Jazz](https://open.spotify.com/track/5LHzQRQpnxXeKMn3pmusSK) | [Jelly Roll Morton](https://open.spotify.com/artist/4XepUkisa56DUeA3gbjDQD) | [Doctor Jazz](https://open.spotify.com/album/14rmyNpoLWlrgLIyF5jtbu) | 3:28 |
+| 10 | [Savoy Blues](https://open.spotify.com/track/5LmttN1s1QbpLBVVCInT1N) | [Kid Ory's Creole Jazz Band](https://open.spotify.com/artist/2BHUVGNVyL4P9boK9roEZZ) | [Kid Ory New Orleans Jazz Man](https://open.spotify.com/album/4WDAhCf6ihX5PBZwpadK9Z) | 3:03 |
 | 11 | [I Wish I Could Shimmy Like My Sister Kate](https://open.spotify.com/track/0UmWAlvkmfqaHdAYPfNlFX) | [Muggsy Spanier](https://open.spotify.com/artist/0u61vtGdkaLTguZ5mVxLjK) | [1939\-1944](https://open.spotify.com/album/7EwAhN0zF9PtbLdRmRsomC) | 2:55 |
 | 12 | [Walkin' The Dog](https://open.spotify.com/track/28OtBc3ImfLCHi3GVdZrrL) | [Edmond Hall](https://open.spotify.com/artist/0ObFsHKsujQRFXqEL6Q0Jc) | [Jazz Foundations Vol\. 25](https://open.spotify.com/album/2EojFqvzd0GKRG1j8j7Dkn) | 4:34 |
 | 13 | [Frankie & Johnny](https://open.spotify.com/track/7iYvxt7QPOdaH4TQ0IIVx2) | [Wilbur De Paris](https://open.spotify.com/artist/2jHYUm5r73OV8CiKyMdYfo) | [That's A Plenty](https://open.spotify.com/album/2QNvebWOK7Zie6rKYoEeEx) | 3:47 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfUtaeUAwqa.md) - [plain]
 | 54 | [Carry Me Back to Old Virginia](https://open.spotify.com/track/2BrcPZPjjLBS9y04floMD5) | [Al Hirt](https://open.spotify.com/artist/0TGsWvnbtExsbGUSWtXENE) | [30 Classics: Dixieland Jazz for Mardi Gras](https://open.spotify.com/album/5heFsiR3EFo5kISFtOCFvE) | 3:52 |
 | 55 | [Washington Post March](https://open.spotify.com/track/0HAyFITVG4G4X5RBhAxw2Q) | [Pete Fountain and The Kings Of Dixieland](https://open.spotify.com/artist/4DiuBrdftGJabfEaPk45So) | [The Best Of Dixieland Volume 1](https://open.spotify.com/album/4uuTStbaZ9PvYt5wHphSb4) | 3:12 |
 
-Snapshot ID: `MTU5NzkyNzAwMiwwMDAwMDAwMDlhM2Y1ZmEwNjgxYTQ2ZWViODVkZDFlOTg2MjFhMjVh`
+Snapshot ID: `MTU5NzkyNzAwMiwwMDAwMDAwMDdjNjY0NDVmN2E5MzkxYzM3MGI2OWY3M2Y4ZmFjMzIx`

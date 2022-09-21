@@ -1,12 +1,12 @@
 {
   "description": "Solo piano recordings of classic rags",
-  "num_followers": 2783,
+  "num_followers": 2787,
   "original_name": "Ragtime Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5OTE0MywwMDAwMDAwMDRmOTA1YWVlZjNlOWZiZjQ4ZWRlNmU2MTk1ZTU1YWUy",
+  "snapshot_id": "MTY0ODQ5OTE0MywwMDAwMDAwMGRkODdjYjk0NDAzZDA2ZmM0YTBiYmRkY2EyZTVmOTcx",
   "tracks": [
     {
       "added_at": "2020-08-19 17:18:36",
@@ -211,22 +211,6 @@
     {
       "added_at": "2020-08-19 17:18:36",
       "album": {
-        "name": "The Complete Piano Works of Scott Joplin",
-        "url": "https://open.spotify.com/album/5FG1LBNhmZgxLwYiEKilXe"
-      },
-      "artists": [
-        {
-          "name": "Knocky Parker",
-          "url": "https://open.spotify.com/artist/5GxGw0V1OnTsb5V4DtnxUY"
-        }
-      ],
-      "duration_ms": 134256,
-      "name": "Reflection Rag",
-      "url": "https://open.spotify.com/track/1spkEBNNlnXvdLXPhznynG"
-    },
-    {
-      "added_at": "2020-08-19 17:18:36",
-      "album": {
         "name": "Ol' Muddy",
         "url": "https://open.spotify.com/album/4N3q6DQATMXo0Bj5z9DQwe"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 210253,
       "name": "Castle House Rag (James Reese Europe, 1914)",
       "url": "https://open.spotify.com/track/07ZKL0jVrjxD1DqxizHXSL"
+    },
+    {
+      "added_at": "2020-08-19 17:18:36",
+      "album": {
+        "name": "The Complete Piano Works of Scott Joplin",
+        "url": "https://open.spotify.com/album/5FG1LBNhmZgxLwYiEKilXe"
+      },
+      "artists": [
+        {
+          "name": "Knocky Parker",
+          "url": "https://open.spotify.com/artist/5GxGw0V1OnTsb5V4DtnxUY"
+        }
+      ],
+      "duration_ms": 134256,
+      "name": "Reflection Rag",
+      "url": "https://open.spotify.com/track/1spkEBNNlnXvdLXPhznynG"
     },
     {
       "added_at": "2020-08-19 17:18:36",
@@ -459,22 +459,6 @@
     {
       "added_at": "2020-08-19 17:18:36",
       "album": {
-        "name": "Scott Joplin Greatest Hits",
-        "url": "https://open.spotify.com/album/5fFPJzOXH8gdxuodz1EsAD"
-      },
-      "artists": [
-        {
-          "name": "James Levine",
-          "url": "https://open.spotify.com/artist/4qFQgEF1rg6a9WvJM0MQIa"
-        }
-      ],
-      "duration_ms": 181026,
-      "name": "Sugar Cane",
-      "url": "https://open.spotify.com/track/6Z6oioQU909D5BbfdU4rss"
-    },
-    {
-      "added_at": "2020-08-19 17:18:36",
-      "album": {
         "name": "Ragtime Classics, 1901-1919",
         "url": "https://open.spotify.com/album/5HQEWztM9JM2jOdXVZpb9b"
       },
@@ -495,6 +479,38 @@
     {
       "added_at": "2020-08-19 17:18:36",
       "album": {
+        "name": "Scott Joplin Greatest Hits",
+        "url": "https://open.spotify.com/album/5fFPJzOXH8gdxuodz1EsAD"
+      },
+      "artists": [
+        {
+          "name": "James Levine",
+          "url": "https://open.spotify.com/artist/4qFQgEF1rg6a9WvJM0MQIa"
+        }
+      ],
+      "duration_ms": 181026,
+      "name": "Sugar Cane",
+      "url": "https://open.spotify.com/track/6Z6oioQU909D5BbfdU4rss"
+    },
+    {
+      "added_at": "2020-08-19 17:18:36",
+      "album": {
+        "name": "Ragtime, Vol. 1",
+        "url": "https://open.spotify.com/album/3Utz9OLTlkaNYDjHX2R7YK"
+      },
+      "artists": [
+        {
+          "name": "Squeek Steele",
+          "url": "https://open.spotify.com/artist/4rrv3sg8daehyeV8xnOnrF"
+        }
+      ],
+      "duration_ms": 217373,
+      "name": "Broadway Rag",
+      "url": "https://open.spotify.com/track/70DWx9b7tUII9NTYjN0mvb"
+    },
+    {
+      "added_at": "2020-08-19 17:18:36",
+      "album": {
         "name": "The St Louis Rag",
         "url": "https://open.spotify.com/album/2O2dCZZvsoG97DRpiLG2cv"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 222013,
       "name": "Champagne Rag",
       "url": "https://open.spotify.com/track/0KjbuADnLw2I0TPg7xCj5f"
-    },
-    {
-      "added_at": "2020-08-19 17:18:36",
-      "album": {
-        "name": "Takes Two",
-        "url": "https://open.spotify.com/album/4z0K2p0J1DV7cLsOP3Bk6O"
-      },
-      "artists": [
-        {
-          "name": "Jack & Chris Bradshaw",
-          "url": "https://open.spotify.com/artist/5XlcJcvLov5rq4hXjxy3py"
-        }
-      ],
-      "duration_ms": 165040,
-      "name": "Possum and Taters",
-      "url": "https://open.spotify.com/track/2TfcBFuqV3vOfaCJKVifAB"
     },
     {
       "added_at": "2020-08-19 17:18:36",
@@ -579,18 +579,18 @@
     {
       "added_at": "2020-08-19 17:18:36",
       "album": {
-        "name": "Ragtime, Vol. 1",
-        "url": "https://open.spotify.com/album/3Utz9OLTlkaNYDjHX2R7YK"
+        "name": "Takes Two",
+        "url": "https://open.spotify.com/album/4z0K2p0J1DV7cLsOP3Bk6O"
       },
       "artists": [
         {
-          "name": "Squeek Steele",
-          "url": "https://open.spotify.com/artist/4rrv3sg8daehyeV8xnOnrF"
+          "name": "Jack & Chris Bradshaw",
+          "url": "https://open.spotify.com/artist/5XlcJcvLov5rq4hXjxy3py"
         }
       ],
-      "duration_ms": 217373,
-      "name": "Broadway Rag",
-      "url": "https://open.spotify.com/track/70DWx9b7tUII9NTYjN0mvb"
+      "duration_ms": 165040,
+      "name": "Possum and Taters",
+      "url": "https://open.spotify.com/track/2TfcBFuqV3vOfaCJKVifAB"
     },
     {
       "added_at": "2020-08-19 17:18:36",
@@ -607,6 +607,22 @@
       "duration_ms": 180773,
       "name": "Evergreen Rag (1915 - James Scott)",
       "url": "https://open.spotify.com/track/2giECH6eYMtKOEgbPpkttm"
+    },
+    {
+      "added_at": "2020-08-19 17:18:36",
+      "album": {
+        "name": "Classic Rags Piano Solos, Vol. 4",
+        "url": "https://open.spotify.com/album/1f1dYTmbEN5a9m0g7va9ul"
+      },
+      "artists": [
+        {
+          "name": "Leslie Bridges",
+          "url": "https://open.spotify.com/artist/7m6HwLg3nTQoO2eVMhiGiw"
+        }
+      ],
+      "duration_ms": 165382,
+      "name": "Paramount Rag",
+      "url": "https://open.spotify.com/track/7xaVQzLgWJOLqmgAWBc6h7"
     },
     {
       "added_at": "2020-08-19 17:18:36",
@@ -639,22 +655,6 @@
       "duration_ms": 198173,
       "name": "Reindeer Rag",
       "url": "https://open.spotify.com/track/3fyYH2qSoxabCNsFLRF1Rz"
-    },
-    {
-      "added_at": "2020-08-19 17:18:36",
-      "album": {
-        "name": "Classic Rags Piano Solos, Vol. 4",
-        "url": "https://open.spotify.com/album/1f1dYTmbEN5a9m0g7va9ul"
-      },
-      "artists": [
-        {
-          "name": "Leslie Bridges",
-          "url": "https://open.spotify.com/artist/7m6HwLg3nTQoO2eVMhiGiw"
-        }
-      ],
-      "duration_ms": 165382,
-      "name": "Paramount Rag",
-      "url": "https://open.spotify.com/track/7xaVQzLgWJOLqmgAWBc6h7"
     },
     {
       "added_at": "2020-08-19 17:18:36",

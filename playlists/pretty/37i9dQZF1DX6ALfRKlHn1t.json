@@ -1,12 +1,12 @@
 {
   "description": "good vibes only.",
-  "num_followers": 1001888,
+  "num_followers": 1001977,
   "original_name": "Soak Up the Sun",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2NzMyMCwwMDAwMDAwMGFhZjhjNjM3YTI0Y2JhOGI4ZjlhZjgzNzFjMTU1OThi",
+  "snapshot_id": "MTY1OTA2NzMyMCwwMDAwMDAwMDc0ZDdjYTI0MDg2NzJhZWJhODg0N2RlMDYxZmJlNGUw",
   "tracks": [
     {
       "added_at": "2022-07-29 04:02:00",
@@ -923,6 +923,22 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
+        "name": "Why Does Everything Happen So Much EP",
+        "url": "https://open.spotify.com/album/2rQIMkDTxP8IPGtF7qFPwE"
+      },
+      "artists": [
+        {
+          "name": "Prelow",
+          "url": "https://open.spotify.com/artist/7aSRqRjQAYTEm2fFohlZZn"
+        }
+      ],
+      "duration_ms": 191954,
+      "name": "Mistakes Like This",
+      "url": "https://open.spotify.com/track/4telT9zZWgv4d8gD4WZrlA"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
         "name": "Vacation (feat. Train)",
         "url": "https://open.spotify.com/album/7FXwebLa343kucZmU9WVW0"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 235653,
       "name": "Milk & Coffee",
       "url": "https://open.spotify.com/track/6vWaOUGVNbe7wx6X3EddAF"
-    },
-    {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
-        "name": "Why Does Everything Happen So Much EP",
-        "url": "https://open.spotify.com/album/2rQIMkDTxP8IPGtF7qFPwE"
-      },
-      "artists": [
-        {
-          "name": "Prelow",
-          "url": "https://open.spotify.com/artist/7aSRqRjQAYTEm2fFohlZZn"
-        }
-      ],
-      "duration_ms": 191954,
-      "name": "Mistakes Like This",
-      "url": "https://open.spotify.com/track/4telT9zZWgv4d8gD4WZrlA"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -1075,26 +1075,6 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "Too Late (with Dirty Heads)",
-        "url": "https://open.spotify.com/album/66wLNcY6lSL4kuvrWr5CIn"
-      },
-      "artists": [
-        {
-          "name": "Shwayze",
-          "url": "https://open.spotify.com/artist/6f0hUHWLOCxCSDQMtdVAS7"
-        },
-        {
-          "name": "Dirty Heads",
-          "url": "https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f"
-        }
-      ],
-      "duration_ms": 157084,
-      "name": "Too Late (with Dirty Heads)",
-      "url": "https://open.spotify.com/track/3jaaCjDmM9wMEr42mMqrPo"
-    },
-    {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
         "name": "Pacific Daydream",
         "url": "https://open.spotify.com/album/3EwfQtjvyRAXsPWAKO5FDP"
       },
@@ -1127,6 +1107,26 @@
       "duration_ms": 227440,
       "name": "Pacific Coast Highway (with Trevor Hall)",
       "url": "https://open.spotify.com/track/6hazTlTm7MKamJWriYDa13"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
+        "name": "Too Late (with Dirty Heads)",
+        "url": "https://open.spotify.com/album/66wLNcY6lSL4kuvrWr5CIn"
+      },
+      "artists": [
+        {
+          "name": "Shwayze",
+          "url": "https://open.spotify.com/artist/6f0hUHWLOCxCSDQMtdVAS7"
+        },
+        {
+          "name": "Dirty Heads",
+          "url": "https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f"
+        }
+      ],
+      "duration_ms": 157084,
+      "name": "Too Late (with Dirty Heads)",
+      "url": "https://open.spotify.com/track/3jaaCjDmM9wMEr42mMqrPo"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "Coast Modern",
-        "url": "https://open.spotify.com/album/4jdtl0zpleiD135aYrg9D2"
-      },
-      "artists": [
-        {
-          "name": "Coast Modern",
-          "url": "https://open.spotify.com/artist/4wYk01oPJNfaEssVFL46oQ"
-        }
-      ],
-      "duration_ms": 237880,
-      "name": "Hollow Life",
-      "url": "https://open.spotify.com/track/2dq863fgcwToMdBxaPlyyT"
-    },
-    {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
         "name": "Apocalypse Whenever",
         "url": "https://open.spotify.com/album/0d56QBHMTuBgehoYAZ2s25"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 202955,
       "name": "Peachy",
       "url": "https://open.spotify.com/track/176zLXcj1PiFN7DATpBT1j"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
+        "name": "Coast Modern",
+        "url": "https://open.spotify.com/album/4jdtl0zpleiD135aYrg9D2"
+      },
+      "artists": [
+        {
+          "name": "Coast Modern",
+          "url": "https://open.spotify.com/artist/4wYk01oPJNfaEssVFL46oQ"
+        }
+      ],
+      "duration_ms": 237880,
+      "name": "Hollow Life",
+      "url": "https://open.spotify.com/track/2dq863fgcwToMdBxaPlyyT"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
+        "name": "Aer",
+        "url": "https://open.spotify.com/album/1wK7QTctYTPfRkkJ9zyyYY"
+      },
+      "artists": [
+        {
+          "name": "Aer",
+          "url": "https://open.spotify.com/artist/25hbSOMmbhgqvonjC876UJ"
+        }
+      ],
+      "duration_ms": 219240,
+      "name": "Says She Loves Me",
+      "url": "https://open.spotify.com/track/6esi0H0bM3ORbJwgVVCoOt"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
         "name": "Classic (feat. POWERS)",
         "url": "https://open.spotify.com/album/4TXid0z5ty83lP4tq25sTJ"
       },
@@ -1503,22 +1519,6 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "Aer",
-        "url": "https://open.spotify.com/album/1wK7QTctYTPfRkkJ9zyyYY"
-      },
-      "artists": [
-        {
-          "name": "Aer",
-          "url": "https://open.spotify.com/artist/25hbSOMmbhgqvonjC876UJ"
-        }
-      ],
-      "duration_ms": 219240,
-      "name": "Says She Loves Me",
-      "url": "https://open.spotify.com/track/6esi0H0bM3ORbJwgVVCoOt"
-    },
-    {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
         "name": "Further Joy",
         "url": "https://open.spotify.com/album/1rM5i5ofhPY3hdPA5wcozJ"
       },
@@ -1535,18 +1535,18 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "Heavy as Lead",
-        "url": "https://open.spotify.com/album/1uqKKrSpCBx15YzUY3f55m"
+        "name": "Guitar Beat",
+        "url": "https://open.spotify.com/album/0OU7x2IHQ9NgHgYTWYrXRw"
       },
       "artists": [
         {
-          "name": "Rebelution",
-          "url": "https://open.spotify.com/artist/2WjvvwAX0mdWwq3aFuUdtc"
+          "name": "Prelow",
+          "url": "https://open.spotify.com/artist/7aSRqRjQAYTEm2fFohlZZn"
         }
       ],
-      "duration_ms": 176761,
-      "name": "Heavy as Lead",
-      "url": "https://open.spotify.com/track/59HQVKZfaKycUzRTtp1zDO"
+      "duration_ms": 205106,
+      "name": "Guitar Beat",
+      "url": "https://open.spotify.com/track/5xPcLp3G2eaR2rrKHKsFME"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -1571,18 +1571,18 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "Guitar Beat",
-        "url": "https://open.spotify.com/album/0OU7x2IHQ9NgHgYTWYrXRw"
+        "name": "Heavy as Lead",
+        "url": "https://open.spotify.com/album/1uqKKrSpCBx15YzUY3f55m"
       },
       "artists": [
         {
-          "name": "Prelow",
-          "url": "https://open.spotify.com/artist/7aSRqRjQAYTEm2fFohlZZn"
+          "name": "Rebelution",
+          "url": "https://open.spotify.com/artist/2WjvvwAX0mdWwq3aFuUdtc"
         }
       ],
-      "duration_ms": 205106,
-      "name": "Guitar Beat",
-      "url": "https://open.spotify.com/track/5xPcLp3G2eaR2rrKHKsFME"
+      "duration_ms": 176761,
+      "name": "Heavy as Lead",
+      "url": "https://open.spotify.com/track/59HQVKZfaKycUzRTtp1zDO"
     },
     {
       "added_at": "2022-07-29 04:02:00",

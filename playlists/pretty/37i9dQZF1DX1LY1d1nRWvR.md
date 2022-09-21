@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LY1d1nRWvR.md) - [plain]
 
 > Kick back  and soak up the warm and soothing tones of jazz and electronic.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,232 likes - 50 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,255 likes - 50 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LY1d1nRWvR.md) - [plain]
 | 39 | [Side Street](https://open.spotify.com/track/0kAp4TveJqWs5F0zmzjDhy) | [daniel hayn](https://open.spotify.com/artist/2E54rBy4UeaSYijZiWlNpO), [Anatole Muster](https://open.spotify.com/artist/3wfxadqnYdgo7M31acbDVK), [Nicole McCabe](https://open.spotify.com/artist/00yDWlggrS34V03oLFjMbl), [Israel Strom](https://open.spotify.com/artist/07Z6BmMLQSWERbqmg4T8XL), [Tom Walsh](https://open.spotify.com/artist/4f619ZfS7lnjuCMukdcXxB) | [Side Street](https://open.spotify.com/album/07uKQeZ31FGZVbWXMIqeIU) | 3:37 |
 | 40 | [Strings of Light](https://open.spotify.com/track/5yPowIqdVPFaBvBmhoLE0Y) | [Yussef Kamaal](https://open.spotify.com/artist/710FHFQeXKC6dZGCxt7kQh) | [Black Focus](https://open.spotify.com/album/1MioiNBndcGhsQOFk3l6fu) | 8:28 |
 | 41 | [Night Of Desirable Objects](https://open.spotify.com/track/6aO19OZDf9v2mwDDAiwGvB) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Umami](https://open.spotify.com/album/6om5wLwMEeQcY1Uwlh7Oel) | 6:56 |
-| 42 | [Straight Line \- Neil Cowley Remix](https://open.spotify.com/track/1NEl4CQVJNuNpROFX89Tfl) | [Holly Walker](https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC), [Neil Cowley](https://open.spotify.com/artist/3jrpFxybBbCCh7EGCXMfdB) | [Straight Line \(Remixed\)](https://open.spotify.com/album/3IwjqbAEILvfrRJptM17L1) | 6:16 |
+| 42 | [Nankoo on Keys](https://open.spotify.com/track/4VImgRabUMMuNYftIVN3Go) | [Al Dobson Jr.](https://open.spotify.com/artist/3YOthLzFPTgp0fEtLRUoES), [Reginald Omas Mamode](https://open.spotify.com/artist/5f6KVvbRDEzdb6zTNVpYZy) | [Rye Lane Vol\. 1](https://open.spotify.com/album/5rjE3dz41m5JeNhDtq7Ahh) | 2:12 |
 | 43 | [Been A Long Night](https://open.spotify.com/track/6R1iUygNnqOmUBmMUsDM7I) | [Galcher Lustwerk](https://open.spotify.com/artist/1c7bxvBwJrMuZKwx4EDPHf) | [Information](https://open.spotify.com/album/5qMjQBgXiEDIoNFHatsaNA) | 4:32 |
-| 44 | [Nankoo on Keys](https://open.spotify.com/track/4VImgRabUMMuNYftIVN3Go) | [Al Dobson Jr.](https://open.spotify.com/artist/3YOthLzFPTgp0fEtLRUoES), [Reginald Omas Mamode](https://open.spotify.com/artist/5f6KVvbRDEzdb6zTNVpYZy) | [Rye Lane Vol\. 1](https://open.spotify.com/album/5rjE3dz41m5JeNhDtq7Ahh) | 2:12 |
+| 44 | [Straight Line \- Neil Cowley Remix](https://open.spotify.com/track/1NEl4CQVJNuNpROFX89Tfl) | [Holly Walker](https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC), [Neil Cowley](https://open.spotify.com/artist/3jrpFxybBbCCh7EGCXMfdB) | [Straight Line \(Remixed\)](https://open.spotify.com/album/3IwjqbAEILvfrRJptM17L1) | 6:16 |
 | 45 | [Laamore](https://open.spotify.com/track/7FcmCUd5fbtw2zpRBQwIBb) | [Hidden Spheres](https://open.spotify.com/artist/2ffi5jpoJUZy24fTeNsFMa) | [Laamore](https://open.spotify.com/album/6hS7OvK64BDDcg4AiGHODg) | 4:40 |
 | 46 | [Salaam](https://open.spotify.com/track/6Z6lYo8cyciwEU6goSrM0L) | [Kamaal Williams](https://open.spotify.com/artist/01mXk9IDlVczWwZvVHAiIS) | [The Return](https://open.spotify.com/album/0XKj7L2flZPg2i7efBZT2N) | 8:33 |
 | 47 | [Mind](https://open.spotify.com/track/5sfTya6OQoW2rDLKSVT2Qk) | [Fatima](https://open.spotify.com/artist/5uNCGgWH5Id1cW8kh9Sc67), [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Follow You EP \(feat\. Floating Points\)](https://open.spotify.com/album/5dt7lQjyinjDt7y0a8tzmw) | 4:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LY1d1nRWvR.md) - [plain]
 | 49 | [Frog Fractions](https://open.spotify.com/track/0pvezfxrKMaXPNNpGHlu5Q) | [Khotin](https://open.spotify.com/artist/0q2WkTHTEczNf8wNq6MBRk) | [New Tab](https://open.spotify.com/album/7sQkR41g5rIr1PPo4GloZe) | 4:40 |
 | 50 | [A Place With A View \- Edit](https://open.spotify.com/track/1IhvRUOUbCK3RAyj2zCgYM) | [Affelaye](https://open.spotify.com/artist/08Xoy5Glpl7MyzzZsRfRPJ) | [Clockwork Visit](https://open.spotify.com/album/7xAFnEq15WA1cPCGOUIWJE) | 3:44 |
 
-Snapshot ID: `MTYzMzcxNDU5NSwwMDAwMDAwMDYwNDRmMWVmOWQ1Yzk1ZDcyNTA3NjEzNjNiYjA2MmY2`
+Snapshot ID: `MTYzMzcxNDU5NSwwMDAwMDAwMDcyMmYzNGZjMDExNzYyMzhmYzc1NTJhNjkyMmYzNzdj`

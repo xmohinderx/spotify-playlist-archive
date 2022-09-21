@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2BZPS5jzzjcyPG7oqRXqMs.md) - [plain]
 
 > Your go to Christian playlist for every day listening \. Cover: Sadie Robertson Huff
 
-[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 13,095 likes - 89 songs - 5 hr 54 min
+[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 13,094 likes - 89 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/2BZPS5jzzjcyPG7oqRXqMs.md) - [plain]
 | 55 | [This Is How I Thank The Lord](https://open.spotify.com/track/2XrI8fJ93XibAXDtlAWZpl) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b) | [This Is How I Thank The Lord](https://open.spotify.com/album/2vbbNQNBVcUAO2X9H7aeU9) | 3:10 |
 | 56 | [God Thing](https://open.spotify.com/track/0SI39fe6eJtLtLezge9veM) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [God Thing](https://open.spotify.com/album/1A45aq1ogAeLMNtS7ldJhW) | 3:19 |
 | 57 | [Alive](https://open.spotify.com/track/4xG2EUEUnmSfAIMt5xdQoa) | [NONAH](https://open.spotify.com/artist/76SJxLztAMHPMieGTNZPeI) | [ALIVE \(VERSIONS\)](https://open.spotify.com/album/3fjEBRJZDBChnCdRpGyMDa) | 2:40 |
-| 58 | [God Song](https://open.spotify.com/track/460oUWkGwaNZM2ZrJzJAMK) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM) | [Are We There Yet?](https://open.spotify.com/album/5Ol7XeGGIlNkihAl0ucpmk) | 6:46 |
+| 58 | [God Song](https://open.spotify.com/track/460oUWkGwaNZM2ZrJzJAMK) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [Hannah Hobbs](https://open.spotify.com/artist/7DfCVb2hqPHt6gEMkTJh5h), [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [Are We There Yet?](https://open.spotify.com/album/5Ol7XeGGIlNkihAl0ucpmk) | 6:46 |
 | 59 | [Come Alive \(Resurrection Power\) \- Live](https://open.spotify.com/track/75iZxAhIjxwBed9QbkAuxy) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Hope Darst](https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36) | [Here \(Live\)](https://open.spotify.com/album/2XysmxL6KnVvYr8oWRxFp1) | 7:48 |
 | 60 | [Sunday Sermons](https://open.spotify.com/track/34AMpAXtxVGN6uSpwYN6Hs) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [Sunday Sermons](https://open.spotify.com/album/6COpz7BOFtDc13O5JcGzNQ) | 3:20 |
 | 61 | [Honey In The Rock \- Live](https://open.spotify.com/track/06EzKxIt7WUokYpkitiIK2) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [SEVEN \(Live\)](https://open.spotify.com/album/6ZVXKVGiyL96L6pflgfWrt) | 4:43 |
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/2BZPS5jzzjcyPG7oqRXqMs.md) - [plain]
 | 83 | [Worth The Risk](https://open.spotify.com/track/3pAitauaR81jvNaIOZADN2) | [Sam Rivera](https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x) | [Worth The Risk](https://open.spotify.com/album/0ot0DHzWGM9sDU08ExesC3) | 3:16 |
 | 84 | [What A Good God](https://open.spotify.com/track/2655uqZtu3w2O1ffwE9srv) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj) | [What A Good God](https://open.spotify.com/album/305Kh1fWNtsNJdd9TxM6L0) | 3:10 |
 | 85 | [Faithful](https://open.spotify.com/track/0sw4u9EcSC2E6rtCCdglHZ) | [Erik Nieder](https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh) | [Faithful](https://open.spotify.com/album/6AfVe2fUexeUZjPb0LFXg7) | 4:44 |
-| 86 | [On Repeat](https://open.spotify.com/track/5Bi3QUmWibSNUnvAAQ1OmK) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM) | [On Repeat](https://open.spotify.com/album/2unrWe1Pnq59gnq35fhYfC) | 4:31 |
+| 86 | [On Repeat](https://open.spotify.com/track/5Bi3QUmWibSNUnvAAQ1OmK) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [Jad Gillies](https://open.spotify.com/artist/5U4Girw0uPUEsQx5GzRaKU), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [On Repeat](https://open.spotify.com/album/2unrWe1Pnq59gnq35fhYfC) | 4:31 |
 | 87 | [Promised Land \(Collab New\) \(feat\. Sheryl Crow\)](https://open.spotify.com/track/5eQCKQKBFcyMQAAsVk3clf) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Promised Land](https://open.spotify.com/album/1gSbjqSJcZWYdN9u2Gbn8z) | 3:34 |
 | 88 | [Tempo](https://open.spotify.com/track/4vCOWKHmZGscJ4i0g9JVXg) | [Run51](https://open.spotify.com/artist/1qC0iwCgdWNwJM1KCxbX10) | [Tempo](https://open.spotify.com/album/7p5h5fCyKUSY3oiAmD0vSh) | 2:58 |
 | 89 | [Hills & Horizons](https://open.spotify.com/track/2V4l1eFzP7imN2HrWmDHxy) | [Futures](https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3) | [Hills & Horizons](https://open.spotify.com/album/6kxY4y9rGrWpnhofahze9h) | 3:32 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Butcher Brown
 
-[Spotify](https://open.spotify.com/user/spotify) - 837,781 likes - 100 songs - 7 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 838,069 likes - 100 songs - 7 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

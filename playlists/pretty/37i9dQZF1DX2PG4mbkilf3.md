@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 
 > This is R&B in Canada, elevate your aura\. Cover: Jessie Reyez
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,643 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,673 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 | 11 | [FOREVER \(with 6LACK\)](https://open.spotify.com/track/2lVYLiHGIX6GajMqYXF1Un) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [YESSIE](https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV) | 3:43 |
 | 12 | [TRAUMA](https://open.spotify.com/track/1znfamHM7SiXmxJOiQ5W1Z) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYMOBILE](https://open.spotify.com/album/2T8UlI17u5hwTqu6zkpkW7) | 2:50 |
 | 13 | [Space and Time](https://open.spotify.com/track/4V5rRfySgxrUbUz4ZvbcI4) | [Tasha Angela](https://open.spotify.com/artist/55icKM7WkjXWnyfvCTlqbk) | [Space and Time](https://open.spotify.com/album/5mTbBJkYvytrLD7xoEcw4n) | 3:32 |
-| 14 | [All Along \(Kaytranada Remix\)](https://open.spotify.com/track/35WIVWDcONu3B64ZcYbPX6) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [All Along \(Kaytranada Remix\)](https://open.spotify.com/album/3UtKaTe3ZGpNo0cVdffTCi) | 4:44 |
+| 14 | [All Along \(Kaytranada Remix\)](https://open.spotify.com/track/3fTwZdX5X3BIsdEJvai7Be) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Play With The Changes \(Remixed\)](https://open.spotify.com/album/3fMIqhERSssKur9QOqa5X1) | 4:44 |
 | 15 | [BLISS](https://open.spotify.com/track/4O1CRaOBYEEZkqomqYjvay) | [veggi](https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v), [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl), [Pell](https://open.spotify.com/artist/2O2dI9lY9PnWtAa4OlrgMi) | [BLISS](https://open.spotify.com/album/4bnrIcQo9k0qE3JHEL7BL8) | 2:41 |
 | 16 | [Where Ya From](https://open.spotify.com/track/74kvijB0vU5BK44QnNb4Gt) | [K\. Forest](https://open.spotify.com/artist/1uaS3ZokV40ZrpzSRhx4Ol) | [Hyde Out](https://open.spotify.com/album/3ChAAathOrBgPaXDJJk5Wy) | 3:48 |
 | 17 | [Self Talk](https://open.spotify.com/track/1QgRR1orkGMixuhjS1XV8D) | [LOKRE](https://open.spotify.com/artist/5GZK6iJt7jRO73C3zH5sho) | [ELIZABETH](https://open.spotify.com/album/4tzeckAWaM1QnimGXDD796) | 3:42 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 | 99 | [Play Safe](https://open.spotify.com/track/7cPdCG3oXEAWSFyHiVulhL) | [Jhyve](https://open.spotify.com/artist/0HmsavbsOIIyKWdQOyFh2f) | [Play Safe](https://open.spotify.com/album/7AnvxoSu0ZjrVe6rFaC41H) | 2:32 |
 | 100 | [Moments Ago](https://open.spotify.com/track/6OHfVVT9bIFWizu3XhSg3P) | [JJ Adrian](https://open.spotify.com/artist/4crJ8wTee0AgPI72R7YS77) | [Moments Ago / Yesterday Feels](https://open.spotify.com/album/77obPp4tcowHZwET3NGtBB) | 2:42 |
 
-Snapshot ID: `MTY2MzM1OTg4NSwwMDAwMDAwMGNlYTI5ZmJmNDMxYmIwNmU1OTg1Y2RhYTZjYzI4YzZj`
+Snapshot ID: `MTY2MzM1OTg4NSwwMDAwMDAwMDY0NTBmMDE0NDQwOTVlNmQ2ODMzNWUzNTkxOGZkOTcw`

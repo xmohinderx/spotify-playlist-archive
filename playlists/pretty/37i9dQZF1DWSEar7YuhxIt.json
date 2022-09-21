@@ -1,12 +1,12 @@
 {
   "description": "Horns up for this metal soundtrack for headbangers of all ages!",
-  "num_followers": 31831,
+  "num_followers": 31967,
   "original_name": "Raised on Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTc5NjIyNywwMDAwMDAwMDkzN2M1OWJmZTlhMmRkYWMyZjY0ZTllZjViZDczMzQx",
+  "snapshot_id": "MTY0OTc5NjIyNywwMDAwMDAwMDJlZmU3ODg2ZTAxY2NiNTVkNWVhNDRlNGJiZjQ2ZDI3",
   "tracks": [
     {
       "added_at": "2021-04-20 17:47:58",
@@ -523,22 +523,6 @@
     {
       "added_at": "2021-04-20 17:47:58",
       "album": {
-        "name": "Ride The Lightning (Deluxe Remaster)",
-        "url": "https://open.spotify.com/album/2omIeSJEGQeKHPOpiXgfkr"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 417226,
-      "name": "Fade To Black (Remastered)",
-      "url": "https://open.spotify.com/track/0dqGfCMAGyDgpUAgLNOjWd"
-    },
-    {
-      "added_at": "2021-04-20 17:47:58",
-      "album": {
         "name": "Youthanasia (Expanded Edition)",
         "url": "https://open.spotify.com/album/5UvUjC3G4UKSrwOeBA0qob"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 262133,
       "name": "A Tout Le Monde - Remastered 2004",
       "url": "https://open.spotify.com/track/6olS0TmHmsGr0hXtcBsiVM"
+    },
+    {
+      "added_at": "2021-04-20 17:47:58",
+      "album": {
+        "name": "Ride The Lightning (Deluxe Remaster)",
+        "url": "https://open.spotify.com/album/2omIeSJEGQeKHPOpiXgfkr"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 417226,
+      "name": "Fade To Black (Remastered)",
+      "url": "https://open.spotify.com/track/0dqGfCMAGyDgpUAgLNOjWd"
     },
     {
       "added_at": "2021-04-20 17:47:58",
@@ -795,8 +795,8 @@
     {
       "added_at": "2021-04-20 17:47:58",
       "album": {
-        "name": "Persistence Of Time (30th Anniversary Remaster)",
-        "url": "https://open.spotify.com/album/4WZ1C5yYQ5mekCAw7zDPWA"
+        "name": "Spreading The Disease",
+        "url": "https://open.spotify.com/album/0qEFMrunmeRHqzI9xAnu9L"
       },
       "artists": [
         {
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP"
         }
       ],
-      "duration_ms": 164333,
-      "name": "Got The Time",
-      "url": "https://open.spotify.com/track/3cFnb3Rg9a7Gzqxc5QQ9YZ"
+      "duration_ms": 259760,
+      "name": "Madhouse",
+      "url": "https://open.spotify.com/track/76BYv24CcZt2u94JRjmATX"
     }
   ],
   "unique_name": "Raised on Metal",

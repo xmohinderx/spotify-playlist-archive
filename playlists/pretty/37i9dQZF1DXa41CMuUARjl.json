@@ -1,12 +1,12 @@
 {
   "description": "This week's handpicked new <a href=\"spotify:genre:edm_dance\">dance and electronic music</a>, featuring new music from Steve Aoki.",
-  "num_followers": 400270,
+  "num_followers": 400418,
   "original_name": "New Music Friday Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMDQ0ZmViNDZjYWY5Y2JjMmZhMjc3MGYwMmM1NmUyNzRl",
+  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMDIwMmRmYjc0ZTlkZjI5ODY3M2RkMzg2ZjFkMmVhNTc0",
   "tracks": [
     {
       "added_at": "2022-09-16 04:00:00",
@@ -611,22 +611,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "On a High",
-        "url": "https://open.spotify.com/album/1tGUWSStSy460p2YUQECLs"
-      },
-      "artists": [
-        {
-          "name": "GRiZ",
-          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
-        }
-      ],
-      "duration_ms": 247000,
-      "name": "On a High",
-      "url": "https://open.spotify.com/track/2hlwbmSsFD1gcUebBwvyMo"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Halo",
         "url": "https://open.spotify.com/album/6fN9aKsrArw37XP4Wdiiw6"
       },
@@ -667,6 +651,22 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
+        "name": "On a High",
+        "url": "https://open.spotify.com/album/1tGUWSStSy460p2YUQECLs"
+      },
+      "artists": [
+        {
+          "name": "GRiZ",
+          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
+        }
+      ],
+      "duration_ms": 247000,
+      "name": "On a High",
+      "url": "https://open.spotify.com/track/2hlwbmSsFD1gcUebBwvyMo"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
         "name": "If It Ain't Love (feat. Lagique)",
         "url": "https://open.spotify.com/album/4b4rKWKsDf70c1culk7hGl"
       },
@@ -691,6 +691,30 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
+        "name": "Chemistry",
+        "url": "https://open.spotify.com/album/7M2PgMJyOQ2Pc3FTwNkPBz"
+      },
+      "artists": [
+        {
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+        },
+        {
+          "name": "Camden Cox",
+          "url": "https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C"
+        },
+        {
+          "name": "IDEMI",
+          "url": "https://open.spotify.com/artist/09OK5GXLbMSjg8lOb4wRVT"
+        }
+      ],
+      "duration_ms": 165750,
+      "name": "Chemistry",
+      "url": "https://open.spotify.com/track/23E8Vr8RGP54IoP0n4Lr4Z"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
         "name": "Save Me (feat. Kiddo A.I.)",
         "url": "https://open.spotify.com/album/1aBVzTtO3N59K3gJpyXIvM"
       },
@@ -711,46 +735,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Chemistry",
-        "url": "https://open.spotify.com/album/7M2PgMJyOQ2Pc3FTwNkPBz"
-      },
-      "artists": [
-        {
-          "name": "KREAM",
-          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
-        },
-        {
-          "name": "IDEMI",
-          "url": "https://open.spotify.com/artist/09OK5GXLbMSjg8lOb4wRVT"
-        },
-        {
-          "name": "Camden Cox",
-          "url": "https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C"
-        }
-      ],
-      "duration_ms": 165750,
-      "name": "Chemistry",
-      "url": "https://open.spotify.com/track/23E8Vr8RGP54IoP0n4Lr4Z"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "Len\u00e7\u00f3is (Love Me)",
-        "url": "https://open.spotify.com/album/3Rn9tJqGpKSHrmUvVFO6De"
-      },
-      "artists": [
-        {
-          "name": "RY X",
-          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
-        }
-      ],
-      "duration_ms": 225183,
-      "name": "Len\u00e7\u00f3is (Love Me)",
-      "url": "https://open.spotify.com/track/72DxIGCEAp0mEn4hLFY7G7"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Howl",
         "url": "https://open.spotify.com/album/3N8N2qIQa4UhkjW8SrCcoQ"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 192896,
       "name": "Howl",
       "url": "https://open.spotify.com/track/1PYUkeWwnAckQwOShEOyQy"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Len\u00e7\u00f3is (Love Me)",
+        "url": "https://open.spotify.com/album/3Rn9tJqGpKSHrmUvVFO6De"
+      },
+      "artists": [
+        {
+          "name": "RY X",
+          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
+        }
+      ],
+      "duration_ms": 225183,
+      "name": "Len\u00e7\u00f3is (Love Me)",
+      "url": "https://open.spotify.com/track/72DxIGCEAp0mEn4hLFY7G7"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -795,26 +795,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Make Me Feel",
-        "url": "https://open.spotify.com/album/1rmBeofIajOiaaB7DCVe70"
-      },
-      "artists": [
-        {
-          "name": "DJ Hanzel",
-          "url": "https://open.spotify.com/artist/6nxYdBHCGZ8bBM7sGhqxSC"
-        },
-        {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
-        }
-      ],
-      "duration_ms": 212682,
-      "name": "Make Me Feel",
-      "url": "https://open.spotify.com/track/7xz0zWS9RGucopvS2i1GZC"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Joy (with Ann Nesby)",
         "url": "https://open.spotify.com/album/0eS3DBfVWzm5CkUsv6sChS"
       },
@@ -831,6 +811,26 @@
       "duration_ms": 179174,
       "name": "Joy (with Ann Nesby)",
       "url": "https://open.spotify.com/track/3obMKrFiXTXGFW4vEoGeVo"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Make Me Feel",
+        "url": "https://open.spotify.com/album/1rmBeofIajOiaaB7DCVe70"
+      },
+      "artists": [
+        {
+          "name": "DJ Hanzel",
+          "url": "https://open.spotify.com/artist/6nxYdBHCGZ8bBM7sGhqxSC"
+        },
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        }
+      ],
+      "duration_ms": 212682,
+      "name": "Make Me Feel",
+      "url": "https://open.spotify.com/track/7xz0zWS9RGucopvS2i1GZC"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -951,34 +951,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "If Only (You Could Be Here) [Grigor\u00e8 Remix]",
-        "url": "https://open.spotify.com/album/0v802FZvgyuEgumXQdHn5l"
-      },
-      "artists": [
-        {
-          "name": "Le Youth",
-          "url": "https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx"
-        },
-        {
-          "name": "Nathan Nicholson",
-          "url": "https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd"
-        },
-        {
-          "name": "OCULA",
-          "url": "https://open.spotify.com/artist/2VzzhmEHXT4nGim8nBw4ij"
-        },
-        {
-          "name": "Grigor\u00e9",
-          "url": "https://open.spotify.com/artist/2RemyvxrdxNsB7ycf3rJHX"
-        }
-      ],
-      "duration_ms": 239032,
-      "name": "If Only (You Could Be Here) - Grigor\u00e8 Remix",
-      "url": "https://open.spotify.com/track/2WyrL80r0tIPxJyBadLZAB"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "IM25",
         "url": "https://open.spotify.com/album/6YEjK95sgoXQn1yGbYjHsp"
       },
@@ -1023,6 +995,34 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
+        "name": "If Only (You Could Be Here) [Grigor\u00e8 Remix]",
+        "url": "https://open.spotify.com/album/0v802FZvgyuEgumXQdHn5l"
+      },
+      "artists": [
+        {
+          "name": "Le Youth",
+          "url": "https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx"
+        },
+        {
+          "name": "Nathan Nicholson",
+          "url": "https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd"
+        },
+        {
+          "name": "OCULA",
+          "url": "https://open.spotify.com/artist/2VzzhmEHXT4nGim8nBw4ij"
+        },
+        {
+          "name": "Grigor\u00e9",
+          "url": "https://open.spotify.com/artist/2RemyvxrdxNsB7ycf3rJHX"
+        }
+      ],
+      "duration_ms": 239032,
+      "name": "If Only (You Could Be Here) - Grigor\u00e8 Remix",
+      "url": "https://open.spotify.com/track/2WyrL80r0tIPxJyBadLZAB"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
         "name": "Left Behind",
         "url": "https://open.spotify.com/album/3ahJz8yBkI9eUcKun7MDel"
       },
@@ -1039,6 +1039,22 @@
       "duration_ms": 264661,
       "name": "Left Behind",
       "url": "https://open.spotify.com/track/3NQOEIsyMlYGgy0i1pbxlL"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Oi",
+        "url": "https://open.spotify.com/album/1MyrJ9bOkmIBHPT04WlUup"
+      },
+      "artists": [
+        {
+          "name": "Catching Flies",
+          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
+        }
+      ],
+      "duration_ms": 216500,
+      "name": "Oi",
+      "url": "https://open.spotify.com/track/1q3Bh0X0zCczI7ewPQnmsg"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1063,38 +1079,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Oi",
-        "url": "https://open.spotify.com/album/1MyrJ9bOkmIBHPT04WlUup"
-      },
-      "artists": [
-        {
-          "name": "Catching Flies",
-          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
-        }
-      ],
-      "duration_ms": 216500,
-      "name": "Oi",
-      "url": "https://open.spotify.com/track/1q3Bh0X0zCczI7ewPQnmsg"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "All I Need",
-        "url": "https://open.spotify.com/album/2nCBGeudGkR5ZYFey8Ibix"
-      },
-      "artists": [
-        {
-          "name": "Forester",
-          "url": "https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc"
-        }
-      ],
-      "duration_ms": 186526,
-      "name": "All I Need",
-      "url": "https://open.spotify.com/track/4qOErzIVJ5dGY9U0aAZhwz"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Ba Da Bam",
         "url": "https://open.spotify.com/album/3ItfUtfDWe9hsu5xMar7jt"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 215238,
       "name": "Ba Da Bam",
       "url": "https://open.spotify.com/track/5K0MAKgSzTxGqiKhdwW12j"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "All I Need",
+        "url": "https://open.spotify.com/album/2nCBGeudGkR5ZYFey8Ibix"
+      },
+      "artists": [
+        {
+          "name": "Forester",
+          "url": "https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc"
+        }
+      ],
+      "duration_ms": 186526,
+      "name": "All I Need",
+      "url": "https://open.spotify.com/track/4qOErzIVJ5dGY9U0aAZhwz"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1155,6 +1155,30 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
+        "name": "Moderation (At Night)",
+        "url": "https://open.spotify.com/album/0hkWupyyYOTiSc8vDSm4dC"
+      },
+      "artists": [
+        {
+          "name": "Westend",
+          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
+        },
+        {
+          "name": "Role-Models",
+          "url": "https://open.spotify.com/artist/7w33UaLOaSd5WNwiogGIlt"
+        },
+        {
+          "name": "Eluera",
+          "url": "https://open.spotify.com/artist/7kvqbETQGxrUmRBEl6l10Q"
+        }
+      ],
+      "duration_ms": 174720,
+      "name": "Moderation (At Night)",
+      "url": "https://open.spotify.com/track/7kyiBfD6aY6qsfLd0Hja3w"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
         "name": "Fallen",
         "url": "https://open.spotify.com/album/3ywLCMZLSe12Q5Xuc8m1Pj"
       },
@@ -1191,6 +1215,22 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
+        "name": "In The Dark",
+        "url": "https://open.spotify.com/album/0jHCu9TvD0ZbfM2TlEbLqY"
+      },
+      "artists": [
+        {
+          "name": "Chapter & Verse",
+          "url": "https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t"
+        }
+      ],
+      "duration_ms": 193809,
+      "name": "In The Dark",
+      "url": "https://open.spotify.com/track/1LX0J6oKsraPm6kWwRObzR"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
         "name": "Space Candy",
         "url": "https://open.spotify.com/album/5jyYwSo8nUp0WaTZwOl69l"
       },
@@ -1211,42 +1251,18 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Moderation (At Night)",
-        "url": "https://open.spotify.com/album/0hkWupyyYOTiSc8vDSm4dC"
+        "name": "Vexed",
+        "url": "https://open.spotify.com/album/7hHnSz1lNjLVggdmiz0B63"
       },
       "artists": [
         {
-          "name": "Westend",
-          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
-        },
-        {
-          "name": "Role-Models",
-          "url": "https://open.spotify.com/artist/7w33UaLOaSd5WNwiogGIlt"
-        },
-        {
-          "name": "Eluera",
-          "url": "https://open.spotify.com/artist/7kvqbETQGxrUmRBEl6l10Q"
+          "name": "dexter",
+          "url": "https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa"
         }
       ],
-      "duration_ms": 174720,
-      "name": "Moderation (At Night)",
-      "url": "https://open.spotify.com/track/7kyiBfD6aY6qsfLd0Hja3w"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "In The Dark",
-        "url": "https://open.spotify.com/album/0jHCu9TvD0ZbfM2TlEbLqY"
-      },
-      "artists": [
-        {
-          "name": "Chapter & Verse",
-          "url": "https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t"
-        }
-      ],
-      "duration_ms": 193809,
-      "name": "In The Dark",
-      "url": "https://open.spotify.com/track/1LX0J6oKsraPm6kWwRObzR"
+      "duration_ms": 141782,
+      "name": "Vexed",
+      "url": "https://open.spotify.com/track/0AWkXy7GTpvh8h85Np8Ug0"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1267,18 +1283,18 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Vexed",
-        "url": "https://open.spotify.com/album/7hHnSz1lNjLVggdmiz0B63"
+        "name": "I Want You, You Want Me",
+        "url": "https://open.spotify.com/album/44y248L5TP8YfdatOmpKnU"
       },
       "artists": [
         {
-          "name": "dexter",
-          "url": "https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa"
+          "name": "BOSS",
+          "url": "https://open.spotify.com/artist/2qXlwHI0XFxS3SC8NiUjI1"
         }
       ],
-      "duration_ms": 141782,
-      "name": "Vexed",
-      "url": "https://open.spotify.com/track/0AWkXy7GTpvh8h85Np8Ug0"
+      "duration_ms": 138095,
+      "name": "I Want You, You Want Me",
+      "url": "https://open.spotify.com/track/13KPOA8QSNxis0Xp619cly"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1299,42 +1315,22 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Peach Fuzz (Open Till L8 Remix)",
-        "url": "https://open.spotify.com/album/652W2txeGr5Gai22wOXg29"
+        "name": "Spooky",
+        "url": "https://open.spotify.com/album/6UfKa4tiMxXCrc84faB64N"
       },
       "artists": [
         {
-          "name": "Anna Lunoe",
-          "url": "https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D"
+          "name": "Tom & Collins",
+          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
         },
         {
-          "name": "Totally Enormous Extinct Dinosaurs",
-          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
-        },
-        {
-          "name": "Open Till L8",
-          "url": "https://open.spotify.com/artist/6niasBrBbbzrUe7iWT6swJ"
+          "name": "Grace Galu",
+          "url": "https://open.spotify.com/artist/4ZDvMIGKnQwEJl0hIwLynN"
         }
       ],
-      "duration_ms": 157382,
-      "name": "Peach Fuzz - Open Till L8 Remix",
-      "url": "https://open.spotify.com/track/5czjZtJsZobBSdyrT0vhOm"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "I Want You, You Want Me",
-        "url": "https://open.spotify.com/album/44y248L5TP8YfdatOmpKnU"
-      },
-      "artists": [
-        {
-          "name": "BOSS",
-          "url": "https://open.spotify.com/artist/2qXlwHI0XFxS3SC8NiUjI1"
-        }
-      ],
-      "duration_ms": 138095,
-      "name": "I Want You, You Want Me",
-      "url": "https://open.spotify.com/track/13KPOA8QSNxis0Xp619cly"
+      "duration_ms": 171500,
+      "name": "Spooky",
+      "url": "https://open.spotify.com/track/2strBUa5wqXflJ1P5OHPUr"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1375,22 +1371,26 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Spooky",
-        "url": "https://open.spotify.com/album/6UfKa4tiMxXCrc84faB64N"
+        "name": "Peach Fuzz (Open Till L8 Remix)",
+        "url": "https://open.spotify.com/album/652W2txeGr5Gai22wOXg29"
       },
       "artists": [
         {
-          "name": "Tom & Collins",
-          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
+          "name": "Anna Lunoe",
+          "url": "https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D"
         },
         {
-          "name": "Grace Galu",
-          "url": "https://open.spotify.com/artist/4ZDvMIGKnQwEJl0hIwLynN"
+          "name": "Totally Enormous Extinct Dinosaurs",
+          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
+        },
+        {
+          "name": "Open Till L8",
+          "url": "https://open.spotify.com/artist/6niasBrBbbzrUe7iWT6swJ"
         }
       ],
-      "duration_ms": 171500,
-      "name": "Spooky",
-      "url": "https://open.spotify.com/track/2strBUa5wqXflJ1P5OHPUr"
+      "duration_ms": 157382,
+      "name": "Peach Fuzz - Open Till L8 Remix",
+      "url": "https://open.spotify.com/track/5czjZtJsZobBSdyrT0vhOm"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1407,30 +1407,6 @@
       "duration_ms": 154000,
       "name": "Bam Bae",
       "url": "https://open.spotify.com/track/0Sq6xXpQgHbTStVmhJYADV"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "BLISS",
-        "url": "https://open.spotify.com/album/4bnrIcQo9k0qE3JHEL7BL8"
-      },
-      "artists": [
-        {
-          "name": "veggi",
-          "url": "https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v"
-        },
-        {
-          "name": "KALLITECHNIS",
-          "url": "https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl"
-        },
-        {
-          "name": "Pell",
-          "url": "https://open.spotify.com/artist/2O2dI9lY9PnWtAa4OlrgMi"
-        }
-      ],
-      "duration_ms": 161454,
-      "name": "BLISS",
-      "url": "https://open.spotify.com/track/4O1CRaOBYEEZkqomqYjvay"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1467,18 +1443,26 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Dreamfields",
-        "url": "https://open.spotify.com/album/0moBjWA3zCpUXsAWoqT0NS"
+        "name": "BLISS",
+        "url": "https://open.spotify.com/album/4bnrIcQo9k0qE3JHEL7BL8"
       },
       "artists": [
         {
-          "name": "Starjunk 95",
-          "url": "https://open.spotify.com/artist/523iXWyHL26prJR3GKjRhx"
+          "name": "veggi",
+          "url": "https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v"
+        },
+        {
+          "name": "KALLITECHNIS",
+          "url": "https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl"
+        },
+        {
+          "name": "Pell",
+          "url": "https://open.spotify.com/artist/2O2dI9lY9PnWtAa4OlrgMi"
         }
       ],
-      "duration_ms": 160645,
-      "name": "Dreamfields",
-      "url": "https://open.spotify.com/track/0nzxHXi11ZQrZEuUQEdU87"
+      "duration_ms": 161454,
+      "name": "BLISS",
+      "url": "https://open.spotify.com/track/4O1CRaOBYEEZkqomqYjvay"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1495,6 +1479,22 @@
       "duration_ms": 213778,
       "name": "Only For Tonight",
       "url": "https://open.spotify.com/track/1vwCNbCIahe4HsmfZim45D"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Dreamfields",
+        "url": "https://open.spotify.com/album/0moBjWA3zCpUXsAWoqT0NS"
+      },
+      "artists": [
+        {
+          "name": "Starjunk 95",
+          "url": "https://open.spotify.com/artist/523iXWyHL26prJR3GKjRhx"
+        }
+      ],
+      "duration_ms": 160645,
+      "name": "Dreamfields",
+      "url": "https://open.spotify.com/track/0nzxHXi11ZQrZEuUQEdU87"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Cutie",
-        "url": "https://open.spotify.com/album/0xhMSimANUFkwXpS5n1HSl"
-      },
-      "artists": [
-        {
-          "name": "Shanti Celeste",
-          "url": "https://open.spotify.com/artist/3CkM2290WOa2ESzhlu5mzM"
-        }
-      ],
-      "duration_ms": 240723,
-      "name": "Cutie - Edit",
-      "url": "https://open.spotify.com/track/6ZKiCDG5v785d9aYTqkhhk"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Run It Back (feat. Kid Enigma)",
         "url": "https://open.spotify.com/album/1kwtrdI6tXhYIM48KPZ1YF"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 182598,
       "name": "Run It Back (feat. Kid Enigma)",
       "url": "https://open.spotify.com/track/4dDpTrqAAddlGRpgBCsuaS"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Cutie",
+        "url": "https://open.spotify.com/album/0xhMSimANUFkwXpS5n1HSl"
+      },
+      "artists": [
+        {
+          "name": "Shanti Celeste",
+          "url": "https://open.spotify.com/artist/3CkM2290WOa2ESzhlu5mzM"
+        }
+      ],
+      "duration_ms": 240723,
+      "name": "Cutie - Edit",
+      "url": "https://open.spotify.com/track/6ZKiCDG5v785d9aYTqkhhk"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1643,6 +1643,22 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
+        "name": "MOSQUITO",
+        "url": "https://open.spotify.com/album/4Kn8Km3RZWAM7LfK3bfrKK"
+      },
+      "artists": [
+        {
+          "name": "LYZZA",
+          "url": "https://open.spotify.com/artist/57xaBKepmdqQ6BjXkiHa4B"
+        }
+      ],
+      "duration_ms": 206750,
+      "name": "Blush Me Out!",
+      "url": "https://open.spotify.com/track/7At2LwoalVOj9MY9GH1EST"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
         "name": "Time To Move",
         "url": "https://open.spotify.com/album/5UfLgXIucHbZegaP4mDrVb"
       },
@@ -1663,22 +1679,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Poison",
-        "url": "https://open.spotify.com/album/1eHdV5KoD7l4NBESGy6QR4"
-      },
-      "artists": [
-        {
-          "name": "SAINT",
-          "url": "https://open.spotify.com/artist/2XzayuOUUjbWK65LzwHKuX"
-        }
-      ],
-      "duration_ms": 167723,
-      "name": "Poison",
-      "url": "https://open.spotify.com/track/7KvJproUw3i9dJAdPdm8yo"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "u//me",
         "url": "https://open.spotify.com/album/6NZBxFRzWZFFHO87etHqNe"
       },
@@ -1691,6 +1691,22 @@
       "duration_ms": 247618,
       "name": "hover",
       "url": "https://open.spotify.com/track/1tJXHqMrfashk5Ur0DY340"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Poison",
+        "url": "https://open.spotify.com/album/1eHdV5KoD7l4NBESGy6QR4"
+      },
+      "artists": [
+        {
+          "name": "SAINT",
+          "url": "https://open.spotify.com/artist/2XzayuOUUjbWK65LzwHKuX"
+        }
+      ],
+      "duration_ms": 167723,
+      "name": "Poison",
+      "url": "https://open.spotify.com/track/7KvJproUw3i9dJAdPdm8yo"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1727,22 +1743,6 @@
       "duration_ms": 256000,
       "name": "Borealis",
       "url": "https://open.spotify.com/track/7opM0UdIFdCMbSOCIibLAr"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "MOSQUITO",
-        "url": "https://open.spotify.com/album/4Kn8Km3RZWAM7LfK3bfrKK"
-      },
-      "artists": [
-        {
-          "name": "LYZZA",
-          "url": "https://open.spotify.com/artist/57xaBKepmdqQ6BjXkiHa4B"
-        }
-      ],
-      "duration_ms": 206750,
-      "name": "Blush Me Out!",
-      "url": "https://open.spotify.com/track/7At2LwoalVOj9MY9GH1EST"
     },
     {
       "added_at": "2022-09-16 04:00:00",

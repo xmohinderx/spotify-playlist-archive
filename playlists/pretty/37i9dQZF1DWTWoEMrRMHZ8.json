@@ -1,12 +1,12 @@
 {
   "description": "As belas novidades da MPB. Foto: Z\u00e9 Ramalho",
-  "num_followers": 323213,
+  "num_followers": 323259,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY5MjQwMCwwMDAwMDAwMGQ2ZTBmOTMxYWY3YjU0NjA4MGFjOTE4NThjM2ZiN2Vi",
+  "snapshot_id": "MTY2MjY5MjQwMCwwMDAwMDAwMDQ2YjdhNzhiY2EyMWY1OTZhOGI4NGFiNDZlNTJmOTQ5",
   "tracks": [
     {
       "added_at": "2022-09-09 03:00:00",
@@ -1059,6 +1059,26 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
+        "name": "Chico Chico & Fran Ao Vivo no Rio",
+        "url": "https://open.spotify.com/album/2g9BywNzkSuw0dgLDflALh"
+      },
+      "artists": [
+        {
+          "name": "Chico Chico",
+          "url": "https://open.spotify.com/artist/3mVWRyXgs9GEWLsgknbh9s"
+        },
+        {
+          "name": "Fran",
+          "url": "https://open.spotify.com/artist/1vrYVHeXLynVOgRmAxzHq1"
+        }
+      ],
+      "duration_ms": 167061,
+      "name": "\u00c1rvore - Ao Vivo no Rio",
+      "url": "https://open.spotify.com/track/6ck63Hkr6XAuLdOioWyAjQ"
+    },
+    {
+      "added_at": "2022-09-09 03:00:00",
+      "album": {
         "name": "Choro Sim",
         "url": "https://open.spotify.com/album/0SSYpwr8nf4ZWFNbNaW31P"
       },
@@ -1083,26 +1103,6 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
-        "name": "Chico Chico & Fran Ao Vivo no Rio",
-        "url": "https://open.spotify.com/album/2g9BywNzkSuw0dgLDflALh"
-      },
-      "artists": [
-        {
-          "name": "Chico Chico",
-          "url": "https://open.spotify.com/artist/3mVWRyXgs9GEWLsgknbh9s"
-        },
-        {
-          "name": "Fran",
-          "url": "https://open.spotify.com/artist/1vrYVHeXLynVOgRmAxzHq1"
-        }
-      ],
-      "duration_ms": 167061,
-      "name": "\u00c1rvore - Ao Vivo no Rio",
-      "url": "https://open.spotify.com/track/6ck63Hkr6XAuLdOioWyAjQ"
-    },
-    {
-      "added_at": "2022-09-09 03:00:00",
-      "album": {
         "name": "Lua e Estrela",
         "url": "https://open.spotify.com/album/6WLk4GdWrTFvIKqUVq0p05"
       },
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
-        "name": "Serotonina",
-        "url": "https://open.spotify.com/album/1BUJAgFFEA6ebbaFU8Fipc"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Donato",
-          "url": "https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi"
-        }
-      ],
-      "duration_ms": 224041,
-      "name": "\u00d3rbita",
-      "url": "https://open.spotify.com/track/686veWKRzmwYCFpisNUulz"
-    },
-    {
-      "added_at": "2022-09-09 03:00:00",
-      "album": {
         "name": "Humbiumbi",
         "url": "https://open.spotify.com/album/1mu3dEgT3LIJ3Vxkh3QPyM"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 237996,
       "name": "HUMBIUMBI",
       "url": "https://open.spotify.com/track/49hZHHz9ZBU9mwDebZp7ep"
+    },
+    {
+      "added_at": "2022-09-09 03:00:00",
+      "album": {
+        "name": "Serotonina",
+        "url": "https://open.spotify.com/album/1BUJAgFFEA6ebbaFU8Fipc"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Donato",
+          "url": "https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi"
+        }
+      ],
+      "duration_ms": 224041,
+      "name": "\u00d3rbita",
+      "url": "https://open.spotify.com/track/686veWKRzmwYCFpisNUulz"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
+        "name": "Preciso Me Encontrar / Uma Dose, um Caf\u00e9",
+        "url": "https://open.spotify.com/album/03stQ7E8Cy0ewRCpIRtzVy"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Suplicy",
+          "url": "https://open.spotify.com/artist/3JHPlT7Y0cMwVaEeaeZdiq"
+        }
+      ],
+      "duration_ms": 158956,
+      "name": "Uma Dose, um Caf\u00e9",
+      "url": "https://open.spotify.com/track/0b1nzJMdlkq2sUEu68mtB1"
+    },
+    {
+      "added_at": "2022-09-09 03:00:00",
+      "album": {
         "name": "Sem Pecado e Sem Ju\u00edzo (Ao Vivo)",
         "url": "https://open.spotify.com/album/25Lea4PaLVhwd2qh9ZPRVh"
       },
@@ -1587,22 +1603,6 @@
       "duration_ms": 247802,
       "name": "Coment\u00e1rios a Respeito de Belchior",
       "url": "https://open.spotify.com/track/7gT9a8ekaXrLVOtOaOTNu0"
-    },
-    {
-      "added_at": "2022-09-09 03:00:00",
-      "album": {
-        "name": "Preciso Me Encontrar / Uma Dose, um Caf\u00e9",
-        "url": "https://open.spotify.com/album/03stQ7E8Cy0ewRCpIRtzVy"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Suplicy",
-          "url": "https://open.spotify.com/artist/3JHPlT7Y0cMwVaEeaeZdiq"
-        }
-      ],
-      "duration_ms": 158956,
-      "name": "Uma Dose, um Caf\u00e9",
-      "url": "https://open.spotify.com/track/0b1nzJMdlkq2sUEu68mtB1"
     },
     {
       "added_at": "2022-09-09 03:00:00",

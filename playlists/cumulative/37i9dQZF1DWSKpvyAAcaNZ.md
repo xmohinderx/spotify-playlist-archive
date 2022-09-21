@@ -4,7 +4,7 @@
 
 > It's edgy, innovative, and rooted in soul, folk, Americana, and of course, the blues\. Cover: Ben Harper
 
-235 songs - 14 hr 47 min - [published](https://open.spotify.com/playlist/0VkXfjoWKQcjAxrDWon3jk)
+236 songs - 14 hr 51 min - [published](https://open.spotify.com/playlist/0VkXfjoWKQcjAxrDWon3jk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,7 +216,8 @@
 | [Uh Huh](https://open.spotify.com/track/5sRyU2xqnQvCzL6L0OMD37) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Jade Bird](https://open.spotify.com/album/0uM13moSmPXlIV41oSA6U8) | 2:22 | 2022-07-22 |  |
 | [Uh Huh](https://open.spotify.com/track/6UQkKezR70jMXymMJgRcOz) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Uh Huh](https://open.spotify.com/album/4TPh9MRbmnPMv0KXYypM5D) | 2:22 | 2021-12-17 | 2022-07-29 |
 | [Unchained](https://open.spotify.com/track/0cSJAbriuoamIYy7AfK2lr) | [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH) | [Black Hole Rainbow](https://open.spotify.com/album/0F6GEmGd1mErhB4Ie2d2So) | 4:04 | 2021-12-17 |  |
-| [Under the Sun](https://open.spotify.com/track/1GQ7M3b1B4Dt9lMjoBOGcl) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B V](https://open.spotify.com/album/5QNjmWuzmbjl0I27zqdFJ7) | 4:52 | 2021-12-17 |  |
+| [Under the Sun](https://open.spotify.com/track/1GQ7M3b1B4Dt9lMjoBOGcl) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B V](https://open.spotify.com/album/5QNjmWuzmbjl0I27zqdFJ7) | 4:52 | 2021-12-17 | 2022-09-21 |
+| [Under the Sun](https://open.spotify.com/track/1fTW6CCD4RFNnsKhxWKCFs) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B V](https://open.spotify.com/album/52O3QyngsXELzoDyyIsZuQ) | 4:52 | 2022-07-22 |  |
 | [Vagabond](https://open.spotify.com/track/0p0LA0XkXLfDeQGDFsT5Uz) | [Aquila Young](https://open.spotify.com/artist/3VX1a20isB4AkHOBCBY18s) | [Vagabond](https://open.spotify.com/album/1VNkd6veezStoL9TQp20PP) | 3:37 | 2021-12-17 | 2022-07-29 |
 | [Vagabond](https://open.spotify.com/track/4870O66Nal4yfWwHQMSeWl) | [Aquila Young](https://open.spotify.com/artist/3VX1a20isB4AkHOBCBY18s) | [Vagabond](https://open.spotify.com/album/6EETonMsPkVWN7iGmStXvW) | 3:39 | 2022-07-22 |  |
 | [Waiting for the Thunder](https://open.spotify.com/track/0Rxgdpe1zgZ6ZzHgxSaYEJ) | [Blackberry Smoke](https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8) | [Like an Arrow](https://open.spotify.com/album/4r0Zb1FdEFbpF5olm5ZIW0) | 4:07 | 2022-07-22 |  |

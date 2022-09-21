@@ -6,8 +6,24 @@
     "name": "Domino Recording Company",
     "url": "https://open.spotify.com/user/dominorecords"
   },
-  "snapshot_id": "MzUzNSxmYjNhN2NjNjBiYmJlYWE5MTRlZGY1YTQ1YWIxYzVjY2U0N2EwOWVh",
+  "snapshot_id": "MzUzNiw0YzVhMmU0ODhhYzNlZjI3ZTc2NjU5N2I1NDQ1OWMzZmI0YWIzNDRj",
   "tracks": [
+    {
+      "added_at": "2022-09-20 14:13:40",
+      "album": {
+        "name": "Date Night / Tomorrow",
+        "url": "https://open.spotify.com/album/6cdTXq7XYRn3E8Mk68ep0G"
+      },
+      "artists": [
+        {
+          "name": "White Lung",
+          "url": "https://open.spotify.com/artist/2iT2Fmot4VzWgdOTgp3j9M"
+        }
+      ],
+      "duration_ms": 174133,
+      "name": "Date Night",
+      "url": "https://open.spotify.com/track/7zQkwd2nzVq1EYn2bxkuyo"
+    },
     {
       "added_at": "2022-09-14 13:54:51",
       "album": {

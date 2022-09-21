@@ -4,7 +4,7 @@
 
 > Listen to the women of AU & NZ at full volume\. Cover: Thelma Plum
 
-256 songs - 13 hr 59 min - [published](https://open.spotify.com/playlist/4PJNyPSll9BI9JEGTXEKxV)
+259 songs - 14 hr 10 min - [published](https://open.spotify.com/playlist/4PJNyPSll9BI9JEGTXEKxV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,8 @@
 | [Evidence](https://open.spotify.com/track/0mdVIWcUl8Q34R8xPgpfHZ) | [Mia Wray](https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E) | [Evidence](https://open.spotify.com/album/3vjfI5MI9Y1EqwQbfAncwU) | 4:18 | 2022-09-05 |  |
 | [Exaggerator](https://open.spotify.com/track/0xOORWlyat8CcX7aHmR3HJ) | [Kirsten Salty](https://open.spotify.com/artist/57DpXexlXW4QPUzFAm4NpD) | [Exaggerator](https://open.spotify.com/album/1e3YEKpcvpDTQFxnVWsC6S) | 3:24 | 2022-02-03 | 2022-03-07 |
 | [Exile](https://open.spotify.com/track/70icLfzhRlRTW5is736O3j) | [Lily Papas](https://open.spotify.com/artist/2LDsVxtrG9fVXTNaL9oJNi) | [Exile](https://open.spotify.com/album/5EUFuGYhoaO2vImrZnxYG6) | 3:35 | 2022-04-05 |  |
-| [Expert In A Dying Field](https://open.spotify.com/track/7FxEMjLh4toXn1fVZAvT1O) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Expert In A Dying Field](https://open.spotify.com/album/6NxZFLWv5D3rr5Wom4HUvU) | 4:11 | 2022-07-31 |  |
+| [Expert In A Dying Field](https://open.spotify.com/track/7FxEMjLh4toXn1fVZAvT1O) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Expert In A Dying Field](https://open.spotify.com/album/6NxZFLWv5D3rr5Wom4HUvU) | 4:11 | 2022-07-31 | 2022-09-21 |
+| [Expert In A Dying Field](https://open.spotify.com/track/7v5SMNpbt9eaO7dFHGoXLZ) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Expert In A Dying Field](https://open.spotify.com/album/6RWLJx7kQLSnwwPyTqPj0U) | 4:11 | 2022-09-05 |  |
 | [Eyes Don’t Lie](https://open.spotify.com/track/2RSqIGxbnTQQjZIS5Iyakn) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Eyes Don’t Lie](https://open.spotify.com/album/5oga4aKPFCUavGaIVSCyK6) | 3:56 | 2022-04-05 | 2022-05-28 |
 | [Facade](https://open.spotify.com/track/6fJaiqLXgnAjCbrOxfzgSW) | [Nganeko](https://open.spotify.com/artist/4oJPE0D0YhnBErqxc65hay) | [Facade](https://open.spotify.com/album/0Tn0H6jvUCWlEbkUKsuMXJ) | 3:05 | 2022-02-03 | 2022-03-02 |
 | [Fading Out Slowly](https://open.spotify.com/track/1rPu5YP9ZnLj4v9gLytxJO) | [Saski](https://open.spotify.com/artist/4UfJMiu878W1bQhjsuRj4t) | [Fading Out Slowly](https://open.spotify.com/album/2wrcMYL1KPNGaWWz9yXEyP) | 2:34 | 2022-04-05 | 2022-05-28 |
@@ -156,7 +157,8 @@
 | [Meet U Again](https://open.spotify.com/track/5olHyFqKwYuX4UNE1bHeBO) | [RIIKI REID](https://open.spotify.com/artist/5E9EpWliOZr1yTJ8A7XSqC) | [Meet U Again](https://open.spotify.com/album/3Wf8JA1DpgNWqFLJEItImP) | 2:35 | 2022-03-01 | 2022-05-28 |
 | [Mid Years](https://open.spotify.com/track/3DweCW4XdD9BWzSjMkj0as) | [George Alice](https://open.spotify.com/artist/2qmz9qPEFq5phZ8bscA2oL) | [Mid Years](https://open.spotify.com/album/6goF0ZEnG6xaySuYrYAeEH) | 2:58 | 2022-02-03 | 2022-04-06 |
 | [Mother's Daughter](https://open.spotify.com/track/2uDA6ATYukCIzPKfaGXYZC) | [Jamie McDell](https://open.spotify.com/artist/44MWRwByQXnNT4PwguMPIH) | [Jamie Mcdell](https://open.spotify.com/album/5kohMWCVLPytKbZ3P3dZqT) | 3:31 | 2022-03-01 | 2022-07-29 |
-| [Mother's Daughter](https://open.spotify.com/track/2wBMRAphewXmBYoAE3OkCe) | [Jamie McDell](https://open.spotify.com/artist/44MWRwByQXnNT4PwguMPIH) | [Jamie McDell](https://open.spotify.com/album/1p7026lEIycyDwybn1VLPT) | 3:31 | 2022-07-03 |  |
+| [Mother's Daughter](https://open.spotify.com/track/2wBMRAphewXmBYoAE3OkCe) | [Jamie McDell](https://open.spotify.com/artist/44MWRwByQXnNT4PwguMPIH) | [Jamie McDell](https://open.spotify.com/album/1p7026lEIycyDwybn1VLPT) | 3:31 | 2022-07-03 | 2022-09-21 |
+| [Mother's Daughter](https://open.spotify.com/track/51Ii1uruA8HhOuMWSbHTyY) | [Jamie McDell](https://open.spotify.com/artist/44MWRwByQXnNT4PwguMPIH) | [Jamie Mcdell](https://open.spotify.com/album/6cDTr6ROfRdPeSqT0T54se) | 3:31 | 2022-09-05 |  |
 | [Move Boy](https://open.spotify.com/track/7cwsbOczJ1v0DBWIIBW9An) | [AACACIA](https://open.spotify.com/artist/3asBhUZPp0r1Hzw2DlT4My) | [Move Boy](https://open.spotify.com/album/5I0WBNXwvhJnXCno8O4h8v) | 3:28 | 2022-05-27 | 2022-07-29 |
 | [Move Boy](https://open.spotify.com/track/2IanjT7nd31ufhBK83QEQ1) | [AACACIA](https://open.spotify.com/artist/3asBhUZPp0r1Hzw2DlT4My) | [Move Boy](https://open.spotify.com/album/4ltHhXDKRiBK43dGzSWdLj) | 3:28 | 2022-07-03 | 2022-09-06 |
 | [Mutual XO](https://open.spotify.com/track/5IGoUYZdWjfTUjGlfeTKRc) | [Kota Banks](https://open.spotify.com/artist/6qjD8KqRe2dyNBsq1RcpaT) | [Mutual XO](https://open.spotify.com/album/4poZocs3xwN5Xp0WgdQU46) | 2:52 | 2022-03-06 | 2022-05-28 |
@@ -242,7 +244,8 @@
 | [Tō Aroha](https://open.spotify.com/track/6cppVm5dbOngC7VSHJJy28) | [Paige](https://open.spotify.com/artist/2hscsIIlxYGIUYsfarFCG7) | [Tō Aroha](https://open.spotify.com/album/0Xcyt3tSHSZ536Hnzb0r3Q) | 2:48 | 2022-09-05 |  |
 | [Unaware](https://open.spotify.com/track/3roidInKXgWRTSZYLiZbUY) | [Bella Taylor Smith](https://open.spotify.com/artist/5KZN09Gq54DniaMMM7rKCQ) | [Look Me In The Eyes](https://open.spotify.com/album/6QKGRsT17L0a2JLGIhOvfv) | 3:57 | 2022-05-02 |  |
 | [Undermine](https://open.spotify.com/track/1OL0iKcBz7xSvNtrU0xNaw) | [HANNI](https://open.spotify.com/artist/4VOC9EBF72tcQPs6P05Q1c) | [Undermine](https://open.spotify.com/album/7KA5Bh8sRCmzGaIh7kApCG) | 3:30 | 2022-04-05 |  |
-| [Understand](https://open.spotify.com/track/7qbF7t9vmBaAVS7VJ6gP82) | [Meg Mac](https://open.spotify.com/artist/4faUajx9k93O56nlmpkOuz) | [Understand](https://open.spotify.com/album/5QxQ9fuQFnYqqRfF3oyLXg) | 2:57 | 2022-09-05 |  |
+| [Understand](https://open.spotify.com/track/4JkRISoAHFRP40FGzNymNp) | [Meg Mac](https://open.spotify.com/artist/4faUajx9k93O56nlmpkOuz) | [Matter of Time](https://open.spotify.com/album/2z4hLufnidbzPL3fJA9UnB) | 2:57 | 2022-09-05 |  |
+| [Understand](https://open.spotify.com/track/7qbF7t9vmBaAVS7VJ6gP82) | [Meg Mac](https://open.spotify.com/artist/4faUajx9k93O56nlmpkOuz) | [Understand](https://open.spotify.com/album/5QxQ9fuQFnYqqRfF3oyLXg) | 2:57 | 2022-09-05 | 2022-09-21 |
 | [Ur So Annoying](https://open.spotify.com/track/0qwsNyrQFx5hXt9mxmOHzw) | [Jupita](https://open.spotify.com/artist/20dEUQqgrMGEybe0K79QpF) | [Ur So Annoying](https://open.spotify.com/album/3ameCWDwidBX4sVAmbahMc) | 2:38 | 2022-07-31 |  |
 | [vivienne](https://open.spotify.com/track/3oJ60hM1u2rJLMz7s6fUwS) | [tiffi](https://open.spotify.com/artist/4bQCZKbtYa0W0hzA7JrpC4) | [growing pains](https://open.spotify.com/album/4ydL1OENIYGUlgTWDpUcs5) | 3:12 | 2022-02-03 | 2022-08-01 |
 | [Way I Go](https://open.spotify.com/track/5fMTQPtPqEGNCI9gDGTruc) | [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [Way I Go](https://open.spotify.com/album/2BI8iTUQ5STaPPE8HowGNq) | 4:07 | 2022-07-03 |  |

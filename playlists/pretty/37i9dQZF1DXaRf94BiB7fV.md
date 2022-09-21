@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 
 > The best new music by independent artists and labels from India, updated every Wednesday\. Cover: Semwal, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,927 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,948 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 27 | [Chale Bhi Jao](https://open.spotify.com/track/37fbtdjzCUvmoPgnkmCIO1) | [Sanchi](https://open.spotify.com/artist/6QxNIpuAHE6MqRUCHJdLt0) | [Chale Bhi Jao](https://open.spotify.com/album/6FdPMK1pnbYpAIXFPDI84f) | 3:30 |
 | 28 | [Rehna Yahan](https://open.spotify.com/track/1VJL3frLxxd52d9CzkTmm5) | [Atul Gupta](https://open.spotify.com/artist/6oBR9IHSypECG3HX96270k), [Nidhi Rawat](https://open.spotify.com/artist/7cf1RowWBaDGxNU9JDinlY) | [Rehna Yahan](https://open.spotify.com/album/12YpLiUbFEp8YWwMbzOAvJ) | 2:56 |
 | 29 | [Dil Patang](https://open.spotify.com/track/1RbTj7XTHJ8K4AHjUwcR2h) | [KhoslaRaghu](https://open.spotify.com/artist/20tfEk8GA9lO1i0cZsslKS) | [Dil Patang](https://open.spotify.com/album/6IaWMrvJQLgudyIHa6r0dj) | 3:03 |
-| 30 | [Tumse Pyaar Hai](https://open.spotify.com/track/3DVQWNRE8pYPZGEtovHjIJ) | [Madmast](https://open.spotify.com/artist/33hUZqYtLAw9aOqExpKSOY) | [Tumse Pyaar Hai](https://open.spotify.com/album/2Zanv0MTkL3qlfC6ZecG9Y) | 5:17 |
+| 30 | [Tumse Pyaar Hai](https://open.spotify.com/track/3DVQWNRE8pYPZGEtovHjIJ) | [Madmast](https://open.spotify.com/artist/33hUZqYtLAw9aOqExpKSOY), [Vaibhav Sharma](https://open.spotify.com/artist/0NodMMnhAa0idBBJjEahzT) | [Tumse Pyaar Hai](https://open.spotify.com/album/2Zanv0MTkL3qlfC6ZecG9Y) | 5:17 |
 | 31 | [Trampoline](https://open.spotify.com/track/62wIEo8z0vfdeYihXzrXsm) | [Kowshik Saha](https://open.spotify.com/artist/1eZS9tmup5gEujYw3L9CPb) | [Trampoline](https://open.spotify.com/album/3D0q9naAD8yq90FB2iQlx8) | 3:46 |
 | 32 | [Banjare](https://open.spotify.com/track/4VBKGKkG1A8MpIPoEynoBn) | [Munaf Luhar](https://open.spotify.com/artist/45kc3XakJVhfSClDWpu7iZ) | [Banjare](https://open.spotify.com/album/0YOFWE7BMRkxKqOjYQQ2BS) | 3:26 |
 | 33 | [Chai](https://open.spotify.com/track/5mwyz9v3FkTp80xmReZ8Aj) | [Saurabh Tripathi](https://open.spotify.com/artist/2kOWriOsQOgsIeuRshJf36) | [Chai](https://open.spotify.com/album/2FYDaochbkyrnmRLLWtZNc) | 2:23 |

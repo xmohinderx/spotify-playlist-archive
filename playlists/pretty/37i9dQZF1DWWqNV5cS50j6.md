@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 
 > Gorillaz make anti pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 664,823 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 665,116 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 | 42 | [THREE HEADS\*](https://open.spotify.com/track/4apXjryIqMFUdOjWMM6zZp) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [THREE HEADS\*](https://open.spotify.com/album/02BIHNzIl0WCC17CPM83gN) | 2:51 |
 | 43 | [Diva](https://open.spotify.com/track/3DUkMATtjCLnic8KjPgx66) | [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [Diva](https://open.spotify.com/album/2nOhBMGUd7zru4hDhlV1ih) | 3:27 |
 | 44 | [Eye Tell \(!\)](https://open.spotify.com/track/2MAEd35YAuGXXCifA2M1Wz) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [Eye Tell \(!\)](https://open.spotify.com/album/1piNdNQfDq2mW2BiHC30by) | 2:10 |
-| 45 | [Act Up](https://open.spotify.com/track/1Oqr9YhCi3JmuHcyHDBhf8) | [Terry Presume](https://open.spotify.com/artist/4JLuMu6NZUAU8gYhrzvOdX) | [What Box?](https://open.spotify.com/album/6zxHzgT0fKSMEgIi7BpoyQ) | 3:04 |
+| 45 | [Carefree \(with Femdot & Mick Jenkins\)](https://open.spotify.com/track/5B6EIqgRxNOU08BgyKNQSS) | [KingTrey](https://open.spotify.com/artist/5dMrRJRJsvS36Mp8u2i7kv), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx), [Femdot](https://open.spotify.com/artist/7aGhkUVp7V3klWfTFe7AHS) | [Carefree \(with Femdot & Mick Jenkins\)](https://open.spotify.com/album/6JnfvhlcNqcMaDA5lTqs7t) | 4:01 |
 | 46 | [Lazy Summer Day](https://open.spotify.com/track/6ND3HuPxTJzFcRpyAAvhpL) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Lazy Summer Day / Chinese Restaurant](https://open.spotify.com/album/31Llb7Ur6VlRgCHsZBaGaQ) | 2:21 |
-| 47 | [Sugar](https://open.spotify.com/track/5KfUqRRbm6ACSzLxUS57R2) | [Unusual Demont](https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR) | [Sugar](https://open.spotify.com/album/4bPrS4muAMw2G5M6ARaZ01) | 1:54 |
-| 48 | [Carefree \(with Femdot & Mick Jenkins\)](https://open.spotify.com/track/5B6EIqgRxNOU08BgyKNQSS) | [KingTrey](https://open.spotify.com/artist/5dMrRJRJsvS36Mp8u2i7kv), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx), [Femdot](https://open.spotify.com/artist/7aGhkUVp7V3klWfTFe7AHS) | [Carefree \(with Femdot & Mick Jenkins\)](https://open.spotify.com/album/6JnfvhlcNqcMaDA5lTqs7t) | 4:01 |
+| 47 | [Act Up](https://open.spotify.com/track/1Oqr9YhCi3JmuHcyHDBhf8) | [Terry Presume](https://open.spotify.com/artist/4JLuMu6NZUAU8gYhrzvOdX) | [What Box?](https://open.spotify.com/album/6zxHzgT0fKSMEgIi7BpoyQ) | 3:04 |
+| 48 | [Sugar](https://open.spotify.com/track/5KfUqRRbm6ACSzLxUS57R2) | [Unusual Demont](https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR) | [Sugar](https://open.spotify.com/album/4bPrS4muAMw2G5M6ARaZ01) | 1:54 |
 | 49 | [You](https://open.spotify.com/track/5qcwzdhDQjHjmu12gOLjY0) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Pronounced McGee](https://open.spotify.com/album/25mNgv9kcDpET9UWcCxu16) | 5:10 |
 | 50 | [Leaving You](https://open.spotify.com/track/6SOmn0HMuY4Lq9XiUo8JZM) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [Leaving You](https://open.spotify.com/album/58sphqqoVOzCqMeWGEAv7O) | 1:53 |
 
-Snapshot ID: `MTY2MzYwNTc1MywwMDAwMDAwMGY1YzViMjc3MzhkNzJkMTkyYjdiNmEwZmQzNzc4NzJi`
+Snapshot ID: `MTY2MzYwNTc1MywwMDAwMDAwMGUyMjhkZDM5ZjRkMTNlYmEwMDg5MjU1MWFmMjY3M2Uw`

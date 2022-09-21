@@ -44,6 +44,24 @@
     },
     {
       "album": {
+        "name": "The Unfolding",
+        "url": "https://open.spotify.com/album/6fePA0wognv8fQ9mPed4YQ"
+      },
+      "artists": [
+        {
+          "name": "Chequerboard",
+          "url": "https://open.spotify.com/artist/4xjrTN2tw4VsS7mlBdSCmr"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 453700,
+      "name": "A Field of Night",
+      "url": "https://open.spotify.com/track/0YeA95qfyzG5jhm8M5XTpp"
+    },
+    {
+      "album": {
         "name": "To Those Who Dwelt in a Land of Deep Darkness",
         "url": "https://open.spotify.com/album/5gCoXk0VCqw3fLcK6aseuV"
       },
@@ -77,7 +95,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 300070,
       "name": "Adrift",
       "url": "https://open.spotify.com/track/3jexA82J4b3Nd72TbgMAZO"
@@ -135,6 +153,28 @@
       "duration_ms": 116013,
       "name": "All We Can't See",
       "url": "https://open.spotify.com/track/7MQxjq3mF74zRFUVx3C4K5"
+    },
+    {
+      "album": {
+        "name": "Ambient 2: The Plateaux Of Mirror (Remastered 2004)",
+        "url": "https://open.spotify.com/album/5ma9r5NFV0poevmydI2qgO"
+      },
+      "artists": [
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        },
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 389133,
+      "name": "An Arc Of Doves - Remastered 2004",
+      "url": "https://open.spotify.com/track/244AfRQzVwSOzkkRHGPWge"
     },
     {
       "album": {
@@ -259,6 +299,24 @@
       "duration_ms": 190500,
       "name": "Being - Midori Hirano Rework",
       "url": "https://open.spotify.com/track/1chIXynfO7wfUcRARw76sz"
+    },
+    {
+      "album": {
+        "name": "Bethlehem",
+        "url": "https://open.spotify.com/album/0b46xV200KRIkBVcRaOqtS"
+      },
+      "artists": [
+        {
+          "name": "Laraaji",
+          "url": "https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346244,
+      "name": "Bethlehem (Glimpse)",
+      "url": "https://open.spotify.com/track/0yxe3iTUbWYrd6OkPdZvX5"
     },
     {
       "album": {
@@ -589,7 +647,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 272223,
       "name": "Drift",
       "url": "https://open.spotify.com/track/3X6Fyt7NXiZ0TUA2bf4iVK"
@@ -1030,6 +1088,24 @@
     },
     {
       "album": {
+        "name": "Iris",
+        "url": "https://open.spotify.com/album/3UHUdqGQmAZR88r3FqeWRs"
+      },
+      "artists": [
+        {
+          "name": "Billow Observatory",
+          "url": "https://open.spotify.com/artist/2LylAbvBw2df3S9oO62du5"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230988,
+      "name": "Iris - Single Version",
+      "url": "https://open.spotify.com/track/0soNRvT5MhKnVGkwyDCqZ8"
+    },
+    {
+      "album": {
         "name": "Klass (Robot Koch Rework)",
         "url": "https://open.spotify.com/album/5NGRqqdsVWcFGZq4GqWytD"
       },
@@ -1465,7 +1541,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 275002,
       "name": "Objects With Intent - Heathered Pearls Remix",
       "url": "https://open.spotify.com/track/5LS0asKEyjsjXmbC4EYSlB"
@@ -1783,7 +1859,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 407062,
       "name": "Sea Kaleidoscope",
       "url": "https://open.spotify.com/track/3ARFPSPw3Mhx0Lr0kajzBd"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVuraZzTY0LP.md) - [plain]
 
 > Lo más alternativo para una mamá muy mo\-der\-na.
 
-[Spotify](https://open.spotify.com/user/spotify) - 289,470 likes - 70 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 289,642 likes - 70 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,19 +46,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVuraZzTY0LP.md) - [plain]
 | 36 | [Nunca Me Dejes](https://open.spotify.com/track/3G9SwzJFPgFY7aDrD6KIPB) | [Reyno](https://open.spotify.com/artist/1pzRh5IWgNWNrxPBu9EFcU) | [Viaje Por Lo Eterno](https://open.spotify.com/album/7e0cQ2zBmwrqjsObmwkh5c) | 3:25 |
 | 37 | [Just a Song Before I Go](https://open.spotify.com/track/4dAN7KcWCWx5jV6dpwtfvN) | [Crosby, Stills & Nash](https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou) | [CSN](https://open.spotify.com/album/63AF6wD9Mt1vQgKPNZaAXx) | 2:13 |
 | 38 | [Mardy Bum](https://open.spotify.com/track/3geFzA6VBSNZUTmV3bCry6) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Whatever People Say I Am, That's What I'm Not](https://open.spotify.com/album/0ndGMh4twJNzPpr5XtHTR2) | 2:55 |
-| 39 | [Lady Blue](https://open.spotify.com/track/492aSGsuE0dOOBKB66781Z) | [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT) | [Flamingos](https://open.spotify.com/album/2MUTc0OJT6lOZCwifS1LyB) | 5:29 |
-| 40 | [Right on time](https://open.spotify.com/track/6JJ3UK1YfxO26iEiMWUHHj) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX) | [Small World](https://open.spotify.com/album/5CHaXCMeag2aPjo72Ib8Xj) | 3:44 |
+| 39 | [Virtual Insanity \- Remastered](https://open.spotify.com/track/2hNaljpWGHzwcIvkPIHMk7) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [High Times: Singles 1992\-2006](https://open.spotify.com/album/3gm6ZS73n5yGZvWfq7CoLX) | 3:49 |
+| 40 | [Lady Blue](https://open.spotify.com/track/492aSGsuE0dOOBKB66781Z) | [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT) | [Flamingos](https://open.spotify.com/album/2MUTc0OJT6lOZCwifS1LyB) | 5:29 |
 | 41 | [If I Ever Feel Better](https://open.spotify.com/track/3AA8xNhDC0MpqwkGX3EP5V) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [United](https://open.spotify.com/album/5MBUL8d9FAYCCMrogOFX68) | 4:26 |
-| 42 | [Keep Moving](https://open.spotify.com/track/6a88fc0zSrVWGPdoj445nJ) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Keep Moving](https://open.spotify.com/album/2RfWbfIULVPJq4Ng554eyX) | 4:00 |
-| 43 | [Virtual Insanity \- Remastered](https://open.spotify.com/track/2hNaljpWGHzwcIvkPIHMk7) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [High Times: Singles 1992\-2006](https://open.spotify.com/album/3gm6ZS73n5yGZvWfq7CoLX) | 3:49 |
+| 42 | [Right on time](https://open.spotify.com/track/6JJ3UK1YfxO26iEiMWUHHj) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX) | [Small World](https://open.spotify.com/album/5CHaXCMeag2aPjo72Ib8Xj) | 3:44 |
+| 43 | [Keep Moving](https://open.spotify.com/track/6a88fc0zSrVWGPdoj445nJ) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Keep Moving](https://open.spotify.com/album/2RfWbfIULVPJq4Ng554eyX) | 4:00 |
 | 44 | [That Life](https://open.spotify.com/track/5z0Wa1EiCoaUafx83WszRY) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [That Life](https://open.spotify.com/album/0JrBO42BQFg0t47H1llw4N) | 3:37 |
 | 45 | [Aura](https://open.spotify.com/track/3FcNx0xneevygzqjZaSDIo) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Aura](https://open.spotify.com/album/1i3MA9Eamgjk3SKYFo0zdn) | 3:27 |
 | 46 | [Popular](https://open.spotify.com/track/3uEx77R6b16SAltboKfQjh) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Sonidos De Karmática Resonancia](https://open.spotify.com/album/4a9Zz5WbFy2guHD98gHEyO) | 4:30 |
 | 47 | [Hey!](https://open.spotify.com/track/4f3M1o9elhV6gma79EoVRp) | [La Gusana Ciega](https://open.spotify.com/artist/4bx914GWsNvshDzfYNSKjY) | [Jaibol](https://open.spotify.com/album/1iLGWwqCD5NVbI81y5xFPM) | 4:17 |
 | 48 | [Cachito De Galaxia](https://open.spotify.com/track/6T0ATRfwd6t1xEuVS2hgGN) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5), [Ana Torroja](https://open.spotify.com/artist/5YekZn3GGnPIURNA6RG124) | [La Historia Sin Fin](https://open.spotify.com/album/6k6jrCUKBeZflALDUS8UF3) | 4:57 |
-| 49 | [Because I’m Me](https://open.spotify.com/track/3f3HHRPF5vAo90GwdpDMaQ) | [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED) | [Wildflower](https://open.spotify.com/album/0j0djiGxLnBiW7meVc2PER) | 4:12 |
-| 50 | [Azul](https://open.spotify.com/track/3V4TnrGeVCxB2TLZ2pZQYO) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Norte](https://open.spotify.com/album/3ccENIV5z7jcA7MFTz3Tfw) | 4:14 |
-| 51 | [Bonnie Hill](https://open.spotify.com/track/6nU0Y6B5TEtAdiavOLP7lO) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Loving In Stereo](https://open.spotify.com/album/1hykVcbmenjAoG7wwoXmCV) | 3:11 |
+| 49 | [Bonnie Hill](https://open.spotify.com/track/6nU0Y6B5TEtAdiavOLP7lO) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Loving In Stereo](https://open.spotify.com/album/1hykVcbmenjAoG7wwoXmCV) | 3:11 |
+| 50 | [Because I’m Me](https://open.spotify.com/track/3f3HHRPF5vAo90GwdpDMaQ) | [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED) | [Wildflower](https://open.spotify.com/album/0j0djiGxLnBiW7meVc2PER) | 4:12 |
+| 51 | [Azul](https://open.spotify.com/track/3V4TnrGeVCxB2TLZ2pZQYO) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Norte](https://open.spotify.com/album/3ccENIV5z7jcA7MFTz3Tfw) | 4:14 |
 | 52 | [For Sure](https://open.spotify.com/track/7EtMa8eHEOfvh1ANRHQ9uh) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [As Long As You Are](https://open.spotify.com/album/0Xb7fY98lbfsGdo9OdbC9W) | 3:25 |
 | 53 | [Siento Que...](https://open.spotify.com/track/1VtBjpwh6xdRPDy20Uln3W) | [Jumbo](https://open.spotify.com/artist/55qSbU11psT1e0HlLaTZPB) | [Restaurant](https://open.spotify.com/album/5zU7tsXAkoLAdc1Un5j96c) | 3:29 |
 | 54 | [Vía Láctea](https://open.spotify.com/track/1nquycJ4zLhrT23rwtH5Wj) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Memo Rex Commander y el Corazón Atómico de la Vía Láctea](https://open.spotify.com/album/1aHxOwnGJWLSB2KfiUPoZG) | 4:08 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVuraZzTY0LP.md) - [plain]
 | 69 | [Recuerdos Que Torturan](https://open.spotify.com/track/6cZXekrGcyPkuTAUiyKzIW) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [Recuerdos Que Torturan](https://open.spotify.com/album/7K5xL0QYU1brmPwpWSYA2L) | 3:30 |
 | 70 | [Blowback](https://open.spotify.com/track/7aZ1Grktl7RBHLwxem7DE7) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Imploding The Mirage](https://open.spotify.com/album/1uROBP2G4MP0O4w1v5Cpbg) | 3:59 |
 
-Snapshot ID: `MTY2Mjc2NjA1MiwwMDAwMDAwMDNjY2NjZjk2Zjk4OGM1MDQ0ZDM0YzZlODNlN2Q1ZGYz`
+Snapshot ID: `MTY2Mjc2NjA1MiwwMDAwMDAwMDgzNjUzMDc2ZTMwNTU4MTZlMWM4YjVjYzY2ZDllMGRi`

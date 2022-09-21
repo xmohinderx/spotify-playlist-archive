@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uG5byNIgDA.md) - [plain]
 
 > Everyday should be a happy day when you listen to this fun K\-Pop playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,784 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,798 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uG5byNIgDA.md) - [plain]
 | 17 | [LOVE SCENARIO](https://open.spotify.com/track/3d3ELsqKlQ7WA0a10Isu3l) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [Return](https://open.spotify.com/album/7th9VLudqM04TpG8hNE1pb) | 3:29 |
 | 18 | [Tamed\-Dashed](https://open.spotify.com/track/1zoyteFQmeUUqyOl2Xznpy) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DIMENSION : DILEMMA](https://open.spotify.com/album/5jGRqioNCSWZGBl3QmyuFI) | 3:16 |
 | 19 | [Life Goes On](https://open.spotify.com/track/5FVbvttjEvQ8r2BgUcJgNg) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr) | 3:27 |
-| 20 | [GANADARA \(Feat\. IU\)](https://open.spotify.com/track/5quFr5s5PXYfUX5jV2EBZ1) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [GANADARA](https://open.spotify.com/album/4cwyl5ynvYVojZRbZ3dSFH) | 3:23 |
-| 21 | [BBIBBI](https://open.spotify.com/track/4as4XEOR03oGm1STUKl6pa) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [BBIBBI](https://open.spotify.com/album/4ghBzVOTFoeKPPmyNKjVtI) | 3:14 |
+| 20 | [BBIBBI](https://open.spotify.com/track/4as4XEOR03oGm1STUKl6pa) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [BBIBBI](https://open.spotify.com/album/4ghBzVOTFoeKPPmyNKjVtI) | 3:14 |
+| 21 | [GANADARA \(Feat\. IU\)](https://open.spotify.com/track/5quFr5s5PXYfUX5jV2EBZ1) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [GANADARA](https://open.spotify.com/album/4cwyl5ynvYVojZRbZ3dSFH) | 3:23 |
 | 22 | [Hello Future](https://open.spotify.com/track/332GJ8ykVuEt3jOT1sy7j6) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hello Future \- The 1st Album Repackage](https://open.spotify.com/album/1fRqXYwoLDxG3EwP70qnjM) | 3:40 |
 | 23 | [SCIENTIST](https://open.spotify.com/track/0BJMgVrnWIvgYsjq8KaPeh) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Formula of Love: O+T=<3](https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq) | 3:14 |
 | 24 | [DM](https://open.spotify.com/track/7B9W7Qsy5M2kyUNjQYIEG8) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Midnight Guest](https://open.spotify.com/album/2WT1URsANJa9zhPsqzspMR) | 3:24 |
@@ -43,11 +43,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uG5byNIgDA.md) - [plain]
 | 33 | [YES or YES](https://open.spotify.com/track/26OVhEqFDQH0Ij77QtmGP9) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [YES or YES](https://open.spotify.com/album/25VunQEW0x2W6ALND2Mh4g) | 3:57 |
 | 34 | [Answer : Love Myself](https://open.spotify.com/track/2X3UgVLSA4wYriGIQyYmMA) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Love Yourself 結 'Answer'](https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y) | 4:11 |
 | 35 | [Shine](https://open.spotify.com/track/7nkp1uuSbKkoxMvEs8cSw0) | [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) | [Positive](https://open.spotify.com/album/1ZRmLzZWvOkSqWePzFeekO) | 3:18 |
-| 36 | [Hello](https://open.spotify.com/track/3cGp1jXxLReLKz7QgVbWZR) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [Hello \- Special Album](https://open.spotify.com/album/37mRfTDwQzVbHihypYY8oE) | 3:38 |
-| 37 | [LION](https://open.spotify.com/track/40OyiVO9NtBg9R2Gpwxs3u) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I trust](https://open.spotify.com/album/57sl8AvqVqm4Fadre0z8FQ) | 3:30 |
-| 38 | [See U Later](https://open.spotify.com/track/2REoTZjaB3jyAt5dgkV5GK) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [SQUARE UP](https://open.spotify.com/album/0wOiWrujRbxlKEGWRQpKYc) | 3:18 |
-| 39 | [Jam & Butterfly](https://open.spotify.com/track/5rZkRaL4AjykFgw49KULyo) | [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [Eaj](https://open.spotify.com/artist/2jgMsjXdb2NFsAlQQQ3hOv) | [Jam & Butterfly](https://open.spotify.com/album/5MYVpPtqQFHdYIJV0gnYbq) | 3:28 |
-| 40 | [strawberry moon](https://open.spotify.com/track/2g0LdZQce9xlcHb1mBJyuz) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [strawberry moon](https://open.spotify.com/album/7ed3SknyDqNz4XkPHNu4Fb) | 3:25 |
+| 36 | [LION](https://open.spotify.com/track/40OyiVO9NtBg9R2Gpwxs3u) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I trust](https://open.spotify.com/album/57sl8AvqVqm4Fadre0z8FQ) | 3:30 |
+| 37 | [Hello](https://open.spotify.com/track/3cGp1jXxLReLKz7QgVbWZR) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [Hello \- Special Album](https://open.spotify.com/album/37mRfTDwQzVbHihypYY8oE) | 3:38 |
+| 38 | [strawberry moon](https://open.spotify.com/track/2g0LdZQce9xlcHb1mBJyuz) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [strawberry moon](https://open.spotify.com/album/7ed3SknyDqNz4XkPHNu4Fb) | 3:25 |
+| 39 | [See U Later](https://open.spotify.com/track/2REoTZjaB3jyAt5dgkV5GK) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [SQUARE UP](https://open.spotify.com/album/0wOiWrujRbxlKEGWRQpKYc) | 3:18 |
+| 40 | [Jam & Butterfly](https://open.spotify.com/track/5rZkRaL4AjykFgw49KULyo) | [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [Eaj](https://open.spotify.com/artist/2jgMsjXdb2NFsAlQQQ3hOv) | [Jam & Butterfly](https://open.spotify.com/album/5MYVpPtqQFHdYIJV0gnYbq) | 3:28 |
 | 41 | [Killing Me](https://open.spotify.com/track/3QD0Y1tTngihByjdWC99lG) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Killing Me](https://open.spotify.com/album/21jf5kUkK5nHYTuZ5GRZVW) | 2:44 |
 | 42 | [Mixtape : OH](https://open.spotify.com/track/2afx8zfrOsN3QVEWSx5IPp) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [NOEASY](https://open.spotify.com/album/558tpdCejjVQNFAumRAeQj) | 3:32 |
 | 43 | [Magic](https://open.spotify.com/track/4Wh5WGtov1VJ6EJ8OQgNeS) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Chaos Chapter: FREEZE](https://open.spotify.com/album/5Zdr9vactwnJH4Vpe9Mid9) | 2:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uG5byNIgDA.md) - [plain]
 | 49 | [Missing You](https://open.spotify.com/track/2zlgwqw8BLX2JGB76LIFeF) | [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) | [Brother Act.](https://open.spotify.com/album/3oXEVu3gwToJRkE2xAW44a) | 3:56 |
 | 50 | [The View](https://open.spotify.com/track/5FM1V3qjHroqsXRBbL57rW) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [NOEASY](https://open.spotify.com/album/558tpdCejjVQNFAumRAeQj) | 3:21 |
 
-Snapshot ID: `MTY2MTMxNzAyNCwwMDAwMDAwMGIzMWM3MDU0Y2YwNWQ0MjRiMTVmY2IxZDA2YzFhMjM1`
+Snapshot ID: `MTY2MTMxNzAyNCwwMDAwMDAwMDNjMThlOWYxMTM5NzBkYThmNDkwZWFiNWJhMGNmMmI4`

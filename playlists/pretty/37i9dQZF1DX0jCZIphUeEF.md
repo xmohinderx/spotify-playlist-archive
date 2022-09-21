@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jCZIphUeEF.md) - [plain]
 
 > <a href="spotify:artist:4Jh6PxSFH7CrZrQpDivlYf">Amine K</a>'s favorite tracks\. Updated regularly\. Curated by Amine K\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,569 likes - 66 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,589 likes - 66 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jCZIphUeEF.md) - [plain]
 | 53 | [Basari \- Amine K Remix](https://open.spotify.com/track/1pUAMieBlYE5aOLpCvzGnG) | [German Brigante](https://open.spotify.com/artist/2h7fN6KOZVgWQ39sYK0jJm), [Yamil](https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS), [Amine K \(Moroko Loko\)](https://open.spotify.com/artist/4Jh6PxSFH7CrZrQpDivlYf) | [Basari](https://open.spotify.com/album/3PPB15rUXSk9jaeMGWoljO) | 6:08 |
 | 54 | [Mondo](https://open.spotify.com/track/6xXLjtrH9S4JaB3SscBXFe) | [Facundo Mohrr](https://open.spotify.com/artist/5oX3Dbh7rf6ZSNnMdt9giF) | [Sunshine](https://open.spotify.com/album/6jEhtIGOpUgLG5EivDFxGS) | 8:31 |
 | 55 | [Space Cowboy \- David Morales Mix](https://open.spotify.com/track/5z0PXFuxL2SZLPHLDlMDfL) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid), [David Morales](https://open.spotify.com/artist/6CwQfN34JdGHfo0A752Lts) | [The Return of the Space Cowboy \(Remastered\)](https://open.spotify.com/album/3emhnEQ76nUUehouSvnGxk) | 7:50 |
-| 56 | [The Baguio Track \- Chus & Ceballos Mix](https://open.spotify.com/track/4vEzG3NarB1Z5GeL6A5gQo) | [Luzon](https://open.spotify.com/artist/57sbhIOYKsrAGlzBClwqJ3), [Chus](https://open.spotify.com/artist/1ZSVg4XUh5sAy6wx5zlGHA), [Ceballos](https://open.spotify.com/artist/77kMQ6I9X6hi06rBZEvdk8) | [Yoshitoshi Classics 100Th Release](https://open.spotify.com/album/1pWTeJVJHBq9dH5VFcXno9) | 10:07 |
+| 56 | [The Baguio Track \- Chus & Ceballos Mix](https://open.spotify.com/track/2HZrVMUfpyHP3EtUXHiWxg) | [Luzon](https://open.spotify.com/artist/57sbhIOYKsrAGlzBClwqJ3), [Chus & Ceballos](https://open.spotify.com/artist/3yjqxf3d3aCOFrrsxIl326) | [Yoshitoshi Classics 100Th Release](https://open.spotify.com/album/4XhblKlgJqykVA4Gmys2md) | 10:07 |
 | 57 | [Oyelo \- Alt Control Remix](https://open.spotify.com/track/1MWbzEp4QuwPTw0jYtMg4c) | [Sunlightsquare](https://open.spotify.com/artist/04Yb1Hoq1XbQHmjjLhs4Et), [Alt Control](https://open.spotify.com/artist/1ozqRGnD1zBw8EkhwwvKuH) | [Oyelo Mo'Remixes](https://open.spotify.com/album/2YoDRauZ8D1iVD6rcZHOzc) | 5:32 |
 | 58 | [Blinding Lights \- Joris Voorn Remix](https://open.spotify.com/track/0fZ19tHX4FSslZn8EeKCpo) | [Alex Kennon](https://open.spotify.com/artist/1HMBuicB5RnpHxRDR51oMS), [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU) | [Blinding Lights \(Joris Voorn Remix\)](https://open.spotify.com/album/2bZXQG0WrPR1LcrJ01Of7J) | 5:13 |
 | 59 | [Rapture \(John Creamer & Stephane K\. Remix\) \[feat\. Nadia Ali\]](https://open.spotify.com/track/21s9uaVLfdKb1xEyiy0MBM) | [iio](https://open.spotify.com/artist/5WVf5DCSYmK4JYD6vIcttw), [Nadia Ali](https://open.spotify.com/artist/1C60viSZv6BoYtrnkZ44g5) | [Rapture Reconstruction, Platinum Edition \(feat\. Nadia Ali\)](https://open.spotify.com/album/4bOu5bLJpRBNfD0fb5apQf) | 9:58 |
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jCZIphUeEF.md) - [plain]
 | 65 | [Café Del Mar \- Dale Middleton Remix](https://open.spotify.com/track/5ibF56Z88lGgLdZOKqCl8l) | [Energy 52](https://open.spotify.com/artist/0sElgscu7tp38PM1MtsUz7), [Dale Middleton](https://open.spotify.com/artist/79URDVHEKInTBIZwJOECn6) | [Café Del Mar: The Best of the Remixes](https://open.spotify.com/album/6ovkQXabRgialkTUgF3Jun) | 9:08 |
 | 66 | [Is Killing Me \- Origianl Mix](https://open.spotify.com/track/7yov6F8T2Lnr9PH42Q1geT) | [Nick & Danny Chatelain](https://open.spotify.com/artist/15MRGeJadRRoZSZZg1Me3V) | [Is Killing Me](https://open.spotify.com/album/0QxxjYQfxMZPSVxV5YAj79) | 9:25 |
 
-Snapshot ID: `MTY2MjYzNTgwNiwwMDAwMDAwMGY5MjJiOTQ3ZjdkMTkxOWNjM2U2ZDRlYWUwNGU4Y2Y1`
+Snapshot ID: `MTY2MjYzNTgwNiwwMDAwMDAwMDYzMTQwMDRiZWY4ZmI4Mzc4ZGI5YWRkNDYyOGE0OWZm`

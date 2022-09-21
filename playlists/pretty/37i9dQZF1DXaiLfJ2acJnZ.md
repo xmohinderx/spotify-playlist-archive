@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiLfJ2acJnZ.md) - [plain]
 
 > Lovely, pop\-filled, fun.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,745 likes - 80 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,766 likes - 80 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,16 +53,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiLfJ2acJnZ.md) - [plain]
 | 43 | [More](https://open.spotify.com/track/3mS7QkIx75iVG9JjXzKfIz) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [More](https://open.spotify.com/album/6whNqO63IXyrbpV6iZ1MBL) | 3:48 |
 | 44 | [Let Me Know](https://open.spotify.com/track/4V33aS5qju2ujbQt8JKi6P) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Pacifico](https://open.spotify.com/album/5PrhnVNOKoJC2aLLfabxuB) | 2:17 |
 | 45 | [Psycho](https://open.spotify.com/track/6YZwJSMNL7hB4ItxZtn7jx) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Psycho](https://open.spotify.com/album/5UBAspHjoGNtNAvHAf5aSI) | 3:04 |
-| 46 | [Waves of Blue](https://open.spotify.com/track/5BQHyj5Pb3dUY8W6TSjeTF) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Waves of Blue](https://open.spotify.com/album/4kYLTRv7rgzUlGVbatSBLD) | 3:28 |
-| 47 | [Feel Something](https://open.spotify.com/track/0JU7KoyKSFgY1zJV2ex6Ee) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [Feel Something](https://open.spotify.com/album/5hnjWGpT06tLDq8u8WxhGI) | 2:43 |
+| 46 | [Feel Something](https://open.spotify.com/track/0JU7KoyKSFgY1zJV2ex6Ee) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [Feel Something](https://open.spotify.com/album/5hnjWGpT06tLDq8u8WxhGI) | 2:43 |
+| 47 | [Waves of Blue](https://open.spotify.com/track/5BQHyj5Pb3dUY8W6TSjeTF) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Waves of Blue](https://open.spotify.com/album/4kYLTRv7rgzUlGVbatSBLD) | 3:28 |
 | 48 | [Footprints](https://open.spotify.com/track/3y3xJiOrKFatn8YqiSgBuS) | [Tom Gregory](https://open.spotify.com/artist/6Rmg5JiRphFMlhkwGNl9Fu) | [Footprints](https://open.spotify.com/album/4yyk0KJ7w8fHDEQMmu1afO) | 3:20 |
 | 49 | [CHARGER](https://open.spotify.com/track/0iBBOvVQ8QCK7F95boCn3C) | [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA) | [Can You Hear Me Now?](https://open.spotify.com/album/54AUddF7LyGKylFLSNoK8g) | 2:29 |
 | 50 | [No Regrets](https://open.spotify.com/track/0UzGVWTmURL3F3Y1wgzFtJ) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E), [SHY Martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [No Regrets](https://open.spotify.com/album/2JO9ocFahCA7zpSObO39bR) | 2:50 |
 | 51 | [Over It](https://open.spotify.com/track/1I42QMyWviQKegiQRGim0S) | [Drax Project](https://open.spotify.com/artist/6S0IvKlvPMX1RtAYtVpUV8) | [Over It](https://open.spotify.com/album/6oeqSsMiS8lxIi1L34ykXM) | 2:49 |
 | 52 | [Happy Place \(feat\. Jasmine Thompson\)](https://open.spotify.com/track/2DuDGvtZmUZZINTOvhm3CR) | [SAINT PHNX](https://open.spotify.com/artist/1Tdg7NIdyWx9icE2GNZzxk), [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Happy Place \(feat\. Jasmine Thompson\)](https://open.spotify.com/album/38xoqyWybDC5qjbsshhRkd) | 3:06 |
 | 53 | [Strangers](https://open.spotify.com/track/6VS4OTcpylKl984tzFYC11) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Polydans](https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U) | 3:40 |
-| 54 | [Voices](https://open.spotify.com/track/5zxZ7M4RgWZUHlMEwac8vt) | [Tusse](https://open.spotify.com/artist/1BwDWgdDJe3TJXLZkBkpsI) | [Voices](https://open.spotify.com/album/55w4D3r62g4hmMVvpnVkSV) | 3:04 |
-| 55 | [Out of the Blue](https://open.spotify.com/track/1vi5DdsHyYXVhsnxDZxAaF) | [Florence Arman](https://open.spotify.com/artist/2OTqocUdUt52tEuCd1sJ15) | [Out of the Blue EP](https://open.spotify.com/album/37b14FQWTZDLom4wPcEywB) | 2:48 |
+| 54 | [Out of the Blue](https://open.spotify.com/track/1vi5DdsHyYXVhsnxDZxAaF) | [Florence Arman](https://open.spotify.com/artist/2OTqocUdUt52tEuCd1sJ15) | [Out of the Blue EP](https://open.spotify.com/album/37b14FQWTZDLom4wPcEywB) | 2:48 |
+| 55 | [Voices](https://open.spotify.com/track/5zxZ7M4RgWZUHlMEwac8vt) | [Tusse](https://open.spotify.com/artist/1BwDWgdDJe3TJXLZkBkpsI) | [Voices](https://open.spotify.com/album/55w4D3r62g4hmMVvpnVkSV) | 3:04 |
 | 56 | [When The Lights Go Out](https://open.spotify.com/track/2h3tbYCmuY6C2FM2GbAg2K) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [When The Lights Go Out](https://open.spotify.com/album/65DJbbYsBRS0IK0KhZG4kv) | 3:06 |
 | 57 | [Whole](https://open.spotify.com/track/2JZixjPnrQ67VOPQRDKSmH) | [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [Whole](https://open.spotify.com/album/5rITGmazx7CpQZ8N3nTgaW) | 2:54 |
 | 58 | [Spinning \(with Charli XCX & The 1975\)](https://open.spotify.com/track/56D251hqnHtPSgwSH5a0fl) | [No Rome](https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Spinning \(with Charli XCX & The 1975\)](https://open.spotify.com/album/3iji9D5iOwGSCz1bnkuAii) | 2:52 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiLfJ2acJnZ.md) - [plain]
 | 61 | [Something in the Water](https://open.spotify.com/track/5z7wmSmPWHgTFz5iOKHhAz) | [Boys World](https://open.spotify.com/artist/0YgZTREOQz8oOGVABXEoXi) | [Something in the Water](https://open.spotify.com/album/0Q8SEDn9byF7xTtKaYumMt) | 3:06 |
 | 62 | [The Hurt You Gave Me](https://open.spotify.com/track/1UCN2LmSOqXYUPTZfiOSzv) | [Robert Grace](https://open.spotify.com/artist/6W8rk6H6C3Mcj0lALuLVg1) | [The Hurt You Gave Me](https://open.spotify.com/album/2wPivRcli0y1oCdOg7ONlN) | 2:30 |
 | 63 | [1,000,000 X Better](https://open.spotify.com/track/1wYHNvK8jXzA4TASd5bTMU) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff), [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [1,000,000 X Better](https://open.spotify.com/album/0FshbFuKCMWATy0iqIkzWQ) | 3:11 |
-| 64 | [Daydream](https://open.spotify.com/track/7cGbXyQknlw334XA0NdH80) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW) | [Daydream](https://open.spotify.com/album/7H3DDXj9Q5QrfIlIhMt03o) | 2:55 |
-| 65 | [Call My Name](https://open.spotify.com/track/3RUi4rBDYospTGr92P7Xin) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Call My Name](https://open.spotify.com/album/0DtFQfEdnLy29pxYoizSgn) | 3:21 |
+| 64 | [Call My Name](https://open.spotify.com/track/3RUi4rBDYospTGr92P7Xin) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Call My Name](https://open.spotify.com/album/0DtFQfEdnLy29pxYoizSgn) | 3:21 |
+| 65 | [Daydream](https://open.spotify.com/track/7cGbXyQknlw334XA0NdH80) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW) | [Daydream](https://open.spotify.com/album/7H3DDXj9Q5QrfIlIhMt03o) | 2:55 |
 | 66 | [Splash](https://open.spotify.com/track/3ZVYZYIOVCwOnSE7WKRjXV) | [PUBLIC](https://open.spotify.com/artist/4vxaQs6vK54nK89J1VtLex) | [Splash](https://open.spotify.com/album/1AfiyFgWcXPFHRE2xmofea) | 2:50 |
 | 67 | [Rosé](https://open.spotify.com/track/2vfl8V78ai2lyCyFn1cPWx) | [Call Me Loop](https://open.spotify.com/artist/6NEekR0i3JC1r4BntSjskE) | [Rosé](https://open.spotify.com/album/75zIcxRfIZxxNEpSuqpCdX) | 2:46 |
 | 68 | [have a great day](https://open.spotify.com/track/5EKvSbDk01gFTw8IQNFzUz) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [life's a beach](https://open.spotify.com/album/2xOawu4iq9fwcdFNvGBTdl) | 3:22 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiLfJ2acJnZ.md) - [plain]
 | 79 | [Through the Phone](https://open.spotify.com/track/7wTV32F69jrY1myCj5jok2) | [Wild Youth](https://open.spotify.com/artist/4wZxKygv7GA7oGYzk6bpid) | [Through the Phone](https://open.spotify.com/album/6cozhiaZ4S8vZ8nRgJMAf2) | 3:24 |
 | 80 | [everything](https://open.spotify.com/track/5HKhwpvlIPHLex0gouOQtA) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [everything](https://open.spotify.com/album/7CAivrvoisdOu9nlQqDVQt) | 2:52 |
 
-Snapshot ID: `MTY0Mjc3NzMwOSwwMDAwMDAwMGViYWZhMDJiNmVhMTYxYzdmZjI1ZjliYjlmZDk0OTRh`
+Snapshot ID: `MTY0Mjc3NzMwOSwwMDAwMDAwMDRiMDBjNmQ4MzYwY2NjNDUzYmQwYmM1YWE0ZjUwYjFj`

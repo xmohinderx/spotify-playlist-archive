@@ -1,12 +1,12 @@
 {
   "description": "P\u00e5 med fj\u00e4derboan och de gyllene skorna. Nu ska vi dansa i neon!",
-  "num_followers": 23777,
+  "num_followers": 23785,
   "original_name": "Schlagerfest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU1MTM1ODY3OCwwMDAwMDAwMDUyNDgyYThiYTFmMjI2ZTU4ZGRmYTA2NWE3NTI4YTUz",
+  "snapshot_id": "MTU1MTM1ODY3OCwwMDAwMDAwMDU4NjdmYjUxZTc4MTk2Yzg2NjA5ZTkyOWJhZjQyNjA1",
   "tracks": [
     {
       "added_at": "2019-02-28 12:57:58",
@@ -283,22 +283,6 @@
     {
       "added_at": "2019-02-28 12:57:58",
       "album": {
-        "name": "Ashes To Ashes",
-        "url": "https://open.spotify.com/album/3PdI7t8cuGziQ76P2ooFpR"
-      },
-      "artists": [
-        {
-          "name": "Anna Bergendahl",
-          "url": "https://open.spotify.com/artist/2QLxag7UehMTlparZcbQn9"
-        }
-      ],
-      "duration_ms": 180883,
-      "name": "Ashes To Ashes",
-      "url": "https://open.spotify.com/track/1iqxk51n6yyc6OIXu7dX8o"
-    },
-    {
-      "added_at": "2019-02-28 12:57:58",
-      "album": {
         "name": "Alltid p\u00e5 v\u00e4g",
         "url": "https://open.spotify.com/album/3CDoUVCjpSa2N08MBL8Ovy"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 182773,
       "name": "H\u00e5ll om mig",
       "url": "https://open.spotify.com/track/6LjXwyNIh30VWsnvT8JHhz"
+    },
+    {
+      "added_at": "2019-02-28 12:57:58",
+      "album": {
+        "name": "Ashes To Ashes",
+        "url": "https://open.spotify.com/album/3PdI7t8cuGziQ76P2ooFpR"
+      },
+      "artists": [
+        {
+          "name": "Anna Bergendahl",
+          "url": "https://open.spotify.com/artist/2QLxag7UehMTlparZcbQn9"
+        }
+      ],
+      "duration_ms": 180883,
+      "name": "Ashes To Ashes",
+      "url": "https://open.spotify.com/track/1iqxk51n6yyc6OIXu7dX8o"
     },
     {
       "added_at": "2019-02-28 12:57:58",
@@ -831,22 +831,18 @@
     {
       "added_at": "2019-02-28 12:57:58",
       "album": {
-        "name": "Lasse Holm",
-        "url": "https://open.spotify.com/album/6YqYUREfAQkDJmn2BfaCrQ"
+        "name": "Never Let It Go",
+        "url": "https://open.spotify.com/album/7nbwgaAlzIqneeDFjoxxL4"
       },
       "artists": [
         {
-          "name": "Lasse Holm",
-          "url": "https://open.spotify.com/artist/4fYwnbPagtCH2o6prMmgoI"
-        },
-        {
-          "name": "Monica Th\u00f6rnell",
-          "url": "https://open.spotify.com/artist/2jC1JNttGelaaJn6QLyJYA"
+          "name": "Afro-Dite",
+          "url": "https://open.spotify.com/artist/0oO1vycfLbA7I18jfy2eWe"
         }
       ],
-      "duration_ms": 169783,
-      "name": "E' de' det h\u00e4r du kallar k\u00e4rlek",
-      "url": "https://open.spotify.com/track/5MBBQ7P9AozcQ8lF7So1B3"
+      "duration_ms": 182306,
+      "name": "Never Let It Go",
+      "url": "https://open.spotify.com/track/28ihA2Fp5zRmcmi8hpfWiC"
     }
   ],
   "unique_name": "Schlagerfest",

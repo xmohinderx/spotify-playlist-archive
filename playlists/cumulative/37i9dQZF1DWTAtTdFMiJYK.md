@@ -4,7 +4,7 @@
 
 > Most exciting artists from the Indian Indie scene\. Cover : Raman Negi
 
-177 songs - 10 hr 41 min - [published](https://open.spotify.com/playlist/6HbYGIijNLCCdW0az43i5B)
+178 songs - 10 hr 44 min - [published](https://open.spotify.com/playlist/6HbYGIijNLCCdW0az43i5B)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [Gaayab](https://open.spotify.com/track/6yxyxncMxTxyU05fD5lRMk) | [Raman Negi](https://open.spotify.com/artist/1ZsF8DeNQav5xvu4X5KsYB) | [Gaayab](https://open.spotify.com/album/3qGhJwL6Y2tY2t9lJNHiOS) | 4:22 | 2022-09-10 |  |
 | [Gehraiyaan](https://open.spotify.com/track/1h5bMRo0WZ6L6E2a9ndiQ1) | [Aryan Katoch](https://open.spotify.com/artist/4gAmleqQJI116NpfqkMxha) | [Gehraiyaan](https://open.spotify.com/album/0tQJ5GTvAMRX7vZ8umFUzO) | 3:38 | 2022-01-31 | 2022-02-05 |
 | [Go Grow](https://open.spotify.com/track/4XSTKp0ndMNj4RTvfOAlzW) | [Rachel Singh](https://open.spotify.com/artist/4yrsPV1KOPO7GTR1Dlds8V), [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg) | [Go Grow](https://open.spotify.com/album/2m0HEB5QkPWqeaf4V133JM) | 3:47 | 2022-01-10 |  |
-| [Grip](https://open.spotify.com/track/6T6I79tFf1Zc9h5Piy0gV9) | [OAFF](https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR), [Landslands](https://open.spotify.com/artist/4I4rUfCqitzhA0WpTmwZvf) | [Grip](https://open.spotify.com/album/1tM6K9limY633ujoAagEuf) | 3:32 | 2022-01-10 |  |
+| [Grip](https://open.spotify.com/track/6T6I79tFf1Zc9h5Piy0gV9) | [OAFF](https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR), [Landslands](https://open.spotify.com/artist/4I4rUfCqitzhA0WpTmwZvf) | [Grip](https://open.spotify.com/album/1tM6K9limY633ujoAagEuf) | 3:32 | 2022-01-10 | 2022-09-21 |
 | [Gul](https://open.spotify.com/track/0NLkVxf0PyxsXBG3EuZcJf) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Gul](https://open.spotify.com/album/0aD1s9SFgIIZG95AzVhLC7) | 3:37 | 2021-12-06 | 2022-04-06 |
 | [Guzarish](https://open.spotify.com/track/524ovLWFCWeMbMlMQWp5Zf) | [Priyansh Srivastava](https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU), [Garvit Soni](https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH) | [Guzarish](https://open.spotify.com/album/5KH94qpVVG6IEMrkJvJmSJ) | 4:18 | 2022-04-05 | 2022-08-24 |
 | [Hua Mera](https://open.spotify.com/track/52rCzPVc4qHUqAN7nfJOB5) | [Anusha Mani](https://open.spotify.com/artist/03yzClwzHK7M7wiQMQixry), [Sangeet Haldipur](https://open.spotify.com/artist/79jChyQpm3UY9JD5btkNcK) | [Hua Mera](https://open.spotify.com/album/3nGM067kh5hi5AYzJWgloe) | 3:53 | 2021-12-06 | 2022-07-09 |
@@ -83,6 +83,7 @@
 | [jazba](https://open.spotify.com/track/6oFj20X1bo2PwVfedRZs6G) | [NAALAYAK](https://open.spotify.com/artist/6BWd8VpOoODhMOPks4sI6R) | [Jazba](https://open.spotify.com/album/60HHi0QYQpi4SOvHFAu0aU) | 5:35 | 2022-01-10 |  |
 | [Jiya Kaanch Ka](https://open.spotify.com/track/2NgXNCccXyW9xIVfKVonl4) | [Aman Moroney](https://open.spotify.com/artist/2IEODkvsAXxCrYi308ictx), [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT) | [Jiya Kaanch Ka](https://open.spotify.com/album/1uOokbJIY02uOXNmMReuVF) | 2:40 | 2022-01-10 | 2022-09-10 |
 | [Jiyara](https://open.spotify.com/track/3wtUeVGw8hOlJCVRxtjtZY) | [Gautam Kale](https://open.spotify.com/artist/3u6Ygzg3VWXrHHIbgdp1CL) | [Jiyara](https://open.spotify.com/album/4jyfJKuTlSVfve70u1jUvv) | 2:36 | 2021-12-06 | 2022-08-23 |
+| [Just As Easily](https://open.spotify.com/track/7k695jTLLrMiNnFnyRWDCN) | [Frizzell D'souza](https://open.spotify.com/artist/17j8WfojaUlIDrnDG7IfIQ) | [Just As Easily](https://open.spotify.com/album/4z4anMfIasayTBmyVIGlqa) | 3:09 | 2022-09-20 |  |
 | [Kaagaz Ki Naav](https://open.spotify.com/track/0VsdGpccIWa7h8sYZmaO0G) | [Last Minute India](https://open.spotify.com/artist/6yi4BexeHDzQeuiDzXqTcg) | [Kaagaz Ki Naav](https://open.spotify.com/album/6T7enWmASSVnmlkK7UurGu) | 4:57 | 2021-12-06 | 2022-08-03 |
 | [Kaahe Ko Sataaye](https://open.spotify.com/track/5VvJxA5YDS3J88R6snUOX1) | [Aabhas \- Shreyas](https://open.spotify.com/artist/0igGknafipnY3uY0KKaBn4), [Aabhas Joshi](https://open.spotify.com/artist/59MBrXiDnBe2UHqpqUzuaI) | [Kaahe Ko Sataaye](https://open.spotify.com/album/2orsvLr1bGcUenmFBuaXM1) | 3:45 | 2021-12-06 | 2022-04-15 |
 | [Kaari](https://open.spotify.com/track/6J5ymVSQlrmZ2Y48GYLaoK) | [Adarsh Rao](https://open.spotify.com/artist/6RaFiPHsbMRHJ4u4UWf6II) | [Kaari](https://open.spotify.com/album/2rxawqueJ4wDhh0WDNSO8j) | 2:37 | 2021-12-06 |  |

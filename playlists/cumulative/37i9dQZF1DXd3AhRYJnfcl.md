@@ -4,7 +4,7 @@
 
 > أفضل الأغاني المصرية التي لن تتوقف عن الاستماع إليها 🔝 الغلاف: ويجز و آش
 
-90 songs - 5 hr 11 min - [published](https://open.spotify.com/playlist/1xdcB9YfQyjFUOOHCAvmJA)
+91 songs - 5 hr 14 min - [published](https://open.spotify.com/playlist/1xdcB9YfQyjFUOOHCAvmJA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [Shokran](https://open.spotify.com/track/3zpuelnjip23dk1hxTqklg) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Shokran](https://open.spotify.com/album/572v0Jez74h9cMKAYPCIug) | 3:28 | 2022-04-13 |  |
 | [Ta3ala Adalla3ak](https://open.spotify.com/track/3LXPZvEHf0vhgFKs4giHSS) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [Cigara](https://open.spotify.com/album/6tlo8DzuR11Z9g8nHP8vd3) | 3:31 | 2022-04-13 |  |
 | [Taalili](https://open.spotify.com/track/1Ghjyo13NTn6yDyQ86bLMV) | [Ragheb Alama](https://open.spotify.com/artist/6uOgBVYHvqTGAQ5iVHDVT7) | [Taalili](https://open.spotify.com/album/5PsBjIgUc9FnjdLbm1idet) | 3:43 | 2022-06-14 | 2022-08-04 |
-| [Tanteet](https://open.spotify.com/track/0DlEg3wy4iUcTU7lNUFFlg) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH) | [Tanteet](https://open.spotify.com/album/2CcLYDhrKezFBuekZilbwi) | 1:59 | 2022-06-28 |  |
+| [Tanteet](https://open.spotify.com/track/0DlEg3wy4iUcTU7lNUFFlg) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH) | [Tanteet](https://open.spotify.com/album/2CcLYDhrKezFBuekZilbwi) | 1:59 | 2022-06-28 | 2022-09-21 |
 | [Tegy Ntrahn](https://open.spotify.com/track/2NF0gMDLnJSaqIfj0SvrDi) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Tegy Ntrahn](https://open.spotify.com/album/45VciPIELkkQgWSkS2QLlq) | 4:00 | 2022-07-25 |  |
 | [Tegy Ntrahn](https://open.spotify.com/track/4CvAW2jw7bcfx40aF3YT39) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Tegy Ntrahn](https://open.spotify.com/album/1UH5PQeEnm7MFkSN3t71av) | 4:00 | 2022-04-13 | 2022-07-29 |
 | [Tigi \- تيجي](https://open.spotify.com/track/49QGBrI182c8yb2ZG3ipoB) | [Haifa Wehbe](https://open.spotify.com/artist/05ai8foZsZwk0cni0IOuNj) | [Tigi \(تيجي\)](https://open.spotify.com/album/6PiXm749gSZpCyzyQ6O1Yi) | 3:07 | 2022-07-19 |  |
@@ -98,5 +98,6 @@
 | [متغاظين](https://open.spotify.com/track/6uiTyyvUkV0NbQA11D7gT3) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH) | [متغاظين](https://open.spotify.com/album/0IuctadW5Mwa7RhSfioGb9) | 2:16 | 2022-08-25 |  |
 | [مسيطره](https://open.spotify.com/track/0ZjojzTQaoz1MZn0hGBaNP) | [Lamis Kan](https://open.spotify.com/artist/4jmo0EdvNDABmNDmPmKhMj) | [مسيطره](https://open.spotify.com/album/48KAUO2Q0VsyjXQvDOntn4) | 2:48 | 2022-07-25 | 2022-08-18 |
 | [مسيطره](https://open.spotify.com/track/4hFNqLwpBM1WoaxrgEForT) | [Lamis Kan](https://open.spotify.com/artist/4jmo0EdvNDABmNDmPmKhMj) | [مسيطره](https://open.spotify.com/album/5jHYpm290ktqzYSqOwlwLy) | 2:48 | 2022-04-13 | 2022-07-29 |
+| [نحنوح](https://open.spotify.com/track/1lcoflpxNSJR8U0gzVY6xq) | [Donia Samir Ghanem](https://open.spotify.com/artist/1ieloBuwzXdMn9VPOufDvB) | [نحنوح](https://open.spotify.com/album/7KNPArvrYE01FNciIiERE0) | 3:25 | 2022-09-20 |  |
 
 \*This playlist was first scraped on 2022-05-13. Prior content cannot be recovered.

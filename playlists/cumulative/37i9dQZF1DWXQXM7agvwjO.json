@@ -3926,6 +3926,24 @@
     },
     {
       "album": {
+        "name": "TEEN TROUBLES",
+        "url": "https://open.spotify.com/album/1KCSoihLiF0x66tJyQ6VbE"
+      },
+      "artists": [
+        {
+          "name": "The Black Skirts",
+          "url": "https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217512,
+      "name": "My Little Lambs",
+      "url": "https://open.spotify.com/track/5h1HkyDCvKdyJAA1GM2VH4"
+    },
+    {
+      "album": {
         "name": "My Little Lambs",
         "url": "https://open.spotify.com/album/3qSiB7QbxOnt7bx6ieXtm4"
       },
@@ -3937,7 +3955,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 217513,
       "name": "My Little Lambs",
       "url": "https://open.spotify.com/track/3mLf0rGbBQHpkK0Sm8IQR6"

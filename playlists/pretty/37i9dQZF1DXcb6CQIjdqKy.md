@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 
 > The best mix of today's Christian music, all genres, worldwide\.  Cover:  We The Kingdom
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,465,481 likes - 99 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,465,765 likes - 99 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

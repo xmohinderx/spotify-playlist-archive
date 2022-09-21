@@ -1,12 +1,12 @@
 {
   "description": "Un playlist que te llena de esperanza.  \u00a1Con fe!",
-  "num_followers": 196780,
+  "num_followers": 196865,
   "original_name": "Con Fe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNjIyNDIxOCwwMDAwMDAwMDZhMTQ5MzIwOWJkYmFjN2FjNDJjY2ViNGUxMDEzNmVh",
+  "snapshot_id": "MTYwNjIyNDIxOCwwMDAwMDAwMDMzNTI1NmJiM2QyYzIyMjNlMGI4YmQxYTFlZmIwZDEx",
   "tracks": [
     {
       "added_at": "2020-11-24 13:23:38",
@@ -267,18 +267,18 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Creo en Ti",
-        "url": "https://open.spotify.com/album/1TMLlJQHzj0J07QexSE72S"
+        "name": "Me Has Hecho Libre",
+        "url": "https://open.spotify.com/album/0dNBk8BUcnZoA0YouvHGRP"
       },
       "artists": [
         {
-          "name": "Julio Melgar",
-          "url": "https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2"
+          "name": "Esperanza de Vida",
+          "url": "https://open.spotify.com/artist/2JjoUSP8dUA7UhlWW59fK1"
         }
       ],
-      "duration_ms": 330973,
-      "name": "Soy Un Altar",
-      "url": "https://open.spotify.com/track/0b8Sxqx5Lt8mgU4xPsm7Hr"
+      "duration_ms": 380316,
+      "name": "Precioso Jes\u00fas",
+      "url": "https://open.spotify.com/track/7mEYivIHySFGJS8HySzcf2"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -331,18 +331,18 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Me Has Hecho Libre",
-        "url": "https://open.spotify.com/album/0dNBk8BUcnZoA0YouvHGRP"
+        "name": "Creo en Ti",
+        "url": "https://open.spotify.com/album/1TMLlJQHzj0J07QexSE72S"
       },
       "artists": [
         {
-          "name": "Esperanza de Vida",
-          "url": "https://open.spotify.com/artist/2JjoUSP8dUA7UhlWW59fK1"
+          "name": "Julio Melgar",
+          "url": "https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2"
         }
       ],
-      "duration_ms": 380316,
-      "name": "Precioso Jes\u00fas",
-      "url": "https://open.spotify.com/track/7mEYivIHySFGJS8HySzcf2"
+      "duration_ms": 330973,
+      "name": "Soy Un Altar",
+      "url": "https://open.spotify.com/track/0b8Sxqx5Lt8mgU4xPsm7Hr"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Amor Favor Gracia",
-        "url": "https://open.spotify.com/album/0rBvLEdEON5eyTJbcVkxZS"
-      },
-      "artists": [
-        {
-          "name": "Lilly Goodman",
-          "url": "https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS"
-        }
-      ],
-      "duration_ms": 258813,
-      "name": "Nadie Me Dijo",
-      "url": "https://open.spotify.com/track/5xVUzEyx6UK23sDpYVhjOf"
-    },
-    {
-      "added_at": "2020-11-24 13:23:38",
-      "album": {
         "name": "Algo Grande Viene",
         "url": "https://open.spotify.com/album/72sKgqdTMvoBgWyVo6ZzXX"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 252640,
       "name": "Tan Solo Cree",
       "url": "https://open.spotify.com/track/52UBY1QBlCTRAyWa6GO0mZ"
+    },
+    {
+      "added_at": "2020-11-24 13:23:38",
+      "album": {
+        "name": "Amor Favor Gracia",
+        "url": "https://open.spotify.com/album/0rBvLEdEON5eyTJbcVkxZS"
+      },
+      "artists": [
+        {
+          "name": "Lilly Goodman",
+          "url": "https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS"
+        }
+      ],
+      "duration_ms": 258813,
+      "name": "Nadie Me Dijo",
+      "url": "https://open.spotify.com/track/5xVUzEyx6UK23sDpYVhjOf"
     },
     {
       "added_at": "2020-11-24 13:23:38",

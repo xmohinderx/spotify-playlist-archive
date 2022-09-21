@@ -1,12 +1,12 @@
 {
   "description": "De aqu\u00ed y de all\u00e1. A mixture of sounds and artists. Cover: Cuco",
-  "num_followers": 749114,
+  "num_followers": 749163,
   "original_name": "Mixto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjQ4MjQ0MywwMDAwMDAwMGIyZTQyM2FmZmI2ODMzMzJhNDJjNjhhNzYzYTU5YTVj",
+  "snapshot_id": "MTY2MjQ4MjQ0MywwMDAwMDAwMGM2NTI5OTJiN2EyZTVhODZjOWU5NWU2MmE3YTYzYzJi",
   "tracks": [
     {
       "added_at": "2022-09-06 16:40:42",
@@ -999,22 +999,6 @@
     {
       "added_at": "2022-09-06 16:40:42",
       "album": {
-        "name": "Lost in Parad\u00efse, Pt. 2",
-        "url": "https://open.spotify.com/album/3SYtJkujnJeTUXFvkeSDU7"
-      },
-      "artists": [
-        {
-          "name": "Na\u00efka",
-          "url": "https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT"
-        }
-      ],
-      "duration_ms": 203023,
-      "name": "For Gerard",
-      "url": "https://open.spotify.com/track/5087eyLa8DQ5fMHbNYzJsA"
-    },
-    {
-      "added_at": "2022-09-06 16:40:42",
-      "album": {
         "name": "Si nos vamos",
         "url": "https://open.spotify.com/album/4KtiEBfQhipRwX7jzaSdLJ"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 166750,
       "name": "Si nos vamos",
       "url": "https://open.spotify.com/track/1PssPMY2c6vBIdfipUMR3X"
+    },
+    {
+      "added_at": "2022-09-06 16:40:42",
+      "album": {
+        "name": "Lost in Parad\u00efse, Pt. 2",
+        "url": "https://open.spotify.com/album/3SYtJkujnJeTUXFvkeSDU7"
+      },
+      "artists": [
+        {
+          "name": "Na\u00efka",
+          "url": "https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT"
+        }
+      ],
+      "duration_ms": 203023,
+      "name": "For Gerard",
+      "url": "https://open.spotify.com/track/5087eyLa8DQ5fMHbNYzJsA"
     },
     {
       "added_at": "2022-09-06 16:40:42",
@@ -1339,26 +1339,6 @@
     {
       "added_at": "2022-09-06 16:40:42",
       "album": {
-        "name": "TEK",
-        "url": "https://open.spotify.com/album/56q5LmxtmHhdiPQ4w4EXJA"
-      },
-      "artists": [
-        {
-          "name": "DEVA",
-          "url": "https://open.spotify.com/artist/0EdwY8DfBqB83R45WnHJDg"
-        },
-        {
-          "name": "KICKBOMBO",
-          "url": "https://open.spotify.com/artist/7A2htSu45kogVfNBMD4Xgh"
-        }
-      ],
-      "duration_ms": 163809,
-      "name": "TEK",
-      "url": "https://open.spotify.com/track/1OmTOjoKCxury3uR767fQO"
-    },
-    {
-      "added_at": "2022-09-06 16:40:42",
-      "album": {
         "name": "22/2/22 (feat. Paula Cendejas)",
         "url": "https://open.spotify.com/album/2nNJ9wdWz3EuDvHwSgWjBn"
       },
@@ -1375,6 +1355,26 @@
       "duration_ms": 168260,
       "name": "22/2/22 (feat. Paula Cendejas)",
       "url": "https://open.spotify.com/track/6VH9vAqhTig0SaS5mI5yw8"
+    },
+    {
+      "added_at": "2022-09-06 16:40:42",
+      "album": {
+        "name": "TEK",
+        "url": "https://open.spotify.com/album/56q5LmxtmHhdiPQ4w4EXJA"
+      },
+      "artists": [
+        {
+          "name": "DEVA",
+          "url": "https://open.spotify.com/artist/0EdwY8DfBqB83R45WnHJDg"
+        },
+        {
+          "name": "KICKBOMBO",
+          "url": "https://open.spotify.com/artist/7A2htSu45kogVfNBMD4Xgh"
+        }
+      ],
+      "duration_ms": 163809,
+      "name": "TEK",
+      "url": "https://open.spotify.com/track/1OmTOjoKCxury3uR767fQO"
     },
     {
       "added_at": "2022-09-06 16:40:42",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2022-09-06 16:40:42",
       "album": {
-        "name": "Nubes",
-        "url": "https://open.spotify.com/album/1k9UpjPJHSvjCPIoeGRPgR"
-      },
-      "artists": [
-        {
-          "name": "Nicole Horts",
-          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
-        }
-      ],
-      "duration_ms": 174053,
-      "name": "Nubes",
-      "url": "https://open.spotify.com/track/0btkyN6uJvHFdRxlVrUaJv"
-    },
-    {
-      "added_at": "2022-09-06 16:40:42",
-      "album": {
         "name": "Love Letters From Houston",
         "url": "https://open.spotify.com/album/1i0V76TeMcJdy8G5jcMjkI"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 172092,
       "name": "Someone Like You",
       "url": "https://open.spotify.com/track/4zWRy2rJL6sdy7k8XBq7lb"
+    },
+    {
+      "added_at": "2022-09-06 16:40:42",
+      "album": {
+        "name": "Nubes",
+        "url": "https://open.spotify.com/album/1k9UpjPJHSvjCPIoeGRPgR"
+      },
+      "artists": [
+        {
+          "name": "Nicole Horts",
+          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
+        }
+      ],
+      "duration_ms": 174053,
+      "name": "Nubes",
+      "url": "https://open.spotify.com/track/0btkyN6uJvHFdRxlVrUaJv"
     },
     {
       "added_at": "2022-09-06 16:40:42",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2022-09-06 16:40:42",
       "album": {
-        "name": "Se Siente Diferente",
-        "url": "https://open.spotify.com/album/06A2wi6Je4oNabYpaw5h1y"
-      },
-      "artists": [
-        {
-          "name": "Martox",
-          "url": "https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r"
-        }
-      ],
-      "duration_ms": 212038,
-      "name": "No Es Normal",
-      "url": "https://open.spotify.com/track/6rJ7uCWB1yivhVmqFNDPfM"
-    },
-    {
-      "added_at": "2022-09-06 16:40:42",
-      "album": {
         "name": "Direction",
         "url": "https://open.spotify.com/album/07oAGIjAdGLI4RAFgPZ3UM"
       },
@@ -1751,6 +1735,22 @@
       "duration_ms": 225454,
       "name": "Direction",
       "url": "https://open.spotify.com/track/3K2PkX4J57HRMdjchzhV2x"
+    },
+    {
+      "added_at": "2022-09-06 16:40:42",
+      "album": {
+        "name": "Se Siente Diferente",
+        "url": "https://open.spotify.com/album/06A2wi6Je4oNabYpaw5h1y"
+      },
+      "artists": [
+        {
+          "name": "Martox",
+          "url": "https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r"
+        }
+      ],
+      "duration_ms": 212038,
+      "name": "No Es Normal",
+      "url": "https://open.spotify.com/track/6rJ7uCWB1yivhVmqFNDPfM"
     },
     {
       "added_at": "2022-09-06 16:40:42",

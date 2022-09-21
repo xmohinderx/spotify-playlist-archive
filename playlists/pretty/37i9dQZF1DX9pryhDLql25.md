@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pryhDLql25.md) - [plain]
 
 > Gather your friends for the cherished ritual that is brunch\. If not for the pomo irony, then for the endless hibiscus lavender mimosas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,366 likes - 75 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,373 likes - 75 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pryhDLql25.md) - [plain]
 | 47 | [Easy Rider](https://open.spotify.com/track/16bjzffqGoXKFQ5DYJlsxU) | [Eddie Berman](https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql) | [Before the Bridge](https://open.spotify.com/album/3xY0Wdf37DDDWjyi89g9pj) | 3:49 |
 | 48 | [Call Me in the Afternoon](https://open.spotify.com/track/3jJuBdO5rrtDufNAf76V1x) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Spotify Sessions](https://open.spotify.com/album/7M2JPV9Q0OzWgI7v46Q9Dg) | 3:13 |
 | 49 | [There Will Be Time](https://open.spotify.com/track/4YUo0cp0yf1o8im9jPq0Ep) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2), [Baaba Maal](https://open.spotify.com/artist/49z6oAiD2RpyUf5yLJs7Nf) | [There Will Be Time](https://open.spotify.com/album/2AWjKWHm04rj0awEnKe8cJ) | 4:26 |
-| 50 | [Things Happen](https://open.spotify.com/track/2SYvX2G6D5SD6BpijIOBpG) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [All Your Favorite Bands](https://open.spotify.com/album/1MuenT1cvvI0YCs3hsJDBE) | 4:03 |
-| 51 | [Angela \(Single Version\)](https://open.spotify.com/track/5kGBSOrKYmhRfdPBw4xD8D) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Angela \(Single Version\)](https://open.spotify.com/album/5WQjTqCdzCAFQFVsMoUXm0) | 2:58 |
+| 50 | [Angela \(Single Version\)](https://open.spotify.com/track/5kGBSOrKYmhRfdPBw4xD8D) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Angela \(Single Version\)](https://open.spotify.com/album/5WQjTqCdzCAFQFVsMoUXm0) | 2:58 |
+| 51 | [Things Happen](https://open.spotify.com/track/2SYvX2G6D5SD6BpijIOBpG) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [All Your Favorite Bands](https://open.spotify.com/album/1MuenT1cvvI0YCs3hsJDBE) | 4:03 |
 | 52 | [Morning Light](https://open.spotify.com/track/65LAG4XH7Oq0mZhFdPYqO4) | [Wilderado](https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI) | [Latigo EP](https://open.spotify.com/album/62C9L1UCLOvvlu7Jb2FRRE) | 3:40 |
 | 53 | [Bad Things](https://open.spotify.com/track/6FR7CxgunBBN1jYJxsX8uZ) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [Ashkelon](https://open.spotify.com/album/2JZRyLhDpddo6XUwtb2ZJA) | 5:13 |
 | 54 | [The Rains](https://open.spotify.com/track/2I5mhy8zeIIMWgOFny4Fle) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [The Wilds](https://open.spotify.com/album/6mG8sVZlEsKwNZeSq8sMpA) | 3:31 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pryhDLql25.md) - [plain]
 | 74 | [Rye Whiskey](https://open.spotify.com/track/0gVTOC191ScBI2Frj9NQQX) | [Punch Brothers](https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4) | [Antifogmatic](https://open.spotify.com/album/2C37EWVmuBXjXqxhGwJM5c) | 3:29 |
 | 75 | [Hands on You](https://open.spotify.com/track/6SEDE7wvAnAtfdhu1zbUzi) | [Ashley Monroe](https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP) | [Sparrow](https://open.spotify.com/album/0Frgzm1xuM3cy8VxuTOkNu) | 3:52 |
 
-Snapshot ID: `MTU1OTkxNjc3MSwwMDAwMDAwMGVlNjFiM2E2ODE5NjI0OTkxZTA4YzVhYzFmNDdiNmMz`
+Snapshot ID: `MTU1OTkxNjc3MSwwMDAwMDAwMDc0NjkyOWI5ZGRhNGIyODZlNDE1NTNiMmRmMjI5YzUw`

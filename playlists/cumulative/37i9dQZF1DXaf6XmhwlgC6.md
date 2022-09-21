@@ -4,7 +4,7 @@
 
 > Music from the ether to focus to.
 
-106 songs - 6 hr 12 min - [published](https://open.spotify.com/playlist/4H4DMjqQpBwmgjBZppzOqM)
+107 songs - 6 hr 16 min - [published](https://open.spotify.com/playlist/4H4DMjqQpBwmgjBZppzOqM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Up to Pizmo](https://open.spotify.com/track/7L14iI3eSCPPn239JIOyuC) | [Labradford](https://open.spotify.com/artist/6vxqO8B12AXOoETpxVSgH0) | [Fixed: : Context](https://open.spotify.com/album/2L7Xv6PUY3LZFjvCYJjQyd) | 6:20 | 2022-07-15 |  |
 | [Up to Pizmo](https://open.spotify.com/track/2v2fB67bubipR2zP5zOO20) | [Labradford](https://open.spotify.com/artist/6vxqO8B12AXOoETpxVSgH0) | [Fixed:: Content](https://open.spotify.com/album/7h1WlPlMEcgicPHkkUzmkV) | 6:21 | 2022-03-30 | 2022-07-29 |
 | [Variation](https://open.spotify.com/track/26ZFbwxjPlE04hOorbUWWk) | [Amplified Pieces](https://open.spotify.com/artist/3SkCH9mqHBodnNbNCIZKKI) | [Variation](https://open.spotify.com/album/4H5WDOqJRlOEwE05jFsxZs) | 3:31 | 2022-03-30 |  |
+| [Vast Ocean View](https://open.spotify.com/track/5fIDb2LhOLbGAHEwdlVKLo) | [Geotic](https://open.spotify.com/artist/30wki8WYREGLQPm623vzkZ) | [Morning Shore \(Eon Isle\)](https://open.spotify.com/album/6PFxPZcgZfVXzqAaoPUHef) | 3:26 | 2022-09-20 |  |
 | [Vi Går Mot Höst](https://open.spotify.com/track/5n20UxoXkXC2lkTTay0Y75) | [Stillheten](https://open.spotify.com/artist/2G0WSKy6gi5KNPbVVpze0W) | [Vi Går Mot Höst](https://open.spotify.com/album/7qqwp5hM1P5RrZUt3gYIIb) | 1:58 | 2022-08-15 |  |
 | [Water Colors](https://open.spotify.com/track/7rpGOF9MwCP2Oaz9yDO452) | [Star Slide](https://open.spotify.com/artist/4tWKagNv3bHsJoLYD7vO1m) | [Water Colors](https://open.spotify.com/album/272XJrGegiXcXC5rA3yzek) | 3:02 | 2022-03-30 |  |
 | [Western Wishes Intro](https://open.spotify.com/track/476KeGkyl75OZKcHqRZPvf) | [Boxhead Ensemble](https://open.spotify.com/artist/516tPEDcawc8UNGdFZmWZn) | [The Unseen Hand: Music for Documentary Film](https://open.spotify.com/album/3KHpM4lpSW949zzlf9TjPM) | 2:49 | 2022-03-30 | 2022-08-24 |

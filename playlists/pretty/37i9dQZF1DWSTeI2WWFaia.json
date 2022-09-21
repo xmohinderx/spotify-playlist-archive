@@ -1,12 +1,12 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Royce Da 5'9\"",
-  "num_followers": 629737,
+  "num_followers": 629974,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMGM5YjJhMzdiNDRhMWQ4NDAxNzNjMjE5MGU5ZDdiODA4",
+  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMDAzNTA0NjVjZjI3NDBjZTMwMDMyYTlkZWY0MTI5YjA2",
   "tracks": [
     {
       "added_at": "2022-09-16 04:00:00",
@@ -727,6 +727,26 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
+        "name": "Checkmate",
+        "url": "https://open.spotify.com/album/092m8BBfQD4WLKfZXkD2PI"
+      },
+      "artists": [
+        {
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+        },
+        {
+          "name": "Hit-Boy",
+          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
+        }
+      ],
+      "duration_ms": 170373,
+      "name": "Checkmate",
+      "url": "https://open.spotify.com/track/3KYTIo9pu84SbLL53iGew4"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
         "name": "Neck & Wrist",
         "url": "https://open.spotify.com/album/0MomByEXmXNIZEuN2cJkw3"
       },
@@ -767,26 +787,6 @@
       "duration_ms": 161963,
       "name": "THROUGH 2 U",
       "url": "https://open.spotify.com/track/5FLpZcyK0v3SFkIZZ8YPQP"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "Checkmate",
-        "url": "https://open.spotify.com/album/092m8BBfQD4WLKfZXkD2PI"
-      },
-      "artists": [
-        {
-          "name": "Cordae",
-          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
-        },
-        {
-          "name": "Hit-Boy",
-          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
-        }
-      ],
-      "duration_ms": 170373,
-      "name": "Checkmate",
-      "url": "https://open.spotify.com/track/3KYTIo9pu84SbLL53iGew4"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -859,6 +859,22 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
+        "name": "It's Almost Dry",
+        "url": "https://open.spotify.com/album/6o38CdD7CUlZDCFhjZYLDH"
+      },
+      "artists": [
+        {
+          "name": "Pusha T",
+          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+        }
+      ],
+      "duration_ms": 178620,
+      "name": "Just So You Remember",
+      "url": "https://open.spotify.com/track/6XC3zX8dEiFTpd2hPpOA9y"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
         "name": "Mannequin",
         "url": "https://open.spotify.com/album/2p6jl1M9uh40sIv1KA5aKW"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 188386,
       "name": "Where I Belong",
       "url": "https://open.spotify.com/track/1PwY8OpvFFt7CmnpnPAw7O"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "It's Almost Dry",
-        "url": "https://open.spotify.com/album/6o38CdD7CUlZDCFhjZYLDH"
-      },
-      "artists": [
-        {
-          "name": "Pusha T",
-          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
-        }
-      ],
-      "duration_ms": 178620,
-      "name": "Just So You Remember",
-      "url": "https://open.spotify.com/track/6XC3zX8dEiFTpd2hPpOA9y"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -943,6 +943,30 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
+        "name": "Comfortable",
+        "url": "https://open.spotify.com/album/0Pylmck9B199lPMHwtdu8O"
+      },
+      "artists": [
+        {
+          "name": "Chris Brickley",
+          "url": "https://open.spotify.com/artist/64FvfEFRBdQlMyy50zZX62"
+        },
+        {
+          "name": "Dave East",
+          "url": "https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5"
+        },
+        {
+          "name": "Jadakiss",
+          "url": "https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi"
+        }
+      ],
+      "duration_ms": 216267,
+      "name": "Comfortable",
+      "url": "https://open.spotify.com/track/10zQ7RusGiAimQv92m9wlj"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
         "name": "Cocodrillo Turbo",
         "url": "https://open.spotify.com/album/2rmPnKM3T64J7Xz5TEyR0c"
       },
@@ -955,38 +979,6 @@
       "duration_ms": 175306,
       "name": "Jaguar",
       "url": "https://open.spotify.com/track/2CjNQ2T7fSfp45CWb3dh85"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "Times Is Rough",
-        "url": "https://open.spotify.com/album/0p4zzRMfASMefel2C3BM92"
-      },
-      "artists": [
-        {
-          "name": "Black Soprano Family",
-          "url": "https://open.spotify.com/artist/3s7WzrEs4FkNObqj4WyfQm"
-        },
-        {
-          "name": "Benny The Butcher",
-          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
-        },
-        {
-          "name": "DJ Premier",
-          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
-        },
-        {
-          "name": "Heem B$F",
-          "url": "https://open.spotify.com/artist/6VG5Dwz8DbqnwWAyaJTc2D"
-        },
-        {
-          "name": "Rick Hyde",
-          "url": "https://open.spotify.com/artist/5bgr1sPXFeiNuS4vARMZp1"
-        }
-      ],
-      "duration_ms": 201128,
-      "name": "Times Is Rough",
-      "url": "https://open.spotify.com/track/1EzmTNUSKb0J5eXGgrP6wy"
     },
     {
       "added_at": "2022-09-16 04:00:00",

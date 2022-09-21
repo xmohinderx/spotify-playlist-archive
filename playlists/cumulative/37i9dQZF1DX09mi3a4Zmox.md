@@ -4,7 +4,7 @@
 
 > Música para enamorarse.
 
-160 songs - 10 hr 17 min - [published](https://open.spotify.com/playlist/4hPTfvpIVMop23bArXlzb6)
+161 songs - 10 hr 20 min - [published](https://open.spotify.com/playlist/4hPTfvpIVMop23bArXlzb6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,13 +69,14 @@
 | [Hasta Que Me Olvides](https://open.spotify.com/track/6vPAmoERUMRoTZaCCSWQ12) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Aries](https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC) | 4:41 | 2021-12-06 |  |
 | [Hey](https://open.spotify.com/track/5BtNKZScq7gRDbcJ2FhIQb) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [HEY!](https://open.spotify.com/album/0UWylhMlO3b9AgGS7PR8qU) | 5:00 | 2021-12-06 | 2022-07-28 |
 | [Hey \- Spanish](https://open.spotify.com/track/3X8buu765D59qlQ6z78I8A) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [Begin the Beguine](https://open.spotify.com/album/5siSTOhozc4kGQxQgbFhvS) | 5:00 | 2022-02-01 |  |
+| [Hilo Rojo](https://open.spotify.com/track/3XMJLE4cS4ug7i4tnz09dP) | [Río Roma](https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt) | [Rojo](https://open.spotify.com/album/3n0zkanqLGhc1R0O7Ddl1G) | 3:42 | 2022-09-06 |  |
 | [Hilo Rojo](https://open.spotify.com/track/5c17sD5ibjougPh0bNnBTj) | [Río Roma](https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt) | [Hilo Rojo](https://open.spotify.com/album/1LozXeHCsZN3rseluCVGfu) | 3:42 | 2021-12-06 | 2022-07-29 |
 | [Imagíname Sin Ti](https://open.spotify.com/track/6on7Jc476Z1uX3P0URYB0j) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Las Numero 1 Del Amor Pop](https://open.spotify.com/album/5RSXQ3HcVjDUIc9GBWYxX2) | 4:07 | 2021-12-06 | 2022-07-29 |
 | [Inspiración](https://open.spotify.com/track/21jUkta3iSBse5MM3oAJY4) | [Benny](https://open.spotify.com/artist/3YHFRVdfHlJ98iAc50PIYk) | [Ximena Sarinana & Benny / Frente a Frente](https://open.spotify.com/album/5512UYNKDacrOkqic8eRPv) | 3:01 | 2022-02-01 | 2022-07-23 |
 | [La Correcta](https://open.spotify.com/track/1ISamB2lPDAeKb4Js2hLgq) | [Nabález](https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF), [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [La Correcta](https://open.spotify.com/album/0lVFRNJhdAgvHzkGkdX2CD) | 3:39 | 2022-02-01 |  |
 | [La Cosa Mas Bella](https://open.spotify.com/track/1EZypwk0xcj64ZLAglhLs2) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Donde Hay Música \(Spanish Version\)](https://open.spotify.com/album/49oNMRzQcMBCqiz03JOQqq) | 4:25 | 2021-12-06 |  |
 | [La fuerza del corazón](https://open.spotify.com/track/5c1w6xM8pFvXhMXQVUY42Q) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Alejandro Sanz 3](https://open.spotify.com/album/6iQUPW8yGLQdbf3JXmNA8N) | 5:07 | 2021-12-06 |  |
-| [La Gata Bajo la Lluvia](https://open.spotify.com/track/2kfSFdq2h0xLXq01em1zc7) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Sus 16 Grandes Exitos](https://open.spotify.com/album/1QXxmsxolhkqiFtI1mpX4i) | 3:39 | 2022-02-01 |  |
+| [La Gata Bajo la Lluvia](https://open.spotify.com/track/2kfSFdq2h0xLXq01em1zc7) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Sus 16 Grandes Exitos](https://open.spotify.com/album/1QXxmsxolhkqiFtI1mpX4i) | 3:39 | 2022-02-01 | 2022-09-21 |
 | [La Incondicional](https://open.spotify.com/track/6F9yAYUaNbUhdlQyt5uZ3b) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Busca Una Mujer](https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo) | 4:17 | 2021-12-06 |  |
 | [La Mitad](https://open.spotify.com/track/63Zaf8Rci6eOUPqDQ4fUFx) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Por Primera Vez](https://open.spotify.com/album/6xS6mQz1fQZ6eZE654J15I) | 2:57 | 2021-12-06 |  |
 | [La Nave del Olvido](https://open.spotify.com/track/2pOyQcM91HM3tZEiwZCraG) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [La Nave del Olvido](https://open.spotify.com/album/1BDHXHGmDMUVEWeqZlBLfQ) | 3:35 | 2022-02-01 |  |

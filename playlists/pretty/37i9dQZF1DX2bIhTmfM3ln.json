@@ -1,12 +1,12 @@
 {
   "description": "West African love stories wrapped up in song",
-  "num_followers": 1907,
+  "num_followers": 1918,
   "original_name": "Lovin' Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzI4MjgwMCwwMDAwMDAwMDg1OWEwZjQyZWNhMTA1ZTdmYjZhM2ZmYzRhMWI2YWEw",
+  "snapshot_id": "MTY2MzI4MjgwMCwwMDAwMDAwMGYyODM2YzA0MjAyOThlNjVmZTY1Y2JhNzQxMWQ3MDYx",
   "tracks": [
     {
       "added_at": "2022-08-25 23:00:00",
@@ -373,20 +373,24 @@
       "url": "https://open.spotify.com/track/6QI1X3HslfwOzp1ccx7x4k"
     },
     {
-      "added_at": "2022-06-16 23:00:00",
+      "added_at": "2022-02-11 10:48:58",
       "album": {
-        "name": "M\u00e9chante",
-        "url": "https://open.spotify.com/album/1k6MS0e5EMEkCDZ88fiLQ5"
+        "name": "Love Don't Cost A Dime (Re-Up)",
+        "url": "https://open.spotify.com/album/01N6IpG2OxaznUK60C81hT"
       },
       "artists": [
         {
-          "name": "Aya Nakamura",
-          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
         }
       ],
-      "duration_ms": 171493,
-      "name": "M\u00e9chante",
-      "url": "https://open.spotify.com/track/5k5duWxo5HqhetBe6ucgZJ"
+      "duration_ms": 147600,
+      "name": "Love Don't Cost A Dime (Re-Up)",
+      "url": "https://open.spotify.com/track/0hW02S9ACVYANz1ica10jH"
     },
     {
       "added_at": "2022-09-15 23:00:00",
@@ -409,24 +413,20 @@
       "url": "https://open.spotify.com/track/6rOY9kHJxwJCNMqsqd2LUO"
     },
     {
-      "added_at": "2022-02-11 10:48:58",
+      "added_at": "2022-06-16 23:00:00",
       "album": {
-        "name": "Love Don't Cost A Dime (Re-Up)",
-        "url": "https://open.spotify.com/album/01N6IpG2OxaznUK60C81hT"
+        "name": "M\u00e9chante",
+        "url": "https://open.spotify.com/album/1k6MS0e5EMEkCDZ88fiLQ5"
       },
       "artists": [
         {
-          "name": "Magixx",
-          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
         }
       ],
-      "duration_ms": 147600,
-      "name": "Love Don't Cost A Dime (Re-Up)",
-      "url": "https://open.spotify.com/track/0hW02S9ACVYANz1ica10jH"
+      "duration_ms": 171493,
+      "name": "M\u00e9chante",
+      "url": "https://open.spotify.com/track/5k5duWxo5HqhetBe6ucgZJ"
     },
     {
       "added_at": "2022-07-07 23:00:00",
@@ -443,38 +443,6 @@
       "duration_ms": 186000,
       "name": "Ijo (Laba Laba)",
       "url": "https://open.spotify.com/track/7tZMF9Hn5uGsfC7zGXbSKM"
-    },
-    {
-      "added_at": "2022-02-11 10:48:58",
-      "album": {
-        "name": "Rave & Roses",
-        "url": "https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 204755,
-      "name": "Soundgasm",
-      "url": "https://open.spotify.com/track/2psl5iNJCrmmm2XtS7LZqb"
-    },
-    {
-      "added_at": "2022-03-18 00:00:00",
-      "album": {
-        "name": "Dada",
-        "url": "https://open.spotify.com/album/0ogWb5mN0ZG6U1aMX7r4ai"
-      },
-      "artists": [
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        }
-      ],
-      "duration_ms": 161538,
-      "name": "Dada",
-      "url": "https://open.spotify.com/track/6SLhDU3r8FLmESRyWZypjT"
     },
     {
       "added_at": "2022-07-13 06:25:58",
@@ -495,6 +463,38 @@
       "duration_ms": 148000,
       "name": "Soweto",
       "url": "https://open.spotify.com/track/6RbOyNeajWax51NtpO6WT8"
+    },
+    {
+      "added_at": "2022-03-18 00:00:00",
+      "album": {
+        "name": "Dada",
+        "url": "https://open.spotify.com/album/0ogWb5mN0ZG6U1aMX7r4ai"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "duration_ms": 161538,
+      "name": "Dada",
+      "url": "https://open.spotify.com/track/6SLhDU3r8FLmESRyWZypjT"
+    },
+    {
+      "added_at": "2022-02-11 10:48:58",
+      "album": {
+        "name": "Rave & Roses",
+        "url": "https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 204755,
+      "name": "Soundgasm",
+      "url": "https://open.spotify.com/track/2psl5iNJCrmmm2XtS7LZqb"
     },
     {
       "added_at": "2022-02-11 10:48:58",
@@ -717,26 +717,6 @@
       "url": "https://open.spotify.com/track/24ULbF2UnOeMbkmkGriTBc"
     },
     {
-      "added_at": "2022-08-18 23:00:00",
-      "album": {
-        "name": "The Guy",
-        "url": "https://open.spotify.com/album/29rxfdTVf1LiDLwAF1qW8u"
-      },
-      "artists": [
-        {
-          "name": "M.I. Abaga",
-          "url": "https://open.spotify.com/artist/0obuUG86gXYcMtRMNKaYKL"
-        },
-        {
-          "name": "Wande Coal",
-          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
-        }
-      ],
-      "duration_ms": 176842,
-      "name": "The Love Song (feat. Wande Coal)",
-      "url": "https://open.spotify.com/track/1Dv2XVRbsgjdvGVqFSVYUE"
-    },
-    {
       "added_at": "2022-08-12 05:28:23",
       "album": {
         "name": "Jaiye Foreign",
@@ -783,6 +763,26 @@
       "duration_ms": 213599,
       "name": "PAMI (feat. Wizkid, Adekunle Gold & Omah Lay)",
       "url": "https://open.spotify.com/track/6iC4xfqow6iAsRhPh5IrWz"
+    },
+    {
+      "added_at": "2022-08-18 23:00:00",
+      "album": {
+        "name": "The Guy",
+        "url": "https://open.spotify.com/album/29rxfdTVf1LiDLwAF1qW8u"
+      },
+      "artists": [
+        {
+          "name": "M.I. Abaga",
+          "url": "https://open.spotify.com/artist/0obuUG86gXYcMtRMNKaYKL"
+        },
+        {
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+        }
+      ],
+      "duration_ms": 176842,
+      "name": "The Love Song (feat. Wande Coal)",
+      "url": "https://open.spotify.com/track/1Dv2XVRbsgjdvGVqFSVYUE"
     },
     {
       "added_at": "2022-02-24 23:01:00",
@@ -865,30 +865,6 @@
       "url": "https://open.spotify.com/track/1s2FsIDYlX6nhQ6UXF4V2w"
     },
     {
-      "added_at": "2022-07-28 23:00:00",
-      "album": {
-        "name": "Bad Girl (feat. Wande Coal & Victony)",
-        "url": "https://open.spotify.com/album/0dqjwh8PHITjQOyJX5zTJq"
-      },
-      "artists": [
-        {
-          "name": "DJ Tunez",
-          "url": "https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a"
-        },
-        {
-          "name": "Wande Coal",
-          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 204232,
-      "name": "Bad Girl (feat. Wande Coal & Victony)",
-      "url": "https://open.spotify.com/track/2eVbbAnigX4QdvpceP0VU6"
-    },
-    {
       "added_at": "2022-08-22 18:00:00",
       "album": {
         "name": "In My Mind - A COLORS SHOW",
@@ -923,6 +899,30 @@
       "duration_ms": 218130,
       "name": "Somebody\u2019s Son (Ft Brandy)",
       "url": "https://open.spotify.com/track/3Z9B9GQ2fFx4IRCG8bbWys"
+    },
+    {
+      "added_at": "2022-07-28 23:00:00",
+      "album": {
+        "name": "Bad Girl (feat. Wande Coal & Victony)",
+        "url": "https://open.spotify.com/album/0dqjwh8PHITjQOyJX5zTJq"
+      },
+      "artists": [
+        {
+          "name": "DJ Tunez",
+          "url": "https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a"
+        },
+        {
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 204232,
+      "name": "Bad Girl (feat. Wande Coal & Victony)",
+      "url": "https://open.spotify.com/track/2eVbbAnigX4QdvpceP0VU6"
     },
     {
       "added_at": "2022-09-01 23:00:00",
@@ -1409,6 +1409,22 @@
       "url": "https://open.spotify.com/track/06TDTjD7efqsLwhXKv0bci"
     },
     {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "Bayanni",
+        "url": "https://open.spotify.com/album/0XIgw74GKfTD6MCOHzhovL"
+      },
+      "artists": [
+        {
+          "name": "Bayanni",
+          "url": "https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG"
+        }
+      ],
+      "duration_ms": 193630,
+      "name": "Body",
+      "url": "https://open.spotify.com/track/27YwMCIG7Rx9czTR625Wfz"
+    },
+    {
       "added_at": "2022-07-14 23:00:00",
       "album": {
         "name": "Hard to Find",
@@ -1427,22 +1443,6 @@
       "duration_ms": 188937,
       "name": "Hard to Find",
       "url": "https://open.spotify.com/track/2DEfBwqL5U7OP3UFKQJ0cq"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
-        "name": "Bayanni",
-        "url": "https://open.spotify.com/album/0XIgw74GKfTD6MCOHzhovL"
-      },
-      "artists": [
-        {
-          "name": "Bayanni",
-          "url": "https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG"
-        }
-      ],
-      "duration_ms": 193630,
-      "name": "Body",
-      "url": "https://open.spotify.com/track/27YwMCIG7Rx9czTR625Wfz"
     },
     {
       "added_at": "2022-02-11 10:48:58",

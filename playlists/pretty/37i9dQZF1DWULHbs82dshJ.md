@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULHbs82dshJ.md) - [plain]
 
 > A trilha sonora perfeita pra te fazer companhia nesse dia chuvoso.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,032 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,049 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULHbs82dshJ.md) - [plain]
 | 20 | [Human Nature](https://open.spotify.com/track/35lAjvsvS9k9HHuP1fjDT8) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller 25 Super Deluxe Edition](https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a) | 4:05 |
 | 21 | [Naked \- Bonus Track](https://open.spotify.com/track/0SbOpoBzBBCqWIcvo94JeD) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Ella Mai](https://open.spotify.com/album/67ErXRS9s9pVG8JmFbrdJ0) | 3:17 |
 | 22 | [Where Do Broken Hearts Go](https://open.spotify.com/track/7tLtIZclwLWk54PFAyDv5T) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney](https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t) | 4:37 |
-| 23 | [Just The Way You Are](https://open.spotify.com/track/1Xf1lWBSml62NG1du3Ro14) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Barry White \- The Collection](https://open.spotify.com/album/6l1USwfJOcRGgJ8LpiRr8m) | 4:49 |
-| 24 | [Dona de mim](https://open.spotify.com/track/0H8CBal2Dcu5Yc001VotZN) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Dona de mim](https://open.spotify.com/album/6suxiZXNF0F1NC8nPCJG5C) | 3:28 |
+| 23 | [Dona de mim](https://open.spotify.com/track/0H8CBal2Dcu5Yc001VotZN) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Dona de mim](https://open.spotify.com/album/6suxiZXNF0F1NC8nPCJG5C) | 3:28 |
+| 24 | [Just The Way You Are](https://open.spotify.com/track/1Xf1lWBSml62NG1du3Ro14) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Barry White \- The Collection](https://open.spotify.com/album/6l1USwfJOcRGgJ8LpiRr8m) | 4:49 |
 | 25 | [Issues/Hold On](https://open.spotify.com/track/0bxmVPKnEopTyuMMkaTvUb) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a) | [K.T.S.E.](https://open.spotify.com/album/0mwf6u9KVhZDCNVyIi6JuU) | 3:05 |
 | 26 | [Just My Imagination \(Running Away With Me\)](https://open.spotify.com/track/39Bd345OWEhRNyfayhp9gv) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [Sky's The Limit](https://open.spotify.com/album/1w68QsDEt1Rt5SiwOJNGFn) | 3:48 |
 | 27 | [Who's Lovin' You](https://open.spotify.com/track/6cZrsaNb4Zo9E5KHk7gcz5) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [Diana Ross Presents The Jackson 5](https://open.spotify.com/album/51uoKRa8vT5SULrlF8s2t1) | 3:55 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULHbs82dshJ.md) - [plain]
 | 35 | [Azul Da Cor Do Mar](https://open.spotify.com/track/6vgKWE1KV4E7p1Dv75z0kL) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [Tim Maia 1970](https://open.spotify.com/album/7HjYI9iWYOsEEvBhyCva66) | 3:18 |
 | 36 | [Right To Be Wrong](https://open.spotify.com/track/1atxtvAHagXDZYTuUWAoEC) | [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [Mind Body & Soul](https://open.spotify.com/album/6O0QKBENHPmifQwLZZGnqM) | 4:40 |
 | 37 | [How Deep Is Your Love \(feat\. Yebba\) \- Live](https://open.spotify.com/track/3SjAiqAQ6sMmsJBeVw0nMf) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Gumbo Unplugged \(Live\)](https://open.spotify.com/album/6au0qzMOjqEgc79ntU2bf6) | 3:30 |
-| 38 | [Stuck On You](https://open.spotify.com/track/0ROwoz82DIW4tOzkxYnSjf) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Can't Slow Down](https://open.spotify.com/album/3alZBOvPaK3hgMEEymw4Yr) | 3:15 |
-| 39 | [ocean eyes \- Recorded Live at Jungle City Studios](https://open.spotify.com/track/7rLokcIMP9p8fl0iROdVfC) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Spotify Singles](https://open.spotify.com/album/5AS789PRyPv5B6l17kLfAW) | 3:04 |
+| 38 | [ocean eyes \- Recorded Live at Jungle City Studios](https://open.spotify.com/track/7rLokcIMP9p8fl0iROdVfC) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Spotify Singles](https://open.spotify.com/album/5AS789PRyPv5B6l17kLfAW) | 3:04 |
+| 39 | [Stuck On You](https://open.spotify.com/track/0ROwoz82DIW4tOzkxYnSjf) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Can't Slow Down](https://open.spotify.com/album/3alZBOvPaK3hgMEEymw4Yr) | 3:15 |
 | 40 | [Forfeit\. \(ft\. Lucky Daye\)](https://open.spotify.com/track/4uMvvCwqs046uxyJiFJTT1) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [KIKI](https://open.spotify.com/album/6UmILTxwjM8sME3wbsZgQh) | 4:02 |
 | 41 | [Someday We'll Be Together](https://open.spotify.com/track/79Yk6AlSKi5dxDFINID2hS) | [Diana Ross & The Supremes](https://open.spotify.com/artist/0rXI0q8Cahq6numvPlloaq) | [Cream Of The Crop](https://open.spotify.com/album/44oDkaH8gO3ZvvxKE8lG4I) | 3:31 |
 | 42 | [The Girl From Ipanema](https://open.spotify.com/track/7F5rIyOI88zk36AiBXC8xq) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Lioness: Hidden Treasures](https://open.spotify.com/album/4xdRjOhY9NHmMpI7U3e2c3) | 2:46 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULHbs82dshJ.md) - [plain]
 | 45 | [Um amor puro](https://open.spotify.com/track/6AOVm8DxKYBtcgo35DOzss) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes), [Maria Gadú](https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH) | [Um amor puro](https://open.spotify.com/album/5PebzLJlsrtY3HzUTm6FQO) | 4:45 |
 | 46 | [Somewhere Only We Know](https://open.spotify.com/track/1mvfvDZOybiEgS1ecJxt9W) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Sheezus](https://open.spotify.com/album/5Swr80WlTTC0PKExtoU4jU) | 3:28 |
 | 47 | [Primetime \(feat\. Miguel\)](https://open.spotify.com/track/5dzV75f9qVXVvdXLTqIG4L) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [The Electric Lady](https://open.spotify.com/album/3bnHtSmmsgJiG82hGCmsq9) | 4:40 |
-| 48 | [Is This Love](https://open.spotify.com/track/2w7xs3r4RZtipgMYTlxsvr) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Covered in Soul](https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn) | 3:48 |
-| 49 | [So Done \(feat\. Khalid\)](https://open.spotify.com/track/0DC6yJLAPwIEeZh6EZpn1f) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [ALICIA](https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1) | 3:54 |
+| 48 | [So Done \(feat\. Khalid\)](https://open.spotify.com/track/0DC6yJLAPwIEeZh6EZpn1f) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [ALICIA](https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1) | 3:54 |
+| 49 | [Is This Love](https://open.spotify.com/track/2w7xs3r4RZtipgMYTlxsvr) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Covered in Soul](https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn) | 3:48 |
 | 50 | [4 Seasons Of Loneliness](https://open.spotify.com/track/027tq4cWr0kRxLTfdxvM1L) | [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [Evolution](https://open.spotify.com/album/4zLchzG29ngh0MJgiy5GQx) | 4:52 |
 
-Snapshot ID: `MTYzOTU4MjkzOSwwMDAwMDAwMDNmMjdkMDM2NzlmZjFmMzQxZGExMGU1NjMxODFiNmNm`
+Snapshot ID: `MTYzOTU4MjkzOSwwMDAwMDAwMGY1MzFkYzEwYjQzZTg5YmEzNmQ3NjdhNjI2NmNmODRm`

@@ -2,9 +2,9 @@
 
 ### [una playlist felice](https://open.spotify.com/playlist/37i9dQZF1DWT888el8RDPq)
 
-> cioè, più o meno
+> ☀️!
 
-204 songs - 10 hr 16 min - [published](https://open.spotify.com/playlist/7FjuojaNhU1Q6SErzdT98D)
+205 songs - 10 hr 19 min - [published](https://open.spotify.com/playlist/7FjuojaNhU1Q6SErzdT98D)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [GIRASOLE](https://open.spotify.com/track/6Q5BuRgXZOWItqzvZfjKxw) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [FARSI MALE A NOI VA BENE](https://open.spotify.com/album/4kyZ7s8g1iT6LZAHJAcd29) | 3:17 | 2022-05-06 | 2022-07-29 |
 | [Girls](https://open.spotify.com/track/1IbwVEskI2zH0dM4pnmWfU) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l) | [Girls](https://open.spotify.com/album/0ELNO6pSJy9iq7FJG2DKVM) | 2:20 | 2022-06-10 | 2022-07-23 |
 | [Giuseppe Verdi](https://open.spotify.com/track/0zxzqUBWsyw9ndvyoGxPG7) | [filospada](https://open.spotify.com/artist/4xI4s9KJykpEAXSoWpP5zZ) | [Giuseppe Verdi](https://open.spotify.com/album/4LkBqj8UwPsKGtOUDdQPUd) | 1:26 | 2022-05-13 | 2022-06-24 |
+| [Give Me A Kiss](https://open.spotify.com/track/0ocf3HwWhrXtA8r63Vcd2h) | [Crash Adams](https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5) | [Give Me A Kiss](https://open.spotify.com/album/4Cxkou3pFWfzoLsw9Aonfw) | 2:49 | 2022-09-20 |  |
 | [Go Higher](https://open.spotify.com/track/350MlI4iDtv6fYwM4PKSA4) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Go Higher](https://open.spotify.com/album/1e1tDPUR08v96ZT7RPV7eb) | 3:28 | 2022-05-27 | 2022-06-15 |
 | [Golden](https://open.spotify.com/track/45S5WTQEGOB1VHr1Q4FuPl) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 3:28 | 2022-05-06 |  |
 | [Good Advice](https://open.spotify.com/track/2mAjXnUG4QJAypppi5J2lA) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [Good Advice](https://open.spotify.com/album/5MQethd22cttCRC2uAbrjI) | 2:23 | 2022-05-27 | 2022-06-26 |
@@ -130,7 +131,7 @@
 | [Joy](https://open.spotify.com/track/4Hn4zAkBUaNnT8m9p7cYaf) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Joy](https://open.spotify.com/album/0Pq6IzsPjGObrhLlaqn9eM) | 3:13 | 2022-05-27 |  |
 | [Just A Cloud Away](https://open.spotify.com/track/0DGTcMqvVR7fmBXgiG6jz4) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Just A Cloud Away](https://open.spotify.com/album/2ojXtf3VwPgpxsFHYujwCY) | 2:56 | 2022-05-06 |  |
 | [Just A Little While](https://open.spotify.com/track/3CL0eXel8usNNSCQ6OT7KJ) | [The 502s](https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX) | [Could It Get Better Than This](https://open.spotify.com/album/1sewF9zfVLURBL1CEKJmMC) | 2:42 | 2022-05-06 | 2022-07-27 |
-| [Just Friends](https://open.spotify.com/track/0tjYK2gtxo8fT2kdD4XGeF) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [Just Friends](https://open.spotify.com/album/21abgAYeRvgOJefmSBA3QW) | 2:35 | 2022-05-16 |  |
+| [Just Friends](https://open.spotify.com/track/0tjYK2gtxo8fT2kdD4XGeF) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [Just Friends](https://open.spotify.com/album/21abgAYeRvgOJefmSBA3QW) | 2:35 | 2022-05-16 | 2022-09-21 |
 | [Karma](https://open.spotify.com/track/5ROYn3uDIeZxs0KOIIkBmS) | [frambo](https://open.spotify.com/artist/2uJQNjoh5SPxQUGwA2WA27) | [Touché](https://open.spotify.com/album/2cIE6KJUfa7sKRviZRjtDL) | 2:44 | 2022-05-16 | 2022-06-11 |
 | [Kids Are Born Stars](https://open.spotify.com/track/2pD74s7WAlBWUXjrTsKgdS) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Kids Are Born Stars](https://open.spotify.com/album/7HhcskxiIqyd0KthMqR7eA) | 3:07 | 2022-07-01 |  |
 | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/track/748mdHapucXQri7IAO8yFK) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/album/1OnzqJTL9bwe4kvaLxRYxt) | 3:28 | 2022-05-06 |  |

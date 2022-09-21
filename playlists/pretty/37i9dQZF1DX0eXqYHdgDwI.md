@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0eXqYHdgDwI.md) - [plain]
 
 > it's ok not to be ok :'\(
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,311 likes - 60 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,345 likes - 60 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Another Love](https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down \(Deluxe\)](https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8) | 4:04 |
 | 2 | [I Love You So](https://open.spotify.com/track/4SqWKzw0CbA05TGszDgMlc) | [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [I Love You So](https://open.spotify.com/album/7ucm85tRsWk6EyVHaYAxe9) | 2:40 |
-| 3 | [Someone You Loved](https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent](https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70) | 3:02 |
-| 4 | [I'm Not The Only One](https://open.spotify.com/track/7795WJLVKJoAyVoOtCWqXN) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour](https://open.spotify.com/album/08jWgM4vSkTose4blKBWov) | 3:59 |
+| 3 | [I'm Not The Only One](https://open.spotify.com/track/7795WJLVKJoAyVoOtCWqXN) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour](https://open.spotify.com/album/08jWgM4vSkTose4blKBWov) | 3:59 |
+| 4 | [Someone You Loved](https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent](https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70) | 3:02 |
 | 5 | [In The Stars](https://open.spotify.com/track/1ei3hzQmrgealgRKFxIcWn) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [In The Stars](https://open.spotify.com/album/6dSmXsyGAnFtq048IFhiYd) | 3:36 |
 | 6 | [Let Me Down Slowly](https://open.spotify.com/track/2qxmye6gAegTMjLKEBoR3d) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Narrated For You](https://open.spotify.com/album/6jKZplJpy21R5lHaYHHjmZ) | 2:49 |
 | 7 | [Falling](https://open.spotify.com/track/1ZMiCix7XSAbfAJlEZWMCp) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 4:00 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0eXqYHdgDwI.md) - [plain]
 | 34 | [you were good to me](https://open.spotify.com/track/4CxFN5zON70B3VOPBYbd6P) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [brent](https://open.spotify.com/album/16mjtcKPxpQ4ajFHmJ0hJC) | 3:39 |
 | 35 | [Be Alright](https://open.spotify.com/track/5qrSlOut2rNAWv3ubArkNy) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [A Place We Knew](https://open.spotify.com/album/61G7KL6rpj167r6H4CzS8C) | 3:16 |
 | 36 | [Lonely \(with benny blanco\)](https://open.spotify.com/track/4y4spB9m0Q6026KfkAvy9Q) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [Lonely \(with benny blanco\)](https://open.spotify.com/album/3P5WIUJO0Ots1lQx09TOxk) | 2:29 |
-| 37 | [Say Something](https://open.spotify.com/track/6Vc5wAMmXdKIAM7WUoEb7N) | [A Great Big World](https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF), [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Is There Anybody Out There?](https://open.spotify.com/album/1yOcLa4euMk9sV7rRJ89Dl) | 3:49 |
-| 38 | [Anchor](https://open.spotify.com/track/7qH9Z4dJEN0l9bidizW7fq) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Bathing Beach](https://open.spotify.com/album/4vGuMdwnxc6X8izbVS6MTN) | 4:17 |
+| 37 | [Anchor](https://open.spotify.com/track/7qH9Z4dJEN0l9bidizW7fq) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Bathing Beach](https://open.spotify.com/album/4vGuMdwnxc6X8izbVS6MTN) | 4:17 |
+| 38 | [Say Something](https://open.spotify.com/track/6Vc5wAMmXdKIAM7WUoEb7N) | [A Great Big World](https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF), [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Is There Anybody Out There?](https://open.spotify.com/album/1yOcLa4euMk9sV7rRJ89Dl) | 3:49 |
 | 39 | [The Joker And The Queen \(feat\. Taylor Swift\)](https://open.spotify.com/track/6N1K5OVVCopBjGViHs2IvP) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Joker And The Queen \(feat\. Taylor Swift\)](https://open.spotify.com/album/0vkAczpFKCazPKaoLtnBr0) | 3:05 |
 | 40 | [Lost Boy](https://open.spotify.com/track/4h0zU3O9R5xzuTmNO7dNDU) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Lost Boy](https://open.spotify.com/album/7drYNu2imHk188vP81icR3) | 4:35 |
 | 41 | [Turning Page](https://open.spotify.com/track/2kfGoV9a5dbSKCNmUWH2ZF) | [Sleeping At Last](https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g) | [Turning Page](https://open.spotify.com/album/7lh3v8GsuH6TKFQcTimkji) | 4:15 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0eXqYHdgDwI.md) - [plain]
 | 59 | [Outnumbered \- Acoustic](https://open.spotify.com/track/7FCdJdGEOBCHqZAYRoZAWV) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Outnumbered \(Acoustic\)](https://open.spotify.com/album/4nk0xj3tr6st2yzimGINin) | 3:54 |
 | 60 | [Let Her Go \- Acoustic](https://open.spotify.com/track/38OudvGwGjmc5R4sDb2rd0) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [All The Little Lights \(Deluxe Version\)](https://open.spotify.com/album/6jH2g82WMRAVCuyifUsLpF) | 4:26 |
 
-Snapshot ID: `MTY1OTUyNDU3NSwwMDAwMDAwMDQ0MDNmYjA4YTI1MTQ3Mjc2MmMzYzE0ZGFjMTNjNDQw`
+Snapshot ID: `MTY1OTUyNDU3NSwwMDAwMDAwMGNjY2NmMWM1OWQyODMyMzk4YzhlYzFkMzIxZGZlZDRl`

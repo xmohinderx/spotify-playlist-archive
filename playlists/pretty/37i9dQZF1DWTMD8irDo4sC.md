@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMD8irDo4sC.md) - [plain]
 
 > Chill to these acoustic songs from the Middle East and North Africa\. Cover: Labess.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,200 likes - 70 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,243 likes - 70 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMD8irDo4sC.md) - [plain]
 | 8 | [Mafi Mennik](https://open.spotify.com/track/7KpMGvnrttA4zqqRm7cx4a) | [Aziz Maraka](https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU) | [Mafi Mennik](https://open.spotify.com/album/7cUCcWvtL3Z0S2JWIGIR93) | 4:03 |
 | 9 | [Ahwak \- Acoustic](https://open.spotify.com/track/3JfR7VLGOcl6ZdCGa7ciID) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g) | [Ahwak \( Version\)](https://open.spotify.com/album/6eJh5YvfNPAF7FVb8w4tMV) | 1:34 |
 | 10 | [El Kess Yaddour](https://open.spotify.com/track/7pgUEhd5vgSZLDMBVapiTm) | [Labess](https://open.spotify.com/artist/5ifXprV3Ehe3xSTObbk16Y) | [Identité](https://open.spotify.com/album/0BhgbOGDmeayGBVonX5hVR) | 3:36 |
-| 11 | [Kahlete Laayoune](https://open.spotify.com/track/0Vk0PhvVKhXbMj75eaLbu3) | [Babylone](https://open.spotify.com/artist/4sP2g2ixZhad5ZlxPirn8i) | [Brya](https://open.spotify.com/album/7wl8WPzTXuaewp6SeYGFXe) | 4:20 |
-| 12 | [Ahwak Hiba](https://open.spotify.com/track/4dMQ70p4sCovJ4qrpyOvmN) | [هيبة](https://open.spotify.com/artist/4ntBp9iTyEwM06tIVPn3NB), [Zeid Hamdan](https://open.spotify.com/artist/70z9FptZNtsoQ8OeB3p9ks) | [صح النوم](https://open.spotify.com/album/5GLEKnaRshEuOfenkwAC0j) | 3:19 |
+| 11 | [Ahwak Hiba](https://open.spotify.com/track/4dMQ70p4sCovJ4qrpyOvmN) | [هيبة](https://open.spotify.com/artist/4ntBp9iTyEwM06tIVPn3NB), [Zeid Hamdan](https://open.spotify.com/artist/70z9FptZNtsoQ8OeB3p9ks) | [صح النوم](https://open.spotify.com/album/5GLEKnaRshEuOfenkwAC0j) | 3:19 |
+| 12 | [Kahlete Laayoune](https://open.spotify.com/track/0Vk0PhvVKhXbMj75eaLbu3) | [Babylone](https://open.spotify.com/artist/4sP2g2ixZhad5ZlxPirn8i) | [Brya](https://open.spotify.com/album/7wl8WPzTXuaewp6SeYGFXe) | 4:20 |
 | 13 | [يا حسرة عليك يا دنيا](https://open.spotify.com/track/3GLGbZdxErd1d46wEQMELb) | [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk), [Amine Babylone](https://open.spotify.com/artist/2Dxc5IVSmvyXjR6sidLPT3) | [يا حسرة عليك يا دنيا](https://open.spotify.com/album/7EzzK8xvtwDahUXA7vub1h) | 4:14 |
 | 14 | [بدي احكيك](https://open.spotify.com/track/4LcxmnNWYr9EUeEJWwKT5e) | [Ghaliaa](https://open.spotify.com/artist/3FVonQ6pTMMbqYb0Rf7WE8) | [بدي احكيك](https://open.spotify.com/album/24l1EZQGlN4iiE8qnowy0Q) | 2:51 |
 | 15 | [Smek](https://open.spotify.com/track/539btjh5wDRbAmC49tX1jb) | [Ÿuma](https://open.spotify.com/artist/1PRH2VLBHk1kMY2BFI0GQW) | [Chura](https://open.spotify.com/album/64MAkAwfYsJoMbI4cjinad) | 2:43 |
@@ -61,22 +61,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMD8irDo4sC.md) - [plain]
 | 51 | [Walhani](https://open.spotify.com/track/4y2Zuqfq71h7joKqZmBJLr) | [Apo & the Apostles](https://open.spotify.com/artist/206CRJTxnXzOKrkZmZm9aw) | [Rawquha](https://open.spotify.com/album/2M5Qyikkntj3ly2V6RLyRJ) | 4:34 |
 | 52 | [Munaya \(Dream\)](https://open.spotify.com/track/3bhui3GTdH3kJ4ic6ubmQS) | [Amira Kheir](https://open.spotify.com/artist/5WZN5v7MdgFPu29h88MWvh) | [Mystic Dance](https://open.spotify.com/album/3xQYBIIhwi1Xmts6Y8lgSq) | 5:46 |
 | 53 | [The Taste of Love](https://open.spotify.com/track/0RFU7SHpffAeG65QzNvy18) | [Rim Banna](https://open.spotify.com/artist/3SODNDWMaRom0EVBbS1bqO) | [Revelation of Ecstasy and Rebellion](https://open.spotify.com/album/6PmcwICwmNOcQ8o2ZM8qUr) | 5:54 |
-| 54 | [Bshi Yom](https://open.spotify.com/track/11MX2DEBj06gcQZmSzIuZ5) | [Yousef Kekhia](https://open.spotify.com/artist/7EhcVdfydM4Hdfv5usdCRw) | [Bshi Yom](https://open.spotify.com/album/5zkU8WxN7m7HbkgRusjQyN) | 4:54 |
-| 55 | [كيف الحب بنقاس](https://open.spotify.com/track/1ZHa9mMDqVYlkmsOwT17jq) | [Mahasneh](https://open.spotify.com/artist/09mTDBIJQrOEw78vALpnPX) | [كيف الحب بنقاس](https://open.spotify.com/album/2lA87mLUDO7DSKEjOwW5Fk) | 2:44 |
+| 54 | [كيف الحب بنقاس](https://open.spotify.com/track/1ZHa9mMDqVYlkmsOwT17jq) | [Mahasneh](https://open.spotify.com/artist/09mTDBIJQrOEw78vALpnPX) | [كيف الحب بنقاس](https://open.spotify.com/album/2lA87mLUDO7DSKEjOwW5Fk) | 2:44 |
+| 55 | [Bshi Yom](https://open.spotify.com/track/11MX2DEBj06gcQZmSzIuZ5) | [Yousef Kekhia](https://open.spotify.com/artist/7EhcVdfydM4Hdfv5usdCRw) | [Bshi Yom](https://open.spotify.com/album/5zkU8WxN7m7HbkgRusjQyN) | 4:54 |
 | 56 | [يامّه مويل الهوى \(feat\. Frankly Jazz\)](https://open.spotify.com/track/2fndQayJ2sGLs2q0WDS9Dt) | [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk), [Frankly Jazz](https://open.spotify.com/artist/5K8Wf8G8YMy9EJ8w857rm9) | [يامّه مويل الهوى \(feat\. Frankly Jazz\)](https://open.spotify.com/album/0VGa2gazFA7invA9hBmv4J) | 3:08 |
 | 57 | [Malak](https://open.spotify.com/track/2yaXvRBhiJB8qTljHWnhKw) | [Luay Hijazeen](https://open.spotify.com/artist/2a1uAKszGY1wTHnbT0Y9Y8) | [Malak](https://open.spotify.com/album/0w4C0NtyNXnNjVczCx2D5o) | 3:22 |
 | 58 | [Salam](https://open.spotify.com/track/79QnKnXkgvONM0Y3HlNA9K) | [Souad Massi](https://open.spotify.com/artist/0oXFsuB6XBuDTsXJgplR7k) | [Oumniya](https://open.spotify.com/album/6GQNw3LhEnt6mekhNDafAK) | 4:24 |
 | 59 | [Cliché](https://open.spotify.com/track/4RlXofPu1zxJppCftikBxm) | [Meen](https://open.spotify.com/artist/5n1aTk6a8DcuUKUXbmrUm6) | [3arousit Bkeseen](https://open.spotify.com/album/1nYSZVRS5Pz1Fb6cgO1ne8) | 3:02 |
 | 60 | [Erjaa Shoufak](https://open.spotify.com/track/6mbo7f6VsjsgxQBkgGA9mv) | [Dana Hourani](https://open.spotify.com/artist/15hYqWGQsqwtFi7FgLE4i6) | [Erjaa Shoufak](https://open.spotify.com/album/4pGrKvclUJW5QbzY80hU3a) | 3:47 |
-| 61 | [Holm](https://open.spotify.com/track/1BLbyhemxMhIds5cf4lHxx) | [Emel](https://open.spotify.com/artist/06MtOym27ALcfdtVOsRcaA) | [Holm / The Man Who Sold The World](https://open.spotify.com/album/4uvkTNocp7isVguCNavJnY) | 4:46 |
-| 62 | [Konna Sghar](https://open.spotify.com/track/1I0wn8z1DRR0JA9YWLVah4) | [Aziz Maraka](https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU) | [Konna Sghar](https://open.spotify.com/album/10qHkq9kvK4PbUenAbHX0p) | 2:16 |
+| 61 | [Konna Sghar](https://open.spotify.com/track/1I0wn8z1DRR0JA9YWLVah4) | [Aziz Maraka](https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU) | [Konna Sghar](https://open.spotify.com/album/10qHkq9kvK4PbUenAbHX0p) | 2:16 |
+| 62 | [Holm](https://open.spotify.com/track/1BLbyhemxMhIds5cf4lHxx) | [Emel](https://open.spotify.com/artist/06MtOym27ALcfdtVOsRcaA) | [Holm / The Man Who Sold The World](https://open.spotify.com/album/4uvkTNocp7isVguCNavJnY) | 4:46 |
 | 63 | [Dayman Bekheir](https://open.spotify.com/track/7oOwRp54HH0BpomwZzzvXK) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [Dayman Bekheir](https://open.spotify.com/album/683ITXoJlmiLtLv7htGRZc) | 4:06 |
 | 64 | [Keber Al Alb](https://open.spotify.com/track/2gM94Dic9ifye4kt6Kvu5U) | [Amal Murkus](https://open.spotify.com/artist/35Or8bOOKNt9UJKHcySKdP) | [Fattah Al Ward](https://open.spotify.com/album/140bykvPQFbs8nc48OHN7g) | 2:53 |
 | 65 | [Habibi Ta'al](https://open.spotify.com/track/19oH7VGiIr2dBr8tOQxE9Q) | [Amira Kheir](https://open.spotify.com/artist/5WZN5v7MdgFPu29h88MWvh) | [Alsahraa](https://open.spotify.com/album/08aS2e6UrwEoq6BPGyNHe2) | 6:10 |
-| 66 | [No Longer Mine](https://open.spotify.com/track/2m7cnexJsp4w560WX86dDr) | [Zaman](https://open.spotify.com/artist/6tKvVxNctQcr1Er8f1Z3dL) | [Made in Palestine](https://open.spotify.com/album/2edQBDFUQBDAwdDIypknXx) | 3:39 |
-| 67 | [درر](https://open.spotify.com/track/3BPWuKnv4MwaMX5GjQf9KY) | [Roxs9](https://open.spotify.com/artist/6Rk3PNEqDTshVlJ5D3U5Ru) | [دُرَرْ](https://open.spotify.com/album/1ERu5zVIzOLu1lfBNRVOhD) | 4:28 |
-| 68 | [Manakir](https://open.spotify.com/track/2E9KtghEPFGSUkFYYV0hQn) | [Haya Zaatry & Ghanni 3an Ta3rif](https://open.spotify.com/artist/5DFpEJYHAfReM6SW58FjJo) | [Rough Guide To Palestine](https://open.spotify.com/album/6KqivdlFFRzj6KmAVSGL0I) | 2:56 |
-| 69 | [Wakfa](https://open.spotify.com/track/2rFOK6Wat6QKb3uqsXURgq) | [Souad Massi](https://open.spotify.com/artist/0oXFsuB6XBuDTsXJgplR7k) | [Oumniya](https://open.spotify.com/album/6GQNw3LhEnt6mekhNDafAK) | 4:50 |
+| 66 | [درر](https://open.spotify.com/track/3BPWuKnv4MwaMX5GjQf9KY) | [Roxs9](https://open.spotify.com/artist/6Rk3PNEqDTshVlJ5D3U5Ru) | [دُرَرْ](https://open.spotify.com/album/1ERu5zVIzOLu1lfBNRVOhD) | 4:28 |
+| 67 | [No Longer Mine](https://open.spotify.com/track/2m7cnexJsp4w560WX86dDr) | [Zaman](https://open.spotify.com/artist/6tKvVxNctQcr1Er8f1Z3dL) | [Made in Palestine](https://open.spotify.com/album/2edQBDFUQBDAwdDIypknXx) | 3:39 |
+| 68 | [Wakfa](https://open.spotify.com/track/2rFOK6Wat6QKb3uqsXURgq) | [Souad Massi](https://open.spotify.com/artist/0oXFsuB6XBuDTsXJgplR7k) | [Oumniya](https://open.spotify.com/album/6GQNw3LhEnt6mekhNDafAK) | 4:50 |
+| 69 | [Manakir](https://open.spotify.com/track/2E9KtghEPFGSUkFYYV0hQn) | [Haya Zaatry & Ghanni 3an Ta3rif](https://open.spotify.com/artist/5DFpEJYHAfReM6SW58FjJo) | [Rough Guide To Palestine](https://open.spotify.com/album/6KqivdlFFRzj6KmAVSGL0I) | 2:56 |
 | 70 | [Oully Ya Sahbi](https://open.spotify.com/track/3KujYyygA5owoZZ3o8iyAE) | [Natacha Atlas](https://open.spotify.com/artist/0aVJmlOwIxTZeHzhFiFL5Y), [Sofiane Saidi](https://open.spotify.com/artist/6VnkIRZde53ai5TtkMulr4) | [Mish Maoul](https://open.spotify.com/album/00oemMx6T4Jdd86Q29vmuW) | 5:33 |
 
-Snapshot ID: `MTY1NjQxNTIxOSwwMDAwMDAwMDYwMmI2NDEzYzEyZGY3OTg2MzczMGFhZDRkZTlkZmNl`
+Snapshot ID: `MTY1NjQxNTIxOSwwMDAwMDAwMDcwNGMxMWM4MzA1YWE5OTU1NmViZWNiNDM5MDFlNGZk`

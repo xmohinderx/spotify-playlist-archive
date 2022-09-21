@@ -1,12 +1,12 @@
 {
   "description": "De playlist voor magic, motion en good vibes! Cover: WizKid",
-  "num_followers": 304148,
+  "num_followers": 304170,
   "original_name": "La Vida Loca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzI3OTIwMCwwMDAwMDAwMGI4ZmQ2Y2RhY2I0MzA5YjE5NGI3NWMxNWM1YzA2NDUx",
+  "snapshot_id": "MTY2MzY2NTc5OSwwMDAwMDAwMDMwNjBhNGI4N2I3YzdlNDI0Y2IzZjdkNmVmOWYyY2Q4",
   "tracks": [
     {
       "added_at": "2022-09-15 22:00:00",
@@ -123,6 +123,26 @@
     {
       "added_at": "2022-09-15 22:00:00",
       "album": {
+        "name": "Good Girls",
+        "url": "https://open.spotify.com/album/321080p33tt05xgRoJHEov"
+      },
+      "artists": [
+        {
+          "name": "Yssi SB",
+          "url": "https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8"
+        },
+        {
+          "name": "Jordan Knows",
+          "url": "https://open.spotify.com/artist/5PfjH7mhfa4dZf3SQhuzId"
+        }
+      ],
+      "duration_ms": 166875,
+      "name": "Good Girls",
+      "url": "https://open.spotify.com/track/4CAaHP9HwaaJeh1sJrsNrR"
+    },
+    {
+      "added_at": "2022-09-15 22:00:00",
+      "album": {
         "name": "Backazz",
         "url": "https://open.spotify.com/album/5WoPkk8iD8SA8UrQE0o8ux"
       },
@@ -155,6 +175,42 @@
       "duration_ms": 209771,
       "name": "Stylo",
       "url": "https://open.spotify.com/track/0aoysW5V50MCNJYgIMtGH9"
+    },
+    {
+      "added_at": "2022-09-20 08:49:31",
+      "album": {
+        "name": "Omoge",
+        "url": "https://open.spotify.com/album/5gAvjipmSzUXGTWIavWk01"
+      },
+      "artists": [
+        {
+          "name": "Steph Ocho",
+          "url": "https://open.spotify.com/artist/6STNSK3CFuLUmnwPQecMyZ"
+        }
+      ],
+      "duration_ms": 140571,
+      "name": "Omoge",
+      "url": "https://open.spotify.com/track/2WmlrdRYXJwtvsStaLhdEa"
+    },
+    {
+      "added_at": "2022-09-15 22:00:00",
+      "album": {
+        "name": "Enjoyment",
+        "url": "https://open.spotify.com/album/3u7RahkGaDMBWG6W0JIVTn"
+      },
+      "artists": [
+        {
+          "name": "Jonna Fraser",
+          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
+        },
+        {
+          "name": "Dopebwoy",
+          "url": "https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr"
+        }
+      ],
+      "duration_ms": 194457,
+      "name": "Enjoyment",
+      "url": "https://open.spotify.com/track/6joqibVw5dlmznb4bINJhb"
     },
     {
       "added_at": "2022-09-15 22:00:00",
@@ -219,38 +275,26 @@
     {
       "added_at": "2022-09-15 22:00:00",
       "album": {
-        "name": "Safe Place",
-        "url": "https://open.spotify.com/album/0pTdxdArTizZFshyf3EG1n"
+        "name": "Activeren",
+        "url": "https://open.spotify.com/album/3diG0itmo6d1DN24tNl7CF"
       },
       "artists": [
         {
-          "name": "Jairzinho",
-          "url": "https://open.spotify.com/artist/4owt1GWUqAh4gsXT13roop"
-        }
-      ],
-      "duration_ms": 201357,
-      "name": "Safe Place",
-      "url": "https://open.spotify.com/track/71ZvagMvaJf39cJWEHiJfp"
-    },
-    {
-      "added_at": "2022-09-15 22:00:00",
-      "album": {
-        "name": "Good Girls",
-        "url": "https://open.spotify.com/album/321080p33tt05xgRoJHEov"
-      },
-      "artists": [
-        {
-          "name": "Yssi SB",
-          "url": "https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8"
+          "name": "Freddy Moreira",
+          "url": "https://open.spotify.com/artist/2CU1lH3DaaajH9Cm2S2tPk"
         },
         {
-          "name": "Jordan Knows",
-          "url": "https://open.spotify.com/artist/5PfjH7mhfa4dZf3SQhuzId"
+          "name": "Poke",
+          "url": "https://open.spotify.com/artist/0hgX6slgQFj1QpjpKHbcK1"
+        },
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/1J83abhW7lGHgDpTeTUuSd"
         }
       ],
-      "duration_ms": 166875,
-      "name": "Good Girls",
-      "url": "https://open.spotify.com/track/4CAaHP9HwaaJeh1sJrsNrR"
+      "duration_ms": 168062,
+      "name": "Activeren",
+      "url": "https://open.spotify.com/track/2BTLc3HjGW71DtDGe0ngbB"
     },
     {
       "added_at": "2022-09-15 22:00:00",
@@ -343,26 +387,6 @@
     {
       "added_at": "2022-09-15 22:00:00",
       "album": {
-        "name": "Enjoyment",
-        "url": "https://open.spotify.com/album/3u7RahkGaDMBWG6W0JIVTn"
-      },
-      "artists": [
-        {
-          "name": "Jonna Fraser",
-          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
-        },
-        {
-          "name": "Dopebwoy",
-          "url": "https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr"
-        }
-      ],
-      "duration_ms": 194457,
-      "name": "Enjoyment",
-      "url": "https://open.spotify.com/track/6joqibVw5dlmznb4bINJhb"
-    },
-    {
-      "added_at": "2022-09-15 22:00:00",
-      "album": {
         "name": "Mercedes Tintia",
         "url": "https://open.spotify.com/album/3Hp4KQN2Oib1HM5MO3Q69s"
       },
@@ -375,6 +399,22 @@
       "duration_ms": 195348,
       "name": "Mercedes Tintia",
       "url": "https://open.spotify.com/track/6e9Ew4AECYwY5Xgs2ZKMgp"
+    },
+    {
+      "added_at": "2022-09-15 22:00:00",
+      "album": {
+        "name": "Safe Place",
+        "url": "https://open.spotify.com/album/0pTdxdArTizZFshyf3EG1n"
+      },
+      "artists": [
+        {
+          "name": "Jairzinho",
+          "url": "https://open.spotify.com/artist/4owt1GWUqAh4gsXT13roop"
+        }
+      ],
+      "duration_ms": 201357,
+      "name": "Safe Place",
+      "url": "https://open.spotify.com/track/71ZvagMvaJf39cJWEHiJfp"
     },
     {
       "added_at": "2022-09-15 22:00:00",
@@ -423,26 +463,30 @@
     {
       "added_at": "2022-09-15 22:00:00",
       "album": {
-        "name": "Activeren",
-        "url": "https://open.spotify.com/album/3diG0itmo6d1DN24tNl7CF"
+        "name": "LALALA (feat. #SS)",
+        "url": "https://open.spotify.com/album/4hYnejIF8rdXAaFIbg1auJ"
       },
       "artists": [
         {
-          "name": "Freddy Moreira",
-          "url": "https://open.spotify.com/artist/2CU1lH3DaaajH9Cm2S2tPk"
+          "name": "Shikss",
+          "url": "https://open.spotify.com/artist/1SzciTtL2bewCNpbRTk6z7"
         },
         {
-          "name": "Poke",
-          "url": "https://open.spotify.com/artist/0hgX6slgQFj1QpjpKHbcK1"
+          "name": "Orlando KS",
+          "url": "https://open.spotify.com/artist/5Z7gnO10qSMzeZcmVFBWuH"
         },
         {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/1J83abhW7lGHgDpTeTUuSd"
+          "name": "6iant",
+          "url": "https://open.spotify.com/artist/1crOmwDhXGwd42WXLHn6ii"
+        },
+        {
+          "name": "#SS",
+          "url": "https://open.spotify.com/artist/3jNqYOJqmN6uQxwG9bRcsU"
         }
       ],
-      "duration_ms": 168062,
-      "name": "Activeren",
-      "url": "https://open.spotify.com/track/2BTLc3HjGW71DtDGe0ngbB"
+      "duration_ms": 147042,
+      "name": "LALALA (feat. #SS)",
+      "url": "https://open.spotify.com/track/2GMGd939FCR1HVgQvOxlWt"
     },
     {
       "added_at": "2022-09-15 22:00:00",
@@ -507,34 +551,6 @@
       "duration_ms": 200534,
       "name": "Omri",
       "url": "https://open.spotify.com/track/0UoPZZKHTNXyAKvnQC0PrY"
-    },
-    {
-      "added_at": "2022-09-15 22:00:00",
-      "album": {
-        "name": "LALALA (feat. #SS)",
-        "url": "https://open.spotify.com/album/4hYnejIF8rdXAaFIbg1auJ"
-      },
-      "artists": [
-        {
-          "name": "Shikss",
-          "url": "https://open.spotify.com/artist/1SzciTtL2bewCNpbRTk6z7"
-        },
-        {
-          "name": "Orlando KS",
-          "url": "https://open.spotify.com/artist/5Z7gnO10qSMzeZcmVFBWuH"
-        },
-        {
-          "name": "6iant",
-          "url": "https://open.spotify.com/artist/1crOmwDhXGwd42WXLHn6ii"
-        },
-        {
-          "name": "#SS",
-          "url": "https://open.spotify.com/artist/3jNqYOJqmN6uQxwG9bRcsU"
-        }
-      ],
-      "duration_ms": 147042,
-      "name": "LALALA (feat. #SS)",
-      "url": "https://open.spotify.com/track/2GMGd939FCR1HVgQvOxlWt"
     },
     {
       "added_at": "2022-09-15 22:00:00",

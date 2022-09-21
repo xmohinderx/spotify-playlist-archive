@@ -5256,6 +5256,24 @@
     },
     {
       "album": {
+        "name": "dumb dumb",
+        "url": "https://open.spotify.com/album/0mq5MBb02slLpdG5Rkm2hz"
+      },
+      "artists": [
+        {
+          "name": "mazie",
+          "url": "https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125256,
+      "name": "dumb dumb",
+      "url": "https://open.spotify.com/track/7pq7gsLHiMhkF4RSN9RtWT"
+    },
+    {
+      "album": {
         "name": "Dumped",
         "url": "https://open.spotify.com/album/6mKVK9W2eY2WdfgrAh9HMW"
       },

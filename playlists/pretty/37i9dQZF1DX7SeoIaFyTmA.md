@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7SeoIaFyTmA.md) - [plain]
 
 > Timeless Salsa from your favorite legends\. Cover: Willie Colón
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,046,751 likes - 90 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,047,242 likes - 90 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7SeoIaFyTmA.md) - [plain]
 | 53 | [Mi Gente](https://open.spotify.com/track/7epwpv5eX5E5rJLOKMBKS4) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [La Voz](https://open.spotify.com/album/6L5s2MnpJNhWA54koTN7UV) | 5:26 |
 | 54 | [Usted Abusó](https://open.spotify.com/track/3FNjqlfbQ153UsLKhDIxHo) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [The 'Brillante' Best](https://open.spotify.com/album/1YTyamO7TMTaKM9vtfKk25) | 4:19 |
 | 55 | [La Cartera](https://open.spotify.com/track/1mpKcP8f2gQrInkh2FLb1N) | [Orquesta Harlow](https://open.spotify.com/artist/7tR38XlRHmElbNAWRiHb9W), [Larry Harlow](https://open.spotify.com/artist/2PGJmP6AvSCQ7pKBOjrg8J), [Junior Gonzalez](https://open.spotify.com/artist/7cRTfuZ5VJhWfVjuN3XGyY) | [Salsa](https://open.spotify.com/album/5Q5kjxNsrkZ2ImkRUi7w3c) | 6:26 |
-| 56 | [Vivir Lo Nuestro](https://open.spotify.com/track/0LIZVQBQtDi4lLhB83qJIp) | [LA INDIA](https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Desde Un Principio / From The Beginning](https://open.spotify.com/album/5d7Tr9DguGh9z9oByKWYoI) | 6:06 |
-| 57 | [La Noche](https://open.spotify.com/track/2uyCcoHiRGttV0uXaNXGB1) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [La Verdad](https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM) | [Milenario, Vol\. 3](https://open.spotify.com/album/3OKmxN48BfZ9AaQwQXVlW2) | 4:25 |
+| 56 | [La Noche](https://open.spotify.com/track/2uyCcoHiRGttV0uXaNXGB1) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [La Verdad](https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM) | [Milenario, Vol\. 3](https://open.spotify.com/album/3OKmxN48BfZ9AaQwQXVlW2) | 4:25 |
+| 57 | [Vivir Lo Nuestro](https://open.spotify.com/track/0LIZVQBQtDi4lLhB83qJIp) | [LA INDIA](https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Desde Un Principio / From The Beginning](https://open.spotify.com/album/5d7Tr9DguGh9z9oByKWYoI) | 6:06 |
 | 58 | [Dile A Ella](https://open.spotify.com/track/45nyOQWvhjn9bfAoTIKCuJ) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Exitos de Victor Manuelle](https://open.spotify.com/album/00t11Er6J0FAKiGP1B8r0P) | 5:05 |
 | 59 | [Desesperado](https://open.spotify.com/track/3NYWeHXkfrcYa4iXegFUR5) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [Colección De Oro](https://open.spotify.com/album/10ylTveyo286PAtFn5gXVo) | 3:50 |
 | 60 | [El Rey De La Puntualidad](https://open.spotify.com/track/0mTHqLXxW4UAYwJgCIz7CJ) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Lo Qué Pide La Gente](https://open.spotify.com/album/4Nw5le2E6AhNXU4GDFIGl0) | 6:42 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7SeoIaFyTmA.md) - [plain]
 | 89 | [Amiga](https://open.spotify.com/track/3P97s0cNCeHeNGvfAe7WYE) | [Rey Ruiz](https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ) | [Frente a Frente](https://open.spotify.com/album/2Dw5D1wfcJNOysJfMy30QV) | 4:40 |
 | 90 | [Contra La Corriente](https://open.spotify.com/track/22GxtWFeORJZaptz26pxet) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Contra La Corriente](https://open.spotify.com/album/6LIqj7VIJB3K54NBycFxSe) | 5:04 |
 
-Snapshot ID: `MTY2MTkyODEwOCwwMDAwMDAwMGMyZDA4OTYwZTUzMDM4OGIyM2U4MDA1ZjcwZmIxNjQy`
+Snapshot ID: `MTY2MTkyODEwOCwwMDAwMDAwMGIzODIzYjBiNDQzNmQ3MWM2OGQwZTI0OTMzZTY4MjVh`

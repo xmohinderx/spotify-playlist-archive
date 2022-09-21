@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Vedp1NjGn9.md) - [plain]
 
 > 2011 highlights from the home of indie music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,027 likes - 100 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,117 likes - 100 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,20 +41,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Vedp1NjGn9.md) - [plain]
 | 31 | [Don't Stop \(Color on the Walls\)](https://open.spotify.com/track/4HRa9ZWcmZ8JD7UySPu0wT) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Torches](https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT) | 2:54 |
 | 32 | [Featherstone](https://open.spotify.com/track/5KaN2M7seUV4uyNFp4twv6) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Woodland](https://open.spotify.com/album/1lq6KMHFACcE6GQZysxnSZ) | 3:49 |
 | 33 | [Life Is Simple in the Moonlight](https://open.spotify.com/track/4ileLT7ldd2uX8bMemWqbm) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Angles](https://open.spotify.com/album/6Jx4cGhWHewTcfKDJKguBQ) | 4:15 |
-| 34 | [L.I.F.E.G.O.E.S.O.N.](https://open.spotify.com/track/6y468DyY1V67RBNCwzrMrC) | [Noah And The Whale](https://open.spotify.com/artist/0aeLcja6hKzb7Uz2ou7ulP) | [Last Night On Earth](https://open.spotify.com/album/2BAYuyT9kP620VgwpowIQK) | 3:48 |
-| 35 | [Post Break\-Up Sex](https://open.spotify.com/track/47oXAoC5TynVLCZ3FKb0gC) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [What Did You Expect from The Vaccines?](https://open.spotify.com/album/2T0iwqVWzr4Y63x4kKO5DW) | 2:54 |
+| 34 | [Post Break\-Up Sex](https://open.spotify.com/track/47oXAoC5TynVLCZ3FKb0gC) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [What Did You Expect from The Vaccines?](https://open.spotify.com/album/2T0iwqVWzr4Y63x4kKO5DW) | 2:54 |
+| 35 | [Never Let Me Go](https://open.spotify.com/track/6cC9RY7MoUx5z3aHjDTNI6) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Ceremonials \(Deluxe Edition\)](https://open.spotify.com/album/5SxudoALxEAVh9l83kSebx) | 4:31 |
 | 36 | [Down in the Valley](https://open.spotify.com/track/7B2yGUDt0aHGP0YuP4c2iG) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head And The Heart](https://open.spotify.com/album/0HOYbncHll4TcojWXrfYfV) | 5:03 |
 | 37 | [Call It What You Want](https://open.spotify.com/track/3u1Er1rkjn1oSz1xdZH3ZD) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Torches](https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT) | 3:58 |
 | 38 | [Taken for a Fool](https://open.spotify.com/track/6SdAztAqklk1zAmUHhU4N7) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Angles](https://open.spotify.com/album/6Jx4cGhWHewTcfKDJKguBQ) | 3:23 |
-| 39 | [Never Let Me Go](https://open.spotify.com/track/6cC9RY7MoUx5z3aHjDTNI6) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Ceremonials \(Deluxe Edition\)](https://open.spotify.com/album/5SxudoALxEAVh9l83kSebx) | 4:31 |
+| 39 | [L.I.F.E.G.O.E.S.O.N.](https://open.spotify.com/track/6y468DyY1V67RBNCwzrMrC) | [Noah And The Whale](https://open.spotify.com/artist/0aeLcja6hKzb7Uz2ou7ulP) | [Last Night On Earth](https://open.spotify.com/album/2BAYuyT9kP620VgwpowIQK) | 3:48 |
 | 40 | [How Can You Swallow So Much Sleep](https://open.spotify.com/track/214Cj6UAEJvq9rocjbXqK1) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [A Different Kind Of Fix](https://open.spotify.com/album/4W6ztwnEbK92Arl8kI9c9N) | 3:30 |
 | 41 | [Come Closer](https://open.spotify.com/track/20uVZbYFKshjrdDHcVy9w9) | [Miles Kane](https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn) | [Colour Of The Trap](https://open.spotify.com/album/671vYDTGlzYQfsibwLHxNB) | 2:59 |
 | 42 | [Lotus Flower](https://open.spotify.com/track/2QeutlLcJf2V1cMUUsDFT1) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [The King Of Limbs](https://open.spotify.com/album/3P17levwUPzmFfLYdAK3A7) | 5:00 |
 | 43 | [Will Do](https://open.spotify.com/track/5iHK8VI9XkJJdXQHCBXeM4) | [TV On The Radio](https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR) | [Nine Types of Light](https://open.spotify.com/album/0FvrvaVsWQ7kTdGzipW6HV) | 3:44 |
 | 44 | [17](https://open.spotify.com/track/5UVBumEwdUnzvqxrXOYLFA) | [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) | [The Year of Hibernation](https://open.spotify.com/album/7jG32gfkuo10qarPgmWC7q) | 3:56 |
-| 45 | [Lights Out, Words Gone](https://open.spotify.com/track/1bKQdPJ9lid6Yg26HAx8Tf) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [A Different Kind Of Fix](https://open.spotify.com/album/4W6ztwnEbK92Arl8kI9c9N) | 5:01 |
+| 45 | [Don't Move](https://open.spotify.com/track/3p0rvHL2zfHAlXAgnHC4GI) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [Nightlife](https://open.spotify.com/album/4XvCeI5IFiB569sJwbZxB9) | 4:18 |
 | 46 | [I Would Do Anything for You](https://open.spotify.com/track/5fgb3Md1xjt3mxeBqguiIA) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Torches](https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT) | 3:34 |
-| 47 | [Don't Move](https://open.spotify.com/track/3p0rvHL2zfHAlXAgnHC4GI) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [Nightlife](https://open.spotify.com/album/4XvCeI5IFiB569sJwbZxB9) | 4:18 |
+| 47 | [Lights Out, Words Gone](https://open.spotify.com/track/1bKQdPJ9lid6Yg26HAx8Tf) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [A Different Kind Of Fix](https://open.spotify.com/album/4W6ztwnEbK92Arl8kI9c9N) | 5:01 |
 | 48 | [Towers](https://open.spotify.com/track/2qHl2VvpKJ6ciB45nCtLB2) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Bon Iver \(10th Anniversary Edition\)](https://open.spotify.com/album/6xfOCqmQvpvgR5aq6fpKMD) | 3:08 |
 | 49 | [Colours](https://open.spotify.com/track/6gSKswfcoWvaadqvuMF3Y7) | [Grouplove](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Never Trust a Happy Song](https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc) | 4:17 |
 | 50 | [Santa Fe](https://open.spotify.com/track/2bxQP85JNU11CQV4KXCnau) | [Beirut](https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX) | [The Rip Tide](https://open.spotify.com/album/7HYptJX2aQJPWbxXviXLwQ) | 4:14 |
@@ -87,14 +87,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Vedp1NjGn9.md) - [plain]
 | 77 | [Future Starts Slow](https://open.spotify.com/track/04RcDL1mbjcVLMLqBOjkeX) | [The Kills](https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr) | [Blood Pressures](https://open.spotify.com/album/0PjRCiXdp6TQPXojFRB0AX) | 4:08 |
 | 78 | [Night Air](https://open.spotify.com/track/73C8W2PBSEbfoNIi1J93MN) | [Jamie Woon](https://open.spotify.com/artist/1fUMEn4Yk7ZUloozE0fRLL) | [Mirrorwriting](https://open.spotify.com/album/30MSPzoWz0TzaFY7zx02XD) | 5:22 |
 | 79 | [Hanging On](https://open.spotify.com/track/6o4lFpp8OAFhBqGQbWyAob) | [Active Child](https://open.spotify.com/artist/54KTsBl98buzGkELjGlnuU) | [You Are All I See](https://open.spotify.com/album/0naMIQoMmwqmpXiO7qFqCX) | 5:21 |
-| 80 | [TenTwentyTen](https://open.spotify.com/track/5v6fwkgHeF0N32LmEoQyQB) | [Generationals](https://open.spotify.com/artist/57MtJQ6Sc4tIxrXIhrqVJL) | [ActorCaster](https://open.spotify.com/album/6E431m4hnKJomE4EhddGtB) | 3:22 |
-| 81 | [Don't Sit Down 'Cause I've Moved Your Chair](https://open.spotify.com/track/577M06tqh2BwsT1qqZOBM1) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Suck It and See](https://open.spotify.com/album/2KhJyDQAtauN6plT5PkfnV) | 3:03 |
+| 80 | [Don't Sit Down 'Cause I've Moved Your Chair](https://open.spotify.com/track/577M06tqh2BwsT1qqZOBM1) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Suck It and See](https://open.spotify.com/album/2KhJyDQAtauN6plT5PkfnV) | 3:03 |
+| 81 | [TenTwentyTen](https://open.spotify.com/track/5v6fwkgHeF0N32LmEoQyQB) | [Generationals](https://open.spotify.com/artist/57MtJQ6Sc4tIxrXIhrqVJL) | [ActorCaster](https://open.spotify.com/album/6E431m4hnKJomE4EhddGtB) | 3:22 |
 | 82 | [You Know What I Mean](https://open.spotify.com/track/7qGDHuDnjLdGtM787CgKYK) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Cults](https://open.spotify.com/album/0OvMqTVXYlNpWbGuxQrt6M) | 2:30 |
 | 83 | [Days](https://open.spotify.com/track/3xQoeVaWyF046QIhdbGRCO) | [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu) | [Portamento](https://open.spotify.com/album/0gi6GxcVnTUjOaFWozw9en) | 4:29 |
 | 84 | [Candles](https://open.spotify.com/track/5Ur23WUXgTWGfJDWWYV7y3) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [His Young Heart](https://open.spotify.com/album/6Xfyee6s7YFf3TtrO5kGBM) | 4:53 |
 | 85 | [What The Water Gave Me](https://open.spotify.com/track/3RiOPzAvhNKuMIdPYOrKV8) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Ceremonials \(Deluxe Edition\)](https://open.spotify.com/album/5SxudoALxEAVh9l83kSebx) | 5:33 |
-| 86 | [Black Treacle](https://open.spotify.com/track/3s4OT5Si1n9TFSNEPjNs0s) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Suck It and See](https://open.spotify.com/album/2KhJyDQAtauN6plT5PkfnV) | 3:37 |
-| 87 | [Come Home](https://open.spotify.com/track/40DTE6OONWvsNlWNtsjZyj) | [CHAPPO](https://open.spotify.com/artist/0fdMBzQuX9TIF6t6N8fwg6) | [Moonwater \(Deluxe Edition\)](https://open.spotify.com/album/59kCQ8ak5Aarnoz80CPlpo) | 3:27 |
+| 86 | [Come Home](https://open.spotify.com/track/40DTE6OONWvsNlWNtsjZyj) | [CHAPPO](https://open.spotify.com/artist/0fdMBzQuX9TIF6t6N8fwg6) | [Moonwater \(Deluxe Edition\)](https://open.spotify.com/album/59kCQ8ak5Aarnoz80CPlpo) | 3:27 |
+| 87 | [Black Treacle](https://open.spotify.com/track/3s4OT5Si1n9TFSNEPjNs0s) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Suck It and See](https://open.spotify.com/album/2KhJyDQAtauN6plT5PkfnV) | 3:37 |
 | 88 | [Cruel](https://open.spotify.com/track/6FPw780c3azvSQXDuV5Z52) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Strange Mercy](https://open.spotify.com/album/5x7cI8aHmaqk03KKl1Auh1) | 3:34 |
 | 89 | [New Beat](https://open.spotify.com/track/6bURo0Mmzg5EymcHwvONaj) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Underneath The Pine](https://open.spotify.com/album/6FtCAAEZUEutbmNfFHzeK0) | 4:04 |
 | 90 | [Hey Moon](https://open.spotify.com/track/0MpsyFvt1KaxNYBYw2aanq) | [John Maus](https://open.spotify.com/artist/4R073T3AVJKqAsbzLmLW9u) | [We Must Become the Pitiless Censors of Ourselves](https://open.spotify.com/album/6lfo4f2EW26I06q2cIMPof) | 4:08 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Vedp1NjGn9.md) - [plain]
 | 99 | [Get Some](https://open.spotify.com/track/5LbCx9z3eq83JVoJ74tnmt) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Wounded Rhymes](https://open.spotify.com/album/43uf0nTu6b5ReBCoQkLtsF) | 3:22 |
 | 100 | [Kaputt](https://open.spotify.com/track/6DrvUh7WxKy1lQxsHcxtN2) | [Destroyer](https://open.spotify.com/artist/22ojy4H4ZVpowC4lRRC8In) | [Kaputt](https://open.spotify.com/album/4sVWj2lb9F8nRg57VFTaf1) | 6:17 |
 
-Snapshot ID: `MTY1MDkxNjQ0NCwwMDAwMDAwMDcyODhjY2U5NDVlNjhjOWRmYmJjMGI3NDdiNDIxNjU0`
+Snapshot ID: `MTY1MDkxNjQ0NCwwMDAwMDAwMDNjZDJiZTAzMjA2MTk2OTBhZWIyYjc3MWJiNDM0NTAz`

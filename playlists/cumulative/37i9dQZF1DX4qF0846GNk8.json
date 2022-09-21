@@ -246,6 +246,24 @@
     },
     {
       "album": {
+        "name": "Lama Bagy",
+        "url": "https://open.spotify.com/album/11ub4kmdxgA8bSu7MfRco9"
+      },
+      "artists": [
+        {
+          "name": "Hassan Abouelrouss",
+          "url": "https://open.spotify.com/artist/7xwMn1tewzj0idd87bXpQm"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110769,
+      "name": "Lama Bagy",
+      "url": "https://open.spotify.com/track/52APJS24l96Jn7AJHrkSWh"
+    },
+    {
+      "album": {
         "name": "Salamat Ala Nas Amaloly Ekhwat",
         "url": "https://open.spotify.com/album/1WGEKcC8jwAFoXGANK9DQn"
       },

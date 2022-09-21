@@ -1,12 +1,12 @@
 {
   "description": "The biggest songs in Latin America in 2018. Cover: Bad Bunny",
-  "num_followers": 26966,
+  "num_followers": 27063,
   "original_name": "Latin Hits 2018",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzOTYxNzA5MiwwMDAwMDAwMDQ5Nzk0MTdlMjg5YWQ5YmE0Y2ViMzBkYzdhMGQ0YWEy",
+  "snapshot_id": "MTYzOTYxNzA5MiwwMDAwMDAwMGY3NDMwM2RhZDY0NmNiM2E5NjY1NjVmOWVhM2ZiNjJl",
   "tracks": [
     {
       "added_at": "2021-12-16 01:11:32",
@@ -687,26 +687,6 @@
     {
       "added_at": "2021-12-16 01:11:32",
       "album": {
-        "name": "Sin Pijama",
-        "url": "https://open.spotify.com/album/6hAxqfWO3xDGzjs8yad1pB"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        },
-        {
-          "name": "Natti Natasha",
-          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
-        }
-      ],
-      "duration_ms": 188560,
-      "name": "Sin Pijama",
-      "url": "https://open.spotify.com/track/2ijef6ni2amuunRoKTlgww"
-    },
-    {
-      "added_at": "2021-12-16 01:11:32",
-      "album": {
         "name": "Real Hasta la Muerte",
         "url": "https://open.spotify.com/album/5pQwQRnQOuKrbVUVnGMEN4"
       },
@@ -723,6 +703,26 @@
       "duration_ms": 192000,
       "name": "Hip\u00f3crita",
       "url": "https://open.spotify.com/track/4CbANooTL2aTHzJZqQ0Uvk"
+    },
+    {
+      "added_at": "2021-12-16 01:11:32",
+      "album": {
+        "name": "Sin Pijama",
+        "url": "https://open.spotify.com/album/6hAxqfWO3xDGzjs8yad1pB"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "Natti Natasha",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        }
+      ],
+      "duration_ms": 188560,
+      "name": "Sin Pijama",
+      "url": "https://open.spotify.com/track/2ijef6ni2amuunRoKTlgww"
     },
     {
       "added_at": "2021-12-16 01:11:32",
@@ -859,26 +859,6 @@
     {
       "added_at": "2021-12-16 01:11:32",
       "album": {
-        "name": "Cuando Te Bes\u00e9",
-        "url": "https://open.spotify.com/album/1rNj1DvnXIH5irucrzT4zo"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        },
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 254383,
-      "name": "Cuando Te Bes\u00e9",
-      "url": "https://open.spotify.com/track/2XXMDz7SPZ4mSFN1PXfHUy"
-    },
-    {
-      "added_at": "2021-12-16 01:11:32",
-      "album": {
         "name": "Asesina (Remix)",
         "url": "https://open.spotify.com/album/3kszVyyPdSKYihlQkme1Vv"
       },
@@ -927,6 +907,26 @@
       "duration_ms": 231920,
       "name": "Clandestino",
       "url": "https://open.spotify.com/track/7DrluKkTviBwCc8AV3VGmf"
+    },
+    {
+      "added_at": "2021-12-16 01:11:32",
+      "album": {
+        "name": "Cuando Te Bes\u00e9",
+        "url": "https://open.spotify.com/album/1rNj1DvnXIH5irucrzT4zo"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 254383,
+      "name": "Cuando Te Bes\u00e9",
+      "url": "https://open.spotify.com/track/2XXMDz7SPZ4mSFN1PXfHUy"
     },
     {
       "added_at": "2021-12-16 01:11:32",

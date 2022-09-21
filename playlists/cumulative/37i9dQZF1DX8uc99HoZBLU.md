@@ -4,12 +4,12 @@
 
 > for those who appreciate a curated mood 🪩
 
-263 songs - 13 hr 4 min - [published](https://open.spotify.com/playlist/6cu1WQgS5mI4GSlZeKU8uo)
+264 songs - 13 hr 8 min - [published](https://open.spotify.com/playlist/6cu1WQgS5mI4GSlZeKU8uo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\#miles](https://open.spotify.com/track/1hboZZxKIEjLHRIkhx4Soi) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [\#miles](https://open.spotify.com/album/2PCs0ZB8bHofV9khzpRmal) | 1:55 | 2022-07-19 |  |
-| ['98 NISSAN](https://open.spotify.com/track/566uttKKrPrKvM5uN3Mx69) | [Josh Fudge](https://open.spotify.com/artist/6FvkNLhuBDTYfqbl6PV0xp) | ['98 NISSAN](https://open.spotify.com/album/3QfGua1rhcFaoMQdKgJPCS) | 2:07 | 2022-09-17 |  |
+| ['98 NISSAN](https://open.spotify.com/track/566uttKKrPrKvM5uN3Mx69) | [Josh Fudge](https://open.spotify.com/artist/6FvkNLhuBDTYfqbl6PV0xp) | ['98 NISSAN](https://open.spotify.com/album/3QfGua1rhcFaoMQdKgJPCS) | 2:07 | 2022-09-17 | 2022-09-21 |
 | [10 Feet Tall](https://open.spotify.com/track/4mDCYTQSPokYUZ6DnOH0zp) | [bb sway](https://open.spotify.com/artist/5EszOYdmBVD4jD0vbyKyMz) | [10 Feet Tall](https://open.spotify.com/album/5jcapL4CDqhgDuvDtRWPn5) | 1:58 | 2021-06-25 | 2022-04-29 |
 | [5:32pm](https://open.spotify.com/track/7qrBYrivpvfXUPBMmqh3dA) | [The Deli](https://open.spotify.com/artist/1EJzWKVDeysgbyuZGfEFde) | [Vibes 2](https://open.spotify.com/album/5GlqARIKJdOkuXKgvdouwz) | 2:16 | 2021-06-08 | 2022-04-20 |
 | [\[oops\]](https://open.spotify.com/track/7JgZbix8xDasAhbn3N7eIF) | [potsu](https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA) | [\[oops\]](https://open.spotify.com/album/5bVU9WsKLocZOukajEMk3V) | 2:22 | 2021-06-08 | 2022-04-21 |
@@ -104,6 +104,7 @@
 | [haunt me \(x 3\)](https://open.spotify.com/track/1QUMpZT7HG6sO3RiBu1LAJ) | [Teen Suicide](https://open.spotify.com/artist/2cAvReLDmjFQtCJFDJbHBU) | [dc snuff film / waste yrself](https://open.spotify.com/album/1QMZJabCAFTaiuq4toibdt) | 2:45 | 2022-07-08 |  |
 | [Hello?](https://open.spotify.com/track/7qwt4xUIqQWCu1DJf96g2k) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag), [Rejjie Snow](https://open.spotify.com/artist/3lLHpTOJ11tWiUNGYN14gt) | [diary 001](https://open.spotify.com/album/3NEDQmYF1roygFssVEwkwv) | 2:15 | 2021-06-08 | 2022-07-29 |
 | [Her](https://open.spotify.com/track/4kVmLlBnLcfXIZIIhq3VUq) | [eery](https://open.spotify.com/artist/2nu6ZVLgiNcRcWgDKUjplH) | [Her](https://open.spotify.com/album/57OXg20mVGA8SMpNcee8OV) | 2:03 | 2021-06-08 | 2022-04-15 |
+| [Here With Me](https://open.spotify.com/track/4U4h7WNNyvhpdaDgHSdD4j) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Here With Me](https://open.spotify.com/album/1HPTbRqv30KYao7mpuZ6dm) | 4:02 | 2022-09-09 |  |
 | [High](https://open.spotify.com/track/1Azvp5Y5rOiFBPLXlOxGfy) | [Cafuné](https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu) | [High](https://open.spotify.com/album/5Nb5lpQAmZqoUNvCjiQIr9) | 3:37 | 2021-07-23 | 2022-07-29 |
 | [Homage](https://open.spotify.com/track/7DcJ6fEBb7BaKuYKTwiDxK) | [Mild High Club](https://open.spotify.com/artist/5J81VungUjSVHxlPpTI9KG) | [Skiptracing](https://open.spotify.com/album/6O9YDn12I4WQxUBQE9tpnN) | 2:57 | 2022-07-19 |  |
 | [Homage](https://open.spotify.com/track/7pegxVesMmE2qK0o58xoFG) | [Mild High Club](https://open.spotify.com/artist/5J81VungUjSVHxlPpTI9KG) | [Skiptracing](https://open.spotify.com/album/1qMDN9zRQreK81cJ9G1hed) | 2:57 | 2021-06-08 | 2022-07-29 |

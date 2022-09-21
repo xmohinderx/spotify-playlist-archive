@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXNFSTtym834.md) - [plain]
 
 > The biggest metal songs of the 2000s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 765,084 likes - 100 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 765,702 likes - 100 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXNFSTtym834.md) - [plain]
 | 24 | [Die MF Die](https://open.spotify.com/track/5bU4KX47KqtDKKaLM4QCzh) | [Dope](https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p) | [Life](https://open.spotify.com/album/7lRvSWMUCTIjkvZQLy4yBx) | 3:06 |
 | 25 | [Break](https://open.spotify.com/track/4urxRqBRiaH0i20OKBsgxc) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [Life Starts Now](https://open.spotify.com/album/0vv1zKShlm7WuawEup5Mf4) | 3:13 |
 | 26 | [Awake](https://open.spotify.com/track/6xXlurslWqFuyqTCBlErzX) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [Awake](https://open.spotify.com/album/4uNwpYU5QyX2u0kkkEFLR4) | 5:04 |
-| 27 | [Boom](https://open.spotify.com/track/5DooySfCD1xCJ49gQm9rx7) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Satellite \(U.S\. Version\)](https://open.spotify.com/album/4eUmncMYQRg0Ot29KKqbuk) | 3:10 |
-| 28 | [Take It Out On Me](https://open.spotify.com/track/1RXoCep9hxApPfx8UFsGZk) | [Thousand Foot Krutch](https://open.spotify.com/artist/6GfiCQDFYANz5wUkSmb3Dr) | [Welcome To The Masquerade \(Fan Edition\)](https://open.spotify.com/album/3fSHF58QvGhJgwOzDPoKDV) | 3:17 |
+| 27 | [Take It Out On Me](https://open.spotify.com/track/1RXoCep9hxApPfx8UFsGZk) | [Thousand Foot Krutch](https://open.spotify.com/artist/6GfiCQDFYANz5wUkSmb3Dr) | [Welcome To The Masquerade \(Fan Edition\)](https://open.spotify.com/album/3fSHF58QvGhJgwOzDPoKDV) | 3:17 |
+| 28 | [Boom](https://open.spotify.com/track/5DooySfCD1xCJ49gQm9rx7) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Satellite \(U.S\. Version\)](https://open.spotify.com/album/4eUmncMYQRg0Ot29KKqbuk) | 3:10 |
 | 29 | [Laid to Rest](https://open.spotify.com/track/1yc53HK08sDab7PDFgnLWk) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Ashes of the Wake \(15th Anniversary\)](https://open.spotify.com/album/3ffdUrEvCQJX6mn2ZTq93m) | 3:50 |
 | 30 | [Unholy Confessions](https://open.spotify.com/track/78XFPcFYN8YFOHjtVwnPsl) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Waking The Fallen](https://open.spotify.com/album/3qyVLEW74vRMvVxNHjwKhk) | 4:43 |
 | 31 | [Too Much, Too Young, Too Fast](https://open.spotify.com/track/2LQbBzrXkgQHnCDUmHjReH) | [Airbourne](https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb) | [Runnin' Wild \(Special Edition\)](https://open.spotify.com/album/0xsxAYE1bJEvQYYZRdotdO) | 3:46 |
@@ -65,21 +65,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXNFSTtym834.md) - [plain]
 | 55 | [Check My Brain](https://open.spotify.com/track/2O2ii9OPZYh1NBXo9FtE0Y) | [Alice In Chains](https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL) | [Black Gives Way To Blue](https://open.spotify.com/album/2vkLky2qG0rziUk0eOsIZ9) | 3:57 |
 | 56 | [Walk with Me In Hell](https://open.spotify.com/track/6vjvewW34Y3UiGQtJokGlY) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Sacrament](https://open.spotify.com/album/1cikCss5SRQLrIAmpyHoVw) | 5:11 |
 | 57 | [Bleed](https://open.spotify.com/track/4E6wpXABj8XosZEPXZz2OK) | [Meshuggah](https://open.spotify.com/artist/3ggwAqZD3lyT2sbovlmfQY) | [ObZen](https://open.spotify.com/album/2x2VoPa1pG2jSElA73a9Xa) | 7:22 |
-| 58 | [Amerika](https://open.spotify.com/track/33ayEZDfgARpadIdqo87JQ) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Reise, Reise](https://open.spotify.com/album/09qHS2BgOLqi3SMkbauxdJ) | 3:46 |
-| 59 | [Carrion](https://open.spotify.com/track/0xfWKcNu13xxXQ2GT0P09M) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Horizons \(Deluxe Edition\)](https://open.spotify.com/album/4GnybptVxP8FoxVfnSjMqM) | 3:07 |
+| 58 | [Carrion](https://open.spotify.com/track/0xfWKcNu13xxXQ2GT0P09M) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Horizons \(Deluxe Edition\)](https://open.spotify.com/album/4GnybptVxP8FoxVfnSjMqM) | 3:07 |
+| 59 | [Amerika](https://open.spotify.com/track/33ayEZDfgARpadIdqo87JQ) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Reise, Reise](https://open.spotify.com/album/09qHS2BgOLqi3SMkbauxdJ) | 3:46 |
 | 60 | [Wait](https://open.spotify.com/track/45R6DmpsaoqLujIn6qPTPH) | [Earshot](https://open.spotify.com/artist/6eeYhqOX2cpsiHY6gVuvPA) | [Two](https://open.spotify.com/album/0LRzUvkIwBzRFDjKCo2cfe) | 3:33 |
 | 61 | [Right In Two](https://open.spotify.com/track/0NLDZzVke3Qu7vDhWyGzRk) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [10,000 Days](https://open.spotify.com/album/1fvWYcbjuycyHpzNPH1Vfk) | 8:55 |
 | 62 | [The Phantom Of The Opera](https://open.spotify.com/track/2WmbbiWfFEKsSZe6E5GeVe) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Century Child](https://open.spotify.com/album/4FFDudC4xBVF6MYJUynRsN) | 4:08 |
 | 63 | [Omerta](https://open.spotify.com/track/4Vb5Y6RQztThqqqFre24wL) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Ashes of the Wake \(15th Anniversary\)](https://open.spotify.com/album/3ffdUrEvCQJX6mn2ZTq93m) | 4:45 |
 | 64 | [Sinner](https://open.spotify.com/track/4AaZtoVREGSOTMzdzLoCGK) | [Drowning Pool](https://open.spotify.com/artist/1E4r4z7ivGUcSAnCbINJ9v) | [Sinner](https://open.spotify.com/album/089oyV5caclve3ap934iRw) | 2:27 |
-| 65 | [Nobody](https://open.spotify.com/track/581mukhDjta60CCwpvnjL9) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Babylon \(Revised Online Music\)](https://open.spotify.com/album/32QHWyKkZykhjHXzgRaZyg) | 3:56 |
-| 66 | [Nemesis](https://open.spotify.com/track/27sTzAelgljD6Uxp88BqA3) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Doomsday Machine](https://open.spotify.com/album/7gesblPNpHD2mhMQyKd6MS) | 4:12 |
+| 65 | [Nemesis](https://open.spotify.com/track/27sTzAelgljD6Uxp88BqA3) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Doomsday Machine](https://open.spotify.com/album/7gesblPNpHD2mhMQyKd6MS) | 4:12 |
+| 66 | [Nobody](https://open.spotify.com/track/581mukhDjta60CCwpvnjL9) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Babylon \(Revised Online Music\)](https://open.spotify.com/album/32QHWyKkZykhjHXzgRaZyg) | 3:56 |
 | 67 | [Guitar Gangsters & Cadillac Blood](https://open.spotify.com/track/5CLQ70QLoefhq3VMfoDl4w) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Guitar Gangsters & Cadillac Blood](https://open.spotify.com/album/4BzHvHsnYTIEmrhh6zLDmt) | 3:08 |
 | 68 | [Linchpin](https://open.spotify.com/track/4qjvr0qMFUo26SxwC4VygS) | [Fear Factory](https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX) | [Digimortal](https://open.spotify.com/album/3BBDp81EDmExUsPDKERVkN) | 3:24 |
 | 69 | [The Day That Never Comes](https://open.spotify.com/track/2gqzkEF88vMclfRZEIOnQO) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Death Magnetic](https://open.spotify.com/album/0lf5ceMub7KQhLfGxCdM06) | 7:56 |
 | 70 | [Guardians Of Asgaard](https://open.spotify.com/track/2DR9AzDhYeStkHupvU08FC) | [Amon Amarth](https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL) | [Twilight Of The Thunder God](https://open.spotify.com/album/3j0GCUTDz53x9Mzl8L1Fwz) | 4:23 |
-| 71 | [Revolution Is My Name](https://open.spotify.com/track/6LhUsJiXAuxoalUz01evh0) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Reinventing the Steel](https://open.spotify.com/album/7sEY94y1wQACVwMgeE62hd) | 5:16 |
-| 72 | [Panic Attack](https://open.spotify.com/track/5axwj3ekvw85989jjO8Ov8) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [Octavarium](https://open.spotify.com/album/4v6kYkn7mYjlWS9vONmmCP) | 8:13 |
+| 71 | [Panic Attack](https://open.spotify.com/track/5axwj3ekvw85989jjO8Ov8) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [Octavarium](https://open.spotify.com/album/4v6kYkn7mYjlWS9vONmmCP) | 8:13 |
+| 72 | [Revolution Is My Name](https://open.spotify.com/track/6LhUsJiXAuxoalUz01evh0) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Reinventing the Steel](https://open.spotify.com/album/7sEY94y1wQACVwMgeE62hd) | 5:16 |
 | 73 | [Sad Man's Tongue](https://open.spotify.com/track/7BbrlQk1YHVjHVyoGEpDV2) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Rock The Rebel / Metal The Devil](https://open.spotify.com/album/14MqYITYLVQ8LJcWwvJEcy) | 3:05 |
 | 74 | [Murmaider](https://open.spotify.com/track/5ghMfHMHakVS0omjj2cBSA) | [Metalocalypse: Dethklok](https://open.spotify.com/artist/7u12AuhJ5AaJIgZAZe0US8) | [The Dethalbum](https://open.spotify.com/album/6YVSzU89AisNDfVK4HUt69) | 3:24 |
 | 75 | [Blacklist](https://open.spotify.com/track/3iUJrkMilUVkUKtYZK7Th4) | [Exodus](https://open.spotify.com/artist/76S65NHJHrNy4JTrXHP2BH) | [Tempo of the Damned](https://open.spotify.com/album/3sNPwtcV7Xv9CixCk0PpqP) | 6:16 |
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXNFSTtym834.md) - [plain]
 | 89 | [Destroy Everything](https://open.spotify.com/track/501CSzS4gwNOJnlWHuBt9r) | [Hatebreed](https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV) | [Supremacy](https://open.spotify.com/album/3EYFN0Qx0TMeJwSVgWO1ky) | 3:29 |
 | 90 | [Distortion Sleep](https://open.spotify.com/track/3yPQrLnNIthn4I5wQ51X26) | [Soilwork](https://open.spotify.com/artist/7wqP36o9lqWteOCxBnXlwx) | [Figure Number Five](https://open.spotify.com/album/6n86brHTe54lipUckY9InO) | 3:45 |
 | 91 | [Angels](https://open.spotify.com/track/4QWLhGVitrCCysR3ugX9Xw) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Silent Force](https://open.spotify.com/album/1sxSd1h4vEICnl5Q3scnGI) | 4:00 |
-| 92 | [Ghostriders in the Sky](https://open.spotify.com/track/3D9X47VTRPVT6aAuK7bPvf) | [Die Apokalyptischen Reiter](https://open.spotify.com/artist/04L8hbMJRQ5vFnLeDgA8xn) | [Friede sei mit Dir](https://open.spotify.com/album/235X3eQimRVyGnP71WBT5a) | 3:31 |
-| 93 | [Lay Down](https://open.spotify.com/track/4ltXPf327ewFdmTPp5Skow) | [Priestess](https://open.spotify.com/artist/3RxjSLIz5osqOhGarH9lFV) | [Hello Master](https://open.spotify.com/album/7xKeRnOx2c7Ul0rkQcEzD2) | 3:05 |
+| 92 | [Lay Down](https://open.spotify.com/track/4ltXPf327ewFdmTPp5Skow) | [Priestess](https://open.spotify.com/artist/3RxjSLIz5osqOhGarH9lFV) | [Hello Master](https://open.spotify.com/album/7xKeRnOx2c7Ul0rkQcEzD2) | 3:05 |
+| 93 | [Ghostriders in the Sky](https://open.spotify.com/track/3D9X47VTRPVT6aAuK7bPvf) | [Die Apokalyptischen Reiter](https://open.spotify.com/artist/04L8hbMJRQ5vFnLeDgA8xn) | [Friede sei mit Dir](https://open.spotify.com/album/235X3eQimRVyGnP71WBT5a) | 3:31 |
 | 94 | [South Texas Deathride](https://open.spotify.com/track/4DenxoUslmyLJB5vzurCBD) | [The Union Underground](https://open.spotify.com/artist/54akiBa0DkNM3qkhnGRflb) | [...An Education In Rebellion](https://open.spotify.com/album/5owwvzRpYAdnhc2Xe8aq76) | 3:24 |
 | 95 | [Enjoy the Silence \- cover version](https://open.spotify.com/track/71KtwiEpzcn9WxwlaS7ZJY) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Karmacode](https://open.spotify.com/album/7rMen6gw9hrmDuZNH1iUfT) | 4:05 |
 | 96 | [I Am Loco](https://open.spotify.com/track/3jmelhU4kuytaLPLeiAerH) | [Ill Niño](https://open.spotify.com/artist/1xJ6l1VXgGuyZ0uhu27caF) | [Revolution Revolucion](https://open.spotify.com/album/4IrzBBK9aFlpjtcdi9lAVJ) | 3:30 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXNFSTtym834.md) - [plain]
 | 99 | [Angel](https://open.spotify.com/track/0HSqXHUdHUbDjWxYIClohv) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Angel Of Retribution](https://open.spotify.com/album/12rTdEhRhwPpV0XJvZW9u1) | 4:24 |
 | 100 | [Fall Into Sleep](https://open.spotify.com/track/0UvuqCD6ktYwIW97Pn4p2o) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [Lost and Found](https://open.spotify.com/album/0dCRu5tVhx9fvbVZSxfjfP) | 3:51 |
 
-Snapshot ID: `MTY2MDI0NjUwMiwwMDAwMDAwMGM5N2EwMzQxYTFlMzllODE4NTBmMTZkOTE0ZTBlYThi`
+Snapshot ID: `MTY2MDI0NjUwMiwwMDAwMDAwMGI4ZjcwZmYzOTBjZGYyMTU0ZDJjNWQxMTdlMGNkZDY0`

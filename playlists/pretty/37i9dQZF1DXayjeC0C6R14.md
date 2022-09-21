@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayjeC0C6R14.md) - [plain]
 
 > Canciones de rock dignas de festival para dedicarle a tu media naranja.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,794 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,834 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayjeC0C6R14.md) - [plain]
 | 39 | [Viviré para Ti](https://open.spotify.com/track/2urjF7QhprjmNRK2aqLnxE) | [Los Amigos Invisibles](https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN) | [Commercial](https://open.spotify.com/album/2LjbDdADARNuV39Dxz9ISb) | 3:27 |
 | 40 | [Es Por Amor](https://open.spotify.com/track/7cwtDwkH0PHHQmfbkZM8Ox) | [GIT](https://open.spotify.com/artist/21o0KNjooi1XjygW6V70NM) | [GIT, El Album](https://open.spotify.com/album/7Hg6EdwBShAdwAfUy4fFDN) | 5:13 |
 | 41 | [Sol de Medianoche](https://open.spotify.com/track/5IZ0g6oo8OUa6fP1zBQpWB) | [Salon Victoria](https://open.spotify.com/artist/1xOtUH3e7hrO0nJesm68Ea) | [Locos y Rucas In Retro](https://open.spotify.com/album/3OEHH1ixOYMH6NKkLmxRmI) | 4:10 |
-| 42 | [Cenit Acústico](https://open.spotify.com/track/0rHLMqXVjJlfV7GrHujBvl) | [La Castañeda](https://open.spotify.com/artist/7fFzUTQmuK6dcxov1opn5Q) | [Trance](https://open.spotify.com/album/3aHa7uq45Sob1hGiKAiwxi) | 4:29 |
-| 43 | [La flaca](https://open.spotify.com/track/0ll9JAIrM3NVBOMl45sxSX) | [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [La Flaca](https://open.spotify.com/album/1O5kJTerozuI2WLgzvIz2m) | 4:21 |
+| 42 | [La flaca](https://open.spotify.com/track/0ll9JAIrM3NVBOMl45sxSX) | [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [La Flaca](https://open.spotify.com/album/1O5kJTerozuI2WLgzvIz2m) | 4:21 |
+| 43 | [Cenit Acústico](https://open.spotify.com/track/0rHLMqXVjJlfV7GrHujBvl) | [La Castañeda](https://open.spotify.com/artist/7fFzUTQmuK6dcxov1opn5Q) | [Trance](https://open.spotify.com/album/3aHa7uq45Sob1hGiKAiwxi) | 4:29 |
 | 44 | [Te Vas a Acordar de Mí](https://open.spotify.com/track/1kaLpH5uG4l7RbLKYU7bF5) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Rock En Español \- Lo Mejor De Tex Tex](https://open.spotify.com/album/3Sx5ggdxFDZxsn3Y6IjmhG) | 3:22 |
 | 45 | [Tu Que Pediras](https://open.spotify.com/track/43rvPyr8S3YGjE61efRlrw) | [Maskatesta](https://open.spotify.com/artist/7IyBMp52r2T01C39t27vrE) | [The Maskatonians All Stars And Friends](https://open.spotify.com/album/369qblMdVKisn6er3exhcw) | 3:44 |
 | 46 | [Soun Tha Mi Primer Amor \- Remastered](https://open.spotify.com/track/1ABzvnkHLpLaIN7VlB00LJ) | [Kinky](https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv) | [Kinky \(Remastered\)](https://open.spotify.com/album/0EuvehvpSxGl1Q3GJ0p6pI) | 3:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayjeC0C6R14.md) - [plain]
 | 49 | [Llamame, Si Me Necesitas](https://open.spotify.com/track/42HQLzOUKwStGDTNlX0DzY) | [Miguel Mateos \- Zas](https://open.spotify.com/artist/3YG18nhGaJkR1F6VpcnSG6) | [Solos en América](https://open.spotify.com/album/2xuIhYMc9jjZDUynjd64RM) | 4:29 |
 | 50 | [El Oasis](https://open.spotify.com/track/0QnqvWRqa5SGHBw1F8EFgM) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [No Es Lo Que Parece](https://open.spotify.com/album/3zSpK9IRrUvX96rTL5tmzC) | 3:47 |
 
-Snapshot ID: `MTY2MDA2NTUzNywwMDAwMDAwMDk4NGMzNzJkOTViYTJjZThlMTZiYzE5YzljN2RmMjFk`
+Snapshot ID: `MTY2MDA2NTUzNywwMDAwMDAwMDlkMDAyM2Y1MGFlZDYyMjA2YjhkYjZjZDJjMjAxNGNh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 
 > The wave of Latinos in Hip\-Hop in the U.S\. Cover: MoneySign Suede
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,749 likes - 80 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,802 likes - 80 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 59 | [Double Up](https://open.spotify.com/track/3bINLdpXM79obFwY6pESAS) | [xBValentine](https://open.spotify.com/artist/4THqvMsBc72amqxSB45LDu), [Krystall Poppin](https://open.spotify.com/artist/3DIquQWs6ZlFAKdahiPCwC) | [Double Up](https://open.spotify.com/album/60fjnVP2cNnusvwPSMpF4c) | 2:15 |
 | 60 | [No Chaser](https://open.spotify.com/track/0W2WjKSYqPVSeIcuQGdzEA) | [Reverie](https://open.spotify.com/artist/4K2C6TgREygMW8xo4jymq4) | [No Chaser](https://open.spotify.com/album/5yQQE5vCl9jre6OgS0WTv1) | 2:51 |
 | 61 | [Smile Now](https://open.spotify.com/track/5aEOxRLzokgAREPRH3MHLJ) | [Young Drummer Boy](https://open.spotify.com/artist/29AiXKmv12zkDsiVwzTDng) | [Smile Now](https://open.spotify.com/album/7FmKk2Wwe2kzpnd4daiQNU) | 2:50 |
-| 62 | [Preguntas \(feat\. D Smoke\)](https://open.spotify.com/track/6hxCLo1NKmkjGQ1KWekm14) | [Swifty Blue](https://open.spotify.com/artist/68CRxZTAqk19AznItZInip), [D Smoke](https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo) | [Preguntas \(feat\. D Smoke\)](https://open.spotify.com/album/7tzB7azJJSUd3xlvad2EFn) | 3:01 |
-| 63 | [SPIDERCAT](https://open.spotify.com/track/5GIGqDAFJSF6sNS0bcgJh9) | [Speak](https://open.spotify.com/artist/6Ka6HfvQhsltXZAFT1bYbQ) | [SPIDERCAT](https://open.spotify.com/album/6ifUeYWmhKyZ4VsQdLcIer) | 1:42 |
+| 62 | [SPIDERCAT](https://open.spotify.com/track/5GIGqDAFJSF6sNS0bcgJh9) | [Speak](https://open.spotify.com/artist/6Ka6HfvQhsltXZAFT1bYbQ) | [SPIDERCAT](https://open.spotify.com/album/6ifUeYWmhKyZ4VsQdLcIer) | 1:42 |
+| 63 | [Preguntas \(feat\. D Smoke\)](https://open.spotify.com/track/6hxCLo1NKmkjGQ1KWekm14) | [Swifty Blue](https://open.spotify.com/artist/68CRxZTAqk19AznItZInip), [D Smoke](https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo) | [Preguntas \(feat\. D Smoke\)](https://open.spotify.com/album/7tzB7azJJSUd3xlvad2EFn) | 3:01 |
 | 64 | [Palo De Santo](https://open.spotify.com/track/0AjJKyp4VFSU2PFNYdLea6) | [Bodega Bamz](https://open.spotify.com/artist/6tIgdyPfc6RVQJKCDd9ep9) | [Vivir...](https://open.spotify.com/album/4KrXrRKvWfkWHxmZfAKUdM) | 2:15 |
 | 65 | [From The Gravel](https://open.spotify.com/track/1EWWs7U6CLe8vjeuat3SZa) | [GT Garza](https://open.spotify.com/artist/7tycJ8FDKH2GES20CnUa4D) | [From The Gravel](https://open.spotify.com/album/0WBrhO81a18zVvSYbCSbqo) | 1:57 |
 | 66 | [El Idolo](https://open.spotify.com/track/7DV8CSr1u4KyKJq6tT6aEp) | [Doeman](https://open.spotify.com/artist/3AtopDTFDEWifbVQOUWz5F) | [El Idolo](https://open.spotify.com/album/5iYKrxXHkXQv4aStyC6qdn) | 2:08 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 79 | [100 bars](https://open.spotify.com/track/71r7LCCewLhjx9eCNol4UB) | [Doeboi909](https://open.spotify.com/artist/1fEMhYVIObipE7MEYEoZvG) | [100 bars](https://open.spotify.com/album/4mZtzr9g4MZYOb9ZlzuKDz) | 5:21 |
 | 80 | [Comments](https://open.spotify.com/track/1zGKorpWn3tLAVkl8DlxNs) | [Trap Baby](https://open.spotify.com/artist/0WCPeSs3xF97qN4rUFZrBZ), [Eddy Bands](https://open.spotify.com/artist/1DKsbpdYjzDWew1ZCSTtUj) | [Comments](https://open.spotify.com/album/4fmnaHAf2qPRVduaNQssnX) | 1:58 |
 
-Snapshot ID: `MTY2Mjg2MjAxMiwwMDAwMDAwMDhjNTJhNjllNDY0ZWUzZDM3M2JkOTMyNDhhMmQzZTA4`
+Snapshot ID: `MTY2Mjg2MjAxMiwwMDAwMDAwMDJhYjRkNTE4ZTY5MjU0NmM4NDEwOGQ1NTEwYTM5YWE1`

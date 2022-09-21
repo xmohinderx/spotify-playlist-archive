@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MTlMMRl0MD.md) - [plain]
 
 > Tu lista favorita de Bachata ❤️ Cover: Becky G & Daviles de Novelda
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,847,857 likes - 100 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,848,017 likes - 100 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,10 +52,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MTlMMRl0MD.md) - [plain]
 | 42 | [Amorcito Enfermito](https://open.spotify.com/track/2colCrVYpDalL5Oc0NkfaK) | [Héctor Acosta "El Torito"](https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn) | [Merengue y Sentimiento](https://open.spotify.com/album/1sICskXqVMRys1f0AKqyBS) | 3:50 |
 | 43 | [Ven Tú](https://open.spotify.com/track/0weK7Rpf3QwOPqTBJM4Hau) | [Domenic Marte](https://open.spotify.com/artist/7EXwl78TqHmZ78cV3sc37C) | [Intimamente](https://open.spotify.com/album/37z6UCsiMV6Mk6p7kwmDKD) | 4:50 |
 | 44 | [La Mejor De Todas](https://open.spotify.com/track/5vTIuHaFWnKLB28oLaRClm) | [Zacarias Ferreira](https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o) | [Quiero Ser Tu Amor](https://open.spotify.com/album/7vSqNkK9usdG1GEkxUuA16) | 3:39 |
-| 45 | [Vagabundo, Borracho y Loco](https://open.spotify.com/track/7HaK3CjawpQc6kKJXAIrcw) | [Kiko Rodriguez](https://open.spotify.com/artist/1YYp1qwJ7EAitFINQ7gOKV) | [Directo Al Corazon](https://open.spotify.com/album/0QzvLqVXEsUWLIAh58WaXM) | 4:29 |
+| 45 | [No Tengo Suerte En El Amor](https://open.spotify.com/track/6Yeiqec7xM5qssOH1FWV1g) | [Yoskar Sarante](https://open.spotify.com/artist/5VcamBo0Goh74iFQDqj6Q4) | [No Es Casualidad](https://open.spotify.com/album/3CFK4hbF6HfIXEpWXJV3CF) | 3:59 |
 | 46 | [El Malo](https://open.spotify.com/track/217bRMES4HVbPdUe8l8ECN) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [The Last](https://open.spotify.com/album/57tmzh0hsnWU8znnvEWJbe) | 3:58 |
 | 47 | [Carita de Inocente \(feat\. Myke Towers\) \- Remix](https://open.spotify.com/track/5kQre7o8ky5DXeEPcyaCR1) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Carita de Inocente \(feat\. Myke Towers\) \[Remix\]](https://open.spotify.com/album/54m2Pe3Khdiarwv2PCS8DY) | 3:12 |
-| 48 | [No Tengo Suerte En El Amor](https://open.spotify.com/track/6Yeiqec7xM5qssOH1FWV1g) | [Yoskar Sarante](https://open.spotify.com/artist/5VcamBo0Goh74iFQDqj6Q4) | [No Es Casualidad](https://open.spotify.com/album/3CFK4hbF6HfIXEpWXJV3CF) | 3:59 |
+| 48 | [Vagabundo, Borracho y Loco](https://open.spotify.com/track/7HaK3CjawpQc6kKJXAIrcw) | [Kiko Rodriguez](https://open.spotify.com/artist/1YYp1qwJ7EAitFINQ7gOKV) | [Directo Al Corazon](https://open.spotify.com/album/0QzvLqVXEsUWLIAh58WaXM) | 4:29 |
 | 49 | [Morire Bebiendo](https://open.spotify.com/track/5MghSaEvkfuqDJLhRdY30o) | [Teodoro Reyes](https://open.spotify.com/artist/2ElpWA67jmhM6LrDav4Jcy) | [Sentimiento](https://open.spotify.com/album/63CBuPOmHd7aaiUk6I1SVo) | 3:14 |
 | 50 | [Quizás Si, Quizás No](https://open.spotify.com/track/1AOnpCTCVLY7fAHvyC3VFX) | [Los Toros Band](https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA) | [...A Pasito Lento!](https://open.spotify.com/album/6ZUZsOI1nnt0gts7ia3sH1) | 4:32 |
 | 51 | [Veterana](https://open.spotify.com/track/1Gxr5RquVDikoWOruiAdPh) | [Elvis Martinez](https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Veterana](https://open.spotify.com/album/0FscLw84kogJ9EUVNTc65A) | 3:14 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MTlMMRl0MD.md) - [plain]
 | 99 | [Hablamos En La Cama](https://open.spotify.com/track/6XsjNIGOFhgcyHDDAxieUi) | [Raulin Rodriguez](https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5) | [Hablamos En La Cama](https://open.spotify.com/album/2U6skaTPCGdtHbpAfb8Bap) | 4:00 |
 | 100 | [Basta Ya](https://open.spotify.com/track/1fZTUzfem9MbLOHhEDZ3j8) | [Bori](https://open.spotify.com/artist/2Oe9eh730bCc6KpqVo4ugt) | [Basta Ya](https://open.spotify.com/album/2qppsInoGGeryeIZtv5pGu) | 3:05 |
 
-Snapshot ID: `MTY2MzMwMDgwMCwwMDAwMDAwMDkwM2JmNDJmODQyYWFiNDAzNWM1ZTI1MDk2MWYzYTk2`
+Snapshot ID: `MTY2MzMwMDgwMCwwMDAwMDAwMGNkZjJkMGI2NTUwZWViNjU3ZTZhYjcwZGY0ODY4MmI5`

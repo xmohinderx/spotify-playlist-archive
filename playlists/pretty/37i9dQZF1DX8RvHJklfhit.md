@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RvHJklfhit.md) - [plain]
 
 > Your favorite Latin Indie Classics\. Cover: Salt Cathedral, Ximena Sariñana
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,265 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,308 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RvHJklfhit.md) - [plain]
 | 24 | [Unbothered](https://open.spotify.com/track/4p1Er46wDz4zGQI7Sxor3W) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Unbothered](https://open.spotify.com/album/4FFxpvJlrYnJeOhcCIawKr) | 2:04 |
 | 25 | [Friends](https://open.spotify.com/track/50efMyG2rMRQZ755G5iYMN) | [Los Retros](https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG) | [Friends](https://open.spotify.com/album/4JOcTTsqOx4g1G0U3lnt9m) | 2:39 |
 | 26 | [Barefoot In The Park \(feat\. ROSALÍA\)](https://open.spotify.com/track/3onYsieuDICdVt5ULZSExF) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Assume Form](https://open.spotify.com/album/23dKNZpiadggKHrQgHLi3L) | 3:31 |
-| 27 | [Black Lipstick](https://open.spotify.com/track/2wsW7FXHByxfP6Qzwf4iaj) | [Chicano Batman](https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN) | [Black Lipstick](https://open.spotify.com/album/7hedlsiDZmoOdynJeOqGbs) | 3:49 |
-| 28 | [Lo Mejor, Lo Peor](https://open.spotify.com/track/7llSV9mWATUeGNxJMik2Vg) | [Okills](https://open.spotify.com/artist/5byIHYV7DDUKtHPAMyf3lA) | [América Supersónica](https://open.spotify.com/album/1nn6tjn1aqYGHkgEHejfb0) | 3:43 |
+| 27 | [Lo Mejor, Lo Peor](https://open.spotify.com/track/7llSV9mWATUeGNxJMik2Vg) | [Okills](https://open.spotify.com/artist/5byIHYV7DDUKtHPAMyf3lA) | [América Supersónica](https://open.spotify.com/album/1nn6tjn1aqYGHkgEHejfb0) | 3:43 |
+| 28 | [Black Lipstick](https://open.spotify.com/track/2wsW7FXHByxfP6Qzwf4iaj) | [Chicano Batman](https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN) | [Black Lipstick](https://open.spotify.com/album/7hedlsiDZmoOdynJeOqGbs) | 3:49 |
 | 29 | [De Momento Abril](https://open.spotify.com/track/1kjJLQhV2NDCWCf0ParWAJ) | [La Bien Querida](https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6) | [Romancero](https://open.spotify.com/album/2j0j5klhosKvan6uYCUaoZ) | 3:04 |
 | 30 | [Acicálame](https://open.spotify.com/track/5Ew6ieSRFMoGZlF3rWtDNM) | [Tessa Ia](https://open.spotify.com/artist/2Bo0gW1bqWSjD27xOcVtjg) | [Correspondencia](https://open.spotify.com/album/1AYrH8rgkrGL2MBZZiaCSa) | 3:22 |
 | 31 | [1977](https://open.spotify.com/track/7tOAN6w4a1LD0iqkRnIrhZ) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [1977](https://open.spotify.com/album/3ZhTbUZNobDXuzcYWGzxA3) | 3:21 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RvHJklfhit.md) - [plain]
 | 48 | [Nydia](https://open.spotify.com/track/7ukQ49ilGpTfivGRtYda4E) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Regresa](https://open.spotify.com/album/18xOW1VhQWVgnQH9CGi9Rp) | 4:13 |
 | 49 | [Mi Fábrica de Baile](https://open.spotify.com/track/2n5CQoGVbKyiVyA0AabeZH) | [Joe Crepúsculo](https://open.spotify.com/artist/34SgyDEDqVlahIQRDttgCn) | [Baile de Magos](https://open.spotify.com/album/07GEY91tPdA08EVlRmqQ1f) | 4:25 |
 | 50 | [Kamikaze](https://open.spotify.com/track/18eZc40EneLmStYEy3cLBP) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Kamikaze](https://open.spotify.com/album/6LXh08HxqIquqWttoIHInn) | 3:30 |
-| 51 | [Ejercicio \#16 \- Remastered](https://open.spotify.com/track/1zIEjkEd2awwjVTxqPPecY) | [Kinky](https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv) | [Kinky \(Remastered\)](https://open.spotify.com/album/0EuvehvpSxGl1Q3GJ0p6pI) | 4:21 |
-| 52 | [Nubes](https://open.spotify.com/track/0btkyN6uJvHFdRxlVrUaJv) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [Nubes](https://open.spotify.com/album/1k9UpjPJHSvjCPIoeGRPgR) | 2:54 |
+| 51 | [Nubes](https://open.spotify.com/track/0btkyN6uJvHFdRxlVrUaJv) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [Nubes](https://open.spotify.com/album/1k9UpjPJHSvjCPIoeGRPgR) | 2:54 |
+| 52 | [Ejercicio \#16 \- Remastered](https://open.spotify.com/track/1zIEjkEd2awwjVTxqPPecY) | [Kinky](https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv) | [Kinky \(Remastered\)](https://open.spotify.com/album/0EuvehvpSxGl1Q3GJ0p6pI) | 4:21 |
 | 53 | [Cuidado](https://open.spotify.com/track/5IZC2HQDKPhVkpAotDJBHM) | [La Santa Cecilia](https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v) | [José José, Un Tributo 1 & 2](https://open.spotify.com/album/103zw9Qm9BRCdlb3mYsBOl) | 4:02 |
 | 54 | [Bailar Bien, Bailar Mal](https://open.spotify.com/track/669xNVrjraLRBLrVBf7sUU) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM), [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [GP](https://open.spotify.com/album/6f6ZV6dYzZVJTvvxhd1Y0t) | 3:45 |
 | 55 | [Cursis Melodías](https://open.spotify.com/track/76CdSwtagY9xOJ86tF8z7q) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [HU HU HU](https://open.spotify.com/album/7wr357GNp9CgeJRUfpX7hf) | 4:27 |
@@ -71,12 +71,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RvHJklfhit.md) - [plain]
 | 61 | [Despues De Almuerzo Parte 3](https://open.spotify.com/track/4vFmMHwyLzIJ9GCY7yPiiJ) | [Bitman & Roban](https://open.spotify.com/artist/5pNASbHJBVikbxzyXziGTe) | [Musica Para Despues De Almuerzo](https://open.spotify.com/album/1exvDLSiFL6TncjgMrkOAP) | 3:15 |
 | 62 | [Inercia](https://open.spotify.com/track/6QLvtmaZbRgbaUmFtnbor5) | [MKRNI](https://open.spotify.com/artist/1X3EisQbC1AnVLw8I9zvFp) | [Canciones](https://open.spotify.com/album/77vCDDC5hVzCzZBlE6sOeR) | 3:54 |
 | 63 | [Holy Soul](https://open.spotify.com/track/3iRIduYS85sZeCE66yPODE) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP) | [Oom Velt](https://open.spotify.com/album/0SfbuytTzmQDEsN3mj2sM1) | 3:21 |
-| 64 | [Uno Dos \(feat\. Jaden Smith\)](https://open.spotify.com/track/4izDoelJ5qRHICeE8iHx07) | [¿Téo?](https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u), [Jaden Smith](https://open.spotify.com/artist/4vDSXzhxGtPJVnMvnzSZW4) | [Uno Dos \(feat\. Jaden Smith\)](https://open.spotify.com/album/4YlvH07cfWhWO5UB3r2pF1) | 2:50 |
-| 65 | [Ya Yo Sé](https://open.spotify.com/track/13Bi9eUCVZzp3X7453V2TY) | [Chico Mann](https://open.spotify.com/artist/2Wt6Q6ZHygCPVtMO3uxLGB) | [Analog Drift](https://open.spotify.com/album/6HrF56kOsMzQPQOZPUk5TY) | 4:32 |
+| 64 | [Ya Yo Sé](https://open.spotify.com/track/13Bi9eUCVZzp3X7453V2TY) | [Chico Mann](https://open.spotify.com/artist/2Wt6Q6ZHygCPVtMO3uxLGB) | [Analog Drift](https://open.spotify.com/album/6HrF56kOsMzQPQOZPUk5TY) | 4:32 |
+| 65 | [Uno Dos \(feat\. Jaden Smith\)](https://open.spotify.com/track/4izDoelJ5qRHICeE8iHx07) | [¿Téo?](https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u), [Jaden Smith](https://open.spotify.com/artist/4vDSXzhxGtPJVnMvnzSZW4) | [Uno Dos \(feat\. Jaden Smith\)](https://open.spotify.com/album/4YlvH07cfWhWO5UB3r2pF1) | 2:50 |
 | 66 | [Love Is A Drug](https://open.spotify.com/track/1e5CWa6Yz7z5J03kTXTDYt) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [I'm Your Empress Of](https://open.spotify.com/album/3gNGH714VLr6yBudbh4i2Z) | 2:40 |
 | 67 | [Gala](https://open.spotify.com/track/7wjqeF0W8zJcGJJtzRjKCG) | [424](https://open.spotify.com/artist/2GDqxAIoVhLMmtFP0NrUlA) | [Oro](https://open.spotify.com/album/1jpcKriEgL87byZ2wUY3Bs) | 3:09 |
-| 68 | [Toca Madera](https://open.spotify.com/track/3uuFWFeuJR3srECmr6BdfK) | [Los Wálters](https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY) | [\#ponteelcasco](https://open.spotify.com/album/7mqkMdFTDiwvchm99McUV6) | 4:12 |
-| 69 | [En Mis Genes](https://open.spotify.com/track/09kFUWzSztmpz03eTLg7AW) | [Protistas](https://open.spotify.com/artist/7H1x26DjjmPhCysVsGRrXf) | [Nefertiti](https://open.spotify.com/album/59tvBGzOUu23RyiPwqXlOh) | 4:02 |
+| 68 | [En Mis Genes](https://open.spotify.com/track/09kFUWzSztmpz03eTLg7AW) | [Protistas](https://open.spotify.com/artist/7H1x26DjjmPhCysVsGRrXf) | [Nefertiti](https://open.spotify.com/album/59tvBGzOUu23RyiPwqXlOh) | 4:02 |
+| 69 | [Toca Madera](https://open.spotify.com/track/3uuFWFeuJR3srECmr6BdfK) | [Los Wálters](https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY) | [\#ponteelcasco](https://open.spotify.com/album/7mqkMdFTDiwvchm99McUV6) | 4:12 |
 | 70 | [Dung Ding Dang](https://open.spotify.com/track/5OWxGgdDveGYp0iKvJN4H3) | [Estereomance](https://open.spotify.com/artist/0sPz0BuaI7sSF0mzku6fZd) | [Estereomance](https://open.spotify.com/album/5BLPMwnHHRMq6JhrhjX62T) | 4:15 |
 | 71 | [Sono](https://open.spotify.com/track/5S5KTbGOPuq5ITTz5OYaMl) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [EP I](https://open.spotify.com/album/1vbQgZHGwMm43QNZIrjra1) | 2:17 |
 | 72 | [Help Me](https://open.spotify.com/track/0P0Xmwg81SFY86Fd9PP5Pu) | [Dj Bitman](https://open.spotify.com/artist/7FfKue3foqwcKAUi36xsh9) | [Colour](https://open.spotify.com/album/60Vu18cl9NX9yrRL7ywRLz) | 3:57 |
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RvHJklfhit.md) - [plain]
 | 90 | [Week 4](https://open.spotify.com/track/1FP5gWiRMjw3vfvvbf241v) | [Marrón](https://open.spotify.com/artist/1uC16BtFc6ihhylNzDo4x5) | [Month One](https://open.spotify.com/album/76wb7lJiY2I3doiGroK4YE) | 5:10 |
 | 91 | [Ligera Love](https://open.spotify.com/track/5LBVwUrWdyaM1qHo0v0TEQ) | [Pamela Rodriguez](https://open.spotify.com/artist/0xSlY9GBehjuViqWE1KrMC) | [ReconoceR](https://open.spotify.com/album/6BEwgBFuB3SN9Li2ka5sXu) | 2:27 |
 | 92 | [Internet Blues](https://open.spotify.com/track/3rlxHAv1NgtDhE9lCjK1rI) | [Brika](https://open.spotify.com/artist/3FMbhaYng6VoeCltbwqmtG) | [Every Third Thought](https://open.spotify.com/album/5EkUotvrlGXnq8rdkT1Pju) | 2:49 |
-| 93 | [Play Your Game](https://open.spotify.com/track/24mEoCYvDhCaM3ovAFefY0) | [La Santa Cecilia](https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v) | [La Santa Cecilia](https://open.spotify.com/album/2t2xn54ccuUkLdCHg7OgXo) | 3:03 |
-| 94 | [Si Tú Estás Bien](https://open.spotify.com/track/11PYNHm1VmLN1w6N7AdWyV) | [Tita](https://open.spotify.com/artist/5VUc3B1hoBWWwodjRD8JHp) | [Si Tú Estás Bien](https://open.spotify.com/album/1rNRGzcojz5SXlmCLCDJSa) | 4:23 |
+| 93 | [Si Tú Estás Bien](https://open.spotify.com/track/11PYNHm1VmLN1w6N7AdWyV) | [Tita](https://open.spotify.com/artist/5VUc3B1hoBWWwodjRD8JHp) | [Si Tú Estás Bien](https://open.spotify.com/album/1rNRGzcojz5SXlmCLCDJSa) | 4:23 |
+| 94 | [Play Your Game](https://open.spotify.com/track/24mEoCYvDhCaM3ovAFefY0) | [La Santa Cecilia](https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v) | [La Santa Cecilia](https://open.spotify.com/album/2t2xn54ccuUkLdCHg7OgXo) | 3:03 |
 | 95 | [Drooling](https://open.spotify.com/track/4vqpYgp1FrpyeGleZ1ljhQ) | [Rey Pila](https://open.spotify.com/artist/6rUsAEYBTCzHDa98JsBwtW) | [Drooling](https://open.spotify.com/album/61OtLPiuJrgdCM2pYlqVzu) | 3:39 |
 | 96 | [PARIS](https://open.spotify.com/track/6RxORxiqBquB74RPHTbx0F) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP) | [PARIS](https://open.spotify.com/album/7K5qtRioGQTedUi5FVEyX4) | 3:18 |
 | 97 | [Ghost Lover](https://open.spotify.com/track/1eEgXGEztQqnWha85PCu4k) | [Las Robertas](https://open.spotify.com/artist/6tUZG2qdEyTuJDkTM7WCGp) | [Cry Out Loud](https://open.spotify.com/album/4T7NZYTAtTQFx3y2RTI989) | 2:43 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RvHJklfhit.md) - [plain]
 | 99 | [And Ever.](https://open.spotify.com/track/63dVzBKXxpC3BXU7gf6I37) | [Daniela Garcia](https://open.spotify.com/artist/134p1mQ6nux5QPalFAupOM) | [And Ever.](https://open.spotify.com/album/2Pwz72uGx2J9YkTxf30ETk) | 2:55 |
 | 100 | [Mucho Más](https://open.spotify.com/track/4JOhfm15uy5ETZzfYJfrxS) | [Jackie Mendoza](https://open.spotify.com/artist/2ZIEeX505EvIuA10fNgnHa) | [LuvHz](https://open.spotify.com/album/6yBOev00UB9ZZVaspj00Wb) | 3:05 |
 
-Snapshot ID: `MTY1OTcxNTg5NiwwMDAwMDAwMDIwZjdhNDhiMmIwNTg2ZmRmODBlMmE1NmNiOGY0YThm`
+Snapshot ID: `MTY1OTcxNTg5NiwwMDAwMDAwMGNkNTNjN2YxYjVhODg1MjZjMDlmMzVmMDUxYTAyMTgz`

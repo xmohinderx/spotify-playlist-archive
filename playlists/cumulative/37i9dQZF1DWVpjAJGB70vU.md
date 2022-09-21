@@ -4,7 +4,7 @@
 
 > Country that made country cool! Cover: Vince Gill
 
-179 songs - 10 hr 25 min - [published](https://open.spotify.com/playlist/5IDkbO4ORcphFP9N9pX9l7)
+180 songs - 10 hr 28 min - [published](https://open.spotify.com/playlist/5IDkbO4ORcphFP9N9pX9l7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,7 @@
 | [No One Needs To Know](https://open.spotify.com/track/4vbW5aT9UQGRqEScStQPPy) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [The Woman In Me](https://open.spotify.com/album/3wDeIA9tJU0uNlsroUdcYK) | 3:03 | 2021-10-22 |  |
 | [No Place That Far](https://open.spotify.com/track/0Rg5tIACULED7Jv2sEzWSd) | [Sara Evans](https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG) | [No Place That Far](https://open.spotify.com/album/5lxFK2ZEsfmdS2Yevlj2mU) | 3:37 | 2021-10-22 |  |
 | [Nobody Wins](https://open.spotify.com/track/2A9ERxDfT3sdShrDUtTnaS) | [Radney Foster](https://open.spotify.com/artist/5g9qBduN6VR3dzHA8eCTEW) | [Del Rio, Tx 1959](https://open.spotify.com/album/7240tFVJVFEETt5rSUXfRe) | 3:30 | 2021-10-22 |  |
-| [Not On Your Love](https://open.spotify.com/track/04bs5EpVXhbPkqV9uwOAM9) | [Jeff Carson](https://open.spotify.com/artist/1THO5gJEaoKK9ey0aZbCQE) | [Jeff Carson](https://open.spotify.com/album/5p7xZloaAOpHyHLZI8BUcE) | 3:22 | 2022-03-28 |  |
+| [Not On Your Love](https://open.spotify.com/track/04bs5EpVXhbPkqV9uwOAM9) | [Jeff Carson](https://open.spotify.com/artist/1THO5gJEaoKK9ey0aZbCQE) | [Jeff Carson](https://open.spotify.com/album/5p7xZloaAOpHyHLZI8BUcE) | 3:22 | 2022-03-28 | 2022-09-21 |
 | [One More Last Chance](https://open.spotify.com/track/2h5a6t9JFasqH5WJFPbmGL) | [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo) | [I Still Believe In You](https://open.spotify.com/album/6sp6iOY2DhnS0UAUbdZMfS) | 3:11 | 2021-10-22 |  |
 | [One Way Ticket \(Because I Can\)](https://open.spotify.com/track/0meAc2H0tC5tOTd6MDe0cI) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [Blue](https://open.spotify.com/album/0gHvXXQ36Lz30Romr24rF6) | 3:43 | 2022-07-27 |  |
 | [Only Here For A Little While](https://open.spotify.com/track/6JCKHmZ30oadQW44GzsdNB) | [Billy Dean](https://open.spotify.com/artist/3cMyqwpNT2D8f0WuaRzzZX) | [Young Man](https://open.spotify.com/album/23dwTNazk2yGjtVSMzgxBH) | 3:34 | 2021-10-22 |  |
@@ -150,6 +150,7 @@
 | [Take It Easy \- 2006 Remaster](https://open.spotify.com/track/1UEKaf3j6eXeNbySz761lc) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [The Very Best of Travis Tritt](https://open.spotify.com/album/5ZJ2KF1mLhoWzFhwnzgLXx) | 3:33 | 2021-10-22 |  |
 | [Tall, Tall Trees](https://open.spotify.com/track/0MMdmhfFXpflLBJKq4cdYA) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [The Greatest Hits Collection](https://open.spotify.com/album/0D20LzP7TOZhA18ANU1bid) | 2:27 | 2021-10-22 |  |
 | [Tell Me Why](https://open.spotify.com/track/3Vfj2JGXayXgc0c9J4gJ8m) | [Wynonna](https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1) | [Tell Me Why](https://open.spotify.com/album/0118657h8IVC4b37XaOjBp) | 3:50 | 2021-10-22 |  |
+| [Ten Thousand Angels](https://open.spotify.com/track/1mhPVHjzfJLGird0TFZxmb) | [Mindy McCready](https://open.spotify.com/artist/2uB5sjjJwj4kB6TrRGLYJO) | [Ten Thousand Angels](https://open.spotify.com/album/52a0Dg2pHH0RbwwVFYcl7F) | 3:27 | 2022-08-31 |  |
 | [That Ain't My Truck](https://open.spotify.com/track/7riuy1t0Kt3SRgMtFxX0FR) | [Rhett Akins](https://open.spotify.com/artist/4qivGtDBIkQFLCeduRpi24) | [A Thousand Memories](https://open.spotify.com/album/3dD77M8Lo9Ag3rSvzTD7Kb) | 4:03 | 2021-10-22 |  |
 | [That Don't Impress Me Much](https://open.spotify.com/track/4FUfoWMypAyWbOavmYyeNu) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9) | 3:38 | 2022-07-27 |  |
 | [That's My Story](https://open.spotify.com/track/2dKRyO4cUumqbIXxLkdkoq) | [Collin Raye](https://open.spotify.com/artist/4AwLiAGc1rRLrCepj5rdTI) | [Extremes](https://open.spotify.com/album/49YkFIWw93Fow8H394Ilfo) | 3:02 | 2021-10-22 |  |

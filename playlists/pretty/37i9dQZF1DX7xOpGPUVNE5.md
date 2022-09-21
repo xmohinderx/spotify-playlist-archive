@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7xOpGPUVNE5.md) - [plain]
 
 > Upbeat songs that will get the whole family feelin' good!
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,384 likes - 69 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,399 likes - 69 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7xOpGPUVNE5.md) - [plain]
 | 12 | [The Middle](https://open.spotify.com/track/09IStsImFySgyp0pIQdqAc) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Grey](https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl) | [The Middle](https://open.spotify.com/album/7nEiwcUSwycvC77kZ9ub7c) | 3:04 |
 | 13 | [Don't Stop The Music](https://open.spotify.com/track/0ByMNEPAPpOR5H69DVrTNy) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Good Girl Gone Bad: Reloaded](https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7) | 4:27 |
 | 14 | [Girls Just Want to Have Fun](https://open.spotify.com/track/4y1LsJpmMti1PfRQV9AWWe) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [She's So Unusual](https://open.spotify.com/album/1FvdZ1oizXwF9bxogujoF0) | 3:58 |
-| 15 | [Mamma Mia](https://open.spotify.com/track/2TxCwUlqaOH3TIyJqGgR91) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Abba](https://open.spotify.com/album/1kM6xcSYO5ASJaWgygznL7) | 3:33 |
-| 16 | [Sunday Best](https://open.spotify.com/track/1Cv1YLb4q0RzL6pybtaMLo) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Where the Light Is](https://open.spotify.com/album/3mMWlBGocBwsS1Q0o9wvlc) | 2:38 |
+| 15 | [Sunday Best](https://open.spotify.com/track/1Cv1YLb4q0RzL6pybtaMLo) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Where the Light Is](https://open.spotify.com/album/3mMWlBGocBwsS1Q0o9wvlc) | 2:38 |
+| 16 | [Mamma Mia](https://open.spotify.com/track/2TxCwUlqaOH3TIyJqGgR91) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Abba](https://open.spotify.com/album/1kM6xcSYO5ASJaWgygznL7) | 3:33 |
 | 17 | [Boy With Luv \(feat\. Halsey\)](https://open.spotify.com/track/4a9tbd947vo9K8Vti9JwcI) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [MAP OF THE SOUL : PERSONA](https://open.spotify.com/album/2KqlAl1Kl5fZvbFgJ0qFB6) | 3:49 |
 | 18 | [One More Time](https://open.spotify.com/track/0DiWol3AO6WpXZgp0goxAV) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Discovery](https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc) | 5:20 |
 | 19 | [Party In The U.S.A.](https://open.spotify.com/track/5Q0Nhxo0l2bP3pNjpGJwV1) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [The Time Of Our Lives](https://open.spotify.com/album/64aKkqxc3Ur2LYIKeS5osS) | 3:22 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7xOpGPUVNE5.md) - [plain]
 | 43 | [Land of 1000 Dances](https://open.spotify.com/track/76ICmoJ4PcoMWoooaTxnQs) | [Wilson Pickett](https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE) | [The Exciting Wilson Pickett](https://open.spotify.com/album/3fxWzXNMhTz01uShzMARnm) | 2:26 |
 | 44 | [Electric \- Pokemon 25 Version](https://open.spotify.com/track/63eV5hreY9feQP2CmYavpj) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Electric](https://open.spotify.com/album/2kjyPzcMPYUZlB9CJzu10f) | 3:13 |
 | 45 | [Cloudy Day](https://open.spotify.com/track/4E2rXUbcF1zhZVzNzeVPGV) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Welcome To The Madhouse](https://open.spotify.com/album/5DVaT8HXcp9bbJh7p4dSpf) | 3:05 |
-| 46 | [Shut Up and Dance](https://open.spotify.com/track/0kzw2tRyuL9rzipi5ntlIy) | [WALK THE MOON](https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic) | [TALKING IS HARD \(Expanded Edition\)](https://open.spotify.com/album/2bVVESepVYULITlO6mtmoy) | 3:19 |
-| 47 | [Sunshine \- From the Motion Picture “Ron’s Gone Wrong”](https://open.spotify.com/track/48oN0dm8zwleoUvuLBqIOp) | [Liam Payne](https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6) | [Sunshine \(From the Motion Picture “Ron’s Gone Wrong”\)](https://open.spotify.com/album/3EUNQSlJDx66zBXQFtRXjZ) | 2:44 |
+| 46 | [Sunshine \- From the Motion Picture “Ron’s Gone Wrong”](https://open.spotify.com/track/48oN0dm8zwleoUvuLBqIOp) | [Liam Payne](https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6) | [Sunshine \(From the Motion Picture “Ron’s Gone Wrong”\)](https://open.spotify.com/album/3EUNQSlJDx66zBXQFtRXjZ) | 2:44 |
+| 47 | [Shut Up and Dance](https://open.spotify.com/track/0kzw2tRyuL9rzipi5ntlIy) | [WALK THE MOON](https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic) | [TALKING IS HARD \(Expanded Edition\)](https://open.spotify.com/album/2bVVESepVYULITlO6mtmoy) | 3:19 |
 | 48 | [Cut To The Feeling](https://open.spotify.com/track/6EJiVf7U0p1BBfs0qqeb1f) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Cut To The Feeling](https://open.spotify.com/album/6S9qcfPMsqtYQXVyeC7Hip) | 3:27 |
 | 49 | [Came Here for Love](https://open.spotify.com/track/0mGJTKRIuCOJtiT4YkJHiv) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA) | [Brighter Days](https://open.spotify.com/album/5rr0xAQfk01cPi1N37jX11) | 3:23 |
 | 50 | [Move Your Feet](https://open.spotify.com/track/4jacsL77ZYnpInmTtUBaJW) | [Junior Senior](https://open.spotify.com/artist/7xNPROyVfkH4mcIxxCxySm) | [d\-d\-don't don't stop the beat \(Explicit Content U.S\. Version\)](https://open.spotify.com/album/7xJ6am4jsZw1Bg0S0g0hmI) | 3:01 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7xOpGPUVNE5.md) - [plain]
 | 68 | [Open Windows \(Here I Am\)](https://open.spotify.com/track/6SE7JgJ5mqrKpXw35HY9s6) | [Dan Zanes](https://open.spotify.com/artist/2iYByRd5wrZXBbmTyrISfC), [Claudia Zanes](https://open.spotify.com/artist/1mEDDCiHoa4Win8FuJmAfh), [Dan + Claudia Zanes](https://open.spotify.com/artist/5qcWTB20UyUKLIKYyjcjyn), [Grace Ferrell](https://open.spotify.com/artist/4aOHTqFRakFRaihmHHbK41), [Phillip Ferrell](https://open.spotify.com/artist/02blayLYc4gekywnjMuuFZ), [Amadou Kouyate](https://open.spotify.com/artist/1WLB9ei0uFv9aDdnE2LXpg) | [Let Love Be Your Guide](https://open.spotify.com/album/29YQcKWonRl02h3pypRui6) | 3:51 |
 | 69 | [Let My Rooster Crow](https://open.spotify.com/track/1O4pICQqHPNx5uSgoBD2zk) | [The Happy Racers](https://open.spotify.com/artist/16W82BsAi9twBb2dPWKZRt) | [Let My Rooster Crow](https://open.spotify.com/album/0Ek1rQtRncLXnvTa19r8HM) | 2:37 |
 
-Snapshot ID: `MTY0MzM4OTY4NywwMDAwMDAwMGQ1MzJiNGU0MTU3MzdkZjAxZWU2MDFiNDNlOWQ0MDlm`
+Snapshot ID: `MTY0MzM4OTY4NywwMDAwMDAwMDJiOTgwMGQxZThlZTMxM2Q4NjMxM2YwMzZiZDMyZjhl`

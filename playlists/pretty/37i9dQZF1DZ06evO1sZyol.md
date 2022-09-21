@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1sZyol.md) - [plain]
 
 > This is TOOL\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 340,571 likes - 36 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 340,678 likes - 36 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1sZyol.md) - [plain]
 | 32 | [Intolerance](https://open.spotify.com/track/2cF1W1G0sERJu0Y49tGjnx) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [Undertow](https://open.spotify.com/album/3Esn6LoXuWtLZNYq8FCzr0) | 4:54 |
 | 33 | [Cold And Ugly \- Live](https://open.spotify.com/track/7ajn3mKu2DP8CoqzpHEr1d) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [Opiate](https://open.spotify.com/album/6ZuGioRryrgXjmhdW14jel) | 4:09 |
 | 34 | [Bottom](https://open.spotify.com/track/46XOHK5QfCC83yg5SOGjZk) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [Undertow](https://open.spotify.com/album/3Esn6LoXuWtLZNYq8FCzr0) | 7:13 |
-| 35 | [Part Of Me](https://open.spotify.com/track/2iL5ns7JhMGFSGpfQ3HQ6k) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [Opiate](https://open.spotify.com/album/6ZuGioRryrgXjmhdW14jel) | 3:17 |
-| 36 | [Jerk\-Off \- Live](https://open.spotify.com/track/3jK6mKpZLZSIPZRNCYIm3Q) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [Opiate](https://open.spotify.com/album/6ZuGioRryrgXjmhdW14jel) | 4:25 |
+| 35 | [Jerk\-Off \- Live](https://open.spotify.com/track/3jK6mKpZLZSIPZRNCYIm3Q) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [Opiate](https://open.spotify.com/album/6ZuGioRryrgXjmhdW14jel) | 4:25 |
+| 36 | [Part Of Me](https://open.spotify.com/track/2iL5ns7JhMGFSGpfQ3HQ6k) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [Opiate](https://open.spotify.com/album/6ZuGioRryrgXjmhdW14jel) | 3:17 |
 
-Snapshot ID: `Mjc3MjY1NDUsMDAwMDAwMDAyMTg0ODZiNTZhMGRmMjllODhmYjMwOGE5NTM1MWVmZQ==`
+Snapshot ID: `Mjc3MjgwMzcsMDAwMDAwMDAyYWFjYjVkNDI5YjlkMzM1ZDc5ZjY2NmJjYTE5MTdmZQ==`

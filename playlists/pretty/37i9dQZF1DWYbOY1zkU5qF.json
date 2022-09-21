@@ -1,12 +1,12 @@
 {
   "description": "Versiones ac\u00fasticas de tus canciones favoritas. ",
-  "num_followers": 108220,
+  "num_followers": 108310,
   "original_name": "Covers Ac\u00fasticos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDkxNjI2NywwMDAwMDAwMDNhMjgzYzUyMTE3MTA3NzhjOTM1MzJhNDk4N2RkMWQz",
+  "snapshot_id": "MTY1MDkxNjI2NywwMDAwMDAwMDYwNDk4NTEyMWNmZmVlZmY1NGU1NDZmMjI5YTdjMmVk",
   "tracks": [
     {
       "added_at": "2022-02-18 06:00:00",
@@ -831,26 +831,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Qu\u00e9 Maldici\u00f3n",
-        "url": "https://open.spotify.com/album/2slx4sczbHiZEFALNFW71z"
-      },
-      "artists": [
-        {
-          "name": "Miky Mendozza",
-          "url": "https://open.spotify.com/artist/7iJNYh5D6FchEeryIG87vL"
-        },
-        {
-          "name": "Diego Amoz",
-          "url": "https://open.spotify.com/artist/40eNb3QTIcFoH0ga3LTnlN"
-        }
-      ],
-      "duration_ms": 125354,
-      "name": "Qu\u00e9 Maldici\u00f3n",
-      "url": "https://open.spotify.com/track/3nzQ1oTlpb03DGy5CYk9yT"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "\u00c9chame La Culpa",
         "url": "https://open.spotify.com/album/5zmiQwf0xQI91Yhh65riGr"
       },
@@ -867,6 +847,26 @@
       "duration_ms": 180094,
       "name": "\u00c9chame La Culpa",
       "url": "https://open.spotify.com/track/0qo4ywp67nbYaxI2hRBVts"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Qu\u00e9 Maldici\u00f3n",
+        "url": "https://open.spotify.com/album/2slx4sczbHiZEFALNFW71z"
+      },
+      "artists": [
+        {
+          "name": "Miky Mendozza",
+          "url": "https://open.spotify.com/artist/7iJNYh5D6FchEeryIG87vL"
+        },
+        {
+          "name": "Diego Amoz",
+          "url": "https://open.spotify.com/artist/40eNb3QTIcFoH0ga3LTnlN"
+        }
+      ],
+      "duration_ms": 125354,
+      "name": "Qu\u00e9 Maldici\u00f3n",
+      "url": "https://open.spotify.com/track/3nzQ1oTlpb03DGy5CYk9yT"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -1163,18 +1163,18 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Y Co\u0301mo Es E\u0301l?",
-        "url": "https://open.spotify.com/album/5CmwEq7NdDCZSLtl44Vu90"
+        "name": "Mis Covers, Vol. 3",
+        "url": "https://open.spotify.com/album/3Z5c9YxXkoRBfbPfgMgXsy"
       },
       "artists": [
         {
-          "name": "Nara Gilberto",
-          "url": "https://open.spotify.com/artist/5H8qAk2IBifRhZK1BS8XFs"
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
         }
       ],
-      "duration_ms": 231500,
-      "name": "Y Co\u0301mo Es E\u0301l?",
-      "url": "https://open.spotify.com/track/3sTh8rnycgz4pBRqAd1V9y"
+      "duration_ms": 231910,
+      "name": "Despacito",
+      "url": "https://open.spotify.com/track/0anEuO11FGUN4Y9hDHGuym"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -1215,34 +1215,18 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Mis Covers, Vol. 3",
-        "url": "https://open.spotify.com/album/3Z5c9YxXkoRBfbPfgMgXsy"
+        "name": "Y Co\u0301mo Es E\u0301l?",
+        "url": "https://open.spotify.com/album/5CmwEq7NdDCZSLtl44Vu90"
       },
       "artists": [
         {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+          "name": "Nara Gilberto",
+          "url": "https://open.spotify.com/artist/5H8qAk2IBifRhZK1BS8XFs"
         }
       ],
-      "duration_ms": 231910,
-      "name": "Despacito",
-      "url": "https://open.spotify.com/track/0anEuO11FGUN4Y9hDHGuym"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
-        "name": "Amigos con derechos",
-        "url": "https://open.spotify.com/album/1wrc9RHnvnQRrtjlErc8w2"
-      },
-      "artists": [
-        {
-          "name": "Laura Naranjo",
-          "url": "https://open.spotify.com/artist/3xf1o37bU0ANm6kT3YAlLr"
-        }
-      ],
-      "duration_ms": 160237,
-      "name": "Amigos con derechos",
-      "url": "https://open.spotify.com/track/1HfYMwc523BOgGi6xBIFJX"
+      "duration_ms": 231500,
+      "name": "Y Co\u0301mo Es E\u0301l?",
+      "url": "https://open.spotify.com/track/3sTh8rnycgz4pBRqAd1V9y"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -1263,6 +1247,22 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
+        "name": "Extra\u00f1\u00e1ndote en Cuarentena",
+        "url": "https://open.spotify.com/album/1UfEr0bXeemQhpBacsZRfO"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9sar Avila",
+          "url": "https://open.spotify.com/artist/3rngVMXFqeLP0WFB1ss6J1"
+        }
+      ],
+      "duration_ms": 131500,
+      "name": "Solamente una Vez",
+      "url": "https://open.spotify.com/track/4uqmcATBKbBKN5Tec5I4T1"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
         "name": "Cristina",
         "url": "https://open.spotify.com/album/3nmlWxHwI4xYMeM1AaXR9C"
       },
@@ -1279,18 +1279,18 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Extra\u00f1\u00e1ndote en Cuarentena",
-        "url": "https://open.spotify.com/album/1UfEr0bXeemQhpBacsZRfO"
+        "name": "Amigos con derechos",
+        "url": "https://open.spotify.com/album/1wrc9RHnvnQRrtjlErc8w2"
       },
       "artists": [
         {
-          "name": "C\u00e9sar Avila",
-          "url": "https://open.spotify.com/artist/3rngVMXFqeLP0WFB1ss6J1"
+          "name": "Laura Naranjo",
+          "url": "https://open.spotify.com/artist/3xf1o37bU0ANm6kT3YAlLr"
         }
       ],
-      "duration_ms": 131500,
-      "name": "Solamente una Vez",
-      "url": "https://open.spotify.com/track/4uqmcATBKbBKN5Tec5I4T1"
+      "duration_ms": 160237,
+      "name": "Amigos con derechos",
+      "url": "https://open.spotify.com/track/1HfYMwc523BOgGi6xBIFJX"
     },
     {
       "added_at": "2022-02-18 06:00:00",

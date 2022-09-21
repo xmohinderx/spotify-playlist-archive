@@ -1,12 +1,12 @@
 {
   "description": "Chill. The best indie tracks for just hanging out.",
-  "num_followers": 742959,
+  "num_followers": 743021,
   "original_name": "Indie Chillout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzI2MDEwMSwwMDAwMDAwMGQyZWQ3NDQ0Yzg3ZDYxMDI5ZThiMDc4NmNjMjI4YTM3",
+  "snapshot_id": "MTY2MzI2MDEwMSwwMDAwMDAwMGMzZDVkYjljMmFhM2YxZDgwYmYxYTY1ZjRkYTZhZjVj",
   "tracks": [
     {
       "added_at": "2022-09-02 18:24:30",
@@ -219,22 +219,18 @@
     {
       "added_at": "2022-09-02 18:24:30",
       "album": {
-        "name": "Texas Sun",
-        "url": "https://open.spotify.com/album/4HFO9PDRxsdbcegkcNhxgz"
+        "name": "Immunity",
+        "url": "https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd"
       },
       "artists": [
         {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        },
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
         }
       ],
-      "duration_ms": 252811,
-      "name": "Texas Sun",
-      "url": "https://open.spotify.com/track/24ntSW3QVJzR79lHAAOTaY"
+      "duration_ms": 260519,
+      "name": "Bags",
+      "url": "https://open.spotify.com/track/6UFivO2zqqPFPoQYsEMuCc"
     },
     {
       "added_at": "2022-09-02 18:24:30",
@@ -271,18 +267,22 @@
     {
       "added_at": "2022-09-02 18:24:30",
       "album": {
-        "name": "Immunity",
-        "url": "https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd"
+        "name": "Texas Sun",
+        "url": "https://open.spotify.com/album/4HFO9PDRxsdbcegkcNhxgz"
       },
       "artists": [
         {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        },
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
         }
       ],
-      "duration_ms": 260519,
-      "name": "Bags",
-      "url": "https://open.spotify.com/track/6UFivO2zqqPFPoQYsEMuCc"
+      "duration_ms": 252811,
+      "name": "Texas Sun",
+      "url": "https://open.spotify.com/track/24ntSW3QVJzR79lHAAOTaY"
     },
     {
       "added_at": "2022-09-02 18:24:30",
@@ -767,22 +767,6 @@
     {
       "added_at": "2022-09-02 18:24:30",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4yLdDDVmXRbB5q2hFGac4t"
-      },
-      "artists": [
-        {
-          "name": "Yoke Lore",
-          "url": "https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S"
-        }
-      ],
-      "duration_ms": 190392,
-      "name": "Truly Madly Deeply - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/0ApIlfcdY0hVdVEVUyS2Zf"
-    },
-    {
-      "added_at": "2022-09-02 18:24:30",
-      "album": {
         "name": "Long Lost",
         "url": "https://open.spotify.com/album/5xiePX6kXj5ZsmUsqIqzeD"
       },
@@ -803,6 +787,22 @@
     {
       "added_at": "2022-09-02 18:24:30",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4yLdDDVmXRbB5q2hFGac4t"
+      },
+      "artists": [
+        {
+          "name": "Yoke Lore",
+          "url": "https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S"
+        }
+      ],
+      "duration_ms": 190392,
+      "name": "Truly Madly Deeply - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/0ApIlfcdY0hVdVEVUyS2Zf"
+    },
+    {
+      "added_at": "2022-09-02 18:24:30",
+      "album": {
         "name": "Blood Type",
         "url": "https://open.spotify.com/album/1xpNb3oOnWsZJYQyomLe4Z"
       },
@@ -815,6 +815,22 @@
       "duration_ms": 202597,
       "name": "Cold War",
       "url": "https://open.spotify.com/track/6DwiGVCgXGREeCyJZtX7S1"
+    },
+    {
+      "added_at": "2022-09-02 18:24:30",
+      "album": {
+        "name": "Untourable Album",
+        "url": "https://open.spotify.com/album/7FkJxlcljM6Ix0pC2JSNOE"
+      },
+      "artists": [
+        {
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+        }
+      ],
+      "duration_ms": 176315,
+      "name": "Sugar",
+      "url": "https://open.spotify.com/track/2joEpsXflccZD0ZwKEdz5m"
     },
     {
       "added_at": "2022-09-02 18:24:30",
@@ -847,22 +863,6 @@
       "duration_ms": 208280,
       "name": "Saw You In A Dream",
       "url": "https://open.spotify.com/track/0U3u0HdRQjD8mAMYBak4Ok"
-    },
-    {
-      "added_at": "2022-09-02 18:24:30",
-      "album": {
-        "name": "Untourable Album",
-        "url": "https://open.spotify.com/album/7FkJxlcljM6Ix0pC2JSNOE"
-      },
-      "artists": [
-        {
-          "name": "Men I Trust",
-          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
-        }
-      ],
-      "duration_ms": 176315,
-      "name": "Sugar",
-      "url": "https://open.spotify.com/track/2joEpsXflccZD0ZwKEdz5m"
     },
     {
       "added_at": "2022-09-02 18:24:30",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2022-09-02 18:24:30",
       "album": {
-        "name": "Got Weird",
-        "url": "https://open.spotify.com/album/2NBdHnQrggzuLN3FgeO9Om"
-      },
-      "artists": [
-        {
-          "name": "dodie",
-          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
-        }
-      ],
-      "duration_ms": 202435,
-      "name": "Got Weird",
-      "url": "https://open.spotify.com/track/5z1KeOpL9n1b3iFAJk91iu"
-    },
-    {
-      "added_at": "2022-09-02 18:24:30",
-      "album": {
         "name": "Heart It Races (Cover Version)",
         "url": "https://open.spotify.com/album/5H7DXLYdOFUa0KD62HqCvd"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 231880,
       "name": "Heart It Races - Cover Version",
       "url": "https://open.spotify.com/track/0SyOHG2V9CgMSlebbnyoLJ"
+    },
+    {
+      "added_at": "2022-09-02 18:24:30",
+      "album": {
+        "name": "Got Weird",
+        "url": "https://open.spotify.com/album/2NBdHnQrggzuLN3FgeO9Om"
+      },
+      "artists": [
+        {
+          "name": "dodie",
+          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
+        }
+      ],
+      "duration_ms": 202435,
+      "name": "Got Weird",
+      "url": "https://open.spotify.com/track/5z1KeOpL9n1b3iFAJk91iu"
     },
     {
       "added_at": "2022-09-02 18:24:30",
@@ -1225,24 +1225,20 @@
       "url": "https://open.spotify.com/track/4MfLjVBgqn4e8fBKWJk6sU"
     },
     {
-      "added_at": "2022-09-02 18:24:30",
+      "added_at": "2022-09-15 16:41:41",
       "album": {
-        "name": "Santa Catalina",
-        "url": "https://open.spotify.com/album/6wv8zT8vG5EICl083UHoVm"
+        "name": "Forever Live Sessions",
+        "url": "https://open.spotify.com/album/4p73PcjJvWer7WDYXcGetn"
       },
       "artists": [
         {
-          "name": "Goth Babe",
-          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
-        },
-        {
-          "name": "Blood Cultures",
-          "url": "https://open.spotify.com/artist/1kDqy7SpqyJ7aZi7cqSBis"
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
         }
       ],
-      "duration_ms": 235000,
-      "name": "Driving South",
-      "url": "https://open.spotify.com/track/1Mp50vmIphq9ui2UUJoX3m"
+      "duration_ms": 226363,
+      "name": "I Hope to Be Around (Live)",
+      "url": "https://open.spotify.com/track/1EOC47ETkQCedpxemcJpal"
     }
   ],
   "unique_name": "Indie Chillout",

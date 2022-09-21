@@ -4,7 +4,7 @@
 
 > Il meglio da Napoli e dalla scena campana\. Cover: Geolier, Luchè
 
-105 songs - 5 hr 4 min - [published](https://open.spotify.com/playlist/24YJoDhwO3164C86soW14C)
+106 songs - 5 hr 6 min - [published](https://open.spotify.com/playlist/24YJoDhwO3164C86soW14C)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [RFTS 3: Transalp \(Freestyle\)](https://open.spotify.com/track/2ip5V8poyS2rkYlvfQ0mxw) | [Vale Lambo](https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn) | [RFTS 3: Transalp \(Freestyle\)](https://open.spotify.com/album/421OGAOihQdZuiXiVoCVV5) | 2:08 | 2022-05-12 | 2022-09-02 |
 | [Rubrica](https://open.spotify.com/track/6n4lKgcmZ61fbAsBtliX3D) | [Shadaloo](https://open.spotify.com/artist/2tibuALJsypDnCBzRGykYR), [CoCo](https://open.spotify.com/artist/5FEh6KHK99CyLXp3qFvZFM), [Geeno](https://open.spotify.com/artist/2GyLz0gcl3zDPPql47YWEy) | [Rubrica](https://open.spotify.com/album/4Cd8ymdLbKpXM6vxwVpc5F) | 2:35 | 2022-06-28 |  |
 | [RUN](https://open.spotify.com/track/4b5wNTRKC0DhtvTFjohhBK) | [Nicola Siciliano](https://open.spotify.com/artist/0q0CTttRdwiuDFmDiN7jAt) | [RUN](https://open.spotify.com/album/6TfVxDaXGqSapRvP7TQETU) | 3:08 | 2022-05-10 |  |
+| [Scale \(con Luchè\)](https://open.spotify.com/track/5kaJg74U4GWosPvjOJujXD) | [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h), [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Botox](https://open.spotify.com/album/1CjtjrWyjx2eT5OejciTVr) | 2:32 | 2022-09-20 |  |
 | [Skyline](https://open.spotify.com/track/6h3Ygm8pThn9j2UYNfNuq6) | [Moderup](https://open.spotify.com/artist/0EE0rv2NG4drYTTQrT0saQ) | [Skyline](https://open.spotify.com/album/7a33VKOjd8l4uSyci8lsEl) | 2:17 | 2022-09-15 |  |
 | [So Fresh So Clean \(feat\. Vale Lambo\)](https://open.spotify.com/track/3SJNxU9GNf8MnNRW4G6b6s) | [Lele Blade](https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz), [Vale Lambo](https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn) | [AMBIZIONE](https://open.spotify.com/album/4Z1gtHqJwPjN0htfLDqcuV) | 2:00 | 2022-05-26 | 2022-07-22 |
 | [Soldi](https://open.spotify.com/track/7rlhLWCYROT4H6YAzAyuPi) | [Christian Revo](https://open.spotify.com/artist/0s3k3E7SlZqDN0rXnijV7F) | [Soldi](https://open.spotify.com/album/3tm8GwPNOJPcr9rQAXMWgV) | 2:31 | 2022-07-28 | 2022-08-13 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uusaBwROuk.md) - [plain]
 
 > Will you be my anti\-valentine?
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,066 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,064 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uusaBwROuk.md) - [plain]
 | 27 | [break up with your girlfriend, i'm bored](https://open.spotify.com/track/4kV4N9D1iKVxx1KLvtTpjS) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) | 3:10 |
 | 28 | [Don't Speak](https://open.spotify.com/track/6urCAbunOQI4bLhmGpX7iS) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Tragic Kingdom](https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8) | 4:23 |
 | 29 | [Nice For What](https://open.spotify.com/track/3CA9pLiwRIGtUBiMjbZmRw) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Scorpion](https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX) | 3:30 |
-| 30 | [Don't Call Me Up](https://open.spotify.com/track/5WHTFyqSii0lmT9R21abT8) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Ivy To Roses \(Mixtape\)](https://open.spotify.com/album/0syM7OUAhV7S6XmOa4nLUZ) | 2:58 |
-| 31 | [Go Fuck Yourself](https://open.spotify.com/track/4NZrZgrRoR4GwR7flWOXRI) | [Two Feet](https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH) | [First Steps](https://open.spotify.com/album/1T2zfKOl2TFkwRuQ7arglc) | 2:09 |
+| 30 | [Go Fuck Yourself](https://open.spotify.com/track/4NZrZgrRoR4GwR7flWOXRI) | [Two Feet](https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH) | [First Steps](https://open.spotify.com/album/1T2zfKOl2TFkwRuQ7arglc) | 2:09 |
+| 31 | [Don't Call Me Up](https://open.spotify.com/track/5WHTFyqSii0lmT9R21abT8) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Ivy To Roses \(Mixtape\)](https://open.spotify.com/album/0syM7OUAhV7S6XmOa4nLUZ) | 2:58 |
 | 32 | [no tears left to cry](https://open.spotify.com/track/2qT1uLXPVPzGgFOx4jtEuo) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Sweetener](https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe) | 3:25 |
 | 33 | [i'm so tired...](https://open.spotify.com/track/4vjpLMyL3ZO6aphdYr8XYw) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [\~how i'm feeling\~](https://open.spotify.com/album/6EgJXcGqaUvgZIF9bqPXfP) | 2:42 |
 | 34 | [Truth Hurts](https://open.spotify.com/track/3HWzoMvoF3TQfYg4UPszDq) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Cuz I Love You \(Super Deluxe\)](https://open.spotify.com/album/2KJjOBX280F3hZZE1xO33O) | 2:53 |
@@ -71,17 +71,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uusaBwROuk.md) - [plain]
 | 61 | [We Don't Talk Anymore \(feat\. Selena Gomez\)](https://open.spotify.com/track/37FXw5QGFN7uwwsLy8uAc0) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Nine Track Mind](https://open.spotify.com/album/3kndSWeE2IYOrZEToZrHEV) | 3:37 |
 | 62 | [Mr\. Perfectly Fine \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/track/2CYVETnhM9aytqrazYYwrK) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Fearless \(Taylor's Version\)](https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH) | 4:37 |
 | 63 | [Hold Up](https://open.spotify.com/track/0rzNMzZsubFcXSEh7dnem7) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Lemonade](https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF) | 3:41 |
-| 64 | [Fuck You](https://open.spotify.com/track/4ycLiPVzE5KamivXrAzGFG) | [CeeLo Green](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8) | [The Lady Killer](https://open.spotify.com/album/3MXU6UoWrf4w4bOvjZTlvY) | 3:42 |
-| 65 | [Same Old Love](https://open.spotify.com/track/1BZG99C7Co1r6QUC3zaS59) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Revival \(Deluxe\)](https://open.spotify.com/album/7lDBDk8OQarV5dBMu3qrdz) | 3:49 |
+| 64 | [Same Old Love](https://open.spotify.com/track/1BZG99C7Co1r6QUC3zaS59) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Revival \(Deluxe\)](https://open.spotify.com/album/7lDBDk8OQarV5dBMu3qrdz) | 3:49 |
+| 65 | [Fuck You](https://open.spotify.com/track/4ycLiPVzE5KamivXrAzGFG) | [CeeLo Green](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8) | [The Lady Killer](https://open.spotify.com/album/3MXU6UoWrf4w4bOvjZTlvY) | 3:42 |
 | 66 | [Scarlett](https://open.spotify.com/track/6dIU41Lx5NqUncAnPOJDco) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [The Walls Are Way Too Thin](https://open.spotify.com/album/3fnXTtLgkjHv2HmqOODSW8) | 3:16 |
 | 67 | [Blow Me \(One Last Kiss\)](https://open.spotify.com/track/4k80K0b6KZ2QjAYkXON7q6) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [The Truth About Love](https://open.spotify.com/album/2Q9oTK48eb85waX1fFJsvj) | 4:15 |
 | 68 | [Obsessed](https://open.spotify.com/track/3IcIIZMMS7UArJJPtEHXG8) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Memoirs of an imperfect Angel](https://open.spotify.com/album/3RPImDZ7Ihh5YR5iJh1gH1) | 4:02 |
 | 69 | [Feeling Myself](https://open.spotify.com/track/5fyIGoaaKelzdyW8ELhYJZ) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [The Pinkprint \(Deluxe\)](https://open.spotify.com/album/5ooCuPIk58IwSo6DRr1JCu) | 3:57 |
 | 70 | [Free Woman](https://open.spotify.com/track/4L6ihclQPu1hqP9r3WNJjQ) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Chromatica](https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP) | 3:11 |
 | 71 | [Ruin My Life](https://open.spotify.com/track/4nyY8oVjbX2d4qzlpiVM5n) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Poster Girl](https://open.spotify.com/album/79y7DSLFQH3907u4ysOMGr) | 3:10 |
-| 72 | [You Don't Own Me](https://open.spotify.com/track/7ngRS53kqxLcEt9Pythc5d) | [Lesley Gore](https://open.spotify.com/artist/08b2PA6eFyugsWAk41eQKZ) | [Lesley Gore Sings Of Mixed\-Up Hearts](https://open.spotify.com/album/5eluBwSJ7uwDBizWCiazSJ) | 2:30 |
+| 72 | [Rare](https://open.spotify.com/track/7HMmFQsKsljwTw8bS7lu19) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Rare](https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx) | 3:40 |
 | 73 | [Single Ladies \(Put a Ring on It\)](https://open.spotify.com/track/5R9a4t5t5O0IsznsrKPVro) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [I AM...SASHA FIERCE](https://open.spotify.com/album/39P7VD7qlg3Z0ltq60eHp7) | 3:13 |
-| 74 | [Rare](https://open.spotify.com/track/7HMmFQsKsljwTw8bS7lu19) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Rare](https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx) | 3:40 |
+| 74 | [You Don't Own Me](https://open.spotify.com/track/7ngRS53kqxLcEt9Pythc5d) | [Lesley Gore](https://open.spotify.com/artist/08b2PA6eFyugsWAk41eQKZ) | [Lesley Gore Sings Of Mixed\-Up Hearts](https://open.spotify.com/album/5eluBwSJ7uwDBizWCiazSJ) | 2:30 |
 | 75 | [Hurts Like Hell \(feat\. Offset\)](https://open.spotify.com/track/3WefHNGtjexZvi66ZEx9u4) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Hurts Like Hell \(feat\. Offset\)](https://open.spotify.com/album/4FAW4D50oWaQ3EoRcsJduh) | 3:27 |
 | 76 | [Potential Breakup Song](https://open.spotify.com/track/2ieu0FHqTpBUrMoCFVL3cb) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Potential Breakup Song](https://open.spotify.com/album/7GBwVFeuN4IJcsuoYJKlEl) | 3:38 |
 | 77 | [breadwinner](https://open.spotify.com/track/2stbjvpFujerfDUuUUPX7o) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [star\-crossed](https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc) | 3:20 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uusaBwROuk.md) - [plain]
 | 99 | [Better Than Revenge](https://open.spotify.com/track/1By2VQkUN0Frd8mKNV5NYC) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now \(Deluxe Edition\)](https://open.spotify.com/album/5EpMjweRD573ASl7uNiHym) | 3:37 |
 | 100 | [We Are Never Ever Getting Back Together](https://open.spotify.com/track/7AEAGTc8cReDqcbPoY9gwo) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red](https://open.spotify.com/album/1EoDsNmgTLtmwe1BDAVxV5) | 3:11 |
 
-Snapshot ID: `MTY0MzMyNzExNCwwMDAwMDAwMDRlOTVjNjdhMWRjMGYxZWIwMGZkOGViYjFkNTU0ODcw`
+Snapshot ID: `MTY0MzMyNzExNCwwMDAwMDAwMGNkYmIyZmI1MWMzZGIxODM5YjFjNmY1MTBmMjJlYTNl`

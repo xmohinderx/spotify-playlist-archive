@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXji4ucB51M.md) - [plain]
 
 > The official 2020 VMAs playlist from MTV + Spotify\. See more at <a href="http://www.mtv.com/vma">vma.mtv.com</a> 🚀
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,947 likes - 73 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,946 likes - 73 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXji4ucB51M.md) - [plain]
 | 47 | [Graveyard](https://open.spotify.com/track/2ufmtcIFdFpuUYBPXK5f67) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Manic](https://open.spotify.com/album/68enXe5XcJdciSDAZr0Alr) | 3:01 |
 | 48 | [Eleven \(feat\. Summer Walker\)](https://open.spotify.com/track/18O00Y7yrkJ0pRXm1n21Og) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Eleven \(feat\. Summer Walker\)](https://open.spotify.com/album/27JROxwlU2KnOg1Kgp8Wak) | 3:26 |
 | 49 | [Babushka Boi](https://open.spotify.com/track/643PW82aBMUa1FiWi5VQY7) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Babushka Boi](https://open.spotify.com/album/3zOkSAbg9o7gQ3yXtZhx5v) | 3:07 |
-| 50 | [Underdog](https://open.spotify.com/track/7FsAFw1oZeTJUZmIzSh0cg) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [ALICIA](https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1) | 3:24 |
-| 51 | [Mother's Daughter](https://open.spotify.com/track/4C5iYZMmSYeIUCtX3uShA7) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [SHE IS COMING](https://open.spotify.com/album/6Be5Qxq0Xm0CGyxs5JUYX9) | 3:39 |
+| 50 | [Mother's Daughter](https://open.spotify.com/track/4C5iYZMmSYeIUCtX3uShA7) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [SHE IS COMING](https://open.spotify.com/album/6Be5Qxq0Xm0CGyxs5JUYX9) | 3:39 |
+| 51 | [Underdog](https://open.spotify.com/track/7FsAFw1oZeTJUZmIzSh0cg) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [ALICIA](https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1) | 3:24 |
 | 52 | [Slide](https://open.spotify.com/track/2rTnVB1bvwxHtaIl4uVu7f) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Slide](https://open.spotify.com/album/6b3LhhX9Lt2861Dsh3ZCC2) | 3:58 |
 | 53 | [Old Me](https://open.spotify.com/track/58qO4dGa5SgNdtvqvpewyz) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [CALM](https://open.spotify.com/album/46K4raQPIGem3N031upNj9) | 3:06 |
 | 54 | [Cuz I Love You](https://open.spotify.com/track/6YdQgWSpsxhVeX6Xmv3IFJ) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Cuz I Love You](https://open.spotify.com/album/6dFFcYQ8VhifgdKgYY5LYL) | 2:59 |
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXji4ucB51M.md) - [plain]
 | 72 | [Oh Yeah!](https://open.spotify.com/track/3QiNQFiueqnIc6rOPLZB3f) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Oh Yeah!](https://open.spotify.com/album/4YfXSuoJWZGcTNGAkFK8cO) | 2:51 |
 | 73 | [Wasted On You](https://open.spotify.com/track/6SeiHTSmnC6CJ9tGvVLdMR) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [The Bitter Truth](https://open.spotify.com/album/4MYCjsaDaemi8Lmkj5PzkL) | 4:24 |
 
-Snapshot ID: `MTU5ODMwNzU2OSwwMDAwMDAwMDFkMWQ1MTlmYWFjOGQ5YzFmYzFkNDE0MmQ4MGU5Mzc4`
+Snapshot ID: `MTU5ODMwNzU2OSwwMDAwMDAwMDU2MWNkZDU5MzZhZjYyMWI3NzliNjQzNDU5NjVhYzQy`

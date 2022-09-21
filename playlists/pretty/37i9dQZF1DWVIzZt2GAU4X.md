@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVIzZt2GAU4X.md) - [plain]
 
 > Vocals and keys, front and center\. Cover: Adele
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,483,116 likes - 75 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,483,512 likes - 75 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,17 +39,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVIzZt2GAU4X.md) - [plain]
 | 29 | [Somewhere Only We Know](https://open.spotify.com/track/0ll8uFnc0nANY35E0Lfxvg) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Hopes And Fears](https://open.spotify.com/album/0qsT8HLvlWaSWIq8Rc95BI) | 3:56 |
 | 30 | [Halo](https://open.spotify.com/track/4JehYebiI9JE8sR8MisGVb) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [I AM...SASHA FIERCE](https://open.spotify.com/album/39P7VD7qlg3Z0ltq60eHp7) | 4:21 |
 | 31 | [Someone You Loved](https://open.spotify.com/track/2TIlqbIneP0ZY1O0EzYLlc) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Breach](https://open.spotify.com/album/0NVQ9k3wKmuK6T02lLMl6y) | 3:02 |
-| 32 | [My Immortal](https://open.spotify.com/track/4UzVcXufOhGUwF56HT7b8M) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Fallen](https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm) | 4:22 |
-| 33 | [Liability](https://open.spotify.com/track/6Kkt27YmFyIFrcX3QXFi2o) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 2:51 |
+| 32 | [Liability](https://open.spotify.com/track/6Kkt27YmFyIFrcX3QXFi2o) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 2:51 |
+| 33 | [My Immortal](https://open.spotify.com/track/4UzVcXufOhGUwF56HT7b8M) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Fallen](https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm) | 4:22 |
 | 34 | [Too Good At Goodbyes](https://open.spotify.com/track/3VlbOrM6nYPprVvzBZllE5) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3XftSbguntyRTBQaGItmfK) | 3:21 |
 | 35 | [Surrender](https://open.spotify.com/track/0ecC8p17cDNlxHXkuYqeR6) | [Natalie Taylor](https://open.spotify.com/artist/2WxjxdeF7GGdcCK276qViY) | [Surrender](https://open.spotify.com/album/5vplYu9dji5uOQdLutFfnf) | 3:03 |
 | 36 | [Strange](https://open.spotify.com/track/7sq2z9oX2S0CvgTqCZ0ko4) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Not Your Muse \(Deluxe\)](https://open.spotify.com/album/3bqEvlGHE4amqPGZtdMnep) | 4:15 |
 | 37 | [You Found Me](https://open.spotify.com/track/4IoYz8XqqdowINzfRrFnhi) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [The Fray](https://open.spotify.com/album/3ibdlhMmbFPMYoWvwHCzI3) | 4:01 |
 | 38 | [Out Of Love](https://open.spotify.com/track/4WzhjxvLP95y7AMDy0Atwb) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [The Pains Of Growing](https://open.spotify.com/album/0LzVdypBGpn6dGuHqVGwwt) | 3:47 |
 | 39 | [I Found](https://open.spotify.com/track/5zT5cMnMKoyruPj13TQXGx) | [Amber Run](https://open.spotify.com/artist/0MmnmsAuQKRFpo6vJElcaU) | [5AM \(Expanded Edition\)](https://open.spotify.com/album/05WTBdwkHAqk5Mg68ugD7L) | 4:33 |
-| 40 | [Love Song](https://open.spotify.com/track/4E6cwWJWZw2zWf7VFbH7wf) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [Little Voice](https://open.spotify.com/album/2Z9WUERfMjOgQ6ze9TcGbF) | 4:18 |
+| 40 | [I Quit Drinking](https://open.spotify.com/track/6OcCk1dbAb7XNHsC098oEM) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [I Quit Drinking](https://open.spotify.com/album/5c5S9cyjHKBQRm1DGU1E8J) | 2:51 |
 | 41 | [Lay Me Down](https://open.spotify.com/track/64GRDrL1efgXclrhVCeuA0) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [In The Lonely Hour \(Drowning Shadows Edition\)](https://open.spotify.com/album/0vrWqbRQEMKqhTGcDLQK7x) | 3:39 |
-| 42 | [I Quit Drinking](https://open.spotify.com/track/6OcCk1dbAb7XNHsC098oEM) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [I Quit Drinking](https://open.spotify.com/album/5c5S9cyjHKBQRm1DGU1E8J) | 2:51 |
+| 42 | [Love Song](https://open.spotify.com/track/4E6cwWJWZw2zWf7VFbH7wf) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [Little Voice](https://open.spotify.com/album/2Z9WUERfMjOgQ6ze9TcGbF) | 4:18 |
 | 43 | [Speechless](https://open.spotify.com/track/3GJ4hzg4lrGwU51Y3VARbF) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Dan + Shay](https://open.spotify.com/album/0g1F5eGVwX4Sxi1n8ojPkE) | 3:33 |
 | 44 | [Don't Look Back In Anger \- Remastered](https://open.spotify.com/track/12dU3vAh6AFoJkisorfoUl) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? \(Deluxe Remastered Edition\)](https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4) | 4:49 |
 | 45 | [Empire State of Mind \(Part II\) Broken Down](https://open.spotify.com/track/5sra5UY6sD658OabHL3QtI) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Element Of Freedom](https://open.spotify.com/album/0Rxab8t0y7GlaTJTHX2wEN) | 3:36 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVIzZt2GAU4X.md) - [plain]
 | 74 | [wish you well](https://open.spotify.com/track/1Y3Lv6ul3BeSQltSAfwZdo) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [these words are all for you](https://open.spotify.com/album/2N9lFXoevPmnTNr8KhK5PS) | 3:02 |
 | 75 | [Another Love](https://open.spotify.com/track/5FKnuwsKf7YFpmhA5Wnl0q) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Songs from Another Love](https://open.spotify.com/album/51ZlqbsTCEQfpvtrcRIxXB) | 4:10 |
 
-Snapshot ID: `MTY2MzMwMDgwMCwwMDAwMDAwMDEzMWY0OTk1ZWIxN2UwNjJjMjg0ZjE4MGY4MmQ0NjA5`
+Snapshot ID: `MTY2MzMwMDgwMCwwMDAwMDAwMGFkOTVlMDNjZDAyMDA4YjFmZjlmMzc0Yzc4ODcyMDVl`

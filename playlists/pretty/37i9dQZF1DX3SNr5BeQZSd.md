@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SNr5BeQZSd.md) - [plain]
 
 > Trending lofi beats from across the World Wide Web.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,379 likes - 86 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,678 likes - 86 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SNr5BeQZSd.md) - [plain]
 | 12 | [I'm Sorry](https://open.spotify.com/track/1XWLdjLUzNDxW7ggw8uQnM) | [Swell](https://open.spotify.com/artist/78xSB1R1x8T6o0QuRaodez) | [Theres Still Us](https://open.spotify.com/album/6weHAeERW1hoGdgXtEP1QZ) | 2:37 |
 | 13 | [Cigarettes and Sex](https://open.spotify.com/track/20hpe9YNgbtggM66QipgWf) | [prxz](https://open.spotify.com/artist/40HzN0eLAMZk4nTHMk9sUA), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [Love Wounds](https://open.spotify.com/album/1h6VRZSqs4FANrEbUCraZc) | 2:00 |
 | 14 | [5:32pm](https://open.spotify.com/track/7qrBYrivpvfXUPBMmqh3dA) | [The Deli](https://open.spotify.com/artist/1EJzWKVDeysgbyuZGfEFde) | [Vibes 2](https://open.spotify.com/album/5GlqARIKJdOkuXKgvdouwz) | 2:16 |
-| 15 | [Dance with Me](https://open.spotify.com/track/55rn9bs7vZBsEK4Y4URraH) | [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r), [itssvd](https://open.spotify.com/artist/5yaF4LUw7ON1RmE4O8Q03C) | [Love Is the Same as Sadness](https://open.spotify.com/album/4JcORch57yBGLItxgest7E) | 1:27 |
+| 15 | [Dance with Me](https://open.spotify.com/track/55rn9bs7vZBsEK4Y4URraH) | [CORBAL](https://open.spotify.com/artist/2jjSx5EpZwv9iBAgFkGWPh), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r), [itssvd](https://open.spotify.com/artist/5yaF4LUw7ON1RmE4O8Q03C) | [Love Is the Same as Sadness](https://open.spotify.com/album/4JcORch57yBGLItxgest7E) | 1:27 |
 | 16 | [Can't Take My Eyes off You](https://open.spotify.com/track/2InH5NvwoEymOEeUhpUq48) | [Craymer](https://open.spotify.com/artist/14FalyPBwXYg2XLauocHaU), [AIIVAWN](https://open.spotify.com/artist/7qYVVP9RdHRKzElE6EZQsn) | [Can't Take My Eyes off You](https://open.spotify.com/album/76GPbP7KEgSGqDsyJ2FN1T) | 4:00 |
 | 17 | [First Date](https://open.spotify.com/track/733hyyG8U8kxxebds98nc6) | [frad](https://open.spotify.com/artist/1XLYJ9VzlgEpBdlkC4MhOL) | [First Date](https://open.spotify.com/album/1nU6zoYEGCPBe6qTjbxwYH) | 2:53 |
 | 18 | [animal crossing \~ new horizons lofi](https://open.spotify.com/track/3LQTJhA1bJpKNwEzwpdJzk) | [Closed on Sunday](https://open.spotify.com/artist/1LwjR2mIm78OJRTYdkMLl3) | [animal crossing \~ new horizons lofi](https://open.spotify.com/album/0z0eXgUqLEI4SxJt30cU33) | 1:07 |

@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-265 songs - 15 hr 34 min - [published](https://open.spotify.com/playlist/0rvk5w1vdyj62Mqfk2UdnJ)
+266 songs - 15 hr 36 min - [published](https://open.spotify.com/playlist/0rvk5w1vdyj62Mqfk2UdnJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Emeralds](https://open.spotify.com/track/64Qa4GFTr5wMR1maaR8QxY) | [Rogue](https://open.spotify.com/artist/3zuevuwyBq4MiQzPB3nvW2) | [Emeralds](https://open.spotify.com/album/47QDAHx9JLrzYV5tfnTWzD) | 4:10 | 2022-09-13 |  |
 | [Faded](https://open.spotify.com/track/7oOgau5yTVoRIDAs5GiMCf) | [Hausman](https://open.spotify.com/artist/1jD9rZnKHp1tqnYMxSxkiQ), [Lumynesynth](https://open.spotify.com/artist/2piOPWDGkopcabpha2zngD) | [Faded](https://open.spotify.com/album/1WAMrFtszAHHxnKavbLG5K) | 4:24 | 2022-03-30 | 2022-06-11 |
 | [Fall](https://open.spotify.com/track/4zh4Xvbh2FXYbWgY3eYm5C) | [VESK GREEN](https://open.spotify.com/artist/4D6SwsmIOKAcd2sMavDqxo), [Blosso](https://open.spotify.com/artist/5Jn30mbNDGHLSxfCUZc7XM) | [Fall](https://open.spotify.com/album/3rK8FMzL3ggRX8e8AaQSXE) | 3:00 | 2021-11-25 | 2022-03-02 |
+| [fallen](https://open.spotify.com/track/7aiv9KI14BSQ1syfHIvmdF) | [Foxela](https://open.spotify.com/artist/1R2OPNS7EkGLKcDjyGnpEu) | [fallen](https://open.spotify.com/album/0lV2fwEZ74jxwquxMxwWUc) | 2:36 | 2022-09-20 |  |
 | [Falling Apart](https://open.spotify.com/track/5TQDtOeQ3IU2VqKbCn6Rwq) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Falling Apart](https://open.spotify.com/album/5ciCvi9pccBxbpOBwfHYom) | 3:58 | 2022-01-21 | 2022-03-31 |
 | [Falling Apart \- Acoustic](https://open.spotify.com/track/5hdxWJkiBKH6STOH7na5zB) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Falling Apart \(Acoustic\)](https://open.spotify.com/album/5uWAbKZAgeBkT8bHqJZHJV) | 2:56 | 2022-06-14 | 2022-08-26 |
 | [Falling For You](https://open.spotify.com/track/6EW5mHMHEcsL1RSpy1HQ6p) | [Sabai](https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ), [With Løve](https://open.spotify.com/artist/0x0UI85q7lIdGMEZsNH5fm), [Nevve](https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t) | [Falling For You](https://open.spotify.com/album/4kPYN4m2ALwHLFMAG58cba) | 2:58 | 2021-11-19 | 2022-02-03 |

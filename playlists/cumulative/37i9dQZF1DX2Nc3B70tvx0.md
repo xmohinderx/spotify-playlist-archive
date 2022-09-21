@@ -4,7 +4,7 @@
 
 > The best in modern indie\. Cover: Sudan Archives
 
-1,238 songs - 3 day 1 hr 53 min - [published](https://open.spotify.com/playlist/5B0jp45qz6hLoPhNNGwuxh)
+1,239 songs - 3 day 1 hr 57 min - [published](https://open.spotify.com/playlist/5B0jp45qz6hLoPhNNGwuxh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -422,7 +422,7 @@
 | [Habit](https://open.spotify.com/track/1M321puDN1WBd5NF0ogOKW) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Habit](https://open.spotify.com/album/0gZEC6z4RSUiLOK9nHhGwG) | 2:33 | 2019-05-26\* | 2019-09-21 |
 | [Habits](https://open.spotify.com/track/4UGvqm3e7UElrrriPtnhwz) | [Genevieve Stokes](https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ) | [Habits](https://open.spotify.com/album/4KKuhABzFkGE9UAucodfUo) | 2:16 | 2022-08-15 |  |
 | [Half Life](https://open.spotify.com/track/3Rmld8jmFs7VbpeeGrNrDt) | [Appleby](https://open.spotify.com/artist/4Y2i9jhU3jW0PVsvTLIbWX) | [Half Life](https://open.spotify.com/album/0hN61WMhZ4dPKR6ReAj0UO) | 3:07 | 2021-10-10 | 2021-12-06 |
-| [Half Life](https://open.spotify.com/track/5Gn8dr5NrwoxtCQhs6WO9v) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Half Life](https://open.spotify.com/album/7g5yKklmczUfA3pEuNjnrE) | 3:47 | 2022-09-16 |  |
+| [Half Life](https://open.spotify.com/track/5Gn8dr5NrwoxtCQhs6WO9v) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Half Life](https://open.spotify.com/album/7g5yKklmczUfA3pEuNjnrE) | 3:47 | 2022-09-16 | 2022-09-21 |
 | [HALOHEAD](https://open.spotify.com/track/3XxBj4muC0eqMSXMXA3X87) | [KUNZITE](https://open.spotify.com/artist/3rMDCvvekRMD0WON14PwqO), [Ratatat](https://open.spotify.com/artist/57dN52uHvrHOxijzpIgu3E) | [HALOHEAD](https://open.spotify.com/album/5m6n8hbxuE4DuDvxi19yRN) | 3:24 | 2021-09-02 | 2022-04-04 |
 | [Handle Me](https://open.spotify.com/track/6CH7kVUC4j5OpsAT7zLBwa) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [MUNA](https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l) | 3:39 | 2022-07-08 | 2022-08-05 |
 | [Happen](https://open.spotify.com/track/4TCMDoYMAGRzmvmBjnqUmw) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [Happen](https://open.spotify.com/album/5pNKUUIVZqaF2U4nkEMxO6) | 4:13 | 2022-08-25 | 2022-09-10 |
@@ -482,6 +482,7 @@
 | [Hot & Heavy](https://open.spotify.com/track/2HqJI083DX9UDxNYGGAImf) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Hot & Heavy](https://open.spotify.com/album/3oInRchbCmQzKxmDdozxwu) | 4:10 | 2021-04-20 | 2022-03-11 |
 | [Hot & Heavy](https://open.spotify.com/track/6SIooImkHGKCIwgUZ3WDvD) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Home Video](https://open.spotify.com/album/2nwfSapJ3YIq7Ofad4Vuh1) | 4:10 | 2022-07-08 |  |
 | [Hot Mess](https://open.spotify.com/track/5V93DZxOOLqTT5zF8uWOm2) | [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Hot Mess](https://open.spotify.com/album/4Fvbi4wxMw12cXWkAHlt0Z) | 2:54 | 2022-09-09 |  |
+| [Hotel](https://open.spotify.com/track/0JzG1wJuB4v9UPkSE7LMXi) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Hotel](https://open.spotify.com/album/0ykf7jcx3yY49RpkIO1byF) | 3:17 | 2022-09-20 |  |
 | [Housekeys](https://open.spotify.com/track/1qjSdzpCDpXhWqVtUlaFSM) | [Runnner](https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0), [Field Medic](https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ) | [Housekeys](https://open.spotify.com/album/0NE4GXtHwL82n1NVKQa23k) | 3:44 | 2021-07-19 | 2022-03-11 |
 | [How Can I Make It OK?](https://open.spotify.com/track/4esseJdxrcatxtl7Zk8Q5V) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Blue Weekend](https://open.spotify.com/album/5OxxXTUecFQgCVqztbcynb) | 4:47 | 2021-06-22 | 2022-04-05 |
 | [How Dare You Want More](https://open.spotify.com/track/3ofm3iqaRbHBCGvqf5jK7H) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [How Dare You Want More](https://open.spotify.com/album/5VcCCWAqGq1Sl9VgSU7DOv) | 4:00 | 2021-06-22 | 2022-01-29 |

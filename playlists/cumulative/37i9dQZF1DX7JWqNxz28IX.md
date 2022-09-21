@@ -4,7 +4,7 @@
 
 > 🩹 \(in cover, kid vice\)
 
-126 songs - 5 hr 41 min - [published](https://open.spotify.com/playlist/7fBkDuj9jj7rj8liyTLX4S)
+127 songs - 5 hr 44 min - [published](https://open.spotify.com/playlist/7fBkDuj9jj7rj8liyTLX4S)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [personal](https://open.spotify.com/track/0iBWJzv9EysEh3wahsnPa8) | [trapstarsteezy](https://open.spotify.com/artist/0v0gXgl9lp0rJtACULKSO1), [ernvss](https://open.spotify.com/artist/7gC9tWX4RacI5aIaYQCPza) | [personal](https://open.spotify.com/album/5eXZORuOjZB3yTOf2Oebbd) | 3:30 | 2022-07-14 |  |
 | [Piangi mai \(domani\)](https://open.spotify.com/track/1aYYkE4vIycFLgy2IJrlGZ) | [Elteep](https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB) | [Piangi mai \(domani\)](https://open.spotify.com/album/0MwrHf04OMj7HOG29XC5ev) | 2:32 | 2022-04-21 |  |
 | [Piano](https://open.spotify.com/track/5A27QGKlNBa9Uzr2XEaThl) | [I Dolori del Giovane Walter](https://open.spotify.com/artist/1yGEqWwG1niom92pU3ha4n) | [Piano](https://open.spotify.com/album/73OQyOxqChMh9SnPL6iUz6) | 2:51 | 2022-04-21 |  |
+| [Pietra di luna](https://open.spotify.com/track/4Xof572Q63n2JDLz7kklxY) | [chiello](https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h) | [OCEANO PARADISO](https://open.spotify.com/album/2uopesg6vZ52owGKMTBl9m) | 2:29 | 2022-09-20 |  |
 | [Più del fuoco \(feat\. Shade & Yota Damore\)](https://open.spotify.com/track/3toYq1FSFwc7KNTv7Bg8WR) | [Blue Virus](https://open.spotify.com/artist/7H9TcusDoz60eSTxB0Avxn), [Shade](https://open.spotify.com/artist/1xqolkIzTFMmqgCuD48WNt), [Yota Damore](https://open.spotify.com/artist/5F1YTUQDAFUPjuW4Vf2b6u) | [Magliette Che Diventano Pigiami \- EP](https://open.spotify.com/album/2HUAaHdSS9cmx8i0ZE0vvR) | 3:07 | 2022-04-21 |  |
 | [Polmoni](https://open.spotify.com/track/3Dd20QQdcE7zu8S9RDbcWO) | [Tripolare](https://open.spotify.com/artist/4QOWxkUYIKvnV7AcjF4k6w) | [Polmoni](https://open.spotify.com/album/5ebFbxu4orUBH5LBnGSWTV) | 2:03 | 2022-04-21 |  |
 | [poster](https://open.spotify.com/track/3AMkjj32qDTUCY4sIcUQvz) | [Cicco Sanchez](https://open.spotify.com/artist/4WCGWBfRK9jWrDtxj4Qdel) | [poster](https://open.spotify.com/album/7yeV8I2WFKaliL35x3BMge) | 2:49 | 2022-04-21 |  |

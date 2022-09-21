@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZfLKhEkflI.md) - [plain]
 
 > Funky Jazz from the mid 1950s to the early 1960s\. Cover: Art Blakey
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,680 likes - 75 songs - 8 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,725 likes - 75 songs - 8 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,11 +72,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZfLKhEkflI.md) - [plain]
 | 62 | [Gary's Notebook \- Remastered 1999/Rudy Van Gelder Edition](https://open.spotify.com/track/00dDsLgxoPzhbPD3owDfwT) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [The Sidewinder \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/1n1trPeeY9Q5H4eLbbHHRg) | 6:10 |
 | 63 | [The Changing Scene \- 1997 Remastered](https://open.spotify.com/track/6KVSsjymKbqcM1ejHfpKj9) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [Goin' Up](https://open.spotify.com/album/0NU6BhJliKCq8jTPvFsTdP) | 5:49 |
 | 64 | [Hush \- 2006 Digital Remaster](https://open.spotify.com/track/0QHtTrWeW9uCAVEpJUNlp9) | [Donald Byrd](https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL) | [Royal Flush](https://open.spotify.com/album/3iiXriAL04UEj7IjHa2J72) | 6:21 |
-| 65 | [Main Spring \- 2006 Digital Remaster](https://open.spotify.com/track/7kj02yV03h8vzKjwDNRG1G) | [Johnny Griffin](https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ) | [The Congregation \(Expanded Edition\)](https://open.spotify.com/album/4xfqENceM0U2iQDi1c4sLy) | 6:31 |
-| 66 | [Society Red \- Rudy Van Gelder/24\-Bit Mastering/Digital Remaster/2004](https://open.spotify.com/track/5A76U6Sz8cWleyN3CFTvjy) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Doin' Allright](https://open.spotify.com/album/5HSURQb31DMhX0mg0F87zs) | 12:21 |
+| 65 | [Society Red \- Rudy Van Gelder/24\-Bit Mastering/Digital Remaster/2004](https://open.spotify.com/track/5A76U6Sz8cWleyN3CFTvjy) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Doin' Allright](https://open.spotify.com/album/5HSURQb31DMhX0mg0F87zs) | 12:21 |
+| 66 | [Main Spring \- 2006 Digital Remaster](https://open.spotify.com/track/7kj02yV03h8vzKjwDNRG1G) | [Johnny Griffin](https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ) | [The Congregation \(Expanded Edition\)](https://open.spotify.com/album/4xfqENceM0U2iQDi1c4sLy) | 6:31 |
 | 67 | [Down Home](https://open.spotify.com/track/7dZhndMC31yTsQuaCfhOuy) | [Lou Donaldson](https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR) | [Quartet / Quintet / Sextet](https://open.spotify.com/album/2Aflwf98ECEhjpowdENj7d) | 3:21 |
-| 68 | [Light Blue \- Remastered](https://open.spotify.com/track/57gN4EUhMll26FXfYKWVLw) | [Stanley Turrentine](https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP) | [That's Where It's At](https://open.spotify.com/album/6wRyPYTtDhRpC1O4ICM1Lt) | 6:35 |
-| 69 | [Back Road \- Rudy Van Gelder, 2000 Remaster](https://open.spotify.com/track/6ZjpsZ5mmMmM7rMqK4nOLz) | [Joe Henderson](https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt) | [Our Thing](https://open.spotify.com/album/6NMyU9AYokycLD4cY2BzGd) | 6:19 |
+| 68 | [Back Road \- Rudy Van Gelder, 2000 Remaster](https://open.spotify.com/track/6ZjpsZ5mmMmM7rMqK4nOLz) | [Joe Henderson](https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt) | [Our Thing](https://open.spotify.com/album/6NMyU9AYokycLD4cY2BzGd) | 6:19 |
+| 69 | [Light Blue \- Remastered](https://open.spotify.com/track/57gN4EUhMll26FXfYKWVLw) | [Stanley Turrentine](https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP) | [That's Where It's At](https://open.spotify.com/album/6wRyPYTtDhRpC1O4ICM1Lt) | 6:35 |
 | 70 | [Preach Brother](https://open.spotify.com/track/0uv8D6XDElGNG96VnQA71v) | [Fred Jackson](https://open.spotify.com/artist/5QFpvP79VaxZ7sty3RyBPS) | [Hootin' 'N Tootin'](https://open.spotify.com/album/3vFV7kbe21nznNK87wrADV) | 5:45 |
 | 71 | [Blues For Skeeter \- Remastered 2000](https://open.spotify.com/track/5DMvnFcUeu6TwYhwWDSpYx) | [Kenny Burrell](https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB) | [Introducing Kenny Burrell: The First Blue Note Sessions](https://open.spotify.com/album/3gIrrrmvhrrs4Y6KNu3sSQ) | 8:08 |
 | 72 | [Blues Function \- Rudy Van Gelder Edition/2009 Digital Remaster](https://open.spotify.com/track/0JelnIVO4u5xO9PGLG6cOg) | [Jackie McLean](https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA) | [Bluesnik \(Remastered/ Expanded Edition\)](https://open.spotify.com/album/0SDg271NTQpfxhWrDOv5MW) | 7:19 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZfLKhEkflI.md) - [plain]
 | 74 | [Minor On Top \- Remastered 1997](https://open.spotify.com/track/5SQuscOp1pmVmd2TlYADpH) | [Thad Jones](https://open.spotify.com/artist/6DbqS0X8cSFOPGsvyze2yh) | [Motor City Scene](https://open.spotify.com/album/6LQkQG9nSDBZmRRDEdxKms) | 8:43 |
 | 75 | [South Side \- Remastered 2007 / Rudy Van Gelder Edition](https://open.spotify.com/track/7A8bDI0oJDi6gNhe3YIWBQ) | [Louis Smith](https://open.spotify.com/artist/1cynU9t25KnZAetN0uXgm9) | [Here Comes Louis Smith \(Remastered\)](https://open.spotify.com/album/5nmaVQ30ucem6OXJ2IAAKf) | 8:38 |
 
-Snapshot ID: `MTY2MzMxNTQ5NCwwMDAwMDAwMGZiOGY3NjM3YzQ4OWQ4Y2U4N2EwZTRiZDQwMzI3NGZj`
+Snapshot ID: `MTY2MzMxNTQ5NCwwMDAwMDAwMDI2NzgzYTcxMmZjZDE1YzI0MjY5OGE2YmI1NjEwNmEx`

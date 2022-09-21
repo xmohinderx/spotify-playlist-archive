@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42a57xwmtrj.md) - [plain]
 
 > ¡Lo naco es chido, y que viva el rocanroool! Foto: Botellita de Jerez
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,776 likes - 75 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,824 likes - 75 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,32 +45,32 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42a57xwmtrj.md) - [plain]
 | 35 | [Barco Azul \- Remastered](https://open.spotify.com/track/3g30HfhfhNzSem6XEaljXy) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [Quiero Cambiar \(Remastered\)](https://open.spotify.com/album/4Bl52OEsKDB2zcYIrakJVy) | 6:58 |
 | 36 | [Ahora Que No Vives Conmigo](https://open.spotify.com/track/2yFG7bR0njsm6ZpWXIT5n2) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Rock En Español \- Lo Mejor De Tex Tex](https://open.spotify.com/album/3Sx5ggdxFDZxsn3Y6IjmhG) | 3:08 |
 | 37 | [El y Yo](https://open.spotify.com/track/2H1uTK1SvKijag9Xofk7vO) | [Franco Escamilla](https://open.spotify.com/artist/1ZlIROqKXOEvPgEffO8vri) | [Fe](https://open.spotify.com/album/48SFSSTFxF8Hlih5D2t5Jb) | 2:46 |
-| 38 | [De Que el Amor Apesta](https://open.spotify.com/track/36GyJisOpesFuVqrcoXOjk) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Sé Lo Que Hicieron el Disco Pasado \(Del Creador de Suicida\)](https://open.spotify.com/album/7fn7RJLP6jySOnTxhRefLm) | 4:38 |
-| 39 | [Que Nos Paso](https://open.spotify.com/track/2qPOZWbIrwUAFRNvit6Py2) | [Leyenda Urbana](https://open.spotify.com/artist/4GKqFZiamcM57FMUVRhyCU) | [La Nueva Sangre del Rock, Vol\. 2](https://open.spotify.com/album/50sLvy8teAwjF2HyVMHKQk) | 6:08 |
+| 38 | [Que Nos Paso](https://open.spotify.com/track/2qPOZWbIrwUAFRNvit6Py2) | [Leyenda Urbana](https://open.spotify.com/artist/4GKqFZiamcM57FMUVRhyCU) | [La Nueva Sangre del Rock, Vol\. 2](https://open.spotify.com/album/50sLvy8teAwjF2HyVMHKQk) | 6:08 |
+| 39 | [De Que el Amor Apesta](https://open.spotify.com/track/36GyJisOpesFuVqrcoXOjk) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Sé Lo Que Hicieron el Disco Pasado \(Del Creador de Suicida\)](https://open.spotify.com/album/7fn7RJLP6jySOnTxhRefLm) | 4:38 |
 | 40 | [La chica banda](https://open.spotify.com/track/5fckoQosqCX9xJvHlwITY8) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Café Tacvba](https://open.spotify.com/album/4nTUHZSed3ZiQjKs8f5Zbr) | 3:48 |
 | 41 | [Y Como Es Él](https://open.spotify.com/track/6ZRnVnjp57UMZPQqVLMZgS) | [California Blues](https://open.spotify.com/artist/6T2x1Mz4MTYr3R8evdSDxn) | [15 Éxitos](https://open.spotify.com/album/5MPP3YL3rZgYG5Bl6iJxha) | 3:06 |
 | 42 | [Cristo Viejo](https://open.spotify.com/track/43IpgycykkiMC7Tm6Q6SS2) | [Fantasma De Canterville](https://open.spotify.com/artist/040rbCr9V95JeswXJeStGx) | [Cristo Viejo](https://open.spotify.com/album/71AJr8ywoxzLvKKssrPKBy) | 5:23 |
 | 43 | [Un Toque Mágico](https://open.spotify.com/track/39bxZQn6wJ4TmO6ZoY9AhJ) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Lo Mejor de Tex Tex](https://open.spotify.com/album/1yicTVpvbAWlZMPdiyXf0X) | 4:14 |
 | 44 | [El Pianista](https://open.spotify.com/track/3SRD0rSAbzkaJf4PKlnrcX) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [Momentos](https://open.spotify.com/album/0Mot1VW7pPX7lBl02XjoCN) | 5:19 |
 | 45 | [El Esqueleto](https://open.spotify.com/track/0CucYEXuGngb0vfUMpOmID) | [Victimas Del Doctor Cerebro](https://open.spotify.com/artist/6Z112eJxKl1E3nAbYZBr7M) | [Lucha Rock](https://open.spotify.com/album/3qFQ5sXiOUEy0vVMj1LIii) | 3:43 |
-| 46 | [Fue en un Café](https://open.spotify.com/track/7siXhQaEJkIIJQmznXWfCa) | [Heavy Nopal](https://open.spotify.com/artist/7oFDTCTqOMHss3q89srhul) | [Los Nopales Tienen la Fuerza](https://open.spotify.com/album/6k073KSG69UAlzi10TbWnv) | 2:48 |
-| 47 | [Vaquero Rockanrolero](https://open.spotify.com/track/2l1PEUGKaO5uD2nnf3eNV7) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Todos Estos Años, Vol\. 1](https://open.spotify.com/album/4lHRifIJTWpdoRUiUj8Hg9) | 4:16 |
+| 46 | [Vaquero Rockanrolero](https://open.spotify.com/track/2l1PEUGKaO5uD2nnf3eNV7) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Todos Estos Años, Vol\. 1](https://open.spotify.com/album/4lHRifIJTWpdoRUiUj8Hg9) | 4:16 |
+| 47 | [Fue en un Café](https://open.spotify.com/track/7siXhQaEJkIIJQmznXWfCa) | [Heavy Nopal](https://open.spotify.com/artist/7oFDTCTqOMHss3q89srhul) | [Los Nopales Tienen la Fuerza](https://open.spotify.com/album/6k073KSG69UAlzi10TbWnv) | 2:48 |
 | 48 | [Eso Es Amor](https://open.spotify.com/track/3TeYPfcZ7BKLwEic9WnzCz) | [Hazel](https://open.spotify.com/artist/6rRH3dKCPZ8L550tadjx1i) | [15 Éxitos](https://open.spotify.com/album/0dlB97Gi1aU62lxdlEE7y8) | 4:26 |
 | 49 | [Me Llamas](https://open.spotify.com/track/2vurarFFGibcMG7Bdx7WDH) | [Jessie Blues](https://open.spotify.com/artist/4MlV4s55GdlnJTnHl81Cbk) | [Entre Ángeles y Poetas](https://open.spotify.com/album/20GZvLSomrpPTQwUPQv5bi) | 4:13 |
 | 50 | [No Todo Es Oro](https://open.spotify.com/track/138kU5xpFub1SxSD4oI7b0) | [Blues Boys](https://open.spotify.com/artist/2fsmmyD3SsJL2suRoZwI6z) | [La Ciudad](https://open.spotify.com/album/1cFOUdbvsmvi5WtQTJErEa) | 2:49 |
 | 51 | [Perro negro y callejero](https://open.spotify.com/track/67RXRr041mkHvVAftpvKXm) | [Three Souls In My Mind](https://open.spotify.com/artist/0FWt6THmobpdzk7727cq2R) | [15 Grandes Exitos](https://open.spotify.com/album/4XF4LoXW8gg1wMVLLfJIRR) | 3:08 |
 | 52 | [Tlatelolco 68](https://open.spotify.com/track/0IpAufJEjttMegWQvxcI2i) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [15 Éxitos](https://open.spotify.com/album/75qmnaAXlMCRlgG4ydpsbV) | 4:47 |
-| 53 | [Por Tu Amor](https://open.spotify.com/track/14Piw2n4E4fsRs8Ay3BhPS) | [Isis](https://open.spotify.com/artist/1LONEO5qtKtO4HqMcc4OpC) | [Por Tu Amor](https://open.spotify.com/album/4M1twGVolM2JCjLET2zQBa) | 3:20 |
-| 54 | [Asalto Chido](https://open.spotify.com/track/7ArHgkupud8056QGPwrLhz) | [Heavy Nopal](https://open.spotify.com/artist/7oFDTCTqOMHss3q89srhul) | [Lo Más Prendido de Rockdrigo González](https://open.spotify.com/album/37yYMb961LIiE7NTmAASHZ) | 3:23 |
+| 53 | [Asalto Chido](https://open.spotify.com/track/7ArHgkupud8056QGPwrLhz) | [Heavy Nopal](https://open.spotify.com/artist/7oFDTCTqOMHss3q89srhul) | [Lo Más Prendido de Rockdrigo González](https://open.spotify.com/album/37yYMb961LIiE7NTmAASHZ) | 3:23 |
+| 54 | [Por Tu Amor](https://open.spotify.com/track/14Piw2n4E4fsRs8Ay3BhPS) | [Isis](https://open.spotify.com/artist/1LONEO5qtKtO4HqMcc4OpC) | [Por Tu Amor](https://open.spotify.com/album/4M1twGVolM2JCjLET2zQBa) | 3:20 |
 | 55 | [Como Dona a Su Agujero](https://open.spotify.com/track/4SeWTbfjNvu6ljXCo61tra) | [Sam Sam](https://open.spotify.com/artist/0LRuvIEgEeGnU02JG2Rbcb) | [Anda Borracho Pancho](https://open.spotify.com/album/6h5XBXviV0nnD4ZgyAbuXw) | 4:21 |
 | 56 | [Que Será de Mí](https://open.spotify.com/track/6hwU9WaaHd6MQlk2LzHJsb) | [Hazel](https://open.spotify.com/artist/6rRH3dKCPZ8L550tadjx1i) | [Inhalando Amor](https://open.spotify.com/album/7L1jJusN1PUODglxbCykzG) | 4:51 |
 | 57 | [Barata y Descontó](https://open.spotify.com/track/0TaVjqxCBLG7p2dnwTYfti) | [Trolebús](https://open.spotify.com/artist/4vQGniIPKVpBklxzuUX1M3) | [En Sentido Contrario](https://open.spotify.com/album/1eW1g24GLcMwUKFyQBX5vx) | 2:37 |
 | 58 | [Yo Quiero Que Sepas](https://open.spotify.com/track/1ByAq33DTLL2ecMBqUS3oQ) | [Interpuesto](https://open.spotify.com/artist/2BbXMNKjkmAw56U7oXQDLB) | [En Guerra de Amor](https://open.spotify.com/album/7ypKLsIHFHBVnAEdlotmxe) | 3:08 |
-| 59 | [Pequeña y Frágil](https://open.spotify.com/track/5G0ZQTIQ0LEANKZQ5YUjCe) | [Isis](https://open.spotify.com/artist/1LONEO5qtKtO4HqMcc4OpC) | [Unidos Por El Rock, Vol\. 1](https://open.spotify.com/album/6vFlCKMqRMIMmCSlTbz23e) | 5:10 |
+| 59 | [Hotel California](https://open.spotify.com/track/3JrPxPnQ2TdBF6BZuZpzTK) | [Heavy Nopal](https://open.spotify.com/artist/7oFDTCTqOMHss3q89srhul) | [Los Nopales Tienen la Fuerza](https://open.spotify.com/album/6k073KSG69UAlzi10TbWnv) | 6:29 |
 | 60 | [La Dosis Perfecta](https://open.spotify.com/track/5aLGdqM8EbHC3B1iKWKDIJ) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Un Panteon Muy Vivo](https://open.spotify.com/album/0HgimXrbh89mAHF3nLGsLP) | 6:29 |
 | 61 | [Chavo de onda](https://open.spotify.com/track/21eBjW0qDhxhqSWF7RTVp8) | [Three Souls In My Mind](https://open.spotify.com/artist/0FWt6THmobpdzk7727cq2R) | [15 Grandes Exitos](https://open.spotify.com/album/4XF4LoXW8gg1wMVLLfJIRR) | 3:30 |
 | 62 | [Tocando el Cielo](https://open.spotify.com/track/3pE3ecB6BsdzovRRtcieRB) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [15 Grandes Éxitos](https://open.spotify.com/album/5gd5kQbqAKWxckZvtSTtA0) | 3:35 |
-| 63 | [Hotel California](https://open.spotify.com/track/3JrPxPnQ2TdBF6BZuZpzTK) | [Heavy Nopal](https://open.spotify.com/artist/7oFDTCTqOMHss3q89srhul) | [Los Nopales Tienen la Fuerza](https://open.spotify.com/album/6k073KSG69UAlzi10TbWnv) | 6:29 |
+| 63 | [Pequeña y Frágil](https://open.spotify.com/track/5G0ZQTIQ0LEANKZQ5YUjCe) | [Isis](https://open.spotify.com/artist/1LONEO5qtKtO4HqMcc4OpC) | [Unidos Por El Rock, Vol\. 1](https://open.spotify.com/album/6vFlCKMqRMIMmCSlTbz23e) | 5:10 |
 | 64 | [Déjalo](https://open.spotify.com/track/6CqGIY1S178hzRvAKh1Z1r) | [Sangre Avandaro](https://open.spotify.com/artist/6JfNh1KwOmuN120aTVfUN8) | [Ella Ya Murió](https://open.spotify.com/album/2dC9MuUxi90lLwlqnbrSwV) | 5:01 |
 | 65 | [Dolor de Madre](https://open.spotify.com/track/5My9wcnFr3dFFEO6yh8VBO) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [15 Éxitos](https://open.spotify.com/album/75qmnaAXlMCRlgG4ydpsbV) | 4:15 |
 | 66 | [No Pinches Mames](https://open.spotify.com/track/6uKMEHRAyURvyleRykDMPg) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [\#Nopinchesmames](https://open.spotify.com/album/0f7hbtdhG4rW5xNydzad7d) | 3:19 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42a57xwmtrj.md) - [plain]
 | 74 | [Oye Cantinero](https://open.spotify.com/track/2P5ujdnvH3G4MNwWLUY129) | [Three Souls In My Mind](https://open.spotify.com/artist/0FWt6THmobpdzk7727cq2R) | [15 Grandes Exitos](https://open.spotify.com/album/4XF4LoXW8gg1wMVLLfJIRR) | 2:42 |
 | 75 | [Charrock And Roll](https://open.spotify.com/track/3HmqRXlhhobsLaw3Bj1uIR) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [Botellita De Jerez](https://open.spotify.com/album/78MN9NUuPR8pxYx7m0WYcg) | 2:40 |
 
-Snapshot ID: `MTY0Njk3MTk4MiwwMDAwMDAwMDgyZGQyM2RmODJhYjU0MTU1MWY4ZmI2MjM0NTkzYmIz`
+Snapshot ID: `MTY0Njk3MTk4MiwwMDAwMDAwMDYwYjg1NjY1NWU1MDE5MTM5NWFmYjY1OTFlZGUwMDMz`

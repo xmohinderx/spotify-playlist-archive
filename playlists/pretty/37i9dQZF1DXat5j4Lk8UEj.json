@@ -1,12 +1,12 @@
 {
   "description": "A mix of electric roots rock and folk-infused alternative. Cover: Nathaniel Rateliff & the Night Sweats",
-  "num_followers": 479759,
+  "num_followers": 479806,
   "original_name": "Folk Rock Favorites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NjM3MDAwMCwwMDAwMDAwMDJmMDAzZmU3NjlhYWI0YjkzOGE1ZTA4NzkzNjEwZWMw",
+  "snapshot_id": "MTY0NjM3MDAwMCwwMDAwMDAwMGE1YTI2YjQ3MTM3MTYzYzU2ZTA3NTFhYWQxNDM0ZTgz",
   "tracks": [
     {
       "added_at": "2022-02-17 17:26:43",
@@ -631,22 +631,6 @@
     {
       "added_at": "2022-02-17 17:26:43",
       "album": {
-        "name": "Beneath The Skin",
-        "url": "https://open.spotify.com/album/2mD97VgxTRfwB8F5tvkwrL"
-      },
-      "artists": [
-        {
-          "name": "Of Monsters and Men",
-          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
-        }
-      ],
-      "duration_ms": 276466,
-      "name": "I Of The Storm",
-      "url": "https://open.spotify.com/track/3xGmbotxgSltJ5qHX7aZfe"
-    },
-    {
-      "added_at": "2022-02-17 17:26:43",
-      "album": {
         "name": "Imaginary Man",
         "url": "https://open.spotify.com/album/72YUTJrAuTuSHSVrgixbor"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 223240,
       "name": "Misnomer",
       "url": "https://open.spotify.com/track/3awBLJoDSXa3TjQeDNhGlq"
+    },
+    {
+      "added_at": "2022-02-17 17:26:43",
+      "album": {
+        "name": "Beneath The Skin",
+        "url": "https://open.spotify.com/album/2mD97VgxTRfwB8F5tvkwrL"
+      },
+      "artists": [
+        {
+          "name": "Of Monsters and Men",
+          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
+        }
+      ],
+      "duration_ms": 276466,
+      "name": "I Of The Storm",
+      "url": "https://open.spotify.com/track/3xGmbotxgSltJ5qHX7aZfe"
     },
     {
       "added_at": "2022-02-17 17:26:43",
@@ -807,22 +807,6 @@
     {
       "added_at": "2022-02-17 17:26:43",
       "album": {
-        "name": "Cheers",
-        "url": "https://open.spotify.com/album/449AwHLbBwEzRvAqIQr5mB"
-      },
-      "artists": [
-        {
-          "name": "The Wild Reeds",
-          "url": "https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH"
-        }
-      ],
-      "duration_ms": 228707,
-      "name": "Lose My Mind",
-      "url": "https://open.spotify.com/track/7djjzziCovlTf0yXGIArWS"
-    },
-    {
-      "added_at": "2022-02-17 17:26:43",
-      "album": {
         "name": "Grizfolk",
         "url": "https://open.spotify.com/album/0AfobQJbuAN9JgfcTvF20R"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 204441,
       "name": "The Ripple",
       "url": "https://open.spotify.com/track/6EfxByCmL6EYCtnLIKCOy6"
+    },
+    {
+      "added_at": "2022-02-17 17:26:43",
+      "album": {
+        "name": "Cheers",
+        "url": "https://open.spotify.com/album/449AwHLbBwEzRvAqIQr5mB"
+      },
+      "artists": [
+        {
+          "name": "The Wild Reeds",
+          "url": "https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH"
+        }
+      ],
+      "duration_ms": 228707,
+      "name": "Lose My Mind",
+      "url": "https://open.spotify.com/track/7djjzziCovlTf0yXGIArWS"
     },
     {
       "added_at": "2022-02-17 17:26:43",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2022-02-17 17:26:43",
       "album": {
-        "name": "How Low",
-        "url": "https://open.spotify.com/album/4c9IVypw3UiHl8wBhqLe5s"
-      },
-      "artists": [
-        {
-          "name": "Heartless Bastards",
-          "url": "https://open.spotify.com/artist/2wwMTLM2da1sa2JcJslf8W"
-        }
-      ],
-      "duration_ms": 244160,
-      "name": "How Low",
-      "url": "https://open.spotify.com/track/6aKbgrbGG8KUU6WNSaOWR9"
-    },
-    {
-      "added_at": "2022-02-17 17:26:43",
-      "album": {
         "name": "Jockeys of Love",
         "url": "https://open.spotify.com/album/3yAepUj1zxXIt5g7w6uvYT"
       },
@@ -1051,18 +1035,18 @@
     {
       "added_at": "2022-02-17 17:26:43",
       "album": {
-        "name": "Bad Moves",
-        "url": "https://open.spotify.com/album/6c2fkeEyjpOCqJqj5L6BTy"
+        "name": "How Low",
+        "url": "https://open.spotify.com/album/4c9IVypw3UiHl8wBhqLe5s"
       },
       "artists": [
         {
-          "name": "The Bones of J.R. Jones",
-          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
+          "name": "Heartless Bastards",
+          "url": "https://open.spotify.com/artist/2wwMTLM2da1sa2JcJslf8W"
         }
       ],
-      "duration_ms": 246800,
-      "name": "Bad Moves",
-      "url": "https://open.spotify.com/track/04LtT3aIQTrKUpVR9UG3OL"
+      "duration_ms": 244160,
+      "name": "How Low",
+      "url": "https://open.spotify.com/track/6aKbgrbGG8KUU6WNSaOWR9"
     },
     {
       "added_at": "2022-02-17 17:26:43",
@@ -1079,6 +1063,22 @@
       "duration_ms": 199413,
       "name": "Who Do You Think You're Talking To?",
       "url": "https://open.spotify.com/track/3JRKgmK00uNLQzXGcLUaZ3"
+    },
+    {
+      "added_at": "2022-02-17 17:26:43",
+      "album": {
+        "name": "Bad Moves",
+        "url": "https://open.spotify.com/album/6c2fkeEyjpOCqJqj5L6BTy"
+      },
+      "artists": [
+        {
+          "name": "The Bones of J.R. Jones",
+          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
+        }
+      ],
+      "duration_ms": 246800,
+      "name": "Bad Moves",
+      "url": "https://open.spotify.com/track/04LtT3aIQTrKUpVR9UG3OL"
     },
     {
       "added_at": "2022-02-17 17:26:43",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2022-02-17 17:26:43",
       "album": {
+        "name": "Topaz",
+        "url": "https://open.spotify.com/album/0jvcLSp8mVWIEgcoTVqeM2"
+      },
+      "artists": [
+        {
+          "name": "Israel Nash",
+          "url": "https://open.spotify.com/artist/5skM4jc4QoEpHiWWl6OoW7"
+        }
+      ],
+      "duration_ms": 214944,
+      "name": "Down in the Country",
+      "url": "https://open.spotify.com/track/53XNcCqYctEXLvT8XvumCC"
+    },
+    {
+      "added_at": "2022-02-17 17:26:43",
+      "album": {
         "name": "Stay Gold",
         "url": "https://open.spotify.com/album/6toF7GAattD7gLgqKbY8f9"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 235264,
       "name": "Running Home to You",
       "url": "https://open.spotify.com/track/6SC9DUmZnaNyrmARkM0wu5"
-    },
-    {
-      "added_at": "2022-02-17 17:26:43",
-      "album": {
-        "name": "Topaz",
-        "url": "https://open.spotify.com/album/0jvcLSp8mVWIEgcoTVqeM2"
-      },
-      "artists": [
-        {
-          "name": "Israel Nash",
-          "url": "https://open.spotify.com/artist/5skM4jc4QoEpHiWWl6OoW7"
-        }
-      ],
-      "duration_ms": 214944,
-      "name": "Down in the Country",
-      "url": "https://open.spotify.com/track/53XNcCqYctEXLvT8XvumCC"
     },
     {
       "added_at": "2022-02-17 17:26:43",
@@ -1227,18 +1227,18 @@
     {
       "added_at": "2022-02-17 17:26:43",
       "album": {
-        "name": "Quietly Blowing It",
-        "url": "https://open.spotify.com/album/1iNOO5VSJciTGogwlClRsa"
+        "name": "Different Kinds of Light",
+        "url": "https://open.spotify.com/album/1f1u0MpV823YGBjQBb8JJ9"
       },
       "artists": [
         {
-          "name": "Hiss Golden Messenger",
-          "url": "https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE"
+          "name": "Jade Bird",
+          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
         }
       ],
-      "duration_ms": 197305,
-      "name": "Hardlytown",
-      "url": "https://open.spotify.com/track/346UuSw3CRabhoqCpnC1a6"
+      "duration_ms": 215493,
+      "name": "Now is the Time",
+      "url": "https://open.spotify.com/track/5PiY6q31Ps3st88R3wNLhE"
     },
     {
       "added_at": "2022-02-17 17:26:43",
@@ -1255,6 +1255,22 @@
       "duration_ms": 197787,
       "name": "Alone but Not Alone",
       "url": "https://open.spotify.com/track/3A19z3kNfPtKvXU5NuAs2J"
+    },
+    {
+      "added_at": "2022-02-17 17:26:43",
+      "album": {
+        "name": "Quietly Blowing It",
+        "url": "https://open.spotify.com/album/1iNOO5VSJciTGogwlClRsa"
+      },
+      "artists": [
+        {
+          "name": "Hiss Golden Messenger",
+          "url": "https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE"
+        }
+      ],
+      "duration_ms": 197305,
+      "name": "Hardlytown",
+      "url": "https://open.spotify.com/track/346UuSw3CRabhoqCpnC1a6"
     },
     {
       "added_at": "2022-02-17 17:26:43",
@@ -1291,22 +1307,6 @@
     {
       "added_at": "2022-02-17 17:26:43",
       "album": {
-        "name": "Different Kinds of Light",
-        "url": "https://open.spotify.com/album/1f1u0MpV823YGBjQBb8JJ9"
-      },
-      "artists": [
-        {
-          "name": "Jade Bird",
-          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
-        }
-      ],
-      "duration_ms": 215493,
-      "name": "Now is the Time",
-      "url": "https://open.spotify.com/track/5PiY6q31Ps3st88R3wNLhE"
-    },
-    {
-      "added_at": "2022-02-17 17:26:43",
-      "album": {
         "name": "Breaking Point",
         "url": "https://open.spotify.com/album/36KsjnvXcJLoMD1VW6JhQZ"
       },
@@ -1335,6 +1335,22 @@
       "duration_ms": 250480,
       "name": "The First Day",
       "url": "https://open.spotify.com/track/54ocv5qsX6eIjk8C5AyRpT"
+    },
+    {
+      "added_at": "2022-02-17 17:26:43",
+      "album": {
+        "name": "Different Kinds of Light",
+        "url": "https://open.spotify.com/album/1f1u0MpV823YGBjQBb8JJ9"
+      },
+      "artists": [
+        {
+          "name": "Jade Bird",
+          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
+        }
+      ],
+      "duration_ms": 142818,
+      "name": "Headstart",
+      "url": "https://open.spotify.com/track/7pwv5cbW7hj4HVv3US4XUT"
     },
     {
       "added_at": "2022-02-17 17:26:43",
@@ -1403,22 +1419,6 @@
     {
       "added_at": "2022-02-17 17:26:43",
       "album": {
-        "name": "Different Kinds of Light",
-        "url": "https://open.spotify.com/album/1f1u0MpV823YGBjQBb8JJ9"
-      },
-      "artists": [
-        {
-          "name": "Jade Bird",
-          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
-        }
-      ],
-      "duration_ms": 142818,
-      "name": "Headstart",
-      "url": "https://open.spotify.com/track/7pwv5cbW7hj4HVv3US4XUT"
-    },
-    {
-      "added_at": "2022-02-17 17:26:43",
-      "album": {
         "name": "That Kind of Life",
         "url": "https://open.spotify.com/album/776dKpykjwfek0RB4dKfhV"
       },
@@ -1447,6 +1447,38 @@
       "duration_ms": 236880,
       "name": "All About Our Love",
       "url": "https://open.spotify.com/track/6Bdb25Xd50dlIZWuSjEuTO"
+    },
+    {
+      "added_at": "2022-02-17 17:26:43",
+      "album": {
+        "name": "Inwards & Onwards",
+        "url": "https://open.spotify.com/album/0VEMheeFHsdgqFY9sFqvYO"
+      },
+      "artists": [
+        {
+          "name": "Half Moon Run",
+          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
+        }
+      ],
+      "duration_ms": 138939,
+      "name": "How Come My Body",
+      "url": "https://open.spotify.com/track/0x7OMTKyisoB40neHlnJ8H"
+    },
+    {
+      "added_at": "2022-02-17 17:26:43",
+      "album": {
+        "name": "Jade Bird",
+        "url": "https://open.spotify.com/album/0uM13moSmPXlIV41oSA6U8"
+      },
+      "artists": [
+        {
+          "name": "Jade Bird",
+          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
+        }
+      ],
+      "duration_ms": 153151,
+      "name": "Lottery",
+      "url": "https://open.spotify.com/track/2P7SSaE99q5MNjVm0Lz7bS"
     },
     {
       "added_at": "2022-02-17 17:26:43",
@@ -1531,22 +1563,6 @@
     {
       "added_at": "2022-02-17 17:26:43",
       "album": {
-        "name": "Jade Bird",
-        "url": "https://open.spotify.com/album/0uM13moSmPXlIV41oSA6U8"
-      },
-      "artists": [
-        {
-          "name": "Jade Bird",
-          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
-        }
-      ],
-      "duration_ms": 153151,
-      "name": "Lottery",
-      "url": "https://open.spotify.com/track/2P7SSaE99q5MNjVm0Lz7bS"
-    },
-    {
-      "added_at": "2022-02-17 17:26:43",
-      "album": {
         "name": "This Time I See It",
         "url": "https://open.spotify.com/album/3VGWawHYkkcHTBftEfD5Ev"
       },
@@ -1559,22 +1575,6 @@
       "duration_ms": 228040,
       "name": "Why You Gotta Be",
       "url": "https://open.spotify.com/track/4uyVtAFRciCP9fGqG3sm25"
-    },
-    {
-      "added_at": "2022-02-17 17:26:43",
-      "album": {
-        "name": "Inwards & Onwards",
-        "url": "https://open.spotify.com/album/0VEMheeFHsdgqFY9sFqvYO"
-      },
-      "artists": [
-        {
-          "name": "Half Moon Run",
-          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
-        }
-      ],
-      "duration_ms": 138939,
-      "name": "How Come My Body",
-      "url": "https://open.spotify.com/track/0x7OMTKyisoB40neHlnJ8H"
     },
     {
       "added_at": "2022-02-17 17:26:43",

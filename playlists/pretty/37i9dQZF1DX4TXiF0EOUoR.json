@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Los reyes del jaripeo!",
-  "num_followers": 95876,
+  "num_followers": 95960,
   "original_name": "Jaripeo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzAxMTIwNywwMDAwMDAwMGNhYjYyZjhhMDk0ODQ1YmEzYzYyMTQwZWNiM2U3MWE1",
+  "snapshot_id": "MTY2MzAxMTIwNywwMDAwMDAwMDIxOWQwMjIxMmUwMzUyYjhmMWYyOTNjMDgyZTFjNGZl",
   "tracks": [
     {
       "added_at": "2022-09-12 19:33:27",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2022-09-12 19:33:27",
       "album": {
-        "name": "Pal Rancho 100% Chicoteadas",
-        "url": "https://open.spotify.com/album/5i7b3QzBMm0veTlnB1gwik"
-      },
-      "artists": [
-        {
-          "name": "Tamborazo Caliente",
-          "url": "https://open.spotify.com/artist/1YzJJDforMoBGJeBLPAhRi"
-        }
-      ],
-      "duration_ms": 211121,
-      "name": "Rumbo A La Canada",
-      "url": "https://open.spotify.com/track/6VZzJ19D47BGoZua2Ht7yD"
-    },
-    {
-      "added_at": "2022-09-12 19:33:27",
-      "album": {
         "name": "Durmiendo en el Lugar Equivocado",
         "url": "https://open.spotify.com/album/50x6RBfdV0Ao2eX3T2ekty"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 210280,
       "name": "La Bola (Pelotero a la Bola)",
       "url": "https://open.spotify.com/track/2pdaGbHeRy6i5DJuWbLg3t"
+    },
+    {
+      "added_at": "2022-09-12 19:33:27",
+      "album": {
+        "name": "El Guapo",
+        "url": "https://open.spotify.com/album/1pSk7ehWJhdmJYaU8JobaP"
+      },
+      "artists": [
+        {
+          "name": "Banda Fresa Roja",
+          "url": "https://open.spotify.com/artist/5k6geKS4IAc3ay7YuDM7Y0"
+        }
+      ],
+      "duration_ms": 188696,
+      "name": "El Guapo",
+      "url": "https://open.spotify.com/track/51zDKkKUFMpKtT40t80lpq"
     },
     {
       "added_at": "2022-09-12 19:33:27",
@@ -1087,18 +1087,18 @@
     {
       "added_at": "2022-09-12 19:33:27",
       "album": {
-        "name": "El Guapo",
-        "url": "https://open.spotify.com/album/1pSk7ehWJhdmJYaU8JobaP"
+        "name": "Pal Rancho 100% Chicoteadas",
+        "url": "https://open.spotify.com/album/5i7b3QzBMm0veTlnB1gwik"
       },
       "artists": [
         {
-          "name": "Banda Fresa Roja",
-          "url": "https://open.spotify.com/artist/5k6geKS4IAc3ay7YuDM7Y0"
+          "name": "Tamborazo Caliente",
+          "url": "https://open.spotify.com/artist/1YzJJDforMoBGJeBLPAhRi"
         }
       ],
-      "duration_ms": 188696,
-      "name": "El Guapo",
-      "url": "https://open.spotify.com/track/51zDKkKUFMpKtT40t80lpq"
+      "duration_ms": 211121,
+      "name": "Rumbo A La Canada",
+      "url": "https://open.spotify.com/track/6VZzJ19D47BGoZua2Ht7yD"
     },
     {
       "added_at": "2022-09-12 19:33:27",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2022-09-12 19:33:27",
       "album": {
-        "name": "Puros Popurris De Sones",
-        "url": "https://open.spotify.com/album/2DbxbOYecqfAD3alfKSSXJ"
-      },
-      "artists": [
-        {
-          "name": "La Razza del Compa Edgar",
-          "url": "https://open.spotify.com/artist/4yfxTpIJDOaXGPLta4K99K"
-        }
-      ],
-      "duration_ms": 288072,
-      "name": "Homenaje a Un Barbaro ... Son Del Muerto / Juan Colorado / Toro De Once / Arriba Pichataro /Son De Los Chinelos /Flor De Pi\u00f1a",
-      "url": "https://open.spotify.com/track/28cM4koCwfkUIprAMLHNRd"
-    },
-    {
-      "added_at": "2022-09-12 19:33:27",
-      "album": {
         "name": "Bicentenario",
         "url": "https://open.spotify.com/album/6tFbIEt2apg5Zj1KPCdyMi"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 208771,
       "name": "La Mujer del Pelotero",
       "url": "https://open.spotify.com/track/7CjNZMpa03xdHh6YKq1bkf"
+    },
+    {
+      "added_at": "2022-09-12 19:33:27",
+      "album": {
+        "name": "Puros Popurris De Sones",
+        "url": "https://open.spotify.com/album/2DbxbOYecqfAD3alfKSSXJ"
+      },
+      "artists": [
+        {
+          "name": "La Razza del Compa Edgar",
+          "url": "https://open.spotify.com/artist/4yfxTpIJDOaXGPLta4K99K"
+        }
+      ],
+      "duration_ms": 288072,
+      "name": "Homenaje a Un Barbaro ... Son Del Muerto / Juan Colorado / Toro De Once / Arriba Pichataro /Son De Los Chinelos /Flor De Pi\u00f1a",
+      "url": "https://open.spotify.com/track/28cM4koCwfkUIprAMLHNRd"
     },
     {
       "added_at": "2022-09-12 19:33:27",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2022-09-12 19:33:27",
       "album": {
+        "name": "Y Sigue la Historia (12 Exitos \u00a1\u00a1 la Explosiva!!)",
+        "url": "https://open.spotify.com/album/54fAyGnLO7KQjjWdB1nQaV"
+      },
+      "artists": [
+        {
+          "name": "Banda Sinaloense de Acero",
+          "url": "https://open.spotify.com/artist/2SKZP0y4x69KfHpd8QSDRe"
+        }
+      ],
+      "duration_ms": 135146,
+      "name": "El Sauce y la Palma",
+      "url": "https://open.spotify.com/track/1qmNvOyMuWtVCsLD4fvdz1"
+    },
+    {
+      "added_at": "2022-09-12 19:33:27",
+      "album": {
         "name": "Zapateado Perron",
         "url": "https://open.spotify.com/album/3Lz2dyR7iYlDI600eyCDD6"
       },
@@ -1299,22 +1315,6 @@
       "duration_ms": 167100,
       "name": "Los Colorados (feat. Banda los Escamilla)",
       "url": "https://open.spotify.com/track/5xLUgaS5V8x2cDfvdwH4Je"
-    },
-    {
-      "added_at": "2022-09-12 19:33:27",
-      "album": {
-        "name": "Y Sigue la Historia (12 Exitos \u00a1\u00a1 la Explosiva!!)",
-        "url": "https://open.spotify.com/album/54fAyGnLO7KQjjWdB1nQaV"
-      },
-      "artists": [
-        {
-          "name": "Banda Sinaloense de Acero",
-          "url": "https://open.spotify.com/artist/2SKZP0y4x69KfHpd8QSDRe"
-        }
-      ],
-      "duration_ms": 135146,
-      "name": "El Sauce y la Palma",
-      "url": "https://open.spotify.com/track/1qmNvOyMuWtVCsLD4fvdz1"
     },
     {
       "added_at": "2022-09-12 19:33:27",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2022-09-12 19:33:27",
       "album": {
-        "name": "Puros Popurris De Sones",
-        "url": "https://open.spotify.com/album/2DbxbOYecqfAD3alfKSSXJ"
-      },
-      "artists": [
-        {
-          "name": "La Razza del Compa Edgar",
-          "url": "https://open.spotify.com/artist/4yfxTpIJDOaXGPLta4K99K"
-        }
-      ],
-      "duration_ms": 199307,
-      "name": "Popurri De Sones Barbaro .. Son Del Toro / Huitzuque\u00f1o / Los Colorados / Las Guacayas",
-      "url": "https://open.spotify.com/track/12n0TbGdvDMLeZ4c48drUO"
-    },
-    {
-      "added_at": "2022-09-12 19:33:27",
-      "album": {
         "name": "En Vivo Desde El Rancho",
         "url": "https://open.spotify.com/album/4zgtbXo3phFaCdBnGQ4x8N"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 192066,
       "name": "La Vaquilla",
       "url": "https://open.spotify.com/track/42zeCHx9BC59y2oRG6DBxf"
+    },
+    {
+      "added_at": "2022-09-12 19:33:27",
+      "album": {
+        "name": "Puros Popurris De Sones",
+        "url": "https://open.spotify.com/album/2DbxbOYecqfAD3alfKSSXJ"
+      },
+      "artists": [
+        {
+          "name": "La Razza del Compa Edgar",
+          "url": "https://open.spotify.com/artist/4yfxTpIJDOaXGPLta4K99K"
+        }
+      ],
+      "duration_ms": 199307,
+      "name": "Popurri De Sones Barbaro .. Son Del Toro / Huitzuque\u00f1o / Los Colorados / Las Guacayas",
+      "url": "https://open.spotify.com/track/12n0TbGdvDMLeZ4c48drUO"
     },
     {
       "added_at": "2022-09-12 19:33:27",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2022-09-12 19:33:27",
       "album": {
-        "name": "El Chavo del Ocho (The Elephant Never Forgets)",
-        "url": "https://open.spotify.com/album/3cGKC5MjiEJiCpG3InChD9"
-      },
-      "artists": [
-        {
-          "name": "Banda Perla De Michoac\u00e1n",
-          "url": "https://open.spotify.com/artist/2ensvIDANP7J8Y81kmno84"
-        }
-      ],
-      "duration_ms": 166876,
-      "name": "El Chavo del Ocho (The Elephant Never Forgets)",
-      "url": "https://open.spotify.com/track/5cFY7DAekksn0hroUe8K02"
-    },
-    {
-      "added_at": "2022-09-12 19:33:27",
-      "album": {
         "name": "La Reyna de los Sones",
         "url": "https://open.spotify.com/album/5tErULkM04YxqT8fLCljy3"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 202760,
       "name": "La Diana Ranchera",
       "url": "https://open.spotify.com/track/2r1gbcvrF9F4NulPuFp9CB"
+    },
+    {
+      "added_at": "2022-09-12 19:33:27",
+      "album": {
+        "name": "El Chavo del Ocho (The Elephant Never Forgets)",
+        "url": "https://open.spotify.com/album/3cGKC5MjiEJiCpG3InChD9"
+      },
+      "artists": [
+        {
+          "name": "Banda Perla De Michoac\u00e1n",
+          "url": "https://open.spotify.com/artist/2ensvIDANP7J8Y81kmno84"
+        }
+      ],
+      "duration_ms": 166876,
+      "name": "El Chavo del Ocho (The Elephant Never Forgets)",
+      "url": "https://open.spotify.com/track/5cFY7DAekksn0hroUe8K02"
     },
     {
       "added_at": "2022-09-12 19:33:27",

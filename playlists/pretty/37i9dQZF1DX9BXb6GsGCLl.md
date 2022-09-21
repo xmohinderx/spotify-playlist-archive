@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BXb6GsGCLl.md) - [plain]
 
 > Fuel your powerwalk with these upbeat and uplifting tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 490,056 likes - 80 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 490,071 likes - 80 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BXb6GsGCLl.md) - [plain]
 | 16 | [Rain On Me \(with Ariana Grande\)](https://open.spotify.com/track/24ySl2hOPGCDcxBxFIqWBu) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Rain On Me \(with Ariana Grande\)](https://open.spotify.com/album/4TqgXMSSTwP3RCo3MMSR6t) | 3:02 |
 | 17 | [Alone, Pt\. II](https://open.spotify.com/track/0bMbDctzMmTyK2j74j3nF3) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Alone, Pt\. II](https://open.spotify.com/album/700MviIgFKNTldTXmOAFOr) | 2:59 |
 | 18 | [One Thing Right](https://open.spotify.com/track/4hPpVbbakQNv8YTHYaOJP4) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [One Thing Right](https://open.spotify.com/album/4QAC6FquY8D0RXom13iE5J) | 3:01 |
-| 19 | [Don't Say Goodbye \(feat\. Tove Lo\)](https://open.spotify.com/track/0GTPmh5G40joBg93vcSQNq) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Ilkay Sencan](https://open.spotify.com/artist/5deLgmgAEgy8UHOfJ9Dj8w), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Don't Say Goodbye \(feat\. Tove Lo\)](https://open.spotify.com/album/6UVhujgLKhIKtLv7gI0AHX) | 3:06 |
-| 20 | [Dive](https://open.spotify.com/track/2aXC0fD6qziwlOZZqhCqTd) | [Hot Shade](https://open.spotify.com/artist/3GtCKJA4SkOxN65MWjm82R), [Mike Perry](https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c), [Chris James](https://open.spotify.com/artist/1PU4kQGbRVMSyvawEYEjFp) | [Dive](https://open.spotify.com/album/0kCeC3O3QGbCYDJGCGUIce) | 2:44 |
+| 19 | [Dive](https://open.spotify.com/track/2aXC0fD6qziwlOZZqhCqTd) | [Hot Shade](https://open.spotify.com/artist/3GtCKJA4SkOxN65MWjm82R), [Mike Perry](https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c), [Chris James](https://open.spotify.com/artist/1PU4kQGbRVMSyvawEYEjFp) | [Dive](https://open.spotify.com/album/0kCeC3O3QGbCYDJGCGUIce) | 2:44 |
+| 20 | [Don't Say Goodbye \(feat\. Tove Lo\)](https://open.spotify.com/track/0GTPmh5G40joBg93vcSQNq) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Ilkay Sencan](https://open.spotify.com/artist/5deLgmgAEgy8UHOfJ9Dj8w), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Don't Say Goodbye \(feat\. Tove Lo\)](https://open.spotify.com/album/6UVhujgLKhIKtLv7gI0AHX) | 3:06 |
 | 21 | [This Feeling](https://open.spotify.com/track/4NBTZtAt1F13VvlSKe6KTl) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Sick Boy](https://open.spotify.com/album/6ZvDJs17O3woQirttKRYCG) | 3:17 |
 | 22 | [Tick Tock \(feat\. 24kGoldn\)](https://open.spotify.com/track/27u7t9d7ZQoyjsCROHuZJ3) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4), [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [Tick Tock \(feat\. 24kGoldn\)](https://open.spotify.com/album/3tuAs968COA2vxKjiLvmxr) | 2:58 |
 | 23 | [Lasting Lover](https://open.spotify.com/track/0DmAvNCAK08oCi7miSZUIY) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Lasting Lover](https://open.spotify.com/album/262JcveAzA4ngibAS3Ocm8) | 3:38 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BXb6GsGCLl.md) - [plain]
 | 79 | [Be Kind](https://open.spotify.com/track/5pE4OLVJh5rjaLERbUgBB2) | [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [Be Kind](https://open.spotify.com/album/1mWXLzWQS9hleyqLwPGu8r) | 3:01 |
 | 80 | [Whenever \(feat\. Conor Maynard\)](https://open.spotify.com/track/3DGar7krWlmrXRFHBcQF6z) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [The Boy Next Door](https://open.spotify.com/artist/4QfOh8rJ0OddhhXHD5QyWs), [Conor Maynard](https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu) | [Whenever \(feat\. Conor Maynard\)](https://open.spotify.com/album/5so9rCf7p2L6w6o4KZahE9) | 2:43 |
 
-Snapshot ID: `MTYyOTQ0NzY1MywwMDAwMDAwMGY2YWMzZDY5OTEyZGJlYmQ0ZTEzNDY5NTFjZTExMzg3`
+Snapshot ID: `MTYyOTQ0NzY1MywwMDAwMDAwMGQwZTA5NjU2OTY4MGY1MGYzZjdhYTU3MDVhNTVjZTM5`

@@ -4,7 +4,7 @@
 
 > Chill Korean tunes that's perfect with your latte or americano\. \(카페와 어울리는 편안한 음악들을 감상하세요.\)
 
-229 songs - 12 hr 59 min - [published](https://open.spotify.com/playlist/3lwK9QgbybtcQdnp8W1GCQ)
+230 songs - 13 hr 4 min - [published](https://open.spotify.com/playlist/3lwK9QgbybtcQdnp8W1GCQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [HELLO](https://open.spotify.com/track/6RFFcuwXQwmxF1djh4xTuH) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Ending Again Part.2](https://open.spotify.com/album/5ROgA3EIdkr1Rauyuklkhm) | 3:25 | 2022-04-12 | 2022-07-25 |
 | [Hello Tutorial](https://open.spotify.com/track/36UcoqH2P24RtSGbLKLK3w) | [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby), [SEULGI](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) | [ZZZ](https://open.spotify.com/album/3jXVfwnqhI1wBwC2U416Ya) | 3:22 | 2022-07-22 |  |
 | [Hello Tutorial](https://open.spotify.com/track/4vh0x47AvwbCywPOlEmfFQ) | [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby), [SEULGI](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) | [ZZZ](https://open.spotify.com/album/1h68ClpWp0bS59PAZuLk4X) | 3:22 | 2022-06-20 | 2022-06-28 |
+| [Hi spring Bye](https://open.spotify.com/track/2M7a2Us8CEU1HZHj70byGX) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 5:24 | 2022-09-05 |  |
 | [Home \(away from home\)](https://open.spotify.com/track/3XEeAlrVUxxS23NOJaF6CC) | [Dazzling Jihye](https://open.spotify.com/artist/5T6o5MUD02GoAhKjiJgCgB) | [Home \(away from home\)](https://open.spotify.com/album/1O7cZLq8I2Aq2M1n603g10) | 4:48 | 2022-07-04 | 2022-07-09 |
 | [how's your summer?](https://open.spotify.com/track/4d96YEbQXNqQsbBauaButp) | [Haru Kid](https://open.spotify.com/artist/79Hx3llVFe5RtRJAosF3MW) | [how's your summer?](https://open.spotify.com/album/1zJfPqG84GCiB8H67Dsgtn) | 2:37 | 2022-07-09 | 2022-07-23 |
 | [Hug Me Silently 말 없이 안아줘 \(feat\. Crucial Star\)](https://open.spotify.com/track/78kl659eYAIUCkt6LZ4fGE) | [Hyolyn](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ), [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ) | [Hug Me Silently 말 없이 안아줘 \(feat\. Crucial Star\)](https://open.spotify.com/album/65341el3J8XVp20K1glcRU) | 4:09 | 2022-04-12 | 2022-04-21 |
@@ -109,7 +110,7 @@
 | [LEMONADE \(feat\. San E\)](https://open.spotify.com/track/2Og7E5ztp24WVv5ualvxKV) | [LIMZY](https://open.spotify.com/artist/5UBoOzYYNpwHfwXqr1JNXS), [San E](https://open.spotify.com/artist/61MMiylth1injW39oZBuYB) | [LEMONADE \(feat\. San E\)](https://open.spotify.com/album/2LAPE4OzqN0J87tuLbWAlK) | 2:51 | 2022-08-19 |  |
 | [Let Me Know](https://open.spotify.com/track/1SPDWTBH7qcjbZ8zMRXlQ9) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [Let Me Know](https://open.spotify.com/album/1x7V4e67JZoCpJWXSb8Yw1) | 3:08 | 2022-04-12 |  |
 | [Let's Get Lost](https://open.spotify.com/track/5hYYEUnGVFlAf9F95tZsrT) | [Sophiya](https://open.spotify.com/artist/4rmlD2kScuttioQsraasZn), [Dvwn](https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b) | [Let's Get Lost](https://open.spotify.com/album/5a3LEIPIytgwlO4IKEROLX) | 3:27 | 2022-04-12 | 2022-04-21 |
-| [Lights](https://open.spotify.com/track/6iFdx5TnKmYxh47Y3O1rBv) | [YUGYEOM](https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY) | [Take You Down](https://open.spotify.com/album/55igE6NKmOq7BthH5S0iZZ) | 2:52 | 2022-04-12 |  |
+| [Lights](https://open.spotify.com/track/6iFdx5TnKmYxh47Y3O1rBv) | [YUGYEOM](https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY) | [Take You Down](https://open.spotify.com/album/55igE6NKmOq7BthH5S0iZZ) | 2:52 | 2022-04-12 | 2022-09-21 |
 | [Like a Dream \(feat\. Ashley Alisha, kelsey kuan & Nicholas Roberts\)](https://open.spotify.com/track/5DRT1mVlE29XSnAS0bbZHq) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Ashley Alisha](https://open.spotify.com/artist/63P6hjn73jNbnEFT0gKWKk), [Nicholas Roberts](https://open.spotify.com/artist/5AzZFipQtJEUXeQ3JJzMX4), [Kelsey Kuan](https://open.spotify.com/artist/4aWzckAj2ZOeSBbLyYXtR9) | [About You](https://open.spotify.com/album/0LP2w2lrfCVm4goQqyJBRb) | 3:12 | 2022-08-01 | 2022-08-13 |
 | [Like A Fool](https://open.spotify.com/track/1E8Cztx0OIj4zm1IZh2XXj) | [NIve](https://open.spotify.com/artist/1qOPo6b0U3t7BpyO8Ti1MF), [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Like A Fool](https://open.spotify.com/album/4wJPiw5ZoTJFRUt2r2zvCy) | 3:34 | 2022-04-12 |  |
 | [Like a Joke](https://open.spotify.com/track/2VCGMQgReG4YAX7EQhHPIe) | [Seo actor](https://open.spotify.com/artist/0Xdas0Cm8xqrnjUKIb6aLF), [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Jae Luna](https://open.spotify.com/artist/0z1uYQ5NabhwzkRMHfUipU), [amin](https://open.spotify.com/artist/05FbaV2QkbVQoHri4l491N) | [Like a Joke](https://open.spotify.com/album/1uBjk0rR79y7hBz2AWDZSq) | 2:37 | 2022-04-21 | 2022-07-26 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Kappa Jotta.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,654 likes - 60 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,679 likes - 60 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,19 +54,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 44 | [Melanina](https://open.spotify.com/track/1jFxvJAGwD8DFctTJZHBjl) | [Aragão](https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4), [Bluay](https://open.spotify.com/artist/18jB1ZnaJSWmro1ExvqZo4) | [Melanina](https://open.spotify.com/album/1Fu5gGz80ynZmZWgty92Ch) | 4:04 |
 | 45 | [Não Me Enganas \(feat\. Ivandro & Nayr Faquira\)](https://open.spotify.com/track/6ghsknvRAMqCFmGlSfC7Tv) | [Deezy](https://open.spotify.com/artist/6EoXtJUmzYqNzkMVH1o5gN), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm), [Nayr Faquirá](https://open.spotify.com/artist/04UMTpKorelINdwYKsM9Tb) | [+ do Mesmo \- Parte 1](https://open.spotify.com/album/7DDasmVvLny9kVzO8AV3bD) | 4:48 |
 | 46 | [Tequila \(Studio Version\)](https://open.spotify.com/track/5daT88Zml8Stpw2oTeesJx) | [Nenny](https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1) | [Tequila \(Studio Version\)](https://open.spotify.com/album/75KlUT1wTgMEuYSdhUBT8M) | 3:19 |
-| 47 | [sedado](https://open.spotify.com/track/1oYeXvfELrtwfIj43N5hej) | [Holympo](https://open.spotify.com/artist/3nwFRfquZaKGnuH3b66uj9) | [sedado / baby](https://open.spotify.com/album/0ULlsgcy21IBSWhskJ9pOs) | 3:03 |
-| 48 | [Nossa História](https://open.spotify.com/track/0FMhIO3swGDiXrxEwX7JFh) | [Wayn Dior](https://open.spotify.com/artist/6XyLWVAcLW4CczaRsArj8n) | [Nossa História](https://open.spotify.com/album/6C9301eC7ZSUcIGJMUyOfu) | 3:33 |
+| 47 | [Nossa História](https://open.spotify.com/track/0FMhIO3swGDiXrxEwX7JFh) | [Wayn Dior](https://open.spotify.com/artist/6XyLWVAcLW4CczaRsArj8n) | [Nossa História](https://open.spotify.com/album/6C9301eC7ZSUcIGJMUyOfu) | 3:33 |
+| 48 | [sedado](https://open.spotify.com/track/1oYeXvfELrtwfIj43N5hej) | [Holympo](https://open.spotify.com/artist/3nwFRfquZaKGnuH3b66uj9) | [sedado / baby](https://open.spotify.com/album/0ULlsgcy21IBSWhskJ9pOs) | 3:03 |
 | 49 | [Pára](https://open.spotify.com/track/3Fr3Wit7KWJaZKDhwIbilT) | [Druh](https://open.spotify.com/artist/2KsalFyKIYXlhYFEaJMh35) | [Pára](https://open.spotify.com/album/3W5LuzDGWcfDIB6GsoTDNq) | 2:56 |
 | 50 | [Antes e Depois](https://open.spotify.com/track/1DM05DVGVhtQVgrlOXgO8V) | [Toty Sa'Med](https://open.spotify.com/artist/7bSdfJqYQHXa3oKbNuY1Os) | [Antes e Depois](https://open.spotify.com/album/5W6rbwC6PuzUA8MSI8ywWb) | 2:36 |
 | 51 | [Bali](https://open.spotify.com/track/7ftISqjVVB8kWXo2AseJrw) | [JONIE](https://open.spotify.com/artist/5deCRTmryD2B5IWCpmyjX8) | [Bali](https://open.spotify.com/album/2yXtuRdrcm2LajYHFnuzEz) | 2:53 |
 | 52 | [Aguardent](https://open.spotify.com/track/4B0JlP1HWrPFcmidHLVEB9) | [Jay Yo](https://open.spotify.com/artist/1wH7vQKdmZtKSI4r1YF33A), [Pucci Jr](https://open.spotify.com/artist/5frmw57upraPDcl8cEtISs) | [Aguardent](https://open.spotify.com/album/1bnfGUqWM2rUSUMnxCDBY1) | 3:28 |
-| 53 | [Blessing](https://open.spotify.com/track/4BVfXtcdki0yLemFWEFiFU) | [Lex](https://open.spotify.com/artist/0mXNHuEkPrnQlsxKsIqzBF) | [Blessing](https://open.spotify.com/album/37VCgtBGQi30cPyfFTfoJP) | 3:18 |
-| 54 | [Outra X](https://open.spotify.com/track/2cvVTn6IZQH2CtJNRNIH7b) | [Lil Noon](https://open.spotify.com/artist/3e4WPDmHpNiXhaAy8tGfRs) | [2](https://open.spotify.com/album/0MkqOHbny4RkabeHsIaVsp) | 3:26 |
-| 55 | [E Se Amanhã Eu Não Acordar?](https://open.spotify.com/track/76kA9bcAOo91KrlLFMmad3) | [Carlos Kendrick](https://open.spotify.com/artist/1a2ojKrPRx2TmnrLoCG5sH) | [E Se Amanhã Eu Não Acordar?](https://open.spotify.com/album/3HB9pyc6AOAbyX9GFAiUZV) | 3:22 |
-| 56 | [Mood](https://open.spotify.com/track/1wom6rtN6GoxF6wvaiwDOY) | [Kenwhy](https://open.spotify.com/artist/5Yp3BOk6SCxdUw914xgm3U), [Heidje](https://open.spotify.com/artist/5tm9w5jaG6pvK8Z0iRF0qx) | [Mood](https://open.spotify.com/album/3MCOgA0MAMksDYE6Ln4ldv) | 2:38 |
-| 57 | [Nós](https://open.spotify.com/track/6Dd3kjgwE8UPeyFDkSPMNF) | [Azart](https://open.spotify.com/artist/1sV336GXOSXGZnimU36h1F) | [Nós](https://open.spotify.com/album/4qa7YPzO9nVedEesEcWZYL) | 3:00 |
+| 53 | [Outra X](https://open.spotify.com/track/2cvVTn6IZQH2CtJNRNIH7b) | [Lil Noon](https://open.spotify.com/artist/3e4WPDmHpNiXhaAy8tGfRs) | [2](https://open.spotify.com/album/0MkqOHbny4RkabeHsIaVsp) | 3:26 |
+| 54 | [Blessing](https://open.spotify.com/track/4BVfXtcdki0yLemFWEFiFU) | [Lex](https://open.spotify.com/artist/0mXNHuEkPrnQlsxKsIqzBF) | [Blessing](https://open.spotify.com/album/37VCgtBGQi30cPyfFTfoJP) | 3:18 |
+| 55 | [Nós](https://open.spotify.com/track/6Dd3kjgwE8UPeyFDkSPMNF) | [Azart](https://open.spotify.com/artist/1sV336GXOSXGZnimU36h1F) | [Nós](https://open.spotify.com/album/4qa7YPzO9nVedEesEcWZYL) | 3:00 |
+| 56 | [E Se Amanhã Eu Não Acordar?](https://open.spotify.com/track/76kA9bcAOo91KrlLFMmad3) | [Carlos Kendrick](https://open.spotify.com/artist/1a2ojKrPRx2TmnrLoCG5sH) | [E Se Amanhã Eu Não Acordar?](https://open.spotify.com/album/3HB9pyc6AOAbyX9GFAiUZV) | 3:22 |
+| 57 | [Mood](https://open.spotify.com/track/1wom6rtN6GoxF6wvaiwDOY) | [Kenwhy](https://open.spotify.com/artist/5Yp3BOk6SCxdUw914xgm3U), [Heidje](https://open.spotify.com/artist/5tm9w5jaG6pvK8Z0iRF0qx) | [Mood](https://open.spotify.com/album/3MCOgA0MAMksDYE6Ln4ldv) | 2:38 |
 | 58 | [Chakra Sacro](https://open.spotify.com/track/1odGLuCnWaAnODMu7rbjwr) | [AMAURA](https://open.spotify.com/artist/5DrNU0zLTxAAvoiLzftD8l) | [Chakra Sacro](https://open.spotify.com/album/1Bw2eHlvZON8dCx9bn8o8R) | 3:40 |
 | 59 | [Morangos Com Açúcar](https://open.spotify.com/track/4SVkRtBTe3ygcqkcjeJul8) | [N\. Drew](https://open.spotify.com/artist/50bzchBpkgpIza1IRvVdW5) | [Morangos Com Açúcar](https://open.spotify.com/album/3lJHN9oCC1GP9W9DGflLHz) | 3:03 |
 | 60 | [NA NA NA \(feat\. Agir\)](https://open.spotify.com/track/4fDWhaNWTNHGI0SGsm9tvF) | [Karma](https://open.spotify.com/artist/4dy4hTb8rfqlxr4s2m6YJq), [Agir](https://open.spotify.com/artist/6CDebPALpa0iwJyx0IgnaC) | [NA NA NA \(feat\. Agir\)](https://open.spotify.com/album/4rG2ahHCoc3BW4OSn4nCFS) | 3:07 |
 
-Snapshot ID: `MTY2MzM0MDg5MCwwMDAwMDAwMGE4MWZmODg0MDBlMWJlMGYyNTEzODE5MjM2ZjYyYjJj`
+Snapshot ID: `MTY2MzM0MDg5MCwwMDAwMDAwMDdmMzlhZWJlZjg0ZTc5Yjg1NTY5N2Q4MTVmYTFkOTlj`

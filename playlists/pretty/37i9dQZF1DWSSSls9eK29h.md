@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSSls9eK29h.md) - [plain]
 
 > So smooth, so classic\. Cover: George Benson
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,756 likes - 60 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,862 likes - 60 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,9 +48,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSSls9eK29h.md) - [plain]
 | 38 | [Touchdown](https://open.spotify.com/track/01liKzGQmuq4BRFR19YaeI) | [Bob James](https://open.spotify.com/artist/6ryjbFyWBZho9KGXqKZdqQ) | [Touchdown](https://open.spotify.com/album/5ooWmAVLqcWvDDOid6hCC6) | 5:44 |
 | 39 | [Pamela](https://open.spotify.com/track/5SCZ6ciVRjDMXn7trnq3Np) | [Brian Hughes](https://open.spotify.com/artist/3mTVKCxS5jHVIh7zSggSZb) | [Straight To You](https://open.spotify.com/album/3op9EBV5dm6aicJFlTCAP9) | 5:16 |
 | 40 | [So Far From Home](https://open.spotify.com/track/1AjXzYmLg24sfQE0gy4Tmb) | [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm) | [Dave Koz](https://open.spotify.com/album/28dV8nGn5PWCWBvDX1SdIU) | 6:10 |
-| 41 | [Just Hold Me](https://open.spotify.com/track/4fSHesUea71Bw48PlMROLi) | [Walter Beasley](https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP) | [Intimacy](https://open.spotify.com/album/3T3epUgMPC4f34OooH2iRK) | 4:16 |
+| 41 | [Daydreamer](https://open.spotify.com/track/5JIxKHTZNGtlD809RTew19) | [Hiroshima](https://open.spotify.com/artist/5ZoVY6c0cokQrn448eRqSc) | [East](https://open.spotify.com/album/7Jaivw1fpoOhaCVQ9uHJKT) | 5:27 |
 | 42 | [Creepin'](https://open.spotify.com/track/6B4h6RRIQWRgXALcOjYLPo) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Trust](https://open.spotify.com/album/0tg8rdfKdeKxucD3R6al9Q) | 3:40 |
-| 43 | [Daydreamer](https://open.spotify.com/track/5JIxKHTZNGtlD809RTew19) | [Hiroshima](https://open.spotify.com/artist/5ZoVY6c0cokQrn448eRqSc) | [East](https://open.spotify.com/album/7Jaivw1fpoOhaCVQ9uHJKT) | 5:27 |
+| 43 | [Just Hold Me](https://open.spotify.com/track/4fSHesUea71Bw48PlMROLi) | [Walter Beasley](https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP) | [Intimacy](https://open.spotify.com/album/3T3epUgMPC4f34OooH2iRK) | 4:16 |
 | 44 | [West End](https://open.spotify.com/track/5KVlCe3igMGYLOY8PlIFCg) | [Steve Oliver](https://open.spotify.com/artist/0eorTItuLyKdhZmII8zREL) | [First View](https://open.spotify.com/album/3LoIE2A91sVmLYx5O2YSO8) | 5:26 |
 | 45 | [Easy Street](https://open.spotify.com/track/0Rxzmm8iwt1EyqoMHMd2Gm) | [Eric Marienthal](https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK) | [Easy Street](https://open.spotify.com/album/6eA5BYDdiYw7efNjIM6H74) | 5:17 |
 | 46 | [Charisma](https://open.spotify.com/track/3Yahrb4joLsIIdUSqyHJZ4) | [Tom Browne](https://open.spotify.com/artist/4Ytvi4r3WPIZmEw1Ndmkp9) | [Yours Truly](https://open.spotify.com/album/0Ru6eHAcH9inWvYlhr4c5w) | 3:41 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSSls9eK29h.md) - [plain]
 | 59 | [Affair In San Miguel](https://open.spotify.com/track/5LdbDkRMKDEYKYZxj3TpW9) | [The Rippingtons](https://open.spotify.com/artist/6hjqP9annof75B2TNBE0rO), [Steve Reid](https://open.spotify.com/artist/4jQrVUOMWHpcwAj9CJB1f0), [Brandon Fields](https://open.spotify.com/artist/6m677bkJTyCYHZZa6h8PR5) | [The Best Of The Rippingtons](https://open.spotify.com/album/0nq9ESVd0F7vZTREx8GLHD) | 5:08 |
 | 60 | [Love Will Find A Way](https://open.spotify.com/track/3ylLhJHuvVBbpcW1bcKpB5) | [George Howard](https://open.spotify.com/artist/0MDjU3FoGxwGH0rbkcwF2f) | [Dancing In The Sun](https://open.spotify.com/album/4riUrx6dAarcgrSLXRfKG9) | 5:59 |
 
-Snapshot ID: `MTY2MTc4MzY2MSwwMDAwMDAwMDIwMmQ0MDlmMjdlNWMyYTRkZjc4MTE0MzllOWZhYjA3`
+Snapshot ID: `MTY2MTc4MzY2MSwwMDAwMDAwMGVmMDRkYjdmZDRmY2QzYmVmY2QzZDEyODdjMzNjZmJi`

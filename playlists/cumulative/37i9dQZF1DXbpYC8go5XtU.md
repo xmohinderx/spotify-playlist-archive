@@ -4,7 +4,7 @@
 
 > Ambient music backed by the atmospheric sounds and elements of nature.
 
-146 songs - 12 hr 39 min - [published](https://open.spotify.com/playlist/7JtjL9J4rMiUbiR6UqNhl3)
+147 songs - 12 hr 45 min - [published](https://open.spotify.com/playlist/7JtjL9J4rMiUbiR6UqNhl3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Fromme](https://open.spotify.com/track/24BctB6JjJ4hwtpzUPkO3f) | [Loscil](https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK) | [coast/range/arc//](https://open.spotify.com/album/2aIBQ7UFrxGtMrPpmmZ6uE) | 7:42 | 2021-12-22 |  |
 | [Full Moon Serenade](https://open.spotify.com/track/62dO6LC8b5AYXY1MGiLNV1) | [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4), [Dallas Acid](https://open.spotify.com/artist/1xAG4AeOmO97QdYhoW01EA), [Arji OceAnanda](https://open.spotify.com/artist/3E5yAr7IdoYJYdJd0qeGIo) | [Arrive Without Leaving](https://open.spotify.com/album/39dMo7V0KDO3EF2klFTsEd) | 5:42 | 2021-12-22 |  |
 | [Genesis](https://open.spotify.com/track/6rFpQZLHq1fpJniWSTPlTz) | [Robert Bearns](https://open.spotify.com/artist/08uXRHg7U0r2Ft4KYijlyM), [Ron Dexter](https://open.spotify.com/artist/6HniY6qh1PML5gnGtOvajN) | [The Best of the Golden Voyage](https://open.spotify.com/album/7Au1hECfa7KYdNQwbVQENf) | 5:16 | 2021-12-22 |  |
+| [Giant Kingfisher of Paradise \- Ocean Moon Mix](https://open.spotify.com/track/32aMjeKuW4OG4I0njiw0GA) | [IKSRE](https://open.spotify.com/artist/5oyUb8IC2vvoJeewltXQ7O), [Ocean Moon](https://open.spotify.com/artist/7l4JMi6fmKNBeaZ6jQTgge) | [Spaciousness 2](https://open.spotify.com/album/3WWmQhssf94uOJ1Kb2ntFw) | 5:17 | 2022-09-20 |  |
 | [H2O FRM Faucet](https://open.spotify.com/track/0j9EP5hsbpkPqLAmJc3nG5) | [夕方の犬\(U ・ェ・\)](https://open.spotify.com/artist/6GkFLYRT7Q2qU4kEnNsytR) | [mb\_s\_4\_ch](https://open.spotify.com/album/4lHznF2gzbSmLxQCf511SY) | 4:39 | 2022-07-08 | 2022-08-13 |
 | [H2O FRM Faucet](https://open.spotify.com/track/7xug23Y2R1XliELQ5a8jv6) | [夕方の犬\(U ・ェ・\)](https://open.spotify.com/artist/6GkFLYRT7Q2qU4kEnNsytR) | [mb\_s\_4\_ch](https://open.spotify.com/album/0redlBmPu1BWruATZuidTV) | 4:39 | 2021-12-22 | 2022-07-29 |
 | [Hayama Ambient 034](https://open.spotify.com/track/6ucVMSqO3QHvvBNMPOnCch) | [KENJI KIHARA](https://open.spotify.com/artist/4JsGTBZYjVz58foTVKslRi) | [Hayama Ambient 034](https://open.spotify.com/album/3BYHi87dcmiYFiCMbaDcoj) | 2:19 | 2021-12-22 |  |

@@ -4,7 +4,7 @@
 
 > Jazz piano to accompany your reading.
 
-174 songs - 10 hr 29 min - [published](https://open.spotify.com/playlist/4cNGHDcvjEjFQPQd3RNnQf)
+175 songs - 10 hr 32 min - [published](https://open.spotify.com/playlist/4cNGHDcvjEjFQPQd3RNnQf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Central Park West](https://open.spotify.com/track/5HBXDapFW7kEjT04fQfk1p) | [Newington Green](https://open.spotify.com/artist/33hLFARszQC3uxE93PiNeE) | [Central Park West](https://open.spotify.com/album/1tL7QVHU3Pv8kymhagnO2l) | 3:52 | 2022-04-12 |  |
 | [Cheek to Cheek](https://open.spotify.com/track/4Fsl78MLuUrqJMnFXBctW8) | [Penford Giles](https://open.spotify.com/artist/1dIU42U3gWRcyOT7cdNiv6) | [Cheek to Cheek](https://open.spotify.com/album/7ex7nfyDTp2UDpYxKWKsPh) | 3:02 | 2022-06-14 |  |
 | [Chimes](https://open.spotify.com/track/6gzPmb75SbQGuCWwtAoutC) | [Duponte et Duponte](https://open.spotify.com/artist/2deWXMlH853VExXZNmSe5o) | [Chimes](https://open.spotify.com/album/2n04MCWQqg1W7hXDVa5pzi) | 2:43 | 2022-04-12 | 2022-06-15 |
+| [Come Lay beside Me](https://open.spotify.com/track/5FzAFM8TN0RyOXHNO5tHTm) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [Come Lay beside Me](https://open.spotify.com/album/1IQfTAYfEDbuZ4RwbU26di) | 3:03 | 2022-09-20 |  |
 | [Come Rain Or Come Shine](https://open.spotify.com/track/2KaiRciXTCoGWvDUG6UyXy) | [Maurice Miro](https://open.spotify.com/artist/3xjYq5W31V01cF7BSvVrYb) | [Come Rain Or Come Shine](https://open.spotify.com/album/4BXX5ct1sM5Uk2J1SeY0TH) | 3:40 | 2022-04-26 |  |
 | [Conversation](https://open.spotify.com/track/3unem1h9c7rRbYvJ9wzJHY) | [Benjamine Hans](https://open.spotify.com/artist/7gEDhVsbRiapQyIVdBeoCr) | [Conversation](https://open.spotify.com/album/15dZOVU2WT5WKHXo2qdACs) | 2:45 | 2022-05-10 |  |
 | [Cry Me A River](https://open.spotify.com/track/67iXiDkmgd5cy2Tfcowx1G) | [Ward Stetson](https://open.spotify.com/artist/4cgzkhsBdCNVDzBrx7is7S) | [Past Closing Time](https://open.spotify.com/album/1E9xMRwRNCkkIW1sCTZm9z) | 3:28 | 2022-04-12 | 2022-08-31 |
@@ -179,7 +180,7 @@
 | [Witchcraft](https://open.spotify.com/track/787b6CSG5VnNvAATPEk54g) | [Marc Leigh](https://open.spotify.com/artist/5xNnoFnVK1iSZnPTvwwjeY) | [Witchcraft](https://open.spotify.com/album/5TVrp07TaKr7yDNSHu1FHT) | 4:07 | 2022-08-10 |  |
 | [Without A Song](https://open.spotify.com/track/2KxXG6EIywCiYcQuJa8Xwp) | [Rudy Winston](https://open.spotify.com/artist/0eg5Y6qtyXmuDqBqEHbJ6L) | [Without A Song](https://open.spotify.com/album/55vOtTdjD34L98MWwl57oU) | 4:20 | 2022-06-14 |  |
 | [You Are Too Beautiful](https://open.spotify.com/track/4t85eFNgqV0nqtImOix3X5) | [Madeleine West](https://open.spotify.com/artist/2bucqt2BrsK6W5p1H4Edu4) | [You Are Too Beautiful](https://open.spotify.com/album/2uG5Jnbvge8kWBxar1TTad) | 3:32 | 2022-04-12 |  |
-| [You Don't Know What Love Is](https://open.spotify.com/track/4bDk3TKM6kF1MT2Tzek7QJ) | [The Sweetgreens](https://open.spotify.com/artist/106pccUBSkmw5RR27vUT2N) | [You Don't Know What Love Is](https://open.spotify.com/album/3WpU0MCWwrDDqsA3KZQJnt) | 2:30 | 2022-04-12 |  |
+| [You Don't Know What Love Is](https://open.spotify.com/track/4bDk3TKM6kF1MT2Tzek7QJ) | [The Sweetgreens](https://open.spotify.com/artist/106pccUBSkmw5RR27vUT2N) | [You Don't Know What Love Is](https://open.spotify.com/album/3WpU0MCWwrDDqsA3KZQJnt) | 2:30 | 2022-04-12 | 2022-09-21 |
 | [You Go To My Head](https://open.spotify.com/track/459LZHA0yHx3SwF5t0UnDE) | [Jim Jensen](https://open.spotify.com/artist/1mzZZuAmYl9ZyBmrI0beiJ) | [Memories Of You](https://open.spotify.com/album/7s8ph723NPqXXT8a1SIiY5) | 5:19 | 2022-04-12 | 2022-06-29 |
 | [you must believe in spring](https://open.spotify.com/track/4PfwJAIyn4509emIeIHkGs) | [Jeff Robins](https://open.spotify.com/artist/74TmlbkJzQhvG8Jurm01cE) | [You must believe in spring](https://open.spotify.com/album/2K69h6JK7ZyinakSj3GYKf) | 3:30 | 2022-04-12 |  |
 

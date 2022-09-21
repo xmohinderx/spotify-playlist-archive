@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Y4P09E4dNP.md) - [plain]
 
 > A fusion of highlife and hip\-hop, these hip\-life jams are undeniable.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,287 likes - 40 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,293 likes - 40 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Y4P09E4dNP.md) - [plain]
 | 4 | [Je M'appelle \(feat\. DaVido\)](https://open.spotify.com/track/45JfxtSUnkb9e4r0MBYqfK) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8) | [Je M'appelle \(feat\. DaVido\)](https://open.spotify.com/album/56qzuXPxeJKnmmOlZFQeUo) | 2:44 |
 | 5 | [Asew](https://open.spotify.com/track/7xujnLnBsxgby94GzXdPVi) | [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc), [Mic Flammez](https://open.spotify.com/artist/1EUY08IMbLAtjiyBxsgueI) | [Highlife Konnect](https://open.spotify.com/album/72NulXFtskbFG6htwcte2C) | 3:25 |
 | 6 | [Celebrate](https://open.spotify.com/track/0UUczvIt4oAghLNuY8WSEA) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [Celebrate](https://open.spotify.com/album/1DjCbRACl4Q9bLtT0hhiIF) | 2:28 |
-| 7 | [Over](https://open.spotify.com/track/22RZSNHtfaNLTz1rOeAe5B) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4) | [Site 15](https://open.spotify.com/album/4uI60dVqyZ6pVU36oUb0j2) | 3:56 |
-| 8 | [Falling](https://open.spotify.com/track/3HfwFXzBr7AwLKHyLPGWHL) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR) | [Connecting the Dots](https://open.spotify.com/album/1q6SQV8J22Is1SsgKAh4eJ) | 2:45 |
+| 7 | [Falling](https://open.spotify.com/track/3HfwFXzBr7AwLKHyLPGWHL) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR) | [Connecting the Dots](https://open.spotify.com/album/1q6SQV8J22Is1SsgKAh4eJ) | 2:45 |
+| 8 | [Over](https://open.spotify.com/track/22RZSNHtfaNLTz1rOeAe5B) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4) | [Site 15](https://open.spotify.com/album/4uI60dVqyZ6pVU36oUb0j2) | 3:56 |
 | 9 | [Aben Wo Aha](https://open.spotify.com/track/1sw1Ahq16MtmeFIwEgXxKm) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Aben Wo Aha](https://open.spotify.com/album/4FcLoTiIPJwwnW5xa20mm2) | 5:10 |
 | 10 | [Ahomka Wo Mu](https://open.spotify.com/track/4s5OFaXyadqE9uTaNYTKQw) | [VIP](https://open.spotify.com/artist/38wGnQ9uC7XyV0TFHaEiO4), [Tic Tac,Frank Mensah,2\-Tee,Lil Kryz,Abortion](https://open.spotify.com/artist/373YE3CDdFni3txqURZTch) | [Ahomka Womu](https://open.spotify.com/album/0ZLnF0wKad2yVZl2EjOnpG) | 5:27 |
 | 11 | [Wish Me Well](https://open.spotify.com/track/76OgQukE55wL78J77Vl5rp) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Rockstar](https://open.spotify.com/album/36YUG83DWnCl46Xwsad6lb) | 3:24 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Y4P09E4dNP.md) - [plain]
 | 39 | [Medo](https://open.spotify.com/track/2qx8A8AdgkvRaaEbQpQouA) | [Lord Kenya](https://open.spotify.com/artist/4xLgdpyCd591T97qW0EQF7), [Swanzy B](https://open.spotify.com/artist/1gpzzTqs3Dk0TdIWvXrqgP) | [Yeesom Sika](https://open.spotify.com/album/7I3mCsTVTJlkDqqGpHHGht) | 4:52 |
 | 40 | [FINGERS](https://open.spotify.com/track/6pGf2XUUNaj6tTkWXR1yJQ) | [Kwabena Kwabena](https://open.spotify.com/artist/6zKu61RG80pBKOMUbBKNMr) | [FINGERS](https://open.spotify.com/album/4BoK4qfCb8y8rejtjCwf8m) | 3:25 |
 
-Snapshot ID: `MTY1Mjk4OTE4OCwwMDAwMDAwMDBhY2MyZmQ3YTk0YzEyOTcyNmJmYjc1OWM1ZTdmODZm`
+Snapshot ID: `MTY1Mjk4OTE4OCwwMDAwMDAwMDM0MTU5OThhMzMyZGM4NmY4OTVjN2U1NDQxNjBiODkz`

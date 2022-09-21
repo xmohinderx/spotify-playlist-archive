@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 
 > 썸타고 계신가요? 설레임이 담긴 노래들을 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,302 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,318 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 | 8 | [Can I Love ? \(feat\. youra, Meego\)](https://open.spotify.com/track/4T2cOfemKB0owJS2JOu7dF) | [Cosmic Boy](https://open.spotify.com/artist/305pg6Bs6Mz9Tm2zK66psY), [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V), [Meego](https://open.spotify.com/artist/1a09srXkFLTxDTfQRGRpNy) | [Can I Love ?](https://open.spotify.com/album/3RMvO654eEqnwdmZCwHFs5) | 3:49 |
 | 9 | [Gradation](https://open.spotify.com/track/775S83AMYbQc8SYteOktTL) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [5.3 \(Gradation\)](https://open.spotify.com/album/4uqihIyXomdsr6ttzYwKjG) | 3:21 |
 | 10 | [Don’t](https://open.spotify.com/track/4MidkNeonif4PcWSjkwOb7) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [Hwa Sa](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [The Hyena on the Keyboard, Pt\. 4](https://open.spotify.com/album/50dXh98sRsMOrf9D5QMb77) | 3:51 |
-| 11 | [Dear my X](https://open.spotify.com/track/0UnOf7i44YK0ULpkEGHe4R) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Dear my X](https://open.spotify.com/album/5BOrfMmeO7t7pDqhZNIhej) | 3:07 |
-| 12 | [Kiss](https://open.spotify.com/track/3pNcAmfGXKeKvsSG2h1teI) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Kiss](https://open.spotify.com/album/3XLwYEV8JxiKrzL1IJOQhg) | 3:06 |
+| 11 | [Kiss](https://open.spotify.com/track/3pNcAmfGXKeKvsSG2h1teI) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Kiss](https://open.spotify.com/album/3XLwYEV8JxiKrzL1IJOQhg) | 3:06 |
+| 12 | [Dear my X](https://open.spotify.com/track/0UnOf7i44YK0ULpkEGHe4R) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Dear my X](https://open.spotify.com/album/5BOrfMmeO7t7pDqhZNIhej) | 3:07 |
 | 13 | [Pop? Pop!](https://open.spotify.com/track/3YN1BTbPyHC4h05Bw3u2g9) | [CSR](https://open.spotify.com/artist/06MX3Ecb8PHyNFmq8irTWC) | [Sequence : 7272](https://open.spotify.com/album/7gUINtQDM7WsXmrmRB8GGo) | 3:35 |
 | 14 | [Ordinary Love](https://open.spotify.com/track/1enx9LPZrXxaVVBxas5rRm) | [Park Kyung](https://open.spotify.com/artist/0hT0UrjmzkLJouAT52ck6j), [Park Boram](https://open.spotify.com/artist/6tvrEIVX5eKJlipdzt11wi) | [Ordinary Love](https://open.spotify.com/album/6nI5vvp4jsLHC9M55PTqDE) | 3:52 |
 | 15 | [Sweet](https://open.spotify.com/track/5JpftUHeUzx3zWE6rZtki5) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Sweet \(A Business Proposal OST Part.1\)](https://open.spotify.com/album/2bB29MkoBHc7vm2fr2EdiZ) | 3:36 |
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 | 18 | [Where Is Dream](https://open.spotify.com/track/1hFOLJ9bQfZu3tlbHaLCGf) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [START\-UP \(Original Television Soundtrack\) Pt\. 6](https://open.spotify.com/album/7wzFqr0yCbjdcjjKpfBi1B) | 3:03 |
 | 19 | [Fresh](https://open.spotify.com/track/3D9f7Y6sFAAhlujvs3lDc2) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [Fresh](https://open.spotify.com/album/5Yr1LYAYT20wcjiKNYttDs) | 2:58 |
 | 20 | [I like you](https://open.spotify.com/track/0X5xuP3hkIMo86LpTCFGdb) | [Seo In Guk](https://open.spotify.com/artist/433F0GjVZRnsjP8ztGEso1) | [Minamdang \(Original Television Soundtrack, Pt\. 6\)](https://open.spotify.com/album/2zIS0T0Kegw9sOh0YQXxqF) | 2:58 |
-| 21 | [IS THIS LOVE](https://open.spotify.com/track/7ssHGorhA1RFETKIufBFht) | [KIHYUN](https://open.spotify.com/artist/52MWHSohXVqTyGhBPRJepS) | [After School Lessons for Unripe Apples \(Original Webcomic Soundtrack\) Pt.2](https://open.spotify.com/album/6y8QtlbcnxTnBt1Sd4S4bS) | 3:24 |
-| 22 | [You, Who?](https://open.spotify.com/track/5WLLVrfFNbseupmtv0p2B1) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM), [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [You, Who?](https://open.spotify.com/album/2VJD2d4spfkILWzOmHEd4i) | 3:39 |
+| 21 | [You, Who?](https://open.spotify.com/track/5WLLVrfFNbseupmtv0p2B1) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM), [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [You, Who?](https://open.spotify.com/album/2VJD2d4spfkILWzOmHEd4i) | 3:39 |
+| 22 | [IS THIS LOVE](https://open.spotify.com/track/7ssHGorhA1RFETKIufBFht) | [KIHYUN](https://open.spotify.com/artist/52MWHSohXVqTyGhBPRJepS) | [After School Lessons for Unripe Apples \(Original Webcomic Soundtrack\) Pt.2](https://open.spotify.com/album/6y8QtlbcnxTnBt1Sd4S4bS) | 3:24 |
 | 23 | [A midsummer night's sweetness](https://open.spotify.com/track/3gug38ZhXQWJbwN7sh0YRR) | [San E](https://open.spotify.com/artist/61MMiylth1injW39oZBuYB), [Raina](https://open.spotify.com/artist/21dQ70DS91icGLN9J4mH7h) | [San E, Raina Project Single 'A midsummer night's sweetness'](https://open.spotify.com/album/1srZhGQymoN6YQksduox2J) | 3:53 |
 | 24 | [2U](https://open.spotify.com/track/00S4PrcWUb3f3dQ9PuC0uy) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [CYAN](https://open.spotify.com/album/54mKbSh20yke318bPZMsjb) | 3:15 |
 | 25 | [so this is love](https://open.spotify.com/track/18xXVZwosvArMOJOs7wd6S) | [DAY6 \(Even of Day\)](https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd) | [bimil:ier vol.1 "so this is love"](https://open.spotify.com/album/5uGkgOzshdeNMMsR34kucM) | 3:23 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 | 47 | [Should Not Love You](https://open.spotify.com/track/0Er9o2H59VVOmgMB4VG4fk) | [DINDIN](https://open.spotify.com/artist/63cvWayCvPbWYNDi537w0z) | [A New Decade](https://open.spotify.com/album/4mYVg4U1xnQyBA3hbH1DB4) | 3:39 |
 | 48 | [Fool](https://open.spotify.com/track/4EIJ8e7f0104nDFFVhWg0x) | [JUNIEL](https://open.spotify.com/artist/0F8gvxccUYPndXVsyLmCi6), [Jung Yong Hwa](https://open.spotify.com/artist/6zhAP0FoDccL9kuETOC20q) | [My First June](https://open.spotify.com/album/7DeVjzaqs8JcuHetuERgE7) | 3:50 |
 | 49 | [Oh My Boy](https://open.spotify.com/track/3qsxjwVRHAu69j7LoglBEz) | [KWON EUN BI](https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm) | [Oh My Boy](https://open.spotify.com/album/3wB6o7osE6fIGUBNG4dk1F) | 3:03 |
-| 50 | [Something Precious](https://open.spotify.com/track/7yoqiaAawHktS5Gao5rzLO) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Forecasting Love and Weather \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/5wEeXyJVwgTvVis9XPOs7Q) | 3:29 |
+| 50 | [algorithm \(prod\. edenbyeden\)](https://open.spotify.com/track/27zb6pgYkmgpeD4kLNPdBQ) | [Mabinc](https://open.spotify.com/artist/7gOu3iix5zisrsJCPvWu8Z) | [algorithm](https://open.spotify.com/album/70sbsUFZH7F476QOof1pw6) | 2:09 |
 
-Snapshot ID: `MTY2MjM5MzExMiwwMDAwMDAwMDBmNGJlNTg4ODQxNzM5Njg4OTc3ODkzMDRiYWZjZTRj`
+Snapshot ID: `MTY2MjM5MzExMiwwMDAwMDAwMDQyODA1NWQxMzU5ZmFmNmI4ZmVkYzg4NzEwMzMxNGE5`

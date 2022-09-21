@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNDEz8jM1rl.md) - [plain]
 
 > ¡Vamos a bailar con Dios!
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,563 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,619 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNDEz8jM1rl.md) - [plain]
 | 11 | [El Cristiano No Se Enoja](https://open.spotify.com/track/1m4pJIKdaMuyEUiqZiyxCE) | [Giovanni Rios](https://open.spotify.com/artist/5bJbyAOugvWGdfwZ2Yzptl) | [Historia](https://open.spotify.com/album/2wBNUXXpdNns2ReHXr0Vvx) | 4:25 |
 | 12 | [Dame Tus Ojos \(feat\. Laurie Colón\)](https://open.spotify.com/track/3jPaLIbWPyfS5GZluhxh4D) | [Reynaldo Santiago " Chino "](https://open.spotify.com/artist/0d2PKfTXyO0YaqnClQybw1), [Laurie Colon](https://open.spotify.com/artist/3D3ZmxtOiCz4n6UJf9k1R7) | [Chino " De Viaje " ....\. Camino Al Cielo](https://open.spotify.com/album/5fWfAVXPS3buPNuv0tCViu) | 4:10 |
 | 13 | [Tengo Victoria](https://open.spotify.com/track/7JIUI9bHyaifT8EAyNWqBU) | [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd) | [De La a a La Z](https://open.spotify.com/album/0LhQiVh7Hdi2qv5xGOOKIt) | 3:07 |
-| 14 | [Haremos](https://open.spotify.com/track/3lNGZ37M86ikm5kkEtVlID) | [Jhoni The Voice](https://open.spotify.com/artist/6grrtSwMegDAZVtJgUQtJl) | [Jhoni](https://open.spotify.com/album/0ZOO5oBb4wmvXa4yPaRVfr) | 3:21 |
+| 14 | [Yo Tierra, Tú Semilla](https://open.spotify.com/track/5nMGlYgxdOYT4fPPfwEmYm) | [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR) | [Yo Tierra, Tú Semilla](https://open.spotify.com/album/2oGG8gg5AjSdAIqeWGWJMl) | 3:44 |
 | 15 | [Mi Maestro](https://open.spotify.com/track/6cyWdTbdJVZaqHeJ3GA1Rk) | [Funky](https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu) | [Acceso Total Tour Edition](https://open.spotify.com/album/5iZ99qIRyztj5xNc9JkxDP) | 4:09 |
-| 16 | [Yo Tierra, Tú Semilla](https://open.spotify.com/track/5nMGlYgxdOYT4fPPfwEmYm) | [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR) | [Yo Tierra, Tú Semilla](https://open.spotify.com/album/2oGG8gg5AjSdAIqeWGWJMl) | 3:44 |
+| 16 | [Haremos](https://open.spotify.com/track/3lNGZ37M86ikm5kkEtVlID) | [Jhoni The Voice](https://open.spotify.com/artist/6grrtSwMegDAZVtJgUQtJl) | [Jhoni](https://open.spotify.com/album/0ZOO5oBb4wmvXa4yPaRVfr) | 3:21 |
 | 17 | [Soy Tu Padre](https://open.spotify.com/track/6zs6YLKvJolVWvSRW4KV17) | [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3) | [Vive en Mí](https://open.spotify.com/album/0OWlPKpTVq2bLYj80Drs1x) | 3:54 |
 | 18 | [Todo Se Lo Debo a El](https://open.spotify.com/track/3954VWv51e6kVHKAupQj2m) | [Ezequiel Colón](https://open.spotify.com/artist/44V8q3JGpAcyDho7d3dPvJ) | [Sólo Éxitos Tropicales](https://open.spotify.com/album/3WcAFQZcY6hVCbO4CiKNPH) | 4:32 |
 | 19 | [Dependo de Ti](https://open.spotify.com/track/6V6BQzogQ4WtHBtGKYpCZ8) | [Daniel Sierra](https://open.spotify.com/artist/59kFGrpOBHO4SS83Hr9qM0), [Gilberto Daza](https://open.spotify.com/artist/6pdXxGaaEGf7huw3C6fz6a) | [Dependo de Ti](https://open.spotify.com/album/651OlbSCsMTaxCRqVgGkIG) | 3:15 |
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNDEz8jM1rl.md) - [plain]
 | 40 | [Espiritu De Dios](https://open.spotify.com/track/3PchABMkZW9CPTrKiS2IOV) | [Javier Maldonado](https://open.spotify.com/artist/773eYjENFwQa4WWsahVm76) | [No Hay Nada Imposible](https://open.spotify.com/album/3S7tVmHEPScYVF1gflAkI6) | 4:55 |
 | 41 | [Soy Bendecido](https://open.spotify.com/track/3AEQ1HVSghl5odDMaxysNv) | [Richard Cepeda](https://open.spotify.com/artist/5Ss0gsyIYSgFgt6l6hjcqq) | [Vivo Enamorado](https://open.spotify.com/album/5weYqhXk45tTuKTB5LRSJ5) | 4:23 |
 | 42 | [El Barrio Lo Sabe](https://open.spotify.com/track/2wA8CQeX2p3vkP6Wfl2j6x) | [Alex Linares](https://open.spotify.com/artist/35DcV9GrbHnpHMpTxqO7aT) | [Favor y Gracia](https://open.spotify.com/album/70RxgRw7Fije42VXWsUH1C) | 3:41 |
-| 43 | [Party Love](https://open.spotify.com/track/0AlbIFjE60wOeB4gTPiXa3) | [Kev Miranda](https://open.spotify.com/artist/5mAsjDDm81xwtAbB6TrWVR), [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [DOMINICO GONZALEZ](https://open.spotify.com/artist/72zhW2gZnxEz4jKsutwSLw) | [Party Love](https://open.spotify.com/album/29wQaEDDwOEyghp030mgtm) | 3:16 |
+| 43 | [Forever Endless Love](https://open.spotify.com/track/7yVuvjNmRKiml7JUAQkoDr) | [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3) | [Fragments Of Heaven](https://open.spotify.com/album/2SJpNluswRcABfuGq8R8ug) | 4:02 |
 | 44 | [Agradecido Estoy](https://open.spotify.com/track/4hyYpJPQggt4G3butLCsRD) | [Robert Felix](https://open.spotify.com/artist/5yGr7jNjfmBDVlOHPlsilG), [Nicold Frias](https://open.spotify.com/artist/2mWMcOU54bpKuJySMu6nGv), [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [En Bachata](https://open.spotify.com/album/0dkfS9yeP95kcYJ9tEUDlF) | 4:10 |
-| 45 | [Forever Endless Love](https://open.spotify.com/track/7yVuvjNmRKiml7JUAQkoDr) | [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3) | [Fragments Of Heaven](https://open.spotify.com/album/2SJpNluswRcABfuGq8R8ug) | 4:02 |
+| 45 | [Party Love](https://open.spotify.com/track/0AlbIFjE60wOeB4gTPiXa3) | [Kev Miranda](https://open.spotify.com/artist/5mAsjDDm81xwtAbB6TrWVR), [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [DOMINICO GONZALEZ](https://open.spotify.com/artist/72zhW2gZnxEz4jKsutwSLw) | [Party Love](https://open.spotify.com/album/29wQaEDDwOEyghp030mgtm) | 3:16 |
 | 46 | [I Believe](https://open.spotify.com/track/3FMsFUwmzaAD7pPBQ81xAp) | [Mr\. Don](https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR) | [Deluxe](https://open.spotify.com/album/7tJBOnefPMs9QEsLbd0oAe) | 3:30 |
 | 47 | [En Tu Presencia](https://open.spotify.com/track/6ZedH7GdOealnGMGyWarWW) | [Alex D' Castro](https://open.spotify.com/artist/74O8Fdu8PKT7LWjjnfCbpm) | [En Accion](https://open.spotify.com/album/40dMA08JGPjNQjKkUdmnl0) | 4:42 |
 | 48 | [Un adorador](https://open.spotify.com/track/2KqBbw9NKRbxcqI1i9Mcho) | [Nicold Frias](https://open.spotify.com/artist/2mWMcOU54bpKuJySMu6nGv) | [Los Éxitos De Marcos Witt En Bachata](https://open.spotify.com/album/4LbSSVP1c7BU0O8KXOi6WW) | 4:19 |
 | 49 | [\#BendecidoAmen](https://open.spotify.com/track/7bgEoYgjwC1OG40Qv0PmFh) | [Omy Alka](https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh) | [\#BendecidoAmen](https://open.spotify.com/album/291jzwipV9JQUcJdNXdhRt) | 3:58 |
 | 50 | [Le Llaman Jesus](https://open.spotify.com/track/2u9xtvoN8XxuIhY2Fgb4vk) | [Jhonny Rafael](https://open.spotify.com/artist/5ignJ7cAgLFhc8Rp1sNhJW) | [30 Bachatas Cristianas Pegaditas](https://open.spotify.com/album/7kK9agRpkwjNHsiCVE4hKt) | 3:52 |
 
-Snapshot ID: `MTYwMDQwNTMyMCwwMDAwMDAwMGFhMDE1NjAyY2ZmYjk2OWE2MWZhZWFhYjFhOGI4MDQy`
+Snapshot ID: `MTYwMDQwNTMyMCwwMDAwMDAwMGZhY2QzZmNmYzBmYzIxZGNkY2NjMDg0MTIxNThmNmE4`

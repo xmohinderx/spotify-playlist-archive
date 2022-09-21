@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [1000 More Fools](https://open.spotify.com/track/1pSGzkQRKnZLzfEYvOgNTB) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Suffer](https://open.spotify.com/album/2tQSaVTntSAVbDognInDQo) | 1:35 | 2022-09-19 |  |
+| [1000 More Fools](https://open.spotify.com/track/1pSGzkQRKnZLzfEYvOgNTB) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Suffer](https://open.spotify.com/album/2tQSaVTntSAVbDognInDQo) | 1:35 | 2022-09-19 | 2022-09-21 |
 | [21st Century \(Digital Boy\)](https://open.spotify.com/track/7C794YeXiiSdlvGLxgabkd) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Against The Grain](https://open.spotify.com/album/5QTyi6ndfGO5vF4DcNgM97) | 2:49 | 2022-09-16 |  |
 | [A Walk](https://open.spotify.com/track/3Hu5WwPUx6tVhqdqbbGPo8) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [The Gray Race](https://open.spotify.com/album/3noW0E8h93SBl56WTNu2y5) | 2:09 | 2022-09-16 |  |
 | [All There Is](https://open.spotify.com/track/5mC5BYYc2yoAm3vGvA5hml) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [The Empire Strikes First](https://open.spotify.com/album/42uZcfyZzRmzBnEyyGGjQE) | 2:57 | 2022-09-16 |  |
@@ -30,7 +30,7 @@
 | [Fuck You](https://open.spotify.com/track/0Yk3FzkNpuZUYY59j9p6eN) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [True North](https://open.spotify.com/album/64wdVyEDGVxfRsanjWxy2z) | 2:13 | 2022-09-16 |  |
 | [Generator](https://open.spotify.com/track/1a42up3NBd91HTCbmYKMq4) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Generator](https://open.spotify.com/album/31CyVs73lB9MrLOTHBeEgr) | 3:22 | 2022-09-16 |  |
 | [Give You Nothing](https://open.spotify.com/track/4dazQYZhFapxo1o1GsQ6ce) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Suffer](https://open.spotify.com/album/2tQSaVTntSAVbDognInDQo) | 2:02 | 2022-09-16 | 2022-09-20 |
-| [God Song](https://open.spotify.com/track/0EhzHcEryTCWHaL98TdzIA) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Against The Grain](https://open.spotify.com/album/5QTyi6ndfGO5vF4DcNgM97) | 1:37 | 2022-09-16 | 2022-09-20 |
+| [God Song](https://open.spotify.com/track/0EhzHcEryTCWHaL98TdzIA) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Against The Grain](https://open.spotify.com/album/5QTyi6ndfGO5vF4DcNgM97) | 1:37 | 2022-09-16 |  |
 | [Heaven Is Falling](https://open.spotify.com/track/7qXQ8yHfnTGMYSF1gAwpum) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Generator](https://open.spotify.com/album/31CyVs73lB9MrLOTHBeEgr) | 2:04 | 2022-09-18 |  |
 | [I Want to Conquer the World](https://open.spotify.com/track/0BlNkCzdgYi9eJXwnYUho9) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [No Control](https://open.spotify.com/album/3efgo1fUo21py17Z7jGsle) | 2:17 | 2022-09-16 |  |
 | [Incomplete](https://open.spotify.com/track/3cZxrIwGDz6lKi2S1XMgmA) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Stranger Than Fiction](https://open.spotify.com/album/4yzTm8IjIyybhPFGMTyv2N) | 2:29 | 2022-09-16 |  |

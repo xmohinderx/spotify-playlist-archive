@@ -502,6 +502,32 @@
     },
     {
       "album": {
+        "name": "Amazing",
+        "url": "https://open.spotify.com/album/73nIh6lr0BYYVG6t7asy8N"
+      },
+      "artists": [
+        {
+          "name": "Vybz Kartel",
+          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
+        },
+        {
+          "name": "Dunw3ll",
+          "url": "https://open.spotify.com/artist/0GXid8LlvA2twALSqLKYQ0"
+        },
+        {
+          "name": "Stefflon Don",
+          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157500,
+      "name": "Amazing",
+      "url": "https://open.spotify.com/track/3JtRYW6aYGDVDIQvdGrZWt"
+    },
+    {
+      "album": {
         "name": "American Boy",
         "url": "https://open.spotify.com/album/765iHYZJH7hNXETPzoraIY"
       },
@@ -1229,7 +1255,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 211200,
       "name": "Burning In My Arms - Edit",
       "url": "https://open.spotify.com/track/3Z9qdV9SOWHuTxNbyOwXIa"
@@ -4051,6 +4077,24 @@
       "duration_ms": 149840,
       "name": "Kerosene",
       "url": "https://open.spotify.com/track/1uPRLmmA2YGNItLRp3BgFO"
+    },
+    {
+      "album": {
+        "name": "KILL DEM",
+        "url": "https://open.spotify.com/album/71iqkeqFNSiCgum1gPfeZo"
+      },
+      "artists": [
+        {
+          "name": "Jamie xx",
+          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223536,
+      "name": "KILL DEM",
+      "url": "https://open.spotify.com/track/5CE0k1VmTXgCtaa5L288LP"
     },
     {
       "album": {

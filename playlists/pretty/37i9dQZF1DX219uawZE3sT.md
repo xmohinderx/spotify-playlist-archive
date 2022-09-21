@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX219uawZE3sT.md) - [plain]
 
 > Apasiónate y revive los temas de tus historias predilectas\. Foto: Thalía
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,571 likes - 70 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,630 likes - 70 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX219uawZE3sT.md) - [plain]
 | 43 | [Amor sincero](https://open.spotify.com/track/4OPLeqfkiSm5tLz9A6Rst4) | [Alexander Acha](https://open.spotify.com/artist/3JkgQ8Jjwt2mkeOsg5yhqh) | [La vida es..\. Amor sincero](https://open.spotify.com/album/3LiUITjrr8pxbeejKsgF5u) | 3:46 |
 | 44 | [Señora](https://open.spotify.com/track/3sKfWfo0VSspTmBmK3jKzr) | [Francisco Céspedes](https://open.spotify.com/artist/54jti4nqabEAlBvIDU2zt8) | [Vida Loca](https://open.spotify.com/album/11lYdxQdsgkvKfDjX0nTHa) | 3:24 |
 | 45 | [Amor \(Amor, amor, amor\)](https://open.spotify.com/track/1k4GYtmW7edpJ9uhQmzO66) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Mis Romances](https://open.spotify.com/album/0hAqX9l2oj2RQAHLWrilLv) | 3:42 |
-| 46 | [Por Amarte \(Destilando Amor\)](https://open.spotify.com/track/3EVVkNVaZoEwS2C4xntDJX) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Enamorado](https://open.spotify.com/album/16xce8lPlKNdhbPbJFxMne) | 3:49 |
-| 47 | [Porque El Amor Manda](https://open.spotify.com/track/3ot3tplmCSuP4tghJia2jR) | [América Sierra](https://open.spotify.com/artist/6iK7hlQHfupGjQHrxQIMly) | [El Amor Manda](https://open.spotify.com/album/6iyVNbwXzxrdVZKFyHTW8Y) | 3:16 |
+| 46 | [Porque El Amor Manda](https://open.spotify.com/track/3ot3tplmCSuP4tghJia2jR) | [América Sierra](https://open.spotify.com/artist/6iK7hlQHfupGjQHrxQIMly) | [El Amor Manda](https://open.spotify.com/album/6iyVNbwXzxrdVZKFyHTW8Y) | 3:16 |
+| 47 | [Por Amarte \(Destilando Amor\)](https://open.spotify.com/track/3EVVkNVaZoEwS2C4xntDJX) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Enamorado](https://open.spotify.com/album/16xce8lPlKNdhbPbJFxMne) | 3:49 |
 | 48 | [Mi tesoro](https://open.spotify.com/track/0ThQ0DXcsRbEyOsvKVdZWo) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Mi tesoro](https://open.spotify.com/album/3XUPV2CIpfIZDHUI8WKFfY) | 3:29 |
 | 49 | [Mi Corazón Es Tuyo](https://open.spotify.com/track/1ITcEqIHJwRU1oTBz4M0uE) | [Axel](https://open.spotify.com/artist/32x1uogH2zajP85pzZAtuE), [Kaay](https://open.spotify.com/artist/2SvbyJMDoNgCJIYpQiFx5v) | [Desequilibrio](https://open.spotify.com/album/1HqNCyE4T5lD1R1CYnE4Se) | 3:02 |
 | 50 | [Agujetas de Color de Rosa \(Pink Shoe Laces\)](https://open.spotify.com/track/4ub7vWkgBWI7fv5DiKPMiA) | [Los Hooligans](https://open.spotify.com/artist/2PscyQNouYlR193NQFjBka) | [La Gran Coleccion Del 60 Aniversario CBS \- Los Hooligans](https://open.spotify.com/album/3Jr5ERxbJWFJSAw61T5UUH) | 2:14 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX219uawZE3sT.md) - [plain]
 | 69 | [Sólo Importas Tú](https://open.spotify.com/track/4dCj8lsb7xO4Wlz4P8RcMb) | [Franco De Vita](https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu) | [Mis 30 Mejores Canciones](https://open.spotify.com/album/4OFqUGVCznz7kSWhdpSkN4) | 5:02 |
 | 70 | [El Amor De Mi Vida](https://open.spotify.com/track/6Byf7nRNKYLuqXsWf80ahI) | [Pablo Milanés](https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5) | [La Mas Completa Coleccion](https://open.spotify.com/album/6ie8SesJgc1UflnOl42NHB) | 4:34 |
 
-Snapshot ID: `MTY1MTg2MTk0NiwwMDAwMDAwMDk2YzA3YzlkMmM2MzA2MjA5YzMyYzU1ZWNmZDNhZWU0`
+Snapshot ID: `MTY1MTg2MTk0NiwwMDAwMDAwMGI5YTMyZmQwOTJiZTYwYWY2YmJjMTA5M2VhNDRjYjEw`

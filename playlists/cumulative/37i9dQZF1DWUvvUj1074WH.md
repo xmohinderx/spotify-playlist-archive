@@ -8,7 +8,6 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| ['Till I Collapse](https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [The Eminem Show](https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo) | 4:57 | 2022-01-28 |  |
 | [24K Magic](https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [24K Magic](https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA) | 3:45 | 2022-01-28 |  |
 | [Adventure of a Lifetime](https://open.spotify.com/track/69uxyAqqPIsUyTO8txoP2M) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Head Full of Dreams](https://open.spotify.com/album/3cfAM8b8KqJRoIzt3zLKqw) | 4:23 | 2022-01-28 |  |
 | [Again](https://open.spotify.com/track/5c1QJAiC3773EwiZLwHf5x) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Again](https://open.spotify.com/album/7aiQ0WWBBC0HzeI0PgGYJs) | 3:51 | 2022-01-28 |  |
@@ -136,6 +135,7 @@
 | [The Middle](https://open.spotify.com/track/3mcG2NI5G5vhrQtRda1YnA) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Bleed American \(Deluxe Edition\)](https://open.spotify.com/album/2ZuFyQ3E5n1L0VA9iyH0YV) | 2:48 | 2022-01-28 | 2022-07-29 |
 | [The Rockafeller Skank](https://open.spotify.com/track/7mCQK9YB25WZw1saUjfL4e) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [You've Come A Long Way Baby](https://open.spotify.com/album/7G7cCHgQKbDD6zvwDQZyJu) | 6:53 | 2022-01-28 |  |
 | [This Is How We Do It](https://open.spotify.com/track/6aJ90LBl96bly9zuEH1U2X) | [Montell Jordan](https://open.spotify.com/artist/0iVrCROxeyon7MZUW3MfzT) | [Best Of Montell Jordan](https://open.spotify.com/album/6J9fX2iXc9W7ILQUWvEhAx) | 3:57 | 2022-01-28 |  |
+| [Till I Collapse](https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [The Eminem Show](https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo) | 4:57 | 2022-01-28 |  |
 | [Trick Me](https://open.spotify.com/track/3aImJnJlAgcE7bJ1NxthGt) | [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM) | [Tasty](https://open.spotify.com/album/7zesXMFikT4DdgkklIk3Jz) | 3:26 | 2022-01-28 | 2022-07-29 |
 | [Trick Me \- Club Mix](https://open.spotify.com/track/2qib0282oGZPZWyJHqJaVi) | [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM) | [Tasty](https://open.spotify.com/album/5YXBnZzECnOFgssE5q43go) | 3:26 | 2022-01-28 |  |
 | [Umbrella](https://open.spotify.com/track/49FYlytm3dAAraYgpoJZux) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Good Girl Gone Bad: Reloaded](https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7) | 4:35 | 2022-01-28 |  |

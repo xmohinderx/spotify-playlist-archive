@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAArCxuIRGQ.md) - [plain]
 
 > A sizzling hot soundtrack for your sunshine social.
 
-[Spotify](https://open.spotify.com/user/spotify) - 577,343 likes - 75 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 577,335 likes - 75 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAArCxuIRGQ.md) - [plain]
 | 69 | [Higher Ground](https://open.spotify.com/track/0dMd4rilfd6gPbXaLpNYhu) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Innervisions](https://open.spotify.com/album/5jgI8Eminx9MmLBontDWq8) | 3:42 |
 | 70 | [A Little Less Conversation \- JXL Radio Edit Remix](https://open.spotify.com/track/3j4viUIDSuB4xfYYlp3Lpa) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE), [JXL](https://open.spotify.com/artist/2GyakhIO8twSgCnUFfCzTN) | [Elvis 30 \#1 Hits \(Expanded Edition\)](https://open.spotify.com/album/0uJJdEZ8sRLNPoKEkjvqTD) | 3:33 |
 | 71 | [Night Nurse](https://open.spotify.com/track/4DQttwipnILl88cru3BRZx) | [Gregory Isaacs](https://open.spotify.com/artist/6QHu71f8LLeT8n0GzfbYFc) | [Night Nurse \(Expanded Edition\)](https://open.spotify.com/album/2HEXjNNUSOwBmhyaEXG5yx) | 4:09 |
-| 72 | [Summertime](https://open.spotify.com/track/20XdEFyaUR9C7aDIdq2OAd) | [DJ Jazzy Jeff & The Fresh Prince](https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh) | [Homebase](https://open.spotify.com/album/2ELLswCKdQXUWbWxhaAklh) | 4:30 |
-| 73 | [Boasty \(feat\. Idris Elba\)](https://open.spotify.com/track/7cz506PyIgh2bMN90Mc8Tn) | [Wiley](https://open.spotify.com/artist/7k9T7lZlHjRAM1bb0r9Rm3), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Idris Elba](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS) | [Boasty \(feat\. Idris Elba\)](https://open.spotify.com/album/7JoyVaXzxpgTPjkgB8mWk3) | 2:57 |
+| 72 | [Boasty \(feat\. Idris Elba\)](https://open.spotify.com/track/7cz506PyIgh2bMN90Mc8Tn) | [Wiley](https://open.spotify.com/artist/7k9T7lZlHjRAM1bb0r9Rm3), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Idris Elba](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS) | [Boasty \(feat\. Idris Elba\)](https://open.spotify.com/album/7JoyVaXzxpgTPjkgB8mWk3) | 2:57 |
+| 73 | [Summertime](https://open.spotify.com/track/20XdEFyaUR9C7aDIdq2OAd) | [DJ Jazzy Jeff & The Fresh Prince](https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh) | [Homebase](https://open.spotify.com/album/2ELLswCKdQXUWbWxhaAklh) | 4:30 |
 | 74 | [Smile](https://open.spotify.com/track/4aR9bPMAOFySBuQSbVWF3d) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Alright, Still \(Bonus Track Version\)](https://open.spotify.com/album/3nxPzWEJBjzonYWtTNb0uY) | 3:16 |
 | 75 | [You Can Get It If You Really Want](https://open.spotify.com/track/1Pao4DTLMB4gJPTnqmLgSQ) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [The Harder They Come \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4oxdKcC9epGo9viy1j8fN7) | 2:38 |
 
-Snapshot ID: `MTY1NzI5NTM5MCwwMDAwMDAwMDdkNDdjNmU3YjFlNGVhYzAyMzJhOGNmYWI2YjNiODk0`
+Snapshot ID: `MTY1NzI5NTM5MCwwMDAwMDAwMGQ5NzQwNjEzMTQ1OGMwNTMzNGM2MmIzMDhkOGMyYzhl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4ugml2yTfIJzuEpytnzJYP.md) - [plain]
 
 > Lovingly updated every week\.  Make sure to click the heart 💓 to follow the playlist 140, deep bass,  glitch hop,  halftime, dubstep, DnB, Wave
 
-[An\-Ten\-Nae](https://open.spotify.com/user/124011761) - 5,422 likes - 23 songs - 1 hr 36 min
+[An\-Ten\-Nae](https://open.spotify.com/user/124011761) - 5,434 likes - 23 songs - 1 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

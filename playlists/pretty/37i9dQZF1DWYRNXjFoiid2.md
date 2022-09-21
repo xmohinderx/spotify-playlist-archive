@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRNXjFoiid2.md) - [plain]
 
 > Today's best pop to fuel your gaming\. Cover: BoyWithUke
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,882 likes - 100 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,942 likes - 100 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,9 +74,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRNXjFoiid2.md) - [plain]
 | 64 | [Falling](https://open.spotify.com/track/0Aqi7ArnBrGblW5T6p2jmD) | [Trevor Daniel](https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT) | [Nicotine](https://open.spotify.com/album/0D7yJonn41qsrIQ7YdWk2z) | 2:39 |
 | 65 | [My Head & My Heart](https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Heaven & Hell](https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM) | 2:54 |
 | 66 | [Dancin \(feat\. Luvli\) \- Krono Remix](https://open.spotify.com/track/6WkJ2OK163XXS2oARUC9JM) | [Aaron Smith](https://open.spotify.com/artist/77qukKzmdI5BeMBR7WGUrN), [Krono](https://open.spotify.com/artist/17TFSnqADESRM8BPSaM5aB), [Luvli](https://open.spotify.com/artist/6dqohi36avY0M9urnyhITr) | [Dancin \(feat\. Luvli\) \[Krono Remix\]](https://open.spotify.com/album/2J2f6vGACFrRghO1Ki74BE) | 3:18 |
-| 67 | [Breaking Me](https://open.spotify.com/track/3H7ihDc1dqLriiWXwsc2po) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Breaking Me](https://open.spotify.com/album/3nBQlhUvErkw8DVpF47WAn) | 2:46 |
+| 67 | [Hex](https://open.spotify.com/track/7D7e6hm2LiNd6nLuJF6K9Q) | [80purppp](https://open.spotify.com/artist/4F9apzBcSE0OSfHYbxo4RF) | [Hex](https://open.spotify.com/album/1CPRTq5GLeZ9hn4igzS6uZ) | 2:02 |
 | 68 | [Lean Wit Me](https://open.spotify.com/track/3oDkdAySo1VQQG0ptV7uwa) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Goodbye & Good Riddance](https://open.spotify.com/album/6tkjU4Umpo79wwkgPMV3nZ) | 2:55 |
-| 69 | [Hex](https://open.spotify.com/track/7D7e6hm2LiNd6nLuJF6K9Q) | [80purppp](https://open.spotify.com/artist/4F9apzBcSE0OSfHYbxo4RF) | [Hex](https://open.spotify.com/album/1CPRTq5GLeZ9hn4igzS6uZ) | 2:02 |
+| 69 | [Breaking Me](https://open.spotify.com/track/3H7ihDc1dqLriiWXwsc2po) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Breaking Me](https://open.spotify.com/album/3nBQlhUvErkw8DVpF47WAn) | 2:46 |
 | 70 | [Levitating \(feat\. DaBaby\)](https://open.spotify.com/track/463CkQjx2Zk1yXoBuierM9) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Levitating \(feat\. DaBaby\)](https://open.spotify.com/album/04m06KhJUuwe1Q487puIud) | 3:23 |
 | 71 | [ROXANNE](https://open.spotify.com/track/696DnlkuDOXcMAnKlTgXXK) | [Arizona Zervas](https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs) | [ROXANNE](https://open.spotify.com/album/6HJDrXs0hpebaRFKA1sF90) | 2:43 |
 | 72 | [WHATS POPPIN](https://open.spotify.com/track/1jaTQ3nqY3oAAYyCTbIvnM) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Sweet Action](https://open.spotify.com/album/7AaqMMiYMvnMB3RcS8u3EY) | 2:19 |
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRNXjFoiid2.md) - [plain]
 | 90 | [Pain](https://open.spotify.com/track/39LJCSHy7nB1akjmhMQ7Y7) | [Josh A](https://open.spotify.com/artist/2rWCIhENZyPVDAeFC0ESWN) | [Fearless](https://open.spotify.com/album/2leou6sxHz7CaxyV6f4cf1) | 3:08 |
 | 91 | [NUMB](https://open.spotify.com/track/1BPBwKueIEMnUcbbs2te7B) | [Chri$tian Gate$](https://open.spotify.com/artist/0OEYE03fBF2VoTBxGuaUxL) | [NUMB](https://open.spotify.com/album/5KVfexccg4jLnnmbHfJZn0) | 1:52 |
 | 92 | [His & Hers \(feat\. Don Toliver, Lil Uzi Vert & Gunna\)](https://open.spotify.com/track/2IePEfMAtqWS6rLXXFZIgI) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [His & Hers \(feat\. Don Toliver, Lil Uzi Vert & Gunna\)](https://open.spotify.com/album/1arPptaPtDyBisMtMBe2q6) | 3:44 |
-| 93 | [Bang!](https://open.spotify.com/track/5FQPpxOXsvkMN6v18gtpwY) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [OK ORCHESTRA](https://open.spotify.com/album/1y2AzG31F4CuCKQ1rpIzaI) | 2:50 |
-| 94 | [High](https://open.spotify.com/track/09AvsbivV1FQBRAEBJh7UL) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [So Far So Good](https://open.spotify.com/album/4nZ4dv1XvDE25Lf2MFhOqA) | 2:55 |
+| 93 | [High](https://open.spotify.com/track/09AvsbivV1FQBRAEBJh7UL) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [So Far So Good](https://open.spotify.com/album/4nZ4dv1XvDE25Lf2MFhOqA) | 2:55 |
+| 94 | [Bang!](https://open.spotify.com/track/5FQPpxOXsvkMN6v18gtpwY) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [OK ORCHESTRA](https://open.spotify.com/album/1y2AzG31F4CuCKQ1rpIzaI) | 2:50 |
 | 95 | [No One Dies From Love](https://open.spotify.com/track/62MosvjGMQY3HeGPFEsmM1) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [No One Dies From Love](https://open.spotify.com/album/2oKzwmlJS888dI16InbxCv) | 3:06 |
 | 96 | [Last One Standing \(feat\. Polo G, Mozzy & Eminem\) \- From Venom: Let There Be Carnage](https://open.spotify.com/track/5W8HXMOMLtXLz0RGKUtnlZ) | [Skylar Grey](https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Last One Standing \(feat\. Polo G, Mozzy & Eminem\) \[From Venom: Let There Be Carnage\]](https://open.spotify.com/album/2ZaFqYD9a3U6qJhyS2LDRf) | 4:17 |
 | 97 | [Supalonely](https://open.spotify.com/track/4nK5YrxbMGZstTLbvj6Gxw) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4), [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [STELLA & STEVE](https://open.spotify.com/album/3ZJSoxsPMkNC9eb6gUn0Q8) | 3:43 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRNXjFoiid2.md) - [plain]
 | 99 | [Let's go to Hell](https://open.spotify.com/track/38XLUjlR84JEwK0SOvX77a) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [Let's go to Hell](https://open.spotify.com/album/2tVcIkd2GmDpNQkXRNpaME) | 2:32 |
 | 100 | [Pain](https://open.spotify.com/track/7CIERzyqIwLVKGp00YbHRO) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Pain](https://open.spotify.com/album/6N4ySRXQsXl6g9mCr7QPFx) | 1:38 |
 
-Snapshot ID: `MTY2MzI4OTE0MywwMDAwMDAwMDMxN2ExMDhiYmI0N2RhMmEwMjUwODRkYWQ2NWIzZmFm`
+Snapshot ID: `MTY2MzI4OTE0MywwMDAwMDAwMDBlZWQxMzBjNmIzMjRlZDI2ZGQzOWIwNWE5MzAzZDg2`

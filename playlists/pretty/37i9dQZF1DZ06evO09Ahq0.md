@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09Ahq0.md) - [plain]
 
 > This is Avenged Sevenfold\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 366,799 likes - 42 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 366,953 likes - 42 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09Ahq0.md) - [plain]
 | 24 | [Danger Line](https://open.spotify.com/track/7pS3O75hJnthHr64tlpqPn) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Nightmare](https://open.spotify.com/album/7vfuTRXIAYJz5Uc8SddnTr) | 5:28 |
 | 25 | [Heretic](https://open.spotify.com/track/31sv85yD7zbD6X9B2FHpxy) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Hail to the King](https://open.spotify.com/album/0ks45m1bsP2JsZpM5D2FFA) | 4:55 |
 | 26 | [Chapter Four](https://open.spotify.com/track/4ORgqa0GOafXbApy6S8FpJ) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Waking The Fallen](https://open.spotify.com/album/3qyVLEW74vRMvVxNHjwKhk) | 5:42 |
-| 27 | [Wish You Were Here](https://open.spotify.com/track/4JwxJm8zCPbc1DMcfVdbBl) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [The Stage \(Deluxe Edition\)](https://open.spotify.com/album/0OJ2cB135AqvHEtfXifM5D) | 5:13 |
-| 28 | [Trashed and Scattered](https://open.spotify.com/track/01CYr3t0hedD915PmI5l4D) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [City of Evil](https://open.spotify.com/album/55tK4Ab7XHTOKkw0xDz3AA) | 5:51 |
+| 27 | [Trashed and Scattered](https://open.spotify.com/track/01CYr3t0hedD915PmI5l4D) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [City of Evil](https://open.spotify.com/album/55tK4Ab7XHTOKkw0xDz3AA) | 5:51 |
+| 28 | [Wish You Were Here](https://open.spotify.com/track/4JwxJm8zCPbc1DMcfVdbBl) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [The Stage \(Deluxe Edition\)](https://open.spotify.com/album/0OJ2cB135AqvHEtfXifM5D) | 5:13 |
 | 29 | [Doing Time](https://open.spotify.com/track/4OyfdJiHM6sbfkFmRLrygg) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Hail to the King](https://open.spotify.com/album/0ks45m1bsP2JsZpM5D2FFA) | 3:25 |
 | 30 | [Second Heartbeat](https://open.spotify.com/track/3hmX5dfwY9oRIpJKvt755u) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Waking The Fallen](https://open.spotify.com/album/3qyVLEW74vRMvVxNHjwKhk) | 7:00 |
 | 31 | [Warmness On The Soul](https://open.spotify.com/track/018zT8xThRbMH2QeUoMlKQ) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Sounding The Seventh Trumpet](https://open.spotify.com/album/3Pi6o8NqDPlEBilGeMKi8q) | 4:19 |
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09Ahq0.md) - [plain]
 | 41 | [Girl I Know](https://open.spotify.com/track/7CAdycFxxvZqfSKNsdcVQB) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Diamonds in the Rough](https://open.spotify.com/album/6VcCunBnnw4BVkCit5rk7d) | 4:24 |
 | 42 | [Desecrate Through Reverence](https://open.spotify.com/track/2CtlenYH17sZ8Mzg9tgT1K) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Waking The Fallen](https://open.spotify.com/album/3qyVLEW74vRMvVxNHjwKhk) | 5:38 |
 
-Snapshot ID: `Mjc3MjY1NDUsMDAwMDAwMDA3MDI2OTllOTlhMmUwNWZhNzU2ZWRlMWI3OTdlNTU0ZA==`
+Snapshot ID: `Mjc3MjgwMzgsMDAwMDAwMDA2ZTMyMmMxYWUzMDYzNTNjNmNhMGFjY2RhMjkzYWUxMA==`

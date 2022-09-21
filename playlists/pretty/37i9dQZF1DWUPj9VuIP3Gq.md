@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPj9VuIP3Gq.md) - [plain]
 
 > Dale play y llénate de nostalgia con estas canciones inolvidables.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,779 likes - 60 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,835 likes - 60 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPj9VuIP3Gq.md) - [plain]
 | 29 | [Lamento Boliviano](https://open.spotify.com/track/6Pur3hWy6Nzc27ilmsp5HA) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Big Bang](https://open.spotify.com/album/3y63u5vmuMugqI8lfuUY3a) | 3:42 |
 | 30 | [Clavado En Un Bar](https://open.spotify.com/track/78DVpEWwmJFC25KGz8fJuE) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [Sueños Líquidos](https://open.spotify.com/album/7ydFJUb1tmZPd6p4xIe10V) | 5:10 |
 | 31 | [Deprimida](https://open.spotify.com/track/41yHlQmNvtjRpoexYcSyJp) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Deprimida](https://open.spotify.com/album/0dOBkQ254idF8FLdnwkZZ3) | 3:37 |
-| 32 | [Como un burro amarrado en la puerta del baile \- 2008 Remastered Version](https://open.spotify.com/track/6IMIx38wIqHoLTdGcBwyEC) | [El Último De La Fila](https://open.spotify.com/artist/2jMYTBTCSNYaCYy54mLc6I) | [Las 100 mejores canciones del Pop Español, Vol\. 3](https://open.spotify.com/album/1gf951espzPzb9yxLsxP7T) | 3:38 |
+| 32 | [Como un burro amarrado en la puerta del baile \- 2008 Remastered Version](https://open.spotify.com/track/0IUFjvwlh18TWiTi6kO5pP) | [El Último De La Fila](https://open.spotify.com/artist/2jMYTBTCSNYaCYy54mLc6I) | [Las 101 canciones \- Cinco décadas de Pop Español](https://open.spotify.com/album/3v3s1YhnnWUkQnZMotDz5U) | 3:38 |
 | 33 | [A un minuto de ti](https://open.spotify.com/track/7HlULtRMJSTzorUMebka0f) | [Mikel Erentxun](https://open.spotify.com/artist/7thnnayFyJnVOAJrpe5wMC) | [Naufragios](https://open.spotify.com/album/16RM2JFvsvSSSlylWmxhSV) | 3:53 |
 | 34 | [La Bomba](https://open.spotify.com/track/0Tl84qfow6Dv0PM60zoBhb) | [azul azul](https://open.spotify.com/artist/0SWtMcmZLgP04Kj5x0eCxa) | [El Sapo](https://open.spotify.com/album/4ym0QOQmTKoioL4QwlN2wB) | 2:03 |
 | 35 | [La Playa](https://open.spotify.com/track/2DNyZP4Py6f4zMASLBnIu6) | [La Oreja de Van Gogh](https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC) | [El Viaje de Copperpot](https://open.spotify.com/album/3HnSOodhuufrSTBnGZQ3fu) | 4:07 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPj9VuIP3Gq.md) - [plain]
 | 59 | [Vivir Lo Nuestro](https://open.spotify.com/track/4qAknKWl2aMvWn4r1nzWAa) | [LA INDIA](https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Dicen Que Soy](https://open.spotify.com/album/5Bj8dRzPK5F1ozrV5IPb4u) | 6:07 |
 | 60 | [Te Mentiría](https://open.spotify.com/track/3LSRGvBWTdnUBJC32oBFnZ) | [Gian Marco](https://open.spotify.com/artist/2gDqGAadPIPiA7LtmNn74g) | [A Tiempo](https://open.spotify.com/album/6sjzlisCVw3NUAUV5q9tCd) | 3:47 |
 
-Snapshot ID: `MTY2MjY5OTYwMCwwMDAwMDAwMGZhMWNkNTI5OTAxOTFhYzBlYjI3MjM0YzEwMTQ1YjU2`
+Snapshot ID: `MTY2MjY5OTYwMCwwMDAwMDAwMDY5NGQ0ZmZlNTk1NjA1MWJjODJlZDUzZGFmZTM2Mjdj`

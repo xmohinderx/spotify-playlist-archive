@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblV99WEHIW4.md) - [plain]
 
 > Heavy music that understands.
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,731 likes - 80 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,949 likes - 80 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblV99WEHIW4.md) - [plain]
 | 10 | [Remember Me](https://open.spotify.com/track/7MXWdvqzy7viwrTSPy9Gon) | [Embrace](https://open.spotify.com/artist/74K7bX12L8GBAWvPuyIgJ7) | [How To Be A Person Like Other People](https://open.spotify.com/album/2DoKntiTZn1YxdyfQHgA4D) | 3:41 |
 | 11 | [All I Wanted](https://open.spotify.com/track/1Bv3h7Vc4AaYA2BcSM3rVd) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Brand New Eyes](https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A) | 3:45 |
 | 12 | [Snuff](https://open.spotify.com/track/3RptaQ5Xb8WvtpItZ2f9Hi) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [All Hope Is Gone](https://open.spotify.com/album/0hFWapnP7orzXCMwNU5DuA) | 4:36 |
-| 13 | [Call Me When You're Sober](https://open.spotify.com/track/663Karu2rvKLdnY0eo1n3M) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [The Open Door](https://open.spotify.com/album/3lFQ9ihSNR5YD0yi0yTzdC) | 3:34 |
-| 14 | [Pain](https://open.spotify.com/track/5PZ2cqh9Yem2g6cTSOLllz) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [One\-X](https://open.spotify.com/album/4ZDwEvXIKxWdwhAQK8ndBU) | 3:22 |
+| 13 | [Pain](https://open.spotify.com/track/5PZ2cqh9Yem2g6cTSOLllz) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [One\-X](https://open.spotify.com/album/4ZDwEvXIKxWdwhAQK8ndBU) | 3:22 |
+| 14 | [Call Me When You're Sober](https://open.spotify.com/track/663Karu2rvKLdnY0eo1n3M) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [The Open Door](https://open.spotify.com/album/3lFQ9ihSNR5YD0yi0yTzdC) | 3:34 |
 | 15 | [Tears Don't Fall](https://open.spotify.com/track/1kdiiFGX1Htx0aVZYaDwEJ) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [The Poison](https://open.spotify.com/album/7zU9hmH9CKQ9Yf5SruqOLM) | 5:48 |
 | 16 | [Teardrops](https://open.spotify.com/track/3WATWS2Ywo5HeHtG0bE2iZ) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [POST HUMAN: SURVIVAL HORROR](https://open.spotify.com/album/0e1WaSNDZnoPixaxDNdWo4) | 3:35 |
 | 17 | [Covet](https://open.spotify.com/track/1AMADyXgIWayh5vXLZo2qF) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Colourmeinkindness](https://open.spotify.com/album/5uRI7KHcBALPpwhAB9RKnb) | 3:47 |
@@ -63,9 +63,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblV99WEHIW4.md) - [plain]
 | 53 | [Welcome Home](https://open.spotify.com/track/07heIznr3ziWFz4nnW9xaj) | [blessthefall](https://open.spotify.com/artist/7t2C8WwLyKUKRe0LVh8zl9) | [Hard Feelings](https://open.spotify.com/album/4ynBCBfxMK2COzPTJ8kma9) | 3:41 |
 | 54 | [Empty Thoughts](https://open.spotify.com/track/7fsSWnDC5MIaBqklTIXS2W) | [Glass Tides](https://open.spotify.com/artist/3ss8CCHIds5hKnQ9un3dU0) | [My Descend](https://open.spotify.com/album/55bPotsZFpNo5Oim20cuh6) | 3:32 |
 | 55 | [All We Have Is Now](https://open.spotify.com/track/4CUyNgMxAFKFEf1KrbAEbY) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Typhoons](https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi) | 2:33 |
-| 56 | [Glasgow](https://open.spotify.com/track/0mAgOUcUmplfqf610W5DVU) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [SUCKAPUNCH](https://open.spotify.com/album/1QjSCSvRARExE1aFFycrPz) | 5:39 |
+| 56 | [Pain](https://open.spotify.com/track/0dj1yT3MNh2xpdBCsSkmFa) | [Bilmuri](https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89) | [Letters](https://open.spotify.com/album/4zMAfDf1c1yTAnm3bKDVSv) | 2:59 |
 | 57 | [Nothing Left to Love](https://open.spotify.com/track/4VfMtL53N1ZBXbIl2qrKnX) | [Counterparts](https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z) | [Nothing Left to Love](https://open.spotify.com/album/3DJc8AdPpDbE2SRYXBB4p2) | 4:37 |
-| 58 | [Pain](https://open.spotify.com/track/0dj1yT3MNh2xpdBCsSkmFa) | [Bilmuri](https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89) | [Letters](https://open.spotify.com/album/4zMAfDf1c1yTAnm3bKDVSv) | 2:59 |
+| 58 | [Glasgow](https://open.spotify.com/track/0mAgOUcUmplfqf610W5DVU) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [SUCKAPUNCH](https://open.spotify.com/album/1QjSCSvRARExE1aFFycrPz) | 5:39 |
 | 59 | [Brother](https://open.spotify.com/track/4hmtCJAsVnaV3g6qkCsJ5b) | [Alice In Chains](https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL) | [Sap](https://open.spotify.com/album/4b0EWRIWecUztiLiaoEN4K) | 4:27 |
 | 60 | [Missing Limbs](https://open.spotify.com/track/5sCll6ttgoCHYPI36Hn1h6) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [This Place Will Become Your Tomb](https://open.spotify.com/album/53PfSATgN0YM7IsfI2CDvs) | 3:20 |
 | 61 | [Anniversary of an Uninteresting Event](https://open.spotify.com/track/27gb40S6AIpP5lrhLxlfXj) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Deftones](https://open.spotify.com/album/6252G7bGCVijXlqAjtjeDP) | 3:57 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblV99WEHIW4.md) - [plain]
 | 79 | [Background Sad](https://open.spotify.com/track/3QgcFagmjAErgUjXXZldZc) | [Icon For Hire](https://open.spotify.com/artist/1Jy0lTKAQDnTklKzF0g2o7) | [Amorphous](https://open.spotify.com/album/5my61AdRA8g0oBJjVDXcwB) | 3:31 |
 | 80 | [Graduating Life](https://open.spotify.com/track/18mzsMdTswjVIzQ0U06Yqa) | [Mom Jeans.](https://open.spotify.com/artist/6PsktPFR0UZptKdSqmlS5h) | [Graduating Life](https://open.spotify.com/album/7G2sRHP0Xd28Dx4OKjBkqg) | 2:40 |
 
-Snapshot ID: `MTY2MTQ2ODQwMCwwMDAwMDAwMGRjYjkwZDI2ZThiYzQwY2JhZmM2MmNiN2M1ZjI3NDc1`
+Snapshot ID: `MTY2MTQ2ODQwMCwwMDAwMDAwMDBhNDYxNDIzNWI5NTQ4YmZkZGFkZGU3MjFhNWQxZGNj`

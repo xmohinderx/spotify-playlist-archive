@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Los lanzamientos latinos más destacados de toda la región\. En portada: Paulo Londra y Duki
 
-[Spotify](https://open.spotify.com/user/spotify) - 904,432 likes - 59 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 904,515 likes - 59 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 48 | [Yo no sé](https://open.spotify.com/track/5dPEJ2B009ggttxMemn48C) | [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO) | [Yo no sé](https://open.spotify.com/album/5LRgjbFR0YWEqCl94Ele4Q) | 2:30 |
 | 49 | [NIDI](https://open.spotify.com/track/1t8jiSCpgv7iPYTm1hT1Rc) | [Lolabúm](https://open.spotify.com/artist/1Smk5600sBY0IosFDG2zki) | [NIDI](https://open.spotify.com/album/1AwekDMwY8VRbcymgGeDJy) | 3:20 |
 | 50 | [Papelito](https://open.spotify.com/track/6nsabHmWfNYiks0UndWZw2) | [Divino Niño](https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi), [Enjoy](https://open.spotify.com/artist/46OZe7BgkZhisNbEMW4oqq) | [Papelito](https://open.spotify.com/album/5yJFqe2xPrtVggqnH1USoW) | 2:59 |
-| 51 | [Smoothie Bonce](https://open.spotify.com/track/75mUa0GTRmzUTDtDuUWR8y) | [Temple Sour](https://open.spotify.com/artist/1s5qi7koTDNSvEC71Y3Jg3) | [N.A.R.R.O \(Not Another Roots Reggae Odyssey\)](https://open.spotify.com/album/2JStyArHh5oc1QdGRmAwLu) | 3:58 |
+| 51 | [Smoothie Bonce](https://open.spotify.com/track/5YGZzjC9mnjBovs8Bf9pzf) | [Temple Sour](https://open.spotify.com/artist/1s5qi7koTDNSvEC71Y3Jg3) | [N.A.R.R.O \(Not Another Roots Reggae Odyssey\)](https://open.spotify.com/album/3BmDU5YJhoip0L8YzIetJr) | 3:58 |
 | 52 | [Makinon](https://open.spotify.com/track/6S5fC1oR4Kg5m7B5JAgjsR) | [El Clooy](https://open.spotify.com/artist/2iBSDwlk9bvp1aKT4ubGoC), [Cocaine Beatz](https://open.spotify.com/artist/3gWc5nbi4s5wcTFxInX601) | [Makinon](https://open.spotify.com/album/2qY7FX6s6WyRk0itXmMUmU) | 2:46 |
 | 53 | [Yo Quiero](https://open.spotify.com/track/1t4DLSdEpTDy5v8aUMK5jY) | [Sarodj](https://open.spotify.com/artist/49V0e4iCjNvIqEuyFDQi0F) | [Yo Quiero](https://open.spotify.com/album/0TEF2jy79sijA5qNVtqHII) | 2:14 |
 | 54 | [Aquarela Luz](https://open.spotify.com/track/5XTShiHeVnUbzSVNRRFvfV) | [Dada Yute](https://open.spotify.com/artist/4mZqYlVhIZJnJtbF39kDjj), [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8), [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd) | [Aquarela Luz](https://open.spotify.com/album/66HopHwwTYRr0n2wRarTAS) | 4:00 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 58 | [Lei da Atraçao](https://open.spotify.com/track/5eMHCxeht8l87J5xfLI03s) | [Mc Paiva ZS](https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Lei da Atraçao](https://open.spotify.com/album/6yrnDlKD0PU4AueqoUMw8S) | 2:12 |
 | 59 | [Difícil de Separar](https://open.spotify.com/track/5iRA7XlIHvijvikssFgoBB) | [Jonas Esticado](https://open.spotify.com/artist/22jNvLBrXGKr4CcV2tw8Ag) | [Difícil de Separar](https://open.spotify.com/album/17ibK5Eq1ER7PgIl6x4IKv) | 2:59 |
 
-Snapshot ID: `MTY2MzMwMDgwMCwwMDAwMDAwMGIxYmY3MjA4MjM4Nzc1YmQ2ODc0MWZjZWE3ODA4MzJl`
+Snapshot ID: `MTY2MzMwMDgwMCwwMDAwMDAwMDUxYzBlZWJiOGY2ZTc2OWQ0MmQ5NWU1ZGFlZGJiMmEw`

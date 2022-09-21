@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,532 likes - 108 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,528 likes - 108 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 20 | [fmk \(with blackbear\)](https://open.spotify.com/track/1hhMX7QQIhBsXjFmTK7owB) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [fmk \(with blackbear\)](https://open.spotify.com/album/2JATwGH1Izmuu47IcnfzSO) | 3:09 |
 | 21 | [Mercy \(2022 Edit\)](https://open.spotify.com/track/4NmNw3RnHtp6t6M0DjP1v3) | [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi), [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Anomaly](https://open.spotify.com/album/7J8SSnGauta2Uy7HKhEDMA) | 3:17 |
 | 22 | [Brown Sugar Queen \[Feat\. Janice\]](https://open.spotify.com/track/4IBA7iay6sycCsopkXqpII) | [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH), [Janice](https://open.spotify.com/artist/1uKR3ihZmv8a93heLPYKQ8) | [Brown Sugar Queen \[Feat\. Janice\]](https://open.spotify.com/album/7gd3JStkef9zd2CV9Et7BF) | 3:28 |
-| 23 | [Chemistry](https://open.spotify.com/track/23E8Vr8RGP54IoP0n4Lr4Z) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5), [IDEMI](https://open.spotify.com/artist/09OK5GXLbMSjg8lOb4wRVT), [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [Chemistry](https://open.spotify.com/album/7M2PgMJyOQ2Pc3FTwNkPBz) | 2:45 |
+| 23 | [Chemistry](https://open.spotify.com/track/23E8Vr8RGP54IoP0n4Lr4Z) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5), [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C), [IDEMI](https://open.spotify.com/artist/09OK5GXLbMSjg8lOb4wRVT) | [Chemistry](https://open.spotify.com/album/7M2PgMJyOQ2Pc3FTwNkPBz) | 2:45 |
 | 24 | [Where Do We Go](https://open.spotify.com/track/5fBBhQfbpkYpGc0Qcax4FN) | [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82) | [Where Do We Go](https://open.spotify.com/album/4HNIEO4z4B9iXPW8ywV01E) | 2:30 |
 | 25 | [Alle roser \(feat\. Olivia Lobato\)](https://open.spotify.com/track/6gVks60nYcLUwHt4cXwPQU) | [Sebastian Zalo](https://open.spotify.com/artist/5CGn9wJhdFhjB3DoU7LHX0), [Olivia Lobato](https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0) | [Alle roser \(feat\. Olivia Lobato\)](https://open.spotify.com/album/5SqIqOm6q4twx138RP5lKk) | 3:12 |
 | 26 | [Stay](https://open.spotify.com/track/1xqkbi0rZNNcbGv8r6kK8p) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Opening The Door](https://open.spotify.com/album/7qWVvcaFH5Wlv0vxBXMOUQ) | 3:48 |

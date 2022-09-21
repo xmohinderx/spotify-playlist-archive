@@ -1,12 +1,12 @@
 {
   "description": "Turn the energy levels up and join the party wherever you are!",
-  "num_followers": 688509,
+  "num_followers": 688500,
   "original_name": "PARTY MODE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTE5MDk2NSwwMDAwMDAwMDUwOWJmYjQ1OGRmY2I4MTYzMDFiMmEyNjlmMmQxZTFj",
+  "snapshot_id": "MTY2MTE5MDk2NSwwMDAwMDAwMDVmNmRkNTc5ZDliNjA5YjBhYmVmNzYzNjgwNzBiNmEy",
   "tracks": [
     {
       "added_at": "2022-08-22 17:56:05",
@@ -499,22 +499,22 @@
     {
       "added_at": "2022-08-22 17:56:05",
       "album": {
-        "name": "Make Me Feel Good",
-        "url": "https://open.spotify.com/album/2YNIYdATkvFpTKZexocmEi"
+        "name": "Follow Me",
+        "url": "https://open.spotify.com/album/63P6lbTxTP2OpbC7SOrIfK"
       },
       "artists": [
         {
-          "name": "Belters Only",
-          "url": "https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA"
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
         },
         {
-          "name": "Jazzy",
-          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
         }
       ],
-      "duration_ms": 197472,
-      "name": "Make Me Feel Good",
-      "url": "https://open.spotify.com/track/4CUX44NA1CPEzd0ibMLQsL"
+      "duration_ms": 169672,
+      "name": "Follow Me",
+      "url": "https://open.spotify.com/track/2Xy1UIVfOlukyye6Fd0wrI"
     },
     {
       "added_at": "2022-08-22 17:56:05",
@@ -563,22 +563,22 @@
     {
       "added_at": "2022-08-22 17:56:05",
       "album": {
-        "name": "Follow Me",
-        "url": "https://open.spotify.com/album/63P6lbTxTP2OpbC7SOrIfK"
+        "name": "Make Me Feel Good",
+        "url": "https://open.spotify.com/album/2YNIYdATkvFpTKZexocmEi"
       },
       "artists": [
         {
-          "name": "Sam Feldt",
-          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+          "name": "Belters Only",
+          "url": "https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA"
         },
         {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
         }
       ],
-      "duration_ms": 169672,
-      "name": "Follow Me",
-      "url": "https://open.spotify.com/track/2Xy1UIVfOlukyye6Fd0wrI"
+      "duration_ms": 197472,
+      "name": "Make Me Feel Good",
+      "url": "https://open.spotify.com/track/4CUX44NA1CPEzd0ibMLQsL"
     },
     {
       "added_at": "2022-08-22 17:56:05",
@@ -691,26 +691,6 @@
     {
       "added_at": "2022-08-22 17:56:05",
       "album": {
-        "name": "Still Sleepless",
-        "url": "https://open.spotify.com/album/0R8Q1Ssj8x17w30NUas7yu"
-      },
-      "artists": [
-        {
-          "name": "D.O.D",
-          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
-        },
-        {
-          "name": "Carla Monroe",
-          "url": "https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB"
-        }
-      ],
-      "duration_ms": 162879,
-      "name": "Still Sleepless",
-      "url": "https://open.spotify.com/track/4vyG9ZhHT8MKJE5mTICMFC"
-    },
-    {
-      "added_at": "2022-08-22 17:56:05",
-      "album": {
         "name": "Beg For You (feat. Rina Sawayama)",
         "url": "https://open.spotify.com/album/0ffmwwS9EBmpLAgjblX75O"
       },
@@ -727,6 +707,26 @@
       "duration_ms": 168053,
       "name": "Beg For You (feat. Rina Sawayama)",
       "url": "https://open.spotify.com/track/50ZFpw2wS6ERvLmW8TINhq"
+    },
+    {
+      "added_at": "2022-08-22 17:56:05",
+      "album": {
+        "name": "Still Sleepless",
+        "url": "https://open.spotify.com/album/0R8Q1Ssj8x17w30NUas7yu"
+      },
+      "artists": [
+        {
+          "name": "D.O.D",
+          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+        },
+        {
+          "name": "Carla Monroe",
+          "url": "https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB"
+        }
+      ],
+      "duration_ms": 162879,
+      "name": "Still Sleepless",
+      "url": "https://open.spotify.com/track/4vyG9ZhHT8MKJE5mTICMFC"
     },
     {
       "added_at": "2022-08-22 17:56:05",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2022-08-22 17:56:05",
       "album": {
-        "name": "Lonely",
-        "url": "https://open.spotify.com/album/3zxRCukRL1NQC4vo7ipUet"
-      },
-      "artists": [
-        {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
-        }
-      ],
-      "duration_ms": 190955,
-      "name": "Lonely",
-      "url": "https://open.spotify.com/track/2ZEq4HT450Ye9IFGPTl9qV"
-    },
-    {
-      "added_at": "2022-08-22 17:56:05",
-      "album": {
         "name": "Bruises EP",
         "url": "https://open.spotify.com/album/3bAq5agU2IUDfDuO4w50aR"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 212280,
       "name": "Bruises - Steve Void Remix",
       "url": "https://open.spotify.com/track/4raMIjIjMc8JohHth7l9lG"
+    },
+    {
+      "added_at": "2022-08-22 17:56:05",
+      "album": {
+        "name": "Lonely",
+        "url": "https://open.spotify.com/album/3zxRCukRL1NQC4vo7ipUet"
+      },
+      "artists": [
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        }
+      ],
+      "duration_ms": 190955,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/2ZEq4HT450Ye9IFGPTl9qV"
     },
     {
       "added_at": "2022-08-22 17:56:05",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2022-08-22 17:56:05",
       "album": {
-        "name": "Call On Me",
-        "url": "https://open.spotify.com/album/4l78jaWeylIINTLaAdIHJy"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 194880,
-      "name": "Call On Me",
-      "url": "https://open.spotify.com/track/1gX4wETtMGvOB7u1proVfj"
-    },
-    {
-      "added_at": "2022-08-22 17:56:05",
-      "album": {
         "name": "No Fun",
         "url": "https://open.spotify.com/album/5MOMnX1NgMpjRD0iAHcttM"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 130412,
       "name": "No Fun",
       "url": "https://open.spotify.com/track/3YOZWCREvKsxhcZNJix5xd"
+    },
+    {
+      "added_at": "2022-08-22 17:56:05",
+      "album": {
+        "name": "Call On Me",
+        "url": "https://open.spotify.com/album/4l78jaWeylIINTLaAdIHJy"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 194880,
+      "name": "Call On Me",
+      "url": "https://open.spotify.com/track/1gX4wETtMGvOB7u1proVfj"
     },
     {
       "added_at": "2022-08-22 17:56:05",
@@ -1331,30 +1331,6 @@
     {
       "added_at": "2022-08-22 17:56:05",
       "album": {
-        "name": "Feel Again, Pt. 1",
-        "url": "https://open.spotify.com/album/25UHk7kHvvkRPvXmpkGaTd"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "Billen Ted",
-          "url": "https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82"
-        },
-        {
-          "name": "JC Stewart",
-          "url": "https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv"
-        }
-      ],
-      "duration_ms": 169108,
-      "name": "Come Around Again",
-      "url": "https://open.spotify.com/track/5pr0RW6itk3yEfJHkg4DIF"
-    },
-    {
-      "added_at": "2022-08-22 17:56:05",
-      "album": {
         "name": "Together",
         "url": "https://open.spotify.com/album/1uYrEieSyuTVtTnszT4eUg"
       },
@@ -1407,6 +1383,30 @@
       "duration_ms": 198620,
       "name": "Higher",
       "url": "https://open.spotify.com/track/1dHW6MypbqYUzRXAItBQ07"
+    },
+    {
+      "added_at": "2022-08-22 17:56:05",
+      "album": {
+        "name": "Feel Again, Pt. 1",
+        "url": "https://open.spotify.com/album/25UHk7kHvvkRPvXmpkGaTd"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Billen Ted",
+          "url": "https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82"
+        },
+        {
+          "name": "JC Stewart",
+          "url": "https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv"
+        }
+      ],
+      "duration_ms": 169108,
+      "name": "Come Around Again",
+      "url": "https://open.spotify.com/track/5pr0RW6itk3yEfJHkg4DIF"
     },
     {
       "added_at": "2022-08-22 17:56:05",
@@ -1779,30 +1779,6 @@
     {
       "added_at": "2022-08-22 17:56:05",
       "album": {
-        "name": "Everybody Dance (feat. Nile Rodgers)",
-        "url": "https://open.spotify.com/album/4vcuBBBPLCegTTJWF2p2hb"
-      },
-      "artists": [
-        {
-          "name": "Cedric Gervais",
-          "url": "https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724"
-        },
-        {
-          "name": "Franklin",
-          "url": "https://open.spotify.com/artist/4bU685oayr3KvaP4qdoYdu"
-        },
-        {
-          "name": "Nile Rodgers",
-          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
-        }
-      ],
-      "duration_ms": 168289,
-      "name": "Everybody Dance (feat. Nile Rodgers)",
-      "url": "https://open.spotify.com/track/2KP2670rcQA5XRZyQcVhDK"
-    },
-    {
-      "added_at": "2022-08-22 17:56:05",
-      "album": {
         "name": "For a Feeling (feat. RHODES)",
         "url": "https://open.spotify.com/album/0cBPK7AovyEBys5USO3MQ2"
       },
@@ -1823,6 +1799,30 @@
       "duration_ms": 296324,
       "name": "For a Feeling (feat. RHODES)",
       "url": "https://open.spotify.com/track/1wjQEAV31X26Za9KRAmqwz"
+    },
+    {
+      "added_at": "2022-08-22 17:56:05",
+      "album": {
+        "name": "Everybody Dance (feat. Nile Rodgers)",
+        "url": "https://open.spotify.com/album/4vcuBBBPLCegTTJWF2p2hb"
+      },
+      "artists": [
+        {
+          "name": "Cedric Gervais",
+          "url": "https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724"
+        },
+        {
+          "name": "Franklin",
+          "url": "https://open.spotify.com/artist/4bU685oayr3KvaP4qdoYdu"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        }
+      ],
+      "duration_ms": 168289,
+      "name": "Everybody Dance (feat. Nile Rodgers)",
+      "url": "https://open.spotify.com/track/2KP2670rcQA5XRZyQcVhDK"
     },
     {
       "added_at": "2022-08-22 17:56:05",
@@ -1863,22 +1863,18 @@
     {
       "added_at": "2022-08-22 17:56:05",
       "album": {
-        "name": "Tears For Later",
-        "url": "https://open.spotify.com/album/79k3hCGte01bmCcvPDEdwO"
+        "name": "Look Into My Eyes",
+        "url": "https://open.spotify.com/album/4beerxXaNWkQKZfXSEjGZq"
       },
       "artists": [
         {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        },
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+          "name": "Brando",
+          "url": "https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE"
         }
       ],
-      "duration_ms": 166736,
-      "name": "Tears For Later",
-      "url": "https://open.spotify.com/track/0qLCGr3tEqsvk5FfHU2XqV"
+      "duration_ms": 154653,
+      "name": "Look Into My Eyes",
+      "url": "https://open.spotify.com/track/4XjwHKoDGFWHFi45edRl7y"
     },
     {
       "added_at": "2022-08-22 17:56:05",
@@ -1911,18 +1907,22 @@
     {
       "added_at": "2022-08-22 17:56:05",
       "album": {
-        "name": "Look Into My Eyes",
-        "url": "https://open.spotify.com/album/4beerxXaNWkQKZfXSEjGZq"
+        "name": "Tears For Later",
+        "url": "https://open.spotify.com/album/79k3hCGte01bmCcvPDEdwO"
       },
       "artists": [
         {
-          "name": "Brando",
-          "url": "https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE"
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        },
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
         }
       ],
-      "duration_ms": 154653,
-      "name": "Look Into My Eyes",
-      "url": "https://open.spotify.com/track/4XjwHKoDGFWHFi45edRl7y"
+      "duration_ms": 166736,
+      "name": "Tears For Later",
+      "url": "https://open.spotify.com/track/0qLCGr3tEqsvk5FfHU2XqV"
     },
     {
       "added_at": "2022-08-22 17:56:05",

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Al agua! Nosotros ponemos la m\u00fasica.",
-  "num_followers": 451407,
+  "num_followers": 451519,
   "original_name": "Pool Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjQ3NTI0MiwwMDAwMDAwMDgyYzU0YTkwYmJjMzJiM2Y0MmM5YjY0ZGEwYmMxZThl",
+  "snapshot_id": "MTY2MjQ3NTI0MiwwMDAwMDAwMGQ4N2Q0NjlmOTRiZWMzNTg3ZDMzZmQxNDkwM2ZjODYx",
   "tracks": [
     {
       "added_at": "2022-09-05 20:25:37",
@@ -487,22 +487,6 @@
     {
       "added_at": "2022-09-05 20:25:37",
       "album": {
-        "name": "Normal",
-        "url": "https://open.spotify.com/album/3xbevf88sEI6l01P9dApmu"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 171986,
-      "name": "Normal",
-      "url": "https://open.spotify.com/track/2z9YkcLojiOE7Eu2p9lPZR"
-    },
-    {
-      "added_at": "2022-09-05 20:25:37",
-      "album": {
         "name": "Yonaguni",
         "url": "https://open.spotify.com/album/6VSOIs13DaSG2IPilNviX5"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 143901,
       "name": "THATS WHAT I WANT",
       "url": "https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO"
+    },
+    {
+      "added_at": "2022-09-05 20:25:37",
+      "album": {
+        "name": "Normal",
+        "url": "https://open.spotify.com/album/3xbevf88sEI6l01P9dApmu"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 171986,
+      "name": "Normal",
+      "url": "https://open.spotify.com/track/2z9YkcLojiOE7Eu2p9lPZR"
     },
     {
       "added_at": "2022-09-05 20:25:37",
@@ -643,26 +643,6 @@
     {
       "added_at": "2022-09-05 20:25:37",
       "album": {
-        "name": "MAMIII",
-        "url": "https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        },
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 226088,
-      "name": "MAMIII",
-      "url": "https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs"
-    },
-    {
-      "added_at": "2022-09-05 20:25:37",
-      "album": {
         "name": "The Motto",
         "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
       },
@@ -679,6 +659,26 @@
       "duration_ms": 164818,
       "name": "The Motto",
       "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
+    },
+    {
+      "added_at": "2022-09-05 20:25:37",
+      "album": {
+        "name": "MAMIII",
+        "url": "https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 226088,
+      "name": "MAMIII",
+      "url": "https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs"
     },
     {
       "added_at": "2022-09-05 20:25:37",
@@ -771,6 +771,22 @@
     {
       "added_at": "2022-09-05 20:25:37",
       "album": {
+        "name": "Positions",
+        "url": "https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 172324,
+      "name": "positions",
+      "url": "https://open.spotify.com/track/35mvY5S1H3J2QZyna3TFe0"
+    },
+    {
+      "added_at": "2022-09-05 20:25:37",
+      "album": {
         "name": "Motivando a la Yal",
         "url": "https://open.spotify.com/album/2aItcV9jj0LvaluaDFTLqF"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 176000,
       "name": "Ens\u00e9\u00f1ame a Bailar",
       "url": "https://open.spotify.com/track/2NMjggapJcXXM7WccGEBUO"
-    },
-    {
-      "added_at": "2022-09-05 20:25:37",
-      "album": {
-        "name": "Positions",
-        "url": "https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 172324,
-      "name": "positions",
-      "url": "https://open.spotify.com/track/35mvY5S1H3J2QZyna3TFe0"
     },
     {
       "added_at": "2022-09-05 20:25:37",
@@ -899,26 +899,6 @@
     {
       "added_at": "2022-09-05 20:25:37",
       "album": {
-        "name": "Where Did You Go (feat. MNEK)",
-        "url": "https://open.spotify.com/album/5vSLX6JljaSXuRY2Wqi6xL"
-      },
-      "artists": [
-        {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
-        },
-        {
-          "name": "MNEK",
-          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
-        }
-      ],
-      "duration_ms": 177689,
-      "name": "Where Did You Go? (feat. MNEK)",
-      "url": "https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8"
-    },
-    {
-      "added_at": "2022-09-05 20:25:37",
-      "album": {
         "name": "My Universe",
         "url": "https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp"
       },
@@ -935,6 +915,26 @@
       "duration_ms": 228000,
       "name": "My Universe",
       "url": "https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM"
+    },
+    {
+      "added_at": "2022-09-05 20:25:37",
+      "album": {
+        "name": "Where Did You Go (feat. MNEK)",
+        "url": "https://open.spotify.com/album/5vSLX6JljaSXuRY2Wqi6xL"
+      },
+      "artists": [
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        },
+        {
+          "name": "MNEK",
+          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
+        }
+      ],
+      "duration_ms": 177689,
+      "name": "Where Did You Go? (feat. MNEK)",
+      "url": "https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8"
     },
     {
       "added_at": "2022-09-05 20:25:37",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2022-09-05 20:25:37",
       "album": {
-        "name": "Fine Line",
-        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 208906,
-      "name": "Golden",
-      "url": "https://open.spotify.com/track/45S5WTQEGOB1VHr1Q4FuPl"
-    },
-    {
-      "added_at": "2022-09-05 20:25:37",
-      "album": {
         "name": "you broke me first",
         "url": "https://open.spotify.com/album/1RWiRfdNZKDe8VXzzf2VEc"
       },
@@ -1123,18 +1107,18 @@
     {
       "added_at": "2022-09-05 20:25:37",
       "album": {
-        "name": "Ferxxo 100",
-        "url": "https://open.spotify.com/album/1qI0hQjYttNGAFzXR4Pu3H"
+        "name": "Fine Line",
+        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
       },
       "artists": [
         {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
         }
       ],
-      "duration_ms": 167973,
-      "name": "Ferxxo 100",
-      "url": "https://open.spotify.com/track/6ipzb1kHhWIxp1tS0vwqPl"
+      "duration_ms": 208906,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/45S5WTQEGOB1VHr1Q4FuPl"
     },
     {
       "added_at": "2022-09-05 20:25:37",
@@ -1159,6 +1143,22 @@
     {
       "added_at": "2022-09-05 20:25:37",
       "album": {
+        "name": "Ferxxo 100",
+        "url": "https://open.spotify.com/album/1qI0hQjYttNGAFzXR4Pu3H"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 167973,
+      "name": "Ferxxo 100",
+      "url": "https://open.spotify.com/track/6ipzb1kHhWIxp1tS0vwqPl"
+    },
+    {
+      "added_at": "2022-09-05 20:25:37",
+      "album": {
         "name": "Volv\u00ed",
         "url": "https://open.spotify.com/album/23zzZlUiABIg4ftZbJ7peK"
       },
@@ -1179,26 +1179,6 @@
     {
       "added_at": "2022-09-05 20:25:37",
       "album": {
-        "name": "Paradise Again",
-        "url": "https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH"
-      },
-      "artists": [
-        {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
-        },
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "Moth To A Flame (with The Weeknd)",
-      "url": "https://open.spotify.com/track/0VO8gYVDSwM1Qdd2GsMoYK"
-    },
-    {
-      "added_at": "2022-09-05 20:25:37",
-      "album": {
         "name": "C\u00d3MO SE SIENTE (Remix)",
         "url": "https://open.spotify.com/album/0VLl6NV05DjwNE2lZFdCEI"
       },
@@ -1215,6 +1195,26 @@
       "duration_ms": 227520,
       "name": "C\u00d3MO SE SIENTE - Remix",
       "url": "https://open.spotify.com/track/2tFwfmceQa1Y6nRPhYbEtC"
+    },
+    {
+      "added_at": "2022-09-05 20:25:37",
+      "album": {
+        "name": "Paradise Again",
+        "url": "https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "Moth To A Flame (with The Weeknd)",
+      "url": "https://open.spotify.com/track/0VO8gYVDSwM1Qdd2GsMoYK"
     },
     {
       "added_at": "2022-09-05 20:25:37",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2022-09-05 20:25:37",
       "album": {
+        "name": "Good Days",
+        "url": "https://open.spotify.com/album/781cKhbTPwLnPmo9BALQl7"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 279204,
+      "name": "Good Days",
+      "url": "https://open.spotify.com/track/3YJJjQPAbDT7mGpX3WtQ9A"
+    },
+    {
+      "added_at": "2022-09-05 20:25:37",
+      "album": {
         "name": "Mayor Que Usted",
         "url": "https://open.spotify.com/album/39bS0KqiLzhJvitnTt7Y4W"
       },
@@ -1363,38 +1379,6 @@
     {
       "added_at": "2022-09-05 20:25:37",
       "album": {
-        "name": "Good Days",
-        "url": "https://open.spotify.com/album/781cKhbTPwLnPmo9BALQl7"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 279204,
-      "name": "Good Days",
-      "url": "https://open.spotify.com/track/3YJJjQPAbDT7mGpX3WtQ9A"
-    },
-    {
-      "added_at": "2022-09-05 20:25:37",
-      "album": {
-        "name": "Light Switch",
-        "url": "https://open.spotify.com/album/6PBwTu4IgZMQNTKtrgxzZQ"
-      },
-      "artists": [
-        {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
-        }
-      ],
-      "duration_ms": 185680,
-      "name": "Light Switch",
-      "url": "https://open.spotify.com/track/1BSMpVGWs3v5BZKnAQziAc"
-    },
-    {
-      "added_at": "2022-09-05 20:25:37",
-      "album": {
         "name": "Kiss Me More (feat. SZA)",
         "url": "https://open.spotify.com/album/1OnzqJTL9bwe4kvaLxRYxt"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 208866,
       "name": "Kiss Me More (feat. SZA)",
       "url": "https://open.spotify.com/track/748mdHapucXQri7IAO8yFK"
+    },
+    {
+      "added_at": "2022-09-05 20:25:37",
+      "album": {
+        "name": "Light Switch",
+        "url": "https://open.spotify.com/album/6PBwTu4IgZMQNTKtrgxzZQ"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "duration_ms": 185680,
+      "name": "Light Switch",
+      "url": "https://open.spotify.com/track/1BSMpVGWs3v5BZKnAQziAc"
     },
     {
       "added_at": "2022-09-05 20:25:37",
@@ -1607,18 +1607,22 @@
     {
       "added_at": "2022-09-05 20:25:37",
       "album": {
-        "name": "Tacones Rojos",
-        "url": "https://open.spotify.com/album/4mdWMx4VouAqsIqgLt3R6S"
+        "name": "Destined 2 Win",
+        "url": "https://open.spotify.com/album/3MEKpJ7wSSp6Z661ThjrUJ"
       },
       "artists": [
         {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        },
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
         }
       ],
-      "duration_ms": 189320,
-      "name": "Tacones Rojos",
-      "url": "https://open.spotify.com/track/0Be7sopyKMv8Y8npsUkax2"
+      "duration_ms": 205458,
+      "name": "Calling My Phone",
+      "url": "https://open.spotify.com/track/3J8EOeKLTLXORtWPpOU5bE"
     },
     {
       "added_at": "2022-09-05 20:25:37",
@@ -1635,6 +1639,46 @@
       "duration_ms": 160000,
       "name": "What You Know Bout Love",
       "url": "https://open.spotify.com/track/1tkg4EHVoqnhR6iFEXb60y"
+    },
+    {
+      "added_at": "2022-09-05 20:25:37",
+      "album": {
+        "name": "Tacones Rojos",
+        "url": "https://open.spotify.com/album/4mdWMx4VouAqsIqgLt3R6S"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 189320,
+      "name": "Tacones Rojos",
+      "url": "https://open.spotify.com/track/0Be7sopyKMv8Y8npsUkax2"
+    },
+    {
+      "added_at": "2022-09-05 20:25:37",
+      "album": {
+        "name": "THE ANXIETY",
+        "url": "https://open.spotify.com/album/2kZyqn4Cmr78D74K9TcO4K"
+      },
+      "artists": [
+        {
+          "name": "THE ANXIETY",
+          "url": "https://open.spotify.com/artist/64H8UqGLbJFHwKtGxiV8OP"
+        },
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        },
+        {
+          "name": "Tyler Cole",
+          "url": "https://open.spotify.com/artist/1xoxekeb8jUVHKJB7m6bfg"
+        }
+      ],
+      "duration_ms": 162680,
+      "name": "Meet Me At Our Spot",
+      "url": "https://open.spotify.com/track/07MDkzWARZaLEdKxo6yArG"
     },
     {
       "added_at": "2022-09-05 20:25:37",
@@ -1675,50 +1719,6 @@
       "duration_ms": 413110,
       "name": "Cay\u00f3 La Noche (feat. Cruz Cafun\u00e9, Abhir Hathi, Bejo, EL IMA) [Remix]",
       "url": "https://open.spotify.com/track/0Bv7O6fmZk3GrNQFYJaXPn"
-    },
-    {
-      "added_at": "2022-09-05 20:25:37",
-      "album": {
-        "name": "Destined 2 Win",
-        "url": "https://open.spotify.com/album/3MEKpJ7wSSp6Z661ThjrUJ"
-      },
-      "artists": [
-        {
-          "name": "Lil Tjay",
-          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
-        },
-        {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
-        }
-      ],
-      "duration_ms": 205458,
-      "name": "Calling My Phone",
-      "url": "https://open.spotify.com/track/3J8EOeKLTLXORtWPpOU5bE"
-    },
-    {
-      "added_at": "2022-09-05 20:25:37",
-      "album": {
-        "name": "THE ANXIETY",
-        "url": "https://open.spotify.com/album/2kZyqn4Cmr78D74K9TcO4K"
-      },
-      "artists": [
-        {
-          "name": "THE ANXIETY",
-          "url": "https://open.spotify.com/artist/64H8UqGLbJFHwKtGxiV8OP"
-        },
-        {
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
-        },
-        {
-          "name": "Tyler Cole",
-          "url": "https://open.spotify.com/artist/1xoxekeb8jUVHKJB7m6bfg"
-        }
-      ],
-      "duration_ms": 162680,
-      "name": "Meet Me At Our Spot",
-      "url": "https://open.spotify.com/track/07MDkzWARZaLEdKxo6yArG"
     },
     {
       "added_at": "2022-09-05 20:25:37",
@@ -2343,18 +2343,18 @@
     {
       "added_at": "2022-09-05 20:25:37",
       "album": {
-        "name": "Antes de Perderte",
-        "url": "https://open.spotify.com/album/1l6jE76o3QeZOXPt6G5Je7"
+        "name": "Astronaut In The Ocean",
+        "url": "https://open.spotify.com/album/7vus4Q8r5DS2Dl1JClxEsA"
       },
       "artists": [
         {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+          "name": "Masked Wolf",
+          "url": "https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd"
         }
       ],
-      "duration_ms": 176727,
-      "name": "Antes de Perderte",
-      "url": "https://open.spotify.com/track/4RtPruLRZbyirtJGqYHPQm"
+      "duration_ms": 132780,
+      "name": "Astronaut In The Ocean",
+      "url": "https://open.spotify.com/track/3Ofmpyhv5UAQ70mENzB277"
     },
     {
       "added_at": "2022-09-05 20:25:37",
@@ -2383,22 +2383,6 @@
     {
       "added_at": "2022-09-05 20:25:37",
       "album": {
-        "name": "Astronaut In The Ocean",
-        "url": "https://open.spotify.com/album/7vus4Q8r5DS2Dl1JClxEsA"
-      },
-      "artists": [
-        {
-          "name": "Masked Wolf",
-          "url": "https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd"
-        }
-      ],
-      "duration_ms": 132780,
-      "name": "Astronaut In The Ocean",
-      "url": "https://open.spotify.com/track/3Ofmpyhv5UAQ70mENzB277"
-    },
-    {
-      "added_at": "2022-09-05 20:25:37",
-      "album": {
         "name": "An Evening With Silk Sonic",
         "url": "https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk"
       },
@@ -2419,6 +2403,22 @@
       "duration_ms": 197442,
       "name": "Smokin Out The Window",
       "url": "https://open.spotify.com/track/3xVZYkcuWalGudeKl861wb"
+    },
+    {
+      "added_at": "2022-09-05 20:25:37",
+      "album": {
+        "name": "Antes de Perderte",
+        "url": "https://open.spotify.com/album/1l6jE76o3QeZOXPt6G5Je7"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "duration_ms": 176727,
+      "name": "Antes de Perderte",
+      "url": "https://open.spotify.com/track/4RtPruLRZbyirtJGqYHPQm"
     },
     {
       "added_at": "2022-09-05 20:25:37",
@@ -2511,26 +2511,6 @@
     {
       "added_at": "2022-09-05 20:25:37",
       "album": {
-        "name": "Cl\u00e1sicos",
-        "url": "https://open.spotify.com/album/0t8H6Wc8P63LO0zj7kwZuj"
-      },
-      "artists": [
-        {
-          "name": "LAGOS",
-          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
-        },
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 192313,
-      "name": "M\u00f3naco",
-      "url": "https://open.spotify.com/track/3HgvO4B5LLmdPOT2d8cSZd"
-    },
-    {
-      "added_at": "2022-09-05 20:25:37",
-      "album": {
         "name": "THE ALBUM",
         "url": "https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N"
       },
@@ -2547,22 +2527,22 @@
     {
       "added_at": "2022-09-05 20:25:37",
       "album": {
-        "name": "CHAMA MEU NOME",
-        "url": "https://open.spotify.com/album/0wPKAGItuL6gBgVsgxbjn1"
+        "name": "Cl\u00e1sicos",
+        "url": "https://open.spotify.com/album/0t8H6Wc8P63LO0zj7kwZuj"
       },
       "artists": [
         {
-          "name": "PEDRO SAMPAIO",
-          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+          "name": "LAGOS",
+          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
         },
         {
-          "name": "Mc Pedrinho",
-          "url": "https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m"
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
         }
       ],
-      "duration_ms": 110222,
-      "name": "DAN\u00c7ARINA",
-      "url": "https://open.spotify.com/track/5zNxUkUW9WiV5oyg6gh2wB"
+      "duration_ms": 192313,
+      "name": "M\u00f3naco",
+      "url": "https://open.spotify.com/track/3HgvO4B5LLmdPOT2d8cSZd"
     },
     {
       "added_at": "2022-09-05 20:25:37",
@@ -2595,6 +2575,26 @@
       "duration_ms": 147598,
       "name": "Volare",
       "url": "https://open.spotify.com/track/6TCnhziFkBPhOTqvh8zVDU"
+    },
+    {
+      "added_at": "2022-09-05 20:25:37",
+      "album": {
+        "name": "CHAMA MEU NOME",
+        "url": "https://open.spotify.com/album/0wPKAGItuL6gBgVsgxbjn1"
+      },
+      "artists": [
+        {
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+        },
+        {
+          "name": "Mc Pedrinho",
+          "url": "https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m"
+        }
+      ],
+      "duration_ms": 110222,
+      "name": "DAN\u00c7ARINA",
+      "url": "https://open.spotify.com/track/5zNxUkUW9WiV5oyg6gh2wB"
     },
     {
       "added_at": "2022-09-05 20:25:37",
@@ -2651,26 +2651,6 @@
     {
       "added_at": "2022-09-05 20:25:37",
       "album": {
-        "name": "Mal De Amores",
-        "url": "https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 218800,
-      "name": "Marte",
-      "url": "https://open.spotify.com/track/1uK5rDY3BnikyG0sl3tPpc"
-    },
-    {
-      "added_at": "2022-09-05 20:25:37",
-      "album": {
         "name": "Breaking Me",
         "url": "https://open.spotify.com/album/3nBQlhUvErkw8DVpF47WAn"
       },
@@ -2687,6 +2667,26 @@
       "duration_ms": 166793,
       "name": "Breaking Me",
       "url": "https://open.spotify.com/track/3H7ihDc1dqLriiWXwsc2po"
+    },
+    {
+      "added_at": "2022-09-05 20:25:37",
+      "album": {
+        "name": "Mal De Amores",
+        "url": "https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 218800,
+      "name": "Marte",
+      "url": "https://open.spotify.com/track/1uK5rDY3BnikyG0sl3tPpc"
     },
     {
       "added_at": "2022-09-05 20:25:37",
@@ -2767,6 +2767,22 @@
     {
       "added_at": "2022-09-05 20:25:37",
       "album": {
+        "name": "evermore",
+        "url": "https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 214706,
+      "name": "willow",
+      "url": "https://open.spotify.com/track/0lx2cLdOt3piJbcaXIV74f"
+    },
+    {
+      "added_at": "2022-09-05 20:25:37",
+      "album": {
         "name": "Remember",
         "url": "https://open.spotify.com/album/6DHfD3rZapWFmEKX1FNNZF"
       },
@@ -2803,22 +2819,6 @@
       "duration_ms": 176546,
       "name": "ily (i love you baby) (feat. Emilee)",
       "url": "https://open.spotify.com/track/62aP9fBQKYKxi7PDXwcUAS"
-    },
-    {
-      "added_at": "2022-09-05 20:25:37",
-      "album": {
-        "name": "evermore",
-        "url": "https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 214706,
-      "name": "willow",
-      "url": "https://open.spotify.com/track/0lx2cLdOt3piJbcaXIV74f"
     },
     {
       "added_at": "2022-09-05 20:25:37",

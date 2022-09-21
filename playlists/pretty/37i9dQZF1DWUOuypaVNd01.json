@@ -1,12 +1,12 @@
 {
   "description": "De r\u00e9u a ref - o filho deles quer viver essa vida. Foto: Nochica, Vitin, SD9, JEFFRO",
-  "num_followers": 19163,
+  "num_followers": 19214,
   "original_name": "Malandro Posturado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY5MjQ2MCwwMDAwMDAwMDVkYTg4MWRmMThiNWE2MWVkY2E1ZDJhNDE5ZDQxNDcz",
+  "snapshot_id": "MTY2MjY5MjQ2MCwwMDAwMDAwMGM4NzIzZmUzZGVmNGFkMmI3YzRhMmI2ZjRhMzI0ZTc1",
   "tracks": [
     {
       "added_at": "2022-09-09 03:01:00",
@@ -123,26 +123,6 @@
     {
       "added_at": "2022-09-09 03:01:00",
       "album": {
-        "name": "N\u00f3s \u00e9 Ruim e o Cabelo Ajuda",
-        "url": "https://open.spotify.com/album/2AgCmiFrUKSt5e9BplxhSY"
-      },
-      "artists": [
-        {
-          "name": "Kyan",
-          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
-        },
-        {
-          "name": "Mu540",
-          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
-        }
-      ],
-      "duration_ms": 155942,
-      "name": "N\u00f3s \u00e9 Ruim e o Cabelo Ajuda",
-      "url": "https://open.spotify.com/track/0WGiVPRKaQHsBVk21nV05K"
-    },
-    {
-      "added_at": "2022-09-09 03:01:00",
-      "album": {
         "name": "12",
         "url": "https://open.spotify.com/album/68m25Mk20x1Ux9gd9QSoPb"
       },
@@ -163,6 +143,26 @@
       "duration_ms": 120958,
       "name": "12",
       "url": "https://open.spotify.com/track/0o0wW2KjzK3Cg3RM29lCbI"
+    },
+    {
+      "added_at": "2022-09-09 03:01:00",
+      "album": {
+        "name": "N\u00f3s \u00e9 Ruim e o Cabelo Ajuda",
+        "url": "https://open.spotify.com/album/2AgCmiFrUKSt5e9BplxhSY"
+      },
+      "artists": [
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        },
+        {
+          "name": "Mu540",
+          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
+        }
+      ],
+      "duration_ms": 155942,
+      "name": "N\u00f3s \u00e9 Ruim e o Cabelo Ajuda",
+      "url": "https://open.spotify.com/track/0WGiVPRKaQHsBVk21nV05K"
     },
     {
       "added_at": "2022-09-09 03:01:00",
@@ -275,22 +275,6 @@
     {
       "added_at": "2022-09-09 03:01:00",
       "album": {
-        "name": "Mandrake",
-        "url": "https://open.spotify.com/album/5VsdDBaIJUPr6Oz5tqc6Mg"
-      },
-      "artists": [
-        {
-          "name": "Kyan",
-          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
-        }
-      ],
-      "duration_ms": 112764,
-      "name": "Mandrake",
-      "url": "https://open.spotify.com/track/7eL0pC73XR5EF940YEk79k"
-    },
-    {
-      "added_at": "2022-09-09 03:01:00",
-      "album": {
         "name": "Aonde Eu Sou Cria",
         "url": "https://open.spotify.com/album/2kMW9ybuXIlpW86XOEf6k1"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 154909,
       "name": "Aonde Eu Sou Cria",
       "url": "https://open.spotify.com/track/5ZSCMCmUNxnRTDuYZxK3ah"
+    },
+    {
+      "added_at": "2022-09-09 03:01:00",
+      "album": {
+        "name": "Mandrake",
+        "url": "https://open.spotify.com/album/5VsdDBaIJUPr6Oz5tqc6Mg"
+      },
+      "artists": [
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        }
+      ],
+      "duration_ms": 112764,
+      "name": "Mandrake",
+      "url": "https://open.spotify.com/track/7eL0pC73XR5EF940YEk79k"
     },
     {
       "added_at": "2022-09-09 03:01:00",

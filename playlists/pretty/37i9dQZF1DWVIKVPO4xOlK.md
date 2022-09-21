@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVIKVPO4xOlK.md) - [plain]
 
 > Welcome to L.A\. Lo que suena in the city of dreams\. Cover: Luis R Conriquez
 
-[Spotify](https://open.spotify.com/user/spotify) - 372,918 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 372,963 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVIKVPO4xOlK.md) - [plain]
 | 74 | [Sensual Bebé](https://open.spotify.com/track/1xqbfjRuUw0ot43wgBuVkt) | [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz) | [Sensual Bebé](https://open.spotify.com/album/2k3Qqrw8oQT3lq4XPe1xWC) | 3:29 |
 | 75 | [Nivel De Perreo](https://open.spotify.com/track/0nDGgXV5oI8TdAmWjUx65l) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Nivel De Perreo](https://open.spotify.com/album/6uDeoe39q6zh4vNScJTTgr) | 2:31 |
 | 76 | [Ahora Todo Es Diferente](https://open.spotify.com/track/2L4gbQNTxISQndSblNUwJJ) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Ahora Todo Es Diferente](https://open.spotify.com/album/3l7ZAKChEtCeVNtsWFfIUP) | 3:45 |
-| 77 | [Por Apodo Soy Sobrino \(En Vivo\)](https://open.spotify.com/track/49qfoWzVYUENMSdwzBjgs3) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [La Decima Banda](https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U) | [Por Apodo Soy Sobrino \(En Vivo\)](https://open.spotify.com/album/7B52dEX4yFDEYHZszTnQhk) | 3:26 |
-| 78 | [BAILÉ CON MI EX](https://open.spotify.com/track/2Td8H23gwQZqKubcUOyCSI) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [ESQUEMAS](https://open.spotify.com/album/7eC4wtMG1I2Jtk4FDWbkKC) | 2:41 |
+| 77 | [BAILÉ CON MI EX](https://open.spotify.com/track/2Td8H23gwQZqKubcUOyCSI) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [ESQUEMAS](https://open.spotify.com/album/7eC4wtMG1I2Jtk4FDWbkKC) | 2:41 |
+| 78 | [Por Apodo Soy Sobrino \(En Vivo\)](https://open.spotify.com/track/49qfoWzVYUENMSdwzBjgs3) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [La Decima Banda](https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U) | [Por Apodo Soy Sobrino \(En Vivo\)](https://open.spotify.com/album/7B52dEX4yFDEYHZszTnQhk) | 3:26 |
 | 79 | [DOS MORRITAS](https://open.spotify.com/track/2gpaJPUWNx2xmOwy2NNLu8) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [NOSTALGIA](https://open.spotify.com/album/72rN7YPXX4BxMQ3nNmipAd) | 3:58 |
 | 80 | [Fuera de Servicio \- En Vivo](https://open.spotify.com/track/03XQEYWR7q7aQUGp43Pwah) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Fuera de Servicio \(En Vivo\)](https://open.spotify.com/album/0FTqYpjo7FxglsdqWNoO0q) | 3:26 |
 | 81 | [El Cuestionario](https://open.spotify.com/track/4jySARaQ60WkXe4JO3EKUA) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [El Cuestionario](https://open.spotify.com/album/4cxY9YgwMsAgXkXoktiTSW) | 3:08 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVIKVPO4xOlK.md) - [plain]
 | 99 | [Moscow Mule](https://open.spotify.com/track/6Xom58OOXk2SoU711L2IXO) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:05 |
 | 100 | [Después de la Playa](https://open.spotify.com/track/1dm6z1fWB0cErMszU25dy2) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:50 |
 
-Snapshot ID: `MTY2MDI3NjgwMCwwMDAwMDAwMDA3NjI3ZGY3NGRmOWFlZGEwNzUyYTBhMzcyZTJkN2Q4`
+Snapshot ID: `MTY2MDI3NjgwMCwwMDAwMDAwMDIwOTFhMmM1MjM1NWY2MDg5ZTg5MWI2OTk3ZWU3NGMw`

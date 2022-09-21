@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb67OkZ6150Z.md) - [plain]
 
 > Indie takes on songs others make\. Cover: Remi Wolf
 
-[Spotify](https://open.spotify.com/user/spotify) - 270,473 likes - 75 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,502 likes - 75 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb67OkZ6150Z.md) - [plain]
 | 42 | [Paul](https://open.spotify.com/track/2MjzsLWwEBqnJAdXtDlaz1) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Paul](https://open.spotify.com/album/1OlusNXiorsSM7tYlIG9Cy) | 3:07 |
 | 43 | [Creep](https://open.spotify.com/track/5nC2VyPxefp5EXVViTcz7S) | [carolesdaughter](https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB) | [Creep](https://open.spotify.com/album/4C9Io2lIQJdBo9RH1XK8Gj) | 3:42 |
 | 44 | [Fix You](https://open.spotify.com/track/0vzv4fNNHbkVCTVGQwxxGw) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Fix You](https://open.spotify.com/album/0GqKv6ZSLVMgbjE8gVDpkC) | 2:21 |
-| 45 | [Heart\-Shaped Box](https://open.spotify.com/track/2UrSdFSG1rTuzCwAkeP0ou) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Quarantine Covers](https://open.spotify.com/album/1PoNxdvXr6C4XM4cr6Fr6u) | 3:03 |
-| 46 | [This Will Be Our Year](https://open.spotify.com/track/3LPvSvPOv2z6FK4xyobePc) | [Lowland Hum](https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE) | [Singing Other People's Love Songs](https://open.spotify.com/album/3608IcniealifcqI8WbKte) | 2:16 |
+| 45 | [This Will Be Our Year](https://open.spotify.com/track/3LPvSvPOv2z6FK4xyobePc) | [Lowland Hum](https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE) | [Singing Other People's Love Songs](https://open.spotify.com/album/3608IcniealifcqI8WbKte) | 2:16 |
+| 46 | [Heart\-Shaped Box](https://open.spotify.com/track/2UrSdFSG1rTuzCwAkeP0ou) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Quarantine Covers](https://open.spotify.com/album/1PoNxdvXr6C4XM4cr6Fr6u) | 3:03 |
 | 47 | [Alaska](https://open.spotify.com/track/1BWNijuC93HFgEObV2RL0Y) | [Julia Cooper](https://open.spotify.com/artist/32phMmuGI8TzzqWpR1q576) | [Alaska](https://open.spotify.com/album/7wvGomB3AXeriDQuKIyLlq) | 3:11 |
 | 48 | [Skinny Love \- Spotify Singles](https://open.spotify.com/track/58az7rByzBsG2X9MR5wbv3) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Spotify Singles](https://open.spotify.com/album/5Ir3sO62EvsC6Tfc7Q9c1z) | 3:46 |
 | 49 | [Come Give Me Love](https://open.spotify.com/track/6lG3q4b7eoeplybJUqXP96) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Come Give Me Love](https://open.spotify.com/album/4Q2SIzTIZXzWykvl3DGVPK) | 3:59 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb67OkZ6150Z.md) - [plain]
 | 74 | [Angels](https://open.spotify.com/track/7tc04xLTn7fG4IUujpuC9r) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Angels](https://open.spotify.com/album/7on0P5zUPpkedI9EtJ4SGJ) | 2:34 |
 | 75 | [Because The Night](https://open.spotify.com/track/32xJ7Ays4uyxMuZFxfH0Zj) | [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw), [Nikki Flores](https://open.spotify.com/artist/21q45xu51WtV5Td6ZBJHiB) | [Horror Show](https://open.spotify.com/album/2Qse49swFybD2LtrWM5kTq) | 3:36 |
 
-Snapshot ID: `MTY2MjIyMTg5NiwwMDAwMDAwMGMzYzRjYWJlNjlkYzc3NjI1YTg3M2YzMTYwNWI0ZGI1`
+Snapshot ID: `MTY2MjIyMTg5NiwwMDAwMDAwMDljY2QxYjlhMTI4ZjEyYWEyZjZkMWQzNjRiMDhmZjk1`

@@ -1,12 +1,12 @@
 {
   "description": "The greatest saxophonists in Jazz. Cover: John Coltrane",
-  "num_followers": 40990,
+  "num_followers": 41078,
   "original_name": "Saxophone Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMyMDkwOSwwMDAwMDAwMDljMzkwOTM4ZTdlMTgxNzJiMzY0ZDk5NjhmZjdjZWNh",
+  "snapshot_id": "MTY2MzMyMDkwOSwwMDAwMDAwMDgxYzE3M2JiNzYyNDQ1NTU2MDJhMDJkYjI1YTY3ZDFl",
   "tracks": [
     {
       "added_at": "2022-09-16 09:35:09",
@@ -167,6 +167,22 @@
     {
       "added_at": "2022-09-16 09:35:09",
       "album": {
+        "name": "Blue Train",
+        "url": "https://open.spotify.com/album/2Z11cXWEa2qqYQBGkJrCga"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 643127,
+      "name": "Blue Train",
+      "url": "https://open.spotify.com/track/3zIuHdD8dkh1vPxQu334T7"
+    },
+    {
+      "added_at": "2022-09-16 09:35:09",
+      "album": {
         "name": "Body & Soul",
         "url": "https://open.spotify.com/album/6Ieo4Lrku0sQ63Pd9G8j3L"
       },
@@ -215,26 +231,6 @@
     {
       "added_at": "2022-09-16 09:35:09",
       "album": {
-        "name": "Lee Konitz with Warne Marsh",
-        "url": "https://open.spotify.com/album/1O14t3H4XZuiJb8LKImB1c"
-      },
-      "artists": [
-        {
-          "name": "Lee Konitz",
-          "url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
-        },
-        {
-          "name": "Warne Marsh",
-          "url": "https://open.spotify.com/artist/1yVmVSKnpfLDIAbghFMN3D"
-        }
-      ],
-      "duration_ms": 331266,
-      "name": "Two Not One",
-      "url": "https://open.spotify.com/track/3bYBPyLGsa1unDrVaNzN4y"
-    },
-    {
-      "added_at": "2022-09-16 09:35:09",
-      "album": {
         "name": "I'm All For You (Ballad Songbook)",
         "url": "https://open.spotify.com/album/4jdRWzxentnlaBY3ZCQsdL"
       },
@@ -251,18 +247,22 @@
     {
       "added_at": "2022-09-16 09:35:09",
       "album": {
-        "name": "Blue Train",
-        "url": "https://open.spotify.com/album/2Z11cXWEa2qqYQBGkJrCga"
+        "name": "Lee Konitz with Warne Marsh",
+        "url": "https://open.spotify.com/album/1O14t3H4XZuiJb8LKImB1c"
       },
       "artists": [
         {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+          "name": "Lee Konitz",
+          "url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
+        },
+        {
+          "name": "Warne Marsh",
+          "url": "https://open.spotify.com/artist/1yVmVSKnpfLDIAbghFMN3D"
         }
       ],
-      "duration_ms": 643127,
-      "name": "Blue Train",
-      "url": "https://open.spotify.com/track/3zIuHdD8dkh1vPxQu334T7"
+      "duration_ms": 331266,
+      "name": "Two Not One",
+      "url": "https://open.spotify.com/track/3bYBPyLGsa1unDrVaNzN4y"
     },
     {
       "added_at": "2022-09-16 09:35:09",
@@ -287,22 +287,6 @@
     {
       "added_at": "2022-09-16 09:35:09",
       "album": {
-        "name": "Eastern Sounds",
-        "url": "https://open.spotify.com/album/651p7rfPaB7IiGIIR6Ys7f"
-      },
-      "artists": [
-        {
-          "name": "Yusef Lateef",
-          "url": "https://open.spotify.com/artist/33XkS6h90eeK7e6OJHw0mq"
-        }
-      ],
-      "duration_ms": 293653,
-      "name": "Don't Blame Me - Rudy Van Gelder Remaster",
-      "url": "https://open.spotify.com/track/6tY5UzJKw5Ihy2d3C8EIQo"
-    },
-    {
-      "added_at": "2022-09-16 09:35:09",
-      "album": {
         "name": "That's Where It's At",
         "url": "https://open.spotify.com/album/6wRyPYTtDhRpC1O4ICM1Lt"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 374626,
       "name": "Dorene Don't Cry, I - Remastered",
       "url": "https://open.spotify.com/track/1JXxyiihPJrMLotLklU0Cb"
+    },
+    {
+      "added_at": "2022-09-16 09:35:09",
+      "album": {
+        "name": "Eastern Sounds",
+        "url": "https://open.spotify.com/album/651p7rfPaB7IiGIIR6Ys7f"
+      },
+      "artists": [
+        {
+          "name": "Yusef Lateef",
+          "url": "https://open.spotify.com/artist/33XkS6h90eeK7e6OJHw0mq"
+        }
+      ],
+      "duration_ms": 293653,
+      "name": "Don't Blame Me - Rudy Van Gelder Remaster",
+      "url": "https://open.spotify.com/track/6tY5UzJKw5Ihy2d3C8EIQo"
     },
     {
       "added_at": "2022-09-16 09:35:09",
@@ -371,22 +371,6 @@
     {
       "added_at": "2022-09-16 09:35:09",
       "album": {
-        "name": "Motion",
-        "url": "https://open.spotify.com/album/5eREwMI0CzvPOH8V2HZZDU"
-      },
-      "artists": [
-        {
-          "name": "Lee Konitz",
-          "url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
-        }
-      ],
-      "duration_ms": 417320,
-      "name": "Foolin' Myself",
-      "url": "https://open.spotify.com/track/1M0bEJicvT2qmdJej9wjyk"
-    },
-    {
-      "added_at": "2022-09-16 09:35:09",
-      "album": {
         "name": "Everybody Knows",
         "url": "https://open.spotify.com/album/6kKpF48UR3DWYHLwbfvZ3C"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 327773,
       "name": "You'd Be So Nice to Come Home To",
       "url": "https://open.spotify.com/track/71KwWlZvuikRRORNH3xvCq"
+    },
+    {
+      "added_at": "2022-09-16 09:35:09",
+      "album": {
+        "name": "Motion",
+        "url": "https://open.spotify.com/album/5eREwMI0CzvPOH8V2HZZDU"
+      },
+      "artists": [
+        {
+          "name": "Lee Konitz",
+          "url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
+        }
+      ],
+      "duration_ms": 417320,
+      "name": "Foolin' Myself",
+      "url": "https://open.spotify.com/track/1M0bEJicvT2qmdJej9wjyk"
     },
     {
       "added_at": "2022-09-16 09:35:09",
@@ -607,6 +607,22 @@
     {
       "added_at": "2022-09-16 09:35:09",
       "album": {
+        "name": "Blue Train",
+        "url": "https://open.spotify.com/album/2Z11cXWEa2qqYQBGkJrCga"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 479023,
+      "name": "I'm Old Fashioned",
+      "url": "https://open.spotify.com/track/0sMR4StyIAXLE0WrfaZIDu"
+    },
+    {
+      "added_at": "2022-09-16 09:35:09",
+      "album": {
         "name": "Cliff Craft",
         "url": "https://open.spotify.com/album/4F2H4MjAaM0QQ1G8iBs63a"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 453133,
       "name": "From Dream to Dream",
       "url": "https://open.spotify.com/track/1VKza9389xxGndNAuoB1W3"
-    },
-    {
-      "added_at": "2022-09-16 09:35:09",
-      "album": {
-        "name": "Giant Steps (Mono)",
-        "url": "https://open.spotify.com/album/7MBQWjukLxXZYvQ8vzEH7t"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 418246,
-      "name": "Mr. P.C. - Mono",
-      "url": "https://open.spotify.com/track/1Z6Yxm3WpEJRkE0tGLr31y"
     },
     {
       "added_at": "2022-09-16 09:35:09",
@@ -691,18 +691,18 @@
     {
       "added_at": "2022-09-16 09:35:09",
       "album": {
-        "name": "Ben Webster Plays Ballads Remastered",
-        "url": "https://open.spotify.com/album/5RfiNZQf0WbnR5q4rxOebG"
+        "name": "Giant Steps (Mono)",
+        "url": "https://open.spotify.com/album/7MBQWjukLxXZYvQ8vzEH7t"
       },
       "artists": [
         {
-          "name": "Ben Webster",
-          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
         }
       ],
-      "duration_ms": 378784,
-      "name": "Stardust - Remastered",
-      "url": "https://open.spotify.com/track/5AVd7JsN8ts3xiiU3MPpQM"
+      "duration_ms": 418246,
+      "name": "Mr. P.C. - Mono",
+      "url": "https://open.spotify.com/track/1Z6Yxm3WpEJRkE0tGLr31y"
     },
     {
       "added_at": "2022-09-16 09:35:09",
@@ -723,6 +723,22 @@
     {
       "added_at": "2022-09-16 09:35:09",
       "album": {
+        "name": "Ben Webster Plays Ballads Remastered",
+        "url": "https://open.spotify.com/album/5RfiNZQf0WbnR5q4rxOebG"
+      },
+      "artists": [
+        {
+          "name": "Ben Webster",
+          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
+        }
+      ],
+      "duration_ms": 378784,
+      "name": "Stardust - Remastered",
+      "url": "https://open.spotify.com/track/5AVd7JsN8ts3xiiU3MPpQM"
+    },
+    {
+      "added_at": "2022-09-16 09:35:09",
+      "album": {
         "name": "One Flight Up (Remastered 2015)",
         "url": "https://open.spotify.com/album/6VwDnT2q9r7HbxNsyGr0r8"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 451407,
       "name": "Darn That Dream - Remastered 2015",
       "url": "https://open.spotify.com/track/1Owq03yMItfgZMpt9CSe80"
-    },
-    {
-      "added_at": "2022-09-16 09:35:09",
-      "album": {
-        "name": "Blue Train",
-        "url": "https://open.spotify.com/album/2Z11cXWEa2qqYQBGkJrCga"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 479023,
-      "name": "I'm Old Fashioned",
-      "url": "https://open.spotify.com/track/0sMR4StyIAXLE0WrfaZIDu"
     },
     {
       "added_at": "2022-09-16 09:35:09",
@@ -819,6 +819,22 @@
     {
       "added_at": "2022-09-16 09:35:09",
       "album": {
+        "name": "Now!",
+        "url": "https://open.spotify.com/album/1fkIYdW25bQGXNoipxIXoG"
+      },
+      "artists": [
+        {
+          "name": "Sonny Stitt",
+          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
+        }
+      ],
+      "duration_ms": 381346,
+      "name": "Lester Leaps In",
+      "url": "https://open.spotify.com/track/6xtHD6E7iIyRCopIsTzW0U"
+    },
+    {
+      "added_at": "2022-09-16 09:35:09",
+      "album": {
         "name": "Page One",
         "url": "https://open.spotify.com/album/7mQGTuvmdp56DNz0AmMwWi"
       },
@@ -835,18 +851,34 @@
     {
       "added_at": "2022-09-16 09:35:09",
       "album": {
-        "name": "Now!",
-        "url": "https://open.spotify.com/album/1fkIYdW25bQGXNoipxIXoG"
+        "name": "Used To Be Duke",
+        "url": "https://open.spotify.com/album/0FDIQRrWsQ8euHDTAYQiIZ"
       },
       "artists": [
         {
-          "name": "Sonny Stitt",
-          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
+          "name": "Johnny Hodges",
+          "url": "https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5"
         }
       ],
-      "duration_ms": 381346,
-      "name": "Lester Leaps In",
-      "url": "https://open.spotify.com/track/6xtHD6E7iIyRCopIsTzW0U"
+      "duration_ms": 217293,
+      "name": "Autumn In New York",
+      "url": "https://open.spotify.com/track/2rguP2Zy8ohN8tYWwcbr0l"
+    },
+    {
+      "added_at": "2022-09-16 09:35:09",
+      "album": {
+        "name": "Giant Steps (Mono)",
+        "url": "https://open.spotify.com/album/7MBQWjukLxXZYvQ8vzEH7t"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 145115,
+      "name": "Countdown - Mono",
+      "url": "https://open.spotify.com/track/0V2dEdN7vtaoIiR4MKY2vR"
     },
     {
       "added_at": "2022-09-16 09:35:09",
@@ -867,38 +899,6 @@
       "duration_ms": 412613,
       "name": "As This Moment Slips Away",
       "url": "https://open.spotify.com/track/5CcAkJMkqpx7vwyYq1CQQd"
-    },
-    {
-      "added_at": "2022-09-16 09:35:09",
-      "album": {
-        "name": "Everybody Knows",
-        "url": "https://open.spotify.com/album/6kKpF48UR3DWYHLwbfvZ3C"
-      },
-      "artists": [
-        {
-          "name": "Johnny Hodges",
-          "url": "https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5"
-        }
-      ],
-      "duration_ms": 184280,
-      "name": "A Flower Is A Lovesome Thing",
-      "url": "https://open.spotify.com/track/3dblN4E9Dy4cum70D0Fy2L"
-    },
-    {
-      "added_at": "2022-09-16 09:35:09",
-      "album": {
-        "name": "Giant Steps (Mono)",
-        "url": "https://open.spotify.com/album/7MBQWjukLxXZYvQ8vzEH7t"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 145115,
-      "name": "Countdown - Mono",
-      "url": "https://open.spotify.com/track/0V2dEdN7vtaoIiR4MKY2vR"
     },
     {
       "added_at": "2022-09-16 09:35:09",
@@ -935,6 +935,22 @@
     {
       "added_at": "2022-09-16 09:35:09",
       "album": {
+        "name": "Go! (The Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/5nEJj9bjoarnzlS88NiWet"
+      },
+      "artists": [
+        {
+          "name": "Dexter Gordon",
+          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+        }
+      ],
+      "duration_ms": 393746,
+      "name": "Cheese Cake - Remastered 1999/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/367kqaJ8aCvK2wUCEE7oGb"
+    },
+    {
+      "added_at": "2022-09-16 09:35:09",
+      "album": {
         "name": "Stan Getz & Bill Evans",
         "url": "https://open.spotify.com/album/5hDoJAJdkIETlQajUu71hQ"
       },
@@ -955,22 +971,6 @@
     {
       "added_at": "2022-09-16 09:35:09",
       "album": {
-        "name": "Go! (The Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/5nEJj9bjoarnzlS88NiWet"
-      },
-      "artists": [
-        {
-          "name": "Dexter Gordon",
-          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
-        }
-      ],
-      "duration_ms": 393746,
-      "name": "Cheese Cake - Remastered 1999/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/367kqaJ8aCvK2wUCEE7oGb"
-    },
-    {
-      "added_at": "2022-09-16 09:35:09",
-      "album": {
         "name": "Africa",
         "url": "https://open.spotify.com/album/7qifK1maQJzbDDLjjiHSIu"
       },
@@ -983,6 +983,22 @@
       "duration_ms": 606160,
       "name": "You've Got to Have Freedom",
       "url": "https://open.spotify.com/track/1sxRufRKMer2iOqxUkdhN4"
+    },
+    {
+      "added_at": "2022-09-16 09:35:09",
+      "album": {
+        "name": "Everybody Knows",
+        "url": "https://open.spotify.com/album/6kKpF48UR3DWYHLwbfvZ3C"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hodges",
+          "url": "https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5"
+        }
+      ],
+      "duration_ms": 184280,
+      "name": "A Flower Is A Lovesome Thing",
+      "url": "https://open.spotify.com/track/3dblN4E9Dy4cum70D0Fy2L"
     },
     {
       "added_at": "2022-09-16 09:35:09",
@@ -1047,22 +1063,6 @@
     {
       "added_at": "2022-09-16 09:35:09",
       "album": {
-        "name": "Used To Be Duke",
-        "url": "https://open.spotify.com/album/0FDIQRrWsQ8euHDTAYQiIZ"
-      },
-      "artists": [
-        {
-          "name": "Johnny Hodges",
-          "url": "https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5"
-        }
-      ],
-      "duration_ms": 217293,
-      "name": "Autumn In New York",
-      "url": "https://open.spotify.com/track/2rguP2Zy8ohN8tYWwcbr0l"
-    },
-    {
-      "added_at": "2022-09-16 09:35:09",
-      "album": {
         "name": "Art Pepper + Eleven: Modern Jazz Classics",
         "url": "https://open.spotify.com/album/3eFjOkJT3CopSAGmfFIqaJ"
       },
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2022-09-16 09:35:09",
       "album": {
-        "name": "The Blues And The Abstract Truth",
-        "url": "https://open.spotify.com/album/6lxRA8Rl9a9XoZDCVWBzBY"
-      },
-      "artists": [
-        {
-          "name": "Oliver Nelson",
-          "url": "https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN"
-        }
-      ],
-      "duration_ms": 383400,
-      "name": "Yearnin'",
-      "url": "https://open.spotify.com/track/4L102q3UPh5dyJDUeuPVjY"
-    },
-    {
-      "added_at": "2022-09-16 09:35:09",
-      "album": {
         "name": "Wrapped Tight",
         "url": "https://open.spotify.com/album/1UZ00S0S5XACLjQn2caq8e"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 208906,
       "name": "Wrapped Tight",
       "url": "https://open.spotify.com/track/7a1kkDDdNdTDSUM7Y96CLM"
+    },
+    {
+      "added_at": "2022-09-16 09:35:09",
+      "album": {
+        "name": "The Blues And The Abstract Truth",
+        "url": "https://open.spotify.com/album/6lxRA8Rl9a9XoZDCVWBzBY"
+      },
+      "artists": [
+        {
+          "name": "Oliver Nelson",
+          "url": "https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN"
+        }
+      ],
+      "duration_ms": 383400,
+      "name": "Yearnin'",
+      "url": "https://open.spotify.com/track/4L102q3UPh5dyJDUeuPVjY"
     },
     {
       "added_at": "2022-09-16 09:35:09",
@@ -1919,22 +1919,6 @@
     {
       "added_at": "2022-09-16 09:35:09",
       "album": {
-        "name": "Byablue",
-        "url": "https://open.spotify.com/album/7BVDdIIHvAleYqTVobRLjr"
-      },
-      "artists": [
-        {
-          "name": "Keith Jarrett",
-          "url": "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
-        }
-      ],
-      "duration_ms": 439280,
-      "name": "Byablue",
-      "url": "https://open.spotify.com/track/4MhGJyGOmgURHEJBatYzMz"
-    },
-    {
-      "added_at": "2022-09-16 09:35:09",
-      "album": {
         "name": "Rollin' With Leo (Remastered)",
         "url": "https://open.spotify.com/album/4iuVTKizRNoo1GqETTVHRH"
       },
@@ -1947,6 +1931,22 @@
       "duration_ms": 270960,
       "name": "Jumpin' Leo - Remastered",
       "url": "https://open.spotify.com/track/5462btNze0TxTyqiwCfHpg"
+    },
+    {
+      "added_at": "2022-09-16 09:35:09",
+      "album": {
+        "name": "Byablue",
+        "url": "https://open.spotify.com/album/7BVDdIIHvAleYqTVobRLjr"
+      },
+      "artists": [
+        {
+          "name": "Keith Jarrett",
+          "url": "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
+        }
+      ],
+      "duration_ms": 439280,
+      "name": "Byablue",
+      "url": "https://open.spotify.com/track/4MhGJyGOmgURHEJBatYzMz"
     },
     {
       "added_at": "2022-09-16 09:35:09",
@@ -2015,18 +2015,18 @@
     {
       "added_at": "2022-09-16 09:35:09",
       "album": {
-        "name": "Tetragon",
-        "url": "https://open.spotify.com/album/06cAiKXhst8u5voEhCRJNA"
+        "name": "Stitt Plays Bird (Remastered Version)",
+        "url": "https://open.spotify.com/album/1MXypNppCEPqKRxDhGbVxh"
       },
       "artists": [
         {
-          "name": "Joe Henderson",
-          "url": "https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt"
+          "name": "Sonny Stitt",
+          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
         }
       ],
-      "duration_ms": 336333,
-      "name": "R.J.",
-      "url": "https://open.spotify.com/track/3FItXB8TBtUCyY9hS9UtdX"
+      "duration_ms": 289360,
+      "name": "Yardbird Suite - Remastered Version",
+      "url": "https://open.spotify.com/track/2SZHj5NJS1n5LHy7Zhd211"
     },
     {
       "added_at": "2022-09-16 09:35:09",
@@ -2047,34 +2047,18 @@
     {
       "added_at": "2022-09-16 09:35:09",
       "album": {
-        "name": "Stitt Plays Bird (Remastered Version)",
-        "url": "https://open.spotify.com/album/1MXypNppCEPqKRxDhGbVxh"
+        "name": "Tetragon",
+        "url": "https://open.spotify.com/album/06cAiKXhst8u5voEhCRJNA"
       },
       "artists": [
         {
-          "name": "Sonny Stitt",
-          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
+          "name": "Joe Henderson",
+          "url": "https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt"
         }
       ],
-      "duration_ms": 289360,
-      "name": "Yardbird Suite - Remastered Version",
-      "url": "https://open.spotify.com/track/2SZHj5NJS1n5LHy7Zhd211"
-    },
-    {
-      "added_at": "2022-09-16 09:35:09",
-      "album": {
-        "name": "Spiritual Unity 50th Anniversary Expanded Edition",
-        "url": "https://open.spotify.com/album/0X7WwByQT7NxJNhb8iHJ3K"
-      },
-      "artists": [
-        {
-          "name": "Albert Ayler",
-          "url": "https://open.spotify.com/artist/2wn2nqzITvJ1vcMRO8Wzv6"
-        }
-      ],
-      "duration_ms": 442826,
-      "name": "The Wizard",
-      "url": "https://open.spotify.com/track/4z6XwySH5fqkFUnE0D62HI"
+      "duration_ms": 336333,
+      "name": "R.J.",
+      "url": "https://open.spotify.com/track/3FItXB8TBtUCyY9hS9UtdX"
     },
     {
       "added_at": "2022-09-16 09:35:09",
@@ -2095,18 +2079,18 @@
     {
       "added_at": "2022-09-16 09:35:09",
       "album": {
-        "name": "Tenor Madness",
-        "url": "https://open.spotify.com/album/5qczcj3TPA0gqcsCUTbL7Q"
+        "name": "Spiritual Unity 50th Anniversary Expanded Edition",
+        "url": "https://open.spotify.com/album/0X7WwByQT7NxJNhb8iHJ3K"
       },
       "artists": [
         {
-          "name": "Sonny Rollins Quartet",
-          "url": "https://open.spotify.com/artist/2mlKlEmxOO3vb6DqopDh4H"
+          "name": "Albert Ayler",
+          "url": "https://open.spotify.com/artist/2wn2nqzITvJ1vcMRO8Wzv6"
         }
       ],
-      "duration_ms": 370693,
-      "name": "When Your Lover Has Gone",
-      "url": "https://open.spotify.com/track/3TdCZEoDwRP7UwcsHyzyjU"
+      "duration_ms": 442826,
+      "name": "The Wizard",
+      "url": "https://open.spotify.com/track/4z6XwySH5fqkFUnE0D62HI"
     },
     {
       "added_at": "2022-09-16 09:35:09",
@@ -2123,6 +2107,22 @@
       "duration_ms": 497906,
       "name": "Vertigo - Remastered",
       "url": "https://open.spotify.com/track/5Neu3ciZMMYhpoe3YxxZMi"
+    },
+    {
+      "added_at": "2022-09-16 09:35:09",
+      "album": {
+        "name": "Tenor Madness",
+        "url": "https://open.spotify.com/album/5qczcj3TPA0gqcsCUTbL7Q"
+      },
+      "artists": [
+        {
+          "name": "Sonny Rollins Quartet",
+          "url": "https://open.spotify.com/artist/2mlKlEmxOO3vb6DqopDh4H"
+        }
+      ],
+      "duration_ms": 370693,
+      "name": "When Your Lover Has Gone",
+      "url": "https://open.spotify.com/track/3TdCZEoDwRP7UwcsHyzyjU"
     },
     {
       "added_at": "2022-09-16 09:35:09",
@@ -2395,18 +2395,26 @@
     {
       "added_at": "2022-09-16 09:35:09",
       "album": {
-        "name": "Lenox Avenue Breakdown",
-        "url": "https://open.spotify.com/album/0TjCtBbEIcqcRajdG0oro7"
+        "name": "Where Are You?",
+        "url": "https://open.spotify.com/album/5UIu8Ra41XV49VoscOnMjT"
       },
       "artists": [
         {
-          "name": "Arthur Blythe",
-          "url": "https://open.spotify.com/artist/2vCGDtmVCSZoGIarYvJK33"
+          "name": "Mark Turner",
+          "url": "https://open.spotify.com/artist/36kfddkWcVc6XrzNN9BsTP"
+        },
+        {
+          "name": "Kevin Hays",
+          "url": "https://open.spotify.com/artist/2uOemiMYq8Lh6yzwELpb3J"
+        },
+        {
+          "name": "Marc Miralta",
+          "url": "https://open.spotify.com/artist/5k9fBcpEq6FWQH87BSLIpy"
         }
       ],
-      "duration_ms": 578880,
-      "name": "Slidin' Through",
-      "url": "https://open.spotify.com/track/4VgZG06JbEJG6CUU2ZxlKU"
+      "duration_ms": 315520,
+      "name": "Nigeria",
+      "url": "https://open.spotify.com/track/0p9mkM9GtASH9tF73Qo5H3"
     },
     {
       "added_at": "2022-09-16 09:35:09",
@@ -2443,26 +2451,18 @@
     {
       "added_at": "2022-09-16 09:35:09",
       "album": {
-        "name": "Where Are You?",
-        "url": "https://open.spotify.com/album/5UIu8Ra41XV49VoscOnMjT"
+        "name": "Lenox Avenue Breakdown",
+        "url": "https://open.spotify.com/album/0TjCtBbEIcqcRajdG0oro7"
       },
       "artists": [
         {
-          "name": "Mark Turner",
-          "url": "https://open.spotify.com/artist/36kfddkWcVc6XrzNN9BsTP"
-        },
-        {
-          "name": "Kevin Hays",
-          "url": "https://open.spotify.com/artist/2uOemiMYq8Lh6yzwELpb3J"
-        },
-        {
-          "name": "Marc Miralta",
-          "url": "https://open.spotify.com/artist/5k9fBcpEq6FWQH87BSLIpy"
+          "name": "Arthur Blythe",
+          "url": "https://open.spotify.com/artist/2vCGDtmVCSZoGIarYvJK33"
         }
       ],
-      "duration_ms": 315520,
-      "name": "Nigeria",
-      "url": "https://open.spotify.com/track/0p9mkM9GtASH9tF73Qo5H3"
+      "duration_ms": 578880,
+      "name": "Slidin' Through",
+      "url": "https://open.spotify.com/track/4VgZG06JbEJG6CUU2ZxlKU"
     },
     {
       "added_at": "2022-09-16 09:35:09",
@@ -2547,22 +2547,6 @@
     {
       "added_at": "2022-09-16 09:35:09",
       "album": {
-        "name": "Back East",
-        "url": "https://open.spotify.com/album/3fNLmm3yOGCQYr2M8Tc5UE"
-      },
-      "artists": [
-        {
-          "name": "Joshua Redman",
-          "url": "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
-        }
-      ],
-      "duration_ms": 400853,
-      "name": "Back East",
-      "url": "https://open.spotify.com/track/5BxatdeERzU9irLOFkkHG5"
-    },
-    {
-      "added_at": "2022-09-16 09:35:09",
-      "album": {
         "name": "Contemporary Jazz",
         "url": "https://open.spotify.com/album/3NiRWYhEKaA3Keiqw8A9SJ"
       },
@@ -2575,6 +2559,22 @@
       "duration_ms": 962320,
       "name": "Elysium",
       "url": "https://open.spotify.com/track/0ypNrOIuiIpusrTVLdtRPc"
+    },
+    {
+      "added_at": "2022-09-16 09:35:09",
+      "album": {
+        "name": "Back East",
+        "url": "https://open.spotify.com/album/3fNLmm3yOGCQYr2M8Tc5UE"
+      },
+      "artists": [
+        {
+          "name": "Joshua Redman",
+          "url": "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
+        }
+      ],
+      "duration_ms": 400853,
+      "name": "Back East",
+      "url": "https://open.spotify.com/track/5BxatdeERzU9irLOFkkHG5"
     }
   ],
   "unique_name": "Saxophone Classics",

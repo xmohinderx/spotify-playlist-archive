@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3jWba5xiDhV.md) - [plain]
 
 > When the dance floor calls your name, that's amore.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,854 likes - 75 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,955 likes - 75 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,9 +61,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3jWba5xiDhV.md) - [plain]
 | 51 | [Wojtila 5\. Disco Dance](https://open.spotify.com/track/3VzAUp9l8EnSyFml7qcfGX) | [Freddy The Flying Dutchman](https://open.spotify.com/artist/1Drn479MaleSdzEHRlS8pb), [The Sistina Band](https://open.spotify.com/artist/4npk6Y0jtPoRiqNg3n2LDL) | [Italo Disco \- Essential Italian Disco Classics 1977\-1985](https://open.spotify.com/album/3ppNURvPDfACGhKHa3EAnA) | 4:26 |
 | 52 | [Feels Right \- Gerd Janson Remix \- Radio Edit](https://open.spotify.com/track/0x7IgG3pJHBUoULcsaPFpr) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7), [Gerd Janson](https://open.spotify.com/artist/4jLpm91Tyk2TRgv43bMfZO) | [Polydans Remixes](https://open.spotify.com/album/277wPb0R66H8K90bJMksyG) | 3:59 |
 | 53 | [Balla Ba](https://open.spotify.com/track/2DKZPAMk7EGSTjuInmNvZs) | [Franco Califano](https://open.spotify.com/artist/1Bkzb6WJ348VTlTrnJuqIz) | [Tac..!](https://open.spotify.com/album/6lIILYU3br7OMkgz8k9zMT) | 3:56 |
-| 54 | [Hey Hey Guy \(7" Vocal Version\)](https://open.spotify.com/track/3oLn7p6CF8JvUDPz59t2WF) | [Ken Laszlo](https://open.spotify.com/artist/00OX175uYCsHJPLZOjNJqe) | [Greatest Hits & Remixes](https://open.spotify.com/album/1XsOXWsClvtWMxOnQ5gJ22) | 3:26 |
-| 55 | [Volpi Polari](https://open.spotify.com/track/4RVhp9KUMiu9OwvHk5g3bf) | [Skatebård](https://open.spotify.com/artist/54CS7wTXpIfstKRMkHHM9Q), [Lauer](https://open.spotify.com/artist/36rey1TxHa81Az8CqZpsJ4) | [Volpe](https://open.spotify.com/album/3KMTbb5X36oxIslKZMtcCQ) | 7:47 |
-| 56 | [Summer Time](https://open.spotify.com/track/62WcZBFubVa0rPqHwvFZ6K) | [Plastic Mode](https://open.spotify.com/artist/22bwmgMrfLg3IMcPs7vNMa) | [Plastic Mode](https://open.spotify.com/album/5ParFAecXuBEXXZOjtxOHx) | 3:55 |
+| 54 | [Summer Time](https://open.spotify.com/track/62WcZBFubVa0rPqHwvFZ6K) | [Plastic Mode](https://open.spotify.com/artist/22bwmgMrfLg3IMcPs7vNMa) | [Plastic Mode](https://open.spotify.com/album/5ParFAecXuBEXXZOjtxOHx) | 3:55 |
+| 55 | [Hey Hey Guy \(7" Vocal Version\)](https://open.spotify.com/track/3oLn7p6CF8JvUDPz59t2WF) | [Ken Laszlo](https://open.spotify.com/artist/00OX175uYCsHJPLZOjNJqe) | [Greatest Hits & Remixes](https://open.spotify.com/album/1XsOXWsClvtWMxOnQ5gJ22) | 3:26 |
+| 56 | [Volpi Polari](https://open.spotify.com/track/4RVhp9KUMiu9OwvHk5g3bf) | [Skatebård](https://open.spotify.com/artist/54CS7wTXpIfstKRMkHHM9Q), [Lauer](https://open.spotify.com/artist/36rey1TxHa81Az8CqZpsJ4) | [Volpe](https://open.spotify.com/album/3KMTbb5X36oxIslKZMtcCQ) | 7:47 |
 | 57 | [Dirty Talk](https://open.spotify.com/track/4CMKgb0qrIsVu202dmop15) | [Klein & M.B.O.](https://open.spotify.com/artist/5MZdKmi0C80e3eu53Vzr6f) | [Dirty Talk](https://open.spotify.com/album/5z5xqfOezhRYRFhGvcj8TP) | 5:35 |
 | 58 | [Hildegard](https://open.spotify.com/track/57wQqbZdJQL3qgDc9aql3e) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu) | [Hildegard](https://open.spotify.com/album/0yQoPb6j25V0z7roi0wUIG) | 4:41 |
 | 59 | [Phazerdelique \- Extended Mix](https://open.spotify.com/track/3fivmNylnmo2imkmqq5XZZ) | [Kim And Buran](https://open.spotify.com/artist/23v4YNVYYEVYddfapeJiR8) | [Phazerdelique](https://open.spotify.com/album/7xQWj1vHChxRS6j1IjzfUO) | 7:28 |
@@ -77,11 +77,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3jWba5xiDhV.md) - [plain]
 | 67 | [Il Veliero \- Single Version](https://open.spotify.com/track/26u2CgXp9Qr0MtcEBWi2gv) | [The Chaplin Band](https://open.spotify.com/artist/0Na3lGtrQVJlRaQEnQD5P2) | [Dancing on Townsquare](https://open.spotify.com/album/6gAB9n1Aa5DzJTuoeeBl7c) | 3:30 |
 | 68 | [The Night \- Original Remastered Version 2020](https://open.spotify.com/track/4IKfk28YxL7xHOflgt3tr4) | [Valerie Dore](https://open.spotify.com/artist/6IwjxNTPn0EMh4U855D3qs) | [The Night \(Original Remastered Version 2020\)](https://open.spotify.com/album/1Pf3wvHZSx6L3PTjEQNsZc) | 6:16 |
 | 69 | [Body to Body](https://open.spotify.com/track/75nh9TRQMQubdiK82BYdwL) | [Gepy & Gepy](https://open.spotify.com/artist/09FocFgY6iQKkQB91QPK5o) | [Italian Dance](https://open.spotify.com/album/64cl4El2FwAO60rDuUxg33) | 3:12 |
-| 70 | [Kalimba de luna](https://open.spotify.com/track/1GhgNF88EQEhpGpBApiZfc) | [Tony Esposito](https://open.spotify.com/artist/2E236rsxSkaqZfJpv57gYF) | [The Sound of Tony Esposito](https://open.spotify.com/album/3xaaztf2ZXiBbjETpSTEQC) | 5:13 |
-| 71 | [Mirage](https://open.spotify.com/track/0M2A5PBGMk0x0M2lrCZGsO) | [Scotch](https://open.spotify.com/artist/7ECGnAVeg7U3WRPMjpJa9n) | [Pictures Old Days \(Deluxe Edition\)](https://open.spotify.com/album/0jkXKoPmkFNE1mmRfvVpMt) | 3:57 |
+| 70 | [Mirage](https://open.spotify.com/track/0M2A5PBGMk0x0M2lrCZGsO) | [Scotch](https://open.spotify.com/artist/7ECGnAVeg7U3WRPMjpJa9n) | [Pictures Old Days \(Deluxe Edition\)](https://open.spotify.com/album/0jkXKoPmkFNE1mmRfvVpMt) | 3:57 |
+| 71 | [Kalimba de luna](https://open.spotify.com/track/1GhgNF88EQEhpGpBApiZfc) | [Tony Esposito](https://open.spotify.com/artist/2E236rsxSkaqZfJpv57gYF) | [The Sound of Tony Esposito](https://open.spotify.com/album/3xaaztf2ZXiBbjETpSTEQC) | 5:13 |
 | 72 | [Baila Bolero \- Marc Hartman Remix](https://open.spotify.com/track/35FPjkNAkXdp8cXgh6gBfH) | [Fun Fun](https://open.spotify.com/artist/44NpcgfV0tBVBVNzmtUBhZ), [Marc Hartman](https://open.spotify.com/artist/2ACJgAEcjpSAqR2TyGluyS) | [Baila Bolero \(Marc Hartman Remix\)](https://open.spotify.com/album/0xC161DAv1bnh3s2zYTFo4) | 5:00 |
 | 73 | [Baby I Love You](https://open.spotify.com/track/0GpbUTVkLhMb200mH8WBOW) | [Easy Going](https://open.spotify.com/artist/3t1n3uomLdEAVdSc5WkVf1) | [Baby I Love You \(Original\) \- Single](https://open.spotify.com/album/7LZpZKT1adV23tV8AJe44U) | 8:23 |
 | 74 | [Jamin'](https://open.spotify.com/track/74nFLqYUx40Y2v0ZtFQHI8) | [Babys Gang](https://open.spotify.com/artist/3py6y6epZngSnsCHnCwQ7O) | [Challenger](https://open.spotify.com/album/6EnJDtzIBJPRrlk0bn4QT1) | 5:57 |
 | 75 | [Orient Express \- Vocal](https://open.spotify.com/track/75Qt3OvjyUmOtEO3TpX7qV) | [Wish Key](https://open.spotify.com/artist/2FVL8TfGpXyDdKYOU7NVCl) | [Orient Express](https://open.spotify.com/album/0fz94X7NiOSSzopMiynnVv) | 7:08 |
 
-Snapshot ID: `MTY2MjY3NDQ2MCwwMDAwMDAwMGQwYjUwMGUwODliNmUwZDNiMWQ1MWU2MjQ5NzRmNWQz`
+Snapshot ID: `MTY2MjY3NDQ2MCwwMDAwMDAwMDg4ODBjMGExYTVlNTc3YjdkOGY0ZjY0YTA2MGJiNjcy`

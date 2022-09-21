@@ -4,7 +4,7 @@
 
 > Inizia la giornata con la tua dose di caffè e carica musicale!
 
-148 songs - 7 hr 50 min - [published](https://open.spotify.com/playlist/7C2UJmFUbC0XzdnPAkeOBo)
+149 songs - 7 hr 53 min - [published](https://open.spotify.com/playlist/7C2UJmFUbC0XzdnPAkeOBo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Dynamite](https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr) | 3:19 | 2022-07-14 |  |
 | [Dynamite](https://open.spotify.com/track/0fQfJFfngYfG26560HLMLN) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Dynamite](https://open.spotify.com/album/50olq3HtK70p3MOSB9hNj8) | 3:32 | 2022-05-06 |  |
 | [Electric \- Pokemon 25 Version](https://open.spotify.com/track/63eV5hreY9feQP2CmYavpj) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Electric](https://open.spotify.com/album/2kjyPzcMPYUZlB9CJzu10f) | 3:13 | 2022-05-19 | 2022-05-21 |
-| [farfalle](https://open.spotify.com/track/5HujDMiRNqZwEzVAh3oFD3) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP) | [farfalle](https://open.spotify.com/album/1WCDSnckeIERycPR36vEiZ) | 2:44 | 2022-05-06 |  |
+| [farfalle](https://open.spotify.com/track/5HujDMiRNqZwEzVAh3oFD3) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP) | [farfalle](https://open.spotify.com/album/1WCDSnckeIERycPR36vEiZ) | 2:44 | 2022-05-06 | 2022-09-21 |
 | [Fever](https://open.spotify.com/track/3wJVBz7gvGTwTWVAxFa6ny) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Fever](https://open.spotify.com/album/35c9iadFgrCWLY0tuJH23H) | 2:36 | 2022-05-06 |  |
 | [Fireworks](https://open.spotify.com/track/3JhTqa080FiJORsvJ2elUy) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Moss Kena](https://open.spotify.com/artist/2u6jNcpusijFS6ZzuWRwMv), [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC) | [Fireworks](https://open.spotify.com/album/5uWGd67YMRUeSMhGkRb2rT) | 3:20 | 2022-05-06 | 2022-07-29 |
 | [Floating Through Space](https://open.spotify.com/track/2AceGjiX9isUbXmMZa0Dl1) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Floating Through Space](https://open.spotify.com/album/0BE9HxEf6RRDyni3SSvM6t) | 2:57 | 2022-05-06 | 2022-07-29 |
@@ -121,6 +121,7 @@
 | [Shivers](https://open.spotify.com/track/75MNhvTCCKsST3YqqUiU9r) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Shivers](https://open.spotify.com/album/531c37GGv5IvddCvBv3sWT) | 3:27 | 2022-05-06 |  |
 | [Skate](https://open.spotify.com/track/7jvCeWOSnJs2N3spqobWnO) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [An Evening With Silk Sonic](https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk) | 3:23 | 2022-07-14 |  |
 | [Slidin' \(feat\. Kodak Black\)](https://open.spotify.com/track/173ff06by7Ujur3An4cHWf) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Slidin' \(feat\. Kodak Black\)](https://open.spotify.com/album/7mi906Ss21stvJEPrTz1ZT) | 2:36 | 2022-07-14 | 2022-08-30 |
+| [Some Say](https://open.spotify.com/track/4poybupy26pTWPr9zY1i7h) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [Some Say](https://open.spotify.com/album/5pCAWYym13GcQN8CXEb89m) | 2:55 | 2022-09-19 |  |
 | [Someday](https://open.spotify.com/track/6aDsgHPZsMztSbZernzlF8) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Human \(Deluxe\)](https://open.spotify.com/album/0SrskI3mHcu5MzKeZNv2f6) | 3:07 | 2022-05-06 |  |
 | [STAY \(with Justin Bieber\)](https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [STAY \(with Justin Bieber\)](https://open.spotify.com/album/4QLAtpLNUsHEYrcHXmMIZZ) | 2:21 | 2022-05-19 |  |
 | [Sunshine](https://open.spotify.com/track/5r43qanLhUCdBj8HN3fa6B) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Sunshine](https://open.spotify.com/album/2YSlIS6gM38w7ZJNj8F3s6) | 2:43 | 2022-05-06 |  |

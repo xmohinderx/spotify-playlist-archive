@@ -4,7 +4,7 @@
 
 > Some of the worlds most beautiful love songs.
 
-334 songs - 22 hr 51 min - [published](https://open.spotify.com/playlist/04ydEG3A6bW8Wea1ObmNiD)
+335 songs - 22 hr 54 min - [published](https://open.spotify.com/playlist/04ydEG3A6bW8Wea1ObmNiD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,7 @@
 | [Hello](https://open.spotify.com/track/6HMvJcdw6qLsyV1b5x29sa) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Can't Slow Down](https://open.spotify.com/album/5U0NU0T1JKIJwgq2ZDWb2T) | 4:06 | 2021-02-01 | 2022-07-29 |
 | [Here, There And Everywhere \- Remastered](https://open.spotify.com/track/1dCGa0fzXpCWvQbpuoe28D) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Revolver \(Remastered\)](https://open.spotify.com/album/0PYyrqs9NXtxPhf0CZkq2L) | 2:24 | 2021-10-16\* | 2021-11-19 |
 | [Hero](https://open.spotify.com/track/3Y8WRvVlQHMvtBwaV4TGlJ) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Escape](https://open.spotify.com/album/0zktx87Zil6xHw7OWtXwIz) | 4:24 | 2021-02-01 | 2022-07-29 |
-| [Hero](https://open.spotify.com/track/24Gxm7Eh7tO83E26LG0CsY) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Escape](https://open.spotify.com/album/6whfi6LNFoQnkvrQAWwZix) | 4:24 | 2022-05-30 |  |
+| [Hero](https://open.spotify.com/track/24Gxm7Eh7tO83E26LG0CsY) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Escape](https://open.spotify.com/album/6whfi6LNFoQnkvrQAWwZix) | 4:24 | 2022-05-30 | 2022-09-21 |
 | [Hero](https://open.spotify.com/track/6RsaKVzeIKiWXy1ULke2uN) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Music Box/Rainbow](https://open.spotify.com/album/7iouHRwXjAGwd5H1G4Ca2E) | 4:17 | 2021-02-01 | 2022-07-29 |
 | [Hero](https://open.spotify.com/track/4FCb4CUbFCMNRkI6lYc1zI) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Music Box](https://open.spotify.com/album/2NKxb7pk04CuZab5udkGUl) | 4:17 | 2022-05-30 |  |
 | [Hold On To The Nights](https://open.spotify.com/track/3F2YXxSOC9dPmxXdrh6mYl) | [Richard Marx](https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6) | [Richard Marx](https://open.spotify.com/album/3C2cO3wo4f2bLzOpFypgmZ) | 5:16 | 2021-10-16\* | 2021-11-19 |
@@ -255,6 +255,7 @@
 | [She Will Be Loved \- Radio Mix](https://open.spotify.com/track/4llK75pXNWZz6KAho2Gp16) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Songs About Jane: 10th Anniversary Edition](https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc) | 4:19 | 2022-05-30 |  |
 | [She's The One](https://open.spotify.com/track/4lO57zZGFcj7vSY4QhfVDq) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [I've Been Expecting You](https://open.spotify.com/album/4sgNyq4LbcoRnNhte25GPs) | 4:18 | 2021-02-01 |  |
 | [Show Me Heaven \- From "Days Of Thunder" Soundtrack](https://open.spotify.com/track/0smsQNRjaMKjacESbRb3wZ) | [Maria McKee](https://open.spotify.com/artist/30GIF9g2UJ1ifn45kSMTFf) | [Drivetime](https://open.spotify.com/album/3GO384bB5SvHoaqnA5y5NZ) | 3:42 | 2021-02-01 | 2022-07-29 |
+| [Smiling All The Way Back Home](https://open.spotify.com/track/3jeYMY8wyibEfP8gsQ3TAS) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Smiling All The Way Back Home](https://open.spotify.com/album/4MhanVyOKDTIQs8ZhQqNe8) | 3:02 | 2022-09-08 |  |
 | [Someone Like You](https://open.spotify.com/track/19RKuCdPh68WknFtjG9BJN) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21' Sampler](https://open.spotify.com/album/74fjslPVQH60ns7vRlv3tW) | 4:45 | 2021-02-01 | 2022-07-29 |
 | [Someone Like You](https://open.spotify.com/track/1zwMYTA5nlNjZxYrvBB2pV) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL) | 4:45 | 2022-05-30 |  |
 | [Someone You Loved](https://open.spotify.com/track/2TIlqbIneP0ZY1O0EzYLlc) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Breach](https://open.spotify.com/album/0NVQ9k3wKmuK6T02lLMl6y) | 3:02 | 2021-02-01 |  |

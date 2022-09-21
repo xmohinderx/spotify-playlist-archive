@@ -4,7 +4,7 @@
 
 > This is Alkaline Trio\. The essential tracks, all in one playlist.
 
-54 songs - 2 hr 55 min - [published](https://open.spotify.com/playlist/0M3l3QL7fIK8hUWMTReSqT)
+55 songs - 2 hr 58 min - [published](https://open.spotify.com/playlist/0M3l3QL7fIK8hUWMTReSqT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Blue in the Face](https://open.spotify.com/track/6eo0pGSL1WVhZQjUfqix5M) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Good Mourning](https://open.spotify.com/album/6hj7cv9c4x3OteLDKdGL0l) | 3:02 | 2022-09-16 |  |
 | [Burn](https://open.spotify.com/track/2oOrzZmHfAhYBPsAFg079R) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Crimson](https://open.spotify.com/album/1nbbNU8TtGkPtYlLpmP1ZY) | 4:05 | 2022-09-16 |  |
 | [Calling All Skeletons](https://open.spotify.com/track/4uicyqoy9VwvWzxu5nbyDc) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Agony & Irony](https://open.spotify.com/album/2kmTbt2NyJsx4x0GnZ4uBH) | 3:18 | 2022-09-16 |  |
-| [Crawl](https://open.spotify.com/track/3VsFBlBhHKN9TpsvRjH8c7) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [From Here to Infirmary](https://open.spotify.com/album/74FavWuKZGG8tp3jpMVzN4) | 4:25 | 2022-09-18 | 2022-09-20 |
+| [Crawl](https://open.spotify.com/track/3VsFBlBhHKN9TpsvRjH8c7) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [From Here to Infirmary](https://open.spotify.com/album/74FavWuKZGG8tp3jpMVzN4) | 4:25 | 2022-09-18 |  |
 | [Cringe](https://open.spotify.com/track/0rp47ZE0Ej8bc7KbgvoQRG) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Goddamnit!](https://open.spotify.com/album/7MtJrKwP2h9eJMqnooR6iM) | 2:23 | 2022-09-16 |  |
 | [Demon and Division](https://open.spotify.com/track/1z1KFCZnxDl5YsJPhJcqqB) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Is This Thing Cursed?](https://open.spotify.com/album/1qmUB0PQQDdu00WMpro2YC) | 3:16 | 2022-09-16 |  |
 | [Every Thug Needs a Lady](https://open.spotify.com/track/0bvat3eFe9HfUd1opSVXl7) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Good Mourning](https://open.spotify.com/album/6hj7cv9c4x3OteLDKdGL0l) | 3:18 | 2022-09-16 |  |
@@ -23,17 +23,18 @@
 | [Fatally Yours](https://open.spotify.com/track/5ZQvdpuEbWiKQVWn8tsJ94) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Good Mourning](https://open.spotify.com/album/6hj7cv9c4x3OteLDKdGL0l) | 2:16 | 2022-09-16 |  |
 | [Fuck You Aurora](https://open.spotify.com/track/5a9yyZE83UskiAlIsQR7Lz) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Maybe I'll Catch Fire](https://open.spotify.com/album/1geOrMhJFz0gonGQ8A5e8m) | 4:49 | 2022-09-16 |  |
 | [Goodbye Fire Island](https://open.spotify.com/track/11b8iIU8p1DnkrMaVipeSp) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Is This Thing Cursed?](https://open.spotify.com/album/1qmUB0PQQDdu00WMpro2YC) | 3:31 | 2022-09-18 | 2022-09-20 |
-| [Goodbye Forever](https://open.spotify.com/track/3SPNVZvfdJBzvAqzx6szsv) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [The Alkaline Trio](https://open.spotify.com/album/5waByzUzczyEbkV55jcIke) | 2:50 | 2022-09-19 |  |
+| [Goodbye Forever](https://open.spotify.com/track/3SPNVZvfdJBzvAqzx6szsv) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [The Alkaline Trio](https://open.spotify.com/album/5waByzUzczyEbkV55jcIke) | 2:50 | 2022-09-19 | 2022-09-21 |
 | [Hell Yes](https://open.spotify.com/track/6J7SJqAZa4eFvoFCsKhsvb) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Remains](https://open.spotify.com/album/6UrR2pGs8FzRMrQZxQvI2H) | 3:49 | 2022-09-16 |  |
 | [Help Me](https://open.spotify.com/track/1Fy9hQQLek2UpOYUEPjiYn) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Agony & Irony](https://open.spotify.com/album/2kmTbt2NyJsx4x0GnZ4uBH) | 3:44 | 2022-09-16 |  |
 | [I Can't Believe](https://open.spotify.com/track/0YqdsM9x9NtKUfwqooo6iV) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Is This Thing Cursed?](https://open.spotify.com/album/1qmUB0PQQDdu00WMpro2YC) | 4:01 | 2022-09-16 |  |
 | [I Found a Way](https://open.spotify.com/track/3SW1iJWxeVKTn32gL76srO) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [I Found a Way](https://open.spotify.com/album/5Dv4BNIrxowlDyal7reMwy) | 3:45 | 2022-09-16 |  |
 | [I Wanna Be A Warhol](https://open.spotify.com/track/0YCFg0xT3mu189q1KmhjO6) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [My Shame Is True \(Deluxe Edition\)](https://open.spotify.com/album/47ooGYp4iWw3HqEYpMPMIV) | 3:07 | 2022-09-16 |  |
-| [I'm Dying Tomorrow](https://open.spotify.com/track/3KPa8afyEGV9CsBGVRiZWF) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [From Here to Infirmary](https://open.spotify.com/album/74FavWuKZGG8tp3jpMVzN4) | 2:18 | 2022-09-16 |  |
+| [I'm Dying Tomorrow](https://open.spotify.com/track/3KPa8afyEGV9CsBGVRiZWF) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [From Here to Infirmary](https://open.spotify.com/album/74FavWuKZGG8tp3jpMVzN4) | 2:18 | 2022-09-16 | 2022-09-21 |
 | [I, Pessimist](https://open.spotify.com/track/219DU5WdarWWzSssghQqPH) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [My Shame Is True \(Deluxe Edition\)](https://open.spotify.com/album/47ooGYp4iWw3HqEYpMPMIV) | 2:10 | 2022-09-16 |  |
 | [Is This Thing Cursed?](https://open.spotify.com/track/4KgLMgC9724dK12vbHkbYk) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Is This Thing Cursed?](https://open.spotify.com/album/1qmUB0PQQDdu00WMpro2YC) | 2:43 | 2022-09-16 |  |
 | [Jaked on Green Beers](https://open.spotify.com/track/0LWnqm6bl3aUqmlEeGuiry) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Remains](https://open.spotify.com/album/6UrR2pGs8FzRMrQZxQvI2H) | 3:27 | 2022-09-16 |  |
 | [Kiss You To Death](https://open.spotify.com/track/74ocpSSePJzUbfstuWISWD) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [My Shame Is True \(Deluxe Edition\)](https://open.spotify.com/album/47ooGYp4iWw3HqEYpMPMIV) | 3:21 | 2022-09-16 |  |
+| [Little Help?](https://open.spotify.com/track/2CzqIov2TzlGrM6Xn0qP7I) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Is This Thing Cursed?](https://open.spotify.com/album/1qmUB0PQQDdu00WMpro2YC) | 2:23 | 2022-09-20 |  |
 | [Love Love, Kiss Kiss](https://open.spotify.com/track/23r9kDmwhUQuBHl523d87n) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Agony & Irony](https://open.spotify.com/album/2kmTbt2NyJsx4x0GnZ4uBH) | 3:25 | 2022-09-16 |  |
 | [Maybe I'll Catch Fire](https://open.spotify.com/track/53S0JdlqoD0YJn1DVZGX4x) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Maybe I'll Catch Fire](https://open.spotify.com/album/1geOrMhJFz0gonGQ8A5e8m) | 3:07 | 2022-09-16 |  |
 | [Mercy Me](https://open.spotify.com/track/2YrB3vM3H7TcXZ0rAq4X8Y) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Crimson](https://open.spotify.com/album/1nbbNU8TtGkPtYlLpmP1ZY) | 2:49 | 2022-09-16 |  |

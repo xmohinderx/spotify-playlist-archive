@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUVpAXiEPK8P.md) - [plain]
 
 > For whatever activity you do that may need a punch of intensity!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,025,850 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,026,566 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUVpAXiEPK8P.md) - [plain]
 | 23 | [Chicago Freestyle \(feat\. Giveon\)](https://open.spotify.com/track/4wVOKKEHUJxHCFFNUWDn0B) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Dark Lane Demo Tapes](https://open.spotify.com/album/6OQ9gBfg5EXeNAEwGSs6jK) | 3:40 |
 | 24 | [For The Night \(feat\. Lil Baby & DaBaby\)](https://open.spotify.com/track/0PvFJmanyNQMseIFrU708S) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Shoot For The Stars Aim For The Moon](https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc) | 3:10 |
 | 25 | [HIGHEST IN THE ROOM](https://open.spotify.com/track/3eekarcy7kvN4yt5ZFzltW) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [HIGHEST IN THE ROOM](https://open.spotify.com/album/2uDTi1PlpSpvAv7IRAoAEU) | 2:55 |
-| 26 | [After Party](https://open.spotify.com/track/527k23H0A4Q0UJN3vGs0Da) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Heaven Or Hell](https://open.spotify.com/album/7z4GhRfLqfSkqrj5F3Yt2B) | 2:47 |
-| 27 | [ROCKSTAR \(feat\. Roddy Ricch\)](https://open.spotify.com/track/7ytR5pFWmSjzHJIeQkgog4) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [BLAME IT ON BABY](https://open.spotify.com/album/623PL2MBg50Br5dLXC9E9e) | 3:01 |
+| 26 | [ROCKSTAR \(feat\. Roddy Ricch\)](https://open.spotify.com/track/7ytR5pFWmSjzHJIeQkgog4) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [BLAME IT ON BABY](https://open.spotify.com/album/623PL2MBg50Br5dLXC9E9e) | 3:01 |
+| 27 | [After Party](https://open.spotify.com/track/527k23H0A4Q0UJN3vGs0Da) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Heaven Or Hell](https://open.spotify.com/album/7z4GhRfLqfSkqrj5F3Yt2B) | 2:47 |
 | 28 | [Martin & Gina](https://open.spotify.com/track/1VLtjHwRWOVJiE5Py7JxoQ) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [THE GOAT](https://open.spotify.com/album/39xhYyNNDatQtgKw2KdXMz) | 2:12 |
 | 29 | [Hypnotize \- 2014 Remaster](https://open.spotify.com/track/7KwZNVEaqikRSBSpyhXK2j) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Life After Death \(2014 Remastered Edition\)](https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB) | 3:49 |
 | 30 | [Way 2 Sexy \(with Future & Young Thug\)](https://open.spotify.com/track/0k1WUmIRnG3xU6fvvDVfRG) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 4:17 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUVpAXiEPK8P.md) - [plain]
 | 45 | [Lemonade \(feat\. Gunna, Don Toliver & NAV\)](https://open.spotify.com/track/7hxHWCCAIIxFLCzvDgnQHX) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [B4 The Storm](https://open.spotify.com/album/2vGU0DOcfsDee0euvhl1iZ) | 3:15 |
 | 46 | [Life Is Good \(feat\. Drake\)](https://open.spotify.com/track/5yY9lUy8nbvjM1Uyo1Uqoc) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Life Is Good \(feat\. Drake\)](https://open.spotify.com/album/5uCEoLCj3ZZZ1EtzQdQWVl) | 3:57 |
 | 47 | [WHATS POPPIN](https://open.spotify.com/track/1jaTQ3nqY3oAAYyCTbIvnM) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Sweet Action](https://open.spotify.com/album/7AaqMMiYMvnMB3RcS8u3EY) | 2:19 |
-| 48 | [Super Gremlin](https://open.spotify.com/track/4A8cWXxKfIL3lAyUDzXbCF) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Sniper Gang Presents Syko Bob & Snapkatt: Nightmare Babies](https://open.spotify.com/album/0kxA9Bc8pamypR5GYXmeti) | 3:20 |
+| 48 | [On Me](https://open.spotify.com/track/4Iedi94TIaB2GGb1nMB68v) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [On Me](https://open.spotify.com/album/25gJpQKgXxT5CrMitr0DQO) | 2:15 |
 | 49 | [EVERY CHANCE I GET \(feat\. Lil Baby & Lil Durk\)](https://open.spotify.com/track/1EJIcDYXwSqipW5dFe4uJz) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [KHALED KHALED](https://open.spotify.com/album/5kE2OAuUYGBqqzscqgBXXf) | 3:56 |
 | 50 | [F.N](https://open.spotify.com/track/0RLLvYBopDwooCyvnTwgYu) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [True 2 Myself](https://open.spotify.com/album/1bCBZ8LedqwVYOLDLrRbbY) | 3:44 |
 
-Snapshot ID: `MTY1NjA1OTQ3OSwwMDAwMDAwMGNlNTVkN2VkZDFiOTJlZWVjMDExOWM4YzY3NzVhMGQ1`
+Snapshot ID: `MTY1NjA1OTQ3OSwwMDAwMDAwMGZjYzJiOWQyNGU2NGZiOGMxYTQ5NjE0YTYyN2YzZTk1`

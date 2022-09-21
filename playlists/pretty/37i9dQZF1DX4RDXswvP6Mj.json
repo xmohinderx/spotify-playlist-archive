@@ -1,12 +1,12 @@
 {
   "description": "Let's party & clubbing with your favorite K-pop dance hits!! (Cover: mimiirose(\ubbf8\ubbf8\ub85c\uc988)) [\uc9c0\uae08 \uac00\uc7a5 \ud56b\ud55c \ub304\uc2a4\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.]",
-  "num_followers": 769246,
+  "num_followers": 769481,
   "original_name": "K-Club Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMyMDAzOSwwMDAwMDAwMGM3YTdhMjM4NjU1MWM1NjZhOWJmY2M5OTY2N2FiZGVj",
+  "snapshot_id": "MTY2MzMyMDAzOSwwMDAwMDAwMGI2NzAyNGVmMTEwOGJmNTA5MTcxOGI4ZjJjOWQ3MDBl",
   "tracks": [
     {
       "added_at": "2022-09-16 09:20:39",
@@ -563,22 +563,6 @@
     {
       "added_at": "2022-09-16 09:20:39",
       "album": {
-        "name": "THE WORLD EP.1 : MOVEMENT",
-        "url": "https://open.spotify.com/album/3fgDrbflffzvV3H3plG9e6"
-      },
-      "artists": [
-        {
-          "name": "ATEEZ",
-          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
-        }
-      ],
-      "duration_ms": 207921,
-      "name": "Guerrilla",
-      "url": "https://open.spotify.com/track/0tYZo2UhV1lrUez5CA0Iyw"
-    },
-    {
-      "added_at": "2022-09-16 09:20:39",
-      "album": {
         "name": "NOEASY",
         "url": "https://open.spotify.com/album/558tpdCejjVQNFAumRAeQj"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 183266,
       "name": "Thunderous",
       "url": "https://open.spotify.com/track/0nwTMzpatarzvLvtwwzdCt"
+    },
+    {
+      "added_at": "2022-09-16 09:20:39",
+      "album": {
+        "name": "THE WORLD EP.1 : MOVEMENT",
+        "url": "https://open.spotify.com/album/3fgDrbflffzvV3H3plG9e6"
+      },
+      "artists": [
+        {
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+        }
+      ],
+      "duration_ms": 207921,
+      "name": "Guerrilla",
+      "url": "https://open.spotify.com/track/0tYZo2UhV1lrUez5CA0Iyw"
     },
     {
       "added_at": "2022-09-16 09:20:39",
@@ -675,6 +675,22 @@
     {
       "added_at": "2022-09-16 09:20:39",
       "album": {
+        "name": "GO LIVE",
+        "url": "https://open.spotify.com/album/6DWLIzvmiLPAuDWYZqrLQo"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "duration_ms": 167922,
+      "name": "God\u2019s Menu",
+      "url": "https://open.spotify.com/track/4XPXrcpyNr30Km6aPiflJy"
+    },
+    {
+      "added_at": "2022-09-16 09:20:39",
+      "album": {
         "name": "Beatbox - The 2nd Album Repackage",
         "url": "https://open.spotify.com/album/4sM1qNxjzxOvoH6jeFHx3W"
       },
@@ -707,22 +723,6 @@
     {
       "added_at": "2022-09-16 09:20:39",
       "album": {
-        "name": "Next Level",
-        "url": "https://open.spotify.com/album/2CzbrboOLzeRoaaH1N5K0N"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        }
-      ],
-      "duration_ms": 221573,
-      "name": "Next Level",
-      "url": "https://open.spotify.com/track/2zrhoHlFKxFTRF5aMyxMoQ"
-    },
-    {
-      "added_at": "2022-09-16 09:20:39",
-      "album": {
         "name": "Permission to Dance",
         "url": "https://open.spotify.com/album/5ExDI42RCtISkQXAgv8dtZ"
       },
@@ -739,18 +739,18 @@
     {
       "added_at": "2022-09-16 09:20:39",
       "album": {
-        "name": "GO LIVE",
-        "url": "https://open.spotify.com/album/6DWLIzvmiLPAuDWYZqrLQo"
+        "name": "Next Level",
+        "url": "https://open.spotify.com/album/2CzbrboOLzeRoaaH1N5K0N"
       },
       "artists": [
         {
-          "name": "Stray Kids",
-          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
         }
       ],
-      "duration_ms": 167922,
-      "name": "God\u2019s Menu",
-      "url": "https://open.spotify.com/track/4XPXrcpyNr30Km6aPiflJy"
+      "duration_ms": 221573,
+      "name": "Next Level",
+      "url": "https://open.spotify.com/track/2zrhoHlFKxFTRF5aMyxMoQ"
     },
     {
       "added_at": "2022-09-16 09:20:39",
@@ -787,22 +787,6 @@
     {
       "added_at": "2022-09-16 09:20:39",
       "album": {
-        "name": "Savage - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        }
-      ],
-      "duration_ms": 238143,
-      "name": "Savage",
-      "url": "https://open.spotify.com/track/3dbLT62Cvs46Ju7a8gpr36"
-    },
-    {
-      "added_at": "2022-09-16 09:20:39",
-      "album": {
         "name": "Summer Nights",
         "url": "https://open.spotify.com/album/2GKTroaa4ysyhEdvzpvUoM"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 228613,
       "name": "Step Back",
       "url": "https://open.spotify.com/track/3LCwQoTrdQgHsGJE5gGVqx"
+    },
+    {
+      "added_at": "2022-09-16 09:20:39",
+      "album": {
+        "name": "The Chaos Chapter: FREEZE",
+        "url": "https://open.spotify.com/album/5Zdr9vactwnJH4Vpe9Mid9"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "duration_ms": 202203,
+      "name": "0X1=LOVESONG (I Know I Love You) feat. Seori",
+      "url": "https://open.spotify.com/track/1Z8TPHiKeCUyClxV6WTTIf"
     }
   ],
   "unique_name": "K-Club Party",

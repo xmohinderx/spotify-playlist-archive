@@ -1,12 +1,12 @@
 {
   "description": "Bringing the roaring 20s into the 2020s",
-  "num_followers": 305494,
+  "num_followers": 305684,
   "original_name": "Electro Swing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMwMDg2MCwwMDAwMDAwMDczYjI3N2U3YmUzMjM2Nzg3NDYyY2NjNDA5ODhjM2Vh",
+  "snapshot_id": "MTY2MzMwMDg2MCwwMDAwMDAwMDhiNzJmMzU0ODY0MmE4ODU2ZjliY2ZlYWYxMDdlMjE2",
   "tracks": [
     {
       "added_at": "2022-08-12 04:02:00",
@@ -541,6 +541,22 @@
       "url": "https://open.spotify.com/track/5CoMPmAsnk95FviCoqPFAk"
     },
     {
+      "added_at": "2020-11-20 05:02:00",
+      "album": {
+        "name": "Demon Kitty Rag (Electro Swing Version)",
+        "url": "https://open.spotify.com/album/7hyb5bepcY7rlOoG6RV9rJ"
+      },
+      "artists": [
+        {
+          "name": "Tori & Dean",
+          "url": "https://open.spotify.com/artist/4YjNLeVeRmLimuQeY412jX"
+        }
+      ],
+      "duration_ms": 215031,
+      "name": "Demon Kitty Rag - Electro Swing Version",
+      "url": "https://open.spotify.com/track/5Ms84twRHZKnUvF30BN5WR"
+    },
+    {
       "added_at": "2022-07-15 04:02:00",
       "album": {
         "name": "Something Serious",
@@ -567,22 +583,6 @@
       "duration_ms": 190938,
       "name": "Something Serious",
       "url": "https://open.spotify.com/track/6MZ4epg1RvpQCsMq0f5R1t"
-    },
-    {
-      "added_at": "2020-11-20 05:02:00",
-      "album": {
-        "name": "Demon Kitty Rag (Electro Swing Version)",
-        "url": "https://open.spotify.com/album/7hyb5bepcY7rlOoG6RV9rJ"
-      },
-      "artists": [
-        {
-          "name": "Tori & Dean",
-          "url": "https://open.spotify.com/artist/4YjNLeVeRmLimuQeY412jX"
-        }
-      ],
-      "duration_ms": 215031,
-      "name": "Demon Kitty Rag - Electro Swing Version",
-      "url": "https://open.spotify.com/track/5Ms84twRHZKnUvF30BN5WR"
     },
     {
       "added_at": "2022-01-21 05:01:00",
@@ -825,6 +825,22 @@
       "url": "https://open.spotify.com/track/5OeflTgTzyBrdLxJQtcn0c"
     },
     {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
+        "name": "Glam! - Single",
+        "url": "https://open.spotify.com/album/7z35Jlg8WYcek0lb1N49h9"
+      },
+      "artists": [
+        {
+          "name": "Dimie Cat",
+          "url": "https://open.spotify.com/artist/0LUkZYSaO60vSGVxgZM5PI"
+        }
+      ],
+      "duration_ms": 187689,
+      "name": "Glam - Electro-swing Remix",
+      "url": "https://open.spotify.com/track/7dnSxJbkmOWI1v8W3loMcR"
+    },
+    {
       "added_at": "2022-07-29 04:02:00",
       "album": {
         "name": "Keep Cool and Carry On (Glenn Gatsby Remix)",
@@ -843,22 +859,6 @@
       "duration_ms": 156734,
       "name": "Keep Cool and Carry On - Glenn Gatsby Remix",
       "url": "https://open.spotify.com/track/1rtZIsfbOp7nxrd2ifFYyO"
-    },
-    {
-      "added_at": "2020-10-30 09:06:04",
-      "album": {
-        "name": "Glam! - Single",
-        "url": "https://open.spotify.com/album/7z35Jlg8WYcek0lb1N49h9"
-      },
-      "artists": [
-        {
-          "name": "Dimie Cat",
-          "url": "https://open.spotify.com/artist/0LUkZYSaO60vSGVxgZM5PI"
-        }
-      ],
-      "duration_ms": 187689,
-      "name": "Glam - Electro-swing Remix",
-      "url": "https://open.spotify.com/track/7dnSxJbkmOWI1v8W3loMcR"
     },
     {
       "added_at": "2020-10-30 09:06:04",
@@ -929,10 +929,10 @@
       "url": "https://open.spotify.com/track/15tFVhuNMklFTudioIzRF5"
     },
     {
-      "added_at": "2021-04-02 04:01:00",
+      "added_at": "2021-05-21 04:01:00",
       "album": {
-        "name": "Get This (Bang Bang)",
-        "url": "https://open.spotify.com/album/4W2pWGsNTTLkbMtSEOi4CW"
+        "name": "So Good",
+        "url": "https://open.spotify.com/album/4j5hKLe8PcSammSkht2CHD"
       },
       "artists": [
         {
@@ -940,9 +940,9 @@
           "url": "https://open.spotify.com/artist/6qokeohfvbaNK1m0VfIEtB"
         }
       ],
-      "duration_ms": 225728,
-      "name": "Get This (Bang Bang)",
-      "url": "https://open.spotify.com/track/2onY73tr2izCSmNhXNcTAe"
+      "duration_ms": 196470,
+      "name": "So Good",
+      "url": "https://open.spotify.com/track/5zoU9m2Xg2fYgVzbuiqdzP"
     },
     {
       "added_at": "2020-10-30 09:06:04",
@@ -1081,10 +1081,10 @@
       "url": "https://open.spotify.com/track/4qitoWab2HSAZ9wFKkz1QZ"
     },
     {
-      "added_at": "2021-05-21 04:01:00",
+      "added_at": "2021-04-02 04:01:00",
       "album": {
-        "name": "So Good",
-        "url": "https://open.spotify.com/album/4j5hKLe8PcSammSkht2CHD"
+        "name": "Get This (Bang Bang)",
+        "url": "https://open.spotify.com/album/4W2pWGsNTTLkbMtSEOi4CW"
       },
       "artists": [
         {
@@ -1092,9 +1092,9 @@
           "url": "https://open.spotify.com/artist/6qokeohfvbaNK1m0VfIEtB"
         }
       ],
-      "duration_ms": 196470,
-      "name": "So Good",
-      "url": "https://open.spotify.com/track/5zoU9m2Xg2fYgVzbuiqdzP"
+      "duration_ms": 225728,
+      "name": "Get This (Bang Bang)",
+      "url": "https://open.spotify.com/track/2onY73tr2izCSmNhXNcTAe"
     },
     {
       "added_at": "2021-05-21 04:01:00",
@@ -1145,26 +1145,6 @@
       "url": "https://open.spotify.com/track/6BsAJNoNjKEkFqfvHsztIc"
     },
     {
-      "added_at": "2021-07-30 04:01:00",
-      "album": {
-        "name": "It Don't Mean A Thing (Electro Swing Mix)",
-        "url": "https://open.spotify.com/album/0BUY69FrFq6yFf933Vp6AL"
-      },
-      "artists": [
-        {
-          "name": "The Hebbe Sisters",
-          "url": "https://open.spotify.com/artist/1V0rRSX1qxdIoQySHhSP79"
-        },
-        {
-          "name": "Wolfgang Lohr",
-          "url": "https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu"
-        }
-      ],
-      "duration_ms": 173735,
-      "name": "It Don't Mean A Thing - Electro Swing Mix",
-      "url": "https://open.spotify.com/track/5tNZ1Wj6jXBuTKLeDX5w5S"
-    },
-    {
       "added_at": "2020-10-30 09:06:04",
       "album": {
         "name": "The Nu Swing Experience",
@@ -1183,6 +1163,26 @@
       "duration_ms": 164582,
       "name": "Marcianito - Cristina Renzetti Vocal Version",
       "url": "https://open.spotify.com/track/1qUOQnK6aeMa6KO0fB1OjY"
+    },
+    {
+      "added_at": "2021-07-30 04:01:00",
+      "album": {
+        "name": "It Don't Mean A Thing (Electro Swing Mix)",
+        "url": "https://open.spotify.com/album/0BUY69FrFq6yFf933Vp6AL"
+      },
+      "artists": [
+        {
+          "name": "The Hebbe Sisters",
+          "url": "https://open.spotify.com/artist/1V0rRSX1qxdIoQySHhSP79"
+        },
+        {
+          "name": "Wolfgang Lohr",
+          "url": "https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu"
+        }
+      ],
+      "duration_ms": 173735,
+      "name": "It Don't Mean A Thing - Electro Swing Mix",
+      "url": "https://open.spotify.com/track/5tNZ1Wj6jXBuTKLeDX5w5S"
     },
     {
       "added_at": "2020-10-30 09:06:04",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2020-10-30 09:06:04",
       "album": {
-        "name": "1925",
-        "url": "https://open.spotify.com/album/02JcbHQKbM8u2wRO5WHaOe"
-      },
-      "artists": [
-        {
-          "name": "LVDS",
-          "url": "https://open.spotify.com/artist/1bchORmrFrz4QUD9JhVm8s"
-        }
-      ],
-      "duration_ms": 164842,
-      "name": "1925",
-      "url": "https://open.spotify.com/track/3navZS9goNH9MlBiKD1E6V"
-    },
-    {
-      "added_at": "2020-10-30 09:06:04",
-      "album": {
         "name": "Bass Age Big Band",
         "url": "https://open.spotify.com/album/5mjTjPdZzIuMDmJPQu3Ywq"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 215625,
       "name": "Comin' Up Swinging",
       "url": "https://open.spotify.com/track/7KaR0WJwomHKGJWp29m89T"
+    },
+    {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
+        "name": "1925",
+        "url": "https://open.spotify.com/album/02JcbHQKbM8u2wRO5WHaOe"
+      },
+      "artists": [
+        {
+          "name": "LVDS",
+          "url": "https://open.spotify.com/artist/1bchORmrFrz4QUD9JhVm8s"
+        }
+      ],
+      "duration_ms": 164842,
+      "name": "1925",
+      "url": "https://open.spotify.com/track/3navZS9goNH9MlBiKD1E6V"
     },
     {
       "added_at": "2020-10-30 09:06:04",
@@ -1305,22 +1305,6 @@
       "url": "https://open.spotify.com/track/27FA1rNL2xN9u8XZyHrxup"
     },
     {
-      "added_at": "2021-10-22 04:02:00",
-      "album": {
-        "name": "Speed Dating An Arsonist",
-        "url": "https://open.spotify.com/album/6FMYspLefkY6vs9I1OHnF9"
-      },
-      "artists": [
-        {
-          "name": "Diablo Swing Orchestra",
-          "url": "https://open.spotify.com/artist/2cbWJP4X5b9sKEDW80uc5r"
-        }
-      ],
-      "duration_ms": 330893,
-      "name": "Speed Dating An Arsonist",
-      "url": "https://open.spotify.com/track/2xaaHJRbaWRxgiNxo5NeuK"
-    },
-    {
       "added_at": "2022-08-26 04:02:00",
       "album": {
         "name": "Different (Glenn Gatsby Remix)",
@@ -1339,6 +1323,42 @@
       "duration_ms": 144000,
       "name": "Different - Glenn Gatsby Remix",
       "url": "https://open.spotify.com/track/3ALptdYunDogaaogaVx6Mp"
+    },
+    {
+      "added_at": "2021-10-22 04:02:00",
+      "album": {
+        "name": "Speed Dating An Arsonist",
+        "url": "https://open.spotify.com/album/6FMYspLefkY6vs9I1OHnF9"
+      },
+      "artists": [
+        {
+          "name": "Diablo Swing Orchestra",
+          "url": "https://open.spotify.com/artist/2cbWJP4X5b9sKEDW80uc5r"
+        }
+      ],
+      "duration_ms": 330893,
+      "name": "Speed Dating An Arsonist",
+      "url": "https://open.spotify.com/track/2xaaHJRbaWRxgiNxo5NeuK"
+    },
+    {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
+        "name": "The Shocking Miss Emerald The Remixes",
+        "url": "https://open.spotify.com/album/7tBy0oYjfzgquWCaqU8xEx"
+      },
+      "artists": [
+        {
+          "name": "Caro Emerald",
+          "url": "https://open.spotify.com/artist/492hDmhPyuIjP3MgTcIqgm"
+        },
+        {
+          "name": "Caravan Palace",
+          "url": "https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ"
+        }
+      ],
+      "duration_ms": 207531,
+      "name": "Pack Up The Louie - Caravan Palace Remix",
+      "url": "https://open.spotify.com/track/6D53OoZpbzuBwwgGrT8FOP"
     },
     {
       "added_at": "2020-10-30 09:06:04",
@@ -1371,26 +1391,6 @@
       "duration_ms": 231724,
       "name": "The Jungle Jive",
       "url": "https://open.spotify.com/track/7ylvjuIk3hO7K8JTgtoLEd"
-    },
-    {
-      "added_at": "2020-10-30 09:06:04",
-      "album": {
-        "name": "The Shocking Miss Emerald The Remixes",
-        "url": "https://open.spotify.com/album/7tBy0oYjfzgquWCaqU8xEx"
-      },
-      "artists": [
-        {
-          "name": "Caro Emerald",
-          "url": "https://open.spotify.com/artist/492hDmhPyuIjP3MgTcIqgm"
-        },
-        {
-          "name": "Caravan Palace",
-          "url": "https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ"
-        }
-      ],
-      "duration_ms": 207531,
-      "name": "Pack Up The Louie - Caravan Palace Remix",
-      "url": "https://open.spotify.com/track/6D53OoZpbzuBwwgGrT8FOP"
     }
   ],
   "unique_name": "Electro Swing",

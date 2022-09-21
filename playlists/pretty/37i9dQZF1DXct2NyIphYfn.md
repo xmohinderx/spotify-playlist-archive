@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXct2NyIphYfn.md) - [plain]
 
 > Some of the most beautiful French love songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,246 likes - 75 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,276 likes - 75 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXct2NyIphYfn.md) - [plain]
 | 33 | [Nombreux](https://open.spotify.com/track/59HKbTnmmFONvKLAPuc9rF) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Brol](https://open.spotify.com/album/6KSvWFf4g4PrIldtchJsTC) | 3:12 |
 | 34 | [La madrague](https://open.spotify.com/track/5nnvTjA5yzhHlmVOVoGT49) | [Brigitte Bardot](https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy) | [Brigitte Bardot](https://open.spotify.com/album/7v2usu1rojLb7zX5sC6yMV) | 2:35 |
 | 35 | [C'est écrit \- Remastered](https://open.spotify.com/track/1nlG27VjnsZqh5t4PqPcPB) | [Francis Cabrel](https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv) | [Sarbacane \(Remastered\)](https://open.spotify.com/album/7e7sLjpyMxBeF6UyHl57Ul) | 5:53 |
-| 36 | [Que je t'aime](https://open.spotify.com/track/2wqHH4mITmvGf0ogwCzS5r) | [Camille](https://open.spotify.com/artist/0gOsZcHl7H3ewXVIEnWFZX) | [Ilo Veyou](https://open.spotify.com/album/0tOFyyQeAYENYub9DDloWP) | 3:43 |
-| 37 | [Je vais t'aimer](https://open.spotify.com/track/5KwJJz1nqsu5Edy1f4HGWe) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [La famille Bélier](https://open.spotify.com/album/0jBt5J960S7MX8yqEwz8Fd) | 3:55 |
+| 36 | [Je vais t'aimer](https://open.spotify.com/track/5KwJJz1nqsu5Edy1f4HGWe) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [La famille Bélier](https://open.spotify.com/album/0jBt5J960S7MX8yqEwz8Fd) | 3:55 |
+| 37 | [Que je t'aime](https://open.spotify.com/track/2wqHH4mITmvGf0ogwCzS5r) | [Camille](https://open.spotify.com/artist/0gOsZcHl7H3ewXVIEnWFZX) | [Ilo Veyou](https://open.spotify.com/album/0tOFyyQeAYENYub9DDloWP) | 3:43 |
 | 38 | [On va s'aimer encore](https://open.spotify.com/track/6SQxzjbQ6rFkzFC0vbTZBL) | [Vincent Vallières](https://open.spotify.com/artist/2iG6QPoQAVjR93cWyMKqen) | [Le monde tourne fort](https://open.spotify.com/album/1nGMO1npqc1fweNbJ7hLbj) | 4:18 |
 | 39 | [Le temps est bon](https://open.spotify.com/track/3XXd9jqR6IpMtxMmbMuoyn) | [Isabelle Pierre](https://open.spotify.com/artist/6defgaFYnHND3Zy5CZf8Ix) | [Le temps est bon](https://open.spotify.com/album/3DLFupu4f4MmTLy6TZv4sw) | 3:29 |
 | 40 | [Comme des enfants](https://open.spotify.com/track/5H3ChVfItCaDpj1vPbigyX) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [Cœur de pirate](https://open.spotify.com/album/7yuOxsQ525jlzWdKl05DJp) | 2:49 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXct2NyIphYfn.md) - [plain]
 | 61 | [Kraft Dinner](https://open.spotify.com/track/75tmUxexYj2WgMpCdBtdT0) | [Lisa LeBlanc](https://open.spotify.com/artist/4YsjYDobnm0mf2tB4I9Zya) | [Lisa LeBlanc](https://open.spotify.com/album/6qkkBPeN0eLTk9oDvvew2V) | 3:11 |
 | 62 | [Je t'aime moi non plus](https://open.spotify.com/track/3YW3Tw3lLQfuPfklE76F3y) | [Serge Gainsbourg](https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo), [Jane Birkin](https://open.spotify.com/artist/4XYH5Be5pn1qkxhfaID3J5) | [Jane Birkin & Serge Gainsbourg](https://open.spotify.com/album/2JR65ppK6Z6h1lfV5fy7Fr) | 4:21 |
 | 63 | [Quelqu'un M'a Dit](https://open.spotify.com/track/2v9AGeylYJq2EjC9vtSr99) | [Carla Bruni](https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx) | [Learn French Thru Music](https://open.spotify.com/album/4cK3pngh0i9tFpolN7U3cA) | 2:43 |
-| 64 | [Tu ne sauras jamais](https://open.spotify.com/track/255h1g53lT3LmG6djeescl) | [Ludovick Bourgeois](https://open.spotify.com/artist/0cv8lN7deJS8xeHJqPf4Ay) | [La Voix 5](https://open.spotify.com/album/5lc1e0BZoxJSvbWI7l6KNW) | 4:07 |
-| 65 | [Oublie Pas](https://open.spotify.com/track/518uaTT6eo2V8n8iuUxmWg) | [Karkwa](https://open.spotify.com/artist/6l8KabfQ4VAdFHzm3ZOOYZ) | [Le Volume Du Vent](https://open.spotify.com/album/5VZPXsKSKwSCspFMR55ePF) | 3:06 |
+| 64 | [Oublie Pas](https://open.spotify.com/track/518uaTT6eo2V8n8iuUxmWg) | [Karkwa](https://open.spotify.com/artist/6l8KabfQ4VAdFHzm3ZOOYZ) | [Le Volume Du Vent](https://open.spotify.com/album/5VZPXsKSKwSCspFMR55ePF) | 3:06 |
+| 65 | [Tu ne sauras jamais](https://open.spotify.com/track/255h1g53lT3LmG6djeescl) | [Ludovick Bourgeois](https://open.spotify.com/artist/0cv8lN7deJS8xeHJqPf4Ay) | [La Voix 5](https://open.spotify.com/album/5lc1e0BZoxJSvbWI7l6KNW) | 4:07 |
 | 66 | [Les Aurores](https://open.spotify.com/track/1AaMx4sHbjGx5h38jsjBCF) | [Mara Tremblay](https://open.spotify.com/artist/1tt3YXVP4AltaStku4rpf3) | [Mara Tremblay](https://open.spotify.com/album/7xY5VWfJROGenbou4vtfz6) | 4:05 |
 | 67 | [Quand j'aime une fois j'aime pour toujours](https://open.spotify.com/track/40PuSCcS6qI3J9iEJeP3od) | [Saratoga](https://open.spotify.com/artist/7cclLKr5Adggnygyq0ybOn) | [Desjardins](https://open.spotify.com/album/2VPoXJSzpdtKp5VTrds7XC) | 3:24 |
 | 68 | [La bohème](https://open.spotify.com/track/2xmXyY7rye6nH5sMObxdbu) | [Charles Aznavour](https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT) | [La Bohème](https://open.spotify.com/album/2AYkNAE68SK0xezVrJNFkC) | 4:07 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXct2NyIphYfn.md) - [plain]
 | 74 | [Jenny](https://open.spotify.com/track/66TPZLJOEAhnIYGGEbpB8G) | [Richard Desjardins](https://open.spotify.com/artist/2zZ8py1CLFzH10bc2unTpn) | [Kanasuta](https://open.spotify.com/album/44gXPii8rK7tAVoZqAQIPQ) | 3:37 |
 | 75 | [Debout](https://open.spotify.com/track/4WPqwHscUKuB8x1NqK5tT2) | [Ariane Moffatt](https://open.spotify.com/artist/5x9UA1g9OYt1wCyPb0YN8l) | [22h22](https://open.spotify.com/album/2HdjJqBfxdOKa4LHZB21X8) | 3:14 |
 
-Snapshot ID: `MTY0MjgwMDAwMywwMDAwMDAwMDM1Y2VkYjQ5ZmJlOTljYWM3ZmI2YmZmZGE3NTBlOGFk`
+Snapshot ID: `MTY0MjgwMDAwMywwMDAwMDAwMDg1ZmRhNDlmYmY2MmFmODg5N2RkYjQ3NzAyNTU3ODVk`

@@ -1,12 +1,12 @@
 {
   "description": "Let's mix it.",
-  "num_followers": 86093,
+  "num_followers": 86126,
   "original_name": "Pop Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzI3OTIwMCwwMDAwMDAwMGJmNDU0YjRiODNkYWFkMTc2ODMzZDcyNGEyZWMwYzkx",
+  "snapshot_id": "MTY2MzI3OTIwMCwwMDAwMDAwMDgyZTJjODcxYjdkNWJhYjIxMWQ5NmIwMDI2M2VkZGNl",
   "tracks": [
     {
       "added_at": "2022-09-15 22:00:00",
@@ -631,22 +631,6 @@
     {
       "added_at": "2022-09-15 22:00:00",
       "album": {
-        "name": "in loving memory",
-        "url": "https://open.spotify.com/album/0ZvU2iSXtYxBeR9QzvHQau"
-      },
-      "artists": [
-        {
-          "name": "blackbear",
-          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
-        }
-      ],
-      "duration_ms": 182792,
-      "name": "dead inside",
-      "url": "https://open.spotify.com/track/2Oo397nWzelAKMQBBIL8YI"
-    },
-    {
-      "added_at": "2022-09-15 22:00:00",
-      "album": {
         "name": "t r a n s p a r e n t s o u l feat. Travis Barker",
         "url": "https://open.spotify.com/album/4ar4zcVlbYDYKgq5wEdq0T"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 220051,
       "name": "Level of Concern",
       "url": "https://open.spotify.com/track/6xZ4Q2k2ompmDppyeESIY8"
+    },
+    {
+      "added_at": "2022-09-15 22:00:00",
+      "album": {
+        "name": "in loving memory",
+        "url": "https://open.spotify.com/album/0ZvU2iSXtYxBeR9QzvHQau"
+      },
+      "artists": [
+        {
+          "name": "blackbear",
+          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+        }
+      ],
+      "duration_ms": 182792,
+      "name": "dead inside",
+      "url": "https://open.spotify.com/track/2Oo397nWzelAKMQBBIL8YI"
     },
     {
       "added_at": "2022-09-15 22:00:00",
@@ -835,22 +835,18 @@
     {
       "added_at": "2022-09-15 22:00:00",
       "album": {
-        "name": "Bad Habits (feat. Bring Me The Horizon)",
-        "url": "https://open.spotify.com/album/6YaoDGq5SqvjU4D9oMFj2d"
+        "name": "The Bastards",
+        "url": "https://open.spotify.com/album/5274bCsoBGBuqed5yKLi9D"
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        },
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+          "name": "Palaye Royale",
+          "url": "https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI"
         }
       ],
-      "duration_ms": 250763,
-      "name": "Bad Habits (feat. Bring Me The Horizon)",
-      "url": "https://open.spotify.com/track/7vrKEP66NdiQDPryPG6olO"
+      "duration_ms": 186249,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/0haXiRi57j2xQo5a3WkzqV"
     },
     {
       "added_at": "2022-09-15 22:00:00",
@@ -871,18 +867,22 @@
     {
       "added_at": "2022-09-15 22:00:00",
       "album": {
-        "name": "The Bastards",
-        "url": "https://open.spotify.com/album/5274bCsoBGBuqed5yKLi9D"
+        "name": "Bad Habits (feat. Bring Me The Horizon)",
+        "url": "https://open.spotify.com/album/6YaoDGq5SqvjU4D9oMFj2d"
       },
       "artists": [
         {
-          "name": "Palaye Royale",
-          "url": "https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI"
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
         }
       ],
-      "duration_ms": 186249,
-      "name": "Lonely",
-      "url": "https://open.spotify.com/track/0haXiRi57j2xQo5a3WkzqV"
+      "duration_ms": 250763,
+      "name": "Bad Habits (feat. Bring Me The Horizon)",
+      "url": "https://open.spotify.com/track/7vrKEP66NdiQDPryPG6olO"
     },
     {
       "added_at": "2022-09-15 22:00:00",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2022-09-15 22:00:00",
       "album": {
-        "name": "SKIN OF MY TEETH",
-        "url": "https://open.spotify.com/album/1g6ypyB5kB8UT9gpG9EZi8"
-      },
-      "artists": [
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "duration_ms": 162516,
-      "name": "SKIN OF MY TEETH",
-      "url": "https://open.spotify.com/track/1O9AseW10CTi6nBLoj0O6K"
-    },
-    {
-      "added_at": "2022-09-15 22:00:00",
-      "album": {
         "name": "Your Life Your Time",
         "url": "https://open.spotify.com/album/4EZaBjrZvPKOch67xp0E3J"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 160257,
       "name": "Your Life Your Time",
       "url": "https://open.spotify.com/track/1HWkMkgqKMLqsAPRh0KNmE"
+    },
+    {
+      "added_at": "2022-09-15 22:00:00",
+      "album": {
+        "name": "SKIN OF MY TEETH",
+        "url": "https://open.spotify.com/album/1g6ypyB5kB8UT9gpG9EZi8"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "duration_ms": 162516,
+      "name": "SKIN OF MY TEETH",
+      "url": "https://open.spotify.com/track/1O9AseW10CTi6nBLoj0O6K"
     },
     {
       "added_at": "2022-09-15 22:00:00",
@@ -1239,18 +1239,18 @@
     {
       "added_at": "2022-09-15 22:00:00",
       "album": {
-        "name": "Twinkle Twinkle Little Bitch",
-        "url": "https://open.spotify.com/album/1ybrTFXVkVuSmFdS0twHzb"
+        "name": "Typhoons",
+        "url": "https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi"
       },
       "artists": [
         {
-          "name": "Leah Kate",
-          "url": "https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r"
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
         }
       ],
-      "duration_ms": 156937,
-      "name": "Twinkle Twinkle Little Bitch",
-      "url": "https://open.spotify.com/track/6zBqlhWjEhNyH4Z8eUDzMT"
+      "duration_ms": 161253,
+      "name": "Oblivion",
+      "url": "https://open.spotify.com/track/3Ye5icBka8ODjcaEQakPvZ"
     },
     {
       "added_at": "2022-09-15 22:00:00",
@@ -1287,18 +1287,18 @@
     {
       "added_at": "2022-09-15 22:00:00",
       "album": {
-        "name": "Typhoons",
-        "url": "https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi"
+        "name": "Twinkle Twinkle Little Bitch",
+        "url": "https://open.spotify.com/album/1ybrTFXVkVuSmFdS0twHzb"
       },
       "artists": [
         {
-          "name": "Royal Blood",
-          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+          "name": "Leah Kate",
+          "url": "https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r"
         }
       ],
-      "duration_ms": 161253,
-      "name": "Oblivion",
-      "url": "https://open.spotify.com/track/3Ye5icBka8ODjcaEQakPvZ"
+      "duration_ms": 156937,
+      "name": "Twinkle Twinkle Little Bitch",
+      "url": "https://open.spotify.com/track/6zBqlhWjEhNyH4Z8eUDzMT"
     },
     {
       "added_at": "2022-09-15 22:00:00",

@@ -4,7 +4,7 @@
 
 > would you like to save before closing?
 
-96 songs - 4 hr 58 min - [published](https://open.spotify.com/playlist/36YqD8F3x0V42aodGC6n57)
+97 songs - 5 hr 0 min - [published](https://open.spotify.com/playlist/36YqD8F3x0V42aodGC6n57)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,12 +83,13 @@
 | [Pretty Cvnt](https://open.spotify.com/track/2CTcTL788DBaFLnc6QJSzv) | [swrslt](https://open.spotify.com/artist/4hljLrM4LIIh85DLjURyS6) | [Pretty Cvnt](https://open.spotify.com/album/3C7mweDprNNq2yJuWZm8iw) | 3:40 | 2022-03-02 | 2022-09-09 |
 | [Pro: Lov: Ad](https://open.spotify.com/track/7rR1msZYCT2MlrssnJMYgw) | [Sweet Trip](https://open.spotify.com/artist/5NtMqQLCzdVvL7F8vFp3zM) | [Velocity: Design: Comfort.](https://open.spotify.com/album/0eUUQ4rly8Q8PyJPWLgde2) | 5:46 | 2022-03-02 |  |
 | [Puddle of Nitrogen](https://open.spotify.com/track/69OVnCNC0SB8EsLsq51lQF) | [Acetantina](https://open.spotify.com/artist/4pOU5L3kyzl3mOup7X0Xxp) | [Temple of Null](https://open.spotify.com/album/3vmSi6NMDAxnYPVKB5EATU) | 3:51 | 2022-03-02 | 2022-08-22 |
-| [RED ALERT](https://open.spotify.com/track/5qZYiUWxG55qm89Vd4VwCO) | [DJ CAMGIRL](https://open.spotify.com/artist/5swTIBAtYWBafM7YZZriMc), [VAPERROR](https://open.spotify.com/artist/0AEVuiJFczDd4dkmZh2Kha) | [CANNON](https://open.spotify.com/album/4Kj5EumxhbumHhNjwt6bIQ) | 1:56 | 2022-03-11 |  |
+| [RED ALERT](https://open.spotify.com/track/5qZYiUWxG55qm89Vd4VwCO) | [DJ CAMGIRL](https://open.spotify.com/artist/5swTIBAtYWBafM7YZZriMc), [VAPERROR](https://open.spotify.com/artist/0AEVuiJFczDd4dkmZh2Kha) | [CANNON](https://open.spotify.com/album/4Kj5EumxhbumHhNjwt6bIQ) | 1:56 | 2022-03-11 | 2022-09-21 |
 | [Rusty's Theme](https://open.spotify.com/track/0O0nfieweDPQqcSMC5cpYv) | [zKevin](https://open.spotify.com/artist/66AZQ2EAXznHftADdXDICb) | [Robot 64 \(Original Game Soundtrack\)](https://open.spotify.com/album/06whO3ukgXDbzLbeXTjJYE) | 2:18 | 2022-04-01 |  |
 | [Sad Machine](https://open.spotify.com/track/1JY6B9ILvmRla2IKKRZvnH) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Worlds](https://open.spotify.com/album/7AJPV0L05IyIBid97AvwVD) | 5:50 | 2022-03-02 |  |
 | [Spirit Gun](https://open.spotify.com/track/3SiHPV0ls0kkJM7L2KKSl8) | [Golden Boy](https://open.spotify.com/artist/1rBWZ8jlALSPgIVPWegPGq) | [Prince of the Cyber Rave](https://open.spotify.com/album/223R6xxwBU1NfAG0DU04ZV) | 3:10 | 2022-04-01 |  |
 | [Sweden](https://open.spotify.com/track/4NsPgRYUdHu2Q5JRNgXYU5) | [C418](https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx) | [Minecraft \- Volume Alpha](https://open.spotify.com/album/3Gt7rOjcZQoHCfnKl5AkK7) | 3:35 | 2022-03-02 |  |
 | [tadpoles lullaby](https://open.spotify.com/track/12BSoYtXIX1X31YGYacjTq) | [galen tipton](https://open.spotify.com/artist/4yk43MhqPWsrrzoRyoMZhv) | [carepackage](https://open.spotify.com/album/2qDMzs2S9D56WE9NDOkHSE) | 1:32 | 2022-03-02 | 2022-09-17 |
+| [tadpoles lullaby](https://open.spotify.com/track/2LFD3JPc6STJxrOR9Ne1PT) | [galen tipton](https://open.spotify.com/artist/4yk43MhqPWsrrzoRyoMZhv) | [carepackage](https://open.spotify.com/album/3YE0VIMshf4A4pa507f7eN) | 1:32 | 2022-03-02 |  |
 | [Taxi](https://open.spotify.com/track/2IvnzqJv070rZ2I6u5ocuR) | [foster n!x](https://open.spotify.com/artist/5enSh2TLNYisRbvFyT5EKl) | [Drop Five](https://open.spotify.com/album/5KexTk8l0hilMkJrVKtp7L) | 1:38 | 2022-03-02 | 2022-09-12 |
 | [team edward](https://open.spotify.com/track/6tYAwvtbq99FKtK08sslC6) | [meat computer](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN) | [team edward](https://open.spotify.com/album/3aDilVU5hkFytlfeoiPQo5) | 1:27 | 2022-03-02 |  |
 | [Temple of Null](https://open.spotify.com/track/6BN0SHZZkdksdMFXDhCvDT) | [Acetantina](https://open.spotify.com/artist/4pOU5L3kyzl3mOup7X0Xxp) | [Temple of Null](https://open.spotify.com/album/3vmSi6NMDAxnYPVKB5EATU) | 2:48 | 2022-03-02 |  |

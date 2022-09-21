@@ -4,7 +4,7 @@
 
 > The best metal songs of the 2010s\. Cover: Avenged Sevenfold
 
-352 songs - 1 day 1 hr 50 min - [published](https://open.spotify.com/playlist/1bgDijw9RuxPGobkylisrP)
+353 songs - 1 day 1 hr 54 min - [published](https://open.spotify.com/playlist/1bgDijw9RuxPGobkylisrP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Dystopia](https://open.spotify.com/track/0KiRc3f3OI9C7s0S1QjQNO) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Dystopia](https://open.spotify.com/album/4sP7CAPrmdBD1ojBBrPxiV) | 4:59 | 2022-01-03 |  |
 | [Earthbound](https://open.spotify.com/track/1DKbMKbzeZ57yo6yI4MeXe) | [Bury Tomorrow](https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt) | [Earthbound](https://open.spotify.com/album/5F0t9Dkxsx4pX6Z57aWXkZ) | 3:42 | 2022-04-24 |  |
 | [Earthbound](https://open.spotify.com/track/2TgqTZF3NMFQtQlBHStXnF) | [Bury Tomorrow](https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt) | [Earthbound](https://open.spotify.com/album/3TXpO6Zw5r19dbGQbOPPWX) | 3:42 | 2022-01-03 | 2022-07-28 |
+| [Electroheart](https://open.spotify.com/track/36KH2r0JLzix1WKHURR2MY) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [The Nexus](https://open.spotify.com/album/6431V8pOEUPUW4k9ASyKCV) | 3:48 | 2022-07-13 |  |
 | [Empty Batteries](https://open.spotify.com/track/2FOBFj915HDE0yfLKmZogJ) | [Nonpoint](https://open.spotify.com/artist/6BdSOHfQ6kMg0tbAFlXR1z) | [X \(Deluxe Edition\)](https://open.spotify.com/album/6VR91jzeyEvl6UkEqQkswo) | 3:55 | 2022-07-13 | 2022-07-28 |
 | [Encircled](https://open.spotify.com/track/4G3hqmtWVVJ4CxsSkrVXT4) | [Dark Tranquillity](https://open.spotify.com/artist/5EHvXKnNz78jkAVgTQLQ5O) | [Atoma](https://open.spotify.com/album/3N5vYy8vIFgpvtrIbFtvvG) | 3:32 | 2022-07-13 | 2022-07-15 |
 | [Erase This](https://open.spotify.com/track/6hbAkHY0eFObobL1k8bGrE) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [VII: Sturm und Drang](https://open.spotify.com/album/3MnHIi1Nbk2TaHSE2dMVM0) | 5:08 | 2022-07-13 | 2022-07-16 |
@@ -180,7 +181,7 @@
 | [Lost In The Static](https://open.spotify.com/track/5QLH7zAdcAJLgR25gtvtoK) | [After The Burial](https://open.spotify.com/artist/0uNj4RxFjG0iVPlZS753en) | [Dig Deep](https://open.spotify.com/album/7ABqA1tuH6eonHAIBaBqHe) | 4:33 | 2022-04-24 |  |
 | [Lucid](https://open.spotify.com/track/7mCT4WQa1SJNvTnQ59cmE0) | [Polaris](https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX) | [The Mortal Coil](https://open.spotify.com/album/1bxVLZDxByhblJftVPTddl) | 3:59 | 2022-07-13 |  |
 | [Lucifer Rising](https://open.spotify.com/track/6mlkXrADJObRQXMPVBWFV0) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Venomous Rat Regeneration Vendor](https://open.spotify.com/album/1y6e636ylJkwxsBwk89gS6) | 3:18 | 2022-07-13 | 2022-07-29 |
-| [Madness](https://open.spotify.com/track/3oGBi4YADwMYDtnRfYurnz) | [All That Remains](https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14) | [Madness](https://open.spotify.com/album/1tb0QLGgdyuewhLFN4iKnj) | 3:23 | 2022-04-24 |  |
+| [Madness](https://open.spotify.com/track/3oGBi4YADwMYDtnRfYurnz) | [All That Remains](https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14) | [Madness](https://open.spotify.com/album/1tb0QLGgdyuewhLFN4iKnj) | 3:23 | 2022-04-24 | 2022-09-21 |
 | [Madness](https://open.spotify.com/track/3CPsPpLW6vwrgGX9qPxoPs) | [All That Remains](https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14) | [Madness](https://open.spotify.com/album/2Jf9p35vqs8jEReDRJsEDE) | 3:24 | 2022-01-03 | 2022-07-29 |
 | [Magma](https://open.spotify.com/track/56iv5TqfvxVa4zLMs6SvmP) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Magma](https://open.spotify.com/album/7D7V6M05UIOTjLdqbwRX0w) | 6:42 | 2022-07-13 |  |
 | [Marigold](https://open.spotify.com/track/2YZZ8qsDdvC008LgtpMoI6) | [Periphery](https://open.spotify.com/artist/6d24kC5fxHFOSEAmjQPPhc) | [Periphery III: Select Difficulty](https://open.spotify.com/album/1NBUh16Mfz7kNjIJKVO9sC) | 7:19 | 2022-01-03 | 2022-07-29 |

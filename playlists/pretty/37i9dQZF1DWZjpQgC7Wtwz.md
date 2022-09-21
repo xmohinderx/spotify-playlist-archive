@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjpQgC7Wtwz.md) - [plain]
 
 > ¡Hay tamales! ¡Tamales calientitos! De dulce, verde, rojo, mole y hasta oaxaqueños.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,492 likes - 75 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,580 likes - 75 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,15 +55,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjpQgC7Wtwz.md) - [plain]
 | 45 | [Entrega De Amor](https://open.spotify.com/track/2SNP0sm56HwUvZh7bL66pi) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Entrega De Amor](https://open.spotify.com/album/5RskNC4hvSZfi1b2k1tFPw) | 2:56 |
 | 46 | [Loco](https://open.spotify.com/track/0uCuoqJ3uvSTU8I3Vtvnfu) | [Pesado](https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK) | [Todo tuyo](https://open.spotify.com/album/6EGXXDM0tEb4mTuC4ofMei) | 3:55 |
 | 47 | [Cómo Estás Tú](https://open.spotify.com/track/34dKLs3lTn2gqEai9xZSgc) | [Liberación](https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5) | [Con La Fuerza Del Destino](https://open.spotify.com/album/4TOGT8365axV7cXPk1XueY) | 2:57 |
-| 48 | [Desde El Fondo De Mi Corazón](https://open.spotify.com/track/3rQndjZ676PPjV9QvL42te) | [Hildemaro](https://open.spotify.com/artist/2jc6xa4fD1dcYzuzGadGic) | [Amanecí Contigo Y Sin Tabú](https://open.spotify.com/album/40PyxT3MBm2aGxKLKKBfBB) | 4:02 |
-| 49 | [El Loco](https://open.spotify.com/track/2jEjxOyKqMpkcThWl697hf) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Jessico](https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh) | 3:05 |
+| 48 | [El Loco](https://open.spotify.com/track/2jEjxOyKqMpkcThWl697hf) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Jessico](https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh) | 3:05 |
+| 49 | [Desde El Fondo De Mi Corazón](https://open.spotify.com/track/3rQndjZ676PPjV9QvL42te) | [Hildemaro](https://open.spotify.com/artist/2jc6xa4fD1dcYzuzGadGic) | [Amanecí Contigo Y Sin Tabú](https://open.spotify.com/album/40PyxT3MBm2aGxKLKKBfBB) | 4:02 |
 | 50 | [Círculo De Amor](https://open.spotify.com/track/3GZf0kWZobn4GwkujDYR7C) | [El Gran Silencio](https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD) | [Chúntaros Radio Poder](https://open.spotify.com/album/0wqb0G7P5hA3ajYi9ihVQL) | 4:05 |
 | 51 | [A Pesar De Todo](https://open.spotify.com/track/6PJlqc0VY2xHVRpdG64O09) | [La Combinación Vallenata](https://open.spotify.com/artist/2Rerw09apss0UagVOvRNya), [Alex Manga](https://open.spotify.com/artist/7nCFUyJyEVRBo3ZXVdocyZ), [Morre Romero](https://open.spotify.com/artist/0fSDiwBFm3ePcnzxZgx4zX) | [La Combinacion Vallenata](https://open.spotify.com/album/4BlePk43SPyN7SXY7YyWeU) | 4:32 |
 | 52 | [Ayer y Hoy](https://open.spotify.com/track/58J23cD4zeeidroDepVhX7) | [Julio Jaramillo](https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8) | [15 Éxitos de Siempre Vol\. 5](https://open.spotify.com/album/3QgycjElVQUGvdWWewbHcE) | 2:21 |
 | 53 | [Busca Por Dentro](https://open.spotify.com/track/2uJyG7lhmZ8bFrbVVlc6AH) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [The Best](https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm) | 5:54 |
-| 54 | [Vienes y Te Vas](https://open.spotify.com/track/0sVeyTEVECTBiBdx9u7VUj) | [Los Askis](https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi) | [Con la Fuerza de un Volcán](https://open.spotify.com/album/1AIWTMWJGvs517UpZtQ09y) | 3:48 |
-| 55 | [Los Caminos De La Vida](https://open.spotify.com/track/1layZXCAmJ84fi21OmnTt5) | [La Tropa Vallenata](https://open.spotify.com/artist/6ESzKdcEDKvhUek4ZaHruk) | [Los Caminos De La Vida](https://open.spotify.com/album/2I72wA4qxK4ur3biscv0hv) | 4:51 |
-| 56 | [Un Osito de Peluche de Taiwán](https://open.spotify.com/track/6iCnJkKswtMYoSmT58HmEn) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [Sigue Tu Camino](https://open.spotify.com/album/0RvMRxxQUVQp2jb3CIbg5g) | 4:07 |
+| 54 | [Un Osito de Peluche de Taiwán](https://open.spotify.com/track/6iCnJkKswtMYoSmT58HmEn) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [Sigue Tu Camino](https://open.spotify.com/album/0RvMRxxQUVQp2jb3CIbg5g) | 4:07 |
+| 55 | [Vienes y Te Vas](https://open.spotify.com/track/0sVeyTEVECTBiBdx9u7VUj) | [Los Askis](https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi) | [Con la Fuerza de un Volcán](https://open.spotify.com/album/1AIWTMWJGvs517UpZtQ09y) | 3:48 |
+| 56 | [Los Caminos De La Vida](https://open.spotify.com/track/1layZXCAmJ84fi21OmnTt5) | [La Tropa Vallenata](https://open.spotify.com/artist/6ESzKdcEDKvhUek4ZaHruk) | [Los Caminos De La Vida](https://open.spotify.com/album/2I72wA4qxK4ur3biscv0hv) | 4:51 |
 | 57 | [Deseándote](https://open.spotify.com/track/6eRmG7DPom2FfRNAoCmjqb) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Mas Grande Que Nunca](https://open.spotify.com/album/3jjv7kRQ4vXoGg35jrazQz) | 4:41 |
 | 58 | [Las flores](https://open.spotify.com/track/0oakHTPj4SF7Si0NAsLwi8) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Re](https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84) | 2:15 |
 | 59 | [Suavemente Amor](https://open.spotify.com/track/7bCNS79pv7K9iYtqAo0uIW) | [Los Yaguarú](https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ) | [Los Yaguaru](https://open.spotify.com/album/6zLHoo66ahzFaPgo7Sp3FA) | 3:54 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjpQgC7Wtwz.md) - [plain]
 | 72 | [Chúntaros Style](https://open.spotify.com/track/4a0XUfmjQiRb0diHn9jVjA) | [El Gran Silencio](https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD) | [Chúntaros Radio Poder](https://open.spotify.com/album/0wqb0G7P5hA3ajYi9ihVQL) | 3:58 |
 | 73 | [Pobre de Ti](https://open.spotify.com/track/17ASXCVH7zxBHC8P1dThon) | [Tijuana No!](https://open.spotify.com/artist/2mkMNs2mphrkggZ7me38j1) | [Rock En Español \- Lo Mejor De Tijuana No!](https://open.spotify.com/album/53yl7Z1s91Fyq3Y69La68g) | 4:42 |
 | 74 | [Vida No Te Vayas](https://open.spotify.com/track/6GU3eVzFRKEFme03ut4b6G) | [Los Yaguarú](https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ) | [Corazoncito Pum Pum](https://open.spotify.com/album/07MvwQNWa6J5fSw3FSS4C5) | 3:48 |
-| 75 | [Padre Nuestro](https://open.spotify.com/track/7nOt7uN0iXGuvLRVfvclg5) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [La Luz Del Ritmo](https://open.spotify.com/album/6hFXLM8kG3P4ArcGNDb574) | 4:32 |
+| 75 | [Sin Ti](https://open.spotify.com/track/1mmaywWRQzNE5dt0eUISBd) | [King Chango](https://open.spotify.com/artist/5nZlhgO7iNedGlO0gKu9us) | [The Return of El Santo](https://open.spotify.com/album/5cOccFEax9P6EPRJc4xPx9) | 4:47 |
 
-Snapshot ID: `MTY0Mzc0MTE5NywwMDAwMDAwMGVhMjUxNGM5ODZjZDc4MDZlMTA5M2VkZTUwOWY2MmU3`
+Snapshot ID: `MTY0Mzc0MTE5NywwMDAwMDAwMDA0Y2E4ZjA4YTY4NmY0MzAwYThiYmUwNmZlYjNjZDlk`

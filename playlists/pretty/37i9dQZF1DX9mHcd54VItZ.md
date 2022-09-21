@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 
 > Only the hottest out now in South African Rock and Punk\. Cover: <a href="https://open.spotify.com/artist/36P4zQxOGCSabr44bXS8kW?si=G9Ia9ChuTPeQ1Z7iZd3bYw">Droomsindroom</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,989 likes - 70 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,997 likes - 70 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

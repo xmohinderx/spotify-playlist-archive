@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- South Korea.
 
-839 songs - 1 day 23 hr 31 min - [published](https://open.spotify.com/playlist/4DRTrXneBtNnJtlxBODsX9)
+840 songs - 1 day 23 hr 33 min - [published](https://open.spotify.com/playlist/4DRTrXneBtNnJtlxBODsX9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,13 +176,14 @@
 | [Day & Night \(feat\. Jay Park\)](https://open.spotify.com/track/7IuuFQShxmy7zMZ3vZvMFj) | [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Day & Night \(feat\. Jay Park\)](https://open.spotify.com/album/0pIB5R9hfgTH25CPrQWsyU) | 3:35 | 2021-11-02 | 2021-11-12 |
 | [Day By Day](https://open.spotify.com/track/035HmS3BoIvFVe1ho1qxc4) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [Hello \- Special Album](https://open.spotify.com/album/37mRfTDwQzVbHihypYY8oE) | 4:10 | 2021-06-02 | 2021-06-05 |
 | [Daylight](https://open.spotify.com/track/51Zw1cKDgkad0CXv23HCMU) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:44 | 2022-05-21 | 2022-05-26 |
-| [Dear my X](https://open.spotify.com/track/0UnOf7i44YK0ULpkEGHe4R) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Dear my X](https://open.spotify.com/album/5BOrfMmeO7t7pDqhZNIhej) | 3:07 | 2022-05-15 |  |
+| [Dear my X](https://open.spotify.com/track/0UnOf7i44YK0ULpkEGHe4R) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Dear my X](https://open.spotify.com/album/5BOrfMmeO7t7pDqhZNIhej) | 3:07 | 2022-05-15 | 2022-09-21 |
 | [Dear you](https://open.spotify.com/track/1mttCFELeKHQIs6A3WUNj5) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [Dear OHMYGIRL](https://open.spotify.com/album/02tASSJqgrHueEUw97lnRm) | 3:36 | 2021-05-12 | 2021-05-13 |
 | [Dear you](https://open.spotify.com/track/6bUdUyr92odwXgROPXQT5s) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [Dear OHMYGIRL](https://open.spotify.com/album/2xfmLni05CCgygcNdtPvuN) | 3:36 | 2021-05-13 | 2021-05-14 |
 | [deja vu](https://open.spotify.com/track/6HU7h9RYOaPRFeh0R3UeAr) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:35 | 2021-05-23 | 2021-07-28 |
 | [deja vu](https://open.spotify.com/track/61KpQadow081I2AsbeLcsb) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [deja vu](https://open.spotify.com/album/3lwHyR4joA1xB7Nun21EP6) | 3:35 | 2021-04-04 | 2021-05-23 |
 | [Deserve You](https://open.spotify.com/track/5NU40QTlXrDUJzDBdv79bg) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 3:07 | 2021-03-27\* | 2021-04-03 |
 | [Designer](https://open.spotify.com/track/4axTxw4EXSVSGm6f6vxTdZ) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [2 Baddies \- The 4th Album](https://open.spotify.com/album/6p80QT3z7kOHpYdnsItQTQ) | 3:57 | 2022-09-17 | 2022-09-19 |
+| [DICE](https://open.spotify.com/track/6C734SmqoIYuRWo2qSCnpC) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [ENTWURF](https://open.spotify.com/album/2uB0PgzqqWLdk2R736sMkP) | 2:45 | 2022-09-20 |  |
 | [Die For You](https://open.spotify.com/track/2LBqCSwhJGcFQeTHMVGwy3) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Starboy](https://open.spotify.com/album/4AdZV63ycxFLF6Hcol0QnB) | 4:20 | 2022-08-25 | 2022-09-18 |
 | [Die Hard](https://open.spotify.com/track/6gI9b2VsoWhjhIuIeToDVs) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Amanda Reifer](https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:59 | 2022-05-14 | 2022-05-26 |
 | [Diggity](https://open.spotify.com/track/2JEaSgRiEra5OQrZlnyqXG) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hot Sauce \- The 1st Album](https://open.spotify.com/album/1miTgxRTUje9Jqml1aOSUi) | 3:29 | 2021-05-12 | 2021-05-20 |
@@ -240,7 +241,7 @@
 | [Falling Back](https://open.spotify.com/track/5zyZM1EiSqrniyqtprwxpv) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/2hicq6IKmDsPxZV7fJablX) | 4:26 | 2022-06-18 | 2022-06-23 |
 | [Far](https://open.spotify.com/track/3HxtdKRmw0BNUs4VM7uYvE) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Sticker \- The 3rd Album](https://open.spotify.com/album/6nYbIKGcTmKM5BAlJPPcad) | 3:36 | 2021-09-19 | 2021-09-20 |
 | [Faster](https://open.spotify.com/track/46hCrsB4mC1IWcYOMQqNWA) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [2 Baddies \- The 4th Album](https://open.spotify.com/album/6p80QT3z7kOHpYdnsItQTQ) | 2:50 | 2022-09-17 | 2022-09-19 |
-| [Father](https://open.spotify.com/track/365znJ27Fb3faGsctmQYWR) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [IM HERO](https://open.spotify.com/album/5ITErfEiF1nEo8KTRgLv43) | 3:58 | 2022-07-01 | 2022-09-18 |
+| [Father](https://open.spotify.com/track/365znJ27Fb3faGsctmQYWR) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [IM HERO](https://open.spotify.com/album/5ITErfEiF1nEo8KTRgLv43) | 3:58 | 2022-07-01 |  |
 | [Father](https://open.spotify.com/track/6KCLKs7Annwyp8JIRQ3vzh) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [IM HERO](https://open.spotify.com/album/39cHmgjQ5FDyK6IgpGuMbr) | 3:58 | 2022-05-31 | 2022-07-02 |
 | [Father Time \(feat\. Sampha\)](https://open.spotify.com/track/4xIhSUJantE6BMl3u8dtCJ) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:42 | 2022-05-14 | 2022-05-19 |
 | [Favorite \(Vampire\)](https://open.spotify.com/track/2R8MZR1RCP4cIJITHDPRbY) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Favorite \- The 3rd Album Repackage](https://open.spotify.com/album/5LbnQtyHBfJUCigA08llHX) | 3:35 | 2021-10-27 | 2021-11-28 |
@@ -342,7 +343,7 @@
 | [I LOVE U](https://open.spotify.com/track/02Vb9vfZUmqAKNhQwFjPSZ) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [HOLIDAY](https://open.spotify.com/album/6DuGgrykXd5DVx3aznyYqH) | 2:56 | 2022-07-06 | 2022-07-25 |
 | [I Love You](https://open.spotify.com/track/0ZP5YAuuGXeoMv99yVi0Mw) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [IM HERO](https://open.spotify.com/album/39cHmgjQ5FDyK6IgpGuMbr) | 3:59 | 2022-05-30 | 2022-07-02 |
 | [I Love You](https://open.spotify.com/track/2lsRp40mCRkhqULWdMbOzn) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [IM HERO](https://open.spotify.com/album/5ITErfEiF1nEo8KTRgLv43) | 3:59 | 2022-07-01 |  |
-| [I Missed You](https://open.spotify.com/track/20SIjymeaQNEv0NkPLpa6N) | [WSG WANNABE \(Sa\-Fire\)](https://open.spotify.com/artist/6RbhPRkvqZ4YtziMIUVzeV) | [WSG WANNABE 1st Album](https://open.spotify.com/album/3r8M9Yudjzg4kNR4cThoB9) | 3:27 | 2022-07-13 |  |
+| [I Missed You](https://open.spotify.com/track/20SIjymeaQNEv0NkPLpa6N) | [WSG WANNABE \(Sa\-Fire\)](https://open.spotify.com/artist/6RbhPRkvqZ4YtziMIUVzeV) | [WSG WANNABE 1st Album](https://open.spotify.com/album/3r8M9Yudjzg4kNR4cThoB9) | 3:27 | 2022-07-13 | 2022-09-21 |
 | [i n t e r l u d e](https://open.spotify.com/track/2gyYjQWXKxemhAyMPgctIx) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [i n t e r l u d e](https://open.spotify.com/album/0WvwihMfA5E29MrLyNpJYF) | 2:11 | 2021-05-09 | 2021-05-12 |
 | [i n t e r l u d e](https://open.spotify.com/track/08LwMWf5Tcfsd752EPzFV0) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 2:13 | 2021-05-16 | 2021-05-20 |
 | [I Need U](https://open.spotify.com/track/43qX7PiMfluhGyrJrjcP9p) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [The Best Of BTS \(Korea Edition\)](https://open.spotify.com/album/6IzIrnssfyQVtYZ9RDJfkh) | 3:34 | 2022-06-11 | 2022-06-13 |

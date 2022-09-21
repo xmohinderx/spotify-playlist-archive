@@ -620,6 +620,28 @@
     },
     {
       "album": {
+        "name": "Garden Heart: Reworks",
+        "url": "https://open.spotify.com/album/1TbsrNNEfLDRW6bc2gSsLx"
+      },
+      "artists": [
+        {
+          "name": "We Dream of Eden",
+          "url": "https://open.spotify.com/artist/55dhSq6LQ1N5JlHF5DlbFf"
+        },
+        {
+          "name": "Anita Tatlow",
+          "url": "https://open.spotify.com/artist/4hjXUEgdALesVBGGDx1hKB"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242898,
+      "name": "Hearing the Harvest",
+      "url": "https://open.spotify.com/track/5wReVVGFR9CyeJqVHGjFjV"
+    },
+    {
+      "album": {
         "name": "Hills Of Clarity",
         "url": "https://open.spotify.com/album/4XjkLYSgsglG0yS1MhuzJA"
       },

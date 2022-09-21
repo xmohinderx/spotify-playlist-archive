@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Nosotras s\u00f3lo queremos divertirnos! ",
-  "num_followers": 114787,
+  "num_followers": 114840,
   "original_name": "Noche de Amigas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjQwNTQ0NCwwMDAwMDAwMDI5ZTM2MjNiNjU2MjE5OGI2ZTdiZGEyMGRlMjZlZjhm",
+  "snapshot_id": "MTY2MjQwNTQ0NCwwMDAwMDAwMDcwOTgxYjE0MmI0Y2U0NTQyNDQ5OWY0NDgzNGM2YWU4",
   "tracks": [
     {
       "added_at": "2022-09-05 19:17:24",
@@ -323,26 +323,6 @@
     {
       "added_at": "2022-09-05 19:17:24",
       "album": {
-        "name": "MAMIII",
-        "url": "https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        },
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 226088,
-      "name": "MAMIII",
-      "url": "https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs"
-    },
-    {
-      "added_at": "2022-09-05 19:17:24",
-      "album": {
         "name": "The Motto",
         "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
       },
@@ -359,6 +339,26 @@
       "duration_ms": 164818,
       "name": "The Motto",
       "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
+    },
+    {
+      "added_at": "2022-09-05 19:17:24",
+      "album": {
+        "name": "MAMIII",
+        "url": "https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 226088,
+      "name": "MAMIII",
+      "url": "https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs"
     },
     {
       "added_at": "2022-09-05 19:17:24",
@@ -499,30 +499,6 @@
     {
       "added_at": "2022-09-05 19:17:24",
       "album": {
-        "name": "Pantysito",
-        "url": "https://open.spotify.com/album/1cGXuAtoUe4xzxRHhvxkyW"
-      },
-      "artists": [
-        {
-          "name": "Alejo",
-          "url": "https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        },
-        {
-          "name": "ROBI",
-          "url": "https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc"
-        }
-      ],
-      "duration_ms": 240413,
-      "name": "Pantysito",
-      "url": "https://open.spotify.com/track/4srcMdbm2qzVG98tJajHxp"
-    },
-    {
-      "added_at": "2022-09-05 19:17:24",
-      "album": {
         "name": "Don't Be Shy",
         "url": "https://open.spotify.com/album/2TvfE8CY37OQIPVGcWYpEA"
       },
@@ -563,6 +539,30 @@
     {
       "added_at": "2022-09-05 19:17:24",
       "album": {
+        "name": "Pantysito",
+        "url": "https://open.spotify.com/album/1cGXuAtoUe4xzxRHhvxkyW"
+      },
+      "artists": [
+        {
+          "name": "Alejo",
+          "url": "https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "ROBI",
+          "url": "https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc"
+        }
+      ],
+      "duration_ms": 240413,
+      "name": "Pantysito",
+      "url": "https://open.spotify.com/track/4srcMdbm2qzVG98tJajHxp"
+    },
+    {
+      "added_at": "2022-09-05 19:17:24",
+      "album": {
         "name": "\u00daltima Cena",
         "url": "https://open.spotify.com/album/0W1PJOeAVyvlXNfarlgzw6"
       },
@@ -579,22 +579,6 @@
     {
       "added_at": "2022-09-05 19:17:24",
       "album": {
-        "name": "Fine Line",
-        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 208906,
-      "name": "Golden",
-      "url": "https://open.spotify.com/track/45S5WTQEGOB1VHr1Q4FuPl"
-    },
-    {
-      "added_at": "2022-09-05 19:17:24",
-      "album": {
         "name": "thank u, next",
         "url": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 178626,
       "name": "7 rings",
       "url": "https://open.spotify.com/track/6ocbgoVGwYJhOv1GgI9NsF"
+    },
+    {
+      "added_at": "2022-09-05 19:17:24",
+      "album": {
+        "name": "Fine Line",
+        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 208906,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/45S5WTQEGOB1VHr1Q4FuPl"
     },
     {
       "added_at": "2022-09-05 19:17:24",
@@ -711,6 +711,22 @@
     {
       "added_at": "2022-09-05 19:17:24",
       "album": {
+        "name": "Proof",
+        "url": "https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 164952,
+      "name": "Butter",
+      "url": "https://open.spotify.com/track/6jjYDGxVJsWS0a5wlVF5vS"
+    },
+    {
+      "added_at": "2022-09-05 19:17:24",
+      "album": {
         "name": "Mayor Que Usted",
         "url": "https://open.spotify.com/album/39bS0KqiLzhJvitnTt7Y4W"
       },
@@ -735,30 +751,6 @@
     {
       "added_at": "2022-09-05 19:17:24",
       "album": {
-        "name": "Famouz",
-        "url": "https://open.spotify.com/album/1V9QpD8kjA2iHCElhFGvlo"
-      },
-      "artists": [
-        {
-          "name": "Jhay Cortez",
-          "url": "https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 309120,
-      "name": "No Me Conoce - Remix",
-      "url": "https://open.spotify.com/track/4R8BJggjosTswLxtkw8V7P"
-    },
-    {
-      "added_at": "2022-09-05 19:17:24",
-      "album": {
         "name": "EL \u00daLTIMO TOUR DEL MUNDO",
         "url": "https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW"
       },
@@ -779,18 +771,26 @@
     {
       "added_at": "2022-09-05 19:17:24",
       "album": {
-        "name": "Proof",
-        "url": "https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB"
+        "name": "Famouz",
+        "url": "https://open.spotify.com/album/1V9QpD8kjA2iHCElhFGvlo"
       },
       "artists": [
         {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+          "name": "Jhay Cortez",
+          "url": "https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 164952,
-      "name": "Butter",
-      "url": "https://open.spotify.com/track/6jjYDGxVJsWS0a5wlVF5vS"
+      "duration_ms": 309120,
+      "name": "No Me Conoce - Remix",
+      "url": "https://open.spotify.com/track/4R8BJggjosTswLxtkw8V7P"
     },
     {
       "added_at": "2022-09-05 19:17:24",
@@ -931,30 +931,6 @@
     {
       "added_at": "2022-09-05 19:17:24",
       "album": {
-        "name": "1, 2, 3 (feat. Jason Derulo & De La Ghetto)",
-        "url": "https://open.spotify.com/album/1jHSAfCHKUFx5imuezI7HE"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        },
-        {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
-        },
-        {
-          "name": "De La Ghetto",
-          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
-        }
-      ],
-      "duration_ms": 201526,
-      "name": "1, 2, 3 (feat. Jason Derulo & De La Ghetto)",
-      "url": "https://open.spotify.com/track/4QtiVmuA88tPQiCOHZuQ5b"
-    },
-    {
-      "added_at": "2022-09-05 19:17:24",
-      "album": {
         "name": "Ride It",
         "url": "https://open.spotify.com/album/4zOhjJfe0dwqsNdDYk622E"
       },
@@ -987,6 +963,30 @@
       "duration_ms": 161266,
       "name": "When I\u2019m Gone (with Katy Perry)",
       "url": "https://open.spotify.com/track/5902W4uHWzhtOff1UK7the"
+    },
+    {
+      "added_at": "2022-09-05 19:17:24",
+      "album": {
+        "name": "1, 2, 3 (feat. Jason Derulo & De La Ghetto)",
+        "url": "https://open.spotify.com/album/1jHSAfCHKUFx5imuezI7HE"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        },
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        }
+      ],
+      "duration_ms": 201526,
+      "name": "1, 2, 3 (feat. Jason Derulo & De La Ghetto)",
+      "url": "https://open.spotify.com/track/4QtiVmuA88tPQiCOHZuQ5b"
     },
     {
       "added_at": "2022-09-05 19:17:24",
@@ -1271,22 +1271,18 @@
     {
       "added_at": "2022-09-05 19:17:24",
       "album": {
-        "name": "Mal De Amores",
-        "url": "https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc"
+        "name": "Soy Como Quiero Ser",
+        "url": "https://open.spotify.com/album/2dJCC5WZDKqQbXmUJeLe9Z"
       },
       "artists": [
         {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
         }
       ],
-      "duration_ms": 218800,
-      "name": "Marte",
-      "url": "https://open.spotify.com/track/1uK5rDY3BnikyG0sl3tPpc"
+      "duration_ms": 191973,
+      "name": "Ahora Te Puedes Marchar",
+      "url": "https://open.spotify.com/track/1uKjQoh8JZj9ryuYRhpd7E"
     },
     {
       "added_at": "2022-09-05 19:17:24",
@@ -1311,18 +1307,22 @@
     {
       "added_at": "2022-09-05 19:17:24",
       "album": {
-        "name": "Soy Como Quiero Ser",
-        "url": "https://open.spotify.com/album/2dJCC5WZDKqQbXmUJeLe9Z"
+        "name": "Mal De Amores",
+        "url": "https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc"
       },
       "artists": [
         {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
         }
       ],
-      "duration_ms": 191973,
-      "name": "Ahora Te Puedes Marchar",
-      "url": "https://open.spotify.com/track/1uKjQoh8JZj9ryuYRhpd7E"
+      "duration_ms": 218800,
+      "name": "Marte",
+      "url": "https://open.spotify.com/track/1uK5rDY3BnikyG0sl3tPpc"
     },
     {
       "added_at": "2022-09-05 19:17:24",
@@ -1887,6 +1887,22 @@
     {
       "added_at": "2022-09-05 19:17:24",
       "album": {
+        "name": "\u00bfD\u00f3nde Jugar\u00e1n Los Ni\u00f1os?",
+        "url": "https://open.spotify.com/album/2G0I22upYkTLYxfoAHiwBK"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        }
+      ],
+      "duration_ms": 263306,
+      "name": "Oye Mi Amor",
+      "url": "https://open.spotify.com/track/5EJ2THuhAapEIeQOtXUQ0x"
+    },
+    {
+      "added_at": "2022-09-05 19:17:24",
+      "album": {
         "name": "Portales",
         "url": "https://open.spotify.com/album/5KKcchRuyjfuLkecyRJcWx"
       },
@@ -1903,22 +1919,6 @@
       "duration_ms": 145890,
       "name": "Sex & Love",
       "url": "https://open.spotify.com/track/3ylhgzhvSICQcyv0U3Ozwv"
-    },
-    {
-      "added_at": "2022-09-05 19:17:24",
-      "album": {
-        "name": "\u00bfD\u00f3nde Jugar\u00e1n Los Ni\u00f1os?",
-        "url": "https://open.spotify.com/album/2G0I22upYkTLYxfoAHiwBK"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        }
-      ],
-      "duration_ms": 263306,
-      "name": "Oye Mi Amor",
-      "url": "https://open.spotify.com/track/5EJ2THuhAapEIeQOtXUQ0x"
     },
     {
       "added_at": "2022-09-05 19:17:24",
@@ -2151,6 +2151,26 @@
     {
       "added_at": "2022-09-05 19:17:24",
       "album": {
+        "name": "Portales",
+        "url": "https://open.spotify.com/album/5KKcchRuyjfuLkecyRJcWx"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 222857,
+      "name": "Traductor",
+      "url": "https://open.spotify.com/track/5x17YrAwajDUCqB8zT9ElY"
+    },
+    {
+      "added_at": "2022-09-05 19:17:24",
+      "album": {
         "name": "La Ni\u00f1a",
         "url": "https://open.spotify.com/album/1hFRQRNjiMSWgH5xyEiVme"
       },
@@ -2171,26 +2191,6 @@
       "duration_ms": 204414,
       "name": "La Ni\u00f1a de la Escuela",
       "url": "https://open.spotify.com/track/1g4cZvi0nLeeIycd0Rkljj"
-    },
-    {
-      "added_at": "2022-09-05 19:17:24",
-      "album": {
-        "name": "Portales",
-        "url": "https://open.spotify.com/album/5KKcchRuyjfuLkecyRJcWx"
-      },
-      "artists": [
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 222857,
-      "name": "Traductor",
-      "url": "https://open.spotify.com/track/5x17YrAwajDUCqB8zT9ElY"
     },
     {
       "added_at": "2022-09-05 19:17:24",

@@ -4,7 +4,7 @@
 
 > Soundtrack your cozy dinner with bossa nova jazz.
 
-117 songs - 7 hr 24 min - [published](https://open.spotify.com/playlist/00GgJo3w4SYrEnE4bIAXpT)
+118 songs - 7 hr 28 min - [published](https://open.spotify.com/playlist/00GgJo3w4SYrEnE4bIAXpT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Bossa pro Vanessa](https://open.spotify.com/track/7K8BoUKKY85S0fZTkAa0qN) | [Michel Rosa](https://open.spotify.com/artist/5tGQbvcsEaVXQ5uD7NzfLV) | [Meditação](https://open.spotify.com/album/7uvnQx1Ih6etuDuFLamyzr) | 4:38 | 2022-04-26 |  |
 | [Bésame Mucho](https://open.spotify.com/track/7Kh9w5XOJqykS2IpTdZC8X) | [Cristiana Cunha](https://open.spotify.com/artist/3W5iyQ6JGJHqSgNtq86GrT) | [Bésame Mucho](https://open.spotify.com/album/0XpWh98WxM7rtw67TfHh38) | 3:26 | 2022-04-26 |  |
 | [Búzios](https://open.spotify.com/track/0UvJGzL2FdEu5Mh37HtQrP) | [C\. Moreira](https://open.spotify.com/artist/3k0cZx5vqDLFwJFYJwbD02) | [Praia à noite](https://open.spotify.com/album/2qGrmHUuZHRkayn9YdZxH7) | 4:44 | 2022-04-26 |  |
+| [Can't Help Falling in Love](https://open.spotify.com/track/1syEcdkRqqRFnhrHeA1zFb) | [Leandro Amor Trio](https://open.spotify.com/artist/4S4flqSBJsefHltJ4wZXEZ) | [Can't Help Falling in Love](https://open.spotify.com/album/7BPyCsw6Aj8iieaIYi9tNx) | 4:15 | 2022-09-20 |  |
 | [Cape Cod Stargazing](https://open.spotify.com/track/10U4uhGvjy4Sai2Hfkzuh6) | [Kristofer Gaston](https://open.spotify.com/artist/7DEnJ0qtVh5RPyWW6eC7rC) | [Introducing](https://open.spotify.com/album/4QvzDLq0wD993COTRQcxi2) | 4:38 | 2022-04-26 |  |
 | [Cascata](https://open.spotify.com/track/38QZjaaJwTLwEpSjF5nVXY) | [Paulo Lucas](https://open.spotify.com/artist/6ojxO4yKau2YGdnIZOBwzV) | [Samba Rio](https://open.spotify.com/album/4hivZfrUKVeLoNMKDTGfoG) | 3:40 | 2022-04-26 |  |
 | [Ceora](https://open.spotify.com/track/56IjzoxiY9gC58xawVkMiI) | [Andreas Gidlund Five](https://open.spotify.com/artist/77TUX9u0E5esyWr95Iwdg6) | [Standard Deviations](https://open.spotify.com/album/6LEFehuSSQhReDOW9udTcf) | 4:08 | 2022-04-26 |  |
@@ -64,7 +65,7 @@
 | [Gringo na Lapa](https://open.spotify.com/track/2gyJ9qVNvQ01qnIXGqqJ27) | [Samuel Furtado](https://open.spotify.com/artist/0ovOJBn9DrE5qU4THpWpsx) | [Gringo na Lapa](https://open.spotify.com/album/29r2JdeDoQkiSm3yfBXT96) | 4:32 | 2022-04-26 |  |
 | [Half The Perfect World](https://open.spotify.com/track/2Lpy3EwCxTCDnpSoraugYc) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [Half The Perfect World](https://open.spotify.com/album/6krx8ZgiDPDVTKDoZGwevx) | 4:21 | 2022-06-28 |  |
 | [Half The Perfect World](https://open.spotify.com/track/3lkbJzh2kPBJHuuYKF48Qs) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [Keep Me In Your Heart For A While: The Best Of Madeleine Peyroux \(International Edition\)](https://open.spotify.com/album/4pkakYztIDn7LnsuNIGz4m) | 4:22 | 2022-04-26 | 2022-07-29 |
-| [Happy](https://open.spotify.com/track/3VoamGkXelS0NOIVm1BBJg) | [Flora Martínez](https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ) | [Flora](https://open.spotify.com/album/0lVw3DmkHCtxL9iIzWmgOK) | 3:27 | 2022-04-26 |  |
+| [Happy](https://open.spotify.com/track/3VoamGkXelS0NOIVm1BBJg) | [Flora Martínez](https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ) | [Flora](https://open.spotify.com/album/0lVw3DmkHCtxL9iIzWmgOK) | 3:27 | 2022-04-26 | 2022-09-21 |
 | [Hermana](https://open.spotify.com/track/5JR2HVcJoTWsk7ekHMd5RM) | [Burt Mitchell](https://open.spotify.com/artist/5Wj6zFHgENkOCOMh4ZwGX0) | [The Getaway](https://open.spotify.com/album/140DzepgudObqMe1uv4W1f) | 4:33 | 2022-04-26 |  |
 | [how insensitive](https://open.spotify.com/track/3NfjsizJtx8XWnmsZxOohA) | [Clube no norte](https://open.spotify.com/artist/18eKmZOA1BvY1sBLnvKNHH) | [Dindi](https://open.spotify.com/album/4knjVWNKQlrrsXpfPImum0) | 3:50 | 2022-04-26 |  |
 | [How Insensitive](https://open.spotify.com/track/4U8uDeTOVWCNtMLNjrQo6N) | [Ivo Rio Band](https://open.spotify.com/artist/5ZIDWGBTOxrUE0Dd9qiUiv) | [Triste](https://open.spotify.com/album/7vfuRG7S9K0VJczr3L7CNO) | 4:15 | 2022-04-26 |  |
@@ -112,7 +113,7 @@
 | [Só Tinha de Ser com Você](https://open.spotify.com/track/5KrmPhZXWsrn1xVey30806) | [Joao Silva Oliveira](https://open.spotify.com/artist/2H9tPIniwpdz9EvKYvRKFq) | [Só Tinha de Ser com Você](https://open.spotify.com/album/7nUM7a3z2pGH5pII2MEy8n) | 3:58 | 2022-04-26 |  |
 | [Tarde em Itapuã](https://open.spotify.com/track/5oILG8hfyokZbO59nOxcnx) | [Frederico Celso Band](https://open.spotify.com/artist/3iw73fZoyRoKWzjQVQ4CXg) | [Influência do Jazz](https://open.spotify.com/album/1kB4apYNRQwemxZWVNCshQ) | 3:48 | 2022-04-26 |  |
 | [The Dolphin](https://open.spotify.com/track/7gbC3OMRW5bU92Y6cC3D2X) | [A Porta Verde](https://open.spotify.com/artist/27aYrXW0IugIDBHd1Ic652) | [Maçã](https://open.spotify.com/album/3Zvm1Dciwe02rIEqEOf6CZ) | 4:50 | 2022-04-26 |  |
-| [The Look Of Love](https://open.spotify.com/track/3CDHydgW0ssTh59f0jy1y3) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [The Look Of Love](https://open.spotify.com/album/4nmjBh2Td9I9x9JDncrQr3) | 4:42 | 2022-04-26 |  |
+| [The Look Of Love](https://open.spotify.com/track/3CDHydgW0ssTh59f0jy1y3) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [The Look Of Love](https://open.spotify.com/album/4nmjBh2Td9I9x9JDncrQr3) | 4:42 | 2022-04-26 | 2022-09-21 |
 | [The Shadow of Your Smile](https://open.spotify.com/track/7CkCIrM9MwcHjlp7DgeS73) | [Moonlight Jazz Trio](https://open.spotify.com/artist/6PQAkc79UJ2ngAy9uX7wbD) | [The Shadow Of Your Smile](https://open.spotify.com/album/5zH20F8OMipTtIaGPZwExZ) | 3:52 | 2022-04-26 |  |
 | [Time Passing Slowly](https://open.spotify.com/track/1uEOB09ZF3Xt3WmtbneqMf) | [Southside Trio](https://open.spotify.com/artist/2XVJkKNBPA834yV4NKISBw) | [Time Passing Slowly](https://open.spotify.com/album/2UFNvSBbtLOxzaFXxNoeKv) | 3:38 | 2022-08-10 |  |
 | [Triste](https://open.spotify.com/track/6PNnw3AFDCwNV6uDcNjnQ4) | [da Suécia](https://open.spotify.com/artist/4oOtPyWe8TK5mn4gKJDNse) | [Triste](https://open.spotify.com/album/1cWLEhykpxcgb1QABboKt1) | 3:12 | 2022-04-26 |  |

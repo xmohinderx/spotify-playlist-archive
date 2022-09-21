@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LDIBRoaCDQ.md) - [plain]
 
 > Classic songs that built the foundations of punk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,422,787 likes - 100 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,423,060 likes - 100 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LDIBRoaCDQ.md) - [plain]
 | 27 | [Add It Up](https://open.spotify.com/track/61QW3AcU1jm5ttPOn8eZhn) | [Violent Femmes](https://open.spotify.com/artist/0rpMdBzQXf7aYRnu5fDBJy) | [Violent Femmes](https://open.spotify.com/album/0Ojio25IPzIrw1rUmgrhrG) | 4:44 |
 | 28 | [Anarchy in the U.K.](https://open.spotify.com/track/3LoDeIbiR12sAznmpNEmKA) | [Sex Pistols](https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR) | [Never Mind The Bollocks, Here's The Sex Pistols](https://open.spotify.com/album/5fxYu3rqjCNTSPKN8mtEl2) | 3:31 |
 | 29 | [Maxwell Murder](https://open.spotify.com/track/0vNGbGK1pl5SrV6SHUh06H) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [...And Out Come The Wolves](https://open.spotify.com/album/1HisV3ZKLs9It3KlGcPki5) | 1:25 |
-| 30 | [Uncontrollable Urge](https://open.spotify.com/track/1RG1Pz45nlYNHka7JioyOT) | [DEVO](https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3) | [Q: Are We Not Men? A: We Are Devo!](https://open.spotify.com/album/1u2Qni8cVRptDTaA00fmBC) | 3:11 |
-| 31 | [Alternative Ulster](https://open.spotify.com/track/2yE3bwbhqypdsuhmv48Svn) | [Stiff Little Fingers](https://open.spotify.com/artist/2bt3I0VkmYuPvP57sxokab) | [Inflammable Material](https://open.spotify.com/album/2uXYm7SqdQlOgrx2FEWlkD) | 2:43 |
+| 30 | [Alternative Ulster](https://open.spotify.com/track/2yE3bwbhqypdsuhmv48Svn) | [Stiff Little Fingers](https://open.spotify.com/artist/2bt3I0VkmYuPvP57sxokab) | [Inflammable Material](https://open.spotify.com/album/2uXYm7SqdQlOgrx2FEWlkD) | 2:43 |
+| 31 | [Uncontrollable Urge](https://open.spotify.com/track/1RG1Pz45nlYNHka7JioyOT) | [DEVO](https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3) | [Q: Are We Not Men? A: We Are Devo!](https://open.spotify.com/album/1u2Qni8cVRptDTaA00fmBC) | 3:11 |
 | 32 | [Happy House](https://open.spotify.com/track/09LikVa6VgPYcsChqn1N0U) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Kaleidoscope \(Remastered & Expanded\)](https://open.spotify.com/album/5jynqY8ZyDoeqrIfYSwF8P) | 3:51 |
 | 33 | [Marquee Moon](https://open.spotify.com/track/7Me0vOSlJfaPY7Pc4GeItd) | [Television](https://open.spotify.com/artist/0S7Zur2g8YhqlzqtlYStli) | [Marquee Moon](https://open.spotify.com/album/630o1rKTDsLeIPreOY1jqP) | 10:38 |
 | 34 | [Rise Above](https://open.spotify.com/track/4kFfFe38CRVnTsakUTL4E4) | [Black Flag](https://open.spotify.com/artist/5Mhs3Eu8lU6sRCtRYsmABV) | [Damaged](https://open.spotify.com/album/34aFnrFRBlErcbU6moRZR3) | 2:26 |
@@ -54,12 +54,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LDIBRoaCDQ.md) - [plain]
 | 44 | [Banned in D.C.](https://open.spotify.com/track/0YnP5BtP6lTwQV8gLOzaov) | [Bad Brains](https://open.spotify.com/artist/1oVj9JmPUPg4SQ2uerV2xc) | [Bad Brains](https://open.spotify.com/album/4NpepcKo9rQ8nkdCB6iWMP) | 2:12 |
 | 45 | [Bad Mouth](https://open.spotify.com/track/1MkqBhP5byDttRYtZsDC6p) | [Fugazi](https://open.spotify.com/artist/62sC6lUEWRjbFqXpMmOk4G) | [13 Songs](https://open.spotify.com/album/1FcRwT7uoNdO8L9wbYsfAY) | 2:35 |
 | 46 | [Corona](https://open.spotify.com/track/2LUVo82IKIpCuBNSaqF0G8) | [Minutemen](https://open.spotify.com/artist/0z6zRFzl5njXWLVAisXQBz) | [Double Nickels on the Dime](https://open.spotify.com/album/5viZ5HyYtV0wafK7DoXmgF) | 2:25 |
-| 47 | [Gloria: In Excelsis Deo](https://open.spotify.com/track/272Z4tzaSMMcgrZ0R494S2) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Horses \(Legacy Edition\)](https://open.spotify.com/album/7xg7u99lilTCPbaRfnYuy6) | 5:54 |
-| 48 | [Damaged Goods](https://open.spotify.com/track/0Nn4RrvVfwSSLDvkhdRc1n) | [Gang Of Four](https://open.spotify.com/artist/3AmWjMXXtBJOmNGpUFSOAl) | [Entertainment!](https://open.spotify.com/album/7LMOo068Ndv0wjTGUDtYqK) | 3:26 |
+| 47 | [Damaged Goods](https://open.spotify.com/track/0Nn4RrvVfwSSLDvkhdRc1n) | [Gang Of Four](https://open.spotify.com/artist/3AmWjMXXtBJOmNGpUFSOAl) | [Entertainment!](https://open.spotify.com/album/7LMOo068Ndv0wjTGUDtYqK) | 3:26 |
+| 48 | [Gloria: In Excelsis Deo](https://open.spotify.com/track/272Z4tzaSMMcgrZ0R494S2) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Horses \(Legacy Edition\)](https://open.spotify.com/album/7xg7u99lilTCPbaRfnYuy6) | 5:54 |
 | 49 | [Blank Generation \- 2013 Remaster](https://open.spotify.com/track/5OGfBbWmRRkDiZiJbu5WIr) | [Richard Hell](https://open.spotify.com/artist/121Q6oslYCMBYZHhOFL1RB) | [Spurts: The Richard Hell Story \(2013 Remaster\)](https://open.spotify.com/album/0nejx6WUKHja3fesKClRCF) | 2:47 |
 | 50 | [Hope](https://open.spotify.com/track/5Jd6yfhjjmDxODdvYTjscz) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Milo Goes to College](https://open.spotify.com/album/7ap2sARnQnkhfbUxYIEcu8) | 2:00 |
-| 51 | [Knowledge \- 2007 Remaster](https://open.spotify.com/track/4rpfA2rFOC7FMGxFNktB0i) | [Operation Ivy](https://open.spotify.com/artist/18XRGxd1b484f2h06cwvJJ) | [Operation Ivy \(2007 Remaster\)](https://open.spotify.com/album/2Rv1kIWFeIYeq8kAtdhY6m) | 1:42 |
-| 52 | [No Control](https://open.spotify.com/track/0gbrepTKKXEYFQJ6tNCbid) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [No Control](https://open.spotify.com/album/3efgo1fUo21py17Z7jGsle) | 1:46 |
+| 51 | [No Control](https://open.spotify.com/track/0gbrepTKKXEYFQJ6tNCbid) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [No Control](https://open.spotify.com/album/3efgo1fUo21py17Z7jGsle) | 1:46 |
+| 52 | [Knowledge \- 2007 Remaster](https://open.spotify.com/track/4rpfA2rFOC7FMGxFNktB0i) | [Operation Ivy](https://open.spotify.com/artist/18XRGxd1b484f2h06cwvJJ) | [Operation Ivy \(2007 Remaster\)](https://open.spotify.com/album/2Rv1kIWFeIYeq8kAtdhY6m) | 1:42 |
 | 53 | [Trash](https://open.spotify.com/track/2OQS3xvoKKSayJMJT8dVuZ) | [New York Dolls](https://open.spotify.com/artist/0WhGV9lzljq2QKJ8ipw6jx) | [New York Dolls](https://open.spotify.com/album/2xbTV0Awe4Qm5caUVuPbMr) | 3:08 |
 | 54 | [Wild in the Streets](https://open.spotify.com/track/4BZLAm5rqqChHZlBlHuSMV) | [Circle Jerks](https://open.spotify.com/artist/4ubY8RYfXkcEqgjEMDuLYl) | [Wild in the Streets](https://open.spotify.com/album/1LaoxOUvYzBdQleyW03Keh) | 2:35 |
 | 55 | [Sonic Reducer](https://open.spotify.com/track/678Fh7cIfN1sLqxsj5sc2G) | [Dead Boys](https://open.spotify.com/artist/4RjtLUZNqLtMpRKIOaVokc) | [Young, Loud And Snotty](https://open.spotify.com/album/6SiRxD9eeJELm4TR8C6MDJ) | 3:09 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LDIBRoaCDQ.md) - [plain]
 | 97 | [Search and Destroy \- Bowie Mix](https://open.spotify.com/track/4vhTm7eeqJAW4Iq3grUutI) | [The Stooges](https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3) | [Raw Power \(Legacy Edition\)](https://open.spotify.com/album/6vHqopioDuXtXTDoJhQZls) | 3:26 |
 | 98 | [The Modern World](https://open.spotify.com/track/1pXXriSh4lpOKFqsAWVdHe) | [The Jam](https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR) | [This Is The Modern World](https://open.spotify.com/album/1ofMLjpy6bhkxpOcD5y436) | 2:30 |
 | 99 | [Anarchy Burger \(Hold the Government\)](https://open.spotify.com/track/6rbCaKnfikjHo6RxEDAre9) | [The Vandals](https://open.spotify.com/artist/4AqIRTZF6DDmKmdorgFug6) | [Peace Thru Vandalism](https://open.spotify.com/album/6MMGc0FA5Kwm8TsiJBx31L) | 1:54 |
-| 100 | [\(You're A\) Go Nowhere](https://open.spotify.com/track/4e86fqSFhqRQk3Z9hm7XHt) | [Reagan Youth](https://open.spotify.com/artist/5105k1OIV9BdhuB3rxtHYb) | [A Collection of Pop Classics](https://open.spotify.com/album/3sLKWvosxuEgY4lHkdSDcJ) | 1:22 |
+| 100 | [Dean's Dream](https://open.spotify.com/track/4Kf80JwKZcrHE0jJQKuH0e) | [The Dead Milkmen](https://open.spotify.com/artist/2fhngmJMaaKcdhXHCa4cPK) | [Death Rides A Pale Cow: The Ultimate Collection](https://open.spotify.com/album/2ZNb1MUe50ckOcSe9TQOQz) | 1:47 |
 
-Snapshot ID: `MTY2MzE2MDQwMCwwMDAwMDAwMDlhZDJkY2JlNDQ5NGM2OWQ0NjA3YWU3ZGFjNzA5NDNi`
+Snapshot ID: `MTY2MzE2MDQwMCwwMDAwMDAwMDA3YmI0NjQ2MDZkZWI1YjQ2MmUwMGI2ZjVkYWEzNjM5`

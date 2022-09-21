@@ -1,12 +1,12 @@
 {
   "description": "Classic songs from the Blues songbook. Cover: Muddy Waters.",
-  "num_followers": 30699,
+  "num_followers": 30763,
   "original_name": "Blues Standards",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzAwMDc1MCwwMDAwMDAwMDE2ZTU4NTFkZTVjZmJmZGY0ZjM1Nzc5NTllN2EzYTg4",
+  "snapshot_id": "MTY2MzAwMDc1MCwwMDAwMDAwMDVkNjczMDk1MDE4YjliYjhlYWI4YWRkNmE4ZjVlMDhh",
   "tracks": [
     {
       "added_at": "2022-09-12 16:39:10",
@@ -699,22 +699,18 @@
     {
       "added_at": "2022-09-12 16:39:10",
       "album": {
-        "name": "The Best In Blues",
-        "url": "https://open.spotify.com/album/0IzjqAWaM8TMApaEsHK3ap"
+        "name": "Blues With A Feeling",
+        "url": "https://open.spotify.com/album/7l6XVI97Qxjt0KPJEiYFjB"
       },
       "artists": [
         {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
-        },
-        {
-          "name": "Ben Webster",
-          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
         }
       ],
-      "duration_ms": 173160,
-      "name": "Trouble In Mind",
-      "url": "https://open.spotify.com/track/5PQAAHui3NDnxW1wm7blIz"
+      "duration_ms": 225733,
+      "name": "(You've Got To) Love Her With A Feeling",
+      "url": "https://open.spotify.com/track/1lEbKg3mNA97wDSAXj2xsY"
     },
     {
       "added_at": "2022-09-12 16:39:10",
@@ -751,18 +747,22 @@
     {
       "added_at": "2022-09-12 16:39:10",
       "album": {
-        "name": "Blues With A Feeling",
-        "url": "https://open.spotify.com/album/7l6XVI97Qxjt0KPJEiYFjB"
+        "name": "The Best In Blues",
+        "url": "https://open.spotify.com/album/0IzjqAWaM8TMApaEsHK3ap"
       },
       "artists": [
         {
-          "name": "Taj Mahal",
-          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+        },
+        {
+          "name": "Ben Webster",
+          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
         }
       ],
-      "duration_ms": 225733,
-      "name": "(You've Got To) Love Her With A Feeling",
-      "url": "https://open.spotify.com/track/1lEbKg3mNA97wDSAXj2xsY"
+      "duration_ms": 173160,
+      "name": "Trouble In Mind",
+      "url": "https://open.spotify.com/track/5PQAAHui3NDnxW1wm7blIz"
     },
     {
       "added_at": "2022-09-12 16:39:10",

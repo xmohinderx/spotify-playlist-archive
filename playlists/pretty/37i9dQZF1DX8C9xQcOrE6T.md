@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C9xQcOrE6T.md) - [plain]
 
 ### [Disney Hits](https://open.spotify.com/playlist/37i9dQZF1DX8C9xQcOrE6T)
 
-> All of your favorite Disney hits, including songs from Moana\. Stream Moana on Disney+.
+> All of your favorite Disney hits, including songs from Encanto\. Stream Encanto on Disney+.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,567,825 likes - 113 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,569,338 likes - 113 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C9xQcOrE6T.md) - [plain]
 | 112 | [Zero \- From the Original Motion Picture "Ralph Breaks The Internet"](https://open.spotify.com/track/2bzitsPcImYC6DZWvvLCQi) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Origins \(Deluxe\)](https://open.spotify.com/album/3JfSxDfmwS5OeHPwLSkrfr) | 3:30 |
 | 113 | [A Spoonful of Sugar \- From "Mary Poppins" / Soundtrack Version](https://open.spotify.com/track/29bQPrp6BT0w3kaXTqIo8A) | [Julie Andrews](https://open.spotify.com/artist/5RdqZVi36tpDPYNPw8jJbO) | [Mary Poppins](https://open.spotify.com/album/4I53uIfFAiQPKjXFNN2k4d) | 4:09 |
 
-Snapshot ID: `MTY2MjY0MDgxMiwwMDAwMDAwMDVmNTg4YzBlMGQzOWUwZmJjNjcxYWJhNjdhM2UzMzEy`
+Snapshot ID: `MTY2MzcwMDQwMCwwMDAwMDAwMGY3MzdmZWIzMDNkN2QxODU0Yzc2NTNjMjVjZDk1N2Fl`

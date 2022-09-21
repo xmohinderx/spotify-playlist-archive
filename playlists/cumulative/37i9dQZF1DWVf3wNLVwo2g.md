@@ -4,7 +4,7 @@
 
 > Powerful female voices, like you've never heard before\.  Cover: Brittany Howard, Phoebe Bridgers and Ingrid Andress.
 
-247 songs - 15 hr 3 min - [published](https://open.spotify.com/playlist/0WMCCWL4CLeFX6c5BLa8on)
+248 songs - 15 hr 5 min - [published](https://open.spotify.com/playlist/0WMCCWL4CLeFX6c5BLa8on)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,7 +137,7 @@
 | [Lost In Japan \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/2Q1f6exzZ9iYrv4IICnzVx) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Spotify Singles](https://open.spotify.com/album/0FbO77jrZy4CcXbtR0hqIE) | 3:19 | 2021-09-14 |  |
 | [LOVE IN THE DARK \- Recorded at East West Studios, LA](https://open.spotify.com/track/1qBT1qIyGu3jFTjF6dEqIb) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Spotify Singles](https://open.spotify.com/album/2ceL7dMRViacYhqhPGQRLM) | 3:34 | 2021-09-14 |  |
 | [Love So Soft \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6rz4aPhhNM6PFh3Ar2n07X) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Spotify Singles](https://open.spotify.com/album/3NSkcqmYRTEb2sPICYWT1T) | 2:54 | 2021-09-14 |  |
-| [Loyal \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/19eEtZaPGKHayTsxWRkhoc) | [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa) | [Spotify Singles](https://open.spotify.com/album/1k0gFBFXElnx6DJhcLKmYb) | 3:44 | 2021-09-14 |  |
+| [Loyal \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/19eEtZaPGKHayTsxWRkhoc) | [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa) | [Spotify Singles](https://open.spotify.com/album/1k0gFBFXElnx6DJhcLKmYb) | 3:44 | 2021-09-14 | 2022-09-21 |
 | [Loyal to Me \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/6Y1WpXQywt8Fg7MfahslyC) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Spotify Singles](https://open.spotify.com/album/0AsNH8uuIf5hLbreW4zQSc) | 3:27 | 2021-09-14 |  |
 | [Mad World \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/1B8C0h5Y8MRvzK7j17BODg) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Spotify Singles](https://open.spotify.com/album/3SkXoYr84jE1JzWxc0yXcJ) | 2:53 | 2021-09-14 |  |
 | [Maps \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/1eHbFX3dETUPt5oSzgmQDF) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Spotify Singles \(Recorded At Spotify Studios NYC\)](https://open.spotify.com/album/2G0u5GF3ShGtNqpsrdPzcY) | 3:24 | 2021-09-14 |  |
@@ -222,6 +222,7 @@
 | [Touch \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7d6W6Tn71IWbxe1K5oU808) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Spotify Singles](https://open.spotify.com/album/3cDwvU7X1BPyCz3kiukZNj) | 3:26 | 2021-09-14 |  |
 | [Trouble \- Spotify Singles](https://open.spotify.com/track/5i5zn4un7FhVeNYiGNnLDA) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Michael Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Alicai Harley](https://open.spotify.com/artist/4HIgMgldxGG0v8nSDWJrnh) | [Trouble \- Spotify Singles](https://open.spotify.com/album/2m0Xqa3n7iERLXzSMUchf8) | 2:50 | 2021-09-14 |  |
 | [U Got It Bad \- Recorded at Spotify Studios Stockholm](https://open.spotify.com/track/4Dg5moVCTqxAb7Wr8Dq2T5) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Spotify Singles](https://open.spotify.com/album/7tkiGumdgkSm8gpsBmGDbe) | 4:28 | 2021-09-14 |  |
+| [Uh Huh](https://open.spotify.com/track/1VLCczBRQRpFycuQ4Ce90i) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Spotify Singles](https://open.spotify.com/album/6V7AG2aBNQRSA494JhP63y) | 2:09 | 2022-03-08 |  |
 | [Uh Huh](https://open.spotify.com/track/3XyH9KaMqaWYYd7GSjiQc6) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Spotify Singles](https://open.spotify.com/album/1GtYk8YLg1YFHUf9g3AqT1) | 2:09 | 2022-03-08 | 2022-09-15 |
 | [Uh Huh \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/0BgN8OKw1OfbpKSSNI9C2L) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Spotify Singles](https://open.spotify.com/album/0NiTGXkQbHfTIoS0Uc7OQn) | 2:09 | 2021-09-14 | 2022-07-29 |
 | [Unconditional Love](https://open.spotify.com/track/3fKqsgKDop6bnLdpDiGXOy) | [Esperanza Spalding](https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5) | [Spotify Singles](https://open.spotify.com/album/3iLgafL3t8zorpB18bKfzF) | 9:08 | 2021-09-14 | 2022-07-29 |

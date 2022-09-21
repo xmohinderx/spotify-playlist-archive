@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97h7ftpNSYT.md) - [plain]
 
 > Taking it back to the 2010s\. Cover: PnB Rock
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,774 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,017 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97h7ftpNSYT.md) - [plain]
 | 85 | [Who Dat Boy \(feat\. A$AP Rocky\)](https://open.spotify.com/track/21yRtB6B8EMounImAfHRCP) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Flower Boy](https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o) | 3:25 |
 | 86 | [Outside Today](https://open.spotify.com/track/3sA7HKGzcKTVscdiTCrWpX) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Until Death Call My Name \(Reloaded\)](https://open.spotify.com/album/1xFoRn9DxZXwPjEdGnw800) | 2:09 |
 | 87 | [Tiimmy Turner](https://open.spotify.com/track/3NJG6vMH1ZsectZkocMEm0) | [Desiigner](https://open.spotify.com/artist/7pFeBzX627ff0VnN6bxPR4) | [Tiimmy Turner](https://open.spotify.com/album/7zf9kyxc3ZhJv79HrjTRir) | 3:59 |
-| 88 | [Uproar](https://open.spotify.com/track/3wScL5W8H40zzCKN0atfBk) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Swizz Beatz](https://open.spotify.com/artist/2cADQgiLMjNhbsfeN52Bf3) | [Tha Carter V](https://open.spotify.com/album/50yFYgKdwJANZ5O9MIbMkg) | 3:14 |
-| 89 | [BLEACH](https://open.spotify.com/track/0dWOFwdXrbBUYqD9DLsoyK) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [SATURATION III](https://open.spotify.com/album/5c2AzoNyr46fCQM5d8mxE0) | 4:33 |
+| 88 | [BLEACH](https://open.spotify.com/track/0dWOFwdXrbBUYqD9DLsoyK) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [SATURATION III](https://open.spotify.com/album/5c2AzoNyr46fCQM5d8mxE0) | 4:33 |
+| 89 | [Uproar](https://open.spotify.com/track/3wScL5W8H40zzCKN0atfBk) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Swizz Beatz](https://open.spotify.com/artist/2cADQgiLMjNhbsfeN52Bf3) | [Tha Carter V](https://open.spotify.com/album/50yFYgKdwJANZ5O9MIbMkg) | 3:14 |
 | 90 | [Act Up](https://open.spotify.com/track/3A2yGHWIzmGEIolwonU69h) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Girl Code](https://open.spotify.com/album/6zzs0HMzEPRotJaEJe8uwJ) | 2:38 |
 | 91 | [Dark Knight Dummo \(Feat\. Travis Scott\)](https://open.spotify.com/track/3YeJXuRSNS5FYwOsDu44kD) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Dark Knight Dummo \(Feat\. Travis Scott\)](https://open.spotify.com/album/0D2ArJUb7VQ2tVmsHZohUZ) | 4:16 |
 | 92 | [Who Do You Love?](https://open.spotify.com/track/7ngdkrVQPgP3AoIxUrTpHT) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [My Krazy Life](https://open.spotify.com/album/6HzHon4QSFPGPFIjjlZN0n) | 3:53 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97h7ftpNSYT.md) - [plain]
 | 99 | [Broccoli](https://open.spotify.com/track/0qy5D3OJre7SPJNMOL9I71) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Broccoli](https://open.spotify.com/album/4mchkmnzdTYIEAnw2FijA3) | 3:45 |
 | 100 | [Fight Night](https://open.spotify.com/track/6Xa2q0dapj03CsRzmD0Os5) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [No Label II](https://open.spotify.com/album/1NIzKm1DqvComMoEF1FZPQ) | 3:36 |
 
-Snapshot ID: `MTY2MzA5NDIzMywwMDAwMDAwMDIyZGQyMjc5NTQ5Njk4YTllZGY5MmE2MGVhMzhjYzM1`
+Snapshot ID: `MTY2MzA5NDIzMywwMDAwMDAwMDJiNjY2NzY2YjIyZjI0YjU5YmMxNTQ0MTRkZmNlYzlk`

@@ -1,12 +1,12 @@
 {
   "description": "It's all about the girls tonight.",
-  "num_followers": 2735949,
+  "num_followers": 2736346,
   "original_name": "Girls' Night",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjYyNjUyMCwwMDAwMDAwMDY0Mjc0NGU1ZmEzY2EwMTg3NWVkNmEzYzU1ZDYyMDRj",
+  "snapshot_id": "MTY1NjYyNjUyMCwwMDAwMDAwMGU4OGI2YjE2ZmY1MzBjYjc0ZGYxOTRhM2RkM2JhODk5",
   "tracks": [
     {
       "added_at": "2022-06-30 22:02:00",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2022-06-30 22:02:00",
       "album": {
+        "name": "PRISM",
+        "url": "https://open.spotify.com/album/3jB9yFDwRe3KhtGnHXJntk"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 223546,
+      "name": "Roar",
+      "url": "https://open.spotify.com/track/27tNWlhdAryQY04Gb2ZhUI"
+    },
+    {
+      "added_at": "2022-06-30 22:02:00",
+      "album": {
         "name": "Higher Love",
         "url": "https://open.spotify.com/album/4wquJImu8RtyEuDtIAsfcE"
       },
@@ -1275,22 +1291,6 @@
       "duration_ms": 228267,
       "name": "Higher Love",
       "url": "https://open.spotify.com/track/6oJ6le65B3SEqPwMRNXWjY"
-    },
-    {
-      "added_at": "2022-06-30 22:02:00",
-      "album": {
-        "name": "PRISM",
-        "url": "https://open.spotify.com/album/3jB9yFDwRe3KhtGnHXJntk"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 223546,
-      "name": "Roar",
-      "url": "https://open.spotify.com/track/27tNWlhdAryQY04Gb2ZhUI"
     },
     {
       "added_at": "2022-06-30 22:02:00",
@@ -1399,6 +1399,30 @@
     {
       "added_at": "2022-06-30 22:02:00",
       "album": {
+        "name": "Promises (with Sam Smith)",
+        "url": "https://open.spotify.com/album/2tpWgbBdzjkaJVJzR4T8y1"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        }
+      ],
+      "duration_ms": 213309,
+      "name": "Promises (with Sam Smith)",
+      "url": "https://open.spotify.com/track/5N5k9nd479b1xpDZ4usjrg"
+    },
+    {
+      "added_at": "2022-06-30 22:02:00",
+      "album": {
         "name": "Taki Taki (with Selena Gomez, Ozuna & Cardi B)",
         "url": "https://open.spotify.com/album/0ZHyvPke0EcVt6rYA8Ins3"
       },
@@ -1423,30 +1447,6 @@
       "duration_ms": 212500,
       "name": "Taki Taki (with Selena Gomez, Ozuna & Cardi B)",
       "url": "https://open.spotify.com/track/4w8niZpiMy6qz1mntFA5uM"
-    },
-    {
-      "added_at": "2022-06-30 22:02:00",
-      "album": {
-        "name": "Promises (with Sam Smith)",
-        "url": "https://open.spotify.com/album/2tpWgbBdzjkaJVJzR4T8y1"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        },
-        {
-          "name": "Jessie Reyez",
-          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
-        }
-      ],
-      "duration_ms": 213309,
-      "name": "Promises (with Sam Smith)",
-      "url": "https://open.spotify.com/track/5N5k9nd479b1xpDZ4usjrg"
     }
   ],
   "unique_name": "Girls' Night",

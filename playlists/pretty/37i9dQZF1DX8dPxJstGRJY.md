@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dPxJstGRJY.md) - [plain]
 
 > Pop classics and show tunes, sung by legendary classical voices\. Cover: Andrea Bocelli
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,178 likes - 51 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,406 likes - 51 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dPxJstGRJY.md) - [plain]
 | 21 | [When You Wish Upon A Star](https://open.spotify.com/track/1fb6MBRagJq42pzMMFYhHf) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Pinocchio \(Original Soundtrack\)](https://open.spotify.com/album/6SUPM4fZiV55quCRQKOtYL) | 1:57 |
 | 22 | [Barcarolle \(from The Tales of Hoffman\)](https://open.spotify.com/track/0QesxIlKPMUvRlsUeAdRat) | [All Angels](https://open.spotify.com/artist/1nlqYzoK1LAlS8MmnUhfEs) | [All Angels](https://open.spotify.com/album/5sexUfmKMDnvVrvdwIf4jT) | 3:25 |
 | 23 | [Bring Him Home \- From "Les Misérables"](https://open.spotify.com/track/6vb1E9HQ9V0vqxUaiGmgej) | [Alfie Boe](https://open.spotify.com/artist/3g5gwhWAPLq8MyUcUIsA8j), [Danish National Chamber Orchestra](https://open.spotify.com/artist/5tqGSxgUWgnJf09eOwCvEz), [James Morgan](https://open.spotify.com/artist/7mC0zQ4J4cJPNGYFlmiQVC) | [Bring Him Home](https://open.spotify.com/album/50c1kQsjZ7RWsIHvq1wxPl) | 3:40 |
-| 24 | [Send in the Clowns \(From "A Little Night Music"\)](https://open.spotify.com/track/60rwCozHI55tnHCZHI8bJ2) | [Leonard Bernstein](https://open.spotify.com/artist/2LmyJyCF5V1eQyvHgJNbTn), [Natalie Dessay](https://open.spotify.com/artist/4jCfIA4UDHUWpc45H7A4ud), [The Paris Mozart Orchestra](https://open.spotify.com/artist/4yaVj1SnoAFuqdRNGMCcFW), [Claire Gibault](https://open.spotify.com/artist/2k5WmbnjSX7XKocTLkzupP) | [Pictures of America](https://open.spotify.com/album/03kaAMCPTOpXnDIMTIY85l) | 4:32 |
+| 24 | [Send in the Clowns \(From "A Little Night Music"\)](https://open.spotify.com/track/60rwCozHI55tnHCZHI8bJ2) | [Leonard Bernstein](https://open.spotify.com/artist/2LmyJyCF5V1eQyvHgJNbTn), [Natalie Dessay](https://open.spotify.com/artist/4jCfIA4UDHUWpc45H7A4ud), [Paris Mozart Orchestra](https://open.spotify.com/artist/4yaVj1SnoAFuqdRNGMCcFW), [Claire Gibault](https://open.spotify.com/artist/2k5WmbnjSX7XKocTLkzupP) | [Pictures of America](https://open.spotify.com/album/03kaAMCPTOpXnDIMTIY85l) | 4:32 |
 | 25 | [Mononoke Hime](https://open.spotify.com/track/63jBZRDHRrY7X1BklH4mJ1) | [Anúna](https://open.spotify.com/artist/59OUpsEQlEUXDHVEOPQ7sC), [Michael McGlynn](https://open.spotify.com/artist/6eKG1uIKALFd8eQI8JtFoD) | [Revelation](https://open.spotify.com/album/6IqEExqxT85wd6Tzybi1mb) | 3:49 |
 | 26 | [I Rest My Eyes](https://open.spotify.com/track/1Sic4S5VMmHmFi8hWJsF2x) | [Sissel](https://open.spotify.com/artist/2jaOpr7Go1avixlg1lfJOb) | [I Rest My Eyes](https://open.spotify.com/album/3D857PXK7oDv8GAHdRXx9h) | 4:49 |
 | 27 | [Amore e Musica](https://open.spotify.com/track/7CLOYF0QFHyQQRENkJDbR8) | [Russell Watson](https://open.spotify.com/artist/2hrfuB0LtVmFZ6MvPMIHTK) | [Amore Musica](https://open.spotify.com/album/6EVHFDafgJHsXAKJMxYn6K) | 3:59 |

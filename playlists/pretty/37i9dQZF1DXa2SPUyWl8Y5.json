@@ -1,12 +1,12 @@
 {
   "description": "Focus with deep techno and tech house.",
-  "num_followers": 410412,
+  "num_followers": 410753,
   "original_name": "Beats to think to",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjczOTIwMCwwMDAwMDAwMDE2OTQ1OTEyZDU2Y2QxYTQzMGVmZDYwYWZmMWI3MmNk",
+  "snapshot_id": "MTY2MjczOTIwMCwwMDAwMDAwMDFjYzg3NDA3NDg1ODMwYmU3YmFiYmFkN2E3Y2VmZjg1",
   "tracks": [
     {
       "added_at": "2022-09-09 16:00:00",
@@ -67,22 +67,6 @@
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
-        "name": "Multi",
-        "url": "https://open.spotify.com/album/1aXp1HaEuIckogbF9f0Jgi"
-      },
-      "artists": [
-        {
-          "name": "Lstn",
-          "url": "https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp"
-        }
-      ],
-      "duration_ms": 177243,
-      "name": "Multi",
-      "url": "https://open.spotify.com/track/69VMojKtg3NtfmFmFc64IH"
-    },
-    {
-      "added_at": "2022-09-09 16:00:00",
-      "album": {
         "name": "Stay There",
         "url": "https://open.spotify.com/album/2LUUNfPXV0MwcwITk97KWF"
       },
@@ -95,6 +79,22 @@
       "duration_ms": 233562,
       "name": "Stay There",
       "url": "https://open.spotify.com/track/7t9PLlf9nI2Xo8WRrfcItk"
+    },
+    {
+      "added_at": "2022-09-09 16:00:00",
+      "album": {
+        "name": "Multi",
+        "url": "https://open.spotify.com/album/1aXp1HaEuIckogbF9f0Jgi"
+      },
+      "artists": [
+        {
+          "name": "Lstn",
+          "url": "https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp"
+        }
+      ],
+      "duration_ms": 177243,
+      "name": "Multi",
+      "url": "https://open.spotify.com/track/69VMojKtg3NtfmFmFc64IH"
     },
     {
       "added_at": "2022-09-09 16:00:00",
@@ -359,22 +359,6 @@
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
-        "name": "Invisible",
-        "url": "https://open.spotify.com/album/5rUrltKgAPbdGtKP7WATUL"
-      },
-      "artists": [
-        {
-          "name": "NTO",
-          "url": "https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq"
-        }
-      ],
-      "duration_ms": 340400,
-      "name": "Invisible",
-      "url": "https://open.spotify.com/track/4dSH4QOSnQa6PutN1rDHOG"
-    },
-    {
-      "added_at": "2022-09-09 16:00:00",
-      "album": {
         "name": "Borealis",
         "url": "https://open.spotify.com/album/4uC2fFEwq3cb0JdC0EgPwW"
       },
@@ -391,18 +375,18 @@
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
-        "name": "\ud63c\ub3c8 \uacfc \uc9c8\uc11c",
-        "url": "https://open.spotify.com/album/5Ljj0ZjHDEQmF8jZ67kvh7"
+        "name": "Invisible",
+        "url": "https://open.spotify.com/album/5rUrltKgAPbdGtKP7WATUL"
       },
       "artists": [
         {
-          "name": "Township Rebellion",
-          "url": "https://open.spotify.com/artist/4gGD7nrLZRnnCSz3KGEu4R"
+          "name": "NTO",
+          "url": "https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq"
         }
       ],
-      "duration_ms": 528959,
-      "name": "Chaos",
-      "url": "https://open.spotify.com/track/1cGG5URksWfux6zkogVQcX"
+      "duration_ms": 340400,
+      "name": "Invisible",
+      "url": "https://open.spotify.com/track/4dSH4QOSnQa6PutN1rDHOG"
     },
     {
       "added_at": "2022-09-09 16:00:00",
@@ -427,18 +411,18 @@
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
-        "name": "Close to the Edge",
-        "url": "https://open.spotify.com/album/6fDQUCufTFl072nXDT54Hm"
+        "name": "\ud63c\ub3c8 \uacfc \uc9c8\uc11c",
+        "url": "https://open.spotify.com/album/5Ljj0ZjHDEQmF8jZ67kvh7"
       },
       "artists": [
         {
-          "name": "Klanglos",
-          "url": "https://open.spotify.com/artist/1jV311C5ADuBqCPpprsjUp"
+          "name": "Township Rebellion",
+          "url": "https://open.spotify.com/artist/4gGD7nrLZRnnCSz3KGEu4R"
         }
       ],
-      "duration_ms": 308081,
-      "name": "Close to the Edge",
-      "url": "https://open.spotify.com/track/5QC6Ze5kjWoFr3xHOXhx1N"
+      "duration_ms": 528959,
+      "name": "Chaos",
+      "url": "https://open.spotify.com/track/1cGG5URksWfux6zkogVQcX"
     },
     {
       "added_at": "2022-09-09 16:00:00",
@@ -459,18 +443,18 @@
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
-        "name": "Bird EP",
-        "url": "https://open.spotify.com/album/6gUapIjz0WUqMhf52onMec"
+        "name": "Close to the Edge",
+        "url": "https://open.spotify.com/album/6fDQUCufTFl072nXDT54Hm"
       },
       "artists": [
         {
-          "name": "Recondite",
-          "url": "https://open.spotify.com/artist/1doQgXssRfKnLx70adszbK"
+          "name": "Klanglos",
+          "url": "https://open.spotify.com/artist/1jV311C5ADuBqCPpprsjUp"
         }
       ],
-      "duration_ms": 350047,
-      "name": "Bird",
-      "url": "https://open.spotify.com/track/0MjVztKL0FI9oU6L9QKzLf"
+      "duration_ms": 308081,
+      "name": "Close to the Edge",
+      "url": "https://open.spotify.com/track/5QC6Ze5kjWoFr3xHOXhx1N"
     },
     {
       "added_at": "2022-09-09 16:00:00",
@@ -487,6 +471,22 @@
       "duration_ms": 448684,
       "name": "Amantes Amentes",
       "url": "https://open.spotify.com/track/2NEMWTplDgFl5yZ5mgpsEd"
+    },
+    {
+      "added_at": "2022-09-09 16:00:00",
+      "album": {
+        "name": "Bird EP",
+        "url": "https://open.spotify.com/album/6gUapIjz0WUqMhf52onMec"
+      },
+      "artists": [
+        {
+          "name": "Recondite",
+          "url": "https://open.spotify.com/artist/1doQgXssRfKnLx70adszbK"
+        }
+      ],
+      "duration_ms": 350047,
+      "name": "Bird",
+      "url": "https://open.spotify.com/track/0MjVztKL0FI9oU6L9QKzLf"
     },
     {
       "added_at": "2022-09-09 16:00:00",
@@ -563,6 +563,22 @@
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
+        "name": "Asiri",
+        "url": "https://open.spotify.com/album/00xdRExj91m6MnoTEN7DqC"
+      },
+      "artists": [
+        {
+          "name": "Joep Mencke",
+          "url": "https://open.spotify.com/artist/0GapyFJVUjxdA2a4NlnhRm"
+        }
+      ],
+      "duration_ms": 578929,
+      "name": "Asiri",
+      "url": "https://open.spotify.com/track/1yEdBVQAYU2hxEll4nG3qF"
+    },
+    {
+      "added_at": "2022-09-09 16:00:00",
+      "album": {
         "name": "June (Mees Salom\u00e9 Remix)",
         "url": "https://open.spotify.com/album/3sQGTd9PQdgzLAIFcM7pcJ"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 382486,
       "name": "Hailstorm - Ann Clue Remix",
       "url": "https://open.spotify.com/track/4INsV87wHXViqJRAmbOo8t"
-    },
-    {
-      "added_at": "2022-09-09 16:00:00",
-      "album": {
-        "name": "Asiri",
-        "url": "https://open.spotify.com/album/00xdRExj91m6MnoTEN7DqC"
-      },
-      "artists": [
-        {
-          "name": "Joep Mencke",
-          "url": "https://open.spotify.com/artist/0GapyFJVUjxdA2a4NlnhRm"
-        }
-      ],
-      "duration_ms": 578929,
-      "name": "Asiri",
-      "url": "https://open.spotify.com/track/1yEdBVQAYU2hxEll4nG3qF"
     },
     {
       "added_at": "2022-09-09 16:00:00",
@@ -787,6 +787,22 @@
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
+        "name": "Dea Dia",
+        "url": "https://open.spotify.com/album/4QDxcrGyxeezJAwhkWX4xh"
+      },
+      "artists": [
+        {
+          "name": "Ron Flatter",
+          "url": "https://open.spotify.com/artist/0HZ3FXXgXyKoMHKwKSZOpq"
+        }
+      ],
+      "duration_ms": 530979,
+      "name": "Dea Dia",
+      "url": "https://open.spotify.com/track/3Leam9heF8QlhoRd8u3i3s"
+    },
+    {
+      "added_at": "2022-09-09 16:00:00",
+      "album": {
         "name": "Prelusion",
         "url": "https://open.spotify.com/album/3N6cm4FyrEgbMUKahWiatI"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 377919,
       "name": "Prelusion",
       "url": "https://open.spotify.com/track/6YJ9z4IInxfJWsjc6ADtV2"
-    },
-    {
-      "added_at": "2022-09-09 16:00:00",
-      "album": {
-        "name": "Dea Dia",
-        "url": "https://open.spotify.com/album/4QDxcrGyxeezJAwhkWX4xh"
-      },
-      "artists": [
-        {
-          "name": "Ron Flatter",
-          "url": "https://open.spotify.com/artist/0HZ3FXXgXyKoMHKwKSZOpq"
-        }
-      ],
-      "duration_ms": 530979,
-      "name": "Dea Dia",
-      "url": "https://open.spotify.com/track/3Leam9heF8QlhoRd8u3i3s"
     },
     {
       "added_at": "2022-09-09 16:00:00",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
+        "name": "Someone Else",
+        "url": "https://open.spotify.com/album/4oXObLe6qLx9Z58eIMvRMW"
+      },
+      "artists": [
+        {
+          "name": "Carlo Whale",
+          "url": "https://open.spotify.com/artist/42J0pSvJGXvErpfYL1Nodj"
+        }
+      ],
+      "duration_ms": 378000,
+      "name": "Someone Else",
+      "url": "https://open.spotify.com/track/02pzOX3OB9N8psnEpmeD3a"
+    },
+    {
+      "added_at": "2022-09-09 16:00:00",
+      "album": {
         "name": "Static",
         "url": "https://open.spotify.com/album/3vbUHWi4I1bn8dsDoKPwjx"
       },
@@ -1127,6 +1143,22 @@
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
+        "name": "Flight Into the Void EP",
+        "url": "https://open.spotify.com/album/01sw5D44GctddF1Q7aIHwU"
+      },
+      "artists": [
+        {
+          "name": "Remcord",
+          "url": "https://open.spotify.com/artist/09iSLnIk5tjj4u4T7nrhmB"
+        }
+      ],
+      "duration_ms": 406000,
+      "name": "Flight Into the Void",
+      "url": "https://open.spotify.com/track/2Lj3VzdR8WP6TqsTS3J7Mz"
+    },
+    {
+      "added_at": "2022-09-09 16:00:00",
+      "album": {
         "name": "Loss/Bow To The Rain",
         "url": "https://open.spotify.com/album/5krXrHyaBsfa8RWQNOMOFV"
       },
@@ -1147,38 +1179,6 @@
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
-        "name": "Flight Into the Void EP",
-        "url": "https://open.spotify.com/album/01sw5D44GctddF1Q7aIHwU"
-      },
-      "artists": [
-        {
-          "name": "Remcord",
-          "url": "https://open.spotify.com/artist/09iSLnIk5tjj4u4T7nrhmB"
-        }
-      ],
-      "duration_ms": 406000,
-      "name": "Flight Into the Void",
-      "url": "https://open.spotify.com/track/2Lj3VzdR8WP6TqsTS3J7Mz"
-    },
-    {
-      "added_at": "2022-09-09 16:00:00",
-      "album": {
-        "name": "Someone Else",
-        "url": "https://open.spotify.com/album/4oXObLe6qLx9Z58eIMvRMW"
-      },
-      "artists": [
-        {
-          "name": "Carlo Whale",
-          "url": "https://open.spotify.com/artist/42J0pSvJGXvErpfYL1Nodj"
-        }
-      ],
-      "duration_ms": 378000,
-      "name": "Someone Else",
-      "url": "https://open.spotify.com/track/02pzOX3OB9N8psnEpmeD3a"
-    },
-    {
-      "added_at": "2022-09-09 16:00:00",
-      "album": {
         "name": "The Mood",
         "url": "https://open.spotify.com/album/3XQPuf5CmDz0jEwgsfsygX"
       },
@@ -1191,22 +1191,6 @@
       "duration_ms": 210731,
       "name": "The Mood",
       "url": "https://open.spotify.com/track/6eHjPAXmPtSw7qjn3FTVfc"
-    },
-    {
-      "added_at": "2022-09-09 16:00:00",
-      "album": {
-        "name": "Planet F",
-        "url": "https://open.spotify.com/album/2GNTFKRmaZkZSzxGcSAKeQ"
-      },
-      "artists": [
-        {
-          "name": "Moritz Hofbauer",
-          "url": "https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE"
-        }
-      ],
-      "duration_ms": 241769,
-      "name": "Planet F",
-      "url": "https://open.spotify.com/track/7zL8LOU2Wzhc48ObFxOUq8"
     },
     {
       "added_at": "2022-09-09 16:00:00",
@@ -1227,6 +1211,22 @@
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
+        "name": "Planet F",
+        "url": "https://open.spotify.com/album/2GNTFKRmaZkZSzxGcSAKeQ"
+      },
+      "artists": [
+        {
+          "name": "Moritz Hofbauer",
+          "url": "https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE"
+        }
+      ],
+      "duration_ms": 241769,
+      "name": "Planet F",
+      "url": "https://open.spotify.com/track/7zL8LOU2Wzhc48ObFxOUq8"
+    },
+    {
+      "added_at": "2022-09-09 16:00:00",
+      "album": {
         "name": "Landing in Halifax",
         "url": "https://open.spotify.com/album/79DbNRg47wmpCmtoJrByH1"
       },
@@ -1239,22 +1239,6 @@
       "duration_ms": 249120,
       "name": "Landing in Halifax",
       "url": "https://open.spotify.com/track/3CLUfqZpiTv3EO2eAS5nll"
-    },
-    {
-      "added_at": "2022-09-09 16:00:00",
-      "album": {
-        "name": "Vibrations",
-        "url": "https://open.spotify.com/album/47lVs3yxAMXVmHn8P6O3I5"
-      },
-      "artists": [
-        {
-          "name": "Horisone",
-          "url": "https://open.spotify.com/artist/4QK6kc57qNZNCb8DZ68tOr"
-        }
-      ],
-      "duration_ms": 435238,
-      "name": "Housefly",
-      "url": "https://open.spotify.com/track/1GarEhuWQWBEhS5qnFiHG7"
     },
     {
       "added_at": "2022-09-09 16:00:00",
@@ -1279,18 +1263,18 @@
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
-        "name": "Nebula",
-        "url": "https://open.spotify.com/album/6sIs8vP0ctpyBmJ8jFhQP9"
+        "name": "Vibrations",
+        "url": "https://open.spotify.com/album/47lVs3yxAMXVmHn8P6O3I5"
       },
       "artists": [
         {
-          "name": "Nick Schwenderling",
-          "url": "https://open.spotify.com/artist/2mOiGq7ipaUIYqUJSLj3X6"
+          "name": "Horisone",
+          "url": "https://open.spotify.com/artist/4QK6kc57qNZNCb8DZ68tOr"
         }
       ],
-      "duration_ms": 188160,
-      "name": "Nebula",
-      "url": "https://open.spotify.com/track/7BhSM2dw0NUbhFSarMICfr"
+      "duration_ms": 435238,
+      "name": "Housefly",
+      "url": "https://open.spotify.com/track/1GarEhuWQWBEhS5qnFiHG7"
     },
     {
       "added_at": "2022-09-09 16:00:00",
@@ -1311,6 +1295,38 @@
       "duration_ms": 447201,
       "name": "La Napoule - Nathan Micay's Life in Every Breath Remix",
       "url": "https://open.spotify.com/track/26BnoECfbkfmgw05VNMFGW"
+    },
+    {
+      "added_at": "2022-09-09 16:00:00",
+      "album": {
+        "name": "Nebula",
+        "url": "https://open.spotify.com/album/6sIs8vP0ctpyBmJ8jFhQP9"
+      },
+      "artists": [
+        {
+          "name": "Nick Schwenderling",
+          "url": "https://open.spotify.com/artist/2mOiGq7ipaUIYqUJSLj3X6"
+        }
+      ],
+      "duration_ms": 188160,
+      "name": "Nebula",
+      "url": "https://open.spotify.com/track/7BhSM2dw0NUbhFSarMICfr"
+    },
+    {
+      "added_at": "2022-09-09 16:00:00",
+      "album": {
+        "name": "Black Ice",
+        "url": "https://open.spotify.com/album/7kTHuLdBT3Mk45oHueS33E"
+      },
+      "artists": [
+        {
+          "name": "Moritz Hofbauer",
+          "url": "https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE"
+        }
+      ],
+      "duration_ms": 380039,
+      "name": "Black Ice",
+      "url": "https://open.spotify.com/track/5KqPPGQikjJHRTT17E8XdS"
     },
     {
       "added_at": "2022-09-09 16:00:00",
@@ -1339,34 +1355,18 @@
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/1QXGtZPuWcFFqaz3IidO7y"
+        "name": "Dreaming",
+        "url": "https://open.spotify.com/album/6ru7iTApllOAzaLs5Ggt4M"
       },
       "artists": [
         {
-          "name": "Mainterm",
-          "url": "https://open.spotify.com/artist/7f7f9se1wn56qhlAWMT4eI"
+          "name": "SKIY",
+          "url": "https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ"
         }
       ],
-      "duration_ms": 358144,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/7cn2gHnDem0tI8rZXaBmXp"
-    },
-    {
-      "added_at": "2022-09-09 16:00:00",
-      "album": {
-        "name": "Run",
-        "url": "https://open.spotify.com/album/1KTNoba0EoQRVl1rLOv71a"
-      },
-      "artists": [
-        {
-          "name": "Haddadi Von Engst",
-          "url": "https://open.spotify.com/artist/5Hg5DBnnqGjRx8ylws0xy5"
-        }
-      ],
-      "duration_ms": 308000,
-      "name": "Run",
-      "url": "https://open.spotify.com/track/5nTULNIZFwN3e4g05lb6fF"
+      "duration_ms": 192476,
+      "name": "Dreaming",
+      "url": "https://open.spotify.com/track/2Ii6VGM7F1nkbleXQPkJvT"
     }
   ],
   "unique_name": "Beats to think to",

@@ -1,12 +1,12 @@
 {
   "description": "Comece o dia com grandes hits!",
-  "num_followers": 1450152,
+  "num_followers": 1450264,
   "original_name": "Tenha um \u00d3timo Dia!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTE3MzA3NiwwMDAwMDAwMGMzZTNiMWNhMjExMjViN2MwYzhmNTMzYWY0MGJhODc3",
+  "snapshot_id": "MTY2MTE3MzA3NiwwMDAwMDAwMGRjOWFmOTlhYTQ0ZWEwODYyMmM2ZDFlYzMzNjdhMDdl",
   "tracks": [
     {
       "added_at": "2022-03-24 13:05:26",
@@ -227,22 +227,6 @@
     {
       "added_at": "2022-03-24 13:05:26",
       "album": {
-        "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
-        "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 194087,
-      "name": "bad guy",
-      "url": "https://open.spotify.com/track/2Fxmhks0bxGSBdJ92vM42m"
-    },
-    {
-      "added_at": "2022-03-24 13:05:26",
-      "album": {
         "name": "Viva La Vida or Death and All His Friends",
         "url": "https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 242373,
       "name": "Viva La Vida",
       "url": "https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b"
+    },
+    {
+      "added_at": "2022-03-24 13:05:26",
+      "album": {
+        "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+        "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 194087,
+      "name": "bad guy",
+      "url": "https://open.spotify.com/track/2Fxmhks0bxGSBdJ92vM42m"
     },
     {
       "added_at": "2022-03-24 13:05:26",
@@ -667,22 +667,6 @@
     {
       "added_at": "2022-03-24 13:05:26",
       "album": {
-        "name": "Don't Start Now",
-        "url": "https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 183290,
-      "name": "Don't Start Now",
-      "url": "https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg"
-    },
-    {
-      "added_at": "2022-03-24 13:05:26",
-      "album": {
         "name": "Sweetener",
         "url": "https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 197546,
       "name": "God is a woman",
       "url": "https://open.spotify.com/track/5OCJzvD7sykQEKHH7qAC3C"
+    },
+    {
+      "added_at": "2022-03-24 13:05:26",
+      "album": {
+        "name": "Don't Start Now",
+        "url": "https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 183290,
+      "name": "Don't Start Now",
+      "url": "https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg"
     },
     {
       "added_at": "2022-03-24 13:05:26",

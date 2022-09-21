@@ -5671,7 +5671,7 @@
       ],
       "date_added": "2022-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-20",
+      "date_removed": null,
       "duration_ms": 186661,
       "name": "Ferrari",
       "url": "https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP"
@@ -8219,7 +8219,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 158400,
       "name": "Karatia",
       "url": "https://open.spotify.com/track/78nfY5wYgSi0wiJYTGvB1E"
@@ -15062,6 +15062,24 @@
     },
     {
       "album": {
+        "name": "BORN PINK",
+        "url": "https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175889,
+      "name": "Shut Down",
+      "url": "https://open.spotify.com/track/7gRFDGEzF9UkBV233yv2dc"
+    },
+    {
+      "album": {
         "name": "Poli_Ploki",
         "url": "https://open.spotify.com/album/79cEtUvXntL05SIK3YJiH8"
       },
@@ -17227,7 +17245,7 @@
       ],
       "date_added": "2022-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 260217,
       "name": "Trafficante",
       "url": "https://open.spotify.com/track/4sHGVE7twEnFddJ3DqyWXs"

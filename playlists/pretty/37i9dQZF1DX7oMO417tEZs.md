@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 
 > Proudly marching to the beat of their own drum\. Cover: Mura Masa
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,579 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,590 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 9 | [Where I Belong](https://open.spotify.com/track/4xxcd6cnmFfj67AmnaF6tc) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [2000](https://open.spotify.com/album/261LWEVYViMXijB95mAty3) | 3:08 |
 | 10 | [Wish](https://open.spotify.com/track/545N3VnU7ZSBEUtdRGSUS9) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Four Songs](https://open.spotify.com/album/4hsC2oeoSkJiULLob8zM98) | 3:01 |
 | 11 | [cling to the edge](https://open.spotify.com/track/7uFRdMNsnPHKoiqmSkVz2O) | [meat computer](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN) | [cling to the edge](https://open.spotify.com/album/19s7WU6yfcLh32emhWshGy) | 0:54 |
-| 12 | [All Along \(Kaytranada Remix\)](https://open.spotify.com/track/35WIVWDcONu3B64ZcYbPX6) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [All Along \(Kaytranada Remix\)](https://open.spotify.com/album/3UtKaTe3ZGpNo0cVdffTCi) | 4:44 |
+| 12 | [All Along \(Kaytranada Remix\)](https://open.spotify.com/track/3fTwZdX5X3BIsdEJvai7Be) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Play With The Changes \(Remixed\)](https://open.spotify.com/album/3fMIqhERSssKur9QOqa5X1) | 4:44 |
 | 13 | [HEAT](https://open.spotify.com/track/5C2lBA8cceb0EwyCPDEsH8) | [Ramsay Almighty](https://open.spotify.com/artist/1wkmDig3ums4HIkGMfFwqE) | [HEAT](https://open.spotify.com/album/0nM49aJlprwlEfV674EPDv) | 2:58 |
 | 14 | [Harvest Moon – Vandelux Remix](https://open.spotify.com/track/3OcV9XXExOdsVHYXSjSGNd) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k) | [Harvest Moon \(Vandelux Remix\)](https://open.spotify.com/album/7JOnm7NqCfCxJ9LCdaZXqB) | 4:34 |
 | 15 | [Waiting Outside](https://open.spotify.com/track/0ImFkJEKGw1N1CTvQmnVSX) | [Big Wild](https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA) | [The Efferusphere](https://open.spotify.com/album/1URVqxp9YmQ8i32dCjlsUA) | 3:40 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 99 | [Pulchritudinous](https://open.spotify.com/track/4nzhd7FQDblgX8ogmGSeem) | [Manana](https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ) | [But could the moments in between](https://open.spotify.com/album/5cHlpmNwKG3RbEv8DiEUoC) | 4:24 |
 | 100 | [LAWD](https://open.spotify.com/track/0G7FTrrupbGvXYPFfAPr7M) | [falcxne](https://open.spotify.com/artist/5pHwJakVgh9gOqUEoT9ZYz), [Tibe](https://open.spotify.com/artist/4AIBWTy1SuwnrbO2LhIZU2) | [LAWD](https://open.spotify.com/album/2C80TjyKrG3GFKnyYfEZHs) | 2:45 |
 
-Snapshot ID: `MTY2MzMzODcwOCwwMDAwMDAwMDI3MWRlNDY5MDY2N2ZjZmE2OGViYTg3NzRhOWUwOGYz`
+Snapshot ID: `MTY2MzMzODcwOCwwMDAwMDAwMDY5MjNhZWYzNDU4MjY1NTcwODQ5OGY2YmNlYWExYTYz`

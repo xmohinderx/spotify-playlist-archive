@@ -1,12 +1,12 @@
 {
   "description": "Dejate llevar por los mejores lentos del rock. Foto: Babas\u00f3nicos.",
-  "num_followers": 60459,
+  "num_followers": 60543,
   "original_name": "Baladas Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzEzNjcxMiwwMDAwMDAwMDY5ZDgyOWQwNzIxZDRiZmU1ZWZhYjM0MjdlMTYzY2Q0",
+  "snapshot_id": "MTY1NzEzNjcxMiwwMDAwMDAwMDdmOTE0Mjg2ODFiZTk1ZGQyNjgzYmY1ZWJhNDYwMWJm",
   "tracks": [
     {
       "added_at": "2022-07-06 19:45:12",
@@ -219,6 +219,22 @@
     {
       "added_at": "2022-07-06 19:45:12",
       "album": {
+        "name": "Narig\u00f3n del Siglo, Yo Te Dejo Perfumado en la Esquina para Siempre",
+        "url": "https://open.spotify.com/album/4GkZExYLfegidZaO1BgpvU"
+      },
+      "artists": [
+        {
+          "name": "Divididos",
+          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
+        }
+      ],
+      "duration_ms": 212880,
+      "name": "Spaghetti del Rock",
+      "url": "https://open.spotify.com/track/6rg1MBZqggsQ5olFGTw0rr"
+    },
+    {
+      "added_at": "2022-07-06 19:45:12",
+      "album": {
         "name": "El Camino M\u00e1s Largo",
         "url": "https://open.spotify.com/album/1uepX7Q6C8lSh2kR96DmtX"
       },
@@ -239,22 +255,6 @@
     {
       "added_at": "2022-07-06 19:45:12",
       "album": {
-        "name": "Narig\u00f3n del Siglo, Yo Te Dejo Perfumado en la Esquina para Siempre",
-        "url": "https://open.spotify.com/album/4GkZExYLfegidZaO1BgpvU"
-      },
-      "artists": [
-        {
-          "name": "Divididos",
-          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
-        }
-      ],
-      "duration_ms": 212880,
-      "name": "Spaghetti del Rock",
-      "url": "https://open.spotify.com/track/6rg1MBZqggsQ5olFGTw0rr"
-    },
-    {
-      "added_at": "2022-07-06 19:45:12",
-      "album": {
         "name": "Antihumano",
         "url": "https://open.spotify.com/album/3NsuNDcnIc0jAxpC9svIbz"
       },
@@ -267,22 +267,6 @@
       "duration_ms": 259186,
       "name": "Arrancacorazones",
       "url": "https://open.spotify.com/track/2zogXcCqvKJwh3o67W3GG3"
-    },
-    {
-      "added_at": "2022-07-06 19:45:12",
-      "album": {
-        "name": "Despierta",
-        "url": "https://open.spotify.com/album/0289kJfdXVBPSDJfQ1fPJz"
-      },
-      "artists": [
-        {
-          "name": "Las Pelotas",
-          "url": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
-        }
-      ],
-      "duration_ms": 250357,
-      "name": "Personalmente",
-      "url": "https://open.spotify.com/track/7q7XFO9av9VpNJSXKJwJxD"
     },
     {
       "added_at": "2022-07-06 19:45:12",
@@ -303,6 +287,22 @@
       "duration_ms": 284531,
       "name": "Ella Dijo",
       "url": "https://open.spotify.com/track/6cFf4Jfy7ThUwGzbqFcZsx"
+    },
+    {
+      "added_at": "2022-07-06 19:45:12",
+      "album": {
+        "name": "Despierta",
+        "url": "https://open.spotify.com/album/0289kJfdXVBPSDJfQ1fPJz"
+      },
+      "artists": [
+        {
+          "name": "Las Pelotas",
+          "url": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
+        }
+      ],
+      "duration_ms": 250357,
+      "name": "Personalmente",
+      "url": "https://open.spotify.com/track/7q7XFO9av9VpNJSXKJwJxD"
     },
     {
       "added_at": "2022-07-06 19:45:12",
@@ -339,22 +339,6 @@
     {
       "added_at": "2022-07-06 19:45:12",
       "album": {
-        "name": "Otras Canciones",
-        "url": "https://open.spotify.com/album/72SqrtijWJKq6ukitktd1D"
-      },
-      "artists": [
-        {
-          "name": "No Te Va Gustar",
-          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
-        }
-      ],
-      "duration_ms": 202063,
-      "name": "A Las Nueve",
-      "url": "https://open.spotify.com/track/68cko9zdsKwaxgb98sF36S"
-    },
-    {
-      "added_at": "2022-07-06 19:45:12",
-      "album": {
         "name": "Buscando un Amor",
         "url": "https://open.spotify.com/album/4AMgSDaOROvCGSNSz3rfYw"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 235560,
       "name": "Te quiero igual",
       "url": "https://open.spotify.com/track/7qIw4D1PcDHigDohKkLB0W"
+    },
+    {
+      "added_at": "2022-07-06 19:45:12",
+      "album": {
+        "name": "Otras Canciones",
+        "url": "https://open.spotify.com/album/72SqrtijWJKq6ukitktd1D"
+      },
+      "artists": [
+        {
+          "name": "No Te Va Gustar",
+          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
+        }
+      ],
+      "duration_ms": 202063,
+      "name": "A Las Nueve",
+      "url": "https://open.spotify.com/track/68cko9zdsKwaxgb98sF36S"
     },
     {
       "added_at": "2022-07-06 19:45:12",
@@ -499,6 +499,22 @@
     {
       "added_at": "2022-07-06 19:45:12",
       "album": {
+        "name": "Alta Suciedad",
+        "url": "https://open.spotify.com/album/44D07i1Lk0zFtWHRARMih6"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+        }
+      ],
+      "duration_ms": 264840,
+      "name": "Cr\u00edmenes perfectos",
+      "url": "https://open.spotify.com/track/6guoJhM9n5Fm7npXJ1rfsM"
+    },
+    {
+      "added_at": "2022-07-06 19:45:12",
+      "album": {
         "name": "Tango 4",
         "url": "https://open.spotify.com/album/0JTWqpFlJobaZW5V0Y0R5T"
       },
@@ -519,22 +535,6 @@
     {
       "added_at": "2022-07-06 19:45:12",
       "album": {
-        "name": "A Trav\u00e9s del Mar de los Sargazos",
-        "url": "https://open.spotify.com/album/3eES9LlGLw5o7ZNbOfmscZ"
-      },
-      "artists": [
-        {
-          "name": "Skay Beilinson",
-          "url": "https://open.spotify.com/artist/4K8Mrjr9IvA8QU0Vjj4BED"
-        }
-      ],
-      "duration_ms": 272480,
-      "name": "Oda a la Sin Nombre",
-      "url": "https://open.spotify.com/track/5l6HQ03qnofn7Us7cADWQg"
-    },
-    {
-      "added_at": "2022-07-06 19:45:12",
-      "album": {
         "name": "De La Cabeza Con Bersuit Vergarabat (Live In Buenos Aires / 2001)",
         "url": "https://open.spotify.com/album/7xdsaV2y15dItFMlsoWTqu"
       },
@@ -551,18 +551,18 @@
     {
       "added_at": "2022-07-06 19:45:12",
       "album": {
-        "name": "Alta Suciedad",
-        "url": "https://open.spotify.com/album/44D07i1Lk0zFtWHRARMih6"
+        "name": "A Trav\u00e9s del Mar de los Sargazos",
+        "url": "https://open.spotify.com/album/3eES9LlGLw5o7ZNbOfmscZ"
       },
       "artists": [
         {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+          "name": "Skay Beilinson",
+          "url": "https://open.spotify.com/artist/4K8Mrjr9IvA8QU0Vjj4BED"
         }
       ],
-      "duration_ms": 264840,
-      "name": "Cr\u00edmenes perfectos",
-      "url": "https://open.spotify.com/track/6guoJhM9n5Fm7npXJ1rfsM"
+      "duration_ms": 272480,
+      "name": "Oda a la Sin Nombre",
+      "url": "https://open.spotify.com/track/5l6HQ03qnofn7Us7cADWQg"
     },
     {
       "added_at": "2022-07-06 19:45:12",
@@ -847,22 +847,6 @@
     {
       "added_at": "2022-07-06 19:45:12",
       "album": {
-        "name": "Oktubre",
-        "url": "https://open.spotify.com/album/1Eh8uP6MvoseEDTWIb8qv6"
-      },
-      "artists": [
-        {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
-        }
-      ],
-      "duration_ms": 296133,
-      "name": "Motor Psico",
-      "url": "https://open.spotify.com/track/3JPweQejF6fiEtWEJe0qsa"
-    },
-    {
-      "added_at": "2022-07-06 19:45:12",
-      "album": {
         "name": "Armando Camale\u00f3n",
         "url": "https://open.spotify.com/album/1d8IGsUrIw7cXqFcwUM5pP"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 289333,
       "name": "Silencio",
       "url": "https://open.spotify.com/track/0lZLhOrIYSAnMeEICJnYSH"
+    },
+    {
+      "added_at": "2022-07-06 19:45:12",
+      "album": {
+        "name": "Oktubre",
+        "url": "https://open.spotify.com/album/1Eh8uP6MvoseEDTWIb8qv6"
+      },
+      "artists": [
+        {
+          "name": "Patricio Rey y sus Redonditos de Ricota",
+          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
+        }
+      ],
+      "duration_ms": 296133,
+      "name": "Motor Psico",
+      "url": "https://open.spotify.com/track/3JPweQejF6fiEtWEJe0qsa"
     },
     {
       "added_at": "2022-07-06 19:45:12",
@@ -959,22 +959,6 @@
     {
       "added_at": "2022-07-06 19:45:12",
       "album": {
-        "name": "Cordero Atado",
-        "url": "https://open.spotify.com/album/2qP2OCdnHQz3cwrxyqjzEk"
-      },
-      "artists": [
-        {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
-        }
-      ],
-      "duration_ms": 336546,
-      "name": "Etiqueta Negra",
-      "url": "https://open.spotify.com/track/6XaH8Mw8EvzVrFQ5ww5rLm"
-    },
-    {
-      "added_at": "2022-07-06 19:45:12",
-      "album": {
         "name": "Llegando Los Monos",
         "url": "https://open.spotify.com/album/2kn0EF90FuahMHtPpwVsX4"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 341826,
       "name": "Hero\u00edna",
       "url": "https://open.spotify.com/track/7ERzS9KIggtCp9oslPzEc0"
+    },
+    {
+      "added_at": "2022-07-06 19:45:12",
+      "album": {
+        "name": "Cordero Atado",
+        "url": "https://open.spotify.com/album/2qP2OCdnHQz3cwrxyqjzEk"
+      },
+      "artists": [
+        {
+          "name": "Patricio Rey y sus Redonditos de Ricota",
+          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
+        }
+      ],
+      "duration_ms": 336546,
+      "name": "Etiqueta Negra",
+      "url": "https://open.spotify.com/track/6XaH8Mw8EvzVrFQ5ww5rLm"
     },
     {
       "added_at": "2022-07-06 19:45:12",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2022-07-06 19:45:12",
       "album": {
+        "name": "Esclavo",
+        "url": "https://open.spotify.com/album/6vWWH1Bvv5O0bxKq4ndPuf"
+      },
+      "artists": [
+        {
+          "name": "Guasones",
+          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
+        }
+      ],
+      "duration_ms": 158066,
+      "name": "Hay Momentos",
+      "url": "https://open.spotify.com/track/0rL9XFxw3b9bRUqApteFiD"
+    },
+    {
+      "added_at": "2022-07-06 19:45:12",
+      "album": {
         "name": "Sol en Cinco",
         "url": "https://open.spotify.com/album/3PRvVLAu5xKxYa9o4lK04S"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 328813,
       "name": "Nada es para siempre",
       "url": "https://open.spotify.com/track/73J1IrrirnxKM6wk5JfIcV"
-    },
-    {
-      "added_at": "2022-07-06 19:45:12",
-      "album": {
-        "name": "Esclavo",
-        "url": "https://open.spotify.com/album/6vWWH1Bvv5O0bxKq4ndPuf"
-      },
-      "artists": [
-        {
-          "name": "Guasones",
-          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
-        }
-      ],
-      "duration_ms": 158066,
-      "name": "Hay Momentos",
-      "url": "https://open.spotify.com/track/0rL9XFxw3b9bRUqApteFiD"
     },
     {
       "added_at": "2022-07-06 19:45:12",

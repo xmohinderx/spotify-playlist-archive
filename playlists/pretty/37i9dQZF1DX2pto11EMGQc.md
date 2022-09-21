@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pto11EMGQc.md) - [plain]
 
 > Here's to the groom! Enjoy your day with the boys!
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,943 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,951 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pto11EMGQc.md) - [plain]
 | 3 | [The Man](https://open.spotify.com/track/2stPxcgjdSImK7Gizl8ZUN) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Lift Your Spirit](https://open.spotify.com/album/14JRI2yc9nKosojndoQxTv) | 4:14 |
 | 4 | [Blinding Lights](https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 3:20 |
 | 5 | [So Fresh, So Clean](https://open.spotify.com/track/6glsMWIMIxQ4BedzLqGVi4) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Stankonia](https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj) | 4:00 |
-| 6 | ['Till I Collapse](https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [The Eminem Show](https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo) | 4:57 |
+| 6 | [Till I Collapse](https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [The Eminem Show](https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo) | 4:57 |
 | 7 | [Champion](https://open.spotify.com/track/4UQMOPSUVJVicIQzjAcRRZ) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Graduation](https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3) | 2:47 |
 | 8 | [rockstar \(feat\. 21 Savage\)](https://open.spotify.com/track/0e7ipj03S05BNilyu5bRzt) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [beerbongs & bentleys](https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR) | 3:38 |
 | 9 | [Colorado](https://open.spotify.com/track/35iR1qzexmbcUSgA01S4gI) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Trip Tape](https://open.spotify.com/album/707cK3j40hIquI15sOcYXP) | 2:54 |

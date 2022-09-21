@@ -1,12 +1,12 @@
 {
   "description": "Una selecci\u00f3n de \u00e9xitos para ponerle ritmo a las tareas del hogar.",
-  "num_followers": 269148,
+  "num_followers": 269253,
   "original_name": "\u00a1A limpiar con Pop!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjA4NzYwMCwwMDAwMDAwMDk4ZDNmYmY1MDhlOGZiYjRkNWU1NzgyZTYxNzAxYmFi",
+  "snapshot_id": "MTY2MjA4NzYwMCwwMDAwMDAwMDI5ZTFmZTBlMjg5NjE3MjA0ZDJmMjkxZGJjMDc0MjNj",
   "tracks": [
     {
       "added_at": "2022-09-02 03:00:00",
@@ -695,6 +695,22 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
+        "name": "Pari\u0301s",
+        "url": "https://open.spotify.com/album/6Ktv94u6eUIZBiUiBwOADD"
+      },
+      "artists": [
+        {
+          "name": "Ingratax",
+          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
+        }
+      ],
+      "duration_ms": 151428,
+      "name": "Pari\u0301s",
+      "url": "https://open.spotify.com/track/4bF2y8rR7GUjrd5LNEvej3"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
         "name": "Botella Tras Botella",
         "url": "https://open.spotify.com/album/3Jv8XjzlQel3avRbOzysXB"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 197333,
       "name": "Botella Tras Botella",
       "url": "https://open.spotify.com/track/2MnLkFqY9Rpg9s3Zv6ZJdK"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
-        "name": "Pari\u0301s",
-        "url": "https://open.spotify.com/album/6Ktv94u6eUIZBiUiBwOADD"
-      },
-      "artists": [
-        {
-          "name": "Ingratax",
-          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
-        }
-      ],
-      "duration_ms": 151428,
-      "name": "Pari\u0301s",
-      "url": "https://open.spotify.com/track/4bF2y8rR7GUjrd5LNEvej3"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -923,6 +923,22 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
+        "name": "Soy Como Quiero Ser",
+        "url": "https://open.spotify.com/album/2dJCC5WZDKqQbXmUJeLe9Z"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 191973,
+      "name": "Ahora Te Puedes Marchar",
+      "url": "https://open.spotify.com/track/1uKjQoh8JZj9ryuYRhpd7E"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
         "name": "Mal De Amores",
         "url": "https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 218800,
       "name": "Marte",
       "url": "https://open.spotify.com/track/1uK5rDY3BnikyG0sl3tPpc"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
-        "name": "Soy Como Quiero Ser",
-        "url": "https://open.spotify.com/album/2dJCC5WZDKqQbXmUJeLe9Z"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 191973,
-      "name": "Ahora Te Puedes Marchar",
-      "url": "https://open.spotify.com/track/1uKjQoh8JZj9ryuYRhpd7E"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
-        "name": "Pegao",
-        "url": "https://open.spotify.com/album/2BzQoZdHURkzdFErSQ2Qll"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 160733,
-      "name": "Pegao",
-      "url": "https://open.spotify.com/track/7Dk8r4VR5NoveUvTiCKEXC"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
         "name": "De mi pu\u00f1o y letra - Edicion Coleccionista",
         "url": "https://open.spotify.com/album/1cz8fhax6HNiCSE1uuV2Vs"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 230280,
       "name": "Colgando en tus manos (con Marta S\u00e1nchez)",
       "url": "https://open.spotify.com/track/3UI9I3e1g1y5T3SMfdgfGO"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
+        "name": "Pegao",
+        "url": "https://open.spotify.com/album/2BzQoZdHURkzdFErSQ2Qll"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 160733,
+      "name": "Pegao",
+      "url": "https://open.spotify.com/track/7Dk8r4VR5NoveUvTiCKEXC"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
-        "name": "Luces",
-        "url": "https://open.spotify.com/album/33y9UsVrEeUltpFdq8aPxZ"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 172561,
-      "name": "Luces",
-      "url": "https://open.spotify.com/track/77UICuAzXRYuJqdhcy6R3m"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
         "name": "Prometo",
         "url": "https://open.spotify.com/album/4qtl6sl6iwC37wRM9lbssD"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 253760,
       "name": "Saturno",
       "url": "https://open.spotify.com/track/2f0Ft2XdvNSMSY5TUlZgEz"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
+        "name": "Luces",
+        "url": "https://open.spotify.com/album/33y9UsVrEeUltpFdq8aPxZ"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 172561,
+      "name": "Luces",
+      "url": "https://open.spotify.com/track/77UICuAzXRYuJqdhcy6R3m"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -1227,26 +1227,6 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
-        "name": "\u00cdndigo",
-        "url": "https://open.spotify.com/album/1QtYnYj7SFX1EIqF6ALjaX"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        },
-        {
-          "name": "Evaluna Montaner",
-          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
-        }
-      ],
-      "duration_ms": 214933,
-      "name": "\u00cdndigo",
-      "url": "https://open.spotify.com/track/4knc1Fp3kbuq8bH2byOvLu"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
         "name": "Sigue/Forever My Love",
         "url": "https://open.spotify.com/album/5umofLk634QVTKYtt2Deoy"
       },
@@ -1267,22 +1247,18 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
-        "name": "Fantasi",
-        "url": "https://open.spotify.com/album/64d5HQCHWpk4Qfb1MkEzj9"
+        "name": "Mon Laferte (Vol. 1)",
+        "url": "https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0"
       },
       "artists": [
         {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        },
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
         }
       ],
-      "duration_ms": 158080,
-      "name": "Fantasi",
-      "url": "https://open.spotify.com/track/63GTuNSVLynH3n3PdqObgd"
+      "duration_ms": 278546,
+      "name": "Tu Falta De Querer",
+      "url": "https://open.spotify.com/track/4skuEIloXWuxxgekKupkEH"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -1307,18 +1283,42 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
-        "name": "Mon Laferte (Vol. 1)",
-        "url": "https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0"
+        "name": "\u00cdndigo",
+        "url": "https://open.spotify.com/album/1QtYnYj7SFX1EIqF6ALjaX"
       },
       "artists": [
         {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        },
+        {
+          "name": "Evaluna Montaner",
+          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
         }
       ],
-      "duration_ms": 278546,
-      "name": "Tu Falta De Querer",
-      "url": "https://open.spotify.com/track/4skuEIloXWuxxgekKupkEH"
+      "duration_ms": 214933,
+      "name": "\u00cdndigo",
+      "url": "https://open.spotify.com/track/4knc1Fp3kbuq8bH2byOvLu"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
+        "name": "Fantasi",
+        "url": "https://open.spotify.com/album/64d5HQCHWpk4Qfb1MkEzj9"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "duration_ms": 158080,
+      "name": "Fantasi",
+      "url": "https://open.spotify.com/track/63GTuNSVLynH3n3PdqObgd"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -1387,6 +1387,26 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
+        "name": "Te Vi",
+        "url": "https://open.spotify.com/album/02XOoh8XrlCc466QkkjGk5"
+      },
+      "artists": [
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        },
+        {
+          "name": "Micro TDH",
+          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
+        }
+      ],
+      "duration_ms": 231848,
+      "name": "Te Vi",
+      "url": "https://open.spotify.com/track/059bcIhyc2SBwm6sw2AZzd"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
         "name": "KESI (Remix)",
         "url": "https://open.spotify.com/album/00R62QqtlwSpAuwkS5kxB3"
       },
@@ -1407,22 +1427,18 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
-        "name": "Te Vi",
-        "url": "https://open.spotify.com/album/02XOoh8XrlCc466QkkjGk5"
+        "name": "\u00bfD\u00f3nde Jugar\u00e1n Los Ni\u00f1os?",
+        "url": "https://open.spotify.com/album/2G0I22upYkTLYxfoAHiwBK"
       },
       "artists": [
         {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        },
-        {
-          "name": "Micro TDH",
-          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
         }
       ],
-      "duration_ms": 231848,
-      "name": "Te Vi",
-      "url": "https://open.spotify.com/track/059bcIhyc2SBwm6sw2AZzd"
+      "duration_ms": 263306,
+      "name": "Oye Mi Amor",
+      "url": "https://open.spotify.com/track/5EJ2THuhAapEIeQOtXUQ0x"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -1487,22 +1503,6 @@
       "duration_ms": 154867,
       "name": "N5",
       "url": "https://open.spotify.com/track/6WZk0S0t6YP414VJz99mWT"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
-        "name": "\u00bfD\u00f3nde Jugar\u00e1n Los Ni\u00f1os?",
-        "url": "https://open.spotify.com/album/2G0I22upYkTLYxfoAHiwBK"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        }
-      ],
-      "duration_ms": 263306,
-      "name": "Oye Mi Amor",
-      "url": "https://open.spotify.com/track/5EJ2THuhAapEIeQOtXUQ0x"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -1815,22 +1815,18 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
-        "name": "Rompiendo Fronteras",
-        "url": "https://open.spotify.com/album/48XvYOTsoGV3Juk0OY7PDp"
+        "name": "Limon Y Sal",
+        "url": "https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q"
       },
       "artists": [
         {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        },
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
         }
       ],
-      "duration_ms": 228146,
-      "name": "S\u00e9 Que Te Duele",
-      "url": "https://open.spotify.com/track/1OJkKHmXsZVKtWlECdpDAe"
+      "duration_ms": 187520,
+      "name": "Me Voy",
+      "url": "https://open.spotify.com/track/100Tm6z29RfHTdUQ6NIs0s"
     }
   ],
   "unique_name": "\u00a1A limpiar con Pop!",

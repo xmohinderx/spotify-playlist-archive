@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79Y9Kr2M2tM.md) - [plain]
 
 > Float away on heady orchestrations and haunting harmonies...
 
-[Spotify](https://open.spotify.com/user/spotify) - 822,603 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 822,652 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79Y9Kr2M2tM.md) - [plain]
 | 19 | [In Dreams](https://open.spotify.com/track/6yPuQr6vjZ7tJ4oq1PEXle) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [I Forget Where We Were](https://open.spotify.com/album/4WI3oFEsDiHU3I5xHz88sF) | 3:33 |
 | 20 | [33 “GOD”](https://open.spotify.com/track/5sWF1EZGm727f3b620vkbC) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [22, A Million](https://open.spotify.com/album/4bJCKmpKgti10f3ltz6LLl) | 3:33 |
 | 21 | [Thin](https://open.spotify.com/track/7swTZr50nSpeq9469IJ9LI) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [ii](https://open.spotify.com/album/7MRes84TxvKPqlTbp3FDUN) | 2:58 |
-| 22 | [Atlantis](https://open.spotify.com/track/4Lp2SmcFyyMiWzfsDV2Qzh) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [A Pillar of Salt](https://open.spotify.com/album/6hlXrXeAAxPOZ4y5lonxiQ) | 5:19 |
-| 23 | [Wading In Waist\-High Water](https://open.spotify.com/track/1u8PeiYinEIxqWGXcxSgrI) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Shore](https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3) | 2:15 |
+| 22 | [Wading In Waist\-High Water](https://open.spotify.com/track/1u8PeiYinEIxqWGXcxSgrI) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Shore](https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3) | 2:15 |
+| 23 | [Atlantis](https://open.spotify.com/track/4Lp2SmcFyyMiWzfsDV2Qzh) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [A Pillar of Salt](https://open.spotify.com/album/6hlXrXeAAxPOZ4y5lonxiQ) | 5:19 |
 | 24 | [High And Dry](https://open.spotify.com/track/0GehqN1MkS7feXJWWk97KU) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [The Bends](https://open.spotify.com/album/49222lHU3qAalWzClAabbp) | 3:52 |
 | 25 | [Our Remains](https://open.spotify.com/track/3GLMvFjzOgJ3XGphEEVEPv) | [Beta Radio](https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB) | [Ancient Transition](https://open.spotify.com/album/1ybYkyaTa4UKK38JnMXAJl) | 4:04 |
 | 26 | [Cómo Me Quieres](https://open.spotify.com/track/11AURg9Kbju7LOcwQnR17f) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Con Todo El Mundo](https://open.spotify.com/album/7hTmy5ipq0ieK4DZZqaxml) | 3:45 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79Y9Kr2M2tM.md) - [plain]
 | 34 | [To Each His Own](https://open.spotify.com/track/0LQqaXgLL3e3dkPBpkwlGU) | [Talos](https://open.spotify.com/artist/5pdzKTGQAcRcxDOfN4mXSc) | [Far Out Dust](https://open.spotify.com/album/1rgoWhCjpJu9xKqGkg8PGv) | 3:10 |
 | 35 | [Old Now](https://open.spotify.com/track/3IVALWwWuGL5p3W6cPtjDH) | [Rosemary & Garlic](https://open.spotify.com/artist/7MZvYitgCWAOaKjxdm2S17) | [The Kingfisher](https://open.spotify.com/album/3KJQprTqgb4xq2TNqbBGEf) | 4:49 |
 | 36 | [Motives](https://open.spotify.com/track/6t8fO77SHrCqszDxX1CRMl) | [Davis John Patton](https://open.spotify.com/artist/4BXF9pCPS864m8VMjuR4Pl) | [Forest Park](https://open.spotify.com/album/42s6cU6zv7JYBvmmSWc7IR) | 4:03 |
-| 37 | [Spirit Cold](https://open.spotify.com/track/5HVHYpNllysLkUEduWKqlg) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [Holding On, Holding Out](https://open.spotify.com/album/0BmHDh5DQcdfUUGzvQ3pPR) | 3:38 |
-| 38 | [July Bones](https://open.spotify.com/track/4A6GiKusHlmrtqCyKAyPg2) | [Richard Walters](https://open.spotify.com/artist/3rUqgY188kWz0hKkqnpk9F) | [A.M.](https://open.spotify.com/album/1zO0DbmMO3xDxYaW72yIFc) | 3:59 |
+| 37 | [July Bones](https://open.spotify.com/track/4A6GiKusHlmrtqCyKAyPg2) | [Richard Walters](https://open.spotify.com/artist/3rUqgY188kWz0hKkqnpk9F) | [A.M.](https://open.spotify.com/album/1zO0DbmMO3xDxYaW72yIFc) | 3:59 |
+| 38 | [Spirit Cold](https://open.spotify.com/track/5HVHYpNllysLkUEduWKqlg) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [Holding On, Holding Out](https://open.spotify.com/album/0BmHDh5DQcdfUUGzvQ3pPR) | 3:38 |
 | 39 | [The Rains](https://open.spotify.com/track/2I5mhy8zeIIMWgOFny4Fle) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [The Wilds](https://open.spotify.com/album/6mG8sVZlEsKwNZeSq8sMpA) | 3:31 |
 | 40 | [Nocturne](https://open.spotify.com/track/2fv4O0H2EdMqliyEAUAEST) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [Nocturne EP](https://open.spotify.com/album/3KeZeDLfggA5icZ8HG9FHm) | 4:28 |
 | 41 | [By Night](https://open.spotify.com/track/2HiVLVR0RrcjQagWwuiwob) | [Puzzle Muteson](https://open.spotify.com/artist/3PkGkJmTotXKubtTksWboK) | [Theatrics](https://open.spotify.com/album/51EBcEd7bGD96iR6yXtYRC) | 3:38 |
@@ -94,19 +94,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79Y9Kr2M2tM.md) - [plain]
 | 84 | [Goat](https://open.spotify.com/track/2YEa3nFylD0cX3RZ48IJol) | [French For Rabbits](https://open.spotify.com/artist/0g6VRF5TU1BM5FvK0yKyS2) | [Spirits](https://open.spotify.com/album/0DTmI8AV6gVRELVABD2Gl4) | 3:48 |
 | 85 | [The Wolf](https://open.spotify.com/track/3HMd3dLDhHC9JfS9I6X4LJ) | [LEØ](https://open.spotify.com/artist/1dIdB87SOCg58ixm8rEtnm) | [The Wolf](https://open.spotify.com/album/2rMdFF4V0BhFxGExXFddY3) | 3:54 |
 | 86 | [Haven Lea](https://open.spotify.com/track/1npKCqB7DQ8bAM1DlWp5a9) | [Lists](https://open.spotify.com/artist/5bXcRydEFiSkcqjYlbW7uO) | [Haven Lea](https://open.spotify.com/album/206TdjkA3eP2MVvI3VPe3z) | 3:07 |
-| 87 | [It Wasn't Me](https://open.spotify.com/track/0fEFGxcfXnXHeHfvuVFuo1) | [Bedouine](https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5) | [Waysides](https://open.spotify.com/album/6Vsrdh2ayCbJuyh6roVVri) | 4:07 |
-| 88 | [Bones](https://open.spotify.com/track/6GpR9XtEpuKWMA3onpPkOP) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [Bones](https://open.spotify.com/album/4FkVOW9SXcaVtok2YecpkU) | 3:50 |
-| 89 | [Sea Creatures](https://open.spotify.com/track/73Tl9gM1BeVA1IHvGubOmI) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ) | [You Stay by the Sea \(Deluxe\)](https://open.spotify.com/album/4gyX2p2lAct97JgYtrpbH4) | 4:16 |
+| 87 | [Sea Creatures](https://open.spotify.com/track/73Tl9gM1BeVA1IHvGubOmI) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ) | [You Stay by the Sea \(Deluxe\)](https://open.spotify.com/album/4gyX2p2lAct97JgYtrpbH4) | 4:16 |
+| 88 | [It Wasn't Me](https://open.spotify.com/track/0fEFGxcfXnXHeHfvuVFuo1) | [Bedouine](https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5) | [Waysides](https://open.spotify.com/album/6Vsrdh2ayCbJuyh6roVVri) | 4:07 |
+| 89 | [Bones](https://open.spotify.com/track/6GpR9XtEpuKWMA3onpPkOP) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [Bones](https://open.spotify.com/album/4FkVOW9SXcaVtok2YecpkU) | 3:50 |
 | 90 | [All That You Know](https://open.spotify.com/track/45dfUwQFVgKBi4aoPHi0Ie) | [Simon Herron](https://open.spotify.com/artist/4OFLcYqjZVL1Da9wRw0ur7) | [Demons](https://open.spotify.com/album/0F1lQyCTjW4fqDklftnmeW) | 3:28 |
 | 91 | [Pictures](https://open.spotify.com/track/2rahZcwdQ3zQU6AEgXWV6G) | [Kyson](https://open.spotify.com/artist/1ysHnRqLx1sIFxUlahQftx) | [A Book Of Flying](https://open.spotify.com/album/1vXfSRXxuhqCWiVgA2Zzde) | 4:16 |
 | 92 | [Up Here North](https://open.spotify.com/track/7d6jv0jXA1bLmgkyN6IYkW) | [Lake Jons](https://open.spotify.com/artist/1LD9cpK7ofPgY3TtsJeKcB) | [Lake Jons](https://open.spotify.com/album/6CiM4lwONLS2tVvc0w42k1) | 3:04 |
 | 93 | [The Dark \- Sparse](https://open.spotify.com/track/6YpN6gfY8qGre9z8XRmTwM) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [The Dark](https://open.spotify.com/album/0vthbGW16gu7KsSkEeVDIh) | 3:50 |
-| 94 | [Saving Us a Riot](https://open.spotify.com/track/2n1mukIntnIGBzhf8Ifkr2) | [Phoria](https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm) | [Saving Us a Riot](https://open.spotify.com/album/1iT3Cml6HMAth8Cn9ZRCAz) | 4:16 |
-| 95 | [Society](https://open.spotify.com/track/5BQZpjCcPmFSeLzTh48Zfc) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Orbit](https://open.spotify.com/album/7JDJYXq99Jd9kUYAtsfK5u) | 3:53 |
+| 94 | [Society](https://open.spotify.com/track/5BQZpjCcPmFSeLzTh48Zfc) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Orbit](https://open.spotify.com/album/7JDJYXq99Jd9kUYAtsfK5u) | 3:53 |
+| 95 | [Saving Us a Riot](https://open.spotify.com/track/2n1mukIntnIGBzhf8Ifkr2) | [Phoria](https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm) | [Saving Us a Riot](https://open.spotify.com/album/1iT3Cml6HMAth8Cn9ZRCAz) | 4:16 |
 | 96 | [Modest Mountains](https://open.spotify.com/track/0xj2fWTHrgAjEQbs8rStb1) | [Field Division](https://open.spotify.com/artist/3JgnC8TzhcmWsm0V2a2ZTJ) | [Reverie State](https://open.spotify.com/album/6EYuYMm70gQfaCczfuGmyM) | 3:58 |
 | 97 | [The Light Upon Us](https://open.spotify.com/track/69O18s28CWdA7ixXHBAKkh) | [Talos](https://open.spotify.com/artist/5pdzKTGQAcRcxDOfN4mXSc) | [Far Out Dust](https://open.spotify.com/album/1rgoWhCjpJu9xKqGkg8PGv) | 3:49 |
 | 98 | [Something](https://open.spotify.com/track/0EDdio6SE4roZX2Wmofc7K) | [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [Shift](https://open.spotify.com/album/2Xv1zWXNkd2aMGmqEpUjc0) | 3:22 |
 | 99 | [Landmarks](https://open.spotify.com/track/6xwubO8Zh3KxXnFiyrLJJH) | [All The Luck In The World](https://open.spotify.com/artist/60ewzuY3lVH0QElQbFagIS) | [A Blind Arcade](https://open.spotify.com/album/4Ds6rvnKtkHS0GtFTwj8JG) | 4:07 |
 | 100 | [Dome](https://open.spotify.com/track/5F5hkKjJhqpuoM5VJER5pW) | [Firewoodisland](https://open.spotify.com/artist/4ueLGSUjr5bROoGkeZU4cW) | [Dome](https://open.spotify.com/album/01cD5X3u8Iv4gWFHmrWYfK) | 4:00 |
 
-Snapshot ID: `MTYzNTU0NTg4MiwwMDAwMDAwMDNkNGRlMWEyMjc4NTIzZjMwY2JlMzZkNDJjOTkxYWQz`
+Snapshot ID: `MTYzNTU0NTg4MiwwMDAwMDAwMGJjMjgyODkyOTE3YTkwZjJmMTkwYjNjY2VhZDU4MmI1`

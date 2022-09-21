@@ -1,12 +1,12 @@
 {
   "description": "Son j\u00f3venes, guerreras y cool. Foto: Delfina Campos",
-  "num_followers": 143232,
+  "num_followers": 143238,
   "original_name": "Mujeres del Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY5MjQwMCwwMDAwMDAwMGFjMDIyZGNjMWY2NzY2N2JmM2M5YWE5OGJkZjQ5M2Nk",
+  "snapshot_id": "MTY2MjY5MjQwMCwwMDAwMDAwMGFhY2VhNzA3NzVmYWI3YzFhMDQ5NTJjN2U3Yzc5ZTM1",
   "tracks": [
     {
       "added_at": "2022-09-09 03:00:00",
@@ -203,22 +203,6 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
-        "name": "La Negaci\u00f3n",
-        "url": "https://open.spotify.com/album/6HVV8a7LZBFRoSdlMZjIu2"
-      },
-      "artists": [
-        {
-          "name": "Malena Villa",
-          "url": "https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN"
-        }
-      ],
-      "duration_ms": 177818,
-      "name": "Lindos Problemas",
-      "url": "https://open.spotify.com/track/414ts7HIQUC1e8cQ4OwiCJ"
-    },
-    {
-      "added_at": "2022-09-09 03:00:00",
-      "album": {
         "name": "AM + bonus Tracks (Edici\u00f3n Aniversario)",
         "url": "https://open.spotify.com/album/4vGtwmxQqFEbG4FrGhuZel"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 225026,
       "name": "Maldita Primavera",
       "url": "https://open.spotify.com/track/72BwodBTqLkvm1pFqoBW6N"
+    },
+    {
+      "added_at": "2022-09-09 03:00:00",
+      "album": {
+        "name": "La Negaci\u00f3n",
+        "url": "https://open.spotify.com/album/6HVV8a7LZBFRoSdlMZjIu2"
+      },
+      "artists": [
+        {
+          "name": "Malena Villa",
+          "url": "https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN"
+        }
+      ],
+      "duration_ms": 177818,
+      "name": "Lindos Problemas",
+      "url": "https://open.spotify.com/track/414ts7HIQUC1e8cQ4OwiCJ"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -559,22 +559,6 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
-        "name": "Viaje",
-        "url": "https://open.spotify.com/album/3V41AmHEPSjD2w9A26yV2E"
-      },
-      "artists": [
-        {
-          "name": "Connie Isla",
-          "url": "https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a"
-        }
-      ],
-      "duration_ms": 195871,
-      "name": "Viaje",
-      "url": "https://open.spotify.com/track/0bCQXiRvn9Qb9gU3mV3b1b"
-    },
-    {
-      "added_at": "2022-09-09 03:00:00",
-      "album": {
         "name": "\u00bfQu\u00e9?",
         "url": "https://open.spotify.com/album/5DoubGLMbpvAYcd6DDz5Nz"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 216000,
       "name": "\u00bfQu\u00e9?",
       "url": "https://open.spotify.com/track/25bwcWBGh9ox4CR1ttJeHU"
+    },
+    {
+      "added_at": "2022-09-09 03:00:00",
+      "album": {
+        "name": "Viaje",
+        "url": "https://open.spotify.com/album/3V41AmHEPSjD2w9A26yV2E"
+      },
+      "artists": [
+        {
+          "name": "Connie Isla",
+          "url": "https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a"
+        }
+      ],
+      "duration_ms": 195871,
+      "name": "Viaje",
+      "url": "https://open.spotify.com/track/0bCQXiRvn9Qb9gU3mV3b1b"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -743,26 +743,6 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
-        "name": "La Fuerza",
-        "url": "https://open.spotify.com/album/3UYcSPXPALjGIhm18rZ33W"
-      },
-      "artists": [
-        {
-          "name": "La Bien Querida",
-          "url": "https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6"
-        },
-        {
-          "name": "Los Planetas",
-          "url": "https://open.spotify.com/artist/0N1TIXCk9Q9JbEPXQDclEL"
-        }
-      ],
-      "duration_ms": 250909,
-      "name": "La Fuerza",
-      "url": "https://open.spotify.com/track/4TQsJKRiNKWTNtaGscFQjd"
-    },
-    {
-      "added_at": "2022-09-09 03:00:00",
-      "album": {
         "name": "Ni tan Bien",
         "url": "https://open.spotify.com/album/2YiHAEkoXeLrw9jWhltxIB"
       },
@@ -779,6 +759,26 @@
       "duration_ms": 187690,
       "name": "Buen viaje",
       "url": "https://open.spotify.com/track/2Gb1ym9oVBPzkZA2BAJz3L"
+    },
+    {
+      "added_at": "2022-09-09 03:00:00",
+      "album": {
+        "name": "La Fuerza",
+        "url": "https://open.spotify.com/album/3UYcSPXPALjGIhm18rZ33W"
+      },
+      "artists": [
+        {
+          "name": "La Bien Querida",
+          "url": "https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6"
+        },
+        {
+          "name": "Los Planetas",
+          "url": "https://open.spotify.com/artist/0N1TIXCk9Q9JbEPXQDclEL"
+        }
+      ],
+      "duration_ms": 250909,
+      "name": "La Fuerza",
+      "url": "https://open.spotify.com/track/4TQsJKRiNKWTNtaGscFQjd"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -835,22 +835,6 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
-        "name": "Te Quiero Olvidar",
-        "url": "https://open.spotify.com/album/7vC7hsFMfCARD5FQWiAzIY"
-      },
-      "artists": [
-        {
-          "name": "Salt Cathedral",
-          "url": "https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP"
-        }
-      ],
-      "duration_ms": 202519,
-      "name": "Te Quiero Olvidar",
-      "url": "https://open.spotify.com/track/7HsVyALWw7ILw9wqNJGcUw"
-    },
-    {
-      "added_at": "2022-09-09 03:00:00",
-      "album": {
         "name": "Estamos Bajo el Agua",
         "url": "https://open.spotify.com/album/36rh05hGcnspz2thYgqVEv"
       },
@@ -871,22 +855,18 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
-        "name": "Un Gatito",
-        "url": "https://open.spotify.com/album/37mDIREfofAksvorhbC64M"
+        "name": "Te Quiero Olvidar",
+        "url": "https://open.spotify.com/album/7vC7hsFMfCARD5FQWiAzIY"
       },
       "artists": [
         {
-          "name": "La Bien Querida",
-          "url": "https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6"
-        },
-        {
-          "name": "Alizzz",
-          "url": "https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3"
+          "name": "Salt Cathedral",
+          "url": "https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP"
         }
       ],
-      "duration_ms": 185824,
-      "name": "Un Gatito",
-      "url": "https://open.spotify.com/track/2d7au8a1ImPjzTp8EyNcoI"
+      "duration_ms": 202519,
+      "name": "Te Quiero Olvidar",
+      "url": "https://open.spotify.com/track/7HsVyALWw7ILw9wqNJGcUw"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -959,6 +939,26 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
+        "name": "Un Gatito",
+        "url": "https://open.spotify.com/album/37mDIREfofAksvorhbC64M"
+      },
+      "artists": [
+        {
+          "name": "La Bien Querida",
+          "url": "https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6"
+        },
+        {
+          "name": "Alizzz",
+          "url": "https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3"
+        }
+      ],
+      "duration_ms": 185824,
+      "name": "Un Gatito",
+      "url": "https://open.spotify.com/track/2d7au8a1ImPjzTp8EyNcoI"
+    },
+    {
+      "added_at": "2022-09-09 03:00:00",
+      "album": {
         "name": "Va totalmente en serio...",
         "url": "https://open.spotify.com/album/0A7r87gaqIDH5fxRDO9O0U"
       },
@@ -971,38 +971,6 @@
       "duration_ms": 150236,
       "name": "A m\u00ed ya me iba mal de antes",
       "url": "https://open.spotify.com/track/51AdRQrcgO0ds6i7uZaNsA"
-    },
-    {
-      "added_at": "2022-09-09 03:00:00",
-      "album": {
-        "name": "Petr\u00f3leo",
-        "url": "https://open.spotify.com/album/1nL346oiQcGOx91bEe3JQ0"
-      },
-      "artists": [
-        {
-          "name": "Fiebre",
-          "url": "https://open.spotify.com/artist/2C0r0f1ek76DLNLb6ls8ro"
-        }
-      ],
-      "duration_ms": 195652,
-      "name": "Rush",
-      "url": "https://open.spotify.com/track/5DwrfmCwc7ZtRl9vfYKOuv"
-    },
-    {
-      "added_at": "2022-09-09 03:00:00",
-      "album": {
-        "name": "Dwele",
-        "url": "https://open.spotify.com/album/5XtFAf521DXYZSUguHTYWz"
-      },
-      "artists": [
-        {
-          "name": "Chita",
-          "url": "https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX"
-        }
-      ],
-      "duration_ms": 192800,
-      "name": "Dwele",
-      "url": "https://open.spotify.com/track/1veHLwdelVB4dYpJBurnhG"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -1035,6 +1003,38 @@
       "duration_ms": 175011,
       "name": "Si Tuviera",
       "url": "https://open.spotify.com/track/61dDCTOQcmJgAY0mmpfoTj"
+    },
+    {
+      "added_at": "2022-09-09 03:00:00",
+      "album": {
+        "name": "Petr\u00f3leo",
+        "url": "https://open.spotify.com/album/1nL346oiQcGOx91bEe3JQ0"
+      },
+      "artists": [
+        {
+          "name": "Fiebre",
+          "url": "https://open.spotify.com/artist/2C0r0f1ek76DLNLb6ls8ro"
+        }
+      ],
+      "duration_ms": 195652,
+      "name": "Rush",
+      "url": "https://open.spotify.com/track/5DwrfmCwc7ZtRl9vfYKOuv"
+    },
+    {
+      "added_at": "2022-09-09 03:00:00",
+      "album": {
+        "name": "Dwele",
+        "url": "https://open.spotify.com/album/5XtFAf521DXYZSUguHTYWz"
+      },
+      "artists": [
+        {
+          "name": "Chita",
+          "url": "https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX"
+        }
+      ],
+      "duration_ms": 192800,
+      "name": "Dwele",
+      "url": "https://open.spotify.com/track/1veHLwdelVB4dYpJBurnhG"
     },
     {
       "added_at": "2022-09-09 03:00:00",

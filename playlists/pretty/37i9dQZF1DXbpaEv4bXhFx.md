@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpaEv4bXhFx.md) - [plain]
 
 > 빗방울대신 감성을 맞는 시간.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,368 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,391 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpaEv4bXhFx.md) - [plain]
 | 9 | [Rain Song](https://open.spotify.com/track/2jGbpRUsuhFr6VelssN8Nq) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [Rain Song](https://open.spotify.com/album/2jTAGPtLTI71MyRhTITbyi) | 4:01 |
 | 10 | [When It Rains In Night](https://open.spotify.com/track/0C2tTlEGYQnUAVgbtJ68MB) | [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) | [Thumbs Up!](https://open.spotify.com/album/6AjfY47ASqK3OjjaPxTqaH) | 4:04 |
 | 11 | [Maze in the Mirror](https://open.spotify.com/track/12I69qHomlIZflYA1G2MAp) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Dream Chapter: ETERNITY](https://open.spotify.com/album/4jTVGyo4fSSFniFPbfr0bW) | 3:46 |
-| 12 | [Another Day](https://open.spotify.com/track/30YeoWowzWypZNSl6WNXAR) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [GO LIVE](https://open.spotify.com/album/6DWLIzvmiLPAuDWYZqrLQo) | 2:46 |
-| 13 | [WA\-R\-R](https://open.spotify.com/track/1ZEFYW6nPEvIcsIvymgsLk) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [Love, Pt\. 1](https://open.spotify.com/album/5oA67QC0FjqXTSGy2kCSJp) | 4:32 |
+| 12 | [WA\-R\-R](https://open.spotify.com/track/1ZEFYW6nPEvIcsIvymgsLk) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [Love, Pt\. 1](https://open.spotify.com/album/5oA67QC0FjqXTSGy2kCSJp) | 4:32 |
+| 13 | [Another Day](https://open.spotify.com/track/30YeoWowzWypZNSl6WNXAR) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [GO LIVE](https://open.spotify.com/album/6DWLIzvmiLPAuDWYZqrLQo) | 2:46 |
 | 14 | [Walking In The Rain \(feat\. Younha\)](https://open.spotify.com/track/3cJ520R7Pwav2xrQUHCcZo) | [Chancellor](https://open.spotify.com/artist/0u06YeydlBk3awnk5KgdBx), [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [Chancellor](https://open.spotify.com/album/5Jw4ohSYaEuxyOeIOR47Hq) | 4:08 |
 | 15 | [When This Rain Stops](https://open.spotify.com/track/6mavVLsxaa4YcPje9qZKcf) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Like Water \- The 1st Mini Album](https://open.spotify.com/album/1Ao5vWPO13f4l0ldwxOKL7) | 4:04 |
 | 16 | [On Rainy Days \(2021\)](https://open.spotify.com/track/4a0OYMqeBOGuzCPLg5SfWU) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [On Rainy Days \(2021\)](https://open.spotify.com/album/6KpcAZYdX5RrdXme2a12d8) | 3:50 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpaEv4bXhFx.md) - [plain]
 | 31 | [Magnolia](https://open.spotify.com/track/5XrRVO7bjxl1HUZ5Ffri4g) | [Aden](https://open.spotify.com/artist/4UDCQ7Ef3OTa8jd1SzXIsv) | [Magnolia](https://open.spotify.com/album/1xvErKDx1NMXm0nYNgMuW7) | 2:51 |
 | 32 | [Umbrella \(feat\. Ashley Alisha, Julian Rose\)](https://open.spotify.com/track/7jwfdA1tvjaqG3fi3HwHgm) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Ashley Alisha](https://open.spotify.com/artist/63P6hjn73jNbnEFT0gKWKk), [Julian Rose](https://open.spotify.com/artist/328e3lxjZnC2YueEVt503o) | [In the Rain](https://open.spotify.com/album/5gfpmmyrpKjXeiVrd4ZQmH) | 3:08 |
 | 33 | [ride](https://open.spotify.com/track/43ap1ds3F1o8Fmz6b29NoG) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [summer flows 0.02](https://open.spotify.com/album/2FxzArH5KLx18yasYHuVE4) | 3:48 |
-| 34 | [Sad ending \(Feat\. george\)](https://open.spotify.com/track/6hZoLssqHZJxLbqPu5g30F) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [Undo](https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J) | 4:22 |
-| 35 | [Still Wonder](https://open.spotify.com/track/1hD35Fj6NBNm2CEOn3QLCE) | [Ha Hyunsang](https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb) | [You Are My Spring OST Part 3](https://open.spotify.com/album/3XRvOMIh5LEfdSu1q69U96) | 2:41 |
+| 34 | [Still Wonder](https://open.spotify.com/track/1hD35Fj6NBNm2CEOn3QLCE) | [Ha Hyunsang](https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb) | [You Are My Spring OST Part 3](https://open.spotify.com/album/3XRvOMIh5LEfdSu1q69U96) | 2:41 |
+| 35 | [Sad ending \(Feat\. george\)](https://open.spotify.com/track/6hZoLssqHZJxLbqPu5g30F) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [Undo](https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J) | 4:22 |
 | 36 | [On A Rainy Day](https://open.spotify.com/track/3KhDf9MJlPpodahS4OwrMF) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [STABLE MINDSET](https://open.spotify.com/album/4ZCXsCHvaZ9r5skMrC4B9h) | 3:32 |
 | 37 | [My Day Is Full Of You](https://open.spotify.com/track/2QWa5RjnIGFwraHDPqlhFh) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [The King: Eternal Monarch \(Original Television Soundtrack\), Pt\. 10](https://open.spotify.com/album/02zl7wdcgbI0URRfMbzmF5) | 3:40 |
 | 38 | [ddu ddu ddu](https://open.spotify.com/track/6WfW2xPw3X5FiJPQWkaXoN) | [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) | [6equence](https://open.spotify.com/album/0SXzCRUFSNGBG1S1lqvzb1) | 3:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpaEv4bXhFx.md) - [plain]
 | 49 | [MISSING U](https://open.spotify.com/track/4uk677I1lb0ZPSXGhL2FcA) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [SEOULITE](https://open.spotify.com/album/3cGyWEJaQlj7kCdKBCOGeb) | 4:08 |
 | 50 | [Lost Way](https://open.spotify.com/track/19h2GgTMiwp0pkcZoB0cZr) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [Lost Way \(Good Doctor X Gaho\)](https://open.spotify.com/album/6dAFSut5NhJhMJcTyHzYEL) | 3:04 |
 
-Snapshot ID: `MTY2MjM5MzM3MywwMDAwMDAwMDIyZWFkMDQwMGEyNzgwZWVkNjk3YTliMmQ0ZGZmNzFm`
+Snapshot ID: `MTY2MjM5MzM3MywwMDAwMDAwMDZlMDJjOTY2MWI3MTFhYThmMmE3YzIyZWM1ZTVkZTMz`

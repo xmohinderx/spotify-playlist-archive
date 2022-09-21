@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > This week's essential new pop tracks\. Cover: Bazzi
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,717 likes - 101 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,814 likes - 101 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

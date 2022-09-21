@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZeFHRhhi7Y.md) - [plain]
 
 > Workout to K\-Pop? Count me in! \(Cover: IVE\(아이브\)\) \(신나는 케이팝 댄스 음악과 함께 운동을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 892,985 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 893,584 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZeFHRhhi7Y.md) - [plain]
 | 89 | [KISS](https://open.spotify.com/track/7MONmJafc7senaIZE3ulWv) | [TRI.BE](https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a) | [LEVIOSA](https://open.spotify.com/album/6ORQnWLnQLERhWhA3ON2Z5) | 3:05 |
 | 90 | [Ah puh](https://open.spotify.com/track/1IJxbEXfgiKuRx6oXMX87e) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:20 |
 | 91 | [DUMDi DUMDi](https://open.spotify.com/track/2fJ70dRX7J4jiVxKUQQp7C) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [DUMDi DUMDi](https://open.spotify.com/album/0NC6QFvAc9H9r5iov9QwjK) | 3:30 |
-| 92 | [Can't Control Myself](https://open.spotify.com/track/559f8rcNNZW07wz5Rfxnfh) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Can't Control Myself](https://open.spotify.com/album/2Xgk5KfKKed3D1a5B3gJJ9) | 3:01 |
-| 93 | [Make A Wish \(Birthday Song\)](https://open.spotify.com/track/6FdShjf7nA2cqEnpv1tIia) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [NCT RESONANCE Pt\. 1 \- The 2nd Album](https://open.spotify.com/album/6kudlOyCqSQfsBVSdPZEu4) | 3:49 |
+| 92 | [Make A Wish \(Birthday Song\)](https://open.spotify.com/track/6FdShjf7nA2cqEnpv1tIia) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [NCT RESONANCE Pt\. 1 \- The 2nd Album](https://open.spotify.com/album/6kudlOyCqSQfsBVSdPZEu4) | 3:49 |
+| 93 | [Can't Control Myself](https://open.spotify.com/track/559f8rcNNZW07wz5Rfxnfh) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Can't Control Myself](https://open.spotify.com/album/2Xgk5KfKKed3D1a5B3gJJ9) | 3:01 |
 | 94 | [DUMB DUMB](https://open.spotify.com/track/0dnkOK5hGUCmIJ7FDF0yHz) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [DUMB DUMB](https://open.spotify.com/album/24sFioeGsPtxa5fD6VzL8b) | 2:29 |
 | 95 | [Replay](https://open.spotify.com/track/4b33wUnbWt4YSZLWkwtlds) | [Golden Child](https://open.spotify.com/artist/5zShiwTHlygdfsXj6eavTu) | [AURA](https://open.spotify.com/album/3lWLkdPRedaFQGuC4qQpKm) | 3:27 |
 | 96 | [Secret Garden](https://open.spotify.com/track/2ZVQY4mXF3eHTu1RBnBZl0) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [SECRET GARDEN](https://open.spotify.com/album/5tnlYW7pyufAkD9DT8mXxz) | 4:04 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZeFHRhhi7Y.md) - [plain]
 | 99 | [DAYDREAM](https://open.spotify.com/track/3tOXDbhmpjSGxBFo2yp1eJ) | [Highlight](https://open.spotify.com/artist/3T0fMfxYBU3q9oAUAdPIsr) | [DAYDREAM](https://open.spotify.com/album/1LXXwyhpjtD725nOVp1kIu) | 3:13 |
 | 100 | [Summer or Summer](https://open.spotify.com/track/6tU92qp9bJWAW86IHUggUa) | [Hyolyn](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ), [DASOM](https://open.spotify.com/artist/6xxFNpc17jiiVZzOCgdLyv) | [Summer or Summer](https://open.spotify.com/album/5Sxd8gbumDCdcmq6M24eJV) | 3:19 |
 
-Snapshot ID: `MTY2MzMyMTIxNiwwMDAwMDAwMDFhNWMxOGI2MDhhNzAwYTQzZjg0ZDMwZTk5ZTgzNTMw`
+Snapshot ID: `MTY2MzMyMTIxNiwwMDAwMDAwMDNmNjk3Njg1YzlmMzAwYjZmZjYwZWNhOGI3NThhYTVi`

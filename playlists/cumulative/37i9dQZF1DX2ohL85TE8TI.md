@@ -2,7 +2,7 @@
 
 ### [Korean OSTs](https://open.spotify.com/playlist/37i9dQZF1DX2ohL85TE8TI)
 
-> Familiar hits that match your emotions while watching your favourite Korean movie or TV drama \(인기 있는 화제의 OST곡들을 즐겨보세요!\) \(커버: Extraordinary Attorney Woo \(이상한 변호사 우영우\)\)
+> Familiar hits that match your emotions while watching your favourite Korean movie or TV drama \(인기 있는 화제의 OST곡들을 즐겨보세요!\) \(커버: Little Women \(작은 아씨들\)\)
 
 408 songs - 1 day 0 hr 50 min - [published](https://open.spotify.com/playlist/05dVRqh1WO1Wgu33OmJUg0)
 
@@ -355,7 +355,7 @@
 | [Very, Slowly](https://open.spotify.com/track/7GkHIsnziYgk6j1lx2TK6H) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Twenty\-Five Twenty\-One OST Part 3](https://open.spotify.com/album/3KKlnC97LdYrHuOvolb8GP) | 3:34 | 2022-02-21 | 2022-05-12 |
 | [Wake Me Up \(Feat\. Meego\)](https://open.spotify.com/track/2nWaeTFKL8JcVfpPBkfsho) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [Meego](https://open.spotify.com/artist/1a09srXkFLTxDTfQRGRpNy) | [Unicorn \(Original Television Soundtrack\), Pt.1](https://open.spotify.com/album/1ikJMpMSCQfQg0ZopQSBVZ) | 3:24 | 2022-09-05 |  |
 | [Walking In The Memory](https://open.spotify.com/track/7EbrlzJyVfSZVldEY0MnCJ) | [MJ](https://open.spotify.com/artist/1LHYoqa8tahdIWTUvxb17Y) | [The Crush Of Spring OST Special Track](https://open.spotify.com/album/4rUPBt8ztBW38rCPJUdXiT) | 3:10 | 2022-05-11 | 2022-07-09 |
-| [Walter](https://open.spotify.com/track/6j0rp0aQDRzM3KZuTaoBki) | [CHOI SANG YEOP](https://open.spotify.com/artist/6utXy4Z1T5WeP6Kik5CKs4) | [뇌 멋대로 한다 \(Original Webtoon Soundtrack\)](https://open.spotify.com/album/12yv0CSwYEaanP2FalCzaj) | 3:29 | 2022-09-19 |  |
+| [Walter](https://open.spotify.com/track/6j0rp0aQDRzM3KZuTaoBki) | [CHOI SANG YEOP](https://open.spotify.com/artist/6utXy4Z1T5WeP6Kik5CKs4) | [뇌 멋대로 한다 \(Original Soundtrack\)](https://open.spotify.com/album/12yv0CSwYEaanP2FalCzaj) | 3:29 | 2022-09-19 |  |
 | [Want to be happy](https://open.spotify.com/track/2rMtQ0uNjFw9JjbsnEatEq) | [Park Boram](https://open.spotify.com/artist/6tvrEIVX5eKJlipdzt11wi) | [Want to be happy \(From "soundtrack\#1" \[Original Soundtrack\]\)](https://open.spotify.com/album/5H6N3lxYOXosRHBw6yFJyV) | 3:33 | 2022-01-14 | 2022-04-22 |
 | [Want to be your everyday](https://open.spotify.com/track/1zIPRCtwsyBX0ai0mduPV8) | [Sondia](https://open.spotify.com/artist/18VQ59noY7aOj59UNMozHp) | [Eve, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/7nCfwJnefvyzyqFWlUlL3l) | 3:42 | 2022-07-08 |  |
 | [Watch Me](https://open.spotify.com/track/2xpDd1NqdYAtG2TtP0QLH9) | [SURL](https://open.spotify.com/artist/7owveHzN1hmQuw6Ojg4sI3) | [Inspector Koo \(Original Television Soundtrack, Pt\. 3\)](https://open.spotify.com/album/1DAkuE9I931sRb2ceMqBl4) | 2:52 | 2021-12-19 | 2022-03-04 |

@@ -1,12 +1,12 @@
 {
   "description": "De beste norske l\u00e5tene fra noen av v\u00e5re aller beste artister.",
-  "num_followers": 63192,
+  "num_followers": 63197,
   "original_name": "Norske viser",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzU5ODk0NCwwMDAwMDAwMGM1NTk4ZDhmN2I3NDUxN2ZiNjcxMzI1OTU2Y2E2MzUy",
+  "snapshot_id": "MTY2MzU5ODk0NCwwMDAwMDAwMDMwMWUzODIxODBhNjRjYTg4YjliOTQ2ZDY5OTI0MDYw",
   "tracks": [
     {
       "added_at": "2022-09-19 14:49:04",
@@ -139,18 +139,22 @@
     {
       "added_at": "2022-09-19 14:49:04",
       "album": {
-        "name": "Evig Eies (Kun Et D\u00e5rlig Rykte)",
-        "url": "https://open.spotify.com/album/6pBw9UnwWxVJMw3HXjzLvU"
+        "name": "Pusterom",
+        "url": "https://open.spotify.com/album/1bCimO52g5O7Ahqp9fVO6d"
       },
       "artists": [
         {
-          "name": "Henning Kvitnes",
-          "url": "https://open.spotify.com/artist/2OCfkmVQCpJdqe4GfhXpF6"
+          "name": "Marie Kl\u00e5pbakken",
+          "url": "https://open.spotify.com/artist/2qHlT3DfJoJNI4I8IzQmky"
+        },
+        {
+          "name": "vinni",
+          "url": "https://open.spotify.com/artist/2rvUlmaAfN7eKSVAcaRj9t"
         }
       ],
-      "duration_ms": 253100,
-      "name": "Evig Eies (Kun Et D\u00e5rlig Rykte)",
-      "url": "https://open.spotify.com/track/25dpPTPkyVqtdOqk5Vw7o9"
+      "duration_ms": 186552,
+      "name": "Pusterom",
+      "url": "https://open.spotify.com/track/1pa2qaCSAloisRVL8YSMUT"
     },
     {
       "added_at": "2022-09-19 14:49:04",
@@ -231,22 +235,18 @@
     {
       "added_at": "2022-09-19 14:49:04",
       "album": {
-        "name": "Pusterom",
-        "url": "https://open.spotify.com/album/1bCimO52g5O7Ahqp9fVO6d"
+        "name": "Evig Eies (Kun Et D\u00e5rlig Rykte)",
+        "url": "https://open.spotify.com/album/6pBw9UnwWxVJMw3HXjzLvU"
       },
       "artists": [
         {
-          "name": "Marie Kl\u00e5pbakken",
-          "url": "https://open.spotify.com/artist/2qHlT3DfJoJNI4I8IzQmky"
-        },
-        {
-          "name": "vinni",
-          "url": "https://open.spotify.com/artist/2rvUlmaAfN7eKSVAcaRj9t"
+          "name": "Henning Kvitnes",
+          "url": "https://open.spotify.com/artist/2OCfkmVQCpJdqe4GfhXpF6"
         }
       ],
-      "duration_ms": 186552,
-      "name": "Pusterom",
-      "url": "https://open.spotify.com/track/1pa2qaCSAloisRVL8YSMUT"
+      "duration_ms": 253100,
+      "name": "Evig Eies (Kun Et D\u00e5rlig Rykte)",
+      "url": "https://open.spotify.com/track/25dpPTPkyVqtdOqk5Vw7o9"
     },
     {
       "added_at": "2022-09-19 14:49:04",
@@ -399,6 +399,22 @@
     {
       "added_at": "2022-09-19 14:49:04",
       "album": {
+        "name": "Stormens \u00d8ye",
+        "url": "https://open.spotify.com/album/6Fp9e8OcPdzlOCDgtUpntI"
+      },
+      "artists": [
+        {
+          "name": "Ane Brun",
+          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
+        }
+      ],
+      "duration_ms": 216911,
+      "name": "Stormens \u00d8ye",
+      "url": "https://open.spotify.com/track/6NUSlWdJJXjtZK4rUmzlyu"
+    },
+    {
+      "added_at": "2022-09-19 14:49:04",
+      "album": {
         "name": "Det jeg vil ha (fra deg)",
         "url": "https://open.spotify.com/album/0oRXCrnDAsKWQg6XoOvf0i"
       },
@@ -447,22 +463,6 @@
     {
       "added_at": "2022-09-19 14:49:04",
       "album": {
-        "name": "Stormens \u00d8ye",
-        "url": "https://open.spotify.com/album/6Fp9e8OcPdzlOCDgtUpntI"
-      },
-      "artists": [
-        {
-          "name": "Ane Brun",
-          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
-        }
-      ],
-      "duration_ms": 216911,
-      "name": "Stormens \u00d8ye",
-      "url": "https://open.spotify.com/track/6NUSlWdJJXjtZK4rUmzlyu"
-    },
-    {
-      "added_at": "2022-09-19 14:49:04",
-      "album": {
         "name": "Gutta P\u00e5 By`n",
         "url": "https://open.spotify.com/album/45mwIOTPBgzMo0UW5EXrZF"
       },
@@ -475,26 +475,6 @@
       "duration_ms": 350586,
       "name": "Heile Livet",
       "url": "https://open.spotify.com/track/0JqKsXLWxANEsih1Vsszgr"
-    },
-    {
-      "added_at": "2022-09-19 14:49:04",
-      "album": {
-        "name": "Imellom to Evigheter",
-        "url": "https://open.spotify.com/album/2INOoVCEg8h4xWkSyuYzya"
-      },
-      "artists": [
-        {
-          "name": "Finn Kalvik",
-          "url": "https://open.spotify.com/artist/4t5H7BynY6Et5nbYwjU3an"
-        },
-        {
-          "name": "Cajsa Stina \u00c5kerstr\u00f6m",
-          "url": "https://open.spotify.com/artist/0N98N0DiskOexjlZjJ6YZ7"
-        }
-      ],
-      "duration_ms": 254680,
-      "name": "Tr\u00f8stevise (Tr\u00f6stevisa)",
-      "url": "https://open.spotify.com/track/05MxJsc8F0G2u3IIz6g0b2"
     },
     {
       "added_at": "2022-09-19 14:49:04",
@@ -515,6 +495,22 @@
     {
       "added_at": "2022-09-19 14:49:04",
       "album": {
+        "name": "Gressholmen",
+        "url": "https://open.spotify.com/album/5ZUNIkbIigepocjfzRWdX9"
+      },
+      "artists": [
+        {
+          "name": "Kristian Kristensen",
+          "url": "https://open.spotify.com/artist/75ZTlOo6olxm9thcXVh6Ta"
+        }
+      ],
+      "duration_ms": 231334,
+      "name": "T\u00e5rnet",
+      "url": "https://open.spotify.com/track/6JmZt1IQx2gzytm34xdyDQ"
+    },
+    {
+      "added_at": "2022-09-19 14:49:04",
+      "album": {
         "name": "Henda i v\u00e6ret",
         "url": "https://open.spotify.com/album/7aNSIKBQz7vO6nh490K0Hn"
       },
@@ -531,18 +527,22 @@
     {
       "added_at": "2022-09-19 14:49:04",
       "album": {
-        "name": "Gressholmen",
-        "url": "https://open.spotify.com/album/5ZUNIkbIigepocjfzRWdX9"
+        "name": "Imellom to Evigheter",
+        "url": "https://open.spotify.com/album/2INOoVCEg8h4xWkSyuYzya"
       },
       "artists": [
         {
-          "name": "Kristian Kristensen",
-          "url": "https://open.spotify.com/artist/75ZTlOo6olxm9thcXVh6Ta"
+          "name": "Finn Kalvik",
+          "url": "https://open.spotify.com/artist/4t5H7BynY6Et5nbYwjU3an"
+        },
+        {
+          "name": "Cajsa Stina \u00c5kerstr\u00f6m",
+          "url": "https://open.spotify.com/artist/0N98N0DiskOexjlZjJ6YZ7"
         }
       ],
-      "duration_ms": 231334,
-      "name": "T\u00e5rnet",
-      "url": "https://open.spotify.com/track/6JmZt1IQx2gzytm34xdyDQ"
+      "duration_ms": 254680,
+      "name": "Tr\u00f8stevise (Tr\u00f6stevisa)",
+      "url": "https://open.spotify.com/track/05MxJsc8F0G2u3IIz6g0b2"
     },
     {
       "added_at": "2022-09-19 14:49:04",

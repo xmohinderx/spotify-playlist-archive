@@ -4,7 +4,7 @@
 
 > Immerse deeper into obscure alternate dimensions..\. 🦇🔮
 
-110 songs - 9 hr 21 min - [published](https://open.spotify.com/playlist/35JGd7xkZ4aXiacB1Wn3xh)
+111 songs - 9 hr 24 min - [published](https://open.spotify.com/playlist/35JGd7xkZ4aXiacB1Wn3xh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [1.0\_1\-hellofriend.wav](https://open.spotify.com/track/2fFlmlePz9hrVMv4LvdQxN) | [Mac Quayle](https://open.spotify.com/artist/3HLApxqtvULlffnRnW88O8) | [Mr\. Robot, Vol\. 1 \(Original Television Series Soundtrack\)](https://open.spotify.com/album/012oKUlmu9qA84z4kYrOAj) | 1:16 | 2022-07-06 |  |
 | [13 Angels Standing Guard 'Round The Side Of Your Bed](https://open.spotify.com/track/3cEVhx8rkM0FlETJFFpxoF) | [Silver Mt\. Zion](https://open.spotify.com/artist/0bRpSBtMd3stO4J6TWclMb) | [He Has Left Us Alone But Shafts Of Light Sometimes Grace The Corner Of Our Rooms](https://open.spotify.com/album/5HiOC51yLvjjtOudM8LKPy) | 7:22 | 2022-07-06 | 2022-07-29 |
 | [13 Angels Standing Guard 'Round The Side Of Your Bed](https://open.spotify.com/track/7jbLjvNlKbfCRUoFWKo5TR) | [Silver Mt\. Zion](https://open.spotify.com/artist/0bRpSBtMd3stO4J6TWclMb) | [He Has Left Us Alone But Shafts Of Light Sometimes Grace The Corner Of Our Rooms](https://open.spotify.com/album/298tKa2DPLT9GNmY8vsvLj) | 7:22 | 2022-07-06 |  |
+| [1st Night](https://open.spotify.com/track/12yR0xcp0nGr0pSsDzzMUe) | [Debit](https://open.spotify.com/artist/101vLnWdoeyAyQhADB4bqe) | [The Long Count](https://open.spotify.com/album/5E3VtquEh09l4f1jvLbksN) | 3:28 | 2022-09-21 |  |
 | [A Curved Blade](https://open.spotify.com/track/4Ym6wbx5lfJpzBfMnqeGlT) | [Atrium Carceri](https://open.spotify.com/artist/6UIsHrMMddC9hmkwI4J3Jr) | [Void](https://open.spotify.com/album/37uM7AfX8Zo0gKSLUNPHSj) | 6:03 | 2022-07-06 |  |
 | [A Quick One Before the Eternal Worm Devours Connecticut](https://open.spotify.com/track/34dkZZNQJzEJRqPkywYmEY) | [Have A Nice Life](https://open.spotify.com/artist/0FRKTwQSToXpCxYMhyUzYY) | [Deathconsciousness](https://open.spotify.com/album/6MH3CAXp8AN8ELrbex18dM) | 7:52 | 2022-07-06 |  |
 | [A Room Between the Rooms](https://open.spotify.com/track/6aAfkcsiO7rerTy6kHJ6V4) | [Kammarheit](https://open.spotify.com/artist/3uUghlgJJQPZOHB6KRrSXZ) | [The Starwheel](https://open.spotify.com/album/5Dh3rhalDH2MPXTS2yhIOG) | 6:33 | 2022-07-06 |  |
@@ -88,7 +89,7 @@
 | [Sick Times](https://open.spotify.com/track/3smDJCcylq9ghblaXmslo8) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Tomorrow's Harvest](https://open.spotify.com/album/159ORixBSSemxiualv1Woj) | 4:16 | 2022-07-06 |  |
 | [Signals \- Remastered 2005](https://open.spotify.com/track/5Q5MFVjUWVNgb7XBerPdbQ) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Apollo](https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E) | 2:46 | 2022-07-06 |  |
 | [Silent Messenger](https://open.spotify.com/track/4z2rlz9eCnfpWv2eAVg3SF) | [Desiderii Marginis](https://open.spotify.com/artist/56TXBqxg34LL3EqFqwS3EX) | [Procession](https://open.spotify.com/album/0JCLdXVVINlBEugw8VtRRV) | 7:35 | 2022-07-06 |  |
-| [Slipping Away \(In a Dream\)](https://open.spotify.com/track/7puJT8Dq180XAnVWs0wLAA) | [Don](https://open.spotify.com/artist/2ldH4h3nkIuOio5BW1KWUs) | [Distanced](https://open.spotify.com/album/19EnpeDNAmXtZrSnMBPcc8) | 1:31 | 2022-07-06 |  |
+| [Slipping Away \(In a Dream\)](https://open.spotify.com/track/7puJT8Dq180XAnVWs0wLAA) | [Don](https://open.spotify.com/artist/2ldH4h3nkIuOio5BW1KWUs) | [Distanced](https://open.spotify.com/album/19EnpeDNAmXtZrSnMBPcc8) | 1:31 | 2022-07-06 | 2022-09-21 |
 | [Spectral Corridor Part 4](https://open.spotify.com/track/4VzYC6ZbJFuHQaDmWiIFPW) | [The House In the Woods](https://open.spotify.com/artist/6fopY1TSYnXYGO9AUFW9Ej), [Pye Corner Audio](https://open.spotify.com/artist/3ib3ECT421EXd8CNLfNqAL) | [The Spectral Corridor](https://open.spotify.com/album/0VLbHcZxY9nKSnuQjSwrGV) | 8:31 | 2022-07-06 |  |
 | [Sticks and Stones](https://open.spotify.com/track/2B0IVAINVS2tD7m1P2dZPx) | [Belbury Poly](https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB) | [The Gone Away](https://open.spotify.com/album/0xd7v6oCe19dDOKz7Po6lv) | 4:02 | 2022-07-06 |  |
 | [Stranger Things](https://open.spotify.com/track/0kwuKfWntoGh0EWyYb7Mpf) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Stranger Things, Vol\. 1 \(A Netflix Original Series Soundtrack\)](https://open.spotify.com/album/1puplOrvmUGoq2VxsB0ENJ) | 1:07 | 2022-07-06 |  |

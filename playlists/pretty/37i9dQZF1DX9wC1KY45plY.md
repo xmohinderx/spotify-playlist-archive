@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wC1KY45plY.md) - [plain]
 
 > A soundtrack to fuel your good mood while on the road.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,919,253 likes - 100 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,920,807 likes - 100 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wC1KY45plY.md) - [plain]
 | 61 | [Panama \- 2015 Remaster](https://open.spotify.com/track/05RgAMGypEvqhNs5hPCbMS) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [1984 \(Remastered\)](https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0) | 3:30 |
 | 62 | [Reelin' In The Years](https://open.spotify.com/track/1I7zHEdDx8Ny5RxzYPqsU2) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Can't Buy A Thrill](https://open.spotify.com/album/4Gh6pRaXqXTtJx4plAJbBw) | 4:35 |
 | 63 | [Break My Stride](https://open.spotify.com/track/1mCsF9Tw4AkIZOjvZbZZdT) | [Matthew Wilder](https://open.spotify.com/artist/3bmFPbLMiLxtR9tFrTcKcP) | [I Don't Speak The Language](https://open.spotify.com/album/2coqGqbnSCAy740mClWesA) | 3:04 |
-| 64 | [American Girl](https://open.spotify.com/track/7MRyJPksH3G2cXHN8UKYzP) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Tom Petty & The Heartbreakers](https://open.spotify.com/album/6TLTd0P2CUI0Q29AQ1LyFi) | 3:34 |
-| 65 | [Any Way You Want It](https://open.spotify.com/track/71SvEDmsOwIWw1IozsZoMA) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Departure](https://open.spotify.com/album/2OyVtIEp7O7a6o82DF4Ba5) | 3:21 |
+| 64 | [Any Way You Want It](https://open.spotify.com/track/71SvEDmsOwIWw1IozsZoMA) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Departure](https://open.spotify.com/album/2OyVtIEp7O7a6o82DF4Ba5) | 3:21 |
+| 65 | [American Girl](https://open.spotify.com/track/7MRyJPksH3G2cXHN8UKYzP) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Tom Petty & The Heartbreakers](https://open.spotify.com/album/6TLTd0P2CUI0Q29AQ1LyFi) | 3:34 |
 | 66 | [Hungry Like the Wolf \- 2009 Remaster](https://open.spotify.com/track/39lSeqnyjZJejRuaREfyLL) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Rio \(Collector's Edition\)](https://open.spotify.com/album/02tfQwJSOLP77oCd9U8bqm) | 3:40 |
 | 67 | [Beast Of Burden \- Remastered 1994](https://open.spotify.com/track/77oU2rjC5XbjQfNe3bD6so) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Some Girls](https://open.spotify.com/album/1Jv2AqzhgsduUik2p4k3cS) | 4:25 |
 | 68 | [Rebel Rebel \- 2016 Remaster](https://open.spotify.com/track/2EC9IJj7g0mN1Q5VrZkiYY) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Diamond Dogs \(2016 Remaster\)](https://open.spotify.com/album/72mfhbEsMtXR6s7v9UhKe3) | 4:34 |
@@ -87,13 +87,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wC1KY45plY.md) - [plain]
 | 77 | [Life in the Fast Lane \- 2013 Remaster](https://open.spotify.com/track/6gXrEUzibufX9xYPk3HD5p) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Hotel California \(2013 Remaster\)](https://open.spotify.com/album/2widuo17g5CEC66IbzveRu) | 4:46 |
 | 78 | [Time After Time](https://open.spotify.com/track/1Jj6MF0xDOMA3Ut2Z368Bx) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [She's So Unusual: A 30th Anniversary Celebration \(Deluxe Edition\)](https://open.spotify.com/album/4pox3k0CGuwwAknR9GtcoX) | 4:03 |
 | 79 | [Jessie's Girl](https://open.spotify.com/track/5RsUlxLto4NZbhJpqJbHfN) | [Rick Springfield](https://open.spotify.com/artist/6IFXsrXBpwbIqtOUOiAa3p) | [Working Class Dog](https://open.spotify.com/album/4KKFWTePKtgb6mOwFDqxYa) | 3:14 |
-| 80 | [End Of The Line](https://open.spotify.com/track/4HA2jo7wkMdN1lmLO6ryzE) | [Traveling Wilburys](https://open.spotify.com/artist/2hO4YtXUFJiUYS2uYFvHNK) | [The Traveling Wilburys, Vol\. 1](https://open.spotify.com/album/7K3OJcdtRxv7miXfQBzvbi) | 3:29 |
-| 81 | [Sunday Bloody Sunday \- Remastered 2008](https://open.spotify.com/track/6C4LXC9UFH1IKiHYOp0BiJ) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [War \(Remastered\)](https://open.spotify.com/album/6GaqU0TlYBKHUiSJ0AT9A2) | 4:39 |
+| 80 | [Sunday Bloody Sunday \- Remastered 2008](https://open.spotify.com/track/6C4LXC9UFH1IKiHYOp0BiJ) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [War \(Remastered\)](https://open.spotify.com/album/6GaqU0TlYBKHUiSJ0AT9A2) | 4:39 |
+| 81 | [End Of The Line](https://open.spotify.com/track/4HA2jo7wkMdN1lmLO6ryzE) | [Traveling Wilburys](https://open.spotify.com/artist/2hO4YtXUFJiUYS2uYFvHNK) | [The Traveling Wilburys, Vol\. 1](https://open.spotify.com/album/7K3OJcdtRxv7miXfQBzvbi) | 3:29 |
 | 82 | [You Ain't Seen Nothing Yet](https://open.spotify.com/track/0HOrDVS349XFcpCYsO2hAP) | [Bachman\-Turner Overdrive](https://open.spotify.com/artist/5q4AzEtCoYJyXjMMoEkSU5) | [Not Fragile](https://open.spotify.com/album/3TtCMt4XLddj9PQeVBfsK1) | 3:54 |
 | 83 | [Runnin' Down A Dream](https://open.spotify.com/track/5yAu4njFSdM47dfsTkQPZ2) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [The Best Of Everything \- The Definitive Career Spanning Hits Collection 1976\-2016](https://open.spotify.com/album/32OhZ2CWxc259H9w52JMTH) | 4:21 |
 | 84 | [Hurts So Good](https://open.spotify.com/track/67eX1ovaHyVPUinMHeUtIM) | [John Mellencamp](https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH) | [American Fool](https://open.spotify.com/album/4gouGcdQn9OvjX42xnWrF0) | 3:38 |
-| 85 | [Glory Days](https://open.spotify.com/track/2Y90nL1ohB4sgYELDs7uNx) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born In The U.S.A.](https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O) | 4:14 |
-| 86 | [Your Love](https://open.spotify.com/track/5dRQUolXAVX3BbCiIxmSsf) | [The Outfield](https://open.spotify.com/artist/1zxDewzd2j1ZdSBGaYcr0y) | [Super Hits](https://open.spotify.com/album/5FfkiNcXAvagExRCLd8nn4) | 3:41 |
+| 85 | [Your Love](https://open.spotify.com/track/5dRQUolXAVX3BbCiIxmSsf) | [The Outfield](https://open.spotify.com/artist/1zxDewzd2j1ZdSBGaYcr0y) | [Super Hits](https://open.spotify.com/album/5FfkiNcXAvagExRCLd8nn4) | 3:41 |
+| 86 | [Glory Days](https://open.spotify.com/track/2Y90nL1ohB4sgYELDs7uNx) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born In The U.S.A.](https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O) | 4:14 |
 | 87 | [My Life](https://open.spotify.com/track/4ZoBC5MhSEzuknIgAkBaoT) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [52nd Street](https://open.spotify.com/album/1HmCO8VK98AU6EXPOjGYyI) | 4:44 |
 | 88 | [Just What I Needed](https://open.spotify.com/track/4alHo6RGd0D3OUbTPExTHN) | [The Cars](https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp) | [The Cars](https://open.spotify.com/album/4tJPWT4r4FSKwy784Qs1Fq) | 3:45 |
 | 89 | [Learning To Fly](https://open.spotify.com/track/17S4XrLvF5jlGvGCJHgF51) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Into The Great Wide Open](https://open.spotify.com/album/42G5ULkCRRl3crJMlg6eKd) | 4:02 |
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wC1KY45plY.md) - [plain]
 | 91 | [Missing You](https://open.spotify.com/track/1Qrdlkgg9I4J7r3P4kZNwr) | [John Waite](https://open.spotify.com/artist/2TPyCsRoh2tjeZLTQ2ojlj) | [No Brakes](https://open.spotify.com/album/65Uo74eW8L3zXUxSOlSm6H) | 4:29 |
 | 92 | [Broken Wings](https://open.spotify.com/track/78FHUZRbFDCG6VkRAQdFLm) | [Mr\. Mister](https://open.spotify.com/artist/7Bah8E0kCETqEpAHI6CPzQ) | [Welcome To The Real World](https://open.spotify.com/album/682sQ449vmcJXS2AGIMrsl) | 5:43 |
 | 93 | [Juke Box Hero](https://open.spotify.com/track/00qOE7OjRl0BpYiCiweZB2) | [Foreigner](https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN) | [4 \(Expanded\)](https://open.spotify.com/album/2Pw51hAGvWpTA3AYl2WVuu) | 4:19 |
-| 94 | [Livin' Thing](https://open.spotify.com/track/2hdNya0b6Cc2YJ8IyaQIWp) | [Electric Light Orchestra](https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk) | [A New World Record](https://open.spotify.com/album/7a35UzxXYuKQGMGImyB0Un) | 3:32 |
-| 95 | [Take Me Home Tonight](https://open.spotify.com/track/7b4yGtR0rujvLi5EBfKKJ2) | [Eddie Money](https://open.spotify.com/artist/4Tw2N3wdvJPGEU7JqMxFfE) | [Can't Hold Back](https://open.spotify.com/album/2gLYQmHLHZhNpTxlnlkXy7) | 3:31 |
+| 94 | [Take Me Home Tonight](https://open.spotify.com/track/7b4yGtR0rujvLi5EBfKKJ2) | [Eddie Money](https://open.spotify.com/artist/4Tw2N3wdvJPGEU7JqMxFfE) | [Can't Hold Back](https://open.spotify.com/album/2gLYQmHLHZhNpTxlnlkXy7) | 3:31 |
+| 95 | [Livin' Thing](https://open.spotify.com/track/2hdNya0b6Cc2YJ8IyaQIWp) | [Electric Light Orchestra](https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk) | [A New World Record](https://open.spotify.com/album/7a35UzxXYuKQGMGImyB0Un) | 3:32 |
 | 96 | [I Want You to Want Me](https://open.spotify.com/track/1JkZg3eMQTmTn93E8Yd3UL) | [Cheap Trick](https://open.spotify.com/artist/1LB8qB5BPb3MHQrfkvifXU) | [In Color](https://open.spotify.com/album/2sXJQdHykPYcRQ7xFhwzMR) | 3:11 |
-| 97 | [Kokomo](https://open.spotify.com/track/5qHYXcVvc9xsFB2uH7GpMN) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [The Very Best Of The Beach Boys: Sounds Of Summer](https://open.spotify.com/album/47VjIh8rgyMJJHNR98w0Kw) | 3:37 |
+| 97 | [Drive \- 2017 Remaster](https://open.spotify.com/track/2lFFiNm0XtgJ6wkdncTB4k) | [The Cars](https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp) | [Heartbeat City \(Expanded Edition\)](https://open.spotify.com/album/7LPfdVDw4uXf9Bw5LQDESf) | 3:54 |
 | 98 | [Cold as Ice](https://open.spotify.com/track/7vidktgNZFQylTgH1GEnMs) | [Foreigner](https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN) | [Foreigner \(Expanded\)](https://open.spotify.com/album/1OU7zJvUfgxxPHgkTClt1M) | 3:20 |
-| 99 | [Drive \- 2017 Remaster](https://open.spotify.com/track/2lFFiNm0XtgJ6wkdncTB4k) | [The Cars](https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp) | [Heartbeat City \(Expanded Edition\)](https://open.spotify.com/album/7LPfdVDw4uXf9Bw5LQDESf) | 3:54 |
+| 99 | [Kokomo](https://open.spotify.com/track/5qHYXcVvc9xsFB2uH7GpMN) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [The Very Best Of The Beach Boys: Sounds Of Summer](https://open.spotify.com/album/47VjIh8rgyMJJHNR98w0Kw) | 3:37 |
 | 100 | [It's Still Rock and Roll to Me](https://open.spotify.com/track/64UioB4Nmwgn2f4cbIpAkl) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [Glass Houses](https://open.spotify.com/album/5sztejERqpktXEdemlUvU5) | 2:56 |
 
-Snapshot ID: `MTY2MjU2MzQxNCwwMDAwMDAwMGJkY2M0OGE3NzVjZDQ0OGIwOGZkMGY1NTA5ZjRlMTMz`
+Snapshot ID: `MTY2MjU2MzQxNCwwMDAwMDAwMDQ5MWU4MTQyNjJlZjM1YTVlNTZlYjFkY2QzNTMyMGI2`

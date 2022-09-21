@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyvco9C4Og0.md) - [plain]
 
 > Las leyendas del mariachi están aquí\. Vicente Fernández en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 812,359 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 812,639 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyvco9C4Og0.md) - [plain]
 | 31 | [Te Lloré Un Río \- Versión Mariacheño](https://open.spotify.com/track/04firplM7voiFmGWNTI3Va) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Te Lloré Un Río](https://open.spotify.com/album/7GV5uaJVmICyAAdEoUgKbd) | 3:29 |
 | 32 | [El Malo](https://open.spotify.com/track/6mLX6uVPp6uLlBVim1rR82) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [El Malo](https://open.spotify.com/album/4fvBzXczcpD346IFgtWnaI) | 2:57 |
 | 33 | [Ya Lo Sé](https://open.spotify.com/track/4pIiKrGXCgTZOAFGJjCEvL) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [La Gran Señora](https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa) | 3:23 |
-| 34 | [Te Solté la Rienda](https://open.spotify.com/track/3YubPkIjza38KmXTIGdk91) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [El Cantinero](https://open.spotify.com/album/7Gxn1LKL1SUSW8CVJugfES) | 2:38 |
-| 35 | [El Hijo Desobediente](https://open.spotify.com/track/1uWves4S89RPNHMMM28H0x) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Rancherísimo, Vol\. 2](https://open.spotify.com/album/3AV09tqLmn5HRwmf54Dz1U) | 3:15 |
+| 34 | [El Hijo Desobediente](https://open.spotify.com/track/1uWves4S89RPNHMMM28H0x) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Rancherísimo, Vol\. 2](https://open.spotify.com/album/3AV09tqLmn5HRwmf54Dz1U) | 3:15 |
+| 35 | [Te Solté la Rienda](https://open.spotify.com/track/3YubPkIjza38KmXTIGdk91) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [El Cantinero](https://open.spotify.com/album/7Gxn1LKL1SUSW8CVJugfES) | 2:38 |
 | 36 | [Ahí Donde Me Ven](https://open.spotify.com/track/7AU5lOckSQL0jOFNiv1uUy) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Mexicana Enamorada](https://open.spotify.com/album/6mkOolBljGoPHJAvsI7deX) | 4:04 |
 | 37 | [Como Quien Pierde una Estrella](https://open.spotify.com/track/7rayH7w0DFOWTZ9LZaKL3G) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Lo Esencial De Alejandro Fernández](https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi) | 3:35 |
 | 38 | [Usted No Me Olvida](https://open.spotify.com/track/4gE4qvNzrjB1htVTCw8n4x) | [Joaquin Guiller](https://open.spotify.com/artist/2AHbxv3jnfIDz6BmPn979c) | [Usted No Me Olvida](https://open.spotify.com/album/1pZ3vJWhIYpzOvXbl62giM) | 3:13 |
@@ -64,15 +64,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyvco9C4Og0.md) - [plain]
 | 54 | [Hasta Que Llegue el Alba](https://open.spotify.com/track/7kRUOKGmAG7wNxMy9tFQS7) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [A la Medida](https://open.spotify.com/album/6efOKRzidSTHQXjUyHmCM4) | 4:30 |
 | 55 | [En Realidad](https://open.spotify.com/track/0yig7Mn3nsz17bRgyeameH) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [En Realidad](https://open.spotify.com/album/4RX4z2boimAXPxgEif3YKM) | 3:25 |
 | 56 | [El Pastor](https://open.spotify.com/track/4r7V9rY0u9Vn3y9E928Ehr) | [Miguel Aceves Mejia](https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY) | [Lo Mejor De Lo Mejor De RCA Victor](https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo) | 2:55 |
-| 57 | [Me Equivoqué Contigo](https://open.spotify.com/track/55ZDD5T3EzXPyCaTSRoFkL) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Con Un Mismo Corazon](https://open.spotify.com/album/40hluezOWA4jSt7E0PePHT) | 2:54 |
-| 58 | [Sombras \- Versión Trío](https://open.spotify.com/track/5XvhkNqprUww9RHa4XjSd2) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Exitos Con Trio](https://open.spotify.com/album/1BiLtcjrB3K5nJOaJ8gmaD) | 3:27 |
+| 57 | [Sombras \- Versión Trío](https://open.spotify.com/track/5XvhkNqprUww9RHa4XjSd2) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Exitos Con Trio](https://open.spotify.com/album/1BiLtcjrB3K5nJOaJ8gmaD) | 3:27 |
+| 58 | [Me Equivoqué Contigo](https://open.spotify.com/track/55ZDD5T3EzXPyCaTSRoFkL) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Con Un Mismo Corazon](https://open.spotify.com/album/40hluezOWA4jSt7E0PePHT) | 2:54 |
 | 59 | [Qué Mal Te Ves Sin Mí](https://open.spotify.com/track/4lc3SmNj0FBtPGygUfeGc4) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [No Pongan Esas Canciones](https://open.spotify.com/album/0NTVddhlKzjxGdCAdWR80h) | 3:17 |
 | 60 | [Moños Negros](https://open.spotify.com/track/1DAIPsYEXEOaOlJaG8Lv0w) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Moños Negros](https://open.spotify.com/album/5amUm1QKYdr7cW3T4uoUX9) | 3:22 |
 | 61 | [Me Caí De La Nube](https://open.spotify.com/track/3ZLsDOTN8cFjtQ9ctntKCC) | [Cornelio Reyna](https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx) | [15 Éxitazos](https://open.spotify.com/album/5mmZxvjnPHDjasQQ1F9514) | 2:49 |
 | 62 | [Tus Desprecios](https://open.spotify.com/track/6gyPojQkJawXsMryAeu5Se) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit), [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Tus Desprecios](https://open.spotify.com/album/3si2q6g6Mw94o5wsftqXH6) | 2:22 |
-| 63 | [Es Complicado](https://open.spotify.com/track/2xfuLkkNanQTl0pdbViHUo) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv), [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [+Mexicana](https://open.spotify.com/album/0GZi1qLTk1hMY2RXQ6YBgt) | 3:03 |
-| 64 | [Me Gustas Mucho](https://open.spotify.com/track/2i7SlECYIAsT72FpLUU1Uj) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Mis Mejores Canciones](https://open.spotify.com/album/3t2qZdlJXoWGeenwUPD5qQ) | 3:08 |
-| 65 | [El Loco](https://open.spotify.com/track/4srM8XuNfNMFXKgU4ybkrP) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Javier Solis Con Acoo De Mariachi](https://open.spotify.com/album/0mo4FKlS0n0NtMAQw8SdNn) | 2:54 |
+| 63 | [El Loco](https://open.spotify.com/track/4srM8XuNfNMFXKgU4ybkrP) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Javier Solis Con Acoo De Mariachi](https://open.spotify.com/album/0mo4FKlS0n0NtMAQw8SdNn) | 2:54 |
+| 64 | [Es Complicado](https://open.spotify.com/track/2xfuLkkNanQTl0pdbViHUo) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv), [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [+Mexicana](https://open.spotify.com/album/0GZi1qLTk1hMY2RXQ6YBgt) | 3:03 |
+| 65 | [Me Gustas Mucho](https://open.spotify.com/track/2i7SlECYIAsT72FpLUU1Uj) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Mis Mejores Canciones](https://open.spotify.com/album/3t2qZdlJXoWGeenwUPD5qQ) | 3:08 |
 | 66 | [Cama de Piedra](https://open.spotify.com/track/6CSrPDQF938mg8CaOT89xt) | [Cuco Sánchez](https://open.spotify.com/artist/1M1VkVEy3JGFFyPy7oKH2E) | [Serie De Coleccion 15 Autenticos](https://open.spotify.com/album/5D3g2BbyQuAc1O4lhPUlVQ) | 2:11 |
 | 67 | [Mi Venganza \(La Desalmada\) \- Música Original de la Telenovela La Desalmada](https://open.spotify.com/track/50aKalW8H2xUW5hpFdwrqg) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Mi Venganza \(La Desalmada\)](https://open.spotify.com/album/4UeIcFGkSV2obGfreGI5KA) | 4:05 |
 | 68 | [No Me Queda Más](https://open.spotify.com/track/4CWNGOfdt0hBP5hBkQUX85) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Baila Esta Cumbia](https://open.spotify.com/album/6MpiAS4mk0S7WRTX0l98z3) | 3:20 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyvco9C4Og0.md) - [plain]
 | 99 | [Tú a Mí No Me Hundes](https://open.spotify.com/track/6aNDj2s5dWkVaQzL8Lelhy) | [Lucha Villa](https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1) | [Interpreta A Juan Gabriel](https://open.spotify.com/album/3CaLGUG2hGBGom57xsxA1O) | 3:03 |
 | 100 | [Media Vuelta](https://open.spotify.com/track/4wK2gpBcEIdgZbcyfpbh4B) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Mexicanisimo](https://open.spotify.com/album/5MTcdzp13fvpZ2mvCg5zCj) | 2:11 |
 
-Snapshot ID: `MTY2MzI2NDY4MCwwMDAwMDAwMDA5YjlmZjdjYTc4M2ZmNjM5MDgwNDI3NmNhMjQ5OTIz`
+Snapshot ID: `MTY2MzI2NDY4MCwwMDAwMDAwMDk2NDM4ODA0MDllYTc4YzhhMDkyZWJkM2MxODMxM2Nk`

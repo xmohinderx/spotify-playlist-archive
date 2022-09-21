@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BZrbvIqxCd.md) - [plain]
 
 > A mix of punk rock to get you through your workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 520,915 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 520,928 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BZrbvIqxCd.md) - [plain]
 | 80 | [Hotel Beds](https://open.spotify.com/track/4HvBQhvil6T5ISq1qr5u03) | [We Were Sharks](https://open.spotify.com/artist/5VJPxda81cx3ZGltjWM36I) | [Lost Touch](https://open.spotify.com/album/768qzd6dkobekdNcDtw8np) | 2:34 |
 | 81 | [Down To Hell](https://open.spotify.com/track/3qKSl5qLMN1iBkUMmu32yX) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Like A House On Fire](https://open.spotify.com/album/5VKKXDvYuJmRc2UQHCwNQK) | 3:16 |
 | 82 | [Never Coming Home](https://open.spotify.com/track/0yNBLz1uAyx4FCxkdkQcqf) | [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r) | [Retrograde](https://open.spotify.com/album/6mJvmCxB01yqOeiccLE7QU) | 3:16 |
-| 83 | [We’re Not Alright](https://open.spotify.com/track/3CPm8pViOWEUtCTI4qrWGu) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Brain Invaders \(Deluxe Edition\)](https://open.spotify.com/album/5JxQ55Wvq2kCWtOQ0gSr9h) | 2:55 |
-| 84 | [So Poetic](https://open.spotify.com/track/731SSWCEANBXRq1KqDuQGE) | [Sundressed](https://open.spotify.com/artist/0KlYEaj5sigNA1iixOstiH) | [Sundressed & Nominee](https://open.spotify.com/album/1UrqgK31uHFp35o2spqTgE) | 3:07 |
+| 83 | [So Poetic](https://open.spotify.com/track/731SSWCEANBXRq1KqDuQGE) | [Sundressed](https://open.spotify.com/artist/0KlYEaj5sigNA1iixOstiH) | [Sundressed & Nominee](https://open.spotify.com/album/1UrqgK31uHFp35o2spqTgE) | 3:07 |
+| 84 | [We’re Not Alright](https://open.spotify.com/track/3CPm8pViOWEUtCTI4qrWGu) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Brain Invaders \(Deluxe Edition\)](https://open.spotify.com/album/5JxQ55Wvq2kCWtOQ0gSr9h) | 2:55 |
 | 85 | [Degenerates](https://open.spotify.com/track/77Ht6FFAeyHgKl6X87mnTk) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Degenerates](https://open.spotify.com/album/3G3EHIjrfZAcy6w5zIOggZ) | 3:04 |
 | 86 | [Me First](https://open.spotify.com/track/72yApMP8fkW15lWdMjerBp) | [Real Friends](https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw) | [Composure](https://open.spotify.com/album/574qjeKnYHIU246L4MMNbX) | 3:13 |
 | 87 | [Happy Judgement Day](https://open.spotify.com/track/4GHW4tzEf6OBIoyewdBnZX) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [The Peace And The Panic](https://open.spotify.com/album/76NbbdvTc4yP50p5m4u9H3) | 3:33 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BZrbvIqxCd.md) - [plain]
 | 99 | [My Town \(feat\. Joe Talbot\)](https://open.spotify.com/track/2gxYf0Tdnn65M6HKzFU1ye) | [Frank Carter & The Rattlesnakes](https://open.spotify.com/artist/3r32a6mMdoPaSP1C7kYhMc), [Joe Talbot](https://open.spotify.com/artist/1Gh0mTt3Nt7AeLwWhpJY4R) | [My Town \(feat\. Joe Talbot\)](https://open.spotify.com/album/06cux1Vggkcy0TWsltLziy) | 2:44 |
 | 100 | [Man Overboard](https://open.spotify.com/track/72iJsJMdTGjshAZdNJbSKU) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Greatest Hits](https://open.spotify.com/album/31mnNcl6CzIcX8j9n75vYZ) | 2:46 |
 
-Snapshot ID: `MTY0Mzc1NTQxMSwwMDAwMDAwMGVjMDU4OGU3MGFjOTczOWE3MWJmNTY3MTU2YWNkNTY2`
+Snapshot ID: `MTY0Mzc1NTQxMSwwMDAwMDAwMDQxYzY4YmZlMGE5ZGVhODE2OTk1ODUxMDEwYzY4YzQ4`

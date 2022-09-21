@@ -1,12 +1,12 @@
 {
   "description": "Smooth, relaxing as jazz can be, here's the soothing magic in the thick of night from the middle of the light...",
-  "num_followers": 360174,
+  "num_followers": 360326,
   "original_name": "Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzU2MTczNCwwMDAwMDAwMDNlNzE2YzIxNjc5OWJkMWY4YjliOTNiMmFlOTUzMWQw",
+  "snapshot_id": "MTY2MzU2MTczNCwwMDAwMDAwMDAwYTAyZGM4MDA2NmJlMDI4YmE0YmZmN2U3YjI3MGU4",
   "tracks": [
     {
       "added_at": "2022-09-19 04:28:53",
@@ -639,26 +639,6 @@
     {
       "added_at": "2022-09-19 04:28:53",
       "album": {
-        "name": "The Very Best Of Lee Ritenour",
-        "url": "https://open.spotify.com/album/4hi6b3yGFoaq4gyqhhGZJi"
-      },
-      "artists": [
-        {
-          "name": "Lee Ritenour",
-          "url": "https://open.spotify.com/artist/1nDqTUspmq8IXhcEZT93iq"
-        },
-        {
-          "name": "Dave Grusin",
-          "url": "https://open.spotify.com/artist/0SPkat5bgfP5wo2kbqZIwu"
-        }
-      ],
-      "duration_ms": 297240,
-      "name": "Get Up, Stand Up",
-      "url": "https://open.spotify.com/track/5XhuPA2XvYOeYJ8Lwn2Dnx"
-    },
-    {
-      "added_at": "2022-09-19 04:28:53",
-      "album": {
         "name": "Magic Hour",
         "url": "https://open.spotify.com/album/5kirzWW6pF16lE8OHhuPiz"
       },
@@ -675,6 +655,26 @@
       "duration_ms": 255348,
       "name": "Magic Hour",
       "url": "https://open.spotify.com/track/1AbQCUGbvIbO2NUen6tVAg"
+    },
+    {
+      "added_at": "2022-09-19 04:28:53",
+      "album": {
+        "name": "The Very Best Of Lee Ritenour",
+        "url": "https://open.spotify.com/album/4hi6b3yGFoaq4gyqhhGZJi"
+      },
+      "artists": [
+        {
+          "name": "Lee Ritenour",
+          "url": "https://open.spotify.com/artist/1nDqTUspmq8IXhcEZT93iq"
+        },
+        {
+          "name": "Dave Grusin",
+          "url": "https://open.spotify.com/artist/0SPkat5bgfP5wo2kbqZIwu"
+        }
+      ],
+      "duration_ms": 297240,
+      "name": "Get Up, Stand Up",
+      "url": "https://open.spotify.com/track/5XhuPA2XvYOeYJ8Lwn2Dnx"
     },
     {
       "added_at": "2022-09-19 04:28:53",
@@ -751,22 +751,6 @@
     {
       "added_at": "2022-09-19 04:28:53",
       "album": {
-        "name": "Forward Motion",
-        "url": "https://open.spotify.com/album/6vAEljyy7bkYUYG5RYahVe"
-      },
-      "artists": [
-        {
-          "name": "Mezzoforte",
-          "url": "https://open.spotify.com/artist/53LlrTpfGrdZS8QyBUxrVs"
-        }
-      ],
-      "duration_ms": 338893,
-      "name": "Cruising",
-      "url": "https://open.spotify.com/track/6LyFVLSOjBL9gh5Q6fwAVK"
-    },
-    {
-      "added_at": "2022-09-19 04:28:53",
-      "album": {
         "name": "Fluid",
         "url": "https://open.spotify.com/album/29nL9iA8XbL1Bt726I7XUH"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 265875,
       "name": "Fluid",
       "url": "https://open.spotify.com/track/2OCteRb2LiiMEN6XA2cqaL"
+    },
+    {
+      "added_at": "2022-09-19 04:28:53",
+      "album": {
+        "name": "Forward Motion",
+        "url": "https://open.spotify.com/album/6vAEljyy7bkYUYG5RYahVe"
+      },
+      "artists": [
+        {
+          "name": "Mezzoforte",
+          "url": "https://open.spotify.com/artist/53LlrTpfGrdZS8QyBUxrVs"
+        }
+      ],
+      "duration_ms": 338893,
+      "name": "Cruising",
+      "url": "https://open.spotify.com/track/6LyFVLSOjBL9gh5Q6fwAVK"
     },
     {
       "added_at": "2022-09-19 04:28:53",
@@ -927,8 +927,8 @@
     {
       "added_at": "2022-09-19 04:28:53",
       "album": {
-        "name": "Heart To Heart",
-        "url": "https://open.spotify.com/album/7ghPikFRfeqmMqpQDkwLIZ"
+        "name": "Let It Go",
+        "url": "https://open.spotify.com/album/6R5Dme59QovnHLa8bIuwGi"
       },
       "artists": [
         {
@@ -936,9 +936,9 @@
           "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
         }
       ],
-      "duration_ms": 201866,
-      "name": "Heading Wes",
-      "url": "https://open.spotify.com/track/3hTbwwtKP9wNaBXRO07jAw"
+      "duration_ms": 249300,
+      "name": "It Keeps Coming Back",
+      "url": "https://open.spotify.com/track/5xAQZJVapuHyNPil73LQfI"
     },
     {
       "added_at": "2022-09-19 04:28:53",
@@ -959,6 +959,22 @@
       "duration_ms": 221186,
       "name": "Rainy Sunday (feat. Paul Jackson Jr.)",
       "url": "https://open.spotify.com/track/4Z3doYsQ7L3o0TPHZhk0vF"
+    },
+    {
+      "added_at": "2022-09-19 04:28:53",
+      "album": {
+        "name": "Smooth Grooves, Vol. 2",
+        "url": "https://open.spotify.com/album/2dWhDa6kTyZlw7ip13EhTm"
+      },
+      "artists": [
+        {
+          "name": "Jeffery Smith",
+          "url": "https://open.spotify.com/artist/7CW9qPfjuZqNDJsJqT9iM2"
+        }
+      ],
+      "duration_ms": 365000,
+      "name": "Southern Style",
+      "url": "https://open.spotify.com/track/18xGFscyHeMxrlgyti66gX"
     },
     {
       "added_at": "2022-09-19 04:28:53",
@@ -1015,22 +1031,6 @@
     {
       "added_at": "2022-09-19 04:28:53",
       "album": {
-        "name": "Smooth Grooves, Vol. 2",
-        "url": "https://open.spotify.com/album/2dWhDa6kTyZlw7ip13EhTm"
-      },
-      "artists": [
-        {
-          "name": "Jeffery Smith",
-          "url": "https://open.spotify.com/artist/7CW9qPfjuZqNDJsJqT9iM2"
-        }
-      ],
-      "duration_ms": 365000,
-      "name": "Southern Style",
-      "url": "https://open.spotify.com/track/18xGFscyHeMxrlgyti66gX"
-    },
-    {
-      "added_at": "2022-09-19 04:28:53",
-      "album": {
         "name": "I'm Coming Home",
         "url": "https://open.spotify.com/album/1gCdJObq3CftJWEuFbwAaU"
       },
@@ -1067,8 +1067,8 @@
     {
       "added_at": "2022-09-19 04:28:53",
       "album": {
-        "name": "Let It Go",
-        "url": "https://open.spotify.com/album/6R5Dme59QovnHLa8bIuwGi"
+        "name": "Heart To Heart",
+        "url": "https://open.spotify.com/album/7ghPikFRfeqmMqpQDkwLIZ"
       },
       "artists": [
         {
@@ -1076,9 +1076,9 @@
           "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
         }
       ],
-      "duration_ms": 249300,
-      "name": "It Keeps Coming Back",
-      "url": "https://open.spotify.com/track/5xAQZJVapuHyNPil73LQfI"
+      "duration_ms": 201866,
+      "name": "Heading Wes",
+      "url": "https://open.spotify.com/track/3hTbwwtKP9wNaBXRO07jAw"
     },
     {
       "added_at": "2022-09-19 04:28:53",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2022-09-19 04:28:53",
       "album": {
-        "name": "Sippin the Yak",
-        "url": "https://open.spotify.com/album/7KeUO1iqx1u1C57fZb5GHx"
-      },
-      "artists": [
-        {
-          "name": "Michael J Thomas",
-          "url": "https://open.spotify.com/artist/2jeiNrIK545gXuj6yv3VR0"
-        }
-      ],
-      "duration_ms": 267913,
-      "name": "Sippin the Yak",
-      "url": "https://open.spotify.com/track/1UdgrocwAGRoQ6M8V7eQmu"
-    },
-    {
-      "added_at": "2022-09-19 04:28:53",
-      "album": {
         "name": "Fall For You",
         "url": "https://open.spotify.com/album/1069ubCvaVGmtkw2VNxZAV"
       },
@@ -1199,6 +1183,22 @@
     {
       "added_at": "2022-09-19 04:28:53",
       "album": {
+        "name": "Sippin the Yak",
+        "url": "https://open.spotify.com/album/7KeUO1iqx1u1C57fZb5GHx"
+      },
+      "artists": [
+        {
+          "name": "Michael J Thomas",
+          "url": "https://open.spotify.com/artist/2jeiNrIK545gXuj6yv3VR0"
+        }
+      ],
+      "duration_ms": 267913,
+      "name": "Sippin the Yak",
+      "url": "https://open.spotify.com/track/1UdgrocwAGRoQ6M8V7eQmu"
+    },
+    {
+      "added_at": "2022-09-19 04:28:53",
+      "album": {
         "name": "Undercover",
         "url": "https://open.spotify.com/album/0RXMMiDCOhnt2IFldaHuAi"
       },
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2022-09-19 04:28:53",
       "album": {
-        "name": "Soulful",
-        "url": "https://open.spotify.com/album/1s5c8RtnMva4xGs8IoMpGb"
-      },
-      "artists": [
-        {
-          "name": "Cal Harris Jr.",
-          "url": "https://open.spotify.com/artist/1rqcgKphKy4FoYO505o49R"
-        }
-      ],
-      "duration_ms": 247133,
-      "name": "Timeline",
-      "url": "https://open.spotify.com/track/7GuSUOEGSk4tLPQoSdSvhb"
-    },
-    {
-      "added_at": "2022-09-19 04:28:53",
-      "album": {
         "name": "Rite of Passage",
         "url": "https://open.spotify.com/album/1tySvkpLhtmLa7HzQvTB4A"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 226666,
       "name": "Golden",
       "url": "https://open.spotify.com/track/6dAiJguW0vDdbLf8QlY2DR"
+    },
+    {
+      "added_at": "2022-09-19 04:28:53",
+      "album": {
+        "name": "Soulful",
+        "url": "https://open.spotify.com/album/1s5c8RtnMva4xGs8IoMpGb"
+      },
+      "artists": [
+        {
+          "name": "Cal Harris Jr.",
+          "url": "https://open.spotify.com/artist/1rqcgKphKy4FoYO505o49R"
+        }
+      ],
+      "duration_ms": 247133,
+      "name": "Timeline",
+      "url": "https://open.spotify.com/track/7GuSUOEGSk4tLPQoSdSvhb"
     },
     {
       "added_at": "2022-09-19 04:28:53",

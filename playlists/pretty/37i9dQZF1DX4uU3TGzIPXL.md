@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4uU3TGzIPXL.md) - [plain]
 
 > The songs of the 1990s that will make you dance all summer long!
 
-[Spotify](https://open.spotify.com/user/spotify) - 491,045 likes - 100 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 491,171 likes - 100 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4uU3TGzIPXL.md) - [plain]
 | 55 | [I Love You Always Forever](https://open.spotify.com/track/1PEqh7awkpuepLBSq8ZwqD) | [Donna Lewis](https://open.spotify.com/artist/2EfG2EoT8GFJrMiilbTVl2) | [Now in a Minute](https://open.spotify.com/album/1VzYTrtId9CgUTo7VQBFbL) | 3:59 |
 | 56 | [Boombastic](https://open.spotify.com/track/4fxF8ljwryMZX5c9EKrLFE) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij) | [Boombastic](https://open.spotify.com/album/40rtksAqnwebfPKWzSL6Iv) | 4:09 |
 | 57 | [All I Wanna Do](https://open.spotify.com/track/3ZpQiJ78LKINrW9SQTgbXd) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Tuesday Night Music Club](https://open.spotify.com/album/7dC6axVAeBDpRMmNtRbpwU) | 4:32 |
-| 58 | [One Week](https://open.spotify.com/track/29hBRadFZf9QTGRHZmxm65) | [Barenaked Ladies](https://open.spotify.com/artist/0dEvJpkqhrcn64d3oI8v79) | [Stunt \(20th Anniversary Edition\)](https://open.spotify.com/album/0DuFDnZcj7B4R0Jik1aDmY) | 2:49 |
-| 59 | [I Swear](https://open.spotify.com/track/4WUnM4KNZ0kjp0CUeoyOnS) | [All\-4\-One](https://open.spotify.com/artist/1B8ySGDAiXTCvnJNH4HSCG) | [All\-4\-One](https://open.spotify.com/album/4L5ZA0GukWNWjsk9b7HHDy) | 4:19 |
+| 58 | [I Swear](https://open.spotify.com/track/4WUnM4KNZ0kjp0CUeoyOnS) | [All\-4\-One](https://open.spotify.com/artist/1B8ySGDAiXTCvnJNH4HSCG) | [All\-4\-One](https://open.spotify.com/album/4L5ZA0GukWNWjsk9b7HHDy) | 4:19 |
+| 59 | [One Week](https://open.spotify.com/track/29hBRadFZf9QTGRHZmxm65) | [Barenaked Ladies](https://open.spotify.com/artist/0dEvJpkqhrcn64d3oI8v79) | [Stunt \(20th Anniversary Edition\)](https://open.spotify.com/album/0DuFDnZcj7B4R0Jik1aDmY) | 2:49 |
 | 60 | [Smooth \(feat\. Rob Thomas\)](https://open.spotify.com/track/0n2SEXB2qoRQg171q7XqeW) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [Rob Thomas](https://open.spotify.com/artist/3aBkeBhwadnWMWoVJ2CxJC) | [Supernatural \(Remastered\)](https://open.spotify.com/album/10aiDpdFGyfCFEcqpx6XTq) | 4:54 |
 | 61 | [It's My Life](https://open.spotify.com/track/4539Tbm6Rt5BaNKXJJj9RH) | [Dr\. Alban](https://open.spotify.com/artist/6BkcAbUkfIBM4XudxieMq8) | [One Love](https://open.spotify.com/album/2f0OIKkTy3gT89i2N7BaHJ) | 3:59 |
 | 62 | [Friday I'm in Love](https://open.spotify.com/track/263aNAQCeFSWipk896byo6) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wish](https://open.spotify.com/album/3x1CmNdXWU0DzpTZXFFRZu) | 3:34 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4uU3TGzIPXL.md) - [plain]
 | 99 | [It's Not Right But It's Okay](https://open.spotify.com/track/7861kBrZ5aw7o4NfggcyYW) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [My Love Is Your Love](https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM) | 4:52 |
 | 100 | [Everybody \(Backstreet's Back\) \- Radio Edit](https://open.spotify.com/track/4rTeOSYqwXNz5qPR2DUTFZ) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [This Is The End: Original Motion Picture Soundtrack](https://open.spotify.com/album/1SFKmqhTTEkE3PmSBEMpa3) | 3:44 |
 
-Snapshot ID: `MTY1NTMyMzIwMCwwMDAwMDAwMDgwZWMwZmIxMDA0ZTA1Y2UzMzljMTA0OGQ3Y2JkMzUx`
+Snapshot ID: `MTY1NTMyMzIwMCwwMDAwMDAwMGJiMDNlZTRhYWU5YTBlMDJmYWQyYzQ1MTFhYmE5Mzdm`

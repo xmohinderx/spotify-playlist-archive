@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKvEw7Rwtq.md) - [plain]
 
 > Soaring soundscapes from the most epic Post\-Rock artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,753 likes - 55 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,827 likes - 55 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKvEw7Rwtq.md) - [plain]
 | 29 | [Passage](https://open.spotify.com/track/1qjepM8Kvr049e9gE1fkdm) | [Lowercase Noises](https://open.spotify.com/artist/7trvyUUXmPhi1StCNYHj4e) | [Passage](https://open.spotify.com/album/5KFRuWDL0crUoNfvBqMFyw) | 5:47 |
 | 30 | [i meet myself, again](https://open.spotify.com/track/5OBR6IOU4nsn35cK6HThVr) | [my head is empty](https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy) | [nothing is real, part XI](https://open.spotify.com/album/09Z8BtKPBmpHhKoLzwCWvD) | 3:07 |
 | 31 | [Above the Fog \(Pt.2\)](https://open.spotify.com/track/4cjRiT6COzETZ3mWQXydnr) | [The Best Pessimist](https://open.spotify.com/artist/6W4aup6f745SyZe2vShUnZ) | [Love Is...](https://open.spotify.com/album/5RQJ2Gk1ep33nVpWZCNivn) | 8:46 |
-| 32 | [Shadows Fall](https://open.spotify.com/track/6lhhVRjJJk2He59jAtOSsm) | [Random Forest](https://open.spotify.com/artist/2FIKDET7MkO9hQgSyIW9ia) | [Random Forest](https://open.spotify.com/album/39oRoqDYxtboq77pFK9G0T) | 5:27 |
-| 33 | [White Stork](https://open.spotify.com/track/2fC4TDzOjxfz8PDgCrDExM) | [Bossk](https://open.spotify.com/artist/6KPlPSPeF5BndJ7P888uSh) | [Migration](https://open.spotify.com/album/2jkfppW61KLmzyFEYLym63) | 5:55 |
+| 32 | [White Stork](https://open.spotify.com/track/2fC4TDzOjxfz8PDgCrDExM) | [Bossk](https://open.spotify.com/artist/6KPlPSPeF5BndJ7P888uSh) | [Migration](https://open.spotify.com/album/2jkfppW61KLmzyFEYLym63) | 5:55 |
+| 33 | [Shadows Fall](https://open.spotify.com/track/6lhhVRjJJk2He59jAtOSsm) | [Random Forest](https://open.spotify.com/artist/2FIKDET7MkO9hQgSyIW9ia) | [Random Forest](https://open.spotify.com/album/39oRoqDYxtboq77pFK9G0T) | 5:27 |
 | 34 | [What the Heart Craves For](https://open.spotify.com/track/0HRANjLImYOvlfNF9wG2cy) | [Collapse Under The Empire](https://open.spotify.com/artist/34OB6veglJfOx8CzSsu0XY) | [Sacrifice & Isolation](https://open.spotify.com/album/42WlUy8Gv94fgPhtlnSPka) | 5:11 |
 | 35 | [It's Dark, It's Cold, It's Winter](https://open.spotify.com/track/0hZSni3035ItjVGyfYGiQX) | [sleepmakeswaves](https://open.spotify.com/artist/0EnDtiDrCgklr97QMJOSPv) | [sleepmakeswaves](https://open.spotify.com/album/4n51rWv1OwFWlYmrFNQFVp) | 4:50 |
 | 36 | [OUR SIDE HAS TO WIN \(for D.H.\)](https://open.spotify.com/track/6AWgFM6ORRfr9bphIW25bB) | [Godspeed You! Black Emperor](https://open.spotify.com/artist/4svpOyfmQKuWpHLjgy4cdK) | [G\_d's Pee AT STATE'S END!](https://open.spotify.com/album/6gZsJeN8MdITXZMVDXrMk0) | 6:30 |
@@ -57,11 +57,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKvEw7Rwtq.md) - [plain]
 | 47 | [Dust Bowl](https://open.spotify.com/track/4fL6NIQ4BxZuxotGZWORgM) | [The Aquaerials](https://open.spotify.com/artist/4SSLrpx3uzgl5PYQLMzyFc) | [Dust Bowl](https://open.spotify.com/album/7JdA2JLTWnDf0IQfqALmN5) | 6:04 |
 | 48 | [Reflection](https://open.spotify.com/track/4O7QRo5ZdHCSVbx6Nh4gLM) | [Interstellar Noise](https://open.spotify.com/artist/3h9YFTlhixNcQHPWYrGXOT) | [Reflection](https://open.spotify.com/album/3NHWpKIN1ykhWepSyzBglP) | 3:47 |
 | 49 | [A Citizen's Dream](https://open.spotify.com/track/2ehLNjSUtNeq82kVqDqC2F) | [Marconi Union](https://open.spotify.com/artist/3nZ3ed6p4CKc1McTLypr6H) | [Signals](https://open.spotify.com/album/1z6YgGKHAEJ9FIV93LP4SI) | 6:01 |
-| 50 | [Total Perspective Vortex](https://open.spotify.com/track/32OKcAVCcfhDgojrd7ZMSI) | [A Winged Victory for the Sullen](https://open.spotify.com/artist/13CMfEeq8AC6ryGOPODqE1), [Adam Bryanbaum Wiltzie](https://open.spotify.com/artist/3pv7Yo0bBHl6jyOXU1NnWf), [Dustin O'Halloran](https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq) | [Invisible Cities](https://open.spotify.com/album/5jZGc1A6FrsN8qssSxxTce) | 4:20 |
-| 51 | [Monastic](https://open.spotify.com/track/4VZAiJm5BugPrnlsMzqgUu) | [Seefeel](https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f) | [Succour \(Redux\)](https://open.spotify.com/album/3Nrbrk8rTB1tI12OwvQ2PM) | 6:33 |
-| 52 | [Elsewhere](https://open.spotify.com/track/06TdEir7zUwTTCerC8JB6J) | [Hammock](https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1) | [Elsewhere](https://open.spotify.com/album/47Mee9RWknn6UKGAuWVC2c) | 3:54 |
-| 53 | [I Dreamt Our Whole City Burned](https://open.spotify.com/track/5F1VGx7gOrhdhet8rTehZ6) | [McLarnan](https://open.spotify.com/artist/0SQZ2Dcu8oLoNZs6Pwqrwt) | [I Dreamt Our Whole City Burned](https://open.spotify.com/album/2pI6eAuMCPZAT8czjR02RN) | 4:44 |
+| 50 | [Monastic](https://open.spotify.com/track/4VZAiJm5BugPrnlsMzqgUu) | [Seefeel](https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f) | [Succour \(Redux\)](https://open.spotify.com/album/3Nrbrk8rTB1tI12OwvQ2PM) | 6:33 |
+| 51 | [Total Perspective Vortex](https://open.spotify.com/track/32OKcAVCcfhDgojrd7ZMSI) | [A Winged Victory for the Sullen](https://open.spotify.com/artist/13CMfEeq8AC6ryGOPODqE1), [Adam Bryanbaum Wiltzie](https://open.spotify.com/artist/3pv7Yo0bBHl6jyOXU1NnWf), [Dustin O'Halloran](https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq) | [Invisible Cities](https://open.spotify.com/album/5jZGc1A6FrsN8qssSxxTce) | 4:20 |
+| 52 | [I Dreamt Our Whole City Burned](https://open.spotify.com/track/5F1VGx7gOrhdhet8rTehZ6) | [McLarnan](https://open.spotify.com/artist/0SQZ2Dcu8oLoNZs6Pwqrwt) | [I Dreamt Our Whole City Burned](https://open.spotify.com/album/2pI6eAuMCPZAT8czjR02RN) | 4:44 |
+| 53 | [Elsewhere](https://open.spotify.com/track/06TdEir7zUwTTCerC8JB6J) | [Hammock](https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1) | [Elsewhere](https://open.spotify.com/album/47Mee9RWknn6UKGAuWVC2c) | 3:54 |
 | 54 | [Mystik](https://open.spotify.com/track/25HjqUZFeK2tgNuGHiXWCB) | [Olma](https://open.spotify.com/artist/0jgC3HsKV46vXA8wsaZFuP) | [Mystik](https://open.spotify.com/album/03tqMIhiB0qSBTtuuZsOdU) | 2:26 |
 | 55 | [Drifting](https://open.spotify.com/track/2ttXU3cfx8unAngSRQ60CK) | [Ambient Endeavors](https://open.spotify.com/artist/6K2iIaKWCotVvzrL8ryV2W), [We Dream of Eden](https://open.spotify.com/artist/55dhSq6LQ1N5JlHF5DlbFf) | [Drifting](https://open.spotify.com/album/1bGo7G5JOcy9jE8S4uNo0H) | 2:53 |
 
-Snapshot ID: `MTY1MzY1MDEzMywwMDAwMDAwMDAyZWRiYmJmNDM1NjRmNjFmZTExMjM0NGE1YWIxZjll`
+Snapshot ID: `MTY1MzY1MDEzMywwMDAwMDAwMDRhMDIyNTc0MTYwYmQ5YjM0YjUyMWRjOTJiMDgyNjdi`

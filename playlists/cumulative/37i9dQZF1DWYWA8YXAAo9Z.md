@@ -4,7 +4,7 @@
 
 > Pushing the envelope; musicians at the forefront of modular synthesis.
 
-131 songs - 11 hr 2 min - [published](https://open.spotify.com/playlist/2Iyz83CmkFejFUFqhihQGl)
+132 songs - 11 hr 8 min - [published](https://open.spotify.com/playlist/2Iyz83CmkFejFUFqhihQGl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Interlude 03](https://open.spotify.com/track/0yMMD5kMxkUq2SevZvY71t) | [Farsi](https://open.spotify.com/artist/2nv9kDqXrE3yfgrzMtby5M) | [Interlude 03](https://open.spotify.com/album/3I4QlhS7yM9wzEHu10yhVl) | 3:19 | 2022-03-11 | 2022-07-28 |
 | [Interstices](https://open.spotify.com/track/0q3iG7HlsDetEhFukIyEoc) | [Simon McCorry](https://open.spotify.com/artist/6CqRkabFkqYucbSgtxQ2Cx) | [Interstices](https://open.spotify.com/album/1XyXwXl4O1vUfV4mxaxeqm) | 9:50 | 2022-02-04 | 2022-07-29 |
 | [Kosmic Headroom](https://open.spotify.com/track/1hk6pw8B55XmbL8MkeNmva) | [Poulson Sq.](https://open.spotify.com/artist/4Bhzq0RnVTwXbJCnBfuCWp) | [Kosmic Headroom](https://open.spotify.com/album/6i2yC85nR4HqDkgwOgmnIj) | 4:13 | 2021-12-24 |  |
-| [La colline](https://open.spotify.com/track/6pALQ3Z6wSlt2GXePgGeV5) | [Jonathan Fitoussi](https://open.spotify.com/artist/2EuDyGDH8HMwcmWo8UzR7b), [Clemens Hourriere](https://open.spotify.com/artist/0Q92u4ProQgv8AezwCVuG6) | [Five Steps](https://open.spotify.com/album/3jZZwuakkVTYAEIsOBWmcR) | 4:40 | 2021-12-24 |  |
+| [La colline](https://open.spotify.com/track/6pALQ3Z6wSlt2GXePgGeV5) | [Jonathan Fitoussi](https://open.spotify.com/artist/2EuDyGDH8HMwcmWo8UzR7b), [Clemens Hourriere](https://open.spotify.com/artist/0Q92u4ProQgv8AezwCVuG6) | [Five Steps](https://open.spotify.com/album/3jZZwuakkVTYAEIsOBWmcR) | 4:40 | 2021-12-24 | 2022-09-21 |
 | [Last Earth](https://open.spotify.com/track/0OUhVQ5dEj7m87cbZ4ctFU) | [Ibukun Sunday](https://open.spotify.com/artist/1XhXRpXu0NntjkqENGveoI) | [The Last Wave](https://open.spotify.com/album/1jJJZAPY8Ax5X1C6vCpuNo) | 2:19 | 2021-12-24 |  |
 | [Liquid Planta Seeds](https://open.spotify.com/track/0EHxTCvQpFpXkiyx0FwBRq) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Liquid Planta Seeds](https://open.spotify.com/album/2qobaujPblxqumcde6yjVY) | 3:24 | 2022-05-06 | 2022-07-23 |
 | [Long Dizzying Air Through A Balcony Door](https://open.spotify.com/track/6dzqvZkDtCNLw46Juiarvv) | [Perila](https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi) | [7.37/2.11](https://open.spotify.com/album/1oYDe8bwryHz91moudqL6X) | 7:48 | 2021-12-24 |  |
@@ -96,6 +96,7 @@
 | [Piel](https://open.spotify.com/track/65LdlsIG7EkIWmhAj5u4ud) | [Isaac Soto](https://open.spotify.com/artist/2mHbrHlppDiGj9pBxti8fc) | [Piel](https://open.spotify.com/album/5LtM4wUzsuxwMf0EtFCUy1) | 4:33 | 2022-03-04 | 2022-03-10 |
 | [Plant Memory](https://open.spotify.com/track/4hTgQoWtIWyZMPkKteRJpJ) | [Caldera](https://open.spotify.com/artist/4Nhu6YZ1PktzEW8MnDGI4V) | [One Last Glimpse](https://open.spotify.com/album/4iEqB4pq7daniE9TK4qPXS) | 8:37 | 2022-02-25 | 2022-07-29 |
 | [Plonk III](https://open.spotify.com/track/3kilgBTpr97Ef1v3x6rTeJ) | [Huerco S.](https://open.spotify.com/artist/0Wy3xgOTkgtDlT9wJsOQjy) | [Plonk](https://open.spotify.com/album/0URcDAZuAvHu1pNFPekiL5) | 6:22 | 2022-03-04 | 2022-09-15 |
+| [Plonk III](https://open.spotify.com/track/72CLlhWZryvQoDSgS5UsIj) | [Huerco S.](https://open.spotify.com/artist/0Wy3xgOTkgtDlT9wJsOQjy) | [Plonk](https://open.spotify.com/album/1NLglnqr3MZju3F0upWXzU) | 6:22 | 2022-07-01 |  |
 | [Pratyahara](https://open.spotify.com/track/2bdCZ861f8TwnmFVbHlLmW) | [Chris Otchy](https://open.spotify.com/artist/29PAwxBMC8PWdrXj0m7H2P) | [Phthalo Blue](https://open.spotify.com/album/6uvCj7v4s1XRRN8XDXeeJP) | 6:01 | 2021-12-24 | 2022-07-29 |
 | [Quakenbrück \- version](https://open.spotify.com/track/19NImMMxeU46iLoMSC1Bmu) | [Bitchin Bajas](https://open.spotify.com/artist/57ZB0kMmW6JLQAIaCzMG7I) | [QUAKENBRÜCK \[Version\]](https://open.spotify.com/album/6LkHBWg8yy3FUH0cA88Tn7) | 4:39 | 2022-04-01 |  |
 | [Rambutan](https://open.spotify.com/track/2sLj11G5sla85xLNjWVUbw) | [Modern Biology](https://open.spotify.com/artist/0a5RCK5J5b6GVzHVcEO05o) | [Plant Music Vol 2: Fruits and Flowers of Hawai'i](https://open.spotify.com/album/203hWYS6NNyT9pmNq2OZRb) | 5:04 | 2022-03-18 |  |

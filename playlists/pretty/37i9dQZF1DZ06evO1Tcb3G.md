@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Tcb3G.md) - [plain]
 
 > This is Mumford & Sons\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 413,018 likes - 36 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 413,108 likes - 36 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,12 +37,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Tcb3G.md) - [plain]
 | 27 | [The Boxer feat\. Mumford & Sons and Paul Simon](https://open.spotify.com/track/73C8vVm2BRLLBQ8FH6N6Qm) | [Jerry Douglas](https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9), [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI), [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Traveler](https://open.spotify.com/album/6YNQ1O9C5AVtOGEPIIwkAG) | 4:05 |
 | 28 | [Blind Leading The Blind](https://open.spotify.com/track/7vM4aNsNhDsNCLIjgbh1Be) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Blind Leading The Blind](https://open.spotify.com/album/4O1GPscutuBiEMaYAEBzS4) | 3:44 |
 | 29 | [Beloved](https://open.spotify.com/track/4XzBJwWmmvBP1I8y4sY4g4) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Delta](https://open.spotify.com/album/4cKEpUZp7REMrSjd4ICCZz) | 4:25 |
-| 30 | [Monster](https://open.spotify.com/track/4ma2AbPdsy5ijCyJn16mAv) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Wilder Mind](https://open.spotify.com/album/7yVx5zJONB6MO8zL1jHN7i) | 3:56 |
+| 30 | [Hold on to What You Believe \- Live from Shepherd's Bush Empire, 2010](https://open.spotify.com/track/2va7x2PRDMO8wRDvkK5hwV) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Live from Shepherd's Bush Empire](https://open.spotify.com/album/0HeTCm08wXQGyPv3qjc9O9) | 4:04 |
 | 31 | [With A Little Help From My Friends \(Live from London\)](https://open.spotify.com/track/6Rd8m5KdOL2ayiK00ko1Mu) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Delta Tour EP](https://open.spotify.com/album/0Mdbs380PEaE81bScwSlBB) | 5:59 |
 | 32 | [There Will Be Time](https://open.spotify.com/track/3BqDKQg8onwppXlPw4SYnZ) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2), [Baaba Maal](https://open.spotify.com/artist/49z6oAiD2RpyUf5yLJs7Nf) | [Johannesburg](https://open.spotify.com/album/27AgSR4nCZSfMzb61JQ066) | 4:27 |
-| 33 | [Feel the Tide \- Live from Shepherd's Bush Empire, 2010](https://open.spotify.com/track/1NiaRGKtWwIkKoz2nwBxbV) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Live from Shepherd's Bush Empire](https://open.spotify.com/album/0HeTCm08wXQGyPv3qjc9O9) | 3:41 |
+| 33 | [Monster](https://open.spotify.com/track/4ma2AbPdsy5ijCyJn16mAv) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Wilder Mind](https://open.spotify.com/album/7yVx5zJONB6MO8zL1jHN7i) | 3:56 |
 | 34 | [To Darkness / Kripa](https://open.spotify.com/track/5hY2IsjDhhEBLzeqlgbNoB) | [Dharohar Project](https://open.spotify.com/artist/04R1pgF7Jim781YHSBdCzy), [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM), [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Dharohar Project, Laura Marling & Mumford & Sons](https://open.spotify.com/album/5hFc7nkIHmfOk5Ms5smQaF) | 4:22 |
-| 35 | [The Brightest Lights](https://open.spotify.com/track/7DSFu4NFVpDpWCafZ0cxPJ) | [King Charles](https://open.spotify.com/artist/6QKDcdjtwqu4E7rztEUQu5), [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [LoveBlood](https://open.spotify.com/album/07MeEPmkdYGUOCjsdh22Wj) | 3:36 |
-| 36 | [Hold on to What You Believe \- Live from Shepherd's Bush Empire, 2010](https://open.spotify.com/track/2va7x2PRDMO8wRDvkK5hwV) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Live from Shepherd's Bush Empire](https://open.spotify.com/album/0HeTCm08wXQGyPv3qjc9O9) | 4:04 |
+| 35 | [Feel the Tide \- Live from Shepherd's Bush Empire, 2010](https://open.spotify.com/track/1NiaRGKtWwIkKoz2nwBxbV) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Live from Shepherd's Bush Empire](https://open.spotify.com/album/0HeTCm08wXQGyPv3qjc9O9) | 3:41 |
+| 36 | [The Brightest Lights](https://open.spotify.com/track/7DSFu4NFVpDpWCafZ0cxPJ) | [King Charles](https://open.spotify.com/artist/6QKDcdjtwqu4E7rztEUQu5), [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [LoveBlood](https://open.spotify.com/album/07MeEPmkdYGUOCjsdh22Wj) | 3:36 |
 
-Snapshot ID: `Mjc3MjY1NDUsMDAwMDAwMDA1NjBlNTk1NWFiOTQ3YzI1NDgzMDk5MTI3ODBlOWY0MQ==`
+Snapshot ID: `Mjc3MjgwMzgsMDAwMDAwMDBiYjgyNWFmODE3MjhhNGRjM2U0ZTZkNTA4NjE4NGZjZg==`

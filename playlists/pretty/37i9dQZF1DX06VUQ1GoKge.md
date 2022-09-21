@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06VUQ1GoKge.md) - [plain]
 
 > Louder, faster! Kickass metal tracks to drive you forward.
 
-[Spotify](https://open.spotify.com/user/spotify) - 407,025 likes - 110 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 407,352 likes - 110 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,19 +104,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06VUQ1GoKge.md) - [plain]
 | 94 | [CMFT Must Be Stopped \(feat\. Tech N9ne and Kid Bookie\)](https://open.spotify.com/track/6fGw5N35sPLcmyN5T3XRv7) | [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q), [Tech N9ne](https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos), [Kid Bookie](https://open.spotify.com/artist/7DiLiJ8nji6DslsFSzx0IV) | [Black Eyes Blue / CMFT Must Be Stopped \(feat\. Tech N9ne and Kid Bookie\)](https://open.spotify.com/album/6cflFZCSRgkhzBUguQrsJy) | 5:14 |
 | 95 | [Down To Hell](https://open.spotify.com/track/3qKSl5qLMN1iBkUMmu32yX) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Like A House On Fire](https://open.spotify.com/album/5VKKXDvYuJmRc2UQHCwNQK) | 3:16 |
 | 96 | [Kai Tangata](https://open.spotify.com/track/0YWyKtLAlmVjryfY6CSxYE) | [Alien Weaponry](https://open.spotify.com/artist/2vov4zolAP7zbIhB5CsIPm) | [Tū](https://open.spotify.com/album/4RBkIbNroo8Lp1Y8p3VV4M) | 6:35 |
-| 97 | [Only](https://open.spotify.com/track/6Aq0Lm7wQRRFYzBQz7pukW) | [Anthrax](https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP) | [Sound of White Noise \- Expanded Edition](https://open.spotify.com/album/0d2JYDKMatUzGPSKo62hza) | 4:56 |
-| 98 | [Black Flame \- Single Edit](https://open.spotify.com/track/6REc2Tq4G2RW5zKXtusTLF) | [Bury Tomorrow](https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt) | [Black Flame](https://open.spotify.com/album/3wTcqfTsKuDvDdbKYPTE2I) | 3:53 |
-| 99 | [99](https://open.spotify.com/track/5otXJIeiF43SPz7R7ov8GX) | [The Haunted](https://open.spotify.com/artist/2WLmgv66Uq4vt2i36vwkAq) | [rEVOLVEr \(Deluxe Edition\)](https://open.spotify.com/album/4i4PTPhqv08GiiEgQPdnZ0) | 3:58 |
+| 97 | [99](https://open.spotify.com/track/5otXJIeiF43SPz7R7ov8GX) | [The Haunted](https://open.spotify.com/artist/2WLmgv66Uq4vt2i36vwkAq) | [rEVOLVEr \(Deluxe Edition\)](https://open.spotify.com/album/4i4PTPhqv08GiiEgQPdnZ0) | 3:58 |
+| 98 | [Only](https://open.spotify.com/track/6Aq0Lm7wQRRFYzBQz7pukW) | [Anthrax](https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP) | [Sound of White Noise \- Expanded Edition](https://open.spotify.com/album/0d2JYDKMatUzGPSKo62hza) | 4:56 |
+| 99 | [Black Flame \- Single Edit](https://open.spotify.com/track/6REc2Tq4G2RW5zKXtusTLF) | [Bury Tomorrow](https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt) | [Black Flame](https://open.spotify.com/album/3wTcqfTsKuDvDdbKYPTE2I) | 3:53 |
 | 100 | [Panic](https://open.spotify.com/track/2OPcwNyO1CmKwlqiP0Y4DT) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [Panic](https://open.spotify.com/album/0OopBWrY0eXqld7UQlRDPj) | 3:20 |
 | 101 | [Right Now](https://open.spotify.com/track/1mQaehT2IA8PAb6drI1RNB) | [Fire From The Gods](https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS) | [Right Now](https://open.spotify.com/album/0CTiiacS0NVOYgQnHLRPGa) | 3:45 |
 | 102 | [Keep Your Distance](https://open.spotify.com/track/1LnId5vVcxflSKqF7VbdNY) | [Malevolence](https://open.spotify.com/artist/7KFv5Cni7kseXWHJnnejXk), [Bryan Garris](https://open.spotify.com/artist/7I25a8b3zJkLqCW2Ikfpfe) | [The Other Side](https://open.spotify.com/album/6wkTgZzU6KpCazo4vJInGH) | 2:51 |
 | 103 | [A Flag to Wave](https://open.spotify.com/track/2vbIlZuY3e7Coho7Av1eYz) | [Currents](https://open.spotify.com/artist/5pqvAI85RMxL9K0xHvSwGu) | [The Way It Ends](https://open.spotify.com/album/2pVCexIJwUK0Mg9cFtDhxr) | 3:34 |
-| 104 | [Bird On A Chain](https://open.spotify.com/track/4IF5tqSLknKGYp0uQPZw6P) | [Florence Black](https://open.spotify.com/artist/7ubhUvkY7FB68rfzz7DmW4) | [Bird On A Chain](https://open.spotify.com/album/5eY8X2zrWWaHlm7kMPV7qu) | 2:52 |
-| 105 | [I Am Damnation](https://open.spotify.com/track/17ExHVQYfJBlTSnbidz0LQ) | [Bleed From Within](https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG) | [I Am Damnation](https://open.spotify.com/album/4CegSYvQSSoiMLhO0AHEDa) | 4:46 |
+| 104 | [Choke](https://open.spotify.com/track/1BW2QdLe6RtJTMJDSYmg9w) | [Bury Tomorrow](https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt) | [Choke](https://open.spotify.com/album/5DmqJ0pRpRSJ210dLGNiGK) | 3:47 |
+| 105 | [Bird On A Chain](https://open.spotify.com/track/4IF5tqSLknKGYp0uQPZw6P) | [Florence Black](https://open.spotify.com/artist/7ubhUvkY7FB68rfzz7DmW4) | [Bird On A Chain](https://open.spotify.com/album/5eY8X2zrWWaHlm7kMPV7qu) | 2:52 |
 | 106 | [Ordinary Story](https://open.spotify.com/track/6ULAF7fV7JPQPPHz1aP3vc) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Colony](https://open.spotify.com/album/4Z9xOX9pfFdYLR6Yzqrn1l) | 4:16 |
-| 107 | [Choke](https://open.spotify.com/track/1BW2QdLe6RtJTMJDSYmg9w) | [Bury Tomorrow](https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt) | [Choke](https://open.spotify.com/album/5DmqJ0pRpRSJ210dLGNiGK) | 3:47 |
-| 108 | [Biggest & the Best](https://open.spotify.com/track/51XrhhPlt1smLatJgcBrUb) | [Clawfinger](https://open.spotify.com/artist/1xE3snzm12GBK259IqEFlY) | [Clawfinger](https://open.spotify.com/album/2UcbjA0yIRk3OR5H7GKnGf) | 3:51 |
-| 109 | [STFU](https://open.spotify.com/track/0X6WHH6WvXFTMmwWrsFeob) | [Annisokay](https://open.spotify.com/artist/7lAi1Cv19DsukgGjbZQxFg) | [Aurora](https://open.spotify.com/album/27iMGsljLzEgyFU1rAR0bX) | 3:30 |
-| 110 | [Amaranth](https://open.spotify.com/track/1vzqcPRQ6P1Uw7NZ5M77wJ) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Dark Passion Play](https://open.spotify.com/album/4oOfQhhbHBfIcIDwuJjwTy) | 3:51 |
+| 107 | [I Am Damnation](https://open.spotify.com/track/17ExHVQYfJBlTSnbidz0LQ) | [Bleed From Within](https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG) | [I Am Damnation](https://open.spotify.com/album/4CegSYvQSSoiMLhO0AHEDa) | 4:46 |
+| 108 | [STFU](https://open.spotify.com/track/0X6WHH6WvXFTMmwWrsFeob) | [Annisokay](https://open.spotify.com/artist/7lAi1Cv19DsukgGjbZQxFg) | [Aurora](https://open.spotify.com/album/27iMGsljLzEgyFU1rAR0bX) | 3:30 |
+| 109 | [Biggest & the Best](https://open.spotify.com/track/51XrhhPlt1smLatJgcBrUb) | [Clawfinger](https://open.spotify.com/artist/1xE3snzm12GBK259IqEFlY) | [Clawfinger](https://open.spotify.com/album/2UcbjA0yIRk3OR5H7GKnGf) | 3:51 |
+| 110 | [I'm Not Right](https://open.spotify.com/track/3mtwzP9E05Ad8sJCvrnRvK) | [Tetrarch](https://open.spotify.com/artist/5e43m4iYsZF54tHcJNAVU2) | [Unstable](https://open.spotify.com/album/5CeWYs97NFdLiydGVFBtFz) | 3:46 |
 
-Snapshot ID: `MTY1NDg2MTA1OCwwMDAwMDAwMDlmZjNjYWFiMjNiNzJiYjVmZTc3Nzg0YmVhMDZkMWY0`
+Snapshot ID: `MTY1NDg2MTA1OCwwMDAwMDAwMGQ2NGQ4YzkxNjk2MTBmNmZlOWNjOTNkMTllMTI1ODU3`

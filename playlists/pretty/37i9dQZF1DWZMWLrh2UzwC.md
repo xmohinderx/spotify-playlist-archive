@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: BLACKPINK
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,321 likes - 88 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,334 likes - 88 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

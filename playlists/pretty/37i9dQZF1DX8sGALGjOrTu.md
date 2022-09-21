@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sGALGjOrTu.md) - [plain]
 
 > When emo and hardcore fell hard for each other.
 
-[Spotify](https://open.spotify.com/user/spotify) - 327,854 likes - 100 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 328,127 likes - 100 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sGALGjOrTu.md) - [plain]
 | 51 | [Reinventing Your Exit](https://open.spotify.com/track/591vJuuep0gfPhx9p8WPD5) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [They're Only Chasing Safety](https://open.spotify.com/album/5GeXnKDk6sD6RnkPVwFi19) | 4:22 |
 | 52 | [Rebel Love Song](https://open.spotify.com/track/3ItCQd3vvharrdNrBzZuIY) | [Black Veil Brides](https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs) | [Set The World On Fire](https://open.spotify.com/album/3iTUq3CfkKcD5ZN4zgcDIA) | 3:57 |
 | 53 | [Anthem of Our Dying Day](https://open.spotify.com/track/4sPJgy0CksvmXp9jC0W4gv) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Page Avenue](https://open.spotify.com/album/4juejyEeCKFskkDA6zhIBW) | 3:36 |
-| 54 | [The Days Of The Phoenix](https://open.spotify.com/track/7oSQG8KgYbrcR2kgwUD9SU) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [The Art Of Drowning](https://open.spotify.com/album/3x1951P584xqRUW7KdLs6A) | 3:27 |
-| 55 | [Seven Years](https://open.spotify.com/track/0C71NJD4BhvPopTwI7a8KV) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Translating the Name](https://open.spotify.com/album/3Lfxp4dgtCBJN74rmo7tiE) | 3:12 |
+| 54 | [Seven Years](https://open.spotify.com/track/0C71NJD4BhvPopTwI7a8KV) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Translating the Name](https://open.spotify.com/album/3Lfxp4dgtCBJN74rmo7tiE) | 3:12 |
+| 55 | [The Days Of The Phoenix](https://open.spotify.com/track/7oSQG8KgYbrcR2kgwUD9SU) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [The Art Of Drowning](https://open.spotify.com/album/3x1951P584xqRUW7KdLs6A) | 3:27 |
 | 56 | [Waking the Demon](https://open.spotify.com/track/1ZEoYuekZQo62DLFtPVdqT) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Scream Aim Fire](https://open.spotify.com/album/04VE36yBM6GyJpDtD61e0p) | 4:07 |
 | 57 | [Niki Fm](https://open.spotify.com/track/3eFx554nKpVNe4otynSsK0) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [The Silence In Black And White \(Re\-Issue\)](https://open.spotify.com/album/6ypfxw9fHuwow6dkcA4y1z) | 3:59 |
 | 58 | [This Could Be Anywhere In The World](https://open.spotify.com/track/6hKnIY2Ssrmqw2TYXW0K5e) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Crisis](https://open.spotify.com/album/1eAMmJv65w0W2w50HDmTEw) | 4:03 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sGALGjOrTu.md) - [plain]
 | 99 | [Wake Up](https://open.spotify.com/track/6mKvriTiArIIJWa2IEQ3dN) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [The Black Swan](https://open.spotify.com/album/0Qk9nVlmC49ZNo9j14khzF) | 3:31 |
 | 100 | [Lip Gloss And Black](https://open.spotify.com/track/2Hy81a71pPf5lPWTq1o8ub) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [Suicide Notes And Butterfly Kisses](https://open.spotify.com/album/79HGVVOO9FbAATZXIk73Nc) | 5:04 |
 
-Snapshot ID: `MTY1MDkxNjUzMSwwMDAwMDAwMDIzYmNiOGJhODExNzhkYzIwZDk1Y2IyM2EwM2ViY2Fm`
+Snapshot ID: `MTY1MDkxNjUzMSwwMDAwMDAwMGViZDQxZjkzODFlOWNlODhmOTgyNmVmOTY5M2Q4NDhh`

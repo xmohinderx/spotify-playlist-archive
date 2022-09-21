@@ -622,6 +622,24 @@
     },
     {
       "album": {
+        "name": "Date Night / Tomorrow",
+        "url": "https://open.spotify.com/album/6cdTXq7XYRn3E8Mk68ep0G"
+      },
+      "artists": [
+        {
+          "name": "White Lung",
+          "url": "https://open.spotify.com/artist/2iT2Fmot4VzWgdOTgp3j9M"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174133,
+      "name": "Date Night",
+      "url": "https://open.spotify.com/track/7zQkwd2nzVq1EYn2bxkuyo"
+    },
+    {
+      "album": {
         "name": "The Night",
         "url": "https://open.spotify.com/album/6HyYMwVYkef8Yjb02Kjmuh"
       },

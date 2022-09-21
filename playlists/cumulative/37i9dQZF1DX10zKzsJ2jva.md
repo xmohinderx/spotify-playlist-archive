@@ -4,14 +4,15 @@
 
 > Today's top Latin hits, elevando nuestra música\. Cover: Feid
 
-196 songs - 10 hr 43 min - [published](https://open.spotify.com/playlist/5BhGHTGbq4HOInzfEXtLEB)
+197 songs - 10 hr 46 min - [published](https://open.spotify.com/playlist/5BhGHTGbq4HOInzfEXtLEB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [12x3](https://open.spotify.com/track/0HINQFSerZ6iMfSsaTO3G5) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [12x3](https://open.spotify.com/album/2yTsZhJ86LtD1hvl8wSRPr) | 2:39 | 2022-01-14 | 2022-06-18 |
 | [23 \(With Ape Drums\)](https://open.spotify.com/track/4vv8wcnT04GHHbUCFBAiHF) | [Randy](https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav), [Ape Drums](https://open.spotify.com/artist/4HJnsUVBubdKJ2aV0sr48u) | [Romances de una Nota 2021, Vol.2](https://open.spotify.com/album/6uEzgIGDVyYfx0yyfON43T) | 2:47 | 2021-12-17 | 2022-02-05 |
+| [Aeropuerto](https://open.spotify.com/track/4v7riPZWyAclrOfUSwD0zp) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [De Adentro Pa Afuera](https://open.spotify.com/album/1UTDgnpHmthIsdzSxbhpV2) | 2:57 | 2022-09-20 |  |
 | [AGUA](https://open.spotify.com/track/4e4t1qNN47CzmCxFffzs4U) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [LEGENDADDY](https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt) | 3:24 | 2022-03-25 | 2022-04-19 |
-| [Ambulancia](https://open.spotify.com/track/5OPte07J5hRK1pTn0f7ldr) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [De Adentro Pa Afuera](https://open.spotify.com/album/1UTDgnpHmthIsdzSxbhpV2) | 3:32 | 2022-09-09 |  |
+| [Ambulancia](https://open.spotify.com/track/5OPte07J5hRK1pTn0f7ldr) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [De Adentro Pa Afuera](https://open.spotify.com/album/1UTDgnpHmthIsdzSxbhpV2) | 3:32 | 2022-09-09 | 2022-09-21 |
 | [Antes de Perderte](https://open.spotify.com/track/4RtPruLRZbyirtJGqYHPQm) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Antes de Perderte](https://open.spotify.com/album/1l6jE76o3QeZOXPt6G5Je7) | 2:56 | 2022-06-10 | 2022-09-17 |
 | [Apretaito](https://open.spotify.com/track/0cW5cXANjlv8hgLAQwdvgE) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Apretaito](https://open.spotify.com/album/0aMqp2gRJQjhVZmHkuTtfL) | 3:19 | 2022-04-15 | 2022-08-13 |
 | [ARRANCARMELO](https://open.spotify.com/track/2x8oBuYaObjqHqgGuIUZ0b) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [ARRANCARMELO](https://open.spotify.com/album/4KFUPud6oSm5IgLwnGkzPt) | 3:03 | 2022-04-15 | 2022-06-04 |

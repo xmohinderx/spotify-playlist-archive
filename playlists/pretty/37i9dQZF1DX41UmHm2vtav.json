@@ -1,12 +1,12 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 361024,
+  "num_followers": 361100,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY5MjQ2MCwwMDAwMDAwMDYwMjRjZGJlYjBjMThlMmFhNGU5N2IxMGJhMDM3ZGU0",
+  "snapshot_id": "MTY2MjY5MjQ2MCwwMDAwMDAwMDFmOTlmNzYxN2JlNWE2OGU5MWUyMzU4ZWEyYTYyM2M0",
   "tracks": [
     {
       "added_at": "2022-09-09 03:01:00",
@@ -255,6 +255,26 @@
     {
       "added_at": "2022-09-09 03:01:00",
       "album": {
+        "name": "Sorri, Sou Rei (KVSH Remix)",
+        "url": "https://open.spotify.com/album/5J4wjBvmwvBXYBWXickRmk"
+      },
+      "artists": [
+        {
+          "name": "KVSH",
+          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
+        },
+        {
+          "name": "Natiruts",
+          "url": "https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO"
+        }
+      ],
+      "duration_ms": 217678,
+      "name": "Sorri, Sou Rei (KVSH Remix)",
+      "url": "https://open.spotify.com/track/3xV2M8KBtZDtZp42vJReCH"
+    },
+    {
+      "added_at": "2022-09-09 03:01:00",
+      "album": {
         "name": "Forever Yours (Avicii Tribute)",
         "url": "https://open.spotify.com/album/63VE57Ol6fcAC0fb6kGx5y"
       },
@@ -275,26 +295,6 @@
       "duration_ms": 193846,
       "name": "Forever Yours - Avicii Tribute",
       "url": "https://open.spotify.com/track/3o1CUVeHIid49sabk6A6Nf"
-    },
-    {
-      "added_at": "2022-09-09 03:01:00",
-      "album": {
-        "name": "Sorri, Sou Rei (KVSH Remix)",
-        "url": "https://open.spotify.com/album/5J4wjBvmwvBXYBWXickRmk"
-      },
-      "artists": [
-        {
-          "name": "KVSH",
-          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
-        },
-        {
-          "name": "Natiruts",
-          "url": "https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO"
-        }
-      ],
-      "duration_ms": 217678,
-      "name": "Sorri, Sou Rei (KVSH Remix)",
-      "url": "https://open.spotify.com/track/3xV2M8KBtZDtZp42vJReCH"
     },
     {
       "added_at": "2022-09-09 03:01:00",
@@ -751,30 +751,6 @@
     {
       "added_at": "2022-09-09 03:01:00",
       "album": {
-        "name": "Vintage Culture & Friends 2",
-        "url": "https://open.spotify.com/album/3lQMwSJCdt8ECrirIdzELA"
-      },
-      "artists": [
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        },
-        {
-          "name": "Santti",
-          "url": "https://open.spotify.com/artist/7e6KqpXfInWHjdQufAnsyj"
-        },
-        {
-          "name": "Charlie Brown Jr.",
-          "url": "https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5"
-        }
-      ],
-      "duration_ms": 261818,
-      "name": "C\u00e9u Azul - Vintage Culture & Santti Remix",
-      "url": "https://open.spotify.com/track/0davAVsF63UvUwOtbSOhSE"
-    },
-    {
-      "added_at": "2022-09-09 03:01:00",
-      "album": {
         "name": "All The Lies (with Felix Jaehn & The Vamps)",
         "url": "https://open.spotify.com/album/4fPfnp90F94F1Ab8UANpHL"
       },
@@ -795,6 +771,30 @@
       "duration_ms": 179456,
       "name": "All The Lies (with Felix Jaehn & The Vamps)",
       "url": "https://open.spotify.com/track/4Cy5f4JsH1yoeGks7FnoHw"
+    },
+    {
+      "added_at": "2022-09-09 03:01:00",
+      "album": {
+        "name": "Vintage Culture & Friends 2",
+        "url": "https://open.spotify.com/album/3lQMwSJCdt8ECrirIdzELA"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "Santti",
+          "url": "https://open.spotify.com/artist/7e6KqpXfInWHjdQufAnsyj"
+        },
+        {
+          "name": "Charlie Brown Jr.",
+          "url": "https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5"
+        }
+      ],
+      "duration_ms": 261818,
+      "name": "C\u00e9u Azul - Vintage Culture & Santti Remix",
+      "url": "https://open.spotify.com/track/0davAVsF63UvUwOtbSOhSE"
     },
     {
       "added_at": "2022-09-09 03:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX821Oj2DrHJk.md) - [plain]
 
 > Rock that was on repeat during the summers of the 1970s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,577 likes - 100 songs - 7 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,596 likes - 100 songs - 7 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX821Oj2DrHJk.md) - [plain]
 | 66 | [I Shot The Sheriff](https://open.spotify.com/track/0UOxp1BpnD8uPQMKU4wKjz) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [461 Ocean Blvd\. \(Deluxe Edition\)](https://open.spotify.com/album/408nODJ1r3nO7f3qWkCrCB) | 4:23 |
 | 67 | [Love Gun](https://open.spotify.com/track/0SPBrxOUEMIKugXR4bFhxs) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Love Gun](https://open.spotify.com/album/77opKywcxPnBu5aBMASS2b) | 3:18 |
 | 68 | [Stay \- 2018 Remaster](https://open.spotify.com/track/5eMjcHVRRh1tbimTgJPoGn) | [Jackson Browne](https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m) | [Running on Empty \(2018 Remaster\)](https://open.spotify.com/album/24UtAJJRIuHICjdIDqaNhg) | 3:24 |
-| 69 | [Give Me Love \(Give Me Peace On Earth\)](https://open.spotify.com/track/4XMRt4xFqLzGs4wDKkSSeu) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Living In The Material World \(Remastered\)](https://open.spotify.com/album/79hB4QtJjn0Y4DyRPpllZg) | 3:35 |
-| 70 | [Lola \- 2020 Stereo Remaster](https://open.spotify.com/track/4ZKgPZ9d4V5WW6H2s4qMD3) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Lola Versus Powerman and the Moneygoround, Pt\. 1](https://open.spotify.com/album/70kpGi2o0I7NY4DfwIN2p0) | 4:01 |
+| 69 | [Lola \- 2020 Stereo Remaster](https://open.spotify.com/track/4ZKgPZ9d4V5WW6H2s4qMD3) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Lola Versus Powerman and the Moneygoround, Pt\. 1](https://open.spotify.com/album/70kpGi2o0I7NY4DfwIN2p0) | 4:01 |
+| 70 | [Give Me Love \(Give Me Peace On Earth\)](https://open.spotify.com/track/4XMRt4xFqLzGs4wDKkSSeu) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Living In The Material World \(Remastered\)](https://open.spotify.com/album/79hB4QtJjn0Y4DyRPpllZg) | 3:35 |
 | 71 | [Rock 'n' Roll Fantasy \- 2009 Remaster](https://open.spotify.com/track/71GMl3Q7U4JnrTqI9kfcoN) | [Bad Company](https://open.spotify.com/artist/5AEG63ajney2BoDXi0Vb84) | [Desolation Angels \(2009 Remaster\)](https://open.spotify.com/album/1yNIJqbC4vSPFcc8mKEWZp) | 3:17 |
 | 72 | [Let's Go](https://open.spotify.com/track/43G3McVkRa8V7oGQzfQuRr) | [The Cars](https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp) | [Candy\-O](https://open.spotify.com/album/4UFgeduzEZegQE74xUwI6J) | 3:33 |
 | 73 | [All Right Now](https://open.spotify.com/track/5Yuvfj0aCUvWE01bnMWtjV) | [Free](https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC) | [Songs Of Yesterday](https://open.spotify.com/album/1V3HZsFh7CaYBQLA1af5CK) | 3:28 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX821Oj2DrHJk.md) - [plain]
 | 99 | [Little Willy](https://open.spotify.com/track/5l7WMtIUfX4D2XsHYOp4zV) | [Sweet](https://open.spotify.com/artist/3JaAGmSTpJK35DqWrDUzBz) | [Best Of Sweet](https://open.spotify.com/album/7I5IWDrFPKeqhRSnd6QrXG) | 3:15 |
 | 100 | [Girls Talk](https://open.spotify.com/track/7vjs7IWQlxfhlxSYsKbKB6) | [Dave Edmunds](https://open.spotify.com/artist/65Gh3BfK84aTIugiRCgLBA) | [Single Trax 1970\-1981](https://open.spotify.com/album/4Zk0R6PCTujeSb9ppg1vQi) | 3:25 |
 
-Snapshot ID: `MTY1Mzk0MjI4OCwwMDAwMDAwMGVkY2I2M2Q2OTFkY2E3MWM5NDA5ZDU4OTc4NjcwMGQ4`
+Snapshot ID: `MTY1Mzk0MjI4OCwwMDAwMDAwMDk2OGFjYzEzMGVhYTBjMzcxNDk2ZGUxYmZmMWYyM2Ex`

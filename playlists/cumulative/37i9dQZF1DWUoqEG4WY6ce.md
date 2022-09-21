@@ -4,7 +4,7 @@
 
 > Hop in.
 
-283 songs - 18 hr 12 min - [published](https://open.spotify.com/playlist/6F0FKB0rzLUKWZk3Oa8sA0)
+284 songs - 18 hr 17 min - [published](https://open.spotify.com/playlist/6F0FKB0rzLUKWZk3Oa8sA0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Amalfi](https://open.spotify.com/track/6eEqRaK4SQWJ4vJjc4295m) | [Wild Pink](https://open.spotify.com/artist/2BS3fywRW33o5GygfzZaOZ) | [A Billion Little Lights](https://open.spotify.com/album/5Hj9DO1au6m5BcdosyjODG) | 4:16 | 2021-06-28 | 2022-07-29 |
 | [Animal](https://open.spotify.com/track/6vSq5q5DCs1IvwKIq53hj2) | [Miike Snow](https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J) | [Miike Snow](https://open.spotify.com/album/3EqIz9KGQakhATc71OGQQi) | 4:23 | 2022-07-03 |  |
 | [Another Story](https://open.spotify.com/track/1JxNWpK9xTWKRPoYTIX4Qk) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Let's Be Still](https://open.spotify.com/album/1SUZhiJWtX4NKS0KChC0vf) | 4:34 | 2020-10-29\* | 2022-05-19 |
+| [Another Story](https://open.spotify.com/track/34N4miRYCGQwmQEXoCiuuL) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Let's Be Still](https://open.spotify.com/album/6KE9bPdNZqkYvXebow0i42) | 4:34 | 2022-09-02 |  |
 | [anything](https://open.spotify.com/track/4DtEcOoqORcOaiYl4HQGsS) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [anything](https://open.spotify.com/album/2e3TrMSoC2IdX6tksQwpls) | 3:22 | 2021-06-28 | 2022-07-29 |
 | [anything](https://open.spotify.com/track/4PwWESSlTwzvw9B7bmtTLS) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [songs](https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ) | 3:22 | 2022-07-03 |  |
 | [Are You OK?](https://open.spotify.com/track/1sygfNN1Uw3kWlmTqC3PJY) | [Wasuremono](https://open.spotify.com/artist/1i9EknSbxjunq52yyxl8ig) | [Are You OK?](https://open.spotify.com/album/6xkwDIfgHnNz5SRL16PlFc) | 4:23 | 2020-10-29\* | 2022-07-29 |
@@ -174,7 +175,7 @@
 | [No Woman](https://open.spotify.com/track/5KPXcfXaGOaWUqOHLDXFRP) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Light Upon the Lake](https://open.spotify.com/album/3UhUTuYtGypQWuhqqoImsv) | 3:57 | 2022-07-03 |  |
 | [No You Girls](https://open.spotify.com/track/4VP8QiCeaZq8BeTIUrMQOG) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Tonight](https://open.spotify.com/album/6ppF24fU5pqbPrPuK5zVnS) | 3:43 | 2022-07-03 |  |
 | [Not](https://open.spotify.com/track/7IzJ7EGpIpq2vW3ylVTtMh) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Two Hands](https://open.spotify.com/album/7pg8T6pajjHVZbiyB8bGxo) | 6:07 | 2020-10-29\* | 2022-01-01 |
-| [Now & Then](https://open.spotify.com/track/41oqThgUF4yiNz77TazXtl) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [Now & Then](https://open.spotify.com/album/6uR4bPGGdQHDphbyubK9zc) | 3:25 | 2021-01-15 |  |
+| [Now & Then](https://open.spotify.com/track/41oqThgUF4yiNz77TazXtl) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [Now & Then](https://open.spotify.com/album/6uR4bPGGdQHDphbyubK9zc) | 3:25 | 2021-01-15 | 2022-09-21 |
 | [O Valencia!](https://open.spotify.com/track/221bl0jrSfJ1LMgUw36zRJ) | [The Decemberists](https://open.spotify.com/artist/7ITd48RbLVpUfheE7B86o2) | [The Crane Wife](https://open.spotify.com/album/4qvFBtRrwbSgoH3nyVlTCp) | 3:47 | 2020-10-29\* | 2021-10-12 |
 | [Ode to a Conversation Stuck in Your Throat](https://open.spotify.com/track/3vJPG94q3WlwK16IkMYDIL) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Ode to a Conversation Stuck in Your Throat](https://open.spotify.com/album/38XraG52zhCti9X5Tpjvsl) | 3:18 | 2021-06-28 | 2022-07-29 |
 | [Ode to a Conversation Stuck in Your Throat](https://open.spotify.com/track/51Lf3l6wx008NdBxCQnD6B) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Del Water Gap](https://open.spotify.com/album/22ljnmjYzy4TS5tCtaRIUE) | 3:19 | 2022-07-03 |  |

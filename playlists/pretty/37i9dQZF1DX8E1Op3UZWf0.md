@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8E1Op3UZWf0.md) - [plain]
 
 > Start the day with a morning run together with these easy and joyful tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,185 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,236 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8E1Op3UZWf0.md) - [plain]
 | 26 | [Blurred Lines](https://open.spotify.com/track/0n4bITAu0Y0nigrz3MFJMb) | [Robin Thicke](https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Blurred Lines \(Deluxe\)](https://open.spotify.com/album/1eHyfkrIOVLGVnt5E4MD2j) | 4:23 |
 | 27 | [Miss Independent](https://open.spotify.com/track/34ceTg8ChN5HjrqiIYCn9Q) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Year Of The Gentleman \(Bonus Track Edition\)](https://open.spotify.com/album/6dTn9vJSxVTIGm4Cu5dH4x) | 3:52 |
 | 28 | [Nevermind](https://open.spotify.com/track/63SevszngYpZOwf63o61K4) | [Dennis Lloyd](https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt) | [Nevermind](https://open.spotify.com/album/6c5gDwB7Xo58thk2vap4Ch) | 2:36 |
-| 29 | [Summer Days \(feat\. Macklemore & Patrick Stump of Fall Out Boy\)](https://open.spotify.com/track/7Feaw9WAEREY0DUOSXJLOM) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Summer Days \(feat\. Macklemore & Patrick Stump of Fall Out Boy\)](https://open.spotify.com/album/0xbuJLlb5afBcmCpdOaszR) | 2:43 |
-| 30 | [Pompeii](https://open.spotify.com/track/4Ub8UsjWuewQrPhuepfVpd) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [All This Bad Blood](https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L) | 3:34 |
+| 29 | [Pompeii](https://open.spotify.com/track/4Ub8UsjWuewQrPhuepfVpd) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [All This Bad Blood](https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L) | 3:34 |
+| 30 | [Summer Days \(feat\. Macklemore & Patrick Stump of Fall Out Boy\)](https://open.spotify.com/track/7Feaw9WAEREY0DUOSXJLOM) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Summer Days \(feat\. Macklemore & Patrick Stump of Fall Out Boy\)](https://open.spotify.com/album/0xbuJLlb5afBcmCpdOaszR) | 2:43 |
 | 31 | [I Don't Care \(with Justin Bieber\)](https://open.spotify.com/track/0hVXuCcriWRGvwMV1r5Yn9) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [No.6 Collaborations Project](https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx) | 3:39 |
 | 32 | [Can't Get You out of My Head](https://open.spotify.com/track/3E7ZwUMJFqpsDOJzEkBrQ7) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Fever](https://open.spotify.com/album/4WzTXHp8bVKkKNu3UQ2Fqu) | 3:50 |
 | 33 | [Fast Car](https://open.spotify.com/track/1SN1vSPsr4V4tIUTR3s8YW) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Dakota](https://open.spotify.com/artist/2zzpznMuhKlKlqh1ma7Sms) | [Blue](https://open.spotify.com/album/2xZSrcBmvMw9Y8hac6xU7L) | 3:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8E1Op3UZWf0.md) - [plain]
 | 49 | [Stargazing](https://open.spotify.com/track/0Zbbxnx4SGGHoIow4PpISP) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Justin Jesso](https://open.spotify.com/artist/1QDrz3DMMaz3TB1cm0PGDu) | [Stargazing \- EP](https://open.spotify.com/album/2sPYPyDFwgi1jrRTGhoxq2) | 3:56 |
 | 50 | [Sexual Healing \- Kygo Remix](https://open.spotify.com/track/7s1upm7yr7ZjrzXMwHawtG) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA), [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4) | [Sexual Healing \(Kygo Remix\)](https://open.spotify.com/album/6j62lF3YXsygj6xTjAyRG5) | 6:08 |
 
-Snapshot ID: `MTY2MTQ4ODc0MCwwMDAwMDAwMGNjOWRhYTM3NmNkOTIxM2MyZmFmMGMyNDE0NDE2NTAz`
+Snapshot ID: `MTY2MTQ4ODc0MCwwMDAwMDAwMDA0OGVjZDhkMTg4NGQ5MWVjODExNGI4NzBhNjk4MjU1`

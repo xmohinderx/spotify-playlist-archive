@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbGYZ9Pq4TH.md) - [plain]
 
 > Le tracce italiane più romantiche di sempre.
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,109 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,130 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,28 +27,28 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbGYZ9Pq4TH.md) - [plain]
 | 17 | [La storia infinita](https://open.spotify.com/track/2r1SRt8bhtR6a9bMRR0AgV) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [AHIA!](https://open.spotify.com/album/0b2peKNz7zmn4xIxfPBUPa) | 3:27 |
 | 18 | [Poetica](https://open.spotify.com/track/07qo9gnLM488CUr0EtgIA1) | [Cesare Cremonini](https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T) | [Possibili Scenari](https://open.spotify.com/album/1tcX4ysSZEeMMshVVbkkDa) | 4:53 |
 | 19 | [Sempre In Due](https://open.spotify.com/track/6ElWuGFrYbsf2mdHWUoGCk) | [Carl Brave x Franco126](https://open.spotify.com/artist/6p2OF8M4ob4KovaU0SUX4b) | [Polaroid 2.0](https://open.spotify.com/album/3RPTwOmoZNB0gNyUKscixz) | 3:10 |
-| 20 | [Estate](https://open.spotify.com/track/7nd1mwoAAFtJjmjfdyOUwg) | [Negramaro](https://open.spotify.com/artist/1X9iZlQXfAAx4Vvmlqeao7) | [Mentre Tutto Scorre \(Deluxe Version\)](https://open.spotify.com/album/4wPMtE1vSjjAPbNN4mUX86) | 2:58 |
+| 20 | [Fuoco e benzina](https://open.spotify.com/track/4Fs1sEg9Mwn6vykFD89xvc) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G) | [Supereroe](https://open.spotify.com/album/67g3eUjlYFB7EkhS1pjKe4) | 3:29 |
 | 21 | [Rondini Al Guinzaglio](https://open.spotify.com/track/1jhHPnmgZepKU8qX4VhRZ0) | [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa) | [Colpa Delle Favole](https://open.spotify.com/album/7ynNnkdYfFsjMxvfecxAWy) | 4:00 |
 | 22 | [È sempre bello](https://open.spotify.com/track/6IdiuMw1FSAvU3e6bgWQVX) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [È sempre bello](https://open.spotify.com/album/10qyDIB3pverR0MvhOFDVy) | 3:23 |
-| 23 | [Fuoco e benzina](https://open.spotify.com/track/4Fs1sEg9Mwn6vykFD89xvc) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G) | [Supereroe](https://open.spotify.com/album/67g3eUjlYFB7EkhS1pjKe4) | 3:29 |
+| 23 | [Estate](https://open.spotify.com/track/7nd1mwoAAFtJjmjfdyOUwg) | [Negramaro](https://open.spotify.com/artist/1X9iZlQXfAAx4Vvmlqeao7) | [Mentre Tutto Scorre \(Deluxe Version\)](https://open.spotify.com/album/4wPMtE1vSjjAPbNN4mUX86) | 2:58 |
 | 24 | [Venere e Marte \(feat\. Marco Mengoni, Frah Quintale\)](https://open.spotify.com/track/4O3sAZoZDIhNRcfHNuU4Ps) | [Takagi & Ketra](https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx), [Marco Mengoni](https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5), [Frah Quintale](https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN) | [Venere e Marte \(feat\. Marco Mengoni, Frah Quintale\)](https://open.spotify.com/album/3qc7zx8OrCXDqzs7qa8l7P) | 3:42 |
 | 25 | [Non Avere Paura](https://open.spotify.com/track/1qMx707PFdFXdwLvcUTNz3) | [Tommaso Paradiso](https://open.spotify.com/artist/47z0zz9ZMCn9GBiPRTn5Bc) | [Non Avere Paura](https://open.spotify.com/album/6qoQjya7Pb4NTuNserGcKP) | 4:07 |
 | 26 | [Un'emozione per sempre](https://open.spotify.com/track/1Hd8GLavCUUUx3GJdunJ4E) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [9](https://open.spotify.com/album/0orR3i1y0uPP6smKEFFbP8) | 3:56 |
 | 27 | [Cascare nei tuoi occhi](https://open.spotify.com/track/60oJSn5MTG2VNvCJKwd65M) | [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa) | [Peter Pan](https://open.spotify.com/album/7E0zdJM8KYDRa5lQeAfEYi) | 3:46 |
-| 28 | [Senza Parole](https://open.spotify.com/track/1myKwR6JbIvo1iKY8nOzbc) | [Vasco Rossi](https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65) | [VASCONONSTOP](https://open.spotify.com/album/1UegELBIi5854L79kswXuE) | 4:42 |
-| 29 | [Concedimi](https://open.spotify.com/track/0pFjYM7JdNJhjuooMgesks) | [Matteo Romano](https://open.spotify.com/artist/5Imsy0ZXNi7uWLJpP5dZ8b) | [Concedimi](https://open.spotify.com/album/3aunYOAreqjC6cdHn6iOaJ) | 3:09 |
+| 28 | [Concedimi](https://open.spotify.com/track/0pFjYM7JdNJhjuooMgesks) | [Matteo Romano](https://open.spotify.com/artist/5Imsy0ZXNi7uWLJpP5dZ8b) | [Concedimi](https://open.spotify.com/album/3aunYOAreqjC6cdHn6iOaJ) | 3:09 |
+| 29 | [Senza Parole](https://open.spotify.com/track/1myKwR6JbIvo1iKY8nOzbc) | [Vasco Rossi](https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65) | [VASCONONSTOP](https://open.spotify.com/album/1UegELBIi5854L79kswXuE) | 4:42 |
 | 30 | [Questa nostra stupida canzone d'amore](https://open.spotify.com/track/1Kw6V4wiZKTVwLZ5YcYJR3) | [Thegiornalisti](https://open.spotify.com/artist/6YBgd2LKccEB3pX6UaW1Yp) | [LOVE](https://open.spotify.com/album/5ckYRyGJLuChNaIuXUWwcN) | 4:09 |
 | 31 | [Faccio un casino](https://open.spotify.com/track/6qNXkVk19OYLu4CoqjDfZ0) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [Faccio un casino](https://open.spotify.com/album/3aKazjcDl544T21siS8lDp) | 3:13 |
 | 32 | [Cosa mi manchi a fare](https://open.spotify.com/track/7L8cIUKXToCr6PV9hFoX3Q) | [Calcutta ](https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r) | [Mainstream \(Deluxe Edition\)](https://open.spotify.com/album/11dh7pT3FRrGkI3TXl0e4k) | 2:49 |
 | 33 | [Iris \(Tra Le Tue Poesie\)](https://open.spotify.com/track/1of8D9YF8T2nkLuk30JZNX) | [Biagio Antonacci](https://open.spotify.com/artist/0Qd65xBSFzdm3zCEu2ThQF) | [Mi Fai Stare Bene](https://open.spotify.com/album/5RUMRiHZj0cbk46Ttie5mZ) | 3:58 |
-| 34 | [D'improvviso](https://open.spotify.com/track/4ykkHvzEE45AlcUq6vkVW6) | [Lorenzo Fragola](https://open.spotify.com/artist/0tTS475qIqv3KXYZMXjsYy) | [Zero Gravity](https://open.spotify.com/album/0FxEbIEYdmAZ7u2oDB0Z4P) | 3:29 |
-| 35 | [Come Nelle Favole](https://open.spotify.com/track/71LtXfhnWA7kR8Ntk1VE8R) | [Vasco Rossi](https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65) | [VASCONONSTOP](https://open.spotify.com/album/1UegELBIi5854L79kswXuE) | 4:13 |
+| 34 | [Come Nelle Favole](https://open.spotify.com/track/71LtXfhnWA7kR8Ntk1VE8R) | [Vasco Rossi](https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65) | [VASCONONSTOP](https://open.spotify.com/album/1UegELBIi5854L79kswXuE) | 4:13 |
+| 35 | [D'improvviso](https://open.spotify.com/track/4ykkHvzEE45AlcUq6vkVW6) | [Lorenzo Fragola](https://open.spotify.com/artist/0tTS475qIqv3KXYZMXjsYy) | [Zero Gravity](https://open.spotify.com/album/0FxEbIEYdmAZ7u2oDB0Z4P) | 3:29 |
 | 36 | [Meraviglioso \- Live](https://open.spotify.com/track/6tZuvbPGzTekaD17rj9RlA) | [Negramaro](https://open.spotify.com/artist/1X9iZlQXfAAx4Vvmlqeao7) | [San Siro Live \(Deluxe Edition\)](https://open.spotify.com/album/5RwlSfHiTTtlSz7TM4A6sa) | 4:03 |
 | 37 | [La Cura](https://open.spotify.com/track/3sc9YIcDSPCXsQ0zzX3JLW) | [Franco Battiato](https://open.spotify.com/artist/4lianjyuR1tqf6oUX8kjrZ) | [L'Imboscata](https://open.spotify.com/album/6Ws5YQCEOfwmpTK01EALgv) | 4:03 |
 | 38 | [La tua canzone](https://open.spotify.com/track/4Z43nMEiOiNeDrqu2BN0JD) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [È sempre bello](https://open.spotify.com/album/10qyDIB3pverR0MvhOFDVy) | 3:12 |
-| 39 | [A Te](https://open.spotify.com/track/0pVSpAnjpnqywmPZnOISiv) | [Jovanotti](https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi) | [Safari](https://open.spotify.com/album/4tp7nwTFlAwtgHhJiEnilK) | 4:24 |
-| 40 | [Infinito](https://open.spotify.com/track/7KyPP4IenVDrKeewWlAp5L) | [Raf](https://open.spotify.com/artist/3rlKqNmhaP9UiC0wFQyFS3) | [Iperbole](https://open.spotify.com/album/11ppqhDtSVmjuGCJygZdIG) | 4:56 |
-| 41 | [E...](https://open.spotify.com/track/2hfBefasNaEEgnxD4Pdsar) | [Vasco Rossi](https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65) | [Buoni O Cattivi \(Remastered 2017\)](https://open.spotify.com/album/6qD7I2PTgtLMutPuanRjwL) | 3:29 |
+| 39 | [E...](https://open.spotify.com/track/2hfBefasNaEEgnxD4Pdsar) | [Vasco Rossi](https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65) | [Buoni O Cattivi \(Remastered 2017\)](https://open.spotify.com/album/6qD7I2PTgtLMutPuanRjwL) | 3:29 |
+| 40 | [A Te](https://open.spotify.com/track/0pVSpAnjpnqywmPZnOISiv) | [Jovanotti](https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi) | [Safari](https://open.spotify.com/album/4tp7nwTFlAwtgHhJiEnilK) | 4:24 |
+| 41 | [Infinito](https://open.spotify.com/track/7KyPP4IenVDrKeewWlAp5L) | [Raf](https://open.spotify.com/artist/3rlKqNmhaP9UiC0wFQyFS3) | [Iperbole](https://open.spotify.com/album/11ppqhDtSVmjuGCJygZdIG) | 4:56 |
 | 42 | [MIA](https://open.spotify.com/track/1SIl1FBbHmGa4PmJu5q6Lm) | [Lortex](https://open.spotify.com/artist/0ItmqfCN0IYX9N8LcDHj45) | [MIA](https://open.spotify.com/album/6cncwJJC6PJW1JelJ6v71g) | 2:54 |
 | 43 | [Il bacio di Klimt](https://open.spotify.com/track/3E1FgPTXX203rgBTD5nlKF) | [Emanuele Aloia](https://open.spotify.com/artist/3vkFU3DBYyYBSUt323pj76) | [Il bacio di Klimt](https://open.spotify.com/album/2JAcCIuh57ns83xfzTpNaB) | 2:57 |
 | 44 | [Unica](https://open.spotify.com/track/0LcyAWgNU4vk3Sn1DNtifk) | [Antonello Venditti](https://open.spotify.com/artist/3hYLJPJuDyblFKersEaFd6) | [Unica](https://open.spotify.com/album/2gJy8l07yFCDvGnscXyl9F) | 3:54 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbGYZ9Pq4TH.md) - [plain]
 | 47 | [Sorriso \(Milano Dateo\)](https://open.spotify.com/track/6Rg0AJvt1xa4hR2QH2fUhb) | [Calcutta ](https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r) | [Sorriso \(Milano Dateo\)](https://open.spotify.com/album/5U5pvv8NQHjb4UEhMozHRz) | 2:57 |
 | 48 | [Posso \(feat\. Max Gazzé\)](https://open.spotify.com/track/5N0nmOmc0MqPZTYKw4fVV6) | [Carl Brave](https://open.spotify.com/artist/29nrwultxQ8jENVmXoyMqK), [Max Gazzè](https://open.spotify.com/artist/1h5O32I1o0VOnpLmKXLfRa) | [Notti Brave \(After\)](https://open.spotify.com/album/5igFxzbfH6oTb3vRFvNK5w) | 3:58 |
 | 49 | [Una Su 1.000.000](https://open.spotify.com/track/3O96lY6J3wxMEc8yoB844j) | [Alex Britti](https://open.spotify.com/artist/2cNC9hjjdsMKLv0m2m9p1D) | [La Vasca](https://open.spotify.com/album/2iZYerMKDMcaJiosOSEu3f) | 2:56 |
-| 50 | [Mi Fido Di Te](https://open.spotify.com/track/46KXIKdv0ja37KZ3RIcqu0) | [Jovanotti](https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi) | [Buon Sangue](https://open.spotify.com/album/4CzpxmaZzXvFBzNdGRw6qq) | 4:31 |
+| 50 | [L'Immenso](https://open.spotify.com/track/7bof4i0U5eYSJ6yhgtddK9) | [Negramaro](https://open.spotify.com/artist/1X9iZlQXfAAx4Vvmlqeao7) | [La Finestra \(Deluxe Edition\)](https://open.spotify.com/album/0NQDyYJyaZWGAuKo8PngX2) | 3:34 |
 
-Snapshot ID: `MTYzMjY4MTUzMywwMDAwMDAwMGIwYTU1Zjc4MjI2N2ExNmI4MTlkYWQ5YWEzZDNiNzll`
+Snapshot ID: `MTYzMjY4MTUzMywwMDAwMDAwMDlhOWYzNTgwMTdlODg5YTE4NmFiZGI5ZDI1ODZlYjNh`

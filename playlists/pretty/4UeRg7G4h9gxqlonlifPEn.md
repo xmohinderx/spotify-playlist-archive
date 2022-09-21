@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4UeRg7G4h9gxqlonlifPEn.md) - [plain]
 
 > From working out to going out \- turnt mode means bangers only\. Featuring Nardo Wick, Lil Tjay, Rowdy Rebel, Polo G and more\. Cover: Southside, Lil Durk
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 40,729 likes - 100 songs - 4 hr 58 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 40,727 likes - 100 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/4UeRg7G4h9gxqlonlifPEn.md) - [plain]
 | 5 | [Big Business Remix \(feat\. Rick Ross\)](https://open.spotify.com/track/3QrNVAhmulzykPkJmn5Zo7) | [Trapland Pat](https://open.spotify.com/artist/6qvfzsfzCPEpVfY2EuqUQZ), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Big Business Remix \(feat\. Rick Ross\)](https://open.spotify.com/album/3bFPyM5Wq67BowbEwBfIwp) | 2:52 |
 | 6 | [DRAMA QUEEN](https://open.spotify.com/track/51MaFLZUzEE2mU5F4pSIZh) | [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW) | [Denim](https://open.spotify.com/album/38r3tXAVmVr8MpbFWUWEnG) | 2:11 |
 | 7 | [Move](https://open.spotify.com/track/5FoSDKPB0QufTlGbOBye0F) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [Move](https://open.spotify.com/album/1KaLxqjf1O9xnxS5Z3G1ga) | 3:16 |
-| 8 | [One Time \(feat\. Ice Spice, Skillibeng & J.I the Prince of N.Y\)](https://open.spotify.com/track/5c1veUUGWMIxFv84E5P9uH) | [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [J.I the Prince of N.Y](https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h) | [One Time \(feat\. Ice Spice, Skillibeng & J.I the Prince of N.Y\)](https://open.spotify.com/album/7FX6vTJxAvOSM7DIpFCHRC) | 3:16 |
+| 8 | [One Time \(feat\. Ice Spice, Skillibeng & J.I the Prince of N.Y\)](https://open.spotify.com/track/5c1veUUGWMIxFv84E5P9uH) | [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [J.I the Prince of N.Y](https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [One Time \(feat\. Ice Spice, Skillibeng & J.I the Prince of N.Y\)](https://open.spotify.com/album/7FX6vTJxAvOSM7DIpFCHRC) | 3:16 |
 | 9 | [Impala](https://open.spotify.com/track/7EgThh6AbBM6nWs4XOPx2T) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [EA Monster](https://open.spotify.com/album/3yXJ8SlRNl2epdhlQCaewE) | 3:05 |
 | 10 | [Spinnin' \(feat\. Doe Boy\)](https://open.spotify.com/track/0GeQLnbZlfKiGoq83g4w2C) | [Raw Youngin](https://open.spotify.com/artist/44ATBEJe6woTBiC41VWQKd), [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC) | [Spinnin' \(feat\. Doe Boy\)](https://open.spotify.com/album/64pd43qCCe2dR4dMnmit3N) | 2:48 |
 | 11 | [IT AIN'T SAFE \(feat\. Nardo Wick & Kodak Black\)](https://open.spotify.com/track/2d4XHh61JufZpNdm88TXXx) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [GOD DID](https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50) | 2:50 |

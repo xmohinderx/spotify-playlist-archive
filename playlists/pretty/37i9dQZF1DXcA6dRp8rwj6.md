@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 
 > The hottest Hip\-Hop of today all over the world\.  \(R.I.P\. PnB Rock\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 404,874 likes - 75 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 404,928 likes - 75 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 | 57 | [HIGH RISK HIGH RETURN \(Feat\. Polodared\)](https://open.spotify.com/track/5MnjjRXp2huzCdVXkGpU2I) | [SINCE](https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616), [Polodared](https://open.spotify.com/artist/1Ri5P0CfdNxdIkHX6es8Xd) | [HIGH RISK HIGH RETURN](https://open.spotify.com/album/340j9Dgw9Nuy772bHowbih) | 3:09 |
 | 58 | [Treesha](https://open.spotify.com/track/2mzlyJ8Gb8cFMJvfENKnJQ) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Treesha](https://open.spotify.com/album/2AvGq63YVyGVyU0YqMecCy) | 1:45 |
 | 59 | [Falsetto \(feat\. Lil Tecca\)](https://open.spotify.com/track/6nrPRHGdz1ytpX2ZBZ4RGU) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [We All We Got](https://open.spotify.com/album/34lnCyV2yifNux7dsd1w0O) | 2:15 |
-| 60 | [Fortunate \(Feat\. Kanye West, Dreezy & CHILLER\)](https://open.spotify.com/track/365eCTLl2eaWqrCGhnZu4e) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Dreezy](https://open.spotify.com/artist/7gWumE1wMALHXANLSIt054), [CHILLER](https://open.spotify.com/artist/3klsOr0E1Vro9ojNeiHkWQ) | [DRILLMATIC Heart vs\. Mind](https://open.spotify.com/album/2yBfRM9cxHgHb155SdDoWl) | 3:55 |
+| 60 | [Fortunate \(Feat\. Kanye West, Dreezy & CHILLER\)](https://open.spotify.com/track/365eCTLl2eaWqrCGhnZu4e) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Dreezy](https://open.spotify.com/artist/7gWumE1wMALHXANLSIt054), [CHILLR](https://open.spotify.com/artist/7hU3F1cPxvabOixpNDDgjT) | [DRILLMATIC Heart vs\. Mind](https://open.spotify.com/album/2yBfRM9cxHgHb155SdDoWl) | 3:55 |
 | 61 | [Super Freaky Girl](https://open.spotify.com/track/4C6Uex2ILwJi9sZXRdmqXp) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Super Freaky Girl](https://open.spotify.com/album/0h5MuD9O9o1VoN07mQmwMQ) | 2:50 |
 | 62 | [Sunshine](https://open.spotify.com/track/54NBD72JXFXzrodbQBSzWh) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Sunshine](https://open.spotify.com/album/3dkw0XggNMPs4koj5PtL6r) | 3:08 |
 | 63 | [OVERTIME](https://open.spotify.com/track/08fiGtF2aFcSJcT9qC8Y24) | [FRSHOFF](https://open.spotify.com/artist/0VKBybevJOKSIZD9mwVDnU), [The J](https://open.spotify.com/artist/1MnDwIcSaSdnCgPt3bNRLu), [HOWE.](https://open.spotify.com/artist/6NGEHIaioxYc0RVWGv6U8q), [B.LEO](https://open.spotify.com/artist/7xSziEKgpFtmY9a2S18nxL) | [OVERTIME](https://open.spotify.com/album/1V6zV5qRHRpcaWMuno22aK) | 2:53 |

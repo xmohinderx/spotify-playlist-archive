@@ -1,12 +1,12 @@
 {
   "description": "A palavra do Senhor pra voc\u00ea dan\u00e7ar. Foto: DJ Roger Vale, Brunno Ramos",
-  "num_followers": 87158,
+  "num_followers": 87198,
   "original_name": "Balada Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjEyOTU4MywwMDAwMDAwMGMwNjQ0MmZhYWE4OWEzZjBiY2I0YmRlMTJiZGUyYWM5",
+  "snapshot_id": "MTY2MjEyOTU4MywwMDAwMDAwMDVmNmJlOTIzZGY4MTI3YWZkMjRlYjY4ZDRlZGVjMzJj",
   "tracks": [
     {
       "added_at": "2022-09-02 14:39:43",
@@ -91,6 +91,22 @@
     {
       "added_at": "2022-09-02 14:39:43",
       "album": {
+        "name": "Eu Vou Correr",
+        "url": "https://open.spotify.com/album/5SG58E8VnndS1SkrpGn3X8"
+      },
+      "artists": [
+        {
+          "name": "Heloisa Rosa",
+          "url": "https://open.spotify.com/artist/0pbjSAsHhPTgf9YQymeZdM"
+        }
+      ],
+      "duration_ms": 239013,
+      "name": "Eu Vou Correr",
+      "url": "https://open.spotify.com/track/3iCAoeQUcbK7bXmwbFV1N9"
+    },
+    {
+      "added_at": "2022-09-02 14:39:43",
+      "album": {
         "name": "Algo Novo (Kennto Remix) (feat. Lukas Agustinho)",
         "url": "https://open.spotify.com/album/60MRcOTfoSmqLMqnvTAdUw"
       },
@@ -111,22 +127,6 @@
       "duration_ms": 188040,
       "name": "Algo Novo (Kennto Remix) (feat. Lukas Agustinho)",
       "url": "https://open.spotify.com/track/7x4uXkwjA86WgaQXPxRObd"
-    },
-    {
-      "added_at": "2022-09-02 14:39:43",
-      "album": {
-        "name": "Eu Vou Correr",
-        "url": "https://open.spotify.com/album/5SG58E8VnndS1SkrpGn3X8"
-      },
-      "artists": [
-        {
-          "name": "Heloisa Rosa",
-          "url": "https://open.spotify.com/artist/0pbjSAsHhPTgf9YQymeZdM"
-        }
-      ],
-      "duration_ms": 239013,
-      "name": "Eu Vou Correr",
-      "url": "https://open.spotify.com/track/3iCAoeQUcbK7bXmwbFV1N9"
     },
     {
       "added_at": "2022-09-02 14:39:43",
@@ -387,50 +387,6 @@
     {
       "added_at": "2022-09-02 14:39:43",
       "album": {
-        "name": "\u00c9 Assim que Eu Quero Te Adorar (Remix)",
-        "url": "https://open.spotify.com/album/7DId93LkqgXRhIYTE5j1KG"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        },
-        {
-          "name": "DJ Roger Vale",
-          "url": "https://open.spotify.com/artist/07YSzRpBPsuBZ1ZR9RrVqo"
-        }
-      ],
-      "duration_ms": 258750,
-      "name": "\u00c9 Assim que Eu Quero Te Adorar (Remix)",
-      "url": "https://open.spotify.com/track/5rG2lehtfdwUjkAyEi6K9Z"
-    },
-    {
-      "added_at": "2022-09-02 14:39:43",
-      "album": {
-        "name": "Me Faz Viver",
-        "url": "https://open.spotify.com/album/2BKs37OkjYgVvrzDnhxXqN"
-      },
-      "artists": [
-        {
-          "name": "DJ PV",
-          "url": "https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j"
-        },
-        {
-          "name": "Marcelo Markes",
-          "url": "https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2"
-        },
-        {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        }
-      ],
-      "duration_ms": 191552,
-      "name": "Eu Tenho Voc\u00ea (Remix)",
-      "url": "https://open.spotify.com/track/6scM0ZJ4QxPaAXkl7OCxcl"
-    },
-    {
-      "added_at": "2022-09-02 14:39:43",
-      "album": {
         "name": "Eu Confio Em Ti (Remix)",
         "url": "https://open.spotify.com/album/21VyZUFN7Epq1Xo1j8FChN"
       },
@@ -451,6 +407,46 @@
       "duration_ms": 235468,
       "name": "Eu Confio Em Ti - Remix",
       "url": "https://open.spotify.com/track/6hEX6wvD3uMUHxAOifSKn1"
+    },
+    {
+      "added_at": "2022-09-02 14:39:43",
+      "album": {
+        "name": "Me Faz Viver",
+        "url": "https://open.spotify.com/album/3Q5FROylds8ChyXH0zTasS"
+      },
+      "artists": [
+        {
+          "name": "DJ PV",
+          "url": "https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j"
+        },
+        {
+          "name": "Marcelo Markes",
+          "url": "https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2"
+        }
+      ],
+      "duration_ms": 151945,
+      "name": "Me Faz Viver",
+      "url": "https://open.spotify.com/track/4qq6jj8rureuqHHdy54CDY"
+    },
+    {
+      "added_at": "2022-09-02 14:39:43",
+      "album": {
+        "name": "\u00c9 Assim que Eu Quero Te Adorar (Remix)",
+        "url": "https://open.spotify.com/album/7DId93LkqgXRhIYTE5j1KG"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "DJ Roger Vale",
+          "url": "https://open.spotify.com/artist/07YSzRpBPsuBZ1ZR9RrVqo"
+        }
+      ],
+      "duration_ms": 258750,
+      "name": "\u00c9 Assim que Eu Quero Te Adorar (Remix)",
+      "url": "https://open.spotify.com/track/5rG2lehtfdwUjkAyEi6K9Z"
     },
     {
       "added_at": "2022-09-02 14:39:43",
@@ -544,7 +540,7 @@
       "added_at": "2022-09-02 14:39:43",
       "album": {
         "name": "Me Faz Viver",
-        "url": "https://open.spotify.com/album/3Q5FROylds8ChyXH0zTasS"
+        "url": "https://open.spotify.com/album/2BKs37OkjYgVvrzDnhxXqN"
       },
       "artists": [
         {
@@ -554,11 +550,15 @@
         {
           "name": "Marcelo Markes",
           "url": "https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2"
+        },
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
         }
       ],
-      "duration_ms": 151945,
-      "name": "Me Faz Viver",
-      "url": "https://open.spotify.com/track/4qq6jj8rureuqHHdy54CDY"
+      "duration_ms": 191552,
+      "name": "Eu Tenho Voc\u00ea (Remix)",
+      "url": "https://open.spotify.com/track/6scM0ZJ4QxPaAXkl7OCxcl"
     },
     {
       "added_at": "2022-09-02 14:39:43",

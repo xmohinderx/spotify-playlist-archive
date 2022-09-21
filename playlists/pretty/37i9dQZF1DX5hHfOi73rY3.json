@@ -1,12 +1,12 @@
 {
   "description": "Classic party anthems from the club to your ears!",
-  "num_followers": 232954,
+  "num_followers": 233022,
   "original_name": "Warehouse Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MzI3ODQzNSwwMDAwMDAwMGI2YmEzM2E5MDdjY2UyMzdmYzZiODg3MDI1NDFlOGRk",
+  "snapshot_id": "MTY0MzI3ODQzNSwwMDAwMDAwMGI0YWIyYzA4NGU4NmQ2OWUyN2Q0NzY5MDViZmFmZmMw",
   "tracks": [
     {
       "added_at": "2020-11-06 16:59:04",
@@ -311,26 +311,6 @@
     {
       "added_at": "2020-11-06 16:59:04",
       "album": {
-        "name": "Rhymes",
-        "url": "https://open.spotify.com/album/4hqlx8mdrCorDXsdzQfmX1"
-      },
-      "artists": [
-        {
-          "name": "Hannah Wants",
-          "url": "https://open.spotify.com/artist/7sK4hnuUOXw6VStDw0q8NI"
-        },
-        {
-          "name": "Chris Lorenzo",
-          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
-        }
-      ],
-      "duration_ms": 200005,
-      "name": "Rhymes",
-      "url": "https://open.spotify.com/track/5QTlj4L7ODIKNnTkhDE16p"
-    },
-    {
-      "added_at": "2020-11-06 16:59:04",
-      "album": {
         "name": "Cola",
         "url": "https://open.spotify.com/album/06M4lDqeBSMxVTFsNE8Sxi"
       },
@@ -347,6 +327,26 @@
       "duration_ms": 223869,
       "name": "Cola",
       "url": "https://open.spotify.com/track/7ir1tVqAtNjctvteJPw5MF"
+    },
+    {
+      "added_at": "2020-11-06 16:59:04",
+      "album": {
+        "name": "Rhymes",
+        "url": "https://open.spotify.com/album/4hqlx8mdrCorDXsdzQfmX1"
+      },
+      "artists": [
+        {
+          "name": "Hannah Wants",
+          "url": "https://open.spotify.com/artist/7sK4hnuUOXw6VStDw0q8NI"
+        },
+        {
+          "name": "Chris Lorenzo",
+          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+        }
+      ],
+      "duration_ms": 200005,
+      "name": "Rhymes",
+      "url": "https://open.spotify.com/track/5QTlj4L7ODIKNnTkhDE16p"
     },
     {
       "added_at": "2020-11-06 16:59:04",

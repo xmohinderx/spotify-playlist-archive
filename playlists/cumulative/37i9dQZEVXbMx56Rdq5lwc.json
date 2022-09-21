@@ -2592,6 +2592,24 @@
     },
     {
       "album": {
+        "name": "RENAISSANCE",
+        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225388,
+      "name": "CUFF IT",
+      "url": "https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS"
+    },
+    {
+      "album": {
         "name": "The Papercut Chronicles",
         "url": "https://open.spotify.com/album/4Ug3M4a8wAEebndVIF65fX"
       },
@@ -6085,7 +6103,7 @@
       ],
       "date_added": "2022-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-20",
+      "date_removed": null,
       "duration_ms": 141944,
       "name": "I ZINUTE ATSAKYK",
       "url": "https://open.spotify.com/track/74WPxHLm2S2VDiMKkYWYwK"
@@ -6223,7 +6241,7 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 169729,
       "name": "Iki Au\u0161ros",
       "url": "https://open.spotify.com/track/4iClTrpYr3WSwOJCITKXGN"
@@ -10503,7 +10521,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 174711,
       "name": "Palauksiu kol u\u017emigsi",
       "url": "https://open.spotify.com/track/7ysbI6x6HxDHC8qFeMMv8O"

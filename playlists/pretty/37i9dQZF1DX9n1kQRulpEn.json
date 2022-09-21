@@ -1,12 +1,12 @@
 {
   "description": "A swinging Jazz soundtrack for your drive time.",
-  "num_followers": 28998,
+  "num_followers": 29039,
   "original_name": "Jazz in the Car",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMxNTMwOSwwMDAwMDAwMDNjYTAxZTQyYzllMzE2YWIxN2ViMmM1ZGY1MzYwYjQw",
+  "snapshot_id": "MTY2MzMxNTMwOSwwMDAwMDAwMGNiNDY1YTlmYzMwOTFhYTViZmMyYTc4Mzk5Y2Y2ODll",
   "tracks": [
     {
       "added_at": "2022-09-16 08:01:49",
@@ -383,6 +383,22 @@
     {
       "added_at": "2022-09-16 08:01:49",
       "album": {
+        "name": "Blue Train",
+        "url": "https://open.spotify.com/album/2Z11cXWEa2qqYQBGkJrCga"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 434624,
+      "name": "Locomotion",
+      "url": "https://open.spotify.com/track/4R8sx3JYPAEyOAwpOxnALk"
+    },
+    {
+      "added_at": "2022-09-16 08:01:49",
+      "album": {
         "name": "Auditorium",
         "url": "https://open.spotify.com/album/3gUTxP8aVrkNBG6lB2GTAf"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 220520,
       "name": "Red Pepper Blues",
       "url": "https://open.spotify.com/track/2w3DhdtQDnAzeNNH39kfpJ"
-    },
-    {
-      "added_at": "2022-09-16 08:01:49",
-      "album": {
-        "name": "Blue Train",
-        "url": "https://open.spotify.com/album/2Z11cXWEa2qqYQBGkJrCga"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 434624,
-      "name": "Locomotion",
-      "url": "https://open.spotify.com/track/4R8sx3JYPAEyOAwpOxnALk"
     },
     {
       "added_at": "2022-09-16 08:01:49",
@@ -615,22 +615,6 @@
     {
       "added_at": "2022-09-16 08:01:49",
       "album": {
-        "name": "Goin' Up",
-        "url": "https://open.spotify.com/album/0NU6BhJliKCq8jTPvFsTdP"
-      },
-      "artists": [
-        {
-          "name": "Freddie Hubbard",
-          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
-        }
-      ],
-      "duration_ms": 419600,
-      "name": "Blues For Brenda - 1997 Remastered",
-      "url": "https://open.spotify.com/track/1z0PVtIa2c2ydASf2CqEYd"
-    },
-    {
-      "added_at": "2022-09-16 08:01:49",
-      "album": {
         "name": "The Rumproller",
         "url": "https://open.spotify.com/album/3dMhT1ZhEeYk9NwzPAzi3u"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 439773,
       "name": "Edda",
       "url": "https://open.spotify.com/track/0UgG6ZQ46DjB6V55pWZLfw"
+    },
+    {
+      "added_at": "2022-09-16 08:01:49",
+      "album": {
+        "name": "Goin' Up",
+        "url": "https://open.spotify.com/album/0NU6BhJliKCq8jTPvFsTdP"
+      },
+      "artists": [
+        {
+          "name": "Freddie Hubbard",
+          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
+        }
+      ],
+      "duration_ms": 419600,
+      "name": "Blues For Brenda - 1997 Remastered",
+      "url": "https://open.spotify.com/track/1z0PVtIa2c2ydASf2CqEYd"
     },
     {
       "added_at": "2022-09-16 08:01:49",
@@ -875,22 +875,6 @@
     {
       "added_at": "2022-09-16 08:01:49",
       "album": {
-        "name": "Ode",
-        "url": "https://open.spotify.com/album/2HJHKIUdO0f4QlKwznVC3e"
-      },
-      "artists": [
-        {
-          "name": "Brad Mehldau Trio",
-          "url": "https://open.spotify.com/artist/5sQJzc7ZGwC4olbhp2kqqX"
-        }
-      ],
-      "duration_ms": 402013,
-      "name": "Bee Blues",
-      "url": "https://open.spotify.com/track/6keKDGemOj5o7VJHNVaeYl"
-    },
-    {
-      "added_at": "2022-09-16 08:01:49",
-      "album": {
         "name": "Breaking the Surface",
         "url": "https://open.spotify.com/album/5b7megIrLG5w7uWObB5b4A"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 333840,
       "name": "Don't Worry",
       "url": "https://open.spotify.com/track/7LG17u9XOE6pNtZVO4keYT"
+    },
+    {
+      "added_at": "2022-09-16 08:01:49",
+      "album": {
+        "name": "Ode",
+        "url": "https://open.spotify.com/album/2HJHKIUdO0f4QlKwznVC3e"
+      },
+      "artists": [
+        {
+          "name": "Brad Mehldau Trio",
+          "url": "https://open.spotify.com/artist/5sQJzc7ZGwC4olbhp2kqqX"
+        }
+      ],
+      "duration_ms": 402013,
+      "name": "Bee Blues",
+      "url": "https://open.spotify.com/track/6keKDGemOj5o7VJHNVaeYl"
     },
     {
       "added_at": "2022-09-16 08:01:49",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2022-09-16 08:01:49",
       "album": {
-        "name": "Setembro",
-        "url": "https://open.spotify.com/album/5ksQoz2k7IcACaWEL5Key6"
-      },
-      "artists": [
-        {
-          "name": "CMC 3",
-          "url": "https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC"
-        }
-      ],
-      "duration_ms": 318000,
-      "name": "Star Eyes",
-      "url": "https://open.spotify.com/track/38Xd4vx1AahDvVMADTZIIq"
-    },
-    {
-      "added_at": "2022-09-16 08:01:49",
-      "album": {
         "name": "African Waltz",
         "url": "https://open.spotify.com/album/5sl60zyjldirYBI1kKxN9f"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 180266,
       "name": "This Here",
       "url": "https://open.spotify.com/track/73ywxvRTfXvgj2WP33Ud3Y"
+    },
+    {
+      "added_at": "2022-09-16 08:01:49",
+      "album": {
+        "name": "Setembro",
+        "url": "https://open.spotify.com/album/5ksQoz2k7IcACaWEL5Key6"
+      },
+      "artists": [
+        {
+          "name": "CMC 3",
+          "url": "https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC"
+        }
+      ],
+      "duration_ms": 318000,
+      "name": "Star Eyes",
+      "url": "https://open.spotify.com/track/38Xd4vx1AahDvVMADTZIIq"
     },
     {
       "added_at": "2022-09-16 08:01:49",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2022-09-16 08:01:49",
       "album": {
-        "name": "Sonic Boom",
-        "url": "https://open.spotify.com/album/4DMAjEeHrtO1OPmMy9FeND"
-      },
-      "artists": [
-        {
-          "name": "Lee Morgan",
-          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
-        }
-      ],
-      "duration_ms": 327666,
-      "name": "Fathead",
-      "url": "https://open.spotify.com/track/2AnNJBfiZpO9i0lMHXapvD"
-    },
-    {
-      "added_at": "2022-09-16 08:01:49",
-      "album": {
         "name": "Rollin' With Leo (Remastered)",
         "url": "https://open.spotify.com/album/4iuVTKizRNoo1GqETTVHRH"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 270960,
       "name": "Jumpin' Leo - Remastered",
       "url": "https://open.spotify.com/track/5462btNze0TxTyqiwCfHpg"
+    },
+    {
+      "added_at": "2022-09-16 08:01:49",
+      "album": {
+        "name": "Sonic Boom",
+        "url": "https://open.spotify.com/album/4DMAjEeHrtO1OPmMy9FeND"
+      },
+      "artists": [
+        {
+          "name": "Lee Morgan",
+          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
+        }
+      ],
+      "duration_ms": 327666,
+      "name": "Fathead",
+      "url": "https://open.spotify.com/track/2AnNJBfiZpO9i0lMHXapvD"
     },
     {
       "added_at": "2022-09-16 08:01:49",
@@ -1443,6 +1443,34 @@
       "duration_ms": 368536,
       "name": "Chicken N\u2019 Dumplins",
       "url": "https://open.spotify.com/track/5odlxlC6AnXJf2SkxfKult"
+    },
+    {
+      "added_at": "2022-09-16 08:01:49",
+      "album": {
+        "name": "Thomas Sejthen Trio",
+        "url": "https://open.spotify.com/album/0ZDcQtOlZos9D0UCpNyrKa"
+      },
+      "artists": [
+        {
+          "name": "Thomas Sejthen Trio",
+          "url": "https://open.spotify.com/artist/66wuq7K0KsFPamcuZJI3LM"
+        },
+        {
+          "name": "Jesper Bo Knudsen",
+          "url": "https://open.spotify.com/artist/767zb5lIt0ZuBdDbiBbSUO"
+        },
+        {
+          "name": "Mads Ole Erhardsen",
+          "url": "https://open.spotify.com/artist/6q6FdyAk4gR1slw690LP4o"
+        },
+        {
+          "name": "Thomas Sejthen",
+          "url": "https://open.spotify.com/artist/785HPw9fdKz7GmwfItsc2K"
+        }
+      ],
+      "duration_ms": 226396,
+      "name": "Monkish",
+      "url": "https://open.spotify.com/track/3Paicyrpt1V4SXa7hDWIzY"
     },
     {
       "added_at": "2022-09-16 08:01:49",
@@ -1519,34 +1547,6 @@
     {
       "added_at": "2022-09-16 08:01:49",
       "album": {
-        "name": "Thomas Sejthen Trio",
-        "url": "https://open.spotify.com/album/0ZDcQtOlZos9D0UCpNyrKa"
-      },
-      "artists": [
-        {
-          "name": "Thomas Sejthen Trio",
-          "url": "https://open.spotify.com/artist/66wuq7K0KsFPamcuZJI3LM"
-        },
-        {
-          "name": "Jesper Bo Knudsen",
-          "url": "https://open.spotify.com/artist/767zb5lIt0ZuBdDbiBbSUO"
-        },
-        {
-          "name": "Mads Ole Erhardsen",
-          "url": "https://open.spotify.com/artist/6q6FdyAk4gR1slw690LP4o"
-        },
-        {
-          "name": "Thomas Sejthen",
-          "url": "https://open.spotify.com/artist/785HPw9fdKz7GmwfItsc2K"
-        }
-      ],
-      "duration_ms": 226396,
-      "name": "Monkish",
-      "url": "https://open.spotify.com/track/3Paicyrpt1V4SXa7hDWIzY"
-    },
-    {
-      "added_at": "2022-09-16 08:01:49",
-      "album": {
         "name": "Volume Two",
         "url": "https://open.spotify.com/album/7JJjXLVOKnpL94UVRIKksn"
       },
@@ -1559,6 +1559,22 @@
       "duration_ms": 345400,
       "name": "Why Don't I - Rudy Van Gelder Edition/1999 Remaster/24 Bit Mastering",
       "url": "https://open.spotify.com/track/2IYmbJbzZjdKrs4xtVd2Mr"
+    },
+    {
+      "added_at": "2022-09-16 08:01:49",
+      "album": {
+        "name": "Just Coolin'",
+        "url": "https://open.spotify.com/album/7a5hU0lslyNVtVNADYWtBx"
+      },
+      "artists": [
+        {
+          "name": "Cory Weeds",
+          "url": "https://open.spotify.com/artist/0YB9WHBn7xTEQsvcFZRUdy"
+        }
+      ],
+      "duration_ms": 341473,
+      "name": "Vendetta",
+      "url": "https://open.spotify.com/track/1AE4szTVs0VUFXzaFY34Py"
     },
     {
       "added_at": "2022-09-16 08:01:49",
@@ -1587,22 +1603,6 @@
       "duration_ms": 759960,
       "name": "Bolivia",
       "url": "https://open.spotify.com/track/3znm5SwKU1R0Pin9qkaweZ"
-    },
-    {
-      "added_at": "2022-09-16 08:01:49",
-      "album": {
-        "name": "Just Coolin'",
-        "url": "https://open.spotify.com/album/7a5hU0lslyNVtVNADYWtBx"
-      },
-      "artists": [
-        {
-          "name": "Cory Weeds",
-          "url": "https://open.spotify.com/artist/0YB9WHBn7xTEQsvcFZRUdy"
-        }
-      ],
-      "duration_ms": 341473,
-      "name": "Vendetta",
-      "url": "https://open.spotify.com/track/1AE4szTVs0VUFXzaFY34Py"
     },
     {
       "added_at": "2022-09-16 08:01:49",
@@ -1791,22 +1791,6 @@
     {
       "added_at": "2022-09-16 08:01:49",
       "album": {
-        "name": "A Swingin' Affair",
-        "url": "https://open.spotify.com/album/2MDFi0jt8SnjYIFwgtU2Q3"
-      },
-      "artists": [
-        {
-          "name": "Dexter Gordon",
-          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
-        }
-      ],
-      "duration_ms": 343653,
-      "name": "McSplivens - Remastered",
-      "url": "https://open.spotify.com/track/0BmK8bVHfOTZVg9QZPfjUS"
-    },
-    {
-      "added_at": "2022-09-16 08:01:49",
-      "album": {
         "name": "Flyger",
         "url": "https://open.spotify.com/album/2cu6eKTA5JvJiE9wOroGhn"
       },
@@ -1823,6 +1807,22 @@
     {
       "added_at": "2022-09-16 08:01:49",
       "album": {
+        "name": "A Swingin' Affair",
+        "url": "https://open.spotify.com/album/2MDFi0jt8SnjYIFwgtU2Q3"
+      },
+      "artists": [
+        {
+          "name": "Dexter Gordon",
+          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+        }
+      ],
+      "duration_ms": 343653,
+      "name": "McSplivens - Remastered",
+      "url": "https://open.spotify.com/track/0BmK8bVHfOTZVg9QZPfjUS"
+    },
+    {
+      "added_at": "2022-09-16 08:01:49",
+      "album": {
         "name": "Why Am I Treated So Bad!",
         "url": "https://open.spotify.com/album/4CPAyHrIV0POXPCdWICY7o"
       },
@@ -1835,26 +1835,6 @@
       "duration_ms": 315893,
       "name": "One For Newk - 2006 Digital Remaster",
       "url": "https://open.spotify.com/track/3f3wxyntMNxbDB6ij3tJLz"
-    },
-    {
-      "added_at": "2022-09-16 08:01:49",
-      "album": {
-        "name": "Jubilation! Celebrating Cannonball Adderley",
-        "url": "https://open.spotify.com/album/7kEkIBO5Yd62koWjRR3j01"
-      },
-      "artists": [
-        {
-          "name": "Jim Snidero",
-          "url": "https://open.spotify.com/artist/210tC5HRo1NpbeqCvWlJuv"
-        },
-        {
-          "name": "Jeremy Pelt",
-          "url": "https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX"
-        }
-      ],
-      "duration_ms": 422403,
-      "name": "Del Sasser",
-      "url": "https://open.spotify.com/track/3IWp07UL6dh4kEQlG0xZPL"
     },
     {
       "added_at": "2022-09-16 08:01:49",
@@ -1887,6 +1867,26 @@
       "duration_ms": 224013,
       "name": "Black Light",
       "url": "https://open.spotify.com/track/5xLAMUIOxxIOJPp3CnduIi"
+    },
+    {
+      "added_at": "2022-09-16 08:01:49",
+      "album": {
+        "name": "Jubilation! Celebrating Cannonball Adderley",
+        "url": "https://open.spotify.com/album/7kEkIBO5Yd62koWjRR3j01"
+      },
+      "artists": [
+        {
+          "name": "Jim Snidero",
+          "url": "https://open.spotify.com/artist/210tC5HRo1NpbeqCvWlJuv"
+        },
+        {
+          "name": "Jeremy Pelt",
+          "url": "https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX"
+        }
+      ],
+      "duration_ms": 422403,
+      "name": "Del Sasser",
+      "url": "https://open.spotify.com/track/3IWp07UL6dh4kEQlG0xZPL"
     },
     {
       "added_at": "2022-09-16 08:01:49",

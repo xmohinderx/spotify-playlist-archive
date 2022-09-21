@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX94QVAxB7Dum.md) - [plain]
 
 > Music in the award\-winning doc: The Black Power Mixtape 1967–1975.
 
-[Spotify](https://open.spotify.com/user/spotify) - 637,816 likes - 69 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 637,947 likes - 69 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX94QVAxB7Dum.md) - [plain]
 | 11 | [What's Going On](https://open.spotify.com/track/3Um9toULmYFGCpvaIPFw7l) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [What's Going On](https://open.spotify.com/album/2v6ANhWhZBUKkg6pJJBs3B) | 3:53 |
 | 12 | [Drift Away \- Single Version](https://open.spotify.com/track/6hJhVBOnkchxBsDHbLOBJP) | [Dobie Gray](https://open.spotify.com/artist/3mC1KCuZZSOlN8Z0M56VsV) | [Ultimate Collection: Dobie Gray](https://open.spotify.com/album/4EuAVxsazdEFr5ylShtllS) | 3:57 |
 | 13 | [Everyday People](https://open.spotify.com/track/4ZVZBc5xvMyV3WzWktn8i7) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Stand](https://open.spotify.com/album/7iwS1r6JHYJe9xpPjzmWqD) | 2:21 |
-| 14 | [Knock on Wood](https://open.spotify.com/track/3YJx77Xx8JSwEoxqrkQO5c) | [Eddie Floyd](https://open.spotify.com/artist/6Bfy6QzadCXS92y0T8dDZF) | [Knock On Wood](https://open.spotify.com/album/07ojYfe9B08p7nmOL2kgNF) | 3:09 |
-| 15 | [War](https://open.spotify.com/track/4ZEEcEMGjkWOfZNBcIB9yE) | [Edwin Starr](https://open.spotify.com/artist/1B8AXU6gIIafpyLEpbcv1u) | [War And Peace](https://open.spotify.com/album/26pzgagMwY4opUvVUdSuum) | 3:20 |
+| 14 | [War](https://open.spotify.com/track/4ZEEcEMGjkWOfZNBcIB9yE) | [Edwin Starr](https://open.spotify.com/artist/1B8AXU6gIIafpyLEpbcv1u) | [War And Peace](https://open.spotify.com/album/26pzgagMwY4opUvVUdSuum) | 3:20 |
+| 15 | [Knock on Wood](https://open.spotify.com/track/3YJx77Xx8JSwEoxqrkQO5c) | [Eddie Floyd](https://open.spotify.com/artist/6Bfy6QzadCXS92y0T8dDZF) | [Knock On Wood](https://open.spotify.com/album/07ojYfe9B08p7nmOL2kgNF) | 3:09 |
 | 16 | [Son of a Preacher Man](https://open.spotify.com/track/7odHgoLFi3GQ90E9PeraI3) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Dusty In Memphis \[Deluxe Edition\]](https://open.spotify.com/album/6SNMenG3NjZyqgI5p4Hcmg) | 2:29 |
 | 17 | [The Tracks Of My Tears](https://open.spotify.com/track/6QyQmdvQ1ywNccYa0pwLNQ) | [Smokey Robinson & The Miracles](https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt) | [Going To A Go\-Go](https://open.spotify.com/album/2NT1Pc0MXlXORHLBkHyKQW) | 2:54 |
 | 18 | [Can't Get Enough Of Your Love, Babe](https://open.spotify.com/track/7LaCgCP7FCol0RYwMDQKwK) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Barry White \- The Collection](https://open.spotify.com/album/6l1USwfJOcRGgJ8LpiRr8m) | 4:02 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX94QVAxB7Dum.md) - [plain]
 | 68 | [On Broadway \- Re\-Recording](https://open.spotify.com/track/7xs0AmGs6R9fCOAipbAExp) | [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT) | [Golden Legends: The Drifters](https://open.spotify.com/album/7ib2aOqt1KIm1C0jApKMDl) | 2:46 |
 | 69 | [Hurt So Bad \- Re\-Recording](https://open.spotify.com/track/3qY8Ni73Tx4mJXASDmBWJN) | [Little Anthony & The Imperials](https://open.spotify.com/artist/3PF1KBeHYb14yKgsiE693V) | [100 Hits Of The Swingin' 60's](https://open.spotify.com/album/36QisDW5zB4phHrXOzE60V) | 2:17 |
 
-Snapshot ID: `MTYyOTk2NTQwMywwMDAwMDAwMDZhM2ViNjljMWIxMzM5OWJmYTIwODcxNDkyODE0NzNj`
+Snapshot ID: `MTYyOTk2NTQwMywwMDAwMDAwMDMxMzc1OTU1ODM4YmJlZmMwZTE2MjRlNTc1MzRhZDUz`

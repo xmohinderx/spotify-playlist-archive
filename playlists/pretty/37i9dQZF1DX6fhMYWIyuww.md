@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fhMYWIyuww.md) - [plain]
 
 > Classic soft rock\. For that free and easy feeling.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,942 likes - 80 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,082 likes - 80 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fhMYWIyuww.md) - [plain]
 | 31 | [O\-o\-h Child](https://open.spotify.com/track/1rwGdnrtWnPYBipRrjnzEm) | [The Five Stairsteps](https://open.spotify.com/artist/3Inrg8cs8oc4q8oPES4a6S) | [Stairsteps \(Expanded Edition\)](https://open.spotify.com/album/7H8uLkHFuEqAWpLKBwbGvg) | 3:17 |
 | 32 | [Love the One You're With](https://open.spotify.com/track/0NnyYBnyStcNKDu7PejLPF) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [Givin' It Back](https://open.spotify.com/album/0xd0GqZYWh9wEA3TuqMy5h) | 3:43 |
 | 33 | [Changes In Latitudes, Changes In Attitudes](https://open.spotify.com/track/5nIqitaV7WyyuM3KVUju1G) | [Jimmy Buffett](https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0) | [Changes In Latitudes, Changes In Attitudes](https://open.spotify.com/album/3JWlQzyse21gwhqu2D6UQD) | 3:17 |
-| 34 | [Help Is On Its Way \- 2010 Digital Remaster](https://open.spotify.com/track/64RnIqEMPUPx3MTzPwcfKO) | [Little River Band](https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg) | [Diamantina Cocktail \(2010 Remaster\)](https://open.spotify.com/album/6CIFONNOVR9frrraKZpiPi) | 4:07 |
-| 35 | [Steal Away \- Remastered](https://open.spotify.com/track/7v5rsCN3LhX9XaIlWyTdx3) | [Robbie Dupree](https://open.spotify.com/artist/3jrgftS3TYbNxcPt5itKhz) | [Robbie Dupree](https://open.spotify.com/album/1sY2wLftl601YlV9YUQFgW) | 3:33 |
+| 34 | [Steal Away \- Remastered](https://open.spotify.com/track/7v5rsCN3LhX9XaIlWyTdx3) | [Robbie Dupree](https://open.spotify.com/artist/3jrgftS3TYbNxcPt5itKhz) | [Robbie Dupree](https://open.spotify.com/album/1sY2wLftl601YlV9YUQFgW) | 3:33 |
+| 35 | [Help Is On Its Way \- 2010 Digital Remaster](https://open.spotify.com/track/64RnIqEMPUPx3MTzPwcfKO) | [Little River Band](https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg) | [Diamantina Cocktail \(2010 Remaster\)](https://open.spotify.com/album/6CIFONNOVR9frrraKZpiPi) | 4:07 |
 | 36 | [Save It For A Rainy Day](https://open.spotify.com/track/5AHjRKFCVUaRClF2Oxx8Ld) | [Stephen Bishop](https://open.spotify.com/artist/3JhRHqCi8HEzkJVWt19LtN) | [Careless](https://open.spotify.com/album/08zWo4xb7GZ5e3dyUOUAmm) | 3:12 |
 | 37 | [Love Will Find A Way](https://open.spotify.com/track/2LqzuRukwnpeWYLXBtiwmq) | [Pablo Cruise](https://open.spotify.com/artist/3Y5abCLsMxsOLaZ8rYusSR) | [Worlds Away](https://open.spotify.com/album/4aYsq7sHYon9fInMOboyfK) | 4:11 |
 | 38 | [Lotta Love](https://open.spotify.com/track/2bS2tETCzUmjALnXEvhOGo) | [Nicolette Larson](https://open.spotify.com/artist/0NCXrh1XOnHNp4mM0JUFJw) | [Nicolette](https://open.spotify.com/album/4IYDdR6uUcazKjPPzJJzfu) | 3:11 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fhMYWIyuww.md) - [plain]
 | 79 | [Nice, Nice, Very Nice](https://open.spotify.com/track/10Vp6LUbSc5LUM3ksCZB1M) | [Ambrosia](https://open.spotify.com/artist/0J2Ej2rMQyqaUX3G6MUISw), [Alan Parsons](https://open.spotify.com/artist/6HpZkC8GUktP9utE6OPWZG) | [Ambrosia](https://open.spotify.com/album/4WLSlSsZR6RZSaZm2ZB1WI) | 5:49 |
 | 80 | [Baby I Need Your Lovin'](https://open.spotify.com/track/3JUSHG1WHesa1p7rN7Ad3g) | [Eric Carmen](https://open.spotify.com/artist/2ekjTXgjxbWwBX5lTAj4DU) | [Change Of Heart](https://open.spotify.com/album/5hhDhRDQ1sTeKpLH6CvROw) | 3:16 |
 
-Snapshot ID: `MTY1OTA2NzI2MCwwMDAwMDAwMDA3MmZkMzk1ZjcwY2U0OTQxM2E0NjU5YmQxMzk1MWIz`
+Snapshot ID: `MTY1OTA2NzI2MCwwMDAwMDAwMGRmNjcyYjgwMWE0MDQyMWM5MmY0OTlkOWEwODQyNGUx`

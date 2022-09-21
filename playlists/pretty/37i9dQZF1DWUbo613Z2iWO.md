@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 
 > Make room for these R&B/Soul artists on the rise! Photo: Alex Vaughn
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,556 likes - 86 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,594 likes - 86 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

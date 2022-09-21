@@ -2,19 +2,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SFBzpAPi7n.md) - [plain]
 
 ### [Cool K'IDs Rock](https://open.spotify.com/playlist/37i9dQZF1DX2SFBzpAPi7n)
 
-> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: J\-JUN\(김재중\)\) \(핫한 국내 록음악을 만나보세요!\)
+> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: Peppertones\(페퍼톤스\)\) \(핫한 국내 록음악을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,115 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,273 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [NOBODY LIKE YOU](https://open.spotify.com/track/5FOSwCZ66T9mSUMASC5PLh) | [J\-JUN](https://open.spotify.com/artist/2x4LoC3la2S3aUHxaP8w1T) | [BORN GENE](https://open.spotify.com/album/7EJ5ExGkZRhAtRCl9aAY4Z) | 3:00 |
-| 2 | [Password 486](https://open.spotify.com/track/1KrreL8nKfx44ibk9sd9Cu) | [BIGONE](https://open.spotify.com/artist/0bQhUyXffQjkd6horP6fKX) | [Password 486](https://open.spotify.com/album/6pZdY6TKxDTkk6Ndi3eOt1) | 3:18 |
+| 1 | [Eye of the Typhoon](https://open.spotify.com/track/0nSEAABoviV818GLEZsD6r) | [Peppertones](https://open.spotify.com/artist/0gos4GVpI0PzhyrWhsc7nj) | [thousand years](https://open.spotify.com/album/3pDA2ikEslIDXpzIWmauQY) | 4:06 |
+| 2 | [NOBODY LIKE YOU](https://open.spotify.com/track/5FOSwCZ66T9mSUMASC5PLh) | [J\-JUN](https://open.spotify.com/artist/2x4LoC3la2S3aUHxaP8w1T) | [BORN GENE](https://open.spotify.com/album/7EJ5ExGkZRhAtRCl9aAY4Z) | 3:00 |
 | 3 | [Consolation To You](https://open.spotify.com/track/7i0Z1ID0SxDW71oKO7JjK9) | [CNEMA](https://open.spotify.com/artist/1rH9ZFWkeghhAktUmri9O6) | [Consolation To You](https://open.spotify.com/album/7vI2dIKirgwRLqsxqtfANO) | 3:53 |
 | 4 | [Ant, Go Run](https://open.spotify.com/track/3tbzKxaika0fcyA61YOgH0) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Stock Struck \(Original Television Soundtrack\), Pt.2](https://open.spotify.com/album/4ZhtmPkIeJdCFMYa6Kd8IU) | 3:00 |
 | 5 | [PLAY](https://open.spotify.com/track/0ddSLVdbpKFO1FtIYpYnw9) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Childhood](https://open.spotify.com/album/6Nb2vk4KMl2TH12CXc6YAb) | 3:46 |
 | 6 | [DIAMOND](https://open.spotify.com/track/6uGQf0XAjHkXooeSk3fFAB) | [The VANE](https://open.spotify.com/artist/2zWjCnsFalXdhQ2jxb29Hw) | [DIAMOND](https://open.spotify.com/album/7KE2RqHy21ZGDYNoNCTdw5) | 5:24 |
-| 7 | [Starlight](https://open.spotify.com/track/24dSyqfPW6WNzdegehvuBw) | [Xydo](https://open.spotify.com/artist/0vcbn6MqAvgM8Gh6wh8d6X) | [Poong, the Joseon Psychiatrist OST Part.5](https://open.spotify.com/album/50DAxrpePNE16yJnYS7QT2) | 3:21 |
+| 7 | [Password 486](https://open.spotify.com/track/1KrreL8nKfx44ibk9sd9Cu) | [BIGONE](https://open.spotify.com/artist/0bQhUyXffQjkd6horP6fKX) | [Password 486](https://open.spotify.com/album/6pZdY6TKxDTkk6Ndi3eOt1) | 3:18 |
 | 8 | [Only Ones Left in this World](https://open.spotify.com/track/0fhHQODEITI549NaUWqJDx) | [Jang HeeWon](https://open.spotify.com/artist/1nISeMejedvyK4XXRacYAH) | [Only Ones Left in this World](https://open.spotify.com/album/11TsV6N3xprEZVKo4haCMX) | 3:21 |
 | 9 | [Summer](https://open.spotify.com/track/55FLC4BaLbUr7plCVL0j1e) | [Youth Hostel](https://open.spotify.com/artist/73VQvHkpR7ZCn8SOqTqtzK) | [Youth Hostel](https://open.spotify.com/album/1nbMITy1nsScR47Pd4zWJ6) | 2:58 |
 | 10 | [eight\(Prod.&Feat\. SUGA of BTS\)](https://open.spotify.com/track/0pYacDCZuRhcrwGUA5nTBe) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU), [SUGA](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) | [eight](https://open.spotify.com/album/5vJNAlQeTf9lsulO1YlmSt) | 2:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SFBzpAPi7n.md) - [plain]
 | 49 | [Guard You](https://open.spotify.com/track/3AQLNP4d68hIenp2KpwLlp) | [Young K](https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe) | [Eternal](https://open.spotify.com/album/6JuoNIefYEpSGTT0lUMIX3) | 3:17 |
 | 50 | [Tree](https://open.spotify.com/track/30tYWTkLIQtZWnRIOqcHnJ) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [Tree](https://open.spotify.com/album/5MuQTjOeSApez8vNGb94Ur) | 3:52 |
 
-Snapshot ID: `MTY2MzA2ODA1NywwMDAwMDAwMGU5NzQxYmJmNDRjNGU3MWYzNDYyMzk1Y2Y4MmZmOWU0`
+Snapshot ID: `MTY2MzY2NTUwNywwMDAwMDAwMGEyM2IyZTczOTdhOTE2ZTM5YzhlNTMwODM4YjhiNjBl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hR0J49CmXC.md) - [plain]
 
 > The Real hip\-hop\. Cover: JID
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,091,636 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,091,704 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

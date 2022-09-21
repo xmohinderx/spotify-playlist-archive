@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXP3HyjUhW1b.md) - [plain]
 
 > Aquí están las meras\-meras de nuestro cancionero\. Pedro Infante en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,123 likes - 125 songs - 7 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,287 likes - 125 songs - 7 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXP3HyjUhW1b.md) - [plain]
 | 65 | [Mi Razón De Ser](https://open.spotify.com/track/7EDEbNBsxgsTOfrOifN37a) | [Banda Sinaloense MS de Sergio Lizárraga](https://open.spotify.com/artist/6Y6rrQjzcZhaM4RXusI8UP) | [Dany, Te Dedico Esta Canción Con Todo Mi Corazón](https://open.spotify.com/album/5Zm6BtWH4CgLV83H2nWBsL) | 3:29 |
 | 66 | [Un Puño De Tierra](https://open.spotify.com/track/6a5GOVslUy8aYnXrk2yiMb) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Antonio Aguilar Con Tambora, Vol\. 2](https://open.spotify.com/album/69YwhTINpm6QzCUz6ZwZUd) | 3:08 |
 | 67 | [Ya Lo Sé](https://open.spotify.com/track/4pIiKrGXCgTZOAFGJjCEvL) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [La Gran Señora](https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa) | 3:23 |
-| 68 | [Te Solté la Rienda](https://open.spotify.com/track/3YubPkIjza38KmXTIGdk91) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [El Cantinero](https://open.spotify.com/album/7Gxn1LKL1SUSW8CVJugfES) | 2:38 |
-| 69 | [Del Signo Libra](https://open.spotify.com/track/7mWCRNQxvOCCtMfe4sYdKW) | [Grupo Libra](https://open.spotify.com/artist/7A0dBf6Uyh5G1rW7Rh84Dt) | [Puras Románticas](https://open.spotify.com/album/22G9x42HPowUEACL8QxuAD) | 3:26 |
+| 68 | [Del Signo Libra](https://open.spotify.com/track/7mWCRNQxvOCCtMfe4sYdKW) | [Grupo Libra](https://open.spotify.com/artist/7A0dBf6Uyh5G1rW7Rh84Dt) | [Puras Románticas](https://open.spotify.com/album/22G9x42HPowUEACL8QxuAD) | 3:26 |
+| 69 | [Te Solté la Rienda](https://open.spotify.com/track/3YubPkIjza38KmXTIGdk91) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [El Cantinero](https://open.spotify.com/album/7Gxn1LKL1SUSW8CVJugfES) | 2:38 |
 | 70 | [Como Quien Pierde una Estrella](https://open.spotify.com/track/7rayH7w0DFOWTZ9LZaKL3G) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Lo Esencial De Alejandro Fernández](https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi) | 3:35 |
 | 71 | [Si Nos Dejan \- En Vivo](https://open.spotify.com/track/7nAvryV9PVCt9PQGPx7I0z) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [El Concierto](https://open.spotify.com/album/6efyUFJcUK18KRFTMoxNSI) | 2:32 |
 | 72 | [Mi Talismán](https://open.spotify.com/track/6CYf0PlFE36q772z8qrZrT) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Mi Mexico](https://open.spotify.com/album/0AhHiKGTjvrxCmy3eN4dsa) | 4:48 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXP3HyjUhW1b.md) - [plain]
 | 124 | [Cuando Dos Almas](https://open.spotify.com/track/5Fp3A1Ciwa7z1FOhZx0e4a) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Cuando Dos Almas](https://open.spotify.com/album/7JXIq8P1uvpr02mjwpTuU1) | 3:06 |
 | 125 | [Entrega Total](https://open.spotify.com/track/6aeFjCaoAx6hKbdie8avjV) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Serie De Coleccion 15 Autenticos](https://open.spotify.com/album/48lUrzO92SmHoSfpqNkbbl) | 2:30 |
 
-Snapshot ID: `MTY2MzAwNzY5NywwMDAwMDAwMDkwNWY2ZmRiMjY4MGYyODRhNjAxYTQyNTY5MTlmYWEy`
+Snapshot ID: `MTY2MzAwNzY5NywwMDAwMDAwMDA0ZjY1ZmE5NzNmYjFhNGUyM2I5OGU1N2JkYWM2MzBk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUAeYvs88zc.md) - [plain]
 
 > For all of us dancing on our own.
 
-[Spotify](https://open.spotify.com/user/spotify) - 463,962 likes - 80 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 464,269 likes - 80 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUAeYvs88zc.md) - [plain]
 | 22 | [Cornelia Street](https://open.spotify.com/track/12M5uqx0ZuwkpLp5rJim1a) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 4:47 |
 | 23 | [Telepath](https://open.spotify.com/track/3Z39gbqdaGL3WJXBG0gcuE) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Telepath](https://open.spotify.com/album/6npBFQje5ZenFSLErcNflE) | 3:14 |
 | 24 | [feel like shit](https://open.spotify.com/track/2EBnvom1dTybtm75a3Xh1T) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [feel like shit](https://open.spotify.com/album/1auWLVcrhwCbtCD6k4KuZB) | 3:24 |
-| 25 | [Best Friends](https://open.spotify.com/track/1E5Xu8dur0fAjSP1VpVhAZ) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 2:43 |
-| 26 | [Be the One](https://open.spotify.com/track/1ixphys4A3NEXp6MDScfih) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Be the One](https://open.spotify.com/album/27BxsWgarjLePdql0KzOLP) | 3:22 |
+| 25 | [Be the One](https://open.spotify.com/track/1ixphys4A3NEXp6MDScfih) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Be the One](https://open.spotify.com/album/27BxsWgarjLePdql0KzOLP) | 3:22 |
+| 26 | [Best Friends](https://open.spotify.com/track/1E5Xu8dur0fAjSP1VpVhAZ) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 2:43 |
 | 27 | [watch](https://open.spotify.com/track/7eB1V5LvAdxCc7brfGhRRo) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [dont smile at me](https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU) | 2:57 |
 | 28 | [You should be sad](https://open.spotify.com/track/7lidXGPXPYLNThITAOTlkK) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Manic](https://open.spotify.com/album/68enXe5XcJdciSDAZr0Alr) | 3:25 |
 | 29 | [feel something](https://open.spotify.com/track/7JDWhC422Gtk1Bq0mL3OTC) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [feel something](https://open.spotify.com/album/6qLQLAHnS54MLHY8wxXDX5) | 3:00 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUAeYvs88zc.md) - [plain]
 | 33 | [If I Don't Laugh, I'll Cry](https://open.spotify.com/track/7a4YwlUER1m7rkWJjYJRAD) | [Frawley](https://open.spotify.com/artist/0Ey8TMIVvT6OSYiblEuyMh) | [If I Don't Laugh, I'll Cry](https://open.spotify.com/album/14pYW9pwzrE4t6Z6p8NLCb) | 3:18 |
 | 34 | [Stupid Feelings](https://open.spotify.com/track/7iUB3byx9Rcks8zW10JVkP) | [220 KID](https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs), [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Stupid Feelings](https://open.spotify.com/album/4VKGR1IZuTV7lJRh9oDJJa) | 2:46 |
 | 35 | [Looks Like Me](https://open.spotify.com/track/6o8tRLnKNSVoBHCTfiFdBA) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Looks Like Me](https://open.spotify.com/album/5ct7MONBCzaJQVIWWOOi9M) | 3:10 |
-| 36 | [Lay All Your Love On Me \- Spotify Singles](https://open.spotify.com/track/2vaxUyVWNoA2L272YHEy70) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Lay All Your Love On Me \- Spotify Singles](https://open.spotify.com/album/4aCXO1evmETJ2Cy32sZ2Zj) | 2:41 |
-| 37 | [The Promise](https://open.spotify.com/track/48p5E25cFPanxuwCTmTpuL) | [When In Rome](https://open.spotify.com/artist/3jOO5nZ2XPmc232rNjzqJy) | [When In Rome](https://open.spotify.com/album/3kt903x5U5IWJlwHyE481x) | 3:40 |
+| 36 | [The Promise](https://open.spotify.com/track/48p5E25cFPanxuwCTmTpuL) | [When In Rome](https://open.spotify.com/artist/3jOO5nZ2XPmc232rNjzqJy) | [When In Rome](https://open.spotify.com/album/3kt903x5U5IWJlwHyE481x) | 3:40 |
+| 37 | [Lay All Your Love On Me \- Spotify Singles](https://open.spotify.com/track/2vaxUyVWNoA2L272YHEy70) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Lay All Your Love On Me \- Spotify Singles](https://open.spotify.com/album/4aCXO1evmETJ2Cy32sZ2Zj) | 2:41 |
 | 38 | [So Hot You're Hurting My Feelings](https://open.spotify.com/track/5B6Kjha6RRIMWGN7zGsAaT) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Pang](https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD) | 3:03 |
 | 39 | [Just for me](https://open.spotify.com/track/6OTKVgVpVaVjhRLYizPJKA) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Just for me](https://open.spotify.com/album/00fcDjvEq4elj756TESO0c) | 1:55 |
 | 40 | [Hold Me Closer](https://open.spotify.com/track/697bFWgzBRm6bmnYWd8GyD) | [Cornelia Jakobs](https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4) | [Hold Me Closer](https://open.spotify.com/album/0rRDqExu5jTJRRZtxJc3Ao) | 3:19 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUAeYvs88zc.md) - [plain]
 | 64 | [Vicious](https://open.spotify.com/track/77Gyctcku69jSlSSYhZEkh) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Vicious](https://open.spotify.com/album/7p3M1cRTouWTpmBDhlEAKS) | 2:29 |
 | 65 | [Dancing with Tears in My Eyes](https://open.spotify.com/track/3or3oEITvJmMwZRYeWSaen) | [Ultravox](https://open.spotify.com/artist/3iUjRVvYCsMfz7tuAQtBDI) | [The Collection](https://open.spotify.com/album/3gMzGxXgstsEZEfjdsIwnM) | 4:04 |
 | 66 | [Sad Forever](https://open.spotify.com/track/1DVWkJEjgVStgU2EbR9vpz) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [\~how i'm feeling\~](https://open.spotify.com/album/6EgJXcGqaUvgZIF9bqPXfP) | 3:23 |
-| 67 | [If It Wasn't For The Nights](https://open.spotify.com/track/3R47KOuGuGvmoeQqbODPa3) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Voulez\-Vous](https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh) | 5:09 |
-| 68 | [This Town \(feat\. Sasha Alex Sloan\)](https://open.spotify.com/track/4aSfgWmRa9KsISD4Jmx7QB) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Stargazing \- EP](https://open.spotify.com/album/2sPYPyDFwgi1jrRTGhoxq2) | 3:22 |
+| 67 | [This Town \(feat\. Sasha Alex Sloan\)](https://open.spotify.com/track/4aSfgWmRa9KsISD4Jmx7QB) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Stargazing \- EP](https://open.spotify.com/album/2sPYPyDFwgi1jrRTGhoxq2) | 3:22 |
+| 68 | [If It Wasn't For The Nights](https://open.spotify.com/track/3R47KOuGuGvmoeQqbODPa3) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Voulez\-Vous](https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh) | 5:09 |
 | 69 | [Lie](https://open.spotify.com/track/04NMWz4ctkuILV6mUR2iWp) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Lie](https://open.spotify.com/album/6w0e4iHPyMH9yc30NwlV7b) | 3:29 |
 | 70 | [Who's Gonna Love You Tonight \(with Tinashe\)](https://open.spotify.com/track/0HPJa3SJksQakwtOrJT7pj) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Who's Gonna Love You Tonight \(with Tinashe\)](https://open.spotify.com/album/5qf98IBpRNpm0LjmR4T4eu) | 3:16 |
 | 71 | [tears in the club \(feat\. the weeknd\)](https://open.spotify.com/track/1GsSM1Fju5J1Fsu51jEsTg) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [CAPRISONGS](https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM) | 3:16 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUAeYvs88zc.md) - [plain]
 | 79 | [It’s You, Not Me \(Sabotage\)](https://open.spotify.com/track/2Vz1Kcs9Chj8SGb2UjPMxP) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [It’s You, Not Me \(Sabotage\)](https://open.spotify.com/album/5dApLNCSKjkys2FGOq7QAZ) | 2:56 |
 | 80 | [Where Do We Go From Here?](https://open.spotify.com/track/5DObWDHfwHE2mIdZGgRnzE) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Easy / Where Do We Go From Here?](https://open.spotify.com/album/1paYV647AAPnlKgpFJVtLa) | 3:51 |
 
-Snapshot ID: `MTY2MzQ3NjMxMCwwMDAwMDAwMDFlMmY3NDUyNzQ2YzYwMzY3ZGM1ZDYxZDI5ZmUzMTA5`
+Snapshot ID: `MTY2MzQ3NjMxMCwwMDAwMDAwMDI4MTk0YTI4NGVjMTlmZmQwNWM2ZDJiMTg3M2UwZjkx`

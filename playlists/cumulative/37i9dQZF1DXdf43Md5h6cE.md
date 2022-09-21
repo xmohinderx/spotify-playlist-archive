@@ -4,7 +4,7 @@
 
 > Fill your mind with music for dreaming, thinking and longing.
 
-83 songs - 6 hr 41 min - [published](https://open.spotify.com/playlist/3J3LPO0Z4tLv0nyKiEt64G)
+87 songs - 7 hr 4 min - [published](https://open.spotify.com/playlist/3J3LPO0Z4tLv0nyKiEt64G)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Cold Air](https://open.spotify.com/track/01FewOTOeVj75RV6BYygod) | [Color of Time](https://open.spotify.com/artist/5GhEh1BgnOafsIAUgNtF02), [From Overseas](https://open.spotify.com/artist/31PP2XORcCMGHAa8vzJEUV), [Tyresta](https://open.spotify.com/artist/0HgueusJAiyVI6iQPSFquL) | [Color of Time](https://open.spotify.com/album/7uEqAuTyaC02sBgYRQb8gI) | 2:52 | 2022-05-19 |  |
 | [Consolation](https://open.spotify.com/track/6aZui1qCJi7owqT0AANuHb) | [Atmospheric Lights](https://open.spotify.com/artist/65IYpN2ZX0vQzO3JRCpNHX) | [Consolation](https://open.spotify.com/album/2nlJZihKLK6FiycKLEMaQd) | 3:16 | 2022-08-11 |  |
 | [Convergence](https://open.spotify.com/track/6u6mjHCd8ULdqYYmkRJeeS) | [SleepTherapy](https://open.spotify.com/artist/6lmrCOEWctZj9LghJ9wxuv) | [Convergence](https://open.spotify.com/album/1095m41z6UPcurOL35ybPa) | 3:14 | 2022-08-11 |  |
+| [Crystal Grid, Pt\. 1](https://open.spotify.com/track/0tRgzV9zTGDG51NWCDI9li) | [Nu Meditation Music](https://open.spotify.com/artist/66K6bDotWhnNf557BCkfIH) | [Reiki Healing](https://open.spotify.com/album/53nBbgsW6vWkFgfEKlriyu) | 3:24 | 2022-09-20 |  |
 | [Dandelions](https://open.spotify.com/track/6IFQFMp1sazAG1ZA6bIA57) | [Amanita Phalloides](https://open.spotify.com/artist/7dipuZgipLo3oDsGhl6dQL), [Heavenchord](https://open.spotify.com/artist/0N1G1lizxkv4jmvMkg0n5X) | [Hope Never Dies](https://open.spotify.com/album/7o9JDarAd1qKHN5mTVI6P4) | 3:44 | 2022-05-19 |  |
 | [Day 1](https://open.spotify.com/track/4IqM95Bxy0Ki0xbSIrNYKN) | [Joel Shearer](https://open.spotify.com/artist/4HrrmVtL1VbUi15AvooVeR) | [Morning Loops](https://open.spotify.com/album/518ACaHelXkskhf4AtBEvA) | 11:52 | 2022-05-19 |  |
 | [Dream Silhouette](https://open.spotify.com/track/52aAiAhyUCzo8OrHSgPqHn) | [Golden Slumber](https://open.spotify.com/artist/1x02xJIKGceDvDd4yugtQj) | [Dream Silhouette](https://open.spotify.com/album/5LMPQs6RWNNMjX9m8CC6NN) | 3:08 | 2022-08-19 |  |
@@ -51,6 +52,7 @@
 | [in motion](https://open.spotify.com/track/1SJAJFXAh3qMeVcMfRXrWa) | [Ann Annie](https://open.spotify.com/artist/48BPwCMBASOwyaLkrgkBSG) | [wander into](https://open.spotify.com/album/7rn87vOFTsDSk64o8gbL21) | 3:57 | 2022-05-19 |  |
 | [Inner Space](https://open.spotify.com/track/7HkAMBIhGt1LszaMZqIfNf) | [Sleepsleeprepeat](https://open.spotify.com/artist/5y1SFoys6rcYo6dj6rmGPR), [Soular Child](https://open.spotify.com/artist/0UUiNe399XY6xl116DbUOn) | [Inner Space](https://open.spotify.com/album/5W1vYzWtA5v7qCBnWTg9rL) | 2:16 | 2022-05-19 |  |
 | [Introduction of Our Hero, Dream Gopher](https://open.spotify.com/track/6f3cHqM3gAWkSXKlr259Xs) | [Kilometre Club](https://open.spotify.com/artist/0gEyux9kfm4eISIsEtLu4w) | [Minus Time](https://open.spotify.com/album/770ePZN0ps20Gj7IJObZZv) | 3:18 | 2022-05-19 |  |
+| [Jane 8](https://open.spotify.com/track/5T7jNsX9SBTugNhbj4euh7) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Jane 1\-11](https://open.spotify.com/album/1WWcacsiLhViXL44OCdtft) | 5:18 | 2022-09-20 |  |
 | [Lost in Time](https://open.spotify.com/track/35Jg3C3PRKaoqRwGk43vzl) | [Dreaming Hiker](https://open.spotify.com/artist/7ePtJVNSHr0ccHyh0M9ASI) | [Lost in Time](https://open.spotify.com/album/6PSTy6GcNWKHwjgLmkBB3m) | 2:10 | 2022-07-08 |  |
 | [March](https://open.spotify.com/track/1bB3YmkkpZaVIVfzBcrKzB) | [Joel Shearer](https://open.spotify.com/artist/4HrrmVtL1VbUi15AvooVeR) | [Hours](https://open.spotify.com/album/7bmYYxOYRSN6TIiMZoxYjj) | 13:00 | 2022-05-19 |  |
 | [Matinaka](https://open.spotify.com/track/0fyvaevkqF24i9laNCyvgl) | [Michiru Aoyama](https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu) | [Zanzou](https://open.spotify.com/album/7y23NtZPMebkQxHL8YY144) | 3:02 | 2022-05-19 |  |
@@ -69,6 +71,7 @@
 | [Red Sheep Fom Hill](https://open.spotify.com/track/5SXXqDmDYBBThqafTiwzni) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Void XVIII](https://open.spotify.com/album/6KSHRNQJG4N4m3KHA29foi) | 9:03 | 2022-05-19 | 2022-07-29 |
 | [Red sheep from hill](https://open.spotify.com/track/77yq8ySYaIhr5jvqJz4qTV) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Void XVIII](https://open.spotify.com/album/0izMZjzGPz8KAZayecUQW7) | 9:03 | 2022-07-22 |  |
 | [Reflection \(Excerpt\)](https://open.spotify.com/track/53KkH2GHmt77WtAOxo2J36) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Reflection \(Excerpt\)](https://open.spotify.com/album/69GAIqkIkxLuh4bruF01Av) | 4:20 | 2022-05-19 |  |
+| [Relax 6 \(Awakening\)](https://open.spotify.com/track/0ml9Z7ZLrMmZqfjuzVpu8X) | [Tom Middleton](https://open.spotify.com/artist/7KygebVvltzvrQxNnukuFT) | [Sleep Better](https://open.spotify.com/album/1jsheoosVBExRYKbZmnISG) | 9:59 | 2022-09-20 |  |
 | [remembering grasshoppers](https://open.spotify.com/track/4cW3NRXreChDL9MYh2LHKL) | [Byelti](https://open.spotify.com/artist/6bdFkBtj91aLGfeMzRzXOQ), [demo sphere](https://open.spotify.com/artist/4austkFDBkQqxEUpnYnveI) | [Cirrus](https://open.spotify.com/album/6BDNBMYOVxBQVb3mgx18DT) | 5:46 | 2022-06-17 |  |
 | [Resonance Necklace](https://open.spotify.com/track/3BeKvMlTb7A3J2RV7WIjX9) | [Suso Saiz](https://open.spotify.com/artist/5gdvIKIFREcJmy3LV6yhBh) | [Resonant Bodies](https://open.spotify.com/album/4ysdhWlJQEhsCJDzkeixpz) | 5:55 | 2022-05-19 |  |
 | [retreat](https://open.spotify.com/track/72IyK6qGDgNeLlpqS5BsNS) | [Dear Gravity](https://open.spotify.com/artist/28MEj0HGdwvJYdbMAVpXU6) | [retreat](https://open.spotify.com/album/5RzMEYZDsUGeyqCw6azdAg) | 4:10 | 2022-09-06 |  |
@@ -78,6 +81,7 @@
 | [Sleet](https://open.spotify.com/track/6pfrUVPhrk2qe9BtVOeXwq) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Void XVIII](https://open.spotify.com/album/6KSHRNQJG4N4m3KHA29foi) | 8:28 | 2022-05-19 | 2022-07-29 |
 | [Stepping Into Awareness \(Instrumental\)](https://open.spotify.com/track/1tj6iPD0KyAKSQJNebSe6W) | [Superposition](https://open.spotify.com/artist/7B74HjlZ4Kiy6oKndiiRqL) | [Presence \(Instrumentals\)](https://open.spotify.com/album/3VGeGqWVDT6QUFHBQkEdpA) | 8:06 | 2022-05-19 |  |
 | [Sun Ascent](https://open.spotify.com/track/7aKvmuUzQTPR63CCqNyheE) | [Endel](https://open.spotify.com/artist/3JNr31WfX56vgwBuIcdOt4) | [Relax: Easy Morning](https://open.spotify.com/album/7oCTqkeHvRY1umJzPhVFD5) | 3:39 | 2022-07-08 |  |
+| [Sunrise on the Mississippi](https://open.spotify.com/track/5CUVMOya16zes7XHR8Kja7) | [Darshan Ambient](https://open.spotify.com/artist/711EaFigHKV5CTbjIYWswu) | [Fire Light](https://open.spotify.com/album/2fj4Z9IkqS9SK3lOeeHrY3) | 4:09 | 2022-09-20 |  |
 | [Supreme Being](https://open.spotify.com/track/2bP4N2cJVjNeytaAbFjowK) | [Lemongrass](https://open.spotify.com/artist/6T4sT6axXOoIXP4cpaQtNk) | [Beauty & Spa Chill Out \(Relaxation Wellness Lounge Music\)](https://open.spotify.com/album/1L2KHXHM4KWmNw5tubhT3M) | 5:35 | 2022-05-19 |  |
 | [Sweet Instability](https://open.spotify.com/track/2Z6TNKXEGu5D1WXJwDGFEQ) | [Suso Saiz](https://open.spotify.com/artist/5gdvIKIFREcJmy3LV6yhBh) | [Resonant Bodies](https://open.spotify.com/album/4ysdhWlJQEhsCJDzkeixpz) | 3:54 | 2022-05-19 |  |
 | [Then](https://open.spotify.com/track/5Ij5ddGh0JCn6i6yGoC6Tf) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [Then](https://open.spotify.com/album/6Yj7uh3SXxi4OCpy9qTymc) | 3:27 | 2022-09-12 |  |

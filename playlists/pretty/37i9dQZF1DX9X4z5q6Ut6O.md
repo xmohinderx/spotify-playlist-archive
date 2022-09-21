@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9X4z5q6Ut6O.md) - [plain]
 
 > Caminando de la mano..\. eres mi razón de ser.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,639 likes - 75 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,706 likes - 75 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9X4z5q6Ut6O.md) - [plain]
 | 16 | [Si Te Falta Alguien](https://open.spotify.com/track/5KcuLISuSBnMFAPVhFnHr5) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Ahora](https://open.spotify.com/album/6zgCsYTyMyvBLqcv51KLXS) | 3:07 |
 | 17 | [Hermoso Cariño](https://open.spotify.com/track/6UN6W5tj0qrMYV8N9MQMJC) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernández](https://open.spotify.com/album/4myhLYtrXhU1lq2rgz56LO) | 2:36 |
 | 18 | [No Paras de Hacerme Feliz](https://open.spotify.com/track/5bP1RCdGcUxkwASwKAbPHa) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [No Paras de Hacerme Feliz](https://open.spotify.com/album/4GnznPcGs85z1yeeWA5Gyi) | 3:05 |
-| 19 | [Sueño Guajiro](https://open.spotify.com/track/2V9pPYbtIaxI4canNxsDrJ) | [Colmillo Norteño](https://open.spotify.com/artist/5YvrXxWXf9n9enAV8HHZSN) | [Sueño Guajiro](https://open.spotify.com/album/7ep8byHyAYeAYiumLDQrhr) | 3:03 |
-| 20 | [Aliado Del Tiempo](https://open.spotify.com/track/1rEdvfLrkCB4RqxI8D6ZNR) | [Mariano Barba](https://open.spotify.com/artist/0UOSIKhi6uZP7SVEJKYRMo) | [Un Cantautor Con Alma de Triunfador](https://open.spotify.com/album/4g2vkEYYuBVP72ZHbcxnU2) | 4:32 |
+| 19 | [Aliado Del Tiempo](https://open.spotify.com/track/1rEdvfLrkCB4RqxI8D6ZNR) | [Mariano Barba](https://open.spotify.com/artist/0UOSIKhi6uZP7SVEJKYRMo) | [Un Cantautor Con Alma de Triunfador](https://open.spotify.com/album/4g2vkEYYuBVP72ZHbcxnU2) | 4:32 |
+| 20 | [Sueño Guajiro](https://open.spotify.com/track/2V9pPYbtIaxI4canNxsDrJ) | [Colmillo Norteño](https://open.spotify.com/artist/5YvrXxWXf9n9enAV8HHZSN) | [Sueño Guajiro](https://open.spotify.com/album/7ep8byHyAYeAYiumLDQrhr) | 3:03 |
 | 21 | [Eres Mi Crush](https://open.spotify.com/track/6ICVAdLNgkyd0k30kVDkFi) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Eres Mi Crush](https://open.spotify.com/album/0sK2BZyFjskAQMP7TYBKOp) | 2:41 |
 | 22 | [Te Quiero Así](https://open.spotify.com/track/7cfpUwXVmVNwi0e0lKkII3) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Vencedor](https://open.spotify.com/album/0k0b9mpJt6tJMT26aIzpoe) | 2:51 |
 | 23 | [El Mundo a Tus Pies](https://open.spotify.com/track/4MDLvDUSbL6TEtc12CxNyp) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [El Mundo a Tus Pies](https://open.spotify.com/album/1l46GFEU94JAnUZfFIcifM) | 2:56 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9X4z5q6Ut6O.md) - [plain]
 | 32 | [Mi Bello Ángel](https://open.spotify.com/track/0DKoET2reNpTGpQMS0VXI0) | [Los Primos MX](https://open.spotify.com/artist/6N4VOBE2wNnRIINe3922Oc) | [Amor Brutal](https://open.spotify.com/album/45e9grFYy0DiOG5rIpBpIe) | 2:45 |
 | 33 | [Acurrucar](https://open.spotify.com/track/0vTmuKsIgqtez9Ups70mQU) | [Los Pescadores Del Rio Conchos](https://open.spotify.com/artist/3h88VTqRj3GbUd2W41ZY5U) | [Acurrucar](https://open.spotify.com/album/4vRkAsNoxr8aH9zsJkvvUK) | 2:58 |
 | 34 | [Tuyo y Mío](https://open.spotify.com/track/4msyEItsAavVb5pZYCuz4n) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Mis Manos](https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA) | 3:20 |
-| 35 | [Mil Gracias Por Existir](https://open.spotify.com/track/1HAvMItHMFRlnrbOXZBL8X) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Mil Gracias Por Existir](https://open.spotify.com/album/6jVnCF1Qar2w4ZuAVkxKb6) | 3:45 |
-| 36 | [Broche de Oro](https://open.spotify.com/track/5bcrq8q2zR0uxxxsUI4Jjf) | [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl) | [La Banda Grande de la Sultana del Norte](https://open.spotify.com/album/4KCzCPSaveAesQCXJ9u9QZ) | 3:36 |
+| 35 | [Broche de Oro](https://open.spotify.com/track/5bcrq8q2zR0uxxxsUI4Jjf) | [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl) | [La Banda Grande de la Sultana del Norte](https://open.spotify.com/album/4KCzCPSaveAesQCXJ9u9QZ) | 3:36 |
+| 36 | [Mil Gracias Por Existir](https://open.spotify.com/track/1HAvMItHMFRlnrbOXZBL8X) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Mil Gracias Por Existir](https://open.spotify.com/album/6jVnCF1Qar2w4ZuAVkxKb6) | 3:45 |
 | 37 | [Mi Mayor Anhelo](https://open.spotify.com/track/0bBvuLFzIjrHm9PPyvohIA) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Mi Mayor Anhelo](https://open.spotify.com/album/3y4zsDJdS6o2oYprOn0XKp) | 3:29 |
 | 38 | [Te Presumo](https://open.spotify.com/track/3EjuEvxoNgHV6urIdPA4cl) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Te Presumo](https://open.spotify.com/album/6rIeG5N7Dr1KxvmCMigPcK) | 3:12 |
 | 39 | [El Amor Soñado](https://open.spotify.com/track/6Yd0OVYMrixawNof73Q3pC) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [El Amor Soñado](https://open.spotify.com/album/0CJMtndiL2Wx2xVs3Q0rDO) | 3:02 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9X4z5q6Ut6O.md) - [plain]
 | 74 | [Mi Tesoro](https://open.spotify.com/track/5m6szBmTaELvhSmq41oAaf) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Lo Más Romántico De](https://open.spotify.com/album/5eFvvGAuy0zFn4fmgL75mp) | 3:04 |
 | 75 | [Te Volvería A Elegir](https://open.spotify.com/track/7e8uUH6bOLxpXDm9lARsbI) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Las Número 1 De](https://open.spotify.com/album/6oplBB55aomIn5O6NSz3cd) | 3:00 |
 
-Snapshot ID: `MTY1MzM0MjgwNCwwMDAwMDAwMGViNmVjOTNhYzNjNDZlZmFiNzFmZDZhNjM2MzM5Y2E0`
+Snapshot ID: `MTY1MzM0MjgwNCwwMDAwMDAwMGI2NDgwMTJmZDQ3Yjk1NTcyMWQ2N2QzZTVhNGRiZDE5`

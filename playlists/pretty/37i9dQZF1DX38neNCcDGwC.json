@@ -1,12 +1,12 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 36361,
+  "num_followers": 36383,
   "original_name": "Legendary Labels: Tuff Gong",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NjMxNTM4MCwwMDAwMDAwMDc5NjNkZTNjNjgyNDZkOGI1ODU3ODc1NTYyYTEzZmYz",
+  "snapshot_id": "MTY0NjMxNTM4MCwwMDAwMDAwMDQ5NGY2ZDNiYTBkZGQ0N2FjMWNlMTk4NmYxMzU1MGEy",
   "tracks": [
     {
       "added_at": "2022-03-03 13:49:40",
@@ -411,22 +411,6 @@
     {
       "added_at": "2022-03-03 13:49:40",
       "album": {
-        "name": "Confrontation",
-        "url": "https://open.spotify.com/album/5Rg4ZSwf1LPCuAMr0msdun"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 327133,
-      "name": "Rastaman Live Up",
-      "url": "https://open.spotify.com/track/2wFw6mZzzABL9gktquq7I5"
-    },
-    {
-      "added_at": "2022-03-03 13:49:40",
-      "album": {
         "name": "Uprising",
         "url": "https://open.spotify.com/album/321q9p7PELvzcFAWxml7VX"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 188313,
       "name": "Real Situation",
       "url": "https://open.spotify.com/track/6d4B82vt7pjdzumBmV6HiZ"
+    },
+    {
+      "added_at": "2022-03-03 13:49:40",
+      "album": {
+        "name": "Confrontation",
+        "url": "https://open.spotify.com/album/5Rg4ZSwf1LPCuAMr0msdun"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 327133,
+      "name": "Rastaman Live Up",
+      "url": "https://open.spotify.com/track/2wFw6mZzzABL9gktquq7I5"
     },
     {
       "added_at": "2022-03-03 13:49:40",

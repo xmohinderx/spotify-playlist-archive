@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZ6y0ulQ9Gz.md) - [plain]
 
 > The best in Indie in one place\. Cover: Men I Trust
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,356 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,372 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZ6y0ulQ9Gz.md) - [plain]
 | 75 | [Kahan \(last year\)](https://open.spotify.com/track/0fGsBRR1Am2H5nIQx9nFCT) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Kahan \(last year\)](https://open.spotify.com/album/215RCt9IFitsQ2fuDrnysX) | 3:36 |
 | 76 | [Weightless](https://open.spotify.com/track/39ctmPVTtAMKeVJhMq5dS5) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Hope For Sale](https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi) | 3:04 |
 | 77 | [Heartbeat](https://open.spotify.com/track/7BjZD4TVbmqNAJpEbvS6By) | [Ghostly Kisses](https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj) | [Heaven, Wait](https://open.spotify.com/album/5kQwGFGp61L6iYlk8tgHCS) | 3:50 |
-| 78 | [Love Proceeding](https://open.spotify.com/track/5F8XPD481L6K2s8h02Vxuo) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Arthur Verocai](https://open.spotify.com/artist/1tP3R35TdPW8BMwmTPOoVZ) | [Talk Memory](https://open.spotify.com/album/594yqwr1MOvVX0UBnOWftY) | 5:25 |
-| 79 | [HIDE](https://open.spotify.com/track/1ZK4x9YUytJSgdu2yC39z7) | [Marko](https://open.spotify.com/artist/1gBpdTK92fXFog9vxL9eL5) | [HIDE](https://open.spotify.com/album/1utKbZcRFkm5ANR84UQBvk) | 2:47 |
+| 78 | [HIDE](https://open.spotify.com/track/1ZK4x9YUytJSgdu2yC39z7) | [Marko](https://open.spotify.com/artist/1gBpdTK92fXFog9vxL9eL5) | [HIDE](https://open.spotify.com/album/1utKbZcRFkm5ANR84UQBvk) | 2:47 |
+| 79 | [Love Proceeding](https://open.spotify.com/track/5F8XPD481L6K2s8h02Vxuo) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Arthur Verocai](https://open.spotify.com/artist/1tP3R35TdPW8BMwmTPOoVZ) | [Talk Memory](https://open.spotify.com/album/594yqwr1MOvVX0UBnOWftY) | 5:25 |
 | 80 | [Famous](https://open.spotify.com/track/3RZauEkvORMeP06npyaIYa) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Day/Night](https://open.spotify.com/album/2FJj7NVoRCAwjFus0O1BXd) | 4:49 |
 | 81 | [Valentine](https://open.spotify.com/track/1RcGoniZzjY3oOatGifYK1) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Valentine](https://open.spotify.com/album/0zNWhYDalgisc4uweLIGZJ) | 3:16 |
 | 82 | [Oxygen](https://open.spotify.com/track/0vu3XfUitueA4S7l93kNU3) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Oxygen](https://open.spotify.com/album/48QsECGKhTjmQDGu3PrJAC) | 3:06 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZ6y0ulQ9Gz.md) - [plain]
 | 92 | [Nada](https://open.spotify.com/track/5ihtr3hVJJ7GWgagDiyf1i) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3), [Li Saumet](https://open.spotify.com/artist/1hYzHxIYlfYgHXN9DVZaNw) | [Miss Colombia](https://open.spotify.com/album/6H6MZ54B5FLBLXXxWGEl7y) | 4:58 |
 | 93 | [Cut Me](https://open.spotify.com/track/1A2BT8JYVRjsKdswwvWXG6) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [græ](https://open.spotify.com/album/1iYsYnkc0Bccy66X4GQ2tm) | 4:10 |
 | 94 | [damn](https://open.spotify.com/track/5mgWktGBliaIdAaBtZ8ff3) | [Ada Lea](https://open.spotify.com/artist/3sE8O47mEFWR6pL0rwnAHy) | [one hand on the steering wheel the other sewing a garden](https://open.spotify.com/album/0ulrUoMnkAdxqX80c0dkfF) | 4:21 |
-| 95 | [Ce n'est pas de la chance](https://open.spotify.com/track/4GvY9PDlREAnpeTmGJAESR) | [Ariane Roy](https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM) | [medium plaisir](https://open.spotify.com/album/1Uq4V1N2AL1eI3M4cqq9sr) | 4:52 |
-| 96 | [Lonely Romance](https://open.spotify.com/track/31SXKJBLm38BkGB3I2nVsZ) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [To You EP](https://open.spotify.com/album/3Anf3lNMU7cCesmckx62wI) | 5:42 |
-| 97 | [Grow into Love](https://open.spotify.com/track/52AthVA2opex8NcLSwtO8n) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Seasons of Change](https://open.spotify.com/album/74fRgN21qhhAQv43mbCJFq) | 2:42 |
+| 95 | [Grow into Love](https://open.spotify.com/track/52AthVA2opex8NcLSwtO8n) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Seasons of Change](https://open.spotify.com/album/74fRgN21qhhAQv43mbCJFq) | 2:42 |
+| 96 | [Ce n'est pas de la chance](https://open.spotify.com/track/4GvY9PDlREAnpeTmGJAESR) | [Ariane Roy](https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM) | [medium plaisir](https://open.spotify.com/album/1Uq4V1N2AL1eI3M4cqq9sr) | 4:52 |
+| 97 | [Lonely Romance](https://open.spotify.com/track/31SXKJBLm38BkGB3I2nVsZ) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [To You EP](https://open.spotify.com/album/3Anf3lNMU7cCesmckx62wI) | 5:42 |
 | 98 | [Cocoa Beach](https://open.spotify.com/track/26MSlKdM2gVnImkA5lU8G0) | [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Voyage to Mars](https://open.spotify.com/album/68SvNn3ZiomWkxVeeBANvP) | 3:58 |
 | 99 | [intres\-ting](https://open.spotify.com/track/4Zsk0wRmvyY50mr1RmBIS8) | [Clairmont The Second](https://open.spotify.com/artist/2FtWl97A21W2V0urMwaWn7) | [intres\-ting](https://open.spotify.com/album/5pi4G7MK5UPVYV4lc2DuS1) | 2:17 |
 | 100 | [Not Around](https://open.spotify.com/track/7dlzjco7oeJIbDAYXWDo22) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka) | [Sunny Boy](https://open.spotify.com/album/5m2dVboM31qQtwPVch8pFv) | 2:40 |
 
-Snapshot ID: `MTY2MjA5MTIwMCwwMDAwMDAwMDU2MjE4MTZlYTA3NjM3ODkzNDZkOTYyYTA2NDMyZTRi`
+Snapshot ID: `MTY2MjA5MTIwMCwwMDAwMDAwMGUwMjgxZDI5NzFkYzhkYTcxYmMzN2M5OTU3ZWYxNjk3`

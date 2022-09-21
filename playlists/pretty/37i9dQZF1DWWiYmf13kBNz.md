@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiYmf13kBNz.md) - [plain]
 
 > Feels like falling in love in the 50s
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,989 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,133 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,15 +41,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiYmf13kBNz.md) - [plain]
 | 31 | [Cry Me A River](https://open.spotify.com/track/7f6AAixCrVar1ZY7RPHDfM) | [Julie London](https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m) | [Julie Is Her Name](https://open.spotify.com/album/6hDZjN3iWJ95RIXnxbiG1P) | 2:58 |
 | 32 | [In The Still of the Night](https://open.spotify.com/track/0GVvRmCoiLkhxJvlZy9bLk) | [The Five Satins](https://open.spotify.com/artist/2YP02JRa1JLejrg3XTssJS) | [For Collectors Only](https://open.spotify.com/album/2ITzRNAK93yj5T5I7zB0I6) | 3:07 |
 | 33 | [She's Got You \- Single Version](https://open.spotify.com/track/4H1POasJbrLNaQirsIH29e) | [Patsy Cline](https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK) | [Sentimentally Yours](https://open.spotify.com/album/0GhlY0htAsFNb0eHO9y1lZ) | 3:01 |
-| 34 | [Then He Kissed Me](https://open.spotify.com/track/5usNPz6U1acDrkUYekGYDY) | [The Crystals](https://open.spotify.com/artist/7rewR1TVjhisjI6gauUamf) | [Wall of Sound: The Very Best of Phil Spector 1961\-1966](https://open.spotify.com/album/020ep2kmPRC8tgh95hMP2i) | 2:38 |
+| 34 | [You Go To My Head](https://open.spotify.com/track/78MIFwIW5oUNdaL6Sj8hTB) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Solitude](https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp) | 2:54 |
 | 35 | [Love Is Here To Stay \- Remastered 1998](https://open.spotify.com/track/3YCbx1QqGrnxMsPEZLC1CT) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Songs For Swingin' Lovers! \(Remastered\)](https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc) | 2:42 |
-| 36 | [You Go To My Head](https://open.spotify.com/track/78MIFwIW5oUNdaL6Sj8hTB) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Solitude](https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp) | 2:54 |
+| 36 | [Then He Kissed Me](https://open.spotify.com/track/5usNPz6U1acDrkUYekGYDY) | [The Crystals](https://open.spotify.com/artist/7rewR1TVjhisjI6gauUamf) | [Wall of Sound: The Very Best of Phil Spector 1961\-1966](https://open.spotify.com/album/020ep2kmPRC8tgh95hMP2i) | 2:38 |
 | 37 | [Old Cape Cod \- 1957 Single Version](https://open.spotify.com/track/2ZD42YPLXtzoGlRH51zViF) | [Patti Page](https://open.spotify.com/artist/4nZN9kln8toEzOifhWG2uF) | [Golden Hits](https://open.spotify.com/album/2N4F5xwzFeVoJ5fF10Pv0P) | 2:38 |
 | 38 | [We Have All The Time In The World \- Remastered](https://open.spotify.com/track/0OAnoLrIVxpdne3mkVLrwr) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [On Her Majesty's Secret Service \(Original Motion Picture Soundtrack / Expanded Edition\)](https://open.spotify.com/album/4BVd2gkQNWj30YN5P3r8Av) | 3:15 |
 | 39 | [Moonlight Serenade](https://open.spotify.com/track/3ziJFd6JeioC8Xfct0UXpJ) | [Glenn Miller](https://open.spotify.com/artist/2aAHdB5HweT3mFcRzm0swc) | [Ultimate Big Band Collection: Glenn Miller](https://open.spotify.com/album/4dkdsQFiMF2Ok0AczTiVBR) | 3:22 |
 | 40 | [Witchcraft](https://open.spotify.com/track/3BTsv0FthgmDwyKlYShwJF) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Frank Sinatra: The Complete Capitol Singles Collection](https://open.spotify.com/album/7LbB7SuX3op2Xa9FvteJeB) | 2:53 |
-| 41 | [The Masquerade Is Over](https://open.spotify.com/track/1jf3wYtynxiPOdhqAp3cUN) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb), [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA) | [Nancy Wilson/Cannonball Adderley](https://open.spotify.com/album/6yyNgCQNsJ3VJ9PP7CmvLJ) | 4:18 |
-| 42 | [Sea Of Love](https://open.spotify.com/track/4gUDdUr5yK0JGlR49zSRVt) | [Phil Phillips & The Twilights](https://open.spotify.com/artist/5EQjT95lePa71P9ZUA6adW) | [Sea Of Love: The Collection](https://open.spotify.com/album/7sDEzqAGqgx95qRrLmqFBB) | 2:21 |
+| 41 | [Sea Of Love](https://open.spotify.com/track/4gUDdUr5yK0JGlR49zSRVt) | [Phil Phillips & The Twilights](https://open.spotify.com/artist/5EQjT95lePa71P9ZUA6adW) | [Sea Of Love: The Collection](https://open.spotify.com/album/7sDEzqAGqgx95qRrLmqFBB) | 2:21 |
+| 42 | [The Masquerade Is Over](https://open.spotify.com/track/1jf3wYtynxiPOdhqAp3cUN) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb), [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA) | [Nancy Wilson/Cannonball Adderley](https://open.spotify.com/album/6yyNgCQNsJ3VJ9PP7CmvLJ) | 4:18 |
 | 43 | [Tears on My Pillow](https://open.spotify.com/track/07ePHsQ0SopWrnCbNjNC2D) | [Little Anthony & The Imperials](https://open.spotify.com/artist/3PF1KBeHYb14yKgsiE693V) | [Greatest Hits](https://open.spotify.com/album/5f1KMzQPkGnHOerwnOkHSV) | 2:20 |
 | 44 | [If I Had You](https://open.spotify.com/track/79nMHWTfds6KJu5zWQbQ4n) | [Etta Jones](https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0) | [Don't Go To Strangers](https://open.spotify.com/album/7qK1Ds1huhA9XyVZBx9kkx) | 3:50 |
 | 45 | [Time After Time](https://open.spotify.com/track/5j9HUr2izjXctYvgKF4GoW) | [Margaret Whiting](https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87) | [Great Ladies Of Song / Spotlight On Margaret Whiting](https://open.spotify.com/album/1f7ZtwN1b8y3MjgDVMUExO) | 2:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiYmf13kBNz.md) - [plain]
 | 49 | [Manhattan](https://open.spotify.com/track/6ReTCbOAUbnKKVBY0ckJMS) | [BLOSSOM DEARIE](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [Once Upon A Summertime](https://open.spotify.com/album/5pJeMvBDbvBnmDJsd0Up9n) | 4:19 |
 | 50 | [You Belong To Me](https://open.spotify.com/track/2NDMLabAjx4oL7ezx2PNxS) | [Jo Stafford](https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw) | [The Ultimate](https://open.spotify.com/album/7FAu65eXZrds9zcezKtYhl) | 3:13 |
 
-Snapshot ID: `MTY2MDI1MTk3MSwwMDAwMDAwMDYyNzA4OTIzOGZiMTkyYjQ4YTk4YmI4M2VlODFhNTJk`
+Snapshot ID: `MTY2MDI1MTk3MSwwMDAwMDAwMDY2MmRlOWI5YTQ3Njg1N2M3Y2RiMDFhNDRkNTk5ZWNk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSt7oHsDTXzj.md) - [plain]
 
 > The ultimate seasonal \(indie\) playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,092 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,092 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,9 +28,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSt7oHsDTXzj.md) - [plain]
 | 18 | [Maybe This Christmas](https://open.spotify.com/track/52qdJ88vESWGhFo3Hu7WEH) | [Ron Sexsmith](https://open.spotify.com/artist/2wXBWJhbm1gfEVjyEEuhDH) | [Maybe This Christmas](https://open.spotify.com/album/2X4eD8NAwuPT9inq0yAZCY) | 1:52 |
 | 19 | [Winter Song](https://open.spotify.com/track/6bVIzKJOhSTD2Pw1cbLhBr) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Winter Song](https://open.spotify.com/album/7obocQT5bd9ObWl2GiMrBT) | 4:14 |
 | 20 | [We're The Lucky Ones](https://open.spotify.com/track/0NrucXAEaaZB48N2vIDrjT) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [We're The Lucky Ones](https://open.spotify.com/album/12USXSqjhL8yMhajTI8fD8) | 3:35 |
-| 21 | [A Little Love \- From The John Lewis & Waitrose Christmas Advert 2020](https://open.spotify.com/track/7eTonpb9lXgerPaW6I1VnP) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [A Little Love \(From The John Lewis & Waitrose Christmas Advert 2020\)](https://open.spotify.com/album/6uXCDNLCKMosTnjTrDtkp4) | 2:58 |
+| 21 | [This Christmas](https://open.spotify.com/track/7FNsGGAGyMoSwjH3ivmcep) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [This Christmas](https://open.spotify.com/album/08zgrixDuu7cQJ5AJO0KHW) | 3:39 |
 | 22 | [Home To You \(This Christmas\)](https://open.spotify.com/track/1SBo8LdLGOieucdStHz6iV) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Home To You \(This Christmas\)](https://open.spotify.com/album/3yqzTFvOGOsoruu0G4KjNV) | 3:45 |
-| 23 | [This Christmas](https://open.spotify.com/track/7FNsGGAGyMoSwjH3ivmcep) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [This Christmas](https://open.spotify.com/album/08zgrixDuu7cQJ5AJO0KHW) | 3:39 |
+| 23 | [A Little Love \- From The John Lewis & Waitrose Christmas Advert 2020](https://open.spotify.com/track/7eTonpb9lXgerPaW6I1VnP) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [A Little Love \(From The John Lewis & Waitrose Christmas Advert 2020\)](https://open.spotify.com/album/6uXCDNLCKMosTnjTrDtkp4) | 2:58 |
 | 24 | [7 O'Clock News / Silent Night](https://open.spotify.com/track/3sIupwcMw6vCZ3bqMJa0NV) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL), [Matt Berninger](https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp) | [7 O'Clock News / Silent Night](https://open.spotify.com/album/43copJZSJKuxBmKbOG7lnn) | 2:00 |
 | 25 | [White Christmas](https://open.spotify.com/track/6E6OI395lJ3uQnz9w8bqTD) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [White Christmas](https://open.spotify.com/album/4MWNtLj4EhEtuFg4b9qU14) | 2:32 |
 | 26 | [Messed Up On Christmas](https://open.spotify.com/track/1hVFvOisGooNd8z9B2AMIp) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [XMAS 01](https://open.spotify.com/album/3StuIrKZYryr4ZICoWRqqc) | 2:21 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSt7oHsDTXzj.md) - [plain]
 | 41 | [Just Like Christmas](https://open.spotify.com/track/4zMP6aieSmWQNFdp3O4Owv) | [Low](https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH) | [Christmas](https://open.spotify.com/album/1SITmIj0Gjx12n077CU0XC) | 3:08 |
 | 42 | [Yellow Bike](https://open.spotify.com/track/1oRIrJIz2ijCG3NYqFLHuo) | [Pedro The Lion](https://open.spotify.com/artist/4ApdWjZjftqD77Vh6qDbCr) | [Phoenix](https://open.spotify.com/album/5u76A4Ereo3ABD3E7yXAge) | 3:53 |
 | 43 | [Home Alone, Too](https://open.spotify.com/track/0DspUQUTwLtKeUO3Bb7LKK) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Home Alone, Too](https://open.spotify.com/album/4y57bVmY8Jj0BK0RxcLRXb) | 4:00 |
-| 44 | [A Dreamer's Holiday](https://open.spotify.com/track/61Z8rVzYJ1NHgTlI8Q5yIC) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [A Dreamer's Holiday](https://open.spotify.com/album/6A9z2Vf7QPQVUNuJg0Jq8E) | 3:00 |
-| 45 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/6lsfG5fQhtkfIkqQIWfNns) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/61AIHomKS1lF5ZgcXjvtFX) | 2:08 |
+| 44 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/6lsfG5fQhtkfIkqQIWfNns) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/61AIHomKS1lF5ZgcXjvtFX) | 2:08 |
+| 45 | [A Dreamer's Holiday](https://open.spotify.com/track/61Z8rVzYJ1NHgTlI8Q5yIC) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [A Dreamer's Holiday](https://open.spotify.com/album/6A9z2Vf7QPQVUNuJg0Jq8E) | 3:00 |
 | 46 | [Andalucia](https://open.spotify.com/track/4TUOVMzSSHZFUO33KDx6EB) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [HARK!](https://open.spotify.com/album/41h4pqwFRxXDXWsd61hHad) | 3:32 |
 | 47 | [Carol Of The Bells](https://open.spotify.com/track/4UdfZoxXG46LSOIJYYzSWK) | [The Big Moon](https://open.spotify.com/artist/0KU55rzxAihPhi27MAuz9O) | [Carol Of The Bells](https://open.spotify.com/album/7Kx0uEGDCShpPKDaQaeRyK) | 3:13 |
 | 48 | [This Year For Christmas](https://open.spotify.com/track/14obvglkz3Fzx46YAcYYwl) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [This Year For Christmas](https://open.spotify.com/album/7otWkigGHFHhUwS1kkXSUo) | 1:52 |
 | 49 | [Boxing Day Blues](https://open.spotify.com/track/2jNQBuhta3lE0GFOqb4Eo9) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Sometimes I Sit and Think, and Sometimes I Just Sit](https://open.spotify.com/album/6PosCDToF5fOdEjTI5PsDX) | 3:02 |
-| 50 | [My Favourite Day](https://open.spotify.com/track/1bc1TqZLxCSPGRTnFvo6Pj) | [Fickle Friends](https://open.spotify.com/artist/1nhSLEYdoBHG6cJ8NDwoF1) | [My Favourite Day](https://open.spotify.com/album/7xJH9NWvD1txw7DUCnDAfh) | 3:35 |
+| 50 | [pumpkin bread](https://open.spotify.com/track/603mAqHBigy7cueil9FxJf) | [Mikey Mike](https://open.spotify.com/artist/03TisRLz25RdilInRpqMZj) | [pumpkin bread](https://open.spotify.com/album/1Bm7slaDsarcd8ZinmA9py) | 2:57 |
 
-Snapshot ID: `MTY0MTU2OTA3OSwwMDAwMDAwMDNhZjZjNTlhYjFmOGUyYWI3OTFiYjg5ZTg3M2U5MjA3`
+Snapshot ID: `MTY0MTU2OTA3OSwwMDAwMDAwMGRhYzcxYmU3ZWI0OGJlOWY4NzdiY2JmNWI4ZWEwOGVl`

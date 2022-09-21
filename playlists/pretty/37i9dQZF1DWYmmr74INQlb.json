@@ -1,12 +1,12 @@
 {
   "description": "Check out these throwback R&B jams from the first decade of the 21st century. Cover: Alicia Keys",
-  "num_followers": 4032910,
+  "num_followers": 4034470,
   "original_name": "I Love My '00s R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMGY4YWE3MWU1NDc1OTNjMzkxNDE5MmIyZmRiZTI5NzZj",
+  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMDU3ZGY2YTEwMTg5NWY5ZGYyMTEzNjYyNDZhZDg5ZTdl",
   "tracks": [
     {
       "added_at": "2022-02-11 05:00:00",
@@ -775,6 +775,22 @@
     {
       "added_at": "2022-08-21 11:22:08",
       "album": {
+        "name": "Confessions (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
+      },
+      "artists": [
+        {
+          "name": "Usher",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "duration_ms": 191573,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/18JosZY3HzD3lMy6iOOSAY"
+    },
+    {
+      "added_at": "2022-08-21 11:22:08",
+      "album": {
         "name": "Trey Day",
         "url": "https://open.spotify.com/album/6vnUL0NxqV1JrBvYW1M2wn"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 206413,
       "name": "Can't Help but Wait",
       "url": "https://open.spotify.com/track/5k3VjTwIsOjQ2woGz3Yx71"
-    },
-    {
-      "added_at": "2022-08-21 11:22:08",
-      "album": {
-        "name": "8701",
-        "url": "https://open.spotify.com/album/6k16WXh4rKyusIoN00rmpi"
-      },
-      "artists": [
-        {
-          "name": "Usher",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        }
-      ],
-      "duration_ms": 269400,
-      "name": "U Don't Have to Call",
-      "url": "https://open.spotify.com/track/5PCJldueshnwqQVjS16543"
     },
     {
       "added_at": "2022-02-11 05:00:00",
@@ -927,26 +927,6 @@
     {
       "added_at": "2022-02-11 05:00:00",
       "album": {
-        "name": "Southern Hummingbird",
-        "url": "https://open.spotify.com/album/7uAkY4ERL5Y0BopRxmd3AX"
-      },
-      "artists": [
-        {
-          "name": "Tweet",
-          "url": "https://open.spotify.com/artist/6zDBeei6hHRiZdAJ6zoTCo"
-        },
-        {
-          "name": "Missy Elliott",
-          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
-        }
-      ],
-      "duration_ms": 237800,
-      "name": "Oops (Oh My) [feat. Missy Elliott]",
-      "url": "https://open.spotify.com/track/5Y0E3dOeynKuLDAXu0t0Bg"
-    },
-    {
-      "added_at": "2022-02-11 05:00:00",
-      "album": {
         "name": "Ready (Deluxe)",
         "url": "https://open.spotify.com/album/44jrX3SThj7pFjOzUTLm85"
       },
@@ -983,6 +963,26 @@
       "duration_ms": 277840,
       "name": "Southside",
       "url": "https://open.spotify.com/track/7lurcq2Yw96B1K0KOJAHxg"
+    },
+    {
+      "added_at": "2022-02-11 05:00:00",
+      "album": {
+        "name": "Southern Hummingbird",
+        "url": "https://open.spotify.com/album/7uAkY4ERL5Y0BopRxmd3AX"
+      },
+      "artists": [
+        {
+          "name": "Tweet",
+          "url": "https://open.spotify.com/artist/6zDBeei6hHRiZdAJ6zoTCo"
+        },
+        {
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+        }
+      ],
+      "duration_ms": 237800,
+      "name": "Oops (Oh My) [feat. Missy Elliott]",
+      "url": "https://open.spotify.com/track/5Y0E3dOeynKuLDAXu0t0Bg"
     },
     {
       "added_at": "2022-02-11 05:00:00",
@@ -1317,22 +1317,6 @@
       "url": "https://open.spotify.com/track/6ubNZ5edKBKH3MQKatUY3S"
     },
     {
-      "added_at": "2022-02-11 05:00:00",
-      "album": {
-        "name": "No More Drama",
-        "url": "https://open.spotify.com/album/5QJmKwPveBV4IwLlo4OcG4"
-      },
-      "artists": [
-        {
-          "name": "Mary J. Blige",
-          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
-        }
-      ],
-      "duration_ms": 326240,
-      "name": "No More Drama",
-      "url": "https://open.spotify.com/track/7nWsh14AHpnTzq1Xejz90U"
-    },
-    {
       "added_at": "2022-08-21 11:22:08",
       "album": {
         "name": "Juslisen",
@@ -1363,6 +1347,22 @@
       "duration_ms": 268373,
       "name": "Say Yes",
       "url": "https://open.spotify.com/track/2fE4MbwX3QGMzNaMjGVhtw"
+    },
+    {
+      "added_at": "2022-02-11 05:00:00",
+      "album": {
+        "name": "No More Drama",
+        "url": "https://open.spotify.com/album/5QJmKwPveBV4IwLlo4OcG4"
+      },
+      "artists": [
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        }
+      ],
+      "duration_ms": 326240,
+      "name": "No More Drama",
+      "url": "https://open.spotify.com/track/7nWsh14AHpnTzq1Xejz90U"
     },
     {
       "added_at": "2022-02-11 05:00:00",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2022-08-21 11:22:08",
       "album": {
-        "name": "Voodoo",
-        "url": "https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8"
-      },
-      "artists": [
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 430800,
-      "name": "Untitled (How Does It Feel)",
-      "url": "https://open.spotify.com/track/4oPNN7syJYSjzDhRerF966"
-    },
-    {
-      "added_at": "2022-08-21 11:22:08",
-      "album": {
         "name": "The Diary Of Alicia Keys",
         "url": "https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 284160,
       "name": "Diary (feat. Tony! Toni! Tone! & Jermaine Paul)",
       "url": "https://open.spotify.com/track/5dxHF4lrDimKqnI3GaZUmC"
+    },
+    {
+      "added_at": "2022-08-21 11:22:08",
+      "album": {
+        "name": "Voodoo",
+        "url": "https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "duration_ms": 430800,
+      "name": "Untitled (How Does It Feel)",
+      "url": "https://open.spotify.com/track/4oPNN7syJYSjzDhRerF966"
     },
     {
       "added_at": "2022-08-21 11:22:08",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2022-02-11 05:00:00",
       "album": {
+        "name": "Because Of You",
+        "url": "https://open.spotify.com/album/52q9xNv8COtSU9phlbO5sg"
+      },
+      "artists": [
+        {
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+        }
+      ],
+      "duration_ms": 228266,
+      "name": "Do You",
+      "url": "https://open.spotify.com/track/0JKjqJLo145b1mqA6MnhIl"
+    },
+    {
+      "added_at": "2022-02-11 05:00:00",
+      "album": {
         "name": "My Name Is Joe",
         "url": "https://open.spotify.com/album/6zuCJaxmHKNKN5hMDF556U"
       },
@@ -1551,22 +1567,6 @@
       "duration_ms": 213026,
       "name": "Stutter (feat. Mystikal) - Double Take Remix",
       "url": "https://open.spotify.com/track/7FWuzwapuKHTEyDJIcQOw3"
-    },
-    {
-      "added_at": "2022-02-11 05:00:00",
-      "album": {
-        "name": "Because Of You",
-        "url": "https://open.spotify.com/album/52q9xNv8COtSU9phlbO5sg"
-      },
-      "artists": [
-        {
-          "name": "Ne-Yo",
-          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
-        }
-      ],
-      "duration_ms": 228266,
-      "name": "Do You",
-      "url": "https://open.spotify.com/track/0JKjqJLo145b1mqA6MnhIl"
     },
     {
       "added_at": "2022-08-21 11:22:08",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2022-08-21 11:22:08",
       "album": {
+        "name": "Pleasure & Pain",
+        "url": "https://open.spotify.com/album/3gY1qUrGzKNQnorPC9Lu72"
+      },
+      "artists": [
+        {
+          "name": "112",
+          "url": "https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4"
+        }
+      ],
+      "duration_ms": 198880,
+      "name": "U Already Know",
+      "url": "https://open.spotify.com/track/0ahRDzkKq0KEi7FRoHb0qk"
+    },
+    {
+      "added_at": "2022-08-21 11:22:08",
+      "album": {
         "name": "Unpredictable",
         "url": "https://open.spotify.com/album/045D1HbNHv4R31D9vkL8Ve"
       },
@@ -1619,22 +1635,6 @@
       "duration_ms": 219866,
       "name": "Unpredictable (feat. Ludacris) - Main",
       "url": "https://open.spotify.com/track/3UNrtRxBBlWE70SjxnOo02"
-    },
-    {
-      "added_at": "2022-08-21 11:22:08",
-      "album": {
-        "name": "Pleasure & Pain",
-        "url": "https://open.spotify.com/album/3gY1qUrGzKNQnorPC9Lu72"
-      },
-      "artists": [
-        {
-          "name": "112",
-          "url": "https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4"
-        }
-      ],
-      "duration_ms": 198880,
-      "name": "U Already Know",
-      "url": "https://open.spotify.com/track/0ahRDzkKq0KEi7FRoHb0qk"
     },
     {
       "added_at": "2022-08-21 11:22:08",

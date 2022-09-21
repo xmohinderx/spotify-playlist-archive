@@ -4,7 +4,7 @@
 
 > you up?
 
-299 songs - 17 hr 8 min - [published](https://open.spotify.com/playlist/6GUFuO0Q1XAMf72LhfZhhe)
+300 songs - 17 hr 12 min - [published](https://open.spotify.com/playlist/6GUFuO0Q1XAMf72LhfZhhe)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [Heartburn](https://open.spotify.com/track/3tjfbu0G0PPy8UjhxfxVIe) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [Heartburn](https://open.spotify.com/album/4RfO9aZPT2i4U2Wi1ERfOP) | 3:26 | 2022-02-04 | 2022-07-29 |
 | [Heaven](https://open.spotify.com/track/1T575AhHueYinKSDflEsGK) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Fifty Shades Freed \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4w0N1CaZwQ5RPIuawqlYyy) | 3:11 | 2022-03-11 | 2022-04-20 |
 | [heaven come](https://open.spotify.com/track/2lTpnVnrqmYfAlgUNRfDSR) | [Josh Golden](https://open.spotify.com/artist/6wUAn24MOirNVNqQM47fda) | [heaven come](https://open.spotify.com/album/151jH4X7h8l0lf0L6svPUr) | 2:56 | 2022-02-11 | 2022-06-02 |
+| [Here With Me](https://open.spotify.com/track/4U4h7WNNyvhpdaDgHSdD4j) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Here With Me](https://open.spotify.com/album/1HPTbRqv30KYao7mpuZ6dm) | 4:02 | 2022-09-20 |  |
 | [Hex](https://open.spotify.com/track/7D7e6hm2LiNd6nLuJF6K9Q) | [80purppp](https://open.spotify.com/artist/4F9apzBcSE0OSfHYbxo4RF) | [Hex](https://open.spotify.com/album/1CPRTq5GLeZ9hn4igzS6uZ) | 2:02 | 2022-02-11 |  |
 | [High Enough \- Slowed](https://open.spotify.com/track/5JXOF1rt31rT07luk5wFE6) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr), [xxtristanxo](https://open.spotify.com/artist/4kBCXTJBl1aY9pDHONsjfr), [Slowed Radio](https://open.spotify.com/artist/7zmcKgBZSbMxqzqFe6Ac5k) | [High Enough \(Slowed\)](https://open.spotify.com/album/22fEFCYPXjbw5hguumN7lR) | 3:21 | 2022-02-04 |  |
 | [High For This](https://open.spotify.com/track/5fohLPNqO6TqwrZ7BoUWUT) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Trilogy](https://open.spotify.com/album/5EbpxRwbbpCJUepbqVTZ1U) | 4:07 | 2022-03-25 | 2022-04-19 |
@@ -295,7 +296,7 @@
 | [Want U Around \(feat\. Ruel\)](https://open.spotify.com/track/5vprsDWNcHMEMH95sbJkH2) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO), [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Want U Around \(feat\. Ruel\)](https://open.spotify.com/album/5UKxiuiDgmjI35ZKYbAUPx) | 4:07 | 2022-02-04 | 2022-07-29 |
 | [Want U Back](https://open.spotify.com/track/7afpDI6k8fFpRuqEYFMxqR) | [Spencer.](https://open.spotify.com/artist/20PdOyVym0ZZrOB1rfcvCR) | [Want U Back](https://open.spotify.com/album/3TlH0am1m85oTah0V5MjWR) | 3:09 | 2022-03-25 | 2022-04-14 |
 | [WFM](https://open.spotify.com/track/18ddJHQ7CUzNBiy55L0Xjj) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [WFM](https://open.spotify.com/album/6Ol3bTDsZvYrW9jkSqMsZl) | 2:16 | 2022-02-04 | 2022-07-29 |
-| [WFM](https://open.spotify.com/track/1DNA2z7Txysjk3cNz2nDLm) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [WFM](https://open.spotify.com/album/0bhFNhb3j8MRYLFXvnIXGp) | 2:16 | 2022-07-22 |  |
+| [WFM](https://open.spotify.com/track/1DNA2z7Txysjk3cNz2nDLm) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [WFM](https://open.spotify.com/album/0bhFNhb3j8MRYLFXvnIXGp) | 2:16 | 2022-07-22 | 2022-09-21 |
 | [What Should I Say](https://open.spotify.com/track/6Pdxztzy2HcnrfkJmVSoUp) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Notes On a Conditional Form](https://open.spotify.com/album/65l2wbCvQ1XGtZ4PbKqF2i) | 4:06 | 2022-03-25 | 2022-04-20 |
 | [What You Need](https://open.spotify.com/track/7iC56CDz8miPDKaH0OEIqS) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Life of a DON](https://open.spotify.com/album/2WmJ5wp5wKBlIJE6FDAIBJ) | 3:37 | 2022-02-04 | 2022-04-20 |
 | [WHOSE LOVE \(feat\. Tempest\)](https://open.spotify.com/track/2IM8UcsHElXjQkkhlOuODo) | [Naomi Wild](https://open.spotify.com/artist/5EBlHXi71tDXnFtroEh7Rg), [Tempest](https://open.spotify.com/artist/2FBvlvG5TL6SPA2tCLiusa) | [WHOSE LOVE \(feat\. Tempest\)](https://open.spotify.com/album/0zHwMqEuRB7AbVFoZ57RW3) | 3:30 | 2022-07-11 | 2022-08-25 |

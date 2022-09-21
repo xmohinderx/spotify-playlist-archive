@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzBc3TOlaAV.md) - [plain]
 
 > These songs rocked the '60s\. Cover: Jimi Hendrix
 
-[Spotify](https://open.spotify.com/user/spotify) - 779,194 likes - 70 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 779,371 likes - 70 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzBc3TOlaAV.md) - [plain]
 | 36 | [White Room](https://open.spotify.com/track/3Xls4cNOwy01dtrNXb1inG) | [Cream](https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw) | [Wheels Of Fire](https://open.spotify.com/album/0zrtTZC7yY2TOEhnbJzSb9) | 4:58 |
 | 37 | [Green Onions](https://open.spotify.com/track/4fQMGlCawbTkH9yPPZ49kP) | [Booker T\. & the M.G.'s](https://open.spotify.com/artist/2vDV0T8sxx2ENnKXds75e5) | [Green Onions](https://open.spotify.com/album/2aGFVLz0oQPa3uxCfq9lcU) | 2:56 |
 | 38 | [Green River](https://open.spotify.com/track/11DjZQEZ69EXLo77HVj6yW) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Green River \(Expanded Edition\)](https://open.spotify.com/album/0i9mOB6mPGqwVvtJEXiwPG) | 2:34 |
-| 39 | [You Can't Always Get What You Want](https://open.spotify.com/track/6lFZbCc7pn6Lme1NP7qQqQ) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Let It Bleed](https://open.spotify.com/album/4l4u9e9jSbotSXNjYfOugy) | 7:28 |
-| 40 | [Blowin' in the Wind](https://open.spotify.com/track/18GiV1BaXzPVYpp9rmOg0E) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [The Freewheelin' Bob Dylan](https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek) | 2:45 |
+| 39 | [Blowin' in the Wind](https://open.spotify.com/track/18GiV1BaXzPVYpp9rmOg0E) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [The Freewheelin' Bob Dylan](https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek) | 2:45 |
+| 40 | [You Can't Always Get What You Want](https://open.spotify.com/track/6lFZbCc7pn6Lme1NP7qQqQ) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Let It Bleed](https://open.spotify.com/album/4l4u9e9jSbotSXNjYfOugy) | 7:28 |
 | 41 | [I Saw Her Standing There \- Remastered 2009](https://open.spotify.com/track/3KiexfmhxHvG5IgAElmTkd) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Please Please Me \(Remastered\)](https://open.spotify.com/album/3KzAvEXcqJKBF97HrXwlgf) | 2:53 |
 | 42 | [Voodoo Child \(Slight Return\)](https://open.spotify.com/track/2AxCeJ6PSsBYiTckM0HLY7) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Electric Ladyland](https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ) | 5:13 |
 | 43 | [Born To Be Wild \- Single Version](https://open.spotify.com/track/3lN8PP6R2IxbLP05QpYXng) | [Steppenwolf](https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m) | [Steppenwolf](https://open.spotify.com/album/64q58AfjSrrX9Egp7Zryw8) | 3:32 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzBc3TOlaAV.md) - [plain]
 | 69 | [Crying](https://open.spotify.com/track/6eLL7QTdMWdhhG4i3jHDR9) | [Roy Orbison](https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS) | [Crying](https://open.spotify.com/album/21REQ6X34DCAcoxtj654TI) | 2:46 |
 | 70 | [Good Lovin' \- Single Version](https://open.spotify.com/track/0XnhQGfqfi5CnZXcONJuI5) | [The Young Rascals](https://open.spotify.com/artist/5X3TuTi9OIsJXMGxPwTKM2) | [The Young Rascals](https://open.spotify.com/album/2ZhMMZobSh6Pkkv8EK82Fp) | 2:30 |
 
-Snapshot ID: `MTY1NzAzNjYwMSwwMDAwMDAwMGE0MGJlNTU1MWQ1NTFlMWYxZTVjYjFiNjE0ZWIxMmJm`
+Snapshot ID: `MTY1NzAzNjYwMSwwMDAwMDAwMDJhMDBkYjM4ZDVhZTg2MTMyOTc3MjhkMTE1NDczMjY5`

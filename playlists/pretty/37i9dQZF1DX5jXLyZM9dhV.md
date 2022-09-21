@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jXLyZM9dhV.md) - [plain]
 
 > Revive la época de los pantalones acampanados en compañía de mamá.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,597 likes - 75 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,610 likes - 75 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,16 +35,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jXLyZM9dhV.md) - [plain]
 | 25 | [Sailing](https://open.spotify.com/track/6Hu6dzwlvoyg3zBUC8k4BK) | [Christopher Cross](https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH) | [Christopher Cross](https://open.spotify.com/album/2m2nl8cBT7bEgIA6LLmgah) | 4:16 |
 | 26 | [Me and Bobby McGee](https://open.spotify.com/track/1IqFh00G2kvvMm8pRMpehA) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Pearl \(Legacy Edition\)](https://open.spotify.com/album/3j7nicLAWXM0Fb08q9XGyf) | 4:31 |
 | 27 | [50 Ways to Leave Your Lover](https://open.spotify.com/track/6Qb7gtV6Q4MnUjSbkFcopl) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Still Crazy After All These Years](https://open.spotify.com/album/4A366gjTrYQwmRtkTezF2W) | 3:37 |
-| 28 | [Sunny](https://open.spotify.com/track/3pf96IFggfQuT6Gafqx2rt) | [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Take The Heat Off Me](https://open.spotify.com/album/1KQUrny9y5zGpktF6hAGd4) | 4:02 |
-| 29 | [Mandy](https://open.spotify.com/track/6iXQrhhgBisdfvS34EMTZ3) | [Barry Manilow](https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX) | [Barry Manilow II](https://open.spotify.com/album/0D6b0oLPjrrV4YA4bRSkks) | 3:33 |
+| 28 | [Mandy](https://open.spotify.com/track/6iXQrhhgBisdfvS34EMTZ3) | [Barry Manilow](https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX) | [Barry Manilow II](https://open.spotify.com/album/0D6b0oLPjrrV4YA4bRSkks) | 3:33 |
+| 29 | [Sunny](https://open.spotify.com/track/3pf96IFggfQuT6Gafqx2rt) | [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Take The Heat Off Me](https://open.spotify.com/album/1KQUrny9y5zGpktF6hAGd4) | 4:02 |
 | 30 | [El Amar y el Querer](https://open.spotify.com/track/7wUt1v2ddVqPayC8EKDp5P) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Reencuentro](https://open.spotify.com/album/6raiLPK4vKJD34Q33Gkpgt) | 3:54 |
 | 31 | [Volveré](https://open.spotify.com/track/350kyj3PwTFlQMOpWzRd3O) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P) | [Diego En Los 70](https://open.spotify.com/album/1ohlNZAwfRCOaMQxKsQDIb) | 4:02 |
 | 32 | [Woman in Love](https://open.spotify.com/track/1pTGc8pwyo6xtgXBKCBcFn) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6) | [Guilty](https://open.spotify.com/album/5mMebbufullX8FIhpCxwCt) | 3:51 |
 | 33 | [It's Too Late](https://open.spotify.com/track/12q3V8ShACq2PSWINMc2rC) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Tapestry](https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS) | 3:53 |
 | 34 | [¿Quieres Ser Mi Amante?](https://open.spotify.com/track/1Y7q2zwCBjt9zgIHZ0Ku7J) | [Camilo Sesto](https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y) | [Camilo](https://open.spotify.com/album/4AxRFDkSlRWzCpyaO107UJ) | 4:09 |
 | 35 | [Y Volveré](https://open.spotify.com/track/1skQgtTyuxpGsKgWUEhz7s) | [Los Angeles Negros](https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx) | [Clásicos Latinos](https://open.spotify.com/album/427RaNcXhoy1CpNySfJ4cd) | 4:03 |
-| 36 | [Rivers of Babylon](https://open.spotify.com/track/78His8pbKjbDQF7aX5asgv) | [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Nightflight to Venus](https://open.spotify.com/album/0txzXbDfTn3vAdx77iCaXd) | 4:21 |
-| 37 | [Love Will Keep Us Together](https://open.spotify.com/track/4pCNJwixy2ImFncaPY2yE2) | [Captain & Tennille](https://open.spotify.com/artist/7BEfMxbaqx6dOpbtlEqScm) | [Love Will Keep Us Together](https://open.spotify.com/album/3GUxesVyOehInaxJyCTh6d) | 3:25 |
+| 36 | [Love Will Keep Us Together](https://open.spotify.com/track/4pCNJwixy2ImFncaPY2yE2) | [Captain & Tennille](https://open.spotify.com/artist/7BEfMxbaqx6dOpbtlEqScm) | [Love Will Keep Us Together](https://open.spotify.com/album/3GUxesVyOehInaxJyCTh6d) | 3:25 |
+| 37 | [Rivers of Babylon](https://open.spotify.com/track/78His8pbKjbDQF7aX5asgv) | [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Nightflight to Venus](https://open.spotify.com/album/0txzXbDfTn3vAdx77iCaXd) | 4:21 |
 | 38 | [Hot Stuff](https://open.spotify.com/track/2zMJN9JvDlvGP4jB03l1Bz) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [Bad Girls](https://open.spotify.com/album/58GjBhQvLHwfQFJtdP9Oxg) | 5:14 |
 | 39 | [I'm Every Woman](https://open.spotify.com/track/1oFiPGBafH9Woo9AMwgBSl) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Chaka](https://open.spotify.com/album/2lvaLIoEg3hwL2dybu6zTC) | 4:09 |
 | 40 | [Long Cool Woman \(In a Black Dress\) \- 1999 Remaster](https://open.spotify.com/track/5UwbnHhjnbinJH8TefuQfN) | [The Hollies](https://open.spotify.com/artist/6waa8mKu91GjzD4NlONlNJ) | [Distant Light \(1999 Remaster\)](https://open.spotify.com/album/6b5osVLAcVTBvnqwDaPV4w) | 3:19 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jXLyZM9dhV.md) - [plain]
 | 74 | [El Triste](https://open.spotify.com/track/6HgUhIiqCepGzgb4nuses6) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [15 Exitos De Oro](https://open.spotify.com/album/4OP48ZU8qUYanvwyTLAvrt) | 4:16 |
 | 75 | [Amante a la Antigua](https://open.spotify.com/track/5C7wTCd20Ftl6bbW70qOA4) | [Roberto Carlos](https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65) | [Pra Sempre Em Espanhol \- Vol\. 1](https://open.spotify.com/album/2Xq3ImnZEspHHITZy3DOZH) | 3:14 |
 
-Snapshot ID: `MTYxOTU4NjE3NSwwMDAwMDAwMDU2ZGZlM2UzMzdiNTRhNWVhZWZmNTViYjY4MzBmMDZh`
+Snapshot ID: `MTYxOTU4NjE3NSwwMDAwMDAwMDNlYjQyNGMxYWFjZWIxMmNiMTAzZTc0ZmRmNTkyOTJi`

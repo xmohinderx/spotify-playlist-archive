@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbrUpGvoi3TS.md) - [plain]
 
 > Nurse your emotional wounds with these heartbreak tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,308,912 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,309,422 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbrUpGvoi3TS.md) - [plain]
 | 79 | [Dynasty](https://open.spotify.com/track/29OBQBdkEWYaE3YxVAT8KL) | [MIIA](https://open.spotify.com/artist/0h3YCmvRJ2jqt4jFiR6nGL) | [Dynasty](https://open.spotify.com/album/38Ioi7CEBWoMZGs45RML6P) | 3:45 |
 | 80 | [i don't want to watch the world end with someone else](https://open.spotify.com/track/58qX77t2VWMWcycsh9zKLc) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [i don't want to watch the world end with someone else](https://open.spotify.com/album/610pjYthQHEHqSdF8kCTcP) | 3:04 |
 | 81 | [Helium](https://open.spotify.com/track/4S6fv0puLCsfYjyBTPDb9k) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Fifty Shades Darker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5VML6S956h4YfoYPooqLEi) | 4:12 |
-| 82 | [I Miss You \(feat\. Julia Michaels\)](https://open.spotify.com/track/0Ult84lvFuqNvbyXwyRQ58) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [What Is Love? \(Deluxe Edition\)](https://open.spotify.com/album/1MvF4ulZKH7SaDQs9rE5nc) | 3:25 |
-| 83 | [Naked](https://open.spotify.com/track/7krbSH3rd8lhIZvuzTV3Bl) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Naked](https://open.spotify.com/album/6fQ1xPtYMzoBiqvSO2LcpT) | 3:54 |
+| 82 | [Naked](https://open.spotify.com/track/7krbSH3rd8lhIZvuzTV3Bl) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Naked](https://open.spotify.com/album/6fQ1xPtYMzoBiqvSO2LcpT) | 3:54 |
+| 83 | [I Miss You \(feat\. Julia Michaels\)](https://open.spotify.com/track/0Ult84lvFuqNvbyXwyRQ58) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [What Is Love? \(Deluxe Edition\)](https://open.spotify.com/album/1MvF4ulZKH7SaDQs9rE5nc) | 3:25 |
 | 84 | [Why](https://open.spotify.com/track/7lozLnUfzcgEpMMVQI7yhA) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [COSMIC](https://open.spotify.com/album/5EEkfRgfYHiFu0lGur6Z6M) | 2:28 |
 | 85 | [Where’s My Love \- Alternate Version](https://open.spotify.com/track/5IH7HQEWhToZnMQTZRzp1H) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Hurt for Me](https://open.spotify.com/album/6lwJbpuuA8wENZOuYDVRc8) | 4:08 |
 | 86 | [To Build A Home](https://open.spotify.com/track/3AqPL1n1wKc5DVFFnYuJhp) | [The Cinematic Orchestra](https://open.spotify.com/artist/32ogthv0BdaSMPml02X9YB), [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Ma Fleur](https://open.spotify.com/album/5VrMypyjjBGzObGwnEHIJO) | 6:10 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbrUpGvoi3TS.md) - [plain]
 | 94 | [Not Today](https://open.spotify.com/track/4kDTvLhGF29gFsqceuxBSC) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Me Before You \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3WT1mEcabGFCvUWpeN5dtq) | 4:21 |
 | 95 | [Goodbye My Lover](https://open.spotify.com/track/6gxycjJNMgmAyfzUXBN80P) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Back to Bedlam](https://open.spotify.com/album/1ekaxA9Q5GzUPCepx4wzMF) | 4:18 |
 | 96 | [Never Say Never](https://open.spotify.com/track/57uX2vR9j9DNiANDYfXw1i) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [The Fray](https://open.spotify.com/album/3ibdlhMmbFPMYoWvwHCzI3) | 4:16 |
-| 97 | [All Out of Love](https://open.spotify.com/track/7dQC53NiYOY9gKg3Qsu2Bs) | [Air Supply](https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW) | [Lost in Love](https://open.spotify.com/album/3fB2z5YtmKvSCu77Z3nTnW) | 4:03 |
-| 98 | [Say You Won't Let Go](https://open.spotify.com/track/1Pw5C4N6Fn5E4mGCxmbbVa) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Say You Won't Let Go](https://open.spotify.com/album/0BL67dR6x0CPU7B7J9P8qC) | 3:31 |
+| 97 | [Say You Won't Let Go](https://open.spotify.com/track/1Pw5C4N6Fn5E4mGCxmbbVa) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Say You Won't Let Go](https://open.spotify.com/album/0BL67dR6x0CPU7B7J9P8qC) | 3:31 |
+| 98 | [All Out of Love](https://open.spotify.com/track/7dQC53NiYOY9gKg3Qsu2Bs) | [Air Supply](https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW) | [Lost in Love](https://open.spotify.com/album/3fB2z5YtmKvSCu77Z3nTnW) | 4:03 |
 | 99 | [It's Ok If You Forget Me](https://open.spotify.com/track/312zSwwbPU7C3sTmro4Wx9) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [It's Ok If You Forget Me](https://open.spotify.com/album/2C91kmyDRWZdm0wR8dK1Wn) | 3:24 |
 | 100 | [I Would've](https://open.spotify.com/track/54obxWf8kRI8TGtbX52YyJ) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [I Would've](https://open.spotify.com/album/3cy5gh8dUmMuzMJNSiNq3U) | 2:30 |
 
-Snapshot ID: `MTY2Mjc0MzU0MiwwMDAwMDAwMGE5MzY2YzMzNTk5MTU2MWM3Y2VlNzY1OWRlMDZmMGVl`
+Snapshot ID: `MTY2Mjc0MzU0MiwwMDAwMDAwMDE3NWM2NWY4MGJlM2RiZTg2NTg5NmZhZWI0N2JiYmIz`

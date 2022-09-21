@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpQPPZq3F7n.md) - [plain]
 
 > Best Bollywood love songs from last 10 years\. Cover\- Arijit Singh
 
-[Spotify](https://open.spotify.com/user/spotify) - 623,591 likes - 92 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 624,213 likes - 92 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpQPPZq3F7n.md) - [plain]
 | 5 | [Bekhayali](https://open.spotify.com/track/4yMbbysldl7E3WgiaugnwM) | [Sachet Tandon](https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG) | [Kabir Singh](https://open.spotify.com/album/3uuu6u13U0KeVQsZ3CZKK4) | 6:11 |
 | 6 | [Galliyan Returns \(From "Ek Villain Returns"\)](https://open.spotify.com/track/2eTkxblLeqdTSsb2ivafDX) | [Ankit Tiwari](https://open.spotify.com/artist/0E02VcvA5p1ndkLdqWD5JB), [Manoj Muntashir](https://open.spotify.com/artist/4cAERazLlAzVGA10ORWaUP) | [Galliyan Returns \(From "Ek Villain Returns"\)](https://open.spotify.com/album/0vjQeipdlzH33n9vnCwAAD) | 5:50 |
 | 7 | [Tere Hawaale \(From "Laal Singh Chaddha"\)](https://open.spotify.com/track/4blqlsA1uf2d2I40E90EUC) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB) | [Tere Hawaale \(From "Laal Singh Chaddha"\)](https://open.spotify.com/album/1lZk7TnMgvS3mSlfeWW1b3) | 5:46 |
-| 8 | [Pehla Pyaar](https://open.spotify.com/track/0ojpEubhy4JNeVftmVuiN7) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs) | [Kabir Singh](https://open.spotify.com/album/3uuu6u13U0KeVQsZ3CZKK4) | 4:32 |
+| 8 | [Pehla Pyaar](https://open.spotify.com/track/0ojpEubhy4JNeVftmVuiN7) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507) | [Kabir Singh](https://open.spotify.com/album/3uuu6u13U0KeVQsZ3CZKK4) | 4:32 |
 | 9 | [Nain Ta Heere \(From "Jugjugg Jeeyo"\)](https://open.spotify.com/track/3NpbGCDrcQTERaZb5dHhd3) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES) | [Nain Ta Heere \(From "Jugjugg Jeeyo"\)](https://open.spotify.com/album/5D4Ku6tdcAdwiA38FgpgCP) | 3:36 |
 | 10 | [Fitoor](https://open.spotify.com/track/7eNSk0grNnO7MqjLZzs6MM) | [Mithoon](https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM), [Karan Malhotra](https://open.spotify.com/artist/77tAOnDaIyO7H70yxk3bMF) | [Shamshera](https://open.spotify.com/album/3jcMB9o34xcc9VlOyyZ1yx) | 5:08 |
 | 11 | [Naa Tere Bin \(From "Ek Villain Returns"\)](https://open.spotify.com/track/0d5tgymZ98ERrAm8v01ltg) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Altamash Faridi](https://open.spotify.com/artist/38IHJBGBuaYXHEkIQd4DtF) | [Naa Tere Bin \(From "Ek Villain Returns"\)](https://open.spotify.com/album/2m2oeKEj72BuuVp12p1bVc) | 6:11 |

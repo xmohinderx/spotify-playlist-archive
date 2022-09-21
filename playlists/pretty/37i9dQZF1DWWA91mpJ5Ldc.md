@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA91mpJ5Ldc.md) - [plain]
 
 > Música brasileira para temperar as receitas do dia\-a\-dia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,817 likes - 60 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,848 likes - 60 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,12 +61,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA91mpJ5Ldc.md) - [plain]
 | 51 | [DEPOIS DA TEMPESTADE}](https://open.spotify.com/track/6SD4P19dzQ0NyXWdCx8GAN) | [Marcelo D2](https://open.spotify.com/artist/1vEN3d3dJbmdHQpXD6AIkL), [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo), [Anna Majidson](https://open.spotify.com/artist/7jfJJuEsycOiEc2n4fCM7z) | [AMAR é para os FORTES](https://open.spotify.com/album/1wNvClMbVbPmoUsoFaASCK) | 4:14 |
 | 52 | [Trevo, Figuinha e Suor na Camisa](https://open.spotify.com/track/5XlSsxpTi0usJnQSUwBORk) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ) | [Trevo, Figuinha e Suor na Camisa](https://open.spotify.com/album/5AYV4MJslPN48xaab39ZuW) | 2:50 |
 | 53 | [O amor te dá](https://open.spotify.com/track/3x4niJ27HxoLK5JNLRZmSq) | [Amanda Magalhães](https://open.spotify.com/artist/5wQwhxkFXV3FVQcK8Jc0sO) | [O amor te dá](https://open.spotify.com/album/6qSldIF6nA00siaQqtfhFW) | 4:07 |
-| 54 | [Fim do Horizonte](https://open.spotify.com/track/7D3Kw5T7nQtM3Cg5jgNVeX) | [Diogo Nogueira](https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd), [Hamilton De Holanda](https://open.spotify.com/artist/5Bn4jYRlfMfbxVwfPDGeL8) | [Fim do Horizonte](https://open.spotify.com/album/46bYEuUXkQl7pL0p88TdgJ) | 3:20 |
-| 55 | [No Stress](https://open.spotify.com/track/2fIdSo9QPKWtlc29d9L0u3) | [Lamparina](https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z) | [ZAM ZAM](https://open.spotify.com/album/1e7w1jb3tAk4BRXZORhWa6) | 3:32 |
+| 54 | [No Stress](https://open.spotify.com/track/2fIdSo9QPKWtlc29d9L0u3) | [Lamparina](https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z) | [ZAM ZAM](https://open.spotify.com/album/1e7w1jb3tAk4BRXZORhWa6) | 3:32 |
+| 55 | [Fim do Horizonte](https://open.spotify.com/track/7D3Kw5T7nQtM3Cg5jgNVeX) | [Diogo Nogueira](https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd), [Hamilton De Holanda](https://open.spotify.com/artist/5Bn4jYRlfMfbxVwfPDGeL8) | [Fim do Horizonte](https://open.spotify.com/album/46bYEuUXkQl7pL0p88TdgJ) | 3:20 |
 | 56 | [Sem Medo](https://open.spotify.com/track/31YDFOH4f9fOhF0CGWEFds) | [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [Sem Medo](https://open.spotify.com/album/36P5zxfGnYSXock4EQgLcA) | 4:12 |
 | 57 | [Andar Sozinho \(feat\. Jão\)](https://open.spotify.com/track/6VgqKm7c4chTnDmyInAxPS) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD), [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [Andar Sozinho \(feat\. Jão\)](https://open.spotify.com/album/1hwlO0NqvY5Lpsynz93sVP) | 3:00 |
 | 58 | [Mais Uma de Carnaval](https://open.spotify.com/track/2xWRAo3t3gFZr05I9yC8WM) | [Gabriel Coelho](https://open.spotify.com/artist/6DsLWHhRTF9iOzDJ1UCELx) | [O Funk Mais Triste da Cidade](https://open.spotify.com/album/1xqqsPHIOiruUb2eDsQdYs) | 2:50 |
 | 59 | [Parafuso](https://open.spotify.com/track/6EEglMg2h3npZVTQQzIOeX) | [Qinhones](https://open.spotify.com/artist/0pcMoyp7o9Fv8sGMm9rjAU) | [Parafuso](https://open.spotify.com/album/76F6NYWGJgkqU3WbR9Mo3F) | 4:39 |
 | 60 | [Chororô](https://open.spotify.com/track/2Q8gzfsNUErbquwqiWGu9w) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Bom Mesmo É Estar Debaixo D'Água](https://open.spotify.com/album/72RsVQVhqVjyBfsTCThFpq) | 3:29 |
 
-Snapshot ID: `MTY2MjQ4NjA4OSwwMDAwMDAwMDEzOWMyZjFmYmZkYWFkYTVmNzhkODRhYTU0ZDkzODYw`
+Snapshot ID: `MTY2MjQ4NjA4OSwwMDAwMDAwMDQyODVkZmY2N2FjM2NkN2RkZmMyNjNhY2EzNTYxOGQz`

@@ -1,12 +1,12 @@
 {
   "description": "A taste of the very best bluegrass instrumentals, classic and new.",
-  "num_followers": 28967,
+  "num_followers": 29003,
   "original_name": "Instrumental Bluegrass",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTEwNjc3MCwwMDAwMDAwMDJjYjg4NTcwNzQ0MDQ0ODVjNzJjMTY5YWVjNDVmNGZl",
+  "snapshot_id": "MTY1OTEwNjc3MCwwMDAwMDAwMGVkYzk5ZWU5YzAyY2Q0YmMyOWI4NjEzMDk5OWFjZjI3",
   "tracks": [
     {
       "added_at": "2022-07-29 14:59:30",
@@ -423,26 +423,6 @@
     {
       "added_at": "2022-07-29 14:59:30",
       "album": {
-        "name": "The Good Things (Outweigh the Bad)",
-        "url": "https://open.spotify.com/album/1voTotVTiai2e9xjBTPtDE"
-      },
-      "artists": [
-        {
-          "name": "Curtis McPeake",
-          "url": "https://open.spotify.com/artist/4PwlAirxlCUyYvCvWf0Koi"
-        },
-        {
-          "name": "Andy May",
-          "url": "https://open.spotify.com/artist/29zPfTRdKbhHXnpHtyQPEO"
-        }
-      ],
-      "duration_ms": 84906,
-      "name": "Leather Britches",
-      "url": "https://open.spotify.com/track/1cT7M8Lov9kn4YmBOgOb4t"
-    },
-    {
-      "added_at": "2022-07-29 14:59:30",
-      "album": {
         "name": "The Harmonic Tone Revealers",
         "url": "https://open.spotify.com/album/12hPjsQFMQxay87boAV9jd"
       },
@@ -467,6 +447,26 @@
     {
       "added_at": "2022-07-29 14:59:30",
       "album": {
+        "name": "The Good Things (Outweigh the Bad)",
+        "url": "https://open.spotify.com/album/1voTotVTiai2e9xjBTPtDE"
+      },
+      "artists": [
+        {
+          "name": "Curtis McPeake",
+          "url": "https://open.spotify.com/artist/4PwlAirxlCUyYvCvWf0Koi"
+        },
+        {
+          "name": "Andy May",
+          "url": "https://open.spotify.com/artist/29zPfTRdKbhHXnpHtyQPEO"
+        }
+      ],
+      "duration_ms": 84906,
+      "name": "Leather Britches",
+      "url": "https://open.spotify.com/track/1cT7M8Lov9kn4YmBOgOb4t"
+    },
+    {
+      "added_at": "2022-07-29 14:59:30",
+      "album": {
         "name": "The Muscle Shoals Recordings",
         "url": "https://open.spotify.com/album/2QOn9dnvjzhGZoH90eCFYI"
       },
@@ -479,30 +479,6 @@
       "duration_ms": 167320,
       "name": "California Chainshaw",
       "url": "https://open.spotify.com/track/2V0iY3RWF0AngxKR5ZJA8c"
-    },
-    {
-      "added_at": "2022-07-29 14:59:30",
-      "album": {
-        "name": "Uncommon Ritual",
-        "url": "https://open.spotify.com/album/1RbHExhYXBvSng2iSUTibx"
-      },
-      "artists": [
-        {
-          "name": "Edgar Meyer",
-          "url": "https://open.spotify.com/artist/7jkhwa4XMe9XSt1r0AWNqD"
-        },
-        {
-          "name": "Mike Marshall",
-          "url": "https://open.spotify.com/artist/2WJmZq6fEmecdQVd3s38jE"
-        },
-        {
-          "name": "B\u00e9la Fleck",
-          "url": "https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU"
-        }
-      ],
-      "duration_ms": 281146,
-      "name": "Sliding Down",
-      "url": "https://open.spotify.com/track/6i3ZOSknAlWQcjkW8gVD1W"
     },
     {
       "added_at": "2022-07-29 14:59:30",
@@ -527,6 +503,30 @@
       "duration_ms": 483442,
       "name": "Charm School (feat. Billy Strings & Chris Thile)",
       "url": "https://open.spotify.com/track/7hpdC8tS3uHgsChnhduQy4"
+    },
+    {
+      "added_at": "2022-07-29 14:59:30",
+      "album": {
+        "name": "Uncommon Ritual",
+        "url": "https://open.spotify.com/album/1RbHExhYXBvSng2iSUTibx"
+      },
+      "artists": [
+        {
+          "name": "Edgar Meyer",
+          "url": "https://open.spotify.com/artist/7jkhwa4XMe9XSt1r0AWNqD"
+        },
+        {
+          "name": "Mike Marshall",
+          "url": "https://open.spotify.com/artist/2WJmZq6fEmecdQVd3s38jE"
+        },
+        {
+          "name": "B\u00e9la Fleck",
+          "url": "https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU"
+        }
+      ],
+      "duration_ms": 281146,
+      "name": "Sliding Down",
+      "url": "https://open.spotify.com/track/6i3ZOSknAlWQcjkW8gVD1W"
     },
     {
       "added_at": "2022-07-29 14:59:30",
@@ -671,22 +671,6 @@
     {
       "added_at": "2022-07-29 14:59:30",
       "album": {
-        "name": "Nickel Creek",
-        "url": "https://open.spotify.com/album/5SGG7graQOU3OnK3cZZCNd"
-      },
-      "artists": [
-        {
-          "name": "Nickel Creek",
-          "url": "https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ"
-        }
-      ],
-      "duration_ms": 274200,
-      "name": "Robin And Marian",
-      "url": "https://open.spotify.com/track/2gfaYVBsjZrtXRTyy5ETMX"
-    },
-    {
-      "added_at": "2022-07-29 14:59:30",
-      "album": {
         "name": "Genuine Negro Jig",
         "url": "https://open.spotify.com/album/7gXh0cuAlgJhr9sr3bi3l9"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 154946,
       "name": "Peace Behind the Bridge",
       "url": "https://open.spotify.com/track/2zPgQOAfxCdfINZFtnPrHc"
+    },
+    {
+      "added_at": "2022-07-29 14:59:30",
+      "album": {
+        "name": "Nickel Creek",
+        "url": "https://open.spotify.com/album/5SGG7graQOU3OnK3cZZCNd"
+      },
+      "artists": [
+        {
+          "name": "Nickel Creek",
+          "url": "https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ"
+        }
+      ],
+      "duration_ms": 274200,
+      "name": "Robin And Marian",
+      "url": "https://open.spotify.com/track/2gfaYVBsjZrtXRTyy5ETMX"
     },
     {
       "added_at": "2022-07-29 14:59:30",
@@ -887,22 +887,6 @@
     {
       "added_at": "2022-07-29 14:59:30",
       "album": {
-        "name": "Looking Glass",
-        "url": "https://open.spotify.com/album/0nd3gtvbvmPtuvxrdZRTvV"
-      },
-      "artists": [
-        {
-          "name": "Chris Pandolfi",
-          "url": "https://open.spotify.com/artist/4E2ihSyxntkEapwROYzDfI"
-        }
-      ],
-      "duration_ms": 273586,
-      "name": "Winnipeg",
-      "url": "https://open.spotify.com/track/2AFe9bgmBAyaWnl7ji20wJ"
-    },
-    {
-      "added_at": "2022-07-29 14:59:30",
-      "album": {
         "name": "Viridian",
         "url": "https://open.spotify.com/album/4qLx6Y6blODXRNMFyuRHN2"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 126093,
       "name": "Su Prabhat",
       "url": "https://open.spotify.com/track/0jxVlg0ULpuQ0rJP81KzWN"
+    },
+    {
+      "added_at": "2022-07-29 14:59:30",
+      "album": {
+        "name": "Looking Glass",
+        "url": "https://open.spotify.com/album/0nd3gtvbvmPtuvxrdZRTvV"
+      },
+      "artists": [
+        {
+          "name": "Chris Pandolfi",
+          "url": "https://open.spotify.com/artist/4E2ihSyxntkEapwROYzDfI"
+        }
+      ],
+      "duration_ms": 273586,
+      "name": "Winnipeg",
+      "url": "https://open.spotify.com/track/2AFe9bgmBAyaWnl7ji20wJ"
     },
     {
       "added_at": "2022-07-29 14:59:30",
@@ -987,22 +987,6 @@
     {
       "added_at": "2022-07-29 14:59:30",
       "album": {
-        "name": "Frost On The Pumpkin",
-        "url": "https://open.spotify.com/album/3tGGJ6PaBqUVQYJlVRtxbu"
-      },
-      "artists": [
-        {
-          "name": "Kenny Baker",
-          "url": "https://open.spotify.com/artist/2hdWa1ITLNBBtU5CM0m2Jg"
-        }
-      ],
-      "duration_ms": 153066,
-      "name": "Back Up And Push",
-      "url": "https://open.spotify.com/track/7au8g5pl9gJiivYFhua16z"
-    },
-    {
-      "added_at": "2022-07-29 14:59:30",
-      "album": {
         "name": "Church Street Blues",
         "url": "https://open.spotify.com/album/2ikwlUUIe2EiOO2gDZjOJb"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 207440,
       "name": "Jerusalem Ridge",
       "url": "https://open.spotify.com/track/2I38eMHKtOsIFUMWebyHj7"
+    },
+    {
+      "added_at": "2022-07-29 14:59:30",
+      "album": {
+        "name": "Frost On The Pumpkin",
+        "url": "https://open.spotify.com/album/3tGGJ6PaBqUVQYJlVRtxbu"
+      },
+      "artists": [
+        {
+          "name": "Kenny Baker",
+          "url": "https://open.spotify.com/artist/2hdWa1ITLNBBtU5CM0m2Jg"
+        }
+      ],
+      "duration_ms": 153066,
+      "name": "Back Up And Push",
+      "url": "https://open.spotify.com/track/7au8g5pl9gJiivYFhua16z"
     },
     {
       "added_at": "2022-07-29 14:59:30",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2022-07-29 14:59:30",
       "album": {
-        "name": "Eight String Swing",
-        "url": "https://open.spotify.com/album/3fPI8UL5aLLva5uvdK8OB6"
-      },
-      "artists": [
-        {
-          "name": "Mike Auldridge",
-          "url": "https://open.spotify.com/artist/2zsStamnZC4eP7rHxSN4Kh"
-        }
-      ],
-      "duration_ms": 212533,
-      "name": "Bluegrass Boogie",
-      "url": "https://open.spotify.com/track/6kuhS6WiS7Qd2RaUyEJnw5"
-    },
-    {
-      "added_at": "2022-07-29 14:59:30",
-      "album": {
         "name": "Songs For The Sparrows",
         "url": "https://open.spotify.com/album/4dRUKAQWlfGK9AlmsJlS78"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 269733,
       "name": "Big Mountain",
       "url": "https://open.spotify.com/track/7AcJDi9pjGHLE1OMiWmLED"
+    },
+    {
+      "added_at": "2022-07-29 14:59:30",
+      "album": {
+        "name": "Eight String Swing",
+        "url": "https://open.spotify.com/album/3fPI8UL5aLLva5uvdK8OB6"
+      },
+      "artists": [
+        {
+          "name": "Mike Auldridge",
+          "url": "https://open.spotify.com/artist/2zsStamnZC4eP7rHxSN4Kh"
+        }
+      ],
+      "duration_ms": 212533,
+      "name": "Bluegrass Boogie",
+      "url": "https://open.spotify.com/track/6kuhS6WiS7Qd2RaUyEJnw5"
     },
     {
       "added_at": "2022-07-29 14:59:30",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2022-07-29 14:59:30",
       "album": {
-        "name": "30 Turkeys",
-        "url": "https://open.spotify.com/album/5A3GlnJs11WNlVZKh3uY5a"
-      },
-      "artists": [
-        {
-          "name": "Kid Reverie",
-          "url": "https://open.spotify.com/artist/3tVmhIQs33VcCxWIQrmvea"
-        }
-      ],
-      "duration_ms": 140970,
-      "name": "30 Turkeys",
-      "url": "https://open.spotify.com/track/4vEFH6wGu3wRW1lLqfsGex"
-    },
-    {
-      "added_at": "2022-07-29 14:59:30",
-      "album": {
         "name": "Fork In The Road",
         "url": "https://open.spotify.com/album/3u5KHo4q2j8QEsp1mePjes"
       },
@@ -1747,6 +1731,22 @@
       "duration_ms": 288480,
       "name": "No Resolution",
       "url": "https://open.spotify.com/track/1ZkurUyIfW1wESFJp7GXgK"
+    },
+    {
+      "added_at": "2022-07-29 14:59:30",
+      "album": {
+        "name": "30 Turkeys",
+        "url": "https://open.spotify.com/album/5A3GlnJs11WNlVZKh3uY5a"
+      },
+      "artists": [
+        {
+          "name": "Kid Reverie",
+          "url": "https://open.spotify.com/artist/3tVmhIQs33VcCxWIQrmvea"
+        }
+      ],
+      "duration_ms": 140970,
+      "name": "30 Turkeys",
+      "url": "https://open.spotify.com/track/4vEFH6wGu3wRW1lLqfsGex"
     },
     {
       "added_at": "2022-07-29 14:59:30",

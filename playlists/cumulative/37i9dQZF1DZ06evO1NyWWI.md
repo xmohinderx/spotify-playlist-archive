@@ -4,7 +4,7 @@
 
 > This is Led Zeppelin\. The essential tracks, all in one playlist.
 
-48 songs - 4 hr 20 min - [published](https://open.spotify.com/playlist/6OyGGI0mByRxUfkjVIHD2W)
+49 songs - 4 hr 21 min - [published](https://open.spotify.com/playlist/6OyGGI0mByRxUfkjVIHD2W)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Kashmir \- Remaster](https://open.spotify.com/track/6Vjk8MNXpQpi0F4BefdTyq) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Physical Graffiti \(Deluxe Edition\)](https://open.spotify.com/album/26tH0kjUhkxBEd3ipGkx3Y) | 8:37 | 2022-09-17 |  |
 | [Living Loving Maid \(She's Just a Woman\) \- Remaster](https://open.spotify.com/track/49C6EGQhCUSgyADHYvJ7ez) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin II \(Remaster\)](https://open.spotify.com/album/58MQ0PLijVHePUonQlK76Y) | 2:39 | 2022-09-17 |  |
 | [Misty Mountain Hop \- Remaster](https://open.spotify.com/track/5NnZ4JJxWiqqhYNu3rwmFj) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin IV \(Deluxe Edition\)](https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK) | 4:38 | 2022-09-17 |  |
+| [Moby Dick \- Intro / Outro Rough Mix](https://open.spotify.com/track/4lZjT7PLaWPIcm2InIDU2k) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin II \(Deluxe Edition\)](https://open.spotify.com/album/58N1RPC3B4mRkjBaug4u3X) | 1:38 | 2022-09-20 |  |
 | [No Quarter \- Remaster](https://open.spotify.com/track/0GRBFjza23Im7Xb16c9AaK) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Houses of the Holy \(Remaster\)](https://open.spotify.com/album/0GqpoHJREPp0iuXK3HzrHk) | 7:02 | 2022-09-17 |  |
 | [Nobody's Fault but Mine \- Remaster](https://open.spotify.com/track/6unmtLYQ2LQ1Cg4IdAiU9g) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Presence \(Remaster\)](https://open.spotify.com/album/3uhD8hNpb0m3iIZ18RHH5u) | 6:28 | 2022-09-17 |  |
 | [Out on the Tiles \- Remaster](https://open.spotify.com/track/6fxcpQMUoX0ofnbIHVnVWN) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin III \(Remaster\)](https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut) | 4:07 | 2022-09-17 |  |

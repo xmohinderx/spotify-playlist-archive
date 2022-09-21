@@ -1,12 +1,12 @@
 {
   "description": "Underground dance and alternative that went on to define a new millennium.",
-  "num_followers": 67919,
+  "num_followers": 67986,
   "original_name": "Generation Electronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDkxNjc2OCwwMDAwMDAwMGUxZjg0YzliNGNjMWRmNDBhOTI2M2NlYzQ3OWRkNDli",
+  "snapshot_id": "MTY1MDkxNjc2OCwwMDAwMDAwMGVmZjcyOTJmYmU0NzNiM2RiMGZiMjczNDEzNTM4OTQ2",
   "tracks": [
     {
       "added_at": "2021-07-14 17:36:34",
@@ -775,22 +775,6 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Republica",
-        "url": "https://open.spotify.com/album/5KIb3c4z28CHa5snztEMNK"
-      },
-      "artists": [
-        {
-          "name": "Republica",
-          "url": "https://open.spotify.com/artist/06YQ6XwCdPUn8rAXV70gge"
-        }
-      ],
-      "duration_ms": 301066,
-      "name": "Ready to Go",
-      "url": "https://open.spotify.com/track/5Qt8U8Suu7MFH1VcJr17Td"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
         "name": "Red Alert",
         "url": "https://open.spotify.com/album/60O0wPhfgkZGGKTJho6bHS"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 218026,
       "name": "Red Alert - Jaxx Radio Mix",
       "url": "https://open.spotify.com/track/0Z3Y5cWOPaXIBI08KKDVTO"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "Republica",
+        "url": "https://open.spotify.com/album/5KIb3c4z28CHa5snztEMNK"
+      },
+      "artists": [
+        {
+          "name": "Republica",
+          "url": "https://open.spotify.com/artist/06YQ6XwCdPUn8rAXV70gge"
+        }
+      ],
+      "duration_ms": 301066,
+      "name": "Ready to Go",
+      "url": "https://open.spotify.com/track/5Qt8U8Suu7MFH1VcJr17Td"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -923,22 +923,6 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Leftism",
-        "url": "https://open.spotify.com/album/6Hh2XrY2Yuse8omAzSabdp"
-      },
-      "artists": [
-        {
-          "name": "Leftfield",
-          "url": "https://open.spotify.com/artist/72hqBMsw7x5jnfxxwkii8L"
-        }
-      ],
-      "duration_ms": 411466,
-      "name": "Open Up - Remastered",
-      "url": "https://open.spotify.com/track/4rNidGxbfF294K7RzRNIRo"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
         "name": "Version 2.0 (20th Anniversary Deluxe Edition / Remastered)",
         "url": "https://open.spotify.com/album/3poVlFX7lPm5Q7XKsOGEwk"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 242533,
       "name": "Push It",
       "url": "https://open.spotify.com/track/6fVnRxwxVL7RavAGTVrNxW"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "Leftism",
+        "url": "https://open.spotify.com/album/6Hh2XrY2Yuse8omAzSabdp"
+      },
+      "artists": [
+        {
+          "name": "Leftfield",
+          "url": "https://open.spotify.com/artist/72hqBMsw7x5jnfxxwkii8L"
+        }
+      ],
+      "duration_ms": 411466,
+      "name": "Open Up - Remastered",
+      "url": "https://open.spotify.com/track/4rNidGxbfF294K7RzRNIRo"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "808:88:98",
-        "url": "https://open.spotify.com/album/6EnSysBL3MNcB0o8BUfPh3"
-      },
-      "artists": [
-        {
-          "name": "808 State",
-          "url": "https://open.spotify.com/artist/7hFdUW64G4iU1tz46ITRfN"
-        }
-      ],
-      "duration_ms": 233906,
-      "name": "Pacific 707",
-      "url": "https://open.spotify.com/track/2riROGFV3u0vtPnUT1z9Sc"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
         "name": "Pre Millennium Tension",
         "url": "https://open.spotify.com/album/540zw9ShTu9bsY984xS3Hu"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 241000,
       "name": "Makes Me Wanna Die",
       "url": "https://open.spotify.com/track/385DxV3uLG88GaCUsyCyrX"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "808:88:98",
+        "url": "https://open.spotify.com/album/6EnSysBL3MNcB0o8BUfPh3"
+      },
+      "artists": [
+        {
+          "name": "808 State",
+          "url": "https://open.spotify.com/artist/7hFdUW64G4iU1tz46ITRfN"
+        }
+      ],
+      "duration_ms": 233906,
+      "name": "Pacific 707",
+      "url": "https://open.spotify.com/track/2riROGFV3u0vtPnUT1z9Sc"
     },
     {
       "added_at": "2021-07-14 17:36:34",

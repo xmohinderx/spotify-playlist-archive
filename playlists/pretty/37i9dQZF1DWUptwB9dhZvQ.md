@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUptwB9dhZvQ.md) - [plain]
 
 > Its time to relish the Best Themes of Kollywood!<br/>Cover : Vikram
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,442 likes - 79 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,528 likes - 79 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,11 +62,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUptwB9dhZvQ.md) - [plain]
 | 52 | [Amar & Gayathri \- Background Score](https://open.spotify.com/track/6YtHohwPmsWkr3hSCzX7uA) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 1:22 |
 | 53 | [The Dilli Connect \- Background Score](https://open.spotify.com/track/1BlJlzeCt2VPVdQMLXRe8y) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 1:21 |
 | 54 | [Agent Tina \- Background Score](https://open.spotify.com/track/60c709iT1oiukRh6eR7K0K) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 0:45 |
-| 55 | [What's Cookin? \- Background Score](https://open.spotify.com/track/3oWVw2H0cMJwsxLEKboZy4) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 1:19 |
-| 56 | [Master the Blaster \- Background Score](https://open.spotify.com/track/4BRWG0mQqol30OG5xLIplN) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Master \(Original Background Score\)](https://open.spotify.com/album/4iFurFyAPhOlzwQTc5aXN2) | 1:32 |
+| 55 | [Master the Blaster \- Background Score](https://open.spotify.com/track/4BRWG0mQqol30OG5xLIplN) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Master \(Original Background Score\)](https://open.spotify.com/album/4iFurFyAPhOlzwQTc5aXN2) | 1:32 |
+| 56 | [What's Cookin? \- Background Score](https://open.spotify.com/track/3oWVw2H0cMJwsxLEKboZy4) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 1:19 |
 | 57 | [Prabanjan Theme \- Background Score](https://open.spotify.com/track/0PHhtgecVrG1HhJ5viLLIG) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 2:56 |
-| 58 | [Beat of Master \- Instrumental](https://open.spotify.com/track/7wQR696XF4L91Zr9groP8v) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Master \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/11YJfivZjEaEUU9lJmeidh) | 1:15 |
-| 59 | [Petta Theme \- From "Petta"](https://open.spotify.com/track/5fyz50nzC0a96r7UAd2Y5f) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Petta \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3NAMtgP845mM6cJjYDYy1g) | 1:46 |
+| 58 | [Petta Theme \- From "Petta"](https://open.spotify.com/track/5fyz50nzC0a96r7UAd2Y5f) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Petta \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3NAMtgP845mM6cJjYDYy1g) | 1:46 |
+| 59 | [Beat of Master \- Instrumental](https://open.spotify.com/track/7wQR696XF4L91Zr9groP8v) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Master \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/11YJfivZjEaEUU9lJmeidh) | 1:15 |
 | 60 | [Sound of Vikram \- Background Score](https://open.spotify.com/track/6jjovlKoKmt38bF4XJJc0s) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 3:04 |
 | 61 | [Vikram Vs Sandhanam \- Background Score](https://open.spotify.com/track/5frxBSvM4SrWVDH6Pn2ekQ) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 2:10 |
 | 62 | [The Name is Vikram \- Background Score](https://open.spotify.com/track/0rMCafW7oH94gTtArlESWU) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 0:49 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUptwB9dhZvQ.md) - [plain]
 | 78 | [Bad Eyes… Villain Theme](https://open.spotify.com/track/2yrMtqr4Sv8Oqv7wskQLVk) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Kaththi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2qFqhre2weJ6I4kcVMomtH) | 1:27 |
 | 79 | [Manmadhan Theme Music](https://open.spotify.com/track/3v3a6pzDuXm1FBvbEf0XgL) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Manmadhan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0xAqOpePLMt4LOwoS41dBl) | 1:23 |
 
-Snapshot ID: `MTY2MzA0NzQ2MywwMDAwMDAwMDExNjQwNGNkM2MxMjU2MTUxNDk0MTZmOGM2ZjFjZjFm`
+Snapshot ID: `MTY2MzA0NzQ2MywwMDAwMDAwMDhhODEzMWNiMTg4YmRmNDBlM2EwNTQxNzk4YzlmZjIx`

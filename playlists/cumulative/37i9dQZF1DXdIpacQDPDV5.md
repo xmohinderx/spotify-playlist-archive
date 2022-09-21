@@ -4,7 +4,7 @@
 
 > The best of today's dance hits\. Cover: Rochelle Jordan
 
-469 songs - 1 day 2 hr 33 min - [published](https://open.spotify.com/playlist/1PEHoMgddwKvz8RvsLstCM)
+470 songs - 1 day 2 hr 38 min - [published](https://open.spotify.com/playlist/1PEHoMgddwKvz8RvsLstCM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [Al Boomer's Lounge](https://open.spotify.com/track/5XkNlLfzV9DHWKVlw9Mu8a) | [Honeydripper](https://open.spotify.com/artist/0NSnMsVaDmZlhgEb9jIGu7) | [Al Boomer's Lounge](https://open.spotify.com/album/29XUzzBVAOWS8UvzhtP6tJ) | 5:58 | 2022-07-08 | 2022-07-30 |
 | [Alive](https://open.spotify.com/track/3mt7fgvyK0ND6mI02bgb0c) | [Steve Kroeger](https://open.spotify.com/artist/3RuKMixE6jnuXqEx1Jy1om), [Madeleine Daye](https://open.spotify.com/artist/664JRDNrKUkhpMSQBykiXD) | [Alive](https://open.spotify.com/album/3ONdVw5rchTT3gLfJUYSdy) | 2:36 | 2022-04-01 | 2022-05-28 |
 | [Alive \(with Calle Lehmann\)](https://open.spotify.com/track/4deWlPS9a4WH2UmdvsamrB) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Calle Lehmann](https://open.spotify.com/artist/2QeNM65b7IWvK4Ofcqz8cm) | [Alive \(with Calle Lehmann\)](https://open.spotify.com/album/5JqV9qFpXtCtQkbUrzJ3ws) | 3:42 | 2022-05-06 | 2022-06-26 |
-| [All Along \(Kaytranada Remix\)](https://open.spotify.com/track/35WIVWDcONu3B64ZcYbPX6) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [All Along \(Kaytranada Remix\)](https://open.spotify.com/album/3UtKaTe3ZGpNo0cVdffTCi) | 4:44 | 2022-09-16 |  |
+| [All Along \(Kaytranada Remix\)](https://open.spotify.com/track/35WIVWDcONu3B64ZcYbPX6) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [All Along \(Kaytranada Remix\)](https://open.spotify.com/album/3UtKaTe3ZGpNo0cVdffTCi) | 4:44 | 2022-09-16 | 2022-09-21 |
+| [All Along \(Kaytranada Remix\)](https://open.spotify.com/track/3fTwZdX5X3BIsdEJvai7Be) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Play With The Changes \(Remixed\)](https://open.spotify.com/album/3fMIqhERSssKur9QOqa5X1) | 4:44 | 2022-09-16 |  |
 | [All Night & Every Day](https://open.spotify.com/track/6uMw8SDp0npgOKO0pbmmPZ) | [Jonasu](https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT), [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [All Night & Every Day](https://open.spotify.com/album/6ASUfky1E9CzfEAC8WDSSg) | 2:26 | 2022-04-29 | 2022-07-09 |
 | [All That Really Matters](https://open.spotify.com/track/5zviMoAeuerK1Rd58qXASv) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [All That Really Matters](https://open.spotify.com/album/2OW7PzcHkPrB2fY0fLvx4Q) | 4:04 | 2022-08-05 |  |
 | [all the bands](https://open.spotify.com/track/6lWOSug1EA1BMXlrE567x2) | [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b), [Charlie Heat](https://open.spotify.com/artist/0bbguzUos4LO6NikkdXdzw) | [all the bands](https://open.spotify.com/album/2uDiNQ5tLIw7M1Qu682asm) | 2:21 | 2022-06-24 | 2022-07-30 |

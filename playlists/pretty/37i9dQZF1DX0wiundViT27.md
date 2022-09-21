@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wiundViT27.md) - [plain]
 
 > A dose of high\-energy, feel\-good rock tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 611,858 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 611,874 likes - 75 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wiundViT27.md) - [plain]
 | 35 | [Won’t Stand Down](https://open.spotify.com/track/6hIr2IDeBDXfRFk0rYe5Tz) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Won’t Stand Down](https://open.spotify.com/album/3bbeAIMaGSW6gUMeGqw5VS) | 3:29 |
 | 36 | [Let The Bad Times Roll](https://open.spotify.com/track/0O2UONKvVfdwDyefKh5Yo1) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Let The Bad Times Roll \(Deluxe Edition\)](https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm) | 3:18 |
 | 37 | [The Way You Used To Do](https://open.spotify.com/track/52LL3IFB8N3PaJmoZ8Xii1) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Villains](https://open.spotify.com/album/7vuIN24G18PAUAvjnICyA6) | 4:34 |
-| 38 | [Natural Born Killer](https://open.spotify.com/track/78wMThFTNKThsWq19o0F1H) | [Highly Suspect](https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg) | [Natural Born Killer/Pink Lullabye](https://open.spotify.com/album/379z7WiokF2pa4kKUgVjRF) | 3:16 |
-| 39 | [The Hand That Feeds](https://open.spotify.com/track/5ugzDiilhy6ILKmKfhEzd7) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [With Teeth](https://open.spotify.com/album/56Us3Q6UIM4jKJZlWhqddL) | 3:31 |
+| 38 | [The Hand That Feeds](https://open.spotify.com/track/5ugzDiilhy6ILKmKfhEzd7) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [With Teeth](https://open.spotify.com/album/56Us3Q6UIM4jKJZlWhqddL) | 3:31 |
+| 39 | [Natural Born Killer](https://open.spotify.com/track/78wMThFTNKThsWq19o0F1H) | [Highly Suspect](https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg) | [Natural Born Killer/Pink Lullabye](https://open.spotify.com/album/379z7WiokF2pa4kKUgVjRF) | 3:16 |
 | 40 | [Fallout](https://open.spotify.com/track/2JBk2XZLjS0N4x3mFHINM6) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Fallout](https://open.spotify.com/album/74K2vGYMdCCO29n4s4Y41h) | 3:14 |
 | 41 | [MYSTERY](https://open.spotify.com/track/5iXnD2VizcAbErpkcuNQ6I) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [GLOW ON](https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS) | 2:35 |
 | 42 | [Bored To Death](https://open.spotify.com/track/44TuSOP6xIAEeJmZsN3nXO) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [California](https://open.spotify.com/album/4wuYQ9hyF1EGmrtjMpgpE9) | 3:55 |
@@ -56,13 +56,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wiundViT27.md) - [plain]
 | 46 | [Run For Cover](https://open.spotify.com/track/5NAiPIEzxAexFE3ucV18Q8) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Wonderful Wonderful](https://open.spotify.com/album/72ZfMxLCPG8mlWC0TXfZQi) | 3:42 |
 | 47 | [Karma](https://open.spotify.com/track/7vXtuHrqgzQi58ihUO7L2d) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG) | [Internet Killed The Rockstar](https://open.spotify.com/album/2XeTY6zdUIUfItgZxXKsiO) | 2:39 |
 | 48 | [Ramon Ayala](https://open.spotify.com/track/7oRlqeavsFnEtKoUueqyiL) | [Giovannie and the Hired Guns](https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94) | [Ramon Ayala](https://open.spotify.com/album/0uDXEh8zPFRjAGizuol1EI) | 2:48 |
-| 49 | [Life's Coming in Slow \- from GRAN TURISMO 7](https://open.spotify.com/track/24SyVpif5eshcNmLKdvOcj) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Life's Coming in Slow \(from GRAN TURISMO 7\)](https://open.spotify.com/album/6SCFmqcXOVneLBo6eks8k1) | 2:49 |
-| 50 | [Don't Miss](https://open.spotify.com/track/1XS9ZXy3Z17ptOVRO3i02e) | [The Blue Stones](https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC) | [Don't Miss](https://open.spotify.com/album/5yHrrUGbMoZxefRxJY1LN9) | 3:06 |
-| 51 | [indieedgycool](https://open.spotify.com/track/7nl5O8gRhQBCZUv3WHFxoV) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [indieedgycool](https://open.spotify.com/album/4QmiBPsOgNxhjYrbDSaFhQ) | 2:26 |
-| 52 | [hometown](https://open.spotify.com/track/6p8DGrcAUBuLUgDIKcUn0P) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [hometown](https://open.spotify.com/album/3vYwarsz5qWMYHL3B9b5ni) | 4:16 |
+| 49 | [Don't Miss](https://open.spotify.com/track/1XS9ZXy3Z17ptOVRO3i02e) | [The Blue Stones](https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC) | [Don't Miss](https://open.spotify.com/album/5yHrrUGbMoZxefRxJY1LN9) | 3:06 |
+| 50 | [Life's Coming in Slow \- from GRAN TURISMO 7](https://open.spotify.com/track/24SyVpif5eshcNmLKdvOcj) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Life's Coming in Slow \(from GRAN TURISMO 7\)](https://open.spotify.com/album/6SCFmqcXOVneLBo6eks8k1) | 2:49 |
+| 51 | [hometown](https://open.spotify.com/track/6p8DGrcAUBuLUgDIKcUn0P) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [hometown](https://open.spotify.com/album/3vYwarsz5qWMYHL3B9b5ni) | 4:16 |
+| 52 | [indieedgycool](https://open.spotify.com/track/7nl5O8gRhQBCZUv3WHFxoV) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [indieedgycool](https://open.spotify.com/album/4QmiBPsOgNxhjYrbDSaFhQ) | 2:26 |
 | 53 | [you're not special](https://open.spotify.com/track/6Mc1snn8uClt3FzkUREymB) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [you're not special](https://open.spotify.com/album/7vvGNS9MRPrzfi0cHbDeQC) | 2:46 |
-| 54 | [Eye of the Storm](https://open.spotify.com/track/0TTSQeJnGnpCxX7LWsdD9F) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [Eye of the Storm](https://open.spotify.com/album/6qqCXmeilVuyFxSaOpp59b) | 3:54 |
-| 55 | [TIRED OF WINNING](https://open.spotify.com/track/0PZrUz3FLIkW8j7GaFbYBO) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [TIRED OF WINNING](https://open.spotify.com/album/7zH2ySKpWjzJHX76zWG7SY) | 3:26 |
+| 54 | [TIRED OF WINNING](https://open.spotify.com/track/0PZrUz3FLIkW8j7GaFbYBO) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [TIRED OF WINNING](https://open.spotify.com/album/7zH2ySKpWjzJHX76zWG7SY) | 3:26 |
+| 55 | [Eye of the Storm](https://open.spotify.com/track/0TTSQeJnGnpCxX7LWsdD9F) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [Eye of the Storm](https://open.spotify.com/album/6qqCXmeilVuyFxSaOpp59b) | 3:54 |
 | 56 | [My Body](https://open.spotify.com/track/1KDYN3odJHnj9pqGHN3FVs) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [Young The Giant \(Special Edition\)](https://open.spotify.com/album/2ww7MYrkExsljnKhcINDse) | 4:04 |
 | 57 | [Kill The Noise](https://open.spotify.com/track/3xr0ZIYqXVKogVu00fJRBX) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Kill The Noise](https://open.spotify.com/album/5Ob0D7DLOzpHe0KcZb67Ky) | 3:08 |
 | 58 | [Planet Zero](https://open.spotify.com/track/3GL1RQKHV0TDRq8EXHMhGq) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Planet Zero](https://open.spotify.com/album/2p732bJ3OshHkiQGJfz1Jo) | 3:42 |
@@ -70,18 +70,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wiundViT27.md) - [plain]
 | 60 | [Hated](https://open.spotify.com/track/2NRa4W3rH4e5GKQMN5Qwyr) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Aggressive](https://open.spotify.com/album/5nQE80zQR1NqKDBo4oE4EJ) | 3:31 |
 | 61 | [Records](https://open.spotify.com/track/23ZmKlucJRQrdR0QItAafL) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [SZNZ: Summer](https://open.spotify.com/album/1DvBf2E2OgU8HAjgInLT6H) | 3:28 |
 | 62 | [Bang Bang](https://open.spotify.com/track/278Ao6KQDxWGGszv24uvhI) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Revolution Radio](https://open.spotify.com/album/5a3LqvNt2nv1B4aRKXmgOV) | 3:25 |
-| 63 | [Typhoons](https://open.spotify.com/track/5aFGo8wHEntVxFI8IF7Wuj) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Typhoons](https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi) | 3:56 |
-| 64 | [Foxglove](https://open.spotify.com/track/3kpW19uTVTQF9EYJ9jhIOG) | [Boston Manor](https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM) | [Foxglove](https://open.spotify.com/album/0l684ODdBRRFtnBrNn6wSd) | 3:38 |
+| 63 | [Foxglove](https://open.spotify.com/track/3kpW19uTVTQF9EYJ9jhIOG) | [Boston Manor](https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM) | [Foxglove](https://open.spotify.com/album/0l684ODdBRRFtnBrNn6wSd) | 3:38 |
+| 64 | [Typhoons](https://open.spotify.com/track/5aFGo8wHEntVxFI8IF7Wuj) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Typhoons](https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi) | 3:56 |
 | 65 | [Everything's Electric](https://open.spotify.com/track/63JU4kHsgytIKkSM4tedme) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9) | [Everything's Electric](https://open.spotify.com/album/2Dqayfhl6Eow6nsHBXTXM3) | 3:36 |
 | 66 | [Something Loud](https://open.spotify.com/track/5wZK0hHduZpjWWoT0rq9p4) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Something Loud](https://open.spotify.com/album/07jTFwFWX1boeyv2mTmtx1) | 3:16 |
 | 67 | [Bloodfeather](https://open.spotify.com/track/66Avcq6c51vcMGXLzHH5d7) | [Highly Suspect](https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg) | [Mister Asylum](https://open.spotify.com/album/7wGLeeJt18EBjc181FP2cM) | 3:54 |
-| 68 | [•NOTDEAD!•](https://open.spotify.com/track/1c30r2e9SgkvjikuJBR7ms) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [•NOTDEAD!•](https://open.spotify.com/album/3wSkJjnc6ayPUKr8X8ucUK) | 3:10 |
-| 69 | [Be Legendary](https://open.spotify.com/track/3pOMQhSSzx6IZ96kMef6i1) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [Pop Evil](https://open.spotify.com/album/5F9U13GyT071nXmYf13VI9) | 3:23 |
-| 70 | [Freeze Me](https://open.spotify.com/track/50jXnyrzW4mcBBqFTMEoAC) | [Death From Above 1979](https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj) | [Outrage! Is Now](https://open.spotify.com/album/4kKKH6cFBtNd9etSJzkMjZ) | 3:18 |
+| 68 | [Freeze Me](https://open.spotify.com/track/50jXnyrzW4mcBBqFTMEoAC) | [Death From Above 1979](https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj) | [Outrage! Is Now](https://open.spotify.com/album/4kKKH6cFBtNd9etSJzkMjZ) | 3:18 |
+| 69 | [•NOTDEAD!•](https://open.spotify.com/track/1c30r2e9SgkvjikuJBR7ms) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [•NOTDEAD!•](https://open.spotify.com/album/3wSkJjnc6ayPUKr8X8ucUK) | 3:10 |
+| 70 | [Be Legendary](https://open.spotify.com/track/3pOMQhSSzx6IZ96kMef6i1) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [Pop Evil](https://open.spotify.com/album/5F9U13GyT071nXmYf13VI9) | 3:23 |
 | 71 | [Miracle Mile](https://open.spotify.com/track/4RvmQ5qbP5PxgJD0BN4EZK) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Dear Miss Lonelyhearts](https://open.spotify.com/album/3InEURs5PQ2CMrnvzSVaPy) | 3:00 |
 | 72 | [Enemies](https://open.spotify.com/track/5g9I9uYUcbvtkAuZXjqGfP) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [Enemies](https://open.spotify.com/album/0FaEN18H11E8YUwFeOzibR) | 2:41 |
 | 73 | [All Comes Crashing](https://open.spotify.com/track/1gKLWryPONC9dyrx5fX3Dr) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [All Comes Crashing](https://open.spotify.com/album/7uOTYWH3RBce6YFD7hRnvY) | 4:23 |
 | 74 | [Raised By Wolves](https://open.spotify.com/track/4lUubz3TMfHfQDJl0mAo2l) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [In The Wild](https://open.spotify.com/album/3kY1OhkaStCboWLSBTIfvg) | 3:01 |
-| 75 | [Heat Seeker](https://open.spotify.com/track/7noHzxuNmeIwYftylZfVRT) | [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A), [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [Heat Seeker](https://open.spotify.com/album/56XJWuqnHhxXsM73y8ecZM) | 2:55 |
+| 75 | [Wildfire](https://open.spotify.com/track/2yHmIxXi48DFl6zQlIhEaj) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [Wildfire](https://open.spotify.com/album/1EEFnTyINt6GLnTrNJH1zT) | 2:46 |
 
-Snapshot ID: `MTY2MDg4MTYwMCwwMDAwMDAwMDQ0M2JlN2RmZTZjZDY2ZmJkOTM1ZWQ5OWI0NjA0NDEz`
+Snapshot ID: `MTY2MDg4MTYwMCwwMDAwMDAwMGEyNzlmN2U3MTM1YjhmZTMyNWQxYWQ3ZDQ1ZDQwMmU5`

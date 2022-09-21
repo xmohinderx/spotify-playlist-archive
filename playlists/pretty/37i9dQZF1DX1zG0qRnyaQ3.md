@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1zG0qRnyaQ3.md) - [plain]
 
 > Punk anthems with strong messages for the masses\. Cover: Bad Religion
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,243 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,318 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,10 +32,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1zG0qRnyaQ3.md) - [plain]
 | 22 | [Artificial Life \- 2007 Remaster](https://open.spotify.com/track/6oQ4aZWJ665RrhzhXrMZrm) | [Operation Ivy](https://open.spotify.com/artist/18XRGxd1b484f2h06cwvJJ) | [Operation Ivy \(2007 Remaster\)](https://open.spotify.com/album/2Rv1kIWFeIYeq8kAtdhY6m) | 2:05 |
 | 23 | [BITE BACK](https://open.spotify.com/track/1oBFfQhQ94n8dNhL3yb9bd) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [BITE BACK](https://open.spotify.com/album/67cm6fgju3tVa579TNHXmy) | 3:10 |
 | 24 | [The Wounded World](https://open.spotify.com/track/5PWwjq6cIC2371nou33rdn) | [AS IT IS](https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y) | [The Great Depression](https://open.spotify.com/album/45WKwINtVCtMqKuHPugbby) | 3:10 |
-| 25 | [Womanarchist](https://open.spotify.com/track/2jA9qJfG1LXe54izORPfRn) | [Bad Cop, Bad Cop](https://open.spotify.com/artist/226ZwHRFmxyMqgXCoEkUbq) | [Warriors](https://open.spotify.com/album/2PNMwU8deGSm3ZylzdOcZQ) | 2:52 |
-| 26 | [Foundations To Burn](https://open.spotify.com/track/450H5ytmWAlMuBUnE2eCY7) | [Boysetsfire](https://open.spotify.com/artist/6kw9NLPmn9FdQq0gAIx0Bj) | [Tomorrow Come Today](https://open.spotify.com/album/3EG9x8LkWJaYPPWKVKWLF7) | 3:46 |
-| 27 | [Hate Conquers All](https://open.spotify.com/track/4aeS8uzdE2lHU6sGpwWTjH) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [Hate Conquers All](https://open.spotify.com/album/4g9gjhN0ifqJkq1ZMMidX0) | 2:46 |
-| 28 | [Dry Season](https://open.spotify.com/track/44uEz0HaEadUrgZefxyKl5) | [Good Riddance](https://open.spotify.com/artist/1Yunxnwa5znrQ9Ha7dZeHO) | [Peace in Our Time](https://open.spotify.com/album/6CVCVNnYEWtJslKbJOFLDE) | 2:20 |
+| 25 | [Foundations To Burn](https://open.spotify.com/track/450H5ytmWAlMuBUnE2eCY7) | [Boysetsfire](https://open.spotify.com/artist/6kw9NLPmn9FdQq0gAIx0Bj) | [Tomorrow Come Today](https://open.spotify.com/album/3EG9x8LkWJaYPPWKVKWLF7) | 3:46 |
+| 26 | [Womanarchist](https://open.spotify.com/track/2jA9qJfG1LXe54izORPfRn) | [Bad Cop, Bad Cop](https://open.spotify.com/artist/226ZwHRFmxyMqgXCoEkUbq) | [Warriors](https://open.spotify.com/album/2PNMwU8deGSm3ZylzdOcZQ) | 2:52 |
+| 27 | [Dry Season](https://open.spotify.com/track/44uEz0HaEadUrgZefxyKl5) | [Good Riddance](https://open.spotify.com/artist/1Yunxnwa5znrQ9Ha7dZeHO) | [Peace in Our Time](https://open.spotify.com/album/6CVCVNnYEWtJslKbJOFLDE) | 2:20 |
+| 28 | [Hate Conquers All](https://open.spotify.com/track/4aeS8uzdE2lHU6sGpwWTjH) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [Hate Conquers All](https://open.spotify.com/album/4g9gjhN0ifqJkq1ZMMidX0) | 2:46 |
 | 29 | [She Thinks She's Punk Rock n Roll](https://open.spotify.com/track/6rORfOw4UI416oAolzgOXk) | [Hands Off Gretel](https://open.spotify.com/artist/48GgebpHGBikfDXg0o592i) | [The Angry EP](https://open.spotify.com/album/5lq1pUDqoUtbqcDTRhziDW) | 2:05 |
 | 30 | [The Kids Are Alt\-Right](https://open.spotify.com/track/2jaarBZJE7yviC71Gkggif) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [The Kids Are Alt\-Right](https://open.spotify.com/album/25K4K0LEoyu1pgbg1JGAvX) | 2:43 |
 | 31 | [Telegraph Avenue](https://open.spotify.com/track/3TtDUP3ijbAmWLmDAyrBe1) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Trouble Maker \(Deluxe Edition\)](https://open.spotify.com/album/0IJ8KmhJausnsCjUvgM5vY) | 3:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1zG0qRnyaQ3.md) - [plain]
 | 49 | [Who We Are](https://open.spotify.com/track/7hTWmQ1VFjUDN4IQljtDI0) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Who We Are](https://open.spotify.com/album/2c4Cy7KKorM1IGOgN3LczB) | 3:57 |
 | 50 | [American Attraction](https://open.spotify.com/track/7seq94ygkJtnYHXYR8E99r) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [American Attraction](https://open.spotify.com/album/3HF3WUIh0lc05D3pzuhiqe) | 2:56 |
 
-Snapshot ID: `MTYxMDgxNTAwOCwwMDAwMDAwMDE2MjM4OGY3OTcwZDIxNzY1NjU0MDk4MjkxMzM4NDg2`
+Snapshot ID: `MTYxMDgxNTAwOCwwMDAwMDAwMGI1MWIzNWMxMTk3YzRlODZlOTc0YmY5Y2JjM2Q1ZmVj`

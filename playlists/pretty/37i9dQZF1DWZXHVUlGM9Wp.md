@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZXHVUlGM9Wp.md) - [plain]
 
 > Keep on skating to the groovy boogie
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,471 likes - 75 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,696 likes - 75 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,10 +65,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZXHVUlGM9Wp.md) - [plain]
 | 55 | [Get Down Saturday Night](https://open.spotify.com/track/0awG4a7t5UrmZZ4PZVNav3) | [Oliver Cheatham](https://open.spotify.com/artist/25MNkA39C5jjxApUl812ic) | [Disco Essentials](https://open.spotify.com/album/5aVya3XGTKxxuOA4LT5Ayz) | 4:01 |
 | 56 | [Streets \- Disclosure Remix](https://open.spotify.com/track/4k6Emp6KJ4GNRyf6wUKODl) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Streets \(Disclosure Remix\)](https://open.spotify.com/album/6NQXnBKeDrpQGWPQsgIiwA) | 4:14 |
 | 57 | [Free \- Mood II Swing Radio Edit](https://open.spotify.com/track/0dc6CJ6BsiKxyPvW4yABLo) | [Ultra Naté](https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN) | [Free](https://open.spotify.com/album/6TpwXfNBW8BSwCAuBDjJSN) | 3:53 |
-| 58 | [Flash Light](https://open.spotify.com/track/1v1PV2wERHiMPesMWX0qmO) | [Parliament](https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH) | [Funkentelechy Vs\. The Placebo Syndrome](https://open.spotify.com/album/7Kv0H0XMdIyRs41a6USzrd) | 5:46 |
-| 59 | [Every 1's a Winner \- Single Version](https://open.spotify.com/track/5MXXbGYNmRHR7ULMvZYo5R) | [Hot Chocolate](https://open.spotify.com/artist/72VzFto8DYvKHocaHYNWSi) | [Every 1's a Winner](https://open.spotify.com/album/2MdCe2CS9EcdJ9V20TKzxo) | 4:49 |
+| 58 | [Virtual Insanity \- Remastered](https://open.spotify.com/track/2hNaljpWGHzwcIvkPIHMk7) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [High Times: Singles 1992\-2006](https://open.spotify.com/album/3gm6ZS73n5yGZvWfq7CoLX) | 3:49 |
+| 59 | [Flash Light](https://open.spotify.com/track/1v1PV2wERHiMPesMWX0qmO) | [Parliament](https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH) | [Funkentelechy Vs\. The Placebo Syndrome](https://open.spotify.com/album/7Kv0H0XMdIyRs41a6USzrd) | 5:46 |
 | 60 | [Experience](https://open.spotify.com/track/2oap3QptGISyIvwKpnJJId) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [JAGUAR](https://open.spotify.com/album/6aW67R0sshdUwtbJEG2uQR) | 2:56 |
-| 61 | [Virtual Insanity \- Remastered](https://open.spotify.com/track/2hNaljpWGHzwcIvkPIHMk7) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [High Times: Singles 1992\-2006](https://open.spotify.com/album/3gm6ZS73n5yGZvWfq7CoLX) | 3:49 |
+| 61 | [Every 1's a Winner \- Single Version](https://open.spotify.com/track/5MXXbGYNmRHR7ULMvZYo5R) | [Hot Chocolate](https://open.spotify.com/artist/72VzFto8DYvKHocaHYNWSi) | [Every 1's a Winner](https://open.spotify.com/album/2MdCe2CS9EcdJ9V20TKzxo) | 4:49 |
 | 62 | [Hollywood Swinging](https://open.spotify.com/track/6igsoAR6Co9u7Rq3U7mlOD) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Wild And Peaceful](https://open.spotify.com/album/3MRgojA0LfPka4RG7aRjsI) | 4:39 |
 | 63 | [I Feel Love](https://open.spotify.com/track/1vCBk33l9HaWp5FOnhSGxk) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [I Remember Yesterday](https://open.spotify.com/album/04nlrp346ZfIBhxsNOxpqe) | 5:55 |
 | 64 | [Am I Wrong \(feat\. ScHoolboy Q\)](https://open.spotify.com/track/1UjyF6okUHhnVxaLV8ojsA) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [Malibu](https://open.spotify.com/album/4VFG1DOuTeDMBjBLZT7hCK) | 4:13 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZXHVUlGM9Wp.md) - [plain]
 | 74 | [Kiss It Better \- KAYTRANADA Edition](https://open.spotify.com/track/62tnsScYuep18LnQiQqHmX) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Kiss It Better \(Dance Remix\)](https://open.spotify.com/album/0S5abZEIJQhjcKcyFvHhp4) | 5:25 |
 | 75 | [EASE YOUR MIND](https://open.spotify.com/track/7IRyfeJIBmi08GYgEZwWMM) | [Darius](https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK), [Devin Tracy](https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT) | [OASIS](https://open.spotify.com/album/6e74y0B8zXO3CEtVVFihd8) | 3:57 |
 
-Snapshot ID: `MTY2MDIzODIwNiwwMDAwMDAwMDViMzgyOTA3OGI1NjQwZGVkMzM5MGE1MmRlMDViYTE1`
+Snapshot ID: `MTY2MDIzODIwNiwwMDAwMDAwMGM3ZjBmMzI4NTY1NDEyY2MyOWFlYzlmOTgwOTk0ZjBh`

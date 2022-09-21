@@ -4,7 +4,7 @@
 
 > Hang ten.
 
-202 songs - 11 hr 36 min - [published](https://open.spotify.com/playlist/7xuY9VzYKx31liJVjNf8ux)
+203 songs - 11 hr 39 min - [published](https://open.spotify.com/playlist/7xuY9VzYKx31liJVjNf8ux)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [Good Vibrations \- Remastered 2001](https://open.spotify.com/track/5t9KYe0Fhd5cW6UYT4qP8f) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Smiley Smile \(Remastered\)](https://open.spotify.com/album/37rNuexqEXWeSIOiJtn3A9) | 3:39 | 2021-02-05 |  |
 | [Green Aisles](https://open.spotify.com/track/1H4mV1lgrNBUjZgRjjP1nu) | [Real Estate](https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT) | [Days](https://open.spotify.com/album/4F6yLWrwSlHv5aZYZ3waAb) | 5:01 | 2021-02-05 | 2022-04-21 |
 | [Green Eyes](https://open.spotify.com/track/1iMOLNyzKtIMucwZzQSjZi) | [Wavves](https://open.spotify.com/artist/6bUJpbekaIlq2fT5FMV2mQ) | [King of the Beach](https://open.spotify.com/album/7Mn0aXVHjaoFZPKLssqI9d) | 3:49 | 2022-04-11 | 2022-04-19 |
-| [Grow Up Tomorrow](https://open.spotify.com/track/6Anf5eqLfGEKoGy0iaKAOb) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Grow Up Tomorrow](https://open.spotify.com/album/12o1WJaINpfED7QgO1qR6A) | 3:12 | 2022-07-22 |  |
+| [Grow Up Tomorrow](https://open.spotify.com/track/6Anf5eqLfGEKoGy0iaKAOb) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Grow Up Tomorrow](https://open.spotify.com/album/12o1WJaINpfED7QgO1qR6A) | 3:12 | 2022-07-22 | 2022-09-21 |
 | [Happy Together](https://open.spotify.com/track/1JO1xLtVc8mWhIoE3YaCL0) | [The Turtles](https://open.spotify.com/artist/2VIoWte1HPDbZ2WqHd2La7) | [Happy Together](https://open.spotify.com/album/2pMxs38Y5A0mmHrcu3twvB) | 2:56 | 2021-02-05 |  |
 | [Hawaiian Boi](https://open.spotify.com/track/6EzFRLgOG9gXBg2OwREqJu) | [Triathalon](https://open.spotify.com/artist/2SaIA1enj83vEmJikZdjQ3) | [Lo\-Tide](https://open.spotify.com/album/5XqSocqCRgQwhAWTjeYaPv) | 2:41 | 2021-02-05 | 2022-05-10 |
 | [Hell N Back](https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Hell N Back](https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF) | 3:33 | 2021-04-13 |  |
@@ -138,6 +138,7 @@
 | [Peach Pit](https://open.spotify.com/track/0ZK8TGOsngrstVPsnrHbK1) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Sweet FA](https://open.spotify.com/album/1lhF5c8Q9bzYNwGFwQgYnP) | 4:47 | 2022-07-22 |  |
 | [Peach Pit](https://open.spotify.com/track/4W8iitrK5csxU1kqBeT5Js) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Sweet FA](https://open.spotify.com/album/3Ab4CfKIqTQdJPCrz6U0Ka) | 4:47 | 2021-02-05 | 2022-07-26 |
 | [Petals](https://open.spotify.com/track/21DCAUa5hBGdNhDBSDAuCI) | [TOPS](https://open.spotify.com/artist/2SdK1QDmZIP2hk94rSaLl9) | [Petals](https://open.spotify.com/album/3S3BIsaQzGl7WfdV8OZQfh) | 2:54 | 2021-02-05 | 2022-07-29 |
+| [Petals](https://open.spotify.com/track/3Z6HMD0zTxTUqrmh9ZoIib) | [TOPS](https://open.spotify.com/artist/2SdK1QDmZIP2hk94rSaLl9) | [Sugar at the Gate](https://open.spotify.com/album/1alrC2sUf5sRGSvCV8I6Qh) | 2:54 | 2022-09-02 |  |
 | [Petty Crime](https://open.spotify.com/track/4FMyAa7jAyWgiGUpRE5Ef8) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Petty Crime](https://open.spotify.com/album/0T1N6wc4r56Y7qe2oFjf88) | 3:42 | 2021-02-05 | 2022-07-29 |
 | [Pipeline](https://open.spotify.com/track/3Wwy5wlxd8CpKMZGc4Mgjf) | [The Chantays](https://open.spotify.com/artist/4x6kNCpQ9veqQ17vllEJUR) | [Pipeline](https://open.spotify.com/album/272xBcLuC3UmRttQnvUIdn) | 2:19 | 2021-02-05 | 2022-04-21 |
 | [Poor Relations](https://open.spotify.com/track/2OPmmqhPLBbHoHwtzOsUnl) | [Mr Twin Sister](https://open.spotify.com/artist/5ltJZgIW3OkY5WvuzX5MYz) | [Poor Relations](https://open.spotify.com/album/52XthHFl0TIgAikopVpv1g) | 4:21 | 2021-02-05 | 2022-07-02 |

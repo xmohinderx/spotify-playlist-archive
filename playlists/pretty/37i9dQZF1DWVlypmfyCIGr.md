@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: 甲田まひる
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,865 likes - 80 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,891 likes - 80 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 8 | [スタートライン](https://open.spotify.com/track/6fPqN3CbNZ4w403xlgQeWC) | [miu](https://open.spotify.com/artist/2QMEcA2HhzcfJX2eZLEEyp) | [スタートライン](https://open.spotify.com/album/0uKDWCzo91Vll8J6XJbhYD) | 3:07 |
 | 9 | [Laika](https://open.spotify.com/track/5xA3rEBFUN7AaBKDWLoRES) | [Yuri Yuki](https://open.spotify.com/artist/3lBBdJs6hYYfPmG4DeJ91k) | [Laika](https://open.spotify.com/album/1ZDvVoXC2Qi4yYK4obgUsU) | 4:37 |
 | 10 | [やっぱそれなー](https://open.spotify.com/track/03zdsbNQ5BIPzMyOXRL36C) | [KOMAGOME](https://open.spotify.com/artist/4yi7xi9fRysQclHSMAkQpY) | [やっぱそれなー](https://open.spotify.com/album/0tHBLTysQOwtuGLNpWOcGH) | 2:49 |
-| 11 | [恋しさと せつなさと 心強さと 2023](https://open.spotify.com/track/5pyTRere2Z5XNQApX2wFbi) | [篠原涼子](https://open.spotify.com/artist/2iP0NImc6hcCIBOUddXain), [Tetsuya Komuro](https://open.spotify.com/artist/0YXSqOpIseLknz8JjcX0UH) | [恋しさと せつなさと 心強さと 2023](https://open.spotify.com/album/7ywvvbNRlOgIWACCnAgcrj) | 4:19 |
+| 11 | [恋しさと せつなさと 心強さと 2023](https://open.spotify.com/track/5pyTRere2Z5XNQApX2wFbi) | [Ryoko Shinohara](https://open.spotify.com/artist/2Ff8zALDdJVexxrBF9an2M), [Tetsuya Komuro](https://open.spotify.com/artist/0YXSqOpIseLknz8JjcX0UH) | [恋しさと せつなさと 心強さと 2023](https://open.spotify.com/album/7ywvvbNRlOgIWACCnAgcrj) | 4:19 |
 | 12 | [Beautiful You \- Danny Krivit Re\-Edit of Hex Hector Lush Mix](https://open.spotify.com/track/2tWq5A44JPRY23jsNW7ctL) | [AK Akemi Kakihara](https://open.spotify.com/artist/5apbo7p8o1eX4x94TBHUGh), [Danny Krivit](https://open.spotify.com/artist/0Y5z4slenWMoTz3sg8N6xD), [Hex Hector](https://open.spotify.com/artist/1jLOGxY81S3FNq29X3qvmj) | [Beautiful You \(Danny Krivit Re\-Edit of Hex Hector Lush Mix\)](https://open.spotify.com/album/0pyEmm05LYCS5vGw382GIc) | 8:51 |
 | 13 | [HAPPINESS IS HAPPENING \- tIME and pLACE 2022 Remaster](https://open.spotify.com/track/1GAe5Ra6lsYZyqi2RY28Ij) | [Yukihiro Takahashi](https://open.spotify.com/artist/5Rv28BOArteQRhL8YUYgD5) | [IT’S GONNA WORK OUT \~LIVE 82\-83\~](https://open.spotify.com/album/2KoA3AfpEioh4vWyPM6mOE) | 3:41 |
 | 14 | [Keep in Touch](https://open.spotify.com/track/3wkOD878DbhhS2syNBUITy) | [石橋凌](https://open.spotify.com/artist/2cRkgv3MvzkkHfsbGYFW8v) | [オーライラ](https://open.spotify.com/album/6Ua3g5cSHTjRqliQ3nJlWM) | 4:03 |

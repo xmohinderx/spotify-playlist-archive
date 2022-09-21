@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:3L2tOP2vRYfjXVW4W1tKEJ">Nina Las Vegas'</a> favourite tracks\. Updated regularly\. Curated by Nina Las Vegas\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-70 songs - 4 hr 22 min - not published yet
+70 songs - 4 hr 22 min - [published](https://open.spotify.com/playlist/22V2A3qGlZBRfAvB6XMm0w)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

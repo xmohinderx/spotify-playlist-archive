@@ -362,6 +362,28 @@
     },
     {
       "album": {
+        "name": "AMAN",
+        "url": "https://open.spotify.com/album/7lFqKeCpgi4Us8PGIfDSD5"
+      },
+      "artists": [
+        {
+          "name": "Amanda Tenfjord",
+          "url": "https://open.spotify.com/artist/187i912U6kpq0F0Z9uOVXr"
+        },
+        {
+          "name": "Evangelia",
+          "url": "https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190962,
+      "name": "AMAN",
+      "url": "https://open.spotify.com/track/5WJ3W0FYgcD9d3So3onSkQ"
+    },
+    {
+      "album": {
         "name": "America Online",
         "url": "https://open.spotify.com/album/7nUIXnRMkRFbyoduYKRnvF"
       },
@@ -4809,7 +4831,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 178909,
       "name": "Married to Your Melody",
       "url": "https://open.spotify.com/track/5G0gqPXbupyLOqUrWksyEY"

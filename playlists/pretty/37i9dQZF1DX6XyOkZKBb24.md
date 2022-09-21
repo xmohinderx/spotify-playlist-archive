@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XyOkZKBb24.md) - [plain]
 
 > Lying flat on the sofa scrolling but with a nice soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,714 likes - 75 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,031 likes - 75 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,15 +22,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XyOkZKBb24.md) - [plain]
 | 12 | [Boyfriends](https://open.spotify.com/track/6qj02zSeEJGWZ4c0dn5QzJ) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:14 |
 | 13 | [This Love \(Taylor’s Version\)](https://open.spotify.com/track/4d1CG5ei1E2vGbvmgf5KKv) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [This Love \(Taylor’s Version\)](https://open.spotify.com/album/3In1CblWZswwun5MhOa10y) | 4:10 |
 | 14 | [Birthday Cake](https://open.spotify.com/track/7dDrR6vMK1JAwZZ5MIWgme) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [Birthday Cake](https://open.spotify.com/album/6Z2I7RVroN2B24d7mms0tT) | 3:25 |
-| 15 | [Remember That Night?](https://open.spotify.com/track/1nYzjrdVQ8RpF93M0jPFW7) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH) | [Remember That Night?](https://open.spotify.com/album/239r63fqY8PyWX9WcgwNzP) | 3:47 |
-| 16 | [Fall in Love with You.](https://open.spotify.com/track/4kJT7Yj6Za01KfKHjb7mZE) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [JAMIE](https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl) | 2:12 |
+| 15 | [Fall in Love with You.](https://open.spotify.com/track/4kJT7Yj6Za01KfKHjb7mZE) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [JAMIE](https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl) | 2:12 |
+| 16 | [Remember That Night?](https://open.spotify.com/track/1nYzjrdVQ8RpF93M0jPFW7) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH) | [Remember That Night?](https://open.spotify.com/album/239r63fqY8PyWX9WcgwNzP) | 3:47 |
 | 17 | [Can't Help Falling in Love](https://open.spotify.com/track/6yIHGmQLJxWAUZ1ZkENemN) | [Haley Reinhart](https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q) | [Better](https://open.spotify.com/album/2jg7PvepCK9V7MyWM7pvzr) | 2:53 |
 | 18 | [Better Together](https://open.spotify.com/track/6gdLyYNuhWBzqwlOFSsXC7) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [What You See Is What You Get](https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx) | 3:39 |
 | 19 | [Liability](https://open.spotify.com/track/6Kkt27YmFyIFrcX3QXFi2o) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 2:51 |
 | 20 | [In Case You Didn't Know](https://open.spotify.com/track/10M2Ex445zw585Ducldzkw) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Brett Young](https://open.spotify.com/album/6MTPPsqX8KnmDWmnQmbxJ5) | 3:44 |
 | 21 | [You're Somebody Else](https://open.spotify.com/track/0pdKRp2sUthTPe7RLWpPqQ) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [You're Somebody Else](https://open.spotify.com/album/5BuS8meOLEcgGpdPPZfSgC) | 3:38 |
-| 22 | [Slow Dancing in a Burning Room](https://open.spotify.com/track/2jdAk8ATWIL3dwT47XpRfu) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Continuum](https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM) | 4:02 |
-| 23 | [this is me trying](https://open.spotify.com/track/7kt9e9LFSpN1zQtYEl19o1) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 3:15 |
+| 22 | [this is me trying](https://open.spotify.com/track/7kt9e9LFSpN1zQtYEl19o1) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 3:15 |
+| 23 | [Slow Dancing in a Burning Room](https://open.spotify.com/track/2jdAk8ATWIL3dwT47XpRfu) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Continuum](https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM) | 4:02 |
 | 24 | [Strange](https://open.spotify.com/track/7sq2z9oX2S0CvgTqCZ0ko4) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Not Your Muse \(Deluxe\)](https://open.spotify.com/album/3bqEvlGHE4amqPGZtdMnep) | 4:15 |
 | 25 | [Out Of Love](https://open.spotify.com/track/4WzhjxvLP95y7AMDy0Atwb) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [The Pains Of Growing](https://open.spotify.com/album/0LzVdypBGpn6dGuHqVGwwt) | 3:47 |
 | 26 | [Beautiful \(feat\. Camila Cabello\)](https://open.spotify.com/track/4VUwkH455At9kENOfzTqmF) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Beautiful \(feat\. Camila Cabello\)](https://open.spotify.com/album/6hCR3zQtRH0IgookOYt771) | 3:00 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XyOkZKBb24.md) - [plain]
 | 48 | [Grow As We Go](https://open.spotify.com/track/6hYvw3LLTViP2mT4MpDNmT) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Sing To Me Instead](https://open.spotify.com/album/2AluSp6sapRu17yc4r2a5F) | 4:09 |
 | 49 | [To the Mountains](https://open.spotify.com/track/2CK9xYMVdmJMPKZyArVbt4) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Give Me A Minute](https://open.spotify.com/album/2PullXMROSpzCdFdzEmFhy) | 3:13 |
 | 50 | [Better Together](https://open.spotify.com/track/6huS9u0BDfeQHq0lObNLPl) | [Us The Duo](https://open.spotify.com/artist/3QGKsAfhZdldQCLuLjk6zl) | [Better Together](https://open.spotify.com/album/0KAwOGS6XRZfVBx9qmSlMc) | 3:20 |
-| 51 | [Use Somebody \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5My4LtZW8JQJoKFDWodqIt) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Spotify Singles](https://open.spotify.com/album/6ixkdVE4xrPNcVKhRpnPEh) | 2:56 |
-| 52 | [Every Time You Go Away](https://open.spotify.com/track/5OtvDpNhxUde1hkAjvzSzE) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot), [Kevin Garrett](https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E) | [Spotify Singles](https://open.spotify.com/album/0dlIoNzi1FAca3VcyPFj5S) | 4:25 |
+| 51 | [Every Time You Go Away](https://open.spotify.com/track/5OtvDpNhxUde1hkAjvzSzE) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot), [Kevin Garrett](https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E) | [Spotify Singles](https://open.spotify.com/album/0dlIoNzi1FAca3VcyPFj5S) | 4:25 |
+| 52 | [Use Somebody \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5My4LtZW8JQJoKFDWodqIt) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Spotify Singles](https://open.spotify.com/album/6ixkdVE4xrPNcVKhRpnPEh) | 2:56 |
 | 53 | [DO 4 LOVE](https://open.spotify.com/track/3FImu2LpSuH6gDHBuFgIbS) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Spotify Singles](https://open.spotify.com/album/28wKxlJocWCrrxUgYC2zEQ) | 3:09 |
 | 54 | [You and I](https://open.spotify.com/track/7rsTP6MbfJqXT11RiDDo5a) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0), [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [You and I](https://open.spotify.com/album/3cKaNavGZzd65w9AY65c8X) | 3:13 |
 | 55 | [Conversations in the Dark](https://open.spotify.com/track/6TYlDTa9AQDvjqwbxlvFyI) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Conversations in the Dark](https://open.spotify.com/album/5LVi2qET36RvkLil7mJclb) | 3:57 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XyOkZKBb24.md) - [plain]
 | 61 | [Save Your Love](https://open.spotify.com/track/2egtrr5T0vdqOBtuYbzEu4) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Leap](https://open.spotify.com/album/06ug65kBTheiQOomrAq0iB) | 3:23 |
 | 62 | [come into my arms](https://open.spotify.com/track/1WbqQUB9ldGb8x3b72RH3Z) | [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [come into my arms](https://open.spotify.com/album/3dti8UcnsGhwppSO3k4frr) | 2:12 |
 | 63 | [Midnight River \(feat\. 6LACK\)](https://open.spotify.com/track/5HphhcOuLFWBj9IghbrKJB) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Midnight River \(feat\. 6LACK\)](https://open.spotify.com/album/6u037PKoI8rUCv4upVCKVx) | 3:04 |
-| 64 | [Please Don't Say You Love Me](https://open.spotify.com/track/2PIlBukQ6limukVR8Ubb5o) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [English Rain](https://open.spotify.com/album/7kyjDxYcff3MeWKtw0fnLW) | 3:01 |
-| 65 | [A Love That Will Last](https://open.spotify.com/track/4bJbSERtCqK9D6DRUPMmMh) | [Renee Olstead](https://open.spotify.com/artist/19B0pJt4UEl3fUijGTRzxB) | [Renee Olstead](https://open.spotify.com/album/0xBTBaqqZd6Vnmp0tJ3g42) | 3:32 |
+| 64 | [A Love That Will Last](https://open.spotify.com/track/4bJbSERtCqK9D6DRUPMmMh) | [Renee Olstead](https://open.spotify.com/artist/19B0pJt4UEl3fUijGTRzxB) | [Renee Olstead](https://open.spotify.com/album/0xBTBaqqZd6Vnmp0tJ3g42) | 3:32 |
+| 65 | [Please Don't Say You Love Me](https://open.spotify.com/track/2PIlBukQ6limukVR8Ubb5o) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [English Rain](https://open.spotify.com/album/7kyjDxYcff3MeWKtw0fnLW) | 3:01 |
 | 66 | [Goodnight](https://open.spotify.com/track/69jstgacdd40OwG9cLl45r) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Three\. Two\. One.](https://open.spotify.com/album/3nP0DOBWPfEToiDGMXZCAb) | 2:56 |
 | 67 | [Lua](https://open.spotify.com/track/6BqrPvrPOwpYkdLCgSqtVB) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [I'm Wide Awake, It's Morning](https://open.spotify.com/album/6MwSuZphL6GmuSVIYUGUF7) | 4:31 |
 | 68 | [Harvest Moon \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6gdCb962lq0Xdg7ypVLuLt) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Spotify Singles](https://open.spotify.com/album/3oTpxylhyTiGLaZ8IRjJQB) | 5:46 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XyOkZKBb24.md) - [plain]
 | 74 | [Losing You](https://open.spotify.com/track/186AzR054q9nSWYSI3qr8D) | [Christian Kuria](https://open.spotify.com/artist/4uaGojdWj4H6cTJydZUPWG) | [Borderline](https://open.spotify.com/album/5qoVwu8l7VyXOiMjjmyeAD) | 4:08 |
 | 75 | [I'm Not In Love](https://open.spotify.com/track/7InHgiDyJ0GtvnIVslWNPK) | [Kelsey Lu](https://open.spotify.com/artist/0fEfMW5bypHZ0A8eLnhwj5) | [Blood](https://open.spotify.com/album/6NLWgp3R9U9v8KMueE6i9C) | 6:54 |
 
-Snapshot ID: `MTY2MzMwMDgwMCwwMDAwMDAwMGUyZTU5Yjc5Yzc4ZmI0ZTEzOTdiYTQzNmUwNTEwM2Iw`
+Snapshot ID: `MTY2MzMwMDgwMCwwMDAwMDAwMDg4NGVkNzY4MTU5YWUzNDUzY2I3NDQ3OGJjNDA5YmUx`

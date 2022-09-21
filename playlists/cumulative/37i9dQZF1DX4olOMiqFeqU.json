@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "100% Pinoy hits from your favorite artists!",
+  "description": "100% Pinoy hits from your favorite artists! Cover: Sarah Geronimo",
   "name": "OPM Favorites",
   "published_playlist_ids": [
     "2aC5BPUM0MsoTBT2ZjgARC"
@@ -253,7 +253,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 218000,
       "name": "Demonyo",
       "url": "https://open.spotify.com/track/1WXs4O7mBxXglHJPwYweHq"
@@ -1327,6 +1327,24 @@
       "duration_ms": 244600,
       "name": "Simpleng Tao",
       "url": "https://open.spotify.com/track/6bMSUhAmaAGTb5RTTuzWE3"
+    },
+    {
+      "album": {
+        "name": "Freestyle",
+        "url": "https://open.spotify.com/album/23urE9jm4wugYqmxANnDut"
+      },
+      "artists": [
+        {
+          "name": "Freestyle",
+          "url": "https://open.spotify.com/artist/0jarApAsbmiCkYhz0590mE"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275906,
+      "name": "So Slow",
+      "url": "https://open.spotify.com/track/5tg4Rr2rArQJKiH2hcaJph"
     },
     {
       "album": {

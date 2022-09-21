@@ -170,6 +170,24 @@
     },
     {
       "album": {
+        "name": "Satisfaction",
+        "url": "https://open.spotify.com/album/0m3hGU2BkS3t3zBdavqmNg"
+      },
+      "artists": [
+        {
+          "name": "Narrow Head",
+          "url": "https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176621,
+      "name": "Ashtray",
+      "url": "https://open.spotify.com/track/1AmVWLPhCqTMt4y5t0cB8T"
+    },
+    {
+      "album": {
         "name": "Tantric (U.S. Version-Enh'd)",
         "url": "https://open.spotify.com/album/08nOgpgThrvOYlvM6nUOmJ"
       },
@@ -181,7 +199,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 261760,
       "name": "Astounded",
       "url": "https://open.spotify.com/track/0WBL72ulf4mkcflIO0W5cq"
@@ -405,6 +423,24 @@
     {
       "album": {
         "name": "Distort Yourself",
+        "url": "https://open.spotify.com/album/5oKTgRe1bSLIkZ39pwHqrj"
+      },
+      "artists": [
+        {
+          "name": "Institute",
+          "url": "https://open.spotify.com/artist/5dw20y4c03uTJPC7rKoDtS"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265106,
+      "name": "Bulletproof Skin",
+      "url": "https://open.spotify.com/track/1E5ftzZvJLOICYQ0oYDHID"
+    },
+    {
+      "album": {
+        "name": "Distort Yourself",
         "url": "https://open.spotify.com/album/39NUMGNHvB1k3VWzujcCPv"
       },
       "artists": [
@@ -433,10 +469,32 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 210093,
       "name": "Caught In The Rain",
       "url": "https://open.spotify.com/track/1aWjCUq4KU7wCdQ2AuGeB7"
+    },
+    {
+      "album": {
+        "name": "Introvert",
+        "url": "https://open.spotify.com/album/1UB0WV9UwC1xaQY95c5md6"
+      },
+      "artists": [
+        {
+          "name": "Saint Asonia",
+          "url": "https://open.spotify.com/artist/6Fwq3TDWpMhcL1KTKVQiI8"
+        },
+        {
+          "name": "Terrible Johnny",
+          "url": "https://open.spotify.com/artist/4ekKTR0gTosJEoEcLd5RSZ"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219551,
+      "name": "Chew Me Up (feat. Terrible Johnny)",
+      "url": "https://open.spotify.com/track/5VE9fM3rSpbFrqqgWJYgbk"
     },
     {
       "album": {
@@ -523,7 +581,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 362200,
       "name": "Cumbersome",
       "url": "https://open.spotify.com/track/6XmpvInnm4EgCUgXMTqIRR"
@@ -545,6 +603,24 @@
       "duration_ms": 119370,
       "name": "Didn't Want It",
       "url": "https://open.spotify.com/track/1vznlLp8uSjB4fyd81NoXE"
+    },
+    {
+      "album": {
+        "name": "Days Of The New (Red Album)",
+        "url": "https://open.spotify.com/album/36anDuZI1duEjJ1rXmKeHP"
+      },
+      "artists": [
+        {
+          "name": "Days Of The New",
+          "url": "https://open.spotify.com/artist/07jc1IMGtecDZzOL9cP50t"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236573,
+      "name": "Die Born",
+      "url": "https://open.spotify.com/track/5yA7AoyGWSUoxALn0RxCfb"
     },
     {
       "album": {
@@ -595,7 +671,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 207973,
       "name": "Don't Wake Me",
       "url": "https://open.spotify.com/track/13heJXQpJsfROWJpNR22e0"
@@ -703,7 +779,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 225149,
       "name": "Flowers On A Grave",
       "url": "https://open.spotify.com/track/4TcYGnt7qcBuDoGTWHJ36E"
@@ -757,7 +833,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 194120,
       "name": "Gone Away (A Song For Starr)",
       "url": "https://open.spotify.com/track/3Vxib4vvhfLPyphsln3of2"
@@ -1157,7 +1233,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 290013,
       "name": "Just Go",
       "url": "https://open.spotify.com/track/45chhYFgWlUNobpEMq7PxP"
@@ -1215,6 +1291,24 @@
       "duration_ms": 222207,
       "name": "Life In a Jar",
       "url": "https://open.spotify.com/track/0gbwOfNQKda3hlX8yMuvFh"
+    },
+    {
+      "album": {
+        "name": "Jar",
+        "url": "https://open.spotify.com/album/6JLO3HVtVEKLHqbgs6ujdw"
+      },
+      "artists": [
+        {
+          "name": "Superheaven",
+          "url": "https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222207,
+      "name": "Life In A Jar",
+      "url": "https://open.spotify.com/track/4yaBfHHZbAb2nim1fP7cRV"
     },
     {
       "album": {
@@ -1380,6 +1474,60 @@
     },
     {
       "album": {
+        "name": "13 Ways To Bleed Onstage",
+        "url": "https://open.spotify.com/album/3dOVfly8hXQAgNdiKnLiFn"
+      },
+      "artists": [
+        {
+          "name": "Cold",
+          "url": "https://open.spotify.com/artist/0Gw3a3BkWLwsMLFbOBmo6Q"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197333,
+      "name": "No One",
+      "url": "https://open.spotify.com/track/5Z5k7MQotAckv0S3ZA9dXa"
+    },
+    {
+      "album": {
+        "name": "10: 1993-2003 - Ten Years of K's Choice",
+        "url": "https://open.spotify.com/album/7u5VdkpJuSXEWxNq4PdXJ2"
+      },
+      "artists": [
+        {
+          "name": "K's Choice",
+          "url": "https://open.spotify.com/artist/1lO13Grp3I1AsIbcACRWvv"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288183,
+      "name": "Not An Addict",
+      "url": "https://open.spotify.com/track/38TozZBUSqO5HA4ya6OxZr"
+    },
+    {
+      "album": {
+        "name": "From the Leaves of Your Garden",
+        "url": "https://open.spotify.com/album/2X7tUE8Ansj36WJK7oOXXq"
+      },
+      "artists": [
+        {
+          "name": "Modern Color",
+          "url": "https://open.spotify.com/artist/6bayHl2VHbIseMg1jby37l"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180024,
+      "name": "On & Off",
+      "url": "https://open.spotify.com/track/6K6yo0aOwaF14diZao4s4z"
+    },
+    {
+      "album": {
         "name": "Weathered",
         "url": "https://open.spotify.com/album/2ENlJXygQX6en4iziijet6"
       },
@@ -1470,6 +1618,24 @@
     },
     {
       "album": {
+        "name": "Ours Is Chrome",
+        "url": "https://open.spotify.com/album/2D2fnA0gaDp5ITUIvsHCmE"
+      },
+      "artists": [
+        {
+          "name": "Superheaven",
+          "url": "https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267284,
+      "name": "Poor Aileen",
+      "url": "https://open.spotify.com/track/7fezQws2k5Fy98X4UScIbH"
+    },
+    {
+      "album": {
         "name": "Famous",
         "url": "https://open.spotify.com/album/64gmkAgWQqEGJtvAaGm2La"
       },
@@ -1535,7 +1701,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 340666,
       "name": "Rapture",
       "url": "https://open.spotify.com/track/00WXjbcR195RztyuAQ90ub"
@@ -1751,7 +1917,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 201920,
       "name": "So Far so Good",
       "url": "https://open.spotify.com/track/2RDfjb9H56uk2NPgzcgMyn"
@@ -1773,6 +1939,24 @@
       "duration_ms": 251840,
       "name": "So Happy",
       "url": "https://open.spotify.com/track/2e9ZCaqv3uF5AX7QLIh9h1"
+    },
+    {
+      "album": {
+        "name": "Scars & Souvenirs (Special Edition)",
+        "url": "https://open.spotify.com/album/2d4tYx2ulDP1Kgudxsrs7B"
+      },
+      "artists": [
+        {
+          "name": "Theory of a Deadman",
+          "url": "https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251840,
+      "name": "So Happy",
+      "url": "https://open.spotify.com/track/796KVmeIoTOek76YwNduEL"
     },
     {
       "album": {
@@ -1823,10 +2007,28 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 244040,
       "name": "Starseed",
       "url": "https://open.spotify.com/track/4et8vIjMkwvHvtaBp1yh70"
+    },
+    {
+      "album": {
+        "name": "Chrome Neon Jesus",
+        "url": "https://open.spotify.com/album/7DUbrWwDxAeoNzFwKNVpiw"
+      },
+      "artists": [
+        {
+          "name": "Teenage Wrist",
+          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189363,
+      "name": "Stoned, Alone",
+      "url": "https://open.spotify.com/track/3cWAHAlvLALNA0hnqmUzsB"
     },
     {
       "album": {
@@ -1939,6 +2141,24 @@
     {
       "album": {
         "name": "Polyester Zeal",
+        "url": "https://open.spotify.com/album/10EVrtkAgTTc7rE61zk8nw"
+      },
+      "artists": [
+        {
+          "name": "Red Sun Rising",
+          "url": "https://open.spotify.com/artist/01ZtptlLUxoAbJDrS9fTqX"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216106,
+      "name": "The Otherside",
+      "url": "https://open.spotify.com/track/2HLaosNtdbGMZ1pmOBwFeS"
+    },
+    {
+      "album": {
+        "name": "Polyester Zeal",
         "url": "https://open.spotify.com/album/2VpFHHgyMZkkyvIfF8PLEX"
       },
       "artists": [
@@ -1971,6 +2191,24 @@
       "duration_ms": 238400,
       "name": "The Red",
       "url": "https://open.spotify.com/track/1gyee1JuFFiP476LQpRMYU"
+    },
+    {
+      "album": {
+        "name": "The Rift",
+        "url": "https://open.spotify.com/album/7zDuEI2gGYXabIHsI4ZjAZ"
+      },
+      "artists": [
+        {
+          "name": "Chappaqua Wrestling",
+          "url": "https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228852,
+      "name": "The Rift",
+      "url": "https://open.spotify.com/track/3vUHrmHxjsngAXKvxRJ6nc"
     },
     {
       "album": {
@@ -2183,7 +2421,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-11",
+      "date_removed": null,
       "duration_ms": 460400,
       "name": "Welcome To The Fold",
       "url": "https://open.spotify.com/track/0oPcNTwHKpYnDZfkcdOsiA"
@@ -2255,7 +2493,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 238093,
       "name": "Why I'm Here",
       "url": "https://open.spotify.com/track/0hgOGzUYKKQbQcWDoJpM6H"

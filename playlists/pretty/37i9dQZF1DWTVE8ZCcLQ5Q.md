@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVE8ZCcLQ5Q.md) - [plain]
 
 > Descubra Mac Júlia e novos talentos brasileiros no horizonte.
 
-[Spotify](https://open.spotify.com/user/spotify) - 421,353 likes - 60 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 421,337 likes - 60 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVE8ZCcLQ5Q.md) - [plain]
 | 35 | [Potranca](https://open.spotify.com/track/0l1jN8AUIHnTJYTbTh5kX9) | [slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [Késia](https://open.spotify.com/artist/1gZaDWPWgzRhSQA0Aui2m2), [Theo Zagrae](https://open.spotify.com/artist/0pX9KfvxYdwXSh43fX4t8z), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0) | [Gostosa Posturada](https://open.spotify.com/album/3NQXrEDQR2TG7rnYP6TwMF) | 3:36 |
 | 36 | [Tanto Faz](https://open.spotify.com/track/6SsjwrTV7bn8eeibnMftZp) | [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [FÚRIA](https://open.spotify.com/album/16F4OuXRl7D54HEiwErbOQ) | 2:57 |
 | 37 | [Eu e Eu](https://open.spotify.com/track/7DETyuwRe61Ab57w90dJ37) | [Vitor e Luan](https://open.spotify.com/artist/5hDZAExrfOVqKBLS8Ofyac), [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Eu e Eu](https://open.spotify.com/album/57reovruZNtvzzhjkwsDj9) | 2:42 |
-| 38 | [O Último Xote do Ano](https://open.spotify.com/track/23r1Kyn3hD7gRAgxWkW5Bb) | [Fi Barreto](https://open.spotify.com/artist/5hJ0ykBQGDxLmp3Lw7DpBe), [Cruvinel](https://open.spotify.com/artist/2TUCCtskhrTEMAAGyQaBaW) | [O Último Xote do Ano](https://open.spotify.com/album/6B04k65vhdRfHltr7Gy18s) | 3:12 |
-| 39 | [Meu Grande Amor](https://open.spotify.com/track/06leULDpUK6vlq3I29zdvr) | [YOÙN](https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi) | [BXD IN JAZZ](https://open.spotify.com/album/2ocVVPThABbahLeYHR9FBO) | 2:53 |
+| 38 | [Meu Grande Amor](https://open.spotify.com/track/06leULDpUK6vlq3I29zdvr) | [YOÙN](https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi) | [BXD IN JAZZ](https://open.spotify.com/album/2ocVVPThABbahLeYHR9FBO) | 2:53 |
+| 39 | [O Último Xote do Ano](https://open.spotify.com/track/23r1Kyn3hD7gRAgxWkW5Bb) | [Fi Barreto](https://open.spotify.com/artist/5hJ0ykBQGDxLmp3Lw7DpBe), [Cruvinel](https://open.spotify.com/artist/2TUCCtskhrTEMAAGyQaBaW) | [O Último Xote do Ano](https://open.spotify.com/album/6B04k65vhdRfHltr7Gy18s) | 3:12 |
 | 40 | [Matemática](https://open.spotify.com/track/1xRxdXBGDY5O89pKp40i0L) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Terra](https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW) | [PELE](https://open.spotify.com/album/57LANvZ85BtVlj31EAY7EK) | 2:14 |
 | 41 | [Beira Mar](https://open.spotify.com/track/0behTwZwYY2BR47eX3GjCq) | [Tarcis](https://open.spotify.com/artist/2qb3anjfE3Rmn5edv2ULzg), [VND](https://open.spotify.com/artist/1XxGXIW0xJuiW267WuDgNP), [pumapjl](https://open.spotify.com/artist/1iVZ4G8loVE1bb5EWuOvMM) | [Todo Mundo Ama o Sol](https://open.spotify.com/album/2NgVCkUvypsuwrxloKor6X) | 2:42 |
 | 42 | [Jogo Sujo](https://open.spotify.com/track/4dr0AjgSS9kfTD9U8bfOnF) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Nicoby](https://open.spotify.com/artist/1Xd91UbkKjjg6Bk8vvlW9C) | [Juma](https://open.spotify.com/album/7f2UOJiCm4KvJfdjXANSBW) | 3:25 |
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVE8ZCcLQ5Q.md) - [plain]
 | 54 | [Carta Que Não Diz](https://open.spotify.com/track/2iXQ3CYVGQihlFpWCDDmJM) | [Mariana Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S), [Rodrigo Alarcon](https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ), [Ana Muller](https://open.spotify.com/artist/7L1Xcga52ld20VEmDzE6Hz) | [Carta Que Não Diz](https://open.spotify.com/album/3gK51ZgTFMiFHekQKRUUNX) | 3:11 |
 | 55 | [Imaginar](https://open.spotify.com/track/5LfkX8BcsESakxgyGEB1vX) | [Reid](https://open.spotify.com/artist/0YWKYHR1rKdnPRlYvisCqo) | [Imaginar](https://open.spotify.com/album/7vkh9ZNyMOGNT6buIpje3x) | 2:20 |
 | 56 | [Me liga](https://open.spotify.com/track/4ia06gVwN3wMDpZXRMFcX6) | [Big Bllakk](https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd), [Pedro Apoema](https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0), [Erick Di](https://open.spotify.com/artist/6ITlDmLtSRT8f36NVQQENS) | [Me liga](https://open.spotify.com/album/3VeZjOr9TbplcmNHzZ9xG7) | 2:30 |
-| 57 | [Devagarin](https://open.spotify.com/track/4ha4wjgFHh4FvNZcFaEr5I) | [ALMAR](https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI) | [Devagarin](https://open.spotify.com/album/5BnsHrRvr8XpqMz92LLx4F) | 2:34 |
-| 58 | [De Novo](https://open.spotify.com/track/2vVHmxPI3qgRnJykMMSKlp) | [Barro](https://open.spotify.com/artist/49Ymz7hkosffibefJioODe), [Luísa Nascim](https://open.spotify.com/artist/5j1I6HLmRd52lplPaEl6uU), [Marley no Beat](https://open.spotify.com/artist/1LYVhCzrcczttykOd4ukkH), [Tombc](https://open.spotify.com/artist/6xWZS3GMWCdADhHYLW2gb6) | [De Novo](https://open.spotify.com/album/6BGcVu7zcnTWPONgBJe5mQ) | 2:15 |
+| 57 | [De Novo](https://open.spotify.com/track/2vVHmxPI3qgRnJykMMSKlp) | [Barro](https://open.spotify.com/artist/49Ymz7hkosffibefJioODe), [Luísa Nascim](https://open.spotify.com/artist/5j1I6HLmRd52lplPaEl6uU), [Marley no Beat](https://open.spotify.com/artist/1LYVhCzrcczttykOd4ukkH), [Tombc](https://open.spotify.com/artist/6xWZS3GMWCdADhHYLW2gb6) | [De Novo](https://open.spotify.com/album/6BGcVu7zcnTWPONgBJe5mQ) | 2:15 |
+| 58 | [Devagarin](https://open.spotify.com/track/4ha4wjgFHh4FvNZcFaEr5I) | [ALMAR](https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI) | [Devagarin](https://open.spotify.com/album/5BnsHrRvr8XpqMz92LLx4F) | 2:34 |
 | 59 | [Baby Hair](https://open.spotify.com/track/6tgveJsfKptFd0mvJG9Iv6) | [Pretta Poder](https://open.spotify.com/artist/6CEm11gYIUP8EeirFIXAYt), [Chris Beats Zn](https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW), [SoudCrime](https://open.spotify.com/artist/0Huu7Wxkay3mCaoMuVkRNg) | [Baby Hair](https://open.spotify.com/album/6Hk41Rh3IMBcdhOwneSaQo) | 2:33 |
 | 60 | [Jogo de Aposta](https://open.spotify.com/track/3dGZE3ALCdLynbwJQ05fKy) | [Jecy](https://open.spotify.com/artist/10RqlMm59EFKFeUc9LA1Uv) | [Jogo de Aposta](https://open.spotify.com/album/5ZPL8STC4NCBb7ms7vyJL0) | 2:46 |
 
-Snapshot ID: `MTY2MDUzMjQ2MCwwMDAwMDAwMGZkMjgwZGM3NDg5ODQ3YzgyMTc5MWExNzM5YzMxZWZi`
+Snapshot ID: `MTY2MDUzMjQ2MCwwMDAwMDAwMDVlZDM1YWNhMGI4ODA2YWU2YjJiZTZiYWRmZTY4M2E4`

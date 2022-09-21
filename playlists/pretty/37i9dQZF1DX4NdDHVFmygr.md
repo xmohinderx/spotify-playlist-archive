@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NdDHVFmygr.md) - [plain]
 
 > The sweet sounds of Morocco.
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,973 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,060 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [JRO7I](https://open.spotify.com/track/7syDtybPIIxoR1jvz6w8nI) | [MA3IZ](https://open.spotify.com/artist/6T4HJ0ayzxLWDbktdiBe3l) | [JRO7I](https://open.spotify.com/album/6FeVXC1Ihjhl7x1l1d6PqA) | 3:12 |
-| 2 | [Makhelaw magalou](https://open.spotify.com/track/0jqUiExctgLt7bcghvD7Kw) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [Makhelaw magalou](https://open.spotify.com/album/1aiMHJEw75iDP9reYTQ4lO) | 3:00 |
-| 3 | [Anaconda](https://open.spotify.com/track/52v6JiIMBEvnuvRFOyxhMQ) | [Abdeelgha4](https://open.spotify.com/artist/714WB17jXnpvAmSRQJpYGv) | [Anaconda](https://open.spotify.com/album/38NNxIG32ee7rKe0thztPa) | 3:26 |
-| 4 | [Nsiti](https://open.spotify.com/track/39IyCxrLN3USQLaTQ9tnMa) | [Oussama](https://open.spotify.com/artist/473J09XfjAXYQPbYQQS9Ml) | [Nsiti](https://open.spotify.com/album/0uTXQyHxnSUibdyT05WCCu) | 2:52 |
+| 2 | [Nsiti](https://open.spotify.com/track/39IyCxrLN3USQLaTQ9tnMa) | [Oussama](https://open.spotify.com/artist/473J09XfjAXYQPbYQQS9Ml) | [Nsiti](https://open.spotify.com/album/0uTXQyHxnSUibdyT05WCCu) | 2:52 |
+| 3 | [Makhelaw magalou](https://open.spotify.com/track/0jqUiExctgLt7bcghvD7Kw) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [Makhelaw magalou](https://open.spotify.com/album/1aiMHJEw75iDP9reYTQ4lO) | 3:00 |
+| 4 | [Anaconda](https://open.spotify.com/track/52v6JiIMBEvnuvRFOyxhMQ) | [Abdeelgha4](https://open.spotify.com/artist/714WB17jXnpvAmSRQJpYGv) | [Anaconda](https://open.spotify.com/album/38NNxIG32ee7rKe0thztPa) | 3:26 |
 | 5 | [Omri](https://open.spotify.com/track/0UoPZZKHTNXyAKvnQC0PrY) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Omri](https://open.spotify.com/album/6uPeVzOEUmO69h6gsNt2rn) | 3:20 |
 | 6 | [Ghir Ntiya](https://open.spotify.com/track/4HLrkVmVOqFkUxMMzIkTZX) | [Marwa Loud](https://open.spotify.com/artist/46wEUZyujVrFSrdCnTKQmV), [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E) | [Ghir Ntiya](https://open.spotify.com/album/5nsqflpGETuyeLdYLNy0mm) | 3:34 |
 | 7 | [Comforter \(feat\. Ayra Starr\)](https://open.spotify.com/track/2Vr7Qvt5a9f6W9m6ifke4K) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Comforter \(feat\. Ayra Starr\)](https://open.spotify.com/album/2NmB4LzQtfkv88hY595YtL) | 3:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NdDHVFmygr.md) - [plain]
 | 49 | [Ya Hmed](https://open.spotify.com/track/3Ica0uL8RYkhG3YG0tpywf) | [Mehdi Mozayine](https://open.spotify.com/artist/6oq0gQN2p7AYmdP1Rc1lDk), [Madara](https://open.spotify.com/artist/25lj3VIS5OU4AJDbTQvVI7) | [Ya Hmed](https://open.spotify.com/album/1mZHdQPQtSgdflf4sVWsVf) | 3:29 |
 | 50 | [MILANO](https://open.spotify.com/track/5TR5g2mXk58AbVbHLVRbsM) | [7\-Toun](https://open.spotify.com/artist/3IRAzpoLeNDGv7kqwNK3bp) | [MILANO](https://open.spotify.com/album/7DgRfSHOYWDEV6svVQqLiJ) | 4:09 |
 
-Snapshot ID: `MTY2MzU2ODkxOSwwMDAwMDAwMGQxYzdlMTc2ZWM2ZjIyNmRiNWU1ZTgyYjhjZmUyNDk2`
+Snapshot ID: `MTY2MzY1NzE0NSwwMDAwMDAwMDYwYmM5ZWNhYzBiMGY1Y2VmYTEwZGYwZWIzYTk1YmYw`

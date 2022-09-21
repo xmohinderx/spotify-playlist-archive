@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o2KmaQFzHW.md) - [plain]
 
 > Clásicos del folklore argentino de la mano de sus más grandes intérpretes\. Foto: Chaqueño Palavecino.
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,162 likes - 90 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,194 likes - 90 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o2KmaQFzHW.md) - [plain]
 | 60 | [Con Todo Y Mi Tristeza](https://open.spotify.com/track/2JqdigoVWQNWwbPf0N9wbS) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Amaneciendo](https://open.spotify.com/album/2mwNRP6pKKgjAAC1zSmKDF) | 4:07 |
 | 61 | [La Cautiva](https://open.spotify.com/track/15cSWHIrhn61e77VJ6uqYZ) | [Jorge Cafrune](https://open.spotify.com/artist/3uy9MpO6gLAW1LHhDRXM38) | [Yo Digo Lo Que Siento](https://open.spotify.com/album/6aPCsUPEEFY441vUHimyVe) | 3:55 |
 | 62 | [Cancion del Adios](https://open.spotify.com/track/6BklLF2QyVlNyKVj41yEFf) | [Horacio Guarany](https://open.spotify.com/artist/7exkSLWDTlXJYcmBhWp9cl) | [Horacio Guarany](https://open.spotify.com/album/7aD2UhWw7u2wqK23hVKpsT) | 3:09 |
-| 63 | [El Pastor](https://open.spotify.com/track/2rx096DLTOIwU5WcE3oIKn) | [Los 3 Del Río](https://open.spotify.com/artist/36d5z1gYjS3JTSkG7qh61z) | [Los 3 Del Río](https://open.spotify.com/album/4BMvkK3SHicB9fj05q4s0Q) | 3:49 |
-| 64 | [Alma Guaraní](https://open.spotify.com/track/6TR8MOFRSeMPdJ3FNXaosT) | [Teresa Parodi](https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK), [Ramona Galarza](https://open.spotify.com/artist/6SgxxKwvGosbX2WvlVyCmm) | [Correntinas II](https://open.spotify.com/album/2meF4vZWmeuFGlUJVn9Mct) | 2:36 |
+| 63 | [Alma Guaraní](https://open.spotify.com/track/6TR8MOFRSeMPdJ3FNXaosT) | [Teresa Parodi](https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK), [Ramona Galarza](https://open.spotify.com/artist/6SgxxKwvGosbX2WvlVyCmm) | [Correntinas II](https://open.spotify.com/album/2meF4vZWmeuFGlUJVn9Mct) | 2:36 |
+| 64 | [El Pastor](https://open.spotify.com/track/2rx096DLTOIwU5WcE3oIKn) | [Los 3 Del Río](https://open.spotify.com/artist/36d5z1gYjS3JTSkG7qh61z) | [Los 3 Del Río](https://open.spotify.com/album/4BMvkK3SHicB9fj05q4s0Q) | 3:49 |
 | 65 | [Yo Vendo Unos Ojos Negros](https://open.spotify.com/track/1yJfVmvBQ74NwpiEfvoIit) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [Diez años de Soledad](https://open.spotify.com/album/3PAYI7EzSG51CpX9S80qxV) | 2:31 |
 | 66 | [Los Ejes de Mi Carreta](https://open.spotify.com/track/1IMlyGnCZuvVGFTHdfKFzo) | [Atahualpa Yupanqui](https://open.spotify.com/artist/6I2DJf8fZwixA0GTLAvR1b) | [Viajes Por El Mundo](https://open.spotify.com/album/3iiV07YVt8Z0Ztno6uC5Gw) | 2:52 |
 | 67 | [Sueñero](https://open.spotify.com/track/6WvNlAbmHeglLk5MKtRhND) | [Jorge Fandermole](https://open.spotify.com/artist/4l6qncc7ne4yU7z9i1Mtet) | [Navega](https://open.spotify.com/album/6EnBUygxpoTiTTA6z0xhCx) | 4:32 |
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o2KmaQFzHW.md) - [plain]
 | 69 | [El Escondido \- En Vivo](https://open.spotify.com/track/77uewrFQboHT7EkiXP8tTx) | [Duo Coplanacu](https://open.spotify.com/artist/4PGCodvYkKFR1qPfeDlIPQ) | [El Encuentro \(En Vivo\)](https://open.spotify.com/album/7hw95I4pQ3A32MkMqmFV7U) | 2:26 |
 | 70 | [Volveré a Salavina](https://open.spotify.com/track/6ARoKVfaWidfpGqau25soy) | [Peteco Carabajal](https://open.spotify.com/artist/5gii2fYcxLoUHWd1lWe4aT) | [Arde la Vida](https://open.spotify.com/album/1EMQS6RLfRhAd5I7AByWRb) | 2:27 |
 | 71 | [Luna Tucumana](https://open.spotify.com/track/3LIXsWXmk8csGYiIuALBxZ) | [Los Tucu Tucu](https://open.spotify.com/artist/793ACUr9nbTLP7KZUddXzU) | [Eternamente Tucu](https://open.spotify.com/album/1V4WLmq5o6xGosgKdLpq2f) | 3:20 |
-| 72 | [El Preso Nº 9](https://open.spotify.com/track/3GeFKVsojFAPxafcfnCsxX) | [Los 3 Del Río](https://open.spotify.com/artist/36d5z1gYjS3JTSkG7qh61z) | [Los 3 Del Río](https://open.spotify.com/album/4BMvkK3SHicB9fj05q4s0Q) | 4:44 |
+| 72 | [La atardecida](https://open.spotify.com/track/2c1dbVTj8UhMammcH5rb2O) | [Jorge Cafrune](https://open.spotify.com/artist/3uy9MpO6gLAW1LHhDRXM38) | [Inolvidable \- Jorge Cafrune \-](https://open.spotify.com/album/5j1Vzvielu5xKSpS56qSJ5) | 3:51 |
 | 73 | [Luna Tucumana](https://open.spotify.com/track/7x22SRygRje0FD7A3jiYmz) | [Atahualpa Yupanqui](https://open.spotify.com/artist/6I2DJf8fZwixA0GTLAvR1b) | [His Great Songs](https://open.spotify.com/album/4q6egD1rqbJXSaDyoVqVZX) | 3:08 |
-| 74 | [La atardecida](https://open.spotify.com/track/2c1dbVTj8UhMammcH5rb2O) | [Jorge Cafrune](https://open.spotify.com/artist/3uy9MpO6gLAW1LHhDRXM38) | [Inolvidable \- Jorge Cafrune \-](https://open.spotify.com/album/5j1Vzvielu5xKSpS56qSJ5) | 3:51 |
+| 74 | [El Preso Nº 9](https://open.spotify.com/track/3GeFKVsojFAPxafcfnCsxX) | [Los 3 Del Río](https://open.spotify.com/artist/36d5z1gYjS3JTSkG7qh61z) | [Los 3 Del Río](https://open.spotify.com/album/4BMvkK3SHicB9fj05q4s0Q) | 4:44 |
 | 75 | [Viejo Pescador del Paraná \(with Teresa Parodi & Chango Spasiuk\)](https://open.spotify.com/track/38O5VUGdrmOJ4ZWadF0ZR6) | [Nahuel Pennisi](https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe), [Teresa Parodi](https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK), [Chango Spasiuk](https://open.spotify.com/artist/0qGRkfnUqWeG49vbCv6rMY) | [Primavera](https://open.spotify.com/album/5azl5cUyO16ERMNnyg5XYG) | 3:56 |
 | 76 | [La Oma](https://open.spotify.com/track/2e6rIzOlqItCOyrryCXKpl) | [Los Tucu Tucu](https://open.spotify.com/artist/793ACUr9nbTLP7KZUddXzU) | [Tributo, Sus 20 Mejores Canciones](https://open.spotify.com/album/3XQCWyBzi6lMqpbL8GV7UZ) | 3:14 |
 | 77 | [Córdoba Sin Ti](https://open.spotify.com/track/6astyRCNHin1Fabs9ZeOQm) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Grandes Éxitos](https://open.spotify.com/album/07R9tu4qZnWCviNTWHKvNS) | 3:47 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o2KmaQFzHW.md) - [plain]
 | 89 | [La Pomeña](https://open.spotify.com/track/3iSkp3Yk2Eiw34ev6v38JY) | [Dúo Salteño](https://open.spotify.com/artist/5SAeZRhgmJhgq196BR1Mna) | [La Historia](https://open.spotify.com/album/00xeIIfZaedwrbPK61SuyI) | 3:53 |
 | 90 | [Y Va Pasando la Vida](https://open.spotify.com/track/09yvQeZIRvECwGGg964mz0) | [Los Del Suquía](https://open.spotify.com/artist/4Apvih9OZt9ghebGFIVcXI) | [El Estilo Romántico](https://open.spotify.com/album/772LrlucinRlQP8KlOfaF2) | 3:40 |
 
-Snapshot ID: `MTY1MDkxNjI2NywwMDAwMDAwMGUzZDdkNzg3ZjEzODIxODI0ZjM1ZTMwZDcxYzgyMzY0`
+Snapshot ID: `MTY1MDkxNjI2NywwMDAwMDAwMGJmZmM4YjRjNzNhMzY4Y2M4MWFmMTUzNmY0YTEyMTg4`

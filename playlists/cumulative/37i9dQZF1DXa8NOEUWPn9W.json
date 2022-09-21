@@ -1708,6 +1708,24 @@
     },
     {
       "album": {
+        "name": "Crank",
+        "url": "https://open.spotify.com/album/2LP73ifQTZ6b7B8XTGQlLD"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178804,
+      "name": "Crank",
+      "url": "https://open.spotify.com/track/0gtZ8DwXXeqGTc09iFWRBv"
+    },
+    {
+      "album": {
         "name": "Critical",
         "url": "https://open.spotify.com/album/2xsNfWycOQhnQ9Gx1z1Cax"
       },
@@ -4817,7 +4835,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 192000,
       "name": "Make Me Believe",
       "url": "https://open.spotify.com/track/57j1baIxDU1WmSHajjLb3R"

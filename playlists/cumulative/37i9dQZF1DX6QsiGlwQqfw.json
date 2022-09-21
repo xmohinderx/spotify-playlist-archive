@@ -266,6 +266,28 @@
     },
     {
       "album": {
+        "name": "Ekla Chalo Re",
+        "url": "https://open.spotify.com/album/4blV0d19pUiWfAjKWg6MGr"
+      },
+      "artists": [
+        {
+          "name": "Amjad Ali Khan",
+          "url": "https://open.spotify.com/artist/1IsvL603uF5ieIXYApKcnr"
+        },
+        {
+          "name": "Bickram Ghosh",
+          "url": "https://open.spotify.com/artist/5OKmLebAGFQrReDP0cS5GA"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233146,
+      "name": "Ekla Chalo Re",
+      "url": "https://open.spotify.com/track/3i5DPsjHpGT82iu8gFePzI"
+    },
+    {
+      "album": {
         "name": "Classical Instrumental - Pt. Shivkumar Sharma",
         "url": "https://open.spotify.com/album/4bPvlIsznjSGNfFsVByrEF"
       },

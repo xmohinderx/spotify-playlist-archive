@@ -44,6 +44,24 @@
     },
     {
       "album": {
+        "name": "A Knock On The Door",
+        "url": "https://open.spotify.com/album/0q2peKbZDl0x0NuIn7UZ7F"
+      },
+      "artists": [
+        {
+          "name": "Clover Post",
+          "url": "https://open.spotify.com/artist/2XWP1prJQm6CLoHKAqXCEz"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207915,
+      "name": "A Knock On The Door",
+      "url": "https://open.spotify.com/track/1lKkIBFCcsUOG14fPmvbhw"
+    },
+    {
+      "album": {
         "name": "On A Misty Night",
         "url": "https://open.spotify.com/album/4wOwSu9EKBoAywQp51RVV9"
       },
@@ -1106,6 +1124,24 @@
     },
     {
       "album": {
+        "name": "I'm Glad There's You",
+        "url": "https://open.spotify.com/album/77AOGNjcrBXivWuex9jHmc"
+      },
+      "artists": [
+        {
+          "name": "Gene Hart Trio",
+          "url": "https://open.spotify.com/artist/5iUzoJfVuTECa0aM3nCCCh"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241424,
+      "name": "I'm Glad There's You",
+      "url": "https://open.spotify.com/track/46xwl2PYDmeEnYGdXnvW2g"
+    },
+    {
+      "album": {
         "name": "I'm Through With Love",
         "url": "https://open.spotify.com/album/1468tP4UUGtE9dHEKSBnbq"
       },
@@ -1434,6 +1470,24 @@
     },
     {
       "album": {
+        "name": "Life At Point Nemo",
+        "url": "https://open.spotify.com/album/2Y39wUJVAIJP0QcTgB8mpj"
+      },
+      "artists": [
+        {
+          "name": "Andreas Gidlund",
+          "url": "https://open.spotify.com/artist/1i1prvKQoU8d7eTrRHIMtO"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234500,
+      "name": "Life At Point Nemo",
+      "url": "https://open.spotify.com/track/31SW7BwZNGQau7Tmydxzfl"
+    },
+    {
+      "album": {
         "name": "Life In Paradise",
         "url": "https://open.spotify.com/album/5TNHvnh6yY5FwDBqo3g59W"
       },
@@ -1719,6 +1773,24 @@
       "duration_ms": 203613,
       "name": "My Old Flame",
       "url": "https://open.spotify.com/track/3xuslygka7eRD9KYn3MMhc"
+    },
+    {
+      "album": {
+        "name": "Nancy (WIth The Laughing Face)",
+        "url": "https://open.spotify.com/album/3u3JR9SJ5OuiT9dKIdkSpq"
+      },
+      "artists": [
+        {
+          "name": "Cecil Andrews",
+          "url": "https://open.spotify.com/artist/3w12mAdbXsNTiBc4xhM0OV"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245040,
+      "name": "Nancy (WIth The Laughing Face)",
+      "url": "https://open.spotify.com/track/7jQriEubeC9KTClyfJtthT"
     },
     {
       "album": {
@@ -2899,7 +2971,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 191526,
       "name": "You Confuse Me",
       "url": "https://open.spotify.com/track/46WT4GuSWziUJIDtjUJHQr"

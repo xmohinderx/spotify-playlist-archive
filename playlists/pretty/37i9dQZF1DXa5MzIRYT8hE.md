@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5MzIRYT8hE.md) - [plain]
 
 > Si estuviésemo' en el kínder te enviaba cartita'...
 
-[Spotify](https://open.spotify.com/user/spotify) - 586 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 636 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5MzIRYT8hE.md) - [plain]
 | 29 | [No Bailes Sola](https://open.spotify.com/track/1GNSWpe2SB30zYGbNTD96b) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [No Bailes Sola](https://open.spotify.com/album/2fDBlYHy3clr2Q3JRq89Rd) | 3:00 |
 | 30 | [Cositas de la USA](https://open.spotify.com/track/5c4KBG3ATUOmP8y2KHGGoI) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Cositas de la USA](https://open.spotify.com/album/4EwZe3wzi0JWMdobUrpHIs) | 3:09 |
 | 31 | [Casualidad](https://open.spotify.com/track/5FcT2TuosRkokjn3xyncER) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Casualidad](https://open.spotify.com/album/2TMrMWOfJY01n2MRhANkWi) | 3:13 |
-| 32 | [La Funka](https://open.spotify.com/track/0XpMTExp5q4nLZZZ3msDGn) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [La Funka](https://open.spotify.com/album/0EN9tz6tsXi8MOUjNLVf1G) | 3:18 |
-| 33 | [Machu Picchu](https://open.spotify.com/track/6RV9pRLIQiXm3qTGeyQluf) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Mis Manos](https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA) | 2:59 |
+| 32 | [Machu Picchu](https://open.spotify.com/track/6RV9pRLIQiXm3qTGeyQluf) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Mis Manos](https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA) | 2:59 |
+| 33 | [La Funka](https://open.spotify.com/track/0XpMTExp5q4nLZZZ3msDGn) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [La Funka](https://open.spotify.com/album/0EN9tz6tsXi8MOUjNLVf1G) | 3:18 |
 | 34 | [Bebé Que Bien Te Ves](https://open.spotify.com/track/6Se3CKRvYOyuzHGdHAooem) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [JOSE](https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP) | 3:46 |
 | 35 | [Fresa](https://open.spotify.com/track/4BCPItsB94KDLuERZT3aNM) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Lalo Ebratt](https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj) | [Fresa](https://open.spotify.com/album/2v2CUuzRvsBNb4c5Rj8nqi) | 2:45 |
 | 36 | [Tírame Un Hello](https://open.spotify.com/track/3QaVdI6ZgQ3d4VJOscCH1s) | [Ramon Vega](https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP) | [Tírame Un Hello](https://open.spotify.com/album/5TMEMbki3PdX1SnjaxZP1g) | 2:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5MzIRYT8hE.md) - [plain]
 | 49 | [Amándote](https://open.spotify.com/track/0FpOSszlI29MFCyzTjCSXb) | [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A), [Jd Pantoja](https://open.spotify.com/artist/7yjRUA0Iz3VI4Kqa5oPJZK) | [Amándote](https://open.spotify.com/album/2uVA35O8O1eqJtCjI3c1KY) | 2:51 |
 | 50 | [Repítelo](https://open.spotify.com/track/5IDjFFu1TMknvgKVAQ1CRX) | [Nicole Favre](https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1), [Joey Montana](https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX) | [Repítelo](https://open.spotify.com/album/1DNsExIHCqxBbQci0Qc5h3) | 3:21 |
 
-Snapshot ID: `MTY2MjM5NzI0MywwMDAwMDAwMDJmNzBmODhkMDMyMTNlOTY1MTI2NGYyNjMyZGE4ZDVl`
+Snapshot ID: `MTY2MjM5NzI0MywwMDAwMDAwMGJhYTE5N2JhM2JkNGY5MTRhNjRjNTMzYzI4ZjVmMTBm`

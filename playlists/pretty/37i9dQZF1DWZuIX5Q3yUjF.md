@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 
 > Il meglio dell'R&B italiano\. Cover: La Niña
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,227 likes - 100 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,232 likes - 100 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

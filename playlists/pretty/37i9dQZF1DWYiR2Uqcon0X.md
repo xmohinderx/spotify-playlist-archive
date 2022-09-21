@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYiR2Uqcon0X.md) - [plain]
 
 > The Country Coffeehouse is open! Grab a cup and lean back to some low\-key country.
 
-[Spotify](https://open.spotify.com/user/spotify) - 685,077 likes - 83 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 685,177 likes - 83 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYiR2Uqcon0X.md) - [plain]
 | 16 | [Mountain Song](https://open.spotify.com/track/2mDdkeVuUsyIepwzLCxuu6) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Mountain Song](https://open.spotify.com/album/2LSEZyWtzulIr0vS1mD4Xy) | 4:09 |
 | 17 | [Small Town Hypocrite](https://open.spotify.com/track/7Bpivl6q9y2FgSp1nr5MZ8) | [Caylee Hammack](https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Small Town Hypocrite](https://open.spotify.com/album/19Rq07L8SBNeIWRQqFLkiT) | 4:01 |
 | 18 | [I Ain't Ever Loved No One \- Acoustic](https://open.spotify.com/track/2z3HKlpENvfz1Am2MNF2pL) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti), [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [The Other Way](https://open.spotify.com/album/1BjtuA4CufCsT4myvX3WpQ) | 3:19 |
-| 19 | [2016](https://open.spotify.com/track/5ehN5A3B3lDwmFCYO63Wk6) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [SOUTHSIDE](https://open.spotify.com/album/1xRcR4iSouBrfVhuqFkPAJ) | 3:55 |
-| 20 | [The Only Boy Awake](https://open.spotify.com/track/4tRt91OQSbE9eFA3RwgqSd) | [Meadows](https://open.spotify.com/artist/5jN2q5MCOQJaBAYIF7Os4J) | [The Only Boy Awake](https://open.spotify.com/album/0SCTqWnQqJFtgOewaNW062) | 2:43 |
+| 19 | [The Only Boy Awake](https://open.spotify.com/track/4tRt91OQSbE9eFA3RwgqSd) | [Meadows](https://open.spotify.com/artist/5jN2q5MCOQJaBAYIF7Os4J) | [The Only Boy Awake](https://open.spotify.com/album/0SCTqWnQqJFtgOewaNW062) | 2:43 |
+| 20 | [2016](https://open.spotify.com/track/5ehN5A3B3lDwmFCYO63Wk6) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [SOUTHSIDE](https://open.spotify.com/album/1xRcR4iSouBrfVhuqFkPAJ) | 3:55 |
 | 21 | [Wait Up For Me](https://open.spotify.com/track/1pLbS57mLE8iG4njSQIAtX) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Spirit](https://open.spotify.com/album/0MEMCZCFDd9SxPggFpH4WD) | 3:45 |
 | 22 | [Autumn Town Leaves](https://open.spotify.com/track/6HbxpoChDH9ThadFOSAnma) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Weed Garden](https://open.spotify.com/album/7HsQnwEa1RXoPanfrRPbb3) | 3:15 |
 | 23 | [Where You Are \- Acoustic](https://open.spotify.com/track/4OrDWRw53W0rp1Lps64OFb) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Living Room Worktapes](https://open.spotify.com/album/4tqIQcOp7So49ZKF4Mzvp3) | 4:03 |
@@ -42,11 +42,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYiR2Uqcon0X.md) - [plain]
 | 32 | [Girl Goin' Nowhere](https://open.spotify.com/track/2lyEpuvVOnNGzV5c89Vnpf) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Girl Going Nowhere](https://open.spotify.com/album/2FeaUU9jFydTIsVO5F8rNU) | 3:27 |
 | 33 | [Wings](https://open.spotify.com/track/0UU1opJqwJtFvHpCrWK1Mq) | [Jackson Dean](https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl) | [Greenbroke](https://open.spotify.com/album/4Y0V2f8zZ53O0mF9nL1ine) | 4:24 |
 | 34 | [It'll Work Itself Out](https://open.spotify.com/track/1S0VsP2UnnOudyXtzwkVNE) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [They Are Going Away](https://open.spotify.com/album/1vbxpnA4F0erRt8OYPFIE1) | 3:02 |
-| 35 | [Sunday Drive](https://open.spotify.com/track/2TIdEu4aruzo33MTEUDGcf) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Sunday Drive](https://open.spotify.com/album/5am18BIdjp6lOvt9KjKbSd) | 4:53 |
-| 36 | [In His Arms](https://open.spotify.com/track/221KYcs5zXX4ew6f8mumse) | [Jack Ingram](https://open.spotify.com/artist/7HNEfHmDlFofG6YnMt8G7N), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Jon Randall](https://open.spotify.com/artist/696mMRImtIkeOH1cZtwUgX) | [In His Arms](https://open.spotify.com/album/6scCDinSi95lzxNqEW6kpV) | 2:30 |
+| 35 | [In His Arms](https://open.spotify.com/track/221KYcs5zXX4ew6f8mumse) | [Jack Ingram](https://open.spotify.com/artist/7HNEfHmDlFofG6YnMt8G7N), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Jon Randall](https://open.spotify.com/artist/696mMRImtIkeOH1cZtwUgX) | [In His Arms](https://open.spotify.com/album/6scCDinSi95lzxNqEW6kpV) | 2:30 |
+| 36 | [Sunday Drive](https://open.spotify.com/track/2TIdEu4aruzo33MTEUDGcf) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Sunday Drive](https://open.spotify.com/album/5am18BIdjp6lOvt9KjKbSd) | 4:53 |
 | 37 | [Dreams \- The Campfire Sessions](https://open.spotify.com/track/0dZeiSrApr5SAkrH5rQaRH) | [Sarah Darling](https://open.spotify.com/artist/4WCpgJFxAdAsm4FSD9CAfX) | [Dreams \(The Campfire Sessions\)](https://open.spotify.com/album/1of3ww3gH47OlImOLsDAgb) | 3:46 |
-| 38 | [Asking For A Friend](https://open.spotify.com/track/5mXOdtyPOL6GEuZdCyHSsb) | [Devin Dawson](https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu) | [Dark Horse](https://open.spotify.com/album/0veZCRGPKNnX0ufHxiUnTM) | 3:59 |
-| 39 | [hookup scene](https://open.spotify.com/track/59hAttZ1StpkVPD8u2i1MM) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [star\-crossed](https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc) | 3:21 |
+| 38 | [hookup scene](https://open.spotify.com/track/59hAttZ1StpkVPD8u2i1MM) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [star\-crossed](https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc) | 3:21 |
+| 39 | [Asking For A Friend](https://open.spotify.com/track/5mXOdtyPOL6GEuZdCyHSsb) | [Devin Dawson](https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu) | [Dark Horse](https://open.spotify.com/album/0veZCRGPKNnX0ufHxiUnTM) | 3:59 |
 | 40 | [Breakups \- Acoustic](https://open.spotify.com/track/7BI1SvPvEuxV7JRN2FbErX) | [Seaforth](https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG) | [Breakups \(Acoustic\)](https://open.spotify.com/album/4gbjYYWwl4dFlI9Ibjms7i) | 3:47 |
 | 41 | [The Love That We Need](https://open.spotify.com/track/31dEh1OeZGv61RZzDIixue) | [Hayes Carll](https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV) | [Lovers and Leavers](https://open.spotify.com/album/7z5FvJZESvRTwHTJT2uKc4) | 4:08 |
 | 42 | [Love You To Death](https://open.spotify.com/track/5xQTEPjGsLuvwnnvyK3fAA) | [Chord Overstreet](https://open.spotify.com/artist/5D3muNJhYYunbRkh3FKgX0) | [Love You To Death](https://open.spotify.com/album/4vP2ZDfafpuIZoAI9rofKv) | 3:19 |
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYiR2Uqcon0X.md) - [plain]
 | 79 | [Brighter Shade of Blue](https://open.spotify.com/track/1yyXmUb99vQ1BI1ee9gkFh) | [Jordan DePaul](https://open.spotify.com/artist/5uUIZ5FnQjqfOamzj0yK3h) | [Forces \- EP](https://open.spotify.com/album/3Q7yRMDkHa2DM3G7jx3p7I) | 3:48 |
 | 80 | [Crystal Eyes](https://open.spotify.com/track/2dW9kl7WScv2wIY9JxjNN3) | [Thomas Csorba](https://open.spotify.com/artist/21BSy0UVoDXEiRdA9v9uUH) | [Crystal Eyes](https://open.spotify.com/album/1jQ2IrQ8tqYquBkQz0LJ4Y) | 3:42 |
 | 81 | [It Don't Work Like That](https://open.spotify.com/track/0IYLEch1W0g2L6BOxypDdb) | [Kenny Foster](https://open.spotify.com/artist/0awfhMMIeRArR1ESXbCmW4) | [It Don't Work Like That](https://open.spotify.com/album/3i8Mp5tQop1sdcXkJPbfi2) | 3:01 |
-| 82 | [Back to You](https://open.spotify.com/track/5tXygo2KgUWVhpvYW7r0I5) | [Jedd Hughes](https://open.spotify.com/artist/6aZmqT6ycUdRsm7fF7ndwH) | [Back to You](https://open.spotify.com/album/6oKON9XPW9sB4CBnrQL3rs) | 3:44 |
-| 83 | [Breaking Hearts The Hard Way](https://open.spotify.com/track/4bhDhtSwRVRNoLZIy5cbfM) | [Kenton Bryant](https://open.spotify.com/artist/2RAufxLZxgdARBDirloCoB) | [Small Town Lyric: Side B](https://open.spotify.com/album/4uIM8wOcL3tU7F44o29LMs) | 3:09 |
+| 82 | [Breaking Hearts The Hard Way](https://open.spotify.com/track/4bhDhtSwRVRNoLZIy5cbfM) | [Kenton Bryant](https://open.spotify.com/artist/2RAufxLZxgdARBDirloCoB) | [Small Town Lyric: Side B](https://open.spotify.com/album/4uIM8wOcL3tU7F44o29LMs) | 3:09 |
+| 83 | [Back to You](https://open.spotify.com/track/5tXygo2KgUWVhpvYW7r0I5) | [Jedd Hughes](https://open.spotify.com/artist/6aZmqT6ycUdRsm7fF7ndwH) | [Back to You](https://open.spotify.com/album/6oKON9XPW9sB4CBnrQL3rs) | 3:44 |
 
-Snapshot ID: `MTY2MjA5MTIwMCwwMDAwMDAwMGNmYjY3ZTFkYzU3MjhiM2YyOWY4YTYxZTNhZmZiZjZl`
+Snapshot ID: `MTY2MjA5MTIwMCwwMDAwMDAwMGFmOTI5MDYyOWI0OGY5NGZiYWRmNTgyOTQ1ZWY1NWQz`

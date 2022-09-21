@@ -2397,7 +2397,7 @@
       ],
       "date_added": "2021-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-19",
+      "date_removed": null,
       "duration_ms": 231486,
       "name": "Dil Ko Karaar Aaya (From \"Sukoon\")",
       "url": "https://open.spotify.com/track/5urYiIXu1ZhfMAOsp7WDTc"
@@ -5465,7 +5465,7 @@
       ],
       "date_added": "2021-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 169353,
       "name": "Let Me Down Slowly",
       "url": "https://open.spotify.com/track/2qxmye6gAegTMjLKEBoR3d"
@@ -6115,7 +6115,7 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 200000,
       "name": "Manavaalan Thug - From \"Thallumaala\"",
       "url": "https://open.spotify.com/track/0MHiYjjcHNYM9KURa6NveF"
@@ -6229,6 +6229,28 @@
       "duration_ms": 198125,
       "name": "Mann Mera (From \"Table No. 21\")",
       "url": "https://open.spotify.com/track/2BeY2dQPbD8xYxx3yhBTVD"
+    },
+    {
+      "album": {
+        "name": "Marakkuma Nenjam (From \"Vendhu Thanindhathu Kaadu\")",
+        "url": "https://open.spotify.com/album/27abynwxVqQdw5HxC54tHJ"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Thamarai",
+          "url": "https://open.spotify.com/artist/6z3KmBBSYseegqLrRZXZxe"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258319,
+      "name": "Marakkuma Nenjam - From \"Vendhu Thanindhathu Kaadu\"",
+      "url": "https://open.spotify.com/track/4Jr0O3zgoKEk71sIlABkLp"
     },
     {
       "album": {
@@ -7369,6 +7391,24 @@
       "duration_ms": 223271,
       "name": "Oo Solriya Oo Oo Solriya",
       "url": "https://open.spotify.com/track/28fPIWqAfqoEEGSb0rA4LZ"
+    },
+    {
+      "album": {
+        "name": "OOPS",
+        "url": "https://open.spotify.com/album/23Xu8xOIyGOKQvmsM24ESK"
+      },
+      "artists": [
+        {
+          "name": "King",
+          "url": "https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163200,
+      "name": "OOPS",
+      "url": "https://open.spotify.com/track/5RrOyaV2xOAnf62uWj24dB"
     },
     {
       "album": {
@@ -9521,7 +9561,7 @@
       ],
       "date_added": "2022-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 258909,
       "name": "Thaai Kelavi (From \"Thiruchitrambalam\")",
       "url": "https://open.spotify.com/track/1pean7zvZUqcWZaUucH63f"

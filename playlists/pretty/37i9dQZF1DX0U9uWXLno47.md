@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0U9uWXLno47.md) - [plain]
 
 > Clásicos que no sabías que eran covers para disfrutar con papá.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,388 likes - 75 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,405 likes - 75 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0U9uWXLno47.md) - [plain]
 | 9 | [Respect](https://open.spotify.com/track/7s25THrKz86DM225dOYwnr) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [I Never Loved a Man the Way I Love You](https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V) | 2:27 |
 | 10 | [Live And Let Die](https://open.spotify.com/track/0rFWuqFgHAfuzE8uSB9TWR) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Use Your Illusion I](https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz) | 3:02 |
 | 11 | [Me and Bobby McGee](https://open.spotify.com/track/1IqFh00G2kvvMm8pRMpehA) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Pearl \(Legacy Edition\)](https://open.spotify.com/album/3j7nicLAWXM0Fb08q9XGyf) | 4:31 |
-| 12 | [Hound Dog](https://open.spotify.com/track/64Ny7djQ6rNJspquof2KoX) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis' Golden Records](https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek) | 2:16 |
-| 13 | [Higher Ground \- Remastered](https://open.spotify.com/track/5arVt2Wg0zbiWwAOZef2Nl) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Mother's Milk](https://open.spotify.com/album/1oOkcBu5bgkUzZTvKD1m8z) | 3:22 |
+| 12 | [Higher Ground \- Remastered](https://open.spotify.com/track/5arVt2Wg0zbiWwAOZef2Nl) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Mother's Milk](https://open.spotify.com/album/1oOkcBu5bgkUzZTvKD1m8z) | 3:22 |
+| 13 | [Hound Dog](https://open.spotify.com/track/64Ny7djQ6rNJspquof2KoX) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis' Golden Records](https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek) | 2:16 |
 | 14 | [With A Little Help From My Friends](https://open.spotify.com/track/0YZ3J8xzGwLOg4yEgST1YK) | [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI) | [With A Little Help From My Friends](https://open.spotify.com/album/74sIm8QdXqFwYeDS7OfYVw) | 5:12 |
 | 15 | [Mrs\. Robinson \- Remastered](https://open.spotify.com/track/5EugXICXL06waHgP4iTI58) | [The Lemonheads](https://open.spotify.com/artist/6w7fc6IZlo5zwBaKT5jU1X) | [It's A Shame About Ray \(Expanded Edition\)](https://open.spotify.com/album/3AKjod7W29b6DQKwuInZji) | 3:44 |
 | 16 | [Jealous Guy](https://open.spotify.com/track/6EMQo2suHaUYZVsbGVTxSZ) | [Roxy Music](https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo) | [The Best Of Roxy Music](https://open.spotify.com/album/6yui99cp2Q3dosoHtiPJk7) | 4:57 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0U9uWXLno47.md) - [plain]
 | 50 | [It's Oh So Quiet](https://open.spotify.com/track/0OMNQyneWmmZtTQpULYJcl) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Post](https://open.spotify.com/album/2Ul7B1LEHxXzYubtkTMENs) | 3:37 |
 | 51 | [Unchained Melody](https://open.spotify.com/track/2eH4LAMhD20bl8tQseKckb) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Unchained Melody](https://open.spotify.com/album/7BKTOFQtwCo78sCpM7woOG) | 2:36 |
 | 52 | [\(I Can't Get No\) Satisfaction](https://open.spotify.com/track/5FzBxhIsZBFXDTVGWtV4IQ) | [DEVO](https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3) | [Q: Are We Not Men? A: We Are Devo!](https://open.spotify.com/album/1u2Qni8cVRptDTaA00fmBC) | 2:40 |
-| 53 | [Wicked Game \- Recorded at Electric Lady Studios, NYC \(feat\. Chris Isaak\)](https://open.spotify.com/track/7rSSVVqC2sqDhmt1LfWm3J) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK), [Chris Isaak](https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx) | [Spotify Singles](https://open.spotify.com/album/3CtjXkvmvOyiSld7yBZkJ2) | 4:51 |
-| 54 | [Feeling Good](https://open.spotify.com/track/5Yj4AP0JGQWierBFKdKVyS) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Origin of Symmetry](https://open.spotify.com/album/1AP6uGYHdakRgwuWQsP5pK) | 3:18 |
+| 53 | [Feeling Good](https://open.spotify.com/track/5Yj4AP0JGQWierBFKdKVyS) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Origin of Symmetry](https://open.spotify.com/album/1AP6uGYHdakRgwuWQsP5pK) | 3:18 |
+| 54 | [Wicked Game \- Recorded at Electric Lady Studios, NYC \(feat\. Chris Isaak\)](https://open.spotify.com/track/7rSSVVqC2sqDhmt1LfWm3J) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK), [Chris Isaak](https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx) | [Spotify Singles](https://open.spotify.com/album/3CtjXkvmvOyiSld7yBZkJ2) | 4:51 |
 | 55 | [What The World Needs Now](https://open.spotify.com/track/0x7EvWqUCbSspdAmYocBOs) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [What The World Needs Now](https://open.spotify.com/album/5OUM0sfRz3zGucUOCfhvJD) | 2:26 |
 | 56 | [Don't Be Cruel](https://open.spotify.com/track/6A1MJbqxcHvNcT0u9qMqEP) | [Cheap Trick](https://open.spotify.com/artist/1LB8qB5BPb3MHQrfkvifXU) | [Lap Of Luxury](https://open.spotify.com/album/1aYjx4tcmci0lYwT5sKgvM) | 3:07 |
 | 57 | [Rocket Man](https://open.spotify.com/track/3q6BJcC0i7UyM8oWn6ntRQ) | [My Morning Jacket](https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM) | [Chapter 1: The Sandworm Cometh \- Early Recordings, B\-Sides, Covers, y Mas](https://open.spotify.com/album/1yUh9U9797bPXiqDLZVuht) | 4:59 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0U9uWXLno47.md) - [plain]
 | 74 | [Eyes Without A Face](https://open.spotify.com/track/48TH4snarSvpIF6559Gjry) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Aisles](https://open.spotify.com/album/6yp8LzFMaKy0WyPpTyYEB7) | 4:40 |
 | 75 | [Everybody Wants to Rule the World](https://open.spotify.com/track/75lEtKX3MoBmnUSmXn75E2) | [Brothertiger](https://open.spotify.com/artist/2MaMzvFmtu68r9zpdJ4tLE) | [Brothertiger Plays: Tears for Fears' Songs from the Big Chair](https://open.spotify.com/album/2Zv6ExetUe6w00tINrreEO) | 4:21 |
 
-Snapshot ID: `MTYzNTUyNTA3NiwwMDAwMDAwMDA3ODFlZDRjMjVkY2RkYzE4ZDVjZWIzMDI4ZTQzMmJj`
+Snapshot ID: `MTYzNTUyNTA3NiwwMDAwMDAwMGU2ZTNkYTA3ZGYyZTcyNDVmYTAyMWUzZWIxYmE0ZDZh`

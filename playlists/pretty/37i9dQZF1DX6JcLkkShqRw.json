@@ -1,12 +1,12 @@
 {
   "description": "Flow sudamericano con Cris Mj.",
-  "num_followers": 266307,
+  "num_followers": 266497,
   "original_name": "Flow al Sur",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjczMTUyNywwMDAwMDAwMDUzYTE3OGMwNzZlZWZiNWI4NDczOTE3NTQzM2NiNDdj",
+  "snapshot_id": "MTY2MjczMTUyNywwMDAwMDAwMGVmZjRhYmI2ODcxMTY1NTExYTBjNDBiOTcwYWVjOTE3",
   "tracks": [
     {
       "added_at": "2022-09-09 13:52:07",
@@ -495,62 +495,6 @@
     {
       "added_at": "2022-09-09 13:52:07",
       "album": {
-        "name": "Entre Nosotros",
-        "url": "https://open.spotify.com/album/4cEu5VC6QCq4NGYTNvwNCR"
-      },
-      "artists": [
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        },
-        {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
-        }
-      ],
-      "duration_ms": 192352,
-      "name": "Entre Nosotros",
-      "url": "https://open.spotify.com/track/6w8yBI2vthyN9UnwO4UBWb"
-    },
-    {
-      "added_at": "2022-09-09 13:52:07",
-      "album": {
-        "name": "UN PASO",
-        "url": "https://open.spotify.com/album/490OfeapGjQDnyiLjDAJcL"
-      },
-      "artists": [
-        {
-          "name": "Trueno",
-          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 192143,
-      "name": "UN PASO",
-      "url": "https://open.spotify.com/track/4LUzWf03uKUeEKvo6FbhV0"
-    },
-    {
-      "added_at": "2022-09-09 13:52:07",
-      "album": {
-        "name": "Temporada de Reggaet\u00f3n 2",
-        "url": "https://open.spotify.com/album/6anO6Uh11TivGpTI56aKCH"
-      },
-      "artists": [
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        }
-      ],
-      "duration_ms": 182610,
-      "name": "GIVENCHY",
-      "url": "https://open.spotify.com/track/2bbwjxA68m9PHZFWgF1fze"
-    },
-    {
-      "added_at": "2022-09-09 13:52:07",
-      "album": {
         "name": "BABY OTAKU",
         "url": "https://open.spotify.com/album/7HUH0lFoay2KzGEZqGp55G"
       },
@@ -575,6 +519,62 @@
       "duration_ms": 176470,
       "name": "BABY OTAKU",
       "url": "https://open.spotify.com/track/0kTMK4gNFfLXaTb62w1UaJ"
+    },
+    {
+      "added_at": "2022-09-09 13:52:07",
+      "album": {
+        "name": "Entre Nosotros",
+        "url": "https://open.spotify.com/album/4cEu5VC6QCq4NGYTNvwNCR"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        },
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        }
+      ],
+      "duration_ms": 192352,
+      "name": "Entre Nosotros",
+      "url": "https://open.spotify.com/track/6w8yBI2vthyN9UnwO4UBWb"
+    },
+    {
+      "added_at": "2022-09-09 13:52:07",
+      "album": {
+        "name": "Temporada de Reggaet\u00f3n 2",
+        "url": "https://open.spotify.com/album/6anO6Uh11TivGpTI56aKCH"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "duration_ms": 182610,
+      "name": "GIVENCHY",
+      "url": "https://open.spotify.com/track/2bbwjxA68m9PHZFWgF1fze"
+    },
+    {
+      "added_at": "2022-09-09 13:52:07",
+      "album": {
+        "name": "UN PASO",
+        "url": "https://open.spotify.com/album/490OfeapGjQDnyiLjDAJcL"
+      },
+      "artists": [
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 192143,
+      "name": "UN PASO",
+      "url": "https://open.spotify.com/track/4LUzWf03uKUeEKvo6FbhV0"
     },
     {
       "added_at": "2022-09-09 13:52:07",
@@ -671,6 +671,22 @@
     {
       "added_at": "2022-09-09 13:52:07",
       "album": {
+        "name": "Chance",
+        "url": "https://open.spotify.com/album/4vOLBVH0wiFWa4Us2h5Vo4"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 204003,
+      "name": "Chance",
+      "url": "https://open.spotify.com/track/2SJZdZ5DLtlRosJ2xHJJJa"
+    },
+    {
+      "added_at": "2022-09-09 13:52:07",
+      "album": {
         "name": "S.O.S.",
         "url": "https://open.spotify.com/album/0zpQxifc8mVEx9LzmU1veR"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 243500,
       "name": "S.O.S.",
       "url": "https://open.spotify.com/track/6QxjQa0Kdf7a1oRrGCQqEX"
-    },
-    {
-      "added_at": "2022-09-09 13:52:07",
-      "album": {
-        "name": "Chance",
-        "url": "https://open.spotify.com/album/4vOLBVH0wiFWa4Us2h5Vo4"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 204003,
-      "name": "Chance",
-      "url": "https://open.spotify.com/track/2SJZdZ5DLtlRosJ2xHJJJa"
     },
     {
       "added_at": "2022-09-09 13:52:07",
@@ -823,26 +823,6 @@
     {
       "added_at": "2022-09-09 13:52:07",
       "album": {
-        "name": "Salimo de Noche",
-        "url": "https://open.spotify.com/album/0S3Zf8tQnpcnRbzY9qJ2x8"
-      },
-      "artists": [
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        },
-        {
-          "name": "Trueno",
-          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
-        }
-      ],
-      "duration_ms": 177857,
-      "name": "Salimo de Noche",
-      "url": "https://open.spotify.com/track/6P096SaOzrgGxs8NWOfX7M"
-    },
-    {
-      "added_at": "2022-09-09 13:52:07",
-      "album": {
         "name": "KU'",
         "url": "https://open.spotify.com/album/56HOIAzfolOPCOmExaPHxf"
       },
@@ -863,6 +843,26 @@
       "duration_ms": 230544,
       "name": "KU'",
       "url": "https://open.spotify.com/track/261Jxss9utRCMg11TWEU8M"
+    },
+    {
+      "added_at": "2022-09-09 13:52:07",
+      "album": {
+        "name": "Salimo de Noche",
+        "url": "https://open.spotify.com/album/0S3Zf8tQnpcnRbzY9qJ2x8"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        },
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        }
+      ],
+      "duration_ms": 177857,
+      "name": "Salimo de Noche",
+      "url": "https://open.spotify.com/track/6P096SaOzrgGxs8NWOfX7M"
     },
     {
       "added_at": "2022-09-09 13:52:07",
@@ -967,6 +967,22 @@
     {
       "added_at": "2022-09-09 13:52:07",
       "album": {
+        "name": "DANCE CRIP",
+        "url": "https://open.spotify.com/album/4SpMtimC78w3jqSXl2eeuI"
+      },
+      "artists": [
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        }
+      ],
+      "duration_ms": 165019,
+      "name": "DANCE CRIP",
+      "url": "https://open.spotify.com/track/1kjs5eR4DMzyB0gm1Z8waV"
+    },
+    {
+      "added_at": "2022-09-09 13:52:07",
+      "album": {
         "name": "T\u00fa crees en m\u00ed?",
         "url": "https://open.spotify.com/album/4wVrfNzE3Dab7EB1Xn6SHo"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 168508,
       "name": "intoxicao",
       "url": "https://open.spotify.com/track/67Wqby5IjOMMpIYwqmCYOG"
-    },
-    {
-      "added_at": "2022-09-09 13:52:07",
-      "album": {
-        "name": "DANCE CRIP",
-        "url": "https://open.spotify.com/album/4SpMtimC78w3jqSXl2eeuI"
-      },
-      "artists": [
-        {
-          "name": "Trueno",
-          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
-        }
-      ],
-      "duration_ms": 165019,
-      "name": "DANCE CRIP",
-      "url": "https://open.spotify.com/track/1kjs5eR4DMzyB0gm1Z8waV"
     },
     {
       "added_at": "2022-09-09 13:52:07",
@@ -1091,26 +1091,22 @@
     {
       "added_at": "2022-09-09 13:52:07",
       "album": {
-        "name": "NO ERES SANTA",
-        "url": "https://open.spotify.com/album/2Ago8ElVy0vKd7izBKDxvC"
+        "name": "De Pari",
+        "url": "https://open.spotify.com/album/0DaXSOZtSBlAEXgUxLr9hj"
       },
       "artists": [
         {
-          "name": "Ak4:20",
-          "url": "https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl"
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
         },
         {
-          "name": "King Savagge",
-          "url": "https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU"
-        },
-        {
-          "name": "KEVVO",
-          "url": "https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ"
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
         }
       ],
-      "duration_ms": 259090,
-      "name": "NO ERES SANTA",
-      "url": "https://open.spotify.com/track/3hK7qOPSyva12t0ldBvPqg"
+      "duration_ms": 174250,
+      "name": "De Pari",
+      "url": "https://open.spotify.com/track/2oYbmygoO3gzLychByw297"
     },
     {
       "added_at": "2022-09-09 13:52:07",
@@ -1139,22 +1135,26 @@
     {
       "added_at": "2022-09-09 13:52:07",
       "album": {
-        "name": "De Pari",
-        "url": "https://open.spotify.com/album/0DaXSOZtSBlAEXgUxLr9hj"
+        "name": "NO ERES SANTA",
+        "url": "https://open.spotify.com/album/2Ago8ElVy0vKd7izBKDxvC"
       },
       "artists": [
         {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+          "name": "Ak4:20",
+          "url": "https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl"
         },
         {
-          "name": "Mora",
-          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+          "name": "King Savagge",
+          "url": "https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU"
+        },
+        {
+          "name": "KEVVO",
+          "url": "https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ"
         }
       ],
-      "duration_ms": 174250,
-      "name": "De Pari",
-      "url": "https://open.spotify.com/track/2oYbmygoO3gzLychByw297"
+      "duration_ms": 259090,
+      "name": "NO ERES SANTA",
+      "url": "https://open.spotify.com/track/3hK7qOPSyva12t0ldBvPqg"
     },
     {
       "added_at": "2022-09-09 13:52:07",
@@ -1775,6 +1775,26 @@
     {
       "added_at": "2022-09-09 13:52:07",
       "album": {
+        "name": "Revenge",
+        "url": "https://open.spotify.com/album/3KFx3Wq5uUF763v3y0CoFn"
+      },
+      "artists": [
+        {
+          "name": "Max Valenzuela",
+          "url": "https://open.spotify.com/artist/0MlQeZCQnaFSGv9gRiE1rD"
+        },
+        {
+          "name": "Red Fingers",
+          "url": "https://open.spotify.com/artist/1tLTF6ypPIzjzarePwdcNo"
+        }
+      ],
+      "duration_ms": 134000,
+      "name": "Revenge",
+      "url": "https://open.spotify.com/track/7JEXEuuEQ7qDTW1DAOpFCz"
+    },
+    {
+      "added_at": "2022-09-09 13:52:07",
+      "album": {
         "name": "Ta' Soltera",
         "url": "https://open.spotify.com/album/0LxYrwfjziIbRD55pEIwXc"
       },
@@ -1791,26 +1811,6 @@
       "duration_ms": 195172,
       "name": "Ta' Soltera",
       "url": "https://open.spotify.com/track/48D3hmwzP6UiJa4jj6tR8y"
-    },
-    {
-      "added_at": "2022-09-09 13:52:07",
-      "album": {
-        "name": "MARIMBA GRINGA",
-        "url": "https://open.spotify.com/album/3nF9LhqFqL6EL1HnwTxWlS"
-      },
-      "artists": [
-        {
-          "name": "Ak4:20",
-          "url": "https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl"
-        },
-        {
-          "name": "Brray",
-          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
-        }
-      ],
-      "duration_ms": 185934,
-      "name": "MARIMBA GRINGA",
-      "url": "https://open.spotify.com/track/7KI6CvvTqXCuENTM6xJ3dX"
     },
     {
       "added_at": "2022-09-09 13:52:07",
@@ -1835,22 +1835,22 @@
     {
       "added_at": "2022-09-09 13:52:07",
       "album": {
-        "name": "Revenge",
-        "url": "https://open.spotify.com/album/3KFx3Wq5uUF763v3y0CoFn"
+        "name": "MARIMBA GRINGA",
+        "url": "https://open.spotify.com/album/3nF9LhqFqL6EL1HnwTxWlS"
       },
       "artists": [
         {
-          "name": "Max Valenzuela",
-          "url": "https://open.spotify.com/artist/0MlQeZCQnaFSGv9gRiE1rD"
+          "name": "Ak4:20",
+          "url": "https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl"
         },
         {
-          "name": "Red Fingers",
-          "url": "https://open.spotify.com/artist/1tLTF6ypPIzjzarePwdcNo"
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
         }
       ],
-      "duration_ms": 134000,
-      "name": "Revenge",
-      "url": "https://open.spotify.com/track/7JEXEuuEQ7qDTW1DAOpFCz"
+      "duration_ms": 185934,
+      "name": "MARIMBA GRINGA",
+      "url": "https://open.spotify.com/track/7KI6CvvTqXCuENTM6xJ3dX"
     },
     {
       "added_at": "2022-09-09 13:52:07",
@@ -2099,6 +2099,26 @@
     {
       "added_at": "2022-09-09 13:52:07",
       "album": {
+        "name": "Me Ense\u00f1aste (Remix)",
+        "url": "https://open.spotify.com/album/3TNDvI62UbwgzEK0RZ99Rt"
+      },
+      "artists": [
+        {
+          "name": "Sael",
+          "url": "https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "duration_ms": 240773,
+      "name": "Me Ense\u00f1aste - Remix",
+      "url": "https://open.spotify.com/track/4tFglUmIjJtN0ViGNNv4mi"
+    },
+    {
+      "added_at": "2022-09-09 13:52:07",
+      "album": {
         "name": "Experimento 01",
         "url": "https://open.spotify.com/album/0TD1YrV99XSu9wwRxe0MEa"
       },
@@ -2131,26 +2151,6 @@
       "duration_ms": 137732,
       "name": "Huella Letal",
       "url": "https://open.spotify.com/track/4aOobk7xXbsvhUFiLCUHOv"
-    },
-    {
-      "added_at": "2022-09-09 13:52:07",
-      "album": {
-        "name": "Me Ense\u00f1aste (Remix)",
-        "url": "https://open.spotify.com/album/3TNDvI62UbwgzEK0RZ99Rt"
-      },
-      "artists": [
-        {
-          "name": "Sael",
-          "url": "https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux"
-        },
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        }
-      ],
-      "duration_ms": 240773,
-      "name": "Me Ense\u00f1aste - Remix",
-      "url": "https://open.spotify.com/track/4tFglUmIjJtN0ViGNNv4mi"
     }
   ],
   "unique_name": "Flow al Sur",

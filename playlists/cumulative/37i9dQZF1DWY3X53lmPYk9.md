@@ -4,7 +4,7 @@
 
 > Soft and gentle piano interpretations of Jazz classics.
 
-161 songs - 9 hr 40 min - [published](https://open.spotify.com/playlist/6xTqxAHYGsV8fLb86hItpW)
+162 songs - 9 hr 43 min - [published](https://open.spotify.com/playlist/6xTqxAHYGsV8fLb86hItpW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Can't Help Lovin' Dat Man](https://open.spotify.com/track/4RHRD6ZW9iC6Bixb0zY3G3) | [Alec Taylor](https://open.spotify.com/artist/2sYoTL6PUYCa6rZo1SKFyd) | [Alfie](https://open.spotify.com/album/6FJY4E8KZ9yzv6WV6q8tOf) | 2:59 | 2022-08-11 |  |
 | [Central Park West](https://open.spotify.com/track/0AeEcNkwXLpPYyuoweLVta) | [Cecil Andrews](https://open.spotify.com/artist/3w12mAdbXsNTiBc4xhM0OV) | [Central Park West](https://open.spotify.com/album/5eBqq6qEjLjjxw1TPAShYB) | 3:16 | 2022-06-01 |  |
 | [Cheek to Cheek](https://open.spotify.com/track/4Fsl78MLuUrqJMnFXBctW8) | [Penford Giles](https://open.spotify.com/artist/1dIU42U3gWRcyOT7cdNiv6) | [Cheek to Cheek](https://open.spotify.com/album/7ex7nfyDTp2UDpYxKWKsPh) | 3:02 | 2022-06-14 |  |
+| [Come Lay beside Me](https://open.spotify.com/track/5FzAFM8TN0RyOXHNO5tHTm) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [Come Lay beside Me](https://open.spotify.com/album/1IQfTAYfEDbuZ4RwbU26di) | 3:03 | 2022-09-20 |  |
 | [Come Rain Or Come Shine](https://open.spotify.com/track/2KaiRciXTCoGWvDUG6UyXy) | [Maurice Miro](https://open.spotify.com/artist/3xjYq5W31V01cF7BSvVrYb) | [Come Rain Or Come Shine](https://open.spotify.com/album/4BXX5ct1sM5Uk2J1SeY0TH) | 3:40 | 2022-04-26 |  |
 | [Conversation](https://open.spotify.com/track/3unem1h9c7rRbYvJ9wzJHY) | [Benjamine Hans](https://open.spotify.com/artist/7gEDhVsbRiapQyIVdBeoCr) | [Conversation](https://open.spotify.com/album/15dZOVU2WT5WKHXo2qdACs) | 2:45 | 2022-05-10 |  |
 | [Cry Me A River](https://open.spotify.com/track/67iXiDkmgd5cy2Tfcowx1G) | [Ward Stetson](https://open.spotify.com/artist/4cgzkhsBdCNVDzBrx7is7S) | [Past Closing Time](https://open.spotify.com/album/1E9xMRwRNCkkIW1sCTZm9z) | 3:28 | 2022-01-13 |  |

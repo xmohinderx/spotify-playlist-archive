@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2WkIBRaChxW.md) - [plain]
 
 > What's happening in R&B, right now\. Cover: WizKid
 
-[Spotify](https://open.spotify.com/user/spotify) - 355,169 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 355,183 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2WkIBRaChxW.md) - [plain]
 | 10 | [Outside](https://open.spotify.com/track/4VY32hdU4byJ6cpEBAXRul) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Outside](https://open.spotify.com/album/2Wm8mlkUTt3yzDZ3qrPIe6) | 3:08 |
 | 11 | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp) | 3:59 |
 | 12 | [Monalisa](https://open.spotify.com/track/3baPniPXS0iEII8rDUJdYP) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Monalisa](https://open.spotify.com/album/6eGxth6Bbmudt9k7ybo5Ll) | 3:32 |
-| 13 | [All Along \(Kaytranada Remix\)](https://open.spotify.com/track/35WIVWDcONu3B64ZcYbPX6) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [All Along \(Kaytranada Remix\)](https://open.spotify.com/album/3UtKaTe3ZGpNo0cVdffTCi) | 4:44 |
+| 13 | [All Along \(Kaytranada Remix\)](https://open.spotify.com/track/3fTwZdX5X3BIsdEJvai7Be) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Play With The Changes \(Remixed\)](https://open.spotify.com/album/3fMIqhERSssKur9QOqa5X1) | 4:44 |
 | 14 | [FOREVER \(with 6LACK\)](https://open.spotify.com/track/2lVYLiHGIX6GajMqYXF1Un) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [YESSIE](https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV) | 3:43 |
 | 15 | [One 4 U](https://open.spotify.com/track/0rrUIAypiKTdpLw4A80ti3) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [One 4 U](https://open.spotify.com/album/0ZKzGLUdPNcbVvDUbVUycX) | 2:28 |
 | 16 | [Closure](https://open.spotify.com/track/1OcnAp6rB3ZbQbXw1ncAI3) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s) | [Closure](https://open.spotify.com/album/1MqcGz8uF79zpVcH75JH19) | 2:57 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2WkIBRaChxW.md) - [plain]
 | 74 | [Out Loud \(feat\. Kehlani\)](https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Broken Hearts Club](https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y) | 3:23 |
 | 75 | [Please Do Not Lean \(feat\. BADBADNOTGOOD\)](https://open.spotify.com/track/5uXO1sjZ7VbNKexKaFRna3) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [Please Do Not Lean](https://open.spotify.com/album/2kdNEYAPZlAoMaIzYQWM8U) | 4:00 |
 
-Snapshot ID: `MTY2MzMzODYyMCwwMDAwMDAwMGYwZGNhNmFjMTg4NWVmNDNjOWM0N2ZiOGFjYWM2ZjJm`
+Snapshot ID: `MTY2MzMzODYyMCwwMDAwMDAwMDMwNzAwYzRlM2Q4ZGQ3ZWNkZjg3MTJhMWIzZGFlY2Vh`

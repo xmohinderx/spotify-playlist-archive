@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtKpmml7moA.md) - [plain]
 
 > Simmer down with this relaxing selection of old and new Reggae.
 
-[Spotify](https://open.spotify.com/user/spotify) - 353,563 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 353,647 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtKpmml7moA.md) - [plain]
 | 35 | [Straighter Roads](https://open.spotify.com/track/7gQloqODGAogRuqwjfdXcV) | [Julian Marley](https://open.spotify.com/artist/7a4td2FhkuH58dApiBvnrv) | [As I Am](https://open.spotify.com/album/6xmVHLUAKoduiLAyQ7ZCjX) | 4:30 |
 | 36 | [Stars Align](https://open.spotify.com/track/6fhKMr6Yy8hUr28tmWsejh) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [The ExPerience](https://open.spotify.com/album/3fijbBVRaz2CUyoWAV1ZlK) | 3:21 |
 | 37 | [Made To Fall In Love](https://open.spotify.com/track/2JKv3r2AUmWjrDFO3unlpq) | [Bitty McLean](https://open.spotify.com/artist/2t3eEaWiT5weaCJIh6aRv2), [Sly & Robbie](https://open.spotify.com/artist/6jJG408jz8VayohX86nuTt) | [Reggae Gold 2019](https://open.spotify.com/album/5cfZ5mWTwZwyzSSgDeiFN6) | 3:44 |
-| 38 | [Radio](https://open.spotify.com/track/3dRjsMrxyqUbN5bfyLGbOS) | [Jaz Elise](https://open.spotify.com/artist/1KcAq7rtxXV2RJ7BsFFItA) | [The Golden Hour](https://open.spotify.com/album/5KvwBh1yyh6HiaTGDBzP78) | 3:00 |
+| 38 | [If You Only Knew](https://open.spotify.com/track/7kXo7sb4Lz9sBNW5KT8Zk7) | [Sevana](https://open.spotify.com/artist/2TZL5FEo1CGwmgdMSFwsdS) | [If You Only Knew](https://open.spotify.com/album/4rpHnpIibaiGM1WVUHkvIk) | 4:01 |
 | 39 | [Same So](https://open.spotify.com/track/54Dt888vzNrG90F51f1kSW) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr) | [Same So](https://open.spotify.com/album/2TRIUatF5kFierYyXW8zUq) | 3:28 |
-| 40 | [If You Only Knew](https://open.spotify.com/track/7kXo7sb4Lz9sBNW5KT8Zk7) | [Sevana](https://open.spotify.com/artist/2TZL5FEo1CGwmgdMSFwsdS) | [If You Only Knew](https://open.spotify.com/album/4rpHnpIibaiGM1WVUHkvIk) | 4:01 |
+| 40 | [Radio](https://open.spotify.com/track/3dRjsMrxyqUbN5bfyLGbOS) | [Jaz Elise](https://open.spotify.com/artist/1KcAq7rtxXV2RJ7BsFFItA) | [The Golden Hour](https://open.spotify.com/album/5KvwBh1yyh6HiaTGDBzP78) | 3:00 |
 | 41 | [Real Love](https://open.spotify.com/track/27yBUDE0EBDxQUkg72uL49) | [Jesse Royal](https://open.spotify.com/artist/4aXUVIuNCDbLoRAYfuVDi1) | [Lily of da Valley](https://open.spotify.com/album/4fFTF01yyYfAbsI0ktBb7H) | 4:09 |
 | 42 | [To See](https://open.spotify.com/track/2sY6QwNrA9yWZRPW2WtHTq) | [Queen Ifrica](https://open.spotify.com/artist/5SK75gxwqKq5Zc1mdLfwv9) | [Reggae Gold 2019](https://open.spotify.com/album/5cfZ5mWTwZwyzSSgDeiFN6) | 3:44 |
 | 43 | [My Kinda Girl](https://open.spotify.com/track/3ca9aWbM7H6j138sWF4fPG) | [Beres Hammond](https://open.spotify.com/artist/2ruMkdO4e1tJWDHsYSEtxr) | [Never Ending](https://open.spotify.com/album/6pJrd3qBSNWEeidE1W0Ukd) | 4:14 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtKpmml7moA.md) - [plain]
 | 45 | [Buried Alive](https://open.spotify.com/track/0TihbhZf0uXlEcxDj4Fzpi) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [Upside Down 2020](https://open.spotify.com/album/0gZau2nRsooGhfgul60N4l) | 3:52 |
 | 46 | [Use Me](https://open.spotify.com/track/3KDk6mLLHSd1YiaLtnAQdt) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij) | [Use Me](https://open.spotify.com/album/592Zbs7JSgwspo1O7BU1K1) | 3:12 |
 | 47 | [Truly](https://open.spotify.com/track/0O9R4pEwilYGjLSktvG3Ix) | [Etana](https://open.spotify.com/artist/6oF8gXhgD5ZTQ0biyaw4Cm) | [Gemini](https://open.spotify.com/album/4zpuo5gvZ9Ncqliyl5ReeH) | 4:00 |
-| 48 | [Holy Ground \(feat\. Buju Banton\)](https://open.spotify.com/track/1LZPELQqai6rO6JgvZtElr) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [Father Of Asahd](https://open.spotify.com/album/1YgX8BWKleDlDeCOFklRfz) | 3:17 |
+| 48 | [New Blessings](https://open.spotify.com/track/63foYg1Lz1djaWQizq7qjX) | [¡MAYDAY!](https://open.spotify.com/artist/71WhWdsVNTLxsnfe8M3Peh) | [South Of 5th](https://open.spotify.com/album/5uuDX34CbxXIArcU4PW2c6) | 4:19 |
 | 49 | [Still I Wonder](https://open.spotify.com/track/1KTO0B48WH9AwjgbenacjP) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr) | [In Search Of Lost Time](https://open.spotify.com/album/3kF6kDaK450bGM7rgOTVgW) | 2:52 |
-| 50 | [New Blessings](https://open.spotify.com/track/63foYg1Lz1djaWQizq7qjX) | [¡MAYDAY!](https://open.spotify.com/artist/71WhWdsVNTLxsnfe8M3Peh) | [South Of 5th](https://open.spotify.com/album/5uuDX34CbxXIArcU4PW2c6) | 4:19 |
+| 50 | [Holy Ground \(feat\. Buju Banton\)](https://open.spotify.com/track/1LZPELQqai6rO6JgvZtElr) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [Father Of Asahd](https://open.spotify.com/album/1YgX8BWKleDlDeCOFklRfz) | 3:17 |
 
-Snapshot ID: `MTY2MzMxNzA5NSwwMDAwMDAwMDM1ZmQ2NzgyZTBhMzVjNDBiOTI5ZTUwMjI4YWNhNjA1`
+Snapshot ID: `MTY2MzMxNzA5NSwwMDAwMDAwMDE0ZDQxN2Q0YmZhODhlZjkzZGYyMzdhY2UyYjQ1YzA3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dTWjpijlub.md) - [plain]
 
 > The champs are here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,288 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,364 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,9 +28,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dTWjpijlub.md) - [plain]
 | 18 | [Alright](https://open.spotify.com/track/3iVcZ5G6tvkXZkZKlMpIUs) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [To Pimp A Butterfly](https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP) | 3:39 |
 | 19 | [Hot Shit \(feat\. Ye & Lil Durk\)](https://open.spotify.com/track/3uJFmluXzYedoJcvhpC1AW) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Hot Shit \(feat\. Ye & Lil Durk\)](https://open.spotify.com/album/2qTIltFPwJzsyssGeOwdRO) | 3:31 |
 | 20 | [Put Me In The Game](https://open.spotify.com/track/33dE78WbBIzSCZMYDdOaTr) | [Symba](https://open.spotify.com/artist/06S3fr7xEES7e3QPXhu3ay) | [Put Me In The Game](https://open.spotify.com/album/4bl6fMBTVSXZZwKwtEBZGj) | 1:47 |
-| 21 | [Dua Lipa](https://open.spotify.com/track/0LnS7aOdOdI1dNKZqdOLz4) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Come Home The Kids Miss You](https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw) | 2:15 |
+| 21 | [Ballin' \(with Roddy Ricch\)](https://open.spotify.com/track/3QzAOrNlsabgbMwlZt7TAY) | [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Perfect Ten](https://open.spotify.com/album/2WrNHOba5u6P9S9xEboaUy) | 3:00 |
 | 22 | [Laugh Now Cry Later \(feat\. Lil Durk\)](https://open.spotify.com/track/2SAqBLGA283SUiwJ3xOUVI) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Laugh Now Cry Later \(feat\. Lil Durk\)](https://open.spotify.com/album/0qGdc7fNq9RNIPEzZufa43) | 4:21 |
-| 23 | [Ballin' \(with Roddy Ricch\)](https://open.spotify.com/track/3QzAOrNlsabgbMwlZt7TAY) | [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Perfect Ten](https://open.spotify.com/album/2WrNHOba5u6P9S9xEboaUy) | 3:00 |
+| 23 | [Dua Lipa](https://open.spotify.com/track/0LnS7aOdOdI1dNKZqdOLz4) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Come Home The Kids Miss You](https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw) | 2:15 |
 | 24 | [Distraction](https://open.spotify.com/track/1oc92BMKYkNxK17C2GtyRM) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Distraction](https://open.spotify.com/album/30OwIxHqQILQ9vwd86sD3o) | 2:51 |
 | 25 | [Sleazy Flow \(with Lil Baby\) \- Remix](https://open.spotify.com/track/5cx7vkF8BQ0iOsVpfvZbnz) | [SleazyWorld Go](https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Sleazy Flow \(Remix\)](https://open.spotify.com/album/4N1yQmAeHbswH8jbcRnsEG) | 2:41 |
 | 26 | [family ties \(with Kendrick Lamar\)](https://open.spotify.com/track/7Bpx2vsWfQFBACRz4h3IqH) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [family ties \(with Kendrick Lamar\)](https://open.spotify.com/album/3HqmX8hGcbbQZODgayNEYx) | 4:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dTWjpijlub.md) - [plain]
 | 49 | [Plain Jane](https://open.spotify.com/track/4dVpf9jZjcORqGTLUaeYj9) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [Still Striving](https://open.spotify.com/album/0tQ7Iu6EicQTPyhYRNWjaT) | 2:53 |
 | 50 | [Ball If I Want To](https://open.spotify.com/track/0cu0rhnlCnJ7JIeHRiLpj3) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Ball If I Want To](https://open.spotify.com/album/6N9oICOUm4QT2YpWdKwUlu) | 1:52 |
 
-Snapshot ID: `MTY2MjA5MTI2MCwwMDAwMDAwMDlhNzYyM2ZmZjhjOTI4YzU0MzUzNDgwNjFhOGI3NGYy`
+Snapshot ID: `MTY2MjA5MTI2MCwwMDAwMDAwMDhhMjFiYjc5YTgzMWJiNGYxZTA5OTNhMzNhNjQzY2Fh`

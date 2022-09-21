@@ -1,12 +1,12 @@
 {
   "description": "The jam scene is alive and well. Cover: Papadosio",
-  "num_followers": 6631,
+  "num_followers": 6677,
   "original_name": "Modern Jam Band",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMwMDg2MCwwMDAwMDAwMGQyMWJiMWM0OWMwYTA1YmQzYjM5YzgyYThmN2IxZGQy",
+  "snapshot_id": "MTY2MzMwMDg2MCwwMDAwMDAwMGZlN2ZjODhjMWM1NDU4N2JjNjk5NjVhMDE3ZDZjNGIz",
   "tracks": [
     {
       "added_at": "2022-09-16 04:01:00",
@@ -207,22 +207,6 @@
     {
       "added_at": "2022-06-23 13:45:43",
       "album": {
-        "name": "Tracking Buffalo Through the Bathtub",
-        "url": "https://open.spotify.com/album/6pEnxOBIV3UGzmH7W0JOFx"
-      },
-      "artists": [
-        {
-          "name": "The Big Wu",
-          "url": "https://open.spotify.com/artist/2IQLjVQHKnzSQAVAkeCcQ0"
-        }
-      ],
-      "duration_ms": 245893,
-      "name": "Kangaroo",
-      "url": "https://open.spotify.com/track/2iRud7yNC2yYGVFyl8ik0b"
-    },
-    {
-      "added_at": "2022-06-23 13:45:43",
-      "album": {
         "name": "Just a Little",
         "url": "https://open.spotify.com/album/1TqY6YxFZdVqwReNRDyEo7"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 370666,
       "name": "Just A Little",
       "url": "https://open.spotify.com/track/4Z8qmRtrwLynVX4GMlUmjM"
+    },
+    {
+      "added_at": "2022-06-23 13:45:43",
+      "album": {
+        "name": "Tracking Buffalo Through the Bathtub",
+        "url": "https://open.spotify.com/album/6pEnxOBIV3UGzmH7W0JOFx"
+      },
+      "artists": [
+        {
+          "name": "The Big Wu",
+          "url": "https://open.spotify.com/artist/2IQLjVQHKnzSQAVAkeCcQ0"
+        }
+      ],
+      "duration_ms": 245893,
+      "name": "Kangaroo",
+      "url": "https://open.spotify.com/track/2iRud7yNC2yYGVFyl8ik0b"
     },
     {
       "added_at": "2022-06-23 13:45:43",
@@ -481,22 +481,6 @@
       "url": "https://open.spotify.com/track/2mMElb3GObwkGdVYtyT0nu"
     },
     {
-      "added_at": "2022-07-08 04:02:00",
-      "album": {
-        "name": "Ghost In The Machine",
-        "url": "https://open.spotify.com/album/35uUl3hTYQfBhH8CvSsTiV"
-      },
-      "artists": [
-        {
-          "name": "Dawes",
-          "url": "https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV"
-        }
-      ],
-      "duration_ms": 379640,
-      "name": "Ghost In The Machine",
-      "url": "https://open.spotify.com/track/5VBPHVGLIpMdwRolGDxAm9"
-    },
-    {
       "added_at": "2022-06-23 13:45:43",
       "album": {
         "name": "Night Lights",
@@ -511,6 +495,22 @@
       "duration_ms": 401213,
       "name": "All I Need",
       "url": "https://open.spotify.com/track/6vC5WWQXWqBUW5iq7XoGnu"
+    },
+    {
+      "added_at": "2022-07-08 04:02:00",
+      "album": {
+        "name": "Ghost In The Machine",
+        "url": "https://open.spotify.com/album/35uUl3hTYQfBhH8CvSsTiV"
+      },
+      "artists": [
+        {
+          "name": "Dawes",
+          "url": "https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV"
+        }
+      ],
+      "duration_ms": 379640,
+      "name": "Ghost In The Machine",
+      "url": "https://open.spotify.com/track/5VBPHVGLIpMdwRolGDxAm9"
     },
     {
       "added_at": "2022-06-23 13:45:43",

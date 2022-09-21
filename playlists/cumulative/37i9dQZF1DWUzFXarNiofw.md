@@ -4,7 +4,7 @@
 
 > The newest, freshest R&B tunes\.  Cover: Jessie Reyez
 
-432 songs - 23 hr 29 min - [published](https://open.spotify.com/playlist/2y3HQxunEcE7pPAyHu4buJ)
+433 songs - 23 hr 32 min - [published](https://open.spotify.com/playlist/2y3HQxunEcE7pPAyHu4buJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [emotional](https://open.spotify.com/track/1BMffJnuEsz31KwwSyjbQv) | [Zilo](https://open.spotify.com/artist/3fcW2V4zOfFm0IsWCJUuzz) | [KINDA HAPPY, KINDA SAD](https://open.spotify.com/album/3nOrmM1aN9RBB9vpwoSEzl) | 3:50 | 2022-09-02 |  |
 | [Energy \(featuring Pink Sweat$\)](https://open.spotify.com/track/2mpcqMEvFFWHaFUprs0wv7) | [Nakkia Gold](https://open.spotify.com/artist/2kPJ3uWBBRjfh0dZNEW7ET), [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Energy \(featuring Pink Sweat$\)](https://open.spotify.com/album/36N7aZLCMbUr7MHItTQaqC) | 3:10 | 2022-08-12 |  |
 | [Entice Me](https://open.spotify.com/track/27Pdlv16GJgY0fpzOE36ZE) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [Entice Me](https://open.spotify.com/album/78GOlXZOeGFibF6M4E7auT) | 2:36 | 2022-08-12 |  |
+| [Every Pretty Girl In The City](https://open.spotify.com/track/7xXEVCWZvpRfP2UxLfblnj) | [WanMor](https://open.spotify.com/artist/5XmuuM2C6t4HSPa3FSuU3h) | [Every Pretty Girl In The City](https://open.spotify.com/album/0HvrxDrkTUtngi2RAcvRKo) | 2:34 | 2022-09-20 |  |
 | [everything](https://open.spotify.com/track/6pyM30WDpG70VTfwoQg4m2) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [blue water road](https://open.spotify.com/album/2WfV3cpI2BUuIxMISh9nqF) | 3:27 | 2022-04-29 | 2022-06-25 |
 | [EVERYTHING I WANT](https://open.spotify.com/track/7xaVK8LCtFkig2HKTrukwg) | [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [EVERYTHING I WANT](https://open.spotify.com/album/1Gd8Sz4vEV0Px55RPugWSe) | 2:19 | 2022-05-13 | 2022-06-18 |
 | [EXCHANGE](https://open.spotify.com/track/2DYNyO657ppfS7Hl7jHg7a) | [India Shawn](https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL) | [EXCHANGE](https://open.spotify.com/album/2QZQ6HUp0WhpxpnkCqZrkw) | 2:54 | 2022-06-03 | 2022-07-30 |

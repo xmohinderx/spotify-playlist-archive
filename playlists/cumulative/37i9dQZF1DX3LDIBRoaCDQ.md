@@ -4,11 +4,11 @@
 
 > Classic songs that built the foundations of punk.
 
-155 songs - 7 hr 26 min - [published](https://open.spotify.com/playlist/7AUlVPNk24dFfEcomcApCH)
+156 songs - 7 hr 28 min - [published](https://open.spotify.com/playlist/7AUlVPNk24dFfEcomcApCH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\(You're A\) Go Nowhere](https://open.spotify.com/track/4e86fqSFhqRQk3Z9hm7XHt) | [Reagan Youth](https://open.spotify.com/artist/5105k1OIV9BdhuB3rxtHYb) | [A Collection of Pop Classics](https://open.spotify.com/album/3sLKWvosxuEgY4lHkdSDcJ) | 1:22 | 2021-10-06 |  |
+| [\(You're A\) Go Nowhere](https://open.spotify.com/track/4e86fqSFhqRQk3Z9hm7XHt) | [Reagan Youth](https://open.spotify.com/artist/5105k1OIV9BdhuB3rxtHYb) | [A Collection of Pop Classics](https://open.spotify.com/album/3sLKWvosxuEgY4lHkdSDcJ) | 1:22 | 2021-10-06 | 2022-09-21 |
 | [Add It Up](https://open.spotify.com/track/61QW3AcU1jm5ttPOn8eZhn) | [Violent Femmes](https://open.spotify.com/artist/0rpMdBzQXf7aYRnu5fDBJy) | [Violent Femmes](https://open.spotify.com/album/0Ojio25IPzIrw1rUmgrhrG) | 4:44 | 2021-10-06 |  |
 | [Add It Up \- 2002 Remastered Version](https://open.spotify.com/track/7oyxaCjnv7P1F68DDXU7y7) | [Violent Femmes](https://open.spotify.com/artist/0rpMdBzQXf7aYRnu5fDBJy) | [Violent Femmes](https://open.spotify.com/album/2G9onFLGqlMJd1ThYf0vIB) | 4:43 | 2021-10-06 | 2022-07-29 |
 | [All This and More](https://open.spotify.com/track/0JwGJgL8LCUFzDDPZNmQLa) | [Dead Boys](https://open.spotify.com/artist/4RjtLUZNqLtMpRKIOaVokc) | [Young, Loud And Snotty](https://open.spotify.com/album/6SiRxD9eeJELm4TR8C6MDJ) | 2:47 | 2021-10-06 | 2022-09-20 |
@@ -38,6 +38,7 @@
 | [Corona](https://open.spotify.com/track/2LUVo82IKIpCuBNSaqF0G8) | [Minutemen](https://open.spotify.com/artist/0z6zRFzl5njXWLVAisXQBz) | [Double Nickels on the Dime](https://open.spotify.com/album/5viZ5HyYtV0wafK7DoXmgF) | 2:25 | 2021-10-06 |  |
 | [Damaged Goods](https://open.spotify.com/track/0Nn4RrvVfwSSLDvkhdRc1n) | [Gang Of Four](https://open.spotify.com/artist/3AmWjMXXtBJOmNGpUFSOAl) | [Entertainment!](https://open.spotify.com/album/7LMOo068Ndv0wjTGUDtYqK) | 3:26 | 2021-10-06 |  |
 | [Damaged Goods](https://open.spotify.com/track/62uw0iWu8jLB4cYBQxjdcm) | [Gang Of Four](https://open.spotify.com/artist/3AmWjMXXtBJOmNGpUFSOAl) | [Entertainment!](https://open.spotify.com/album/1UMvR1rwj9EzLnbj4L6Zoy) | 3:27 | 2021-10-06 | 2022-07-29 |
+| [Dean's Dream](https://open.spotify.com/track/4Kf80JwKZcrHE0jJQKuH0e) | [The Dead Milkmen](https://open.spotify.com/artist/2fhngmJMaaKcdhXHCa4cPK) | [Death Rides A Pale Cow: The Ultimate Collection](https://open.spotify.com/album/2ZNb1MUe50ckOcSe9TQOQz) | 1:47 | 2021-10-06 |  |
 | [Dean's Dream](https://open.spotify.com/track/65ZK2zk1YFTnaD7D4deD37) | [The Dead Milkmen](https://open.spotify.com/artist/2fhngmJMaaKcdhXHCa4cPK) | [Big Lizard In My Back Yard](https://open.spotify.com/album/4idwu1NCDTQ6V6CumtfW93) | 1:49 | 2021-10-06 | 2022-09-09 |
 | [Disorder \- 2007 Remaster](https://open.spotify.com/track/38wCbVfMreML5ZhF5iQuKA) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [Unknown Pleasures](https://open.spotify.com/album/0cbpcdI4UySacPh5RCpDfo) | 3:29 | 2021-10-06 | 2022-07-29 |
 | [Disorder \- 2007 Remaster](https://open.spotify.com/track/5fbQCQt91LsVgXusFS0CCD) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [Unknown Pleasures \(Collector's Edition\)](https://open.spotify.com/album/33qkK1brpt6t8unIpeM2Oy) | 3:29 | 2021-10-06 |  |

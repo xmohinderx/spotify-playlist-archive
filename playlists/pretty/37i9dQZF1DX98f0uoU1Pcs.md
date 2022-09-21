@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 
 > The perfect mix of Punk, Rock, Alt & Indie\. Cover: Surf Curse
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,998 likes - 130 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,161 likes - 130 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

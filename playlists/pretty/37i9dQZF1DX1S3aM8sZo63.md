@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S3aM8sZo63.md) - [plain]
 
 > ¡Ponte cursi con las canciones más románticas!
 
-[Spotify](https://open.spotify.com/user/spotify) - 768,353 likes - 75 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 768,657 likes - 75 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S3aM8sZo63.md) - [plain]
 | 25 | [Nadie Como Tú](https://open.spotify.com/track/0cyP9Zil4WvqycKDRynmcP) | [Los 2 de la S](https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc) | [La Barda Me Volé](https://open.spotify.com/album/13SwxlksMXwzpK8iAafFDh) | 3:35 |
 | 26 | [No Paras de Hacerme Feliz](https://open.spotify.com/track/5bP1RCdGcUxkwASwKAbPHa) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [No Paras de Hacerme Feliz](https://open.spotify.com/album/4GnznPcGs85z1yeeWA5Gyi) | 3:05 |
 | 27 | [El Amor de Mi Vida](https://open.spotify.com/track/1w3FzkhH82foC5oIbIKKut) | [La Adictiva](https://open.spotify.com/artist/5U8FVQFiugMolJ7DEEDOdf) | [30 Aniversario](https://open.spotify.com/album/6R0zUtsEyeLEPmWBhVmenf) | 3:28 |
-| 28 | [Sueño Guajiro](https://open.spotify.com/track/2V9pPYbtIaxI4canNxsDrJ) | [Colmillo Norteño](https://open.spotify.com/artist/5YvrXxWXf9n9enAV8HHZSN) | [Sueño Guajiro](https://open.spotify.com/album/7ep8byHyAYeAYiumLDQrhr) | 3:03 |
-| 29 | [Aliado Del Tiempo](https://open.spotify.com/track/1rEdvfLrkCB4RqxI8D6ZNR) | [Mariano Barba](https://open.spotify.com/artist/0UOSIKhi6uZP7SVEJKYRMo) | [Un Cantautor Con Alma de Triunfador](https://open.spotify.com/album/4g2vkEYYuBVP72ZHbcxnU2) | 4:32 |
+| 28 | [Aliado Del Tiempo](https://open.spotify.com/track/1rEdvfLrkCB4RqxI8D6ZNR) | [Mariano Barba](https://open.spotify.com/artist/0UOSIKhi6uZP7SVEJKYRMo) | [Un Cantautor Con Alma de Triunfador](https://open.spotify.com/album/4g2vkEYYuBVP72ZHbcxnU2) | 4:32 |
+| 29 | [Sueño Guajiro](https://open.spotify.com/track/2V9pPYbtIaxI4canNxsDrJ) | [Colmillo Norteño](https://open.spotify.com/artist/5YvrXxWXf9n9enAV8HHZSN) | [Sueño Guajiro](https://open.spotify.com/album/7ep8byHyAYeAYiumLDQrhr) | 3:03 |
 | 30 | [Te Quiero Así](https://open.spotify.com/track/7cfpUwXVmVNwi0e0lKkII3) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Vencedor](https://open.spotify.com/album/0k0b9mpJt6tJMT26aIzpoe) | 2:51 |
 | 31 | [El Mundo a Tus Pies](https://open.spotify.com/track/4MDLvDUSbL6TEtc12CxNyp) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [El Mundo a Tus Pies](https://open.spotify.com/album/1l46GFEU94JAnUZfFIcifM) | 2:56 |
 | 32 | [Diséñame](https://open.spotify.com/track/7tmq8wPHKYL2sKUpLpkXwP) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Un Lu\*Jo](https://open.spotify.com/album/7AHCphIjbCH7kEV3VQJe0q) | 3:06 |
@@ -77,11 +77,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S3aM8sZo63.md) - [plain]
 | 67 | [Derecho De Antigüedad](https://open.spotify.com/track/15KNGMJFNAaZUq7qNmuKJU) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Derecho De Antiguedad](https://open.spotify.com/album/0s8ImVdy8zLd19wySRzk1s) | 3:03 |
 | 68 | [Especial](https://open.spotify.com/track/71vXdFRVs79sf3RpU9SowK) | [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [Más Especial](https://open.spotify.com/album/0kU4Vxyjla23phoLSvyoug) | 3:06 |
 | 69 | [La Magia de Tus Ojos](https://open.spotify.com/track/16DU79T2PdFSdGf0Z59rr5) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh) | [Caminando](https://open.spotify.com/album/7gKR2yAqsDQoeCRGKKrLQl) | 2:49 |
-| 70 | [Encontrarte](https://open.spotify.com/track/54MQccz1gOXQDrHP0hR6AV) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [La Historia De Mis Manos](https://open.spotify.com/album/5xSNjB8PaOWJ4nSW3WF50z) | 3:00 |
-| 71 | [Como Pez En El Agua](https://open.spotify.com/track/2CpfZ5y47gaY5iGFGdIi6a) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Más Adelante](https://open.spotify.com/album/2kjKAnGYRXKveSja6gSOEB) | 3:02 |
+| 70 | [Como Pez En El Agua](https://open.spotify.com/track/2CpfZ5y47gaY5iGFGdIi6a) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Más Adelante](https://open.spotify.com/album/2kjKAnGYRXKveSja6gSOEB) | 3:02 |
+| 71 | [Encontrarte](https://open.spotify.com/track/54MQccz1gOXQDrHP0hR6AV) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [La Historia De Mis Manos](https://open.spotify.com/album/5xSNjB8PaOWJ4nSW3WF50z) | 3:00 |
 | 72 | [El Lujo de Tenerte](https://open.spotify.com/track/3RS7iIReKd9yd2j7lfID5z) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [Todo Va Estar Bien](https://open.spotify.com/album/1WGsrfidOIf6PMG0szz2WJ) | 2:56 |
 | 73 | [Qué Bueno Es Tenerte](https://open.spotify.com/track/2Vficy40iZyTKoAJNwLWzd) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R), [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Qué Bueno Es Tenerte](https://open.spotify.com/album/5mylIAlnG7NVExUV5hPc3H) | 3:25 |
 | 74 | [Sólo Tú](https://open.spotify.com/track/0qsalPjF8AzMdkxjnGXttQ) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Sólo Tú](https://open.spotify.com/album/3x37MdKulZX2v4YRGqbUX7) | 3:13 |
 | 75 | [Porque Te Quiero](https://open.spotify.com/track/3lhHsnoOc8n1Xz2XZu2Q5Z) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Más Fuerte Que Nunca](https://open.spotify.com/album/7AvxzlH6dLsMeOtZGRKJyX) | 3:36 |
 
-Snapshot ID: `MTY1NTc1OTg5MCwwMDAwMDAwMGY3M2E2NWNhOTZlNmFmNGNhZWIxYmU1MWIwMjk5ODcx`
+Snapshot ID: `MTY1NTc1OTg5MCwwMDAwMDAwMDZiODIyMTgxMDJiNDM3M2Q0ZWQ0ODMxMjVjMDQwMDg4`

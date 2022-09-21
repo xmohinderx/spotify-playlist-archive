@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 
 > The newest songs from LGBTQIA+ artists feat\. cover girl Fletcher's fave picks at the top
 
-[Spotify](https://open.spotify.com/user/spotify) - 811,950 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 812,095 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,23 +54,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 44 | [God Is A Freak](https://open.spotify.com/track/4cqj8FIWkyR5A2XBtcqRMU) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [God Is A Freak](https://open.spotify.com/album/1MNgeaQuHhr47jSmqQH47e) | 3:07 |
 | 45 | [I F\*cking Love You](https://open.spotify.com/track/7lYjepjDeboEus0v2nSqu5) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [I F\*cking Love You](https://open.spotify.com/album/2CslMUzH2LTc4rnAuATJCE) | 3:00 |
 | 46 | [for the girls](https://open.spotify.com/track/0ZKGfdW7a1vUIMulTbNmqM) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [for the girls](https://open.spotify.com/album/2kgCpb55LqgeaIu34UterB) | 2:37 |
-| 47 | [kaleidoscope](https://open.spotify.com/track/5bD7bhOa64aE8a0vifa5J6) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [kaleidoscope](https://open.spotify.com/album/5AVdHQYItgjzDu5qRVmONy) | 3:05 |
-| 48 | [If It's Not God](https://open.spotify.com/track/37ZPKicPyGq9FzMdlBx5HV) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [If It's Not God](https://open.spotify.com/album/2tNcKGJQLMwvpTppUyGPGH) | 3:39 |
-| 49 | [Slow Song \(with Dragonette\)](https://open.spotify.com/track/7HDcd1vyDdNWq897wSILCZ) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Dragonette](https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n) | [Slow Song \(with Dragonette\)](https://open.spotify.com/album/43HtqLPR1ZIXU8c81c2Vj6) | 4:13 |
+| 47 | [If It's Not God](https://open.spotify.com/track/37ZPKicPyGq9FzMdlBx5HV) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [If It's Not God](https://open.spotify.com/album/2tNcKGJQLMwvpTppUyGPGH) | 3:39 |
+| 48 | [Slow Song \(with Dragonette\)](https://open.spotify.com/track/7HDcd1vyDdNWq897wSILCZ) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Dragonette](https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n) | [Slow Song \(with Dragonette\)](https://open.spotify.com/album/43HtqLPR1ZIXU8c81c2Vj6) | 4:13 |
+| 49 | [kaleidoscope](https://open.spotify.com/track/5bD7bhOa64aE8a0vifa5J6) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [kaleidoscope](https://open.spotify.com/album/5AVdHQYItgjzDu5qRVmONy) | 3:05 |
 | 50 | [The Curse of the Blackened Eye](https://open.spotify.com/track/5WhdOYLmpNgENGhtzyvEXc) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Bronco](https://open.spotify.com/album/2hCcPHWTbvF81CiXPUrM6I) | 4:10 |
 | 51 | [Holy Water](https://open.spotify.com/track/2FcbwSTgbQeweZv0bA9hI7) | [Noah Davis](https://open.spotify.com/artist/7lVbD38aVBVACNzgta9awX) | [Holy Water](https://open.spotify.com/album/0IzNmO6dTVd1jebYlk6t41) | 3:20 |
 | 52 | [Leave It On The Dancefloor](https://open.spotify.com/track/30ae9cv36eD4Q6Zc8PVF8v) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Leave It On The Dancefloor](https://open.spotify.com/album/07Vt92F3DMX0GHMKSJ6A3o) | 2:55 |
 | 53 | [IDK SH!T](https://open.spotify.com/track/0S3xP5jVO84UzVeWpwXMK8) | [JORDY](https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E) | [IDK SH!T](https://open.spotify.com/album/2gfnBbxQ9zW5VH0wBt2uzF) | 2:51 |
-| 54 | [Let Us Die](https://open.spotify.com/track/5uDo40mspcWNHDCLlKTLoJ) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Hold On Baby](https://open.spotify.com/album/3Q998ztjKK3ybjToj0QL9c) | 3:53 |
-| 55 | [Keeping The Light On](https://open.spotify.com/track/1Uacdg0eFpE2bpjS90feZQ) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Keeping The Light On](https://open.spotify.com/album/6frFUCnLfPHN5cuGuONc04) | 3:43 |
+| 54 | [Keeping The Light On](https://open.spotify.com/track/1Uacdg0eFpE2bpjS90feZQ) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Keeping The Light On](https://open.spotify.com/album/6frFUCnLfPHN5cuGuONc04) | 3:43 |
+| 55 | [Let Us Die](https://open.spotify.com/track/5uDo40mspcWNHDCLlKTLoJ) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Hold On Baby](https://open.spotify.com/album/3Q998ztjKK3ybjToj0QL9c) | 3:53 |
 | 56 | [Skin and Bones](https://open.spotify.com/track/6slWOE0SO6HjBH0fNd13YB) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Skin and Bones](https://open.spotify.com/album/5LCCfjJW4kBomupswapRHE) | 3:34 |
 | 57 | [Homerun Hitter](https://open.spotify.com/track/5tHalhXKz1l1rCJAMzx0PG) | [Greyson Chance](https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX) | [Homerun Hitter](https://open.spotify.com/album/7KRLrC9FUfJDXC7p2E4q11) | 4:32 |
 | 58 | [Sooner Or Later](https://open.spotify.com/track/2QLdrqojYq2yRKHqv6tXh1) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Sooner Or Later](https://open.spotify.com/album/6bMgJgiQFBxVamHwAd6VYt) | 3:20 |
 | 59 | [I Can Only Whisper \(feat\. BADBADNOTGOOD\)](https://open.spotify.com/track/5qXwFOkT3lrEonTzsYCeZ1) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [ALPHA](https://open.spotify.com/album/1BFl2k9tZL0Jm6ebJHGQ5K) | 2:44 |
-| 60 | [Big Time](https://open.spotify.com/track/1K2Hql13Y6fcOSy2Y15qNm) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Big Time](https://open.spotify.com/album/02R7PREL8nCr02CEYLy7YH) | 4:07 |
-| 61 | [Feel It All The Time](https://open.spotify.com/track/5hfu9r4JcERCBwimhrPIUN) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Sometimes, Forever](https://open.spotify.com/album/3VXLdJpzeaAyX9Tbm0i0zn) | 3:15 |
-| 62 | [Blue Dream Baby](https://open.spotify.com/track/2cHjdUBcdnnCGdubhCmLbM) | [Fancy Hagood](https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Blue Dream Baby](https://open.spotify.com/album/2uTVxVa04MmJ9afai3a9cc) | 2:56 |
-| 63 | [FIRST HELLO](https://open.spotify.com/track/2ONSelZb6rxDw98aIzTLHt) | [Grant Knoche](https://open.spotify.com/artist/4uLexEsM3MDb1sermSib4J) | [FIRST HELLO](https://open.spotify.com/album/6g7aDEkCteSnfHx2ZSOZYU) | 3:17 |
+| 60 | [FIRST HELLO](https://open.spotify.com/track/2ONSelZb6rxDw98aIzTLHt) | [Grant Knoche](https://open.spotify.com/artist/4uLexEsM3MDb1sermSib4J) | [FIRST HELLO](https://open.spotify.com/album/6g7aDEkCteSnfHx2ZSOZYU) | 3:17 |
+| 61 | [Big Time](https://open.spotify.com/track/1K2Hql13Y6fcOSy2Y15qNm) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Big Time](https://open.spotify.com/album/02R7PREL8nCr02CEYLy7YH) | 4:07 |
+| 62 | [Feel It All The Time](https://open.spotify.com/track/5hfu9r4JcERCBwimhrPIUN) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Sometimes, Forever](https://open.spotify.com/album/3VXLdJpzeaAyX9Tbm0i0zn) | 3:15 |
+| 63 | [Blue Dream Baby](https://open.spotify.com/track/2cHjdUBcdnnCGdubhCmLbM) | [Fancy Hagood](https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Blue Dream Baby](https://open.spotify.com/album/2uTVxVa04MmJ9afai3a9cc) | 2:56 |
 | 64 | [My Way](https://open.spotify.com/track/0tmMGxsxRd78NJGrMesWtx) | [Tone Sekelius](https://open.spotify.com/artist/60ocUh2KF1ZOSqjkxyt6jl) | [My Way](https://open.spotify.com/album/0pvbtMDkjdbU3XDKU6Zm6P) | 3:02 |
 | 65 | [I Wanna Be a Boy](https://open.spotify.com/track/5waXXk9DjEZ7LvaeDylbte) | [Addison Grace](https://open.spotify.com/artist/39EIRTZx1JjfeDLVdbj2ap) | [I Wanna Be a Boy](https://open.spotify.com/album/1CqhdFxHAyTGkmJNZMrHNw) | 3:19 |
 | 66 | [Bleach](https://open.spotify.com/track/3j8mwslzqj90yjWWNwwff8) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [Bleach](https://open.spotify.com/album/7ub18yc0hNRu7ImCIFzlYk) | 3:39 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 74 | [Photograph](https://open.spotify.com/track/7qG7bsMPOmiMt0uT13cLx5) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Ugly Season](https://open.spotify.com/album/6rFFWK98d8hhdSYgaOxI5L) | 4:41 |
 | 75 | [Complex](https://open.spotify.com/track/5R1a0XN84btO27Bn5uV5BK) | [Xana](https://open.spotify.com/artist/5Ui0TOcqUVmXQORMMkMaD3) | [Tantrums](https://open.spotify.com/album/3N2z6l5poKgtLXUwPFFyuc) | 3:31 |
 
-Snapshot ID: `MTY2MzMwMDgwMCwwMDAwMDAwMGFlODBlODIxYzFkYzE4ZWEwYTMyZWZjMWZiMDA1MzA4`
+Snapshot ID: `MTY2MzMwMDgwMCwwMDAwMDAwMDZmYWM4ZTgyYjBiMDZhYTgxODZkM2Q4ZWJlYjllZjcx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2shzuwwKw0y.md) - [plain]
 
 > Del rancho a la ciudad, las historias que pocos se atreven a contar\. Fuerza Regida & Edgardo Nuñez en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,229,964 likes - 75 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,231,081 likes - 75 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2shzuwwKw0y.md) - [plain]
 | 21 | [Si Fuera Fácil](https://open.spotify.com/track/7Jph6HJbfURt4Fea19IED3) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Si Fuera Fácil](https://open.spotify.com/album/3CUu8nxAMyjCiTeGyiBOKE) | 2:50 |
 | 22 | [Soy Buen Amigo](https://open.spotify.com/track/1Z0auW1yEy6Dq9hsRdeIV3) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Soy Buen Amigo](https://open.spotify.com/album/1e35jCMYgVC4dOt1YykB6v) | 2:33 |
 | 23 | [El Ruddy](https://open.spotify.com/track/0vNtFN67TIMgDokyyuUUwA) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602](https://open.spotify.com/album/0e6v7RAfsLk2UHr5gvDitO) | 3:03 |
-| 24 | [La Escuela No Me Gustó](https://open.spotify.com/track/4qArKIA7dnmdushoBlkV94) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [Javier Rosas](https://open.spotify.com/artist/1JKku43pXGs9GM80XoWDzi) | [Señalado por Costumbre](https://open.spotify.com/album/0zwj2mx5EeRPkdU9r9yeXs) | 2:56 |
+| 24 | [La Escuela No Me Gustó](https://open.spotify.com/track/4qArKIA7dnmdushoBlkV94) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [Javier Rosas Y Su Artillería Pesada](https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE) | [Señalado por Costumbre](https://open.spotify.com/album/0zwj2mx5EeRPkdU9r9yeXs) | 2:56 |
 | 25 | [El Chino \(En Vivo\)](https://open.spotify.com/track/4b148u8CHf38OU1yW5Xf1F) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [La Decima Banda](https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U) | [El Chino \(En Vivo\)](https://open.spotify.com/album/38WE0G7MQhz8f9hJjuK1rK) | 3:00 |
 | 26 | [El Fat Tony](https://open.spotify.com/track/3viZLBs5sOsNFL9JMfuqZN) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [La Clase](https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY) | 2:54 |
 | 27 | [Andamos Mejor](https://open.spotify.com/track/3K56RPWS4q200IwHiIZcUD) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Andamos Mejor](https://open.spotify.com/album/2NQwwZeDFB6bTXg8rcAFsf) | 2:17 |

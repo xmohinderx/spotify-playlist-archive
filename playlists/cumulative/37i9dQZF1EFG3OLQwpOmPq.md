@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/315bvK1m77RNynw5ycETfA">sad alex</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-90 songs - 4 hr 16 min - [published](https://open.spotify.com/playlist/2t8ugsWZMHNaJAkYvjfVuP)
+91 songs - 4 hr 18 min - [published](https://open.spotify.com/playlist/2t8ugsWZMHNaJAkYvjfVuP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Red Sangria](https://open.spotify.com/track/0rvBpvSy3on3VR1oDJ46sG) | [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz) | [Red Sangria](https://open.spotify.com/album/3bNtHQhVXWiBq2lX07D7m1) | 3:05 | 2022-05-29 |  |
 | [routine](https://open.spotify.com/track/05HBUzEgUCBc89i7pshnLK) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3), [alxxa](https://open.spotify.com/artist/6joS5ruCz1MSCWxJb8Yqjb) | [routine](https://open.spotify.com/album/717BWqHWne4kvOvFaiZm8d) | 3:08 | 2022-07-24 |  |
 | [routine](https://open.spotify.com/track/2QHXsnqf8aULSjmxRoLNqU) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3), [alxxa](https://open.spotify.com/artist/6joS5ruCz1MSCWxJb8Yqjb) | [routine](https://open.spotify.com/album/7kGOM6fdrahDu2ITDmArL6) | 3:08 | 2022-05-29 | 2022-07-25 |
+| [rugburn](https://open.spotify.com/track/0SzeLGLcyhzqoOANw7dRWu) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [rugburn](https://open.spotify.com/album/63bgr5IeQqGJlZBlYpgcsW) | 2:19 | 2022-09-20 |  |
 | [ruin it](https://open.spotify.com/track/38zxMTxPyAwdwmr8M749hj) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [songs that you'll probably never hear](https://open.spotify.com/album/1B4TAPy6dm7AaZ8EnwVvcn) | 3:14 | 2022-07-27 |  |
 | [ruin it](https://open.spotify.com/track/4lzqah4u0wkUJvPRHEtBmX) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [songs that you'll probably never hear](https://open.spotify.com/album/46zR8g3WtdDTnbFr8tBHih) | 3:14 | 2022-05-29 | 2022-07-28 |
 | [Running in Place](https://open.spotify.com/track/4fJPDl0e9eftGofdO2cZea) | [Dola](https://open.spotify.com/artist/7zV7uaFYItDZduoF0E9XRK) | [Running in Place](https://open.spotify.com/album/7JQP3efrsVzxkB3mimXxAB) | 3:08 | 2022-05-29 |  |

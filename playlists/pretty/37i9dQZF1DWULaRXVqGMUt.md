@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULaRXVqGMUt.md) - [plain]
 
 > The most iconic piano style in Blues; all the greatest Boogie\-woogie pianists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,564 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,607 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULaRXVqGMUt.md) - [plain]
 | 8 | [Boogie Woogie Country Girl](https://open.spotify.com/track/28hAbUS1ml3FK4fOyshS99) | [Roomful Of Blues](https://open.spotify.com/artist/2ngCOxUAUuIwjkl4qYX51L) | [Raisin' A Ruckus](https://open.spotify.com/album/35Sf6tKVBsBvRcdJhDVkoo) | 3:19 |
 | 9 | [Junco Partner \#2](https://open.spotify.com/track/5Afi3CGcMNcgA3kkRc5i9c) | [James Booker](https://open.spotify.com/artist/0gxNgUdRvhVgeq4L3gFamF) | [The Lost Paramount Tapes](https://open.spotify.com/album/5JNGtZxQbdW4CXc66oOXQr) | 3:55 |
 | 10 | [Boogie Woogie Country Man](https://open.spotify.com/track/2mdnLpoDVfuTVPoBVOAMjl) | [Jerry Lee Lewis](https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo) | [Boogie Woogie Country Man](https://open.spotify.com/album/2hQVYtzEpTQ1FOhTkO6NfB) | 3:44 |
-| 11 | [I Feel So Good \(I Wanna Boogie\)](https://open.spotify.com/track/5QAqlUoctz45rVNgAB6U4c) | [Magic Sam](https://open.spotify.com/artist/0XErJwG6aCEj7NpKsEZrrO), [Mighty Joe Young](https://open.spotify.com/artist/3s5c2rjSE7v4KbMsGb5qaL), [Stockholm Slim](https://open.spotify.com/artist/0WKpnBdTIx21ZsPd8zuynC), [Mack Thompson](https://open.spotify.com/artist/26n6ojDqVMAInlzCRGzVxF), [Odie Payne III](https://open.spotify.com/artist/4tcSBbry63txTgC08PNmou) | [West Side Soul \(Deluxe Edition\)](https://open.spotify.com/album/2bonSc9cW7a0YcFBiH9naX) | 4:46 |
-| 12 | [Caldonia \- Single Version](https://open.spotify.com/track/3DY0fbOGsg1F1wdoqJFRig) | [Louis Jordan & His Tympany Five](https://open.spotify.com/artist/62FPyLpIhmk27hBw6RHlhh) | [Let The Good Times Roll: The Anthology 1938 \- 1953](https://open.spotify.com/album/3IXj7J6a5kqVGdyfPbQnHK) | 2:41 |
+| 11 | [Caldonia \- Single Version](https://open.spotify.com/track/3DY0fbOGsg1F1wdoqJFRig) | [Louis Jordan & His Tympany Five](https://open.spotify.com/artist/62FPyLpIhmk27hBw6RHlhh) | [Let The Good Times Roll: The Anthology 1938 \- 1953](https://open.spotify.com/album/3IXj7J6a5kqVGdyfPbQnHK) | 2:41 |
+| 12 | [I Feel So Good \(I Wanna Boogie\)](https://open.spotify.com/track/5QAqlUoctz45rVNgAB6U4c) | [Magic Sam](https://open.spotify.com/artist/0XErJwG6aCEj7NpKsEZrrO), [Mighty Joe Young](https://open.spotify.com/artist/3s5c2rjSE7v4KbMsGb5qaL), [Stockholm Slim](https://open.spotify.com/artist/0WKpnBdTIx21ZsPd8zuynC), [Mack Thompson](https://open.spotify.com/artist/26n6ojDqVMAInlzCRGzVxF), [Odie Payne III](https://open.spotify.com/artist/4tcSBbry63txTgC08PNmou) | [West Side Soul \(Deluxe Edition\)](https://open.spotify.com/album/2bonSc9cW7a0YcFBiH9naX) | 4:46 |
 | 13 | [Down The Road Apiece](https://open.spotify.com/track/4aWXCY2dBDULAE9yjo7Wcq) | [Amos Milburn](https://open.spotify.com/artist/3uZRvkqeNHKLMFQrJBaUCX) | [Down The Road Apiece \-The Best Of Amos Milburn](https://open.spotify.com/album/04bo29HzmFDq9Un9O93nEp) | 2:59 |
 | 14 | [Pauly's Birthday Boogie](https://open.spotify.com/track/088NmJPi9Tnn6BKn6xyo9r) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U), [Jools Holland](https://open.spotify.com/artist/6eLbRJP12OhyvUv4ntto4e) | [Deuces Wild](https://open.spotify.com/album/3fIftPnF4eb7gkg2lFS1TV) | 3:38 |
 | 15 | [Spann's Stomp](https://open.spotify.com/track/1gWCbuU98lwewH3n7xt6rT) | [Otis Spann's South Side Piano](https://open.spotify.com/artist/7nnBKgaKnLsnxwIljUhwa2) | [Chicago/The Blues/Today!](https://open.spotify.com/album/7mBBWwpCTFnrVDci6WYU9T) | 2:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULaRXVqGMUt.md) - [plain]
 | 49 | [Killer Miller](https://open.spotify.com/track/1FP2JCMhMNxI9dmeIYctZb) | [Frank Muschalle](https://open.spotify.com/artist/742LVyNtCO7NDnVZ0mNyPD) | [Battin' The Boogie](https://open.spotify.com/album/7qon2bTD0q3xV0J1KgAyw6) | 2:21 |
 | 50 | [Boogie Woogie \- Mono](https://open.spotify.com/track/61FvO9xI8yQpQ2ygNA4qof) | [Professor Longhair](https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD) | [New Orleans Piano \(Mono\)](https://open.spotify.com/album/4vQc378UGRZAaJemArhMpv) | 2:40 |
 
-Snapshot ID: `MTY1OTA5MTAwNiwwMDAwMDAwMGZiYzg0MjA2ZmRhNWYzODMyM2M3NzlkZGFjNWM1Zjky`
+Snapshot ID: `MTY1OTA5MTAwNiwwMDAwMDAwMDU2ZTUxZjdmZDIzYWFiNWEyZTQxNGQ5YTk2MjQyMjM4`

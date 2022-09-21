@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TNDxNzIjRm.md) - [plain]
 
 > Cuando el jangueo está mejor que la fiesta\. Hanging out jams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,461,580 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,461,549 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TNDxNzIjRm.md) - [plain]
 | 68 | [Ya No Tiene Novio](https://open.spotify.com/track/7uQmJ1jgNzBpATSoWKSPFu) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Ya No Tiene Novio](https://open.spotify.com/album/7yFrNYBdjgAeUKflMGtU8l) | 3:18 |
 | 69 | [LOCATION](https://open.spotify.com/track/5Km4r87BoX2qqtoprYS1gh) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [LOCATION](https://open.spotify.com/album/4ipeZHF3UKl2AKFqDhBCXR) | 4:25 |
 | 70 | [Sigues Con El](https://open.spotify.com/track/7sQKy5vlPQllr0k9IjYJv3) | [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Dímelo Flow](https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx) | [Sigues Con El](https://open.spotify.com/album/1y0pdsLO6cixGzAv7Sf8rf) | 3:46 |
-| 71 | [Jangueo](https://open.spotify.com/track/1bRpSCFv6P2OUhciByeRYR) | [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4), [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz) | [LOST](https://open.spotify.com/album/3bncOq9bM24eCefxlJvrtK) | 4:19 |
-| 72 | [Amarillo](https://open.spotify.com/track/6zEgnpM0qYmHLDnh8WPejL) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Colores](https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis) | 2:37 |
+| 71 | [Amarillo](https://open.spotify.com/track/6zEgnpM0qYmHLDnh8WPejL) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Colores](https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis) | 2:37 |
+| 72 | [Jangueo](https://open.spotify.com/track/1bRpSCFv6P2OUhciByeRYR) | [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4), [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz) | [LOST](https://open.spotify.com/album/3bncOq9bM24eCefxlJvrtK) | 4:19 |
 | 73 | [AM](https://open.spotify.com/track/2dNhNlpZAtV4lwAFW45LIv) | [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [Flow La Movie](https://open.spotify.com/artist/2oT7xd9iTO2ejLsNGIMa5f) | [AM](https://open.spotify.com/album/3dGUvydBX9qhg2YBMsVope) | 3:02 |
 | 74 | [Mi Niña](https://open.spotify.com/track/2bgcUk2A3jjKbCJ7KPquTi) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Los Legendarios](https://open.spotify.com/artist/0n6sKrG0xKAf8xmdqeNGke) | [Mi Niña](https://open.spotify.com/album/5F7rUv9XZPAnNfeKCYkqZS) | 3:33 |
 | 75 | [Despeinada](https://open.spotify.com/track/0JAZWvvqttGFm4UMDsPQXC) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Enoc](https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q) | 3:44 |
@@ -93,10 +93,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TNDxNzIjRm.md) - [plain]
 | 83 | [Sin Pijama](https://open.spotify.com/track/62vDrkBEyJYEOFj1ScBqM7) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [MALA SANTA](https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X) | 3:10 |
 | 84 | [911](https://open.spotify.com/track/2TksvaRivgAEj780DgRB73) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [911](https://open.spotify.com/album/4G5Vks8Uru6hWVdZba0fP1) | 3:35 |
 | 85 | [Amor en Coma](https://open.spotify.com/track/3RasiWohReHWYM1FJ9d1ZD) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Amor en Coma](https://open.spotify.com/album/0NHD8Het1Mqslp46azKDU2) | 3:19 |
-| 86 | [La Boca \- Remix](https://open.spotify.com/track/2EEmzqzM70CybVspgM7YRT) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [La Boca \(Remix\)](https://open.spotify.com/album/5LiT3OZKgkgEeInFxUEObJ) | 3:08 |
+| 86 | [Favorito](https://open.spotify.com/track/0jT8Nl0shPS8115is0wD2Q) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Por Primera Vez](https://open.spotify.com/album/6xS6mQz1fQZ6eZE654J15I) | 3:29 |
 | 87 | [PAM](https://open.spotify.com/track/0eeKDrQxjqNl5bX5VCHDcn) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [PAM](https://open.spotify.com/album/4cQLUsauu6PltpXfMxQH3U) | 3:21 |
 | 88 | [Morado](https://open.spotify.com/track/3mQ6SLdxxaL52Yte7KF2Ks) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Morado](https://open.spotify.com/album/7ynTaSXD9esXkgY0GG8UFd) | 3:20 |
-| 89 | [Favorito](https://open.spotify.com/track/0jT8Nl0shPS8115is0wD2Q) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Por Primera Vez](https://open.spotify.com/album/6xS6mQz1fQZ6eZE654J15I) | 3:29 |
+| 89 | [La Boca \- Remix](https://open.spotify.com/track/2EEmzqzM70CybVspgM7YRT) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [La Boca \(Remix\)](https://open.spotify.com/album/5LiT3OZKgkgEeInFxUEObJ) | 3:08 |
 | 90 | [PENDEJO](https://open.spotify.com/track/5cy2dREJqJAyf3CNr509W7) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [FINAL \(Vol.1\)](https://open.spotify.com/album/61a4XyIj98CGrUnKy8Hu4Z) | 2:45 |
 | 91 | [Locura](https://open.spotify.com/track/5379uuUPHodsdVhy8pIAAr) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Colegio](https://open.spotify.com/album/6IJ3u6R56lp0AUT0W9snon) | 3:29 |
 | 92 | [Tequila](https://open.spotify.com/track/02lGHA7bFFplYLihnUWTx8) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Más Futuro Que Pasado](https://open.spotify.com/album/2X45SzRfAFsxgkBxgryWfF) | 2:39 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TNDxNzIjRm.md) - [plain]
 | 99 | [Los Besos](https://open.spotify.com/track/6QSu3mgC8kUYtEDoBBQcJG) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Los Besos](https://open.spotify.com/album/0sjHYEx0vgbhUULHgJTFWs) | 3:22 |
 | 100 | [No Te Vayas](https://open.spotify.com/track/4k9byIhs9ppbYWE22waJMB) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [No Te Vayas](https://open.spotify.com/album/1m98axLPQPf3odJJQYc5ok) | 3:21 |
 
-Snapshot ID: `MTY1OTcyMjgzNywwMDAwMDAwMGZhNGM4OTliZTQxOWM1M2MyZTliZjQzMmFiMWQ3YTM4`
+Snapshot ID: `MTY1OTcyMjgzNywwMDAwMDAwMGQ1YjdhMTFmNDI1NGVjYWNmMGQwMGViMTNhNDNkYWY3`

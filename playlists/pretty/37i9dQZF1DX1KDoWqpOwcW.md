@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KDoWqpOwcW.md) - [plain]
 
 > El soundtrack oficial de la Liga Mexicana de Beisbol ⚾️🏟🧢
 
-[Spotify](https://open.spotify.com/user/spotify) - 409 likes - 125 songs - 7 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 446 likes - 125 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KDoWqpOwcW.md) - [plain]
 | 38 | [Tusa](https://open.spotify.com/track/7k4t7uLgtOxPwTpFmtJNTY) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Tusa](https://open.spotify.com/album/7mKevNHhVnZER3BLgI8O4F) | 3:20 |
 | 39 | [La Santa](https://open.spotify.com/track/69vlMrzHwATKzupwNcUPyK) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 3:26 |
 | 40 | [Adiós Amor](https://open.spotify.com/track/63bmZnBN1CiJ9sA4qTEe8y) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Me Dejé Llevar](https://open.spotify.com/album/2XHw4PFHT6srg7dxA3yrKv) | 3:19 |
-| 41 | [SAOKO](https://open.spotify.com/track/2FYGZDfsAnNsrm1gVbyKnG) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 2:17 |
-| 42 | [Me Rehúso](https://open.spotify.com/track/6De0lHrwBfPfrhorm9q1Xl) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Me Rehúso](https://open.spotify.com/album/4RrvIEhnaHKpFxsjXc4D7d) | 3:25 |
+| 41 | [Me Rehúso](https://open.spotify.com/track/6De0lHrwBfPfrhorm9q1Xl) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Me Rehúso](https://open.spotify.com/album/4RrvIEhnaHKpFxsjXc4D7d) | 3:25 |
+| 42 | [SAOKO](https://open.spotify.com/track/2FYGZDfsAnNsrm1gVbyKnG) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 2:17 |
 | 43 | [Lo Que Pasó, Pasó](https://open.spotify.com/track/26QKsGW4hMuwiEE1ftUMHe) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Barrio Fino \(Bonus Track Version\)](https://open.spotify.com/album/4pLuE50wL9T26lSv42X0J2) | 3:30 |
 | 44 | [Danza Kuduro](https://open.spotify.com/track/2a1o6ZejUi8U3wzzOtCOYw) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Lucenzo](https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E) | [Meet The Orphans](https://open.spotify.com/album/6mGDfbDErYIJsmSewvccWm) | 3:18 |
 | 45 | [Perdóname](https://open.spotify.com/track/6yLqoieklk9gwabLaUDJ4s) | [La Factoria](https://open.spotify.com/artist/4VsbQvC84B8Z3IsBY1HLQy), [Eddy Lover](https://open.spotify.com/artist/7gR53ad9JjCweCv4f9MWEX) | [Nuevas Metas](https://open.spotify.com/album/3jjhGPZjbKkW8b85zd7vfE) | 4:02 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KDoWqpOwcW.md) - [plain]
 | 79 | [El Botecito](https://open.spotify.com/track/2DzLlUtscN7QECJ6E3yvHE) | [Los Hijos Del Pueblo](https://open.spotify.com/artist/35hWST2f8cTTFbGzQZzGTZ) | [El Botecito](https://open.spotify.com/album/3F17x1qqSjZBxMCwxbnupP) | 2:30 |
 | 80 | [Tiburon](https://open.spotify.com/track/2GcjfckZexh9wRRjg9KtQG) | [Proyecto Uno](https://open.spotify.com/artist/6w1XCiB8efbfnusJ2jzmvu) | [In Da House](https://open.spotify.com/album/6AbWKVD3idhjdTxk7BQtKe) | 5:03 |
 | 81 | [Spanish Girl](https://open.spotify.com/track/00C0QqlR0vBK05aE1KSRNB) | [Zona Rika](https://open.spotify.com/artist/7pa9Vnkxw228A6QHsj3uGV) | [Pa' Gozar \- Zona Rika](https://open.spotify.com/album/2yAW7Bam9f29xcsxVTg1va) | 3:55 |
-| 82 | [Que Nadie Sepa Mi Sufrir](https://open.spotify.com/track/746BX8eh7gTFJUaVwF3Hpk) | [Sonora Siguaray](https://open.spotify.com/artist/5mJH0BUCHkK1xHYde4pAgv) | [De Mil Maneras](https://open.spotify.com/album/2KY2R606LkTJcyDy0pPGc8) | 4:06 |
-| 83 | [Kódigos](https://open.spotify.com/track/4UmrVmSgfJPsYPqUdVxeYJ) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL), [473 Music](https://open.spotify.com/artist/5RNHJe1xtJ3dKLb28DPT0V) | [Kódigos](https://open.spotify.com/album/3UPYvtNRePhVMLVrxR5a8i) | 3:47 |
+| 82 | [Kódigos](https://open.spotify.com/track/4UmrVmSgfJPsYPqUdVxeYJ) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL), [473 Music](https://open.spotify.com/artist/5RNHJe1xtJ3dKLb28DPT0V) | [Kódigos](https://open.spotify.com/album/3UPYvtNRePhVMLVrxR5a8i) | 3:47 |
+| 83 | [Que Nadie Sepa Mi Sufrir](https://open.spotify.com/track/746BX8eh7gTFJUaVwF3Hpk) | [Sonora Siguaray](https://open.spotify.com/artist/5mJH0BUCHkK1xHYde4pAgv) | [De Mil Maneras](https://open.spotify.com/album/2KY2R606LkTJcyDy0pPGc8) | 4:06 |
 | 84 | [Sopa de Caracol](https://open.spotify.com/track/4V8uHuLaBRxQ02H4YNCOO7) | [Banda Blanca](https://open.spotify.com/artist/1Ykx49KpY0FqIXUwyuD3TJ) | [Lo Mejor de Banda Blanca \- 16 Exitos](https://open.spotify.com/album/696Y05qV9YgqTqA8gPmY20) | 4:53 |
 | 85 | [Cumbia De La Cobra](https://open.spotify.com/track/68uupqD2ijA27hJxtvnsLH) | [Fito Olivares y Su Grupo](https://open.spotify.com/artist/3zzeZVLuOeetfimOd4k8rE) | [Zoológico Tropical](https://open.spotify.com/album/6hBgzQxYRILZimkK7vTIDN) | 3:18 |
 | 86 | [Qué Nivel De Mujer](https://open.spotify.com/track/4yakD6EKEjeMezENNCSlcc) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Aries](https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC) | 4:28 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KDoWqpOwcW.md) - [plain]
 | 124 | [No Soy Monedita de Oro](https://open.spotify.com/track/4rbH1Mh7HDIhx1tsXSFQvq) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Los 20 Mejores Corridos y Rancheras, Vol\. 2](https://open.spotify.com/album/1JXX5Z7nbAS2P2t8fH7S73) | 3:20 |
 | 125 | [El Toro Viejo \- Huapango](https://open.spotify.com/track/62zRGMj7CUz3aN1g3gSev8) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Con Banda](https://open.spotify.com/album/2525QjTlcuO1zaYoBCl1Z9) | 2:52 |
 
-Snapshot ID: `MTY2MjU3MDkyMSwwMDAwMDAwMDMyZjZlMmIzM2ViMzAxZjdmMjVkYmZmMWQ3NWI2ZDI1`
+Snapshot ID: `MTY2MjU3MDkyMSwwMDAwMDAwMDVkZWEyMzJiZDliYjhjMTI0NjdlODkzYzk5YWI2MWE3`

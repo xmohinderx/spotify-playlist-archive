@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT46DLgeBxAh.md) - [plain]
 
 > La mezcla perfecta, picosita y refrescante.
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,262 likes - 125 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,494 likes - 125 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT46DLgeBxAh.md) - [plain]
 | 23 | [12x3](https://open.spotify.com/track/0HINQFSerZ6iMfSsaTO3G5) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [12x3](https://open.spotify.com/album/2yTsZhJ86LtD1hvl8wSRPr) | 2:39 |
 | 24 | [A La Antigüita](https://open.spotify.com/track/798ahLNEcoFER7Vywg1FMT) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Vamos Bien](https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ) | 2:36 |
 | 25 | [BORRACHA](https://open.spotify.com/track/3JWKzfp6YX4LXFk2ybAfql) | [Felix Klain](https://open.spotify.com/artist/5cqI53b15GRiXRfls7DWMP), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [BORRACHA](https://open.spotify.com/album/2dS81EdC1fIj8XX0X0O9Ex) | 3:24 |
-| 26 | [Botella Tras Botella](https://open.spotify.com/track/2MnLkFqY9Rpg9s3Zv6ZJdK) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Botella Tras Botella](https://open.spotify.com/album/3Jv8XjzlQel3avRbOzysXB) | 3:17 |
-| 27 | [París](https://open.spotify.com/track/4bF2y8rR7GUjrd5LNEvej3) | [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [París](https://open.spotify.com/album/6Ktv94u6eUIZBiUiBwOADD) | 2:31 |
+| 26 | [París](https://open.spotify.com/track/4bF2y8rR7GUjrd5LNEvej3) | [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [París](https://open.spotify.com/album/6Ktv94u6eUIZBiUiBwOADD) | 2:31 |
+| 27 | [Botella Tras Botella](https://open.spotify.com/track/2MnLkFqY9Rpg9s3Zv6ZJdK) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Botella Tras Botella](https://open.spotify.com/album/3Jv8XjzlQel3avRbOzysXB) | 3:17 |
 | 28 | [Malory](https://open.spotify.com/track/4T18CIOag4LfuqqfzyBQmw) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Malory](https://open.spotify.com/album/407qOoTCcCGtc6DP2Wm0zi) | 1:56 |
 | 29 | [Llorar y Llorar \- con Carin Leon](https://open.spotify.com/track/4YF13O2n16dcTyGgVmiGvN) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Llorar y Llorar \(con Carin Leon\)](https://open.spotify.com/album/3FytBDr6KeYhwstN8yanrn) | 2:49 |
 | 30 | [Dile](https://open.spotify.com/track/69Ej1xrGjOcHvIMtMKxK0G) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [The Last Don](https://open.spotify.com/album/4vOvr0tdZWoIGjnHe9jLqz) | 3:24 |
@@ -55,14 +55,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT46DLgeBxAh.md) - [plain]
 | 45 | [Es Que Me Gustas \- En Vivo](https://open.spotify.com/track/6nyl8kugrRsjzvpFhvw4hE) | [Los 2 de la S](https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc) | [En Vivo desde El Foro Lizos Music](https://open.spotify.com/album/6Am6MERXwzXEATDw7cdnag) | 2:32 |
 | 46 | [Procura](https://open.spotify.com/track/2q9udNV9NK0BL3q9p6TLxf) | [ChiChi Peralta](https://open.spotify.com/artist/5GNSVtCq2hiXDx7jUA5Iou), [Jandy Feliz](https://open.spotify.com/artist/3hz57XL7wSiPMO9g3k1CW6) | [Pa' Otro La 'O](https://open.spotify.com/album/1AwPrz3G3D1Xx9wiKHNmHX) | 4:31 |
 | 47 | [Ya Acabo](https://open.spotify.com/track/4H3t8C59tXjKf1R2iKtc5M) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [DEV, Vol\. 2](https://open.spotify.com/album/07TMPBekE9j6Q1ae126ysU) | 3:09 |
-| 48 | [Yo Ya No Vuelvo Contigo \- En Vivo](https://open.spotify.com/track/1s59X35jDULAyOGmBuTAnd) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Yo Ya No Vuelvo Contigo \(En Vivo\)](https://open.spotify.com/album/78OOLWnOyjDZRqxZXlfNk9) | 4:00 |
-| 49 | [Me Acostumbre A Lo Bueno](https://open.spotify.com/track/1hHnCReCPe1FUkGLTeuCaC) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Del Barrio Hasta Aquí, Vol\. 2](https://open.spotify.com/album/1UtMaTZl4kau9NSFqc8wHp) | 2:20 |
+| 48 | [Me Acostumbre A Lo Bueno](https://open.spotify.com/track/1hHnCReCPe1FUkGLTeuCaC) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Del Barrio Hasta Aquí, Vol\. 2](https://open.spotify.com/album/1UtMaTZl4kau9NSFqc8wHp) | 2:20 |
+| 49 | [Yo Ya No Vuelvo Contigo \- En Vivo](https://open.spotify.com/track/1s59X35jDULAyOGmBuTAnd) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Yo Ya No Vuelvo Contigo \(En Vivo\)](https://open.spotify.com/album/78OOLWnOyjDZRqxZXlfNk9) | 4:00 |
 | 50 | [El Buho](https://open.spotify.com/track/1quaoU1wjFHLkDXC3bNghk) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El Buho](https://open.spotify.com/album/2Xuu8wGSDeBPCzhYJtMExb) | 2:56 |
 | 51 | [En Tu Perra Vida](https://open.spotify.com/track/0ldT3gl7aGNzrJyd4b1CA4) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [En Tu Perra Vida](https://open.spotify.com/album/754Bhr4Ck2WcFAvHWlykmp) | 3:58 |
 | 52 | [BICHOTA](https://open.spotify.com/track/7vrJn5hDSXRmdXoR30KgF1) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [BICHOTA](https://open.spotify.com/album/6LO6I2uJMkc0u7GHBYHa4Y) | 2:58 |
 | 53 | [Préstame Tu Corazón](https://open.spotify.com/track/1bnSKjuPEd8FPACxqA5Mos) | [Efecto Elegante](https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3) | [Préstame Tu Corazón](https://open.spotify.com/album/193sAyinQJCfAe9rWjUH36) | 3:02 |
-| 54 | [Tranquilito](https://open.spotify.com/track/2LJRoFOtMGLnSxJqlJuhge) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Décimo Aniversario](https://open.spotify.com/album/0rDFeKay5JBgF7fFIUWYca) | 2:44 |
-| 55 | [Ojos Cerrados](https://open.spotify.com/track/4OVpyR6yhYyVoRj9D7CERz) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Ojos Cerrados](https://open.spotify.com/album/0bmO2mhykyBDs7jt1ftQe0) | 3:00 |
+| 54 | [Ojos Cerrados](https://open.spotify.com/track/4OVpyR6yhYyVoRj9D7CERz) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Ojos Cerrados](https://open.spotify.com/album/0bmO2mhykyBDs7jt1ftQe0) | 3:00 |
+| 55 | [Tranquilito](https://open.spotify.com/track/2LJRoFOtMGLnSxJqlJuhge) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Décimo Aniversario](https://open.spotify.com/album/0rDFeKay5JBgF7fFIUWYca) | 2:44 |
 | 56 | [Un Millón de Primaveras](https://open.spotify.com/track/6j5LtifAnuTjTYvml61yFZ) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernandez Para Siempre](https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203) | 2:53 |
 | 57 | [Partido En Dos](https://open.spotify.com/track/1GBaQ3nnwxO3WVDUzKZ4kX) | [Chuy Lizarraga y Su Banda Tierra Sinaloense](https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr) | [Partido En Dos](https://open.spotify.com/album/3dWmlJJXZtKofrXUHSkfgw) | 3:46 |
 | 58 | [Como Lo Hice Yo](https://open.spotify.com/track/64JzNzcoSZOh3RWeoghVfk) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Como Lo Hice Yo](https://open.spotify.com/album/1MuEscvBJb4mFRS2wdffug) | 2:57 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT46DLgeBxAh.md) - [plain]
 | 124 | [El Amor Soñado](https://open.spotify.com/track/6Yd0OVYMrixawNof73Q3pC) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [El Amor Soñado](https://open.spotify.com/album/0CJMtndiL2Wx2xVs3Q0rDO) | 3:02 |
 | 125 | [Pa' Todo El Año \- En Vivo](https://open.spotify.com/track/41MpX9Fn5HT57O0VSdV1Ia) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Pa' Todo El Año \(En Vivo\)](https://open.spotify.com/album/5JoWZNE9num63U8PdD65cH) | 4:34 |
 
-Snapshot ID: `MTY2MDI4MDQwMCwwMDAwMDAwMDNhYmIxN2QxM2QxZDc5NTY2N2VlYTNlOGFjY2U3YjRl`
+Snapshot ID: `MTY2MDI4MDQwMCwwMDAwMDAwMGQ3ZTlkMjg0NDcxZGM1ZWQ3ZjdkZGMxZjI4MWQ2M2E3`

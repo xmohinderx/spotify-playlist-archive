@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX99DRG9N39X3.md) - [plain]
 
 > The biggest rock songs of the last decade\. Cover: Twenty One Pilots
 
-[Spotify](https://open.spotify.com/user/spotify) - 432,803 likes - 70 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 432,920 likes - 70 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,11 +41,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX99DRG9N39X3.md) - [plain]
 | 31 | [7](https://open.spotify.com/track/5ykbOijJEfRhuo2Td1m0Qd) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [The Ride](https://open.spotify.com/album/07IHAhsG4FnnfHQSb3bbAZ) | 4:16 |
 | 32 | [Waste A Moment](https://open.spotify.com/track/5LlsD7LdSMkGV4Iu0a2Zq0) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [WALLS](https://open.spotify.com/album/08ibdX8K0GETv20UEku3sm) | 3:03 |
 | 33 | [The Adventures of Rain Dance Maggie](https://open.spotify.com/track/0PgNhIg5n0UAOBVn43b8b6) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [I'm with You](https://open.spotify.com/album/5wZtSIvijWCMc1vlPFqAyB) | 4:42 |
-| 34 | [Howlin' for You](https://open.spotify.com/track/0grFc6klR3hxoHLcgCYsF4) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers](https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v) | 3:11 |
-| 35 | [Help](https://open.spotify.com/track/6EaGMOSWL2LndwY6gClBaD) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Crooked Teeth \(Deluxe\)](https://open.spotify.com/album/4KTUNKma9YpiSbioeui4pW) | 3:34 |
+| 34 | [Help](https://open.spotify.com/track/6EaGMOSWL2LndwY6gClBaD) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Crooked Teeth \(Deluxe\)](https://open.spotify.com/album/4KTUNKma9YpiSbioeui4pW) | 3:34 |
+| 35 | [Howlin' for You](https://open.spotify.com/track/0grFc6klR3hxoHLcgCYsF4) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers](https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v) | 3:11 |
 | 36 | [Amsterdam](https://open.spotify.com/track/454I78HEySdcHE8fcVabTb) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Broken Machine \(Deluxe\)](https://open.spotify.com/album/0r7wrRVD77lNrD9t2QgZrq) | 4:32 |
-| 37 | [The Sky Is A Neighborhood](https://open.spotify.com/track/3kdMzXOcrDIdSWLdONHNK5) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Concrete and Gold](https://open.spotify.com/album/6KMkuqIwKkwUhUYRPL6dUc) | 4:04 |
-| 38 | [Zombie](https://open.spotify.com/track/1eadPrzB2P0ikQcqhKSAtv) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [Disobey](https://open.spotify.com/album/5hDwXxawZfYuNxylzGXcqt) | 4:14 |
+| 37 | [Zombie](https://open.spotify.com/track/1eadPrzB2P0ikQcqhKSAtv) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [Disobey](https://open.spotify.com/album/5hDwXxawZfYuNxylzGXcqt) | 4:14 |
+| 38 | [The Sky Is A Neighborhood](https://open.spotify.com/track/3kdMzXOcrDIdSWLdONHNK5) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Concrete and Gold](https://open.spotify.com/album/6KMkuqIwKkwUhUYRPL6dUc) | 4:04 |
 | 39 | [Mountain at My Gates](https://open.spotify.com/track/3f7OyfSoDbQC0LRDQiytPp) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [What Went Down](https://open.spotify.com/album/0RyCpIKlCV0kgEuzrmp73O) | 4:04 |
 | 40 | [Lydia](https://open.spotify.com/track/7yoBjKO6cCnK3zV8gr1k4e) | [Highly Suspect](https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg) | [Mister Asylum](https://open.spotify.com/album/7wGLeeJt18EBjc181FP2cM) | 4:02 |
 | 41 | [I Sat by the Ocean](https://open.spotify.com/track/1D3YGmST01Ba0WRiT7THPG) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [...Like Clockwork](https://open.spotify.com/album/5T5NM01392dvvd4EhGrCnj) | 3:55 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX99DRG9N39X3.md) - [plain]
 | 58 | [Mess Around](https://open.spotify.com/track/0X0Lz7LwpiIWcdGqVWaxXD) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Tell Me I'm Pretty](https://open.spotify.com/album/0nW0w37lrQ87k7PLZvC4qJ) | 2:53 |
 | 59 | [Lights Out](https://open.spotify.com/track/1060gzllf4b0UETAXisR5l) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [How Did We Get So Dark?](https://open.spotify.com/album/3Rz6kF8eGqrDOEteo5YsBj) | 3:56 |
 | 60 | [Lazaretto](https://open.spotify.com/track/3T76zPJz3tWL27FrjJe2ot) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Lazaretto](https://open.spotify.com/album/36LXzRarDP8TU8K0REGpt6) | 3:39 |
-| 61 | [Wall of Glass](https://open.spotify.com/track/5qlSYa5PePLAuAsAFgqVxW) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9) | [As You Were \(Deluxe Edition\)](https://open.spotify.com/album/2V3WS9tlPYmscBNWHHYu9X) | 3:43 |
-| 62 | [Black Honey](https://open.spotify.com/track/5OeY5LebIOzD9Zvat1Dikf) | [Thrice](https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE) | [To Be Everywhere Is To Be Nowhere](https://open.spotify.com/album/4hFDcpvIU9F4OleRAR9nNZ) | 3:59 |
+| 61 | [Black Honey](https://open.spotify.com/track/5OeY5LebIOzD9Zvat1Dikf) | [Thrice](https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE) | [To Be Everywhere Is To Be Nowhere](https://open.spotify.com/album/4hFDcpvIU9F4OleRAR9nNZ) | 3:59 |
+| 62 | [Wall of Glass](https://open.spotify.com/track/5qlSYa5PePLAuAsAFgqVxW) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9) | [As You Were \(Deluxe Edition\)](https://open.spotify.com/album/2V3WS9tlPYmscBNWHHYu9X) | 3:43 |
 | 63 | [Heaven Knows](https://open.spotify.com/track/04w73SmPfQkkmEpKbcrHOL) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq) | [Going To Hell \(Deluxe Edition\)](https://open.spotify.com/album/2PYeB2ZxvfvPsEpd951xP4) | 3:44 |
 | 64 | [Do Your Worst](https://open.spotify.com/track/1ZDq0oRT40CkuADdE4Jvrq) | [Rival Sons](https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf) | [Feral Roots](https://open.spotify.com/album/2OsED4DmBABqdP9NwGUpAu) | 3:30 |
 | 65 | [Freeze Me](https://open.spotify.com/track/50jXnyrzW4mcBBqFTMEoAC) | [Death From Above 1979](https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj) | [Outrage! Is Now](https://open.spotify.com/album/4kKKH6cFBtNd9etSJzkMjZ) | 3:18 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX99DRG9N39X3.md) - [plain]
 | 69 | [T\-Shirt Weather](https://open.spotify.com/track/1gR9y60Vr70iUtfC61JIXH) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Young Chasers](https://open.spotify.com/album/1IVmUHIaorGsWsmcSMoz8i) | 3:12 |
 | 70 | [Summer Is a Curse](https://open.spotify.com/track/5WzgYEfub2pFJAAZfrOult) | [The Faim](https://open.spotify.com/artist/6VsU92soWFLtVsSP65rkrN) | [State of Mind](https://open.spotify.com/album/0C8bAFI1POhzztBVShuzll) | 3:01 |
 
-Snapshot ID: `MTY1ODQxOTU5OSwwMDAwMDAwMDY5ZWVkODI2MmEzNmNlNTljZTkyNTM4MmFjZDgzMWQ1`
+Snapshot ID: `MTY1ODQxOTU5OSwwMDAwMDAwMDBjMzE5NTFjODlhODMzZGZmZjgwNzU1NmI5ZjAyZjFk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N8QTiMHLoT.md) - [plain]
 
 > Because bass\. Cover: Victor Wooten
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,704 likes - 50 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,760 likes - 50 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N8QTiMHLoT.md) - [plain]
 | 14 | [Sex in a Pan](https://open.spotify.com/track/5HIpvnJea0u6rsdrfWCv3w) | [Béla Fleck and the Flecktones](https://open.spotify.com/artist/5Zmur9D9gpr6tXyDrpnbOe) | [UFO Tofu](https://open.spotify.com/album/5ORewDyq7lUTyzoDali0SO) | 3:34 |
 | 15 | [The Sniper](https://open.spotify.com/track/1v4zBLp1XPct1p0UBnabMK) | [Cristiano Parato](https://open.spotify.com/artist/0snU3Xa97Sq9l2RLuCdWIP), [Lele Melotti](https://open.spotify.com/artist/2LVUVfQksPpfSEcCvU8WaR), [Luca Scarpa](https://open.spotify.com/artist/4Q0nFR5UtI8s7hInvCdYRG) | [Still](https://open.spotify.com/album/2xGGVCtLjPF0C4JBhDFdVU) | 4:32 |
 | 16 | [Elephants On Ice Skates](https://open.spotify.com/track/0K6pSQ1hwpkIi73on3rqJ6) | [Brian Bromberg](https://open.spotify.com/artist/6iyIbAydXPDNz1yYFl7A9h) | [It Is What It Is](https://open.spotify.com/album/2kN0INHqkk9rUUVgYJpbat) | 6:41 |
-| 17 | [Get Down On It](https://open.spotify.com/track/41BisXehQCshqh06t1is99) | [Wayman Tisdale](https://open.spotify.com/artist/3h25qUbua6H0dcBJgDPg5c) | [Way Up!](https://open.spotify.com/album/5vapjGGzuB67f9Ye1TBsHm) | 4:18 |
-| 18 | [Beyond The Rift](https://open.spotify.com/track/64o9hhM3zNTVQpEnav9sib) | [Charles Berthoud](https://open.spotify.com/artist/2ja5lXz6NdhSjtDlbYIE91) | [Fable](https://open.spotify.com/album/4PqhzQqYinxZBm6ZXB6pQk) | 2:18 |
+| 17 | [Beyond The Rift](https://open.spotify.com/track/64o9hhM3zNTVQpEnav9sib) | [Charles Berthoud](https://open.spotify.com/artist/2ja5lXz6NdhSjtDlbYIE91) | [Fable](https://open.spotify.com/album/4PqhzQqYinxZBm6ZXB6pQk) | 2:18 |
+| 18 | [Get Down On It](https://open.spotify.com/track/41BisXehQCshqh06t1is99) | [Wayman Tisdale](https://open.spotify.com/artist/3h25qUbua6H0dcBJgDPg5c) | [Way Up!](https://open.spotify.com/album/5vapjGGzuB67f9Ye1TBsHm) | 4:18 |
 | 19 | [World Go Round](https://open.spotify.com/track/2JA7xuOgISHwyRFNVQKKFs) | [Derrick Hodge](https://open.spotify.com/artist/1jvBVqm4g5Jk8tEmKoYoes) | [The Second](https://open.spotify.com/album/70NkOwCX9ZudoecixbtENx) | 4:28 |
 | 20 | [What You Won't Do for Love](https://open.spotify.com/track/0vPIxkes0dlATamjuRJdcb) | [Victor Wooten](https://open.spotify.com/artist/2STVYmc2T02GlvvWZl7umj) | [What Did He Say? \(Remastered\)](https://open.spotify.com/album/5WbTfCHnFWp2pKiRkUU78D) | 4:42 |
 | 21 | [Inside My Memory](https://open.spotify.com/track/3gaGmRxUQ8n2vMC4BmDXSE) | [Cristiano Parato](https://open.spotify.com/artist/0snU3Xa97Sq9l2RLuCdWIP), [Scott Henderson](https://open.spotify.com/artist/7iqVI0BpCxVVHyVyGSfAmn), [Lele Melotti](https://open.spotify.com/artist/2LVUVfQksPpfSEcCvU8WaR) | [Ostinato Bass](https://open.spotify.com/album/5a1EmamjgzVgnoOgL9MMjz) | 4:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N8QTiMHLoT.md) - [plain]
 | 49 | [Letter for Paul \(feat\. Chris Potter, Jon Cowherd, Marcus Gilmore & Rogerio Boccato\)](https://open.spotify.com/track/3stEH9HPia2bpfoZ6LhOaR) | [John Patitucci](https://open.spotify.com/artist/4KmKbbEq6PMnW2TdkrbBIH), [Chris Potter](https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB), [Jon Cowherd](https://open.spotify.com/artist/1CfUXWkyKLaI4IyJ6ul9NE), [Marcus Gilmore](https://open.spotify.com/artist/1caVPl46Ta6C8DYns5AAuo), [Rogerio Boccato](https://open.spotify.com/artist/4o7gEQWwzhUvcepiz3klAe) | [Letter for Paul \(feat\. Chris Potter, Jon Cowherd, Marcus Gilmore & Rogerio Boccato\)](https://open.spotify.com/album/4oz7MSG5MJrIlxDLW7fF75) | 5:30 |
 | 50 | [F.U.NKWHY](https://open.spotify.com/track/08Xt9rwQXMqW2QF8ngLM8J) | [Ida Nielsen](https://open.spotify.com/artist/0LNUSuufEzNpI4nPIVThW3) | [Time 2 Stop Worrying \(Bout the Weird Stuff\)](https://open.spotify.com/album/4DrZmRj1deGY9MpW2dBjVJ) | 3:43 |
 
-Snapshot ID: `MTY0Njk3NDkyMCwwMDAwMDAwMGNkZGZhZTIwZjgzMDVjNzE0YzVhZWRlOTZhN2QyM2U5`
+Snapshot ID: `MTY0Njk3NDkyMCwwMDAwMDAwMDkxZTZhYTdmM2I5YTdiYWVkMDA2YjdjM2I2ZmVmZjIy`

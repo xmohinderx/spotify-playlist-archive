@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOaP4H0w5b0.md) - [plain]
 
 > Want some metal? Better to start with the essentials\. Cover: Metallica
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,557,548 likes - 100 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,558,050 likes - 100 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOaP4H0w5b0.md) - [plain]
 | 33 | [Painkiller](https://open.spotify.com/track/0L7zm6afBEtrNKo6C6Gj08) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Painkiller](https://open.spotify.com/album/7LgrhuKnAXpNEv8qzcVd2t) | 6:05 |
 | 34 | [Shadow Moses](https://open.spotify.com/track/68osIGtVjM7QWVe6pazLHj) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Sempiternal \(Expanded Edition\)](https://open.spotify.com/album/6IYPmM3xsOPL2XPSvf1ZAz) | 4:03 |
 | 35 | [I Stand Alone](https://open.spotify.com/track/44NRdYQw7P0GWuiunRv3hr) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [Faceless](https://open.spotify.com/album/7xhudjssYTY8qRl1s9R3wu) | 4:06 |
-| 36 | [Die MF Die](https://open.spotify.com/track/5bU4KX47KqtDKKaLM4QCzh) | [Dope](https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p) | [Life](https://open.spotify.com/album/7lRvSWMUCTIjkvZQLy4yBx) | 3:06 |
-| 37 | [Looking Down the Barrel of Today](https://open.spotify.com/track/5IVA7WzOlWrmZh8EqZqMaw) | [Hatebreed](https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV) | [The Concrete Confessional](https://open.spotify.com/album/63AsIG0ig2p4mWx42ySWIj) | 2:41 |
+| 36 | [Looking Down the Barrel of Today](https://open.spotify.com/track/5IVA7WzOlWrmZh8EqZqMaw) | [Hatebreed](https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV) | [The Concrete Confessional](https://open.spotify.com/album/63AsIG0ig2p4mWx42ySWIj) | 2:41 |
+| 37 | [Die MF Die](https://open.spotify.com/track/5bU4KX47KqtDKKaLM4QCzh) | [Dope](https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p) | [Life](https://open.spotify.com/album/7lRvSWMUCTIjkvZQLy4yBx) | 3:06 |
 | 38 | [Iron Man \- 2012 \- Remaster](https://open.spotify.com/track/3IOQZRcEkplCXg6LofKqE9) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Paranoid \(Remaster\)](https://open.spotify.com/album/6r7LZXAVueS5DqdrvXJJK7) | 5:55 |
 | 39 | [Bark at the Moon](https://open.spotify.com/track/2E7W1X4maFFcjHrVrFA7Vs) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Bark At The Moon \(Expanded Edition\)](https://open.spotify.com/album/537qKeG5gbEvKJpQ4Qmszn) | 4:17 |
 | 40 | [Down with the Sickness](https://open.spotify.com/track/4ImIJRZNJhNQLLdUFSYJoS) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [The Sickness \(10th Anniversary Edition\)](https://open.spotify.com/album/07w0hGS9XUdFsPBvDHy16y) | 4:38 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOaP4H0w5b0.md) - [plain]
 | 46 | [I Want Out](https://open.spotify.com/track/5VZwMq6yaFb04PCTfdNY3K) | [Helloween](https://open.spotify.com/artist/4pQN0GB0fNEEOfQCaWotsY) | [Keeper of the Seven Keys, Pt\. II \(Expanded Edition\)](https://open.spotify.com/album/0C00ibrtAGw59osJUg5qOO) | 4:40 |
 | 47 | [Raining Blood](https://open.spotify.com/track/01Mpj13vURSO3cCLprPt5T) | [Slayer](https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk) | [Reign In Blood](https://open.spotify.com/album/2DumvqHl78bNXuvU9kQfPN) | 4:14 |
 | 48 | [Dig](https://open.spotify.com/track/7vrLphPq4yjaX7jiDdd2Nc) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [L.D\. 50](https://open.spotify.com/album/79cxLehm2WE9NMIRcJaqK9) | 2:42 |
-| 49 | [Push It](https://open.spotify.com/track/6O7pihLJgeqxUnG7u9oYL2) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Wisconsin Death Trip](https://open.spotify.com/album/2WRLwr5MIIXr9gAWOOQ6J5) | 2:34 |
-| 50 | [Cirice](https://open.spotify.com/track/3ZXZ9RMsznqgyHnyq0K5FL) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Meliora](https://open.spotify.com/album/74QTwjBLo1eLqpjL320rXX) | 6:02 |
+| 49 | [Cirice](https://open.spotify.com/track/3ZXZ9RMsznqgyHnyq0K5FL) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Meliora](https://open.spotify.com/album/74QTwjBLo1eLqpjL320rXX) | 6:02 |
+| 50 | [Push It](https://open.spotify.com/track/6O7pihLJgeqxUnG7u9oYL2) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Wisconsin Death Trip](https://open.spotify.com/album/2WRLwr5MIIXr9gAWOOQ6J5) | 2:34 |
 | 51 | [Redneck](https://open.spotify.com/track/04EtBLFIxbcVt9NdYgcrpF) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Sacrament](https://open.spotify.com/album/1cikCss5SRQLrIAmpyHoVw) | 3:40 |
 | 52 | [Twilight Of The Thunder God](https://open.spotify.com/track/5u3l2TONYacJgmRPQVaF9y) | [Amon Amarth](https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL) | [Twilight Of The Thunder God](https://open.spotify.com/album/3j0GCUTDz53x9Mzl8L1Fwz) | 4:08 |
 | 53 | [Nobody's Fool](https://open.spotify.com/track/01Q4wU19hamqnhNjtuvTyI) | [Cinderella](https://open.spotify.com/artist/7HL4id2U7FSDJtfKQHMgQx) | [Night Songs](https://open.spotify.com/album/6Af1uU7Di8q9oHyXpgvrmY) | 4:47 |
@@ -67,16 +67,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOaP4H0w5b0.md) - [plain]
 | 57 | [Pull Me Under](https://open.spotify.com/track/5CPXR6lDTvngxtmMZxnWmC) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [Images and Words](https://open.spotify.com/album/2QgGoL5VSQhPHudTObS7zK) | 8:13 |
 | 58 | [Roots Bloody Roots](https://open.spotify.com/track/6ursmCnbc9oDRGa2yHKkoZ) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4) | [Roots](https://open.spotify.com/album/5JjnPCfpp6redrkKpXZAs8) | 3:32 |
 | 59 | [I Wanna Be Somebody](https://open.spotify.com/track/6w8dBm5KlXxWejYrbGS1EJ) | [W.A.S.P.](https://open.spotify.com/artist/3BVkDHWRvLJEyKdvhLbjsq) | [W.A.S.P.](https://open.spotify.com/album/25pbI5TFqt2tzGS4XSMnog) | 3:43 |
-| 60 | [Balls to the Wall](https://open.spotify.com/track/2dbOYFfS7r7NAzquRvji9A) | [Accept](https://open.spotify.com/artist/3JDIAtVrJdQ7GFOX26LYpv) | [Balls To The Wall](https://open.spotify.com/album/2twCPCDGJjVD90GWUjA8vN) | 5:42 |
-| 61 | [Under and Over It](https://open.spotify.com/track/7DyCmfT0WNViykLTHGT3yO) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [American Capitalist \(Deluxe Edition\)](https://open.spotify.com/album/1qLIrsJWd8bOPqunfQiTxh) | 3:38 |
+| 60 | [Under and Over It](https://open.spotify.com/track/7DyCmfT0WNViykLTHGT3yO) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [American Capitalist \(Deluxe Edition\)](https://open.spotify.com/album/1qLIrsJWd8bOPqunfQiTxh) | 3:38 |
+| 61 | [Balls to the Wall](https://open.spotify.com/track/2dbOYFfS7r7NAzquRvji9A) | [Accept](https://open.spotify.com/artist/3JDIAtVrJdQ7GFOX26LYpv) | [Balls To The Wall](https://open.spotify.com/album/2twCPCDGJjVD90GWUjA8vN) | 5:42 |
 | 62 | [Are You Dead Yet?](https://open.spotify.com/track/2T2vudIHfVMA5ychWTU3KA) | [Children Of Bodom](https://open.spotify.com/artist/1xUhNgw4eJDZfvumIpcz1B) | [Are You Dead Yet?](https://open.spotify.com/album/4JtmC1dly1OaggJbhdYAyZ) | 3:54 |
 | 63 | [Madhouse](https://open.spotify.com/track/76BYv24CcZt2u94JRjmATX) | [Anthrax](https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP) | [Spreading The Disease](https://open.spotify.com/album/0qEFMrunmeRHqzI9xAnu9L) | 4:19 |
 | 64 | [Carrion](https://open.spotify.com/track/0xfWKcNu13xxXQ2GT0P09M) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Horizons \(Deluxe Edition\)](https://open.spotify.com/album/4GnybptVxP8FoxVfnSjMqM) | 3:07 |
 | 65 | [War Eternal](https://open.spotify.com/track/0WZZENH0kt3O2cBE8q5IRq) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [War Eternal](https://open.spotify.com/album/3qzrNVuUyOJxfzMYRCh5qN) | 4:16 |
-| 66 | [You Only Live Once](https://open.spotify.com/track/4Ku3OOZWR4tpKNCVFXILY8) | [Suicide Silence](https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc) | [The Black Crown](https://open.spotify.com/album/3oJKuFPVZTSeNc8G4UYV4L) | 3:12 |
-| 67 | [Ritual](https://open.spotify.com/track/5ZiTzbMB53mIiP3I4uQCmt) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Opus Eponymous](https://open.spotify.com/album/7xusHmkJUWt1XqPrM3pC9U) | 4:28 |
-| 68 | [Black No\. 1 \(Little Miss Scare \-All\)](https://open.spotify.com/track/710B9xFjNOisQtKtppZE9p) | [Type O Negative](https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco) | [Bloody Kisses \(Top Shelf Edition\)](https://open.spotify.com/album/22PP61GmfGKAhIQo2ZSRxG) | 11:15 |
-| 69 | [In Waves](https://open.spotify.com/track/1yYr4D1KjhhyDD5bZIiFQy) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [In Waves \(Special Edition\)](https://open.spotify.com/album/2p1voQHdNSdy596VRDtdji) | 5:02 |
+| 66 | [Ritual](https://open.spotify.com/track/5ZiTzbMB53mIiP3I4uQCmt) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Opus Eponymous](https://open.spotify.com/album/7xusHmkJUWt1XqPrM3pC9U) | 4:28 |
+| 67 | [You Only Live Once](https://open.spotify.com/track/4Ku3OOZWR4tpKNCVFXILY8) | [Suicide Silence](https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc) | [The Black Crown](https://open.spotify.com/album/3oJKuFPVZTSeNc8G4UYV4L) | 3:12 |
+| 68 | [In Waves](https://open.spotify.com/track/1yYr4D1KjhhyDD5bZIiFQy) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [In Waves \(Special Edition\)](https://open.spotify.com/album/2p1voQHdNSdy596VRDtdji) | 5:02 |
+| 69 | [Black No\. 1 \(Little Miss Scare \-All\)](https://open.spotify.com/track/710B9xFjNOisQtKtppZE9p) | [Type O Negative](https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco) | [Bloody Kisses \(Top Shelf Edition\)](https://open.spotify.com/album/22PP61GmfGKAhIQo2ZSRxG) | 11:15 |
 | 70 | [Highway Star](https://open.spotify.com/track/4gVTozEmzwAUXpwj3jEetX) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Machine Head](https://open.spotify.com/album/1EK3a0Yctg4d3nGQzE4Uty) | 6:08 |
 | 71 | [The Number of the Beast \- 2015 Remaster](https://open.spotify.com/track/139RwLyp7r8F9ojvhGF5lC) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [The Number of the Beast \(2015 \- Remaster\)](https://open.spotify.com/album/33d72N71hl9bXwT4zAcqUy) | 4:50 |
 | 72 | [Kings of Metal](https://open.spotify.com/track/28TcG73tbc4iGrGBFjiBnR) | [Manowar](https://open.spotify.com/artist/4CzUzn54Cp9TQr6a7JIlMZ) | [Kings of Metal](https://open.spotify.com/album/7lZkD6ntnGAhmWowltbOYB) | 3:43 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOaP4H0w5b0.md) - [plain]
 | 78 | [Snap Your Fingers, Snap Your Neck](https://open.spotify.com/track/7hgtn706RqLE5q1mWe8aQx) | [Prong](https://open.spotify.com/artist/6SER9tY2pDIDVWVf5Ql97B) | [Cleansing](https://open.spotify.com/album/1RmsgRJnBFyRMAVl1NW9pO) | 4:11 |
 | 79 | [Davidian](https://open.spotify.com/track/3qHlBxD3acw5nrl7Padt0v) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Burn My Eyes](https://open.spotify.com/album/4S4WHsBRNEIha796lnU8NJ) | 4:56 |
 | 80 | [Stone the Crow](https://open.spotify.com/track/7DuRbuweGD2cpGN74cpPAF) | [DOWN](https://open.spotify.com/artist/1m0B9ak05G0jqDY4ACLhQu) | [Nola](https://open.spotify.com/album/04BvRPJwuDeuJ3DhbAw9Wg) | 4:42 |
-| 81 | [Breaking the Chains](https://open.spotify.com/track/2W7CvGjipq3EmHqNGN7lN9) | [Dokken](https://open.spotify.com/artist/09hNSPPOxDop4FRdr6UEnq) | [Breaking the Chains](https://open.spotify.com/album/7f89NbaCH568pUcYy6mqBq) | 3:51 |
-| 82 | [The Motherload](https://open.spotify.com/track/6EF0xhfKtQNqUPz2mnE5BD) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Once More 'Round the Sun](https://open.spotify.com/album/7mEkBi9a2p2f1WQbnH8Qk5) | 4:59 |
+| 81 | [The Motherload](https://open.spotify.com/track/6EF0xhfKtQNqUPz2mnE5BD) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Once More 'Round the Sun](https://open.spotify.com/album/7mEkBi9a2p2f1WQbnH8Qk5) | 4:59 |
+| 82 | [Breaking the Chains](https://open.spotify.com/track/2W7CvGjipq3EmHqNGN7lN9) | [Dokken](https://open.spotify.com/artist/09hNSPPOxDop4FRdr6UEnq) | [Breaking the Chains](https://open.spotify.com/album/7f89NbaCH568pUcYy6mqBq) | 3:51 |
 | 83 | [Halo](https://open.spotify.com/track/1QixTwDZCcfBzA7QMyont0) | [Soil](https://open.spotify.com/artist/4PoYwGOztIrPpBfRIlMSxP) | [Scars \(Expanded Edition\)](https://open.spotify.com/album/2XLiRCMRy5WuuF373tKBZ8) | 3:15 |
 | 84 | [Freezing Moon](https://open.spotify.com/track/4AP3a7eEOlz5sTJiWnv2C6) | [Mayhem](https://open.spotify.com/artist/0dR10i73opHXuRuLbgxltM) | [De Mysteriis Dom Sathanas](https://open.spotify.com/album/7mHVfSXtdzvPk7TkdhoekE) | 6:23 |
 | 85 | [I Will Be Heard](https://open.spotify.com/track/4Lxn1JlGJwmmXpODrNvPA6) | [Hatebreed](https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV) | [Perseverance](https://open.spotify.com/album/2UPZ06izR1OtTX80U30AfG) | 2:58 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOaP4H0w5b0.md) - [plain]
 | 99 | [Brotherhood of the Snake](https://open.spotify.com/track/4VcN84ZdC7doe4yoIarJUA) | [Testament](https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg) | [Brotherhood of the Snake](https://open.spotify.com/album/70oAOzrUemHFWB8VKToEtu) | 4:13 |
 | 100 | [Replica](https://open.spotify.com/track/5YeQoMo5py82YmqXMTjM5S) | [Fear Factory](https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX) | [Demanufacture \(Special Edition\)](https://open.spotify.com/album/6GPHWrMQG5Ns8O3aQKMro2) | 3:57 |
 
-Snapshot ID: `MTY2MTU0MDIxNCwwMDAwMDAwMGFmZTgzZmYzZDU0ZmQ2MGQ1ZjJiODdlMWU3NDI2ZDU1`
+Snapshot ID: `MTY2MTU0MDIxNCwwMDAwMDAwMDc5NjZjMTIyM2VhYTBjMzZhYjQ2MzI3YTczOWMwOGYy`

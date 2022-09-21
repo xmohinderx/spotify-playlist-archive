@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWEJ7IcHiFv.md) - [plain]
 
 > This is the Latin soundtrack of the 80s! Cover: Gloria Estefan
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,192 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,223 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,9 +20,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWEJ7IcHiFv.md) - [plain]
 | 10 | [La Bamba](https://open.spotify.com/track/0uMMLry3hzWGn3q3loqMkm) | [Los Lobos](https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT) | [La Bamba / Charlena](https://open.spotify.com/album/0FPwLfwQWd91kV5rZTzMlZ) | 2:54 |
 | 11 | [Marta tiene un marcapasos](https://open.spotify.com/track/1XvfncS1t4BNkh37klHeqj) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [La Cagaste..\. Burt Lancaster](https://open.spotify.com/album/6clqMga4PMBcBlWCR6idis) | 2:12 |
 | 12 | [Fría Como El Viento](https://open.spotify.com/track/2J4qy8RyfwgXHt73cWOE6P) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Busca Una Mujer](https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo) | 3:55 |
-| 13 | [Ven Devórame Otra Vez](https://open.spotify.com/track/2HbmLkHkkI15eES8kpWRuI) | [Lalo Rodriguez](https://open.spotify.com/artist/5LmwELEKyxDFxrbZzR8K4U) | [Oro Salsero](https://open.spotify.com/album/21W5Yp75UyOaWI2QALA7PS) | 5:11 |
-| 14 | [Ni tú ni nadie](https://open.spotify.com/track/7LpS82vPDLgZAHWRtWBBRj) | [Alaska Y Dinarama](https://open.spotify.com/artist/2mDlFcPtgXtLF1gEshEInh) | [Deseo Carnal](https://open.spotify.com/album/0WCUpdYXsvpM8Bed8w4vQF) | 3:37 |
-| 15 | [Hijo de la luna](https://open.spotify.com/track/2LmlZvAmT1L0O3iPVSQWOX) | [Mecano](https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G) | [Entre el Cielo y el Suelo \(Bonus Tracks Edition\)](https://open.spotify.com/album/1D4CJeC3gIhwipRwVKihjy) | 4:19 |
+| 13 | [Hijo de la luna](https://open.spotify.com/track/2LmlZvAmT1L0O3iPVSQWOX) | [Mecano](https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G) | [Entre el Cielo y el Suelo \(Bonus Tracks Edition\)](https://open.spotify.com/album/1D4CJeC3gIhwipRwVKihjy) | 4:19 |
+| 14 | [Ven Devórame Otra Vez](https://open.spotify.com/track/2HbmLkHkkI15eES8kpWRuI) | [Lalo Rodriguez](https://open.spotify.com/artist/5LmwELEKyxDFxrbZzR8K4U) | [Oro Salsero](https://open.spotify.com/album/21W5Yp75UyOaWI2QALA7PS) | 5:11 |
+| 15 | [Ni tú ni nadie](https://open.spotify.com/track/7LpS82vPDLgZAHWRtWBBRj) | [Alaska Y Dinarama](https://open.spotify.com/artist/2mDlFcPtgXtLF1gEshEInh) | [Deseo Carnal](https://open.spotify.com/album/0WCUpdYXsvpM8Bed8w4vQF) | 3:37 |
 | 16 | [Simplemente Amigos](https://open.spotify.com/track/10PwPpr7BBxYon3pwS7k5G) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Tierra De Nadie](https://open.spotify.com/album/3gV3uvJ1HSYVM88Tsh1DHi) | 3:47 |
 | 17 | [Obsesión](https://open.spotify.com/track/1l0mEM93oZMERzBmOCuiHe) | [Miguel Mateos](https://open.spotify.com/artist/02Nbktg6lCJiazPM6YYTMz) | [Lo Esencial](https://open.spotify.com/album/7zrwTOHJUTWDJBSED3mhbD) | 4:05 |
 | 18 | [Amante Bandido](https://open.spotify.com/track/1hj6nYHeGclSY0VNTHMi27) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [Bandido](https://open.spotify.com/album/29QmPdVjXD0c5DpS4U51di) | 4:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWEJ7IcHiFv.md) - [plain]
 | 49 | [Get on Your Feet](https://open.spotify.com/track/7awBgmQ3B0YscMXPBwE1gQ) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Cuts Both Ways](https://open.spotify.com/album/4rPsV2qfjewaH9tAidFVv9) | 3:38 |
 | 50 | [Rhythm Is Gonna Get You](https://open.spotify.com/track/6302KY4zq4Bpx823hyk4Kk) | [Gloria Estefan And Miami Sound Machine](https://open.spotify.com/artist/2Gop8SbSVt5SaJzuaRFa7D), [Miami Sound Machine](https://open.spotify.com/artist/18xgcedCGxFbqLbIQn5R8F) | [Greatest Hits](https://open.spotify.com/album/5wkQo9u8qrKOdfGqoizWPo) | 3:55 |
 
-Snapshot ID: `MTY2MTkzMDg2OSwwMDAwMDAwMDRhMjYzODBhNjk4YjU4MTIzN2IzMWFhY2E1YjQ4ZjQz`
+Snapshot ID: `MTY2MTkzMDg2OSwwMDAwMDAwMDk5M2IyN2Y3ZDIwZWFhZTMyMGQ2OTdjOTExODRkODAw`

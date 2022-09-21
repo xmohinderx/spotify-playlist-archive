@@ -4,7 +4,7 @@
 
 > Happy Pop\-Rock Tunes to start your day.
 
-183 songs - 11 hr 14 min - [published](https://open.spotify.com/playlist/3j9mauw5Zu7ivIgvltle7G)
+184 songs - 11 hr 16 min - [published](https://open.spotify.com/playlist/3j9mauw5Zu7ivIgvltle7G)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Come On Get Higher](https://open.spotify.com/track/38YgZVHPWOWsKrsCXz6JyP) | [Matt Nathanson](https://open.spotify.com/artist/4NGiEU3Pkd8ASRyQR30jcA) | [Some Mad Hope](https://open.spotify.com/album/45A2E1YR00sPSwxJw5d3qu) | 3:35 | 2022-06-09 | 2022-07-22 |
 | [Cool Off](https://open.spotify.com/track/02960DDajvR1bOKZ1VLPC6) | [Session Road](https://open.spotify.com/artist/1J9AYwtdzwZiVW1mGkQpp6) | [Suntok Sa Buwan](https://open.spotify.com/album/5xw1m8kLwFiv65OHsuIOG5) | 3:41 | 2022-06-09 | 2022-06-22 |
 | [Counting Stars](https://open.spotify.com/track/6sy3LkhNFjJWlaeSMNwQ62) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Native](https://open.spotify.com/album/2bbhW5ifCwOYM8DMkqoYBF) | 4:17 | 2022-07-26 |  |
+| [Daisy \- Spotify Singles](https://open.spotify.com/track/7fvs1psRkf1WWX4qJOq53N) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Spotify Singles](https://open.spotify.com/album/0dMeqAw8U02QpDifgEeY3Y) | 2:29 | 2022-09-13 |  |
 | [Days I Will Remember](https://open.spotify.com/track/01MVOl9KtVTNfFiBU9I7dc) | [Tyrone Wells](https://open.spotify.com/artist/5zeCSgiRyezbfLiGOpKAsR) | [Days I Will Remember](https://open.spotify.com/album/7sGGGUDd6LjNoYOvVFiqj2) | 3:34 | 2022-06-09 | 2022-07-23 |
 | [dead2me.](https://open.spotify.com/track/0NsnAcdO7vVrQgPH6SoiF3) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [dead2me.](https://open.spotify.com/album/6UaYSCrPhRj92JDySXKFc7) | 3:30 | 2022-08-19 | 2022-09-15 |
 | [Don't Give Up On Me \- \(From "Five Feet Apart"\)](https://open.spotify.com/track/5A3fPy30SN2wuzrahpcxvV) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Naive](https://open.spotify.com/album/20mlgqmD6YJwkNuAfLRcDC) | 3:16 | 2022-06-07 | 2022-07-28 |

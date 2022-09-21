@@ -4,7 +4,7 @@
 
 > it's not just an indie kid with an aux, it's \*chic\*
 
-343 songs - 20 hr 32 min - [published](https://open.spotify.com/playlist/7nowwmXF5288KAzDDzHkBy)
+344 songs - 20 hr 36 min - [published](https://open.spotify.com/playlist/7nowwmXF5288KAzDDzHkBy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,7 @@
 | [Gimme Love \- Channel Tres Remix](https://open.spotify.com/track/45rFdiqdK7xjGb287C06bY) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Gimme Love \(Channel Tres Remix\)](https://open.spotify.com/album/7l2ZAKZIPZOhMQaNcPXbl3) | 3:16 | 2020-12-31 | 2022-07-24 |
 | [Go To Town](https://open.spotify.com/track/6iOvnACn4ChlAw4lWUU4dd) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Amala](https://open.spotify.com/album/54tInqO543zy0Y5F2VsUQI) | 3:37 | 2020-12-31 | 2022-08-12 |
 | [go with u](https://open.spotify.com/track/4PdLup4OaCGktZG8cvbkBz) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj) | [Someone's EP II](https://open.spotify.com/album/5hb9aZmt8McCp8ktZh2dJZ) | 3:51 | 2022-05-31 |  |
-| [God's Plan](https://open.spotify.com/track/5HfUsHA6HCvIDDvtXJlUKb) | [George Moir](https://open.spotify.com/artist/6eNGoUHSDYfXSy5SvnN1Uu) | [God's Plan](https://open.spotify.com/album/2YP2BYZ4kgJ7W5vlOUs6B5) | 2:46 | 2022-08-11 |  |
+| [God's Plan](https://open.spotify.com/track/5HfUsHA6HCvIDDvtXJlUKb) | [George Moir](https://open.spotify.com/artist/6eNGoUHSDYfXSy5SvnN1Uu) | [God's Plan](https://open.spotify.com/album/2YP2BYZ4kgJ7W5vlOUs6B5) | 2:46 | 2022-08-11 | 2022-09-21 |
 | [Gold](https://open.spotify.com/track/5Dz6wdHlI45KAOBAfMSJRS) | [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [Gold](https://open.spotify.com/album/7jlUFBjbua4L7eZXpncXIG) | 2:55 | 2022-08-11 |  |
 | [Good Life](https://open.spotify.com/track/14blxrgE0VWAgv5aF2wWmx) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Graduation](https://open.spotify.com/album/5fPglEDz9YEwRgbLRvhCZy) | 3:27 | 2020-12-31 | 2022-04-18 |
 | [Good Life](https://open.spotify.com/track/4ZPdLEztrlZqbJkgHNw54L) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Graduation](https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3) | 3:27 | 2022-07-22 | 2022-08-12 |
@@ -329,6 +329,7 @@
 | [We Found Love](https://open.spotify.com/track/6cZqFT5RanA70lmN9wuWzB) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [Talk That Talk \(Deluxe Explicit\)](https://open.spotify.com/album/3oQebIVUPY0IPiROZSIQFl) | 3:35 | 2020-12-31 | 2022-04-18 |
 | [We Found Love](https://open.spotify.com/track/6qn9YLKt13AGvpq9jfO8py) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [Talk That Talk](https://open.spotify.com/album/2g1EakEaW7fPTZC6vBmBCn) | 3:35 | 2022-07-22 | 2022-08-12 |
 | [Weekend](https://open.spotify.com/track/0qPeakaeFndczx9OhJIFp6) | [Clubhouse](https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX) | [Weekend](https://open.spotify.com/album/5vREvSe0O7QJeXhT3OaTLS) | 3:08 | 2021-11-12 | 2022-07-29 |
+| [Weekend](https://open.spotify.com/track/4Zc6fjadh1ONHDtec9poAD) | [Clubhouse](https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX) | [Are We Going Too Slow?](https://open.spotify.com/album/4WrVZgQ5FMGG8596elftve) | 3:08 | 2022-08-16 |  |
 | [Weekend Friend](https://open.spotify.com/track/2d3QlXE6FXFDeodiS66yjM) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Weekend Friend](https://open.spotify.com/album/1U2tk4b49drBLpt9GJ9kPc) | 3:29 | 2021-10-19 |  |
 | [Welcome to LA](https://open.spotify.com/track/62BKMNUacuQ6X67ID4Qcef) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Alien Boy EP](https://open.spotify.com/album/5AelTZUdahNA7besdaECfD) | 2:31 | 2021-10-19 | 2022-04-19 |
 | [What Ever Happened](https://open.spotify.com/track/2lHqf8dE3hf9RIqF6jGO6D) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Marie Antoinette \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0C8pr3dnMPistlH58MkMc4) | 2:48 | 2021-10-20 | 2022-04-20 |

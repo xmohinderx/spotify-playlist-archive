@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLa3WetIs.md) - [plain]
 
 > Taking you back to your favourite hall party classics from the Afrobeat scene.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,262 likes - 80 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,323 likes - 80 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLa3WetIs.md) - [plain]
 | 22 | [Romantic \(feat\. Tiwa Savage\)](https://open.spotify.com/track/5NOH1b1GanDHuc4pwhoPR1) | [Korede Bello](https://open.spotify.com/artist/2TwUVWFJs4LD0lOBbJXnNa), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Romantic \(feat\. Tiwa Savage\)](https://open.spotify.com/album/6lKawQDT6e3OXoLAYKNJqr) | 3:45 |
 | 23 | [Chop My Money \- Remix](https://open.spotify.com/track/0rWlFiu0sMqLdtrViUwLT5) | [P\-Square](https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [May D](https://open.spotify.com/artist/7ahfCquNK3ReYc2UHhugs5) | [Chop My Money](https://open.spotify.com/album/50wBF1pk26slksIqYODsHk) | 4:32 |
 | 24 | [Final \(Baba Nla\)](https://open.spotify.com/track/5bPpNuK3qgt1UbI18QEUYx) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Final \(Baba Nla\) \- Single](https://open.spotify.com/album/3PhMIu5CI6S79XdmXzou4t) | 2:40 |
-| 25 | [Antenna \- UK Club Mix](https://open.spotify.com/track/6NeLjyLTlygTDu34MdolgQ) | [Fuse ODG](https://open.spotify.com/artist/374sWpAJsbZckf98df2jJJ) | [T.I.N.A.](https://open.spotify.com/album/3v9NqDh72DLPjhPVBo4oh1) | 3:42 |
-| 26 | [Obianuju](https://open.spotify.com/track/12n8d0AfedBQysTcN4Tg6W) | [Duncan Mighty](https://open.spotify.com/artist/5N47dnIfPuGH8kIHpf8gZK) | [Legacy \(Ahamefuna\)](https://open.spotify.com/album/5qfyyCq5qZYIlpeBhE0Bl2) | 3:41 |
+| 25 | [Obianuju](https://open.spotify.com/track/12n8d0AfedBQysTcN4Tg6W) | [Duncan Mighty](https://open.spotify.com/artist/5N47dnIfPuGH8kIHpf8gZK) | [Legacy \(Ahamefuna\)](https://open.spotify.com/album/5qfyyCq5qZYIlpeBhE0Bl2) | 3:41 |
+| 26 | [Antenna \- UK Club Mix](https://open.spotify.com/track/6NeLjyLTlygTDu34MdolgQ) | [Fuse ODG](https://open.spotify.com/artist/374sWpAJsbZckf98df2jJJ) | [T.I.N.A.](https://open.spotify.com/album/3v9NqDh72DLPjhPVBo4oh1) | 3:42 |
 | 27 | [Skelewu](https://open.spotify.com/track/0C63WNrSJOlu62O6lrxRMU) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Best Of Davido](https://open.spotify.com/album/1cG2CR1M2KMv2dupmm3rFI) | 3:10 |
 | 28 | [Karolina](https://open.spotify.com/track/0tjRxRv1JonYbxX0RD1Smw) | [Awilo Longomba](https://open.spotify.com/artist/0WDUZIWwoxCyAfT7NFFSFT) | [Mondongo](https://open.spotify.com/album/4xnSuFuoJNfg0c2n6tZuMc) | 4:32 |
 | 29 | [Décalé Gwada](https://open.spotify.com/track/6m9geVsbI6BsPZ6CESmK3c) | [Jessy Matador](https://open.spotify.com/artist/7kg2IelllVmw7WcnSFtlXR) | [Afrikan New Style](https://open.spotify.com/album/4WC1cBieMiYoc3enDfIi5u) | 2:55 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLa3WetIs.md) - [plain]
 | 79 | [Bae \(feat\. Afro B\)](https://open.spotify.com/track/0XAebEOKmFP0QjVplewqbE) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [Afro B](https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC) | [Bae \(feat\. Afro B\)](https://open.spotify.com/album/0ae2TKUu1qAZ18GYdrJdNB) | 3:23 |
 | 80 | [Ahayede](https://open.spotify.com/track/0YcLMyZGhtAx1qYgQPbPkJ) | [Nana Boroo](https://open.spotify.com/artist/6okA9KLxPv9Za9RGkHSOk5), [SK Originale](https://open.spotify.com/artist/2z5uuIjNgQjzjwO3QVwHXP) | [Best of Nana Boroo](https://open.spotify.com/album/0FxMEwwFyYv70CkwvMpIUd) | 5:00 |
 
-Snapshot ID: `MTYwNDY2ODg4MSwwMDAwMDAwMDQ5YzgzOWM2MDk4NGQ1YTAzMzE4NDU2MDI2YjZjNjgy`
+Snapshot ID: `MTYwNDY2ODg4MSwwMDAwMDAwMGUyYzkwZTMyZjE1NTE4ODIxZmRmZmVlM2NiNGJjNmE3`

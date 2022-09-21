@@ -116,6 +116,24 @@
     },
     {
       "album": {
+        "name": "A Knock On The Door",
+        "url": "https://open.spotify.com/album/0q2peKbZDl0x0NuIn7UZ7F"
+      },
+      "artists": [
+        {
+          "name": "Clover Post",
+          "url": "https://open.spotify.com/artist/2XWP1prJQm6CLoHKAqXCEz"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207915,
+      "name": "A Knock On The Door",
+      "url": "https://open.spotify.com/track/1lKkIBFCcsUOG14fPmvbhw"
+    },
+    {
+      "album": {
         "name": "More Stan Getz For Lovers",
         "url": "https://open.spotify.com/album/2x71Afmn0jKbcAMNXQGWRK"
       },
@@ -4005,7 +4023,7 @@
       ],
       "date_added": "2022-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 257426,
       "name": "Measures",
       "url": "https://open.spotify.com/track/6jwlziYjqQXHxFRKHDItHy"
@@ -4081,6 +4099,24 @@
       "duration_ms": 597280,
       "name": "Midnight Special - Rudy Van Gelder Digital Remaster/2007",
       "url": "https://open.spotify.com/track/6oWhUfePc5h9r5pfw7wvPN"
+    },
+    {
+      "album": {
+        "name": "Miles and Miles",
+        "url": "https://open.spotify.com/album/1Gl5EDLgmZ5qFglvsJUCSX"
+      },
+      "artists": [
+        {
+          "name": "Pimm's Trio",
+          "url": "https://open.spotify.com/artist/0vlyMzroosYUjkAfHLx6kF"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271277,
+      "name": "Miles and Miles",
+      "url": "https://open.spotify.com/track/6EjkHR4gYfNQjWwoyiCTbh"
     },
     {
       "album": {
@@ -4725,7 +4761,7 @@
       ],
       "date_added": "2022-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 321791,
       "name": "O Ephraim",
       "url": "https://open.spotify.com/track/4pu8KqFqRsLcLIgTeHRavE"
@@ -4933,6 +4969,24 @@
       "duration_ms": 300125,
       "name": "Orange Was the Color of Her Dress, Then Blue Silk - Edit",
       "url": "https://open.spotify.com/track/01Udds3MCkViVJmdJoYLEA"
+    },
+    {
+      "album": {
+        "name": "I'm Glad There's You",
+        "url": "https://open.spotify.com/album/77AOGNjcrBXivWuex9jHmc"
+      },
+      "artists": [
+        {
+          "name": "Gene Hart Trio",
+          "url": "https://open.spotify.com/artist/5iUzoJfVuTECa0aM3nCCCh"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287479,
+      "name": "Pensativa",
+      "url": "https://open.spotify.com/track/1QVNZXoguyS3bBzMldMn7i"
     },
     {
       "album": {
@@ -5853,7 +5907,7 @@
       ],
       "date_added": "2022-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 468120,
       "name": "Star Brite",
       "url": "https://open.spotify.com/track/3YShkRiHcZuKwJ6uGccRUi"

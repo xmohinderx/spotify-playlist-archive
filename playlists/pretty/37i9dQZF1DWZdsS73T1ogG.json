@@ -1,12 +1,12 @@
 {
   "description": "Descubre lo m\u00e1s nuevo del movimiento. Cover: Young Miko, Chris Jedi, Lunay.",
-  "num_followers": 505184,
+  "num_followers": 505239,
   "original_name": "el nuevo urbano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMDhiOTY0NWRkNzEzN2VkNTUyYTMxOWI0YmM4ZTNiYWQx",
+  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMDFhZmMwNzlhOTcxMjJjNTJmOTQ1Zjk4ODIxMmRkODA0",
   "tracks": [
     {
       "added_at": "2022-09-16 04:00:00",
@@ -159,18 +159,26 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "GIVENCHY",
-        "url": "https://open.spotify.com/album/4yNnIoQh8y1uDB6ScOS2vx"
+        "name": "Marisola",
+        "url": "https://open.spotify.com/album/6pEq0eQ4Jk0C7plPyyyXDp"
       },
       "artists": [
         {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+          "name": "Stars Music Chile",
+          "url": "https://open.spotify.com/artist/2NZD6Gqfk60GEcAAnJKVsR"
+        },
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        },
+        {
+          "name": "Standly",
+          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
         }
       ],
-      "duration_ms": 182610,
-      "name": "GIVENCHY",
-      "url": "https://open.spotify.com/track/6bTVP50bbtMtD6RGe2cUoQ"
+      "duration_ms": 184421,
+      "name": "Marisola",
+      "url": "https://open.spotify.com/track/2pR6bipXfJySBhje19SW02"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -235,26 +243,18 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Marisola",
-        "url": "https://open.spotify.com/album/6pEq0eQ4Jk0C7plPyyyXDp"
+        "name": "GIVENCHY",
+        "url": "https://open.spotify.com/album/4yNnIoQh8y1uDB6ScOS2vx"
       },
       "artists": [
         {
-          "name": "Stars Music Chile",
-          "url": "https://open.spotify.com/artist/2NZD6Gqfk60GEcAAnJKVsR"
-        },
-        {
-          "name": "Cris Mj",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
-        },
-        {
-          "name": "Standly",
-          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
         }
       ],
-      "duration_ms": 184421,
-      "name": "Marisola",
-      "url": "https://open.spotify.com/track/2pR6bipXfJySBhje19SW02"
+      "duration_ms": 182610,
+      "name": "GIVENCHY",
+      "url": "https://open.spotify.com/track/6bTVP50bbtMtD6RGe2cUoQ"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -607,30 +607,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Nunca y Pico",
-        "url": "https://open.spotify.com/album/3uNbOY2ihiX05YVsOuYDwZ"
-      },
-      "artists": [
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        },
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 203680,
-      "name": "Nunca y Pico",
-      "url": "https://open.spotify.com/track/0GcToAAsQocPVkbVvsORj1"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Tiempo",
         "url": "https://open.spotify.com/album/41Wxh8xLNvaolvU44HBupA"
       },
@@ -651,6 +627,30 @@
       "duration_ms": 226120,
       "name": "Tiempo",
       "url": "https://open.spotify.com/track/79wZgmcWFMYPjV6Ty58t8b"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Nunca y Pico",
+        "url": "https://open.spotify.com/album/3uNbOY2ihiX05YVsOuYDwZ"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 203680,
+      "name": "Nunca y Pico",
+      "url": "https://open.spotify.com/track/0GcToAAsQocPVkbVvsORj1"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -795,6 +795,22 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
+        "name": "Mi Peor Error",
+        "url": "https://open.spotify.com/album/0zIqIwZW0LSPZ5fSjnpUWF"
+      },
+      "artists": [
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        }
+      ],
+      "duration_ms": 183333,
+      "name": "Mi Peor Error",
+      "url": "https://open.spotify.com/track/61SfEOvxgYHwqkRu5K8GIB"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
         "name": "Tapate (with Ak4:20)",
         "url": "https://open.spotify.com/album/1iiK3tCDF1N66QxF4YSJfg"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 191628,
       "name": "Tapate (with Ak4:20)",
       "url": "https://open.spotify.com/track/4tckYfU2DJXdCqBlLWdiEX"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "Mi Peor Error",
-        "url": "https://open.spotify.com/album/0zIqIwZW0LSPZ5fSjnpUWF"
-      },
-      "artists": [
-        {
-          "name": "Darell",
-          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
-        }
-      ],
-      "duration_ms": 183333,
-      "name": "Mi Peor Error",
-      "url": "https://open.spotify.com/track/61SfEOvxgYHwqkRu5K8GIB"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
+        "name": "Otro De Esos D\u00edas",
+        "url": "https://open.spotify.com/album/4jYEjce5w0bg26AfO4dCq4"
+      },
+      "artists": [
+        {
+          "name": "Ecko",
+          "url": "https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF"
+        }
+      ],
+      "duration_ms": 193960,
+      "name": "Otro De Esos D\u00edas",
+      "url": "https://open.spotify.com/track/4KeX3jUuwS0Lr9RGFicu4V"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
         "name": "Mojadero",
         "url": "https://open.spotify.com/album/7ptOOr9s01AaepOVD7ACOl"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 159157,
       "name": "Mojadero",
       "url": "https://open.spotify.com/track/6CuLgRNyiHtWcRCqFeZA8i"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "Otro De Esos D\u00edas",
-        "url": "https://open.spotify.com/album/4jYEjce5w0bg26AfO4dCq4"
-      },
-      "artists": [
-        {
-          "name": "Ecko",
-          "url": "https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF"
-        }
-      ],
-      "duration_ms": 193960,
-      "name": "Otro De Esos D\u00edas",
-      "url": "https://open.spotify.com/track/4KeX3jUuwS0Lr9RGFicu4V"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1231,22 +1231,18 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Quien Soy?",
-        "url": "https://open.spotify.com/album/1I9cP54N1kFGnrDsmsILFY"
+        "name": "Despues Siempre Es Tarde",
+        "url": "https://open.spotify.com/album/6yiDOMUgSUUVoh5waZ8LJ4"
       },
       "artists": [
         {
-          "name": "Luar La L",
-          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
-        },
-        {
-          "name": "Chris Wandell",
-          "url": "https://open.spotify.com/artist/1jsB2W4c9zTq9ilGXegrDM"
+          "name": "Joyce Santana",
+          "url": "https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX"
         }
       ],
-      "duration_ms": 201332,
-      "name": "Quien Soy?",
-      "url": "https://open.spotify.com/track/2WJ648KGSA8bhvJe0T9N4p"
+      "duration_ms": 303230,
+      "name": "Besties - Remix",
+      "url": "https://open.spotify.com/track/1ac7A5aXklR4RttUlaMRcI"
     }
   ],
   "unique_name": "el nuevo urbano",

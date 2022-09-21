@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX127GJMzd1vB.md) - [plain]
 
 > ¡De amor y desamor! Las canciones que no pueden faltar a la hora de llevar gallo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,309 likes - 75 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,350 likes - 75 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX127GJMzd1vB.md) - [plain]
 | 36 | [Perdóname](https://open.spotify.com/track/5Ss6PEMm27CQUCotqWLKe6) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Por Una Mujer Bonita](https://open.spotify.com/album/575z6jPePLhrgIlIeaKflS) | 3:31 |
 | 37 | [Gema](https://open.spotify.com/track/6CtFzFcak77qpA0ll1guMN) | [Los Dandys](https://open.spotify.com/artist/1orbu8WOc4EtKxQsfNNEZK) | [Coleccion Original](https://open.spotify.com/album/0OwOpYYCXo04N5VMQEaXuJ) | 2:32 |
 | 38 | [En el Último Trago](https://open.spotify.com/track/6i6tTUmg1i9PDwETgb5v7J) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [Gracias \(with Mariachi Vargas de Tecalitlán\)](https://open.spotify.com/album/6nhkBmPqfBjoJwLMVClgxH) | 2:17 |
-| 39 | [Fallaste Corazón](https://open.spotify.com/track/6BIRIBJuEGLds1oAxvybLO) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [Mexico Gran Colección Ranchera: Pedro Infante](https://open.spotify.com/album/4ZiRfUT3xPgjse6CzPGRYC) | 3:46 |
-| 40 | [Eso Y Más](https://open.spotify.com/track/4uV2q5BTVqsNU1oF5tT6q1) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Eso Y Más](https://open.spotify.com/album/3ej22uBC7EecBlN1GOg06U) | 2:46 |
+| 39 | [Eso Y Más](https://open.spotify.com/track/4uV2q5BTVqsNU1oF5tT6q1) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Eso Y Más](https://open.spotify.com/album/3ej22uBC7EecBlN1GOg06U) | 2:46 |
+| 40 | [Fallaste Corazón](https://open.spotify.com/track/6BIRIBJuEGLds1oAxvybLO) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [Mexico Gran Colección Ranchera: Pedro Infante](https://open.spotify.com/album/4ZiRfUT3xPgjse6CzPGRYC) | 3:46 |
 | 41 | [En Tu Pelo](https://open.spotify.com/track/4leHHwUSR0Vm5rjYvHhBEU) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Vida De Bohemio](https://open.spotify.com/album/0ufPamcshkfTyzmIJp9Efi) | 3:00 |
 | 42 | [Se Me Olvidó Otra Vez](https://open.spotify.com/track/6Y3AwA8UfVSDjeMrdJyjLK) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [15 Anos De Exitos](https://open.spotify.com/album/0raOnVnK8S60UkiSpIzVIY) | 2:57 |
 | 43 | [Te Quedó Grande La Yegua](https://open.spotify.com/track/5tPxcLBsfj9yZS4PAiOr9G) | [Alicia Villarreal](https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn) | [Soy Lo Prohibido](https://open.spotify.com/album/4kI870RBIpDEXCJfDOpyt4) | 3:37 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX127GJMzd1vB.md) - [plain]
 | 74 | [La Diferencia](https://open.spotify.com/track/0UjaaTDGZcDhNZITXW9nUI) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Con el Mariachi de América de Jesús Rodríguez de Hijar](https://open.spotify.com/album/1KyEwimgjlEeq4Ovc1D8ws) | 3:20 |
 | 75 | [Amaneci Entre Tus Brazos \- En Vivo](https://open.spotify.com/track/2wUyUpg8oOrvZ2MsEHph0m) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [El Concierto](https://open.spotify.com/album/6efyUFJcUK18KRFTMoxNSI) | 2:30 |
 
-Snapshot ID: `MTY0MDgyMTYxNywwMDAwMDAwMDFiOTQ1NjRmNjZjMmU0ZDk3MzdhOGQ3MDVlNDRkNzI3`
+Snapshot ID: `MTY0MDgyMTYxNywwMDAwMDAwMGJlOGVmMzQ5N2NjOGZlNDUzMjUyMzNlYjU5MWZiODFk`

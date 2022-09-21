@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2mn5wEfG6q.md) - [plain]
 
 > 2013 highlights from the home of indie music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,076 likes - 100 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,145 likes - 100 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,15 +55,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2mn5wEfG6q.md) - [plain]
 | 45 | [Put a Light On](https://open.spotify.com/track/4ZFHITy0bAeZ3oFfvR0HaI) | [Generationals](https://open.spotify.com/artist/57MtJQ6Sc4tIxrXIhrqVJL) | [Heza](https://open.spotify.com/album/34oLvXQWydwd1KOqgL8UiE) | 3:46 |
 | 46 | [Closer](https://open.spotify.com/track/4dTVgHZFPlaq9nPbLVVLSG) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Heartthrob](https://open.spotify.com/album/5IUJ6v408Z7pECC3BXUJxX) | 3:29 |
 | 47 | [Trojans](https://open.spotify.com/track/0wDEiGfq4pw7FAkYKpkwMo) | [Atlas Genius](https://open.spotify.com/artist/42vg2T0Xg9yPaAgogJzoQH) | [When It Was Now](https://open.spotify.com/album/3yhETmhJwSVSLGDyTJgnqo) | 3:37 |
-| 48 | [Harlem](https://open.spotify.com/track/573latfTMO7SpGtStVrQx5) | [New Politics](https://open.spotify.com/artist/3RbyaF3Pq6iDUKNp04AIcU) | [A Bad Girl In Harlem](https://open.spotify.com/album/2pKVER4FshWhYv6yk8uIbI) | 2:43 |
-| 49 | [Under The Pressure](https://open.spotify.com/track/5j58jhAFzAy0keSuQYsQBn) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [Lost In The Dream](https://open.spotify.com/album/51VxHZphGLsI7aUPqIkJaz) | 8:52 |
+| 48 | [Under The Pressure](https://open.spotify.com/track/5j58jhAFzAy0keSuQYsQBn) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [Lost In The Dream](https://open.spotify.com/album/51VxHZphGLsI7aUPqIkJaz) | 8:52 |
+| 49 | [Harlem](https://open.spotify.com/track/573latfTMO7SpGtStVrQx5) | [New Politics](https://open.spotify.com/artist/3RbyaF3Pq6iDUKNp04AIcU) | [A Bad Girl In Harlem](https://open.spotify.com/album/2pKVER4FshWhYv6yk8uIbI) | 2:43 |
 | 50 | [Swim and Sleep \(Like a Shark\)](https://open.spotify.com/track/1UcgqK04vVmW8aXV2OxGiZ) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [II](https://open.spotify.com/album/2UrexGLK8RBKbv07j7ui19) | 2:45 |
-| 51 | [Girls](https://open.spotify.com/track/2zyz614fJRrqQXW1q0sY1c) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The 1975 \(Deluxe Version\)](https://open.spotify.com/album/0mkOUedmYlOzCC4tOm2v0c) | 4:14 |
+| 51 | [One Way Trigger](https://open.spotify.com/track/5GKVcvTgnFYtfh25qKQtRg) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Comedown Machine](https://open.spotify.com/album/4WnkQO4xD9ljQooB3VIxCV) | 4:02 |
 | 52 | [Step](https://open.spotify.com/track/607EA1HsuzrqqaPuxyNqpD) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Modern Vampires of the City](https://open.spotify.com/album/1GXMNFfoHF4sN7lG8gZq1j) | 4:11 |
-| 53 | [One Way Trigger](https://open.spotify.com/track/5GKVcvTgnFYtfh25qKQtRg) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Comedown Machine](https://open.spotify.com/album/4WnkQO4xD9ljQooB3VIxCV) | 4:02 |
+| 53 | [Girls](https://open.spotify.com/track/2zyz614fJRrqQXW1q0sY1c) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The 1975 \(Deluxe Version\)](https://open.spotify.com/album/0mkOUedmYlOzCC4tOm2v0c) | 4:14 |
 | 54 | [Oblivion](https://open.spotify.com/track/79npfYK6N5RnBc1jiaoHCr) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz), [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [Oblivion \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5O5pnKHDJrwvL6w9Ne1mka) | 5:56 |
-| 55 | [Waiting Game](https://open.spotify.com/track/27mT3JdR3sRJyiMBFHdhB4) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Goddess \(Deluxe\)](https://open.spotify.com/album/1eeYYgK208xvkCEGkYqWah) | 3:27 |
-| 56 | [Oblivion](https://open.spotify.com/track/3IvSKBO9Fu4yEWRPXvfrLU) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [All This Bad Blood](https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L) | 3:16 |
+| 55 | [Oblivion](https://open.spotify.com/track/3IvSKBO9Fu4yEWRPXvfrLU) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [All This Bad Blood](https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L) | 3:16 |
+| 56 | [Waiting Game](https://open.spotify.com/track/27mT3JdR3sRJyiMBFHdhB4) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Goddess \(Deluxe\)](https://open.spotify.com/album/1eeYYgK208xvkCEGkYqWah) | 3:27 |
 | 57 | [You're Not Good Enough](https://open.spotify.com/track/7vcNp4cj4uF4AyX5aKY4Ps) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Cupid Deluxe](https://open.spotify.com/album/1bsLkHcWAGUao6Z1dHOEIB) | 4:21 |
 | 58 | [Don't Swallow the Cap](https://open.spotify.com/track/3l3SbRkrK1aQ5Dk1h7vroV) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Trouble Will Find Me](https://open.spotify.com/album/4OI9hKTm1QMRQunqHCfSSL) | 4:45 |
 | 59 | [Shuggie](https://open.spotify.com/track/6RgrpOgbTI3M2qvA8XIvTb) | [Foxygen](https://open.spotify.com/artist/55LHFEtIplWhsfyWZUwkf4) | [We Are the 21st Century Ambassadors of Peace & Magic](https://open.spotify.com/album/7FfiN9ztbjLNPWhuhFHaWf) | 3:21 |
@@ -82,9 +82,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2mn5wEfG6q.md) - [plain]
 | 72 | [Wakin On A Pretty Day](https://open.spotify.com/track/4cCoZML1dPIQxNjOwDmJGf) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Wakin On A Pretty Daze](https://open.spotify.com/album/3BSEZLnzVW6QEX12wcKdFi) | 9:30 |
 | 73 | [Purple Yellow Red and Blue](https://open.spotify.com/track/4WMuY659P2MKnoW40oGXe8) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Evil Friends](https://open.spotify.com/album/6VoOCCv0bXPrTHDncJyIgF) | 4:09 |
 | 74 | [Let's Be Still](https://open.spotify.com/track/3QmzlL0tTtDgD1Hwfct68D) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Let's Be Still](https://open.spotify.com/album/6KE9bPdNZqkYvXebow0i42) | 4:28 |
-| 75 | [Warm Water \- Snakehips Remix](https://open.spotify.com/track/63Ly2sEzloc9s0yAXlMi6r) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n), [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP) | [Warm Water \(Snakehips Remix\)](https://open.spotify.com/album/41xJklJV7uqDzg9teggeR6) | 4:13 |
+| 75 | [Southern Sun](https://open.spotify.com/track/0RrPNhHIC7WkLR88xDVKJa) | [Boy & Bear](https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6) | [Harlequin Dream](https://open.spotify.com/album/2CFyEkeALqX3vTLIJ9ohvN) | 4:41 |
 | 76 | [This is the Last Time](https://open.spotify.com/track/70ZuQywnmOpqcIiEnUA5yV) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Trouble Will Find Me](https://open.spotify.com/album/4OI9hKTm1QMRQunqHCfSSL) | 4:43 |
-| 77 | [Southern Sun](https://open.spotify.com/track/0RrPNhHIC7WkLR88xDVKJa) | [Boy & Bear](https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6) | [Harlequin Dream](https://open.spotify.com/album/2CFyEkeALqX3vTLIJ9ohvN) | 4:41 |
+| 77 | [Warm Water \- Snakehips Remix](https://open.spotify.com/track/63Ly2sEzloc9s0yAXlMi6r) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n), [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP) | [Warm Water \(Snakehips Remix\)](https://open.spotify.com/album/41xJklJV7uqDzg9teggeR6) | 4:13 |
 | 78 | [Flaws](https://open.spotify.com/track/14qPtxNN9MBdqKpP6l5q6G) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [All This Bad Blood](https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L) | 3:38 |
 | 79 | [Baby Blue](https://open.spotify.com/track/6Ko6VLnveSju6IZiwONLTt) | [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [6 Feet Beneath The Moon](https://open.spotify.com/album/6uvdXVgHsioxRIo0cFnkD7) | 3:35 |
 | 80 | [Hannah Hunt](https://open.spotify.com/track/6AY1M1akbsVaQN3ATVyzH7) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Modern Vampires of the City](https://open.spotify.com/album/1GXMNFfoHF4sN7lG8gZq1j) | 3:57 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2mn5wEfG6q.md) - [plain]
 | 86 | [Hurricane](https://open.spotify.com/track/35aNHKBZWXXbL9KQK7O5Nk) | [MS MR](https://open.spotify.com/artist/4XaUmUGjidSklcDHxv3XWf) | [Secondhand Rapture](https://open.spotify.com/album/3OzeRt6qBaj92n9yjiZBPt) | 3:46 |
 | 87 | [Bad Blood](https://open.spotify.com/track/04D2wKcN9ju5IY06nwV24m) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [All This Bad Blood](https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L) | 3:32 |
 | 88 | [Needle](https://open.spotify.com/track/6FV9xcL49P5jMdzyBDG9wY) | [Born Ruffians](https://open.spotify.com/artist/7wGrLSB3v7jkV3fSsjYwtv) | [Birthmarks](https://open.spotify.com/album/3WDn6Zj4NRmYSperrOJcJZ) | 3:33 |
-| 89 | [Paris](https://open.spotify.com/track/4EaO2XR7gWaHq8DW7nu1iY) | [Magic Man](https://open.spotify.com/artist/6ejhZKxWJr9apHAzj74DHv) | [Before the Waves](https://open.spotify.com/album/1UBdVrk0aaya4VX1r0r3Un) | 3:52 |
-| 90 | [Life Round Here](https://open.spotify.com/track/2746pcTPaE9FBHkvUivCsg) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Overgrown](https://open.spotify.com/album/53FEYOXnplxBWoQMmWn82U) | 3:37 |
+| 89 | [Life Round Here](https://open.spotify.com/track/2746pcTPaE9FBHkvUivCsg) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Overgrown](https://open.spotify.com/album/53FEYOXnplxBWoQMmWn82U) | 3:37 |
+| 90 | [Paris](https://open.spotify.com/track/4EaO2XR7gWaHq8DW7nu1iY) | [Magic Man](https://open.spotify.com/artist/6ejhZKxWJr9apHAzj74DHv) | [Before the Waves](https://open.spotify.com/album/1UBdVrk0aaya4VX1r0r3Un) | 3:52 |
 | 91 | [One Minute More](https://open.spotify.com/track/0NYLOvWtvJdyeceDD9R1Vw) | [Capital Cities](https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu), [Sebu Simonian](https://open.spotify.com/artist/2qNFFftPmkByIgN023GgLZ) | [In A Tidal Wave Of Mystery \(Deluxe Edition\)](https://open.spotify.com/album/3WrufJir7I61NkvkDwxero) | 3:22 |
 | 92 | [Dancing Anymore](https://open.spotify.com/track/3Xd0819paqFQB4LBA8XVb0) | [IS TROPICAL](https://open.spotify.com/artist/148ujrGRexnhpqhRiw0rDi) | [I'm Leaving](https://open.spotify.com/album/5Fjrapit4FBhLL0E1q6z3Z) | 5:18 |
 | 93 | [Smother](https://open.spotify.com/track/27ViT9yPmgH4TLyXPTsQWl) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [If You Leave](https://open.spotify.com/album/31LehqnrVyTuEBEKeXeqVx) | 4:00 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2mn5wEfG6q.md) - [plain]
 | 95 | [San Francisco](https://open.spotify.com/track/0J7Zv3nJki2SBTvidhMDZy) | [Foxygen](https://open.spotify.com/artist/55LHFEtIplWhsfyWZUwkf4) | [We Are the 21st Century Ambassadors of Peace & Magic](https://open.spotify.com/album/7FfiN9ztbjLNPWhuhFHaWf) | 3:47 |
 | 96 | [While I'm Alive](https://open.spotify.com/track/6wtcxwSJs82tpdeIoj93LF) | [STRFKR](https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU) | [Miracle Mile](https://open.spotify.com/album/5S4tasGYxpQuSEWLYvgyQp) | 3:50 |
 | 97 | [Atomic Man](https://open.spotify.com/track/43QhrhgRrH9NWy6eoUro4X) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Evil Friends](https://open.spotify.com/album/6VoOCCv0bXPrTHDncJyIgF) | 3:47 |
-| 98 | [It Is What It Is](https://open.spotify.com/track/0BPWY79wNehGVARtwJawYV) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Cupid Deluxe](https://open.spotify.com/album/1bsLkHcWAGUao6Z1dHOEIB) | 5:07 |
-| 99 | [If So](https://open.spotify.com/track/5yUXyXZSG80niT5hkh7ucf) | [Atlas Genius](https://open.spotify.com/artist/42vg2T0Xg9yPaAgogJzoQH) | [When It Was Now](https://open.spotify.com/album/3yhETmhJwSVSLGDyTJgnqo) | 3:00 |
+| 98 | [If So](https://open.spotify.com/track/5yUXyXZSG80niT5hkh7ucf) | [Atlas Genius](https://open.spotify.com/artist/42vg2T0Xg9yPaAgogJzoQH) | [When It Was Now](https://open.spotify.com/album/3yhETmhJwSVSLGDyTJgnqo) | 3:00 |
+| 99 | [It Is What It Is](https://open.spotify.com/track/0BPWY79wNehGVARtwJawYV) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Cupid Deluxe](https://open.spotify.com/album/1bsLkHcWAGUao6Z1dHOEIB) | 5:07 |
 | 100 | [Even When The Water's Cold](https://open.spotify.com/track/2UjEyfnKzaY7qpBEeESJjv) | [!!!](https://open.spotify.com/artist/1mmehjf7eHA10uHMisZGJg) | [Thr!!!er](https://open.spotify.com/album/3ywERU9rVKEpCQE50fQOgM) | 3:47 |
 
-Snapshot ID: `MTY1MDkxNjQ1MiwwMDAwMDAwMGRlOGZjYWZjMGFjMzFlODEyNjY2MjE5YzJiMTI4NDVl`
+Snapshot ID: `MTY1MDkxNjQ1MiwwMDAwMDAwMDVlN2JkZjQ0OTFiMzFlMDA3ZTI1ZGU4NzIwM2Q2NDlk`

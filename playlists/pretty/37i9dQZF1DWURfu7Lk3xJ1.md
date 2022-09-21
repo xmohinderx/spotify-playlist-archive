@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURfu7Lk3xJ1.md) - [plain]
 
 > Focus the mind with these calming beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,166 likes - 168 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,340 likes - 168 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

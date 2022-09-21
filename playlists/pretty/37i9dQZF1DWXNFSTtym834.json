@@ -1,12 +1,12 @@
 {
   "description": "The biggest metal songs of the 2000s.",
-  "num_followers": 765084,
+  "num_followers": 765702,
   "original_name": "00s Metal Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI0NjUwMiwwMDAwMDAwMGM5N2EwMzQxYTFlMzllODE4NTBmMTZkOTE0ZTBlYThi",
+  "snapshot_id": "MTY2MDI0NjUwMiwwMDAwMDAwMGI4ZjcwZmYzOTBjZGYyMTU0ZDJjNWQxMTdlMGNkZDY0",
   "tracks": [
     {
       "added_at": "2022-04-13 21:11:09",
@@ -425,22 +425,6 @@
       "url": "https://open.spotify.com/track/6xXlurslWqFuyqTCBlErzX"
     },
     {
-      "added_at": "2022-04-13 21:11:09",
-      "album": {
-        "name": "Satellite (U.S. Version)",
-        "url": "https://open.spotify.com/album/4eUmncMYQRg0Ot29KKqbuk"
-      },
-      "artists": [
-        {
-          "name": "P.O.D.",
-          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
-        }
-      ],
-      "duration_ms": 190760,
-      "name": "Boom",
-      "url": "https://open.spotify.com/track/5DooySfCD1xCJ49gQm9rx7"
-    },
-    {
       "added_at": "2022-07-13 14:03:23",
       "album": {
         "name": "Welcome To The Masquerade (Fan Edition)",
@@ -455,6 +439,22 @@
       "duration_ms": 197373,
       "name": "Take It Out On Me",
       "url": "https://open.spotify.com/track/1RXoCep9hxApPfx8UFsGZk"
+    },
+    {
+      "added_at": "2022-04-13 21:11:09",
+      "album": {
+        "name": "Satellite (U.S. Version)",
+        "url": "https://open.spotify.com/album/4eUmncMYQRg0Ot29KKqbuk"
+      },
+      "artists": [
+        {
+          "name": "P.O.D.",
+          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
+        }
+      ],
+      "duration_ms": 190760,
+      "name": "Boom",
+      "url": "https://open.spotify.com/track/5DooySfCD1xCJ49gQm9rx7"
     },
     {
       "added_at": "2022-04-13 21:11:09",
@@ -923,22 +923,6 @@
     {
       "added_at": "2022-04-13 21:11:09",
       "album": {
-        "name": "Reise, Reise",
-        "url": "https://open.spotify.com/album/09qHS2BgOLqi3SMkbauxdJ"
-      },
-      "artists": [
-        {
-          "name": "Rammstein",
-          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
-        }
-      ],
-      "duration_ms": 226760,
-      "name": "Amerika",
-      "url": "https://open.spotify.com/track/33ayEZDfgARpadIdqo87JQ"
-    },
-    {
-      "added_at": "2022-04-13 21:11:09",
-      "album": {
         "name": "Horizons (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4GnybptVxP8FoxVfnSjMqM"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 187960,
       "name": "Carrion",
       "url": "https://open.spotify.com/track/0xfWKcNu13xxXQ2GT0P09M"
+    },
+    {
+      "added_at": "2022-04-13 21:11:09",
+      "album": {
+        "name": "Reise, Reise",
+        "url": "https://open.spotify.com/album/09qHS2BgOLqi3SMkbauxdJ"
+      },
+      "artists": [
+        {
+          "name": "Rammstein",
+          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+        }
+      ],
+      "duration_ms": 226760,
+      "name": "Amerika",
+      "url": "https://open.spotify.com/track/33ayEZDfgARpadIdqo87JQ"
     },
     {
       "added_at": "2022-07-13 14:03:23",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2022-04-13 21:11:09",
       "album": {
-        "name": "Babylon (Revised Online Music)",
-        "url": "https://open.spotify.com/album/32QHWyKkZykhjHXzgRaZyg"
-      },
-      "artists": [
-        {
-          "name": "Skindred",
-          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
-        }
-      ],
-      "duration_ms": 236013,
-      "name": "Nobody",
-      "url": "https://open.spotify.com/track/581mukhDjta60CCwpvnjL9"
-    },
-    {
-      "added_at": "2022-04-13 21:11:09",
-      "album": {
         "name": "Doomsday Machine",
         "url": "https://open.spotify.com/album/7gesblPNpHD2mhMQyKd6MS"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 252280,
       "name": "Nemesis",
       "url": "https://open.spotify.com/track/27sTzAelgljD6Uxp88BqA3"
+    },
+    {
+      "added_at": "2022-04-13 21:11:09",
+      "album": {
+        "name": "Babylon (Revised Online Music)",
+        "url": "https://open.spotify.com/album/32QHWyKkZykhjHXzgRaZyg"
+      },
+      "artists": [
+        {
+          "name": "Skindred",
+          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
+        }
+      ],
+      "duration_ms": 236013,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/581mukhDjta60CCwpvnjL9"
     },
     {
       "added_at": "2022-07-13 14:03:23",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2022-04-13 21:11:09",
       "album": {
-        "name": "Reinventing the Steel",
-        "url": "https://open.spotify.com/album/7sEY94y1wQACVwMgeE62hd"
-      },
-      "artists": [
-        {
-          "name": "Pantera",
-          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
-        }
-      ],
-      "duration_ms": 316493,
-      "name": "Revolution Is My Name",
-      "url": "https://open.spotify.com/track/6LhUsJiXAuxoalUz01evh0"
-    },
-    {
-      "added_at": "2022-04-13 21:11:09",
-      "album": {
         "name": "Octavarium",
         "url": "https://open.spotify.com/album/4v6kYkn7mYjlWS9vONmmCP"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 493026,
       "name": "Panic Attack",
       "url": "https://open.spotify.com/track/5axwj3ekvw85989jjO8Ov8"
+    },
+    {
+      "added_at": "2022-04-13 21:11:09",
+      "album": {
+        "name": "Reinventing the Steel",
+        "url": "https://open.spotify.com/album/7sEY94y1wQACVwMgeE62hd"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "duration_ms": 316493,
+      "name": "Revolution Is My Name",
+      "url": "https://open.spotify.com/track/6LhUsJiXAuxoalUz01evh0"
     },
     {
       "added_at": "2022-07-13 14:03:23",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2022-07-13 14:03:23",
       "album": {
-        "name": "Friede sei mit Dir",
-        "url": "https://open.spotify.com/album/235X3eQimRVyGnP71WBT5a"
-      },
-      "artists": [
-        {
-          "name": "Die Apokalyptischen Reiter",
-          "url": "https://open.spotify.com/artist/04L8hbMJRQ5vFnLeDgA8xn"
-        }
-      ],
-      "duration_ms": 211095,
-      "name": "Ghostriders in the Sky",
-      "url": "https://open.spotify.com/track/3D9X47VTRPVT6aAuK7bPvf"
-    },
-    {
-      "added_at": "2022-07-13 14:03:23",
-      "album": {
         "name": "Hello Master",
         "url": "https://open.spotify.com/album/7xKeRnOx2c7Ul0rkQcEzD2"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 185800,
       "name": "Lay Down",
       "url": "https://open.spotify.com/track/4ltXPf327ewFdmTPp5Skow"
+    },
+    {
+      "added_at": "2022-07-13 14:03:23",
+      "album": {
+        "name": "Friede sei mit Dir",
+        "url": "https://open.spotify.com/album/235X3eQimRVyGnP71WBT5a"
+      },
+      "artists": [
+        {
+          "name": "Die Apokalyptischen Reiter",
+          "url": "https://open.spotify.com/artist/04L8hbMJRQ5vFnLeDgA8xn"
+        }
+      ],
+      "duration_ms": 211095,
+      "name": "Ghostriders in the Sky",
+      "url": "https://open.spotify.com/track/3D9X47VTRPVT6aAuK7bPvf"
     },
     {
       "added_at": "2022-07-13 14:03:23",

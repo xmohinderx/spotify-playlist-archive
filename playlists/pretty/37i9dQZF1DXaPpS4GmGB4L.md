@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPpS4GmGB4L.md) - [plain]
 
 > Grab your dancing shoes and strut your stuff with these upbeat blues numbers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,952 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,002 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPpS4GmGB4L.md) - [plain]
 | 2 | [Mannish Boy](https://open.spotify.com/track/58PSYdY0GFg0LFb2PxYk4T) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [King Of The Electric Blues](https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ) | 5:21 |
 | 3 | [Hound Dog](https://open.spotify.com/track/5Oc0vLGWdEWeCqIU8zyELt) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Ball n' Chain](https://open.spotify.com/album/6U60FpmscwzTJjc9gmZcKl) | 3:01 |
 | 4 | [For the Love of Money](https://open.spotify.com/track/5jH6P7e6RUGZnFGTeq3pUe) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Dropout Boogie](https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk) | 3:31 |
-| 5 | [Bo Diddley](https://open.spotify.com/track/2R7uUQ0Dehu80gsOcydQC9) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq) | [Bo Diddley](https://open.spotify.com/album/1cbtDEwxCjMhglb49OgNBR) | 2:29 |
-| 6 | [Why I Sing The Blues](https://open.spotify.com/track/2bIfM0ZOF4gxK1BeqH3Djm) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Live And Well](https://open.spotify.com/album/7jvyHnOBFvdGtskk6QmlEi) | 8:37 |
+| 5 | [Why I Sing The Blues](https://open.spotify.com/track/2bIfM0ZOF4gxK1BeqH3Djm) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Live And Well](https://open.spotify.com/album/7jvyHnOBFvdGtskk6QmlEi) | 8:37 |
+| 6 | [Bo Diddley](https://open.spotify.com/track/2R7uUQ0Dehu80gsOcydQC9) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq) | [Bo Diddley](https://open.spotify.com/album/1cbtDEwxCjMhglb49OgNBR) | 2:29 |
 | 7 | [Move It On Over](https://open.spotify.com/track/5iaBfR3xQnausmGgulSoJE) | [George Thorogood & The Destroyers](https://open.spotify.com/artist/4n31svBA9GGIYxGxgrQaRK) | [Essential Recordings: One Bourbon, One Scotch, One Beer](https://open.spotify.com/album/0LkSSubbJHoVeDNh7GEkLi) | 4:20 |
 | 8 | [I'm Tore Down](https://open.spotify.com/track/2Qj1FilGsXITZbFVmVeoLy) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [Getting Ready..\. \(World\)](https://open.spotify.com/album/2bNjljctm6ynfp9Xzdy7RI) | 4:13 |
 | 9 | [Killing Floor](https://open.spotify.com/track/1a8vVeidOsauNu6rQmHBRS) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Real Folk Blues](https://open.spotify.com/album/02H7GlBPL5ur7WBXHna8W0) | 2:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPpS4GmGB4L.md) - [plain]
 | 49 | [Take It Back](https://open.spotify.com/track/0EBCSoTMmj0Gf0aOkZ6Hx1) | [Dion](https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Take It Back](https://open.spotify.com/album/0gM5G6j0lWaxk1GOv0nfbL) | 5:35 |
 | 50 | [Georgia Women](https://open.spotify.com/track/6iXthXEPC9OJi9UkOZSN2g) | [Hank Williams, Jr.](https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb) | [Georgia Women](https://open.spotify.com/album/1Ju9SXFdTM6uvkjTdiQNAS) | 4:05 |
 
-Snapshot ID: `MTY2MzAwMDcyOSwwMDAwMDAwMGRhNmMxZGNjOWMwMTlhMmRlZDg4ZDQxMTE2ZTE5MWIy`
+Snapshot ID: `MTY2MzAwMDcyOSwwMDAwMDAwMDdkODEwZDBjZmNmY2UwNTA2YmU4NTJlNGQxODU4YWUy`

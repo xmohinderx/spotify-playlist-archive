@@ -4,7 +4,7 @@
 
 > Essential songs from the late '90s, early 2000s underground hip\-hop scene\. Cover: J Dilla
 
-120 songs - 8 hr 4 min - [published](https://open.spotify.com/playlist/14eAdAezP3MLdGe4QegXpf)
+121 songs - 8 hr 7 min - [published](https://open.spotify.com/playlist/14eAdAezP3MLdGe4QegXpf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Iron Galaxy](https://open.spotify.com/track/4NKdG9lTVjK8R9HfZQkTmk) | [Cannibal Ox](https://open.spotify.com/artist/3FjTqZ6SZYSYQMzY03O4RG) | [The Cold Vein \(Deluxe Edition\)](https://open.spotify.com/album/4iyCxURICjYcIERJt85C5W) | 5:56 | 2022-02-08 | 2022-07-29 |
 | [Just Call My Name](https://open.spotify.com/track/5NRWFS53PZeS2tpcBvx4lH) | [Edo\. G](https://open.spotify.com/artist/2Gqm7yhAbk4RYHefVHFMPL), [Pete Rock](https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2), [Jaysa](https://open.spotify.com/artist/04twvwjxYWB0moBWzKoynL) | [My Own Worst Enemy](https://open.spotify.com/album/5mjIKcythMEs1RyjgxbPIr) | 4:56 | 2022-02-08 | 2022-07-29 |
 | [Just Don't Give A Fuck](https://open.spotify.com/track/2MEvYNn2tRvFDAucAtAKVq) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [The Slim Shady LP](https://open.spotify.com/album/0vE6mttRTBXRe9rKghyr1l) | 4:02 | 2020-09-25 |  |
-| [Karma](https://open.spotify.com/track/7FyuOzN1V1Whhyh46tPiWZ) | [Mood](https://open.spotify.com/artist/2u2XHKuu3IWZvTvzXiciqu) | [Doom](https://open.spotify.com/album/7hOjTIuKBT7tP9XR0nGYCy) | 3:18 | 2020-09-25 |  |
+| [Karma](https://open.spotify.com/track/7FyuOzN1V1Whhyh46tPiWZ) | [Mood](https://open.spotify.com/artist/2u2XHKuu3IWZvTvzXiciqu) | [Doom](https://open.spotify.com/album/7hOjTIuKBT7tP9XR0nGYCy) | 3:18 | 2020-09-25 | 2022-09-21 |
 | [L.A.](https://open.spotify.com/track/0JjgNoZJ2l49O2ztVRnSNt) | [Murs](https://open.spotify.com/artist/2dWF6m2ksP9GN75fufFp16) | [Murray's Revenge](https://open.spotify.com/album/3KemAqTdgRAp1ZKInbgxyq) | 2:49 | 2022-02-08 | 2022-07-28 |
 | [Light It Up](https://open.spotify.com/track/2VnSbFSjK3c0fZIUH7SJej) | [Little Brother](https://open.spotify.com/artist/0s9MrSopEoAn8JqwBipgdO) | [Whatever You Say/Light It Up](https://open.spotify.com/album/6JKktb5GjcSe56mKh7XyOi) | 3:59 | 2021-03-26 | 2022-02-09 |
 | [Little Brother](https://open.spotify.com/track/5WHsa2d0VhV4Dog4vhIYUH) | [Black Star](https://open.spotify.com/artist/67ei8ib6PLT1w3OkhIb4fB) | [The Hurricane \(Music From And Inspired By The Motion Picture\)](https://open.spotify.com/album/5ozerhrq5BPSXI3xwl9lGs) | 4:01 | 2020-09-25 | 2022-02-09 |
@@ -107,6 +107,7 @@
 | [The Way You Do It](https://open.spotify.com/track/0G3uLnfuwt3PLxw6QgDIZr) | [Little Brother](https://open.spotify.com/artist/0s9MrSopEoAn8JqwBipgdO) | [The Way You Do It/The Get Up](https://open.spotify.com/album/1FoizIaKBYPv4c0RbKf7mm) | 3:56 | 2020-09-25 | 2022-02-09 |
 | [Thelonious](https://open.spotify.com/track/5Swsw4ceP3CJeXsTV9t3Pv) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa), [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [Fan\-Tas\-Tic, Vol\. 2](https://open.spotify.com/album/22IhsI5JpldSrE7vhidAja) | 4:29 | 2022-02-08 | 2022-07-29 |
 | [They Forced My Hand](https://open.spotify.com/track/7gaZzopbjGHF2GyWSYdymx) | [Cormega](https://open.spotify.com/artist/4vQLu6vYK0hp8k0fsAzsU8), [Tragedy Khadafi](https://open.spotify.com/artist/48AAcsCOmZzOSj3RW8Qtpc) | [The Realness](https://open.spotify.com/album/0gPqL31M3Bkpgue4yTpFer) | 4:01 | 2020-09-25 | 2022-07-27 |
+| [Thick](https://open.spotify.com/track/3UB7VJpumOOpJ0gKfq7Hgk) | [D.I.T.C.](https://open.spotify.com/artist/6fF9HxdiSPGCXar8svBeHS), [A.G.](https://open.spotify.com/artist/4thsoee1SA3GbbPofv6tZE), [Big L](https://open.spotify.com/artist/30fiiwr2EeZp1tAhzYCmyM), [O.C.](https://open.spotify.com/artist/5XI6qfoZSiEYtmItjfEX1Q) | [D.I.T.C.](https://open.spotify.com/album/1LtskoW9DkoA4xgST9LXJW) | 3:42 | 2020-09-25 |  |
 | [Thick](https://open.spotify.com/track/7ImXlOjKprb3ADIeSTqHmg) | [D.I.T.C.](https://open.spotify.com/artist/6fF9HxdiSPGCXar8svBeHS), [A.G.](https://open.spotify.com/artist/4thsoee1SA3GbbPofv6tZE), [Big L](https://open.spotify.com/artist/30fiiwr2EeZp1tAhzYCmyM), [O.C.](https://open.spotify.com/artist/5XI6qfoZSiEYtmItjfEX1Q) | [D.I.T.C.](https://open.spotify.com/album/7Kw28Qg3OeGQiGso0qyONJ) | 3:42 | 2020-09-25 | 2022-07-29 |
 | [Thieves In The Night](https://open.spotify.com/track/7tx1TUJrT6qxXFXAELqbev) | [Black Star](https://open.spotify.com/artist/67ei8ib6PLT1w3OkhIb4fB) | [Mos Def & Talib Kweli Are Black Star](https://open.spotify.com/album/6GRzmk9UGL7odxprOPop1Q) | 5:11 | 2022-02-08 |  |
 | [Travellin' Man \(Remastered\)](https://open.spotify.com/track/5BAwVGuohBVscZWyoLCkkG) | [dj honda](https://open.spotify.com/artist/7mrvU3OShTgthJV80o2day), [Mos Def](https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO) | [Travellin' Man \(Remastered\)](https://open.spotify.com/album/4HSWIy1jgNMLKxZkmiAP34) | 5:18 | 2022-02-08 |  |

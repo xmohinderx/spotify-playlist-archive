@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXasneILDRM7B.md) - [plain]
 
 > Please stand for your personal anthems\. Cover: Paramore
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,007,384 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,007,984 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXasneILDRM7B.md) - [plain]
 | 70 | [Girl's Not Grey](https://open.spotify.com/track/3fttmSWGThBQTNkuHMoCTN) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Sing The Sorrow](https://open.spotify.com/album/1eIzVBHA5NvX0wo2nLACew) | 3:10 |
 | 71 | [Everything Is Alright](https://open.spotify.com/track/6xyiHZgrmXw7sMyYXbXjPV) | [Motion City Soundtrack](https://open.spotify.com/artist/19zqV9DV3txjMUjHvltl2D) | [Commit This To Memory](https://open.spotify.com/album/14cwHpqeVuYbwQxmY5tgQT) | 3:27 |
 | 72 | [Girls & Boys](https://open.spotify.com/track/65mxB9IWpmVo4qUjdGSxRB) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [The Young and The Hopeless](https://open.spotify.com/album/5CTygC3aONv7l0klY4k3hc) | 3:03 |
-| 73 | [Grand Theft Autumn / Where Is Your Boy](https://open.spotify.com/track/3JOdLCIBzQYwHIvpN3isVf) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Take This to Your Grave](https://open.spotify.com/album/7l4nnHG7upOnUM4WvAjToY) | 3:11 |
-| 74 | [Hands Down](https://open.spotify.com/track/6yVSp9H2STyLeOs7pjy2w4) | [Dashboard Confessional](https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY) | [A Mark, A Mission, A Brand, A Scar](https://open.spotify.com/album/3I4DmkyMBifLVwrCT3eQ82) | 3:06 |
+| 73 | [Hands Down](https://open.spotify.com/track/6yVSp9H2STyLeOs7pjy2w4) | [Dashboard Confessional](https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY) | [A Mark, A Mission, A Brand, A Scar](https://open.spotify.com/album/3I4DmkyMBifLVwrCT3eQ82) | 3:06 |
+| 74 | [Grand Theft Autumn / Where Is Your Boy](https://open.spotify.com/track/3JOdLCIBzQYwHIvpN3isVf) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Take This to Your Grave](https://open.spotify.com/album/7l4nnHG7upOnUM4WvAjToY) | 3:11 |
 | 75 | [acting like that \(feat\. Machine Gun Kelly\)](https://open.spotify.com/track/1Pv3rDsjRl98xEQC56p8A0) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [weird!](https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP) | 3:11 |
 | 76 | [High School Never Ends \- Main Version \- Explicit](https://open.spotify.com/track/1bhjMY5O0ZjB41OHcdRH0a) | [Bowling For Soup](https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb) | [The Great Burrito Extortion Case](https://open.spotify.com/album/6vZyMIVJgA9c8MIkDtlHd2) | 3:29 |
 | 77 | [The Great Escape](https://open.spotify.com/track/6GIrIt2M39wEGwjCQjGChX) | [Boys Like Girls](https://open.spotify.com/artist/0vWCyXMrrvMlCcepuOJaGI) | [Boys Like Girls](https://open.spotify.com/album/4WqgusSAgXkrjbXzqdBY68) | 3:26 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXasneILDRM7B.md) - [plain]
 | 95 | [The Afterglow](https://open.spotify.com/track/4VKN3lBovrmKK7nWP4xknO) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Dead Reflection](https://open.spotify.com/album/7EAVX7J3DRvhbMiKjgtgvB) | 3:08 |
 | 96 | [There Is](https://open.spotify.com/track/3oQggzwBp8hqUwgoUcb3wJ) | [Box Car Racer](https://open.spotify.com/artist/0DK7FqcaL3ks9TfFn9y1sD) | [Box Car Racer](https://open.spotify.com/album/3gODo8aZ2dTVIaOr9SqeRE) | 3:16 |
 | 97 | [Welcome to My Life](https://open.spotify.com/track/714Lw0m2SmCEhKSPw0Dn8J) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [Still Not Getting Any](https://open.spotify.com/album/7l3v1MPa9GlbxbVJmaVrVd) | 3:26 |
-| 98 | [Kiss Me](https://open.spotify.com/track/3Tm90zTQXKVR2q0KBXgC46) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [From The Screen To Your Stereo, Pt\. II](https://open.spotify.com/album/1LLHUxDRE2ocsNoPUaohzp) | 2:55 |
-| 99 | [Black Butterflies and Déjà Vu](https://open.spotify.com/track/6QZ8h3RqIgTRTo3hfaqryx) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0) | [Lovely Little Lonely](https://open.spotify.com/album/2jStuYeaRty1cwxjoxfo9K) | 3:23 |
+| 98 | [Black Butterflies and Déjà Vu](https://open.spotify.com/track/6QZ8h3RqIgTRTo3hfaqryx) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0) | [Lovely Little Lonely](https://open.spotify.com/album/2jStuYeaRty1cwxjoxfo9K) | 3:23 |
+| 99 | [Kiss Me](https://open.spotify.com/track/3Tm90zTQXKVR2q0KBXgC46) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [From The Screen To Your Stereo, Pt\. II](https://open.spotify.com/album/1LLHUxDRE2ocsNoPUaohzp) | 2:55 |
 | 100 | [Underdog](https://open.spotify.com/track/4GMCZUi6cVQJ5wPWwJ36rW) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [Hold Me Down](https://open.spotify.com/album/5FakgYrhpMRNbQ9OaAP9YU) | 2:23 |
 
-Snapshot ID: `MTY1NTM5NDU0MSwwMDAwMDAwMGFhZDMzMWU1NzUyMTk2YzYxZGM4ZDYyOWY4MWE3MGYw`
+Snapshot ID: `MTY1NTM5NDU0MSwwMDAwMDAwMDFkZmU3ZTNhNWE5YmM2YmQzOTAxMmU3NzZjZmRkNmM2`

@@ -1,12 +1,12 @@
 {
   "description": "Start the day with a morning run together with these easy and joyful tracks.",
-  "num_followers": 215185,
+  "num_followers": 215236,
   "original_name": "Morning Run ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ4ODc0MCwwMDAwMDAwMGNjOWRhYTM3NmNkOTIxM2MyZmFmMGMyNDE0NDE2NTAz",
+  "snapshot_id": "MTY2MTQ4ODc0MCwwMDAwMDAwMDA0OGVjZDhkMTg4NGQ5MWVjODExNGI4NzBhNjk4MjU1",
   "tracks": [
     {
       "added_at": "2022-08-26 04:39:00",
@@ -515,6 +515,22 @@
     {
       "added_at": "2022-08-26 04:39:00",
       "album": {
+        "name": "All This Bad Blood",
+        "url": "https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 214147,
+      "name": "Pompeii",
+      "url": "https://open.spotify.com/track/4Ub8UsjWuewQrPhuepfVpd"
+    },
+    {
+      "added_at": "2022-08-26 04:39:00",
+      "album": {
         "name": "Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy)",
         "url": "https://open.spotify.com/album/0xbuJLlb5afBcmCpdOaszR"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 163804,
       "name": "Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy)",
       "url": "https://open.spotify.com/track/7Feaw9WAEREY0DUOSXJLOM"
-    },
-    {
-      "added_at": "2022-08-26 04:39:00",
-      "album": {
-        "name": "All This Bad Blood",
-        "url": "https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 214147,
-      "name": "Pompeii",
-      "url": "https://open.spotify.com/track/4Ub8UsjWuewQrPhuepfVpd"
     },
     {
       "added_at": "2022-08-26 04:39:00",

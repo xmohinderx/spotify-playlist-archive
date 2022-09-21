@@ -4,7 +4,7 @@
 
 > أجمد المهرجانات في مصر!  <br/> الغلاف: عصام صاصا
 
-90 songs - 5 hr 44 min - [published](https://open.spotify.com/playlist/6wRFf7uC9LQg9LaJkbdbju)
+91 songs - 5 hr 46 min - [published](https://open.spotify.com/playlist/6wRFf7uC9LQg9LaJkbdbju)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Haba \- From "El Ens We El Nems"](https://open.spotify.com/track/0n1LXkgsl43HZiEhWcecrU) | [Oka](https://open.spotify.com/artist/0jSsCsmHAH0cKT5iBwUoX7), [Mohamed Henedy](https://open.spotify.com/artist/4ZSvWphIYMmGOK87HkP6pd), [Bayoumi Fouad](https://open.spotify.com/artist/3UpvJjbwwaaKl8SxrsMqqF) | [Haba \(From "El Ens We El Nems"\)](https://open.spotify.com/album/4ls5O9WVGuN43XlaD2Ofr3) | 2:09 | 2021-12-16 |  |
 | [Habibty](https://open.spotify.com/track/4gyUv9zQnSbqhA5uqqgZQz) | [Hassan Shakosh](https://open.spotify.com/artist/62IUrFqq28x2SbRdzm9sQt), [Yasmin Raeis](https://open.spotify.com/artist/3BHCg4qPGBjwAQ4RsyofzK) | [Habibty](https://open.spotify.com/album/327BgIzYKfPFrDCabCikQU) | 3:02 | 2021-12-16 |  |
 | [Kol El Nas](https://open.spotify.com/track/6GjW5aqVmn2mIHdMiWn8sR) | [El Sawareekh](https://open.spotify.com/artist/5rNrRYsRVaRJDQhA1PEC6t), [Hassan Abouelrouss](https://open.spotify.com/artist/7xwMn1tewzj0idd87bXpQm) | [Kol El Nas](https://open.spotify.com/album/5G6eYqkydwunUSmbRqk5gv) | 2:55 | 2021-12-16 |  |
+| [Lama Bagy](https://open.spotify.com/track/52APJS24l96Jn7AJHrkSWh) | [Hassan Abouelrouss](https://open.spotify.com/artist/7xwMn1tewzj0idd87bXpQm) | [Lama Bagy](https://open.spotify.com/album/11ub4kmdxgA8bSu7MfRco9) | 1:50 | 2022-09-20 |  |
 | [Salamat Ala Nas Amaloly Ekhwat](https://open.spotify.com/track/4iRzMFqyNbX0xAY9iAtTic) | [Ameen Khattab](https://open.spotify.com/artist/15EdXJSvJSrjOGXsIimK0d), [Za3balawy](https://open.spotify.com/artist/0LNuyfLPfLYwbMvwXXqh1V) | [Salamat Ala Nas Amaloly Ekhwat](https://open.spotify.com/album/1WGEKcC8jwAFoXGANK9DQn) | 4:34 | 2022-07-19 |  |
 | [Salamat Ala Nas Amloly Ekhwat](https://open.spotify.com/track/6ZfkjaM4KONGaRkCLpHKfD) | [Ameen Khattab](https://open.spotify.com/artist/15EdXJSvJSrjOGXsIimK0d) | [Salamat Ala Nas Amloly Ekhwat](https://open.spotify.com/album/3Ou7kxBQqBBdxQHMXLFGgL) | 4:34 | 2021-12-16 | 2022-07-29 |
 | [Tarsh](https://open.spotify.com/track/5iuZ87tYtYAfd4VkuzN4Zl) | [3enba](https://open.spotify.com/artist/4U7K3Xm1CXe5FpBGYUcHUZ), [Ordne](https://open.spotify.com/artist/6eEgtjJ64JAlgjqyBPzkqH) | [Tarsh](https://open.spotify.com/album/30watsIksrxiSzUcTLC1FE) | 2:43 | 2021-12-16 |  |

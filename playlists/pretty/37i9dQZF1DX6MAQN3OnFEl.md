@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MAQN3OnFEl.md) - [plain]
 
 > that's hot
 
-[Spotify](https://open.spotify.com/user/spotify) - 270,450 likes - 100 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,714 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MAQN3OnFEl.md) - [plain]
 | 67 | [Absolutely \(Story of a Girl\) \- Radio Mix](https://open.spotify.com/track/3mNecsYFb6LQg7822DPXCP) | [Nine Days](https://open.spotify.com/artist/306JHpIRGVaQd6OltnOzUO) | [The Madding Crowd](https://open.spotify.com/album/4BcmNEt6VK0KBVsVY8yClD) | 3:09 |
 | 68 | [It's Gonna Be Me](https://open.spotify.com/track/2AW37v0bDyuOzGP3XnmFuA) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [No Strings Attached](https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC) | 3:12 |
 | 69 | [Don't Cha](https://open.spotify.com/track/1gZ7i4qxXkHZb1r6eioaAP) | [The Pussycat Dolls](https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [PCD](https://open.spotify.com/album/5x8e8UcCeOgrOzSnDGuPye) | 4:32 |
-| 70 | [We Like To Party! \(The Vengabus\)](https://open.spotify.com/track/73ljrkSg4A0q3ByU0Cu7mw) | [Vengaboys](https://open.spotify.com/artist/0cwmNvclzPd8mQnoHuIksj) | [The Party Album!](https://open.spotify.com/album/2hy9sLDt7IVAvJRGVdzZnx) | 3:42 |
-| 71 | [Around the World \(La La La La La\) \- Radio Version](https://open.spotify.com/track/7CvOnbFdnIoXMQ4eFCo5lB) | [A Touch Of Class](https://open.spotify.com/artist/5wTdspmxzb8V4ZjvDodpBo), [Peter Könemann](https://open.spotify.com/artist/1SSMgwqlrkQm2Hcu6cZYcm) | [Planet Pop](https://open.spotify.com/album/2kBFECL9a71fNRXbRW5xO3) | 3:34 |
+| 70 | [Around the World \(La La La La La\) \- Radio Version](https://open.spotify.com/track/7CvOnbFdnIoXMQ4eFCo5lB) | [A Touch Of Class](https://open.spotify.com/artist/5wTdspmxzb8V4ZjvDodpBo), [Peter Könemann](https://open.spotify.com/artist/1SSMgwqlrkQm2Hcu6cZYcm) | [Planet Pop](https://open.spotify.com/album/2kBFECL9a71fNRXbRW5xO3) | 3:34 |
+| 71 | [We Like To Party! \(The Vengabus\)](https://open.spotify.com/track/73ljrkSg4A0q3ByU0Cu7mw) | [Vengaboys](https://open.spotify.com/artist/0cwmNvclzPd8mQnoHuIksj) | [The Party Album!](https://open.spotify.com/album/2hy9sLDt7IVAvJRGVdzZnx) | 3:42 |
 | 72 | [Potential Breakup Song](https://open.spotify.com/track/11dxtPJKR4E0wlSr0A0t47) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Insomniatic](https://open.spotify.com/album/4TOOGDpJ9KQ8EM84TC4qj6) | 3:39 |
 | 73 | [Be My Lover](https://open.spotify.com/track/3vSn1frPgFcRXrjWOfhMLl) | [La Bouche](https://open.spotify.com/artist/488v7rQzthLNK22r0UvMie) | [Best Of La Bouche feat\. Melanie Thornton \(feat\. Melanie Thornton\)](https://open.spotify.com/album/18INLUvzq7lcQUrdaqtgIN) | 4:00 |
 | 74 | [Love Don't Cost a Thing](https://open.spotify.com/track/1fgvJXlcZ7uIddMpqsqw0L) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [J.Lo](https://open.spotify.com/album/76QqoE30i9HVwxtxYMkWXT) | 3:41 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MAQN3OnFEl.md) - [plain]
 | 94 | [The Tide Is High \- Radio Mix](https://open.spotify.com/track/5WuVWOngcRkMOx9RRLCvui) | [Atomic Kitten](https://open.spotify.com/artist/6JMHws5haIO6V35YNYDnDw) | [Atomic Kitten](https://open.spotify.com/album/340y6ZpqGxp4xW0203bOPN) | 3:25 |
 | 95 | [Just the Girl](https://open.spotify.com/track/1JURww012QnWAw0zZXi6Aa) | [The Click Five](https://open.spotify.com/artist/01lz5VBfkMFDteSA9pKJuP) | [Greetings From Imrie House \(U.S\. Version\)](https://open.spotify.com/album/7gZilZGYr8M7UwEeYvdAKZ) | 3:54 |
 | 96 | [Money Maker](https://open.spotify.com/track/2JpUkUR0OsOlUUfm6iS8ic) | [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Release Therapy](https://open.spotify.com/album/77u9Ndnhi4raBZfnl22Jzg) | 3:50 |
-| 97 | [Summer Girls](https://open.spotify.com/track/7uYroF9RRrhRJBrigRvB6H) | [LFO](https://open.spotify.com/artist/1FizW0swe8ODtXvEOHXbHX) | [LFO](https://open.spotify.com/album/6DZdRerOCdaQyBLwntH2cX) | 4:17 |
-| 98 | [It's My Life](https://open.spotify.com/track/2fOxxLz9JVe53itq6pfBak) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [The Singles Collection](https://open.spotify.com/album/5fSlrmZPalwAAQDwu6shK2) | 3:45 |
+| 97 | [It's My Life](https://open.spotify.com/track/2fOxxLz9JVe53itq6pfBak) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [The Singles Collection](https://open.spotify.com/album/5fSlrmZPalwAAQDwu6shK2) | 3:45 |
+| 98 | [Summer Girls](https://open.spotify.com/track/7uYroF9RRrhRJBrigRvB6H) | [LFO](https://open.spotify.com/artist/1FizW0swe8ODtXvEOHXbHX) | [LFO](https://open.spotify.com/album/6DZdRerOCdaQyBLwntH2cX) | 4:17 |
 | 99 | [I Just Wanna Love U \(Give It 2 Me\)](https://open.spotify.com/track/0s46SltT4On0Z6kglK1I5c) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [The Dynasty](https://open.spotify.com/album/3VfeeJElCEDeXlDiNZbn3E) | 3:47 |
 | 100 | [\(There's Gotta Be\) More To Life](https://open.spotify.com/track/2x5qF66rFO6DERBMNkQAqn) | [Stacie Orrico](https://open.spotify.com/artist/5QjWgYDeKNP2iPHTdTttnG) | [Stacie Orrico](https://open.spotify.com/album/05bphHAv5bizNSVDeirA9t) | 3:20 |
 
-Snapshot ID: `MTY1ODc5MDQzNCwwMDAwMDAwMDc2MTJlMThmZWZlZjA0YjhhMThhODE5ZDFlMmI4Mjg0`
+Snapshot ID: `MTY1ODc5MDQzNCwwMDAwMDAwMDNiZGViYjE4MjQ1OGQ5ZDYyNGYzZjk5ODNhMzUwN2Iw`

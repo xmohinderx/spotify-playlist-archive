@@ -4,7 +4,7 @@
 
 > All the new music you need to hear right now\. Cover: Joesef
 
-366 songs - 19 hr 43 min - [published](https://open.spotify.com/playlist/4Q4OtTCCZtc7DTYLeNoedL)
+368 songs - 19 hr 50 min - [published](https://open.spotify.com/playlist/4Q4OtTCCZtc7DTYLeNoedL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Allstars MIC \(feat\. DnB Allstars\)](https://open.spotify.com/track/0FeFdREOOdb8ihdWXn5RZH) | [Coco](https://open.spotify.com/artist/7q33wxvdJ95u6w3fY2q5ai), [Alcemist](https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0), [DnB Allstars](https://open.spotify.com/artist/6BZteNwG1mxgEFJvBaAGLx) | [Allstars MIC \(feat\. DnB Allstars\)](https://open.spotify.com/album/5HTD3yCkiyvuMKzSc5vOL3) | 2:15 | 2022-06-02 | 2022-06-22 |
 | [Alright](https://open.spotify.com/track/57BvpyURy7xPYKgbPRaynf) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Alright](https://open.spotify.com/album/2rUWCf2wXA1PMK3NUckp2p) | 4:24 | 2022-07-14 | 2022-09-02 |
 | [Always Be There](https://open.spotify.com/track/1PKqiewc0OyZVYxFz5ugbH) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Louisa Johnson](https://open.spotify.com/artist/5IHqlcCbQkyhWl0KmIwgeq) | [Always Be There](https://open.spotify.com/album/5AjjKzTDARZEg5gPPJx597) | 3:18 | 2022-09-01 |  |
+| [Amazing](https://open.spotify.com/track/3JtRYW6aYGDVDIQvdGrZWt) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76), [Dunw3ll](https://open.spotify.com/artist/0GXid8LlvA2twALSqLKYQ0), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Amazing](https://open.spotify.com/album/73nIh6lr0BYYVG6t7asy8N) | 2:37 | 2022-09-20 |  |
 | [American Boy](https://open.spotify.com/track/2t8Z7dscRZ8kvYgTN47zpm) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [American Boy](https://open.spotify.com/album/765iHYZJH7hNXETPzoraIY) | 3:41 | 2022-08-04 | 2022-09-16 |
 | [Angels & Queens](https://open.spotify.com/track/4KpqdNIQw7S6DlZz8RjBzO) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Angels & Queens](https://open.spotify.com/album/1KIvBCWJuLhFYdXPvE8ExK) | 3:19 | 2022-09-08 |  |
 | [Another Sketch](https://open.spotify.com/track/2IVmt96IvSP10bMHCIsmRs) | [Lil Silva](https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn) | [Another Sketch](https://open.spotify.com/album/3jm7drQQWex8Gu3cOdjkR9) | 3:50 | 2022-05-26 | 2022-06-22 |
@@ -69,7 +70,7 @@
 | [BREAK MY SOUL](https://open.spotify.com/track/2KukL7UlQ8TdvpaA7bY3ZJ) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BREAK MY SOUL](https://open.spotify.com/album/5JgCaA43ECaGeqbPEo6WUP) | 4:38 | 2022-06-21 | 2022-08-12 |
 | [Brexit at Tiffany's](https://open.spotify.com/track/49BeIQzb05PWsS2YfSt87Q) | [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi), [Jazz Morley](https://open.spotify.com/artist/3oRBiqxwxW8BYQdWYtktZo) | [Brexit at Tiffany's](https://open.spotify.com/album/2vxRVqkq60c3ltJkt0JXkF) | 2:43 | 2022-08-11 | 2022-09-02 |
 | [Broken](https://open.spotify.com/track/0obfu9ZrPGt59RnD8Wiai2) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [Freakout/Release](https://open.spotify.com/album/1GWWErA3u49ANQoGygvziN) | 3:24 | 2022-08-18 | 2022-09-02 |
-| [Burning In My Arms \- Edit](https://open.spotify.com/track/3Z9qdV9SOWHuTxNbyOwXIa) | [BURNS](https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7) | [Burning In My Arms \(Edit\)](https://open.spotify.com/album/6WdHT5YZeHkKkCUZe5ka1B) | 3:31 | 2022-08-26 |  |
+| [Burning In My Arms \- Edit](https://open.spotify.com/track/3Z9qdV9SOWHuTxNbyOwXIa) | [BURNS](https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7) | [Burning In My Arms \(Edit\)](https://open.spotify.com/album/6WdHT5YZeHkKkCUZe5ka1B) | 3:31 | 2022-08-26 | 2022-09-21 |
 | [Cake](https://open.spotify.com/track/5vwODgisxnSPmnUoDKVjW4) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Juno \(Deluxe\)](https://open.spotify.com/album/7dMtse1hCWqbfFGMLW2clA) | 2:47 | 2022-06-02 | 2022-06-25 |
 | [Call Me](https://open.spotify.com/track/2Mor2fdr6NYCHYetzXpnbx) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Call Me](https://open.spotify.com/album/3ReMdcPVTGwD2V4EwIZ4tn) | 3:28 | 2022-06-16 | 2022-07-08 |
 | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp) | 3:59 | 2022-08-26 |  |
@@ -213,6 +214,7 @@
 | [Jungle](https://open.spotify.com/track/31B7wLv4yvtjDoTTmbnxeE) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Jungle](https://open.spotify.com/album/3iDLGLmecmdkmdxYmuol5d) | 3:18 | 2022-06-30 | 2022-08-12 |
 | [Just Coz](https://open.spotify.com/track/1vThiuxP3lAHp85Q9qO8E5) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF), [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip) | [Just Coz](https://open.spotify.com/album/1LZzgEgmuOh5fhpCb2oUWy) | 3:16 | 2022-05-26 | 2022-06-10 |
 | [Kerosene](https://open.spotify.com/track/1uPRLmmA2YGNItLRp3BgFO) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Kerosene](https://open.spotify.com/album/6ZZJgVir4fSS9inF2IFoU9) | 2:29 | 2022-09-06 |  |
+| [KILL DEM](https://open.spotify.com/track/5CE0k1VmTXgCtaa5L288LP) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [KILL DEM](https://open.spotify.com/album/71iqkeqFNSiCgum1gPfeZo) | 3:43 | 2022-09-20 |  |
 | [Kill For Your Love](https://open.spotify.com/track/4eaynYNbGdL9F90LGLcUsU) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Kill For Your Love](https://open.spotify.com/album/3EEpn39R3tZZnBiaWJFyfQ) | 3:12 | 2022-09-08 |  |
 | [killer](https://open.spotify.com/track/4QUzLCXrpHO4c6dGyZlpO2) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [killer](https://open.spotify.com/album/4BYCmmwbSU2bxcQEEI6RBU) | 2:56 | 2022-07-28 | 2022-08-12 |
 | [killer](https://open.spotify.com/track/6HP0AhtFLr712JsIjIH345) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [killer](https://open.spotify.com/album/15mtNJx6Cba9G1A9MXMIXp) | 2:56 | 2022-06-16 | 2022-07-29 |

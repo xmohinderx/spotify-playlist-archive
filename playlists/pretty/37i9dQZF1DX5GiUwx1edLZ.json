@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"https://open.spotify.com/genre/edm_dance\">Dance music</a> unplugged.",
-  "num_followers": 272319,
+  "num_followers": 272341,
   "original_name": "mint Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjA5MTI2MCwwMDAwMDAwMGM3OTNiNjUxZjk5ODJhZGU2MTA5NmQ0ZDIxNjE5N2Zi",
+  "snapshot_id": "MTY2MjA5MTI2MCwwMDAwMDAwMGUyNGEzOTM4YTM5MTJmYzljNGU4YjdmMGI2Yzk2MDI4",
   "tracks": [
     {
       "added_at": "2022-08-26 04:01:00",
@@ -211,26 +211,6 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Let Me Love You (Andrew Watt Acoustic Remix)",
-        "url": "https://open.spotify.com/album/7AXMTCR9Ufyj64Q02H8xFa"
-      },
-      "artists": [
-        {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 206666,
-      "name": "Let Me Love You - Andrew Watt Acoustic Remix",
-      "url": "https://open.spotify.com/track/1LcxOZGMdAuScNbIN2Fvcq"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
         "name": "Acoustic Collection (Vol. 1)",
         "url": "https://open.spotify.com/album/3Gu0M7EGjPvdEP1vNlEQMk"
       },
@@ -247,6 +227,26 @@
       "duration_ms": 184815,
       "name": "Take Me Home (feat. Bebe Rexha) - Acoustic",
       "url": "https://open.spotify.com/track/3j9AY9emI5H45iMxTpT4TJ"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "Let Me Love You (Andrew Watt Acoustic Remix)",
+        "url": "https://open.spotify.com/album/7AXMTCR9Ufyj64Q02H8xFa"
+      },
+      "artists": [
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 206666,
+      "name": "Let Me Love You - Andrew Watt Acoustic Remix",
+      "url": "https://open.spotify.com/track/1LcxOZGMdAuScNbIN2Fvcq"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1271,6 +1271,26 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
+        "name": "How You Love Me (Acoustic Version)",
+        "url": "https://open.spotify.com/album/2HwW0kegqZTxmZw6COLgiN"
+      },
+      "artists": [
+        {
+          "name": "3LAU",
+          "url": "https://open.spotify.com/artist/4YLQaW1UU3mrVetC8gNkg5"
+        },
+        {
+          "name": "Bright Lights",
+          "url": "https://open.spotify.com/artist/2AoeqcUs8DySgZRJ9yV4Ou"
+        }
+      ],
+      "duration_ms": 171101,
+      "name": "How You Love Me - Acoustic Version",
+      "url": "https://open.spotify.com/track/4UKlAy4rj6kCXZ076PyHyd"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
         "name": "Brand New Machine",
         "url": "https://open.spotify.com/album/5gWfcBhMIrPxudHnnMXSdX"
       },
@@ -1291,26 +1311,6 @@
       "duration_ms": 238640,
       "name": "What Is Right",
       "url": "https://open.spotify.com/track/0kmnAeHOhccNv6cCRj1wks"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
-        "name": "How You Love Me (Acoustic Version)",
-        "url": "https://open.spotify.com/album/2HwW0kegqZTxmZw6COLgiN"
-      },
-      "artists": [
-        {
-          "name": "3LAU",
-          "url": "https://open.spotify.com/artist/4YLQaW1UU3mrVetC8gNkg5"
-        },
-        {
-          "name": "Bright Lights",
-          "url": "https://open.spotify.com/artist/2AoeqcUs8DySgZRJ9yV4Ou"
-        }
-      ],
-      "duration_ms": 171101,
-      "name": "How You Love Me - Acoustic Version",
-      "url": "https://open.spotify.com/track/4UKlAy4rj6kCXZ076PyHyd"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1379,26 +1379,6 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Best Is Yet To Come (with Kyle Reynolds) [Acoustic]",
-        "url": "https://open.spotify.com/album/3pvNPVnQSVUgNzUs96A0pa"
-      },
-      "artists": [
-        {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
-        },
-        {
-          "name": "Kyle Reynolds",
-          "url": "https://open.spotify.com/artist/5yhR0OqJhkbQ2y76XUte3R"
-        }
-      ],
-      "duration_ms": 205159,
-      "name": "Best Is Yet To Come (with Kyle Reynolds) - Acoustic",
-      "url": "https://open.spotify.com/track/300r68E8TGRV1xoLatMgek"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
         "name": "21 Reasons (feat. Ella Henderson) [Acoustic]",
         "url": "https://open.spotify.com/album/0lfTLJlqbgLRaJcYT5zwGJ"
       },
@@ -1415,6 +1395,26 @@
       "duration_ms": 167724,
       "name": "21 Reasons (feat. Ella Henderson) - Acoustic",
       "url": "https://open.spotify.com/track/0oubikePN5zgE3sFGLLWkP"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "Best Is Yet To Come (with Kyle Reynolds) [Acoustic]",
+        "url": "https://open.spotify.com/album/3pvNPVnQSVUgNzUs96A0pa"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "Kyle Reynolds",
+          "url": "https://open.spotify.com/artist/5yhR0OqJhkbQ2y76XUte3R"
+        }
+      ],
+      "duration_ms": 205159,
+      "name": "Best Is Yet To Come (with Kyle Reynolds) - Acoustic",
+      "url": "https://open.spotify.com/track/300r68E8TGRV1xoLatMgek"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
+        "name": "Acoustic Collection (Vol. 1)",
+        "url": "https://open.spotify.com/album/3Gu0M7EGjPvdEP1vNlEQMk"
+      },
+      "artists": [
+        {
+          "name": "Cash Cash",
+          "url": "https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF"
+        }
+      ],
+      "duration_ms": 199080,
+      "name": "Surrender - Acoustic",
+      "url": "https://open.spotify.com/track/5Q92iqDv61uNqMLABwdqWW"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
         "name": "Recognise (Remixes)",
         "url": "https://open.spotify.com/album/5Qc4mm0abrHEdpyL21vIp8"
       },
@@ -1515,22 +1531,6 @@
       "duration_ms": 169466,
       "name": "Recognise - Acoustic Version",
       "url": "https://open.spotify.com/track/1xgAlkJVfaLJmN3Fv5yM6H"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
-        "name": "Acoustic Collection (Vol. 1)",
-        "url": "https://open.spotify.com/album/3Gu0M7EGjPvdEP1vNlEQMk"
-      },
-      "artists": [
-        {
-          "name": "Cash Cash",
-          "url": "https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF"
-        }
-      ],
-      "duration_ms": 199080,
-      "name": "Surrender - Acoustic",
-      "url": "https://open.spotify.com/track/5Q92iqDv61uNqMLABwdqWW"
     },
     {
       "added_at": "2022-08-26 04:01:00",

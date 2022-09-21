@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xnkAwJX7tn.md) - [plain]
 
 > The biggest party hits of the 1980s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,914 likes - 150 songs - 10 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,243 likes - 150 songs - 10 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xnkAwJX7tn.md) - [plain]
 | 50 | [Tarzan Boy](https://open.spotify.com/track/273uCXd7NPrInaiNqtkOrA) | [Baltimora](https://open.spotify.com/artist/6czfQ8MjHVmvJKA4LAnviG) | [Living In The Background](https://open.spotify.com/album/2AclHzFubT46QrjWFSfkk9) | 6:18 |
 | 51 | [Super Trouper](https://open.spotify.com/track/0J2p4KYdr6Mg4ET6JPlbe1) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Super Trouper](https://open.spotify.com/album/3ZdkT5buYFi1WQaB0XNNtf) | 4:12 |
 | 52 | [Beds Are Burning \- Remastered](https://open.spotify.com/track/1CtAzw53AIXKjAemxy4b1j) | [Midnight Oil](https://open.spotify.com/artist/72KyoXzp0NOQij6OcmZUxk) | [Diesel And Dust](https://open.spotify.com/album/243XzHQegX82bPnUVQ0SPV) | 4:15 |
-| 53 | [Got My Mind Set On You \- Remastered 2004](https://open.spotify.com/track/3OeUlriM0EZHdWleJtjoVr) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Cloud Nine](https://open.spotify.com/album/1nbq8GgaVdINI3PulXvPUq) | 3:54 |
-| 54 | [Bad \- 2012 Remaster](https://open.spotify.com/track/5lWFrW5T3JtxVCLDb7etPu) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Bad 25th Anniversary](https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm) | 4:07 |
+| 53 | [Bad \- 2012 Remaster](https://open.spotify.com/track/5lWFrW5T3JtxVCLDb7etPu) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Bad 25th Anniversary](https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm) | 4:07 |
+| 54 | [Got My Mind Set On You \- Remastered 2004](https://open.spotify.com/track/3OeUlriM0EZHdWleJtjoVr) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Cloud Nine](https://open.spotify.com/album/1nbq8GgaVdINI3PulXvPUq) | 3:54 |
 | 55 | [Love Shack](https://open.spotify.com/track/4W4wYHtsrgDiivRASVOINL) | [The B\-52's](https://open.spotify.com/artist/3gdbcIdNypBsYNu3iiCjtN) | [Cosmic Thing](https://open.spotify.com/album/5BAzAODqIwttjj7wxmlNMS) | 5:20 |
 | 56 | [If I Could Turn Back Time](https://open.spotify.com/track/6mYrhCAGWzTdF8QnKuchXM) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Heart Of Stone](https://open.spotify.com/album/3srdrIrP3V7LTmRujRfLhK) | 3:59 |
 | 57 | [Glory Days](https://open.spotify.com/track/2Y90nL1ohB4sgYELDs7uNx) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born In The U.S.A.](https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O) | 4:14 |
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xnkAwJX7tn.md) - [plain]
 | 73 | [Who Can It Be Now?](https://open.spotify.com/track/5rfJ2Bq2PEL8yBjZLzouEu) | [Men At Work](https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux) | [Business As Usual](https://open.spotify.com/album/4HDJMKkwAMVFewqfZcmf84) | 3:21 |
 | 74 | [It's Still Rock and Roll to Me](https://open.spotify.com/track/64UioB4Nmwgn2f4cbIpAkl) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [Glass Houses](https://open.spotify.com/album/5sztejERqpktXEdemlUvU5) | 2:56 |
 | 75 | [Enola Gay \- Remastered](https://open.spotify.com/track/3NYCaxkggl0Hh8vQptSUvV) | [Orchestral Manoeuvres In The Dark](https://open.spotify.com/artist/7wJ9NwdRWtN92NunmXuwBk) | [Organisation](https://open.spotify.com/album/3bouQtY9H1DP39yxqHuFf8) | 3:33 |
-| 76 | [Lessons In Love](https://open.spotify.com/track/3EGI5qmVmGlfgy9BmNb1R8) | [Level 42](https://open.spotify.com/artist/0L9xkvBPcEp1nrhDrodxc5) | [Running In The Family](https://open.spotify.com/album/1yAkrIyJL8D55sWTjS6U1n) | 4:06 |
-| 77 | [Moonlight Shadow](https://open.spotify.com/track/4WpmwEdc4RBos8W8icSSxW) | [Mike Oldfield](https://open.spotify.com/artist/562Od3CffWedyz2BbeYWVn) | [The Mike Oldfield Collection](https://open.spotify.com/album/6DCKvIzj7NnAwmdtI010JY) | 3:38 |
+| 76 | [Moonlight Shadow](https://open.spotify.com/track/4WpmwEdc4RBos8W8icSSxW) | [Mike Oldfield](https://open.spotify.com/artist/562Od3CffWedyz2BbeYWVn) | [The Mike Oldfield Collection](https://open.spotify.com/album/6DCKvIzj7NnAwmdtI010JY) | 3:38 |
+| 77 | [Lessons In Love](https://open.spotify.com/track/3EGI5qmVmGlfgy9BmNb1R8) | [Level 42](https://open.spotify.com/artist/0L9xkvBPcEp1nrhDrodxc5) | [Running In The Family](https://open.spotify.com/album/1yAkrIyJL8D55sWTjS6U1n) | 4:06 |
 | 78 | [Run To You](https://open.spotify.com/track/2RWFncSWZEhSRRifqiDNVV) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Reckless \(30th Anniversary / Deluxe Edition\)](https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL) | 3:53 |
 | 79 | [Let's Go Crazy](https://open.spotify.com/track/0QeI79sp1vS8L3JgpEO7mD) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain](https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc) | 4:40 |
 | 80 | [Part\-Time Lover](https://open.spotify.com/track/0Dm43YLUlGdePpSbI1ct8h) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [In Square Circle](https://open.spotify.com/album/1nLKZqTGA48v3I8dNFkvQt) | 4:12 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xnkAwJX7tn.md) - [plain]
 | 83 | [Don't Leave Me This Way \(with Sarah Jane Morris\)](https://open.spotify.com/track/0ire4j2mcGovF5JA1D2cTp) | [The Communards](https://open.spotify.com/artist/17U2ImH5IyYMvjkCfPhMHT), [Sarah Jane Morris](https://open.spotify.com/artist/7g6rQ236kj9vrXWdGyiC8o) | [Communards](https://open.spotify.com/album/0qqP0gMVjjSEj8odGxMbf3) | 4:31 |
 | 84 | [Upside Down](https://open.spotify.com/track/3pbtBomO4Zt5gGiqsYeiBH) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Diana](https://open.spotify.com/album/3zgDLoVcpVGfFbDZJf3uHI) | 4:05 |
 | 85 | [Push It](https://open.spotify.com/track/6sT9MWlJManry3EQwf4V80) | [Salt\-N\-Pepa](https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ) | [Hot, Cool & Vicious](https://open.spotify.com/album/5QFYPgLGw6DYz8S3TrLM2d) | 4:32 |
-| 86 | [Town Called Malice](https://open.spotify.com/track/0gdmDP6xy3ZV7JNoHWAN9k) | [The Jam](https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR) | [The Gift](https://open.spotify.com/album/71OyKSCFX7DGsJc6qAhhQG) | 2:53 |
-| 87 | [Modern Love \- 2018 Remaster](https://open.spotify.com/track/3gxEZXUjrNbl3TlSrTGbR5) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Let's Dance \(2018 Remaster\)](https://open.spotify.com/album/4NwG11AsDJluT732lSjMrV) | 4:48 |
+| 86 | [Modern Love \- 2018 Remaster](https://open.spotify.com/track/3gxEZXUjrNbl3TlSrTGbR5) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Let's Dance \(2018 Remaster\)](https://open.spotify.com/album/4NwG11AsDJluT732lSjMrV) | 4:48 |
+| 87 | [Town Called Malice](https://open.spotify.com/track/0gdmDP6xy3ZV7JNoHWAN9k) | [The Jam](https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR) | [The Gift](https://open.spotify.com/album/71OyKSCFX7DGsJc6qAhhQG) | 2:53 |
 | 88 | [Pump Up The Jam \- Edit](https://open.spotify.com/track/0UAEHlFR79k9CJvknSGUNf) | [Technotronic](https://open.spotify.com/artist/2Cd98zHVdZeOCisc6Gi2sB), [Felly](https://open.spotify.com/artist/1pvibpCqTQG4mnbZ7vVSDj) | [Best Of](https://open.spotify.com/album/5uuAdNhG4ruMYRFPVCW8gL) | 3:35 |
 | 89 | [Thriller](https://open.spotify.com/track/7azo4rpSUh8nXgtonC6Pkq) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Scream](https://open.spotify.com/album/2X8UOIkZQdcz2Hi5Ynt2uk) | 5:58 |
 | 90 | [Crazy Little Thing Called Love \- Remastered 2011](https://open.spotify.com/track/35ItUJlMtjOQW3SSiTCrrw) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(Deluxe Remastered Version\)](https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa) | 2:43 |
@@ -128,8 +128,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xnkAwJX7tn.md) - [plain]
 | 118 | [Gloria](https://open.spotify.com/track/1mskmld5ZKEhRaNvYVPoqZ) | [Laura Branigan](https://open.spotify.com/artist/4463nfFMmK1cwAWBQDwT5e) | [Branigan](https://open.spotify.com/album/7tDrvcJnNTSIaFmRJVhagA) | 4:49 |
 | 119 | [I Can't Go for That \(No Can Do\)](https://open.spotify.com/track/41dDygR3r7e926oGUXfrLt) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Private Eyes \(Expanded Edition\)](https://open.spotify.com/album/7rfpaXxmQG7dnFycZjLae0) | 5:07 |
 | 120 | [Club Tropicana](https://open.spotify.com/track/6tASfEUyB7lE2r6DLzURji) | [Wham!](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) | [Fantastic](https://open.spotify.com/album/6vihnceXTNegYbpurc6qkR) | 4:25 |
-| 121 | [Conga!](https://open.spotify.com/track/3FdHgoJbH3DXNtGLh56pFu) | [Miami Sound Machine](https://open.spotify.com/artist/18xgcedCGxFbqLbIQn5R8F) | [Primitive Love](https://open.spotify.com/album/70ziXyCSplSPUpFmq9kh6M) | 4:14 |
-| 122 | [Raspberry Beret](https://open.spotify.com/track/2I1W3hcSsPIsEJfD69pHrW) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Around The World In A Day](https://open.spotify.com/album/27SA4Pkelh2pbwbVEORPOM) | 3:35 |
+| 121 | [Raspberry Beret](https://open.spotify.com/track/2I1W3hcSsPIsEJfD69pHrW) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Around The World In A Day](https://open.spotify.com/album/27SA4Pkelh2pbwbVEORPOM) | 3:35 |
+| 122 | [Conga!](https://open.spotify.com/track/3FdHgoJbH3DXNtGLh56pFu) | [Miami Sound Machine](https://open.spotify.com/artist/18xgcedCGxFbqLbIQn5R8F) | [Primitive Love](https://open.spotify.com/album/70ziXyCSplSPUpFmq9kh6M) | 4:14 |
 | 123 | [Give It To Me Baby](https://open.spotify.com/track/13v3siPyvy5TTEZYmGPPse) | [Rick James](https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL) | [Street Songs \(Deluxe Edition\)](https://open.spotify.com/album/2DBFUBBqJQvfXpodPi2WP5) | 4:08 |
 | 124 | [Ain't Nobody](https://open.spotify.com/track/53Za5vyGc1x7GxgJVRjRKc) | [Rufus](https://open.spotify.com/artist/3MCjwjfIor5FkK3h639qkW), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Stompin' At The Savoy](https://open.spotify.com/album/3j0kxKahatiR5d0sPPtTjP) | 4:45 |
 | 125 | [Word Up](https://open.spotify.com/track/7LoGfKBAaOl0nxhodJ1240) | [Cameo](https://open.spotify.com/artist/545idYhdloaSlLGBY8E9u2) | [Word Up](https://open.spotify.com/album/1W8kHQQC7DXg1inR7ZWqhA) | 4:20 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xnkAwJX7tn.md) - [plain]
 | 149 | [Just Can't Get Enough \- 2006 Remaster](https://open.spotify.com/track/0xuXRQJfxmdP6gvfDe2Z4L) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Speak & Spell \(2006 Remaster\)](https://open.spotify.com/album/0ntg4L6zjosDII94zoyboq) | 3:42 |
 | 150 | [Holiday](https://open.spotify.com/track/3ibAzRj9JnowdoLkyllk3n) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Madonna \(Reissue\)](https://open.spotify.com/album/5lrlWKjNY0eTDXp9Bd3LpW) | 3:51 |
 
-Snapshot ID: `MTY1MDkxNjI3NywwMDAwMDAwMGQ2MzE4OTRkN2I0NjEyNTQ2NGFhMTJjZTBkOTUyNzY5`
+Snapshot ID: `MTY1MDkxNjI3NywwMDAwMDAwMDg4NDBjOGNmNDMzMDVlOTVjZDU1NGYwMTJjNjIyMDZj`

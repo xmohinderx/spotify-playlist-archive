@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5a39zUmS7Hn.md) - [plain]
 
 > New music and timeless tracks from legends only\. Cover: Joe Strummer
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,500 likes - 80 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,711 likes - 80 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5a39zUmS7Hn.md) - [plain]
 | 36 | [All My Life](https://open.spotify.com/track/6tsojOQ5wHaIjKqIryLZK6) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [One By One \(Expanded Edition\)](https://open.spotify.com/album/1zQ6F8gMagKcPL4SoA80cx) | 4:23 |
 | 37 | [Paradise By the Dashboard Light](https://open.spotify.com/track/2g7gviEeJr6pyxO7G35EWQ) | [Meat Loaf](https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz) | [Bat Out Of Hell](https://open.spotify.com/album/6mvI80w5r78niBmwtu7RF9) | 8:28 |
 | 38 | [Could Have Been Me](https://open.spotify.com/track/3IyCL4Em1GOpNGDf451Hg1) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA) | [Everybody Wants](https://open.spotify.com/album/7iLnNik9W0ttekJblYrVfj) | 3:07 |
-| 39 | [Common People](https://open.spotify.com/track/2fXKyAyPrEa24c6PJyqznF) | [Pulp](https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD) | [Different Class](https://open.spotify.com/album/3ly9T2L4pqTZijFgQssd3x) | 5:51 |
+| 39 | [San Quentin](https://open.spotify.com/track/0nErfLIYBOb0DHE2jqAe6k) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [San Quentin](https://open.spotify.com/album/2oEamuLTW9IlUiDrZLAPMZ) | 3:31 |
 | 40 | [Tippa My Tongue](https://open.spotify.com/track/3s53zBEi1ZU6dJj19eFOxW) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Tippa My Tongue](https://open.spotify.com/album/58As6ZmLLmhtkF8l5voV9p) | 4:20 |
-| 41 | [San Quentin](https://open.spotify.com/track/0nErfLIYBOb0DHE2jqAe6k) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [San Quentin](https://open.spotify.com/album/2oEamuLTW9IlUiDrZLAPMZ) | 3:31 |
+| 41 | [Common People](https://open.spotify.com/track/2fXKyAyPrEa24c6PJyqznF) | [Pulp](https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD) | [Different Class](https://open.spotify.com/album/3ly9T2L4pqTZijFgQssd3x) | 5:51 |
 | 42 | [Because the Night](https://open.spotify.com/track/0lIoY4ZQsdn5QzhraM9o9u) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Easter](https://open.spotify.com/album/1p6cWoueuunhpgy6131zAd) | 3:24 |
 | 43 | [Heart Of Glass \- Special Mix](https://open.spotify.com/track/0a4agFmqHXxcZl1nho1BxM) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Best Of Blondie](https://open.spotify.com/album/7mEjsBlRmfP63cH1gdPT6A) | 4:35 |
 | 44 | [Love Will Tear Us Apart \- 2020 Remaster](https://open.spotify.com/track/34iOH7LY3vme5rQxsVILZ4) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [Love Will Tear Us Apart](https://open.spotify.com/album/0u0CJa9zwFbGSU8JWQYS5G) | 3:28 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5a39zUmS7Hn.md) - [plain]
 | 61 | [Protect The Land](https://open.spotify.com/track/11ajcVj3qSyyMPUpTJUP3y) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Protect The Land / Genocidal Humanoidz](https://open.spotify.com/album/00OQIrRjQgZmacSnjK8L7M) | 5:07 |
 | 62 | [Panic \- 2011 Remaster](https://open.spotify.com/track/64D3dzWyj0GpQT1AHx4kbK) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [Louder Than Bombs](https://open.spotify.com/album/45StnugV9WQMQwk4rRoTy8) | 2:20 |
 | 63 | [Monkey Gone to Heaven](https://open.spotify.com/track/6BT7qiDY4A5tOyklohjQuW) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Doolittle](https://open.spotify.com/album/0DQyTVcDhK9wm0f6RaErWO) | 2:55 |
-| 64 | [Parklife \- 2012 Remaster](https://open.spotify.com/track/7FSzJQV6thyoQptFCUTV9c) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Parklife \(Special Edition\)](https://open.spotify.com/album/0DBkFC6739trhCoVreZyds) | 3:05 |
-| 65 | [Just Can't Get Enough \- 2006 Remaster](https://open.spotify.com/track/0xuXRQJfxmdP6gvfDe2Z4L) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Speak & Spell \(2006 Remaster\)](https://open.spotify.com/album/0ntg4L6zjosDII94zoyboq) | 3:42 |
+| 64 | [Just Can't Get Enough \- 2006 Remaster](https://open.spotify.com/track/0xuXRQJfxmdP6gvfDe2Z4L) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Speak & Spell \(2006 Remaster\)](https://open.spotify.com/album/0ntg4L6zjosDII94zoyboq) | 3:42 |
+| 65 | [Parklife \- 2012 Remaster](https://open.spotify.com/track/7FSzJQV6thyoQptFCUTV9c) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Parklife \(Special Edition\)](https://open.spotify.com/album/0DBkFC6739trhCoVreZyds) | 3:05 |
 | 66 | [Kill Or Be Killed](https://open.spotify.com/track/4E6pemZ3WutASrphiRINbd) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Kill Or Be Killed](https://open.spotify.com/album/7tg11V9qhF2C9OoJgB1fnX) | 4:59 |
 | 67 | [Love Spreads](https://open.spotify.com/track/6JvEXmRh3l2acBzvqavgT9) | [The Stone Roses](https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d) | [Second Coming](https://open.spotify.com/album/3DE7aixVSE6DZ6ALYIztT0) | 5:47 |
 | 68 | [Suite: Judy Blue Eyes \- 2005 Remaster](https://open.spotify.com/track/2PuUFT13yCzUOZun94WOXv) | [Crosby, Stills & Nash](https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou) | [Crosby, Stills & Nash](https://open.spotify.com/album/6vUWpE8qciYHOhf7mgaGny) | 7:24 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5a39zUmS7Hn.md) - [plain]
 | 75 | [The Only One I Know](https://open.spotify.com/track/7ziicmUOzWXAkdPriOmFk9) | [The Charlatans](https://open.spotify.com/artist/5fScAXreYFnuqwOgBsJgSd) | [Some Friendly](https://open.spotify.com/album/6Bb253vXd4mFULDwLhNf7u) | 3:58 |
 | 76 | [Satellite of Love](https://open.spotify.com/track/5WyuRWUcOOhAic0tj9Pl28) | [Lou Reed](https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL) | [Transformer](https://open.spotify.com/album/5SqbMEyAt8332ISGiLX0St) | 3:41 |
 | 77 | [Are 'Friends' Electric?](https://open.spotify.com/track/3xfOF1wyjUZocifZ5WLeFx) | [Tubeway Army](https://open.spotify.com/artist/6SXZyMIzYNNfZ3NFQc3vtv) | [Replicas](https://open.spotify.com/album/14chsctrt7Rx38fQUbfqFz) | 5:23 |
-| 78 | [Wall of Glass](https://open.spotify.com/track/5qlSYa5PePLAuAsAFgqVxW) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9) | [As You Were \(Deluxe Edition\)](https://open.spotify.com/album/2V3WS9tlPYmscBNWHHYu9X) | 3:43 |
-| 79 | [The Guns of Brixton \- Remastered](https://open.spotify.com/track/0jnFDxgNhS156vu6roUVco) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [London Calling \(Remastered\)](https://open.spotify.com/album/6FCzvataOZh68j8OKzOt9a) | 3:12 |
+| 78 | [The Guns of Brixton \- Remastered](https://open.spotify.com/track/0jnFDxgNhS156vu6roUVco) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [London Calling \(Remastered\)](https://open.spotify.com/album/6FCzvataOZh68j8OKzOt9a) | 3:12 |
+| 79 | [Wall of Glass](https://open.spotify.com/track/5qlSYa5PePLAuAsAFgqVxW) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9) | [As You Were \(Deluxe Edition\)](https://open.spotify.com/album/2V3WS9tlPYmscBNWHHYu9X) | 3:43 |
 | 80 | [I Am the Resurrection \- Remastered](https://open.spotify.com/track/5ikdUUm6JbnEVnp35c7dvy) | [The Stone Roses](https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d) | [The Stone Roses](https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw) | 8:12 |
 
-Snapshot ID: `MTY2MzMzMzQxMCwwMDAwMDAwMDg4M2YzZGZlMzA2ZDJhMzE1Nzk4N2E4ZGZlMzQyMjg3`
+Snapshot ID: `MTY2MzMzMzQxMCwwMDAwMDAwMGI4ZTA4ZmE5ODdkNjlkMzAzNmRlYmNiZjVjZjA5OGU5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzc8XPy0ntN.md) - [plain]
 
 > Productores latinos underground para bailar con audífonos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,451 likes - 50 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,456 likes - 50 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,9 +22,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzc8XPy0ntN.md) - [plain]
 | 12 | [Ágni](https://open.spotify.com/track/6oFeHebu9Jv72wfFrC2wRm) | [Dengue Dengue Dengue](https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG) | [Zenit & Nadir](https://open.spotify.com/album/5F3AulLRnkl7a52gcim5q6) | 5:01 |
 | 13 | [Cuarzo](https://open.spotify.com/track/1aIModmKDbvX4xJqBFgQv8) | [Syntrovert](https://open.spotify.com/artist/541d4y9qEGqgZBoHrR0NmA) | [Amuleto](https://open.spotify.com/album/03fMs2DjHK6n5zbDqKkGHg) | 3:35 |
 | 14 | [Sarita Colonia \- Edit](https://open.spotify.com/track/0VNtKhOQZConLZc1GjQckk) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Sarita Colonia](https://open.spotify.com/album/0ku4piLs17h4xD7e92FEf6) | 3:47 |
-| 15 | [Individuality Riddim](https://open.spotify.com/track/5xbSiMMp6T98hJEQrUfFXX) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [Individuality Riddim](https://open.spotify.com/album/2QQ714tuWG924CXN9H150s) | 6:38 |
-| 16 | [Momoto](https://open.spotify.com/track/6zyb9XHm1RjxaeerHo8Mv5) | [Onda Mundial](https://open.spotify.com/artist/5c5oay9VCy0a9RzFw1S8Dp), [Klik & Frik](https://open.spotify.com/artist/56P5wn7V6w46OyYV9vS5jC) | [Momoto](https://open.spotify.com/album/3cThlPotjMGdTYVj77PXpA) | 7:39 |
-| 17 | [Minena](https://open.spotify.com/track/4yvUIVFjmNJL7nrb0irmBa) | [Ranma Entero](https://open.spotify.com/artist/779eiS92bExNWIAWxmiWIB) | [Minena](https://open.spotify.com/album/0IWOooqWyw1lf5xqYGGs3H) | 4:35 |
+| 15 | [Minena](https://open.spotify.com/track/4yvUIVFjmNJL7nrb0irmBa) | [Ranma Entero](https://open.spotify.com/artist/779eiS92bExNWIAWxmiWIB) | [Minena](https://open.spotify.com/album/0IWOooqWyw1lf5xqYGGs3H) | 4:35 |
+| 16 | [Individuality Riddim](https://open.spotify.com/track/5xbSiMMp6T98hJEQrUfFXX) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [Individuality Riddim](https://open.spotify.com/album/2QQ714tuWG924CXN9H150s) | 6:38 |
+| 17 | [Momoto](https://open.spotify.com/track/6zyb9XHm1RjxaeerHo8Mv5) | [Onda Mundial](https://open.spotify.com/artist/5c5oay9VCy0a9RzFw1S8Dp), [Klik & Frik](https://open.spotify.com/artist/56P5wn7V6w46OyYV9vS5jC) | [Momoto](https://open.spotify.com/album/3cThlPotjMGdTYVj77PXpA) | 7:39 |
 | 18 | [Cheve](https://open.spotify.com/track/16f4s3WLYMbCtIVlyaqO89) | [Siete Catorce](https://open.spotify.com/artist/3MVzVLPSlOV0s6mGQ2YZHr) | [Cruda](https://open.spotify.com/album/2Ia0Ig2JkLx3NNpdxuICeH) | 5:29 |
 | 19 | [Sin control](https://open.spotify.com/track/4yNonlwveBYAglVu6lO4hw) | [Sotomayor](https://open.spotify.com/artist/13UO3EqZHeNkeDQKjUS8oH) | [Sin control](https://open.spotify.com/album/55UvtCx5rsi1djBrqEJ7tb) | 3:46 |
 | 20 | [Jungla](https://open.spotify.com/track/4iS3nysui6BO2ljE6Z00yu) | [Monte](https://open.spotify.com/artist/1fcnE99XRNfHPyu27ysuNG) | [Mirla](https://open.spotify.com/album/2thUe8kdgLxFD6TUbCVwI7) | 3:58 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzc8XPy0ntN.md) - [plain]
 | 47 | [Forerunner](https://open.spotify.com/track/34S6ZJ8rZqheHQxkQMwjde) | [Bertoldi](https://open.spotify.com/artist/4Li9gBuTUcIRons5AtN4yE) | [Ancient Astronauts](https://open.spotify.com/album/5H71MGGEYaVtTOCtHWZvDq) | 6:55 |
 | 48 | [Tiburon](https://open.spotify.com/track/4luglnusaGpm8FhNjDmMpg) | [Dany F](https://open.spotify.com/artist/4E0D8VmVgWeyOtSZozgEYV) | [Tiburon](https://open.spotify.com/album/25kGnhGZgaWHsvlrcOaYL4) | 4:54 |
 | 49 | [Dune Dune](https://open.spotify.com/track/4pvAdTqM8fNzMK7QEjovlV) | [Iñigo Vontier](https://open.spotify.com/artist/46102Rmv7OVlBvNRnH3fj2) | [Dune Dune](https://open.spotify.com/album/4O80Saj92IWtbX9mio39oj) | 5:46 |
-| 50 | [La Nueva Mortalidad](https://open.spotify.com/track/0Mrl7x8w70d4eTm5aaFDMW) | [Jiony](https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP) | [La Nueva Mortalidad \(Remaster 2021\)](https://open.spotify.com/album/7a2G1S8B3foJ9Ai6U6hOkO) | 5:51 |
+| 50 | [Don't Be Afraid \- Nicola Cruz Remix](https://open.spotify.com/track/4YWbJqvzBG8NB08tFSCFMt) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Damian Lazarus](https://open.spotify.com/artist/3EIJ8wiUHbgkRCt5cpRrQv), [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [Don't Be Afraid \(Remixes\)](https://open.spotify.com/album/4YbwJtEcOBlG6WzHKvbG3T) | 4:18 |
 
-Snapshot ID: `MTY2MjM1MTU1NSwwMDAwMDAwMGVmZTgyMGExYWEzNmVlNmJmYTAyM2IyMGY1OGEyN2Ew`
+Snapshot ID: `MTY2MjM1MTU1NSwwMDAwMDAwMDUzNmNmZjliYjYyMDNjMjliYTU2NjFiZjYwZTRhMGY1`

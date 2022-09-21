@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2UWGeVtJ2M.md) - [plain]
 
 > 試著拋開所有煩惱，配上一點特意的小確幸，這一刻只屬於你...
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,142 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,186 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2UWGeVtJ2M.md) - [plain]
 | 18 | [Falling In Love](https://open.spotify.com/track/4m1jesCFX1gQtIRFirfwCW) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cry](https://open.spotify.com/album/6fUVptFdeOgcqDvCZzM2kC) | 4:05 |
 | 19 | [Sanctuary](https://open.spotify.com/track/3xaugmCyXrVkrDTXbFkMW3) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Sanctuary](https://open.spotify.com/album/1cjgTku8zcYVHRi8QQH1XI) | 3:00 |
 | 20 | [The Boat I Row](https://open.spotify.com/track/1HVYQj4liQb1QOygBfjZqV) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush B\-Sides & Remixes](https://open.spotify.com/album/0PUdc9WBtlyjG9Ba9DPmKa) | 3:58 |
-| 21 | [Queen Space \(with Summer Walker\)](https://open.spotify.com/track/3Gz3Tl8TicQbsR0OGvmc6C) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Queen Space \(with Summer Walker\)](https://open.spotify.com/album/6juUcr1BHeBUg2ipoLI0mV) | 3:50 |
-| 22 | [Killing Me](https://open.spotify.com/track/5BhK8Mho223YLPQOLfzWNP) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 2:45 |
+| 21 | [Killing Me](https://open.spotify.com/track/5BhK8Mho223YLPQOLfzWNP) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 2:45 |
+| 22 | [Queen Space \(with Summer Walker\)](https://open.spotify.com/track/3Gz3Tl8TicQbsR0OGvmc6C) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Queen Space \(with Summer Walker\)](https://open.spotify.com/album/6juUcr1BHeBUg2ipoLI0mV) | 3:50 |
 | 23 | [Lost Cause](https://open.spotify.com/track/4191RXFPa7Ge9XkA4cWlna) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 3:32 |
 | 24 | [Wish I Was Better](https://open.spotify.com/track/1kAkUHFb7ryeVkVSRD6Nkj) | [Kina](https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF), [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [Wish I Was Better](https://open.spotify.com/album/0dbCEm3gL91TgF2Gihuexr) | 2:20 |
 | 25 | [R.I.P\. \(feat\. Trippie Redd\)](https://open.spotify.com/track/4wJ8dJKBAxdDe5cUx8K779) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [BALLADS 1](https://open.spotify.com/album/34GQP3dILpyCN018y2k61L) | 2:38 |
@@ -69,17 +69,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2UWGeVtJ2M.md) - [plain]
 | 59 | [Autumn breeze \(Feat\. Milky Day\)](https://open.spotify.com/track/2XOy3DKHapEiDxG7EFI2wT) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Milky Day](https://open.spotify.com/artist/7FIqXqYZHMomTAcTXF4UHu) | [Autumn breeze](https://open.spotify.com/album/2qaPqpiQfg952oIT1nrDXB) | 2:54 |
 | 60 | [And We Go Gentle](https://open.spotify.com/track/3PHgxKy3nKy0v9KvUtHl8g) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Mood Valiant](https://open.spotify.com/album/456WeVeZk38VJuqg2sL7QG) | 3:23 |
 | 61 | [Outgrown](https://open.spotify.com/track/4FhHveCp4LekuCDGPJxAhp) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Amniotic \(Deluxe Version\)](https://open.spotify.com/album/0t4Ik0UYACGKrHBQ74S3U7) | 4:34 |
-| 62 | [IT'S NOT THAT SERIOUS](https://open.spotify.com/track/0L3KqlhJGIqpcX6eAC55rX) | [ASTN](https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co) | [IT'S NOT THAT SERIOUS](https://open.spotify.com/album/3NxTfjuRvlRzNIEeCXPgNk) | 2:20 |
-| 63 | [Feels So Good ◑](https://open.spotify.com/track/0NdAh5vk2C5hVNy54043lj) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac), [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Love Me / Love Me Not](https://open.spotify.com/album/0fwZXPXf41aF6H0CN3UtXV) | 3:48 |
-| 64 | [Blinded](https://open.spotify.com/track/7wMAiWj80CLKSleeDbWMOw) | [Fern.](https://open.spotify.com/artist/7KoTRIhjkIQy2L8RjWDpfF) | [Blinded](https://open.spotify.com/album/0J54MemwRGGvGEsxagUx2v) | 3:32 |
+| 62 | [Blinded](https://open.spotify.com/track/7wMAiWj80CLKSleeDbWMOw) | [Fern.](https://open.spotify.com/artist/7KoTRIhjkIQy2L8RjWDpfF) | [Blinded](https://open.spotify.com/album/0J54MemwRGGvGEsxagUx2v) | 3:32 |
+| 63 | [IT'S NOT THAT SERIOUS](https://open.spotify.com/track/0L3KqlhJGIqpcX6eAC55rX) | [ASTN](https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co) | [IT'S NOT THAT SERIOUS](https://open.spotify.com/album/3NxTfjuRvlRzNIEeCXPgNk) | 2:20 |
+| 64 | [Feels So Good ◑](https://open.spotify.com/track/0NdAh5vk2C5hVNy54043lj) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac), [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Love Me / Love Me Not](https://open.spotify.com/album/0fwZXPXf41aF6H0CN3UtXV) | 3:48 |
 | 65 | [Inkeri](https://open.spotify.com/track/18Xjl0R0TfUwJYIKOu9pCg) | [Tor](https://open.spotify.com/artist/4dktzc5hWsQPqmovObGZIG) | [Oasis Sky](https://open.spotify.com/album/1fMJt0hbDIaB4RAQNODv10) | 3:22 |
 | 66 | [Sola](https://open.spotify.com/track/52LsiDJXROMrUGE5tMyXk9) | [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [Sola](https://open.spotify.com/album/0QacFILmEvKSWaGLTqV546) | 3:18 |
 | 67 | [Way Out](https://open.spotify.com/track/54vmnIj6yLipSrw1KMK3zg) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [V I N C E N T](https://open.spotify.com/album/5OUJEZppb5mHHwR5Uw0rzw) | 3:20 |
 | 68 | [Remember](https://open.spotify.com/track/0rCBbW26RIbOH4i1CHmxP3) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Remember](https://open.spotify.com/album/29YT1RXwT1qtQFAw5PMmjL) | 3:19 |
 | 69 | [iFeel](https://open.spotify.com/track/5ed0x7s2O191nQ9gfmAhHM) | [\(\(\( O \)\)\)](https://open.spotify.com/artist/5rBFU1rhgs1nNghopuj9k8), [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [iFeel](https://open.spotify.com/album/3pgkyPj3vSQ0TYCoGQJKaF) | 4:29 |
 | 70 | [Wavvy](https://open.spotify.com/track/0BIdtZ1RdHNAm1aJxbfyNk) | [Lav](https://open.spotify.com/artist/4yql3diaCYkv88Xrh7rwVl) | [Wavvy](https://open.spotify.com/album/33RjX6qVEdXlcemcA942b0) | 3:07 |
-| 71 | [Pantone 17 13 30](https://open.spotify.com/track/2GeR7M97pCrWrMh8d6BlrF) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y1](https://open.spotify.com/album/0xlpkNFvbonkCBiAZu0AdM) | 3:06 |
-| 72 | [Introspection](https://open.spotify.com/track/5byMYiGxEFH2UzqNWOztGW) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Introspection](https://open.spotify.com/album/6Aj5Kces1cuu0pJwQTk1DF) | 2:48 |
+| 71 | [Introspection](https://open.spotify.com/track/5byMYiGxEFH2UzqNWOztGW) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Introspection](https://open.spotify.com/album/6Aj5Kces1cuu0pJwQTk1DF) | 2:48 |
+| 72 | [Pantone 17 13 30](https://open.spotify.com/track/2GeR7M97pCrWrMh8d6BlrF) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y1](https://open.spotify.com/album/0xlpkNFvbonkCBiAZu0AdM) | 3:06 |
 | 73 | [Better Version](https://open.spotify.com/track/6OYly4TGeYQFNXrt6Qh1JA) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Better Version](https://open.spotify.com/album/7KG6TtKMZAIPtY1T3ApyeU) | 3:35 |
 | 74 | [Built That Way](https://open.spotify.com/track/1KFRlrRRuvyrIwgjcSr1Qr) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [The Juice: Vol\. I](https://open.spotify.com/album/3No5rGRQefAlVJgWusDEwQ) | 3:19 |
 | 75 | [Fuck Love](https://open.spotify.com/track/32p7kD1kyWiy78wuQoICRu) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Serpentina](https://open.spotify.com/album/0YM67c7AYsZkvCSpPoYrFJ) | 2:49 |
@@ -87,9 +87,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2UWGeVtJ2M.md) - [plain]
 | 77 | [at least i look cool](https://open.spotify.com/track/2eLDUK7EkpENZkDL9O5yhz) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [at least i look cool](https://open.spotify.com/album/3DrwGrEPG3Rq9mIsZVuklB) | 2:51 |
 | 78 | [Real](https://open.spotify.com/track/4RJYpycLbIWK8FQB16VnHZ) | [ASTN](https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co) | [Real](https://open.spotify.com/album/44coZLCjYCsOWUogdZSIaG) | 2:43 |
 | 79 | [Trying Not To Cry \(feat\. Cavetown\)](https://open.spotify.com/track/1dO8sjJOtUpz0CWelezE4f) | [Kina](https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF), [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Trying Not To Cry \(feat\. Cavetown\)](https://open.spotify.com/album/0eYVO4mb4QcZNV9d3dgTiv) | 2:22 |
-| 80 | [Don't Give In](https://open.spotify.com/track/62aWvmFONlusEPthH5CmA2) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Don't Give In](https://open.spotify.com/album/4nkVzPcDX2u2X9NDM2bTck) | 3:29 |
+| 80 | [Some Place Else](https://open.spotify.com/track/5Hu24z7izB3LKi6pHaPq3C) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Some Place Else](https://open.spotify.com/album/7G6KMFNhuWlwwn4zGZTmk9) | 3:34 |
 | 81 | [Sixteen](https://open.spotify.com/track/0SUcdi5dePAVWmhyH3m5z8) | [Oscar Welsh](https://open.spotify.com/artist/5h7aN3xfMdLwyuopfgvtST) | [Sixteen](https://open.spotify.com/album/5Vg7mzIqprZiIEbmbblZWH) | 3:19 |
-| 82 | [Some Place Else](https://open.spotify.com/track/5Hu24z7izB3LKi6pHaPq3C) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Some Place Else](https://open.spotify.com/album/7G6KMFNhuWlwwn4zGZTmk9) | 3:34 |
+| 82 | [Don't Give In](https://open.spotify.com/track/62aWvmFONlusEPthH5CmA2) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Don't Give In](https://open.spotify.com/album/4nkVzPcDX2u2X9NDM2bTck) | 3:29 |
 | 83 | [Feel A Way](https://open.spotify.com/track/0Nt3UdaA4KrHEUSNwq9nCI) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [I Used To Know Her](https://open.spotify.com/album/0IMTA2Wz6p8CNZ0MDK2zvg) | 3:28 |
 | 84 | [Naturally](https://open.spotify.com/track/2nQF3xgFXtXVUlaQNiUARI) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Naturally](https://open.spotify.com/album/3iAuliy1vZqifIJEfXRbK3) | 3:14 |
 | 85 | [2021](https://open.spotify.com/track/5DlXq40tjFwd3SFp55AfKp) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [2021](https://open.spotify.com/album/0wsQ9WVVhr3P9xZBEgdaPG) | 3:15 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2UWGeVtJ2M.md) - [plain]
 | 99 | [He Don't Love Me](https://open.spotify.com/track/1WOhefCemfefOtVkTLh6bl) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [Island of the Sun](https://open.spotify.com/album/09ueWCq40PyJSmgxxMqIVD) | 3:30 |
 | 100 | [Heat](https://open.spotify.com/track/02RqY5iTPIVXmiHCwnWyEk) | [L.A\. Rose](https://open.spotify.com/artist/0gKIGwEwHA8mOrLyzbRAjr) | [Heat](https://open.spotify.com/album/11UumVLKD0DqPUpxA4udNX) | 3:10 |
 
-Snapshot ID: `MTY2MzU1NzU1OSwwMDAwMDAwMDcwMTlhYzk2NmMzMDU4YmM0NjIyZTllZjRlODZiZDBh`
+Snapshot ID: `MTY2MzU1NzU1OSwwMDAwMDAwMDVhMzM0YzlhZTlkMjI5NDkzMTZmODJmMzQyN2ZiNzE1`

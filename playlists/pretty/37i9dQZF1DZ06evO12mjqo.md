@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12mjqo.md) - [plain]
 
 > This is Ghost\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 240,480 likes - 40 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,487 likes - 40 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,11 +24,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12mjqo.md) - [plain]
 | 14 | [Darkness At The Heart Of My Love](https://open.spotify.com/track/6vXceKic4ACImU0bC3oecd) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [IMPERA](https://open.spotify.com/album/3fn4HfVz5dhmE0PG24rh6h) | 4:58 |
 | 15 | [Monstrance Clock](https://open.spotify.com/track/70dOLeFZQqrmIHdcJcazoT) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Infestissumam](https://open.spotify.com/album/32CbQps06lUasiux6N8tP3) | 5:53 |
 | 16 | [If You Have Ghosts](https://open.spotify.com/track/1sNSlzvQ5jPir46X5X1TeH) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [If You Have Ghost](https://open.spotify.com/album/08U01AsCXhbP7QdC7GABYw) | 3:34 |
-| 17 | [Witch Image](https://open.spotify.com/track/6UzcqQTZ1JhVkn8bPNmxr1) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Prequelle](https://open.spotify.com/album/1KMfjy6MmPorahRjxhTnxm) | 3:30 |
+| 17 | [Life Eternal](https://open.spotify.com/track/7qkKJFIYBsLEVOjgAwqTlz) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Prequelle](https://open.spotify.com/album/1KMfjy6MmPorahRjxhTnxm) | 3:27 |
 | 18 | [Kaisarion](https://open.spotify.com/track/452WW3sHSkt9AxuKS4cLX0) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [IMPERA](https://open.spotify.com/album/3fn4HfVz5dhmE0PG24rh6h) | 5:02 |
 | 19 | [Elizabeth](https://open.spotify.com/track/2zQyXaCpKG0yanNaCkjxNt) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Opus Eponymous](https://open.spotify.com/album/7xusHmkJUWt1XqPrM3pC9U) | 4:01 |
 | 20 | [Waiting For The Night](https://open.spotify.com/track/2O6jS02gu3X5eFtI6nf0y1) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [If You Have Ghost](https://open.spotify.com/album/08U01AsCXhbP7QdC7GABYw) | 5:37 |
-| 21 | [Life Eternal](https://open.spotify.com/track/7qkKJFIYBsLEVOjgAwqTlz) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Prequelle](https://open.spotify.com/album/1KMfjy6MmPorahRjxhTnxm) | 3:27 |
+| 21 | [Witch Image](https://open.spotify.com/track/6UzcqQTZ1JhVkn8bPNmxr1) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Prequelle](https://open.spotify.com/album/1KMfjy6MmPorahRjxhTnxm) | 3:30 |
 | 22 | [Hunter’s Moon](https://open.spotify.com/track/2jfQ2g1q0w8tbjN46rLpr2) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [IMPERA](https://open.spotify.com/album/3fn4HfVz5dhmE0PG24rh6h) | 3:16 |
 | 23 | [Stand by Him](https://open.spotify.com/track/7w9T4qsofdkPFL1iyUrwNL) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Opus Eponymous](https://open.spotify.com/album/7xusHmkJUWt1XqPrM3pC9U) | 3:56 |
 | 24 | [I'm A Marionette](https://open.spotify.com/track/2uhOsvOIziDXeJ9zFdFs2j) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [If You Have Ghost](https://open.spotify.com/album/08U01AsCXhbP7QdC7GABYw) | 4:52 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12mjqo.md) - [plain]
 | 39 | [Bible](https://open.spotify.com/track/5HCUDC7WkyGRYgS8fuI3Wt) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Meliora \(Deluxe Edition\)](https://open.spotify.com/album/3bChCUtpRC1NaCLYD4unbD) | 6:34 |
 | 40 | [Mummy Dust](https://open.spotify.com/track/3OF5mCJ8aRRIzyE49c9x6x) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Meliora](https://open.spotify.com/album/74QTwjBLo1eLqpjL320rXX) | 4:07 |
 
-Snapshot ID: `Mjc3MjY1NDUsMDAwMDAwMDBjY2Y5NjUwMjlhMmQ0MDZjYTdkZjJhNGI0N2MzMDViNQ==`
+Snapshot ID: `Mjc3MjgwMzgsMDAwMDAwMDBiNDVkM2QwNjcwMzk3NWQ2YTNlMzk0ODQxZGE0Y2RlOQ==`

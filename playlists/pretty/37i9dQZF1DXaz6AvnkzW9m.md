@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaz6AvnkzW9m.md) - [plain]
 
 > El cholo se hizo buchón 😎🤠 Calibre 50 & Emanuel Delgado en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,701 likes - 75 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,762 likes - 75 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,10 +70,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaz6AvnkzW9m.md) - [plain]
 | 60 | [Hago Lo Que Quiero](https://open.spotify.com/track/0A7EQRUzKago08tYnnXC19) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG) | [Cuando Todo Acaba](https://open.spotify.com/album/6DBSL2wSLwqvbpBsgSyBKF) | 3:23 |
 | 61 | [Cupcake Quemando](https://open.spotify.com/track/2AEIwBU42xkLwkCj7i7USv) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Cupcake Quemando](https://open.spotify.com/album/4jRTPn5owoTaIbmrIgxLjp) | 3:17 |
 | 62 | [Pedacito de Tierra](https://open.spotify.com/track/1NF9ieouGK5eoRcmDQArlq) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Pedacito de Tierra](https://open.spotify.com/album/68GIhg1AYzoarOghUnGfDq) | 4:08 |
-| 63 | [Aquí Seguimos](https://open.spotify.com/track/1O7EabNRQSnftI1Vk3HcbY) | [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi) | [Aquí Seguimos](https://open.spotify.com/album/0vRP5VPqkPI8pUqTXcRtgH) | 3:29 |
+| 63 | [Estilo Irak](https://open.spotify.com/track/384Y0IlpEu4kcLHe30DlXX) | [Yerai R](https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY) | [Estilo Irak](https://open.spotify.com/album/3FfJJnpmOzkyb0IHtsEp5X) | 3:11 |
 | 64 | [Cosas De La Clica \(feat\. Legado 7\)](https://open.spotify.com/track/15s1GfJ55mO4HBXTFa1DmB) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Jimmy Humilde Presenta Lo Mejor De Las Calles Vol\. 4](https://open.spotify.com/album/22P1ttI3jFPolCl6HCfhLX) | 2:18 |
 | 65 | [Zumbando Terrenos](https://open.spotify.com/track/3cydPWRwnndcp2C2lIlUt1) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN), [Nietos Del Viejo](https://open.spotify.com/artist/3sC7anQFAQtZNYpADNh5EH) | [Don Esteban](https://open.spotify.com/album/4TdFGG8K4OW4O0e8G6udtr) | 3:23 |
-| 66 | [Estilo Irak](https://open.spotify.com/track/384Y0IlpEu4kcLHe30DlXX) | [Yerai R](https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY) | [Estilo Irak](https://open.spotify.com/album/3FfJJnpmOzkyb0IHtsEp5X) | 3:11 |
+| 66 | [Aquí Seguimos](https://open.spotify.com/track/1O7EabNRQSnftI1Vk3HcbY) | [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi) | [Aquí Seguimos](https://open.spotify.com/album/0vRP5VPqkPI8pUqTXcRtgH) | 3:29 |
 | 67 | [Relojito Adiamantado](https://open.spotify.com/track/1r9My2hXZ2Bc1OiN7YPii6) | [Hadrian](https://open.spotify.com/artist/2F9icYS5KP4Td9nbxIjo9q), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Relojito Adiamantado](https://open.spotify.com/album/3GjHAOsVfsiYb698EgpzEm) | 2:58 |
 | 68 | [Revelaciones de un Cholo \- En Vivo](https://open.spotify.com/track/6fuAvwRTKeAVFf5D9O9yF1) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Pura Manzanita](https://open.spotify.com/album/4F68rXd0HXHAiFvyw7Mj0V) | 3:50 |
 | 69 | [Bienvenido A La Angelina](https://open.spotify.com/track/3BZO0RoGNhsOTS2SzHjMPY) | [JTres](https://open.spotify.com/artist/540HJhSFm9vELfBbvxRAEJ), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Bienvenido A La Angelina \(feat\. Fuerza Regida & Herencia De Patrones\)](https://open.spotify.com/album/6d365KQj9cfcEoMvfLmWfM) | 3:08 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaz6AvnkzW9m.md) - [plain]
 | 74 | [Del Barrio Sali \(Version Norteña\)](https://open.spotify.com/track/5tRo8lpFkAPXQR3AqxfyeF) | [Luis Cuadras](https://open.spotify.com/artist/0POrsz8AIjHbmjxkhNSHiR), [Ldln](https://open.spotify.com/artist/6zUohwxj78LtEvlXR4T8fU) | [Del Barrio Sali \(Version Norteña\)](https://open.spotify.com/album/60t6ooY8p0kt8iSPl95aRS) | 2:50 |
 | 75 | [Ando Bien Tumbado](https://open.spotify.com/track/3tQCYIGiq4ToBUIBCcI3mJ) | [La Fase 3](https://open.spotify.com/artist/29Cl7Hr5OrIZOKOZAkCEDj) | [Ando Bien Tumbado](https://open.spotify.com/album/14dzMkIDXzmCA5vwm34zy7) | 3:05 |
 
-Snapshot ID: `MTY2MjY5OTYwMCwwMDAwMDAwMGNmMzZkMzY0NGZhOTk4YmZkNmU1NzA1MzJhMDNlM2Y4`
+Snapshot ID: `MTY2MjY5OTYwMCwwMDAwMDAwMDJhMDQyMmNhYzRiNWZlOWJiZjJiYTI0MDY0NGVkMTY0`

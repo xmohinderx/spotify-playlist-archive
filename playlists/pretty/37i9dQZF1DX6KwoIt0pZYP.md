@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KwoIt0pZYP.md) - [plain]
 
 > soft, chewy & good for the soul\. uwu
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,606 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,767 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KwoIt0pZYP.md) - [plain]
 | 73 | [Lost At Sea \(Illa Illa 2\)](https://open.spotify.com/track/3sheUbqssFt6H7JGWfZFK5) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H), [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [Lost At Sea \(Illa Illa 2\)](https://open.spotify.com/album/1TgswMNuhpRfmO411liq1R) | 3:25 |
 | 74 | [Lost On Me](https://open.spotify.com/track/5ijpPkVMurycFFfNKVlcoc) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [There And Back Again](https://open.spotify.com/album/643X6WW2ijEwMLaNjp1dk1) | 2:54 |
 | 75 | [Fool 4 U](https://open.spotify.com/track/0UFthA0qo3JDLxqfG25kgP) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y4](https://open.spotify.com/album/2OF3O1Dl0IAuCwg6OaFzNR) | 2:59 |
-| 76 | [Thinkin Bout You](https://open.spotify.com/track/6xwQS49tTYgLQNPGnfWV2H) | [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO) | [LOG](https://open.spotify.com/album/43gRZhkhNa92R9NHvTIPgo) | 4:23 |
-| 77 | [Call Me](https://open.spotify.com/track/67OZSzWvhMgLzUwYOpt3eY) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [Call Me](https://open.spotify.com/album/7kVBQXeu6cfieD0rCWZZCB) | 2:52 |
+| 76 | [Call Me](https://open.spotify.com/track/67OZSzWvhMgLzUwYOpt3eY) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [Call Me](https://open.spotify.com/album/7kVBQXeu6cfieD0rCWZZCB) | 2:52 |
+| 77 | [Thinkin Bout You](https://open.spotify.com/track/6xwQS49tTYgLQNPGnfWV2H) | [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO) | [LOG](https://open.spotify.com/album/43gRZhkhNa92R9NHvTIPgo) | 4:23 |
 | 78 | [Whiskey Bottle](https://open.spotify.com/track/6FPC5aJiqfqccXxlJoUmwv) | [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [Whiskey Bottle](https://open.spotify.com/album/0uoybUEml6qw7kVXXFkBl8) | 2:30 |
 | 79 | [Killer](https://open.spotify.com/track/0skOmSnfoOEOjCvkkvymhz) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Killer](https://open.spotify.com/album/1PAYLLRK9lMJQVZlWpPkjr) | 3:18 |
 | 80 | [Blur](https://open.spotify.com/track/15IfeWfzxJtcKBgx6oDHvl) | [dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [Blur](https://open.spotify.com/album/0oQLzvDrvXSwmUfXlnCwc8) | 3:40 |
@@ -97,16 +97,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KwoIt0pZYP.md) - [plain]
 | 87 | [Vibin](https://open.spotify.com/track/1foCNzIQJMA1lGYtSvBu8m) | [Ylona Garcia](https://open.spotify.com/artist/2qnQOnL1oLKtH779qZ6iuR) | [Vibin](https://open.spotify.com/album/270wSkBt06wNswRpgTWqHT) | 2:45 |
 | 88 | [grateful](https://open.spotify.com/track/7mMzlK2pYVbgkUL1zaGGyV) | [dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [rapunzel](https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6) | 4:01 |
 | 89 | [Lovesong](https://open.spotify.com/track/06T3xyN0Gx1U4FyifkwLsk) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Lovesong](https://open.spotify.com/album/6grV1LAfe5fUZ04vSexZtb) | 4:05 |
-| 90 | [Friends \(with Pamungkas\)](https://open.spotify.com/track/2A8GaaJgqP0TcW6wmhly7n) | [Rendy Pandugo](https://open.spotify.com/artist/04u3fc37nHFKN7GJTSIwI8), [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Friends \(with Pamungkas\)](https://open.spotify.com/album/0IkIWfbpYlDL0fRUgUAfrm) | 3:19 |
-| 91 | [say what's on your mind](https://open.spotify.com/track/5sZOGj6SfzD7lWpwKhF6oE) | [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O) | [as long as you're okay](https://open.spotify.com/album/4sbtxKb5DcFEBjFFLrMftn) | 2:53 |
+| 90 | [say what's on your mind](https://open.spotify.com/track/5sZOGj6SfzD7lWpwKhF6oE) | [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O) | [as long as you're okay](https://open.spotify.com/album/4sbtxKb5DcFEBjFFLrMftn) | 2:53 |
+| 91 | [Friends \(with Pamungkas\)](https://open.spotify.com/track/2A8GaaJgqP0TcW6wmhly7n) | [Rendy Pandugo](https://open.spotify.com/artist/04u3fc37nHFKN7GJTSIwI8), [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Friends \(with Pamungkas\)](https://open.spotify.com/album/0IkIWfbpYlDL0fRUgUAfrm) | 3:19 |
 | 92 | [Natural](https://open.spotify.com/track/0ACt3PP22HyKfpFIV6AQUW) | [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) | [Natural](https://open.spotify.com/album/2yOqQbBoXX0nNPBqts1dmZ) | 2:24 |
 | 93 | [Binibini \(Last Day On Earth\) \(feat\. James TW\)](https://open.spotify.com/track/6j9kSGlYLZdZ9sZkY9DjzY) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac), [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Binibini \(Last Day On Earth\)](https://open.spotify.com/album/0MsGCH9D7oBrAO9QrwZGXs) | 3:39 |
-| 94 | [You Are](https://open.spotify.com/track/2Lz3NCfyc26mkA9N8TKi82) | [Pixie Labrador](https://open.spotify.com/artist/1SeQjcBdMcn1DCUJcnTtud), [Erin Lee](https://open.spotify.com/artist/46wWAjA3s5EOENXQhL5w0W) | [You Are](https://open.spotify.com/album/1XwPFljflqKznsSYi6Rz32) | 5:17 |
-| 95 | [Sociopath](https://open.spotify.com/track/4DAcGCqgdTk02tDMx92sfx) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [CRUSHER](https://open.spotify.com/album/6pEz5WCvDGB8ved9AcouQ5) | 3:15 |
+| 94 | [Sociopath](https://open.spotify.com/track/4DAcGCqgdTk02tDMx92sfx) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [CRUSHER](https://open.spotify.com/album/6pEz5WCvDGB8ved9AcouQ5) | 3:15 |
+| 95 | [You Are](https://open.spotify.com/track/2Lz3NCfyc26mkA9N8TKi82) | [Pixie Labrador](https://open.spotify.com/artist/1SeQjcBdMcn1DCUJcnTtud), [Erin Lee](https://open.spotify.com/artist/46wWAjA3s5EOENXQhL5w0W) | [You Are](https://open.spotify.com/album/1XwPFljflqKznsSYi6Rz32) | 5:17 |
 | 96 | [Forever](https://open.spotify.com/track/4LTeNJlLwIgMTPPyR0KaDP) | [rei brown](https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6) | [Forever](https://open.spotify.com/album/2a1RK5BeRfUBGqMJLQFYnF) | 2:54 |
 | 97 | [Comme des Garçons](https://open.spotify.com/track/0i2mhiiHucVjXuywKdLniL) | [Jiwoo](https://open.spotify.com/artist/51FKMPw06mntCaz6yO6ddg) | [Maison](https://open.spotify.com/album/7hUJWPUKJHdYF59nRjeEEy) | 4:58 |
 | 98 | [Risk It All](https://open.spotify.com/track/1nNBUK7ktg9n96YR4NNktg) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y3](https://open.spotify.com/album/684We4tIOzKAyNFV5MtWNj) | 3:38 |
 | 99 | [the boy](https://open.spotify.com/track/3WbHsfnKTIpte7B14whqjF) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [the boy](https://open.spotify.com/album/24AGxWAjb7QYqlNaoWlsDz) | 3:36 |
 | 100 | [solo](https://open.spotify.com/track/28WoBIA4EDVvxiraTv2KZ2) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr), [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [nostalgia](https://open.spotify.com/album/7posuhCeCtSWbHS2BJTuIG) | 3:03 |
 
-Snapshot ID: `MTY2MzMwODAwMCwwMDAwMDAwMDViMjZhOGNmZmE1ZDRkMTlmMDhkMjI5MjY0MzAyOTA0`
+Snapshot ID: `MTY2MzMwODAwMCwwMDAwMDAwMDY5MWE3YmY1OTVjMjA0OWRhNjEzYWI0ODYwYTUwMTlh`

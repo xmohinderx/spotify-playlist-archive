@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb29NQI3OtQI.md) - [plain]
 
 > The best soft rock from the 2000s\. Cover: Lifehouse.
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,473 likes - 80 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,655 likes - 80 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb29NQI3OtQI.md) - [plain]
 | 31 | [Everybody's Changing](https://open.spotify.com/track/5hkdfA87RZvNaxl6XiveOA) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Hopes And Fears](https://open.spotify.com/album/0qsT8HLvlWaSWIq8Rc95BI) | 3:35 |
 | 32 | [Love on the Weekend](https://open.spotify.com/track/0oiCeOPwm4zhwfyIpAE37y) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [The Search for Everything](https://open.spotify.com/album/0jZFu2tihRJ65iYAo0oOtP) | 3:32 |
 | 33 | [Sitting, Waiting, Wishing](https://open.spotify.com/track/5eWOsyHHic4vJP3LjTVhqv) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [In Between Dreams](https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo) | 3:03 |
-| 34 | [The Game of Love \(feat\. Michelle Branch\) \- Main / Radio Mix](https://open.spotify.com/track/41IShViF79gmulEkIHAjcb) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [Michelle Branch](https://open.spotify.com/artist/5rScKX1Sh1U67meeUyTGwk) | [Shaman](https://open.spotify.com/album/5kkPOwoE9ItngbGIF6m3A4) | 4:14 |
-| 35 | [Hear You Me](https://open.spotify.com/track/1TvNcWY7WwPLQINhimxycA) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Bleed American](https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP) | 4:44 |
+| 34 | [Hear You Me](https://open.spotify.com/track/1TvNcWY7WwPLQINhimxycA) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Bleed American](https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP) | 4:44 |
+| 35 | [The Game of Love \(feat\. Michelle Branch\) \- Main / Radio Mix](https://open.spotify.com/track/41IShViF79gmulEkIHAjcb) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [Michelle Branch](https://open.spotify.com/artist/5rScKX1Sh1U67meeUyTGwk) | [Shaman](https://open.spotify.com/album/5kkPOwoE9ItngbGIF6m3A4) | 4:14 |
 | 36 | [Keep Holding On](https://open.spotify.com/track/4UPcXTh26ilb7owtuyHqNI) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [The Best Damn Thing \(Expanded Edition\)](https://open.spotify.com/album/6lqE05fiHWJVYYdMVJNj38) | 3:59 |
 | 37 | [In My Place](https://open.spotify.com/track/2nvC4i2aMo4CzRjRflysah) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Rush of Blood to the Head](https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ) | 3:46 |
 | 38 | [Big Yellow Taxi](https://open.spotify.com/track/4O4dhPrjcw7GSLNafNydmb) | [Counting Crows](https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC), [Vanessa Carlton](https://open.spotify.com/artist/5ILrArfIV0tMURcHJN8Q07) | [Hard Candy](https://open.spotify.com/album/50oL8ADjfT0n9gVoMpDwBy) | 3:45 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb29NQI3OtQI.md) - [plain]
 | 58 | [So Long Goodbye](https://open.spotify.com/track/3Burs1JDgHMNXZ7wAMwe8u) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Underclass Hero](https://open.spotify.com/album/4fc73QNw5EjIorFfZ6n6YG) | 3:01 |
 | 59 | [All Of This](https://open.spotify.com/track/5kYhmkcnDalqUMxQxBcZkB) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP), [Robert Smith ](https://open.spotify.com/artist/0SHJWEBfbcjkE8bGiSTykk) | [blink\-182](https://open.spotify.com/album/4hBTxv4QRPePXCFcEI7Vjp) | 4:40 |
 | 60 | [Learning To Breathe](https://open.spotify.com/track/3rQvHJ2K1g9tnIcL51eEWE) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu) | [Learning To Breathe](https://open.spotify.com/album/4rpXUpnO39yG7ETyugzzIs) | 4:35 |
-| 61 | [I'll Keep Your Memory Vague](https://open.spotify.com/track/1RYy00jUPPA8Dr8nTuRb05) | [Finger Eleven](https://open.spotify.com/artist/0niJkG4tKkne3zwr7I8n9n) | [Them Vs\. You Vs\. Me \(Deluxe Edition\)](https://open.spotify.com/album/2pCfqddO9tLKRz3wzSNGsZ) | 3:46 |
-| 62 | [Seaside](https://open.spotify.com/track/0QCuMBeqdWkwFUTO1WlAjH) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Inside In / Inside Out](https://open.spotify.com/album/4MhInH4XT7ReDV5fCZjaSz) | 1:39 |
+| 61 | [Seaside](https://open.spotify.com/track/0QCuMBeqdWkwFUTO1WlAjH) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Inside In / Inside Out](https://open.spotify.com/album/4MhInH4XT7ReDV5fCZjaSz) | 1:39 |
+| 62 | [I'll Keep Your Memory Vague](https://open.spotify.com/track/1RYy00jUPPA8Dr8nTuRb05) | [Finger Eleven](https://open.spotify.com/artist/0niJkG4tKkne3zwr7I8n9n) | [Them Vs\. You Vs\. Me \(Deluxe Edition\)](https://open.spotify.com/album/2pCfqddO9tLKRz3wzSNGsZ) | 3:46 |
 | 63 | [Original Of The Species](https://open.spotify.com/track/6ml01NkC9AfM4OICOtRxEY) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [How To Dismantle An Atomic Bomb](https://open.spotify.com/album/5PQPur1PEZFDkI0AXbxFlB) | 4:34 |
 | 64 | [Ten Cent Pistol](https://open.spotify.com/track/2qoLCpTRYv6h8Vx94hxkvl) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers](https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v) | 4:29 |
 | 65 | [The First Cut Is The Deepest](https://open.spotify.com/track/7gN24J8E0pR3G2nsbhkcjw) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [The Very Best Of](https://open.spotify.com/album/7Kw98O8x1Urwo139vaO0fJ) | 3:47 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb29NQI3OtQI.md) - [plain]
 | 79 | [A Modern Myth](https://open.spotify.com/track/7hZRh76Rl1Tc99jZseanbZ) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [A Beautiful Lie](https://open.spotify.com/album/5sHvTCk793vr9EkSKcD7IT) | 2:58 |
 | 80 | [All In All](https://open.spotify.com/track/2EU0r8nNJQ4VllOx2ES5sK) | [Lifehouse](https://open.spotify.com/artist/5PokPZn11xzZXyXSfnvIM3) | [Lifehouse](https://open.spotify.com/album/2hOY4rDu51XSBvtwfWgSmz) | 2:56 |
 
-Snapshot ID: `MTY1NDcyMDg2NiwwMDAwMDAwMDk3YTE0ZWQ3Njk0NTE4ZGVlN2I5MjAzNGNkZGYyYTdk`
+Snapshot ID: `MTY1NDcyMDg2NiwwMDAwMDAwMGRiNzMzNGM4ODEwNzkxODY0MWZkMDI5NTQ5MTM0NTVi`

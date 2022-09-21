@@ -4,7 +4,7 @@
 
 > Let's turn ON the movement! Cover: BLACKPINK
 
-186 songs - 10 hr 4 min - [published](https://open.spotify.com/playlist/05j7NY1SwyJ5jKPj2s00I0)
+187 songs - 10 hr 8 min - [published](https://open.spotify.com/playlist/05j7NY1SwyJ5jKPj2s00I0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [O.O](https://open.spotify.com/track/3lrNsPdn98i6rxO142pLT6) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [AD MARE](https://open.spotify.com/album/3AUtpZi3kqsEYDyQ0CCNiH) | 2:52 | 2022-03-03 |  |
 | [Oh Sorry Ya](https://open.spotify.com/track/03HYOtfzbzx0HPHMcfLFOe) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Oh Sorry Ya](https://open.spotify.com/album/4LKKDcLPX4aZXGfnlpFPi7) | 2:35 | 2022-03-08 | 2022-05-12 |
 | [ONLY](https://open.spotify.com/track/6TBJkXHPhu3EsMk1bshwuI) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [4 ONLY](https://open.spotify.com/album/1DKgZeAYrjslAPZVMe6EFt) | 4:00 | 2021-12-13 | 2022-04-18 |
+| [ore ore](https://open.spotify.com/track/2hPvWV02856ZW1LSWbOycO) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [imagine club](https://open.spotify.com/album/1Fhu3FJHqttNA1d6e7VXxC) | 3:31 | 2022-09-20 |  |
 | [Peaches](https://open.spotify.com/track/237OjBs3wvamAFpHp0yItw) | [KAI](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) | [Peaches \- The 2nd Mini Album](https://open.spotify.com/album/1meyTrwRpRw7RnD8aoFfj0) | 3:18 | 2021-12-13 | 2022-03-01 |
 | [Permission to Dance](https://open.spotify.com/track/0LThjFY2iTtNdd4wviwVV2) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Butter / Permission to Dance](https://open.spotify.com/album/1iLUfFVZF8bltkBkONumgG) | 3:07 | 2021-12-13 | 2022-01-13 |
 | [Phase Me](https://open.spotify.com/track/62DCFw57LAAX4CTrzmUCny) | [WOOSUNG](https://open.spotify.com/artist/5LHu1iF8m0XtRBEJbbwSoo) | [MOTH](https://open.spotify.com/album/7JdpeV87hczflCV8GXF3yV) | 2:34 | 2022-06-24 |  |
@@ -186,7 +187,7 @@
 | [With you](https://open.spotify.com/track/2gzhQaCTeNgxpeB2TPllyY) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY), [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU) | [Our Blues, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/3Zu8uym76sjmYEGTFsXnSy) | 3:21 | 2022-05-11 | 2022-08-25 |
 | [WooAh HIP](https://open.spotify.com/track/4DKDfm5OLW1dIOEAH76Zmg) | [MAMADOL](https://open.spotify.com/artist/4RYQvLQe6W9FuaLp3x8hob) | [MAMA THE IDOL](https://open.spotify.com/album/5vcF3WhSZFnDO6oL1A4VNR) | 3:10 | 2022-01-31 | 2022-03-22 |
 | [XOXO](https://open.spotify.com/track/4r34Yi0eltsu1tp6z4lq3x) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [XOXO](https://open.spotify.com/album/63pvOn2B5pUUcUKUwIEg9m) | 3:27 | 2021-12-13 | 2022-04-21 |
-| [Yet To Come](https://open.spotify.com/track/10SRMwb9EuVS1K9rYsBfHQ) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 3:13 | 2022-06-10 |  |
+| [Yet To Come](https://open.spotify.com/track/10SRMwb9EuVS1K9rYsBfHQ) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 3:13 | 2022-06-10 | 2022-09-21 |
 | [You make Me](https://open.spotify.com/track/3Y4SnP9NDIjEj69mMY4NVp) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us : Negentropy \- Chaos swallowed up in love](https://open.spotify.com/album/3Ss5rH4Ua4Z7bQzhWDbbsG) | 3:38 | 2022-03-08 | 2022-04-09 |
 | [You Problem](https://open.spotify.com/track/2rCPeuzBY9NEX9VNshkjmH) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [The Dreaming](https://open.spotify.com/album/1pctMC2cumYE0wskONKlJm) | 3:19 | 2021-12-13 | 2022-01-17 |
 | [Your Existence](https://open.spotify.com/track/2tmX4T7ODY34NwvQ3DD3MC) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [Twenty\-Five Twenty\-One OST Part 4](https://open.spotify.com/album/2Y4nbZENK8auf4oVoQTZ0Y) | 3:24 | 2022-04-22 | 2022-08-04 |

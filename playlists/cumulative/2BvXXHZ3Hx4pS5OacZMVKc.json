@@ -444,6 +444,28 @@
     },
     {
       "album": {
+        "name": "Can't You Feel It",
+        "url": "https://open.spotify.com/album/1mdT842jxLeARBJpahEw6f"
+      },
+      "artists": [
+        {
+          "name": "MIDNIGHT CVLT",
+          "url": "https://open.spotify.com/artist/6fT08N8EN9rPdbeWxXkNdX"
+        },
+        {
+          "name": "Wiguez",
+          "url": "https://open.spotify.com/artist/25waW5SfUCXqYCUeV8gvvU"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223042,
+      "name": "Can't You Feel It",
+      "url": "https://open.spotify.com/track/7qw1FDLaNC5LA6kifisldI"
+    },
+    {
+      "album": {
         "name": "Capsized",
         "url": "https://open.spotify.com/album/2cUgd3L6zpTmr90b2t29Xy"
       },

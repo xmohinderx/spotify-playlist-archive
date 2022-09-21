@@ -131,7 +131,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-19",
+      "date_removed": null,
       "duration_ms": 180661,
       "name": "Blessed Assurance",
       "url": "https://open.spotify.com/track/078IX8fLu9cRunf9urGp7Q"
@@ -149,7 +149,7 @@
       ],
       "date_added": "2022-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-19",
+      "date_removed": null,
       "duration_ms": 177110,
       "name": "Bring Back Those Happy Days",
       "url": "https://open.spotify.com/track/1fHrhF3z0fNvtpA2aavvab"
@@ -185,7 +185,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 110270,
       "name": "Can't Sit Down - Live",
       "url": "https://open.spotify.com/track/2gghVdo9UnrCAf07hE8l4f"
@@ -276,6 +276,24 @@
     },
     {
       "album": {
+        "name": "Sister On Tour",
+        "url": "https://open.spotify.com/album/096yrvEmbVGUeC9TpWUTPO"
+      },
+      "artists": [
+        {
+          "name": "Sister Rosetta Tharpe",
+          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151080,
+      "name": "Everything To Me - Live Overdub",
+      "url": "https://open.spotify.com/track/5xQEVxGWdPQiCkSJ7gPFTy"
+    },
+    {
+      "album": {
         "name": "Gospel Train (Expanded Edition)",
         "url": "https://open.spotify.com/album/0d2kYndpc9gJafJgyEVwYk"
       },
@@ -323,7 +341,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 147701,
       "name": "Fly Away",
       "url": "https://open.spotify.com/track/0uqrVU6p1FD04exzZKkLe0"
@@ -341,7 +359,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 277453,
       "name": "Go Ahead",
       "url": "https://open.spotify.com/track/3iduBepxPdQzxUOCAz6b01"
@@ -413,7 +431,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-20",
+      "date_removed": null,
       "duration_ms": 212181,
       "name": "How About You",
       "url": "https://open.spotify.com/track/6ZruOPBw97ZTTPeiNqMQny"
@@ -435,7 +453,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-20",
+      "date_removed": null,
       "duration_ms": 174492,
       "name": "How Far From God",
       "url": "https://open.spotify.com/track/3cN5ydsv1f5UVWIognMcRj"
@@ -453,7 +471,7 @@
       ],
       "date_added": "2022-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-29",
+      "date_removed": null,
       "duration_ms": 171146,
       "name": "I Believe",
       "url": "https://open.spotify.com/track/71JPqZ4eIui8jWT0Bmeg1o"
@@ -507,7 +525,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 173427,
       "name": "I Want A Tall Skinny Papa",
       "url": "https://open.spotify.com/track/52crr5e6WUxJhtktaeTMjy"
@@ -529,7 +547,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 171173,
       "name": "I Want A Tall Skinny Papa",
       "url": "https://open.spotify.com/track/6oBEmtC2OuL0tqaEvqKC8e"
@@ -565,10 +583,28 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 155360,
       "name": "I Want to Live So God Can Use Me",
       "url": "https://open.spotify.com/track/51i9LuYV4z2jjEzTKolDty"
+    },
+    {
+      "album": {
+        "name": "Singing In My Soul",
+        "url": "https://open.spotify.com/album/4Si6lSCmJNqUil1buKI4zw"
+      },
+      "artists": [
+        {
+          "name": "Sister Rosetta Tharpe",
+          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245493,
+      "name": "I Will Trust In The Lord",
+      "url": "https://open.spotify.com/track/11FsQTMiB831KmQIbZHV55"
     },
     {
       "album": {
@@ -619,7 +655,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-22",
+      "date_removed": null,
       "duration_ms": 167400,
       "name": "Jesus Is Everywhere",
       "url": "https://open.spotify.com/track/1kWjNTXRYHJFQq1d2HdJHR"
@@ -735,7 +771,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 190772,
       "name": "My Journey To The Sky",
       "url": "https://open.spotify.com/track/3O3Zzre0FPv6GNTeInm6Md"
@@ -937,7 +973,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 160093,
       "name": "Rock Me",
       "url": "https://open.spotify.com/track/0ff9ixoxJnJgQ3o5rx3wZP"
@@ -1049,7 +1085,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-17",
+      "date_removed": null,
       "duration_ms": 185973,
       "name": "Sleep on Darling Mother",
       "url": "https://open.spotify.com/track/5zwea1dgarGWUuCxOZfDvc"
@@ -1219,7 +1255,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 309066,
       "name": "The Gospel Train",
       "url": "https://open.spotify.com/track/3BoWY9kSYauFjrn6qAJdkJ"
@@ -1313,10 +1349,28 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 282813,
       "name": "This Train",
       "url": "https://open.spotify.com/track/4FgwdqCbpfv2AX17vbF8KN"
+    },
+    {
+      "album": {
+        "name": "The Authorized Sister Rosetta Tharpe Collection",
+        "url": "https://open.spotify.com/album/0QKuuYbckrnqy7qaL9zsRr"
+      },
+      "artists": [
+        {
+          "name": "Sister Rosetta Tharpe",
+          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106106,
+      "name": "Travelin' Shoes",
+      "url": "https://open.spotify.com/track/7zQEQqQ2i37570JJhHqfpL"
     },
     {
       "album": {
@@ -1367,7 +1421,7 @@
       ],
       "date_added": "2022-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-19",
+      "date_removed": null,
       "duration_ms": 153253,
       "name": "Up Above My Head I Hear Music in the Air",
       "url": "https://open.spotify.com/track/2GogRVDdUrZIPf2etethre"
@@ -1447,7 +1501,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 175516,
       "name": "What's the News?",
       "url": "https://open.spotify.com/track/0WPhN1OYQ9fDIRdjjqwIup"

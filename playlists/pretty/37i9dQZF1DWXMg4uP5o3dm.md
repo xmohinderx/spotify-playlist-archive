@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMg4uP5o3dm.md) - [plain]
 
 > Alternative meets electronic\. Cover: Sub Urban + BENEE
 
-[Spotify](https://open.spotify.com/user/spotify) - 421,501 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 421,600 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMg4uP5o3dm.md) - [plain]
 | 43 | [¿ \(feat\. Halsey\)](https://open.spotify.com/track/6shny2UVkpaLc7jEKEoePa) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Music to listen to\~dance to\~blaze to\~pray to\~feed to\~sleep to\~talk to\~grind to\~trip to\~breathe to\~help to\~hurt to\~scroll to\~roll to\~love to\~hate to\~learn Too\~plot to\~play to\~be to\~feel to\~breed to\~sweat to\~dream to\~hide to\~live to\~die to\~GO TO](https://open.spotify.com/album/6yC6aLzX5knhWpKDidwxft) | 5:13 |
 | 44 | [Float](https://open.spotify.com/track/54JbP4PgOMQGowCbCfjCNA) | [Call Me Karizma](https://open.spotify.com/artist/5fENlrINIVP0gJOtKxvORt) | [Float](https://open.spotify.com/album/057yHZleUWDU9CKw9ihU2R) | 2:49 |
 | 45 | [Monster](https://open.spotify.com/track/6RwiFA2a6b8xICdSi4wUqk) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [Monster](https://open.spotify.com/album/6amlnVgJTGqQNnAwP7fOfL) | 2:58 |
-| 46 | [Love Brand New](https://open.spotify.com/track/1rJgKcK3ilp4xg7WxTs4RG) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Love Brand New](https://open.spotify.com/album/1YNhfulBvGyFmyOc1ZElPX) | 3:18 |
-| 47 | [American Paranoid Freak](https://open.spotify.com/track/0FWRjeCE9Inf9NAVJpVYBJ) | [Damien Styles](https://open.spotify.com/artist/2WkZEXhzMMa2osE1yKu7SL) | [For All The Times I Fell On My Face](https://open.spotify.com/album/4RmEZnvP72chP3nXMOG3bx) | 2:46 |
+| 46 | [American Paranoid Freak](https://open.spotify.com/track/0FWRjeCE9Inf9NAVJpVYBJ) | [Damien Styles](https://open.spotify.com/artist/2WkZEXhzMMa2osE1yKu7SL) | [For All The Times I Fell On My Face](https://open.spotify.com/album/4RmEZnvP72chP3nXMOG3bx) | 2:46 |
+| 47 | [Love Brand New](https://open.spotify.com/track/1rJgKcK3ilp4xg7WxTs4RG) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Love Brand New](https://open.spotify.com/album/1YNhfulBvGyFmyOc1ZElPX) | 3:18 |
 | 48 | [You Lose!](https://open.spotify.com/track/0tP8FKhJsar5y4JcOH4Rjp) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Mercurial World](https://open.spotify.com/album/1ERrUvG31thFCxdwWUoJrY) | 3:24 |
 | 49 | [Flatline](https://open.spotify.com/track/44dhel0yGmCXxjtFkl34el) | [Two Feet](https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH) | [Max Maco Is Dead Right?](https://open.spotify.com/album/0uAcX7kiIoqZvNHDN53qeM) | 2:54 |
 | 50 | [One Night](https://open.spotify.com/track/1XvUJqINdj0IiYyvodOBsR) | [Jeris Johnson](https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq) | [One Night](https://open.spotify.com/album/4HtlSIrrw2tvdaBEjYwLFt) | 2:43 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMg4uP5o3dm.md) - [plain]
 | 95 | [That Bitch](https://open.spotify.com/track/4ur3KZzUiI3wyRea8hDkI0) | [Sizzy Rocket](https://open.spotify.com/artist/2CBvbVxhd3ZJXRTCl88H7E) | [ANARCHY](https://open.spotify.com/album/0inGvyulrWVsrpFmabpQzf) | 2:32 |
 | 96 | [Dying To Know You](https://open.spotify.com/track/58kTdDfCfgxi1EC8iq1HcO) | [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45), [Bad Lovers Club](https://open.spotify.com/artist/44lvHJBBFpuAoZtcDXsrkp) | [Time Isn't Real](https://open.spotify.com/album/3pvUm6HjqJQEx9gKXc3l7g) | 3:33 |
 | 97 | [Bang](https://open.spotify.com/track/5GbK9am1svakX356ltRPcm) | [Sir Sly](https://open.spotify.com/artist/3DFoVPonoAAt4EZ1FEI8ue) | [Bang](https://open.spotify.com/album/5fAJP8107G7ymzxJwmqkUy) | 2:11 |
-| 98 | [Superhuman \(with K.Flay\)](https://open.spotify.com/track/0rWQ4sqTFJoPdIXDahOUPX) | [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm), [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Superhuman \(with K.Flay\)](https://open.spotify.com/album/45o6MX0tVVTZF8NDko5Hgs) | 4:00 |
-| 99 | [S.O.A.G.](https://open.spotify.com/track/7yBkmyHcSTEkauXdQotxMz) | [Layto](https://open.spotify.com/artist/0MqXw0plXKIaJtM342hIag) | [S.O.A.G.](https://open.spotify.com/album/5gKanMQhuEqZVJUmvQjEhZ) | 3:10 |
-| 100 | [Crown](https://open.spotify.com/track/0Fnr9uVtG6txfh1TyIyI5s) | [WE ARE FURY](https://open.spotify.com/artist/44Wi4QHWK4CzACCqCyxo3x), [Brassie](https://open.spotify.com/artist/7mEgHnF1FvDGiUg2K1Pt2n), [Kyle Reynolds](https://open.spotify.com/artist/5yhR0OqJhkbQ2y76XUte3R) | [Crown](https://open.spotify.com/album/6urK9rHyX8MtFn69HBu3eh) | 2:51 |
+| 98 | [Crown](https://open.spotify.com/track/0Fnr9uVtG6txfh1TyIyI5s) | [WE ARE FURY](https://open.spotify.com/artist/44Wi4QHWK4CzACCqCyxo3x), [Brassie](https://open.spotify.com/artist/7mEgHnF1FvDGiUg2K1Pt2n), [Kyle Reynolds](https://open.spotify.com/artist/5yhR0OqJhkbQ2y76XUte3R) | [Crown](https://open.spotify.com/album/6urK9rHyX8MtFn69HBu3eh) | 2:51 |
+| 99 | [Superhuman \(with K.Flay\)](https://open.spotify.com/track/0rWQ4sqTFJoPdIXDahOUPX) | [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm), [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Superhuman \(with K.Flay\)](https://open.spotify.com/album/45o6MX0tVVTZF8NDko5Hgs) | 4:00 |
+| 100 | [S.O.A.G.](https://open.spotify.com/track/7yBkmyHcSTEkauXdQotxMz) | [Layto](https://open.spotify.com/artist/0MqXw0plXKIaJtM342hIag) | [S.O.A.G.](https://open.spotify.com/album/5gKanMQhuEqZVJUmvQjEhZ) | 3:10 |
 
-Snapshot ID: `MTY2MTg5NTI1MSwwMDAwMDAwMDcwYmU5NjdlYTQ2MTBiMjNhYzY0NjI5NTI4MmVlODVl`
+Snapshot ID: `MTY2MTg5NTI1MSwwMDAwMDAwMDVmMjQxZWQ0MWJjOTdmOGVlMGMxNDM5ODY4MmRkZmM3`

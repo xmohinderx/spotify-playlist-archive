@@ -2,7 +2,7 @@
 
 ### [This Is NCT 127](https://open.spotify.com/playlist/37i9dQZF1DX78tHDcKCzXN)
 
-> NCTzens! Sticker is here!
+> To the world, this is NCT! This is NCT 127! The 4th album ‘2 Baddies’ is out!
 
 99 songs - 5 hr 50 min - [published](https://open.spotify.com/playlist/4sV5zpts2Ks9RxeBvmHERq)
 

@@ -1,12 +1,12 @@
 {
   "description": "The biggest songs in Latin America in 2004. Cover: Juanes",
-  "num_followers": 12707,
+  "num_followers": 12753,
   "original_name": "Latin Hits 2004",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDEwODU5OCwwMDAwMDAwMDI2MTBjODEwYWQ2MzcyNGM3NDYzZTQxZjAyNDBhYjk4",
+  "snapshot_id": "MTY2MDEwODU5OCwwMDAwMDAwMDk1MTA1NGJmYjI2OTIyZDg2NmMwMjIzOGI0N2QyOTJm",
   "tracks": [
     {
       "added_at": "2021-12-22 23:41:59",
@@ -531,18 +531,18 @@
     {
       "added_at": "2021-12-22 23:41:59",
       "album": {
-        "name": "Travesia",
-        "url": "https://open.spotify.com/album/6wx5HorxwpIFkNXsTJBvE5"
+        "name": "Aerosoul",
+        "url": "https://open.spotify.com/album/2sIZCYi1DM51AheC1HiqgG"
       },
       "artists": [
         {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+          "name": "Kalimba",
+          "url": "https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv"
         }
       ],
-      "duration_ms": 266493,
-      "name": "Tengo Ganas",
-      "url": "https://open.spotify.com/track/5nmLj87o23HJrI7GgqXXUw"
+      "duration_ms": 246200,
+      "name": "Tocando Fondo",
+      "url": "https://open.spotify.com/track/12KP3TP0BYKhYWp0H3YXtq"
     },
     {
       "added_at": "2021-12-22 23:41:59",
@@ -563,34 +563,18 @@
     {
       "added_at": "2021-12-22 23:41:59",
       "album": {
-        "name": "Aerosoul",
-        "url": "https://open.spotify.com/album/2sIZCYi1DM51AheC1HiqgG"
+        "name": "Travesia",
+        "url": "https://open.spotify.com/album/6wx5HorxwpIFkNXsTJBvE5"
       },
       "artists": [
         {
-          "name": "Kalimba",
-          "url": "https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv"
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
         }
       ],
-      "duration_ms": 246200,
-      "name": "Tocando Fondo",
-      "url": "https://open.spotify.com/track/12KP3TP0BYKhYWp0H3YXtq"
-    },
-    {
-      "added_at": "2021-12-22 23:41:59",
-      "album": {
-        "name": "A Contraluz",
-        "url": "https://open.spotify.com/album/7LMidzEe6utRLx7hPiq2AL"
-      },
-      "artists": [
-        {
-          "name": "La Vela Puerca",
-          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
-        }
-      ],
-      "duration_ms": 262000,
-      "name": "Zafar",
-      "url": "https://open.spotify.com/track/1wIUWGdTdhVk5gIPd0ULxX"
+      "duration_ms": 266493,
+      "name": "Tengo Ganas",
+      "url": "https://open.spotify.com/track/5nmLj87o23HJrI7GgqXXUw"
     },
     {
       "added_at": "2021-12-22 23:41:59",
@@ -607,6 +591,22 @@
       "duration_ms": 217146,
       "name": "Todo se transforma",
       "url": "https://open.spotify.com/track/4YEU9N2XAE0DfUwxWI5ijA"
+    },
+    {
+      "added_at": "2021-12-22 23:41:59",
+      "album": {
+        "name": "A Contraluz",
+        "url": "https://open.spotify.com/album/7LMidzEe6utRLx7hPiq2AL"
+      },
+      "artists": [
+        {
+          "name": "La Vela Puerca",
+          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
+        }
+      ],
+      "duration_ms": 262000,
+      "name": "Zafar",
+      "url": "https://open.spotify.com/track/1wIUWGdTdhVk5gIPd0ULxX"
     },
     {
       "added_at": "2021-12-22 23:41:59",

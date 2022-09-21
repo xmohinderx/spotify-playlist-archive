@@ -4,7 +4,7 @@
 
 > Ouça as principais vozes de adoradoras do gospel brasileiro\. Foto: Aline Barros
 
-75 songs - 6 hr 34 min - [published](https://open.spotify.com/playlist/65FJ5aIMXCu7yCIPpdXqxC)
+76 songs - 6 hr 38 min - [published](https://open.spotify.com/playlist/65FJ5aIMXCu7yCIPpdXqxC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [Amigo Jesus](https://open.spotify.com/track/35jMewGCMi7RF6CrJMz0wC) | [Valesca Mayssa](https://open.spotify.com/artist/4K4fsuNkaAwysF3AxRPLNh) | [Amigo Jesus](https://open.spotify.com/album/4c1kWI0RiMkQMrUbdMFVDb) | 4:22 | 2022-09-09 |  |
 | [Aos Pés da Cruz \- Ao Vivo](https://open.spotify.com/track/4fVOleOiFwM2INJXDJyR3Y) | [LUDI](https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde) | [Aos Pés da Cruz \(Ao Vivo\)](https://open.spotify.com/album/4jSgL2K7jXwXsHazBKMDuF) | 4:25 | 2022-09-09 |  |
 | [Até te Encontrar \- Ao Vivo](https://open.spotify.com/track/1HucuOdAhqUgPNgZJoFB3K) | [Rebeca Carvalho](https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Até te Encontrar \(Ao Vivo\)](https://open.spotify.com/album/0TULB48BC0rCKXtFFVOX5s) | 9:36 | 2022-09-09 |  |
-| [Bastidores da Alma](https://open.spotify.com/track/3X5BVGQJtxOBmSILiB410V) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Bastidores da Alma](https://open.spotify.com/album/15AjTurHrol8ySfQkBAxvm) | 4:03 | 2022-09-09 |  |
+| [Bastidores da Alma](https://open.spotify.com/track/2Sd6m3jTSpw2KjlddLThWD) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Bastidores da Alma](https://open.spotify.com/album/3QfkwGrA68xYYcZbfPB7nv) | 4:03 | 2022-09-09 |  |
+| [Bastidores da Alma](https://open.spotify.com/track/3X5BVGQJtxOBmSILiB410V) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Bastidores da Alma](https://open.spotify.com/album/15AjTurHrol8ySfQkBAxvm) | 4:03 | 2022-09-09 | 2022-09-21 |
 | [Casinha Favorita](https://open.spotify.com/track/2Bok8eOLrlwBUASYyfuOJw) | [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Casinha Favorita](https://open.spotify.com/album/0pYSJ00Twfb7cwPDVp1HXJ) | 10:58 | 2022-09-09 |  |
 | [Cicatrizes](https://open.spotify.com/track/1cHIMrCWPWCAgnFeG7URQp) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Cicatrizes](https://open.spotify.com/album/11wqz4WKKxY68CDLihmEwl) | 3:35 | 2022-09-09 |  |
 | [Começo, Meio e Fim / Mais Perto Quero Estar \- Ao Vivo](https://open.spotify.com/track/2IFCM9E7M0AnBwyWXM5Not) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [One Service Project](https://open.spotify.com/artist/6fUKkqN2PLedcYs1AQAwg7) | [Começo, Meio e Fim / Mais Perto Quero Estar \(Ao Vivo\)](https://open.spotify.com/album/2kxUqW58yhbbbep56nBy1E) | 5:37 | 2022-09-09 |  |

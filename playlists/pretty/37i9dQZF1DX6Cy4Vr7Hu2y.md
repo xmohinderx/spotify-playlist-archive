@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Cy4Vr7Hu2y.md) - [plain]
 
 > From sultry vocalists, sexy divas to cutesy girl\-groups, the women of K\-Pop are a formidable force to be reckoned with\. \(Cover: TRI.BE\(트라이비\)\) \(케이팝을 대표하는 한국의 여성 가수들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 799,193 likes - 64 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 799,569 likes - 64 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,11 +66,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Cy4Vr7Hu2y.md) - [plain]
 | 56 | [Gotta Go](https://open.spotify.com/track/1exnDFdC34GyBcaLt9ZJfX) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Gotta Go](https://open.spotify.com/album/3WgHekDElv10Kam9aCMwnx) | 3:41 |
 | 57 | [MAISON](https://open.spotify.com/track/1fdlTXD7obDyqOpx96BEL9) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Apocalypse : Save us\]](https://open.spotify.com/album/1ONjVRtxAqiTivu0EiEBm5) | 3:05 |
 | 58 | [For You](https://open.spotify.com/track/0JL7DoEqAUcOntWmBuOSdh) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [For You](https://open.spotify.com/album/6hiwkmlOoNm8F3UkAZJcEz) | 3:25 |
-| 59 | [Purr](https://open.spotify.com/track/5T5OjYnQ9yemW2Eqn9piCx) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ), [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [<Queendom2> Position Unit Battle Part.1\-2](https://open.spotify.com/album/1w8AYEGlbx03HhNxUvNPj8) | 3:26 |
-| 60 | [Nerdy](https://open.spotify.com/track/6KExHY2Eo0DphK63s2dfYi) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [Geekyland](https://open.spotify.com/album/7EDCoH5wfSGYdZ7wXCmTF4) | 2:58 |
-| 61 | [TWIT](https://open.spotify.com/track/6qyz1KOlGJsKYJ4ZsRmRSD) | [Hwa Sa](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [TWIT](https://open.spotify.com/album/6KL4s0Y6Ijcj0QP1Nm1EVF) | 3:10 |
+| 59 | [TWIT](https://open.spotify.com/track/6qyz1KOlGJsKYJ4ZsRmRSD) | [Hwa Sa](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [TWIT](https://open.spotify.com/album/6KL4s0Y6Ijcj0QP1Nm1EVF) | 3:10 |
+| 60 | [Purr](https://open.spotify.com/track/5T5OjYnQ9yemW2Eqn9piCx) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ), [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [<Queendom2> Position Unit Battle Part.1\-2](https://open.spotify.com/album/1w8AYEGlbx03HhNxUvNPj8) | 3:26 |
+| 61 | [Nerdy](https://open.spotify.com/track/6KExHY2Eo0DphK63s2dfYi) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [Geekyland](https://open.spotify.com/album/7EDCoH5wfSGYdZ7wXCmTF4) | 2:58 |
 | 62 | [You can't sit with us](https://open.spotify.com/track/4aS8OY1JsRSBKGfnAkIOZH) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [1/6](https://open.spotify.com/album/3UJlc2nl7tik1gD23DOBVX) | 3:17 |
 | 63 | [Bicycle](https://open.spotify.com/track/7wDVvxMUdW5MtJUqFtuXUz) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Querencia](https://open.spotify.com/album/1p2OBhqq0d1N8awjHV9xA3) | 2:59 |
 | 64 | [Celebrity](https://open.spotify.com/track/4RewTiGEGoO7FWNZUmp1f4) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Celebrity](https://open.spotify.com/album/3mtDgtcl4bxDN73kIM216g) | 3:15 |
 
-Snapshot ID: `MTY2MjQ3NjQwMCwwMDAwMDAwMGMyZmM2NzkwYTJlMjY3MmMxZmU4ZjUxMzA2ZTU4ODhi`
+Snapshot ID: `MTY2MjQ3NjQwMCwwMDAwMDAwMDdmM2I4ZTdlNzM1YjVkMmFlOTNkMmRlMmE4YTA3ZmYy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Zelos Wong 黃凱逸
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,316 likes - 92 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,322 likes - 92 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 11 | [平行線上](https://open.spotify.com/track/1ceXW7hLxqfaINttNnq4Ug) | [DEZ余宗遙](https://open.spotify.com/artist/0gO6exxCesSGRThkEHTk2Z) | [平行線上](https://open.spotify.com/album/1Ayd6fJ3cu4CVRfh0Xs57y) | 4:00 |
 | 12 | [Love Of My Life](https://open.spotify.com/track/5ZPZvnenwAxvoJtiH4d7cD) | [Nj Ho](https://open.spotify.com/artist/25GIEfY5XJejZgXcfvtj7m), [Cyrus Yung](https://open.spotify.com/artist/7svaP6EzrJdto8oh1XqdFg) | [Love Of My Life](https://open.spotify.com/album/51wCgwHopgTdUKYR2LHE0q) | 4:01 |
 | 13 | [鳥的晚安歌](https://open.spotify.com/track/48tC6flUTFJEPCwbOnaQuw) | [Hidy Dear](https://open.spotify.com/artist/2ELf7wGy8b9xpRwOscjnJJ) | [鳥的晚安歌](https://open.spotify.com/album/0l8gBPISUk8rcqVVjMXfmL) | 4:08 |
-| 14 | [夠鍾 Time's Up](https://open.spotify.com/track/4ua8rMZzLG9ii73SKOiHiq) | [Billy Choi](https://open.spotify.com/artist/1tHLv9kMiqAZhpMEGZ4rFw) | [夠鍾 Time's Up](https://open.spotify.com/album/0OsYyEFoWdYb8wAIkktlbW) | 3:24 |
+| 14 | [夠鐘 Time's Up](https://open.spotify.com/track/4ua8rMZzLG9ii73SKOiHiq) | [Billy Choi](https://open.spotify.com/artist/1tHLv9kMiqAZhpMEGZ4rFw) | [夠鐘 Time's Up](https://open.spotify.com/album/0OsYyEFoWdYb8wAIkktlbW) | 3:24 |
 | 15 | [MK Nose](https://open.spotify.com/track/7dlznx1fY6ylydSB4aZp5t) | [Kelvin T](https://open.spotify.com/artist/5eKocRaHaAoxtdSAL1zDyT), [Takeem](https://open.spotify.com/artist/7xfeo24u8goKQRhKRj6MP1), [Qqbbg](https://open.spotify.com/artist/6ZmrXLpXLuqQRvZNvgHg1O) | [MK Nose](https://open.spotify.com/album/7aprLIUrc6j6iq3jtaveA4) | 2:29 |
 | 16 | [新的世界 New World](https://open.spotify.com/track/6a3lZEaqHnRoda9XBON1Ue) | [J Ho](https://open.spotify.com/artist/3hLoyLpu0vKQwSQ63c3xcy), [AP潘宇謙](https://open.spotify.com/artist/6KXppww2ejV1wfMVOkY3tZ) | [新的世界 New World](https://open.spotify.com/album/4RadJm3zCzJkD9D0jObPs0) | 2:41 |
 | 17 | [兜圈](https://open.spotify.com/track/73KXQMlVcoMASo3U6kXpyA) | [Joséay](https://open.spotify.com/artist/3wADT5yU8enVjNSW9BoMxt) | [EARTHQUAKE MIXTAPE](https://open.spotify.com/album/4n2uv69cSINmVZl019A3uV) | 2:44 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 
 > All the best new songs from the pop punk scene\. Cover: Maggie Lindemann
 
-[Spotify](https://open.spotify.com/user/spotify) - 523,134 likes - 80 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 523,302 likes - 80 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

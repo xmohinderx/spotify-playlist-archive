@@ -786,6 +786,24 @@
     },
     {
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0dMeqAw8U02QpDifgEeY3Y"
+      },
+      "artists": [
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149443,
+      "name": "Daisy - Spotify Singles",
+      "url": "https://open.spotify.com/track/7fvs1psRkf1WWX4qJOq53N"
+    },
+    {
+      "album": {
         "name": "Days I Will Remember",
         "url": "https://open.spotify.com/album/7sGGGUDd6LjNoYOvVFiqj2"
       },

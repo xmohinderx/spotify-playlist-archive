@@ -1319,7 +1319,7 @@
       ],
       "date_added": "2022-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 235733,
       "name": "Bebo",
       "url": "https://open.spotify.com/track/7HsebNHZDGj8UhWIrZaMx6"
@@ -2637,7 +2637,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 223563,
       "name": "Desde Mis Ojos - Remix",
       "url": "https://open.spotify.com/track/0hzC5kZ6qKZJ9ybyW75VV8"
@@ -8228,6 +8228,36 @@
     },
     {
       "album": {
+        "name": "Paquiti",
+        "url": "https://open.spotify.com/album/1iNE5ImcWcksZ13ipdnIjh"
+      },
+      "artists": [
+        {
+          "name": "Nfasis",
+          "url": "https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM"
+        },
+        {
+          "name": "Dj Human Star",
+          "url": "https://open.spotify.com/artist/0g5a7nTAbwPPMzJi4KvaYW"
+        },
+        {
+          "name": "Asdrubar",
+          "url": "https://open.spotify.com/artist/5G5EP36lXJOBOq3BzjHGP1"
+        },
+        {
+          "name": "Cesar Cordero",
+          "url": "https://open.spotify.com/artist/5m7tQsM9sy3kDqwGPqLSJb"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144761,
+      "name": "Paquiti",
+      "url": "https://open.spotify.com/track/7JPV3IRvjjU0vEfX9VTsvY"
+    },
+    {
+      "album": {
         "name": "Sauce Boyz 2",
         "url": "https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI"
       },
@@ -10053,7 +10083,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-20",
+      "date_removed": null,
       "duration_ms": 175889,
       "name": "Shut Down",
       "url": "https://open.spotify.com/track/7gRFDGEzF9UkBV233yv2dc"
@@ -10403,7 +10433,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 134222,
       "name": "Sistema De Patio",
       "url": "https://open.spotify.com/track/65497v9jzFfu5sSA8ADap5"
@@ -10495,6 +10525,28 @@
       "duration_ms": 254920,
       "name": "Solo Conmigo",
       "url": "https://open.spotify.com/track/22iCMlT0xYryKNnz4X5Vwn"
+    },
+    {
+      "album": {
+        "name": "Soltera",
+        "url": "https://open.spotify.com/album/4lUvsYY8vg7EPXGc526xzq"
+      },
+      "artists": [
+        {
+          "name": "Aileen",
+          "url": "https://open.spotify.com/artist/6mF2HsaU5RX0EGsRSkwvI9"
+        },
+        {
+          "name": "Musicologo The Libro",
+          "url": "https://open.spotify.com/artist/0lIw3RIPiAC50dWNjJXe2Q"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215696,
+      "name": "Soltera",
+      "url": "https://open.spotify.com/track/6dHShHJWACz0ki6Sf2AgCE"
     },
     {
       "album": {
@@ -12003,7 +12055,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-20",
+      "date_removed": null,
       "duration_ms": 124290,
       "name": "WHOOPTY - Spanglish Version",
       "url": "https://open.spotify.com/track/2Bfl1UXaCxEdzgvqCJVLaE"
@@ -12203,7 +12255,7 @@
       ],
       "date_added": "2022-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 230704,
       "name": "Yo No Soy Celoso",
       "url": "https://open.spotify.com/track/5kVZxyMY1gfdCLiChsfjn1"

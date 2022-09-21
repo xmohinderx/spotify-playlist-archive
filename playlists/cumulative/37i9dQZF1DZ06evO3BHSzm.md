@@ -4,7 +4,7 @@
 
 > This is The Who\. The essential tracks, all in one playlist.
 
-52 songs - 3 hr 24 min - [published](https://open.spotify.com/playlist/6id0MckDOs2InxKfXzEbED)
+54 songs - 3 hr 33 min - [published](https://open.spotify.com/playlist/6id0MckDOs2InxKfXzEbED)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [I Don't Mind \- Stereo Version](https://open.spotify.com/track/10dFDqltx3vJbGXyjWyxIk) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [My Generation \(Stereo Version\)](https://open.spotify.com/album/6Oc6Ok1Oawu8lRkjmD4mXy) | 2:36 | 2022-09-17 | 2022-09-19 |
 | [I Don't Wanna Get Wise](https://open.spotify.com/track/35cc8RpxVa5KaE07RB0iqj) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [WHO \(Deluxe\)](https://open.spotify.com/album/2WuaYvGgx9MS1Vj37aBiyU) | 3:54 | 2022-09-17 |  |
 | [I'm Free](https://open.spotify.com/track/7tbp39GZvDA0cItgHynVnG) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Tommy](https://open.spotify.com/album/5cT7ee1sy2oEbFalP4asS4) | 2:39 | 2022-09-17 |  |
-| [I'm One](https://open.spotify.com/track/4yLKrbpfDou64pknD62S2U) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Quadrophenia](https://open.spotify.com/album/3JV6BIIXo3mj6GLIGH9p8a) | 2:37 | 2022-09-17 |  |
+| [I'm One](https://open.spotify.com/track/4yLKrbpfDou64pknD62S2U) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Quadrophenia](https://open.spotify.com/album/3JV6BIIXo3mj6GLIGH9p8a) | 2:37 | 2022-09-17 | 2022-09-21 |
 | [It's A Boy](https://open.spotify.com/track/0gH9pmlL8dGiXb1DyC08SC) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Tommy](https://open.spotify.com/album/5cT7ee1sy2oEbFalP4asS4) | 0:38 | 2022-09-17 |  |
 | [It's Not True \- Stereo Version](https://open.spotify.com/track/48DsNbafkIC8waIL7dT2iy) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [My Generation \(Stereo Version\)](https://open.spotify.com/album/6Oc6Ok1Oawu8lRkjmD4mXy) | 2:30 | 2022-09-17 |  |
 | [Join Together](https://open.spotify.com/track/6JNVCUi0TUeNFVLvyXFJfN) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [20th Century Masters: The Millennium Collection: Best Of The Who](https://open.spotify.com/album/1SCBhdgoRZDnGNyUafyNJC) | 4:24 | 2022-09-17 |  |
@@ -47,6 +47,7 @@
 | [Quadrophenia](https://open.spotify.com/track/0tw9YJD5pF7JgjbKjO29kP) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Quadrophenia](https://open.spotify.com/album/3JV6BIIXo3mj6GLIGH9p8a) | 6:13 | 2022-09-17 |  |
 | [See Me, Feel Me \- Single Version](https://open.spotify.com/track/7HVLE4CWBQjQi3Vyiz0fbe) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [The Who Hits 50 \(Deluxe\)](https://open.spotify.com/album/0FVnJBGOQD3Kx2x87Er2Az) | 3:36 | 2022-09-17 |  |
 | [Slip Kid](https://open.spotify.com/track/5u4ux8qOKS4fZiCoA0LcG9) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [The Who By Numbers \(Expanded Edition\)](https://open.spotify.com/album/6CTiKdIgtmCJT7lKY0EYNK) | 4:29 | 2022-09-17 |  |
+| [Sparks](https://open.spotify.com/track/0Ly4wvpmDlFjh0h2CsmpVh) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Tommy](https://open.spotify.com/album/5cT7ee1sy2oEbFalP4asS4) | 2:05 | 2022-09-20 |  |
 | [Squeeze Box](https://open.spotify.com/track/4lzNP52B3CfeVr2drfPh6X) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [The Who By Numbers \(Expanded Edition\)](https://open.spotify.com/album/6CTiKdIgtmCJT7lKY0EYNK) | 2:41 | 2022-09-17 |  |
 | [Substitute](https://open.spotify.com/track/6Ht0wBgRgLQPjIQKks766b) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Meaty, Beaty, Big And Bouncy](https://open.spotify.com/album/0NufsuTuf3U0BY0p6jFdxV) | 3:47 | 2022-09-17 |  |
 | [Summertime Blues](https://open.spotify.com/track/3akHFIHXowtVTTjY4QQvPC) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [The Who Sell Out \(Super Deluxe\)](https://open.spotify.com/album/2JyNDhGhp0hiizSPuUs0i9) | 2:38 | 2022-09-17 |  |
@@ -55,8 +56,9 @@
 | [The Rock](https://open.spotify.com/track/7IgNgM3S0M3TqXEvSBWB73) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Quadrophenia](https://open.spotify.com/album/3JV6BIIXo3mj6GLIGH9p8a) | 6:37 | 2022-09-17 |  |
 | [The Seeker \- Edit](https://open.spotify.com/track/5orygsZ5Ga0jEOvftsXqw2) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Meaty, Beaty, Big And Bouncy](https://open.spotify.com/album/0NufsuTuf3U0BY0p6jFdxV) | 3:10 | 2022-09-17 |  |
 | [The Song Is Over](https://open.spotify.com/track/1F10hpkS0xntdnTZ4bIjTp) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who's Next \(Deluxe Edition\)](https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ) | 6:16 | 2022-09-17 |  |
-| [Tommy Can You Hear Me?](https://open.spotify.com/track/0HLIhUYvZdxemJ5vHJsSBy) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Tommy](https://open.spotify.com/album/5cT7ee1sy2oEbFalP4asS4) | 1:35 | 2022-09-19 |  |
+| [Tommy Can You Hear Me?](https://open.spotify.com/track/0HLIhUYvZdxemJ5vHJsSBy) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Tommy](https://open.spotify.com/album/5cT7ee1sy2oEbFalP4asS4) | 1:35 | 2022-09-19 | 2022-09-21 |
 | [Trick Of The Light](https://open.spotify.com/track/5dqvDn65QLD18Q99LZ11hN) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who Are You](https://open.spotify.com/album/7at3CV9Y9P57wsEXkfU0q8) | 4:47 | 2022-09-17 |  |
+| [We're Not Gonna Take It](https://open.spotify.com/track/7jFImjC2qNx6K4WP8PPzGv) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Tommy](https://open.spotify.com/album/5cT7ee1sy2oEbFalP4asS4) | 7:06 | 2022-09-20 |  |
 | [Who Are You](https://open.spotify.com/track/23IJ5wLRhEZ9DOuia5mPiZ) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who Are You](https://open.spotify.com/album/7at3CV9Y9P57wsEXkfU0q8) | 6:21 | 2022-09-17 |  |
 | [Won't Get Fooled Again \- Original Album Version](https://open.spotify.com/track/0cJPLFrlV7TTCyPLupHzcH) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who's Next \(Deluxe Edition\)](https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ) | 8:31 | 2022-09-17 |  |
 | [You Better You Bet](https://open.spotify.com/track/58RWYT5MGo8e4Y3WAZHh9g) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Face Dances](https://open.spotify.com/album/2zLGQD3h1VG2tKzJCdAAyR) | 5:37 | 2022-09-17 |  |

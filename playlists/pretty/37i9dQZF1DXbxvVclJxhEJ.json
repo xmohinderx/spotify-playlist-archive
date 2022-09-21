@@ -1,12 +1,12 @@
 {
   "description": "Iconic women from the history of the Blues. Cover: Bessie Smith",
-  "num_followers": 21357,
+  "num_followers": 21419,
   "original_name": "Queens of the Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mjk5NDkyMSwwMDAwMDAwMDhiZmJjNGNhODViZGQwYmM0MDlhNjg3NGZhZTQxZWFh",
+  "snapshot_id": "MTY2Mjk5NDkyMSwwMDAwMDAwMDU5ZjdkMDg0ODFiZGY1ZThkMWU2YTlkNDMyNmE4MjZk",
   "tracks": [
     {
       "added_at": "2022-09-12 15:02:01",
@@ -535,22 +535,6 @@
     {
       "added_at": "2022-09-12 15:02:01",
       "album": {
-        "name": "The Definitive Collection",
-        "url": "https://open.spotify.com/album/08dcy2id7A5FGQXzBoG4cC"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 187146,
-      "name": "Billie's Blues",
-      "url": "https://open.spotify.com/track/0ABtCIHJudiNuykVHk0eug"
-    },
-    {
-      "added_at": "2022-09-12 15:02:01",
-      "album": {
         "name": "The Complete Recordings, Vol. 1",
         "url": "https://open.spotify.com/album/3A3NisOqKWuird6mnMtPU7"
       },
@@ -567,22 +551,6 @@
     {
       "added_at": "2022-09-12 15:02:01",
       "album": {
-        "name": "Mother Of The Blues, CD D",
-        "url": "https://open.spotify.com/album/1XAB9VeZFpioCCx2TqG4rh"
-      },
-      "artists": [
-        {
-          "name": "Ma Rainey",
-          "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
-        }
-      ],
-      "duration_ms": 172987,
-      "name": "Dead Drunk Blues",
-      "url": "https://open.spotify.com/track/0Cd4ddM6nSG3Wteu5tj8zg"
-    },
-    {
-      "added_at": "2022-09-12 15:02:01",
-      "album": {
         "name": "Sings Bessie Smith",
         "url": "https://open.spotify.com/album/2Em2NnnKeKydoEMzlcSHr4"
       },
@@ -595,6 +563,38 @@
       "duration_ms": 285400,
       "name": "Back Water Blues",
       "url": "https://open.spotify.com/track/2ABW9AYFdHh1QTGYNVmurr"
+    },
+    {
+      "added_at": "2022-09-12 15:02:01",
+      "album": {
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/08dcy2id7A5FGQXzBoG4cC"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 187146,
+      "name": "Billie's Blues",
+      "url": "https://open.spotify.com/track/0ABtCIHJudiNuykVHk0eug"
+    },
+    {
+      "added_at": "2022-09-12 15:02:01",
+      "album": {
+        "name": "Mother Of The Blues, CD D",
+        "url": "https://open.spotify.com/album/1XAB9VeZFpioCCx2TqG4rh"
+      },
+      "artists": [
+        {
+          "name": "Ma Rainey",
+          "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
+        }
+      ],
+      "duration_ms": 172987,
+      "name": "Dead Drunk Blues",
+      "url": "https://open.spotify.com/track/0Cd4ddM6nSG3Wteu5tj8zg"
     },
     {
       "added_at": "2022-09-12 15:02:01",
@@ -631,22 +631,6 @@
     {
       "added_at": "2022-09-12 15:02:01",
       "album": {
-        "name": "The Complete Recordings, Vol. 3",
-        "url": "https://open.spotify.com/album/7x1eFt9zjyqvhscJu8CcjY"
-      },
-      "artists": [
-        {
-          "name": "Bessie Smith",
-          "url": "https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg"
-        }
-      ],
-      "duration_ms": 168626,
-      "name": "I Used to Be Your Sweet Mama",
-      "url": "https://open.spotify.com/track/7EXLOCF4QW35UJrHeyEgIX"
-    },
-    {
-      "added_at": "2022-09-12 15:02:01",
-      "album": {
         "name": "Detroit Is My Home",
         "url": "https://open.spotify.com/album/712DNUvzw8lnful0KQ8cfk"
       },
@@ -679,22 +663,6 @@
     {
       "added_at": "2022-09-12 15:02:01",
       "album": {
-        "name": "The Essential Billie Holiday",
-        "url": "https://open.spotify.com/album/43CdmtAd6dQuMvBdHJ8F6x"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 157960,
-      "name": "Billie's Blues - Take 1",
-      "url": "https://open.spotify.com/track/0ba6zT47oQ4ELmAxIN2YJ3"
-    },
-    {
-      "added_at": "2022-09-12 15:02:01",
-      "album": {
         "name": "The Victoria Spivey Collection 1926-27",
         "url": "https://open.spotify.com/album/5olLgL3yqz7EBV3VXxZwfe"
       },
@@ -715,18 +683,34 @@
     {
       "added_at": "2022-09-12 15:02:01",
       "album": {
-        "name": "Ma Rainey Vol. 3 (1925-1926)",
-        "url": "https://open.spotify.com/album/4LJpa2SOh2MO6eoZJpA8ht"
+        "name": "The Complete Recordings, Vol. 3",
+        "url": "https://open.spotify.com/album/7x1eFt9zjyqvhscJu8CcjY"
       },
       "artists": [
         {
-          "name": "Ma Rainey",
-          "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
+          "name": "Bessie Smith",
+          "url": "https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg"
         }
       ],
-      "duration_ms": 175726,
-      "name": "Stack O'Lee Blues",
-      "url": "https://open.spotify.com/track/3AhXSiloqX8hkEmXsSBWAO"
+      "duration_ms": 168626,
+      "name": "I Used to Be Your Sweet Mama",
+      "url": "https://open.spotify.com/track/7EXLOCF4QW35UJrHeyEgIX"
+    },
+    {
+      "added_at": "2022-09-12 15:02:01",
+      "album": {
+        "name": "The Essential Billie Holiday",
+        "url": "https://open.spotify.com/album/43CdmtAd6dQuMvBdHJ8F6x"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 157960,
+      "name": "Billie's Blues - Take 1",
+      "url": "https://open.spotify.com/track/0ba6zT47oQ4ELmAxIN2YJ3"
     },
     {
       "added_at": "2022-09-12 15:02:01",
@@ -747,6 +731,22 @@
     {
       "added_at": "2022-09-12 15:02:01",
       "album": {
+        "name": "Ma Rainey Vol. 3 (1925-1926)",
+        "url": "https://open.spotify.com/album/4LJpa2SOh2MO6eoZJpA8ht"
+      },
+      "artists": [
+        {
+          "name": "Ma Rainey",
+          "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
+        }
+      ],
+      "duration_ms": 175726,
+      "name": "Stack O'Lee Blues",
+      "url": "https://open.spotify.com/track/3AhXSiloqX8hkEmXsSBWAO"
+    },
+    {
+      "added_at": "2022-09-12 15:02:01",
+      "album": {
         "name": "Bertha \"Chippie\" Hill 1925-1929",
         "url": "https://open.spotify.com/album/6sA70gGM15Et2Ebw1AvsP9"
       },
@@ -763,22 +763,6 @@
     {
       "added_at": "2022-09-12 15:02:01",
       "album": {
-        "name": "The First Torch Singers, Vol. I: The Twenties",
-        "url": "https://open.spotify.com/album/2i5G9rq9OB4pBCFz1ul0im"
-      },
-      "artists": [
-        {
-          "name": "Eva Taylor",
-          "url": "https://open.spotify.com/artist/4tcdCfYOTLmHkjzfIIHocL"
-        }
-      ],
-      "duration_ms": 211324,
-      "name": "Moanin' Low",
-      "url": "https://open.spotify.com/track/2Eqx8kcEyuHkresgSFePM6"
-    },
-    {
-      "added_at": "2022-09-12 15:02:01",
-      "album": {
         "name": "Boogie Woogie Gals",
         "url": "https://open.spotify.com/album/0MIfIVZV7t0zPMaSiiJnQJ"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 155813,
       "name": "Boogie'n My Woogie",
       "url": "https://open.spotify.com/track/2Psc3t5okX2ss8oUDi3lZl"
+    },
+    {
+      "added_at": "2022-09-12 15:02:01",
+      "album": {
+        "name": "The First Torch Singers, Vol. I: The Twenties",
+        "url": "https://open.spotify.com/album/2i5G9rq9OB4pBCFz1ul0im"
+      },
+      "artists": [
+        {
+          "name": "Eva Taylor",
+          "url": "https://open.spotify.com/artist/4tcdCfYOTLmHkjzfIIHocL"
+        }
+      ],
+      "duration_ms": 211324,
+      "name": "Moanin' Low",
+      "url": "https://open.spotify.com/track/2Eqx8kcEyuHkresgSFePM6"
     },
     {
       "added_at": "2022-09-12 15:02:01",

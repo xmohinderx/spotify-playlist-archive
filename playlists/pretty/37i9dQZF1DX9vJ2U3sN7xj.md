@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vJ2U3sN7xj.md) - [plain]
 
 > nos fuimos de fiesta 🎉 <br/>Cover: Farruko
 
-[Spotify](https://open.spotify.com/user/spotify) - 941,291 likes - 120 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 941,320 likes - 120 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vJ2U3sN7xj.md) - [plain]
 | 56 | [Se Te Nota \(with Guaynaa\)](https://open.spotify.com/track/11EnQRgRMJwMAesfkB5pnu) | [Lele Pons](https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Se Te Nota \(with Guaynaa\)](https://open.spotify.com/album/4XiHCUNnGgnnN5xkGue4RF) | 2:35 |
 | 57 | [La Bicicleta](https://open.spotify.com/track/0Gx4VrHzS7pZOEAGrmXXBH) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [VIVES](https://open.spotify.com/album/57giaIaMyAVCS7jMIaoIgK) | 3:49 |
 | 58 | [Fantasias](https://open.spotify.com/track/6mAN61JH0dzyZpWslS11jy) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Fantasias](https://open.spotify.com/album/1Flcx9eDuv7pTGM9nJBmGL) | 3:19 |
-| 59 | [Fiel \- Remix](https://open.spotify.com/track/43qcs9NpJhDxtG91zxFkj7) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Los Legendarios](https://open.spotify.com/artist/0n6sKrG0xKAf8xmdqeNGke), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Fiel \(Remix\)](https://open.spotify.com/album/1jBESH0DEFN7z8WH8B0B5c) | 5:49 |
-| 60 | [Chica Ideal](https://open.spotify.com/track/21N4Buj4xsyLb218lYle61) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Chica Ideal](https://open.spotify.com/album/7aS92ROK5rixV65VSRGPct) | 3:03 |
+| 59 | [Chica Ideal](https://open.spotify.com/track/21N4Buj4xsyLb218lYle61) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Chica Ideal](https://open.spotify.com/album/7aS92ROK5rixV65VSRGPct) | 3:03 |
+| 60 | [Fiel \- Remix](https://open.spotify.com/track/43qcs9NpJhDxtG91zxFkj7) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Los Legendarios](https://open.spotify.com/artist/0n6sKrG0xKAf8xmdqeNGke), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Fiel \(Remix\)](https://open.spotify.com/album/1jBESH0DEFN7z8WH8B0B5c) | 5:49 |
 | 61 | [Problemón](https://open.spotify.com/track/2Q4MRMnSAMckugCtR5jgXT) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Problemón](https://open.spotify.com/album/0A6sjLzd6wPSye48ipLBBj) | 3:13 |
 | 62 | [Mal Acostumbrao \- con Maria Becerra](https://open.spotify.com/track/1wcE84DVQUF16xudVFzezL) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Mal Acostumbrao \(con Maria Becerra\)](https://open.spotify.com/album/1UEzLJ7ykAt3pwIznJrI8Q) | 3:10 |
 | 63 | [Ay, DiOs Mío!](https://open.spotify.com/track/7x4ASXYEKfQBCewcZhK776) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Ay, DiOs Mío!](https://open.spotify.com/album/1mMUBQXa70gHyUjK0Q0u63) | 3:09 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vJ2U3sN7xj.md) - [plain]
 | 119 | [Amarillo](https://open.spotify.com/track/6zEgnpM0qYmHLDnh8WPejL) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Colores](https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis) | 2:37 |
 | 120 | [Rojo](https://open.spotify.com/track/380HmhwTE2NJgawn1NwkXi) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Colores](https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis) | 2:30 |
 
-Snapshot ID: `MTY1OTcxNzM0NywwMDAwMDAwMDk1ZmQ5ZTI4YmZkOGY3ZDg4NmU3Y2Q5ZDg5ZTVhZWM2`
+Snapshot ID: `MTY1OTcxNzM0NywwMDAwMDAwMDVlMTI0NDg4NTcyNDUzMTc3YmYyYjNlYjdjNDlhNWY1`

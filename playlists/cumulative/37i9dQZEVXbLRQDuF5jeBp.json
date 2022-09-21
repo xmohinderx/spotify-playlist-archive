@@ -4771,7 +4771,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 99282,
       "name": "BILLIE EILISH.",
       "url": "https://open.spotify.com/track/27ZZdyTSQWI7Cug2d2PkqV"
@@ -12417,7 +12417,7 @@
       ],
       "date_added": "2021-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-20",
+      "date_removed": null,
       "duration_ms": 252262,
       "name": "family ties (with Kendrick Lamar)",
       "url": "https://open.spotify.com/track/3QFInJAm9eyaho5vBzxInN"
@@ -24692,6 +24692,24 @@
     },
     {
       "album": {
+        "name": "\"Awaken, My Love!\"",
+        "url": "https://open.spotify.com/album/4Carzsnpd6yvuHZ49I0oz8"
+      },
+      "artists": [
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379226,
+      "name": "Me and Your Mama",
+      "url": "https://open.spotify.com/track/31tf1qEai5o5f4r66Kd0pU"
+    },
+    {
+      "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
       },
@@ -29615,7 +29633,7 @@
       ],
       "date_added": "2022-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 227628,
       "name": "Party",
       "url": "https://open.spotify.com/track/4tYFy8ALRjIZvnvSLw5lxN"

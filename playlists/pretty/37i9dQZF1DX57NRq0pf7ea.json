@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Estos son los hits que acompa\u00f1an la fiesta!",
-  "num_followers": 288211,
+  "num_followers": 288400,
   "original_name": "De Fiesta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMwMDg2MCwwMDAwMDAwMGVmNzA5ZjE0YjljOTBhZDFjOGVmZTZiZjJlODNjMGY3",
+  "snapshot_id": "MTY2MzMwMDg2MCwwMDAwMDAwMDM0MjRkOGVkNWE2MjU5ZTdjOTVkODY2N2M3NTE4NWVk",
   "tracks": [
     {
       "added_at": "2022-09-16 04:01:00",
@@ -755,6 +755,22 @@
     {
       "added_at": "2022-09-16 04:01:00",
       "album": {
+        "name": "XT4S1S",
+        "url": "https://open.spotify.com/album/2SGONYwprYHZruYFhQYiFC"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 219320,
+      "name": "XT4S1S",
+      "url": "https://open.spotify.com/track/7dMTCS9BLzBqYTlAuHP8TM"
+    },
+    {
+      "added_at": "2022-09-16 04:01:00",
+      "album": {
         "name": "Nos Comemos (feat. Ozuna)",
         "url": "https://open.spotify.com/album/1iBXwOCBoWC1LdSxdD0ZlC"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 191086,
       "name": "Nos Comemos (feat. Ozuna)",
       "url": "https://open.spotify.com/track/6ojZtz3sZr6ynvejLOqgCj"
-    },
-    {
-      "added_at": "2022-09-16 04:01:00",
-      "album": {
-        "name": "XT4S1S",
-        "url": "https://open.spotify.com/album/2SGONYwprYHZruYFhQYiFC"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 219320,
-      "name": "XT4S1S",
-      "url": "https://open.spotify.com/track/7dMTCS9BLzBqYTlAuHP8TM"
     },
     {
       "added_at": "2022-09-16 04:01:00",
@@ -1275,6 +1275,26 @@
     {
       "added_at": "2022-09-16 04:01:00",
       "album": {
+        "name": "TRANSLATION",
+        "url": "https://open.spotify.com/album/0uxvuY8Ek2ojzHrWTg2PDc"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        },
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 222522,
+      "name": "GIRL LIKE ME",
+      "url": "https://open.spotify.com/track/1zLBsSVxETQOfINOLYvT5m"
+    },
+    {
+      "added_at": "2022-09-16 04:01:00",
+      "album": {
         "name": "Instagram",
         "url": "https://open.spotify.com/album/0FLBLU9SceeQFuIaR54MJH"
       },
@@ -1307,26 +1327,6 @@
     {
       "added_at": "2022-09-16 04:01:00",
       "album": {
-        "name": "TRANSLATION",
-        "url": "https://open.spotify.com/album/0uxvuY8Ek2ojzHrWTg2PDc"
-      },
-      "artists": [
-        {
-          "name": "Black Eyed Peas",
-          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
-        },
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 222522,
-      "name": "GIRL LIKE ME",
-      "url": "https://open.spotify.com/track/1zLBsSVxETQOfINOLYvT5m"
-    },
-    {
-      "added_at": "2022-09-16 04:01:00",
-      "album": {
         "name": "Me Reh\u00faso",
         "url": "https://open.spotify.com/album/4RrvIEhnaHKpFxsjXc4D7d"
       },
@@ -1339,26 +1339,6 @@
       "duration_ms": 205714,
       "name": "Me Reh\u00faso",
       "url": "https://open.spotify.com/track/6De0lHrwBfPfrhorm9q1Xl"
-    },
-    {
-      "added_at": "2022-09-16 04:01:00",
-      "album": {
-        "name": "Qu\u00e9 M\u00e1s Pues?",
-        "url": "https://open.spotify.com/album/53ul5SFjVUQCotbJhjCkkK"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 217773,
-      "name": "Qu\u00e9 M\u00e1s Pues?",
-      "url": "https://open.spotify.com/track/6hf0RpxTbOprT5nnwzkk8e"
     },
     {
       "added_at": "2022-09-16 04:01:00",
@@ -1387,22 +1367,42 @@
     {
       "added_at": "2022-09-16 04:01:00",
       "album": {
-        "name": "Fantasi",
-        "url": "https://open.spotify.com/album/64d5HQCHWpk4Qfb1MkEzj9"
+        "name": "Qu\u00e9 M\u00e1s Pues?",
+        "url": "https://open.spotify.com/album/53ul5SFjVUQCotbJhjCkkK"
       },
       "artists": [
         {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
         },
         {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
         }
       ],
-      "duration_ms": 158080,
-      "name": "Fantasi",
-      "url": "https://open.spotify.com/track/63GTuNSVLynH3n3PdqObgd"
+      "duration_ms": 217773,
+      "name": "Qu\u00e9 M\u00e1s Pues?",
+      "url": "https://open.spotify.com/track/6hf0RpxTbOprT5nnwzkk8e"
+    },
+    {
+      "added_at": "2022-09-16 04:01:00",
+      "album": {
+        "name": "De Tanto Chimbiar",
+        "url": "https://open.spotify.com/album/2KeczAPgvvkbctpPl50BNp"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Totoy El Frio",
+          "url": "https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z"
+        }
+      ],
+      "duration_ms": 186066,
+      "name": "De Tanto Chimbiar",
+      "url": "https://open.spotify.com/track/5Zf8ytWP3Q6LWoTPl4SGHO"
     },
     {
       "added_at": "2022-09-16 04:01:00",
@@ -1427,22 +1427,22 @@
     {
       "added_at": "2022-09-16 04:01:00",
       "album": {
-        "name": "De Tanto Chimbiar",
-        "url": "https://open.spotify.com/album/2KeczAPgvvkbctpPl50BNp"
+        "name": "Fantasi",
+        "url": "https://open.spotify.com/album/64d5HQCHWpk4Qfb1MkEzj9"
       },
       "artists": [
         {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
         },
         {
-          "name": "Totoy El Frio",
-          "url": "https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z"
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
         }
       ],
-      "duration_ms": 186066,
-      "name": "De Tanto Chimbiar",
-      "url": "https://open.spotify.com/track/5Zf8ytWP3Q6LWoTPl4SGHO"
+      "duration_ms": 158080,
+      "name": "Fantasi",
+      "url": "https://open.spotify.com/track/63GTuNSVLynH3n3PdqObgd"
     },
     {
       "added_at": "2022-09-16 04:01:00",
@@ -1587,26 +1587,6 @@
     {
       "added_at": "2022-09-16 04:01:00",
       "album": {
-        "name": "Bar",
-        "url": "https://open.spotify.com/album/0QCHhR6WxpMZBbI33s1bAf"
-      },
-      "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        },
-        {
-          "name": "L-Gante",
-          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
-        }
-      ],
-      "duration_ms": 160212,
-      "name": "Bar",
-      "url": "https://open.spotify.com/track/0lJE8f0lx8mUSfMyxeYpiC"
-    },
-    {
-      "added_at": "2022-09-16 04:01:00",
-      "album": {
         "name": "Nazareno",
         "url": "https://open.spotify.com/album/5PlrY1dbLY41xSjGykiGcU"
       },
@@ -1619,22 +1599,6 @@
       "duration_ms": 223173,
       "name": "Nazareno",
       "url": "https://open.spotify.com/track/0RGpd5zCowfEItCUF7Itpr"
-    },
-    {
-      "added_at": "2022-09-16 04:01:00",
-      "album": {
-        "name": "Fuego Forestal",
-        "url": "https://open.spotify.com/album/3RIn81bgJPiH4XmMlDUm0Q"
-      },
-      "artists": [
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        }
-      ],
-      "duration_ms": 198520,
-      "name": "Fuego Forestal",
-      "url": "https://open.spotify.com/track/1G5rMuBltKhOavItlryMIO"
     },
     {
       "added_at": "2022-09-16 04:01:00",
@@ -1655,6 +1619,42 @@
       "duration_ms": 232853,
       "name": "Bandido",
       "url": "https://open.spotify.com/track/1xK1Gg9SxG8fy2Ya373oqb"
+    },
+    {
+      "added_at": "2022-09-16 04:01:00",
+      "album": {
+        "name": "Fuego Forestal",
+        "url": "https://open.spotify.com/album/3RIn81bgJPiH4XmMlDUm0Q"
+      },
+      "artists": [
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        }
+      ],
+      "duration_ms": 198520,
+      "name": "Fuego Forestal",
+      "url": "https://open.spotify.com/track/1G5rMuBltKhOavItlryMIO"
+    },
+    {
+      "added_at": "2022-09-16 04:01:00",
+      "album": {
+        "name": "Bar",
+        "url": "https://open.spotify.com/album/0QCHhR6WxpMZBbI33s1bAf"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        }
+      ],
+      "duration_ms": 160212,
+      "name": "Bar",
+      "url": "https://open.spotify.com/track/0lJE8f0lx8mUSfMyxeYpiC"
     },
     {
       "added_at": "2022-09-16 04:01:00",
@@ -1839,6 +1839,22 @@
     {
       "added_at": "2022-09-16 04:01:00",
       "album": {
+        "name": "De Adentro Pa Afuera",
+        "url": "https://open.spotify.com/album/1UTDgnpHmthIsdzSxbhpV2"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 177626,
+      "name": "Aeropuerto",
+      "url": "https://open.spotify.com/track/4v7riPZWyAclrOfUSwD0zp"
+    },
+    {
+      "added_at": "2022-09-16 04:01:00",
+      "album": {
         "name": "El Incomprendido",
         "url": "https://open.spotify.com/album/046Eyq94B09gkJ8ISXxzt8"
       },
@@ -1891,22 +1907,6 @@
       "duration_ms": 330477,
       "name": "Ella - Remix",
       "url": "https://open.spotify.com/track/7iHHlCbsFou5DZSW5HCPfs"
-    },
-    {
-      "added_at": "2022-09-16 04:01:00",
-      "album": {
-        "name": "De Adentro Pa Afuera",
-        "url": "https://open.spotify.com/album/1UTDgnpHmthIsdzSxbhpV2"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 177626,
-      "name": "Aeropuerto",
-      "url": "https://open.spotify.com/track/4v7riPZWyAclrOfUSwD0zp"
     },
     {
       "added_at": "2022-09-16 04:01:00",
@@ -2011,6 +2011,26 @@
     {
       "added_at": "2022-09-16 04:01:00",
       "album": {
+        "name": "MAL DE AMOR",
+        "url": "https://open.spotify.com/album/1PJGPDQCUfl18e5C3to1Uk"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 221270,
+      "name": "MAL DE AMOR",
+      "url": "https://open.spotify.com/track/0j15NSe9m6egjzJXXn1QXQ"
+    },
+    {
+      "added_at": "2022-09-16 04:01:00",
+      "album": {
         "name": "Mis Manos",
         "url": "https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA"
       },
@@ -2023,26 +2043,6 @@
       "duration_ms": 221749,
       "name": "Millones",
       "url": "https://open.spotify.com/track/3YAnNBdk0uHyakXXzMbNJq"
-    },
-    {
-      "added_at": "2022-09-16 04:01:00",
-      "album": {
-        "name": "JOSE",
-        "url": "https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        }
-      ],
-      "duration_ms": 170760,
-      "name": "Una Nota",
-      "url": "https://open.spotify.com/track/7iqOIHHEmu6Vhw25GgQ2eA"
     }
   ],
   "unique_name": "De Fiesta",

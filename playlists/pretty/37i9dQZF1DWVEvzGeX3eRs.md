@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEvzGeX3eRs.md) - [plain]
 
 > What we're gonna do right now is go back—back in time\. Here are all your favorite '90s R&B slow jams!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,449,750 likes - 47 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,450,123 likes - 47 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEvzGeX3eRs.md) - [plain]
 | 18 | [Love U 4 Life](https://open.spotify.com/track/02D9uD9WQb834Lb54xCvDS) | [Jodeci](https://open.spotify.com/artist/1eNkUXHPaXyuyC8NAgzykK) | [The Show, The After Party, The Hotel](https://open.spotify.com/album/5tincGtQaRD1QoXAT0PELz) | 4:50 |
 | 19 | [Before I Let You Go](https://open.spotify.com/track/2rkVoKVEMuct8SmEIGKzBw) | [Blackstreet](https://open.spotify.com/artist/2P3cjUru4H3fhSXXNxE9kA) | [Blackstreet](https://open.spotify.com/album/26yshjRCAGf1mLJtfTrlsb) | 4:59 |
 | 20 | [Soon as I Get Home](https://open.spotify.com/track/6SkGfPa77E4giShVbk9N6R) | [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn) | [Faith](https://open.spotify.com/album/36G7gDkkRckUGU7lgG6nev) | 5:24 |
-| 21 | [U Send Me Swingin'](https://open.spotify.com/track/1mC7u32zemMLC1mVOU02Pm) | [Mint Condition](https://open.spotify.com/artist/4MT97VeycuegSicrrphisJ) | [From The Mint Factory](https://open.spotify.com/album/7hzFhf3WpRUNM52MVjgCVe) | 5:14 |
-| 22 | [Kissin' You](https://open.spotify.com/track/1e5DTpM1WeggytDXbphivX) | [Total](https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7) | [Total](https://open.spotify.com/album/4uLoT81NWVFx09mkfnGCHb) | 4:42 |
+| 21 | [Kissin' You](https://open.spotify.com/track/1e5DTpM1WeggytDXbphivX) | [Total](https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7) | [Total](https://open.spotify.com/album/4uLoT81NWVFx09mkfnGCHb) | 4:42 |
+| 22 | [U Send Me Swingin'](https://open.spotify.com/track/1mC7u32zemMLC1mVOU02Pm) | [Mint Condition](https://open.spotify.com/artist/4MT97VeycuegSicrrphisJ) | [From The Mint Factory](https://open.spotify.com/album/7hzFhf3WpRUNM52MVjgCVe) | 5:14 |
 | 23 | [Let's Chill](https://open.spotify.com/track/12soRJf1RZRsCd0QUnJUYL) | [Guy](https://open.spotify.com/artist/2IBPIcSkvQZyoaVfoyZKE8) | [The Future](https://open.spotify.com/album/3zuoynFUwVMW9cUl7V5I0q) | 5:23 |
 | 24 | [Cruisin'](https://open.spotify.com/track/2voXNGgRrosxCJA6foTVau) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Brown Sugar](https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4) | 6:24 |
 | 25 | [If I Ever Fall In Love](https://open.spotify.com/track/0uOPGU4CbYxzFxn6T7sblW) | [Shai](https://open.spotify.com/artist/72y3ZI95ctkQC2O4mjBaU3), [Bill Appleberry](https://open.spotify.com/artist/3XDOHFgZoRPljL3nSeYJtJ) | [If I Ever Fall In Love](https://open.spotify.com/album/1BSzAkEW5ZE2QsBScQgoAb) | 4:49 |
@@ -51,9 +51,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEvzGeX3eRs.md) - [plain]
 | 41 | [Insatiable](https://open.spotify.com/track/3q4SUOc4upvsrFItSrELsX) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j), [The New Power Generation](https://open.spotify.com/artist/1xtGjxE9c1YmEmFPCH6Izp) | [Diamonds and Pearls](https://open.spotify.com/album/3oHGfGzLTOqgocxq8sH4NJ) | 6:39 |
 | 42 | [Use Your Heart](https://open.spotify.com/track/5mCQirG6bW3iDN0gpdoxrP) | [SWV](https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa) | [Best Of SWV](https://open.spotify.com/album/2QHtc53nHnTTQip9d3VmoP) | 4:49 |
 | 43 | [It Never Rains \(In Southern California\)](https://open.spotify.com/track/6ygcYdLszK2DJUU7BWuCxx) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Tony! Toni! Tone'! Greatest Hits](https://open.spotify.com/album/1yoA6HcbdX23c4k0MXNq5g) | 4:56 |
-| 44 | [Take Our Time](https://open.spotify.com/track/44QrzYVAHFC9WMN91GEo9H) | [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) | [Crazysexycool](https://open.spotify.com/album/5eg56dCpFn32neJak2vk0f) | 4:34 |
-| 45 | [Uhh Ahh](https://open.spotify.com/track/0MrD47wtvAu6igsy8vqUzN) | [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [Cooleyhighharmony \- Expanded Edition](https://open.spotify.com/album/7JnLsJWNUf50DGZ5JhBgbO) | 3:48 |
+| 44 | [Uhh Ahh](https://open.spotify.com/track/0MrD47wtvAu6igsy8vqUzN) | [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [Cooleyhighharmony \- Expanded Edition](https://open.spotify.com/album/7JnLsJWNUf50DGZ5JhBgbO) | 3:48 |
+| 45 | [Take Our Time](https://open.spotify.com/track/44QrzYVAHFC9WMN91GEo9H) | [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) | [Crazysexycool](https://open.spotify.com/album/5eg56dCpFn32neJak2vk0f) | 4:34 |
 | 46 | [Scandalous](https://open.spotify.com/track/2dnPoLlcwJFtFm1pps3Bm0) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Batman](https://open.spotify.com/album/2FwzHgJ4XaPhC19Y0uL6SK) | 6:15 |
 | 47 | [Ready Or Not](https://open.spotify.com/track/78fii1y8vrGtn5YtHEnpaN) | [After 7](https://open.spotify.com/artist/4UPcJIhr5K5fPsm4itqT7E) | [The Very Best Of After 7](https://open.spotify.com/album/5L5q7gpKSLpMXd06AoX1U7) | 4:32 |
 
-Snapshot ID: `MTYxNDkwMjU5NywwMDAwMDAwMDI5MTYwNTRlNjM2ZWU4NzUyODY3MDI5YWZlMWNlZDI2`
+Snapshot ID: `MTYxNDkwMjU5NywwMDAwMDAwMDUyYjFmZmY1Y2JmYmI0OTA4OWM5ZGNmZmRhNDQyZGEw`

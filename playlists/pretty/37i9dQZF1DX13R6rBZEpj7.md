@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 
 > Turn up the volume for some filthy bassline! ft\. Zero
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,535 likes - 70 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,602 likes - 70 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,12 +44,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 | 34 | [Secure the Bag](https://open.spotify.com/track/3cy2jsGqXCDVGyWzVQ9tu0) | [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC), [Flava D](https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ) | [Secure the Bag](https://open.spotify.com/album/1r4AXEEkYShSDf7iGTNmuL) | 4:08 |
 | 35 | [Chances](https://open.spotify.com/track/5szLalLSHItSzMOEqagjwn) | [Wittyboy](https://open.spotify.com/artist/3SgLMH12f6V9dfSW2QPgAw) | [Chances](https://open.spotify.com/album/64QsrEsgFAN6nnxonRjsYP) | 5:10 |
 | 36 | [Feel So Free](https://open.spotify.com/track/2LXv7VRCHmtusc6B9FfkVW) | [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH) | [Feel So Free](https://open.spotify.com/album/6bxI8Jmu1EPzT2uVdJCog5) | 3:18 |
-| 37 | [Only You](https://open.spotify.com/track/4HlC9ErrBHGjEDPD1YSjMe) | [Birch](https://open.spotify.com/artist/30XFjY5QiLhaU51gQGAKNv) | [Only You](https://open.spotify.com/album/6JYhu5VWLYjZYvKkNaLX1U) | 3:36 |
-| 38 | [Gimme More](https://open.spotify.com/track/3XOOjp4OcQV7ChnJkZpMkN) | [Distinkt](https://open.spotify.com/artist/55hWlrQE8eBgArfN6nAWug) | [Gimme More](https://open.spotify.com/album/24EFMVdTNui57FEIvcQ8DN) | 3:54 |
+| 37 | [Gimme More](https://open.spotify.com/track/3XOOjp4OcQV7ChnJkZpMkN) | [Distinkt](https://open.spotify.com/artist/55hWlrQE8eBgArfN6nAWug) | [Gimme More](https://open.spotify.com/album/24EFMVdTNui57FEIvcQ8DN) | 3:54 |
+| 38 | [Only You](https://open.spotify.com/track/4HlC9ErrBHGjEDPD1YSjMe) | [Birch](https://open.spotify.com/artist/30XFjY5QiLhaU51gQGAKNv) | [Only You](https://open.spotify.com/album/6JYhu5VWLYjZYvKkNaLX1U) | 3:36 |
 | 39 | [One Ting](https://open.spotify.com/track/0kxVhuTPJMtAP3dj9Q7tuG) | [Phibes](https://open.spotify.com/artist/21VZgcYa29ZVvRQzmUNakx) | [One Ting](https://open.spotify.com/album/51lQCt9KSngVbAqR4Qvc8E) | 3:52 |
 | 40 | [Again](https://open.spotify.com/track/4ZKyMOBSd2M7yTDEoa2LlP) | [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC), [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV), [Takura](https://open.spotify.com/artist/5h7nWgcp5DTynhz4iaq0Ri) | [Again](https://open.spotify.com/album/0O8csLJ3maexykCLSmehZd) | 3:51 |
-| 41 | [Skanker](https://open.spotify.com/track/6h2bwZae3TtaQPN7H4Nzwr) | [TS7](https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Skanker](https://open.spotify.com/album/1RCj9Ix2fIuV633QXLzJ48) | 3:47 |
-| 42 | [Affiliation](https://open.spotify.com/track/74OHEZCii7GYJqqEIHPYb0) | [Bermal](https://open.spotify.com/artist/2I50LWeOqOFm3bagM840Nt) | [Affiliation](https://open.spotify.com/album/6viQ5GlaaPHbGLPfIYcEfU) | 3:10 |
+| 41 | [Affiliation](https://open.spotify.com/track/74OHEZCii7GYJqqEIHPYb0) | [Bermal](https://open.spotify.com/artist/2I50LWeOqOFm3bagM840Nt) | [Affiliation](https://open.spotify.com/album/6viQ5GlaaPHbGLPfIYcEfU) | 3:10 |
+| 42 | [Skanker](https://open.spotify.com/track/6h2bwZae3TtaQPN7H4Nzwr) | [TS7](https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Skanker](https://open.spotify.com/album/1RCj9Ix2fIuV633QXLzJ48) | 3:47 |
 | 43 | [Solid Ground](https://open.spotify.com/track/5rPEJbUTX6yaznk9V78jQZ) | [KDYN](https://open.spotify.com/artist/3LzEsI7g7Siu0bVOBR0OLi) | [Solid Ground](https://open.spotify.com/album/6bVBjsTZcvTMDr5sjzgVsJ) | 4:01 |
 | 44 | [Be Real](https://open.spotify.com/track/3i4xoeUihdScqGDnvkCFXb) | [Dom Scanlon](https://open.spotify.com/artist/2EhXwW8eckYjHTFWX1f49P) | [Be Real](https://open.spotify.com/album/3prkw0bYIfiZT0Q9Gmz431) | 4:37 |
 | 45 | [Tune](https://open.spotify.com/track/7ske1qDeuRwD933vcnD3OS) | [Dread MC](https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn), [DJ Q](https://open.spotify.com/artist/7dDPt2xIGymSDddx80OfF1), [Gentlemens Club](https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO) | [Tune](https://open.spotify.com/album/0wN5zaRkX38Eh8U8myFobq) | 3:08 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 | 60 | [Hard Hitters](https://open.spotify.com/track/1QVQdgkRXRD4WON1AHvs1k) | [Tsuki](https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7), [Dread MC](https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn) | [Hard Hitters](https://open.spotify.com/album/2uKCc6oR55TkMuSGTYJIyK) | 3:52 |
 | 61 | [Monster](https://open.spotify.com/track/1UfJuFf3V0DfFigaURj3yJ) | [Jamie Duggan](https://open.spotify.com/artist/0MOlBnjY7mmwqxQpFuysB8), [Booda](https://open.spotify.com/artist/68jeZ3k9uWo241zpfm4Agn), [Mr Traumatik](https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z) | [Monster](https://open.spotify.com/album/3nX64Yz5zsL9GfAS7YJmck) | 3:20 |
 | 62 | [Inside](https://open.spotify.com/track/6y83sAg5Mx81YSzKSUw36j) | [Slick Don](https://open.spotify.com/artist/3ejOLECzr9WSVFeIc1Tf7k) | [Inside](https://open.spotify.com/album/4JvQ6sH4NsLqABE1qG6dy6) | 4:12 |
-| 63 | [Amazon Prime](https://open.spotify.com/track/7KMqFgnOWEIBPayRCLx7NI) | [Window Kid](https://open.spotify.com/artist/0Gt5eU7AuKfotkBLgjyg9p), [1st Born](https://open.spotify.com/artist/1KBcM1utBexIFa20pstSMb) | [Amazon Prime](https://open.spotify.com/album/2GY4CND4eFzrv4QwW3zNA9) | 2:40 |
-| 64 | [Annihilation](https://open.spotify.com/track/43auTkxJdUs3TRkMNJROYj) | [Bushbaby](https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C) | [In Two Worlds](https://open.spotify.com/album/5oAPopKo0zZwdDdYtzqgu9) | 4:30 |
+| 63 | [Annihilation](https://open.spotify.com/track/43auTkxJdUs3TRkMNJROYj) | [Bushbaby](https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C) | [In Two Worlds](https://open.spotify.com/album/5oAPopKo0zZwdDdYtzqgu9) | 4:30 |
+| 64 | [Amazon Prime](https://open.spotify.com/track/7KMqFgnOWEIBPayRCLx7NI) | [Window Kid](https://open.spotify.com/artist/0Gt5eU7AuKfotkBLgjyg9p), [1st Born](https://open.spotify.com/artist/1KBcM1utBexIFa20pstSMb) | [Amazon Prime](https://open.spotify.com/album/2GY4CND4eFzrv4QwW3zNA9) | 2:40 |
 | 65 | [Got A Groove](https://open.spotify.com/track/1kbGFz4dZDnjtSyjiZvMHC) | [Bassboy](https://open.spotify.com/artist/4wwHbT1V6hoLyOvS4gZVyy) | [Got A Groove](https://open.spotify.com/album/6IOBv6pqhN8eHLJfKJ1Xcd) | 4:31 |
 | 66 | [Thugs](https://open.spotify.com/track/0Rwc46KVDHVdcn6fN5S4dc) | [KDYN](https://open.spotify.com/artist/3LzEsI7g7Siu0bVOBR0OLi), [Albzzy](https://open.spotify.com/artist/3u3M65YhSCRhnvV9hZ9uTZ) | [Thugs](https://open.spotify.com/album/6bnzNlV4NIrKZSkyPnADpE) | 3:56 |
 | 67 | [Euphoria](https://open.spotify.com/track/0GES2nyDZvfxIaJmFLmtvz) | [Samstone](https://open.spotify.com/artist/0akEEdGffTxMJpd0CMInhY) | [Euphoria](https://open.spotify.com/album/2OvdtkZEyFn4LQeCkgrSBh) | 3:15 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 | 69 | [Emergency](https://open.spotify.com/track/1J2vZvRwW6xjIlsZsydkCO) | [Jessica Audiffred](https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD), [Mila Falls](https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve) | [Emergency](https://open.spotify.com/album/6amlh9MV3y02Lj1cJtcoHE) | 2:49 |
 | 70 | [Wanna Freak](https://open.spotify.com/track/4ZXkasziPLirl2GCn3bh8Q) | [Cajama](https://open.spotify.com/artist/3YiP0AyiXuD61EE5xTaTbY) | [Wanna Freak](https://open.spotify.com/album/2JON2aHyeJoaBSIbbvfXrh) | 3:08 |
 
-Snapshot ID: `MTY2MjM2ODcyNywwMDAwMDAwMDVhZjIzNzc0YTM1ZmIwNmZkNWVhOTBhMmQyZjZiYzM5`
+Snapshot ID: `MTY2MjM2ODcyNywwMDAwMDAwMDI0OTg4MTkzMGRlYzI2ZTg2Njc5NzQ0YThkY2Y3ZWM5`

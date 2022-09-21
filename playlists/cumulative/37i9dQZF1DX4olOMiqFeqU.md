@@ -2,9 +2,9 @@
 
 ### [OPM Favorites](https://open.spotify.com/playlist/37i9dQZF1DX4olOMiqFeqU)
 
-> 100% Pinoy hits from your favorite artists!
+> 100% Pinoy hits from your favorite artists! Cover: Sarah Geronimo
 
-91 songs - 6 hr 42 min - [published](https://open.spotify.com/playlist/2aC5BPUM0MsoTBT2ZjgARC)
+92 songs - 6 hr 47 min - [published](https://open.spotify.com/playlist/2aC5BPUM0MsoTBT2ZjgARC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Binibini](https://open.spotify.com/track/2X5AFygz5SDYlXagyPw8kX) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Binibini](https://open.spotify.com/album/0oJLtle44OSumLZj1WDEf0) | 3:41 | 2022-04-19 |  |
 | [Buwan](https://open.spotify.com/track/5f9808hpiCpuNyqqdXmpF2) | [juan karlos](https://open.spotify.com/artist/0a4r2EnsevvHCukoJ1xFwJ) | [Buwan](https://open.spotify.com/album/2CF1utwLM2yXHMZhwFGVY1) | 5:43 | 2022-06-13 |  |
 | [Dating Tayo](https://open.spotify.com/track/267RumTt5KeLBGl2KWxBL0) | [TJ Monterde](https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0) | [TJ Monterde](https://open.spotify.com/album/01f1BJjxsFyuX580Fk8Gjk) | 3:59 | 2022-04-19 |  |
-| [Demonyo](https://open.spotify.com/track/1WXs4O7mBxXglHJPwYweHq) | [juan karlos](https://open.spotify.com/artist/0a4r2EnsevvHCukoJ1xFwJ) | [JKL](https://open.spotify.com/album/67vvDiZLNyjNQ1gU6El7GC) | 3:38 | 2022-04-19 |  |
+| [Demonyo](https://open.spotify.com/track/1WXs4O7mBxXglHJPwYweHq) | [juan karlos](https://open.spotify.com/artist/0a4r2EnsevvHCukoJ1xFwJ) | [JKL](https://open.spotify.com/album/67vvDiZLNyjNQ1gU6El7GC) | 3:38 | 2022-04-19 | 2022-09-21 |
 | [Di Na Muli](https://open.spotify.com/track/6JYIB3AEh1VtcqVcDDLC7p) | [The Itchyworms](https://open.spotify.com/artist/5cYJYBMg1n71v7cvthr1SO) | [Sid & Aya \(Not a Love Story\) \[Original Movie Soundtrack\]](https://open.spotify.com/album/3ZHDOgwnd6f26MyLuXCS3U) | 4:20 | 2022-06-13 |  |
 | [Give Me Your Forever](https://open.spotify.com/track/4mzP5mHkRvGxdhdGdAH7EJ) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Episode](https://open.spotify.com/album/7IW9irtFutjRET02MjOjdW) | 4:04 | 2022-04-19 |  |
 | [Halaga](https://open.spotify.com/track/6pz4tdLoIDJdnpXnisSDCK) | [Parokya Ni Edgar](https://open.spotify.com/artist/2XHTklRsNMOOQT56Zm3WS4) | [Gulong Itlog Gulong](https://open.spotify.com/album/58vdgBfvgzQFZ2VreSPGmU) | 5:52 | 2022-06-13 | 2022-06-20 |
@@ -79,6 +79,7 @@
 | [Same Ground](https://open.spotify.com/track/5iNGxZ1waiyMFylg4QAHk6) | [Kitchie Nadal](https://open.spotify.com/artist/4OjU5UP0GFWeniBC82sGBY) | [Kitchie Nadal](https://open.spotify.com/album/7beVKW0o7iRoM0eRT3kGfk) | 4:27 | 2022-04-19 | 2022-07-29 |
 | [Sana \- Single Version](https://open.spotify.com/track/1X4l4i472kW5ofFP8Xo0x0) | [I Belong to the Zoo](https://open.spotify.com/artist/7tKpXx21KVUOR6vvDs6xtg) | [Sana](https://open.spotify.com/album/4njOhY51h2CBqdAX4o41U1) | 4:37 | 2022-04-19 |  |
 | [Simpleng Tao](https://open.spotify.com/track/6bMSUhAmaAGTb5RTTuzWE3) | [Gloc 9](https://open.spotify.com/artist/7HJDRQAfEcFiARVehhM6qD) | [G9](https://open.spotify.com/album/4OS6H3C1zimI6QPXA9MXvG) | 4:04 | 2022-06-13 |  |
+| [So Slow](https://open.spotify.com/track/5tg4Rr2rArQJKiH2hcaJph) | [Freestyle](https://open.spotify.com/artist/0jarApAsbmiCkYhz0590mE) | [Freestyle](https://open.spotify.com/album/23urE9jm4wugYqmxANnDut) | 4:35 | 2022-09-20 |  |
 | [So Slow](https://open.spotify.com/track/1Xr4t4Ze6gfuzY1Yb4bP3z) | [Side A & Freestyle](https://open.spotify.com/artist/3JITwr6Xwkz8p6cm9leNUh) | [Back 2 Back](https://open.spotify.com/album/5m3Qj30Vp2BKZVGzBFxCyD) | 4:36 | 2022-06-13 | 2022-07-28 |
 | [Someday](https://open.spotify.com/track/1MkiRsYBkXbXvdiYvTTiQT) | [Nina](https://open.spotify.com/artist/2tQbSWgZLIB8MXMnsXVRro) | [Nina](https://open.spotify.com/album/1yx0lKqG8Z1J3IOxx4gbzs) | 3:34 | 2022-04-19 |  |
 | [Starting over Again](https://open.spotify.com/track/7DpfL3u92JKKTys5w7jfY7) | [Toni Gonzaga](https://open.spotify.com/artist/5BAyYwbv8OSfqeXMjPgWX6) | [Celestine](https://open.spotify.com/album/2VGSxW3eF2Ass0Qlp7g2PY) | 4:06 | 2022-04-19 | 2022-07-28 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lU51fgoMhF.md) - [plain]
 
 > Be cool with refreshing Tropical K\-Pop dance music! \(시원청량한 국내 댄스곡을 즐겨보세요!\) \(Cover: NAYEON\(나연\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,578 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,653 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lU51fgoMhF.md) - [plain]
 | 22 | [TFW \(That Feeling When\)](https://open.spotify.com/track/3bI34Ts8OMPfIpoPqzyZgM) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [MANIFESTO : DAY 1](https://open.spotify.com/album/5J8MNLLViH5zqM6VoGErz8) | 3:17 |
 | 23 | [Ring The Alarm](https://open.spotify.com/track/6jUq2EfNMW7SizzNVVGvhm) | [KARD](https://open.spotify.com/artist/2JhAlkmukNvarUpGhTFXUQ) | [KARD 5th Mini Album 'Re:'](https://open.spotify.com/album/7pXpC584OFCNWOFmmufGjl) | 3:05 |
 | 24 | [Red Flavor](https://open.spotify.com/track/7nKQ5WAcjnG48knyLuo8gO) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [The Red Summer \- Summer Mini Album](https://open.spotify.com/album/6OXg149IkmbgW7zfzbwgS2) | 3:11 |
-| 25 | [La Vie en Rose](https://open.spotify.com/track/3WfaJhCL4p2JbdffJjV6Va) | [IZ\*ONE](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) | [COLOR\*IZ](https://open.spotify.com/album/5Fl13rfH2DRRTo6OV4ecJY) | 3:38 |
-| 26 | [Sparkling](https://open.spotify.com/track/6TzU11huC8Hz4FVEsvCeE7) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Bare&Rare, Pt\. 1](https://open.spotify.com/album/0fgLDYoqdQw5bhzPFWvclR) | 3:06 |
-| 27 | [Gashina](https://open.spotify.com/track/0jFHMDRXxKaREor3hBEEST) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [SUNMI SPECIAL EDITION \[Gashina\]](https://open.spotify.com/album/3TSX6AxLdCP4E5o3F5jCdN) | 3:00 |
+| 25 | [Gashina](https://open.spotify.com/track/0jFHMDRXxKaREor3hBEEST) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [SUNMI SPECIAL EDITION \[Gashina\]](https://open.spotify.com/album/3TSX6AxLdCP4E5o3F5jCdN) | 3:00 |
+| 26 | [La Vie en Rose](https://open.spotify.com/track/3WfaJhCL4p2JbdffJjV6Va) | [IZ\*ONE](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) | [COLOR\*IZ](https://open.spotify.com/album/5Fl13rfH2DRRTo6OV4ecJY) | 3:38 |
+| 27 | [Sparkling](https://open.spotify.com/track/6TzU11huC8Hz4FVEsvCeE7) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Bare&Rare, Pt\. 1](https://open.spotify.com/album/0fgLDYoqdQw5bhzPFWvclR) | 3:06 |
 | 28 | [Flip That](https://open.spotify.com/track/7cHXwaBnIBFUPuP376z07E) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [Summer Special \[Flip That\]](https://open.spotify.com/album/7odJeHxR62PWP4Cms4GpwB) | 2:57 |
 | 29 | [Rollin'](https://open.spotify.com/track/6SQUopvuZyrWYjYayxxSXl) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [Rollin'](https://open.spotify.com/album/3FuZ0bCYhMcoex6KN0F360) | 3:17 |
 | 30 | [Bet You Wanna \(feat\. Cardi B\)](https://open.spotify.com/track/7iAgNZdotu40NwtoIWJHFe) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [THE ALBUM](https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N) | 2:41 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lU51fgoMhF.md) - [plain]
 | 54 | [LALALAY 날라리](https://open.spotify.com/track/0wqdresTib8pJkrpKK1nmF) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [LALALAY 날라리](https://open.spotify.com/album/7qmsar8kXnwi8k6OCTNoj5) | 2:54 |
 | 55 | [As You Wish](https://open.spotify.com/track/42zMiF3EFBg5CsYbgKdhj1) | [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [As You Wish](https://open.spotify.com/album/5QsZIQcV5BOX9Tzj3IPVyo) | 3:15 |
 | 56 | [I Don't Miss You](https://open.spotify.com/track/0kq2SMYMcYk6dl2Z6k03yN) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [I Don't Miss You](https://open.spotify.com/album/0MdZdkVzAdqv9QcBqnWmes) | 2:52 |
-| 57 | [Why](https://open.spotify.com/track/4eiPbjcTEJDQcsv7WV0vfD) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Why \- The 2nd Mini Album](https://open.spotify.com/album/1ukBQWhQwWKqTGgs0YzRzU) | 3:27 |
-| 58 | [ISLAND](https://open.spotify.com/track/7imQKCdSF67V65uMplJMy1) | [YOUHA](https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan) | [ISLAND](https://open.spotify.com/album/252HrrsALUd5ysKCJuRCur) | 3:17 |
+| 57 | [ISLAND](https://open.spotify.com/track/7imQKCdSF67V65uMplJMy1) | [YOUHA](https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan) | [ISLAND](https://open.spotify.com/album/252HrrsALUd5ysKCJuRCur) | 3:17 |
+| 58 | [Why](https://open.spotify.com/track/4eiPbjcTEJDQcsv7WV0vfD) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Why \- The 2nd Mini Album](https://open.spotify.com/album/1ukBQWhQwWKqTGgs0YzRzU) | 3:27 |
 | 59 | [SOS](https://open.spotify.com/track/0HqzhHq24yCgB9gz5dVFn8) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Taste of Love](https://open.spotify.com/album/00vb6sViDbJLmLLchfbRh4) | 2:53 |
 | 60 | [Fever](https://open.spotify.com/track/7qDbAc6xMW07T7yyMnQqS8) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [GFRIEND The 7th Mini Album \`FEVER SEASON\`](https://open.spotify.com/album/653wpLLPgri15mVNwJOTVR) | 3:34 |
 | 61 | [A Song Written Easily](https://open.spotify.com/track/5KqOPtE8nhYtgcXzrIt6N0) | [ONEUS](https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9) | [IN ITS TIME](https://open.spotify.com/album/3uMb3hF3aAlK7wPU4w8o9D) | 3:33 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lU51fgoMhF.md) - [plain]
 | 74 | [Waka Boom \(My Way\) \(feat\. Lee Young Ji\)](https://open.spotify.com/track/7ffdSBhoPgPcyVn2hNmiDz) | [Hyolyn](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ), [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) | [<Queendom2> FINAL](https://open.spotify.com/album/5ZorEUDqewnEygf4FAOjhm) | 4:33 |
 | 75 | [Boogie Woogie](https://open.spotify.com/track/354txxGRPRqIHqPcSvibQP) | [CRAVITY](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) | [Boogie Woogie](https://open.spotify.com/album/0uK36l0cCAoyopQr6vVJEs) | 3:10 |
 | 76 | [Bon voyage](https://open.spotify.com/track/4X95Ecd1elHxTccGOko02c) | [YooA](https://open.spotify.com/artist/4ur1jCwyNlhgd0viJkOtcQ) | [Bon Voyage](https://open.spotify.com/album/2dFsfVOAwvmRV8hOBdssiI) | 3:39 |
-| 77 | [Dynamite \- Acoustic Remix](https://open.spotify.com/track/083PvB3ID4h3jiGJ1GbbPA) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Dynamite \(DayTime Version\)](https://open.spotify.com/album/1Yo63a5AzPMyHiYMKYIrld) | 3:17 |
-| 78 | [RED SUN \(With LOTTE DEPARTMENT STORE\)](https://open.spotify.com/track/3HIAlVUMAsg2WzSvxETFbi) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [RED SUN \(With LOTTE DEPARTMENT STORE\)](https://open.spotify.com/album/5NdzPZhyIA3JaEpSqq9JM3) | 3:23 |
+| 77 | [RED SUN \(With LOTTE DEPARTMENT STORE\)](https://open.spotify.com/track/3HIAlVUMAsg2WzSvxETFbi) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [RED SUN \(With LOTTE DEPARTMENT STORE\)](https://open.spotify.com/album/5NdzPZhyIA3JaEpSqq9JM3) | 3:23 |
+| 78 | [Dynamite \- Acoustic Remix](https://open.spotify.com/track/083PvB3ID4h3jiGJ1GbbPA) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Dynamite \(DayTime Version\)](https://open.spotify.com/album/1Yo63a5AzPMyHiYMKYIrld) | 3:17 |
 | 79 | [Parade](https://open.spotify.com/track/2lsXJ7F3QYJrQ9cQ9Icx1n) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [The Story](https://open.spotify.com/album/4tk1TxAS90si1va7jPWqGg) | 3:02 |
 | 80 | [Pool Party\(Rollin’ right now\)](https://open.spotify.com/track/4RsGFsrL1NeUlKv6Zourbp) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [<Queendom2> Part.2\-2](https://open.spotify.com/album/5ftR2nskDFsLbszHNIiYJp) | 4:00 |
 | 81 | [SUMMERIDE](https://open.spotify.com/track/4M9NbNJnOpVCN5jbNln2TJ) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [SUMMERIDE](https://open.spotify.com/album/5mZSzANMkDsJlbTTxugNNo) | 3:38 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lU51fgoMhF.md) - [plain]
 | 93 | [NOT THE END](https://open.spotify.com/track/3VSA53dOtVkhwyJ0nsAnRt) | [Highlight](https://open.spotify.com/artist/3T0fMfxYBU3q9oAUAdPIsr) | [The Blowing](https://open.spotify.com/album/12bPrSSJZ1qysNAGEFGzGC) | 3:38 |
 | 94 | [Your Song](https://open.spotify.com/track/59yoeKUIiRIFNxlA13AlDt) | [ONF](https://open.spotify.com/artist/0eEhOgZ2x6kv8kLz77WO7b) | [SPECIAL ALBUM \[Storage of ONF\]](https://open.spotify.com/album/4DMNgwsMFZzefb1HBAmHwG) | 3:40 |
 | 95 | [Promise U](https://open.spotify.com/track/3S0yfEkrXLpHjcizhj97nf) | [Solar](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD), [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) | [PROMISE U \(REVIBE Vol.1\)](https://open.spotify.com/album/4eJdKwHH9rb3dNbtIsBgjV) | 3:27 |
-| 96 | [Thank You](https://open.spotify.com/track/08rg9OloHTHRsk9evNPpnd) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [THANK YOU](https://open.spotify.com/album/5RaqvFt71ro3Y8nngoucv6) | 3:15 |
-| 97 | [Shining Love Song](https://open.spotify.com/track/0DFSFBB4faitgBed2IJ4O5) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [Shining Love Song](https://open.spotify.com/album/7n2p500IY7UeU9NlgFFeV0) | 3:11 |
+| 96 | [Shining Love Song](https://open.spotify.com/track/0DFSFBB4faitgBed2IJ4O5) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [Shining Love Song](https://open.spotify.com/album/7n2p500IY7UeU9NlgFFeV0) | 3:11 |
+| 97 | [Thank You](https://open.spotify.com/track/08rg9OloHTHRsk9evNPpnd) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [THANK YOU](https://open.spotify.com/album/5RaqvFt71ro3Y8nngoucv6) | 3:15 |
 | 98 | [OCEAN VIEW \(Feat.CHANYEOL\)](https://open.spotify.com/track/5f8pHuUR6958PQKIdLibdB) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una), [CHANYEOL](https://open.spotify.com/artist/6jV25rzTKQ2zMgrqHha1V5) | [OCEAN VIEW](https://open.spotify.com/album/0w40fqHApJ1JrxddGs9wcF) | 3:07 |
 | 99 | [Reference](https://open.spotify.com/track/2PmLP4DNUPJC98L78mrkal) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Room Vol.1](https://open.spotify.com/album/2cSXk0XqGoen6IvmlJmJJt) | 3:41 |
 | 100 | [Summertime \(feat\. Ashley Alisha\)](https://open.spotify.com/track/7Iik4joMVkfqrMMCDwFe3W) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Ashley Alisha](https://open.spotify.com/artist/63P6hjn73jNbnEFT0gKWKk) | [Summertime](https://open.spotify.com/album/0r9E2hgF8kZ4k9zDk72CbK) | 3:01 |
 
-Snapshot ID: `MTY2MjM1OTQ5MSwwMDAwMDAwMGI3MGRlODUxNmEyOTAxZmFhNGM1MzQ5ZDJhYTkxNjI5`
+Snapshot ID: `MTY2MjM1OTQ5MSwwMDAwMDAwMDc4NTk3YTZmZWNlYTc4ZTA3YjBiYjczNDMzZTBhOTVi`

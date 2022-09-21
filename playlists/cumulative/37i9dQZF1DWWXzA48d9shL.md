@@ -4,7 +4,7 @@
 
 > New CORPSE ft\. Scarlxrd & Kordhell
 
-303 songs - 11 hr 57 min - [published](https://open.spotify.com/playlist/3WXmsauxjmiMQXOcPd40BY)
+304 songs - 11 hr 59 min - [published](https://open.spotify.com/playlist/3WXmsauxjmiMQXOcPd40BY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [10 FOOT TALL](https://open.spotify.com/track/3hyxHwYJOqSHGRDxwO7OUm) | [Lil Darkie](https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U), [BVDLVD](https://open.spotify.com/artist/1BhfikyrtSTch1r9upYGlS) | [10 FOOT TALL](https://open.spotify.com/album/4yr5Yn1U79i2HikJSA0lrU) | 2:46 | 2022-04-01 |  |
 | [1000 Rounds](https://open.spotify.com/track/5o7ZDvfOry1MNhNLBOJulo) | [Pouya](https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY), [Ghostemane](https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW) | [1000 Rounds](https://open.spotify.com/album/3vdc9dHQ1RqIMvxDghrfBf) | 2:43 | 2022-05-16 | 2022-07-27 |
 | [100WAYS](https://open.spotify.com/track/7GyAyHMlLXAwY7gwhgsEkz) | [Ethan Ross](https://open.spotify.com/artist/59PupD35uDhgTCVfuV3GtN), [Ak3k](https://open.spotify.com/artist/0gPRM04U6TYVD5jX13XIpE) | [100WAYS](https://open.spotify.com/album/4b64Lry6sF3Pp3uRnSIkQe) | 2:20 | 2022-04-08 | 2022-04-21 |
+| [2077](https://open.spotify.com/track/6kRxT8sggyNJ6mYoSKTwCh) | [do not resurrect](https://open.spotify.com/artist/0QRp7CyL31iErUn6cX0YU3) | [2077](https://open.spotify.com/album/4MWsQHhgiMXbH3KkffTd7i) | 2:15 | 2022-09-20 |  |
 | [2nd Hand](https://open.spotify.com/track/4yORBk6ZyYsJpnJchyZevc) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [KILL YOURSELF Part XII: The Dark Glacier Saga](https://open.spotify.com/album/76f9HU4YP42WHFoyo9JWPa) | 2:03 | 2021-09-17 | 2022-05-17 |
 | [5 Ways](https://open.spotify.com/track/3yjucIWxFPn6cA0VWorAgM) | [Shakewell](https://open.spotify.com/artist/1w7GLktHE8w0aEhhaZ0QKB) | [5 Ways](https://open.spotify.com/album/1afLHpWGBzbRaGX32Qye3S) | 1:50 | 2021-09-17 | 2022-06-04 |
 | [A Lot](https://open.spotify.com/track/461qq5XnmwjXTt1sBgI4lX) | [Night Lovell](https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO), [Lindasson](https://open.spotify.com/artist/6DXbnRlv1UgusrKOxc39j7), [FTG Reggie](https://open.spotify.com/artist/10ga9ZMdxwRb1zML85jUiM) | [A Lot](https://open.spotify.com/album/2AdoLUPHICCss37Ip7OUOl) | 2:21 | 2021-09-17 |  |

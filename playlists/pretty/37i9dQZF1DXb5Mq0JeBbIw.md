@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5Mq0JeBbIw.md) - [plain]
 
 > Soft songs that gives you a gentle start of the day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,687 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,728 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,13 +33,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5Mq0JeBbIw.md) - [plain]
 | 23 | [Free](https://open.spotify.com/track/3hOWsTM9OpI6c72iQHP4EB) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Free](https://open.spotify.com/album/5Gl9RkZgyNNKfcL8zXmxlB) | 3:19 |
 | 24 | [please](https://open.spotify.com/track/0TzeZppPwhEhySYaNRulr9) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp), [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [brent](https://open.spotify.com/album/16mjtcKPxpQ4ajFHmJ0hJC) | 3:39 |
 | 25 | [Can I Be Him \- Acoustic Live Version](https://open.spotify.com/track/0iVAPfPW2NkfxCqu0a1UBl) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Can I Be Him \(Acoustic Live Version\)](https://open.spotify.com/album/2lc79WJoOQ3pJ0bDRbOdah) | 5:05 |
-| 26 | [Rockabye \- Acoustic Version](https://open.spotify.com/track/5nMRpGfqQ0tb1TMbqBVK2J) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [\#Acoustic](https://open.spotify.com/album/6NIj5YBKDtfqUJ5qDy9PbI) | 2:37 |
-| 27 | [Let It Be](https://open.spotify.com/track/0SL50BWlNr0RThIgL5swJK) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [Let It Be](https://open.spotify.com/album/3ZPcwX7RlFXDY5DvbuBYhk) | 2:28 |
+| 26 | [Let It Be](https://open.spotify.com/track/0SL50BWlNr0RThIgL5swJK) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [Let It Be](https://open.spotify.com/album/3ZPcwX7RlFXDY5DvbuBYhk) | 2:28 |
+| 27 | [Rockabye \- Acoustic Version](https://open.spotify.com/track/5nMRpGfqQ0tb1TMbqBVK2J) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [\#Acoustic](https://open.spotify.com/album/6NIj5YBKDtfqUJ5qDy9PbI) | 2:37 |
 | 28 | [Such Great Heights](https://open.spotify.com/track/6dDxgfvM8pJm7AzmLZB1nN) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Around the Well](https://open.spotify.com/album/5tOzXq44rU4yCCVY94f6m7) | 4:11 |
 | 29 | [Bad Habits \- Acoustic Version](https://open.spotify.com/track/0IkK4SEryuCtbQjm5LRLMZ) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Bad Habits \(Acoustic Version\)](https://open.spotify.com/album/6m1jYE77JZX8aJpO5ei2V7) | 3:52 |
 | 30 | [Bigger Heart \(Acoustic\)](https://open.spotify.com/track/0bUm2G8Iz9oWd6NvGyNWOz) | [Crying Day Care Choir](https://open.spotify.com/artist/2wA059Agr6FoUUJTD23KLl) | [Bigger Heart \(Acoustic\)](https://open.spotify.com/album/7ceIMQGqG1juOgQj4PLGXc) | 4:48 |
-| 31 | [Summertime Sadness \(Acoustic Cover\) feat\. Keelan Donovan](https://open.spotify.com/track/6TqDrmjUDqQo4JiF1apQnL) | [Megan Davies](https://open.spotify.com/artist/09kCHZp9iFO2FJNb9lR6G5), [Keelan Donovan](https://open.spotify.com/artist/4dOtX7sKkyguhRj1Gkvvl7) | [Summertime Sadness \(Acoustic Cover\) feat\. Keelan Donovan](https://open.spotify.com/album/0NXkGd9M9rDxCHTGVvzC66) | 3:51 |
-| 32 | [More & More](https://open.spotify.com/track/5oYMLJBYRv0I3D5GZEqODA) | [Finding Hope](https://open.spotify.com/artist/0QGDb8TBWIT06W4BoyAggg) | [More & More](https://open.spotify.com/album/5ASbLWy4g3WyCCuxvnJRvD) | 3:31 |
+| 31 | [More & More](https://open.spotify.com/track/5oYMLJBYRv0I3D5GZEqODA) | [Finding Hope](https://open.spotify.com/artist/0QGDb8TBWIT06W4BoyAggg) | [More & More](https://open.spotify.com/album/5ASbLWy4g3WyCCuxvnJRvD) | 3:31 |
+| 32 | [Summertime Sadness \(Acoustic Cover\) feat\. Keelan Donovan](https://open.spotify.com/track/6TqDrmjUDqQo4JiF1apQnL) | [Megan Davies](https://open.spotify.com/artist/09kCHZp9iFO2FJNb9lR6G5), [Keelan Donovan](https://open.spotify.com/artist/4dOtX7sKkyguhRj1Gkvvl7) | [Summertime Sadness \(Acoustic Cover\) feat\. Keelan Donovan](https://open.spotify.com/album/0NXkGd9M9rDxCHTGVvzC66) | 3:51 |
 | 33 | [Dancing On My Own \- Acoustic](https://open.spotify.com/track/7tOAtB2F50KXEkw86frba6) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Dancing On My Own \(Acoustic\)](https://open.spotify.com/album/7hsrklBsKFmOtlNkdNEe2o) | 4:13 |
 | 34 | [Let It Go](https://open.spotify.com/track/6r8OnTtDrhKBIIYgzxrnZ1) | [Colin & Caroline](https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm) | [Let It Go](https://open.spotify.com/album/0ZRoNXFBWk10Rj0PO5PSPG) | 3:14 |
 | 35 | [Easy Tiger](https://open.spotify.com/track/4pHbu3jiGGhJn5shkFPp5Y) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [A Few More Hours at YYZ](https://open.spotify.com/album/4Ymsz92GH8H1fS8TLN7HJ0) | 3:16 |
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5Mq0JeBbIw.md) - [plain]
 | 81 | [Hold On To Happiness](https://open.spotify.com/track/2GpHwqp9mNHyma8C3HliD8) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Hold On To Happiness](https://open.spotify.com/album/69cdPGw9UxCq2aoO4yiEjZ) | 3:37 |
 | 82 | [Me Without You \- Acoustic](https://open.spotify.com/track/49rkYEtnlibPEbs4U9Utxw) | [Mads Langer](https://open.spotify.com/artist/028xhPwqtWva4J0MkFHY2x) | [Me Without You](https://open.spotify.com/album/4LHnPUfu5s8zcIorVvSfFD) | 3:11 |
 | 83 | [I don't mind if you don't mind \(draft\)](https://open.spotify.com/track/1LjSLMjMAZj6zvW6XLLzzr) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [In Hindsight](https://open.spotify.com/album/323C2iF45gSw52R7c0aSk0) | 2:18 |
-| 84 | [Days That End in Y](https://open.spotify.com/track/5G11lGkWAP4AqFo77t02lC) | [Gomey](https://open.spotify.com/artist/5ibWbhA0IkPT3xCN0YicRL), [Xuitcasecity](https://open.spotify.com/artist/6YxrfNCKBcQlbITpmDLErL) | [Days That End in Y](https://open.spotify.com/album/6m99yAstyKD4UgK3ASjMg2) | 2:22 |
-| 85 | [Bizarre Love Triangle \- Acoustic](https://open.spotify.com/track/0PGDrKpe6yHPNRP1eSvCFy) | [The Macarons Project](https://open.spotify.com/artist/61VZakASLH5PweMQzF7R8r) | [Bizarre Love Triangle \(Acoustic\)](https://open.spotify.com/album/3a3gzYfRlPhOdTpw8CO4Rb) | 2:11 |
+| 84 | [Bizarre Love Triangle \- Acoustic](https://open.spotify.com/track/0PGDrKpe6yHPNRP1eSvCFy) | [The Macarons Project](https://open.spotify.com/artist/61VZakASLH5PweMQzF7R8r) | [Bizarre Love Triangle \(Acoustic\)](https://open.spotify.com/album/3a3gzYfRlPhOdTpw8CO4Rb) | 2:11 |
+| 85 | [Days That End in Y](https://open.spotify.com/track/5G11lGkWAP4AqFo77t02lC) | [Gomey](https://open.spotify.com/artist/5ibWbhA0IkPT3xCN0YicRL), [Xuitcasecity](https://open.spotify.com/artist/6YxrfNCKBcQlbITpmDLErL) | [Days That End in Y](https://open.spotify.com/album/6m99yAstyKD4UgK3ASjMg2) | 2:22 |
 | 86 | [Luck Pusher](https://open.spotify.com/track/56IGNuGmEjWZDtih5N6i3y) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Luck Pusher](https://open.spotify.com/album/2bW59wdPku3mlEZWg8xsip) | 2:43 |
 | 87 | [Be Here Now](https://open.spotify.com/track/1zH6hFHwovpSxn0FmVpX6Q) | [Gustavo Bertoni](https://open.spotify.com/artist/3SBeVI3ELQKQTEDoQ9ztq9) | [Where Light Pours In](https://open.spotify.com/album/7EEAwQmw3KwyoJoQ88fVnF) | 3:39 |
 | 88 | [Wonderwall](https://open.spotify.com/track/1qGoOiTVjCJ3iEKkxqpuvX) | [Ryan Innes](https://open.spotify.com/artist/0vBolemsRxQhb3TFeM4C79) | [Wonderwall](https://open.spotify.com/album/3mkgZ2atNq2kp0nHphDhAG) | 3:56 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5Mq0JeBbIw.md) - [plain]
 | 99 | [With Or Without You \(Acoustic\)](https://open.spotify.com/track/1691RkrJC65WAaLJhJryKS) | [Landon Austin](https://open.spotify.com/artist/2WROyFfIOmKtRopsTrIL52), [Colin & Caroline](https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm) | [With Or Without You \(Acoustic\)](https://open.spotify.com/album/1PSL58r4ZGDdNtJ2MiXclC) | 3:26 |
 | 100 | [I'm on Fire](https://open.spotify.com/track/4R6mG0Y3xHrasfjsOx5LE7) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [I'm on Fire](https://open.spotify.com/album/6EQMRKHTgh1ajs7NChXIkg) | 2:20 |
 
-Snapshot ID: `MTY2MzMyOTYwMCwwMDAwMDAwMGNkYjJjNGZhNWI2ODk1NWY5OTA0NDZjM2U4YjA4NGRi`
+Snapshot ID: `MTY2MzMyOTYwMCwwMDAwMDAwMDViNWI0NDU1MjVjNTlmOGI2MTk2ODA2NGE1ZGIxMzYw`

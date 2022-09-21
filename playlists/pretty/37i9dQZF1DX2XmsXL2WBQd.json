@@ -1,12 +1,12 @@
 {
   "description": "Anthems from the early days of recorded rap music.",
-  "num_followers": 320017,
+  "num_followers": 320110,
   "original_name": "I Love My '80s Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY1MjA1NCwwMDAwMDAwMGZhMTI5OGE2YzI2YmM3NTg3MjU3MGYzZTljMTIxNGNl",
+  "snapshot_id": "MTY2MjY1MjA1NCwwMDAwMDAwMDEyZjU2YjZjMzQ4ODIzYmQ1YTVmNzU3MDc0M2ZkNzQw",
   "tracks": [
     {
       "added_at": "2022-09-08 15:47:34",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2022-09-08 15:47:34",
       "album": {
-        "name": "The Album",
-        "url": "https://open.spotify.com/album/10kEW14CpfmiAkXnE5Ic3K"
-      },
-      "artists": [
-        {
-          "name": "Mantronix",
-          "url": "https://open.spotify.com/artist/0grZF2s6ADKiTGwf8EVZEY"
-        }
-      ],
-      "duration_ms": 326920,
-      "name": "Bassline",
-      "url": "https://open.spotify.com/track/4iuO0dinw5Bm18pXbZok8w"
-    },
-    {
-      "added_at": "2022-09-08 15:47:34",
-      "album": {
         "name": "The Very Best Of MC Lyte",
         "url": "https://open.spotify.com/album/7jH3YOFDeqA9kN4P4kHtx4"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 180093,
       "name": "Cha Cha Cha",
       "url": "https://open.spotify.com/track/1McWPMA7NVuHh0bTm7ljRA"
+    },
+    {
+      "added_at": "2022-09-08 15:47:34",
+      "album": {
+        "name": "The Album",
+        "url": "https://open.spotify.com/album/10kEW14CpfmiAkXnE5Ic3K"
+      },
+      "artists": [
+        {
+          "name": "Mantronix",
+          "url": "https://open.spotify.com/artist/0grZF2s6ADKiTGwf8EVZEY"
+        }
+      ],
+      "duration_ms": 326920,
+      "name": "Bassline",
+      "url": "https://open.spotify.com/track/4iuO0dinw5Bm18pXbZok8w"
     },
     {
       "added_at": "2022-09-08 15:47:34",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2022-09-08 15:47:34",
       "album": {
-        "name": "Doin' Damage",
-        "url": "https://open.spotify.com/album/2A8MPW996QbdYK3CNDmcwK"
-      },
-      "artists": [
-        {
-          "name": "JVC Force",
-          "url": "https://open.spotify.com/artist/2HtbGWgFbeFudyoFwc2wHw"
-        }
-      ],
-      "duration_ms": 359693,
-      "name": "Strong Island",
-      "url": "https://open.spotify.com/track/4gL6J18mb93kNay5kuAUFR"
-    },
-    {
-      "added_at": "2022-09-08 15:47:34",
-      "album": {
         "name": "Giant Single: Profile Records Rap Anthology",
         "url": "https://open.spotify.com/album/13JxcY9hKf4t6BGkrNbSwr"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 280866,
       "name": "Genius Rap - 7\" Single Version",
       "url": "https://open.spotify.com/track/71V59P1ap285AB9TNJdmbH"
+    },
+    {
+      "added_at": "2022-09-08 15:47:34",
+      "album": {
+        "name": "Doin' Damage",
+        "url": "https://open.spotify.com/album/2A8MPW996QbdYK3CNDmcwK"
+      },
+      "artists": [
+        {
+          "name": "JVC Force",
+          "url": "https://open.spotify.com/artist/2HtbGWgFbeFudyoFwc2wHw"
+        }
+      ],
+      "duration_ms": 359693,
+      "name": "Strong Island",
+      "url": "https://open.spotify.com/track/4gL6J18mb93kNay5kuAUFR"
     }
   ],
   "unique_name": "I Love My '80s Hip-Hop",

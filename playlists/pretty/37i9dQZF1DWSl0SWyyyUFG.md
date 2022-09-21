@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSl0SWyyyUFG.md) - [plain]
 
 > Recordando a los ídolos de la música de banda\. En portada: Cuisillos de Arturo Macías
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,980 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,166 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSl0SWyyyUFG.md) - [plain]
 | 41 | [Recuerdos](https://open.spotify.com/track/2QE8R10kBgZkgosYsrChT7) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Recuerdos y algo más](https://open.spotify.com/album/5fh8Fm5Xja28dihBZj0Sxg) | 3:28 |
 | 42 | [La Calabaza](https://open.spotify.com/track/2xEiDaMsdfYhkTeP6J02vm) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Más Adelante](https://open.spotify.com/album/2kjKAnGYRXKveSja6gSOEB) | 3:22 |
 | 43 | [Qué Puedo Hacer por Ti](https://open.spotify.com/track/0QqFvqQ9Lujnc7QaYBEw09) | [Julio Preciado Y Su Banda Perla Del Pacifico](https://open.spotify.com/artist/1skKkfQtM2dprTwRld9p3p) | [16 Bandazos de Oro](https://open.spotify.com/album/3vvyIFJn2hM6I2L5A2WdWg) | 3:27 |
-| 44 | [Misa De Cuerpo Presente](https://open.spotify.com/track/72gWYoN7Wta4spLHOCI6Sd) | [Banda Movil](https://open.spotify.com/artist/7fU0B28ySGWjYCNKZD8YIK) | [Misa De Cuerpo Presente](https://open.spotify.com/album/2WR7Uv5bWy96xBlAfXNoFU) | 2:48 |
-| 45 | [Mitad Tú, Mitad Yo](https://open.spotify.com/track/6WeCdQhiHkPqCS5omDgylH) | [Banda Pachuco](https://open.spotify.com/artist/70IN0LkJ8uOb9MxQ7Tatzb) | [Tesoros De Coleccion](https://open.spotify.com/album/2X5Zbdd3iO6mBcf0VcVTAT) | 2:55 |
+| 44 | [Mitad Tú, Mitad Yo](https://open.spotify.com/track/6WeCdQhiHkPqCS5omDgylH) | [Banda Pachuco](https://open.spotify.com/artist/70IN0LkJ8uOb9MxQ7Tatzb) | [Tesoros De Coleccion](https://open.spotify.com/album/2X5Zbdd3iO6mBcf0VcVTAT) | 2:55 |
+| 45 | [Misa De Cuerpo Presente](https://open.spotify.com/track/72gWYoN7Wta4spLHOCI6Sd) | [Banda Movil](https://open.spotify.com/artist/7fU0B28ySGWjYCNKZD8YIK) | [Misa De Cuerpo Presente](https://open.spotify.com/album/2WR7Uv5bWy96xBlAfXNoFU) | 2:48 |
 | 46 | [Un indio quiere llorar](https://open.spotify.com/track/2EiI77Zus1qAINPOxFTcyK) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Sentimientos](https://open.spotify.com/album/0W25izQQWhI54q5Dvs2PkO) | 2:49 |
 | 47 | [El Teterete](https://open.spotify.com/track/505QALTxkpzRI7FY4kuS2J) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [La Estrella de Los Bailes](https://open.spotify.com/album/5olkVTeTitf7wFn0xpvzaU) | 2:57 |
 | 48 | [Al Mismo Nivel](https://open.spotify.com/track/1evKB90fOuaj6oMSBESdhK) | [Banda La Costeña](https://open.spotify.com/artist/1r8tUG15NMJEj1j5NynES7) | [Una Aventura](https://open.spotify.com/album/6XTRRRYyMfJZHqOcy3Hanu) | 3:05 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSl0SWyyyUFG.md) - [plain]
 | 60 | [Aventurero Y Loco](https://open.spotify.com/track/5lF5XniaT9e3EJMnDmSUsA) | [Banda La Pirinola](https://open.spotify.com/artist/5PTt3pmQAnQwYOBVEAFU0Y) | [Banda La Pirinola](https://open.spotify.com/album/2B1eN4sLg3mjruRkO0X5G5) | 3:27 |
 | 61 | [Isla Virgen](https://open.spotify.com/track/64H6jtyJEzjXV1hqN1w3B1) | [Banda Brava](https://open.spotify.com/artist/7r6kHYuxetBFp0EEKnLHmk) | [Enamorado De Ti](https://open.spotify.com/album/0Rt8zwYRxLwfhLqvmQZdzR) | 3:00 |
 | 62 | [MI Vida Sin Ti](https://open.spotify.com/track/7r7tEGlRGeeGsprdBIfBru) | [Banda Pelillos](https://open.spotify.com/artist/4BLePIKRIxR45iGnam62DE) | [Evolution](https://open.spotify.com/album/0bSO97EWemxZI9dyzq5IS3) | 4:12 |
-| 63 | [Caliente Caliente](https://open.spotify.com/track/3wERA0j49lmCJkguFtHWUJ) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Caliente, Caliente](https://open.spotify.com/album/6tTgXH5EBY6FFV37ATLoUR) | 3:14 |
-| 64 | [Un loco solitario](https://open.spotify.com/track/3UGGMTCBHy16YGzLbR3SeA) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Trayectoria](https://open.spotify.com/album/4HEcnwhFZEvZrOZjJr4hFe) | 3:11 |
+| 63 | [Un loco solitario](https://open.spotify.com/track/3UGGMTCBHy16YGzLbR3SeA) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Trayectoria](https://open.spotify.com/album/4HEcnwhFZEvZrOZjJr4hFe) | 3:11 |
+| 64 | [Caliente Caliente](https://open.spotify.com/track/3wERA0j49lmCJkguFtHWUJ) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Caliente, Caliente](https://open.spotify.com/album/6tTgXH5EBY6FFV37ATLoUR) | 3:14 |
 | 65 | [Solo Tú](https://open.spotify.com/track/7cA72Gk1dqN6w5j0azVHYR) | [Banda Fresa Roja](https://open.spotify.com/artist/5k6geKS4IAc3ay7YuDM7Y0) | [Gold Collection, Vol.1](https://open.spotify.com/album/7bMQ7sSTPUqNPMZhX0kG9O) | 3:41 |
 | 66 | [Al Mismo Nivel](https://open.spotify.com/track/3j4JOeXU20JrrYGHXCr1EY) | [Banda Arkangel R\-15](https://open.spotify.com/artist/2W5zpA1UnG5QaA3p3668xE) | [Tesoros De Coleccion](https://open.spotify.com/album/3COLgk4Sk5EwFVXm4P6Mo3) | 2:22 |
 | 67 | [El Bigote](https://open.spotify.com/track/3ujVqENYM0ujQY5jgKLQb9) | [Banda R\-15](https://open.spotify.com/artist/5l0ZjUz8rAAFVm616in8YR) | [15 Grandes Exitos](https://open.spotify.com/album/1f0ASfbeUcjB2vEI8PNyuC) | 2:51 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSl0SWyyyUFG.md) - [plain]
 | 99 | [Y.M.C.A](https://open.spotify.com/track/2qhoPqOEdy3fFxTw9IlOk4) | [Banda con Angel](https://open.spotify.com/artist/4st0uAeIFkWMwrC5dzCmW0) | [Volvere](https://open.spotify.com/album/57eKtbyg848bTblG5xwWky) | 3:43 |
 | 100 | [No Me Dejes Tan Solo](https://open.spotify.com/track/5seb18FFKQKhkZxVrrVYNf) | [La Incontenible Banda Astilleros](https://open.spotify.com/artist/7EQ9iuyTpUsFKqHP1w27nG) | [Ladrón de Amor](https://open.spotify.com/album/270QucDspeOgBEAPMUmj3p) | 3:06 |
 
-Snapshot ID: `MTYzNTI1NjI2NCwwMDAwMDAwMDkyYTgyMWNmN2JlYzJkM2I4OThlZWNlYzE0ZjFhM2Y3`
+Snapshot ID: `MTYzNTI1NjI2NCwwMDAwMDAwMDQ1Zjg4NzAwNWFlZGRhODJhMTkxMWM3ZDUwZGU2NDE4`

@@ -2,9 +2,9 @@
 
 ### [Cool K'IDs Rock](https://open.spotify.com/playlist/37i9dQZF1DX2SFBzpAPi7n)
 
-> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: J\-JUN\(김재중\)\) \(핫한 국내 록음악을 만나보세요!\)
+> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: Peppertones\(페퍼톤스\)\) \(핫한 국내 록음악을 만나보세요!\)
 
-391 songs - 1 day 0 hr 5 min - [published](https://open.spotify.com/playlist/6LGjkxX0dG6eEuNv9EUWQY)
+392 songs - 1 day 0 hr 9 min - [published](https://open.spotify.com/playlist/6LGjkxX0dG6eEuNv9EUWQY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [End of Spring](https://open.spotify.com/track/6iYlLt7gqJh8g8MDZR0Vmz) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) | [ONE](https://open.spotify.com/album/2VTgzWVmPQRELLVPu4VLFK) | 3:29 | 2022-04-12 | 2022-07-14 |
 | [Euphoria \(Feat\. 123, Milena\)](https://open.spotify.com/track/32oDQqwLzv074PThEuBVpp) | [Minit](https://open.spotify.com/artist/6TXbTOTnLFaF1iHywOaV1m), [123](https://open.spotify.com/artist/1cy1oWKlBfDuxBvo9ZiodY), [Milena](https://open.spotify.com/artist/2DMUCQ7G60U498FYCe1lvk) | [Euphoria \(Feat\. 123, Milena\)](https://open.spotify.com/album/6r2MYiNYGJkixMSlWO9sWp) | 3:14 | 2022-05-03 | 2022-07-24 |
 | [Event Horizon](https://open.spotify.com/track/6RBziRcDeiho3iTPdtEeg9) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [YOUNHA 6th Album Repackage 'END THEORY : Final Edition'](https://open.spotify.com/album/63mur6I6yCG9cOxOst3i7c) | 5:00 | 2022-04-12 | 2022-07-22 |
+| [Eye of the Typhoon](https://open.spotify.com/track/0nSEAABoviV818GLEZsD6r) | [Peppertones](https://open.spotify.com/artist/0gos4GVpI0PzhyrWhsc7nj) | [thousand years](https://open.spotify.com/album/3pDA2ikEslIDXpzIWmauQY) | 4:06 | 2022-09-20 |  |
 | [FAKE LOVE \- Rocking Vibe Mix](https://open.spotify.com/track/1WjGvMbHE23jEipydV80Mu) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Love Yourself 結 'Answer'](https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y) | 3:58 | 2022-07-22 |  |
 | [Festival](https://open.spotify.com/track/6bbGdzd2wwAMQ8t9a8iXtg) | [HERD](https://open.spotify.com/artist/6aQtLvZBb5B8fy6KfWRvTQ) | [New Forest](https://open.spotify.com/album/6KayWBF4SwMXmRq7T0r1SX) | 3:31 | 2022-05-03 | 2022-06-27 |
 | [FIGHT](https://open.spotify.com/track/0shVYlsAgAr7Dn2HBqCuyZ) | [JK Kim Dong Uk](https://open.spotify.com/artist/3rbvvrsMmH8iT9qFf3IoNz) | [FIGHT](https://open.spotify.com/album/5zCQF6HSkA1WZdxuUgC5zk) | 3:40 | 2022-06-03 | 2022-07-03 |
@@ -308,7 +309,7 @@
 | [Stand by you](https://open.spotify.com/track/1FXMaHibQ7Nz8JV4babzfF) | [A.C.E](https://open.spotify.com/artist/25KT93FeotUTHC1dbLasxi) | [Stand by you](https://open.spotify.com/album/3rizLIFA2GTyYcPe9KYt5M) | 4:21 | 2022-05-02 | 2022-07-11 |
 | [STAR DUST](https://open.spotify.com/track/2zayCOuQcW0iNPsu02jFa7) | [Ha Dong Qn](https://open.spotify.com/artist/7gjNpUcKOWzo2jnN7VsxoQ) | [STAR DUST](https://open.spotify.com/album/0ltZ0m8qh833WDHfAvwai8) | 3:48 | 2022-04-12 | 2022-07-21 |
 | [STARLIGHT](https://open.spotify.com/track/5Sze0gwqDqO2BEEIQpxkDa) | [N.Flying](https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb) | [STARLIGHT](https://open.spotify.com/album/4N390LmaD2YwNebjT1Zmoa) | 3:24 | 2022-04-22 | 2022-07-27 |
-| [Starlight](https://open.spotify.com/track/24dSyqfPW6WNzdegehvuBw) | [Xydo](https://open.spotify.com/artist/0vcbn6MqAvgM8Gh6wh8d6X) | [Poong, the Joseon Psychiatrist OST Part.5](https://open.spotify.com/album/50DAxrpePNE16yJnYS7QT2) | 3:21 | 2022-09-05 |  |
+| [Starlight](https://open.spotify.com/track/24dSyqfPW6WNzdegehvuBw) | [Xydo](https://open.spotify.com/artist/0vcbn6MqAvgM8Gh6wh8d6X) | [Poong, the Joseon Psychiatrist OST Part.5](https://open.spotify.com/album/50DAxrpePNE16yJnYS7QT2) | 3:21 | 2022-09-05 | 2022-09-21 |
 | [Starry Night](https://open.spotify.com/track/4vSQmGcgOhsoK5lqmNOEz2) | [SUHO](https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m) | [Self\-Portrait \- The 1st Mini Album](https://open.spotify.com/album/0f4L2zNLtQtFk08M1YGoE1) | 4:38 | 2022-04-12 | 2022-07-18 |
 | [Still](https://open.spotify.com/track/2behhE9zykC6hWmBffdYP9) | [루아멜 \(LUAMEL\)](https://open.spotify.com/artist/0GP1FM3P7XrmSNz1Nr29Yy) | [Still](https://open.spotify.com/album/38b0mzFmSaM5JozS7Lfte4) | 3:17 | 2022-06-20 | 2022-07-10 |
 | [Still Life](https://open.spotify.com/track/3TSLqZssCoCdDlMhCJ08XW) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Still Life](https://open.spotify.com/album/2oCAY48bhZvQte0l7apmYC) | 3:08 | 2022-04-12 |  |

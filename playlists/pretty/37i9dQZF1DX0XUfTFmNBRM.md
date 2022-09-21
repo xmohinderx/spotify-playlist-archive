@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUfTFmNBRM.md) - [plain]
 
 > Hottest Hindi music served here\. Cover\- Ranbir & Alia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 950,639 likes - 59 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 952,295 likes - 59 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUfTFmNBRM.md) - [plain]
 | 13 | [Deva Deva \(From "Brahmastra"\)](https://open.spotify.com/track/0IGXY47K2ha3AHfX57wY1O) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Deva Deva \(From "Brahmastra"\)](https://open.spotify.com/album/6zwucxlWusEUCZt6DeQJCu) | 4:39 |
 | 14 | [Fitoor](https://open.spotify.com/track/7eNSk0grNnO7MqjLZzs6MM) | [Mithoon](https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM), [Karan Malhotra](https://open.spotify.com/artist/77tAOnDaIyO7H70yxk3bMF) | [Shamshera](https://open.spotify.com/album/3jcMB9o34xcc9VlOyyZ1yx) | 5:08 |
 | 15 | [De Taali \(From "Bhool Bhulaiyaa 2"\)](https://open.spotify.com/track/4Xba44w0LihzNJj1xgjs8J) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Shashwat Singh](https://open.spotify.com/artist/6iv4lysB1yHXoZJ2gfqTdh), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [De Taali \(From "Bhool Bhulaiyaa 2"\)](https://open.spotify.com/album/124jf3Uj8NOBismag9calO) | 3:30 |
-| 16 | [Tu / You](https://open.spotify.com/track/4L6hCEc9xFf01U4d66JzK0) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs) | [Tu / You](https://open.spotify.com/album/4MGu4YPgaKkxwgGf6MaAyn) | 2:22 |
+| 16 | [Tu / You](https://open.spotify.com/track/4L6hCEc9xFf01U4d66JzK0) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs) | [Tu/You \- Spotify Singles](https://open.spotify.com/album/4MGu4YPgaKkxwgGf6MaAyn) | 2:22 |
 | 17 | [Srivalli \(From "Pushpa The Rise Part \- 01"\)](https://open.spotify.com/track/7sVEoPc5ZUUQerRkgTypUZ) | [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7), [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU) | [Srivalli \(From "Pushpa The Rise Part \- 01"\)](https://open.spotify.com/album/0o80h7hMTz2wjzJSvckOcr) | 3:44 |
 | 18 | [Dil \(From "Ek Villain Returns"\)](https://open.spotify.com/track/043SPVu75TXbs94ZfM9dfn) | [Kaushik\-Guddu](https://open.spotify.com/artist/7EiUTtmmkwGtbgR6gZaZzW), [Raghav Chaitanya](https://open.spotify.com/artist/3qpyErDI4i90q5EGgSRmNK), [Kunaal Vermaa](https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx) | [Dil \(From "Ek Villain Returns"\)](https://open.spotify.com/album/5RFQhO7dqTjNfZt1Ei710x) | 5:09 |
 | 19 | [Ektarfa](https://open.spotify.com/track/70wFZWY6cKFxp3Qcq8uxH4) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [Ektarfa](https://open.spotify.com/album/1iNdJOekTl1JSgPQqIYvDS) | 3:50 |

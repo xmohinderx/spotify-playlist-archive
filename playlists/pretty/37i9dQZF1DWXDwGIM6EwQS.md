@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDwGIM6EwQS.md) - [plain]
 
 > pov: you're crying and dancing at the same time.
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,199 likes - 63 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,408 likes - 63 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDwGIM6EwQS.md) - [plain]
 | 37 | [Desenfocao'](https://open.spotify.com/track/2CEf2gU5ZJamLXa3NrgAvA) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [VICE VERSA](https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh) | 2:50 |
 | 38 | [Te Conoci Perriando](https://open.spotify.com/track/68UxtmtQa5wiUa0sbpPvgd) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [Primer Dia de Clases](https://open.spotify.com/album/5r8T7S23cVDSd7a045h4N5) | 3:10 |
 | 39 | [Llorando en la Limo \(feat\. Alizzz\)](https://open.spotify.com/track/3YURfhPPT7GipmI7pIj0m3) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [Alizzz](https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3) | [Avida Dollars](https://open.spotify.com/album/3xFCSN4oKeJE1lJ2c5KLZQ) | 2:19 |
-| 40 | [Fingías](https://open.spotify.com/track/7o0oY5wRcoV7oPuDhD2J1z) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [Fingías](https://open.spotify.com/album/1V2sg9XB2TP29Ys4ER3fLn) | 3:45 |
-| 41 | [ATEO](https://open.spotify.com/track/14M8dLdMYo5rTxDVvIp85o) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [FERXXO \(VOL 1: M.O.R\)](https://open.spotify.com/album/3js3vnaiDDghVu9ADH93Q5) | 2:18 |
+| 40 | [ATEO](https://open.spotify.com/track/14M8dLdMYo5rTxDVvIp85o) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [FERXXO \(VOL 1: M.O.R\)](https://open.spotify.com/album/3js3vnaiDDghVu9ADH93Q5) | 2:18 |
+| 41 | [Fingías](https://open.spotify.com/track/7o0oY5wRcoV7oPuDhD2J1z) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [Fingías](https://open.spotify.com/album/1V2sg9XB2TP29Ys4ER3fLn) | 3:45 |
 | 42 | [Melancólicos Anónimos](https://open.spotify.com/track/1s4jVre4ZgBm3sVJP1NTrl) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Dharma](https://open.spotify.com/album/4qgRDM8Gyurf5hXV3LBmT8) | 3:19 |
 | 43 | [De 100 a 0](https://open.spotify.com/track/2WbC6wQYIAOVpnB8Xai63a) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [De 100 a 0](https://open.spotify.com/album/11QTKoa3O2tD7Vz1AmSgSc) | 3:04 |
 | 44 | [En Mi Cuarto](https://open.spotify.com/track/2Doh4izLZGrUD3yOSs9y9G) | [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [Timelezz](https://open.spotify.com/album/3AwzfcsXeljU7JkG5GQn8Y) | 3:16 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDwGIM6EwQS.md) - [plain]
 | 46 | [Cosa Guapa](https://open.spotify.com/track/7aWiJeMyxxPEyjwvZyauAF) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [VICE VERSA](https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh) | 4:15 |
 | 47 | [ADMV \- Versión Urbana](https://open.spotify.com/track/3wBKCNw7BFIalnqe4VXzdK) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [ADMV \(Versión Urbana\)](https://open.spotify.com/album/2icmaSfpEsztZeSqmlOOtz) | 3:05 |
 | 48 | [No Te Debí Besar](https://open.spotify.com/track/1KdwnsWOvhM53vezy5ROuf) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [No Te Debí Besar](https://open.spotify.com/album/1VIVJSQidZ6nddSJoEEYt7) | 3:02 |
-| 49 | [Not Steady](https://open.spotify.com/track/42ArfZUgGo3k5btIHp08it) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [Not Steady](https://open.spotify.com/album/1XGuAokaFjAkpGmOEllsoD) | 3:10 |
-| 50 | [Intentar](https://open.spotify.com/track/0sXJ4xkFdaz74DlR96ExXw) | [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK) | [Intentar](https://open.spotify.com/album/5FqUUExmHL9kEvncTI2XNn) | 3:10 |
+| 49 | [Intentar](https://open.spotify.com/track/0sXJ4xkFdaz74DlR96ExXw) | [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK) | [Intentar](https://open.spotify.com/album/5FqUUExmHL9kEvncTI2XNn) | 3:10 |
+| 50 | [Not Steady](https://open.spotify.com/track/42ArfZUgGo3k5btIHp08it) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [Not Steady](https://open.spotify.com/album/1XGuAokaFjAkpGmOEllsoD) | 3:10 |
 | 51 | [Baby](https://open.spotify.com/track/37oaImGdDkQgIIUZDvFGdr) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Parte de Mí](https://open.spotify.com/album/3ma7if5xuOYxZouDsuCsdP) | 2:44 |
 | 52 | [Ya no siento nada](https://open.spotify.com/track/3JUaCIDpLc2kmY86lCm3aT) | [Alizzz](https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3) | [Tiene que haber algo más](https://open.spotify.com/album/5ZqvS6ksJXcWljAPsp9Slt) | 3:12 |
 | 53 | [lamento de una supernova](https://open.spotify.com/track/0ywEg4HD0NOK51AsYtteaa) | [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7) | [lamento de una supernova](https://open.spotify.com/album/1vo75fDu4dQ8NYUnSOYN8P) | 2:27 |
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDwGIM6EwQS.md) - [plain]
 | 62 | [Vete](https://open.spotify.com/track/5DxXgozhkPLgrbKFY91w0c) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Vete](https://open.spotify.com/album/3fxzSn0ObgCjLadyR53ohN) | 3:12 |
 | 63 | [Soliá](https://open.spotify.com/track/7sOfmPd18RWp3FoCzpa7Kw) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 2:39 |
 
-Snapshot ID: `MTY2MTkyOTY0OSwwMDAwMDAwMDM4ZTc3OWI4NmM5ZWMyMTY3MDQ1ZDVhNmYwZWQzODM1`
+Snapshot ID: `MTY2MTkyOTY0OSwwMDAwMDAwMGFmNDcwZjgzOGU3YmI2OGMwZWY1M2NlMTc4MzhmYWE1`

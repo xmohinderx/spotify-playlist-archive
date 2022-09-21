@@ -1,12 +1,12 @@
 {
   "description": "The decade of the Outlaws of Country Music - where traditional and crossover country collided. Cover: Charley Pride",
-  "num_followers": 213766,
+  "num_followers": 213821,
   "original_name": "70s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODc4NDk1NSwwMDAwMDAwMGI1NTQwZDZiOGEzMTgxMjhjYjMyMGZjMDFlYjg2ZTJh",
+  "snapshot_id": "MTY1ODc4NDk1NSwwMDAwMDAwMGMyYmI5YTI0OTQwOGFlNjYxYTIxNDY3YTc5M2ExNjMw",
   "tracks": [
     {
       "added_at": "2022-07-25 21:35:55",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2022-07-25 21:35:55",
       "album": {
-        "name": "If You Love Me, Let Me Know",
-        "url": "https://open.spotify.com/album/3rjkhRSQsNjjeTjkC7ZnHg"
-      },
-      "artists": [
-        {
-          "name": "Olivia Newton-John",
-          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
-        }
-      ],
-      "duration_ms": 196266,
-      "name": "If You Love Me (Let Me Know)",
-      "url": "https://open.spotify.com/track/2sU0wR5zAs6tsen499fTcl"
-    },
-    {
-      "added_at": "2022-07-25 21:35:55",
-      "album": {
         "name": "Winners",
         "url": "https://open.spotify.com/album/34zkdmEjQSzOIZETGtE56f"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 151306,
       "name": "The Happiest Girl In The Whole U.S.A.",
       "url": "https://open.spotify.com/track/60ut42dYikYXfCZQcvVXYV"
+    },
+    {
+      "added_at": "2022-07-25 21:35:55",
+      "album": {
+        "name": "If You Love Me, Let Me Know",
+        "url": "https://open.spotify.com/album/3rjkhRSQsNjjeTjkC7ZnHg"
+      },
+      "artists": [
+        {
+          "name": "Olivia Newton-John",
+          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
+        }
+      ],
+      "duration_ms": 196266,
+      "name": "If You Love Me (Let Me Know)",
+      "url": "https://open.spotify.com/track/2sU0wR5zAs6tsen499fTcl"
     },
     {
       "added_at": "2022-07-25 21:35:55",
@@ -1291,18 +1291,18 @@
     {
       "added_at": "2022-07-25 21:35:55",
       "album": {
-        "name": "Quarter Moon in a Ten Cent Town (Expanded & Remastered)",
-        "url": "https://open.spotify.com/album/0kwZMM8Nj0a4dPvVPUiN2y"
+        "name": "The Essential Jerry Reed",
+        "url": "https://open.spotify.com/album/0NoIqI4xsXGOpd4vvBjo7O"
       },
       "artists": [
         {
-          "name": "Emmylou Harris",
-          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+          "name": "Jerry Reed",
+          "url": "https://open.spotify.com/artist/3kvy8do7n0qVqvlNFS4yOF"
         }
       ],
-      "duration_ms": 186333,
-      "name": "Two More Bottles of Wine - 2003 Remaster",
-      "url": "https://open.spotify.com/track/62buMnGJ9bLrZAV03fGjYc"
+      "duration_ms": 139760,
+      "name": "Amos Moses",
+      "url": "https://open.spotify.com/track/1lfVeoMZZimh0jf8rYUeJU"
     },
     {
       "added_at": "2022-07-25 21:35:55",
@@ -1323,18 +1323,18 @@
     {
       "added_at": "2022-07-25 21:35:55",
       "album": {
-        "name": "The Essential Jerry Reed",
-        "url": "https://open.spotify.com/album/0NoIqI4xsXGOpd4vvBjo7O"
+        "name": "Quarter Moon in a Ten Cent Town (Expanded & Remastered)",
+        "url": "https://open.spotify.com/album/0kwZMM8Nj0a4dPvVPUiN2y"
       },
       "artists": [
         {
-          "name": "Jerry Reed",
-          "url": "https://open.spotify.com/artist/3kvy8do7n0qVqvlNFS4yOF"
+          "name": "Emmylou Harris",
+          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
         }
       ],
-      "duration_ms": 139760,
-      "name": "Amos Moses",
-      "url": "https://open.spotify.com/track/1lfVeoMZZimh0jf8rYUeJU"
+      "duration_ms": 186333,
+      "name": "Two More Bottles of Wine - 2003 Remaster",
+      "url": "https://open.spotify.com/track/62buMnGJ9bLrZAV03fGjYc"
     },
     {
       "added_at": "2022-07-25 21:35:55",
@@ -1359,18 +1359,18 @@
     {
       "added_at": "2022-07-25 21:35:55",
       "album": {
-        "name": "20th Century Masters: The Millennium Collection: Best of Donny & Marie Osmond",
-        "url": "https://open.spotify.com/album/6ywF3v0chlAEmj0xzPAIWM"
+        "name": "20 Greatest Hits",
+        "url": "https://open.spotify.com/album/1EoBcNqFMobg6Wrzskv6G9"
       },
       "artists": [
         {
-          "name": "Marie Osmond",
-          "url": "https://open.spotify.com/artist/3ijY78RxOagYo8FOgSEkWj"
+          "name": "Don Williams",
+          "url": "https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe"
         }
       ],
-      "duration_ms": 158973,
-      "name": "Paper Roses",
-      "url": "https://open.spotify.com/track/00oIqmk1eRn9D2y8BzNLS1"
+      "duration_ms": 192800,
+      "name": "Tulsa Time",
+      "url": "https://open.spotify.com/track/5BTUfUNq9sa7OUbles1qvS"
     },
     {
       "added_at": "2022-07-25 21:35:55",
@@ -1391,18 +1391,18 @@
     {
       "added_at": "2022-07-25 21:35:55",
       "album": {
-        "name": "20 Greatest Hits",
-        "url": "https://open.spotify.com/album/1EoBcNqFMobg6Wrzskv6G9"
+        "name": "20th Century Masters: The Millennium Collection: Best of Donny & Marie Osmond",
+        "url": "https://open.spotify.com/album/6ywF3v0chlAEmj0xzPAIWM"
       },
       "artists": [
         {
-          "name": "Don Williams",
-          "url": "https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe"
+          "name": "Marie Osmond",
+          "url": "https://open.spotify.com/artist/3ijY78RxOagYo8FOgSEkWj"
         }
       ],
-      "duration_ms": 192800,
-      "name": "Tulsa Time",
-      "url": "https://open.spotify.com/track/5BTUfUNq9sa7OUbles1qvS"
+      "duration_ms": 158973,
+      "name": "Paper Roses",
+      "url": "https://open.spotify.com/track/00oIqmk1eRn9D2y8BzNLS1"
     },
     {
       "added_at": "2022-07-25 21:35:55",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2022-07-25 21:35:55",
       "album": {
-        "name": "HAG: The Hits Volume 2",
-        "url": "https://open.spotify.com/album/5JpPv6eZYKMXdBTFc41wsC"
-      },
-      "artists": [
-        {
-          "name": "Merle Haggard",
-          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
-        }
-      ],
-      "duration_ms": 169346,
-      "name": "The Fightin' Side Of Me",
-      "url": "https://open.spotify.com/track/7tvnZH4Db2zylKHo7ojKH1"
-    },
-    {
-      "added_at": "2022-07-25 21:35:55",
-      "album": {
         "name": "The Essential Jerry Reed",
         "url": "https://open.spotify.com/album/0NoIqI4xsXGOpd4vvBjo7O"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 139560,
       "name": "When You're Hot, You're Hot",
       "url": "https://open.spotify.com/track/6sykijVtS1m8vxLnkKXrJ5"
+    },
+    {
+      "added_at": "2022-07-25 21:35:55",
+      "album": {
+        "name": "HAG: The Hits Volume 2",
+        "url": "https://open.spotify.com/album/5JpPv6eZYKMXdBTFc41wsC"
+      },
+      "artists": [
+        {
+          "name": "Merle Haggard",
+          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
+        }
+      ],
+      "duration_ms": 169346,
+      "name": "The Fightin' Side Of Me",
+      "url": "https://open.spotify.com/track/7tvnZH4Db2zylKHo7ojKH1"
     },
     {
       "added_at": "2022-07-25 21:35:55",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2022-07-25 21:35:55",
       "album": {
+        "name": "20 Greatest Hits",
+        "url": "https://open.spotify.com/album/1EoBcNqFMobg6Wrzskv6G9"
+      },
+      "artists": [
+        {
+          "name": "Don Williams",
+          "url": "https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe"
+        }
+      ],
+      "duration_ms": 146733,
+      "name": "It Must Be Love - Single Version",
+      "url": "https://open.spotify.com/track/2yjP9SAtGTy6xgMEJXVXsi"
+    },
+    {
+      "added_at": "2022-07-25 21:35:55",
+      "album": {
         "name": "The Kendalls - 42 Massive Hits",
         "url": "https://open.spotify.com/album/0TLnx23a5jjqtakfXHLHdz"
       },
@@ -1483,26 +1499,6 @@
       "duration_ms": 145253,
       "name": "Heaven's Just A Sin Away",
       "url": "https://open.spotify.com/track/2MQMTw0ErhEAecLfm2ClUk"
-    },
-    {
-      "added_at": "2022-07-25 21:35:55",
-      "album": {
-        "name": "Every Time Two Fools Collide",
-        "url": "https://open.spotify.com/album/4eUUpjBZcZ8ODPhId8O7CL"
-      },
-      "artists": [
-        {
-          "name": "Kenny Rogers",
-          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
-        },
-        {
-          "name": "Dottie West",
-          "url": "https://open.spotify.com/artist/2pvPkEAN9xSrDrIVUOxWMB"
-        }
-      ],
-      "duration_ms": 180906,
-      "name": "Every Time Two Fools Collide",
-      "url": "https://open.spotify.com/track/7fiM9fRN7nRb2z1j7ZOdjy"
     },
     {
       "added_at": "2022-07-25 21:35:55",
@@ -1523,18 +1519,22 @@
     {
       "added_at": "2022-07-25 21:35:55",
       "album": {
-        "name": "20 Greatest Hits",
-        "url": "https://open.spotify.com/album/1EoBcNqFMobg6Wrzskv6G9"
+        "name": "Every Time Two Fools Collide",
+        "url": "https://open.spotify.com/album/4eUUpjBZcZ8ODPhId8O7CL"
       },
       "artists": [
         {
-          "name": "Don Williams",
-          "url": "https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe"
+          "name": "Kenny Rogers",
+          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
+        },
+        {
+          "name": "Dottie West",
+          "url": "https://open.spotify.com/artist/2pvPkEAN9xSrDrIVUOxWMB"
         }
       ],
-      "duration_ms": 146733,
-      "name": "It Must Be Love - Single Version",
-      "url": "https://open.spotify.com/track/2yjP9SAtGTy6xgMEJXVXsi"
+      "duration_ms": 180906,
+      "name": "Every Time Two Fools Collide",
+      "url": "https://open.spotify.com/track/7fiM9fRN7nRb2z1j7ZOdjy"
     },
     {
       "added_at": "2022-07-25 21:35:55",

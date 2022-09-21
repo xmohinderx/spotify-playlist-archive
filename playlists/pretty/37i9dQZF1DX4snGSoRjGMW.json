@@ -1,12 +1,12 @@
 {
   "description": "Soul meets blues. Cover: Bettye LaVette",
-  "num_followers": 5048,
+  "num_followers": 5063,
   "original_name": "Soul Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyMTU2OTY2MCwwMDAwMDAwMDVkMTE1NGUwZDcwYTJmMGQ4YTE4NDFkZTYwYWU3OTEz",
+  "snapshot_id": "MTYyMTU2OTY2MCwwMDAwMDAwMGRiM2M3YzFlODcwMmZlNWM1M2ZhYThhOWYyNjA3MDk1",
   "tracks": [
     {
       "added_at": "2020-12-01 05:01:00",
@@ -663,22 +663,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "From the Heart and Soul",
-        "url": "https://open.spotify.com/album/3uwUrRcmhucNTtlNmaXtNn"
-      },
-      "artists": [
-        {
-          "name": "Chick Willis",
-          "url": "https://open.spotify.com/artist/0NrO6QCCIuFygHBeEN670A"
-        }
-      ],
-      "duration_ms": 282026,
-      "name": "Someday Baby",
-      "url": "https://open.spotify.com/track/2SSqOWVTbKN0pTTKjgy6dg"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Midnight In Memphis",
         "url": "https://open.spotify.com/album/69umcBTHWhRf3fqo97ydAx"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 269000,
       "name": "Baby I Will",
       "url": "https://open.spotify.com/track/5ep51jd4xhZusf8QnaTfor"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "From the Heart and Soul",
+        "url": "https://open.spotify.com/album/3uwUrRcmhucNTtlNmaXtNn"
+      },
+      "artists": [
+        {
+          "name": "Chick Willis",
+          "url": "https://open.spotify.com/artist/0NrO6QCCIuFygHBeEN670A"
+        }
+      ],
+      "duration_ms": 282026,
+      "name": "Someday Baby",
+      "url": "https://open.spotify.com/track/2SSqOWVTbKN0pTTKjgy6dg"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -807,6 +807,26 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "This Time For Real",
+        "url": "https://open.spotify.com/album/749QhTw8T5oHNNZ3MigsLQ"
+      },
+      "artists": [
+        {
+          "name": "Billy Price",
+          "url": "https://open.spotify.com/artist/509o7Fm0youPHjgcq5nCRI"
+        },
+        {
+          "name": "Otis Clay",
+          "url": "https://open.spotify.com/artist/2jV8AcZ8W3TfiqInUGWwlL"
+        }
+      ],
+      "duration_ms": 255693,
+      "name": "Going to the Shack",
+      "url": "https://open.spotify.com/track/7Edg1SdyEws5DfX5FEkME2"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "Make It Rain",
         "url": "https://open.spotify.com/album/7mSgK9b9TLn1KA6xOoe2FF"
       },
@@ -819,22 +839,6 @@
       "duration_ms": 316533,
       "name": "What Can A Man Do?",
       "url": "https://open.spotify.com/track/03mq9rVxvMrzu7qBQQZ588"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Midnight In Memphis",
-        "url": "https://open.spotify.com/album/69umcBTHWhRf3fqo97ydAx"
-      },
-      "artists": [
-        {
-          "name": "Preston Shannon",
-          "url": "https://open.spotify.com/artist/2MdVkGwNAnweIZS739BhFp"
-        }
-      ],
-      "duration_ms": 235000,
-      "name": "The Streets Will Love You To Death",
-      "url": "https://open.spotify.com/track/5H1aZtAOqmliM5naRN3YfX"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -859,38 +863,34 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "This Time For Real",
-        "url": "https://open.spotify.com/album/749QhTw8T5oHNNZ3MigsLQ"
+        "name": "Midnight In Memphis",
+        "url": "https://open.spotify.com/album/69umcBTHWhRf3fqo97ydAx"
       },
       "artists": [
         {
-          "name": "Billy Price",
-          "url": "https://open.spotify.com/artist/509o7Fm0youPHjgcq5nCRI"
-        },
-        {
-          "name": "Otis Clay",
-          "url": "https://open.spotify.com/artist/2jV8AcZ8W3TfiqInUGWwlL"
+          "name": "Preston Shannon",
+          "url": "https://open.spotify.com/artist/2MdVkGwNAnweIZS739BhFp"
         }
       ],
-      "duration_ms": 255693,
-      "name": "Going to the Shack",
-      "url": "https://open.spotify.com/track/7Edg1SdyEws5DfX5FEkME2"
+      "duration_ms": 235000,
+      "name": "The Streets Will Love You To Death",
+      "url": "https://open.spotify.com/track/5H1aZtAOqmliM5naRN3YfX"
     },
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "People Love The Blues",
-        "url": "https://open.spotify.com/album/7bfoTZkMiZ6GzNvTydX9ax"
+        "name": "Tiger in a Cage",
+        "url": "https://open.spotify.com/album/2y2airR6ysuixHtrYfHpEG"
       },
       "artists": [
         {
-          "name": "Sista Monica",
-          "url": "https://open.spotify.com/artist/22FdZlPVKxIeNwRHvx74A7"
+          "name": "Johnny Rawls",
+          "url": "https://open.spotify.com/artist/7vuXCITiRilCLfuySIgZKM"
         }
       ],
-      "duration_ms": 208266,
-      "name": "You're Only Good For One Thang Baby",
-      "url": "https://open.spotify.com/track/0CLPTSldV2Dp016RKyBUqi"
+      "duration_ms": 265053,
+      "name": "Reckless Heart",
+      "url": "https://open.spotify.com/track/2P4SDDe2O1sMNETDMK2NXF"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -911,18 +911,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Tiger in a Cage",
-        "url": "https://open.spotify.com/album/2y2airR6ysuixHtrYfHpEG"
+        "name": "People Love The Blues",
+        "url": "https://open.spotify.com/album/7bfoTZkMiZ6GzNvTydX9ax"
       },
       "artists": [
         {
-          "name": "Johnny Rawls",
-          "url": "https://open.spotify.com/artist/7vuXCITiRilCLfuySIgZKM"
+          "name": "Sista Monica",
+          "url": "https://open.spotify.com/artist/22FdZlPVKxIeNwRHvx74A7"
         }
       ],
-      "duration_ms": 265053,
-      "name": "Reckless Heart",
-      "url": "https://open.spotify.com/track/2P4SDDe2O1sMNETDMK2NXF"
+      "duration_ms": 208266,
+      "name": "You're Only Good For One Thang Baby",
+      "url": "https://open.spotify.com/track/0CLPTSldV2Dp016RKyBUqi"
     },
     {
       "added_at": "2020-12-01 05:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cZuAHLNjGz.md) - [plain]
 
 > Ultimate 101 Punjabi hits with AP Dhillon
 
-[Spotify](https://open.spotify.com/user/spotify) - 700,526 likes - 101 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 701,539 likes - 101 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,10 +30,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cZuAHLNjGz.md) - [plain]
 | 20 | [Freestyle](https://open.spotify.com/track/7rlulUEMn27TLbdHpNPugE) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv) | [FAME](https://open.spotify.com/album/6gTapG6daOo6Y9XhibKBvg) | 2:55 |
 | 21 | [26 Blvd](https://open.spotify.com/track/3OK2VUpcjQQZAqGHw95N4G) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [No Lookin' Back](https://open.spotify.com/album/3TvDVoxi5iIi1oqCPMt4zp) | 3:32 |
 | 22 | [Compulsory](https://open.spotify.com/track/326eZ9C7qpDj6NSsEiKvoW) | [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb) | [Step Up](https://open.spotify.com/album/3r4E0LF4sCrql6Z9TV7nNO) | 3:36 |
-| 23 | [Street Style](https://open.spotify.com/track/4RULn5FlCuqIFSreEVp2Lb) | [JERRY](https://open.spotify.com/artist/1mUl05hT77FrwVFW51wOlr) | [Street Style](https://open.spotify.com/album/1vLiDlDZ2rUAzvorR7Fhp9) | 2:38 |
-| 24 | [Nah They Can’t](https://open.spotify.com/track/6PO6EnP2QoP4vN27KmKvrj) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [No Lookin' Back](https://open.spotify.com/album/3TvDVoxi5iIi1oqCPMt4zp) | 3:24 |
-| 25 | [Red Chilli](https://open.spotify.com/track/2ZxdwRUfd0LiAshQclfQZb) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Drive Thru](https://open.spotify.com/album/6KgPhunJItRDOhJFh6Sy78) | 2:32 |
-| 26 | [Lemonade](https://open.spotify.com/track/3ZGJhN4unVspOqpwGvUL2W) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Drive Thru](https://open.spotify.com/album/6KgPhunJItRDOhJFh6Sy78) | 2:46 |
+| 23 | [Lemonade](https://open.spotify.com/track/3ZGJhN4unVspOqpwGvUL2W) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Drive Thru](https://open.spotify.com/album/6KgPhunJItRDOhJFh6Sy78) | 2:46 |
+| 24 | [Street Style](https://open.spotify.com/track/4RULn5FlCuqIFSreEVp2Lb) | [JERRY](https://open.spotify.com/artist/1mUl05hT77FrwVFW51wOlr) | [Street Style](https://open.spotify.com/album/1vLiDlDZ2rUAzvorR7Fhp9) | 2:38 |
+| 25 | [Nah They Can’t](https://open.spotify.com/track/6PO6EnP2QoP4vN27KmKvrj) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [No Lookin' Back](https://open.spotify.com/album/3TvDVoxi5iIi1oqCPMt4zp) | 3:24 |
+| 26 | [Red Chilli](https://open.spotify.com/track/2ZxdwRUfd0LiAshQclfQZb) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Drive Thru](https://open.spotify.com/album/6KgPhunJItRDOhJFh6Sy78) | 2:32 |
 | 27 | [SYL](https://open.spotify.com/track/0JBnAsReYppHqCZJbqy5H8) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [SYL](https://open.spotify.com/album/2NVYsJrBDBSZ2G2z63Bbgu) | 4:09 |
 | 28 | [These Days \(feat\. Bohemia\)](https://open.spotify.com/track/2zQE8TE5BQDJA11ggnope9) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Bohemia](https://open.spotify.com/artist/0SWOtgI95g7oVrP9halrmP) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 3:29 |
 | 29 | [Chauffeur](https://open.spotify.com/track/2L1OXzqVPpVxotHfLglUcB) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Chauffeur](https://open.spotify.com/album/0YelQwXuaXeL3nk23iOqwd) | 3:25 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cZuAHLNjGz.md) - [plain]
 | 35 | [Jawani](https://open.spotify.com/track/1WOz8NwADXFxRADQFVftxp) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Jawani](https://open.spotify.com/album/2JFhgDiyzo3bM2EEWedu6X) | 2:31 |
 | 36 | [TERE TE](https://open.spotify.com/track/6TClJ8jXi3OBV7gcrU3jx5) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl) | [HIDDEN GEMS](https://open.spotify.com/album/3fOswFPlmSWKTTFTlksdiv) | 1:54 |
 | 37 | [Untouchable](https://open.spotify.com/track/2hDMBVN3P47GEhH5VtmA6m) | [Tegi Pannu](https://open.spotify.com/artist/78sIlhMniFgXlOrNWnPtIl), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS) | [Untouchable](https://open.spotify.com/album/0Ib0QsGyuoGpVIPZaUwHL6) | 2:33 |
-| 38 | [SPACESHIP](https://open.spotify.com/track/2PcGqmKToUz0s65q1Acg7d) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Shinda Kahlon](https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh), [Gminxr](https://open.spotify.com/artist/4vvW590Gq8dNWsP5BM9FkS) | [HIDDEN GEMS](https://open.spotify.com/album/3fOswFPlmSWKTTFTlksdiv) | 2:04 |
-| 39 | [Oouuu](https://open.spotify.com/track/4hAmLeBT1Ryk2oxSMMiJ7z) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Way Ahead](https://open.spotify.com/album/0hyDY9e60a2LNEasyI52KF) | 2:27 |
+| 38 | [Oouuu](https://open.spotify.com/track/4hAmLeBT1Ryk2oxSMMiJ7z) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Way Ahead](https://open.spotify.com/album/0hyDY9e60a2LNEasyI52KF) | 2:27 |
+| 39 | [SPACESHIP](https://open.spotify.com/track/2PcGqmKToUz0s65q1Acg7d) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Shinda Kahlon](https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh), [Gminxr](https://open.spotify.com/artist/4vvW590Gq8dNWsP5BM9FkS) | [HIDDEN GEMS](https://open.spotify.com/album/3fOswFPlmSWKTTFTlksdiv) | 2:04 |
 | 40 | [Umbrella](https://open.spotify.com/track/7fBeejW1BoZFTd4hTP6JvV) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN), [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp) | [Umbrella](https://open.spotify.com/album/3S3ekcemSjVZ6Pi3ojBEhq) | 3:13 |
 | 41 | [Love Sick \(feat\. AR Paisley\)](https://open.spotify.com/track/1skGwRjc7wYY70PJCAkKMr) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [AR Paisley](https://open.spotify.com/artist/4CqzwlyoNSvoGeMk7NiMhd) | [No Name](https://open.spotify.com/album/57SIarHHgfby4AvV6ftCB5) | 3:52 |
 | 42 | [Kina Chir](https://open.spotify.com/track/6XPmY4hIb1RGRyNuq0UBsl) | [The PropheC](https://open.spotify.com/artist/4aopF0aU0Nbu5GtSorXV0W) | [The Lifestyle](https://open.spotify.com/album/1zIvQYNdDnl4f7iF2s6HHj) | 3:36 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cZuAHLNjGz.md) - [plain]
 | 100 | [Navi Navi Yaari](https://open.spotify.com/track/39pjjDG9o44eDjkM4BPdiG) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [G.O.A.T.](https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE) | 3:35 |
 | 101 | [G\-Shit \(feat\. Blockboi Twitch\)](https://open.spotify.com/track/5uuVGnkZEFHBz8unViC3iA) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Blockboi Twitch](https://open.spotify.com/artist/7fc9ZrMgda9ugNGz5DOTtw) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 3:53 |
 
-Snapshot ID: `MTY2MzMyMTYyNCwwMDAwMDAwMDUwYmE4OTAwOTJlZGEzMzVhN2E3NDE2MDk2MGQwMWRh`
+Snapshot ID: `MTY2MzY1Nzg3MSwwMDAwMDAwMDBkMzliM2QyODEyMTkxNmM3MjgzMzM4OGFmZmFjNTNm`

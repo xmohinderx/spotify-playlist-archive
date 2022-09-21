@@ -1728,6 +1728,24 @@
     },
     {
       "album": {
+        "name": "OCEANO PARADISO",
+        "url": "https://open.spotify.com/album/2uopesg6vZ52owGKMTBl9m"
+      },
+      "artists": [
+        {
+          "name": "chiello",
+          "url": "https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149626,
+      "name": "Pietra di luna",
+      "url": "https://open.spotify.com/track/4Xof572Q63n2JDLz7kklxY"
+    },
+    {
+      "album": {
         "name": "Magliette Che Diventano Pigiami - EP",
         "url": "https://open.spotify.com/album/2HUAaHdSS9cmx8i0ZE0vvR"
       },

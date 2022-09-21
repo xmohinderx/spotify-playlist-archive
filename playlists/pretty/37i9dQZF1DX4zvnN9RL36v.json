@@ -1,12 +1,12 @@
 {
   "description": "\ub0b4 \ub9c8\uc74c\uc744 \ub178\ub7ab\ub9d0\uc774 \uc54c\uc544\uc904 \ub54c.",
-  "num_followers": 2693,
+  "num_followers": 2705,
   "original_name": "\ub098 \ud63c\uc790 \uc88b\uc544\ud574",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDgzMjczMiwwMDAwMDAwMDlhNGM5ZDMyMDRjODFmYmY3ZDNjYWYzZjE5NDk5YTZh",
+  "snapshot_id": "MTY2MDgzMjczMiwwMDAwMDAwMDk4ZTZjOTlkOWFkZDIyZDk3YzgwNzg4ZjY2NDFmYTI2",
   "tracks": [
     {
       "added_at": "2022-08-18 14:25:32",
@@ -367,22 +367,6 @@
     {
       "added_at": "2022-08-18 14:25:32",
       "album": {
-        "name": "Sad",
-        "url": "https://open.spotify.com/album/0zUSlyzOMtllEdGzQXQHex"
-      },
-      "artists": [
-        {
-          "name": "\uc720\ubbf8 Youme",
-          "url": "https://open.spotify.com/artist/4y8PoupChBX11WsE6lUy3C"
-        }
-      ],
-      "duration_ms": 270880,
-      "name": "\uc0ac\ub791\uc740 \uc5b8\uc81c\ub098 \ubaa9 \ub9c8\ub974\ub2e4 Love Is Always Thirsty",
-      "url": "https://open.spotify.com/track/3DfZJ4RowfA7OjSIQYSDoI"
-    },
-    {
-      "added_at": "2022-08-18 14:25:32",
-      "album": {
         "name": "inside",
         "url": "https://open.spotify.com/album/1gphhxPPKfz8n69hKEK5D8"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 243037,
       "name": "mistaken",
       "url": "https://open.spotify.com/track/7c8cPVLWvtZwxDxA3KkWFP"
+    },
+    {
+      "added_at": "2022-08-18 14:25:32",
+      "album": {
+        "name": "Sad",
+        "url": "https://open.spotify.com/album/0zUSlyzOMtllEdGzQXQHex"
+      },
+      "artists": [
+        {
+          "name": "\uc720\ubbf8 Youme",
+          "url": "https://open.spotify.com/artist/4y8PoupChBX11WsE6lUy3C"
+        }
+      ],
+      "duration_ms": 270880,
+      "name": "\uc0ac\ub791\uc740 \uc5b8\uc81c\ub098 \ubaa9 \ub9c8\ub974\ub2e4 Love Is Always Thirsty",
+      "url": "https://open.spotify.com/track/3DfZJ4RowfA7OjSIQYSDoI"
     },
     {
       "added_at": "2022-08-18 14:25:32",
@@ -699,22 +699,6 @@
     {
       "added_at": "2022-08-18 14:25:32",
       "album": {
-        "name": "One Strange Night",
-        "url": "https://open.spotify.com/album/2NIHcafPBpwE9exKTsSWrr"
-      },
-      "artists": [
-        {
-          "name": "Kwon Jin Ah",
-          "url": "https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ"
-        }
-      ],
-      "duration_ms": 251105,
-      "name": "Wanna be her",
-      "url": "https://open.spotify.com/track/0SrnU0smAgD9CdD6591gKN"
-    },
-    {
-      "added_at": "2022-08-18 14:25:32",
-      "album": {
         "name": "\ud654\ubd84",
         "url": "https://open.spotify.com/album/3S2nA0Y4QaO3HWgmm3C9qS"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 270680,
       "name": "\ud654\ubd84 - \uc54c\ub809\uc2a4 Version",
       "url": "https://open.spotify.com/track/253k2EVSIBol9zDYdugv4w"
+    },
+    {
+      "added_at": "2022-08-18 14:25:32",
+      "album": {
+        "name": "One Strange Night",
+        "url": "https://open.spotify.com/album/2NIHcafPBpwE9exKTsSWrr"
+      },
+      "artists": [
+        {
+          "name": "Kwon Jin Ah",
+          "url": "https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ"
+        }
+      ],
+      "duration_ms": 251105,
+      "name": "Wanna be her",
+      "url": "https://open.spotify.com/track/0SrnU0smAgD9CdD6591gKN"
     },
     {
       "added_at": "2022-08-18 14:25:32",

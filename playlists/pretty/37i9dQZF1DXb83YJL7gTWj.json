@@ -1,12 +1,12 @@
 {
   "description": "Press play and enjoy a relaxing meal. Easy!",
-  "num_followers": 222996,
+  "num_followers": 223011,
   "original_name": "Chill Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMDBhZDFlYmViNGJlNGYyMmY1YTNkZGJmMDgxMDRmNjM2",
+  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMGM0ZDkxMDdhMjU3MTMwYjRhZGVmZGJlY2NjOTMyMzli",
   "tracks": [
     {
       "added_at": "2022-09-16 04:00:00",
@@ -27,22 +27,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "folklore",
-        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 261922,
-      "name": "august",
-      "url": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Kid Krow",
         "url": "https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 198040,
       "name": "Heather",
       "url": "https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "folklore",
+        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 261922,
+      "name": "august",
+      "url": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -103,22 +103,6 @@
       "duration_ms": 200379,
       "name": "ocean eyes",
       "url": "https://open.spotify.com/track/7hDVYcQq6MxkdJGweuCtl9"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "Lover",
-        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 221306,
-      "name": "Lover",
-      "url": "https://open.spotify.com/track/1dGr1c8CrMLDpV6mPbImSI"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -203,6 +187,22 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 221306,
+      "name": "Lover",
+      "url": "https://open.spotify.com/track/1dGr1c8CrMLDpV6mPbImSI"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
         "name": "Hozier (Expanded Edition)",
         "url": "https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ"
       },
@@ -251,22 +251,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "evermore",
-        "url": "https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 214706,
-      "name": "willow",
-      "url": "https://open.spotify.com/track/0lx2cLdOt3piJbcaXIV74f"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "The Prelude",
         "url": "https://open.spotify.com/album/3Qj2vsFzmaB8jcH6Q60WIG"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 217351,
       "name": "If You Love Her",
       "url": "https://open.spotify.com/track/727Z2S2mtNH46CbP9EWPwY"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "evermore",
+        "url": "https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 214706,
+      "name": "willow",
+      "url": "https://open.spotify.com/track/0lx2cLdOt3piJbcaXIV74f"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -507,22 +507,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Coming Home (Deluxe)",
-        "url": "https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 206386,
-      "name": "Coming Home",
-      "url": "https://open.spotify.com/track/65GbQI9VDTs7vo6MJL2iJA"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "THE END OF EVERYTHING",
         "url": "https://open.spotify.com/album/5Gn3fFzlWL89j0hGumtXb5"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 144377,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/6U1iuA5QfzYRPJxvdcxqtf"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Coming Home (Deluxe)",
+        "url": "https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 206386,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/65GbQI9VDTs7vo6MJL2iJA"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -815,6 +815,22 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
+        "name": "Lonely City",
+        "url": "https://open.spotify.com/album/12THdrTqf9HdZKA2P6FISA"
+      },
+      "artists": [
+        {
+          "name": "Mokita",
+          "url": "https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE"
+        }
+      ],
+      "duration_ms": 157523,
+      "name": "Lonely City",
+      "url": "https://open.spotify.com/track/4q3biaQQoADspV16lbsfPH"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
         "name": "Best Part of Me (feat. YEBBA)",
         "url": "https://open.spotify.com/album/6Z5DhADmyybfKNdymaPLjB"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 243266,
       "name": "Best Part of Me (feat. YEBBA)",
       "url": "https://open.spotify.com/track/5ug4vqGZ3eisGhY1IsziNX"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "Lonely City",
-        "url": "https://open.spotify.com/album/12THdrTqf9HdZKA2P6FISA"
-      },
-      "artists": [
-        {
-          "name": "Mokita",
-          "url": "https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE"
-        }
-      ],
-      "duration_ms": 157523,
-      "name": "Lonely City",
-      "url": "https://open.spotify.com/track/4q3biaQQoADspV16lbsfPH"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "So Good (Stripped)",
-        "url": "https://open.spotify.com/album/1THYS7xuqQeUFgZcKoapie"
-      },
-      "artists": [
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        }
-      ],
-      "duration_ms": 191919,
-      "name": "So Good - Stripped",
-      "url": "https://open.spotify.com/track/4vi0VouKDXJZEBANYxwCFN"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "slow summer",
         "url": "https://open.spotify.com/album/5h57maDhvtnrVnJa7ihR7D"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 168782,
       "name": "slow summer",
       "url": "https://open.spotify.com/track/4JEGeqPF0RH7oi1lHdtbK6"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "So Good (Stripped)",
+        "url": "https://open.spotify.com/album/1THYS7xuqQeUFgZcKoapie"
+      },
+      "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "duration_ms": 191919,
+      "name": "So Good - Stripped",
+      "url": "https://open.spotify.com/track/4vi0VouKDXJZEBANYxwCFN"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Lady Like",
-        "url": "https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
-        }
-      ],
-      "duration_ms": 191906,
-      "name": "The Stranger",
-      "url": "https://open.spotify.com/track/6lJQpz7R61Yn05aa7bKZ3k"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Expectations",
         "url": "https://open.spotify.com/album/1v30ZLtb2nYIWqDto4GuIP"
       },
@@ -1535,18 +1519,18 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Better Off",
-        "url": "https://open.spotify.com/album/6a9bsIUvtXmqj6HaEOIAq3"
+        "name": "Lady Like",
+        "url": "https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl"
       },
       "artists": [
         {
-          "name": "Sjowgren",
-          "url": "https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y"
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
         }
       ],
-      "duration_ms": 195923,
-      "name": "Better Off",
-      "url": "https://open.spotify.com/track/2oBzsiZT8qmlovYS1FMf06"
+      "duration_ms": 191906,
+      "name": "The Stranger",
+      "url": "https://open.spotify.com/track/6lJQpz7R61Yn05aa7bKZ3k"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1563,6 +1547,22 @@
       "duration_ms": 166139,
       "name": "Small Talk",
       "url": "https://open.spotify.com/track/1HkB10b5D1tb0fSb1QsOvD"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Better Off",
+        "url": "https://open.spotify.com/album/6a9bsIUvtXmqj6HaEOIAq3"
+      },
+      "artists": [
+        {
+          "name": "Sjowgren",
+          "url": "https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y"
+        }
+      ],
+      "duration_ms": 195923,
+      "name": "Better Off",
+      "url": "https://open.spotify.com/track/2oBzsiZT8qmlovYS1FMf06"
     },
     {
       "added_at": "2022-09-16 04:00:00",

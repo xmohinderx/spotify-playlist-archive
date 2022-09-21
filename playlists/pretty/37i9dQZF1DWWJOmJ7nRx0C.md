@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 
 > The hardest songs, loud\. Very loud\. Cover:  STARSET
 
-[Spotify](https://open.spotify.com/user/spotify) - 849,964 likes - 151 songs - 9 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 850,167 likes - 151 songs - 9 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

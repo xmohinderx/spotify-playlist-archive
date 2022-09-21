@@ -4,7 +4,7 @@
 
 > Questa è la tua notte, balla fino al mattino tra hit dance e ritmi latini.
 
-122 songs - 5 hr 57 min - [published](https://open.spotify.com/playlist/6uLKlMPypBwIRPBuUpYQaw)
+123 songs - 6 hr 0 min - [published](https://open.spotify.com/playlist/6uLKlMPypBwIRPBuUpYQaw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Drive \(feat\. Wes Nelson\)](https://open.spotify.com/track/6eCmK3GQyFuTNWCJHsaF9d) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Wes Nelson](https://open.spotify.com/artist/4ktBrNjagCGftyuBLJkATq) | [Drive \(feat\. Wes Nelson\)](https://open.spotify.com/album/7wDWQrTNxHSVvklLTucK2D) | 2:59 | 2022-05-03 | 2022-07-29 |
 | [Drunk in Love](https://open.spotify.com/track/0rG5jvbdBRAg7paORdTWSe) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR) | [Slap House Party](https://open.spotify.com/album/7risiHnzUvnYXey8cpEdoX) | 2:45 | 2022-05-16 | 2022-05-18 |
 | [Envolver](https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Envolver](https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7) | 3:13 | 2022-05-03 | 2022-08-30 |
-| [Family Affair \(Dance For Me\)](https://open.spotify.com/track/1dP519dbEob8H6wiouRdaY) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Family Affair \(Dance For Me\)](https://open.spotify.com/album/4Od76Fafa1rc89D7yLBfVH) | 2:38 | 2022-09-06 |  |
+| [Family Affair \(Dance For Me\)](https://open.spotify.com/track/1dP519dbEob8H6wiouRdaY) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Family Affair \(Dance For Me\)](https://open.spotify.com/album/4Od76Fafa1rc89D7yLBfVH) | 2:38 | 2022-09-06 | 2022-09-21 |
 | [Ferrari](https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Miggy Dela Rosa](https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU) | [Ferrari](https://open.spotify.com/album/6moZ4sNThthUAwCklyuPY8) | 3:06 | 2022-05-09 |  |
 | [FINIMONDO](https://open.spotify.com/track/0JbzHTWp24Fe1l7NBzzp4p) | [M¥SS KETA](https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM) | [FINIMONDO](https://open.spotify.com/album/5v0DjHceNOVZGIqtNzR8i2) | 2:51 | 2022-06-10 | 2022-08-30 |
 | [Freed From Desire](https://open.spotify.com/track/3u5N55tHf7hXATSQrjBh2q) | [Gala](https://open.spotify.com/artist/3OqTvcWgb0xaainosGVvuZ) | [Come Into My Life \(The Album\)](https://open.spotify.com/album/3vcwGUl0WiJVssOR1dXEbe) | 3:33 | 2022-07-15 |  |
@@ -58,6 +58,7 @@
 | [Hawái](https://open.spotify.com/track/1yoMvmasuxZfqHEipJhRbp) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [PAPI JUANCHO](https://open.spotify.com/album/0p2yf6DucEgvj8Uk8KXJJv) | 3:19 | 2022-07-15 |  |
 | [Head & Heart \(feat\. MNEK\)](https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Head & Heart \(feat\. MNEK\)](https://open.spotify.com/album/5glfCPECXSHzidU6exW8wO) | 2:46 | 2022-05-09 |  |
 | [Head Shoulders Knees & Toes \(feat\. Norma Jean Martine\)](https://open.spotify.com/track/6i7zAdNhzUN2k1HcrBxPHG) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [Quarterhead](https://open.spotify.com/artist/2h6hAChW74hB9HvrNoK1RY), [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB) | [Head Shoulders Knees & Toes \(feat\. Norma Jean Martine\)](https://open.spotify.com/album/1MZ3ZQqAV3wFjHjaOe6KFz) | 2:36 | 2022-05-09 | 2022-06-15 |
+| [Here With Me](https://open.spotify.com/track/5icOoE6VgqFKohjWWNp0Ac) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Here With Me](https://open.spotify.com/album/6NHS3hV16MZyfcp0nSHdrd) | 2:36 | 2022-09-12 |  |
 | [HIT IT \(feat\. Saweetie & Lele Pons\)](https://open.spotify.com/track/3F450ZpnsuW5G7YMmjMLmi) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [Lele Pons](https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx) | [HIT IT \(feat\. Saweetie & Lele Pons\)](https://open.spotify.com/album/1xSMnmIJ4Eeqo7zTm84OO3) | 3:55 | 2022-05-03 | 2022-07-16 |
 | [Hypnotized](https://open.spotify.com/track/0vWUhCPxpJOJR5urYbZypB) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF) | [Hypnotized](https://open.spotify.com/album/3i75dx8ORmKhhdwKLyZHqM) | 3:15 | 2022-05-09 | 2022-07-28 |
 | [I'm Good \(Blue\)](https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm Good \(Blue\)](https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3) | 2:55 | 2022-08-29 |  |

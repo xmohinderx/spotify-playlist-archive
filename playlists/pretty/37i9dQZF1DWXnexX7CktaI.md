@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnexX7CktaI.md) - [plain]
 
 > All the jams\. Cover: Miguel
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,851,030 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,851,529 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnexX7CktaI.md) - [plain]
 | 21 | [Like I Want You](https://open.spotify.com/track/6qBFSepqLCuh5tehehc1bd) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TAKE TIME](https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C) | 4:20 |
 | 22 | [Exchange](https://open.spotify.com/track/43PuMrRfbyyuz4QpZ3oAwN) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [T R A P S O U L](https://open.spotify.com/album/6eZdwrhB97A3EYx9QppGfl) | 3:14 |
 | 23 | [Trust](https://open.spotify.com/track/0oufSLnKQDoBFX5mgkDCgR) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Lost](https://open.spotify.com/album/03nFfkhtHqQZZqprep3G6r) | 2:38 |
-| 24 | [Hrs & Hrs](https://open.spotify.com/track/3M5azWqeZbfoVkGXygatlb) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection](https://open.spotify.com/album/2ngrG39dI2ofhCxjmFnKv5) | 3:24 |
+| 24 | [Could've Been \(feat\. Bryson Tiller\)](https://open.spotify.com/track/6oEVnWKgPqIEPc53OYDNqG) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [I Used To Know Her](https://open.spotify.com/album/0IMTA2Wz6p8CNZ0MDK2zvg) | 4:12 |
 | 25 | [Love Galore \(feat\. Travis Scott\)](https://open.spotify.com/track/0q75NwOoFiARAVp4EXU4Bs) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Ctrl](https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh) | 4:35 |
-| 26 | [Could've Been \(feat\. Bryson Tiller\)](https://open.spotify.com/track/6oEVnWKgPqIEPc53OYDNqG) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [I Used To Know Her](https://open.spotify.com/album/0IMTA2Wz6p8CNZ0MDK2zvg) | 4:12 |
+| 26 | [Hrs & Hrs](https://open.spotify.com/track/3M5azWqeZbfoVkGXygatlb) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection](https://open.spotify.com/album/2ngrG39dI2ofhCxjmFnKv5) | 3:24 |
 | 27 | [oui](https://open.spotify.com/track/0PJIbOdMs3bd5AT8liULMQ) | [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Late Nights: The Album](https://open.spotify.com/album/7DMyQuDPe8xzjC0UDSDa96) | 3:58 |
 | 28 | [Girl With The Tattoo Enter.lewd](https://open.spotify.com/track/1eUGmzzvahJjOSWgDHuRlv) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [All I Want Is You](https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R) | 1:42 |
 | 29 | [Essence \(feat\. Tems\)](https://open.spotify.com/track/5FG7Tl93LdH117jEKYl3Cm) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 4:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnexX7CktaI.md) - [plain]
 | 49 | [Come Thru \(with Usher\)](https://open.spotify.com/track/3TTMUI5dFcbeNSDTTDY9M8) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Over It](https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK) | 3:01 |
 | 50 | [Gonna Love Me](https://open.spotify.com/track/3nXrCAE44KlevAkQB2XWcN) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a) | [K.T.S.E.](https://open.spotify.com/album/0mwf6u9KVhZDCNVyIi6JuU) | 2:46 |
 
-Snapshot ID: `MTY2MTc5NDU2NywwMDAwMDAwMGEwNTI2MTFmNzA5MzZjZGY3OGE2NTI2MjAzOTY3NDUw`
+Snapshot ID: `MTY2MTc5NDU2NywwMDAwMDAwMDZjODQ3NmZiZjAwZTYwZDRkMjI0MjI2YmU3YjQyNzk1`

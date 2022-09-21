@@ -4,7 +4,7 @@
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-279 songs - 17 hr 26 min - [published](https://open.spotify.com/playlist/16lfBzqcUXT8nJukNLWVkv)
+280 songs - 17 hr 29 min - [published](https://open.spotify.com/playlist/16lfBzqcUXT8nJukNLWVkv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Long Night out](https://open.spotify.com/track/2AgPtmjYgpJ1RX1PTUbywv) | [futures](https://open.spotify.com/artist/2wtFS2xpKzmzVCD1k9vhI6) | [What’s a future?](https://open.spotify.com/album/1DLXcDfhvGfkzeCPjBCdCv) | 5:48 | 2022-07-19 | 2022-08-25 |
 | [Love Inside](https://open.spotify.com/track/3KkW1OyyxzsHA4joskFfTI) | [Pictured Resort](https://open.spotify.com/artist/7BCf2R7bgylYjfgeq5Zrrm) | [Once Upon A Season](https://open.spotify.com/album/3kpwGzS5p8mkA4dO2ll0oL) | 3:58 | 2022-07-05 | 2022-07-27 |
 | [Mad Doctor](https://open.spotify.com/track/5zi0i85j65B7VeHofufPwt) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj) | [MAD DOCTOR](https://open.spotify.com/album/5fOaAZm7tVTv5aimJ9FKbv) | 2:33 | 2022-05-26 | 2022-06-29 |
+| [Magic Mirror feat\. AAAMYYY, TENDRE](https://open.spotify.com/track/6gEYqzu9uNwLHrtYHURAml) | [Ryohu](https://open.spotify.com/artist/0qQOHfWvRf8O1wXYXMmV6U), [AAAMYYY](https://open.spotify.com/artist/5YCsKCBbhMHBKBh2MllF5d), [TENDRE](https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb) | [Circus](https://open.spotify.com/album/4Ii8q4sE5ZtQ7XnZAd6KqQ) | 3:38 | 2022-09-20 |  |
 | [MAGIC WAYS](https://open.spotify.com/track/783nZiDSXc4qLTXwx5t04g) | [Nulbarich](https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD) | [MAGIC WAYS](https://open.spotify.com/album/6ABM2rD5JvdwPGZDQ3bNEw) | 4:29 | 2022-08-16 |  |
 | [Marmalade](https://open.spotify.com/track/41lzOu3fYK2bqHoXCAoXlo) | [LHRHND](https://open.spotify.com/artist/5Y4wI02HN3fDWmqO0OKGir), [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf), [OHTORA](https://open.spotify.com/artist/16W2CFdMJKvN99ZWwoEB0k) | [Marmalade](https://open.spotify.com/album/2LYiSNiCHglLQjyeTC0fyl) | 2:58 | 2022-08-03 | 2022-09-15 |
 | [mayonnaise](https://open.spotify.com/track/4lErKE9FjE7pbqY85t3nn5) | [ego apartment](https://open.spotify.com/artist/20SNDAIdUW3fjTA14UvSj4) | [EGO APARTMENT](https://open.spotify.com/album/2eY4Vn0kpCGAIg58PlT8yB) | 3:46 | 2022-05-31 | 2022-08-12 |
@@ -188,7 +189,7 @@
 | [Tangerine](https://open.spotify.com/track/5BM1h0qH0CVWMjw0RIQtbn) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [Tangerine](https://open.spotify.com/album/7Jox1gthhLqTpzfswyMnk2) | 3:22 | 2022-05-26 | 2022-07-27 |
 | [Tastes Like It Smells \(Remix\)](https://open.spotify.com/track/20o2ymSFHBmWiWRa1yPoYN) | [Sen Morimoto](https://open.spotify.com/artist/3zlWvRPwLwGSi2v6ltrhOl), [Osteoleuco](https://open.spotify.com/artist/42u1RJUE0BhUW7VkXntJ99), [Lil' Leise But Gold](https://open.spotify.com/artist/0u4knCwkqdkkwuG2ddLr4n), [maco marets](https://open.spotify.com/artist/5DbBdSGEbUynwuApR95Bfi) | [Sean Motorolla](https://open.spotify.com/album/4TmTdCXzIbqwjcrZ7n5r0i) | 4:57 | 2022-07-12 | 2022-08-03 |
 | [Teenager](https://open.spotify.com/track/2bmq7wwgtGVPPJ0vYpjcXq) | [Superorganism](https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE), [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx), [Pi Ja Ma](https://open.spotify.com/artist/4Rvd84k54Bx41YK2kH3GoA) | [World Wide Pop](https://open.spotify.com/album/6iUUKuRHlCy9GeKmIwbPRu) | 2:59 | 2022-08-03 | 2022-09-15 |
-| [tender icecream](https://open.spotify.com/track/1EzLPxQ7Ql4aIZkNCIEiqY) | [Laura day romance](https://open.spotify.com/artist/19RZk1SGPSL1DChYdDQYl1) | [Seasons.ep](https://open.spotify.com/album/6ZZqCvMiApoWGZfsCYVDAB) | 3:30 | 2022-08-24 |  |
+| [tender icecream](https://open.spotify.com/track/1EzLPxQ7Ql4aIZkNCIEiqY) | [Laura day romance](https://open.spotify.com/artist/19RZk1SGPSL1DChYdDQYl1) | [Seasons.ep](https://open.spotify.com/album/6ZZqCvMiApoWGZfsCYVDAB) | 3:30 | 2022-08-24 | 2022-09-21 |
 | [The Dawn](https://open.spotify.com/track/5NCfFFDLWN4hfgphPRaFpn) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb) | [The Dawn](https://open.spotify.com/album/3pHBDWw0nnEPCoUrAutLej) | 3:49 | 2022-05-26 | 2022-06-29 |
 | [the wire](https://open.spotify.com/track/1YcIUoRRC2gtPa5HN87idh) | [ego apartment](https://open.spotify.com/artist/20SNDAIdUW3fjTA14UvSj4) | [EGO APARTMENT](https://open.spotify.com/album/2eY4Vn0kpCGAIg58PlT8yB) | 3:38 | 2022-08-11 |  |
 | [Thinking](https://open.spotify.com/track/5ZuVfW3iyz4AUA7aSDwNtp) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR) | [Thinking](https://open.spotify.com/album/3DpicBvCX079m21wMy9cMt) | 4:02 | 2022-08-03 |  |

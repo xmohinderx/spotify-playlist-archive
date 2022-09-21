@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBrhp0Cvkwt.md) - [plain]
 
 > soundtracking your ex calling/nothing's working/existential crisis
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,238 likes - 80 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,649 likes - 80 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBrhp0Cvkwt.md) - [plain]
 | 55 | [at least i'm pretty](https://open.spotify.com/track/5o9iQVktO08gIlRAHqqxtj) | [Harriette](https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa) | [at least i'm pretty](https://open.spotify.com/album/2OAHHz54HY0g1vLBr23Gmg) | 1:46 |
 | 56 | [bitches broken hearts](https://open.spotify.com/track/5t3Vk8bRKylx4fjj7qlbib) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [bitches broken hearts](https://open.spotify.com/album/1Z0XtKcevvITZ5ydimkYcx) | 2:56 |
 | 57 | [hate u love u](https://open.spotify.com/track/6ATgDc6e4sPn84hvJsAmPt) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [hate u love u](https://open.spotify.com/album/0rajxwGsaQ1sqoegXK6gvw) | 2:55 |
-| 58 | [Heaven Knows I'm Miserable Now \- 2011 Remaster](https://open.spotify.com/track/1xaTREM89RbIxkcjlpf4Uw) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [Hatful of Hollow](https://open.spotify.com/album/1j57Q5ntVi7crpibb0h4sv) | 3:35 |
-| 59 | [Nothing New \(feat\. Phoebe Bridgers\) \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/track/01K4zKU104LyJ8gMb7227B) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 4:18 |
+| 58 | [Nothing New \(feat\. Phoebe Bridgers\) \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/track/01K4zKU104LyJ8gMb7227B) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 4:18 |
+| 59 | [Heaven Knows I'm Miserable Now \- 2011 Remaster](https://open.spotify.com/track/1xaTREM89RbIxkcjlpf4Uw) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [Hatful of Hollow](https://open.spotify.com/album/1j57Q5ntVi7crpibb0h4sv) | 3:35 |
 | 60 | [From the Dining Table](https://open.spotify.com/track/1IF5UcqRO42D12vYwceOY6) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry Styles](https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV) | 3:31 |
 | 61 | [Liability](https://open.spotify.com/track/6Kkt27YmFyIFrcX3QXFi2o) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 2:51 |
 | 62 | [all the kids are depressed](https://open.spotify.com/track/75ls0gurX68lUmMjE7QcsE) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [glisten](https://open.spotify.com/album/14lSyFVCuhvEoW7ogOIzD0) | 2:49 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBrhp0Cvkwt.md) - [plain]
 | 79 | [Been Like This](https://open.spotify.com/track/7y3xU9vEC1s8DSuuoSYKih) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 2:57 |
 | 80 | [Talk 2 Me](https://open.spotify.com/track/6pPLhloHxLWiMlAT5Xn1gw) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [JAMIE](https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl) | 2:19 |
 
-Snapshot ID: `MTY2MzI1MTcyNCwwMDAwMDAwMDA2YjhkZGVlNzE0ZDJkNTZiMGE0ZmQ1OWQ5NDM5MjE2`
+Snapshot ID: `MTY2MzI1MTcyNCwwMDAwMDAwMDJmMmY3YWU1YjE0NzBlOGM4NWNiNmJmZGI1OGEzMDY3`

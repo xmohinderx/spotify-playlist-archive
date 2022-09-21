@@ -1276,6 +1276,32 @@
     },
     {
       "album": {
+        "name": "Comfortable",
+        "url": "https://open.spotify.com/album/0Pylmck9B199lPMHwtdu8O"
+      },
+      "artists": [
+        {
+          "name": "Chris Brickley",
+          "url": "https://open.spotify.com/artist/64FvfEFRBdQlMyy50zZX62"
+        },
+        {
+          "name": "Dave East",
+          "url": "https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5"
+        },
+        {
+          "name": "Jadakiss",
+          "url": "https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216267,
+      "name": "Comfortable",
+      "url": "https://open.spotify.com/track/10zQ7RusGiAimQv92m9wlj"
+    },
+    {
+      "album": {
         "name": "Dollar Menu 2",
         "url": "https://open.spotify.com/album/1aJVIX0L3bfgUatWdSnPzh"
       },
@@ -6545,7 +6571,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 201128,
       "name": "Times Is Rough",
       "url": "https://open.spotify.com/track/1EzmTNUSKb0J5eXGgrP6wy"

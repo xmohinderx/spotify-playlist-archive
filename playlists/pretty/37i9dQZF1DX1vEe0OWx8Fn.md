@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1vEe0OWx8Fn.md) - [plain]
 
 > it was never just a phase
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,861 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,951 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1vEe0OWx8Fn.md) - [plain]
 | 41 | [abcdefu \(feat\. Royal & the Serpent\)](https://open.spotify.com/track/3xSyUXUkSiBLsJNpPpG4v1) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9), [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [abcdefu \(feat\. Royal & the Serpent\)](https://open.spotify.com/album/4yfT2AABmfgPrr40yhhyXx) | 2:49 |
 | 42 | [Creep](https://open.spotify.com/track/5nC2VyPxefp5EXVViTcz7S) | [carolesdaughter](https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB) | [Creep](https://open.spotify.com/album/4C9Io2lIQJdBo9RH1XK8Gj) | 3:42 |
 | 43 | [fall apart \(with glaive\)](https://open.spotify.com/track/6vOY0h3OyLLSXouDtP6FkN) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D), [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [off saint dominique EP](https://open.spotify.com/album/5BxlFXGHkjDUMCRAGpVyHD) | 2:36 |
-| 44 | [The King and Queen of Gasoline](https://open.spotify.com/track/1Ee8F0OqNRgdXoO9HoOrKI) | [Hot Milk](https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK) | [The King and Queen of Gasoline](https://open.spotify.com/album/1a3S2I3J4LcmAoj5ttDaoP) | 3:38 |
-| 45 | [problems](https://open.spotify.com/track/0YcJfsr91XXLiSapSQbtJf) | [44phantom](https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ) | [die sometime, it's good for u](https://open.spotify.com/album/04JMztBf0vX3JfxKIaifGa) | 2:48 |
+| 44 | [problems](https://open.spotify.com/track/0YcJfsr91XXLiSapSQbtJf) | [44phantom](https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ) | [die sometime, it's good for u](https://open.spotify.com/album/04JMztBf0vX3JfxKIaifGa) | 2:48 |
+| 45 | [The King and Queen of Gasoline](https://open.spotify.com/track/1Ee8F0OqNRgdXoO9HoOrKI) | [Hot Milk](https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK) | [The King and Queen of Gasoline](https://open.spotify.com/album/1a3S2I3J4LcmAoj5ttDaoP) | 3:38 |
 | 46 | [NO VANITY](https://open.spotify.com/track/0tQPcLmwvAnS5eXSuAUokD) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [Tell Me About Tomorrow](https://open.spotify.com/album/11xZPFzFKdaLz2BTS1d48T) | 3:25 |
 | 47 | [in love](https://open.spotify.com/track/0jcDwzxkfzdRHLiVHiRQII) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [in love](https://open.spotify.com/album/09GS5ONXA0R6l8oPCTsyzl) | 2:32 |
 | 48 | [{ The Dreamer’s Hotel }](https://open.spotify.com/track/54wnl8UEtlaWgy3mNaXMnL) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [Nothing is True & Everything is Possible](https://open.spotify.com/album/4VBnxLnSqWSodiwHIZGdIH) | 2:53 |
-| 49 | [Teenage Heartbreak](https://open.spotify.com/track/0skv6CWu2KWa97zeAFaSTb) | [Huddy](https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f) | [Teenage Heartbreak](https://open.spotify.com/album/6J3MyFpk3rKOlthkLrW7q9) | 3:08 |
-| 50 | [DIE.](https://open.spotify.com/track/2eG73ReC02zztM4ll0EFqi) | [Johnny Goth](https://open.spotify.com/artist/1ejkQAcOu9cl7kEbZ3Nb8b) | [DIE.](https://open.spotify.com/album/4iSdfXtUE3ur5UHJqjI4FB) | 2:50 |
+| 49 | [DIE.](https://open.spotify.com/track/2eG73ReC02zztM4ll0EFqi) | [Johnny Goth](https://open.spotify.com/artist/1ejkQAcOu9cl7kEbZ3Nb8b) | [DIE.](https://open.spotify.com/album/4iSdfXtUE3ur5UHJqjI4FB) | 2:50 |
+| 50 | [Teenage Heartbreak](https://open.spotify.com/track/0skv6CWu2KWa97zeAFaSTb) | [Huddy](https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f) | [Teenage Heartbreak](https://open.spotify.com/album/6J3MyFpk3rKOlthkLrW7q9) | 3:08 |
 
-Snapshot ID: `MTY2MDY4NzU5NSwwMDAwMDAwMDA3MjRlZDI3MzFjZDQ1ZTI2YjNiYmE0ZDM5ZWEyNWUx`
+Snapshot ID: `MTY2MDY4NzU5NSwwMDAwMDAwMGEzNzVhNDQ2YjRiYTUyYWNmMWJjMmI5MDRiYmY4YmM1`

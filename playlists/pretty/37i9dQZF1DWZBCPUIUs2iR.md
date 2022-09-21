@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBCPUIUs2iR.md) - [plain]
 
 > A compilation of the all\-time biggest hits in Country Music\. Cover: George Strait
 
-[Spotify](https://open.spotify.com/user/spotify) - 306,856 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 307,444 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,16 +42,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBCPUIUs2iR.md) - [plain]
 | 32 | [Need You Now](https://open.spotify.com/track/11EX5yhxr9Ihl3IN1asrfK) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Need You Now](https://open.spotify.com/album/3hnGcNi8oqGdwTm3CeniFA) | 4:37 |
 | 33 | [Strawberry Wine](https://open.spotify.com/track/3ODF56f90W3qxDqxHAUi3v) | [Deana Carter](https://open.spotify.com/artist/0aqrM7Fo3Ml66Kc5JAzmjt) | [The Deana Carter Collection](https://open.spotify.com/album/5WqK9zGqUlTw7IPY2k1Yqd) | 4:50 |
 | 34 | [As Good As I Once Was](https://open.spotify.com/track/7G6l2FtQyRhQgYgut2I6i8) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Honkytonk University](https://open.spotify.com/album/4SOpJPkpAO8FT9n4sbmnoT) | 3:47 |
-| 35 | [Cowboy Take Me Away](https://open.spotify.com/track/3rXCZRMiMZp0feGcYXpwYX) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Fly](https://open.spotify.com/album/3y6G5El2I6QrJA9BdfAbqA) | 4:47 |
-| 36 | [Our Song](https://open.spotify.com/track/15DeqWWQB4dcEWzJg15VrN) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Taylor Swift](https://open.spotify.com/album/7mzrIsaAjnXihW3InKjlC3) | 3:21 |
+| 35 | [Our Song](https://open.spotify.com/track/15DeqWWQB4dcEWzJg15VrN) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Taylor Swift](https://open.spotify.com/album/7mzrIsaAjnXihW3InKjlC3) | 3:21 |
+| 36 | [Cowboy Take Me Away](https://open.spotify.com/track/3rXCZRMiMZp0feGcYXpwYX) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Fly](https://open.spotify.com/album/3y6G5El2I6QrJA9BdfAbqA) | 4:47 |
 | 37 | [Carrying Your Love With Me](https://open.spotify.com/track/7puxIVNdj5nsBJk43zM3bH) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Carrying Your Love With Me](https://open.spotify.com/album/3YwF2y9Y3FfEy2NOtDuDZZ) | 3:52 |
 | 38 | [My Church](https://open.spotify.com/track/1LM5zQv5pBKPyO7rm7Uz6U) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [HERO \(Deluxe Edition\)](https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK) | 3:17 |
-| 39 | [I Like It, I Love It](https://open.spotify.com/track/3IvcWWehbBcBR4YZxlGM9R) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [All I Want](https://open.spotify.com/album/6l9E1hjtJqivhVIageAWM8) | 3:25 |
+| 39 | [Live Like You Were Dying](https://open.spotify.com/track/7B1QliUMZv7gSTUGAfMRRD) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Live Like You Were Dying](https://open.spotify.com/album/0os1Gz3XMM6dduZSMxVuXs) | 5:00 |
 | 40 | [Kiss an Angel Good Mornin'](https://open.spotify.com/track/0alXPC11fIucBFD6qcCE94) | [Charley Pride](https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE) | [The Essential Charley Pride](https://open.spotify.com/album/4ALGvSzcQF4SD9WXLyDI75) | 2:03 |
 | 41 | [Folsom Prison Blues \- Live at Folsom State Prison, Folsom, CA \- January 1968](https://open.spotify.com/track/2fDHuS1PTkHBbCWWZF1ph9) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [At Folsom Prison](https://open.spotify.com/album/4TJIdlY9hGSSTO1kUs1neh) | 2:42 |
 | 42 | [Somebody Like You](https://open.spotify.com/track/0b9djfiuDIMw1zKH6gV74g) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Golden Road](https://open.spotify.com/album/1O87Gkgvc6QR1JRpMkgnE7) | 5:23 |
 | 43 | [My Maria](https://open.spotify.com/track/09qzRI951OVkXGCc33gzcT) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz) | [\#1s ..\. and then some](https://open.spotify.com/album/1ZXM9jY3Bsg12KXgwftBrO) | 3:28 |
-| 44 | [Live Like You Were Dying](https://open.spotify.com/track/7B1QliUMZv7gSTUGAfMRRD) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Live Like You Were Dying](https://open.spotify.com/album/0os1Gz3XMM6dduZSMxVuXs) | 5:00 |
+| 44 | [I Like It, I Love It](https://open.spotify.com/track/3IvcWWehbBcBR4YZxlGM9R) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [All I Want](https://open.spotify.com/album/6l9E1hjtJqivhVIageAWM8) | 3:25 |
 | 45 | [This Kiss](https://open.spotify.com/track/5EYWGM3Ns3iYew8ws0FatB) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [Faith](https://open.spotify.com/album/2lKDDrmx5aqyBRkho5ljn5) | 3:14 |
 | 46 | [Achy Breaky Heart](https://open.spotify.com/track/2EoIt9vdgFRNW03u5IvFsQ) | [Billy Ray Cyrus](https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa) | [Some Gave All](https://open.spotify.com/album/2Rh2JyaBjJwPMFR9Dl60nV) | 3:23 |
 | 47 | [Why Don't We Just Dance](https://open.spotify.com/track/2p07VcUwRZ5sru3mJ0JogS) | [Josh Turner](https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT) | [Haywire](https://open.spotify.com/album/4AwUix40p2isD6wvEBPpQ8) | 3:12 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBCPUIUs2iR.md) - [plain]
 | 77 | [Pickup Man](https://open.spotify.com/track/3QvOV1QYPPre7gjppKyeON) | [Joe Diffie](https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g) | [Greatest Hits](https://open.spotify.com/album/6CUTxBQse7shPPF33yCRd0) | 3:36 |
 | 78 | [You Look So Good In Love](https://open.spotify.com/track/5BYOLEoFD1fWokKncxz7BQ) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [George Strait's Greatest Hits](https://open.spotify.com/album/7x8avOLIjaENw4csHfd40c) | 3:13 |
 | 79 | [Daddy Sang Bass](https://open.spotify.com/track/15TITugVC8RrpLctHXOqT8) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [The Essential Johnny Cash](https://open.spotify.com/album/4E2eUhFHqTG2pu9MN1NDIF) | 2:20 |
-| 80 | [Islands In the Stream](https://open.spotify.com/track/4dqEzdFAYkj1rjYLVDuTlN) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4) | [Ultimate Dolly Parton](https://open.spotify.com/album/03DTXxfU0UJ96lt1umUtts) | 4:09 |
-| 81 | [Love, Me](https://open.spotify.com/track/5cCLKP66G2PJEorzYQVXHR) | [Collin Raye](https://open.spotify.com/artist/4AwLiAGc1rRLrCepj5rdTI) | [All I Can Be](https://open.spotify.com/album/4FpmJIF1jrWpgKaSp7jWmA) | 3:51 |
+| 80 | [Love, Me](https://open.spotify.com/track/5cCLKP66G2PJEorzYQVXHR) | [Collin Raye](https://open.spotify.com/artist/4AwLiAGc1rRLrCepj5rdTI) | [All I Can Be](https://open.spotify.com/album/4FpmJIF1jrWpgKaSp7jWmA) | 3:51 |
+| 81 | [Islands In the Stream](https://open.spotify.com/track/4dqEzdFAYkj1rjYLVDuTlN) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4) | [Ultimate Dolly Parton](https://open.spotify.com/album/03DTXxfU0UJ96lt1umUtts) | 4:09 |
 | 82 | [Killin' Time](https://open.spotify.com/track/4H2TRR9FjnnIwxGnIt9stO) | [Clint Black](https://open.spotify.com/artist/3Ay15wt0QChT4Kapsuw5Jt) | [Ultimate Clint Black](https://open.spotify.com/album/3fsGT85qu4Jhvs9htCgygz) | 2:48 |
 | 83 | [Big City](https://open.spotify.com/track/7MYCBhcWtRSJ7YXTfIHlI8) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [The Essential Merle Haggard: The Epic Years](https://open.spotify.com/album/1JWqodXuHDoGHqxyATcPJb) | 2:59 |
 | 84 | [High Cotton](https://open.spotify.com/track/2KEu2z1f7TakR3KY4jGLzl) | [Alabama](https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC) | [Livin' Lovin' Rockin' Rollin': The 25th Anniversary Collection](https://open.spotify.com/album/1jafIRrPVaBkcwl3TC0C8T) | 3:00 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBCPUIUs2iR.md) - [plain]
 | 99 | [My Heart Skips A Beat](https://open.spotify.com/track/1jGa3ZVWNhqes22ZoVBfOJ) | [Buck Owens](https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu) | [All\-Time Greatest Hits](https://open.spotify.com/album/6c31q0EiGPqzNVDKfQzyzt) | 2:28 |
 | 100 | [All the Gold In California](https://open.spotify.com/track/6yLDMogQVRdVmwlh8uw526) | [Larry Gatlin & The Gatlin Brothers](https://open.spotify.com/artist/0KzlJXg6A3NVSCkRjecKnS) | [Straight Ahead \(Expanded Edition\)](https://open.spotify.com/album/1XNfE0t3kM8zV4XVqPDHNQ) | 2:37 |
 
-Snapshot ID: `MTY2MzIxNDQwMCwwMDAwMDAwMDZiYmRhNzRiM2Q0MjNlMTkwYjY0ZGQyNWUyNGJhYzIw`
+Snapshot ID: `MTY2MzIxNDQwMCwwMDAwMDAwMDE0NDk4YjQ3MTFlNjEzNzNjZmVkOWE5MjJkYjRmMjU1`

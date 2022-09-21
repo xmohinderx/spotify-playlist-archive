@@ -4,7 +4,7 @@
 
 > Big rooms with big sounds\. Cover: Quintino
 
-190 songs - 9 hr 54 min - [published](https://open.spotify.com/playlist/6qNCTGV1lgbBTyQi4Ez9QG)
+191 songs - 9 hr 56 min - [published](https://open.spotify.com/playlist/6qNCTGV1lgbBTyQi4Ez9QG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Battlefield](https://open.spotify.com/track/4L8tAFBftTAOo5pjeXVW9g) | [Ryos](https://open.spotify.com/artist/7us9kFadl2fztbHSvlNk6M), [Reggio](https://open.spotify.com/artist/1Q6CDBTFFKnanZ20DS2QnQ), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Battlefield](https://open.spotify.com/album/1mtzE0SF8NyrV0CT4NV8tj) | 3:00 | 2022-04-14 | 2022-07-29 |
 | [Battlefield](https://open.spotify.com/track/6b0FcvPP7M5EETtkmz1yQB) | [Ryos](https://open.spotify.com/artist/7us9kFadl2fztbHSvlNk6M), [Reggio](https://open.spotify.com/artist/1Q6CDBTFFKnanZ20DS2QnQ), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Battlefield](https://open.spotify.com/album/3lxyMjsVcDWkpuLuiYdnH2) | 3:00 | 2022-07-28 |  |
 | [Beat Of My Heart](https://open.spotify.com/track/5lHKO6KzDJELesoxLFiASz) | [R3SPAWN](https://open.spotify.com/artist/2Pfp9mATiuKRzCMLhfs3tB) | [Beat Of My Heart](https://open.spotify.com/album/3bHtXH4CzjDyT4XboPlwPo) | 2:41 | 2022-04-21 | 2022-07-28 |
+| [Beat Of My Heart](https://open.spotify.com/track/6IHQczMpJmWnNIKijtKHY1) | [R3SPAWN](https://open.spotify.com/artist/2Pfp9mATiuKRzCMLhfs3tB) | [Beat Of My Heart](https://open.spotify.com/album/0jTrfHAkabTrkRUS9EjaGS) | 2:41 | 2022-09-15 |  |
 | [BED \- David Guetta Festival Mix](https://open.spotify.com/track/5z6jkLZ698f5SmQa4s189t) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [BED \(David Guetta Festival Mix\)](https://open.spotify.com/album/2g7TH4pjOmA7jcfPi24m2H) | 3:55 | 2022-04-14 | 2022-06-24 |
 | [BLACK MAGIC](https://open.spotify.com/track/0MAmBZVV9a6bdeiBPZXSW9) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [BLACK MAGIC](https://open.spotify.com/album/7wFHTmHUtg2OL02ADttmT9) | 4:05 | 2022-05-05 | 2022-05-13 |
 | [Black Panther \- WhySoSerious & Wiwek Remix](https://open.spotify.com/track/0YDcRtilj1Ti2HF6vzdPIo) | [Wiwek](https://open.spotify.com/artist/4b2v3PBjJJCF2BX14lIAsT), [KUENTA](https://open.spotify.com/artist/3pr6mWxBNnh2OHul3o0A0p), [WhySoSerious](https://open.spotify.com/artist/1MSh4iqHmVl5OoNR1Pl8VB) | [Cycles \(Remixes\)](https://open.spotify.com/album/5zE6VIryfEc7215d76HZX6) | 3:20 | 2022-07-07 | 2022-07-22 |
@@ -188,7 +189,7 @@
 | [Turn Up The Bass](https://open.spotify.com/track/16mgFU72kDK6o1bGzqitT6) | [Justin Prime](https://open.spotify.com/artist/0TFdkHvlyUVl9zrb4seHxJ), [DRIIIFT](https://open.spotify.com/artist/5oTgiVsk5wT8LOZqdBDlk8) | [Turn Up The Bass](https://open.spotify.com/album/73kBhQxq0aheDZjj4xOUkl) | 3:13 | 2022-04-14 | 2022-05-06 |
 | [Unity](https://open.spotify.com/track/3D6j3Bh134C02qhpZR9xUK) | [NIVIRO](https://open.spotify.com/artist/2nsCjA4fEasmnlOK0wXU7T), [Kevu](https://open.spotify.com/artist/1hSKIb96KuZ2SScNbnHCqU) | [Unity](https://open.spotify.com/album/0hiRGL9Oz3HgfKsLejwpCL) | 3:16 | 2022-04-14 | 2022-07-05 |
 | [Untouchable](https://open.spotify.com/track/5QqNNMcenjKs6Lt12oxZqJ) | [HEADER](https://open.spotify.com/artist/7odWcvukhtSCQY2pBN7YT0), [Justus](https://open.spotify.com/artist/0iPzFfhXb2ilEodYsMoUX4) | [Untouchable](https://open.spotify.com/album/2yPB76X3eLvt7XOZpAuVnS) | 3:20 | 2022-04-21 | 2022-06-13 |
-| [Vibe](https://open.spotify.com/track/0FV6WL3ZWgPrjVyFw3psz4) | [Julian Jordan](https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV) | [Vibe](https://open.spotify.com/album/2dhuBvJE1DM0jWeUraTceH) | 3:30 | 2022-07-21 |  |
+| [Vibe](https://open.spotify.com/track/0FV6WL3ZWgPrjVyFw3psz4) | [Julian Jordan](https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV) | [Vibe](https://open.spotify.com/album/2dhuBvJE1DM0jWeUraTceH) | 3:30 | 2022-07-21 | 2022-09-21 |
 | [Vivaldi](https://open.spotify.com/track/5WcPCjbZalLkmJduC6kIvO) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Mariana BO](https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22) | [Vivaldi](https://open.spotify.com/album/2tvcV4vvhuH05kIX8L1AgG) | 2:40 | 2022-04-14 |  |
 | [Vivid](https://open.spotify.com/track/3LG6AuCP9pYlRkuQv6k4TW) | [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n) | [Vivid](https://open.spotify.com/album/0brJYjUGNrsu5bHcldi3k2) | 3:03 | 2022-04-14 | 2022-07-29 |
 | [We Are Here Now](https://open.spotify.com/track/4UVuGgYk3qlAfR8DGH30C4) | [Dimitri Vangelis & Wyman](https://open.spotify.com/artist/10hGPIDZi33LRaYRIq3Bh4), [Mike Perry](https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c) | [We Are Here Now](https://open.spotify.com/album/5M2t1el8E6WCuTokgyhCiZ) | 3:01 | 2022-04-14 | 2022-04-21 |

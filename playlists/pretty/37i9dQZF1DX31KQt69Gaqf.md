@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX31KQt69Gaqf.md) - [plain]
 
 > Let us take care of your workday soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,507 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,511 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX31KQt69Gaqf.md) - [plain]
 | 49 | [Secret Life \(feat\. Lana Del Rey\)](https://open.spotify.com/track/2HL0VnhJLtWDZL1UsnLib5) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Secret Life \(feat\. Lana Del Rey\)](https://open.spotify.com/album/3h7XkpRVUzecbqOmPVRi2L) | 3:06 |
 | 50 | [Greener](https://open.spotify.com/track/3y51IDTIvdRJAwzZOhYHqB) | [Jade Emperor](https://open.spotify.com/artist/22x4ObzsgLRlFkoqsZ00Lo) | [Greener](https://open.spotify.com/album/6pEe6ykp15A2SRDqWm5PKK) | 3:32 |
 | 51 | [Sunshine State](https://open.spotify.com/track/4fdnzqkyETaIfre0df8FHk) | [Pixey](https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI) | [Sunshine State](https://open.spotify.com/album/7EWBIDFpNqrkZgN6UduHij) | 2:18 |
-| 52 | [Mrs Blue](https://open.spotify.com/track/1tibCnItza2Ddf5qHybyJG) | [Tommy Down](https://open.spotify.com/artist/01gw02eOtd3kFn3f3rGlxg) | [Mrs Blue](https://open.spotify.com/album/2vzD0vqVfxiWHfKWOWijm8) | 4:27 |
-| 53 | [bloodstream](https://open.spotify.com/track/3VJ8JnA1femj0x5KCcfBpT) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [color theory](https://open.spotify.com/album/2CISL0rSGzbO0MbQMlqBez) | 5:37 |
+| 52 | [bloodstream](https://open.spotify.com/track/3VJ8JnA1femj0x5KCcfBpT) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [color theory](https://open.spotify.com/album/2CISL0rSGzbO0MbQMlqBez) | 5:37 |
+| 53 | [Mrs Blue](https://open.spotify.com/track/1tibCnItza2Ddf5qHybyJG) | [Tommy Down](https://open.spotify.com/artist/01gw02eOtd3kFn3f3rGlxg) | [Mrs Blue](https://open.spotify.com/album/2vzD0vqVfxiWHfKWOWijm8) | 4:27 |
 | 54 | [My House](https://open.spotify.com/track/5kuSneVOTmvanncpK3RZcl) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [My House](https://open.spotify.com/album/7sSEGFxjJTaT1amaNYOmWD) | 4:16 |
 | 55 | [Faith Healer](https://open.spotify.com/track/5M7jnmPrtHgL5H4fTewJch) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Little Oblivions](https://open.spotify.com/album/3IQRHa9iVLsGlSuVHiHZ3A) | 2:54 |
 | 56 | [Good Woman](https://open.spotify.com/track/6hZ3wAZGh5yQcZMxDXnTL3) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Good Woman](https://open.spotify.com/album/6b3CgvhvJFT6asCeHiOF3M) | 3:17 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX31KQt69Gaqf.md) - [plain]
 | 61 | [Tethered, Wrapped Around](https://open.spotify.com/track/3GVmuXATyp9JAiAcwASlTJ) | [Dekker](https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN) | [Slow Reveal: Chapter One](https://open.spotify.com/album/5iTODzVpwUxEctZCqOo15s) | 3:15 |
 | 62 | [Running Red Lights \(feat\. Rivers Cuomo & Pink Siifu\)](https://open.spotify.com/track/0UdYkM8rQeOV9B8n65fsfN) | [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED), [Rivers Cuomo](https://open.spotify.com/artist/4LAz9VRX8Nat9kvIzgkg2v), [Pink Siifu](https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh) | [Running Red Lights \(feat\. Rivers Cuomo & Pink Siifu\)](https://open.spotify.com/album/0H6aN1da6Hv7nnZK5RrQVm) | 4:39 |
 | 63 | [Confirmation \(SSBD\)](https://open.spotify.com/track/3Pqy5RRW33bhxYXN0ZZNXG) | [Westerman](https://open.spotify.com/artist/09s6bLEw45wioK9ytf3nsA) | [Your Hero Is Not Dead](https://open.spotify.com/album/6zSzwpkKgNJfQWwCEQTQDv) | 4:18 |
-| 64 | [Can't Fight](https://open.spotify.com/track/1zALEEIF3ipCSQMyHBzwPf) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Can't Fight](https://open.spotify.com/album/6WvLHMNGRawv4mzu1HZzFq) | 3:10 |
-| 65 | [Icarus](https://open.spotify.com/track/78OhueBD5iAZuW2gPhZ5EF) | [Gengahr](https://open.spotify.com/artist/2ATweaQe83QUQVjM8LMh7J) | [Sanctuary](https://open.spotify.com/album/57DpPfLzyxA5iP8zjLQoY4) | 3:54 |
+| 64 | [Icarus](https://open.spotify.com/track/78OhueBD5iAZuW2gPhZ5EF) | [Gengahr](https://open.spotify.com/artist/2ATweaQe83QUQVjM8LMh7J) | [Sanctuary](https://open.spotify.com/album/57DpPfLzyxA5iP8zjLQoY4) | 3:54 |
+| 65 | [Can't Fight](https://open.spotify.com/track/1zALEEIF3ipCSQMyHBzwPf) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Can't Fight](https://open.spotify.com/album/6WvLHMNGRawv4mzu1HZzFq) | 3:10 |
 | 66 | [Seven Nights](https://open.spotify.com/track/1ayrOU2q0K9xVt05CgMq2O) | [Mysie](https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf) | [Undertones](https://open.spotify.com/album/7CfevcKViQya5AT6HrDdhL) | 2:50 |
 | 67 | [How Can I Make It Ok?](https://open.spotify.com/track/4g0yqS7sBgZGA3VWBOj1Kk) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Blue Weekend](https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0) | 4:47 |
 | 68 | [Taurus](https://open.spotify.com/track/2qAZTSoZL0tNEw2RX0MpMw) | [Aby Coulibaly](https://open.spotify.com/artist/1ZjJVQsxUHP7MKnZg8yE33) | [Taurus](https://open.spotify.com/album/0IaxrgQd3Q2z66CE02UyC0) | 3:06 |
@@ -82,13 +82,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX31KQt69Gaqf.md) - [plain]
 | 72 | [Caught Up & Confused](https://open.spotify.com/track/3qS0ySnwtPC2JvTnr4x9KO) | [MarthaGunn](https://open.spotify.com/artist/4Rt63oQJifMiMbQEcmeqK8) | [Something Good Will Happen](https://open.spotify.com/album/73NXw8O4hc5Uqbx1D4cYNK) | 3:24 |
 | 73 | [Wallflower](https://open.spotify.com/track/4GEm1plrloLKfg2T4HxCiI) | [Latir](https://open.spotify.com/artist/44oMko09F9g8RQTkh39GSr) | [Wallflower](https://open.spotify.com/album/3TQO2baR2XJJi6ljcuv47y) | 3:04 |
 | 74 | [Gladstone](https://open.spotify.com/track/7y8stO3CzbhstlHg6cYBs4) | [Blair Lee](https://open.spotify.com/artist/1pYkoc6a3QKymoCVfAWuNc) | [Gladstone](https://open.spotify.com/album/5XWJvBc60xAv1WSn3EIPPw) | 2:54 |
-| 75 | [California Screaming](https://open.spotify.com/track/7aoQKm7L9RGg5VxYitUkEG) | [Liz Lawrence](https://open.spotify.com/artist/5v4XGACPGcMZs2ANXBzVmC) | [California Screaming](https://open.spotify.com/album/61Xno5oEO3TchKwEpmYyvw) | 3:17 |
-| 76 | [Astronaut](https://open.spotify.com/track/4ZSgMLmYmuxwTb8jO8L2vJ) | [Uma](https://open.spotify.com/artist/0RZewmdiKrFtejSJ3jfmGs) | [Bel·li](https://open.spotify.com/album/538Vk5Rhv1AybJcuL2L5FS) | 2:52 |
+| 75 | [Astronaut](https://open.spotify.com/track/4ZSgMLmYmuxwTb8jO8L2vJ) | [Uma](https://open.spotify.com/artist/0RZewmdiKrFtejSJ3jfmGs) | [Bel·li](https://open.spotify.com/album/538Vk5Rhv1AybJcuL2L5FS) | 2:52 |
+| 76 | [California Screaming](https://open.spotify.com/track/7aoQKm7L9RGg5VxYitUkEG) | [Liz Lawrence](https://open.spotify.com/artist/5v4XGACPGcMZs2ANXBzVmC) | [California Screaming](https://open.spotify.com/album/61Xno5oEO3TchKwEpmYyvw) | 3:17 |
 | 77 | [Womxn](https://open.spotify.com/track/3uZfLLYmvNUTWuZieOgJKr) | [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Through Water](https://open.spotify.com/album/4U7KMGWUL0FQtYCVxVy1Za) | 3:54 |
 | 78 | [Pure Shores](https://open.spotify.com/track/6kfhbpmXRL9Cs5b47Ri3Qw) | [Eliza Shaddad](https://open.spotify.com/artist/3B63aIfra43Vs4F33ecM9E) | [Pure Shores](https://open.spotify.com/album/2NX9yKfOrF7F9BJEfv9K3P) | 3:52 |
-| 79 | [Goodbye Blue](https://open.spotify.com/track/1Hl4xRC4328EyH1cgmpacP) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ) | [Goodbye Blue](https://open.spotify.com/album/7DEVGpxtcFj3fCLk9kc8Ro) | 4:01 |
-| 80 | [Like Sand](https://open.spotify.com/track/2fWlUgX2Qa44ZQCT2rKF0U) | [Marie Dahlstrom](https://open.spotify.com/artist/49NfOTfSPhrb0sJBVYS1iM), [Beau Diako](https://open.spotify.com/artist/3W02sTifN8tW1bapAkS1hu) | [Like Sand](https://open.spotify.com/album/7pOUfwJOC4mxZ5sIaYJ48H) | 4:31 |
-| 81 | [Headstart](https://open.spotify.com/track/7pwv5cbW7hj4HVv3US4XUT) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Different Kinds of Light](https://open.spotify.com/album/1f1u0MpV823YGBjQBb8JJ9) | 2:22 |
+| 79 | [Headstart](https://open.spotify.com/track/7pwv5cbW7hj4HVv3US4XUT) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Different Kinds of Light](https://open.spotify.com/album/1f1u0MpV823YGBjQBb8JJ9) | 2:22 |
+| 80 | [Goodbye Blue](https://open.spotify.com/track/1Hl4xRC4328EyH1cgmpacP) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ) | [Goodbye Blue](https://open.spotify.com/album/7DEVGpxtcFj3fCLk9kc8Ro) | 4:01 |
+| 81 | [Like Sand](https://open.spotify.com/track/2fWlUgX2Qa44ZQCT2rKF0U) | [Marie Dahlstrom](https://open.spotify.com/artist/49NfOTfSPhrb0sJBVYS1iM), [Beau Diako](https://open.spotify.com/artist/3W02sTifN8tW1bapAkS1hu) | [Like Sand](https://open.spotify.com/album/7pOUfwJOC4mxZ5sIaYJ48H) | 4:31 |
 | 82 | [A.M\. AM](https://open.spotify.com/track/1tZW8iinOpafycLyeif7zX) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Candid](https://open.spotify.com/album/02b3E6hkZ8TslA7nDnrrb2) | 3:56 |
 | 83 | [Southwark](https://open.spotify.com/track/0YuFYmdojZmBYD9V5giqTR) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [Truth or Consequences](https://open.spotify.com/album/0yss5R3uULkCI7Dc9jKRoV) | 3:22 |
 | 84 | [Held Down](https://open.spotify.com/track/2PHeCBCWESSAqfxpORbxKA) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Held Down](https://open.spotify.com/album/0Mgg0Wv09HVGKnfj33Zo1K) | 4:07 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX31KQt69Gaqf.md) - [plain]
 | 99 | [Treat You Right](https://open.spotify.com/track/7ItOfW0Phlgis72tCdIcsw) | [Yellow Days](https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY) | [Treat You Right](https://open.spotify.com/album/3F91sv7XPeK9JYQdpXktd2) | 4:21 |
 | 100 | [Big Skies, Silly Faces](https://open.spotify.com/track/0Zga9iWiTp760vRHHLNxFF) | [Orlando Weeks](https://open.spotify.com/artist/5K9Px0eeCuYatmBGFfhSOA) | [Big Skies, Silly Faces](https://open.spotify.com/album/7lGdpg1UFSOfwXNScK1cSc) | 3:55 |
 
-Snapshot ID: `MTYzMzk1MDI1NCwwMDAwMDAwMDIzZTY3M2E4OGE1OWFkZmJmNTZlZWU0YjkzNWE3YjU4`
+Snapshot ID: `MTYzMzk1MDI1NCwwMDAwMDAwMGQ1NDVkYjEyNWJkNDgxMDkyYjJjMzJiYzJiZDY1MmM2`

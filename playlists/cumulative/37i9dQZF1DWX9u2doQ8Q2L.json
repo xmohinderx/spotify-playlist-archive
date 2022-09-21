@@ -2166,6 +2166,32 @@
     },
     {
       "album": {
+        "name": "Circus",
+        "url": "https://open.spotify.com/album/4Ii8q4sE5ZtQ7XnZAd6KqQ"
+      },
+      "artists": [
+        {
+          "name": "Ryohu",
+          "url": "https://open.spotify.com/artist/0qQOHfWvRf8O1wXYXMmV6U"
+        },
+        {
+          "name": "AAAMYYY",
+          "url": "https://open.spotify.com/artist/5YCsKCBbhMHBKBh2MllF5d"
+        },
+        {
+          "name": "TENDRE",
+          "url": "https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218733,
+      "name": "Magic Mirror feat. AAAMYYY, TENDRE",
+      "url": "https://open.spotify.com/track/6gEYqzu9uNwLHrtYHURAml"
+    },
+    {
+      "album": {
         "name": "MAGIC WAYS",
         "url": "https://open.spotify.com/album/6ABM2rD5JvdwPGZDQ3bNEw"
       },
@@ -3683,7 +3709,7 @@
       ],
       "date_added": "2022-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 210940,
       "name": "tender icecream",
       "url": "https://open.spotify.com/track/1EzLPxQ7Ql4aIZkNCIEiqY"

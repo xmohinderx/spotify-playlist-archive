@@ -1,13 +1,29 @@
 {
   "description": "Slow burners for late nights.",
-  "num_followers": 776758,
+  "num_followers": 777466,
   "original_name": "late night vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzYwNzkwNiwwMDAwMDAwMDJjNTM5Nzg4OTg3M2U3MjdiNzM3Y2M2ZTA0YTNmNTIz",
+  "snapshot_id": "MTY2MzcxOTkyOCwwMDAwMDAwMDIxNDAwZTM4NGVjYzk2NTlmZDZmNTBjOTg2ZGM0MWJi",
   "tracks": [
+    {
+      "added_at": "2022-09-20 14:46:46",
+      "album": {
+        "name": "Between All Things",
+        "url": "https://open.spotify.com/album/0vLJbkcXDXkSar4Hmzn7kX"
+      },
+      "artists": [
+        {
+          "name": "OHMA",
+          "url": "https://open.spotify.com/artist/7mbyocfSOEDLUpdGRyDVgx"
+        }
+      ],
+      "duration_ms": 318378,
+      "name": "Between All Things",
+      "url": "https://open.spotify.com/track/7jLjQEkCOJCULvabedRnCL"
+    },
     {
       "added_at": "2022-09-19 17:18:26",
       "album": {
@@ -91,22 +107,6 @@
     {
       "added_at": "2022-09-19 17:18:26",
       "album": {
-        "name": "In Tongues (Deluxe)",
-        "url": "https://open.spotify.com/album/6ZksrxRWlJ7ExylPyJwfLJ"
-      },
-      "artists": [
-        {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
-        }
-      ],
-      "duration_ms": 202102,
-      "name": "Will He",
-      "url": "https://open.spotify.com/track/7wvwXi9Z66dcH5t202vVkN"
-    },
-    {
-      "added_at": "2022-09-19 17:18:26",
-      "album": {
         "name": "Below",
         "url": "https://open.spotify.com/album/1OC1nAvU5jJdqwidm5AS7z"
       },
@@ -119,38 +119,6 @@
       "duration_ms": 215636,
       "name": "Below",
       "url": "https://open.spotify.com/track/4YPmXZt65zFz5oVWuwFMW8"
-    },
-    {
-      "added_at": "2022-09-19 17:18:26",
-      "album": {
-        "name": "Atlanta Millionaires Club",
-        "url": "https://open.spotify.com/album/7jXmmQ1gNTXHyTF7uvH4Tn"
-      },
-      "artists": [
-        {
-          "name": "Faye Webster",
-          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
-        }
-      ],
-      "duration_ms": 202653,
-      "name": "Kingston",
-      "url": "https://open.spotify.com/track/5WbfFTuIldjL9x7W6y5l7R"
-    },
-    {
-      "added_at": "2022-09-19 17:18:26",
-      "album": {
-        "name": "Taurus",
-        "url": "https://open.spotify.com/album/2DNMMdW5WunIvIUHDIOxZr"
-      },
-      "artists": [
-        {
-          "name": "River Tiber",
-          "url": "https://open.spotify.com/artist/1FHDMgGdmIP4IsoFkAwbS0"
-        }
-      ],
-      "duration_ms": 246413,
-      "name": "Taurus",
-      "url": "https://open.spotify.com/track/14wQpAIGrStYHrS9iEsdcJ"
     },
     {
       "added_at": "2022-09-19 17:18:26",
@@ -171,18 +139,50 @@
     {
       "added_at": "2022-09-19 17:18:26",
       "album": {
-        "name": "This Old Dog",
-        "url": "https://open.spotify.com/album/4NNq2vwTapv4fSJcrZbPH7"
+        "name": "Taurus",
+        "url": "https://open.spotify.com/album/2DNMMdW5WunIvIUHDIOxZr"
       },
       "artists": [
         {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+          "name": "River Tiber",
+          "url": "https://open.spotify.com/artist/1FHDMgGdmIP4IsoFkAwbS0"
         }
       ],
-      "duration_ms": 181586,
-      "name": "Still Beating",
-      "url": "https://open.spotify.com/track/4LpUpiYoZ2M3Z1kmhn4EQo"
+      "duration_ms": 246413,
+      "name": "Taurus",
+      "url": "https://open.spotify.com/track/14wQpAIGrStYHrS9iEsdcJ"
+    },
+    {
+      "added_at": "2022-09-19 17:18:26",
+      "album": {
+        "name": "In Tongues (Deluxe)",
+        "url": "https://open.spotify.com/album/6ZksrxRWlJ7ExylPyJwfLJ"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "duration_ms": 202102,
+      "name": "Will He",
+      "url": "https://open.spotify.com/track/7wvwXi9Z66dcH5t202vVkN"
+    },
+    {
+      "added_at": "2022-09-19 17:18:26",
+      "album": {
+        "name": "Atlanta Millionaires Club",
+        "url": "https://open.spotify.com/album/7jXmmQ1gNTXHyTF7uvH4Tn"
+      },
+      "artists": [
+        {
+          "name": "Faye Webster",
+          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
+        }
+      ],
+      "duration_ms": 202653,
+      "name": "Kingston",
+      "url": "https://open.spotify.com/track/5WbfFTuIldjL9x7W6y5l7R"
     },
     {
       "added_at": "2022-09-19 17:18:26",
@@ -203,18 +203,18 @@
     {
       "added_at": "2022-09-19 17:18:26",
       "album": {
-        "name": "Valentine",
-        "url": "https://open.spotify.com/album/2BI2mJAuuoQ10WFRz6cqb6"
+        "name": "This Old Dog",
+        "url": "https://open.spotify.com/album/4NNq2vwTapv4fSJcrZbPH7"
       },
       "artists": [
         {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
         }
       ],
-      "duration_ms": 168906,
-      "name": "Valentine",
-      "url": "https://open.spotify.com/track/2EjuEHTRZRgE9pvaBm5Hh3"
+      "duration_ms": 181586,
+      "name": "Still Beating",
+      "url": "https://open.spotify.com/track/4LpUpiYoZ2M3Z1kmhn4EQo"
     },
     {
       "added_at": "2022-09-19 17:18:26",
@@ -235,18 +235,18 @@
     {
       "added_at": "2022-09-19 17:18:26",
       "album": {
-        "name": "Oh, Inverted World (20th Anniversary Remaster)",
-        "url": "https://open.spotify.com/album/5XmhHMj5LZLWo32aA6ntKE"
+        "name": "Valentine",
+        "url": "https://open.spotify.com/album/2BI2mJAuuoQ10WFRz6cqb6"
       },
       "artists": [
         {
-          "name": "The Shins",
-          "url": "https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO"
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
         }
       ],
-      "duration_ms": 230866,
-      "name": "New Slang - 2021 Remaster",
-      "url": "https://open.spotify.com/track/0NslHuacjxQYfUTOW3HCIV"
+      "duration_ms": 168906,
+      "name": "Valentine",
+      "url": "https://open.spotify.com/track/2EjuEHTRZRgE9pvaBm5Hh3"
     },
     {
       "added_at": "2022-09-19 17:18:26",
@@ -263,6 +263,22 @@
       "duration_ms": 169720,
       "name": "dirty dancer",
       "url": "https://open.spotify.com/track/1ciQU7ZQGHq129m3njp9en"
+    },
+    {
+      "added_at": "2022-09-19 17:18:26",
+      "album": {
+        "name": "Oh, Inverted World (20th Anniversary Remaster)",
+        "url": "https://open.spotify.com/album/5XmhHMj5LZLWo32aA6ntKE"
+      },
+      "artists": [
+        {
+          "name": "The Shins",
+          "url": "https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO"
+        }
+      ],
+      "duration_ms": 230866,
+      "name": "New Slang - 2021 Remaster",
+      "url": "https://open.spotify.com/track/0NslHuacjxQYfUTOW3HCIV"
     },
     {
       "added_at": "2022-09-19 17:18:26",
@@ -435,6 +451,22 @@
     {
       "added_at": "2022-09-19 17:18:26",
       "album": {
+        "name": "Stranger in the Alps",
+        "url": "https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 305000,
+      "name": "Scott Street",
+      "url": "https://open.spotify.com/track/6Uwi2Qk3H7fM4b4W4ExrAp"
+    },
+    {
+      "added_at": "2022-09-19 17:18:26",
+      "album": {
         "name": "OUTTA MY MIND",
         "url": "https://open.spotify.com/album/6WWXMhWEmIM9SaAyZCFvYL"
       },
@@ -449,20 +481,20 @@
       "url": "https://open.spotify.com/track/7zTTDkkLkJ2iHAqq1daDCr"
     },
     {
-      "added_at": "2022-09-19 17:18:26",
+      "added_at": "2022-09-21 00:25:28",
       "album": {
-        "name": "Stranger in the Alps",
-        "url": "https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI"
+        "name": "Here With Me",
+        "url": "https://open.spotify.com/album/1HPTbRqv30KYao7mpuZ6dm"
       },
       "artists": [
         {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
         }
       ],
-      "duration_ms": 305000,
-      "name": "Scott Street",
-      "url": "https://open.spotify.com/track/6Uwi2Qk3H7fM4b4W4ExrAp"
+      "duration_ms": 242484,
+      "name": "Here With Me",
+      "url": "https://open.spotify.com/track/4U4h7WNNyvhpdaDgHSdD4j"
     },
     {
       "added_at": "2022-09-19 17:18:26",
@@ -483,22 +515,6 @@
     {
       "added_at": "2022-09-19 17:18:26",
       "album": {
-        "name": "Blood Type",
-        "url": "https://open.spotify.com/album/1xpNb3oOnWsZJYQyomLe4Z"
-      },
-      "artists": [
-        {
-          "name": "Cautious Clay",
-          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
-        }
-      ],
-      "duration_ms": 202597,
-      "name": "Cold War",
-      "url": "https://open.spotify.com/track/6DwiGVCgXGREeCyJZtX7S1"
-    },
-    {
-      "added_at": "2022-09-19 17:18:26",
-      "album": {
         "name": "Edition",
         "url": "https://open.spotify.com/album/6Do68lYD1UfOmeBYtsxF18"
       },
@@ -511,6 +527,22 @@
       "duration_ms": 115000,
       "name": "Edition",
       "url": "https://open.spotify.com/track/1wz7B02oOtrTW6SNLG0cSk"
+    },
+    {
+      "added_at": "2022-09-19 17:18:26",
+      "album": {
+        "name": "Blood Type",
+        "url": "https://open.spotify.com/album/1xpNb3oOnWsZJYQyomLe4Z"
+      },
+      "artists": [
+        {
+          "name": "Cautious Clay",
+          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
+        }
+      ],
+      "duration_ms": 202597,
+      "name": "Cold War",
+      "url": "https://open.spotify.com/track/6DwiGVCgXGREeCyJZtX7S1"
     },
     {
       "added_at": "2022-09-19 17:18:26",
@@ -551,22 +583,6 @@
     {
       "added_at": "2022-09-19 17:18:26",
       "album": {
-        "name": "i,i",
-        "url": "https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 216706,
-      "name": "Hey, Ma",
-      "url": "https://open.spotify.com/track/0RstfX9nRY1Lfuy1808MoT"
-    },
-    {
-      "added_at": "2022-09-19 17:18:26",
-      "album": {
         "name": "Carrie & Lowell",
         "url": "https://open.spotify.com/album/64xtjfsPHNHch0CZ7fPTjS"
       },
@@ -579,6 +595,22 @@
       "duration_ms": 284130,
       "name": "The Only Thing",
       "url": "https://open.spotify.com/track/17UVxL0MYEmKzXppfUL5in"
+    },
+    {
+      "added_at": "2022-09-19 17:18:26",
+      "album": {
+        "name": "i,i",
+        "url": "https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 216706,
+      "name": "Hey, Ma",
+      "url": "https://open.spotify.com/track/0RstfX9nRY1Lfuy1808MoT"
     },
     {
       "added_at": "2022-09-19 17:18:26",
@@ -627,6 +659,22 @@
       "duration_ms": 109800,
       "name": "Puddles",
       "url": "https://open.spotify.com/track/1HIkv4ULSAxJZPt2PYdYoV"
+    },
+    {
+      "added_at": "2022-09-19 17:18:26",
+      "album": {
+        "name": "Mystery of Love (From the Original Motion Picture \u201cCall Me by Your Name\u201d)",
+        "url": "https://open.spotify.com/album/2uMaCzN7a35J3I3qceso0c"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 248964,
+      "name": "Mystery of Love (From the Original Motion Picture \u201cCall Me by Your Name\u201d)",
+      "url": "https://open.spotify.com/track/0oTtnnedK0C4unALxVTPhz"
     },
     {
       "added_at": "2022-09-19 17:18:26",
@@ -703,22 +751,6 @@
       "duration_ms": 212467,
       "name": "Souvenir",
       "url": "https://open.spotify.com/track/21JL0gpeAYgbSUmzhgSPJz"
-    },
-    {
-      "added_at": "2022-09-19 17:18:26",
-      "album": {
-        "name": "Mystery of Love (From the Original Motion Picture \u201cCall Me by Your Name\u201d)",
-        "url": "https://open.spotify.com/album/2uMaCzN7a35J3I3qceso0c"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 248964,
-      "name": "Mystery of Love (From the Original Motion Picture \u201cCall Me by Your Name\u201d)",
-      "url": "https://open.spotify.com/track/0oTtnnedK0C4unALxVTPhz"
     },
     {
       "added_at": "2022-09-19 17:18:26",
@@ -1079,22 +1111,6 @@
     {
       "added_at": "2022-09-19 17:18:26",
       "album": {
-        "name": "The Moon and the Mind",
-        "url": "https://open.spotify.com/album/6EzlIIHKHZtnpdiTmDLZ9X"
-      },
-      "artists": [
-        {
-          "name": "Laffey",
-          "url": "https://open.spotify.com/artist/7LWdcPFBFcRaamGjIJbPV7"
-        }
-      ],
-      "duration_ms": 153728,
-      "name": "Drifting Off",
-      "url": "https://open.spotify.com/track/6zDFxF2Mxow4rU9pc7dn7V"
-    },
-    {
-      "added_at": "2022-09-19 17:18:26",
-      "album": {
         "name": "Modern Vampires of the City",
         "url": "https://open.spotify.com/album/1GXMNFfoHF4sN7lG8gZq1j"
       },
@@ -1107,6 +1123,22 @@
       "duration_ms": 237973,
       "name": "Hannah Hunt",
       "url": "https://open.spotify.com/track/6AY1M1akbsVaQN3ATVyzH7"
+    },
+    {
+      "added_at": "2022-09-19 17:18:26",
+      "album": {
+        "name": "The Moon and the Mind",
+        "url": "https://open.spotify.com/album/6EzlIIHKHZtnpdiTmDLZ9X"
+      },
+      "artists": [
+        {
+          "name": "Laffey",
+          "url": "https://open.spotify.com/artist/7LWdcPFBFcRaamGjIJbPV7"
+        }
+      ],
+      "duration_ms": 153728,
+      "name": "Drifting Off",
+      "url": "https://open.spotify.com/track/6zDFxF2Mxow4rU9pc7dn7V"
     },
     {
       "added_at": "2022-09-19 17:18:26",
@@ -1227,38 +1259,6 @@
       "duration_ms": 283066,
       "name": "Loud Places",
       "url": "https://open.spotify.com/track/7lPgKA5mLFNmGPMdb07OlM"
-    },
-    {
-      "added_at": "2022-09-19 17:18:26",
-      "album": {
-        "name": "6 Feet Beneath The Moon",
-        "url": "https://open.spotify.com/album/6uvdXVgHsioxRIo0cFnkD7"
-      },
-      "artists": [
-        {
-          "name": "King Krule",
-          "url": "https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "Out Getting Ribs",
-      "url": "https://open.spotify.com/track/30JUrbIq4PsRjIvDz8freE"
-    },
-    {
-      "added_at": "2022-09-19 17:18:26",
-      "album": {
-        "name": "Assume Form",
-        "url": "https://open.spotify.com/album/23dKNZpiadggKHrQgHLi3L"
-      },
-      "artists": [
-        {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
-        }
-      ],
-      "duration_ms": 222400,
-      "name": "I'll Come Too",
-      "url": "https://open.spotify.com/track/6EvUAsfncetT0RcWshHCbl"
     }
   ],
   "unique_name": "late night vibes",

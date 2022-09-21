@@ -728,6 +728,24 @@
     },
     {
       "album": {
+        "name": "Tis The Season To Be Fearless",
+        "url": "https://open.spotify.com/album/7LEZCqGn4YQ5NsO1pj2E6a"
+      },
+      "artists": [
+        {
+          "name": "Artist Vs Poet",
+          "url": "https://open.spotify.com/artist/3kYFawNQVZ00FQbgs4rVBe"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238422,
+      "name": "Christmas With You",
+      "url": "https://open.spotify.com/track/0enn0hF3toElN9rxQVMo4Y"
+    },
+    {
+      "album": {
         "name": "Happy Christmas: A Tooth And Nail Christmas",
         "url": "https://open.spotify.com/album/6SnL8p2tCeaosY8oEKs3An"
       },
@@ -2415,7 +2433,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 216115,
       "name": "Snow",
       "url": "https://open.spotify.com/track/4hbBgVnirgzG4TggZhkL4U"

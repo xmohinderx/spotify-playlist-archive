@@ -4,7 +4,7 @@
 
 > Sabah al khair, start your day with extra cardamom and mellow tunes.
 
-132 songs - 8 hr 59 min - [published](https://open.spotify.com/playlist/3gEBX1MSMTVMs4piEbVTl2)
+133 songs - 9 hr 3 min - [published](https://open.spotify.com/playlist/3gEBX1MSMTVMs4piEbVTl2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Aatini Al Naya Wa Ghanni](https://open.spotify.com/track/4Lyx3S3OkUrJrJJAGrsh0Q) | [Fatma Said](https://open.spotify.com/artist/1c2ClQeVUmq1req1B2lnlh), [Tim Allhoff](https://open.spotify.com/artist/7qnobTqHT8IGF1DjMtEMDY), [Henning Sieverts](https://open.spotify.com/artist/4NPI4lNYQw86uzyS1SqZXP), [Tamer Pinarbaşi](https://open.spotify.com/artist/56qCAXOnxTC7VPlUGwrBqA), [Burcu Karadağ](https://open.spotify.com/artist/6sm7wuehySIzhD2QyCT26q), [Itamar Doari](https://open.spotify.com/artist/4fOBhUMIOwCcoWuRKlkwFc) | [El Nour](https://open.spotify.com/album/3l39Bl8unEhLRYfIIDyqjF) | 5:05 | 2022-06-29 |  |
 | [Aatini Al Naya Wa Ghanni](https://open.spotify.com/track/6M8zsNWrlFeFbLJr5OEEoy) | [Fatma Said](https://open.spotify.com/artist/1c2ClQeVUmq1req1B2lnlh), [Tim Allhoff](https://open.spotify.com/artist/7qnobTqHT8IGF1DjMtEMDY), [Henning Sieverts](https://open.spotify.com/artist/4NPI4lNYQw86uzyS1SqZXP), [Tamer Pinarbaşi](https://open.spotify.com/artist/56qCAXOnxTC7VPlUGwrBqA), [Burcu Karadağ](https://open.spotify.com/artist/6sm7wuehySIzhD2QyCT26q), [Itamar Doari](https://open.spotify.com/artist/4fOBhUMIOwCcoWuRKlkwFc) | [Aatini Al Naya Wa Ghanni](https://open.spotify.com/album/4iiE9GALCXTvE4vzoEjdEe) | 5:05 | 2022-04-18 | 2022-07-29 |
 | [Adaysh Kan Fe Nas \- Lo\-fi remix](https://open.spotify.com/track/0WK4yj35ILpBivFUN9Nvy1) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [Adaysh Kan Fe Nas \(Lo\-fi remix\)](https://open.spotify.com/album/7qSmjMtiRUiWMXfnw1xbyb) | 2:49 | 2022-04-18 |  |
+| [Afkarik](https://open.spotify.com/track/1ebIGIiewKtLSjLf6n76KX) | [Salim Tarabay](https://open.spotify.com/artist/4gLyumFZwjNYDdiHPpl9Pq) | [Afkarik](https://open.spotify.com/album/4aATb7Kb0iTifiMphvFpbW) | 3:42 | 2022-09-20 |  |
 | [Ahwak](https://open.spotify.com/track/1chsFxuRdocgGwhhCYfZ9m) | [Abdel Halim Hafez](https://open.spotify.com/artist/6IW026WCYU8L1WF79dfwss) | [Rawaeaa Abd El Halim 5](https://open.spotify.com/album/2Dx9s3ceWiu7go3xMkdAs3) | 4:58 | 2022-04-18 |  |
 | [Ahwak \(feat\. Lotfi Bouchnak\)](https://open.spotify.com/track/2ChYfZwRqh3Es64zijiaM1) | [Tosca](https://open.spotify.com/artist/2QezBWDHOoFeVCM3wlzTDu), [Lotfi Bouchnak](https://open.spotify.com/artist/4JQG5SrE0nqGr8dhiDkc1z) | [Morabeza](https://open.spotify.com/album/3n55TgC6Qv30oyw7yj11mY) | 3:37 | 2022-04-18 |  |
 | [Ahwak Hiba](https://open.spotify.com/track/4dMQ70p4sCovJ4qrpyOvmN) | [هيبة](https://open.spotify.com/artist/4ntBp9iTyEwM06tIVPn3NB), [Zeid Hamdan](https://open.spotify.com/artist/70z9FptZNtsoQ8OeB3p9ks) | [صح النوم](https://open.spotify.com/album/5GLEKnaRshEuOfenkwAC0j) | 3:19 | 2022-04-18 |  |
@@ -34,7 +35,7 @@
 | [Bala Wala Shi \(Live\)](https://open.spotify.com/track/0EP3x8Yh2JtvWmFjEOENU3) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Ossit Helem](https://open.spotify.com/album/6hplNUsuDBfX4u31Ohi0FH) | 3:52 | 2022-06-29 |  |
 | [Bala Wala Shi \- Live](https://open.spotify.com/track/5352qGIrAQLSeJkiEvvOQi) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Osset Helem \(Live\)](https://open.spotify.com/album/4iHkEaRoDSkP7FImQUBFxW) | 3:52 | 2022-04-18 | 2022-07-29 |
 | [Bent Elgiran & Haga Mestikhabya](https://open.spotify.com/track/3JfKQ0AUmVf5m97MRt44c7) | [Toni Qattan](https://open.spotify.com/artist/1IJJoAyxznu3orwXhlt3XO) | [Bent Elgiran & Haga Mestikhabya](https://open.spotify.com/album/4a81TWOYhBuj23Udk3mNz8) | 2:53 | 2022-04-18 |  |
-| [Bshi Yom](https://open.spotify.com/track/11MX2DEBj06gcQZmSzIuZ5) | [Yousef Kekhia](https://open.spotify.com/artist/7EhcVdfydM4Hdfv5usdCRw) | [Bshi Yom](https://open.spotify.com/album/5zkU8WxN7m7HbkgRusjQyN) | 4:54 | 2022-04-18 |  |
+| [Bshi Yom](https://open.spotify.com/track/11MX2DEBj06gcQZmSzIuZ5) | [Yousef Kekhia](https://open.spotify.com/artist/7EhcVdfydM4Hdfv5usdCRw) | [Bshi Yom](https://open.spotify.com/album/5zkU8WxN7m7HbkgRusjQyN) | 4:54 | 2022-04-18 | 2022-09-21 |
 | [Craziness \- أصابك عشق](https://open.spotify.com/track/4HbQMB4aMPTATNBC1qweUN) | [Abdulrahman Mohammed](https://open.spotify.com/artist/1sWV2X7SzXd06hEO2EttHl), [Mohab Omer](https://open.spotify.com/artist/7kluF012Emzsqg6qh2ShAY) | [Craziness \- أصابك عشق](https://open.spotify.com/album/3n3DCKoWvQdEgrF0GLDHuF) | 4:51 | 2022-04-18 |  |
 | [Denia Dour](https://open.spotify.com/track/6BLSn19vlhGLwoQWmPaDUc) | [Ÿuma](https://open.spotify.com/artist/1PRH2VLBHk1kMY2BFI0GQW) | [Denia Dour](https://open.spotify.com/album/7i0pjCbQ3amgxYoawJCx5o) | 5:30 | 2022-04-18 |  |
 | [Despite the Flop](https://open.spotify.com/track/4qAloJqPLVtUoWYiZnEWS3) | [Faraj Suleiman](https://open.spotify.com/artist/081FrpTgjmgvEy78DZOcpu) | [Second Verse](https://open.spotify.com/album/764NsuHgQFNbNEBogZxgY4) | 2:51 | 2022-04-18 | 2022-08-19 |

@@ -1,12 +1,12 @@
 {
   "description": "Songs of love, hope and positivity for the world.   Listen with Spirit!  Cover: Local Sound",
-  "num_followers": 18003,
+  "num_followers": 18005,
   "original_name": "Spirit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU2OTAwNDQ0NiwwMDAwMDAwMGNiNmNlYzRmZjYwNWE1YTUwODQwZjNhMGMyODRhYzU5",
+  "snapshot_id": "MTU2OTAwNDQ0NiwwMDAwMDAwMDc3MjU3NWQ1NzliNTY5NzA5M2MzYTRjNTgzZDlmNzBl",
   "tracks": [
     {
       "added_at": "2019-09-20 18:34:06",
@@ -99,6 +99,22 @@
     {
       "added_at": "2019-09-20 18:34:06",
       "album": {
+        "name": "In the Arms",
+        "url": "https://open.spotify.com/album/2gybUUpxYO2SyDa3CbgX4P"
+      },
+      "artists": [
+        {
+          "name": "Terrian",
+          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
+        }
+      ],
+      "duration_ms": 232800,
+      "name": "In the Arms",
+      "url": "https://open.spotify.com/track/25d5ECcMe57FZaK5PJqiIU"
+    },
+    {
+      "added_at": "2019-09-20 18:34:06",
+      "album": {
         "name": "I'll Find You (feat. Tori Kelly)",
         "url": "https://open.spotify.com/album/4YOkLua2AMiyZYbocWWVqM"
       },
@@ -115,22 +131,6 @@
       "duration_ms": 218213,
       "name": "I'll Find You (feat. Tori Kelly)",
       "url": "https://open.spotify.com/track/05hdZ0YRqAg6qsgV1ee3LE"
-    },
-    {
-      "added_at": "2019-09-20 18:34:06",
-      "album": {
-        "name": "In the Arms",
-        "url": "https://open.spotify.com/album/2gybUUpxYO2SyDa3CbgX4P"
-      },
-      "artists": [
-        {
-          "name": "Terrian",
-          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
-        }
-      ],
-      "duration_ms": 232800,
-      "name": "In the Arms",
-      "url": "https://open.spotify.com/track/25d5ECcMe57FZaK5PJqiIU"
     },
     {
       "added_at": "2019-09-20 18:34:06",

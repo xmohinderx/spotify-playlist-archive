@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 
 > The best of today's dance hits\. Cover: Rochelle Jordan
 
-[Spotify](https://open.spotify.com/user/spotify) - 303,404 likes - 104 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 303,403 likes - 104 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [All Along \(Kaytranada Remix\)](https://open.spotify.com/track/35WIVWDcONu3B64ZcYbPX6) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [All Along \(Kaytranada Remix\)](https://open.spotify.com/album/3UtKaTe3ZGpNo0cVdffTCi) | 4:44 |
+| 1 | [All Along \(Kaytranada Remix\)](https://open.spotify.com/track/3fTwZdX5X3BIsdEJvai7Be) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Play With The Changes \(Remixed\)](https://open.spotify.com/album/3fMIqhERSssKur9QOqa5X1) | 4:44 |
 | 2 | [Afterglow](https://open.spotify.com/track/2Ftoh82TZBdd5VduEm8T44) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5), [Kasablanca](https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI) | [Afterglow](https://open.spotify.com/album/6pBEgtzvrTzF2KWiMzhkGm) | 4:29 |
 | 3 | [The Machines](https://open.spotify.com/track/3SH8GHdwJGXnoEmnCbPpJQ) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT) | [The Machines](https://open.spotify.com/album/5P3kvsIaj4aX7usKBJAPeQ) | 3:22 |
 | 4 | [Forever](https://open.spotify.com/track/45H1RahLdHlhXfDNDFip1H) | [Famba](https://open.spotify.com/artist/5hXPnS34O3Kq3O8dkaE9FM) | [Forever](https://open.spotify.com/album/0wUYDmuHRXBKgz2yIvWp3e) | 3:58 |
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 | 103 | [Do It Better \(feat\. Zoe Wees\)](https://open.spotify.com/track/1kwHrBWAlucOE57lWugotk) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Do It Better \(feat\. Zoe Wees\)](https://open.spotify.com/album/5mqNZCRQAKtzzDyohUmBEU) | 2:50 |
 | 104 | [Tied to You](https://open.spotify.com/track/3ztXhsmAArhAJAf6eGnu0v) | [Lipless](https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA), [LöKii](https://open.spotify.com/artist/2RDXcxQgmEyomb2g9SERuf), [Project 46](https://open.spotify.com/artist/2RhRT6DNOVoDTfS0rG31pZ) | [Tied to You](https://open.spotify.com/album/30GL93GCC6ycBWmsG8w01t) | 3:40 |
 
-Snapshot ID: `MTY2MzMzODY4MiwwMDAwMDAwMGQ1MjE3YTlhNmRkYzI2ODBhZThlNmRlYzMzZWNmMGU0`
+Snapshot ID: `MTY2MzMzODY4MiwwMDAwMDAwMGU5YTc5NzY1ZjMzN2Y4NjMxNDBjM2RjNjRmYmNmNTMz`

@@ -1,15 +1,15 @@
 {
   "description": "This is CeCe Winans. The essential tracks, all in one playlist.",
-  "num_followers": 11873,
+  "num_followers": 11913,
   "original_name": "This Is CeCe Winans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjc3MjY1NDUsMDAwMDAwMDBmZGUyMWE5NTI4NzE3MGRkNTdjNWJlMTNhM2M5ZDA1ZA==",
+  "snapshot_id": "Mjc3MjgwMzcsMDAwMDAwMDBlYmNlNWE0MjdjMDNjMWMyMDc2NTgzMjBkNjFkZDc3ZQ==",
   "tracks": [
     {
-      "added_at": "2022-09-19 13:05:15",
+      "added_at": "2022-09-20 13:57:47",
       "album": {
         "name": "Believe For It",
         "url": "https://open.spotify.com/album/5UXG9YjxHZu7l4tTNjwIYX"
@@ -25,23 +25,7 @@
       "url": "https://open.spotify.com/track/59uuKDpLFhHtCWwMudospF"
     },
     {
-      "added_at": "2022-09-19 13:05:15",
-      "album": {
-        "name": "Throne Room (Gold Edition)",
-        "url": "https://open.spotify.com/album/5ErmGtv1jPppmj2GoESfVz"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 300733,
-      "name": "Mercy Said No",
-      "url": "https://open.spotify.com/track/3wOHgqLMIqHierF0D8VoMl"
-    },
-    {
-      "added_at": "2022-09-19 13:05:15",
+      "added_at": "2022-09-20 13:57:47",
       "album": {
         "name": "Alabaster Box",
         "url": "https://open.spotify.com/album/1MVEzZd7FgqYLwIBFAwyVK"
@@ -57,10 +41,10 @@
       "url": "https://open.spotify.com/track/7FLPCH6fx9gJgrRJBoo5U5"
     },
     {
-      "added_at": "2022-09-19 13:05:15",
+      "added_at": "2022-09-20 13:57:47",
       "album": {
-        "name": "Believe For It (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/40svdUPxmIoge1BkDNWSDw"
+        "name": "Throne Room (Gold Edition)",
+        "url": "https://open.spotify.com/album/5ErmGtv1jPppmj2GoESfVz"
       },
       "artists": [
         {
@@ -68,12 +52,12 @@
           "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
         }
       ],
-      "duration_ms": 218400,
-      "name": "I've Got Joy",
-      "url": "https://open.spotify.com/track/6tbDvXVbqENripiP4beZpj"
+      "duration_ms": 300733,
+      "name": "Mercy Said No",
+      "url": "https://open.spotify.com/track/3wOHgqLMIqHierF0D8VoMl"
     },
     {
-      "added_at": "2022-09-19 13:05:15",
+      "added_at": "2022-09-20 13:57:47",
       "album": {
         "name": "Believe For It",
         "url": "https://open.spotify.com/album/3RB7a3IhazOJUJHPccIpQz"
@@ -93,10 +77,10 @@
       "url": "https://open.spotify.com/track/4kDXqQjTLK3DJyKVh069PB"
     },
     {
-      "added_at": "2022-09-19 13:05:15",
+      "added_at": "2022-09-20 13:57:47",
       "album": {
-        "name": "Throne Room (Gold Edition)",
-        "url": "https://open.spotify.com/album/5ErmGtv1jPppmj2GoESfVz"
+        "name": "Believe For It (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/40svdUPxmIoge1BkDNWSDw"
       },
       "artists": [
         {
@@ -104,12 +88,12 @@
           "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
         }
       ],
-      "duration_ms": 294493,
-      "name": "Jesus, You're Beautiful",
-      "url": "https://open.spotify.com/track/2hURR2OEp83kltTqHXaB6G"
+      "duration_ms": 218400,
+      "name": "I've Got Joy",
+      "url": "https://open.spotify.com/track/6tbDvXVbqENripiP4beZpj"
     },
     {
-      "added_at": "2022-09-19 13:05:15",
+      "added_at": "2022-09-20 13:57:47",
       "album": {
         "name": "Alabaster Box",
         "url": "https://open.spotify.com/album/1MVEzZd7FgqYLwIBFAwyVK"
@@ -125,7 +109,23 @@
       "url": "https://open.spotify.com/track/53hUq7zmNbLvodvkRnnnaX"
     },
     {
-      "added_at": "2022-09-19 13:05:15",
+      "added_at": "2022-09-20 13:57:47",
+      "album": {
+        "name": "Believe For It",
+        "url": "https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 250733,
+      "name": "Never Lost",
+      "url": "https://open.spotify.com/track/31I8gxix4Go4Mui0WsWuku"
+    },
+    {
+      "added_at": "2022-09-20 13:57:47",
       "album": {
         "name": "Waiting To Exhale",
         "url": "https://open.spotify.com/album/2EHFZkzTbRFDt1tomCBToM"
@@ -145,23 +145,7 @@
       "url": "https://open.spotify.com/track/7mVV7fepIMUAE4FDyihupV"
     },
     {
-      "added_at": "2022-09-19 13:05:15",
-      "album": {
-        "name": "Believe For It",
-        "url": "https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 250733,
-      "name": "Never Lost",
-      "url": "https://open.spotify.com/track/31I8gxix4Go4Mui0WsWuku"
-    },
-    {
-      "added_at": "2022-09-19 13:05:15",
+      "added_at": "2022-09-20 13:57:47",
       "album": {
         "name": "For Always: The Best Of CeCe Winans",
         "url": "https://open.spotify.com/album/5iQZGEROiqR4wlhHhCC6hv"
@@ -177,7 +161,7 @@
       "url": "https://open.spotify.com/track/0Q04tlIgmRYHgvKNceIsAn"
     },
     {
-      "added_at": "2022-09-19 13:05:15",
+      "added_at": "2022-09-20 13:57:47",
       "album": {
         "name": "Alabaster Box",
         "url": "https://open.spotify.com/album/1MVEzZd7FgqYLwIBFAwyVK"
@@ -193,10 +177,10 @@
       "url": "https://open.spotify.com/track/2ZxY2iNJs1rPWw1PrzHmKy"
     },
     {
-      "added_at": "2022-09-19 13:05:15",
+      "added_at": "2022-09-20 13:57:47",
       "album": {
-        "name": "Thy Kingdom Come",
-        "url": "https://open.spotify.com/album/4wmO83yKXBEaAKME5PGOaF"
+        "name": "Throne Room (Gold Edition)",
+        "url": "https://open.spotify.com/album/5ErmGtv1jPppmj2GoESfVz"
       },
       "artists": [
         {
@@ -204,12 +188,60 @@
           "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
         }
       ],
-      "duration_ms": 320110,
-      "name": "Waging War",
-      "url": "https://open.spotify.com/track/1TKNkFNRWL5YcefJeIkfKz"
+      "duration_ms": 294493,
+      "name": "Jesus, You're Beautiful",
+      "url": "https://open.spotify.com/track/2hURR2OEp83kltTqHXaB6G"
     },
     {
-      "added_at": "2022-09-19 13:05:15",
+      "added_at": "2022-09-20 13:57:47",
+      "album": {
+        "name": "Alone In His Presence",
+        "url": "https://open.spotify.com/album/71nz5Lyn5UQI8AeELu2BaZ"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 329573,
+      "name": "I Surrender All",
+      "url": "https://open.spotify.com/track/61PM6e4ZKNyk0cliMB2oNv"
+    },
+    {
+      "added_at": "2022-09-20 13:57:47",
+      "album": {
+        "name": "CeCe Winans",
+        "url": "https://open.spotify.com/album/0rJg3QtLoMmkkK91BOH69P"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 335200,
+      "name": "Holy Spirit, Come Fill This Place",
+      "url": "https://open.spotify.com/track/1jwTbXQa3GJWgBCNxxuL0g"
+    },
+    {
+      "added_at": "2022-09-20 13:57:47",
+      "album": {
+        "name": "Songs Of Emotional Healing",
+        "url": "https://open.spotify.com/album/6VWL7HWmrzRGjhG49pYr4A"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 206213,
+      "name": "He's Concerned",
+      "url": "https://open.spotify.com/track/6bpRaJSFcjdv5aRtyUYwgc"
+    },
+    {
+      "added_at": "2022-09-20 13:57:47",
       "album": {
         "name": "Throne Room (Gold Edition)",
         "url": "https://open.spotify.com/album/5ErmGtv1jPppmj2GoESfVz"
@@ -225,27 +257,55 @@
       "url": "https://open.spotify.com/track/616Gk8gc7edgxJOLRUZaSg"
     },
     {
-      "added_at": "2022-09-19 13:05:15",
+      "added_at": "2022-09-20 13:57:47",
       "album": {
-        "name": "Alone In His Presence",
-        "url": "https://open.spotify.com/album/71nz5Lyn5UQI8AeELu2BaZ"
+        "name": "Thy Kingdom Come",
+        "url": "https://open.spotify.com/album/4wmO83yKXBEaAKME5PGOaF"
       },
       "artists": [
         {
           "name": "CeCe Winans",
           "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        },
-        {
-          "name": "Delores \"Mom\" Winans",
-          "url": "https://open.spotify.com/artist/5UMZOxh7uusc8idFcHNe7T"
         }
       ],
-      "duration_ms": 300666,
-      "name": "Great Is Thy Faithfulness",
-      "url": "https://open.spotify.com/track/26jEK23GYzHoLGIrZOyIDH"
+      "duration_ms": 320110,
+      "name": "Waging War",
+      "url": "https://open.spotify.com/track/1TKNkFNRWL5YcefJeIkfKz"
     },
     {
-      "added_at": "2022-09-19 13:05:15",
+      "added_at": "2022-09-20 13:57:47",
+      "album": {
+        "name": "Believe For It",
+        "url": "https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 329440,
+      "name": "Worthy Of It All - Live",
+      "url": "https://open.spotify.com/track/6AcReG4UWPWnNDhIYMTZV2"
+    },
+    {
+      "added_at": "2022-09-20 13:57:47",
+      "album": {
+        "name": "Alabaster Box",
+        "url": "https://open.spotify.com/album/1MVEzZd7FgqYLwIBFAwyVK"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 190600,
+      "name": "He's Not On His Knees Yet",
+      "url": "https://open.spotify.com/track/3AhG2xpFa39bulk3v24sjy"
+    },
+    {
+      "added_at": "2022-09-20 13:57:47",
       "album": {
         "name": "My Savior",
         "url": "https://open.spotify.com/album/4Dep4FHb2IMFImgEhs83ww"
@@ -265,135 +325,7 @@
       "url": "https://open.spotify.com/track/17AeeMY4OZlsqIUUlOlfP4"
     },
     {
-      "added_at": "2022-09-19 13:05:15",
-      "album": {
-        "name": "Alabaster Box",
-        "url": "https://open.spotify.com/album/1MVEzZd7FgqYLwIBFAwyVK"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 190600,
-      "name": "He's Not On His Knees Yet",
-      "url": "https://open.spotify.com/track/3AhG2xpFa39bulk3v24sjy"
-    },
-    {
-      "added_at": "2022-09-19 13:05:15",
-      "album": {
-        "name": "Throne Room (Gold Edition)",
-        "url": "https://open.spotify.com/album/5ErmGtv1jPppmj2GoESfVz"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 377026,
-      "name": "How Great Thou Art!",
-      "url": "https://open.spotify.com/track/0rJhS2Mw9ozyCnxzducYi4"
-    },
-    {
-      "added_at": "2022-09-19 13:05:15",
-      "album": {
-        "name": "Alone In His Presence",
-        "url": "https://open.spotify.com/album/71nz5Lyn5UQI8AeELu2BaZ"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 329573,
-      "name": "I Surrender All",
-      "url": "https://open.spotify.com/track/61PM6e4ZKNyk0cliMB2oNv"
-    },
-    {
-      "added_at": "2022-09-19 13:05:15",
-      "album": {
-        "name": "Thy Kingdom Come",
-        "url": "https://open.spotify.com/album/4wmO83yKXBEaAKME5PGOaF"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 271453,
-      "name": "Bless His Holy Name",
-      "url": "https://open.spotify.com/track/4DVfAjlA3pAHPjv0DLVk2J"
-    },
-    {
-      "added_at": "2022-09-19 13:05:15",
-      "album": {
-        "name": "CeCe Winans",
-        "url": "https://open.spotify.com/album/0rJg3QtLoMmkkK91BOH69P"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 335200,
-      "name": "Holy Spirit, Come Fill This Place",
-      "url": "https://open.spotify.com/track/1jwTbXQa3GJWgBCNxxuL0g"
-    },
-    {
-      "added_at": "2022-09-19 13:05:15",
-      "album": {
-        "name": "Songs Of Emotional Healing",
-        "url": "https://open.spotify.com/album/6VWL7HWmrzRGjhG49pYr4A"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 206213,
-      "name": "He's Concerned",
-      "url": "https://open.spotify.com/track/6bpRaJSFcjdv5aRtyUYwgc"
-    },
-    {
-      "added_at": "2022-09-19 13:05:15",
-      "album": {
-        "name": "Alone In His Presence",
-        "url": "https://open.spotify.com/album/71nz5Lyn5UQI8AeELu2BaZ"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 246266,
-      "name": "Alone In The Presence",
-      "url": "https://open.spotify.com/track/5z4OzC03DQ1B8mzGVWjE71"
-    },
-    {
-      "added_at": "2022-09-19 13:05:15",
-      "album": {
-        "name": "Believe For It",
-        "url": "https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 329440,
-      "name": "Worthy Of It All - Live",
-      "url": "https://open.spotify.com/track/6AcReG4UWPWnNDhIYMTZV2"
-    },
-    {
-      "added_at": "2022-09-19 13:05:15",
+      "added_at": "2022-09-20 13:57:47",
       "album": {
         "name": "CeCe Winans Presents Pure Worship",
         "url": "https://open.spotify.com/album/30KEIO6pQIvgHF3bpvhj6f"
@@ -409,7 +341,7 @@
       "url": "https://open.spotify.com/track/4giHNYioIQoM2zGvDaAZ2S"
     },
     {
-      "added_at": "2022-09-19 13:05:15",
+      "added_at": "2022-09-20 13:57:47",
       "album": {
         "name": "Throne Room (Gold Edition)",
         "url": "https://open.spotify.com/album/5ErmGtv1jPppmj2GoESfVz"
@@ -425,7 +357,27 @@
       "url": "https://open.spotify.com/track/6ooJQCVtJdIdUJTX7MP0Bg"
     },
     {
-      "added_at": "2022-09-19 13:05:15",
+      "added_at": "2022-09-20 13:57:47",
+      "album": {
+        "name": "Alone In His Presence",
+        "url": "https://open.spotify.com/album/71nz5Lyn5UQI8AeELu2BaZ"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        },
+        {
+          "name": "Delores \"Mom\" Winans",
+          "url": "https://open.spotify.com/artist/5UMZOxh7uusc8idFcHNe7T"
+        }
+      ],
+      "duration_ms": 300666,
+      "name": "Great Is Thy Faithfulness",
+      "url": "https://open.spotify.com/track/26jEK23GYzHoLGIrZOyIDH"
+    },
+    {
+      "added_at": "2022-09-20 13:57:47",
       "album": {
         "name": "Gaither Homecoming Classics Vol.1",
         "url": "https://open.spotify.com/album/3xjEEUAUUrcGADtLnfrQwT"
@@ -441,10 +393,10 @@
       "url": "https://open.spotify.com/track/698O3Z86WEausqCHlq5rMA"
     },
     {
-      "added_at": "2022-09-19 13:05:15",
+      "added_at": "2022-09-20 13:57:47",
       "album": {
-        "name": "CeCe Winans",
-        "url": "https://open.spotify.com/album/0rJg3QtLoMmkkK91BOH69P"
+        "name": "Thy Kingdom Come",
+        "url": "https://open.spotify.com/album/4wmO83yKXBEaAKME5PGOaF"
       },
       "artists": [
         {
@@ -452,12 +404,28 @@
           "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
         }
       ],
-      "duration_ms": 260200,
-      "name": "No One",
-      "url": "https://open.spotify.com/track/2bpk4L2kxnIJRY8dPfkpZ3"
+      "duration_ms": 271453,
+      "name": "Bless His Holy Name",
+      "url": "https://open.spotify.com/track/4DVfAjlA3pAHPjv0DLVk2J"
     },
     {
-      "added_at": "2022-09-19 13:05:15",
+      "added_at": "2022-09-20 13:57:47",
+      "album": {
+        "name": "Throne Room (Gold Edition)",
+        "url": "https://open.spotify.com/album/5ErmGtv1jPppmj2GoESfVz"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 377026,
+      "name": "How Great Thou Art!",
+      "url": "https://open.spotify.com/track/0rJhS2Mw9ozyCnxzducYi4"
+    },
+    {
+      "added_at": "2022-09-20 13:57:47",
       "album": {
         "name": "Songs Of Emotional Healing",
         "url": "https://open.spotify.com/album/6VWL7HWmrzRGjhG49pYr4A"
@@ -473,7 +441,23 @@
       "url": "https://open.spotify.com/track/5QnvVn3CFujK70HOLYFiju"
     },
     {
-      "added_at": "2022-09-19 13:05:15",
+      "added_at": "2022-09-20 13:57:47",
+      "album": {
+        "name": "CeCe Winans",
+        "url": "https://open.spotify.com/album/0rJg3QtLoMmkkK91BOH69P"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 260200,
+      "name": "No One",
+      "url": "https://open.spotify.com/track/2bpk4L2kxnIJRY8dPfkpZ3"
+    },
+    {
+      "added_at": "2022-09-20 13:57:47",
       "album": {
         "name": "Purified",
         "url": "https://open.spotify.com/album/6FfAauX1EP2zHgPoOnwWZ8"
@@ -489,103 +473,7 @@
       "url": "https://open.spotify.com/track/3pTA6tD4Xv25EJrAeCjBp6"
     },
     {
-      "added_at": "2022-09-19 13:05:15",
-      "album": {
-        "name": "Alabaster Box",
-        "url": "https://open.spotify.com/album/1MVEzZd7FgqYLwIBFAwyVK"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 264893,
-      "name": "King Of Kings (He's A Wonder)",
-      "url": "https://open.spotify.com/track/6xyx0WMEvDrSbpH5i3Oil6"
-    },
-    {
-      "added_at": "2022-09-19 13:05:15",
-      "album": {
-        "name": "CeCe Winans",
-        "url": "https://open.spotify.com/album/0rJg3QtLoMmkkK91BOH69P"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 228733,
-      "name": "Looking Back At You",
-      "url": "https://open.spotify.com/track/4bG7zbyd6ijoCm6P1Tin6g"
-    },
-    {
-      "added_at": "2022-09-19 13:05:15",
-      "album": {
-        "name": "Thy Kingdom Come",
-        "url": "https://open.spotify.com/album/4wmO83yKXBEaAKME5PGOaF"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 297760,
-      "name": "We Welcome You (Holy Father)",
-      "url": "https://open.spotify.com/track/5ZbYTCik99Yqk2CZRI6Xqk"
-    },
-    {
-      "added_at": "2022-09-19 13:05:15",
-      "album": {
-        "name": "Never Have to Be Alone",
-        "url": "https://open.spotify.com/album/34VkbeKpr1wXJZe1xW0Aif"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 227335,
-      "name": "Never Have to Be Alone",
-      "url": "https://open.spotify.com/track/43w5n3xRMBOQll8xQBuO41"
-    },
-    {
-      "added_at": "2022-09-19 13:05:15",
-      "album": {
-        "name": "Alabaster Box",
-        "url": "https://open.spotify.com/album/1MVEzZd7FgqYLwIBFAwyVK"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 51466,
-      "name": "Fill My Cup",
-      "url": "https://open.spotify.com/track/74uiz7dOqQb22ACH4INFtR"
-    },
-    {
-      "added_at": "2022-09-19 13:05:15",
-      "album": {
-        "name": "CeCe Winans",
-        "url": "https://open.spotify.com/album/0rJg3QtLoMmkkK91BOH69P"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 207400,
-      "name": "More Than What I Wanted",
-      "url": "https://open.spotify.com/track/5eDAm9j65OVuw3jTiO9IYS"
-    },
-    {
-      "added_at": "2022-09-19 13:05:15",
+      "added_at": "2022-09-20 13:57:47",
       "album": {
         "name": "Throne Room (Gold Edition)",
         "url": "https://open.spotify.com/album/5ErmGtv1jPppmj2GoESfVz"
@@ -601,23 +489,7 @@
       "url": "https://open.spotify.com/track/6qZe7re42jfoHPEU916WgS"
     },
     {
-      "added_at": "2022-09-19 13:05:15",
-      "album": {
-        "name": "Let Them Fall in Love",
-        "url": "https://open.spotify.com/album/38jktl2c8ZRqyKDV25XgNt"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 206164,
-      "name": "Why Me",
-      "url": "https://open.spotify.com/track/55lij8lwwJko3565p77R74"
-    },
-    {
-      "added_at": "2022-09-19 13:05:15",
+      "added_at": "2022-09-20 13:57:47",
       "album": {
         "name": "Songs Of Emotional Healing",
         "url": "https://open.spotify.com/album/6VWL7HWmrzRGjhG49pYr4A"
@@ -633,7 +505,55 @@
       "url": "https://open.spotify.com/track/3X5P8ZCyytPL91vLfI5dbe"
     },
     {
-      "added_at": "2022-09-19 13:05:15",
+      "added_at": "2022-09-20 13:57:47",
+      "album": {
+        "name": "CeCe Winans",
+        "url": "https://open.spotify.com/album/0rJg3QtLoMmkkK91BOH69P"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 228733,
+      "name": "Looking Back At You",
+      "url": "https://open.spotify.com/track/4bG7zbyd6ijoCm6P1Tin6g"
+    },
+    {
+      "added_at": "2022-09-20 13:57:47",
+      "album": {
+        "name": "Never Have to Be Alone",
+        "url": "https://open.spotify.com/album/34VkbeKpr1wXJZe1xW0Aif"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 227335,
+      "name": "Never Have to Be Alone",
+      "url": "https://open.spotify.com/track/43w5n3xRMBOQll8xQBuO41"
+    },
+    {
+      "added_at": "2022-09-20 13:57:47",
+      "album": {
+        "name": "Alabaster Box",
+        "url": "https://open.spotify.com/album/1MVEzZd7FgqYLwIBFAwyVK"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 51466,
+      "name": "Fill My Cup",
+      "url": "https://open.spotify.com/track/74uiz7dOqQb22ACH4INFtR"
+    },
+    {
+      "added_at": "2022-09-20 13:57:47",
       "album": {
         "name": "Everlasting Love",
         "url": "https://open.spotify.com/album/3MHub5tyWVwztqFLoKQWjd"
@@ -649,10 +569,10 @@
       "url": "https://open.spotify.com/track/1v7IsaTlOwnPfHf8DVIr5u"
     },
     {
-      "added_at": "2022-09-19 13:05:15",
+      "added_at": "2022-09-20 13:57:47",
       "album": {
-        "name": "Believe For It",
-        "url": "https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor"
+        "name": "CeCe Winans",
+        "url": "https://open.spotify.com/album/0rJg3QtLoMmkkK91BOH69P"
       },
       "artists": [
         {
@@ -660,12 +580,12 @@
           "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
         }
       ],
-      "duration_ms": 212053,
-      "name": "Just To Be Close To You - Live",
-      "url": "https://open.spotify.com/track/4YUK1HEfd7DqcCLP561VjF"
+      "duration_ms": 207400,
+      "name": "More Than What I Wanted",
+      "url": "https://open.spotify.com/track/5eDAm9j65OVuw3jTiO9IYS"
     },
     {
-      "added_at": "2022-09-19 13:05:15",
+      "added_at": "2022-09-20 13:57:47",
       "album": {
         "name": "Let Them Fall in Love",
         "url": "https://open.spotify.com/album/38jktl2c8ZRqyKDV25XgNt"
@@ -676,12 +596,28 @@
           "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
         }
       ],
-      "duration_ms": 295259,
-      "name": "He's Never Failed Me Yet",
-      "url": "https://open.spotify.com/track/6Bp8h3BcbzpiZaETIp6J9W"
+      "duration_ms": 206164,
+      "name": "Why Me",
+      "url": "https://open.spotify.com/track/55lij8lwwJko3565p77R74"
     },
     {
-      "added_at": "2022-09-19 13:05:15",
+      "added_at": "2022-09-20 13:57:47",
+      "album": {
+        "name": "Alabaster Box",
+        "url": "https://open.spotify.com/album/1MVEzZd7FgqYLwIBFAwyVK"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 264893,
+      "name": "King Of Kings (He's A Wonder)",
+      "url": "https://open.spotify.com/track/6xyx0WMEvDrSbpH5i3Oil6"
+    },
+    {
+      "added_at": "2022-09-20 13:57:47",
       "album": {
         "name": "Alone In His Presence",
         "url": "https://open.spotify.com/album/71nz5Lyn5UQI8AeELu2BaZ"
@@ -692,15 +628,15 @@
           "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
         }
       ],
-      "duration_ms": 277533,
-      "name": "Blood Medley",
-      "url": "https://open.spotify.com/track/2Krj7jYL2jZJh3SM0Zbwqe"
+      "duration_ms": 246266,
+      "name": "Alone In The Presence",
+      "url": "https://open.spotify.com/track/5z4OzC03DQ1B8mzGVWjE71"
     },
     {
-      "added_at": "2022-09-19 13:05:15",
+      "added_at": "2022-09-20 13:57:47",
       "album": {
-        "name": "Everlasting Love",
-        "url": "https://open.spotify.com/album/3MHub5tyWVwztqFLoKQWjd"
+        "name": "Thy Kingdom Come",
+        "url": "https://open.spotify.com/album/4wmO83yKXBEaAKME5PGOaF"
       },
       "artists": [
         {
@@ -708,12 +644,12 @@
           "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
         }
       ],
-      "duration_ms": 258252,
-      "name": "Well, Alright",
-      "url": "https://open.spotify.com/track/22zZfNtNFd46tAAC4rsyRa"
+      "duration_ms": 322200,
+      "name": "Worthy",
+      "url": "https://open.spotify.com/track/1fEHKfIhgVMb9PJCOr9e97"
     },
     {
-      "added_at": "2022-09-19 13:05:15",
+      "added_at": "2022-09-20 13:57:47",
       "album": {
         "name": "Believe For It",
         "url": "https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor"
@@ -724,40 +660,12 @@
           "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
         }
       ],
-      "duration_ms": 378173,
-      "name": "Shepherd - Live",
-      "url": "https://open.spotify.com/track/6rhMaJOXHqmVZn1gsQ0dNA"
+      "duration_ms": 635360,
+      "name": "King of Glory - Live",
+      "url": "https://open.spotify.com/track/5JtEowhVthCH9oNtnjZl93"
     },
     {
-      "added_at": "2022-09-19 13:05:15",
-      "album": {
-        "name": "We All Are One (Live In Detroit)",
-        "url": "https://open.spotify.com/album/0OsTWxuUeYBTQL3lftiMpk"
-      },
-      "artists": [
-        {
-          "name": "Donnie McClurkin",
-          "url": "https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra"
-        },
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        },
-        {
-          "name": "Yolanda Adams",
-          "url": "https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11"
-        },
-        {
-          "name": "Mary Mary",
-          "url": "https://open.spotify.com/artist/12Kgt2eahvxNWhD5PnSUde"
-        }
-      ],
-      "duration_ms": 266693,
-      "name": "When You Love (feat. CeCe Winans, Yolanda Adams & Mary Mary)",
-      "url": "https://open.spotify.com/track/7lCkz84Hd3LnRbEPhvIZOg"
-    },
-    {
-      "added_at": "2022-09-19 13:05:15",
+      "added_at": "2022-09-20 13:57:47",
       "album": {
         "name": "Songs from the Neighborhood: The Music of Mister Rogers",
         "url": "https://open.spotify.com/album/3cBGz03vO7HN2LOBeTtwy7"
@@ -817,10 +725,10 @@
       "url": "https://open.spotify.com/track/6b7xNBl42iQIoB3bR2sK4h"
     },
     {
-      "added_at": "2022-09-19 13:05:15",
+      "added_at": "2022-09-20 13:57:47",
       "album": {
-        "name": "Thy Kingdom Come",
-        "url": "https://open.spotify.com/album/4wmO83yKXBEaAKME5PGOaF"
+        "name": "Alone In His Presence",
+        "url": "https://open.spotify.com/album/71nz5Lyn5UQI8AeELu2BaZ"
       },
       "artists": [
         {
@@ -828,12 +736,28 @@
           "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
         }
       ],
-      "duration_ms": 322200,
-      "name": "Worthy",
-      "url": "https://open.spotify.com/track/1fEHKfIhgVMb9PJCOr9e97"
+      "duration_ms": 277533,
+      "name": "Blood Medley",
+      "url": "https://open.spotify.com/track/2Krj7jYL2jZJh3SM0Zbwqe"
     },
     {
-      "added_at": "2022-09-19 13:05:15",
+      "added_at": "2022-09-20 13:57:47",
+      "album": {
+        "name": "Everlasting Love",
+        "url": "https://open.spotify.com/album/3MHub5tyWVwztqFLoKQWjd"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 258252,
+      "name": "Well, Alright",
+      "url": "https://open.spotify.com/track/22zZfNtNFd46tAAC4rsyRa"
+    },
+    {
+      "added_at": "2022-09-20 13:57:47",
       "album": {
         "name": "Believe For It",
         "url": "https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor"
@@ -844,12 +768,56 @@
           "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
         }
       ],
-      "duration_ms": 522973,
-      "name": "No Greater - Live",
-      "url": "https://open.spotify.com/track/5PcQV7HNDr2c1mpSoRirgt"
+      "duration_ms": 212053,
+      "name": "Just To Be Close To You - Live",
+      "url": "https://open.spotify.com/track/4YUK1HEfd7DqcCLP561VjF"
     },
     {
-      "added_at": "2022-09-19 13:05:15",
+      "added_at": "2022-09-20 13:57:47",
+      "album": {
+        "name": "Let Them Fall in Love",
+        "url": "https://open.spotify.com/album/38jktl2c8ZRqyKDV25XgNt"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 295259,
+      "name": "He's Never Failed Me Yet",
+      "url": "https://open.spotify.com/track/6Bp8h3BcbzpiZaETIp6J9W"
+    },
+    {
+      "added_at": "2022-09-20 13:57:47",
+      "album": {
+        "name": "We All Are One (Live In Detroit)",
+        "url": "https://open.spotify.com/album/0OsTWxuUeYBTQL3lftiMpk"
+      },
+      "artists": [
+        {
+          "name": "Donnie McClurkin",
+          "url": "https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra"
+        },
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        },
+        {
+          "name": "Yolanda Adams",
+          "url": "https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11"
+        },
+        {
+          "name": "Mary Mary",
+          "url": "https://open.spotify.com/artist/12Kgt2eahvxNWhD5PnSUde"
+        }
+      ],
+      "duration_ms": 266693,
+      "name": "When You Love (feat. CeCe Winans, Yolanda Adams & Mary Mary)",
+      "url": "https://open.spotify.com/track/7lCkz84Hd3LnRbEPhvIZOg"
+    },
+    {
+      "added_at": "2022-09-20 13:57:47",
       "album": {
         "name": "For Always: The Best Of CeCe Winans",
         "url": "https://open.spotify.com/album/5iQZGEROiqR4wlhHhCC6hv"
@@ -865,7 +833,23 @@
       "url": "https://open.spotify.com/track/4YTCoAFZ03GBHCdoZh0KGl"
     },
     {
-      "added_at": "2022-09-19 13:05:15",
+      "added_at": "2022-09-20 13:57:47",
+      "album": {
+        "name": "Believe For It",
+        "url": "https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 378173,
+      "name": "Shepherd - Live",
+      "url": "https://open.spotify.com/track/6rhMaJOXHqmVZn1gsQ0dNA"
+    },
+    {
+      "added_at": "2022-09-20 13:57:47",
       "album": {
         "name": "Everlasting Love",
         "url": "https://open.spotify.com/album/3MHub5tyWVwztqFLoKQWjd"
@@ -879,6 +863,22 @@
       "duration_ms": 259293,
       "name": "I Am",
       "url": "https://open.spotify.com/track/1EjiSDVT1YgLKO4W71NAmA"
+    },
+    {
+      "added_at": "2022-09-20 13:57:47",
+      "album": {
+        "name": "Thy Kingdom Come",
+        "url": "https://open.spotify.com/album/4wmO83yKXBEaAKME5PGOaF"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 297760,
+      "name": "We Welcome You (Holy Father)",
+      "url": "https://open.spotify.com/track/5ZbYTCik99Yqk2CZRI6Xqk"
     }
   ],
   "unique_name": "This Is CeCe Winans",

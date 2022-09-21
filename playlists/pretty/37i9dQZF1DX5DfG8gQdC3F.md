@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > All the best new tracks this week, all in one place\. Cover: Jessie Reyez
 
-[Spotify](https://open.spotify.com/user/spotify) - 331,165 likes - 101 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 331,164 likes - 101 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 6 | [Ain't Got Nothin' Figured Out](https://open.spotify.com/track/7K8Rw4AUsIVPGSBdzII44L) | [MAGIC!](https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c) | [Ain't Got Nothin' Figured Out](https://open.spotify.com/album/0oTaygkYZPGj8dOvRqW6IB) | 3:25 |
 | 7 | [See You In My Dreams](https://open.spotify.com/track/72NyOVk69pDEGQwe313bnC) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [In Between Dreams](https://open.spotify.com/album/65aMVW2EfbGTgW9KvG2AMz) | 2:39 |
 | 8 | [Where Do We Go](https://open.spotify.com/track/5fBBhQfbpkYpGc0Qcax4FN) | [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82) | [Where Do We Go](https://open.spotify.com/album/4HNIEO4z4B9iXPW8ywV01E) | 2:30 |
-| 9 | [All Along \(Kaytranada Remix\)](https://open.spotify.com/track/35WIVWDcONu3B64ZcYbPX6) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [All Along \(Kaytranada Remix\)](https://open.spotify.com/album/3UtKaTe3ZGpNo0cVdffTCi) | 4:44 |
+| 9 | [All Along \(Kaytranada Remix\)](https://open.spotify.com/track/3fTwZdX5X3BIsdEJvai7Be) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Play With The Changes \(Remixed\)](https://open.spotify.com/album/3fMIqhERSssKur9QOqa5X1) | 4:44 |
 | 10 | [Movie Star \(ft\. MOD SUN & Global Dan\)](https://open.spotify.com/track/0P6jpMI0OXirXvurwBgM5d) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG), [Global Dan](https://open.spotify.com/artist/1lzugG0lqNh9nP6Fp2zG3c) | [HiROQUEST: Genesis](https://open.spotify.com/album/0lF8VwXlAyOMFt1XQvCa5l) | 3:33 |
 | 11 | [I Don’t Think That I Like Her](https://open.spotify.com/track/0zRezEuKtaAXHcB4eruwi2) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [I Don’t Think That I Like Her](https://open.spotify.com/album/5f7yRF519Ruz1yE9x97jID) | 3:08 |
 | 12 | [Bad To Me](https://open.spotify.com/track/2pUlBBWq8R10ylbBvZJV9j) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Bad To Me](https://open.spotify.com/album/15hz0gTEdD5H9taOgDdrfJ) | 2:56 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 100 | [Undershare \(feat\. ELIO\)](https://open.spotify.com/track/7Mdvvkp2wAHUnFwdZ6nrr1) | [mathijs.iv](https://open.spotify.com/artist/1qtwdqUmc8Nnza2PcPSlSu), [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA) | [Undershare \(feat\. ELIO\)](https://open.spotify.com/album/6kQpLd2JF29RNgBjJ8fFfv) | 3:39 |
 | 101 | [Threads](https://open.spotify.com/track/2SJ0exVB6NRWLbdjCsNWAd) | [Indy](https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ) | [Threads](https://open.spotify.com/album/1SZmDUuIlro250y8TPMMbd) | 3:52 |
 
-Snapshot ID: `MTY2MzM0MTI3NSwwMDAwMDAwMGUwOWE4MmY3YjQzZTY3NzgyYTU5NjExMmJiN2ZiYzdh`
+Snapshot ID: `MTY2MzM0MTI3NSwwMDAwMDAwMGYyNTlhN2JkNmQ0YzhmMTgxNDc5NDdjZDgyNWY5NDc1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuJFsTMqHYX.md) - [plain]
 
 > The hottest music from the hottest desert\. Cover: Tinariwen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,213 likes - 50 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,365 likes - 50 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuJFsTMqHYX.md) - [plain]
 | 39 | [Baraka](https://open.spotify.com/track/1aCV7ocnKXsLSb0oX2dmup) | [Aziza Brahim](https://open.spotify.com/artist/0ydDa6afIYote2AtmgSycS) | [Abbar el Hamada](https://open.spotify.com/album/1TVWhiqo2BlNO1rxB1exn3) | 3:51 |
 | 40 | [Toumast anlet](https://open.spotify.com/track/09n4VZqxSvFJfdtyV0HbCV) | [Tamikrest](https://open.spotify.com/artist/6nZ1wn9URV4oWk4UKuG872) | [Chatma](https://open.spotify.com/album/0VI8LrJKHMN1S9hloXGMlU) | 5:13 |
 | 41 | [Akaline Akaline](https://open.spotify.com/track/6qQhWIowgtVSz6UFJvG5Ku) | [Ahmoudou Madassane](https://open.spotify.com/artist/5oQlmxzNKhiA2LWU40F6rm) | [Zerzura \(Original Soundtrack Recording\)](https://open.spotify.com/album/1YUKsFUMyCT59pqnOaWoAt) | 3:07 |
-| 42 | [Fransa](https://open.spotify.com/track/3N6ddWSmrMFvZkGFBU4Ike) | [Kel Assouf](https://open.spotify.com/artist/5mu6VL20oyfrkqOW61w7p9) | [Black Tenere](https://open.spotify.com/album/2szNhyx4lm9LoUU8KnUN6b) | 4:41 |
-| 43 | [Midiwan](https://open.spotify.com/track/3uQZlQyED9BvADK1JWXIzl) | [Bombino](https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN) | [Deran](https://open.spotify.com/album/2Gm3Wy05MApR47NZmRo1DW) | 3:42 |
+| 42 | [Midiwan](https://open.spotify.com/track/3uQZlQyED9BvADK1JWXIzl) | [Bombino](https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN) | [Deran](https://open.spotify.com/album/2Gm3Wy05MApR47NZmRo1DW) | 3:42 |
+| 43 | [Fransa](https://open.spotify.com/track/3N6ddWSmrMFvZkGFBU4Ike) | [Kel Assouf](https://open.spotify.com/artist/5mu6VL20oyfrkqOW61w7p9) | [Black Tenere](https://open.spotify.com/album/2szNhyx4lm9LoUU8KnUN6b) | 4:41 |
 | 44 | [Ghlana](https://open.spotify.com/track/3PD3dEs0ZADzjDi71v67dY) | [Noura Mint Seymali](https://open.spotify.com/artist/2HnmTIZBaC6upua76nuGIY) | [Arbina](https://open.spotify.com/album/6JBjWrsydl3DkCJDA6Q8JU) | 3:44 |
 | 45 | [Taguebarbt](https://open.spotify.com/track/3Z0pzENlADpDPqWW4Lb2Kw) | [Gaada Diwane De Béchar](https://open.spotify.com/artist/52QoFZylWvNG3obRJxiPPF) | [Sortie D'usine](https://open.spotify.com/album/2LhXFW8YOMLKzjxaDN11Cr) | 4:10 |
 | 46 | [Zalina](https://open.spotify.com/track/7LFTVgFCNdNghawWIfN3OX) | [Balkan Taksim](https://open.spotify.com/artist/70oqqBR2WFsDZP6JhLvYpm) | [Zalina](https://open.spotify.com/album/1sAs3dT1gJQJqKuKHCyg31) | 3:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuJFsTMqHYX.md) - [plain]
 | 49 | [Tiwàyyen](https://open.spotify.com/track/30A3vEsySPkeXzXeMITvwE) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Elwan](https://open.spotify.com/album/41KpeN0qV6BBsuJgd8tZrE) | 3:44 |
 | 50 | [Soubour](https://open.spotify.com/track/6myCSm2QEXMrgtUxVN313f) | [Songhoy Blues](https://open.spotify.com/artist/5fpQ5Qt2BKgoVBSMw4Z17Z) | [Music In Exile](https://open.spotify.com/album/5zpmNObCgAASco8nNJXIkb) | 3:32 |
 
-Snapshot ID: `MTY2MjAyODI2OCwwMDAwMDAwMDY2M2M5MmM0ZTM1YWM3NjEyZGJjMWE4OTE3YmE3N2Y0`
+Snapshot ID: `MTY2MjAyODI2OCwwMDAwMDAwMDU2YWZhZTJjYTNmMTY4YjJhZGVhYzdkZDU1MTQyMTUz`

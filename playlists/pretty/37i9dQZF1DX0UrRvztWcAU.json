@@ -1,12 +1,12 @@
 {
   "description": "Set the mood of your day with these happy songs.",
-  "num_followers": 1331445,
+  "num_followers": 1331449,
   "original_name": "Wake Up Happy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzUwNDM5MiwwMDAwMDAwMDAwZjFhNjJjMDE5MGQzZmVmMjlhYTI4YjhlODAzNzRl",
+  "snapshot_id": "MTY2MzUwNDM5MiwwMDAwMDAwMGQ2NzRiMjI0YTMwM2ViMDA0YzIzNmY3ZDU0YTBkZjE0",
   "tracks": [
     {
       "added_at": "2022-09-16 12:00:00",
@@ -755,18 +755,18 @@
     {
       "added_at": "2022-09-16 12:00:00",
       "album": {
-        "name": "THE E.N.D. (THE ENERGY NEVER DIES)",
-        "url": "https://open.spotify.com/album/3lng6RAtdksQ2q02Fk5jaB"
+        "name": "Waking Up",
+        "url": "https://open.spotify.com/album/2pLAOZiilrhOrTQNqrF8qr"
       },
       "artists": [
         {
-          "name": "Black Eyed Peas",
-          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
         }
       ],
-      "duration_ms": 289133,
-      "name": "I Gotta Feeling",
-      "url": "https://open.spotify.com/track/2H1047e0oMSj10dgp7p2VG"
+      "duration_ms": 253306,
+      "name": "Good Life",
+      "url": "https://open.spotify.com/track/6OtCIsQZ64Vs1EbzztvAv4"
     },
     {
       "added_at": "2022-09-16 12:00:00",
@@ -787,18 +787,18 @@
     {
       "added_at": "2022-09-16 12:00:00",
       "album": {
-        "name": "Waking Up",
-        "url": "https://open.spotify.com/album/2pLAOZiilrhOrTQNqrF8qr"
+        "name": "THE E.N.D. (THE ENERGY NEVER DIES)",
+        "url": "https://open.spotify.com/album/3lng6RAtdksQ2q02Fk5jaB"
       },
       "artists": [
         {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
         }
       ],
-      "duration_ms": 253306,
-      "name": "Good Life",
-      "url": "https://open.spotify.com/track/6OtCIsQZ64Vs1EbzztvAv4"
+      "duration_ms": 289133,
+      "name": "I Gotta Feeling",
+      "url": "https://open.spotify.com/track/2H1047e0oMSj10dgp7p2VG"
     },
     {
       "added_at": "2022-09-16 12:00:00",
@@ -1611,6 +1611,22 @@
     {
       "added_at": "2022-09-16 12:00:00",
       "album": {
+        "name": "I AM...SASHA FIERCE",
+        "url": "https://open.spotify.com/album/23Y5wdyP5byMFktZf8AcWU"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 193213,
+      "name": "Single Ladies (Put a Ring on It)",
+      "url": "https://open.spotify.com/track/2ZBNclC5wm4GtiWaeh0DMx"
+    },
+    {
+      "added_at": "2022-09-16 12:00:00",
+      "album": {
         "name": "Close To Me (feat. Swae Lee)",
         "url": "https://open.spotify.com/album/4bLCVUEB9YWKEeaJm8FfqQ"
       },
@@ -1631,22 +1647,6 @@
       "duration_ms": 182623,
       "name": "Close To Me (with Diplo) (feat. Swae Lee)",
       "url": "https://open.spotify.com/track/5JEx7HbmvHQQswJCsoo9rA"
-    },
-    {
-      "added_at": "2022-09-16 12:00:00",
-      "album": {
-        "name": "I AM...SASHA FIERCE",
-        "url": "https://open.spotify.com/album/23Y5wdyP5byMFktZf8AcWU"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 193213,
-      "name": "Single Ladies (Put a Ring on It)",
-      "url": "https://open.spotify.com/track/2ZBNclC5wm4GtiWaeh0DMx"
     },
     {
       "added_at": "2022-09-16 12:00:00",
@@ -1983,22 +1983,6 @@
     {
       "added_at": "2022-09-16 12:00:00",
       "album": {
-        "name": "WE ARE",
-        "url": "https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE"
-      },
-      "artists": [
-        {
-          "name": "Jon Batiste",
-          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
-        }
-      ],
-      "duration_ms": 178289,
-      "name": "FREEDOM",
-      "url": "https://open.spotify.com/track/2QOB5UiRKggr2j9uMD3GYK"
-    },
-    {
-      "added_at": "2022-09-16 12:00:00",
-      "album": {
         "name": "Word Of Mouth (Deluxe)",
         "url": "https://open.spotify.com/album/4kOQZmvSBepp9AUhc65Tgf"
       },
@@ -2011,6 +1995,22 @@
       "duration_ms": 206161,
       "name": "We Own The Night",
       "url": "https://open.spotify.com/track/6XS8t28Zl7a9LiZacsRdNK"
+    },
+    {
+      "added_at": "2022-09-16 12:00:00",
+      "album": {
+        "name": "WE ARE",
+        "url": "https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE"
+      },
+      "artists": [
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        }
+      ],
+      "duration_ms": 178289,
+      "name": "FREEDOM",
+      "url": "https://open.spotify.com/track/2QOB5UiRKggr2j9uMD3GYK"
     },
     {
       "added_at": "2022-09-16 12:00:00",
@@ -2031,22 +2031,6 @@
     {
       "added_at": "2022-09-16 12:00:00",
       "album": {
-        "name": "The Essential Earth, Wind & Fire",
-        "url": "https://open.spotify.com/album/75CDFLAqMl6VgmPJtaTHmg"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 215080,
-      "name": "September",
-      "url": "https://open.spotify.com/track/3wpLkju0bJy89kjgdRys0j"
-    },
-    {
-      "added_at": "2022-09-16 12:00:00",
-      "album": {
         "name": "Sixteen",
         "url": "https://open.spotify.com/album/5AXNN75OmMjFrwst6ExNPx"
       },
@@ -2059,6 +2043,22 @@
       "duration_ms": 201072,
       "name": "Sixteen",
       "url": "https://open.spotify.com/track/4PkIDTPGedm0enzdvilLNd"
+    },
+    {
+      "added_at": "2022-09-16 12:00:00",
+      "album": {
+        "name": "The Essential Earth, Wind & Fire",
+        "url": "https://open.spotify.com/album/75CDFLAqMl6VgmPJtaTHmg"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 215080,
+      "name": "September",
+      "url": "https://open.spotify.com/track/3wpLkju0bJy89kjgdRys0j"
     },
     {
       "added_at": "2022-09-16 12:00:00",
@@ -2147,22 +2147,6 @@
     {
       "added_at": "2022-09-16 12:00:00",
       "album": {
-        "name": "What A Night",
-        "url": "https://open.spotify.com/album/5x8srROrtSoC8dCCj6XtHf"
-      },
-      "artists": [
-        {
-          "name": "Flo Rida",
-          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
-        }
-      ],
-      "duration_ms": 124592,
-      "name": "What A Night",
-      "url": "https://open.spotify.com/track/3FUlqltjiMMJdyEPaYAUqK"
-    },
-    {
-      "added_at": "2022-09-16 12:00:00",
-      "album": {
         "name": "L\u00c9ON",
         "url": "https://open.spotify.com/album/4rH2e0qPw9MrwOSdk9rKNe"
       },
@@ -2175,6 +2159,22 @@
       "duration_ms": 224063,
       "name": "You And I",
       "url": "https://open.spotify.com/track/4P1EGoXLWQ1YF6Nsmr1pfy"
+    },
+    {
+      "added_at": "2022-09-16 12:00:00",
+      "album": {
+        "name": "What A Night",
+        "url": "https://open.spotify.com/album/5x8srROrtSoC8dCCj6XtHf"
+      },
+      "artists": [
+        {
+          "name": "Flo Rida",
+          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
+        }
+      ],
+      "duration_ms": 124592,
+      "name": "What A Night",
+      "url": "https://open.spotify.com/track/3FUlqltjiMMJdyEPaYAUqK"
     },
     {
       "added_at": "2022-09-16 12:00:00",
@@ -2195,22 +2195,6 @@
     {
       "added_at": "2022-09-16 12:00:00",
       "album": {
-        "name": "Dancing On A Sunny Day",
-        "url": "https://open.spotify.com/album/2o9Whn3LIpFQeD1f3vNZJJ"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Ingrosso",
-          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
-        }
-      ],
-      "duration_ms": 176841,
-      "name": "Dancing On A Sunny Day",
-      "url": "https://open.spotify.com/track/4QNxalh2dYirUjd7yGPlfu"
-    },
-    {
-      "added_at": "2022-09-16 12:00:00",
-      "album": {
         "name": "Bones (feat. OneRepublic)",
         "url": "https://open.spotify.com/album/49vus1VCWc7AbgDmKYb8SC"
       },
@@ -2227,6 +2211,22 @@
       "duration_ms": 205792,
       "name": "Bones (feat. OneRepublic)",
       "url": "https://open.spotify.com/track/1pfgsjmxVZhoZpeDx6POKv"
+    },
+    {
+      "added_at": "2022-09-16 12:00:00",
+      "album": {
+        "name": "Dancing On A Sunny Day",
+        "url": "https://open.spotify.com/album/2o9Whn3LIpFQeD1f3vNZJJ"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Ingrosso",
+          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
+        }
+      ],
+      "duration_ms": 176841,
+      "name": "Dancing On A Sunny Day",
+      "url": "https://open.spotify.com/track/4QNxalh2dYirUjd7yGPlfu"
     },
     {
       "added_at": "2022-09-16 12:00:00",
@@ -2351,6 +2351,22 @@
     {
       "added_at": "2022-09-16 12:00:00",
       "album": {
+        "name": "Heaven On Earth (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/34SBayfOPJb9ztyCTvS3no"
+      },
+      "artists": [
+        {
+          "name": "Belinda Carlisle",
+          "url": "https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U"
+        }
+      ],
+      "duration_ms": 233666,
+      "name": "Heaven Is A Place On Earth - Promo 7\" Edit",
+      "url": "https://open.spotify.com/track/3EvpaRZkKWxsgDIO2zMH7g"
+    },
+    {
+      "added_at": "2022-09-16 12:00:00",
+      "album": {
         "name": "Faith (with Dolly Parton) [feat. Mr. Probz]",
         "url": "https://open.spotify.com/album/1QrYKuMTMLwpTwzOFhfnOk"
       },
@@ -2391,22 +2407,6 @@
     {
       "added_at": "2022-09-16 12:00:00",
       "album": {
-        "name": "Heaven On Earth (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/34SBayfOPJb9ztyCTvS3no"
-      },
-      "artists": [
-        {
-          "name": "Belinda Carlisle",
-          "url": "https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U"
-        }
-      ],
-      "duration_ms": 233666,
-      "name": "Heaven Is A Place On Earth - Promo 7\" Edit",
-      "url": "https://open.spotify.com/track/3EvpaRZkKWxsgDIO2zMH7g"
-    },
-    {
-      "added_at": "2022-09-16 12:00:00",
-      "album": {
         "name": "Ronan",
         "url": "https://open.spotify.com/album/3T9Imnmd2Amt5lyDMqlFq9"
       },
@@ -2443,22 +2443,6 @@
     {
       "added_at": "2022-09-16 12:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2WjIiFJyC42JPqaQDF6qve"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Ingrosso",
-          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
-        }
-      ],
-      "duration_ms": 188166,
-      "name": "All Night Long (All Night) - Recorded at Spotify Studios Stockholm",
-      "url": "https://open.spotify.com/track/5dsk3uLRghh1WmuN21LEW8"
-    },
-    {
-      "added_at": "2022-09-16 12:00:00",
-      "album": {
         "name": "single.",
         "url": "https://open.spotify.com/album/6XeL8rkWXe5pUdg2uGqmak"
       },
@@ -2471,6 +2455,22 @@
       "duration_ms": 197146,
       "name": "Your Side Of The Bed",
       "url": "https://open.spotify.com/track/3PWKPX3YJAHBL8JozsWTMC"
+    },
+    {
+      "added_at": "2022-09-16 12:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2WjIiFJyC42JPqaQDF6qve"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Ingrosso",
+          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
+        }
+      ],
+      "duration_ms": 188166,
+      "name": "All Night Long (All Night) - Recorded at Spotify Studios Stockholm",
+      "url": "https://open.spotify.com/track/5dsk3uLRghh1WmuN21LEW8"
     },
     {
       "added_at": "2022-09-16 12:00:00",

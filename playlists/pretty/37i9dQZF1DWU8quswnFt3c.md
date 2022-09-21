@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women from all over the world, at full volume\. Cover: Shania Twain
 
-[Spotify](https://open.spotify.com/user/spotify) - 846,610 likes - 73 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 847,585 likes - 73 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 2 | [新時代](https://open.spotify.com/track/28MATCYDctW5EiBa2repxb) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ウタの歌 ONE PIECE FILM RED](https://open.spotify.com/album/5WStsinR0ZOQRoCI6rQPZA) | 3:46 |
 | 3 | [W.I.T.C.H.](https://open.spotify.com/track/5XemvyG79fcKPl5lgbhplq) | [Devon Cole](https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4) | [W.I.T.C.H.](https://open.spotify.com/album/3Z8vTrrDg2JbOgtYf82G7b) | 2:12 |
 | 4 | [FINIMONDO](https://open.spotify.com/track/0JbzHTWp24Fe1l7NBzzp4p) | [M¥SS KETA](https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM) | [FINIMONDO](https://open.spotify.com/album/5v0DjHceNOVZGIqtNzR8i2) | 2:51 |
-| 5 | [Todo My Love](https://open.spotify.com/track/0XOr0FAZIbUaxyU84o9AWJ) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Todo My Love](https://open.spotify.com/album/3gdPLbvBV3OAqigyVaV7Lt) | 3:20 |
-| 6 | [Insônia \- Ao vivo](https://open.spotify.com/track/4SGixaEhdRjeZ4PTgavkzF) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Insônia \(Ao vivo\)](https://open.spotify.com/album/1AbDFvSVfPK95Tpkb5d1F9) | 3:01 |
+| 5 | [Insônia \- Ao vivo](https://open.spotify.com/track/4SGixaEhdRjeZ4PTgavkzF) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Insônia \(Ao vivo\)](https://open.spotify.com/album/1AbDFvSVfPK95Tpkb5d1F9) | 3:01 |
+| 6 | [Todo My Love](https://open.spotify.com/track/0XOr0FAZIbUaxyU84o9AWJ) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Todo My Love](https://open.spotify.com/album/3gdPLbvBV3OAqigyVaV7Lt) | 3:20 |
 | 7 | [Celoso](https://open.spotify.com/track/33zcmmElV1YbRZe57biUjg) | [Lele Pons](https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx) | [Celoso](https://open.spotify.com/album/0gXUZc4bTQzNqLvIyeObHm) | 2:59 |
 | 8 | [Ne Güzel](https://open.spotify.com/track/4QOVWiNQmMhOODibbU3cQw) | [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [Ne Güzel](https://open.spotify.com/album/5qdprolO1wBPmcMLWV8ZoE) | 2:49 |
 | 9 | [Ligo Ligo](https://open.spotify.com/track/4ba3bmE2i6SvEXIaJYhUoJ) | [Anastasia](https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP) | [Ligo Ligo](https://open.spotify.com/album/1vRQu7kPciIGfVhWABjTnN) | 2:46 |
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 15 | [Cosas De La Vida](https://open.spotify.com/track/0WfQLUjyg5wn0zWxsOda07) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [Cosas De La Vida](https://open.spotify.com/album/37PlSJaDNBVPHnsqhFqfK4) | 2:44 |
 | 16 | [אינטלקטוערס \(Prod\. By Triangle\)](https://open.spotify.com/track/2XNXcmwubbt8MJYlQRb4V2) | [Odeya](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA) | [אינטלקטוערס \(Prod\. By Triangle\)](https://open.spotify.com/album/5hXvq7DKidrNEns8VZkQLW) | 2:32 |
 | 17 | [Sempat](https://open.spotify.com/track/6RtzFvaNc67EHQDm1bBRi7) | [Hanin Dhiya](https://open.spotify.com/artist/3Fw8q9sZ1t7diLxoQFS8hW) | [Sempat](https://open.spotify.com/album/0hJPhUjVVEd25SzsPBfgnX) | 3:52 |
-| 18 | [Kabhi Kabhi](https://open.spotify.com/track/2D67rL8nrEWiLug7w2Q6nh) | [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Kabhi Kabhi](https://open.spotify.com/album/4z793Z8t0qUdwercwEUK1M) | 3:34 |
-| 19 | [À tout jamais](https://open.spotify.com/track/048gupABMSEZEm1UEkxbTP) | [Mylène Farmer](https://open.spotify.com/artist/0e04xgVBPU6mE2QkSHlufD) | [À tout jamais](https://open.spotify.com/album/7Lkk74RsYAycae1qV1fdxz) | 3:46 |
+| 18 | [À tout jamais](https://open.spotify.com/track/048gupABMSEZEm1UEkxbTP) | [Mylène Farmer](https://open.spotify.com/artist/0e04xgVBPU6mE2QkSHlufD) | [À tout jamais](https://open.spotify.com/album/7Lkk74RsYAycae1qV1fdxz) | 3:46 |
+| 19 | [Kabhi Kabhi](https://open.spotify.com/track/2D67rL8nrEWiLug7w2Q6nh) | [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Kabhi Kabhi](https://open.spotify.com/album/4z793Z8t0qUdwercwEUK1M) | 3:34 |
 | 20 | [IFHJ](https://open.spotify.com/track/4QdTBFM7VsIu84jfCxVMsv) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj) | [IFHJ](https://open.spotify.com/album/2PBAoczL4wDcwup5IF0yeN) | 2:36 |
 | 21 | [Tera Woh Pyar \(Nawazishein Karam\)](https://open.spotify.com/track/2RV4QunRX0CTs2JR1uUbMj) | [Momina Mustehsan](https://open.spotify.com/artist/7J2gs5q2wLq6lU4q4wkyuV), [Asim Azhar](https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS) | [Coke Studio: Season 9](https://open.spotify.com/album/0XhnwVTHd5Z0MwdrulhJhQ) | 7:05 |
 | 22 | [Lagi Lagi](https://open.spotify.com/track/2kN0Lv2Bk0n1KuP9drjWxf) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Lagi Lagi](https://open.spotify.com/album/1nj3yCHh1mXPJMTjrQ6ikN) | 4:01 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 29 | [Swim Away](https://open.spotify.com/track/6B9tR5pGZ4xciYuBcGHAFF) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Swim Away](https://open.spotify.com/album/7LRJ2p6pZsXVfKIyZIfaHE) | 3:25 |
 | 30 | [Spinning World](https://open.spotify.com/track/0qMWgeZ0noIwad06RmVQpm) | [Perfume](https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr) | [PLASMA](https://open.spotify.com/album/4gqRmcXiuzlxB9nEnFiK4y) | 4:00 |
 | 31 | [Paradise](https://open.spotify.com/track/1AnKPJBNBvgezzKso7NmWy) | [Evangelia](https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK) | [Paradise](https://open.spotify.com/album/7x4Q3tWaIU7qfqVlnJEgM8) | 2:36 |
-| 32 | [Colours Of You](https://open.spotify.com/track/0fgb9XN0RUp5phN8UADvsP) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Colours Of You](https://open.spotify.com/album/41YkwGJXDZy4nVAoCipCY7) | 3:38 |
-| 33 | [Mírame a la Cara](https://open.spotify.com/track/0g0iuKNmWk63IYELr60zZg) | [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy) | [Mírame a la Cara](https://open.spotify.com/album/3JzLCtObrGxiITV3qxtGgy) | 2:35 |
+| 32 | [Mírame a la Cara](https://open.spotify.com/track/0g0iuKNmWk63IYELr60zZg) | [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy) | [Mírame a la Cara](https://open.spotify.com/album/3JzLCtObrGxiITV3qxtGgy) | 2:35 |
+| 33 | [Colours Of You](https://open.spotify.com/track/0fgb9XN0RUp5phN8UADvsP) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Colours Of You](https://open.spotify.com/album/41YkwGJXDZy4nVAoCipCY7) | 3:38 |
 | 34 | [Ocean Blue](https://open.spotify.com/track/6ydTM3R9A7uqGJkwkKTMp5) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [Ocean Blue](https://open.spotify.com/album/5ttNbjh8ZcFwRz5Sn7V4vv) | 3:22 |
 | 35 | [Bona](https://open.spotify.com/track/2kxIQnvSzTNOY2DqoCToPY) | [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk) | [Bona](https://open.spotify.com/album/7vBVtTDJriFe69dlvxl6MY) | 2:40 |
 | 36 | [Au Revoir](https://open.spotify.com/track/2zgdLtgbKNKbCxu9XNY02C) | [Jeanne Added](https://open.spotify.com/artist/5TEGxYftTkeKmLXkZjHNUE) | [Au Revoir](https://open.spotify.com/album/0yMMkD2mABHk4OcGNDQDYd) | 4:01 |
@@ -49,10 +49,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 39 | [HIGH RISK HIGH RETURN \(Feat\. Polodared\)](https://open.spotify.com/track/5MnjjRXp2huzCdVXkGpU2I) | [SINCE](https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616), [Polodared](https://open.spotify.com/artist/1Ri5P0CfdNxdIkHX6es8Xd) | [HIGH RISK HIGH RETURN](https://open.spotify.com/album/340j9Dgw9Nuy772bHowbih) | 3:09 |
 | 40 | [Body Mind Hell](https://open.spotify.com/track/30JmGKxf1oItI6lOLNNSeq) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [Body Mind Hell](https://open.spotify.com/album/18IjZBVEOQrzENrx7012bd) | 2:44 |
 | 41 | [you're not special](https://open.spotify.com/track/3KOi4iJ5t3vbaMdMxWQ30S) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [self sabotage](https://open.spotify.com/album/34u86bUB4rmIcU8FGjPj4C) | 2:46 |
-| 42 | [A Cada Beijo \- Ao Vivo](https://open.spotify.com/track/7wLSaPBFitTXXvEJuH2XYE) | [Marvvila](https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz) | [Marvvila na Área \(Ao Vivo\)](https://open.spotify.com/album/2g4R36g4rMzR8ST2xLQu39) | 3:05 |
-| 43 | [Mi Loco Amor](https://open.spotify.com/track/2IkjSf9VxQAA7uSipkNsOJ) | [Sele Vera y Pampas de Bariloche](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Mi Loco Amor](https://open.spotify.com/album/6oNvO33sdfOdnE2o2RLP62) | 3:33 |
-| 44 | [Dziwoląg](https://open.spotify.com/track/32UXpfgM7meOgdsr0VVk61) | [Wiktoria Zwolińska](https://open.spotify.com/artist/1Dyn3KxMNqGRpIEeXekqhf) | [Dziwoląg](https://open.spotify.com/album/3BY9C6MyCIOSEUTqV4jMsv) | 2:27 |
-| 45 | [Sleep Crying](https://open.spotify.com/track/4yxRUP0PKgYHYKzzypQvm0) | [SILVY](https://open.spotify.com/artist/5m8lmgqE3WYbGqmYKVNJSA) | [Sleep Crying](https://open.spotify.com/album/1JkSJUTh5tgcJInjayUmmb) | 3:20 |
+| 42 | [Mi Loco Amor](https://open.spotify.com/track/2IkjSf9VxQAA7uSipkNsOJ) | [Sele Vera y Pampas de Bariloche](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Mi Loco Amor](https://open.spotify.com/album/6oNvO33sdfOdnE2o2RLP62) | 3:33 |
+| 43 | [A Cada Beijo \- Ao Vivo](https://open.spotify.com/track/7wLSaPBFitTXXvEJuH2XYE) | [Marvvila](https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz) | [Marvvila na Área \(Ao Vivo\)](https://open.spotify.com/album/2g4R36g4rMzR8ST2xLQu39) | 3:05 |
+| 44 | [Sleep Crying](https://open.spotify.com/track/4yxRUP0PKgYHYKzzypQvm0) | [SILVY](https://open.spotify.com/artist/5m8lmgqE3WYbGqmYKVNJSA) | [Sleep Crying](https://open.spotify.com/album/1JkSJUTh5tgcJInjayUmmb) | 3:20 |
+| 45 | [Dziwoląg](https://open.spotify.com/track/32UXpfgM7meOgdsr0VVk61) | [Wiktoria Zwolińska](https://open.spotify.com/artist/1Dyn3KxMNqGRpIEeXekqhf) | [Dziwoląg](https://open.spotify.com/album/3BY9C6MyCIOSEUTqV4jMsv) | 2:27 |
 | 46 | [Paralizado](https://open.spotify.com/track/1FEYsHYeKFrNzWm6R3OM30) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [Paralizado](https://open.spotify.com/album/2MdDdIH9TlOkMeQztj5rLa) | 3:07 |
 | 47 | [Black Hickey \- Con Dấu Chủ Quyền](https://open.spotify.com/track/1Qf8uhmyNubhiGOCcWeDPv) | [Chi Pu](https://open.spotify.com/artist/6jRD85dsXJYn5vv73rqSGi) | [Black Hickey \(Con Dấu Chủ Quyền\)](https://open.spotify.com/album/7zSOESWQXSqQeV2ptNXArL) | 3:53 |
 | 48 | [Lástima](https://open.spotify.com/track/5jaEobaW0naP6FP2GnQuY5) | [María Cristina Plata](https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc) | [Después de Todo: Compilado Latinoamericano](https://open.spotify.com/album/5rjpOeUvHawt9zlpVzMmiX) | 2:38 |
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 72 | [Algo de Mí](https://open.spotify.com/track/4MQ06nxvpm8IxjCCGbc1Wa) | [Flor Paz](https://open.spotify.com/artist/6tbaPxePAN1xMs9T7Z2b26) | [Soy Semilla](https://open.spotify.com/album/5OM1ghjw8slI1C0dX9OmOD) | 3:40 |
 | 73 | [Nadaniyaan](https://open.spotify.com/track/6lyoXxSkEkqVAApqqYhHVE) | [Alycia Dias](https://open.spotify.com/artist/69EG46nu7SNft0lDeI46Z1) | [Nadaniyaan](https://open.spotify.com/album/1dOoMiPROm3Ux9zNReDJ3o) | 3:25 |
 
-Snapshot ID: `MTY2MzA1NzI3NSwwMDAwMDAwMDczN2E0Y2VhZDgwMGYwN2VmOGViZjgzYzZhZjUxZGU2`
+Snapshot ID: `MTY2MzA1NzI3NSwwMDAwMDAwMGNmZmNmMmIwMjMxN2E1MTJiYmQ3Zjg0ZDE4ZGFmYmYz`

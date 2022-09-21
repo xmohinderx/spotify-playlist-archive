@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy!
 
-165 songs - 10 hr 43 min - [published](https://open.spotify.com/playlist/4zWRQuNDfWfg20fgc39FGO)
+166 songs - 10 hr 46 min - [published](https://open.spotify.com/playlist/4zWRQuNDfWfg20fgc39FGO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Creative Source \- A\-Trak Remix](https://open.spotify.com/track/2KLOgdrNPjzcG0nUzdfSxy) | [Braxe + Falcon](https://open.spotify.com/artist/10sZHUBkoiCLucz4bbCEBA), [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW), [DJ Falcon](https://open.spotify.com/artist/7mLoDOOVW8VlPUTii10xH5), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt) | [Creative Source \(A\-Trak Remix\)](https://open.spotify.com/album/3qbugsp6yK8VsEHhNW6Qbp) | 3:41 | 2022-08-11 |  |
 | [Creative Source \- ABSOLUTE\. Neon Energy Remix Edit](https://open.spotify.com/track/1Z371Q3L6nYMO112Xt5Ib0) | [Braxe + Falcon](https://open.spotify.com/artist/10sZHUBkoiCLucz4bbCEBA), [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW), [ABSOLUTE.](https://open.spotify.com/artist/7LAUsmZK0QfpJAmapct66h), [DJ Falcon](https://open.spotify.com/artist/7mLoDOOVW8VlPUTii10xH5) | [Creative Source \(ABSOLUTE\. Neon Energy Remix\)](https://open.spotify.com/album/0ChR2w00RrCd7pCGnHqDGx) | 3:29 | 2022-06-08 | 2022-07-21 |
 | [Cross the Sea](https://open.spotify.com/track/1pRtM1cHkCBvGGgmIsBfj5) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Cross the Sea](https://open.spotify.com/album/5ScFaVUiLnexP71s2kXqPS) | 3:36 | 2022-07-26 | 2022-09-15 |
+| [Date Night](https://open.spotify.com/track/7zQkwd2nzVq1EYn2bxkuyo) | [White Lung](https://open.spotify.com/artist/2iT2Fmot4VzWgdOTgp3j9M) | [Date Night / Tomorrow](https://open.spotify.com/album/6cdTXq7XYRn3E8Mk68ep0G) | 2:54 | 2022-09-20 |  |
 | [Dawn](https://open.spotify.com/track/6uc0M6efmcbQ3bfLON729b) | [Warmth](https://open.spotify.com/artist/687UOpjghQt4KG3gfqJy5d) | [The Night](https://open.spotify.com/album/6HyYMwVYkef8Yjb02Kjmuh) | 3:56 | 2022-06-08 | 2022-07-14 |
 | [Death of Melody](https://open.spotify.com/track/5PGu9yeMZkuL2oCgUOICoz) | [Preoccupations](https://open.spotify.com/artist/2bs3QE2ZMBjmb0QTqAjCj3) | [Death of Melody](https://open.spotify.com/album/1Ivd4yOwhtb7q14eCyWlkX) | 3:53 | 2022-08-03 | 2022-09-15 |
 | [Deep In The Glowing Heart \- Night Version](https://open.spotify.com/track/3XHWFH0geNVT36j4vbiv4m) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om) | [Deep In The Glowing Heart \(Night Version\)](https://open.spotify.com/album/4VvBp7mqOnrUhqP3VOLYiJ) | 7:00 | 2022-06-15 | 2022-08-04 |

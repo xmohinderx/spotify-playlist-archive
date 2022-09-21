@@ -4,7 +4,7 @@
 
 > Lounge sounds for SPA.
 
-89 songs - 5 hr 22 min - [published](https://open.spotify.com/playlist/0Kdl62ocyyHzJyFfuwmMFr)
+90 songs - 5 hr 26 min - [published](https://open.spotify.com/playlist/0Kdl62ocyyHzJyFfuwmMFr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [MATI](https://open.spotify.com/track/6HeFLsBljHuuYdG4gUzlyE) | [Mallias](https://open.spotify.com/artist/7Jha5lv1MsoExRH2GMSNLk) | [MATI](https://open.spotify.com/album/41wh35g4nY8ilqZKYDBr4h) | 2:16 | 2022-09-02 |  |
 | [Me Segure](https://open.spotify.com/track/7pkRv94aXaSd5wYzMzM0OT) | [Fleur Harmon](https://open.spotify.com/artist/3LzyV3YGTAhie6tKAGAdh7) | [Me Segure](https://open.spotify.com/album/74YPxHGHyuInkemmIUMnGl) | 3:13 | 2022-09-02 |  |
 | [Melting Snow](https://open.spotify.com/track/3P7VUd2zZQiAGoHVv5kx6P) | [Riley Lee](https://open.spotify.com/artist/7eJJlXsiOqFXsaxRDyelMO) | [Buddha's Dream](https://open.spotify.com/album/4I6REoU5dcDWZts0uMiFbH) | 7:11 | 2022-09-02 |  |
+| [Midnight Contemplation](https://open.spotify.com/track/4KXotHNLAns9Egx4uLDGaN) | [Meditation Mantras Guru](https://open.spotify.com/artist/1bF3IgxBQw61FRqeyuvq7b) | [Calmly: Peaceful Instrumental Ambient Music to Fall Asleep and Sleep Better](https://open.spotify.com/album/0v5cAuHvYSbdRX2ecxkFl3) | 3:31 | 2022-09-20 |  |
 | [Morning Skies](https://open.spotify.com/track/5uIa8gAkpe17Bce9Q47A71) | [Sacred Flute](https://open.spotify.com/artist/6dn5BFtVFrmBuZXS3Pt2Qi) | [Morning Skies](https://open.spotify.com/album/2p0PtIvMflxAUMlwymdTdy) | 6:10 | 2022-09-13 |  |
 | [My Quiet Place](https://open.spotify.com/track/1OntsKRQKkQaQNfOyRl0Ne) | [Michael Ojha](https://open.spotify.com/artist/4h15HPM1bGgwpOyfRk3w1w) | [My Quiet Place](https://open.spotify.com/album/6hhNZktOa9U68TnlzXdMH8) | 3:30 | 2022-09-02 |  |
 | [Mystery Sound](https://open.spotify.com/track/0fEfKoG2qS0tsNHJg6ZEf7) | [Axiom](https://open.spotify.com/artist/76n5v6R1q993SAL6mTMmv1) | [Hammam Spirit](https://open.spotify.com/album/0UI1FidROVrq8SVzYAzjXt) | 4:36 | 2022-09-02 |  |

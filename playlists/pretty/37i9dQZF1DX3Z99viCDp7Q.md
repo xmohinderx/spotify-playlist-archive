@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Z99viCDp7Q.md) - [plain]
 
 > Wondering what to pick for your first dance? We got you.
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,540 likes - 75 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,579 likes - 75 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,21 +59,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Z99viCDp7Q.md) - [plain]
 | 49 | [From This Moment On](https://open.spotify.com/track/0Q7Jp3aCwfYnSnbMDoXWyR) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL), [Bryan White](https://open.spotify.com/artist/45kyLFJs5SIEqyzfVopuSc) | [Come On Over](https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9) | 4:41 |
 | 50 | [A Million Dreams](https://open.spotify.com/track/0oagwWkGlBoACUuKvTmqZV) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [A Million Dreams](https://open.spotify.com/album/6MtlLy42YdFaJNOgDA0NZW) | 4:33 |
 | 51 | [From the Ground Up](https://open.spotify.com/track/0lQJBl9YEsoMtE8D4yTE9g) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Obsessed](https://open.spotify.com/album/4rQa0t2qWm1MNPy7DNEUHB) | 4:13 |
-| 52 | [\(Everything I Do\) I Do It For You](https://open.spotify.com/track/6eBK3edMW7bEzecF1eCezc) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Waking Up The Neighbours](https://open.spotify.com/album/061uAXmheZOILmf2rr3tTn) | 6:34 |
-| 53 | [I Will Follow You into the Dark](https://open.spotify.com/track/3kZC0ZmFWrEHdUCmUqlvgZ) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Plans](https://open.spotify.com/album/1NFGnxmeIEBakre4DvLaJq) | 3:09 |
+| 52 | [I Will Follow You into the Dark](https://open.spotify.com/track/3kZC0ZmFWrEHdUCmUqlvgZ) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Plans](https://open.spotify.com/album/1NFGnxmeIEBakre4DvLaJq) | 3:09 |
+| 53 | [\(Everything I Do\) I Do It For You](https://open.spotify.com/track/6eBK3edMW7bEzecF1eCezc) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Waking Up The Neighbours](https://open.spotify.com/album/061uAXmheZOILmf2rr3tTn) | 6:34 |
 | 54 | [Golden Hour](https://open.spotify.com/track/0pMfPzdRiPAoSM9yWF4OcT) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 3:18 |
 | 55 | [How Sweet It Is \(To Be Loved By You\) \- 2019 Remaster](https://open.spotify.com/track/75Nlnd9AJ4CYrLXgWGsuTF) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Gorilla \(2019 Remaster\)](https://open.spotify.com/album/0x491s63vRDvG25x2Fzrny) | 3:36 |
 | 56 | [Falling Slowly](https://open.spotify.com/track/6EIVLz5xM1xE29r0OmIkWt) | [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0), [Markéta Irglová](https://open.spotify.com/artist/4SklVMGMsWTq7cJd9MixUx) | [Music From The Motion Picture Once](https://open.spotify.com/album/4BUG3kfPOB6DWVKKDY2icE) | 4:04 |
-| 57 | [Smoke Gets In Your Eyes](https://open.spotify.com/track/2vSxjnyrWrtxyfzO47EX6q) | [The Platters](https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy) | [Remember When?](https://open.spotify.com/album/3hf24dCfmmDihusVyBLliZ) | 2:40 |
-| 58 | [I Only Have Eyes for You](https://open.spotify.com/track/3YdKJzcoMZMacISlpY4QoP) | [The Flamingos](https://open.spotify.com/artist/6iygtKnPG7TRvDaTYcLOd6) | [Flamingo Serenade](https://open.spotify.com/album/6XEtlJFNCbNrIz1Q5kdLjZ) | 3:22 |
+| 57 | [I Only Have Eyes for You](https://open.spotify.com/track/3YdKJzcoMZMacISlpY4QoP) | [The Flamingos](https://open.spotify.com/artist/6iygtKnPG7TRvDaTYcLOd6) | [Flamingo Serenade](https://open.spotify.com/album/6XEtlJFNCbNrIz1Q5kdLjZ) | 3:22 |
+| 58 | [Smoke Gets In Your Eyes](https://open.spotify.com/track/2vSxjnyrWrtxyfzO47EX6q) | [The Platters](https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy) | [Remember When?](https://open.spotify.com/album/3hf24dCfmmDihusVyBLliZ) | 2:40 |
 | 59 | [Is That Alright?](https://open.spotify.com/track/172e82oK9vGoBPvc6SqMm5) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [A Star Is Born Soundtrack](https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD) | 3:11 |
 | 60 | [I Choose You](https://open.spotify.com/track/7jJH8F3PHlNvxfqEAAfFDl) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [The Blessed Unrest](https://open.spotify.com/album/7lpbyGc4fHsQkBTsfWVBhp) | 3:38 |
 | 61 | [You & I \(Nobody in the World\)](https://open.spotify.com/track/55nlbqqFVnSsArIeYSQlqx) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Love In The Future \(Expanded Edition\)](https://open.spotify.com/album/4OTAx9un4e6NfoHuVRiOrC) | 4:12 |
 | 62 | [How Long Will I Love You \- Bonus Track](https://open.spotify.com/track/0ZPfDxZn5O0L84wvPSN2iG) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Halcyon Days](https://open.spotify.com/album/3KVeczHxWg5YFKb0gS62f2) | 2:34 |
 | 63 | [You've Got The Love](https://open.spotify.com/track/6u9RqxALwkjJ1ukB1y8vuP) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Edition\)](https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ) | 2:48 |
 | 64 | [I Will \- Remastered 2009](https://open.spotify.com/track/09x9v1o51dbqi5H0u7UGfp) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles \(Remastered\)](https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL) | 1:45 |
-| 65 | [Hold You in My Arms](https://open.spotify.com/track/1U1GtaJeYwGsPgqV9Me5bb) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Trouble](https://open.spotify.com/album/2DQHgaOMVOs2OKLaksiMx9) | 5:06 |
-| 66 | [La Vie En Rose](https://open.spotify.com/track/0VxocBntP1XTZRsR9ZURPS) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [La Vie En Rose](https://open.spotify.com/album/3rU947MaPxzKjSSbx4cQjg) | 1:45 |
+| 65 | [La Vie En Rose](https://open.spotify.com/track/0VxocBntP1XTZRsR9ZURPS) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [La Vie En Rose](https://open.spotify.com/album/3rU947MaPxzKjSSbx4cQjg) | 1:45 |
+| 66 | [Hold You in My Arms](https://open.spotify.com/track/1U1GtaJeYwGsPgqV9Me5bb) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Trouble](https://open.spotify.com/album/2DQHgaOMVOs2OKLaksiMx9) | 5:06 |
 | 67 | [\(I've Had\) The Time of My Life \- From "Dirty Dancing" Soundtrack](https://open.spotify.com/track/4BFMQ15vXr626UOoZL8bUI) | [Bill Medley](https://open.spotify.com/artist/1XE70WwxhnrXNAJYQQ9ygx), [Jennifer Warnes](https://open.spotify.com/artist/1BwHztAQKypBuy5WBEdJnG) | [Platinum & Gold Collection](https://open.spotify.com/album/2Ll0rYVkAHV0QT7P2vknQc) | 4:49 |
 | 68 | [Simple Song](https://open.spotify.com/track/48bo7uexDvAThcRDvEB2W7) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO) | [Port Of Morrow](https://open.spotify.com/album/4ZTcGoOrNro2aCAStXEjZi) | 4:15 |
 | 69 | [Baby I'm Yours](https://open.spotify.com/track/6FLqFu1ApSkUddZ9P4H6Io) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Leave Before The Lights Come On](https://open.spotify.com/album/7zGAOSaUjqWdwyYtQvnqWy) | 2:32 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Z99viCDp7Q.md) - [plain]
 | 74 | [Blessed](https://open.spotify.com/track/3hhSnbFhuGnXieFa1ql61R) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Center Point Road](https://open.spotify.com/album/5gnWhEFNbtCn0RLG2cp90g) | 3:34 |
 | 75 | [This Will Be Our Year](https://open.spotify.com/track/02KpkaZbiutsR0ucxce4Sh) | [The Zombies](https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5) | [Odessey and Oracle](https://open.spotify.com/album/7K6JtyaSSVr7HidQsCHun0) | 2:07 |
 
-Snapshot ID: `MTY1ODE2NjYzMSwwMDAwMDAwMDA2MzM1NDQwYzdhNGI0MWZmZTNlNWYyMzk5ZWYyOGYy`
+Snapshot ID: `MTY1ODE2NjYzMSwwMDAwMDAwMDUyNmQ4ZmU2MGI4MmZkM2I1MmNkY2Y5YTUxZmM4MmQ1`

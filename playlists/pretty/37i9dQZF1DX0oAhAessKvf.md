@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oAhAessKvf.md) - [plain]
 
 > La calle temblaba con los primeros pasos del reggaetón\. Foto: El General
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,376 likes - 75 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,427 likes - 75 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,9 +42,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oAhAessKvf.md) - [plain]
 | 32 | [Tengo una Punto 40](https://open.spotify.com/track/5zsatbvXqrPSx6vid6c8Sf) | [Baby Rasta](https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN), [Gringo](https://open.spotify.com/artist/29cNzWXrkNaGVL74hZK0jU) | [Playero 40 New Era](https://open.spotify.com/album/6R1g9oipVOkjxwFsc1R2vB) | 2:37 |
 | 33 | [Voz Sensual](https://open.spotify.com/track/4eBRM5oc92XWVomWI3OsUf) | [Big Boy](https://open.spotify.com/artist/5bVQN1TENxjVjWXNHHpflG) | [Mis Ojos Lloran Por Ti](https://open.spotify.com/album/5o36XrjVl3YdBYqt0p57Gc) | 2:51 |
 | 34 | [Robi\-Rob's Boriqua Anthem](https://open.spotify.com/track/1rX13rLlHSzCoWh3inVchh) | [El General](https://open.spotify.com/artist/1fqHLAKthJsVYcukjFrroK), [C & C Music Factory](https://open.spotify.com/artist/7krx6UBDKLwE0q3s3fesqF) | [Grandes Exitos](https://open.spotify.com/album/5XWD8nYr65TU50RooHKPrc) | 8:57 |
-| 35 | [Transformer](https://open.spotify.com/track/7ptAYNeiD6Z0KZ47L7S1vZ) | [Eddie Dee](https://open.spotify.com/artist/7zLcnirfgw1VEHHshuGcDR) | [Planet Reggae](https://open.spotify.com/album/3KB0C9qGVSL1YtgaSkyqeJ) | 3:01 |
+| 35 | [Full Up a Class](https://open.spotify.com/track/6FFeBtCaawK4WqtKfWeoSX) | [Bunny General](https://open.spotify.com/artist/64N2jWrlxw6DSwWZ6BHCOI) | [Dancehall Reggae Connection...\. Top Ragga DJs From Fashion](https://open.spotify.com/album/4Uygzhu2CQ3UvZiaUbGKMW) | 3:40 |
 | 36 | [Quieren Chorizo](https://open.spotify.com/track/4NQg9QGJbJFRW7HjAsYu0z) | [El Chombo](https://open.spotify.com/artist/6iSZjc4kOoKZKiBXK5HbwD) | [A Mover el Culo Con el Chombo](https://open.spotify.com/album/0dGcHWlzgWsN4bMc4DXq9Y) | 1:24 |
-| 37 | [Full Up a Class](https://open.spotify.com/track/6FFeBtCaawK4WqtKfWeoSX) | [Bunny General](https://open.spotify.com/artist/64N2jWrlxw6DSwWZ6BHCOI) | [Dancehall Reggae Connection...\. Top Ragga DJs From Fashion](https://open.spotify.com/album/4Uygzhu2CQ3UvZiaUbGKMW) | 3:40 |
+| 37 | [Transformer](https://open.spotify.com/track/7ptAYNeiD6Z0KZ47L7S1vZ) | [Eddie Dee](https://open.spotify.com/artist/7zLcnirfgw1VEHHshuGcDR) | [Planet Reggae](https://open.spotify.com/album/3KB0C9qGVSL1YtgaSkyqeJ) | 3:01 |
 | 38 | [Puerto Rico Todos Quieren Fumar](https://open.spotify.com/track/1g16JY82gekUlNhmFzhvbp) | [Grupo Nizze](https://open.spotify.com/artist/3oD8OgngJolwwsVom3d1vm) | [Playero 38 Special Edition](https://open.spotify.com/album/6gxcZ8M7Hpr5addTNfTqha) | 2:21 |
 | 39 | [Noche Enferma](https://open.spotify.com/track/3LnOseGJ1C8xj1mHBNRCFU) | [Nando Boom](https://open.spotify.com/artist/0JdvRpul2MbuhX7k0FUkko) | [Reggaechanga](https://open.spotify.com/album/0b3CmcVQ76K9JQwgskon2G) | 3:47 |
 | 40 | [A Mi Me Gusta](https://open.spotify.com/track/46aYwWPK8JEwhJJ9arlQM9) | [Alberto Stylee](https://open.spotify.com/artist/5mgqYTU6dhKlEdi7DOy4uU) | [Los Dueños De La Disco Clasico](https://open.spotify.com/album/4rVTwbTlIJsw4Gw9Y4bOZY) | 3:17 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oAhAessKvf.md) - [plain]
 | 72 | [Camion Lleno de Gun](https://open.spotify.com/track/2sHUhHm3iNuBC4JhbYbt0N) | [Jam & Suppose](https://open.spotify.com/artist/42iAiw7Kn6Ji3xIeDzxJ0q) | [Ragga Heros, Vol\. 1](https://open.spotify.com/album/3XaS7Nc8sf2l3TzWnSFng1) | 3:34 |
 | 73 | [Marijuana](https://open.spotify.com/track/0fqj5uqf5iYvEFo6gyM1Ju) | [Baby J](https://open.spotify.com/artist/5yjQKQYt12QjWzQK62T8ov) | [Prime Underground 1](https://open.spotify.com/album/3UGPRfGaIVrdMhqWZYSCuv) | 2:51 |
 | 74 | [Las Pistolas Seguiran](https://open.spotify.com/track/6q1B6jMBv0Q5T7AnVFmQS2) | [Tempo](https://open.spotify.com/artist/76whng5pl9msPkkjFUtWYn) | [Game Over](https://open.spotify.com/album/7vQN5aljYXJcSD8Mq20NtS) | 4:35 |
-| 75 | [Quiero Estar Contigo](https://open.spotify.com/track/38ItcgEkN3anw5LbfYihJX) | [Maicol & Manuel](https://open.spotify.com/artist/7wwygDw32gRhhUshm3ZGYN) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 2:57 |
+| 75 | [La Chica de los Ojos Cafe](https://open.spotify.com/track/4Bonn8aTkhFWUAQJaHwgl8) | [Renato](https://open.spotify.com/artist/6VBd6EXDkDR7D9UjtEUtFn) | [Soy El Mas Sensual \- Renato Classics](https://open.spotify.com/album/4MfqddoCTSJHreuI2Fd57Q) | 4:57 |
 
-Snapshot ID: `MTY0MDAxOTc0NSwwMDAwMDAwMGU4MjZmMWE1OGEzYzc2NGFmMjI1NjM1NWM4Y2ZiZjAw`
+Snapshot ID: `MTY0MDAxOTc0NSwwMDAwMDAwMDBiYmU3ZjE2NmU1OGQzMGI0ZTdlOWFlYjVkZjAxYmFi`

@@ -4,7 +4,7 @@
 
 > This is Nothing\. The essential tracks, all in one playlist.
 
-42 songs - 3 hr 0 min - [published](https://open.spotify.com/playlist/385qUgjyB07ZAM2N6EjW6b)
+43 songs - 3 hr 5 min - [published](https://open.spotify.com/playlist/385qUgjyB07ZAM2N6EjW6b)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [A.C.D\. \(Abcessive Compulsive Disorder\)](https://open.spotify.com/track/72LCw6fk4YZL5cyoG1TOzU) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Tired of Tomorrow \(Deluxe Version\)](https://open.spotify.com/album/2655MXRi7PSJTtYqdGKeuH) | 3:39 | 2022-09-16 |  |
 | [Amber Gambler](https://open.spotify.com/track/08zfkE9pFeDtpW5sTQGNZN) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Amber Gambler](https://open.spotify.com/album/5UvGpxtzmA8xCTW0fCQ3ks) | 3:52 | 2022-09-16 |  |
 | [April Ha Ha](https://open.spotify.com/track/12XcQtzILF9FG7sMXLwcDb) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [The Great Dismal](https://open.spotify.com/album/0LKwC9p0PLomstKm9Y0nt3) | 4:20 | 2022-09-16 |  |
-| [B&E](https://open.spotify.com/track/3ISyXQ2lSec1yltnvBbEEY) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Guilty of Everything](https://open.spotify.com/album/2bBtD1q0hKNztuOLGcToL6) | 5:18 | 2022-09-16 |  |
+| [B&E](https://open.spotify.com/track/3ISyXQ2lSec1yltnvBbEEY) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Guilty of Everything](https://open.spotify.com/album/2bBtD1q0hKNztuOLGcToL6) | 5:18 | 2022-09-16 | 2022-09-21 |
 | [Bent Nail](https://open.spotify.com/track/7l3ccltGPIkcICT4u3Cko6) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Guilty of Everything](https://open.spotify.com/album/2bBtD1q0hKNztuOLGcToL6) | 2:57 | 2022-09-16 |  |
 | [Bernie Sanders](https://open.spotify.com/track/5SQkUFHUn2Gsj5tfvNKoa0) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [The Great Dismal](https://open.spotify.com/album/0LKwC9p0PLomstKm9Y0nt3) | 4:07 | 2022-09-16 |  |
 | [Blue Line Baby](https://open.spotify.com/track/4syzzi19vlAQOFDtipYyRL) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Dance on the Blacktop](https://open.spotify.com/album/4LSHNiX2fM8eKv4TyosARZ) | 4:30 | 2022-09-16 |  |
@@ -25,6 +25,7 @@
 | [Endlessly](https://open.spotify.com/track/7EzKrIF3T2XqUZfhnHw5CE) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Guilty of Everything](https://open.spotify.com/album/2bBtD1q0hKNztuOLGcToL6) | 4:13 | 2022-09-16 |  |
 | [Famine Asylum](https://open.spotify.com/track/5918U5xYBF6Dx6T36fwxlw) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [The Great Dismal](https://open.spotify.com/album/0LKwC9p0PLomstKm9Y0nt3) | 4:10 | 2022-09-16 |  |
 | [Fever Queen](https://open.spotify.com/track/2hWnuDzcKznJvlCxuRgfaA) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Tired of Tomorrow \(Deluxe Version\)](https://open.spotify.com/album/2655MXRi7PSJTtYqdGKeuH) | 2:56 | 2022-09-16 |  |
+| [Guilty of Everything](https://open.spotify.com/track/4X02SJMsjb6KZkH5QaAXGS) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Guilty of Everything](https://open.spotify.com/album/2bBtD1q0hKNztuOLGcToL6) | 4:23 | 2022-09-20 |  |
 | [Heavy Water / I'd Rather Be Sleeping \- DOTB B Side](https://open.spotify.com/track/79KTG4D0tqWjAAU0eFcLYY) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Spirit of the Stairs \- B\-Sides & Rarities](https://open.spotify.com/album/1FhTscmvDVVPQhTipBqsxF) | 4:08 | 2022-09-16 |  |
 | [Hymn to the Pillory](https://open.spotify.com/track/5mR1Clx2pnR6RNSS0U3wq9) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Guilty of Everything](https://open.spotify.com/album/2bBtD1q0hKNztuOLGcToL6) | 4:41 | 2022-09-16 |  |
 | [I Hate the Flowers](https://open.spotify.com/track/6U1BjvVwE9hDCasACGvguA) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Dance on the Blacktop](https://open.spotify.com/album/4LSHNiX2fM8eKv4TyosARZ) | 4:21 | 2022-09-16 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3KVUA2wMxEf.md) - [plain]
 
 > Vibras rastafari para poner en sintonía el corazón.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,047 likes - 60 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,105 likes - 60 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,9 +59,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3KVUA2wMxEf.md) - [plain]
 | 49 | [No Me Dejes De Querer](https://open.spotify.com/track/3P75lxnADvxMQw81uF4V60) | [Isza](https://open.spotify.com/artist/1tfNf2ifQq25aQvlVxXvlj), [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO), [Greta Ela](https://open.spotify.com/artist/5c8L3nGznkMGwbmyMKVIl8) | [No Me Dejes de Querer](https://open.spotify.com/album/1LJ3HPkh4xk1SzSGw8svfs) | 3:57 |
 | 50 | [Mi Dulce Amor](https://open.spotify.com/track/5IMiNgnJHMzSva0maocFXB) | [De Bruces A Mi](https://open.spotify.com/artist/0Mib7yfd1ByhIhA1DmEeMg), [Pablo Molina](https://open.spotify.com/artist/1PoD7Jl0frSiDWXY5Qt0fB) | [Radiante](https://open.spotify.com/album/3KnKXcmHFsu5GsDREoxtQW) | 3:09 |
 | 51 | [Prende](https://open.spotify.com/track/5SAPEts9WtHjBgsMUx51pq) | [Providencia](https://open.spotify.com/artist/5Jfv3Fh8E4Gb8AYLwl4OCv) | [Prende](https://open.spotify.com/album/04MfLrwrB2ts8uHInFBWS1) | 3:51 |
-| 52 | [Por Ti](https://open.spotify.com/track/6ZC7xd02NYawCQnAYLdLGt) | [Kalacawas](https://open.spotify.com/artist/3dEiQw6wbcXR3VaoYRNXc1) | [Todo Se Puede](https://open.spotify.com/album/5GZWJDXkfDLVRvYsUo0TlD) | 3:59 |
-| 53 | [Cuando Estoy Con Vos](https://open.spotify.com/track/64ibxIzfWFYM2cUTaFyTRb) | [Rondamon](https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP) | [Con Permisito](https://open.spotify.com/album/2L83bqcJ6WfhoWK1zoThRF) | 5:17 |
-| 54 | [Galán de Combi](https://open.spotify.com/track/1tPs3eSeVINVi3CoQf3biD) | [Laguna Pai](https://open.spotify.com/artist/4NmvNRWDxYHYMKt4yiMljS) | [Atento](https://open.spotify.com/album/3VgzoPLs5aIr6Xk4K1IYOD) | 3:54 |
+| 52 | [Galán de Combi](https://open.spotify.com/track/1tPs3eSeVINVi3CoQf3biD) | [Laguna Pai](https://open.spotify.com/artist/4NmvNRWDxYHYMKt4yiMljS) | [Atento](https://open.spotify.com/album/3VgzoPLs5aIr6Xk4K1IYOD) | 3:54 |
+| 53 | [Por Ti](https://open.spotify.com/track/6ZC7xd02NYawCQnAYLdLGt) | [Kalacawas](https://open.spotify.com/artist/3dEiQw6wbcXR3VaoYRNXc1) | [Todo Se Puede](https://open.spotify.com/album/5GZWJDXkfDLVRvYsUo0TlD) | 3:59 |
+| 54 | [Cuando Estoy Con Vos](https://open.spotify.com/track/64ibxIzfWFYM2cUTaFyTRb) | [Rondamon](https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP) | [Con Permisito](https://open.spotify.com/album/2L83bqcJ6WfhoWK1zoThRF) | 5:17 |
 | 55 | [Así](https://open.spotify.com/track/1I2aoG0klUhom3xnQvz6IV) | [Mensajeros Reggae](https://open.spotify.com/artist/33gqwPfmv66I9QO0w5jXoE) | [Así](https://open.spotify.com/album/1Vnxc92RmrxMEoh3wyZFte) | 3:33 |
 | 56 | [Sensación](https://open.spotify.com/track/6LbMjdYpQvJxDTgAVqNM0T) | [Contravos](https://open.spotify.com/artist/0q6mxrr4ww5O7gewXHIFMC), [BlackDali](https://open.spotify.com/artist/6fQBCAmdaMg4d9WYOMW58B) | [Actor Espectador](https://open.spotify.com/album/1ZHhYDXil7KaimaJkRa3CF) | 3:49 |
 | 57 | [Llegaste a Mí](https://open.spotify.com/track/6wiG6K6xHQd8Nj9CPblg2V) | [De Bruces A Mi](https://open.spotify.com/artist/0Mib7yfd1ByhIhA1DmEeMg) | [El Poder de Tu Alma](https://open.spotify.com/album/2qj7avJ1IwhmIXZQkj0Ro4) | 3:50 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3KVUA2wMxEf.md) - [plain]
 | 59 | [El Árbol](https://open.spotify.com/track/1q2GWueMnvjzYGksW2SBPJ) | [Olaya Sound System](https://open.spotify.com/artist/6sVCc3GjCgPU7Vk56h8Zi3) | [El Árbol](https://open.spotify.com/album/5K0vKNaWvRSNKf0EbgUhSu) | 3:31 |
 | 60 | [Distancia y Ficción](https://open.spotify.com/track/6YZFu1qIZA9o8ryEeoCVpl) | [Tarará](https://open.spotify.com/artist/3pOCFYJe0tWqFlX7XqF4cn) | [Distancia y Ficción](https://open.spotify.com/album/3dpycFGnz2H4v4CGOHs1kO) | 2:15 |
 
-Snapshot ID: `MTY0NTU1MDUyMywwMDAwMDAwMDVlYzkyYzY3M2RkZDU3N2Q0MjhjODk5NWQ3MTc3Mjg3`
+Snapshot ID: `MTY0NTU1MDUyMywwMDAwMDAwMGM0MGM4NjBiMzYxODJjYjgzNjU0NGQ4MTcxOTcwNjIz`

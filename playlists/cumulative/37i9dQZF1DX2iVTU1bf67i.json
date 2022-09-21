@@ -505,7 +505,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 231760,
       "name": "But Not For Me",
       "url": "https://open.spotify.com/track/0RylOkUn6emxO9bPwxWqsI"
@@ -693,7 +693,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-03",
+      "date_removed": null,
       "duration_ms": 299693,
       "name": "Don't Be That Way",
       "url": "https://open.spotify.com/track/3994UsKs0tNI54lY0srRny"
@@ -867,7 +867,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 154466,
       "name": "Easy To Love",
       "url": "https://open.spotify.com/track/044TSzLNcIt8S1nFPD77ve"
@@ -1005,7 +1005,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 345920,
       "name": "Fall Out",
       "url": "https://open.spotify.com/track/2RgIbUm4wAUhR5s78O8OoI"
@@ -1385,7 +1385,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-15",
+      "date_removed": null,
       "duration_ms": 208906,
       "name": "I Wished On The Moon",
       "url": "https://open.spotify.com/track/7cbfKO5rp9BkGRpTs0uuY3"
@@ -1587,7 +1587,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 175866,
       "name": "I've Got My Love to Keep Me Warm",
       "url": "https://open.spotify.com/track/26Uufz1ggmJ8mIWeER5y7x"
@@ -1987,7 +1987,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 333200,
       "name": "Just One Of Those Things - Take 8 - Master Take",
       "url": "https://open.spotify.com/track/434Icqe1n6rfIoOSwhrYbn"
@@ -2175,9 +2175,9 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-02",
+      "date_removed": null,
       "duration_ms": 175493,
-      "name": "Long Ago (And Far Away) - Remastered",
+      "name": "Long Ago (And Far Away) - Remastered 1991",
       "url": "https://open.spotify.com/track/25ijsdTAjtmPNkGXIscaSe"
     },
     {
@@ -2385,7 +2385,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 236240,
       "name": "Makin' Whoopee",
       "url": "https://open.spotify.com/track/0YgEYSBt2e4BSTIQBhukou"
@@ -2425,7 +2425,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 268040,
       "name": "Mood Indigo",
       "url": "https://open.spotify.com/track/1AXBvep9Ta2XlltmIPw1rm"
@@ -3187,7 +3187,7 @@
       ],
       "date_added": "2022-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-15",
+      "date_removed": null,
       "duration_ms": 182506,
       "name": "That Lucky Old Sun (Just Rolls Around Heaven All Day) - Single Version",
       "url": "https://open.spotify.com/track/2qioTZNYxZawZMTuL5TEXv"
@@ -3444,6 +3444,24 @@
     },
     {
       "album": {
+        "name": "Solitude",
+        "url": "https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215466,
+      "name": "These Foolish Things (Remind Me Of You)",
+      "url": "https://open.spotify.com/track/0ii3b9U8Yw0qnwEUBw0zZs"
+    },
+    {
+      "album": {
         "name": "Swingin' Easy",
         "url": "https://open.spotify.com/album/3uja6kKhz0bUcAZ7lTHvju"
       },
@@ -3513,7 +3531,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-31",
+      "date_removed": null,
       "duration_ms": 187560,
       "name": "This Year's Kisses (with Teddy Wilson & His Orchestra)",
       "url": "https://open.spotify.com/track/5g0MM8pdWqW1tSjvPwyigh"
@@ -3621,7 +3639,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-31",
+      "date_removed": null,
       "duration_ms": 368093,
       "name": "Too Close For Comfort",
       "url": "https://open.spotify.com/track/4Qv9LV0XE6t8DzqtqGTiV8"
@@ -3715,7 +3733,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 409346,
       "name": "Waltz For A Lovely Wife",
       "url": "https://open.spotify.com/track/6j6ysNwF1l4FuO07kQFcpr"
@@ -3787,7 +3805,7 @@
       ],
       "date_added": "2022-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 178693,
       "name": "When Sunny Gets Blue - Remastered",
       "url": "https://open.spotify.com/track/3T4bj6wgXWe5K6vKp3JbLl"
@@ -3913,7 +3931,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-31",
+      "date_removed": null,
       "duration_ms": 360133,
       "name": "Yesterdays",
       "url": "https://open.spotify.com/track/4GlQQ5hDC6HMnArUvrgva3"
@@ -4083,7 +4101,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 334640,
       "name": "You're A Weaver Of Dreams",
       "url": "https://open.spotify.com/track/69XhqUpOIMu9ZNvd00kH8e"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgM16hVIBq6.md) - [plain]
 
 > Hora de bailar con esta fiesta tropical\. Dance the night away with your favorite tropical tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,530 likes - 100 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,597 likes - 100 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgM16hVIBq6.md) - [plain]
 | 29 | [Carita de Inocente \(feat\. Myke Towers\) \- Remix](https://open.spotify.com/track/5kQre7o8ky5DXeEPcyaCR1) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Carita de Inocente \(feat\. Myke Towers\) \[Remix\]](https://open.spotify.com/album/54m2Pe3Khdiarwv2PCS8DY) | 3:12 |
 | 30 | [Tu Amor Me Hace Bien \- Salsa Version](https://open.spotify.com/track/3yEtuhGR8jOtusa29jWrhG) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Valio La Pena](https://open.spotify.com/album/4O3yvEN5II2yKWKBPtDLD7) | 5:00 |
 | 31 | [Yo También \(feat\. Marc Anthony\)](https://open.spotify.com/track/5A9AILetvfQg3LHyX5X0pV) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Fórmula, Vol\. 2 \(Deluxe Edition\)](https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L) | 5:06 |
-| 32 | [BEBÉ](https://open.spotify.com/track/7D7EH7MGyNHWSkqrszerI1) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [BEBÉ](https://open.spotify.com/album/0krfGu8Xf8xZGOeEcQUjai) | 3:18 |
-| 33 | [Gotas De Lluvia](https://open.spotify.com/track/6sna5KCgNbt1ciZtVJCjzx) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [20th Anniversary](https://open.spotify.com/album/6quTUa9H2vITjPy9TArBvW) | 5:54 |
+| 32 | [Gotas De Lluvia](https://open.spotify.com/track/6sna5KCgNbt1ciZtVJCjzx) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [20th Anniversary](https://open.spotify.com/album/6quTUa9H2vITjPy9TArBvW) | 5:54 |
+| 33 | [BEBÉ](https://open.spotify.com/track/7D7EH7MGyNHWSkqrszerI1) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [BEBÉ](https://open.spotify.com/album/0krfGu8Xf8xZGOeEcQUjai) | 3:18 |
 | 34 | [Idilio](https://open.spotify.com/track/6VQ2fI8goSX8mpSvytXkXR) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Mis Favoritas](https://open.spotify.com/album/44rPp1bnN1eL9ld3QE1t9c) | 5:08 |
 | 35 | [La Bilirrubina](https://open.spotify.com/track/4xzcXQrlMKwvv3kDpvBKWm) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Bachata Rosa](https://open.spotify.com/album/3lRQHKkCpntPvEoqh3C3B0) | 4:05 |
 | 36 | [Que Locura Enamorarme De Ti](https://open.spotify.com/track/1TMxv8sfUhU55AC6Ul1PU5) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Atrevido Y Diferente](https://open.spotify.com/album/0qFXgEQ4pj1i6VQ80AMqTG) | 5:08 |
@@ -73,9 +73,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgM16hVIBq6.md) - [plain]
 | 63 | [Ven Conmigo](https://open.spotify.com/track/2QSuNcQxqFfokvbS7SInHG) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Prestige](https://open.spotify.com/album/6Hu1DObY1WeKWxHfeaOcFg) | 3:39 |
 | 64 | [Pa' Mayte](https://open.spotify.com/track/00gAVWgRJy92PCAHFzVu83) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [La Tierra del Olvido \(005\)](https://open.spotify.com/album/5laSrhYFBn1OxVZKCK2B9Y) | 3:08 |
 | 65 | [Periódico De Ayer](https://open.spotify.com/track/0A6uCqTC2RS0x7lyDTIend) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [De Ti Depende](https://open.spotify.com/album/01TXLHVDAd53Nr0YBSas2N) | 6:49 |
-| 66 | [Lluvia](https://open.spotify.com/track/5Ba4YFq13YdsTosd7mwqzi) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [De Verdad](https://open.spotify.com/album/1MNS4bn9b4b1E5J4w9ogP7) | 4:56 |
+| 66 | [A Pedir Su Mano](https://open.spotify.com/track/0Y6RXhbU85T0P0HeiT1Tnb) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Bachata Rosa](https://open.spotify.com/album/3lRQHKkCpntPvEoqh3C3B0) | 4:55 |
 | 67 | [No Quería Engañarte](https://open.spotify.com/track/7mvgoSoN2klG8M68WZLrYq) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Que Suenen los Tambores](https://open.spotify.com/album/3LygiJakSDkP4F5UAUFmNH) | 4:32 |
-| 68 | [A Pedir Su Mano](https://open.spotify.com/track/0Y6RXhbU85T0P0HeiT1Tnb) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Bachata Rosa](https://open.spotify.com/album/3lRQHKkCpntPvEoqh3C3B0) | 4:55 |
+| 68 | [Lluvia](https://open.spotify.com/track/5Ba4YFq13YdsTosd7mwqzi) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [De Verdad](https://open.spotify.com/album/1MNS4bn9b4b1E5J4w9ogP7) | 4:56 |
 | 69 | [Adicto \(feat\. Marc Anthony\)](https://open.spotify.com/track/4Xqpt53kWML7eTObGxQ43i) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Adicto \(feat\. Marc Anthony\)](https://open.spotify.com/album/3WkWeNvKY4CMeLwKIeOugQ) | 3:29 |
 | 70 | [Tatuaje](https://open.spotify.com/track/7qvnwfrklCpXozI4ZDU3qc) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df), [Bachata Heightz](https://open.spotify.com/artist/5zvRX0y0JYtGOmGJwLwyIL) | [Tatuaje](https://open.spotify.com/album/1PG3xm0A5CkuLONdSC0VyO) | 3:50 |
 | 71 | [La Murga](https://open.spotify.com/track/5O2Id1rWAmR9ff9kGUfikf) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Yomo Toro](https://open.spotify.com/artist/112OOUPY3pq7Hr35s3po6E) | [Asalto Navideño](https://open.spotify.com/album/4TnqBA58KybPV53g95LHLe) | 5:34 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgM16hVIBq6.md) - [plain]
 | 99 | [Esta Pegao](https://open.spotify.com/track/7f698P4uIhoNM4E3XkgvL3) | [Proyecto Uno](https://open.spotify.com/artist/6w1XCiB8efbfnusJ2jzmvu) | [In Da House](https://open.spotify.com/album/6AbWKVD3idhjdTxk7BQtKe) | 4:44 |
 | 100 | [Como Un Trueno](https://open.spotify.com/track/5NuGimnwSMQwBKgCCy7wIn) | [Ilegales](https://open.spotify.com/artist/1hMa6SwU2t8eUEETAAbk9z) | [Rebotando](https://open.spotify.com/album/5aAR4JhNb2bA0r6uPHlhYz) | 4:06 |
 
-Snapshot ID: `MTY2MDc1ODEyNSwwMDAwMDAwMGU1NTkyN2M1YTczYjJhZmViZjM0NTFkNTU4NmU1YzFi`
+Snapshot ID: `MTY2MDc1ODEyNSwwMDAwMDAwMDFhYzY1ZDJjMTkyZGU5MTk2ZDY0Mjk1MGQxNWVjMTVl`

@@ -2,18 +2,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 
 ### [Korean OSTs](https://open.spotify.com/playlist/37i9dQZF1DX2ohL85TE8TI)
 
-> Familiar hits that match your emotions while watching your favourite Korean movie or TV drama \(인기 있는 화제의 OST곡들을 즐겨보세요!\) \(커버: Extraordinary Attorney Woo \(이상한 변호사 우영우\)\)
+> Familiar hits that match your emotions while watching your favourite Korean movie or TV drama \(인기 있는 화제의 OST곡들을 즐겨보세요!\) \(커버: Little Women \(작은 아씨들\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,464,130 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,464,214 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [I FLY](https://open.spotify.com/track/3YW9BZAvwIvXF6C7D3cN6r) | [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL) | [오늘의 웹툰 \(Original Soundtrack\) Pt\. 1](https://open.spotify.com/album/0eWeQtF47FUpI8kRLDEiCp) | 3:50 |
-| 2 | [Enough \(Prod\. Primary\)](https://open.spotify.com/track/3LJZMmngKDvo1X04dBYG0J) | [Zior Park](https://open.spotify.com/artist/4gkSpcyfxtm5OFoZCYWTeD) | [Little Women, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/58xp3aLV0FLfzuQAg4HKe3) | 3:45 |
+| 1 | [Enough \(Prod\. Primary\)](https://open.spotify.com/track/3LJZMmngKDvo1X04dBYG0J) | [Zior Park](https://open.spotify.com/artist/4gkSpcyfxtm5OFoZCYWTeD) | [Little Women, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/58xp3aLV0FLfzuQAg4HKe3) | 3:45 |
+| 2 | [I FLY](https://open.spotify.com/track/3YW9BZAvwIvXF6C7D3cN6r) | [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL) | [오늘의 웹툰 \(Original Soundtrack\) Pt\. 1](https://open.spotify.com/album/0eWeQtF47FUpI8kRLDEiCp) | 3:50 |
 | 3 | [It\`s Love](https://open.spotify.com/track/22AHrxX4vp2VOz3NDxJSpf) | [MIGYO](https://open.spotify.com/artist/6MMlmK7TkMzkyMfWXoIkFS) | [Returning Student: Grade A, but Love is F \(Original Soundtrack\), Pt\. 4](https://open.spotify.com/album/14T4pQDglbR2y3KsR99Wuj) | 3:12 |
 | 4 | [It Won't be goodbye](https://open.spotify.com/track/138P0nS4uTTe7m2eHPp9YE) | [DOKO](https://open.spotify.com/artist/7y5E5llLKviR9WIXK5lrag), [Lim Sa Rang](https://open.spotify.com/artist/5fRgaatTAoOJk24oK86Bjo) | [It Won't be goodbye \(From "Beautiful Moment" \[Original Soundtrack\]\), Pt.1](https://open.spotify.com/album/1lq1cH3jmWmRJEROyrHDU1) | 3:51 |
 | 5 | [I love you like the first day](https://open.spotify.com/track/7gMPYAB3srSzjkIhdw5LlV) | [Cheon Soa](https://open.spotify.com/artist/5NLbi9Iwc9riomhQLJgmqb) | [Bravo, My Life \(Original Soundtrack\), Pt\. 39](https://open.spotify.com/album/0khIgqSggWaCI97Y8rBLvR) | 3:21 |
-| 6 | [Walter](https://open.spotify.com/track/6j0rp0aQDRzM3KZuTaoBki) | [CHOI SANG YEOP](https://open.spotify.com/artist/6utXy4Z1T5WeP6Kik5CKs4) | [뇌 멋대로 한다 \(Original Webtoon Soundtrack\)](https://open.spotify.com/album/12yv0CSwYEaanP2FalCzaj) | 3:29 |
+| 6 | [Walter](https://open.spotify.com/track/6j0rp0aQDRzM3KZuTaoBki) | [CHOI SANG YEOP](https://open.spotify.com/artist/6utXy4Z1T5WeP6Kik5CKs4) | [뇌 멋대로 한다 \(Original Soundtrack\)](https://open.spotify.com/album/12yv0CSwYEaanP2FalCzaj) | 3:29 |
 | 7 | [Watcha Original <Inside Lyrics> \`It rains\`](https://open.spotify.com/track/0Jvt4cDEmOPUKWSV1z2bUG) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [Watcha Original <Inside Lyrics> \`It rains\`](https://open.spotify.com/album/2dKLGsdKHhl0JpYD7tzgAM) | 4:06 |
 | 8 | [LET U GO](https://open.spotify.com/track/7IAVZhz6eNcEiq3lzHyU6V) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [If You Wish Upon Me OST Part.7](https://open.spotify.com/album/7aBIeDEQcUwNHjJJ4YckZa) | 4:17 |
 | 9 | [Would you like me](https://open.spotify.com/track/4nvf8V44QTeORi8apz4VIX) | [Ants](https://open.spotify.com/artist/0VyTbC31dnoiKg02B3PQaL) | [Love Interference 2022 \(Original Television Soundtrack\), Pt.21](https://open.spotify.com/album/6g8FOyfEQ1vPbcNFMPzzHA) | 3:27 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 | 99 | [beautiful inside](https://open.spotify.com/track/1bxzxAOlqll6JIAeEZEINR) | [Hello Ga\-Young](https://open.spotify.com/artist/1yewRvlKGWmNRHOSGgiRRo) | [Beautiful Now \(Original Television Soundtrack\) Pt\. 9](https://open.spotify.com/album/2X9zquczSyputp24lpjLkr) | 3:39 |
 | 100 | [Fight On](https://open.spotify.com/track/3RKHz2UxKMtGfHmRJ6wowu) | [Yoo Hwe Seung](https://open.spotify.com/artist/5ENwCCr5vpgcwr4HgTmWGs) | [DOCTOR LAWYER \(Original Television Soundtrack, Pt\. 3\)](https://open.spotify.com/album/6ZAm0SSHJIW7vEFpaXOc4t) | 3:21 |
 
-Snapshot ID: `MTY2MzU4MjA1NiwwMDAwMDAwMGYxYjBjZmUxYTY3MzNiYWQ3ZDQ3YWM2MmFlNzlhNzQz`
+Snapshot ID: `MTY2MzY1NzQ4NCwwMDAwMDAwMDA5MDBkOWE4ZTA3OTA3YmJhYjFkMmQ5ZTQzNTFiM2I2`

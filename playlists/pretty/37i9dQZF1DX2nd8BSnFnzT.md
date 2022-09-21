@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Ananda, Hotelo
 
-[Spotify](https://open.spotify.com/user/spotify) - 350,714 likes - 75 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 350,707 likes - 75 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [ponto de vista](https://open.spotify.com/track/0NfqR1Kf2opCwXPaNVouRY) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5), [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [ponto de vista](https://open.spotify.com/album/0nD3dR5hkxS3g1DyCATB9U) | 3:26 |
 | 2 | [Coliseu \(Video Mix\)](https://open.spotify.com/track/3uND74WMJKkkHVrtCvSrb5) | [Arnaldo Brandão](https://open.spotify.com/artist/31tPxXZRs26Tcw8o4xYclY), [Fausto Fawcett](https://open.spotify.com/artist/5qlJRHM85YKmfOdD1fNe2O), [Leela](https://open.spotify.com/artist/11irmEzISytQwB3G8uhC5E) | [Coliseu \(Video Mix\)](https://open.spotify.com/album/3vcJVRGUpB5slAtA3A3cKy) | 4:54 |
 | 3 | [Alerta](https://open.spotify.com/track/4lnTk0oPt5GLSzwrs1mjAX) | [Ciça Moreira](https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt) | [Alerta](https://open.spotify.com/album/60BEBdhWozkZlmna9QmwZS) | 3:20 |
-| 4 | [MERGULHO](https://open.spotify.com/track/5IiXMO5gSehzrwdcYV1IYy) | [Scalene](https://open.spotify.com/artist/4PTd1rpXV7XDffOuLY7M0z) | [\( L A B I R I N T O \)](https://open.spotify.com/album/41YFkzhUoaJqjz2NwQtJiP) | 4:00 |
+| 4 | [MERGULHO](https://open.spotify.com/track/5IiXMO5gSehzrwdcYV1IYy) | [Scalene](https://open.spotify.com/artist/4PTd1rpXV7XDffOuLY7M0z) | [L A B I R I N T 0](https://open.spotify.com/album/41YFkzhUoaJqjz2NwQtJiP) | 4:00 |
 | 5 | [UM BRINDE](https://open.spotify.com/track/31QQG8R4qmLQjIDoguBCzZ) | [Di Ferrero](https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB), [Badauí](https://open.spotify.com/artist/0LrCKlBX9FiDmCjs3epwCb) | [: \( UMA BAD UMA FARRA : \)](https://open.spotify.com/album/4LOdX7PgbZyzNRq7uRolv6) | 2:47 |
 | 6 | [filmes fatos fotos](https://open.spotify.com/track/5EcBZmnE3VUhqES2HdNtwv) | [Duda In The Sky](https://open.spotify.com/artist/7JMMxGGAQVHUU3KAGHVUFu) | [filmes fatos fotos](https://open.spotify.com/album/1UepRjCZjyoz4PWNmZbEP1) | 3:04 |
 | 7 | [Troglomitus Broncossaurus](https://open.spotify.com/track/0KzAD3JNICUb07omGGlY5s) | [Autoramas](https://open.spotify.com/artist/6IwPtS5L4cV9yCB66mhheZ), [Dead Fish](https://open.spotify.com/artist/7Lvg39k5XgXevGR767ikYI), [Rodrigo Lima](https://open.spotify.com/artist/6awWDGNl4gWC8BNsn7r26s) | [Troglomitus Broncossaurus](https://open.spotify.com/album/0IRsPfoPviYnJbBqFBEHpL) | 2:58 |

@@ -1,12 +1,12 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Koe Wetzel",
-  "num_followers": 384805,
+  "num_followers": 384904,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMDUxMDJkM2E1YzZkZWIzMGMyYjI2NjhiZTQ2NDVkMWQ1",
+  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMGJkNDNkMDQ2YzY3ZGM2MWRhMzkwMDk0NGY1YmNmZDQy",
   "tracks": [
     {
       "added_at": "2022-09-16 04:00:00",
@@ -307,18 +307,18 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Love Talking",
-        "url": "https://open.spotify.com/album/0bflVbQQISnuMdv5KjVPHB"
+        "name": "April Showers",
+        "url": "https://open.spotify.com/album/35DYE0Y5qdxojyBA2CXVYX"
       },
       "artists": [
         {
-          "name": "Eli Young Band",
-          "url": "https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv"
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 173131,
-      "name": "Love Talking",
-      "url": "https://open.spotify.com/track/5kFLWyiAXjYrecLHnR7bTk"
+      "duration_ms": 182346,
+      "name": "April Showers",
+      "url": "https://open.spotify.com/track/0E2VoyCHqPn47yGMVgQmrK"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -371,22 +371,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "April Showers",
-        "url": "https://open.spotify.com/album/35DYE0Y5qdxojyBA2CXVYX"
-      },
-      "artists": [
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
-        }
-      ],
-      "duration_ms": 182346,
-      "name": "April Showers",
-      "url": "https://open.spotify.com/track/0E2VoyCHqPn47yGMVgQmrK"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Happier Alone (feat. Koe Wetzel)",
         "url": "https://open.spotify.com/album/3FMpvDKoq0GAMYKn72pqlC"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 224027,
       "name": "Happier Alone (feat. Koe Wetzel)",
       "url": "https://open.spotify.com/track/4VyZr1v1MNeZbl6eV8ZJGh"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Love Talking",
+        "url": "https://open.spotify.com/album/0bflVbQQISnuMdv5KjVPHB"
+      },
+      "artists": [
+        {
+          "name": "Eli Young Band",
+          "url": "https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv"
+        }
+      ],
+      "duration_ms": 173131,
+      "name": "Love Talking",
+      "url": "https://open.spotify.com/track/5kFLWyiAXjYrecLHnR7bTk"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -487,8 +487,8 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Harder Stuff",
-        "url": "https://open.spotify.com/album/4gaF0LwArBfbpauA1n5wlG"
+        "name": "Bad Days Better",
+        "url": "https://open.spotify.com/album/0cI9YhCkHa1JcxbhyY8mBX"
       },
       "artists": [
         {
@@ -502,7 +502,7 @@
       ],
       "duration_ms": 272880,
       "name": "Harder Stuff",
-      "url": "https://open.spotify.com/track/13KCXYA2sMXKisvfsiKmPH"
+      "url": "https://open.spotify.com/track/6BzCBm0qXbMsDQYDUAYQNO"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -595,22 +595,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Breaking News",
-        "url": "https://open.spotify.com/album/5cMBd65MGVa8H7sEt9Y8Li"
-      },
-      "artists": [
-        {
-          "name": "Kolby Cooper",
-          "url": "https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx"
-        }
-      ],
-      "duration_ms": 220234,
-      "name": "Breaking News",
-      "url": "https://open.spotify.com/track/66cdCIrACw7lCLjeUQKx6v"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "'21",
         "url": "https://open.spotify.com/album/6jjJF0stimclEoHKtNFZpj"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 204040,
       "name": "Highways",
       "url": "https://open.spotify.com/track/0IXdyGzVO91HrnNXW6P5TT"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Breaking News",
+        "url": "https://open.spotify.com/album/5cMBd65MGVa8H7sEt9Y8Li"
+      },
+      "artists": [
+        {
+          "name": "Kolby Cooper",
+          "url": "https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx"
+        }
+      ],
+      "duration_ms": 220234,
+      "name": "Breaking News",
+      "url": "https://open.spotify.com/track/66cdCIrACw7lCLjeUQKx6v"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -807,6 +807,22 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
+        "name": "You In A Honky Tonk",
+        "url": "https://open.spotify.com/album/4UQUjGOmIqVh7mg0c7hYeJ"
+      },
+      "artists": [
+        {
+          "name": "Randall King",
+          "url": "https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh"
+        }
+      ],
+      "duration_ms": 183570,
+      "name": "You In A Honky Tonk",
+      "url": "https://open.spotify.com/track/76DhLVnoczE6umkHKR2Ec6"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
         "name": "Drowning in Dreams, Pt. 2",
         "url": "https://open.spotify.com/album/5Gc3yWWPy0KdH7BR12Z3TK"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 167512,
       "name": "Where the Wildflowers Lay",
       "url": "https://open.spotify.com/track/7zrKHpQ36XPqL46P9qgXAs"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "Rest Of My Life",
-        "url": "https://open.spotify.com/album/3fOdo5NTgvDRnGtw70Eekp"
-      },
-      "artists": [
-        {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
-        }
-      ],
-      "duration_ms": 174453,
-      "name": "Rest Of My Life",
-      "url": "https://open.spotify.com/track/2fhgFd9pEvTUhyBacCrPOn"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -871,18 +871,18 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "You In A Honky Tonk",
-        "url": "https://open.spotify.com/album/4UQUjGOmIqVh7mg0c7hYeJ"
+        "name": "Rest Of My Life",
+        "url": "https://open.spotify.com/album/3fOdo5NTgvDRnGtw70Eekp"
       },
       "artists": [
         {
-          "name": "Randall King",
-          "url": "https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh"
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
         }
       ],
-      "duration_ms": 183570,
-      "name": "You In A Honky Tonk",
-      "url": "https://open.spotify.com/track/76DhLVnoczE6umkHKR2Ec6"
+      "duration_ms": 174453,
+      "name": "Rest Of My Life",
+      "url": "https://open.spotify.com/track/2fhgFd9pEvTUhyBacCrPOn"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -903,22 +903,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "She Goes Home (Dirty Breakup Song)",
-        "url": "https://open.spotify.com/album/3Fd2MJsqGbqAY9lGoHajU6"
-      },
-      "artists": [
-        {
-          "name": "Grant Gilbert",
-          "url": "https://open.spotify.com/artist/22JGfpxVueSHqP2SIi1919"
-        }
-      ],
-      "duration_ms": 199666,
-      "name": "She Goes Home (Dirty Breakup Song)",
-      "url": "https://open.spotify.com/track/1zSP3prCgF50ZAiDX7rfDy"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "But Me",
         "url": "https://open.spotify.com/album/3EMvVIcOA7woHlWrlxQoF1"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 235920,
       "name": "But Me",
       "url": "https://open.spotify.com/track/4Y6NQuXwIQNbRJccgE9ul2"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "She Goes Home (Dirty Breakup Song)",
+        "url": "https://open.spotify.com/album/3Fd2MJsqGbqAY9lGoHajU6"
+      },
+      "artists": [
+        {
+          "name": "Grant Gilbert",
+          "url": "https://open.spotify.com/artist/22JGfpxVueSHqP2SIi1919"
+        }
+      ],
+      "duration_ms": 199666,
+      "name": "She Goes Home (Dirty Breakup Song)",
+      "url": "https://open.spotify.com/track/1zSP3prCgF50ZAiDX7rfDy"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -999,22 +999,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "All It Cost Me Was Everything",
-        "url": "https://open.spotify.com/album/0gpB09xRcG5BTyVanMJNJC"
-      },
-      "artists": [
-        {
-          "name": "Cody Jinks",
-          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
-        }
-      ],
-      "duration_ms": 230344,
-      "name": "All It Cost Me Was Everything",
-      "url": "https://open.spotify.com/track/1DUaW1loQrhR7WIIRtxehF"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Your Bar Now",
         "url": "https://open.spotify.com/album/3N6z7QHV628Lbz0ocbzOhR"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 214253,
       "name": "Your Bar Now",
       "url": "https://open.spotify.com/track/4ZZK3Nud5Ax5ZExoFZYhGq"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "All It Cost Me Was Everything",
+        "url": "https://open.spotify.com/album/0gpB09xRcG5BTyVanMJNJC"
+      },
+      "artists": [
+        {
+          "name": "Cody Jinks",
+          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
+        }
+      ],
+      "duration_ms": 230344,
+      "name": "All It Cost Me Was Everything",
+      "url": "https://open.spotify.com/track/1DUaW1loQrhR7WIIRtxehF"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Miles and Miles of You",
-        "url": "https://open.spotify.com/album/07OEAlxXv9Sp0vdWYanpau"
-      },
-      "artists": [
-        {
-          "name": "Pat Green",
-          "url": "https://open.spotify.com/artist/0EhgpjUqiIIQhM6ZRF4kXX"
-        }
-      ],
-      "duration_ms": 209440,
-      "name": "I'm Going Home",
-      "url": "https://open.spotify.com/track/3nvZXA6csYuvqr1Y8cbkWw"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Wherever I Am",
         "url": "https://open.spotify.com/album/4aQw7SewykLPkahUFWdGoS"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 219481,
       "name": "Shines Through",
       "url": "https://open.spotify.com/track/2GrVTTzKbgxQcE4OrIqcHI"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Miles and Miles of You",
+        "url": "https://open.spotify.com/album/07OEAlxXv9Sp0vdWYanpau"
+      },
+      "artists": [
+        {
+          "name": "Pat Green",
+          "url": "https://open.spotify.com/artist/0EhgpjUqiIIQhM6ZRF4kXX"
+        }
+      ],
+      "duration_ms": 209440,
+      "name": "I'm Going Home",
+      "url": "https://open.spotify.com/track/3nvZXA6csYuvqr1Y8cbkWw"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
+        "name": "John Wayne",
+        "url": "https://open.spotify.com/album/5s32nBJPKJ8jr4c8I4dj0M"
+      },
+      "artists": [
+        {
+          "name": "Rachel LaRen",
+          "url": "https://open.spotify.com/artist/52mZQzoHHS6rWygkzKuZFv"
+        }
+      ],
+      "duration_ms": 188995,
+      "name": "John Wayne",
+      "url": "https://open.spotify.com/track/32HzrX0rfhNdd9uJdeLO7u"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
         "name": "Heartbreak",
         "url": "https://open.spotify.com/album/1YNRiSLFpupJgMqZxRyxQx"
       },
@@ -1447,22 +1463,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "John Wayne",
-        "url": "https://open.spotify.com/album/5s32nBJPKJ8jr4c8I4dj0M"
-      },
-      "artists": [
-        {
-          "name": "Rachel LaRen",
-          "url": "https://open.spotify.com/artist/52mZQzoHHS6rWygkzKuZFv"
-        }
-      ],
-      "duration_ms": 188995,
-      "name": "John Wayne",
-      "url": "https://open.spotify.com/track/32HzrX0rfhNdd9uJdeLO7u"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Western Tears",
         "url": "https://open.spotify.com/album/1hzYDPwjgMn6hVrCiUNGiK"
       },
@@ -1479,18 +1479,18 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Wishin' on an Airplane",
-        "url": "https://open.spotify.com/album/0pAckWyY7LqtlCg61kylwf"
+        "name": "Pleasure in the Pain (Acoustic)",
+        "url": "https://open.spotify.com/album/0g34MxtPrMRcK6uVtNAQ99"
       },
       "artists": [
         {
-          "name": "Clayton Mullen",
-          "url": "https://open.spotify.com/artist/6iRDBNeREg0Je2y9LZzD2g"
+          "name": "Dylan Wheeler",
+          "url": "https://open.spotify.com/artist/0wt7kveV9BteRyhkkWGj87"
         }
       ],
-      "duration_ms": 210241,
-      "name": "Wishin' on an Airplane",
-      "url": "https://open.spotify.com/track/1PPFRpaI3WhDnRi3BSLsEy"
+      "duration_ms": 238132,
+      "name": "Pleasure in the Pain (Acoustic)",
+      "url": "https://open.spotify.com/track/0SnkVKNi88G8lKlXala0Nu"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1511,18 +1511,18 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Pleasure in the Pain (Acoustic)",
-        "url": "https://open.spotify.com/album/0g34MxtPrMRcK6uVtNAQ99"
+        "name": "Wishin' on an Airplane",
+        "url": "https://open.spotify.com/album/0pAckWyY7LqtlCg61kylwf"
       },
       "artists": [
         {
-          "name": "Dylan Wheeler",
-          "url": "https://open.spotify.com/artist/0wt7kveV9BteRyhkkWGj87"
+          "name": "Clayton Mullen",
+          "url": "https://open.spotify.com/artist/6iRDBNeREg0Je2y9LZzD2g"
         }
       ],
-      "duration_ms": 238132,
-      "name": "Pleasure in the Pain (Acoustic)",
-      "url": "https://open.spotify.com/track/0SnkVKNi88G8lKlXala0Nu"
+      "duration_ms": 210241,
+      "name": "Wishin' on an Airplane",
+      "url": "https://open.spotify.com/track/1PPFRpaI3WhDnRi3BSLsEy"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1575,6 +1575,22 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
+        "name": "Parker Ryan",
+        "url": "https://open.spotify.com/album/4iCyyEW61JDJimz3pvU03j"
+      },
+      "artists": [
+        {
+          "name": "Parker Ryan",
+          "url": "https://open.spotify.com/artist/6q8CPuf8PaE5fvf6WMEldG"
+        }
+      ],
+      "duration_ms": 239293,
+      "name": "Beaumont",
+      "url": "https://open.spotify.com/track/024K3TtiidXB4YBqiVEfD2"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
         "name": "Dancin' With The Devil",
         "url": "https://open.spotify.com/album/2lyRkU6hBSaV6TciIe7kP4"
       },
@@ -1591,18 +1607,22 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Parker Ryan",
-        "url": "https://open.spotify.com/album/4iCyyEW61JDJimz3pvU03j"
+        "name": "Settle for a Beer (with Triston Marez)",
+        "url": "https://open.spotify.com/album/1q249Sj18kanQdDOnbPiep"
       },
       "artists": [
         {
-          "name": "Parker Ryan",
-          "url": "https://open.spotify.com/artist/6q8CPuf8PaE5fvf6WMEldG"
+          "name": "Triston Marez",
+          "url": "https://open.spotify.com/artist/34J7mIMU9nyg5px9m3ur88"
+        },
+        {
+          "name": "Braxton Keith",
+          "url": "https://open.spotify.com/artist/5JHw4x1RYIlwNfCq6FNXxf"
         }
       ],
-      "duration_ms": 239293,
-      "name": "Beaumont",
-      "url": "https://open.spotify.com/track/024K3TtiidXB4YBqiVEfD2"
+      "duration_ms": 174327,
+      "name": "Settle for a Beer (with Triston Marez)",
+      "url": "https://open.spotify.com/track/115CHmW7Y3cRC0qYZyeUGM"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1639,42 +1659,18 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Settle for a Beer (with Triston Marez)",
-        "url": "https://open.spotify.com/album/1q249Sj18kanQdDOnbPiep"
+        "name": "S\u00d5L Sessions",
+        "url": "https://open.spotify.com/album/1e2EDJwPez79eKupUecgD6"
       },
       "artists": [
         {
-          "name": "Triston Marez",
-          "url": "https://open.spotify.com/artist/34J7mIMU9nyg5px9m3ur88"
-        },
-        {
-          "name": "Braxton Keith",
-          "url": "https://open.spotify.com/artist/5JHw4x1RYIlwNfCq6FNXxf"
+          "name": "Tanner Usrey",
+          "url": "https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7"
         }
       ],
-      "duration_ms": 174327,
-      "name": "Settle for a Beer (with Triston Marez)",
-      "url": "https://open.spotify.com/track/115CHmW7Y3cRC0qYZyeUGM"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "A Guitar, A Singer and A Song (feat. Vince Gill)",
-        "url": "https://open.spotify.com/album/2WJBLEqI8tvjDV3ZgrHzNr"
-      },
-      "artists": [
-        {
-          "name": "Wade Bowen",
-          "url": "https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI"
-        },
-        {
-          "name": "Vince Gill",
-          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
-        }
-      ],
-      "duration_ms": 242253,
-      "name": "A Guitar, A Singer and A Song (feat. Vince Gill)",
-      "url": "https://open.spotify.com/track/7L3fHu03qNMVo6XS6BQfzF"
+      "duration_ms": 266783,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/48QruqVpJwCpgKOmQtjewC"
     }
   ],
   "unique_name": "Texas Country Now",

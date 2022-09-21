@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68aCfKW9xMy.md) - [plain]
 
 > La casa de los corazones rotos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,343,744 likes - 125 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,344,198 likes - 125 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68aCfKW9xMy.md) - [plain]
 | 36 | [Me Vas a Extrañar](https://open.spotify.com/track/2yS8aYWXEWJ1NlZ7VPDroT) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Que Bendición](https://open.spotify.com/album/5VL90afs1EsezktD44XMIN) | 2:56 |
 | 37 | [Te Irá Mejor Sin Mí](https://open.spotify.com/track/3d7uS6KzdacpUccKpjXr7x) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Pegadito Al Corazón](https://open.spotify.com/album/1uMyEZYWXHuAToVZSoRIY7) | 2:56 |
 | 38 | [Hasta la Miel Amarga \(feat\. Grupo Firme\)](https://open.spotify.com/track/3D3W7rDsuJIAtjInwh6Moc) | [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Hasta la Miel Amarga \(feat\. Grupo Firme\)](https://open.spotify.com/album/1un5ATKBBkOD7L9d2e7sUD) | 4:18 |
-| 39 | [Afuera Está Lloviendo](https://open.spotify.com/track/3z6s6qPDYCpW44Zfpy4HWS) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Ni Diablo Ni Santo](https://open.spotify.com/album/3tBjyyso23umCFWLJPH4o6) | 2:59 |
+| 39 | [¿Con Qué Se Pega un Corazón?](https://open.spotify.com/track/6C9gYd0KyVHYgxaJu4c9Td) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [¿Con Qué Se Pega un Corazón?](https://open.spotify.com/album/2lrBqFbFWoZddaOjUbD1DF) | 3:48 |
 | 40 | [No](https://open.spotify.com/track/024hOV0LnkxDeI8fOtNwAw) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [No](https://open.spotify.com/album/5pHsYxYOYQux6Ougxe2xnK) | 3:07 |
-| 41 | [¿Con Qué Se Pega un Corazón?](https://open.spotify.com/track/6C9gYd0KyVHYgxaJu4c9Td) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [¿Con Qué Se Pega un Corazón?](https://open.spotify.com/album/2lrBqFbFWoZddaOjUbD1DF) | 3:48 |
+| 41 | [Afuera Está Lloviendo](https://open.spotify.com/track/3z6s6qPDYCpW44Zfpy4HWS) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Ni Diablo Ni Santo](https://open.spotify.com/album/3tBjyyso23umCFWLJPH4o6) | 2:59 |
 | 42 | [Vete Ya](https://open.spotify.com/track/3gqgSM82j6NMAj4Jllr06T) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Mi Satisfacción](https://open.spotify.com/album/2uJ0YxszsHKfS14kOPmAFl) | 2:37 |
 | 43 | [Borracho de Amor](https://open.spotify.com/track/4fYNJdS986IYQWxVoZjY3A) | [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl) | [De Monterrey a Sinaloa](https://open.spotify.com/album/1RVvXaNvZedvPDVQfozH1I) | 3:24 |
 | 44 | [Te Apuesto \- En vivo](https://open.spotify.com/track/7wnO6pBzcWWT8zT4vFx7hM) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [En Vivo EP, Vol\. 1 \(En vivo\)](https://open.spotify.com/album/6ewLeV1GpI2Jg1vMXqXBIN) | 3:48 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68aCfKW9xMy.md) - [plain]
 | 124 | [Olvídame](https://open.spotify.com/track/0S0O5SDpY3DSAz4cLED6Ay) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Márchate Y Olvídame](https://open.spotify.com/album/1laTU2tuhmcjEaZHCgwOiP) | 4:03 |
 | 125 | [Se Me Canso El Corazon](https://open.spotify.com/track/29qY2kVjH6wtaoD5cj09q7) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Se Me Canso El Corazon](https://open.spotify.com/album/2SQA2dNyXsqxSKZJ52osuq) | 3:08 |
 
-Snapshot ID: `MTY2MjA5NDgwMCwwMDAwMDAwMDdkMzcyNDI3OTdlYjYyMjQ4MzFkYmYxYmIyNjk2Yzgy`
+Snapshot ID: `MTY2MjA5NDgwMCwwMDAwMDAwMGY0YzE0MzBjY2I0M2ZhYWE2MzJkOTlhNTFlZGU1NzFj`

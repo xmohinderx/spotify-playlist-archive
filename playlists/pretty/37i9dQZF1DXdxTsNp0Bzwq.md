@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxTsNp0Bzwq.md) - [plain]
 
 > Turn up for the big game!
 
-[Spotify](https://open.spotify.com/user/spotify) - 565,474 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 565,674 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Detox](https://open.spotify.com/track/7fSM2taFBEB1WNZl8AOIoo) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Detox](https://open.spotify.com/album/4y77zrDMRkZznufMBScSal) | 2:41 |
 | 2 | [Jimmy Cooks \(feat\. 21 Savage\)](https://open.spotify.com/track/3F5CgOj3wFlRv51JsHbxhe) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 3:38 |
 | 3 | [BILLIE EILISH.](https://open.spotify.com/track/27ZZdyTSQWI7Cug2d2PkqV) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [BILLIE EILISH.](https://open.spotify.com/album/4MajX5vPeY4cX5pv6rf0sA) | 1:39 |
-| 4 | ['Till I Collapse](https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [The Eminem Show](https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo) | 4:57 |
+| 4 | [Till I Collapse](https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [The Eminem Show](https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo) | 4:57 |
 | 5 | [Talk](https://open.spotify.com/track/0ypjMI7vHiDP4sLB1C0Qna) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Talk](https://open.spotify.com/album/7dMwNA2bcmk60N4s27fk5e) | 2:54 |
 | 6 | [N95](https://open.spotify.com/track/0fX4oNGBWO3dSGUZcVdVV2) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) | 3:15 |
 | 7 | [Still D.R.E.](https://open.spotify.com/track/503OTo2dSqe7qk76rgsbep) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [2001](https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N) | 4:30 |
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxTsNp0Bzwq.md) - [plain]
 | 23 | [Silent Hill](https://open.spotify.com/track/3lzUeaCbcCDB5IXYfqWRlF) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) | 3:40 |
 | 24 | [Collard Greens](https://open.spotify.com/track/0zO8ctW0UiuOefR87OeJOZ) | [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Oxymoron \(Deluxe\)](https://open.spotify.com/album/7Et3bSTLLqdABO1qCxUplS) | 4:59 |
 | 25 | [WHATCHUEXPECT](https://open.spotify.com/track/06DkMPykiPT6roBlEi0oHY) | [KAS](https://open.spotify.com/artist/4AUPalZalhZyyd6kwhBiL5), [Qu'ality](https://open.spotify.com/artist/61muz1GBom0coVyQLRiu67), [Connie Diiamond](https://open.spotify.com/artist/0XJA8RpM6VgQeIYzjnP8wK) | [WHATCHUEXPECT](https://open.spotify.com/album/0YPgJF6eLxQgtQeKJheW9V) | 2:03 |
-| 26 | [Super Gremlin](https://open.spotify.com/track/4A8cWXxKfIL3lAyUDzXbCF) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Sniper Gang Presents Syko Bob & Snapkatt: Nightmare Babies](https://open.spotify.com/album/0kxA9Bc8pamypR5GYXmeti) | 3:20 |
-| 27 | [EVERY CHANCE I GET \(feat\. Lil Baby & Lil Durk\)](https://open.spotify.com/track/1EJIcDYXwSqipW5dFe4uJz) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [KHALED KHALED](https://open.spotify.com/album/5kE2OAuUYGBqqzscqgBXXf) | 3:56 |
+| 26 | [EVERY CHANCE I GET \(feat\. Lil Baby & Lil Durk\)](https://open.spotify.com/track/1EJIcDYXwSqipW5dFe4uJz) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [KHALED KHALED](https://open.spotify.com/album/5kE2OAuUYGBqqzscqgBXXf) | 3:56 |
+| 27 | [Super Gremlin](https://open.spotify.com/track/4A8cWXxKfIL3lAyUDzXbCF) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Sniper Gang Presents Syko Bob & Snapkatt: Nightmare Babies](https://open.spotify.com/album/0kxA9Bc8pamypR5GYXmeti) | 3:20 |
 | 28 | [Got It On Me](https://open.spotify.com/track/25zlnOAzbVoOzIeXSvQFf1) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Shoot For The Stars Aim For The Moon](https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc) | 2:44 |
 | 29 | [Right On](https://open.spotify.com/track/6ws54n2IzyrIxxyzlG2bVJ) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Right On](https://open.spotify.com/album/1dzpQiq9uhCaaeTGFmtn2p) | 3:33 |
 | 30 | [I'M ON ONE \(feat\. Drake\)](https://open.spotify.com/track/6wyhUr4Xw8z5uSy0AhoZfU) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [I NEVER LIKED YOU](https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL) | 3:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxTsNp0Bzwq.md) - [plain]
 | 49 | [Don't Play That](https://open.spotify.com/track/6BczFLHW9aIf9aWn5NFuNL) | [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Don't Play That](https://open.spotify.com/album/3g34Pygt0svsSHv19XI4gx) | 2:13 |
 | 50 | [m.A.A.d city](https://open.spotify.com/track/2cDCojn6uIBM6A5xTAbl3H) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [MC Eiht](https://open.spotify.com/artist/4XqfpACObRB5AsBcUYjL8X) | [good kid, m.A.A.d city \(Deluxe\)](https://open.spotify.com/album/3DGQ1iZ9XKUQxAUWjfC34w) | 5:50 |
 
-Snapshot ID: `MTY2MjA5MTI2MCwwMDAwMDAwMGYzNDZhZWZlNTI2MGQ3ZWQ4N2YyNmQ4MTcxOTRmZTQy`
+Snapshot ID: `MTY2MjA5MTI2MCwwMDAwMDAwMDUxMzYzZDFkYjljY2EyNTkzZDIyMjEwOTYyMmQ1NWYx`

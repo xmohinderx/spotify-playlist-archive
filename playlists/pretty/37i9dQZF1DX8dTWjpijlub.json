@@ -1,12 +1,12 @@
 {
   "description": "The champs are here.",
-  "num_followers": 177288,
+  "num_followers": 177364,
   "original_name": "Trophy Room",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjA5MTI2MCwwMDAwMDAwMDlhNzYyM2ZmZjhjOTI4YzU0MzUzNDgwNjFhOGI3NGYy",
+  "snapshot_id": "MTY2MjA5MTI2MCwwMDAwMDAwMDhhMjFiYjc5YTgzMWJiNGYxZTA5OTNhMzNhNjQzY2Fh",
   "tracks": [
     {
       "added_at": "2022-09-02 04:01:00",
@@ -399,18 +399,22 @@
     {
       "added_at": "2022-09-02 04:01:00",
       "album": {
-        "name": "Come Home The Kids Miss You",
-        "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
+        "name": "Perfect Ten",
+        "url": "https://open.spotify.com/album/2WrNHOba5u6P9S9xEboaUy"
       },
       "artists": [
         {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+          "name": "Mustard",
+          "url": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
+        },
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
         }
       ],
-      "duration_ms": 135053,
-      "name": "Dua Lipa",
-      "url": "https://open.spotify.com/track/0LnS7aOdOdI1dNKZqdOLz4"
+      "duration_ms": 180434,
+      "name": "Ballin' (with Roddy Ricch)",
+      "url": "https://open.spotify.com/track/3QzAOrNlsabgbMwlZt7TAY"
     },
     {
       "added_at": "2022-09-02 04:01:00",
@@ -435,22 +439,18 @@
     {
       "added_at": "2022-09-02 04:01:00",
       "album": {
-        "name": "Perfect Ten",
-        "url": "https://open.spotify.com/album/2WrNHOba5u6P9S9xEboaUy"
+        "name": "Come Home The Kids Miss You",
+        "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
       },
       "artists": [
         {
-          "name": "Mustard",
-          "url": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
-        },
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
         }
       ],
-      "duration_ms": 180434,
-      "name": "Ballin' (with Roddy Ricch)",
-      "url": "https://open.spotify.com/track/3QzAOrNlsabgbMwlZt7TAY"
+      "duration_ms": 135053,
+      "name": "Dua Lipa",
+      "url": "https://open.spotify.com/track/0LnS7aOdOdI1dNKZqdOLz4"
     },
     {
       "added_at": "2022-09-02 04:01:00",

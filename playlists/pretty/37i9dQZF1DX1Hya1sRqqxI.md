@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Hya1sRqqxI.md) - [plain]
 
 > The biggest party hits of the 1970s\. Cover: The Jacksons.
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,281 likes - 150 songs - 10 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,514 likes - 150 songs - 10 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Hya1sRqqxI.md) - [plain]
 | 32 | [T.N.T.](https://open.spotify.com/track/7LRMbd3LEoV5wZJvXT1Lwb) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [High Voltage](https://open.spotify.com/album/19AUoKWRAaQYrggVvdQnqq) | 3:34 |
 | 33 | [Gimme! Gimme! Gimme! \(A Man After Midnight\)](https://open.spotify.com/track/3vkQ5DAB1qQMYO4Mr9zJN6) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Voulez\-Vous](https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh) | 4:52 |
 | 34 | [Love Grows \(Where My Rosemary Goes\)](https://open.spotify.com/track/5Ts1DYOuouQLgzTaisxWYh) | [Edison Lighthouse](https://open.spotify.com/artist/1NRzxuPpdGushT8YmF5NAa) | [Love Grows \(Where My Rosemary Goes\) & Other Gems](https://open.spotify.com/album/4XDWk7zU6KDgLaqLxEYi8y) | 2:54 |
-| 35 | [Go Your Own Way \- 2004 Remaster](https://open.spotify.com/track/07GvNcU1WdyZJq3XxP0kZa) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours](https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB) | 3:43 |
-| 36 | [Stuck In The Middle With You](https://open.spotify.com/track/3Vby4nGmtbDo7HDJamOWkT) | [Stealers Wheel](https://open.spotify.com/artist/7bPU7cvfoD20ixGD9Qnqki) | [Stealers Wheel](https://open.spotify.com/album/5ApN9lqru1t3Xh1IaEGTll) | 3:28 |
+| 35 | [Stuck In The Middle With You](https://open.spotify.com/track/3Vby4nGmtbDo7HDJamOWkT) | [Stealers Wheel](https://open.spotify.com/artist/7bPU7cvfoD20ixGD9Qnqki) | [Stealers Wheel](https://open.spotify.com/album/5ApN9lqru1t3Xh1IaEGTll) | 3:28 |
+| 36 | [Go Your Own Way \- 2004 Remaster](https://open.spotify.com/track/07GvNcU1WdyZJq3XxP0kZa) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours](https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB) | 3:43 |
 | 37 | [Don't Stop 'Til You Get Enough](https://open.spotify.com/track/46eu3SBuFCXWsPT39Yg3tJ) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Off the Wall](https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP) | 6:05 |
 | 38 | [The Boys Are Back In Town](https://open.spotify.com/track/43DeSV93pJPT4lCZaWZ6b1) | [Thin Lizzy](https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ) | [Jailbreak \(Deluxe Edition\)](https://open.spotify.com/album/6Cf545T4jkaiyvMnTRPOB2) | 4:26 |
 | 39 | [Burning Love](https://open.spotify.com/track/7zMUCLm1TN9o9JlLISztxO) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis \(Fool\)](https://open.spotify.com/album/3gpHiNAmT5oXVxe6ewTGuN) | 2:50 |
@@ -117,8 +117,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Hya1sRqqxI.md) - [plain]
 | 107 | [One Way Ticket](https://open.spotify.com/track/68MSCSP7Y6PnzXcW1IlN7G) | [Eruption](https://open.spotify.com/artist/3R6f1aBWwde7ZqGv7hf4dY) | [4 Hits: Eruption](https://open.spotify.com/album/26BHqKni1MTqwIcdSUFLRm) | 3:33 |
 | 108 | [Bad Girls](https://open.spotify.com/track/1ibRqifchaAfeNdQGpbRVW) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [Bad Girls](https://open.spotify.com/album/58GjBhQvLHwfQFJtdP9Oxg) | 4:55 |
 | 109 | [Love Is The Drug](https://open.spotify.com/track/3wtMkvedoWMQ3XTKv7tqcZ) | [Roxy Music](https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo) | [Siren](https://open.spotify.com/album/5Tpor3YZBVEJ9tWD5L31mH) | 4:11 |
-| 110 | [I Love to Love](https://open.spotify.com/track/5jWI1xNxABzDRFTnD2yp8L) | [Tina Charles](https://open.spotify.com/artist/7Jbs4wPCLaKXPxrTxZ2zaa) | [I Love To Love \- The Best Of](https://open.spotify.com/album/4tQ54MqaSzOZmi5aL2G647) | 3:03 |
-| 111 | [Shake Your Groove Thing](https://open.spotify.com/track/5o89Bf80t8ko3uNXJkYoVs) | [Peaches & Herb](https://open.spotify.com/artist/6qI4LTzMRpTxRzMZPvv2C6) | [2 Hot!](https://open.spotify.com/album/1MzEdKoD6mxji2q7k3rRcw) | 5:46 |
+| 110 | [Shake Your Groove Thing](https://open.spotify.com/track/5o89Bf80t8ko3uNXJkYoVs) | [Peaches & Herb](https://open.spotify.com/artist/6qI4LTzMRpTxRzMZPvv2C6) | [2 Hot!](https://open.spotify.com/album/1MzEdKoD6mxji2q7k3rRcw) | 5:46 |
+| 111 | [I Love to Love](https://open.spotify.com/track/5jWI1xNxABzDRFTnD2yp8L) | [Tina Charles](https://open.spotify.com/artist/7Jbs4wPCLaKXPxrTxZ2zaa) | [I Love To Love \- The Best Of](https://open.spotify.com/album/4tQ54MqaSzOZmi5aL2G647) | 3:03 |
 | 112 | [Love Rollercoaster](https://open.spotify.com/track/1hRDHWWealh2Pk3fnpIe75) | [Ohio Players](https://open.spotify.com/artist/6m30rs1IQqnWqV5nKMpU7U) | [Honey](https://open.spotify.com/album/6cdbsUYFysGXOh5fqWpIuR) | 4:50 |
 | 113 | [Right Place Wrong Time](https://open.spotify.com/track/0I2ELF6uHlL4ABu9aFiou7) | [Dr\. John](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO) | [In The Right Place](https://open.spotify.com/album/1b1ljTXAkcugOLAHkIi7Eq) | 2:55 |
 | 114 | [Don't Leave Me This Way \(feat\. Teddy Pendergrass\)](https://open.spotify.com/track/4vYauy3ABO65vTXggGYaZg) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Wake Up Everybody \(feat\. Teddy Pendergrass\)](https://open.spotify.com/album/1Wb0jUJH0wKwtqhfwoclU0) | 6:03 |
@@ -136,10 +136,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Hya1sRqqxI.md) - [plain]
 | 126 | [You Should Be Dancing](https://open.spotify.com/track/4T5Y25pWs2pVZVcFIqFuf8) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [The Ultimate Bee Gees](https://open.spotify.com/album/5GucSY3249qHDx4v1Hcxry) | 4:16 |
 | 127 | [Boogie Nights](https://open.spotify.com/track/4NTSDu34al733aIuUWVJHo) | [Heatwave](https://open.spotify.com/artist/6D7h7R79IZjqJC2GM2wzyY) | [Too Hot to Handle \(Expanded Edition\)](https://open.spotify.com/album/1QeIO9ArYBB9vLiODTtWy8) | 5:03 |
 | 128 | [Rock Me Gently](https://open.spotify.com/track/2qh2VGAOYFXLsMbdATRf6w) | [Andy Kim](https://open.spotify.com/artist/5MYBNUKoFf9LAg30ByaBli) | [Greatest Hits](https://open.spotify.com/album/1yBUWYxGG5j1fjzSkrMY0C) | 3:28 |
-| 129 | [And the Beat Goes On](https://open.spotify.com/track/5rc28C9Ym7zIAypx3QGcnv) | [The Whispers](https://open.spotify.com/artist/2XzHxDFTNywDd5ReMhgxkg) | [The Whispers / Happy Holidays to You](https://open.spotify.com/album/17Rg4iNDr5gncTwj8zTvUo) | 4:56 |
-| 130 | [Nutbush City Limits](https://open.spotify.com/track/2ktaHXmUWb5fcHqoevvHgg) | [Ike & Tina Turner](https://open.spotify.com/artist/1ZikppG9dPedbIgMfnfx8k) | [Nutbush City Limits](https://open.spotify.com/album/5WYReWrElVmpCzIJuHNRGO) | 2:57 |
-| 131 | [Boogie Oogie Oogie \- Remastered 2004](https://open.spotify.com/track/07NrCEN3egNvw8td2LxqJO) | [A Taste Of Honey](https://open.spotify.com/artist/1ii6e2pv8VIRwnTER71rMl) | [A Taste Of Honey](https://open.spotify.com/album/4QJA3YXQdpLhuIztkSgrpo) | 5:38 |
-| 132 | [In the Navy \- Original Version 1979](https://open.spotify.com/track/4mjFMScEvHeM72791mXRCW) | [Village People](https://open.spotify.com/artist/0dCKce6tJJdHvlWnDMwzPW) | [Go West In the Navy](https://open.spotify.com/album/3iF4amlNW1yd9DoZ9WOD1i) | 5:39 |
+| 129 | [Nutbush City Limits](https://open.spotify.com/track/2ktaHXmUWb5fcHqoevvHgg) | [Ike & Tina Turner](https://open.spotify.com/artist/1ZikppG9dPedbIgMfnfx8k) | [Nutbush City Limits](https://open.spotify.com/album/5WYReWrElVmpCzIJuHNRGO) | 2:57 |
+| 130 | [And the Beat Goes On](https://open.spotify.com/track/5rc28C9Ym7zIAypx3QGcnv) | [The Whispers](https://open.spotify.com/artist/2XzHxDFTNywDd5ReMhgxkg) | [The Whispers / Happy Holidays to You](https://open.spotify.com/album/17Rg4iNDr5gncTwj8zTvUo) | 4:56 |
+| 131 | [In the Navy \- Original Version 1979](https://open.spotify.com/track/4mjFMScEvHeM72791mXRCW) | [Village People](https://open.spotify.com/artist/0dCKce6tJJdHvlWnDMwzPW) | [Go West In the Navy](https://open.spotify.com/album/3iF4amlNW1yd9DoZ9WOD1i) | 5:39 |
+| 132 | [Boogie Oogie Oogie \- Remastered 2004](https://open.spotify.com/track/07NrCEN3egNvw8td2LxqJO) | [A Taste Of Honey](https://open.spotify.com/artist/1ii6e2pv8VIRwnTER71rMl) | [A Taste Of Honey](https://open.spotify.com/album/4QJA3YXQdpLhuIztkSgrpo) | 5:38 |
 | 133 | [If You Can't Give Me Love \- 2017 Remaster](https://open.spotify.com/track/45JKOZUyOFoLhmEltJFEeW) | [Suzi Quatro](https://open.spotify.com/artist/15jHZ1EZwmm2QDjKctvqJQ) | [If You Knew Suzi… \(2017 Remaster\)](https://open.spotify.com/album/3li6vNhRkVvZCAKzlMD0uI) | 3:52 |
 | 134 | [Travelin' Band](https://open.spotify.com/track/0INUNNYfsp4qr6kJdY46mY) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Cosmo's Factory \(Expanded Edition\)](https://open.spotify.com/album/4GLxEXWI3JiRKp6H7bfTIK) | 2:07 |
 | 135 | [I'm Gonna Love You Just A Little More Baby](https://open.spotify.com/track/1QR3Wcba5NBidmxEE8DW3w) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [I've Got So Much To Give](https://open.spotify.com/album/0ldkrsBFHXhKHlynq8tJVI) | 7:11 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Hya1sRqqxI.md) - [plain]
 | 149 | [Loves Me Like a Rock](https://open.spotify.com/track/5F4ksIKmuXEtgBf6SfEQRr) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [There Goes Rhymin' Simon](https://open.spotify.com/album/50pzpI17hwQj7LKcOiLMFD) | 3:33 |
 | 150 | [Dazz \- Single Version](https://open.spotify.com/track/5gQCUf4lfy6GpuhdPzxQ6B) | [Brick](https://open.spotify.com/artist/4Uv0Jg45Oq7vBXXwQNhXyf) | [Super Hits](https://open.spotify.com/album/0NQ5vEtFfn6MDbFtNk3gUQ) | 3:22 |
 
-Snapshot ID: `MTY2MDIwNDI2NywwMDAwMDAwMGM5MTU0NjM5NTliMTM0YzM3MTEzZTE2ZTFmYzQ1YzI5`
+Snapshot ID: `MTY2MDIwNDI2NywwMDAwMDAwMGJkNzZlMWZjYzYxMDliNjg4YTdhNjE2NGJiNDM0YzMw`

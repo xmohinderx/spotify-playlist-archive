@@ -1,12 +1,12 @@
 {
   "description": "Welcome to the underground ",
-  "num_followers": 126656,
+  "num_followers": 126994,
   "original_name": "The Skate Shop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMDYxZmFkYWFmZTU1OTRiMzRmZGUyNTkxNzJlOWEyOWQz",
+  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMGVmOWFiOTBiZTA3YmFjYWNjOTIxNzM5MjU3YzA4MTYw",
   "tracks": [
     {
       "added_at": "2022-09-09 04:01:00",
@@ -701,6 +701,22 @@
       "url": "https://open.spotify.com/track/1KQymTxNJfWk6vCD5ywKW2"
     },
     {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
+        "name": "Buttons",
+        "url": "https://open.spotify.com/album/7GrWzoQHbx463gP1E6HFSp"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 228440,
+      "name": "Buttons",
+      "url": "https://open.spotify.com/track/0ZBchpb4CLk5Qqu3895Etp"
+    },
+    {
       "added_at": "2022-08-12 12:00:00",
       "album": {
         "name": "Strangers (feat. A$AP Rocky and Run The Jewels)",
@@ -727,22 +743,6 @@
       "duration_ms": 248000,
       "name": "Strangers (feat. A$AP Rocky and Run The Jewels)",
       "url": "https://open.spotify.com/track/5iP1KNUxchR64bieN9pE7z"
-    },
-    {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
-        "name": "Buttons",
-        "url": "https://open.spotify.com/album/7GrWzoQHbx463gP1E6HFSp"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 228440,
-      "name": "Buttons",
-      "url": "https://open.spotify.com/track/0ZBchpb4CLk5Qqu3895Etp"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -1047,18 +1047,22 @@
     {
       "added_at": "2022-05-10 19:26:35",
       "album": {
-        "name": "Da Dirty 30",
-        "url": "https://open.spotify.com/album/38qjFxaMcaV2ldcjFAxsus"
+        "name": "This Thing Of Ours 2",
+        "url": "https://open.spotify.com/album/0bFVjwPABfPBSWimES0TJ6"
       },
       "artists": [
         {
-          "name": "Cru",
-          "url": "https://open.spotify.com/artist/5ABjqwkg5LEPICnTeoeXKf"
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        },
+        {
+          "name": "Vince Staples",
+          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
         }
       ],
-      "duration_ms": 215640,
-      "name": "Just Another Case",
-      "url": "https://open.spotify.com/track/60KWmDnLE9jB9dHVkhlu3P"
+      "duration_ms": 114092,
+      "name": "6 Five Heartbeats (feat. Vince Staples)",
+      "url": "https://open.spotify.com/track/5psl7bZImUdYdKfajE2r2v"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -1079,22 +1083,18 @@
     {
       "added_at": "2022-05-10 19:26:35",
       "album": {
-        "name": "This Thing Of Ours 2",
-        "url": "https://open.spotify.com/album/0bFVjwPABfPBSWimES0TJ6"
+        "name": "Da Dirty 30",
+        "url": "https://open.spotify.com/album/38qjFxaMcaV2ldcjFAxsus"
       },
       "artists": [
         {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
-        },
-        {
-          "name": "Vince Staples",
-          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
+          "name": "Cru",
+          "url": "https://open.spotify.com/artist/5ABjqwkg5LEPICnTeoeXKf"
         }
       ],
-      "duration_ms": 114092,
-      "name": "6 Five Heartbeats (feat. Vince Staples)",
-      "url": "https://open.spotify.com/track/5psl7bZImUdYdKfajE2r2v"
+      "duration_ms": 215640,
+      "name": "Just Another Case",
+      "url": "https://open.spotify.com/track/60KWmDnLE9jB9dHVkhlu3P"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -1173,26 +1173,6 @@
       "url": "https://open.spotify.com/track/5miJWaIbJqBnoybPj4B5ys"
     },
     {
-      "added_at": "2022-05-13 12:00:00",
-      "album": {
-        "name": "Bandana",
-        "url": "https://open.spotify.com/album/31KbO7WnDp2AjPdmRTJzdf"
-      },
-      "artists": [
-        {
-          "name": "Freddie Gibbs",
-          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
-        },
-        {
-          "name": "Madlib",
-          "url": "https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf"
-        }
-      ],
-      "duration_ms": 219826,
-      "name": "Cataracts",
-      "url": "https://open.spotify.com/track/4SN5Kkig8iJ8vdwsOoP7IO"
-    },
-    {
       "added_at": "2022-05-10 19:26:35",
       "album": {
         "name": "This Thing Of Ours",
@@ -1215,6 +1195,26 @@
       "duration_ms": 177373,
       "name": "TV Dinners (feat. Boldy James & Sideshow)",
       "url": "https://open.spotify.com/track/706NuVviwPA1BBI2XkDui5"
+    },
+    {
+      "added_at": "2022-05-13 12:00:00",
+      "album": {
+        "name": "Bandana",
+        "url": "https://open.spotify.com/album/31KbO7WnDp2AjPdmRTJzdf"
+      },
+      "artists": [
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        },
+        {
+          "name": "Madlib",
+          "url": "https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf"
+        }
+      ],
+      "duration_ms": 219826,
+      "name": "Cataracts",
+      "url": "https://open.spotify.com/track/4SN5Kkig8iJ8vdwsOoP7IO"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -1261,22 +1261,6 @@
       "url": "https://open.spotify.com/track/5tPJshNuM5N7Pb9tDDg7H1"
     },
     {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
-        "name": "Apt. 505",
-        "url": "https://open.spotify.com/album/2f9OKBlHW6ZcJ11cutOCGf"
-      },
-      "artists": [
-        {
-          "name": "Coast Contra",
-          "url": "https://open.spotify.com/artist/4xZTKft62AsF0SC3rAuYwJ"
-        }
-      ],
-      "duration_ms": 256595,
-      "name": "Pimpin' Benjamin",
-      "url": "https://open.spotify.com/track/6ARnCOTlWlCroasGYHAFNi"
-    },
-    {
       "added_at": "2022-09-09 04:01:00",
       "album": {
         "name": "Flying High",
@@ -1307,6 +1291,22 @@
       "duration_ms": 225303,
       "name": "Kool",
       "url": "https://open.spotify.com/track/5YkeyUlwClpOR8297j0uK8"
+    },
+    {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
+        "name": "Apt. 505",
+        "url": "https://open.spotify.com/album/2f9OKBlHW6ZcJ11cutOCGf"
+      },
+      "artists": [
+        {
+          "name": "Coast Contra",
+          "url": "https://open.spotify.com/artist/4xZTKft62AsF0SC3rAuYwJ"
+        }
+      ],
+      "duration_ms": 256595,
+      "name": "Pimpin' Benjamin",
+      "url": "https://open.spotify.com/track/6ARnCOTlWlCroasGYHAFNi"
     },
     {
       "added_at": "2022-05-27 12:00:00",
@@ -1461,22 +1461,6 @@
       "url": "https://open.spotify.com/track/3jj5c4DGogPb9xglsxl4BI"
     },
     {
-      "added_at": "2022-08-12 12:00:00",
-      "album": {
-        "name": "I'll Fight You",
-        "url": "https://open.spotify.com/album/67n4uk6Rlej4tIZPmrQSrK"
-      },
-      "artists": [
-        {
-          "name": "Open Mike Eagle",
-          "url": "https://open.spotify.com/artist/5CuU6SRJjbbZL926nSGGxX"
-        }
-      ],
-      "duration_ms": 163058,
-      "name": "I'll Fight You",
-      "url": "https://open.spotify.com/track/44ii9mr7Daywg6pdq7S3NW"
-    },
-    {
       "added_at": "2022-05-10 19:26:35",
       "album": {
         "name": "Faygo Baby",
@@ -1491,6 +1475,22 @@
       "duration_ms": 202193,
       "name": "Faygo Baby",
       "url": "https://open.spotify.com/track/7FShuykT2X15PNUHBBWbGP"
+    },
+    {
+      "added_at": "2022-08-12 12:00:00",
+      "album": {
+        "name": "I'll Fight You",
+        "url": "https://open.spotify.com/album/67n4uk6Rlej4tIZPmrQSrK"
+      },
+      "artists": [
+        {
+          "name": "Open Mike Eagle",
+          "url": "https://open.spotify.com/artist/5CuU6SRJjbbZL926nSGGxX"
+        }
+      ],
+      "duration_ms": 163058,
+      "name": "I'll Fight You",
+      "url": "https://open.spotify.com/track/44ii9mr7Daywg6pdq7S3NW"
     },
     {
       "added_at": "2022-05-13 12:00:00",
@@ -1553,26 +1553,6 @@
       "url": "https://open.spotify.com/track/4GdKi4F976XGtr8hedHEro"
     },
     {
-      "added_at": "2022-08-05 12:00:00",
-      "album": {
-        "name": "Intros, Outros & Interludes",
-        "url": "https://open.spotify.com/album/6EPg4n0tIsQpXmfAnpLHzq"
-      },
-      "artists": [
-        {
-          "name": "Domo Genesis",
-          "url": "https://open.spotify.com/artist/6vHBuUxrcpn1do5UaEJ7g6"
-        },
-        {
-          "name": "Evidence",
-          "url": "https://open.spotify.com/artist/6VfeYClQyVUCPJdXb9jl3O"
-        }
-      ],
-      "duration_ms": 148653,
-      "name": "Victories & Losses",
-      "url": "https://open.spotify.com/track/2K6ZrSKialsq4WWq4Em7xk"
-    },
-    {
       "added_at": "2022-05-10 19:26:35",
       "album": {
         "name": "Cocodrillo Turbo",
@@ -1591,6 +1571,26 @@
       "duration_ms": 220693,
       "name": "Turkish [Feat. Meyhem Lauren]",
       "url": "https://open.spotify.com/track/3RkZ88ENyaY9WRC2yMAUQ0"
+    },
+    {
+      "added_at": "2022-08-05 12:00:00",
+      "album": {
+        "name": "Intros, Outros & Interludes",
+        "url": "https://open.spotify.com/album/6EPg4n0tIsQpXmfAnpLHzq"
+      },
+      "artists": [
+        {
+          "name": "Domo Genesis",
+          "url": "https://open.spotify.com/artist/6vHBuUxrcpn1do5UaEJ7g6"
+        },
+        {
+          "name": "Evidence",
+          "url": "https://open.spotify.com/artist/6VfeYClQyVUCPJdXb9jl3O"
+        }
+      ],
+      "duration_ms": 148653,
+      "name": "Victories & Losses",
+      "url": "https://open.spotify.com/track/2K6ZrSKialsq4WWq4Em7xk"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -1633,6 +1633,22 @@
       "url": "https://open.spotify.com/track/7tTwAwHz8pDZOt2WVI8fmH"
     },
     {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
+        "name": "Makeda",
+        "url": "https://open.spotify.com/album/3Kv2GCEL4KCLHzXsNajCBi"
+      },
+      "artists": [
+        {
+          "name": "MIKE",
+          "url": "https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU"
+        }
+      ],
+      "duration_ms": 96067,
+      "name": "Makeda",
+      "url": "https://open.spotify.com/track/32vb0qbbgiZbOkl2N22rIK"
+    },
+    {
       "added_at": "2022-07-15 12:00:00",
       "album": {
         "name": "The Return Of Sasquatch",
@@ -1651,22 +1667,6 @@
       "duration_ms": 118126,
       "name": "The Return Of Sasquatch",
       "url": "https://open.spotify.com/track/5ME1N55LXNNEx9SP5s1rRv"
-    },
-    {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
-        "name": "Makeda",
-        "url": "https://open.spotify.com/album/3Kv2GCEL4KCLHzXsNajCBi"
-      },
-      "artists": [
-        {
-          "name": "MIKE",
-          "url": "https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU"
-        }
-      ],
-      "duration_ms": 96067,
-      "name": "Makeda",
-      "url": "https://open.spotify.com/track/32vb0qbbgiZbOkl2N22rIK"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -1709,6 +1709,22 @@
       "url": "https://open.spotify.com/track/73Dlr72hp7aI3wTpp5tftn"
     },
     {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
+        "name": "Fantastic, Vol. 2.10",
+        "url": "https://open.spotify.com/album/3bF7UefpUmG1BAriPPLLez"
+      },
+      "artists": [
+        {
+          "name": "Slum Village",
+          "url": "https://open.spotify.com/artist/1020a42xVklY6c56imNcaa"
+        }
+      ],
+      "duration_ms": 209119,
+      "name": "Hustle",
+      "url": "https://open.spotify.com/track/0Q5lwuDqIW85PupgHFJwVb"
+    },
+    {
       "added_at": "2022-09-09 04:01:00",
       "album": {
         "name": "Dollar Menu 4",
@@ -1731,38 +1747,6 @@
       "duration_ms": 226091,
       "name": "4 Piece(s)",
       "url": "https://open.spotify.com/track/7mYCIIPDmDiFqW3YFHdE6D"
-    },
-    {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
-        "name": "Fantastic, Vol. 2.10",
-        "url": "https://open.spotify.com/album/3bF7UefpUmG1BAriPPLLez"
-      },
-      "artists": [
-        {
-          "name": "Slum Village",
-          "url": "https://open.spotify.com/artist/1020a42xVklY6c56imNcaa"
-        }
-      ],
-      "duration_ms": 209119,
-      "name": "Hustle",
-      "url": "https://open.spotify.com/track/0Q5lwuDqIW85PupgHFJwVb"
-    },
-    {
-      "added_at": "2022-08-05 12:00:00",
-      "album": {
-        "name": "50K or Brunch",
-        "url": "https://open.spotify.com/album/2nQwGLF2oQfLuy5I0i9DqE"
-      },
-      "artists": [
-        {
-          "name": "Your Old Droog",
-          "url": "https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp"
-        }
-      ],
-      "duration_ms": 158386,
-      "name": "50K or Brunch",
-      "url": "https://open.spotify.com/track/3Ibuz2B3qy9a6EJBdwC8UV"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -1829,20 +1813,20 @@
       "url": "https://open.spotify.com/track/6RwVEhegJzYvwGwt8U7hZW"
     },
     {
-      "added_at": "2022-05-10 19:26:35",
+      "added_at": "2022-08-05 12:00:00",
       "album": {
-        "name": "Balens Cho (Hot Candles)",
-        "url": "https://open.spotify.com/album/3lYDlFILOCtV39ompt2uRs"
+        "name": "50K or Brunch",
+        "url": "https://open.spotify.com/album/2nQwGLF2oQfLuy5I0i9DqE"
       },
       "artists": [
         {
-          "name": "Mach-Hommy",
-          "url": "https://open.spotify.com/artist/3ZMur3elMyOs248ah86NRk"
+          "name": "Your Old Droog",
+          "url": "https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp"
         }
       ],
-      "duration_ms": 168000,
-      "name": "LABOU",
-      "url": "https://open.spotify.com/track/2CQ4d1BuBN0ordQlCgJxT8"
+      "duration_ms": 158386,
+      "name": "50K or Brunch",
+      "url": "https://open.spotify.com/track/3Ibuz2B3qy9a6EJBdwC8UV"
     },
     {
       "added_at": "2022-07-22 04:00:00",
@@ -1869,28 +1853,20 @@
       "url": "https://open.spotify.com/track/42BRNhLPYuzKz0gHSwRX8m"
     },
     {
-      "added_at": "2022-07-29 12:00:00",
+      "added_at": "2022-05-10 19:26:35",
       "album": {
-        "name": "Morning Glory",
-        "url": "https://open.spotify.com/album/6JsKd55kYxqe4J9itPHEK0"
+        "name": "Balens Cho (Hot Candles)",
+        "url": "https://open.spotify.com/album/3lYDlFILOCtV39ompt2uRs"
       },
       "artists": [
         {
-          "name": "Mega Ran",
-          "url": "https://open.spotify.com/artist/2mCmDragybleJXqTqsOk5I"
-        },
-        {
-          "name": "Noveliss",
-          "url": "https://open.spotify.com/artist/1UGDRPJLpMkqbtvPtH4hxG"
-        },
-        {
-          "name": "Substantial",
-          "url": "https://open.spotify.com/artist/5FmThJ74ycmeBdQnu4Cfcw"
+          "name": "Mach-Hommy",
+          "url": "https://open.spotify.com/artist/3ZMur3elMyOs248ah86NRk"
         }
       ],
-      "duration_ms": 260062,
-      "name": "Morning Glory",
-      "url": "https://open.spotify.com/track/5ZrvXAqXaFW1MJe0xkgDbh"
+      "duration_ms": 168000,
+      "name": "LABOU",
+      "url": "https://open.spotify.com/track/2CQ4d1BuBN0ordQlCgJxT8"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -1913,10 +1889,10 @@
       "url": "https://open.spotify.com/track/6eeG2PFxH0rFmLoK3hGGZH"
     },
     {
-      "added_at": "2022-07-29 12:00:00",
+      "added_at": "2022-07-08 12:00:00",
       "album": {
-        "name": "MEMO",
-        "url": "https://open.spotify.com/album/6LiZ2IqRLAb9uqz6NEMsdT"
+        "name": "Lyrics to GO, Vol. 3",
+        "url": "https://open.spotify.com/album/6uQIKqptioiaZyCyOBTKJv"
       },
       "artists": [
         {
@@ -1924,9 +1900,33 @@
           "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
         }
       ],
-      "duration_ms": 174401,
-      "name": "GOOD TO BE HOME II",
-      "url": "https://open.spotify.com/track/2BcHRkwWWAcucXyFlI8kDA"
+      "duration_ms": 68830,
+      "name": "Cherry Beach",
+      "url": "https://open.spotify.com/track/5E4saQ3z3Dwj1vpauqEqsL"
+    },
+    {
+      "added_at": "2022-07-29 12:00:00",
+      "album": {
+        "name": "Morning Glory",
+        "url": "https://open.spotify.com/album/6JsKd55kYxqe4J9itPHEK0"
+      },
+      "artists": [
+        {
+          "name": "Mega Ran",
+          "url": "https://open.spotify.com/artist/2mCmDragybleJXqTqsOk5I"
+        },
+        {
+          "name": "Noveliss",
+          "url": "https://open.spotify.com/artist/1UGDRPJLpMkqbtvPtH4hxG"
+        },
+        {
+          "name": "Substantial",
+          "url": "https://open.spotify.com/artist/5FmThJ74ycmeBdQnu4Cfcw"
+        }
+      ],
+      "duration_ms": 260062,
+      "name": "Morning Glory",
+      "url": "https://open.spotify.com/track/5ZrvXAqXaFW1MJe0xkgDbh"
     },
     {
       "added_at": "2022-05-20 12:00:00",

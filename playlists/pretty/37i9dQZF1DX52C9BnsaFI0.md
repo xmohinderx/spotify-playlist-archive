@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52C9BnsaFI0.md) - [plain]
 
 > 70s rock to fuel your ride\. Cover: Aerosmith
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,199 likes - 70 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,415 likes - 70 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,19 +55,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52C9BnsaFI0.md) - [plain]
 | 45 | [Running on Empty](https://open.spotify.com/track/6aqm56xP40foYBBtAWWrnY) | [Jackson Browne](https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m) | [Running on Empty / Nothing but Time \(Digital 45\)](https://open.spotify.com/album/5ivr226sTfgyZMeWnQjKRL) | 4:51 |
 | 46 | [Hollywood Nights](https://open.spotify.com/track/5VbePtZp1at8gH990zVyTI) | [Bob Seger](https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ) | [Stranger In Town](https://open.spotify.com/album/1vhib5WLHRVdOpRjiTHk15) | 5:02 |
 | 47 | [Have You Ever Seen The Rain](https://open.spotify.com/track/5DnT9a5IM3eMjKgXTWVJvi) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Pendulum](https://open.spotify.com/album/3tbpe74iBR23O8uiQlLrXC) | 2:40 |
-| 48 | [Thunder Road](https://open.spotify.com/track/56lhDZNQ5J47aog6mGKeGk) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born To Run](https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu) | 4:48 |
-| 49 | [China Grove](https://open.spotify.com/track/7cy1bEJV6FCtDaYpsk8aG6) | [The Doobie Brothers](https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz) | [The Captain and Me](https://open.spotify.com/album/0M2KWMbvY5x1sUnIKNpyUt) | 3:15 |
+| 48 | [China Grove](https://open.spotify.com/track/7cy1bEJV6FCtDaYpsk8aG6) | [The Doobie Brothers](https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz) | [The Captain and Me](https://open.spotify.com/album/0M2KWMbvY5x1sUnIKNpyUt) | 3:15 |
+| 49 | [Thunder Road](https://open.spotify.com/track/56lhDZNQ5J47aog6mGKeGk) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born To Run](https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu) | 4:48 |
 | 50 | [Wheel in the Sky](https://open.spotify.com/track/215wUTQQUo2PElJFEFoB0d) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Infinity](https://open.spotify.com/album/7K4Nk5fHkCuzNm5A6mdo2U) | 4:12 |
 | 51 | [Breakdown](https://open.spotify.com/track/5x53pbGk6sbl1BGom19QQ5) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Tom Petty & The Heartbreakers](https://open.spotify.com/album/6TLTd0P2CUI0Q29AQ1LyFi) | 2:43 |
 | 52 | [Foreplay / Long Time](https://open.spotify.com/track/39C5FuZ8C8M0QI8CrMsPkR) | [Boston](https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK) | [Boston](https://open.spotify.com/album/2QLp07RO6anZHmtcKTEvSC) | 7:47 |
-| 53 | [Bang a Gong \(Get It On\) \- 2003 Remaster](https://open.spotify.com/track/6FsQrRpBLgsrFeAeiQqytm) | [T\. Rex](https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin) | [Electric Warrior \[Expanded & Remastered\]](https://open.spotify.com/album/6k1iylSzWOs7SgavxlJ8kt) | 4:27 |
-| 54 | [Blinded By The Light](https://open.spotify.com/track/7kNNylJ1kswWbHeRM6UDuE) | [Manfred Mann's Earth Band](https://open.spotify.com/artist/2utNxkLhreF1oIfO8kQT3q) | [The Roaring Silence](https://open.spotify.com/album/1qVP93dewrI7bukJAFPIvV) | 7:08 |
+| 53 | [Blinded By The Light](https://open.spotify.com/track/7kNNylJ1kswWbHeRM6UDuE) | [Manfred Mann's Earth Band](https://open.spotify.com/artist/2utNxkLhreF1oIfO8kQT3q) | [The Roaring Silence](https://open.spotify.com/album/1qVP93dewrI7bukJAFPIvV) | 7:08 |
+| 54 | [Bang a Gong \(Get It On\) \- 2003 Remaster](https://open.spotify.com/track/6FsQrRpBLgsrFeAeiQqytm) | [T\. Rex](https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin) | [Electric Warrior \[Expanded & Remastered\]](https://open.spotify.com/album/6k1iylSzWOs7SgavxlJ8kt) | 4:27 |
 | 55 | [Jailbreak](https://open.spotify.com/track/4qbiCq2xkNPyojuZFeNeqx) | [Thin Lizzy](https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ) | [Jailbreak \(Deluxe Edition\)](https://open.spotify.com/album/6Cf545T4jkaiyvMnTRPOB2) | 4:00 |
 | 56 | [Free Ride](https://open.spotify.com/track/4DhbiXEuV7JxSR0wuqetTa) | [The Edgar Winter Group](https://open.spotify.com/artist/7j9PMegEgVN1fNp8NZXNCI) | [They Only Come Out At Night](https://open.spotify.com/album/4CNEJF5wYGqhOYEKq8ciu8) | 3:07 |
 | 57 | [Good Times Roll](https://open.spotify.com/track/7hVhRCDV100Jq26NGR7adw) | [The Cars](https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp) | [The Cars](https://open.spotify.com/album/4tJPWT4r4FSKwy784Qs1Fq) | 3:45 |
 | 58 | [Lights](https://open.spotify.com/track/7EHmKkyAr6MZv5Y2FdZbXw) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Infinity](https://open.spotify.com/album/7K4Nk5fHkCuzNm5A6mdo2U) | 3:10 |
-| 59 | [Fly By Night](https://open.spotify.com/track/54TaGh2JKs1pO9daXNXI5q) | [Rush](https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq) | [Fly By Night](https://open.spotify.com/album/3ZtICWkqezf0bBTUwY1Khe) | 3:22 |
-| 60 | [Suffragette City \- 2012 Remaster](https://open.spotify.com/track/3YZa4IzxK2UtEKTvdTgsi8) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [The Rise and Fall of Ziggy Stardust and the Spiders from Mars \(2012 Remaster\)](https://open.spotify.com/album/48D1hRORqJq52qsnUYZX56) | 3:28 |
+| 59 | [Suffragette City \- 2012 Remaster](https://open.spotify.com/track/3YZa4IzxK2UtEKTvdTgsi8) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [The Rise and Fall of Ziggy Stardust and the Spiders from Mars \(2012 Remaster\)](https://open.spotify.com/album/48D1hRORqJq52qsnUYZX56) | 3:28 |
+| 60 | [Fly By Night](https://open.spotify.com/track/54TaGh2JKs1pO9daXNXI5q) | [Rush](https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq) | [Fly By Night](https://open.spotify.com/album/3ZtICWkqezf0bBTUwY1Khe) | 3:22 |
 | 61 | [Refugee](https://open.spotify.com/track/4mcZYzoGwPRDdhWVlygiHf) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Damn The Torpedoes \(Deluxe Edition\)](https://open.spotify.com/album/708Whrc4abJEtqBINv9S2b) | 3:21 |
 | 62 | [Funk \#49](https://open.spotify.com/track/5h6SovHOYpIMlAkafxcbq3) | [James Gang](https://open.spotify.com/artist/5hfOHpGMsi8O3DA0ROLGqF) | [Rides Again](https://open.spotify.com/album/0FHtUmahwAambT6S4boSP0) | 4:06 |
 | 63 | [Baby Hold On](https://open.spotify.com/track/5ZYvcJ04ccUw2Matbnmu0U) | [Eddie Money](https://open.spotify.com/artist/4Tw2N3wdvJPGEU7JqMxFfE) | [Eddie Money](https://open.spotify.com/album/5gMrkmI53zEn98WDwU0iye) | 3:30 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52C9BnsaFI0.md) - [plain]
 | 66 | [You're No Good](https://open.spotify.com/track/23DZLSxCK6kM8FF2RlzKDl) | [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc) | [Heart Like A Wheel](https://open.spotify.com/album/7upKDUGJUjsvfIe6vuVB0b) | 3:44 |
 | 67 | [Domino \- 1999 Remaster](https://open.spotify.com/track/0eti3iRdEgUxwcIcN2N9DY) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [His Band and the Street Choir](https://open.spotify.com/album/3YdFToTF5Mr2HLx7zRUIQA) | 3:09 |
 | 68 | [Lawyers, Guns and Money \- 2007 Remaster](https://open.spotify.com/track/64dHj8ZxaI2Wj0brEehVMN) | [Warren Zevon](https://open.spotify.com/artist/3mY9Ii0cL5SQxpOTAm8SHx) | [Excitable Boy](https://open.spotify.com/album/03WJAI8NnJHvCNqnlLw8kg) | 3:30 |
-| 69 | [Can't Get Enough \- 2015 Remaster](https://open.spotify.com/track/6n5lHdpuBDdA7pYDpiKzEI) | [Bad Company](https://open.spotify.com/artist/5AEG63ajney2BoDXi0Vb84) | [Bad Company \(Deluxe\)](https://open.spotify.com/album/4fuDpBLCt9ChDlqw48bj7p) | 4:16 |
-| 70 | [The Bitch Is Back](https://open.spotify.com/track/40tnCfx2mTtHozyaRDcYC5) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Caribou](https://open.spotify.com/album/2R5dzEQT6MDsnwiZSpWgqC) | 3:44 |
+| 69 | [The Bitch Is Back](https://open.spotify.com/track/40tnCfx2mTtHozyaRDcYC5) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Caribou](https://open.spotify.com/album/2R5dzEQT6MDsnwiZSpWgqC) | 3:44 |
+| 70 | [Can't Get Enough \- 2015 Remaster](https://open.spotify.com/track/6n5lHdpuBDdA7pYDpiKzEI) | [Bad Company](https://open.spotify.com/artist/5AEG63ajney2BoDXi0Vb84) | [Bad Company \(Deluxe\)](https://open.spotify.com/album/4fuDpBLCt9ChDlqw48bj7p) | 4:16 |
 
-Snapshot ID: `MTY1NjUxOTY2MywwMDAwMDAwMGYwYTc2MmNjMzBiMDM2Y2Q1YTAzODRhMzI1ZDJmMzMz`
+Snapshot ID: `MTY1NjUxOTY2MywwMDAwMDAwMGY1Y2ZlMWMyMjVjYmI0YTkyOGI3MWZlNTlhZDRmNTQ3`

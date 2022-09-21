@@ -1,12 +1,12 @@
 {
   "description": "The best in alt, folk, and indie rock. Cover: Caamp\n",
-  "num_followers": 460337,
+  "num_followers": 460363,
   "original_name": "Rockin' Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTcxMzg1MSwwMDAwMDAwMDcwM2M2Y2E1MDRlMTk2MjUyMTVkNjlmNGE1ZmYzNWE0",
+  "snapshot_id": "MTY2MTcxMzg1MSwwMDAwMDAwMDM0Y2RiYzIwNTE4MTE0ODVhZmQxYTYwMTQwNmEyNjlk",
   "tracks": [
     {
       "added_at": "2022-08-28 19:10:51",
@@ -319,22 +319,6 @@
     {
       "added_at": "2022-08-28 19:10:51",
       "album": {
-        "name": "Sticking With It",
-        "url": "https://open.spotify.com/album/4lcsKKAPES2jYFmtSyRH95"
-      },
-      "artists": [
-        {
-          "name": "The Dip",
-          "url": "https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn"
-        }
-      ],
-      "duration_ms": 156173,
-      "name": "Paddle to the Stars",
-      "url": "https://open.spotify.com/track/0N3Gc2K38RkddGTWbFy2lD"
-    },
-    {
-      "added_at": "2022-08-28 19:10:51",
-      "album": {
         "name": "Virginia (Wind In The Night)",
         "url": "https://open.spotify.com/album/0NgrmQ40zdQLLqZF09wiIx"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 205293,
       "name": "Virginia (Wind In The Night)",
       "url": "https://open.spotify.com/track/03gx5xXMcfEK7ZnOHsjvJL"
+    },
+    {
+      "added_at": "2022-08-28 19:10:51",
+      "album": {
+        "name": "Sticking With It",
+        "url": "https://open.spotify.com/album/4lcsKKAPES2jYFmtSyRH95"
+      },
+      "artists": [
+        {
+          "name": "The Dip",
+          "url": "https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn"
+        }
+      ],
+      "duration_ms": 156173,
+      "name": "Paddle to the Stars",
+      "url": "https://open.spotify.com/track/0N3Gc2K38RkddGTWbFy2lD"
     },
     {
       "added_at": "2022-08-28 19:10:51",
@@ -531,22 +531,6 @@
     {
       "added_at": "2022-08-28 19:10:51",
       "album": {
-        "name": "Everything Will Be Ok Eventually",
-        "url": "https://open.spotify.com/album/3akwfKkhkypQRsK18KURaA"
-      },
-      "artists": [
-        {
-          "name": "Michigander",
-          "url": "https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu"
-        }
-      ],
-      "duration_ms": 294071,
-      "name": "Better",
-      "url": "https://open.spotify.com/track/2C93EaiXnfll8oL9TWqQTA"
-    },
-    {
-      "added_at": "2022-08-28 19:10:51",
-      "album": {
         "name": "It's Alright",
         "url": "https://open.spotify.com/album/5sxieYVKKC6kvgIdKmByyI"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 248210,
       "name": "It's Alright",
       "url": "https://open.spotify.com/track/67LEdY2HlgEWNnrdaPyYpK"
+    },
+    {
+      "added_at": "2022-08-28 19:10:51",
+      "album": {
+        "name": "Everything Will Be Ok Eventually",
+        "url": "https://open.spotify.com/album/3akwfKkhkypQRsK18KURaA"
+      },
+      "artists": [
+        {
+          "name": "Michigander",
+          "url": "https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu"
+        }
+      ],
+      "duration_ms": 294071,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/2C93EaiXnfll8oL9TWqQTA"
     },
     {
       "added_at": "2022-08-28 19:10:51",
@@ -627,22 +627,6 @@
     {
       "added_at": "2022-08-28 19:10:51",
       "album": {
-        "name": "The Tipping Point",
-        "url": "https://open.spotify.com/album/6xKxlHD3mWkKoMtl3ZVyLt"
-      },
-      "artists": [
-        {
-          "name": "Tears For Fears",
-          "url": "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
-        }
-      ],
-      "duration_ms": 253226,
-      "name": "The Tipping Point",
-      "url": "https://open.spotify.com/track/19ug3juWuv5wxSNZzTnFZ5"
-    },
-    {
-      "added_at": "2022-08-28 19:10:51",
-      "album": {
         "name": "Surface Sounds",
         "url": "https://open.spotify.com/album/1ZuNUNl8jvYmW4w1lR2CW3"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 232529,
       "name": "Backbone",
       "url": "https://open.spotify.com/track/2mVblJ1gaLw0TZz822Oy31"
+    },
+    {
+      "added_at": "2022-08-28 19:10:51",
+      "album": {
+        "name": "The Tipping Point",
+        "url": "https://open.spotify.com/album/6xKxlHD3mWkKoMtl3ZVyLt"
+      },
+      "artists": [
+        {
+          "name": "Tears For Fears",
+          "url": "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
+        }
+      ],
+      "duration_ms": 253226,
+      "name": "The Tipping Point",
+      "url": "https://open.spotify.com/track/19ug3juWuv5wxSNZzTnFZ5"
     },
     {
       "added_at": "2022-08-28 19:10:51",
@@ -707,22 +707,6 @@
     {
       "added_at": "2022-08-28 19:10:51",
       "album": {
-        "name": "Delta Kream",
-        "url": "https://open.spotify.com/album/682pJqnx8hcrCfSjvyNBki"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 248511,
-      "name": "Poor Boy a Long Way From Home",
-      "url": "https://open.spotify.com/track/3YZFMK3zwAGbCMZQGWY47J"
-    },
-    {
-      "added_at": "2022-08-28 19:10:51",
-      "album": {
         "name": "Play Loud",
         "url": "https://open.spotify.com/album/4OAf7UEfzLBKjnoWIFkALk"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 192840,
       "name": "How High",
       "url": "https://open.spotify.com/track/0UqNIatgH3yQrJwqajOM2G"
+    },
+    {
+      "added_at": "2022-08-28 19:10:51",
+      "album": {
+        "name": "Delta Kream",
+        "url": "https://open.spotify.com/album/682pJqnx8hcrCfSjvyNBki"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 248511,
+      "name": "Poor Boy a Long Way From Home",
+      "url": "https://open.spotify.com/track/3YZFMK3zwAGbCMZQGWY47J"
     },
     {
       "added_at": "2022-08-28 19:10:51",
@@ -787,22 +787,18 @@
     {
       "added_at": "2022-08-28 19:10:51",
       "album": {
-        "name": "Falling Down (with Nick Hexum of 311)",
-        "url": "https://open.spotify.com/album/1tkBqlzsmYQKgGh8ERPFKa"
+        "name": "Hospital",
+        "url": "https://open.spotify.com/album/1ENe8pdOhj33eDRWNv6Nd2"
       },
       "artists": [
         {
-          "name": "Tropidelic",
-          "url": "https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl"
-        },
-        {
-          "name": "311",
-          "url": "https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K"
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 199971,
-      "name": "Falling Down (with Nick Hexum of 311)",
-      "url": "https://open.spotify.com/track/0YqAFGltGRELm4l5fvEv9y"
+      "duration_ms": 213328,
+      "name": "Hospital",
+      "url": "https://open.spotify.com/track/7yELjeC1XSdso8N8EBrVib"
     },
     {
       "added_at": "2022-08-28 19:10:51",
@@ -823,18 +819,22 @@
     {
       "added_at": "2022-08-28 19:10:51",
       "album": {
-        "name": "Hospital",
-        "url": "https://open.spotify.com/album/1ENe8pdOhj33eDRWNv6Nd2"
+        "name": "Falling Down (with Nick Hexum of 311)",
+        "url": "https://open.spotify.com/album/1tkBqlzsmYQKgGh8ERPFKa"
       },
       "artists": [
         {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+          "name": "Tropidelic",
+          "url": "https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl"
+        },
+        {
+          "name": "311",
+          "url": "https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K"
         }
       ],
-      "duration_ms": 213328,
-      "name": "Hospital",
-      "url": "https://open.spotify.com/track/7yELjeC1XSdso8N8EBrVib"
+      "duration_ms": 199971,
+      "name": "Falling Down (with Nick Hexum of 311)",
+      "url": "https://open.spotify.com/track/0YqAFGltGRELm4l5fvEv9y"
     },
     {
       "added_at": "2022-08-28 19:10:51",
@@ -891,22 +891,6 @@
     {
       "added_at": "2022-08-28 19:10:51",
       "album": {
-        "name": "Love Is Selfish",
-        "url": "https://open.spotify.com/album/3XzfsUkZx4TCGdchhJBI1A"
-      },
-      "artists": [
-        {
-          "name": "Jack White",
-          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
-        }
-      ],
-      "duration_ms": 172885,
-      "name": "Love Is Selfish",
-      "url": "https://open.spotify.com/track/5ZsJidhpJJ4qFhmp5h5oyk"
-    },
-    {
-      "added_at": "2022-08-28 19:10:51",
-      "album": {
         "name": "Red Run Cold",
         "url": "https://open.spotify.com/album/5jeWTeLEEXFRb5YrOUUGW8"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 223783,
       "name": "Red Run Cold",
       "url": "https://open.spotify.com/track/2YTgdBr27ThjNOqdcJAu8z"
+    },
+    {
+      "added_at": "2022-08-28 19:10:51",
+      "album": {
+        "name": "Love Is Selfish",
+        "url": "https://open.spotify.com/album/3XzfsUkZx4TCGdchhJBI1A"
+      },
+      "artists": [
+        {
+          "name": "Jack White",
+          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
+        }
+      ],
+      "duration_ms": 172885,
+      "name": "Love Is Selfish",
+      "url": "https://open.spotify.com/track/5ZsJidhpJJ4qFhmp5h5oyk"
     },
     {
       "added_at": "2022-08-28 19:10:51",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2022-08-28 19:10:51",
       "album": {
+        "name": "Run Home Slow",
+        "url": "https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "duration_ms": 228553,
+      "name": "So Caught Up",
+      "url": "https://open.spotify.com/track/2SrTIQZs2Dzv9WC538a8xM"
+    },
+    {
+      "added_at": "2022-08-28 19:10:51",
+      "album": {
         "name": "Just Around The Corner",
         "url": "https://open.spotify.com/album/5xX6g87kTLuwtkwGh7ehHG"
       },
@@ -1139,22 +1155,6 @@
     {
       "added_at": "2022-08-28 19:10:51",
       "album": {
-        "name": "Run Home Slow",
-        "url": "https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT"
-      },
-      "artists": [
-        {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
-        }
-      ],
-      "duration_ms": 228553,
-      "name": "So Caught Up",
-      "url": "https://open.spotify.com/track/2SrTIQZs2Dzv9WC538a8xM"
-    },
-    {
-      "added_at": "2022-08-28 19:10:51",
-      "album": {
         "name": "Bones Owens",
         "url": "https://open.spotify.com/album/33ObrRfIHT3AESxy8E15FG"
       },
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2022-08-28 19:10:51",
       "album": {
-        "name": "One is One",
-        "url": "https://open.spotify.com/album/6SKy6TBTLjbC96dMV8blQJ"
-      },
-      "artists": [
-        {
-          "name": "Delta Spirit",
-          "url": "https://open.spotify.com/artist/1xVWSPiw5B0OduIC0DSu3V"
-        }
-      ],
-      "duration_ms": 210240,
-      "name": "What\u2019s Done is Done",
-      "url": "https://open.spotify.com/track/4x4Wf1lCavlpuZQ7yyAswq"
-    },
-    {
-      "added_at": "2022-08-28 19:10:51",
-      "album": {
         "name": "Chrysanthemums",
         "url": "https://open.spotify.com/album/4hMsCqUzEtPGqK5G9EH5Z6"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 240000,
       "name": "Chrysanthemums",
       "url": "https://open.spotify.com/track/1DWlM8z38cCw2R91jnvTtr"
+    },
+    {
+      "added_at": "2022-08-28 19:10:51",
+      "album": {
+        "name": "One is One",
+        "url": "https://open.spotify.com/album/6SKy6TBTLjbC96dMV8blQJ"
+      },
+      "artists": [
+        {
+          "name": "Delta Spirit",
+          "url": "https://open.spotify.com/artist/1xVWSPiw5B0OduIC0DSu3V"
+        }
+      ],
+      "duration_ms": 210240,
+      "name": "What\u2019s Done is Done",
+      "url": "https://open.spotify.com/track/4x4Wf1lCavlpuZQ7yyAswq"
     },
     {
       "added_at": "2022-08-28 19:10:51",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2022-08-28 19:10:51",
       "album": {
-        "name": "Bloodrush",
-        "url": "https://open.spotify.com/album/3SlJjfANoyxq1Ed8aQDn9G"
-      },
-      "artists": [
-        {
-          "name": "The Amazons",
-          "url": "https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO"
-        }
-      ],
-      "duration_ms": 217793,
-      "name": "Bloodrush - Edit",
-      "url": "https://open.spotify.com/track/0b0zFHW34b9dCVTSu0F3tU"
-    },
-    {
-      "added_at": "2022-08-28 19:10:51",
-      "album": {
         "name": "Anniversary II",
         "url": "https://open.spotify.com/album/1fOUybYJNec1lhpwWIln83"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 202758,
       "name": "Ohio Forever",
       "url": "https://open.spotify.com/track/2DPTXclMay45uBj9bKEq9B"
+    },
+    {
+      "added_at": "2022-08-28 19:10:51",
+      "album": {
+        "name": "Bloodrush",
+        "url": "https://open.spotify.com/album/3SlJjfANoyxq1Ed8aQDn9G"
+      },
+      "artists": [
+        {
+          "name": "The Amazons",
+          "url": "https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO"
+        }
+      ],
+      "duration_ms": 217793,
+      "name": "Bloodrush - Edit",
+      "url": "https://open.spotify.com/track/0b0zFHW34b9dCVTSu0F3tU"
     },
     {
       "added_at": "2022-08-28 19:10:51",
@@ -1491,6 +1491,22 @@
     {
       "added_at": "2022-08-28 19:10:51",
       "album": {
+        "name": "Cosmic Space Girl",
+        "url": "https://open.spotify.com/album/0BVEfEtSfAIJUwaGV0TS0s"
+      },
+      "artists": [
+        {
+          "name": "The Brummies",
+          "url": "https://open.spotify.com/artist/1B9SbgFtfWSlUvAd1y0AaA"
+        }
+      ],
+      "duration_ms": 175756,
+      "name": "Cosmic Space Girl",
+      "url": "https://open.spotify.com/track/1xBqGwR9WztGLPlzroBDYc"
+    },
+    {
+      "added_at": "2022-08-28 19:10:51",
+      "album": {
         "name": "The Boy Named If",
         "url": "https://open.spotify.com/album/5UvNnPzKxLMYz6bYi8NpoS"
       },
@@ -1507,22 +1523,6 @@
       "duration_ms": 193174,
       "name": "Magnificent Hurt",
       "url": "https://open.spotify.com/track/0rpCMPvjvAPefwiNYC3sdd"
-    },
-    {
-      "added_at": "2022-08-28 19:10:51",
-      "album": {
-        "name": "Cosmic Space Girl",
-        "url": "https://open.spotify.com/album/0BVEfEtSfAIJUwaGV0TS0s"
-      },
-      "artists": [
-        {
-          "name": "The Brummies",
-          "url": "https://open.spotify.com/artist/1B9SbgFtfWSlUvAd1y0AaA"
-        }
-      ],
-      "duration_ms": 175756,
-      "name": "Cosmic Space Girl",
-      "url": "https://open.spotify.com/track/1xBqGwR9WztGLPlzroBDYc"
     },
     {
       "added_at": "2022-08-28 19:10:51",

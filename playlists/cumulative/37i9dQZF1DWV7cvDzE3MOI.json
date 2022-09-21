@@ -2128,6 +2128,28 @@
     },
     {
       "album": {
+        "name": "Chopin: Waltzes; 4 Scherzos; 26 Preludes",
+        "url": "https://open.spotify.com/album/0yCrQ6dCqiI6ldqI8LPqWB"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Vladimir Ashkenazy",
+          "url": "https://open.spotify.com/artist/20iZXzMb8LoWXOeca32i82"
+        }
+      ],
+      "date_added": "2021-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290773,
+      "name": "Waltz No. 1 in E Flat, Op. 18 -\"Grande valse brillante\"",
+      "url": "https://open.spotify.com/track/1vWAWChbVffjnpl6PPzUA4"
+    },
+    {
+      "album": {
         "name": "Chopin: Waltzes (Complete)",
         "url": "https://open.spotify.com/album/2T3nLB2fOmHzoN8nDKbHWl"
       },
@@ -2238,28 +2260,6 @@
     },
     {
       "album": {
-        "name": "Chopin: Waltzes; 4 Scherzos; 26 Preludes",
-        "url": "https://open.spotify.com/album/0yCrQ6dCqiI6ldqI8LPqWB"
-      },
-      "artists": [
-        {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
-        },
-        {
-          "name": "Vladimir Ashkenazy",
-          "url": "https://open.spotify.com/artist/20iZXzMb8LoWXOeca32i82"
-        }
-      ],
-      "date_added": "2021-10-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 290773,
-      "name": "Waltz No.1 in E Flat, Op.18 -\"Grande valse brillante\"",
-      "url": "https://open.spotify.com/track/1vWAWChbVffjnpl6PPzUA4"
-    },
-    {
-      "album": {
         "name": "Chopin: Waltzes Nos. 1-19 - Ecossaises, Op. 72 - Tarantelle, Op. 43",
         "url": "https://open.spotify.com/album/5zNQIyP4WetHlXx9PLh1Id"
       },
@@ -2299,7 +2299,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 121013,
-      "name": "\u00c9tudes, Op. 10: No. 4 in C Sharp Minor \"Torrent\" - Live",
+      "name": "\u00c9tudes, Op. 10: No. 4 in C-Sharp Minor \"Torrent\" - Live",
       "url": "https://open.spotify.com/track/5JNgYciqwBjuo84p2nx8jU"
     },
     {

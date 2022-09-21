@@ -4,11 +4,12 @@
 
 > Underground indie rock gems\. Cover: Jockstrap
 
-614 songs - 1 day 11 hr 1 min - [published](https://open.spotify.com/playlist/4XA1SOQIX98lp2gcRgRzUr)
+615 songs - 1 day 11 hr 4 min - [published](https://open.spotify.com/playlist/4XA1SOQIX98lp2gcRgRzUr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [1TL2DU4 \(Feat\. girlpuppy\)](https://open.spotify.com/track/39XbojaoPgqjMj6SmX4vtb) | [The Brazen Youth](https://open.spotify.com/artist/7tnIA4ww5dwoyENYz4GM5T), [girlpuppy](https://open.spotify.com/artist/2dV0D4uKMB4c8VhYHzt360) | [1TL2DU4 \(Feat\. girlpuppy\)](https://open.spotify.com/album/0PvotAknEpNt5IeYhJ4DTJ) | 2:39 | 2022-08-19 |  |
+| [1TL2DU4 \(Feat\. girlpuppy\)](https://open.spotify.com/track/39XbojaoPgqjMj6SmX4vtb) | [The Brazen Youth](https://open.spotify.com/artist/7tnIA4ww5dwoyENYz4GM5T), [girlpuppy](https://open.spotify.com/artist/2dV0D4uKMB4c8VhYHzt360) | [1TL2DU4 \(Feat\. girlpuppy\)](https://open.spotify.com/album/0PvotAknEpNt5IeYhJ4DTJ) | 2:39 | 2022-08-19 | 2022-09-21 |
+| [1TL2DU4 \(Feat\. girlpuppy\)](https://open.spotify.com/track/3kNe7jhyAX4swhKqBM6KJK) | [The Brazen Youth](https://open.spotify.com/artist/7tnIA4ww5dwoyENYz4GM5T), [girlpuppy](https://open.spotify.com/artist/2dV0D4uKMB4c8VhYHzt360) | [Eagle, Idaho](https://open.spotify.com/album/1NKTNi0HMBHs4KH1QPrO2l) | 2:39 | 2022-08-19 |  |
 | [2002](https://open.spotify.com/track/7duZGjDETceWUu5KvKJjQU) | [Enumclaw](https://open.spotify.com/artist/79yETfINxnDl54mTKLZUlb) | [2002](https://open.spotify.com/album/4rJmJ9Iqe1SdQ8Sg5hmZUx) | 2:32 | 2022-06-17 | 2022-07-23 |
 | [2007](https://open.spotify.com/track/35WkfsT6kxdnKVntvIoLt8) | [Miya Folick](https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV) | [2007](https://open.spotify.com/album/2D15Km6lpwSzUnRCYj8sfV) | 4:09 | 2022-09-16 |  |
 | [9/10](https://open.spotify.com/track/3oVJlt8KOIh6soEBp0DSuR) | [Keyboard Dog](https://open.spotify.com/artist/2nF1Bu7mDkYoeEYt02OU8z) | [9/10](https://open.spotify.com/album/6s5QGDRXgsjaEAcQsaEJh6) | 3:23 | 2022-04-01 | 2022-05-13 |

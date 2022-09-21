@@ -1792,6 +1792,24 @@
     },
     {
       "album": {
+        "name": "Morning Shore (Eon Isle)",
+        "url": "https://open.spotify.com/album/6PFxPZcgZfVXzqAaoPUHef"
+      },
+      "artists": [
+        {
+          "name": "Geotic",
+          "url": "https://open.spotify.com/artist/30wki8WYREGLQPm623vzkZ"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "Vast Ocean View",
+      "url": "https://open.spotify.com/track/5fIDb2LhOLbGAHEwdlVKLo"
+    },
+    {
+      "album": {
         "name": "Vi G\u00e5r Mot H\u00f6st",
         "url": "https://open.spotify.com/album/7qqwp5hM1P5RrZUt3gYIIb"
       },

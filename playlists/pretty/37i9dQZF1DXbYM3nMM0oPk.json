@@ -1,12 +1,12 @@
 {
   "description": "A mega mix of 75 favorites from the last few years! ",
-  "num_followers": 6668612,
+  "num_followers": 6670995,
   "original_name": "Mega Hit Mix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMGQ3ODdkMzAwOGJhZTUyZmU2ZTc0MzZlZmY1ZTJiYzli",
+  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMDEyZjBlYTgzODZhNTRlOTllYWEzNGNiZGRkZGQ4NmFm",
   "tracks": [
     {
       "added_at": "2022-09-16 04:00:00",
@@ -291,22 +291,18 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "The Motto",
-        "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
+        "name": "Kid Krow",
+        "url": "https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5"
       },
       "artists": [
         {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
         }
       ],
-      "duration_ms": 164818,
-      "name": "The Motto",
-      "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
+      "duration_ms": 198040,
+      "name": "Heather",
+      "url": "https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -327,18 +323,22 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Kid Krow",
-        "url": "https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5"
+        "name": "The Motto",
+        "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
       },
       "artists": [
         {
-          "name": "Conan Gray",
-          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
         }
       ],
-      "duration_ms": 198040,
-      "name": "Heather",
-      "url": "https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA"
+      "duration_ms": 164818,
+      "name": "The Motto",
+      "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -943,22 +943,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "The Business",
-        "url": "https://open.spotify.com/album/2adSO4KU3FDjeM1PXCRDZm"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "The Business",
-      "url": "https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Divinely Uninspired To A Hellish Extent (Extended Edition)",
         "url": "https://open.spotify.com/album/2wiPF3m0ylst0JSk1IvZL8"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 215106,
       "name": "Before You Go",
       "url": "https://open.spotify.com/track/2gMXnyrvIjhVBUZwvLZDMP"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "The Business",
+        "url": "https://open.spotify.com/album/2adSO4KU3FDjeM1PXCRDZm"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "The Business",
+      "url": "https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Good Days",
-        "url": "https://open.spotify.com/album/781cKhbTPwLnPmo9BALQl7"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 279204,
-      "name": "Good Days",
-      "url": "https://open.spotify.com/track/3YJJjQPAbDT7mGpX3WtQ9A"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Proof",
         "url": "https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 164952,
       "name": "Butter",
       "url": "https://open.spotify.com/track/6jjYDGxVJsWS0a5wlVF5vS"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Good Days",
+        "url": "https://open.spotify.com/album/781cKhbTPwLnPmo9BALQl7"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 279204,
+      "name": "Good Days",
+      "url": "https://open.spotify.com/track/3YJJjQPAbDT7mGpX3WtQ9A"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
+        "name": "Happier Than Ever (Edit)",
+        "url": "https://open.spotify.com/album/2kzPJWrTjVKEYWWhowXLnz"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 151444,
+      "name": "Happier Than Ever - Edit",
+      "url": "https://open.spotify.com/track/32BeYxKPrig1LefHsC0Xuo"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
         "name": "THE ANXIETY",
         "url": "https://open.spotify.com/album/2kZyqn4Cmr78D74K9TcO4K"
       },
@@ -1219,22 +1235,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Happier Than Ever (Edit)",
-        "url": "https://open.spotify.com/album/2kzPJWrTjVKEYWWhowXLnz"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 151444,
-      "name": "Happier Than Ever - Edit",
-      "url": "https://open.spotify.com/track/32BeYxKPrig1LefHsC0Xuo"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Heaven & Hell",
         "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
       },
@@ -1247,22 +1247,6 @@
       "duration_ms": 162398,
       "name": "Kings & Queens",
       "url": "https://open.spotify.com/track/7a53HqqArd4b9NF4XAmlbI"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "Ride It",
-        "url": "https://open.spotify.com/album/4zOhjJfe0dwqsNdDYk622E"
-      },
-      "artists": [
-        {
-          "name": "Regard",
-          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
-        }
-      ],
-      "duration_ms": 157605,
-      "name": "Ride It",
-      "url": "https://open.spotify.com/track/2tnVG71enUj33Ic2nFN6kZ"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1299,6 +1283,22 @@
       "duration_ms": 190960,
       "name": "Se\u00f1orita",
       "url": "https://open.spotify.com/track/0TK2YIli7K1leLovkQiNik"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Ride It",
+        "url": "https://open.spotify.com/album/4zOhjJfe0dwqsNdDYk622E"
+      },
+      "artists": [
+        {
+          "name": "Regard",
+          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
+        }
+      ],
+      "duration_ms": 157605,
+      "name": "Ride It",
+      "url": "https://open.spotify.com/track/2tnVG71enUj33Ic2nFN6kZ"
     },
     {
       "added_at": "2022-09-16 04:00:00",

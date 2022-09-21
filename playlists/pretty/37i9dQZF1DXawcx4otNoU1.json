@@ -1,12 +1,12 @@
 {
   "description": "For those cozy moments.",
-  "num_followers": 434572,
+  "num_followers": 434791,
   "original_name": "Spooning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjcyNDgwMCwwMDAwMDAwMDQzOTQzYzRiYTc4ZjkyMThhMzIxMWJiZDhiNTU4ZTY5",
+  "snapshot_id": "MTY2MjcyNDgwMCwwMDAwMDAwMGE4NGZlYjU5NDE1Yzg5YWE1ZTQ0NDFlNTUwNGM4ZDQy",
   "tracks": [
     {
       "added_at": "2022-09-09 12:00:00",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2022-09-09 12:00:00",
       "album": {
-        "name": "Once In a While (Acoustic)",
-        "url": "https://open.spotify.com/album/2Hd0yZLIGOSm99clpEv5JQ"
-      },
-      "artists": [
-        {
-          "name": "Timeflies",
-          "url": "https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p"
-        }
-      ],
-      "duration_ms": 231582,
-      "name": "Once In a While - Acoustic",
-      "url": "https://open.spotify.com/track/78loPG2VNA0Lg0vjumMfeD"
-    },
-    {
-      "added_at": "2022-09-09 12:00:00",
-      "album": {
         "name": "The Thrill Of It All (Special Edition)",
         "url": "https://open.spotify.com/album/3XftSbguntyRTBQaGItmfK"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 207164,
       "name": "Midnight Train",
       "url": "https://open.spotify.com/track/6hPFEpT7bVguj9aCFLOmiz"
+    },
+    {
+      "added_at": "2022-09-09 12:00:00",
+      "album": {
+        "name": "Once In a While (Acoustic)",
+        "url": "https://open.spotify.com/album/2Hd0yZLIGOSm99clpEv5JQ"
+      },
+      "artists": [
+        {
+          "name": "Timeflies",
+          "url": "https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p"
+        }
+      ],
+      "duration_ms": 231582,
+      "name": "Once In a While - Acoustic",
+      "url": "https://open.spotify.com/track/78loPG2VNA0Lg0vjumMfeD"
     },
     {
       "added_at": "2022-09-09 12:00:00",
@@ -1495,6 +1495,22 @@
     {
       "added_at": "2022-09-09 12:00:00",
       "album": {
+        "name": "The Thrill Of It All (Special Edition)",
+        "url": "https://open.spotify.com/album/3XftSbguntyRTBQaGItmfK"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 187156,
+      "name": "Palace",
+      "url": "https://open.spotify.com/track/5UFvcTCbp9P057YbRNsJ3U"
+    },
+    {
+      "added_at": "2022-09-09 12:00:00",
+      "album": {
         "name": "Know-It-All (Deluxe)",
         "url": "https://open.spotify.com/album/2AGNF8r2y8HL85yVk2bwmS"
       },
@@ -1527,22 +1543,6 @@
       "duration_ms": 235936,
       "name": "Great American Novel",
       "url": "https://open.spotify.com/track/4ry2Jh7zMFRDzqOHil8prF"
-    },
-    {
-      "added_at": "2022-09-09 12:00:00",
-      "album": {
-        "name": "The Thrill Of It All (Special Edition)",
-        "url": "https://open.spotify.com/album/3XftSbguntyRTBQaGItmfK"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 187156,
-      "name": "Palace",
-      "url": "https://open.spotify.com/track/5UFvcTCbp9P057YbRNsJ3U"
     },
     {
       "added_at": "2022-09-09 12:00:00",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2022-09-09 12:00:00",
       "album": {
-        "name": "Heartbeat",
-        "url": "https://open.spotify.com/album/052xFq8blHwU5tv1kjeiak"
-      },
-      "artists": [
-        {
-          "name": "Christopher",
-          "url": "https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC"
-        }
-      ],
-      "duration_ms": 200373,
-      "name": "Heartbeat",
-      "url": "https://open.spotify.com/track/2Cj2XFOMBT8IrT0aapNTee"
-    },
-    {
-      "added_at": "2022-09-09 12:00:00",
-      "album": {
         "name": "NIGHT FLIGHT",
         "url": "https://open.spotify.com/album/2CfUVZdfwVHZNzf5WF3BID"
       },
@@ -1823,6 +1807,22 @@
       "duration_ms": 229120,
       "name": "Parade",
       "url": "https://open.spotify.com/track/1PAH34xJkjVKe51fS0Rv53"
+    },
+    {
+      "added_at": "2022-09-09 12:00:00",
+      "album": {
+        "name": "Heartbeat",
+        "url": "https://open.spotify.com/album/052xFq8blHwU5tv1kjeiak"
+      },
+      "artists": [
+        {
+          "name": "Christopher",
+          "url": "https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC"
+        }
+      ],
+      "duration_ms": 200373,
+      "name": "Heartbeat",
+      "url": "https://open.spotify.com/track/2Cj2XFOMBT8IrT0aapNTee"
     },
     {
       "added_at": "2022-09-09 12:00:00",
@@ -1911,6 +1911,22 @@
     {
       "added_at": "2022-09-09 12:00:00",
       "album": {
+        "name": "Rebekah - EP",
+        "url": "https://open.spotify.com/album/3No7OQimFOoY0koAyPnqfH"
+      },
+      "artists": [
+        {
+          "name": "Jack Vallier",
+          "url": "https://open.spotify.com/artist/2wnHlwpI5kZaXQRGq21UNN"
+        }
+      ],
+      "duration_ms": 179783,
+      "name": "Change Your Mind - Stripped",
+      "url": "https://open.spotify.com/track/7Iv4hZIAi4np1d8VBwoNqA"
+    },
+    {
+      "added_at": "2022-09-09 12:00:00",
+      "album": {
         "name": "everytime we fall",
         "url": "https://open.spotify.com/album/1wmhx7Q7Y4dYDWJ7jOWwUQ"
       },
@@ -1931,18 +1947,18 @@
     {
       "added_at": "2022-09-09 12:00:00",
       "album": {
-        "name": "Rebekah - EP",
-        "url": "https://open.spotify.com/album/3No7OQimFOoY0koAyPnqfH"
+        "name": "Night",
+        "url": "https://open.spotify.com/album/7o87JfkKQnw0Z9u4AKhYkj"
       },
       "artists": [
         {
-          "name": "Jack Vallier",
-          "url": "https://open.spotify.com/artist/2wnHlwpI5kZaXQRGq21UNN"
+          "name": "Jean Seizure",
+          "url": "https://open.spotify.com/artist/2XI2CpdL1MtHXIt0rxa7mS"
         }
       ],
-      "duration_ms": 179783,
-      "name": "Change Your Mind - Stripped",
-      "url": "https://open.spotify.com/track/7Iv4hZIAi4np1d8VBwoNqA"
+      "duration_ms": 201010,
+      "name": "Night",
+      "url": "https://open.spotify.com/track/24DijqYX42rkMGuHYKF0nc"
     },
     {
       "added_at": "2022-09-09 12:00:00",
@@ -1959,22 +1975,6 @@
       "duration_ms": 216866,
       "name": "Alone",
       "url": "https://open.spotify.com/track/0iOZD91DEQm3nuTEk5Bt8k"
-    },
-    {
-      "added_at": "2022-09-09 12:00:00",
-      "album": {
-        "name": "Night",
-        "url": "https://open.spotify.com/album/7o87JfkKQnw0Z9u4AKhYkj"
-      },
-      "artists": [
-        {
-          "name": "Jean Seizure",
-          "url": "https://open.spotify.com/artist/2XI2CpdL1MtHXIt0rxa7mS"
-        }
-      ],
-      "duration_ms": 201010,
-      "name": "Night",
-      "url": "https://open.spotify.com/track/24DijqYX42rkMGuHYKF0nc"
     },
     {
       "added_at": "2022-09-09 12:00:00",
@@ -2007,22 +2007,6 @@
       "duration_ms": 219000,
       "name": "Everything",
       "url": "https://open.spotify.com/track/4wzFCTofXlFzC83qV84yP9"
-    },
-    {
-      "added_at": "2022-09-09 12:00:00",
-      "album": {
-        "name": "Rebekah - EP",
-        "url": "https://open.spotify.com/album/3No7OQimFOoY0koAyPnqfH"
-      },
-      "artists": [
-        {
-          "name": "Jack Vallier",
-          "url": "https://open.spotify.com/artist/2wnHlwpI5kZaXQRGq21UNN"
-        }
-      ],
-      "duration_ms": 200747,
-      "name": "Rebekah",
-      "url": "https://open.spotify.com/track/18RQoXcen7pcKhFreuN02y"
     },
     {
       "added_at": "2022-09-09 12:00:00",
@@ -2071,6 +2055,22 @@
       "duration_ms": 168080,
       "name": "Eyes on You",
       "url": "https://open.spotify.com/track/3Q6ppHSPI9Kpuc5ipKb7bP"
+    },
+    {
+      "added_at": "2022-09-09 12:00:00",
+      "album": {
+        "name": "Rebekah - EP",
+        "url": "https://open.spotify.com/album/3No7OQimFOoY0koAyPnqfH"
+      },
+      "artists": [
+        {
+          "name": "Jack Vallier",
+          "url": "https://open.spotify.com/artist/2wnHlwpI5kZaXQRGq21UNN"
+        }
+      ],
+      "duration_ms": 200747,
+      "name": "Rebekah",
+      "url": "https://open.spotify.com/track/18RQoXcen7pcKhFreuN02y"
     },
     {
       "added_at": "2022-09-09 12:00:00",
@@ -2191,6 +2191,22 @@
     {
       "added_at": "2022-09-09 12:00:00",
       "album": {
+        "name": "Heights",
+        "url": "https://open.spotify.com/album/6mfFBO0ksZJTg3mNc4wfjf"
+      },
+      "artists": [
+        {
+          "name": "Only Girl",
+          "url": "https://open.spotify.com/artist/2ZkQAcKkFO60QQybtXDStt"
+        }
+      ],
+      "duration_ms": 226750,
+      "name": "Heights",
+      "url": "https://open.spotify.com/track/4HhiuiQftydGvLIIzM8tn5"
+    },
+    {
+      "added_at": "2022-09-09 12:00:00",
+      "album": {
         "name": "The More",
         "url": "https://open.spotify.com/album/2LjnDM6eo9JKIJ7E9rn6Np"
       },
@@ -2211,22 +2227,6 @@
     {
       "added_at": "2022-09-09 12:00:00",
       "album": {
-        "name": "Heights",
-        "url": "https://open.spotify.com/album/6mfFBO0ksZJTg3mNc4wfjf"
-      },
-      "artists": [
-        {
-          "name": "Only Girl",
-          "url": "https://open.spotify.com/artist/2ZkQAcKkFO60QQybtXDStt"
-        }
-      ],
-      "duration_ms": 226750,
-      "name": "Heights",
-      "url": "https://open.spotify.com/track/4HhiuiQftydGvLIIzM8tn5"
-    },
-    {
-      "added_at": "2022-09-09 12:00:00",
-      "album": {
         "name": "Fantasy",
         "url": "https://open.spotify.com/album/1c6rZYnAwbqtP143pk75SL"
       },
@@ -2239,6 +2239,22 @@
       "duration_ms": 221612,
       "name": "Fantasy",
       "url": "https://open.spotify.com/track/4rbF4dsT1wGGBfzYD5QvlY"
+    },
+    {
+      "added_at": "2022-09-09 12:00:00",
+      "album": {
+        "name": "Twosomeness",
+        "url": "https://open.spotify.com/album/44pxsSkBHvNDm2H5LiamIU"
+      },
+      "artists": [
+        {
+          "name": "Pascal Pinon",
+          "url": "https://open.spotify.com/artist/6vuHXpySAbiBH0BlWpznYZ"
+        }
+      ],
+      "duration_ms": 217186,
+      "name": "\u00deerney (One Thing)",
+      "url": "https://open.spotify.com/track/4hq3eYHlkHhcD70jwgZQhE"
     },
     {
       "added_at": "2022-09-09 12:00:00",
@@ -2259,22 +2275,6 @@
       "duration_ms": 179014,
       "name": "no ill",
       "url": "https://open.spotify.com/track/76wOHtbMpZpSmfsSyAHzlZ"
-    },
-    {
-      "added_at": "2022-09-09 12:00:00",
-      "album": {
-        "name": "Twosomeness",
-        "url": "https://open.spotify.com/album/44pxsSkBHvNDm2H5LiamIU"
-      },
-      "artists": [
-        {
-          "name": "Pascal Pinon",
-          "url": "https://open.spotify.com/artist/6vuHXpySAbiBH0BlWpznYZ"
-        }
-      ],
-      "duration_ms": 217186,
-      "name": "\u00deerney (One Thing)",
-      "url": "https://open.spotify.com/track/4hq3eYHlkHhcD70jwgZQhE"
     },
     {
       "added_at": "2022-09-09 12:00:00",
@@ -2315,22 +2315,6 @@
     {
       "added_at": "2022-09-09 12:00:00",
       "album": {
-        "name": "Say Less",
-        "url": "https://open.spotify.com/album/43NBseqJxP2jDaOXVh8HiS"
-      },
-      "artists": [
-        {
-          "name": "Parker Louis",
-          "url": "https://open.spotify.com/artist/5Zo2GpQdYsiYf7YYZCTBSD"
-        }
-      ],
-      "duration_ms": 243784,
-      "name": "Say Less",
-      "url": "https://open.spotify.com/track/1IfSmProMwb7ECLvNwVaOG"
-    },
-    {
-      "added_at": "2022-09-09 12:00:00",
-      "album": {
         "name": "Paupers Field",
         "url": "https://open.spotify.com/album/3358kRupkHRyMq6hbVqeh1"
       },
@@ -2343,6 +2327,22 @@
       "duration_ms": 204333,
       "name": "If the Creek Don't Rise",
       "url": "https://open.spotify.com/track/2ekhu8z1c6UwcaglknxyiS"
+    },
+    {
+      "added_at": "2022-09-09 12:00:00",
+      "album": {
+        "name": "Say Less",
+        "url": "https://open.spotify.com/album/43NBseqJxP2jDaOXVh8HiS"
+      },
+      "artists": [
+        {
+          "name": "Parker Louis",
+          "url": "https://open.spotify.com/artist/5Zo2GpQdYsiYf7YYZCTBSD"
+        }
+      ],
+      "duration_ms": 243784,
+      "name": "Say Less",
+      "url": "https://open.spotify.com/track/1IfSmProMwb7ECLvNwVaOG"
     },
     {
       "added_at": "2022-09-09 12:00:00",
@@ -2459,22 +2459,6 @@
     {
       "added_at": "2022-09-09 12:00:00",
       "album": {
-        "name": "Amari' SZN 1",
-        "url": "https://open.spotify.com/album/7xHdTbAn5n1xFyW6afp5m4"
-      },
-      "artists": [
-        {
-          "name": "Amari Noelle",
-          "url": "https://open.spotify.com/artist/0oOSUbpeJXzsaPm0x7wBF7"
-        }
-      ],
-      "duration_ms": 185428,
-      "name": "I Want You",
-      "url": "https://open.spotify.com/track/4vNKn8JtZrcwn7aR3x1unv"
-    },
-    {
-      "added_at": "2022-09-09 12:00:00",
-      "album": {
         "name": "Lion",
         "url": "https://open.spotify.com/album/1tfz53aOx3BveGngGj3K3l"
       },
@@ -2487,6 +2471,22 @@
       "duration_ms": 222000,
       "name": "Lion",
       "url": "https://open.spotify.com/track/29fBKVsA6W7etY7W2P7sS9"
+    },
+    {
+      "added_at": "2022-09-09 12:00:00",
+      "album": {
+        "name": "Amari' SZN 1",
+        "url": "https://open.spotify.com/album/7xHdTbAn5n1xFyW6afp5m4"
+      },
+      "artists": [
+        {
+          "name": "Amari Noelle",
+          "url": "https://open.spotify.com/artist/0oOSUbpeJXzsaPm0x7wBF7"
+        }
+      ],
+      "duration_ms": 185428,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/4vNKn8JtZrcwn7aR3x1unv"
     }
   ],
   "unique_name": "Spooning",
