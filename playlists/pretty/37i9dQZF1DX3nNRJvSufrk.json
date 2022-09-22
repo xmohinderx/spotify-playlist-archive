@@ -1,12 +1,12 @@
 {
   "description": "Can you keep up? Get moving to the rapid rhythms of Footwork & Juke, originating in 1990s Chicago. Cover: DJ Manny",
-  "num_followers": 26412,
+  "num_followers": 26429,
   "original_name": "Footwork/Juke",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxMzEwMzYzNiwwMDAwMDAwMDRkMjliMGIzMTU4ZTg2MWU5ZjM3Mzk3ZjE5MWU3MGJi",
+  "snapshot_id": "MTYxMzEwMzYzNiwwMDAwMDAwMDEzYTlkNDE0MDg3Y2FiZjYyZDg4OWE2YTY5Y2Y0MTgx",
   "tracks": [
     {
       "added_at": "2020-12-04 02:43:20",
@@ -347,6 +347,30 @@
     {
       "added_at": "2020-12-03 17:37:02",
       "album": {
+        "name": "#UOAI",
+        "url": "https://open.spotify.com/album/03PPB3GsJaP65KjNBOKEm2"
+      },
+      "artists": [
+        {
+          "name": "BSN Posse",
+          "url": "https://open.spotify.com/artist/1fnlGaoXeWH8RMPVKR2gBU"
+        },
+        {
+          "name": "Lefty",
+          "url": "https://open.spotify.com/artist/40VHJIhcpp7hQh4a2fGo4W"
+        },
+        {
+          "name": "Nikes",
+          "url": "https://open.spotify.com/artist/33H4iqgsqXDDWY6FC9NMLc"
+        }
+      ],
+      "duration_ms": 260625,
+      "name": "Chicago (feat. Lefty & Nikes)",
+      "url": "https://open.spotify.com/track/7iSYeJOtNFuPwNg0gEStEL"
+    },
+    {
+      "added_at": "2020-12-03 17:37:02",
+      "album": {
         "name": "Strictly 4 My Cdjz 7",
         "url": "https://open.spotify.com/album/2rYIMDR48AbLrkbZ78ly6M"
       },
@@ -379,30 +403,6 @@
     {
       "added_at": "2020-12-03 17:37:02",
       "album": {
-        "name": "#UOAI",
-        "url": "https://open.spotify.com/album/03PPB3GsJaP65KjNBOKEm2"
-      },
-      "artists": [
-        {
-          "name": "BSN Posse",
-          "url": "https://open.spotify.com/artist/1fnlGaoXeWH8RMPVKR2gBU"
-        },
-        {
-          "name": "Lefty",
-          "url": "https://open.spotify.com/artist/40VHJIhcpp7hQh4a2fGo4W"
-        },
-        {
-          "name": "Nikes",
-          "url": "https://open.spotify.com/artist/33H4iqgsqXDDWY6FC9NMLc"
-        }
-      ],
-      "duration_ms": 260625,
-      "name": "Chicago (feat. Lefty & Nikes)",
-      "url": "https://open.spotify.com/track/7iSYeJOtNFuPwNg0gEStEL"
-    },
-    {
-      "added_at": "2020-12-03 17:37:02",
-      "album": {
         "name": "Relationships",
         "url": "https://open.spotify.com/album/0PuR1XbAkXUSEI9yGNHeaX"
       },
@@ -431,18 +431,18 @@
     {
       "added_at": "2020-12-03 17:37:02",
       "album": {
-        "name": "The Grove",
-        "url": "https://open.spotify.com/album/0KRdcfl8C4iPEhmw0Qgwce"
+        "name": "Bangs & Works, Vol.1: A Chicago Footwork Compilation",
+        "url": "https://open.spotify.com/album/1P8EYmCJmjYhtMhR2H3h4m"
       },
       "artists": [
         {
-          "name": "DJ Orange Julius",
-          "url": "https://open.spotify.com/artist/4DiPpabfaBSsHYvjlPkazH"
+          "name": "DJ Trouble",
+          "url": "https://open.spotify.com/artist/33KsPfISa6inRnrPvWutSy"
         }
       ],
-      "duration_ms": 289133,
-      "name": "Skkrtt",
-      "url": "https://open.spotify.com/track/0zEgbC1lVNEYUJCv0jbUfc"
+      "duration_ms": 180453,
+      "name": "Bangs & Works",
+      "url": "https://open.spotify.com/track/4CQSClkhQi4zrNMKEzHxQ2"
     },
     {
       "added_at": "2020-12-03 17:37:02",
@@ -487,18 +487,18 @@
     {
       "added_at": "2020-12-03 17:37:02",
       "album": {
-        "name": "Bangs & Works, Vol.1: A Chicago Footwork Compilation",
-        "url": "https://open.spotify.com/album/1P8EYmCJmjYhtMhR2H3h4m"
+        "name": "The Grove",
+        "url": "https://open.spotify.com/album/0KRdcfl8C4iPEhmw0Qgwce"
       },
       "artists": [
         {
-          "name": "DJ Trouble",
-          "url": "https://open.spotify.com/artist/33KsPfISa6inRnrPvWutSy"
+          "name": "DJ Orange Julius",
+          "url": "https://open.spotify.com/artist/4DiPpabfaBSsHYvjlPkazH"
         }
       ],
-      "duration_ms": 180453,
-      "name": "Bangs & Works",
-      "url": "https://open.spotify.com/track/4CQSClkhQi4zrNMKEzHxQ2"
+      "duration_ms": 289133,
+      "name": "Skkrtt",
+      "url": "https://open.spotify.com/track/0zEgbC1lVNEYUJCv0jbUfc"
     },
     {
       "added_at": "2020-12-03 17:37:02",
@@ -515,22 +515,6 @@
       "duration_ms": 145426,
       "name": "Bounce",
       "url": "https://open.spotify.com/track/2by9dE80FvGCBjyQxd2zJo"
-    },
-    {
-      "added_at": "2020-12-03 17:37:02",
-      "album": {
-        "name": "Pleasure",
-        "url": "https://open.spotify.com/album/4KXuiwlBnuaPkxjnGJ2zVz"
-      },
-      "artists": [
-        {
-          "name": "DJ Orange Julius",
-          "url": "https://open.spotify.com/artist/4DiPpabfaBSsHYvjlPkazH"
-        }
-      ],
-      "duration_ms": 192750,
-      "name": "Fire Man",
-      "url": "https://open.spotify.com/track/5AG3SZvJxBtjyU5j7KdSTt"
     },
     {
       "added_at": "2020-12-03 17:37:02",
@@ -591,18 +575,18 @@
     {
       "added_at": "2020-12-03 17:37:02",
       "album": {
-        "name": "T3 TRAXX, Vol. 2",
-        "url": "https://open.spotify.com/album/0VXeDXXyazcUW5kbzSOWSH"
+        "name": "Pleasure",
+        "url": "https://open.spotify.com/album/4KXuiwlBnuaPkxjnGJ2zVz"
       },
       "artists": [
         {
-          "name": "CRZKNY",
-          "url": "https://open.spotify.com/artist/1FGPwtHOMV3xV8qtoci5po"
+          "name": "DJ Orange Julius",
+          "url": "https://open.spotify.com/artist/4DiPpabfaBSsHYvjlPkazH"
         }
       ],
-      "duration_ms": 186000,
-      "name": "L",
-      "url": "https://open.spotify.com/track/5NhmNspdkZwdMYeebLY1Hi"
+      "duration_ms": 192750,
+      "name": "Fire Man",
+      "url": "https://open.spotify.com/track/5AG3SZvJxBtjyU5j7KdSTt"
     },
     {
       "added_at": "2020-12-03 17:37:02",
@@ -619,6 +603,22 @@
       "duration_ms": 236571,
       "name": "Juking For Live (I.C.T.W)",
       "url": "https://open.spotify.com/track/0x8GxrGOhZLJJWve0qMryZ"
+    },
+    {
+      "added_at": "2020-12-03 17:37:02",
+      "album": {
+        "name": "T3 TRAXX, Vol. 2",
+        "url": "https://open.spotify.com/album/0VXeDXXyazcUW5kbzSOWSH"
+      },
+      "artists": [
+        {
+          "name": "CRZKNY",
+          "url": "https://open.spotify.com/artist/1FGPwtHOMV3xV8qtoci5po"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "L",
+      "url": "https://open.spotify.com/track/5NhmNspdkZwdMYeebLY1Hi"
     },
     {
       "added_at": "2020-12-03 17:37:02",
@@ -723,6 +723,22 @@
     {
       "added_at": "2020-12-03 17:37:02",
       "album": {
+        "name": "Pariah",
+        "url": "https://open.spotify.com/album/2cQwyNQHQhthLUZIpEdhd2"
+      },
+      "artists": [
+        {
+          "name": "Jana Rush",
+          "url": "https://open.spotify.com/artist/0wJyMhSanZRw2cEA6cx503"
+        }
+      ],
+      "duration_ms": 344618,
+      "name": "Divine",
+      "url": "https://open.spotify.com/track/3lxM3D6W6Iexp6aRIHxb1w"
+    },
+    {
+      "added_at": "2020-12-03 17:37:02",
+      "album": {
         "name": "ON LIFE, Vol. 2",
         "url": "https://open.spotify.com/album/6PUO9tb1HaXV7uzka0VtMu"
       },
@@ -759,22 +775,6 @@
     {
       "added_at": "2020-12-03 17:37:02",
       "album": {
-        "name": "Pariah",
-        "url": "https://open.spotify.com/album/2cQwyNQHQhthLUZIpEdhd2"
-      },
-      "artists": [
-        {
-          "name": "Jana Rush",
-          "url": "https://open.spotify.com/artist/0wJyMhSanZRw2cEA6cx503"
-        }
-      ],
-      "duration_ms": 344618,
-      "name": "Divine",
-      "url": "https://open.spotify.com/track/3lxM3D6W6Iexp6aRIHxb1w"
-    },
-    {
-      "added_at": "2020-12-03 17:37:02",
-      "album": {
         "name": "Dark Energy",
         "url": "https://open.spotify.com/album/5jxuCEWIiXAEdjrBPTOMTK"
       },
@@ -791,22 +791,6 @@
     {
       "added_at": "2020-12-03 17:37:02",
       "album": {
-        "name": "Some Pulp",
-        "url": "https://open.spotify.com/album/2ili3qzLq2R0qrtKmmxItD"
-      },
-      "artists": [
-        {
-          "name": "DJ Orange Julius",
-          "url": "https://open.spotify.com/artist/4DiPpabfaBSsHYvjlPkazH"
-        }
-      ],
-      "duration_ms": 232500,
-      "name": "Battle",
-      "url": "https://open.spotify.com/track/3dhO7ixs6lgQZ1fgbI1IDd"
-    },
-    {
-      "added_at": "2020-12-03 17:37:02",
-      "album": {
         "name": "Kush, Rhodes & 808's",
         "url": "https://open.spotify.com/album/4xW3MYeu3Gwc224UHhNAfV"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 210000,
       "name": "Keep the Drug$",
       "url": "https://open.spotify.com/track/7tzfOnSTtrr8Gzl00240Ik"
+    },
+    {
+      "added_at": "2020-12-03 17:37:02",
+      "album": {
+        "name": "Some Pulp",
+        "url": "https://open.spotify.com/album/2ili3qzLq2R0qrtKmmxItD"
+      },
+      "artists": [
+        {
+          "name": "DJ Orange Julius",
+          "url": "https://open.spotify.com/artist/4DiPpabfaBSsHYvjlPkazH"
+        }
+      ],
+      "duration_ms": 232500,
+      "name": "Battle",
+      "url": "https://open.spotify.com/track/3dhO7ixs6lgQZ1fgbI1IDd"
     },
     {
       "added_at": "2020-12-03 17:37:02",
@@ -883,26 +883,6 @@
     {
       "added_at": "2020-12-03 17:37:02",
       "album": {
-        "name": "ON LIFE",
-        "url": "https://open.spotify.com/album/3NYdL4BxJhHiA0IjBK9NbR"
-      },
-      "artists": [
-        {
-          "name": "Teklife",
-          "url": "https://open.spotify.com/artist/1GoZKzpOpwfoZLj1W6sjeg"
-        },
-        {
-          "name": "DJ Tre",
-          "url": "https://open.spotify.com/artist/6so1AgXg57ZYwyhe9dhhYS"
-        }
-      ],
-      "duration_ms": 219320,
-      "name": "WE GON DANCE",
-      "url": "https://open.spotify.com/track/3MI20cDoa9zWn0c70ikDq4"
-    },
-    {
-      "added_at": "2020-12-03 17:37:02",
-      "album": {
         "name": "Guaranteed",
         "url": "https://open.spotify.com/album/1HMCwgdVCktmbzoKPxAzzX"
       },
@@ -915,22 +895,6 @@
       "duration_ms": 220800,
       "name": "Stick Em'",
       "url": "https://open.spotify.com/track/1Pr37UKvEs9EWlO70gTPhF"
-    },
-    {
-      "added_at": "2020-12-03 17:37:02",
-      "album": {
-        "name": "The Grove",
-        "url": "https://open.spotify.com/album/0KRdcfl8C4iPEhmw0Qgwce"
-      },
-      "artists": [
-        {
-          "name": "DJ Orange Julius",
-          "url": "https://open.spotify.com/artist/4DiPpabfaBSsHYvjlPkazH"
-        }
-      ],
-      "duration_ms": 217508,
-      "name": "Bring It Back",
-      "url": "https://open.spotify.com/track/0NesKGMUOHjOoPI6KWNLKT"
     },
     {
       "added_at": "2020-12-03 17:37:02",
@@ -951,18 +915,22 @@
     {
       "added_at": "2020-12-03 17:37:02",
       "album": {
-        "name": "Still Trippin'",
-        "url": "https://open.spotify.com/album/403PDAWEhyjyf8hW0hqZrg"
+        "name": "ON LIFE",
+        "url": "https://open.spotify.com/album/3NYdL4BxJhHiA0IjBK9NbR"
       },
       "artists": [
         {
-          "name": "DJ Taye",
-          "url": "https://open.spotify.com/artist/4T1sY4aibm24hxfz9JnI7c"
+          "name": "Teklife",
+          "url": "https://open.spotify.com/artist/1GoZKzpOpwfoZLj1W6sjeg"
+        },
+        {
+          "name": "DJ Tre",
+          "url": "https://open.spotify.com/artist/6so1AgXg57ZYwyhe9dhhYS"
         }
       ],
-      "duration_ms": 193041,
-      "name": "Trippin'",
-      "url": "https://open.spotify.com/track/49Cxo7HnU6TyR8sLkc2oJk"
+      "duration_ms": 219320,
+      "name": "WE GON DANCE",
+      "url": "https://open.spotify.com/track/3MI20cDoa9zWn0c70ikDq4"
     },
     {
       "added_at": "2020-12-03 17:37:02",
@@ -979,6 +947,38 @@
       "duration_ms": 278699,
       "name": "Can't Fake My Feelings (part 2)",
       "url": "https://open.spotify.com/track/1FsngYSueNDXhfa7hs7W4G"
+    },
+    {
+      "added_at": "2020-12-03 17:37:02",
+      "album": {
+        "name": "The Grove",
+        "url": "https://open.spotify.com/album/0KRdcfl8C4iPEhmw0Qgwce"
+      },
+      "artists": [
+        {
+          "name": "DJ Orange Julius",
+          "url": "https://open.spotify.com/artist/4DiPpabfaBSsHYvjlPkazH"
+        }
+      ],
+      "duration_ms": 217508,
+      "name": "Bring It Back",
+      "url": "https://open.spotify.com/track/0NesKGMUOHjOoPI6KWNLKT"
+    },
+    {
+      "added_at": "2020-12-03 17:37:02",
+      "album": {
+        "name": "Still Trippin'",
+        "url": "https://open.spotify.com/album/403PDAWEhyjyf8hW0hqZrg"
+      },
+      "artists": [
+        {
+          "name": "DJ Taye",
+          "url": "https://open.spotify.com/artist/4T1sY4aibm24hxfz9JnI7c"
+        }
+      ],
+      "duration_ms": 193041,
+      "name": "Trippin'",
+      "url": "https://open.spotify.com/track/49Cxo7HnU6TyR8sLkc2oJk"
     },
     {
       "added_at": "2020-12-03 17:37:02",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2020-12-03 17:37:02",
       "album": {
+        "name": "The Crack Capone",
+        "url": "https://open.spotify.com/album/4vOJ3wYsBpJXigwlJ7zpDC"
+      },
+      "artists": [
+        {
+          "name": "DJ Roc",
+          "url": "https://open.spotify.com/artist/3M5fbUWlySs9LximfJj5Da"
+        }
+      ],
+      "duration_ms": 167973,
+      "name": "One Blood",
+      "url": "https://open.spotify.com/track/0ydUOg7O89rwt6cVteWJ2B"
+    },
+    {
+      "added_at": "2020-12-03 17:37:02",
+      "album": {
         "name": "ON LIFE",
         "url": "https://open.spotify.com/album/3NYdL4BxJhHiA0IjBK9NbR"
       },
@@ -1095,22 +1111,6 @@
     {
       "added_at": "2020-12-03 17:37:02",
       "album": {
-        "name": "Druguse",
-        "url": "https://open.spotify.com/album/6ljZyft0E5HL6eldfdVivk"
-      },
-      "artists": [
-        {
-          "name": "Druguse",
-          "url": "https://open.spotify.com/artist/7cacQtmSGJSf7HtEslj0xW"
-        }
-      ],
-      "duration_ms": 208530,
-      "name": "Elevate",
-      "url": "https://open.spotify.com/track/1QVn0sWicVdDIeSzjH9Azl"
-    },
-    {
-      "added_at": "2020-12-03 17:37:02",
-      "album": {
         "name": "Da Trak Genious",
         "url": "https://open.spotify.com/album/3b7HxjiBDo5ZVRmKqKYYx7"
       },
@@ -1127,18 +1127,18 @@
     {
       "added_at": "2020-12-03 17:37:02",
       "album": {
-        "name": "The Crack Capone",
-        "url": "https://open.spotify.com/album/4vOJ3wYsBpJXigwlJ7zpDC"
+        "name": "Druguse",
+        "url": "https://open.spotify.com/album/6ljZyft0E5HL6eldfdVivk"
       },
       "artists": [
         {
-          "name": "DJ Roc",
-          "url": "https://open.spotify.com/artist/3M5fbUWlySs9LximfJj5Da"
+          "name": "Druguse",
+          "url": "https://open.spotify.com/artist/7cacQtmSGJSf7HtEslj0xW"
         }
       ],
-      "duration_ms": 167973,
-      "name": "One Blood",
-      "url": "https://open.spotify.com/track/0ydUOg7O89rwt6cVteWJ2B"
+      "duration_ms": 208530,
+      "name": "Elevate",
+      "url": "https://open.spotify.com/track/1QVn0sWicVdDIeSzjH9Azl"
     },
     {
       "added_at": "2020-12-03 17:37:02",
@@ -1155,30 +1155,6 @@
       "duration_ms": 246308,
       "name": "Nycfw",
       "url": "https://open.spotify.com/track/3EQA4h2oX2HsqUXwmb9EMs"
-    },
-    {
-      "added_at": "2020-12-03 17:37:02",
-      "album": {
-        "name": "ON LIFE",
-        "url": "https://open.spotify.com/album/3NYdL4BxJhHiA0IjBK9NbR"
-      },
-      "artists": [
-        {
-          "name": "Teklife",
-          "url": "https://open.spotify.com/artist/1GoZKzpOpwfoZLj1W6sjeg"
-        },
-        {
-          "name": "DJ Big Hank",
-          "url": "https://open.spotify.com/artist/1d7okU7Ufb7pYnCdVT6CnK"
-        },
-        {
-          "name": "Sirr TMO",
-          "url": "https://open.spotify.com/artist/7wMCA0Cx8O1adCSiTV1IMY"
-        }
-      ],
-      "duration_ms": 206853,
-      "name": "DON'T JUST STAND THERE",
-      "url": "https://open.spotify.com/track/3tR8VBrDIU6emD1coGfg3I"
     },
     {
       "added_at": "2020-12-03 17:37:02",
@@ -1243,6 +1219,30 @@
       "duration_ms": 303308,
       "name": "Next Subject",
       "url": "https://open.spotify.com/track/6KnzZDxeaW7BLHXep6roA4"
+    },
+    {
+      "added_at": "2020-12-03 17:37:02",
+      "album": {
+        "name": "ON LIFE",
+        "url": "https://open.spotify.com/album/3NYdL4BxJhHiA0IjBK9NbR"
+      },
+      "artists": [
+        {
+          "name": "Teklife",
+          "url": "https://open.spotify.com/artist/1GoZKzpOpwfoZLj1W6sjeg"
+        },
+        {
+          "name": "DJ Big Hank",
+          "url": "https://open.spotify.com/artist/1d7okU7Ufb7pYnCdVT6CnK"
+        },
+        {
+          "name": "Sirr TMO",
+          "url": "https://open.spotify.com/artist/7wMCA0Cx8O1adCSiTV1IMY"
+        }
+      ],
+      "duration_ms": 206853,
+      "name": "DON'T JUST STAND THERE",
+      "url": "https://open.spotify.com/track/3tR8VBrDIU6emD1coGfg3I"
     },
     {
       "added_at": "2020-12-03 17:37:02",

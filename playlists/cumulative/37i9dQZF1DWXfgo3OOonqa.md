@@ -4,7 +4,7 @@
 
 > Håll det 100.
 
-568 songs - 1 day 1 hr 22 min - [published](https://open.spotify.com/playlist/1YkCPMAEafAvzqDRhr0Ocd)
+569 songs - 1 day 1 hr 25 min - [published](https://open.spotify.com/playlist/1YkCPMAEafAvzqDRhr0Ocd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,6 +194,7 @@
 | [För evigt](https://open.spotify.com/track/6i9bzIGdgfQiyw9S3QhSCy) | [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5) | [För evigt](https://open.spotify.com/album/143MKTPgMmzi5emJl2sZhM) | 2:32 | 2022-05-05 | 2022-06-17 |
 | [För Evigt Tacksam](https://open.spotify.com/track/5o9DhuKsjDOhlGfQ9Dnpua) | [JB](https://open.spotify.com/artist/6Xln2zf2OkGDhFKUQcw1yB), [Lani Mo](https://open.spotify.com/artist/45hO5u8evtwIpSYefQHW8P) | [Allting Har Sitt Pris \(Del 1\)](https://open.spotify.com/album/4cXRcULPoRuWTEOK25Wz2u) | 2:27 | 2022-02-21 | 2022-03-17 |
 | [Förgifta mig](https://open.spotify.com/track/0Qs3eQz0qfGTeVPgwnUEZE) | [Romeo](https://open.spotify.com/artist/3TSLK8NFrFC8KqFwZlM58D) | [Förgifta mig](https://open.spotify.com/album/6dGU2qN3GCfZqiGniYmvJ5) | 2:40 | 2022-01-20 | 2022-02-18 |
+| [FÖRSENT](https://open.spotify.com/track/2A0ldcG3kavQErxfGlwJNs) | [1.Cuz](https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr), [Greekazo](https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8), [Yei Gonzalez](https://open.spotify.com/artist/54tAGj0D5DRj7wKZdgALnq) | [FÖRSENT](https://open.spotify.com/album/75lodPgecaqXT1up0Maffe) | 3:02 | 2022-09-21 |  |
 | [Förstå Mig](https://open.spotify.com/track/5B8djcGqRbS0aUJXMUvBGr) | [Jashua K](https://open.spotify.com/artist/2nIAGKzAZOR0PsM6jsA9Jj) | [Förstå Mig](https://open.spotify.com/album/37JRDrV3GVedifYAwx32HO) | 2:24 | 2022-03-24 | 2022-04-15 |
 | [Förstår Det Nu](https://open.spotify.com/track/2HnE1eny50TK0PAm804LDy) | [INOMI](https://open.spotify.com/artist/4y6IXL3FLmSLs4CCgpq5i2) | [Förstår Det Nu](https://open.spotify.com/album/0bZvMsk9hKtmw91qu6pqMp) | 3:52 | 2022-06-23 | 2022-08-19 |
 | [G\-CODE](https://open.spotify.com/track/7GLqG1b18ebqXmCl7EUNt3) | [Greekazo](https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8), [Mackan](https://open.spotify.com/artist/2XFGtS2h7MOHTjxZA1zg7H) | [G\-CODE](https://open.spotify.com/album/2iq0rnASwKLB5xlTzVedGp) | 2:28 | 2022-03-17 | 2022-05-13 |

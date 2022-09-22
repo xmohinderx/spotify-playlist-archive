@@ -4,7 +4,7 @@
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: BAMSOOSUNG\(밤수성\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-513 songs - 1 day 7 hr 26 min - [published](https://open.spotify.com/playlist/7oIOz55z3nJxu7NnCUP6gQ)
+514 songs - 1 day 7 hr 28 min - [published](https://open.spotify.com/playlist/7oIOz55z3nJxu7NnCUP6gQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,7 +188,7 @@
 | [How Can I \(feat\. Zoe Carovano\)](https://open.spotify.com/track/3L8NV1XmWMUdlSAttlJ5h5) | [Sentimental Scenery](https://open.spotify.com/artist/3tAtWjLnNyZqmvfLx2dDJ7), [Zoe Carovano](https://open.spotify.com/artist/58OjLCC4IqZGQBgN91m7DC) | [How Can I](https://open.spotify.com/album/4zxQtH7O7YqeBKh0ti0F22) | 3:23 | 2022-03-31 | 2022-04-11 |
 | [HOWL](https://open.spotify.com/track/10WHVzgIky5w6pIgG8tePU) | [Luli Lee](https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK) | [HOWL](https://open.spotify.com/album/5BzJygUNWvRFzkUBI460Ob) | 3:32 | 2022-03-31 | 2022-04-11 |
 | [Hug](https://open.spotify.com/track/1yzPbQYfMcuJMlpWi8npDQ) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Puberty BookⅡ Pum](https://open.spotify.com/album/1wnPosDt7DsSYDDLQ2XBdh) | 3:06 | 2022-04-12 | 2022-04-18 |
-| [Hug](https://open.spotify.com/track/5IjEA99ADS6ERSh8Ck1OLq) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Puberty BookⅡ Pum](https://open.spotify.com/album/7bokVbwwFlYf6dqzdSUXEp) | 3:06 | 2022-09-20 |  |
+| [Hug](https://open.spotify.com/track/5IjEA99ADS6ERSh8Ck1OLq) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Puberty BookⅡ Pum](https://open.spotify.com/album/7bokVbwwFlYf6dqzdSUXEp) | 3:06 | 2022-09-20 | 2022-09-22 |
 | [Hug me tight](https://open.spotify.com/track/72hSGQmtB2M7VGouyZ9Yr4) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Hug me tight](https://open.spotify.com/album/4yitFAHe08JSAvqk7zFWUF) | 3:47 | 2022-05-11 | 2022-07-27 |
 | [Hwi Hwi](https://open.spotify.com/track/1vx1TTe2ZZEkcGDXxpZrD1) | [HAYAN](https://open.spotify.com/artist/4qAzYmM90kRO5IX9MUhQjf) | [Hwi Hwi](https://open.spotify.com/album/2rPbOfaFDrb6WwzvLS98i6) | 3:10 | 2022-03-31 | 2022-04-16 |
 | [i](https://open.spotify.com/track/4h9jlv3tO0gm0i1mQ7o6hZ) | [Lee Aram](https://open.spotify.com/artist/3j0Q7sspsBVQm6SdlkqYp1) | [i](https://open.spotify.com/album/4bXJUWoEn4L5fk0hwE0BPD) | 2:40 | 2022-05-02 | 2022-07-29 |
@@ -428,6 +428,7 @@
 | [Swim \- Virus Edit](https://open.spotify.com/track/5A2p3ewIaFMGpJN3P3L2hl) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [Virus Mix](https://open.spotify.com/album/3eSzJfr41r54E9HS3AJXAV) | 3:27 | 2022-03-31 | 2022-04-20 |
 | [Swim In The Ocean](https://open.spotify.com/track/0UKegdEEbAmNYw1NMIGlwi) | [라라 Lara](https://open.spotify.com/artist/1FKYTUBCKMWh2JDdYdWObW) | [Swim In The Ocean](https://open.spotify.com/album/6XA4hSAXBT13DKgBowNZ26) | 4:01 | 2022-02-10 | 2022-04-05 |
 | [SWIMMING](https://open.spotify.com/track/5kBbwUU7azLeOlZl4pEsZG) | [HYEEUN](https://open.spotify.com/artist/1w2W3b2Z93RMJlygXigbNL) | [SWIMMING](https://open.spotify.com/album/4GcS4r0YR5LAuUoD5NMOTu) | 3:05 | 2021-12-21 | 2022-04-16 |
+| [Swimming In Stars](https://open.spotify.com/track/04VNf8zCO7uj1mvGBIp0vu) | [BAMSOOSUNG](https://open.spotify.com/artist/2iijjkoVBe57TcHnsR3sOy) | [Swimming In Stars](https://open.spotify.com/album/7bhmu8wRFlltlaJTlDvfYJ) | 2:56 | 2022-09-21 |  |
 | [Tell Me](https://open.spotify.com/track/3r8ySXFh7glcKFij6LUzCz) | [NavyQuokka](https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW) | [Tell Me](https://open.spotify.com/album/0CWiteWy2CGtpJTsHqmhms) | 2:53 | 2022-02-16 | 2022-04-26 |
 | [Tell me about your world](https://open.spotify.com/track/7egcd8TpHmrRdFzaZQGSGj) | [msftz](https://open.spotify.com/artist/2v9xvjxXMMndxvLJ86Ice4) | [Tell me about your world](https://open.spotify.com/album/3aP2kHKhDGWtyyzFu737vv) | 4:11 | 2021-12-21 | 2022-07-05 |
 | [That Day](https://open.spotify.com/track/2PRAXIx89uLrMOqHObS4tb) | [The Orchard](https://open.spotify.com/artist/6w8vEVxqF3ilGHbjTWgTKI) | [My Liberation Notes OST Part 4](https://open.spotify.com/album/6sPu6tsH64Dj3RMsUJJ8rZ) | 3:02 | 2022-05-11 | 2022-08-07 |

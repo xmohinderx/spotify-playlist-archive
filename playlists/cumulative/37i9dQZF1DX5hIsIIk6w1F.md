@@ -2,9 +2,9 @@
 
 ### [Reggaetón Chileno](https://open.spotify.com/playlist/37i9dQZF1DX5hIsIIk6w1F)
 
-> Este Flow tiene otro Flow\. Foto: Gino Mella.
+> Este Flow tiene otro Flow\. Foto: J Balvin & Polimá Westcoast.
 
-185 songs - 10 hr 48 min - [published](https://open.spotify.com/playlist/2FMJDC0qJwnjZnSiGHmfDy)
+186 songs - 10 hr 52 min - [published](https://open.spotify.com/playlist/2FMJDC0qJwnjZnSiGHmfDy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Imaginandote](https://open.spotify.com/track/6yaA80oSrxdp2XlVDXqCMi) | [Tunechikidd](https://open.spotify.com/artist/0QpMp8Y7jFzwCt8OZjKQdd), [Sayian Jimmy](https://open.spotify.com/artist/3ZfYo6sKskRv0wOyrZZdAj) | [Imaginandote](https://open.spotify.com/album/44ylExBWZV3u4tljy9myIs) | 2:49 | 2022-05-23 | 2022-09-11 |
 | [Jarabe \- Remastered](https://open.spotify.com/track/2YVn2wkwLYSVkSV6qgKIPg) | [Kevin Martes 13](https://open.spotify.com/artist/2OEZ0KKJrKXsRQ6hU9bbfS) | [Inmortal](https://open.spotify.com/album/2tzC3V05vkZW60Ch6G5KJW) | 2:22 | 2022-05-23 |  |
 | [Jeke](https://open.spotify.com/track/0AK1SYIE4gmPOKy7iI0NFW) | [Drakomafia](https://open.spotify.com/artist/20BNHnI2SfySwLwWCAu4ew) | [Jeke](https://open.spotify.com/album/3CRZqDXvsdbEnbkCMfCPOg) | 2:35 | 2022-05-23 | 2022-07-08 |
+| [KAWAII](https://open.spotify.com/track/1AFcJGVt4enuH1gqGw2axN) | [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [KAWAII](https://open.spotify.com/album/7HkcjdEaCl3g9uD3MaJLrf) | 3:18 | 2022-09-21 |  |
 | [Kieta Mina](https://open.spotify.com/track/1OflgRgVKPymz48MAiXCEB) | [El Maniako The Boost](https://open.spotify.com/artist/5lwU7m62FDvwm2hnNxfStO), [Sayian Jimmy](https://open.spotify.com/artist/3ZfYo6sKskRv0wOyrZZdAj), [Benji Gramitos](https://open.spotify.com/artist/0qo0qirBort7v7IMWHVC3c) | [Kieta Mina](https://open.spotify.com/album/0jA9SXbcKqWGBqqe5rwbIS) | 3:30 | 2022-08-26 |  |
 | [La Baby](https://open.spotify.com/track/1wAqUzbZqCnxy7zk7wwmyV) | [Simon la Letra](https://open.spotify.com/artist/6hYxQDiGct9yfRlSEv3F8a) | [La Baby](https://open.spotify.com/album/5duX40TaStsqR8WvzyeMTh) | 3:35 | 2022-05-23 | 2022-06-25 |
 | [LA DEL SAXO](https://open.spotify.com/track/3MhoetWD5caCj2A83s94fm) | [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH), [Ovyze](https://open.spotify.com/artist/4jzpU8H3P6UJYFUWwwwCx4) | [LA DEL SAXO](https://open.spotify.com/album/2Mcphi1E5gDO5HgGFGOyMz) | 3:29 | 2022-07-07 | 2022-08-20 |

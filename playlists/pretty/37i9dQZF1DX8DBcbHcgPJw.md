@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DBcbHcgPJw.md) - [plain]
 
 > ¡Lo mejor de la Cumbia Pop! <br/>Foto: Rei.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,139,606 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,139,626 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DBcbHcgPJw.md) - [plain]
 | 33 | [Aunque Te Enamores](https://open.spotify.com/track/2qDQiPI2F0tMefcNQHGrQS) | [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW), [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Aunque Te Enamores](https://open.spotify.com/album/4m4KiRsQNV8wWvrfDgqBgA) | 2:10 |
 | 34 | [No Se](https://open.spotify.com/track/0tTkyk0axNyWRHzPBgRb8l) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [No Se](https://open.spotify.com/album/6NJlOO58BXDL9pDfc4kuqb) | 2:40 |
 | 35 | [Si Me Tomo una Cerveza \- Remix](https://open.spotify.com/track/7oySelE0Cb5q1TBBSPZJT2) | [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Oscu](https://open.spotify.com/artist/5iDqEobZRSTiBSAk6jLp4A), [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK), [Agapornis](https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1), [Alico](https://open.spotify.com/artist/7n3wAgh1j3RRbxYzfZTQDF), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [Si Me Tomo una Cerveza \(Remix\)](https://open.spotify.com/album/7lDnwvTQGoFOCRD7GGRpks) | 3:57 |
-| 36 | [Bésame](https://open.spotify.com/track/5uD4fcXch2qE5LYeyDipA1) | [El Reja](https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW), [Lira](https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi) | [Bésame](https://open.spotify.com/album/2gdXeh9icSTRQp71pxmTP6) | 2:22 |
-| 37 | [Carnavalintro](https://open.spotify.com/track/6XxIFsqBxiUct0UK7deoJ0) | [Chano](https://open.spotify.com/artist/14lvrkdaXxggonwjKZpePM) | [El Otro](https://open.spotify.com/album/6swPfLunPCGK1WcmMML99p) | 3:10 |
+| 36 | [Carnavalintro](https://open.spotify.com/track/6XxIFsqBxiUct0UK7deoJ0) | [Chano](https://open.spotify.com/artist/14lvrkdaXxggonwjKZpePM) | [El Otro](https://open.spotify.com/album/6swPfLunPCGK1WcmMML99p) | 3:10 |
+| 37 | [Bésame](https://open.spotify.com/track/5uD4fcXch2qE5LYeyDipA1) | [El Reja](https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW), [Lira](https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi) | [Bésame](https://open.spotify.com/album/2gdXeh9icSTRQp71pxmTP6) | 2:22 |
 | 38 | [Escápate Conmigo](https://open.spotify.com/track/408q39K0rnY815TF5x52tb) | [Nene Malo](https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN) | [No Está en la Flecha Sino en el Indio](https://open.spotify.com/album/0c5AlFdcK0Tv073nYxrOBA) | 3:05 |
 | 39 | [Cuando Se Pone a Bailar](https://open.spotify.com/track/1MpKZi1zTXpERKwxmOu1PH) | [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK) | [Cuando Se Pone a Bailar](https://open.spotify.com/album/2PnTfdBKqkOYtazDgtClqX) | 3:15 |
 | 40 | [Sólo con un Beso](https://open.spotify.com/track/5ucrujpVC5pPdxNR42guhh) | [Los Totora](https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2) | [Sólo con un Beso](https://open.spotify.com/album/1wCoN5OCgwlVWfR8nzTJBJ) | 2:35 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DBcbHcgPJw.md) - [plain]
 | 77 | [Que Lloro](https://open.spotify.com/track/3FvaH4q2k3zru8sXjHZbtp) | [Zona Cumbia](https://open.spotify.com/artist/4OqzRJjjEDJV6af2ttYFHJ) | [Que Lloro](https://open.spotify.com/album/7lQpTex7DuJQe8Xv2U0Xgq) | 3:20 |
 | 78 | [Todavia Me Amas / La Novelita / Los Infieles](https://open.spotify.com/track/4LN5b4doyzFdKK9SgwEm8p) | [Damian Perez](https://open.spotify.com/artist/3mrlxgWaEt5MNjAoAq6IRy) | [Todavia Me Amas / La Novelita / Los Infieles](https://open.spotify.com/album/7H121ttrb3Hz1D34G2KJW0) | 4:23 |
 | 79 | [Corazón de Cemento](https://open.spotify.com/track/2XgdzrXCQpbwoovoAK7HTS) | [j mena](https://open.spotify.com/artist/6iYRN5eaz8LSxvwkhmwkRj), [Chili Fernandez](https://open.spotify.com/artist/3YXV0Ed1NtUyaR9WJF2JID) | [Corazón de Cemento](https://open.spotify.com/album/4BT1TzdLFzI9sx2YBTyORY) | 4:00 |
-| 80 | [Sigue Bailando](https://open.spotify.com/track/6YPO4d3RbnKQZix9QcG7HT) | [Dame 5](https://open.spotify.com/artist/0J65S0gB0D1gDEd0hK196k), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [Sigue Bailando](https://open.spotify.com/album/7qiIuRaqtRk5PtUdzL96ZS) | 2:39 |
-| 81 | [Le Mandamos Cumbia Perro \(CMTV Acústico\)](https://open.spotify.com/track/7eDMH00hRE0VIsGr5txa9B) | [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [Le Mandamos Cumbia Perro \(CMTV Acústico\)](https://open.spotify.com/album/7BAOAzrFb0EK8tsmbAI6Lm) | 6:02 |
+| 80 | [Le Mandamos Cumbia Perro \(CMTV Acústico\)](https://open.spotify.com/track/7eDMH00hRE0VIsGr5txa9B) | [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [Le Mandamos Cumbia Perro \(CMTV Acústico\)](https://open.spotify.com/album/7BAOAzrFb0EK8tsmbAI6Lm) | 6:02 |
+| 81 | [Sigue Bailando](https://open.spotify.com/track/6YPO4d3RbnKQZix9QcG7HT) | [Dame 5](https://open.spotify.com/artist/0J65S0gB0D1gDEd0hK196k), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [Sigue Bailando](https://open.spotify.com/album/7qiIuRaqtRk5PtUdzL96ZS) | 2:39 |
 | 82 | [Blinding Lights](https://open.spotify.com/track/6acWfDtGAr6bGzVFqmRozj) | [Megapuesta](https://open.spotify.com/artist/2u70zmwJlNfRR89itoO8j2) | [Blinding Lights](https://open.spotify.com/album/7BFhm3PcO7hxATeviLbRbE) | 3:02 |
 | 83 | [El Color de Tus Ojos](https://open.spotify.com/track/7nmV1InGzooNuPx6iSPwHz) | [Agapornis](https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1) | [El Color de Tus Ojos](https://open.spotify.com/album/4nL0XYZSkhZZaFQvNvxbMO) | 2:36 |
 | 84 | [Chica Brasileña](https://open.spotify.com/track/3cjnOR9smeeqVfj13XSpqS) | [El Super Hobby](https://open.spotify.com/artist/4nTNHKAVWQyqnvRuBW4N4V) | [Fuego en la Noche](https://open.spotify.com/album/3kuFkR32n0p4DEQ9LOXnmU) | 2:27 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DBcbHcgPJw.md) - [plain]
 | 99 | [El Trato \- Remix](https://open.spotify.com/track/3jq37NOBQax11fx51F4z4w) | [DJ Alex](https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI), [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC), [Rodrigo Tapari](https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4) | [El Trato \(Remix\)](https://open.spotify.com/album/4igopBx6HMw2NVxX0R3sOv) | 2:23 |
 | 100 | [En el Coupe](https://open.spotify.com/track/5hJPNQJ0UtGBEYi2xxCD6R) | [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K), [Hernan y La Champion's Liga](https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt) | [Reicing](https://open.spotify.com/album/67D050tXcCNCXFcpfWVjzl) | 3:41 |
 
-Snapshot ID: `MTY2MjA4NzYwMCwwMDAwMDAwMDk2MDRjYThmYTIyZmM5OGI4NDg0ZmI0NmQ4YjY5MWYw`
+Snapshot ID: `MTY2MjA4NzYwMCwwMDAwMDAwMDM2YzdlZDA3NDUwYzg1NzkzZTA2ZDE2YjNkZGVjZWUx`

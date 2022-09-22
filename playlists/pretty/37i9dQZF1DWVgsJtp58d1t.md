@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > New releases, driving the current\. Cover: Ari Lennox
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,374 likes - 99 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,478 likes - 99 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 40 | [CENTIPEDE \(with KENNY MASON\)](https://open.spotify.com/track/2JiDnbh3HRC6WekbH2gpXI) | [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua), [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [C BOTH SIDES](https://open.spotify.com/album/4L0umpEJcMerCrqZmzbhHc) | 2:35 |
 | 41 | [Fall First](https://open.spotify.com/track/575m8eKKXa0bkR6haOzVPt) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [Spirituals](https://open.spotify.com/album/2AMcE13TUlCDdXVBlR0sdo) | 4:09 |
 | 42 | [Beg](https://open.spotify.com/track/0EjypH9hvvfx1a3llEuMFt) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9), [CLAY](https://open.spotify.com/artist/20aPu5vizjmoX2A7f7AOWL) | [Beg](https://open.spotify.com/album/2PxlxfPhwD7ys7kkXJVViU) | 2:44 |
-| 43 | [Same Ole](https://open.spotify.com/track/1I5jWUS5ItnNE7eBV2HuPl) | [Kelechi](https://open.spotify.com/artist/5RYLLsBCVrGJtU2RrlXrOR) | [Same Ole Different](https://open.spotify.com/album/0LkYoTX91lInW8Gu6EYm7r) | 3:21 |
+| 43 | [Same Ole](https://open.spotify.com/track/1I5jWUS5ItnNE7eBV2HuPl) | [Kelechief](https://open.spotify.com/artist/5jXB9DPh0YqcVt2GwQtVf9) | [Same Ole Different](https://open.spotify.com/album/0LkYoTX91lInW8Gu6EYm7r) | 3:21 |
 | 44 | [Wicked](https://open.spotify.com/track/3EhGkHOfcJ0ltSDht5vMRg) | [Eli Derby](https://open.spotify.com/artist/6Zyna13TkHdrEc4NFljS9u) | [Wicked](https://open.spotify.com/album/7ohqrhLykiF5AddwBzGdPs) | 2:07 |
 | 45 | [Alone](https://open.spotify.com/track/4QAGZ4ikVFkvEGIXzNFEae) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Alone](https://open.spotify.com/album/1qJNRLLa5s0hhFzRXQYgLF) | 2:38 |
 | 46 | [Checkmate](https://open.spotify.com/track/3KYTIo9pu84SbLL53iGew4) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed) | [Checkmate](https://open.spotify.com/album/092m8BBfQD4WLKfZXkD2PI) | 2:50 |

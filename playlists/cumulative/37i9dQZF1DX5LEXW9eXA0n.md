@@ -2,9 +2,9 @@
 
 ### [발라드, 려요 \(K\-Pop Ballad Hits\)](https://open.spotify.com/playlist/37i9dQZF1DX5LEXW9eXA0n)
 
-> Mellow & sentimental K\-Pop ballads\. \(Cover: Kim Na Young\(김나영\)\) \(당신의 감성에 발라드, 려요\)
+> Mellow & sentimental K\-Pop ballads\. \(Cover: Lyn\(린\)\) \(당신의 감성에 발라드, 려요\)
 
-532 songs - 1 day 10 hr 37 min - [published](https://open.spotify.com/playlist/50vXMaH1sm7s2jq2W5LswS)
+535 songs - 1 day 10 hr 48 min - [published](https://open.spotify.com/playlist/50vXMaH1sm7s2jq2W5LswS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [chronicle](https://open.spotify.com/track/7qXb2U3ORyYHUfUO55b4vQ) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [chronicle](https://open.spotify.com/album/186gD7vKW3i16leSXdBKXQ) | 4:21 | 2022-03-24 | 2022-04-19 |
 | [Cliche](https://open.spotify.com/track/3j4S4QDWyHo1pBrhLfUgqM) | [ROJO](https://open.spotify.com/artist/5fb2Jm0wQjvBzc5Wu6RrGl) | [Cliche](https://open.spotify.com/album/0HvDuRpsbzr3ZMewq2zIxE) | 3:06 | 2022-07-07 | 2022-08-02 |
 | [COLD LOVE](https://open.spotify.com/track/4lyJXFhjQ6D0XMMAddhzZP) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [COLD LOVE](https://open.spotify.com/album/3aOrMwQ4CXnSROnZlIZqbB) | 3:35 | 2021-12-23 | 2022-07-07 |
+| [Come to me](https://open.spotify.com/track/15B4c0s5pFerL39gsAI5Wt) | [Boramiyu](https://open.spotify.com/artist/4CWuEFVuRfUm7LrGmMBMrN) | [Once Upon a Small Town \(Original Television Soundtrack\), Pt.3](https://open.spotify.com/album/3U0ByqNYH9fMoRr8Wo6qgc) | 3:30 | 2022-09-21 |  |
 | [Common Regret](https://open.spotify.com/track/56guunK8Kb6rtwTiYZAxwJ) | [Jero](https://open.spotify.com/artist/4ZT4Uk077lxYVzmVQhMLE9) | [Monthly magazine home \(Original Television Soundtrack\) Pt.6](https://open.spotify.com/album/6botCjfBk16Z9AjJL1jv9U) | 4:17 | 2022-01-17 | 2022-01-26 |
 | [Confession Is Not Flashy](https://open.spotify.com/track/0q58M70BS6kq2q82rpwxcz) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [HOSPITAL PLAYLIST \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/0Z2dJ96Dei0wMA7Lz2dpgQ) | 3:48 | 2021-12-23 | 2022-06-20 |
 | [Darling](https://open.spotify.com/track/1W5IcItEBB4x58xlcFUG6t) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt) | [Darling](https://open.spotify.com/album/3E66L4GRXng49nIsQloQFi) | 3:52 | 2021-12-23 | 2022-04-17 |
@@ -333,6 +334,7 @@
 | [Nagging](https://open.spotify.com/track/2SmPmWka2lRmD7GDehpjMF) | [Hwang Chi Yeul](https://open.spotify.com/artist/689wBe4v9rvHjdNB4JUgYq) | [CYWORLD BGM 2021](https://open.spotify.com/album/5DiDgD3t2FQFdbXmb4ziWD) | 4:04 | 2021-12-23 | 2022-04-21 |
 | [Natural Sorrow](https://open.spotify.com/track/5ADgSqZx39JVjG0siBRncL) | [Jeon Sang Keun](https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd) | [After\. 1st](https://open.spotify.com/album/1zDXYgsyupkTZQj3W9GFQP) | 4:15 | 2022-03-31 | 2022-04-09 |
 | [Never let you go](https://open.spotify.com/track/0rama9ojHvaOiQQ5cA0glu) | [AleXa](https://open.spotify.com/artist/4jCGRzuZkwo8CxboiANMEU) | [Never let you go](https://open.spotify.com/album/3t6O9PyiyLjW58koeRrQEc) | 4:04 | 2021-12-20 | 2022-07-02 |
+| [Night We Shine](https://open.spotify.com/track/1wEVAO5UNyPn0Fh4H89fhK) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [Night We Shine](https://open.spotify.com/album/50tZqh8ASPusurk4CTQ0wn) | 3:51 | 2022-09-21 |  |
 | [No good in good\-bye](https://open.spotify.com/track/7e1awRaixVM0YDoZZs5mC1) | [2am](https://open.spotify.com/artist/5SnaL8SsjGMHQNyqpa8Zos) | [Ballad 21 F/W](https://open.spotify.com/album/6EggMg9W6wan2o1YadUhAq) | 3:32 | 2022-01-03 | 2022-06-12 |
 | [No More Love](https://open.spotify.com/track/0FgzBnTAwEFcuO6bNYweaM) | [YESUNG](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf) | [Beautiful Night \- The 4th Mini Album](https://open.spotify.com/album/7x0nqb4xJTOI1KwpX8pB6T) | 3:20 | 2022-03-24 | 2022-03-30 |
 | [No place to hide](https://open.spotify.com/track/60zGjGZpEd4EA5EJ6t1Zui) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [No place to hide](https://open.spotify.com/album/6lmLTu9uqEIE7RdS2bWgSz) | 3:39 | 2022-03-29 | 2022-04-16 |
@@ -490,6 +492,7 @@
 | [When I look at you](https://open.spotify.com/track/5jQbDUv1BDClbgVaAW8T1U) | [Park Boram](https://open.spotify.com/artist/6tvrEIVX5eKJlipdzt11wi) | [When I look at you](https://open.spotify.com/album/1Lewh4YU2QMpV9dKtlnIys) | 3:09 | 2022-08-18 |  |
 | [When I tell you goodbye](https://open.spotify.com/track/73zUXssnT7JWY9dUA2uKiz) | [HYNN](https://open.spotify.com/artist/64jfAecBriamQmMs0WAKtj) | [When I tell you goodbye](https://open.spotify.com/album/41n8vk0f6cMDIyqZrfJY21) | 3:42 | 2022-03-31 | 2022-04-18 |
 | [When it snows\(Feat.Heize\)](https://open.spotify.com/track/2vA5M8uXee4amGQajyUMFR) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC), [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [When it snows\(Feat.Heize\)](https://open.spotify.com/album/1d2YKQ02RQA97EyrB55ZcK) | 3:52 | 2022-01-26 | 2022-07-02 |
+| [When The Rain Stops](https://open.spotify.com/track/50LZH2wZVwWpsHT4D8qBxR) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [The Law Cafe \(Original Television Soundtrack\), Pt.3](https://open.spotify.com/album/2fiweT7ROFobtMNyJpYko5) | 4:14 | 2022-09-21 |  |
 | [When This Rain Stops](https://open.spotify.com/track/6mavVLsxaa4YcPje9qZKcf) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Like Water \- The 1st Mini Album](https://open.spotify.com/album/1Ao5vWPO13f4l0ldwxOKL7) | 4:04 | 2021-12-20 | 2022-07-08 |
 | [When We Were In Love](https://open.spotify.com/track/613Ixm4sbcHRZGKmGtLX9v) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [I'm](https://open.spotify.com/album/4AkitmQNFEc5iB0GrzYthy) | 4:14 | 2021-12-20 | 2022-06-26 |
 | [When We Were Us](https://open.spotify.com/track/2f4o2u8yAANvg3hQ8BNm4Q) | [SUPER JUNIOR\-K.R.Y.](https://open.spotify.com/artist/5Kdp1Iq26eCz7XbPxOgt7F) | [When We Were Us \- The 1st Mini Album](https://open.spotify.com/album/0iUESqGVBginzy7gCYMvt2) | 4:07 | 2021-12-23 | 2022-05-06 |

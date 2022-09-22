@@ -1,12 +1,12 @@
 {
   "description": "Bounce to the Brick City sound. From New Jersey to the world. Cover: UNIIQU3.",
-  "num_followers": 21601,
+  "num_followers": 21656,
   "original_name": "Jersey Club Heat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMGYxYTRmNDE2NGQ2OGZmMjE1Nzc3MTBiZjYxMjcxZjcy",
+  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMDkxMWE0YTMzOGY4YzI1MmU0ZjYyZWYzYjQ0ZWI2M2Q2",
   "tracks": [
     {
       "added_at": "2022-09-16 04:00:00",
@@ -623,6 +623,22 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
+        "name": "Chicago (Jersey Club)",
+        "url": "https://open.spotify.com/album/7261mhJQq6ZRDZT8hW6VOX"
+      },
+      "artists": [
+        {
+          "name": "DJ Smallz 732",
+          "url": "https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK"
+        }
+      ],
+      "duration_ms": 118256,
+      "name": "Chicago (Jersey Club)",
+      "url": "https://open.spotify.com/track/7pVuGWgUcABk3ToWt2hGNU"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
         "name": "Shockwave",
         "url": "https://open.spotify.com/album/6yXPyhVxt3PHBwkinPFn6I"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 160016,
       "name": "Back It Up",
       "url": "https://open.spotify.com/track/4WrPZ198RawgV8uMVwkYWU"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "Chicago (Jersey Club)",
-        "url": "https://open.spotify.com/album/7261mhJQq6ZRDZT8hW6VOX"
-      },
-      "artists": [
-        {
-          "name": "DJ Smallz 732",
-          "url": "https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK"
-        }
-      ],
-      "duration_ms": 118256,
-      "name": "Chicago (Jersey Club)",
-      "url": "https://open.spotify.com/track/7pVuGWgUcABk3ToWt2hGNU"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -959,26 +959,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "All Night",
-        "url": "https://open.spotify.com/album/5b3LuycxkwePie0mdQ5G0J"
-      },
-      "artists": [
-        {
-          "name": "Beatdemons",
-          "url": "https://open.spotify.com/artist/0odYAXdxaNJS1PUEVp8aME"
-        },
-        {
-          "name": "Quin Nfn",
-          "url": "https://open.spotify.com/artist/3M1quhETLChtt9NHKVaajX"
-        }
-      ],
-      "duration_ms": 180035,
-      "name": "All Night",
-      "url": "https://open.spotify.com/track/3ZWDMpOPLbFgqLjMzCtX6U"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Back Up On It (Jasmine)",
         "url": "https://open.spotify.com/album/7jYgzdKEdRHubC7zxHoKph"
       },
@@ -999,6 +979,26 @@
       "duration_ms": 200869,
       "name": "Back Up On It (Jasmine)",
       "url": "https://open.spotify.com/track/2di0TfKcoDdmnA0mSPLCYk"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "All Night",
+        "url": "https://open.spotify.com/album/5b3LuycxkwePie0mdQ5G0J"
+      },
+      "artists": [
+        {
+          "name": "Beatdemons",
+          "url": "https://open.spotify.com/artist/0odYAXdxaNJS1PUEVp8aME"
+        },
+        {
+          "name": "Quin Nfn",
+          "url": "https://open.spotify.com/artist/3M1quhETLChtt9NHKVaajX"
+        }
+      ],
+      "duration_ms": 180035,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/3ZWDMpOPLbFgqLjMzCtX6U"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
+        "name": "Anxious",
+        "url": "https://open.spotify.com/album/6gpmtNqKezX1vcJLljbZZB"
+      },
+      "artists": [
+        {
+          "name": "Lay Bankz",
+          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
+        }
+      ],
+      "duration_ms": 121306,
+      "name": "Anxious",
+      "url": "https://open.spotify.com/track/4llF02WU3U7UTQwHCfGzf7"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
         "name": "Arriba",
         "url": "https://open.spotify.com/album/2X5FDyB4cH7pBeoXjbgM1L"
       },
@@ -1131,30 +1147,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Billion Dollar Bitch (feat. Yung Baby Tate) [Swizzymack Remix]",
-        "url": "https://open.spotify.com/album/5sBmlgY9QI82CYKHIFu3ww"
-      },
-      "artists": [
-        {
-          "name": "Mia Rodriguez",
-          "url": "https://open.spotify.com/artist/7Hsfh7YZzoyojYWQeMSHID"
-        },
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        },
-        {
-          "name": "Swizzymack",
-          "url": "https://open.spotify.com/artist/5Ce5C9NmxQraJA8zgGWJtu"
-        }
-      ],
-      "duration_ms": 148833,
-      "name": "Billion Dollar Bitch (feat. Yung Baby Tate) - Swizzymack Remix",
-      "url": "https://open.spotify.com/track/2eb07d29dV41KQcqb53kN3"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Clout Chaser Pt. 4",
         "url": "https://open.spotify.com/album/0Ax19bfL9zyCOWdMUbFnZJ"
       },
@@ -1179,6 +1171,30 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
+        "name": "Billion Dollar Bitch (feat. Yung Baby Tate) [Swizzymack Remix]",
+        "url": "https://open.spotify.com/album/5sBmlgY9QI82CYKHIFu3ww"
+      },
+      "artists": [
+        {
+          "name": "Mia Rodriguez",
+          "url": "https://open.spotify.com/artist/7Hsfh7YZzoyojYWQeMSHID"
+        },
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        },
+        {
+          "name": "Swizzymack",
+          "url": "https://open.spotify.com/artist/5Ce5C9NmxQraJA8zgGWJtu"
+        }
+      ],
+      "duration_ms": 148833,
+      "name": "Billion Dollar Bitch (feat. Yung Baby Tate) - Swizzymack Remix",
+      "url": "https://open.spotify.com/track/2eb07d29dV41KQcqb53kN3"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
         "name": "Rooted (feat. Ester Dean) [Al Rich Club Mix]",
         "url": "https://open.spotify.com/album/0s7hBEjgBBbfp9tED5XLMt"
       },
@@ -1199,18 +1215,22 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Anxious",
-        "url": "https://open.spotify.com/album/6gpmtNqKezX1vcJLljbZZB"
+        "name": "Need Your Body",
+        "url": "https://open.spotify.com/album/7sqFwj4nu19GzsxJzg9Ogi"
       },
       "artists": [
         {
-          "name": "Lay Bankz",
-          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
+          "name": "Jaeo Draftpick",
+          "url": "https://open.spotify.com/artist/3ZFFfdm5Xl5W3U0sX9Y9Uq"
+        },
+        {
+          "name": "DJ Scenario",
+          "url": "https://open.spotify.com/artist/34kyEo5yp0o6ZrgpoZNnHE"
         }
       ],
-      "duration_ms": 121306,
-      "name": "Anxious",
-      "url": "https://open.spotify.com/track/4llF02WU3U7UTQwHCfGzf7"
+      "duration_ms": 164000,
+      "name": "Need Your Body",
+      "url": "https://open.spotify.com/track/4Z7YhHGk0gmipGgTc9PASI"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1231,22 +1251,22 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Need Your Body",
-        "url": "https://open.spotify.com/album/7sqFwj4nu19GzsxJzg9Ogi"
+        "name": "My Boo (Running Man Challenge)",
+        "url": "https://open.spotify.com/album/3Oo8LIqO7sN4tnTt2msL6r"
       },
       "artists": [
         {
-          "name": "Jaeo Draftpick",
-          "url": "https://open.spotify.com/artist/3ZFFfdm5Xl5W3U0sX9Y9Uq"
+          "name": "Kyle Edwards",
+          "url": "https://open.spotify.com/artist/5zvOGQ4uW2viBHMmkyl3C2"
         },
         {
-          "name": "DJ Scenario",
-          "url": "https://open.spotify.com/artist/34kyEo5yp0o6ZrgpoZNnHE"
+          "name": "DJ Smallz 732",
+          "url": "https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK"
         }
       ],
-      "duration_ms": 164000,
-      "name": "Need Your Body",
-      "url": "https://open.spotify.com/track/4Z7YhHGk0gmipGgTc9PASI"
+      "duration_ms": 117054,
+      "name": "My Boo (Running Man Challenge)",
+      "url": "https://open.spotify.com/track/5bF0IsOH5bHZh1hSKkJtwU"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1275,26 +1295,6 @@
       "duration_ms": 120333,
       "name": "Give It 2 Em - Remix",
       "url": "https://open.spotify.com/track/2tAnY41RqXmq1nUlvq9CBw"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "My Boo (Running Man Challenge)",
-        "url": "https://open.spotify.com/album/3Oo8LIqO7sN4tnTt2msL6r"
-      },
-      "artists": [
-        {
-          "name": "Kyle Edwards",
-          "url": "https://open.spotify.com/artist/5zvOGQ4uW2viBHMmkyl3C2"
-        },
-        {
-          "name": "DJ Smallz 732",
-          "url": "https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK"
-        }
-      ],
-      "duration_ms": 117054,
-      "name": "My Boo (Running Man Challenge)",
-      "url": "https://open.spotify.com/track/5bF0IsOH5bHZh1hSKkJtwU"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Tek 9 EP",
-        "url": "https://open.spotify.com/album/6i1d5z3aSskkAMjbrm0LpY"
-      },
-      "artists": [
-        {
-          "name": "Dj Tameil",
-          "url": "https://open.spotify.com/artist/7jpsm3UOVdNAI0GK2EbzV1"
-        }
-      ],
-      "duration_ms": 205516,
-      "name": "Everybody",
-      "url": "https://open.spotify.com/track/2uuZP1r3oswkjAdguUNbOS"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "King of BBM",
         "url": "https://open.spotify.com/album/0mRfNhYEVF7w1qkMcWEVLd"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 151901,
       "name": "Hands on Ya Hips",
       "url": "https://open.spotify.com/track/3RRPOt0SQzhAPcI6YHljR5"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Tek 9 EP",
+        "url": "https://open.spotify.com/album/6i1d5z3aSskkAMjbrm0LpY"
+      },
+      "artists": [
+        {
+          "name": "Dj Tameil",
+          "url": "https://open.spotify.com/artist/7jpsm3UOVdNAI0GK2EbzV1"
+        }
+      ],
+      "duration_ms": 205516,
+      "name": "Everybody",
+      "url": "https://open.spotify.com/track/2uuZP1r3oswkjAdguUNbOS"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Glitchy Gal",
-        "url": "https://open.spotify.com/album/65qyEf2LyFatQqerGJDHdx"
-      },
-      "artists": [
-        {
-          "name": "Dj Super Will",
-          "url": "https://open.spotify.com/artist/3Njy52VdMzOyqMnu2064uu"
-        }
-      ],
-      "duration_ms": 179644,
-      "name": "Glitchy Gal",
-      "url": "https://open.spotify.com/track/5q1gci9yODHXPAtPftAU76"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "My Heart Freestyle",
         "url": "https://open.spotify.com/album/6Ygz14g1xrVThYm0Sh5Cqp"
       },
@@ -1631,6 +1615,26 @@
       "duration_ms": 147307,
       "name": "My Heart Freestyle",
       "url": "https://open.spotify.com/track/6sVO9BPNBPQUPtxV6KES1q"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Just Dance",
+        "url": "https://open.spotify.com/album/0bjVboGxCtC0X9xZmQkFo9"
+      },
+      "artists": [
+        {
+          "name": "Kyle Edwards",
+          "url": "https://open.spotify.com/artist/5zvOGQ4uW2viBHMmkyl3C2"
+        },
+        {
+          "name": "DJ Bake",
+          "url": "https://open.spotify.com/artist/1pwvByMN5SdSJoj8gWXyZE"
+        }
+      ],
+      "duration_ms": 156865,
+      "name": "Childs Play",
+      "url": "https://open.spotify.com/track/5BdvoBcHrsepw9WSwWBip4"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1655,22 +1659,18 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Just Dance",
-        "url": "https://open.spotify.com/album/0bjVboGxCtC0X9xZmQkFo9"
+        "name": "Glitchy Gal",
+        "url": "https://open.spotify.com/album/65qyEf2LyFatQqerGJDHdx"
       },
       "artists": [
         {
-          "name": "Kyle Edwards",
-          "url": "https://open.spotify.com/artist/5zvOGQ4uW2viBHMmkyl3C2"
-        },
-        {
-          "name": "DJ Bake",
-          "url": "https://open.spotify.com/artist/1pwvByMN5SdSJoj8gWXyZE"
+          "name": "Dj Super Will",
+          "url": "https://open.spotify.com/artist/3Njy52VdMzOyqMnu2064uu"
         }
       ],
-      "duration_ms": 156865,
-      "name": "Childs Play",
-      "url": "https://open.spotify.com/track/5BdvoBcHrsepw9WSwWBip4"
+      "duration_ms": 179644,
+      "name": "Glitchy Gal",
+      "url": "https://open.spotify.com/track/5q1gci9yODHXPAtPftAU76"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1735,22 +1735,22 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "SLIME PROTOCOL",
-        "url": "https://open.spotify.com/album/7HEIOXw6lP2GKuJnYxQvgb"
+        "name": "Magnetic (Remixes)",
+        "url": "https://open.spotify.com/album/3Kfgkz8I4XS2alTVzqMXab"
       },
       "artists": [
         {
-          "name": "Koi the Alchemist",
-          "url": "https://open.spotify.com/artist/4QaIOY2A21dfP0E6UN5Y7A"
+          "name": "ByHaze",
+          "url": "https://open.spotify.com/artist/7CF5gEatm6bZWvGFPjPU2e"
         },
         {
-          "name": "Prvnci",
-          "url": "https://open.spotify.com/artist/7pv0Od3fJfZDF1B8ywl9qW"
+          "name": "Evisule",
+          "url": "https://open.spotify.com/artist/0hMA520wSuejLe3ilhXY2S"
         }
       ],
-      "duration_ms": 149747,
-      "name": "SLIME PROTOCOL",
-      "url": "https://open.spotify.com/track/3ldwM7zo4KDqdAymQ1eLHr"
+      "duration_ms": 180864,
+      "name": "Magnetic - Remix",
+      "url": "https://open.spotify.com/track/611DTJC3NW3ojN95CUPxef"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1771,22 +1771,22 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Magnetic (Remixes)",
-        "url": "https://open.spotify.com/album/3Kfgkz8I4XS2alTVzqMXab"
+        "name": "SLIME PROTOCOL",
+        "url": "https://open.spotify.com/album/7HEIOXw6lP2GKuJnYxQvgb"
       },
       "artists": [
         {
-          "name": "ByHaze",
-          "url": "https://open.spotify.com/artist/7CF5gEatm6bZWvGFPjPU2e"
+          "name": "Koi the Alchemist",
+          "url": "https://open.spotify.com/artist/4QaIOY2A21dfP0E6UN5Y7A"
         },
         {
-          "name": "Evisule",
-          "url": "https://open.spotify.com/artist/0hMA520wSuejLe3ilhXY2S"
+          "name": "Prvnci",
+          "url": "https://open.spotify.com/artist/7pv0Od3fJfZDF1B8ywl9qW"
         }
       ],
-      "duration_ms": 180864,
-      "name": "Magnetic - Remix",
-      "url": "https://open.spotify.com/track/611DTJC3NW3ojN95CUPxef"
+      "duration_ms": 149747,
+      "name": "SLIME PROTOCOL",
+      "url": "https://open.spotify.com/track/3ldwM7zo4KDqdAymQ1eLHr"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1863,26 +1863,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Fast (Motion) [Jersey Club Remix]",
-        "url": "https://open.spotify.com/album/26QXxyTXCOa67EorAPwDEH"
-      },
-      "artists": [
-        {
-          "name": "DJ Get Bizzy",
-          "url": "https://open.spotify.com/artist/5wiQ2svVeIsYb8cF82DLqh"
-        },
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 99857,
-      "name": "Fast (Motion) - Jersey Club Remix",
-      "url": "https://open.spotify.com/track/1KoZiwfdNggROUfXCaf8Tz"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "STAND BACK (RELOADED)",
         "url": "https://open.spotify.com/album/3374aupZhZ7bPEgjqezXJV"
       },
@@ -1903,6 +1883,26 @@
       "duration_ms": 157714,
       "name": "STAND BACK (RELOADED)",
       "url": "https://open.spotify.com/track/3xGJbb2zbqialftjg7Jh16"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Fast (Motion) [Jersey Club Remix]",
+        "url": "https://open.spotify.com/album/26QXxyTXCOa67EorAPwDEH"
+      },
+      "artists": [
+        {
+          "name": "DJ Get Bizzy",
+          "url": "https://open.spotify.com/artist/5wiQ2svVeIsYb8cF82DLqh"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 99857,
+      "name": "Fast (Motion) - Jersey Club Remix",
+      "url": "https://open.spotify.com/track/1KoZiwfdNggROUfXCaf8Tz"
     },
     {
       "added_at": "2022-09-16 04:00:00",

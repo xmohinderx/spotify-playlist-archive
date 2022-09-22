@@ -1413,28 +1413,6 @@
     {
       "album": {
         "name": "ZZZ",
-        "url": "https://open.spotify.com/album/3jXVfwnqhI1wBwC2U416Ya"
-      },
-      "artists": [
-        {
-          "name": "Zion.T",
-          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
-        },
-        {
-          "name": "SEULGI",
-          "url": "https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq"
-        }
-      ],
-      "date_added": "2022-07-22",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 202342,
-      "name": "Hello Tutorial",
-      "url": "https://open.spotify.com/track/36UcoqH2P24RtSGbLKLK3w"
-    },
-    {
-      "album": {
-        "name": "ZZZ",
         "url": "https://open.spotify.com/album/1h68ClpWp0bS59PAZuLk4X"
       },
       "artists": [
@@ -4545,6 +4523,28 @@
       "duration_ms": 230849,
       "name": "\ub208\uce58",
       "url": "https://open.spotify.com/track/4oXcPuN8yEpVBs6o8s6sRR"
+    },
+    {
+      "album": {
+        "name": "ZZZ",
+        "url": "https://open.spotify.com/album/3jXVfwnqhI1wBwC2U416Ya"
+      },
+      "artists": [
+        {
+          "name": "Zion.T",
+          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
+        },
+        {
+          "name": "SEULGI",
+          "url": "https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202342,
+      "name": "\uba4b\uc9c0\uac8c \uc778\uc0ac\ud558\ub294 \ubc95 (Hello Tutorial) (Feat. \uc2ac\uae30 (SEULGI) of Red Velvet)",
+      "url": "https://open.spotify.com/track/36UcoqH2P24RtSGbLKLK3w"
     },
     {
       "album": {

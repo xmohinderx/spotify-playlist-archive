@@ -1,12 +1,12 @@
 {
   "description": "Dixieland, Chicago Style and upbeat traditional jazz.",
-  "num_followers": 6079,
+  "num_followers": 6080,
   "original_name": "Hot-Jazz Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5NzkyNzAwMiwwMDAwMDAwMDdjNjY0NDVmN2E5MzkxYzM3MGI2OWY3M2Y4ZmFjMzIx",
+  "snapshot_id": "MTU5NzkyNzAwMiwwMDAwMDAwMDZjODU2OGVlNGRjODM1YzljN2ZiNTIxZjBiMjM3NmVi",
   "tracks": [
     {
       "added_at": "2020-08-19 17:19:14",
@@ -43,22 +43,6 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "They Call Me The Fat Man (The Legendary Imperial Recordings)",
-        "url": "https://open.spotify.com/album/52A7NjOBoLub7fgaqeWBOr"
-      },
-      "artists": [
-        {
-          "name": "Fats Domino",
-          "url": "https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd"
-        }
-      ],
-      "duration_ms": 148800,
-      "name": "When The Saints Go Marching In",
-      "url": "https://open.spotify.com/track/5VEIQ7S6AJehhbXAsnT27j"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
         "name": "Jazz King Of New Orleans",
         "url": "https://open.spotify.com/album/0Ba5A8yCUvwWPfA34dO7Do"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 192426,
       "name": "Black Bottom Stomp - 2002 Remastered",
       "url": "https://open.spotify.com/track/1aSEXfmjaaCigbzLLtZlAm"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
+        "name": "They Call Me The Fat Man (The Legendary Imperial Recordings)",
+        "url": "https://open.spotify.com/album/52A7NjOBoLub7fgaqeWBOr"
+      },
+      "artists": [
+        {
+          "name": "Fats Domino",
+          "url": "https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd"
+        }
+      ],
+      "duration_ms": 148800,
+      "name": "When The Saints Go Marching In",
+      "url": "https://open.spotify.com/track/5VEIQ7S6AJehhbXAsnT27j"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -203,18 +203,18 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "That's A Plenty",
-        "url": "https://open.spotify.com/album/2QNvebWOK7Zie6rKYoEeEx"
+        "name": "The Complete Hot Five And Hot Seven Recordings Volume 2",
+        "url": "https://open.spotify.com/album/4Z1EQzuuYPnPR9yWjKA13v"
       },
       "artists": [
         {
-          "name": "Wilbur De Paris",
-          "url": "https://open.spotify.com/artist/2jHYUm5r73OV8CiKyMdYfo"
+          "name": "Louis Armstrong & His Hot Five",
+          "url": "https://open.spotify.com/artist/0t4VVR2T9Sb0z3NdDdEU6S"
         }
       ],
-      "duration_ms": 227026,
-      "name": "Frankie & Johnny",
-      "url": "https://open.spotify.com/track/7iYvxt7QPOdaH4TQ0IIVx2"
+      "duration_ms": 183960,
+      "name": "Struttin' with Some Barbecue - 78 rpm Version",
+      "url": "https://open.spotify.com/track/43QRJNdGe4GaO0ucHHQnmS"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -235,18 +235,18 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "The Complete Hot Five And Hot Seven Recordings Volume 2",
-        "url": "https://open.spotify.com/album/4Z1EQzuuYPnPR9yWjKA13v"
+        "name": "That's A Plenty",
+        "url": "https://open.spotify.com/album/2QNvebWOK7Zie6rKYoEeEx"
       },
       "artists": [
         {
-          "name": "Louis Armstrong & His Hot Five",
-          "url": "https://open.spotify.com/artist/0t4VVR2T9Sb0z3NdDdEU6S"
+          "name": "Wilbur De Paris",
+          "url": "https://open.spotify.com/artist/2jHYUm5r73OV8CiKyMdYfo"
         }
       ],
-      "duration_ms": 183960,
-      "name": "Struttin' with Some Barbecue - 78 rpm Version",
-      "url": "https://open.spotify.com/track/43QRJNdGe4GaO0ucHHQnmS"
+      "duration_ms": 227026,
+      "name": "Frankie & Johnny",
+      "url": "https://open.spotify.com/track/7iYvxt7QPOdaH4TQ0IIVx2"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -303,22 +303,6 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "New Orleans Preservation, Vol. 1",
-        "url": "https://open.spotify.com/album/7z3Dd0P3mcGlbzTXDtfznd"
-      },
-      "artists": [
-        {
-          "name": "Preservation Hall Jazz Band",
-          "url": "https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5"
-        }
-      ],
-      "duration_ms": 266866,
-      "name": "I Wish I Could Shimmy Like My Sister Kate",
-      "url": "https://open.spotify.com/track/7Mk3l9pfGuMdEe0joNtAMH"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
         "name": "The Essential Sidney Bechet",
         "url": "https://open.spotify.com/album/7mmPRVlBSFQDyNVQ5B5ZZA"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 173653,
       "name": "Maple Leaf Rag",
       "url": "https://open.spotify.com/track/5PvZnmisDEydYlU9x3bcsf"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
+        "name": "New Orleans Preservation, Vol. 1",
+        "url": "https://open.spotify.com/album/7z3Dd0P3mcGlbzTXDtfznd"
+      },
+      "artists": [
+        {
+          "name": "Preservation Hall Jazz Band",
+          "url": "https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5"
+        }
+      ],
+      "duration_ms": 266866,
+      "name": "I Wish I Could Shimmy Like My Sister Kate",
+      "url": "https://open.spotify.com/track/7Mk3l9pfGuMdEe0joNtAMH"
     },
     {
       "added_at": "2020-08-19 17:19:14",

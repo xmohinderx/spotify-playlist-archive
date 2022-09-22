@@ -4,7 +4,7 @@
 
 > The hardest songs, loud\. Very loud\. Cover:  STARSET
 
-464 songs - 1 day 4 hr 3 min - [published](https://open.spotify.com/playlist/2UlZpIm54Pz4o9EirPo1mN)
+465 songs - 1 day 4 hr 6 min - [published](https://open.spotify.com/playlist/2UlZpIm54Pz4o9EirPo1mN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -283,7 +283,8 @@
 | [On The Dark Side](https://open.spotify.com/track/4bO8TyUK8fgE1yCwR94qON) | [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q) | [On The Dark Side](https://open.spotify.com/album/1fDOdT4aAuVvCOqIlFMHBx) | 3:38 | 2022-02-11 | 2022-04-09 |
 | [Only Love Can Save Me Now \[Feat\. Matt Cameron & Kim Thayil\]](https://open.spotify.com/track/4jXoiJSLQkAft0L5D1yjDb) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq), [Matt Cameron](https://open.spotify.com/artist/4NfvOU2TMtQhyBOW0erSDf), [Kim Thayil](https://open.spotify.com/artist/0XY2RjIqyilsOHYiNro5tD) | [Death By Rock And Roll](https://open.spotify.com/album/2ysgEIHY4aOMMbbu0uV6ey) | 5:12 | 2021-04-16 |  |
 | [Out For Blood](https://open.spotify.com/track/3Lq6gNTGCu9SOChMq8ZZfY) | [Code Orange](https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK) | [Out For Blood](https://open.spotify.com/album/3x5nuvzBBCBsORW1Jrl0ZT) | 3:40 | 2022-01-07 | 2022-07-09 |
-| [Out of My Head feat\. Aaron Gillespie](https://open.spotify.com/track/6QDS3BSyRGSaTUY4MhJUir) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2), [Aaron Gillespie](https://open.spotify.com/artist/5B2GfbXgossZt9SE08Iqn6) | [Out of My Head feat\. Aaron Gillespie](https://open.spotify.com/album/62q3iA3E0gLSeezRa2stGU) | 2:54 | 2022-05-13 |  |
+| [Out of My Head](https://open.spotify.com/track/7LR1KXCfE7EWu02ghN6c53) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2), [Aaron Gillespie](https://open.spotify.com/artist/5B2GfbXgossZt9SE08Iqn6) | [Out of My Head](https://open.spotify.com/album/0O2MDdqpibGxaUw9raccMl) | 2:54 | 2022-09-16 |  |
+| [Out of My Head feat\. Aaron Gillespie](https://open.spotify.com/track/6QDS3BSyRGSaTUY4MhJUir) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2), [Aaron Gillespie](https://open.spotify.com/artist/5B2GfbXgossZt9SE08Iqn6) | [Out of My Head feat\. Aaron Gillespie](https://open.spotify.com/album/62q3iA3E0gLSeezRa2stGU) | 2:54 | 2022-05-13 | 2022-09-22 |
 | [Out to the Inside](https://open.spotify.com/track/4fIbgStSL1II8DS74pdI26) | [The Veer Union](https://open.spotify.com/artist/2WQQRKpu2PMLsHSrUJmyCS), [Mob Machine](https://open.spotify.com/artist/7MmCmVajYpt2NTXg1kTqm9) | [Quarantine Collaborations](https://open.spotify.com/album/0C2DCVriqRYCWhancrKQBv) | 3:58 | 2021-12-17 | 2022-04-09 |
 | [Outcasts vs Everyone](https://open.spotify.com/track/4GPyVNFRDepnBPhJczVXGQ) | [Destroy Rebuild Until God Shows](https://open.spotify.com/artist/6XjXff8FNS5CqpF8dVAtoo), [Brennan Savage](https://open.spotify.com/artist/6SSmy635N3a4oWmPk85xpK) | [Outcasts vs Everyone](https://open.spotify.com/album/58aBP5JabGIqqPWYG9pd5q) | 3:45 | 2022-05-13 |  |
 | [Parasite](https://open.spotify.com/track/7M2xfxOv8C3CXCI21HjyFZ) | [Twiztid](https://open.spotify.com/artist/2aMAN8kMJ7eUOAuPUYOwI7) | [Unlikely Prescription](https://open.spotify.com/album/7HQj66xzgpsf43vlWdwjSZ) | 2:52 | 2021-09-10 | 2022-02-12 |

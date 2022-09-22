@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUS3jbm4YExP.md) - [plain]
 
 > Groovy sounds from around the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 529,505 likes - 100 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 529,725 likes - 100 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUS3jbm4YExP.md) - [plain]
 | 79 | [Atómico](https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw) | [Jungle Fire](https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby) | [Jungle Fire](https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7) | 3:49 |
 | 80 | [Silence is Golden](https://open.spotify.com/track/72pAdCNhYcGaKndmsJBbyz) | [Lettuce](https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8) | [Resonate](https://open.spotify.com/album/32wdlbMm4TWfi75n9qW1rs) | 5:43 |
 | 81 | [Suro Nipa](https://open.spotify.com/track/74hBqD4AZElwmfRxR9dOPZ) | [K.O.G](https://open.spotify.com/artist/6n5BdjorrfFAe3OVqHHfUi), [The Zongo Brigade](https://open.spotify.com/artist/0smAHgNDEZESnCeJmPkWAd) | [Wahala Wahala](https://open.spotify.com/album/1tFmkdeVZL0epm6ma8GWwx) | 6:01 |
-| 82 | [Calentita](https://open.spotify.com/track/0MYCrsAFlIGtVcfxlCEzah) | [The Limiñanas](https://open.spotify.com/artist/2joJCoCL4EmiVqic3vZn7n), [Nuria](https://open.spotify.com/artist/21sVXoR17xphV2u6PNTpo2) | [Calentita](https://open.spotify.com/album/4NycotM0tlCFNtXd6JCzce) | 3:20 |
-| 83 | [House of Cards](https://open.spotify.com/track/4lmzz09uUKtHnh740nyu37) | [The Souljazz Orchestra](https://open.spotify.com/artist/0MiCOT2cVYso39XSskiUUo) | [Chaos Theories](https://open.spotify.com/album/6DfCiu85VKpjBTBGuTD6mA) | 5:11 |
+| 82 | [House of Cards](https://open.spotify.com/track/4lmzz09uUKtHnh740nyu37) | [The Souljazz Orchestra](https://open.spotify.com/artist/0MiCOT2cVYso39XSskiUUo) | [Chaos Theories](https://open.spotify.com/album/6DfCiu85VKpjBTBGuTD6mA) | 5:11 |
+| 83 | [Calentita](https://open.spotify.com/track/0MYCrsAFlIGtVcfxlCEzah) | [The Limiñanas](https://open.spotify.com/artist/2joJCoCL4EmiVqic3vZn7n), [Nuria](https://open.spotify.com/artist/21sVXoR17xphV2u6PNTpo2) | [Calentita](https://open.spotify.com/album/4NycotM0tlCFNtXd6JCzce) | 3:20 |
 | 84 | [Kingdom of D'mt](https://open.spotify.com/track/15Cv0RFfDJQwAeZKcgQjrf) | [Karl Hector & The Malcouns](https://open.spotify.com/artist/1RrTQU4gM94QB6XWSBy8yB) | [Ka Rica\-Tar](https://open.spotify.com/album/2Y1w4MWDnXvVaHavVnEbzg) | 3:15 |
 | 85 | [Yeanoh \(Powe'hande Binga'dbe\)](https://open.spotify.com/track/0IVlx6wUnkGmU8zWXznnf1) | [Kondi Band](https://open.spotify.com/artist/2IPZPCen311aH09425TKpF) | [Belle Wahallah](https://open.spotify.com/album/757OI3ObWjiqLTkU6TEFkc) | 5:26 |
 | 86 | [Gun Metal Grey](https://open.spotify.com/track/2xBMnos2JHuKgRGr0cSgK5) | [The Budos Band](https://open.spotify.com/artist/5q4eLKmqFVP0xII8087PHz) | [Gun Metal Grey](https://open.spotify.com/album/1ksIAr0EZzkqpKuVI9BgJQ) | 3:16 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUS3jbm4YExP.md) - [plain]
 | 99 | [Jungle Music](https://open.spotify.com/track/4Fz7kqfYvb6T4YUxTexdLs) | [Kelenkye Band](https://open.spotify.com/artist/1AIamdH9sipGz8h6gp0Fmq) | [Various Bilongo](https://open.spotify.com/album/1WnorRo4yM6FtWdFq2enSt) | 5:36 |
 | 100 | [Taurus](https://open.spotify.com/track/1R2g3aWdOv9BOUjqMgZTic) | [Glass Beams](https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF) | [Mirage](https://open.spotify.com/album/45yGFEPm310zjAc1psZzEv) | 4:32 |
 
-Snapshot ID: `MTY2MzI0NjI2MiwwMDAwMDAwMDIwOTY2NDUwODFmMzJjMTMwZDA2YzI0NDBkNjM4MTZk`
+Snapshot ID: `MTY2MzI0NjI2MiwwMDAwMDAwMGFkY2QxMDM5OWMwODQwYTlkN2I1YjViODQ5ZjI0ZWI2`

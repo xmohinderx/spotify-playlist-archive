@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 
 > welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. ekkstacy
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,955 likes - 82 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,130 likes - 82 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

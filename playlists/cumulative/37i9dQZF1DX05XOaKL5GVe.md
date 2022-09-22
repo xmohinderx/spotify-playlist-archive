@@ -4,7 +4,7 @@
 
 > Tesoros musicales del ayer.
 
-156 songs - 9 hr 7 min - [published](https://open.spotify.com/playlist/1j70WbpeB1BVZqorFbKNd4)
+157 songs - 9 hr 11 min - [published](https://open.spotify.com/playlist/1j70WbpeB1BVZqorFbKNd4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,8 +57,9 @@
 | [El Pecador](https://open.spotify.com/track/1lDx45n8dnAU1v9yct5bxU) | [Alberto Vazquez](https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc) | [16 Éxitos: Baladas](https://open.spotify.com/album/16koZGZZYztvCEShPLndCv) | 3:20 | 2021-04-22 |  |
 | [El Privilegio De Amar](https://open.spotify.com/track/3NGG1do9lT815M5REcCzzm) | [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p) | [El Privilegio De Amar](https://open.spotify.com/album/6Gz4ADhuPTy6CeyL52Ks2f) | 3:56 | 2021-04-22 |  |
 | [El Reencuentro](https://open.spotify.com/track/53Af346CFsAjqvluCJud6T) | [Sonia Rivas](https://open.spotify.com/artist/4FM1uFX0QdPKmhdEeslh1K), [YOSHIO](https://open.spotify.com/artist/1RoOZqC7GYHlUG3FTFFx7Q) | [Tesoros De Coleccion \- Sonia Rivas](https://open.spotify.com/album/4ebWPRUoVQztHYZWmbqMN0) | 3:38 | 2021-04-22 | 2022-07-29 |
+| [El Triste](https://open.spotify.com/track/5gxK5Dkfg0lINAUfzIDRO6) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [El Principe Con Trio Vol\. 2](https://open.spotify.com/album/5OHGeZumv8Pkck1tfcsAc8) | 4:01 | 2021-04-22 |  |
 | [El Triste](https://open.spotify.com/track/0aTMBEfPCCkKkneU6gLmDD) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Jose Jose \(1\)](https://open.spotify.com/album/7wZCFbWRkh5mneWJfAK2LD) | 4:13 | 2021-04-22 | 2022-07-29 |
-| [El Triste](https://open.spotify.com/track/6HgUhIiqCepGzgb4nuses6) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [15 Exitos De Oro](https://open.spotify.com/album/4OP48ZU8qUYanvwyTLAvrt) | 4:16 | 2021-04-22 |  |
+| [El Triste](https://open.spotify.com/track/6HgUhIiqCepGzgb4nuses6) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [15 Exitos De Oro](https://open.spotify.com/album/4OP48ZU8qUYanvwyTLAvrt) | 4:16 | 2021-04-22 | 2022-09-22 |
 | [Ella...Ella Ya Me Olvidó, Yo la Recuerdo Ahora](https://open.spotify.com/track/2IG7Gl8zcAJiYcZBKMvdWD) | [Leonardo Favio](https://open.spotify.com/artist/7JWJRzjFr2Qt5yB9ondmoq) | [Fuiste Mía un Verano](https://open.spotify.com/album/5f06LnwgFScMv0Z4WEyIPm) | 3:43 | 2021-04-22 |  |
 | [Eres](https://open.spotify.com/track/08fbpynRAv6hPqqPZISRsa) | [José Maria Napoleón](https://open.spotify.com/artist/72v53CufRiSyqcQ78KUQ5p) | [Sin Tu Amor](https://open.spotify.com/album/6f9QuizfwLCv9SvU8DtsO4) | 3:15 | 2021-04-22 |  |
 | [Eres Tu](https://open.spotify.com/track/7pBsUhpBTklrSv7xYsbEAn) | [Mocedades](https://open.spotify.com/artist/4Sm7JCttzWMwHJtb3UJ8SY) | [14 Exitos de Mocedades](https://open.spotify.com/album/2tGvIIw2UoG502m1ARRgmd) | 3:34 | 2021-04-22 | 2022-07-17 |

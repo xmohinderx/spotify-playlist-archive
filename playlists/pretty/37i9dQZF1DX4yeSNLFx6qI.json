@@ -1,12 +1,12 @@
 {
   "description": "Se acab\u00f3 el amor. La m\u00fasica contin\u00faa.",
-  "num_followers": 1694867,
+  "num_followers": 1695065,
   "original_name": "Sin Ti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTkyODc0NywwMDAwMDAwMGU0ODYxZDJjOTllNmRjNmZlY2I0ZjhjYTM4YThlOGJm",
+  "snapshot_id": "MTY2MTkyODc0NywwMDAwMDAwMGRiMzJlMzllMDU4NDIwOTdhMGRiNzYzYzBhODdkY2Fi",
   "tracks": [
     {
       "added_at": "2022-08-31 06:52:27",
@@ -535,26 +535,6 @@
     {
       "added_at": "2022-08-31 06:52:27",
       "album": {
-        "name": "D\u00e9jame Ir",
-        "url": "https://open.spotify.com/album/5MAHn88iqWSOsfXQ1GBLby"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Cepeda",
-          "url": "https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6"
-        },
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        }
-      ],
-      "duration_ms": 232743,
-      "name": "D\u00e9jame Ir",
-      "url": "https://open.spotify.com/track/3nymR2pRbiDq89qS2osIVX"
-    },
-    {
-      "added_at": "2022-08-31 06:52:27",
-      "album": {
         "name": "+",
         "url": "https://open.spotify.com/album/6zardvJflEyoRedCUCBUw9"
       },
@@ -571,6 +551,26 @@
       "duration_ms": 219367,
       "name": "+",
       "url": "https://open.spotify.com/track/5Cbo7oz78gqkzV3EAM63VA"
+    },
+    {
+      "added_at": "2022-08-31 06:52:27",
+      "album": {
+        "name": "D\u00e9jame Ir",
+        "url": "https://open.spotify.com/album/5MAHn88iqWSOsfXQ1GBLby"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Cepeda",
+          "url": "https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6"
+        },
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "duration_ms": 232743,
+      "name": "D\u00e9jame Ir",
+      "url": "https://open.spotify.com/track/3nymR2pRbiDq89qS2osIVX"
     },
     {
       "added_at": "2022-08-31 06:52:27",
@@ -667,18 +667,22 @@
     {
       "added_at": "2022-08-31 06:52:27",
       "album": {
-        "name": "V\u00e9rtigo",
-        "url": "https://open.spotify.com/album/3rMqrzAwB0tLlsA9Zrd46L"
+        "name": "Coraz\u00f3n Sin Vida",
+        "url": "https://open.spotify.com/album/65jAsD6n85tGFFeuPhokaO"
       },
       "artists": [
         {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        },
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
         }
       ],
-      "duration_ms": 209221,
-      "name": "Hablemos de amor",
-      "url": "https://open.spotify.com/track/0ttJ5VlYydkecHXNqQChgN"
+      "duration_ms": 181978,
+      "name": "Coraz\u00f3n Sin Vida",
+      "url": "https://open.spotify.com/track/3OL6rKs4tpYCdPZ9SEx50p"
     },
     {
       "added_at": "2022-08-31 06:52:27",
@@ -699,6 +703,22 @@
     {
       "added_at": "2022-08-31 06:52:27",
       "album": {
+        "name": "V\u00e9rtigo",
+        "url": "https://open.spotify.com/album/3rMqrzAwB0tLlsA9Zrd46L"
+      },
+      "artists": [
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "duration_ms": 209221,
+      "name": "Hablemos de amor",
+      "url": "https://open.spotify.com/track/0ttJ5VlYydkecHXNqQChgN"
+    },
+    {
+      "added_at": "2022-08-31 06:52:27",
+      "album": {
         "name": "Balas Perdidas",
         "url": "https://open.spotify.com/album/43mAHKPa4iB2er88lxD9Q8"
       },
@@ -711,26 +731,6 @@
       "duration_ms": 220155,
       "name": "Yo No Merezco Volver",
       "url": "https://open.spotify.com/track/1uFl33ahAD59XrccuSxpkz"
-    },
-    {
-      "added_at": "2022-08-31 06:52:27",
-      "album": {
-        "name": "Coraz\u00f3n Sin Vida",
-        "url": "https://open.spotify.com/album/65jAsD6n85tGFFeuPhokaO"
-      },
-      "artists": [
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        },
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 181978,
-      "name": "Coraz\u00f3n Sin Vida",
-      "url": "https://open.spotify.com/track/3OL6rKs4tpYCdPZ9SEx50p"
     },
     {
       "added_at": "2022-08-31 06:52:27",
@@ -855,22 +855,6 @@
     {
       "added_at": "2022-08-31 06:52:27",
       "album": {
-        "name": "Montaner",
-        "url": "https://open.spotify.com/album/50k6VtZQku8LJncGUzgBBG"
-      },
-      "artists": [
-        {
-          "name": "Ricardo Montaner",
-          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
-        }
-      ],
-      "duration_ms": 224693,
-      "name": "\u00bfQu\u00e9 Vas a Hacer?",
-      "url": "https://open.spotify.com/track/2KOlQ5BfzhNe79KtGHDJ8S"
-    },
-    {
-      "added_at": "2022-08-31 06:52:27",
-      "album": {
         "name": "PAUSA",
         "url": "https://open.spotify.com/album/3hS1wzvOJuioDs9VV6HW3R"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 232331,
       "name": "Recuerdo",
       "url": "https://open.spotify.com/track/7zh0PdIYt6HxXoPvfb30MU"
+    },
+    {
+      "added_at": "2022-08-31 06:52:27",
+      "album": {
+        "name": "Montaner",
+        "url": "https://open.spotify.com/album/50k6VtZQku8LJncGUzgBBG"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Montaner",
+          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
+        }
+      ],
+      "duration_ms": 224693,
+      "name": "\u00bfQu\u00e9 Vas a Hacer?",
+      "url": "https://open.spotify.com/track/2KOlQ5BfzhNe79KtGHDJ8S"
     },
     {
       "added_at": "2022-08-31 06:52:27",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2022-08-31 06:52:27",
       "album": {
-        "name": "Cristian Castro En Primera Fila - D\u00eda 1",
-        "url": "https://open.spotify.com/album/79S9eRBE4zhXybavIRwAv0"
-      },
-      "artists": [
-        {
-          "name": "Cristian Castro",
-          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
-        }
-      ],
-      "duration_ms": 237373,
-      "name": "Nunca Voy a Olvidarte - Primera Fila - Live Version",
-      "url": "https://open.spotify.com/track/4HAPPGfvox8QdKdU1lD3wf"
-    },
-    {
-      "added_at": "2022-08-31 06:52:27",
-      "album": {
         "name": "Te acuerdas?",
         "url": "https://open.spotify.com/album/4bgNYwpO19Pm0olhO3srld"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 183265,
       "name": "Te acuerdas?",
       "url": "https://open.spotify.com/track/25tHQXFLUN38dQXQyKu9Ev"
+    },
+    {
+      "added_at": "2022-08-31 06:52:27",
+      "album": {
+        "name": "Cristian Castro En Primera Fila - D\u00eda 1",
+        "url": "https://open.spotify.com/album/79S9eRBE4zhXybavIRwAv0"
+      },
+      "artists": [
+        {
+          "name": "Cristian Castro",
+          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
+        }
+      ],
+      "duration_ms": 237373,
+      "name": "Nunca Voy a Olvidarte - Primera Fila - Live Version",
+      "url": "https://open.spotify.com/track/4HAPPGfvox8QdKdU1lD3wf"
     },
     {
       "added_at": "2022-08-31 06:52:27",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2022-08-31 06:52:27",
       "album": {
-        "name": "Roto",
-        "url": "https://open.spotify.com/album/5763P0o9ruO8OZ4Dwey7sf"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 165760,
-      "name": "Roto",
-      "url": "https://open.spotify.com/track/5muxDDRz7Y1m9leVgwTUrD"
-    },
-    {
-      "added_at": "2022-08-31 06:52:27",
-      "album": {
         "name": "Ser\u00e1 Mi Culpa?",
         "url": "https://open.spotify.com/album/4A1s03L5Tw52zY0FamWkDW"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 139459,
       "name": "Ser\u00e1 Mi Culpa?",
       "url": "https://open.spotify.com/track/0e5wmUTalS4NiyNjMYmBIA"
+    },
+    {
+      "added_at": "2022-08-31 06:52:27",
+      "album": {
+        "name": "Roto",
+        "url": "https://open.spotify.com/album/5763P0o9ruO8OZ4Dwey7sf"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 165760,
+      "name": "Roto",
+      "url": "https://open.spotify.com/track/5muxDDRz7Y1m9leVgwTUrD"
     },
     {
       "added_at": "2022-08-31 06:52:27",
@@ -1735,6 +1735,22 @@
     {
       "added_at": "2022-08-31 06:52:27",
       "album": {
+        "name": "La Culpa",
+        "url": "https://open.spotify.com/album/03KuiVdDtiXtx24I16d03Y"
+      },
+      "artists": [
+        {
+          "name": "Joel DELE\u00d3N",
+          "url": "https://open.spotify.com/artist/3okQioJzZzTM7LwENIdd18"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "La Culpa",
+      "url": "https://open.spotify.com/track/72X8O4JlTkTXRM2EpcQwsF"
+    },
+    {
+      "added_at": "2022-08-31 06:52:27",
+      "album": {
         "name": "Y Duele (feat. Pablo Albor\u00e1n)",
         "url": "https://open.spotify.com/album/6jNg9aoFBKGeDExlYzbXlv"
       },
@@ -1751,22 +1767,6 @@
       "duration_ms": 201034,
       "name": "Y Duele (feat. Pablo Albor\u00e1n)",
       "url": "https://open.spotify.com/track/1YlHuvmZCFIlt0O1JlReCb"
-    },
-    {
-      "added_at": "2022-08-31 06:52:27",
-      "album": {
-        "name": "La Culpa",
-        "url": "https://open.spotify.com/album/03KuiVdDtiXtx24I16d03Y"
-      },
-      "artists": [
-        {
-          "name": "Joel DELE\u00d3N",
-          "url": "https://open.spotify.com/artist/3okQioJzZzTM7LwENIdd18"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "La Culpa",
-      "url": "https://open.spotify.com/track/72X8O4JlTkTXRM2EpcQwsF"
     }
   ],
   "unique_name": "Sin Ti",

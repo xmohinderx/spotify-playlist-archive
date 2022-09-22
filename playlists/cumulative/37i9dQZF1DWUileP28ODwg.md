@@ -4,7 +4,7 @@
 
 > Tune in here for new and current hits in Contemporary Christian music!  Cover:  Casting Crowns
 
-231 songs - 14 hr 18 min - [published](https://open.spotify.com/playlist/4vhwseXb2IJBghYVawMgmp)
+232 songs - 14 hr 21 min - [published](https://open.spotify.com/playlist/4vhwseXb2IJBghYVawMgmp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,7 +166,8 @@
 | [Only Ever Always](https://open.spotify.com/track/2XwqIUqh74AJYwdE6t8NnR) | [Love & The Outcome](https://open.spotify.com/artist/1xU1V8I8pFrMOjtuSmjPBs) | [Only Ever Always](https://open.spotify.com/album/7yNjxXnq9rZH3QFStVKaUH) | 2:59 | 2022-04-22 | 2022-04-29 |
 | [Our Eyes Are on You \(feat\. Elle Limebear\) \- Radio Edit](https://open.spotify.com/track/0oZhJWU3KrgOMIMulgQauu) | [Martin Smith](https://open.spotify.com/artist/7ISMNhe95QNLqHgsCHAVeu), [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [Our Eyes Are on You \(feat\. Elle Limebear\) \[Radio Edit\]](https://open.spotify.com/album/5NRfD3h5nnigXlXZRojIeH) | 4:24 | 2022-07-08 |  |
 | [Our Eyes Are On You \- Radio Edit](https://open.spotify.com/track/6Kg6BHRQAd0xKDGGJ7LJoK) | [Martin Smith](https://open.spotify.com/artist/7ISMNhe95QNLqHgsCHAVeu), [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [Our Eyes Are On You](https://open.spotify.com/album/6kvDlhfUy3TmrtrNPTurmw) | 4:24 | 2022-02-25 | 2022-07-29 |
-| [Over and Over](https://open.spotify.com/track/0llRdEbtFavEzGYkpJjfTg) | [Caleb and Kelsey](https://open.spotify.com/artist/7l0sphz32GV0AjjEhECpVg) | [Over and Over](https://open.spotify.com/album/6ZRdE0msjDHKGG076tz87A) | 3:35 | 2022-04-22 |  |
+| [Over and Over](https://open.spotify.com/track/0llRdEbtFavEzGYkpJjfTg) | [Caleb and Kelsey](https://open.spotify.com/artist/7l0sphz32GV0AjjEhECpVg) | [Over and Over](https://open.spotify.com/album/6ZRdE0msjDHKGG076tz87A) | 3:35 | 2022-04-22 | 2022-09-22 |
+| [Over and Over](https://open.spotify.com/track/3Fq9eU3HKUviaVtgEIq8lu) | [Caleb and Kelsey](https://open.spotify.com/artist/7l0sphz32GV0AjjEhECpVg) | [Over and Over](https://open.spotify.com/album/3EUqmYgGBbQQKawUQOzteX) | 3:35 | 2022-08-26 |  |
 | [Peace of God](https://open.spotify.com/track/5DZeJ1BYlDHvkgUD5X8Oti) | [Guvna B](https://open.spotify.com/artist/3XgNFNKLstByGKqplDht0H), [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [Everywhere + Nowhere \(Black Edition Deluxe\)](https://open.spotify.com/album/308B9tBVWyLjjLan4517p4) | 3:16 | 2022-02-25 |  |
 | [Perfect Love](https://open.spotify.com/track/2PeGP15nxf7OXaw4PQw0ZA) | [Lincoln Brewster](https://open.spotify.com/artist/1aoy0R8uP3x33eqKZOLpN1) | [Perfect Love](https://open.spotify.com/album/10nB2ZDmXKHbBRNES98Cmv) | 4:12 | 2022-02-25 | 2022-04-29 |
 | [Perfectly Loved](https://open.spotify.com/track/6YNdJX3lhmo0u8j293HaAM) | [Rachael Lampa](https://open.spotify.com/artist/0rAp8I6gq67AJEmzWEJ1ri), [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [Perfectly Loved](https://open.spotify.com/album/3hSPfcqoL3BUTEKZjonyZh) | 3:23 | 2022-04-22 |  |

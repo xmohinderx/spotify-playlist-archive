@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Y4P09E4dNP.md) - [plain]
 
 > A fusion of highlife and hip\-hop, these hip\-life jams are undeniable.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,293 likes - 40 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,302 likes - 40 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,10 +43,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Y4P09E4dNP.md) - [plain]
 | 33 | [Eboso](https://open.spotify.com/track/0l0aDiPRoexmDiJum6ZycI) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4) | [Eboso](https://open.spotify.com/album/7m5MA1XE7UUn2eoRBIWHzP) | 3:06 |
 | 34 | [Odo Esisi Me](https://open.spotify.com/track/1eah5Chb6KwGLP8n3xadrf) | [Akatakyie](https://open.spotify.com/artist/42HbQTIMGoswCl4CgPh45l) | [Old School Hiplife Vol.1](https://open.spotify.com/album/0wfz1F4pEmtnUG06sr8OEW) | 5:09 |
 | 35 | [Abrantee](https://open.spotify.com/track/2DnXj8yPJYcLhjPM4kHD4q) | [Ookomfooo Kwaaade33](https://open.spotify.com/artist/7vk3ROPumwngbad4JMh3SY) | [Abro Ne Bayie](https://open.spotify.com/album/5sxiyctzYIonIhjbXsOzh0) | 5:01 |
-| 36 | [BUE BUE](https://open.spotify.com/track/3sEw6Qs12OG1WXVN0r4Lqd) | [ScrewFace](https://open.spotify.com/artist/5mLq4zuVf6yd6uS3wrlyrc), [Castro](https://open.spotify.com/artist/5hACxwOyI5SiMCONu6KS4L) | [Old School Hiplife Vol.1](https://open.spotify.com/album/0wfz1F4pEmtnUG06sr8OEW) | 5:42 |
-| 37 | [Deeba](https://open.spotify.com/track/04RrKNyYkImWhZkoEDBhTO) | [Deeba](https://open.spotify.com/artist/2dki1aEKiMVIOZ8pOMv3M1) | [Old School Hiplife Vol.1](https://open.spotify.com/album/0wfz1F4pEmtnUG06sr8OEW) | 5:05 |
+| 36 | [Deeba](https://open.spotify.com/track/04RrKNyYkImWhZkoEDBhTO) | [Deeba](https://open.spotify.com/artist/2dki1aEKiMVIOZ8pOMv3M1) | [Old School Hiplife Vol.1](https://open.spotify.com/album/0wfz1F4pEmtnUG06sr8OEW) | 5:05 |
+| 37 | [BUE BUE](https://open.spotify.com/track/3sEw6Qs12OG1WXVN0r4Lqd) | [ScrewFace](https://open.spotify.com/artist/5mLq4zuVf6yd6uS3wrlyrc), [Castro](https://open.spotify.com/artist/5hACxwOyI5SiMCONu6KS4L) | [Old School Hiplife Vol.1](https://open.spotify.com/album/0wfz1F4pEmtnUG06sr8OEW) | 5:42 |
 | 38 | [Mercy](https://open.spotify.com/track/7y5LAzG8epnHrXjh3jN7ol) | [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L) | [Mercy](https://open.spotify.com/album/4eoXF9sYckKQAajJCzUngn) | 3:16 |
 | 39 | [Medo](https://open.spotify.com/track/2qx8A8AdgkvRaaEbQpQouA) | [Lord Kenya](https://open.spotify.com/artist/4xLgdpyCd591T97qW0EQF7), [Swanzy B](https://open.spotify.com/artist/1gpzzTqs3Dk0TdIWvXrqgP) | [Yeesom Sika](https://open.spotify.com/album/7I3mCsTVTJlkDqqGpHHGht) | 4:52 |
 | 40 | [FINGERS](https://open.spotify.com/track/6pGf2XUUNaj6tTkWXR1yJQ) | [Kwabena Kwabena](https://open.spotify.com/artist/6zKu61RG80pBKOMUbBKNMr) | [FINGERS](https://open.spotify.com/album/4BoK4qfCb8y8rejtjCwf8m) | 3:25 |
 
-Snapshot ID: `MTY1Mjk4OTE4OCwwMDAwMDAwMDM0MTU5OThhMzMyZGM4NmY4OTVjN2U1NDQxNjBiODkz`
+Snapshot ID: `MTY1Mjk4OTE4OCwwMDAwMDAwMDE2ODk4MWNhYTJjYTE4MjlkMmUxZjZlODI0MTdmODQz`

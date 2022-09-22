@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2S9rTKTX6JP.md) - [plain]
 
 > Sometimes a cover can be even better than the original\. You decide\. Cover: Måneskin
 
-[Spotify](https://open.spotify.com/user/spotify) - 608,175 likes - 125 songs - 8 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 608,287 likes - 125 songs - 8 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2S9rTKTX6JP.md) - [plain]
 | 87 | [Running Up That Hill](https://open.spotify.com/track/5Ew5pDFGWVbKqJj7RjAGRA) | [Halocene](https://open.spotify.com/artist/1S4xN9nvW5vlFoRBisdxUL) | [Running Up That Hill](https://open.spotify.com/album/4taGbRcoDIs8PgQ341IvfB) | 3:03 |
 | 88 | [War Pigs](https://open.spotify.com/track/2vCnEuoc65PXAdx33Y7syW) | [Faith No More](https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5) | [The Real Thing](https://open.spotify.com/album/6LEP3L94jnkqjOxYJWPRP0) | 7:45 |
 | 89 | [Just Like Heaven](https://open.spotify.com/track/69u4YVuqKoVp3nZmpyxC8I) | [Dinosaur Jr.](https://open.spotify.com/artist/267VY6GX5LyU5c9M85ECZQ) | [You're Living All Over Me](https://open.spotify.com/album/3peMqhMZ1HT8N4lvSS3GPu) | 2:53 |
-| 90 | [People Are Strange](https://open.spotify.com/track/7GoOq1xY12PehqOfUryNWU) | [The Violent](https://open.spotify.com/artist/5NokRbYYfqacBmRVBRj0wD) | [The Violent](https://open.spotify.com/album/5hrWPFVNiTbMqrv6rdvVap) | 2:27 |
-| 91 | [Addicted To Love](https://open.spotify.com/track/3fNuoybebaufvtFBo5TDWO) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Edition\)](https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ) | 3:19 |
+| 90 | [Addicted To Love](https://open.spotify.com/track/3fNuoybebaufvtFBo5TDWO) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Edition\)](https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ) | 3:19 |
+| 91 | [People Are Strange](https://open.spotify.com/track/7GoOq1xY12PehqOfUryNWU) | [The Violent](https://open.spotify.com/artist/5NokRbYYfqacBmRVBRj0wD) | [The Violent](https://open.spotify.com/album/5hrWPFVNiTbMqrv6rdvVap) | 2:27 |
 | 92 | [If I Ever Lose My Faith in You](https://open.spotify.com/track/4wozhA7ftHx3QQPBKCCL9d) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [If I Ever Lose My Faith in You](https://open.spotify.com/album/4W5TsaInsp1dAZUE5qvm5g) | 4:34 |
 | 93 | [I Think We're Alone Now](https://open.spotify.com/track/6h8QlZzBBnZhF4EkGi8JPr) | [Billie Joe Armstrong](https://open.spotify.com/artist/1MrEurzLcL8ugfP1PrUPWG), [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [I Think We're Alone Now](https://open.spotify.com/album/2FYNBNvvPgrUYC87Lqvz6W) | 2:14 |
 | 94 | [Survivor](https://open.spotify.com/track/0lrrOTSB1vEOEphSG8CSsD) | [All Good Things](https://open.spotify.com/artist/2uMWUtg8XLpJxNSqbGOkl1) | [Survivor](https://open.spotify.com/album/0wd0kpwyXuWwYoblV4oCDs) | 3:13 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2S9rTKTX6JP.md) - [plain]
 | 124 | [I Don't Care Anymore \(Acoustic\)](https://open.spotify.com/track/5ncrAJweQsGKQWOhf2isOK) | [HELLYEAH](https://open.spotify.com/artist/4hxDvVq5t8ebPYPdBl1F9f) | [I Don't Care Anymore \(Acoustic\)](https://open.spotify.com/album/2nTs39rXgArWOd9Z8Pcc4t) | 4:07 |
 | 125 | [Highway to Hell \(feat\. Bruce Springsteen & Eddie Vedder\)](https://open.spotify.com/track/30BltpTtw0lEHf34NesoUu) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT), [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [Highway to Hell \(feat\. Bruce Springsteen & Eddie Vedder\)](https://open.spotify.com/album/60qUFi2mJQWWvBONczWFLa) | 3:31 |
 
-Snapshot ID: `MTY2MDg4MTYwMCwwMDAwMDAwMDRiZGM3NmY4YWI4ZjQyZDBhNmRkNDI3NDk3M2U3ZGNk`
+Snapshot ID: `MTY2MDg4MTYwMCwwMDAwMDAwMDY5ZTBhY2ZmMDcwMmEzODAwNDFjMDYyZDg2Y2Q4NjQy`

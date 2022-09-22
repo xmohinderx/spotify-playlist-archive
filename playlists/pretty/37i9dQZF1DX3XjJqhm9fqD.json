@@ -1,12 +1,12 @@
 {
   "description": "Celebrating Haitian music. Cover: Francis Mercier.",
-  "num_followers": 69680,
+  "num_followers": 69695,
   "original_name": "Haitian Heat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDMwMjEwMywwMDAwMDAwMDNlNDc3OGNlZjg3MzE5ZTE0NTY4NWMxYTAyYTZmNjZk",
+  "snapshot_id": "MTY2MDMwMjEwMywwMDAwMDAwMDNiMzc5ZWFkMDRkZTBlOGZmYTAxY2IyODdhY2ZlOWY5",
   "tracks": [
     {
       "added_at": "2022-07-14 21:35:16",
@@ -343,22 +343,18 @@
     {
       "added_at": "2022-07-14 21:35:16",
       "album": {
-        "name": "African Sun (Remix)",
-        "url": "https://open.spotify.com/album/1e6xJo2X0UxiXlUV6fIJCu"
+        "name": "Lost in Parad\u00efse, Pt. 2",
+        "url": "https://open.spotify.com/album/3SYtJkujnJeTUXFvkeSDU7"
       },
       "artists": [
         {
           "name": "Na\u00efka",
           "url": "https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT"
-        },
-        {
-          "name": "Michael Brun",
-          "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
         }
       ],
-      "duration_ms": 143076,
-      "name": "African Sun - Remix",
-      "url": "https://open.spotify.com/track/20kzGFgtQU4C1G1Rd50YAU"
+      "duration_ms": 203023,
+      "name": "For Gerard",
+      "url": "https://open.spotify.com/track/5087eyLa8DQ5fMHbNYzJsA"
     },
     {
       "added_at": "2022-07-14 21:35:16",
@@ -463,18 +459,22 @@
     {
       "added_at": "2022-07-14 21:35:16",
       "album": {
-        "name": "Lost in Parad\u00efse, Pt. 2",
-        "url": "https://open.spotify.com/album/3SYtJkujnJeTUXFvkeSDU7"
+        "name": "African Sun (Remix)",
+        "url": "https://open.spotify.com/album/1e6xJo2X0UxiXlUV6fIJCu"
       },
       "artists": [
         {
           "name": "Na\u00efka",
           "url": "https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT"
+        },
+        {
+          "name": "Michael Brun",
+          "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
         }
       ],
-      "duration_ms": 203023,
-      "name": "For Gerard",
-      "url": "https://open.spotify.com/track/5087eyLa8DQ5fMHbNYzJsA"
+      "duration_ms": 143076,
+      "name": "African Sun - Remix",
+      "url": "https://open.spotify.com/track/20kzGFgtQU4C1G1Rd50YAU"
     },
     {
       "added_at": "2022-07-14 21:35:16",
@@ -1115,26 +1115,6 @@
     {
       "added_at": "2022-07-14 21:35:16",
       "album": {
-        "name": "Soft Power",
-        "url": "https://open.spotify.com/album/6em6BXIsCYjP1JOhaU4Bm6"
-      },
-      "artists": [
-        {
-          "name": "Poirier",
-          "url": "https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4"
-        },
-        {
-          "name": "Coralie H\u00e9rard",
-          "url": "https://open.spotify.com/artist/3IfmJG3XCLi3hLhwO53eFR"
-        }
-      ],
-      "duration_ms": 194976,
-      "name": "Nou Pare",
-      "url": "https://open.spotify.com/track/1zVhX7e45uIkMsHzwke6Jb"
-    },
-    {
-      "added_at": "2022-07-14 21:35:16",
-      "album": {
         "name": "Eskize Mwen",
         "url": "https://open.spotify.com/album/20CZhVE1A1hP4V70JdZjVE"
       },
@@ -1159,6 +1139,26 @@
       "duration_ms": 194545,
       "name": "Eskize Mwen - Raboday Mix",
       "url": "https://open.spotify.com/track/3hxvNj80lN6XeQzoHZKnkg"
+    },
+    {
+      "added_at": "2022-07-14 21:35:16",
+      "album": {
+        "name": "Soft Power",
+        "url": "https://open.spotify.com/album/6em6BXIsCYjP1JOhaU4Bm6"
+      },
+      "artists": [
+        {
+          "name": "Poirier",
+          "url": "https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4"
+        },
+        {
+          "name": "Coralie H\u00e9rard",
+          "url": "https://open.spotify.com/artist/3IfmJG3XCLi3hLhwO53eFR"
+        }
+      ],
+      "duration_ms": 194976,
+      "name": "Nou Pare",
+      "url": "https://open.spotify.com/track/1zVhX7e45uIkMsHzwke6Jb"
     },
     {
       "added_at": "2022-07-14 21:35:16",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2022-07-14 21:35:16",
       "album": {
-        "name": "Mercy",
-        "url": "https://open.spotify.com/album/2LMAGmJtjSF4yu3LFKs4NK"
-      },
-      "artists": [
-        {
-          "name": "NEVRMIND",
-          "url": "https://open.spotify.com/artist/09apxys93rFK3x28ufjH6w"
-        }
-      ],
-      "duration_ms": 153473,
-      "name": "Mercy",
-      "url": "https://open.spotify.com/track/3ytSwpnF36uspwdRkqPTG1"
-    },
-    {
-      "added_at": "2022-07-14 21:35:16",
-      "album": {
         "name": "Dekonekte",
         "url": "https://open.spotify.com/album/3WuoEZqzqXrthaQifQm04H"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 226560,
       "name": "Dekonekte",
       "url": "https://open.spotify.com/track/1uw9hfE1nhTd00sJEOlpbj"
+    },
+    {
+      "added_at": "2022-07-14 21:35:16",
+      "album": {
+        "name": "Mercy",
+        "url": "https://open.spotify.com/album/2LMAGmJtjSF4yu3LFKs4NK"
+      },
+      "artists": [
+        {
+          "name": "NEVRMIND",
+          "url": "https://open.spotify.com/artist/09apxys93rFK3x28ufjH6w"
+        }
+      ],
+      "duration_ms": 153473,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/3ytSwpnF36uspwdRkqPTG1"
     },
     {
       "added_at": "2022-07-14 21:35:16",
@@ -1647,6 +1647,22 @@
     {
       "added_at": "2022-07-14 21:35:16",
       "album": {
+        "name": "REFLEXION",
+        "url": "https://open.spotify.com/album/6i72auNGChVZB8lwCC0pTM"
+      },
+      "artists": [
+        {
+          "name": "KANIS",
+          "url": "https://open.spotify.com/artist/5lidwRtvsMZ2URSmo9rlHc"
+        }
+      ],
+      "duration_ms": 166400,
+      "name": "Oublier",
+      "url": "https://open.spotify.com/track/3KOhDk9R0Ze1hgEMCK0GLM"
+    },
+    {
+      "added_at": "2022-07-14 21:35:16",
+      "album": {
         "name": "U.F.O.",
         "url": "https://open.spotify.com/album/53soDtHypog8Dy2SByOsBu"
       },
@@ -1663,22 +1679,6 @@
       "duration_ms": 210857,
       "name": "U.F.O.",
       "url": "https://open.spotify.com/track/4Uhue4LwvocPIXjknChxBc"
-    },
-    {
-      "added_at": "2022-07-14 21:35:16",
-      "album": {
-        "name": "REFLEXION",
-        "url": "https://open.spotify.com/album/6i72auNGChVZB8lwCC0pTM"
-      },
-      "artists": [
-        {
-          "name": "KANIS",
-          "url": "https://open.spotify.com/artist/5lidwRtvsMZ2URSmo9rlHc"
-        }
-      ],
-      "duration_ms": 166400,
-      "name": "Oublier",
-      "url": "https://open.spotify.com/track/3KOhDk9R0Ze1hgEMCK0GLM"
     },
     {
       "added_at": "2022-07-14 21:35:16",

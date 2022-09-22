@@ -4,7 +4,7 @@
 
 > Hear the latest releases from bluegrass and string bands alike\. Cover: Tray Wellington
 
-370 songs - 22 hr 22 min - [published](https://open.spotify.com/playlist/1ohgiwSh4jFwvfDQpd6QPG)
+371 songs - 22 hr 27 min - [published](https://open.spotify.com/playlist/1ohgiwSh4jFwvfDQpd6QPG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,7 @@
 | [Detroit](https://open.spotify.com/track/3kO6OD9YBlbLzSTX2Zq7Fb) | [Band of Ruhks](https://open.spotify.com/artist/0PXgO6PU0UPzy3NIyTwrBj) | [Authentic](https://open.spotify.com/album/6IU3ClGWUa6Ps4VVq6hq2N) | 3:01 | 2021-12-17 | 2022-06-19 |
 | [Don't Cry](https://open.spotify.com/track/2irMeKkUB59LWCU7i9XDnj) | [Sam Burchfield](https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5) | [Arms of a Lover](https://open.spotify.com/album/2KELaV63XzaF0MJ2FeIjVK) | 3:21 | 2022-07-22 |  |
 | [Don't Cry](https://open.spotify.com/track/6nnDEzYTDH9kYDVvndebqN) | [Sam Burchfield](https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5) | [Don't Cry](https://open.spotify.com/album/2nWaFbthQGIJAfHg3zhCJg) | 3:21 | 2022-04-15 | 2022-07-29 |
-| [Don't Make Me Get Up and Go](https://open.spotify.com/track/2OlPUfcZze6pH99CzKbCLh) | [The Brothers Comatose](https://open.spotify.com/artist/7oKVYDiVZxglvgEW2zHcAD) | [Ink, Dust & Luck](https://open.spotify.com/album/3PXlhFmgMiY4qXiQbBI5PJ) | 3:10 | 2022-07-22 |  |
+| [Don't Make Me Get Up and Go](https://open.spotify.com/track/2OlPUfcZze6pH99CzKbCLh) | [The Brothers Comatose](https://open.spotify.com/artist/7oKVYDiVZxglvgEW2zHcAD) | [Ink, Dust & Luck](https://open.spotify.com/album/3PXlhFmgMiY4qXiQbBI5PJ) | 3:10 | 2022-07-22 | 2022-09-22 |
 | [Don't Make Me Get up and Go](https://open.spotify.com/track/4jaalJMyXvPcvYVI3VoKtu) | [The Brothers Comatose](https://open.spotify.com/artist/7oKVYDiVZxglvgEW2zHcAD) | [Don't Make Me Get up and Go](https://open.spotify.com/album/7o4ZRAw9dSwk3jsFBaDLRH) | 3:11 | 2021-12-17 | 2022-07-29 |
 | [Don't You Know I'm from Here](https://open.spotify.com/track/6TzKeFnvMOgfdzhoVPtanm) | [Brennen Leigh](https://open.spotify.com/artist/5hoqqYuJtD3clexwJn5wWW) | [Don't You Know I'm from Here](https://open.spotify.com/album/3PlfYSxMlOhkLmoSP9mL1P) | 4:22 | 2021-12-17 | 2022-07-28 |
 | [Dooley's Farm \(feat\. Billy Strings\)](https://open.spotify.com/track/6mfq2McYfeiVIBa1tPA2gU) | [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n), [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [Crooked Tree](https://open.spotify.com/album/1lIZUzexPXR4Q7exPmNqCc) | 3:41 | 2022-08-11 |  |
@@ -341,6 +341,7 @@
 | [Unholy Water](https://open.spotify.com/track/6HZ85VGp3xOsmvVrBlSLH5) | [Sister Sadie](https://open.spotify.com/artist/0rWSUQEtdCxT9Y1Hd0eGl8) | [Sister Sadie](https://open.spotify.com/album/1ekbNsvtcP0B7omBxQ6nFV) | 3:24 | 2021-12-17 | 2022-07-22 |
 | [Unhurried](https://open.spotify.com/track/0uGY93shNywFnDavxcuj53) | [Rachel Stevener](https://open.spotify.com/artist/6Pes4qkdbvkqjDpGv1W1zs) | [Unhurried](https://open.spotify.com/album/3NNNcR5XuIoETEEdvOzdRC) | 3:59 | 2022-01-14 | 2022-04-21 |
 | [Until Im Grey](https://open.spotify.com/track/3IdtVVOVZZMuVeDuMmfdxn) | [Brett Gordon Lloyd](https://open.spotify.com/artist/45GbybEP5hqvpdVZLAzCpK) | [Until Im Grey](https://open.spotify.com/album/7DQZcGwFxkS1WmKI0H1NgW) | 4:32 | 2022-04-01 | 2022-07-23 |
+| [Until Im Grey](https://open.spotify.com/track/31wdXEGbC6aPycv8pid4BW) | [Brett Gordon Lloyd](https://open.spotify.com/artist/45GbybEP5hqvpdVZLAzCpK) | [Until Im Grey](https://open.spotify.com/album/0NjKBUQUzLqgaZunXHl0lg) | 4:32 | 2022-09-02 |  |
 | [Up There on the Hillside](https://open.spotify.com/track/6t5XeOvwb8XbGvckzMnv8q) | [Junior Sisk](https://open.spotify.com/artist/2MgBNWdCITP6PKZirrJslp) | [Up There on the Hillside](https://open.spotify.com/album/32n5CnpJIPwpVuteCulxme) | 2:50 | 2022-06-17 | 2022-07-16 |
 | [Vertigo \(feat\. Sam Bush, Stuart Duncan, Edgar Meyer & Bryan Sutton\)](https://open.spotify.com/track/622qZFotkSlksGJlQkYI21) | [Béla Fleck](https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU), [Bryan Sutton](https://open.spotify.com/artist/1LFHqGsLJjUP2jqIAznlLm), [Edgar Meyer](https://open.spotify.com/artist/7jkhwa4XMe9XSt1r0AWNqD), [Sam Bush](https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm), [Stuart Duncan](https://open.spotify.com/artist/53pmIwVqcTM68qW6PVhjW2) | [Vertigo \(feat\. Sam Bush, Stuart Duncan, Edgar Meyer & Bryan Sutton\)](https://open.spotify.com/album/4R2ZZgGq1zJJhIPeaucfGH) | 5:18 | 2021-12-17 | 2022-07-29 |
 | [Wanderlust](https://open.spotify.com/track/2hjJOsrdzTKoWSdeLuYc5D) | [Nefesh Mountain](https://open.spotify.com/artist/4JpW8a54yD77lNQAyis8EL), [Jerry Douglas](https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9), [Bryan Sutton](https://open.spotify.com/artist/1LFHqGsLJjUP2jqIAznlLm) | [Wanderlust](https://open.spotify.com/album/74pabGB6OcjQ2km6lZDmI1) | 3:37 | 2021-12-17 | 2022-07-29 |

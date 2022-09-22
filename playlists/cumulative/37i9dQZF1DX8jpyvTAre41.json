@@ -5058,6 +5058,28 @@
     },
     {
       "album": {
+        "name": "Out of My Head",
+        "url": "https://open.spotify.com/album/0O2MDdqpibGxaUw9raccMl"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Sands",
+          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
+        },
+        {
+          "name": "Aaron Gillespie",
+          "url": "https://open.spotify.com/artist/5B2GfbXgossZt9SE08Iqn6"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174031,
+      "name": "Out of My Head",
+      "url": "https://open.spotify.com/track/7LR1KXCfE7EWu02ghN6c53"
+    },
+    {
+      "album": {
         "name": "Out of My Head feat. Aaron Gillespie",
         "url": "https://open.spotify.com/album/62q3iA3E0gLSeezRa2stGU"
       },
@@ -5073,7 +5095,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-22",
       "duration_ms": 174031,
       "name": "Out of My Head feat. Aaron Gillespie",
       "url": "https://open.spotify.com/track/6QDS3BSyRGSaTUY4MhJUir"

@@ -1,12 +1,12 @@
 {
   "description": "Aumente o volume e ou\u00e7a as bandas que est\u00e3o com tudo no rock! Foto: Nickelback",
-  "num_followers": 705937,
+  "num_followers": 705901,
   "original_name": "Volume M\u00e1ximo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY5MjQ2MCwwMDAwMDAwMDIzMDZiYjlmYjhmNzAzODFkYjMyNzlmYTc4NWQ0MzVk",
+  "snapshot_id": "MTY2MjY5MjQ2MCwwMDAwMDAwMGI0YThjZTFlNmI1NDM5ZjY3NTNjZjUyOWNjYTM3YTMz",
   "tracks": [
     {
       "added_at": "2022-09-09 03:01:00",
@@ -339,22 +339,6 @@
     {
       "added_at": "2022-09-09 03:01:00",
       "album": {
-        "name": "Will Of The People",
-        "url": "https://open.spotify.com/album/68J2rIUZze8X3hAa8ali4k"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 198849,
-      "name": "Will Of The People",
-      "url": "https://open.spotify.com/track/3EDKy3jIiw1OJqqZcdOCxm"
-    },
-    {
-      "added_at": "2022-09-09 03:01:00",
-      "album": {
         "name": "Planet Zero",
         "url": "https://open.spotify.com/album/2p732bJ3OshHkiQGJfz1Jo"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 222738,
       "name": "Planet Zero",
       "url": "https://open.spotify.com/track/3GL1RQKHV0TDRq8EXHMhGq"
+    },
+    {
+      "added_at": "2022-09-09 03:01:00",
+      "album": {
+        "name": "Will Of The People",
+        "url": "https://open.spotify.com/album/68J2rIUZze8X3hAa8ali4k"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 198849,
+      "name": "Will Of The People",
+      "url": "https://open.spotify.com/track/3EDKy3jIiw1OJqqZcdOCxm"
     },
     {
       "added_at": "2022-09-09 03:01:00",
@@ -499,22 +499,6 @@
     {
       "added_at": "2022-09-09 03:01:00",
       "album": {
-        "name": "No More Tears To Cry",
-        "url": "https://open.spotify.com/album/0aAcMNWv3LRwqpRa6rb7X0"
-      },
-      "artists": [
-        {
-          "name": "Bullet For My Valentine",
-          "url": "https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT"
-        }
-      ],
-      "duration_ms": 221433,
-      "name": "No More Tears To Cry",
-      "url": "https://open.spotify.com/track/11beGBTthT9XhdQXYFkajZ"
-    },
-    {
-      "added_at": "2022-09-09 03:01:00",
-      "album": {
         "name": "City Of The Dead",
         "url": "https://open.spotify.com/album/36OypNDN6ZVkr5u08ZCmJG"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 173931,
       "name": "City Of The Dead",
       "url": "https://open.spotify.com/track/39sHS8PN9SDZSZ7w1wjRYb"
+    },
+    {
+      "added_at": "2022-09-09 03:01:00",
+      "album": {
+        "name": "No More Tears To Cry",
+        "url": "https://open.spotify.com/album/0aAcMNWv3LRwqpRa6rb7X0"
+      },
+      "artists": [
+        {
+          "name": "Bullet For My Valentine",
+          "url": "https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT"
+        }
+      ],
+      "duration_ms": 221433,
+      "name": "No More Tears To Cry",
+      "url": "https://open.spotify.com/track/11beGBTthT9XhdQXYFkajZ"
     },
     {
       "added_at": "2022-09-09 03:01:00",
@@ -719,22 +719,6 @@
     {
       "added_at": "2022-09-09 03:01:00",
       "album": {
-        "name": "Echo",
-        "url": "https://open.spotify.com/album/5pCBuV5mhXIUonyuWL5EZd"
-      },
-      "artists": [
-        {
-          "name": "Of Mice & Men",
-          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
-        }
-      ],
-      "duration_ms": 199250,
-      "name": "Echo",
-      "url": "https://open.spotify.com/track/5ghRFXY8wDBM3tht7Qvxp3"
-    },
-    {
-      "added_at": "2022-09-09 03:01:00",
-      "album": {
         "name": "Heavy Is The Crown",
         "url": "https://open.spotify.com/album/3PZhCt0gqzjDJLC8yKUohe"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 234687,
       "name": "Heavy Is The Crown",
       "url": "https://open.spotify.com/track/4P5cw8rpwDAQdzIy5nltzj"
+    },
+    {
+      "added_at": "2022-09-09 03:01:00",
+      "album": {
+        "name": "Echo",
+        "url": "https://open.spotify.com/album/5pCBuV5mhXIUonyuWL5EZd"
+      },
+      "artists": [
+        {
+          "name": "Of Mice & Men",
+          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
+        }
+      ],
+      "duration_ms": 199250,
+      "name": "Echo",
+      "url": "https://open.spotify.com/track/5ghRFXY8wDBM3tht7Qvxp3"
     },
     {
       "added_at": "2022-09-09 03:01:00",
@@ -1155,18 +1155,18 @@
     {
       "added_at": "2022-09-09 03:01:00",
       "album": {
-        "name": "Gifts From The Holy Ghost",
-        "url": "https://open.spotify.com/album/4kfE0W36et9sZgbRHNjHdl"
+        "name": "Roses For You",
+        "url": "https://open.spotify.com/album/7qkjcLooZU0VyhhnbrxFUa"
       },
       "artists": [
         {
-          "name": "Dorothy",
-          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
+          "name": "Axty",
+          "url": "https://open.spotify.com/artist/4zVeGdifjxGkC3eCSmCo0H"
         }
       ],
-      "duration_ms": 215593,
-      "name": "A Beautiful Life",
-      "url": "https://open.spotify.com/track/4lcQ64FgH8aBhBfx19jlA4"
+      "duration_ms": 200016,
+      "name": "Roses For You",
+      "url": "https://open.spotify.com/track/0NRiFKtoYgflCzuCI8OG6t"
     },
     {
       "added_at": "2022-09-09 03:01:00",
@@ -1187,18 +1187,18 @@
     {
       "added_at": "2022-09-09 03:01:00",
       "album": {
-        "name": "Roses For You",
-        "url": "https://open.spotify.com/album/7qkjcLooZU0VyhhnbrxFUa"
+        "name": "Gifts From The Holy Ghost",
+        "url": "https://open.spotify.com/album/4kfE0W36et9sZgbRHNjHdl"
       },
       "artists": [
         {
-          "name": "Axty",
-          "url": "https://open.spotify.com/artist/4zVeGdifjxGkC3eCSmCo0H"
+          "name": "Dorothy",
+          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
         }
       ],
-      "duration_ms": 200016,
-      "name": "Roses For You",
-      "url": "https://open.spotify.com/track/0NRiFKtoYgflCzuCI8OG6t"
+      "duration_ms": 215593,
+      "name": "A Beautiful Life",
+      "url": "https://open.spotify.com/track/4lcQ64FgH8aBhBfx19jlA4"
     },
     {
       "added_at": "2022-09-09 03:01:00",

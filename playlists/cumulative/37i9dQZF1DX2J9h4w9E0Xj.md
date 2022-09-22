@@ -4,7 +4,7 @@
 
 > The best new rock on the rise\. Cover: The Linda Lindas
 
-56 songs - 2 hr 53 min - [published](https://open.spotify.com/playlist/4X0DXh9DPJiV5KJFDMzecp)
+57 songs - 2 hr 56 min - [published](https://open.spotify.com/playlist/4X0DXh9DPJiV5KJFDMzecp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,8 @@
 | [Therapy 2](https://open.spotify.com/track/5Xch2bmKG4TBYuKPWIMpMt) | [Electric Enemy](https://open.spotify.com/artist/2N1mByBMykfROrhwRVQV3v) | [The Therapy Sessions](https://open.spotify.com/album/4Ree7F8kKBluzkGcKcFo0P) | 3:02 | 2022-03-24 |  |
 | [TV or Not TV](https://open.spotify.com/track/69yLIX3dwFMpoAqW1a98O2) | [Liily](https://open.spotify.com/artist/2asx6eXv9qzj5rA0ESrdO3) | [TV or Not TV](https://open.spotify.com/album/3EBzedKTSdxOxHX8VPb9G6) | 3:40 | 2022-03-24 |  |
 | [Uzumaki](https://open.spotify.com/track/0zLNFeLkfUi9Ei4ysZfPXP) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Year Of The Snake](https://open.spotify.com/album/0zWHPn6Hlv1JSLMnarvVLE) | 3:31 | 2022-03-24 |  |
-| [Want You Like That](https://open.spotify.com/track/4VhiUBbGZd374klScom1cp) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Love and Other Lies](https://open.spotify.com/album/2Ae1hm2uugZMTBV9jZSuT9) | 2:54 | 2022-03-24 |  |
+| [Want You Like That](https://open.spotify.com/track/0aKWr5K7ydkegVoxd3dBeM) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Love and Other Lies](https://open.spotify.com/album/5l7whBWhClQiC0pFLpPcRi) | 2:54 | 2022-03-24 |  |
+| [Want You Like That](https://open.spotify.com/track/4VhiUBbGZd374klScom1cp) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Love and Other Lies](https://open.spotify.com/album/2Ae1hm2uugZMTBV9jZSuT9) | 2:54 | 2022-03-24 | 2022-09-22 |
 | [What Would You Do?](https://open.spotify.com/track/5v2lHIHssGvhW1vcJuLrLq) | [Daisy Brain](https://open.spotify.com/artist/5WuDKeWph4EKsyy9e56Mz4) | [What Would You Do?](https://open.spotify.com/album/039EIWZALzu9b9Yy5W6x9p) | 2:21 | 2022-03-24 |  |
 | [White Picket Fence](https://open.spotify.com/track/6siOHdRw7Y4g0NmAZ5bweV) | [psykhi](https://open.spotify.com/artist/6Jv3pqZlwHy3RlsfdBGbRc) | [White Picket Fence](https://open.spotify.com/album/0OH3zQevY0Y3eXo0qA2aH1) | 2:56 | 2022-03-24 |  |
 

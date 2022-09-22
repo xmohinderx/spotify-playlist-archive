@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-08-30",
-  "description": "With Bruno Mars, John Michael, James Timber, Nevada and more",
+  "description": "With Bruno Mars, James Timber, Jared Munzie, Nevada and more",
   "name": "24K Magic Radio",
   "published_playlist_ids": [
     "1BhMYZPvWoqkovqn1vMjMs"
@@ -1581,7 +1581,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-22",
       "duration_ms": 211160,
       "name": "Billionaire (feat. Bruno Mars)",
       "url": "https://open.spotify.com/track/2qPUnoasNe4Ep43emVXEig"
@@ -2225,7 +2225,7 @@
       ],
       "date_added": "2020-08-30",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-09-22",
       "duration_ms": 219146,
       "name": "Cake By The Ocean",
       "url": "https://open.spotify.com/track/76hfruVvmfQbw0eYn1nmeC"
@@ -2389,7 +2389,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-22",
       "duration_ms": 222040,
       "name": "Call on Me - Ryan Riback Remix",
       "url": "https://open.spotify.com/track/2L6orAlH8tBhiFTumIfMyF"
@@ -4596,6 +4596,32 @@
     },
     {
       "album": {
+        "name": "Don't Wanna Know (Ryan Riback Remix)",
+        "url": "https://open.spotify.com/album/0Mbvdz7IZehexdxccsVAOx"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Ryan Riback",
+          "url": "https://open.spotify.com/artist/33JQK4UoS2aMPYBfdB5Ftt"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229626,
+      "name": "Don't Wanna Know - Ryan Riback Remix",
+      "url": "https://open.spotify.com/track/5LInnQ09xldtU2CGhT8FYn"
+    },
+    {
+      "album": {
         "name": "Errors",
         "url": "https://open.spotify.com/album/1SeE8DELoGzTFiPkNlw934"
       },
@@ -5811,7 +5837,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-19",
+      "date_removed": null,
       "duration_ms": 277520,
       "name": "Future Is Mine (feat. Chromeo & Wale)",
       "url": "https://open.spotify.com/track/1885hHFhy3F04ZedxT6oHN"
@@ -5879,7 +5905,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-22",
       "duration_ms": 232336,
       "name": "Future Is Mine (feat. Chromeo & Wale) - Jetique x MYNGA Remix",
       "url": "https://open.spotify.com/track/543odBXDaoTydHPjHr3f7o"
@@ -6077,7 +6103,7 @@
       ],
       "date_added": "2022-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-20",
+      "date_removed": null,
       "duration_ms": 178056,
       "name": "Geometry",
       "url": "https://open.spotify.com/track/4Zc7lagND249NPhk8dWJga"
@@ -6157,7 +6183,7 @@
       ],
       "date_added": "2022-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-22",
       "duration_ms": 176848,
       "name": "Get It Baby (feat. Big Daddy Kane)",
       "url": "https://open.spotify.com/track/6dDhMwFhsm5gkXZC1GBS3P"
@@ -6175,7 +6201,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-20",
+      "date_removed": null,
       "duration_ms": 159757,
       "name": "Get It Baby (Radio Mix Version)",
       "url": "https://open.spotify.com/track/5gfmTZ1G6IwwO0WbjxRozk"
@@ -6999,7 +7025,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-22",
       "duration_ms": 249170,
       "name": "Grenade (feat. Bruno Mars)",
       "url": "https://open.spotify.com/track/1aAOiSIMoyTcUSDLBc8wKZ"
@@ -7039,7 +7065,7 @@
       ],
       "date_added": "2022-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-22",
       "duration_ms": 185806,
       "name": "Groove",
       "url": "https://open.spotify.com/track/05Sr3aEq5SEbhfrUIPGgMv"
@@ -7445,7 +7471,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-18",
+      "date_removed": null,
       "duration_ms": 183493,
       "name": "Her Kiss",
       "url": "https://open.spotify.com/track/6X6kCTsrpTZFDDfrlH2wLV"
@@ -9639,7 +9665,7 @@
       ],
       "date_added": "2020-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-22",
       "duration_ms": 202480,
       "name": "Kissing Strangers",
       "url": "https://open.spotify.com/track/1NkwZ9TnIs8js6G0M6M7RU"
@@ -9903,7 +9929,7 @@
       ],
       "date_added": "2020-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-12",
+      "date_removed": null,
       "duration_ms": 205946,
       "name": "Let Me Love You",
       "url": "https://open.spotify.com/track/0lYBSQXN6rCTvUZvg9S0lU"
@@ -9981,7 +10007,7 @@
       ],
       "date_added": "2020-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-15",
+      "date_removed": null,
       "duration_ms": 175000,
       "name": "Let Me Love You - R3hab Remix",
       "url": "https://open.spotify.com/track/7mbbGuqfaIIFHImIwu45Xi"
@@ -10235,7 +10261,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-20",
+      "date_removed": null,
       "duration_ms": 231800,
       "name": "Light Of Day",
       "url": "https://open.spotify.com/track/6JOjzjMV6bbpHDrnoZEj4p"
@@ -10493,7 +10519,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-22",
       "duration_ms": 165665,
       "name": "Lookin' Like That",
       "url": "https://open.spotify.com/track/49WkAn1PXc5IbfXGiBIjIf"
@@ -12062,6 +12088,28 @@
     },
     {
       "album": {
+        "name": "Nobody's Better (feat. Fetty Wap)",
+        "url": "https://open.spotify.com/album/1BDQaYovZUKGOzRINUFfv8"
+      },
+      "artists": [
+        {
+          "name": "Suzi",
+          "url": "https://open.spotify.com/artist/3r3Rkuc4jmZHXgchgaXwnv"
+        },
+        {
+          "name": "Fetty Wap",
+          "url": "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209590,
+      "name": "Nobody's Better (feat. Fetty Wap)",
+      "url": "https://open.spotify.com/track/6XKm1z5lYIq486iWMLnSFY"
+    },
+    {
+      "album": {
         "name": "Not so Dangerous",
         "url": "https://open.spotify.com/album/2NoOEdfsBxscn8GmBR0UrP"
       },
@@ -12095,7 +12143,7 @@
       ],
       "date_added": "2022-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-22",
       "duration_ms": 268320,
       "name": "Nothin' on You (feat. Bruno Mars)",
       "url": "https://open.spotify.com/track/59dLtGBS26x7kc0rHbaPrq"
@@ -12945,7 +12993,7 @@
       ],
       "date_added": "2022-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-20",
+      "date_removed": null,
       "duration_ms": 296040,
       "name": "Popcorn Love",
       "url": "https://open.spotify.com/track/6IhyDE3JEBalQFcgod5WlZ"
@@ -13029,7 +13077,7 @@
       ],
       "date_added": "2022-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-18",
+      "date_removed": null,
       "duration_ms": 200202,
       "name": "Pretty Gurl",
       "url": "https://open.spotify.com/track/4ge9eogeGjDfPrQGGYjtbl"
@@ -13529,7 +13577,7 @@
       ],
       "date_added": "2020-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-13",
+      "date_removed": null,
       "duration_ms": 224840,
       "name": "Rude",
       "url": "https://open.spotify.com/track/6RtPijgfPKROxEzTHNRiDp"
@@ -14913,7 +14961,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-22",
       "duration_ms": 211742,
       "name": "Sophisticated Lady",
       "url": "https://open.spotify.com/track/0CBLxFJjfLmNGtdsmmAAYQ"
@@ -15804,6 +15852,24 @@
     },
     {
       "album": {
+        "name": "Teacher",
+        "url": "https://open.spotify.com/album/0Q5gNWnwuOPOurfWXiTFau"
+      },
+      "artists": [
+        {
+          "name": "PRETTYMUCH",
+          "url": "https://open.spotify.com/artist/5Y8eJDj37KhaEeqbVO7Ag1"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194920,
+      "name": "Teacher",
+      "url": "https://open.spotify.com/track/6sbP2ku2EPDBfVlt5ggO6h"
+    },
+    {
+      "album": {
         "name": "What Is Love? (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1MvF4ulZKH7SaDQs9rE5nc"
       },
@@ -16143,7 +16209,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 212924,
       "name": "The Game",
       "url": "https://open.spotify.com/track/3MvQoZmHqj7l62E7mKXa6p"
@@ -17215,7 +17281,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-05",
+      "date_removed": null,
       "duration_ms": 219133,
       "name": "Tryna Go",
       "url": "https://open.spotify.com/track/3E5ztkhlnxAtHexs5gRt5g"
@@ -17259,7 +17325,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-22",
       "duration_ms": 240352,
       "name": "Turn out the Light (feat. J. Balvin)",
       "url": "https://open.spotify.com/track/6wv6w3LA8qH2jgk6i7WOYr"
@@ -17845,7 +17911,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-22",
       "duration_ms": 216733,
       "name": "We Are Family - 1995 Remaster",
       "url": "https://open.spotify.com/track/5IKLwqBQG6KU6MP2zP80Nu"
@@ -18065,7 +18131,7 @@
       ],
       "date_added": "2022-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-22",
       "duration_ms": 289000,
       "name": "We've Got Love",
       "url": "https://open.spotify.com/track/7ncrUS8ui5tn9SkpExn16F"
@@ -18323,7 +18389,7 @@
       ],
       "date_added": "2022-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-22",
       "duration_ms": 239101,
       "name": "Where The Sun Goes (feat. Stevie Wonder)",
       "url": "https://open.spotify.com/track/63FkaiOAxCv2UOhkDZeu8w"

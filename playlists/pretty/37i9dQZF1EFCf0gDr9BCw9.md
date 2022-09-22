@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCf0gDr9BCw9.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1F8iyK0PtpY1EAYBTssIaz">Billy Strayhorn</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 426 likes - 140 songs - 10 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 428 likes - 140 songs - 10 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -133,8 +133,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCf0gDr9BCw9.md) - [plain]
 | 123 | [Bagatelle](https://open.spotify.com/track/0kcLxUVQkwb4qbBhj5KwHh) | [The Dutch Jazz Orchestra](https://open.spotify.com/artist/0oZIb1hT9LgKA0Sc2U7xEp) | [Portrait of a Silk Thread: Newly Discovered Works of Billy Strayhorn](https://open.spotify.com/album/3dBICshGBbp0nlNnxY4vl6) | 4:01 |
 | 124 | [Portrait of a Silk Thread](https://open.spotify.com/track/1ZgsLi4iqANiYLTRxevUmv) | [Lennart Aberg](https://open.spotify.com/artist/3ZXO6RQeKC6PYzXqi7xe41), [Swedish Radio Jazz Group](https://open.spotify.com/artist/4RbQ3ndXO1lnERpNEAIXvx) | [A Swedish Tribute to Duke](https://open.spotify.com/album/3Omjs5bBjpbgzCDK8v44e0) | 4:43 |
 | 125 | [Blue Heart](https://open.spotify.com/track/7qUp2TX0RDdOTqamY0IauJ) | [The Dutch Jazz Orchestra](https://open.spotify.com/artist/0oZIb1hT9LgKA0Sc2U7xEp) | [So This Is Love: More Newly Discovered Works Of Billy Strayhorn](https://open.spotify.com/album/3r57EGIl0Fu95RsuRzptRL) | 4:38 |
-| 126 | [Jo](https://open.spotify.com/track/3MMTXcokvnOvkXFc2iPper) | [The Dutch Jazz Orchestra](https://open.spotify.com/artist/0oZIb1hT9LgKA0Sc2U7xEp) | [So This Is Love: More Newly Discovered Works Of Billy Strayhorn](https://open.spotify.com/album/3r57EGIl0Fu95RsuRzptRL) | 3:21 |
-| 127 | [Feet On The Beat](https://open.spotify.com/track/3XBAY99bnSNts24sAPWHMA) | [The Dutch Jazz Orchestra](https://open.spotify.com/artist/0oZIb1hT9LgKA0Sc2U7xEp) | [So This Is Love: More Newly Discovered Works Of Billy Strayhorn](https://open.spotify.com/album/3r57EGIl0Fu95RsuRzptRL) | 3:36 |
+| 126 | [Feet On The Beat](https://open.spotify.com/track/3XBAY99bnSNts24sAPWHMA) | [The Dutch Jazz Orchestra](https://open.spotify.com/artist/0oZIb1hT9LgKA0Sc2U7xEp) | [So This Is Love: More Newly Discovered Works Of Billy Strayhorn](https://open.spotify.com/album/3r57EGIl0Fu95RsuRzptRL) | 3:36 |
+| 127 | [Jo](https://open.spotify.com/track/3MMTXcokvnOvkXFc2iPper) | [The Dutch Jazz Orchestra](https://open.spotify.com/artist/0oZIb1hT9LgKA0Sc2U7xEp) | [So This Is Love: More Newly Discovered Works Of Billy Strayhorn](https://open.spotify.com/album/3r57EGIl0Fu95RsuRzptRL) | 3:21 |
 | 128 | [Flame Indigo](https://open.spotify.com/track/6CeZy1DpklSJtAiDLJDRUs) | [The Dutch Jazz Orchestra](https://open.spotify.com/artist/0oZIb1hT9LgKA0Sc2U7xEp) | [So This Is Love: More Newly Discovered Works Of Billy Strayhorn](https://open.spotify.com/album/3r57EGIl0Fu95RsuRzptRL) | 4:34 |
 | 129 | [Bugle Breaks](https://open.spotify.com/track/1UuP4NP57KfD2CoMlLLWaa) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Grands Succès : Les Plus Grands Orchestre De La Libération](https://open.spotify.com/album/3M84IpjW6jlrAkEW8dgXao) | 2:53 |
 | 130 | [Blue House](https://open.spotify.com/track/7pDvQGCUCIuUj9H4dxzQ1q) | [The Dutch Jazz Orchestra](https://open.spotify.com/artist/0oZIb1hT9LgKA0Sc2U7xEp) | [Something To Live For: The Music of Billy Strayhorn](https://open.spotify.com/album/49zze2JVgBNviHLK21YYON) | 4:20 |
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCf0gDr9BCw9.md) - [plain]
 | 139 | [Juanita](https://open.spotify.com/track/4MkCMbWsZ1J3MSkc5EAn1l) | [Ray Charles Singers](https://open.spotify.com/artist/716xTLDou3FHSi9mXOMU1Z) | [In the Evening by the Moonlight](https://open.spotify.com/album/6Gm70RcgXviUTf189V247x) | 3:22 |
 | 140 | [Suite For The Duo](https://open.spotify.com/track/2LhGv7K7runCfDvvacEs9L) | [The Mitchell\-Ruff Duo](https://open.spotify.com/artist/6EuDBKUzhOpVFircumtEz6) | [Strayhorn: A Mitchell\-Ruff Interpretation](https://open.spotify.com/album/5ZAbG3O5SXsmw9U7szA1Sq) | 12:42 |
 
-Snapshot ID: `Mjc3Mjg3NjEsMDAwMDAwMDA0NGZiYWZhNzIxNDU4OWRiOTZkOTc4M2Y2MTMyZjk5Zg==`
+Snapshot ID: `Mjc3MzAyMDEsMDAwMDAwMDA4ZWM3NWE3N2JlNTljYWJhZjlmYTVkZTMxZGFjMzhhOQ==`

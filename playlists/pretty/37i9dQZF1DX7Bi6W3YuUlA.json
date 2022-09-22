@@ -1,12 +1,12 @@
 {
   "description": "Songs of positivity from some of today's leading inspiring artists. Cover: Chance The Rapper featuring visual artist Na\u00efla Opiangah",
-  "num_followers": 2720,
+  "num_followers": 2737,
   "original_name": "Blessings",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Mzc2NjE5NCwwMDAwMDAwMDIxYjc1ZjA2OWI2ODk2MjY0MmI4ZjRkYWIyNmJhN2E2",
+  "snapshot_id": "MTY1Mzc2NjE5NCwwMDAwMDAwMDQ4MDk1MGI0MTNlYjZhZTBhOGI0YjZmYWUzMjc5M2U2",
   "tracks": [
     {
       "added_at": "2022-05-28 19:29:54",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
+        "name": "Clean",
+        "url": "https://open.spotify.com/album/3JiryCdck69RJNlX7wTTe3"
+      },
+      "artists": [
+        {
+          "name": "Derek Minor",
+          "url": "https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B"
+        }
+      ],
+      "duration_ms": 168004,
+      "name": "Clean",
+      "url": "https://open.spotify.com/track/1Qd7kw7Zirh6Ep03IGYcEz"
+    },
+    {
+      "added_at": "2022-05-28 19:29:54",
+      "album": {
         "name": "Scam Likely",
         "url": "https://open.spotify.com/album/68iFUTHigpOwePrMZkwWaG"
       },
@@ -1067,30 +1083,6 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
-        "name": "Reasons",
-        "url": "https://open.spotify.com/album/1MBqLO9XLipfFfYGbZx8mt"
-      },
-      "artists": [
-        {
-          "name": "Hulvey",
-          "url": "https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO"
-        },
-        {
-          "name": "Lecrae",
-          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
-        },
-        {
-          "name": "SVRCINA",
-          "url": "https://open.spotify.com/artist/3wRt3iJpZDOg73CTUkfv5C"
-        }
-      ],
-      "duration_ms": 207200,
-      "name": "Reasons",
-      "url": "https://open.spotify.com/track/1JnLTx6HzwbLpslHe8WuAW"
-    },
-    {
-      "added_at": "2022-05-28 19:29:54",
-      "album": {
         "name": "NO GOOD",
         "url": "https://open.spotify.com/album/2yXbdKXRbLV1zVRguS35kl"
       },
@@ -1127,18 +1119,26 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
-        "name": "Clean",
-        "url": "https://open.spotify.com/album/3JiryCdck69RJNlX7wTTe3"
+        "name": "Reasons",
+        "url": "https://open.spotify.com/album/1MBqLO9XLipfFfYGbZx8mt"
       },
       "artists": [
         {
-          "name": "Derek Minor",
-          "url": "https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B"
+          "name": "Hulvey",
+          "url": "https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO"
+        },
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        },
+        {
+          "name": "SVRCINA",
+          "url": "https://open.spotify.com/artist/3wRt3iJpZDOg73CTUkfv5C"
         }
       ],
-      "duration_ms": 168004,
-      "name": "Clean",
-      "url": "https://open.spotify.com/track/1Qd7kw7Zirh6Ep03IGYcEz"
+      "duration_ms": 207200,
+      "name": "Reasons",
+      "url": "https://open.spotify.com/track/1JnLTx6HzwbLpslHe8WuAW"
     },
     {
       "added_at": "2022-05-28 19:29:54",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
-        "name": "Christopher",
-        "url": "https://open.spotify.com/album/5VEvjpJ9mrA2JfVQJJvLEW"
-      },
-      "artists": [
-        {
-          "name": "Hulvey",
-          "url": "https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO"
-        }
-      ],
-      "duration_ms": 171196,
-      "name": "9th Grade",
-      "url": "https://open.spotify.com/track/1XaFCyWBX7fxEI5EjsdC1F"
-    },
-    {
-      "added_at": "2022-05-28 19:29:54",
-      "album": {
         "name": "Ashamed",
         "url": "https://open.spotify.com/album/0LqYqln7xmL7dcShJOCuxL"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 147044,
       "name": "Ashamed",
       "url": "https://open.spotify.com/track/7kvbLCrZv4aOz7oafDupzT"
+    },
+    {
+      "added_at": "2022-05-28 19:29:54",
+      "album": {
+        "name": "Christopher",
+        "url": "https://open.spotify.com/album/5VEvjpJ9mrA2JfVQJJvLEW"
+      },
+      "artists": [
+        {
+          "name": "Hulvey",
+          "url": "https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO"
+        }
+      ],
+      "duration_ms": 171196,
+      "name": "9th Grade",
+      "url": "https://open.spotify.com/track/1XaFCyWBX7fxEI5EjsdC1F"
     },
     {
       "added_at": "2022-05-28 19:29:54",
@@ -1635,18 +1635,18 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
-        "name": "Way Up Above",
-        "url": "https://open.spotify.com/album/3pbLIHC3cgCoBH14rmVhgl"
+        "name": "2022",
+        "url": "https://open.spotify.com/album/3wr1hWL6eyUjhqULGy0oyK"
       },
       "artists": [
         {
-          "name": "Sansone",
-          "url": "https://open.spotify.com/artist/3hAgyK1maarE5o2slH51jU"
+          "name": "Battz",
+          "url": "https://open.spotify.com/artist/1l528yNr0Jpv2dqg4r06kI"
         }
       ],
-      "duration_ms": 167944,
-      "name": "With Me Now",
-      "url": "https://open.spotify.com/track/3npTjeLyoI6YG84NR444od"
+      "duration_ms": 114000,
+      "name": "2022",
+      "url": "https://open.spotify.com/track/2F1Z3G7IZKissAgLtZSUup"
     },
     {
       "added_at": "2022-05-28 19:29:54",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
-        "name": "2022",
-        "url": "https://open.spotify.com/album/3wr1hWL6eyUjhqULGy0oyK"
-      },
-      "artists": [
-        {
-          "name": "Battz",
-          "url": "https://open.spotify.com/artist/1l528yNr0Jpv2dqg4r06kI"
-        }
-      ],
-      "duration_ms": 114000,
-      "name": "2022",
-      "url": "https://open.spotify.com/track/2F1Z3G7IZKissAgLtZSUup"
-    },
-    {
-      "added_at": "2022-05-28 19:29:54",
-      "album": {
         "name": "Everywhere + Nowhere (Black Edition Deluxe)",
         "url": "https://open.spotify.com/album/308B9tBVWyLjjLan4517p4"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 188443,
       "name": "Very Original",
       "url": "https://open.spotify.com/track/5qbzWsGFJ6zLDTim11yaLa"
+    },
+    {
+      "added_at": "2022-05-28 19:29:54",
+      "album": {
+        "name": "Way Up Above",
+        "url": "https://open.spotify.com/album/3pbLIHC3cgCoBH14rmVhgl"
+      },
+      "artists": [
+        {
+          "name": "Sansone",
+          "url": "https://open.spotify.com/artist/3hAgyK1maarE5o2slH51jU"
+        }
+      ],
+      "duration_ms": 167944,
+      "name": "With Me Now",
+      "url": "https://open.spotify.com/track/3npTjeLyoI6YG84NR444od"
     },
     {
       "added_at": "2022-05-28 19:29:54",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
-        "name": "Veintiuno",
-        "url": "https://open.spotify.com/album/2zKdOlERG7tLZtW16hfseO"
-      },
-      "artists": [
-        {
-          "name": "Madiel Lara",
-          "url": "https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42"
-        }
-      ],
-      "duration_ms": 144155,
-      "name": "Veintiuno",
-      "url": "https://open.spotify.com/track/2E9RxS0VwCMa3JRj6BF8Ye"
-    },
-    {
-      "added_at": "2022-05-28 19:29:54",
-      "album": {
         "name": "Little Longer",
         "url": "https://open.spotify.com/album/6N6y7ags2X6ZQPXJuAH3PC"
       },
@@ -1763,6 +1747,22 @@
       "duration_ms": 198152,
       "name": "Little Longer",
       "url": "https://open.spotify.com/track/7gETe38EeZmGFM6Ij0rClG"
+    },
+    {
+      "added_at": "2022-05-28 19:29:54",
+      "album": {
+        "name": "Veintiuno",
+        "url": "https://open.spotify.com/album/2zKdOlERG7tLZtW16hfseO"
+      },
+      "artists": [
+        {
+          "name": "Madiel Lara",
+          "url": "https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42"
+        }
+      ],
+      "duration_ms": 144155,
+      "name": "Veintiuno",
+      "url": "https://open.spotify.com/track/2E9RxS0VwCMa3JRj6BF8Ye"
     },
     {
       "added_at": "2022-05-28 19:29:54",
@@ -1835,18 +1835,22 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
-        "name": "Tru Talk Tony, Vol. 1",
-        "url": "https://open.spotify.com/album/5Ko5gZvBN5vyWwZpze9d7P"
+        "name": "Desesperado (Espa\u00f1ol)",
+        "url": "https://open.spotify.com/album/3KkwQBbgUCdbStPTGEN8qQ"
       },
       "artists": [
         {
-          "name": "Mission",
-          "url": "https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba"
+          "name": "Evan Craft",
+          "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
+        },
+        {
+          "name": "Redimi2",
+          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Can't Lose",
-      "url": "https://open.spotify.com/track/1gwz0qanN2fEsqnU4T7vSb"
+      "duration_ms": 181533,
+      "name": "Reborn",
+      "url": "https://open.spotify.com/track/7IPD7tvVOxDasWX0ZTU8Gx"
     },
     {
       "added_at": "2022-05-28 19:29:54",
@@ -1867,22 +1871,18 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
-        "name": "Desesperado (Espa\u00f1ol)",
-        "url": "https://open.spotify.com/album/3KkwQBbgUCdbStPTGEN8qQ"
+        "name": "Tru Talk Tony, Vol. 1",
+        "url": "https://open.spotify.com/album/5Ko5gZvBN5vyWwZpze9d7P"
       },
       "artists": [
         {
-          "name": "Evan Craft",
-          "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
-        },
-        {
-          "name": "Redimi2",
-          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
+          "name": "Mission",
+          "url": "https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba"
         }
       ],
-      "duration_ms": 181533,
-      "name": "Reborn",
-      "url": "https://open.spotify.com/track/7IPD7tvVOxDasWX0ZTU8Gx"
+      "duration_ms": 192000,
+      "name": "Can't Lose",
+      "url": "https://open.spotify.com/track/1gwz0qanN2fEsqnU4T7vSb"
     },
     {
       "added_at": "2022-05-28 19:29:54",
@@ -1927,22 +1927,26 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
-        "name": "Be Gone (feat. Mike Teezy)",
-        "url": "https://open.spotify.com/album/6OLJkhICitLisBY6dAYNY5"
+        "name": "Heard Not Seen III",
+        "url": "https://open.spotify.com/album/5RHrcFrhFu7rz2QSGiMiBk"
       },
       "artists": [
         {
-          "name": "Mission",
-          "url": "https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba"
+          "name": "theBeatbreaker",
+          "url": "https://open.spotify.com/artist/6QJCYAKI6fPSDmXHeliNNu"
         },
         {
-          "name": "Mike Teezy",
-          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
+          "name": "1K Phew",
+          "url": "https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl"
+        },
+        {
+          "name": "TNED",
+          "url": "https://open.spotify.com/artist/1wG3mhMC241gq1jwwRsBHT"
         }
       ],
-      "duration_ms": 176076,
-      "name": "Be Gone (feat. Mike Teezy)",
-      "url": "https://open.spotify.com/track/2cnc9jsFHDsGDQpYBMtgP9"
+      "duration_ms": 195927,
+      "name": "Striking Matches (feat. 1K Phew & TNED)",
+      "url": "https://open.spotify.com/track/59kiSVJTiUYXJxpyModhI5"
     },
     {
       "added_at": "2022-05-28 19:29:54",

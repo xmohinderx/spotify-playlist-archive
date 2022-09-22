@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 > Beautiful proudly South African gems made for the entire family\. Cover: <a href="https://open.spotify.com/artist/3jxs3XKuz7KUmjBMN5Yees?si=Lnk7thC0RgyMz\_QR0Mlvkw">Mthandazo Gatya</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,423 likes - 65 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,527 likes - 65 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

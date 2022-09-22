@@ -4,7 +4,7 @@
 
 > Celebrando el Festival de Avándaro, hito del rock mexicano\. ¡Paz y amor! Portada: Los Dug Dug's.
 
-109 songs - 7 hr 23 min - [published](https://open.spotify.com/playlist/3kaynFvn5ToDNicsQuxKNh)
+110 songs - 7 hr 25 min - [published](https://open.spotify.com/playlist/3kaynFvn5ToDNicsQuxKNh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,9 +92,10 @@
 | [Riendo y Probando](https://open.spotify.com/track/0Ju0cuhVWes0r60t5iBnh5) | [Poly Y Cia.](https://open.spotify.com/artist/4izqM9Y5BLa8UKFq7aR2lV) | [Super Onda Chicana](https://open.spotify.com/album/3Mg8dzenMcNgMFqzsu1D5L) | 4:35 | 2021-09-06 | 2022-07-22 |
 | [Rio Amarillo](https://open.spotify.com/track/7gCvPhzQ8X9Ooz9OfIvGVn) | [Los Chijuas](https://open.spotify.com/artist/5nWkamOwLJmb4TReNqnCEp) | [Siempre Fuimos Companeros](https://open.spotify.com/album/6ESkpsPJB3bMjOtYLfTQ3Y) | 2:37 | 2021-09-06 | 2022-07-16 |
 | [Roaming](https://open.spotify.com/track/1s5KYOR8PiPA55bxfhFvz3) | [La Fachada De Piedra](https://open.spotify.com/artist/4alM2y1QDZQ9NkVgdmO0f9) | [Rock en Avándaro Valle de Bravo](https://open.spotify.com/album/63B4lWimPrXKs9XfNfAgRa) | 3:07 | 2021-09-06 | 2022-07-29 |
-| [Roaming](https://open.spotify.com/track/7qbSUZaGP6FyvadcKT59WF) | [La Fachada De Piedra](https://open.spotify.com/artist/4alM2y1QDZQ9NkVgdmO0f9) | [Rock en Avándaro Valle de Bravo](https://open.spotify.com/album/4YeKgMdvtyH6pLC0g4uqMT) | 3:07 | 2021-09-06 |  |
+| [Roaming](https://open.spotify.com/track/7qbSUZaGP6FyvadcKT59WF) | [La Fachada De Piedra](https://open.spotify.com/artist/4alM2y1QDZQ9NkVgdmO0f9) | [Rock en Avándaro Valle de Bravo](https://open.spotify.com/album/4YeKgMdvtyH6pLC0g4uqMT) | 3:07 | 2021-09-06 | 2022-09-22 |
 | [Romeo y Julieta](https://open.spotify.com/track/1R9TnOZrNbGwAMIrARnwcb) | [Rabbits And Carrots](https://open.spotify.com/artist/5FjZWiU4wLCmX0QBaMKhwQ) | [Soul Latino](https://open.spotify.com/album/0G9ib5qvTV85OSIQlAW9Pj) | 4:12 | 2021-09-06 | 2022-07-28 |
 | [Romeo Y Julieta](https://open.spotify.com/track/6PL6G4mUcZpIMKbKjIy4yc) | [Rabbits And Carrots](https://open.spotify.com/artist/5FjZWiU4wLCmX0QBaMKhwQ) | [Soul Latino](https://open.spotify.com/album/53nfvyyeuDSxk7PZjptrFE) | 4:12 | 2021-09-06 | 2022-08-01 |
+| [Río Amarillo](https://open.spotify.com/track/0f3QYppJ7zuqD9S20ppCuW) | [Los Chijuas](https://open.spotify.com/artist/5nWkamOwLJmb4TReNqnCEp) | [Siempre Fuimos Compañeros](https://open.spotify.com/album/6iT06U9WKRU1wCh3whCgvI) | 2:37 | 2021-09-06 |  |
 | [Satanás](https://open.spotify.com/track/6hG2T8xkFaCTscKbAIPYYm) | [EL RITUAL](https://open.spotify.com/artist/5892Xxyev45o73ZrqlmMGT) | [Colección Avandaro](https://open.spotify.com/album/52secMI8PGxRR44sNXPkcP) | 8:02 | 2021-09-06 |  |
 | [Save My Soul \(Salva Mi Alma\)](https://open.spotify.com/track/546M2aqzXYEnFIDrrmGykK) | [Enigma!](https://open.spotify.com/artist/735Su6vORHKZEN8Hh8pM3H) | [Rock Sound](https://open.spotify.com/album/2Lln8tQqVPOM0hTxNwYmvq) | 2:20 | 2021-09-06 | 2022-07-23 |
 | [She'll Come Back to Me](https://open.spotify.com/track/67E7DOLOIUgDaDfCGpmDzM) | [La Division Del Norte](https://open.spotify.com/artist/4vWM7TI7ArFXtfFFACYY9p) | [Division Del Norte](https://open.spotify.com/album/6FipROEDfMRlEN1WALqs1S) | 5:50 | 2021-09-06 | 2022-07-19 |

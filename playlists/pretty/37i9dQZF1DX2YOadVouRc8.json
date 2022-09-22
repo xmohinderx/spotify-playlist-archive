@@ -1,12 +1,12 @@
 {
   "description": "Slow jams from West Africa that unwind and relax",
-  "num_followers": 7635,
+  "num_followers": 7646,
   "original_name": "Chill Bops",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzU3MjU5NSwwMDAwMDAwMDU2N2JkMDA3OTYzMDEyMjUyNjAxNzk2MDMwZDRhZGM1",
+  "snapshot_id": "MTY2MzU3MjU5NSwwMDAwMDAwMDkzNzkzNjY4ZTQyOGIxYzFhMDljYTUwMDYyMzZlNjVj",
   "tracks": [
     {
       "added_at": "2022-06-09 23:00:00",
@@ -915,26 +915,6 @@
     {
       "added_at": "2022-06-09 23:00:00",
       "album": {
-        "name": "V",
-        "url": "https://open.spotify.com/album/5rvJ4cyNUU0jI9DF3r596d"
-      },
-      "artists": [
-        {
-          "name": "A\u1e63a",
-          "url": "https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 187500,
-      "name": "IDG",
-      "url": "https://open.spotify.com/track/3k9Y1OBtIdPQNqbKILvJcD"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
         "name": "Patient",
         "url": "https://open.spotify.com/album/2d1a8MNe12RsPe3rhZpGvb"
       },
@@ -951,6 +931,26 @@
       "duration_ms": 179318,
       "name": "Patient",
       "url": "https://open.spotify.com/track/7LxVI3obU50YFurUYGp3ih"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
+        "name": "V",
+        "url": "https://open.spotify.com/album/5rvJ4cyNUU0jI9DF3r596d"
+      },
+      "artists": [
+        {
+          "name": "A\u1e63a",
+          "url": "https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 187500,
+      "name": "IDG",
+      "url": "https://open.spotify.com/track/3k9Y1OBtIdPQNqbKILvJcD"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2022-06-09 23:00:00",
       "album": {
+        "name": "4 Play",
+        "url": "https://open.spotify.com/album/3Ms9uKVOdEp42Y9cZeZukQ"
+      },
+      "artists": [
+        {
+          "name": "Eugy",
+          "url": "https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo"
+        }
+      ],
+      "duration_ms": 143248,
+      "name": "Feeling",
+      "url": "https://open.spotify.com/track/3ewBGRjaqmMCkTmyzk3yVw"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
         "name": "Adua (Remix)",
         "url": "https://open.spotify.com/album/1qkEUpHPioAcOlMjDkEGLV"
       },
@@ -1367,22 +1383,6 @@
       "duration_ms": 173493,
       "name": "Adua (Remix)",
       "url": "https://open.spotify.com/track/7oZDRbZggx7wHJpQJqUGFp"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
-        "name": "4 Play",
-        "url": "https://open.spotify.com/album/3Ms9uKVOdEp42Y9cZeZukQ"
-      },
-      "artists": [
-        {
-          "name": "Eugy",
-          "url": "https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo"
-        }
-      ],
-      "duration_ms": 143248,
-      "name": "Feeling",
-      "url": "https://open.spotify.com/track/3ewBGRjaqmMCkTmyzk3yVw"
     },
     {
       "added_at": "2022-06-09 23:00:00",

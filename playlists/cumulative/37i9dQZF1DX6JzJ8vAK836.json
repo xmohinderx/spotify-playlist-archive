@@ -318,6 +318,24 @@
     },
     {
       "album": {
+        "name": "Parade - Music from the Motion Picture Under the Cherry Moon",
+        "url": "https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131066,
+      "name": "Christopher Tracy's Parade",
+      "url": "https://open.spotify.com/track/0k2VivnC5j4vokUZL57eWf"
+    },
+    {
+      "album": {
         "name": "Come",
         "url": "https://open.spotify.com/album/5qwEgS60NsL4Pd7ZRuIpSF"
       },

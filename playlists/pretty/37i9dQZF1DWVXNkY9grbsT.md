@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXNkY9grbsT.md) - [plain]
 
 > Genre\-defying artists pushing boundaries in electronic ambient music\. Cover: JakoJako
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,304 likes - 100 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,344 likes - 100 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXNkY9grbsT.md) - [plain]
 | 84 | [Hyphae](https://open.spotify.com/track/2NOCvQQPWRz19g6cK4rR7g) | [Laurel Halo](https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl) | [Possessed \(Original Score\)](https://open.spotify.com/album/3qFUz77lFTarOn9nSzSkAY) | 6:27 |
 | 85 | [Demands Of Ordinary Devotion](https://open.spotify.com/track/3XCN0p4qDpdodFwAdYYoXk) | [Aaron Dilloway](https://open.spotify.com/artist/1iA1G6TFhNc3GerD6e5XNm), [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9) | [Lucy & Aaron](https://open.spotify.com/album/0LcvLhp0X1prpE872gcCBA) | 3:31 |
 | 86 | [Fiction Of A Sea](https://open.spotify.com/track/29EEhEuPZ009M4Cjt0YLm1) | [Panoram](https://open.spotify.com/artist/69sdy5pLF8VHpUAHL5lKO7) | [Acrobatic Thoughts](https://open.spotify.com/album/3rPskmtLpjAgGtbh1aZUXN) | 3:29 |
-| 87 | [Bucolic Architecture \- Flug 8 Remix](https://open.spotify.com/track/3cQWC4VNioX0gQVRXv8Yhi) | [Yoann Pisterman](https://open.spotify.com/artist/3LZxoiZhqiHHz5R1YcVC9A), [Flug 8](https://open.spotify.com/artist/1TUyL6A6jprqDVEAJOZ29I) | [Bucolic Architecture \(Flug 8 Remix\)](https://open.spotify.com/album/6KWziNGstz2rpZS5H88PGW) | 6:26 |
-| 88 | [Walking Through Still Air](https://open.spotify.com/track/2PEeHAgoF0K6e3cFiMeWMl) | [Booker Stardrum](https://open.spotify.com/artist/5pHsBWZqG49vT69cBDbDZ5) | [CRATER](https://open.spotify.com/album/4Ymq9bQ78qugxlnWVfs5b0) | 5:22 |
+| 87 | [Walking Through Still Air](https://open.spotify.com/track/2PEeHAgoF0K6e3cFiMeWMl) | [Booker Stardrum](https://open.spotify.com/artist/5pHsBWZqG49vT69cBDbDZ5) | [CRATER](https://open.spotify.com/album/4Ymq9bQ78qugxlnWVfs5b0) | 5:22 |
+| 88 | [Bucolic Architecture \- Flug 8 Remix](https://open.spotify.com/track/3cQWC4VNioX0gQVRXv8Yhi) | [Yoann Pisterman](https://open.spotify.com/artist/3LZxoiZhqiHHz5R1YcVC9A), [Flug 8](https://open.spotify.com/artist/1TUyL6A6jprqDVEAJOZ29I) | [Bucolic Architecture \(Flug 8 Remix\)](https://open.spotify.com/album/6KWziNGstz2rpZS5H88PGW) | 6:26 |
 | 89 | [Untitled 2](https://open.spotify.com/track/186loHqzmLS5hdB0ocZ84S) | [Pavel Milyakov](https://open.spotify.com/artist/5E8J16XR1FuqmFNkL65CKo), [Bendik Giske](https://open.spotify.com/artist/0IbWsSdsJyNM0I2cVMsl0K) | [Pavel Milyakov & Bendik Giske](https://open.spotify.com/album/4r1Py7hk842cwcK8eZ8tEx) | 3:10 |
 | 90 | [Vespera](https://open.spotify.com/track/4AaprdeMMgEgo2iIOQAztk) | [Loscil](https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK) | [Vespera](https://open.spotify.com/album/5J3DHxWVjqENguNOG5jsgj) | 6:01 |
 | 91 | [One Note](https://open.spotify.com/track/3P8AwFnMXOgHNkbuwu8GfP) | [dBridge](https://open.spotify.com/artist/4G1BTcGLvvsItegHSvBH0y), [Madison Willing](https://open.spotify.com/artist/6b94jpRH15mdDslUuqDwMl) | [Made In Silence](https://open.spotify.com/album/3ei0jT1ME3lIF1nvBy3riV) | 2:34 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXNkY9grbsT.md) - [plain]
 | 99 | [Adagio I \- Mut](https://open.spotify.com/track/6qgzqQRF5KVmzsd9PsFZmP) | [Solee](https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C) | [Nothing Lasts Forever](https://open.spotify.com/album/1G4cROLKOADQHqhNeCzGqC) | 4:46 |
 | 100 | [Gold](https://open.spotify.com/track/56FPk0JIcUiBbebj6UZ1mF) | [Grand River](https://open.spotify.com/artist/7HtrqYEdzfxQcGct9YBxAO) | [Blink a Few Times to Clear Your Eyes](https://open.spotify.com/album/20J24viKPjsgpj2a1Edob2) | 2:13 |
 
-Snapshot ID: `MTY2MzY4OTEwNCwwMDAwMDAwMDBjMWUxOGM5ZGM4NDkxMjQ4ZDdjOTA0OTY5YWE1YmM5`
+Snapshot ID: `MTY2MzY4OTEwNCwwMDAwMDAwMDFhNDdjYTAzMjkzYmEyNjNhYmJhMzU2ZTkyZDFmZmUz`

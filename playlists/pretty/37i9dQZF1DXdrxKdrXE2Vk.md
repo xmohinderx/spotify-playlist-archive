@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdrxKdrXE2Vk.md) - [plain]
 
 > Experience the best of live worship here\. Cover: Hillsong Worship
 
-[Spotify](https://open.spotify.com/user/spotify) - 844,568 likes - 124 songs - 12 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 844,693 likes - 124 songs - 12 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdrxKdrXE2Vk.md) - [plain]
 | 14 | [Christ Our King \- Live From Camp](https://open.spotify.com/track/36JWXzz773ljAGmwwz4ISZ) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Rachel Halbach](https://open.spotify.com/artist/4OjfvyOSdI1ojj25vZgDXn) | [Live From Camp](https://open.spotify.com/album/5TlrCofUYHkTefOzSKRvW1) | 6:05 |
 | 15 | [Speak The Name \- Live](https://open.spotify.com/track/1h2QiE0OImz217LUcCFfO0) | [Church of the City](https://open.spotify.com/artist/0JEaOx0otT35qgkj1w4oBw), [Ileia Sharaé](https://open.spotify.com/artist/4jt2b9I1RDXCiZujdiXaQr) | [Defiant Joy \(Live\)](https://open.spotify.com/album/5BKlD4VjG58ahw37Uu5O2H) | 3:59 |
 | 16 | [God So Loved \- Live](https://open.spotify.com/track/0Jwf9brF7OlBaVaeGHcB0y) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [God So Loved \(Live\)](https://open.spotify.com/album/2Ds1jNOWJ4dZFxe91Sw0fz) | 5:55 |
-| 17 | [Here In Your House \- Live](https://open.spotify.com/track/5F8dat7oGa2evN3heXZ078) | [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [John Michael Howell](https://open.spotify.com/artist/4BqK6JLgMwQ99hx85DxNhP) | [Here In Your House \(Live\)](https://open.spotify.com/album/5dPV0J4ZbXfu5AfuOwJRAf) | 4:18 |
+| 17 | [Here In Your House \- Live](https://open.spotify.com/track/5F8dat7oGa2evN3heXZ078) | [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [John Michael Howell](https://open.spotify.com/artist/3ySDpfbxjz8OmkhHeWAOAu) | [Here In Your House \(Live\)](https://open.spotify.com/album/5dPV0J4ZbXfu5AfuOwJRAf) | 4:18 |
 | 18 | [Tell the Story \(Psalm 8\) \- Live](https://open.spotify.com/track/5ujsO21VAHuwmoNIdo3tdV) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied), [Kingdom Kids](https://open.spotify.com/artist/5ZEFkYy6VPMg1C4QssVKCZ) | [Worship in The Word \(Live\)](https://open.spotify.com/album/2r1bFBFghxJUoSmJe5eTIJ) | 5:26 |
 | 19 | [Now Here \(feat\. Kierra Sheard\)](https://open.spotify.com/track/61tGQR8Pv6OyKXYmTFHIPV) | [Red Rocks Worship](https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr), [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [Things of Heaven](https://open.spotify.com/album/1Q3qc4ujNahlJkwFAE0hOU) | 5:38 |
 | 20 | [Sound Mind \- Live](https://open.spotify.com/track/61tocgks0qcsTuShYOJq0y) | [Melissa Helser](https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r) | [The Land I'm Livin' In \(Live\)](https://open.spotify.com/album/0GHvAtGhtpQxwi9VPi8C9V) | 8:23 |

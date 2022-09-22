@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Marvvila e mais mulheres para serem ouvidas no máximo volume.
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,671 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,657 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,13 +37,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 27 | [Feirinha da Pavuna \(Confusão de Legumes\)](https://open.spotify.com/track/1WVwzE16WxGYVydJSUhWq6) | [Jovelina Perola Negra](https://open.spotify.com/artist/7AicXtLi5qHsZLArE6V9EP) | [Raça Brasileira](https://open.spotify.com/album/5PlGggcEBWwnyYSmhIKHbc) | 3:16 |
 | 28 | [Bloqueio de Tela](https://open.spotify.com/track/3Beaf8iLraVecf8GVI5vOI) | [Jecy](https://open.spotify.com/artist/10RqlMm59EFKFeUc9LA1Uv) | [Jogo de Aposta](https://open.spotify.com/album/3MlzpBy2aEJuIb0YEbGfpJ) | 2:47 |
 | 29 | [O Samba É do Bem](https://open.spotify.com/track/5jzVkh7b9Kp2o9B3YaoH8m) | [Paula Lima](https://open.spotify.com/artist/5oE0wKd9rFGBMQTNF1CTZW) | [O Samba é do Bem](https://open.spotify.com/album/7rqSSQkco8FVUpH8pQMpdC) | 3:51 |
-| 30 | [Manda Áudio / Presentinho / Recaída](https://open.spotify.com/track/2hGjMSHnzloQGpZWEsIEAM) | [Karinah](https://open.spotify.com/artist/2fmAUYDODPfZav0wlyGnNb), [Andressa Hayalla](https://open.spotify.com/artist/0RqGSqWkrRo4l1mrqi78ml), [Gica](https://open.spotify.com/artist/7IJg3wMcpenY5IFnflOcaV), [Marvvila](https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz) | [Por Elas](https://open.spotify.com/album/2eUtuvJIhYIYIRRGvDscfm) | 5:10 |
-| 31 | [Como, Bebo e Choro](https://open.spotify.com/track/5FKEGrjxYdvjOuuHuJeC2I) | [Andressa Hayalla](https://open.spotify.com/artist/0RqGSqWkrRo4l1mrqi78ml) | [Como, Bebo e Choro](https://open.spotify.com/album/5GXaiUNlMbN0SApW3ow4zm) | 2:39 |
-| 32 | [12 Meses](https://open.spotify.com/track/1MmLpsjCjRzf3trKPs04Tz) | [Renata Santiago](https://open.spotify.com/artist/350CZjxmwYrv1sTR2sdsDW) | [12 Meses](https://open.spotify.com/album/6YjDqcu2zMtpi0SM12eWKJ) | 3:43 |
+| 30 | [12 Meses](https://open.spotify.com/track/1MmLpsjCjRzf3trKPs04Tz) | [Renata Santiago](https://open.spotify.com/artist/350CZjxmwYrv1sTR2sdsDW) | [12 Meses](https://open.spotify.com/album/6YjDqcu2zMtpi0SM12eWKJ) | 3:43 |
+| 31 | [Manda Áudio / Presentinho / Recaída](https://open.spotify.com/track/2hGjMSHnzloQGpZWEsIEAM) | [Karinah](https://open.spotify.com/artist/2fmAUYDODPfZav0wlyGnNb), [Andressa Hayalla](https://open.spotify.com/artist/0RqGSqWkrRo4l1mrqi78ml), [Gica](https://open.spotify.com/artist/7IJg3wMcpenY5IFnflOcaV), [Marvvila](https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz) | [Por Elas](https://open.spotify.com/album/2eUtuvJIhYIYIRRGvDscfm) | 5:10 |
+| 32 | [Como, Bebo e Choro](https://open.spotify.com/track/5FKEGrjxYdvjOuuHuJeC2I) | [Andressa Hayalla](https://open.spotify.com/artist/0RqGSqWkrRo4l1mrqi78ml) | [Como, Bebo e Choro](https://open.spotify.com/album/5GXaiUNlMbN0SApW3ow4zm) | 2:39 |
 | 33 | [Me Entreguei](https://open.spotify.com/track/2nHhoThdclYZkM19ClLB82) | [Grupo Entre Elas](https://open.spotify.com/artist/1uf5VoVElqaxoJ4dZ7EC9X), [Maria Rita](https://open.spotify.com/artist/1C8UBSZs5rOPfxuxTMS6OI) | [Me Entreguei](https://open.spotify.com/album/33yVVBMxiKZqw5ngQLgDod) | 3:15 |
-| 34 | [Em Qualquer Bar](https://open.spotify.com/track/5yJZDFjQwQaMhu5gx3jM6U) | [Roberta Gomes](https://open.spotify.com/artist/5V9zPUr8RgHZ8mxPKdKLB8) | [No Caminho do Samba](https://open.spotify.com/album/4rutwqoQJ5eFvjrQjf89NZ) | 3:00 |
-| 35 | [Príncipe Encantado](https://open.spotify.com/track/6mgPf1zvEz6UcL9eo9PstI) | [Hellen Caroline](https://open.spotify.com/artist/6sf7SuzRBzEQDFbmY2WarY) | [O Sonho Aconteceu](https://open.spotify.com/album/4IN34wxrPexRDjcqZQRXO7) | 3:05 |
-| 36 | [Amor Proibido](https://open.spotify.com/track/01rGGw86EzpKjGAqc6HsQy) | [Juliana Diniz](https://open.spotify.com/artist/51ksBr5oEDy7fgPfFXfWGv) | [Juliana Diniz](https://open.spotify.com/album/28eLOTtpuAKGQ2bjV3gEQM) | 2:54 |
+| 34 | [Amor Proibido](https://open.spotify.com/track/01rGGw86EzpKjGAqc6HsQy) | [Juliana Diniz](https://open.spotify.com/artist/51ksBr5oEDy7fgPfFXfWGv) | [Juliana Diniz](https://open.spotify.com/album/28eLOTtpuAKGQ2bjV3gEQM) | 2:54 |
+| 35 | [Em Qualquer Bar](https://open.spotify.com/track/5yJZDFjQwQaMhu5gx3jM6U) | [Roberta Gomes](https://open.spotify.com/artist/5V9zPUr8RgHZ8mxPKdKLB8) | [No Caminho do Samba](https://open.spotify.com/album/4rutwqoQJ5eFvjrQjf89NZ) | 3:00 |
+| 36 | [Príncipe Encantado](https://open.spotify.com/track/6mgPf1zvEz6UcL9eo9PstI) | [Hellen Caroline](https://open.spotify.com/artist/6sf7SuzRBzEQDFbmY2WarY) | [O Sonho Aconteceu](https://open.spotify.com/album/4IN34wxrPexRDjcqZQRXO7) | 3:05 |
 | 37 | [Lendas da Mata](https://open.spotify.com/track/71KOuSHRC1SkJcyowkPpwL) | [Aline Calixto](https://open.spotify.com/artist/3CtqQGt0S8sDVhei9MutSq) | [Meu Ziriguidum](https://open.spotify.com/album/4HdK1Z4HoPq5P9X22KfZMC) | 4:13 |
 | 38 | [Coração Feliz](https://open.spotify.com/track/5kvKirirqnrvVYAw05c4sB) | [Ana Clara](https://open.spotify.com/artist/0TtPqZpxJ9ui2gTjwgTOsr) | [Coração Feliz](https://open.spotify.com/album/13mnyffcsXSsQSOnsa6UNv) | 3:35 |
 | 39 | [Samba da Água](https://open.spotify.com/track/6EpuTrsCUuVpP0qPqEpcfl) | [Mart'nália](https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX) | [Samba da Água](https://open.spotify.com/album/7r4ie5WYlp0QgTp5ABHUQj) | 3:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 49 | [Me Dá Medo](https://open.spotify.com/track/5auanW6AqfUOcb0m3Jp3mQ) | [Amanda Amado](https://open.spotify.com/artist/5XxWSpbD4LTTKYnKxJVZPD) | [Amanda Amado](https://open.spotify.com/album/6R9hyoV5cGMA17yxlHFVWD) | 3:36 |
 | 50 | [É por Isso Que Eu Canto](https://open.spotify.com/track/3Rg8RMrxV4af6FrEtrGTF3) | [Deborah Vasconcellos](https://open.spotify.com/artist/3BOl8wZTxAxIto7R58oGwe) | [É por Isso Que Eu Canto](https://open.spotify.com/album/1UisqGFhgIvZeKIy0dcRnC) | 3:28 |
 
-Snapshot ID: `MTY2MjY5MjQwMCwwMDAwMDAwMGIyODdkYTM1MTY0OGM0MTg2NDZjNTJlNWE5ZTc0NDU1`
+Snapshot ID: `MTY2MjY5MjQwMCwwMDAwMDAwMDM0ODQ2MTY5OGFhNjIyMTU2ZWRjMTVjMzZkMzgyMjgz`

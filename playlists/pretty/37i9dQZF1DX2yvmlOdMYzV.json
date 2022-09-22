@@ -1,12 +1,12 @@
 {
   "description": "Chill indie soul that's highkey fire ",
-  "num_followers": 795837,
+  "num_followers": 796104,
   "original_name": "Lowkey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzM2Mzg5NywwMDAwMDAwMDQzZTZkZDEwMzQyMzAyNGM1NWE2YTUyMWQ4M2ViNzg2",
+  "snapshot_id": "MTY2MzM2Mzg5NywwMDAwMDAwMDYxYjBkNmJiYTE3MjM1OTM1YWMxMDlmODVkMDNkYTA4",
   "tracks": [
     {
       "added_at": "2022-09-16 21:31:37",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2022-09-16 21:31:37",
       "album": {
-        "name": "dancefloor",
-        "url": "https://open.spotify.com/album/1Pqbkhi0xUWVXfMlCu6p4j"
-      },
-      "artists": [
-        {
-          "name": "marcos g",
-          "url": "https://open.spotify.com/artist/3O2UFvuhmgSDH3q6miqELN"
-        }
-      ],
-      "duration_ms": 155533,
-      "name": "single (on the weekend)",
-      "url": "https://open.spotify.com/track/3EsFTeaVgAsKjq4mojJTfQ"
-    },
-    {
-      "added_at": "2022-09-16 21:31:37",
-      "album": {
         "name": "I'm Thru",
         "url": "https://open.spotify.com/album/2R1NiiIPRBp4Jou2BGS0Mu"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 211034,
       "name": "Stole My Love",
       "url": "https://open.spotify.com/track/1ex37MbvUY3yBvwsh8yZVl"
+    },
+    {
+      "added_at": "2022-09-16 21:31:37",
+      "album": {
+        "name": "dancefloor",
+        "url": "https://open.spotify.com/album/1Pqbkhi0xUWVXfMlCu6p4j"
+      },
+      "artists": [
+        {
+          "name": "marcos g",
+          "url": "https://open.spotify.com/artist/3O2UFvuhmgSDH3q6miqELN"
+        }
+      ],
+      "duration_ms": 155533,
+      "name": "single (on the weekend)",
+      "url": "https://open.spotify.com/track/3EsFTeaVgAsKjq4mojJTfQ"
     },
     {
       "added_at": "2022-09-16 21:31:37",

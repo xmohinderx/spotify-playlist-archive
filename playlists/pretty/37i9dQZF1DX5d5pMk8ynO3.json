@@ -1,12 +1,12 @@
 {
   "description": "Canciones que marcaron \u00e9poca en nuestro rock. \u00a1Para cantar a los gritos! Foto: Soda Stereo",
-  "num_followers": 577336,
+  "num_followers": 577779,
   "original_name": "50 Himnos del Rock en Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTg5NjAyOSwwMDAwMDAwMDlhYjk3YzhlZmE3M2FjYjI1YzI2OWU3MGU3OWNkNjg2",
+  "snapshot_id": "MTY2MTg5NjAyOSwwMDAwMDAwMDg1MWM1ZmUxZGJjYzExOTBkYzM5MWIzMzcyNGY1ZjQ5",
   "tracks": [
     {
       "added_at": "2022-03-15 03:45:16",
@@ -507,22 +507,6 @@
     {
       "added_at": "2022-03-15 03:45:16",
       "album": {
-        "name": "Originales - 20 Exitos",
-        "url": "https://open.spotify.com/album/3AWurTYrtIfp7HwHg48DxV"
-      },
-      "artists": [
-        {
-          "name": "Los Enanitos Verdes",
-          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
-        }
-      ],
-      "duration_ms": 266826,
-      "name": "Guitarras Blancas",
-      "url": "https://open.spotify.com/track/3V9dPuQWZOUQY3KYJJWnP3"
-    },
-    {
-      "added_at": "2022-03-15 03:45:16",
-      "album": {
         "name": "Coleccion Suprema",
         "url": "https://open.spotify.com/album/62mYqA8S00dcrD42jmml86"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 338253,
       "name": "Tren Al Sur",
       "url": "https://open.spotify.com/track/5nvS1vouQkX0HxOohfqCoS"
+    },
+    {
+      "added_at": "2022-03-15 03:45:16",
+      "album": {
+        "name": "Originales - 20 Exitos",
+        "url": "https://open.spotify.com/album/3AWurTYrtIfp7HwHg48DxV"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "duration_ms": 266826,
+      "name": "Guitarras Blancas",
+      "url": "https://open.spotify.com/track/3V9dPuQWZOUQY3KYJJWnP3"
     },
     {
       "added_at": "2022-03-15 03:45:16",

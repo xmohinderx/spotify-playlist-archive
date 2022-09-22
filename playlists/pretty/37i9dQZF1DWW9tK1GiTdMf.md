@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 ### [sanguegiovane](https://open.spotify.com/playlist/37i9dQZF1DWW9tK1GiTdMf)
 
-> canzoni da gridare ❤️‍🩹 Sethu in cover
+> canzoni da gridare ❤️‍🩹 Giuze in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,614 likes - 75 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,640 likes - 75 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,17 +12,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 2 | [SO CHI SEI](https://open.spotify.com/track/3uNwqefXvTVJROzoGzOMCj) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [SO CHI SEI](https://open.spotify.com/album/7H4olKm9KSm2stKpSkih6N) | 3:41 |
 | 3 | [9 lives](https://open.spotify.com/track/17XY1uAyl0lrFqiMp1aQXO) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [mainstream sellout \(life in pink deluxe\)](https://open.spotify.com/album/5mj5NblnMMm5G3n1cugGH7) | 3:01 |
 | 4 | [Questa tua fottuta negatività](https://open.spotify.com/track/4qaoYHNEeEEFNcYnjSPCCy) | [Redd](https://open.spotify.com/artist/7I5vEYDtuS7TwfVAhBWeLk) | [Questa tua fottuta negatività](https://open.spotify.com/album/31zbrJQzG2tEzwaNrV6kDr) | 2:36 |
-| 5 | [Giro Di Notte](https://open.spotify.com/track/0Ah4GcfhnjzbVwbz02DOz3) | [Sethu](https://open.spotify.com/artist/5N9yiZXsLClmcg1KHZuJf5), [Jiz](https://open.spotify.com/artist/38CThoTDmXugNnfonW466d) | [Giro Di Notte](https://open.spotify.com/album/6tnD3idVgdhI193PYFTNJe) | 3:07 |
-| 6 | [Freaks](https://open.spotify.com/track/7EkWXAI1wn8Ii883ecd9xr) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Freaks](https://open.spotify.com/album/5WjaIWthUR3AjA0UYG3jR5) | 2:27 |
-| 7 | [Skategirl](https://open.spotify.com/track/2fIRWwwbtW21031Bv1tCKT) | [Ëgo](https://open.spotify.com/artist/0UzEWU7bayHtdSV0pi2aQd), [Werdn](https://open.spotify.com/artist/3nHhNTw0xLkmgPbbTJ3HqC) | [Skategirl](https://open.spotify.com/album/7bN95XmbIS6HZxlAbA0onY) | 2:44 |
-| 8 | [Su Di Te](https://open.spotify.com/track/6eCIYNIasTRya5UYBWjxSE) | [Simone Panetti](https://open.spotify.com/artist/4lajcWQSiNMQ4b76eevJ5f), [G.bit](https://open.spotify.com/artist/0NmtgATbZcejMnRU5ixeSs), [Mike Lennon](https://open.spotify.com/artist/2g2ukiJJzYdcRJQ12D2bq7), [Rooler](https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi) | [Su Di Te](https://open.spotify.com/album/7pryBWFxwQZB6nm05G4rM2) | 3:08 |
-| 9 | [LA CANZONE DELLA SBORRA](https://open.spotify.com/track/1r36WzYRZ2qba069DHK71H) | [FUCKYOURCLIQUE](https://open.spotify.com/artist/796NCMJ5AQMdnutcb8EVeJ) | [LA CANZONE DELLA SBORRA](https://open.spotify.com/album/1KInHLAZ9DBMonjh7HdQQk) | 2:44 |
-| 10 | [Ma non erano te](https://open.spotify.com/track/0B1LI7BXzvtxDVdpyxCWKb) | [Fasma](https://open.spotify.com/artist/1hM06YHQ635cZwwUbn7dpk), [GG](https://open.spotify.com/artist/0kbBijEWCi7FWrBpnpOcHd) | [Ma non erano te](https://open.spotify.com/album/2XaVVwShBDQsoF20aHYGFM) | 2:33 |
-| 11 | [occhi rossi](https://open.spotify.com/track/1l3555yanzfiCs9Hf6xhXF) | [DANU](https://open.spotify.com/artist/4hVodcSKHtJWb5fIRvzax7), [Still Charles](https://open.spotify.com/artist/2KFv9jOFkybE6VjzZ4Ishe) | [occhi rossi](https://open.spotify.com/album/6OZzDSSyeSjcLV5mjZbhfd) | 2:51 |
-| 12 | [more than life \(feat\. glaive\)](https://open.spotify.com/track/7IRe1bo7Zm0q5Fn9MlNMZM) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [more than life \(feat\. glaive\)](https://open.spotify.com/album/4muxcqXXIZKuxmrDJQnvNN) | 3:16 |
-| 13 | [Facciamo che](https://open.spotify.com/track/3pCWroOvM7nkbUTGqv0s54) | [Werdn](https://open.spotify.com/artist/3nHhNTw0xLkmgPbbTJ3HqC) | [Facciamo che](https://open.spotify.com/album/2IDAnybvNvHgi3pS141tKp) | 2:37 |
-| 14 | [Sottosopra](https://open.spotify.com/track/1b65pnfClHLMDFEEhrcLJP) | [Still Charles](https://open.spotify.com/artist/2KFv9jOFkybE6VjzZ4Ishe) | [Sottosopra](https://open.spotify.com/album/2wl48fvKt0jNKC5y6Z53Dr) | 2:39 |
-| 15 | [Che ce ne fotte](https://open.spotify.com/track/2jXqI9XFWwGS735IF4VJy3) | [Giuze](https://open.spotify.com/artist/2drbYqHcAqNoLoEhrzaZ5B) | [Che ce ne fotte](https://open.spotify.com/album/513N1be9b9WpVgTT9crAet) | 2:40 |
+| 5 | [Che ce ne fotte](https://open.spotify.com/track/2jXqI9XFWwGS735IF4VJy3) | [Giuze](https://open.spotify.com/artist/2drbYqHcAqNoLoEhrzaZ5B) | [Che ce ne fotte](https://open.spotify.com/album/513N1be9b9WpVgTT9crAet) | 2:40 |
+| 6 | [Giro Di Notte](https://open.spotify.com/track/0Ah4GcfhnjzbVwbz02DOz3) | [Sethu](https://open.spotify.com/artist/5N9yiZXsLClmcg1KHZuJf5), [Jiz](https://open.spotify.com/artist/38CThoTDmXugNnfonW466d) | [Giro Di Notte](https://open.spotify.com/album/6tnD3idVgdhI193PYFTNJe) | 3:07 |
+| 7 | [Freaks](https://open.spotify.com/track/7EkWXAI1wn8Ii883ecd9xr) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Freaks](https://open.spotify.com/album/5WjaIWthUR3AjA0UYG3jR5) | 2:27 |
+| 8 | [Skategirl](https://open.spotify.com/track/2fIRWwwbtW21031Bv1tCKT) | [Ëgo](https://open.spotify.com/artist/0UzEWU7bayHtdSV0pi2aQd), [Werdn](https://open.spotify.com/artist/3nHhNTw0xLkmgPbbTJ3HqC) | [Skategirl](https://open.spotify.com/album/7bN95XmbIS6HZxlAbA0onY) | 2:44 |
+| 9 | [Su Di Te](https://open.spotify.com/track/6eCIYNIasTRya5UYBWjxSE) | [Simone Panetti](https://open.spotify.com/artist/4lajcWQSiNMQ4b76eevJ5f), [G.bit](https://open.spotify.com/artist/0NmtgATbZcejMnRU5ixeSs), [Mike Lennon](https://open.spotify.com/artist/2g2ukiJJzYdcRJQ12D2bq7), [Rooler](https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi) | [Su Di Te](https://open.spotify.com/album/7pryBWFxwQZB6nm05G4rM2) | 3:08 |
+| 10 | [LA CANZONE DELLA SBORRA](https://open.spotify.com/track/1r36WzYRZ2qba069DHK71H) | [FUCKYOURCLIQUE](https://open.spotify.com/artist/796NCMJ5AQMdnutcb8EVeJ) | [LA CANZONE DELLA SBORRA](https://open.spotify.com/album/1KInHLAZ9DBMonjh7HdQQk) | 2:44 |
+| 11 | [Ma non erano te](https://open.spotify.com/track/0B1LI7BXzvtxDVdpyxCWKb) | [Fasma](https://open.spotify.com/artist/1hM06YHQ635cZwwUbn7dpk), [GG](https://open.spotify.com/artist/0kbBijEWCi7FWrBpnpOcHd) | [Ma non erano te](https://open.spotify.com/album/2XaVVwShBDQsoF20aHYGFM) | 2:33 |
+| 12 | [occhi rossi](https://open.spotify.com/track/1l3555yanzfiCs9Hf6xhXF) | [DANU](https://open.spotify.com/artist/4hVodcSKHtJWb5fIRvzax7), [Still Charles](https://open.spotify.com/artist/2KFv9jOFkybE6VjzZ4Ishe) | [occhi rossi](https://open.spotify.com/album/6OZzDSSyeSjcLV5mjZbhfd) | 2:51 |
+| 13 | [more than life \(feat\. glaive\)](https://open.spotify.com/track/7IRe1bo7Zm0q5Fn9MlNMZM) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [more than life \(feat\. glaive\)](https://open.spotify.com/album/4muxcqXXIZKuxmrDJQnvNN) | 3:16 |
+| 14 | [Facciamo che](https://open.spotify.com/track/3pCWroOvM7nkbUTGqv0s54) | [Werdn](https://open.spotify.com/artist/3nHhNTw0xLkmgPbbTJ3HqC) | [Facciamo che](https://open.spotify.com/album/2IDAnybvNvHgi3pS141tKp) | 2:37 |
+| 15 | [Sottosopra](https://open.spotify.com/track/1b65pnfClHLMDFEEhrcLJP) | [Still Charles](https://open.spotify.com/artist/2KFv9jOFkybE6VjzZ4Ishe) | [Sottosopra](https://open.spotify.com/album/2wl48fvKt0jNKC5y6Z53Dr) | 2:39 |
 | 16 | [7 su 7](https://open.spotify.com/track/2E27zWyPLrjq2d38bOC2Xn) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [REBEL](https://open.spotify.com/album/0WRHoyqLqALdZ8te1QL20V) | 2:27 |
 | 17 | [curious/furious](https://open.spotify.com/track/27dTFzAAiUrJ2C2hxRcCd5) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [curious/furious](https://open.spotify.com/album/5hlxPdHRPznZIxBna01A9Z) | 3:04 |
 | 18 | [fmk \(with blackbear\)](https://open.spotify.com/track/1hhMX7QQIhBsXjFmTK7owB) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [fmk \(with blackbear\)](https://open.spotify.com/album/2JATwGH1Izmuu47IcnfzSO) | 3:09 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 74 | [Quanto ti vorrei](https://open.spotify.com/track/2KdcUxAJWAARnGTWmSWxwu) | [chiello](https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h), [Shablo](https://open.spotify.com/artist/6hkKbkZGvAXuvle2FhCnxy) | [OCEANO PARADISO](https://open.spotify.com/album/2uopesg6vZ52owGKMTBl9m) | 3:00 |
 | 75 | [Nostalgia](https://open.spotify.com/track/3N4XsYIpsw9yXEZjOATeFM) | [GiorniTristi](https://open.spotify.com/artist/0KjmZKo6Rhw4m4MaFlVVUa) | [Nostalgia](https://open.spotify.com/album/0As2L1imchgBheo9M30dyw) | 2:58 |
 
-Snapshot ID: `MTY2MzU4MjU5NywwMDAwMDAwMGQxMzcyYWIyMTliZjQxM2ExMGQ3ODE1YWMxYzdhZDhi`
+Snapshot ID: `MTY2Mzc2NjgwMCwwMDAwMDAwMDNiZTc3YjI5NGRhMWFhNWU4YjM3OWNhYTFlNmE3ZmNj`

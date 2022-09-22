@@ -4,7 +4,7 @@
 
 > The perfect backdrop to an evening spent relaxing in solitude.
 
-285 songs - 1 day 2 hr 43 min - [published](https://open.spotify.com/playlist/7jLGWJVis6kZYA0OgqQsb5)
+286 songs - 1 day 2 hr 48 min - [published](https://open.spotify.com/playlist/7jLGWJVis6kZYA0OgqQsb5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,8 @@
 | [Children](https://open.spotify.com/track/2zd2XhHfRH0pOyMw1sK0jo) | [Mathias Eick](https://open.spotify.com/artist/6emZIO62oAXpIGiplDApwJ) | [Ravensburg](https://open.spotify.com/album/2w62NpE5U58lff2IoUiUWR) | 5:42 | 2020-05-03 | 2022-04-19 |
 | [Clara](https://open.spotify.com/track/2PEAh0Yz9I72m1Lz2Z7uFj) | [Frank Woeste](https://open.spotify.com/artist/4fW1CbHzNerTxAeUj4SXnQ) | [Pocket Rhapsody II](https://open.spotify.com/album/7o7WzQ3safNurKu8xWrcji) | 3:54 | 2020-12-04 |  |
 | [Climbing](https://open.spotify.com/track/3kz6NAOACWLOUKYTQVvFkN) | [Steve Tibbetts](https://open.spotify.com/artist/4VksGqYn2k7ljivxGwRZ8y) | [Safe Journey](https://open.spotify.com/album/65ezf6FRwXlqnKPiBjk3dU) | 3:57 | 2020-05-02\* | 2022-05-03 |
-| [Clouds](https://open.spotify.com/track/5s9fV9PNn9ZNCGBf70a4g0) | [Nello Toscano](https://open.spotify.com/artist/7qNdCsWwiixOoPiRbq3ZTR), [Seby Burgio](https://open.spotify.com/artist/57XEzKBKlVq35JLLZ82wsf), [Alessandro Presti](https://open.spotify.com/artist/1L9dcenPN5mRCnw0cYX5yH), [Peppe Tringali](https://open.spotify.com/artist/5NThDCnSH9BfjMOD7EQ6lp) | [Clouds](https://open.spotify.com/album/1OcJDLBqD4p630Satgm7a3) | 5:13 | 2022-09-15 |  |
+| [Clouds](https://open.spotify.com/track/3XhKPQBEtY29ccTFzxXmxj) | [Nello Toscano](https://open.spotify.com/artist/7qNdCsWwiixOoPiRbq3ZTR), [Seby Burgio](https://open.spotify.com/artist/57XEzKBKlVq35JLLZ82wsf), [Alessandro Presti](https://open.spotify.com/artist/1L9dcenPN5mRCnw0cYX5yH), [Peppe Tringali](https://open.spotify.com/artist/5NThDCnSH9BfjMOD7EQ6lp) | [Inside](https://open.spotify.com/album/7ynHLBTikx5EcjemNNloIy) | 5:13 | 2022-09-21 |  |
+| [Clouds](https://open.spotify.com/track/5s9fV9PNn9ZNCGBf70a4g0) | [Nello Toscano](https://open.spotify.com/artist/7qNdCsWwiixOoPiRbq3ZTR), [Seby Burgio](https://open.spotify.com/artist/57XEzKBKlVq35JLLZ82wsf), [Alessandro Presti](https://open.spotify.com/artist/1L9dcenPN5mRCnw0cYX5yH), [Peppe Tringali](https://open.spotify.com/artist/5NThDCnSH9BfjMOD7EQ6lp) | [Clouds](https://open.spotify.com/album/1OcJDLBqD4p630Satgm7a3) | 5:13 | 2022-09-15 | 2022-09-22 |
 | [Clouds](https://open.spotify.com/track/3sKafCdxv4vXK0D1RNlxG2) | [Nello Toscano](https://open.spotify.com/artist/7qNdCsWwiixOoPiRbq3ZTR), [Seby Burgio](https://open.spotify.com/artist/57XEzKBKlVq35JLLZ82wsf), [Peppe Tringali](https://open.spotify.com/artist/5NThDCnSH9BfjMOD7EQ6lp), [Alessandro Presti](https://open.spotify.com/artist/1L9dcenPN5mRCnw0cYX5yH) | [Clouds](https://open.spotify.com/album/4TK5CEWRVAw1x5VVkhC2wq) | 5:13 | 2022-03-25 | 2022-09-18 |
 | [Conference Of The Birds](https://open.spotify.com/track/5Vmt3ascqbh0QJCV1een0Q) | [Dave Holland Quartet](https://open.spotify.com/artist/5esenn11PLSJIISdQLn17E) | [Conference Of The Birds](https://open.spotify.com/album/5P0yqYv3GZWsvmIgZNmxAX) | 4:37 | 2020-06-12 | 2021-07-31 |
 | [Cool Out](https://open.spotify.com/track/489alJQIWUauqzKTMuXRjm) | [Leroy Hutson](https://open.spotify.com/artist/5YJjMGHVQj1IHBabXX8lH6) | [Hutson](https://open.spotify.com/album/6d7pfxv2QlODnSChi8BJiq) | 2:59 | 2020-05-02\* | 2020-05-15 |

@@ -1,12 +1,12 @@
 {
   "description": "Deep, dark, dramatic. Roots rock, folk, and Americana\u2014with a gothic soul.",
-  "num_followers": 507874,
+  "num_followers": 508174,
   "original_name": "Southern Gothic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI3NjgwMCwwMDAwMDAwMDExM2M3M2Q0YWM5YmM4MjA5NDdkYzEyODc3ZjlhMzMy",
+  "snapshot_id": "MTY2MDI3NjgwMCwwMDAwMDAwMDU2NTFjNDA5NWEzODBlNjlhYTMyNzFiMjAzNjc0NTQ3",
   "tracks": [
     {
       "added_at": "2022-06-06 19:18:28",
@@ -667,6 +667,22 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
+        "name": "Black Is the Color",
+        "url": "https://open.spotify.com/album/0Gx2t3sH5mQbHDLI5fuEXY"
+      },
+      "artists": [
+        {
+          "name": "Lucette",
+          "url": "https://open.spotify.com/artist/1OlzK1kHcdTcduXcdXHYXn"
+        }
+      ],
+      "duration_ms": 138440,
+      "name": "Bobby Reid",
+      "url": "https://open.spotify.com/track/10WBKR8tDk416oDMm6wshS"
+    },
+    {
+      "added_at": "2022-06-06 19:18:28",
+      "album": {
         "name": "Sad But True",
         "url": "https://open.spotify.com/album/2Io6ybkhshdFUJhBgWQETk"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 128893,
       "name": "Death Don't Have No Mercy",
       "url": "https://open.spotify.com/track/0BCtG2fGjxoztlnetLoqBc"
-    },
-    {
-      "added_at": "2022-06-06 19:18:28",
-      "album": {
-        "name": "Black Is the Color",
-        "url": "https://open.spotify.com/album/0Gx2t3sH5mQbHDLI5fuEXY"
-      },
-      "artists": [
-        {
-          "name": "Lucette",
-          "url": "https://open.spotify.com/artist/1OlzK1kHcdTcduXcdXHYXn"
-        }
-      ],
-      "duration_ms": 138440,
-      "name": "Bobby Reid",
-      "url": "https://open.spotify.com/track/10WBKR8tDk416oDMm6wshS"
     },
     {
       "added_at": "2022-06-06 19:18:28",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
-        "name": "Little Wing",
-        "url": "https://open.spotify.com/album/31ouv0slZULXCbafbGF0kF"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 175960,
-      "name": "Little Wing",
-      "url": "https://open.spotify.com/track/6W6xbvrkBXRXALFVDYXeMq"
-    },
-    {
-      "added_at": "2022-06-06 19:18:28",
-      "album": {
         "name": "I'm Not Your Man",
         "url": "https://open.spotify.com/album/6cDRHxpDNgEMgmkCIVdlP2"
       },
@@ -1171,18 +1155,18 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
-        "name": "Nothing But The Water",
-        "url": "https://open.spotify.com/album/30b3ZKCE7CxRNumi4XojDD"
+        "name": "Little Wing",
+        "url": "https://open.spotify.com/album/31ouv0slZULXCbafbGF0kF"
       },
       "artists": [
         {
-          "name": "Grace Potter & The Nocturnals",
-          "url": "https://open.spotify.com/artist/23OknxGcY1i5xX1TRPilMj"
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
         }
       ],
-      "duration_ms": 164200,
-      "name": "Nothing But The Water (I)",
-      "url": "https://open.spotify.com/track/4f9F6CSTaJeMyvn1Plu89U"
+      "duration_ms": 175960,
+      "name": "Little Wing",
+      "url": "https://open.spotify.com/track/6W6xbvrkBXRXALFVDYXeMq"
     },
     {
       "added_at": "2022-06-06 19:18:28",
@@ -1199,6 +1183,22 @@
       "duration_ms": 217240,
       "name": "Fire in the Empire",
       "url": "https://open.spotify.com/track/7nBlwy9FltJKrO23b6edNi"
+    },
+    {
+      "added_at": "2022-06-06 19:18:28",
+      "album": {
+        "name": "Nothing But The Water",
+        "url": "https://open.spotify.com/album/30b3ZKCE7CxRNumi4XojDD"
+      },
+      "artists": [
+        {
+          "name": "Grace Potter & The Nocturnals",
+          "url": "https://open.spotify.com/artist/23OknxGcY1i5xX1TRPilMj"
+        }
+      ],
+      "duration_ms": 164200,
+      "name": "Nothing But The Water (I)",
+      "url": "https://open.spotify.com/track/4f9F6CSTaJeMyvn1Plu89U"
     },
     {
       "added_at": "2022-06-06 19:18:28",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
-        "name": "War Brides",
-        "url": "https://open.spotify.com/album/5hglONXTikY7aLfrWbkBjb"
-      },
-      "artists": [
-        {
-          "name": "Amelia Curran",
-          "url": "https://open.spotify.com/artist/4ovISfvdFHqGNI4ZuHzh69"
-        }
-      ],
-      "duration_ms": 144040,
-      "name": "Devils",
-      "url": "https://open.spotify.com/track/2cjlGKF1b3ZOMWdGJybQNs"
-    },
-    {
-      "added_at": "2022-06-06 19:18:28",
-      "album": {
         "name": "The Dark",
         "url": "https://open.spotify.com/album/5bYknjcVWXm5uGXvOeYJ2v"
       },
@@ -1331,18 +1315,18 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
-        "name": "27 Ways",
-        "url": "https://open.spotify.com/album/5RZznkaaVzeKeN1UMp1jiy"
+        "name": "War Brides",
+        "url": "https://open.spotify.com/album/5hglONXTikY7aLfrWbkBjb"
       },
       "artists": [
         {
-          "name": "Desert Noises",
-          "url": "https://open.spotify.com/artist/2X3rGYJyh8oBkRKMzIQaLe"
+          "name": "Amelia Curran",
+          "url": "https://open.spotify.com/artist/4ovISfvdFHqGNI4ZuHzh69"
         }
       ],
-      "duration_ms": 108361,
-      "name": "Dime in My Pocket",
-      "url": "https://open.spotify.com/track/4MaJqmMJ1CGjyL1oolmx8K"
+      "duration_ms": 144040,
+      "name": "Devils",
+      "url": "https://open.spotify.com/track/2cjlGKF1b3ZOMWdGJybQNs"
     },
     {
       "added_at": "2022-06-06 19:18:28",
@@ -1359,6 +1343,22 @@
       "duration_ms": 346333,
       "name": "Filthy Dirty South",
       "url": "https://open.spotify.com/track/5BeCnd9M1HNWYfspR88pAj"
+    },
+    {
+      "added_at": "2022-06-06 19:18:28",
+      "album": {
+        "name": "27 Ways",
+        "url": "https://open.spotify.com/album/5RZznkaaVzeKeN1UMp1jiy"
+      },
+      "artists": [
+        {
+          "name": "Desert Noises",
+          "url": "https://open.spotify.com/artist/2X3rGYJyh8oBkRKMzIQaLe"
+        }
+      ],
+      "duration_ms": 108361,
+      "name": "Dime in My Pocket",
+      "url": "https://open.spotify.com/track/4MaJqmMJ1CGjyL1oolmx8K"
     },
     {
       "added_at": "2022-06-06 19:18:28",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
-        "name": "Lay This Body Down",
-        "url": "https://open.spotify.com/album/0gx9i6niYyQVggnjFtAzt1"
-      },
-      "artists": [
-        {
-          "name": "Sam Lee",
-          "url": "https://open.spotify.com/artist/3W9jGHrOdrrv01cVtRhZa7"
-        }
-      ],
-      "duration_ms": 287773,
-      "name": "Lay This Body Down",
-      "url": "https://open.spotify.com/track/7IBUE2QoRjx5tJFVlsnMDe"
-    },
-    {
-      "added_at": "2022-06-06 19:18:28",
-      "album": {
         "name": "Heatstroke/The Wind and the War",
         "url": "https://open.spotify.com/album/4bU9I5NtFLbmChbhAqGKwJ"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 158533,
       "name": "Boy Got It Bad",
       "url": "https://open.spotify.com/track/3k6QU7zzhlJ8ODb24uuLP9"
+    },
+    {
+      "added_at": "2022-06-06 19:18:28",
+      "album": {
+        "name": "Lay This Body Down",
+        "url": "https://open.spotify.com/album/0gx9i6niYyQVggnjFtAzt1"
+      },
+      "artists": [
+        {
+          "name": "Sam Lee",
+          "url": "https://open.spotify.com/artist/3W9jGHrOdrrv01cVtRhZa7"
+        }
+      ],
+      "duration_ms": 287773,
+      "name": "Lay This Body Down",
+      "url": "https://open.spotify.com/track/7IBUE2QoRjx5tJFVlsnMDe"
     },
     {
       "added_at": "2022-06-06 19:18:28",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
+        "name": "Bless Your Soul",
+        "url": "https://open.spotify.com/album/72ikagjWsSJebCaqohnrHB"
+      },
+      "artists": [
+        {
+          "name": "The Bones of J.R. Jones",
+          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
+        }
+      ],
+      "duration_ms": 212504,
+      "name": "Bless Your Soul",
+      "url": "https://open.spotify.com/track/6SP4CyAK8qbdajsmzYQm9g"
+    },
+    {
+      "added_at": "2022-06-06 19:18:28",
+      "album": {
         "name": "They're Calling Me Home (with Francesco Turrisi)",
         "url": "https://open.spotify.com/album/75qSKqLqEt7zOei7If7Lms"
       },
@@ -1619,22 +1635,6 @@
       "duration_ms": 193866,
       "name": "O Death (with Francesco Turrisi)",
       "url": "https://open.spotify.com/track/4isz6MOaOrvonLrIVyPpvj"
-    },
-    {
-      "added_at": "2022-06-06 19:18:28",
-      "album": {
-        "name": "Bless Your Soul",
-        "url": "https://open.spotify.com/album/72ikagjWsSJebCaqohnrHB"
-      },
-      "artists": [
-        {
-          "name": "The Bones of J.R. Jones",
-          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
-        }
-      ],
-      "duration_ms": 212504,
-      "name": "Bless Your Soul",
-      "url": "https://open.spotify.com/track/6SP4CyAK8qbdajsmzYQm9g"
     }
   ],
   "unique_name": "Southern Gothic",

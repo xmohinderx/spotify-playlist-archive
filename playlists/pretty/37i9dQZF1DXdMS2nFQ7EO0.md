@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMS2nFQ7EO0.md) - [plain]
 
 > Vegas pool party vibes with a mix of the hottest Latin dance anthems of today.
 
-[Spotify](https://open.spotify.com/user/spotify) - 424,180 likes - 73 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 424,275 likes - 73 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMS2nFQ7EO0.md) - [plain]
 | 10 | [Love Tonight \- David Guetta Remix Edit](https://open.spotify.com/track/2prnn41CblB8B4yWACDljP) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Love Tonight \(David Guetta Remix\)](https://open.spotify.com/album/2HYufzr6XUqSurRZdY0D9w) | 2:38 |
 | 11 | [Mi Gente \- Cedric Gervais Remix](https://open.spotify.com/track/71uiOC9BjtKy1bKAqdUrxx) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Willy William](https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq), [Cedric Gervais](https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724) | [Mi Gente \(Cedric Gervais Remix\)](https://open.spotify.com/album/0DWEKLIz2eHd8R9N3mhZaI) | 4:29 |
 | 12 | [Five More Hours](https://open.spotify.com/track/3MOECVkNshqHYTPt5DZcdN) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Good Evening](https://open.spotify.com/album/1J6b7W1nSHH7BObK8zIoEY) | 3:31 |
-| 13 | [Buchona Vibez](https://open.spotify.com/track/32cJddYAOxeVaYxtccjIgM) | [Jenny69](https://open.spotify.com/artist/7jqoLHB45Xqz6PGUnqWrYX), [DJ Morphius](https://open.spotify.com/artist/0JG1qMChKnNWRh0GRgOJJN), [Muzik Junkies](https://open.spotify.com/artist/34DQTRbIYPLSGU2SkOTEja) | [Buchona Vibez](https://open.spotify.com/album/0MUsHHel6y2il1aiIDb20v) | 1:43 |
+| 13 | [Buchona Vibez](https://open.spotify.com/track/5cTKVPUXeVUN0FnLa9qpTH) | [Jenny69](https://open.spotify.com/artist/7jqoLHB45Xqz6PGUnqWrYX), [DJ Morphius](https://open.spotify.com/artist/0JG1qMChKnNWRh0GRgOJJN), [Muzik Junkies](https://open.spotify.com/artist/34DQTRbIYPLSGU2SkOTEja) | [Buchona Vibez](https://open.spotify.com/album/0XWKu9iW3CBjkgeOdg8RE8) | 1:43 |
 | 14 | [Zumbido](https://open.spotify.com/track/7pn7x47Cj9NCQg9vZxBuGQ) | [Dj Fredy Fresco](https://open.spotify.com/artist/7v5hVOTXEjeW6jJZ94iKzV) | [Fresco En La Casa](https://open.spotify.com/album/73gT0panzzjGJjpBeLRkfK) | 2:22 |
 | 15 | [BOOM](https://open.spotify.com/track/6iC7vapdKp0XlKhxOkp8QJ) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Sevenn](https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [BOOM](https://open.spotify.com/album/47wyCwrChF50ZTFNOuWx99) | 2:59 |
 | 16 | [I Feel Good](https://open.spotify.com/track/3icVJPrcCCdb0bSafDCOe7) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Anthony Watts](https://open.spotify.com/artist/52S7chJRLMM0ueWjN6hhn1), [DJ White Shadow](https://open.spotify.com/artist/2yP2heDvGPROpYtPMKsOh1), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [I Feel Good \(R3HAB Remix\)](https://open.spotify.com/album/0bGTfamwl2XVCrXcWAhx6P) | 2:52 |
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMS2nFQ7EO0.md) - [plain]
 | 72 | [Perdiendo El Control](https://open.spotify.com/track/02Zu3RK6EJdJA5MqgkN5iX) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Marco Acevedo](https://open.spotify.com/artist/7ya73VVTnzfSHrQnGq9WiC) | [Perdiendo El Control](https://open.spotify.com/album/48GzWmYraDHofGXOhtMlx4) | 3:04 |
 | 73 | [Drifting & Burning](https://open.spotify.com/track/2WTTEfbb96NHOmKJ7TrJvH) | [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km), [Yay](https://open.spotify.com/artist/65UC5VKwU4vBSBSHckQd5l) | [Rockport Espacial 2](https://open.spotify.com/album/7eIU95LtCeZ3Ud3Lg5z4k6) | 2:50 |
 
-Snapshot ID: `MTY1NDI4Nzg0NSwwMDAwMDAwMDZkNGY1NjQzNmMwYjVhMjdkNmVhY2RiZTlmMGUxYmI2`
+Snapshot ID: `MTY1NDI4Nzg0NSwwMDAwMDAwMDdlYjQyNjJiZjI2MDc5MmQ1OTA3ODc0NTBlMTMwMTFm`

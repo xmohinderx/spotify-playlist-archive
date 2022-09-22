@@ -4,7 +4,7 @@
 
 > BESKRES' favorite tracks\. Updated regularly\. Curated by BESKRES\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-52 songs - 5 hr 15 min - [published](https://open.spotify.com/playlist/0umjXykMErxEDJOEfw95Pu)
+53 songs - 5 hr 18 min - [published](https://open.spotify.com/playlist/0umjXykMErxEDJOEfw95Pu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,8 @@
 | [Go](https://open.spotify.com/track/5FsRbUIHwjAF7bghHIts5Y) | [Super Flu](https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW) | [Go Re Nue EP](https://open.spotify.com/album/7fNGiYxJKAG3NEjUKIaY4c) | 8:00 | 2022-07-23 |  |
 | [Groove La Afrika \- Extended Mix](https://open.spotify.com/track/0LBR4sk2Qk1OBnayRvsMlE) | [Melé](https://open.spotify.com/artist/6EZO7Baz0SIFskWTO1GHqX) | [Soul on Ice EP PT1](https://open.spotify.com/album/0biamWt8ssE6lZk52nkoDr) | 5:26 | 2022-07-23 |  |
 | [Her Entrance \- Innellea's Interstellar Remix](https://open.spotify.com/track/2ovsj906vjoGM867YF5ZLO) | [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr), [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e) | [Juno \(Remixes\)](https://open.spotify.com/album/6cJZO8hsPb3cnTHO2L0Y8C) | 7:08 | 2022-07-23 |  |
-| [Hypnotised](https://open.spotify.com/track/5tHPzHRq5bhJDVrThu06D9) | [Sinisa Tamamovic](https://open.spotify.com/artist/6RZu4rqwk6BOFnDlUczE8g), [Katarina Tatic](https://open.spotify.com/artist/5YlaBECRk9vPGcSZaJFO5o) | [Hypnotised EP](https://open.spotify.com/album/3sXYsJWjVlPAXBry48QQ0Q) | 3:33 | 2022-07-23 |  |
+| [Hypnotised](https://open.spotify.com/track/5tHPzHRq5bhJDVrThu06D9) | [Sinisa Tamamovic](https://open.spotify.com/artist/6RZu4rqwk6BOFnDlUczE8g), [Katarina Tatic](https://open.spotify.com/artist/5YlaBECRk9vPGcSZaJFO5o) | [Hypnotised EP](https://open.spotify.com/album/3sXYsJWjVlPAXBry48QQ0Q) | 3:33 | 2022-07-23 | 2022-09-22 |
+| [Hypnotised \- Original Mix](https://open.spotify.com/track/44b7ZnKH7aPr7yIHqvdOqS) | [Sinisa Tamamovic](https://open.spotify.com/artist/6RZu4rqwk6BOFnDlUczE8g) | [Hypnotised EP](https://open.spotify.com/album/3dFYq1PwLSUmfxVmB4ChUm) | 3:33 | 2022-07-23 |  |
 | [In Trance We Trust](https://open.spotify.com/track/329uZ0nLmCPALK5iyvYjbG) | [Chaim](https://open.spotify.com/artist/2XMpXAQ0B1J95en60YGE3V) | [In Trance We Trust](https://open.spotify.com/album/2MdkA9sb2GCGdMAUZ9QQaI) | 7:05 | 2022-07-23 |  |
 | [Island Sakhalin](https://open.spotify.com/track/2lmCW9lvf7PwVEXLFPVOji) | [Grigoré](https://open.spotify.com/artist/2RemyvxrdxNsB7ycf3rJHX) | [At The Edge Of The World](https://open.spotify.com/album/2VlTLha9eYrDQLceLURQbh) | 4:58 | 2022-07-23 |  |
 | [nCTRL](https://open.spotify.com/track/5XfojfN07IcOskzRjQgCrT) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau) | [nCTRL](https://open.spotify.com/album/4y97dGnwLXUHyPtSPJPCfz) | 4:10 | 2022-07-23 |  |

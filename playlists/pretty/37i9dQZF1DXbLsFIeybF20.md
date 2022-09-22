@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLsFIeybF20.md) - [plain]
 
 > Get into the spirit of New Orleans
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,712 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,716 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLsFIeybF20.md) - [plain]
 | 13 | [Drop Me Off In New Orleans](https://open.spotify.com/track/5PPG6S0didC96fCXpwtIDY) | [Kermit Ruffins](https://open.spotify.com/artist/31jfl8olSWuzzR8ABt6Bdk) | [Live At Vaughan's](https://open.spotify.com/album/4nEP1HypmT4fY2QidPM4kt) | 4:18 |
 | 14 | [Black Bottom Stomp \- 2002 Remastered](https://open.spotify.com/track/1aSEXfmjaaCigbzLLtZlAm) | [Jelly Roll Morton](https://open.spotify.com/artist/4XepUkisa56DUeA3gbjDQD) | [Jazz King Of New Orleans](https://open.spotify.com/album/0Ba5A8yCUvwWPfA34dO7Do) | 3:12 |
 | 15 | [West End Blues](https://open.spotify.com/track/0CTsnaN5MpEEfFzAPDpxpS) | [Charlie Barnet](https://open.spotify.com/artist/4SPws2VXOmZIiRTp75mzsb), [Charlie Barnet & His Orchestra](https://open.spotify.com/artist/4rBAk0XNC7XnH08pOWq7aU) | [Drop Me Off In Harlem](https://open.spotify.com/album/63mon9nIn254wR2aATwbBg) | 2:43 |
-| 16 | [You're Gonna Lose Your Gal](https://open.spotify.com/track/1efoNOFSkLcLXVuxvINY7Z) | [Henry "Red" Allen](https://open.spotify.com/artist/1kEniOVLhKw78gS0myngEf) | [Swing Out](https://open.spotify.com/album/11kTqrVXvFnbB8nWwpLldc) | 2:53 |
-| 17 | [My Feet Can't Fail Me Now](https://open.spotify.com/track/5EvUkN9QWfDbSLE4Ybfs0u) | [The Dirty Dozen Brass Band](https://open.spotify.com/artist/6F6lawSnwGWWgdXFN7LXO7) | [Our New Orleans \(Expanded Edition\)](https://open.spotify.com/album/4sVRgVyVsDVWFmtEgNwaF5) | 4:38 |
+| 16 | [My Feet Can't Fail Me Now](https://open.spotify.com/track/5EvUkN9QWfDbSLE4Ybfs0u) | [The Dirty Dozen Brass Band](https://open.spotify.com/artist/6F6lawSnwGWWgdXFN7LXO7) | [Our New Orleans \(Expanded Edition\)](https://open.spotify.com/album/4sVRgVyVsDVWFmtEgNwaF5) | 4:38 |
+| 17 | [You're Gonna Lose Your Gal](https://open.spotify.com/track/1efoNOFSkLcLXVuxvINY7Z) | [Henry "Red" Allen](https://open.spotify.com/artist/1kEniOVLhKw78gS0myngEf) | [Swing Out](https://open.spotify.com/album/11kTqrVXvFnbB8nWwpLldc) | 2:53 |
 | 18 | [I'm Goin' Huntin'](https://open.spotify.com/track/7EM144Ad1LaYuS0hxxl3bQ) | [Johnny Dodds](https://open.spotify.com/artist/5Epg9knob31gEXJGg9V5Sp), [Jimmy Blythe](https://open.spotify.com/artist/4JpiyXXxkMVaLebTRD2T7C) | [Presenting Johnny Dodds](https://open.spotify.com/album/0Xuud74No2OuIuQlGpOGGA) | 2:59 |
 | 19 | [I Hope Your Comin' Back To New Orleans](https://open.spotify.com/track/0foK7CbXYdeDddkIuMEqXk) | [The New Orleans Jazz Vipers](https://open.spotify.com/artist/579BZ7xklVACACeGT98e6j) | [Treme: Music From The HBO Original Series, Season 1](https://open.spotify.com/album/2axJjtgJbRtqYXUgrUy8Sb) | 2:39 |
 | 20 | [Eh, La Bas](https://open.spotify.com/track/4QG3OOfalKh8aKIPSeUAoG) | [Kid Ory](https://open.spotify.com/artist/7fvNIXXszS6FTHROnZVsK4) | [Sounds Of New Orleans Vol\. 9](https://open.spotify.com/album/7gXajj8o47ghF8VktDLN1T) | 4:48 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLsFIeybF20.md) - [plain]
 | 38 | [Lord, Lord, Lord](https://open.spotify.com/track/1gj5KsGTtpB0dxdTzVv4ql) | [Leroy Jones](https://open.spotify.com/artist/4FJeAiorEH5xbMX5fJbQjB) | [New Orleans Brass Band Music \- Memories Of The Fairview & Hurricane Band](https://open.spotify.com/album/7g5ipN6YggMrOeuswlAiIu) | 2:25 |
 | 39 | [Shreveport Stomp](https://open.spotify.com/track/2EvWjX5KaIWBwRQvArOqBN) | [Wilbur De Paris](https://open.spotify.com/artist/2jHYUm5r73OV8CiKyMdYfo) | [Atlantic Jazz: New Orleans](https://open.spotify.com/album/5QrnI1nmqZSTL4DhctZ6JV) | 3:00 |
 | 40 | [Bill Bailey](https://open.spotify.com/track/6rt4DeIXU3bgJVYknEpZZa) | [Albert Burbank](https://open.spotify.com/artist/1H5jbTPAiHEJv3tWdLlXLk), [Kid Ory](https://open.spotify.com/artist/7fvNIXXszS6FTHROnZVsK4) | [Sounds Of New Orleans](https://open.spotify.com/album/4NdsoKTZ03ZcbyIPH3RZTJ) | 2:31 |
-| 41 | [Do You Know What It Means to Miss New Orleans \- Live](https://open.spotify.com/track/1vgGaSamJ3amxeKmXQIsyD) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [The Great Chicago Concert 1956 \- Complete](https://open.spotify.com/album/2gkqH4dEINtzXwuvznrY2Q) | 5:06 |
-| 42 | [Watcha Workin It Fa \(feat\. 5th Ward Weebie\)](https://open.spotify.com/track/1iESx5RZ9TSYK2tq4dTyhV) | [New Breed Brass Band](https://open.spotify.com/artist/1o460hybHU3bpJUsu7Rko5), [5th Ward Weebie](https://open.spotify.com/artist/1Gd5PupkpVsM1OvgVDUvmH) | [Watcha Workin It Fa \(feat\. 5th Ward Weebie\)](https://open.spotify.com/album/2aNXVYXFaEPgNVOXjMPuOK) | 4:36 |
+| 41 | [Watcha Workin It Fa \(feat\. 5th Ward Weebie\)](https://open.spotify.com/track/1iESx5RZ9TSYK2tq4dTyhV) | [New Breed Brass Band](https://open.spotify.com/artist/1o460hybHU3bpJUsu7Rko5), [5th Ward Weebie](https://open.spotify.com/artist/1Gd5PupkpVsM1OvgVDUvmH) | [Watcha Workin It Fa \(feat\. 5th Ward Weebie\)](https://open.spotify.com/album/2aNXVYXFaEPgNVOXjMPuOK) | 4:36 |
+| 42 | [Do You Know What It Means to Miss New Orleans \- Live](https://open.spotify.com/track/1vgGaSamJ3amxeKmXQIsyD) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [The Great Chicago Concert 1956 \- Complete](https://open.spotify.com/album/2gkqH4dEINtzXwuvznrY2Q) | 5:06 |
 | 43 | [I Found a New Baby](https://open.spotify.com/track/4nhGpkKl3w8rADTDfxp234) | [Jack Teagarden](https://open.spotify.com/artist/3okiREk3dV4F8BmK7cpEJf), [Bobby Hackett](https://open.spotify.com/artist/5Wx29PEKBUtWOiTA3kOOXq) | [Jazz In Hi\-Fi](https://open.spotify.com/album/5cUrDoayt05uohsSYh2Efn) | 2:44 |
 | 44 | [Don't You Think I Love You](https://open.spotify.com/track/66XzlLhhDDBVPIF0GTcivt) | [King Oliver](https://open.spotify.com/artist/24PJRbYtu3Cq5CuF24c1QZ), [King Oliver Orchestra](https://open.spotify.com/artist/1IbLwRHEw4pcpSaIAH56HM) | [New Orleans Shout \- The Complete Victor Recordings, Vol\. 2](https://open.spotify.com/album/6UVV9UfTiyy75RLufKmUeY) | 2:48 |
 | 45 | [Foot Of Canal Street](https://open.spotify.com/track/1S2yETvOEBPi7oGECTzbnd) | [John Boutté](https://open.spotify.com/artist/1lGFrlrax8KaaYwF2WJnDo) | [Good Neighbor](https://open.spotify.com/album/0angfX8UOIjXxBKymsboIU) | 3:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLsFIeybF20.md) - [plain]
 | 49 | [Somebody Stole My Gal](https://open.spotify.com/track/6djAMSikLSwnAuKA4nnsMb) | [Johnny St\. Cyr](https://open.spotify.com/artist/4LVSbS8nWTaRm6G5XKueKN) | [Johnny St\. Cyr](https://open.spotify.com/album/6IkguZ3dD5fce9lfHRmelf) | 3:38 |
 | 50 | [Tiger Rag 3](https://open.spotify.com/track/4GHM6gF3ajMxUyRKfYRApf) | [Original Dixieland Jazz Band](https://open.spotify.com/artist/112yP6AwAT6QG34fiGGpmh) | [The Best of Dixieland](https://open.spotify.com/album/6cwK33nXxr4ijR6rsy7RZd) | 2:36 |
 
-Snapshot ID: `MTY0MzM0NjEyMCwwMDAwMDAwMDAyZWQxNDE0Mjg3NmU1YmM2NmE3NjI2NzQzODExMWE2`
+Snapshot ID: `MTY0MzM0NjEyMCwwMDAwMDAwMDdjMzAzODAyOTQxYWFiMzVkOGVjOWNhNWMxZmY0MjQ5`

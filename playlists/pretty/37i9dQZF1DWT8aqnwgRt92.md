@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 
 > Best new Anime tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 545,352 likes - 58 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 545,622 likes - 58 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,17 +15,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 5 | [新時代 \- ウタ from ONE PIECE FILM RED](https://open.spotify.com/track/2l2yRJWgMiJkfPbRNiuC25) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [新時代 \(ウタ from ONE PIECE FILM RED\)](https://open.spotify.com/album/7r72omJJLTajYYn9vImIcb) | 3:48 |
 | 6 | [Dance In The Game](https://open.spotify.com/track/5deMG1Ko0ycpPVYPwW0yi8) | [ZAQ](https://open.spotify.com/artist/56TyClNQ0oVZLhK2V9KhA6) | [Dance In The Game](https://open.spotify.com/album/1a2xSbvHc69UpRhx5MO2Nk) | 3:28 |
 | 7 | [花の塔](https://open.spotify.com/track/1yt4wO7dKCwsfjch8SN9aU) | [Sayuri](https://open.spotify.com/artist/1YLxQZIGsaZq9rvFu8zeRz) | [花の塔](https://open.spotify.com/album/5N4WUOp0F0eUngAyPXJico) | 4:35 |
-| 8 | [真夜中のラブ](https://open.spotify.com/track/2IPoCAPMf4v47mRM4d0kNS) | [伊東健人](https://open.spotify.com/artist/1bPpm1gD9bX3hXCYaORYlw) | [真夜中のラブ](https://open.spotify.com/album/7EFeya32KPx1BTMMPwxdjl) | 3:23 |
+| 8 | [Mayonakano Love](https://open.spotify.com/track/4PdTdZSNbi7QOvdwTBbHrr) | [Kento Ito](https://open.spotify.com/artist/07VroOJ1SGvFrdu69YwEdd) | [Mayonakano Love](https://open.spotify.com/album/5utUgLJkKaQ3tBDW6y6P65) | 3:23 |
 | 9 | [Esquisse](https://open.spotify.com/track/3ntiFciUGTZcTzheQz56h9) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Esquisse](https://open.spotify.com/album/4pVpioTvYdQ01Dt9u4INXw) | 5:08 |
 | 10 | [シャル・ウィ・ダンス?](https://open.spotify.com/track/3scQcXcg9nOfWVQDQTeDXF) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [シャル・ウィ・ダンス?](https://open.spotify.com/album/0bJE38pebBIRov35fJG5jZ) | 4:26 |
 | 11 | [TENTO](https://open.spotify.com/track/69Zbz5sTyrvn3v7vIyWYGW) | [sajou no hana](https://open.spotify.com/artist/014bW80BPmy5WVcFBoHwNq) | [OPENING THEME FROM TV SERIES ”IS IT WRONG TO TRY TO PICK UP GIRLS IN A DUNGEON? IV” TENTO](https://open.spotify.com/album/4aMD2s6KojE4jFNKEhfSID) | 3:40 |
 | 12 | [言えない](https://open.spotify.com/track/4Pgfcz3P83oJHdRvO0NJ0Q) | [MIMiNARI](https://open.spotify.com/artist/4v0TaIftFJ7Mkx7j5Cvrzv), [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza) | [言えない](https://open.spotify.com/album/5ApBDaAa7sZWVDN1poztE3) | 3:24 |
 | 13 | [ヒミツ恋ゴコロ](https://open.spotify.com/track/532a4qwtCf56E6qjiAn2EE) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [ヒミツ恋ゴコロ](https://open.spotify.com/album/0UdGs7830iYt9ExWdeThiI) | 3:38 |
 | 14 | [Good Morning \[New\] World!](https://open.spotify.com/track/1yUV3xzgaFWG2Koe9Sfcwd) | [BURNOUT SYNDROMES](https://open.spotify.com/artist/0Oazwl71qoHvXnbSxv0wOT) | [Good Morning \[New\] World!](https://open.spotify.com/album/4XJU7VESD3DYIkO8g2iGpE) | 4:18 |
-| 15 | [HOLLOW HUNGER](https://open.spotify.com/track/355nQhlJ37CswXP54GZAz9) | [OxT](https://open.spotify.com/artist/2qaq1aaJNXMlqsdS50FDrW) | [OPEING THEME FROM TV SERIES ”OVERLORD IV”](https://open.spotify.com/album/1iR5yhnaLHIIUEbXq5Zcxh) | 3:43 |
+| 15 | [HOLLOW HUNGER](https://open.spotify.com/track/4OJVRrXhEdvtUCL3jtpdla) | [Wxchi](https://open.spotify.com/artist/0QfAfi0YfXU5M6aWRAJcYy) | [HOLLOW HUNGER](https://open.spotify.com/album/0cCWAbgxj9xluHmdCx2lv7) | 3:43 |
 | 16 | [Congrats!!\(with Friends\)](https://open.spotify.com/track/1IVEyiTOBYTRjGxDy9oQar) | [内田雄馬 with 石川界人, 榎木淳弥, 斉藤壮馬, 畠中祐, 花江夏樹, 八代拓](https://open.spotify.com/artist/5OvhqL1GnYZavu83YiOkDo) | [Congrats!!\(with Friends\)](https://open.spotify.com/album/77LoYtyfVRhuHfyScFWMik) | 4:17 |
 | 17 | [きらりらり](https://open.spotify.com/track/4GQjav2jvs9tmbC0KkYtCj) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [きらりらり](https://open.spotify.com/album/7iXTH7HUVN26FCK1RoBiG4) | 3:42 |
-| 18 | [星の少女、月に少女](https://open.spotify.com/track/2UbKoDvnCwmCb9aCdXsEAq) | [鶴姫やちよ\(CV:工藤晴香\)](https://open.spotify.com/artist/2n5MfZnl6NgCSxo1LA4saT), [天堂真矢\(CV:富田麻帆\)](https://open.spotify.com/artist/0GoCYmSDh7ldDd9HjtRf3F), [大月あるる\(CV.潘めぐみ\)](https://open.spotify.com/artist/0DWe8hrfAbZJYFq6yqPJ7Q), [愛城華恋\(CV:小山百代\)](https://open.spotify.com/artist/3c6d2IEnd9ZGChYpN3nnB2) | [「少女☆歌劇 レヴュースタァライト」レヴューアルバム「アルカナ・アルカディア」](https://open.spotify.com/album/6mZy5s37cEzI54dl6CXtRj) | 4:14 |
+| 18 | [Hoshi no Shojo, Tsuki ni Shojo](https://open.spotify.com/track/2ZfKTS1mJoJmqCWMHDEOng) | [Yachiyo Tsuruhime\(CV:Haruka Kudo\)](https://open.spotify.com/artist/5COXhCfCAF7z5zLBiBrOaP), [Maya Tendo\(CV:Maho Tomita\)](https://open.spotify.com/artist/2JX0U8f1GbrDKUp1W20UoG), [Aruru Otuski\(CV:Megumi Han\)](https://open.spotify.com/artist/3qx9aFZDv71gBWG1gHdya7), [Karen Aijo\(CV:Momoyo Koyama\)](https://open.spotify.com/artist/3pGGUBbgu2YelFOZG22cIM) | ["Shojo Kageki Revuestarlight" Revue Album "Arcana Arcadia"](https://open.spotify.com/album/0Qjxeq06XpngjnNbrjdjT9) | 4:14 |
 | 19 | [独創収差](https://open.spotify.com/track/1TDNF588GS7ijlkGB57o0f) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [独創収差](https://open.spotify.com/album/6sqC5pyp0EFFxysVHJFcWo) | 4:35 |
 | 20 | [逆光 \- ウタ from ONE PIECE FILM RED](https://open.spotify.com/track/5GXYKnnzBlHvrzBQ5WoxME) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [逆光 \(ウタ from ONE PIECE FILM RED\)](https://open.spotify.com/album/3ZARNbKk2zkYDeVQpHE564) | 3:57 |
 | 21 | [ALIVE](https://open.spotify.com/track/5cBmwNnKGLPRCQWzFS0r0Y) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [ALIVE](https://open.spotify.com/album/7lpsmkTYFRiDNIDyKRRLXP) | 3:37 |
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 41 | [Pokerface](https://open.spotify.com/track/5n071ppxcknnGJLXOgf02P) | [Kana Hanazawa](https://open.spotify.com/artist/44u07DJH5eTBDjhZ7LpMO0) | [Pokerface](https://open.spotify.com/album/0dviOJFT2UZNQdAqRaIn9h) | 3:55 |
 | 42 | [追いかける夢の先で](https://open.spotify.com/track/3V2S19yA5qkUp6qxSVG5zr) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [追いかける夢の先で](https://open.spotify.com/album/65vtvzicbNmETsvabUGAh4) | 3:43 |
 | 43 | [Step Up](https://open.spotify.com/track/7y7FjuZlT5MHLRk0DtbUe8) | [ONE N' ONLY](https://open.spotify.com/artist/6Pob63g9NOdT7moTAUZ4GB) | [Step Up](https://open.spotify.com/album/7f0deOUeip4S9DIaiCjlOt) | 3:50 |
-| 44 | [ツバメと風](https://open.spotify.com/track/3bzjeKbfxH4WQ3oNPN9cNK) | [白井悠介](https://open.spotify.com/artist/4LPotSjGEW9M5VQ5IoUgGT) | [11\-ELEVEN\-](https://open.spotify.com/album/1FuBzMws5BTlG8sDVqMBYE) | 4:36 |
+| 44 | [Tsubame to Kaze](https://open.spotify.com/track/6k6vxgIhOKVP1GnAMBgQyF) | [Shirai Yusuke](https://open.spotify.com/artist/1ccP8i48kDMJVsHt2GM6io) | [11\-Eleven\-](https://open.spotify.com/album/64UlPpsdOORwv3ta4AwBd8) | 4:36 |
 | 45 | [風の中](https://open.spotify.com/track/5sP17r2ILuTv2ih5fnLGjx) | [Rei Yasuda](https://open.spotify.com/artist/1diX6i4LgUKR9qMRrAeGLi), [THE CHARM PARK](https://open.spotify.com/artist/2QKf9jr434G3Mo8Hr9npPb) | [風の中](https://open.spotify.com/album/6PYt8GA4Sq0No0LSyYTdMj) | 3:23 |
 | 46 | [geki](https://open.spotify.com/track/0pNibb6CapyORpwvkbpFEm) | [zonji](https://open.spotify.com/artist/5mAHChNntfSXlZA1MvfWmv) | [geki](https://open.spotify.com/album/4yHPXYnI5USQhghoflfuac) | 4:05 |
 | 47 | [一番光れ!\-ブッチギレ\-](https://open.spotify.com/track/4Lwu5jxAauZYj5JWPjD72P) | [Takanori Nishikawa](https://open.spotify.com/artist/2ayMogRmamCnzMAk4YiFAz) | [一番光れ!\-ブッチギレ\-](https://open.spotify.com/album/025d3ip2r1hEWZwhTWBeTX) | 4:03 |
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 57 | [Mujikaku no Tensai](https://open.spotify.com/track/4POh4ThJaKsqfuSgwsuDjA) | [Non Stop Rabbit](https://open.spotify.com/artist/3BI27TxQPk2BVbiThvj1EV) | [Mujikaku no Tensai](https://open.spotify.com/album/31TmYdlBCK6cXddVWOW5Tl) | 4:09 |
 | 58 | [断罪デモクラシー](https://open.spotify.com/track/1YYhcvF1ejO19vtEgVBzIg) | [自象存在name\-less](https://open.spotify.com/artist/05bI1rBSrKztoBYlHYYdH5) | [断罪デモクラシー](https://open.spotify.com/album/0aCbx2DAWTiKTkVEr206ZB) | 3:14 |
 
-Snapshot ID: `MTY2MzY5NjE1NCwwMDAwMDAwMGUyMGEzMjIzNzcxMjZlNWVhNWRjM2E1Y2ZmOTc5OWQz`
+Snapshot ID: `MTY2MzY5NjE1NCwwMDAwMDAwMDY2Y2ZmZWEzOGJiODE4ZTcyNTUyYzlmZDQ1N2FmODNl`

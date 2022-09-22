@@ -1,12 +1,12 @@
 {
   "description": "Dance tracks for a big workout.",
-  "num_followers": 389184,
+  "num_followers": 389250,
   "original_name": "Beast Mode Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mjk5NDYyMywwMDAwMDAwMGMwM2VlOTVlNjY4MDc2MTBkMGI0OGMyMDc0ZGE3YTli",
+  "snapshot_id": "MTY2Mjk5NDYyMywwMDAwMDAwMGE0MmM3YmQzMzZkYjk4NzE2NDIyYzYzZDIyN2VjY2Fj",
   "tracks": [
     {
       "added_at": "2022-09-12 14:57:03",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2022-09-12 14:57:03",
       "album": {
-        "name": "Just In Case",
-        "url": "https://open.spotify.com/album/4xiUAuEg25QIRiPrS2A0Bi"
-      },
-      "artists": [
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        }
-      ],
-      "duration_ms": 163832,
-      "name": "Just In Case",
-      "url": "https://open.spotify.com/track/2AAMkITmFcCL9MtTKFui2k"
-    },
-    {
-      "added_at": "2022-09-12 14:57:03",
-      "album": {
         "name": "I Got A Feeling",
         "url": "https://open.spotify.com/album/1RQIpbfwNYLalU8PKNysqt"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 144136,
       "name": "I Got A Feeling",
       "url": "https://open.spotify.com/track/67khZBWjxlHg85xcwdySjS"
+    },
+    {
+      "added_at": "2022-09-12 14:57:03",
+      "album": {
+        "name": "Just In Case",
+        "url": "https://open.spotify.com/album/4xiUAuEg25QIRiPrS2A0Bi"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        }
+      ],
+      "duration_ms": 163832,
+      "name": "Just In Case",
+      "url": "https://open.spotify.com/track/2AAMkITmFcCL9MtTKFui2k"
     },
     {
       "added_at": "2022-09-12 14:57:03",

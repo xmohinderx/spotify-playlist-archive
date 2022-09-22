@@ -1,12 +1,12 @@
 {
   "description": "Featuring that new vintage. Cover: Meghan Trainor",
-  "num_followers": 399432,
+  "num_followers": 399418,
   "original_name": "Retro Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY5NjA2MCwwMDAwMDAwMDhmN2M4NGU1ZDc1ZjVhYjFhODQ0NDY5NDQ1ZTM0ZmUx",
+  "snapshot_id": "MTY2MjY5NjA2MCwwMDAwMDAwMDExNzhmZTU2ZDVmNTFhY2UxNDE5MmE2OWNkYTEwMTBm",
   "tracks": [
     {
       "added_at": "2022-09-09 04:01:00",
@@ -473,22 +473,6 @@
       "url": "https://open.spotify.com/track/2kpoReN3MY7I0tSF902n0z"
     },
     {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
-        "name": "All Summer",
-        "url": "https://open.spotify.com/album/4lcvwRXul0pIJAM8XXU8QS"
-      },
-      "artists": [
-        {
-          "name": "Little Big Town",
-          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
-        }
-      ],
-      "duration_ms": 171773,
-      "name": "All Summer",
-      "url": "https://open.spotify.com/track/4MA8WJAhL0P3hbD5SrZUUv"
-    },
-    {
       "added_at": "2022-08-19 04:02:00",
       "album": {
         "name": "Somebody",
@@ -519,6 +503,22 @@
       "duration_ms": 178289,
       "name": "FREEDOM",
       "url": "https://open.spotify.com/track/2QOB5UiRKggr2j9uMD3GYK"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
+        "name": "All Summer",
+        "url": "https://open.spotify.com/album/4lcvwRXul0pIJAM8XXU8QS"
+      },
+      "artists": [
+        {
+          "name": "Little Big Town",
+          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
+        }
+      ],
+      "duration_ms": 171773,
+      "name": "All Summer",
+      "url": "https://open.spotify.com/track/4MA8WJAhL0P3hbD5SrZUUv"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -777,22 +777,6 @@
       "url": "https://open.spotify.com/track/7HDcd1vyDdNWq897wSILCZ"
     },
     {
-      "added_at": "2022-08-12 04:01:00",
-      "album": {
-        "name": "Automatic",
-        "url": "https://open.spotify.com/album/40P7jOxKnMf7KVpX0kWcCD"
-      },
-      "artists": [
-        {
-          "name": "Lake Street Dive",
-          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
-        }
-      ],
-      "duration_ms": 238613,
-      "name": "Automatic",
-      "url": "https://open.spotify.com/track/27KqSOzLiN6p9sjs95MnZg"
-    },
-    {
       "added_at": "2021-12-03 05:01:00",
       "album": {
         "name": "Building Balance",
@@ -807,6 +791,22 @@
       "duration_ms": 184952,
       "name": "Consider Me",
       "url": "https://open.spotify.com/track/6eA8pANu9ryDcoTTe5myKk"
+    },
+    {
+      "added_at": "2022-08-12 04:01:00",
+      "album": {
+        "name": "Automatic",
+        "url": "https://open.spotify.com/album/40P7jOxKnMf7KVpX0kWcCD"
+      },
+      "artists": [
+        {
+          "name": "Lake Street Dive",
+          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
+        }
+      ],
+      "duration_ms": 238613,
+      "name": "Automatic",
+      "url": "https://open.spotify.com/track/27KqSOzLiN6p9sjs95MnZg"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -871,22 +871,6 @@
     {
       "added_at": "2021-12-03 05:01:00",
       "album": {
-        "name": "MONOVISION",
-        "url": "https://open.spotify.com/album/4yzBq7tSsGjnQS0GPmbWcE"
-      },
-      "artists": [
-        {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
-        }
-      ],
-      "duration_ms": 214653,
-      "name": "Strong Enough",
-      "url": "https://open.spotify.com/track/1M1xjg2N1i5EKosEPtx2T7"
-    },
-    {
-      "added_at": "2021-12-03 05:01:00",
-      "album": {
         "name": "See the World",
         "url": "https://open.spotify.com/album/5DjZqk7gJGrQBCeTKnBViy"
       },
@@ -903,18 +887,18 @@
     {
       "added_at": "2021-12-03 05:01:00",
       "album": {
-        "name": "Long Lost",
-        "url": "https://open.spotify.com/album/5xiePX6kXj5ZsmUsqIqzeD"
+        "name": "MONOVISION",
+        "url": "https://open.spotify.com/album/4yzBq7tSsGjnQS0GPmbWcE"
       },
       "artists": [
         {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
         }
       ],
-      "duration_ms": 177366,
-      "name": "Not Dead Yet",
-      "url": "https://open.spotify.com/track/6xVd8klTvL6ZRovgIhIs98"
+      "duration_ms": 214653,
+      "name": "Strong Enough",
+      "url": "https://open.spotify.com/track/1M1xjg2N1i5EKosEPtx2T7"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -935,6 +919,22 @@
       "duration_ms": 164693,
       "name": "I Can Only Whisper (feat. BADBADNOTGOOD)",
       "url": "https://open.spotify.com/track/5qXwFOkT3lrEonTzsYCeZ1"
+    },
+    {
+      "added_at": "2021-12-03 05:01:00",
+      "album": {
+        "name": "Long Lost",
+        "url": "https://open.spotify.com/album/5xiePX6kXj5ZsmUsqIqzeD"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        }
+      ],
+      "duration_ms": 177366,
+      "name": "Not Dead Yet",
+      "url": "https://open.spotify.com/track/6xVd8klTvL6ZRovgIhIs98"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2021-12-03 05:01:00",
       "album": {
-        "name": "KIWANUKA",
-        "url": "https://open.spotify.com/album/1yIqauTni1V7l7djYAKSsZ"
-      },
-      "artists": [
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
-        }
-      ],
-      "duration_ms": 199133,
-      "name": "Hero",
-      "url": "https://open.spotify.com/track/2Y61ZvCuuLOhdkgl1B9ekh"
-    },
-    {
-      "added_at": "2021-12-03 05:01:00",
-      "album": {
         "name": "Heaven (Expanded Edition)",
         "url": "https://open.spotify.com/album/5XRvidlLFT4rMytzHK7smn"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 209586,
       "name": "Glitter & Gold",
       "url": "https://open.spotify.com/track/5Q6mIVCErKoI6zb7wxJlBs"
+    },
+    {
+      "added_at": "2021-12-03 05:01:00",
+      "album": {
+        "name": "KIWANUKA",
+        "url": "https://open.spotify.com/album/1yIqauTni1V7l7djYAKSsZ"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "duration_ms": 199133,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/2Y61ZvCuuLOhdkgl1B9ekh"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -1293,6 +1293,22 @@
       "url": "https://open.spotify.com/track/3HxTb6ITqXf7RMjX2DGVv5"
     },
     {
+      "added_at": "2022-02-11 05:01:00",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/6qPMvni16dK3GuVk6K2fXa"
+      },
+      "artists": [
+        {
+          "name": "James Morrison",
+          "url": "https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35"
+        }
+      ],
+      "duration_ms": 240053,
+      "name": "Precious Love (Refreshed)",
+      "url": "https://open.spotify.com/track/2Qi7xDDXuuiwPYnVMBsTfo"
+    },
+    {
       "added_at": "2021-12-03 05:01:00",
       "album": {
         "name": "Dry Bones",
@@ -1311,22 +1327,6 @@
       "duration_ms": 189602,
       "name": "Dry Bones",
       "url": "https://open.spotify.com/track/6XbYqxCWmzo5stjfaKgXEi"
-    },
-    {
-      "added_at": "2022-02-11 05:01:00",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/6qPMvni16dK3GuVk6K2fXa"
-      },
-      "artists": [
-        {
-          "name": "James Morrison",
-          "url": "https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35"
-        }
-      ],
-      "duration_ms": 240053,
-      "name": "Precious Love (Refreshed)",
-      "url": "https://open.spotify.com/track/2Qi7xDDXuuiwPYnVMBsTfo"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -1413,24 +1413,20 @@
       "url": "https://open.spotify.com/track/6x9CsGaWqqtaggNYelyWO5"
     },
     {
-      "added_at": "2022-08-12 04:01:00",
+      "added_at": "2022-08-26 04:02:00",
       "album": {
-        "name": "Catch My Wave",
-        "url": "https://open.spotify.com/album/6QSZi8vL18DTDQvP3pXrgo"
+        "name": "Drippin' In Love",
+        "url": "https://open.spotify.com/album/7a2boCHqvpmp7S2jNOgp7K"
       },
       "artists": [
         {
-          "name": "Cisco Adler",
-          "url": "https://open.spotify.com/artist/23apFYuBTpFemqLDn8ViLW"
-        },
-        {
-          "name": "Iration",
-          "url": "https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk"
+          "name": "Frankie Zulferino",
+          "url": "https://open.spotify.com/artist/1e2qCgABcOAaTeqLHHFkvC"
         }
       ],
-      "duration_ms": 194386,
-      "name": "Catch My Wave",
-      "url": "https://open.spotify.com/track/7k94tKY98gAeq1sTvPPRWW"
+      "duration_ms": 245901,
+      "name": "Drippin' In Love",
+      "url": "https://open.spotify.com/track/2qCl9fSe6lVJFVA18nCZ5Z"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -1449,20 +1445,24 @@
       "url": "https://open.spotify.com/track/3jPd7hIM0feCje8ZbVu6en"
     },
     {
-      "added_at": "2022-08-26 04:02:00",
+      "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "Drippin' In Love",
-        "url": "https://open.spotify.com/album/7a2boCHqvpmp7S2jNOgp7K"
+        "name": "Catch My Wave",
+        "url": "https://open.spotify.com/album/6QSZi8vL18DTDQvP3pXrgo"
       },
       "artists": [
         {
-          "name": "Frankie Zulferino",
-          "url": "https://open.spotify.com/artist/1e2qCgABcOAaTeqLHHFkvC"
+          "name": "Cisco Adler",
+          "url": "https://open.spotify.com/artist/23apFYuBTpFemqLDn8ViLW"
+        },
+        {
+          "name": "Iration",
+          "url": "https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk"
         }
       ],
-      "duration_ms": 245901,
-      "name": "Drippin' In Love",
-      "url": "https://open.spotify.com/track/2qCl9fSe6lVJFVA18nCZ5Z"
+      "duration_ms": 194386,
+      "name": "Catch My Wave",
+      "url": "https://open.spotify.com/track/7k94tKY98gAeq1sTvPPRWW"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -1537,22 +1537,6 @@
       "url": "https://open.spotify.com/track/6FAoGmM3fdvOvEivi9edSd"
     },
     {
-      "added_at": "2022-05-20 04:01:00",
-      "album": {
-        "name": "Face The River",
-        "url": "https://open.spotify.com/album/4YG58y43kECDcA1w5XNO2m"
-      },
-      "artists": [
-        {
-          "name": "Gavin DeGraw",
-          "url": "https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz"
-        }
-      ],
-      "duration_ms": 219333,
-      "name": "Greatest Of All Time",
-      "url": "https://open.spotify.com/track/57MOYJiJyxRG2ekDRaP3Vj"
-    },
-    {
       "added_at": "2022-04-29 04:02:00",
       "album": {
         "name": "It Will Come In Time",
@@ -1583,6 +1567,22 @@
       "duration_ms": 179482,
       "name": "Shoegaze",
       "url": "https://open.spotify.com/track/7lCPtVW9VLsn5EGuibqctU"
+    },
+    {
+      "added_at": "2022-05-20 04:01:00",
+      "album": {
+        "name": "Face The River",
+        "url": "https://open.spotify.com/album/4YG58y43kECDcA1w5XNO2m"
+      },
+      "artists": [
+        {
+          "name": "Gavin DeGraw",
+          "url": "https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz"
+        }
+      ],
+      "duration_ms": 219333,
+      "name": "Greatest Of All Time",
+      "url": "https://open.spotify.com/track/57MOYJiJyxRG2ekDRaP3Vj"
     },
     {
       "added_at": "2022-03-04 05:01:00",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2021-12-03 05:01:00",
       "album": {
-        "name": "Love Is Love",
-        "url": "https://open.spotify.com/album/658qjvfIWOhCwaOZixkb45"
-      },
-      "artists": [
-        {
-          "name": "Grace Potter",
-          "url": "https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht"
-        }
-      ],
-      "duration_ms": 186783,
-      "name": "Love Is Love",
-      "url": "https://open.spotify.com/track/3evHzU2xmG80c3jS4YT6ZI"
-    },
-    {
-      "added_at": "2021-12-03 05:01:00",
-      "album": {
         "name": "KIWANUKA",
         "url": "https://open.spotify.com/album/1yIqauTni1V7l7djYAKSsZ"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 250933,
       "name": "Final Days",
       "url": "https://open.spotify.com/track/4CJiAsRwM7MaCgWlnFaSRz"
+    },
+    {
+      "added_at": "2021-12-03 05:01:00",
+      "album": {
+        "name": "Love Is Love",
+        "url": "https://open.spotify.com/album/658qjvfIWOhCwaOZixkb45"
+      },
+      "artists": [
+        {
+          "name": "Grace Potter",
+          "url": "https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht"
+        }
+      ],
+      "duration_ms": 186783,
+      "name": "Love Is Love",
+      "url": "https://open.spotify.com/track/3evHzU2xmG80c3jS4YT6ZI"
     },
     {
       "added_at": "2021-12-03 05:01:00",

@@ -4,7 +4,7 @@
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-4,231 songs - 9 day 4 hr 45 min - [published](https://open.spotify.com/playlist/0S2JKhYsYyye2uwGKkbi05)
+4,232 songs - 9 day 4 hr 49 min - [published](https://open.spotify.com/playlist/0S2JKhYsYyye2uwGKkbi05)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3910,6 +3910,7 @@
 | [Vi kom ikapp](https://open.spotify.com/track/46AO6WNRuw5b14xRwqmy9G) | [DANIEL4EVER](https://open.spotify.com/artist/0o0px5RumjBOcon0rE3fiP) | [Dom Kort Man Fått](https://open.spotify.com/album/0Xi6PPlQRqEkPPjfVNyExd) | 4:26 | 2022-03-31 | 2022-04-08 |
 | [Vi ska aldrig gå hem \- Nause & Allertz Remix](https://open.spotify.com/track/43qIf8LQ1klGhOC1thoHKy) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY), [Nause](https://open.spotify.com/artist/4PVn1b2WnnXdq80C7uaZLZ), [Allertz](https://open.spotify.com/artist/68I0yRCEpICs1hLsnUSMgC) | [Vi ska aldrig gå hem \(Nause & Allertz Remix\)](https://open.spotify.com/album/0B8zdGDVCsXlpa10IxHDoi) | 3:49 | 2021-12-30 | 2022-01-07 |
 | [Vi:et i vinsten \(Sveriges Officiella EM\-låt 2022\)](https://open.spotify.com/track/6g5K1kubnMcCkcQlvIRxVy) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY) | [Vi:et i vinsten \(Sveriges Officiella EM\-låt 2022\)](https://open.spotify.com/album/06wqtAadumHfK9NenuMELU) | 3:10 | 2022-06-09 | 2022-06-17 |
+| [Vibe Like This \(feat\. Ty Dolla $ign & Lucky Daye\)](https://open.spotify.com/track/3e4QIt4wVVqsCqMqKxOrZd) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Vibe Like This \(feat\. Ty Dolla $ign & Lucky Daye\)](https://open.spotify.com/album/5m1gDbNlYsrXH42XLeDE05) | 3:47 | 2022-09-15 |  |
 | [vice city](https://open.spotify.com/track/6MOst484piqXpzPPRRe8i5) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [vice city](https://open.spotify.com/album/23Q7W5jYwmLuOhu9ZeGdTd) | 3:40 | 2022-01-27 | 2022-02-04 |
 | [Vice Versa](https://open.spotify.com/track/69Hc0ZGMFjOhxnFPOpYc29) | [Ingrid Witt](https://open.spotify.com/artist/5fAZGONvu0rIhfhz7oqLSf) | [Vice Versa](https://open.spotify.com/album/3MQhHWeO9PcFUVaHg3Q719) | 2:56 | 2021-12-17 | 2021-12-24 |
 | [Vice Versa \(Bella Boo Remix\)](https://open.spotify.com/track/0nHUP6f7LncvtYnPTHKJcN) | [Off The Meds](https://open.spotify.com/artist/6XHiqDJIKWxSMQLsjFsiFM), [Bella Boo](https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C) | [Vice Versa \(Bella Boo Remix\)](https://open.spotify.com/album/0upzdW22TWvThM6uS8XqAm) | 4:34 | 2022-03-24 | 2022-04-01 |

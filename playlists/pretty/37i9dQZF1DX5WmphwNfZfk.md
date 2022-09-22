@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 
 > 50 Canadian artists to watch, handpicked by our curators\. Cover: Kyle McKearney
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,745 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,746 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 | 41 | [a little bit more](https://open.spotify.com/track/6Zn4mNLa6mL1jrJWF97SdF) | [Liza](https://open.spotify.com/artist/7CeUn1UNtIFSZIIBNXV8jk) | [a little bit more](https://open.spotify.com/album/1qcxwQMk3kpIrFebXBMEIl) | 2:26 |
 | 42 | [That's The Life I Want](https://open.spotify.com/track/5yQFc09wIKV4GXL0B3qDFJ) | [Alexander Ludwig](https://open.spotify.com/artist/0MlU9UKVEOkeyMdazSXif1) | [Highway 99](https://open.spotify.com/album/0d8JD5M3c5oH3TrxV6w0kL) | 3:18 |
 | 43 | [Trou d'eau](https://open.spotify.com/track/3eocwmTmeW2hA2fvhgpmo5) | [Gab Bouchard](https://open.spotify.com/artist/0J0nIuBa8qMlDnlS5QrkiP) | [Grafignes](https://open.spotify.com/album/4apNI8EVLPBkQH1ceRRcFl) | 3:17 |
-| 44 | [Yea Man](https://open.spotify.com/track/7qQvgj685nrnDxXuw0ib9S) | [DillanPonders](https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef), [BVB](https://open.spotify.com/artist/7azVk8ZXv1yB4rOmPMZvUD) | [Yea Man](https://open.spotify.com/album/7eK9lSLrXhlqFxetMXZTRn) | 2:40 |
+| 44 | [Yea Man](https://open.spotify.com/track/4uV0YlcOLvzrqnzKQ0oXUB) | [DillanPonders](https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef), [BVB](https://open.spotify.com/artist/7azVk8ZXv1yB4rOmPMZvUD) | [Yea Man](https://open.spotify.com/album/5nwJPVBagbhArx6zfcUzm3) | 2:40 |
 | 45 | [Into My Arms \- Radio Edit](https://open.spotify.com/track/66XJcRIDGLTuH7YIcdl8i6) | [Yurie](https://open.spotify.com/artist/7wDogImylcF6JsvvvXaCZ5) | [Into My Arms \(Radio Edit\)](https://open.spotify.com/album/3AQHOXLLh2mO5x5SOAA7yj) | 3:35 |
 | 46 | [Come Back Now](https://open.spotify.com/track/5SfFT1xyFE1NFr33Fxf3Pg) | [Pelch](https://open.spotify.com/artist/1sJoi3cOOQf2J21k7K8FjV) | [Come Back Now](https://open.spotify.com/album/1U8Ix0BqWFRKnkL4nbkClT) | 2:32 |
 | 47 | [Play By Play](https://open.spotify.com/track/0fkgg7EwHGTvqcJnvUqXmp) | [Marci](https://open.spotify.com/artist/2YvVKe1MfcslinaPCv402E) | [Marci](https://open.spotify.com/album/4A8z3O9t9mhH0rIBZ1Et7e) | 2:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 | 49 | [Hating On Love](https://open.spotify.com/track/2hdTsbDzCiI9mMUXvBgDdB) | [Dustin Bird](https://open.spotify.com/artist/2SLrAqe5sHj0UuRYla8LOf) | [Hating On Love](https://open.spotify.com/album/5FSukIm1LBeKjbNjOneb5k) | 2:46 |
 | 50 | [Queen St](https://open.spotify.com/track/3y5kablQcdGYEmLHkTHvIF) | [Jayd Ink](https://open.spotify.com/artist/6TfJcKCr5hFsYZkq2k1Pac) | [Queen St](https://open.spotify.com/album/64uOosOXFR6OL8AGnSsOls) | 3:04 |
 
-Snapshot ID: `MTY2MjE1MDA2NywwMDAwMDAwMGY3MWMzZTYzOTk0YmU1N2QzMjYyZTc3YzdjZjg2ZTcx`
+Snapshot ID: `MTY2MjE1MDA2NywwMDAwMDAwMDE0MWE1NDNhM2VlOGE4YTRjMWNlZmQ5YWVkNzA4OGY0`

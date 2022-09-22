@@ -4,7 +4,7 @@
 
 > Chill tunes to soundtrack your gaming session.
 
-147 songs - 10 hr 20 min - [published](https://open.spotify.com/playlist/11Gpqzsbqf7yfVJuxrNTH2)
+149 songs - 10 hr 24 min - [published](https://open.spotify.com/playlist/11Gpqzsbqf7yfVJuxrNTH2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Building Steam With A Grain Of Salt](https://open.spotify.com/track/0UMzgNAcJ7FKHO1wdUPJt8) | [DJ Shadow](https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI) | [Endtroducing.....](https://open.spotify.com/album/06HRPqj5bIfhxSpXN7lAPR) | 6:39 | 2019-12-16 | 2022-07-29 |
 | [Building Steam With A Grain Of Salt](https://open.spotify.com/track/4cucslsiEgezV2o900Ykg3) | [DJ Shadow](https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI) | [Endtroducing.....](https://open.spotify.com/album/4wvqGLk1HThPA0b5lzRK2l) | 6:39 | 2019-12-16 | 2022-09-01 |
 | [Byte into an Apple](https://open.spotify.com/track/2yrmWG0ppPgLS5roqMruJP) | [Alpha Room](https://open.spotify.com/artist/0u3vSXLtwN75J1AlhuXpMk) | [Byte into an Apple](https://open.spotify.com/album/1JgMUjHWidmXNlfNWHiLEr) | 3:15 | 2022-08-31 |  |
+| [Call me](https://open.spotify.com/track/34A2accnIDPOhkRltN8KJY) | [90sFlav](https://open.spotify.com/artist/6OOxsmeDk34xk6Ok3Ap95C) | [Collection](https://open.spotify.com/album/4r5Uvinx2W572g2goXL0zW) | 2:06 | 2022-09-21 |  |
 | [chirpy](https://open.spotify.com/track/5jfBd1oYuymK7up1MjGXO1) | [moiisen](https://open.spotify.com/artist/3hqnzcYaIVnVjWDsLZJSfg) | [chirpy](https://open.spotify.com/album/28ZnlCVeK3WZYa4jNLNQuM) | 1:39 | 2022-08-31 |  |
 | [Cirrus](https://open.spotify.com/track/2lJ4d8MCT6ZlDRHKJ1br14) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [The North Borders](https://open.spotify.com/album/7sN6lCgPf1rbZYmA3edMKv) | 5:52 | 2019-12-16 | 2022-09-01 |
 | [Clarity](https://open.spotify.com/track/3sXg02TJKMIqftRD82EnS7) | [Hammock](https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1) | [Clarity](https://open.spotify.com/album/3zAjBfnsAyNM3bjA54Cqv7) | 6:23 | 2019-12-16 | 2022-07-29 |
@@ -81,7 +82,7 @@
 | [Marijuana](https://open.spotify.com/track/63PEsIWyy3QgiPy4u5I9pG) | [Chrome Sparks](https://open.spotify.com/artist/2pTCZ9C1fXdaVlv6d5EIXM) | [Sparks](https://open.spotify.com/album/2SDRefKHEIs8bWDACXPuVr) | 3:01 | 2019-12-16 | 2022-09-01 |
 | [Melanine](https://open.spotify.com/track/18rXOovmohAMcFwUPAUAN2) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Dive](https://open.spotify.com/album/3I3PmRvn5iFY8i6zzvEcci) | 2:53 | 2019-12-16 | 2022-07-29 |
 | [Melanine](https://open.spotify.com/track/5uTnqjoCiHCZJ3TmQpOhpH) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Dive](https://open.spotify.com/album/4CBUbnGFz2iKFJjYqRIwst) | 2:53 | 2019-12-16 |  |
-| [Midnight Cruisin'](https://open.spotify.com/track/3L21x578Ip8Adwi5hjzQpK) | [Kreatev](https://open.spotify.com/artist/5fca6jKkDzssBHS5V1jU8z) | [Midnight Cruisin'](https://open.spotify.com/album/7ya7TNEDhpFxsxx371CKUz) | 2:05 | 2022-09-02 |  |
+| [Midnight Cruisin'](https://open.spotify.com/track/3L21x578Ip8Adwi5hjzQpK) | [Kreatev](https://open.spotify.com/artist/5fca6jKkDzssBHS5V1jU8z) | [Midnight Cruisin'](https://open.spotify.com/album/7ya7TNEDhpFxsxx371CKUz) | 2:05 | 2022-09-02 | 2022-09-22 |
 | [Midnight In A Perfect World](https://open.spotify.com/track/48Dz1HTWoMLpT5voht8igk) | [DJ Shadow](https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI) | [Reconstructed : The Best Of DJ Shadow](https://open.spotify.com/album/4sYfLmgzqy0enDlFDHo9Ih) | 4:59 | 2019-12-16 | 2022-09-01 |
 | [Minecraft](https://open.spotify.com/track/6xwhCiWXREsAIQVZqHswVw) | [C418](https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx) | [Minecraft \- Volume Alpha](https://open.spotify.com/album/3Gt7rOjcZQoHCfnKl5AkK7) | 4:14 | 2022-08-31 | 2022-09-03 |
 | [Montauk Paddling](https://open.spotify.com/track/2lS3Hau6BLChEmAckRsT1w) | [auv](https://open.spotify.com/artist/6mmGVOvxusEdkxXmPg0Wlm) | [Montauk Paddling](https://open.spotify.com/album/4dyIqQlSISpBqT2SDD2eKI) | 4:01 | 2022-08-31 |  |
@@ -144,10 +145,11 @@
 | [Truth \(Helios Remix\)](https://open.spotify.com/track/4lwGyv3tbahmN1Z25wdCxa) | [Balmorhea](https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9) | [All Is Wild, All Is Silent Remixes](https://open.spotify.com/album/4K8rm4KevTLvvTSyWx5yjO) | 3:45 | 2019-12-16 | 2022-07-29 |
 | [Truth \- Helios Remix](https://open.spotify.com/track/70yAekvZ6xZcC9PKrEHS4S) | [Balmorhea](https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9) | [All Is Wild, All Is Silent Remixes](https://open.spotify.com/album/6m6zHJ1nwn95OQPr90Hbic) | 3:45 | 2019-12-16 |  |
 | [two door tiffany](https://open.spotify.com/track/6oxv6Isn0x28fZh43pviCn) | [quinn](https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN) | [quinn](https://open.spotify.com/album/75n3winyXKHLUCOhiSRkA2) | 3:06 | 2022-09-01 | 2022-09-21 |
-| [unconscious](https://open.spotify.com/track/20pZcg9G1bmCxFaBvpyhf5) | [MP3vius](https://open.spotify.com/artist/5iUQH6x3hiVg6Le2KLWBZQ), [ZARG](https://open.spotify.com/artist/40PThXuHI1P1mrSb6MPD3z) | [unconscious](https://open.spotify.com/album/3yF4I91M9OWBIchfPQb2QK) | 2:20 | 2022-09-02 |  |
+| [unconscious](https://open.spotify.com/track/20pZcg9G1bmCxFaBvpyhf5) | [MP3vius](https://open.spotify.com/artist/5iUQH6x3hiVg6Le2KLWBZQ), [ZARG](https://open.spotify.com/artist/40PThXuHI1P1mrSb6MPD3z) | [unconscious](https://open.spotify.com/album/3yF4I91M9OWBIchfPQb2QK) | 2:20 | 2022-09-02 | 2022-09-22 |
 | [Underwater](https://open.spotify.com/track/5TNDBtPIkduKFGdMSkOPQG) | [Nothingtosay](https://open.spotify.com/artist/53xwq54syWZgXoordzYUnA) | [Cold Thoughts](https://open.spotify.com/album/6j9efsz6v7I0WkDaHDrWfW) | 2:26 | 2022-08-31 |  |
 | [Unravel \(From "Tokyo Ghoul"\)](https://open.spotify.com/track/5QOEvQ6z99KqGKGxz1yk6B) | [Palademix](https://open.spotify.com/artist/1M0ElT5wAoUe4uiNkp9BUh), [Nostalgic](https://open.spotify.com/artist/3V3FLYaI3cvXailPZOtcnl) | [Anime Lofi Beats](https://open.spotify.com/album/7xB0XmIJQxRoxK9mfLOgH6) | 2:48 | 2022-08-31 |  |
 | [Until We Meet Again](https://open.spotify.com/track/78CpmGK47wePWOuKZhnus1) | [Peak Twilight](https://open.spotify.com/artist/25qDYhjZHVzZS6sOVzAVAx), [amies](https://open.spotify.com/artist/2zNmlxTlRfyMAAifd2f71Q) | [Departure](https://open.spotify.com/album/18OPZkuFLk129TscAuoDN7) | 3:09 | 2022-08-31 |  |
+| [waking up in the park](https://open.spotify.com/track/278zobyI14d3iaE39jGfHM) | [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH) | [waking up in the park](https://open.spotify.com/album/4jGrBMzBYAxIMdwxOLvlod) | 1:08 | 2022-09-21 |  |
 | [We Can Be Ghosts Now](https://open.spotify.com/track/4buZVQ9wDGXk8AbVeGM5E6) | [Hiatus](https://open.spotify.com/artist/421vyBBkhgRAOz4cYPvrZJ) | [Parklands](https://open.spotify.com/album/1NhIMd6O3u6F9Opm7skw9N) | 4:18 | 2019-12-16 | 2022-09-01 |
 | [What You Love You Must Love Now](https://open.spotify.com/track/2R7bTCbxSrVlHkZDaQbVs2) | [The Six Parts Seven](https://open.spotify.com/artist/3puKPIXi7bUDnPuJZOlJxL) | [Everywhere And Right Here](https://open.spotify.com/album/1hC3Tr1axplzxjGLEXSNf5) | 5:22 | 2019-12-16 |  |
 | [What You Love You Must Love Now](https://open.spotify.com/track/3L0fPX8biELkH57fF3Exkd) | [The Six Parts Seven](https://open.spotify.com/artist/3puKPIXi7bUDnPuJZOlJxL) | [Everywhere And Right Here](https://open.spotify.com/album/3tpwV2Th7Q7sS7TzeE4viK) | 5:22 | 2019-12-16 | 2022-07-29 |

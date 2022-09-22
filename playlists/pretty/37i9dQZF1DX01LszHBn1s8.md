@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 
 > ludde is the baddest of them all.\. 😍
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,592 likes - 585 songs - 1 day 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,584 likes - 585 songs - 1 day 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

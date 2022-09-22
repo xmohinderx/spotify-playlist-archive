@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 
 > This is the new Core at its finest\. Cover: Motionless In White
 
-[Spotify](https://open.spotify.com/user/spotify) - 853,556 likes - 75 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 853,558 likes - 75 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,10 +26,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 | 16 | [Anomaly](https://open.spotify.com/track/4y2WxyFPLHaLoHkxymgNar) | [Aviana](https://open.spotify.com/artist/1AvLltBsz1HdAtZeucm9zy) | [Anomaly](https://open.spotify.com/album/3x0fD3AKsVdr63OInlGAXv) | 3:43 |
 | 17 | [Cross My Heart](https://open.spotify.com/track/2icamhwuMDLOPIGcTq3qxg) | [Eyes Wide Open](https://open.spotify.com/artist/1AYs2fxCu0pV8iKaguz4po) | [Cross My Heart](https://open.spotify.com/album/5ByL1dXjgnjKAEF6H63e5p) | 3:18 |
 | 18 | [Graveyard](https://open.spotify.com/track/4lDhUegBfuSYmL2REY3P8y) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [Empires Fall](https://open.spotify.com/album/1A8gLXrhRu9GJl0j8D9oJb) | 3:03 |
-| 19 | [Heretic](https://open.spotify.com/track/6O6U83grucuxSktER0IbrM) | [Novelists FR](https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS), [LANDMVRKS](https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6) | [Heretic](https://open.spotify.com/album/0lQqsnfP4Hwy8KoIg1H07y) | 3:22 |
-| 20 | [Hangfire](https://open.spotify.com/track/3cYqU2pWI7VvoTX1PeKX94) | [Wind Walkers](https://open.spotify.com/artist/2K2bsaNeuQAFkuVwrrlJe0) | [Hangfire](https://open.spotify.com/album/2C7Caj4q2ImxfS717oEZYC) | 3:15 |
-| 21 | [Throne](https://open.spotify.com/track/1IIHG2cRp9PBYSGLSKAdgD) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Throne](https://open.spotify.com/album/66snwEHAdTrN5gw7z3mpoA) | 3:27 |
-| 22 | [Dead Inside](https://open.spotify.com/track/4hZIolup6cgYhrzzGq46aq) | [Future Palace](https://open.spotify.com/artist/4QnuZOyl4C9d1keyOZXJ21) | [Run](https://open.spotify.com/album/3PsbQWb1jzu1TieGQwvjd7) | 3:24 |
+| 19 | [Dead Inside](https://open.spotify.com/track/4hZIolup6cgYhrzzGq46aq) | [Future Palace](https://open.spotify.com/artist/4QnuZOyl4C9d1keyOZXJ21) | [Run](https://open.spotify.com/album/3PsbQWb1jzu1TieGQwvjd7) | 3:24 |
+| 20 | [Heretic](https://open.spotify.com/track/6O6U83grucuxSktER0IbrM) | [Novelists FR](https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS), [LANDMVRKS](https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6) | [Heretic](https://open.spotify.com/album/0lQqsnfP4Hwy8KoIg1H07y) | 3:22 |
+| 21 | [Hangfire](https://open.spotify.com/track/3cYqU2pWI7VvoTX1PeKX94) | [Wind Walkers](https://open.spotify.com/artist/2K2bsaNeuQAFkuVwrrlJe0) | [Hangfire](https://open.spotify.com/album/2C7Caj4q2ImxfS717oEZYC) | 3:15 |
+| 22 | [Throne](https://open.spotify.com/track/1IIHG2cRp9PBYSGLSKAdgD) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Throne](https://open.spotify.com/album/66snwEHAdTrN5gw7z3mpoA) | 3:27 |
 | 23 | [Mass Produced](https://open.spotify.com/track/2gq5XvSm3XrbKmyV4m3wSX) | [Oceano](https://open.spotify.com/artist/79A0IUxQD9skV7LVjPq53s) | [Mass Produced](https://open.spotify.com/album/48PMipn3cRGT6Ck9KCbV8w) | 3:01 |
 | 24 | [You Must Die](https://open.spotify.com/track/62FvxmmrGxBBEBI6yBkI0E) | [Suicide Silence](https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc) | [You Must Die](https://open.spotify.com/album/5caFwAXPLpgbK5DtDnHBTj) | 2:42 |
 | 25 | [A Form of Protest](https://open.spotify.com/track/1LDQFdGTEXOnycDC8CJ5p1) | [Cane Hill](https://open.spotify.com/artist/0DZKzOGHDqGaf1N2pmsBRZ) | [A Form of Protest](https://open.spotify.com/album/7sPoZ4Nxv34iSFIwmbUCrA) | 3:09 |
@@ -55,10 +55,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 | 45 | [Alone](https://open.spotify.com/track/16DXW7yFac4ooTafH0osLY) | [Awake the Dreamer](https://open.spotify.com/artist/4cJLd39creVGWHUNKEXm5I) | [Alone](https://open.spotify.com/album/2wtaBMxUZXDi7VEPvBLd69) | 3:17 |
 | 46 | [Quicksand \(feat\. Michael Swank\)](https://open.spotify.com/track/3B2lC0tHokLJuPOhKaLycU) | [Outline In Color](https://open.spotify.com/artist/6drAKOLWO1vzBrdmJmg5SE), [Foxera](https://open.spotify.com/artist/3YMpkFfYLXaD8eZlQalBHC), [Michael Swank](https://open.spotify.com/artist/1p4l2x4EUENGm1VCQfBkuu) | [Quicksand](https://open.spotify.com/album/3vo077XHNBeAEVlnWGQUCG) | 2:32 |
 | 47 | [What Is War](https://open.spotify.com/track/3qPDkJVT3nTadE0DowU2w5) | [Chaosbay](https://open.spotify.com/artist/7GNTvmIi6DDF2XDJKYKoUk), [Siamese](https://open.spotify.com/artist/0Hx4gv3eoiodtu6XYHF1X0) | [What Is War](https://open.spotify.com/album/2Fig0Wysa46RMtW7JyNAc9) | 3:59 |
-| 48 | [Suffer](https://open.spotify.com/track/66ZM0tKioRCiW5TyPUdfpl) | [Dragged Under](https://open.spotify.com/artist/3D1uNqaasEWzallSxKo1cH) | [Suffer](https://open.spotify.com/album/2Km1B3OkljeuAyGAmnxZT2) | 3:23 |
-| 49 | [Play Time](https://open.spotify.com/track/5lWTv6nMPXeVFHifOIpX4U) | [October Ends](https://open.spotify.com/artist/4j7vAPWYV5yRdX8CnSq0Jc) | [Play Time](https://open.spotify.com/album/4VCY5HtkP5SU8AqSo36y9K) | 3:36 |
-| 50 | [Miscreation](https://open.spotify.com/track/5YcT4GfUGdJSuoiZwiv26Z) | [The Anchor](https://open.spotify.com/artist/2x583f2zJEjkiPd6IY4yfW) | [Miscreation](https://open.spotify.com/album/6iVF7LgG1mjmMfBGF5jGP2) | 3:33 |
-| 51 | [Reflections](https://open.spotify.com/track/1Llt2DZh24nULvOmBj8Ooc) | [VENUES](https://open.spotify.com/artist/21LZjxwncsHeKlwA2XPKEd) | [Reflections](https://open.spotify.com/album/1uTmZIJQxa9q0viqcGoexw) | 3:07 |
+| 48 | [Reflections](https://open.spotify.com/track/1Llt2DZh24nULvOmBj8Ooc) | [VENUES](https://open.spotify.com/artist/21LZjxwncsHeKlwA2XPKEd) | [Reflections](https://open.spotify.com/album/1uTmZIJQxa9q0viqcGoexw) | 3:07 |
+| 49 | [Suffer](https://open.spotify.com/track/66ZM0tKioRCiW5TyPUdfpl) | [Dragged Under](https://open.spotify.com/artist/3D1uNqaasEWzallSxKo1cH) | [Suffer](https://open.spotify.com/album/2Km1B3OkljeuAyGAmnxZT2) | 3:23 |
+| 50 | [Play Time](https://open.spotify.com/track/5lWTv6nMPXeVFHifOIpX4U) | [October Ends](https://open.spotify.com/artist/4j7vAPWYV5yRdX8CnSq0Jc) | [Play Time](https://open.spotify.com/album/4VCY5HtkP5SU8AqSo36y9K) | 3:36 |
+| 51 | [Miscreation](https://open.spotify.com/track/5YcT4GfUGdJSuoiZwiv26Z) | [The Anchor](https://open.spotify.com/artist/2x583f2zJEjkiPd6IY4yfW) | [Miscreation](https://open.spotify.com/album/6iVF7LgG1mjmMfBGF5jGP2) | 3:33 |
 | 52 | [Forsaken](https://open.spotify.com/track/29RLIEdsr7lXMkct9omK00) | [Until I Wake](https://open.spotify.com/artist/4XYFjTd83FIwArFrWEYhd5) | [Forsaken](https://open.spotify.com/album/1AdoiciuD5DrLLBHHBQrq2) | 3:03 |
 | 53 | [Sunchaser](https://open.spotify.com/track/06tK7kL7Q37Fx57FUWrB2H) | [The Wise Man's Fear](https://open.spotify.com/artist/0Ir2YUbOtgP5GeOzQicQ44) | [Sunchaser](https://open.spotify.com/album/7zz108OrdqIflvbY8boOgl) | 3:29 |
 | 54 | [Spearmint Revolt](https://open.spotify.com/track/2k3Vtbkr80qEkmGle4NK37) | [Norma Jean](https://open.spotify.com/artist/55b0Gfm53udtGBs8mmNXrH) | [Spearmint Revolt](https://open.spotify.com/album/23XEhKtJYPjK41dUrHl5Y2) | 5:02 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 | 74 | [No King Rules Forever](https://open.spotify.com/track/33a56ZdHf1SrYxgbGLf14n) | [Alex Yarmak](https://open.spotify.com/artist/7BxvbZy8vMWGskAEh3uueA) | [No King Rules Forever](https://open.spotify.com/album/10vHHRoQupZXltyWiDozNI) | 3:12 |
 | 75 | [Trapped](https://open.spotify.com/track/2rggHX6x7fQUmo4WXTBzMQ) | [Suasion](https://open.spotify.com/artist/3By3NlIbjZW9Uqlph8kcgK) | [Trapped](https://open.spotify.com/album/3qKY0taBBsvUZaSSblJtrf) | 3:24 |
 
-Snapshot ID: `MTY2MzMzMzIwMCwwMDAwMDAwMDVhZGJmMTY3MmZjY2UzYmQ5MTczZWU2YzAwOGExNWZi`
+Snapshot ID: `MTY2MzMzMzIwMCwwMDAwMDAwMGU0YmQzNzRjOGRjZWYzMjgzNWIyMDA4NTdlNjVmYTY0`

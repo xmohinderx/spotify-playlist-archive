@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzA4NjAxNiwwMDAwMDAwMGM4MjU4ZGU5MjZkZWI3Y2Y5MzEyMGJkY2YwZjczNTY3",
+  "snapshot_id": "MTY2MzA4NjAxNiwwMDAwMDAwMDRkN2YwOTM0ODQwNzk3Mzg5OTFhNmRkNTU2MzU5MDI1",
   "tracks": [
     {
       "added_at": "2022-05-20 11:08:57",
@@ -215,22 +215,6 @@
     {
       "added_at": "2022-05-20 11:08:57",
       "album": {
-        "name": "Introducing...",
-        "url": "https://open.spotify.com/album/5c1E5jFxDYivYtb6pr08qJ"
-      },
-      "artists": [
-        {
-          "name": "Aaron Frazer",
-          "url": "https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB"
-        }
-      ],
-      "duration_ms": 228613,
-      "name": "Bad News",
-      "url": "https://open.spotify.com/track/3uRggMbe2X8gD5KdwTlKrw"
-    },
-    {
-      "added_at": "2022-05-20 11:08:57",
-      "album": {
         "name": "Honesty",
         "url": "https://open.spotify.com/album/32c2P1RVcAem05oQYT7Wiw"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 225000,
       "name": "Talk About It",
       "url": "https://open.spotify.com/track/5MfushVJBf8tzERIBZ9jMv"
+    },
+    {
+      "added_at": "2022-05-20 11:08:57",
+      "album": {
+        "name": "Introducing...",
+        "url": "https://open.spotify.com/album/5c1E5jFxDYivYtb6pr08qJ"
+      },
+      "artists": [
+        {
+          "name": "Aaron Frazer",
+          "url": "https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB"
+        }
+      ],
+      "duration_ms": 228613,
+      "name": "Bad News",
+      "url": "https://open.spotify.com/track/3uRggMbe2X8gD5KdwTlKrw"
     },
     {
       "added_at": "2022-05-20 11:08:57",
@@ -435,6 +435,22 @@
     {
       "added_at": "2022-05-20 11:08:57",
       "album": {
+        "name": "L.A.B III",
+        "url": "https://open.spotify.com/album/6S2Wk7gzCsJzfArpNgPbHh"
+      },
+      "artists": [
+        {
+          "name": "L.A.B.",
+          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
+        }
+      ],
+      "duration_ms": 252680,
+      "name": "In the Air",
+      "url": "https://open.spotify.com/track/6r88rMGtfNgC0SJEytTA7c"
+    },
+    {
+      "added_at": "2022-05-20 11:08:57",
+      "album": {
         "name": "Hard Life",
         "url": "https://open.spotify.com/album/1IAIUlBnxOP6FcxEDdW4kL"
       },
@@ -519,6 +535,22 @@
     {
       "added_at": "2022-05-20 11:08:57",
       "album": {
+        "name": "Isolation Tapes",
+        "url": "https://open.spotify.com/album/3DB2RnzDwpcwQdXij6vLWI"
+      },
+      "artists": [
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        }
+      ],
+      "duration_ms": 210226,
+      "name": "BRB",
+      "url": "https://open.spotify.com/track/1KN2z32nlbkmh0I8XXlNWD"
+    },
+    {
+      "added_at": "2022-05-20 11:08:57",
+      "album": {
         "name": "Killing Me",
         "url": "https://open.spotify.com/album/0llJLK7uiCfzaEJrN38ftl"
       },
@@ -535,22 +567,6 @@
       "duration_ms": 205784,
       "name": "Killing Me",
       "url": "https://open.spotify.com/track/7B76OJ0ExVlSkDh1xelvRl"
-    },
-    {
-      "added_at": "2022-05-20 11:08:57",
-      "album": {
-        "name": "Isolation Tapes",
-        "url": "https://open.spotify.com/album/3DB2RnzDwpcwQdXij6vLWI"
-      },
-      "artists": [
-        {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
-        }
-      ],
-      "duration_ms": 210226,
-      "name": "BRB",
-      "url": "https://open.spotify.com/track/1KN2z32nlbkmh0I8XXlNWD"
     },
     {
       "added_at": "2022-05-20 11:08:57",
@@ -583,22 +599,6 @@
       "duration_ms": 176706,
       "name": "Enough",
       "url": "https://open.spotify.com/track/1CQlDfBet6ji4BT8EkrvY6"
-    },
-    {
-      "added_at": "2022-05-20 11:08:57",
-      "album": {
-        "name": "L.A.B III",
-        "url": "https://open.spotify.com/album/6S2Wk7gzCsJzfArpNgPbHh"
-      },
-      "artists": [
-        {
-          "name": "L.A.B.",
-          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
-        }
-      ],
-      "duration_ms": 252680,
-      "name": "In the Air",
-      "url": "https://open.spotify.com/track/6r88rMGtfNgC0SJEytTA7c"
     },
     {
       "added_at": "2022-05-20 11:08:57",
@@ -691,6 +691,22 @@
     {
       "added_at": "2022-05-20 11:08:57",
       "album": {
+        "name": "L.A.B IV",
+        "url": "https://open.spotify.com/album/15CViSIGJXmn2dn0Tt1wm1"
+      },
+      "artists": [
+        {
+          "name": "L.A.B.",
+          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
+        }
+      ],
+      "duration_ms": 310760,
+      "name": "Yes I Do",
+      "url": "https://open.spotify.com/track/1Cda2BAeOs8r6X7ptFPkW2"
+    },
+    {
+      "added_at": "2022-05-20 11:08:57",
+      "album": {
         "name": "Moral",
         "url": "https://open.spotify.com/album/2L2ncr9AyJlL3hE6TWenlb"
       },
@@ -707,22 +723,6 @@
     {
       "added_at": "2022-05-20 11:08:57",
       "album": {
-        "name": "Helpless",
-        "url": "https://open.spotify.com/album/1tnaGg9YXodD8TW4aSF39y"
-      },
-      "artists": [
-        {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
-        }
-      ],
-      "duration_ms": 221053,
-      "name": "Helpless",
-      "url": "https://open.spotify.com/track/7hyFz1ms1XEHbE2KqUbUQ8"
-    },
-    {
-      "added_at": "2022-05-20 11:08:57",
-      "album": {
         "name": "Thank You",
         "url": "https://open.spotify.com/album/5F8qu8ssVOXCU7Hdu7x7Jb"
       },
@@ -735,6 +735,22 @@
       "duration_ms": 204592,
       "name": "Thank You",
       "url": "https://open.spotify.com/track/2VilPVzji1pAdkmujzRenI"
+    },
+    {
+      "added_at": "2022-05-20 11:08:57",
+      "album": {
+        "name": "Helpless",
+        "url": "https://open.spotify.com/album/1tnaGg9YXodD8TW4aSF39y"
+      },
+      "artists": [
+        {
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+        }
+      ],
+      "duration_ms": 221053,
+      "name": "Helpless",
+      "url": "https://open.spotify.com/track/7hyFz1ms1XEHbE2KqUbUQ8"
     },
     {
       "added_at": "2022-05-20 11:08:57",
@@ -887,22 +903,6 @@
       "duration_ms": 282274,
       "name": "This Is The Day - Full Band Version",
       "url": "https://open.spotify.com/track/75E9k76b255fUk9iSUqkG9"
-    },
-    {
-      "added_at": "2022-05-20 11:08:57",
-      "album": {
-        "name": "L.A.B IV",
-        "url": "https://open.spotify.com/album/15CViSIGJXmn2dn0Tt1wm1"
-      },
-      "artists": [
-        {
-          "name": "L.A.B.",
-          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
-        }
-      ],
-      "duration_ms": 310760,
-      "name": "Yes I Do",
-      "url": "https://open.spotify.com/track/1Cda2BAeOs8r6X7ptFPkW2"
     },
     {
       "added_at": "2022-05-20 11:08:57",

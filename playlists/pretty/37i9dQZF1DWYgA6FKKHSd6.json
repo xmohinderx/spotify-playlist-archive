@@ -1,12 +1,12 @@
 {
   "description": "A perfect rendezvous of funk, jazz, R&B, and soul. Cover: Eric Darius",
-  "num_followers": 205425,
+  "num_followers": 205444,
   "original_name": "Sax and the City",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY5NjA2MCwwMDAwMDAwMDBlMjQ5MjY3MTRlNTY5YTVjMTM4MGM4Yjc0ZDI1ZDYz",
+  "snapshot_id": "MTY2MjY5NjA2MCwwMDAwMDAwMGRmYzEzMjc1MjExZWU2MzI2NWJmZjY5MDc5ZWUyYzM5",
   "tracks": [
     {
       "added_at": "2022-08-12 04:02:00",
@@ -931,22 +931,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "L.I.T.",
-        "url": "https://open.spotify.com/album/59i6TmB5fQ806IkSl5XyeN"
-      },
-      "artists": [
-        {
-          "name": "Riley Richard",
-          "url": "https://open.spotify.com/artist/3gYM4qdpRiNT5GRIMB5iY4"
-        }
-      ],
-      "duration_ms": 258138,
-      "name": "L.I.T.",
-      "url": "https://open.spotify.com/track/7JWyMt0OBBnPKuTGx6UNYs"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "City Beat",
         "url": "https://open.spotify.com/album/2qh5ZiEghmYBPamiTUeO2z"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 242933,
       "name": "City Beat",
       "url": "https://open.spotify.com/track/3T9bPsBqGslbXXKMcUBjMo"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "L.I.T.",
+        "url": "https://open.spotify.com/album/59i6TmB5fQ806IkSl5XyeN"
+      },
+      "artists": [
+        {
+          "name": "Riley Richard",
+          "url": "https://open.spotify.com/artist/3gYM4qdpRiNT5GRIMB5iY4"
+        }
+      ],
+      "duration_ms": 258138,
+      "name": "L.I.T.",
+      "url": "https://open.spotify.com/track/7JWyMt0OBBnPKuTGx6UNYs"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -991,6 +991,22 @@
       "duration_ms": 316377,
       "name": "Lovesong",
       "url": "https://open.spotify.com/track/0tWkzUTlC82KsJpfJ7oC2d"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Shades",
+        "url": "https://open.spotify.com/album/3SpvwBiPeTbAddFLA46ry7"
+      },
+      "artists": [
+        {
+          "name": "LeBron",
+          "url": "https://open.spotify.com/artist/5xKKWBUG5WC7q5ru3a37q0"
+        }
+      ],
+      "duration_ms": 248071,
+      "name": "Kiss and Tell",
+      "url": "https://open.spotify.com/track/0aEsunPp77rq2mEHvF5zUD"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1043,22 +1059,6 @@
       "duration_ms": 284093,
       "name": "City Vibe",
       "url": "https://open.spotify.com/track/79x2Lkq33VN2rQdrs9i6h6"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
-        "name": "Shades",
-        "url": "https://open.spotify.com/album/3SpvwBiPeTbAddFLA46ry7"
-      },
-      "artists": [
-        {
-          "name": "LeBron",
-          "url": "https://open.spotify.com/artist/5xKKWBUG5WC7q5ru3a37q0"
-        }
-      ],
-      "duration_ms": 248071,
-      "name": "Kiss and Tell",
-      "url": "https://open.spotify.com/track/0aEsunPp77rq2mEHvF5zUD"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1133,6 +1133,22 @@
       "url": "https://open.spotify.com/track/7mDJQJu8HAyeALcGNNWZ9x"
     },
     {
+      "added_at": "2021-10-01 04:02:00",
+      "album": {
+        "name": "The Goddess",
+        "url": "https://open.spotify.com/album/0cTkdfXKNIzFDW6uRs5xMO"
+      },
+      "artists": [
+        {
+          "name": "Will Donato",
+          "url": "https://open.spotify.com/artist/0m8061Uhsuwz9fv6AJGOs9"
+        }
+      ],
+      "duration_ms": 246458,
+      "name": "The Goddess",
+      "url": "https://open.spotify.com/track/30gMOvwtvkEpSDyQmEKdN2"
+    },
+    {
       "added_at": "2021-07-12 18:09:21",
       "album": {
         "name": "Main Street Beat",
@@ -1149,20 +1165,20 @@
       "url": "https://open.spotify.com/track/4d0TZ8gt6iAShHB7Y9nRM2"
     },
     {
-      "added_at": "2021-10-01 04:02:00",
+      "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "The Goddess",
-        "url": "https://open.spotify.com/album/0cTkdfXKNIzFDW6uRs5xMO"
+        "name": "Undeniable",
+        "url": "https://open.spotify.com/album/12rCQKDKu8QCRfXa87uP8G"
       },
       "artists": [
         {
-          "name": "Will Donato",
-          "url": "https://open.spotify.com/artist/0m8061Uhsuwz9fv6AJGOs9"
+          "name": "LeBron",
+          "url": "https://open.spotify.com/artist/5xKKWBUG5WC7q5ru3a37q0"
         }
       ],
-      "duration_ms": 246458,
-      "name": "The Goddess",
-      "url": "https://open.spotify.com/track/30gMOvwtvkEpSDyQmEKdN2"
+      "duration_ms": 258275,
+      "name": "Issa Party",
+      "url": "https://open.spotify.com/track/7JYY97wmXOk5U779v8abHL"
     },
     {
       "added_at": "2021-08-13 04:01:00",
@@ -1211,22 +1227,6 @@
       "duration_ms": 296475,
       "name": "Got To Be Real",
       "url": "https://open.spotify.com/track/7KHGWMvaCKv0kIZ5RmM0ts"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
-        "name": "Undeniable",
-        "url": "https://open.spotify.com/album/12rCQKDKu8QCRfXa87uP8G"
-      },
-      "artists": [
-        {
-          "name": "LeBron",
-          "url": "https://open.spotify.com/artist/5xKKWBUG5WC7q5ru3a37q0"
-        }
-      ],
-      "duration_ms": 258275,
-      "name": "Issa Party",
-      "url": "https://open.spotify.com/track/7JYY97wmXOk5U779v8abHL"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1305,22 +1305,6 @@
       "url": "https://open.spotify.com/track/6XqIJu5pvnmk2hYjne89E9"
     },
     {
-      "added_at": "2021-07-12 18:23:33",
-      "album": {
-        "name": "Undeniable",
-        "url": "https://open.spotify.com/album/12rCQKDKu8QCRfXa87uP8G"
-      },
-      "artists": [
-        {
-          "name": "LeBron",
-          "url": "https://open.spotify.com/artist/5xKKWBUG5WC7q5ru3a37q0"
-        }
-      ],
-      "duration_ms": 261401,
-      "name": "Green Light",
-      "url": "https://open.spotify.com/track/4M7bB1Bx82oR4GIY1HntRn"
-    },
-    {
       "added_at": "2021-07-12 18:09:21",
       "album": {
         "name": "Summer Feelin'",
@@ -1357,6 +1341,22 @@
       "url": "https://open.spotify.com/track/0Cul7Nx1V0E1bPkuajTr4m"
     },
     {
+      "added_at": "2021-07-12 18:23:33",
+      "album": {
+        "name": "Undeniable",
+        "url": "https://open.spotify.com/album/12rCQKDKu8QCRfXa87uP8G"
+      },
+      "artists": [
+        {
+          "name": "LeBron",
+          "url": "https://open.spotify.com/artist/5xKKWBUG5WC7q5ru3a37q0"
+        }
+      ],
+      "duration_ms": 261401,
+      "name": "Green Light",
+      "url": "https://open.spotify.com/track/4M7bB1Bx82oR4GIY1HntRn"
+    },
+    {
       "added_at": "2021-07-12 18:09:21",
       "album": {
         "name": "Gratitude",
@@ -1371,86 +1371,6 @@
       "duration_ms": 258453,
       "name": "Soho",
       "url": "https://open.spotify.com/track/5D3zhloazy4TDWxClQAkIo"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
-        "name": "Soul Ties",
-        "url": "https://open.spotify.com/album/5Qe5J6bW0EyChzBZwg7Zve"
-      },
-      "artists": [
-        {
-          "name": "Patrick Lamb",
-          "url": "https://open.spotify.com/artist/3qR6sqXnnwZm3tLed2CO35"
-        }
-      ],
-      "duration_ms": 267272,
-      "name": "Tailgate",
-      "url": "https://open.spotify.com/track/60BTc4nKmy4zpHu9h93NQe"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
-        "name": "Pulling Off The Covers",
-        "url": "https://open.spotify.com/album/1cl7i0OKKnt75YYUmpiwN4"
-      },
-      "artists": [
-        {
-          "name": "Mike Phillips",
-          "url": "https://open.spotify.com/artist/7qvPuqxswjsFxbsDUfaNGb"
-        }
-      ],
-      "duration_ms": 248880,
-      "name": "Setembro",
-      "url": "https://open.spotify.com/track/1bZuzZgY4M6wLNs1aFWlS9"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
-        "name": "Pride And Joy",
-        "url": "https://open.spotify.com/album/31yg17GTD9YNJBIcqUKkXB"
-      },
-      "artists": [
-        {
-          "name": "Phillip Doc Martin",
-          "url": "https://open.spotify.com/artist/2r341qO070AaoAowhAOQhp"
-        }
-      ],
-      "duration_ms": 248146,
-      "name": "American Garden",
-      "url": "https://open.spotify.com/track/7i2LhxMAk8Ih3VBkEARiVr"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
-        "name": "Just Like Heaven",
-        "url": "https://open.spotify.com/album/27QgcbudLKhaNn7L2J4Ii6"
-      },
-      "artists": [
-        {
-          "name": "Antonio Jackson",
-          "url": "https://open.spotify.com/artist/3Bo6RdhCfAL72XyuTw4Bx5"
-        }
-      ],
-      "duration_ms": 347066,
-      "name": "Just Like Heaven",
-      "url": "https://open.spotify.com/track/1OhVVFCQ7jRfgHC89GA0cy"
-    },
-    {
-      "added_at": "2022-08-12 04:02:00",
-      "album": {
-        "name": "Nothing Ever Hurt Like You (Smooth Summer Soul Mix)",
-        "url": "https://open.spotify.com/album/1SqfQP57uSElTr0IhCAZLe"
-      },
-      "artists": [
-        {
-          "name": "Mindi Abair",
-          "url": "https://open.spotify.com/artist/4NpYuUHLxUMcGSzuYxv3W4"
-        }
-      ],
-      "duration_ms": 250894,
-      "name": "Nothing Ever Hurt Like You - Smooth Summer Soul Mix",
-      "url": "https://open.spotify.com/track/0H98E4Y8MnrfrrcBgk5yIZ"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1471,8 +1391,24 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "M.P.3",
-        "url": "https://open.spotify.com/album/5dHIYzhFckBVCZO7FTA5VN"
+        "name": "Pride And Joy",
+        "url": "https://open.spotify.com/album/31yg17GTD9YNJBIcqUKkXB"
+      },
+      "artists": [
+        {
+          "name": "Phillip Doc Martin",
+          "url": "https://open.spotify.com/artist/2r341qO070AaoAowhAOQhp"
+        }
+      ],
+      "duration_ms": 248146,
+      "name": "American Garden",
+      "url": "https://open.spotify.com/track/7i2LhxMAk8Ih3VBkEARiVr"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Pulling Off The Covers",
+        "url": "https://open.spotify.com/album/1cl7i0OKKnt75YYUmpiwN4"
       },
       "artists": [
         {
@@ -1480,9 +1416,25 @@
           "url": "https://open.spotify.com/artist/7qvPuqxswjsFxbsDUfaNGb"
         }
       ],
-      "duration_ms": 199573,
-      "name": "Gonna' Miss You",
-      "url": "https://open.spotify.com/track/4TCscGfdcw4qamFgbtwBpA"
+      "duration_ms": 248880,
+      "name": "Setembro",
+      "url": "https://open.spotify.com/track/1bZuzZgY4M6wLNs1aFWlS9"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Just Like Heaven",
+        "url": "https://open.spotify.com/album/27QgcbudLKhaNn7L2J4Ii6"
+      },
+      "artists": [
+        {
+          "name": "Antonio Jackson",
+          "url": "https://open.spotify.com/artist/3Bo6RdhCfAL72XyuTw4Bx5"
+        }
+      ],
+      "duration_ms": 347066,
+      "name": "Just Like Heaven",
+      "url": "https://open.spotify.com/track/1OhVVFCQ7jRfgHC89GA0cy"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1499,6 +1451,38 @@
       "duration_ms": 263106,
       "name": "A-Game",
       "url": "https://open.spotify.com/track/16SqVat33WWYI4ebWf2iJq"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Soul Ties",
+        "url": "https://open.spotify.com/album/5Qe5J6bW0EyChzBZwg7Zve"
+      },
+      "artists": [
+        {
+          "name": "Patrick Lamb",
+          "url": "https://open.spotify.com/artist/3qR6sqXnnwZm3tLed2CO35"
+        }
+      ],
+      "duration_ms": 267272,
+      "name": "Tailgate",
+      "url": "https://open.spotify.com/track/60BTc4nKmy4zpHu9h93NQe"
+    },
+    {
+      "added_at": "2022-08-12 04:02:00",
+      "album": {
+        "name": "Nothing Ever Hurt Like You (Smooth Summer Soul Mix)",
+        "url": "https://open.spotify.com/album/1SqfQP57uSElTr0IhCAZLe"
+      },
+      "artists": [
+        {
+          "name": "Mindi Abair",
+          "url": "https://open.spotify.com/artist/4NpYuUHLxUMcGSzuYxv3W4"
+        }
+      ],
+      "duration_ms": 250894,
+      "name": "Nothing Ever Hurt Like You - Smooth Summer Soul Mix",
+      "url": "https://open.spotify.com/track/0H98E4Y8MnrfrrcBgk5yIZ"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1539,6 +1523,22 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
+        "name": "M.P.3",
+        "url": "https://open.spotify.com/album/5dHIYzhFckBVCZO7FTA5VN"
+      },
+      "artists": [
+        {
+          "name": "Mike Phillips",
+          "url": "https://open.spotify.com/artist/7qvPuqxswjsFxbsDUfaNGb"
+        }
+      ],
+      "duration_ms": 199573,
+      "name": "Gonna' Miss You",
+      "url": "https://open.spotify.com/track/4TCscGfdcw4qamFgbtwBpA"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
         "name": "Another Time",
         "url": "https://open.spotify.com/album/5htfJv2trzXFqmKIeEJyuM"
       },
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Main Street Beat",
-        "url": "https://open.spotify.com/album/0lLrGjwlJgeXhy3W1Z4v1N"
-      },
-      "artists": [
-        {
-          "name": "Jackiem Joyner",
-          "url": "https://open.spotify.com/artist/7v8LpmcY0BFVhJCispRDgg"
-        }
-      ],
-      "duration_ms": 241195,
-      "name": "When You Smile",
-      "url": "https://open.spotify.com/track/013ax5zW6vprMR4n5C8soU"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "Can You Feel It",
         "url": "https://open.spotify.com/album/3U0Sga1ARwm8WajY9Y2eJh"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 243986,
       "name": "Can You Feel It",
       "url": "https://open.spotify.com/track/2KBRV7S5JLe2elIN7y1DaC"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Main Street Beat",
+        "url": "https://open.spotify.com/album/0lLrGjwlJgeXhy3W1Z4v1N"
+      },
+      "artists": [
+        {
+          "name": "Jackiem Joyner",
+          "url": "https://open.spotify.com/artist/7v8LpmcY0BFVhJCispRDgg"
+        }
+      ],
+      "duration_ms": 241195,
+      "name": "When You Smile",
+      "url": "https://open.spotify.com/track/013ax5zW6vprMR4n5C8soU"
     },
     {
       "added_at": "2022-08-12 04:02:00",

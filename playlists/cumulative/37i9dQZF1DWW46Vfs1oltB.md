@@ -4,7 +4,7 @@
 
 > The hottest & new Korean hip hop music is here\. OWN the crown with KR hip hop music\. \(Cover: pH\-1\) \(전세계에서 사랑받는 한국 힙합 히트 & 신곡을 만나보세요\. \(커버: pH\-1\)
 
-605 songs - 1 day 9 hr 59 min - [published](https://open.spotify.com/playlist/6eQCLyN2pb2xMxhClGC7H2)
+609 songs - 1 day 9 hr 59 min - [published](https://open.spotify.com/playlist/6eQCLyN2pb2xMxhClGC7H2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -293,7 +293,11 @@
 | [Korea Bank \(Feat\. YDG\)](https://open.spotify.com/track/4fHUAvyszdqZ8PbjrZuXsN) | [ZIZO](https://open.spotify.com/artist/3hEJREUS7yu89cUN0D13Sx), [YDG](https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi) | [CAMPFIRE](https://open.spotify.com/album/3n4CuFapVKZHPaOJy9QOVp) | 3:18 | 2022-07-19 |  |
 | [KrOWN \- Choiza of Dynamic Duo](https://open.spotify.com/track/74KUxRJj4MnfEA0HYniXI0) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4) | [KrOWN Audio liner](https://open.spotify.com/album/44DLxr4LasHqoLxlYQdyRF) | 0:04 | 2022-09-05 |  |
 | [KrOWN \- Gaeko of Dynamic Duo](https://open.spotify.com/track/07WKwqwNf51FnsJdDNkKtV) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4) | [KrOWN Audio liner](https://open.spotify.com/album/44DLxr4LasHqoLxlYQdyRF) | 0:03 | 2022-09-05 |  |
+| [KrOWN\_Coogie](https://open.spotify.com/track/1o73PCNhaz5VhjNxnrBzef) | [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja) | [KrOWN Audio liner](https://open.spotify.com/album/4PeZZanfBretefNw6BAbvn) | 0:01 | 2022-09-21 |  |
+| [KrOWN\_Loco](https://open.spotify.com/track/6Cr1s8zC8DoK3dg9lRwDKE) | [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja) | [KrOWN Audio liner](https://open.spotify.com/album/4PeZZanfBretefNw6BAbvn) | 0:01 | 2022-09-21 |  |
 | [KrOWN\_pH\-1](https://open.spotify.com/track/2bBzD97St8k4eZnyqc3lrT) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [KrOWN Audio liner](https://open.spotify.com/album/6u7MpErvD0bXspFMTI1hMz) | 0:02 | 2022-09-16 |  |
+| [KrOWN\_Simon Dominicc](https://open.spotify.com/track/3Gi9wz0A1aM0AOLYBEoASw) | [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja) | [KrOWN Audio liner](https://open.spotify.com/album/4PeZZanfBretefNw6BAbvn) | 0:01 | 2022-09-21 |  |
+| [KrOWN\_Woo](https://open.spotify.com/track/49q1mh2OLnGL9mXpzxq41X) | [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja) | [KrOWN Audio liner](https://open.spotify.com/album/4PeZZanfBretefNw6BAbvn) | 0:01 | 2022-09-21 |  |
 | [LALISA](https://open.spotify.com/track/10BfqdiV5PhV1UYsMEyou1) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/0IL9eNM4gfkmTqdwiJy63d) | 3:20 | 2021-12-18 | 2022-07-01 |
 | [last day](https://open.spotify.com/track/0ICkuRd0qNZDZY82kGhs89) | [Royal 44](https://open.spotify.com/artist/6I5eyZiVUpuPwE8mTXp7hC) | [Unwanted Life](https://open.spotify.com/album/3PUy3iSMoPWXNLezd6bi3r) | 2:09 | 2022-09-03 |  |
 | [Last Station](https://open.spotify.com/track/4hSJ41LErRVq3UByyJu6lW) | [TAKEWON](https://open.spotify.com/artist/31jg46rtB7MyrVPXZATmsa) | [Last Station](https://open.spotify.com/album/0Q3MzlQ3NgqOjtS6zmZGe4) | 7:26 | 2022-03-26 | 2022-06-28 |

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo naco es chido, y que viva el rocanroool! Foto: Botellita de Jerez",
-  "num_followers": 117824,
+  "num_followers": 117891,
   "original_name": "Rock Urbano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Njk3MTk4MiwwMDAwMDAwMDYwYjg1NjY1NWU1MDE5MTM5NWFmYjY1OTFlZGUwMDMz",
+  "snapshot_id": "MTY0Njk3MTk4MiwwMDAwMDAwMGI4YTQ1MjIyNWQ0MjVmNDg1NGI3NWYxNjgwNmM3MDU1",
   "tracks": [
     {
       "added_at": "2020-11-13 06:01:00",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2020-11-13 06:01:00",
       "album": {
-        "name": "15 \u00c9xitos",
-        "url": "https://open.spotify.com/album/75qmnaAXlMCRlgG4ydpsbV"
-      },
-      "artists": [
-        {
-          "name": "Banda Bostik",
-          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
-        }
-      ],
-      "duration_ms": 248346,
-      "name": "Dios Salve a las Bandas",
-      "url": "https://open.spotify.com/track/5pTIKSSckGFcPqsptMd6SA"
-    },
-    {
-      "added_at": "2020-11-13 06:01:00",
-      "album": {
         "name": "Los Versos de la Catrina",
         "url": "https://open.spotify.com/album/6OZIPpGkC15B2VSaQ8iqJ7"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 247453,
       "name": "Los Versos de la Catrina",
       "url": "https://open.spotify.com/track/2vrAYVaAM7VuEyhA0xgmT7"
+    },
+    {
+      "added_at": "2020-11-13 06:01:00",
+      "album": {
+        "name": "15 \u00c9xitos",
+        "url": "https://open.spotify.com/album/75qmnaAXlMCRlgG4ydpsbV"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "duration_ms": 248346,
+      "name": "Dios Salve a las Bandas",
+      "url": "https://open.spotify.com/track/5pTIKSSckGFcPqsptMd6SA"
     },
     {
       "added_at": "2020-11-13 06:01:00",

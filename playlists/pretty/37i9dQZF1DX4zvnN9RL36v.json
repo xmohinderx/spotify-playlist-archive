@@ -1,12 +1,12 @@
 {
   "description": "\ub0b4 \ub9c8\uc74c\uc744 \ub178\ub7ab\ub9d0\uc774 \uc54c\uc544\uc904 \ub54c.",
-  "num_followers": 2705,
+  "num_followers": 2711,
   "original_name": "\ub098 \ud63c\uc790 \uc88b\uc544\ud574",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDgzMjczMiwwMDAwMDAwMDk4ZTZjOTlkOWFkZDIyZDk3YzgwNzg4ZjY2NDFmYTI2",
+  "snapshot_id": "MTY2MDgzMjczMiwwMDAwMDAwMDYwODVmMGQ5MjczNDEwMGU3OGFjN2U1NjcxZWUyZWJl",
   "tracks": [
     {
       "added_at": "2022-08-18 14:25:32",
@@ -383,22 +383,6 @@
     {
       "added_at": "2022-08-18 14:25:32",
       "album": {
-        "name": "Sad",
-        "url": "https://open.spotify.com/album/0zUSlyzOMtllEdGzQXQHex"
-      },
-      "artists": [
-        {
-          "name": "\uc720\ubbf8 Youme",
-          "url": "https://open.spotify.com/artist/4y8PoupChBX11WsE6lUy3C"
-        }
-      ],
-      "duration_ms": 270880,
-      "name": "\uc0ac\ub791\uc740 \uc5b8\uc81c\ub098 \ubaa9 \ub9c8\ub974\ub2e4 Love Is Always Thirsty",
-      "url": "https://open.spotify.com/track/3DfZJ4RowfA7OjSIQYSDoI"
-    },
-    {
-      "added_at": "2022-08-18 14:25:32",
-      "album": {
         "name": "\ub9e4\ub4dc\ub3c5 (Original Television Soundtrack) Pt. 1",
         "url": "https://open.spotify.com/album/4yaskZdmtLHYLUirCrCimM"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 189905,
       "name": "\ud574\uac00 \uc9c0\uae30 \uc804\uc5d0",
       "url": "https://open.spotify.com/track/7uEBXvioZbOXQx2lMN20F4"
+    },
+    {
+      "added_at": "2022-08-18 14:25:32",
+      "album": {
+        "name": "Sad",
+        "url": "https://open.spotify.com/album/0zUSlyzOMtllEdGzQXQHex"
+      },
+      "artists": [
+        {
+          "name": "\uc720\ubbf8 Youme",
+          "url": "https://open.spotify.com/artist/4y8PoupChBX11WsE6lUy3C"
+        }
+      ],
+      "duration_ms": 270880,
+      "name": "\uc0ac\ub791\uc740 \uc5b8\uc81c\ub098 \ubaa9 \ub9c8\ub974\ub2e4 Love Is Always Thirsty",
+      "url": "https://open.spotify.com/track/3DfZJ4RowfA7OjSIQYSDoI"
     },
     {
       "added_at": "2022-08-18 14:25:32",
@@ -747,6 +747,22 @@
     {
       "added_at": "2022-08-18 14:25:32",
       "album": {
+        "name": "Afraid To Say I Love You",
+        "url": "https://open.spotify.com/album/3W0HGM1NBblqIrhMMLoiDx"
+      },
+      "artists": [
+        {
+          "name": "THE ADE",
+          "url": "https://open.spotify.com/artist/60ftnqC2sZGUXDqElMPvTy"
+        }
+      ],
+      "duration_ms": 205797,
+      "name": "Afraid To Say I Love You",
+      "url": "https://open.spotify.com/track/5q3q7ZIRq7EoCK3kpsfRpz"
+    },
+    {
+      "added_at": "2022-08-18 14:25:32",
+      "album": {
         "name": "Subtitle",
         "url": "https://open.spotify.com/album/3b7lh3a4DfFxPCCKm7baGT"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 247496,
       "name": "Sooni (I'm your fanatic girl)",
       "url": "https://open.spotify.com/track/0l9jBZWCFyKdYVVYrzzTMR"
-    },
-    {
-      "added_at": "2022-08-18 14:25:32",
-      "album": {
-        "name": "Afraid To Say I Love You",
-        "url": "https://open.spotify.com/album/3W0HGM1NBblqIrhMMLoiDx"
-      },
-      "artists": [
-        {
-          "name": "THE ADE",
-          "url": "https://open.spotify.com/artist/60ftnqC2sZGUXDqElMPvTy"
-        }
-      ],
-      "duration_ms": 205797,
-      "name": "Afraid To Say I Love You",
-      "url": "https://open.spotify.com/track/5q3q7ZIRq7EoCK3kpsfRpz"
     },
     {
       "added_at": "2022-08-18 14:25:32",

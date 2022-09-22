@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 
 > The best drill, trap and genre bending rap from Australia and NZ\. Cover: Dau Dau
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,445 likes - 100 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,478 likes - 100 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 | 44 | [Tracy Grimshaw](https://open.spotify.com/track/3dMGnKVcJVBa7CxXSp8Yya) | [Mulalo](https://open.spotify.com/artist/5gUm9HBoHkyMtwmPyDJfNn) | [Tracy Grimshaw](https://open.spotify.com/album/5X32vW9f2LmO5Akf20fXC3) | 2:42 |
 | 45 | [Make Money Not Friends](https://open.spotify.com/track/5F152wL6HnVIyr0UWvKh5v) | [Hooligan Hefs](https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I) | [Make Money Not Friends](https://open.spotify.com/album/74vJth8gmNpP0eGJLYWiZX) | 2:56 |
 | 46 | [How We Do](https://open.spotify.com/track/4Lgyz8dAccl7hmoo90Ba6R) | [Namis](https://open.spotify.com/artist/5XLVCHrSeW33AaabzBf8rH) | [How We Do](https://open.spotify.com/album/2TGIlnlEE3lLwXidVhsDgU) | 3:22 |
-| 47 | [Failure](https://open.spotify.com/track/1ajy7aofsnxnHc4s0KYj2u) | [MLBRN](https://open.spotify.com/artist/7ihFSoNSgZOARN8pLr6g5L) | [Failure](https://open.spotify.com/album/3cORMrzss2nGIqLy8L8Kyi) | 3:41 |
+| 47 | [Failure](https://open.spotify.com/track/405xu818MRM5KnOj0bMxef) | [MLBRN](https://open.spotify.com/artist/7ihFSoNSgZOARN8pLr6g5L) | [Failure](https://open.spotify.com/album/62MeNgkwj9lBXfdB4S9HOP) | 3:41 |
 | 48 | [LIKE THIS \(feat\. Nokz78\)](https://open.spotify.com/track/7K40BghEHMUOafChZ4VMbA) | [Lisi](https://open.spotify.com/artist/01Gj5Tpdz9igIh1uqH8bvu), [Nokz78](https://open.spotify.com/artist/4YpUneet1k2jaCfvCfUnZy) | [LIKE THIS \(feat\. Nokz78\)](https://open.spotify.com/album/45iTDyvvg5fhoyxxFTtXI6) | 3:45 |
 | 49 | [NO BONNIE N CLYDE](https://open.spotify.com/track/31EJY5zvDJhQdfXc7g4V7T) | [KAHUKX](https://open.spotify.com/artist/3OkbxDtag6zvVnAaa9YLLC) | [NO BONNIE N CLYDE](https://open.spotify.com/album/5E1DYCj30VW0PshMibXmFm) | 2:13 |
 | 50 | [Up The Score](https://open.spotify.com/track/3ny6FNv232uXYHEEKyZjxp) | [Ay Huncho](https://open.spotify.com/artist/3HKD4MjCgkSrWjhebSa1Np) | [Up The Score](https://open.spotify.com/album/5yz40HuTFLi3n5eg2FiQKi) | 2:04 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 | 99 | [MHMM](https://open.spotify.com/track/53vnp4yNfgLRjT1jfcukkq) | [Shely210](https://open.spotify.com/artist/6utJwWy5PZjCM2qYgKQKAK), [Vinny](https://open.spotify.com/artist/6WCaEpEZmlapvnhfIdTxMN) | [Stack or Starve](https://open.spotify.com/album/1EJAt0Q2dC719lyBugb3gv) | 3:17 |
 | 100 | [Off White](https://open.spotify.com/track/1j7ntIx1zKXoGVut6spbsc) | [Mr 36](https://open.spotify.com/artist/78S1fyGAquKczs4mgsedCm), [Showy](https://open.spotify.com/artist/1a1K3c2B861WQNuBJIZv1M) | [Off White](https://open.spotify.com/album/4Coyd4IaAxORvHKL1hE3jO) | 3:05 |
 
-Snapshot ID: `MTY2MzI5OTgxOSwwMDAwMDAwMDM4OWM3YWE5NGM2OTM3ZjQ2ZWVjNmMxNjVhYjI4N2Y2`
+Snapshot ID: `MTY2MzI5OTgxOSwwMDAwMDAwMGMyY2I2N2UxZmI5ZDgzMGFlNmQyYTU5Njc0NzkzMzQ0`

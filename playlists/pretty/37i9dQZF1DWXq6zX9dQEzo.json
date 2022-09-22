@@ -1,12 +1,12 @@
 {
   "description": "Let the blessings come down and the weights go up.  Get your beast mode on!",
-  "num_followers": 66743,
+  "num_followers": 67048,
   "original_name": "Beast Mode Christian",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjE2NzM4MCwwMDAwMDAwMDdiYjllNTk5MGI1NjFhNTYzMTMyMGZmZjljYjA5YzZk",
+  "snapshot_id": "MTY2MjE2NzM4MCwwMDAwMDAwMGRjN2Q0Nzk3NDE3NzQzOGE0NTU3ZTgyMjM4ZWUzNjYz",
   "tracks": [
     {
       "added_at": "2022-09-03 01:09:40",
@@ -1707,6 +1707,22 @@
     {
       "added_at": "2022-09-03 01:09:40",
       "album": {
+        "name": "Pray 2 God",
+        "url": "https://open.spotify.com/album/5Wl3TpMmeWfY47wOWdbaec"
+      },
+      "artists": [
+        {
+          "name": "2'Live Bre",
+          "url": "https://open.spotify.com/artist/5dmGhAaINwsrzTyzQbDg0F"
+        }
+      ],
+      "duration_ms": 156781,
+      "name": "Pray 2 God",
+      "url": "https://open.spotify.com/track/5fKmS8idOTmtI3x9hWbHhk"
+    },
+    {
+      "added_at": "2022-09-03 01:09:40",
+      "album": {
         "name": "Tree",
         "url": "https://open.spotify.com/album/54wHmXPZMHh54mWa1cHHgY"
       },
@@ -1727,22 +1743,6 @@
       "duration_ms": 242564,
       "name": "Red Light Green Light",
       "url": "https://open.spotify.com/track/7vhLO7AIWYlMjLk2aAED7x"
-    },
-    {
-      "added_at": "2022-09-03 01:09:40",
-      "album": {
-        "name": "Pray 2 God",
-        "url": "https://open.spotify.com/album/5Wl3TpMmeWfY47wOWdbaec"
-      },
-      "artists": [
-        {
-          "name": "2'Live Bre",
-          "url": "https://open.spotify.com/artist/5dmGhAaINwsrzTyzQbDg0F"
-        }
-      ],
-      "duration_ms": 156781,
-      "name": "Pray 2 God",
-      "url": "https://open.spotify.com/track/5fKmS8idOTmtI3x9hWbHhk"
     },
     {
       "added_at": "2022-09-03 01:09:40",
@@ -1879,26 +1879,6 @@
     {
       "added_at": "2022-09-03 01:09:40",
       "album": {
-        "name": "Ain't Playin'",
-        "url": "https://open.spotify.com/album/5yvJGix8i4vEc74cJcaS9H"
-      },
-      "artists": [
-        {
-          "name": "Steven Malcolm",
-          "url": "https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8"
-        },
-        {
-          "name": "Social Club Misfits",
-          "url": "https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL"
-        }
-      ],
-      "duration_ms": 223790,
-      "name": "Ain't Playin'",
-      "url": "https://open.spotify.com/track/6eGe69PKFWB7AQae8XGeOn"
-    },
-    {
-      "added_at": "2022-09-03 01:09:40",
-      "album": {
         "name": "Come Home (Warehouse Mix)",
         "url": "https://open.spotify.com/album/7IOOypsrURtKrlmhSFWMxr"
       },
@@ -1931,6 +1911,26 @@
       "duration_ms": 197300,
       "name": "Stuck Inside My Head - Single Mix",
       "url": "https://open.spotify.com/track/4G4IZFfD1gyUCYDt8MKccy"
+    },
+    {
+      "added_at": "2022-09-03 01:09:40",
+      "album": {
+        "name": "Ain't Playin'",
+        "url": "https://open.spotify.com/album/5yvJGix8i4vEc74cJcaS9H"
+      },
+      "artists": [
+        {
+          "name": "Steven Malcolm",
+          "url": "https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8"
+        },
+        {
+          "name": "Social Club Misfits",
+          "url": "https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL"
+        }
+      ],
+      "duration_ms": 223790,
+      "name": "Ain't Playin'",
+      "url": "https://open.spotify.com/track/6eGe69PKFWB7AQae8XGeOn"
     },
     {
       "added_at": "2022-09-03 01:09:40",

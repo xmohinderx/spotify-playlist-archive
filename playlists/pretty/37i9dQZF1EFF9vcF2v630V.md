@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF9vcF2v630V.md) - [plain]
 | 49 | [Liverpool](https://open.spotify.com/track/1OFKUwul0KnJA4v4em3rso) | [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [The End Of The Storm \(Official Soundtrack\)](https://open.spotify.com/album/1WmdszaBk5ksWMRLar99TC) | 3:39 |
 | 50 | [Playground](https://open.spotify.com/track/4XOt0iwNTXhIRY7pEwCrkx) | [Alexa Curtis](https://open.spotify.com/artist/3LT9ZwcBwm9dNIXnReLknF) | [Playground](https://open.spotify.com/album/2TQrRtp7JxUtRun0Z5U3Z9) | 3:59 |
 | 51 | [Vabank](https://open.spotify.com/track/7mlveqBsHCR5a9SEDVo7lS) | [Honorata Skarbek](https://open.spotify.com/artist/05Fgqq7GfWeNol1TR5H3og) | [Puzzle](https://open.spotify.com/album/1Vdso29GjI3NKulPRhGSeX) | 3:33 |
-| 52 | [ALL MY PEOPLE \- 中文版](https://open.spotify.com/track/5QzzgDutL6lCfL8r9oB6NL) | [许馨文](https://open.spotify.com/artist/0Jvi0y59ruUoFx588uY6SV) | [ALL MY PEOPLE](https://open.spotify.com/album/5horZvhbK2RHcYZayVHpe3) | 3:46 |
-| 53 | [Cloud 9](https://open.spotify.com/track/0ijO1PJmUZ3xyQCJoPiL2f) | [Sophia Saffarian](https://open.spotify.com/artist/3OYpczYjEISLcctUwoRWM3) | [Cloud 9](https://open.spotify.com/album/6ZeBIX2GhNkmYH57rwrzZa) | 3:04 |
+| 52 | [Cloud 9](https://open.spotify.com/track/0ijO1PJmUZ3xyQCJoPiL2f) | [Sophia Saffarian](https://open.spotify.com/artist/3OYpczYjEISLcctUwoRWM3) | [Cloud 9](https://open.spotify.com/album/6ZeBIX2GhNkmYH57rwrzZa) | 3:04 |
+| 53 | [ALL MY PEOPLE \- 中文版](https://open.spotify.com/track/5QzzgDutL6lCfL8r9oB6NL) | [许馨文](https://open.spotify.com/artist/0Jvi0y59ruUoFx588uY6SV) | [ALL MY PEOPLE](https://open.spotify.com/album/5horZvhbK2RHcYZayVHpe3) | 3:46 |
 | 54 | [Cry Baby](https://open.spotify.com/track/3QQKbpLfV89Jcl33vWrIWI) | [Vize Verza](https://open.spotify.com/artist/7866WqAIb0XvXRlRPTUCir) | [Cry Baby](https://open.spotify.com/album/6IqhUb6X6WWRm2hde1MiyT) | 2:54 |
 | 55 | [Mother](https://open.spotify.com/track/4OMA1fXSOyqQKBImR51FRQ) | [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [Mother](https://open.spotify.com/album/5kpE9vygExTwtn8ppYEuRP) | 3:19 |
 | 56 | [Get Away](https://open.spotify.com/track/01dbqbILV6Xp0omwxIZFOY) | [Angel Valdueza](https://open.spotify.com/artist/3JZKtORRzaYbEpTpp3H5RK) | [Get Away](https://open.spotify.com/album/14PTHi9hgtGbIGno1Rgpv6) | 2:48 |
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF9vcF2v630V.md) - [plain]
 | 60 | [Diamonds \- Secret Bonus Track!](https://open.spotify.com/track/2AZsIgKo8s1gBdpoegvGdd) | [Grant](https://open.spotify.com/artist/1hTSQPidbmRHNVwak6jthu) | [Something To Believe In](https://open.spotify.com/album/4SJWnPQrZNpNu4hVHMIw2i) | 4:23 |
 | 61 | [Home](https://open.spotify.com/track/5nRceu5UXYgAKYPJO87DYG) | [Audio Illustrator James Newman](https://open.spotify.com/artist/7bN53jxGeZW8mOmBPZzMdd) | [This Side of the Curse](https://open.spotify.com/album/5SnaMrXmisUfKVQ3cecjtf) | 3:16 |
 
-Snapshot ID: `Mjc3Mjg3NjEsMDAwMDAwMDAyNmUyNDcyNGE4ODYwNzM0YWM4NDhhNzE1OGY5ZTkxYg==`
+Snapshot ID: `Mjc3MzAyMDAsMDAwMDAwMDAwMTkyNzljM2VkNDEzNjQ5MjdiMDgzZDk4NDNjMzM1Yg==`

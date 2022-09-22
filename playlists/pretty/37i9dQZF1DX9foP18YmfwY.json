@@ -1,12 +1,12 @@
 {
   "description": "Os padres e nomes que movem multid\u00f5es pelo pa\u00eds. Foto: Thiago Brado",
-  "num_followers": 276281,
+  "num_followers": 276343,
   "original_name": "M\u00fasica Cat\u00f3lica ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjE0MTk1MywwMDAwMDAwMDY0YjUxNDExZmIwODA3Mjc3Yzk4NjA1M2Y0NGE0NTlk",
+  "snapshot_id": "MTY2MjE0MTk1MywwMDAwMDAwMDRkY2VhMTQxYjA5YTkxYzVhZTVlZjIxYjRmZDU0OWY1",
   "tracks": [
     {
       "added_at": "2022-09-02 03:00:00",
@@ -299,18 +299,22 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
-        "name": "N\u00e3o H\u00e1 Mais Vendaval (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2I4kBEgQH9wAhuHFt4HrUv"
+        "name": "Yeshua (feat. Eliana Ribeiro)",
+        "url": "https://open.spotify.com/album/6kb2Z7f0oZtl7TDrfhTN3j"
       },
       "artists": [
         {
-          "name": "Frei Gilson",
-          "url": "https://open.spotify.com/artist/0jzTaWBcJ6h5ccHe04CcyX"
+          "name": "Padre Rodrigo Natal",
+          "url": "https://open.spotify.com/artist/0GLzzNhSoCbwsXOCADMo07"
+        },
+        {
+          "name": "Eliana Ribeiro",
+          "url": "https://open.spotify.com/artist/7ffqgUujPJ2BxcFc8BmG5y"
         }
       ],
-      "duration_ms": 429900,
-      "name": "N\u00e3o H\u00e1 Mais Vendaval - Ao Vivo",
-      "url": "https://open.spotify.com/track/2X4O74zn405JrqhifUa3dk"
+      "duration_ms": 287562,
+      "name": "Yeshua (feat. Eliana Ribeiro)",
+      "url": "https://open.spotify.com/track/2K3QKrBAZBdRdABzOmQ1TL"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -335,22 +339,18 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
-        "name": "Yeshua (feat. Eliana Ribeiro)",
-        "url": "https://open.spotify.com/album/6kb2Z7f0oZtl7TDrfhTN3j"
+        "name": "N\u00e3o H\u00e1 Mais Vendaval (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2I4kBEgQH9wAhuHFt4HrUv"
       },
       "artists": [
         {
-          "name": "Padre Rodrigo Natal",
-          "url": "https://open.spotify.com/artist/0GLzzNhSoCbwsXOCADMo07"
-        },
-        {
-          "name": "Eliana Ribeiro",
-          "url": "https://open.spotify.com/artist/7ffqgUujPJ2BxcFc8BmG5y"
+          "name": "Frei Gilson",
+          "url": "https://open.spotify.com/artist/0jzTaWBcJ6h5ccHe04CcyX"
         }
       ],
-      "duration_ms": 287562,
-      "name": "Yeshua (feat. Eliana Ribeiro)",
-      "url": "https://open.spotify.com/track/2K3QKrBAZBdRdABzOmQ1TL"
+      "duration_ms": 429900,
+      "name": "N\u00e3o H\u00e1 Mais Vendaval - Ao Vivo",
+      "url": "https://open.spotify.com/track/2X4O74zn405JrqhifUa3dk"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -487,22 +487,18 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
-        "name": "Quando o Sono Bater",
-        "url": "https://open.spotify.com/album/6LSFQr05NkEfjb2Wn8QkDF"
+        "name": "Banquete Eterno",
+        "url": "https://open.spotify.com/album/4jnSnb99zjQcs5sjakBIyp"
       },
       "artists": [
         {
-          "name": "Padre F\u00e1bio De Melo",
-          "url": "https://open.spotify.com/artist/72G62rG7kmq4GFOzyjJV4q"
-        },
-        {
-          "name": "Luan Santana",
-          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+          "name": "Comunidade Cat\u00f3lica Shalom",
+          "url": "https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin"
         }
       ],
-      "duration_ms": 267058,
-      "name": "Quando o Sono Bater",
-      "url": "https://open.spotify.com/track/0CRdkmYRg8YAQS8W9b0tPA"
+      "duration_ms": 266305,
+      "name": "Sopra em meu jardim",
+      "url": "https://open.spotify.com/track/5cPJsQ7uwWG7exIM9AvXVY"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -523,34 +519,22 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
-        "name": "Banquete Eterno",
-        "url": "https://open.spotify.com/album/4jnSnb99zjQcs5sjakBIyp"
+        "name": "Quando o Sono Bater",
+        "url": "https://open.spotify.com/album/6LSFQr05NkEfjb2Wn8QkDF"
       },
       "artists": [
         {
-          "name": "Comunidade Cat\u00f3lica Shalom",
-          "url": "https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin"
-        }
-      ],
-      "duration_ms": 266305,
-      "name": "Sopra em meu jardim",
-      "url": "https://open.spotify.com/track/5cPJsQ7uwWG7exIM9AvXVY"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
-        "name": "Vou Voltar",
-        "url": "https://open.spotify.com/album/3seDo2P6uXORZfBjokp0dd"
-      },
-      "artists": [
+          "name": "Padre F\u00e1bio De Melo",
+          "url": "https://open.spotify.com/artist/72G62rG7kmq4GFOzyjJV4q"
+        },
         {
-          "name": "Fraternidade S\u00e3o Jo\u00e3o Paulo II",
-          "url": "https://open.spotify.com/artist/3P2GN1O0yI6n84aDFOcvVt"
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
         }
       ],
-      "duration_ms": 249600,
-      "name": "Vou Voltar",
-      "url": "https://open.spotify.com/track/0V2B11QP6C8n2hGpJENE3N"
+      "duration_ms": 267058,
+      "name": "Quando o Sono Bater",
+      "url": "https://open.spotify.com/track/0CRdkmYRg8YAQS8W9b0tPA"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -587,6 +571,22 @@
       "duration_ms": 222298,
       "name": "Cora\u00e7\u00e3o de Pai",
       "url": "https://open.spotify.com/track/2VMevRdI4SH5RxktSlH97X"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
+        "name": "Vou Voltar",
+        "url": "https://open.spotify.com/album/3seDo2P6uXORZfBjokp0dd"
+      },
+      "artists": [
+        {
+          "name": "Fraternidade S\u00e3o Jo\u00e3o Paulo II",
+          "url": "https://open.spotify.com/artist/3P2GN1O0yI6n84aDFOcvVt"
+        }
+      ],
+      "duration_ms": 249600,
+      "name": "Vou Voltar",
+      "url": "https://open.spotify.com/track/0V2B11QP6C8n2hGpJENE3N"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -807,22 +807,6 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
-        "name": "Te Adorar",
-        "url": "https://open.spotify.com/album/7qAleP4Db2sgWmTM8x5O9Q"
-      },
-      "artists": [
-        {
-          "name": "Padre Anderson Gomes",
-          "url": "https://open.spotify.com/artist/7uu8kCXv4FlL0ZRJ013yw9"
-        }
-      ],
-      "duration_ms": 326208,
-      "name": "Te Adorar",
-      "url": "https://open.spotify.com/track/3blCCA06ECZDzJkfFzGRAJ"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
         "name": "Inflama-Me",
         "url": "https://open.spotify.com/album/2GeYgCm9jZQn2aHJVAwmXR"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 401500,
       "name": "Inflama-Me",
       "url": "https://open.spotify.com/track/6wHZw0DKzottADN8MenvdQ"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
+        "name": "Te Adorar",
+        "url": "https://open.spotify.com/album/7qAleP4Db2sgWmTM8x5O9Q"
+      },
+      "artists": [
+        {
+          "name": "Padre Anderson Gomes",
+          "url": "https://open.spotify.com/artist/7uu8kCXv4FlL0ZRJ013yw9"
+        }
+      ],
+      "duration_ms": 326208,
+      "name": "Te Adorar",
+      "url": "https://open.spotify.com/track/3blCCA06ECZDzJkfFzGRAJ"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
-        "name": "Somos do C\u00e9u",
-        "url": "https://open.spotify.com/album/7eTV7OBnuVeDB47FXCSMmF"
-      },
-      "artists": [
-        {
-          "name": "Irm\u00e3 Ana Paula, CMES",
-          "url": "https://open.spotify.com/artist/1aEvJUVR7x8krnCk1wtrFv"
-        }
-      ],
-      "duration_ms": 294910,
-      "name": "Somos do C\u00e9u",
-      "url": "https://open.spotify.com/track/3aQzSGsSFu8BFhYfMPJP7v"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
         "name": "D\u00e1-Me de Beber",
         "url": "https://open.spotify.com/album/0wNAjHSApYAxMoWokVeEIx"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 256000,
       "name": "D\u00e1-Me de Beber",
       "url": "https://open.spotify.com/track/0a4uOkydQSvaL4jp3fS5qZ"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
+        "name": "Somos do C\u00e9u",
+        "url": "https://open.spotify.com/album/7eTV7OBnuVeDB47FXCSMmF"
+      },
+      "artists": [
+        {
+          "name": "Irm\u00e3 Ana Paula, CMES",
+          "url": "https://open.spotify.com/artist/1aEvJUVR7x8krnCk1wtrFv"
+        }
+      ],
+      "duration_ms": 294910,
+      "name": "Somos do C\u00e9u",
+      "url": "https://open.spotify.com/track/3aQzSGsSFu8BFhYfMPJP7v"
     },
     {
       "added_at": "2022-09-02 03:00:00",

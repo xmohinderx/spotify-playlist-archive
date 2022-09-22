@@ -1,15 +1,31 @@
 {
   "description": "This is Los Rieleros Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 40676,
+  "num_followers": 40700,
   "original_name": "This Is Los Rieleros Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjc3MjgwMzgsMDAwMDAwMDA3NGI3MDQyYTdlNzJiYjA5YTRmZGQ5MmFlYTY2YzlhZA==",
+  "snapshot_id": "Mjc3Mjk0NTIsMDAwMDAwMDBjYjcxOWJhZjhkYTViMWU5N2E2YzFhYTczMGIzMWQyZg==",
   "tracks": [
     {
-      "added_at": "2022-09-20 13:58:08",
+      "added_at": "2022-09-21 13:32:10",
+      "album": {
+        "name": "Invencible",
+        "url": "https://open.spotify.com/album/09bVCvqV5G7r8DIEls8zjB"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "duration_ms": 199333,
+      "name": "El Columpio",
+      "url": "https://open.spotify.com/track/2OFmcOC5m9iAvt4kcdXBSz"
+    },
+    {
+      "added_at": "2022-09-21 13:32:10",
       "album": {
         "name": "Siempre Imitado, Jamas Igualado",
         "url": "https://open.spotify.com/album/35f4w9AcjnUdfJ174fgOz5"
@@ -25,23 +41,7 @@
       "url": "https://open.spotify.com/track/20qd1CUZCdgbOYN8vDt8Se"
     },
     {
-      "added_at": "2022-09-20 13:58:08",
-      "album": {
-        "name": "El Maquinista",
-        "url": "https://open.spotify.com/album/69lJRuexU5t09latWCcR2L"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 188800,
-      "name": "Ayer La Vi Por La Calle",
-      "url": "https://open.spotify.com/track/3QEtFSlIylEVy7pePLHNiE"
-    },
-    {
-      "added_at": "2022-09-20 13:58:08",
+      "added_at": "2022-09-21 13:32:10",
       "album": {
         "name": "Sobre Los Rieles",
         "url": "https://open.spotify.com/album/2oMobAHjCHpW7yu5UuPsRS"
@@ -57,10 +57,10 @@
       "url": "https://open.spotify.com/track/5UCPSGLNI76qSbzPyMMyo2"
     },
     {
-      "added_at": "2022-09-20 13:58:08",
+      "added_at": "2022-09-21 13:32:10",
       "album": {
-        "name": "De Coraz\u00f3n Norte\u00f1o",
-        "url": "https://open.spotify.com/album/2LrllvMkfrhnWqJHXrPsOb"
+        "name": "El Maquinista",
+        "url": "https://open.spotify.com/album/69lJRuexU5t09latWCcR2L"
       },
       "artists": [
         {
@@ -68,12 +68,12 @@
           "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
         }
       ],
-      "duration_ms": 203853,
-      "name": "Te Quiero Mucho",
-      "url": "https://open.spotify.com/track/5G5TAfojJWd6sMmHchXdQu"
+      "duration_ms": 188800,
+      "name": "Ayer La Vi Por La Calle",
+      "url": "https://open.spotify.com/track/3QEtFSlIylEVy7pePLHNiE"
     },
     {
-      "added_at": "2022-09-20 13:58:08",
+      "added_at": "2022-09-21 13:32:10",
       "album": {
         "name": "Rifare Mi Suerte",
         "url": "https://open.spotify.com/album/72Tvu1pJWr2HQ9lHYipwsf"
@@ -89,10 +89,10 @@
       "url": "https://open.spotify.com/track/0zHz9rDKzeaKNIw9CI5PjA"
     },
     {
-      "added_at": "2022-09-20 13:58:08",
+      "added_at": "2022-09-21 13:32:10",
       "album": {
-        "name": "El Maquinista",
-        "url": "https://open.spotify.com/album/69lJRuexU5t09latWCcR2L"
+        "name": "De Coraz\u00f3n Norte\u00f1o",
+        "url": "https://open.spotify.com/album/2LrllvMkfrhnWqJHXrPsOb"
       },
       "artists": [
         {
@@ -100,28 +100,12 @@
           "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
         }
       ],
-      "duration_ms": 170693,
-      "name": "Noches Eternas",
-      "url": "https://open.spotify.com/track/7k11lO5JBXkkQfKBExqVGh"
+      "duration_ms": 203853,
+      "name": "Te Quiero Mucho",
+      "url": "https://open.spotify.com/track/5G5TAfojJWd6sMmHchXdQu"
     },
     {
-      "added_at": "2022-09-20 13:58:08",
-      "album": {
-        "name": "Sobre Los Rieles",
-        "url": "https://open.spotify.com/album/2oMobAHjCHpW7yu5UuPsRS"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 143426,
-      "name": "Por Qu\u00e9 Nos Dijimos Adi\u00f3s",
-      "url": "https://open.spotify.com/track/1U50yJZvm9My8sQHQBjSAd"
-    },
-    {
-      "added_at": "2022-09-20 13:58:08",
+      "added_at": "2022-09-21 13:32:10",
       "album": {
         "name": "Invencible",
         "url": "https://open.spotify.com/album/09bVCvqV5G7r8DIEls8zjB"
@@ -137,10 +121,10 @@
       "url": "https://open.spotify.com/track/694ISCxj0nirQhsAn830hu"
     },
     {
-      "added_at": "2022-09-20 13:58:08",
+      "added_at": "2022-09-21 13:32:10",
       "album": {
-        "name": "De Lo Bueno Lo Mejor",
-        "url": "https://open.spotify.com/album/3GpaL6ZqUdaCxaGrGYOA54"
+        "name": "El Maquinista",
+        "url": "https://open.spotify.com/album/69lJRuexU5t09latWCcR2L"
       },
       "artists": [
         {
@@ -148,28 +132,12 @@
           "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
         }
       ],
-      "duration_ms": 217373,
-      "name": "No Me Hagas Menos",
-      "url": "https://open.spotify.com/track/5CpAD6mT0lOdUkZHIqPGCq"
+      "duration_ms": 170693,
+      "name": "Noches Eternas",
+      "url": "https://open.spotify.com/track/7k11lO5JBXkkQfKBExqVGh"
     },
     {
-      "added_at": "2022-09-20 13:58:08",
-      "album": {
-        "name": "Siempre Imitado, Jamas Igualado",
-        "url": "https://open.spotify.com/album/35f4w9AcjnUdfJ174fgOz5"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 174333,
-      "name": "Dime Qui\u00e9n Es",
-      "url": "https://open.spotify.com/track/3Gx0D7Qs5oJO5jaA6Rs9lp"
-    },
-    {
-      "added_at": "2022-09-20 13:58:08",
+      "added_at": "2022-09-21 13:32:10",
       "album": {
         "name": "Cuesta Arriba",
         "url": "https://open.spotify.com/album/2aALr2tgoycC3tyhWciLHi"
@@ -185,10 +153,10 @@
       "url": "https://open.spotify.com/track/67foWfrFF0pHYh7H0XQuBl"
     },
     {
-      "added_at": "2022-09-20 13:58:08",
+      "added_at": "2022-09-21 13:32:10",
       "album": {
-        "name": "Y Que El Mundo Ruede",
-        "url": "https://open.spotify.com/album/0a6QxPGQLz7vpc0NSWtwK0"
+        "name": "De Lo Bueno Lo Mejor",
+        "url": "https://open.spotify.com/album/3GpaL6ZqUdaCxaGrGYOA54"
       },
       "artists": [
         {
@@ -196,12 +164,44 @@
           "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
         }
       ],
-      "duration_ms": 173480,
-      "name": "Que El Mundo Ruede",
-      "url": "https://open.spotify.com/track/2kVaYGqPCbZXSZXXwbQFTy"
+      "duration_ms": 217373,
+      "name": "No Me Hagas Menos",
+      "url": "https://open.spotify.com/track/5CpAD6mT0lOdUkZHIqPGCq"
     },
     {
-      "added_at": "2022-09-20 13:58:08",
+      "added_at": "2022-09-21 13:32:10",
+      "album": {
+        "name": "Siempre Imitado, Jamas Igualado",
+        "url": "https://open.spotify.com/album/35f4w9AcjnUdfJ174fgOz5"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "duration_ms": 174333,
+      "name": "Dime Qui\u00e9n Es",
+      "url": "https://open.spotify.com/track/3Gx0D7Qs5oJO5jaA6Rs9lp"
+    },
+    {
+      "added_at": "2022-09-21 13:32:10",
+      "album": {
+        "name": "Sobre Los Rieles",
+        "url": "https://open.spotify.com/album/2oMobAHjCHpW7yu5UuPsRS"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "duration_ms": 143426,
+      "name": "Por Qu\u00e9 Nos Dijimos Adi\u00f3s",
+      "url": "https://open.spotify.com/track/1U50yJZvm9My8sQHQBjSAd"
+    },
+    {
+      "added_at": "2022-09-21 13:32:10",
       "album": {
         "name": "Invencible",
         "url": "https://open.spotify.com/album/09bVCvqV5G7r8DIEls8zjB"
@@ -217,10 +217,10 @@
       "url": "https://open.spotify.com/track/43lAvFigqX6LF678oVPCBN"
     },
     {
-      "added_at": "2022-09-20 13:58:08",
+      "added_at": "2022-09-21 13:32:10",
       "album": {
-        "name": "De Coraz\u00f3n Norte\u00f1o",
-        "url": "https://open.spotify.com/album/2LrllvMkfrhnWqJHXrPsOb"
+        "name": "Y Que El Mundo Ruede",
+        "url": "https://open.spotify.com/album/0a6QxPGQLz7vpc0NSWtwK0"
       },
       "artists": [
         {
@@ -228,15 +228,15 @@
           "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
         }
       ],
-      "duration_ms": 254706,
-      "name": "Sim\u00f3n Blanco",
-      "url": "https://open.spotify.com/track/4k8tSR5P1rqtfNjGLVZqqm"
+      "duration_ms": 173480,
+      "name": "Que El Mundo Ruede",
+      "url": "https://open.spotify.com/track/2kVaYGqPCbZXSZXXwbQFTy"
     },
     {
-      "added_at": "2022-09-20 13:58:08",
+      "added_at": "2022-09-21 13:32:10",
       "album": {
-        "name": "El Maquinista",
-        "url": "https://open.spotify.com/album/69lJRuexU5t09latWCcR2L"
+        "name": "Aventura Pasada",
+        "url": "https://open.spotify.com/album/6LIy3aEzPYRSbnqWMUeUtx"
       },
       "artists": [
         {
@@ -244,12 +244,28 @@
           "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
         }
       ],
-      "duration_ms": 195853,
-      "name": "China De Los Ojos Negros",
-      "url": "https://open.spotify.com/track/1Gn4Bzv6eHrSC87MGTkUmz"
+      "duration_ms": 155440,
+      "name": "Aventura Pasada",
+      "url": "https://open.spotify.com/track/5JchHTsognfG0pbnOVOGwU"
     },
     {
-      "added_at": "2022-09-20 13:58:08",
+      "added_at": "2022-09-21 13:32:10",
+      "album": {
+        "name": "En Tus Manos",
+        "url": "https://open.spotify.com/album/4kN3maXuYFvA8aQKIS4GyD"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "duration_ms": 177600,
+      "name": "Desde la Otra Mesa",
+      "url": "https://open.spotify.com/track/69Bh0aSF1LS2C7c0OyCKiI"
+    },
+    {
+      "added_at": "2022-09-21 13:32:10",
       "album": {
         "name": "15 Exitos: La Maquina Musical Numero Uno",
         "url": "https://open.spotify.com/album/1zROvL56Rc1Ginre3mWSgD"
@@ -265,10 +281,10 @@
       "url": "https://open.spotify.com/track/2ZWrmyPmx09XR0jPWkyrU3"
     },
     {
-      "added_at": "2022-09-20 13:58:08",
+      "added_at": "2022-09-21 13:32:10",
       "album": {
-        "name": "Invencible",
-        "url": "https://open.spotify.com/album/09bVCvqV5G7r8DIEls8zjB"
+        "name": "El Maquinista",
+        "url": "https://open.spotify.com/album/69lJRuexU5t09latWCcR2L"
       },
       "artists": [
         {
@@ -276,12 +292,12 @@
           "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
         }
       ],
-      "duration_ms": 218373,
-      "name": "Golondrina Viajera",
-      "url": "https://open.spotify.com/track/43p1EAcsehfb4eT6oSWhJs"
+      "duration_ms": 195853,
+      "name": "China De Los Ojos Negros",
+      "url": "https://open.spotify.com/track/1Gn4Bzv6eHrSC87MGTkUmz"
     },
     {
-      "added_at": "2022-09-20 13:58:08",
+      "added_at": "2022-09-21 13:32:10",
       "album": {
         "name": "Cu\u00e9ntame",
         "url": "https://open.spotify.com/album/4z8sLfNnAf8Th8B8EwcTQ4"
@@ -297,23 +313,7 @@
       "url": "https://open.spotify.com/track/2zJ1zCoUtHb6dt7C5Q7LqT"
     },
     {
-      "added_at": "2022-09-20 13:58:08",
-      "album": {
-        "name": "El Maquinista",
-        "url": "https://open.spotify.com/album/69lJRuexU5t09latWCcR2L"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 219813,
-      "name": "Seria Una Flor",
-      "url": "https://open.spotify.com/track/4gAEmR4qMioTuqRmKN9B3S"
-    },
-    {
-      "added_at": "2022-09-20 13:58:08",
+      "added_at": "2022-09-21 13:32:10",
       "album": {
         "name": "Castillo de Ilusi\u00f3n",
         "url": "https://open.spotify.com/album/0UbMbsyZgnztk6z08mugvU"
@@ -329,7 +329,7 @@
       "url": "https://open.spotify.com/track/0LCgPftb1BoxaAmKe8RwY8"
     },
     {
-      "added_at": "2022-09-20 13:58:08",
+      "added_at": "2022-09-21 13:32:10",
       "album": {
         "name": "Reafirmando el Estilo",
         "url": "https://open.spotify.com/album/1CwNs3S5dwhVaknX8a2FAL"
@@ -349,10 +349,10 @@
       "url": "https://open.spotify.com/track/25lwn5YDaP9Tp80HyvJTsX"
     },
     {
-      "added_at": "2022-09-20 13:58:08",
+      "added_at": "2022-09-21 13:32:10",
       "album": {
-        "name": "Entrega De Amor",
-        "url": "https://open.spotify.com/album/77qPYC9N8BwFgb9T6gi0F1"
+        "name": "El Maquinista",
+        "url": "https://open.spotify.com/album/69lJRuexU5t09latWCcR2L"
       },
       "artists": [
         {
@@ -360,140 +360,12 @@
           "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
         }
       ],
-      "duration_ms": 163440,
-      "name": "Yo Quer\u00eda A Las Dos",
-      "url": "https://open.spotify.com/track/6S8ZzM5yzxlYl2GpXodBcT"
+      "duration_ms": 219813,
+      "name": "Seria Una Flor",
+      "url": "https://open.spotify.com/track/4gAEmR4qMioTuqRmKN9B3S"
     },
     {
-      "added_at": "2022-09-20 13:58:08",
-      "album": {
-        "name": "En Tus Manos",
-        "url": "https://open.spotify.com/album/4kN3maXuYFvA8aQKIS4GyD"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 177600,
-      "name": "Desde la Otra Mesa",
-      "url": "https://open.spotify.com/track/69Bh0aSF1LS2C7c0OyCKiI"
-    },
-    {
-      "added_at": "2022-09-20 13:58:08",
-      "album": {
-        "name": "Cuesta Arriba",
-        "url": "https://open.spotify.com/album/2aALr2tgoycC3tyhWciLHi"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 236173,
-      "name": "Capricho Maldito",
-      "url": "https://open.spotify.com/track/1ErAOXMy6zdRam3O2WLsXj"
-    },
-    {
-      "added_at": "2022-09-20 13:58:08",
-      "album": {
-        "name": "Aventura Pasada",
-        "url": "https://open.spotify.com/album/6LIy3aEzPYRSbnqWMUeUtx"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 155440,
-      "name": "Aventura Pasada",
-      "url": "https://open.spotify.com/track/5JchHTsognfG0pbnOVOGwU"
-    },
-    {
-      "added_at": "2022-09-20 13:58:08",
-      "album": {
-        "name": "Invencible",
-        "url": "https://open.spotify.com/album/09bVCvqV5G7r8DIEls8zjB"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 159840,
-      "name": "Mi Amor No Lo Mereces",
-      "url": "https://open.spotify.com/track/0ocdFIkMTHJrGEGnph6g94"
-    },
-    {
-      "added_at": "2022-09-20 13:58:08",
-      "album": {
-        "name": "15 Exitos: La Maquina Musical Numero Uno",
-        "url": "https://open.spotify.com/album/1zROvL56Rc1Ginre3mWSgD"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 214973,
-      "name": "Amor Prohibido",
-      "url": "https://open.spotify.com/track/1Pdf0Ra4DMrCeOQOYigle9"
-    },
-    {
-      "added_at": "2022-09-20 13:58:08",
-      "album": {
-        "name": "Abriendo Caminos",
-        "url": "https://open.spotify.com/album/6qL1ZOQEqMLdfo83yQoKKo"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 224373,
-      "name": "La Ruleta",
-      "url": "https://open.spotify.com/track/3mK4Zv1oitX7LyUsKsVhwh"
-    },
-    {
-      "added_at": "2022-09-20 13:58:08",
-      "album": {
-        "name": "Siempre Imitado, Jamas Igualado",
-        "url": "https://open.spotify.com/album/35f4w9AcjnUdfJ174fgOz5"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 208973,
-      "name": "Mi Primer Amor (Meu Primeiro Amor)",
-      "url": "https://open.spotify.com/track/4MBykXKFPYkAmsZhe2kYDo"
-    },
-    {
-      "added_at": "2022-09-20 13:58:08",
-      "album": {
-        "name": "Invencible",
-        "url": "https://open.spotify.com/album/09bVCvqV5G7r8DIEls8zjB"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 219320,
-      "name": "Ya Para Que",
-      "url": "https://open.spotify.com/track/17jm8TyGeg2ZHMUk0L9IL7"
-    },
-    {
-      "added_at": "2022-09-20 13:58:08",
+      "added_at": "2022-09-21 13:32:10",
       "album": {
         "name": "Sobre Los Rieles",
         "url": "https://open.spotify.com/album/2oMobAHjCHpW7yu5UuPsRS"
@@ -509,7 +381,23 @@
       "url": "https://open.spotify.com/track/389TrubBy5SMAcb3SK8nkj"
     },
     {
-      "added_at": "2022-09-20 13:58:08",
+      "added_at": "2022-09-21 13:32:10",
+      "album": {
+        "name": "De Coraz\u00f3n Norte\u00f1o",
+        "url": "https://open.spotify.com/album/2LrllvMkfrhnWqJHXrPsOb"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "duration_ms": 254706,
+      "name": "Sim\u00f3n Blanco",
+      "url": "https://open.spotify.com/track/4k8tSR5P1rqtfNjGLVZqqm"
+    },
+    {
+      "added_at": "2022-09-21 13:32:10",
       "album": {
         "name": "Entrega De Amor",
         "url": "https://open.spotify.com/album/77qPYC9N8BwFgb9T6gi0F1"
@@ -520,12 +408,44 @@
           "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
         }
       ],
-      "duration_ms": 229426,
-      "name": "Por Tu Maldito Amor",
-      "url": "https://open.spotify.com/track/6gVntjxduFYV1JmT9eSjtc"
+      "duration_ms": 163440,
+      "name": "Yo Quer\u00eda A Las Dos",
+      "url": "https://open.spotify.com/track/6S8ZzM5yzxlYl2GpXodBcT"
     },
     {
-      "added_at": "2022-09-20 13:58:08",
+      "added_at": "2022-09-21 13:32:10",
+      "album": {
+        "name": "Cuesta Arriba",
+        "url": "https://open.spotify.com/album/2aALr2tgoycC3tyhWciLHi"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "duration_ms": 236173,
+      "name": "Capricho Maldito",
+      "url": "https://open.spotify.com/track/1ErAOXMy6zdRam3O2WLsXj"
+    },
+    {
+      "added_at": "2022-09-21 13:32:10",
+      "album": {
+        "name": "Siempre Imitado, Jamas Igualado",
+        "url": "https://open.spotify.com/album/35f4w9AcjnUdfJ174fgOz5"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "duration_ms": 208973,
+      "name": "Mi Primer Amor (Meu Primeiro Amor)",
+      "url": "https://open.spotify.com/track/4MBykXKFPYkAmsZhe2kYDo"
+    },
+    {
+      "added_at": "2022-09-21 13:32:10",
       "album": {
         "name": "Las Clasicas del Ayer, Vol. 1",
         "url": "https://open.spotify.com/album/6ee5FkWK30hffyM3O4UB17"
@@ -541,10 +461,10 @@
       "url": "https://open.spotify.com/track/1wINnp6krwSRfcG8RusHc5"
     },
     {
-      "added_at": "2022-09-20 13:58:08",
+      "added_at": "2022-09-21 13:32:10",
       "album": {
-        "name": "Corazon Cerrado",
-        "url": "https://open.spotify.com/album/1h8QkUflLLufMQUmZevdTI"
+        "name": "15 Exitos: La Maquina Musical Numero Uno",
+        "url": "https://open.spotify.com/album/1zROvL56Rc1Ginre3mWSgD"
       },
       "artists": [
         {
@@ -552,172 +472,12 @@
           "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
         }
       ],
-      "duration_ms": 202213,
-      "name": "Busca Otro Amor",
-      "url": "https://open.spotify.com/track/4m95i8gZfz5uUtxcDghKzj"
+      "duration_ms": 214973,
+      "name": "Amor Prohibido",
+      "url": "https://open.spotify.com/track/1Pdf0Ra4DMrCeOQOYigle9"
     },
     {
-      "added_at": "2022-09-20 13:58:08",
-      "album": {
-        "name": "\u00cdconos 25 \u00c9xitos",
-        "url": "https://open.spotify.com/album/5sGSpfHovVN7Nvj4WWvZQR"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 148800,
-      "name": "Suerte Perra",
-      "url": "https://open.spotify.com/track/0UsKh6z2cpwvaMG8c70cYd"
-    },
-    {
-      "added_at": "2022-09-20 13:58:08",
-      "album": {
-        "name": "Entrega De Amor",
-        "url": "https://open.spotify.com/album/77qPYC9N8BwFgb9T6gi0F1"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 181426,
-      "name": "Ten\u00eda Raz\u00f3n Mi 'Am\u00e1",
-      "url": "https://open.spotify.com/track/7fuPZGzcmnE6mio5Rsb9lM"
-    },
-    {
-      "added_at": "2022-09-20 13:58:08",
-      "album": {
-        "name": "La Moraleja",
-        "url": "https://open.spotify.com/album/3l5CzjCkJqSBhvbwtrtATL"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 194933,
-      "name": "Reina De Reyes",
-      "url": "https://open.spotify.com/track/2Ey4ALvSymgKNQTXgnITHo"
-    },
-    {
-      "added_at": "2022-09-20 13:58:08",
-      "album": {
-        "name": "Pese A Quien Le Pese",
-        "url": "https://open.spotify.com/album/1umeqNZCptQODifsdTUmOi"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 205453,
-      "name": "\u00bfY Ahora Que?",
-      "url": "https://open.spotify.com/track/2fSzRd5DUY27pBuFSaqRSW"
-    },
-    {
-      "added_at": "2022-09-20 13:58:08",
-      "album": {
-        "name": "20 Kilates 20 \u00c9xitos",
-        "url": "https://open.spotify.com/album/0B2714WqW6QKPN15X9GG5s"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Como Fui A Enamorarme De Ti",
-      "url": "https://open.spotify.com/track/435dRHWUd9Kav1N96MUFCH"
-    },
-    {
-      "added_at": "2022-09-20 13:58:08",
-      "album": {
-        "name": "De Lo Bueno Lo Mejor",
-        "url": "https://open.spotify.com/album/3GpaL6ZqUdaCxaGrGYOA54"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 191546,
-      "name": "Renunciacion",
-      "url": "https://open.spotify.com/track/2z33LxY7FyiJA6Dyl5jVby"
-    },
-    {
-      "added_at": "2022-09-20 13:58:08",
-      "album": {
-        "name": "Con Eso o M\u00e1s",
-        "url": "https://open.spotify.com/album/4k5tdo6nMpeMxS6SzOzjA3"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 146413,
-      "name": "Dulces Mentiras",
-      "url": "https://open.spotify.com/track/1s90RxawZmkzRvL17uQbYP"
-    },
-    {
-      "added_at": "2022-09-20 13:58:08",
-      "album": {
-        "name": "Entrega De Amor",
-        "url": "https://open.spotify.com/album/77qPYC9N8BwFgb9T6gi0F1"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 189426,
-      "name": "Una Mujer Como T\u00fa",
-      "url": "https://open.spotify.com/track/62zSWES4N5m1tr7ovTMWf3"
-    },
-    {
-      "added_at": "2022-09-20 13:58:08",
-      "album": {
-        "name": "La Golosa",
-        "url": "https://open.spotify.com/album/3TjccwMpSvm064wsjxbTzT"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 211720,
-      "name": "Juan Marta",
-      "url": "https://open.spotify.com/track/6JljTeuO2CI8J8Ou0QaUx9"
-    },
-    {
-      "added_at": "2022-09-20 13:58:08",
-      "album": {
-        "name": "El Maquinista",
-        "url": "https://open.spotify.com/album/69lJRuexU5t09latWCcR2L"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 183760,
-      "name": "El Maquinista",
-      "url": "https://open.spotify.com/track/3mcYBTMWzLUn9E1sYPDuxk"
-    },
-    {
-      "added_at": "2022-09-20 13:58:08",
+      "added_at": "2022-09-21 13:32:10",
       "album": {
         "name": "Pos' Que No...Claro Que Si",
         "url": "https://open.spotify.com/album/5tOoa6i00CvfkkBGJSrJtP"
@@ -733,7 +493,119 @@
       "url": "https://open.spotify.com/track/1P7iWhnMV5gY8jpxaEMNWW"
     },
     {
-      "added_at": "2022-09-20 13:58:08",
+      "added_at": "2022-09-21 13:32:10",
+      "album": {
+        "name": "\u00cdconos 25 \u00c9xitos",
+        "url": "https://open.spotify.com/album/5sGSpfHovVN7Nvj4WWvZQR"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "duration_ms": 148800,
+      "name": "Suerte Perra",
+      "url": "https://open.spotify.com/track/0UsKh6z2cpwvaMG8c70cYd"
+    },
+    {
+      "added_at": "2022-09-21 13:32:10",
+      "album": {
+        "name": "Invencible",
+        "url": "https://open.spotify.com/album/09bVCvqV5G7r8DIEls8zjB"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "duration_ms": 219320,
+      "name": "Ya Para Que",
+      "url": "https://open.spotify.com/track/17jm8TyGeg2ZHMUk0L9IL7"
+    },
+    {
+      "added_at": "2022-09-21 13:32:10",
+      "album": {
+        "name": "Entrega De Amor",
+        "url": "https://open.spotify.com/album/77qPYC9N8BwFgb9T6gi0F1"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "duration_ms": 229426,
+      "name": "Por Tu Maldito Amor",
+      "url": "https://open.spotify.com/track/6gVntjxduFYV1JmT9eSjtc"
+    },
+    {
+      "added_at": "2022-09-21 13:32:10",
+      "album": {
+        "name": "Corazon Cerrado",
+        "url": "https://open.spotify.com/album/1h8QkUflLLufMQUmZevdTI"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "duration_ms": 202213,
+      "name": "Busca Otro Amor",
+      "url": "https://open.spotify.com/track/4m95i8gZfz5uUtxcDghKzj"
+    },
+    {
+      "added_at": "2022-09-21 13:32:10",
+      "album": {
+        "name": "Con Eso o M\u00e1s",
+        "url": "https://open.spotify.com/album/4k5tdo6nMpeMxS6SzOzjA3"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "duration_ms": 146413,
+      "name": "Dulces Mentiras",
+      "url": "https://open.spotify.com/track/1s90RxawZmkzRvL17uQbYP"
+    },
+    {
+      "added_at": "2022-09-21 13:32:10",
+      "album": {
+        "name": "Invencible",
+        "url": "https://open.spotify.com/album/09bVCvqV5G7r8DIEls8zjB"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "duration_ms": 218373,
+      "name": "Golondrina Viajera",
+      "url": "https://open.spotify.com/track/43p1EAcsehfb4eT6oSWhJs"
+    },
+    {
+      "added_at": "2022-09-21 13:32:10",
+      "album": {
+        "name": "Entrega De Amor",
+        "url": "https://open.spotify.com/album/77qPYC9N8BwFgb9T6gi0F1"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "duration_ms": 189426,
+      "name": "Una Mujer Como T\u00fa",
+      "url": "https://open.spotify.com/track/62zSWES4N5m1tr7ovTMWf3"
+    },
+    {
+      "added_at": "2022-09-21 13:32:10",
       "album": {
         "name": "\u00cdconos 25 \u00c9xitos",
         "url": "https://open.spotify.com/album/5sGSpfHovVN7Nvj4WWvZQR"
@@ -749,7 +621,119 @@
       "url": "https://open.spotify.com/track/37L9WDAl7Y81QYhkgoxJBQ"
     },
     {
-      "added_at": "2022-09-20 13:58:08",
+      "added_at": "2022-09-21 13:32:10",
+      "album": {
+        "name": "El Maquinista",
+        "url": "https://open.spotify.com/album/69lJRuexU5t09latWCcR2L"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "duration_ms": 183760,
+      "name": "El Maquinista",
+      "url": "https://open.spotify.com/track/3mcYBTMWzLUn9E1sYPDuxk"
+    },
+    {
+      "added_at": "2022-09-21 13:32:10",
+      "album": {
+        "name": "Invencible",
+        "url": "https://open.spotify.com/album/09bVCvqV5G7r8DIEls8zjB"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "duration_ms": 159840,
+      "name": "Mi Amor No Lo Mereces",
+      "url": "https://open.spotify.com/track/0ocdFIkMTHJrGEGnph6g94"
+    },
+    {
+      "added_at": "2022-09-21 13:32:10",
+      "album": {
+        "name": "De Lo Bueno Lo Mejor",
+        "url": "https://open.spotify.com/album/3GpaL6ZqUdaCxaGrGYOA54"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "duration_ms": 191546,
+      "name": "Renunciacion",
+      "url": "https://open.spotify.com/track/2z33LxY7FyiJA6Dyl5jVby"
+    },
+    {
+      "added_at": "2022-09-21 13:32:10",
+      "album": {
+        "name": "La Golosa",
+        "url": "https://open.spotify.com/album/3TjccwMpSvm064wsjxbTzT"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "duration_ms": 211720,
+      "name": "Juan Marta",
+      "url": "https://open.spotify.com/track/6JljTeuO2CI8J8Ou0QaUx9"
+    },
+    {
+      "added_at": "2022-09-21 13:32:10",
+      "album": {
+        "name": "Abriendo Caminos",
+        "url": "https://open.spotify.com/album/6qL1ZOQEqMLdfo83yQoKKo"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "duration_ms": 224373,
+      "name": "La Ruleta",
+      "url": "https://open.spotify.com/track/3mK4Zv1oitX7LyUsKsVhwh"
+    },
+    {
+      "added_at": "2022-09-21 13:32:10",
+      "album": {
+        "name": "La Moraleja",
+        "url": "https://open.spotify.com/album/3l5CzjCkJqSBhvbwtrtATL"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "duration_ms": 194933,
+      "name": "Reina De Reyes",
+      "url": "https://open.spotify.com/track/2Ey4ALvSymgKNQTXgnITHo"
+    },
+    {
+      "added_at": "2022-09-21 13:32:10",
+      "album": {
+        "name": "Pese A Quien Le Pese",
+        "url": "https://open.spotify.com/album/1umeqNZCptQODifsdTUmOi"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "duration_ms": 205453,
+      "name": "\u00bfY Ahora Que?",
+      "url": "https://open.spotify.com/track/2fSzRd5DUY27pBuFSaqRSW"
+    },
+    {
+      "added_at": "2022-09-21 13:32:10",
       "album": {
         "name": "Me Lo Contaron Ayer",
         "url": "https://open.spotify.com/album/6gu5C4B82H9RWekehc9qIm"
@@ -765,23 +749,7 @@
       "url": "https://open.spotify.com/track/0lWHxgeKgWiNpUHKD7Y8QW"
     },
     {
-      "added_at": "2022-09-20 13:58:08",
-      "album": {
-        "name": "La Ech\u00e9 En Un Carrito",
-        "url": "https://open.spotify.com/album/6WXw2GMFbJMiMKAeOoWZWi"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 171106,
-      "name": "La Ech\u00e9 En Un Carrito",
-      "url": "https://open.spotify.com/track/0fJh2z8ZrYNYPtgErkqBZ5"
-    },
-    {
-      "added_at": "2022-09-20 13:58:08",
+      "added_at": "2022-09-21 13:32:10",
       "album": {
         "name": "Aventura Pasada",
         "url": "https://open.spotify.com/album/6LIy3aEzPYRSbnqWMUeUtx"
@@ -797,7 +765,7 @@
       "url": "https://open.spotify.com/track/1AIN8gEZXRwTJ30YYZsGjo"
     },
     {
-      "added_at": "2022-09-20 13:58:08",
+      "added_at": "2022-09-21 13:32:10",
       "album": {
         "name": "Hay Niveles",
         "url": "https://open.spotify.com/album/12hvhaWD4ZIN2zskXJYQm4"
@@ -811,6 +779,38 @@
       "duration_ms": 179026,
       "name": "Hay Niveles",
       "url": "https://open.spotify.com/track/5gT1s5O16yAMsHOH7SZxQX"
+    },
+    {
+      "added_at": "2022-09-21 13:32:10",
+      "album": {
+        "name": "20 Kilates 20 \u00c9xitos",
+        "url": "https://open.spotify.com/album/0B2714WqW6QKPN15X9GG5s"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Como Fui A Enamorarme De Ti",
+      "url": "https://open.spotify.com/track/435dRHWUd9Kav1N96MUFCH"
+    },
+    {
+      "added_at": "2022-09-21 13:32:10",
+      "album": {
+        "name": "En Tus Manos",
+        "url": "https://open.spotify.com/album/4kN3maXuYFvA8aQKIS4GyD"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "duration_ms": 218400,
+      "name": "La Loba del Mal",
+      "url": "https://open.spotify.com/track/6y8xUOHC3g0C8ZWYeJKPOV"
     }
   ],
   "unique_name": "This Is Los Rieleros Del Norte",

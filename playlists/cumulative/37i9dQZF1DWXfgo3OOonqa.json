@@ -3760,6 +3760,32 @@
     },
     {
       "album": {
+        "name": "F\u00d6RSENT",
+        "url": "https://open.spotify.com/album/75lodPgecaqXT1up0Maffe"
+      },
+      "artists": [
+        {
+          "name": "1.Cuz",
+          "url": "https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr"
+        },
+        {
+          "name": "Greekazo",
+          "url": "https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8"
+        },
+        {
+          "name": "Yei Gonzalez",
+          "url": "https://open.spotify.com/artist/54tAGj0D5DRj7wKZdgALnq"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182400,
+      "name": "F\u00d6RSENT",
+      "url": "https://open.spotify.com/track/2A0ldcG3kavQErxfGlwJNs"
+    },
+    {
+      "album": {
         "name": "F\u00f6rst\u00e5 Mig",
         "url": "https://open.spotify.com/album/37JRDrV3GVedifYAwx32HO"
       },

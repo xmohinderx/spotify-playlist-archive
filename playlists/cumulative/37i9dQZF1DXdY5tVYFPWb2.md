@@ -4,7 +4,7 @@
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-289 songs - 19 hr 8 min - [published](https://open.spotify.com/playlist/41pE6WZAp3SxdsIrmRUYjJ)
+290 songs - 19 hr 12 min - [published](https://open.spotify.com/playlist/41pE6WZAp3SxdsIrmRUYjJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,8 @@
 | [dance](https://open.spotify.com/track/4vURlCR65nymieanZFI26k) | [macico](https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk) | [dance](https://open.spotify.com/album/1uhRpzbQSPY7uqyBkYXpt5) | 3:19 | 2022-08-28 |  |
 | [DANCE IS MY LIFE](https://open.spotify.com/track/4U5m4pjDsp8SySr6WlpQZI) | [角松 敏生](https://open.spotify.com/artist/3sQKcUtvMwpzlc7j0wSkxJ) | [Inherit The Life](https://open.spotify.com/album/7Kyoev6NnVx1LmVDFqOxXw) | 5:47 | 2022-08-30 | 2022-09-07 |
 | [Dance Today](https://open.spotify.com/track/4wJ3itF8IqpLBUdXqcawyH) | [SAMOEDO](https://open.spotify.com/artist/7g6Mug4G6xLqi1odQOWdMp) | [SAMOEDO](https://open.spotify.com/album/43wwD2jSZ0cDAY6r4Zrr9t) | 2:07 | 2022-07-14 | 2022-07-20 |
-| [Danceless Island](https://open.spotify.com/track/72BFb5OajhZEkmzoHssXLN) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Danceless Island](https://open.spotify.com/album/575eZHzWuiFFuUQ4sDF4G4) | 3:45 | 2022-09-20 |  |
+| [Danceless Island](https://open.spotify.com/track/1HveaXiH8hnI1spsowkeCL) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Danceless Island](https://open.spotify.com/album/1syVDDqzi6brKX5hosWs8u) | 3:45 | 2022-09-20 |  |
+| [Danceless Island](https://open.spotify.com/track/72BFb5OajhZEkmzoHssXLN) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Danceless Island](https://open.spotify.com/album/575eZHzWuiFFuUQ4sDF4G4) | 3:45 | 2022-09-20 | 2022-09-22 |
 | [Day In Day Out](https://open.spotify.com/track/5RTWTDzC0neY2cRljMw0zB) | [Pictured Resort](https://open.spotify.com/artist/7BCf2R7bgylYjfgeq5Zrrm) | [Day In Day Out](https://open.spotify.com/album/2LUbONUfN9g9zPxL1ukeW5) | 2:58 | 2022-06-14 | 2022-06-29 |
 | [Do you remember](https://open.spotify.com/track/3CPSBqZ58PQVzKnbwHBzsn) | [Roomies](https://open.spotify.com/artist/1dVKKYAxprfu4rfeso6wOt) | [Do you remember](https://open.spotify.com/album/69jHyS1wnU0YHFKCD55xQW) | 5:08 | 2022-06-21 | 2022-07-18 |
 | [Don't Be Someone Else](https://open.spotify.com/track/3BUNigzrbG1jyFS1lRc74Z) | [FIVE NEW OLD](https://open.spotify.com/artist/71wVBrMErg4ng9lxc1ajZo) | [MUSIC WARDROBE](https://open.spotify.com/album/3cqeIPIj8gyb9olBEqhC2D) | 3:43 | 2022-05-24 |  |

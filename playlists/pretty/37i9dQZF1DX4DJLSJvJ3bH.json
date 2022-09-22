@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMzNTQyMiwwMDAwMDAwMGUyZTQyN2JlYzY2OTY2MjEwYjU5MzQ3YmU3ZDM2NTNj",
+  "snapshot_id": "MTY2MzMzNTQyMiwwMDAwMDAwMDAxNzQ0ZjJhYzk3NjJjNzJkNGNiZDQ5ZDdhYWU0ZDlk",
   "tracks": [
     {
       "added_at": "2022-09-16 13:37:02",
@@ -159,6 +159,22 @@
     {
       "added_at": "2022-09-16 13:37:02",
       "album": {
+        "name": "A Charlie Brown Christmas [2012 Remastered & Expanded Edition]",
+        "url": "https://open.spotify.com/album/2XnNY3GEkbWHor5kyvXLu4"
+      },
+      "artists": [
+        {
+          "name": "Vince Guaraldi Trio",
+          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
+        }
+      ],
+      "duration_ms": 309386,
+      "name": "O Tannenbaum",
+      "url": "https://open.spotify.com/track/4YhY2qHdBmSX33uj8ms0oq"
+    },
+    {
+      "added_at": "2022-09-16 13:37:02",
+      "album": {
         "name": "Christmas Classics",
         "url": "https://open.spotify.com/album/3f22Ap0VSZYWsqrGcphUnY"
       },
@@ -171,22 +187,6 @@
       "duration_ms": 151333,
       "name": "All I Want For Christmas (Is My Two Front Teeth)",
       "url": "https://open.spotify.com/track/4xXMJbzVQSCyprr4PG5sBj"
-    },
-    {
-      "added_at": "2022-09-16 13:37:02",
-      "album": {
-        "name": "It Had to Be You: Lost Radio Recordings",
-        "url": "https://open.spotify.com/album/5WksWns07oPp5qwA9MCGGB"
-      },
-      "artists": [
-        {
-          "name": "Jo Stafford",
-          "url": "https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw"
-        }
-      ],
-      "duration_ms": 130345,
-      "name": "It's a Marshmallow World",
-      "url": "https://open.spotify.com/track/2kSoq79VBHXG46PfHMpErb"
     },
     {
       "added_at": "2022-09-16 13:37:02",
@@ -207,18 +207,18 @@
     {
       "added_at": "2022-09-16 13:37:02",
       "album": {
-        "name": "A Charlie Brown Christmas [2012 Remastered & Expanded Edition]",
-        "url": "https://open.spotify.com/album/2XnNY3GEkbWHor5kyvXLu4"
+        "name": "It Had to Be You: Lost Radio Recordings",
+        "url": "https://open.spotify.com/album/5WksWns07oPp5qwA9MCGGB"
       },
       "artists": [
         {
-          "name": "Vince Guaraldi Trio",
-          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
+          "name": "Jo Stafford",
+          "url": "https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw"
         }
       ],
-      "duration_ms": 309386,
-      "name": "O Tannenbaum",
-      "url": "https://open.spotify.com/track/4YhY2qHdBmSX33uj8ms0oq"
+      "duration_ms": 130345,
+      "name": "It's a Marshmallow World",
+      "url": "https://open.spotify.com/track/2kSoq79VBHXG46PfHMpErb"
     },
     {
       "added_at": "2022-09-16 13:37:02",
@@ -447,22 +447,6 @@
     {
       "added_at": "2022-09-16 13:37:02",
       "album": {
-        "name": "The Singles Collection (Vol. 1)",
-        "url": "https://open.spotify.com/album/6KABUH7jthR8bvreXPJ1yW"
-      },
-      "artists": [
-        {
-          "name": "Julie London",
-          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
-        }
-      ],
-      "duration_ms": 155560,
-      "name": "I'd Like You For Christmas",
-      "url": "https://open.spotify.com/track/07D1vu4IHKAqviEw2XattQ"
-    },
-    {
-      "added_at": "2022-09-16 13:37:02",
-      "album": {
         "name": "A Charlie Brown Christmas [2012 Remastered & Expanded Edition]",
         "url": "https://open.spotify.com/album/2XnNY3GEkbWHor5kyvXLu4"
       },
@@ -479,18 +463,18 @@
     {
       "added_at": "2022-09-16 13:37:02",
       "album": {
-        "name": "Merry Christmas from Jos\u00e9 James",
-        "url": "https://open.spotify.com/album/4bcdBu4Vjwu1J0GGs7HU72"
+        "name": "The Singles Collection (Vol. 1)",
+        "url": "https://open.spotify.com/album/6KABUH7jthR8bvreXPJ1yW"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 James",
-          "url": "https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz"
+          "name": "Julie London",
+          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
         }
       ],
-      "duration_ms": 178066,
-      "name": "Christmas in New York",
-      "url": "https://open.spotify.com/track/4OtoXQ2ySVcmudZT4jF8jH"
+      "duration_ms": 155560,
+      "name": "I'd Like You For Christmas",
+      "url": "https://open.spotify.com/track/07D1vu4IHKAqviEw2XattQ"
     },
     {
       "added_at": "2022-09-16 13:37:02",
@@ -507,6 +491,22 @@
       "duration_ms": 165813,
       "name": "The Secret Of Christmas",
       "url": "https://open.spotify.com/track/4JfmVZv6rhWBxKSf7xfe5F"
+    },
+    {
+      "added_at": "2022-09-16 13:37:02",
+      "album": {
+        "name": "Merry Christmas from Jos\u00e9 James",
+        "url": "https://open.spotify.com/album/4bcdBu4Vjwu1J0GGs7HU72"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 James",
+          "url": "https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz"
+        }
+      ],
+      "duration_ms": 178066,
+      "name": "Christmas in New York",
+      "url": "https://open.spotify.com/track/4OtoXQ2ySVcmudZT4jF8jH"
     },
     {
       "added_at": "2022-09-16 13:37:02",
@@ -547,22 +547,6 @@
     {
       "added_at": "2022-09-16 13:37:02",
       "album": {
-        "name": "Stay With Me",
-        "url": "https://open.spotify.com/album/7bYdTH2MYBFnyyispVgYNS"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 238706,
-      "name": "I've Got My Love To Keep Me Warm",
-      "url": "https://open.spotify.com/track/5jZBn6jnhdZUGnpooAMnwF"
-    },
-    {
-      "added_at": "2022-09-16 13:37:02",
-      "album": {
         "name": "Merry Christmas",
         "url": "https://open.spotify.com/album/4v2byuh7XMZGBrYjH3XnBx"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 166666,
       "name": "You Don't Have To Be A Santa Claus (When Christmas Comes Around)",
       "url": "https://open.spotify.com/track/4lsCXRfZRJYuD9zCHZhFav"
+    },
+    {
+      "added_at": "2022-09-16 13:37:02",
+      "album": {
+        "name": "Stay With Me",
+        "url": "https://open.spotify.com/album/7bYdTH2MYBFnyyispVgYNS"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 238706,
+      "name": "I've Got My Love To Keep Me Warm",
+      "url": "https://open.spotify.com/track/5jZBn6jnhdZUGnpooAMnwF"
     },
     {
       "added_at": "2022-09-16 13:37:02",
@@ -643,22 +643,6 @@
     {
       "added_at": "2022-09-16 13:37:02",
       "album": {
-        "name": "Joe Pass - Six String Santa",
-        "url": "https://open.spotify.com/album/1SXRnss2fnudVkXZrVxIJX"
-      },
-      "artists": [
-        {
-          "name": "Joe Pass",
-          "url": "https://open.spotify.com/artist/4DuZTASH5eSyd0K73W6fuZ"
-        }
-      ],
-      "duration_ms": 275745,
-      "name": "Angels We Have Heard on High / Joy to the World",
-      "url": "https://open.spotify.com/track/3ZtqRGAm0Q3hUjRKKGoDeA"
-    },
-    {
-      "added_at": "2022-09-16 13:37:02",
-      "album": {
         "name": "Ella Wishes You A Swinging Christmas (Expanded Edition)",
         "url": "https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 185293,
       "name": "Christmas Eve",
       "url": "https://open.spotify.com/track/57vYmspSByGGELFVb4e8Tz"
+    },
+    {
+      "added_at": "2022-09-16 13:37:02",
+      "album": {
+        "name": "Joe Pass - Six String Santa",
+        "url": "https://open.spotify.com/album/1SXRnss2fnudVkXZrVxIJX"
+      },
+      "artists": [
+        {
+          "name": "Joe Pass",
+          "url": "https://open.spotify.com/artist/4DuZTASH5eSyd0K73W6fuZ"
+        }
+      ],
+      "duration_ms": 275745,
+      "name": "Angels We Have Heard on High / Joy to the World",
+      "url": "https://open.spotify.com/track/3ZtqRGAm0Q3hUjRKKGoDeA"
     },
     {
       "added_at": "2022-09-16 13:37:02",
@@ -967,18 +967,18 @@
     {
       "added_at": "2022-09-16 13:37:02",
       "album": {
-        "name": "More Sounds Of Christmas",
-        "url": "https://open.spotify.com/album/0PXIY5ZJpZWy3LMpujLN6C"
+        "name": "I'll Be Home for Christmas",
+        "url": "https://open.spotify.com/album/2279rFm900f7XZRc1qKUmh"
       },
       "artists": [
         {
-          "name": "Ramsey Lewis Trio",
-          "url": "https://open.spotify.com/artist/4jZOiPysIzYxbDcDEOZmhu"
+          "name": "Gabriel Latchin Trio",
+          "url": "https://open.spotify.com/artist/79PWBQ4rekAQItLBfqIdzl"
         }
       ],
-      "duration_ms": 241866,
-      "name": "We Three Kings",
-      "url": "https://open.spotify.com/track/4F5Ht2JjkaMmL4b8verZ2W"
+      "duration_ms": 255066,
+      "name": "White Christmas",
+      "url": "https://open.spotify.com/track/0nxosnLTwGiqImmRa9tWqb"
     },
     {
       "added_at": "2022-09-16 13:37:02",
@@ -1003,18 +1003,18 @@
     {
       "added_at": "2022-09-16 13:37:02",
       "album": {
-        "name": "I'll Be Home for Christmas",
-        "url": "https://open.spotify.com/album/2279rFm900f7XZRc1qKUmh"
+        "name": "More Sounds Of Christmas",
+        "url": "https://open.spotify.com/album/0PXIY5ZJpZWy3LMpujLN6C"
       },
       "artists": [
         {
-          "name": "Gabriel Latchin Trio",
-          "url": "https://open.spotify.com/artist/79PWBQ4rekAQItLBfqIdzl"
+          "name": "Ramsey Lewis Trio",
+          "url": "https://open.spotify.com/artist/4jZOiPysIzYxbDcDEOZmhu"
         }
       ],
-      "duration_ms": 255066,
-      "name": "White Christmas",
-      "url": "https://open.spotify.com/track/0nxosnLTwGiqImmRa9tWqb"
+      "duration_ms": 241866,
+      "name": "We Three Kings",
+      "url": "https://open.spotify.com/track/4F5Ht2JjkaMmL4b8verZ2W"
     },
     {
       "added_at": "2022-09-16 13:37:02",
@@ -1064,26 +1064,6 @@
       },
       "artists": [
         {
-          "name": "Abbey Lincoln",
-          "url": "https://open.spotify.com/artist/0A9p7WNA1VwxVyrjx92Z9F"
-        },
-        {
-          "name": "Roy Hargrove",
-          "url": "https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs"
-        }
-      ],
-      "duration_ms": 291906,
-      "name": "Christmas Cheer",
-      "url": "https://open.spotify.com/track/3yQw5zU2b3MNH2h9ccYgyZ"
-    },
-    {
-      "added_at": "2022-09-16 13:37:02",
-      "album": {
-        "name": "Jazz For Joy: A Verve Christmas Album",
-        "url": "https://open.spotify.com/album/42LDbwS16YVmhtt87vgAAc"
-      },
-      "artists": [
-        {
           "name": "Christian McBride",
           "url": "https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv"
         },
@@ -1095,6 +1075,26 @@
       "duration_ms": 280933,
       "name": "This Christmas",
       "url": "https://open.spotify.com/track/0chBHr9DJuSYwN5JuunfY5"
+    },
+    {
+      "added_at": "2022-09-16 13:37:02",
+      "album": {
+        "name": "Jazz For Joy: A Verve Christmas Album",
+        "url": "https://open.spotify.com/album/42LDbwS16YVmhtt87vgAAc"
+      },
+      "artists": [
+        {
+          "name": "Abbey Lincoln",
+          "url": "https://open.spotify.com/artist/0A9p7WNA1VwxVyrjx92Z9F"
+        },
+        {
+          "name": "Roy Hargrove",
+          "url": "https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs"
+        }
+      ],
+      "duration_ms": 291906,
+      "name": "Christmas Cheer",
+      "url": "https://open.spotify.com/track/3yQw5zU2b3MNH2h9ccYgyZ"
     },
     {
       "added_at": "2022-09-16 13:37:02",

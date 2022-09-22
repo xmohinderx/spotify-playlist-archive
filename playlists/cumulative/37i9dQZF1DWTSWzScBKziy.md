@@ -4,7 +4,7 @@
 
 > Find what's fresh & buzzing in Christian & Gospel music right here!  Cover:  We The Kingdom
 
-102 songs - 6 hr 37 min - [published](https://open.spotify.com/playlist/7cYj9PDgylX4yL8DX0zsJe)
+103 songs - 6 hr 40 min - [published](https://open.spotify.com/playlist/7cYj9PDgylX4yL8DX0zsJe)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,8 @@
 | [No Matter What](https://open.spotify.com/track/5zlWZifhZcoFGgMdXWycFw) | [Jordan St\. Cyr](https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il) | [Jordan St\. Cyr](https://open.spotify.com/album/3mDTBxxt06UjSoaNj2BpcK) | 3:08 | 2022-05-27 |  |
 | [No One Loves Me Like You Do](https://open.spotify.com/track/2eHacqnJZnsfqEqcVyQdW2) | [Dan Bremnes](https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3) | [No One Loves Me Like You Do](https://open.spotify.com/album/4AeePvM25cWPs8tkjpSAaU) | 3:05 | 2022-05-27 |  |
 | [Only Ever Always](https://open.spotify.com/track/2XwqIUqh74AJYwdE6t8NnR) | [Love & The Outcome](https://open.spotify.com/artist/1xU1V8I8pFrMOjtuSmjPBs) | [Only Ever Always](https://open.spotify.com/album/7yNjxXnq9rZH3QFStVKaUH) | 2:59 | 2022-05-27 |  |
-| [Over and Over](https://open.spotify.com/track/0llRdEbtFavEzGYkpJjfTg) | [Caleb and Kelsey](https://open.spotify.com/artist/7l0sphz32GV0AjjEhECpVg) | [Over and Over](https://open.spotify.com/album/6ZRdE0msjDHKGG076tz87A) | 3:35 | 2022-05-27 |  |
+| [Over and Over](https://open.spotify.com/track/0llRdEbtFavEzGYkpJjfTg) | [Caleb and Kelsey](https://open.spotify.com/artist/7l0sphz32GV0AjjEhECpVg) | [Over and Over](https://open.spotify.com/album/6ZRdE0msjDHKGG076tz87A) | 3:35 | 2022-05-27 | 2022-09-22 |
+| [Over and Over](https://open.spotify.com/track/3Fq9eU3HKUviaVtgEIq8lu) | [Caleb and Kelsey](https://open.spotify.com/artist/7l0sphz32GV0AjjEhECpVg) | [Over and Over](https://open.spotify.com/album/3EUqmYgGBbQQKawUQOzteX) | 3:35 | 2022-05-27 |  |
 | [Perfectly Loved](https://open.spotify.com/track/6YNdJX3lhmo0u8j293HaAM) | [Rachael Lampa](https://open.spotify.com/artist/0rAp8I6gq67AJEmzWEJ1ri), [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [Perfectly Loved](https://open.spotify.com/album/3hSPfcqoL3BUTEKZjonyZh) | 3:23 | 2022-05-27 |  |
 | [Places \(Des Endroits\)](https://open.spotify.com/track/1woGAdF9icCiBZK0j3yLWg) | [Armand Mukenge](https://open.spotify.com/artist/03FQiZQOAx6vSqB5HflG9i), [Mbushka](https://open.spotify.com/artist/3IRgs9UVzAlK73dZiYI1Ya) | [Places \(Des Endroits\)](https://open.spotify.com/album/7GyGTZAigB3RZKrq3JPjV2) | 3:32 | 2022-05-27 |  |
 | [Plans](https://open.spotify.com/track/7ylUm6UwDblnxBNFq1E0nh) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [Plans](https://open.spotify.com/album/5p3ZxGjxM3xnGi8gzHLU6f) | 3:42 | 2022-05-27 |  |

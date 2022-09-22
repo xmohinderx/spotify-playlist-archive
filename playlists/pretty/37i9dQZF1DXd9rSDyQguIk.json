@@ -1,12 +1,12 @@
 {
   "description": "Nothing but classic blues tracks",
-  "num_followers": 945121,
+  "num_followers": 945724,
   "original_name": "Blues Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzcyNTkzMiwwMDAwMDAwMDExYzk0N2IwOWQxY2E0NjdkZGVmMjg5YTFmZTU2YmI5",
+  "snapshot_id": "MTY1NzcyNTkzMiwwMDAwMDAwMDFmNTQ2MTJhNGMxZDM5YjY1MjhlNmU4NmMzNGZhZWUw",
   "tracks": [
     {
       "added_at": "2020-01-15 21:29:46",
@@ -355,22 +355,6 @@
     {
       "added_at": "2018-03-29 19:44:07",
       "album": {
-        "name": "Ice Pickin'",
-        "url": "https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab"
-      },
-      "artists": [
-        {
-          "name": "Albert Collins",
-          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
-        }
-      ],
-      "duration_ms": 318840,
-      "name": "Cold, Cold Feeling",
-      "url": "https://open.spotify.com/track/6kucNn22HB0qb2ZPa1BrNl"
-    },
-    {
-      "added_at": "2018-03-29 19:44:07",
-      "album": {
         "name": "The Fabulous Thunderbirds",
         "url": "https://open.spotify.com/album/0eukg8bhyBLRYCPoDpPBgs"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 232706,
       "name": "Scratch My Back",
       "url": "https://open.spotify.com/track/6f3OYG5R630tjwFIHIE7j2"
+    },
+    {
+      "added_at": "2018-03-29 19:44:07",
+      "album": {
+        "name": "Ice Pickin'",
+        "url": "https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab"
+      },
+      "artists": [
+        {
+          "name": "Albert Collins",
+          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
+        }
+      ],
+      "duration_ms": 318840,
+      "name": "Cold, Cold Feeling",
+      "url": "https://open.spotify.com/track/6kucNn22HB0qb2ZPa1BrNl"
     },
     {
       "added_at": "2020-01-15 21:29:46",
@@ -529,6 +529,22 @@
       "url": "https://open.spotify.com/track/1TRIYxcVJYPki5AX2hZzZT"
     },
     {
+      "added_at": "2018-03-29 19:44:07",
+      "album": {
+        "name": "Somebody Loan Me A Dime",
+        "url": "https://open.spotify.com/album/5SynQAltvwPyTbz3m8axVl"
+      },
+      "artists": [
+        {
+          "name": "Fenton Robinson",
+          "url": "https://open.spotify.com/artist/5WFeN8vtX0TYqv0IYVbWZT"
+        }
+      ],
+      "duration_ms": 179693,
+      "name": "Somebody Loan Me A Dime",
+      "url": "https://open.spotify.com/track/35X1ucjCm7rHK80qJ413ci"
+    },
+    {
       "added_at": "2020-01-15 21:29:46",
       "album": {
         "name": "The Chess Box",
@@ -559,22 +575,6 @@
       "duration_ms": 247373,
       "name": "Mean Old World",
       "url": "https://open.spotify.com/track/3gg0xEc2b4eEbYySLmfFU1"
-    },
-    {
-      "added_at": "2018-03-29 19:44:07",
-      "album": {
-        "name": "Somebody Loan Me A Dime",
-        "url": "https://open.spotify.com/album/5SynQAltvwPyTbz3m8axVl"
-      },
-      "artists": [
-        {
-          "name": "Fenton Robinson",
-          "url": "https://open.spotify.com/artist/5WFeN8vtX0TYqv0IYVbWZT"
-        }
-      ],
-      "duration_ms": 179693,
-      "name": "Somebody Loan Me A Dime",
-      "url": "https://open.spotify.com/track/35X1ucjCm7rHK80qJ413ci"
     },
     {
       "added_at": "2018-03-29 19:44:07",

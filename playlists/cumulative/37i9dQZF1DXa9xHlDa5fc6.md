@@ -4,7 +4,7 @@
 
 > unwind with these alternative favorites.
 
-265 songs - 16 hr 37 min - [published](https://open.spotify.com/playlist/6Sz9PXGuNaiQlCoxe28vAO)
+266 songs - 16 hr 41 min - [published](https://open.spotify.com/playlist/6Sz9PXGuNaiQlCoxe28vAO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [Close Your Eyes](https://open.spotify.com/track/6nknq3uzBIsYNjEdRiOzMo) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [Sweat](https://open.spotify.com/album/3DlC3mcBzssqPkY7lhmfls) | 4:27 | 2019-06-16\* | 2022-07-29 |
 | [Cocoon](https://open.spotify.com/track/2v06ZOVTUrUoBNKOCqS22m) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Cocoon](https://open.spotify.com/album/6AhNACx5j2NqU840PMi5O3) | 4:14 | 2019-06-16\* | 2022-07-28 |
 | [Cocoon](https://open.spotify.com/track/6acDlNeA06MCVCzsTVGr9V) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Blossom \(Deluxe\)](https://open.spotify.com/album/72xhsdVmVWFXJuSjABjqtC) | 4:15 | 2022-04-11 |  |
-| [Coincidental](https://open.spotify.com/track/3pdaoKvvkDRW5ed0LM2LBe) | [Betcha](https://open.spotify.com/artist/3pT3KTodKJRyqpxoXINfQh) | [Falling](https://open.spotify.com/album/6tw7TyC4sZMrEomXECGqrd) | 4:20 | 2022-04-11 |  |
+| [Coincidental](https://open.spotify.com/track/3pdaoKvvkDRW5ed0LM2LBe) | [Betcha](https://open.spotify.com/artist/3pT3KTodKJRyqpxoXINfQh) | [Falling](https://open.spotify.com/album/6tw7TyC4sZMrEomXECGqrd) | 4:20 | 2022-04-11 | 2022-09-22 |
 | [Coincidental](https://open.spotify.com/track/4Me2Cf0Pp3OF518iN201oO) | [Betcha](https://open.spotify.com/artist/3pT3KTodKJRyqpxoXINfQh) | [Coincidental](https://open.spotify.com/album/4jlETvPQ17UqWn2JXMZce7) | 4:22 | 2019-06-16\* | 2022-07-29 |
 | [Color \- Remastered](https://open.spotify.com/track/2HNnYRJIlsM1JHn1Nq8qU7) | [Finish Ticket](https://open.spotify.com/artist/3RthMq3xfDQZl80cMEg1JQ) | [When Night Becomes Day](https://open.spotify.com/album/1yz3tI7TG1fpTIzBzW1mud) | 4:10 | 2019-06-16\* | 2021-05-15 |
 | [Colorado](https://open.spotify.com/track/0eZmBWVC1HYayrP2fqQ7nu) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Colorado](https://open.spotify.com/album/0zOIu4cDkUdJPq1c5uQusO) | 2:54 | 2021-11-12 |  |
@@ -252,6 +252,7 @@
 | [Vagabonds](https://open.spotify.com/track/1ZJmzYcbZtA3aLV1OzdLCu) | [Grizfolk](https://open.spotify.com/artist/6Xa4nbrSTfbioA4lLShbjh) | [From The Spark](https://open.spotify.com/album/5ml7RNREVYS6KUy0GyBjXU) | 3:18 | 2019-06-16\* | 2022-07-29 |
 | [Vagabonds](https://open.spotify.com/track/1kdSGyQyX0mxq75KSgcjic) | [Grizfolk](https://open.spotify.com/artist/6Xa4nbrSTfbioA4lLShbjh) | [Waking Up The Giants](https://open.spotify.com/album/6R6Xy2gwyTO6GS1Cs4K1cI) | 3:19 | 2022-04-11 |  |
 | [Violet City](https://open.spotify.com/track/1irXmwdCbngOtucJNd5mSl) | [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s) | [Violet City](https://open.spotify.com/album/1iLP59oFLYZaL801I48i9P) | 3:33 | 2019-06-16\* | 2022-07-05 |
+| [Violet City](https://open.spotify.com/track/3EMovq7Gu8VH9Z86wEVVHn) | [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s) | [Shadowboxer](https://open.spotify.com/album/1lozs5nIWjppJZWFEnfGlV) | 3:33 | 2022-09-16 |  |
 | [Violet City](https://open.spotify.com/track/4VPHxAtloVdaRWrzHJUtCA) | [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s) | [Shadowboxer](https://open.spotify.com/album/4pZrPnENK2NSEaBBo6rr8q) | 3:33 | 2022-04-11 | 2022-09-15 |
 | [Wait for Me](https://open.spotify.com/track/2nO1DYEg1X5GHi8SSuNJQj) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Mechanical Bull \(Expanded Edition\)](https://open.spotify.com/album/0cRJKK0y1sfZEqWub4dK9v) | 3:30 | 2019-06-16\* |  |
 | [Waves](https://open.spotify.com/track/6w8pFOKn42O418qwcQElZ3) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [A Place We Knew](https://open.spotify.com/album/61G7KL6rpj167r6H4CzS8C) | 4:00 | 2022-04-11 |  |

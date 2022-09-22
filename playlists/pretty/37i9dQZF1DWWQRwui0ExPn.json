@@ -1,12 +1,12 @@
 {
   "description": "The chillest beats to help you relax, study, code, and focus.",
-  "num_followers": 4703761,
+  "num_followers": 4706121,
   "original_name": "lofi beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzI4NjQwMCwwMDAwMDAwMDdiYTczODBiMDYxNDFjNTVlMDYxNWQzYzYxNTQ1MDRj",
+  "snapshot_id": "MTY2MzI4NjQwMCwwMDAwMDAwMGM1MDlkMjIwOGUxZTY5YzQ1ZWY3NGQ4YjEwODA3Zjlh",
   "tracks": [
     {
       "added_at": "2022-09-16 00:00:00",
@@ -9927,6 +9927,22 @@
     {
       "added_at": "2022-09-16 00:00:00",
       "album": {
+        "name": "Sunset Hues",
+        "url": "https://open.spotify.com/album/1VOZtaXhIcdabBPpiK9iOP"
+      },
+      "artists": [
+        {
+          "name": "Lofi Stranger",
+          "url": "https://open.spotify.com/artist/3pAyM4do5GqYgSi7nt3NIr"
+        }
+      ],
+      "duration_ms": 97500,
+      "name": "Sunset Hues",
+      "url": "https://open.spotify.com/track/2gRsbCDGfo7dz5MIeQZ04n"
+    },
+    {
+      "added_at": "2022-09-16 00:00:00",
+      "album": {
         "name": "Fractures",
         "url": "https://open.spotify.com/album/3tQ0SGF8oVOFNUzCkbcl1c"
       },
@@ -9987,22 +10003,6 @@
       "duration_ms": 118518,
       "name": "Get Around",
       "url": "https://open.spotify.com/track/2eHStivbidndrZC8NNiOfM"
-    },
-    {
-      "added_at": "2022-09-16 00:00:00",
-      "album": {
-        "name": "Sunset Hues",
-        "url": "https://open.spotify.com/album/1VOZtaXhIcdabBPpiK9iOP"
-      },
-      "artists": [
-        {
-          "name": "Lofi Stranger",
-          "url": "https://open.spotify.com/artist/3pAyM4do5GqYgSi7nt3NIr"
-        }
-      ],
-      "duration_ms": 97500,
-      "name": "Sunset Hues",
-      "url": "https://open.spotify.com/track/2gRsbCDGfo7dz5MIeQZ04n"
     },
     {
       "added_at": "2022-09-16 00:00:00",

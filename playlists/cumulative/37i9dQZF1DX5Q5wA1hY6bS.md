@@ -4,7 +4,7 @@
 
 > the best things in life can't be contained.
 
-423 songs - 1 day 1 hr 49 min - [published](https://open.spotify.com/playlist/1JBI629TZ4Y1b4kQkDesCo)
+424 songs - 1 day 1 hr 52 min - [published](https://open.spotify.com/playlist/1JBI629TZ4Y1b4kQkDesCo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,6 +146,7 @@
 | [Green Eyes](https://open.spotify.com/track/0OITYpks3EGmXNRkDuN8kd) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [Trio Sessions \(Vol\. 2\)](https://open.spotify.com/album/1tfYtFAuSgcFAyzDqKfCxx) | 3:55 | 2021-11-19 | 2022-07-29 |
 | [Green Room \(feat\. Ed Droste\)](https://open.spotify.com/track/07Zi9Se5hk3qCuDBr5NbYk) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC), [Ed Droste](https://open.spotify.com/artist/0XF81i7F5hTlfNMHlTNptl) | [Green Room \(feat\. Ed Droste\)](https://open.spotify.com/album/07SHrpPCeg5V5qHG3n1r9R) | 3:19 | 2020-05-10 | 2022-07-29 |
 | [Grow into Love](https://open.spotify.com/track/2D3OzSwTcwuNWWs8MacKqz) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Grow Into Love](https://open.spotify.com/album/07dS6wpMwR5hqfH0Mf8KRp) | 2:42 | 2020-07-10 | 2022-07-29 |
+| [Grow into Love](https://open.spotify.com/track/52AthVA2opex8NcLSwtO8n) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Seasons of Change](https://open.spotify.com/album/74fRgN21qhhAQv43mbCJFq) | 2:42 | 2022-05-27 |  |
 | [Grow into Love](https://open.spotify.com/track/6FloUWDjW3r51mRYyw0vv5) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Seasons of Change](https://open.spotify.com/album/2dyKBgz9mbVHUbeX2lbd8p) | 2:42 | 2022-05-27 | 2022-09-15 |
 | [Hand Over My Heart](https://open.spotify.com/track/0aZWB3kDIqotHPJcUZZkvC) | [The Secret Sisters](https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL) | [Saturn Return](https://open.spotify.com/album/3grv66GSazERZLzTlS8LrA) | 4:17 | 2020-03-09 | 2022-08-31 |
 | [Hands on You](https://open.spotify.com/track/6SEDE7wvAnAtfdhu1zbUzi) | [Ashley Monroe](https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP) | [Sparrow](https://open.spotify.com/album/0Frgzm1xuM3cy8VxuTOkNu) | 3:52 | 2020-03-09 | 2020-09-05 |
@@ -375,7 +376,7 @@
 | [The Wolves](https://open.spotify.com/track/2eCTe3QlYxQlBhPTSMVIRU) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Every Kingdom](https://open.spotify.com/album/1HWi1cL1VGLCiIYGfvHJmG) | 5:09 | 2019-06-23 | 2019-10-25 |
 | [The Woods](https://open.spotify.com/track/5377z0OljWvRR7CdSQrJxP) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Wanderlust](https://open.spotify.com/album/37yGR6auNK3W1XbcDYfSjw) | 4:01 | 2022-05-27 |  |
 | [The Woods](https://open.spotify.com/track/5x0UC3wIVGKWtWl4Pax8le) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [The Woods](https://open.spotify.com/album/2F9Kw2PoocKuWY8seDNAzS) | 4:02 | 2019-05-26\* | 2021-12-27 |
-| [These Cold Nights](https://open.spotify.com/track/6sT74ZUI79YngZKOE5mbux) | [Oshima Brothers](https://open.spotify.com/artist/349lepk5mVwAKROMAP13Mg) | [These Cold Nights](https://open.spotify.com/album/3VFxogXEXNQQXQeAMlTbn9) | 3:36 | 2019-05-26\* |  |
+| [These Cold Nights](https://open.spotify.com/track/6sT74ZUI79YngZKOE5mbux) | [Oshima Brothers](https://open.spotify.com/artist/349lepk5mVwAKROMAP13Mg) | [These Cold Nights](https://open.spotify.com/album/3VFxogXEXNQQXQeAMlTbn9) | 3:36 | 2019-05-26\* | 2022-09-22 |
 | [Third of May / Ōdaigahara \- Edit](https://open.spotify.com/track/3Q3LbqfjDhWjmyYeirHfDe) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Third of May / Ōdaigahara \(Edit\)](https://open.spotify.com/album/4ch37agV9poERen5tOVHrb) | 4:02 | 2019-05-29 | 2019-10-26 |
 | [Thirteen Sad Farewells](https://open.spotify.com/track/0s7rK6ZBik5I0t1gxSVQRg) | [Stu Larsen](https://open.spotify.com/artist/44M8i4BCwuBbmcQWwMaOfH) | [Thirteen Sad Farewells](https://open.spotify.com/album/57MGwnhweNo0KT82u4fdmK) | 2:45 | 2019-06-22 | 2021-02-04 |
 | [Thirteen Sad Farewells](https://open.spotify.com/track/4ddQlwDGMpXylyxbYvPRab) | [Stu Larsen](https://open.spotify.com/artist/44M8i4BCwuBbmcQWwMaOfH) | [Vagabond](https://open.spotify.com/album/7h2UPCT7JKl8wFZZtZJtzE) | 2:45 | 2020-11-11 | 2022-04-21 |

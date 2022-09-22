@@ -4,7 +4,7 @@
 
 > The freshest house music, updated every friday\. Submit here: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;houseshift
 
-407 songs - 23 hr 31 min - [published](https://open.spotify.com/playlist/4pdLRyqq23R7zciMXjJDN6)
+408 songs - 23 hr 34 min - [published](https://open.spotify.com/playlist/4pdLRyqq23R7zciMXjJDN6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -401,6 +401,7 @@
 | [We Bring It](https://open.spotify.com/track/4J7cSix3jYkSc6n76TgxEJ) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [Darius Syrossian](https://open.spotify.com/artist/6PDUdAoMV9dMy0wOt09Rsf) | [We Bring It](https://open.spotify.com/album/4rKPPgUL5T28e6YPPsTz5Y) | 6:08 | 2022-09-17 |  |
 | [We Don’t Need](https://open.spotify.com/track/5AHZJSGknCqvbCwnsBbHzo) | [Piero Pirupa](https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB) | [We Don’t Need](https://open.spotify.com/album/1uUJoimjzFAbWUkhb8r52d) | 2:33 | 2022-05-13 | 2022-05-30 |
 | [We Drop Beats](https://open.spotify.com/track/47HQ8T7jHpb14FS1Env1BD) | [Dazed](https://open.spotify.com/artist/2KkAz09DAbDp3yHn1cjDCi) | [We Drop Beats](https://open.spotify.com/album/3eOjavq637siaUO4TpPy5r) | 3:04 | 2022-05-01 | 2022-05-14 |
+| [We Got The Fire](https://open.spotify.com/track/4KGBFbXNCKNC6ZPwdhx0eq) | [FREAK ON](https://open.spotify.com/artist/2KujQ1kiORdmd4GCruc4sZ) | [We Got The Fire](https://open.spotify.com/album/2YvvywJmJkenbmYQAAkkzy) | 3:21 | 2022-09-21 |  |
 | [Wha](https://open.spotify.com/track/3bF0Spa3PDTCzPxrpuPw7J) | [Nofex](https://open.spotify.com/artist/1wOk03ohfVCzcIxZ8KRwrL) | [Wha](https://open.spotify.com/album/3UnTGZLLMNaj34Wzwg2XNV) | 3:32 | 2022-05-13 | 2022-05-30 |
 | [What A Life \(feat\. Stevie Appleton\)](https://open.spotify.com/track/587xXusqiMW9gSXkNK8Zxf) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Guz](https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx), [Stevie Appleton](https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ) | [What A Life \(feat\. Stevie Appleton\)](https://open.spotify.com/album/4RO7rFebSw6zSFrOAMCjVw) | 2:51 | 2022-07-29 | 2022-08-06 |
 | [What Is Love](https://open.spotify.com/track/5OuWYrXjymXPDdzj7sr6qm) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N), [Tears & Marble](https://open.spotify.com/artist/3uyGXP74exNBF2EEGpFddA) | [What Is Love](https://open.spotify.com/album/1n2Ymd72BWdEauzzue9YRk) | 3:36 | 2022-06-23 | 2022-06-25 |

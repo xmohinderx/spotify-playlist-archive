@@ -4,7 +4,7 @@
 
 > 50 Canadian artists to watch, handpicked by our curators\. Cover: Kyle McKearney
 
-848 songs - 1 day 19 hr 21 min - [published](https://open.spotify.com/playlist/2mXOGqlTm9OMhkLlfOpKnC)
+849 songs - 1 day 19 hr 24 min - [published](https://open.spotify.com/playlist/2mXOGqlTm9OMhkLlfOpKnC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -846,7 +846,8 @@
 | [Worthy](https://open.spotify.com/track/0L4Wp1wN1MFPvLvwgHQhIO) | [Nuela Charles](https://open.spotify.com/artist/54l7IHesYhtkP9Dm4jN4Zl) | [Worthy](https://open.spotify.com/album/4R4b6PdvbfQTsF3engj7X5) | 3:05 | 2022-07-01 | 2022-08-06 |
 | [Xfoliate \(feat\. General Fly\)](https://open.spotify.com/track/52mQbcaJNiPIn8OaiEflxY) | [Tre Nyce](https://open.spotify.com/artist/3HOxm7dZ7yd2mHjE6HQlS5), [General Fly](https://open.spotify.com/artist/0ovVBJhyUjwApNsNIPT8XB) | [Xfoliate \(feat\. General Fly\)](https://open.spotify.com/album/3zeWEXeE1KcvU9eKH4A1Mr) | 2:24 | 2022-05-06 | 2022-06-04 |
 | [Y OFC](https://open.spotify.com/track/66D4gGaEenEmVGDoO2XX4i) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW) | [Y OFC](https://open.spotify.com/album/4IeLpOeduM8SodNkluPm06) | 3:23 | 2022-07-01 | 2022-08-06 |
-| [Yea Man](https://open.spotify.com/track/7qQvgj685nrnDxXuw0ib9S) | [DillanPonders](https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef), [BVB](https://open.spotify.com/artist/7azVk8ZXv1yB4rOmPMZvUD) | [Yea Man](https://open.spotify.com/album/7eK9lSLrXhlqFxetMXZTRn) | 2:40 | 2022-09-02 |  |
+| [Yea Man](https://open.spotify.com/track/4uV0YlcOLvzrqnzKQ0oXUB) | [DillanPonders](https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef), [BVB](https://open.spotify.com/artist/7azVk8ZXv1yB4rOmPMZvUD) | [Yea Man](https://open.spotify.com/album/5nwJPVBagbhArx6zfcUzm3) | 2:40 | 2022-09-02 |  |
+| [Yea Man](https://open.spotify.com/track/7qQvgj685nrnDxXuw0ib9S) | [DillanPonders](https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef), [BVB](https://open.spotify.com/artist/7azVk8ZXv1yB4rOmPMZvUD) | [Yea Man](https://open.spotify.com/album/7eK9lSLrXhlqFxetMXZTRn) | 2:40 | 2022-09-02 | 2022-09-22 |
 | [You Be Mine](https://open.spotify.com/track/4FaEnMfs9lzN35MGbrOJer) | [Hatiras](https://open.spotify.com/artist/7DQ8fX4Fbi43HaesfrVYpO) | [You Be Mine](https://open.spotify.com/album/0faUGEYeWddhu5M2bPEaGs) | 2:38 | 2022-09-02 |  |
 | [you can't stay mad at me](https://open.spotify.com/track/2xYVyHIRMmA6dVqSrn3ReA) | [lael](https://open.spotify.com/artist/1znowipTv2C0PgcaulHEA8) | [you can't stay mad at me](https://open.spotify.com/album/1VTGmkgwWYNJjsI0fxiYdO) | 2:16 | 2022-02-04 | 2022-03-05 |
 | [You Don't Know Me](https://open.spotify.com/track/1oVsx7QCpW6MAvm2zAi2Yk) | [Aliiias](https://open.spotify.com/artist/4Y8otp9Ld9PkZeNPq20uFG) | [You Don't Know Me](https://open.spotify.com/album/7zSPDxNnLOWCjUTdIOpFyb) | 2:34 | 2022-05-06 | 2022-06-04 |

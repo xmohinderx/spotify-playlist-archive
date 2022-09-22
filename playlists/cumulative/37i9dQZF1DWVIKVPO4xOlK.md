@@ -4,7 +4,7 @@
 
 > Welcome to L.A\. Lo que suena in the city of dreams\. Cover: Luis R Conriquez
 
-220 songs - 11 hr 51 min - [published](https://open.spotify.com/playlist/0bH4Nye50v2mRRde9njJas)
+221 songs - 11 hr 55 min - [published](https://open.spotify.com/playlist/0bH4Nye50v2mRRde9njJas)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,7 +154,8 @@
 | [Otra Noche en L.A.](https://open.spotify.com/track/1LH8gbxJsh9PmHozgPdWGu) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Otra Noche en L.A.](https://open.spotify.com/album/7aUBwzyc4bnGBDD3elUh3U) | 3:31 | 2022-02-11 | 2022-05-28 |
 | [Pa Que Te Duela](https://open.spotify.com/track/4XkSLgoFq8SGNR4XSFXfyc) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Mi Vida En Un Cigarro 2](https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb) | 3:53 | 2022-02-11 | 2022-08-13 |
 | [Papi](https://open.spotify.com/track/0BornZJonz0a9N5Aa4VSyN) | [Dj Fredy Fresco](https://open.spotify.com/artist/7v5hVOTXEjeW6jJZ94iKzV), [Rickstarr](https://open.spotify.com/artist/0ae72SdJTJ8D7VadVuUpEQ) | [Papi](https://open.spotify.com/album/3XjNmUiXPhLoq06lHY6m8p) | 3:04 | 2022-03-16 | 2022-05-28 |
-| [Para Abajo](https://open.spotify.com/track/1ai3HhUv3sdEOspgGc83QA) | [Jenny69](https://open.spotify.com/artist/7jqoLHB45Xqz6PGUnqWrYX), [Muzik Junkies](https://open.spotify.com/artist/34DQTRbIYPLSGU2SkOTEja), [DJ Morphius](https://open.spotify.com/artist/0JG1qMChKnNWRh0GRgOJJN) | [Para Abajo](https://open.spotify.com/album/27KyrL4TeU1itZLc5uFPIQ) | 3:09 | 2022-08-12 |  |
+| [Para Abajo](https://open.spotify.com/track/4wmP5vZKnugFSKOM67Qq29) | [Jenny69](https://open.spotify.com/artist/7jqoLHB45Xqz6PGUnqWrYX), [DJ Morphius](https://open.spotify.com/artist/0JG1qMChKnNWRh0GRgOJJN), [Muzik Junkies](https://open.spotify.com/artist/34DQTRbIYPLSGU2SkOTEja) | [Para Abajo](https://open.spotify.com/album/5dI2iKzEyVOi5XavrmocSQ) | 3:09 | 2022-08-12 |  |
+| [Para Abajo](https://open.spotify.com/track/1ai3HhUv3sdEOspgGc83QA) | [Jenny69](https://open.spotify.com/artist/7jqoLHB45Xqz6PGUnqWrYX), [Muzik Junkies](https://open.spotify.com/artist/34DQTRbIYPLSGU2SkOTEja), [DJ Morphius](https://open.spotify.com/artist/0JG1qMChKnNWRh0GRgOJJN) | [Para Abajo](https://open.spotify.com/album/27KyrL4TeU1itZLc5uFPIQ) | 3:09 | 2022-08-12 | 2022-09-22 |
 | [Pareja Del Año](https://open.spotify.com/track/2rCbl9naJYhaxjLsfx88uM) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Pareja Del Año](https://open.spotify.com/album/202FLmfHxcvLHPiqmAjWyJ) | 3:15 | 2022-01-05 | 2022-02-26 |
 | [Party](https://open.spotify.com/track/4tYFy8ALRjIZvnvSLw5lxN) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:47 | 2022-05-27 |  |
 | [Pasos Lentos](https://open.spotify.com/track/2gwWr4oV3hN9PVJZd3KDAe) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Agradecido](https://open.spotify.com/album/3MKAMCVlSIMDWnnBihi6JH) | 2:04 | 2022-07-08 |  |

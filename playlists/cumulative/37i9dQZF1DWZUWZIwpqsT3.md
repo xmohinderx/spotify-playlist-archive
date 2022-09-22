@@ -4,7 +4,7 @@
 
 > Press play and let's dance with the biggest Brazilian DJ!
 
-130 songs - 6 hr 21 min - [published](https://open.spotify.com/playlist/6MZWwqjG4Q8Yhj3nm7gAIo)
+131 songs - 6 hr 24 min - [published](https://open.spotify.com/playlist/6MZWwqjG4Q8Yhj3nm7gAIo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [All The Lies \(with Felix Jaehn & The Vamps\)](https://open.spotify.com/track/4Cy5f4JsH1yoeGks7FnoHw) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [The Vamps](https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs) | [All The Lies \(with Felix Jaehn & The Vamps\)](https://open.spotify.com/album/4fPfnp90F94F1Ab8UANpHL) | 2:59 | 2021-12-03 |  |
 | [Alone](https://open.spotify.com/track/2y0W59c6wUGIJ6astaUNcQ) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [ALOTT](https://open.spotify.com/artist/5NIERWixyvXlwwmiJgFms3), [Apophis](https://open.spotify.com/artist/6Sz3s1OLPiCr3cniHuCSoK) | [Alone](https://open.spotify.com/album/5ZJDxWchW5jtfDJlnj9CKC) | 3:20 | 2022-06-17 |  |
 | [Alone](https://open.spotify.com/track/3JS1nCTR2jixEUAUHnh4fk) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [ALOTT](https://open.spotify.com/artist/5NIERWixyvXlwwmiJgFms3), [Apophis](https://open.spotify.com/artist/6Sz3s1OLPiCr3cniHuCSoK) | [Alone](https://open.spotify.com/album/2YyY8qfDyn0P6cyqZ1l48A) | 3:20 | 2021-12-03 | 2022-07-29 |
+| [Always Feel Like](https://open.spotify.com/track/7rt3hHR1meaDWFqQygtZrS) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Always Feel Like](https://open.spotify.com/album/4kCNzICullbugxM6oBG2G1) | 3:01 | 2022-09-21 |  |
 | [Ameno](https://open.spotify.com/track/509mnNEq2OOcJsK0Y9TlKd) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Gaullin](https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K), [Kohen](https://open.spotify.com/artist/3Dkul6nShja7zaggvl66rB) | [Ameno](https://open.spotify.com/album/3enffrW6QJyTfqUnHK72OX) | 2:35 | 2022-06-17 |  |
 | [Ameno](https://open.spotify.com/track/5q7ejdXtFaxHUOybHdFee7) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Gaullin](https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K), [Kohen](https://open.spotify.com/artist/3Dkul6nShja7zaggvl66rB) | [Ameno](https://open.spotify.com/album/5pBSrDiMe8onek8N64bzNt) | 2:35 | 2021-12-03 | 2022-07-29 |
 | [Another You \(feat\. The Vamps\)](https://open.spotify.com/track/2OPCGQHz6Gi7U7aDShfhR8) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [BLOODLINE](https://open.spotify.com/artist/2XIjSIUqsAXWJbMrVykTZ3), [The Vamps](https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs) | [Another You \(feat\. The Vamps\)](https://open.spotify.com/album/7f2gWbQrwvU6JgidZr2xqV) | 2:38 | 2022-06-17 |  |

@@ -4486,6 +4486,24 @@
     },
     {
       "album": {
+        "name": "Lafayette",
+        "url": "https://open.spotify.com/album/273mf7JiWvO7cUPzsT8yCt"
+      },
+      "artists": [
+        {
+          "name": "Alfons Daiminger",
+          "url": "https://open.spotify.com/artist/6U9R5Ba5DxvK0ALylOx60v"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299026,
+      "name": "Lafayette",
+      "url": "https://open.spotify.com/track/1kAYyA2hA8GBjkGgVHYsEB"
+    },
+    {
+      "album": {
         "name": "Lambay",
         "url": "https://open.spotify.com/album/04ZM5v3dvvfsuROy3iT7D6"
       },

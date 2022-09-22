@@ -4,7 +4,7 @@
 
 > A collection of classics and recent tracks from the world of black and dark metal\. Cover: Dimmu Borgir
 
-305 songs - 1 day 2 hr 40 min - [published](https://open.spotify.com/playlist/64Dcl2uRhYdNKoQxcWR2Lx)
+306 songs - 1 day 2 hr 47 min - [published](https://open.spotify.com/playlist/64Dcl2uRhYdNKoQxcWR2Lx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,12 +139,13 @@
 | [Hvite Krists Død](https://open.spotify.com/track/5FpE6NBSSK8T6w12PjxJjt) | [Satyricon](https://open.spotify.com/artist/221Rd0FvVxMx7eCbWqjiKd) | [The Shadowthrone](https://open.spotify.com/album/0ugoROOjkNINkn2dt6he4V) | 8:27 | 2022-07-13 | 2022-07-29 |
 | [Hvite Krists Død \- Remastered 2021](https://open.spotify.com/track/31LJZdWVxmboDQW0kPKZcw) | [Satyricon](https://open.spotify.com/artist/221Rd0FvVxMx7eCbWqjiKd) | [The Shadowthrone \(Remastered 2021\)](https://open.spotify.com/album/1CqVugK1U61uHDGONlHnzy) | 8:27 | 2022-07-13 |  |
 | [Hvítir Sandar](https://open.spotify.com/track/7vM3m6Uk70Qml5amBShtMF) | [Kælan Mikla](https://open.spotify.com/artist/28meEMqGpDrolyQ9OVoDAH), [Alcest](https://open.spotify.com/artist/0d5ZwMtCer8dQdOPAgWhe7) | [Hvítir Sandar](https://open.spotify.com/album/456LMV2LbrV7LnuIUd6Anl) | 4:37 | 2021-12-17 | 2022-06-11 |
+| [Hybrid Stigmata \- The Apostasy \- Remixed & Remastered](https://open.spotify.com/track/5XL4M20UHAGFD2c0k9rzvv) | [Dimmu Borgir](https://open.spotify.com/artist/6e8ISIsI7UQZPyEorefAhK) | [Hybrid Stigmata \- The Apostasy \(Remixed & Remastered\)](https://open.spotify.com/album/5LnaDeaEeuoWqKhZ9jbWBJ) | 6:59 | 2022-09-16 |  |
 | [I](https://open.spotify.com/track/20Ixhug1ZV3n3XXeB71kDF) | [Ulver](https://open.spotify.com/artist/6bYFkBNvayh3nGqxcPp7Sv) | [Nattens Madrigal](https://open.spotify.com/album/1Hod8O8aRjCE5RG6aI1GKl) | 6:16 | 2022-07-13 | 2022-09-02 |
 | [I Am Abomination](https://open.spotify.com/track/1SBGE2wrNmiwHnnLSAiegd) | [1349](https://open.spotify.com/artist/150xbiJGnTy1tSBZ9EFKnT) | [Hellfire](https://open.spotify.com/album/4qntR4s02MF97EkxAhcdr2) | 4:10 | 2022-07-13 |  |
 | [I Am The Black Wizards](https://open.spotify.com/track/2956v4MaiU78SkPpeTXxhq) | [Emperor](https://open.spotify.com/artist/6jPWrSmxOd9mj7Xaj4EP2Y) | [In The Nightside Eclipse](https://open.spotify.com/album/5nTalKcL6vhFMNihs0b3iU) | 6:00 | 2022-07-13 |  |
 | [I Am the Night](https://open.spotify.com/track/7n4U90ST7RSr6B0WXXAcbt) | [I Am The Night](https://open.spotify.com/artist/0KZgadGpnbwDnFifHOt7cU) | [I Am the Night](https://open.spotify.com/album/5dAqD9ry2pOU7YMPRXazRz) | 4:32 | 2022-04-08 | 2022-05-07 |
 | [I Troldskog Faren Vild](https://open.spotify.com/track/3Snzs0C112fbgi5q9nQKnj) | [Ulver](https://open.spotify.com/artist/6bYFkBNvayh3nGqxcPp7Sv) | [Bergtatt](https://open.spotify.com/album/5OEz7YwAQyYvaSl1pmkPCI) | 7:51 | 2022-07-13 |  |
-| [In Death's Embrace](https://open.spotify.com/track/33Tw7bBpn08xmigGaruVhL) | [Dimmu Borgir](https://open.spotify.com/artist/6e8ISIsI7UQZPyEorefAhK) | [Enthrone Darkness Triumphant](https://open.spotify.com/album/2vsIQw5nIfbO2N4X6pfXU9) | 5:42 | 2022-07-13 |  |
+| [In Death's Embrace](https://open.spotify.com/track/33Tw7bBpn08xmigGaruVhL) | [Dimmu Borgir](https://open.spotify.com/artist/6e8ISIsI7UQZPyEorefAhK) | [Enthrone Darkness Triumphant](https://open.spotify.com/album/2vsIQw5nIfbO2N4X6pfXU9) | 5:42 | 2022-07-13 | 2022-09-22 |
 | [In the Shadow of the Horns](https://open.spotify.com/track/3OJNfu0G5Ooab1ZlNCdQyb) | [Darkthrone](https://open.spotify.com/artist/7kWnE981vITXDnAD2cZmCV) | [A Blaze in the Northern Sky](https://open.spotify.com/album/3eE6kwrlKF0RFYMVExCC0O) | 7:01 | 2022-07-13 | 2022-07-29 |
 | [In the Shadow of the Horns \- Studio](https://open.spotify.com/track/1qY7zhfiiMVzb38kJ2806t) | [Darkthrone](https://open.spotify.com/artist/7kWnE981vITXDnAD2cZmCV) | [A Blaze In The Northern Sky](https://open.spotify.com/album/4ywDt046dDB2OtWLqKwvMF) | 7:01 | 2022-07-13 |  |
 | [Infinite Sequential Visions of a Sphere of Hate](https://open.spotify.com/track/4tLtrLgROIRKkMkQdeYZ4h) | [And Hell Followed With](https://open.spotify.com/artist/7MnEOC6vXcGp5P8RiFrlCm), [Kyle Anderson](https://open.spotify.com/artist/2eBk2tRUVeNEfbuDvU4v44) | [Infinite Sequential Visions of a Sphere of Hate](https://open.spotify.com/album/0qMWnSbR71q3ccgPyPx9v6) | 4:41 | 2022-03-18 | 2022-07-24 |

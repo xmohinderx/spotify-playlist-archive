@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DXb7WmotStdsj.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXb7WmotStdsj) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXb7WmotStdsj)
 
-### [Rai Hits](https://open.spotify.com/playlist/37i9dQZF1DXb7WmotStdsj)
+### [Raï Hits](https://open.spotify.com/playlist/37i9dQZF1DXb7WmotStdsj)
 
-> The very best Rai hits\. Cover: Cheb Bello.
+> Les meilleurs tubes Raï du moment que vous entendez partout\. Cover: Cheb Bello.
 
 105 songs - 8 hr 27 min - [published](https://open.spotify.com/playlist/6JWCOzizL3CkwQnuQ3RJTt)
 

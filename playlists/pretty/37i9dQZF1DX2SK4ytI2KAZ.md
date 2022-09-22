@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SK4ytI2KAZ.md) - [plain]
 
 > alternative songs and a good time.
 
-[Spotify](https://open.spotify.com/user/spotify) - 668,068 likes - 150 songs - 8 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 668,126 likes - 150 songs - 8 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -122,8 +122,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SK4ytI2KAZ.md) - [plain]
 | 112 | [Come To The Beach](https://open.spotify.com/track/3cwrYbdU4eJkVXiH2USGid) | [Winnetka Bowling League](https://open.spotify.com/artist/4ug3P1K8BaCdJXROrqHqhu) | [Come To The Beach](https://open.spotify.com/album/7zvkLdqZGE4L68lf37t53G) | 2:58 |
 | 113 | [DON'T TELL THE BOYS](https://open.spotify.com/track/5RuMsudDPFkRC1XQsiheGT) | [Petey](https://open.spotify.com/artist/4TeKBLCqmYXzvcgYX4t4YA) | [Lean Into Life](https://open.spotify.com/album/0cRE81Ug6gUBGBcktixA7G) | 3:57 |
 | 114 | [Gone](https://open.spotify.com/track/3mxMrdo3fJjDbb64nagoXR) | [JR JR](https://open.spotify.com/artist/3VAxb3UskTNiHAKh4UeOEv) | [JR JR](https://open.spotify.com/album/3shFtH3EfvyztGl2sdsmHS) | 3:47 |
-| 115 | [Curious](https://open.spotify.com/track/2cIwyQwWNhyDNY3pn6xjKF) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Curious](https://open.spotify.com/album/6ostRuT5nyWNNuuaAE2FMX) | 2:49 |
-| 116 | [Upgrade](https://open.spotify.com/track/0kr277qNoo4QBUDjzPiSe2) | [TWIN XL](https://open.spotify.com/artist/4OkceeWNJehKqXINqtVeX1), [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A) | [Upgrade](https://open.spotify.com/album/3VgubxrPPu5lXCPJzXLFp7) | 2:41 |
+| 115 | [Upgrade](https://open.spotify.com/track/0kr277qNoo4QBUDjzPiSe2) | [TWIN XL](https://open.spotify.com/artist/4OkceeWNJehKqXINqtVeX1), [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A) | [Upgrade](https://open.spotify.com/album/3VgubxrPPu5lXCPJzXLFp7) | 2:41 |
+| 116 | [Curious](https://open.spotify.com/track/2cIwyQwWNhyDNY3pn6xjKF) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Curious](https://open.spotify.com/album/6ostRuT5nyWNNuuaAE2FMX) | 2:49 |
 | 117 | [Body Language](https://open.spotify.com/track/4bBmkUUotaleotNdgSwsen) | [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A) | [Body Language](https://open.spotify.com/album/5TsfSsuDSUjNWuAJ3KoPdW) | 3:23 |
 | 118 | [If I Could Be Like You](https://open.spotify.com/track/7nzYP2Eznmu83TFdB7wDE9) | [Castlecomer](https://open.spotify.com/artist/7tnWJfXaJmFO6vv5WFN2K0) | [Castlecomer](https://open.spotify.com/album/5DUFivlOxblQTTRTfrlT15) | 2:46 |
 | 119 | [Strangers](https://open.spotify.com/track/73WyCOipkJRtIH8klizJd5) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Strangers](https://open.spotify.com/album/4MVgnDxPZUCmN4LNb0Urui) | 3:13 |
@@ -142,12 +142,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SK4ytI2KAZ.md) - [plain]
 | 132 | [Don't Take The Money](https://open.spotify.com/track/0d3BJRrklQ6sTfbmrojuZI) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Don't Take The Money](https://open.spotify.com/album/6XVw1ysE3HyYF9T9axP33Y) | 3:35 |
 | 133 | [Monday](https://open.spotify.com/track/5qJOKIrlNVOe4QdhJHS2di) | [The Regrettes](https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E) | [Monday](https://open.spotify.com/album/4YBN5F8yae1Gkner3Gyost) | 2:56 |
 | 134 | [Rebel Heart](https://open.spotify.com/track/3Pc4BTWoH6x0PmeGfQzn5a) | [The Shelters](https://open.spotify.com/artist/7LrFQFaZaxfa9deqkjvc89) | [The Shelters](https://open.spotify.com/album/451kD1EliOug21dypPYnMn) | 3:58 |
-| 135 | [Mixtape 2003](https://open.spotify.com/track/4TICpB1Y6C8b6EK2Ga275x) | [The Academic](https://open.spotify.com/artist/3VLf4DlBTN2ZRwygS3TNti) | [Mixtape 2003](https://open.spotify.com/album/2QcJ99k8skz7nxF2l4D4IH) | 3:24 |
-| 136 | [Boulangerie](https://open.spotify.com/track/36tuyoS2mGSzN7dMIuTHpM) | [Recent Rumors](https://open.spotify.com/artist/4qdxWWLnahrzUknTg3uPQn) | [Heart Baby](https://open.spotify.com/album/5Hub95rVF5waxlr8LWgTFq) | 3:18 |
+| 135 | [Boulangerie](https://open.spotify.com/track/36tuyoS2mGSzN7dMIuTHpM) | [Recent Rumors](https://open.spotify.com/artist/4qdxWWLnahrzUknTg3uPQn) | [Heart Baby](https://open.spotify.com/album/5Hub95rVF5waxlr8LWgTFq) | 3:18 |
+| 136 | [Mixtape 2003](https://open.spotify.com/track/4TICpB1Y6C8b6EK2Ga275x) | [The Academic](https://open.spotify.com/artist/3VLf4DlBTN2ZRwygS3TNti) | [Mixtape 2003](https://open.spotify.com/album/2QcJ99k8skz7nxF2l4D4IH) | 3:24 |
 | 137 | [High Low](https://open.spotify.com/track/3ATD9XGdgIRLAhviHOIh8q) | [The Unlikely Candidates](https://open.spotify.com/artist/4hwJwkgsufeilLXS1ZfJqq) | [High Low](https://open.spotify.com/album/6iS4AhPXyR0Q7c2iKoftTD) | 3:04 |
 | 138 | [Manta Rays](https://open.spotify.com/track/7oTi7GKtvXnwnaVFk6OkLU) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Manta Rays](https://open.spotify.com/album/1Y0Z13jxlT0EgeH2L3u4Zb) | 3:31 |
-| 139 | [Gone](https://open.spotify.com/track/7b5qjSnusll0Ll9vDdkuLh) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax), [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [Hope For Sale](https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi) | 2:57 |
-| 140 | [Got to My Head](https://open.spotify.com/track/3HmHQjjApe21DIncYhKIg7) | [WATERS](https://open.spotify.com/artist/4KKQvsAWZWMkS1QCuPnajG) | [What's Real](https://open.spotify.com/album/0AFltyNvGjMw4GuS2kWkuL) | 3:07 |
+| 139 | [Got to My Head](https://open.spotify.com/track/3HmHQjjApe21DIncYhKIg7) | [WATERS](https://open.spotify.com/artist/4KKQvsAWZWMkS1QCuPnajG) | [What's Real](https://open.spotify.com/album/0AFltyNvGjMw4GuS2kWkuL) | 3:07 |
+| 140 | [Gone](https://open.spotify.com/track/7b5qjSnusll0Ll9vDdkuLh) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax), [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [Hope For Sale](https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi) | 2:57 |
 | 141 | [Preacher Man](https://open.spotify.com/track/25lrlvqhBed81hejnUIP5P) | [THE DRIVER ERA](https://open.spotify.com/artist/5bmqhxWk9SEFDGIzWpSjVJ) | [Preacher Man](https://open.spotify.com/album/41RoNnI0O7darplpv3D9Ha) | 3:39 |
 | 142 | [Elevate](https://open.spotify.com/track/5BxVRqpZi6tIhAap1ZjzVD) | [St\. Lucia](https://open.spotify.com/artist/5WId4o5jdGVhptNU0uqKxu) | [When The Night](https://open.spotify.com/album/7fbye8EAeiLsiKAe2upMEh) | 5:08 |
 | 143 | [Turn](https://open.spotify.com/track/4GxWee692irccH1QOmRRLl) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Turn](https://open.spotify.com/album/0FaTTMkGSHyPYZ6QVxRmph) | 3:27 |
@@ -156,7 +156,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SK4ytI2KAZ.md) - [plain]
 | 146 | [The Hills](https://open.spotify.com/track/47lwvfWsHDZJkCPeqVFrnJ) | [The Faim](https://open.spotify.com/artist/6VsU92soWFLtVsSP65rkrN) | [The Hills](https://open.spotify.com/album/1Une2l5LD0e7savosFt6Gz) | 3:37 |
 | 147 | [PIERCED ARROWS](https://open.spotify.com/track/2wEYO3Vg0gv5xK4iAMfHBz) | [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt) | [LIFE ON EARTH](https://open.spotify.com/album/5oHaiGt9cgATxsrv409jP3) | 4:02 |
 | 148 | [Take It Easy](https://open.spotify.com/track/1hshQOs2OcbICfroZCu1UD) | [Cisco Adler](https://open.spotify.com/artist/23apFYuBTpFemqLDn8ViLW) | [Take It Easy](https://open.spotify.com/album/7g9U3VPeWOeWe6pP7Q4Ayu) | 2:43 |
-| 149 | [The Outfield](https://open.spotify.com/track/0H188Mi13wkwwwUvczPdmC) | [The Night Game](https://open.spotify.com/artist/79QO0Xmn1dZhvaLicS2Yrs) | [The Night Game](https://open.spotify.com/album/09Ft4FmAcy8CnuNoy9JbJN) | 3:52 |
-| 150 | [We Are Between](https://open.spotify.com/track/38g0al4YO0WctLwI4Z8394) | [Modest Mouse](https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT) | [We Are Between](https://open.spotify.com/album/0jm29ezULLI1tMnNqhBiZU) | 3:52 |
+| 149 | [We Are Between](https://open.spotify.com/track/38g0al4YO0WctLwI4Z8394) | [Modest Mouse](https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT) | [We Are Between](https://open.spotify.com/album/0jm29ezULLI1tMnNqhBiZU) | 3:52 |
+| 150 | [The Outfield](https://open.spotify.com/track/0H188Mi13wkwwwUvczPdmC) | [The Night Game](https://open.spotify.com/artist/79QO0Xmn1dZhvaLicS2Yrs) | [The Night Game](https://open.spotify.com/album/09Ft4FmAcy8CnuNoy9JbJN) | 3:52 |
 
-Snapshot ID: `MTY2MDI3NjgwMCwwMDAwMDAwMDBjZWZlZDgzNjZiZGE2ZDhlOWU4ODI0YjMzOWNhY2E2`
+Snapshot ID: `MTY2MDI3NjgwMCwwMDAwMDAwMGZhMTg1M2I0NTg5OTJkYzBkNjM2ZDgyYWYwOTNmNzVi`

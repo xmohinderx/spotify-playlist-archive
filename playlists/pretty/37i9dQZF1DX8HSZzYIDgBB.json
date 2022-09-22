@@ -1,12 +1,12 @@
 {
   "description": "Los nuevos sonidos y fusiones de m\u00fasica Alternativa Latina, con Pahua en portada.",
-  "num_followers": 25136,
+  "num_followers": 25348,
   "original_name": "Indie AlterLatino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzU5NTI4OCwwMDAwMDAwMDZjOTk2YmZjMjc2YzBhOGE1ZmI5YjNlYjU4ODgyYzU4",
+  "snapshot_id": "MTY2MzU5NTI4OCwwMDAwMDAwMDQ2MzRhY2EwYjk3YWMxZDA5NGRkNmEyM2M3NWM3MjEw",
   "tracks": [
     {
       "added_at": "2022-09-16 04:50:01",
@@ -781,22 +781,6 @@
       "url": "https://open.spotify.com/track/6TckoX2KeK1hK7wPfdT0zo"
     },
     {
-      "added_at": "2022-04-20 18:21:19",
-      "album": {
-        "name": "Alma Carnavalera",
-        "url": "https://open.spotify.com/album/0Gx8CUQeiJlkcx2R2hMKJX"
-      },
-      "artists": [
-        {
-          "name": "Stephanie Santiago",
-          "url": "https://open.spotify.com/artist/3UyUbkVWB0PoOA49rU9pi6"
-        }
-      ],
-      "duration_ms": 234655,
-      "name": "Alma Carnavalera",
-      "url": "https://open.spotify.com/track/2ia6khUL8cdWGqOc31dgl8"
-    },
-    {
       "added_at": "2022-03-30 03:05:40",
       "album": {
         "name": "\u00bfPor Qu\u00e9 Te Vas?",
@@ -811,6 +795,22 @@
       "duration_ms": 204000,
       "name": "\u00bfPor Qu\u00e9 Te Vas?",
       "url": "https://open.spotify.com/track/0MACuhj7kQjwpN98yvpgDA"
+    },
+    {
+      "added_at": "2022-04-20 18:21:19",
+      "album": {
+        "name": "Alma Carnavalera",
+        "url": "https://open.spotify.com/album/0Gx8CUQeiJlkcx2R2hMKJX"
+      },
+      "artists": [
+        {
+          "name": "Stephanie Santiago",
+          "url": "https://open.spotify.com/artist/3UyUbkVWB0PoOA49rU9pi6"
+        }
+      ],
+      "duration_ms": 234655,
+      "name": "Alma Carnavalera",
+      "url": "https://open.spotify.com/track/2ia6khUL8cdWGqOc31dgl8"
     },
     {
       "added_at": "2021-10-05 16:26:53",
@@ -887,18 +887,18 @@
     {
       "added_at": "2021-10-05 16:26:53",
       "album": {
-        "name": "donde nadie m\u00e1s Respira",
-        "url": "https://open.spotify.com/album/4GNjJLSkWed2DAg8fI6AsE"
+        "name": "Nosotros Tambi\u00e9n",
+        "url": "https://open.spotify.com/album/6SdRuhERJbTAuWMIHtvsLL"
       },
       "artists": [
         {
-          "name": "iLe",
-          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
+          "name": "Gitkin",
+          "url": "https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt"
         }
       ],
-      "duration_ms": 190204,
-      "name": "donde nadie m\u00e1s Respira",
-      "url": "https://open.spotify.com/track/704ciKlOY43h1RU5DMtJgD"
+      "duration_ms": 206684,
+      "name": "Nosotros Tambi\u00e9n",
+      "url": "https://open.spotify.com/track/6aLokUtExlh83ueaUUOzrt"
     },
     {
       "added_at": "2022-06-24 16:07:34",
@@ -923,18 +923,18 @@
     {
       "added_at": "2021-10-05 16:26:53",
       "album": {
-        "name": "Nosotros Tambi\u00e9n",
-        "url": "https://open.spotify.com/album/6SdRuhERJbTAuWMIHtvsLL"
+        "name": "donde nadie m\u00e1s Respira",
+        "url": "https://open.spotify.com/album/4GNjJLSkWed2DAg8fI6AsE"
       },
       "artists": [
         {
-          "name": "Gitkin",
-          "url": "https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt"
+          "name": "iLe",
+          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
         }
       ],
-      "duration_ms": 206684,
-      "name": "Nosotros Tambi\u00e9n",
-      "url": "https://open.spotify.com/track/6aLokUtExlh83ueaUUOzrt"
+      "duration_ms": 190204,
+      "name": "donde nadie m\u00e1s Respira",
+      "url": "https://open.spotify.com/track/704ciKlOY43h1RU5DMtJgD"
     },
     {
       "added_at": "2022-07-11 18:36:36",
@@ -1161,38 +1161,6 @@
       "url": "https://open.spotify.com/track/60eVoxEcP76xEUAnriUpB0"
     },
     {
-      "added_at": "2022-02-25 03:53:48",
-      "album": {
-        "name": "Canoas",
-        "url": "https://open.spotify.com/album/2aRUgi8wUIUxzgO5VEOCDv"
-      },
-      "artists": [
-        {
-          "name": "BALTHVS",
-          "url": "https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG"
-        }
-      ],
-      "duration_ms": 297000,
-      "name": "Canoas",
-      "url": "https://open.spotify.com/track/7IUGR0FsJjrME1T9fmN2Ig"
-    },
-    {
-      "added_at": "2022-01-14 01:12:21",
-      "album": {
-        "name": "Rainfalls",
-        "url": "https://open.spotify.com/album/0LPbgUDgVTriQISLJGTj5Y"
-      },
-      "artists": [
-        {
-          "name": "Mandale Mecha",
-          "url": "https://open.spotify.com/artist/483XO10ZYxnxAqMkuOTJ2m"
-        }
-      ],
-      "duration_ms": 216379,
-      "name": "Rainfalls",
-      "url": "https://open.spotify.com/track/0YiZ0jbQg32CnsNplsYQeN"
-    },
-    {
       "added_at": "2022-07-15 04:48:04",
       "album": {
         "name": "Ultramar",
@@ -1211,6 +1179,38 @@
       "duration_ms": 264837,
       "name": "Ultramar",
       "url": "https://open.spotify.com/track/2AmjYY3ZCmMeIYnvXQZokj"
+    },
+    {
+      "added_at": "2022-01-14 01:12:21",
+      "album": {
+        "name": "Rainfalls",
+        "url": "https://open.spotify.com/album/0LPbgUDgVTriQISLJGTj5Y"
+      },
+      "artists": [
+        {
+          "name": "Mandale Mecha",
+          "url": "https://open.spotify.com/artist/483XO10ZYxnxAqMkuOTJ2m"
+        }
+      ],
+      "duration_ms": 216379,
+      "name": "Rainfalls",
+      "url": "https://open.spotify.com/track/0YiZ0jbQg32CnsNplsYQeN"
+    },
+    {
+      "added_at": "2022-02-25 03:53:48",
+      "album": {
+        "name": "Canoas",
+        "url": "https://open.spotify.com/album/2aRUgi8wUIUxzgO5VEOCDv"
+      },
+      "artists": [
+        {
+          "name": "BALTHVS",
+          "url": "https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG"
+        }
+      ],
+      "duration_ms": 297000,
+      "name": "Canoas",
+      "url": "https://open.spotify.com/track/7IUGR0FsJjrME1T9fmN2Ig"
     },
     {
       "added_at": "2021-11-10 05:48:01",
@@ -1365,6 +1365,22 @@
       "url": "https://open.spotify.com/track/5Yp11ERdglGeV2akmFrhtU"
     },
     {
+      "added_at": "2021-10-05 16:26:53",
+      "album": {
+        "name": "Curandero",
+        "url": "https://open.spotify.com/album/3hbeW1sJ4F6IT5bV5qquM4"
+      },
+      "artists": [
+        {
+          "name": "Orkesta Mendoza",
+          "url": "https://open.spotify.com/artist/3VkYgHMyt5EYPd7qfzE3CT"
+        }
+      ],
+      "duration_ms": 158677,
+      "name": "Paleta",
+      "url": "https://open.spotify.com/track/4UGMFGzGdq4H6nIM82d7mP"
+    },
+    {
       "added_at": "2022-03-04 03:54:51",
       "album": {
         "name": "Mujer del Desierto",
@@ -1383,22 +1399,6 @@
       "duration_ms": 210372,
       "name": "Mujer del Desierto",
       "url": "https://open.spotify.com/track/0mT3gq4INtY9A0sjWCz5ms"
-    },
-    {
-      "added_at": "2021-10-05 16:26:53",
-      "album": {
-        "name": "Curandero",
-        "url": "https://open.spotify.com/album/3hbeW1sJ4F6IT5bV5qquM4"
-      },
-      "artists": [
-        {
-          "name": "Orkesta Mendoza",
-          "url": "https://open.spotify.com/artist/3VkYgHMyt5EYPd7qfzE3CT"
-        }
-      ],
-      "duration_ms": 158677,
-      "name": "Paleta",
-      "url": "https://open.spotify.com/track/4UGMFGzGdq4H6nIM82d7mP"
     },
     {
       "added_at": "2022-08-19 02:38:30",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2021-10-05 16:26:53",
       "album": {
-        "name": "Coidar dunhas Colmeas",
-        "url": "https://open.spotify.com/album/0Qgn7S6eY37MTmfBSpq4oN"
-      },
-      "artists": [
-        {
-          "name": "N\u00e9boa",
-          "url": "https://open.spotify.com/artist/1w6hzUtZfQobZi2NTwAJe8"
-        }
-      ],
-      "duration_ms": 238069,
-      "name": "Coidar dunhas Colmeas",
-      "url": "https://open.spotify.com/track/65ASwR5HmShyIoSFa5QPnf"
-    },
-    {
-      "added_at": "2021-10-05 16:26:53",
-      "album": {
         "name": "El Cabr\u00f3n",
         "url": "https://open.spotify.com/album/3408tnJWJPhB79M3m1wJnq"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 222333,
       "name": "El Cabr\u00f3n - Radio Edit",
       "url": "https://open.spotify.com/track/6W4efD0hmXfQH2nTl00Fqv"
+    },
+    {
+      "added_at": "2021-10-05 16:26:53",
+      "album": {
+        "name": "Coidar dunhas Colmeas",
+        "url": "https://open.spotify.com/album/0Qgn7S6eY37MTmfBSpq4oN"
+      },
+      "artists": [
+        {
+          "name": "N\u00e9boa",
+          "url": "https://open.spotify.com/artist/1w6hzUtZfQobZi2NTwAJe8"
+        }
+      ],
+      "duration_ms": 238069,
+      "name": "Coidar dunhas Colmeas",
+      "url": "https://open.spotify.com/track/65ASwR5HmShyIoSFa5QPnf"
     },
     {
       "added_at": "2022-04-05 15:50:31",

@@ -1,12 +1,12 @@
 {
   "description": "\uc5f0\uc778\uc5d0\uac8c \uc804\ud558\ub294 \ub178\ub7ab\ub9d0\uacfc \ub2ec\ub2ec\ud55c \uc2dc\uac04\uc744 \ud568\uaed8\ud558\uc138\uc694.",
-  "num_followers": 6981,
+  "num_followers": 7002,
   "original_name": "\uc0ac\ub791\ud558\ub294 \ub108\uc5d0\uac8c.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjM5MzA3MSwwMDAwMDAwMDgzMWZmMGY0MjNlMDkwMWNjM2VlMTJlOWE2NmUxYjhm",
+  "snapshot_id": "MTY2MjM5MzA3MSwwMDAwMDAwMGM2YzQ3MzZmN2UyNjljYThiODdkOGYzMGY0NzJiZDli",
   "tracks": [
     {
       "added_at": "2022-09-05 15:51:11",
@@ -255,6 +255,34 @@
     {
       "added_at": "2022-09-05 15:51:11",
       "album": {
+        "name": "Ending",
+        "url": "https://open.spotify.com/album/7jD1Irb8NWIAxyfUQQBBKD"
+      },
+      "artists": [
+        {
+          "name": "JUNE",
+          "url": "https://open.spotify.com/artist/0HXCe7R2f1Us5bAW7ohMC6"
+        },
+        {
+          "name": "Gaho",
+          "url": "https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc"
+        },
+        {
+          "name": "Moti",
+          "url": "https://open.spotify.com/artist/2douezlnzbINNdpIBZoYWT"
+        },
+        {
+          "name": "Jung Jin Woo",
+          "url": "https://open.spotify.com/artist/5uVgoepJHC3fbOohI5gXc4"
+        }
+      ],
+      "duration_ms": 211506,
+      "name": "Beautiful (Feat. Gaho, Moti, Jung Jin Woo)",
+      "url": "https://open.spotify.com/track/0xbbTowPEommrfPqICY2ro"
+    },
+    {
+      "added_at": "2022-09-05 15:51:11",
+      "album": {
         "name": "Evening",
         "url": "https://open.spotify.com/album/0mgsPfMEb0YQ42mClBWKc6"
       },
@@ -287,34 +315,6 @@
       "duration_ms": 195042,
       "name": "About You",
       "url": "https://open.spotify.com/track/3Pc9NJtnXnFdhmqcQWXZnF"
-    },
-    {
-      "added_at": "2022-09-05 15:51:11",
-      "album": {
-        "name": "Ending",
-        "url": "https://open.spotify.com/album/7jD1Irb8NWIAxyfUQQBBKD"
-      },
-      "artists": [
-        {
-          "name": "JUNE",
-          "url": "https://open.spotify.com/artist/0HXCe7R2f1Us5bAW7ohMC6"
-        },
-        {
-          "name": "Gaho",
-          "url": "https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc"
-        },
-        {
-          "name": "Moti",
-          "url": "https://open.spotify.com/artist/2douezlnzbINNdpIBZoYWT"
-        },
-        {
-          "name": "Jung Jin Woo",
-          "url": "https://open.spotify.com/artist/5uVgoepJHC3fbOohI5gXc4"
-        }
-      ],
-      "duration_ms": 211506,
-      "name": "Beautiful (Feat. Gaho, Moti, Jung Jin Woo)",
-      "url": "https://open.spotify.com/track/0xbbTowPEommrfPqICY2ro"
     },
     {
       "added_at": "2022-09-05 15:51:11",
@@ -735,22 +735,6 @@
     {
       "added_at": "2022-09-05 15:51:11",
       "album": {
-        "name": "Mirage",
-        "url": "https://open.spotify.com/album/2rk4KNzJtZyJosuI3pU7fP"
-      },
-      "artists": [
-        {
-          "name": "Unchan",
-          "url": "https://open.spotify.com/artist/2QwMi696g8ta10viltHDzF"
-        }
-      ],
-      "duration_ms": 214560,
-      "name": "Mirage",
-      "url": "https://open.spotify.com/track/23z6RGYVcJOsY2qwCESHa9"
-    },
-    {
-      "added_at": "2022-09-05 15:51:11",
-      "album": {
         "name": "First Love",
         "url": "https://open.spotify.com/album/0McpCdcqKHDONKqcMh5UEE"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 182313,
       "name": "First Love",
       "url": "https://open.spotify.com/track/1bhLix8ZApePHFLiVCKpp4"
+    },
+    {
+      "added_at": "2022-09-05 15:51:11",
+      "album": {
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/2rk4KNzJtZyJosuI3pU7fP"
+      },
+      "artists": [
+        {
+          "name": "Unchan",
+          "url": "https://open.spotify.com/artist/2QwMi696g8ta10viltHDzF"
+        }
+      ],
+      "duration_ms": 214560,
+      "name": "Mirage",
+      "url": "https://open.spotify.com/track/23z6RGYVcJOsY2qwCESHa9"
     },
     {
       "added_at": "2022-09-05 15:51:11",
@@ -847,22 +847,6 @@
     {
       "added_at": "2022-09-05 15:51:11",
       "album": {
-        "name": "The Love",
-        "url": "https://open.spotify.com/album/1retTjvT8CC2hzab0L2crW"
-      },
-      "artists": [
-        {
-          "name": "Punch",
-          "url": "https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm"
-        }
-      ],
-      "duration_ms": 210333,
-      "name": "The Love",
-      "url": "https://open.spotify.com/track/6XTTvNy1FG2kqTkTf41lTF"
-    },
-    {
-      "added_at": "2022-09-05 15:51:11",
-      "album": {
         "name": "1.0",
         "url": "https://open.spotify.com/album/2NQxbsV4UYXegJQWbzLR2c"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 172760,
       "name": "Love in the Milky Way Cafe",
       "url": "https://open.spotify.com/track/6k6Llm7Kw3Ad1Xo1e6sIcR"
+    },
+    {
+      "added_at": "2022-09-05 15:51:11",
+      "album": {
+        "name": "The Love",
+        "url": "https://open.spotify.com/album/1retTjvT8CC2hzab0L2crW"
+      },
+      "artists": [
+        {
+          "name": "Punch",
+          "url": "https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm"
+        }
+      ],
+      "duration_ms": 210333,
+      "name": "The Love",
+      "url": "https://open.spotify.com/track/6XTTvNy1FG2kqTkTf41lTF"
     },
     {
       "added_at": "2022-09-05 15:51:11",

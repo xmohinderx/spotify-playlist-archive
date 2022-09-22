@@ -4,7 +4,7 @@
 
 > Are you afraid of the dark?
 
-132 songs - 8 hr 49 min - [published](https://open.spotify.com/playlist/0SUJWBdRSbTiE40kDxwve2)
+134 songs - 8 hr 58 min - [published](https://open.spotify.com/playlist/0SUJWBdRSbTiE40kDxwve2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,8 @@
 | [Heaven](https://open.spotify.com/track/4I4RDB7qNJNF3Yy0EOcsj4) | [Tropical Fuck Storm](https://open.spotify.com/artist/0mL6LBSQ4bHe6hWq90KzHL) | [Legal Ghost / Heaven](https://open.spotify.com/album/4WJfbqq9X1UJHKtjoI9Uum) | 5:13 | 2022-01-27 | 2022-09-15 |
 | [Heaven](https://open.spotify.com/track/5bTDAZWncGRgs184ISoHIT) | [Tropical Fuck Storm](https://open.spotify.com/artist/0mL6LBSQ4bHe6hWq90KzHL) | [Legal Ghost/Heaven](https://open.spotify.com/album/0sinuvgm6LIWPLqwnQ2UfJ) | 5:13 | 2021-11-01 | 2022-07-29 |
 | [Heavy Water/I'd Rather Be Sleeping](https://open.spotify.com/track/6IUwiHsyKAZtfBy37Wu4ij) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Dragging a Dead Deer Up a Hill](https://open.spotify.com/album/0r1ffFQRFvtthTdLV2ZPWL) | 2:53 | 2021-11-01 |  |
-| [Hive Mind](https://open.spotify.com/track/11qlJNC5vSmd0KMeeaRO3D) | [Tirzah](https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd), [Coby Sey](https://open.spotify.com/artist/0d0XAaRW0dxgAtvZ1clgLX) | [Hive Mind](https://open.spotify.com/album/0zkvB981BoEJdo526JVfe8) | 4:05 | 2021-11-01 |  |
+| [Hive Mind](https://open.spotify.com/track/11qlJNC5vSmd0KMeeaRO3D) | [Tirzah](https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd), [Coby Sey](https://open.spotify.com/artist/0d0XAaRW0dxgAtvZ1clgLX) | [Hive Mind](https://open.spotify.com/album/0zkvB981BoEJdo526JVfe8) | 4:05 | 2021-11-01 | 2022-09-22 |
+| [Hotel](https://open.spotify.com/track/0JzG1wJuB4v9UPkSE7LMXi) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Hotel](https://open.spotify.com/album/0ykf7jcx3yY49RpkIO1byF) | 3:17 | 2022-09-21 |  |
 | [I Like You](https://open.spotify.com/track/4mlqHOqOXja92BT4M51lkj) | [dandelion hands](https://open.spotify.com/artist/6mOWFF6HJ6krnIpW0CHLQm) | [It's All In Your Head](https://open.spotify.com/album/68WgULHIkX1dsZYsFPOWWR) | 2:47 | 2021-11-01 |  |
 | [I Stood Bleeding](https://open.spotify.com/track/4I4buFO8TRmLpihhWkAcmg) | [bloody/bath](https://open.spotify.com/artist/6U0yRPIBTZbMoRS3FRvyWc) | [I Stood Bleeding](https://open.spotify.com/album/5cF6ExjCGajZB2IauoHMSM) | 4:10 | 2021-11-01 |  |
 | [i walk this earth all by myself](https://open.spotify.com/track/5a8QUc4ubHJqQm7vzs2YhA) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [i walk this earth all by myself](https://open.spotify.com/album/6tdl27ojBwZ5ZexzZOP4mG) | 2:25 | 2022-09-13 |  |
@@ -60,7 +61,7 @@
 | [If You Say the Word](https://open.spotify.com/track/3pmSHIHtJC289ImufO7uor) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [If You Say the Word](https://open.spotify.com/album/0SvYW67Kes52rOZziDO9uC) | 4:20 | 2021-11-01 |  |
 | [It Was Gone](https://open.spotify.com/track/5XUpxZO6tIHpupxE97LJ7I) | [Orchid Mantis](https://open.spotify.com/artist/6Yt4jPVBqhLFQcNM0dSZtq) | [It Was Gone](https://open.spotify.com/album/2zz9Kq8rQRdV7y9fvpG6eg) | 5:07 | 2021-11-01 |  |
 | [Jim, Let's Play](https://open.spotify.com/track/5cfURqfJGCi5EvCmJsDCtl) | [Drug Store Romeos](https://open.spotify.com/artist/7MMjkDVrjxW9iObeZeeejh) | [Jim, Let’s Play](https://open.spotify.com/album/35qMY153LTQElVMozKvPY6) | 3:04 | 2021-11-01 |  |
-| [Kill Me \- Baby Blue](https://open.spotify.com/track/63bUL5WRZiWBkTmUTV5ucd) | [Dead Soft](https://open.spotify.com/artist/6NayGIgExrNwxUk6MHnMPN) | [Baby Blue](https://open.spotify.com/album/2HLMbPWmagfcwrztFjAPmr) | 3:17 | 2021-11-01 |  |
+| [Kill Me \- Baby Blue](https://open.spotify.com/track/63bUL5WRZiWBkTmUTV5ucd) | [Dead Soft](https://open.spotify.com/artist/6NayGIgExrNwxUk6MHnMPN) | [Baby Blue](https://open.spotify.com/album/2HLMbPWmagfcwrztFjAPmr) | 3:17 | 2021-11-01 | 2022-09-22 |
 | [Lifeboats](https://open.spotify.com/track/4v5Gh9dg1S51pOUwJeU49Q) | [Eleanor Collides](https://open.spotify.com/artist/25BX6Xni6D9YdDmS4UhK34) | [Lifeboats](https://open.spotify.com/album/1tR2o0fZ5EQmcw0vbNAEta) | 4:14 | 2022-09-13 |  |
 | [Live Forever](https://open.spotify.com/track/3mD05E4WmEnVCC8bQgpQEd) | [Daniel Spaleniak](https://open.spotify.com/artist/2OnWZezIAII3VLBCxG5gQs) | [Tape V](https://open.spotify.com/album/24t3OdqKwiz0ePiBCBsScw) | 2:57 | 2022-02-24 |  |
 | [Lost](https://open.spotify.com/track/5GbEVRKvHeBEE8PARaRQOJ) | [Crippled Black Phoenix](https://open.spotify.com/artist/6WEyPcf9ezhNLm1xOBjbwH) | [Lost](https://open.spotify.com/album/3HcXn4sSYlHrNcMfEgP9qJ) | 8:11 | 2021-11-01 |  |
@@ -88,6 +89,7 @@
 | [Port](https://open.spotify.com/track/5TnhWeSJAkolB4y8eY3P2T) | [bdrmm](https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C) | [Port](https://open.spotify.com/album/0v8LHvECm25kz8i2ii5n7w) | 4:42 | 2021-11-01 |  |
 | [Prey \- 2021 Remastered version](https://open.spotify.com/track/1FF7zgBIYfnk19yuqqAFov) | [MUNKIB](https://open.spotify.com/artist/4Iyu0COGYnTwmS9xrjnNc2) | [Prey \(2021 Remastered version\)](https://open.spotify.com/album/16C0PRefWun3qFlVrE98A7) | 2:36 | 2022-01-27 | 2022-09-15 |
 | [Prototype / Limit to Your Love](https://open.spotify.com/track/6gjQwd0yaseqxwPDHRmAUz) | [WOOM](https://open.spotify.com/artist/2zzPNRhGuLRbP6d1YwakiC) | [Prototype / Limit to Your Love](https://open.spotify.com/album/0eKwPKBEpEwPZtX5cIqAPo) | 4:39 | 2021-11-01 |  |
+| [Ptolemaea](https://open.spotify.com/track/7JqYAVv3OZnaYZ7i9pNdtN) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Preacher’s Daughter](https://open.spotify.com/album/40pYNrOZaH6Ozmex2nLniD) | 6:23 | 2022-09-21 |  |
 | [Running Up That Hill](https://open.spotify.com/track/6RHHbAbyIcPpvS1dP3KUGq) | [Placebo](https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB) | [Covers](https://open.spotify.com/album/42LvsxgKnHYVu7PQRXmURw) | 4:57 | 2021-11-01 |  |
 | [Satanic Slumber Party](https://open.spotify.com/track/0ICUKBKREHRLjER0tpVUsQ) | [Elita](https://open.spotify.com/artist/7ApzfFN0BmeeVJPsQBReRv) | [Satanic Slumber Party](https://open.spotify.com/album/1DzDpnu7RRi9E7kAELM3Ec) | 3:03 | 2021-11-01 | 2022-07-29 |
 | [Satanic Slumber Party](https://open.spotify.com/track/5TRDXiHPikN83orTXSmZBz) | [Elita](https://open.spotify.com/artist/7ApzfFN0BmeeVJPsQBReRv) | [Satanic Slumber Party](https://open.spotify.com/album/2v4jEVLq0kmKeWCE7svpyq) | 3:03 | 2022-01-27 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Flow sudamericano con Cris Mj.",
-  "num_followers": 266497,
+  "num_followers": 266666,
   "original_name": "Flow al Sur",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjczMTUyNywwMDAwMDAwMGVmZjRhYmI2ODcxMTY1NTExYTBjNDBiOTcwYWVjOTE3",
+  "snapshot_id": "MTY2MjczMTUyNywwMDAwMDAwMDVmY2VmNzg2ZTFlNjUwMTYyOWE4ODExYWYxNzc1Zjli",
   "tracks": [
     {
       "added_at": "2022-09-09 13:52:07",
@@ -455,6 +455,34 @@
     {
       "added_at": "2022-09-09 13:52:07",
       "album": {
+        "name": "BABY OTAKU",
+        "url": "https://open.spotify.com/album/7HUH0lFoay2KzGEZqGp55G"
+      },
+      "artists": [
+        {
+          "name": "Pablo Pesadilla",
+          "url": "https://open.spotify.com/artist/41vcoPejPG3vv8emJ2R5Ox"
+        },
+        {
+          "name": "Polim\u00e1 Westcoast",
+          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
+        },
+        {
+          "name": "Nickoog Clk",
+          "url": "https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj"
+        },
+        {
+          "name": "Fran C",
+          "url": "https://open.spotify.com/artist/5NenY2Jl9wwLRxf86go4Y8"
+        }
+      ],
+      "duration_ms": 176470,
+      "name": "BABY OTAKU",
+      "url": "https://open.spotify.com/track/0kTMK4gNFfLXaTb62w1UaJ"
+    },
+    {
+      "added_at": "2022-09-09 13:52:07",
+      "album": {
         "name": "Caminemos de la Mano",
         "url": "https://open.spotify.com/album/4mN6kuLwt2N8SLascdzLyB"
       },
@@ -491,34 +519,6 @@
       "duration_ms": 217773,
       "name": "Qu\u00e9 M\u00e1s Pues?",
       "url": "https://open.spotify.com/track/6hf0RpxTbOprT5nnwzkk8e"
-    },
-    {
-      "added_at": "2022-09-09 13:52:07",
-      "album": {
-        "name": "BABY OTAKU",
-        "url": "https://open.spotify.com/album/7HUH0lFoay2KzGEZqGp55G"
-      },
-      "artists": [
-        {
-          "name": "Pablo Pesadilla",
-          "url": "https://open.spotify.com/artist/41vcoPejPG3vv8emJ2R5Ox"
-        },
-        {
-          "name": "Polim\u00e1 Westcoast",
-          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
-        },
-        {
-          "name": "Nickoog Clk",
-          "url": "https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj"
-        },
-        {
-          "name": "Fran C",
-          "url": "https://open.spotify.com/artist/5NenY2Jl9wwLRxf86go4Y8"
-        }
-      ],
-      "duration_ms": 176470,
-      "name": "BABY OTAKU",
-      "url": "https://open.spotify.com/track/0kTMK4gNFfLXaTb62w1UaJ"
     },
     {
       "added_at": "2022-09-09 13:52:07",
@@ -799,30 +799,6 @@
     {
       "added_at": "2022-09-09 13:52:07",
       "album": {
-        "name": "Dime T\u00fa",
-        "url": "https://open.spotify.com/album/5RdU0FElotMIDYbY8zKiHx"
-      },
-      "artists": [
-        {
-          "name": "Pailita",
-          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
-        },
-        {
-          "name": "Cris Mj",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
-        },
-        {
-          "name": "Big Cvyu",
-          "url": "https://open.spotify.com/artist/7tMukTswF8N6b0zI4rlCmg"
-        }
-      ],
-      "duration_ms": 225864,
-      "name": "Dime T\u00fa",
-      "url": "https://open.spotify.com/track/4lLl2TEcaKFcP6m9Xzx3rI"
-    },
-    {
-      "added_at": "2022-09-09 13:52:07",
-      "album": {
         "name": "KU'",
         "url": "https://open.spotify.com/album/56HOIAzfolOPCOmExaPHxf"
       },
@@ -843,6 +819,30 @@
       "duration_ms": 230544,
       "name": "KU'",
       "url": "https://open.spotify.com/track/261Jxss9utRCMg11TWEU8M"
+    },
+    {
+      "added_at": "2022-09-09 13:52:07",
+      "album": {
+        "name": "Dime T\u00fa",
+        "url": "https://open.spotify.com/album/5RdU0FElotMIDYbY8zKiHx"
+      },
+      "artists": [
+        {
+          "name": "Pailita",
+          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
+        },
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        },
+        {
+          "name": "Big Cvyu",
+          "url": "https://open.spotify.com/artist/7tMukTswF8N6b0zI4rlCmg"
+        }
+      ],
+      "duration_ms": 225864,
+      "name": "Dime T\u00fa",
+      "url": "https://open.spotify.com/track/4lLl2TEcaKFcP6m9Xzx3rI"
     },
     {
       "added_at": "2022-09-09 13:52:07",
@@ -1159,6 +1159,26 @@
     {
       "added_at": "2022-09-09 13:52:07",
       "album": {
+        "name": "Killer Bomb\u00f3n",
+        "url": "https://open.spotify.com/album/67n9KcQSGTqIJVkIL4ghe8"
+      },
+      "artists": [
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        },
+        {
+          "name": "Los Palmeras",
+          "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
+        }
+      ],
+      "duration_ms": 160180,
+      "name": "Killer Bomb\u00f3n",
+      "url": "https://open.spotify.com/track/4z5qbMlx4iAexxMQ9FbSa1"
+    },
+    {
+      "added_at": "2022-09-09 13:52:07",
+      "album": {
         "name": "No Me Conocen (Remix) (Con Duki, Rei & Tiago Pzk)",
         "url": "https://open.spotify.com/album/5aPphlcyYDCyKddSFOWJpe"
       },
@@ -1183,26 +1203,6 @@
       "duration_ms": 280274,
       "name": "No Me Conocen (Remix) [con DUKI, Rei & Tiago PZK]",
       "url": "https://open.spotify.com/track/7COGuXyTr12KvdaYXMqheC"
-    },
-    {
-      "added_at": "2022-09-09 13:52:07",
-      "album": {
-        "name": "Killer Bomb\u00f3n",
-        "url": "https://open.spotify.com/album/67n9KcQSGTqIJVkIL4ghe8"
-      },
-      "artists": [
-        {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
-        },
-        {
-          "name": "Los Palmeras",
-          "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
-        }
-      ],
-      "duration_ms": 160180,
-      "name": "Killer Bomb\u00f3n",
-      "url": "https://open.spotify.com/track/4z5qbMlx4iAexxMQ9FbSa1"
     },
     {
       "added_at": "2022-09-09 13:52:07",
@@ -1243,26 +1243,6 @@
     {
       "added_at": "2022-09-09 13:52:07",
       "album": {
-        "name": "Yo Quiero",
-        "url": "https://open.spotify.com/album/5kzinI28FtIP1UjxPtQ528"
-      },
-      "artists": [
-        {
-          "name": "Nio Garcia",
-          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
-        },
-        {
-          "name": "Pailita",
-          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
-        }
-      ],
-      "duration_ms": 209838,
-      "name": "Yo Quiero",
-      "url": "https://open.spotify.com/track/5prjQ7QCWQXH84EUwIckgB"
-    },
-    {
-      "added_at": "2022-09-09 13:52:07",
-      "album": {
         "name": "Los Malvekes",
         "url": "https://open.spotify.com/album/5YFf8tEsUb6NHSxdX4jY71"
       },
@@ -1291,6 +1271,26 @@
     {
       "added_at": "2022-09-09 13:52:07",
       "album": {
+        "name": "Yo Quiero",
+        "url": "https://open.spotify.com/album/5kzinI28FtIP1UjxPtQ528"
+      },
+      "artists": [
+        {
+          "name": "Nio Garcia",
+          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
+        },
+        {
+          "name": "Pailita",
+          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
+        }
+      ],
+      "duration_ms": 209838,
+      "name": "Yo Quiero",
+      "url": "https://open.spotify.com/track/5prjQ7QCWQXH84EUwIckgB"
+    },
+    {
+      "added_at": "2022-09-09 13:52:07",
+      "album": {
         "name": "Noche Loca",
         "url": "https://open.spotify.com/album/0jGIldXN61FvFD9bo2clt5"
       },
@@ -1311,18 +1311,22 @@
     {
       "added_at": "2022-09-09 13:52:07",
       "album": {
-        "name": "En El Jacuzzi",
-        "url": "https://open.spotify.com/album/5vh89KrZXnedhmUP5K2t0z"
+        "name": "MAWZ",
+        "url": "https://open.spotify.com/album/1SBHFu8QLBlhsqLL7WQtlR"
       },
       "artists": [
         {
-          "name": "Nickoog Clk",
-          "url": "https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj"
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
         }
       ],
-      "duration_ms": 164542,
-      "name": "En El Jacuzzi",
-      "url": "https://open.spotify.com/track/2k7S3I1y0pYfkxeFSgkuBa"
+      "duration_ms": 190928,
+      "name": "Mala M\u00eda",
+      "url": "https://open.spotify.com/track/7FfQ2E4LqvwKKOyKXyC2L2"
     },
     {
       "added_at": "2022-09-09 13:52:07",
@@ -1347,6 +1351,22 @@
       "duration_ms": 219906,
       "name": "12x3 Remix (with Micro TDH & Rusherking)",
       "url": "https://open.spotify.com/track/3nl2V4yl1Vt8EJSM8RhSmJ"
+    },
+    {
+      "added_at": "2022-09-09 13:52:07",
+      "album": {
+        "name": "En El Jacuzzi",
+        "url": "https://open.spotify.com/album/5vh89KrZXnedhmUP5K2t0z"
+      },
+      "artists": [
+        {
+          "name": "Nickoog Clk",
+          "url": "https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj"
+        }
+      ],
+      "duration_ms": 164542,
+      "name": "En El Jacuzzi",
+      "url": "https://open.spotify.com/track/2k7S3I1y0pYfkxeFSgkuBa"
     },
     {
       "added_at": "2022-09-09 13:52:07",
@@ -1391,26 +1411,6 @@
     {
       "added_at": "2022-09-09 13:52:07",
       "album": {
-        "name": "MAWZ",
-        "url": "https://open.spotify.com/album/1SBHFu8QLBlhsqLL7WQtlR"
-      },
-      "artists": [
-        {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
-        },
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        }
-      ],
-      "duration_ms": 190928,
-      "name": "Mala M\u00eda",
-      "url": "https://open.spotify.com/track/7FfQ2E4LqvwKKOyKXyC2L2"
-    },
-    {
-      "added_at": "2022-09-09 13:52:07",
-      "album": {
         "name": "De Vacaciones",
         "url": "https://open.spotify.com/album/3hGXppZGM4VXr1v3m6DVX3"
       },
@@ -1423,6 +1423,22 @@
       "duration_ms": 141702,
       "name": "De Vacaciones",
       "url": "https://open.spotify.com/track/0hRKaSIym7bBRZ5oXLUsfx"
+    },
+    {
+      "added_at": "2022-09-09 13:52:07",
+      "album": {
+        "name": "Como Te Va",
+        "url": "https://open.spotify.com/album/77iLR6m7fjHq7pZgIX3cc8"
+      },
+      "artists": [
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "duration_ms": 225668,
+      "name": "Como Te Va",
+      "url": "https://open.spotify.com/track/3y0h34yThCG2qGO4vR0oi5"
     },
     {
       "added_at": "2022-09-09 13:52:07",
@@ -1459,22 +1475,6 @@
       "duration_ms": 198556,
       "name": "Me Voy Contigo",
       "url": "https://open.spotify.com/track/5VSAcJtB7PlXO3cwC4vjom"
-    },
-    {
-      "added_at": "2022-09-09 13:52:07",
-      "album": {
-        "name": "Como Te Va",
-        "url": "https://open.spotify.com/album/77iLR6m7fjHq7pZgIX3cc8"
-      },
-      "artists": [
-        {
-          "name": "Cris Mj",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
-        }
-      ],
-      "duration_ms": 225668,
-      "name": "Como Te Va",
-      "url": "https://open.spotify.com/track/3y0h34yThCG2qGO4vR0oi5"
     },
     {
       "added_at": "2022-09-09 13:52:07",
@@ -1531,6 +1531,26 @@
     {
       "added_at": "2022-09-09 13:52:07",
       "album": {
+        "name": "MAWZ",
+        "url": "https://open.spotify.com/album/1SBHFu8QLBlhsqLL7WQtlR"
+      },
+      "artists": [
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 173142,
+      "name": "En la Oscuridad",
+      "url": "https://open.spotify.com/track/4OrAAeefsDOdUSfE87C6WR"
+    },
+    {
+      "added_at": "2022-09-09 13:52:07",
+      "album": {
         "name": "Te Necesito",
         "url": "https://open.spotify.com/album/6qacH4ed0StQX243TgQITF"
       },
@@ -1567,26 +1587,6 @@
       "duration_ms": 183413,
       "name": "Mal\u00e9fica",
       "url": "https://open.spotify.com/track/0U9OZFbn82oICL2jNbpNHy"
-    },
-    {
-      "added_at": "2022-09-09 13:52:07",
-      "album": {
-        "name": "MAWZ",
-        "url": "https://open.spotify.com/album/1SBHFu8QLBlhsqLL7WQtlR"
-      },
-      "artists": [
-        {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 173142,
-      "name": "En la Oscuridad",
-      "url": "https://open.spotify.com/track/4OrAAeefsDOdUSfE87C6WR"
     },
     {
       "added_at": "2022-09-09 13:52:07",
@@ -1751,6 +1751,26 @@
     {
       "added_at": "2022-09-09 13:52:07",
       "album": {
+        "name": "Revenge",
+        "url": "https://open.spotify.com/album/3KFx3Wq5uUF763v3y0CoFn"
+      },
+      "artists": [
+        {
+          "name": "Max Valenzuela",
+          "url": "https://open.spotify.com/artist/0MlQeZCQnaFSGv9gRiE1rD"
+        },
+        {
+          "name": "Red Fingers",
+          "url": "https://open.spotify.com/artist/1tLTF6ypPIzjzarePwdcNo"
+        }
+      ],
+      "duration_ms": 134000,
+      "name": "Revenge",
+      "url": "https://open.spotify.com/track/7JEXEuuEQ7qDTW1DAOpFCz"
+    },
+    {
+      "added_at": "2022-09-09 13:52:07",
+      "album": {
         "name": "INTERESTELAR",
         "url": "https://open.spotify.com/album/5p1Ibt3enlZjqqQxvpRZsM"
       },
@@ -1771,26 +1791,6 @@
       "duration_ms": 173333,
       "name": "INTERESTELAR",
       "url": "https://open.spotify.com/track/13XxxfnZmFEkU90QN8bOjz"
-    },
-    {
-      "added_at": "2022-09-09 13:52:07",
-      "album": {
-        "name": "Revenge",
-        "url": "https://open.spotify.com/album/3KFx3Wq5uUF763v3y0CoFn"
-      },
-      "artists": [
-        {
-          "name": "Max Valenzuela",
-          "url": "https://open.spotify.com/artist/0MlQeZCQnaFSGv9gRiE1rD"
-        },
-        {
-          "name": "Red Fingers",
-          "url": "https://open.spotify.com/artist/1tLTF6ypPIzjzarePwdcNo"
-        }
-      ],
-      "duration_ms": 134000,
-      "name": "Revenge",
-      "url": "https://open.spotify.com/track/7JEXEuuEQ7qDTW1DAOpFCz"
     },
     {
       "added_at": "2022-09-09 13:52:07",
@@ -2031,50 +2031,6 @@
     {
       "added_at": "2022-09-09 13:52:07",
       "album": {
-        "name": "Tengo Una Gata",
-        "url": "https://open.spotify.com/album/0AK1tdd6K55MyjqWRTaE0l"
-      },
-      "artists": [
-        {
-          "name": "Kaleb Di Masi",
-          "url": "https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4"
-        },
-        {
-          "name": "El Jordan 23",
-          "url": "https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V"
-        },
-        {
-          "name": "Omar Varela",
-          "url": "https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU"
-        }
-      ],
-      "duration_ms": 166736,
-      "name": "Tengo Una Gata",
-      "url": "https://open.spotify.com/track/0pSDNO7MU9P0RqCiol2gvD"
-    },
-    {
-      "added_at": "2022-09-09 13:52:07",
-      "album": {
-        "name": "DOLCE",
-        "url": "https://open.spotify.com/album/18bGWFvF9E6waWylR3vaCH"
-      },
-      "artists": [
-        {
-          "name": "Young Cister",
-          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
-        },
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        }
-      ],
-      "duration_ms": 242006,
-      "name": "DOLCE",
-      "url": "https://open.spotify.com/track/0wDjuXaTy4MVdFOy65Gz9H"
-    },
-    {
-      "added_at": "2022-09-09 13:52:07",
-      "album": {
         "name": "Quiero Pelarme",
         "url": "https://open.spotify.com/album/0LyDaK9KIevDLBfXAvVdlU"
       },
@@ -2099,6 +2055,26 @@
     {
       "added_at": "2022-09-09 13:52:07",
       "album": {
+        "name": "DOLCE",
+        "url": "https://open.spotify.com/album/18bGWFvF9E6waWylR3vaCH"
+      },
+      "artists": [
+        {
+          "name": "Young Cister",
+          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "duration_ms": 242006,
+      "name": "DOLCE",
+      "url": "https://open.spotify.com/track/0wDjuXaTy4MVdFOy65Gz9H"
+    },
+    {
+      "added_at": "2022-09-09 13:52:07",
+      "album": {
         "name": "Me Ense\u00f1aste (Remix)",
         "url": "https://open.spotify.com/album/3TNDvI62UbwgzEK0RZ99Rt"
       },
@@ -2115,6 +2091,30 @@
       "duration_ms": 240773,
       "name": "Me Ense\u00f1aste - Remix",
       "url": "https://open.spotify.com/track/4tFglUmIjJtN0ViGNNv4mi"
+    },
+    {
+      "added_at": "2022-09-09 13:52:07",
+      "album": {
+        "name": "Tengo Una Gata",
+        "url": "https://open.spotify.com/album/0AK1tdd6K55MyjqWRTaE0l"
+      },
+      "artists": [
+        {
+          "name": "Kaleb Di Masi",
+          "url": "https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4"
+        },
+        {
+          "name": "El Jordan 23",
+          "url": "https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V"
+        },
+        {
+          "name": "Omar Varela",
+          "url": "https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU"
+        }
+      ],
+      "duration_ms": 166736,
+      "name": "Tengo Una Gata",
+      "url": "https://open.spotify.com/track/0pSDNO7MU9P0RqCiol2gvD"
     },
     {
       "added_at": "2022-09-09 13:52:07",

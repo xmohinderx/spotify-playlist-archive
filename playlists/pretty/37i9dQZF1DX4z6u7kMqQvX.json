@@ -1,12 +1,12 @@
 {
   "description": "Sin ataduras, pero con amor: la medida justa de romance independiente.",
-  "num_followers": 85342,
+  "num_followers": 85417,
   "original_name": "Amor Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY5MjQwMCwwMDAwMDAwMDNjYjQxMzQyZjlhZjY5Y2M0ZDg2YjFlNGZiZjc2OTUw",
+  "snapshot_id": "MTY2MjY5MjQwMCwwMDAwMDAwMGNhNWExYmU4YTNmMzljMDQzY2ZmYmQ1ZTQzNjYxM2M3",
   "tracks": [
     {
       "added_at": "2022-09-09 03:00:00",
@@ -415,6 +415,22 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
+        "name": "La Cantera",
+        "url": "https://open.spotify.com/album/3BDwyojdwMAmBEsXZlyQjW"
+      },
+      "artists": [
+        {
+          "name": "Guitarricadelafuente",
+          "url": "https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL"
+        }
+      ],
+      "duration_ms": 191846,
+      "name": "Ya mi mama me dec\u00eda",
+      "url": "https://open.spotify.com/track/4qFkP6Kyhw3WDOSKqJaZbP"
+    },
+    {
+      "added_at": "2022-09-09 03:00:00",
+      "album": {
         "name": "El Encuentro",
         "url": "https://open.spotify.com/album/3NAGaIPdSjlSJhAbcgRU3A"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 178392,
       "name": "El Encuentro",
       "url": "https://open.spotify.com/track/0PbDj1Lh8uZJ2ZcTRSBvQf"
-    },
-    {
-      "added_at": "2022-09-09 03:00:00",
-      "album": {
-        "name": "La Cantera",
-        "url": "https://open.spotify.com/album/3BDwyojdwMAmBEsXZlyQjW"
-      },
-      "artists": [
-        {
-          "name": "Guitarricadelafuente",
-          "url": "https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL"
-        }
-      ],
-      "duration_ms": 191846,
-      "name": "Ya mi mama me dec\u00eda",
-      "url": "https://open.spotify.com/track/4qFkP6Kyhw3WDOSKqJaZbP"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -667,22 +667,6 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
-        "name": "2030",
-        "url": "https://open.spotify.com/album/2BBBxM35Iz9XG9cARYDqlr"
-      },
-      "artists": [
-        {
-          "name": "LOUTA",
-          "url": "https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3"
-        }
-      ],
-      "duration_ms": 177264,
-      "name": "NO ME EST\u00c1S HACIENDO UN FAVOR",
-      "url": "https://open.spotify.com/track/2WcPl9wtGox6EUla9BAW7W"
-    },
-    {
-      "added_at": "2022-09-09 03:00:00",
-      "album": {
         "name": "Ciencia Exacta",
         "url": "https://open.spotify.com/album/4n65tDbR2iIn5e9jgo9Zwv"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 158121,
       "name": "Las Flores",
       "url": "https://open.spotify.com/track/1xQqAdL14WHwCUoCqwBVjk"
+    },
+    {
+      "added_at": "2022-09-09 03:00:00",
+      "album": {
+        "name": "2030",
+        "url": "https://open.spotify.com/album/2BBBxM35Iz9XG9cARYDqlr"
+      },
+      "artists": [
+        {
+          "name": "LOUTA",
+          "url": "https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3"
+        }
+      ],
+      "duration_ms": 177264,
+      "name": "NO ME EST\u00c1S HACIENDO UN FAVOR",
+      "url": "https://open.spotify.com/track/2WcPl9wtGox6EUla9BAW7W"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -835,22 +835,6 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
-        "name": "La Mexicana - Single",
-        "url": "https://open.spotify.com/album/4uJT1I6IOjTQoXRgvK5OQy"
-      },
-      "artists": [
-        {
-          "name": "Conociendo Rusia",
-          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
-        }
-      ],
-      "duration_ms": 206738,
-      "name": "La Mexicana",
-      "url": "https://open.spotify.com/track/6a0pgQDztJ44FdNY9h0GfY"
-    },
-    {
-      "added_at": "2022-09-09 03:00:00",
-      "album": {
         "name": "Bailemos en la Sala",
         "url": "https://open.spotify.com/album/1AGFRwoIQhzXjkxAVEMn2W"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 231682,
       "name": "Escondidos",
       "url": "https://open.spotify.com/track/0Dqqdhn0ktI7pz8qNhT3AO"
+    },
+    {
+      "added_at": "2022-09-09 03:00:00",
+      "album": {
+        "name": "La Mexicana - Single",
+        "url": "https://open.spotify.com/album/4uJT1I6IOjTQoXRgvK5OQy"
+      },
+      "artists": [
+        {
+          "name": "Conociendo Rusia",
+          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
+        }
+      ],
+      "duration_ms": 206738,
+      "name": "La Mexicana",
+      "url": "https://open.spotify.com/track/6a0pgQDztJ44FdNY9h0GfY"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
-        "name": "1312 (Portarme Mal)",
-        "url": "https://open.spotify.com/album/42w7E2GNUhaLGrpaFFsary"
-      },
-      "artists": [
-        {
-          "name": "ODD MAMI",
-          "url": "https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6"
-        }
-      ],
-      "duration_ms": 218613,
-      "name": "1312 (Portarme Mal)",
-      "url": "https://open.spotify.com/track/3jlJPXVY5FXYklQOQCHER9"
-    },
-    {
-      "added_at": "2022-09-09 03:00:00",
-      "album": {
         "name": "Sin Se\u00f1al",
         "url": "https://open.spotify.com/album/7uXeWwjpTHrDTCjF4cVrZX"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 218720,
       "name": "Sin Se\u00f1al",
       "url": "https://open.spotify.com/track/5M3Vn0DW4NtHNoo3Gmo1PT"
+    },
+    {
+      "added_at": "2022-09-09 03:00:00",
+      "album": {
+        "name": "1312 (Portarme Mal)",
+        "url": "https://open.spotify.com/album/42w7E2GNUhaLGrpaFFsary"
+      },
+      "artists": [
+        {
+          "name": "ODD MAMI",
+          "url": "https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6"
+        }
+      ],
+      "duration_ms": 218613,
+      "name": "1312 (Portarme Mal)",
+      "url": "https://open.spotify.com/track/3jlJPXVY5FXYklQOQCHER9"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
-        "name": "Frontera / Fuji",
-        "url": "https://open.spotify.com/album/2ZUxEEF8UXDzh0OgEJwylB"
-      },
-      "artists": [
-        {
-          "name": "Loli Molina",
-          "url": "https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32"
-        }
-      ],
-      "duration_ms": 278712,
-      "name": "Fuji",
-      "url": "https://open.spotify.com/track/1s1XgeIjN3tyyuduv3VhRU"
-    },
-    {
-      "added_at": "2022-09-09 03:00:00",
-      "album": {
         "name": "24/7",
         "url": "https://open.spotify.com/album/6QvWbaJBDqJ6BCQ21BOLmM"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 207809,
       "name": "Duele",
       "url": "https://open.spotify.com/track/5aS8Tp9ewqjjKzdhqdgjaK"
+    },
+    {
+      "added_at": "2022-09-09 03:00:00",
+      "album": {
+        "name": "Frontera / Fuji",
+        "url": "https://open.spotify.com/album/2ZUxEEF8UXDzh0OgEJwylB"
+      },
+      "artists": [
+        {
+          "name": "Loli Molina",
+          "url": "https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32"
+        }
+      ],
+      "duration_ms": 278712,
+      "name": "Fuji",
+      "url": "https://open.spotify.com/track/1s1XgeIjN3tyyuduv3VhRU"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
-        "name": "La Negaci\u00f3n",
-        "url": "https://open.spotify.com/album/6HVV8a7LZBFRoSdlMZjIu2"
-      },
-      "artists": [
-        {
-          "name": "Malena Villa",
-          "url": "https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN"
-        }
-      ],
-      "duration_ms": 192070,
-      "name": "Sad Balada",
-      "url": "https://open.spotify.com/track/5gVtKWi5x6U74LMJ6YjyHw"
-    },
-    {
-      "added_at": "2022-09-09 03:00:00",
-      "album": {
         "name": "Buitres",
         "url": "https://open.spotify.com/album/0to2ICjzDMqXzRnuqdpyWL"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 223546,
       "name": "Rotos",
       "url": "https://open.spotify.com/track/1KUr8uO7RjiXS6Mg7sngQq"
+    },
+    {
+      "added_at": "2022-09-09 03:00:00",
+      "album": {
+        "name": "La Negaci\u00f3n",
+        "url": "https://open.spotify.com/album/6HVV8a7LZBFRoSdlMZjIu2"
+      },
+      "artists": [
+        {
+          "name": "Malena Villa",
+          "url": "https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN"
+        }
+      ],
+      "duration_ms": 192070,
+      "name": "Sad Balada",
+      "url": "https://open.spotify.com/track/5gVtKWi5x6U74LMJ6YjyHw"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
-        "name": "Crucero Cristal",
-        "url": "https://open.spotify.com/album/0LmoZ3QsZ5UDNoit01E12E"
-      },
-      "artists": [
-        {
-          "name": "Anyi",
-          "url": "https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD"
-        }
-      ],
-      "duration_ms": 177368,
-      "name": "Sue\u00f1o Tsunami",
-      "url": "https://open.spotify.com/track/6bXaxXuBHxzy98PWxPvVLl"
-    },
-    {
-      "added_at": "2022-09-09 03:00:00",
-      "album": {
         "name": "Reset",
         "url": "https://open.spotify.com/album/0DDUTF4YqIOsUpq9MOqWMo"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 122456,
       "name": "Por Amor al Arte",
       "url": "https://open.spotify.com/track/11J0d0cb0J4Xk4PcRyuJ3k"
+    },
+    {
+      "added_at": "2022-09-09 03:00:00",
+      "album": {
+        "name": "Crucero Cristal",
+        "url": "https://open.spotify.com/album/0LmoZ3QsZ5UDNoit01E12E"
+      },
+      "artists": [
+        {
+          "name": "Anyi",
+          "url": "https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD"
+        }
+      ],
+      "duration_ms": 177368,
+      "name": "Sue\u00f1o Tsunami",
+      "url": "https://open.spotify.com/track/6bXaxXuBHxzy98PWxPvVLl"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -1699,18 +1699,22 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
-        "name": "Lloro",
-        "url": "https://open.spotify.com/album/2I3XUFeagyBtNOsqVR0rxj"
+        "name": "Un Vaso de Agua",
+        "url": "https://open.spotify.com/album/6mUautkWmj3z5Q1FJ68tUN"
       },
       "artists": [
         {
-          "name": "Marion Raw",
-          "url": "https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj"
+          "name": "Candelaria Zamar",
+          "url": "https://open.spotify.com/artist/5CvtChuDVlejwaMPQb9Sx1"
+        },
+        {
+          "name": "Hern\u00e1n Segret",
+          "url": "https://open.spotify.com/artist/0ZsQYKiNIxkaBdbkftJQYU"
         }
       ],
-      "duration_ms": 204856,
-      "name": "Lloro",
-      "url": "https://open.spotify.com/track/2A2is5EUKFNtdcIT3yX9Gj"
+      "duration_ms": 88957,
+      "name": "Si No Es As\u00ed",
+      "url": "https://open.spotify.com/track/687EDCtBggHXjS1HxfILjB"
     }
   ],
   "unique_name": "Amor Indie",

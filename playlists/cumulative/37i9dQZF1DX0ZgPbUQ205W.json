@@ -303,7 +303,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-22",
       "duration_ms": 328466,
       "name": "Arrolo da Alba",
       "url": "https://open.spotify.com/track/2h3sCc2q9ul9H0D7rKltg7"
@@ -1209,7 +1209,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-22",
       "duration_ms": 192341,
       "name": "Gratitude",
       "url": "https://open.spotify.com/track/1lJ0ZAKzcuM8AGkpHk5q0p"
@@ -1742,6 +1742,24 @@
     },
     {
       "album": {
+        "name": "Revisited",
+        "url": "https://open.spotify.com/album/2YrkkjesHFyXvlWDi9ODLh"
+      },
+      "artists": [
+        {
+          "name": "Helge Lien Trio",
+          "url": "https://open.spotify.com/artist/4kWBvU5JdoohnGYl7SMlfY"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 371165,
+      "name": "Liten Jazzballong Revisited",
+      "url": "https://open.spotify.com/track/4r5PvENy5EBuslP0KIlsO9"
+    },
+    {
+      "album": {
         "name": "Lonely Shadows",
         "url": "https://open.spotify.com/album/2cHI5uX8xjQbAb5LpWAHU6"
       },
@@ -2009,7 +2027,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-19",
+      "date_removed": null,
       "duration_ms": 260786,
       "name": "Never Ending January",
       "url": "https://open.spotify.com/track/4L10SBstHivQvkGiPu4FHX"
@@ -2451,7 +2469,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-22",
       "duration_ms": 185110,
       "name": "Questions in a World of Blue",
       "url": "https://open.spotify.com/track/5BQcGyihNd07qVOSNZ1nWi"
@@ -2915,7 +2933,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-16",
+      "date_removed": null,
       "duration_ms": 225067,
       "name": "Sora",
       "url": "https://open.spotify.com/track/5uJ3moeNy2VtiI2elT6Lf6"

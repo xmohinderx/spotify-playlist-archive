@@ -1,12 +1,12 @@
 {
   "description": "A salute to all of the women that like it loud & heavy. Cover: Scene Queen",
-  "num_followers": 530350,
+  "num_followers": 530436,
   "original_name": "Heavy Queens",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzYwODU4NCwwMDAwMDAwMDEyZTVkODQxZGJhMDQ0ODhjYTAyNDQyMzZkMDYzYmFk",
+  "snapshot_id": "MTY0NzYwODU4NCwwMDAwMDAwMDExZTQ3OGFlOTI4NWUxOTNmMmJhZjIwNmVjOWRmZGM2",
   "tracks": [
     {
       "added_at": "2022-03-11 00:00:00",
@@ -447,22 +447,6 @@
     {
       "added_at": "2022-03-11 00:00:00",
       "album": {
-        "name": "Sleeping with the Enemy",
-        "url": "https://open.spotify.com/album/3xGmtGuHsGeKBr9mMvAseA"
-      },
-      "artists": [
-        {
-          "name": "Butcher Babies",
-          "url": "https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj"
-        }
-      ],
-      "duration_ms": 212927,
-      "name": "Sleeping with the Enemy",
-      "url": "https://open.spotify.com/track/4vzlN6pMehztFUIdNlei1m"
-    },
-    {
-      "added_at": "2022-03-11 00:00:00",
-      "album": {
         "name": "Death By Rock And Roll",
         "url": "https://open.spotify.com/album/2ysgEIHY4aOMMbbu0uV6ey"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 270226,
       "name": "And So It Went [Feat. Tom Morello]",
       "url": "https://open.spotify.com/track/50yV9WzI1A98KAWjZC5oqw"
+    },
+    {
+      "added_at": "2022-03-11 00:00:00",
+      "album": {
+        "name": "Sleeping with the Enemy",
+        "url": "https://open.spotify.com/album/3xGmtGuHsGeKBr9mMvAseA"
+      },
+      "artists": [
+        {
+          "name": "Butcher Babies",
+          "url": "https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj"
+        }
+      ],
+      "duration_ms": 212927,
+      "name": "Sleeping with the Enemy",
+      "url": "https://open.spotify.com/track/4vzlN6pMehztFUIdNlei1m"
     },
     {
       "added_at": "2022-03-11 00:00:00",
@@ -563,18 +563,18 @@
     {
       "added_at": "2022-03-11 00:00:00",
       "album": {
-        "name": "Last Dance",
-        "url": "https://open.spotify.com/album/6Tayomr8QmeU9u0f2GJ0Vt"
+        "name": "Back From The Dead",
+        "url": "https://open.spotify.com/album/5djxJJQVLaUMKJlFMjoZg2"
       },
       "artists": [
         {
-          "name": "Butcher Babies",
-          "url": "https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj"
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
         }
       ],
-      "duration_ms": 211875,
-      "name": "Last Dance",
-      "url": "https://open.spotify.com/track/6xrsNVrcVdTgoR7ikHWZWX"
+      "duration_ms": 209893,
+      "name": "Back From The Dead",
+      "url": "https://open.spotify.com/track/3HmacKgc27YnAfSwxGVxW2"
     },
     {
       "added_at": "2022-03-11 00:00:00",
@@ -595,18 +595,34 @@
     {
       "added_at": "2022-03-11 00:00:00",
       "album": {
-        "name": "Back From The Dead",
-        "url": "https://open.spotify.com/album/5djxJJQVLaUMKJlFMjoZg2"
+        "name": "Mayhem",
+        "url": "https://open.spotify.com/album/5aa348jl2kEQVqxAgzcURH"
       },
       "artists": [
         {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+          "name": "Cassyette",
+          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
         }
       ],
-      "duration_ms": 209893,
-      "name": "Back From The Dead",
-      "url": "https://open.spotify.com/track/3HmacKgc27YnAfSwxGVxW2"
+      "duration_ms": 160500,
+      "name": "Mayhem",
+      "url": "https://open.spotify.com/track/2LIuGi4rz0chV1yu5m0Exh"
+    },
+    {
+      "added_at": "2022-03-11 00:00:00",
+      "album": {
+        "name": "Last Dance",
+        "url": "https://open.spotify.com/album/6Tayomr8QmeU9u0f2GJ0Vt"
+      },
+      "artists": [
+        {
+          "name": "Butcher Babies",
+          "url": "https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj"
+        }
+      ],
+      "duration_ms": 211875,
+      "name": "Last Dance",
+      "url": "https://open.spotify.com/track/6xrsNVrcVdTgoR7ikHWZWX"
     },
     {
       "added_at": "2022-03-11 00:00:00",
@@ -623,22 +639,6 @@
       "duration_ms": 298634,
       "name": "Forsaken - The Aftermath",
       "url": "https://open.spotify.com/track/6dzyEj20geKV3Khh0nFqbR"
-    },
-    {
-      "added_at": "2022-03-11 00:00:00",
-      "album": {
-        "name": "Mayhem",
-        "url": "https://open.spotify.com/album/5aa348jl2kEQVqxAgzcURH"
-      },
-      "artists": [
-        {
-          "name": "Cassyette",
-          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
-        }
-      ],
-      "duration_ms": 160500,
-      "name": "Mayhem",
-      "url": "https://open.spotify.com/track/2LIuGi4rz0chV1yu5m0Exh"
     },
     {
       "added_at": "2022-03-11 00:00:00",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2022-03-11 00:00:00",
       "album": {
+        "name": "Save Me",
+        "url": "https://open.spotify.com/album/2s9RyhUVacokAqGkGE3rSL"
+      },
+      "artists": [
+        {
+          "name": "Lacuna Coil",
+          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
+        }
+      ],
+      "duration_ms": 276560,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/02uw1BC34CaOgdnI6hO8Op"
+    },
+    {
+      "added_at": "2022-03-11 00:00:00",
+      "album": {
         "name": "Last One Standing",
         "url": "https://open.spotify.com/album/09BxkLEcznMDHJ9MWH4FtE"
       },
@@ -1055,22 +1071,6 @@
     {
       "added_at": "2022-03-11 00:00:00",
       "album": {
-        "name": "Save Me",
-        "url": "https://open.spotify.com/album/2s9RyhUVacokAqGkGE3rSL"
-      },
-      "artists": [
-        {
-          "name": "Lacuna Coil",
-          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
-        }
-      ],
-      "duration_ms": 276560,
-      "name": "Save Me",
-      "url": "https://open.spotify.com/track/02uw1BC34CaOgdnI6hO8Op"
-    },
-    {
-      "added_at": "2022-03-11 00:00:00",
-      "album": {
         "name": "A Villain's Monologue",
         "url": "https://open.spotify.com/album/6jM1PfqatUmUVUxk0KrXgU"
       },
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2022-03-11 00:00:00",
       "album": {
-        "name": "Conquering",
-        "url": "https://open.spotify.com/album/38pSlzhA3EKAx3jsPZvwU6"
-      },
-      "artists": [
-        {
-          "name": "Employed To Serve",
-          "url": "https://open.spotify.com/artist/58d50jBQXhOetEGuSBgu64"
-        }
-      ],
-      "duration_ms": 263093,
-      "name": "Mark Of The Grave",
-      "url": "https://open.spotify.com/track/2nrm5IBXH4D2gBUUbgEzf7"
-    },
-    {
-      "added_at": "2022-03-11 00:00:00",
-      "album": {
         "name": "The Cost of Greatness",
         "url": "https://open.spotify.com/album/6aNlzwG41d8rSYJKHDyJja"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 209044,
       "name": "Lift Me Up",
       "url": "https://open.spotify.com/track/77N3qTq2VuA244Xf36hQ1O"
+    },
+    {
+      "added_at": "2022-03-11 00:00:00",
+      "album": {
+        "name": "Conquering",
+        "url": "https://open.spotify.com/album/38pSlzhA3EKAx3jsPZvwU6"
+      },
+      "artists": [
+        {
+          "name": "Employed To Serve",
+          "url": "https://open.spotify.com/artist/58d50jBQXhOetEGuSBgu64"
+        }
+      ],
+      "duration_ms": 263093,
+      "name": "Mark Of The Grave",
+      "url": "https://open.spotify.com/track/2nrm5IBXH4D2gBUUbgEzf7"
     },
     {
       "added_at": "2022-03-11 00:00:00",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2022-03-11 00:00:00",
       "album": {
+        "name": "Initiation",
+        "url": "https://open.spotify.com/album/4DpjAnYMDaMOwryJVZlX1M"
+      },
+      "artists": [
+        {
+          "name": "Sumo Cyco",
+          "url": "https://open.spotify.com/artist/3rSpnCzb6wtsvZlGkkcHz4"
+        }
+      ],
+      "duration_ms": 189946,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/0hQwt8gMWXHtQyJ1dqcUE2"
+    },
+    {
+      "added_at": "2022-03-11 00:00:00",
+      "album": {
         "name": "Hope Springs Eternal",
         "url": "https://open.spotify.com/album/4CIzS1KD1bplHbI2jivWjY"
       },
@@ -1303,22 +1319,6 @@
       "duration_ms": 456466,
       "name": "You Belong to Me",
       "url": "https://open.spotify.com/track/55CskTAlGmdKUZb7FHwKpb"
-    },
-    {
-      "added_at": "2022-03-11 00:00:00",
-      "album": {
-        "name": "Initiation",
-        "url": "https://open.spotify.com/album/4DpjAnYMDaMOwryJVZlX1M"
-      },
-      "artists": [
-        {
-          "name": "Sumo Cyco",
-          "url": "https://open.spotify.com/artist/3rSpnCzb6wtsvZlGkkcHz4"
-        }
-      ],
-      "duration_ms": 189946,
-      "name": "Vertigo",
-      "url": "https://open.spotify.com/track/0hQwt8gMWXHtQyJ1dqcUE2"
     },
     {
       "added_at": "2022-03-11 00:00:00",

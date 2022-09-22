@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0h2LvJ7ZJ15.md) - [plain]
 
 > slowed, reverbed, chopped and screwed.
 
-[Spotify](https://open.spotify.com/user/spotify) - 497,514 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 499,167 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0h2LvJ7ZJ15.md) - [plain]
 | 26 | [Bananza \(Belly Dancer\) \- Slowed](https://open.spotify.com/track/5lEx9Oo3tMyP85ppH43Uar) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [xxtristanxo](https://open.spotify.com/artist/4kBCXTJBl1aY9pDHONsjfr), [Slowed Radio](https://open.spotify.com/artist/7zmcKgBZSbMxqzqFe6Ac5k) | [Bananza \(Belly Dancer\) \[Remixes\]](https://open.spotify.com/album/4oMLAtWY28kQydDGxnrZxj) | 2:33 |
 | 27 | [After Party \- CHOPNOTSLOP REMIX](https://open.spotify.com/track/5LNi0DUiEQ4Sp6JA5XUSIA) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [DJ Candlestick](https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ), [OG Ron C](https://open.spotify.com/artist/2LQF8AgyQUgLfquM92Rx8N) | [Heaven Or Hell \(CHOPNOTSLOP REMIX\)](https://open.spotify.com/album/69RuKg34VBwhfiGuMpXUWQ) | 3:20 |
 | 28 | [Dream Girl \- Slowed + Reverb](https://open.spotify.com/track/3YLKkHR4fISvRe1N34l6EJ) | [Crisaunt](https://open.spotify.com/artist/0cuIIYEWDS7V1iBl65NtL6) | [Dream Girl \(Slowed + Reverb\)](https://open.spotify.com/album/2NlFPxPuRjjLrxAPDvFAiT) | 3:11 |
-| 29 | [Shhh \(Pew Pew\) \[Slowed + Reverb\]](https://open.spotify.com/track/40NU01ZkeQlzMfUuf4aWNm) | [Young Fanatic](https://open.spotify.com/artist/3WYkULuwVr6K98AQ2s3SYt) | [Shhh \(Pew Pew\) \[Slowed + Reverb\]](https://open.spotify.com/album/4PnBHgGROTJEynnkDr9DbL) | 2:12 |
-| 30 | [fools \(can't help falling in love\) \(slowed down & reverb\)](https://open.spotify.com/track/6IEYxC5J51Igo0XUTx16mA) | [Foster](https://open.spotify.com/artist/6vCIRD06VaQwwaZS0TqiCz), [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt), [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [fools \(can't help falling in love\) \(slowed down & reverb\)](https://open.spotify.com/album/4cqURqEKhKGJNtuO2N3rqn) | 3:17 |
+| 29 | [fools \(can't help falling in love\) \(slowed down & reverb\)](https://open.spotify.com/track/6IEYxC5J51Igo0XUTx16mA) | [Foster](https://open.spotify.com/artist/6vCIRD06VaQwwaZS0TqiCz), [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt), [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [fools \(can't help falling in love\) \(slowed down & reverb\)](https://open.spotify.com/album/4cqURqEKhKGJNtuO2N3rqn) | 3:17 |
+| 30 | [Shhh \(Pew Pew\) \[Slowed + Reverb\]](https://open.spotify.com/track/40NU01ZkeQlzMfUuf4aWNm) | [Young Fanatic](https://open.spotify.com/artist/3WYkULuwVr6K98AQ2s3SYt) | [Shhh \(Pew Pew\) \[Slowed + Reverb\]](https://open.spotify.com/album/4PnBHgGROTJEynnkDr9DbL) | 2:12 |
 | 31 | [Happier \- Slowed + Reverb](https://open.spotify.com/track/072Hl1zCG3UMxc7JBeQk7r) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Happier \(Slowed + Reverb\)](https://open.spotify.com/album/05rI3acDbxhs9Hls0o78tZ) | 4:00 |
 | 32 | [Righteous \(SLOW & REVERB\)](https://open.spotify.com/track/4ItmLaoV2YCCx0MKKQOTNT) | [Mo Beats](https://open.spotify.com/artist/2Hil1oktsE7Wic4X5cBGK3) | [Righteous \(SLOW & REVERB\)](https://open.spotify.com/album/4YI4JmnkU1ggD6wWdCrBfC) | 3:00 |
 | 33 | [Always Be My Baby \- Austin Millz Remix](https://open.spotify.com/track/0S0ezG92vQDS5VbX12GC3g) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k) | [Always Be My Baby \(Austin Millz Remix\)](https://open.spotify.com/album/7zQMAaw56pnSMQZQoMLq16) | 2:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0h2LvJ7ZJ15.md) - [plain]
 | 49 | [NEVER MET! \(feat\. Glitch Gum\) \- Slowed](https://open.spotify.com/track/2a68c5nfBcRAGDAyMOVGuX) | [CMTEN](https://open.spotify.com/artist/3ReVTyprRfKmKquryr9UeA), [Glitch Gum](https://open.spotify.com/artist/1wpftBruYql3kTa4Px6kze) | [NEVER MET! \(feat\. Glitch Gum\) \[Slowed\]](https://open.spotify.com/album/2q39vwyCoD2GJkY59i307W) | 2:48 |
 | 50 | [2077 \(Slowed + Reverb\)](https://open.spotify.com/track/4oKjiIqpMpvglxaNUm3VYn) | [slowed down music](https://open.spotify.com/artist/0To1rYNCQCQNqWr6mnboFi), [do not resurrect](https://open.spotify.com/artist/0QRp7CyL31iErUn6cX0YU3) | [2077 \(Slowed + Reverb\)](https://open.spotify.com/album/0P2qRYsHnnSHWDcgxuZ1HW) | 2:36 |
 
-Snapshot ID: `MTY2MTU0MTE2MywwMDAwMDAwMDhiOGVmNTAzNjc0NjRjMzNiN2M4NzFjZDJlZTkzZTQ3`
+Snapshot ID: `MTY2MTU0MTE2MywwMDAwMDAwMDZhNDJiMGRhZDFjZjY4YWU0Y2NiZDdkNDdmNTM5ZTI2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWVmXpVB8Wtg.md) - [plain]
 
 > Meet the lineup of ULTRA KOREA, the best music festival boasting the world's top EDM DJ\. \(세계 최정상 EDM DJ를 자랑하는 최고의 음악 축제 ULTRA KOREA의 라인업을 만나보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 167 likes - 48 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 192 likes - 48 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWVmXpVB8Wtg.md) - [plain]
 | 13 | [Skin on Skin](https://open.spotify.com/track/4Za6z9eWjkArKOA8xalmqN) | [Pan\-Pot](https://open.spotify.com/artist/6OQOvP7RAdmAKVXXQqD0Se), [Bjurman](https://open.spotify.com/artist/2Mah50rowOCI0gYAZOaLbY) | [Skin on Skin](https://open.spotify.com/album/3iwxFlpwd2wuIUZgnMGVzZ) | 6:45 |
 | 14 | [Skylighter \- Space 92 Meteor Remix](https://open.spotify.com/track/0FtATT9vuXJLZGkA9PESMx) | [Popof](https://open.spotify.com/artist/4f2K0RSYyxP4TUyZu1azYB), [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [Skylighter](https://open.spotify.com/album/5GaQ4dj4Ln5cOO4C8Fb28P) | 7:09 |
 | 15 | [Keep My Light On](https://open.spotify.com/track/5zADzgQPu2VDODCcXANZou) | [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [Raiden](https://open.spotify.com/artist/4YXNoMVTHRt01jYaKXTumJ) | [Keep My Light On](https://open.spotify.com/album/3HcZw9vfH6krvhgkhfkWSW) | 2:45 |
-| 16 | [What You Waiting For](https://open.spotify.com/track/0zWDxMqxq7bGDmZEl7Cye8) | [R.Tee](https://open.spotify.com/artist/0dfMk1lwRlX5Zmg2KHjwjN), [Anda](https://open.spotify.com/artist/2PZt7SATrAxsNG60Mqkan4) | [What You Waiting For](https://open.spotify.com/album/0GPaKzASwZiS68S5IkshKC) | 2:54 |
+| 16 | [뭘 기다리고 있어 \(What You Waiting For\)](https://open.spotify.com/track/0zWDxMqxq7bGDmZEl7Cye8) | [R.Tee](https://open.spotify.com/artist/0dfMk1lwRlX5Zmg2KHjwjN), [Anda](https://open.spotify.com/artist/2PZt7SATrAxsNG60Mqkan4) | [뭘 기다리고 있어 \(What You Waiting For\)](https://open.spotify.com/album/0GPaKzASwZiS68S5IkshKC) | 2:54 |
 | 17 | [Alright](https://open.spotify.com/track/3YwRisfTPmDXtZ1Lnz6Fpr) | [Ares Carter](https://open.spotify.com/artist/5fSYYJ4qdUSyvj2q0YdHEF), [BUMKEY](https://open.spotify.com/artist/3vhZuZdMksbnJwoE3AwpXq) | [Alright](https://open.spotify.com/album/4tPe3h6ShVtDHo3TOeyqIL) | 3:18 |
 | 18 | [Burnt Letters](https://open.spotify.com/track/3pFW7d9NJbOo6SHUg2b7j0) | [Sasha](https://open.spotify.com/artist/6u4jLGLPuarS3i2XWHVxoS), [lau.ra](https://open.spotify.com/artist/3uOdNUjwD6hhOh1z2dQEIn) | [Burnt Letters](https://open.spotify.com/album/7ETDlM2iAQnsEiaV57LvNa) | 8:36 |
 | 19 | [Now That I'm Gone \(Look How You're Crying\)](https://open.spotify.com/track/6Qotee3wIEu3PUTsXLJbnG) | [Charles Bradley](https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf), [Bullets](https://open.spotify.com/artist/0ixVJf1V8RA00Wj4C8C79a) | [Daptone Records Singles Collection: Volume 1](https://open.spotify.com/album/7JJziPgPVZJWmTXxsAaDAP) | 3:28 |

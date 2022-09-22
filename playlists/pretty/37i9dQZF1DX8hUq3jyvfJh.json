@@ -1,12 +1,12 @@
 {
   "description": "Marvvila e mais mulheres para serem ouvidas no m\u00e1ximo volume.",
-  "num_followers": 129671,
+  "num_followers": 129657,
   "original_name": "EQUAL Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY5MjQwMCwwMDAwMDAwMGIyODdkYTM1MTY0OGM0MTg2NDZjNTJlNWE5ZTc0NDU1",
+  "snapshot_id": "MTY2MjY5MjQwMCwwMDAwMDAwMDM0ODQ2MTY5OGFhNjIyMTU2ZWRjMTVjMzZkMzgyMjgz",
   "tracks": [
     {
       "added_at": "2022-09-09 03:00:00",
@@ -499,6 +499,22 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
+        "name": "12 Meses",
+        "url": "https://open.spotify.com/album/6YjDqcu2zMtpi0SM12eWKJ"
+      },
+      "artists": [
+        {
+          "name": "Renata Santiago",
+          "url": "https://open.spotify.com/artist/350CZjxmwYrv1sTR2sdsDW"
+        }
+      ],
+      "duration_ms": 223973,
+      "name": "12 Meses",
+      "url": "https://open.spotify.com/track/1MmLpsjCjRzf3trKPs04Tz"
+    },
+    {
+      "added_at": "2022-09-09 03:00:00",
+      "album": {
         "name": "Por Elas",
         "url": "https://open.spotify.com/album/2eUtuvJIhYIYIRRGvDscfm"
       },
@@ -543,22 +559,6 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
-        "name": "12 Meses",
-        "url": "https://open.spotify.com/album/6YjDqcu2zMtpi0SM12eWKJ"
-      },
-      "artists": [
-        {
-          "name": "Renata Santiago",
-          "url": "https://open.spotify.com/artist/350CZjxmwYrv1sTR2sdsDW"
-        }
-      ],
-      "duration_ms": 223973,
-      "name": "12 Meses",
-      "url": "https://open.spotify.com/track/1MmLpsjCjRzf3trKPs04Tz"
-    },
-    {
-      "added_at": "2022-09-09 03:00:00",
-      "album": {
         "name": "Me Entreguei",
         "url": "https://open.spotify.com/album/33yVVBMxiKZqw5ngQLgDod"
       },
@@ -575,6 +575,22 @@
       "duration_ms": 195418,
       "name": "Me Entreguei",
       "url": "https://open.spotify.com/track/2nHhoThdclYZkM19ClLB82"
+    },
+    {
+      "added_at": "2022-09-09 03:00:00",
+      "album": {
+        "name": "Juliana Diniz",
+        "url": "https://open.spotify.com/album/28eLOTtpuAKGQ2bjV3gEQM"
+      },
+      "artists": [
+        {
+          "name": "Juliana Diniz",
+          "url": "https://open.spotify.com/artist/51ksBr5oEDy7fgPfFXfWGv"
+        }
+      ],
+      "duration_ms": 174933,
+      "name": "Amor Proibido",
+      "url": "https://open.spotify.com/track/01rGGw86EzpKjGAqc6HsQy"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -607,22 +623,6 @@
       "duration_ms": 185466,
       "name": "Pr\u00edncipe Encantado",
       "url": "https://open.spotify.com/track/6mgPf1zvEz6UcL9eo9PstI"
-    },
-    {
-      "added_at": "2022-09-09 03:00:00",
-      "album": {
-        "name": "Juliana Diniz",
-        "url": "https://open.spotify.com/album/28eLOTtpuAKGQ2bjV3gEQM"
-      },
-      "artists": [
-        {
-          "name": "Juliana Diniz",
-          "url": "https://open.spotify.com/artist/51ksBr5oEDy7fgPfFXfWGv"
-        }
-      ],
-      "duration_ms": 174933,
-      "name": "Amor Proibido",
-      "url": "https://open.spotify.com/track/01rGGw86EzpKjGAqc6HsQy"
     },
     {
       "added_at": "2022-09-09 03:00:00",

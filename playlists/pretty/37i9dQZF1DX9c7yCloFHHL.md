@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 
 > A selection of Ambient and Experimental tracks made by Caterina Barbieri, as inspiration for Spirit Exit, her most recent album.
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,007 likes - 30 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,059 likes - 30 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1210,6 +1210,24 @@
     },
     {
       "album": {
+        "name": "Poor Butterfly",
+        "url": "https://open.spotify.com/album/0voGzbbY9Wm9vtql5l2Uaz"
+      },
+      "artists": [
+        {
+          "name": "Benjamine Leroy Quartet",
+          "url": "https://open.spotify.com/artist/0HsfmmG8LqKOxS2LBIO9bM"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216860,
+      "name": "Poor Butterfly",
+      "url": "https://open.spotify.com/track/2vyuIth7SkLbbfx0wX8KsC"
+    },
+    {
+      "album": {
         "name": "My Romance",
         "url": "https://open.spotify.com/album/5zLgKeaogrKCOKmvO4UFOO"
       },

@@ -103,7 +103,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-22",
       "duration_ms": 158124,
       "name": "Black N White",
       "url": "https://open.spotify.com/track/4OCGJrXkPgYBtud4iSV395"
@@ -343,7 +343,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-20",
+      "date_removed": null,
       "duration_ms": 130087,
       "name": "Every Age",
       "url": "https://open.spotify.com/track/3O0UhqrG43wI8EZb1TrEpk"
@@ -1061,7 +1061,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-22",
       "duration_ms": 276605,
       "name": "Silver Lining",
       "url": "https://open.spotify.com/track/3oFTt5ivFcWXLypCNosbur"
@@ -1191,7 +1191,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-20",
+      "date_removed": null,
       "duration_ms": 162076,
       "name": "Stranger",
       "url": "https://open.spotify.com/track/1YHWhz4KEeNhTfrAOVf3lI"
@@ -1363,6 +1363,24 @@
     {
       "album": {
         "name": "The Paradox",
+        "url": "https://open.spotify.com/album/32cDtKd8eH2F74ChwdiWaT"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241889,
+      "name": "You Don't Even Call Me",
+      "url": "https://open.spotify.com/track/1ZOyqkZPJdQyIWRr1rK8si"
+    },
+    {
+      "album": {
+        "name": "The Paradox",
         "url": "https://open.spotify.com/album/4xzTcKOC2PGXyZUwLb3ik4"
       },
       "artists": [
@@ -1373,7 +1391,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-22",
       "duration_ms": 241889,
       "name": "You Don't Even Call Me",
       "url": "https://open.spotify.com/track/2Xxe9r20FuSheRY8832rr7"

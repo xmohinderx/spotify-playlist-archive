@@ -6,10 +6,10 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzE2OTkyNzQyLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzE3MDc4MzgwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2022-09-20 12:39:02",
+      "added_at": "2022-09-21 12:26:20",
       "album": {
         "name": "Romantic Homicide",
         "url": "https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL"
     },
     {
-      "added_at": "2022-09-20 12:39:02",
+      "added_at": "2022-09-21 12:26:20",
       "album": {
         "name": "Los Chamantos de Mi Chile",
         "url": "https://open.spotify.com/album/5QH7qkMGGb849aPyre7eY0"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/1ezJWENT2n38OdTECy1v6r"
     },
     {
-      "added_at": "2022-09-20 12:39:02",
+      "added_at": "2022-09-21 12:26:20",
       "album": {
         "name": "El Amor en 48 Compases",
         "url": "https://open.spotify.com/album/4IjgGpRs1qLHM0WoBDSPwt"
@@ -57,23 +57,7 @@
       "url": "https://open.spotify.com/track/4JFQK4fLPGusx5I3fM22qi"
     },
     {
-      "added_at": "2022-09-20 12:39:02",
-      "album": {
-        "name": "SALGO A KAZARTE",
-        "url": "https://open.spotify.com/album/63ARBw2XCjARqh69buOqsX"
-      },
-      "artists": [
-        {
-          "name": "Dunkan",
-          "url": "https://open.spotify.com/artist/3WPRuzfjcRBf7byiF6pFvE"
-        }
-      ],
-      "duration_ms": 193619,
-      "name": "SALGO A KAZARTE",
-      "url": "https://open.spotify.com/track/3mIwvkMmVKgPIU2N31Nfhz"
-    },
-    {
-      "added_at": "2022-09-20 12:39:02",
+      "added_at": "2022-09-21 12:26:20",
       "album": {
         "name": "HELP EVER HURT NEVER",
         "url": "https://open.spotify.com/album/03QiFOKDh6xMiSTkOnsmMG"
@@ -89,7 +73,39 @@
       "url": "https://open.spotify.com/track/0HYAsQwJIO6FLqpyTeD3l6"
     },
     {
-      "added_at": "2022-09-20 12:39:02",
+      "added_at": "2022-09-21 12:26:20",
+      "album": {
+        "name": "SALGO A KAZARTE",
+        "url": "https://open.spotify.com/album/63ARBw2XCjARqh69buOqsX"
+      },
+      "artists": [
+        {
+          "name": "Dunkan",
+          "url": "https://open.spotify.com/artist/3WPRuzfjcRBf7byiF6pFvE"
+        }
+      ],
+      "duration_ms": 193619,
+      "name": "SALGO A KAZARTE",
+      "url": "https://open.spotify.com/track/3mIwvkMmVKgPIU2N31Nfhz"
+    },
+    {
+      "added_at": "2022-09-21 12:26:20",
+      "album": {
+        "name": "La Chilena",
+        "url": "https://open.spotify.com/album/1XPWanbGINioCUy42JoNoO"
+      },
+      "artists": [
+        {
+          "name": "Jorge Lefenda",
+          "url": "https://open.spotify.com/artist/3uzbVuzs2mfZtJdOHVhWCr"
+        }
+      ],
+      "duration_ms": 367638,
+      "name": "La Chilena",
+      "url": "https://open.spotify.com/track/7vaGvRNVdwimNo6EDflHC8"
+    },
+    {
+      "added_at": "2022-09-21 12:26:20",
       "album": {
         "name": "B.O.T.A. (Baddest Of Them All)",
         "url": "https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK"
@@ -109,23 +125,7 @@
       "url": "https://open.spotify.com/track/39JofJHEtg8I4fSyo7Imft"
     },
     {
-      "added_at": "2022-09-20 12:39:02",
-      "album": {
-        "name": "La Vida en Versos..",
-        "url": "https://open.spotify.com/album/7BuhI0plokfjW5QaDepizy"
-      },
-      "artists": [
-        {
-          "name": "Entremares",
-          "url": "https://open.spotify.com/artist/7KPcBMsOzS2QvKzkjj1kxU"
-        }
-      ],
-      "duration_ms": 118933,
-      "name": "Te Amo en Silencio",
-      "url": "https://open.spotify.com/track/7udlCswy96a5tyCtnVINUN"
-    },
-    {
-      "added_at": "2022-09-20 12:39:02",
+      "added_at": "2022-09-21 12:26:20",
       "album": {
         "name": "The Midnight Club GT",
         "url": "https://open.spotify.com/album/2We9hFPWAKxXBmKqSDHXOK"
@@ -141,7 +141,23 @@
       "url": "https://open.spotify.com/track/0uo7p6JtXF7U8x0ktN0Vty"
     },
     {
-      "added_at": "2022-09-20 12:39:02",
+      "added_at": "2022-09-21 12:26:20",
+      "album": {
+        "name": "La Vida en Versos..",
+        "url": "https://open.spotify.com/album/7BuhI0plokfjW5QaDepizy"
+      },
+      "artists": [
+        {
+          "name": "Entremares",
+          "url": "https://open.spotify.com/artist/7KPcBMsOzS2QvKzkjj1kxU"
+        }
+      ],
+      "duration_ms": 118933,
+      "name": "Te Amo en Silencio",
+      "url": "https://open.spotify.com/track/7udlCswy96a5tyCtnVINUN"
+    },
+    {
+      "added_at": "2022-09-21 12:26:20",
       "album": {
         "name": "BABY OTAKU",
         "url": "https://open.spotify.com/album/7HUH0lFoay2KzGEZqGp55G"
@@ -169,7 +185,23 @@
       "url": "https://open.spotify.com/track/0kTMK4gNFfLXaTb62w1UaJ"
     },
     {
-      "added_at": "2022-09-20 12:39:02",
+      "added_at": "2022-09-21 12:26:20",
+      "album": {
+        "name": "NewJeans 1st EP 'New Jeans'",
+        "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "duration_ms": 179026,
+      "name": "Hype Boy",
+      "url": "https://open.spotify.com/track/0a4MMyCrzT0En247IhqZbD"
+    },
+    {
+      "added_at": "2022-09-21 12:26:20",
       "album": {
         "name": "FINALMENTE RICO",
         "url": "https://open.spotify.com/album/5w6b1S6V1hgZetL2YaQPJk"
@@ -189,23 +221,7 @@
       "url": "https://open.spotify.com/track/2RQsLucjZb02cKkz3s8NZ5"
     },
     {
-      "added_at": "2022-09-20 12:39:02",
-      "album": {
-        "name": "NewJeans 1st EP 'New Jeans'",
-        "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
-      },
-      "artists": [
-        {
-          "name": "NewJeans",
-          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
-        }
-      ],
-      "duration_ms": 179026,
-      "name": "Hype Boy",
-      "url": "https://open.spotify.com/track/0a4MMyCrzT0En247IhqZbD"
-    },
-    {
-      "added_at": "2022-09-20 12:39:02",
+      "added_at": "2022-09-21 12:26:20",
       "album": {
         "name": "[MESSAGE FROM THE CLERGY]",
         "url": "https://open.spotify.com/album/1BbfbJZan9d1srv8aHavom"
@@ -221,7 +237,23 @@
       "url": "https://open.spotify.com/track/7wdwIaXUuzlu1grzWMFRJm"
     },
     {
-      "added_at": "2022-09-20 12:39:02",
+      "added_at": "2022-09-21 12:26:20",
+      "album": {
+        "name": "365",
+        "url": "https://open.spotify.com/album/01bt5fJVQWZw8bpD1sL6lL"
+      },
+      "artists": [
+        {
+          "name": "Los Reales Del R\u00edo",
+          "url": "https://open.spotify.com/artist/2A6M5I2g7VpFJW950JP6rV"
+        }
+      ],
+      "duration_ms": 188471,
+      "name": "365",
+      "url": "https://open.spotify.com/track/5BAM5vA7mem7otR5ylQxFx"
+    },
+    {
+      "added_at": "2022-09-21 12:26:20",
       "album": {
         "name": "Calm Down (with Selena Gomez)",
         "url": "https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp"
@@ -241,7 +273,7 @@
       "url": "https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8"
     },
     {
-      "added_at": "2022-09-20 12:39:02",
+      "added_at": "2022-09-21 12:26:20",
       "album": {
         "name": "FELIZ CUMPLEA\u00d1OS FERXXO TE PIRATEAMOS EL \u00c1LBUM",
         "url": "https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9"
@@ -257,23 +289,7 @@
       "url": "https://open.spotify.com/track/2CeKVsFFXG4QzA415QygGb"
     },
     {
-      "added_at": "2022-09-20 12:39:02",
-      "album": {
-        "name": "30 Cuecas",
-        "url": "https://open.spotify.com/album/6p2coYM4I9zqnkSvpfa1lK"
-      },
-      "artists": [
-        {
-          "name": "Los Hermanos Campos",
-          "url": "https://open.spotify.com/artist/25iPZnrdjEMSYXjUxdfgc6"
-        }
-      ],
-      "duration_ms": 163282,
-      "name": "La Consentida",
-      "url": "https://open.spotify.com/track/1lm6LUpH5muKFa2voR3Hyf"
-    },
-    {
-      "added_at": "2022-09-20 12:39:02",
+      "added_at": "2022-09-21 12:26:20",
       "album": {
         "name": "30 Cuecas",
         "url": "https://open.spotify.com/album/6p2coYM4I9zqnkSvpfa1lK"
@@ -289,7 +305,23 @@
       "url": "https://open.spotify.com/track/11fJouJwR4m6A48CC40qHi"
     },
     {
-      "added_at": "2022-09-20 12:39:02",
+      "added_at": "2022-09-21 12:26:20",
+      "album": {
+        "name": "30 Cuecas",
+        "url": "https://open.spotify.com/album/6p2coYM4I9zqnkSvpfa1lK"
+      },
+      "artists": [
+        {
+          "name": "Los Hermanos Campos",
+          "url": "https://open.spotify.com/artist/25iPZnrdjEMSYXjUxdfgc6"
+        }
+      ],
+      "duration_ms": 163282,
+      "name": "La Consentida",
+      "url": "https://open.spotify.com/track/1lm6LUpH5muKFa2voR3Hyf"
+    },
+    {
+      "added_at": "2022-09-21 12:26:20",
       "album": {
         "name": "2 Shipitia (Tio Rene)",
         "url": "https://open.spotify.com/album/78OSmbJ65RpJAkTU2QFERt"
@@ -305,7 +337,23 @@
       "url": "https://open.spotify.com/track/5nWNZN5yHShizC96Ojs9wP"
     },
     {
-      "added_at": "2022-09-20 12:39:02",
+      "added_at": "2022-09-21 12:26:20",
+      "album": {
+        "name": "After LIKE",
+        "url": "https://open.spotify.com/album/0nzRF7khA2UDSZa9T0B6Da"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "duration_ms": 176973,
+      "name": "After LIKE",
+      "url": "https://open.spotify.com/track/2gYj9lubBorOPIVWsTXugG"
+    },
+    {
+      "added_at": "2022-09-21 12:26:20",
       "album": {
         "name": "FINALMENTE RICO",
         "url": "https://open.spotify.com/album/5w6b1S6V1hgZetL2YaQPJk"
@@ -333,23 +381,7 @@
       "url": "https://open.spotify.com/track/5dqsBNMcoZdZSkdtAKmaQz"
     },
     {
-      "added_at": "2022-09-20 12:39:02",
-      "album": {
-        "name": "Me Gusta el Vino",
-        "url": "https://open.spotify.com/album/700KGlUtUOTmecSTZmQNFc"
-      },
-      "artists": [
-        {
-          "name": "Tito Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6Km7WV9r7ozleZwjX1armg"
-        }
-      ],
-      "duration_ms": 236066,
-      "name": "Me Gusta el Vino",
-      "url": "https://open.spotify.com/track/4phiyACOmjHDWImFfi99Fi"
-    },
-    {
-      "added_at": "2022-09-20 12:39:02",
+      "added_at": "2022-09-21 12:26:20",
       "album": {
         "name": "La Bachata",
         "url": "https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2"
@@ -365,23 +397,7 @@
       "url": "https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u"
     },
     {
-      "added_at": "2022-09-20 12:39:02",
-      "album": {
-        "name": "After LIKE",
-        "url": "https://open.spotify.com/album/0nzRF7khA2UDSZa9T0B6Da"
-      },
-      "artists": [
-        {
-          "name": "IVE",
-          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
-        }
-      ],
-      "duration_ms": 176973,
-      "name": "After LIKE",
-      "url": "https://open.spotify.com/track/2gYj9lubBorOPIVWsTXugG"
-    },
-    {
-      "added_at": "2022-09-20 12:39:02",
+      "added_at": "2022-09-21 12:26:20",
       "album": {
         "name": "NewJeans 1st EP 'New Jeans'",
         "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
@@ -397,7 +413,23 @@
       "url": "https://open.spotify.com/track/2pIUpMhHL6L9Z5lnKxJJr9"
     },
     {
-      "added_at": "2022-09-20 12:39:02",
+      "added_at": "2022-09-21 12:26:20",
+      "album": {
+        "name": "Me Gusta el Vino",
+        "url": "https://open.spotify.com/album/700KGlUtUOTmecSTZmQNFc"
+      },
+      "artists": [
+        {
+          "name": "Tito Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6Km7WV9r7ozleZwjX1armg"
+        }
+      ],
+      "duration_ms": 236066,
+      "name": "Me Gusta el Vino",
+      "url": "https://open.spotify.com/track/4phiyACOmjHDWImFfi99Fi"
+    },
+    {
+      "added_at": "2022-09-21 12:26:20",
       "album": {
         "name": "V16",
         "url": "https://open.spotify.com/album/1NYH6nfQS1yuB2PHEHIgtz"
@@ -413,7 +445,7 @@
       "url": "https://open.spotify.com/track/1FwZHWFat13A1XookoEtI3"
     },
     {
-      "added_at": "2022-09-20 12:39:02",
+      "added_at": "2022-09-21 12:26:20",
       "album": {
         "name": "Marisola",
         "url": "https://open.spotify.com/album/6pEq0eQ4Jk0C7plPyyyXDp"
@@ -437,7 +469,7 @@
       "url": "https://open.spotify.com/track/2pR6bipXfJySBhje19SW02"
     },
     {
-      "added_at": "2022-09-20 12:39:02",
+      "added_at": "2022-09-21 12:26:20",
       "album": {
         "name": "Nilda Moya la Pirilacha",
         "url": "https://open.spotify.com/album/7GfWwTAjb2i1Gb49Ie6TKW"
@@ -453,7 +485,7 @@
       "url": "https://open.spotify.com/track/39Tix2LMbFHyZHJoNLXbUO"
     },
     {
-      "added_at": "2022-09-20 12:39:02",
+      "added_at": "2022-09-21 12:26:20",
       "album": {
         "name": "Isla de Pascua",
         "url": "https://open.spotify.com/album/72wNEvYXR6J4mnAYtzH7xe"
@@ -469,7 +501,7 @@
       "url": "https://open.spotify.com/track/607g9792OBarGHbrH4UHDr"
     },
     {
-      "added_at": "2022-09-20 12:39:02",
+      "added_at": "2022-09-21 12:26:20",
       "album": {
         "name": "La Mejor Fiesta Dieciochera",
         "url": "https://open.spotify.com/album/6F5qMCFpPR1tfIVN6yc26H"
@@ -485,75 +517,7 @@
       "url": "https://open.spotify.com/track/63xr0kuokCreaKuklqDsF5"
     },
     {
-      "added_at": "2022-09-20 12:39:02",
-      "album": {
-        "name": "Chile Tipico Vol.3 Camino De Luna",
-        "url": "https://open.spotify.com/album/2uVyfByDwEX7ZVhgrVP6iS"
-      },
-      "artists": [
-        {
-          "name": "Silvia Infantas Y Los Condores",
-          "url": "https://open.spotify.com/artist/3oQPBzzI6xbjuC0TFQA5QD"
-        }
-      ],
-      "duration_ms": 127613,
-      "name": "La Consentida",
-      "url": "https://open.spotify.com/track/4TUMZBtQISdb2NUiaEMemd"
-    },
-    {
-      "added_at": "2022-09-20 12:39:02",
-      "album": {
-        "name": "Las Mejores Cuecas Con Maihuen de los Angeles",
-        "url": "https://open.spotify.com/album/5ZPsIKHvrhsNl9KTDNsUBP"
-      },
-      "artists": [
-        {
-          "name": "Maihuen de los Angeles",
-          "url": "https://open.spotify.com/artist/4vkOLg1AyJgDqF9xwLsgXR"
-        }
-      ],
-      "duration_ms": 138160,
-      "name": "Seremos Uno",
-      "url": "https://open.spotify.com/track/0oeW47eszlvyvMG7OVogGM"
-    },
-    {
-      "added_at": "2022-09-20 12:39:02",
-      "album": {
-        "name": "Las Mejores Cuecas Con Maihuen de los Angeles",
-        "url": "https://open.spotify.com/album/5ZPsIKHvrhsNl9KTDNsUBP"
-      },
-      "artists": [
-        {
-          "name": "Maihuen de los Angeles",
-          "url": "https://open.spotify.com/artist/4vkOLg1AyJgDqF9xwLsgXR"
-        }
-      ],
-      "duration_ms": 140013,
-      "name": "Ay Cari\u00f1o",
-      "url": "https://open.spotify.com/track/05GZJN3FA5uHicXdJGpj7i"
-    },
-    {
-      "added_at": "2022-09-20 12:39:02",
-      "album": {
-        "name": "SHADOW",
-        "url": "https://open.spotify.com/album/4w0uRvtIjqipuoZ7ngqqcV"
-      },
-      "artists": [
-        {
-          "name": "ONIMXRU",
-          "url": "https://open.spotify.com/artist/3ysIyoivMDpeqLg0VMRPQw"
-        },
-        {
-          "name": "SMITHMANE",
-          "url": "https://open.spotify.com/artist/5WOke44Ea57bHmJ3X0qluG"
-        }
-      ],
-      "duration_ms": 162041,
-      "name": "SHADOW",
-      "url": "https://open.spotify.com/track/0wGbyS1tExQSwOYu6UceyE"
-    },
-    {
-      "added_at": "2022-09-20 12:39:02",
+      "added_at": "2022-09-21 12:26:20",
       "album": {
         "name": "Radetzky y Otras Marchas",
         "url": "https://open.spotify.com/album/0nVVHulneZbNkzt0JexGvh"
@@ -573,55 +537,75 @@
       "url": "https://open.spotify.com/track/0K7k6dYM3E6VbHszkR4Tpo"
     },
     {
-      "added_at": "2022-09-20 12:39:02",
+      "added_at": "2022-09-21 12:26:20",
       "album": {
-        "name": "BETWEEN 1&2",
-        "url": "https://open.spotify.com/album/5QdY7RvuEg2tznpYJG8gP2"
+        "name": "Chile Tipico Vol.3 Camino De Luna",
+        "url": "https://open.spotify.com/album/2uVyfByDwEX7ZVhgrVP6iS"
       },
       "artists": [
         {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+          "name": "Silvia Infantas Y Los Condores",
+          "url": "https://open.spotify.com/artist/3oQPBzzI6xbjuC0TFQA5QD"
         }
       ],
-      "duration_ms": 177466,
-      "name": "Talk that Talk",
-      "url": "https://open.spotify.com/track/0kqTXMHiQiB7IECD0WwcPq"
+      "duration_ms": 127613,
+      "name": "La Consentida",
+      "url": "https://open.spotify.com/track/4TUMZBtQISdb2NUiaEMemd"
     },
     {
-      "added_at": "2022-09-20 12:39:02",
+      "added_at": "2022-09-21 12:26:20",
       "album": {
-        "name": "Cueca Quien Diria",
-        "url": "https://open.spotify.com/album/33aVFylm2iEjfRXpZsJc1w"
+        "name": "SHADOW",
+        "url": "https://open.spotify.com/album/4w0uRvtIjqipuoZ7ngqqcV"
       },
       "artists": [
         {
-          "name": "Grupo Alerzal De Los Rios",
-          "url": "https://open.spotify.com/artist/5l7NDa2GL0zW0BXy2LSOkC"
+          "name": "ONIMXRU",
+          "url": "https://open.spotify.com/artist/3ysIyoivMDpeqLg0VMRPQw"
+        },
+        {
+          "name": "SMITHMANE",
+          "url": "https://open.spotify.com/artist/5WOke44Ea57bHmJ3X0qluG"
         }
       ],
-      "duration_ms": 138384,
-      "name": "Cueca Quien Diria",
-      "url": "https://open.spotify.com/track/1218sAWJcTuUW4LUFw34oD"
+      "duration_ms": 162041,
+      "name": "SHADOW",
+      "url": "https://open.spotify.com/track/0wGbyS1tExQSwOYu6UceyE"
     },
     {
-      "added_at": "2022-09-20 12:39:02",
+      "added_at": "2022-09-21 12:26:20",
       "album": {
-        "name": "Mas De 100 Cuecas - Para No Parar Be Bailar",
-        "url": "https://open.spotify.com/album/6EIvPjP1nbWEdWUUn7hxcU"
+        "name": "Las Mejores Cuecas Con Maihuen de los Angeles",
+        "url": "https://open.spotify.com/album/5ZPsIKHvrhsNl9KTDNsUBP"
       },
       "artists": [
         {
-          "name": "Los Hermanos Campos",
-          "url": "https://open.spotify.com/artist/25iPZnrdjEMSYXjUxdfgc6"
+          "name": "Maihuen de los Angeles",
+          "url": "https://open.spotify.com/artist/4vkOLg1AyJgDqF9xwLsgXR"
         }
       ],
-      "duration_ms": 363640,
-      "name": "El Guant\u00f3n Loyola / La Rosa Con el Clavel / La Consentida",
-      "url": "https://open.spotify.com/track/3A1LoTe5GVBSsBSXBrZXJ4"
+      "duration_ms": 138160,
+      "name": "Seremos Uno",
+      "url": "https://open.spotify.com/track/0oeW47eszlvyvMG7OVogGM"
     },
     {
-      "added_at": "2022-09-20 12:39:02",
+      "added_at": "2022-09-21 12:26:20",
+      "album": {
+        "name": "Las Mejores Cuecas Con Maihuen de los Angeles",
+        "url": "https://open.spotify.com/album/5ZPsIKHvrhsNl9KTDNsUBP"
+      },
+      "artists": [
+        {
+          "name": "Maihuen de los Angeles",
+          "url": "https://open.spotify.com/artist/4vkOLg1AyJgDqF9xwLsgXR"
+        }
+      ],
+      "duration_ms": 140013,
+      "name": "Ay Cari\u00f1o",
+      "url": "https://open.spotify.com/track/05GZJN3FA5uHicXdJGpj7i"
+    },
+    {
+      "added_at": "2022-09-21 12:26:20",
       "album": {
         "name": "Adios",
         "url": "https://open.spotify.com/album/50Jia45UGODmMpts9hRFD7"
@@ -641,7 +625,23 @@
       "url": "https://open.spotify.com/track/41P6ybfLDI9qb7ZhAYlKMT"
     },
     {
-      "added_at": "2022-09-20 12:39:02",
+      "added_at": "2022-09-21 12:26:20",
+      "album": {
+        "name": "BETWEEN 1&2",
+        "url": "https://open.spotify.com/album/5QdY7RvuEg2tznpYJG8gP2"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 177466,
+      "name": "Talk that Talk",
+      "url": "https://open.spotify.com/track/0kqTXMHiQiB7IECD0WwcPq"
+    },
+    {
+      "added_at": "2022-09-21 12:26:20",
       "album": {
         "name": "Mi Chile Lindo",
         "url": "https://open.spotify.com/album/16KWkUYL6MuyJwzyO5onbl"
@@ -657,7 +657,7 @@
       "url": "https://open.spotify.com/track/3LhhnpM828NTPHuQIAFqkW"
     },
     {
-      "added_at": "2022-09-20 12:39:02",
+      "added_at": "2022-09-21 12:26:20",
       "album": {
         "name": "30 Marches, Hymns and Army Songs. World Military Bands",
         "url": "https://open.spotify.com/album/2IeLOLet5nFvk5efI6PymO"
@@ -673,23 +673,23 @@
       "url": "https://open.spotify.com/track/175MdDpe1gyifn5JaqTeDn"
     },
     {
-      "added_at": "2022-09-20 12:39:02",
+      "added_at": "2022-09-21 12:26:20",
       "album": {
-        "name": "Folklore en Mi Escuela. Danzas y Cantos de Am\u00e9rica, Vol. 1",
-        "url": "https://open.spotify.com/album/0u9kzGk1hFTp5ITUQye2ww"
+        "name": "Cueca Quien Diria",
+        "url": "https://open.spotify.com/album/33aVFylm2iEjfRXpZsJc1w"
       },
       "artists": [
         {
-          "name": "Conjunto Alerce",
-          "url": "https://open.spotify.com/artist/2pqwxwD3MCX4dM9OSdVoWb"
+          "name": "Grupo Alerzal De Los Rios",
+          "url": "https://open.spotify.com/artist/5l7NDa2GL0zW0BXy2LSOkC"
         }
       ],
-      "duration_ms": 113400,
-      "name": "El Costillar",
-      "url": "https://open.spotify.com/track/6iFPOUYTO1HUs3sDGBjM7Y"
+      "duration_ms": 138384,
+      "name": "Cueca Quien Diria",
+      "url": "https://open.spotify.com/track/1218sAWJcTuUW4LUFw34oD"
     },
     {
-      "added_at": "2022-09-20 12:39:02",
+      "added_at": "2022-09-21 12:26:20",
       "album": {
         "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
         "url": "https://open.spotify.com/album/4PNqWiJAfjj32hVvlchV5u"
@@ -709,7 +709,7 @@
       "url": "https://open.spotify.com/track/2tTmW7RDtMQtBk7m2rYeSw"
     },
     {
-      "added_at": "2022-09-20 12:39:02",
+      "added_at": "2022-09-21 12:26:20",
       "album": {
         "name": "BORN PINK",
         "url": "https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM"
@@ -725,23 +725,23 @@
       "url": "https://open.spotify.com/track/5zwwW9Oq7ubSxoCGyW1nbY"
     },
     {
-      "added_at": "2022-09-20 12:39:02",
+      "added_at": "2022-09-21 12:26:20",
       "album": {
-        "name": "Cuanto Quiero Que Me Quieras",
-        "url": "https://open.spotify.com/album/2jVihPZkUwGX0mL8VoA4wZ"
+        "name": "Mas De 100 Cuecas - Para No Parar Be Bailar",
+        "url": "https://open.spotify.com/album/6EIvPjP1nbWEdWUUn7hxcU"
       },
       "artists": [
         {
-          "name": "A los 4 Vientos",
-          "url": "https://open.spotify.com/artist/4mawQ0P4WNPzCoktK0zuBD"
+          "name": "Los Hermanos Campos",
+          "url": "https://open.spotify.com/artist/25iPZnrdjEMSYXjUxdfgc6"
         }
       ],
-      "duration_ms": 137679,
-      "name": "No Te Pude Arrancar",
-      "url": "https://open.spotify.com/track/2vPwhoKr0SvdyDpwUp6SDR"
+      "duration_ms": 363640,
+      "name": "El Guant\u00f3n Loyola / La Rosa Con el Clavel / La Consentida",
+      "url": "https://open.spotify.com/track/3A1LoTe5GVBSsBSXBrZXJ4"
     },
     {
-      "added_at": "2022-09-20 12:39:02",
+      "added_at": "2022-09-21 12:26:20",
       "album": {
         "name": "Pato Feo Soy Yo",
         "url": "https://open.spotify.com/album/79PhZtwHOT9HTzavAUuGfp"
@@ -757,7 +757,23 @@
       "url": "https://open.spotify.com/track/6bK2pgaYV5XAilxpDLRfnA"
     },
     {
-      "added_at": "2022-09-20 12:39:02",
+      "added_at": "2022-09-21 12:26:20",
+      "album": {
+        "name": "Folklore en Mi Escuela. Danzas y Cantos de Am\u00e9rica, Vol. 1",
+        "url": "https://open.spotify.com/album/0u9kzGk1hFTp5ITUQye2ww"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Alerce",
+          "url": "https://open.spotify.com/artist/2pqwxwD3MCX4dM9OSdVoWb"
+        }
+      ],
+      "duration_ms": 113400,
+      "name": "El Costillar",
+      "url": "https://open.spotify.com/track/6iFPOUYTO1HUs3sDGBjM7Y"
+    },
+    {
+      "added_at": "2022-09-21 12:26:20",
       "album": {
         "name": "Caminemos de la Mano",
         "url": "https://open.spotify.com/album/4mN6kuLwt2N8SLascdzLyB"
@@ -777,7 +793,23 @@
       "url": "https://open.spotify.com/track/1cZqrdhWL6f3EiY23zpnTe"
     },
     {
-      "added_at": "2022-09-20 12:39:02",
+      "added_at": "2022-09-21 12:26:20",
+      "album": {
+        "name": "Cuanto Quiero Que Me Quieras",
+        "url": "https://open.spotify.com/album/2jVihPZkUwGX0mL8VoA4wZ"
+      },
+      "artists": [
+        {
+          "name": "A los 4 Vientos",
+          "url": "https://open.spotify.com/artist/4mawQ0P4WNPzCoktK0zuBD"
+        }
+      ],
+      "duration_ms": 137679,
+      "name": "No Te Pude Arrancar",
+      "url": "https://open.spotify.com/track/2vPwhoKr0SvdyDpwUp6SDR"
+    },
+    {
+      "added_at": "2022-09-21 12:26:20",
       "album": {
         "name": "Himnos Nacionales De Latino America",
         "url": "https://open.spotify.com/album/4UGfXKTW4BmEjk24ZiNT1Q"
@@ -793,55 +825,23 @@
       "url": "https://open.spotify.com/track/0HFwyeSuWD9I0JOuvLAmdu"
     },
     {
-      "added_at": "2022-09-20 12:39:02",
+      "added_at": "2022-09-21 12:26:20",
       "album": {
-        "name": "Drugs From Amsterdam",
-        "url": "https://open.spotify.com/album/060SvgMzLKrNzpvVLK5gSo"
+        "name": "Vuelve a Empezar...",
+        "url": "https://open.spotify.com/album/0jz6DTuF6Z4hCADpov1CMd"
       },
       "artists": [
         {
-          "name": "Mau P",
-          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+          "name": "Entremares",
+          "url": "https://open.spotify.com/artist/7KPcBMsOzS2QvKzkjj1kxU"
         }
       ],
-      "duration_ms": 235785,
-      "name": "Drugs From Amsterdam",
-      "url": "https://open.spotify.com/track/0w7JPlp7eEQI2EKW3ayXrv"
+      "duration_ms": 145386,
+      "name": "Desde Que No Estas Presente",
+      "url": "https://open.spotify.com/track/6y6uv2CQPUgTEcS5eJb7nS"
     },
     {
-      "added_at": "2022-09-20 12:39:02",
-      "album": {
-        "name": "Chile Tipico Vol.1 El Copihue Rojo",
-        "url": "https://open.spotify.com/album/1WOScB9pn6TM1kiyTaphhm"
-      },
-      "artists": [
-        {
-          "name": "Los Baqueanos",
-          "url": "https://open.spotify.com/artist/3iTgx1Tn1AuP1rmN03uOI7"
-        }
-      ],
-      "duration_ms": 199813,
-      "name": "Canci\u00f3n Del Brindis",
-      "url": "https://open.spotify.com/track/4cGBIUVgiXK4YuytQOgoMc"
-    },
-    {
-      "added_at": "2022-09-20 12:39:02",
-      "album": {
-        "name": "30 Cuecas de Oro",
-        "url": "https://open.spotify.com/album/2b7Ig3ikoHTNHLhNAmZLrY"
-      },
-      "artists": [
-        {
-          "name": "Los Hermanos del Campos",
-          "url": "https://open.spotify.com/artist/4eZsJrNBEqoOwRG1ZMASOR"
-        }
-      ],
-      "duration_ms": 140706,
-      "name": "El Guat\u00f3n Loyola",
-      "url": "https://open.spotify.com/track/3aFCdWQnmCskffgpP9UN8L"
-    },
-    {
-      "added_at": "2022-09-20 12:39:02",
+      "added_at": "2022-09-21 12:26:20",
       "album": {
         "name": "Rompe",
         "url": "https://open.spotify.com/album/5ybMTJVzd04KY78eELDC8X"
@@ -857,20 +857,20 @@
       "url": "https://open.spotify.com/track/6nYyGlTP5L2R6SEd1xG8Xs"
     },
     {
-      "added_at": "2022-09-20 12:39:02",
+      "added_at": "2022-09-21 12:26:20",
       "album": {
-        "name": "Cuecas con Alma",
-        "url": "https://open.spotify.com/album/2NiNlXusG9vpTHoVSdBuO8"
+        "name": "Chile Tipico Vol.1 El Copihue Rojo",
+        "url": "https://open.spotify.com/album/1WOScB9pn6TM1kiyTaphhm"
       },
       "artists": [
         {
-          "name": "Ballet Folkl\u00f3rico Alma Chilena",
-          "url": "https://open.spotify.com/artist/4fy7q6argEZyJd2iPFG21M"
+          "name": "Los Baqueanos",
+          "url": "https://open.spotify.com/artist/3iTgx1Tn1AuP1rmN03uOI7"
         }
       ],
-      "duration_ms": 122013,
-      "name": "Adi\u00f3s Santiago Querido",
-      "url": "https://open.spotify.com/track/1dFxVQnv1AcGEatynj2VQE"
+      "duration_ms": 199813,
+      "name": "Canci\u00f3n Del Brindis",
+      "url": "https://open.spotify.com/track/4cGBIUVgiXK4YuytQOgoMc"
     }
   ],
   "unique_name": "Viral 50 - Chile",

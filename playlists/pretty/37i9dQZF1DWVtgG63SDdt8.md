@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  Jonathan Ogden
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,298 likes - 100 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,411 likes - 100 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 16 | [Bigger \(feat\. Travis Greene & Donishisa Ballard\)](https://open.spotify.com/track/60J6sh0s2jibaDOxDnK01Y) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe), [Donishisa Ballard](https://open.spotify.com/artist/1DvT4SMxc9Myoo6sBTGzOq) | [Bigger \(feat\. Travis Greene & Donishisa Ballard\)](https://open.spotify.com/album/21L9nVPupSXq9c2ju4SdNf) | 8:22 |
 | 17 | [Remember \- Live](https://open.spotify.com/track/2AtwLLImz3LcUvHMPr2897) | [Cross Worship](https://open.spotify.com/artist/09uw68tTAf3gYSPAktJa7f), [Jillian Ellis](https://open.spotify.com/artist/5XFkr1jOXW45A0WuJSPTEf) | [Remember \(Live\)](https://open.spotify.com/album/1fBXTi7ZRxjsRWwHI1264r) | 6:30 |
 | 18 | [Forever & Amen \(with Kari Jobe\) \- Live](https://open.spotify.com/track/7w9cEiNE0z2L3AhqUU4A0O) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0), [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [Forever & Amen](https://open.spotify.com/album/1pbtg4PdtxGJbVc1lUSnuB) | 9:50 |
-| 19 | [Here In Your House \- Live](https://open.spotify.com/track/5F8dat7oGa2evN3heXZ078) | [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [John Michael Howell](https://open.spotify.com/artist/4BqK6JLgMwQ99hx85DxNhP) | [Here In Your House \(Live\)](https://open.spotify.com/album/5dPV0J4ZbXfu5AfuOwJRAf) | 4:18 |
+| 19 | [Here In Your House \- Live](https://open.spotify.com/track/5F8dat7oGa2evN3heXZ078) | [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [John Michael Howell](https://open.spotify.com/artist/3ySDpfbxjz8OmkhHeWAOAu) | [Here In Your House \(Live\)](https://open.spotify.com/album/5dPV0J4ZbXfu5AfuOwJRAf) | 4:18 |
 | 20 | [Christ Our King \- Live From Camp](https://open.spotify.com/track/36JWXzz773ljAGmwwz4ISZ) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Rachel Halbach](https://open.spotify.com/artist/4OjfvyOSdI1ojj25vZgDXn) | [Live From Camp](https://open.spotify.com/album/5TlrCofUYHkTefOzSKRvW1) | 6:05 |
 | 21 | [Never Walk Alone \- Live At Team Night](https://open.spotify.com/track/6i7YX1pSS23xCdfW1vzjBf) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Team Night \(Live\)](https://open.spotify.com/album/7eJTb3VeQuRdefsPSQ5lzO) | 4:33 |
 | 22 | [Oasis](https://open.spotify.com/track/0JfzgazxYfn5tgdRtBgi3B) | [C3 NYC](https://open.spotify.com/artist/6tVUFgMhjG96KGcJSr3BdJ) | [Oasis](https://open.spotify.com/album/7Hiak4EHC0vayfXfVL0DpD) | 4:29 |

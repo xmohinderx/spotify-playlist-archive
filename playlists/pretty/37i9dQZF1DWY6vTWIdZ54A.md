@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6vTWIdZ54A.md) - [plain]
 
 > Rock songs that get down and dirty\. Cover: Marcus King
 
-[Spotify](https://open.spotify.com/user/spotify) - 437,222 likes - 142 songs - 8 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 437,366 likes - 142 songs - 8 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

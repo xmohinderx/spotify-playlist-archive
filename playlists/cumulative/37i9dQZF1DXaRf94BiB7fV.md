@@ -2,9 +2,9 @@
 
 ### [Fresh Finds India](https://open.spotify.com/playlist/37i9dQZF1DXaRf94BiB7fV)
 
-> The best new music by independent artists and labels from India, updated every Wednesday\. Cover: Semwal, Artwork: Isu Kim
+> The best new music by independent artists and labels from India, updated every Wednesday\. Cover: Akshath, Artwork: Isu Kim
 
-569 songs - 1 day 10 hr 3 min - [published](https://open.spotify.com/playlist/5ZxKEzYK5bckaAr3OIv47F)
+571 songs - 1 day 10 hr 10 min - [published](https://open.spotify.com/playlist/5ZxKEzYK5bckaAr3OIv47F)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [Ciggy Fraud](https://open.spotify.com/track/5yFnnzlWpWvHUOuEx1MFQe) | [Rae Mulla](https://open.spotify.com/artist/0a1S8Sk8xsmP5zQGPO8UJK), [Sahirah](https://open.spotify.com/artist/7klVdpMzxmDNKipQDIGjh0) | [Ciggy Fraud](https://open.spotify.com/album/4zxwiIQUM7vUs9oJRQYVMV) | 1:50 | 2022-02-02 | 2022-02-10 |
 | [Cloud Burst](https://open.spotify.com/track/196EOSSuHR7vfHd4aCLQ3U) | [the Vyakt](https://open.spotify.com/artist/1jjcReDsyRtwyDtzPLJMkp) | [Cloud Burst](https://open.spotify.com/album/6DYd6ep2qaIAuDsAUAaLQh) | 2:18 | 2022-06-01 | 2022-06-23 |
 | [Confide](https://open.spotify.com/track/6qPqouEtKkfxM21hsIIA4T) | [Moosa Saleem](https://open.spotify.com/artist/16m66acFCoUlPwjQf9D6fN), [Jeremiah de Rozario](https://open.spotify.com/artist/77JtYqejZiIOtqTfrtadna) | [Confide](https://open.spotify.com/album/0hYbx3z1wbIdgrSxmRBkhL) | 3:19 | 2022-05-25 | 2022-09-09 |
+| [Courtyards](https://open.spotify.com/track/5LGs8mMpSyzQqgaWWEOJMV) | [Shourya Malhotra](https://open.spotify.com/artist/7D5PI5MuJaKxuAtVOxwzxS), [Varun Rajput](https://open.spotify.com/artist/5XoXIVEIaJcT3UUzhpzIlG), [Rini Rajput](https://open.spotify.com/artist/6ULk3EPG61JmA3JN7s5468) | [Courtyards](https://open.spotify.com/album/3UKC4HBpcljGjGFxkkumCx) | 4:10 | 2022-09-21 |  |
 | [Crimson Skies](https://open.spotify.com/track/3QehBxsgtGDgjp7dVjFSCl) | [The Earflower Experiment](https://open.spotify.com/artist/3PK4DyHQllh8lOJ4szoEBD), [Aidah Asrar](https://open.spotify.com/artist/15GsuMBgd7VB0W9NrfzxWL) | [Crimson Skies](https://open.spotify.com/album/5dEPM92xLzuoAxK9NMn7pd) | 3:23 | 2022-07-13 |  |
 | [Dancing in My Dream](https://open.spotify.com/track/664thPsoTugM6SDSyD1GA1) | [Akshit Dhall](https://open.spotify.com/artist/5Wkv6MeBhwP2or9G0RlNid) | [Dancing in My Dream](https://open.spotify.com/album/3rJF4N2rhgfaIgZNfjNBCV) | 3:58 | 2022-05-11 | 2022-09-09 |
 | [dancing in the bedroom sky](https://open.spotify.com/track/6pszbuiSRAzNOUhKp2X8Fs) | [Ribhavv](https://open.spotify.com/artist/01nF5O4sTf8RDuec39ZPnp), [Mehakk](https://open.spotify.com/artist/5LwKjozJ2UXQ87xIFeCBdr) | [dancing in the bedroom sky](https://open.spotify.com/album/1NuPAPVolzg3Wd5UbCwWUp) | 3:25 | 2022-01-12 | 2022-02-17 |
@@ -268,6 +269,7 @@
 | [Know Your Hail Mary](https://open.spotify.com/track/0TB26F6h84hhMUOVWprkMn) | [Brecilla](https://open.spotify.com/artist/4CuvDi9xxTJKFKvzfhEdRB) | [Know Your Hail Mary](https://open.spotify.com/album/6HSnHC3gXWGLcZtAqES7XP) | 4:15 | 2021-12-01 | 2022-01-13 |
 | [Kora Kaagaz](https://open.spotify.com/track/3nUV7ogIxcj3i2pF7ju5wG) | [Ailaan](https://open.spotify.com/artist/3NIoLvvvEDb1Tocudyhqe9) | [Kora Kaagaz](https://open.spotify.com/album/0qvRz1Y6HugIeHY13jS92P) | 2:55 | 2021-12-01 | 2022-01-13 |
 | [Kulfi](https://open.spotify.com/track/4kRHGApBIgxV4r1SjwD70l) | [Rohan Upadeo](https://open.spotify.com/artist/4tZfPDRKgBCvltFEr4ka9j) | [Kulfi](https://open.spotify.com/album/1lnmlCF06Nh3tWsY4IvQqd) | 3:36 | 2022-04-27 | 2022-06-30 |
+| [Kya Ho Gaya](https://open.spotify.com/track/2TbfqIrC82fKnkawwMlSvK) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [Kya Ho Gaya](https://open.spotify.com/album/3vTWIcTP2fSZaqHgA2OkfL) | 2:42 | 2022-09-21 |  |
 | [Kya Mila Hoke Juda](https://open.spotify.com/track/7Jh36I3PUNM1mNLulu5tbh) | [Muzi BOY](https://open.spotify.com/artist/1ftNvATR3m8rPt1ygLgUXr) | [Kya Mila Hoke Juda](https://open.spotify.com/album/1BNtf7KCcvI33Zgh4TGFD3) | 3:07 | 2022-08-03 | 2022-09-09 |
 | [Kya Mila Hoke Juda](https://open.spotify.com/track/6muPTb2QlXgFFhtWPymORx) | [Muzi BOY](https://open.spotify.com/artist/1ftNvATR3m8rPt1ygLgUXr) | [Kya Mila Hoke Juda](https://open.spotify.com/album/4sUBZbPIeOaKwjzmwkcNO7) | 3:07 | 2022-05-04 | 2022-08-05 |
 | [Kya Pata](https://open.spotify.com/track/30LOB7sU7THmLd48ZyuDkP) | [Rahul Gurung](https://open.spotify.com/artist/501jDprhWjQsobbgEjglKQ) | [Kya Pata](https://open.spotify.com/album/2dgepWvy4VdQHtVYviCI3n) | 3:11 | 2022-04-27 | 2022-06-23 |
@@ -454,7 +456,7 @@
 | [Shapes in the Dark](https://open.spotify.com/track/5a5SUCAlRGIQb3WKsrlfjm) | [Dreams I Forget](https://open.spotify.com/artist/2TPKS8boUK1U3wPvCDI0Li) | [Shapes in the Dark](https://open.spotify.com/album/34IZNlidaFOTYD294nZCo5) | 2:40 | 2021-12-01 | 2022-01-13 |
 | [Shayad Mai Hun](https://open.spotify.com/track/4n9jiuV58tlUrZ8hmtxwU9) | [Roopini Ravindran](https://open.spotify.com/artist/39DvLMstycO2HcuNLDkuss) | [Shayad Mai Hun](https://open.spotify.com/album/0afwCWm3jNpLXclnlaUh3f) | 5:31 | 2022-03-23 | 2022-04-14 |
 | [Shmoyo](https://open.spotify.com/track/1WQP1or3glFCXXndPi3EbW) | [Jayanth Potharaju](https://open.spotify.com/artist/0AdMVTePJ7C2yYr2ZY9bp2), [Joel Prithvi](https://open.spotify.com/artist/6b22DuqXdp42xb2sN8dpJk), [STEVIE](https://open.spotify.com/artist/6GHxnMgyleS4PM4YpVZkTa) | [Shmoyo](https://open.spotify.com/album/04qkVrq1oMgqpo9tVdDaCQ) | 2:37 | 2022-01-12 | 2022-03-10 |
-| [Show me the way](https://open.spotify.com/track/6av0OomYdmXTXmB7hCz7Wh) | [Junkyard Groove](https://open.spotify.com/artist/1pYH8g61oZs4SdpvKPCGz6) | [Show me the way](https://open.spotify.com/album/2qHA25jmuK4IrxL5H1Pgbs) | 2:02 | 2022-07-06 |  |
+| [Show me the way](https://open.spotify.com/track/6av0OomYdmXTXmB7hCz7Wh) | [Junkyard Groove](https://open.spotify.com/artist/1pYH8g61oZs4SdpvKPCGz6) | [Show me the way](https://open.spotify.com/album/2qHA25jmuK4IrxL5H1Pgbs) | 2:02 | 2022-07-06 | 2022-09-22 |
 | [Sing Myself to Sleep](https://open.spotify.com/track/17aXZfYhByW2srwZJiA9pF) | [Jehaan](https://open.spotify.com/artist/7Dsro7IzqTT7ony6ImG0Ye) | [Sing Myself to Sleep](https://open.spotify.com/album/2qW2WLaSugoKgHgchenTlx) | 4:20 | 2022-08-03 | 2022-09-09 |
 | [Sitting on my bed](https://open.spotify.com/track/018VqIUlNVC00Cf7F8M4qY) | [Raghav Mangrulkar](https://open.spotify.com/artist/1R2ObkMaIAIVcTXAkrfdBH) | [Sitting on my bed](https://open.spotify.com/album/7CNQjjsORk9bf2sRSxpfzp) | 2:57 | 2022-06-15 | 2022-09-15 |
 | [So Blue](https://open.spotify.com/track/6L11TOEMnyDF0giRinVCtb) | [The Coconut Milk Project](https://open.spotify.com/artist/7ME0Ae7qHNi4yPx7362ZF2) | [So Blue](https://open.spotify.com/album/5MP3n9PBi4ZLBvVxPrMVxm) | 2:43 | 2022-08-03 |  |

@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: 松任谷由実
 
-730 songs - 2 day 0 hr 10 min - [published](https://open.spotify.com/playlist/0SZUWy0MOvj9UVdaGWsuiR)
+731 songs - 2 day 0 hr 14 min - [published](https://open.spotify.com/playlist/0SZUWy0MOvj9UVdaGWsuiR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,8 @@
 | [Dive](https://open.spotify.com/track/3gfkOywioaszbMdbxd0dVO) | [RiE MORRiS](https://open.spotify.com/artist/6MjrwCzODvPrFK6grutJB0), [Ryoma Takamura](https://open.spotify.com/artist/4DQarWq5qDQV42Kz4dnedK) | [Dive](https://open.spotify.com/album/5IeUMnZm94sq4TSRxonXM7) | 2:55 | 2022-06-07 | 2022-06-15 |
 | [Do What U Love](https://open.spotify.com/track/1qn2VwBsPI0iF6uiqOylRD) | [Kaoru Tominaga](https://open.spotify.com/artist/7h8VFlFvY1tPKovx1mKTGE), [Sho Asano](https://open.spotify.com/artist/7oNLOW0qxiKDZnG9xkP6CX) | [Do What U Love](https://open.spotify.com/album/2IHKQdjkiFyCO1yqz5IcZI) | 3:37 | 2022-06-21 | 2022-06-29 |
 | [Don't Mind Baby](https://open.spotify.com/track/5jBaxFB7qo0iIWi7gIWI6G) | [Rei](https://open.spotify.com/artist/74BJTJjtRUwMBB8TjHiVwr), [長岡亮介](https://open.spotify.com/artist/18rZSYLeI8QvUrWsfv5frK) | [Don’t Mind Baby](https://open.spotify.com/album/6uTVPBvdbjXqVDEW7bFfO7) | 4:48 | 2022-06-16 | 2022-07-25 |
-| [Door](https://open.spotify.com/track/4LkK5mOTM05cZbaBJb75Ve) | [Sakurako Ohara](https://open.spotify.com/artist/5TS11vZTUaDP4maTjFCcBU) | [Door](https://open.spotify.com/album/6NR1okg7CWmbjFLM6UUm3E) | 3:59 | 2022-09-20 |  |
+| [Door](https://open.spotify.com/track/4LkK5mOTM05cZbaBJb75Ve) | [Sakurako Ohara](https://open.spotify.com/artist/5TS11vZTUaDP4maTjFCcBU) | [Door](https://open.spotify.com/album/6NR1okg7CWmbjFLM6UUm3E) | 3:59 | 2022-09-20 | 2022-09-22 |
+| [Door](https://open.spotify.com/track/5CVZ01KWbD9A0Nrwt0K2aF) | [Sakurako Ohara](https://open.spotify.com/artist/5TS11vZTUaDP4maTjFCcBU) | [Door](https://open.spotify.com/album/3xeMmmSsB1KogwIaQGYy4F) | 3:59 | 2022-09-20 |  |
 | [Dotchi](https://open.spotify.com/track/6tipVe94Y7qOwxc2SfYHz9) | [Harumi](https://open.spotify.com/artist/01AnOmJCFPom13jKelxk8D), [RIOSKE](https://open.spotify.com/artist/0Z7iDKI89ZtWH3cP6mvIdO) | [Dotchi](https://open.spotify.com/album/3BFbqy7rzBztL292U1nSuZ) | 3:21 | 2022-05-31 | 2022-07-27 |
 | [dream puff](https://open.spotify.com/track/6XQ1gx59UoWWDtqytRckkW) | [yanaginagi](https://open.spotify.com/artist/15MlyDyZofFYpLb5MrLKVo) | [dream puff](https://open.spotify.com/album/1XJFDMQhlTCRDdvbo5gF7m) | 3:09 | 2022-06-30 | 2022-07-06 |
 | [Drivin'](https://open.spotify.com/track/5dTFgyqxUJENFQgT3WpYDQ) | [LAGHEADS](https://open.spotify.com/artist/4ByaRqzQAftsd7bdCS3hqN), [kiki vivi lily](https://open.spotify.com/artist/5D21ZneiMBeuS22kVg2sxE) | [Drivin'](https://open.spotify.com/album/7hFgHs48yLBm8Q5WOLBSCJ) | 2:51 | 2022-07-19 | 2022-09-09 |

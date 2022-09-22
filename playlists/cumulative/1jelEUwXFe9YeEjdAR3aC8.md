@@ -4,7 +4,7 @@
 
 > Chill indie songs by Jeremy Zucker and BENEE, Noah Kahan, and more! Dive in to this mellow and emotive playlist, and discover new favorites! Cover: Billie Eilish
 
-158 songs - 8 hr 56 min - [published](https://open.spotify.com/playlist/3sjWktyD1KzSMZBUWy3pNl)
+160 songs - 9 hr 2 min - [published](https://open.spotify.com/playlist/3sjWktyD1KzSMZBUWy3pNl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,8 +14,9 @@
 | [Amoeba](https://open.spotify.com/track/0HAqq2GcQKyi3s87GuN7jU) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sling](https://open.spotify.com/album/32ium7Cxb1Xwp2MLzH2459) | 3:48 | 2022-06-06 |  |
 | [Angel Baby](https://open.spotify.com/track/2m6Ko3CY1qXNNja8AlugNc) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Angel Baby](https://open.spotify.com/album/44CdsgXhU5R2esprq0tf43) | 3:40 | 2022-06-10 | 2022-09-07 |
 | [ANGOSTURA](https://open.spotify.com/track/38umMmZQdeoOG7Zojor4g3) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [GABRIEL](https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7) | 2:51 | 2022-06-06 |  |
+| [Antibiotics](https://open.spotify.com/track/0gffR4rGlFYmItmRD9pkMM) | [Lowertown](https://open.spotify.com/artist/1yI0RRPnOA9BFJmiZ6cEzw) | [Antibiotics](https://open.spotify.com/album/3E7prZK3ZOiIAWqGs792ji) | 3:06 | 2022-09-21 |  |
 | [Ashes By The Morning](https://open.spotify.com/track/1idK6bIrrGRcIPV7UdH3fL) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [Bored Of The Circus](https://open.spotify.com/album/4oothiJCmPORbNYinRinfo) | 3:02 | 2022-09-18 |  |
-| [Aura](https://open.spotify.com/track/3FcNx0xneevygzqjZaSDIo) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Aura](https://open.spotify.com/album/1i3MA9Eamgjk3SKYFo0zdn) | 3:27 | 2022-07-10 |  |
+| [Aura](https://open.spotify.com/track/3FcNx0xneevygzqjZaSDIo) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Aura](https://open.spotify.com/album/1i3MA9Eamgjk3SKYFo0zdn) | 3:27 | 2022-07-10 | 2022-09-22 |
 | [Beach Boy](https://open.spotify.com/track/7AEWEYnWHPqXTExnIfxzsT) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Beach Boy](https://open.spotify.com/album/4u5BWJputhCmihtUEWQ3ll) | 3:12 | 2022-06-06 | 2022-09-19 |
 | [Better Version](https://open.spotify.com/track/3yDEK8rHiOUHOSioX9ZbaU) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Better Version](https://open.spotify.com/album/6L4Br91KD5fMRjxDItOzGd) | 2:53 | 2022-09-12 | 2022-09-19 |
 | [Block me out](https://open.spotify.com/track/7AX1eCw6qcX54PrDylynJr) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Block me out](https://open.spotify.com/album/3gRzJoa3WSp3XUD585RRvN) | 4:09 | 2022-06-06 |  |
@@ -67,7 +68,7 @@
 | [How Ashes Are Made](https://open.spotify.com/track/0EI5cEJFggH0VStM3FeMUV) | [Dave McKendry](https://open.spotify.com/artist/5OE3WxCOZMByTrhE7JZGTI) | [How Ashes Are Made](https://open.spotify.com/album/3kGYywVMS05rOsbq0PeyaL) | 2:55 | 2022-06-26 | 2022-07-05 |
 | [Howling](https://open.spotify.com/track/07Bf6NNEWHOgivLQbb1Akg) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [I Was / I Am](https://open.spotify.com/album/0b693AisoJYg4Ilj10LkYG) | 4:45 | 2022-06-06 | 2022-09-19 |
 | [HUES](https://open.spotify.com/track/1CbjLm3Q4jFALQGFc3TVgC) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D) | [HUES](https://open.spotify.com/album/4AD173y27znvHf5FYTlEWS) | 2:44 | 2022-07-04 | 2022-08-18 |
-| [Hurtless](https://open.spotify.com/track/6HJizCbaqaEQG1eLjn341Z) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Hurtless](https://open.spotify.com/album/1WKIR7hhHN1DvJPn09gIST) | 3:00 | 2022-06-06 |  |
+| [Hurtless](https://open.spotify.com/track/6HJizCbaqaEQG1eLjn341Z) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Hurtless](https://open.spotify.com/album/1WKIR7hhHN1DvJPn09gIST) | 3:00 | 2022-06-06 | 2022-09-22 |
 | [i tried](https://open.spotify.com/track/37EQsOkuUxhqV1yJcPC1TY) | [Camylio](https://open.spotify.com/artist/2Mf6MBoMOgpxxm3QuH9Tk4) | [i tried](https://open.spotify.com/album/5fvv0vjvISZwMuHE49g89U) | 2:40 | 2022-06-06 |  |
 | [I'm So Happy \(with BENEE\)](https://open.spotify.com/track/16Fxe5DvEXRxQwcorFyaIO) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [I'm So Happy](https://open.spotify.com/album/2n9fao5PGUvIayJehrdHf7) | 2:53 | 2022-09-18 |  |
 | [Imposter Syndrome](https://open.spotify.com/track/7HY0wLHPhWer6uSUYxsL3k) | [Abe Parker](https://open.spotify.com/artist/5V61WloeXM3XLslOqJ8RES) | [Imposter Syndrome](https://open.spotify.com/album/2t9G4JSr0tgjiudH6KWyGl) | 3:13 | 2022-08-08 | 2022-08-16 |
@@ -138,6 +139,7 @@
 | [Tattoos](https://open.spotify.com/track/4JbUI6AoGibHGsHN77aSws) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Tattoos](https://open.spotify.com/album/1KFTkdRgqz47SR6F9B1UwJ) | 2:53 | 2022-06-06 | 2022-07-26 |
 | [Teeth Marks](https://open.spotify.com/track/6L7uYQYLL6veGWP89fFph0) | [S.G\. Goodman](https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd) | [Teeth Marks](https://open.spotify.com/album/5fXIv2d6FP5hSTYThKREZH) | 3:37 | 2022-06-06 | 2022-06-14 |
 | [Ten](https://open.spotify.com/track/6pXRLi8Gx2cZ3VQZJp1kFd) | [The Greeting Committee](https://open.spotify.com/artist/1MIe1z4RdqLqHSJsb7EBMm) | [Dandelion](https://open.spotify.com/album/5LF0FgPNp2ImHWV8P6ZkCx) | 2:08 | 2022-06-13 | 2022-06-27 |
+| [That Kinda Girl](https://open.spotify.com/track/7xx7TSQDUl9gsLOH5ZKKWX) | [Fleurie](https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4) | [It’s Always Summer in Supertropicali \(Chapter 2\)](https://open.spotify.com/album/0fx9Wepc1X1qSMVK6Nrm81) | 3:14 | 2022-09-21 |  |
 | [The 30th](https://open.spotify.com/track/5SHpuW2qjkQtFRpE6P9Nks) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guitar Songs](https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj) | 3:36 | 2022-07-25 | 2022-09-13 |
 | [The Hardest Part](https://open.spotify.com/track/3OYUuT8iujKMFUoeKrnhwe) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [The Hardest Part](https://open.spotify.com/album/1URmuEjZuBuXuLegkhvQr0) | 3:23 | 2022-06-06 | 2022-06-27 |
 | [The Rose You Kept](https://open.spotify.com/track/0DKBPNScReCRRicU4bgx50) | [Daniele Luppi](https://open.spotify.com/artist/1TY8JzETLheB4vm5QblKsF), [Greg Gonzalez](https://open.spotify.com/artist/3X80qrZudFnWfRlNg7uIDU) | [The Rose You Kept](https://open.spotify.com/album/3tbwmBwYgbOqFmm727arhf) | 3:36 | 2022-09-01 | 2022-09-19 |

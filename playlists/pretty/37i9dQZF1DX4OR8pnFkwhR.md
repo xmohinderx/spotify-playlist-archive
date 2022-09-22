@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: 菅原圭
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,525 likes - 59 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,585 likes - 59 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [カーテン](https://open.spotify.com/track/0EpYsp88EkLlaC8AmDIlMC) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [カーテン](https://open.spotify.com/album/6shhbAZHrRdbqUhJvVWblA) | 2:43 |
+| 1 | [curtain](https://open.spotify.com/track/4j8eZkDhi4ppiNhSkIR4Up) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [curtain](https://open.spotify.com/album/5X3NbcqfS8gwMPf5YXjvjW) | 2:43 |
 | 2 | [Bankroll](https://open.spotify.com/track/1SPqbcSQ1YwORDxbZCouco) | [Bleecker Chrome](https://open.spotify.com/artist/63F60S2TQ5VC0KLx8dWNc8) | [Bankroll](https://open.spotify.com/album/3C5ywR5fla0iOLyoyBXqKj) | 2:44 |
 | 3 | [Todai](https://open.spotify.com/track/6O75NV4KyMzh47TS9Zow5m) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Todai](https://open.spotify.com/album/4hE6Ux4bskxZzUV7HKbIES) | 2:57 |
 | 4 | [Deadstock](https://open.spotify.com/track/1h3XEx3bmfIARIJQqE3NA5) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU), [きのぽっぽ](https://open.spotify.com/artist/7wELjvjV3KJdFtxYlZ5bhf) | [Deadstock](https://open.spotify.com/album/4Z9igjlzrOpnidH6MwRhEc) | 3:19 |
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 16 | [チャプター](https://open.spotify.com/track/5YyWqhhN1JEn7F2cqDUMQO) | [BREIMEN](https://open.spotify.com/artist/3SasVdv6zvCEY29rst8PBU) | [FICTION](https://open.spotify.com/album/2uCfgTfS5gVxOD1YFiebuE) | 4:18 |
 | 17 | [FLOATING EYES](https://open.spotify.com/track/5trmKu2TPm87vYS1xqouAj) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E), [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd) | [BEANIE](https://open.spotify.com/album/0Unuh962T4V4QakKGMahUg) | 3:12 |
 | 18 | [white](https://open.spotify.com/track/6bZfFirxMhktXJfmMrjN5y) | [macico](https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk) | [white](https://open.spotify.com/album/04yLwJaUBT6SHkkZ9GyCeG) | 4:10 |
-| 19 | [Danceless Island](https://open.spotify.com/track/72BFb5OajhZEkmzoHssXLN) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Danceless Island](https://open.spotify.com/album/575eZHzWuiFFuUQ4sDF4G4) | 3:45 |
+| 19 | [Danceless Island](https://open.spotify.com/track/1HveaXiH8hnI1spsowkeCL) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Danceless Island](https://open.spotify.com/album/1syVDDqzi6brKX5hosWs8u) | 3:45 |
 | 20 | [Sweet Escape \(feat\. ひかり\)](https://open.spotify.com/track/6Whj4AAx1Y2xSCJhpRvTpt) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc) | [Sweet Escape \(feat\. ひかり\)](https://open.spotify.com/album/6QWulBLmOcERqXcs2tSxh6) | 3:53 |
 | 21 | [かくれん坊](https://open.spotify.com/track/1L3UMJURyF9UVc2Z4O16s6) | [黒子首](https://open.spotify.com/artist/56pKIRNnzK6xCW508ohOo3) | [ぼやぁ\~じゅ](https://open.spotify.com/album/5sw6cVMbXiNO6T7i5vfCP5) | 3:52 |
 | 22 | [Bye Bye](https://open.spotify.com/track/3hPTqw8pMF7SQpxaWngBOM) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Bye Bye](https://open.spotify.com/album/2oaPQosRx7EHt403lUQu07) | 3:41 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 58 | [Dance Alone](https://open.spotify.com/track/2kpZkWCfmuSvn8CZYGvNkO) | [えんぷてい](https://open.spotify.com/artist/7zzRFLfG1OzxyobuR74moh) | [Dance Alone](https://open.spotify.com/album/2grXUKK5gDiBlcWcpbKm6Y) | 4:56 |
 | 59 | [Ginger](https://open.spotify.com/track/3JRQx0Z6DqXdiiPhC6ursV) | [No.18](https://open.spotify.com/artist/2OmPvjarEhRq29rXnl4yc5) | [The One](https://open.spotify.com/album/78N2PusW7lbIHccjOsxzgC) | 3:52 |
 
-Snapshot ID: `MTY2MzcxMjc0OSwwMDAwMDAwMDViNTkxZTI1YjY2ZjAyMWRmOTNkOWFmMzNiMGVkZTVh`
+Snapshot ID: `MTY2MzcxMjc0OSwwMDAwMDAwMGMwMmI4MzMxMGMwODIyMTExNWE5ZWJjNjBkNWI0MWQx`

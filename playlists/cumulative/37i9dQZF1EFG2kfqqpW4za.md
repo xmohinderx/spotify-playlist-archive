@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/30ynYqxh9XyqxQgvUHjYBG">Helio Bentes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-58 songs - 4 hr 7 min - [published](https://open.spotify.com/playlist/7MWHzcohDZje49scMSTfF2)
+59 songs - 4 hr 11 min - [published](https://open.spotify.com/playlist/7MWHzcohDZje49scMSTfF2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Fé \- Acústico](https://open.spotify.com/track/5w31BIWkKY6ZiDuWbFMi4M) | [Oriente](https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE), [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x) | [Oriente \(Acústico\)](https://open.spotify.com/album/4pRmsv8T3XHrdf7EgT9mRJ) | 4:47 | 2022-06-04 |  |
 | [Fé Inabalável](https://open.spotify.com/track/70DVcAR6igMVrRfBU1GJoM) | [Cacife Clandestino](https://open.spotify.com/artist/2RKcy8YT2w2QYn0D7TjiIi), [Hélio Bentes](https://open.spotify.com/artist/6MyzqGUoZwnmflUnI360kp) | [Marginal](https://open.spotify.com/album/69vbtr2KuRwE14nK8LJfEZ) | 3:11 | 2022-06-04 |  |
 | [Genesis](https://open.spotify.com/track/1MwEVNDORoVWJDg6kRqWF3) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Reggae a Vida Com Amor](https://open.spotify.com/album/1kN0AUafpsAzU1C49361bA) | 3:47 | 2022-06-04 |  |
+| [Governo Fascista](https://open.spotify.com/track/5bz4OxlZFlfYwyupQjgRDf) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Governo Fascista](https://open.spotify.com/album/7kB5aFcZo7i7BUiAe3lW5K) | 3:48 | 2022-09-21 |  |
 | [Guerra Padrão](https://open.spotify.com/track/15ty05GQRXZqpk81ZlttEH) | [1Kilo](https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE) | [Alma de Favela, Pt\. 1](https://open.spotify.com/album/4szKhNy0JgoImu77ygVzL1) | 3:32 | 2022-06-29 |  |
 | [Guerra Padrão](https://open.spotify.com/track/5QUM9N6kRbGnZhx5wTaMtD) | [1Kilo](https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE), [DoisP](https://open.spotify.com/artist/4xcFNIVM3qTAXKmGRcBxx2), [Funkero](https://open.spotify.com/artist/64xQ854jZk1zMWXNud2Crt), [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x), [Shawlin](https://open.spotify.com/artist/21ebZl1YQNDiLcWYhgecph), [Beleza](https://open.spotify.com/artist/1IDFjigtENXy8rm0h0Uqk3) | [Alma de Favela, Pt\. 1](https://open.spotify.com/album/1YDg3SMhbLl0l0kZs2u6ih) | 3:32 | 2022-06-04 | 2022-06-30 |
 | [Hero](https://open.spotify.com/track/2Tzk7V1dSVQB3qmOa0WMmg) | [Groundation](https://open.spotify.com/artist/5L59UhTBOeIRPxF5umwC9p), [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [The Next Generation](https://open.spotify.com/album/5BBPScdAMExDroIsn0q2Y6) | 5:42 | 2022-06-04 |  |

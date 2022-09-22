@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ViysbCzMHO.md) - [plain]
 
 > Acoustic country songs from the heart of Nashville \- stripped down to the basics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,299 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,309 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,9 +99,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ViysbCzMHO.md) - [plain]
 | 89 | [Landslide \- Live from Nashville](https://open.spotify.com/track/3RxqTdS82J42mKL2L6OnWL) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Unapologetically \(Deluxe Edition\)](https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA) | 3:17 |
 | 90 | [Hard Things](https://open.spotify.com/track/61e2c3NqK905WM3Hi7ZvYK) | [Sarah Buxton](https://open.spotify.com/artist/2xTlb6eueddQmWsxImpDbP) | [Hard Things](https://open.spotify.com/album/4mj6XqOhQggJgFnjJwlRTH) | 4:23 |
 | 91 | [While You're Gone \- Acoustic](https://open.spotify.com/track/5a43dOHSt1H6RMqxU9Q5Up) | [Drew Parker](https://open.spotify.com/artist/04roC3Teouu613zLDKvHpQ) | [While You're Gone \(Acoustic\)](https://open.spotify.com/album/5gkHRgbzLkc4rdrtq0QG4k) | 3:39 |
-| 92 | [Don't Come Lookin' \- Live Acoustic](https://open.spotify.com/track/0lkuEYkTZSSLqWOACTGO20) | [Jackson Dean](https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl) | [Don't Come Lookin' \(Live Acoustic\)](https://open.spotify.com/album/77pg4C4XhSOYf2UJaKwpp6) | 3:35 |
-| 93 | [Just About Over You \- Acoustic Version](https://open.spotify.com/track/51SIaNorTKeEpmtFBC948L) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [Just About Over You \(Acoustic Version\)](https://open.spotify.com/album/3qBrKZAfQcktj3NBWRSpjb) | 3:08 |
-| 94 | [Every Other Memory \- Acoustic](https://open.spotify.com/track/3Wytcmwttm1DkfCYPZBb39) | [Ryan Hurd](https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw) | [EOM \- EP](https://open.spotify.com/album/4vCbBPa24ANSy0MD8BGA8d) | 3:41 |
+| 92 | [Just About Over You \- Acoustic Version](https://open.spotify.com/track/51SIaNorTKeEpmtFBC948L) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [Just About Over You \(Acoustic Version\)](https://open.spotify.com/album/3qBrKZAfQcktj3NBWRSpjb) | 3:08 |
+| 93 | [Every Other Memory \- Acoustic](https://open.spotify.com/track/3Wytcmwttm1DkfCYPZBb39) | [Ryan Hurd](https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw) | [EOM \- EP](https://open.spotify.com/album/4vCbBPa24ANSy0MD8BGA8d) | 3:41 |
+| 94 | [Don't Come Lookin' \- Live Acoustic](https://open.spotify.com/track/0lkuEYkTZSSLqWOACTGO20) | [Jackson Dean](https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl) | [Don't Come Lookin' \(Live Acoustic\)](https://open.spotify.com/album/77pg4C4XhSOYf2UJaKwpp6) | 3:35 |
 | 95 | [Wildfire \- Acoustic](https://open.spotify.com/track/3NxGlVBbrjPw3jRdhLdsZI) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Wildfire \(Acoustic\)](https://open.spotify.com/album/46tIToUxEQ6TN29LG7KPDW) | 2:53 |
 | 96 | [Not Supposed To Know Each Other \(Sad Version\)](https://open.spotify.com/track/6v6niH1eUT1B58fX1wTn4l) | [Taylor Edwards](https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki) | [Not Supposed To Know Each Other \(Sad Version\)](https://open.spotify.com/album/00zKd4qk05rhksfR7qhlgr) | 2:44 |
 | 97 | [Thought This Through](https://open.spotify.com/track/7FbqWzDrsX5X9gY7CdsIKK) | [Josh Kerr](https://open.spotify.com/artist/7tnICxEQkOML369POsUizq), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [Thought This Through](https://open.spotify.com/album/3q1aE61q7fGbl9E5Otj2EC) | 2:52 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ViysbCzMHO.md) - [plain]
 | 99 | [7500 OBO \- Acoustic](https://open.spotify.com/track/6cPVJA45gmpl0Jgvzac67e) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [7500 OBO \(Acoustic\)](https://open.spotify.com/album/1wtgyNAVYVCP5Dd7IoBv2r) | 3:41 |
 | 100 | [Love Makes You Blind \- Acoustic Version](https://open.spotify.com/track/2tZxQEeCnDbFfRrquFa6il) | [Kaylee Rose](https://open.spotify.com/artist/0TKoBOWNrYm3FRIHvd1VfH) | [Love Makes You Blind \(Acoustic Version\)](https://open.spotify.com/album/528xcQWw4mL4gYTvHBBNwo) | 2:40 |
 
-Snapshot ID: `MTY2MzMwMDgwMCwwMDAwMDAwMDQzMzU0ODhlYmFhZmI0MGU0MDEwZmMwZTFlNzNjYmVl`
+Snapshot ID: `MTY2MzMwMDgwMCwwMDAwMDAwMGZmZTIyMDI2MWVjZWRhN2U5YTViYWM3YzJmOWM2NWU5`

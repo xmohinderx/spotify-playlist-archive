@@ -1,12 +1,12 @@
 {
   "description": "Breathe in deep with arms wide open in worship. This is going to be epic!",
-  "num_followers": 228653,
+  "num_followers": 228721,
   "original_name": "epicPRAISE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5MzE0NDEyMCwwMDAwMDAwMDJhMjk1YTEyMzc4ZTVkYzhlOTQ5MjY5NWQyOWQyZmY3",
+  "snapshot_id": "MTU5MzE0NDEyMCwwMDAwMDAwMGZmN2U3NTk0OTBkNmQ5NzZhOWQ4OTc4OTFhMTI1MDRm",
   "tracks": [
     {
       "added_at": "2020-06-26 04:02:00",
@@ -1115,6 +1115,26 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
+        "name": "Empires",
+        "url": "https://open.spotify.com/album/4twr7zT1cX9NP5mk11FKDD"
+      },
+      "artists": [
+        {
+          "name": "Hillsong UNITED",
+          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+        },
+        {
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
+        }
+      ],
+      "duration_ms": 331373,
+      "name": "Captain",
+      "url": "https://open.spotify.com/track/3YWY2vDpD4ygZRMW9u0bby"
+    },
+    {
+      "added_at": "2020-06-26 04:02:00",
+      "album": {
         "name": "Already Done",
         "url": "https://open.spotify.com/album/5fFrCKg2XIKXQNlAmZ8q0z"
       },
@@ -1143,26 +1163,6 @@
       "duration_ms": 269040,
       "name": "Dancing On The Waves - Live At The Wheelhouse",
       "url": "https://open.spotify.com/track/0vmjzHNn4onx9Jkod8xSs0"
-    },
-    {
-      "added_at": "2020-06-26 04:02:00",
-      "album": {
-        "name": "Empires",
-        "url": "https://open.spotify.com/album/4twr7zT1cX9NP5mk11FKDD"
-      },
-      "artists": [
-        {
-          "name": "Hillsong UNITED",
-          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
-        },
-        {
-          "name": "TAYA",
-          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
-        }
-      ],
-      "duration_ms": 331373,
-      "name": "Captain",
-      "url": "https://open.spotify.com/track/3YWY2vDpD4ygZRMW9u0bby"
     },
     {
       "added_at": "2020-06-26 04:02:00",

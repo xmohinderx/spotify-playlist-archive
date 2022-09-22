@@ -1,12 +1,12 @@
 {
   "description": "Orgoglio! David Blank, Andrea Di Giovanni in cover \u2728",
-  "num_followers": 4618,
+  "num_followers": 4616,
   "original_name": "Pride Italia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY3NDQ2MCwwMDAwMDAwMDZlYjFkMTk4MTY5ZWRjNTI5MzU4ODY0ZTM2NWYxN2Ji",
+  "snapshot_id": "MTY2MjY3NDQ2MCwwMDAwMDAwMDliOGU1ZTM3NGQ2YzI2OGRhYzg1NzI1MGFjZWEyNDRi",
   "tracks": [
     {
       "added_at": "2022-09-08 22:01:00",
@@ -703,6 +703,26 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
+        "name": "ON (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7ugDGtuJ346gPQaFVxcZrb"
+      },
+      "artists": [
+        {
+          "name": "Headman",
+          "url": "https://open.spotify.com/artist/4N27gbr3lsECGMfz8RVv64"
+        },
+        {
+          "name": "Luca Santucci",
+          "url": "https://open.spotify.com/artist/0EEJrs1V9J59T6VGTPqqWI"
+        }
+      ],
+      "duration_ms": 320971,
+      "name": "Moisture (feat. Luca Santucci) - Headman Club Version [Bonus Track]",
+      "url": "https://open.spotify.com/track/2c47507B0oE6uGP0nKbv2c"
+    },
+    {
+      "added_at": "2022-09-08 22:01:00",
+      "album": {
         "name": "\u00c7a Va? Je t'aime! (Feat. EMMANUELLE)",
         "url": "https://open.spotify.com/album/7iQSGi29TEUwrW1an9zUua"
       },
@@ -727,42 +747,6 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
-        "name": "ON (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7ugDGtuJ346gPQaFVxcZrb"
-      },
-      "artists": [
-        {
-          "name": "Headman",
-          "url": "https://open.spotify.com/artist/4N27gbr3lsECGMfz8RVv64"
-        },
-        {
-          "name": "Luca Santucci",
-          "url": "https://open.spotify.com/artist/0EEJrs1V9J59T6VGTPqqWI"
-        }
-      ],
-      "duration_ms": 320971,
-      "name": "Moisture (feat. Luca Santucci) - Headman Club Version [Bonus Track]",
-      "url": "https://open.spotify.com/track/2c47507B0oE6uGP0nKbv2c"
-    },
-    {
-      "added_at": "2022-09-08 22:01:00",
-      "album": {
-        "name": "UNA VITA IN CAPSLOCK",
-        "url": "https://open.spotify.com/album/4K0sNlCS9yi7f0vXXUEsoL"
-      },
-      "artists": [
-        {
-          "name": "M\u00a5SS KETA",
-          "url": "https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM"
-        }
-      ],
-      "duration_ms": 225960,
-      "name": "UNA DONNA CHE CONTA",
-      "url": "https://open.spotify.com/track/5p3XoxsE8ZMsBEpO5NVCPs"
-    },
-    {
-      "added_at": "2022-09-08 22:01:00",
-      "album": {
         "name": "Variations",
         "url": "https://open.spotify.com/album/2nxvM7BXWZqeqkMO3e2zck"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 429000,
       "name": "Parola - Rework",
       "url": "https://open.spotify.com/track/0GQZojX9G6n6YADImDzYW4"
+    },
+    {
+      "added_at": "2022-09-08 22:01:00",
+      "album": {
+        "name": "UNA VITA IN CAPSLOCK",
+        "url": "https://open.spotify.com/album/4K0sNlCS9yi7f0vXXUEsoL"
+      },
+      "artists": [
+        {
+          "name": "M\u00a5SS KETA",
+          "url": "https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM"
+        }
+      ],
+      "duration_ms": 225960,
+      "name": "UNA DONNA CHE CONTA",
+      "url": "https://open.spotify.com/track/5p3XoxsE8ZMsBEpO5NVCPs"
     },
     {
       "added_at": "2022-09-08 22:01:00",
@@ -991,22 +991,6 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
-        "name": "'80s Pop #1's",
-        "url": "https://open.spotify.com/album/4Z1n0xes29RVzPttal9QOY"
-      },
-      "artists": [
-        {
-          "name": "Kim Wilde",
-          "url": "https://open.spotify.com/artist/73a6pNH4YtLNgDbPQwXveo"
-        }
-      ],
-      "duration_ms": 254786,
-      "name": "You Keep Me Hangin' On",
-      "url": "https://open.spotify.com/track/3Hi5bBuZeFT9nye7ZLpQGa"
-    },
-    {
-      "added_at": "2022-09-08 22:01:00",
-      "album": {
         "name": "Beautiful Garbage (Remastered)",
         "url": "https://open.spotify.com/album/0NVuRvkKyJU72UAADRQ1nq"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 189687,
       "name": "Androgyny",
       "url": "https://open.spotify.com/track/0dNhECjrHx4fMdUUKB3gDI"
+    },
+    {
+      "added_at": "2022-09-08 22:01:00",
+      "album": {
+        "name": "'80s Pop #1's",
+        "url": "https://open.spotify.com/album/4Z1n0xes29RVzPttal9QOY"
+      },
+      "artists": [
+        {
+          "name": "Kim Wilde",
+          "url": "https://open.spotify.com/artist/73a6pNH4YtLNgDbPQwXveo"
+        }
+      ],
+      "duration_ms": 254786,
+      "name": "You Keep Me Hangin' On",
+      "url": "https://open.spotify.com/track/3Hi5bBuZeFT9nye7ZLpQGa"
     },
     {
       "added_at": "2022-09-08 22:01:00",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
-        "name": "Discodelic Edits Vol.1",
-        "url": "https://open.spotify.com/album/0KSk4F1DUoj7u6I3lhoG9e"
-      },
-      "artists": [
-        {
-          "name": "Peter LC",
-          "url": "https://open.spotify.com/artist/0suFn6dKQlrirLWDJrDRG8"
-        }
-      ],
-      "duration_ms": 371705,
-      "name": "Tentami & Rubami",
-      "url": "https://open.spotify.com/track/1e22pleH4nPfOZwZMl2xFy"
-    },
-    {
-      "added_at": "2022-09-08 22:01:00",
-      "album": {
         "name": "Bang",
         "url": "https://open.spotify.com/album/1jumWWMXzGF6WbHwDm6Of2"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 170000,
       "name": "Bang",
       "url": "https://open.spotify.com/track/7gbtsFZWeMQLGYA6zwMfY2"
+    },
+    {
+      "added_at": "2022-09-08 22:01:00",
+      "album": {
+        "name": "Discodelic Edits Vol.1",
+        "url": "https://open.spotify.com/album/0KSk4F1DUoj7u6I3lhoG9e"
+      },
+      "artists": [
+        {
+          "name": "Peter LC",
+          "url": "https://open.spotify.com/artist/0suFn6dKQlrirLWDJrDRG8"
+        }
+      ],
+      "duration_ms": 371705,
+      "name": "Tentami & Rubami",
+      "url": "https://open.spotify.com/track/1e22pleH4nPfOZwZMl2xFy"
     },
     {
       "added_at": "2022-09-08 22:01:00",
@@ -1275,18 +1275,18 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
-        "name": "SOTTOPELLE",
-        "url": "https://open.spotify.com/album/0HT35YNuCxYKIIxXyhtJsJ"
+        "name": "Superomantico",
+        "url": "https://open.spotify.com/album/2qm8ah9gWku9E64JX3Rfsa"
       },
       "artists": [
         {
-          "name": "ELASI",
-          "url": "https://open.spotify.com/artist/3C8AlXFIhzxJ4BCKxNQJJ6"
+          "name": "Vergo",
+          "url": "https://open.spotify.com/artist/7fsXUIISzDuylzbl7ogr9y"
         }
       ],
-      "duration_ms": 182757,
-      "name": "SOTTOPELLE",
-      "url": "https://open.spotify.com/track/4I6tfF0z09uVOVXy9fS9e4"
+      "duration_ms": 161302,
+      "name": "Superomantico",
+      "url": "https://open.spotify.com/track/5pLNesqAvfl7ioKe60UDUI"
     }
   ],
   "unique_name": "Pride Italia",

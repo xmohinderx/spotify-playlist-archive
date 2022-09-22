@@ -1,12 +1,12 @@
 {
   "description": "A dazzling but very sad feeling. Enjoy the city pop music of Korean singers. (Cover: SURAN(\uc218\ub780)) (\ucc2c\ub780\ud558\uace0\ub3c4 \uc544\ub828\ud55c \ub290\ub08c\uc744 \uac04\uc9c1\ud55c \ud55c\uad6d \uc2dc\ud2f0\ud31d\uc744 \uc990\uaca8\ubcf4\uc138\uc694.)",
-  "num_followers": 29066,
+  "num_followers": 29133,
   "original_name": "City Pop Korea (\ud55c\uad6d \uc528\ud2f0\ud31d)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjM5Mjg2MywwMDAwMDAwMDhjN2Y3ZDEyMjU1ZTRlNDNjZWY5MjZlNjEwMTBhZjRk",
+  "snapshot_id": "MTY2MjM5Mjg2MywwMDAwMDAwMDNmMmM5ZGVjZDE3MzZmOWRiYjZiYjllNGRmMDE4OTQy",
   "tracks": [
     {
       "added_at": "2022-09-05 15:47:43",
@@ -671,22 +671,6 @@
     {
       "added_at": "2022-09-05 15:47:43",
       "album": {
-        "name": "Lion Heart - The 5th Album",
-        "url": "https://open.spotify.com/album/4eKdn0skJCidO2wqIJyCgB"
-      },
-      "artists": [
-        {
-          "name": "Girls' Generation",
-          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
-        }
-      ],
-      "duration_ms": 215940,
-      "name": "\uc5b4\ub5a4 \uc624\ud6c4 One Afternoon",
-      "url": "https://open.spotify.com/track/3wx0sbeE5MfbAFGV2zDoMY"
-    },
-    {
-      "added_at": "2022-09-05 15:47:43",
-      "album": {
         "name": "First Winter",
         "url": "https://open.spotify.com/album/7Kudn82wLhfFfxLVhi9VhA"
       },
@@ -707,18 +691,18 @@
     {
       "added_at": "2022-09-05 15:47:43",
       "album": {
-        "name": "Love & Evil",
-        "url": "https://open.spotify.com/album/2o19HGYWURILfZ9BSNw4ue"
+        "name": "Lion Heart - The 5th Album",
+        "url": "https://open.spotify.com/album/4eKdn0skJCidO2wqIJyCgB"
       },
       "artists": [
         {
-          "name": "LOO\u03a0\u0394 1/3",
-          "url": "https://open.spotify.com/artist/4u9YxYzCjpMjnMcwNu9fzy"
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
         }
       ],
-      "duration_ms": 201409,
-      "name": "Rain 51db",
-      "url": "https://open.spotify.com/track/3WALXPWdol0F0quHImXEYm"
+      "duration_ms": 215940,
+      "name": "\uc5b4\ub5a4 \uc624\ud6c4 One Afternoon",
+      "url": "https://open.spotify.com/track/3wx0sbeE5MfbAFGV2zDoMY"
     },
     {
       "added_at": "2022-09-05 15:47:43",
@@ -735,6 +719,22 @@
       "duration_ms": 198414,
       "name": "Night Rather Than Day",
       "url": "https://open.spotify.com/track/3ekdsWPG0ZtVrvEUPe2Djv"
+    },
+    {
+      "added_at": "2022-09-05 15:47:43",
+      "album": {
+        "name": "Love & Evil",
+        "url": "https://open.spotify.com/album/2o19HGYWURILfZ9BSNw4ue"
+      },
+      "artists": [
+        {
+          "name": "LOO\u03a0\u0394 1/3",
+          "url": "https://open.spotify.com/artist/4u9YxYzCjpMjnMcwNu9fzy"
+        }
+      ],
+      "duration_ms": 201409,
+      "name": "Rain 51db",
+      "url": "https://open.spotify.com/track/3WALXPWdol0F0quHImXEYm"
     },
     {
       "added_at": "2022-09-05 15:47:43",
@@ -979,22 +979,6 @@
     {
       "added_at": "2022-09-05 15:47:43",
       "album": {
-        "name": "Pink Tape - The 2nd Album",
-        "url": "https://open.spotify.com/album/62tuEHFtjk3L6Xjdkzyt4z"
-      },
-      "artists": [
-        {
-          "name": "f(x)",
-          "url": "https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF"
-        }
-      ],
-      "duration_ms": 200863,
-      "name": "\uc2dc\uadf8\ub110 (Signal)",
-      "url": "https://open.spotify.com/track/1Ed91xIltQC8hSOAOCA7Se"
-    },
-    {
-      "added_at": "2022-09-05 15:47:43",
-      "album": {
         "name": "WJ STAY?",
         "url": "https://open.spotify.com/album/0ty0TBeM5B8HU6hzOdjz4f"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 214847,
       "name": "You Got",
       "url": "https://open.spotify.com/track/4RCstQ4YjgYnjGEu0X2BxP"
+    },
+    {
+      "added_at": "2022-09-05 15:47:43",
+      "album": {
+        "name": "Pink Tape - The 2nd Album",
+        "url": "https://open.spotify.com/album/62tuEHFtjk3L6Xjdkzyt4z"
+      },
+      "artists": [
+        {
+          "name": "f(x)",
+          "url": "https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF"
+        }
+      ],
+      "duration_ms": 200863,
+      "name": "\uc2dc\uadf8\ub110 (Signal)",
+      "url": "https://open.spotify.com/track/1Ed91xIltQC8hSOAOCA7Se"
     },
     {
       "added_at": "2022-09-05 15:47:43",
@@ -1191,38 +1191,6 @@
     {
       "added_at": "2022-09-05 15:47:43",
       "album": {
-        "name": "REBOOT",
-        "url": "https://open.spotify.com/album/6uZUsBaw4hH7TPa60A1W3a"
-      },
-      "artists": [
-        {
-          "name": "Wonder Girls",
-          "url": "https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM"
-        }
-      ],
-      "duration_ms": 233306,
-      "name": "\uc0ac\ub791\uc774 \ub5a0\ub098\ub824 \ud560 \ub54c Faded Love",
-      "url": "https://open.spotify.com/track/6c1PYAfNfZ6rWUwFNciOMw"
-    },
-    {
-      "added_at": "2022-09-05 15:47:43",
-      "album": {
-        "name": "\uac15\uc218\uc9c0 BEST ALBUM",
-        "url": "https://open.spotify.com/album/1cNgGqmtg1009Ij9opel30"
-      },
-      "artists": [
-        {
-          "name": "\uac15\uc218\uc9c0",
-          "url": "https://open.spotify.com/artist/6yvfQfQ8CS9aXvGlyHEdoi"
-        }
-      ],
-      "duration_ms": 208236,
-      "name": "\ubcf4\ub77c\ube5b \ud5a5\uae30",
-      "url": "https://open.spotify.com/track/0yGkMcsEVqhvL9P8dizVap"
-    },
-    {
-      "added_at": "2022-09-05 15:47:43",
-      "album": {
         "name": "Onstage Digging Club Seoul THEME 01",
         "url": "https://open.spotify.com/album/45jJuM9HOtrpzx1k3p1bGd"
       },
@@ -1259,18 +1227,34 @@
     {
       "added_at": "2022-09-05 15:47:43",
       "album": {
-        "name": "[COSMOS]",
-        "url": "https://open.spotify.com/album/73mGtUdDaLFdLiTnxz0Lqf"
+        "name": "REBOOT",
+        "url": "https://open.spotify.com/album/6uZUsBaw4hH7TPa60A1W3a"
       },
       "artists": [
         {
-          "name": "D\u2019allant",
-          "url": "https://open.spotify.com/artist/43twit4jxaRzr008CaVw3l"
+          "name": "Wonder Girls",
+          "url": "https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM"
         }
       ],
-      "duration_ms": 213994,
-      "name": "NEPTUNE",
-      "url": "https://open.spotify.com/track/0bb8pvRKp6Fa443FhuooU0"
+      "duration_ms": 233306,
+      "name": "\uc0ac\ub791\uc774 \ub5a0\ub098\ub824 \ud560 \ub54c Faded Love",
+      "url": "https://open.spotify.com/track/6c1PYAfNfZ6rWUwFNciOMw"
+    },
+    {
+      "added_at": "2022-09-05 15:47:43",
+      "album": {
+        "name": "\uac15\uc218\uc9c0 BEST ALBUM",
+        "url": "https://open.spotify.com/album/1cNgGqmtg1009Ij9opel30"
+      },
+      "artists": [
+        {
+          "name": "\uac15\uc218\uc9c0",
+          "url": "https://open.spotify.com/artist/6yvfQfQ8CS9aXvGlyHEdoi"
+        }
+      ],
+      "duration_ms": 208236,
+      "name": "\ubcf4\ub77c\ube5b \ud5a5\uae30",
+      "url": "https://open.spotify.com/track/0yGkMcsEVqhvL9P8dizVap"
     },
     {
       "added_at": "2022-09-05 15:47:43",
@@ -1291,6 +1275,22 @@
     {
       "added_at": "2022-09-05 15:47:43",
       "album": {
+        "name": "[COSMOS]",
+        "url": "https://open.spotify.com/album/73mGtUdDaLFdLiTnxz0Lqf"
+      },
+      "artists": [
+        {
+          "name": "D\u2019allant",
+          "url": "https://open.spotify.com/artist/43twit4jxaRzr008CaVw3l"
+        }
+      ],
+      "duration_ms": 213994,
+      "name": "NEPTUNE",
+      "url": "https://open.spotify.com/track/0bb8pvRKp6Fa443FhuooU0"
+    },
+    {
+      "added_at": "2022-09-05 15:47:43",
+      "album": {
         "name": "A song from the past",
         "url": "https://open.spotify.com/album/6lCUp7Ijtg2VJeZ8CZbyoC"
       },
@@ -1307,6 +1307,26 @@
       "duration_ms": 235293,
       "name": "A song from the past",
       "url": "https://open.spotify.com/track/1EPUAXzisSkCcUTEU94cch"
+    },
+    {
+      "added_at": "2022-09-05 15:47:43",
+      "album": {
+        "name": "Skyline",
+        "url": "https://open.spotify.com/album/3SjIA2SL9WUDf8skobvjwE"
+      },
+      "artists": [
+        {
+          "name": "Bronze",
+          "url": "https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7"
+        },
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "duration_ms": 243381,
+      "name": "Ondo (with LeeHi)",
+      "url": "https://open.spotify.com/track/4FODqQZ3lvhqmSWAKXPjhY"
     },
     {
       "added_at": "2022-09-05 15:47:43",
@@ -1403,26 +1423,6 @@
       "duration_ms": 176333,
       "name": "The Paradise",
       "url": "https://open.spotify.com/track/3fh3F3FSb9PBnVSurLpoGa"
-    },
-    {
-      "added_at": "2022-09-05 15:47:43",
-      "album": {
-        "name": "Skyline",
-        "url": "https://open.spotify.com/album/3SjIA2SL9WUDf8skobvjwE"
-      },
-      "artists": [
-        {
-          "name": "Bronze",
-          "url": "https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7"
-        },
-        {
-          "name": "LeeHi",
-          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
-        }
-      ],
-      "duration_ms": 243381,
-      "name": "Ondo (with LeeHi)",
-      "url": "https://open.spotify.com/track/4FODqQZ3lvhqmSWAKXPjhY"
     },
     {
       "added_at": "2022-09-05 15:47:43",

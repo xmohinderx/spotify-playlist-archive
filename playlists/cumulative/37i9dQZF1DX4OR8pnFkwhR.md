@@ -4,7 +4,7 @@
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: 菅原圭
 
-409 songs - 1 day 0 hr 40 min - [published](https://open.spotify.com/playlist/3egMOJl8BjDmQKjIUlEPsP)
+411 songs - 1 day 0 hr 46 min - [published](https://open.spotify.com/playlist/3egMOJl8BjDmQKjIUlEPsP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,11 +46,13 @@
 | [Control](https://open.spotify.com/track/1HHsbyjm4B1ndvUygoKuLu) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Frontier](https://open.spotify.com/album/6q1nEC2UBlCSkaUXCblGyN) | 3:37 | 2022-07-19 | 2022-07-29 |
 | [Control](https://open.spotify.com/track/6dtdMzhCicbyXYsR9oEXwm) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Frontier](https://open.spotify.com/album/6OP3fToKPWz8rEgyf4Le2e) | 3:37 | 2022-07-28 | 2022-08-10 |
 | [crash](https://open.spotify.com/track/0M8fxdsZtUTqo4bD1HxOng) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [crash](https://open.spotify.com/album/1H9MBQi6MUPyVq4oXWEtz8) | 2:46 | 2022-06-07 | 2022-07-01 |
+| [curtain](https://open.spotify.com/track/4j8eZkDhi4ppiNhSkIR4Up) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [curtain](https://open.spotify.com/album/5X3NbcqfS8gwMPf5YXjvjW) | 2:43 | 2022-09-20 |  |
 | [d.s.m \- Studio Live Session](https://open.spotify.com/track/1383Xfuq08qSbx4zMJPFRd) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [tonun Studio Live Session](https://open.spotify.com/album/5LlCwmuxbZODLBZqviAlOM) | 3:11 | 2022-04-05 | 2022-04-22 |
 | [Dadaism](https://open.spotify.com/track/2CrIYfWLOTdNFsOR7QfGE2) | [ARAWA](https://open.spotify.com/artist/3jIaFeZJTaWRt0pSOnK5Gm) | [Dadaism](https://open.spotify.com/album/7szLNdzqs579yj4qZE0iaS) | 3:42 | 2022-03-22 | 2022-05-11 |
 | [dance](https://open.spotify.com/track/4vURlCR65nymieanZFI26k) | [macico](https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk) | [dance](https://open.spotify.com/album/1uhRpzbQSPY7uqyBkYXpt5) | 3:19 | 2022-08-25 | 2022-09-21 |
 | [Dance Alone](https://open.spotify.com/track/2kpZkWCfmuSvn8CZYGvNkO) | [えんぷてい](https://open.spotify.com/artist/7zzRFLfG1OzxyobuR74moh) | [Dance Alone](https://open.spotify.com/album/2grXUKK5gDiBlcWcpbKm6Y) | 4:56 | 2022-09-13 |  |
-| [Danceless Island](https://open.spotify.com/track/72BFb5OajhZEkmzoHssXLN) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Danceless Island](https://open.spotify.com/album/575eZHzWuiFFuUQ4sDF4G4) | 3:45 | 2022-09-20 |  |
+| [Danceless Island](https://open.spotify.com/track/1HveaXiH8hnI1spsowkeCL) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Danceless Island](https://open.spotify.com/album/1syVDDqzi6brKX5hosWs8u) | 3:45 | 2022-09-20 |  |
+| [Danceless Island](https://open.spotify.com/track/72BFb5OajhZEkmzoHssXLN) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Danceless Island](https://open.spotify.com/album/575eZHzWuiFFuUQ4sDF4G4) | 3:45 | 2022-09-20 | 2022-09-22 |
 | [dead2me.](https://open.spotify.com/track/0NsnAcdO7vVrQgPH6SoiF3) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [dead2me.](https://open.spotify.com/album/6UaYSCrPhRj92JDySXKFc7) | 3:30 | 2022-08-16 |  |
 | [Deadstock](https://open.spotify.com/track/1h3XEx3bmfIARIJQqE3NA5) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU), [きのぽっぽ](https://open.spotify.com/artist/7wELjvjV3KJdFtxYlZ5bhf) | [Deadstock](https://open.spotify.com/album/4Z9igjlzrOpnidH6MwRhEc) | 3:19 | 2022-08-23 |  |
 | [DESIRE](https://open.spotify.com/track/2ravTxFpwFgqXzDmQru4H3) | [CYBER RUI](https://open.spotify.com/artist/6kWLNH5QV9lGRhx2Kj7nA2) | [TIME TO SHINE](https://open.spotify.com/album/7wOxANTRpk4rz0M6KSt3wK) | 3:08 | 2022-04-20 | 2022-05-25 |
@@ -272,7 +274,7 @@
 | [エイプリル](https://open.spotify.com/track/5niOS9Rq12nDEsrGPL043o) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [エイプリル](https://open.spotify.com/album/3iL2VkEt1Z1GsTDRA2YaHG) | 3:04 | 2022-04-05 | 2022-06-08 |
 | [エールを送るよ](https://open.spotify.com/track/1GvR2vfbnw6ZLNGKiXXYJh) | [Ritsuki Akiyama](https://open.spotify.com/artist/2RyFl8CsXJDOd4hnh3RRE9) | [エールを送るよ](https://open.spotify.com/album/4eZVTG3ttCrm7eU1813aGV) | 3:04 | 2022-09-20 |  |
 | [オールグリーン](https://open.spotify.com/track/2o38jQDB10QLiIvKCrS26F) | [フジタ カコ](https://open.spotify.com/artist/7zickYqNm26rlWgRWS7wtg) | [オールグリーン](https://open.spotify.com/album/3i8Z1Ovo47wujwJYzxOcHe) | 3:13 | 2022-07-19 | 2022-07-29 |
-| [カーテン](https://open.spotify.com/track/0EpYsp88EkLlaC8AmDIlMC) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [カーテン](https://open.spotify.com/album/6shhbAZHrRdbqUhJvVWblA) | 2:43 | 2022-09-20 |  |
+| [カーテン](https://open.spotify.com/track/0EpYsp88EkLlaC8AmDIlMC) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [カーテン](https://open.spotify.com/album/6shhbAZHrRdbqUhJvVWblA) | 2:43 | 2022-09-20 | 2022-09-22 |
 | [ガソリンタンク](https://open.spotify.com/track/3M2GJdcoVOriK0TnZNqrvJ) | [Teikokukissa](https://open.spotify.com/artist/3Ea1v0dzfa8Q8hVc4qWqFQ) | [ガソリンタンク](https://open.spotify.com/album/3cpDHQPsVCWemRqQJkXWmF) | 4:06 | 2022-07-26 | 2022-08-24 |
 | [ガラスが割れた!!](https://open.spotify.com/track/367jwubxXh3834vcMVb3ii) | [Ritsuki Akiyama](https://open.spotify.com/artist/2RyFl8CsXJDOd4hnh3RRE9) | [ガラスが割れた!!](https://open.spotify.com/album/0AyG1T4anvvrdADtJvfwIv) | 2:57 | 2022-07-19 | 2022-08-24 |
 | [グッドバイソング](https://open.spotify.com/track/2ZrnJgMf5FZftiFtBJW9sP) | [Ritsuki Akiyama](https://open.spotify.com/artist/2RyFl8CsXJDOd4hnh3RRE9) | [DREAM DROPPER](https://open.spotify.com/album/6Jzn1Cni94VChGWzQH2Eqh) | 2:37 | 2022-02-17 | 2022-03-09 |

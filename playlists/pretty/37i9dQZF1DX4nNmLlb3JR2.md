@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nNmLlb3JR2.md) - [plain]
 
 > A fresh spin on your favourite tunes \- Instrumental lofi covers for chill, work and play.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,691 likes - 71 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,116 likes - 71 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nNmLlb3JR2.md) - [plain]
 | 60 | [Stay High](https://open.spotify.com/track/4zkSqnyv3re6lZhLRYghY8) | [Miro Mas](https://open.spotify.com/artist/4Nh6HRskIln2gWtk2KB0fL) | [I've Seen You Somewhere Before](https://open.spotify.com/album/68dG80XL5iTYGxjlfmG8tx) | 3:11 |
 | 61 | [Don't Go Breaking My Heart](https://open.spotify.com/track/5NptWVOhMkCcbeiHFVcEU3) | [<3BEAT](https://open.spotify.com/artist/1GXEDNbnO4Zq5DSNfayzN5) | [Feelin' Cute](https://open.spotify.com/album/2Csit9Kx4c6p4lHSN16h12) | 4:15 |
 | 62 | [24K Magic](https://open.spotify.com/track/5E7mvsOUT081rB8AJPMxKP) | [Avocuddle](https://open.spotify.com/artist/48QpIkzC2yRCUCvNvOVZqD), [Lofi Fruits Music](https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM) | [24K Magic](https://open.spotify.com/album/5a47zcnulbiFt5jJXZSqWS) | 1:40 |
-| 63 | [regulate](https://open.spotify.com/track/5m0GxUaV20W6TEvfcjMOde) | [golden era](https://open.spotify.com/artist/0zfNkbfXyVpesD3S0XFKB8), [Cali Soul](https://open.spotify.com/artist/72tCzssHin1CPlikiKxOmN), [lofi.remixes](https://open.spotify.com/artist/4JAIvx8vd1sMssmNTcwnPX) | [LoFi Covers of HipHop Classics, Vol\. 1](https://open.spotify.com/album/0uQh1orWCbgR1T7yC5TtXE) | 2:11 |
+| 63 | [regulate](https://open.spotify.com/track/5m0GxUaV20W6TEvfcjMOde) | [golden era](https://open.spotify.com/artist/0zfNkbfXyVpesD3S0XFKB8), [Cali Soul](https://open.spotify.com/artist/05k7SGKHRRfKpBvjcRMxQ6), [lofi.remixes](https://open.spotify.com/artist/4JAIvx8vd1sMssmNTcwnPX) | [LoFi Covers of HipHop Classics, Vol\. 1](https://open.spotify.com/album/0uQh1orWCbgR1T7yC5TtXE) | 2:11 |
 | 64 | [Circles](https://open.spotify.com/track/1D7pJ9CBEQa9O48kgB5acI) | [<3BEAT](https://open.spotify.com/artist/1GXEDNbnO4Zq5DSNfayzN5) | [Feelin' Cute](https://open.spotify.com/album/2Csit9Kx4c6p4lHSN16h12) | 3:03 |
 | 65 | [Numb](https://open.spotify.com/track/3RLTOAqa72Kn7gh6NzaRot) | [Miro Mas](https://open.spotify.com/artist/4Nh6HRskIln2gWtk2KB0fL) | [I've Seen You Somewhere Before](https://open.spotify.com/album/68dG80XL5iTYGxjlfmG8tx) | 2:55 |
 | 66 | [waves](https://open.spotify.com/track/7piFPg3kuRbodjCBWjUsXS) | [owlh](https://open.spotify.com/artist/0kCNNJfXF8AOSqRIC4aoza) | [waves](https://open.spotify.com/album/2r7peHnBz70EUzzSNfOan0) | 2:20 |

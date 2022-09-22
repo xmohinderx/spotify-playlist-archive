@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9bqOzK42BZ.md) - [plain]
 
 > Praise and worship from East Africa\. Your ultimate Swahili Spiritual nourishment here
 
-[Spotify](https://open.spotify.com/user/spotify) - 571 likes - 60 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 579 likes - 60 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9bqOzK42BZ.md) - [plain]
 | 3 | [Shwari](https://open.spotify.com/track/4iI5RXEDegpckQPyZjRiYd) | [Samuel Thomas](https://open.spotify.com/artist/1Vw4G05iiTwoWHkrP1EvWw), [Henrick Mruma](https://open.spotify.com/artist/75HhdVUtJVRpYK4vRtClCU) | [Shwari](https://open.spotify.com/album/3Cd2sv9TL1MSOPn1yrbEGZ) | 6:42 |
 | 4 | [Egemeo](https://open.spotify.com/track/03k9zseKZJ8mu2nTWHuoHQ) | [Godwill Babette](https://open.spotify.com/artist/787HVRJFIkDBhj7HeHCVsG) | [Umenibeba](https://open.spotify.com/album/7lKfLz5d1olqce9qgqK1jB) | 5:34 |
 | 5 | [Chanzo \- Live](https://open.spotify.com/track/5iG9Kx1j49PZxAgr9G7CAw) | [Rehema Simfukwe](https://open.spotify.com/artist/7qVRVoyILJ5XLMChYXIkKu) | [Chanzo \(Live\)](https://open.spotify.com/album/3GuJna16plebttcjo2CWWG) | 9:42 |
-| 6 | [Aliyeniokoa \(Live\)](https://open.spotify.com/track/11dKptDVqtcyi1E36m8o02) | [Essence Of Worship](https://open.spotify.com/artist/08DEnWbiZl4cLFGUjNzR39) | [Bwana Unatawala \(Live\)](https://open.spotify.com/album/3koeYsqfzhwDXkmrHmdKna) | 7:17 |
+| 6 | [Aliyeniokoa \(Live\)](https://open.spotify.com/track/1zLfTPsgjAUmNDgcG5AlGE) | [Essence Of Worship](https://open.spotify.com/artist/08DEnWbiZl4cLFGUjNzR39) | [Bwana Unatawala \(Live\)](https://open.spotify.com/album/2URrPzDAgysJCPyXImSEvs) | 7:17 |
 | 7 | [Vinakamilika](https://open.spotify.com/track/2ZIO3PTsc9fPcReItUXTb3) | [Dr\. Ipyana](https://open.spotify.com/artist/2ePMRVIwOhRtN0aCuRu9Qc) | [Vinakamilika](https://open.spotify.com/album/1rWb2lyPR9VE2kaJsFzYDA) | 6:53 |
 | 8 | [Nitumie](https://open.spotify.com/track/336Jz0yGtnAvPfQbLjjlBo) | [Joel Lwaga](https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI) | [Thamani](https://open.spotify.com/album/5TdcUkGkE9Z4ZMiKJscBdF) | 3:56 |
 | 9 | [Sijaona Kama Wewe](https://open.spotify.com/track/0tK6fl3y11GJcAmp94LV8C) | [Patrick Kubuya](https://open.spotify.com/artist/1FeMU8hvqFR7BqtKIQvsu2) | [Sijaona Kama Wewe](https://open.spotify.com/album/5uVEa8Deiqpir6q7iHE4yU) | 11:13 |
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9bqOzK42BZ.md) - [plain]
 | 13 | [Niumbie Moyo Safi](https://open.spotify.com/track/43Bg1g38MwANRmhK8leUSq) | [Pastor Anthony Musembi](https://open.spotify.com/artist/5lkExVL0geY5mktCw5h69O) | [Ahadi Za Bwana](https://open.spotify.com/album/4aw7CJ3tySMMSWXWZOd5h7) | 7:47 |
 | 14 | [Rohoni Na Mwilini](https://open.spotify.com/track/3cAQfJwO74Hi99h8Lsw6CF) | [Bale John](https://open.spotify.com/artist/6Zm45YPCRDAbBGVdbDuYn6) | [Utukufu](https://open.spotify.com/album/7i58BRlxIRqKipoGXudPUc) | 5:49 |
 | 15 | [Kiu Yangu](https://open.spotify.com/track/3IPufScGAgzO9Cpm3Erfy4) | [Angel Benard](https://open.spotify.com/artist/7lfpPXqQTNddUIYXLDVbbD) | [Siku Mpya New Day](https://open.spotify.com/album/01mfsN8TvDf2yKzMGL5oVV) | 5:00 |
-| 16 | [Bwana Unatawala \(Live\)](https://open.spotify.com/track/3l7rEcUJ4AQF4jKpWaHG8p) | [Essence Of Worship](https://open.spotify.com/artist/08DEnWbiZl4cLFGUjNzR39) | [Bwana Unatawala \(Live\)](https://open.spotify.com/album/3koeYsqfzhwDXkmrHmdKna) | 18:46 |
+| 16 | [Bwana Unatawala \(Live\)](https://open.spotify.com/track/3O0Bvp1sMSdMVuLuRhe7yU) | [Essence Of Worship](https://open.spotify.com/artist/08DEnWbiZl4cLFGUjNzR39) | [Bwana Unatawala \(Live\)](https://open.spotify.com/album/2URrPzDAgysJCPyXImSEvs) | 18:46 |
 | 17 | [Amenifanyia Amani](https://open.spotify.com/track/0RHHtjtdCby9OnPL2qvsZy) | [Paul Clement](https://open.spotify.com/artist/7fJIPDHIZxV1gm0LPYX46T) | [Usiyeshindwa](https://open.spotify.com/album/6ylay7Gxa7KZvitFvR5won) | 7:48 |
 | 18 | [Mlima \- Live](https://open.spotify.com/track/3Bb5vkZxM7QtO0JCiwcEFc) | [Joel Lwaga](https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI) | [Mlima \(Live\)](https://open.spotify.com/album/2VxeSdAk3b1vBgCUpxO1Em) | 10:23 |
 | 19 | [Narudisha](https://open.spotify.com/track/3x95KiKvcpqSBuGLPHkDkY) | [Gloria Muliro](https://open.spotify.com/artist/22EUP7xdGe9A2jzD7zdSxV) | [Narudisha](https://open.spotify.com/album/3sFqgqQH7abGlGF1U0WG6T) | 4:29 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9bqOzK42BZ.md) - [plain]
 | 59 | [Wewe Pekee](https://open.spotify.com/track/28IQhL2pviXFkWXMz4sxn3) | [Alice Kamande](https://open.spotify.com/artist/4jmGHeX5bemV98UWtA3nuJ) | [Wewe Pekee](https://open.spotify.com/album/1eP2tdKCLnJbBPuXiMiL2j) | 4:57 |
 | 60 | [Anatengeneza](https://open.spotify.com/track/52C9ZVQeeeVUb9q9hXe0f7) | [Paul Clement](https://open.spotify.com/artist/7fJIPDHIZxV1gm0LPYX46T) | [Usiyeshindwa](https://open.spotify.com/album/6ylay7Gxa7KZvitFvR5won) | 8:28 |
 
-Snapshot ID: `MTY1NjA5MjQ3MywwMDAwMDAwMDM5ZTZlMDhhZmU2MDI2MTkxZDdkYWE4NTRkMmZmYWY3`
+Snapshot ID: `MTY1NjA5MjQ3MywwMDAwMDAwMDE0Y2JjNmIxMTU4YjFlYzU0YjZiZTFjM2ZmYmMwZjU1`

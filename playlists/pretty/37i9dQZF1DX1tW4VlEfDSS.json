@@ -1,12 +1,12 @@
 {
   "description": "A feel-good soulful house  and disco selection.",
-  "num_followers": 331206,
+  "num_followers": 331248,
   "original_name": "Groove Theory",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzAxNTcyNSwwMDAwMDAwMDAwNDg5OWIwMmJiNTE3OWIxYjJlM2YyMmU3Yzk1ZmY0",
+  "snapshot_id": "MTY0NzAxNTcyNSwwMDAwMDAwMDk4ZTRiMTRhY2UxNTljOWY5YzZjNWM1NGMxODExY2E3",
   "tracks": [
     {
       "added_at": "2022-03-11 16:22:05",
@@ -587,26 +587,6 @@
     {
       "added_at": "2022-03-11 16:22:05",
       "album": {
-        "name": "Trouble\u2019s Coming (Purple Disco Machine Remix)",
-        "url": "https://open.spotify.com/album/5XlWzxdKFGCRDgok5j7UoJ"
-      },
-      "artists": [
-        {
-          "name": "Royal Blood",
-          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
-        },
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        }
-      ],
-      "duration_ms": 265570,
-      "name": "Trouble\u2019s Coming - Purple Disco Machine Remix",
-      "url": "https://open.spotify.com/track/7cpmk4IuNSWfg5XOrr2v8V"
-    },
-    {
-      "added_at": "2022-03-11 16:22:05",
-      "album": {
         "name": "R\u00f3is\u00edn Machine",
         "url": "https://open.spotify.com/album/5WpDQt6EbpzXbqo9g9P0L6"
       },
@@ -635,6 +615,26 @@
       "duration_ms": 249002,
       "name": "Voodoo Babe",
       "url": "https://open.spotify.com/track/2q4IaFpqebD6pMLvRrclvO"
+    },
+    {
+      "added_at": "2022-03-11 16:22:05",
+      "album": {
+        "name": "Trouble\u2019s Coming (Purple Disco Machine Remix)",
+        "url": "https://open.spotify.com/album/5XlWzxdKFGCRDgok5j7UoJ"
+      },
+      "artists": [
+        {
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+        },
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        }
+      ],
+      "duration_ms": 265570,
+      "name": "Trouble\u2019s Coming - Purple Disco Machine Remix",
+      "url": "https://open.spotify.com/track/7cpmk4IuNSWfg5XOrr2v8V"
     },
     {
       "added_at": "2022-03-11 16:22:05",
@@ -1071,26 +1071,6 @@
     {
       "added_at": "2022-03-11 16:22:05",
       "album": {
-        "name": "Second Chance (feat. Kimberly Davis)",
-        "url": "https://open.spotify.com/album/22pSFdjEFh3dbm3TCw8sXc"
-      },
-      "artists": [
-        {
-          "name": "The Shapeshifters",
-          "url": "https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP"
-        },
-        {
-          "name": "Kimberly Davis",
-          "url": "https://open.spotify.com/artist/1mQYmp7PviGfyjSb2oJ6gJ"
-        }
-      ],
-      "duration_ms": 204132,
-      "name": "Second Chance (feat. Kimberly Davis)",
-      "url": "https://open.spotify.com/track/1hx5zZoz6ARiIAss9hL7tz"
-    },
-    {
-      "added_at": "2022-03-11 16:22:05",
-      "album": {
         "name": "Can't Get Enough",
         "url": "https://open.spotify.com/album/3Gwd3lkWQToLPDwYEWxGaZ"
       },
@@ -1107,6 +1087,26 @@
       "duration_ms": 267187,
       "name": "Can't Get Enough",
       "url": "https://open.spotify.com/track/6mV3L1waATvE15NeMHGtUy"
+    },
+    {
+      "added_at": "2022-03-11 16:22:05",
+      "album": {
+        "name": "Second Chance (feat. Kimberly Davis)",
+        "url": "https://open.spotify.com/album/22pSFdjEFh3dbm3TCw8sXc"
+      },
+      "artists": [
+        {
+          "name": "The Shapeshifters",
+          "url": "https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP"
+        },
+        {
+          "name": "Kimberly Davis",
+          "url": "https://open.spotify.com/artist/1mQYmp7PviGfyjSb2oJ6gJ"
+        }
+      ],
+      "duration_ms": 204132,
+      "name": "Second Chance (feat. Kimberly Davis)",
+      "url": "https://open.spotify.com/track/1hx5zZoz6ARiIAss9hL7tz"
     },
     {
       "added_at": "2022-03-11 16:22:05",

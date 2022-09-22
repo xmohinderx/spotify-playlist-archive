@@ -1,12 +1,12 @@
 {
   "description": "The sounds of LGBTQ+ punk. Cover: Big Joanie",
-  "num_followers": 120554,
+  "num_followers": 120617,
   "original_name": "Queercore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDAzODA2MCwwMDAwMDAwMDZkM2VhMzhlZGMyYTJkY2EzMWUxZDYxYjRhOTIwN2Qx",
+  "snapshot_id": "MTY1NDAzODA2MCwwMDAwMDAwMGYzNTJlMTEzOTgxYWY3MDhiNDk4N2RmOTA4NTBhOTE4",
   "tracks": [
     {
       "added_at": "2022-05-31 23:01:00",
@@ -523,22 +523,6 @@
     {
       "added_at": "2022-05-31 23:01:00",
       "album": {
-        "name": "Chickens",
-        "url": "https://open.spotify.com/album/1aDGrlOO5aCxtArveJH8fI"
-      },
-      "artists": [
-        {
-          "name": "Forrest Flowers",
-          "url": "https://open.spotify.com/artist/6dpJaK0AIrYLSHi4UFeeA8"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Chickens",
-      "url": "https://open.spotify.com/track/5hnktvtMR96jGKA54FEi7U"
-    },
-    {
-      "added_at": "2022-05-31 23:01:00",
-      "album": {
         "name": "Total 90",
         "url": "https://open.spotify.com/album/4efq58i5lqhrDIigg4mGNj"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 230350,
       "name": "Nvr Pass",
       "url": "https://open.spotify.com/track/7yJLS5bbD1BbVVXaRktMxP"
+    },
+    {
+      "added_at": "2022-05-31 23:01:00",
+      "album": {
+        "name": "Chickens",
+        "url": "https://open.spotify.com/album/1aDGrlOO5aCxtArveJH8fI"
+      },
+      "artists": [
+        {
+          "name": "Forrest Flowers",
+          "url": "https://open.spotify.com/artist/6dpJaK0AIrYLSHi4UFeeA8"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Chickens",
+      "url": "https://open.spotify.com/track/5hnktvtMR96jGKA54FEi7U"
     },
     {
       "added_at": "2022-05-31 23:01:00",
@@ -635,22 +635,6 @@
     {
       "added_at": "2022-05-31 23:01:00",
       "album": {
-        "name": "Arnos Vale",
-        "url": "https://open.spotify.com/album/7KjTamXxcgfZ2gAmI24BQ5"
-      },
-      "artists": [
-        {
-          "name": "Personal Best",
-          "url": "https://open.spotify.com/artist/3yJdrYDYsEvC5Gu6FtNJ64"
-        }
-      ],
-      "duration_ms": 223889,
-      "name": "This Is What We Look Like",
-      "url": "https://open.spotify.com/track/3jcjcAPaXCmsTIs8R08Q2q"
-    },
-    {
-      "added_at": "2022-05-31 23:01:00",
-      "album": {
         "name": "Personal Best",
         "url": "https://open.spotify.com/album/2CcIyIyNax2Zim1Ii5pHRK"
       },
@@ -667,18 +651,18 @@
     {
       "added_at": "2022-05-31 23:01:00",
       "album": {
-        "name": "Zombie Terrorist",
-        "url": "https://open.spotify.com/album/1b8585sIYVvPbWpdW7Vms3"
+        "name": "Arnos Vale",
+        "url": "https://open.spotify.com/album/7KjTamXxcgfZ2gAmI24BQ5"
       },
       "artists": [
         {
-          "name": "Partyline",
-          "url": "https://open.spotify.com/artist/5LqNtBKweePwvXgJ4BWWuA"
+          "name": "Personal Best",
+          "url": "https://open.spotify.com/artist/3yJdrYDYsEvC5Gu6FtNJ64"
         }
       ],
-      "duration_ms": 127773,
-      "name": "Trophy Wifey",
-      "url": "https://open.spotify.com/track/2sElL4pdDB9HReW1dCp6hH"
+      "duration_ms": 223889,
+      "name": "This Is What We Look Like",
+      "url": "https://open.spotify.com/track/3jcjcAPaXCmsTIs8R08Q2q"
     },
     {
       "added_at": "2022-05-31 23:01:00",
@@ -695,6 +679,22 @@
       "duration_ms": 167623,
       "name": "Blood",
       "url": "https://open.spotify.com/track/5BWpwPVzb4LuvPpZ1SB0SS"
+    },
+    {
+      "added_at": "2022-05-31 23:01:00",
+      "album": {
+        "name": "Zombie Terrorist",
+        "url": "https://open.spotify.com/album/1b8585sIYVvPbWpdW7Vms3"
+      },
+      "artists": [
+        {
+          "name": "Partyline",
+          "url": "https://open.spotify.com/artist/5LqNtBKweePwvXgJ4BWWuA"
+        }
+      ],
+      "duration_ms": 127773,
+      "name": "Trophy Wifey",
+      "url": "https://open.spotify.com/track/2sElL4pdDB9HReW1dCp6hH"
     },
     {
       "added_at": "2022-05-31 23:01:00",
@@ -811,22 +811,6 @@
     {
       "added_at": "2022-05-31 23:01:00",
       "album": {
-        "name": "Facades",
-        "url": "https://open.spotify.com/album/2Aw4XGH7jkvd88jzbPSGjn"
-      },
-      "artists": [
-        {
-          "name": "Limp Wrist",
-          "url": "https://open.spotify.com/artist/38SIMA9z2a7ATlRVenIcHc"
-        }
-      ],
-      "duration_ms": 96051,
-      "name": "Thick Skin",
-      "url": "https://open.spotify.com/track/1rm8VLzeC2exuOdNltcooA"
-    },
-    {
-      "added_at": "2022-05-31 23:01:00",
-      "album": {
         "name": "They/Them",
         "url": "https://open.spotify.com/album/1OaojIxnExbR4O45XHJUIW"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 137781,
       "name": "They/Them",
       "url": "https://open.spotify.com/track/7BuZgwIl9cx2hk2fsVlVYu"
+    },
+    {
+      "added_at": "2022-05-31 23:01:00",
+      "album": {
+        "name": "Facades",
+        "url": "https://open.spotify.com/album/2Aw4XGH7jkvd88jzbPSGjn"
+      },
+      "artists": [
+        {
+          "name": "Limp Wrist",
+          "url": "https://open.spotify.com/artist/38SIMA9z2a7ATlRVenIcHc"
+        }
+      ],
+      "duration_ms": 96051,
+      "name": "Thick Skin",
+      "url": "https://open.spotify.com/track/1rm8VLzeC2exuOdNltcooA"
     },
     {
       "added_at": "2022-05-31 23:01:00",
@@ -955,18 +955,18 @@
     {
       "added_at": "2022-05-31 23:01:00",
       "album": {
-        "name": "The Fool",
-        "url": "https://open.spotify.com/album/1QRY1A2qQyp33rCTWpyV3W"
+        "name": "Divine Violence",
+        "url": "https://open.spotify.com/album/21perF5XCWHbK7CDvuU1s4"
       },
       "artists": [
         {
-          "name": "SATE",
-          "url": "https://open.spotify.com/artist/0TlgcutPZ6YcuakbQWBHa7"
+          "name": "itoldyouiwouldeatyou",
+          "url": "https://open.spotify.com/artist/7625dNOd552CCLYVObfTxe"
         }
       ],
-      "duration_ms": 196947,
-      "name": "Famous",
-      "url": "https://open.spotify.com/track/1tvpEck0Jz4LPRr4sWAgWe"
+      "duration_ms": 202231,
+      "name": "Divine Violence",
+      "url": "https://open.spotify.com/track/6WwLkjY0RqDkgPmo1URNxK"
     },
     {
       "added_at": "2022-05-31 23:01:00",
@@ -987,18 +987,18 @@
     {
       "added_at": "2022-05-31 23:01:00",
       "album": {
-        "name": "Divine Violence",
-        "url": "https://open.spotify.com/album/21perF5XCWHbK7CDvuU1s4"
+        "name": "The Fool",
+        "url": "https://open.spotify.com/album/1QRY1A2qQyp33rCTWpyV3W"
       },
       "artists": [
         {
-          "name": "itoldyouiwouldeatyou",
-          "url": "https://open.spotify.com/artist/7625dNOd552CCLYVObfTxe"
+          "name": "SATE",
+          "url": "https://open.spotify.com/artist/0TlgcutPZ6YcuakbQWBHa7"
         }
       ],
-      "duration_ms": 202231,
-      "name": "Divine Violence",
-      "url": "https://open.spotify.com/track/6WwLkjY0RqDkgPmo1URNxK"
+      "duration_ms": 196947,
+      "name": "Famous",
+      "url": "https://open.spotify.com/track/1tvpEck0Jz4LPRr4sWAgWe"
     },
     {
       "added_at": "2022-05-31 23:01:00",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2022-05-31 23:01:00",
       "album": {
-        "name": "Big Shouty",
-        "url": "https://open.spotify.com/album/1pWMoHSZKWMnr4zYmG4NvH"
-      },
-      "artists": [
-        {
-          "name": "Problem Patterns",
-          "url": "https://open.spotify.com/artist/4u5UG0TxXroCBnpgBruPOP"
-        }
-      ],
-      "duration_ms": 86000,
-      "name": "Big Shouty",
-      "url": "https://open.spotify.com/track/2JDMX69HvkeJuoNmFoj1Lz"
-    },
-    {
-      "added_at": "2022-05-31 23:01:00",
-      "album": {
         "name": "Bad Girls Go to Hell",
         "url": "https://open.spotify.com/album/1USnl3zRNiSnGZF7toUpcp"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 128880,
       "name": "Queer For You",
       "url": "https://open.spotify.com/track/3wOIv5bly3SnBum3gLRsCa"
+    },
+    {
+      "added_at": "2022-05-31 23:01:00",
+      "album": {
+        "name": "Big Shouty",
+        "url": "https://open.spotify.com/album/1pWMoHSZKWMnr4zYmG4NvH"
+      },
+      "artists": [
+        {
+          "name": "Problem Patterns",
+          "url": "https://open.spotify.com/artist/4u5UG0TxXroCBnpgBruPOP"
+        }
+      ],
+      "duration_ms": 86000,
+      "name": "Big Shouty",
+      "url": "https://open.spotify.com/track/2JDMX69HvkeJuoNmFoj1Lz"
     },
     {
       "added_at": "2022-05-31 23:01:00",

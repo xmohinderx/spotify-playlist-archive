@@ -4,7 +4,7 @@
 
 > Det bästa från den svenska reggaescenen.
 
-205 songs - 12 hr 8 min - [published](https://open.spotify.com/playlist/7yF7K05YVtBZlFxXJKjSU8)
+206 songs - 12 hr 11 min - [published](https://open.spotify.com/playlist/7yF7K05YVtBZlFxXJKjSU8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Galenskap](https://open.spotify.com/track/0VGjwaW89C7funq3crFav6) | [Kaliffa](https://open.spotify.com/artist/0rJEJ9T9JwC6ajdnMeqREY) | [Galenskap](https://open.spotify.com/album/2heFCu4kckOJapHv1UWnR8) | 3:16 | 2021-12-14 | 2022-07-28 |
 | [Gillar din vibe](https://open.spotify.com/track/1PZuWZTlHBkIyfSafvZ08k) | [Syster Sol](https://open.spotify.com/artist/76ViH9hMBGfdwkmp1wYay5) | [Dömd att bli bedömd](https://open.spotify.com/album/0xlM7YHXHOZ0XBu66P8Zln) | 3:08 | 2021-12-14 | 2022-07-29 |
 | [Gillar din vibe](https://open.spotify.com/track/37IPRuCOvvVxCIT4sE5IsA) | [Syster Sol](https://open.spotify.com/artist/76ViH9hMBGfdwkmp1wYay5) | [Dömd att bli bedömd](https://open.spotify.com/album/0JEpuzNDcOxkVXS992ccow) | 3:08 | 2022-07-15 | 2022-09-05 |
+| [Gillar din vibe](https://open.spotify.com/track/7dnBg5AaPHFBJpWyDsGYUD) | [Syster Sol](https://open.spotify.com/artist/76ViH9hMBGfdwkmp1wYay5) | [Dömd att bli bedömd](https://open.spotify.com/album/1lNWtJ67KB9O9GIQq4HV3B) | 3:08 | 2022-07-15 |  |
 | [Gillar Din Vibe](https://open.spotify.com/track/11AgusOePAVmXwpoEVxpqi) | [WillMan](https://open.spotify.com/artist/6lBmkgJlLqV4FXbb2JFMXu) | [Dunderbart](https://open.spotify.com/album/7GFMvvMTomUoDgD0wqrJhZ) | 2:19 | 2021-12-14 | 2022-06-28 |
 | [Gränser](https://open.spotify.com/track/4DakpA8rOt2PZEeRwXSo4L) | [MahRoot](https://open.spotify.com/artist/4vloVkOsMylOO5ZDqYoryn) | [Gränser](https://open.spotify.com/album/3V02UC8LaG4uZKM9jgpfrb) | 4:21 | 2021-12-14 | 2022-07-21 |
 | [Grått moln](https://open.spotify.com/track/1q9oeuGzSBvqbKxF7rq3tP) | [Robinholta](https://open.spotify.com/artist/0xsZpPENdV56KIViR6yFDc) | [Grått moln](https://open.spotify.com/album/7BRDrHwoTT5tMXnYrFvu6N) | 3:07 | 2021-12-14 | 2022-07-02 |
@@ -145,7 +146,7 @@
 | [Reggaeprofil](https://open.spotify.com/track/0kDQRF7cCp5ZZ2tbtbjzK8) | [Governor Andy](https://open.spotify.com/artist/6jMfbm9y64CESMB5wFtgZx), [Jr Erik](https://open.spotify.com/artist/6tabmZkqzTHQs2iSrMFp89) | [Som Salomos Sång](https://open.spotify.com/album/4QHwlhuYsp09oss1xttiNP) | 3:47 | 2022-07-15 |  |
 | [Reggaeprofil Feat\. Jr Erik](https://open.spotify.com/track/01YRjjmY3VmYixPrVPV3TR) | [Governor Andy](https://open.spotify.com/artist/6jMfbm9y64CESMB5wFtgZx), [Jr Erik](https://open.spotify.com/artist/6tabmZkqzTHQs2iSrMFp89) | [Som Salomos Sång](https://open.spotify.com/album/0dSRC0KYXkkQMCSPo72LHX) | 3:47 | 2021-12-14 | 2022-07-28 |
 | [Reminisce](https://open.spotify.com/track/31QNObduU0Cak1cGopRES5) | [Moncho](https://open.spotify.com/artist/6L1yXwZajCFJsGZcCIRuTc), [Lance\-a\-Lot](https://open.spotify.com/artist/2FdlSFwGHTJ6k8rcJpET0L), [Allyawan](https://open.spotify.com/artist/5Pcez7u1H2Po6e2LmMdF3f) | [Reminisce](https://open.spotify.com/album/0UW3yv8hcWaMST2BDFiIHg) | 4:27 | 2022-03-18 | 2022-07-29 |
-| [Rikslarm](https://open.spotify.com/track/0KnRzbQpj0J5nXRqtuSRhz) | [Kartellen](https://open.spotify.com/artist/3kklzjWziqW7RX5jQjsRnb), [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW), [General Knas](https://open.spotify.com/artist/42SZWoHp8GLbTAFCF8xOIy) | [Slutpläderingen](https://open.spotify.com/album/32qy7Z7Db0xCpB5m0yLsRs) | 2:36 | 2022-07-15 |  |
+| [Rikslarm](https://open.spotify.com/track/0KnRzbQpj0J5nXRqtuSRhz) | [Kartellen](https://open.spotify.com/artist/3kklzjWziqW7RX5jQjsRnb), [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW), [General Knas](https://open.spotify.com/artist/42SZWoHp8GLbTAFCF8xOIy) | [Slutpläderingen](https://open.spotify.com/album/32qy7Z7Db0xCpB5m0yLsRs) | 2:36 | 2022-07-15 | 2022-09-22 |
 | [Rikslarm](https://open.spotify.com/track/23Wp4ejsg8MLpAs1UVCR6t) | [Kartellen](https://open.spotify.com/artist/3kklzjWziqW7RX5jQjsRnb), [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW), [General Knas](https://open.spotify.com/artist/42SZWoHp8GLbTAFCF8xOIy) | [Slutpläderingen](https://open.spotify.com/album/3KgsC7vZqlTl459HrMi5dN) | 2:36 | 2021-12-14 | 2022-03-19 |
 | [Rudeboy Love](https://open.spotify.com/track/2FUkfqsCAFt58Ued9Dhd3C) | [Kapten Röd](https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA) | [Rudeboy Love](https://open.spotify.com/album/7EY5T1EABeCYw4sLRkq9T2) | 3:40 | 2021-12-14 | 2022-07-15 |
 | [Rudeboy Love](https://open.spotify.com/track/4lXN6CUfWgIKupkC2h4SaR) | [Kapten Röd](https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA) | [Rudeboy Love](https://open.spotify.com/album/2IGr9pbfhEngQoxfcy3vjn) | 3:40 | 2022-07-15 |  |

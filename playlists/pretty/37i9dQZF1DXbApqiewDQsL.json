@@ -1,12 +1,12 @@
 {
   "description": "The songs and collaborations pushing the Mexican sound to a global level. Cover: Piso 21 & Carin Leon",
-  "num_followers": 15653,
+  "num_followers": 15673,
   "original_name": "Internacional Mexicano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMwMDg2MCwwMDAwMDAwMGJhODY3MTRjN2E3NzQ0ODI1ODNlMjQ3MjU1Y2JjNjhk",
+  "snapshot_id": "MTY2MzMwMDg2MCwwMDAwMDAwMGMxMTlkMjI0NTM2ZTJjNmRmMjE3NTRhMzcwYWUzNDJh",
   "tracks": [
     {
       "added_at": "2022-09-16 04:01:00",
@@ -743,26 +743,6 @@
     {
       "added_at": "2022-09-16 04:01:00",
       "album": {
-        "name": "De A De Veras",
-        "url": "https://open.spotify.com/album/3NgALGjGhMc27JBclVPTBV"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        },
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        }
-      ],
-      "duration_ms": 222732,
-      "name": "De A De Veras",
-      "url": "https://open.spotify.com/track/21aZ4e4lJiFmqRzNiPXqhP"
-    },
-    {
-      "added_at": "2022-09-16 04:01:00",
-      "album": {
         "name": "La Verdad",
         "url": "https://open.spotify.com/album/1ZbvuFVcUq5P15TqmYuVBA"
       },
@@ -779,6 +759,26 @@
       "duration_ms": 141105,
       "name": "La Verdad",
       "url": "https://open.spotify.com/track/5XrRfnVqGtEhGjMqr9JtrQ"
+    },
+    {
+      "added_at": "2022-09-16 04:01:00",
+      "album": {
+        "name": "De A De Veras",
+        "url": "https://open.spotify.com/album/3NgALGjGhMc27JBclVPTBV"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 222732,
+      "name": "De A De Veras",
+      "url": "https://open.spotify.com/track/21aZ4e4lJiFmqRzNiPXqhP"
     },
     {
       "added_at": "2022-09-16 04:01:00",
@@ -847,6 +847,22 @@
     {
       "added_at": "2022-09-16 04:01:00",
       "album": {
+        "name": "Apolonio",
+        "url": "https://open.spotify.com/album/7HlxxaJOHK0ArY4Ae4Qfc7"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 187417,
+      "name": "Dos Uno Nueve (219)",
+      "url": "https://open.spotify.com/track/4h4Yy4DUZw0NkivxwBHM32"
+    },
+    {
+      "added_at": "2022-09-16 04:01:00",
+      "album": {
         "name": "Conozco La Calle",
         "url": "https://open.spotify.com/album/4iciGlmDQeaior7njVNFwH"
       },
@@ -859,30 +875,6 @@
       "duration_ms": 140312,
       "name": "Conozco La Calle",
       "url": "https://open.spotify.com/track/5ImiC67NzaBXSUXZjN1CSX"
-    },
-    {
-      "added_at": "2022-09-16 04:01:00",
-      "album": {
-        "name": "Las 3 Torres",
-        "url": "https://open.spotify.com/album/2JC96lAWIMYId0no3JwmxI"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        },
-        {
-          "name": "Ovi",
-          "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
-        },
-        {
-          "name": "\u00d1engo Flow",
-          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
-        }
-      ],
-      "duration_ms": 202090,
-      "name": "Cr\u00f3nicas de un Gallo",
-      "url": "https://open.spotify.com/track/6YPczk6I8RRCjIcJ9I7p8y"
     },
     {
       "added_at": "2022-09-16 04:01:00",
@@ -935,22 +927,6 @@
     {
       "added_at": "2022-09-16 04:01:00",
       "album": {
-        "name": "Apolonio",
-        "url": "https://open.spotify.com/album/7HlxxaJOHK0ArY4Ae4Qfc7"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 187417,
-      "name": "Dos Uno Nueve (219)",
-      "url": "https://open.spotify.com/track/4h4Yy4DUZw0NkivxwBHM32"
-    },
-    {
-      "added_at": "2022-09-16 04:01:00",
-      "album": {
         "name": "DEL Barrio a la Ciudad",
         "url": "https://open.spotify.com/album/1IzjCzWQ3SsMwjoY8TMmlx"
       },
@@ -987,6 +963,30 @@
       "duration_ms": 180186,
       "name": "El Cambio (Feat. Grupo Firme) - Mariachi",
       "url": "https://open.spotify.com/track/7tFOqICxTsVzC1mNpFb2PE"
+    },
+    {
+      "added_at": "2022-09-16 04:01:00",
+      "album": {
+        "name": "Las 3 Torres",
+        "url": "https://open.spotify.com/album/2JC96lAWIMYId0no3JwmxI"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Ovi",
+          "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        }
+      ],
+      "duration_ms": 202090,
+      "name": "Cr\u00f3nicas de un Gallo",
+      "url": "https://open.spotify.com/track/6YPczk6I8RRCjIcJ9I7p8y"
     },
     {
       "added_at": "2022-09-16 04:01:00",

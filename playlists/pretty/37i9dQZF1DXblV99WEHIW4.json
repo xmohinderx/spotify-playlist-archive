@@ -1,12 +1,12 @@
 {
   "description": "Heavy music that understands.",
-  "num_followers": 133949,
+  "num_followers": 134149,
   "original_name": "Blood, Shred & Tears",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ2ODQwMCwwMDAwMDAwMDBhNDYxNDIzNWI5NTQ4YmZkZGFkZGU3MjFhNWQxZGNj",
+  "snapshot_id": "MTY2MTQ2ODQwMCwwMDAwMDAwMDcwOWRkMjQ4NTUxZTkxZGFjYjM4ODgyYjIxNDAxNjc5",
   "tracks": [
     {
       "added_at": "2022-08-25 23:00:00",
@@ -703,6 +703,22 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
+        "name": "SO WHAT?",
+        "url": "https://open.spotify.com/album/2jd0syXer1txxASx3W2oy0"
+      },
+      "artists": [
+        {
+          "name": "While She Sleeps",
+          "url": "https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a"
+        }
+      ],
+      "duration_ms": 254500,
+      "name": "ANTI-SOCIAL",
+      "url": "https://open.spotify.com/track/5XExne04zgnDeAN8aIvMvM"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
         "name": "Somewhere at the Bottom of the River Between Vega and Altair (10th Anniversary)",
         "url": "https://open.spotify.com/album/0pTuxkUN7yTGwoU00KRCan"
       },
@@ -719,18 +735,18 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "SO WHAT?",
-        "url": "https://open.spotify.com/album/2jd0syXer1txxASx3W2oy0"
+        "name": "Blush",
+        "url": "https://open.spotify.com/album/3qdM2cxZoTPFWpyZrMZp2j"
       },
       "artists": [
         {
-          "name": "While She Sleeps",
-          "url": "https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a"
+          "name": "Moose Blood",
+          "url": "https://open.spotify.com/artist/5fEKZRCUa0JApec5Xy095q"
         }
       ],
-      "duration_ms": 254500,
-      "name": "ANTI-SOCIAL",
-      "url": "https://open.spotify.com/track/5XExne04zgnDeAN8aIvMvM"
+      "duration_ms": 224840,
+      "name": "Knuckles",
+      "url": "https://open.spotify.com/track/0ttKGGwdONPJuVZggxzAl1"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -763,22 +779,6 @@
       "duration_ms": 289346,
       "name": "February Stars",
       "url": "https://open.spotify.com/track/2ceA7CWWx6yIHdzppN8nLF"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
-        "name": "Blush",
-        "url": "https://open.spotify.com/album/3qdM2cxZoTPFWpyZrMZp2j"
-      },
-      "artists": [
-        {
-          "name": "Moose Blood",
-          "url": "https://open.spotify.com/artist/5fEKZRCUa0JApec5Xy095q"
-        }
-      ],
-      "duration_ms": 224840,
-      "name": "Knuckles",
-      "url": "https://open.spotify.com/track/0ttKGGwdONPJuVZggxzAl1"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "XOXO: From Love & Anxiety In Real Time",
-        "url": "https://open.spotify.com/album/0XFA5pfYjdDx6tnPLEaeDz"
-      },
-      "artists": [
-        {
-          "name": "The Maine",
-          "url": "https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0"
-        }
-      ],
-      "duration_ms": 185146,
-      "name": "Pretender",
-      "url": "https://open.spotify.com/track/2KG2YRCeF0aIuTErlZkF2j"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
         "name": "Violent Pop",
         "url": "https://open.spotify.com/album/2kVLN2LUjJWEtoCPllEYyp"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 222469,
       "name": "Feel Nothing",
       "url": "https://open.spotify.com/track/26m3OLzCB09qlex7GTZS7h"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "XOXO: From Love & Anxiety In Real Time",
+        "url": "https://open.spotify.com/album/0XFA5pfYjdDx6tnPLEaeDz"
+      },
+      "artists": [
+        {
+          "name": "The Maine",
+          "url": "https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0"
+        }
+      ],
+      "duration_ms": 185146,
+      "name": "Pretender",
+      "url": "https://open.spotify.com/track/2KG2YRCeF0aIuTErlZkF2j"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "Holding Absence",
-        "url": "https://open.spotify.com/album/6xEQWs9XbaJBGAy4Jv7piM"
-      },
-      "artists": [
-        {
-          "name": "Holding Absence",
-          "url": "https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU"
-        }
-      ],
-      "duration_ms": 328133,
-      "name": "Perish",
-      "url": "https://open.spotify.com/track/2SsrRygE0VPkjFrtcV4PL8"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
         "name": "Bad At Love",
         "url": "https://open.spotify.com/album/0nPFXbRDNvRH0297jTqgTh"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 202253,
       "name": "Bad At Love",
       "url": "https://open.spotify.com/track/3MwjVy96d2KNl99nrFPxmh"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "Holding Absence",
+        "url": "https://open.spotify.com/album/6xEQWs9XbaJBGAy4Jv7piM"
+      },
+      "artists": [
+        {
+          "name": "Holding Absence",
+          "url": "https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU"
+        }
+      ],
+      "duration_ms": 328133,
+      "name": "Perish",
+      "url": "https://open.spotify.com/track/2SsrRygE0VPkjFrtcV4PL8"
     },
     {
       "added_at": "2022-08-25 23:00:00",

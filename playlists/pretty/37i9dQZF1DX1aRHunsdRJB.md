@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRHunsdRJB.md) - [plain]
 
 > A playlist driven from the islands, take the front seat as Soca meets Bashment
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,838 likes - 68 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,848 likes - 68 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,10 +54,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRHunsdRJB.md) - [plain]
 | 44 | [Nasty Up](https://open.spotify.com/track/2HCI4c62Y29dpP3P9Kkrdd) | [Problem Child](https://open.spotify.com/artist/1lE1SGLNabSpBbJB9A9qtU) | [Darkseid Riddim](https://open.spotify.com/album/4ZiVdukO3hIobnU3ntuq68) | 3:34 |
 | 45 | [Earthquake](https://open.spotify.com/track/6ZcjqhiK2heWFJUb3BmO9x) | [Viking Ding Dong](https://open.spotify.com/artist/2vQWBz2IFxhcvg06vd9spK) | [Rats Hole Riddim](https://open.spotify.com/album/2bxqMNQQaU2dhZC2aMqx5X) | 3:10 |
 | 46 | [Wrong Again](https://open.spotify.com/track/3TVWXE8hUeSzoAC3xCrErX) | [Skinny Banton](https://open.spotify.com/artist/17mmOxzEgy1HQsEhsXvcO6) | [Wrong Again](https://open.spotify.com/album/45cwc8M8DQrrAcfjTDog4b) | 2:46 |
-| 47 | [Weak](https://open.spotify.com/track/4TNpd91LNGPTlSvbTh5i0Y) | [Ricardo Drue](https://open.spotify.com/artist/1YxLPEyDduTjPEBWKA2BmF) | [Gas Station Riddim](https://open.spotify.com/album/4hBtvACfUm2HTY9SkLGTBY) | 2:49 |
+| 47 | [Private Zess](https://open.spotify.com/track/2f33W36xOV4apM1O3KE0wN) | [K Lion](https://open.spotify.com/artist/6fanvfSBKMMExePwhUq8Mi), [Lr](https://open.spotify.com/artist/09lMeNRN7IAcfmSwJdEekK) | [Private Zess](https://open.spotify.com/album/4WOfofh96ugasqjG2CAyN6) | 2:48 |
 | 48 | [Ba Ba Ben \- Remix](https://open.spotify.com/track/71XZiTsbFbZoYFwIVBYSQR) | [DJ CHEEM](https://open.spotify.com/artist/73srMZV12x8XvV4r8VekHZ), [Lyrikal](https://open.spotify.com/artist/35KCSzO0sDCLggvo39D9ng), [Noah Powa](https://open.spotify.com/artist/48gJBFt1TIiFXaUEHnzNwN), [Lil Rick](https://open.spotify.com/artist/2JHvSRTVaQp5riTM8GoXBA) | [Ba Ba Ben \(Remix\)](https://open.spotify.com/album/5BXDWRiFkMijKVlK7yV3ug) | 3:25 |
 | 49 | [Shots \(One for Di Road\)](https://open.spotify.com/track/6rIE6JA0jPE3OyuNPGrX2C) | [Motto](https://open.spotify.com/artist/2yK06HIkW6eitM49lypo0O) | [Baila Riddim](https://open.spotify.com/album/7k8okFoxLMVcK8sptO5ZmS) | 2:17 |
-| 50 | [Private Zess](https://open.spotify.com/track/2f33W36xOV4apM1O3KE0wN) | [K Lion](https://open.spotify.com/artist/6fanvfSBKMMExePwhUq8Mi), [Lr](https://open.spotify.com/artist/09lMeNRN7IAcfmSwJdEekK) | [Private Zess](https://open.spotify.com/album/4WOfofh96ugasqjG2CAyN6) | 2:48 |
+| 50 | [Weak](https://open.spotify.com/track/4TNpd91LNGPTlSvbTh5i0Y) | [Ricardo Drue](https://open.spotify.com/artist/1YxLPEyDduTjPEBWKA2BmF) | [Gas Station Riddim](https://open.spotify.com/album/4hBtvACfUm2HTY9SkLGTBY) | 2:49 |
 | 51 | [Guh Down](https://open.spotify.com/track/4gNXjJOrIn7UUX2SJhs27J) | [Lil Rick](https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0) | [Soca Gold 2011](https://open.spotify.com/album/7mbrzf6XMjrp3WAcy9uwX0) | 3:07 |
 | 52 | [Down in de Meat](https://open.spotify.com/track/53vZJIaSsJW6VE5qMwuA8a) | [Lednek](https://open.spotify.com/artist/0zjsPa0DklEYp44vmnEMCj) | [Smoke Mask Riddim](https://open.spotify.com/album/3y8wtlDAAWDehbuJCaZG3Q) | 3:22 |
 | 53 | [Stink Behavior](https://open.spotify.com/track/5XxrykKafHg34icuJEN5tf) | [Teddy Rhymez](https://open.spotify.com/artist/2gFphsuTLIhXahR31Dba3p), [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Stink Behavior](https://open.spotify.com/album/65lZPDKwuVzWbdxrQ0xH8T) | 3:31 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRHunsdRJB.md) - [plain]
 | 67 | [Tombstone](https://open.spotify.com/track/5y3BRj2jk5ifjwRmPvrNk6) | [Mandella Linkz](https://open.spotify.com/artist/6pU2OStuhrBqzG7J1ibOIm) | [Mandrakes Riddim](https://open.spotify.com/album/4JufEdzLQ2yJkXOlXknrLG) | 3:50 |
 | 68 | [Kiss](https://open.spotify.com/track/0MaI2ZRUC1atONjvt5Jr6T) | [Nadia Batson](https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t), [Team Foxx](https://open.spotify.com/artist/0QY1Fzl4cIbO14opQB8AyM) | [Toatin Riddim](https://open.spotify.com/album/4LL4JVrNQbmu7pQixAEPyv) | 2:31 |
 
-Snapshot ID: `MTY0NTcyNTYwMCwwMDAwMDAwMDgyMjVkZmUzNzZmODA1ZDU2M2Q1MmMwOWIxODBmZTQ2`
+Snapshot ID: `MTY0NTcyNTYwMCwwMDAwMDAwMDdmYTcxYmNhNWI3NjYyZTI5NjJkOGVlMjVhMjZlMDQ5`

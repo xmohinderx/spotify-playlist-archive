@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7WmotStdsj.md) - [plain](/playlists/plain/37i9dQZF1DXb7WmotStdsj) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXb7WmotStdsj)
 
-### [Rai Hits](https://open.spotify.com/playlist/37i9dQZF1DXb7WmotStdsj)
+### [Raï Hits](https://open.spotify.com/playlist/37i9dQZF1DXb7WmotStdsj)
 
-> The very best Rai hits\. Cover: Cheb Bello.
+> Les meilleurs tubes Raï du moment que vous entendez partout\. Cover: Cheb Bello.
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,184 likes - 50 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,276 likes - 50 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7WmotStdsj.md) - [plain]
 | 49 | [Ana wiyak](https://open.spotify.com/track/4dw3HdccXL0pQQTgSwdRs6) | [Bilal Assarguini](https://open.spotify.com/artist/2taSKJRDLOVQg0g0RnFDVH) | [Ana wiyak](https://open.spotify.com/album/7kuIaZYSdwLrufUJu8YRmk) | 3:03 |
 | 50 | [طيري يا طيارة](https://open.spotify.com/track/0qJPN8mWjsORy7v2a6Benw) | [Mohamed Khassani](https://open.spotify.com/artist/32d1Iok2R1iGEbsj4zXgOC) | [طيري يا طيارة](https://open.spotify.com/album/7jaNQ3MZzO2FS2aCkxP6Xv) | 3:07 |
 
-Snapshot ID: `MTY2MzY3NTU2NywwMDAwMDAwMDBkOWQ3NTk4ZTMzNjhmNGE0MzBlYzQxZTc1NTU4OWFh`
+Snapshot ID: `MTY2Mzc0MzQyNywwMDAwMDAwMDNlNzZkMDA5MmRlMzlmMWE3NzAxYTI3NjcyODA1MzFh`

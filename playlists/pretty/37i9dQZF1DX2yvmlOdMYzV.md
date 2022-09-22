@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2yvmlOdMYzV.md) - [plain]
 
 > Chill indie soul that's highkey fire
 
-[Spotify](https://open.spotify.com/user/spotify) - 795,837 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 796,104 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,9 +86,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2yvmlOdMYzV.md) - [plain]
 | 76 | [Buying Time](https://open.spotify.com/track/3Yt0liwMgB3I0xv3FQBDzI) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Buying Time](https://open.spotify.com/album/4w2JvzBwaKaYBdLWeepWI3) | 3:56 |
 | 77 | [Shadow Man](https://open.spotify.com/track/5RZ9Tlmiy9NioldpMCZvaN) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [Phoelix](https://open.spotify.com/artist/2TKC2gVUNBUAlFqfLUoaj0), [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x) | [telefone](https://open.spotify.com/album/3WQSmz0juSSmEmzXpv9l6M) | 5:11 |
 | 78 | [Where I'm From \(feat\. Mereba\)](https://open.spotify.com/track/2iEkQcLF4Mjm91hTS3XW86) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [HYPNOS](https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ) | 3:44 |
-| 79 | [single \(on the weekend\)](https://open.spotify.com/track/3EsFTeaVgAsKjq4mojJTfQ) | [marcos g](https://open.spotify.com/artist/3O2UFvuhmgSDH3q6miqELN) | [dancefloor](https://open.spotify.com/album/1Pqbkhi0xUWVXfMlCu6p4j) | 2:35 |
-| 80 | [I'm Thru](https://open.spotify.com/track/25AA0A6Qvq9leS9zyeWbln) | [Luke Gomm](https://open.spotify.com/artist/5n1DsrQDgo9Dqav2BZUeuB) | [I'm Thru](https://open.spotify.com/album/2R1NiiIPRBp4Jou2BGS0Mu) | 3:11 |
-| 81 | [Stole My Love](https://open.spotify.com/track/1ex37MbvUY3yBvwsh8yZVl) | [Jay Isaiah](https://open.spotify.com/artist/0oMty0VPLJbB8WAQ8otDAs) | [Stole My Love](https://open.spotify.com/album/7f44ShiYsYglLbfIwZAXOE) | 3:31 |
+| 79 | [I'm Thru](https://open.spotify.com/track/25AA0A6Qvq9leS9zyeWbln) | [Luke Gomm](https://open.spotify.com/artist/5n1DsrQDgo9Dqav2BZUeuB) | [I'm Thru](https://open.spotify.com/album/2R1NiiIPRBp4Jou2BGS0Mu) | 3:11 |
+| 80 | [Stole My Love](https://open.spotify.com/track/1ex37MbvUY3yBvwsh8yZVl) | [Jay Isaiah](https://open.spotify.com/artist/0oMty0VPLJbB8WAQ8otDAs) | [Stole My Love](https://open.spotify.com/album/7f44ShiYsYglLbfIwZAXOE) | 3:31 |
+| 81 | [single \(on the weekend\)](https://open.spotify.com/track/3EsFTeaVgAsKjq4mojJTfQ) | [marcos g](https://open.spotify.com/artist/3O2UFvuhmgSDH3q6miqELN) | [dancefloor](https://open.spotify.com/album/1Pqbkhi0xUWVXfMlCu6p4j) | 2:35 |
 | 82 | [Jewels in the Night](https://open.spotify.com/track/6HZTp6aIfkqEp5DBJR4JIx) | [GINGE](https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt) | [Jewels in the Night](https://open.spotify.com/album/0TFdoAI3m8f9HrDeTvSy3P) | 3:45 |
 | 83 | [My World](https://open.spotify.com/track/5wXQFi7alwkKVf7PdYb3Co) | [Asiahn](https://open.spotify.com/artist/1mKtlPrXjWK6oIdk9cSOjs) | [The Interlude](https://open.spotify.com/album/6bZ7XNBJFwmpOdAp9xZkoX) | 3:11 |
 | 84 | [Bound \(with Blood Orange\)](https://open.spotify.com/track/7fjNxhYa8qXGhrrJhY3hZL) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Bound \(with Blood Orange\)](https://open.spotify.com/album/1j3PtWvJUNpsU6tYkjD3FX) | 3:40 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2yvmlOdMYzV.md) - [plain]
 | 99 | [Later](https://open.spotify.com/track/0MuaRi77N4gPEfVkuooxqS) | [emawk](https://open.spotify.com/artist/2zAshenjqDlcL4pudfySBY) | [Later](https://open.spotify.com/album/5Xv4mbW5nQ7LIvSZ2LIWzC) | 4:30 |
 | 100 | [Hold On](https://open.spotify.com/track/2zrAQ3iczs6gMTR50WbV54) | [Kamaal Williams](https://open.spotify.com/artist/01mXk9IDlVczWwZvVHAiIS), [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [Wu Hen](https://open.spotify.com/album/3wLs9mqCIwNGp6GT2cderb) | 3:20 |
 
-Snapshot ID: `MTY2MzM2Mzg5NywwMDAwMDAwMDQzZTZkZDEwMzQyMzAyNGM1NWE2YTUyMWQ4M2ViNzg2`
+Snapshot ID: `MTY2MzM2Mzg5NywwMDAwMDAwMDYxYjBkNmJiYTE3MjM1OTM1YWMxMDlmODVkMDNkYTA4`

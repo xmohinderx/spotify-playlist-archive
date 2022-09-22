@@ -1,12 +1,12 @@
 {
   "description": "Your favorite indie & alternative jams, reimagined and recorded exclusively for Spotify Singles. Cover: MUNA",
-  "num_followers": 95680,
+  "num_followers": 95691,
   "original_name": "Spotify Singles: Indie & Alternative",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjA2MDY5NSwwMDAwMDAwMDE2MjAwMjZjNmJlYjJlNGFhNzBjMmUyNzI0ZDI4ZjNj",
+  "snapshot_id": "MTY2MjA2MDY5NSwwMDAwMDAwMDc1NzMxZTE1MTIzODRhOTM5N2VhM2E3Njc4Mzc3Nzk0",
   "tracks": [
     {
       "added_at": "2022-03-30 13:22:18",
@@ -1584,22 +1584,6 @@
       "added_at": "2022-03-30 13:22:18",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4WQLkeOJulFut0ZPTFQQdi"
-      },
-      "artists": [
-        {
-          "name": "Perfume Genius",
-          "url": "https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn"
-        }
-      ],
-      "duration_ms": 224647,
-      "name": "Body's In Trouble - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/40OXv3JCTBrMlh9DjDVXqy"
-    },
-    {
-      "added_at": "2022-03-30 13:22:18",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2bOO36ZGSYDuXj27cdnxKE"
       },
       "artists": [
@@ -1611,6 +1595,22 @@
       "duration_ms": 237997,
       "name": "Rockstar - Recorded At Abbey Road Studios, London",
       "url": "https://open.spotify.com/track/5D6Z7Iof3v5QRbaW2LquoN"
+    },
+    {
+      "added_at": "2022-03-30 13:22:18",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4WQLkeOJulFut0ZPTFQQdi"
+      },
+      "artists": [
+        {
+          "name": "Perfume Genius",
+          "url": "https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn"
+        }
+      ],
+      "duration_ms": 224647,
+      "name": "Body's In Trouble - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/40OXv3JCTBrMlh9DjDVXqy"
     },
     {
       "added_at": "2022-03-30 13:22:18",
@@ -1812,22 +1812,6 @@
       "added_at": "2022-03-30 13:22:18",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1jairj919ADwCPsOTF0Z1j"
-      },
-      "artists": [
-        {
-          "name": "Pierce Fulton",
-          "url": "https://open.spotify.com/artist/5p0zkKpBuRguKebwRe0RI2"
-        }
-      ],
-      "duration_ms": 169145,
-      "name": "Fire on the Mountain - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/0VYh7UE0QG71xFfPEI353W"
-    },
-    {
-      "added_at": "2022-03-30 13:22:18",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/68X345rpDHj4iY6E7pcT6d"
       },
       "artists": [
@@ -1839,6 +1823,22 @@
       "duration_ms": 316108,
       "name": "Mourning Sound - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/4qPb53XN2ilYsBf5OIHdtV"
+    },
+    {
+      "added_at": "2022-03-30 13:22:18",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1jairj919ADwCPsOTF0Z1j"
+      },
+      "artists": [
+        {
+          "name": "Pierce Fulton",
+          "url": "https://open.spotify.com/artist/5p0zkKpBuRguKebwRe0RI2"
+        }
+      ],
+      "duration_ms": 169145,
+      "name": "Fire on the Mountain - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/0VYh7UE0QG71xFfPEI353W"
     },
     {
       "added_at": "2022-03-30 13:22:18",

@@ -1711,7 +1711,7 @@
     {
       "album": {
         "name": "Unleash",
-        "url": "https://open.spotify.com/album/3X1Y5nukifVvhjmyAcsZ6o"
+        "url": "https://open.spotify.com/album/09kpnVq1iOLRwM8eWKXADw"
       },
       "artists": [
         {
@@ -1722,6 +1722,24 @@
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 203320,
+      "name": "Influencer",
+      "url": "https://open.spotify.com/track/1bgpOs3FeHhbpFSZkApGkZ"
+    },
+    {
+      "album": {
+        "name": "Unleash",
+        "url": "https://open.spotify.com/album/3X1Y5nukifVvhjmyAcsZ6o"
+      },
+      "artists": [
+        {
+          "name": "BAND-MAID",
+          "url": "https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-22",
       "duration_ms": 203320,
       "name": "influencer",
       "url": "https://open.spotify.com/track/5notliDFZDp6H5m95UmQve"

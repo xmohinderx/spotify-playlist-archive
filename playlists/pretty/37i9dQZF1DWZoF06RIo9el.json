@@ -1,12 +1,12 @@
 {
   "description": "Las mejores canciones de septiembre 2022.",
-  "num_followers": 1493974,
+  "num_followers": 1494113,
   "original_name": "Lo mejor del mes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzYwMjA4MiwwMDAwMDAwMDc5ZjIxNDExNmU2ODhjMTQwZDRhNGM3ZWJhODk2YjAy",
+  "snapshot_id": "MTY2Mzc4MzE3OCwwMDAwMDAwMDA3NjVjMGZkNDVlNmE5ZjQ3MDkzMmNiZDVjMTY1MjQy",
   "tracks": [
     {
       "added_at": "2022-09-19 15:41:22",
@@ -323,26 +323,6 @@
     {
       "added_at": "2022-09-19 15:41:22",
       "album": {
-        "name": "De Pari",
-        "url": "https://open.spotify.com/album/0DaXSOZtSBlAEXgUxLr9hj"
-      },
-      "artists": [
-        {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
-        },
-        {
-          "name": "Mora",
-          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
-        }
-      ],
-      "duration_ms": 174250,
-      "name": "De Pari",
-      "url": "https://open.spotify.com/track/2oYbmygoO3gzLychByw297"
-    },
-    {
-      "added_at": "2022-09-19 15:41:22",
-      "album": {
         "name": "Nosotros",
         "url": "https://open.spotify.com/album/1BiWw1GQjHsvqG4SZPYjaV"
       },
@@ -447,22 +427,6 @@
     {
       "added_at": "2022-09-19 15:41:22",
       "album": {
-        "name": "Brother",
-        "url": "https://open.spotify.com/album/5aw4wm2nZtKrilz0CcTeD8"
-      },
-      "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 209578,
-      "name": "Brother",
-      "url": "https://open.spotify.com/track/3M23T72K5eqHI2GzdFMMHE"
-    },
-    {
-      "added_at": "2022-09-19 15:41:22",
-      "album": {
         "name": "Fumando",
         "url": "https://open.spotify.com/album/26gxlnGOcwQsUheyskEuMV"
       },
@@ -479,6 +443,22 @@
       "duration_ms": 203571,
       "name": "Fumando",
       "url": "https://open.spotify.com/track/7J02hWxvWMi026FUPXU4nq"
+    },
+    {
+      "added_at": "2022-09-19 15:41:22",
+      "album": {
+        "name": "Brother",
+        "url": "https://open.spotify.com/album/5aw4wm2nZtKrilz0CcTeD8"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 209578,
+      "name": "Brother",
+      "url": "https://open.spotify.com/track/3M23T72K5eqHI2GzdFMMHE"
     },
     {
       "added_at": "2022-09-19 15:41:22",
@@ -799,6 +779,34 @@
       "duration_ms": 162644,
       "name": "Flow Diego",
       "url": "https://open.spotify.com/track/64kPK9ZGUXQbBhocpYfPIk"
+    },
+    {
+      "added_at": "2022-09-21 17:59:38",
+      "album": {
+        "name": "Personal",
+        "url": "https://open.spotify.com/album/3Q0J5O5iugt4arPomuIIyB"
+      },
+      "artists": [
+        {
+          "name": "Symon Dice",
+          "url": "https://open.spotify.com/artist/13UfNcNfBVluLz2d0J6y6v"
+        },
+        {
+          "name": "LATENIGHTJIGGY",
+          "url": "https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah"
+        },
+        {
+          "name": "Gigolo Y La Exce",
+          "url": "https://open.spotify.com/artist/7lCRuW6BSXGAsxuQV9lR0i"
+        },
+        {
+          "name": "Thyago",
+          "url": "https://open.spotify.com/artist/58vXMHUbQbvf7jutQTnJZy"
+        }
+      ],
+      "duration_ms": 204827,
+      "name": "Personal",
+      "url": "https://open.spotify.com/track/2DkZmgOhYX5m4mOgORqIzq"
     },
     {
       "added_at": "2022-09-19 15:41:22",

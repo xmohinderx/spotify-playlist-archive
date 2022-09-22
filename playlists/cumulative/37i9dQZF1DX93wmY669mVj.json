@@ -1584,36 +1584,6 @@
     },
     {
       "album": {
-        "name": "The Liszt Concertos",
-        "url": "https://open.spotify.com/album/4EaXVOeFTD2gXqg71WH2uA"
-      },
-      "artists": [
-        {
-          "name": "Franz Liszt",
-          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
-        },
-        {
-          "name": "Daniel Barenboim",
-          "url": "https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH"
-        },
-        {
-          "name": "Staatskapelle Berlin",
-          "url": "https://open.spotify.com/artist/7vEPPI71V8dEHtEhPMAxWT"
-        },
-        {
-          "name": "Pierre Boulez",
-          "url": "https://open.spotify.com/artist/2prZJWfQMnIgwUKxKcBxH7"
-        }
-      ],
-      "date_added": "2021-08-26",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 317773,
-      "name": "Piano Concerto No. 2 in A Major, S. 125: I. Adagio sostenuto assai",
-      "url": "https://open.spotify.com/track/6Mw7tm0M9vHlqIfUO8rTBD"
-    },
-    {
-      "album": {
         "name": "Liszt: Piano Concertos Nos. 1 & 2; Totentanz",
         "url": "https://open.spotify.com/album/1IKSiDTwCfw2TUs9WjnQ8A"
       },
@@ -1671,6 +1641,36 @@
       "duration_ms": 67880,
       "name": "Piano Concerto No. 2 in A Major, S. 125: Marziale un poco meno allegro -",
       "url": "https://open.spotify.com/track/4b5FyTX9mXq4do2rRqRbq6"
+    },
+    {
+      "album": {
+        "name": "The Liszt Concertos",
+        "url": "https://open.spotify.com/album/4EaXVOeFTD2gXqg71WH2uA"
+      },
+      "artists": [
+        {
+          "name": "Franz Liszt",
+          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
+        },
+        {
+          "name": "Daniel Barenboim",
+          "url": "https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH"
+        },
+        {
+          "name": "Staatskapelle Berlin",
+          "url": "https://open.spotify.com/artist/7vEPPI71V8dEHtEhPMAxWT"
+        },
+        {
+          "name": "Pierre Boulez",
+          "url": "https://open.spotify.com/artist/2prZJWfQMnIgwUKxKcBxH7"
+        }
+      ],
+      "date_added": "2021-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317773,
+      "name": "Piano Concerto No. 2 in A, S.125: I. Adagio sostenuto assai",
+      "url": "https://open.spotify.com/track/6Mw7tm0M9vHlqIfUO8rTBD"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Euphoric drum & bass tracks for raving in the sunshine!
 
-76 songs - 5 hr 13 min - [published](https://open.spotify.com/playlist/2GeJYMZ5IxReZIlK4ofYil)
+77 songs - 5 hr 18 min - [published](https://open.spotify.com/playlist/2GeJYMZ5IxReZIlK4ofYil)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,12 +13,13 @@
 | [Amazing \(feat\. Agent Sasco\)](https://open.spotify.com/track/1PJfbxmFsitJPbLLU98y1s) | [Voltage](https://open.spotify.com/artist/5Pexua3J92rqhQvEqTcRKP), [SHY FX](https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j), [Agent Sasco \(Assassin\)](https://open.spotify.com/artist/0CiLVKp7LJTm0c8jdUmQNy) | [Amazing \(feat\. Agent Sasco\)](https://open.spotify.com/album/0OyJFX214c6PmgyBboEoPy) | 3:07 | 2022-08-05 |  |
 | [Atlantis \(I Need You\)](https://open.spotify.com/track/2527WUoKIauHY1tx5TCetu) | [LTJ Bukem](https://open.spotify.com/artist/5Wfn5sc1w3DhMTpU7oPJZL) | [Producer 01](https://open.spotify.com/album/2YgeSuxQWw3NjUPYhjoTFl) | 6:34 | 2022-08-05 |  |
 | [Baddest](https://open.spotify.com/track/2W2vodjw341bqlgTNPx8mb) | [Vibe Chemistry](https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi) | [Baddest](https://open.spotify.com/album/3FCkjCs6WETYazRGWU8F9c) | 3:43 | 2022-08-05 |  |
+| [Bayside Groove](https://open.spotify.com/track/64pPRNi9JLagq9RVYvInVu) | [Athena](https://open.spotify.com/artist/5zQVK5kEmMGuMqreKxjyNb) | [Bayside Groove](https://open.spotify.com/album/7by2OIjwE1crH5hT1SrBB7) | 5:18 | 2022-08-05 |  |
 | [beachin](https://open.spotify.com/track/1LjMPAZCsTIdMuwlM9PcPF) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN) | [beachin](https://open.spotify.com/album/0ceD9hGoyjc5kplHQNP4Mn) | 3:14 | 2022-08-05 |  |
 | [Believer](https://open.spotify.com/track/0KuvjeKpXNK6fMPsnpJ0cm) | [Friction](https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr) | [Believer](https://open.spotify.com/album/09539Dh2pzs6OmoWsXFtFH) | 3:38 | 2022-08-05 |  |
 | [Big City Life](https://open.spotify.com/track/1LIvdWNdKmHvU0FJvw2diN) | [Luude](https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg), [Mattafix](https://open.spotify.com/artist/5KORW1YGiERJqfuYjXMCyz) | [Big City Life](https://open.spotify.com/album/5Z9UyG6AYfNphE7UJGXifC) | 2:26 | 2022-08-05 |  |
 | [Blame You \(feat\. Dylan\)](https://open.spotify.com/track/1OO7bKqN3XRDb0W6B3wM6i) | [Hybrid Minds](https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR), [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [Reflections](https://open.spotify.com/album/3w6tCisQHurw8IMhnTyXwM) | 3:51 | 2022-08-05 |  |
 | [Call Me \(feat\. Maverick Sabre\)](https://open.spotify.com/track/1XX80Q0QEY62CVo1Ks4x1J) | [SHY FX](https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Raggamuffin SoundTape](https://open.spotify.com/album/5CZ869wDUrKqvtmJXRZxkl) | 3:29 | 2022-08-05 |  |
-| [Can't Destroy Love](https://open.spotify.com/track/25uYgeEbQmZdQVd0xQQzMn) | [Atlantic Connection](https://open.spotify.com/artist/323BD4mjoLA1ajX6zjIe2q) | [Digital Landscape](https://open.spotify.com/album/2aeWA7Sqbo9cnnPbggxCaZ) | 6:03 | 2022-08-05 |  |
+| [Can't Destroy Love](https://open.spotify.com/track/25uYgeEbQmZdQVd0xQQzMn) | [Atlantic Connection](https://open.spotify.com/artist/323BD4mjoLA1ajX6zjIe2q) | [Digital Landscape](https://open.spotify.com/album/2aeWA7Sqbo9cnnPbggxCaZ) | 6:03 | 2022-08-05 | 2022-09-22 |
 | [Changing](https://open.spotify.com/track/1LrYRj1iFsm9QJ72YqPTLY) | [Sigma](https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS), [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa) | [Life \(Deluxe\)](https://open.spotify.com/album/44OSVbfmYeai7d1Euvqwpx) | 3:25 | 2022-08-05 |  |
 | [Control](https://open.spotify.com/track/3aE4H40sir4lVzMG7MxYBj) | [Matrix & Futurebound](https://open.spotify.com/artist/41iVQ05he8SrfIWbZQ58N7), [Max Marshall](https://open.spotify.com/artist/7ppllgzNRgrnOjYbsyDzO6) | [Mystery Machine](https://open.spotify.com/album/7tIUXWWbdUtPvzZRWrn7zj) | 3:48 | 2022-08-05 |  |
 | [Dahlia](https://open.spotify.com/track/1DCYNMKp5yziQ48dh4t0Hz) | [Etherwood](https://open.spotify.com/artist/3GEUIa3Z0Qlivy3EcJm5RX) | [Dahlia](https://open.spotify.com/album/3gvw724Y4YB3HMLrVSgCOV) | 5:06 | 2022-08-05 |  |

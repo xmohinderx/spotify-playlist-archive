@@ -1,12 +1,12 @@
 {
   "description": "\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8\u30fb\u30ab\u30eb\u30c1\u30e3\u30fc\u304b\u3089\u6b21\u3005\u3068\u51fa\u73fe\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u7279\u96c6\u3002Check out artists of the new Internet age! Illustration by <a href=\"https://twitter.com/hoshieri7\">\u5317\u6751\u82f1\u7406</a>(Eri Kitamura)",
-  "num_followers": 62752,
+  "num_followers": 62834,
   "original_name": "\u592a\u967d\u3092\u898b\u3066\u3057\u307e\u3063\u305f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzY5NDIwNywwMDAwMDAwMGM1OTFhZjQyYjdhNWQwOGJlZmY5OWU3MzNhNGJjNmI3",
+  "snapshot_id": "MTY2MzY5NDIwNywwMDAwMDAwMDVmNWNkNmI5M2UwYjlkNzE0MjgxNjk2MGFhYTFiMGMx",
   "tracks": [
     {
       "added_at": "2022-09-20 17:16:47",
@@ -115,8 +115,8 @@
     {
       "added_at": "2022-09-20 17:16:47",
       "album": {
-        "name": "\u30ab\u30fc\u30c6\u30f3",
-        "url": "https://open.spotify.com/album/6shhbAZHrRdbqUhJvVWblA"
+        "name": "curtain",
+        "url": "https://open.spotify.com/album/5X3NbcqfS8gwMPf5YXjvjW"
       },
       "artists": [
         {
@@ -125,8 +125,8 @@
         }
       ],
       "duration_ms": 163298,
-      "name": "\u30ab\u30fc\u30c6\u30f3",
-      "url": "https://open.spotify.com/track/0EpYsp88EkLlaC8AmDIlMC"
+      "name": "curtain",
+      "url": "https://open.spotify.com/track/4j8eZkDhi4ppiNhSkIR4Up"
     },
     {
       "added_at": "2022-09-20 17:16:47",
@@ -223,6 +223,22 @@
       "duration_ms": 218773,
       "name": "\u6c34\u661f",
       "url": "https://open.spotify.com/track/4Aj71k9eMBTi5xpQPie2ac"
+    },
+    {
+      "added_at": "2022-09-20 17:16:47",
+      "album": {
+        "name": "\u30d6\u30eb\u30fc\u30ce\u30fc\u30c8",
+        "url": "https://open.spotify.com/album/1H7jkYcAZZ2BdpQTOltnjT"
+      },
+      "artists": [
+        {
+          "name": "\u6c34\u69fd",
+          "url": "https://open.spotify.com/artist/67dtSHfEqrggSaOaicpaXq"
+        }
+      ],
+      "duration_ms": 182700,
+      "name": "\u30d6\u30eb\u30fc\u30ce\u30fc\u30c8",
+      "url": "https://open.spotify.com/track/3Ug6cD9VZE2J9eHc5jCASh"
     },
     {
       "added_at": "2022-09-20 17:16:47",
@@ -527,38 +543,6 @@
     {
       "added_at": "2022-09-20 17:16:47",
       "album": {
-        "name": "Lost",
-        "url": "https://open.spotify.com/album/3pkvUedqMjZPjbUgYrbsiq"
-      },
-      "artists": [
-        {
-          "name": "yama",
-          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
-        }
-      ],
-      "duration_ms": 245400,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/4nkVAZETVn1GVaJ7EEc8GN"
-    },
-    {
-      "added_at": "2022-09-20 17:16:47",
-      "album": {
-        "name": "\u30a2\u30aa\u30a4\u30cf\u30eb",
-        "url": "https://open.spotify.com/album/6pJUfEsJ7a3ExT5modeFbM"
-      },
-      "artists": [
-        {
-          "name": "\u30df\u30bb\u30ab\u30a4",
-          "url": "https://open.spotify.com/artist/0CPZbUqRC7ZymVB0SKsMIi"
-        }
-      ],
-      "duration_ms": 178473,
-      "name": "\u30a2\u30aa\u30a4\u30cf\u30eb",
-      "url": "https://open.spotify.com/track/5SAM5ms9HkCUcOFE7Cfib5"
-    },
-    {
-      "added_at": "2022-09-20 17:16:47",
-      "album": {
         "name": "\u6625\u6ce5\u68d2",
         "url": "https://open.spotify.com/album/4YKJk4juMZQr2sDnKzDlBz"
       },
@@ -571,6 +555,38 @@
       "duration_ms": 290289,
       "name": "\u6625\u6ce5\u68d2",
       "url": "https://open.spotify.com/track/1rr2DJOxV0sHXeUXCAz1yf"
+    },
+    {
+      "added_at": "2022-09-20 17:16:47",
+      "album": {
+        "name": "Aoiharu",
+        "url": "https://open.spotify.com/album/3iKkkzM6MXkAYSvYLWTVxN"
+      },
+      "artists": [
+        {
+          "name": "Misekai",
+          "url": "https://open.spotify.com/artist/3D3rPrHQXf7RGhWPNtVNHk"
+        }
+      ],
+      "duration_ms": 178473,
+      "name": "Aoiharu",
+      "url": "https://open.spotify.com/track/3VSNqUnc1KhmPmlZXsbN40"
+    },
+    {
+      "added_at": "2022-09-20 17:16:47",
+      "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/3pkvUedqMjZPjbUgYrbsiq"
+      },
+      "artists": [
+        {
+          "name": "yama",
+          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+        }
+      ],
+      "duration_ms": 245400,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/4nkVAZETVn1GVaJ7EEc8GN"
     },
     {
       "added_at": "2022-09-20 17:16:47",
@@ -671,8 +687,8 @@
     {
       "added_at": "2022-09-20 17:16:47",
       "album": {
-        "name": "\u604b\u611b\u304f\u305f\u3070\u308c\u540c\u597d\u4f1a (\u4eee) (feat. \u3055\u304b\u306a)",
-        "url": "https://open.spotify.com/album/1wzjljKBUFcU1rWYQIODEj"
+        "name": "Anti-Love Club (tentative) (feat. sakana)",
+        "url": "https://open.spotify.com/album/0GZLa2ceAPzh3Xnl4307Q5"
       },
       "artists": [
         {
@@ -680,13 +696,13 @@
           "url": "https://open.spotify.com/artist/3fZEXtz36reclpIaZpu1Bx"
         },
         {
-          "name": "\u3055\u304b\u306a",
-          "url": "https://open.spotify.com/artist/2qZxj23rfIjWxd4PCqlW3q"
+          "name": "sakana",
+          "url": "https://open.spotify.com/artist/7ynWqUtYVEl1GOhC4LmsT9"
         }
       ],
       "duration_ms": 172252,
-      "name": "\u604b\u611b\u304f\u305f\u3070\u308c\u540c\u597d\u4f1a (\u4eee) (feat. \u3055\u304b\u306a)",
-      "url": "https://open.spotify.com/track/5EmrUrOlF9pdzZOIQkfjwL"
+      "name": "Anti-Love Club (tentative) (feat. sakana)",
+      "url": "https://open.spotify.com/track/1P0F7HRKeHLPmOM2WKDBI7"
     },
     {
       "added_at": "2022-09-20 17:16:47",

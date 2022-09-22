@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdHVwrs6y0hc.md) - [plain]
 
 > Come for the stew stay for the craic.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,252 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,337 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdHVwrs6y0hc.md) - [plain]
 | 43 | [The Month of January](https://open.spotify.com/track/5NLhEltFqmzlXx6erUdGyj) | [House Devils, The](https://open.spotify.com/artist/668LUkmGWcPgf02VfipBPw) | [Irish Folk: Adieu to Old Ireland](https://open.spotify.com/album/0sgu5XqDRbGqRcOgIK4ynK) | 3:42 |
 | 44 | [Parcel of Rogues](https://open.spotify.com/track/4Ad3hhjcW4ci2VsZEg4NPH) | [Pied Pipers](https://open.spotify.com/artist/07hD0ZRBxt1clnlGk5UPlV) | [Pied Pipers: Music from Ireland and Scotland](https://open.spotify.com/album/1JZFHcBPvTORsQTrfh12At) | 4:21 |
 | 45 | [Bogie's Bonny Belle](https://open.spotify.com/track/0AYSKDQCs1RaUQh2iLEXRv) | [Fred Johnston](https://open.spotify.com/artist/5BycsjnT9wUHdGeeBITkbm), [Brid Ni Chathain](https://open.spotify.com/artist/4MB2D4qMgAqlP1VDw0WuuN), [Janet Sutton](https://open.spotify.com/artist/2V5kNou7X20lwOxEp42ofy) | [Ireland: Tales of Our Land](https://open.spotify.com/album/12ONIVbXNBgohGnGYqP0KF) | 3:19 |
-| 46 | [The Blight](https://open.spotify.com/track/2QJUd682LU3QIOYWnBP5gZ) | [Johnny Duhan](https://open.spotify.com/artist/434bJTf7zzYAqnMhWNuAly) | [Flame](https://open.spotify.com/album/73ZcF7Q0qUhj1WQriTv8CC) | 4:11 |
-| 47 | [Dohertys \- Tommy Peoples](https://open.spotify.com/track/0R1WxTxMg6TBThTf2oGpG0) | [Dave Munnelly](https://open.spotify.com/artist/31lWaf3NIsi9OuxxzNSdan), [Philip Masure](https://open.spotify.com/artist/1yECnWiTLdHIA2rsSlyf9F), [Patrick Michiels](https://open.spotify.com/artist/2yPQ0mHaVOSikKAtmxws1N), [Kieran Fahy](https://open.spotify.com/artist/0sd7XiFafnq1L8hm0xpmnF) | [Kieran Fahy: Irish Fiddle \- Man From the West](https://open.spotify.com/album/3qiNV2ylg4Kif4DCML9FCo) | 3:02 |
+| 46 | [Dohertys \- Tommy Peoples](https://open.spotify.com/track/0R1WxTxMg6TBThTf2oGpG0) | [Dave Munnelly](https://open.spotify.com/artist/31lWaf3NIsi9OuxxzNSdan), [Philip Masure](https://open.spotify.com/artist/1yECnWiTLdHIA2rsSlyf9F), [Patrick Michiels](https://open.spotify.com/artist/2yPQ0mHaVOSikKAtmxws1N), [Kieran Fahy](https://open.spotify.com/artist/0sd7XiFafnq1L8hm0xpmnF) | [Kieran Fahy: Irish Fiddle \- Man From the West](https://open.spotify.com/album/3qiNV2ylg4Kif4DCML9FCo) | 3:02 |
+| 47 | [The Blight](https://open.spotify.com/track/2QJUd682LU3QIOYWnBP5gZ) | [Johnny Duhan](https://open.spotify.com/artist/434bJTf7zzYAqnMhWNuAly) | [Flame](https://open.spotify.com/album/73ZcF7Q0qUhj1WQriTv8CC) | 4:11 |
 | 48 | [The Mickey Dam](https://open.spotify.com/track/1fxG0DZhRWopilQu79UMGB) | [House Devils, The](https://open.spotify.com/artist/668LUkmGWcPgf02VfipBPw) | [Irish Folk: Adieu to Old Ireland](https://open.spotify.com/album/0sgu5XqDRbGqRcOgIK4ynK) | 2:48 |
 | 49 | [The Cap and Bells / The Frost Is All Over](https://open.spotify.com/track/61zkyIkZwG6UTAbbNg97zU) | [Sean Tyrrell](https://open.spotify.com/artist/1aW2EHfu09S8SuoikLfF7o), [Ronan Browne](https://open.spotify.com/artist/2XDpVHvfdJtLmueBOVcjv1), [Kevin Glackin](https://open.spotify.com/artist/14uWK6VmfxYwQfJNQxqqEP), [Fergus Feely](https://open.spotify.com/artist/5rJeESCXormtjuqBHmE9ni) | [Ireland: Tales of Our Land](https://open.spotify.com/album/12ONIVbXNBgohGnGYqP0KF) | 5:29 |
 | 50 | [The Flower of Finea](https://open.spotify.com/track/1HZisJ0NtZbsEE1DZormSp) | [House Devils, The](https://open.spotify.com/artist/668LUkmGWcPgf02VfipBPw) | [Irish Folk: Adieu to Old Ireland](https://open.spotify.com/album/0sgu5XqDRbGqRcOgIK4ynK) | 5:42 |
 
-Snapshot ID: `MTYzNDg5NTEwNiwwMDAwMDAwMDU1MDVmZThmODU4OTg5MGNlNTA1YTc4N2NiZDU4ZGYw`
+Snapshot ID: `MTYzNDg5NTEwNiwwMDAwMDAwMDI4MTJlMzk1YWI5YTkwNWYzN2VmNDU3NjY4ZmY4MmVm`

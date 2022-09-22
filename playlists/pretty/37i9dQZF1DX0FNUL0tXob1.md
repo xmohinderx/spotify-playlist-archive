@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FNUL0tXob1.md) - [plain]
 
 > The best metal of 2016!
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,500 likes - 127 songs - 11 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,498 likes - 127 songs - 11 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

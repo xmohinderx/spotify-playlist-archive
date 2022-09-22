@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ8jTY8g4MU.md) - [plain]
 
 > أفضل أغاني الشيلات التي لا يمكن التوقف عن الاستماع اليها\. الغلاف: عبدالله ال فروان
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,326 likes - 52 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,402 likes - 52 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ8jTY8g4MU.md) - [plain]
 | 12 | [أقفيت عني](https://open.spotify.com/track/3NqFypg1KvwHt1yh2jjquf) | [Abdullah Al Farwan](https://open.spotify.com/artist/7zjX652bWyemXyFFVhBnch) | [أقفيت عني](https://open.spotify.com/album/23sa1SHSAO6y29snCLu9El) | 3:20 |
 | 13 | [عانيت](https://open.spotify.com/track/3DroenSNiI6sL5rnIllhMm) | [Abdullah Al Mukhles](https://open.spotify.com/artist/6SdRVw4NGUDFrTbWHXaUbH) | [عانيت](https://open.spotify.com/album/5lWxUg5WofsxuofnaSiXar) | 3:34 |
 | 14 | [يا أصيلة](https://open.spotify.com/track/4HqBacXw1IKtaL9eQNhJ12) | [منصور الوايلي](https://open.spotify.com/artist/6wgdTtjcI9FJnFJuJz70C4) | [يا أصيلة](https://open.spotify.com/album/5uBPZ8QDsSL3xaZ6F9Pbws) | 3:56 |
-| 15 | [أدعج عيون](https://open.spotify.com/track/2gfpyKUlTSUwmtiWj0vDW4) | [Majed Alrslani](https://open.spotify.com/artist/4TLEIkw2ZiwL796C8zJtST) | [أدعج عيون](https://open.spotify.com/album/4uEyRHNa7Zbms17CZYWulO) | 3:34 |
+| 15 | [أدعج عيون](https://open.spotify.com/track/3L0rLqS7wCn0qi7D5kgEQ0) | [ماجد الرسلاني](https://open.spotify.com/artist/1TrcFvtMbJqhog5XVABHlm) | [أدعج عيون](https://open.spotify.com/album/5cOcNb7qAXUcskBBe2tk6i) | 3:34 |
 | 16 | [Bas Wenh](https://open.spotify.com/track/50b8yDKb6RDZtaxMYN3PUe) | [Zayed Bin Saber](https://open.spotify.com/artist/0TNuRg9zAJbDy4chgGD4Cs) | [Bas Wenh](https://open.spotify.com/album/4esCyXD8PmyQ2ctfE0asUA) | 4:47 |
 | 17 | [ركبوني فوق طياره](https://open.spotify.com/track/4DLRpoNORbVCoJDyHAAkQN) | [بندر بن عوير](https://open.spotify.com/artist/3AEPOScEpyXGfeHa3scvkm) | [ركبوني فوق طياره](https://open.spotify.com/album/4z82K4NZ8c5UcZQ2Y3Izyv) | 5:14 |
 | 18 | [قوس](https://open.spotify.com/track/0rPpEWXp2XynC2CX1jyGk8) | [فهد بن فصلا](https://open.spotify.com/artist/7DSLsFX6LgWuz3bJbPNfWg) | [قوس](https://open.spotify.com/album/79xWt8UkQRMA0rM1z3BAJR) | 4:01 |
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ8jTY8g4MU.md) - [plain]
 | 37 | [لو ناوي تهجرني](https://open.spotify.com/track/3mmmTQYSWVkPKW6vDOnczU) | [Abdullah Al Mukhles](https://open.spotify.com/artist/6SdRVw4NGUDFrTbWHXaUbH) | [لو ناوي تهجرني](https://open.spotify.com/album/6Gg45Odg9uvMO0ZK9VBaAY) | 3:07 |
 | 38 | [حياة وروح](https://open.spotify.com/track/35k78NeGmBsfvnVRBri4H9) | [Fahed Bin Fasla](https://open.spotify.com/artist/2CfEAlvAtAJ7MvCQl4mptz) | [حياة وروح](https://open.spotify.com/album/0PwVtQ4mTqkXQj00Bz1S6w) | 3:15 |
 | 39 | [زينك دمار](https://open.spotify.com/track/5G9l3hXgO5ajf2LW2FUmLK) | [ماجد الرسلاني](https://open.spotify.com/artist/1TrcFvtMbJqhog5XVABHlm) | [زينك دمار](https://open.spotify.com/album/7rp8YBgnlomjYRbdRW77Wg) | 4:34 |
-| 40 | [ناس غداره](https://open.spotify.com/track/5bPtrvFUxWFIjpxvlvB7mH) | [Abdullah Al Farwan](https://open.spotify.com/artist/7zjX652bWyemXyFFVhBnch) | [ناس غداره](https://open.spotify.com/album/56uwlCTBtL3laF34jUmiOh) | 4:08 |
+| 40 | [ناس غداره](https://open.spotify.com/track/25g7LLrHMwaFFl9kfOJtwi) | [Abdullah Al Farwan](https://open.spotify.com/artist/7zjX652bWyemXyFFVhBnch) | [ناس غداره](https://open.spotify.com/album/26f39nh2u5lNJEuiSF96fx) | 4:08 |
 | 41 | [الوصل مقطوع](https://open.spotify.com/track/2fPCXvO40Yl12NPsE6xsVC) | [غريب ال مخلص](https://open.spotify.com/artist/4uiWNcw39r8x9YG4WtoQep) | [الوصل مقطوع](https://open.spotify.com/album/1ymFv5EHkfSK52jso4HnxB) | 4:39 |
 | 42 | [Wajeh Medfaa](https://open.spotify.com/track/4oF5qZ5OtPnfeLoceMmtxx) | [Mohammed Bin Grman](https://open.spotify.com/artist/5uFWoNmwcCxpZSq3RToSGr) | [Wajeh Medfaa](https://open.spotify.com/album/5iPXD7xOxkJN2HqasEAiJR) | 4:54 |
 | 43 | [ترجيتك تروف](https://open.spotify.com/track/0l2FJkdpDbobPPDbDaBNR5) | [غريب ال مخلص](https://open.spotify.com/artist/4uiWNcw39r8x9YG4WtoQep) | [ترجيتك تروف](https://open.spotify.com/album/6Q6KwCFvr6vpAx7a0Ba1gU) | 3:40 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ8jTY8g4MU.md) - [plain]
 | 51 | [Elly Tabeh](https://open.spotify.com/track/5ufm6qAEgQW5rHFHsCipnt) | [Mohammed Bin Grman](https://open.spotify.com/artist/5uFWoNmwcCxpZSq3RToSGr) | [Elly Tabeh](https://open.spotify.com/album/0VBlLnPK8yiqZi9LPMvoIF) | 2:37 |
 | 52 | [Koul Shya Weleh Nehayah](https://open.spotify.com/track/3V5UpDdPUZdGKSgaaDFKpr) | [Mohammed Bin Grman](https://open.spotify.com/artist/5uFWoNmwcCxpZSq3RToSGr) | [Koul Shya Weleh Nehayah](https://open.spotify.com/album/6YpmIaqZ9iD4gVVenm6oAE) | 3:49 |
 
-Snapshot ID: `MTY2MTk2NzcxOSwwMDAwMDAwMDI5NGE2ODY0ZGFmOWZjMzc5NjE4MWI5NzgwMTc1NzRi`
+Snapshot ID: `MTY2MTk2NzcxOSwwMDAwMDAwMDFhOWVhOGM1NDRmMjI0MTAzNGQzNWJhNjA0NTgwN2M1`

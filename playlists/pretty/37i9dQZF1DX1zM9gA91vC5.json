@@ -1,12 +1,12 @@
 {
   "description": "Concentra\u00e7\u00e3o no m\u00e1ximo, sem distra\u00e7\u00f5es.",
-  "num_followers": 210035,
+  "num_followers": 210060,
   "original_name": "Concentra\u00e7\u00e3o Perfeita",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzE0MDE1MywwMDAwMDAwMGUyMDA2NzY4YzI3YmUwNTJmZjE4YTU1Zjc5ODA3NzBm",
+  "snapshot_id": "MTY2MzE0MDE1MywwMDAwMDAwMDExOWUzODY4YzhmOGQ0ODk2MDgzM2IwMzkyOTI3M2Q3",
   "tracks": [
     {
       "added_at": "2022-09-14 07:22:32",
@@ -2175,6 +2175,22 @@
     {
       "added_at": "2022-09-14 07:22:32",
       "album": {
+        "name": "Qui n\u2019avance pas, recule",
+        "url": "https://open.spotify.com/album/5vpl1HMLV5c5bYhy4sbIhU"
+      },
+      "artists": [
+        {
+          "name": "\u00c9lise Aucoin",
+          "url": "https://open.spotify.com/artist/5cJiC80CILVJGun9PVO1mX"
+        }
+      ],
+      "duration_ms": 140500,
+      "name": "Qui n\u2019avance pas, recule",
+      "url": "https://open.spotify.com/track/1YaEv0xPN2bAKWKZiNuDb8"
+    },
+    {
+      "added_at": "2022-09-14 07:22:32",
+      "album": {
         "name": "Little Home",
         "url": "https://open.spotify.com/album/61DvnLfaBfNvoIf0dDcDsM"
       },
@@ -2203,22 +2219,6 @@
       "duration_ms": 116105,
       "name": "Dancing Fairies",
       "url": "https://open.spotify.com/track/4ZhBTKqXyEpRR6GC8bVV2z"
-    },
-    {
-      "added_at": "2022-09-14 07:22:32",
-      "album": {
-        "name": "Qui n\u2019avance pas, recule",
-        "url": "https://open.spotify.com/album/5vpl1HMLV5c5bYhy4sbIhU"
-      },
-      "artists": [
-        {
-          "name": "\u00c9lise Aucoin",
-          "url": "https://open.spotify.com/artist/5cJiC80CILVJGun9PVO1mX"
-        }
-      ],
-      "duration_ms": 140500,
-      "name": "Qui n\u2019avance pas, recule",
-      "url": "https://open.spotify.com/track/1YaEv0xPN2bAKWKZiNuDb8"
     },
     {
       "added_at": "2022-09-14 07:22:32",
@@ -2815,22 +2815,6 @@
     {
       "added_at": "2022-09-14 07:22:32",
       "album": {
-        "name": "The Changing Seasons",
-        "url": "https://open.spotify.com/album/33UnDdqWOok4v5cduSyoC6"
-      },
-      "artists": [
-        {
-          "name": "Mildred Wolf",
-          "url": "https://open.spotify.com/artist/3Pj0inogFqTDKgCC5OVTaz"
-        }
-      ],
-      "duration_ms": 133624,
-      "name": "The Changing Seasons",
-      "url": "https://open.spotify.com/track/7DjBH5a3l59agklZXozXNM"
-    },
-    {
-      "added_at": "2022-09-14 07:22:32",
-      "album": {
         "name": "Naoko",
         "url": "https://open.spotify.com/album/50eCW2CjWfy37vvKaWOoUE"
       },
@@ -2895,6 +2879,22 @@
     {
       "added_at": "2022-09-14 07:22:32",
       "album": {
+        "name": "The Changing Seasons",
+        "url": "https://open.spotify.com/album/33UnDdqWOok4v5cduSyoC6"
+      },
+      "artists": [
+        {
+          "name": "Mildred Wolf",
+          "url": "https://open.spotify.com/artist/3Pj0inogFqTDKgCC5OVTaz"
+        }
+      ],
+      "duration_ms": 133624,
+      "name": "The Changing Seasons",
+      "url": "https://open.spotify.com/track/7DjBH5a3l59agklZXozXNM"
+    },
+    {
+      "added_at": "2022-09-14 07:22:32",
+      "album": {
         "name": "Arctica",
         "url": "https://open.spotify.com/album/3BTmQFkuJ96ZlpeRNXerBd"
       },
@@ -2907,22 +2907,6 @@
       "duration_ms": 189094,
       "name": "Nomae",
       "url": "https://open.spotify.com/track/3EhHWAEZpRI78OtJEPoabw"
-    },
-    {
-      "added_at": "2022-09-14 07:22:32",
-      "album": {
-        "name": "der Saibling",
-        "url": "https://open.spotify.com/album/5qhOBNNRy0I0dcZ426mosd"
-      },
-      "artists": [
-        {
-          "name": "Rebecca Mayer",
-          "url": "https://open.spotify.com/artist/1N9hJSBYCDRgetd57dZukY"
-        }
-      ],
-      "duration_ms": 162770,
-      "name": "die letzten Schritte",
-      "url": "https://open.spotify.com/track/71UMvOQ8RDBtsBi0rj5uB3"
     },
     {
       "added_at": "2022-09-14 07:22:32",
@@ -2955,6 +2939,22 @@
       "duration_ms": 169160,
       "name": "mondaufgang",
       "url": "https://open.spotify.com/track/6iqbDeuRi4WJ3fYJc9WWGg"
+    },
+    {
+      "added_at": "2022-09-14 07:22:32",
+      "album": {
+        "name": "der Saibling",
+        "url": "https://open.spotify.com/album/5qhOBNNRy0I0dcZ426mosd"
+      },
+      "artists": [
+        {
+          "name": "Rebecca Mayer",
+          "url": "https://open.spotify.com/artist/1N9hJSBYCDRgetd57dZukY"
+        }
+      ],
+      "duration_ms": 162770,
+      "name": "die letzten Schritte",
+      "url": "https://open.spotify.com/track/71UMvOQ8RDBtsBi0rj5uB3"
     },
     {
       "added_at": "2022-09-14 07:22:32",
@@ -3219,22 +3219,6 @@
     {
       "added_at": "2022-09-14 07:22:32",
       "album": {
-        "name": "Tree Whisper",
-        "url": "https://open.spotify.com/album/6md3ncmAS84fTV1931NnTz"
-      },
-      "artists": [
-        {
-          "name": "Finley Rhone",
-          "url": "https://open.spotify.com/artist/03Usizud7onAiPocQkcK5V"
-        }
-      ],
-      "duration_ms": 205793,
-      "name": "Tree Whisper",
-      "url": "https://open.spotify.com/track/5a8V9tjazhBAIbUiFqpu8N"
-    },
-    {
-      "added_at": "2022-09-14 07:22:32",
-      "album": {
         "name": "Remind Me",
         "url": "https://open.spotify.com/album/6wyQF4XipqUU2CtqSEcezO"
       },
@@ -3247,6 +3231,22 @@
       "duration_ms": 146750,
       "name": "Remind Me",
       "url": "https://open.spotify.com/track/58SnNvrsUOD9Nj1Ox1AOwz"
+    },
+    {
+      "added_at": "2022-09-14 07:22:32",
+      "album": {
+        "name": "Tree Whisper",
+        "url": "https://open.spotify.com/album/6md3ncmAS84fTV1931NnTz"
+      },
+      "artists": [
+        {
+          "name": "Finley Rhone",
+          "url": "https://open.spotify.com/artist/03Usizud7onAiPocQkcK5V"
+        }
+      ],
+      "duration_ms": 205793,
+      "name": "Tree Whisper",
+      "url": "https://open.spotify.com/track/5a8V9tjazhBAIbUiFqpu8N"
     },
     {
       "added_at": "2022-09-14 07:22:32",
@@ -3315,6 +3315,22 @@
     {
       "added_at": "2022-09-14 07:22:32",
       "album": {
+        "name": "A Moment to Ponder",
+        "url": "https://open.spotify.com/album/2mTcWwHdIJePrAkiou8HRo"
+      },
+      "artists": [
+        {
+          "name": "Aimon Cour",
+          "url": "https://open.spotify.com/artist/3LkHg6D2NUGLLrqpnp1HTt"
+        }
+      ],
+      "duration_ms": 114505,
+      "name": "A Moment to Ponder",
+      "url": "https://open.spotify.com/track/6i3GB9JYHvYD2cH3EIDa3e"
+    },
+    {
+      "added_at": "2022-09-14 07:22:32",
+      "album": {
         "name": "Intermedanos",
         "url": "https://open.spotify.com/album/39KxecFN1USX9DDlAU8ITO"
       },
@@ -3379,22 +3395,6 @@
     {
       "added_at": "2022-09-14 07:22:32",
       "album": {
-        "name": "A Moment to Ponder",
-        "url": "https://open.spotify.com/album/2mTcWwHdIJePrAkiou8HRo"
-      },
-      "artists": [
-        {
-          "name": "Aimon Cour",
-          "url": "https://open.spotify.com/artist/3LkHg6D2NUGLLrqpnp1HTt"
-        }
-      ],
-      "duration_ms": 114505,
-      "name": "A Moment to Ponder",
-      "url": "https://open.spotify.com/track/6i3GB9JYHvYD2cH3EIDa3e"
-    },
-    {
-      "added_at": "2022-09-14 07:22:32",
-      "album": {
         "name": "For A Gentle Morning",
         "url": "https://open.spotify.com/album/61znAWhGllMzFk4NtE5LcZ"
       },
@@ -3455,6 +3455,22 @@
       "duration_ms": 126000,
       "name": "Timeless",
       "url": "https://open.spotify.com/track/2aJlNzyFDh3j6GTBSDXdXZ"
+    },
+    {
+      "added_at": "2022-09-14 07:22:32",
+      "album": {
+        "name": "As if She Were The Sun",
+        "url": "https://open.spotify.com/album/4zAI7PqqyswWjYoATzLDde"
+      },
+      "artists": [
+        {
+          "name": "Avery Hall",
+          "url": "https://open.spotify.com/artist/13iFrunlI1q3bWFisDA4k1"
+        }
+      ],
+      "duration_ms": 130252,
+      "name": "As if She Were The Sun",
+      "url": "https://open.spotify.com/track/5AhXtjD4g5KCV5A0z2jpeD"
     },
     {
       "added_at": "2022-09-14 07:22:32",
@@ -3539,22 +3555,6 @@
     {
       "added_at": "2022-09-14 07:22:32",
       "album": {
-        "name": "As if She Were The Sun",
-        "url": "https://open.spotify.com/album/4zAI7PqqyswWjYoATzLDde"
-      },
-      "artists": [
-        {
-          "name": "Avery Hall",
-          "url": "https://open.spotify.com/artist/13iFrunlI1q3bWFisDA4k1"
-        }
-      ],
-      "duration_ms": 130252,
-      "name": "As if She Were The Sun",
-      "url": "https://open.spotify.com/track/5AhXtjD4g5KCV5A0z2jpeD"
-    },
-    {
-      "added_at": "2022-09-14 07:22:32",
-      "album": {
         "name": "Four Waltz",
         "url": "https://open.spotify.com/album/64Xrn4iTMDdgRgUKBuO3Pc"
       },
@@ -3619,6 +3619,22 @@
     {
       "added_at": "2022-09-14 07:22:32",
       "album": {
+        "name": "Duomo di Milano",
+        "url": "https://open.spotify.com/album/2aKUCrS9jMnOwTVINklBpY"
+      },
+      "artists": [
+        {
+          "name": "Akiko Mina",
+          "url": "https://open.spotify.com/artist/2wqjgcSh9MHmBAYXcR1tWn"
+        }
+      ],
+      "duration_ms": 187380,
+      "name": "Duomo di Milano",
+      "url": "https://open.spotify.com/track/3mffU0czrRPDpfUeul2EcJ"
+    },
+    {
+      "added_at": "2022-09-14 07:22:32",
+      "album": {
         "name": "Estebania",
         "url": "https://open.spotify.com/album/1wNGh4oE2iPQ7CgnPrbq4K"
       },
@@ -3667,22 +3683,6 @@
     {
       "added_at": "2022-09-14 07:22:32",
       "album": {
-        "name": "Duomo di Milano",
-        "url": "https://open.spotify.com/album/2aKUCrS9jMnOwTVINklBpY"
-      },
-      "artists": [
-        {
-          "name": "Akiko Mina",
-          "url": "https://open.spotify.com/artist/2wqjgcSh9MHmBAYXcR1tWn"
-        }
-      ],
-      "duration_ms": 187380,
-      "name": "Duomo di Milano",
-      "url": "https://open.spotify.com/track/3mffU0czrRPDpfUeul2EcJ"
-    },
-    {
-      "added_at": "2022-09-14 07:22:32",
-      "album": {
         "name": "Treading Lightly",
         "url": "https://open.spotify.com/album/6yq4dA4UPNEYGRoyu1emE3"
       },
@@ -3695,6 +3695,22 @@
       "duration_ms": 149000,
       "name": "Treading Lightly",
       "url": "https://open.spotify.com/track/23ySDJ9m6BLY13Bju0t3VE"
+    },
+    {
+      "added_at": "2022-09-14 07:22:32",
+      "album": {
+        "name": "Kraal Total",
+        "url": "https://open.spotify.com/album/10TgvyPmbBmRjNA2j2w4jU"
+      },
+      "artists": [
+        {
+          "name": "Tomasz Kraal",
+          "url": "https://open.spotify.com/artist/1XJ3PChclslYOOvJ7fJRkJ"
+        }
+      ],
+      "duration_ms": 198994,
+      "name": "Vaguely Reminiscent",
+      "url": "https://open.spotify.com/track/6iK4gKiROE3gw0jfHxgBjU"
     },
     {
       "added_at": "2022-09-14 07:22:32",
@@ -3731,22 +3747,6 @@
     {
       "added_at": "2022-09-14 07:22:32",
       "album": {
-        "name": "Erinnerungen",
-        "url": "https://open.spotify.com/album/52JKRxmZf174HBImkvwN2q"
-      },
-      "artists": [
-        {
-          "name": "Agnes Klein",
-          "url": "https://open.spotify.com/artist/5ZxksGDvjeNLxyy7t4NSpV"
-        }
-      ],
-      "duration_ms": 190632,
-      "name": "Erinnerungen",
-      "url": "https://open.spotify.com/track/0mXVKfTSOA5wdLx1COKyLc"
-    },
-    {
-      "added_at": "2022-09-14 07:22:32",
-      "album": {
         "name": "Introspection",
         "url": "https://open.spotify.com/album/5tsr4nWmAOyaHtUbdODlIR"
       },
@@ -3763,18 +3763,18 @@
     {
       "added_at": "2022-09-14 07:22:32",
       "album": {
-        "name": "Kraal Total",
-        "url": "https://open.spotify.com/album/10TgvyPmbBmRjNA2j2w4jU"
+        "name": "Erinnerungen",
+        "url": "https://open.spotify.com/album/52JKRxmZf174HBImkvwN2q"
       },
       "artists": [
         {
-          "name": "Tomasz Kraal",
-          "url": "https://open.spotify.com/artist/1XJ3PChclslYOOvJ7fJRkJ"
+          "name": "Agnes Klein",
+          "url": "https://open.spotify.com/artist/5ZxksGDvjeNLxyy7t4NSpV"
         }
       ],
-      "duration_ms": 198994,
-      "name": "Vaguely Reminiscent",
-      "url": "https://open.spotify.com/track/6iK4gKiROE3gw0jfHxgBjU"
+      "duration_ms": 190632,
+      "name": "Erinnerungen",
+      "url": "https://open.spotify.com/track/0mXVKfTSOA5wdLx1COKyLc"
     },
     {
       "added_at": "2022-09-14 07:22:32",
@@ -3971,22 +3971,6 @@
     {
       "added_at": "2022-09-14 07:22:32",
       "album": {
-        "name": "Voyage m\u00e9latonine",
-        "url": "https://open.spotify.com/album/29ZPBMyCGtYyqXEwiqHj6t"
-      },
-      "artists": [
-        {
-          "name": "Jordane Tumarinson",
-          "url": "https://open.spotify.com/artist/3MmklYESte8IJHUjXEqypw"
-        }
-      ],
-      "duration_ms": 130600,
-      "name": "Voyage m\u00e9latonine",
-      "url": "https://open.spotify.com/track/1qzF59VZ86OUV11slBwY7J"
-    },
-    {
-      "added_at": "2022-09-14 07:22:32",
-      "album": {
         "name": "Refraction",
         "url": "https://open.spotify.com/album/1aGIdyXxti7seh4NwA5RNJ"
       },
@@ -3999,6 +3983,22 @@
       "duration_ms": 179500,
       "name": "Refraction",
       "url": "https://open.spotify.com/track/0fb16xi6nGQi15crUCDrw8"
+    },
+    {
+      "added_at": "2022-09-14 07:22:32",
+      "album": {
+        "name": "Voyage m\u00e9latonine",
+        "url": "https://open.spotify.com/album/29ZPBMyCGtYyqXEwiqHj6t"
+      },
+      "artists": [
+        {
+          "name": "Jordane Tumarinson",
+          "url": "https://open.spotify.com/artist/3MmklYESte8IJHUjXEqypw"
+        }
+      ],
+      "duration_ms": 130600,
+      "name": "Voyage m\u00e9latonine",
+      "url": "https://open.spotify.com/track/1qzF59VZ86OUV11slBwY7J"
     },
     {
       "added_at": "2022-09-14 07:22:32",
@@ -4195,22 +4195,6 @@
     {
       "added_at": "2022-09-14 07:22:32",
       "album": {
-        "name": "Claudia",
-        "url": "https://open.spotify.com/album/3jHGLuvTzPVEeXwjXe3HjW"
-      },
-      "artists": [
-        {
-          "name": "Robert Gafforelli",
-          "url": "https://open.spotify.com/artist/16yfPw6Pf0UdDBX05HqCa7"
-        }
-      ],
-      "duration_ms": 180500,
-      "name": "Evergreen Tree",
-      "url": "https://open.spotify.com/track/4OMvHo3qtNJ2rgo6P1LjB1"
-    },
-    {
-      "added_at": "2022-09-14 07:22:32",
-      "album": {
         "name": "Mi Nonna",
         "url": "https://open.spotify.com/album/4hlZBjpSIGW5k05RkFxDDT"
       },
@@ -4223,6 +4207,22 @@
       "duration_ms": 118974,
       "name": "Mi Nonna",
       "url": "https://open.spotify.com/track/09KFAleSLR5SDyvm55YjjH"
+    },
+    {
+      "added_at": "2022-09-14 07:22:32",
+      "album": {
+        "name": "Claudia",
+        "url": "https://open.spotify.com/album/3jHGLuvTzPVEeXwjXe3HjW"
+      },
+      "artists": [
+        {
+          "name": "Robert Gafforelli",
+          "url": "https://open.spotify.com/artist/16yfPw6Pf0UdDBX05HqCa7"
+        }
+      ],
+      "duration_ms": 180500,
+      "name": "Evergreen Tree",
+      "url": "https://open.spotify.com/track/4OMvHo3qtNJ2rgo6P1LjB1"
     },
     {
       "added_at": "2022-09-14 07:22:32",
@@ -4403,6 +4403,22 @@
     {
       "added_at": "2022-09-14 07:22:32",
       "album": {
+        "name": "Solkysst",
+        "url": "https://open.spotify.com/album/0QLhrApLnQX972jZsz8n5n"
+      },
+      "artists": [
+        {
+          "name": "Nordiska Piano",
+          "url": "https://open.spotify.com/artist/5u56NAhIzusR5Q8dfFpdtq"
+        }
+      ],
+      "duration_ms": 140500,
+      "name": "Solkysst",
+      "url": "https://open.spotify.com/track/0flcIAMaspYd4r5KIoZJ5L"
+    },
+    {
+      "added_at": "2022-09-14 07:22:32",
+      "album": {
         "name": "Morning Skyline",
         "url": "https://open.spotify.com/album/3a54uonmLjDZ9vH1TnXNvs"
       },
@@ -4451,6 +4467,22 @@
     {
       "added_at": "2022-09-14 07:22:32",
       "album": {
+        "name": "Duende",
+        "url": "https://open.spotify.com/album/35rtUQ6uZ8w6pOp0DBHtwQ"
+      },
+      "artists": [
+        {
+          "name": "Amity Fall",
+          "url": "https://open.spotify.com/artist/6cGxRgjUNOdLJ1dJby1GmS"
+        }
+      ],
+      "duration_ms": 151458,
+      "name": "Duende",
+      "url": "https://open.spotify.com/track/5EOANVSfg3dX4zE4Askrau"
+    },
+    {
+      "added_at": "2022-09-14 07:22:32",
+      "album": {
         "name": "Seconda parte",
         "url": "https://open.spotify.com/album/0N2JoDGgvu9YfhwHbj9n3x"
       },
@@ -4463,22 +4495,6 @@
       "duration_ms": 201074,
       "name": "Seconda parte",
       "url": "https://open.spotify.com/track/7mHt21QVehLVUZxDAJC9qJ"
-    },
-    {
-      "added_at": "2022-09-14 07:22:32",
-      "album": {
-        "name": "Solkysst",
-        "url": "https://open.spotify.com/album/0QLhrApLnQX972jZsz8n5n"
-      },
-      "artists": [
-        {
-          "name": "Nordiska Piano",
-          "url": "https://open.spotify.com/artist/5u56NAhIzusR5Q8dfFpdtq"
-        }
-      ],
-      "duration_ms": 140500,
-      "name": "Solkysst",
-      "url": "https://open.spotify.com/track/0flcIAMaspYd4r5KIoZJ5L"
     },
     {
       "added_at": "2022-09-14 07:22:32",
@@ -4511,22 +4527,6 @@
       "duration_ms": 166000,
       "name": "Born To Live",
       "url": "https://open.spotify.com/track/1C0RA3kpeaa5NOstlwzPCQ"
-    },
-    {
-      "added_at": "2022-09-14 07:22:32",
-      "album": {
-        "name": "Duende",
-        "url": "https://open.spotify.com/album/35rtUQ6uZ8w6pOp0DBHtwQ"
-      },
-      "artists": [
-        {
-          "name": "Amity Fall",
-          "url": "https://open.spotify.com/artist/6cGxRgjUNOdLJ1dJby1GmS"
-        }
-      ],
-      "duration_ms": 151458,
-      "name": "Duende",
-      "url": "https://open.spotify.com/track/5EOANVSfg3dX4zE4Askrau"
     },
     {
       "added_at": "2022-09-14 07:22:32",
@@ -4611,6 +4611,22 @@
     {
       "added_at": "2022-09-14 07:22:32",
       "album": {
+        "name": "Lissome",
+        "url": "https://open.spotify.com/album/1vShQpKJIzs2DiKyXUKQ5n"
+      },
+      "artists": [
+        {
+          "name": "Noemi Nucci",
+          "url": "https://open.spotify.com/artist/17yiY7Qu0dObFVUA1f0txm"
+        }
+      ],
+      "duration_ms": 128624,
+      "name": "Lissome",
+      "url": "https://open.spotify.com/track/3qU9MnwDlDHcZbhYwQ5i6L"
+    },
+    {
+      "added_at": "2022-09-14 07:22:32",
+      "album": {
         "name": "The Great Migration",
         "url": "https://open.spotify.com/album/0fqDjNTc077SL0JcMAjKvF"
       },
@@ -4639,22 +4655,6 @@
       "duration_ms": 198373,
       "name": "Zeit der Stille",
       "url": "https://open.spotify.com/track/0uP8U2GsVBIifLbVbvHRid"
-    },
-    {
-      "added_at": "2022-09-14 07:22:32",
-      "album": {
-        "name": "Lissome",
-        "url": "https://open.spotify.com/album/1vShQpKJIzs2DiKyXUKQ5n"
-      },
-      "artists": [
-        {
-          "name": "Noemi Nucci",
-          "url": "https://open.spotify.com/artist/17yiY7Qu0dObFVUA1f0txm"
-        }
-      ],
-      "duration_ms": 128624,
-      "name": "Lissome",
-      "url": "https://open.spotify.com/track/3qU9MnwDlDHcZbhYwQ5i6L"
     },
     {
       "added_at": "2022-09-14 07:22:32",

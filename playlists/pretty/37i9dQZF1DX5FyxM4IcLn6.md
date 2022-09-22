@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FyxM4IcLn6.md) - [plain]
 
 > The official playlist for the 64rd GRAMMY Awards.
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,287 likes - 81 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,285 likes - 81 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FyxM4IcLn6.md) - [plain]
 | 70 | [My Weapon](https://open.spotify.com/track/35V80RFVUSddHYuln49G04) | [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [No Stranger](https://open.spotify.com/album/4wYslUVJNf2XSXBpbTVTMk) | 4:21 |
 | 71 | [That's Life](https://open.spotify.com/track/2Wn4ZAlT5cSAdPW8xUoNwg) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [That's Life](https://open.spotify.com/album/3i0UVz6teoPDfy3JhK74Tr) | 3:39 |
 | 72 | [Native Son](https://open.spotify.com/track/2Oj2Z5hy2eJ9NTXLSBWEHG) | [Los Lobos](https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT) | [Native Sons](https://open.spotify.com/album/2AH53pDM2S1jAggLLAueAM) | 3:10 |
-| 73 | [A Little Soon To Say](https://open.spotify.com/track/3lJucYLm3t0XVhbQj3kxFX) | [Jackson Browne](https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m) | [Downhill From Everywhere](https://open.spotify.com/album/2QYXmpLyttMQahrUOxLwss) | 6:25 |
-| 74 | [Like You Love Me \(Live\)](https://open.spotify.com/track/62Qaykz4DaNtYp3Q2rgSrc) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Citizen of Heaven \(Live\)](https://open.spotify.com/album/2CSitfTkVN7AkOXKYdF4Sc) | 3:47 |
+| 73 | [Like You Love Me \(Live\)](https://open.spotify.com/track/62Qaykz4DaNtYp3Q2rgSrc) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Citizen of Heaven \(Live\)](https://open.spotify.com/album/2CSitfTkVN7AkOXKYdF4Sc) | 3:47 |
+| 74 | [A Little Soon To Say](https://open.spotify.com/track/3lJucYLm3t0XVhbQj3kxFX) | [Jackson Browne](https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m) | [Downhill From Everywhere](https://open.spotify.com/album/2QYXmpLyttMQahrUOxLwss) | 6:25 |
 | 75 | [Sassy](https://open.spotify.com/track/3BTUH65LL0kRRED0J0PaV8) | [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61), [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc) | [SuperBlue](https://open.spotify.com/album/04E4IjVnj7uruPKNLSHlpj) | 4:18 |
 | 76 | [Formwela 10](https://open.spotify.com/track/1Xc5Htlpv1zgLRkY5drs9V) | [Esperanza Spalding](https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5) | [SONGWRIGHTS APOTHECARY LAB](https://open.spotify.com/album/3x2EYKuBcxSlog5QdD1hTO) | 3:28 |
 | 77 | [Mundo Nuevo](https://open.spotify.com/track/63lmbLq8jYrEle2iG2O7hO) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Mendó](https://open.spotify.com/album/1ZkhT3Jzx0y5kcGnyq4unR) | 3:22 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FyxM4IcLn6.md) - [plain]
 | 80 | [We Swing \(The Cypher\)](https://open.spotify.com/track/4xtd1UED9e4b0bbikgWH5P) | [The Baylor Project](https://open.spotify.com/artist/3sNeruDf1WltSjJ7Jtmucp), [Jazzmeia Horn](https://open.spotify.com/artist/3sRX2AuJCF5rblkGm2wMSM), [Dianne Reeves](https://open.spotify.com/artist/7nwrblOf59ulOiB6djwPVh) | [Generations](https://open.spotify.com/album/16ap4qGPg3SNSxp2c6tthY) | 5:38 |
 | 81 | [Time Traveler](https://open.spotify.com/track/4Uf5U3hYFdeAebC2Bm8Wvj) | [Nnenna Freelon](https://open.spotify.com/artist/4WkgNR9kn136k50T4pc7RS) | [Time Traveler](https://open.spotify.com/album/6KEx3AAG8tKgtSyban6cgh) | 4:29 |
 
-Snapshot ID: `MTY0ODU5Mzc3MSwwMDAwMDAwMDAwZDA2MWY0MmM0YmM4MmJlMDI4Zjk2YTUyOWRjM2Nj`
+Snapshot ID: `MTY0ODU5Mzc3MSwwMDAwMDAwMDNiOTUxOGQ0ZThhNGFjZDk0ZGYzMjZkYzVjM2M5MzQ2`

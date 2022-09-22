@@ -4,7 +4,7 @@
 
 > iykyk
 
-581 songs - 1 day 7 hr 42 min - [published](https://open.spotify.com/playlist/4A3sS6FGGPjl0VEjsEjlzC)
+583 songs - 1 day 7 hr 47 min - [published](https://open.spotify.com/playlist/4A3sS6FGGPjl0VEjsEjlzC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -236,6 +236,7 @@
 | [Higher](https://open.spotify.com/track/2QdSb68BzZGMgCbsrFmSLc) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [For Broken Ears](https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV) | 3:16 | 2022-05-26 | 2022-06-07 |
 | [Him](https://open.spotify.com/track/7w4lnEj8VwQ0xNpl1M3I0G) | [Big Yavo](https://open.spotify.com/artist/3PGiywHOqNwJ1bv4S3fgZF) | [Like Yay](https://open.spotify.com/album/76PpFLRcZtGmV97QajJPx8) | 2:31 | 2022-04-25 | 2022-05-25 |
 | [Hit 'Em Up \- Single Version](https://open.spotify.com/track/0Z2J91b2iTGLVTZC4fKgxf) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Outlawz](https://open.spotify.com/artist/2jp3Fk52x0HbymU0lNYbSC) | [Greatest Hits](https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP) | 5:12 | 2022-02-18 | 2022-06-03 |
+| [hit you with the blick](https://open.spotify.com/track/5kglopvMfz78Ma9lBrQADJ) | [K.comedy](https://open.spotify.com/artist/2XDvmSixRojJseC5VoDRk5) | [hit you with the blick](https://open.spotify.com/album/6Wsdob9uwDQLQj9QGTVmqL) | 2:10 | 2022-09-21 |  |
 | [Home](https://open.spotify.com/track/38O3WQ0SQykunIq3cbZIFb) | [Matthew Hall](https://open.spotify.com/artist/2KEK4PfckTQZk4rvo2bgfZ) | [Home](https://open.spotify.com/album/0ISmFVrI9E1lrbKYiK3kS2) | 4:23 | 2022-04-08 | 2022-07-12 |
 | [HOME](https://open.spotify.com/track/2WnPietHTd9hrIPbZnpoHL) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [HOME](https://open.spotify.com/album/3AQ0Ynvbg6lixOuNtuw5zo) | 2:54 | 2022-03-03 | 2022-04-08 |
 | [Homixide \(feat\. Playboi Carti\)](https://open.spotify.com/track/4uu4CC1L13Q8ndvnXpud1J) | [Lil 1 DTE](https://open.spotify.com/artist/32phULWb5DHJZbHEUrtSpn), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Lil 1 DTE](https://open.spotify.com/album/5evN4fZuIY8KvbyufENWCh) | 2:37 | 2022-03-31 | 2022-04-12 |
@@ -444,6 +445,7 @@
 | [Romantic Homicide](https://open.spotify.com/track/4jonEzO6nIIBt5xPGsyOA0) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/2VOw1TVu3PduPt9LYd3eF2) | 2:12 | 2022-07-28 | 2022-09-09 |
 | [Run Away to Mars](https://open.spotify.com/track/16ufCOlMEIJkFstIYtQT4w) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [Run Away to Mars](https://open.spotify.com/album/7zqg9wqNkkdLuaHDB3LU0W) | 3:33 | 2022-08-16 | 2022-08-27 |
 | [Run Away to Mars](https://open.spotify.com/track/6G1Mz5yMgn0ydOlIvTrZ65) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [Run Away to Mars](https://open.spotify.com/album/4ks1Xkpt67UXbJamJFZ8et) | 3:33 | 2022-08-16 | 2022-09-09 |
+| [Run Boy Run](https://open.spotify.com/track/0boS4e6uXwp3zAvz1mLxZS) | [Woodkid](https://open.spotify.com/artist/44TGR1CzjKBxSHsSEy7bi9) | [The Golden Age](https://open.spotify.com/album/7oRzNo0PkoRJlvI9Eocyf2) | 3:33 | 2022-09-21 |  |
 | [RUN IT UP](https://open.spotify.com/track/6LApARUJR0Yz4nZcHRTqrr) | [Lil Bil](https://open.spotify.com/artist/4oD5y30uMyZmaGRRrfP1ru) | [RUN IT UP](https://open.spotify.com/album/4XFMdWMWEh8PLCQq7Nqzgp) | 2:31 | 2022-04-10 | 2022-04-22 |
 | [Running Up That Hill \(A Deal With God\) \- 2018 Remaster](https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds of Love \(2018 Remaster\)](https://open.spotify.com/album/3OYnManu1Nlxnw9OMng7BH) | 5:00 | 2022-05-29 | 2022-09-17 |
 | [Ruth Langmore \(If You Wanna Stop Me...\)](https://open.spotify.com/track/54cV7pqcoIUDftaczXuGKt) | [Davi Richie](https://open.spotify.com/artist/4IjrryLh4NjxN8KC6CZijI), [Anymorph](https://open.spotify.com/artist/4WBEDrp1bZE719F3a9Wz7R) | [Ruth Langmore \(If You Wanna Stop Me...\)](https://open.spotify.com/album/5M2IeqXTl3cDizfj0pWj3h) | 1:18 | 2022-04-25 | 2022-05-04 |

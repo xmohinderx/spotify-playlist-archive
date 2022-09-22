@@ -1,12 +1,12 @@
 {
   "description": "Set the mood just right...",
-  "num_followers": 1105869,
+  "num_followers": 1106592,
   "original_name": "Make Out Jams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzM0NzE5MSwwMDAwMDAwMDkxYzg5NmRiZGY1MDE3Nzk1M2Q1MDg1OTBjYjJhNTM4",
+  "snapshot_id": "MTY2MzM0NzE5MSwwMDAwMDAwMDAzZmM4M2I0MzExNzE1ODE3NDc4ZTY0NzY0NDBmOGE5",
   "tracks": [
     {
       "added_at": "2022-09-16 16:53:11",
@@ -91,8 +91,8 @@
     {
       "added_at": "2022-09-16 16:53:11",
       "album": {
-        "name": "Beauty Behind The Madness",
-        "url": "https://open.spotify.com/album/0P3oVJBFOv3TDXlYRhGL7s"
+        "name": "Starboy",
+        "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
       },
       "artists": [
         {
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
         }
       ],
-      "duration_ms": 242253,
-      "name": "The Hills",
-      "url": "https://open.spotify.com/track/7fBv7CLKzipRk6EC6TWHOB"
+      "duration_ms": 260253,
+      "name": "Die For You",
+      "url": "https://open.spotify.com/track/2Ch7LmS7r2Gy2kc64wv3Bz"
     },
     {
       "added_at": "2022-09-16 16:53:11",
@@ -175,8 +175,8 @@
     {
       "added_at": "2022-09-16 16:53:11",
       "album": {
-        "name": "Starboy",
-        "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
+        "name": "Beauty Behind The Madness",
+        "url": "https://open.spotify.com/album/0P3oVJBFOv3TDXlYRhGL7s"
       },
       "artists": [
         {
@@ -184,9 +184,9 @@
           "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
         }
       ],
-      "duration_ms": 260253,
-      "name": "Die For You",
-      "url": "https://open.spotify.com/track/2Ch7LmS7r2Gy2kc64wv3Bz"
+      "duration_ms": 242253,
+      "name": "The Hills",
+      "url": "https://open.spotify.com/track/7fBv7CLKzipRk6EC6TWHOB"
     },
     {
       "added_at": "2022-09-16 16:53:11",
@@ -403,22 +403,6 @@
     {
       "added_at": "2022-09-16 16:53:11",
       "album": {
-        "name": "RENAISSANCE",
-        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 254319,
-      "name": "PLASTIC OFF THE SOFA",
-      "url": "https://open.spotify.com/track/6ufcuVInt0ocHrUimDjGlb"
-    },
-    {
-      "added_at": "2022-09-16 16:53:11",
-      "album": {
         "name": "Mind Of Mine (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5amj9zNeZ3B2EdpBgXrOZ0"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 202746,
       "name": "PILLOWTALK",
       "url": "https://open.spotify.com/track/0PDUDa38GO8lMxLCRc4lL1"
+    },
+    {
+      "added_at": "2022-09-16 16:53:11",
+      "album": {
+        "name": "channel ORANGE",
+        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "duration_ms": 200746,
+      "name": "Thinkin Bout You",
+      "url": "https://open.spotify.com/track/7DfFc7a6Rwfi3YQMRbDMau"
     },
     {
       "added_at": "2022-09-16 16:53:11",
@@ -455,18 +455,18 @@
     {
       "added_at": "2022-09-16 16:53:11",
       "album": {
-        "name": "channel ORANGE",
-        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
+        "name": "RENAISSANCE",
+        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
       },
       "artists": [
         {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
         }
       ],
-      "duration_ms": 200746,
-      "name": "Thinkin Bout You",
-      "url": "https://open.spotify.com/track/7DfFc7a6Rwfi3YQMRbDMau"
+      "duration_ms": 254319,
+      "name": "PLASTIC OFF THE SOFA",
+      "url": "https://open.spotify.com/track/6ufcuVInt0ocHrUimDjGlb"
     },
     {
       "added_at": "2022-09-16 16:53:11",
@@ -643,22 +643,6 @@
     {
       "added_at": "2022-09-16 16:53:11",
       "album": {
-        "name": "Not Around",
-        "url": "https://open.spotify.com/album/1Sj2R7Zu0mYAPf5oCEnl2P"
-      },
-      "artists": [
-        {
-          "name": "Nova",
-          "url": "https://open.spotify.com/artist/3J2OSq7G34UlfnNB6YuZCF"
-        }
-      ],
-      "duration_ms": 183920,
-      "name": "Not Around",
-      "url": "https://open.spotify.com/track/1Adhz5VVDZxhojOLfQQUxa"
-    },
-    {
-      "added_at": "2022-09-16 16:53:11",
-      "album": {
         "name": "Happier Than Ever",
         "url": "https://open.spotify.com/album/6EOyWmHnLJptnyjB8xrYT5"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 109325,
       "name": "Happier Than Ever",
       "url": "https://open.spotify.com/track/7es56D0QedGMsK39wl2yFX"
+    },
+    {
+      "added_at": "2022-09-16 16:53:11",
+      "album": {
+        "name": "Not Around",
+        "url": "https://open.spotify.com/album/1Sj2R7Zu0mYAPf5oCEnl2P"
+      },
+      "artists": [
+        {
+          "name": "Nova",
+          "url": "https://open.spotify.com/artist/3J2OSq7G34UlfnNB6YuZCF"
+        }
+      ],
+      "duration_ms": 183920,
+      "name": "Not Around",
+      "url": "https://open.spotify.com/track/1Adhz5VVDZxhojOLfQQUxa"
     },
     {
       "added_at": "2022-09-16 16:53:11",
@@ -743,22 +743,6 @@
     {
       "added_at": "2022-09-16 16:53:11",
       "album": {
-        "name": "sex money feelings die (slowed version)",
-        "url": "https://open.spotify.com/album/7bL1fTsGeOyxv29BNVtMb1"
-      },
-      "artists": [
-        {
-          "name": "Lykke Li",
-          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
-        }
-      ],
-      "duration_ms": 168810,
-      "name": "sex money feelings die - slowed version",
-      "url": "https://open.spotify.com/track/0dkvbYmXYEPK7gGMdytmfI"
-    },
-    {
-      "added_at": "2022-09-16 16:53:11",
-      "album": {
         "name": "Daddy Issues (Remix) feat. Syd",
         "url": "https://open.spotify.com/album/6vdbDPGQbJMCHyZhz9z6GS"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 181186,
       "name": "Daddy Issues (Remix) feat. Syd",
       "url": "https://open.spotify.com/track/5Q6fh8OEhBYepJaORz9lxe"
+    },
+    {
+      "added_at": "2022-09-16 16:53:11",
+      "album": {
+        "name": "sex money feelings die (slowed version)",
+        "url": "https://open.spotify.com/album/7bL1fTsGeOyxv29BNVtMb1"
+      },
+      "artists": [
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "duration_ms": 168810,
+      "name": "sex money feelings die - slowed version",
+      "url": "https://open.spotify.com/track/0dkvbYmXYEPK7gGMdytmfI"
     },
     {
       "added_at": "2022-09-16 16:53:11",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2022-09-16 16:53:11",
       "album": {
+        "name": "JAMIE",
+        "url": "https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "And i'd go a thousand miles",
+      "url": "https://open.spotify.com/track/4XAAxqgd94HLvDQWc0EkDa"
+    },
+    {
+      "added_at": "2022-09-16 16:53:11",
+      "album": {
         "name": "Habit",
         "url": "https://open.spotify.com/album/2vIIWsslRiFHiHPWFTsdaE"
       },
@@ -1323,22 +1339,6 @@
       "duration_ms": 193667,
       "name": "What If I Told You That I Love You",
       "url": "https://open.spotify.com/track/6USdi8uX5GNAPYziFhisHb"
-    },
-    {
-      "added_at": "2022-09-16 16:53:11",
-      "album": {
-        "name": "JAMIE",
-        "url": "https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "And i'd go a thousand miles",
-      "url": "https://open.spotify.com/track/4XAAxqgd94HLvDQWc0EkDa"
     },
     {
       "added_at": "2022-09-16 16:53:11",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2022-09-16 16:53:11",
       "album": {
+        "name": "Ivory",
+        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 165320,
+      "name": "Killing Me",
+      "url": "https://open.spotify.com/track/5BhK8Mho223YLPQOLfzWNP"
+    },
+    {
+      "added_at": "2022-09-16 16:53:11",
+      "album": {
         "name": "Mystery Lady (feat. Don Toliver)",
         "url": "https://open.spotify.com/album/3iJYwx4U2xHyDi7BRjskIJ"
       },
@@ -1515,22 +1531,6 @@
       "duration_ms": 228453,
       "name": "Mystery Lady (feat. Don Toliver)",
       "url": "https://open.spotify.com/track/2Ee9amLUslOwgoJWZEpSSD"
-    },
-    {
-      "added_at": "2022-09-16 16:53:11",
-      "album": {
-        "name": "Ivory",
-        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 165320,
-      "name": "Killing Me",
-      "url": "https://open.spotify.com/track/5BhK8Mho223YLPQOLfzWNP"
     },
     {
       "added_at": "2022-09-16 16:53:11",
@@ -1583,26 +1583,6 @@
     {
       "added_at": "2022-09-16 16:53:11",
       "album": {
-        "name": "WHO HURT YOU?",
-        "url": "https://open.spotify.com/album/5KOqAAM9SMO0LLbT5apaur"
-      },
-      "artists": [
-        {
-          "name": "Ali Gatie",
-          "url": "https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 216194,
-      "name": "The Look (feat. Kehlani)",
-      "url": "https://open.spotify.com/track/3POcBJvOCO5Xeov9F3cpgh"
-    },
-    {
-      "added_at": "2022-09-16 16:53:11",
-      "album": {
         "name": "Texas Moon",
         "url": "https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu"
       },
@@ -1619,6 +1599,26 @@
       "duration_ms": 190433,
       "name": "Chocolate Hills",
       "url": "https://open.spotify.com/track/1EUOby36hEzSkTVVKRAWQP"
+    },
+    {
+      "added_at": "2022-09-16 16:53:11",
+      "album": {
+        "name": "WHO HURT YOU?",
+        "url": "https://open.spotify.com/album/5KOqAAM9SMO0LLbT5apaur"
+      },
+      "artists": [
+        {
+          "name": "Ali Gatie",
+          "url": "https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 216194,
+      "name": "The Look (feat. Kehlani)",
+      "url": "https://open.spotify.com/track/3POcBJvOCO5Xeov9F3cpgh"
     },
     {
       "added_at": "2022-09-16 16:53:11",
@@ -1643,6 +1643,22 @@
     {
       "added_at": "2022-09-16 16:53:11",
       "album": {
+        "name": "Sunbeam",
+        "url": "https://open.spotify.com/album/0bfXZQxSJElGATQnCvFSMc"
+      },
+      "artists": [
+        {
+          "name": "Alina Baraz",
+          "url": "https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1"
+        }
+      ],
+      "duration_ms": 135346,
+      "name": "If You Let Me",
+      "url": "https://open.spotify.com/track/4gEQcoKNoLFLyhory3Y5Zr"
+    },
+    {
+      "added_at": "2022-09-16 16:53:11",
+      "album": {
         "name": "Revival (Deluxe)",
         "url": "https://open.spotify.com/album/7lDBDk8OQarV5dBMu3qrdz"
       },
@@ -1659,22 +1675,6 @@
       "duration_ms": 221280,
       "name": "Good For You",
       "url": "https://open.spotify.com/track/578Eooad7oUyn4stovZiPg"
-    },
-    {
-      "added_at": "2022-09-16 16:53:11",
-      "album": {
-        "name": "Sunbeam",
-        "url": "https://open.spotify.com/album/0bfXZQxSJElGATQnCvFSMc"
-      },
-      "artists": [
-        {
-          "name": "Alina Baraz",
-          "url": "https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1"
-        }
-      ],
-      "duration_ms": 135346,
-      "name": "If You Let Me",
-      "url": "https://open.spotify.com/track/4gEQcoKNoLFLyhory3Y5Zr"
     },
     {
       "added_at": "2022-09-16 16:53:11",
@@ -1727,26 +1727,6 @@
     {
       "added_at": "2022-09-16 16:53:11",
       "album": {
-        "name": "Honey",
-        "url": "https://open.spotify.com/album/67b4tJxbnsJbbcTUjnlb3y"
-      },
-      "artists": [
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        },
-        {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
-        }
-      ],
-      "duration_ms": 141757,
-      "name": "Honey (with Muni Long)",
-      "url": "https://open.spotify.com/track/5C93HMg6JWdTey2P717Ozq"
-    },
-    {
-      "added_at": "2022-09-16 16:53:11",
-      "album": {
         "name": "Stupid Hours",
         "url": "https://open.spotify.com/album/2SAYtYY5yjQD9bi6Nq4Vne"
       },
@@ -1763,6 +1743,26 @@
       "duration_ms": 178635,
       "name": "One In A Million",
       "url": "https://open.spotify.com/track/6m6Xew8uyUBkVqQ0EbJNSN"
+    },
+    {
+      "added_at": "2022-09-16 16:53:11",
+      "album": {
+        "name": "Honey",
+        "url": "https://open.spotify.com/album/67b4tJxbnsJbbcTUjnlb3y"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        },
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "duration_ms": 141757,
+      "name": "Honey (with Muni Long)",
+      "url": "https://open.spotify.com/track/5C93HMg6JWdTey2P717Ozq"
     }
   ],
   "unique_name": "Make Out Jams",

@@ -4,7 +4,7 @@
 
 > Slacker jams\. Cover: Eyedress
 
-314 songs - 16 hr 49 min - [published](https://open.spotify.com/playlist/3DFRzyGUurZxuvxmPOrIHy)
+315 songs - 16 hr 55 min - [published](https://open.spotify.com/playlist/3DFRzyGUurZxuvxmPOrIHy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [4th of july](https://open.spotify.com/track/1jRhmp69z3clRhNjev6P6f) | [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [4th of july](https://open.spotify.com/album/45YbP2VEW69SUjcm27JV6O) | 2:56 | 2021-02-06 | 2022-07-25 |
 | [4th of july](https://open.spotify.com/track/5U4u97LnLFFTKBAf9MaOdH) | [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [dirt](https://open.spotify.com/album/1cnrZ3t6GI4S6JIiiEkVuB) | 2:56 | 2022-03-30 |  |
 | [5AM Empanada with You](https://open.spotify.com/track/0UQF9Z1szgyxbMjfJGqdKb) | [Bubble Tea and Cigarettes](https://open.spotify.com/artist/2UMeX51X1prCFgi51RHo9P) | [5AM Empanada with You](https://open.spotify.com/album/3i52R3QnIBb4knh1CZf3n6) | 5:41 | 2022-03-30 | 2022-09-06 |
+| [5AM Empanada with You](https://open.spotify.com/track/5zotLA21Q8MnILdUxBEPRM) | [Bubble Tea and Cigarettes](https://open.spotify.com/artist/2UMeX51X1prCFgi51RHo9P) | [There's Nothing But Pleasure](https://open.spotify.com/album/4tP6s2K0QHvzuC960rQ1Dc) | 5:41 | 2022-09-13 |  |
 | [5AM Empanada with You](https://open.spotify.com/track/6VA0hZ5i0fd7XbU1ULk8Pq) | [Bubble Tea and Cigarettes](https://open.spotify.com/artist/2UMeX51X1prCFgi51RHo9P) | [5AM Empanada with You](https://open.spotify.com/album/0HdMW1dYo3cUDv2sWjqrfg) | 5:41 | 2022-02-03 | 2022-07-29 |
 | [A Sad Song About a Girl I No Longer Know](https://open.spotify.com/track/78TzliRJJhCgsZ0ARUm8vI) | [Bedside Kites](https://open.spotify.com/artist/5zKinanOH8komuiAx6fmvL) | [Bedside Kites](https://open.spotify.com/album/49LaVq4xveyPNmLU165QRi) | 5:28 | 2022-03-30 |  |
 | [a single butterfly floating in the breeze](https://open.spotify.com/track/4uRBoLMKUMzpbY8uqxn73a) | [AOI](https://open.spotify.com/artist/3GI4ib0hz1mAxLVdrQldsZ), [homieunculus](https://open.spotify.com/artist/2NCbESF6hLETOpmvwwiaqz) | [a single butterfly floating in the breeze](https://open.spotify.com/album/7dZbPztaaasraH6mKHgI6j) | 3:00 | 2021-09-26 | 2022-09-21 |
@@ -300,7 +301,7 @@
 | [Velvet Tears](https://open.spotify.com/track/4IAFUCNXBdf4Ft3Ud81aLb) | [Mollie Coddled](https://open.spotify.com/artist/6lWMJ1gvO93kPnIN9UnLQQ) | [The Halo Effect](https://open.spotify.com/album/6hHVag0noqfPsmv1Tg3a8I) | 3:27 | 2020-12-11 | 2022-06-17 |
 | [Visual Diaries](https://open.spotify.com/track/1MWTRbFDIiO5m8IIZPcTdb) | [Hause Plants](https://open.spotify.com/artist/7ciUlbAc461mRvHx3YmIYk) | [Film For Color Photos EP](https://open.spotify.com/album/6cRdUTiv3KHhslNedxgnZf) | 3:23 | 2021-09-06 | 2022-04-20 |
 | [Warm Body](https://open.spotify.com/track/4aLqmvZMituDRmbcNqcLAn) | [Molly Payton](https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N) | [Warm Body](https://open.spotify.com/album/6pDgawO92Slg1Id9nwZPPN) | 3:19 | 2020-10-27\* | 2021-01-12 |
-| [Warning Sign](https://open.spotify.com/track/4pXjVzQUhOQQmuYSGBiyx6) | [Far Caspian](https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4), [SOMOH](https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3) | [Warning Sign](https://open.spotify.com/album/7fTpIdQssHGQ1RfkCze3kq) | 2:52 | 2020-11-12 |  |
+| [Warning Sign](https://open.spotify.com/track/4pXjVzQUhOQQmuYSGBiyx6) | [Far Caspian](https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4), [SOMOH](https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3) | [Warning Sign](https://open.spotify.com/album/7fTpIdQssHGQ1RfkCze3kq) | 2:52 | 2020-11-12 | 2022-09-22 |
 | [Warning Sign \- Alt Version](https://open.spotify.com/track/1rIols5fQBAIwsCuN4kFXG) | [Far Caspian](https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4), [SOMOH](https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3) | [Warning Sign \(Alt Version\)](https://open.spotify.com/album/622AyvYosXOdxnbW2CprMx) | 2:59 | 2021-03-06 |  |
 | [Ways to Go](https://open.spotify.com/track/3AgXxc21ikmEhPZT3dcoQE) | [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [Ways to Go](https://open.spotify.com/album/095aG2k7hsvjQevGuvtl0G) | 2:07 | 2020-10-27\* |  |
 | [we fell in love in october](https://open.spotify.com/track/1BYZxKSf0aTxp8ZFoeyM3d) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [we fell in love in october / forget her](https://open.spotify.com/album/4oRcMHsdNG9IAF3xwv1kWu) | 3:04 | 2021-04-29 |  |

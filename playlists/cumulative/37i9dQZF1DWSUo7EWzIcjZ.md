@@ -4,7 +4,7 @@
 
 > ¡Merengue de los 80 y 90! Portada: Johnny Ventura
 
-318 songs - 23 hr 32 min - [published](https://open.spotify.com/playlist/183mhwZXE4Kk3Wza9Sli0B)
+319 songs - 23 hr 36 min - [published](https://open.spotify.com/playlist/183mhwZXE4Kk3Wza9Sli0B)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [A Usted Lo Botan](https://open.spotify.com/track/3QAIfuTqnJ1UiEq2TJHLqG) | [Pochy Y Su Cocoband](https://open.spotify.com/artist/5AWKC0rd625VHM69d7X2tu) | [El Arrollador](https://open.spotify.com/album/2JWLAvJiDRdUJfrr2Xhfju) | 4:17 | 2021-02-02 |  |
 | [Abusadora](https://open.spotify.com/track/5mCvkhkAvwNnUsIt2PN9Al) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [Serie 2000](https://open.spotify.com/album/7DZr03Gh34452PtpkVRc5m) | 4:09 | 2021-02-02 | 2022-09-13 |
 | [Adolescente](https://open.spotify.com/track/5KqK2s5ZYMLFFNXjJSNgCc) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [20 Aniversario, Vol\. 2](https://open.spotify.com/album/02KQw70TLIeWFvInj3h4Ac) | 4:24 | 2021-02-02 | 2022-07-29 |
-| [Adolescente Tu](https://open.spotify.com/track/4SYDVdaVe7JoGP9eh1wewN) | [Monchy Capricho](https://open.spotify.com/artist/0R8lrNHlo9m4xovk3wbBua) | [Ineditos](https://open.spotify.com/album/4KgURbQPHQi1qOn2tY9Ra1) | 4:54 | 2021-02-02 | 2022-09-17 |
+| [Adolescente Tu](https://open.spotify.com/track/4SYDVdaVe7JoGP9eh1wewN) | [Monchy Capricho](https://open.spotify.com/artist/0R8lrNHlo9m4xovk3wbBua) | [Ineditos](https://open.spotify.com/album/4KgURbQPHQi1qOn2tY9Ra1) | 4:54 | 2021-02-02 |  |
 | [Alegria](https://open.spotify.com/track/51VCeHkyRAaY8wUbsU66Ix) | [Toño Rosario](https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy) | [Lo Mejor De...Toño Rosario](https://open.spotify.com/album/475agtJk3uN4dSg38QKx5t) | 5:22 | 2021-02-02 | 2022-07-29 |
 | [Alza Tu Copa](https://open.spotify.com/track/1ut8r7VkR4KxauGzNHOLd5) | [Benny Sadel](https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq) | [Exitos Inolvidables de Benny Sadel](https://open.spotify.com/album/0Hefxkwhqkvx6Q61hzZkmM) | 3:40 | 2021-02-02 | 2022-07-29 |
 | [Amaneciendo](https://open.spotify.com/track/3mxl5Y9skPEFKdnQWYcmOF) | [Fernando Villalona](https://open.spotify.com/artist/4391zvuuIvVziLtsvq13Cu) | [El Gran Mayimbe](https://open.spotify.com/album/3YcXVczErplYfnXgiNNCjg) | 4:14 | 2021-02-02 |  |
@@ -150,6 +150,7 @@
 | [La Luna Coqueta](https://open.spotify.com/track/4PkUiS4H2ztG0mXSc5Tvhs) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [20 Aniversario, Vol\. 2](https://open.spotify.com/album/02KQw70TLIeWFvInj3h4Ac) | 3:50 | 2021-02-02 | 2022-07-26 |
 | [La Nave Del Olvido](https://open.spotify.com/track/7KCj9ZAENKI71pJvF2bfnU) | [Fernando Villalona](https://open.spotify.com/artist/4391zvuuIvVziLtsvq13Cu) | [100% Merengue '99](https://open.spotify.com/album/5oytlALvjjbQFuM6G7i4MZ) | 4:45 | 2021-02-02 | 2022-07-26 |
 | [La Primera Piedra](https://open.spotify.com/track/5yIkrvLKrR9Kbiu4LHQEkZ) | [Toño Rosario](https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy) | [Grandes Exitos \- Cinco Años De Platino](https://open.spotify.com/album/2hBybBr6RihTTziFEbwKQf) | 5:39 | 2021-02-02 | 2022-07-29 |
+| [La Queria](https://open.spotify.com/track/2YtajvxAkEk3CK13BttMpH) | [Carlos Manuel "El Zafiro"](https://open.spotify.com/artist/5zM14iWL8V9nYTO6sflOIU) | [Grandes Éxitos del Merengue](https://open.spotify.com/album/2it3cLHN4d6EH2lFVI4z6a) | 4:23 | 2021-02-02 |  |
 | [La Quiero A Morir](https://open.spotify.com/track/5T8m5vKbSLzIGExvjQnLy7) | [Sergio Vargas](https://open.spotify.com/artist/0fkL7ipHa3XqB871G3umlm) | [Merengue Clasico](https://open.spotify.com/album/0KJXmOvUFmrx1w97cVrWP1) | 5:05 | 2021-02-02 |  |
 | [La Quiero a Morir / Si Algun Dia la Vez](https://open.spotify.com/track/5bpQBpeGQ0vRYs5JTGqR1t) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Tropicalísimo, Vol\. 1](https://open.spotify.com/album/6YJACTu0d3sPog520aE0Xx) | 6:34 | 2021-02-02 | 2022-07-28 |
 | [La Quiero a Morir / Si Algún Día la Vez](https://open.spotify.com/track/3VGAirMC7nJnhReTDiDv8d) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Historia de Éxitos, Vol\. 1](https://open.spotify.com/album/0hV81HgF4pm6dcN22gLiHQ) | 6:33 | 2021-02-02 |  |
@@ -171,7 +172,7 @@
 | [Las Pequeñas Cosas](https://open.spotify.com/track/4WmyxRCAt8ACSADnwfvpHe) | [Las Chicas Del Can](https://open.spotify.com/artist/1RxWCfxCbHSq2lpVMUK1xE) | [Somos Candela](https://open.spotify.com/album/6kzOzFURqkbWcHC0mBp95w) | 4:03 | 2021-02-02 | 2022-07-25 |
 | [Las Pequeñas Cosas](https://open.spotify.com/track/6MypssMci5a9t9LeiURhAl) | [Las Chicas Del Can](https://open.spotify.com/artist/1RxWCfxCbHSq2lpVMUK1xE) | [Chicán](https://open.spotify.com/album/2XALHgxpUEsjYyIONx1ruW) | 4:05 | 2021-02-02 |  |
 | [Llego Tu Marido](https://open.spotify.com/track/2vHdz2ZLgw4Xj17WBlzERL) | [Los Toros Band](https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA) | [20 Exitos](https://open.spotify.com/album/6SW9ZiQmj0CY6GxMfHE47w) | 5:04 | 2021-02-02 |  |
-| [Lo Que Mas Queria](https://open.spotify.com/track/7yqAnJxzmpFWPR6zIMbfE7) | [El Zafiro](https://open.spotify.com/artist/6PucQLslaiTOWJpCLPRLkL) | [Antologia del Merengue](https://open.spotify.com/album/5cQNAWN11hosq6e8uO6UGT) | 4:25 | 2021-02-02 |  |
+| [Lo Que Mas Queria](https://open.spotify.com/track/7yqAnJxzmpFWPR6zIMbfE7) | [El Zafiro](https://open.spotify.com/artist/6PucQLslaiTOWJpCLPRLkL) | [Antologia del Merengue](https://open.spotify.com/album/5cQNAWN11hosq6e8uO6UGT) | 4:25 | 2021-02-02 | 2022-09-22 |
 | [Lo Que Mas Quería](https://open.spotify.com/track/5owjrItInEpNGHrROUV9LQ) | [Carlos Manuel 'El Zafiro'](https://open.spotify.com/artist/4zonLJKAX1W7yrQZcGxRqo) | [Merengues Clásicos de los 80´s, Vol\. 2](https://open.spotify.com/album/4bqLEMteQgRgtms9cXiIIE) | 4:23 | 2021-02-02 | 2022-07-24 |
 | [Locamente Enamorado](https://open.spotify.com/track/77lij4KlT9qORwjpMe3FHE) | [Rubby Perez](https://open.spotify.com/artist/0hrEx5826hgRBMESGY9wXC) | [Noches Latinas](https://open.spotify.com/album/78mFtQUxBPYxrb2p2LNc0d) | 4:24 | 2021-02-02 |  |
 | [Los Caminos De La Vida](https://open.spotify.com/track/0sapw9idh1PKHHShgx2EjF) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [Me Equivoque](https://open.spotify.com/album/4zXyOR4Y3Bas2anvleiOGZ) | 5:00 | 2021-02-02 | 2022-07-29 |
@@ -291,7 +292,7 @@
 | [Todo Es Para Ti](https://open.spotify.com/track/6lrWqDn3NKNnmhVn9ifjoX) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [Los Años Dorados](https://open.spotify.com/album/53Rot2HgYDSmHDMFlZ8C52) | 4:13 | 2021-02-02 | 2022-07-29 |
 | [Todo Me Gusta de Ti](https://open.spotify.com/track/09Wgcneih4GUzxHaiHVDm6) | [Jerry Legrand](https://open.spotify.com/artist/1vyqQqgMTDy9MNbtcMToQe) | [Exitos](https://open.spotify.com/album/22Vw3nBWbkB7i45HAbsvya) | 4:28 | 2021-02-02 | 2022-07-29 |
 | [Todo Me Gusta de Ti](https://open.spotify.com/track/6yplI5s12Y8oaJYFaPRdAq) | [Jerry Legrand](https://open.spotify.com/artist/1vyqQqgMTDy9MNbtcMToQe) | [Éxitos](https://open.spotify.com/album/2C6hgkhy5dfcLlMENGzeAP) | 4:28 | 2021-02-02 |  |
-| [Tu Belleza](https://open.spotify.com/track/4roKlRZk5enTut8zILUw32) | [Fausto Rey](https://open.spotify.com/artist/6hwJaYuNBFuZNnSWsyeSJO) | [Antologia del Merengue](https://open.spotify.com/album/5cQNAWN11hosq6e8uO6UGT) | 3:39 | 2021-02-02 |  |
+| [Tu Belleza](https://open.spotify.com/track/4roKlRZk5enTut8zILUw32) | [Fausto Rey](https://open.spotify.com/artist/6hwJaYuNBFuZNnSWsyeSJO) | [Antologia del Merengue](https://open.spotify.com/album/5cQNAWN11hosq6e8uO6UGT) | 3:39 | 2021-02-02 | 2022-09-22 |
 | [Tu Belleza](https://open.spotify.com/track/0Et633xHaxneTVD3O5WYlH) | [Fausto Rey](https://open.spotify.com/artist/6hwJaYuNBFuZNnSWsyeSJO) | [Merengues Clásicos de los 80's, Vol\. 1](https://open.spotify.com/album/5SRHSfSyLm4FakDOHeneYI) | 3:39 | 2021-02-02 | 2022-07-28 |
 | [Tu Eres Mi Embra](https://open.spotify.com/track/7xaIDbXG8PpotUv7ym2V2N) | [Monchy Capricho](https://open.spotify.com/artist/0R8lrNHlo9m4xovk3wbBua) | [Capricho](https://open.spotify.com/album/6rByF9R6prjXdNFwawHP3q) | 4:49 | 2021-02-02 |  |
 | [Tu Eres Mi Hembra](https://open.spotify.com/track/4eHIBgC7bpDHt5FEX9VusR) | [Monchy Capricho](https://open.spotify.com/artist/0R8lrNHlo9m4xovk3wbBua) | [Ineditos](https://open.spotify.com/album/4KgURbQPHQi1qOn2tY9Ra1) | 4:49 | 2021-02-02 | 2022-07-23 |

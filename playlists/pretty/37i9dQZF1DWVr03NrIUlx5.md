@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVr03NrIUlx5.md) - [plain]
 
 > 8 bit bangers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,433 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,494 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,9 +57,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVr03NrIUlx5.md) - [plain]
 | 47 | [Last Resort](https://open.spotify.com/track/6yV0Vy0tLOsjtqHEzKPGcA) | [Super Power Club](https://open.spotify.com/artist/5vGR79cM4EqZxXgvcExy7f) | [Super Power Club: 8\-Bit Tribute to Modern Rock Hits](https://open.spotify.com/album/18WSrQcRdR0z4qrTUJOpQd) | 3:06 |
 | 48 | [Daddy \(8 Bit Version\)](https://open.spotify.com/track/1Ufv5r4wrDzQp4axftrIbD) | [Benjamin Schroeder](https://open.spotify.com/artist/2MLypapYfbqYI5sfyVRdky), [N/A](https://open.spotify.com/artist/4oPYazJJ1o4rWBrTw9lm40) | [8 Bit Joyride](https://open.spotify.com/album/6nBRHZwQ97d5UgRzhNLqxV) | 3:50 |
 | 49 | [Clean \(8 Bit Version\)](https://open.spotify.com/track/1q5UT5EGiDE0lwyI5RHSXm) | [8 Bit Dynasty](https://open.spotify.com/artist/77CnzDPRTX7EYB1YMsO2NE), [N/A](https://open.spotify.com/artist/4oPYazJJ1o4rWBrTw9lm40) | [8 Bit Dynasty](https://open.spotify.com/album/5OqBkQMrWzGEYFE6fhjrhJ) | 4:30 |
-| 50 | [It's My Life](https://open.spotify.com/track/6UjUvXX0IG3FjtB6hO1a3m) | [Chiptune Radio](https://open.spotify.com/artist/6HWfXh9ErTOP7mSk7kxnf0) | [8\-bit tribute to Bon Jovi](https://open.spotify.com/album/2v8qBUr8Xh8cK5pnitp4nJ) | 3:44 |
+| 50 | [Sober](https://open.spotify.com/track/2P9Idjw8OrxTsrRumFD7Wr) | [Chiptune Radio](https://open.spotify.com/artist/6HWfXh9ErTOP7mSk7kxnf0) | [8\-bit tribute to Tool](https://open.spotify.com/album/3Px6zGCbKvclLCv6pIh6yw) | 4:52 |
 | 51 | [Eye of the Tiger](https://open.spotify.com/track/0Y7fpN664mIaoUqEBpMCDm) | [Super Power Club](https://open.spotify.com/artist/5vGR79cM4EqZxXgvcExy7f) | [8\-Bit 80's](https://open.spotify.com/album/3lzOTH8UFrfDFPyXDGV3nF) | 3:17 |
-| 52 | [Sober](https://open.spotify.com/track/2P9Idjw8OrxTsrRumFD7Wr) | [Chiptune Radio](https://open.spotify.com/artist/6HWfXh9ErTOP7mSk7kxnf0) | [8\-bit tribute to Tool](https://open.spotify.com/album/3Px6zGCbKvclLCv6pIh6yw) | 4:52 |
+| 52 | [It's My Life](https://open.spotify.com/track/6UjUvXX0IG3FjtB6hO1a3m) | [Chiptune Radio](https://open.spotify.com/artist/6HWfXh9ErTOP7mSk7kxnf0) | [8\-bit tribute to Bon Jovi](https://open.spotify.com/album/2v8qBUr8Xh8cK5pnitp4nJ) | 3:44 |
 | 53 | [I Know Places \(8 Bit Version\)](https://open.spotify.com/track/4nVQjFjD0Sjnpl4tDwmxUI) | [8 Bit Dynasty](https://open.spotify.com/artist/77CnzDPRTX7EYB1YMsO2NE), [N/A](https://open.spotify.com/artist/4oPYazJJ1o4rWBrTw9lm40) | [8 Bit Dynasty](https://open.spotify.com/album/5OqBkQMrWzGEYFE6fhjrhJ) | 3:14 |
 | 54 | [How Deep Is Your Love \(8 Bit\)](https://open.spotify.com/track/0EZ6rMtLbOvhLjNpJkcglh) | [Benjamin Schroeder](https://open.spotify.com/artist/2MLypapYfbqYI5sfyVRdky) | [Dreaming In 8 Bit](https://open.spotify.com/album/4yuqVZdbsyZrMnXRwqI0oW) | 3:26 |
 | 55 | [Demons](https://open.spotify.com/track/2Esyeuk3y1T15Y5vFYvOm4) | [8\-Bit Misfits](https://open.spotify.com/artist/1NT2ol2lqyRSUzU4m129Ic) | [8\-Bit Versions of Imagine Dragons](https://open.spotify.com/album/1svHcsZLcTHOqdif40fGAs) | 3:00 |
@@ -87,11 +87,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVr03NrIUlx5.md) - [plain]
 | 77 | [Hotel California \- 8\-Bit Version](https://open.spotify.com/track/72EfHwcUwdfELjCKhYMc1x) | [8 Bit Universe](https://open.spotify.com/artist/6Qhv32NzYnQ4YijXdJXTLs) | [8\-Bit Universe, Vol\. 23](https://open.spotify.com/album/7tFFu7sCxQixFjMzLqoqyf) | 6:29 |
 | 78 | [Heathens](https://open.spotify.com/track/5Q3oWfRpID64IA9auc4NMS) | [8\-Bit Misfits](https://open.spotify.com/artist/1NT2ol2lqyRSUzU4m129Ic) | [8\-Bit Versions of Twenty One Pilots](https://open.spotify.com/album/1bBLH23v2BFQejyWAXQXOX) | 3:17 |
 | 79 | [The Middle](https://open.spotify.com/track/0pFGdDDLk8cTDJnFzzqhaV) | [Super Power Club](https://open.spotify.com/artist/5vGR79cM4EqZxXgvcExy7f) | [Super Power Club: 8\-Bit Tribute to Modern Rock Hits](https://open.spotify.com/album/18WSrQcRdR0z4qrTUJOpQd) | 2:36 |
-| 80 | [The Trooper](https://open.spotify.com/track/1FbtRuEVW4lG4sm2dOMsvl) | [8\-Bit Misfits](https://open.spotify.com/artist/1NT2ol2lqyRSUzU4m129Ic) | [8\-Bit Versions of Iron Maiden](https://open.spotify.com/album/6xPPlEtcuwC6NlCWIxIk6V) | 3:44 |
-| 81 | [Smooth Criminal](https://open.spotify.com/track/6K2SIairc1P84oICLGS3Wc) | [Super Power Club](https://open.spotify.com/artist/5vGR79cM4EqZxXgvcExy7f) | [8\-Bit 80's](https://open.spotify.com/album/3lzOTH8UFrfDFPyXDGV3nF) | 3:01 |
+| 80 | [Smooth Criminal](https://open.spotify.com/track/6K2SIairc1P84oICLGS3Wc) | [Super Power Club](https://open.spotify.com/artist/5vGR79cM4EqZxXgvcExy7f) | [8\-Bit 80's](https://open.spotify.com/album/3lzOTH8UFrfDFPyXDGV3nF) | 3:01 |
+| 81 | [The Trooper](https://open.spotify.com/track/1FbtRuEVW4lG4sm2dOMsvl) | [8\-Bit Misfits](https://open.spotify.com/artist/1NT2ol2lqyRSUzU4m129Ic) | [8\-Bit Versions of Iron Maiden](https://open.spotify.com/album/6xPPlEtcuwC6NlCWIxIk6V) | 3:44 |
 | 82 | [You Spin Me Round \(Like a Record\)](https://open.spotify.com/track/6DLGE2fdn41jFc6Jc6fBYy) | [8\-Bit Misfits](https://open.spotify.com/artist/1NT2ol2lqyRSUzU4m129Ic) | [8\-Bit New Wave](https://open.spotify.com/album/5vcKx1EX0K3GgaRzX6ADl4) | 3:17 |
-| 83 | [Bad Guy \(8 Bit Version\)](https://open.spotify.com/track/70OF84RkZcbbFFG1OOc3uR) | [8 Bit Universe](https://open.spotify.com/artist/6Qhv32NzYnQ4YijXdJXTLs) | [Covered in 8 Bits](https://open.spotify.com/album/4p17oi4kgKSwOEdAKReA0p) | 3:13 |
-| 84 | [One](https://open.spotify.com/track/7dt3M5XtCreAQzRRIMZFNZ) | [8\-Bit Misfits](https://open.spotify.com/artist/1NT2ol2lqyRSUzU4m129Ic) | [8\-Bit Versions of Metallica](https://open.spotify.com/album/5YgOotRzagZR9gCiHaXD9S) | 4:32 |
+| 83 | [One](https://open.spotify.com/track/7dt3M5XtCreAQzRRIMZFNZ) | [8\-Bit Misfits](https://open.spotify.com/artist/1NT2ol2lqyRSUzU4m129Ic) | [8\-Bit Versions of Metallica](https://open.spotify.com/album/5YgOotRzagZR9gCiHaXD9S) | 4:32 |
+| 84 | [Bad Guy \(8 Bit Version\)](https://open.spotify.com/track/70OF84RkZcbbFFG1OOc3uR) | [8 Bit Universe](https://open.spotify.com/artist/6Qhv32NzYnQ4YijXdJXTLs) | [Covered in 8 Bits](https://open.spotify.com/album/4p17oi4kgKSwOEdAKReA0p) | 3:13 |
 | 85 | [Snow \(Hey Oh\)](https://open.spotify.com/track/41SA5xHK3B3LI0f6bj9tyR) | [Super Power Club](https://open.spotify.com/artist/5vGR79cM4EqZxXgvcExy7f) | [Super Power Club: 8\-Bit Tribute to Modern Rock Hits](https://open.spotify.com/album/18WSrQcRdR0z4qrTUJOpQd) | 4:10 |
 | 86 | [One Step Closer](https://open.spotify.com/track/5imPtbEYGMDQpccdgpmJYa) | [8\-Bit Misfits](https://open.spotify.com/artist/1NT2ol2lqyRSUzU4m129Ic) | [8\-Bit Versions of Linkin Park](https://open.spotify.com/album/6W3SvNdAMTZxqQhuKhyhEe) | 2:42 |
 | 87 | [Toxicity \(8\-Bit System Of A Down Emulation\)](https://open.spotify.com/track/78stY6565a5LgCpTvnhxl2) | [8\-Bit Arcade](https://open.spotify.com/artist/21VBNkZvKxrI9zmfFRxXvn) | [Rock & Metal Anthems](https://open.spotify.com/album/7cVF5QegUiL7AP2e06WXOf) | 3:26 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVr03NrIUlx5.md) - [plain]
 | 96 | [Enjoy the Silence](https://open.spotify.com/track/74mbMt5h9srEgEl0pXrpJU) | [8\-Bit Misfits](https://open.spotify.com/artist/1NT2ol2lqyRSUzU4m129Ic) | [8\-Bit Versions of Depeche Mode](https://open.spotify.com/album/0V43sy9cb2Q8HQroLLD1wV) | 4:15 |
 | 97 | [The Pretender](https://open.spotify.com/track/7MeDTvoJD6Y0pWQN7QW6h8) | [8\-Bit Misfits](https://open.spotify.com/artist/1NT2ol2lqyRSUzU4m129Ic) | [8\-Bit Versions of Foo Fighters](https://open.spotify.com/album/0xqMK3ABTSXj5q8JMmG5g7) | 4:32 |
 | 98 | [Ride](https://open.spotify.com/track/2mShI8sSU4twIQi2nC3gep) | [8\-Bit Misfits](https://open.spotify.com/artist/1NT2ol2lqyRSUzU4m129Ic) | [8\-Bit Versions of Twenty One Pilots](https://open.spotify.com/album/1bBLH23v2BFQejyWAXQXOX) | 3:44 |
-| 99 | [Panda](https://open.spotify.com/track/2lEHrAA8Z7MXlb6jrT7Rw6) | [Chiptune Radio](https://open.spotify.com/artist/6HWfXh9ErTOP7mSk7kxnf0) | [8\-bit Hits of 2016, Vol\. 3](https://open.spotify.com/album/2aaVa6hLwcvn2MjVLLIHPR) | 4:02 |
-| 100 | [Rock with You \(8 Bit Version\)](https://open.spotify.com/track/13XP68ZC0dKslwcO1t4Pnm) | [8 Bit Universe](https://open.spotify.com/artist/6Qhv32NzYnQ4YijXdJXTLs) | [The 8 Bit Mix Tape](https://open.spotify.com/album/6ocA2f6IzrcMSJuEX6q3Yd) | 3:18 |
+| 99 | [Rock with You \(8 Bit Version\)](https://open.spotify.com/track/13XP68ZC0dKslwcO1t4Pnm) | [8 Bit Universe](https://open.spotify.com/artist/6Qhv32NzYnQ4YijXdJXTLs) | [The 8 Bit Mix Tape](https://open.spotify.com/album/6ocA2f6IzrcMSJuEX6q3Yd) | 3:18 |
+| 100 | [Shake It Off \- 8\-Bit Version](https://open.spotify.com/track/6SGKOA0LzHTtZBue2RfaqF) | [8 Bit Universe](https://open.spotify.com/artist/6Qhv32NzYnQ4YijXdJXTLs) | [8\-Bit Universe, Vol\. 14](https://open.spotify.com/album/39cvCh6jfHDGfkrOAS1aOM) | 3:37 |
 
-Snapshot ID: `MTY1ODUwMjQyMCwwMDAwMDAwMGFkMTkyOGY5M2I2ODdmZjYxZDY4YjYyNGY3MjQ1MTBh`
+Snapshot ID: `MTY1ODUwMjQyMCwwMDAwMDAwMDkxYTQzNThkOTQ0NWY1NjhlZWE4YmUxN2MzZTVkZTQ5`

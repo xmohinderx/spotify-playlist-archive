@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Switzerland.
 
-1,225 songs - 2 day 16 hr 36 min - [published](https://open.spotify.com/playlist/0LDYGa1V5zOxLgjfmqgruH)
+1,226 songs - 2 day 16 hr 38 min - [published](https://open.spotify.com/playlist/0LDYGa1V5zOxLgjfmqgruH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,6 +200,7 @@
 | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp) | 3:59 | 2022-09-03 |  |
 | [Can I Get It](https://open.spotify.com/track/6w8ZPYdnGajyfPddTWdthN) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:30 | 2021-11-21 | 2021-12-03 |
 | [Can't Hold Us \(feat\. Ray Dalton\)](https://open.spotify.com/track/22skzmqfdWrjJylampe0kt) | [Macklemore & Ryan Lewis](https://open.spotify.com/artist/5BcAKTbp20cv7tC5VqPFoC), [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [Ryan Lewis](https://open.spotify.com/artist/4myTppRgh0rojLxx8RycOp), [Ray Dalton](https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13) | [The Heist](https://open.spotify.com/album/5QWHes9ODwn42DHTifGkXd) | 4:18 | 2022-01-01 | 2022-09-21 |
+| [Can't Stop](https://open.spotify.com/track/41VzOdcWn8EsXsSMXz6Hja) | [Matthew Schultz](https://open.spotify.com/artist/2Sd3zmzvPHUeBp7jWxIGfP) | [Can't Stop](https://open.spotify.com/album/7z7pDXWv00dKyR963ImQRw) | 2:22 | 2022-09-21 |  |
 | [Canada Goose](https://open.spotify.com/track/6CL9ip2mMQzm8atRzahP5F) | [Samra](https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0) | [Canada Goose](https://open.spotify.com/album/6kQAvGYxQuYtFwuaqUUkDc) | 3:19 | 2021-11-07 | 2021-11-12 |
 | [Car's Outside](https://open.spotify.com/track/0otRX6Z89qKkHkQ9OqJpKt) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [YOU](https://open.spotify.com/album/0cm9LOQUBK3JUgyoRj238z) | 4:08 | 2022-08-15 | 2022-08-17 |
 | [Casablanca \(feat\. RAF Camora\)](https://open.spotify.com/track/4FOnYirKRbe6guJsosnHSL) | [HoodBlaq](https://open.spotify.com/artist/1Wic7dyEeEpQXDBbDf6HKm), [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L) | [BE.ELA.QU](https://open.spotify.com/album/2IDccHxRQbAUasNWxc4tmm) | 2:56 | 2022-07-30 | 2022-08-01 |
@@ -1102,7 +1103,7 @@
 | [TOUT VA BIEN \(feat\. Ninho & Naps\)](https://open.spotify.com/track/6OZwia8loN0aPS0vTvsBjR) | [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx) | [QUARTIERS NORD](https://open.spotify.com/album/4EGHU1v3qmjchplaPqRWBC) | 3:12 | 2022-05-21 | 2022-08-21 |
 | [Toxic](https://open.spotify.com/track/2gQPv5jvVPqU2a9HhMNO1v) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Toxic](https://open.spotify.com/album/4cmu24lnj0NI8lHG6vra6h) | 2:48 | 2021-11-03 | 2022-03-02 |
 | [Tranova](https://open.spotify.com/track/0LT8JOx0FxzQnZ7zhTKD84) | [Ardian Bujupi](https://open.spotify.com/artist/0pOruKWwgyqSLZhn4Xovs9) | [Tranova](https://open.spotify.com/album/5soKdCzymaz2fL3xFGparT) | 2:26 | 2022-04-02 | 2022-04-04 |
-| [True](https://open.spotify.com/track/47H26TwwZ6SCcU1CF2aRYn) | [Mahir Baj](https://open.spotify.com/artist/1MvUrlhjVKkdCQdDqRoYgA) | [4AM](https://open.spotify.com/album/3RphX1drnlADazsWfpobjv) | 2:18 | 2022-09-20 |  |
+| [True](https://open.spotify.com/track/47H26TwwZ6SCcU1CF2aRYn) | [Mahir Baj](https://open.spotify.com/artist/1MvUrlhjVKkdCQdDqRoYgA) | [4AM](https://open.spotify.com/album/3RphX1drnlADazsWfpobjv) | 2:18 | 2022-09-20 | 2022-09-22 |
 | [True Love](https://open.spotify.com/track/06JvOZ39sK8D8SqiqfaxDU) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [True Love](https://open.spotify.com/album/1YA0gAfV91LkDq1DODSCbc) | 2:28 | 2022-05-28 | 2022-06-12 |
 | [TSU](https://open.spotify.com/track/4s7QLoImIwmPi9L6dq1nVW) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 5:08 | 2021-09-05 | 2021-09-10 |
 | [Tu nicht so](https://open.spotify.com/track/4rs0jr2tC1Qg32Fm7zfdsT) | [badmómzjay](https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h) | [Tu nicht so](https://open.spotify.com/album/6wZhcPgWo89HVZqzOd6my9) | 2:34 | 2021-05-23 | 2021-05-24 |

@@ -974,28 +974,6 @@
     },
     {
       "album": {
-        "name": "What You Waiting For",
-        "url": "https://open.spotify.com/album/0GPaKzASwZiS68S5IkshKC"
-      },
-      "artists": [
-        {
-          "name": "R.Tee",
-          "url": "https://open.spotify.com/artist/0dfMk1lwRlX5Zmg2KHjwjN"
-        },
-        {
-          "name": "Anda",
-          "url": "https://open.spotify.com/artist/2PZt7SATrAxsNG60Mqkan4"
-        }
-      ],
-      "date_added": "2022-09-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 174041,
-      "name": "What You Waiting For",
-      "url": "https://open.spotify.com/track/0zWDxMqxq7bGDmZEl7Cye8"
-    },
-    {
-      "album": {
         "name": "Wild Card",
         "url": "https://open.spotify.com/album/1BnTIze8TO8ZT9J7tulrbf"
       },
@@ -1033,6 +1011,28 @@
       "duration_ms": 502969,
       "name": "Your Mind",
       "url": "https://open.spotify.com/track/1WsHKAuN9vDthcmimdqqaY"
+    },
+    {
+      "album": {
+        "name": "\ubb58 \uae30\ub2e4\ub9ac\uace0 \uc788\uc5b4 (What You Waiting For)",
+        "url": "https://open.spotify.com/album/0GPaKzASwZiS68S5IkshKC"
+      },
+      "artists": [
+        {
+          "name": "R.Tee",
+          "url": "https://open.spotify.com/artist/0dfMk1lwRlX5Zmg2KHjwjN"
+        },
+        {
+          "name": "Anda",
+          "url": "https://open.spotify.com/artist/2PZt7SATrAxsNG60Mqkan4"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174041,
+      "name": "\ubb58 \uae30\ub2e4\ub9ac\uace0 \uc788\uc5b4 (What You Waiting For)",
+      "url": "https://open.spotify.com/track/0zWDxMqxq7bGDmZEl7Cye8"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWWVmXpVB8Wtg"

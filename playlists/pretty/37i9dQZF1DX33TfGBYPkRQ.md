@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33TfGBYPkRQ.md) - [plain]
 
 > That feeling of being punched in the gut by a song.
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,477 likes - 100 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,558 likes - 100 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33TfGBYPkRQ.md) - [plain]
 | 84 | [Your Love is Killing Me](https://open.spotify.com/track/4H8o2Xd10sJSgAUugTGrWw) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Are We There](https://open.spotify.com/album/6EQWzHbd3EYO8J4EAIJst4) | 6:18 |
 | 85 | [A Case Of You](https://open.spotify.com/track/6tNrUI6H15kqWBff0HcEZr) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Enough Thunder](https://open.spotify.com/album/4Ss3RK7115gnEY66i7C5dG) | 2:57 |
 | 86 | [Riding For The Feeling](https://open.spotify.com/track/6qo9HElLHUptcwpVprsS4C) | [Bill Callahan](https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr) | [Apocalypse](https://open.spotify.com/album/13VVtuvboNAaPFcKsQsjLP) | 6:05 |
-| 87 | [Historians](https://open.spotify.com/track/6OYOfYGfaAe8A9T1lhC13b) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Historian](https://open.spotify.com/album/0LqhbUfmHsxovfSirhEIGu) | 3:56 |
-| 88 | [It's A Motherfucker](https://open.spotify.com/track/7KFcK6EDxAl0HrFoFhTsuC) | [Eels](https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl) | [Daisies Of The Galaxy](https://open.spotify.com/album/1myZZzfBVfMo7t4yvgAXte) | 2:11 |
+| 87 | [It's A Motherfucker](https://open.spotify.com/track/7KFcK6EDxAl0HrFoFhTsuC) | [Eels](https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl) | [Daisies Of The Galaxy](https://open.spotify.com/album/1myZZzfBVfMo7t4yvgAXte) | 2:11 |
+| 88 | [Historians](https://open.spotify.com/track/6OYOfYGfaAe8A9T1lhC13b) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Historian](https://open.spotify.com/album/0LqhbUfmHsxovfSirhEIGu) | 3:56 |
 | 89 | [Comfort](https://open.spotify.com/track/2xG8KBQ5oxjpprQ5IXhXNw) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Crushing](https://open.spotify.com/album/4u3aIyQbywYaxgF7TcXuIu) | 3:07 |
 | 90 | [placeholder](https://open.spotify.com/track/0p0BfeqMWoToqbPVzXxAIZ) | [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [placeholder](https://open.spotify.com/album/5MByQp3pFETiRZxcwnZsZz) | 3:50 |
 | 91 | [Keep Me in Your Heart](https://open.spotify.com/track/1fRv46UIwPMVNZGMZR6ymI) | [The Wailin' Jennys](https://open.spotify.com/artist/331QVEZKK1yz5KhYiR2pBj) | [Fifteen](https://open.spotify.com/album/119HRNCY7xfA3R218gtspV) | 3:37 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33TfGBYPkRQ.md) - [plain]
 | 95 | [The Pieces Don't Fit Anymore](https://open.spotify.com/track/05muUAppQeMnnVxH8lVsw9) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [Undiscovered](https://open.spotify.com/album/00QEcKEqSmwP8odEMImIuz) | 4:15 |
 | 96 | [She Went Quietly](https://open.spotify.com/track/57YSZBFJIHvWa7TusTx6Nx) | [Charlie Winston](https://open.spotify.com/artist/7xQTON6uj7akAGzlanUzy3) | [Running Still](https://open.spotify.com/album/4R1Y35ZyPOxcvoOD1bAE1U) | 3:59 |
 | 97 | [One Last Wedding](https://open.spotify.com/track/5QQ7uBiclcWSecFk1IQr27) | [Thad Kopec](https://open.spotify.com/artist/3o1tKzbhMLOZzGlkeLz3No) | [One Last Wedding](https://open.spotify.com/album/5h76Hfvi71bYGnAiSJdgbF) | 3:42 |
-| 98 | [Fireworks \- Recorded at Spotify Studios Stockholm](https://open.spotify.com/track/0tiQwGcxR0W5E7jLqbK3iA) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Spotify Singles](https://open.spotify.com/album/4DyuXP04lvFmYh01L94WH2) | 4:37 |
-| 99 | [Basket Case](https://open.spotify.com/track/7AXUdQmZMA5u221iv6gB0m) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [Kaleidoscope Heart](https://open.spotify.com/album/627ukPRwYxyBREHxBq0vGJ) | 4:11 |
+| 98 | [Basket Case](https://open.spotify.com/track/7AXUdQmZMA5u221iv6gB0m) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [Kaleidoscope Heart](https://open.spotify.com/album/627ukPRwYxyBREHxBq0vGJ) | 4:11 |
+| 99 | [Fireworks \- Recorded at Spotify Studios Stockholm](https://open.spotify.com/track/0tiQwGcxR0W5E7jLqbK3iA) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Spotify Singles](https://open.spotify.com/album/4DyuXP04lvFmYh01L94WH2) | 4:37 |
 | 100 | [No Need To Argue](https://open.spotify.com/track/6bMtHFNzq1PU6HD7h8SUkd) | [Hannah Georgas](https://open.spotify.com/artist/1ZBR8sri8ddYowXDENBwKS), [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [No Need To Argue](https://open.spotify.com/album/7gQuPkANfJX8bHWJypWDlX) | 3:13 |
 
-Snapshot ID: `MTYxOTgwMzc4NywwMDAwMDAwMDViNmVmNDk4NGQzYzdiYTFmZmZhNWNlZjE2MWRiMmNh`
+Snapshot ID: `MTYxOTgwMzc4NywwMDAwMDAwMDJlZDgzMzE0NzRhMmE0ZDllNDA4MGY1NGZjYzY5YmYw`

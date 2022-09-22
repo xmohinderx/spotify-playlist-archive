@@ -4,7 +4,7 @@
 
 > Funky & groovy tunes for poolside chilling.
 
-168 songs - 9 hr 58 min - [published](https://open.spotify.com/playlist/578neCDuWLyeGQpOdBBB8u)
+169 songs - 10 hr 2 min - [published](https://open.spotify.com/playlist/578neCDuWLyeGQpOdBBB8u)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,7 +173,8 @@
 | [Vida Delicia \- Edit](https://open.spotify.com/track/1LI47sRJcBDz1s91wpbAsf) | [Menesix](https://open.spotify.com/artist/4g6OmxrDFvrYD0PS9Ki0fQ), [Iara \(BR\)](https://open.spotify.com/artist/1nbBC07aGOuB6e6jlhqWSv) | [Jungle Trip \(Edit Versions\)](https://open.spotify.com/album/1MJMWMX98kLbXSoIZKxrCg) | 3:31 | 2022-09-09 |  |
 | [Warrior](https://open.spotify.com/track/5CBCtk5EZfdz7X1Eb6xK1u) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [Renaissance](https://open.spotify.com/album/0cFJfTwmx4KOM9zEy9i2nB) | 2:47 | 2022-09-09 |  |
 | [Water](https://open.spotify.com/track/2rd14gIDd5AKvY0p0lEIo1) | [Tim Atlas](https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH) | [QUOTA](https://open.spotify.com/album/1mZph3gZln4JRUoARWWRJW) | 3:29 | 2022-09-09 |  |
-| [Waterfall \- TOKiMONSTA Remix](https://open.spotify.com/track/6mFlyvOviPhIS0K0QLCpVp) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Waterfall \(TOKiMONSTA Remix\)](https://open.spotify.com/album/0LasfQHi6wcoxdVVTNTCIG) | 3:45 | 2022-09-09 |  |
+| [Waterfall \- TOKiMONSTA Remix](https://open.spotify.com/track/6mFlyvOviPhIS0K0QLCpVp) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Waterfall \(TOKiMONSTA Remix\)](https://open.spotify.com/album/0LasfQHi6wcoxdVVTNTCIG) | 3:45 | 2022-09-09 | 2022-09-22 |
+| [Waterfall \- TOKiMONSTA Remix](https://open.spotify.com/track/7rxDQ5tgnJ4T6gJL1HyoZ1) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Waterfall](https://open.spotify.com/album/2f1wxCMX4KoS2DwTeagrNO) | 3:45 | 2022-09-15 |  |
 | [What Do You Say \(Move It Baby\)](https://open.spotify.com/track/1Yd7meWF4xNR13vys5IpUh) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [PJ](https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb) | [A Beautiful Revolution \(Pt 1\)](https://open.spotify.com/album/1ox4vPb5vQvWwATPX8RTZh) | 4:02 | 2022-09-09 |  |
 | [ZBRA](https://open.spotify.com/track/3qdXAF9oso5YlFm1imEGV6) | [Nikitch](https://open.spotify.com/artist/7H9Yrb2KoVErAUw0S0UVvv), [Kuna Maze](https://open.spotify.com/artist/62vXfDbVL0oQEbYd6yP0oj) | [Débuts](https://open.spotify.com/album/05tLWcrTEgOThINtKQAMhi) | 4:34 | 2022-09-09 |  |
 

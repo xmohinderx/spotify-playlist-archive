@@ -2,9 +2,9 @@
 
 ### [v o K a l](https://open.spotify.com/playlist/37i9dQZF1DX8eqay1FtdMm)
 
-> Meet Korea's representative eardrum boyfriend & girlfriend vocals\. \(Cover: KIM JAE HWAN\(김재환\)\) \(한국을 대표하는 고막남친 & 고막여친 보컬들을 만나보세요.\)
+> Meet Korea's representative eardrum boyfriend & girlfriend vocals\. \(Cover: Lim Sa Rang\(임사랑\)\) \(한국을 대표하는 고막남친 & 고막여친 보컬들을 만나보세요.\)
 
-337 songs - 22 hr 7 min - [published](https://open.spotify.com/playlist/2BbJAyiww6XGkUOKjIhd3r)
+338 songs - 22 hr 11 min - [published](https://open.spotify.com/playlist/2BbJAyiww6XGkUOKjIhd3r)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Autumn Night](https://open.spotify.com/track/05f49QdY08agCPBn5ihwt2) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [50 X HALF](https://open.spotify.com/album/6Gb67WVk3hjMcQ6WhQmuRK) | 3:04 | 2022-03-24 | 2022-04-20 |
 | [AWay](https://open.spotify.com/track/6kDjvnLPUyDn0GVc6BLG6A) | [JEONG EUN JI](https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92) | [Simple](https://open.spotify.com/album/3UM9M1xTkqU6Df6Cciui5J) | 3:20 | 2022-02-10 | 2022-05-02 |
 | [Back In Time \(The Moon during the Day X K.will\)](https://open.spotify.com/track/5rGMxvUu4su0Vg3BaV9BGe) | [K.Will](https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t) | [Back In Time \(The Moon during the Day X K.will\)](https://open.spotify.com/album/76XdJaCbVbGzUv2JyEmn0x) | 3:45 | 2021-12-20 |  |
-| [BACK THEN](https://open.spotify.com/track/7pJ7IYCWw89lzU67cExZTv) | [KIM JAE HWAN](https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb) | [Empty Dream](https://open.spotify.com/album/4p7PYX4KE5tzPO5MLaZkFK) | 3:40 | 2022-09-05 |  |
+| [BACK THEN](https://open.spotify.com/track/7pJ7IYCWw89lzU67cExZTv) | [KIM JAE HWAN](https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb) | [Empty Dream](https://open.spotify.com/album/4p7PYX4KE5tzPO5MLaZkFK) | 3:40 | 2022-09-05 | 2022-09-22 |
 | [Bad Influence](https://open.spotify.com/track/5IfWm7ztpJW3Up9pTLAAUc) | [Bernard Park](https://open.spotify.com/artist/53Yqe3arWNbYQCw4kk1Qmv) | [Bad Influence](https://open.spotify.com/album/64UpaMQNLdwF1JD0JDaWor) | 2:40 | 2022-03-24 |  |
 | [Beauty\(2021\)](https://open.spotify.com/track/2aY3oOlqP2IfFeyLL2Xjyu) | [Boramiyu](https://open.spotify.com/artist/4CWuEFVuRfUm7LrGmMBMrN) | [Beauty\(2021\)](https://open.spotify.com/album/2POm3VpxdpC8NyZ5qpC5G8) | 3:41 | 2022-01-21 | 2022-04-14 |
 | [Because I am a woman](https://open.spotify.com/track/0lsnhrK331ObO8FyyvN2iU) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [Because I am a woman](https://open.spotify.com/album/6hf7ETkQLEIW5rKkCks9Bl) | 4:00 | 2021-12-20 |  |
@@ -89,7 +89,7 @@
 | [FINE](https://open.spotify.com/track/2FfqCAm7SlGd0pWc23ovCO) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys), [SOYOU](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb) | [FINE](https://open.spotify.com/album/0C4FHIxRJjcvVEUhKq99X5) | 3:05 | 2022-02-10 | 2022-07-29 |
 | [FiNE!](https://open.spotify.com/track/0uXc6bgGKOHi861XBgbuQ1) | [HA:TFELT](https://open.spotify.com/artist/3Mrp5B6JdfoiObgY0WR8lF) | [LEFT](https://open.spotify.com/album/5wQND7CP9pnNPW3QA2ODos) | 3:11 | 2022-04-20 | 2022-04-28 |
 | [First Line](https://open.spotify.com/track/1frranq2uyiOn5RObEG9g9) | [Shin Yong Jae](https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR) | [Dear](https://open.spotify.com/album/7yDjc5x9LlccQIxNgDnqi6) | 4:00 | 2021-12-20 | 2022-07-29 |
-| [First Line](https://open.spotify.com/track/2jyX7hcIU3N4DY1n9EKIab) | [Shin Yong Jae](https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR) | [Dear](https://open.spotify.com/album/2UKLUzxg6b2A1vZJfuf63p) | 4:00 | 2022-09-06 |  |
+| [First Line](https://open.spotify.com/track/2jyX7hcIU3N4DY1n9EKIab) | [Shin Yong Jae](https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR) | [Dear](https://open.spotify.com/album/2UKLUzxg6b2A1vZJfuf63p) | 4:00 | 2022-09-06 | 2022-09-22 |
 | [Fixed On You](https://open.spotify.com/track/4ySfsrGG2VLMEllTC1QYfI) | [Kim Bum Soo](https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt) | [Fixed On You \(new.MAKE20 \#10\)](https://open.spotify.com/album/15mV5InakorxEr5yjFHs5e) | 4:23 | 2021-12-20 | 2022-07-29 |
 | [Flower \(With Kim Minseok of Melomance\)](https://open.spotify.com/track/0XPoeyS0UQWK24qajGTaBy) | [Park Bom](https://open.spotify.com/artist/3uHb6dRazmcaT15bMexUtt), [Kim MinSeok](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [Flower](https://open.spotify.com/album/1oWFYxp5k7nPlsdwNpmtxa) | 4:35 | 2022-03-11 |  |
 | [Flower Way \(Prod\. By ZICO\)](https://open.spotify.com/track/1dOD5F2hX5TBtKdQlEseR7) | [KIMSEJEONG](https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu) | [Jelly box Flower Way SEJEONG](https://open.spotify.com/album/32dL7nyPowMbiu8QFrAkIM) | 3:59 | 2022-07-25 |  |
@@ -298,7 +298,7 @@
 | [Walk With Me](https://open.spotify.com/track/71awe49SI4ZCz4JYChmSV0) | [Youngjae](https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ) | [Walk With Me](https://open.spotify.com/album/3E4D5ojNyym9TEc9uTlwAd) | 4:06 | 2022-03-24 | 2022-07-22 |
 | [Walking Slowly](https://open.spotify.com/track/2zahaztD28KVpM84zFoeQ9) | [Shin Yong Jae](https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR) | [Faith OST](https://open.spotify.com/album/0uFJieT8zGkryWddYK7Vkd) | 4:27 | 2022-04-01 | 2022-04-19 |
 | [Way](https://open.spotify.com/track/5jQRsJZzu8jicHgC3wgiY5) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo), [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) | [Way \- SM STATION](https://open.spotify.com/album/5Pq73EZamFkp9SQpI6Zw7Y) | 3:58 | 2021-12-20 |  |
-| [We Are Broken Up](https://open.spotify.com/track/5B2Ly3nOWf6MCb5yRxBX9O) | [Lim Sa Rang](https://open.spotify.com/artist/5fRgaatTAoOJk24oK86Bjo) | [We Are Broken Up](https://open.spotify.com/album/4N43CJ7mRyOu38sw4f4ioh) | 3:27 | 2022-08-18 | 2022-09-06 |
+| [We Are Broken Up](https://open.spotify.com/track/5B2Ly3nOWf6MCb5yRxBX9O) | [Lim Sa Rang](https://open.spotify.com/artist/5fRgaatTAoOJk24oK86Bjo) | [We Are Broken Up](https://open.spotify.com/album/4N43CJ7mRyOu38sw4f4ioh) | 3:27 | 2022-08-18 |  |
 | [We Should've Been Friends](https://open.spotify.com/track/6UHNQXx91lUEULQty8XgJR) | [HYNN](https://open.spotify.com/artist/64jfAecBriamQmMs0WAKtj) | [We Should've Been Friends](https://open.spotify.com/album/1hV0jEXi9ZEtwSoUkv1wgv) | 4:31 | 2022-04-21 | 2022-06-28 |
 | [When I look at you](https://open.spotify.com/track/5jQbDUv1BDClbgVaAW8T1U) | [Park Boram](https://open.spotify.com/artist/6tvrEIVX5eKJlipdzt11wi) | [When I look at you](https://open.spotify.com/album/1Lewh4YU2QMpV9dKtlnIys) | 3:09 | 2022-08-18 |  |
 | [When I was Into You](https://open.spotify.com/track/4hLFSM2k7gX7pBZuIM3CHW) | [ZISU](https://open.spotify.com/artist/3zNBTnNYtztKwdB5uYApom) | [When I was Into You](https://open.spotify.com/album/0AdlXPc0vo43GEMz9i4QIE) | 2:59 | 2022-07-04 | 2022-07-14 |
@@ -340,6 +340,7 @@
 | [배웅](https://open.spotify.com/track/01U1Qm1lGhiwOi0zzFLjUr) | [Motte](https://open.spotify.com/artist/4bh77HBBwCekmEPcbXAljy) | [My Strange Hero Pt\. 7 \(Original Television Soundtrack\)](https://open.spotify.com/album/1J0DyNr0dvnv8ZCeaxLPow) | 3:27 | 2022-01-27 | 2022-04-16 |
 | [빌려줄게](https://open.spotify.com/track/0uAW2Jb7ZjI5xUzaC0fhqT) | [Shin Yong Jae](https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR) | [EMPATHY](https://open.spotify.com/album/0qZUGtDGH0QjnqXD1zvQym) | 3:32 | 2021-12-20 | 2022-07-29 |
 | [사랑을 알게 해주는 너](https://open.spotify.com/track/6gGDtuzP69eYTIek33nQtN) | [Woo Yi Kyung](https://open.spotify.com/artist/2cxVq9Bv0QGLHBuk59LpZY) | [사랑을 알게 해주는 너](https://open.spotify.com/album/4XkuX2msqeOSWeilOMuj7C) | 3:02 | 2022-07-04 | 2022-07-23 |
+| [아버지 사진](https://open.spotify.com/track/1cG3HzvpUVegXwpEG9pYG7) | [Lim Jae Bum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [Seven,\(세븐 콤마\) <기억을 정리하며...>](https://open.spotify.com/album/6BKm7oswqYqeshbi9bpBwL) | 4:19 | 2022-09-21 |  |
 | [여행자](https://open.spotify.com/track/1uN6oKBP57ZtfOULIiYrir) | [Lim Jae Bum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [Seven, <집을 나서며...>](https://open.spotify.com/album/7DbmjsRXzvRuw5wDRSiOAy) | 4:02 | 2022-08-03 |  |
 | [우주의 전설](https://open.spotify.com/track/6ABWK6E3RDzCJS7X8wdvIP) | [Lim Jae Bum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [Seven,\(세븐 콤마\) <빛을 따라서...>](https://open.spotify.com/album/7lqABGolJepJu86N1WRo9T) | 3:58 | 2022-08-12 |  |
 | [잊어버리지마 Don't Forget \(feat\. 태연 Taeyeon\)](https://open.spotify.com/track/2HC6c1d7SiznMV4rkmmxBB) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [잊어버리지마 Don't Forget \(feat\. 태연 Taeyeon\) \- Single](https://open.spotify.com/album/4laMaViU0DAsIz0iNdXxcI) | 3:39 | 2021-12-20 | 2022-07-24 |

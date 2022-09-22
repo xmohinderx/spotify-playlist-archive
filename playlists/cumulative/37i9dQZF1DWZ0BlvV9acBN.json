@@ -374,6 +374,24 @@
     },
     {
       "album": {
+        "name": "Lembre-se 90's (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3uj4RFLuFtfSIPVVvOcptS"
+      },
+      "artists": [
+        {
+          "name": "MORADA",
+          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265307,
+      "name": "Espelhos M\u00e1gicos / Naves Imperiais - Ao Vivo",
+      "url": "https://open.spotify.com/track/3WyzekjMekrPAmTsIb8mub"
+    },
+    {
+      "album": {
         "name": "Espelhos M\u00e1gicos / Naves Imperiais (Ao Vivo)",
         "url": "https://open.spotify.com/album/5Hh5x7bBLA0qbijaTI9Gky"
       },
@@ -385,7 +403,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-22",
       "duration_ms": 265307,
       "name": "Espelhos M\u00e1gicos / Naves Imperiais - Ao Vivo",
       "url": "https://open.spotify.com/track/6iqjwjQhW9YbfwsTKHX9Iq"
@@ -461,10 +479,28 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-22",
       "duration_ms": 283933,
       "name": "Eu Quero \u00e9 Deus / Celebrai a Cristo / Aquele Que Est\u00e1 Feliz - Ao Vivo",
       "url": "https://open.spotify.com/track/2pUNI9iRqs8ssumEV80N0k"
+    },
+    {
+      "album": {
+        "name": "Lembre-se 90's (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3uj4RFLuFtfSIPVVvOcptS"
+      },
+      "artists": [
+        {
+          "name": "MORADA",
+          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283933,
+      "name": "Eu Quero \u00e9 Deus / Celebrai a Cristo / Aquele Que Est\u00e1 Feliz - Ao Vivo",
+      "url": "https://open.spotify.com/track/7B0rqWEg7PPydoF1hKXFUf"
     },
     {
       "album": {

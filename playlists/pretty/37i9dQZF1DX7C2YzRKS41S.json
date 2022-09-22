@@ -1,12 +1,12 @@
 {
   "description": "Um pouco de folk, MPB e indie para acordar com o p\u00e9 na estrada.",
-  "num_followers": 60334,
+  "num_followers": 60394,
   "original_name": "Amanhecer na Estrada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDk1MDkzMywwMDAwMDAwMDAzYzhhOTJkNDYwNTg1ZTE1NTQ1ZDBlY2VlMDhjZmQz",
+  "snapshot_id": "MTY2MDk1MDkzMywwMDAwMDAwMDQ1ZTMxYmE5MTNhYzI1MGU4NjBlYmE5MjZkODJmYjA2",
   "tracks": [
     {
       "added_at": "2022-08-19 23:15:33",
@@ -847,6 +847,22 @@
     {
       "added_at": "2022-08-19 23:15:33",
       "album": {
+        "name": "The Hardest Part",
+        "url": "https://open.spotify.com/album/0CIYj6AV180SmLAEONb2DW"
+      },
+      "artists": [
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        }
+      ],
+      "duration_ms": 187759,
+      "name": "Ready to Go",
+      "url": "https://open.spotify.com/track/0ImT0gd8nSmypPjZQrEecl"
+    },
+    {
+      "added_at": "2022-08-19 23:15:33",
+      "album": {
         "name": "Miragem",
         "url": "https://open.spotify.com/album/7heza5YlpANyzWtj0PZWhq"
       },
@@ -935,22 +951,6 @@
     {
       "added_at": "2022-08-19 23:15:33",
       "album": {
-        "name": "The Hardest Part",
-        "url": "https://open.spotify.com/album/0CIYj6AV180SmLAEONb2DW"
-      },
-      "artists": [
-        {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
-        }
-      ],
-      "duration_ms": 187759,
-      "name": "Ready to Go",
-      "url": "https://open.spotify.com/track/0ImT0gd8nSmypPjZQrEecl"
-    },
-    {
-      "added_at": "2022-08-19 23:15:33",
-      "album": {
         "name": "Part of Me",
         "url": "https://open.spotify.com/album/6uOlsqNPU8RIwSx0Uv2tH4"
       },
@@ -963,6 +963,22 @@
       "duration_ms": 237230,
       "name": "Part of Me",
       "url": "https://open.spotify.com/track/4aosx8uOGPG9aJjm0Dj4dN"
+    },
+    {
+      "added_at": "2022-08-19 23:15:33",
+      "album": {
+        "name": "THE END OF EVERYTHING",
+        "url": "https://open.spotify.com/album/5Gn3fFzlWL89j0hGumtXb5"
+      },
+      "artists": [
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        }
+      ],
+      "duration_ms": 217714,
+      "name": "I Got So High That I Saw Jesus",
+      "url": "https://open.spotify.com/track/3zQikNPCgTVnQLmj5RPn1k"
     },
     {
       "added_at": "2022-08-19 23:15:33",
@@ -983,34 +999,22 @@
     {
       "added_at": "2022-08-19 23:15:33",
       "album": {
-        "name": "Here",
-        "url": "https://open.spotify.com/album/7n5oHXSwnbGWrFTg9xLhhN"
+        "name": "How Long Do You Think It's Gonna Last?",
+        "url": "https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T"
       },
       "artists": [
         {
-          "name": "Edward Sharpe & The Magnetic Zeros",
-          "url": "https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh"
-        }
-      ],
-      "duration_ms": 259079,
-      "name": "Man On Fire",
-      "url": "https://open.spotify.com/track/6Kn5yzAyOw3jf4Y5a6d1Oq"
-    },
-    {
-      "added_at": "2022-08-19 23:15:33",
-      "album": {
-        "name": "Cafun\u00e9",
-        "url": "https://open.spotify.com/album/5iSqDjYcmolXIVFqInrgFl"
-      },
-      "artists": [
+          "name": "Big Red Machine",
+          "url": "https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O"
+        },
         {
-          "name": "Pedro Salom\u00e3o",
-          "url": "https://open.spotify.com/artist/3iEB8nwJu246B3fN4zPuqW"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 122970,
-      "name": "Cafun\u00e9",
-      "url": "https://open.spotify.com/track/7zjKBYb0C2NxGWLBmrveQl"
+      "duration_ms": 330066,
+      "name": "Birch (feat. Taylor Swift)",
+      "url": "https://open.spotify.com/track/7wo2UNeQBowm28hfAJsEMz"
     }
   ],
   "unique_name": "Amanhecer na Estrada",

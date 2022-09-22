@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnzeQw5ZMfu.md) - [plain]
 
 > Some of the biggest artists, recorded live\. It’s \(almost\) like you were there.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,119 likes - 100 songs - 7 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,204 likes - 100 songs - 7 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnzeQw5ZMfu.md) - [plain]
 | 35 | [ME! \- Live From Paris](https://open.spotify.com/track/5fOV54t6mMYv3H9CsnvU81) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [ME! \(Live From Paris\)](https://open.spotify.com/album/1jIp7CChnwdj9zUCvPxzQ7) | 3:33 |
 | 36 | [In the Air Tonight \- Live from the Serious Tour 1990; 2019 Remaster](https://open.spotify.com/track/0izmGVy9X7JVY3Eh44s84B) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [Serious Hits...Live! \(2019 Remaster\)](https://open.spotify.com/album/3YhgdRfaZrVIOORGK9SNiV) | 6:33 |
 | 37 | [Freedom! '90 \- Live from MTV Unplugged, 1996](https://open.spotify.com/track/0tLa4mib11WGc1YbSa1AFq) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Listen Without Prejudice / MTV Unplugged \(Deluxe\)](https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj) | 6:02 |
-| 38 | [You're The One That I Want \- Live](https://open.spotify.com/track/7vCqjFCrn2070QxxM8G7V4) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [Olivia's Live Hits](https://open.spotify.com/album/4pMYAWXWTDY73KIRTpNsON) | 3:51 |
-| 39 | [Party In The USA \- Live](https://open.spotify.com/track/5awub9b8qfJEAhJXhkiWez) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [ATTENTION: MILEY LIVE](https://open.spotify.com/album/534enKHcsPhMQOc0TM2yhw) | 7:00 |
+| 38 | [Party In The USA \- Live](https://open.spotify.com/track/5awub9b8qfJEAhJXhkiWez) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [ATTENTION: MILEY LIVE](https://open.spotify.com/album/534enKHcsPhMQOc0TM2yhw) | 7:00 |
+| 39 | [You're The One That I Want \- Live](https://open.spotify.com/track/7vCqjFCrn2070QxxM8G7V4) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [Olivia's Live Hits](https://open.spotify.com/album/4pMYAWXWTDY73KIRTpNsON) | 3:51 |
 | 40 | [I Don't Want to Talk About It \- Live at Newcastle, England, 12/17/1976](https://open.spotify.com/track/1ADpmLJK8WhPEIZM3ZaQTK) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Live 1976 \- 1998: Tonight's the Night](https://open.spotify.com/album/6427BkrSWr5rVBOEWcYILd) | 5:07 |
 | 41 | [Shots \- Live From Spotify London](https://open.spotify.com/track/2OmymQ2ONrm6iQJLX9qnmp) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Imagine Dragons \(Spotify Sessions\)](https://open.spotify.com/album/0XMkrjoxpwaGgb6MYgv2gA) | 3:32 |
 | 42 | [Dancing Queen \- Live](https://open.spotify.com/track/7uCt8IA0PnfsEoTMk7By1Q) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Live At Wembley Arena](https://open.spotify.com/album/1mc8M9eR9ZIBxqWA2CA4Wo) | 5:52 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnzeQw5ZMfu.md) - [plain]
 | 99 | [I Won't Let You Go \- Live At The Hospital Club](https://open.spotify.com/track/5xk1ZKq81Flr2GKpTyxc5k) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [James Morrison – Live & Unplugged At The Hospital](https://open.spotify.com/album/5qBIugfdFDlPzYjvVLYvVx) | 4:00 |
 | 100 | [I'm Alive \- Live](https://open.spotify.com/track/63MwPDxQx06Ie7EoiAhw6l) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [A new day \- Live in Las Vegas](https://open.spotify.com/album/0DCrLB20ycYZlBzTXX2AuM) | 4:16 |
 
-Snapshot ID: `MTY2MDgwOTIwMSwwMDAwMDAwMDc0OGE5M2Q1YmE5ZGEyMGE0ZTE0NDRiYmJkN2E1ZDU3`
+Snapshot ID: `MTY2MDgwOTIwMSwwMDAwMDAwMDQ5NGZhZTE2OTY2ZTBiNTVlNDMxZDcyNjMwOWI0ZmVm`

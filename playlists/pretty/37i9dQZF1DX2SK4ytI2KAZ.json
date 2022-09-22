@@ -1,12 +1,12 @@
 {
   "description": "alternative songs and a good time.",
-  "num_followers": 668068,
+  "num_followers": 668126,
   "original_name": "It's ALT Good!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI3NjgwMCwwMDAwMDAwMDBjZWZlZDgzNjZiZGE2ZDhlOWU4ODI0YjMzOWNhY2E2",
+  "snapshot_id": "MTY2MDI3NjgwMCwwMDAwMDAwMGZhMTg1M2I0NTg5OTJkYzBkNjM2ZDgyYWYwOTNmNzVi",
   "tracks": [
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1899,22 +1899,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Curious",
-        "url": "https://open.spotify.com/album/6ostRuT5nyWNNuuaAE2FMX"
-      },
-      "artists": [
-        {
-          "name": "Franz Ferdinand",
-          "url": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
-        }
-      ],
-      "duration_ms": 169605,
-      "name": "Curious",
-      "url": "https://open.spotify.com/track/2cIwyQwWNhyDNY3pn6xjKF"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "Upgrade",
         "url": "https://open.spotify.com/album/3VgubxrPPu5lXCPJzXLFp7"
       },
@@ -1931,6 +1915,22 @@
       "duration_ms": 161068,
       "name": "Upgrade",
       "url": "https://open.spotify.com/track/0kr277qNoo4QBUDjzPiSe2"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Curious",
+        "url": "https://open.spotify.com/album/6ostRuT5nyWNNuuaAE2FMX"
+      },
+      "artists": [
+        {
+          "name": "Franz Ferdinand",
+          "url": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
+        }
+      ],
+      "duration_ms": 169605,
+      "name": "Curious",
+      "url": "https://open.spotify.com/track/2cIwyQwWNhyDNY3pn6xjKF"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -2227,22 +2227,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Mixtape 2003",
-        "url": "https://open.spotify.com/album/2QcJ99k8skz7nxF2l4D4IH"
-      },
-      "artists": [
-        {
-          "name": "The Academic",
-          "url": "https://open.spotify.com/artist/3VLf4DlBTN2ZRwygS3TNti"
-        }
-      ],
-      "duration_ms": 204453,
-      "name": "Mixtape 2003",
-      "url": "https://open.spotify.com/track/4TICpB1Y6C8b6EK2Ga275x"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "Heart Baby",
         "url": "https://open.spotify.com/album/5Hub95rVF5waxlr8LWgTFq"
       },
@@ -2255,6 +2239,22 @@
       "duration_ms": 198461,
       "name": "Boulangerie",
       "url": "https://open.spotify.com/track/36tuyoS2mGSzN7dMIuTHpM"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Mixtape 2003",
+        "url": "https://open.spotify.com/album/2QcJ99k8skz7nxF2l4D4IH"
+      },
+      "artists": [
+        {
+          "name": "The Academic",
+          "url": "https://open.spotify.com/artist/3VLf4DlBTN2ZRwygS3TNti"
+        }
+      ],
+      "duration_ms": 204453,
+      "name": "Mixtape 2003",
+      "url": "https://open.spotify.com/track/4TICpB1Y6C8b6EK2Ga275x"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -2291,6 +2291,22 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
+        "name": "What's Real",
+        "url": "https://open.spotify.com/album/0AFltyNvGjMw4GuS2kWkuL"
+      },
+      "artists": [
+        {
+          "name": "WATERS",
+          "url": "https://open.spotify.com/artist/4KKQvsAWZWMkS1QCuPnajG"
+        }
+      ],
+      "duration_ms": 187666,
+      "name": "Got to My Head",
+      "url": "https://open.spotify.com/track/3HmHQjjApe21DIncYhKIg7"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
         "name": "Hope For Sale",
         "url": "https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi"
       },
@@ -2307,22 +2323,6 @@
       "duration_ms": 177746,
       "name": "Gone",
       "url": "https://open.spotify.com/track/7b5qjSnusll0Ll9vDdkuLh"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "What's Real",
-        "url": "https://open.spotify.com/album/0AFltyNvGjMw4GuS2kWkuL"
-      },
-      "artists": [
-        {
-          "name": "WATERS",
-          "url": "https://open.spotify.com/artist/4KKQvsAWZWMkS1QCuPnajG"
-        }
-      ],
-      "duration_ms": 187666,
-      "name": "Got to My Head",
-      "url": "https://open.spotify.com/track/3HmHQjjApe21DIncYhKIg7"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -2475,22 +2475,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "The Night Game",
-        "url": "https://open.spotify.com/album/09Ft4FmAcy8CnuNoy9JbJN"
-      },
-      "artists": [
-        {
-          "name": "The Night Game",
-          "url": "https://open.spotify.com/artist/79QO0Xmn1dZhvaLicS2Yrs"
-        }
-      ],
-      "duration_ms": 232306,
-      "name": "The Outfield",
-      "url": "https://open.spotify.com/track/0H188Mi13wkwwwUvczPdmC"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "We Are Between",
         "url": "https://open.spotify.com/album/0jm29ezULLI1tMnNqhBiZU"
       },
@@ -2503,6 +2487,22 @@
       "duration_ms": 232906,
       "name": "We Are Between",
       "url": "https://open.spotify.com/track/38g0al4YO0WctLwI4Z8394"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "The Night Game",
+        "url": "https://open.spotify.com/album/09Ft4FmAcy8CnuNoy9JbJN"
+      },
+      "artists": [
+        {
+          "name": "The Night Game",
+          "url": "https://open.spotify.com/artist/79QO0Xmn1dZhvaLicS2Yrs"
+        }
+      ],
+      "duration_ms": 232306,
+      "name": "The Outfield",
+      "url": "https://open.spotify.com/track/0H188Mi13wkwwwUvczPdmC"
     }
   ],
   "unique_name": "It's ALT Good!",

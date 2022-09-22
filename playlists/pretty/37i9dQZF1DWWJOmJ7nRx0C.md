@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 
 > The hardest songs, loud\. Very loud\. Cover:  STARSET
 
-[Spotify](https://open.spotify.com/user/spotify) - 850,167 likes - 151 songs - 9 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 850,386 likes - 151 songs - 9 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 | 67 | [Passenger](https://open.spotify.com/track/5EUp0KuPvWprwkD5HVhzmv) | [Boston Manor](https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM) | [Passenger](https://open.spotify.com/album/4uupmE8nv4sRZQf62HRSM4) | 3:26 |
 | 68 | [Set You Free](https://open.spotify.com/track/4v6CBp84XVSBojVhgA2QHH) | [Crobot](https://open.spotify.com/artist/4ygqEKxbe61knnDaodGFmi) | [Set You Free](https://open.spotify.com/album/5BzMIuNZ2CYepGPWvuBRrk) | 3:31 |
 | 69 | [No More Tears To Cry](https://open.spotify.com/track/11beGBTthT9XhdQXYFkajZ) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [No More Tears To Cry](https://open.spotify.com/album/0aAcMNWv3LRwqpRa6rb7X0) | 3:41 |
-| 70 | [Out of My Head feat\. Aaron Gillespie](https://open.spotify.com/track/6QDS3BSyRGSaTUY4MhJUir) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2), [Aaron Gillespie](https://open.spotify.com/artist/5B2GfbXgossZt9SE08Iqn6) | [Out of My Head feat\. Aaron Gillespie](https://open.spotify.com/album/62q3iA3E0gLSeezRa2stGU) | 2:54 |
+| 70 | [Out of My Head](https://open.spotify.com/track/7LR1KXCfE7EWu02ghN6c53) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2), [Aaron Gillespie](https://open.spotify.com/artist/5B2GfbXgossZt9SE08Iqn6) | [Out of My Head](https://open.spotify.com/album/0O2MDdqpibGxaUw9raccMl) | 2:54 |
 | 71 | [Die Another Day](https://open.spotify.com/track/7LBZfkcgTohIQQ1DqnSuPV) | [Dance Gavin Dance](https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k) | [Jackpot Juicer](https://open.spotify.com/album/6c5mEBiGZdHm0lnzvlbXVW) | 3:41 |
 | 72 | [The Foundations of Decay](https://open.spotify.com/track/6Pif6RkFoYzLygdqktus4Q) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Foundations of Decay](https://open.spotify.com/album/28SHC2Kn35Nl9yd94CbF3q) | 6:00 |
 | 73 | [Temple Of Ekur](https://open.spotify.com/track/1SsCpBXMHUYlrHR7Hozgvu) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Servant Of The Mind \(Deluxe\)](https://open.spotify.com/album/1ujOfCZxF2d2R5oOfJbxnP) | 4:19 |
@@ -160,4 +160,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 | 150 | [American Dream](https://open.spotify.com/track/1Fl5pNT0nM667ugiC08mPd) | [DIAMANTE](https://open.spotify.com/artist/6jMXENspOIBHOTQNQDTxsW), [Lit](https://open.spotify.com/artist/5mgr0FFpvy267wKVAYg8qp) | [American Dream](https://open.spotify.com/album/52EG4cU5zsXOZZrKRl2ixV) | 3:05 |
 | 151 | [Only Love Can Save Me Now \[Feat\. Matt Cameron & Kim Thayil\]](https://open.spotify.com/track/4jXoiJSLQkAft0L5D1yjDb) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq), [Matt Cameron](https://open.spotify.com/artist/4NfvOU2TMtQhyBOW0erSDf), [Kim Thayil](https://open.spotify.com/artist/0XY2RjIqyilsOHYiNro5tD) | [Death By Rock And Roll](https://open.spotify.com/album/2ysgEIHY4aOMMbbu0uV6ey) | 5:12 |
 
-Snapshot ID: `MTY2MzYwNDIzOCwwMDAwMDAwMGMxYWI0NjgxYTE5YzZkNTdkYjZiZmFjODYyNThjMTNm`
+Snapshot ID: `MTY2MzYwNDIzOCwwMDAwMDAwMGIzNDIxMDAyOGNmYTlhNTg1MTlkYjNhZjljMjhmZDRh`

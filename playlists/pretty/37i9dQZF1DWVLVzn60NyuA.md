@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLVzn60NyuA.md) - [plain]
 
 > Afro, Caribbean & Latin sounds for that summer vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,123 likes - 179 songs - 9 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,212 likes - 179 songs - 9 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLVzn60NyuA.md) - [plain]
 | 65 | [Come Closer \(feat\. Drake\)](https://open.spotify.com/track/2zYs4BonN2ydkbrRk333SN) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Sounds From The Other Side](https://open.spotify.com/album/2yUhcn7kF408KjNVuMwV2P) | 3:31 |
 | 66 | [Dimension \(feat\. Skepta & Rema\)](https://open.spotify.com/track/2Jy4EdqIZswDZvVDh5dx3A) | [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Dimension \(feat\. Skepta & Rema\)](https://open.spotify.com/album/0Zp33hB1LZhbpMQCNfzeVF) | 3:54 |
 | 67 | [Tiempo](https://open.spotify.com/track/5H6SZcjJzBNsB2VzKW2Ivd) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Tiempo](https://open.spotify.com/album/5wE1hFbC5twYBXK1KALpQQ) | 2:51 |
-| 68 | [Tigini \- Remix](https://open.spotify.com/track/5UrCA7KEkxjCQQEvCohIAn) | [Kikimoteleba](https://open.spotify.com/artist/20fLTbSref8bRqtfD82pSo), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Tigini \(Remix\)](https://open.spotify.com/album/5Z0OHKESY25HeRWOjEUrKp) | 3:16 |
-| 69 | [W \(feat\. Gunna\)](https://open.spotify.com/track/6xW2g0c5uSoa3S6xk9eI4j) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [W \(feat\. Gunna\)](https://open.spotify.com/album/4CGh0wfCdEh3xZVHx8uJK5) | 3:50 |
+| 68 | [W \(feat\. Gunna\)](https://open.spotify.com/track/6xW2g0c5uSoa3S6xk9eI4j) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [W \(feat\. Gunna\)](https://open.spotify.com/album/4CGh0wfCdEh3xZVHx8uJK5) | 3:50 |
+| 69 | [Tigini \- Remix](https://open.spotify.com/track/5UrCA7KEkxjCQQEvCohIAn) | [Kikimoteleba](https://open.spotify.com/artist/20fLTbSref8bRqtfD82pSo), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Tigini \(Remix\)](https://open.spotify.com/album/5Z0OHKESY25HeRWOjEUrKp) | 3:16 |
 | 70 | [Jolie nana](https://open.spotify.com/track/65RWVU6N81CeH65nu52K1U) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [AYA](https://open.spotify.com/album/0BUPS678TfgTmCMVOviolC) | 2:27 |
 | 71 | [So Distant \(feat\. Tayc\)](https://open.spotify.com/track/3AV3S6DiIsj1Nbs8Grf3Bp) | [B Young](https://open.spotify.com/artist/7JMwO9tyFPMsb2KnsJqZlp), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [So Distant \(feat\. Tayc\)](https://open.spotify.com/album/6MmGLXuskvMkbBBDIKCSoA) | 2:54 |
 | 72 | [Love Riddim](https://open.spotify.com/track/22uU5EVRx6rVpuUANTFEhn) | [Rotimi](https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf) | [Walk With Me](https://open.spotify.com/album/5N5e8acMVgsIZif4NZppoj) | 3:39 |
@@ -167,8 +167,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLVzn60NyuA.md) - [plain]
 | 157 | [Handle It](https://open.spotify.com/track/53MCnnU5XI7Xr1IbaF6KN8) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [Handle It](https://open.spotify.com/album/3sROPPitey2yWNNdeQNQEK) | 3:23 |
 | 158 | [Ravin'](https://open.spotify.com/track/0AT08pe7CNV34sDKmTyh5b) | [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Ravin'](https://open.spotify.com/album/1iB6cyFWWKUTC5c8Fb54kQ) | 3:18 |
 | 159 | [Bad Gyal](https://open.spotify.com/track/6zbYEipVzi9anrP6OMhPxI) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Bad Gyal](https://open.spotify.com/album/0id9uIH0ECODKD6mVhbCol) | 3:36 |
-| 160 | [Pamela](https://open.spotify.com/track/53LQQoBP6sBVFvNr3q3Fa0) | [Wauve](https://open.spotify.com/artist/6iJTgr51htiTuj3r1cFSFO), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [ZieZie](https://open.spotify.com/artist/26XzvosH2cl8Re6KSo9m8Z) | [Pamela](https://open.spotify.com/album/5AIExSdYDginy6AWai1uFE) | 3:55 |
-| 161 | [Not Over It](https://open.spotify.com/track/5vYWYCPdD6BqOy5hDYuCAi) | [FS Green](https://open.spotify.com/artist/2xjVYIMLS3nR5Y1UOr02Vb), [Aïcha Gill](https://open.spotify.com/artist/2qq2Vs81M7ReUEIxB0hjUu) | [Not Over It](https://open.spotify.com/album/6f26986svH5VZ03xVjsdap) | 3:32 |
+| 160 | [Not Over It](https://open.spotify.com/track/5vYWYCPdD6BqOy5hDYuCAi) | [FS Green](https://open.spotify.com/artist/2xjVYIMLS3nR5Y1UOr02Vb), [Aïcha Gill](https://open.spotify.com/artist/2qq2Vs81M7ReUEIxB0hjUu) | [Not Over It](https://open.spotify.com/album/6f26986svH5VZ03xVjsdap) | 3:32 |
+| 161 | [Pamela](https://open.spotify.com/track/53LQQoBP6sBVFvNr3q3Fa0) | [Wauve](https://open.spotify.com/artist/6iJTgr51htiTuj3r1cFSFO), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [ZieZie](https://open.spotify.com/artist/26XzvosH2cl8Re6KSo9m8Z) | [Pamela](https://open.spotify.com/album/5AIExSdYDginy6AWai1uFE) | 3:55 |
 | 162 | [Bluffin](https://open.spotify.com/track/1nEaAtXcpSCc2iZdXm37vH) | [Afro B](https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Bluffin](https://open.spotify.com/album/1Sx36U16xq2fCmzUNrO47F) | 3:41 |
 | 163 | [Badman Love \- Remix](https://open.spotify.com/track/5iRSqf87cY8ldNrPpbymRq) | [Skales](https://open.spotify.com/artist/1ixqGowpDM21RwyJmJ7hpv), [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Badman Love](https://open.spotify.com/album/7CSNUozGeW1fzxvDjY1RvA) | 2:48 |
 | 164 | [Love Me](https://open.spotify.com/track/6fgfoT5DB6f4IOgzPRJm0n) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ) | [Love Me](https://open.spotify.com/album/1PdFlqzfgz8oqbHwGFdrBC) | 2:54 |
@@ -188,4 +188,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLVzn60NyuA.md) - [plain]
 | 178 | [So Nice](https://open.spotify.com/track/1lCc5XcnnKHsSaCKDngvM4) | [Kojo Funds](https://open.spotify.com/artist/2o9hRZ3xI27UQpHT61A4Mm) | [So Nice](https://open.spotify.com/album/0qs22OFmWqKIwhmicG4uNc) | 2:36 |
 | 179 | [Yeno Ntem](https://open.spotify.com/track/32YnFyOGhRmqXXuuGcf4yp) | [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW) | [Yeno Ntem](https://open.spotify.com/album/54nBW1hsP1KWx2yxvYnHeg) | 2:19 |
 
-Snapshot ID: `MTY2MzI3OTIwMCwwMDAwMDAwMDA1N2ZkMjIyYWE4YjBhZTllZmQxNTgxYjQ2NjExODk4`
+Snapshot ID: `MTY2MzI3OTIwMCwwMDAwMDAwMGUyYjBkN2VmYjNlZDU2YmI4NGYxZTc2NGExMDZlMWU0`

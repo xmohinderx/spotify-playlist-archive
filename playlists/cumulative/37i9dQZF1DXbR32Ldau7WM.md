@@ -4,7 +4,7 @@
 
 > The biggest rock artists in Japan right now! Cover: ELLEGARDEN
 
-329 songs - 21 hr 41 min - [published](https://open.spotify.com/playlist/58cr9qiZRcBgGXeUmGq6P3)
+331 songs - 21 hr 47 min - [published](https://open.spotify.com/playlist/58cr9qiZRcBgGXeUmGq6P3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,8 @@
 | [From Today](https://open.spotify.com/track/7qLbPd5yhm0Vne45PXPabV) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [Nonnegative](https://open.spotify.com/album/2XA78l6T2geC3hfxcnOs6V) | 3:53 | 2022-07-05 |  |
 | [Fuel](https://open.spotify.com/track/2XHQ84PSGAqDDkFgCjCUPS) | [Nothing’s Carved In Stone](https://open.spotify.com/artist/2aUTxokSKOzwUxXBp9AAlb) | [Fuel](https://open.spotify.com/album/15oIT9GDMhJWTQUELHM6Vs) | 3:29 | 2022-05-17 | 2022-07-29 |
 | [Future Tone Bender](https://open.spotify.com/track/5Ed03SNdYyL69YsW0pOfEz) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS), [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [egomaniac feedback](https://open.spotify.com/album/3XBNvPlVMRZkS10ssu1iRF) | 3:52 | 2022-05-10 |  |
-| [FXXKFXXKFXXK](https://open.spotify.com/track/7kMc3XJA3IaEmA47Pt7PZS) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [BEWARE](https://open.spotify.com/album/6SCcC7qcxnKcc6GPjiwsw3) | 2:25 | 2022-09-20 |  |
+| [FXXKFXXKFXXK](https://open.spotify.com/track/5T2UxOyuVvII4WonBt1XW0) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [Beware](https://open.spotify.com/album/3yXRbwxo1mnwFLAiA9Heo5) | 2:25 | 2022-09-20 |  |
+| [FXXKFXXKFXXK](https://open.spotify.com/track/7kMc3XJA3IaEmA47Pt7PZS) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [BEWARE](https://open.spotify.com/album/6SCcC7qcxnKcc6GPjiwsw3) | 2:25 | 2022-09-20 | 2022-09-22 |
 | [Getmeee!](https://open.spotify.com/track/4pnjJjg97zROrEz6x37H5N) | [Penpals](https://open.spotify.com/artist/4V8diCpPPWb4X7qav0BCNM) | [CAARRS](https://open.spotify.com/album/1q1vw9QEX71Q1HL3Q1n21L) | 2:43 | 2022-07-05 | 2022-07-13 |
 | [Gimme Danger](https://open.spotify.com/track/0EMMrM5hAZZliFfJp4G8P6) | [Crossfaith](https://open.spotify.com/artist/3gfA40vRbx6YX8oCDXDCDh), [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0) | [Gimme Danger](https://open.spotify.com/album/2HzVeup7X7tAG1vc5gKFMm) | 3:25 | 2022-05-24 | 2022-05-29 |
 | [Go\-Go B\-T TRAIN](https://open.spotify.com/track/20kkufroX5Kg3C6sXSKCTU) | [BUCK\-TICK](https://open.spotify.com/artist/2DiecQcRbDuSJuSPKtirrX) | [Go\-Go B\-T TRAIN](https://open.spotify.com/album/5Xx4uxV38Vn7MRroWJYxaD) | 3:56 | 2022-06-02 | 2022-06-09 |
@@ -82,7 +83,8 @@
 | [Imagine](https://open.spotify.com/track/7oRBCFo22NQjZxzhUCFq78) | [DOPING PANDA](https://open.spotify.com/artist/1Z9z0ONErFhEvidgPFOi6W) | [Imagine](https://open.spotify.com/album/1MZJ05fQaeiw1hjoVi8MUW) | 3:48 | 2022-05-10 | 2022-07-17 |
 | [In The Sun](https://open.spotify.com/track/6k7NdIO13fOUQIKlG0rDF0) | [DOES](https://open.spotify.com/artist/2zwGPEFviyaICCDiAWxLjy) | [In The Sun](https://open.spotify.com/album/0i1IFwKiJhNCctxSfn6UKv) | 3:40 | 2022-05-12 | 2022-06-21 |
 | [In Your Pocket](https://open.spotify.com/track/7zVLnfbwom5vEHhHfNjv8c) | [Quruli](https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4) | [Rilakkuma's Theme Park Adventure Original Soundtrack \(NETFLIX SERIES\)](https://open.spotify.com/album/0dtLFEATqgCBNRVrrneqj0) | 5:39 | 2022-08-23 | 2022-09-07 |
-| [influencer](https://open.spotify.com/track/5notliDFZDp6H5m95UmQve) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Unleash](https://open.spotify.com/album/3X1Y5nukifVvhjmyAcsZ6o) | 3:23 | 2022-09-20 |  |
+| [Influencer](https://open.spotify.com/track/1bgpOs3FeHhbpFSZkApGkZ) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Unleash](https://open.spotify.com/album/09kpnVq1iOLRwM8eWKXADw) | 3:23 | 2022-09-20 |  |
+| [influencer](https://open.spotify.com/track/5notliDFZDp6H5m95UmQve) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Unleash](https://open.spotify.com/album/3X1Y5nukifVvhjmyAcsZ6o) | 3:23 | 2022-09-20 | 2022-09-22 |
 | [Is It Too Late?](https://open.spotify.com/track/2hIkxugVJfPd8FjXzLpOrt) | [Analogfish](https://open.spotify.com/artist/5KvfVmM9oHCiIy88GOG58h) | [Is It Too Late?](https://open.spotify.com/album/2HbIJbRXMAsMLvKaESkrli) | 3:50 | 2022-05-12 | 2022-09-07 |
 | [ISOLATION](https://open.spotify.com/track/0dr8G20Tls20sjfHdX10x0) | [SKYE](https://open.spotify.com/artist/49sJZCQvc3KN6s9VCMnbUa) | [ISOLATION / Dear M](https://open.spotify.com/album/4vpCa6WiJAStwqwI93kXgF) | 3:08 | 2022-05-17 | 2022-05-19 |
 | [It's not too late](https://open.spotify.com/track/6msygryLZFEN7Fw7laGcAA) | [LOVE PSYCHEDELICO](https://open.spotify.com/artist/5V7OCRPNS7vBRLRkrMVNqp) | [It's not too late](https://open.spotify.com/album/03Dx5bwpehJewD0236CHfe) | 4:33 | 2022-07-19 | 2022-07-27 |

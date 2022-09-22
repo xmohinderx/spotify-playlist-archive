@@ -4,7 +4,7 @@
 
 > Smooth and cozy saxophone ballads for relaxing or focus.
 
-107 songs - 7 hr 21 min - [published](https://open.spotify.com/playlist/6nq7hWNk2cvvhG65Oqh64w)
+108 songs - 7 hr 24 min - [published](https://open.spotify.com/playlist/6nq7hWNk2cvvhG65Oqh64w)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Old Folks](https://open.spotify.com/track/0xnWsv0kNVeONjhiFvEyWw) | [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R), [Karl\-Martin Almqvist](https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm) | [A Ballad Moment](https://open.spotify.com/album/4BZYDP8KgpeIXAmvcj2Tyl) | 4:51 | 2022-08-18 |  |
 | [Open Mind](https://open.spotify.com/track/3ODKzLgzGnXzng8SCTadRc) | [Magnus Ringblom Quartet](https://open.spotify.com/artist/253IbsVCS7UKpL61Dv5hru) | [Open Mind](https://open.spotify.com/album/34q2kBjzKnowLJPn1XePIZ) | 3:43 | 2022-08-18 |  |
 | [Polkadots And Moonbeams](https://open.spotify.com/track/22b0vbHkq3qRrjhFa9BimB) | [Archie Taylor](https://open.spotify.com/artist/6p8c1ewQ2thcBnDzhkoZaL) | [Polkadots And Moonbeams](https://open.spotify.com/album/668WN0afbvrzNHda52ABUP) | 3:42 | 2022-08-18 |  |
+| [Poor Butterfly](https://open.spotify.com/track/2vyuIth7SkLbbfx0wX8KsC) | [Benjamine Leroy Quartet](https://open.spotify.com/artist/0HsfmmG8LqKOxS2LBIO9bM) | [Poor Butterfly](https://open.spotify.com/album/0voGzbbY9Wm9vtql5l2Uaz) | 3:36 | 2022-09-21 |  |
 | [Pretty Ballad](https://open.spotify.com/track/1UVz63b1DRzV9CrM4OYQ9U) | [Lennie Zimmerman + 3](https://open.spotify.com/artist/29B45yp5XnJwtbrvbeqnSu) | [My Romance](https://open.spotify.com/album/5zLgKeaogrKCOKmvO4UFOO) | 3:00 | 2022-08-18 |  |
 | [Rainbow Mountains](https://open.spotify.com/track/3c0kOPcHy2wJr3p8Vkno2j) | [Chris Memento](https://open.spotify.com/artist/6dLMos1sm6vC0KWbloaCXb) | [Rainbow Mountains](https://open.spotify.com/album/2DMK4fULgBjylc9Kj8J73K) | 4:50 | 2022-08-18 |  |
 | [Rise Again](https://open.spotify.com/track/278NmaKNQjLEF3sNyEzcSN) | [Kevin Waters Group](https://open.spotify.com/artist/57U22BNH5ClRbVtpNjVAoG) | [Rise Again](https://open.spotify.com/album/7b4UPV5j802exbvqWNoSgq) | 4:59 | 2022-08-18 |  |

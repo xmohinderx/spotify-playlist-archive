@@ -4,7 +4,7 @@
 
 > The coldest sounds of Hip\-Hop, coming out of Canada\. Cover: TOBi
 
-543 songs - 1 day 1 hr 38 min - [published](https://open.spotify.com/playlist/42ubhhnACTiunpws137UPH)
+544 songs - 1 day 1 hr 41 min - [published](https://open.spotify.com/playlist/42ubhhnACTiunpws137UPH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -293,7 +293,7 @@
 | [Lit Tonight](https://open.spotify.com/track/2LcQmQ2JNSKOlAFHRf6JWa) | [Roney](https://open.spotify.com/artist/2nGZqSJU7K5mkZCjxSlu5J) | [Lit Tonight](https://open.spotify.com/album/1IL4UjzWTHYiVWZ0vIcWsk) | 2:46 | 2022-08-26 |  |
 | [Livin' Right](https://open.spotify.com/track/3ertPEZigEhEZKGwbqxcyE) | [Jayden Premo](https://open.spotify.com/artist/0LMeeMWRyliSREcd4DGPis) | [City Classix, Vol\. 1](https://open.spotify.com/album/2uzeXc8ew2OPiDdISq0D7I) | 2:12 | 2022-03-11 | 2022-04-02 |
 | [Lizzie McGuire](https://open.spotify.com/track/0YZiPEHwgZA6JeYfsCz6hO) | [3MFrench](https://open.spotify.com/artist/7MPnGqTzCsarDScihWka1x), [TwoTwo](https://open.spotify.com/artist/3H6Mld9y4gFvW3LDEJUUoQ), [Pengz](https://open.spotify.com/artist/6MtptleIGJ3C7lOpGf9Hxc) | [Lizzie McGuire](https://open.spotify.com/album/4GdMqELYHEsbWmoXu9qcF6) | 2:53 | 2022-01-07 | 2022-02-05 |
-| [LNLA](https://open.spotify.com/track/22pZpK41gqmS6esGgEmJn8) | [Dom Vallie](https://open.spotify.com/artist/7z29vXpa0PYA6mngEsWNXk) | [Are We There Yet?](https://open.spotify.com/album/4EhXfx3WlNuUYsefNjrvUv) | 3:44 | 2022-09-16 |  |
+| [LNLA](https://open.spotify.com/track/22pZpK41gqmS6esGgEmJn8) | [Dom Vallie](https://open.spotify.com/artist/7z29vXpa0PYA6mngEsWNXk) | [Are We There yet?](https://open.spotify.com/album/4EhXfx3WlNuUYsefNjrvUv) | 3:44 | 2022-09-16 |  |
 | [LOGIC \(Lucky Charm Freestyle\)](https://open.spotify.com/track/1CepULbsK4Vfrpp0u9BD70) | [Charmaine](https://open.spotify.com/artist/5cie6OioF2WHr2KflhcQGT) | [LOGIC \(Lucky Charm Freestyle\)](https://open.spotify.com/album/1O5oh3scGUepEIw1DYftEK) | 2:36 | 2022-01-07 | 2022-02-12 |
 | [London Fog](https://open.spotify.com/track/2fh5VuNMKDR3jygAJgctba) | [Omari Shakir](https://open.spotify.com/artist/01oJd4679t5Un3ElQzA6fo) | [Princemichaeljacksonrickjames](https://open.spotify.com/album/3injSz0DYv4oUaoTQ3troF) | 3:04 | 2022-03-25 | 2022-05-20 |
 | [Lonely](https://open.spotify.com/track/3LrwzpW5CcrC65ZoFWacQY) | [Roney](https://open.spotify.com/artist/2nGZqSJU7K5mkZCjxSlu5J) | [Lonely](https://open.spotify.com/album/0fe3iQKAfaWqqHylr3AEqs) | 2:30 | 2022-03-18 | 2022-04-16 |
@@ -545,7 +545,8 @@
 | [Wrongs](https://open.spotify.com/track/0gF4HP6Stw6YFhyP0uv2FF) | [LOWERCASE](https://open.spotify.com/artist/4MTOXpWiUfcUFD4vn8Uoij) | [Wrongs](https://open.spotify.com/album/3cnIGAcyJI0nuTTH7x6tnh) | 2:03 | 2022-04-29 | 2022-05-07 |
 | [Xfoliate \(feat\. General Fly\)](https://open.spotify.com/track/52mQbcaJNiPIn8OaiEflxY) | [Tre Nyce](https://open.spotify.com/artist/3HOxm7dZ7yd2mHjE6HQlS5), [General Fly](https://open.spotify.com/artist/0ovVBJhyUjwApNsNIPT8XB) | [Xfoliate \(feat\. General Fly\)](https://open.spotify.com/album/3zeWEXeE1KcvU9eKH4A1Mr) | 2:24 | 2022-04-01 | 2022-05-07 |
 | [Y OFC](https://open.spotify.com/track/66D4gGaEenEmVGDoO2XX4i) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW) | [Y OFC](https://open.spotify.com/album/4IeLpOeduM8SodNkluPm06) | 3:23 | 2022-06-03 | 2022-07-30 |
-| [Yea Man](https://open.spotify.com/track/7qQvgj685nrnDxXuw0ib9S) | [DillanPonders](https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef), [BVB](https://open.spotify.com/artist/7azVk8ZXv1yB4rOmPMZvUD) | [Yea Man](https://open.spotify.com/album/7eK9lSLrXhlqFxetMXZTRn) | 2:40 | 2022-08-19 |  |
+| [Yea Man](https://open.spotify.com/track/4uV0YlcOLvzrqnzKQ0oXUB) | [DillanPonders](https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef), [BVB](https://open.spotify.com/artist/7azVk8ZXv1yB4rOmPMZvUD) | [Yea Man](https://open.spotify.com/album/5nwJPVBagbhArx6zfcUzm3) | 2:40 | 2022-09-16 |  |
+| [Yea Man](https://open.spotify.com/track/7qQvgj685nrnDxXuw0ib9S) | [DillanPonders](https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef), [BVB](https://open.spotify.com/artist/7azVk8ZXv1yB4rOmPMZvUD) | [Yea Man](https://open.spotify.com/album/7eK9lSLrXhlqFxetMXZTRn) | 2:40 | 2022-08-19 | 2022-09-22 |
 | [Yellow](https://open.spotify.com/track/48tYeh5ztFzgkdpRjxQOFx) | [MOULA 1ST](https://open.spotify.com/artist/6KkRTh4TxUd0AEK794U52C) | [Yellow](https://open.spotify.com/album/2Npxqa1XGU4W5VeF6TT0L2) | 2:04 | 2022-08-05 |  |
 | [You Cried](https://open.spotify.com/track/2IPqCA3Sh9B9zAgzaH7KOx) | [Lu\-Kusa Woe](https://open.spotify.com/artist/5DGeTDECSuzKX8gn0hccZE) | [You Cried](https://open.spotify.com/album/2YaFX1p8bTSZvjsXKl24y8) | 1:59 | 2022-06-10 | 2022-06-25 |
 | [You Know Me](https://open.spotify.com/track/5vxOurw8lKrDJzJdlCevUl) | [Brandon Taylor](https://open.spotify.com/artist/4Uf1sekxK8FGPkJJpTLWN1) | [You Know Me](https://open.spotify.com/album/5BNvceqPYRnnlRskAVLqJj) | 2:07 | 2022-06-10 | 2022-07-09 |

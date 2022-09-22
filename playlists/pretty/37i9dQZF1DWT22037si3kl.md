@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 
 > Chique e confortável como a realeza do Trap\. Foto: Brandão85
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,103 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,319 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 | 39 | [Preto e Dinheiro](https://open.spotify.com/track/3kHxuY36nCmcKJ4GddBjIe) | [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Dfideliz](https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [Preto e Dinheiro](https://open.spotify.com/album/1nLXyI7gsmzdfU3Il7kaTk) | 3:17 |
 | 40 | [Versace](https://open.spotify.com/track/5rryOlcxbh700EuOa59waG) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [Lobo](https://open.spotify.com/album/7g1gfivaZsOOuf0a6Z1vsj) | 3:27 |
 | 41 | [Nova Fase](https://open.spotify.com/track/2V4uzJ0zujKhwlhVQ0NAQH) | [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX), [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Labbel Rec](https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX) | [Nova Fase](https://open.spotify.com/album/5CcnLJwMVyZBlDRxUzffWo) | 3:32 |
-| 42 | [né segredo](https://open.spotify.com/track/4pjznsLeoyimnxGlVpmyJI) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Victor WAO](https://open.spotify.com/artist/1ew4rMO5r0Oon1R9xZxo8Q), [Bairro 13](https://open.spotify.com/artist/2ippo8G3HMB1qEEJvkj8PT) | [né segredo](https://open.spotify.com/album/0RrjNaFfi2X1qVLPSLXTwT) | 2:35 |
+| 42 | [NÉ SEGREDO](https://open.spotify.com/track/4pjznsLeoyimnxGlVpmyJI) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Victor WAO](https://open.spotify.com/artist/1ew4rMO5r0Oon1R9xZxo8Q), [Bairro 13](https://open.spotify.com/artist/2ippo8G3HMB1qEEJvkj8PT) | [NÉ SEGREDO](https://open.spotify.com/album/0RrjNaFfi2X1qVLPSLXTwT) | 2:35 |
 | 43 | [Nois faz a moda](https://open.spotify.com/track/29cJDWOBQqeDPdYbu4kwki) | [Danzo](https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE), [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Labbel Rec](https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX) | [Nois faz a moda](https://open.spotify.com/album/35PHjpGIk3ICMNWOJ1GcXv) | 3:03 |
 | 44 | [Melhor Gestão](https://open.spotify.com/track/22yszoADkRxUuvJosP9hNg) | [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [éoTGL](https://open.spotify.com/artist/5h32OOrRYLBSUfE7COLjfx) | [Melhor Gestão](https://open.spotify.com/album/7cEPHEZOTSlTztMevEMXRT) | 3:26 |
 | 45 | [Daquele Jeitex](https://open.spotify.com/track/4BXgl19lg859NhJsmzhRbL) | [Robinho Duó](https://open.spotify.com/artist/1vaHLFercdMoZQrDZupT0B), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Daquele Jeitex](https://open.spotify.com/album/0OIKVpWaZAhGpbEQl6lVNT) | 2:44 |

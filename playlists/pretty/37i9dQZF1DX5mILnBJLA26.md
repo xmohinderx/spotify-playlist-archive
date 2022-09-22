@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The biggest Amapiano singles making waves in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf?si=hNZyuYs0RzmYcabohwsN7g">Musa Keys</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 339,876 likes - 79 songs - 8 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 340,174 likes - 79 songs - 8 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Gusheshe](https://open.spotify.com/track/5PRFgdwLTh9ghOFowF8Jhb) | [Frenzyoffixial](https://open.spotify.com/artist/0JTurBlK1OnYn1Ohq7fGuJ), [Bizizi](https://open.spotify.com/artist/1bd4LtfOcSzkWOjHKTj6yB), [KayGee DaKing](https://open.spotify.com/artist/6rQ1MAPgKqwX5hTZZdcJf2) | [Gusheshe](https://open.spotify.com/album/7r4X2vjz24MLwu4bmOljK0) | 4:15 |
-| 2 | [Manca](https://open.spotify.com/track/46ZvwmGP7q63FWnrvurH45) | [Felo Le Tee](https://open.spotify.com/artist/6k8odn7NzzTT4K3NBNtsfV), [TOSS](https://open.spotify.com/artist/0JwjW1x56tK5hnHvlRSSw9) | [Contagious](https://open.spotify.com/album/5P319u6XstqCetDIbyHqhB) | 6:19 |
-| 3 | [Hamba Wena](https://open.spotify.com/track/1hsFJ92y0FU2cFOOLkEFVr) | [Deep London](https://open.spotify.com/artist/4WcuDDFGfo4j6VHqkGmjZ8), [Boohle](https://open.spotify.com/artist/6fHE8xZBCxzwer9DIbOmv4) | [Hamba Wena](https://open.spotify.com/album/4vwKHSXGmqA0Fe9u9NLt51) | 6:14 |
+| 1 | [Hamba Wena](https://open.spotify.com/track/1hsFJ92y0FU2cFOOLkEFVr) | [Deep London](https://open.spotify.com/artist/4WcuDDFGfo4j6VHqkGmjZ8), [Boohle](https://open.spotify.com/artist/6fHE8xZBCxzwer9DIbOmv4) | [Hamba Wena](https://open.spotify.com/album/4vwKHSXGmqA0Fe9u9NLt51) | 6:14 |
+| 2 | [Gusheshe](https://open.spotify.com/track/5PRFgdwLTh9ghOFowF8Jhb) | [Frenzyoffixial](https://open.spotify.com/artist/0JTurBlK1OnYn1Ohq7fGuJ), [Bizizi](https://open.spotify.com/artist/1bd4LtfOcSzkWOjHKTj6yB), [KayGee DaKing](https://open.spotify.com/artist/6rQ1MAPgKqwX5hTZZdcJf2) | [Gusheshe](https://open.spotify.com/album/7r4X2vjz24MLwu4bmOljK0) | 4:15 |
+| 3 | [Manca](https://open.spotify.com/track/46ZvwmGP7q63FWnrvurH45) | [Felo Le Tee](https://open.spotify.com/artist/6k8odn7NzzTT4K3NBNtsfV), [TOSS](https://open.spotify.com/artist/0JwjW1x56tK5hnHvlRSSw9) | [Contagious](https://open.spotify.com/album/5P319u6XstqCetDIbyHqhB) | 6:19 |
 | 4 | [Wenza Kanjani \(feat\. 2woshort, TNK MusiQ & BoontleRSA\)](https://open.spotify.com/track/2zMTOFjChHz0XEcM0kRt4K) | [Mellow & Sleazy](https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz), [Chley](https://open.spotify.com/artist/7HpriU9gAJThxAfPfXpZ6N), [Boontle RSA](https://open.spotify.com/artist/47krblknOhmovlOAbneemK), [2woshort](https://open.spotify.com/artist/2CsKNR9HBBs3bAswmPz825), [TNK MusiQ](https://open.spotify.com/artist/2oA819q93vu53ZDkCJYdbN) | [Wenza Kanjani \(feat\. 2woshort, TNK MusiQ & BoontleRSA\)](https://open.spotify.com/album/5IbMEbXMh2jDgr7NQl3YZL) | 7:59 |
 | 5 | [Kuwe](https://open.spotify.com/track/7FNsLSsnXwRFD4nA4V2Low) | [Wanitwa Mos](https://open.spotify.com/artist/2iN5MhOgkenO5FtkPtEVAF), [Sir Trill](https://open.spotify.com/artist/4QkKUb73NVonTlAZaShsuY), [Nkosazana Daughter](https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66), [Master KG](https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF) | [Kuwe](https://open.spotify.com/album/5YbBn1xcNmmwChPYNppBiH) | 5:11 |
 | 6 | [Thula](https://open.spotify.com/track/7rmpguwTH3XwEPZMSeL4RH) | [Lowsheen](https://open.spotify.com/artist/5lnxhnW7SIbxkkFVmVYEhU), [Master KG](https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF), [Nkosazana Daughter](https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66) | [1st Chapter](https://open.spotify.com/album/3B1CgI8dnnBPhfCs0Nivgi) | 6:22 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 | 78 | [Ungowami \(feat\. Soa mattrix\)](https://open.spotify.com/track/4NseKMEm0pAGB1ZNFbROe5) | [Sha Sha](https://open.spotify.com/artist/0jUNGuEa2n7yyld7KjsVVT), [Soa Mattrix](https://open.spotify.com/artist/1GH6EGidwzL60gzvHscBHH) | [Ungowami \(feat\. Soa mattrix\)](https://open.spotify.com/album/4tUuueYCdrBWMgHv0S9bsy) | 7:10 |
 | 79 | [911](https://open.spotify.com/track/2K32tsPlIpjqD6G0VEOIRt) | [TheBoyTapes](https://open.spotify.com/artist/6ul6rON4n7muiiM9rMnBP8), [J Slayz](https://open.spotify.com/artist/0NV4GLGLjuLWL7Il9IOOdj) | [Yours In Sgija](https://open.spotify.com/album/6PiEay5G3WECPT1HPgbKri) | 5:51 |
 
-Snapshot ID: `MTY2MzU3ODEyNywwMDAwMDAwMGUxZDBhMzkwYmNlNGJkZjYzZmY4YjJkNjg4NTVmMDkz`
+Snapshot ID: `MTY2Mzc1NDc5MCwwMDAwMDAwMDhiZjU2ZTMwNTYyODVlNjU4OGExMmZlMTAzOTUyN2Fi`

@@ -1,12 +1,12 @@
 {
   "description": "the best of the deep end. cover: Kay9ine",
-  "num_followers": 74647,
+  "num_followers": 74731,
   "original_name": "lofi rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTQ1NDk0OCwwMDAwMDAwMDYxMDA1NWIyMDU3ZDA4OGY3YWQzOGIzYjk2NTMyZWMx",
+  "snapshot_id": "MTY1OTQ1NDk0OCwwMDAwMDAwMGY2NzcxYTU5MjE2ZTA0MmI5NWI4MDcwMjdkOWE5YTk3",
   "tracks": [
     {
       "added_at": "2022-08-02 15:42:28",
@@ -619,22 +619,6 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "Shipp\u016bden",
-        "url": "https://open.spotify.com/album/461qPAmmmkQD1GgIMYmC9F"
-      },
-      "artists": [
-        {
-          "name": "Blanco",
-          "url": "https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y"
-        }
-      ],
-      "duration_ms": 179594,
-      "name": "Shipp\u016bden",
-      "url": "https://open.spotify.com/track/6fGEfSUTyHgQZTiIbRoffC"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
         "name": "Why you gotta lie?",
         "url": "https://open.spotify.com/album/7HFZ5BPoa353YG5EOGXVLE"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 156053,
       "name": "Why you gotta lie?",
       "url": "https://open.spotify.com/track/492G9mKNRkoTJFybP2BItb"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
+        "name": "Shipp\u016bden",
+        "url": "https://open.spotify.com/album/461qPAmmmkQD1GgIMYmC9F"
+      },
+      "artists": [
+        {
+          "name": "Blanco",
+          "url": "https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y"
+        }
+      ],
+      "duration_ms": 179594,
+      "name": "Shipp\u016bden",
+      "url": "https://open.spotify.com/track/6fGEfSUTyHgQZTiIbRoffC"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -735,6 +735,22 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
+        "name": "Pain Interlude",
+        "url": "https://open.spotify.com/album/0kw7QYbgmMYuAKSQNt6GEF"
+      },
+      "artists": [
+        {
+          "name": "Tskinz",
+          "url": "https://open.spotify.com/artist/0nP9xNUoQMzpNU30wUJPap"
+        }
+      ],
+      "duration_ms": 68571,
+      "name": "Pain Interlude",
+      "url": "https://open.spotify.com/track/0tsSL4aCPiJ6ModYRFICy7"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
         "name": "One Pop",
         "url": "https://open.spotify.com/album/4T9g1LO1TxjclRuejUVawP"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 184320,
       "name": "One Pop",
       "url": "https://open.spotify.com/track/7Eb5AWWwaTIJnxhjsAGN92"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
-        "name": "Love Me",
-        "url": "https://open.spotify.com/album/74RU62iSSe3neoBz4z5nXe"
-      },
-      "artists": [
-        {
-          "name": "ArtistRD",
-          "url": "https://open.spotify.com/artist/3cdy10Sdneled46d13A74S"
-        }
-      ],
-      "duration_ms": 190615,
-      "name": "Love Me",
-      "url": "https://open.spotify.com/track/3LQpbD8HlWyQV3X7Ie6sEj"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -799,18 +799,18 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "Pain Interlude",
-        "url": "https://open.spotify.com/album/0kw7QYbgmMYuAKSQNt6GEF"
+        "name": "Love Me",
+        "url": "https://open.spotify.com/album/74RU62iSSe3neoBz4z5nXe"
       },
       "artists": [
         {
-          "name": "Tskinz",
-          "url": "https://open.spotify.com/artist/0nP9xNUoQMzpNU30wUJPap"
+          "name": "ArtistRD",
+          "url": "https://open.spotify.com/artist/3cdy10Sdneled46d13A74S"
         }
       ],
-      "duration_ms": 68571,
-      "name": "Pain Interlude",
-      "url": "https://open.spotify.com/track/0tsSL4aCPiJ6ModYRFICy7"
+      "duration_ms": 190615,
+      "name": "Love Me",
+      "url": "https://open.spotify.com/track/3LQpbD8HlWyQV3X7Ie6sEj"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "My Girl (Gemini)",
-        "url": "https://open.spotify.com/album/4HcQrTOX1TQMHu5QzBJJLh"
-      },
-      "artists": [
-        {
-          "name": "Stan",
-          "url": "https://open.spotify.com/artist/6EQXzOyzX6qAviHQ4npk6v"
-        }
-      ],
-      "duration_ms": 153045,
-      "name": "My Girl (Gemini)",
-      "url": "https://open.spotify.com/track/5rRWBRjLeIv9BwKgpeLrQb"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
         "name": "Moston Vale (Freestyle)",
         "url": "https://open.spotify.com/album/57EhN6tJNY3G8soKrijQYb"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 100466,
       "name": "Moston Vale - Freestyle",
       "url": "https://open.spotify.com/track/20xAxcLJtYfTgedHH58NP1"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
+        "name": "My Girl (Gemini)",
+        "url": "https://open.spotify.com/album/4HcQrTOX1TQMHu5QzBJJLh"
+      },
+      "artists": [
+        {
+          "name": "Stan",
+          "url": "https://open.spotify.com/artist/6EQXzOyzX6qAviHQ4npk6v"
+        }
+      ],
+      "duration_ms": 153045,
+      "name": "My Girl (Gemini)",
+      "url": "https://open.spotify.com/track/5rRWBRjLeIv9BwKgpeLrQb"
     },
     {
       "added_at": "2022-08-02 15:42:28",

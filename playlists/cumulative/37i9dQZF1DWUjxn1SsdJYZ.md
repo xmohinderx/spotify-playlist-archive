@@ -4,7 +4,7 @@
 
 > The best drill, trap and genre bending rap from Australia and NZ\. Cover: Dau Dau
 
-243 songs - 11 hr 48 min - [published](https://open.spotify.com/playlist/4Dkoxwgg3cIjwa7yuFFJFE)
+244 songs - 11 hr 52 min - [published](https://open.spotify.com/playlist/4Dkoxwgg3cIjwa7yuFFJFE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,8 @@
 | [Enough's Enough \(feat\. Hooligan Skinny\)](https://open.spotify.com/track/4M92sneuPjGS7A7h8DWM6z) | [BALLY BOY](https://open.spotify.com/artist/3MCpCeJATfWO5bOy5nf2F9), [Hooligan Skinny](https://open.spotify.com/artist/6E2hlUEGs0bO0ktdZKy1lh) | [Enough's Enough](https://open.spotify.com/album/7jGqdtGptrSL7LzUQJMg1P) | 2:44 | 2022-04-25 |  |
 | [Envy](https://open.spotify.com/track/4jd4JdmPdbFcTNSiuwy6Ze) | [The 046](https://open.spotify.com/artist/0rJUZobNG4r8bsot6DiF8g) | [Envy](https://open.spotify.com/album/7wFySan7YYZEuQoZKG9wCc) | 4:16 | 2022-03-21 | 2022-04-01 |
 | [Everyday Struggle](https://open.spotify.com/track/1L5eVkQE10XK5jCwmxhIVg) | [Dera Meelan](https://open.spotify.com/artist/3R1Rrzk35Rhldipx3IiKpp), [deadforest](https://open.spotify.com/artist/01BarUU13qIXPB0YlpVJgb) | [Everyday Struggle](https://open.spotify.com/album/4lecNiMhwOKgOiA4iQJflY) | 2:32 | 2022-06-23 | 2022-08-26 |
-| [Failure](https://open.spotify.com/track/1ajy7aofsnxnHc4s0KYj2u) | [MLBRN](https://open.spotify.com/artist/7ihFSoNSgZOARN8pLr6g5L) | [Failure](https://open.spotify.com/album/3cORMrzss2nGIqLy8L8Kyi) | 3:41 | 2022-05-26 |  |
+| [Failure](https://open.spotify.com/track/1ajy7aofsnxnHc4s0KYj2u) | [MLBRN](https://open.spotify.com/artist/7ihFSoNSgZOARN8pLr6g5L) | [Failure](https://open.spotify.com/album/3cORMrzss2nGIqLy8L8Kyi) | 3:41 | 2022-05-26 | 2022-09-22 |
+| [Failure](https://open.spotify.com/track/405xu818MRM5KnOj0bMxef) | [MLBRN](https://open.spotify.com/artist/7ihFSoNSgZOARN8pLr6g5L) | [Failure](https://open.spotify.com/album/62MeNgkwj9lBXfdB4S9HOP) | 3:41 | 2022-09-16 |  |
 | [FALL BACK](https://open.spotify.com/track/6uz8LJVC855p0mAjb36HTo) | [DSP](https://open.spotify.com/artist/17GAXOUu9d8YXnuwVeGphZ) | [FALL BACK](https://open.spotify.com/album/0uxPdMDxGswyeKxMjoCJyW) | 2:29 | 2022-09-15 |  |
 | [Favourite](https://open.spotify.com/track/2T1HDMEh7BDKfCZlKxET3D) | [NASA NOVA](https://open.spotify.com/artist/06QjJe1vLugKmPVdMKVCUR), [Youngn Lipz](https://open.spotify.com/artist/36PxHmbx5QrRTpuCaw4FuV) | [Favourite](https://open.spotify.com/album/6yZo8WscLdGcBeMyN8J3VH) | 2:27 | 2022-05-26 |  |
 | [Flows](https://open.spotify.com/track/3diJK6RzqoTaEUPF7X2c5Y) | [Southsidefredo](https://open.spotify.com/artist/7K5G8SF435R5tVM3rApmTb) | [Flows](https://open.spotify.com/album/3938pXJM3DhXENSWet0Oie) | 2:34 | 2022-07-25 |  |

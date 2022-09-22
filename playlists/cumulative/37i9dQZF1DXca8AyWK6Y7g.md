@@ -4,7 +4,7 @@
 
 > living life in your 250 sq ft micro apt\. Cover: Dylan
 
-1,286 songs - 2 day 18 hr 17 min - [published](https://open.spotify.com/playlist/5ughHfqxtBosozqZ6BniQD)
+1,287 songs - 2 day 18 hr 20 min - [published](https://open.spotify.com/playlist/5ughHfqxtBosozqZ6BniQD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -354,6 +354,7 @@
 | [Everything](https://open.spotify.com/track/7htpUANwMWFNWxSLPLNYuF) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5) | [Everything](https://open.spotify.com/album/3u1SEl8ukaL4B5MZitSatD) | 3:20 | 2021-08-06 | 2022-03-26 |
 | [Ew](https://open.spotify.com/track/5uucqkAbfZCxwdTWolFyju) | [Andi](https://open.spotify.com/artist/7fEXIS5LgSLbCdzTePqe0V) | [Ew](https://open.spotify.com/album/3Q4uaS3TVjQg4dsX0fn8F6) | 2:35 | 2022-02-04 | 2022-06-24 |
 | [Expensive \(feat\. Noah Cyrus\)](https://open.spotify.com/track/4QnJgCPkDgqSyOdjlI83ys) | [Rence](https://open.spotify.com/artist/3VJTtTgub426X1NuzcyAOb), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Expensive \(feat\. Noah Cyrus\)](https://open.spotify.com/album/0SUEY2iGWTpFiqLBr1GXHr) | 3:07 | 2019-06-27 | 2020-04-18 |
+| [Expiration Date](https://open.spotify.com/track/4gSeTIoKhkvGoebMtohlNC) | [NERIAH](https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG) | [Expiration Date](https://open.spotify.com/album/0qQxB4grsHTtUYCYlpUCFp) | 3:18 | 2022-09-16 |  |
 | [eyeroll](https://open.spotify.com/track/4PmIgAWDClzcK8e3wVPUaz) | [Jades Goudreault](https://open.spotify.com/artist/1LFfKkCrn95l1ZuxCNa3yN) | [eyeroll](https://open.spotify.com/album/42ZCXqkaOueRzUDba5L0Tt) | 2:49 | 2019-08-17 | 2021-01-30 |
 | [Eyes Wide Shut](https://open.spotify.com/track/3FhFlQuJiThN8PIUMHuikP) | [Glades](https://open.spotify.com/artist/14rP13jdQNgQvuPA2AkBgm) | [Eyes Wide Shut](https://open.spotify.com/album/6dQOeD3fOJY5X5zU9GbjVM) | 3:43 | 2019-05-26\* | 2020-02-19 |
 | [Failed English](https://open.spotify.com/track/7kj0SRhn9ovQ8N5dBtCPna) | [AVIV](https://open.spotify.com/artist/1EWcnusq6BavKMW5OCsRMo) | [Failed English](https://open.spotify.com/album/1BVE4R2Ze79EwSJ55Ha5hW) | 2:43 | 2021-12-03 | 2022-01-29 |
@@ -934,7 +935,7 @@
 | [Ruin](https://open.spotify.com/track/5Vox7L6Cw47f26umXwDQ53) | [Cate](https://open.spotify.com/artist/7D25zMq1tDmT0nfh6ieYph) | [Ruin](https://open.spotify.com/album/2ZCT35yKJ0HLLmQcuXzfk4) | 3:24 | 2022-06-10 | 2022-06-25 |
 | [ruin my life](https://open.spotify.com/track/2e2RJ0nomb2aAHpzbnL1aV) | [Kazi](https://open.spotify.com/artist/5AS6c56mjqwIGujc81FTVh) | [ruin my life](https://open.spotify.com/album/23Z5DQSMp0l6MVIKoAAhBr) | 2:46 | 2021-11-08 | 2022-01-29 |
 | [Run](https://open.spotify.com/track/7x6KLLjsxpR9zVfzUEGfX4) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [Run](https://open.spotify.com/album/2ZDJw4XzF5nEx4dEd7RmJP) | 3:16 | 2022-03-18 |  |
-| [Run & Hide](https://open.spotify.com/track/4ReVKQaXjsl7ihqY43pbXB) | [Isabel Wood](https://open.spotify.com/artist/7Lk61C1D1ZVyyMOLsCqYBO) | [Run & Hide](https://open.spotify.com/album/4XYTnZdyX9ltTsmrzaX4Iq) | 3:00 | 2022-05-06 |  |
+| [Run & Hide](https://open.spotify.com/track/4ReVKQaXjsl7ihqY43pbXB) | [Isabel Wood](https://open.spotify.com/artist/7Lk61C1D1ZVyyMOLsCqYBO) | [Run & Hide](https://open.spotify.com/album/4XYTnZdyX9ltTsmrzaX4Iq) | 3:00 | 2022-05-06 | 2022-09-22 |
 | [run away \(feat\. Chelsea Collins\)](https://open.spotify.com/track/5yZsE3TKmxdRVrSc8TCqfx) | [Foster](https://open.spotify.com/artist/6vCIRD06VaQwwaZS0TqiCz), [Chelsea Collins](https://open.spotify.com/artist/7BtP9ddB2rW3Q5TDfsI5YG) | [run away \(feat\. Chelsea Collins\)](https://open.spotify.com/album/7zVCh92Cr2xyHnSnheohp7) | 2:48 | 2021-10-08 | 2022-01-08 |
 | [Run Out](https://open.spotify.com/track/5sjeYIsN6g6WE65vUmpCs6) | [ALX](https://open.spotify.com/artist/1RE4ryNw7e9GftMcUeYKrR) | [Run Out](https://open.spotify.com/album/0mQf45gp7DrD5EteWXm7Ic) | 2:46 | 2021-09-17 | 2021-11-14 |
 | [Run to You](https://open.spotify.com/track/38LpvbIp9It4wkOYL9SVHM) | [Alicia Moffet](https://open.spotify.com/artist/5ph9A8j6xyDlLNZTqYgNV1) | [Intertwine](https://open.spotify.com/album/7gOFUUfTbscJuTXjh5hqTx) | 3:36 | 2022-03-25 | 2022-05-20 |

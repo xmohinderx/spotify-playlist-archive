@@ -133,7 +133,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-21",
+      "date_removed": null,
       "duration_ms": 74573,
       "name": "Computermatic",
       "url": "https://open.spotify.com/track/3O8IUG7HPVvLbp993DDdvU"
@@ -345,10 +345,28 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-22",
       "duration_ms": 46466,
       "name": "Doctor Who Opening Title Theme",
       "url": "https://open.spotify.com/track/2Izs9XIs1FJCdbgJKSV7ni"
+    },
+    {
+      "album": {
+        "name": "Doctor Who - The Sun Makers (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/3veythdmOIq5kZLK5HAG1b"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 46466,
+      "name": "Doctor Who Opening Title Theme",
+      "url": "https://open.spotify.com/track/6YB4kP8ZMACLbOU1edQFan"
     },
     {
       "album": {
@@ -411,7 +429,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-22",
       "duration_ms": 122400,
       "name": "Effervescence",
       "url": "https://open.spotify.com/track/2JCDGlSg42vh0I246sX0Vu"
@@ -605,7 +623,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-22",
       "duration_ms": 121573,
       "name": "Hannett and Delia synth exchanges track 14",
       "url": "https://open.spotify.com/track/4HdrI3r3t0t4VwikGGhovW"
@@ -715,7 +733,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-21",
+      "date_removed": null,
       "duration_ms": 34400,
       "name": "Hannett and Delia synth exchanges track 4",
       "url": "https://open.spotify.com/track/31w8FxWHtH85l41qSS9v1K"

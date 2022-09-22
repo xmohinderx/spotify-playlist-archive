@@ -2,9 +2,9 @@
 
 ### [Trap Nation](https://open.spotify.com/playlist/0NCspsyf0OS4BsPgGhkQXM)
 
-> The official Trap Nation playlist that includes all of our recent &amp; favorite songs
+> The official Trap Nation playlist that includes all of our recent &amp; favorite songs \- cover featuring NGHTMRE.
 
-468 songs - 1 day 1 hr 13 min - [published](https://open.spotify.com/playlist/4kcwyPbE1feiqHb7M3oaMd)
+470 songs - 1 day 1 hr 20 min - [published](https://open.spotify.com/playlist/4kcwyPbE1feiqHb7M3oaMd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [Falling Apart](https://open.spotify.com/track/5TQDtOeQ3IU2VqKbCn6Rwq) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Falling Apart](https://open.spotify.com/album/5ciCvi9pccBxbpOBwfHYom) | 3:58 | 2022-02-09 | 2022-03-19 |
 | [Falling Apart](https://open.spotify.com/track/7fUk94VXDQbK5T0agAdO75) | [Erd1](https://open.spotify.com/artist/3LszmpddOPySljVKFSmKl2) | [Falling Apart](https://open.spotify.com/album/06rTHS3eQKq1Gb0C8nzr66) | 2:48 | 2022-02-18 | 2022-03-19 |
 | [Falling Down](https://open.spotify.com/track/5soL5lwN1YMPkPKls97zFf) | [Coffeeshop](https://open.spotify.com/artist/4fPtMuPhGVwUEPW9g4dJlC), [Lost Heroes](https://open.spotify.com/artist/5J9yuE6EPQt3nwUVssAcDH), [D4RRYL](https://open.spotify.com/artist/7x3qvRA3StSkQIQlZidQma) | [Falling Down](https://open.spotify.com/album/4Ld4an3hPwPxiKGgH5vslE) | 3:01 | 2022-07-22 |  |
+| [Falling To Pieces](https://open.spotify.com/track/08fYifCMEDkqz09HcRLYGb) | [FREAKY](https://open.spotify.com/artist/6sYyA68IIlFTfDlHzDFlGT), [VLCN](https://open.spotify.com/artist/4jTgru4XsqeKA1L9xB9AzW), [Sara Benyo](https://open.spotify.com/artist/6jJS6oEAQ78VJ7RhG3KS4M) | [Falling To Pieces](https://open.spotify.com/album/3xxDbqWxFEWwt3vK7xRdlV) | 3:45 | 2022-09-21 |  |
 | [Feel High](https://open.spotify.com/track/1EQIDG6xyZif31tTKzm2DY) | [DaWave](https://open.spotify.com/artist/08jQkfZ4SwCcuK32awx5Fu) | [Feel High](https://open.spotify.com/album/6QSqkGrNsIlvMfshJbL3FW) | 2:59 | 2022-02-18 | 2022-03-19 |
 | [Feel Like That](https://open.spotify.com/track/3CIR15wMACnDSj4okplkKm) | [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra), [Idarose](https://open.spotify.com/artist/1KtWTt471icGsQwTn6z9ls) | [Overstimulated](https://open.spotify.com/album/2HNrUJc3c1HBRN4W0zZrQ3) | 2:57 | 2022-01-14 | 2022-02-05 |
 | [Fight for It](https://open.spotify.com/track/4T0ogybMZD4TgI6XUcU4gR) | [Synchronice](https://open.spotify.com/artist/1pOmjpg4X03jcvS2R0FY53) | [Fight for It](https://open.spotify.com/album/6fvKeq1LJDFhU5RB0d1KGG) | 3:29 | 2022-01-14 | 2022-02-17 |
@@ -267,6 +268,7 @@
 | [Magnets](https://open.spotify.com/track/2qoVyX8fGrZezlqgmQxMxz) | [Afinity](https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf), [HALIENE](https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj), [Dead Rose](https://open.spotify.com/artist/3rNr1eW0hok7zumZYUqyCM) | [Magnets](https://open.spotify.com/album/0zW1I56aQjsrJsGpxneROQ) | 3:39 | 2022-06-24 |  |
 | [Make Me Feel](https://open.spotify.com/track/7ikPaphh2LjopBdM7ZYUIp) | [James](https://open.spotify.com/artist/7BEGkUsN5twIV4IXuwr6xu), [Christina Nini](https://open.spotify.com/artist/5GFACpBDzfvoarK73KmZ23) | [Make Me Feel](https://open.spotify.com/album/3I4BX1fyA9UTYKvYOrEraL) | 4:18 | 2022-01-28 | 2022-02-15 |
 | [Mars](https://open.spotify.com/track/0qe82vcK8qrhxysdMQpBrt) | [Take/Five](https://open.spotify.com/artist/4MD0pIPxvGvPdohFuEkCua) | [Mars](https://open.spotify.com/album/4TIkvjDU9QucXlfKgvV899) | 2:35 | 2022-01-14 | 2022-02-17 |
+| [Masquerade \(RudeLies Remix\) \- SACRA BEATS Singles](https://open.spotify.com/track/11e6MOFGfxbRWKAJTx2DD2) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3), [RudeLies](https://open.spotify.com/artist/7hf6L4LN1RTVN66IdBVpPr) | [Masquerade \(RudeLies Remix\) \- SACRA BEATS Singles](https://open.spotify.com/album/4YaZOkNrKjzvPpaUHAVUC7) | 3:07 | 2022-09-21 |  |
 | [Matangi](https://open.spotify.com/track/3Y4MR8D4w6RJmtxXuVJ6sk) | [MEMBA](https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u), [SLUMBERJACK](https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS) | [Matangi](https://open.spotify.com/album/4Su74MoUdMkY6EMTobRuGG) | 3:18 | 2022-06-24 |  |
 | [Medusa \(The FifthGuys Remix\)](https://open.spotify.com/track/15OF5yNlvyWPZotjKoBRbh) | [M.I.M.E](https://open.spotify.com/artist/1RdQK73ZgvXjkaBJkibE6X), [The FifthGuys](https://open.spotify.com/artist/0Jk0TeNXrhhwOMmR2nNyZR), [2Scratch](https://open.spotify.com/artist/02qHcQfJCm2XlAnaJ5a6Rh) | [Medusa \(The FifthGuys Remix\)](https://open.spotify.com/album/6h8S4uBXthTVotNwX30HM3) | 2:47 | 2022-01-17 | 2022-02-17 |
 | [Meet Me](https://open.spotify.com/track/7l7Wtqi4ybiGVnFZ8vOYaf) | [Mickey Valen](https://open.spotify.com/artist/2tLI4kPsmsxQQv6zr2jbgt), [Noé](https://open.spotify.com/artist/6ATGuATiaPOyjNIc5AjP3R) | [Meet Me](https://open.spotify.com/album/6xWLz90CWI0ccidB5sD1UL) | 3:13 | 2022-01-14 | 2022-09-15 |

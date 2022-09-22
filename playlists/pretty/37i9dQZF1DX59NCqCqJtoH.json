@@ -1,12 +1,12 @@
 {
   "description": "We hear you.",
-  "num_followers": 904985,
+  "num_followers": 907072,
   "original_name": "idk.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzYxODU1NCwwMDAwMDAwMGQ0MmJmOGNjZjMzNWJlMzQ3Nzc0MmQyNDYzZTczMTk0",
+  "snapshot_id": "MTY2MzYxODU1NCwwMDAwMDAwMDhjZjQ2NTY3MGU2OWEwYTU2NDg5ZDczNzU0YmRiNTk3",
   "tracks": [
     {
       "added_at": "2022-09-19 20:15:53",
@@ -543,6 +543,22 @@
     {
       "added_at": "2022-09-19 20:15:53",
       "album": {
+        "name": "five seconds flat",
+        "url": "https://open.spotify.com/album/7vh3nkUP7HlDQIeSm7Ht6N"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 182887,
+      "name": "ceilings",
+      "url": "https://open.spotify.com/track/3hiuZQQ33aDnu4Xmmn8Lr7"
+    },
+    {
+      "added_at": "2022-09-19 20:15:53",
+      "album": {
         "name": "Oso Different",
         "url": "https://open.spotify.com/album/0Ga2a9eC2PvMNr8LRceotI"
       },
@@ -575,22 +591,6 @@
     {
       "added_at": "2022-09-19 20:15:53",
       "album": {
-        "name": "Broken",
-        "url": "https://open.spotify.com/album/2gMpqoJglKD1UJZot6YRZt"
-      },
-      "artists": [
-        {
-          "name": "Lund",
-          "url": "https://open.spotify.com/artist/5uLkZ7FWMTBUg1corQqdkR"
-        }
-      ],
-      "duration_ms": 200672,
-      "name": "Broken",
-      "url": "https://open.spotify.com/track/4W8sUeokQKfHt1uTXp0Jq0"
-    },
-    {
-      "added_at": "2022-09-19 20:15:53",
-      "album": {
         "name": "Blood Bank",
         "url": "https://open.spotify.com/album/6G2VFrsyr7jAiUYklrdKob"
       },
@@ -607,18 +607,18 @@
     {
       "added_at": "2022-09-19 20:15:53",
       "album": {
-        "name": "five seconds flat",
-        "url": "https://open.spotify.com/album/7vh3nkUP7HlDQIeSm7Ht6N"
+        "name": "Broken",
+        "url": "https://open.spotify.com/album/2gMpqoJglKD1UJZot6YRZt"
       },
       "artists": [
         {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+          "name": "Lund",
+          "url": "https://open.spotify.com/artist/5uLkZ7FWMTBUg1corQqdkR"
         }
       ],
-      "duration_ms": 182887,
-      "name": "ceilings",
-      "url": "https://open.spotify.com/track/3hiuZQQ33aDnu4Xmmn8Lr7"
+      "duration_ms": 200672,
+      "name": "Broken",
+      "url": "https://open.spotify.com/track/4W8sUeokQKfHt1uTXp0Jq0"
     },
     {
       "added_at": "2022-09-19 20:15:53",
@@ -655,22 +655,6 @@
     {
       "added_at": "2022-09-19 20:15:53",
       "album": {
-        "name": "Circles",
-        "url": "https://open.spotify.com/album/5sY6UIQ32GqwMLAfSNEaXb"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 330506,
-      "name": "Surf",
-      "url": "https://open.spotify.com/track/1kwnxJNVl7cwcU98RvMBaR"
-    },
-    {
-      "added_at": "2022-09-19 20:15:53",
-      "album": {
         "name": "Atlas: II",
         "url": "https://open.spotify.com/album/4mVqE0sAXMG9DpfWxxLhsh"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 256299,
       "name": "Touch",
       "url": "https://open.spotify.com/track/4g2WiijzSKzH8PApKDbadN"
+    },
+    {
+      "added_at": "2022-09-19 20:15:53",
+      "album": {
+        "name": "Circles",
+        "url": "https://open.spotify.com/album/5sY6UIQ32GqwMLAfSNEaXb"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 330506,
+      "name": "Surf",
+      "url": "https://open.spotify.com/track/1kwnxJNVl7cwcU98RvMBaR"
     },
     {
       "added_at": "2022-09-19 20:15:53",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2022-09-19 20:15:53",
       "album": {
-        "name": "Stranger in the Alps",
-        "url": "https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 324773,
-      "name": "Smoke Signals",
-      "url": "https://open.spotify.com/track/5w52BJAqGkV1ewaCVLmjhi"
-    },
-    {
-      "added_at": "2022-09-19 20:15:53",
-      "album": {
         "name": "dream girl",
         "url": "https://open.spotify.com/album/23LA5dOCq2mVA8sFzfp0V9"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 87408,
       "name": "dream girl",
       "url": "https://open.spotify.com/track/0Hfah746oDkvCS7ySP3k1c"
+    },
+    {
+      "added_at": "2022-09-19 20:15:53",
+      "album": {
+        "name": "Stranger in the Alps",
+        "url": "https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 324773,
+      "name": "Smoke Signals",
+      "url": "https://open.spotify.com/track/5w52BJAqGkV1ewaCVLmjhi"
     },
     {
       "added_at": "2022-09-19 20:15:53",
@@ -1303,22 +1303,18 @@
     {
       "added_at": "2022-09-19 20:15:53",
       "album": {
-        "name": "Japan",
-        "url": "https://open.spotify.com/album/0ebBY53dSSoq5xxcm2NUDX"
+        "name": "i'd rather be alone",
+        "url": "https://open.spotify.com/album/1x3tEgyI1qIANer0bj12bV"
       },
       "artists": [
         {
-          "name": "CuBox",
-          "url": "https://open.spotify.com/artist/4zlFLeqKTteBjaFysGR9CU"
-        },
-        {
-          "name": "Shiloh Dynasty",
-          "url": "https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r"
+          "name": "boodahki",
+          "url": "https://open.spotify.com/artist/0BOqSj7jZIVAyQXmpKRcmJ"
         }
       ],
-      "duration_ms": 170027,
-      "name": "Losing Interest",
-      "url": "https://open.spotify.com/track/1oE6bVjho2LQdTkDMq43Yd"
+      "duration_ms": 142940,
+      "name": "i'd rather be alone",
+      "url": "https://open.spotify.com/track/1doDUiGBnzCvo5VCUq59L1"
     },
     {
       "added_at": "2022-09-19 20:15:53",
@@ -1339,18 +1335,22 @@
     {
       "added_at": "2022-09-19 20:15:53",
       "album": {
-        "name": "i'd rather be alone",
-        "url": "https://open.spotify.com/album/1x3tEgyI1qIANer0bj12bV"
+        "name": "Japan",
+        "url": "https://open.spotify.com/album/0ebBY53dSSoq5xxcm2NUDX"
       },
       "artists": [
         {
-          "name": "boodahki",
-          "url": "https://open.spotify.com/artist/0BOqSj7jZIVAyQXmpKRcmJ"
+          "name": "CuBox",
+          "url": "https://open.spotify.com/artist/4zlFLeqKTteBjaFysGR9CU"
+        },
+        {
+          "name": "Shiloh Dynasty",
+          "url": "https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r"
         }
       ],
-      "duration_ms": 142940,
-      "name": "i'd rather be alone",
-      "url": "https://open.spotify.com/track/1doDUiGBnzCvo5VCUq59L1"
+      "duration_ms": 170027,
+      "name": "Losing Interest",
+      "url": "https://open.spotify.com/track/1oE6bVjho2LQdTkDMq43Yd"
     },
     {
       "added_at": "2022-09-19 20:15:53",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2022-09-19 20:15:53",
       "album": {
-        "name": "What If I Told You That I Love You",
-        "url": "https://open.spotify.com/album/0FJdFiVzdDw7YXiNdds38M"
-      },
-      "artists": [
-        {
-          "name": "Ali Gatie",
-          "url": "https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T"
-        }
-      ],
-      "duration_ms": 193667,
-      "name": "What If I Told You That I Love You",
-      "url": "https://open.spotify.com/track/74D7JUfU6HYeMx4bZhsHnG"
-    },
-    {
-      "added_at": "2022-09-19 20:15:53",
-      "album": {
         "name": "Forever & Always",
         "url": "https://open.spotify.com/album/06EYDifphG99Y4dmF44pwe"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 249704,
       "name": "Forever & Always",
       "url": "https://open.spotify.com/track/2keT649m2xIywngAVJHsuC"
+    },
+    {
+      "added_at": "2022-09-19 20:15:53",
+      "album": {
+        "name": "What If I Told You That I Love You",
+        "url": "https://open.spotify.com/album/0FJdFiVzdDw7YXiNdds38M"
+      },
+      "artists": [
+        {
+          "name": "Ali Gatie",
+          "url": "https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T"
+        }
+      ],
+      "duration_ms": 193667,
+      "name": "What If I Told You That I Love You",
+      "url": "https://open.spotify.com/track/74D7JUfU6HYeMx4bZhsHnG"
     },
     {
       "added_at": "2022-09-19 20:15:53",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2022-09-19 20:15:53",
       "album": {
-        "name": "Man\u2019s Best Friend",
-        "url": "https://open.spotify.com/album/2L1GB55rNVE3rQYPjCeUTt"
-      },
-      "artists": [
-        {
-          "name": "Cavetown",
-          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
-        }
-      ],
-      "duration_ms": 168960,
-      "name": "Idea of Her",
-      "url": "https://open.spotify.com/track/167NK7xPIRNKnSmUE9dBrQ"
-    },
-    {
-      "added_at": "2022-09-19 20:15:53",
-      "album": {
         "name": "Flight Risk EP",
         "url": "https://open.spotify.com/album/4aRnUT8j0PTjKKW7FJsrvb"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 157801,
       "name": "Shoot",
       "url": "https://open.spotify.com/track/3gy65ZTYP90rbEhHsHzcM0"
+    },
+    {
+      "added_at": "2022-09-19 20:15:53",
+      "album": {
+        "name": "Man\u2019s Best Friend",
+        "url": "https://open.spotify.com/album/2L1GB55rNVE3rQYPjCeUTt"
+      },
+      "artists": [
+        {
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+        }
+      ],
+      "duration_ms": 168960,
+      "name": "Idea of Her",
+      "url": "https://open.spotify.com/track/167NK7xPIRNKnSmUE9dBrQ"
     },
     {
       "added_at": "2022-09-19 20:15:53",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2022-09-19 20:15:53",
       "album": {
+        "name": "Don't Leave, Don't Go / Bleed",
+        "url": "https://open.spotify.com/album/1awanVhccvZ0L2WTMm9FfT"
+      },
+      "artists": [
+        {
+          "name": "Deyaz",
+          "url": "https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc"
+        }
+      ],
+      "duration_ms": 184242,
+      "name": "Don't Leave, Don't Go",
+      "url": "https://open.spotify.com/track/07nd9H2REZKIhVgp3n36YL"
+    },
+    {
+      "added_at": "2022-09-19 20:15:53",
+      "album": {
         "name": "Sick of Losing Soulmates",
         "url": "https://open.spotify.com/album/6QBJTOxkR7sM0snlvzD4d2"
       },
@@ -1615,22 +1631,6 @@
       "duration_ms": 160506,
       "name": "minor",
       "url": "https://open.spotify.com/track/1G9YZPtxUGfl1yVw7kq4yc"
-    },
-    {
-      "added_at": "2022-09-19 20:15:53",
-      "album": {
-        "name": "Don't Leave, Don't Go / Bleed",
-        "url": "https://open.spotify.com/album/1awanVhccvZ0L2WTMm9FfT"
-      },
-      "artists": [
-        {
-          "name": "Deyaz",
-          "url": "https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc"
-        }
-      ],
-      "duration_ms": 184242,
-      "name": "Don't Leave, Don't Go",
-      "url": "https://open.spotify.com/track/07nd9H2REZKIhVgp3n36YL"
     },
     {
       "added_at": "2022-09-19 20:15:53",

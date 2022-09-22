@@ -1,12 +1,12 @@
 {
   "description": "Listen to <a href=\"spotify:artist:1yqxFtPHKcGcv6SXZNdyT9\">MK</a>'s favorite tracks. Updated regularly. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 34467,
+  "num_followers": 34484,
   "original_name": "MK's track IDs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDc2Mzg1MywwMDAwMDAwMDViYzk0NjI2NjZkMWNkZTc3YzA2NjE3NDBhODg0OGZi",
+  "snapshot_id": "MTY2MDc2Mzg1MywwMDAwMDAwMGY0NGQ0ZGVhMWI1NmE2NGM3NjdhMTJkMTI0ZGRlZWNi",
   "tracks": [
     {
       "added_at": "2022-08-17 19:17:33",
@@ -1527,8 +1527,8 @@
     {
       "added_at": "2022-08-17 19:17:33",
       "album": {
-        "name": "Better (feat. Teddy Swims) [Coco & Breezy Remix]",
-        "url": "https://open.spotify.com/album/1hOKxyWerPZXeDLT8QLzsp"
+        "name": "Better EP (feat. Teddy Swims)",
+        "url": "https://open.spotify.com/album/6XTuLXNcNIzDaLzI6EwKXy"
       },
       "artists": [
         {
@@ -1550,7 +1550,7 @@
       ],
       "duration_ms": 207935,
       "name": "Better (feat. Teddy Swims) - Coco & Breezy Remix",
-      "url": "https://open.spotify.com/track/7t4I08GRiqL3Hckj74nuZJ"
+      "url": "https://open.spotify.com/track/3UlDH6ha7GsPkxKWpH8sPu"
     }
   ],
   "unique_name": "MK's track IDs",

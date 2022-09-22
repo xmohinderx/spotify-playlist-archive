@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lenzaqw2vs.md) - [plain]
 
 > LGBTQ+ artists and allies join this fiesta\. <br/>Cover: Nicole Zignago
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,894 likes - 130 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,891 likes - 130 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,8 +115,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lenzaqw2vs.md) - [plain]
 | 105 | [Elefantes en el Mar](https://open.spotify.com/track/50jfKGLblHExtW01B3PvRU) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8), [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO), [K.maleon](https://open.spotify.com/artist/34fVIn6K9SI57pQ9nbsKa3) | [Elefantes en el Mar](https://open.spotify.com/album/2CQW55VTC6eZj6JCo5gXxq) | 3:22 |
 | 106 | [Shake Me](https://open.spotify.com/track/3HHjh2PfayANYTxbrFOaM0) | [Alex Preston](https://open.spotify.com/artist/0f8HuVIxsHG6bnEZsz0RuD), [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta) | [Shake Me](https://open.spotify.com/album/3PDPYEtnkNDUkRH41WQFqd) | 3:31 |
 | 107 | [Florecer](https://open.spotify.com/track/5FumP2gv0p2x3LiWWamCXg) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [Florecer](https://open.spotify.com/album/46K5ezI95o13Nb3boUDTbT) | 2:26 |
-| 108 | [Heartbeat](https://open.spotify.com/track/7JKf9DEKBAdyILvDh4jzHy) | [REYNA](https://open.spotify.com/artist/4AHhe1KXVCCoOdHQNjH5Zu) | [Heartbeat](https://open.spotify.com/album/3GchcqeNKAlCtvYOOQ4JbV) | 3:36 |
-| 109 | [Pillándome](https://open.spotify.com/track/6VOTtgE47gLBcaAradlOmk) | [Bearoid](https://open.spotify.com/artist/2qxjB0LkbwvgLxmXN31Gp4) | [Pillándome](https://open.spotify.com/album/7g5KQmVTD7mtQSNWoO9S94) | 2:41 |
+| 108 | [Pillándome](https://open.spotify.com/track/6VOTtgE47gLBcaAradlOmk) | [Bearoid](https://open.spotify.com/artist/2qxjB0LkbwvgLxmXN31Gp4) | [Pillándome](https://open.spotify.com/album/7g5KQmVTD7mtQSNWoO9S94) | 2:41 |
+| 109 | [Heartbeat](https://open.spotify.com/track/7JKf9DEKBAdyILvDh4jzHy) | [REYNA](https://open.spotify.com/artist/4AHhe1KXVCCoOdHQNjH5Zu) | [Heartbeat](https://open.spotify.com/album/3GchcqeNKAlCtvYOOQ4JbV) | 3:36 |
 | 110 | [Toy en la calle 90' \- Pomperó Versión](https://open.spotify.com/track/7gGZFs8zmZvG52xLEzUKwV) | [Rita Indiana](https://open.spotify.com/artist/6xjy0XOCLNmstyCRTA8lIp) | [Toy en la calle 90'](https://open.spotify.com/album/6Ma1rCv2N5w2DpQ7IKxq0s) | 2:47 |
 | 111 | [El Valor](https://open.spotify.com/track/5gNIp69h35QFolrSLpUUEE) | [\( Me Llamo \) Sebastián](https://open.spotify.com/artist/5PoJhiT21fXvZitg3guhiJ), [Max Munizaga](https://open.spotify.com/artist/2IIMpGhxebwk3hkvf73Q8S), [Martín Berríos](https://open.spotify.com/artist/3EQz0AUS2CMV6lOu3Zplm2) | [El Valor](https://open.spotify.com/album/3NCBTlh4b6KwtbGq7R0Bku) | 4:09 |
 | 112 | [TODOELORO](https://open.spotify.com/track/3jSwGrzDjeTIgCEsxSCUkl) | [Frank Lucas](https://open.spotify.com/artist/4YWD5LjplBEohow8eVg230), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [TODOELORO](https://open.spotify.com/album/6i7YAlim3n93EXo4UQj8YD) | 2:51 |
@@ -126,8 +126,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lenzaqw2vs.md) - [plain]
 | 116 | [indirecta](https://open.spotify.com/track/3vpnqExDOGllL7YETxbffG) | [riela](https://open.spotify.com/artist/5K3Lwty6gv1gtuPn3gcf3A) | [llorar y perrear](https://open.spotify.com/album/65NoZ2j5Lp8gmc1BS6iJY9) | 2:49 |
 | 117 | [Buena Suerte Muchacha](https://open.spotify.com/track/2YY77lkRQXm4B4fdTHkrbO) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [Índigo](https://open.spotify.com/album/1JUFR4Qgot2SmMssrlsYNz) | 3:13 |
 | 118 | [Como un Dragón](https://open.spotify.com/track/1dqOeCbuvkeLltsLEsrCdM) | [Rita Indiana](https://open.spotify.com/artist/6xjy0XOCLNmstyCRTA8lIp) | [Como un Dragón](https://open.spotify.com/album/47LV3jJu8o4ae64QMQRCpc) | 2:48 |
-| 119 | [MANLY FRESA](https://open.spotify.com/track/3PbrpWZjpl3gUbUtr7rB9u) | [Kuinvi](https://open.spotify.com/artist/08w1NsqxgMffO78J6v0uCr) | [MANLY FRESA](https://open.spotify.com/album/6f8hrsCyhBoYLH20l7coSm) | 1:35 |
-| 120 | [Grande](https://open.spotify.com/track/4Ysxfregr1tcAeGxzBrLVi) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs), [Manu Manzo](https://open.spotify.com/artist/7EbduPILtytQAiMYt3nBb3) | [Grande](https://open.spotify.com/album/4x9XyYlT1YS2DUi47Onqt4) | 2:56 |
+| 119 | [Grande](https://open.spotify.com/track/4Ysxfregr1tcAeGxzBrLVi) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs), [Manu Manzo](https://open.spotify.com/artist/7EbduPILtytQAiMYt3nBb3) | [Grande](https://open.spotify.com/album/4x9XyYlT1YS2DUi47Onqt4) | 2:56 |
+| 120 | [MANLY FRESA](https://open.spotify.com/track/3PbrpWZjpl3gUbUtr7rB9u) | [Kuinvi](https://open.spotify.com/artist/08w1NsqxgMffO78J6v0uCr) | [MANLY FRESA](https://open.spotify.com/album/6f8hrsCyhBoYLH20l7coSm) | 1:35 |
 | 121 | [Loco](https://open.spotify.com/track/6phOWuwDjzWnFAaUVUpOdo) | [BrunOG](https://open.spotify.com/artist/4LDBZLf3EgeL87J9ZVSmRL), [MANCANDY](https://open.spotify.com/artist/1MYMkIxhD5Gsq0u0NhPFVq), [Tomasa del Real](https://open.spotify.com/artist/3Dz4sliAAIVOlALfHW9TtD) | [Loco](https://open.spotify.com/album/7b93aISs275w7pbYyEKvNA) | 3:15 |
 | 122 | [Infernodaga](https://open.spotify.com/track/0gygaSsjij3t4GDZkOjSNv) | [Dani Ride](https://open.spotify.com/artist/3KKA5IFGqdkUw7i657IEL6), [Mariel Mariel](https://open.spotify.com/artist/5MbC0GPijb60evRCEQLJAz) | [Infernodaga](https://open.spotify.com/album/765K6ffiCGHJHLxqYanWbz) | 3:32 |
 | 123 | [Llama A Tu Novio](https://open.spotify.com/track/29xiEKkbavb1wM1NTHxmq7) | [Solomon Ray](https://open.spotify.com/artist/6bSsC4nmXp8XTMbTO4CnkV), [MANCANDY](https://open.spotify.com/artist/1MYMkIxhD5Gsq0u0NhPFVq) | [La Mala Introducción](https://open.spotify.com/album/2rXmqm76mF6qneMLib4xiw) | 3:40 |
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lenzaqw2vs.md) - [plain]
 | 129 | [Sink Feel](https://open.spotify.com/track/2TLfVWcLhWVK4Jl4Dlx113) | [Rubby](https://open.spotify.com/artist/6iw4g0olqFqUdAGjkxjeAI), [DJ Python](https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl) | [Pájaro Malo](https://open.spotify.com/album/2xZv0ov3TVEDQMfBxugoo9) | 2:34 |
 | 130 | [Cocaino](https://open.spotify.com/track/3IhSU4z3ddjQWqFaTivzbo) | [Nomi Ruiz](https://open.spotify.com/artist/5VNCplADfySxatpXe5jjDM) | [Cocaino](https://open.spotify.com/album/6JBmwp8Kx38Pzj2YgABAoh) | 3:52 |
 
-Snapshot ID: `MTY1NzA0ODgwNCwwMDAwMDAwMDE0YjY0MzlhYzcwYjQyOGJmNWY0MzI0NDdkODJmZWQ0`
+Snapshot ID: `MTY1NzA0ODgwNCwwMDAwMDAwMGQ2ZjlmYjU5ZDU1ZWI0YWM1Y2FkOTQ3ODQwMzg0Njcx`

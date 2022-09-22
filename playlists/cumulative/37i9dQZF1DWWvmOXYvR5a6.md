@@ -4,7 +4,7 @@
 
 > Trendy x Chill K\-Hip Hop\.  \(Cover: Youth Hostel\(유스호스텔\)\) \(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
 
-515 songs - 1 day 4 hr 12 min - [published](https://open.spotify.com/playlist/6YybdrER9IpLcTWs3zQt76)
+516 songs - 1 day 4 hr 15 min - [published](https://open.spotify.com/playlist/6YybdrER9IpLcTWs3zQt76)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [Circle](https://open.spotify.com/track/4qqW3wmhuDfAVmunCWgQft) | [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [Circle](https://open.spotify.com/album/6tFJAhAgIY4w0XJdSZ6ocD) | 2:29 | 2022-04-21 | 2022-07-27 |
 | [City Life](https://open.spotify.com/track/3yp1VIzV5AjvvzzrgJ18SM) | [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [ROOM SERVICE](https://open.spotify.com/album/1GbGtBHI4yiKprKQq81El0) | 3:15 | 2022-04-01 | 2022-09-06 |
 | [Close 2 U \(Feat\. punchnello\)](https://open.spotify.com/track/2JEoX5yEqXWav17xOgB62p) | [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W), [punchnello](https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv) | [grayground.](https://open.spotify.com/album/0mKZ3E9OFlnbMboE22h0VK) | 3:17 | 2022-04-01 | 2022-07-28 |
-| [Cloudy](https://open.spotify.com/track/4S3eMpe0adhssyj8N7nWoR) | [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY) | [bimil:ier vol.6 "Cloudy"](https://open.spotify.com/album/3EO7FdK1ZK2Pb7TfIZGqhX) | 3:27 | 2022-06-18 |  |
+| [Cloudy](https://open.spotify.com/track/4S3eMpe0adhssyj8N7nWoR) | [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY) | [bimil:ier vol.6 "Cloudy"](https://open.spotify.com/album/3EO7FdK1ZK2Pb7TfIZGqhX) | 3:27 | 2022-06-18 | 2022-09-22 |
 | [COCO BOTTLE](https://open.spotify.com/track/3hHpCjJdBBw4KjizY8l72r) | [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY) | [COCO BOTTLE](https://open.spotify.com/album/18T01XcLc1WzIZ3bCzwOsg) | 3:07 | 2022-05-26 |  |
 | [Coin Laundry](https://open.spotify.com/track/7c15oEQBX6E0hGdDSsGxZy) | [Donutman](https://open.spotify.com/artist/2xH4dYFMVhdOGIhgIWonbc) | [Coin Laundry](https://open.spotify.com/album/1WiFGqAYwIO3Zb16PXe9Q3) | 2:44 | 2022-04-01 |  |
 | [Cold \(Feat\. SUPERBEE\) \(Prod\. Way Ched\)](https://open.spotify.com/track/187yTccJjpINpPGWH1qtDy) | [D.Ark](https://open.spotify.com/artist/2UaheMCNCnN1CrrnZnmh3j), [SUPERBEE](https://open.spotify.com/artist/0Q5XzDpn7DCI5jlubok4xb) | [School Rapper4 Semi Final 1](https://open.spotify.com/album/6ulztrg2KC1H7pjfp1l8Et) | 4:01 | 2022-04-21 | 2022-07-13 |
@@ -521,6 +521,7 @@
 | [달탈출 \(prod\. Eric Godlow\)](https://open.spotify.com/track/5tHZeai2kCe9wIiMhnUjfn) | [윤해찬](https://open.spotify.com/artist/4egBOzXgXYoswwOvmxrmJ1) | [Escape From The Moon](https://open.spotify.com/album/4ZYJasF7PL3F3ZRUVnKxao) | 4:10 | 2022-06-27 | 2022-06-30 |
 | [무너져 \(Art\. VEAN\)](https://open.spotify.com/track/6VVIJyheSpW8hM4CTr9xXR) | [Anonymous Artists](https://open.spotify.com/artist/6U6zWkFtgM3UU5c1hBlGCD) | [ARTIST\. VEAN](https://open.spotify.com/album/58ke1EMXzfH9T6NgmSsXOd) | 2:52 | 2022-05-11 | 2022-05-21 |
 | [빙그레](https://open.spotify.com/track/1gtabUo4ov467fUjf2514i) | [YongYong](https://open.spotify.com/artist/4lgoUoPxqxjZMtN0raCBVK), [D\-Hack](https://open.spotify.com/artist/6Ycj4hhpz2nOfsYCU1gHqR) | [빙그레](https://open.spotify.com/album/6B9m5Qnxof67GWuBYBROxU) | 3:04 | 2022-08-17 | 2022-09-01 |
+| [오염](https://open.spotify.com/track/0GtvTl4sjuDRJF59MjywwO) | [Hwaji](https://open.spotify.com/artist/1Azg0okIA7BY6CMwRBLmud) | [오염,추](https://open.spotify.com/album/2A8D0clrVMyW9KsYRTiZWQ) | 2:45 | 2022-09-06 |  |
 | [이 고요가 너무 좋아](https://open.spotify.com/track/2KvpeVhE15918QtnCc3QCJ) | [BOYHOOD](https://open.spotify.com/artist/2r8smtQqQ7z4M9guHnawaM) | [수면마취](https://open.spotify.com/album/4aXsVV3ulNKMj6H3TZThgS) | 3:06 | 2022-04-01 | 2022-07-14 |
 | [후회 \(feat\. 김승민\)](https://open.spotify.com/track/6mGDrU10ewbBdeJrgD5ScG) | [CARSPACE](https://open.spotify.com/artist/6mScVyqAyNG48yrL20Rdd4), [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ) | [L.V.D \(LOVED YOU\)](https://open.spotify.com/album/5lAl1gROcOPUFHczVMo2rT) | 3:52 | 2022-07-04 | 2022-07-15 |
 

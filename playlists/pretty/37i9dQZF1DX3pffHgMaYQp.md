@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3pffHgMaYQp.md) - [plain]
 
 > música para insubordinados\. Las Decapitadas en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,931 likes - 60 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,939 likes - 60 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3pffHgMaYQp.md) - [plain]
 | 48 | [Todo el mundo miente](https://open.spotify.com/track/5ScYhM18hLZ9ZlDYyGuVUy) | [Las Dianas](https://open.spotify.com/artist/5jTPdO06h2aTkDtHCYMAIm) | [Lo Que Te Pide el Cuerpo](https://open.spotify.com/album/6WjosRVMn4vFuwzDHAln2m) | 3:27 |
 | 49 | [Por Que](https://open.spotify.com/track/7mi455N9KTLTKfxEjXwgAw) | [Mujeres Podridas](https://open.spotify.com/artist/2zy61vaLJYK5I9zcoZWOEt) | [Muerte en Paraíso](https://open.spotify.com/album/0x2HFQ4eCRCCYmXvzg6uOE) | 1:58 |
 | 50 | [Danza de Sol](https://open.spotify.com/track/2IHswTTnpUppvV8jn7PHqH) | [Los Cogelones](https://open.spotify.com/artist/0E6wzL7Jdd5XiLjadvcpKS) | [Hijos del Sol](https://open.spotify.com/album/0syY8WEuVTi39vVHfrCbjq) | 3:10 |
-| 51 | [videoclub \(Remasterizado 2021\)](https://open.spotify.com/track/3zjxH68heuJi9YGAlHuOG4) | [mitimitis](https://open.spotify.com/artist/3iEWpEqmO2yLUPIiu7Dv9F) | [videoclub](https://open.spotify.com/album/6F8kAxB0RbrQud6iceMMl2) | 3:14 |
+| 51 | [videoclub](https://open.spotify.com/track/3zjxH68heuJi9YGAlHuOG4) | [mitimitis](https://open.spotify.com/artist/3iEWpEqmO2yLUPIiu7Dv9F) | [videoclub](https://open.spotify.com/album/6F8kAxB0RbrQud6iceMMl2) | 3:14 |
 | 52 | [El Mamado](https://open.spotify.com/track/3XXqSjT0L6zNCZfZgIWyYB) | [NecroMorfo](https://open.spotify.com/artist/6YDoxyvY3LtbFAmafiPEz7) | [1 Soldado en cada Hijo te Dió](https://open.spotify.com/album/5dTcSCSkBzmcDaWENrbe3e) | 2:45 |
 | 53 | [Perro Quieto](https://open.spotify.com/track/1xrODYFckm3LB32KtUgpbJ) | [Loiis](https://open.spotify.com/artist/3VBZYuZlqBLBXKNtCz5knz) | [Wimbledon](https://open.spotify.com/album/1MwiOHgqYHnyfzuHIKhw5p) | 5:13 |
 | 54 | [Cuarzo](https://open.spotify.com/track/7BfEoUL8MA6kEL2Wgo30Mn) | [Neptuna](https://open.spotify.com/artist/6zucgTdBIrQ7ULFhw7MG1G) | [Mar Rojo](https://open.spotify.com/album/0nhIXD1q9Yi2SocNaHUfR0) | 3:26 |

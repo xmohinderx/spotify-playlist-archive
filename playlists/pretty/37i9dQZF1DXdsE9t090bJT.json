@@ -1,12 +1,12 @@
 {
   "description": "Amor a la mexicana, canciones para dedicarle al amor de tu vida.",
-  "num_followers": 15288,
+  "num_followers": 15325,
   "original_name": "S\u00f3lo Para Amarte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDYxMTA5NCwwMDAwMDAwMDhjY2JlNTQ2YzRiNmJlZDhmMzhhN2UyNWEyZDI2ZDFi",
+  "snapshot_id": "MTY0NDYxMTA5NCwwMDAwMDAwMDJjZGE5MTE1YTEwZDcxMzI1NzJkMTUxMjIxMjgwZGUz",
   "tracks": [
     {
       "added_at": "2022-02-11 20:24:54",
@@ -227,22 +227,6 @@
     {
       "added_at": "2022-02-11 20:24:54",
       "album": {
-        "name": "Pistiembre Todo El A\u00f1o (En Vivo)",
-        "url": "https://open.spotify.com/album/4Q7M6FhTy0WhQcqHr8uIQt"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 177249,
-      "name": "Como Que Me Enamoro - En Vivo",
-      "url": "https://open.spotify.com/track/7IZ738mnMnhVhxzn8m06qn"
-    },
-    {
-      "added_at": "2022-02-11 20:24:54",
-      "album": {
         "name": "Tragos y Cigarros",
         "url": "https://open.spotify.com/album/7yeopeDDLOvHmgtgyTYG9S"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 166666,
       "name": "Piel de Seda",
       "url": "https://open.spotify.com/track/5BGVjoFtSSYov2pMpmo1La"
+    },
+    {
+      "added_at": "2022-02-11 20:24:54",
+      "album": {
+        "name": "Pistiembre Todo El A\u00f1o (En Vivo)",
+        "url": "https://open.spotify.com/album/4Q7M6FhTy0WhQcqHr8uIQt"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 177249,
+      "name": "Como Que Me Enamoro - En Vivo",
+      "url": "https://open.spotify.com/track/7IZ738mnMnhVhxzn8m06qn"
     },
     {
       "added_at": "2022-02-11 20:24:54",
@@ -635,6 +635,22 @@
     {
       "added_at": "2022-02-11 20:24:54",
       "album": {
+        "name": "Eres Vida",
+        "url": "https://open.spotify.com/album/1s9ha8ihTBqdKYjSXK78kC"
+      },
+      "artists": [
+        {
+          "name": "Duelo",
+          "url": "https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq"
+        }
+      ],
+      "duration_ms": 204545,
+      "name": "Un Hombre con Suerte",
+      "url": "https://open.spotify.com/track/3yoYYOzDtvt3V7vUWNjfC1"
+    },
+    {
+      "added_at": "2022-02-11 20:24:54",
+      "album": {
         "name": "Hombre Afortunado (Deluxe)",
         "url": "https://open.spotify.com/album/0QVMOQ8NYtNcOSq6fR4osl"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 212720,
       "name": "Lo Que Te Amo",
       "url": "https://open.spotify.com/track/2IqNbflEkshezwf3F814H8"
-    },
-    {
-      "added_at": "2022-02-11 20:24:54",
-      "album": {
-        "name": "Sin Sentimientos",
-        "url": "https://open.spotify.com/album/3lG97wu5XvXTzclZNqkAGU"
-      },
-      "artists": [
-        {
-          "name": "Design\u00f3",
-          "url": "https://open.spotify.com/artist/0U8mxS5KYSDoQTrziRHfL4"
-        }
-      ],
-      "duration_ms": 178431,
-      "name": "Quiero Darte",
-      "url": "https://open.spotify.com/track/2A9og47Yp9p3cpfJ8qgcoF"
     },
     {
       "added_at": "2022-02-11 20:24:54",
@@ -683,18 +683,18 @@
     {
       "added_at": "2022-02-11 20:24:54",
       "album": {
-        "name": "Eres Vida",
-        "url": "https://open.spotify.com/album/1s9ha8ihTBqdKYjSXK78kC"
+        "name": "Sin Sentimientos",
+        "url": "https://open.spotify.com/album/3lG97wu5XvXTzclZNqkAGU"
       },
       "artists": [
         {
-          "name": "Duelo",
-          "url": "https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq"
+          "name": "Design\u00f3",
+          "url": "https://open.spotify.com/artist/0U8mxS5KYSDoQTrziRHfL4"
         }
       ],
-      "duration_ms": 204545,
-      "name": "Un Hombre con Suerte",
-      "url": "https://open.spotify.com/track/3yoYYOzDtvt3V7vUWNjfC1"
+      "duration_ms": 178431,
+      "name": "Quiero Darte",
+      "url": "https://open.spotify.com/track/2A9og47Yp9p3cpfJ8qgcoF"
     },
     {
       "added_at": "2022-02-11 20:24:54",
@@ -867,6 +867,22 @@
     {
       "added_at": "2022-02-11 20:24:54",
       "album": {
+        "name": "Mexicana Enamorada",
+        "url": "https://open.spotify.com/album/6mkOolBljGoPHJAvsI7deX"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 287277,
+      "name": "Te Quiero para Mi\u0301",
+      "url": "https://open.spotify.com/track/2ftfhExQaYLkbqqhUa5Vwz"
+    },
+    {
+      "added_at": "2022-02-11 20:24:54",
+      "album": {
         "name": "M\u00e9xico de Mi Coraz\u00f3n, Vol. 2",
         "url": "https://open.spotify.com/album/1Me7BNQom5WrqVsZE2igCY"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 205386,
       "name": "Qu\u00e9 Bueno Es Tenerte",
       "url": "https://open.spotify.com/track/5tHTGILurH1rAclKt78TQC"
-    },
-    {
-      "added_at": "2022-02-11 20:24:54",
-      "album": {
-        "name": "Mexicana Enamorada",
-        "url": "https://open.spotify.com/album/6mkOolBljGoPHJAvsI7deX"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 287277,
-      "name": "Te Quiero para Mi\u0301",
-      "url": "https://open.spotify.com/track/2ftfhExQaYLkbqqhUa5Vwz"
     },
     {
       "added_at": "2022-02-11 20:24:54",
@@ -1747,6 +1747,22 @@
     {
       "added_at": "2022-02-11 20:24:54",
       "album": {
+        "name": "Ni Yo Me la Creo",
+        "url": "https://open.spotify.com/album/5QmEkyUSOAwp6pQqxPYBwx"
+      },
+      "artists": [
+        {
+          "name": "Jonatan Sanchez",
+          "url": "https://open.spotify.com/artist/4RBmbtdnz7QK9ddu4CWz1L"
+        }
+      ],
+      "duration_ms": 187739,
+      "name": "Ni Yo Me la Creo",
+      "url": "https://open.spotify.com/track/2zNVZ7kG8wFNPb5wE4qRBd"
+    },
+    {
+      "added_at": "2022-02-11 20:24:54",
+      "album": {
         "name": "S\u00f3lo Me Faltabas T\u00fa",
         "url": "https://open.spotify.com/album/2fn1kCf7XoVAZUP2wZRDv5"
       },
@@ -1763,22 +1779,6 @@
       "duration_ms": 210953,
       "name": "S\u00f3lo Me Faltabas T\u00fa",
       "url": "https://open.spotify.com/track/2iczDnKcdpfqxzc5fsFcRP"
-    },
-    {
-      "added_at": "2022-02-11 20:24:54",
-      "album": {
-        "name": "Ni Yo Me la Creo",
-        "url": "https://open.spotify.com/album/5QmEkyUSOAwp6pQqxPYBwx"
-      },
-      "artists": [
-        {
-          "name": "Jonatan Sanchez",
-          "url": "https://open.spotify.com/artist/4RBmbtdnz7QK9ddu4CWz1L"
-        }
-      ],
-      "duration_ms": 187739,
-      "name": "Ni Yo Me la Creo",
-      "url": "https://open.spotify.com/track/2zNVZ7kG8wFNPb5wE4qRBd"
     },
     {
       "added_at": "2022-02-11 20:24:54",

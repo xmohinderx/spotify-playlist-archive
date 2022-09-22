@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFNWN7fsnAm.md) - [plain]
 
 > Listen to <a href="spotify:artist:1yqxFtPHKcGcv6SXZNdyT9">MK</a>'s favorite tracks\. Updated regularly\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,467 likes - 85 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,484 likes - 85 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,6 +92,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFNWN7fsnAm.md) - [plain]
 | 82 | [My Church](https://open.spotify.com/track/6TKfUcycoUsmVPPmow9UVl) | [Will Clarke](https://open.spotify.com/artist/1OmOdgwIzub8DYPxQYbbbi), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [My Church](https://open.spotify.com/album/6Q7Jq268XHZ8p43gt5Unkq) | 3:19 |
 | 83 | [We Will Forgive Ourselves \- MK Dub](https://open.spotify.com/track/1iZtXObHD0IQjLF8iIto11) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [We Will Forgive Ourselves \(Remixes\)](https://open.spotify.com/album/5HUKGlJKoTqnvgM5Uy9CmV) | 6:30 |
 | 84 | [Love Is All There Is](https://open.spotify.com/track/417UCvVyOKB2Mh6Ywkg3Um) | [Future Utopia](https://open.spotify.com/artist/1vlBj1Zv2y6dCNdGeIBsNo) | [Love is All There Is](https://open.spotify.com/album/00MWIZtAXPBKxMdLvHQvRT) | 4:46 |
-| 85 | [Better \(feat\. Teddy Swims\) \- Coco & Breezy Remix](https://open.spotify.com/track/7t4I08GRiqL3Hckj74nuZJ) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [BURNS](https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG) | [Better \(feat\. Teddy Swims\) \[Coco & Breezy Remix\]](https://open.spotify.com/album/1hOKxyWerPZXeDLT8QLzsp) | 3:27 |
+| 85 | [Better \(feat\. Teddy Swims\) \- Coco & Breezy Remix](https://open.spotify.com/track/3UlDH6ha7GsPkxKWpH8sPu) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [BURNS](https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG) | [Better EP \(feat\. Teddy Swims\)](https://open.spotify.com/album/6XTuLXNcNIzDaLzI6EwKXy) | 3:27 |
 
-Snapshot ID: `MTY2MDc2Mzg1MywwMDAwMDAwMDViYzk0NjI2NjZkMWNkZTc3YzA2NjE3NDBhODg0OGZi`
+Snapshot ID: `MTY2MDc2Mzg1MywwMDAwMDAwMGY0NGQ0ZGVhMWI1NmE2NGM3NjdhMTJkMTI0ZGRlZWNi`

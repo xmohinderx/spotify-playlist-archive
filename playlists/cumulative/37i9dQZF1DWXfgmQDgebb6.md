@@ -2,9 +2,9 @@
 
 ### [Hipster K' Pack](https://open.spotify.com/playlist/37i9dQZF1DWXfgmQDgebb6)
 
-> Korean hipster & experimental music essential\. 당신의 힙스터 감성을 충전해줄 인디 곡들을 만나보세요\. \(Cover: Zayvo\(제이보\)\)
+> Korean hipster & experimental music essential\. 당신의 힙스터 감성을 충전해줄 인디 곡들을 만나보세요\. \(Cover: Dopein\)
 
-220 songs - 12 hr 12 min - [published](https://open.spotify.com/playlist/5Hrdjsp6aBkwAdiPnbMIoP)
+221 songs - 12 hr 15 min - [published](https://open.spotify.com/playlist/5Hrdjsp6aBkwAdiPnbMIoP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,7 @@
 | [home \(feat\. Hesper\)](https://open.spotify.com/track/464h8vrQbuDmTSijuP0CvO) | [GongGongGoo009](https://open.spotify.com/artist/1xI51JmMVnw1XVCPeA4eiY), [Hesper](https://open.spotify.com/artist/7rOHC7zGWrPNUYrAQXviPs) | [space](https://open.spotify.com/album/2sZrEiT7qIJ07gEbldGjnB) | 4:25 | 2022-05-27 | 2022-07-26 |
 | [Hope](https://open.spotify.com/track/2fjB4nrW8yaDvaDddhO06a) | [Zayvo](https://open.spotify.com/artist/0FmgnSatLqM7wQPSkdTN3g) | [Share Your Heart](https://open.spotify.com/album/2R7KBtvoygAaNAbQXmGDQ8) | 2:40 | 2022-08-11 |  |
 | [How You Like? \(Feat\. SUMIN\)](https://open.spotify.com/track/5Nukkz9plhlGC9dUYkTKbU) | [Xin Seha](https://open.spotify.com/artist/4kuTWggHz7FWxKVh3hdqA5), [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU) | [I Just Can’t Control My Feet!](https://open.spotify.com/album/2MVgQrstFueu9DaTUeZtc4) | 3:24 | 2022-09-05 |  |
-| [HOWL](https://open.spotify.com/track/10WHVzgIky5w6pIgG8tePU) | [Luli Lee](https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK) | [HOWL](https://open.spotify.com/album/5BzJygUNWvRFzkUBI460Ob) | 3:32 | 2022-05-27 |  |
+| [HOWL](https://open.spotify.com/track/10WHVzgIky5w6pIgG8tePU) | [Luli Lee](https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK) | [HOWL](https://open.spotify.com/album/5BzJygUNWvRFzkUBI460Ob) | 3:32 | 2022-05-27 | 2022-09-22 |
 | [HUGS](https://open.spotify.com/track/583rLTKKTkwEuCj0Gri6RP) | [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU) | [HUGS](https://open.spotify.com/album/6xnmgnvEcwAHXYQpVw7yRl) | 3:44 | 2022-09-05 |  |
 | [HUMAN \(Prod\. Will Not Fear\)](https://open.spotify.com/track/5lGZG3bjtSWQzqtdwWMVTf) | [Untell](https://open.spotify.com/artist/3A1b2Lg9tPuQyR7ab1xgp8) | [HUMAN, the single](https://open.spotify.com/album/2dH0UCptGnb1GSN91IU9AW) | 3:00 | 2022-05-27 | 2022-07-21 |
 | [I am a Sweetbrier \(feat\. Kyo\)](https://open.spotify.com/track/2e4beAtfC2Dapeb4KGyDyy) | [Seokjune Kim](https://open.spotify.com/artist/3OsuchbtFL0EzTA9M8wvF8), [Kyo](https://open.spotify.com/artist/1HAZwrmyvWqcTiFfomPyhc) | [I am a Sweetbrier](https://open.spotify.com/album/40M893U0iFpqfsbeAZ1xTG) | 3:13 | 2022-06-29 | 2022-07-05 |
@@ -115,6 +115,7 @@
 | [Las Vegas](https://open.spotify.com/track/4vZj8gr1gRjLlWAUk8V1BS) | [The Deep](https://open.spotify.com/artist/0hYtrPQ05Qu1N5r0QcpoDp) | [Las Vegas](https://open.spotify.com/album/1burdczobFkHvGDcw2Va88) | 3:12 | 2022-05-27 | 2022-07-25 |
 | [LAST NIGHT](https://open.spotify.com/track/6SLz0d8qOwxDGsVz1D6cMw) | [Kidd King](https://open.spotify.com/artist/5bOD7SS2RP7gzcNstJeCuF) | [EMOTIONAL BAGGAGE](https://open.spotify.com/album/2w5NOGfn9lrizZoXhktoVP) | 3:06 | 2022-05-27 | 2022-07-19 |
 | [laugh!](https://open.spotify.com/track/0IC3nbx1BJSbgtgBYJynmh) | [cott \(콧\)](https://open.spotify.com/artist/3LEYZADVQJLFNHzCf4qxzs) | [TWIST](https://open.spotify.com/album/5ZkAwSmcnVoPuR4ZbmXcaz) | 2:55 | 2022-06-13 | 2022-07-29 |
+| [Lauren](https://open.spotify.com/track/2mAhxwO0fLjISvxim2Seap) | [Dopein](https://open.spotify.com/artist/3Ad2aAlqtVBScdhET9ZPwt) | [Lauren](https://open.spotify.com/album/47iCW4EIDHE8XeakoStZhf) | 3:03 | 2022-09-21 |  |
 | [Lifemustgoon](https://open.spotify.com/track/1WMPcQcUGlBpB1fwTVzDfn) | [Os Noma](https://open.spotify.com/artist/2Iq56aPt8aSs2ONhBrDbYt), [B JYUN.](https://open.spotify.com/artist/5PwuVLkbZ6WNRzX046RGi1) | [Lifemustgoon](https://open.spotify.com/album/2b1RqPGUmDNjC05nWoY0Lv) | 1:59 | 2022-05-27 | 2022-07-05 |
 | [Liquor](https://open.spotify.com/track/4ouWk35JipdUIXfnvqg57U) | [Mesani](https://open.spotify.com/artist/7pua8I58KTTR311ZD8fagJ), [Jaeeun](https://open.spotify.com/artist/1HxM1IZDClrR9OCpaXPMNa), [Laura](https://open.spotify.com/artist/1xwZAAavDMKPqjGiE2tqNu) | [Liquor](https://open.spotify.com/album/0n1DZGOSHvWlTzU6ephAto) | 3:55 | 2022-05-27 | 2022-07-29 |
 | [love machine](https://open.spotify.com/track/1fSJP4kju7ptpwefeW4gbY) | [xiihu](https://open.spotify.com/artist/1VkBOxWu1Zt1mdsd7Ex1u1) | [Synthetic Heart](https://open.spotify.com/album/1uD8IR3fuDcIPWgvA1KS7c) | 3:05 | 2022-05-27 | 2022-07-28 |

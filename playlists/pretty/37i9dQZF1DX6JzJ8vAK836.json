@@ -1,12 +1,12 @@
 {
   "description": "Prince was a true original and earth-shattering performer. Hear Prince Rogers Nelson best right now.",
-  "num_followers": 746214,
+  "num_followers": 746337,
   "original_name": "This Is Prince",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTUwODU4OCwwMDAwMDAwMGRmOWYxNTE4MjEyZTY2NzEyMTQ3ZTdiN2Q5MDdjMzVi",
+  "snapshot_id": "MTY2Mzc3MDM0MCwwMDAwMDAwMGRhMDk2Yzg5MGI1NGU4MDdlODdiMWExOGVmYWMyMmNm",
   "tracks": [
     {
       "added_at": "2021-04-09 21:22:12",
@@ -75,22 +75,6 @@
     {
       "added_at": "2021-04-09 21:22:12",
       "album": {
-        "name": "Purple Rain",
-        "url": "https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 280000,
-      "name": "Let's Go Crazy",
-      "url": "https://open.spotify.com/track/0QeI79sp1vS8L3JgpEO7mD"
-    },
-    {
-      "added_at": "2021-04-09 21:22:12",
-      "album": {
         "name": "1999",
         "url": "https://open.spotify.com/album/34MHuXONazzgSxI0cThpAg"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 373747,
       "name": "1999 - 2019 Remaster",
       "url": "https://open.spotify.com/track/2QSUyofqpGDCo026OPiTBQ"
+    },
+    {
+      "added_at": "2021-04-09 21:22:12",
+      "album": {
+        "name": "Purple Rain",
+        "url": "https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "Let's Go Crazy",
+      "url": "https://open.spotify.com/track/0QeI79sp1vS8L3JgpEO7mD"
     },
     {
       "added_at": "2021-04-09 21:22:12",
@@ -155,22 +155,6 @@
     {
       "added_at": "2021-04-09 21:22:12",
       "album": {
-        "name": "Around The World In A Day",
-        "url": "https://open.spotify.com/album/27SA4Pkelh2pbwbVEORPOM"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 225226,
-      "name": "Pop Life",
-      "url": "https://open.spotify.com/track/6Zs3F2lrr3L3kugrniFG5R"
-    },
-    {
-      "added_at": "2021-04-09 21:22:12",
-      "album": {
         "name": "Controversy",
         "url": "https://open.spotify.com/album/27fOQ2nbqOv460RSUFW7E4"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 435333,
       "name": "Controversy",
       "url": "https://open.spotify.com/track/417BgvwuyihreDKPXbp2kS"
+    },
+    {
+      "added_at": "2021-04-09 21:22:12",
+      "album": {
+        "name": "Around The World In A Day",
+        "url": "https://open.spotify.com/album/27SA4Pkelh2pbwbVEORPOM"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 225226,
+      "name": "Pop Life",
+      "url": "https://open.spotify.com/track/6Zs3F2lrr3L3kugrniFG5R"
     },
     {
       "added_at": "2021-04-09 21:22:12",
@@ -291,6 +291,26 @@
     {
       "added_at": "2021-04-09 21:22:12",
       "album": {
+        "name": "Diamonds and Pearls",
+        "url": "https://open.spotify.com/album/3oHGfGzLTOqgocxq8sH4NJ"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        },
+        {
+          "name": "The New Power Generation",
+          "url": "https://open.spotify.com/artist/1xtGjxE9c1YmEmFPCH6Izp"
+        }
+      ],
+      "duration_ms": 285266,
+      "name": "Diamonds and Pearls",
+      "url": "https://open.spotify.com/track/40rVLjYfsdHCANX7oUGCsF"
+    },
+    {
+      "added_at": "2021-04-09 21:22:12",
+      "album": {
         "name": "Nothing Compares 2 U",
         "url": "https://open.spotify.com/album/3aUBbb6wNmvd4HOHhasOaf"
       },
@@ -319,26 +339,6 @@
       "duration_ms": 240004,
       "name": "Delirious - 2019 Remaster",
       "url": "https://open.spotify.com/track/5zWhtlFS3w52HjN4ayOUgR"
-    },
-    {
-      "added_at": "2021-04-09 21:22:12",
-      "album": {
-        "name": "Diamonds and Pearls",
-        "url": "https://open.spotify.com/album/3oHGfGzLTOqgocxq8sH4NJ"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        },
-        {
-          "name": "The New Power Generation",
-          "url": "https://open.spotify.com/artist/1xtGjxE9c1YmEmFPCH6Izp"
-        }
-      ],
-      "duration_ms": 285266,
-      "name": "Diamonds and Pearls",
-      "url": "https://open.spotify.com/track/40rVLjYfsdHCANX7oUGCsF"
     },
     {
       "added_at": "2021-04-09 21:22:12",
@@ -411,6 +411,22 @@
     {
       "added_at": "2021-04-09 21:22:12",
       "album": {
+        "name": "Purple Rain",
+        "url": "https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 254493,
+      "name": "Darling Nikki",
+      "url": "https://open.spotify.com/track/0khi86hc79RfsRC0rrkkA2"
+    },
+    {
+      "added_at": "2021-04-09 21:22:12",
+      "album": {
         "name": "For You",
         "url": "https://open.spotify.com/album/0IofYnPCppEIKAJmc517JS"
       },
@@ -443,22 +459,6 @@
     {
       "added_at": "2021-04-09 21:22:12",
       "album": {
-        "name": "Purple Rain",
-        "url": "https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 254493,
-      "name": "Darling Nikki",
-      "url": "https://open.spotify.com/track/0khi86hc79RfsRC0rrkkA2"
-    },
-    {
-      "added_at": "2021-04-09 21:22:12",
-      "album": {
         "name": "Purple Rain (Deluxe Expanded Edition)",
         "url": "https://open.spotify.com/album/12DmuRtZNTx84ELHKD3VGL"
       },
@@ -487,6 +487,26 @@
       "duration_ms": 247400,
       "name": "The Future",
       "url": "https://open.spotify.com/track/0svV7nIgkTsBQRN57dtbAy"
+    },
+    {
+      "added_at": "2021-04-09 21:22:12",
+      "album": {
+        "name": "The Hits 1",
+        "url": "https://open.spotify.com/album/67jpFZvQv39VnX8y9dPENZ"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        },
+        {
+          "name": "Rosie Gaines",
+          "url": "https://open.spotify.com/artist/1HRiWIhV7rgiL74L2AqZ5W"
+        }
+      ],
+      "duration_ms": 304800,
+      "name": "Nothing Compares 2 U (feat. Rosie Gaines) - Live",
+      "url": "https://open.spotify.com/track/2ZKSdBsPDyzSuTP87vebS6"
     },
     {
       "added_at": "2021-04-09 21:22:12",
@@ -635,26 +655,6 @@
     {
       "added_at": "2021-04-09 21:22:12",
       "album": {
-        "name": "The Hits 1",
-        "url": "https://open.spotify.com/album/67jpFZvQv39VnX8y9dPENZ"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        },
-        {
-          "name": "Rosie Gaines",
-          "url": "https://open.spotify.com/artist/1HRiWIhV7rgiL74L2AqZ5W"
-        }
-      ],
-      "duration_ms": 304800,
-      "name": "Nothing Compares 2 U (feat. Rosie Gaines) - Live",
-      "url": "https://open.spotify.com/track/2ZKSdBsPDyzSuTP87vebS6"
-    },
-    {
-      "added_at": "2021-04-09 21:22:12",
-      "album": {
         "name": "Batman",
         "url": "https://open.spotify.com/album/2FwzHgJ4XaPhC19Y0uL6SK"
       },
@@ -699,6 +699,26 @@
       "duration_ms": 282106,
       "name": "Housequake",
       "url": "https://open.spotify.com/track/5xP9clzYBKZ6F3u2VZUaBJ"
+    },
+    {
+      "added_at": "2021-04-09 21:22:12",
+      "album": {
+        "name": "Diamonds and Pearls",
+        "url": "https://open.spotify.com/album/3oHGfGzLTOqgocxq8sH4NJ"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        },
+        {
+          "name": "The New Power Generation",
+          "url": "https://open.spotify.com/artist/1xtGjxE9c1YmEmFPCH6Izp"
+        }
+      ],
+      "duration_ms": 286626,
+      "name": "Money Don't Matter 2 Night",
+      "url": "https://open.spotify.com/track/1E4ekAsxHLzZlNGYHipj9N"
     },
     {
       "added_at": "2021-04-09 21:22:12",
@@ -881,38 +901,6 @@
       "url": "https://open.spotify.com/track/7tyckyaQOzlsTjnujLinRt"
     },
     {
-      "added_at": "2022-06-19 08:09:52",
-      "album": {
-        "name": "Sign O' The Times",
-        "url": "https://open.spotify.com/album/2QuHyvguNhl5kfdoE17RRe"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 388895,
-      "name": "I Could Never Take The Place Of Your Man - 2020 Remaster",
-      "url": "https://open.spotify.com/track/1tYLo4i7MAW4OW2J3OpOJD"
-    },
-    {
-      "added_at": "2021-04-09 21:22:12",
-      "album": {
-        "name": "Music from Graffiti Bridge",
-        "url": "https://open.spotify.com/album/2tHDc9g2bu1rz62xIjX1GE"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 231893,
-      "name": "Graffiti Bridge",
-      "url": "https://open.spotify.com/track/1i4WFRB8MziPmNZYdpZwhL"
-    },
-    {
       "added_at": "2021-04-09 21:22:12",
       "album": {
         "name": "Parade - Music from the Motion Picture Under the Cherry Moon",
@@ -961,6 +949,22 @@
       "url": "https://open.spotify.com/track/2soBvUQBf5rbMj9HIyhzzK"
     },
     {
+      "added_at": "2022-06-19 08:16:17",
+      "album": {
+        "name": "Music from Graffiti Bridge",
+        "url": "https://open.spotify.com/album/2tHDc9g2bu1rz62xIjX1GE"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 239600,
+      "name": "The Question of U",
+      "url": "https://open.spotify.com/track/1HgYj7JbAdc1cO2TUbQL2s"
+    },
+    {
       "added_at": "2021-04-09 21:22:12",
       "album": {
         "name": "Around The World In A Day",
@@ -997,7 +1001,7 @@
       "url": "https://open.spotify.com/track/1ESmMKaASDxFICpa5eyqzo"
     },
     {
-      "added_at": "2022-06-19 08:16:17",
+      "added_at": "2021-04-09 21:22:12",
       "album": {
         "name": "Music from Graffiti Bridge",
         "url": "https://open.spotify.com/album/2tHDc9g2bu1rz62xIjX1GE"
@@ -1008,29 +1012,9 @@
           "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
         }
       ],
-      "duration_ms": 239600,
-      "name": "The Question of U",
-      "url": "https://open.spotify.com/track/1HgYj7JbAdc1cO2TUbQL2s"
-    },
-    {
-      "added_at": "2021-04-09 21:22:12",
-      "album": {
-        "name": "Diamonds and Pearls",
-        "url": "https://open.spotify.com/album/3oHGfGzLTOqgocxq8sH4NJ"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        },
-        {
-          "name": "The New Power Generation",
-          "url": "https://open.spotify.com/artist/1xtGjxE9c1YmEmFPCH6Izp"
-        }
-      ],
-      "duration_ms": 286626,
-      "name": "Money Don't Matter 2 Night",
-      "url": "https://open.spotify.com/track/1E4ekAsxHLzZlNGYHipj9N"
+      "duration_ms": 231893,
+      "name": "Graffiti Bridge",
+      "url": "https://open.spotify.com/track/1i4WFRB8MziPmNZYdpZwhL"
     },
     {
       "added_at": "2021-04-09 21:22:12",
@@ -1047,6 +1031,22 @@
       "duration_ms": 234133,
       "name": "Take Me with U",
       "url": "https://open.spotify.com/track/765k9tDIFOnoOfkO2cgitB"
+    },
+    {
+      "added_at": "2022-06-19 08:09:52",
+      "album": {
+        "name": "Sign O' The Times",
+        "url": "https://open.spotify.com/album/2QuHyvguNhl5kfdoE17RRe"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 388895,
+      "name": "I Could Never Take The Place Of Your Man - 2020 Remaster",
+      "url": "https://open.spotify.com/track/1tYLo4i7MAW4OW2J3OpOJD"
     },
     {
       "added_at": "2021-04-09 21:22:12",
@@ -1067,22 +1067,6 @@
       "duration_ms": 253066,
       "name": "Cream",
       "url": "https://open.spotify.com/track/4QnjK45IBBZRVRWTEeZ3T8"
-    },
-    {
-      "added_at": "2021-04-09 21:22:12",
-      "album": {
-        "name": "Sign O' The Times",
-        "url": "https://open.spotify.com/album/2QuHyvguNhl5kfdoE17RRe"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 388895,
-      "name": "I Could Never Take The Place Of Your Man - 2020 Remaster",
-      "url": "https://open.spotify.com/track/1tYLo4i7MAW4OW2J3OpOJD"
     },
     {
       "added_at": "2021-04-09 21:22:12",
@@ -1191,6 +1175,22 @@
     {
       "added_at": "2021-04-09 21:22:12",
       "album": {
+        "name": "ART OFFICIAL AGE",
+        "url": "https://open.spotify.com/album/1xRg9g9QCGjFp9poxLnU5M"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 234988,
+      "name": "BREAKFAST CAN WAIT",
+      "url": "https://open.spotify.com/track/0JMuL1ruqVGPkeZULI6toQ"
+    },
+    {
+      "added_at": "2021-04-09 21:22:12",
+      "album": {
         "name": "[Love Symbol]",
         "url": "https://open.spotify.com/album/5q8jywtY8AvpUVgzDJXyRp"
       },
@@ -1236,9 +1236,9 @@
           "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
         }
       ],
-      "duration_ms": 234988,
-      "name": "BREAKFAST CAN WAIT",
-      "url": "https://open.spotify.com/track/0JMuL1ruqVGPkeZULI6toQ"
+      "duration_ms": 312229,
+      "name": "THIS COULD BE US",
+      "url": "https://open.spotify.com/track/5FahqUmF2xPV5e0mUEAlxK"
     },
     {
       "added_at": "2021-04-09 21:22:12",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2021-04-09 21:22:12",
       "album": {
-        "name": "ART OFFICIAL AGE",
-        "url": "https://open.spotify.com/album/1xRg9g9QCGjFp9poxLnU5M"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 312229,
-      "name": "THIS COULD BE US",
-      "url": "https://open.spotify.com/track/5FahqUmF2xPV5e0mUEAlxK"
-    },
-    {
-      "added_at": "2021-04-09 21:22:12",
-      "album": {
         "name": "Purple Rain (Deluxe Expanded Edition)",
         "url": "https://open.spotify.com/album/12DmuRtZNTx84ELHKD3VGL"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 297226,
       "name": "Electric Intercourse - Studio Version",
       "url": "https://open.spotify.com/track/1JXP1QK92F7NWgwissQmRA"
+    },
+    {
+      "added_at": "2022-09-21 14:25:40",
+      "album": {
+        "name": "Parade - Music from the Motion Picture Under the Cherry Moon",
+        "url": "https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 131066,
+      "name": "Christopher Tracy's Parade",
+      "url": "https://open.spotify.com/track/0k2VivnC5j4vokUZL57eWf"
     },
     {
       "added_at": "2022-06-19 08:09:52",

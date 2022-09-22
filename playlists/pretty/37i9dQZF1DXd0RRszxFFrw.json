@@ -1,12 +1,12 @@
 {
   "description": "Dulces rasgueos de cuerdas para acompa\u00f1ar tu velada",
-  "num_followers": 41758,
+  "num_followers": 41781,
   "original_name": "Cena con Guitarras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQ0MDg2MCwwMDAwMDAwMGFmNTA4OGQ4MWQwMTVhMmI4MTZkZTYzYWIyMTA0NGNk",
+  "snapshot_id": "MTY1ODQ0MDg2MCwwMDAwMDAwMDNiNzc3NDllYTFjMGZjMmJjYzJmOWUwMDI3MjFmZDli",
   "tracks": [
     {
       "added_at": "2022-07-21 22:01:00",
@@ -603,6 +603,22 @@
     {
       "added_at": "2022-07-21 22:01:00",
       "album": {
+        "name": "Guitar Pop Covers, Vol. 1",
+        "url": "https://open.spotify.com/album/7ijQQwrViFIZWVJKor2NWy"
+      },
+      "artists": [
+        {
+          "name": "Edy Hafler",
+          "url": "https://open.spotify.com/artist/6i9IwqxrIrIQZKJbBOBc3T"
+        }
+      ],
+      "duration_ms": 150101,
+      "name": "La Bamba",
+      "url": "https://open.spotify.com/track/2j1ceA9K8Ugl2xyLwEGGt9"
+    },
+    {
+      "added_at": "2022-07-21 22:01:00",
+      "album": {
         "name": "Habichuela en Rama",
         "url": "https://open.spotify.com/album/6Qrojzu25Wq5JIdRQC6iaB"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 254933,
       "name": "30 De Marzo",
       "url": "https://open.spotify.com/track/23jaacZ4V3mdoMJYWrDI3n"
-    },
-    {
-      "added_at": "2022-07-21 22:01:00",
-      "album": {
-        "name": "Guitar Pop Covers, Vol. 1",
-        "url": "https://open.spotify.com/album/7ijQQwrViFIZWVJKor2NWy"
-      },
-      "artists": [
-        {
-          "name": "Edy Hafler",
-          "url": "https://open.spotify.com/artist/6i9IwqxrIrIQZKJbBOBc3T"
-        }
-      ],
-      "duration_ms": 150101,
-      "name": "La Bamba",
-      "url": "https://open.spotify.com/track/2j1ceA9K8Ugl2xyLwEGGt9"
     },
     {
       "added_at": "2022-07-21 22:01:00",
@@ -859,18 +859,18 @@
     {
       "added_at": "2022-07-21 22:01:00",
       "album": {
-        "name": "Meu cora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/405dosv3ZeaoHAXrY5bbgq"
+        "name": "Siena",
+        "url": "https://open.spotify.com/album/7uBcvHDsSXkR6m5CSHqCFJ"
       },
       "artists": [
         {
-          "name": "Xavier Hermenegildo",
-          "url": "https://open.spotify.com/artist/6KlphmbEPapSqBKhND7mJC"
+          "name": "Marcus Larsen",
+          "url": "https://open.spotify.com/artist/3VvLdbNVbOdEcCrsmaOfYX"
         }
       ],
-      "duration_ms": 143179,
-      "name": "Meu cora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/6c8xRdxYhrj6VaEbUS6mu3"
+      "duration_ms": 131209,
+      "name": "Siena",
+      "url": "https://open.spotify.com/track/6hebly36sQyqXZerurmsuO"
     },
     {
       "added_at": "2022-07-21 22:01:00",
@@ -891,6 +891,22 @@
     {
       "added_at": "2022-07-21 22:01:00",
       "album": {
+        "name": "Meu cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/405dosv3ZeaoHAXrY5bbgq"
+      },
+      "artists": [
+        {
+          "name": "Xavier Hermenegildo",
+          "url": "https://open.spotify.com/artist/6KlphmbEPapSqBKhND7mJC"
+        }
+      ],
+      "duration_ms": 143179,
+      "name": "Meu cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/6c8xRdxYhrj6VaEbUS6mu3"
+    },
+    {
+      "added_at": "2022-07-21 22:01:00",
+      "album": {
         "name": "M\u00fasica De Espa\u00f1a",
         "url": "https://open.spotify.com/album/78IBI0klNQUPQqboDbrwAC"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 221637,
       "name": "Rumbita (Guitar Version)",
       "url": "https://open.spotify.com/track/2O4EF7o7GcoynSOhdl8eMZ"
-    },
-    {
-      "added_at": "2022-07-21 22:01:00",
-      "album": {
-        "name": "Siena",
-        "url": "https://open.spotify.com/album/7uBcvHDsSXkR6m5CSHqCFJ"
-      },
-      "artists": [
-        {
-          "name": "Marcus Larsen",
-          "url": "https://open.spotify.com/artist/3VvLdbNVbOdEcCrsmaOfYX"
-        }
-      ],
-      "duration_ms": 131209,
-      "name": "Siena",
-      "url": "https://open.spotify.com/track/6hebly36sQyqXZerurmsuO"
     },
     {
       "added_at": "2022-07-21 22:01:00",

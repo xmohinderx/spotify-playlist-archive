@@ -1,12 +1,12 @@
 {
   "description": "Pega o gelo de coco, chama o bonde e vem pra festa. Foto: PL Quest, BIN, Major RD",
-  "num_followers": 77585,
+  "num_followers": 77669,
   "original_name": "Cop\u00e3o na m\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzQ0MjQwNiwwMDAwMDAwMGNmNjkxNmEzNzRmNGE5YzM2YTFhZDdiOGQwZTA4MjIz",
+  "snapshot_id": "MTY2MzQ0MjQwNiwwMDAwMDAwMGI2NDUxMTYyOWMzMmFlMDEzMmUzYjhkYzU3ZjA1OTdh",
   "tracks": [
     {
       "added_at": "2022-09-17 19:20:06",
@@ -1243,6 +1243,26 @@
     {
       "added_at": "2022-09-17 19:20:06",
       "album": {
+        "name": "Trap Funk Star",
+        "url": "https://open.spotify.com/album/2NfhHzk0maDZ33cJbqZzHg"
+      },
+      "artists": [
+        {
+          "name": "Menor MC",
+          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
+        },
+        {
+          "name": "DJ Matt D",
+          "url": "https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5"
+        }
+      ],
+      "duration_ms": 123769,
+      "name": "L\u00edquido Roxo",
+      "url": "https://open.spotify.com/track/1W0sYOma39HqEh4UO8Aq3i"
+    },
+    {
+      "added_at": "2022-09-17 19:20:06",
+      "album": {
         "name": "Set Dj Br da Tijuca",
         "url": "https://open.spotify.com/album/30Rici9GQYROvdO1MLaV9g"
       },
@@ -1303,26 +1323,6 @@
       "duration_ms": 432000,
       "name": "Set Dj Br da Tijuca",
       "url": "https://open.spotify.com/track/7gjiDfXZTBIrh4VNvYE4rh"
-    },
-    {
-      "added_at": "2022-09-17 19:20:06",
-      "album": {
-        "name": "Trap Funk Star",
-        "url": "https://open.spotify.com/album/2NfhHzk0maDZ33cJbqZzHg"
-      },
-      "artists": [
-        {
-          "name": "Menor MC",
-          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
-        },
-        {
-          "name": "DJ Matt D",
-          "url": "https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5"
-        }
-      ],
-      "duration_ms": 123769,
-      "name": "L\u00edquido Roxo",
-      "url": "https://open.spotify.com/track/1W0sYOma39HqEh4UO8Aq3i"
     },
     {
       "added_at": "2022-09-17 19:20:06",

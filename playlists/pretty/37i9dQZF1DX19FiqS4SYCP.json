@@ -1,12 +1,12 @@
 {
   "description": "Tejano's new wave! La nueva ola de m\u00fasica tejana. Cover: Selena",
-  "num_followers": 140412,
+  "num_followers": 140416,
   "original_name": "New Tejano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzI2NzI4MywwMDAwMDAwMGEzNTUxNzI1NjNmNTcxMzNlOTMyYjI2NWUzYmZiZWRh",
+  "snapshot_id": "MTY2MzI2NzI4MywwMDAwMDAwMGZjZWM0MzhlNGJlODE0ZjA1NDIwOTVjYzA0OTIwMWMx",
   "tracks": [
     {
       "added_at": "2022-09-15 18:41:23",
@@ -407,22 +407,6 @@
     {
       "added_at": "2022-09-15 18:41:23",
       "album": {
-        "name": "Mariposas",
-        "url": "https://open.spotify.com/album/2a8oKOwOI3JO3SDpsvWTWd"
-      },
-      "artists": [
-        {
-          "name": "Demmi Garcia",
-          "url": "https://open.spotify.com/artist/710H12NnJsInoaPljAMeuu"
-        }
-      ],
-      "duration_ms": 193967,
-      "name": "Mariposas",
-      "url": "https://open.spotify.com/track/1Wrecl8aAHUDAYvLk40T4A"
-    },
-    {
-      "added_at": "2022-09-15 18:41:23",
-      "album": {
         "name": "Ni Todo el Dinero",
         "url": "https://open.spotify.com/album/0cu4MjortdALwwc0C5ImBR"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 189231,
       "name": "Ni Todo el Dinero",
       "url": "https://open.spotify.com/track/32YP9PixXHJNLHvJWDlleP"
+    },
+    {
+      "added_at": "2022-09-15 18:41:23",
+      "album": {
+        "name": "Mariposas",
+        "url": "https://open.spotify.com/album/2a8oKOwOI3JO3SDpsvWTWd"
+      },
+      "artists": [
+        {
+          "name": "Demmi Garcia",
+          "url": "https://open.spotify.com/artist/710H12NnJsInoaPljAMeuu"
+        }
+      ],
+      "duration_ms": 193967,
+      "name": "Mariposas",
+      "url": "https://open.spotify.com/track/1Wrecl8aAHUDAYvLk40T4A"
     },
     {
       "added_at": "2022-09-15 18:41:23",
@@ -587,6 +587,22 @@
     {
       "added_at": "2022-09-15 18:41:23",
       "album": {
+        "name": "Girls Night",
+        "url": "https://open.spotify.com/album/41UvCBCVsilTGZF6jgfXyM"
+      },
+      "artists": [
+        {
+          "name": "ANGELICA",
+          "url": "https://open.spotify.com/artist/0pFaDLD1l1EmgZyVSIlZ50"
+        }
+      ],
+      "duration_ms": 208979,
+      "name": "Nunca Fuiste Mio",
+      "url": "https://open.spotify.com/track/0gP1ympsL6ff8wIqo80eLB"
+    },
+    {
+      "added_at": "2022-09-15 18:41:23",
+      "album": {
         "name": "Vac\u00eda",
         "url": "https://open.spotify.com/album/5VSAXB0RpdLQRdBRQAeP2g"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 180462,
       "name": "Vac\u00eda",
       "url": "https://open.spotify.com/track/0MA7XbFRqIB55H7HOLZImY"
-    },
-    {
-      "added_at": "2022-09-15 18:41:23",
-      "album": {
-        "name": "Girls Night",
-        "url": "https://open.spotify.com/album/41UvCBCVsilTGZF6jgfXyM"
-      },
-      "artists": [
-        {
-          "name": "ANGELICA",
-          "url": "https://open.spotify.com/artist/0pFaDLD1l1EmgZyVSIlZ50"
-        }
-      ],
-      "duration_ms": 208979,
-      "name": "Nunca Fuiste Mio",
-      "url": "https://open.spotify.com/track/0gP1ympsL6ff8wIqo80eLB"
     },
     {
       "added_at": "2022-09-15 18:41:23",
@@ -711,22 +711,6 @@
     {
       "added_at": "2022-09-15 18:41:23",
       "album": {
-        "name": "Final De Tu Amor",
-        "url": "https://open.spotify.com/album/5w9djEjJOX1Fw0wAPcqjCv"
-      },
-      "artists": [
-        {
-          "name": "Grupo Vidal",
-          "url": "https://open.spotify.com/artist/7FCNesSEoaPmxc0eofRG4X"
-        }
-      ],
-      "duration_ms": 205438,
-      "name": "Final De Tu Amor",
-      "url": "https://open.spotify.com/track/2z5Hj2JKmUsQUzQ9TIYRhD"
-    },
-    {
-      "added_at": "2022-09-15 18:41:23",
-      "album": {
         "name": "No Soy La Misma",
         "url": "https://open.spotify.com/album/6JQUo2owykXVHzeAcXOqO8"
       },
@@ -743,18 +727,18 @@
     {
       "added_at": "2022-09-15 18:41:23",
       "album": {
-        "name": "Entre El Frio Y El Calor",
-        "url": "https://open.spotify.com/album/3Wb6WdFhg4n6b2vZ4XSfsb"
+        "name": "Final De Tu Amor",
+        "url": "https://open.spotify.com/album/5w9djEjJOX1Fw0wAPcqjCv"
       },
       "artists": [
         {
-          "name": "Andie",
-          "url": "https://open.spotify.com/artist/499w0AaAbuVL9IIHbz0ZYT"
+          "name": "Grupo Vidal",
+          "url": "https://open.spotify.com/artist/7FCNesSEoaPmxc0eofRG4X"
         }
       ],
-      "duration_ms": 215640,
-      "name": "Entre El Frio Y El Calor",
-      "url": "https://open.spotify.com/track/3co2ntpL25hvhBdFPBYi7e"
+      "duration_ms": 205438,
+      "name": "Final De Tu Amor",
+      "url": "https://open.spotify.com/track/2z5Hj2JKmUsQUzQ9TIYRhD"
     },
     {
       "added_at": "2022-09-15 18:41:23",
@@ -787,6 +771,22 @@
       "duration_ms": 199870,
       "name": "Mentias",
       "url": "https://open.spotify.com/track/4aFMxSqCWFOiOShZd1A7pK"
+    },
+    {
+      "added_at": "2022-09-15 18:41:23",
+      "album": {
+        "name": "Entre El Frio Y El Calor",
+        "url": "https://open.spotify.com/album/3Wb6WdFhg4n6b2vZ4XSfsb"
+      },
+      "artists": [
+        {
+          "name": "Andie",
+          "url": "https://open.spotify.com/artist/499w0AaAbuVL9IIHbz0ZYT"
+        }
+      ],
+      "duration_ms": 215640,
+      "name": "Entre El Frio Y El Calor",
+      "url": "https://open.spotify.com/track/3co2ntpL25hvhBdFPBYi7e"
     },
     {
       "added_at": "2022-09-15 18:41:23",
@@ -843,22 +843,18 @@
     {
       "added_at": "2022-09-15 18:41:23",
       "album": {
-        "name": "A Mi Lado",
-        "url": "https://open.spotify.com/album/5KPWpRmgFDHChuirQ2UlDf"
+        "name": "Trampa De Amor",
+        "url": "https://open.spotify.com/album/59hUGuWWDjm6PMXDuJjHq6"
       },
       "artists": [
         {
-          "name": "Emanuel J",
-          "url": "https://open.spotify.com/artist/3zFXGHNABaAKnak0jm1EDq"
-        },
-        {
-          "name": "Monica Saldivar",
-          "url": "https://open.spotify.com/artist/6DsEG8AZVx2LpveCIwzkMw"
+          "name": "VIRGINIA Y VALOR",
+          "url": "https://open.spotify.com/artist/6oMnQnH1MXHBe8KUbr4b5u"
         }
       ],
-      "duration_ms": 230000,
-      "name": "A Mi Lado",
-      "url": "https://open.spotify.com/track/0iVFfAlTHQSTTMcLci5OTJ"
+      "duration_ms": 161610,
+      "name": "Trampa De Amor",
+      "url": "https://open.spotify.com/track/57F578ly3EvpEBfFEjyLnr"
     }
   ],
   "unique_name": "New Tejano",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMg4uP5o3dm.md) - [plain]
 
 > Alternative meets electronic\. Cover: Sub Urban + BENEE
 
-[Spotify](https://open.spotify.com/user/spotify) - 421,600 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 421,729 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMg4uP5o3dm.md) - [plain]
 | 16 | [HOOLIGAN](https://open.spotify.com/track/2Z2DTQolx4SraLPtFwUDkc) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [HOOLIGAN](https://open.spotify.com/album/4WiXx0OHlpYQG4V5HocAlX) | 2:47 |
 | 17 | [COMPLICATED \(feat\. aldn & 8485\)](https://open.spotify.com/track/3dKd0adfI8l6tKfoLsuaJ1) | [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD), [8485](https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo) | [COMPLICATED \(feat\. aldn & 8485\)](https://open.spotify.com/album/6vS1mEUxsWDsbY0VdgbcBx) | 3:00 |
 | 18 | [Fighter](https://open.spotify.com/track/4gi2kndWShH9kDbb9kBfs6) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [Metamorph](https://open.spotify.com/album/1kf3w2zcfjNYpx1NjnJmQ8) | 2:36 |
-| 19 | [Lost It](https://open.spotify.com/track/7KdQojjqg4mjgfUCWFAXmP) | [Layto](https://open.spotify.com/artist/0MqXw0plXKIaJtM342hIag), [Jaymmac](https://open.spotify.com/artist/4tThMJlJVcKRl4cJoB4aLq) | [Lost It](https://open.spotify.com/album/6ZF6ACAgRk82IEDlUrXEQf) | 2:46 |
+| 19 | [LOST IT](https://open.spotify.com/track/7KdQojjqg4mjgfUCWFAXmP) | [Layto](https://open.spotify.com/artist/0MqXw0plXKIaJtM342hIag), [Jaymmac](https://open.spotify.com/artist/4tThMJlJVcKRl4cJoB4aLq) | [LOST IT](https://open.spotify.com/album/6ZF6ACAgRk82IEDlUrXEQf) | 2:46 |
 | 20 | [What, Me Worry? \- LP Giobbi Remix](https://open.spotify.com/track/3YwsjD1ckhneoesIqaHYZi) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T), [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J) | [What, Me Worry? \(LP Giobbi Remix\)](https://open.spotify.com/album/3HTcnFicUtNTAuZFI5ublk) | 3:32 |
 | 21 | [Rain \(from The Suicide Squad\)](https://open.spotify.com/track/6gi7qsHSH2JWZsTRHndxqm) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Rain \(from The Suicide Squad\)](https://open.spotify.com/album/3RofvYZbV6xjU5H4RMNPap) | 3:56 |
 | 22 | [Don't Look At Me](https://open.spotify.com/track/5hQZDntIU1PbXhmH94kZoM) | [POORSTACY](https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38) | [The Breakfast Club \(Deluxe Edition\)](https://open.spotify.com/album/2TdlMuVGZfRMgPvB467tu2) | 3:08 |

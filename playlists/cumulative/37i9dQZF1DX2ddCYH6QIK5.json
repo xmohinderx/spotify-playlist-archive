@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: Tin Man Falls, Artwork: Isu Kim.\n",
+  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: Heriti\u00e9r, Artwork: Isu Kim.\n",
   "name": "Fresh Finds GSA",
   "published_playlist_ids": [
     "769sf2A9Kk835wCxbodHwy"
@@ -557,7 +557,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-22",
       "duration_ms": 283838,
       "name": "Atmosphere",
       "url": "https://open.spotify.com/track/1qG3LdimuO44VAMFv7p1hy"
@@ -723,6 +723,24 @@
       "duration_ms": 151885,
       "name": "Begs me to dance",
       "url": "https://open.spotify.com/track/2wNxeAqaQdkLCmumgQ4enA"
+    },
+    {
+      "album": {
+        "name": "Bicycle Day",
+        "url": "https://open.spotify.com/album/0FR0jouBzwrB9Rbd2lGwcH"
+      },
+      "artists": [
+        {
+          "name": "Markus Nikolaus",
+          "url": "https://open.spotify.com/artist/4ZjrEAWRBDsm5PRwCzKCds"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214193,
+      "name": "Bicycle Day",
+      "url": "https://open.spotify.com/track/0wC6uIBKnc4vTwA3WMb9cN"
     },
     {
       "album": {
@@ -1539,7 +1557,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-22",
       "duration_ms": 239459,
       "name": "Deepsea Diver",
       "url": "https://open.spotify.com/track/6jM5oiP0TdUOTLVfksllHC"
@@ -1659,6 +1677,24 @@
       "duration_ms": 169125,
       "name": "Disco im Kopf",
       "url": "https://open.spotify.com/track/7ITzXFp8QFlij6rLWCvKfp"
+    },
+    {
+      "album": {
+        "name": "Girls & Music",
+        "url": "https://open.spotify.com/album/08SEduSqHDqTKemNPcPBC4"
+      },
+      "artists": [
+        {
+          "name": "Kitty Solaris",
+          "url": "https://open.spotify.com/artist/2kMGKN4ZBnRSA51Iaadiep"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211355,
+      "name": "Do You Join Us",
+      "url": "https://open.spotify.com/track/1GJnpSIdf4rjy1qMCcgpBa"
     },
     {
       "album": {
@@ -1853,7 +1889,7 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-22",
       "duration_ms": 183281,
       "name": "Dschungel",
       "url": "https://open.spotify.com/track/5UwfBZURi6AcCZlVNo2jd4"
@@ -2178,6 +2214,28 @@
     },
     {
       "album": {
+        "name": "Exit Music",
+        "url": "https://open.spotify.com/album/1deEsxe0C1HipZQ1qnJKNV"
+      },
+      "artists": [
+        {
+          "name": "Hora Lunga",
+          "url": "https://open.spotify.com/artist/5WUDtbvP7A3VhVA8VsYIuX"
+        },
+        {
+          "name": "Evelinn Trouble",
+          "url": "https://open.spotify.com/artist/49GbMjOzWCx2QZHPCY6F5K"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268213,
+      "name": "Exit Music",
+      "url": "https://open.spotify.com/track/5gw1r9fMZuCN5ETp9ptO93"
+    },
+    {
+      "album": {
         "name": "Experiencer",
         "url": "https://open.spotify.com/album/4ISmR3EneuPIF7tyInEBqE"
       },
@@ -2319,7 +2377,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-22",
       "duration_ms": 200527,
       "name": "Fick dich hart",
       "url": "https://open.spotify.com/track/6FaGiO9VON1SbPcrk4NNCb"
@@ -2453,6 +2511,24 @@
       "duration_ms": 275153,
       "name": "Fruitarian Girl",
       "url": "https://open.spotify.com/track/2FknSy7oUAfNwbcfWRfL0U"
+    },
+    {
+      "album": {
+        "name": "Gather Around (Short Edit)",
+        "url": "https://open.spotify.com/album/2XLF2deA9QQ5U31kLDN1Rb"
+      },
+      "artists": [
+        {
+          "name": "Trees of Tampa",
+          "url": "https://open.spotify.com/artist/41JN7mJoWKOvpORU0D1HFz"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161569,
+      "name": "Gather Around (Short Edit)",
+      "url": "https://open.spotify.com/track/0TSqqF3q0OJabkyi1EWgMn"
     },
     {
       "album": {
@@ -3227,6 +3303,24 @@
       "duration_ms": 238437,
       "name": "How Come No One Told Me",
       "url": "https://open.spotify.com/track/1tyV88FBoHbldJ74ZLB4Yv"
+    },
+    {
+      "album": {
+        "name": "How Far",
+        "url": "https://open.spotify.com/album/0HkGs9KOrazDoQkeGfNoQx"
+      },
+      "artists": [
+        {
+          "name": "Ian Fisher",
+          "url": "https://open.spotify.com/artist/0dc3onVb6eTfbaavNfi1Cp"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210138,
+      "name": "How Far",
+      "url": "https://open.spotify.com/track/3Qe7XWT704KD1hi4CwWb9d"
     },
     {
       "album": {
@@ -5638,6 +5732,24 @@
     },
     {
       "album": {
+        "name": "Rave22",
+        "url": "https://open.spotify.com/album/0TX0bi81POR9JIEhR4p9o7"
+      },
+      "artists": [
+        {
+          "name": "Nhoah",
+          "url": "https://open.spotify.com/artist/3gkxx7m2pCxR3i3oH2wn99"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 416202,
+      "name": "Rave22",
+      "url": "https://open.spotify.com/track/7dDyKAq26yih98op1W8OhD"
+    },
+    {
+      "album": {
         "name": "Reach",
         "url": "https://open.spotify.com/album/0uP8zobQKYxa0TXKTD0u9K"
       },
@@ -5757,7 +5869,7 @@
       ],
       "date_added": "2022-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-22",
       "duration_ms": 152487,
       "name": "RedLight",
       "url": "https://open.spotify.com/track/4GSyURD0UaoSnu5FRvokMy"
@@ -7281,7 +7393,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-22",
       "duration_ms": 156693,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/4GIsIMkEvyLLlsqrTVpkGH"
@@ -7757,7 +7869,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-22",
       "duration_ms": 235425,
       "name": "Wenn Du",
       "url": "https://open.spotify.com/track/3YmW5LCqJib2lOnf5oe0ns"
@@ -8016,6 +8128,24 @@
     },
     {
       "album": {
+        "name": "Will it be worth it",
+        "url": "https://open.spotify.com/album/7Le37oYpZm1tJkh5HFd92I"
+      },
+      "artists": [
+        {
+          "name": "Heriti\u00e9r",
+          "url": "https://open.spotify.com/artist/6ruC0tY4s55IWpTmCO9COD"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148783,
+      "name": "Will it be worth it",
+      "url": "https://open.spotify.com/track/2vOpxGjvmdp3CzjfKOBY8J"
+    },
+    {
+      "album": {
         "name": "Windbells",
         "url": "https://open.spotify.com/album/7rGDC5EJgXHuxAwpvbGMa3"
       },
@@ -8164,6 +8294,28 @@
     },
     {
       "album": {
+        "name": "Xari",
+        "url": "https://open.spotify.com/album/5os47ea7Ti24JiWWKx2f3x"
+      },
+      "artists": [
+        {
+          "name": "Sumo",
+          "url": "https://open.spotify.com/artist/0kXNezohhv8UjG1hIzAPmr"
+        },
+        {
+          "name": "soffie",
+          "url": "https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155294,
+      "name": "Xari",
+      "url": "https://open.spotify.com/track/5qaqvD5nZtGxtny6qOVIbz"
+    },
+    {
+      "album": {
         "name": "You Can't Escape the Future",
         "url": "https://open.spotify.com/album/7dakmFDwm0vjxBhjFlrMSX"
       },
@@ -8247,7 +8399,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-22",
       "duration_ms": 148076,
       "name": "You Got Me",
       "url": "https://open.spotify.com/track/28bBwCM8Uyc10LPYQYdeRU"

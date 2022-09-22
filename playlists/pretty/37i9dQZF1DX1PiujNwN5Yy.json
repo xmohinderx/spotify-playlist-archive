@@ -1,12 +1,12 @@
 {
   "description": "Canciones tristes para uno de esos d\u00edas. Sad songs just 4 you.",
-  "num_followers": 98415,
+  "num_followers": 98439,
   "original_name": "gris",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTM3NzQwOSwwMDAwMDAwMDZhNWQzNDY5MWYzOGI2M2ZjM2FiZWZkYjQ5N2UwM2Nh",
+  "snapshot_id": "MTY1OTM3NzQwOSwwMDAwMDAwMGY3MWU2NjQxNzk5Mjg4MjgyZDNmMDgxNzk5NGQ0Mzg3",
   "tracks": [
     {
       "added_at": "2022-08-01 18:10:09",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2022-08-01 18:10:09",
       "album": {
+        "name": "Ayer yo estaba bien",
+        "url": "https://open.spotify.com/album/3UIWYkquYH5QEDT2moAHy5"
+      },
+      "artists": [
+        {
+          "name": "De Los Santos",
+          "url": "https://open.spotify.com/artist/6hvYBtG0PJ29gStB6pLXwY"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Ayer yo estaba bien",
+      "url": "https://open.spotify.com/track/6jLsHP0Z3Xryry93GvXBzg"
+    },
+    {
+      "added_at": "2022-08-01 18:10:09",
+      "album": {
         "name": "T la Sudo (Demo)",
         "url": "https://open.spotify.com/album/35avDyqo3YuTl3panFpyFz"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 185411,
       "name": "T la Sudo (Demo)",
       "url": "https://open.spotify.com/track/1Vyf9dBD7DzVWobiEbHoKx"
-    },
-    {
-      "added_at": "2022-08-01 18:10:09",
-      "album": {
-        "name": "Ayer yo estaba bien",
-        "url": "https://open.spotify.com/album/3UIWYkquYH5QEDT2moAHy5"
-      },
-      "artists": [
-        {
-          "name": "De Los Santos",
-          "url": "https://open.spotify.com/artist/6hvYBtG0PJ29gStB6pLXwY"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Ayer yo estaba bien",
-      "url": "https://open.spotify.com/track/6jLsHP0Z3Xryry93GvXBzg"
     },
     {
       "added_at": "2022-08-01 18:10:09",

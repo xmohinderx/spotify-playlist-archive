@@ -4,7 +4,7 @@
 
 > Introducing the Fresh Finds Class of 2020\. Editors' picks of the top Fresh Finds this year.
 
-145 songs - 7 hr 20 min - [published](https://open.spotify.com/playlist/1giw7CrUS9tqrBMopkrkJg)
+146 songs - 7 hr 24 min - [published](https://open.spotify.com/playlist/1giw7CrUS9tqrBMopkrkJg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,8 +129,9 @@
 | [Stormy](https://open.spotify.com/track/2SNFIHJSbzReDu0ewTbdUu) | [Sally Boy](https://open.spotify.com/artist/0FizvTDN8BVHmV5j2fL9Hf) | [EREZ](https://open.spotify.com/album/5ValAPJZMl7J1tBYMlSZnz) | 2:16 | 2020-12-07 |  |
 | [Summer](https://open.spotify.com/track/3YmTTULju4GaSlnkizJPrq) | [Simpson](https://open.spotify.com/artist/0uaV2JpwdbHof3chjM8sow) | [Summer](https://open.spotify.com/album/1YHlj5gp5YYLcBscSxBNHA) | 4:02 | 2020-12-07 | 2022-07-29 |
 | [Summer](https://open.spotify.com/track/51xpZKrnRMlcmwWCv7jcfd) | [Simpson](https://open.spotify.com/artist/0uaV2JpwdbHof3chjM8sow) | [Summer](https://open.spotify.com/album/2LbNDL18GTe9x3YDJNzHY9) | 4:02 | 2020-12-07 |  |
-| [Sweatshirt](https://open.spotify.com/track/0AzHjWUE45TMaglWwz2qKK) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Sweatshirt](https://open.spotify.com/album/03YqH9kNxfPRPcvzaXnkG8) | 3:27 | 2020-12-07 |  |
+| [Sweatshirt](https://open.spotify.com/track/0AzHjWUE45TMaglWwz2qKK) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Sweatshirt](https://open.spotify.com/album/03YqH9kNxfPRPcvzaXnkG8) | 3:27 | 2020-12-07 | 2022-09-22 |
 | [Sweatshirt](https://open.spotify.com/track/2Lp3YWgTMuA94YhwCg3nY6) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Sweatshirt](https://open.spotify.com/album/4143L9i3dl8e3zJFhTAjLv) | 3:27 | 2020-12-07 | 2022-07-29 |
+| [Sweatshirt](https://open.spotify.com/track/44SMpuP6NAhV6l5OIwE090) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Sweatshirt](https://open.spotify.com/album/2BxTahQtqyiQ89mnX9rtmH) | 3:27 | 2020-12-07 |  |
 | [talking in my sleep](https://open.spotify.com/track/16UfdNMAfLPkBqq1JgMdAl) | [Heather Sommer](https://open.spotify.com/artist/0EHYuPn9Xng2lZP2cfz4cV) | [talking in my sleep](https://open.spotify.com/album/1MMru7B3vILRGqQyQNw4Ug) | 2:34 | 2020-12-07 |  |
 | [The 1](https://open.spotify.com/track/4RZyqmqauYuQlvB4NfElJc) | [María Isabel](https://open.spotify.com/artist/318bGJ7GOvMhYhkNOe5kZ5) | [Stuck in the Sky](https://open.spotify.com/album/6lRsrrPqbQaPMSR9KSzega) | 2:56 | 2020-12-07 |  |
 | [The 1](https://open.spotify.com/track/39Pcga1E2r2MnpKGWZGZZE) | [María Isabel](https://open.spotify.com/artist/318bGJ7GOvMhYhkNOe5kZ5) | [The 1](https://open.spotify.com/album/6HSi6IWRhT5GhZLb4G2Pnx) | 2:56 | 2020-12-07 | 2022-07-29 |

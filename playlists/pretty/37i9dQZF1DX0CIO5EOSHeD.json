@@ -1,12 +1,12 @@
 {
   "description": "Slacker jams. Cover: Eyedress",
-  "num_followers": 368968,
+  "num_followers": 369309,
   "original_name": "Lo-fi Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzExMDI2NSwwMDAwMDAwMDM0MTdjNDViZDYzMWE5NWE0YTg4YzJmMmM0MmFlY2Y4",
+  "snapshot_id": "MTY2MzExMDI2NSwwMDAwMDAwMGZlZWVmMzgxZDY0ZjRjMDNkYzMyN2MzNThkZDFjZWQ2",
   "tracks": [
     {
       "added_at": "2022-09-13 23:04:24",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
+        "name": "ALLTHETIME",
+        "url": "https://open.spotify.com/album/5mt0pY1lSysVsLl5Qqpb2T"
+      },
+      "artists": [
+        {
+          "name": "POLICE CAR COLLECTIVE",
+          "url": "https://open.spotify.com/artist/4FaTP0DGcGHdaTAcUIFTQ2"
+        }
+      ],
+      "duration_ms": 425680,
+      "name": "ALLTHETIME",
+      "url": "https://open.spotify.com/track/3mU67YAZoGcENLRTu6gLxe"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
         "name": "Buzzkill Bummer",
         "url": "https://open.spotify.com/album/2TsdVKTcu9dzDb2SeZHMjd"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 237398,
       "name": "Baby",
       "url": "https://open.spotify.com/track/0Gm7k2jwz8bKr4xjmr9IG3"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
-        "name": "ALLTHETIME",
-        "url": "https://open.spotify.com/album/5mt0pY1lSysVsLl5Qqpb2T"
-      },
-      "artists": [
-        {
-          "name": "POLICE CAR COLLECTIVE",
-          "url": "https://open.spotify.com/artist/4FaTP0DGcGHdaTAcUIFTQ2"
-        }
-      ],
-      "duration_ms": 425680,
-      "name": "ALLTHETIME",
-      "url": "https://open.spotify.com/track/3mU67YAZoGcENLRTu6gLxe"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -1303,18 +1303,22 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "Arp-87",
-        "url": "https://open.spotify.com/album/7FoR9yVEiQEp5DgXcCz6Sa"
+        "name": "QUEEN CITY",
+        "url": "https://open.spotify.com/album/2v2bIVg2RT8VWWF2u6lj1q"
       },
       "artists": [
         {
-          "name": "bloody/bath",
-          "url": "https://open.spotify.com/artist/6U0yRPIBTZbMoRS3FRvyWc"
+          "name": "kerri",
+          "url": "https://open.spotify.com/artist/7mupgmN5rkDNGrqQt1tjcf"
+        },
+        {
+          "name": "Naji",
+          "url": "https://open.spotify.com/artist/31QM5dBtewZL65p9hCnXKK"
         }
       ],
-      "duration_ms": 169728,
-      "name": "Arp-87",
-      "url": "https://open.spotify.com/track/0VdOve6hETT3KF9u4v1QQ1"
+      "duration_ms": 214426,
+      "name": "GROWING PAINS",
+      "url": "https://open.spotify.com/track/7hTFHCtOfsMFaiNVDPzUJ9"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -1335,22 +1339,18 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "QUEEN CITY",
-        "url": "https://open.spotify.com/album/2v2bIVg2RT8VWWF2u6lj1q"
+        "name": "Arp-87",
+        "url": "https://open.spotify.com/album/7FoR9yVEiQEp5DgXcCz6Sa"
       },
       "artists": [
         {
-          "name": "kerri",
-          "url": "https://open.spotify.com/artist/7mupgmN5rkDNGrqQt1tjcf"
-        },
-        {
-          "name": "Naji",
-          "url": "https://open.spotify.com/artist/31QM5dBtewZL65p9hCnXKK"
+          "name": "bloody/bath",
+          "url": "https://open.spotify.com/artist/6U0yRPIBTZbMoRS3FRvyWc"
         }
       ],
-      "duration_ms": 214426,
-      "name": "GROWING PAINS",
-      "url": "https://open.spotify.com/track/7hTFHCtOfsMFaiNVDPzUJ9"
+      "duration_ms": 169728,
+      "name": "Arp-87",
+      "url": "https://open.spotify.com/track/0VdOve6hETT3KF9u4v1QQ1"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "Avian",
-        "url": "https://open.spotify.com/album/5Jbk5XyOqZL6Eji4vQDDdY"
-      },
-      "artists": [
-        {
-          "name": "patchymate",
-          "url": "https://open.spotify.com/artist/7fHDTZfZ72OYE4XpaVE7yO"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "babyur2nice",
-      "url": "https://open.spotify.com/track/0OmJlR4IEktvY7RzpakxVk"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
         "name": "Good For You",
         "url": "https://open.spotify.com/album/3j4P5XClGIWJhnXT6NTix2"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 215580,
       "name": "Good For You",
       "url": "https://open.spotify.com/track/3LuvpnAcuxPn2dV00C9Rxt"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
+        "name": "Avian",
+        "url": "https://open.spotify.com/album/5Jbk5XyOqZL6Eji4vQDDdY"
+      },
+      "artists": [
+        {
+          "name": "patchymate",
+          "url": "https://open.spotify.com/artist/7fHDTZfZ72OYE4XpaVE7yO"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "babyur2nice",
+      "url": "https://open.spotify.com/track/0OmJlR4IEktvY7RzpakxVk"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -1643,22 +1643,18 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "Warning Sign",
-        "url": "https://open.spotify.com/album/7fTpIdQssHGQ1RfkCze3kq"
+        "name": "There's Nothing But Pleasure",
+        "url": "https://open.spotify.com/album/4tP6s2K0QHvzuC960rQ1Dc"
       },
       "artists": [
         {
-          "name": "Far Caspian",
-          "url": "https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4"
-        },
-        {
-          "name": "SOMOH",
-          "url": "https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3"
+          "name": "Bubble Tea and Cigarettes",
+          "url": "https://open.spotify.com/artist/2UMeX51X1prCFgi51RHo9P"
         }
       ],
-      "duration_ms": 172729,
-      "name": "Warning Sign",
-      "url": "https://open.spotify.com/track/4pXjVzQUhOQQmuYSGBiyx6"
+      "duration_ms": 341186,
+      "name": "5AM Empanada with You",
+      "url": "https://open.spotify.com/track/5zotLA21Q8MnILdUxBEPRM"
     }
   ],
   "unique_name": "Lo-fi Indie",

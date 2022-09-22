@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tW4VlEfDSS.md) - [plain]
 
 > A feel\-good soulful house  and disco selection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 331,206 likes - 60 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 331,248 likes - 60 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tW4VlEfDSS.md) - [plain]
 | 29 | [My Own Way](https://open.spotify.com/track/7Csd6ozp0Ci3ZDfvRgzrWz) | [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8) | [My Own Way](https://open.spotify.com/album/6sgwScp59KuNiOPvexBNfA) | 2:21 |
 | 30 | [I Miss Having Someone To Talk To](https://open.spotify.com/track/0y5D6gtFl3WNx06rOXLWJ6) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS), [Liv East](https://open.spotify.com/artist/12Yeojvul63OHxXXI6Z5x7) | [I Miss Having Someone To Talk To](https://open.spotify.com/album/17PBUuvBGmmwD0L6CtKtPR) | 3:43 |
 | 31 | [Forever Man \(How Many Times\) \- Earth n Days Remix](https://open.spotify.com/track/0r5vc5j9eWQv6f0JAns0Ii) | [Beatchuggers](https://open.spotify.com/artist/036bcSagihiHvS91LAxiAR), [Earth n Days](https://open.spotify.com/artist/1DIvkVGJmk8Luy53ChhCjj) | [Forever Man \(How Many Times\) \[Earth n Days Remix\]](https://open.spotify.com/album/3yyp1dD6yJWpGdekqpIcC9) | 3:01 |
-| 32 | [Trouble’s Coming \- Purple Disco Machine Remix](https://open.spotify.com/track/7cpmk4IuNSWfg5XOrr2v8V) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Trouble’s Coming \(Purple Disco Machine Remix\)](https://open.spotify.com/album/5XlWzxdKFGCRDgok5j7UoJ) | 4:25 |
-| 33 | [Incapable](https://open.spotify.com/track/02CkWazM7YqypIxYKy3iSy) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8) | [Róisín Machine](https://open.spotify.com/album/5WpDQt6EbpzXbqo9g9P0L6) | 3:45 |
-| 34 | [Voodoo Babe](https://open.spotify.com/track/2q4IaFpqebD6pMLvRrclvO) | [Never Dull](https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm) | [Voodoo Babe](https://open.spotify.com/album/1lYsNEVEUxuXEAPFE07mAL) | 4:09 |
+| 32 | [Incapable](https://open.spotify.com/track/02CkWazM7YqypIxYKy3iSy) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8) | [Róisín Machine](https://open.spotify.com/album/5WpDQt6EbpzXbqo9g9P0L6) | 3:45 |
+| 33 | [Voodoo Babe](https://open.spotify.com/track/2q4IaFpqebD6pMLvRrclvO) | [Never Dull](https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm) | [Voodoo Babe](https://open.spotify.com/album/1lYsNEVEUxuXEAPFE07mAL) | 4:09 |
+| 34 | [Trouble’s Coming \- Purple Disco Machine Remix](https://open.spotify.com/track/7cpmk4IuNSWfg5XOrr2v8V) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Trouble’s Coming \(Purple Disco Machine Remix\)](https://open.spotify.com/album/5XlWzxdKFGCRDgok5j7UoJ) | 4:25 |
 | 35 | [Voodoo? \- Lazywax Remix](https://open.spotify.com/track/2wHeYDrniYngp3did3McYD) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU), [Lazywax](https://open.spotify.com/artist/0JmfcW7ntKscmNRiLbKEcw) | [Voodoo? \(Lazywax Remix\)](https://open.spotify.com/album/4Lbd1wUo222I65CLuxYEj9) | 6:26 |
 | 36 | [Seventies](https://open.spotify.com/track/0HFUOO7GkVBUCYz1u2IcBM) | [Theo Kottis](https://open.spotify.com/artist/3qEwwb8O7MSkGRohGYEzkO) | [Seventies](https://open.spotify.com/album/6snRQ9zw7mrK0l0vPyY8EJ) | 3:16 |
 | 37 | [Do you Feel Like I do?](https://open.spotify.com/track/5xbKD51JPTqbqLjWnvmnmF) | [Another Chemical Love Story](https://open.spotify.com/artist/7Kgt7Exe4T5w9HEoy3Zeqv), [Elliot Adamson](https://open.spotify.com/artist/5JCyLOcEZsUiTLCUqqcIFz) | [Do you Feel Like I do?](https://open.spotify.com/album/7yKlkYxkKBk7dFZoexmJlb) | 6:38 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tW4VlEfDSS.md) - [plain]
 | 55 | [On My Mind \- Radio Mix](https://open.spotify.com/track/14K2ewiWrVf9qTRoT804Xm) | [Sandy's Groove](https://open.spotify.com/artist/1rQ5LaR4qHhLJ4BncWFTOd) | [On My Mind](https://open.spotify.com/album/1wUQMc1v5gj9n5cqYlLup6) | 4:00 |
 | 56 | [My Love](https://open.spotify.com/track/3G5oXaBG274gRp1aHjnMvu) | [Redondo](https://open.spotify.com/artist/3T0HSMgUpuH1hXbT1JPwQF), [Charles J](https://open.spotify.com/artist/7lmPlDYovClFuOyfyzbDYS) | [My Love](https://open.spotify.com/album/6MierPcAi3tuJ4MKd74vKF) | 2:45 |
 | 57 | [Say Mama](https://open.spotify.com/track/1dWVnxjhpYqkD1PrHI7GS2) | [Alex Preston](https://open.spotify.com/artist/0f8HuVIxsHG6bnEZsz0RuD) | [Say Mama](https://open.spotify.com/album/4RgJere6EOhvRuVNrC6KzU) | 2:57 |
-| 58 | [Second Chance \(feat\. Kimberly Davis\)](https://open.spotify.com/track/1hx5zZoz6ARiIAss9hL7tz) | [The Shapeshifters](https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP), [Kimberly Davis](https://open.spotify.com/artist/1mQYmp7PviGfyjSb2oJ6gJ) | [Second Chance \(feat\. Kimberly Davis\)](https://open.spotify.com/album/22pSFdjEFh3dbm3TCw8sXc) | 3:24 |
-| 59 | [Can't Get Enough](https://open.spotify.com/track/6mV3L1waATvE15NeMHGtUy) | [Birdee](https://open.spotify.com/artist/3bSjUrJcV80nkkypJHElmv), [Andre Espeut](https://open.spotify.com/artist/3KYR1NVEcMfJ657LhKRpJn) | [Can't Get Enough](https://open.spotify.com/album/3Gwd3lkWQToLPDwYEWxGaZ) | 4:27 |
+| 58 | [Can't Get Enough](https://open.spotify.com/track/6mV3L1waATvE15NeMHGtUy) | [Birdee](https://open.spotify.com/artist/3bSjUrJcV80nkkypJHElmv), [Andre Espeut](https://open.spotify.com/artist/3KYR1NVEcMfJ657LhKRpJn) | [Can't Get Enough](https://open.spotify.com/album/3Gwd3lkWQToLPDwYEWxGaZ) | 4:27 |
+| 59 | [Second Chance \(feat\. Kimberly Davis\)](https://open.spotify.com/track/1hx5zZoz6ARiIAss9hL7tz) | [The Shapeshifters](https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP), [Kimberly Davis](https://open.spotify.com/artist/1mQYmp7PviGfyjSb2oJ6gJ) | [Second Chance \(feat\. Kimberly Davis\)](https://open.spotify.com/album/22pSFdjEFh3dbm3TCw8sXc) | 3:24 |
 | 60 | [All Love](https://open.spotify.com/track/5CYtyWsyAEmPfn6OcbG921) | [2fox](https://open.spotify.com/artist/4E9diB5Z272adMK6Hnn5c0), [Nandi](https://open.spotify.com/artist/2gGDpCPFlzPUCUyrF8jXMH) | [All Love](https://open.spotify.com/album/01BTDb8xUH6RDHrVpfVANB) | 5:30 |
 
-Snapshot ID: `MTY0NzAxNTcyNSwwMDAwMDAwMDAwNDg5OWIwMmJiNTE3OWIxYjJlM2YyMmU3Yzk1ZmY0`
+Snapshot ID: `MTY0NzAxNTcyNSwwMDAwMDAwMDk4ZTRiMTRhY2UxNTljOWY5YzZjNWM1NGMxODExY2E3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Zelos Wong 黃凱逸
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,322 likes - 92 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,330 likes - 92 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 3 | [This Is Our Time](https://open.spotify.com/track/53gylyBSKjTAlYQx2OBMol) | [KALAI 家麗](https://open.spotify.com/artist/1TwAmYMVhBwnBdNVKCHsOT) | [This Is Our Time](https://open.spotify.com/album/43glLAVF68qBfkxbGn6LRZ) | 3:12 |
 | 4 | [i love u](https://open.spotify.com/track/5y5JrAfwqYDoVrXfv532W4) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [i love u](https://open.spotify.com/album/4np08DYpAtw26nV2UUX47D) | 3:34 |
 | 5 | [Harbor](https://open.spotify.com/track/49ZfLsBNfvKMu7J8Vqm9VE) | [Kelvin T](https://open.spotify.com/artist/5eKocRaHaAoxtdSAL1zDyT), [Takeem](https://open.spotify.com/artist/7xfeo24u8goKQRhKRj6MP1) | [Synthetic](https://open.spotify.com/album/07wiHViuoo1UnSl1AjKjFk) | 2:30 |
-| 6 | [The Island \- Night Version](https://open.spotify.com/track/6lDHh74XhmqpeLQxR7H0Gf) | [Goochan](https://open.spotify.com/artist/1zn9DyqLyJO3M25GcVqnTn) | [The Island \(Night Version\)](https://open.spotify.com/album/5OkCkb5ryHTLNxOQeduzAz) | 4:08 |
+| 6 | [The Island \- Night Version](https://open.spotify.com/track/6lDHh74XhmqpeLQxR7H0Gf) | [Goochan](https://open.spotify.com/artist/1zn9DyqLyJO3M25GcVqnTn) | [The Island](https://open.spotify.com/album/5OkCkb5ryHTLNxOQeduzAz) | 4:08 |
 | 7 | [FALLEN](https://open.spotify.com/track/5315U2mC8mccmUXJ6ivdqZ) | [MADBOII](https://open.spotify.com/artist/0s2AsEGVMp2h3Zbq9F7SrQ) | [FALLEN](https://open.spotify.com/album/528YTSLjZ9z61w2q21zzuo) | 3:29 |
 | 8 | [支力會\(S\)](https://open.spotify.com/track/32d9V77uEwFJJkSgm2pgpU) | [薛晉寧](https://open.spotify.com/artist/51gtz3TwZi8vKNM74TVYdP) | [支力會\(S\)](https://open.spotify.com/album/5G63G72oiF8ggAEatxEcsu) | 2:30 |
 | 9 | [Hell No](https://open.spotify.com/track/55LyKlGep64SR3BF5MBmaL) | [kayan9896](https://open.spotify.com/artist/0SkORhzzdXwG4cIoEgiodt) | [Hell No](https://open.spotify.com/album/6E7p0YLnVYipbMj3h0mNbX) | 3:18 |

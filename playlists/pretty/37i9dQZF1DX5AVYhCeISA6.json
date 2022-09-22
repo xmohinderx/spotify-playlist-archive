@@ -1,12 +1,12 @@
 {
   "description": "Latinas que inspiran. Kickback and listen to these amazing women. Cover: Villano Antillano",
-  "num_followers": 593756,
+  "num_followers": 593836,
   "original_name": "Inspiring Latinas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTkzMDAzOSwwMDAwMDAwMDgwZTBhNTg0M2E1YjUyNDI4ODM5ZmRjYjM0MDc4Yzk2",
+  "snapshot_id": "MTY2MTkzMDAzOSwwMDAwMDAwMGM5Y2NlZjFhOGU2MzE3ZTNmZTA1YWYxZDFkYmFmZTVj",
   "tracks": [
     {
       "added_at": "2022-08-31 07:13:59",
@@ -439,6 +439,22 @@
     {
       "added_at": "2022-08-31 07:13:59",
       "album": {
+        "name": "Amor Supremo (Desnudo)",
+        "url": "https://open.spotify.com/album/3ChFP3YQevhl7lbTBtO0Yz"
+      },
+      "artists": [
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        }
+      ],
+      "duration_ms": 242446,
+      "name": "Te Regalo",
+      "url": "https://open.spotify.com/track/4brw4anhV4og38Rv6o1dBa"
+    },
+    {
+      "added_at": "2022-08-31 07:13:59",
+      "album": {
         "name": "Downtown",
         "url": "https://open.spotify.com/album/1qifX05Cb36CfsIgnhv2Lt"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 193456,
       "name": "Downtown",
       "url": "https://open.spotify.com/track/3Ga6eKrUFf12ouh9Yw3v2D"
-    },
-    {
-      "added_at": "2022-08-31 07:13:59",
-      "album": {
-        "name": "Amor Supremo (Desnudo)",
-        "url": "https://open.spotify.com/album/3ChFP3YQevhl7lbTBtO0Yz"
-      },
-      "artists": [
-        {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
-        }
-      ],
-      "duration_ms": 242446,
-      "name": "Te Regalo",
-      "url": "https://open.spotify.com/track/4brw4anhV4og38Rv6o1dBa"
     },
     {
       "added_at": "2022-08-31 07:13:59",
@@ -859,30 +859,18 @@
     {
       "added_at": "2022-08-31 07:13:59",
       "album": {
-        "name": "Las Nenas (feat. La Duraca)",
-        "url": "https://open.spotify.com/album/46To3XT2EvHUnLPF08E8SI"
+        "name": "diamantes y espinas",
+        "url": "https://open.spotify.com/album/3o86U2Y7aQCgQe2kQQOz8T"
       },
       "artists": [
         {
-          "name": "Natti Natasha",
-          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
-        },
-        {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
-        },
-        {
-          "name": "Farina",
-          "url": "https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90"
-        },
-        {
-          "name": "La Duraca",
-          "url": "https://open.spotify.com/artist/7x7vfF89MqM94K8wvK3Omq"
+          "name": "paopao",
+          "url": "https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9"
         }
       ],
-      "duration_ms": 224739,
-      "name": "Las Nenas (feat. La Duraca)",
-      "url": "https://open.spotify.com/track/2KTCXvWUbqfiinbFe7PJKP"
+      "duration_ms": 213920,
+      "name": "algo as\u00ed",
+      "url": "https://open.spotify.com/track/5YZ6ThqD1WBi9g0YSlLsfW"
     },
     {
       "added_at": "2022-08-31 07:13:59",
@@ -927,26 +915,30 @@
     {
       "added_at": "2022-08-31 07:13:59",
       "album": {
-        "name": "Ella (Remix De Ellas)",
-        "url": "https://open.spotify.com/album/1S3W5Bf9guhX9p3m8DG1Oe"
+        "name": "Las Nenas (feat. La Duraca)",
+        "url": "https://open.spotify.com/album/46To3XT2EvHUnLPF08E8SI"
       },
       "artists": [
         {
-          "name": "Pitizion",
-          "url": "https://open.spotify.com/artist/0GWdY55YF6xzN5L1A0X8nq"
+          "name": "Natti Natasha",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
         },
         {
-          "name": "Kenia OS",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
         },
         {
-          "name": "Nicole Zignago",
-          "url": "https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP"
+          "name": "Farina",
+          "url": "https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90"
+        },
+        {
+          "name": "La Duraca",
+          "url": "https://open.spotify.com/artist/7x7vfF89MqM94K8wvK3Omq"
         }
       ],
-      "duration_ms": 190813,
-      "name": "Ella - Remix De Ellas",
-      "url": "https://open.spotify.com/track/6xvsaD0vPI2tU9gaF2e4j2"
+      "duration_ms": 224739,
+      "name": "Las Nenas (feat. La Duraca)",
+      "url": "https://open.spotify.com/track/2KTCXvWUbqfiinbFe7PJKP"
     },
     {
       "added_at": "2022-08-31 07:13:59",
@@ -967,18 +959,26 @@
     {
       "added_at": "2022-08-31 07:13:59",
       "album": {
-        "name": "diamantes y espinas",
-        "url": "https://open.spotify.com/album/3o86U2Y7aQCgQe2kQQOz8T"
+        "name": "Ella (Remix De Ellas)",
+        "url": "https://open.spotify.com/album/1S3W5Bf9guhX9p3m8DG1Oe"
       },
       "artists": [
         {
-          "name": "paopao",
-          "url": "https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9"
+          "name": "Pitizion",
+          "url": "https://open.spotify.com/artist/0GWdY55YF6xzN5L1A0X8nq"
+        },
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        },
+        {
+          "name": "Nicole Zignago",
+          "url": "https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP"
         }
       ],
-      "duration_ms": 213920,
-      "name": "algo as\u00ed",
-      "url": "https://open.spotify.com/track/5YZ6ThqD1WBi9g0YSlLsfW"
+      "duration_ms": 190813,
+      "name": "Ella - Remix De Ellas",
+      "url": "https://open.spotify.com/track/6xvsaD0vPI2tU9gaF2e4j2"
     },
     {
       "added_at": "2022-08-31 07:13:59",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2022-08-31 07:13:59",
       "album": {
-        "name": "Cuando Hay Amor",
-        "url": "https://open.spotify.com/album/4J8Q9mgGc9qtJLxibHgj8Z"
-      },
-      "artists": [
-        {
-          "name": "Gloria Estefan",
-          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
-        }
-      ],
-      "duration_ms": 241426,
-      "name": "Cuando Hay Amor",
-      "url": "https://open.spotify.com/track/5btfqYIpHd72XXCD1J6zlK"
-    },
-    {
-      "added_at": "2022-08-31 07:13:59",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6vB3HwLeq8ZjQYXUka7QIs"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 197815,
       "name": "No Pasa Nada - Recorded at Panoram Studios, Mexico",
       "url": "https://open.spotify.com/track/7doCx8U6982H52Nmrmqdth"
+    },
+    {
+      "added_at": "2022-08-31 07:13:59",
+      "album": {
+        "name": "Cuando Hay Amor",
+        "url": "https://open.spotify.com/album/4J8Q9mgGc9qtJLxibHgj8Z"
+      },
+      "artists": [
+        {
+          "name": "Gloria Estefan",
+          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
+        }
+      ],
+      "duration_ms": 241426,
+      "name": "Cuando Hay Amor",
+      "url": "https://open.spotify.com/track/5btfqYIpHd72XXCD1J6zlK"
     },
     {
       "added_at": "2022-08-31 07:13:59",

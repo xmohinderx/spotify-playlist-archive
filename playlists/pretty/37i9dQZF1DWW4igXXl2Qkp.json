@@ -1,13 +1,33 @@
 {
   "description": "New Hip-Hop from independent artists & labels every Wednesday. Cover: RALAN STYLES\n",
-  "num_followers": 188059,
+  "num_followers": 188257,
   "original_name": "Fresh Finds Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzE3NzExNSwwMDAwMDAwMDg1M2JmMjJhMTA3MTNkYjk0ZjBlOTNiMDhmYjJiMDlk",
+  "snapshot_id": "MTY2Mzc3NjE4NywwMDAwMDAwMDgxZWI3MGZmZGIyZDkzYTg4ODMwOTk1MzZmMDY5ZjZm",
   "tracks": [
+    {
+      "added_at": "2022-08-24 16:00:00",
+      "album": {
+        "name": "40s N 9s",
+        "url": "https://open.spotify.com/album/3xaTN7UyEJIVnnjdclui5E"
+      },
+      "artists": [
+        {
+          "name": "DD Osama",
+          "url": "https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM"
+        },
+        {
+          "name": "SugarHill Ddot",
+          "url": "https://open.spotify.com/artist/2mET8bpTc6j2lm5YjVUeFq"
+        }
+      ],
+      "duration_ms": 145606,
+      "name": "40s N 9s",
+      "url": "https://open.spotify.com/track/6c74xJ6LgdJDnv8bYOElUP"
+    },
     {
       "added_at": "2022-09-07 04:28:30",
       "album": {
@@ -23,6 +43,22 @@
       "duration_ms": 156059,
       "name": "Baby Shark",
       "url": "https://open.spotify.com/track/7Hij0MzGIK43J8sQsrzcdB"
+    },
+    {
+      "added_at": "2022-09-21 16:03:07",
+      "album": {
+        "name": "Legendary",
+        "url": "https://open.spotify.com/album/4YtjeKtoAw0kAHNQTHS4O5"
+      },
+      "artists": [
+        {
+          "name": "Anti Da Menace",
+          "url": "https://open.spotify.com/artist/7jkEdcZtIMWXlEM5sgZ2uK"
+        }
+      ],
+      "duration_ms": 164129,
+      "name": "Free Yola",
+      "url": "https://open.spotify.com/track/0c1Ke3XYnUQ7qNq6kmzJe0"
     },
     {
       "added_at": "2022-09-14 17:38:35",
@@ -45,26 +81,6 @@
       "url": "https://open.spotify.com/track/3UKJ6X8H1hQDWr22HuKdj4"
     },
     {
-      "added_at": "2022-08-24 16:00:00",
-      "album": {
-        "name": "40s N 9s",
-        "url": "https://open.spotify.com/album/3xaTN7UyEJIVnnjdclui5E"
-      },
-      "artists": [
-        {
-          "name": "DD Osama",
-          "url": "https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM"
-        },
-        {
-          "name": "SugarHill Ddot",
-          "url": "https://open.spotify.com/artist/2mET8bpTc6j2lm5YjVUeFq"
-        }
-      ],
-      "duration_ms": 145606,
-      "name": "40s N 9s",
-      "url": "https://open.spotify.com/track/6c74xJ6LgdJDnv8bYOElUP"
-    },
-    {
       "added_at": "2022-09-14 17:38:35",
       "album": {
         "name": "NO PLACE TO GO",
@@ -85,6 +101,22 @@
       "url": "https://open.spotify.com/track/6aBMG5bq5CsCsVg7O1UJ6L"
     },
     {
+      "added_at": "2022-09-21 16:03:07",
+      "album": {
+        "name": "YA YA YA",
+        "url": "https://open.spotify.com/album/3gJzcoeQdZhYwjkKpMXEkb"
+      },
+      "artists": [
+        {
+          "name": "Black Yungin'",
+          "url": "https://open.spotify.com/artist/4QiGp24evQtZMwl7Za2fsl"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "YA YA YA",
+      "url": "https://open.spotify.com/track/6WPH7wmoqgAy9b70XiP9mU"
+    },
+    {
       "added_at": "2022-08-24 16:00:00",
       "album": {
         "name": "Southside",
@@ -101,6 +133,22 @@
       "url": "https://open.spotify.com/track/5kRAI8FU35oY52jn8xwrI0"
     },
     {
+      "added_at": "2022-09-21 16:03:07",
+      "album": {
+        "name": "Playboy",
+        "url": "https://open.spotify.com/album/2jDIDTorE20GKuZgnNsVgp"
+      },
+      "artists": [
+        {
+          "name": "4L JAVI",
+          "url": "https://open.spotify.com/artist/6G4OzVMmNRMt8q6aPTKV3a"
+        }
+      ],
+      "duration_ms": 144065,
+      "name": "Playboy",
+      "url": "https://open.spotify.com/track/6tgUi4iyPlMmhRtObgPJFc"
+    },
+    {
       "added_at": "2022-08-11 23:42:33",
       "album": {
         "name": "Munch (Feelin\u2019 U)",
@@ -115,6 +163,42 @@
       "duration_ms": 104819,
       "name": "Munch (Feelin\u2019 U)",
       "url": "https://open.spotify.com/track/1jOgJN75btuUONIdf57vHz"
+    },
+    {
+      "added_at": "2022-08-31 04:00:00",
+      "album": {
+        "name": "Wicked Inna RaQ",
+        "url": "https://open.spotify.com/album/2UQE2FyVFL2Sk3JLzqvmV7"
+      },
+      "artists": [
+        {
+          "name": "Lil Nuu",
+          "url": "https://open.spotify.com/artist/4BcULtFSsSVrAC5TbjPHWE"
+        }
+      ],
+      "duration_ms": 151275,
+      "name": "Wicked Inna RaQ",
+      "url": "https://open.spotify.com/track/6Qc6KIe2HMCtHAE8M7PC4s"
+    },
+    {
+      "added_at": "2022-09-21 16:03:07",
+      "album": {
+        "name": "Say Datt",
+        "url": "https://open.spotify.com/album/5pbbxNP5PcmG8lh0iZx0f0"
+      },
+      "artists": [
+        {
+          "name": "Fastmoney Ant",
+          "url": "https://open.spotify.com/artist/1r1AoJILFfEvsqNiG85zwL"
+        },
+        {
+          "name": "Lil Zay Osama",
+          "url": "https://open.spotify.com/artist/7rkcFChEJ9tCLcVevtu0Nt"
+        }
+      ],
+      "duration_ms": 151227,
+      "name": "Say Datt",
+      "url": "https://open.spotify.com/track/14Rg3f4eF9LoVZObgxkKiP"
     },
     {
       "added_at": "2022-09-07 04:00:00",
@@ -151,6 +235,22 @@
       "duration_ms": 126040,
       "name": "HORNITOS",
       "url": "https://open.spotify.com/track/2URZor2q1u10y1ufyl9eNy"
+    },
+    {
+      "added_at": "2022-09-21 16:03:07",
+      "album": {
+        "name": "Who",
+        "url": "https://open.spotify.com/album/3XYxlKlKE5aLFcD6Z5vJu9"
+      },
+      "artists": [
+        {
+          "name": "London Hilll",
+          "url": "https://open.spotify.com/artist/7cqLnc6zTajTX61F6SGA2A"
+        }
+      ],
+      "duration_ms": 130742,
+      "name": "Who",
+      "url": "https://open.spotify.com/track/1E3u5YwynwrKVXxSzbjN6B"
     },
     {
       "added_at": "2022-09-14 17:38:35",
@@ -245,6 +345,22 @@
       "url": "https://open.spotify.com/track/2aLqyoNxj5H1nZC56ObtrG"
     },
     {
+      "added_at": "2022-09-21 16:03:07",
+      "album": {
+        "name": "19",
+        "url": "https://open.spotify.com/album/2YP4EV0q1HiZjXkvWteHky"
+      },
+      "artists": [
+        {
+          "name": "DavidTheTragic",
+          "url": "https://open.spotify.com/artist/7mQVOW2B7FQ0dJBxwsa2fR"
+        }
+      ],
+      "duration_ms": 129000,
+      "name": "19",
+      "url": "https://open.spotify.com/track/0OG1XZqBMSZNuKoNx1NEgu"
+    },
+    {
       "added_at": "2022-09-14 17:38:35",
       "album": {
         "name": "SINCERELY",
@@ -291,6 +407,22 @@
       "duration_ms": 164604,
       "name": "Soda Pop",
       "url": "https://open.spotify.com/track/4rljlKPi0fkI6Lu0ySlIe9"
+    },
+    {
+      "added_at": "2022-09-21 16:03:07",
+      "album": {
+        "name": "TAKE R U OK",
+        "url": "https://open.spotify.com/album/7zrajArFSrkaruRU3ZOuzh"
+      },
+      "artists": [
+        {
+          "name": "Take45",
+          "url": "https://open.spotify.com/artist/4v40FFB2OBdChsx83RTEUO"
+        }
+      ],
+      "duration_ms": 129866,
+      "name": "TAKE R U OK",
+      "url": "https://open.spotify.com/track/4WQWiixXJI7WJsWNdcvsVx"
     },
     {
       "added_at": "2022-09-14 17:38:35",
@@ -341,20 +473,20 @@
       "url": "https://open.spotify.com/track/26TovmA8desBWW1xtojaKd"
     },
     {
-      "added_at": "2022-08-31 04:00:00",
+      "added_at": "2022-09-21 16:03:07",
       "album": {
-        "name": "Wicked Inna RaQ",
-        "url": "https://open.spotify.com/album/2UQE2FyVFL2Sk3JLzqvmV7"
+        "name": "The Passion",
+        "url": "https://open.spotify.com/album/06hPzuha2LmNJ3weTpAygz"
       },
       "artists": [
         {
-          "name": "Lil Nuu",
-          "url": "https://open.spotify.com/artist/4BcULtFSsSVrAC5TbjPHWE"
+          "name": "LEW",
+          "url": "https://open.spotify.com/artist/3Jm6kDs1lVTJSiIN6fZyP4"
         }
       ],
-      "duration_ms": 151275,
-      "name": "Wicked Inna RaQ",
-      "url": "https://open.spotify.com/track/6Qc6KIe2HMCtHAE8M7PC4s"
+      "duration_ms": 137142,
+      "name": "The Passion",
+      "url": "https://open.spotify.com/track/3OWt4SagGhsTLniZcY5YKF"
     },
     {
       "added_at": "2022-09-14 17:38:35",
@@ -469,22 +601,6 @@
       "url": "https://open.spotify.com/track/0B0kOrauoAebBdoax6C0Y4"
     },
     {
-      "added_at": "2022-08-10 16:00:00",
-      "album": {
-        "name": "Internet Shooter",
-        "url": "https://open.spotify.com/album/0lQKfhqKTBEiCllzPa7b6M"
-      },
-      "artists": [
-        {
-          "name": "Lil Seeto",
-          "url": "https://open.spotify.com/artist/6Tcv81NwhshAZnSsoJT0WI"
-        }
-      ],
-      "duration_ms": 117562,
-      "name": "Internet Shooter",
-      "url": "https://open.spotify.com/track/5AC6Q3bRtfUCzvlsBbdeVw"
-    },
-    {
       "added_at": "2022-09-14 17:38:35",
       "album": {
         "name": "again",
@@ -503,22 +619,6 @@
       "duration_ms": 178666,
       "name": "again",
       "url": "https://open.spotify.com/track/2cJJhsDT8jqVT5hsBSHfVc"
-    },
-    {
-      "added_at": "2022-08-10 16:00:00",
-      "album": {
-        "name": "What It Is",
-        "url": "https://open.spotify.com/album/4WFokPlvWtHvqsG6P6Dxo5"
-      },
-      "artists": [
-        {
-          "name": "BabyDrill",
-          "url": "https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv"
-        }
-      ],
-      "duration_ms": 129269,
-      "name": "What It Is",
-      "url": "https://open.spotify.com/track/7D4HOXBTsFfC8IJc6UfjsY"
     },
     {
       "added_at": "2022-08-24 16:00:00",
@@ -643,50 +743,6 @@
     {
       "added_at": "2022-08-10 16:00:00",
       "album": {
-        "name": "Corduroy",
-        "url": "https://open.spotify.com/album/3KPpIrJ5p3i8jl2uTGLYhW"
-      },
-      "artists": [
-        {
-          "name": "Jaywop",
-          "url": "https://open.spotify.com/artist/7LHBUDRMoLWz3aw9H3YSb9"
-        },
-        {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
-        },
-        {
-          "name": "Donte Thomas",
-          "url": "https://open.spotify.com/artist/53F7MNlYur7XEV75tY3Yor"
-        },
-        {
-          "name": "Sxlxmxn",
-          "url": "https://open.spotify.com/artist/1pDVDyfDlzo2XXQ5dH5rAK"
-        }
-      ],
-      "duration_ms": 220254,
-      "name": "Red Water",
-      "url": "https://open.spotify.com/track/4M6wNTUJra5iXIoPZdeQWm"
-    },
-    {
-      "added_at": "2022-08-10 16:00:00",
-      "album": {
-        "name": "where's the confetti?",
-        "url": "https://open.spotify.com/album/3hZxVb3R04jqQ7OJF6zEri"
-      },
-      "artists": [
-        {
-          "name": "jev.",
-          "url": "https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF"
-        }
-      ],
-      "duration_ms": 200933,
-      "name": "where's the confetti?",
-      "url": "https://open.spotify.com/track/74RrBP1bsNgecwVkqKCbXL"
-    },
-    {
-      "added_at": "2022-08-10 16:00:00",
-      "album": {
         "name": "Like Bill",
         "url": "https://open.spotify.com/album/5FB1SI2U8IOPk8kEAnQLPb"
       },
@@ -735,38 +791,6 @@
       "duration_ms": 198400,
       "name": "TBH - C Wills Remix",
       "url": "https://open.spotify.com/track/4hCUljrrmvpjOl0BJb7iUV"
-    },
-    {
-      "added_at": "2022-08-10 16:00:00",
-      "album": {
-        "name": "Holiday",
-        "url": "https://open.spotify.com/album/0LlLahGldUBMmgoe6UEEES"
-      },
-      "artists": [
-        {
-          "name": "ELI 07",
-          "url": "https://open.spotify.com/artist/7h5WPFJlcIOT4VTxsdrJF1"
-        }
-      ],
-      "duration_ms": 185714,
-      "name": "Holiday",
-      "url": "https://open.spotify.com/track/4ILToTEZmod5vI05AzJjYV"
-    },
-    {
-      "added_at": "2022-08-10 16:00:00",
-      "album": {
-        "name": "IronMan",
-        "url": "https://open.spotify.com/album/2woBXzBABHDsVvb6ZbZg8t"
-      },
-      "artists": [
-        {
-          "name": "Dustystaytrue",
-          "url": "https://open.spotify.com/artist/5MIXBzwGNeUeFAS0o3XBXL"
-        }
-      ],
-      "duration_ms": 165478,
-      "name": "IronMan",
-      "url": "https://open.spotify.com/track/1VztOdqFSTBEjBJMTbmfNW"
     },
     {
       "added_at": "2022-08-10 16:00:00",
@@ -831,38 +855,6 @@
       "duration_ms": 144065,
       "name": "Feelings",
       "url": "https://open.spotify.com/track/42hfVS3MCDIbyFoBriCiJF"
-    },
-    {
-      "added_at": "2022-08-10 16:00:00",
-      "album": {
-        "name": "Fallin' Alone",
-        "url": "https://open.spotify.com/album/7JPpxiAszgNlUcx423IUW6"
-      },
-      "artists": [
-        {
-          "name": "Carter Cook",
-          "url": "https://open.spotify.com/artist/0KHc7N6EG0MPyIgJCsEGff"
-        }
-      ],
-      "duration_ms": 133163,
-      "name": "Fallin' Alone",
-      "url": "https://open.spotify.com/track/2tktY4JA7EhUKVNR4sj9Jw"
-    },
-    {
-      "added_at": "2022-08-10 16:00:00",
-      "album": {
-        "name": "Trust Lost",
-        "url": "https://open.spotify.com/album/1uwVxqhh2cKeguBv19OS7N"
-      },
-      "artists": [
-        {
-          "name": "MiloXO",
-          "url": "https://open.spotify.com/artist/1GikQjAs1mSTJtZKPi3hWr"
-        }
-      ],
-      "duration_ms": 171064,
-      "name": "Trust Lost",
-      "url": "https://open.spotify.com/track/4tmxNaDiSwPosCx6D4AxPm"
     }
   ],
   "unique_name": "Fresh Finds Hip-Hop",

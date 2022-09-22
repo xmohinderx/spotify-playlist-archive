@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 
 > A quality alternative blend\. Cover: Danielle Ponder
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,351 likes - 128 songs - 7 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,362 likes - 128 songs - 7 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Oblique: Angular\. Asymmetrical\. Experimental.
 
-176 songs - 12 hr 37 min - [published](https://open.spotify.com/playlist/53YlmOlKHZkvBIAusSdsbN)
+177 songs - 12 hr 45 min - [published](https://open.spotify.com/playlist/53YlmOlKHZkvBIAusSdsbN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Dry Fantasy](https://open.spotify.com/track/7lABwF6gabjOLifJFuAaKi) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [As The Love Continues](https://open.spotify.com/album/4LjNbxlMmWNn5Yky9bfxRm) | 5:10 | 2021-10-06 |  |
 | [Dust It Off](https://open.spotify.com/track/34eeJ4JoXWqe6wmOHmgsCe) | [The Dø](https://open.spotify.com/artist/2mcNCn1qbZUQ3J9KHapUxj) | [Both Ways Open Jaws](https://open.spotify.com/album/49MmHVGK4koPoJYz64Roja) | 3:42 | 2022-08-03 |  |
 | [Escultura Misterio](https://open.spotify.com/track/110XHKXij8NsQYcDiZk0cD) | [Tarik Rahim](https://open.spotify.com/artist/6G8dH1AvGAD1TOldBpAolN) | [Escultura Misterio](https://open.spotify.com/album/0JZld6b73MsZUKI1bg8KSc) | 2:53 | 2022-08-13 |  |
+| [Face the Music](https://open.spotify.com/track/43pbrYslDNESsMRGtai0z5) | [Lolina](https://open.spotify.com/artist/1jj1qbHgrDKYct7IJv5VQ8) | [Face the Music](https://open.spotify.com/album/3X5l6ObXrQxDgwsCvGpOzt) | 7:40 | 2022-09-21 |  |
 | [Fear Colours](https://open.spotify.com/track/6LqGGX6csEr35xYFINiAA1) | [LoneLady](https://open.spotify.com/artist/0BwRrZKiv4NIiVcLgONuOh) | [Fear Colours](https://open.spotify.com/album/3pH6DSketPRDBNCIpUMuNW) | 4:35 | 2021-10-06 | 2022-05-25 |
 | [Feed Me](https://open.spotify.com/track/16wmuvedj0UKCkI7ngHEai) | [Earth Girl Helen Brown](https://open.spotify.com/artist/3zpGVsfbGWp8mwf3lNNfTq) | [Earth](https://open.spotify.com/album/4TqrulLNQUtyZmKyzQsmii) | 6:55 | 2021-10-06 |  |
 | [Feedback Loop](https://open.spotify.com/track/0P0mIfzkLvBU2xZQN7rQNC) | [Cid Rim](https://open.spotify.com/artist/1qsa20MWDjV9QI93zn2i2s) | [Feedback Loop](https://open.spotify.com/album/204n8zYF4t6GYr7atvFvsE) | 3:08 | 2022-01-21 |  |
@@ -108,7 +109,7 @@
 | [No tiempo](https://open.spotify.com/track/3x5CHbBZhKJuT0N3LlmOE4) | [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9) | [Atemporal](https://open.spotify.com/album/063ZbT2nAWdHQY1vlu6VFd) | 3:35 | 2022-08-02 |  |
 | [Noon](https://open.spotify.com/track/3PtwtRamdsxLxa4tSqtsAq) | [Nothing for Breakfast](https://open.spotify.com/artist/03RS6371Byq0m2stNKNIEl) | [Noon](https://open.spotify.com/album/4rxbvCSYsEafa2JXSZzTKi) | 2:48 | 2022-09-03 |  |
 | [Ocean noir](https://open.spotify.com/track/0JWtd6oSI8wlvMz4Tvctts) | [SKYGGE](https://open.spotify.com/artist/4aGSoPUP1v4qh7RfBlvgbR), [Benoît Carré](https://open.spotify.com/artist/3CmH9mzBhbcOu7ugWxFW5V) | [Ocean noir](https://open.spotify.com/album/6loTihjQ0lHtEFxjOcPjC3) | 3:57 | 2022-02-15 | 2022-08-04 |
-| [Oil on Troubled Waters](https://open.spotify.com/track/7mj9kYMykOPsuDDI2Qm5s2) | [Martin Thulin](https://open.spotify.com/artist/0wEgzu3Y9aQ5mVdliG4L8l) | [Oil on Troubled Waters](https://open.spotify.com/album/0NxnBrqJ0PC0Gg4bfcLfch) | 3:26 | 2022-03-09 |  |
+| [Oil on Troubled Waters](https://open.spotify.com/track/7mj9kYMykOPsuDDI2Qm5s2) | [Martin Thulin](https://open.spotify.com/artist/0wEgzu3Y9aQ5mVdliG4L8l) | [Oil on Troubled Waters](https://open.spotify.com/album/0NxnBrqJ0PC0Gg4bfcLfch) | 3:26 | 2022-03-09 | 2022-09-22 |
 | [Okandjambameya](https://open.spotify.com/track/04fNJ0ZewYhVTBBJEF5bsm) | [Hologram Teen](https://open.spotify.com/artist/1u5weRHG0G3kj2VLqO2DUA) | [Pizza Conspiracy](https://open.spotify.com/album/0yWP0bki3piEYrWzRZH369) | 3:33 | 2021-10-06 |  |
 | [Okandjambameya](https://open.spotify.com/track/1WuBlnb90t8ZjkCUedVry5) | [Hologram Teen](https://open.spotify.com/artist/1u5weRHG0G3kj2VLqO2DUA) | [Pizza Conspiracy](https://open.spotify.com/album/47B5MFZpfzFXEHEkmawURz) | 3:33 | 2021-10-06 | 2022-07-29 |
 | [Only You Know Why](https://open.spotify.com/track/06BBBpEtdwJSgPakRdrEzf) | [Jack J](https://open.spotify.com/artist/5AIM76YeoaHOzyUHbg4UKl) | [Opening the Door](https://open.spotify.com/album/4PT8J0fOr38VIH5ULZamLh) | 4:16 | 2022-04-13 | 2022-09-01 |

@@ -1,12 +1,12 @@
 {
   "description": "A celebration of Norway's dance scene!",
-  "num_followers": 119960,
+  "num_followers": 119986,
   "original_name": "Space Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjA2OTYwMCwwMDAwMDAwMDQ0MDY0MDdjYzdhNGZhZmFkYTlhNTZjZmIzNjg4MjI3",
+  "snapshot_id": "MTY2MjA2OTYwMCwwMDAwMDAwMDFjNTQyNzE0NWI2Zjc1YjlkNDU4MWQwMzQyYTk5OGFk",
   "tracks": [
     {
       "added_at": "2022-09-01 22:00:00",
@@ -271,18 +271,18 @@
     {
       "added_at": "2022-09-01 22:00:00",
       "album": {
-        "name": "Moon Jocks n Prog Rocks",
-        "url": "https://open.spotify.com/album/1mAPYemEY9Bb5K3L0T0nT6"
+        "name": "Echo to Echo",
+        "url": "https://open.spotify.com/album/63wGONylhY5SRDvmjKDCec"
       },
       "artists": [
         {
-          "name": "Mungolian Jetset",
-          "url": "https://open.spotify.com/artist/3we4aZ9sQc0tp8UOyOEtpt"
+          "name": "Magnus International",
+          "url": "https://open.spotify.com/artist/7LAZbZOoUvDR4hgHkMRPSE"
         }
       ],
-      "duration_ms": 813506,
-      "name": "Moon Jocks n Prog Rocks",
-      "url": "https://open.spotify.com/track/190sUkgX3sm1co7Qkd7SBX"
+      "duration_ms": 255909,
+      "name": "A Man Called Anthony",
+      "url": "https://open.spotify.com/track/2C2vLPP0C619yxaEsE6OVv"
     },
     {
       "added_at": "2022-09-01 22:00:00",
@@ -307,18 +307,18 @@
     {
       "added_at": "2022-09-01 22:00:00",
       "album": {
-        "name": "Echo to Echo",
-        "url": "https://open.spotify.com/album/63wGONylhY5SRDvmjKDCec"
+        "name": "Moon Jocks n Prog Rocks",
+        "url": "https://open.spotify.com/album/1mAPYemEY9Bb5K3L0T0nT6"
       },
       "artists": [
         {
-          "name": "Magnus International",
-          "url": "https://open.spotify.com/artist/7LAZbZOoUvDR4hgHkMRPSE"
+          "name": "Mungolian Jetset",
+          "url": "https://open.spotify.com/artist/3we4aZ9sQc0tp8UOyOEtpt"
         }
       ],
-      "duration_ms": 255909,
-      "name": "A Man Called Anthony",
-      "url": "https://open.spotify.com/track/2C2vLPP0C619yxaEsE6OVv"
+      "duration_ms": 813506,
+      "name": "Moon Jocks n Prog Rocks",
+      "url": "https://open.spotify.com/track/190sUkgX3sm1co7Qkd7SBX"
     },
     {
       "added_at": "2022-09-01 22:00:00",
@@ -379,22 +379,6 @@
     {
       "added_at": "2022-09-01 22:00:00",
       "album": {
-        "name": "Tr\u00f8bbel",
-        "url": "https://open.spotify.com/album/1Es585IxIHauFNjCaRoRyU"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f8rn Torske",
-          "url": "https://open.spotify.com/artist/4mD9kXHOs76Ld1m2Vfyi68"
-        }
-      ],
-      "duration_ms": 282085,
-      "name": "Hard Trafikk",
-      "url": "https://open.spotify.com/track/5jJuwmQ8Jdfx08F9hAx5tg"
-    },
-    {
-      "added_at": "2022-09-01 22:00:00",
-      "album": {
         "name": "Transit",
         "url": "https://open.spotify.com/album/2xGTUrOe1vH974ZuWfGp54"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 150870,
       "name": "Transit - Radio Edit",
       "url": "https://open.spotify.com/track/6xX3DLq6CqH54lcNRzCGnu"
+    },
+    {
+      "added_at": "2022-09-01 22:00:00",
+      "album": {
+        "name": "Tr\u00f8bbel",
+        "url": "https://open.spotify.com/album/1Es585IxIHauFNjCaRoRyU"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f8rn Torske",
+          "url": "https://open.spotify.com/artist/4mD9kXHOs76Ld1m2Vfyi68"
+        }
+      ],
+      "duration_ms": 282085,
+      "name": "Hard Trafikk",
+      "url": "https://open.spotify.com/track/5jJuwmQ8Jdfx08F9hAx5tg"
     },
     {
       "added_at": "2022-09-01 22:00:00",
@@ -495,6 +495,22 @@
     {
       "added_at": "2022-09-01 22:00:00",
       "album": {
+        "name": "Be A Man You Ant",
+        "url": "https://open.spotify.com/album/5PNdVI9kYjjyda8J7fuxig"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Bratten",
+          "url": "https://open.spotify.com/artist/4JumlwBeaIE16moHUv3xzZ"
+        }
+      ],
+      "duration_ms": 384055,
+      "name": "Be A Man You Ant - Original Mix",
+      "url": "https://open.spotify.com/track/380B4H9JdSzDqjdJFtTykb"
+    },
+    {
+      "added_at": "2022-09-01 22:00:00",
+      "album": {
         "name": "A City So Convenient",
         "url": "https://open.spotify.com/album/61GhllHN2g6exhlV6dTx9J"
       },
@@ -507,6 +523,22 @@
       "duration_ms": 386268,
       "name": "A City So Convenient",
       "url": "https://open.spotify.com/track/6Tlxp0jf4hOmSeOiuhnM5v"
+    },
+    {
+      "added_at": "2022-09-01 22:00:00",
+      "album": {
+        "name": "Like a Petal but Not Really",
+        "url": "https://open.spotify.com/album/36cqJsLpY0klltWHlmZRKD"
+      },
+      "artists": [
+        {
+          "name": "Ugress",
+          "url": "https://open.spotify.com/artist/7z7iM83U5FOtatZG5pd53f"
+        }
+      ],
+      "duration_ms": 204821,
+      "name": "Like A Petal But Not Really",
+      "url": "https://open.spotify.com/track/5N1afdUHdVEc0hJGhuCgWs"
     },
     {
       "added_at": "2022-09-01 22:00:00",
@@ -527,38 +559,6 @@
       "duration_ms": 569159,
       "name": "This Time - Lindstr\u00f8m Remix",
       "url": "https://open.spotify.com/track/17i25eEW6w8zuunLzgsKni"
-    },
-    {
-      "added_at": "2022-09-01 22:00:00",
-      "album": {
-        "name": "Be A Man You Ant",
-        "url": "https://open.spotify.com/album/5PNdVI9kYjjyda8J7fuxig"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9 Bratten",
-          "url": "https://open.spotify.com/artist/4JumlwBeaIE16moHUv3xzZ"
-        }
-      ],
-      "duration_ms": 384055,
-      "name": "Be A Man You Ant - Original Mix",
-      "url": "https://open.spotify.com/track/380B4H9JdSzDqjdJFtTykb"
-    },
-    {
-      "added_at": "2022-09-01 22:00:00",
-      "album": {
-        "name": "Like a Petal but Not Really",
-        "url": "https://open.spotify.com/album/36cqJsLpY0klltWHlmZRKD"
-      },
-      "artists": [
-        {
-          "name": "Ugress",
-          "url": "https://open.spotify.com/artist/7z7iM83U5FOtatZG5pd53f"
-        }
-      ],
-      "duration_ms": 204821,
-      "name": "Like A Petal But Not Really",
-      "url": "https://open.spotify.com/track/5N1afdUHdVEc0hJGhuCgWs"
     },
     {
       "added_at": "2022-09-01 22:00:00",

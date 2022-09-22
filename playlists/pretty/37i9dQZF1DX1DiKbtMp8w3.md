@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DiKbtMp8w3.md) - [plain]
 
 > Meet the lineup of Busan International Rock Festival, the longest\-running rock festival in Korea! \(한국 최장수 국제 록 페스티벌인 부산 록 페스티벌의 라인업을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,356 likes - 99 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,421 likes - 99 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DiKbtMp8w3.md) - [plain]
 | 54 | [Let me go!](https://open.spotify.com/track/0yZ5nThTk7dZfgrhlQbxtT) | [The Volunteers](https://open.spotify.com/artist/2jLHrOkh1M5rLJgnrgfQf1) | [The Volunteers](https://open.spotify.com/album/0hwXFwuvVfZwn6asTargTD) | 3:33 |
 | 55 | [I hate you](https://open.spotify.com/track/1XlSkQeITGEv8r6HIZfpfX) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [COLORFUL TRAUMA](https://open.spotify.com/album/2A3y4U3r7xzgicuJYisnOe) | 3:10 |
 | 56 | [DIFFERENT](https://open.spotify.com/track/5Y7a8iWIawp1QTbevGeH1V) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [DIFFERENT](https://open.spotify.com/album/56S7zetVLAz7xC5GrmOld3) | 3:42 |
-| 57 | [POOL](https://open.spotify.com/track/3fCZKucLEtLkTLtRUZrfkG) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy), [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU) | [POOL\[pu:l\]](https://open.spotify.com/album/4qIn1bOjIOsvHOs7WGPloF) | 3:47 |
+| 57 | [POOL\(Feat\. Sumin\)](https://open.spotify.com/track/3fCZKucLEtLkTLtRUZrfkG) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy), [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU) | [POOL\[pu:l\]](https://open.spotify.com/album/4qIn1bOjIOsvHOs7WGPloF) | 3:47 |
 | 58 | [Beep\-Boop, Beep\-Boop](https://open.spotify.com/track/1Bzyh2PDRbIR1Q1A8u3U9b) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt) | [A Call from My Dream](https://open.spotify.com/album/7cuRyJgRk1NfHrCNv5tM3M) | 3:23 |
 | 59 | [Dancing in the rain](https://open.spotify.com/track/3d28TKE1fVNrG7D4xH7Q7k) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt) | [COBALT](https://open.spotify.com/album/72bVS9qjgmS4AZsEgJoyVE) | 3:43 |
 | 60 | [COBALT](https://open.spotify.com/track/28ZZvL8qrT4kSCb6imjaUa) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt) | [COBALT](https://open.spotify.com/album/72bVS9qjgmS4AZsEgJoyVE) | 4:32 |

@@ -221,7 +221,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-17",
+      "date_removed": null,
       "duration_ms": 294607,
       "name": "Adolescente Tu",
       "url": "https://open.spotify.com/track/4SYDVdaVe7JoGP9eh1wewN"
@@ -2596,6 +2596,24 @@
     },
     {
       "album": {
+        "name": "Grandes \u00c9xitos del Merengue",
+        "url": "https://open.spotify.com/album/2it3cLHN4d6EH2lFVI4z6a"
+      },
+      "artists": [
+        {
+          "name": "Carlos Manuel \"El Zafiro\"",
+          "url": "https://open.spotify.com/artist/5zM14iWL8V9nYTO6sflOIU"
+        }
+      ],
+      "date_added": "2021-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263314,
+      "name": "La Queria",
+      "url": "https://open.spotify.com/track/2YtajvxAkEk3CK13BttMpH"
+    },
+    {
+      "album": {
         "name": "Merengue Clasico",
         "url": "https://open.spotify.com/album/0KJXmOvUFmrx1w97cVrWP1"
       },
@@ -2985,7 +3003,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-22",
       "duration_ms": 265866,
       "name": "Lo Que Mas Queria",
       "url": "https://open.spotify.com/track/7yqAnJxzmpFWPR6zIMbfE7"
@@ -5185,7 +5203,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-22",
       "duration_ms": 219821,
       "name": "Tu Belleza",
       "url": "https://open.spotify.com/track/4roKlRZk5enTut8zILUw32"

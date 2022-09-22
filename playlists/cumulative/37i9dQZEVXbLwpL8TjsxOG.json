@@ -5312,6 +5312,24 @@
     },
     {
       "album": {
+        "name": "\u4e7e",
+        "url": "https://open.spotify.com/album/2sElNk6PTgB9qMeo1a2NKl"
+      },
+      "artists": [
+        {
+          "name": "MC \u5f35\u5929\u8ce6",
+          "url": "https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219070,
+      "name": "\u4e7e",
+      "url": "https://open.spotify.com/track/2xmXF3hihKntUgTo1g4Lko"
+    },
+    {
+      "album": {
         "name": "Frenemy",
         "url": "https://open.spotify.com/album/3uAhnIdZUUJBLOPgQPLso2"
       },
@@ -5911,7 +5929,7 @@
       ],
       "date_added": "2021-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-22",
       "duration_ms": 226646,
       "name": "\u5728\u7a7a\u4e2d\u7684\u9019\u4e00\u79d2",
       "url": "https://open.spotify.com/track/5st8nBxaC9GX6Dl3VMXTbM"

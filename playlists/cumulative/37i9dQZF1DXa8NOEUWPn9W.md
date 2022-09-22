@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:house">House</a> music lives here\. United in one house\. Cover: Dom Dolla
 
-409 songs - 1 day 0 hr 47 min - [published](https://open.spotify.com/playlist/1B1wblzRfDqZJTGVsoUfwr)
+410 songs - 1 day 0 hr 50 min - [published](https://open.spotify.com/playlist/1B1wblzRfDqZJTGVsoUfwr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [A Drug From God](https://open.spotify.com/track/4skbQNtyjy8A7mo8oqe2oD) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [NPC](https://open.spotify.com/artist/3YEsNNbHlb88K9QCog4R0Y) | [A Drug From God](https://open.spotify.com/album/6tZzL3lTVgWhJb2cE2jz1f) | 3:12 | 2021-11-13 |  |
 | [About You](https://open.spotify.com/track/4IoWprg6W4DxHjxm1Pi4KT) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o) | [About You](https://open.spotify.com/album/46f0tRgvuc70TDx8P4dMId) | 3:38 | 2022-03-04 |  |
 | [Acid in My Blood](https://open.spotify.com/track/3b3TFgnFPhUSk8lvHdO6lX) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Acid / Ganzfeld 12”](https://open.spotify.com/album/2VdaeUUwHR6azUFE4MMb6S) | 4:28 | 2022-04-06 | 2022-05-14 |
-| [Acrobatic](https://open.spotify.com/track/2ZDssPiWL5pxRB03Ll9WWy) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [Acrobatic](https://open.spotify.com/album/4WlE77ssw7RCSHNfbBPwoT) | 2:56 | 2021-05-03 |  |
+| [Acrobatic](https://open.spotify.com/track/2ZDssPiWL5pxRB03Ll9WWy) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [Acrobatic](https://open.spotify.com/album/4WlE77ssw7RCSHNfbBPwoT) | 2:56 | 2021-05-03 | 2022-09-22 |
 | [Adidas & Pearls](https://open.spotify.com/track/2zME1tNgLyHCJ29E2uSeJM) | [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [LOWES](https://open.spotify.com/artist/1mbybf2CrAiwWiznqA8R3g) | [Adidas & Pearls](https://open.spotify.com/album/5zTHdYXq0ojTz7J4K2gCUN) | 3:29 | 2022-07-01 | 2022-09-03 |
 | [Afraid To Feel](https://open.spotify.com/track/40SBS57su9xLiE1WqkXOVr) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [Afraid To Feel](https://open.spotify.com/album/528LrHfHcB7PMAvyp8Obhp) | 2:57 | 2022-05-27 |  |
 | [After Party](https://open.spotify.com/track/7JIZbrUykuhWue9puIHrcw) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [After Party](https://open.spotify.com/album/5VSbPVUxGg4iT0mIm4UV5b) | 3:36 | 2021-03-27\* | 2021-04-24 |
@@ -233,6 +233,7 @@
 | [Love Again](https://open.spotify.com/track/6WarP4oMloYg0Z8H8IHeDq) | [CHANEY](https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX) | [Love Again](https://open.spotify.com/album/0m7I09FiI0eYNT87TUazHg) | 3:10 | 2022-04-01 |  |
 | [Love Changed Me feat\. Byron Stingily \- Frank Wiedemann & Toto Chiavetta Garage Remix](https://open.spotify.com/track/3LVDBfB3HAGUXSant5A32t) | [Joseph Capriati](https://open.spotify.com/artist/7onsqSWPufMm5ZnUCECDpf), [Eric Kupper](https://open.spotify.com/artist/2ATkDceAaeLUkxPnJPHGkz), [Byron Stingily](https://open.spotify.com/artist/3EoFVszwsvsw0Cr7b4ncaD), [Frank Wiedemann](https://open.spotify.com/artist/1gbnoyNZEf6K9HytIv1D94), [Toto Chiavetta](https://open.spotify.com/artist/0DBwNrdGSluzJl24pHRiOk) | [Love Changed Me feat\. Byron Stingily \(Frank Wiedemann & Toto Chiavetta Garage Remix\)](https://open.spotify.com/album/5DRfKFjrsY23ts38br3seD) | 4:51 | 2021-03-27\* | 2021-08-14 |
 | [Love Hotline](https://open.spotify.com/track/1VbUMlLn9RdOHZHpFnOWP3) | [Little Fritter](https://open.spotify.com/artist/4SV6cezgr2EYpAUV7j8ABo), [Wongo](https://open.spotify.com/artist/7yx47vjNgvQXPtHis6Hi91) | [Love Hotline](https://open.spotify.com/album/5J2Ddj1X5zeiWW0pUPBUyZ) | 3:28 | 2022-01-14 | 2022-04-20 |
+| [Love Is Real](https://open.spotify.com/track/7nZNvE2EdKrH127yzBMW8E) | [Loods](https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl), [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Love Is Real](https://open.spotify.com/album/2zQJvUy9Cw6BGlYBBL4f8X) | 3:17 | 2022-09-09 |  |
 | [Love Reigns](https://open.spotify.com/track/78Yqfmq11yBeibacqvl4Y4) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Love Reigns](https://open.spotify.com/album/3TCa2b0OgMFEzCpdVCSB30) | 4:54 | 2021-07-31 | 2022-08-06 |
 | [Love So Sweet](https://open.spotify.com/track/7HYhxCIvLGiMKRtG8SOo1B) | [Quarterhead](https://open.spotify.com/artist/2h6hAChW74hB9HvrNoK1RY) | [Love So Sweet](https://open.spotify.com/album/6MeMycEkeRLfx2uQnDEtTA) | 2:53 | 2021-08-14 | 2022-05-14 |
 | [Love the Way \(Happiness\)](https://open.spotify.com/track/1okhlrAG0YsKTx9PpPprXv) | [Mojjo](https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j), [Meca](https://open.spotify.com/artist/4BXrJLagIbiwWnfJMd1sKQ), [LUISAH](https://open.spotify.com/artist/2jbmRtqNLORtXQWb8s9RFG) | [Love the Way \(Happiness\)](https://open.spotify.com/album/4qCfn7HrbThJdvhzh66g8R) | 3:35 | 2021-03-27\* | 2021-05-03 |

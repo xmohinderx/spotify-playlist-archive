@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lleva el folclore de M\u00e9xico a donde sea!",
-  "num_followers": 120514,
+  "num_followers": 120536,
   "original_name": "Tradici\u00f3n Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTk2MDQ3OCwwMDAwMDAwMDU5MjJjOWM3N2YwYzYyYThlYmUwYzY5OTFkYWI4OWUw",
+  "snapshot_id": "MTY2MTk2MDQ3OCwwMDAwMDAwMDY4ODk4YWNkMjFmMjY4MjZmOGM2ODk3OGQ0ZjRhZTA5",
   "tracks": [
     {
       "added_at": "2022-08-31 15:41:18",
@@ -227,22 +227,6 @@
     {
       "added_at": "2022-08-31 15:41:18",
       "album": {
-        "name": "Estampas De Mexico: Traditional Music From Mexico",
-        "url": "https://open.spotify.com/album/2PqVWEcZDden0DKQ1o05hm"
-      },
-      "artists": [
-        {
-          "name": "Estampas De Mexico",
-          "url": "https://open.spotify.com/artist/3lkD5FY5TNDAToUDSPds3m"
-        }
-      ],
-      "duration_ms": 262933,
-      "name": "El Jarabe Jalisciense",
-      "url": "https://open.spotify.com/track/61hQy77rFr00EAYstdsMCK"
-    },
-    {
-      "added_at": "2022-08-31 15:41:18",
-      "album": {
         "name": "15 Exitos \"Danzones\"",
         "url": "https://open.spotify.com/album/3IGN80pC3sPnYgsKq4sVga"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 203786,
       "name": "Rigoletito",
       "url": "https://open.spotify.com/track/4L69BoE55Rl105sozTJNfK"
+    },
+    {
+      "added_at": "2022-08-31 15:41:18",
+      "album": {
+        "name": "Estampas De Mexico: Traditional Music From Mexico",
+        "url": "https://open.spotify.com/album/2PqVWEcZDden0DKQ1o05hm"
+      },
+      "artists": [
+        {
+          "name": "Estampas De Mexico",
+          "url": "https://open.spotify.com/artist/3lkD5FY5TNDAToUDSPds3m"
+        }
+      ],
+      "duration_ms": 262933,
+      "name": "El Jarabe Jalisciense",
+      "url": "https://open.spotify.com/track/61hQy77rFr00EAYstdsMCK"
     },
     {
       "added_at": "2022-08-31 15:41:18",
@@ -599,22 +599,6 @@
     {
       "added_at": "2022-08-31 15:41:18",
       "album": {
-        "name": "Grupo Mono Blanco Y Stone Lips: El Mundo Se Va A Acabar",
-        "url": "https://open.spotify.com/album/3lhBjWndaNcIej2AJW57Vz"
-      },
-      "artists": [
-        {
-          "name": "Grupo Mono Blanco Y Stone Lips",
-          "url": "https://open.spotify.com/artist/3z2qTdU8yUeUZWAgtbTqgu"
-        }
-      ],
-      "duration_ms": 208040,
-      "name": "El chuchumbe",
-      "url": "https://open.spotify.com/track/1rS8jSEd7TuEeJVf8USMRW"
-    },
-    {
-      "added_at": "2022-08-31 15:41:18",
-      "album": {
         "name": "Huapangos",
         "url": "https://open.spotify.com/album/5Z6tcNwry8ZIu1uDOdmRYZ"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 227600,
       "name": "La Malague\u00f1a",
       "url": "https://open.spotify.com/track/3pXLPRQOIoIovJKNO2Ksf4"
+    },
+    {
+      "added_at": "2022-08-31 15:41:18",
+      "album": {
+        "name": "Grupo Mono Blanco Y Stone Lips: El Mundo Se Va A Acabar",
+        "url": "https://open.spotify.com/album/3lhBjWndaNcIej2AJW57Vz"
+      },
+      "artists": [
+        {
+          "name": "Grupo Mono Blanco Y Stone Lips",
+          "url": "https://open.spotify.com/artist/3z2qTdU8yUeUZWAgtbTqgu"
+        }
+      ],
+      "duration_ms": 208040,
+      "name": "El chuchumbe",
+      "url": "https://open.spotify.com/track/1rS8jSEd7TuEeJVf8USMRW"
     },
     {
       "added_at": "2022-08-31 15:41:18",
@@ -819,6 +819,22 @@
     {
       "added_at": "2022-08-31 15:41:18",
       "album": {
+        "name": "Vamos A La Fiesta",
+        "url": "https://open.spotify.com/album/6AkQ14Roz7mOJVi6JRc9gZ"
+      },
+      "artists": [
+        {
+          "name": "Marimba Orquesta Perla De Chiapas",
+          "url": "https://open.spotify.com/artist/69lmWrPp9ZvKMJirt47VMP"
+        }
+      ],
+      "duration_ms": 165301,
+      "name": "Zacazonapan",
+      "url": "https://open.spotify.com/track/1JxygrDpw5bLUMQsQqQuPN"
+    },
+    {
+      "added_at": "2022-08-31 15:41:18",
+      "album": {
         "name": "Por Los Caminos Del Sur",
         "url": "https://open.spotify.com/album/3mRRUTh4dFWac0WLajq689"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 158000,
       "name": "Por Los Caminos Del Sur",
       "url": "https://open.spotify.com/track/7lxSrgCOFBcTlcB6bSjXBS"
-    },
-    {
-      "added_at": "2022-08-31 15:41:18",
-      "album": {
-        "name": "Vamos A La Fiesta",
-        "url": "https://open.spotify.com/album/6AkQ14Roz7mOJVi6JRc9gZ"
-      },
-      "artists": [
-        {
-          "name": "Marimba Orquesta Perla De Chiapas",
-          "url": "https://open.spotify.com/artist/69lmWrPp9ZvKMJirt47VMP"
-        }
-      ],
-      "duration_ms": 165301,
-      "name": "Zacazonapan",
-      "url": "https://open.spotify.com/track/1JxygrDpw5bLUMQsQqQuPN"
     },
     {
       "added_at": "2022-08-31 15:41:18",
@@ -959,22 +959,6 @@
     {
       "added_at": "2022-08-31 15:41:18",
       "album": {
-        "name": "\u00a1caramba Ni\u00f1o!",
-        "url": "https://open.spotify.com/album/37UxRdiQJKRefqLLcLqJWC"
-      },
-      "artists": [
-        {
-          "name": "Chuchumb\u00e9",
-          "url": "https://open.spotify.com/artist/6ASRzKH8Qng1IKTkNvYDEB"
-        }
-      ],
-      "duration_ms": 397133,
-      "name": "La Gallina",
-      "url": "https://open.spotify.com/track/1fyuoGft4mq0XPi2cGFYRB"
-    },
-    {
-      "added_at": "2022-08-31 15:41:18",
-      "album": {
         "name": "Son De Madera",
         "url": "https://open.spotify.com/album/7eyjUckkV8ZrnhCDmPWGnn"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 360640,
       "name": "La Guanabana",
       "url": "https://open.spotify.com/track/6rQ5F4fejMdINw6erjQLpg"
+    },
+    {
+      "added_at": "2022-08-31 15:41:18",
+      "album": {
+        "name": "\u00a1caramba Ni\u00f1o!",
+        "url": "https://open.spotify.com/album/37UxRdiQJKRefqLLcLqJWC"
+      },
+      "artists": [
+        {
+          "name": "Chuchumb\u00e9",
+          "url": "https://open.spotify.com/artist/6ASRzKH8Qng1IKTkNvYDEB"
+        }
+      ],
+      "duration_ms": 397133,
+      "name": "La Gallina",
+      "url": "https://open.spotify.com/track/1fyuoGft4mq0XPi2cGFYRB"
     },
     {
       "added_at": "2022-08-31 15:41:18",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2022-08-31 15:41:18",
       "album": {
-        "name": "De la mera mata",
-        "url": "https://open.spotify.com/album/7vTwydvxuCNG1nSdnm6c26"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Vega Delf\u00edn",
-          "url": "https://open.spotify.com/artist/4kmqxgznDGuLhVXdfcSLX6"
-        }
-      ],
-      "duration_ms": 289666,
-      "name": "El Zapateado",
-      "url": "https://open.spotify.com/track/1P69StBPsVFlm6awf7EACX"
-    },
-    {
-      "added_at": "2022-08-31 15:41:18",
-      "album": {
         "name": "M\u00e9xico",
         "url": "https://open.spotify.com/album/3DFM3OHbXbQabB1IDHFPkZ"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 213573,
       "name": "El Trompo (Son Jarocho) [Veracruz]",
       "url": "https://open.spotify.com/track/5Ms36eSpJQfc1VWnaZdjo7"
+    },
+    {
+      "added_at": "2022-08-31 15:41:18",
+      "album": {
+        "name": "De la mera mata",
+        "url": "https://open.spotify.com/album/7vTwydvxuCNG1nSdnm6c26"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Vega Delf\u00edn",
+          "url": "https://open.spotify.com/artist/4kmqxgznDGuLhVXdfcSLX6"
+        }
+      ],
+      "duration_ms": 289666,
+      "name": "El Zapateado",
+      "url": "https://open.spotify.com/track/1P69StBPsVFlm6awf7EACX"
     },
     {
       "added_at": "2022-08-31 15:41:18",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2022-08-31 15:41:18",
       "album": {
-        "name": "\u00a1caramba Ni\u00f1o!",
-        "url": "https://open.spotify.com/album/37UxRdiQJKRefqLLcLqJWC"
-      },
-      "artists": [
-        {
-          "name": "Chuchumb\u00e9",
-          "url": "https://open.spotify.com/artist/6ASRzKH8Qng1IKTkNvYDEB"
-        }
-      ],
-      "duration_ms": 236360,
-      "name": "La Iguana",
-      "url": "https://open.spotify.com/track/1w1Ymv3ICnMEXWgmHMZafH"
-    },
-    {
-      "added_at": "2022-08-31 15:41:18",
-      "album": {
         "name": "La Tortuga, Sones Istme\u00f1os",
         "url": "https://open.spotify.com/album/5eooFYB6EVUOdo2vD42bxE"
       },
@@ -1147,22 +1131,6 @@
       "duration_ms": 188720,
       "name": "Ra Bacheeza",
       "url": "https://open.spotify.com/track/4Sd88qilKkAOg2T7H1kOZd"
-    },
-    {
-      "added_at": "2022-08-31 15:41:18",
-      "album": {
-        "name": "Trio Azteca: Folk Songs and Ballads",
-        "url": "https://open.spotify.com/album/2eUYqTiNxucqcl9BGyicbq"
-      },
-      "artists": [
-        {
-          "name": "Trio Azteca",
-          "url": "https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY"
-        }
-      ],
-      "duration_ms": 171693,
-      "name": "El balaju",
-      "url": "https://open.spotify.com/track/46fIkmK53h3Rk2yoEdQHx0"
     },
     {
       "added_at": "2022-08-31 15:41:18",
@@ -1183,6 +1151,38 @@
       "duration_ms": 317133,
       "name": "La Herlinda",
       "url": "https://open.spotify.com/track/6iOHL0IaRWiynHxNrQMTbn"
+    },
+    {
+      "added_at": "2022-08-31 15:41:18",
+      "album": {
+        "name": "\u00a1caramba Ni\u00f1o!",
+        "url": "https://open.spotify.com/album/37UxRdiQJKRefqLLcLqJWC"
+      },
+      "artists": [
+        {
+          "name": "Chuchumb\u00e9",
+          "url": "https://open.spotify.com/artist/6ASRzKH8Qng1IKTkNvYDEB"
+        }
+      ],
+      "duration_ms": 236360,
+      "name": "La Iguana",
+      "url": "https://open.spotify.com/track/1w1Ymv3ICnMEXWgmHMZafH"
+    },
+    {
+      "added_at": "2022-08-31 15:41:18",
+      "album": {
+        "name": "Trio Azteca: Folk Songs and Ballads",
+        "url": "https://open.spotify.com/album/2eUYqTiNxucqcl9BGyicbq"
+      },
+      "artists": [
+        {
+          "name": "Trio Azteca",
+          "url": "https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY"
+        }
+      ],
+      "duration_ms": 171693,
+      "name": "El balaju",
+      "url": "https://open.spotify.com/track/46fIkmK53h3Rk2yoEdQHx0"
     },
     {
       "added_at": "2022-08-31 15:41:18",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2022-08-31 15:41:18",
       "album": {
-        "name": "Los Primeros A\u00f1os",
-        "url": "https://open.spotify.com/album/1QnGhxm3nv05SZPNknmdw6"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 131691,
-      "name": "Jesusita en Chihuahua",
-      "url": "https://open.spotify.com/track/1KbZZUotUeq0C72gu62mIq"
-    },
-    {
-      "added_at": "2022-08-31 15:41:18",
-      "album": {
         "name": "En Tonos Muy Diferentes",
         "url": "https://open.spotify.com/album/3IJPBiKZUz4UZmxBo8MKNf"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 345320,
       "name": "El Siquisir\u00ed",
       "url": "https://open.spotify.com/track/3GHWRRUTDG5CNPK0ZZQCoc"
+    },
+    {
+      "added_at": "2022-08-31 15:41:18",
+      "album": {
+        "name": "Los Primeros A\u00f1os",
+        "url": "https://open.spotify.com/album/1QnGhxm3nv05SZPNknmdw6"
+      },
+      "artists": [
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "duration_ms": 131691,
+      "name": "Jesusita en Chihuahua",
+      "url": "https://open.spotify.com/track/1KbZZUotUeq0C72gu62mIq"
     },
     {
       "added_at": "2022-08-31 15:41:18",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2022-08-31 15:41:18",
       "album": {
-        "name": "LA BELLA EPOCA CON SALTERIO",
-        "url": "https://open.spotify.com/album/0sDmy1GnNFZN5JmuuUyn9p"
-      },
-      "artists": [
-        {
-          "name": "LA BELLA EPOCA CON SALTERIO",
-          "url": "https://open.spotify.com/artist/5AEvcZM8v0mptSbdX427om"
-        }
-      ],
-      "duration_ms": 158080,
-      "name": "LAS ALTE\u00d1ITAS",
-      "url": "https://open.spotify.com/track/0U6SkH7h38q4SNHHoEckCW"
-    },
-    {
-      "added_at": "2022-08-31 15:41:18",
-      "album": {
         "name": "La Gran Colecci\u00f3n del 60 Aniversario CBS - Antonio Bribiesca",
         "url": "https://open.spotify.com/album/2rDD8JqC6Id1hmr0JI4hDA"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 187986,
       "name": "La Borrachita",
       "url": "https://open.spotify.com/track/26jrFuCeLU19arOmvLoiRa"
+    },
+    {
+      "added_at": "2022-08-31 15:41:18",
+      "album": {
+        "name": "LA BELLA EPOCA CON SALTERIO",
+        "url": "https://open.spotify.com/album/0sDmy1GnNFZN5JmuuUyn9p"
+      },
+      "artists": [
+        {
+          "name": "LA BELLA EPOCA CON SALTERIO",
+          "url": "https://open.spotify.com/artist/5AEvcZM8v0mptSbdX427om"
+        }
+      ],
+      "duration_ms": 158080,
+      "name": "LAS ALTE\u00d1ITAS",
+      "url": "https://open.spotify.com/track/0U6SkH7h38q4SNHHoEckCW"
     },
     {
       "added_at": "2022-08-31 15:41:18",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2022-08-31 15:41:18",
       "album": {
-        "name": "RCA 100 A\u00f1os de M\u00fasica - Segunda Parte",
-        "url": "https://open.spotify.com/album/1I5kQcXKDxb3zkqiZcZcBp"
-      },
-      "artists": [
-        {
-          "name": "Dueto Caleta",
-          "url": "https://open.spotify.com/artist/0eAmmzGvPNjPM5zFVNaQfo"
-        }
-      ],
-      "duration_ms": 158066,
-      "name": "Por los Caminos del Sur",
-      "url": "https://open.spotify.com/track/5FxEVphkVfyLbsGnxvotZF"
-    },
-    {
-      "added_at": "2022-08-31 15:41:18",
-      "album": {
         "name": "En Tonos Muy Diferentes",
         "url": "https://open.spotify.com/album/3IJPBiKZUz4UZmxBo8MKNf"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 342360,
       "name": "La Llorona",
       "url": "https://open.spotify.com/track/1DQKQpOqSSDMrsHkvsQd0J"
+    },
+    {
+      "added_at": "2022-08-31 15:41:18",
+      "album": {
+        "name": "RCA 100 A\u00f1os de M\u00fasica - Segunda Parte",
+        "url": "https://open.spotify.com/album/1I5kQcXKDxb3zkqiZcZcBp"
+      },
+      "artists": [
+        {
+          "name": "Dueto Caleta",
+          "url": "https://open.spotify.com/artist/0eAmmzGvPNjPM5zFVNaQfo"
+        }
+      ],
+      "duration_ms": 158066,
+      "name": "Por los Caminos del Sur",
+      "url": "https://open.spotify.com/track/5FxEVphkVfyLbsGnxvotZF"
     },
     {
       "added_at": "2022-08-31 15:41:18",
@@ -1471,8 +1471,8 @@
     {
       "added_at": "2022-08-31 15:41:18",
       "album": {
-        "name": "La Garza",
-        "url": "https://open.spotify.com/album/163Wf83iT0ki8EySTd71u9"
+        "name": "San Pedro Hermoso",
+        "url": "https://open.spotify.com/album/5XbUpC6yNlA4W9e6K4Cv37"
       },
       "artists": [
         {
@@ -1480,13 +1480,13 @@
           "url": "https://open.spotify.com/artist/5gr6ZjgBXbZAcIjsHJgwoL"
         },
         {
-          "name": "Uziel Luna",
-          "url": "https://open.spotify.com/artist/3sxXW1t1ZJ11f7iqzWRxlW"
+          "name": "Sicar\u00fa Gazga",
+          "url": "https://open.spotify.com/artist/6G1d37MQZPkT8JbDIIMS6V"
         }
       ],
-      "duration_ms": 258000,
-      "name": "La Garza",
-      "url": "https://open.spotify.com/track/0aEA6Ohx2hTBSrpyFVjCmB"
+      "duration_ms": 239675,
+      "name": "San Pedro Hermoso",
+      "url": "https://open.spotify.com/track/0xARjffWeQ3NEmseEU4rum"
     },
     {
       "added_at": "2022-08-31 15:41:18",
@@ -1571,8 +1571,8 @@
     {
       "added_at": "2022-08-31 15:41:18",
       "album": {
-        "name": "San Pedro Hermoso",
-        "url": "https://open.spotify.com/album/5XbUpC6yNlA4W9e6K4Cv37"
+        "name": "La Garza",
+        "url": "https://open.spotify.com/album/163Wf83iT0ki8EySTd71u9"
       },
       "artists": [
         {
@@ -1580,13 +1580,13 @@
           "url": "https://open.spotify.com/artist/5gr6ZjgBXbZAcIjsHJgwoL"
         },
         {
-          "name": "Sicar\u00fa Gazga",
-          "url": "https://open.spotify.com/artist/6G1d37MQZPkT8JbDIIMS6V"
+          "name": "Uziel Luna",
+          "url": "https://open.spotify.com/artist/3sxXW1t1ZJ11f7iqzWRxlW"
         }
       ],
-      "duration_ms": 239675,
-      "name": "San Pedro Hermoso",
-      "url": "https://open.spotify.com/track/0xARjffWeQ3NEmseEU4rum"
+      "duration_ms": 258000,
+      "name": "La Garza",
+      "url": "https://open.spotify.com/track/0aEA6Ohx2hTBSrpyFVjCmB"
     },
     {
       "added_at": "2022-08-31 15:41:18",

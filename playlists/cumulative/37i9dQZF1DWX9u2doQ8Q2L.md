@@ -4,7 +4,7 @@
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-280 songs - 17 hr 29 min - [published](https://open.spotify.com/playlist/16lfBzqcUXT8nJukNLWVkv)
+281 songs - 17 hr 33 min - [published](https://open.spotify.com/playlist/16lfBzqcUXT8nJukNLWVkv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,8 @@
 | [Long Night out](https://open.spotify.com/track/2AgPtmjYgpJ1RX1PTUbywv) | [futures](https://open.spotify.com/artist/2wtFS2xpKzmzVCD1k9vhI6) | [What’s a future?](https://open.spotify.com/album/1DLXcDfhvGfkzeCPjBCdCv) | 5:48 | 2022-07-19 | 2022-08-25 |
 | [Love Inside](https://open.spotify.com/track/3KkW1OyyxzsHA4joskFfTI) | [Pictured Resort](https://open.spotify.com/artist/7BCf2R7bgylYjfgeq5Zrrm) | [Once Upon A Season](https://open.spotify.com/album/3kpwGzS5p8mkA4dO2ll0oL) | 3:58 | 2022-07-05 | 2022-07-27 |
 | [Mad Doctor](https://open.spotify.com/track/5zi0i85j65B7VeHofufPwt) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj) | [MAD DOCTOR](https://open.spotify.com/album/5fOaAZm7tVTv5aimJ9FKbv) | 2:33 | 2022-05-26 | 2022-06-29 |
-| [Magic Mirror feat\. AAAMYYY, TENDRE](https://open.spotify.com/track/6gEYqzu9uNwLHrtYHURAml) | [Ryohu](https://open.spotify.com/artist/0qQOHfWvRf8O1wXYXMmV6U), [AAAMYYY](https://open.spotify.com/artist/5YCsKCBbhMHBKBh2MllF5d), [TENDRE](https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb) | [Circus](https://open.spotify.com/album/4Ii8q4sE5ZtQ7XnZAd6KqQ) | 3:38 | 2022-09-20 |  |
+| [Magic Mirror feat\. AAAMYYY, TENDRE](https://open.spotify.com/track/2JkklrsIvVWkk80uuUo4SA) | [Ryohu](https://open.spotify.com/artist/0qQOHfWvRf8O1wXYXMmV6U), [AAAMYYY](https://open.spotify.com/artist/5YCsKCBbhMHBKBh2MllF5d), [TENDRE](https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb) | [Circus](https://open.spotify.com/album/6r8hh6x975jAzS4Mi3OD3u) | 3:38 | 2022-09-21 |  |
+| [Magic Mirror feat\. AAAMYYY, TENDRE](https://open.spotify.com/track/6gEYqzu9uNwLHrtYHURAml) | [Ryohu](https://open.spotify.com/artist/0qQOHfWvRf8O1wXYXMmV6U), [AAAMYYY](https://open.spotify.com/artist/5YCsKCBbhMHBKBh2MllF5d), [TENDRE](https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb) | [Circus](https://open.spotify.com/album/4Ii8q4sE5ZtQ7XnZAd6KqQ) | 3:38 | 2022-09-20 | 2022-09-22 |
 | [MAGIC WAYS](https://open.spotify.com/track/783nZiDSXc4qLTXwx5t04g) | [Nulbarich](https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD) | [MAGIC WAYS](https://open.spotify.com/album/6ABM2rD5JvdwPGZDQ3bNEw) | 4:29 | 2022-08-16 |  |
 | [Marmalade](https://open.spotify.com/track/41lzOu3fYK2bqHoXCAoXlo) | [LHRHND](https://open.spotify.com/artist/5Y4wI02HN3fDWmqO0OKGir), [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf), [OHTORA](https://open.spotify.com/artist/16W2CFdMJKvN99ZWwoEB0k) | [Marmalade](https://open.spotify.com/album/2LYiSNiCHglLQjyeTC0fyl) | 2:58 | 2022-08-03 | 2022-09-15 |
 | [mayonnaise](https://open.spotify.com/track/4lErKE9FjE7pbqY85t3nn5) | [ego apartment](https://open.spotify.com/artist/20SNDAIdUW3fjTA14UvSj4) | [EGO APARTMENT](https://open.spotify.com/album/2eY4Vn0kpCGAIg58PlT8yB) | 3:46 | 2022-05-31 | 2022-08-12 |

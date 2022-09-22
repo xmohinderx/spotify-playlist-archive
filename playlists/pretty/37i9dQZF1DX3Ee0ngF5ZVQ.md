@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Koe Wetzel
 
-[Spotify](https://open.spotify.com/user/spotify) - 384,904 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 384,994 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,10 +93,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 | 83 | [Cowboys Don't Cry](https://open.spotify.com/track/5hy7nPUIveNGkYEesMv0Is) | [Robert Earl Keen](https://open.spotify.com/artist/1jjpkAHC8bd9fRFfgKyYLP) | [Cowboys Don't Cry](https://open.spotify.com/album/0o3FJ4yBDliI6vZjsMVWGE) | 3:09 |
 | 84 | [Nothing But Love Songs](https://open.spotify.com/track/7jJ32IueHuaOZmvp4npqCU) | [Randy Rogers Band](https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3) | [Nothing But Love Songs](https://open.spotify.com/album/56G2DJ71govyBPz6qWHEPK) | 3:45 |
 | 85 | [John Wayne](https://open.spotify.com/track/32HzrX0rfhNdd9uJdeLO7u) | [Rachel LaRen](https://open.spotify.com/artist/52mZQzoHHS6rWygkzKuZFv) | [John Wayne](https://open.spotify.com/album/5s32nBJPKJ8jr4c8I4dj0M) | 3:08 |
-| 86 | [Heartbreak](https://open.spotify.com/track/09314p0WJhfG0mXqlg6hTC) | [Ben Burgess](https://open.spotify.com/artist/7pnTkKShdYS8BnmTHhcEaa) | [Heartbreak](https://open.spotify.com/album/1YNRiSLFpupJgMqZxRyxQx) | 3:08 |
-| 87 | [What's Your Drinkin' Song](https://open.spotify.com/track/3oxNPAlVwXNOCHEEvntITl) | [Kyle Park](https://open.spotify.com/artist/5uZZpd0gd1c36OcQBGxgGC) | [What's Your Drinkin' Song](https://open.spotify.com/album/2FKfzCrl5q6vskYTUHqY9Q) | 3:45 |
-| 88 | [Western Tears](https://open.spotify.com/track/5in7jYPcrDH7vXB0C9vffq) | [Jarrod Morris](https://open.spotify.com/artist/2Y08Tu239xOkg25bPkth9R) | [Western Tears](https://open.spotify.com/album/1hzYDPwjgMn6hVrCiUNGiK) | 4:08 |
-| 89 | [Pleasure in the Pain \(Acoustic\)](https://open.spotify.com/track/0SnkVKNi88G8lKlXala0Nu) | [Dylan Wheeler](https://open.spotify.com/artist/0wt7kveV9BteRyhkkWGj87) | [Pleasure in the Pain \(Acoustic\)](https://open.spotify.com/album/0g34MxtPrMRcK6uVtNAQ99) | 3:58 |
+| 86 | [Pleasure in the Pain \(Acoustic\)](https://open.spotify.com/track/0SnkVKNi88G8lKlXala0Nu) | [Dylan Wheeler](https://open.spotify.com/artist/0wt7kveV9BteRyhkkWGj87) | [Pleasure in the Pain \(Acoustic\)](https://open.spotify.com/album/0g34MxtPrMRcK6uVtNAQ99) | 3:58 |
+| 87 | [Heartbreak](https://open.spotify.com/track/09314p0WJhfG0mXqlg6hTC) | [Ben Burgess](https://open.spotify.com/artist/7pnTkKShdYS8BnmTHhcEaa) | [Heartbreak](https://open.spotify.com/album/1YNRiSLFpupJgMqZxRyxQx) | 3:08 |
+| 88 | [What's Your Drinkin' Song](https://open.spotify.com/track/3oxNPAlVwXNOCHEEvntITl) | [Kyle Park](https://open.spotify.com/artist/5uZZpd0gd1c36OcQBGxgGC) | [What's Your Drinkin' Song](https://open.spotify.com/album/2FKfzCrl5q6vskYTUHqY9Q) | 3:45 |
+| 89 | [Western Tears](https://open.spotify.com/track/5in7jYPcrDH7vXB0C9vffq) | [Jarrod Morris](https://open.spotify.com/artist/2Y08Tu239xOkg25bPkth9R) | [Western Tears](https://open.spotify.com/album/1hzYDPwjgMn6hVrCiUNGiK) | 4:08 |
 | 90 | [It Wasn’t Love](https://open.spotify.com/track/5B3loG5N0IdvkrEWQlVwCh) | [Larissa Boyd](https://open.spotify.com/artist/76BLe6Ojs4hwzg9xOkOagD) | [It Wasn’t Love](https://open.spotify.com/album/4xpeLcxmn097Fo2YknqVv1) | 4:05 |
 | 91 | [Wishin' on an Airplane](https://open.spotify.com/track/1PPFRpaI3WhDnRi3BSLsEy) | [Clayton Mullen](https://open.spotify.com/artist/6iRDBNeREg0Je2y9LZzD2g) | [Wishin' on an Airplane](https://open.spotify.com/album/0pAckWyY7LqtlCg61kylwf) | 3:30 |
 | 92 | [Anymore](https://open.spotify.com/track/5DzqR9xwyVEwbhRVXes5sZ) | [William Clark Green](https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ) | [Baker Hotel](https://open.spotify.com/album/7oj9A1igjcHCBnq6SyfB75) | 4:36 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 | 99 | [Dancing Around The Truth](https://open.spotify.com/track/3q41hamYDHE4lcRptEfUrz) | [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3) | [Unwanted Man](https://open.spotify.com/album/4o5I0LPIKI0LqNGfV88pCw) | 4:14 |
 | 100 | [With You](https://open.spotify.com/track/48QruqVpJwCpgKOmQtjewC) | [Tanner Usrey](https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7) | [SÕL Sessions](https://open.spotify.com/album/1e2EDJwPez79eKupUecgD6) | 4:26 |
 
-Snapshot ID: `MTY2MzMwMDgwMCwwMDAwMDAwMGJkNDNkMDQ2YzY3ZGM2MWRhMzkwMDk0NGY1YmNmZDQy`
+Snapshot ID: `MTY2MzMwMDgwMCwwMDAwMDAwMGRkYWMyZTcwMmM2NTk5MTVjYmVhYjAyNDJkOWExNTk0`

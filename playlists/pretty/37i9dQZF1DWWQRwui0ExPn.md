@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRwui0ExPn.md) - [plain]
 
 > The chillest beats to help you relax, study, code, and focus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,703,761 likes - 999 songs - 1 day 14 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,706,121 likes - 999 songs - 1 day 14 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -566,11 +566,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRwui0ExPn.md) - [plain]
 | 556 | [Done](https://open.spotify.com/track/0fX9ormKlG4EDxOMMCFfit) | [Wieland & Ulrich](https://open.spotify.com/artist/4ocnTp8nDRYItXbkk2vwpN) | [Done](https://open.spotify.com/album/6HrXUyuJx3BDKQkrF2l1s8) | 2:21 |
 | 557 | [Somewhere In Time](https://open.spotify.com/track/10R1hDRd9ftr5PHo44eoMG) | [Anastasia Kai](https://open.spotify.com/artist/67le5cHO1LTvFvZgloqUj2) | [Somewhere In Time](https://open.spotify.com/album/7hwyPlyipN9m6hMaSuYnLY) | 2:38 |
 | 558 | [Lighter Ocean](https://open.spotify.com/track/0Lvill5eT46IKiqOrC6Dv4) | [Ublom](https://open.spotify.com/artist/1ZU8MfUtB2qGwN8DDnl7cQ), [Ash Blossom](https://open.spotify.com/artist/7buviqksQdfZQ9nx84wapJ) | [Lighter Ocean](https://open.spotify.com/album/4TZNjq81OBRao3vUiwTXKK) | 2:22 |
-| 559 | [The Wilderness](https://open.spotify.com/track/0q3X0EdVJfaXudYajqCMCX) | [Joshua Woolf](https://open.spotify.com/artist/7gsouQpb8mmnAurmljtPDK) | [Fractures](https://open.spotify.com/album/3tQ0SGF8oVOFNUzCkbcl1c) | 2:33 |
-| 560 | [Blue Monkey](https://open.spotify.com/track/2gMCSceqUBEcVvpfxnBuAE) | [Valeria Clem](https://open.spotify.com/artist/20EUYpf2w03dtBrm9lWgx3) | [Blue Monkey](https://open.spotify.com/album/343AiuEzWYdFHQceIJShJp) | 2:59 |
-| 561 | [Mango Powder](https://open.spotify.com/track/5mj9eXOrczBd5pugSJ84On) | [PANTōNE VU](https://open.spotify.com/artist/5luLFn9eaF12EIamzc4oK8) | [Mango Powder](https://open.spotify.com/album/7CaJenPc6W7mm2narIEqyH) | 2:17 |
-| 562 | [Get Around](https://open.spotify.com/track/2eHStivbidndrZC8NNiOfM) | [Midan](https://open.spotify.com/artist/1dYfhrPxJSeCJp8gGwN4qo) | [Get Around / Night Flower](https://open.spotify.com/album/3VJABsBgTiItTW8A1kN6ZE) | 1:58 |
-| 563 | [Sunset Hues](https://open.spotify.com/track/2gRsbCDGfo7dz5MIeQZ04n) | [Lofi Stranger](https://open.spotify.com/artist/3pAyM4do5GqYgSi7nt3NIr) | [Sunset Hues](https://open.spotify.com/album/1VOZtaXhIcdabBPpiK9iOP) | 1:37 |
+| 559 | [Sunset Hues](https://open.spotify.com/track/2gRsbCDGfo7dz5MIeQZ04n) | [Lofi Stranger](https://open.spotify.com/artist/3pAyM4do5GqYgSi7nt3NIr) | [Sunset Hues](https://open.spotify.com/album/1VOZtaXhIcdabBPpiK9iOP) | 1:37 |
+| 560 | [The Wilderness](https://open.spotify.com/track/0q3X0EdVJfaXudYajqCMCX) | [Joshua Woolf](https://open.spotify.com/artist/7gsouQpb8mmnAurmljtPDK) | [Fractures](https://open.spotify.com/album/3tQ0SGF8oVOFNUzCkbcl1c) | 2:33 |
+| 561 | [Blue Monkey](https://open.spotify.com/track/2gMCSceqUBEcVvpfxnBuAE) | [Valeria Clem](https://open.spotify.com/artist/20EUYpf2w03dtBrm9lWgx3) | [Blue Monkey](https://open.spotify.com/album/343AiuEzWYdFHQceIJShJp) | 2:59 |
+| 562 | [Mango Powder](https://open.spotify.com/track/5mj9eXOrczBd5pugSJ84On) | [PANTōNE VU](https://open.spotify.com/artist/5luLFn9eaF12EIamzc4oK8) | [Mango Powder](https://open.spotify.com/album/7CaJenPc6W7mm2narIEqyH) | 2:17 |
+| 563 | [Get Around](https://open.spotify.com/track/2eHStivbidndrZC8NNiOfM) | [Midan](https://open.spotify.com/artist/1dYfhrPxJSeCJp8gGwN4qo) | [Get Around / Night Flower](https://open.spotify.com/album/3VJABsBgTiItTW8A1kN6ZE) | 1:58 |
 | 564 | [Painted](https://open.spotify.com/track/6BEU3dmcw0baGCVSLf95pE) | [Devaloop](https://open.spotify.com/artist/0eEQAbC1TFqlGdqIa5YjKY) | [Painted](https://open.spotify.com/album/1zISiMEimeomRkztIVVSHE) | 2:47 |
 | 565 | [Fireworks](https://open.spotify.com/track/1TmP2q5VJzx3xSZ8Z3GWkI) | [SP\-Mato](https://open.spotify.com/artist/1UirLyIwdIElsaGCp0W4Ym) | [Fireworks](https://open.spotify.com/album/0yaOdBGCsg73xDBQ2wWlI8) | 2:00 |
 | 566 | [Tropical Punch](https://open.spotify.com/track/5SilIARbWqtSAScpF8u232) | [BUTTER](https://open.spotify.com/artist/2dsmILbZhqhou4oj1qUDm1) | [Tropical Punch](https://open.spotify.com/album/5fmAQ2RMrCmhf0e50iNUp6) | 1:49 |
@@ -1008,4 +1008,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRwui0ExPn.md) - [plain]
 | 998 | [Walks](https://open.spotify.com/track/53uCBgg1jGsPJZ3Hf1kp0t) | [Brenky](https://open.spotify.com/artist/3U6rNiL0weudbwLofMicVq) | [Walks](https://open.spotify.com/album/5Ak4n9ne8q1MuspiXXMbBE) | 1:24 |
 | 999 | [WonderShrooms](https://open.spotify.com/track/6Yb0Om7sDYIpiG1zpsWgtJ) | [Jupiter 22](https://open.spotify.com/artist/1EtOFlOtNF1Y94eXBsjXjV) | [WonderShrooms](https://open.spotify.com/album/1wnGEhYsXl0b6WKRzx67VR) | 2:46 |
 
-Snapshot ID: `MTY2MzI4NjQwMCwwMDAwMDAwMDdiYTczODBiMDYxNDFjNTVlMDYxNWQzYzYxNTQ1MDRj`
+Snapshot ID: `MTY2MzI4NjQwMCwwMDAwMDAwMGM1MDlkMjIwOGUxZTY5YzQ1ZWY3NGQ4YjEwODA3Zjlh`

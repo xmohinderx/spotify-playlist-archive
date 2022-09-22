@@ -5662,7 +5662,7 @@
     },
     {
       "album": {
-        "name": "Are We There Yet?",
+        "name": "Are We There yet?",
         "url": "https://open.spotify.com/album/4EhXfx3WlNuUYsefNjrvUv"
       },
       "artists": [
@@ -10647,6 +10647,28 @@
     {
       "album": {
         "name": "Yea Man",
+        "url": "https://open.spotify.com/album/5nwJPVBagbhArx6zfcUzm3"
+      },
+      "artists": [
+        {
+          "name": "DillanPonders",
+          "url": "https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef"
+        },
+        {
+          "name": "BVB",
+          "url": "https://open.spotify.com/artist/7azVk8ZXv1yB4rOmPMZvUD"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160637,
+      "name": "Yea Man",
+      "url": "https://open.spotify.com/track/4uV0YlcOLvzrqnzKQ0oXUB"
+    },
+    {
+      "album": {
+        "name": "Yea Man",
         "url": "https://open.spotify.com/album/7eK9lSLrXhlqFxetMXZTRn"
       },
       "artists": [
@@ -10661,7 +10683,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-22",
       "duration_ms": 160637,
       "name": "Yea Man",
       "url": "https://open.spotify.com/track/7qQvgj685nrnDxXuw0ib9S"

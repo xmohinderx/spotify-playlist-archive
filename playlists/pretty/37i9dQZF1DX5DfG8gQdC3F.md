@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > All the best new tracks this week, all in one place\. Cover: Jessie Reyez
 
-[Spotify](https://open.spotify.com/user/spotify) - 331,164 likes - 101 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 331,177 likes - 101 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 40 | [Nothing into Something](https://open.spotify.com/track/0wHYbtCUq9nPbOq6DVwdC6) | [12AM](https://open.spotify.com/artist/4FHtVj8v4il9h5HRQ4Ib3n) | [Nothing into Something](https://open.spotify.com/album/5ray9eogKBgMCt4WJEvEQS) | 3:04 |
 | 41 | [A Little Better Every Time](https://open.spotify.com/track/3tHW6ezWcYlMGgZZ3OZT0s) | [Milk & Bone](https://open.spotify.com/artist/4fmvA5uVlZUNsje29D1PaW) | [A Little Better Every Time](https://open.spotify.com/album/2uEwxOg3lQUidHbE2O2u6p) | 4:06 |
 | 42 | [Never Wanted To Be That Girl](https://open.spotify.com/track/7yRJMLG9ja0fBVVEmV6vcT) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72), [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [29: Written In Stone](https://open.spotify.com/album/5lwUnuV4PJekfTcYIbkq6a) | 3:34 |
-| 43 | [LNLA](https://open.spotify.com/track/22pZpK41gqmS6esGgEmJn8) | [Dom Vallie](https://open.spotify.com/artist/7z29vXpa0PYA6mngEsWNXk) | [Are We There Yet?](https://open.spotify.com/album/4EhXfx3WlNuUYsefNjrvUv) | 3:44 |
+| 43 | [LNLA](https://open.spotify.com/track/22pZpK41gqmS6esGgEmJn8) | [Dom Vallie](https://open.spotify.com/artist/7z29vXpa0PYA6mngEsWNXk) | [Are We There yet?](https://open.spotify.com/album/4EhXfx3WlNuUYsefNjrvUv) | 3:44 |
 | 44 | [Diamonds \(feat\. NLE Choppa\)](https://open.spotify.com/track/2TGX0x8Bpkj0vLnyy82l3e) | [Rarri](https://open.spotify.com/artist/4P2n49979tST2XdOxYcM6h), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Diamonds \(feat\. NLE Choppa\)](https://open.spotify.com/album/0rN09QxiqoUlFnChp0IXNH) | 3:15 |
 | 45 | [ANTIFREEZE](https://open.spotify.com/track/6hVwUD1XjVGsX9GBUcoEYc) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK), [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [ANTIFREEZE](https://open.spotify.com/album/3Ax7G8PfcjdAS3w9EKqxyY) | 3:29 |
 | 46 | [Bubble It](https://open.spotify.com/track/175UQjCdeBnpQe5O0LeWGG) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW), [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Bubble It](https://open.spotify.com/album/6Fz02VzDbrRtfDpyTwKq45) | 2:52 |

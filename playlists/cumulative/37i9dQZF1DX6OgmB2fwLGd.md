@@ -2,9 +2,9 @@
 
 ### [Internet People](https://open.spotify.com/playlist/37i9dQZF1DX6OgmB2fwLGd)
 
-> The soundtrack to the internet\. Cover: JELEEL!
+> The soundtrack to the internet\. Cover: Yeat
 
-413 songs - 17 hr 10 min - [published](https://open.spotify.com/playlist/22i2vvRs1o18fCRD821qvI)
+414 songs - 17 hr 13 min - [published](https://open.spotify.com/playlist/22i2vvRs1o18fCRD821qvI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,6 +181,7 @@
 | [HOME IMPROVEMENT](https://open.spotify.com/track/50CjMb1ApJHu9hbKXLbohR) | [The Cool Kids](https://open.spotify.com/artist/1AWNf5CLnHH4oM1hcHiVeV), [Sir Michael Rocks](https://open.spotify.com/artist/2F3zBRfrDfm2FyNT0YKyAx) | [BABY OIL STAIRCASE / CHILLOUT](https://open.spotify.com/album/5JpFMxX1pLRc75dGao7RW1) | 2:23 | 2022-04-13 | 2022-06-03 |
 | [Homecoming](https://open.spotify.com/track/6vxU64pcIuQ38O015Zy4qj) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Eternal Atake](https://open.spotify.com/album/7IyoGB8J31fvQDwGtHAq9m) | 3:33 | 2021-11-10 | 2022-05-10 |
 | [HONEST](https://open.spotify.com/track/58k32my5lKofeZRtIvBDg9) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [DIE FOR MY BITCH](https://open.spotify.com/album/7Cw4LObzgnVqSlkuIyywtI) | 2:52 | 2022-07-26 |  |
+| [Hop Out 2](https://open.spotify.com/track/3loKXoZ1bay2JDimjSDAVI) | [Kiid Spyro](https://open.spotify.com/artist/6PIHKMrawce8FswYQe4O2U) | [Hop Out 2](https://open.spotify.com/album/5iDSJbgkY9giCWV13pSnPp) | 2:58 | 2022-09-21 |  |
 | [Horsepower](https://open.spotify.com/track/5PXEj81Ab4joNatcA6vQVq) | [Father](https://open.spotify.com/artist/10AY17ALos2o3akPqrPydw) | [Horsepower](https://open.spotify.com/album/02Rbh9jBnUJQGKExrOelBv) | 2:35 | 2022-05-17 | 2022-06-21 |
 | [HOT DEMON B!TCHES NEAR U ! ! !](https://open.spotify.com/track/7v4pPS4A7NgY7bxFA3Etv3) | [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW), [Night Lovell](https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO) | [HOT DEMON B!TCHES NEAR U ! ! !](https://open.spotify.com/album/5kcBHP5GH7fsOJLwVfXmx3) | 1:36 | 2021-10-28 | 2022-01-13 |
 | [Hotel](https://open.spotify.com/track/1rfsEU57ofvxhII8Xs57WF) | [Lawsy](https://open.spotify.com/artist/4KatuTqriDODW9YiAIZD3T) | [Hotel](https://open.spotify.com/album/4wSF1oy5QmEopBZ2KZxIy1) | 2:35 | 2022-07-12 |  |
@@ -296,7 +297,7 @@
 | [PASTA](https://open.spotify.com/track/7yCnwyfRq6GSxmivcxnyKp) | [Mighty Bay](https://open.spotify.com/artist/6vAbPprzkLR2v8FpTgyYcV), [TisaKorean](https://open.spotify.com/artist/6lEhBhAv6HOopjXssi09cq) | [PASTA](https://open.spotify.com/album/4AMWdPPnZpFQTUwMXWsHjo) | 2:06 | 2022-06-28 | 2022-08-29 |
 | [PELICAN](https://open.spotify.com/track/0V5TfRvQm0qLtv9Q0IPOKS) | [Cashout Mike](https://open.spotify.com/artist/00AolXifCyBruO9xdTyWgF) | [PELICAN](https://open.spotify.com/album/3pURr9iMS8fy1kK0K2SxK2) | 1:43 | 2022-03-12 | 2022-05-20 |
 | [Phil Jackson](https://open.spotify.com/track/1gta8EqFZ9rpF7Ci4lo3vD) | [Tae Retro](https://open.spotify.com/artist/4nlZaWXDymf9NB5loJOko0), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk), [StanWill](https://open.spotify.com/artist/0fvPHeXr0H4AMsxvO62DdX) | [The Main Protagonist](https://open.spotify.com/album/4vgBuZTRJm9LJmoq6yqnp1) | 2:26 | 2022-04-14 | 2022-09-17 |
-| [Phoenix](https://open.spotify.com/track/05oDQ0AKZbqbe9XDULlLvb) | [KA$HDAMI](https://open.spotify.com/artist/4YEl33ar2WlUSF94Yh9CCf) | [Phoenix](https://open.spotify.com/album/4sNc9KldCWasHxdJqJyUAa) | 2:13 | 2022-04-29 |  |
+| [Phoenix](https://open.spotify.com/track/05oDQ0AKZbqbe9XDULlLvb) | [KA$HDAMI](https://open.spotify.com/artist/4YEl33ar2WlUSF94Yh9CCf) | [Phoenix](https://open.spotify.com/album/4sNc9KldCWasHxdJqJyUAa) | 2:13 | 2022-04-29 | 2022-09-22 |
 | [piccolo](https://open.spotify.com/track/0b7C1NzdU4gz5CaNzBtuuk) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [piccolo](https://open.spotify.com/album/7mwlACYa6uAssuCnKPxHId) | 2:00 | 2022-06-17 |  |
 | [piccolo](https://open.spotify.com/track/5sG5EZKp6PoT7RnGEjjmUz) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [piccolo](https://open.spotify.com/album/6CawCRs087xs45bGR0Wz8K) | 2:00 | 2022-05-20 | 2022-08-21 |
 | [Pizzazz](https://open.spotify.com/track/0h82txCyS3TGgW0F31gew5) | [Akintoye](https://open.spotify.com/artist/1EgCxqT8GgE5oXX3PkeGhq) | [Pizzazz](https://open.spotify.com/album/53LZZfDTXEmbo9uhV70uTL) | 3:11 | 2022-05-13 | 2022-07-08 |

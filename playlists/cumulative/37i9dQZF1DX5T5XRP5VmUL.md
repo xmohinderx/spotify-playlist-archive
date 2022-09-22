@@ -4,7 +4,7 @@
 
 > The perfect soundtrack to the holiday season!
 
-204 songs - 11 hr 24 min - [published](https://open.spotify.com/playlist/4IaW87U8saVqpYKumxtPZo)
+205 songs - 11 hr 27 min - [published](https://open.spotify.com/playlist/4IaW87U8saVqpYKumxtPZo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,11 +66,12 @@
 | [Driving Home for Christmas \(feat\. Corey Hart\)](https://open.spotify.com/track/5Xctmz7qfaICpNlaF78OjN) | [Jonathan Roy](https://open.spotify.com/artist/62ggJuZV87VvP3sAHM0V3K), [Corey Hart](https://open.spotify.com/artist/0smy8yDrRoI4CnhpOuthg0) | [Driving Home for Christmas \(feat\. Corey Hart\)](https://open.spotify.com/album/0uhfBwTtiMVQQh8kxNsdCl) | 3:52 | 2021-12-24 |  |
 | [Family For Christmas](https://open.spotify.com/track/4gc4UD9nony5vYnR5nxDI0) | [Jason Blaine](https://open.spotify.com/artist/4k4DTNqE48dzmwOQU8PaKQ) | [Family For Christmas](https://open.spotify.com/album/2nyIzYrmNj9NDqqnt4WzdS) | 3:37 | 2021-12-24 | 2022-07-29 |
 | [Favorite Christmas Song](https://open.spotify.com/track/3DeAhWd4nyXw0PWCFIA7LV) | [Andrew Allen](https://open.spotify.com/artist/1mAp4DKDRBkEn272c014zU) | [Favorite Christmas Song](https://open.spotify.com/album/18ki3zyljoaybQemHhD56T) | 3:25 | 2021-12-24 | 2022-07-28 |
+| [Favorite Christmas Song](https://open.spotify.com/track/4Q3yYPlcjuQ2umodTkdMeR) | [Andrew Allen](https://open.spotify.com/artist/1mAp4DKDRBkEn272c014zU) | [Favorite Christmas Song](https://open.spotify.com/album/05QDmn6fw0MTjC3RCig5cB) | 3:25 | 2021-12-24 |  |
 | [Feeling the Christmas Night](https://open.spotify.com/track/5zkBUklFcnVFkzC0u1GScD) | [Andye](https://open.spotify.com/artist/45WqSW6mVJQNJuqF1nIKqj) | [Feeling the Christmas Night](https://open.spotify.com/album/5xAif77nEOGdndx27jhJdz) | 2:57 | 2021-12-24 | 2022-07-29 |
 | [Feliz Navidad](https://open.spotify.com/track/0IukEGWvArmeQc2O3s3ZUY) | [Walk Off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [A Walk Off the Earth Christmas](https://open.spotify.com/album/4mZeWbE7FbYYkoFSlLY1tM) | 2:15 | 2021-12-24 |  |
 | [Frosty the Snowman](https://open.spotify.com/track/6jwwplLo8hMDRW6Rrv1cd2) | [Brett Kissel](https://open.spotify.com/artist/6VOaUBrKfzd49nIAzjVKmm) | [Frosty the Snowman](https://open.spotify.com/album/4pvXuhVffopCcrxJVhmF5w) | 2:57 | 2021-12-24 | 2022-07-27 |
 | [GIFT 2 U](https://open.spotify.com/track/0OOElGM78RfThghdz0Hz9E) | [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl) | [GIFT 2 U](https://open.spotify.com/album/5MRT6I49I0WinhPxO4ovsS) | 3:11 | 2021-12-24 | 2022-07-24 |
-| [GIFT 2 U](https://open.spotify.com/track/3CVbAFuBbae8279r6D98Yg) | [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl) | [GIFT 2 U](https://open.spotify.com/album/4Jz9J0dBhLvUKe2QaZkB3G) | 3:11 | 2021-12-24 |  |
+| [GIFT 2 U](https://open.spotify.com/track/3CVbAFuBbae8279r6D98Yg) | [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl) | [GIFT 2 U](https://open.spotify.com/album/4Jz9J0dBhLvUKe2QaZkB3G) | 3:11 | 2021-12-24 | 2022-09-22 |
 | [Go Tell It On The Mountain](https://open.spotify.com/track/4z1pZgbzHeNjkVi2U4wyIL) | [High Valley](https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN) | [Go Tell It On The Mountain](https://open.spotify.com/album/3uc9cbSv6XfwMNE8lRtR0G) | 3:01 | 2021-12-24 |  |
 | [God Rest Ye Merry Gentlemen \(feat\. Sarah McLachlan\)](https://open.spotify.com/track/6YgKtmBkCAm2ew0JYZFVVd) | [Barenaked Ladies](https://open.spotify.com/artist/0dEvJpkqhrcn64d3oI8v79), [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Barenaked for the Holidays](https://open.spotify.com/album/20jrQQKFqYVr5ErT9Uem4S) | 3:26 | 2021-12-24 | 2022-07-29 |
 | [God Rest Ye Merry Gentlemen / We Three Kings](https://open.spotify.com/track/6eou298JmAGYShrwYuLxJ2) | [Barenaked Ladies](https://open.spotify.com/artist/0dEvJpkqhrcn64d3oI8v79), [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Barenaked For The Holidays](https://open.spotify.com/album/6IRBJEl3iDCSTwATVsQfzX) | 3:26 | 2021-12-24 |  |

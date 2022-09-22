@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 
 > The coldest sounds of Hip\-Hop, coming out of Canada\. Cover: TOBi
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,948 likes - 100 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,024 likes - 100 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,13 +27,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 17 | [Warm Up \(The Game Diss\)](https://open.spotify.com/track/03mkWOuw7D5Izj47a286lW) | [Pat Stay](https://open.spotify.com/artist/1S7w6rd49oFjflpe2pf2ly), [Kaleb Simmonds](https://open.spotify.com/artist/1L8PuQm4LBoJaxP6Rr9K6m) | [Warm Up \(The Game Diss\)](https://open.spotify.com/album/1A7gKomTGd4jgIRcs22mcQ) | 3:13 |
 | 18 | [FLYLIKEDIS](https://open.spotify.com/track/2u73qt5DYi05CuJfZDsB4A) | [FRVRFRIDAY](https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW) | [FLYLIKEDIS](https://open.spotify.com/album/1IiIm2TgBtdkUuuJrmu8Z4) | 2:54 |
 | 19 | [Goin' Up](https://open.spotify.com/track/5LE0yk1P2n96ZwpZT3Y6uR) | [Mnnyyz](https://open.spotify.com/artist/4sTu12jqFnXvdGIdu9THCM) | [Goin' Up](https://open.spotify.com/album/3AMh6PaEh2OApOZ1PUQeyP) | 3:33 |
-| 20 | [LNLA](https://open.spotify.com/track/22pZpK41gqmS6esGgEmJn8) | [Dom Vallie](https://open.spotify.com/artist/7z29vXpa0PYA6mngEsWNXk) | [Are We There Yet?](https://open.spotify.com/album/4EhXfx3WlNuUYsefNjrvUv) | 3:44 |
+| 20 | [LNLA](https://open.spotify.com/track/22pZpK41gqmS6esGgEmJn8) | [Dom Vallie](https://open.spotify.com/artist/7z29vXpa0PYA6mngEsWNXk) | [Are We There yet?](https://open.spotify.com/album/4EhXfx3WlNuUYsefNjrvUv) | 3:44 |
 | 21 | [Who Up](https://open.spotify.com/track/7bUm4lRQnRGO68yVU5g196) | [Akintoye](https://open.spotify.com/artist/1EgCxqT8GgE5oXX3PkeGhq) | [Anxiety & Circumstance](https://open.spotify.com/album/2NmSUKeU6FyhdvaljcXEqp) | 2:43 |
 | 22 | [Legendary](https://open.spotify.com/track/7BXzR15Njlv4p3gvlzoEGH) | [Lu\-Kusa Woe](https://open.spotify.com/artist/5DGeTDECSuzKX8gn0hccZE) | [Legendary](https://open.spotify.com/album/54hZSqfhTjO2mp5CHpK1xS) | 2:48 |
 | 23 | [Back On Road](https://open.spotify.com/track/1Bcze9Eq6qwoisc9FMwNRB) | [Friyie](https://open.spotify.com/artist/3eXSznGfQxOSL8TGWUiV08) | [Never 2 Late](https://open.spotify.com/album/2XRrnlDwMCbQlCCbJcNhLQ) | 2:16 |
 | 24 | [Woah Vicky \(feat\. Michie Mee, Nanna Goodie, LolaBunz, Layla Hendryxx, Charmaine, Keesh\) \[Remix\]](https://open.spotify.com/track/5btK7AGkGad0DaappYjwQ4) | [Dub J](https://open.spotify.com/artist/0bKlQYTyLjDzgm33F15jNE), [Paris Richards](https://open.spotify.com/artist/2QKgfzDlgGJCv1hkfOovKH), [Michie Mee](https://open.spotify.com/artist/1WlzGi0kEyKjZe4egH6BJD), [Keesh](https://open.spotify.com/artist/41Z9f0SLvIWSnG4Z3zRKMg), [Charmaine](https://open.spotify.com/artist/5cie6OioF2WHr2KflhcQGT), [Layla Hendryxx](https://open.spotify.com/artist/449ick9GQIWGXhxjSnGlrq), [LolaBunz](https://open.spotify.com/artist/72yhrvuYx4imB6MXUOsjNa), [Nanna Goodie](https://open.spotify.com/artist/3XH507NuoOIbdyVucztTTB) | [Queen of the 6ix \(Deluxe\)](https://open.spotify.com/album/0GBNs09CluCdn8FUBX4Zzr) | 4:56 |
 | 25 | [Lit Tonight](https://open.spotify.com/track/2LcQmQ2JNSKOlAFHRf6JWa) | [Roney](https://open.spotify.com/artist/2nGZqSJU7K5mkZCjxSlu5J) | [Lit Tonight](https://open.spotify.com/album/1IL4UjzWTHYiVWZ0vIcWsk) | 2:46 |
-| 26 | [Yea Man](https://open.spotify.com/track/7qQvgj685nrnDxXuw0ib9S) | [DillanPonders](https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef), [BVB](https://open.spotify.com/artist/7azVk8ZXv1yB4rOmPMZvUD) | [Yea Man](https://open.spotify.com/album/7eK9lSLrXhlqFxetMXZTRn) | 2:40 |
+| 26 | [Yea Man](https://open.spotify.com/track/4uV0YlcOLvzrqnzKQ0oXUB) | [DillanPonders](https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef), [BVB](https://open.spotify.com/artist/7azVk8ZXv1yB4rOmPMZvUD) | [Yea Man](https://open.spotify.com/album/5nwJPVBagbhArx6zfcUzm3) | 2:40 |
 | 27 | [sophisticated](https://open.spotify.com/track/6p7Fm6TupbX3NU4fsJx5wG) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [sophisticated](https://open.spotify.com/album/1W9TZkECRCF5b1bYbdJxeS) | 2:59 |
 | 28 | [Forgive Me](https://open.spotify.com/track/073y3yGyBGWiUvHHRtsmrN) | [Duvy](https://open.spotify.com/artist/3HShZ9OYr5GdhHI8DU9Yzy) | [Forgive Me](https://open.spotify.com/album/3oqn2IvF6pCDoNN3hxNYCf) | 3:14 |
 | 29 | [ON MY LEVEL](https://open.spotify.com/track/44UhQ3CUjo6W2tRDv0slUZ) | [Kris the $pirit](https://open.spotify.com/artist/6qqwLx8jRPkjUz0mlIvB6H) | [ON MY LEVEL](https://open.spotify.com/album/1f6EaNTKtT3S9xTqyl4wgm) | 3:22 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 99 | [Jupiter & Mars](https://open.spotify.com/track/1BTECTa3NituN8LqXjrw2B) | [ARDN](https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo) | [Jupiter & Mars](https://open.spotify.com/album/6IgkZ5qys4BMo6X1iFYIBU) | 3:16 |
 | 100 | [Back of the Car](https://open.spotify.com/track/1ugnXsZpW8TPd1lEDO81q0) | [Velow](https://open.spotify.com/artist/2UOHBwSdgEwpUgbRDkY8mA) | [Back of the Car](https://open.spotify.com/album/7FqnNV7ruR0CAmbBTTTNg5) | 2:56 |
 
-Snapshot ID: `MTY2MzMwMDgwMCwwMDAwMDAwMGY1MjllN2Q3YjlkMzI4ZmQwN2JkYjFlOGY4YTY3NDA1`
+Snapshot ID: `MTY2MzMwMDgwMCwwMDAwMDAwMDUwM2MxMjNlYjU3MzFjNzY4MDNkNTBiZGRhZDEyYzI4`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Beat e rime, oggi come una volta. In cover, Nerone.",
+  "description": "Beat e rime, oggi come una volta. In cover, Claver Gold.",
   "name": "Radici Hip Hop",
   "published_playlist_ids": [
     "4N3m0KkyvafB7QizhgRop2"
@@ -267,7 +267,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-22",
       "duration_ms": 180776,
       "name": "Beatrice",
       "url": "https://open.spotify.com/track/1WYX66uRaVP4GCEwyvAt3D"
@@ -991,7 +991,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-22",
       "duration_ms": 96551,
       "name": "Damn albarn",
       "url": "https://open.spotify.com/track/0zfiMr2NKxBwuRvsknagFu"
@@ -3624,6 +3624,24 @@
     },
     {
       "album": {
+        "name": "Questo non \u00e8 un cane",
+        "url": "https://open.spotify.com/album/5EsYTsMhIoAIMHj850DUeY"
+      },
+      "artists": [
+        {
+          "name": "Claver Gold",
+          "url": "https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181346,
+      "name": "Quelli come noi",
+      "url": "https://open.spotify.com/track/64SKVsNLsbDR5e7lmYzWK8"
+    },
+    {
+      "album": {
         "name": "Mr. Simpatia (Remastered Version)",
         "url": "https://open.spotify.com/album/5SrVqhNg8cC1ikzLSEnD6r"
       },
@@ -3785,7 +3803,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-10",
+      "date_removed": null,
       "duration_ms": 134500,
       "name": "Ryu",
       "url": "https://open.spotify.com/track/56zCxjH8soCooVLyqk4W0Z"
@@ -3903,6 +3921,28 @@
       "duration_ms": 225000,
       "name": "SAMURAI",
       "url": "https://open.spotify.com/track/5yoe7x40eGMqxxpTlhKbdw"
+    },
+    {
+      "album": {
+        "name": "Questo non \u00e8 un cane",
+        "url": "https://open.spotify.com/album/5EsYTsMhIoAIMHj850DUeY"
+      },
+      "artists": [
+        {
+          "name": "Claver Gold",
+          "url": "https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz"
+        },
+        {
+          "name": "Tormento",
+          "url": "https://open.spotify.com/artist/2av4MrhPDUQLG3py1i0h7L"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185893,
+      "name": "Sapori e sostanza",
+      "url": "https://open.spotify.com/track/21jGfTFjt6MPGltvk7yHrS"
     },
     {
       "album": {
@@ -4071,7 +4111,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-22",
       "duration_ms": 130899,
       "name": "Skinny Hilfiger",
       "url": "https://open.spotify.com/track/3pXl6Qt6UBN1sPdrtPhmpf"
@@ -4605,7 +4645,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-16",
+      "date_removed": null,
       "duration_ms": 183914,
       "name": "Treddepomeriggio",
       "url": "https://open.spotify.com/track/4rHpOyjCOminwSgwxdVVpP"
@@ -4921,7 +4961,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-22",
       "duration_ms": 175166,
       "name": "Y.D.C.T.L. (You Don't Cross The Line)",
       "url": "https://open.spotify.com/track/0mM8eVrBUNAFs7pJUaf9ks"

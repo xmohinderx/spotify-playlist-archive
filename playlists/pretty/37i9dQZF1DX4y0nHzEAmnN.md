@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y0nHzEAmnN.md) - [plain]
 
 > Las partes aburridas del día pueden ser divertidas con música\. ¡En Inglés y Español!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,205 likes - 50 songs - 1 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,206 likes - 50 songs - 1 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y0nHzEAmnN.md) - [plain]
 | 41 | [A Comer Que la Mesa Está Servida](https://open.spotify.com/track/6zjcZbjisG5c3pCuxhpp2s) | [Panam y Circo](https://open.spotify.com/artist/0hjh0CtlHZMyBcu4e8y8xW), [Edith Hermida](https://open.spotify.com/artist/5jNFhWiUYNUAp2wUDoFijh), [Mauricio D'Alessandro](https://open.spotify.com/artist/2EV35jD2yLf6HbFljRA7fr) | [CD8: Llegó Panam](https://open.spotify.com/album/5UYrctjSWKpA7IkP2DTSuW) | 2:30 |
 | 42 | [Canción De Tomar El Té](https://open.spotify.com/track/19VEw5WbEyxIkmyZWgen9x) | [María Elena Walsh](https://open.spotify.com/artist/5gMEZRCMq0gWA3kuCPukEk) | [Canciones Para Chicos](https://open.spotify.com/album/0FgVNRv2HryG3GUKTACCGn) | 1:50 |
 | 43 | [Comida light](https://open.spotify.com/track/16QKoDI5F9MxWUBYORKV3w) | [Pica\-Pica](https://open.spotify.com/artist/3oaNnQa52hlN69wvaatUE2) | [English Pitinglish](https://open.spotify.com/album/5opZvBrL0N2jSFyGwvOvoZ) | 2:54 |
-| 44 | [La Canción del Baño](https://open.spotify.com/track/6ac3pwL3vip7nu9DVL2tyc) | [HooplaKidz En Español](https://open.spotify.com/artist/69v01YbcC6xhBi04cpaPlu) | [Las Mejores Canciones para Niños](https://open.spotify.com/album/7spQnMoIypXmqWN3wiC29b) | 2:09 |
+| 44 | [La Canción del Baño](https://open.spotify.com/track/6ac3pwL3vip7nu9DVL2tyc) | [HooplaKidz En Español](https://open.spotify.com/artist/69v01YbcC6xhBi04cpaPlu) | [Las Mejores Canciones para Niños](https://open.spotify.com/album/7spQnMoIypXmqWN3wiC29b) | 2:09 |
 | 45 | [Baño de Burbujas](https://open.spotify.com/track/6vbNjLS9g232wXDnjb7akW) | [Osito Panda Band](https://open.spotify.com/artist/7inibjUUHj4r6jxRyBsJq0) | [20 Canciones Infantiles](https://open.spotify.com/album/5T6GImWGW667aSX8XAeOq3) | 1:52 |
 | 46 | [Nappin' Time](https://open.spotify.com/track/5pI482wCmSObEDLo14dPDl) | [Rocknoceros](https://open.spotify.com/artist/6vEKt6eIx5Cnd0KzbNlwyD) | [Pink!](https://open.spotify.com/album/5LdIdJQ3KuAnfeYuWnULAE) | 3:04 |
 | 47 | [Please and Thank You Song](https://open.spotify.com/track/1SVQdK7xD2Zy1MypHyNzVZ) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Children's Songs for Family, Friends & Siblings from LittleBabyBum](https://open.spotify.com/album/65UY1CG353OTiv4JHrDKrV) | 1:31 |

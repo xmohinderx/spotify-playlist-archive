@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover:  yowha\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,018 likes - 62 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,019 likes - 62 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

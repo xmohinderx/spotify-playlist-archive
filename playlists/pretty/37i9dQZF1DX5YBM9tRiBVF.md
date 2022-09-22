@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YBM9tRiBVF.md) - [plain]
 
 > Listen to women from Belgium, at full volume\. Cover: Coely
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,756 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,757 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YBM9tRiBVF.md) - [plain]
 | 34 | [Afterlove](https://open.spotify.com/track/0mXZ0BhpgGWxWzTQNw69Mx) | [Lorana](https://open.spotify.com/artist/5f0UvwT0IueZUyTblRVwKA) | [Afterlove](https://open.spotify.com/album/3xfNzqdGEeNV6n5yy9dde2) | 3:37 |
 | 35 | [Isuk](https://open.spotify.com/track/6dDrLljrFnFyKBB9v9Owqq) | [Tristan](https://open.spotify.com/artist/2Mv66D4QHzg4knZjy1wbHW) | [Isuk](https://open.spotify.com/album/17wuHRnweqsorytEdromuM) | 3:57 |
 | 36 | [Kiezen](https://open.spotify.com/track/0GbNbNmJqEwGH8HsjbP7ll) | [Lissa Lewis](https://open.spotify.com/artist/6TxwX7nCKBUuAjwTqNDqMw) | [Kiezen](https://open.spotify.com/album/2qlQz7cir03pMhs5a6DlZV) | 2:30 |
-| 37 | [Only loves me when I cry](https://open.spotify.com/track/6MbwhZRK6Cr5NjLVJpqRvG) | [Judith Kiddo](https://open.spotify.com/artist/0zmgqS8lHVypUSBvUogMgz) | [Only loves me when I cry](https://open.spotify.com/album/3sf1sZ7tRyva4flf0Je0A6) | 3:30 |
+| 37 | [Only Loves Me When I Cry](https://open.spotify.com/track/3omTmZZMpw04z92F096Xcs) | [Judith Kiddo](https://open.spotify.com/artist/0zmgqS8lHVypUSBvUogMgz) | [Only Loves Me When I Cry](https://open.spotify.com/album/2De4QH8s1ne19mqqsRJISn) | 3:30 |
 | 38 | [De Liefde Lacht](https://open.spotify.com/track/58l6JggIKX9dgcS16zXcdI) | [Eveline Cannoot](https://open.spotify.com/artist/6P7zMCxNNjyZahFQvHEKeN) | [De Liefde Lacht](https://open.spotify.com/album/0m0UaKBr2acNBpqddUX6Wa) | 3:31 |
 | 39 | [Shackles \(Praise You\)](https://open.spotify.com/track/0fYzHSMq2VNJXEwbQo77Ku) | [Karista Khan](https://open.spotify.com/artist/5b3w5u49ceAeDsfyZEQIOo) | [Shackles \(Praise You\)](https://open.spotify.com/album/7ufZGFSV8C1Bb4oiadH3eh) | 2:45 |
 | 40 | [I AM](https://open.spotify.com/track/1iawEVNoH39Odrg87BUlEl) | [Axelle Lioness](https://open.spotify.com/artist/0Hj2YsxrMhtGOB3PHGQcM9) | [I AM](https://open.spotify.com/album/2SgKevuVb5TpRV0ZovGfzy) | 4:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YBM9tRiBVF.md) - [plain]
 | 49 | [Walking the Cow](https://open.spotify.com/track/4yUXFnd42D4AgBVRTeHZTL) | [Naima Joris](https://open.spotify.com/artist/3eSHHprsyLcEwQUYwAAWmw) | [Walking The Cow](https://open.spotify.com/album/5Q62cvKIMRbyLo3v32nGBx) | 3:55 |
 | 50 | [40 Degrés \- From "Fils De"](https://open.spotify.com/track/2taJ99OAx50xpYqdZdueaU) | [K.ZIA](https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY), [Kunta](https://open.spotify.com/artist/3ishWMiOKQ8C7iUViLsS6V) | [40 Degrés \(From "Fils De"\)](https://open.spotify.com/album/6XjWWCvyBSNScB3jyBxVKJ) | 3:57 |
 
-Snapshot ID: `MTY2MjUwMTYwMCwwMDAwMDAwMDljZmQ4ZjBkZDJiMjI2YzVkOWU0NDdkMjQ3OWZjNmM3`
+Snapshot ID: `MTY2MjUwMTYwMCwwMDAwMDAwMDkwMjg1NjFjMWY3N2U5ZWY0YTg0NzdlZWI0MWRmZjMx`

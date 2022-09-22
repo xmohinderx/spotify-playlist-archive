@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cEUXdJJLVG.md) - [plain]
 
 > Funky & groovy tunes for poolside chilling.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,227 likes - 155 songs - 9 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,271 likes - 155 songs - 9 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cEUXdJJLVG.md) - [plain]
 | 8 | [Running Away](https://open.spotify.com/track/2lDODk7inZnmUHbIjUnIwP) | [VANO 3000](https://open.spotify.com/artist/770glnH67Mk4u2D41sxAhx), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Samuel T\. Herring](https://open.spotify.com/artist/6K4I1MPd7m8IztUdtrF4YU) | [Running Away](https://open.spotify.com/album/0qD1Ymect5I2EamO4HE8ZB) | 1:51 |
 | 9 | [Berlin 1](https://open.spotify.com/track/1s3cQmlsiqoDNsRGyWmUzX) | [Oscar Jerome](https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh) | [Berlin 1](https://open.spotify.com/album/7uhLTFCUoPx782RCycvz8j) | 5:02 |
 | 10 | [Oxygen](https://open.spotify.com/track/3ifF2xXCgkd8l10payCaSs) | [Eva Valery](https://open.spotify.com/artist/0K95TlYJ2SvJbL3CZ3ui3p) | [Oxygen](https://open.spotify.com/album/51Q6NRNtIZVW5T6bksOm6I) | 3:34 |
-| 11 | [Waterfall \- TOKiMONSTA Remix](https://open.spotify.com/track/6mFlyvOviPhIS0K0QLCpVp) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Waterfall \(TOKiMONSTA Remix\)](https://open.spotify.com/album/0LasfQHi6wcoxdVVTNTCIG) | 3:45 |
+| 11 | [Waterfall \- TOKiMONSTA Remix](https://open.spotify.com/track/7rxDQ5tgnJ4T6gJL1HyoZ1) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Waterfall](https://open.spotify.com/album/2f1wxCMX4KoS2DwTeagrNO) | 3:45 |
 | 12 | [Electric](https://open.spotify.com/track/5HAdfADPJE797O73yUHJMf) | [Hablot Brown](https://open.spotify.com/artist/6LtgEnShwvrqAaKohg7skM), [Floyd Fuji](https://open.spotify.com/artist/0glUNuyGWUn70JhLMARseD) | [Electric](https://open.spotify.com/album/2xD74v93mGgP188mldE96h) | 4:11 |
 | 13 | [EASE YOUR MIND](https://open.spotify.com/track/7IRyfeJIBmi08GYgEZwWMM) | [Darius](https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK), [Devin Tracy](https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT) | [OASIS](https://open.spotify.com/album/6e74y0B8zXO3CEtVVFihd8) | 3:57 |
 | 14 | [Trippin](https://open.spotify.com/track/6hURVOp7JtavNu11tfl912) | [Goldkimono](https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk), [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9) | [Trippin](https://open.spotify.com/album/4BIweiaOt0a8tMBV9Ncigs) | 3:10 |
@@ -164,4 +164,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cEUXdJJLVG.md) - [plain]
 | 154 | [Easy Like Before](https://open.spotify.com/track/4l7TlDRTwRRGdQ5tlQcf4b) | [Crystal Murray](https://open.spotify.com/artist/2lRXAjsNoYGqyYkgHxk5OH) | [I Was Wrong](https://open.spotify.com/album/6h0r7WdrJT3h7uiZ0rCHIT) | 2:58 |
 | 155 | [No Soul Fo Sale](https://open.spotify.com/track/0k0FKfVLDEdQKfyfgxbpWa) | [John Parm](https://open.spotify.com/artist/6sH4U1jng4pnJLkWPHsIY4), [Frase](https://open.spotify.com/artist/7s9LTAKRwkBQ0CqWlbE254) | [No Soul Fo Sale](https://open.spotify.com/album/6FcJUwmI5QlRlppe9UA95K) | 3:39 |
 
-Snapshot ID: `MTY2MzI3OTIwMCwwMDAwMDAwMDVhMWNiMDBlOTAxMGQ4ZTUxYjcyZWIzZjM4NmQ4OGI0`
+Snapshot ID: `MTY2MzI3OTIwMCwwMDAwMDAwMDg2OGZmYTI5NGNiNmNiYzQ0Y2Q4MjkxZTZkZWQxZGQ0`

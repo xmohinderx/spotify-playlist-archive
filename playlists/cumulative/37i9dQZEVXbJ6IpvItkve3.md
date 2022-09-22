@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Israel.
 
-505 songs - 1 day 4 hr 17 min - [published](https://open.spotify.com/playlist/05mBfCDcqpe58bcfcRKya9)
+506 songs - 1 day 4 hr 20 min - [published](https://open.spotify.com/playlist/05mBfCDcqpe58bcfcRKya9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -336,7 +336,7 @@
 | [הנסיך הקטן](https://open.spotify.com/track/3gofSUW7Zn2qjfKumSHWKS) | [Shlomo Gronich](https://open.spotify.com/artist/2CzKRJPoPZmRDAfTh8Hh1J), [Shlomo Ydov](https://open.spotify.com/artist/0urEonXMEzc3F5BX7PXTuk), [Shem\-Tov Levy Ensemble](https://open.spotify.com/artist/6m6sG9LbCntHv6lZ4nAubC) | [קצת אחרת](https://open.spotify.com/album/0mbu7snn26lq08aBEqfbQl) | 2:44 | 2021-04-16 | 2022-05-07 |
 | [השמיים נעולים](https://open.spotify.com/track/52N2FDUfL0mPyAFfxRWheT) | [Doli & Penn](https://open.spotify.com/artist/7hzAtM9sug5TCxGUIR7by3), [Ivri Lider](https://open.spotify.com/artist/1L8QE7iUTf9330wcKxnieK), [Peled](https://open.spotify.com/artist/26lUUiDmS9zj1LOOCkZUiS), [Ella Lee](https://open.spotify.com/artist/0wVxjQGYkyNh5qQsVCZWlo) | [השמיים נעולים](https://open.spotify.com/album/4F6TTNzobqHLmu4FWrTr8M) | 3:01 | 2021-04-02 | 2022-02-24 |
 | [השמלה החדשה שלי](https://open.spotify.com/track/0Cq5UOSrvfzJN5pUWx8Prb) | [Ran Danker](https://open.spotify.com/artist/7hD6dkjWHapWVwkI6bjDFo) | [השמלה החדשה שלי](https://open.spotify.com/album/7MWnnnirr0o9KspAcOMPzG) | 2:52 | 2021-10-23 | 2022-02-22 |
-| [השעות הקטנות](https://open.spotify.com/track/5shn2i4JvFfzNlqeljroXn) | [Niv Demirel](https://open.spotify.com/artist/1ecWGP0ecxDqri9Tt3KJ7p) | [בין הסימנים](https://open.spotify.com/album/5JE1s3SY7S3xf7JWaDawVC) | 3:22 | 2022-09-19 |  |
+| [השעות הקטנות](https://open.spotify.com/track/5shn2i4JvFfzNlqeljroXn) | [Niv Demirel](https://open.spotify.com/artist/1ecWGP0ecxDqri9Tt3KJ7p) | [בין הסימנים](https://open.spotify.com/album/5JE1s3SY7S3xf7JWaDawVC) | 3:22 | 2022-09-19 | 2022-09-22 |
 | [ואז את תראי](https://open.spotify.com/track/7a8B2vmOcJ6btFlBGl2IX9) | [Doli & Penn](https://open.spotify.com/artist/7hzAtM9sug5TCxGUIR7by3), [Dikla](https://open.spotify.com/artist/02XPYZHiiXvgdluCi3Esxg), [Idan Rafael Haviv](https://open.spotify.com/artist/57PnQxsNvOvG2ZDElDEUjW), [Mark Eliyahu](https://open.spotify.com/artist/7k6KVFItaU7pcBvL6poIi9) | [חלק א'](https://open.spotify.com/album/4oU9sPRsWWZxhju9x2hFJM) | 3:15 | 2021-03-27\* | 2021-04-02 |
 | [ורוד מבריק](https://open.spotify.com/track/6LHwi9A4miEDk8kaBpcyef) | [Aviv Geffen](https://open.spotify.com/artist/73ieysHN7XpJYEnEAYsO3K), [Ella Lee](https://open.spotify.com/artist/0wVxjQGYkyNh5qQsVCZWlo) | [ורוד מבריק](https://open.spotify.com/album/1uYIZKUsf7Ycl9EWoxCg2k) | 3:52 | 2022-01-22 | 2022-01-24 |
 | [זאת שמעל לכל המצופה](https://open.spotify.com/track/41ixRSaHxKY4dGcCccPz5A) | [הכוכב הבא](https://open.spotify.com/artist/5vzETUgvElb2xfKJ1e0VHN), [נופיה ידידיה](https://open.spotify.com/artist/0rHxmqmqlCy0dQs0UqRq9q) | [הכוכב הבא 2022 \- פרק 22](https://open.spotify.com/album/2AYkwxpeCJp6bRHJZsDxp6) | 3:02 | 2022-09-15 |  |
@@ -380,6 +380,7 @@
 | [לא מרגיש טוב](https://open.spotify.com/track/686FdlEzrYCttdUAFByYhI) | [Eden Hason](https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4) | [לא מרגיש טוב](https://open.spotify.com/album/3bdYTqXYcqvOW36agrX804) | 2:40 | 2021-12-03 | 2022-02-13 |
 | [לאהובי](https://open.spotify.com/track/5nmq4anDakdMvojDYPkg6S) | [Avi Aburomi](https://open.spotify.com/artist/6vAJpFtiQ7xPtkArtCnHfr) | [סיבה לנשום](https://open.spotify.com/album/5x3hX8Av6UIZG4ng18QxZl) | 3:29 | 2022-05-05 | 2022-05-07 |
 | [לבד על המיטה](https://open.spotify.com/track/05KQMm1vL6MnJkgobUtwft) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [לבד על המיטה](https://open.spotify.com/album/18m2Yfw0d6ceN5UUmY273m) | 2:35 | 2022-02-10 |  |
+| [להיות שלך](https://open.spotify.com/track/4BBEoERaClW0ROQY9evmE9) | [Eden Ben Zaken](https://open.spotify.com/artist/2eUKkTNZsIuZzV95DM0cbt), [Maya Dadon](https://open.spotify.com/artist/2CFhpsYDfBaq8q9enYLdBG) | [להיות שלך](https://open.spotify.com/album/7seV7Ag0PPEeNfLiMVa9hJ) | 3:18 | 2022-09-21 |  |
 | [ליבינג דה דרים](https://open.spotify.com/track/3lc6b4cCbPLWNQ95GYxPkN) | [Nunu](https://open.spotify.com/artist/0wJDdyoTfE5SuqPNFvi2lG) | [סטטוס](https://open.spotify.com/album/25NrLi2xwYYO8WniTmdKL6) | 2:55 | 2022-07-20 | 2022-09-20 |
 | [ליבינג דה דרים](https://open.spotify.com/track/6so2IwKQyYFkNv1G0FrZ95) | [Nunu](https://open.spotify.com/artist/0wJDdyoTfE5SuqPNFvi2lG) | [ליבינג דה דרים](https://open.spotify.com/album/7gGR6IBvZYsqqSs3D1Eo6K) | 2:55 | 2022-03-06 | 2022-07-21 |
 | [לילה טוב שון](https://open.spotify.com/track/4VRz32kfvdKWZGzOUcJQkV) | [Hanan Ben Ari](https://open.spotify.com/artist/343YYaA5MSjiZZ5cGyTr4u) | [לילה טוב שון](https://open.spotify.com/album/3pt1jc8qYiHcVyQtB0OKvK) | 3:15 | 2022-05-05 | 2022-05-07 |

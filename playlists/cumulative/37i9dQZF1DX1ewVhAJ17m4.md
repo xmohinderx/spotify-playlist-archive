@@ -4,7 +4,7 @@
 
 > All the best new songs from the pop punk scene\. Cover: Maggie Lindemann
 
-183 songs - 8 hr 56 min - [published](https://open.spotify.com/playlist/1ZPuIvGxHPsGj5FOHcdzdv)
+184 songs - 8 hr 58 min - [published](https://open.spotify.com/playlist/1ZPuIvGxHPsGj5FOHcdzdv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,8 @@
 | [Emotion Sickness](https://open.spotify.com/track/6512LmhVpv9NGbuvrFSKWk) | [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [Will Anderson](https://open.spotify.com/artist/3jASw3YQHarl90fZWNyCdn), [Parachute](https://open.spotify.com/artist/2PCUhxD40qlMqsKHjTZD2e) | [Sentiment](https://open.spotify.com/album/2NRBI2mvyZIYpHMEcDmN6A) | 3:22 | 2022-02-21 | 2022-08-03 |
 | [Erase You](https://open.spotify.com/track/3PXPKC81NbQc9Eaig0vLZO) | [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r) | [Erase You](https://open.spotify.com/album/1rO6JlIBPhEnyY9fdO7BsI) | 2:58 | 2021-12-20 | 2022-07-19 |
 | [Escape](https://open.spotify.com/track/5Ws8QOTBn4fJP3ZZ2tx9ma) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Open Mouth, Open Heart](https://open.spotify.com/album/5jowai2DVaDn3cgxigARdy) | 3:15 | 2021-12-20 | 2022-06-15 |
-| [Every Guy Ever](https://open.spotify.com/track/5pgOXFPQROrmboHmcTYonC) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Every Guy Ever](https://open.spotify.com/album/71uSY3G4j624cwlyt9w1Q0) | 2:39 | 2021-12-20 |  |
+| [Every Guy Ever](https://open.spotify.com/track/1srdYQIXMmdqtEYsJFq8Xc) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Love and Other Lies](https://open.spotify.com/album/5l7whBWhClQiC0pFLpPcRi) | 2:39 | 2022-09-15 |  |
+| [Every Guy Ever](https://open.spotify.com/track/5pgOXFPQROrmboHmcTYonC) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Every Guy Ever](https://open.spotify.com/album/71uSY3G4j624cwlyt9w1Q0) | 2:39 | 2021-12-20 | 2022-09-22 |
 | [Everybody But You](https://open.spotify.com/track/0OjhULGHagMRAQNjJQlesU) | [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr), [Ben Barlow](https://open.spotify.com/artist/79SZgK0iRDlLJpsH7mSvNC) | [Everybody but You](https://open.spotify.com/album/36kZTm9kqSjuu1nb32IAAA) | 3:47 | 2022-02-28 | 2022-07-29 |
 | [Everybody but You](https://open.spotify.com/track/40FJkZzaY8DWGtYoCB63EE) | [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr), [Ben Barlow](https://open.spotify.com/artist/79SZgK0iRDlLJpsH7mSvNC) | [Kings of the New Age](https://open.spotify.com/album/2BZ8KjxTb0pNNKFwQmG1j9) | 3:47 | 2022-05-20 |  |
 | [F Around and Find Out](https://open.spotify.com/track/3C8tj7hBuJcYSssNOQjMPw) | [Ten Foot Pole](https://open.spotify.com/artist/27HBzx6Ox43GPbWLECgbFW) | [F Around and Find Out](https://open.spotify.com/album/22om6gslrsQ8Kxqx7KCXym) | 3:33 | 2022-09-09 |  |

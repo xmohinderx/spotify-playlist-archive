@@ -44,6 +44,42 @@
     },
     {
       "album": {
+        "name": "A Month Ago",
+        "url": "https://open.spotify.com/album/1nka8M1ttrlVEotLDwZJgA"
+      },
+      "artists": [
+        {
+          "name": "Baerd",
+          "url": "https://open.spotify.com/artist/6L6LwshK4H0TVqsNfCO69t"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160269,
+      "name": "A Month Ago",
+      "url": "https://open.spotify.com/track/798tRXwkYQ0o5nlY621s3x"
+    },
+    {
+      "album": {
+        "name": "A Phase",
+        "url": "https://open.spotify.com/album/3oba0rnXc7yCg9eihDAiB7"
+      },
+      "artists": [
+        {
+          "name": "Maz Lovella",
+          "url": "https://open.spotify.com/artist/7awTzwMtwUWO1sGrozETz3"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171304,
+      "name": "A Phase",
+      "url": "https://open.spotify.com/track/3jClKTTwIVu2uydbTVvOyP"
+    },
+    {
+      "album": {
         "name": "Acid",
         "url": "https://open.spotify.com/album/0zZ03JriJmcAFjRhW3ntCu"
       },
@@ -260,6 +296,24 @@
     },
     {
       "album": {
+        "name": "Bury Me in the Rain",
+        "url": "https://open.spotify.com/album/1EtMcoidKTOFtrGNWJtNfZ"
+      },
+      "artists": [
+        {
+          "name": "Eastbound Buzz",
+          "url": "https://open.spotify.com/artist/6ptPP23YNiWhQzJwoMh7R2"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239017,
+      "name": "Bury Me in the Rain",
+      "url": "https://open.spotify.com/track/44gSESjjEamB4BOZ7wQTsS"
+    },
+    {
+      "album": {
         "name": "Caterpillar",
         "url": "https://open.spotify.com/album/1S4hXkm2TcDtjQWWkkM3LY"
       },
@@ -343,7 +397,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-22",
       "duration_ms": 141400,
       "name": "Clockwork",
       "url": "https://open.spotify.com/track/3aSdRudIrqMCoa4teNQDRq"
@@ -451,7 +505,7 @@
       ],
       "date_added": "2022-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-22",
       "duration_ms": 236000,
       "name": "Cuffley",
       "url": "https://open.spotify.com/track/6mDnYUHKENd6FHiMziKKYk"
@@ -639,7 +693,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-22",
       "duration_ms": 180480,
       "name": "Don\u2019t Feel Right",
       "url": "https://open.spotify.com/track/4AMpDSHuSid2bSn3EYUMX9"
@@ -755,6 +809,24 @@
       "duration_ms": 165180,
       "name": "Even in the Dark",
       "url": "https://open.spotify.com/track/7g7EZ9RyKdB75zvFusDKQb"
+    },
+    {
+      "album": {
+        "name": "eyes don't lie",
+        "url": "https://open.spotify.com/album/4QRxLPMrWWw1NCEc1sCVGw"
+      },
+      "artists": [
+        {
+          "name": "Kingfishr",
+          "url": "https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226901,
+      "name": "eyes don't lie",
+      "url": "https://open.spotify.com/track/4SHgZySOqyih9VIhoe239c"
     },
     {
       "album": {
@@ -957,7 +1029,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-22",
       "duration_ms": 220211,
       "name": "Fisherman's Daughter",
       "url": "https://open.spotify.com/track/1tyTGY9MsV9gfzvXMStcFy"
@@ -1531,7 +1603,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-22",
       "duration_ms": 234000,
       "name": "honey!",
       "url": "https://open.spotify.com/track/29E0o3uJirAFyRyZGOaSgo"
@@ -1776,6 +1848,28 @@
     },
     {
       "album": {
+        "name": "I\u2019m As High As A Summer Breeze / The Numbers",
+        "url": "https://open.spotify.com/album/2Teh2SobRsCVneuQ9PUimC"
+      },
+      "artists": [
+        {
+          "name": "Martha Scanlan",
+          "url": "https://open.spotify.com/artist/7dQuJPkMekdj1XZ6VGZd5H"
+        },
+        {
+          "name": "Jon Neufeld",
+          "url": "https://open.spotify.com/artist/00jMmlChBltAIEbZvg5G9f"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162560,
+      "name": "I\u2019m As High As A Summer Breeze",
+      "url": "https://open.spotify.com/track/0Z4LYduluN3JE7RDW2Ai5C"
+    },
+    {
+      "album": {
         "name": "Jetpack",
         "url": "https://open.spotify.com/album/4HIiMkPp3hTPWNLpds5M68"
       },
@@ -1805,7 +1899,7 @@
       ],
       "date_added": "2022-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-22",
       "duration_ms": 206505,
       "name": "Jigsaw",
       "url": "https://open.spotify.com/track/16NDgpxqIktl0Uluplcz9A"
@@ -2500,6 +2594,24 @@
     },
     {
       "album": {
+        "name": "Centrifics",
+        "url": "https://open.spotify.com/album/1nRvr76njWTqW12K1767PE"
+      },
+      "artists": [
+        {
+          "name": "Marina Allen",
+          "url": "https://open.spotify.com/artist/7DT89nkTjnPsXUijqIxgCu"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179943,
+      "name": "Or Else",
+      "url": "https://open.spotify.com/track/3qWnYbvyj79oEgnsbMuU6u"
+    },
+    {
+      "album": {
         "name": "Orion",
         "url": "https://open.spotify.com/album/6nMBleJ4ye3EF8MOknz3hp"
       },
@@ -2547,7 +2659,7 @@
       ],
       "date_added": "2022-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-22",
       "duration_ms": 233250,
       "name": "Paper - Radio Edit",
       "url": "https://open.spotify.com/track/5czpVZPVy2xQaDwNM8INEt"
@@ -3095,7 +3207,7 @@
       ],
       "date_added": "2022-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-22",
       "duration_ms": 196600,
       "name": "Sweeter People",
       "url": "https://open.spotify.com/track/1mAvzrzI3LPaD1ctnXno4s"
@@ -3131,7 +3243,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-22",
       "duration_ms": 260903,
       "name": "Talamanca",
       "url": "https://open.spotify.com/track/1f2o76aJKHGCeMx5vH7iyP"
@@ -3232,6 +3344,24 @@
     },
     {
       "album": {
+        "name": "Act 1 (The Pilgrim)",
+        "url": "https://open.spotify.com/album/1SnEs7AsmFpDMReQxBq0EG"
+      },
+      "artists": [
+        {
+          "name": "Tapir!",
+          "url": "https://open.spotify.com/artist/7dYpljfleToKnSmBFqjqkd"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236874,
+      "name": "The Nether (Face to Face)",
+      "url": "https://open.spotify.com/track/1ZyiraF9iIBB2t8bqNTCur"
+    },
+    {
+      "album": {
         "name": "The Other Side (As the Sun Comes Up)",
         "url": "https://open.spotify.com/album/2lIxAt8sf6wrmxoVeXbemm"
       },
@@ -3283,6 +3413,24 @@
       "duration_ms": 215462,
       "name": "The Rain",
       "url": "https://open.spotify.com/track/4ZjmO3VLkevYjo4N5aqwDs"
+    },
+    {
+      "album": {
+        "name": "Biodiesel",
+        "url": "https://open.spotify.com/album/2pcbZi4lBGfNGhkCbiqnY3"
+      },
+      "artists": [
+        {
+          "name": "Brittle Brian",
+          "url": "https://open.spotify.com/artist/4CfYfkJD8Q8ct0nAi0S83z"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161565,
+      "name": "The Trout Drive",
+      "url": "https://open.spotify.com/track/53NqCFOhe8bmrgT1Bpfn29"
     },
     {
       "album": {
@@ -3463,6 +3611,24 @@
       "duration_ms": 193802,
       "name": "Weather",
       "url": "https://open.spotify.com/track/1RI3FXTNkgNqhEIawWkeDS"
+    },
+    {
+      "album": {
+        "name": "Weightless",
+        "url": "https://open.spotify.com/album/3nPwr6dVAbMPDkS9JvzbN2"
+      },
+      "artists": [
+        {
+          "name": "Junaco",
+          "url": "https://open.spotify.com/artist/6Q3I3yOdG7MhwX6BCWiu0e"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207866,
+      "name": "Weightless",
+      "url": "https://open.spotify.com/track/1RmZ9Oh6qfidVbzukot42i"
     },
     {
       "album": {

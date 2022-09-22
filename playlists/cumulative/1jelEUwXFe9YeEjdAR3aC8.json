@@ -116,6 +116,24 @@
     },
     {
       "album": {
+        "name": "Antibiotics",
+        "url": "https://open.spotify.com/album/3E7prZK3ZOiIAWqGs792ji"
+      },
+      "artists": [
+        {
+          "name": "Lowertown",
+          "url": "https://open.spotify.com/artist/1yI0RRPnOA9BFJmiZ6cEzw"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186741,
+      "name": "Antibiotics",
+      "url": "https://open.spotify.com/track/0gffR4rGlFYmItmRD9pkMM"
+    },
+    {
+      "album": {
         "name": "Bored Of The Circus",
         "url": "https://open.spotify.com/album/4oothiJCmPORbNYinRinfo"
       },
@@ -145,7 +163,7 @@
       ],
       "date_added": "2022-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-22",
       "duration_ms": 207024,
       "name": "Aura",
       "url": "https://open.spotify.com/track/3FcNx0xneevygzqjZaSDIo"
@@ -1109,7 +1127,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-22",
       "duration_ms": 180274,
       "name": "Hurtless",
       "url": "https://open.spotify.com/track/6HJizCbaqaEQG1eLjn341Z"
@@ -2409,6 +2427,24 @@
       "duration_ms": 128946,
       "name": "Ten",
       "url": "https://open.spotify.com/track/6pXRLi8Gx2cZ3VQZJp1kFd"
+    },
+    {
+      "album": {
+        "name": "It\u2019s Always Summer in Supertropicali (Chapter 2)",
+        "url": "https://open.spotify.com/album/0fx9Wepc1X1qSMVK6Nrm81"
+      },
+      "artists": [
+        {
+          "name": "Fleurie",
+          "url": "https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194782,
+      "name": "That Kinda Girl",
+      "url": "https://open.spotify.com/track/7xx7TSQDUl9gsLOH5ZKKWX"
     },
     {
       "album": {

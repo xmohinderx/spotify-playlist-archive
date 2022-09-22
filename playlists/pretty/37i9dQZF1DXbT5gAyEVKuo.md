@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT5gAyEVKuo.md) - [plain]
 
 > The power of praise lives on LIVE! Get up on your feet and let the spirit move in your heart to these amazing performances.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,502 likes - 49 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,515 likes - 49 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT5gAyEVKuo.md) - [plain]
 | 19 | [In Spite Of Me \- Live](https://open.spotify.com/track/5JTcaitH5HSzkqFG4nX7Dk) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Royalty: Live At The Ryman](https://open.spotify.com/album/66hDxNOJJd54OLzt79Uvef) | 8:26 |
 | 20 | [Miracle Worker \(feat\. Rich Tolbert Jr.\) \- Live](https://open.spotify.com/track/5ygojrfeLjr7BHp6nGh0XS) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Youthful Praise](https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0), [Rich Tolbert Jr.](https://open.spotify.com/artist/4fwBB2MOFR0Yr5KmnQURfb) | [Miracle Worker \(Live\)](https://open.spotify.com/album/0yi1ON4T3WTFh2zT80DxNw) | 6:42 |
 | 21 | [Free \- Live](https://open.spotify.com/track/0RNPiXc8aLrCbuivYlouzd) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [BRL](https://open.spotify.com/artist/7aOTcGOCh3ZQv0vY93hGoZ) | [Free](https://open.spotify.com/album/6uibqw6D0zCO7FGvAGSf5s) | 9:07 |
-| 22 | [Nobody Like You Lord \- Radio Edit \- Live](https://open.spotify.com/track/4SFD5o0lu61Y2uAdGHqwyv) | [Maranda Curtis](https://open.spotify.com/artist/28BlrKFyTd2woqU7ai8502) | [Nobody Like You Lord \(Radio Edit \- Live\)](https://open.spotify.com/album/3qQk8UYKGkjp91yl799gWJ) | 4:04 |
-| 23 | [It's Yours](https://open.spotify.com/track/0xYwbNvw4TburjOJYs0GpQ) | [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [One Nation Under God](https://open.spotify.com/album/3fdcELLJcdrGFL2VJQu6VP) | 6:58 |
+| 22 | [It's Yours](https://open.spotify.com/track/0xYwbNvw4TburjOJYs0GpQ) | [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [One Nation Under God](https://open.spotify.com/album/3fdcELLJcdrGFL2VJQu6VP) | 6:58 |
+| 23 | [Nobody Like You Lord \- Radio Edit \- Live](https://open.spotify.com/track/4SFD5o0lu61Y2uAdGHqwyv) | [Maranda Curtis](https://open.spotify.com/artist/28BlrKFyTd2woqU7ai8502) | [Nobody Like You Lord \(Radio Edit \- Live\)](https://open.spotify.com/album/3qQk8UYKGkjp91yl799gWJ) | 4:04 |
 | 24 | [Nothing / Something \- Live](https://open.spotify.com/track/6OFKf4inSSdrMuggQsx6Zb) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Nothing/Something \(Live\)](https://open.spotify.com/album/6cODaaXVo21jcn2HMEL6yl) | 5:21 |
 | 25 | [Why We Sing](https://open.spotify.com/track/39VW15LU20Vp4E38oMTqIp) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Setlist: The Very Best Of Kirk Franklin Live](https://open.spotify.com/album/3pxNJpoQFVi4CBxEQdxTTU) | 5:47 |
 | 26 | [You're Doing It All Again \(Radio Edit\) \[Live\] \(feat\. Nicole Harris\)](https://open.spotify.com/track/70O4lnaxr3stKaPAZOHSgj) | [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz), [Nicole Harris](https://open.spotify.com/artist/0vot03PmrmBeagTXjtdxv8) | [You're Doing It All Again \(Radio Edit\) \[Live\] \(feat\. Nicole Harris\)](https://open.spotify.com/album/63Dts9ir6pyJiLrlPB0PBL) | 3:48 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT5gAyEVKuo.md) - [plain]
 | 48 | [Intentional \- Live](https://open.spotify.com/track/3Tgll8Cq5gfGUv03oTyQQD) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe) | [Setlist Vol\. 1 \(Live\)](https://open.spotify.com/album/0fRY9s3aFVDG3n9g4atgII) | 5:38 |
 | 49 | [He'll Take The Pain Away](https://open.spotify.com/track/5pAx3uIKg4Mf6KUEOevB45) | [Gods Property](https://open.spotify.com/artist/3xtft29VZ2knyu7dEC9N7X) | [Kirk Franklin Presents Songs For The Storm, Volume 1](https://open.spotify.com/album/4HyeSvKpXXTgQjXa1RVIIz) | 8:38 |
 
-Snapshot ID: `MTYyMzQ3MDc1NCwwMDAwMDAwMDFkNDFkNTFlYjk1Y2I1ZDJjNmUwZWI3YTYzZTdiMjQz`
+Snapshot ID: `MTYyMzQ3MDc1NCwwMDAwMDAwMGNmZWFmNTY4MDhjNDgwZjlkMzVlNTFjNTVlNjkzYjM2`

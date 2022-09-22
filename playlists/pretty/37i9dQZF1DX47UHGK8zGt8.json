@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasicas calminhas pra come\u00e7ar o dia bem relax.",
-  "num_followers": 349479,
+  "num_followers": 349744,
   "original_name": "Manh\u00e3 Relax",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjEzMTgzMSwwMDAwMDAwMDM0NmI2ZGRmNDViNWVhMGQ1NWEyNzhjMzU5YmQyNmJk",
+  "snapshot_id": "MTY2MjEzMTgzMSwwMDAwMDAwMDM5MDBiZTQ1MzNmMzg5ODE1ZDllNmUwZDUyYTA3NWM4",
   "tracks": [
     {
       "added_at": "2022-09-02 03:01:00",
@@ -423,26 +423,6 @@
     {
       "added_at": "2022-09-02 03:01:00",
       "album": {
-        "name": "Pode Se Achegar",
-        "url": "https://open.spotify.com/album/1ProWdFTYf1k8czB43FVge"
-      },
-      "artists": [
-        {
-          "name": "TIAGO IORC",
-          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
-        },
-        {
-          "name": "Agnes Nunes",
-          "url": "https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw"
-        }
-      ],
-      "duration_ms": 228780,
-      "name": "Pode Se Achegar",
-      "url": "https://open.spotify.com/track/5pmBfQ7bewBJR9dhVnqMHU"
-    },
-    {
-      "added_at": "2022-09-02 03:01:00",
-      "album": {
         "name": "Feito Pra Acabar",
         "url": "https://open.spotify.com/album/2aD4bVWQ2RrPvpOHSV2nSO"
       },
@@ -459,6 +439,26 @@
       "duration_ms": 252600,
       "name": "Felicidade",
       "url": "https://open.spotify.com/track/7wqojWtf69NNjw3P5wMst6"
+    },
+    {
+      "added_at": "2022-09-02 03:01:00",
+      "album": {
+        "name": "Pode Se Achegar",
+        "url": "https://open.spotify.com/album/1ProWdFTYf1k8czB43FVge"
+      },
+      "artists": [
+        {
+          "name": "TIAGO IORC",
+          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
+        },
+        {
+          "name": "Agnes Nunes",
+          "url": "https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw"
+        }
+      ],
+      "duration_ms": 228780,
+      "name": "Pode Se Achegar",
+      "url": "https://open.spotify.com/track/5pmBfQ7bewBJR9dhVnqMHU"
     },
     {
       "added_at": "2022-09-02 03:01:00",
@@ -891,22 +891,18 @@
     {
       "added_at": "2022-09-02 03:01:00",
       "album": {
-        "name": "Alto Mar",
-        "url": "https://open.spotify.com/album/6DahyEuFWlMu8ECGM2lrDX"
+        "name": "Te Fa\u00e7o um Cafun\u00e9",
+        "url": "https://open.spotify.com/album/1k35AKHHe1G9pnmIRsAJf0"
       },
       "artists": [
         {
-          "name": "Mariana Nolasco",
-          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
-        },
-        {
-          "name": "Vitor Kley",
-          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+          "name": "Mariana Aydar",
+          "url": "https://open.spotify.com/artist/3rE82NMVBb5C5tQ83o8u8N"
         }
       ],
-      "duration_ms": 197982,
-      "name": "Alto Mar",
-      "url": "https://open.spotify.com/track/7GwO8ewOutzHzL3HeMbxK4"
+      "duration_ms": 227604,
+      "name": "Te Fa\u00e7o um Cafun\u00e9",
+      "url": "https://open.spotify.com/track/2PxakiZUhHmFdp5G3sBiXD"
     },
     {
       "added_at": "2022-09-02 03:01:00",

@@ -76,7 +76,7 @@
 | [Wax Ecstatic \(To Sell Angelina\)](https://open.spotify.com/track/0SKiQidbB2lEY7us6yDt2m) | [Sponge](https://open.spotify.com/artist/2JXDwIo5HsiwTcTPQytrZ8) | [Wax Ecstatic](https://open.spotify.com/album/66c7nl612haIOxKKiTCimr) | 4:08 | 2022-06-29 | 2022-07-28 |
 | [Welcome To The Fold](https://open.spotify.com/track/0oPcNTwHKpYnDZfkcdOsiA) | [Filter](https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C) | [Title Of Record \(Expanded Edition\)](https://open.spotify.com/album/0PtuV98eVpJkCORoCH2uCu) | 7:40 | 2022-06-29 |  |
 | [Welcome to the Fold](https://open.spotify.com/track/7HFCovMwZIinGBpoZyUsKC) | [Filter](https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C) | [Title Of Record](https://open.spotify.com/album/0bsS6wybJvPfLs7cr3bj7j) | 7:40 | 2020-07-10 | 2022-07-29 |
-| [Would?](https://open.spotify.com/track/5sFDReWLrZHLFZFjHsjUTS) | [Alice In Chains](https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL) | [Dirt](https://open.spotify.com/album/58NXIEYqmq5dQHg9nV9duM) | 3:26 | 2020-07-10 |  |
+| [Would? \(2022 Remaster\)](https://open.spotify.com/track/5sFDReWLrZHLFZFjHsjUTS) | [Alice In Chains](https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL) | [Dirt \(2022 Remaster\)](https://open.spotify.com/album/58NXIEYqmq5dQHg9nV9duM) | 3:26 | 2020-07-10 |  |
 | [You](https://open.spotify.com/track/5J19HPdmJHOEu32iyZEt5k) | [Candlebox](https://open.spotify.com/artist/3R6c2tWDBeYB1GncjLMn9n) | [Candlebox](https://open.spotify.com/album/401V2sVeZfq8bjBqojsPRb) | 4:57 | 2020-07-10 |  |
 
 \*This playlist was first scraped on 2021-12-30. Prior content cannot be recovered.

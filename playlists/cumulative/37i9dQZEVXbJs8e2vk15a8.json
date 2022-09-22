@@ -44,6 +44,24 @@
     },
     {
       "album": {
+        "name": "365",
+        "url": "https://open.spotify.com/album/01bt5fJVQWZw8bpD1sL6lL"
+      },
+      "artists": [
+        {
+          "name": "Los Reales Del R\u00edo",
+          "url": "https://open.spotify.com/artist/2A6M5I2g7VpFJW950JP6rV"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188471,
+      "name": "365",
+      "url": "https://open.spotify.com/track/5BAM5vA7mem7otR5ylQxFx"
+    },
+    {
+      "album": {
         "name": "7 L\u00e1grimas (Remix)",
         "url": "https://open.spotify.com/album/3SPDYewQ7iwqYuLVoDOTQl"
       },
@@ -343,7 +361,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-22",
       "duration_ms": 122013,
       "name": "Adi\u00f3s Santiago Querido",
       "url": "https://open.spotify.com/track/1dFxVQnv1AcGEatynj2VQE"
@@ -1796,6 +1814,24 @@
     },
     {
       "album": {
+        "name": "Vuelve a Empezar...",
+        "url": "https://open.spotify.com/album/0jz6DTuF6Z4hCADpov1CMd"
+      },
+      "artists": [
+        {
+          "name": "Entremares",
+          "url": "https://open.spotify.com/artist/7KPcBMsOzS2QvKzkjj1kxU"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145386,
+      "name": "Desde Que No Estas Presente",
+      "url": "https://open.spotify.com/track/6y6uv2CQPUgTEcS5eJb7nS"
+    },
+    {
+      "album": {
         "name": "MOTOMAMI +",
         "url": "https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr"
       },
@@ -1985,7 +2021,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-22",
       "duration_ms": 235785,
       "name": "Drugs From Amsterdam",
       "url": "https://open.spotify.com/track/0w7JPlp7eEQI2EKW3ayXrv"
@@ -2075,7 +2111,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-22",
       "duration_ms": 140706,
       "name": "El Guat\u00f3n Loyola",
       "url": "https://open.spotify.com/track/3aFCdWQnmCskffgpP9UN8L"
@@ -3443,6 +3479,24 @@
       "duration_ms": 162637,
       "name": "La Bachata",
       "url": "https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u"
+    },
+    {
+      "album": {
+        "name": "La Chilena",
+        "url": "https://open.spotify.com/album/1XPWanbGINioCUy42JoNoO"
+      },
+      "artists": [
+        {
+          "name": "Jorge Lefenda",
+          "url": "https://open.spotify.com/artist/3uzbVuzs2mfZtJdOHVhWCr"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367638,
+      "name": "La Chilena",
+      "url": "https://open.spotify.com/track/7vaGvRNVdwimNo6EDflHC8"
     },
     {
       "album": {

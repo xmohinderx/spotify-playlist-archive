@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwCeILEyQAy.md) - [plain]
 
 > Real Rap\. All Pressure\. Cover: Big Boss Vette
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,765 likes - 50 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,839 likes - 50 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,9 +28,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwCeILEyQAy.md) - [plain]
 | 18 | [Outside \(feat\. Fivio Foreign\)](https://open.spotify.com/track/5zbxkF1osnZlRAknPax4D9) | [Young Devyn](https://open.spotify.com/artist/5JPJZcr0m2OkOEA1pagpSb), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [Outside](https://open.spotify.com/album/0qWG2omWgkNk3bgF7CqgEA) | 3:16 |
 | 19 | [Big Steppa](https://open.spotify.com/track/4wS4YABWUMDxcbImu3llWL) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [You Still Here, Ho ?](https://open.spotify.com/album/42C76ZnwdWqEu6zs6NFW1A) | 2:27 |
 | 20 | [Seduce & Scheme \(RAP SH!T: Soundtrack From The Max Original Series\)](https://open.spotify.com/track/7soX1jrCsDhZdwikQiiibk) | [Shawna & Mia](https://open.spotify.com/artist/1IbE7R5bQCSBeMhVRbWnU7), [Raedio](https://open.spotify.com/artist/0txgDz2yNToARuN2vD7SWD) | [Seduce & Scheme \(RAP SH!T: Soundtrack From The Max Original Series\)](https://open.spotify.com/album/1Vv0VzKUziAaDRqZyJteBh) | 2:24 |
-| 21 | [Tomorrow](https://open.spotify.com/track/2RkyV0KXNLstEKn2qb1KZ6) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [CMG The Label](https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA) | [Gangsta Art](https://open.spotify.com/album/0mX7631qrFwwcnuRzuPpWU) | 1:53 |
+| 21 | [PUSSY](https://open.spotify.com/track/7ycQto0UwGtuugO5ztmpdO) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [PUSSY](https://open.spotify.com/album/2RJKx64TCTSA1rbwh3C3ib) | 2:21 |
 | 22 | [On The Come Up](https://open.spotify.com/track/2woZp7c5x1ZP5iSWKj4J2Z) | [Lady London](https://open.spotify.com/artist/44qqbgojo0P8r68CuRbSN4), [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5), [Jamila C\. Gray](https://open.spotify.com/artist/4p1OdIptpq04ukwTT3uyTf) | [On The Come Up](https://open.spotify.com/album/1UkWepw39XVBHvBjuoAAh4) | 2:57 |
-| 23 | [PUSSY](https://open.spotify.com/track/7ycQto0UwGtuugO5ztmpdO) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [PUSSY](https://open.spotify.com/album/2RJKx64TCTSA1rbwh3C3ib) | 2:21 |
+| 23 | [Tomorrow](https://open.spotify.com/track/2RkyV0KXNLstEKn2qb1KZ6) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [CMG The Label](https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA) | [Gangsta Art](https://open.spotify.com/album/0mX7631qrFwwcnuRzuPpWU) | 1:53 |
 | 24 | [Give U Some \(feat\. Rob49\)](https://open.spotify.com/track/4zM1EkVk8jfs969NYYSZ9x) | [Lebra Jolie](https://open.spotify.com/artist/3ej8SuMJzEgwFLe2lCBikV), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [Give U Some \(feat\. Rob49\)](https://open.spotify.com/album/4ZCRbkgSa3MmQ8LX3Nf3k0) | 2:22 |
 | 25 | [Plan B](https://open.spotify.com/track/2PljnVsnl2PRwCvfhbdQup) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Plan B](https://open.spotify.com/album/7f9fxAFDIRaflD7W0k7Dhx) | 2:43 |
 | 26 | [Name of Love](https://open.spotify.com/track/7xH1se2ywtEQM3g1XuKkIq) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Name of Love](https://open.spotify.com/album/0z9joggqG3K7ffVOvftTwI) | 1:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwCeILEyQAy.md) - [plain]
 | 49 | [Join Em](https://open.spotify.com/track/03h3onzQ3mkndoFCWIIgMd) | [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3) | [Hard On A 304](https://open.spotify.com/album/6a6DFsmuYzp39qKtn3UJ3P) | 2:50 |
 | 50 | [Soufside](https://open.spotify.com/track/06cK6iwM27beDMNd9wNc7e) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Soufside](https://open.spotify.com/album/7Kq0Dzmw53JzS4NZEWtthg) | 1:50 |
 
-Snapshot ID: `MTY2MzMwMDgwMCwwMDAwMDAwMDM1NTJmYTlkYzJjODQ1YmQ4OThkNmJkOTg2ZmMyMmYy`
+Snapshot ID: `MTY2MzMwMDgwMCwwMDAwMDAwMGM2YTBjMzEwYzI0NzMyZWUzMmZiOGY5MWZkZDg1YmQ0`

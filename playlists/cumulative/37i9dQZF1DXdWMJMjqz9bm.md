@@ -2,7 +2,7 @@
 
 ### [Varsity Bars](https://open.spotify.com/playlist/37i9dQZF1DXdWMJMjqz9bm)
 
-> A little bit of pop, a little bit of rap\. Cover: Aidan Bissett
+> A little bit of pop, a little bit of rap\. Cover: Arden Jones
 
 367 songs - 17 hr 11 min - [published](https://open.spotify.com/playlist/2Nwo9aiDgjWV2FZ832hzzr)
 

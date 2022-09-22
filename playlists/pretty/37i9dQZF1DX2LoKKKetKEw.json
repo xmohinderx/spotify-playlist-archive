@@ -1,12 +1,12 @@
 {
   "description": "Jesus Music but make it pon pon.   Get your fill of Afrobeats and Bible right here!  Cover: Rehmahz",
-  "num_followers": 8611,
+  "num_followers": 8725,
   "original_name": "AfroGospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzQ2OTMyNSwwMDAwMDAwMGU5MmQwYzYwYjNmNTFjYjVjNjRhYWI0YjYwYmI0NWE2",
+  "snapshot_id": "MTY2MzQ2OTMyNSwwMDAwMDAwMGRhNDg2MWRiMDcxNTQyMjc5Yjg4ZmQ1OGU0NjU4ODcy",
   "tracks": [
     {
       "added_at": "2022-09-18 02:48:45",
@@ -599,26 +599,6 @@
     {
       "added_at": "2022-09-18 02:48:45",
       "album": {
-        "name": "Pepper Dem",
-        "url": "https://open.spotify.com/album/1yLoyhBS3UYGNPUqrMIdIW"
-      },
-      "artists": [
-        {
-          "name": "Kofi Dartey",
-          "url": "https://open.spotify.com/artist/2VgS8SW9VgfDQCkYqiasPr"
-        },
-        {
-          "name": "Legacy",
-          "url": "https://open.spotify.com/artist/3yFtG2kdWcqEM5lu6jxGvJ"
-        }
-      ],
-      "duration_ms": 168813,
-      "name": "Pepper Dem",
-      "url": "https://open.spotify.com/track/3h1GZSyRIentZ7bg7q20Ca"
-    },
-    {
-      "added_at": "2022-09-18 02:48:45",
-      "album": {
         "name": "Ike",
         "url": "https://open.spotify.com/album/6gpDalXus4E4FYDyMJNfAU"
       },
@@ -635,6 +615,26 @@
       "duration_ms": 229363,
       "name": "Ike",
       "url": "https://open.spotify.com/track/6qomGFqXFcN7sbXL2j8wwX"
+    },
+    {
+      "added_at": "2022-09-18 02:48:45",
+      "album": {
+        "name": "Pepper Dem",
+        "url": "https://open.spotify.com/album/1yLoyhBS3UYGNPUqrMIdIW"
+      },
+      "artists": [
+        {
+          "name": "Kofi Dartey",
+          "url": "https://open.spotify.com/artist/2VgS8SW9VgfDQCkYqiasPr"
+        },
+        {
+          "name": "Legacy",
+          "url": "https://open.spotify.com/artist/3yFtG2kdWcqEM5lu6jxGvJ"
+        }
+      ],
+      "duration_ms": 168813,
+      "name": "Pepper Dem",
+      "url": "https://open.spotify.com/track/3h1GZSyRIentZ7bg7q20Ca"
     },
     {
       "added_at": "2022-09-18 02:48:45",
@@ -683,18 +683,26 @@
     {
       "added_at": "2022-09-18 02:48:45",
       "album": {
-        "name": "Wait 4 Me",
-        "url": "https://open.spotify.com/album/7pSEGaQlzam71MMqCONXDM"
+        "name": "Akorede",
+        "url": "https://open.spotify.com/album/60OHPdjGHgbHZBwBQVnlyE"
       },
       "artists": [
         {
-          "name": "Aklesso",
-          "url": "https://open.spotify.com/artist/7r3HxO330lmabOprT2MMFK"
+          "name": "TB1",
+          "url": "https://open.spotify.com/artist/79nV5xcc87fTQ2T527OqAG"
+        },
+        {
+          "name": "Kelly Lyon",
+          "url": "https://open.spotify.com/artist/4ifitpTpp7bzrEyxkHuFmj"
+        },
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
         }
       ],
-      "duration_ms": 182238,
-      "name": "Wait 4 Me",
-      "url": "https://open.spotify.com/track/1hoD8vWdFVWzKRiD2BFgZl"
+      "duration_ms": 240039,
+      "name": "Akorede",
+      "url": "https://open.spotify.com/track/6nNnOZRV4X5rxMMivAItDp"
     },
     {
       "added_at": "2022-09-18 02:48:45",
@@ -719,26 +727,18 @@
     {
       "added_at": "2022-09-18 02:48:45",
       "album": {
-        "name": "Akorede",
-        "url": "https://open.spotify.com/album/60OHPdjGHgbHZBwBQVnlyE"
+        "name": "Wait 4 Me",
+        "url": "https://open.spotify.com/album/7pSEGaQlzam71MMqCONXDM"
       },
       "artists": [
         {
-          "name": "TB1",
-          "url": "https://open.spotify.com/artist/79nV5xcc87fTQ2T527OqAG"
-        },
-        {
-          "name": "Kelly Lyon",
-          "url": "https://open.spotify.com/artist/4ifitpTpp7bzrEyxkHuFmj"
-        },
-        {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+          "name": "Aklesso",
+          "url": "https://open.spotify.com/artist/7r3HxO330lmabOprT2MMFK"
         }
       ],
-      "duration_ms": 240039,
-      "name": "Akorede",
-      "url": "https://open.spotify.com/track/6nNnOZRV4X5rxMMivAItDp"
+      "duration_ms": 182238,
+      "name": "Wait 4 Me",
+      "url": "https://open.spotify.com/track/1hoD8vWdFVWzKRiD2BFgZl"
     },
     {
       "added_at": "2022-09-18 02:48:45",
@@ -831,22 +831,6 @@
     {
       "added_at": "2022-09-18 02:48:45",
       "album": {
-        "name": "Lotta Things",
-        "url": "https://open.spotify.com/album/6psz7fSrqECBaL6feOB8b5"
-      },
-      "artists": [
-        {
-          "name": "Paul the Messenger",
-          "url": "https://open.spotify.com/artist/2UbUpUm5AVacCH9eYrIkPD"
-        }
-      ],
-      "duration_ms": 156500,
-      "name": "Lotta Things",
-      "url": "https://open.spotify.com/track/190mAgySPlWSbOZd5kLlyq"
-    },
-    {
-      "added_at": "2022-09-18 02:48:45",
-      "album": {
         "name": "Oluwa",
         "url": "https://open.spotify.com/album/4qvJv3zrjrwSE1Izdjeu6p"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 160528,
       "name": "Oluwa",
       "url": "https://open.spotify.com/track/0GemmvjfJSf8MwLMXYdDCx"
+    },
+    {
+      "added_at": "2022-09-18 02:48:45",
+      "album": {
+        "name": "Lotta Things",
+        "url": "https://open.spotify.com/album/6psz7fSrqECBaL6feOB8b5"
+      },
+      "artists": [
+        {
+          "name": "Paul the Messenger",
+          "url": "https://open.spotify.com/artist/2UbUpUm5AVacCH9eYrIkPD"
+        }
+      ],
+      "duration_ms": 156500,
+      "name": "Lotta Things",
+      "url": "https://open.spotify.com/track/190mAgySPlWSbOZd5kLlyq"
     },
     {
       "added_at": "2022-09-18 02:48:45",

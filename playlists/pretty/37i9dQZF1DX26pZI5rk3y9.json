@@ -1,12 +1,12 @@
 {
   "description": "Classic music for cooking and eating with friends. ",
-  "num_followers": 2133,
+  "num_followers": 2142,
   "original_name": "BBQ Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzAwMDcwMSwwMDAwMDAwMDAxZjRiMWQ5YTgwYmM1MTI5MDcwN2FlNjIyOTdhMDA4",
+  "snapshot_id": "MTY2MzAwMDcwMSwwMDAwMDAwMDUzNDkwYmZjZDA3ZGIxNTY5MTY0NzYyYzZlZmNhNzY5",
   "tracks": [
     {
       "added_at": "2022-09-12 16:38:21",
@@ -715,6 +715,22 @@
     {
       "added_at": "2022-09-12 16:38:21",
       "album": {
+        "name": "Black Midnight Sun (feat. Bill Laswell & Jerome \"Bigfoot\" Brailey)",
+        "url": "https://open.spotify.com/album/4oWAVhy2gLn1ZCUFotz1qo"
+      },
+      "artists": [
+        {
+          "name": "Lucky Peterson",
+          "url": "https://open.spotify.com/artist/3OxsMm9KHw2FRJLGHtILl5"
+        }
+      ],
+      "duration_ms": 322760,
+      "name": "Herbert Harper's Free Press News",
+      "url": "https://open.spotify.com/track/6BovRqCr1P46Vsi4awI0m1"
+    },
+    {
+      "added_at": "2022-09-12 16:38:21",
+      "album": {
         "name": "Best Of Rhythm & Blues",
         "url": "https://open.spotify.com/album/5sPN3eUflNZkCAecJYENg4"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 152700,
       "name": "Pigmeat",
       "url": "https://open.spotify.com/track/6855kD5Pfhw6QkZhQEWB5S"
-    },
-    {
-      "added_at": "2022-09-12 16:38:21",
-      "album": {
-        "name": "Black Midnight Sun (feat. Bill Laswell & Jerome \"Bigfoot\" Brailey)",
-        "url": "https://open.spotify.com/album/4oWAVhy2gLn1ZCUFotz1qo"
-      },
-      "artists": [
-        {
-          "name": "Lucky Peterson",
-          "url": "https://open.spotify.com/artist/3OxsMm9KHw2FRJLGHtILl5"
-        }
-      ],
-      "duration_ms": 322760,
-      "name": "Herbert Harper's Free Press News",
-      "url": "https://open.spotify.com/track/6BovRqCr1P46Vsi4awI0m1"
     },
     {
       "added_at": "2022-09-12 16:38:21",
@@ -907,6 +907,22 @@
     {
       "added_at": "2022-09-12 16:38:21",
       "album": {
+        "name": "Blues Roots",
+        "url": "https://open.spotify.com/album/7lXGZuaIQXrvNRGVldoDoS"
+      },
+      "artists": [
+        {
+          "name": "Earl Hooker",
+          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
+        }
+      ],
+      "duration_ms": 255893,
+      "name": "Two Bugs And A Roach",
+      "url": "https://open.spotify.com/track/4ry79KsP0Mbhp4lrg3z3cG"
+    },
+    {
+      "added_at": "2022-09-12 16:38:21",
+      "album": {
         "name": "Sax Star: Maxwell's Best, Vol. 1",
         "url": "https://open.spotify.com/album/2kT0jx8Xe22NZtnhUzVgYB"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 176226,
       "name": "Alligator Meat",
       "url": "https://open.spotify.com/track/2VYgcMVVoACB1hj3dfoQtn"
-    },
-    {
-      "added_at": "2022-09-12 16:38:21",
-      "album": {
-        "name": "Blues Roots",
-        "url": "https://open.spotify.com/album/7lXGZuaIQXrvNRGVldoDoS"
-      },
-      "artists": [
-        {
-          "name": "Earl Hooker",
-          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
-        }
-      ],
-      "duration_ms": 255893,
-      "name": "Two Bugs And A Roach",
-      "url": "https://open.spotify.com/track/4ry79KsP0Mbhp4lrg3z3cG"
     },
     {
       "added_at": "2022-09-12 16:38:21",

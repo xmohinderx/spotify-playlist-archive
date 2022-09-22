@@ -4,7 +4,7 @@
 
 > Sin ataduras, pero con amor: la medida justa de romance independiente.
 
-383 songs - 21 hr 56 min - [published](https://open.spotify.com/playlist/05X6LIr2loTOLIj7GqiZl1)
+384 songs - 21 hr 58 min - [published](https://open.spotify.com/playlist/05X6LIr2loTOLIj7GqiZl1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,7 +202,7 @@
 | [Ligera Love](https://open.spotify.com/track/5LBVwUrWdyaM1qHo0v0TEQ) | [Pamela Rodriguez](https://open.spotify.com/artist/0xSlY9GBehjuViqWE1KrMC) | [ReconoceR](https://open.spotify.com/album/6BEwgBFuB3SN9Li2ka5sXu) | 2:27 | 2022-01-28 | 2022-07-25 |
 | [Limón y Sal](https://open.spotify.com/track/5LSGY5jg6RFZYJ7HCqw2X4) | [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx) | [Limón y Sal](https://open.spotify.com/album/637y2UCGYxs082qLJqVBON) | 4:32 | 2022-01-07 | 2022-07-29 |
 | [Llamame Esta Noche](https://open.spotify.com/track/3m167ESpWlHrc1GNNPLPWi) | [Tati Diaz Bonilla](https://open.spotify.com/artist/4gz8jSWrna0TO9c3fnbYhf) | [Llamame Esta Noche](https://open.spotify.com/album/3hqXesDHjdEVy0v5yvI8PZ) | 2:47 | 2022-04-01 | 2022-04-24 |
-| [Lloro](https://open.spotify.com/track/2A2is5EUKFNtdcIT3yX9Gj) | [Marion Raw](https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj) | [Lloro](https://open.spotify.com/album/2I3XUFeagyBtNOsqVR0rxj) | 3:24 | 2022-04-26 |  |
+| [Lloro](https://open.spotify.com/track/2A2is5EUKFNtdcIT3yX9Gj) | [Marion Raw](https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj) | [Lloro](https://open.spotify.com/album/2I3XUFeagyBtNOsqVR0rxj) | 3:24 | 2022-04-26 | 2022-09-22 |
 | [Llorón](https://open.spotify.com/track/7qlnDFtpzhMPhwviyX4UqC) | [FLORIAN](https://open.spotify.com/artist/6C3bLjpIfVoapHjMfpYAy2) | [Llorón](https://open.spotify.com/album/0aJcjadBZBrwChkzxkUEJJ) | 3:24 | 2022-01-07 | 2022-06-12 |
 | [Lo 100to](https://open.spotify.com/track/3xkyRsJo1pLEAJwXXGluZy) | [Proyectosolo](https://open.spotify.com/artist/1FSq5ATUMKNRLCxwWwpELa) | [Lo 100to](https://open.spotify.com/album/5nm56Xx2nK9JEGRfJkuxdU) | 3:02 | 2022-01-28 | 2022-07-17 |
 | [Lo Que Hoy Quieras](https://open.spotify.com/track/2o0qEJLFTlR3NPxLy7Hz0T) | [Koino Yokan](https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J) | [Lo Que Hoy Quieras](https://open.spotify.com/album/7416JKhnB7psS2PMJL9TUR) | 2:55 | 2022-05-09 |  |
@@ -316,6 +316,7 @@
 | [Ser Eternos](https://open.spotify.com/track/2Nbd4vA664gAa23iCmbP4X) | [LaTorre](https://open.spotify.com/artist/1jiEzyMQwfYcQtp19fwOTZ) | [Ser Eternos](https://open.spotify.com/album/12LRUTem7DZkK72rfo2Jvk) | 3:40 | 2022-01-07 | 2022-07-28 |
 | [Si Fueras Lluvia](https://open.spotify.com/track/2N3LPVCuyWN0A5uodq95RN) | [vangoura](https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g) | [Si Fueras Lluvia](https://open.spotify.com/album/46B8tnPwQdlw6jOY947lGu) | 3:12 | 2022-07-15 |  |
 | [Si Fueras Lluvia](https://open.spotify.com/track/5caJvmpnwLPvsgxiFUZI3d) | [vangoura](https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g) | [Si Fueras Lluvia](https://open.spotify.com/album/37eZe9AY6enYaoBM625PQI) | 3:12 | 2022-01-07 | 2022-07-29 |
+| [Si No Es Así](https://open.spotify.com/track/687EDCtBggHXjS1HxfILjB) | [Candelaria Zamar](https://open.spotify.com/artist/5CvtChuDVlejwaMPQb9Sx1), [Hernán Segret](https://open.spotify.com/artist/0ZsQYKiNIxkaBdbkftJQYU) | [Un Vaso de Agua](https://open.spotify.com/album/6mUautkWmj3z5Q1FJ68tUN) | 1:28 | 2022-09-09 |  |
 | [Si No Es Así \(feat\. Hernán Segret\)](https://open.spotify.com/track/67BJM75ARGn4EBAJ1wLOgM) | [Candelaria Zamar](https://open.spotify.com/artist/5CvtChuDVlejwaMPQb9Sx1), [Hernan Segret](https://open.spotify.com/artist/6Fe9HQZCJNpXGEAjRGqd2v) | [Un Vaso De Agua](https://open.spotify.com/album/15ePVZwQxQalIZMMzjbKWY) | 1:28 | 2022-04-01 | 2022-04-20 |
 | [Si no hay con quién bailar](https://open.spotify.com/track/7gNMO4W5ovmncmsepWoXjV) | [Vita Set](https://open.spotify.com/artist/7gvEHRdKF3R8fbr3Up2qOy) | [Si no hay con quién bailar](https://open.spotify.com/album/0ZiL3JnTcF2Aykel9SQveZ) | 3:54 | 2022-01-28 | 2022-04-18 |
 | [Si Tú Quieres](https://open.spotify.com/track/6YWw5TNf5BMe3Twc4mNV9d) | [Modernico](https://open.spotify.com/artist/2Qp0tCZDR3YaiJRzRbO3tV), [Masquemusica](https://open.spotify.com/artist/38WvNBHvqwUXnwkWIioPxo) | [Amor Estelar](https://open.spotify.com/album/0I85HmBn8xqOWuZf43JK6T) | 3:25 | 2022-01-28 | 2022-04-21 |

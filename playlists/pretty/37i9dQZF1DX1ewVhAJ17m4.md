@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 
 > All the best new songs from the pop punk scene\. Cover: Maggie Lindemann
 
-[Spotify](https://open.spotify.com/user/spotify) - 523,302 likes - 80 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 523,468 likes - 80 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 | 52 | [Outta My Head](https://open.spotify.com/track/28RPEcjNNGKRdbTygQ7WoH) | [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr) | [Kings of the New Age](https://open.spotify.com/album/2BZ8KjxTb0pNNKFwQmG1j9) | 2:56 |
 | 53 | [serotonin](https://open.spotify.com/track/3uSIJGEiXmRYaSURiDbp2P) | [lleo](https://open.spotify.com/artist/0zXY7bBZFvl0mNxPxzo1e4) | [serotonin](https://open.spotify.com/album/2VqHsEkb4nuOhtEdqUvYQa) | 3:03 |
 | 54 | [emo girl \(feat\. WILLOW\)](https://open.spotify.com/track/3tBZ60j1jQ7NJm8IjelyQe) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [mainstream sellout](https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc) | 2:39 |
-| 55 | [Every Guy Ever](https://open.spotify.com/track/5pgOXFPQROrmboHmcTYonC) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Every Guy Ever](https://open.spotify.com/album/71uSY3G4j624cwlyt9w1Q0) | 2:39 |
+| 55 | [Every Guy Ever](https://open.spotify.com/track/1srdYQIXMmdqtEYsJFq8Xc) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Love and Other Lies](https://open.spotify.com/album/5l7whBWhClQiC0pFLpPcRi) | 2:39 |
 | 56 | [Bitter](https://open.spotify.com/track/0pUNyIK9UsvFpXHbJ6gunK) | [Chunk! No, Captain Chunk!](https://open.spotify.com/artist/03jrbNTeSKP9m161juhm0h) | [Gone Are The Good Days](https://open.spotify.com/album/7G984XgKrRusVBpuwtLbO2) | 3:11 |
 | 57 | [DEAD ASTRONAUT](https://open.spotify.com/track/2hym6qBXvGwg0VnI7HuZot) | [Ryan Oakes](https://open.spotify.com/artist/4l43uAIHyF5VzgonMKVkg7) | [DEAD ASTRONAUT](https://open.spotify.com/album/5EXQvM0YJmhdqaU0lBXG4A) | 2:37 |
 | 58 | [What's Up?](https://open.spotify.com/track/1rCQdw3dnvVexJwu1c7EAL) | [Mom Jeans.](https://open.spotify.com/artist/6PsktPFR0UZptKdSqmlS5h) | [What's Up?](https://open.spotify.com/album/471qHpHrvs92sYyQgPHLYz) | 2:21 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 | 79 | [Gasoline](https://open.spotify.com/track/6kUqtwGftq5d2kzlH3Eh9t) | [Knuckle Puck](https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm) | [Gasoline](https://open.spotify.com/album/1TK2KPCTblGOP0J1fIITpx) | 2:43 |
 | 80 | [Shaking Your Mind](https://open.spotify.com/track/7kTg2JxsgHLWjavcl1dPEf) | [Bearings](https://open.spotify.com/artist/0qpDBxRgLp6g0k2esJlUDn) | [Shaking Your Mind](https://open.spotify.com/album/3WKrQ041ZovsJcb8K4rpD9) | 2:26 |
 
-Snapshot ID: `MTY2MzI4MjgwMCwwMDAwMDAwMDU3MTVmZTNlZDVmMDJjYWI1YWYzOTM0OGYxMWJlOGI1`
+Snapshot ID: `MTY2MzI4MjgwMCwwMDAwMDAwMDI5MTY5NjAzMDljYzc4MDRmMWYyOWY2MDljN2I0ZTBh`

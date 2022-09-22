@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-19",
+      "date_removed": null,
       "duration_ms": 965493,
       "name": "1970 Performance",
       "url": "https://open.spotify.com/track/46TXc9N0vQaV0tzYBsLRXS"
@@ -73,7 +73,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-22",
       "duration_ms": 1170680,
       "name": "50/50 Heads (Buchla Piece Head Out)",
       "url": "https://open.spotify.com/track/1TkGqzQIEW5C9J4yAyU3rZ"
@@ -165,7 +165,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-22",
       "duration_ms": 412294,
       "name": "All Creatures Get It",
       "url": "https://open.spotify.com/track/175dH359woZbiN6qTMQdwR"
@@ -227,7 +227,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-22",
       "duration_ms": 180040,
       "name": "Body Stories",
       "url": "https://open.spotify.com/track/7uICRy0IYUKeYQjZojQ2UA"
@@ -311,7 +311,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-22",
       "duration_ms": 160240,
       "name": "Cows, Cows, Cows!",
       "url": "https://open.spotify.com/track/4vvCbnChsEcrbNFjfjaj94"
@@ -605,7 +605,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-22",
       "duration_ms": 199991,
       "name": "Information National Forest",
       "url": "https://open.spotify.com/track/0qaoSyRrXkLz7H2SBMmpvh"
@@ -675,7 +675,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-21",
+      "date_removed": null,
       "duration_ms": 193159,
       "name": "Last Night in the Holocene",
       "url": "https://open.spotify.com/track/7JWRsHoHsEcl2iD8fl0Vru"
@@ -711,7 +711,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-21",
+      "date_removed": null,
       "duration_ms": 909093,
       "name": "Mnemonics I",
       "url": "https://open.spotify.com/track/4eA7uRxadv9cws3A6QfGdN"
@@ -863,7 +863,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-22",
       "duration_ms": 1159800,
       "name": "Once again / Buchla piece",
       "url": "https://open.spotify.com/track/7aYvl8UYWp9SynkYBzGb22"
@@ -1019,7 +1019,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-21",
+      "date_removed": null,
       "duration_ms": 156986,
       "name": "River of Folk Dance",
       "url": "https://open.spotify.com/track/24fiipMerltXpOy7M51hDF"
@@ -1045,7 +1045,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-16",
+      "date_removed": null,
       "duration_ms": 284673,
       "name": "Room At the Inn",
       "url": "https://open.spotify.com/track/6ngAUMaLLjcje2iU17j4Wp"
@@ -1101,7 +1101,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-22",
       "duration_ms": 245384,
       "name": "Several More Happened",
       "url": "https://open.spotify.com/track/14KI3MCgh7scFAQkA5aNBW"
@@ -1155,7 +1155,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-21",
+      "date_removed": null,
       "duration_ms": 1553453,
       "name": "Sound Geometries for Chamber Orchestra, Expanded Instrument System and 5.1 Surround Sound System",
       "url": "https://open.spotify.com/track/1OnyW6LAZqyPD20Ik7x4wL"
@@ -1251,7 +1251,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-20",
+      "date_removed": null,
       "duration_ms": 1651080,
       "name": "Tara's Room",
       "url": "https://open.spotify.com/track/2BcRnZTZbFmvEBSDoBc8z4"
@@ -1305,7 +1305,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-21",
+      "date_removed": null,
       "duration_ms": 1955746,
       "name": "The Day I Disconnected the Erase Head and Forgot to Reconnect It",
       "url": "https://open.spotify.com/track/6qUYhygDMux5rd3Lfkwz00"
@@ -1511,6 +1511,24 @@
           "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
         }
       ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200493,
+      "name": "Three Pieces II",
+      "url": "https://open.spotify.com/track/3pmM2U1ikFeYANSaOfweJF"
+    },
+    {
+      "album": {
+        "name": "Reverberations: Tape & Electronic Music 1961-1970",
+        "url": "https://open.spotify.com/album/4uzsVWdvmqCLjH60WkTMoQ"
+      },
+      "artists": [
+        {
+          "name": "Pauline Oliveros",
+          "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
+        }
+      ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
       "date_removed": null,
@@ -1553,7 +1571,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-22",
       "duration_ms": 1099118,
       "name": "Tremolo No. 6 (Nucleic Chains)",
       "url": "https://open.spotify.com/track/3x4am2JAFIwq5m8PAeYjvV"
@@ -1719,7 +1737,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-22",
       "duration_ms": 301173,
       "name": "Web Doppelganger",
       "url": "https://open.spotify.com/track/1GG18hW2tOOEEMlVjvOvil"

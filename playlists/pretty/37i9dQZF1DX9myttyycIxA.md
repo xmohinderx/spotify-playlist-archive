@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: Jockstrap
 
-[Spotify](https://open.spotify.com/user/spotify) - 266,441 likes - 132 songs - 7 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 266,474 likes - 132 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 41 | [Indie Girls](https://open.spotify.com/track/73TENcqZwgGMDRxqR3sZMl) | [The Real Zebos](https://open.spotify.com/artist/2yx6tPwcJtU5oz7vXAWov7) | [Indie Girls](https://open.spotify.com/album/4qwnOdmtEffELjDXVPWNc4) | 4:04 |
 | 42 | [Chainsaw the Door](https://open.spotify.com/track/1OPM1BmEoywWzFfQxMRj7L) | [The Garden](https://open.spotify.com/artist/4UVlSeEFDPmlkYKaRMRoOz) | [Chainsaw the Door](https://open.spotify.com/album/4QSb6tII3D5Y9BIW2sTMi9) | 2:28 |
 | 43 | [Flake](https://open.spotify.com/track/6uqRFrcyYKVdcxwSJtHOUI) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [Flake](https://open.spotify.com/album/4nAy8xZCkPn9WswSlsm933) | 3:07 |
-| 44 | [lust](https://open.spotify.com/track/4rQfKnYd88L1mu9NEZn1kp) | [zzzahara](https://open.spotify.com/artist/26j38hvhD7PjC0a4EqdaSn) | [lust](https://open.spotify.com/album/5UVCryBuK6Pv0IilUHXqL0) | 2:05 |
+| 44 | [lust](https://open.spotify.com/track/5cGcuoicAC9mVHiey0i0NM) | [zzzahara](https://open.spotify.com/artist/26j38hvhD7PjC0a4EqdaSn) | [cupids out tonight](https://open.spotify.com/album/3acMNe9M2nsFXtfMnAS4B3) | 2:05 |
 | 45 | [Wish](https://open.spotify.com/track/3BQnvX4XaBYmMDfAhtuoZ6) | [girlpuppy](https://open.spotify.com/artist/2dV0D4uKMB4c8VhYHzt360) | [Wish](https://open.spotify.com/album/0dD5lv9nE67MU25iNX7Lsd) | 4:08 |
 | 46 | [Peach](https://open.spotify.com/track/3HHcTqXCKDuUYTCH7ue9K8) | [PONY](https://open.spotify.com/artist/31kZNy2FQoUD4V8LUr9exv) | [Peach](https://open.spotify.com/album/6A6oDzTGOLntd7edj7Cwv0) | 3:29 |
 | 47 | [through your window](https://open.spotify.com/track/0Kw8SXw92PXokAfPPaP2Ot) | [julie](https://open.spotify.com/artist/3VNzWLePg9jTvQ2ximYOzW) | [pg.4 a picture of three hedges/through your window](https://open.spotify.com/album/12TPSTIy5SbQnGRirNzNcB) | 3:44 |
@@ -141,4 +141,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 131 | [Not in the Cards](https://open.spotify.com/track/29QbcQ0P5uD76Uwk9XOxmp) | [The Red Pears](https://open.spotify.com/artist/3FRYBFCNEBWMjk6kvwjHQT) | [You Thought We Left Because The Door Was Open But We Were Waiting Outside](https://open.spotify.com/album/3njVnwW9KBX7kIZDJdA1dS) | 2:08 |
 | 132 | [Once More](https://open.spotify.com/track/3pI9rsup0vcma9YE0PI10t) | [Bathe Alone](https://open.spotify.com/artist/384r9G0NILqkGrQL8IPMkC) | [Once More](https://open.spotify.com/album/33MciQPUWvqtKSCb1WPRG7) | 3:24 |
 
-Snapshot ID: `MTY2MzYxNDU4NiwwMDAwMDAwMGE5OWEwZThkMDJjY2QwZWVmNGIxNzI1YmEyYjFjNTBk`
+Snapshot ID: `MTY2MzYxNDU4NiwwMDAwMDAwMDEyMmE3OTNlODEzNjZjZjE5Zjk5OTUyNDZjOTE4Njlm`

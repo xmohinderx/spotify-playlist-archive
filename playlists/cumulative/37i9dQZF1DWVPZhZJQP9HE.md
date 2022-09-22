@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Vaisagh
 
-184 songs - 11 hr 10 min - [published](https://open.spotify.com/playlist/2PMncOoQzIIDP1bjPCpxj8)
+186 songs - 11 hr 17 min - [published](https://open.spotify.com/playlist/2PMncOoQzIIDP1bjPCpxj8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [Neeyum Naanum \- From "Semohana"](https://open.spotify.com/track/1XRLhwV00MatHBqAJOz8ao) | [I Krish](https://open.spotify.com/artist/0HsG53wzLDOM54t4GMOdfX), [Mangalam Sridhar](https://open.spotify.com/artist/09C86vAsh1zOUZMv2zQEvv) | [Neeyum Naanum \(From "Semohana"\)](https://open.spotify.com/album/2qqeDPF72AGQruMBIOeo8T) | 3:23 | 2022-04-25 | 2022-07-18 |
 | [Nesamaguren](https://open.spotify.com/track/6P8dmbcOEz7XPFQjd1V6d5) | [Stephen Zechariah](https://open.spotify.com/artist/4ONKKiZXVVuz5nAWCUnnjG), [Saindhavi](https://open.spotify.com/artist/6rEXjeIJ0wL6BFdo8CRcit) | [Nesamaguren](https://open.spotify.com/album/4nkEN2RptSMX4WAj45u1SK) | 4:23 | 2021-12-01 |  |
 | [Nigala Pudhu Noodiyea](https://open.spotify.com/track/2DODkyd3QUKlGgtBRW40qX) | [Cliffy Chris](https://open.spotify.com/artist/3vH9XkmE7caYupTZUit2ui), [Anal Akash](https://open.spotify.com/artist/0Sc5IvyroAu9MuC9kFGjaR) | [Nigala Pudhu Noodiyea](https://open.spotify.com/album/4IoONaJfwhdgYAKQBQlHqD) | 2:56 | 2022-01-20 |  |
+| [Nila Sirikirathu](https://open.spotify.com/track/7qhdHW4TyRlWuvS3H8h26f) | [T\. S\. Ayyappan](https://open.spotify.com/artist/5T2ed9WGqsPWsCeUG8wD75) | [Nila](https://open.spotify.com/album/3J3PgzJw7GxKnbAn6NlHac) | 4:31 | 2022-09-21 |  |
 | [Nilave](https://open.spotify.com/track/0bBFHTeJKIqDZruxAGrAsd) | [AJ Shangarjan](https://open.spotify.com/artist/2TVyorJdc9z0nv29BHuS60), [Sugirtharaja Sapesan](https://open.spotify.com/artist/1VVa6EfoRKLOsx744VfO3C) | [Nilave](https://open.spotify.com/album/0Xg3ZLaeQzbhwm3Tk7vZOR) | 3:16 | 2022-05-31 | 2022-07-28 |
 | [NOBODY](https://open.spotify.com/track/5tqMsLGykkIIkTX4We9zJO) | [Stowe Francis](https://open.spotify.com/artist/7FvjLuuGbaJPo0S6KJFmBQ) | [NOBODY](https://open.spotify.com/album/1X0APrHJwYghZuR3KxKd5N) | 2:40 | 2022-03-21 | 2022-05-31 |
 | [Ok Kanmani](https://open.spotify.com/track/37l0opOPNNFZHQpb1ZW8XX) | [Sudharshan Senthilkumar](https://open.spotify.com/artist/12FIsAEo2PTfy3o0fmsoyp) | [Ok Kanmani](https://open.spotify.com/album/7hPZ3wh5SLRbrZdBpXgctu) | 4:25 | 2022-08-11 |  |
@@ -185,6 +186,7 @@
 | [Vena Vena Poo \- From "Valigal"](https://open.spotify.com/track/500jwNLc6tCyJiHvUeIhGG) | [Arjun Heyjay](https://open.spotify.com/artist/4SRG9FDiXqDMispFR31N2g), [Gunaji](https://open.spotify.com/artist/1c8auuyeiow0zClBZgeJWo) | [Vena Vena Poo \(From "Valigal"\)](https://open.spotify.com/album/1jtMDDSWyUI87iyCmLol3S) | 4:22 | 2022-08-17 |  |
 | [Vennilavum Ponninadhiyum \(From "Think Specials"\)](https://open.spotify.com/track/6l0zMrCEPTC1tIHRXqjwg2) | [ADY KRIZ](https://open.spotify.com/artist/4NpYZCwjj6a38XHpYOTbG2), [K\. Sivaangi](https://open.spotify.com/artist/0VocNHCBQ7Mzn9jNOmuSmz) | [Vennilavum Ponninadhiyum \(From "Think Specials"\)](https://open.spotify.com/album/58PYBlSE6mWtDRD5aXPCx8) | 3:13 | 2022-02-03 |  |
 | [Vettai](https://open.spotify.com/track/4iWIMnU0cu45lsEIsG4wlc) | [Shabir](https://open.spotify.com/artist/1rya10vhugXdhuxVDPUwng), [Yogi B](https://open.spotify.com/artist/614RN5ndeqpLlqg1yDbjtm) | [Vettai](https://open.spotify.com/album/7hTKG1aNFbQDr6YY7HZnGz) | 3:23 | 2022-04-05 | 2022-06-18 |
+| [Vilagaadhey](https://open.spotify.com/track/5V6qDweSwZsUjZJ1OEeIwD) | [Rajaganapathy](https://open.spotify.com/artist/2VuJo5b1VcEIruE52GtNLq) | [Vilagaadhey](https://open.spotify.com/album/5dlSNXdJMoIxe9TogHAzR2) | 1:43 | 2022-09-21 |  |
 | [Vizha](https://open.spotify.com/track/3nhlWORU1Zn9j9rNzFO9e2) | [Rishi K](https://open.spotify.com/artist/43IKH64gsHdNOnpTcUbIQj) | [Vizha](https://open.spotify.com/album/4WnsKl21JeKrzpsnuQCLNV) | 2:50 | 2022-08-09 |  |
 | [Vizhu Ezhu \(Original Soundtrack From Get Away\)](https://open.spotify.com/track/5TdCEMpU2BFdnwI3SrSiP7) | [Barath Veeraraghavan](https://open.spotify.com/artist/4ETiJc9RAbA86dY1xqbCcS), [Aishwerya Radhakrishnan](https://open.spotify.com/artist/4vbMPVLk4phK2SiYRsqLCD) | [Vizhu Ezhu \(Original Soundtrack From Get Away\)](https://open.spotify.com/album/0gwQFZ5QUyfFVnLhN1Y8qa) | 2:34 | 2022-07-27 |  |
 | [Yaar Aval](https://open.spotify.com/track/26nKSZ9JA35IvycEPU6yRg) | [Srinisha Jayaseelan](https://open.spotify.com/artist/4fbPpuZDZjzbTdGIwhD45a) | [Yaar Aval \- Single](https://open.spotify.com/album/20jBpXqfoQpgpTM0rvSd4i) | 3:10 | 2022-06-09 |  |

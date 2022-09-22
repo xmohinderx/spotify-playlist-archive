@@ -1,12 +1,12 @@
 {
   "description": "nos fuimos de fiesta \ud83c\udf89 \nCover: Farruko",
-  "num_followers": 941320,
+  "num_followers": 941363,
   "original_name": "Fiesta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTcxNzM0NywwMDAwMDAwMDVlMTI0NDg4NTcyNDUzMTc3YmYyYjNlYjdjNDlhNWY1",
+  "snapshot_id": "MTY1OTcxNzM0NywwMDAwMDAwMGZjODc5NmU1NDQ5Y2VlNTcyMTBhYjg5N2UzNGM3NmEy",
   "tracks": [
     {
       "added_at": "2022-08-05 16:35:47",
@@ -1191,26 +1191,6 @@
     {
       "added_at": "2022-08-05 16:35:47",
       "album": {
-        "name": "Chica Ideal",
-        "url": "https://open.spotify.com/album/7aS92ROK5rixV65VSRGPct"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        },
-        {
-          "name": "Guaynaa",
-          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
-        }
-      ],
-      "duration_ms": 183240,
-      "name": "Chica Ideal",
-      "url": "https://open.spotify.com/track/21N4Buj4xsyLb218lYle61"
-    },
-    {
-      "added_at": "2022-08-05 16:35:47",
-      "album": {
         "name": "Fiel (Remix)",
         "url": "https://open.spotify.com/album/1jBESH0DEFN7z8WH8B0B5c"
       },
@@ -1243,22 +1223,38 @@
     {
       "added_at": "2022-08-05 16:35:47",
       "album": {
-        "name": "Problem\u00f3n",
-        "url": "https://open.spotify.com/album/0A6sjLzd6wPSye48ipLBBj"
+        "name": "Chica Ideal",
+        "url": "https://open.spotify.com/album/7aS92ROK5rixV65VSRGPct"
       },
       "artists": [
         {
-          "name": "Alvaro Diaz",
-          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
         },
         {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+          "name": "Guaynaa",
+          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
         }
       ],
-      "duration_ms": 193013,
-      "name": "Problem\u00f3n",
-      "url": "https://open.spotify.com/track/2Q4MRMnSAMckugCtR5jgXT"
+      "duration_ms": 183240,
+      "name": "Chica Ideal",
+      "url": "https://open.spotify.com/track/21N4Buj4xsyLb218lYle61"
+    },
+    {
+      "added_at": "2022-08-05 16:35:47",
+      "album": {
+        "name": "Ay, DiOs M\u00edo!",
+        "url": "https://open.spotify.com/album/1mMUBQXa70gHyUjK0Q0u63"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 189653,
+      "name": "Ay, DiOs M\u00edo!",
+      "url": "https://open.spotify.com/track/7x4ASXYEKfQBCewcZhK776"
     },
     {
       "added_at": "2022-08-05 16:35:47",
@@ -1283,22 +1279,6 @@
     {
       "added_at": "2022-08-05 16:35:47",
       "album": {
-        "name": "Ay, DiOs M\u00edo!",
-        "url": "https://open.spotify.com/album/1mMUBQXa70gHyUjK0Q0u63"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 189653,
-      "name": "Ay, DiOs M\u00edo!",
-      "url": "https://open.spotify.com/track/7x4ASXYEKfQBCewcZhK776"
-    },
-    {
-      "added_at": "2022-08-05 16:35:47",
-      "album": {
         "name": "De Vuelta Pa' La Vuelta",
         "url": "https://open.spotify.com/album/1mFvOlraT4JKt4D7aGb9tc"
       },
@@ -1315,6 +1295,26 @@
       "duration_ms": 231593,
       "name": "De Vuelta Pa' La Vuelta",
       "url": "https://open.spotify.com/track/7AUhck1sPy11OExQmDDx4P"
+    },
+    {
+      "added_at": "2022-08-05 16:35:47",
+      "album": {
+        "name": "Problem\u00f3n",
+        "url": "https://open.spotify.com/album/0A6sjLzd6wPSye48ipLBBj"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 193013,
+      "name": "Problem\u00f3n",
+      "url": "https://open.spotify.com/track/2Q4MRMnSAMckugCtR5jgXT"
     },
     {
       "added_at": "2022-08-05 16:35:47",
@@ -1839,22 +1839,6 @@
     {
       "added_at": "2022-08-05 16:35:47",
       "album": {
-        "name": "Caf\u00e9 Con Leche",
-        "url": "https://open.spotify.com/album/1WwJMtiIDJLNREM5ldlXRS"
-      },
-      "artists": [
-        {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        }
-      ],
-      "duration_ms": 168323,
-      "name": "Caf\u00e9 Con Leche",
-      "url": "https://open.spotify.com/track/5vXhgXRIUWMD62onAqA5xy"
-    },
-    {
-      "added_at": "2022-08-05 16:35:47",
-      "album": {
         "name": "Now Or Never",
         "url": "https://open.spotify.com/album/1BBjdKgGAqwdEvcvqBOGfT"
       },
@@ -1887,6 +1871,22 @@
       "duration_ms": 417920,
       "name": "Te Bot\u00e9 - Remix",
       "url": "https://open.spotify.com/track/3X5M53Xi5k1SijRtZMM3TA"
+    },
+    {
+      "added_at": "2022-08-05 16:35:47",
+      "album": {
+        "name": "Caf\u00e9 Con Leche",
+        "url": "https://open.spotify.com/album/1WwJMtiIDJLNREM5ldlXRS"
+      },
+      "artists": [
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        }
+      ],
+      "duration_ms": 168323,
+      "name": "Caf\u00e9 Con Leche",
+      "url": "https://open.spotify.com/track/5vXhgXRIUWMD62onAqA5xy"
     },
     {
       "added_at": "2022-08-05 16:35:47",
@@ -2039,30 +2039,6 @@
     {
       "added_at": "2022-08-05 16:35:47",
       "album": {
-        "name": "Dale",
-        "url": "https://open.spotify.com/album/5PZWGWwRwA0PJCET9BwBAm"
-      },
-      "artists": [
-        {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        },
-        {
-          "name": "Sensato",
-          "url": "https://open.spotify.com/artist/7iJrDbKM5fEkGdm5kpjFzS"
-        },
-        {
-          "name": "Osmani Garcia \"La Voz\"",
-          "url": "https://open.spotify.com/artist/37G8DfNgO4mQ3PKh5droSo"
-        }
-      ],
-      "duration_ms": 249800,
-      "name": "El Taxi",
-      "url": "https://open.spotify.com/track/1LbGorB0xOfpiXQJFKB2Nd"
-    },
-    {
-      "added_at": "2022-08-05 16:35:47",
-      "album": {
         "name": "Definitivamente",
         "url": "https://open.spotify.com/album/6pJLqbnEE1gjMZ15dpi1cH"
       },
@@ -2099,6 +2075,30 @@
       "duration_ms": 212711,
       "name": "Qu\u00e9 Pena",
       "url": "https://open.spotify.com/track/5099x34vBakWpGkHourFxP"
+    },
+    {
+      "added_at": "2022-08-05 16:35:47",
+      "album": {
+        "name": "Dale",
+        "url": "https://open.spotify.com/album/5PZWGWwRwA0PJCET9BwBAm"
+      },
+      "artists": [
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "Sensato",
+          "url": "https://open.spotify.com/artist/7iJrDbKM5fEkGdm5kpjFzS"
+        },
+        {
+          "name": "Osmani Garcia \"La Voz\"",
+          "url": "https://open.spotify.com/artist/37G8DfNgO4mQ3PKh5droSo"
+        }
+      ],
+      "duration_ms": 249800,
+      "name": "El Taxi",
+      "url": "https://open.spotify.com/track/1LbGorB0xOfpiXQJFKB2Nd"
     },
     {
       "added_at": "2022-08-05 16:35:47",
@@ -2223,30 +2223,6 @@
     {
       "added_at": "2022-08-05 16:35:47",
       "album": {
-        "name": "No Lo Trates",
-        "url": "https://open.spotify.com/album/4K6B1KumSxNR0SfbLk66N9"
-      },
-      "artists": [
-        {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "Natti Natasha",
-          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
-        }
-      ],
-      "duration_ms": 198453,
-      "name": "No Lo Trates",
-      "url": "https://open.spotify.com/track/4gqMVEJSaL5nNeKj5WmVoT"
-    },
-    {
-      "added_at": "2022-08-05 16:35:47",
-      "album": {
         "name": "Muchacha",
         "url": "https://open.spotify.com/album/1ToC2cIeaKdchZVfx6P3Mj"
       },
@@ -2319,6 +2295,30 @@
       "duration_ms": 188480,
       "name": "Hasta Que Salga el Sol",
       "url": "https://open.spotify.com/track/0dDboLfmRNsTBscy4j3Rnl"
+    },
+    {
+      "added_at": "2022-08-05 16:35:47",
+      "album": {
+        "name": "No Lo Trates",
+        "url": "https://open.spotify.com/album/4K6B1KumSxNR0SfbLk66N9"
+      },
+      "artists": [
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Natti Natasha",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        }
+      ],
+      "duration_ms": 198453,
+      "name": "No Lo Trates",
+      "url": "https://open.spotify.com/track/4gqMVEJSaL5nNeKj5WmVoT"
     },
     {
       "added_at": "2022-08-05 16:35:47",

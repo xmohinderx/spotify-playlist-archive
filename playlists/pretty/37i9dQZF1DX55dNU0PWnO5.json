@@ -1,12 +1,12 @@
 {
   "description": "Jazzy blips and blops. Cover: Kansado",
-  "num_followers": 533701,
+  "num_followers": 533737,
   "original_name": "Jazztronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMwMDg2MCwwMDAwMDAwMDAyZTlkMjFjYzlmZGNjZDllM2Y1MThlMzUxMDI4YTA1",
+  "snapshot_id": "MTY2MzMwMDg2MCwwMDAwMDAwMGY4ZDIxYTZmY2VkYzdmYmE2M2VhMWI4ZDc1ZGJkM2Nj",
   "tracks": [
     {
       "added_at": "2022-09-16 04:01:00",
@@ -649,22 +649,6 @@
       "url": "https://open.spotify.com/track/6YQ0EXjwQWT263njOeoe8S"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
-      "album": {
-        "name": "Seventh Wonder",
-        "url": "https://open.spotify.com/album/2tAKWf8odVUWee488RX9tM"
-      },
-      "artists": [
-        {
-          "name": "Tenderlonious",
-          "url": "https://open.spotify.com/artist/5D1w6T6H7pnRDQZIrhwlxo"
-        }
-      ],
-      "duration_ms": 207707,
-      "name": "Seventh Wonder",
-      "url": "https://open.spotify.com/track/1FKTKsoFiaIaQL6vlr4JEJ"
-    },
-    {
       "added_at": "2021-04-02 05:01:00",
       "album": {
         "name": "Between Days",
@@ -681,24 +665,20 @@
       "url": "https://open.spotify.com/track/6fHHWT7Vfdv71c70PHp5wq"
     },
     {
-      "added_at": "2022-04-01 04:02:00",
+      "added_at": "2022-09-02 04:02:00",
       "album": {
-        "name": "Tin Tin Deo (NerdStar Remix)",
-        "url": "https://open.spotify.com/album/1yz4dzReaybBDpWc4E0Yzy"
+        "name": "Seventh Wonder",
+        "url": "https://open.spotify.com/album/2tAKWf8odVUWee488RX9tM"
       },
       "artists": [
         {
-          "name": "Dizzy Gillespie",
-          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
-        },
-        {
-          "name": "NerdStar",
-          "url": "https://open.spotify.com/artist/33ogCwkYhG2zUzynyFzKGw"
+          "name": "Tenderlonious",
+          "url": "https://open.spotify.com/artist/5D1w6T6H7pnRDQZIrhwlxo"
         }
       ],
-      "duration_ms": 202900,
-      "name": "Tin Tin Deo - NerdStar Remix",
-      "url": "https://open.spotify.com/track/6MpFDEgG4ehiQUI7VMSWfB"
+      "duration_ms": 207707,
+      "name": "Seventh Wonder",
+      "url": "https://open.spotify.com/track/1FKTKsoFiaIaQL6vlr4JEJ"
     },
     {
       "added_at": "2022-04-15 04:01:00",
@@ -721,24 +701,24 @@
       "url": "https://open.spotify.com/track/0EncdyFKNletEI25jFT3Ao"
     },
     {
-      "added_at": "2022-07-05 15:03:47",
+      "added_at": "2022-04-01 04:02:00",
       "album": {
-        "name": "Elegua",
-        "url": "https://open.spotify.com/album/3ewE7SWKWZsinOOCMqrgLA"
+        "name": "Tin Tin Deo (NerdStar Remix)",
+        "url": "https://open.spotify.com/album/1yz4dzReaybBDpWc4E0Yzy"
       },
       "artists": [
         {
-          "name": "Huey Daze",
-          "url": "https://open.spotify.com/artist/5WWaSxxDu0B6pDpeZJke3Y"
+          "name": "Dizzy Gillespie",
+          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
         },
         {
-          "name": "Harold L\u00f3pez-Nussa",
-          "url": "https://open.spotify.com/artist/0Idg159PTZKon9ZGAeCLjR"
+          "name": "NerdStar",
+          "url": "https://open.spotify.com/artist/33ogCwkYhG2zUzynyFzKGw"
         }
       ],
-      "duration_ms": 148500,
-      "name": "Elegua",
-      "url": "https://open.spotify.com/track/6hrqOEr7Si0SXVFPvfa3Vq"
+      "duration_ms": 202900,
+      "name": "Tin Tin Deo - NerdStar Remix",
+      "url": "https://open.spotify.com/track/6MpFDEgG4ehiQUI7VMSWfB"
     },
     {
       "added_at": "2021-06-18 04:01:00",
@@ -781,20 +761,40 @@
       "url": "https://open.spotify.com/track/7gmBN587F9l6jUfcXnqGuq"
     },
     {
-      "added_at": "2022-08-26 04:02:00",
+      "added_at": "2022-07-05 15:03:47",
       "album": {
-        "name": "Ancient Delta",
-        "url": "https://open.spotify.com/album/2iOdIK10OleEonLl4phDyP"
+        "name": "Elegua",
+        "url": "https://open.spotify.com/album/3ewE7SWKWZsinOOCMqrgLA"
       },
       "artists": [
         {
-          "name": "Elusive",
-          "url": "https://open.spotify.com/artist/3omtF8ft7xflvmvfO5WUjI"
+          "name": "Huey Daze",
+          "url": "https://open.spotify.com/artist/5WWaSxxDu0B6pDpeZJke3Y"
+        },
+        {
+          "name": "Harold L\u00f3pez-Nussa",
+          "url": "https://open.spotify.com/artist/0Idg159PTZKon9ZGAeCLjR"
         }
       ],
-      "duration_ms": 133717,
-      "name": "Ancient Delta",
-      "url": "https://open.spotify.com/track/3UWxF4IfvfgZSbm3HnSYdW"
+      "duration_ms": 148500,
+      "name": "Elegua",
+      "url": "https://open.spotify.com/track/6hrqOEr7Si0SXVFPvfa3Vq"
+    },
+    {
+      "added_at": "2021-07-23 04:01:00",
+      "album": {
+        "name": "Turkish Delight",
+        "url": "https://open.spotify.com/album/0Ywe3TYOzHLCKpkhQkkNYm"
+      },
+      "artists": [
+        {
+          "name": "Carsten Rubeling",
+          "url": "https://open.spotify.com/artist/3QmUu8ApUCQAaGrc0Riv6Y"
+        }
+      ],
+      "duration_ms": 240540,
+      "name": "Turkish Delight",
+      "url": "https://open.spotify.com/track/2REjRtNDCn61o7cafbTCaA"
     },
     {
       "added_at": "2021-06-11 04:01:00",
@@ -849,20 +849,20 @@
       "url": "https://open.spotify.com/track/63KBUxunksAInY8IP2e15L"
     },
     {
-      "added_at": "2021-07-23 04:01:00",
+      "added_at": "2022-08-26 04:02:00",
       "album": {
-        "name": "Turkish Delight",
-        "url": "https://open.spotify.com/album/0Ywe3TYOzHLCKpkhQkkNYm"
+        "name": "Ancient Delta",
+        "url": "https://open.spotify.com/album/2iOdIK10OleEonLl4phDyP"
       },
       "artists": [
         {
-          "name": "Carsten Rubeling",
-          "url": "https://open.spotify.com/artist/3QmUu8ApUCQAaGrc0Riv6Y"
+          "name": "Elusive",
+          "url": "https://open.spotify.com/artist/3omtF8ft7xflvmvfO5WUjI"
         }
       ],
-      "duration_ms": 240540,
-      "name": "Turkish Delight",
-      "url": "https://open.spotify.com/track/2REjRtNDCn61o7cafbTCaA"
+      "duration_ms": 133717,
+      "name": "Ancient Delta",
+      "url": "https://open.spotify.com/track/3UWxF4IfvfgZSbm3HnSYdW"
     },
     {
       "added_at": "2021-02-26 00:47:37",
@@ -921,22 +921,6 @@
       "url": "https://open.spotify.com/track/1L7dfBB7v2rAegNsxlawEv"
     },
     {
-      "added_at": "2021-05-14 04:01:00",
-      "album": {
-        "name": "Golden",
-        "url": "https://open.spotify.com/album/6HcBxM1cROud6gVZ5jXv49"
-      },
-      "artists": [
-        {
-          "name": "BlackLight",
-          "url": "https://open.spotify.com/artist/4GoCR0cSV4uOMulnVSWd5h"
-        }
-      ],
-      "duration_ms": 466627,
-      "name": "Golden",
-      "url": "https://open.spotify.com/track/31ARMQ42WOpH3vEObeEbQE"
-    },
-    {
       "added_at": "2021-06-11 04:01:00",
       "album": {
         "name": "Kick Snare Cat",
@@ -955,6 +939,22 @@
       "duration_ms": 228000,
       "name": "Kick Snare Cat",
       "url": "https://open.spotify.com/track/2JFpgWOy29AVCrGtUrVhNM"
+    },
+    {
+      "added_at": "2021-05-14 04:01:00",
+      "album": {
+        "name": "Golden",
+        "url": "https://open.spotify.com/album/6HcBxM1cROud6gVZ5jXv49"
+      },
+      "artists": [
+        {
+          "name": "BlackLight",
+          "url": "https://open.spotify.com/artist/4GoCR0cSV4uOMulnVSWd5h"
+        }
+      ],
+      "duration_ms": 466627,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/31ARMQ42WOpH3vEObeEbQE"
     },
     {
       "added_at": "2021-01-29 05:01:00",
@@ -1065,22 +1065,6 @@
       "url": "https://open.spotify.com/track/74nIuOVn5UfOD0PkLTFWV9"
     },
     {
-      "added_at": "2022-04-11 13:55:08",
-      "album": {
-        "name": "Stimuli",
-        "url": "https://open.spotify.com/album/0psVZXIsZoKdGPqguLh7tt"
-      },
-      "artists": [
-        {
-          "name": "Elusive",
-          "url": "https://open.spotify.com/artist/3omtF8ft7xflvmvfO5WUjI"
-        }
-      ],
-      "duration_ms": 144469,
-      "name": "Chem Dawg",
-      "url": "https://open.spotify.com/track/10yVMcoCxnfU0xCIsXZZkN"
-    },
-    {
       "added_at": "2022-05-20 04:01:00",
       "album": {
         "name": "SAMURAI",
@@ -1095,6 +1079,22 @@
       "duration_ms": 716744,
       "name": "SAMURAI - 2022 version",
       "url": "https://open.spotify.com/track/3lr6p7ELCMXMfxGJgh3FBu"
+    },
+    {
+      "added_at": "2022-04-11 13:55:08",
+      "album": {
+        "name": "Stimuli",
+        "url": "https://open.spotify.com/album/0psVZXIsZoKdGPqguLh7tt"
+      },
+      "artists": [
+        {
+          "name": "Elusive",
+          "url": "https://open.spotify.com/artist/3omtF8ft7xflvmvfO5WUjI"
+        }
+      ],
+      "duration_ms": 144469,
+      "name": "Chem Dawg",
+      "url": "https://open.spotify.com/track/10yVMcoCxnfU0xCIsXZZkN"
     },
     {
       "added_at": "2021-07-09 04:02:00",
@@ -1301,6 +1301,22 @@
       "url": "https://open.spotify.com/track/5gFgGj8ShXvq8PXs9tTc0F"
     },
     {
+      "added_at": "2021-06-18 04:01:00",
+      "album": {
+        "name": "Tomorrow 1972",
+        "url": "https://open.spotify.com/album/5iVtMJKymmpDmi0CerLAKG"
+      },
+      "artists": [
+        {
+          "name": "Dosh",
+          "url": "https://open.spotify.com/artist/1DLrhgKEsP9M64oMmboEPz"
+        }
+      ],
+      "duration_ms": 371029,
+      "name": "If U Strike Me Down",
+      "url": "https://open.spotify.com/track/2zvvOFRIBql3NfIO9hWNyk"
+    },
+    {
       "added_at": "2021-09-24 04:02:00",
       "album": {
         "name": "Excursions",
@@ -1331,26 +1347,6 @@
       "duration_ms": 347368,
       "name": "Carlyle Clyde",
       "url": "https://open.spotify.com/track/4TeQP19oy8NogZs0RxB4v1"
-    },
-    {
-      "added_at": "2022-04-29 04:02:00",
-      "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/1laf5dN62CLTu4CS5l75sL"
-      },
-      "artists": [
-        {
-          "name": "Natty Rico",
-          "url": "https://open.spotify.com/artist/4XjCsLo0E4017wblpE9BDL"
-        },
-        {
-          "name": "Bruce Kirkwood",
-          "url": "https://open.spotify.com/artist/7DEYcn5PNJZN26ElHcrIdg"
-        }
-      ],
-      "duration_ms": 193182,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/2ytUcMU7LhM9J38Ydh1QXs"
     },
     {
       "added_at": "2022-01-14 05:01:00",
@@ -1393,6 +1389,22 @@
       "url": "https://open.spotify.com/track/5CpLMTxOyxmOHFEKg1o3Fn"
     },
     {
+      "added_at": "2021-05-28 04:00:00",
+      "album": {
+        "name": "Inner Inference",
+        "url": "https://open.spotify.com/album/79JW1zl00WpwrqDZcVnBtT"
+      },
+      "artists": [
+        {
+          "name": "Cumulus Frisbee",
+          "url": "https://open.spotify.com/artist/673QByL1fEcoAMYdHc452d"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Inner Inference",
+      "url": "https://open.spotify.com/track/32uvNS0ih528wPtjz4z9JN"
+    },
+    {
       "added_at": "2021-08-27 04:01:00",
       "album": {
         "name": "Typhoon",
@@ -1421,38 +1433,6 @@
       "url": "https://open.spotify.com/track/3f5CmDMjox3b3xB7h9kcRu"
     },
     {
-      "added_at": "2021-06-18 04:01:00",
-      "album": {
-        "name": "Tomorrow 1972",
-        "url": "https://open.spotify.com/album/5iVtMJKymmpDmi0CerLAKG"
-      },
-      "artists": [
-        {
-          "name": "Dosh",
-          "url": "https://open.spotify.com/artist/1DLrhgKEsP9M64oMmboEPz"
-        }
-      ],
-      "duration_ms": 371029,
-      "name": "If U Strike Me Down",
-      "url": "https://open.spotify.com/track/2zvvOFRIBql3NfIO9hWNyk"
-    },
-    {
-      "added_at": "2021-05-28 04:00:00",
-      "album": {
-        "name": "Inner Inference",
-        "url": "https://open.spotify.com/album/79JW1zl00WpwrqDZcVnBtT"
-      },
-      "artists": [
-        {
-          "name": "Cumulus Frisbee",
-          "url": "https://open.spotify.com/artist/673QByL1fEcoAMYdHc452d"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Inner Inference",
-      "url": "https://open.spotify.com/track/32uvNS0ih528wPtjz4z9JN"
-    },
-    {
       "added_at": "2021-02-19 05:01:00",
       "album": {
         "name": "PPL -PingPongLounge-",
@@ -1467,6 +1447,26 @@
       "duration_ms": 114078,
       "name": "PPL -PingPongLounge-",
       "url": "https://open.spotify.com/track/6R17xq1j6flSOItyKYpNoM"
+    },
+    {
+      "added_at": "2022-04-29 04:02:00",
+      "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/1laf5dN62CLTu4CS5l75sL"
+      },
+      "artists": [
+        {
+          "name": "Natty Rico",
+          "url": "https://open.spotify.com/artist/4XjCsLo0E4017wblpE9BDL"
+        },
+        {
+          "name": "Bruce Kirkwood",
+          "url": "https://open.spotify.com/artist/7DEYcn5PNJZN26ElHcrIdg"
+        }
+      ],
+      "duration_ms": 193182,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/2ytUcMU7LhM9J38Ydh1QXs"
     },
     {
       "added_at": "2021-10-22 04:02:00",

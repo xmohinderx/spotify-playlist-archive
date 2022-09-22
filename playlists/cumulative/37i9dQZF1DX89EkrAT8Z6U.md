@@ -4,11 +4,12 @@
 
 > the perfect fight scene
 
-130 songs - 5 hr 57 min - [published](https://open.spotify.com/playlist/0PIQ3YDGdAmBdhFTNGvmEh)
+131 songs - 5 hr 59 min - [published](https://open.spotify.com/playlist/0PIQ3YDGdAmBdhFTNGvmEh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2K FREESTYLE](https://open.spotify.com/track/612dHPI0OoOsvWkweHXZXF) | [Lazy3x](https://open.spotify.com/artist/02wrovsROEQpMXNTxk8uHI), [Lil Darkie](https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U) | [2K FREESTYLE](https://open.spotify.com/album/0LvjRRFJxjZpzlJ8QOwwhm) | 3:33 | 2022-05-25 |  |
+| [90mh](https://open.spotify.com/track/2wzPI8E6xhswusjuFAP7rW) | [love shayla](https://open.spotify.com/artist/0SLChsZNfgO7zbH3gevHvE) | [90mh](https://open.spotify.com/album/2fVFQwzs6D0PSfUiXWkfZA) | 2:23 | 2022-09-15 |  |
 | [90mh](https://open.spotify.com/track/3Njj92H4LXQq551pOR7vZE) | [love shayla](https://open.spotify.com/artist/0SLChsZNfgO7zbH3gevHvE) | [90mh](https://open.spotify.com/album/5QehQyl95YcyakJAjvOdw2) | 2:23 | 2022-08-05 | 2022-09-09 |
 | [90mh](https://open.spotify.com/track/1VxvGm1moDJ3svQlwjdBwA) | [Trefuego](https://open.spotify.com/artist/4HQfNWcXe8k5dlMHx4QrTP) | [90mh](https://open.spotify.com/album/7FwOvQz127KJx1S2bYkrJc) | 2:23 | 2022-06-10 | 2022-09-19 |
 | [99.9](https://open.spotify.com/track/4cHqWNDNrgCu6PbUZcgUxP) | [MOB CHOIR](https://open.spotify.com/artist/5HZsYhRCMH3zR0yndRcLVw), [sajou no hana](https://open.spotify.com/artist/014bW80BPmy5WVcFBoHwNq) | [99.9](https://open.spotify.com/album/5sjhfZ28ERosz4yEraPQ8V) | 3:08 | 2022-09-02 | 2022-09-15 |
@@ -46,7 +47,7 @@
 | [GO!!!](https://open.spotify.com/track/30WNOfFRiqgebO4eRkCii8) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [GAME](https://open.spotify.com/album/2qy7Hzhs2blyL2zuXsHIsC) | 3:56 | 2022-07-08 | 2022-09-03 |
 | [GODBREAKER](https://open.spotify.com/track/6IvI7Zs2Ca3QIecWc6YSyP) | [Jamar Rose](https://open.spotify.com/artist/5eRDVS3cobE2WOM8xrjdOw), [Shwabadi](https://open.spotify.com/artist/7CCLirH6tIf750hgYn1Y4X) | [PLOT TWIST](https://open.spotify.com/album/4JP8a119U8yQm6ttb0JsAB) | 2:33 | 2022-05-25 | 2022-07-20 |
 | [GOSHA](https://open.spotify.com/track/0j8ppsOOawdPCJnSTcXgOy) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [\- TRAGEDY +](https://open.spotify.com/album/4UNZOq7e8WjnfaYm2rkltE) | 2:00 | 2022-05-25 |  |
-| [Gxth B!tch](https://open.spotify.com/track/47waplZLdcwNwtVUtQI9h8) | [Live Solum](https://open.spotify.com/artist/24wU3BBK0ZKIiSZq3zi9ZV) | [Gxth B!tch](https://open.spotify.com/album/6l54NDbgveDA1Lboi9xoBd) | 1:56 | 2022-06-10 |  |
+| [Gxth B!tch](https://open.spotify.com/track/47waplZLdcwNwtVUtQI9h8) | [Live Solum](https://open.spotify.com/artist/24wU3BBK0ZKIiSZq3zi9ZV) | [Gxth B!tch](https://open.spotify.com/album/6l54NDbgveDA1Lboi9xoBd) | 1:56 | 2022-06-10 | 2022-09-22 |
 | [Hatchback](https://open.spotify.com/track/18lkWhwmY0fVVv40eCxohv) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [Benbow Crescent](https://open.spotify.com/album/3QXYqRVyBQfNK3MDn82hVF) | 2:29 | 2022-05-25 |  |
 | [HDMI](https://open.spotify.com/track/7I4ibsZgwuf46g0xHuTC8s) | [BONES](https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN) | [Rotten](https://open.spotify.com/album/2jgKK8iIX83mPrCyDhvEdf) | 2:19 | 2022-05-25 |  |
 | [Heat Signature](https://open.spotify.com/track/1GssCptrx184Jcnki9ynvb) | [do not resurrect](https://open.spotify.com/artist/0QRp7CyL31iErUn6cX0YU3) | [Heat Signature](https://open.spotify.com/album/2RovCyMajVvGr1rhHOp1cz) | 2:00 | 2022-05-27 |  |

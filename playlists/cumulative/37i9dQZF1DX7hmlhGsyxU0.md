@@ -4,7 +4,7 @@
 
 > Strings and pianos to accompany your latest great read.
 
-146 songs - 7 hr 54 min - [published](https://open.spotify.com/playlist/0GsI4xWiRgp8I8ghyrsDS8)
+147 songs - 7 hr 58 min - [published](https://open.spotify.com/playlist/0GsI4xWiRgp8I8ghyrsDS8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Colin](https://open.spotify.com/track/1Bd5aIOYLMyxvI4FtG08x9) | [Las Desorden](https://open.spotify.com/artist/05Vq9YRP30tBWRiSR7mUV3) | [Colin](https://open.spotify.com/album/2naNvERtXmruzo0nxV4pWR) | 2:43 | 2022-09-02 |  |
 | [Composite 03](https://open.spotify.com/track/33s1LqCz2TSaiSpcqdffu5) | [Thrupence](https://open.spotify.com/artist/33WEbJHirq23bohapH3pI9), [Josh Hooke](https://open.spotify.com/artist/1X0yIDVrFaFeYmAqp0ETUj), [Jack Vanzet](https://open.spotify.com/artist/3Q4bHGAfG5KexzVaWE4fnf) | [Composites](https://open.spotify.com/album/1GgxB4FcIhKrnrbG5qfVrU) | 3:43 | 2022-04-01 |  |
 | [Contreaux n 2](https://open.spotify.com/track/24gu9GaUkYQ4AzezRi0P7Q) | [Dustin O'Halloran](https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq) | [Other Lights](https://open.spotify.com/album/1Va8CigySsDYYoQiRneEwb) | 4:22 | 2022-04-01 | 2022-06-25 |
-| [Dead Heart](https://open.spotify.com/track/7nRLXtBmT5YyeiRclU3Btj) | [Martin Czerny](https://open.spotify.com/artist/3dKnHhya1g24Mwljr9jbDu) | [Sad Cello & Piano XXII](https://open.spotify.com/album/1Zd0oRtoHZa6HTQ7f0diiZ) | 2:12 | 2022-04-01 |  |
+| [Dead Heart](https://open.spotify.com/track/7nRLXtBmT5YyeiRclU3Btj) | [Martin Czerny](https://open.spotify.com/artist/3dKnHhya1g24Mwljr9jbDu) | [Sad Cello & Piano XXII](https://open.spotify.com/album/1Zd0oRtoHZa6HTQ7f0diiZ) | 2:12 | 2022-04-01 | 2022-09-22 |
 | [Delicately](https://open.spotify.com/track/4hL2tCFmEkRBfaVsZ8G7lC) | [Jim Perkins](https://open.spotify.com/artist/6ihM9B0SRS5Xcvsw03Y1Vi), [Javi Lobe](https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT), [Anna De Bruin](https://open.spotify.com/artist/1VE5Yi7cxQZsCF044htLO4) | [Delicately](https://open.spotify.com/album/7yh6bUD0zf7uDGeufUHh85) | 2:03 | 2022-05-20 |  |
 | [Drifter](https://open.spotify.com/track/0R7jFHY8XqC6eR8zG97F8P) | [Takaaki Izumi](https://open.spotify.com/artist/240xN4Tp3Sbkj9XxinXV3p) | [Life](https://open.spotify.com/album/1WVRKTH7HF7Sk0WAvSpMry) | 2:37 | 2022-04-01 | 2022-07-29 |
 | [Drifter](https://open.spotify.com/track/5qylsVTG6k9vStN40LcpwW) | [Takaaki Izumi](https://open.spotify.com/artist/240xN4Tp3Sbkj9XxinXV3p) | [Life](https://open.spotify.com/album/3Ly89MLIwLM1ECNLJUTJRa) | 2:37 | 2022-07-29 |  |
@@ -115,6 +115,7 @@
 | [Reverie](https://open.spotify.com/track/4G39FyOiUeoavXx25UaGYu) | [Jacob Ladegaard](https://open.spotify.com/artist/0P1gppJojvkXlXJ8qlphKm), [Jacob's Piano](https://open.spotify.com/artist/7aKABlGTdOJkSML40kD64b) | [The Spheres Collection](https://open.spotify.com/album/6dWViRQjzBsIRMB837s485) | 4:54 | 2022-06-03 |  |
 | [Révérence: II](https://open.spotify.com/track/40oOziI2wSurGAEtUvMnjX) | [Philippe Paquet](https://open.spotify.com/artist/76yzplVSMxGaFLhoE9hMbg), [Eva Lachhar](https://open.spotify.com/artist/7qUx8RAi7NzZsROM16s1op), [Marilou Lepage](https://open.spotify.com/artist/36NFtKVrVItl5OvKNYGl8w), [Samuel Pronovost](https://open.spotify.com/artist/0my41BvRjt8tQjiSVOWUr6) | [Révérence](https://open.spotify.com/album/3fNgpkCfWlGYWWOai9gS1P) | 6:21 | 2022-04-01 | 2022-09-03 |
 | [Rêverie](https://open.spotify.com/track/4VAjZUJSihI7cKpuP8mJRy) | [Jack Hopkins](https://open.spotify.com/artist/0RwM3W2gHbLUjWhdF35JtV) | [Rêverie](https://open.spotify.com/album/2RKHY2zuVqYuI6XXOVeLRK) | 3:52 | 2022-04-01 |  |
+| [Save Your Tears](https://open.spotify.com/track/6HZNaBGl5N7OWCyntPYjgi) | [Dorette Roos](https://open.spotify.com/artist/7jKYBIGfuGvN2Jsvu5qGGX) | [Save Your Tears](https://open.spotify.com/album/6THGTBys7V3VsuL4PvHNt8) | 3:34 | 2022-09-02 |  |
 | [Senescence](https://open.spotify.com/track/7pQkpJimqzPhaHr0NkUfbN) | [Anders Schill Paulsen](https://open.spotify.com/artist/7tQfGq1cmYQtZwNKs6Cq8b) | [Senescence](https://open.spotify.com/album/6HuZbUCZcimxQfPf3xsCTL) | 2:22 | 2022-06-24 | 2022-07-29 |
 | [September Winds](https://open.spotify.com/track/1azQ2kty7l8fY41ON2PseU) | [Paul Cardall](https://open.spotify.com/artist/7FQRbf8gbKw8KZQZAJWxH2) | [September Winds](https://open.spotify.com/album/3Qflkxt8CZCgRyR1dbL8cN) | 3:48 | 2022-04-01 |  |
 | [Ser A Ti](https://open.spotify.com/track/6rDxnznYVvGb0vFkgsBmmE) | [Hondos Rostros](https://open.spotify.com/artist/1GkARSHIynvDFV4eyUZvhC) | [Ser A Ti](https://open.spotify.com/album/0nC9dugAMHACUJQ6GSTZFB) | 3:34 | 2022-07-15 |  |

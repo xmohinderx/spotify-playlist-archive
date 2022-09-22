@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KGZxcPEEqa.md) - [plain]
 
 > Digging deep into the history of 10s pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,856 likes - 400 songs - 23 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,928 likes - 400 songs - 23 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -305,8 +305,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KGZxcPEEqa.md) - [plain]
 | 295 | [I Said Hi](https://open.spotify.com/track/2MuOQdl7uyEteKYCQtG4XE) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [I Said Hi](https://open.spotify.com/album/6XzwQObXzn3JgzuOcIAgUQ) | 2:48 |
 | 296 | [Coloring](https://open.spotify.com/track/6OtjKr7zn85Krff67wJuxJ) | [Kevin Garrett](https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E) | [Mellow Drama](https://open.spotify.com/album/2u0dSRYohsq8lCCZejHKxx) | 3:39 |
 | 297 | [Strong](https://open.spotify.com/track/0QMK2WVjKy3iKdqajgDB1P) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [If You Wait](https://open.spotify.com/album/2J4dwQHk8EZKPKGhM1EzOU) | 4:25 |
-| 298 | [Sound of Silence](https://open.spotify.com/track/2b9czDPSLTI88694CIqCy3) | [Dami Im](https://open.spotify.com/artist/2wSrZOe6YVo6XoKma22sdY) | [Sound of Silence](https://open.spotify.com/album/4v6nXxsfpkBpUA9PEAh7nj) | 3:15 |
-| 299 | [Breathe](https://open.spotify.com/track/2IQHkgihsAvSxuCh7uwikt) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Party's Over](https://open.spotify.com/album/60KRe9g5BKUHGVskhcRhBY) | 3:31 |
+| 298 | [Breathe](https://open.spotify.com/track/2IQHkgihsAvSxuCh7uwikt) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Party's Over](https://open.spotify.com/album/60KRe9g5BKUHGVskhcRhBY) | 3:31 |
+| 299 | [Sound of Silence](https://open.spotify.com/track/2b9czDPSLTI88694CIqCy3) | [Dami Im](https://open.spotify.com/artist/2wSrZOe6YVo6XoKma22sdY) | [Sound of Silence](https://open.spotify.com/album/4v6nXxsfpkBpUA9PEAh7nj) | 3:15 |
 | 300 | [True Colors](https://open.spotify.com/track/71qR03VPn762lG8esdRmkR) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [True Colors](https://open.spotify.com/album/6eO9acZ2wp9WkhVzOHrvgJ) | 3:44 |
 | 301 | [Remember I Told You](https://open.spotify.com/track/5T9G49pXWTV7SHMSksvfL4) | [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Mike Posner](https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa) | [Remember I Told You](https://open.spotify.com/album/0lYa015i9HoxN6OstbDgOj) | 3:21 |
 | 302 | [Growing Pains](https://open.spotify.com/track/003eoIwxETJujVWmNFMoZy) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Growing Pains](https://open.spotify.com/album/3mzHuQmDLVuecodQNKUd0T) | 3:13 |
@@ -342,16 +342,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KGZxcPEEqa.md) - [plain]
 | 332 | [Alone Again \- Original Mix](https://open.spotify.com/track/04K3bUcBuX5OuebYv7JbJS) | [Alyssa Reid](https://open.spotify.com/artist/6okAv2ACUPrUrwux2B17Rc), [Jump Smokers](https://open.spotify.com/artist/5I7l0lSOyusetwCv1aQPMf) | [The Game](https://open.spotify.com/album/6Jvcl6gi6HgEQGnAUkvvB8) | 3:47 |
 | 333 | [Miracle](https://open.spotify.com/track/2Kc1WhZsBbR2ZLbSyv83hO) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Love Is Dead](https://open.spotify.com/album/4ePbJdHu99l50AwUnG1baG) | 3:08 |
 | 334 | [Clown](https://open.spotify.com/track/0EGVOnw876hry5JOK0ZaeV) | [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [Our Version Of Events](https://open.spotify.com/album/3bPrapL1DmFkznWnTb7xNz) | 3:41 |
-| 335 | [Recovering](https://open.spotify.com/track/2i5cEE9nhkYDL2B2p5F1zu) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Recovering](https://open.spotify.com/album/6mVwTXNFp23BWUZW848DtU) | 3:24 |
-| 336 | [Champagne Problems](https://open.spotify.com/track/0HqkqqlMMKeyhC3I7mNV7b) | [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi) | [Last Year Was Complicated](https://open.spotify.com/album/4Yww2EYetseL1eL2YuvLna) | 3:12 |
-| 337 | [Make Me Like You](https://open.spotify.com/track/3AIOGUttDrVfuAvP1kotP9) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [This Is What The Truth Feels Like \(Deluxe\)](https://open.spotify.com/album/4axtAJxO6n73s5ZGBxWAio) | 3:36 |
-| 338 | [Higher](https://open.spotify.com/track/3MXDEDLmQPSQvoyJIYbIp3) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [EMOTION SIDE B](https://open.spotify.com/album/31776n0a6xHYMHSlK4983u) | 3:54 |
+| 335 | [Champagne Problems](https://open.spotify.com/track/0HqkqqlMMKeyhC3I7mNV7b) | [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi) | [Last Year Was Complicated](https://open.spotify.com/album/4Yww2EYetseL1eL2YuvLna) | 3:12 |
+| 336 | [Recovering](https://open.spotify.com/track/2i5cEE9nhkYDL2B2p5F1zu) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Recovering](https://open.spotify.com/album/6mVwTXNFp23BWUZW848DtU) | 3:24 |
+| 337 | [Higher](https://open.spotify.com/track/3MXDEDLmQPSQvoyJIYbIp3) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [EMOTION SIDE B](https://open.spotify.com/album/31776n0a6xHYMHSlK4983u) | 3:54 |
+| 338 | [Make Me Like You](https://open.spotify.com/track/3AIOGUttDrVfuAvP1kotP9) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [This Is What The Truth Feels Like \(Deluxe\)](https://open.spotify.com/album/4axtAJxO6n73s5ZGBxWAio) | 3:36 |
 | 339 | [Beautiful Birds](https://open.spotify.com/track/6s3MPipayT0lCt10HgcBr5) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66), [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Young as the Morning Old as the Sea \(Deluxe\)](https://open.spotify.com/album/5D9V7cYyExjmSfvjicOB3F) | 3:33 |
 | 340 | [Look At Us Now](https://open.spotify.com/track/2idTnDVMIFBqdoHodX8WQc) | [Lost Kings](https://open.spotify.com/artist/3hyEbRtp617pNCuuQjyOmc), [Ally Brooke](https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [Look At Us Now](https://open.spotify.com/album/6V4eix0ESonD9DXr8xLOwb) | 3:45 |
 | 341 | [Miss You](https://open.spotify.com/track/0W5uDMhD0LwNu0ibe9MJ3Y) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Miss You](https://open.spotify.com/album/6nuULOa2RTLwAFspmzc991) | 3:17 |
 | 342 | [Home](https://open.spotify.com/track/0BVUA3FXqQLvZb7r4T22NJ) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [7 Layers](https://open.spotify.com/album/2rQtlZamCmgyyfXk30duG5) | 4:28 |
-| 343 | [Love Is Blind](https://open.spotify.com/track/4gHVaZx1qKbWZ17ryZcBpL) | [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Long Way Home](https://open.spotify.com/album/5h5HjSBjZ2dAuGxGL6L2EB) | 4:10 |
-| 344 | [Heavy](https://open.spotify.com/track/2X8GwyuNBiOJKLCLNaefOT) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Heavy](https://open.spotify.com/album/3Ij5M43l3qsAp4S6RMsk71) | 2:52 |
+| 343 | [Heavy](https://open.spotify.com/track/2X8GwyuNBiOJKLCLNaefOT) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Heavy](https://open.spotify.com/album/3Ij5M43l3qsAp4S6RMsk71) | 2:52 |
+| 344 | [Love Is Blind](https://open.spotify.com/track/4gHVaZx1qKbWZ17ryZcBpL) | [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Long Way Home](https://open.spotify.com/album/5h5HjSBjZ2dAuGxGL6L2EB) | 4:10 |
 | 345 | [Love You More](https://open.spotify.com/track/4UMeiUSQWBvtWOUcnmYl9E) | [JLS](https://open.spotify.com/artist/5xi3SZpllRPAkoPVbjB6nc) | [Goodbye The Greatest Hits](https://open.spotify.com/album/3oZ7Rys9s12dBp1XCgZJ5a) | 3:47 |
 | 346 | [Last Dance](https://open.spotify.com/track/0cbQXCWA8A17cZ9gm158Pz) | [Rhys](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU) | [Last Dance](https://open.spotify.com/album/6TSkCNB8OQwbfSg12ewJAR) | 3:25 |
 | 347 | [Something I Need](https://open.spotify.com/track/64G2uKq3Snj48ppUZX1Z5t) | [Ben Haenow](https://open.spotify.com/artist/2eHEzcBykQCBbtWvYLjHHE) | [Something I Need](https://open.spotify.com/album/1C0uNSH2qweRTIWUHmVOrl) | 3:46 |
@@ -360,8 +360,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KGZxcPEEqa.md) - [plain]
 | 350 | [Lost My Mind](https://open.spotify.com/track/6OMvX7ieloQ1qdSwKb5BRD) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [No Shame](https://open.spotify.com/album/0DriDL7OcMeMENJWAElSYL) | 3:47 |
 | 351 | [Millionaire \(feat\. Nelly\)](https://open.spotify.com/track/3UDXkdQquqCEAJdNAsA1wO) | [Cash Cash](https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF), [Digital Farm Animals](https://open.spotify.com/artist/5fyDppLDl1juIu1BcUT5zh), [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [Blood, Sweat & 3 Years](https://open.spotify.com/album/1TgJXcoFJ7BN0NiViN7wtx) | 3:06 |
 | 352 | [AF1s](https://open.spotify.com/track/13gJwFhWZKRipx85hB0M9J) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Sleeping with Roses II](https://open.spotify.com/album/5zjYT5H4GNuVnSKZ9dh4Tm) | 3:04 |
-| 353 | [Can't Help Myself](https://open.spotify.com/track/48e8Xd7N9N3jWmMOV5Q7tV) | [Lou and Matthew](https://open.spotify.com/artist/43Ij4TGofSYrrATCUydG6Z) | [Can't Help Myself](https://open.spotify.com/album/6X4EMFETZWj4LXd8TpsnZP) | 3:54 |
-| 354 | [Mistakes](https://open.spotify.com/track/0yvpLNRWeGarNOcQzxxDw8) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Sway](https://open.spotify.com/album/3fSRbKgYW6kcR1ZFMaaNV4) | 3:25 |
+| 353 | [Mistakes](https://open.spotify.com/track/0yvpLNRWeGarNOcQzxxDw8) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Sway](https://open.spotify.com/album/3fSRbKgYW6kcR1ZFMaaNV4) | 3:25 |
+| 354 | [Can't Help Myself](https://open.spotify.com/track/48e8Xd7N9N3jWmMOV5Q7tV) | [Lou and Matthew](https://open.spotify.com/artist/43Ij4TGofSYrrATCUydG6Z) | [Can't Help Myself](https://open.spotify.com/album/6X4EMFETZWj4LXd8TpsnZP) | 3:54 |
 | 355 | [My Kind Of Love](https://open.spotify.com/track/586T4NFpg34rcFG3q7y2I3) | [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [Our Version Of Events](https://open.spotify.com/album/3bPrapL1DmFkznWnTb7xNz) | 3:22 |
 | 356 | [Sing](https://open.spotify.com/track/2q5ciklwFOiSCqNHbTQ9dG) | [Gary Barlow & The Commonwealth Band](https://open.spotify.com/artist/1zhYasZBfFgYOuAfZ3MIAh) | [Sing](https://open.spotify.com/album/7IMUKFRRDCQzsLjiZcTXdu) | 4:00 |
 | 357 | [Thunder](https://open.spotify.com/track/3P7iVn3plvgTdYNCyqfyYf) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [I Am](https://open.spotify.com/album/6ZHG3zf2u9RkCErtIZI7Us) | 3:43 |
@@ -409,4 +409,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KGZxcPEEqa.md) - [plain]
 | 399 | [Small Talk](https://open.spotify.com/track/4NmE2ytXI8S2svTRSmEdpO) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Small Talk](https://open.spotify.com/album/5FOy9CM3AZs86TIK7fsJTV) | 2:41 |
 | 400 | [You Don't Know Me](https://open.spotify.com/track/3hgl7EQwTutSm6PESsB7gZ) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [My Everything \(Deluxe\)](https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj) | 3:53 |
 
-Snapshot ID: `MTY1OTUxMDMwNSwwMDAwMDAwMGQ2ZGM1OWYzMjE2M2I3NmY5NjJkODA1NjhjZDA4ZTc4`
+Snapshot ID: `MTY1OTUxMDMwNSwwMDAwMDAwMDY5N2YzMzlhMmI5MjI2NDllYmIzN2M2NTZjNDBlNjQw`

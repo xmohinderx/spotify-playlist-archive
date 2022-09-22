@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LFt5stenrC.md) - [plain]
 
 > Songs from your family's favorite TV shows.
 
-[Spotify](https://open.spotify.com/user/spotify) - 858 likes - 50 songs - 1 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 859 likes - 50 songs - 1 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LFt5stenrC.md) - [plain]
 | 16 | [Blaze and the Monster Machines Theme Song](https://open.spotify.com/track/6uaSSpEyVqcoEBLbaoiUZ6) | [Blaze and the Monster Machines](https://open.spotify.com/artist/4WVT8k6aMXbGw9KgGqTk0l) | [Rockin' Ride\-Along Songs](https://open.spotify.com/album/1isb3iavBKHs5oXLtzkIA5) | 0:31 |
 | 17 | [Bubble Guppies Theme Song](https://open.spotify.com/track/7u5zwVTZDkcAxu3N3z1NVI) | [Bubble Guppies Cast](https://open.spotify.com/artist/6pWkuBPSzAfEZP83VhSL99) | [Bubble Guppies Bubble Bops!](https://open.spotify.com/album/7b6l4ldOcy0FtFkI3pAgLF) | 0:38 |
 | 18 | [Add a Little Fancy \(Fancy Nancy Main Title\)](https://open.spotify.com/track/5LSwDFDfLqpUgJtQPITfr3) | [Fancy Nancy \- Cast](https://open.spotify.com/artist/4l4bo3QrT0fqA2brroiv34) | [Disney Junior Music: Fancy Nancy](https://open.spotify.com/album/1mMKPPInoqT49MtSQYZK5N) | 0:53 |
-| 19 | [The Loud House Theme Song](https://open.spotify.com/track/3lpc0zUmr89UthmpDAycG6) | [The Loud House](https://open.spotify.com/artist/49GEHeazyZ8JNJHAxpwAwB) | [The Loud House Theme & End Credit](https://open.spotify.com/album/2etegCiek9WKyF9GtkrNAw) | 1:20 |
-| 20 | [Hair In The Air \(Trolls: The Beat Goes On Theme\)](https://open.spotify.com/track/1mHtYTi3jasQzaUIwUM2RC) | [Poppy](https://open.spotify.com/artist/6Qz2gLHNk9JULr7HzsEBDg), [Branch](https://open.spotify.com/artist/1cpn7jBL4ELqWrJDtC98k5) | [DreamWorks Trolls \- The Beat Goes On!](https://open.spotify.com/album/1zw9LWtiAU1UiZW2D2RyVX) | 2:14 |
+| 19 | [Hair In The Air \(Trolls: The Beat Goes On Theme\)](https://open.spotify.com/track/1mHtYTi3jasQzaUIwUM2RC) | [Poppy](https://open.spotify.com/artist/6Qz2gLHNk9JULr7HzsEBDg), [Branch](https://open.spotify.com/artist/1cpn7jBL4ELqWrJDtC98k5) | [DreamWorks Trolls \- The Beat Goes On!](https://open.spotify.com/album/1zw9LWtiAU1UiZW2D2RyVX) | 2:14 |
+| 20 | [The Loud House Theme Song](https://open.spotify.com/track/3lpc0zUmr89UthmpDAycG6) | [The Loud House](https://open.spotify.com/artist/49GEHeazyZ8JNJHAxpwAwB) | [The Loud House Theme & End Credit](https://open.spotify.com/album/2etegCiek9WKyF9GtkrNAw) | 1:20 |
 | 21 | [T.O.T.S\. Main Title](https://open.spotify.com/track/7rllsBhVxaGhkr6gTrVstU) | [T.O.T.S\. \- Cast](https://open.spotify.com/artist/6hShWHQzwCdaFrKl1gUBe4) | [Disney Junior Music: T.O.T.S\. \(Vol\. 1\)](https://open.spotify.com/album/2387gp9mfOvJPBYNqb59MG) | 0:40 |
 | 22 | [Power Rangers Dino Charge Theme Song \- Extended Full Version](https://open.spotify.com/track/7GmlAIzyeG3OjQLB7BUkgz) | [Power Rangers](https://open.spotify.com/artist/7cTXTmhaqdEVifI1B33cnx), [Noam Kaniel](https://open.spotify.com/artist/7rW1m5GAR0FkbA74j0xztI) | [Power Rangers Dino Charge Theme Song](https://open.spotify.com/album/2TlnrB2whsLXmvMKK1KpQ0) | 1:55 |
 | 23 | [Muppet Babies Theme 2018](https://open.spotify.com/track/4LZXzrdzNjNNhXj6rW3XTO) | [Renee Elise Goldsberry](https://open.spotify.com/artist/28VFQYsMlusDx4yaVxwu0D) | [Disney Junior Music: Muppet Babies](https://open.spotify.com/album/5W62FpplwP6M2g0vwRrUBI) | 1:01 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LFt5stenrC.md) - [plain]
 | 42 | [Warriors \(She\-Ra and the Princesses of Power\)](https://open.spotify.com/track/1VQTA3jeKZ9ul94xroHmbz) | [AJ Michalka](https://open.spotify.com/artist/30HtguQmog7sTEvDJowVEC) | [The Music of She\-Ra and the Princesses of Power](https://open.spotify.com/album/6S2nR6z4kPQI7WT798Tl1U) | 3:30 |
 | 43 | [Butterbean’s Café Theme Song](https://open.spotify.com/track/1Hlxa7ovZajhyd6ClPFzdV) | [Butterbean’s Cafe](https://open.spotify.com/artist/60I3eGhWjudFPD2aGoFU7D) | [Butterbean's Fairy Best Songs](https://open.spotify.com/album/2jjc0iu6j4tfpOgXxDtRLQ) | 0:33 |
 | 44 | [Just Fine \(Sam & Cat Theme Song\)](https://open.spotify.com/track/73iysPDdIf3M505nHzfflY) | [Backhouse Mike](https://open.spotify.com/artist/1ln7aue0Yjz4QOqcf2gtUL) | [Just Fine \(Sam & Cat Theme Song\)](https://open.spotify.com/album/3KrKRIL5UXe4ozYXrEfLOO) | 2:37 |
-| 45 | [The Casagrandes Theme Song](https://open.spotify.com/track/6wvT81yLxtGnRlWfAKzYwb) | [The Casagrandes](https://open.spotify.com/artist/6mZmc5IDtEr4QLHFDdV9pa), [Ally Brooke](https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk) | [The Casagrandes Theme Song](https://open.spotify.com/album/4n3HX545ECl7YtcGJf6BCb) | 1:22 |
-| 46 | [That's So Raven \(Theme Song\)](https://open.spotify.com/track/02sVnwa4wVikUfBh6PN8u7) | [Raven\-Symoné](https://open.spotify.com/artist/6kUQJlewgd3UFKVYrrmILh) | [Songs from That's So Raven](https://open.spotify.com/album/6d2GhUjA9Ce6dRsMDOkmRu) | 0:50 |
-| 47 | [Tomorrow](https://open.spotify.com/track/36q9e2bci1iIm9e1zlJ8y0) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Tomorrow](https://open.spotify.com/album/32J3TIXdYC4fQpK8IFhTDX) | 2:43 |
+| 45 | [That's So Raven \(Theme Song\)](https://open.spotify.com/track/02sVnwa4wVikUfBh6PN8u7) | [Raven\-Symoné](https://open.spotify.com/artist/6kUQJlewgd3UFKVYrrmILh) | [Songs from That's So Raven](https://open.spotify.com/album/6d2GhUjA9Ce6dRsMDOkmRu) | 0:50 |
+| 46 | [Tomorrow](https://open.spotify.com/track/36q9e2bci1iIm9e1zlJ8y0) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Tomorrow](https://open.spotify.com/album/32J3TIXdYC4fQpK8IFhTDX) | 2:43 |
+| 47 | [The Casagrandes Theme Song](https://open.spotify.com/track/6wvT81yLxtGnRlWfAKzYwb) | [The Casagrandes](https://open.spotify.com/artist/6mZmc5IDtEr4QLHFDdV9pa), [Ally Brooke](https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk) | [The Casagrandes Theme Song](https://open.spotify.com/album/4n3HX545ECl7YtcGJf6BCb) | 1:22 |
 | 48 | [PJ Masks Are Feeling Great](https://open.spotify.com/track/2tOQWE0pK4uXeVFrjOELAW) | [PJ Masks](https://open.spotify.com/artist/1VBbewnHtegBSEB7kRXDzQ) | [Here We Come](https://open.spotify.com/album/5EMXt35wUlhAYTpQHiuSsR) | 1:01 |
 | 49 | [Life Is Better Loud](https://open.spotify.com/track/5dN9uSVeEa8zcqBNHO41h9) | [The Loud House](https://open.spotify.com/artist/49GEHeazyZ8JNJHAxpwAwB) | [The Loud House Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0Z4tgcBgcgGtkK7zdf9gDT) | 2:29 |
 | 50 | [Opening Titles \- Remix](https://open.spotify.com/track/5uPxKN5VhekSg2mU5jK09Z) | [My Little Pony](https://open.spotify.com/artist/5mM9eNte0aWttOiMhPb2dM) | [Equestria Girls \- EP \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4tGnJMBAttq0rIAzDAMHt0) | 1:31 |
 
-Snapshot ID: `MTY1MDI5Mzg1NSwwMDAwMDAwMDZhNzZjNDg0OTYyODU3OWM5OTYwNTM5ZDAxNzY3ZTk0`
+Snapshot ID: `MTY1MDI5Mzg1NSwwMDAwMDAwMDFhMGJhN2FiOTk2MzBlYTAyMmJkMjhlYTY0MGZkMDMy`

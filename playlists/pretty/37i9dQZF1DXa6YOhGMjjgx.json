@@ -1,12 +1,12 @@
 {
   "description": "This is the best of today's true alternative rock scene.",
-  "num_followers": 466853,
+  "num_followers": 466880,
   "original_name": "New Alt-Rock Mixtape",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTIwNDg2MCwwMDAwMDAwMGVjZDhmNGM0NjhlYTljNjdlZmIyMDg1YzZkNDllOTMz",
+  "snapshot_id": "MTY1MTIwNDg2MCwwMDAwMDAwMDMwOWM1NDllZGU3ZGRmMmY0OGU4ZGUzMTk5ZDYwNmYw",
   "tracks": [
     {
       "added_at": "2022-04-29 04:01:00",
@@ -599,22 +599,6 @@
     {
       "added_at": "2022-04-29 04:01:00",
       "album": {
-        "name": "Shoulders",
-        "url": "https://open.spotify.com/album/1foAheWx5434SZa2TxIkxO"
-      },
-      "artists": [
-        {
-          "name": "Coheed and Cambria",
-          "url": "https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8"
-        }
-      ],
-      "duration_ms": 205205,
-      "name": "Shoulders",
-      "url": "https://open.spotify.com/track/4o7yTUS7EFgYOcFDyN8U27"
-    },
-    {
-      "added_at": "2022-04-29 04:01:00",
-      "album": {
         "name": "Night Gnomes",
         "url": "https://open.spotify.com/album/03v97YHEAK4SfVd4QuIuOt"
       },
@@ -631,18 +615,18 @@
     {
       "added_at": "2022-04-29 04:01:00",
       "album": {
-        "name": "We Are Between",
-        "url": "https://open.spotify.com/album/0jm29ezULLI1tMnNqhBiZU"
+        "name": "Shoulders",
+        "url": "https://open.spotify.com/album/1foAheWx5434SZa2TxIkxO"
       },
       "artists": [
         {
-          "name": "Modest Mouse",
-          "url": "https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT"
+          "name": "Coheed and Cambria",
+          "url": "https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8"
         }
       ],
-      "duration_ms": 232906,
-      "name": "We Are Between",
-      "url": "https://open.spotify.com/track/38g0al4YO0WctLwI4Z8394"
+      "duration_ms": 205205,
+      "name": "Shoulders",
+      "url": "https://open.spotify.com/track/4o7yTUS7EFgYOcFDyN8U27"
     },
     {
       "added_at": "2022-04-29 04:01:00",
@@ -663,6 +647,22 @@
     {
       "added_at": "2022-04-29 04:01:00",
       "album": {
+        "name": "We Are Between",
+        "url": "https://open.spotify.com/album/0jm29ezULLI1tMnNqhBiZU"
+      },
+      "artists": [
+        {
+          "name": "Modest Mouse",
+          "url": "https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT"
+        }
+      ],
+      "duration_ms": 232906,
+      "name": "We Are Between",
+      "url": "https://open.spotify.com/track/38g0al4YO0WctLwI4Z8394"
+    },
+    {
+      "added_at": "2022-04-29 04:01:00",
+      "album": {
         "name": "THE UNRAVELING OF PUPTHEBAND",
         "url": "https://open.spotify.com/album/2bRpK0BpzYUQZYIzri35n6"
       },
@@ -679,22 +679,6 @@
     {
       "added_at": "2022-04-29 04:01:00",
       "album": {
-        "name": "The Rift",
-        "url": "https://open.spotify.com/album/7zDuEI2gGYXabIHsI4ZjAZ"
-      },
-      "artists": [
-        {
-          "name": "Chappaqua Wrestling",
-          "url": "https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC"
-        }
-      ],
-      "duration_ms": 228852,
-      "name": "The Rift",
-      "url": "https://open.spotify.com/track/3vUHrmHxjsngAXKvxRJ6nc"
-    },
-    {
-      "added_at": "2022-04-29 04:01:00",
-      "album": {
         "name": ".burymewhole.",
         "url": "https://open.spotify.com/album/5yHbHpMIX8nHFASdst372R"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 188166,
       "name": ".burymewhole. - Single Version",
       "url": "https://open.spotify.com/track/0XBEpnERQaXtEmHHTbPx9k"
+    },
+    {
+      "added_at": "2022-04-29 04:01:00",
+      "album": {
+        "name": "The Rift",
+        "url": "https://open.spotify.com/album/7zDuEI2gGYXabIHsI4ZjAZ"
+      },
+      "artists": [
+        {
+          "name": "Chappaqua Wrestling",
+          "url": "https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC"
+        }
+      ],
+      "duration_ms": 228852,
+      "name": "The Rift",
+      "url": "https://open.spotify.com/track/3vUHrmHxjsngAXKvxRJ6nc"
     },
     {
       "added_at": "2022-04-29 04:01:00",
@@ -907,22 +907,6 @@
     {
       "added_at": "2022-04-29 04:01:00",
       "album": {
-        "name": "Sego Sucks",
-        "url": "https://open.spotify.com/album/2VawrqRSehemq0YlVuZgCB"
-      },
-      "artists": [
-        {
-          "name": "Sego",
-          "url": "https://open.spotify.com/artist/0GtuGhnsCPahfLCAFg27gj"
-        }
-      ],
-      "duration_ms": 200080,
-      "name": "Shame",
-      "url": "https://open.spotify.com/track/2cLWsAvGFe41Jz6oJWkRFg"
-    },
-    {
-      "added_at": "2022-04-29 04:01:00",
-      "album": {
         "name": "Back Foot",
         "url": "https://open.spotify.com/album/4q7m6brjyKWXqpvyg3kAdQ"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 188653,
       "name": "Back Foot",
       "url": "https://open.spotify.com/track/6hZ11ThYoAHlLJsBK2U3jH"
+    },
+    {
+      "added_at": "2022-04-29 04:01:00",
+      "album": {
+        "name": "Sego Sucks",
+        "url": "https://open.spotify.com/album/2VawrqRSehemq0YlVuZgCB"
+      },
+      "artists": [
+        {
+          "name": "Sego",
+          "url": "https://open.spotify.com/artist/0GtuGhnsCPahfLCAFg27gj"
+        }
+      ],
+      "duration_ms": 200080,
+      "name": "Shame",
+      "url": "https://open.spotify.com/track/2cLWsAvGFe41Jz6oJWkRFg"
     },
     {
       "added_at": "2022-04-29 04:01:00",
@@ -987,22 +987,6 @@
     {
       "added_at": "2022-04-29 04:01:00",
       "album": {
-        "name": "Gaslight",
-        "url": "https://open.spotify.com/album/47aUK3fEcaVMuZsEdEWuLt"
-      },
-      "artists": [
-        {
-          "name": "Softcult",
-          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
-        }
-      ],
-      "duration_ms": 173314,
-      "name": "Gaslight",
-      "url": "https://open.spotify.com/track/6hc42LuTezXyDwquiPH2uf"
-    },
-    {
-      "added_at": "2022-04-29 04:01:00",
-      "album": {
         "name": "Nightmare Daydream",
         "url": "https://open.spotify.com/album/3QJ2obeLQY61RE4vVLLilH"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 257398,
       "name": "Father Of Lies",
       "url": "https://open.spotify.com/track/2Ow2S3k1Ggr2Ek76a7YoCe"
+    },
+    {
+      "added_at": "2022-04-29 04:01:00",
+      "album": {
+        "name": "Gaslight",
+        "url": "https://open.spotify.com/album/47aUK3fEcaVMuZsEdEWuLt"
+      },
+      "artists": [
+        {
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+        }
+      ],
+      "duration_ms": 173314,
+      "name": "Gaslight",
+      "url": "https://open.spotify.com/track/6hc42LuTezXyDwquiPH2uf"
     },
     {
       "added_at": "2022-04-29 04:01:00",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2022-04-29 04:01:00",
       "album": {
+        "name": "Fallout",
+        "url": "https://open.spotify.com/album/4aJg7v8OFeEidai6W5yUJ4"
+      },
+      "artists": [
+        {
+          "name": "Daphne's Couch",
+          "url": "https://open.spotify.com/artist/43eTFAcU2TFqZGJWjOyqCq"
+        }
+      ],
+      "duration_ms": 166834,
+      "name": "Fallout",
+      "url": "https://open.spotify.com/track/0J4mhjqMTQjtdDDp92lZl5"
+    },
+    {
+      "added_at": "2022-04-29 04:01:00",
+      "album": {
         "name": "One + One",
         "url": "https://open.spotify.com/album/26hlgZxgnH55W56xx5W4Vt"
       },
@@ -1303,22 +1319,6 @@
     {
       "added_at": "2022-04-29 04:01:00",
       "album": {
-        "name": "Fallout",
-        "url": "https://open.spotify.com/album/4aJg7v8OFeEidai6W5yUJ4"
-      },
-      "artists": [
-        {
-          "name": "Daphne's Couch",
-          "url": "https://open.spotify.com/artist/43eTFAcU2TFqZGJWjOyqCq"
-        }
-      ],
-      "duration_ms": 166834,
-      "name": "Fallout",
-      "url": "https://open.spotify.com/track/0J4mhjqMTQjtdDDp92lZl5"
-    },
-    {
-      "added_at": "2022-04-29 04:01:00",
-      "album": {
         "name": "Earth Is A Black Hole",
         "url": "https://open.spotify.com/album/2oRaxJoPECqRRpQ9PK2UVA"
       },
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2022-04-29 04:01:00",
       "album": {
-        "name": "Just For Love",
-        "url": "https://open.spotify.com/album/3TEdTmkLHGGEpmpzbgV0Js"
-      },
-      "artists": [
-        {
-          "name": "Bully",
-          "url": "https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ"
-        }
-      ],
-      "duration_ms": 197739,
-      "name": "Just For Love",
-      "url": "https://open.spotify.com/track/6wQeNdJeBm6QCQQNIkQhd8"
-    },
-    {
-      "added_at": "2022-04-29 04:01:00",
-      "album": {
         "name": "Big Shot",
         "url": "https://open.spotify.com/album/4wrKG8eeaYiItc2ASIWoJs"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 219182,
       "name": "Big Shot",
       "url": "https://open.spotify.com/track/6Q2juI8CUrk1SR5rtoCqwT"
+    },
+    {
+      "added_at": "2022-04-29 04:01:00",
+      "album": {
+        "name": "Just For Love",
+        "url": "https://open.spotify.com/album/3TEdTmkLHGGEpmpzbgV0Js"
+      },
+      "artists": [
+        {
+          "name": "Bully",
+          "url": "https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ"
+        }
+      ],
+      "duration_ms": 197739,
+      "name": "Just For Love",
+      "url": "https://open.spotify.com/track/6wQeNdJeBm6QCQQNIkQhd8"
     },
     {
       "added_at": "2022-04-29 04:01:00",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2022-04-29 04:01:00",
       "album": {
+        "name": "Around the Bend",
+        "url": "https://open.spotify.com/album/7J2rrD1a9lhnCDqnIM8mFz"
+      },
+      "artists": [
+        {
+          "name": "Strata",
+          "url": "https://open.spotify.com/artist/0MLKfDfrr2LvUqZxBvYLTv"
+        }
+      ],
+      "duration_ms": 214109,
+      "name": "Around the Bend",
+      "url": "https://open.spotify.com/track/3hDri1KrQbgx8ah3HjysbC"
+    },
+    {
+      "added_at": "2022-04-29 04:01:00",
+      "album": {
         "name": "Double Down",
         "url": "https://open.spotify.com/album/1oUmvbtZKZZDWruIy5DdZ8"
       },
@@ -1443,22 +1459,6 @@
       "duration_ms": 144240,
       "name": "I Feel Like I'm Falling",
       "url": "https://open.spotify.com/track/6zIMwJ0kW99r8QXWy3zYqK"
-    },
-    {
-      "added_at": "2022-04-29 04:01:00",
-      "album": {
-        "name": "Around the Bend",
-        "url": "https://open.spotify.com/album/7J2rrD1a9lhnCDqnIM8mFz"
-      },
-      "artists": [
-        {
-          "name": "Strata",
-          "url": "https://open.spotify.com/artist/0MLKfDfrr2LvUqZxBvYLTv"
-        }
-      ],
-      "duration_ms": 214109,
-      "name": "Around the Bend",
-      "url": "https://open.spotify.com/track/3hDri1KrQbgx8ah3HjysbC"
     },
     {
       "added_at": "2022-04-29 04:01:00",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2022-04-29 04:01:00",
       "album": {
-        "name": "Less Is More",
-        "url": "https://open.spotify.com/album/5h30U6ym6HsxVEHKXwCNzQ"
-      },
-      "artists": [
-        {
-          "name": "Demob Happy",
-          "url": "https://open.spotify.com/artist/6FKokxvL5PCWIxrVhMyDgI"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Less Is More",
-      "url": "https://open.spotify.com/track/7f0owLbR340tr059vrOu93"
-    },
-    {
-      "added_at": "2022-04-29 04:01:00",
-      "album": {
         "name": "Dead West",
         "url": "https://open.spotify.com/album/5KpwOCB78vI5n4jYCJknU2"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 214330,
       "name": "Call Me the West (with The Dead Deads)",
       "url": "https://open.spotify.com/track/5RKOybryugxajbMOTU9aIl"
+    },
+    {
+      "added_at": "2022-04-29 04:01:00",
+      "album": {
+        "name": "Less Is More",
+        "url": "https://open.spotify.com/album/5h30U6ym6HsxVEHKXwCNzQ"
+      },
+      "artists": [
+        {
+          "name": "Demob Happy",
+          "url": "https://open.spotify.com/artist/6FKokxvL5PCWIxrVhMyDgI"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Less Is More",
+      "url": "https://open.spotify.com/track/7f0owLbR340tr059vrOu93"
     },
     {
       "added_at": "2022-04-29 04:01:00",

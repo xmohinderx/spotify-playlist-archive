@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NTLI2TtZa6.md) - [plain]
 
 > Focus\-enhancing piano for your study session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,396,227 likes - 201 songs - 8 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,396,593 likes - 201 songs - 8 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

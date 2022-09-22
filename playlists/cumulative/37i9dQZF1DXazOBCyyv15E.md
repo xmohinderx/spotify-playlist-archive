@@ -4,7 +4,7 @@
 
 > The home of the best new alternative music\. Cover: Blood Orange
 
-1,047 songs - 2 day 14 hr 13 min - [published](https://open.spotify.com/playlist/2P9CK2lB90NpmCPDPSex2G)
+1,048 songs - 2 day 14 hr 16 min - [published](https://open.spotify.com/playlist/2P9CK2lB90NpmCPDPSex2G)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -436,6 +436,7 @@
 | [Home to You](https://open.spotify.com/track/2HzWtan4jF5l8Hg4IalAFn) | [Cate Le Bon](https://open.spotify.com/artist/0LZac5VicY19QLaIUvIB0G) | [Reward](https://open.spotify.com/album/082FaK20Q5pWBugogTQbGW) | 5:27 | 2021-03-08 | 2021-03-09 |
 | [Hope](https://open.spotify.com/track/6m5g6mY0EqyPW6Snc6n749) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Hope](https://open.spotify.com/album/2cqVLSrisNHPR6Q1Q4HsBp) | 4:30 | 2021-01-29 | 2021-04-02 |
 | [Hope She'll Be Happier \- Spotify Singles](https://open.spotify.com/track/3PcdHJLrbpfXhfSmbWpIRL) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Spotify Singles](https://open.spotify.com/album/19dMFBXNyn1ZCQ1pxhg8nV) | 4:09 | 2021-09-24 | 2021-10-16 |
+| [Hotel](https://open.spotify.com/track/0JzG1wJuB4v9UPkSE7LMXi) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Hotel](https://open.spotify.com/album/0ykf7jcx3yY49RpkIO1byF) | 3:17 | 2022-09-21 |  |
 | [House Burn Down](https://open.spotify.com/track/48oBIuYRNSsKPigKQAQzXp) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [House Burn Down](https://open.spotify.com/album/5hoJlHBaY7391kmYXbV4zu) | 3:10 | 2021-06-04 | 2021-08-13 |
 | [How Can I Help You](https://open.spotify.com/track/3t6AeLW2nXdGCTBMxwMlex) | [Self Esteem](https://open.spotify.com/artist/3K9muOlJVKLgH4SIwwZiDe) | [How Can I Help You](https://open.spotify.com/album/1XKeO1HjACUxRZeN06Ye7X) | 2:21 | 2021-08-27 | 2021-09-17 |
 | [How Can I Love? \- When I Can't Get Away from You](https://open.spotify.com/track/521d9sMAWCvOwsxKUtdZg3) | [fika](https://open.spotify.com/artist/4nJPiUgLhO1HcK13jBkAqX), [Bambie](https://open.spotify.com/artist/2K2zheLCDXiIK9j83oWNxv) | [How Can I Love? \(When I Can't Get Away from You\)](https://open.spotify.com/album/47dm9IPB8nas3cTzwLZu0q) | 2:59 | 2021-08-27 | 2021-10-01 |

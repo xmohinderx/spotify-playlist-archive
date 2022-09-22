@@ -1,12 +1,12 @@
 {
   "description": "Aggressive trap and bass for the <a href=\"spotify:genre:edm_dance\">gym</a>.",
-  "num_followers": 2445530,
+  "num_followers": 2446103,
   "original_name": "Hype",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY5NjAwMCwwMDAwMDAwMGNiY2RkOTU0ZGE5OWJhZDFkYjRhNWNjNmFiZGQyZWM1",
+  "snapshot_id": "MTY2MjY5NjAwMCwwMDAwMDAwMDQ3N2VlMDFhZjlmNmM3MzY4ODc4MzA0NTI1NWExYmMz",
   "tracks": [
     {
       "added_at": "2022-09-09 04:00:00",
@@ -427,22 +427,6 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "Here With Me",
-        "url": "https://open.spotify.com/album/0MrSLoHEtnWYFmg38SSnjN"
-      },
-      "artists": [
-        {
-          "name": "PEEKABOO",
-          "url": "https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF"
-        }
-      ],
-      "duration_ms": 223999,
-      "name": "Here With Me",
-      "url": "https://open.spotify.com/track/6qLM7FY8SPWYIyKKhzzVO0"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
         "name": "Sable Valley Summer Vol. 3",
         "url": "https://open.spotify.com/album/2TklWyQdmNHg7d2Xmam8G8"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 247500,
       "name": "Silo (feat. fknsyd)",
       "url": "https://open.spotify.com/track/49Z1VQivkHoY5KGdUwMv5i"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "Here With Me",
+        "url": "https://open.spotify.com/album/0MrSLoHEtnWYFmg38SSnjN"
+      },
+      "artists": [
+        {
+          "name": "PEEKABOO",
+          "url": "https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF"
+        }
+      ],
+      "duration_ms": 223999,
+      "name": "Here With Me",
+      "url": "https://open.spotify.com/track/6qLM7FY8SPWYIyKKhzzVO0"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -755,6 +755,30 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
+        "name": "Bloodbath",
+        "url": "https://open.spotify.com/album/1PTOieMAfJSzcxdn2hkjtt"
+      },
+      "artists": [
+        {
+          "name": "Valentino Khan",
+          "url": "https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh"
+        },
+        {
+          "name": "Eptic",
+          "url": "https://open.spotify.com/artist/4dvZ0abeUaiHm7Fu9Gj0PQ"
+        },
+        {
+          "name": "Lil Jon",
+          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
+        }
+      ],
+      "duration_ms": 200662,
+      "name": "Bloodbath",
+      "url": "https://open.spotify.com/track/7z35ELbZv0zResMSqwsoKa"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
         "name": "Legendary",
         "url": "https://open.spotify.com/album/2xWaI7sAZVyz6axpQUizZ5"
       },
@@ -783,30 +807,6 @@
       "duration_ms": 297620,
       "name": "Legendary",
       "url": "https://open.spotify.com/track/3yFb3JWYOaKdgwViCGPnM2"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "Bloodbath",
-        "url": "https://open.spotify.com/album/1PTOieMAfJSzcxdn2hkjtt"
-      },
-      "artists": [
-        {
-          "name": "Valentino Khan",
-          "url": "https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh"
-        },
-        {
-          "name": "Eptic",
-          "url": "https://open.spotify.com/artist/4dvZ0abeUaiHm7Fu9Gj0PQ"
-        },
-        {
-          "name": "Lil Jon",
-          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
-        }
-      ],
-      "duration_ms": 200662,
-      "name": "Bloodbath",
-      "url": "https://open.spotify.com/track/7z35ELbZv0zResMSqwsoKa"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -927,22 +927,6 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "Sin",
-        "url": "https://open.spotify.com/album/3qPnoE53RdzkdAGTLT7XJ1"
-      },
-      "artists": [
-        {
-          "name": "Kai Wachi",
-          "url": "https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K"
-        }
-      ],
-      "duration_ms": 131254,
-      "name": "Sin",
-      "url": "https://open.spotify.com/track/3Qh65CXtBe3vKmWe5fYbuY"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
         "name": "Dimension",
         "url": "https://open.spotify.com/album/2DX7xiwtqyOVG3BmgyIbV4"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 159162,
       "name": "Dimension",
       "url": "https://open.spotify.com/track/3IWkjBkiR4pHOkaHV52OMl"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "Sin",
+        "url": "https://open.spotify.com/album/3qPnoE53RdzkdAGTLT7XJ1"
+      },
+      "artists": [
+        {
+          "name": "Kai Wachi",
+          "url": "https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K"
+        }
+      ],
+      "duration_ms": 131254,
+      "name": "Sin",
+      "url": "https://open.spotify.com/track/3Qh65CXtBe3vKmWe5fYbuY"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1067,26 +1067,6 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "BODY SH!T",
-        "url": "https://open.spotify.com/album/32LG1HYCXe5uN2FAQZD4sr"
-      },
-      "artists": [
-        {
-          "name": "BLVK JVCK",
-          "url": "https://open.spotify.com/artist/32IXja3Y6CPvnAtTHD2bWg"
-        },
-        {
-          "name": "A$AP TyY",
-          "url": "https://open.spotify.com/artist/3XRvpMCFnLf5pF3uiiuLfY"
-        }
-      ],
-      "duration_ms": 184049,
-      "name": "BODY SH!T",
-      "url": "https://open.spotify.com/track/2yq5k7wZqY11UXOulrfO8F"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
         "name": "Moshpit / Comin For Ya Neck",
         "url": "https://open.spotify.com/album/0W1fVHmZ0s1E5l8EOWI5T6"
       },
@@ -1107,6 +1087,26 @@
       "duration_ms": 177600,
       "name": "Moshpit",
       "url": "https://open.spotify.com/track/6EgTYGPIKWgKUf4QnJ3dr7"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "BODY SH!T",
+        "url": "https://open.spotify.com/album/32LG1HYCXe5uN2FAQZD4sr"
+      },
+      "artists": [
+        {
+          "name": "BLVK JVCK",
+          "url": "https://open.spotify.com/artist/32IXja3Y6CPvnAtTHD2bWg"
+        },
+        {
+          "name": "A$AP TyY",
+          "url": "https://open.spotify.com/artist/3XRvpMCFnLf5pF3uiiuLfY"
+        }
+      ],
+      "duration_ms": 184049,
+      "name": "BODY SH!T",
+      "url": "https://open.spotify.com/track/2yq5k7wZqY11UXOulrfO8F"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1155,26 +1155,6 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "Status Quo",
-        "url": "https://open.spotify.com/album/019JaqKPZQvBVL2KcmZjIB"
-      },
-      "artists": [
-        {
-          "name": "Wavedash",
-          "url": "https://open.spotify.com/artist/1SlTeYo2NYg93bGqlQYkwE"
-        },
-        {
-          "name": "fknsyd",
-          "url": "https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd"
-        }
-      ],
-      "duration_ms": 176516,
-      "name": "Status Quo",
-      "url": "https://open.spotify.com/track/20nE4m2wJ7a44ZTaorpn5z"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
         "name": "Shockwave",
         "url": "https://open.spotify.com/album/7DXpSl0T6HwVOUT83SPVxu"
       },
@@ -1195,6 +1175,26 @@
       "duration_ms": 170807,
       "name": "Hitta (feat. Juicy J)",
       "url": "https://open.spotify.com/track/4trrKVzHcXRV5Gv8YAf32P"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "Status Quo",
+        "url": "https://open.spotify.com/album/019JaqKPZQvBVL2KcmZjIB"
+      },
+      "artists": [
+        {
+          "name": "Wavedash",
+          "url": "https://open.spotify.com/artist/1SlTeYo2NYg93bGqlQYkwE"
+        },
+        {
+          "name": "fknsyd",
+          "url": "https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd"
+        }
+      ],
+      "duration_ms": 176516,
+      "name": "Status Quo",
+      "url": "https://open.spotify.com/track/20nE4m2wJ7a44ZTaorpn5z"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1275,6 +1275,26 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
+        "name": "REDLIGHT (VIP)",
+        "url": "https://open.spotify.com/album/5mczOUN0PKncHlSTvX8vVA"
+      },
+      "artists": [
+        {
+          "name": "NGHTMRE",
+          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+        },
+        {
+          "name": "A$AP Ferg",
+          "url": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
+        }
+      ],
+      "duration_ms": 199118,
+      "name": "REDLIGHT - VIP",
+      "url": "https://open.spotify.com/track/76peqTD79xDzySA3SyWzs5"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
         "name": "Ur Body",
         "url": "https://open.spotify.com/album/6xUwGauHFII4qhNBAldvQi"
       },
@@ -1295,22 +1315,22 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "REDLIGHT (VIP)",
-        "url": "https://open.spotify.com/album/5mczOUN0PKncHlSTvX8vVA"
+        "name": "Angels Landing",
+        "url": "https://open.spotify.com/album/6HmjU8l5u5jmG8Mtrp6jRn"
       },
       "artists": [
         {
-          "name": "NGHTMRE",
-          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+          "name": "ISOxo",
+          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
         },
         {
-          "name": "A$AP Ferg",
-          "url": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
+          "name": "FrostTop",
+          "url": "https://open.spotify.com/artist/6T9vLiLn2HpWHNaaEajGB4"
         }
       ],
-      "duration_ms": 199118,
-      "name": "REDLIGHT - VIP",
-      "url": "https://open.spotify.com/track/76peqTD79xDzySA3SyWzs5"
+      "duration_ms": 233600,
+      "name": "Angels Landing",
+      "url": "https://open.spotify.com/track/7z8zdcW66DyZ931P6BjnX7"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1335,26 +1355,6 @@
       "duration_ms": 180800,
       "name": "No Limit",
       "url": "https://open.spotify.com/track/7IVzMMlDsh4W4mIavGdKi0"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "Angels Landing",
-        "url": "https://open.spotify.com/album/6HmjU8l5u5jmG8Mtrp6jRn"
-      },
-      "artists": [
-        {
-          "name": "ISOxo",
-          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
-        },
-        {
-          "name": "FrostTop",
-          "url": "https://open.spotify.com/artist/6T9vLiLn2HpWHNaaEajGB4"
-        }
-      ],
-      "duration_ms": 233600,
-      "name": "Angels Landing",
-      "url": "https://open.spotify.com/track/7z8zdcW66DyZ931P6BjnX7"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1455,6 +1455,30 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
+        "name": "Shell Shock (feat. Georgia Ku)",
+        "url": "https://open.spotify.com/album/4BaInrxpN9Bey7O1LGhVDp"
+      },
+      "artists": [
+        {
+          "name": "NGHTMRE",
+          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+        },
+        {
+          "name": "Zomboy",
+          "url": "https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq"
+        },
+        {
+          "name": "Georgia Ku",
+          "url": "https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM"
+        }
+      ],
+      "duration_ms": 264500,
+      "name": "Shell Shock (feat. Georgia Ku)",
+      "url": "https://open.spotify.com/track/2WidoejAximc21Pv69Q3ey"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
         "name": "RELOAD",
         "url": "https://open.spotify.com/album/2SktoDv6LhxQABh838hDQC"
       },
@@ -1487,30 +1511,6 @@
       "duration_ms": 143426,
       "name": "Hideaway",
       "url": "https://open.spotify.com/track/7wwin4Zrs6dB9waWnVZqZa"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "Shell Shock (feat. Georgia Ku)",
-        "url": "https://open.spotify.com/album/4BaInrxpN9Bey7O1LGhVDp"
-      },
-      "artists": [
-        {
-          "name": "NGHTMRE",
-          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
-        },
-        {
-          "name": "Zomboy",
-          "url": "https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq"
-        },
-        {
-          "name": "Georgia Ku",
-          "url": "https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM"
-        }
-      ],
-      "duration_ms": 264500,
-      "name": "Shell Shock (feat. Georgia Ku)",
-      "url": "https://open.spotify.com/track/2WidoejAximc21Pv69Q3ey"
     },
     {
       "added_at": "2022-09-09 04:00:00",

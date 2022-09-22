@@ -1,12 +1,12 @@
 {
   "description": "Early pioneers that brought the underground to the foreground. Cover: Nico",
-  "num_followers": 962591,
+  "num_followers": 963156,
   "original_name": "Early Alternative",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY0OTkyNCwwMDAwMDAwMGI4NjU5ZWE1NjRhY2VlNGRkMmE1NzZlZDliY2NlNWEw",
+  "snapshot_id": "MTY2MjY0OTkyNCwwMDAwMDAwMDM5ODE2NzA1Y2I1MTZlYTAyNmRiYjFkMGE0ZmMwMzQ1",
   "tracks": [
     {
       "added_at": "2022-09-08 15:12:04",
@@ -367,22 +367,6 @@
     {
       "added_at": "2022-05-26 22:19:37",
       "album": {
-        "name": "Remain in Light (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3AQgdwMNCiN7awXch5fAaG"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 259906,
-      "name": "Once in a Lifetime - 2005 Remaster",
-      "url": "https://open.spotify.com/track/38Ngied9rBORlAbLYNCl4k"
-    },
-    {
-      "added_at": "2022-05-26 22:19:37",
-      "album": {
         "name": "Road to Ruin (40th Anniversary Deluxe Edition)",
         "url": "https://open.spotify.com/album/43zbrwwFHh5e7cmDQomx8Z"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 149786,
       "name": "I Wanna Be Sedated",
       "url": "https://open.spotify.com/track/5NoQvINZLBV1wMYPdNmReL"
+    },
+    {
+      "added_at": "2022-05-26 22:19:37",
+      "album": {
+        "name": "Remain in Light (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3AQgdwMNCiN7awXch5fAaG"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 259906,
+      "name": "Once in a Lifetime - 2005 Remaster",
+      "url": "https://open.spotify.com/track/38Ngied9rBORlAbLYNCl4k"
     },
     {
       "added_at": "2022-05-26 22:19:37",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2022-05-26 22:19:37",
       "album": {
-        "name": "Cure for Pain",
-        "url": "https://open.spotify.com/album/0FocpOyE7RnaNsiaEhSbp6"
-      },
-      "artists": [
-        {
-          "name": "Morphine",
-          "url": "https://open.spotify.com/artist/3QgSmABpItIdj908ek80n5"
-        }
-      ],
-      "duration_ms": 199666,
-      "name": "Buena",
-      "url": "https://open.spotify.com/track/2SSBJhvMsujY94GK5JAtKs"
-    },
-    {
-      "added_at": "2022-05-26 22:19:37",
-      "album": {
         "name": "Pelican West Plus",
         "url": "https://open.spotify.com/album/6VIiHu2RCwWo4151YCG7ND"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 212573,
       "name": "Love Plus One",
       "url": "https://open.spotify.com/track/4vwLjB2NRtl9b34jRe6cWd"
+    },
+    {
+      "added_at": "2022-05-26 22:19:37",
+      "album": {
+        "name": "Cure for Pain",
+        "url": "https://open.spotify.com/album/0FocpOyE7RnaNsiaEhSbp6"
+      },
+      "artists": [
+        {
+          "name": "Morphine",
+          "url": "https://open.spotify.com/artist/3QgSmABpItIdj908ek80n5"
+        }
+      ],
+      "duration_ms": 199666,
+      "name": "Buena",
+      "url": "https://open.spotify.com/track/2SSBJhvMsujY94GK5JAtKs"
     }
   ],
   "unique_name": "Early Alternative",

@@ -4,7 +4,7 @@
 
 > This is Dinosaur Pile\-Up\. The essential tracks, all in one playlist.
 
-31 songs - 1 hr 47 min - [published](https://open.spotify.com/playlist/5PgQ729HGWbu6zIVGiTFuJ)
+32 songs - 1 hr 51 min - [published](https://open.spotify.com/playlist/5PgQ729HGWbu6zIVGiTFuJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Derail](https://open.spotify.com/track/6p75sMjfA2IjayOO1DJ0hY) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Nature Nurture](https://open.spotify.com/album/0LZvv6bq8m9jMOR5lUZmbW) | 3:31 | 2022-09-16 |  |
 | [Draw a Line](https://open.spotify.com/track/5ZmcwCEqSZanp98K20w5g4) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Nature Nurture](https://open.spotify.com/album/64aCDmxb3wjPmvmlLjiUhH) | 2:55 | 2022-09-16 |  |
 | [Friend of Mine](https://open.spotify.com/track/6m9erDNRC0oxTESUE13wzJ) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Eleven Eleven](https://open.spotify.com/album/3PJteMhucKgoqwI5D9Xh4u) | 2:19 | 2022-09-16 |  |
-| [Gimme Something](https://open.spotify.com/track/3FL68SOwNkA0InUiFOY4GG) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Eleven Eleven](https://open.spotify.com/album/3PJteMhucKgoqwI5D9Xh4u) | 1:38 | 2022-09-20 |  |
+| [Gimme Something](https://open.spotify.com/track/3FL68SOwNkA0InUiFOY4GG) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Eleven Eleven](https://open.spotify.com/album/3PJteMhucKgoqwI5D9Xh4u) | 1:38 | 2022-09-20 | 2022-09-22 |
 | [Grim Valentine](https://open.spotify.com/track/0TyyOLzfywqEvrdgkN1f3e) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Eleven Eleven](https://open.spotify.com/album/3PJteMhucKgoqwI5D9Xh4u) | 3:04 | 2022-09-16 |  |
 | [Hanging by a Thread](https://open.spotify.com/track/7B2ZyQ9zyrosGaDcaQ7wLB) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Nurtured EP \- B\-Sides and Bonus Tracks from Nature Nurture](https://open.spotify.com/album/582YI5j1QSyYKquXe641zi) | 3:34 | 2022-09-16 |  |
 | [Heather](https://open.spotify.com/track/3LrARCc1bfCx0IM83mFpmJ) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Nature Nurture](https://open.spotify.com/album/0LZvv6bq8m9jMOR5lUZmbW) | 2:55 | 2022-09-16 |  |
@@ -39,5 +39,6 @@
 | [Stupid Heavy Metal Broken Hearted Loser Punk](https://open.spotify.com/track/0GqdnBuiNOIqMd8R4RDWEx) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Celebrity Mansions](https://open.spotify.com/album/3sWXuwJFtO7LkD4FPrJSFu) | 3:12 | 2022-09-16 |  |
 | [Thrash Metal Cassette](https://open.spotify.com/track/0RhYWcRxUljBv363WhAbtu) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Celebrity Mansions](https://open.spotify.com/album/3sWXuwJFtO7LkD4FPrJSFu) | 3:39 | 2022-09-16 |  |
 | [White T\-Shirt and Jeans](https://open.spotify.com/track/2B66zZymYWxQqP8QQxQUAy) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Nature Nurture](https://open.spotify.com/album/0LZvv6bq8m9jMOR5lUZmbW) | 3:14 | 2022-09-16 |  |
+| [Willow Tree](https://open.spotify.com/track/6wA2hdPFoJYrtsBk6pjH5u) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Eleven Eleven](https://open.spotify.com/album/3PJteMhucKgoqwI5D9Xh4u) | 3:09 | 2022-09-21 |  |
 
 \*This playlist was first scraped on 2022-09-17. Prior content cannot be recovered.

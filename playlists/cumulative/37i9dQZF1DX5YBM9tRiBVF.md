@@ -4,7 +4,7 @@
 
 > Listen to women from Belgium, at full volume\. Cover: Coely
 
-205 songs - 11 hr 11 min - [published](https://open.spotify.com/playlist/3owvrGw8mQsT590xhLQpXI)
+206 songs - 11 hr 14 min - [published](https://open.spotify.com/playlist/3owvrGw8mQsT590xhLQpXI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,7 +145,8 @@
 | [On Me](https://open.spotify.com/track/14qUFwXtS8sPYOnTLAiHRH) | [Lyna](https://open.spotify.com/artist/6T83nWN9QZR1Abip1bMcVV) | [On Me](https://open.spotify.com/album/02vPXecCjOm6HbMuw5mtof) | 3:05 | 2021-12-08 | 2022-03-08 |
 | [ON MY MIND](https://open.spotify.com/track/7o5QbVOAMelkyfYE2pTkPy) | [Cyra Gwynth](https://open.spotify.com/artist/73xasVLAvFrnbuhBdAucpp) | [CHAPTER III: EGO](https://open.spotify.com/album/7kc9J580cJ0ZB6ubkCIley) | 2:33 | 2022-04-05 | 2022-05-04 |
 | [Ongewoon](https://open.spotify.com/track/7AVHDeAjfn0zfMnYRhp0oI) | [Pommelien Thijs](https://open.spotify.com/artist/3zGV7t4BDmYZBLVA24487b) | [Ongewoon](https://open.spotify.com/album/3lVTEZPoehOgTV8BG37eGk) | 2:37 | 2022-05-03 | 2022-08-03 |
-| [Only loves me when I cry](https://open.spotify.com/track/6MbwhZRK6Cr5NjLVJpqRvG) | [Judith Kiddo](https://open.spotify.com/artist/0zmgqS8lHVypUSBvUogMgz) | [Only loves me when I cry](https://open.spotify.com/album/3sf1sZ7tRyva4flf0Je0A6) | 3:30 | 2022-07-05 |  |
+| [Only Loves Me When I Cry](https://open.spotify.com/track/3omTmZZMpw04z92F096Xcs) | [Judith Kiddo](https://open.spotify.com/artist/0zmgqS8lHVypUSBvUogMgz) | [Only Loves Me When I Cry](https://open.spotify.com/album/2De4QH8s1ne19mqqsRJISn) | 3:30 | 2022-09-06 |  |
+| [Only loves me when I cry](https://open.spotify.com/track/6MbwhZRK6Cr5NjLVJpqRvG) | [Judith Kiddo](https://open.spotify.com/artist/0zmgqS8lHVypUSBvUogMgz) | [Only loves me when I cry](https://open.spotify.com/album/3sf1sZ7tRyva4flf0Je0A6) | 3:30 | 2022-07-05 | 2022-09-22 |
 | [Only Shadows Remain](https://open.spotify.com/track/1S3wVO6ylPVKoQOMeTGIKe) | [Wanthanee](https://open.spotify.com/artist/71dnG6HM2q8lwXFkyX9lj0) | [Wanthanee](https://open.spotify.com/album/1REKdH9kgiPHZDZ14FBSwH) | 4:01 | 2021-12-08 | 2022-03-08 |
 | [OOPS](https://open.spotify.com/track/3AmKMAVEpH2zUtfCSi9E91) | [Dina Ayada](https://open.spotify.com/artist/5L88UL7xuw4CzYyzxqwgBz), [Chuki Beats](https://open.spotify.com/artist/3I2KQWCAh5aOh1YJ62LIlQ) | [OOPS](https://open.spotify.com/album/5yPn8bZ6ZswLiHQz0nGR7r) | 2:05 | 2021-12-08 | 2022-02-03 |
 | [Orion](https://open.spotify.com/track/3AjfltAQnXXYT4fn09GRQq) | [Laïs](https://open.spotify.com/artist/7m63iuojSjbH01e3iLMhxO) | [Orion](https://open.spotify.com/album/4v0IcAwnSqphv2m7yxR5kO) | 3:35 | 2022-07-05 |  |

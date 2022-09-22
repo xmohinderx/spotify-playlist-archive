@@ -4,7 +4,7 @@
 
 > The hottest tunes in rock\. Crank it up! Cover: Nickelback
 
-432 songs - 1 day 0 hr 18 min - [published](https://open.spotify.com/playlist/2emTlJtpLiylc2HgRRdEnO)
+433 songs - 1 day 0 hr 21 min - [published](https://open.spotify.com/playlist/2emTlJtpLiylc2HgRRdEnO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -277,7 +277,8 @@
 | [One By One](https://open.spotify.com/track/1nO9qYFTq5ZkiiXnaXbBEH) | [The Blue Stones](https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC) | [Hidden Gems](https://open.spotify.com/album/6uI7YirquMLS8hkRFgJ16B) | 4:11 | 2021-12-31 | 2022-02-05 |
 | [Only Time Will Tell](https://open.spotify.com/track/6zGwq7NwBJySXdA6y6bVI5) | [Uforia](https://open.spotify.com/artist/3FQ01P0lqm7LFa4mCup8Db), [The Veer Union](https://open.spotify.com/artist/2WQQRKpu2PMLsHSrUJmyCS) | [Only Time Will Tell](https://open.spotify.com/album/5URW4Y4OIEEGUHqgigqEX2) | 3:17 | 2021-12-31 | 2022-03-05 |
 | [Ouch](https://open.spotify.com/track/1X7m1zd25Xx2y8yt0FOOii) | [The Tragically Hip](https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0) | [Saskadelphia](https://open.spotify.com/album/4K4TmKxqAJLQfsIuwb7per) | 3:10 | 2021-12-31 | 2022-01-08 |
-| [Out of My Head feat\. Aaron Gillespie](https://open.spotify.com/track/6QDS3BSyRGSaTUY4MhJUir) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2), [Aaron Gillespie](https://open.spotify.com/artist/5B2GfbXgossZt9SE08Iqn6) | [Out of My Head feat\. Aaron Gillespie](https://open.spotify.com/album/62q3iA3E0gLSeezRa2stGU) | 2:54 | 2022-05-13 |  |
+| [Out of My Head](https://open.spotify.com/track/7LR1KXCfE7EWu02ghN6c53) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2), [Aaron Gillespie](https://open.spotify.com/artist/5B2GfbXgossZt9SE08Iqn6) | [Out of My Head](https://open.spotify.com/album/0O2MDdqpibGxaUw9raccMl) | 2:54 | 2022-09-16 |  |
+| [Out of My Head feat\. Aaron Gillespie](https://open.spotify.com/track/6QDS3BSyRGSaTUY4MhJUir) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2), [Aaron Gillespie](https://open.spotify.com/artist/5B2GfbXgossZt9SE08Iqn6) | [Out of My Head feat\. Aaron Gillespie](https://open.spotify.com/album/62q3iA3E0gLSeezRa2stGU) | 2:54 | 2022-05-13 | 2022-09-22 |
 | [Out Of Nowhere](https://open.spotify.com/track/1sUNporSfAID4Cwz413eLj) | [Anyway Gang](https://open.spotify.com/artist/2CJSKzMdOlJ6FaffywHeHr) | [Out Of Nowhere](https://open.spotify.com/album/0Em2mE2OHs8PpoUflSdoTc) | 3:30 | 2022-03-04 | 2022-03-26 |
 | [papercuts](https://open.spotify.com/track/3nkW3TPQjBip1lER4h78NX) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [papercuts](https://open.spotify.com/album/0VRQaT37pbnZC6E7pkX0aQ) | 3:00 | 2021-12-31 | 2022-02-05 |
 | [Paralyzed](https://open.spotify.com/track/5svL1PkWw8hPEAOdTNLexy) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [Paralyzed](https://open.spotify.com/album/6QBRBHphSZ5CE6KYzCDdI9) | 2:42 | 2021-12-31 | 2022-01-29 |

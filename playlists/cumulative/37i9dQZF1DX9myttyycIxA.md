@@ -4,7 +4,7 @@
 
 > Underground indie rock gems\. Cover: Jockstrap
 
-615 songs - 1 day 11 hr 4 min - [published](https://open.spotify.com/playlist/4XA1SOQIX98lp2gcRgRzUr)
+616 songs - 1 day 11 hr 6 min - [published](https://open.spotify.com/playlist/4XA1SOQIX98lp2gcRgRzUr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -363,7 +363,8 @@
 | [Love Song for the Haters](https://open.spotify.com/track/5PNmLOkhsm69IfOdHknhmR) | [Fleece](https://open.spotify.com/artist/3M8JKaNdIRChzvxVK1XxKm) | [Love Song for the Haters](https://open.spotify.com/album/7bU1jffvaKgQ7QKtzoph3Q) | 4:38 | 2021-03-05 | 2022-04-29 |
 | [Love333](https://open.spotify.com/track/0wAQl7JsYX4PgX3YCBf8RN) | [Girlpool](https://open.spotify.com/artist/3BYXi96LqI8TwNljFKE0DZ) | [Forgiveness](https://open.spotify.com/album/1rkbaI9xnf7yi70SyGNKi2) | 3:09 | 2022-04-29 | 2022-05-17 |
 | [Low Era](https://open.spotify.com/track/1GKdMtwcB3oi0uwr4M1B5G) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Projector](https://open.spotify.com/album/1E094hHDWCHZqO1YVLIUmj) | 4:14 | 2022-06-02 |  |
-| [lust](https://open.spotify.com/track/4rQfKnYd88L1mu9NEZn1kp) | [zzzahara](https://open.spotify.com/artist/26j38hvhD7PjC0a4EqdaSn) | [lust](https://open.spotify.com/album/5UVCryBuK6Pv0IilUHXqL0) | 2:05 | 2022-08-12 |  |
+| [lust](https://open.spotify.com/track/4rQfKnYd88L1mu9NEZn1kp) | [zzzahara](https://open.spotify.com/artist/26j38hvhD7PjC0a4EqdaSn) | [lust](https://open.spotify.com/album/5UVCryBuK6Pv0IilUHXqL0) | 2:05 | 2022-08-12 | 2022-09-22 |
+| [lust](https://open.spotify.com/track/5cGcuoicAC9mVHiey0i0NM) | [zzzahara](https://open.spotify.com/artist/26j38hvhD7PjC0a4EqdaSn) | [cupids out tonight](https://open.spotify.com/album/3acMNe9M2nsFXtfMnAS4B3) | 2:05 | 2022-08-12 |  |
 | [Make It Right](https://open.spotify.com/track/3YIo8llthdNC8Si3W2CIPP) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Make It Right](https://open.spotify.com/album/0v9yjEYZpMSHh7DAtfNwy7) | 2:33 | 2022-03-04 | 2022-04-20 |
 | [MANGO](https://open.spotify.com/track/0a5szJBZfMo2ijE68r5oAR) | [Grace Mitchell](https://open.spotify.com/artist/3VjZEaHXvNbCmV5jc0VfZR) | [MANGO](https://open.spotify.com/album/16xXUwfYa80OKyuLpqD5Pp) | 3:05 | 2021-04-02 | 2022-02-09 |
 | [MANY FACES](https://open.spotify.com/track/27cWalfVkjaY21WxHiR426) | [dad sports](https://open.spotify.com/artist/62iEYJuqOpo6M5UAu4aw3U) | [MANY FACES](https://open.spotify.com/album/5wYDGLWfZKFt11XSqtbKxc) | 2:33 | 2021-03-19 | 2022-03-27 |

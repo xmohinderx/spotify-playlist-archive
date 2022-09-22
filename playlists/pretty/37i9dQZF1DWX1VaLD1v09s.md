@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1VaLD1v09s.md) - [plain]
 
 > The most incredible songs to celebrate the life, death and resurrection of our Lord Jesus are all here in one collection\.  Sit back and let it provide the praise for glorious day!
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,150 likes - 150 songs - 12 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,183 likes - 150 songs - 12 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -125,8 +125,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1VaLD1v09s.md) - [plain]
 | 115 | [Every Step of the Way](https://open.spotify.com/track/7mNt8zWAJypW0Oy3QpzFaj) | [Cade Thompson](https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4) | [Bigger Story](https://open.spotify.com/album/3Dbx9fdmGd3QXaq8Lpukaw) | 3:15 |
 | 116 | [Yes I Will](https://open.spotify.com/track/5vMzNmHm2ec2zrqiYhkQzZ) | [Vertical Worship](https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o) | [Yes I Will](https://open.spotify.com/album/0OOv0GLx4DQc5tPTkRo6sz) | 3:54 |
 | 117 | [Light Up the Sky](https://open.spotify.com/track/1w3KRXDABnSmbVSwJL2c0N) | [The Afters](https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc) | [The Beginning & Everything After](https://open.spotify.com/album/30Cu7H7abvkKw8EuWckmG0) | 3:41 |
-| 118 | [Blessing I Can’t See](https://open.spotify.com/track/21Inq0qVklN60Sn15ye3bS) | [Building 429](https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY), [brook\(e\)](https://open.spotify.com/artist/1VEX0MeLsiGvEq2OYP9hri) | [Fear No More EP](https://open.spotify.com/album/2x7hnyjNJgvS7rKDBck8zE) | 3:53 |
-| 119 | [One Thing Remains](https://open.spotify.com/track/1pVosmqPBSi5QHiQZFcsBy) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Brian Johnson](https://open.spotify.com/artist/7qTSoObqlJkIybERfumbQ9) | [The Loft Sessions](https://open.spotify.com/album/4gpwBS3FpUuSPfrV8D9Bqr) | 4:01 |
+| 118 | [One Thing Remains](https://open.spotify.com/track/1pVosmqPBSi5QHiQZFcsBy) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Brian Johnson](https://open.spotify.com/artist/7qTSoObqlJkIybERfumbQ9) | [The Loft Sessions](https://open.spotify.com/album/4gpwBS3FpUuSPfrV8D9Bqr) | 4:01 |
+| 119 | [Blessing I Can’t See](https://open.spotify.com/track/21Inq0qVklN60Sn15ye3bS) | [Building 429](https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY), [brook\(e\)](https://open.spotify.com/artist/1VEX0MeLsiGvEq2OYP9hri) | [Fear No More EP](https://open.spotify.com/album/2x7hnyjNJgvS7rKDBck8zE) | 3:53 |
 | 120 | [Sweet Victory](https://open.spotify.com/track/3RpcCr8ZlIiYEctUYBAGQm) | [Trip Lee](https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy), [Dimitri McDowell](https://open.spotify.com/artist/0z5SAvLBgXdLs33L3tLbfo), [Leah Smith](https://open.spotify.com/artist/29b38fzTLn3i4vvRNCED2E) | [Rise](https://open.spotify.com/album/2QPKh4LqUxtwXGwbriYzqZ) | 5:08 |
 | 121 | [There Is None Like You \- Live](https://open.spotify.com/track/6gVkG8f7ldsQs0jAI8cB4X) | [Lenny LeBlanc](https://open.spotify.com/artist/6UXDMJQeP2GCfHgspo2KZx) | [Pure Heart \(Live\)](https://open.spotify.com/album/5tke3M4DlnUd6fChHyIxKg) | 3:28 |
 | 122 | [Hosanna \- Live](https://open.spotify.com/track/3iCyKTgnCYAhYJKaGsBmg8) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [Awe + Wonder \(Live\)](https://open.spotify.com/album/2Qp1udkJdjI6zW6Lr7wO3g) | 6:29 |
@@ -136,8 +136,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1VaLD1v09s.md) - [plain]
 | 126 | [Just As I Am](https://open.spotify.com/track/1vW0I3mvZcTbJv7jNZyroL) | [Jason Crabb](https://open.spotify.com/artist/61SFRZAmfyJhcffwR2Ijuq) | [Just As I Am](https://open.spotify.com/album/4asSIiMPdmZ6ZOyaASzHYe) | 3:30 |
 | 127 | [Grave](https://open.spotify.com/track/5maAhFnbY2RPPYcaCPB1Tb) | [Cochren & Co.](https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4) | [Don't Lose Hope](https://open.spotify.com/album/3Us0eofAYq7tRuaH7A56i0) | 3:23 |
 | 128 | [I Surrender](https://open.spotify.com/track/13p3U002Sv8z722mFjTuWi) | [All Sons & Daughters](https://open.spotify.com/artist/44LPOpECjnIlnwH91wo2ir), [Leslie Jordan](https://open.spotify.com/artist/5AxCkKr6aZBRfm9KD7ermh), [David Leonard](https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE) | [Poets & Saints](https://open.spotify.com/album/4Ep9pR8RIXphUEEkgeELBK) | 4:13 |
-| 129 | [To Live Is Christ](https://open.spotify.com/track/2RQvdhnvPxxLBHkCPd1dnw) | [Sidewalk Prophets](https://open.spotify.com/artist/2SMYoM2Kbcj6rI6U3FRc4U) | [Something Different \(Deluxe Version\)](https://open.spotify.com/album/4S4lInmCZneeMgd2wUJAwr) | 3:48 |
-| 130 | [I Could Sing of Your Love Forever](https://open.spotify.com/track/1yowMNvS59dTccbZosir2o) | [Delirious?](https://open.spotify.com/artist/53Z2RNY4OYJ0Galu6AWzxF) | [Cutting Edge 1 & 2](https://open.spotify.com/album/6w2F4U8DetNtAucmynDj5v) | 6:10 |
+| 129 | [I Could Sing of Your Love Forever](https://open.spotify.com/track/1yowMNvS59dTccbZosir2o) | [Delirious?](https://open.spotify.com/artist/53Z2RNY4OYJ0Galu6AWzxF) | [Cutting Edge 1 & 2](https://open.spotify.com/album/6w2F4U8DetNtAucmynDj5v) | 6:10 |
+| 130 | [To Live Is Christ](https://open.spotify.com/track/2RQvdhnvPxxLBHkCPd1dnw) | [Sidewalk Prophets](https://open.spotify.com/artist/2SMYoM2Kbcj6rI6U3FRc4U) | [Something Different \(Deluxe Version\)](https://open.spotify.com/album/4S4lInmCZneeMgd2wUJAwr) | 3:48 |
 | 131 | [Head to the Heart \(Live\)](https://open.spotify.com/track/53LcankShhZrR40AedT26x) | [United Pursuit](https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo) | [Simple Gospel \(Live\)](https://open.spotify.com/album/3gQerhWK0nFDxmqRZww8Qp) | 5:20 |
 | 132 | [You're Bigger](https://open.spotify.com/track/5PiY1xNzD1YRtmZe3KRdln) | [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [The Life Project](https://open.spotify.com/album/5Sj4aY2HhAyAlzFXL6FUyY) | 7:26 |
 | 133 | [Lead Me To The Cross](https://open.spotify.com/track/7dfFcTLlCPxoJsRUv5MZ2f) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [From The Inside Out](https://open.spotify.com/album/4ivKc1Y5XCbbFlXavY2MgC) | 4:16 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1VaLD1v09s.md) - [plain]
 | 149 | [What You Could Do With Me](https://open.spotify.com/track/5IJ3tn2MfGpGJ7GEGN3vhV) | [Josh Wright](https://open.spotify.com/artist/0okSx9dxCq2J9CYuAQalp2) | [What You Could Do With Me](https://open.spotify.com/album/4uy0OpUiNRU5mXvrFavQze) | 3:51 |
 | 150 | [Speak the Name \(feat\. Natalie Grant\)](https://open.spotify.com/track/6ERUhKp4ECxlnmJvKQZpu1) | [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW), [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Unstoppable](https://open.spotify.com/album/5ZyTkx6rT1LnFXvZhpEang) | 4:52 |
 
-Snapshot ID: `MTY1MDE3NDY2OCwwMDAwMDAwMGNlNDhlN2QzZTcwNTg0MzJlN2Y3ODRlZmM1MmUzMTdh`
+Snapshot ID: `MTY1MDE3NDY2OCwwMDAwMDAwMDkxYzRlMWUyNmQ4OGVlOTk2OWIxZDVlYzcxNTNiY2Yw`

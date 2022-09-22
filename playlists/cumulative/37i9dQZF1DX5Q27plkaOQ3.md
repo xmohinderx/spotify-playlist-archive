@@ -4,7 +4,7 @@
 
 > All <a href="spotify:genre:bass">wobble</a>\. Cover: Sippy
 
-236 songs - 13 hr 32 min - [published](https://open.spotify.com/playlist/7euR9qztoNP72hm8d8RT1t)
+237 songs - 13 hr 36 min - [published](https://open.spotify.com/playlist/7euR9qztoNP72hm8d8RT1t)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Destroyer](https://open.spotify.com/track/19z6t2S2gWWvlPwwnqUz4V) | [Teddy Killerz](https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm) | [Destroyer](https://open.spotify.com/album/3vPigQ0lyiT4gqmiijHKYe) | 3:33 | 2021-12-17 | 2022-07-29 |
 | [DIFFRENT](https://open.spotify.com/track/3EvKRA9ZDmZ0RL3emxE884) | [BLVK JVCK](https://open.spotify.com/artist/32IXja3Y6CPvnAtTHD2bWg), [THATSHYM](https://open.spotify.com/artist/2G6zjE7TSKRPPpY8EgAnpq) | [DIFFRENT](https://open.spotify.com/album/68m1oLyZBu6bIRB4L1sHKL) | 3:05 | 2022-02-04 |  |
 | [Dimension](https://open.spotify.com/track/3IWkjBkiR4pHOkaHV52OMl) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb) | [Dimension](https://open.spotify.com/album/2DX7xiwtqyOVG3BmgyIbV4) | 2:39 | 2022-03-18 |  |
+| [Discovery](https://open.spotify.com/track/1hL68mCCsLmtSJNr1W8HmR) | [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg) | [Discovery](https://open.spotify.com/album/4zPaHY0Q3lKzH151iHPL9A) | 4:20 | 2022-09-16 |  |
 | [Do It To It \- Subtronics Remix](https://open.spotify.com/track/4JHL5XOuByjoHSt5bcVk0u) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Cherish](https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo) | [Do It To It \(Subtronics Remix\)](https://open.spotify.com/album/50ojeeiaz71JzrgDJfzsIw) | 2:27 | 2022-04-15 |  |
 | [Don't Look Down \- Slippy Remix](https://open.spotify.com/track/0rg4wm7N51dWAFZ6gPbtjy) | [William Black](https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h), [Leslie Powell](https://open.spotify.com/artist/67tylszKgAZkKeJ0hCMyjU), [Slippy](https://open.spotify.com/artist/3gxGPuGK6DOpv7XVp8V6jG) | [Pieces \(Remixes\)](https://open.spotify.com/album/1Ic9G6GEpSFcopAVI4Cbw9) | 3:40 | 2022-07-01 | 2022-09-03 |
 | [Don’t Look Down \(feat\. Linney\)](https://open.spotify.com/track/6Rzv2CVwDi7hYnVU5wKcXe) | [MitiS](https://open.spotify.com/artist/16yUpGkBRgc2eDMd3bB3Uw), [Ray Volpe](https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Don’t Look Down \(feat\. Linney\)](https://open.spotify.com/album/2cPDBEbEqCBsm9I2cxL9jj) | 4:03 | 2022-09-16 |  |
@@ -219,7 +220,7 @@
 | [THE OG](https://open.spotify.com/track/0pUp5f9v9g8X4JpOw1QCzb) | [Ghastly](https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh) | [THE OG](https://open.spotify.com/album/1U2Y3roDpmjy4UqDmrFThN) | 4:20 | 2021-12-17 | 2022-03-05 |
 | [The Pit](https://open.spotify.com/track/03h5bKCEQszowW4jo7fxfN) | [Bossfight](https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN) | [The Pit](https://open.spotify.com/album/0H5c8x30XclLLXZTVvRf0Y) | 3:48 | 2021-12-17 | 2022-05-07 |
 | [The Pluck Song](https://open.spotify.com/track/7gTGDYmGSfSTLmrFw05ePe) | [TYNAN](https://open.spotify.com/artist/5oiSxivTCIoOk5UlMSwzWM) | [The Pluck Song](https://open.spotify.com/album/3A86pcryv8EzIfFxVEIT1f) | 3:45 | 2021-12-17 | 2022-07-29 |
-| [The Rat](https://open.spotify.com/track/6YMq1v6wu5iLezbCFDcUWw) | [Sam Lamar](https://open.spotify.com/artist/2ihPQnVz8d2ePjGcXLbNf8) | [The Rat](https://open.spotify.com/album/5DHdM2FHkSZgWvxnZLN9u7) | 3:13 | 2021-12-17 |  |
+| [The Rat](https://open.spotify.com/track/6YMq1v6wu5iLezbCFDcUWw) | [Sam Lamar](https://open.spotify.com/artist/2ihPQnVz8d2ePjGcXLbNf8) | [The Rat](https://open.spotify.com/album/5DHdM2FHkSZgWvxnZLN9u7) | 3:13 | 2021-12-17 | 2022-09-22 |
 | [THE SHOOTV](https://open.spotify.com/track/5TAhkZc6p4XKuYGMnbwTdU) | [BLVK JVCK](https://open.spotify.com/artist/32IXja3Y6CPvnAtTHD2bWg) | [THE SHOOTV](https://open.spotify.com/album/1DfkvG8j619HUAmeTAa0fQ) | 3:05 | 2021-12-17 | 2022-03-12 |
 | [The Takeover](https://open.spotify.com/track/7K8fmTPRda4YWsBTnin2nr) | [Chime](https://open.spotify.com/artist/3hMTYaexWgGkXqvbkt6EIS), [The Living Proof](https://open.spotify.com/artist/0ugBL1a1T65aLKkctOHh2d) | [The Takeover](https://open.spotify.com/album/4iaLkyelNjYfqcQlan0zVl) | 3:40 | 2022-07-29 |  |
 | [The Uprising](https://open.spotify.com/track/03wsvOuSWSo0HbHFBgY9li) | [REAPER](https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf), [Kumarion](https://open.spotify.com/artist/1mlAkvaCrzWSxS2ATBZh27) | [The Uprising](https://open.spotify.com/album/6xpb60RTZpstoFxakOAXZ0) | 3:17 | 2022-06-24 |  |

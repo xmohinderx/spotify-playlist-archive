@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSzguhfGl55y.md) - [plain]
 
 > Die größten Hits der deutschen Hip\-Hop\-Geschichte.
 
-[Spotify](https://open.spotify.com/user/spotify) - 573,667 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 573,767 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSzguhfGl55y.md) - [plain]
 | 49 | [Verstrahlt](https://open.spotify.com/track/1wblDHAGAHk9v3prkgPZwI) | [Marteria](https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB), [Yasha](https://open.spotify.com/artist/3tmjMu5zfLOTVJ8YX5FDpU) | [Zum Glück in die Zukunft](https://open.spotify.com/album/7nBhK71CSKNj5utsMybDTg) | 3:54 |
 | 50 | [Fuffies Im Club](https://open.spotify.com/track/1A0b0yR0quuBByKQzASAvf) | [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq) | [Maske X](https://open.spotify.com/album/4TbgjGDL2TAlflFfktyrNP) | 3:47 |
 
-Snapshot ID: `MTY2MjY1MjA2OCwwMDAwMDAwMGExZmY3ZWIyZTg2Zjc2NTZlMzM1MTY2NmViM2QxMjYx`
+Snapshot ID: `MTY2Mzc2MzgxMCwwMDAwMDAwMDIyZGZhNmQyMTdhM2I4MTliNjgzMWFiOTYwNjIyYzE3`

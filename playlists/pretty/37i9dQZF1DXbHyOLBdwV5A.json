@@ -1,12 +1,12 @@
 {
   "description": "A palavra do Senhor pra voc\u00ea dan\u00e7ar. Foto: DJ Roger Vale, Brunno Ramos",
-  "num_followers": 87198,
+  "num_followers": 87219,
   "original_name": "Balada Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjEyOTU4MywwMDAwMDAwMDVmNmJlOTIzZGY4MTI3YWZkMjRlYjY4ZDRlZGVjMzJj",
+  "snapshot_id": "MTY2MjEyOTU4MywwMDAwMDAwMGRhMzdkY2U0MWI4ZmQwOGI0ZWZmNzRhOGI5ZWJiZGYx",
   "tracks": [
     {
       "added_at": "2022-09-02 14:39:43",
@@ -263,18 +263,22 @@
     {
       "added_at": "2022-09-02 14:39:43",
       "album": {
-        "name": "Sou Casa (Remix)",
-        "url": "https://open.spotify.com/album/2bKQcmE54MPnLkRR4RRfPK"
+        "name": "Tu \u00c9s Deus (Remix)",
+        "url": "https://open.spotify.com/album/5U0fbJImCZcypSvguz9twm"
       },
       "artists": [
+        {
+          "name": "Filipe Lancaster",
+          "url": "https://open.spotify.com/artist/5ue1WcGZ9D5B9FcmBe7Juw"
+        },
         {
           "name": "DJ Marcos Andre",
           "url": "https://open.spotify.com/artist/65e0Jrglrzx2wsS0HQ6b61"
         }
       ],
-      "duration_ms": 209632,
-      "name": "Sou Casa - Remix",
-      "url": "https://open.spotify.com/track/6ahG2VlyTDhmFUqMYPPLSV"
+      "duration_ms": 154285,
+      "name": "Tu \u00c9s Deus - Remix",
+      "url": "https://open.spotify.com/track/1C77izjMS0dzbdYlOGpu2l"
     },
     {
       "added_at": "2022-09-02 14:39:43",
@@ -323,22 +327,18 @@
     {
       "added_at": "2022-09-02 14:39:43",
       "album": {
-        "name": "Tu \u00c9s Deus (Remix)",
-        "url": "https://open.spotify.com/album/5U0fbJImCZcypSvguz9twm"
+        "name": "Sou Casa (Remix)",
+        "url": "https://open.spotify.com/album/2bKQcmE54MPnLkRR4RRfPK"
       },
       "artists": [
-        {
-          "name": "Filipe Lancaster",
-          "url": "https://open.spotify.com/artist/5ue1WcGZ9D5B9FcmBe7Juw"
-        },
         {
           "name": "DJ Marcos Andre",
           "url": "https://open.spotify.com/artist/65e0Jrglrzx2wsS0HQ6b61"
         }
       ],
-      "duration_ms": 154285,
-      "name": "Tu \u00c9s Deus - Remix",
-      "url": "https://open.spotify.com/track/1C77izjMS0dzbdYlOGpu2l"
+      "duration_ms": 209632,
+      "name": "Sou Casa - Remix",
+      "url": "https://open.spotify.com/track/6ahG2VlyTDhmFUqMYPPLSV"
     },
     {
       "added_at": "2022-09-02 14:39:43",
@@ -412,7 +412,7 @@
       "added_at": "2022-09-02 14:39:43",
       "album": {
         "name": "Me Faz Viver",
-        "url": "https://open.spotify.com/album/3Q5FROylds8ChyXH0zTasS"
+        "url": "https://open.spotify.com/album/2BKs37OkjYgVvrzDnhxXqN"
       },
       "artists": [
         {
@@ -422,11 +422,15 @@
         {
           "name": "Marcelo Markes",
           "url": "https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2"
+        },
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
         }
       ],
-      "duration_ms": 151945,
-      "name": "Me Faz Viver",
-      "url": "https://open.spotify.com/track/4qq6jj8rureuqHHdy54CDY"
+      "duration_ms": 191552,
+      "name": "Eu Tenho Voc\u00ea (Remix)",
+      "url": "https://open.spotify.com/track/6scM0ZJ4QxPaAXkl7OCxcl"
     },
     {
       "added_at": "2022-09-02 14:39:43",
@@ -540,7 +544,7 @@
       "added_at": "2022-09-02 14:39:43",
       "album": {
         "name": "Me Faz Viver",
-        "url": "https://open.spotify.com/album/2BKs37OkjYgVvrzDnhxXqN"
+        "url": "https://open.spotify.com/album/3Q5FROylds8ChyXH0zTasS"
       },
       "artists": [
         {
@@ -550,15 +554,11 @@
         {
           "name": "Marcelo Markes",
           "url": "https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2"
-        },
-        {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
         }
       ],
-      "duration_ms": 191552,
-      "name": "Eu Tenho Voc\u00ea (Remix)",
-      "url": "https://open.spotify.com/track/6scM0ZJ4QxPaAXkl7OCxcl"
+      "duration_ms": 151945,
+      "name": "Me Faz Viver",
+      "url": "https://open.spotify.com/track/4qq6jj8rureuqHHdy54CDY"
     },
     {
       "added_at": "2022-09-02 14:39:43",

@@ -154,6 +154,28 @@
     },
     {
       "album": {
+        "name": "AYANO (Speed Up)",
+        "url": "https://open.spotify.com/album/1dA3OfbB8DUNk9w7d1Dwr1"
+      },
+      "artists": [
+        {
+          "name": "kobzx2z",
+          "url": "https://open.spotify.com/artist/1e1A7s86U6f7cyJAivpfY3"
+        },
+        {
+          "name": "Speed Radio",
+          "url": "https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108999,
+      "name": "AYANO - Speed Up",
+      "url": "https://open.spotify.com/track/13laoPfypXtxTIy4zg9mhG"
+    },
+    {
+      "album": {
         "name": "Baby Girl",
         "url": "https://open.spotify.com/album/06SuoEMTpd5PGRVwuIpETC"
       },
@@ -421,6 +443,24 @@
       "duration_ms": 125361,
       "name": "Freak Show",
       "url": "https://open.spotify.com/track/2Rb6nYmuLEblpq4KIAjngL"
+    },
+    {
+      "album": {
+        "name": "Gangsta (Kehlani) [Sped Up Version]",
+        "url": "https://open.spotify.com/album/1L1jza2QSImCzOkQq7f5mO"
+      },
+      "artists": [
+        {
+          "name": "sped up nightcore",
+          "url": "https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132137,
+      "name": "Gangsta (Kehlani) - Sped Up Version",
+      "url": "https://open.spotify.com/track/4Z7ZOrHtlgn9kXw68c0pMo"
     },
     {
       "album": {
@@ -1377,28 +1417,6 @@
       "duration_ms": 95817,
       "name": "why so srs?",
       "url": "https://open.spotify.com/track/0rifR43CptApOWLL8kMkcg"
-    },
-    {
-      "album": {
-        "name": "why so srs?",
-        "url": "https://open.spotify.com/album/1dA3OfbB8DUNk9w7d1Dwr1"
-      },
-      "artists": [
-        {
-          "name": "Rebeudeter",
-          "url": "https://open.spotify.com/artist/74Yd3n0K6G3m6T32Bl2A5y"
-        },
-        {
-          "name": "outer streets",
-          "url": "https://open.spotify.com/artist/07Kya5CjMDo2yVV8YFJg9T"
-        }
-      ],
-      "date_added": "2022-09-09",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 95538,
-      "name": "why so srs?",
-      "url": "https://open.spotify.com/track/13laoPfypXtxTIy4zg9mhG"
     },
     {
       "album": {

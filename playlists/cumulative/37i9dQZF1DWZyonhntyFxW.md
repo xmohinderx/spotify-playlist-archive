@@ -4,7 +4,7 @@
 
 > أقوى أغاني الراب المصري في مكان واحد 😎<br/>! غلاف: مروان موسى
 
-92 songs - 4 hr 50 min - [published](https://open.spotify.com/playlist/6yEdqmm0KWZqYgvxTRioiU)
+93 songs - 4 hr 52 min - [published](https://open.spotify.com/playlist/6yEdqmm0KWZqYgvxTRioiU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [HARAZEEK](https://open.spotify.com/track/4KkZaDtLIuCiCUH6Zwy0rx) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR), [Amr Saad](https://open.spotify.com/artist/1hrucExvTdqEfvm2NSjMzv) | [HARAZEEK](https://open.spotify.com/album/0CGER7nFUzj3GFGKK3UJD0) | 2:38 | 2022-05-10 |  |
 | [HUSTLE](https://open.spotify.com/track/3Ya32EkNaAQL8VDbvsfTup) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb), [Alyoungofficial](https://open.spotify.com/artist/0cCdSqBWH0WY1rg6yFTA3C), [Randarofficial](https://open.spotify.com/artist/0yaac3M9Xna3EgrANm9qnk) | [HUSTLE](https://open.spotify.com/album/3caZFDjOYlqVVsrBjCgAOy) | 2:45 | 2022-05-10 | 2022-06-29 |
 | [Keify Keda](https://open.spotify.com/track/3yWSjxKQMpa7hXcmVElZgX) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q), [Disco Misr](https://open.spotify.com/artist/1HIaYLpcp8yyYRSQFP7vIi) | [Keify Keda](https://open.spotify.com/album/2bYcADdJfRTNcKfzPskfkq) | 3:13 | 2022-05-10 |  |
+| [Khamsa](https://open.spotify.com/track/13CV3gU68sljNILYjjaIBR) | [Wingii](https://open.spotify.com/artist/3i5MnWpawRCC9SYhLIHP7W), [FL EX](https://open.spotify.com/artist/4rACOXTxSYqwgynYKJJpDX) | [Star](https://open.spotify.com/album/7knqeOrwUe1idz6IZoD2hJ) | 2:18 | 2022-09-21 |  |
 | [LOGAN](https://open.spotify.com/track/3TFIDBWstsKUbXBGedJAWO) | [FL EX](https://open.spotify.com/artist/4rACOXTxSYqwgynYKJJpDX) | [MESAMA3EEN](https://open.spotify.com/album/45VlLbu11muNolrvvu3vGo) | 2:06 | 2022-08-23 |  |
 | [LOKLOK](https://open.spotify.com/track/5nXheavFnyhPyQXdO0jL3u) | [Shahyn](https://open.spotify.com/artist/3SMvE0QyULRkKy2Y2FLbUG), [Farra](https://open.spotify.com/artist/4jaR2Xjm4FXiPM3JB1l0rT) | [LOKLOK](https://open.spotify.com/album/7rMduOQflk9P9TnxwRjs4X) | 3:39 | 2022-06-28 |  |
 | [Ma3lesh Ana Toht](https://open.spotify.com/track/5bWMX0CAw3ZSuUmBStnI23) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Ma3lesh Ana Toht](https://open.spotify.com/album/1Bto2XiqyMEb9FHB1BkGFI) | 3:33 | 2022-05-10 | 2022-06-21 |

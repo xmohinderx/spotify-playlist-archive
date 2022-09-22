@@ -4,7 +4,7 @@
 
 > Prince was a true original and earth\-shattering performer\. Hear Prince Rogers Nelson best right now.
 
-128 songs - 10 hr 29 min - [published](https://open.spotify.com/playlist/7fAjUWCKdwM8RcnPSoDoRu)
+129 songs - 10 hr 31 min - [published](https://open.spotify.com/playlist/7fAjUWCKdwM8RcnPSoDoRu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Batdance](https://open.spotify.com/track/4DbUk1qwcz9KKcUY4t8f8u) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Batman](https://open.spotify.com/album/2FwzHgJ4XaPhC19Y0uL6SK) | 6:13 | 2021-04-09 |  |
 | [Black Sweat](https://open.spotify.com/track/4uHWKxOguUCwu05P0cfveU) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Anthology: 1995\-2010](https://open.spotify.com/album/0CEHFvHUQ0ZSv3mugziS76) | 3:11 | 2021-04-09 |  |
 | [BREAKFAST CAN WAIT](https://open.spotify.com/track/0JMuL1ruqVGPkeZULI6toQ) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [ART OFFICIAL AGE](https://open.spotify.com/album/1xRg9g9QCGjFp9poxLnU5M) | 3:54 | 2021-04-09 |  |
+| [Christopher Tracy's Parade](https://open.spotify.com/track/0k2VivnC5j4vokUZL57eWf) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Parade \- Music from the Motion Picture Under the Cherry Moon](https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB) | 2:11 | 2022-09-21 |  |
 | [Come](https://open.spotify.com/track/1gjT5MQqkG7wgV807icgoq) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Come](https://open.spotify.com/album/5qwEgS60NsL4Pd7ZRuIpSF) | 11:13 | 2021-04-09 |  |
 | [Come](https://open.spotify.com/track/37boVGhMqQF129fn3jHQU4) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Come](https://open.spotify.com/album/33BRH4AOQ69mih469MGz3Y) | 11:13 | 2021-04-09 | 2022-07-29 |
 | [Controversy](https://open.spotify.com/track/417BgvwuyihreDKPXbp2kS) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Controversy](https://open.spotify.com/album/27fOQ2nbqOv460RSUFW7E4) | 7:15 | 2021-04-09 |  |

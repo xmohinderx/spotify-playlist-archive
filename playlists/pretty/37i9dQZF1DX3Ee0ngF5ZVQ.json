@@ -1,12 +1,12 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Koe Wetzel",
-  "num_followers": 384904,
+  "num_followers": 384994,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMGJkNDNkMDQ2YzY3ZGM2MWRhMzkwMDk0NGY1YmNmZDQy",
+  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMGRkYWMyZTcwMmM2NTk5MTVjYmVhYjAyNDJkOWExNTk0",
   "tracks": [
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
+        "name": "Pleasure in the Pain (Acoustic)",
+        "url": "https://open.spotify.com/album/0g34MxtPrMRcK6uVtNAQ99"
+      },
+      "artists": [
+        {
+          "name": "Dylan Wheeler",
+          "url": "https://open.spotify.com/artist/0wt7kveV9BteRyhkkWGj87"
+        }
+      ],
+      "duration_ms": 238132,
+      "name": "Pleasure in the Pain (Acoustic)",
+      "url": "https://open.spotify.com/track/0SnkVKNi88G8lKlXala0Nu"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
         "name": "Heartbreak",
         "url": "https://open.spotify.com/album/1YNRiSLFpupJgMqZxRyxQx"
       },
@@ -1475,22 +1491,6 @@
       "duration_ms": 248666,
       "name": "Western Tears",
       "url": "https://open.spotify.com/track/5in7jYPcrDH7vXB0C9vffq"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "Pleasure in the Pain (Acoustic)",
-        "url": "https://open.spotify.com/album/0g34MxtPrMRcK6uVtNAQ99"
-      },
-      "artists": [
-        {
-          "name": "Dylan Wheeler",
-          "url": "https://open.spotify.com/artist/0wt7kveV9BteRyhkkWGj87"
-        }
-      ],
-      "duration_ms": 238132,
-      "name": "Pleasure in the Pain (Acoustic)",
-      "url": "https://open.spotify.com/track/0SnkVKNi88G8lKlXala0Nu"
     },
     {
       "added_at": "2022-09-16 04:00:00",

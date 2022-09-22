@@ -1,12 +1,12 @@
 {
   "description": "Digging deep into the history of 10s pop.",
-  "num_followers": 146856,
+  "num_followers": 146928,
   "original_name": "Deep Dive: 10s Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTUxMDMwNSwwMDAwMDAwMGQ2ZGM1OWYzMjE2M2I3NmY5NjJkODA1NjhjZDA4ZTc4",
+  "snapshot_id": "MTY1OTUxMDMwNSwwMDAwMDAwMDY5N2YzMzlhMmI5MjI2NDllYmIzN2M2NTZjNDBlNjQw",
   "tracks": [
     {
       "added_at": "2022-05-11 13:21:51",
@@ -5015,22 +5015,6 @@
     {
       "added_at": "2022-05-11 13:21:51",
       "album": {
-        "name": "Sound of Silence",
-        "url": "https://open.spotify.com/album/4v6nXxsfpkBpUA9PEAh7nj"
-      },
-      "artists": [
-        {
-          "name": "Dami Im",
-          "url": "https://open.spotify.com/artist/2wSrZOe6YVo6XoKma22sdY"
-        }
-      ],
-      "duration_ms": 195479,
-      "name": "Sound of Silence",
-      "url": "https://open.spotify.com/track/2b9czDPSLTI88694CIqCy3"
-    },
-    {
-      "added_at": "2022-05-11 13:21:51",
-      "album": {
         "name": "Party's Over",
         "url": "https://open.spotify.com/album/60KRe9g5BKUHGVskhcRhBY"
       },
@@ -5043,6 +5027,22 @@
       "duration_ms": 211758,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/2IQHkgihsAvSxuCh7uwikt"
+    },
+    {
+      "added_at": "2022-05-11 13:21:51",
+      "album": {
+        "name": "Sound of Silence",
+        "url": "https://open.spotify.com/album/4v6nXxsfpkBpUA9PEAh7nj"
+      },
+      "artists": [
+        {
+          "name": "Dami Im",
+          "url": "https://open.spotify.com/artist/2wSrZOe6YVo6XoKma22sdY"
+        }
+      ],
+      "duration_ms": 195479,
+      "name": "Sound of Silence",
+      "url": "https://open.spotify.com/track/2b9czDPSLTI88694CIqCy3"
     },
     {
       "added_at": "2022-05-11 13:21:51",
@@ -5639,22 +5639,6 @@
     {
       "added_at": "2022-05-11 13:21:51",
       "album": {
-        "name": "Recovering",
-        "url": "https://open.spotify.com/album/6mVwTXNFp23BWUZW848DtU"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        }
-      ],
-      "duration_ms": 204866,
-      "name": "Recovering",
-      "url": "https://open.spotify.com/track/2i5cEE9nhkYDL2B2p5F1zu"
-    },
-    {
-      "added_at": "2022-05-11 13:21:51",
-      "album": {
         "name": "Last Year Was Complicated",
         "url": "https://open.spotify.com/album/4Yww2EYetseL1eL2YuvLna"
       },
@@ -5671,18 +5655,18 @@
     {
       "added_at": "2022-05-11 13:21:51",
       "album": {
-        "name": "This Is What The Truth Feels Like (Deluxe)",
-        "url": "https://open.spotify.com/album/4axtAJxO6n73s5ZGBxWAio"
+        "name": "Recovering",
+        "url": "https://open.spotify.com/album/6mVwTXNFp23BWUZW848DtU"
       },
       "artists": [
         {
-          "name": "Gwen Stefani",
-          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
         }
       ],
-      "duration_ms": 216946,
-      "name": "Make Me Like You",
-      "url": "https://open.spotify.com/track/3AIOGUttDrVfuAvP1kotP9"
+      "duration_ms": 204866,
+      "name": "Recovering",
+      "url": "https://open.spotify.com/track/2i5cEE9nhkYDL2B2p5F1zu"
     },
     {
       "added_at": "2022-05-11 13:21:51",
@@ -5699,6 +5683,22 @@
       "duration_ms": 234413,
       "name": "Higher",
       "url": "https://open.spotify.com/track/3MXDEDLmQPSQvoyJIYbIp3"
+    },
+    {
+      "added_at": "2022-05-11 13:21:51",
+      "album": {
+        "name": "This Is What The Truth Feels Like (Deluxe)",
+        "url": "https://open.spotify.com/album/4axtAJxO6n73s5ZGBxWAio"
+      },
+      "artists": [
+        {
+          "name": "Gwen Stefani",
+          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
+        }
+      ],
+      "duration_ms": 216946,
+      "name": "Make Me Like You",
+      "url": "https://open.spotify.com/track/3AIOGUttDrVfuAvP1kotP9"
     },
     {
       "added_at": "2022-05-11 13:21:51",
@@ -5779,22 +5779,6 @@
     {
       "added_at": "2022-05-11 13:21:51",
       "album": {
-        "name": "Long Way Home",
-        "url": "https://open.spotify.com/album/5h5HjSBjZ2dAuGxGL6L2EB"
-      },
-      "artists": [
-        {
-          "name": "L\u00e5psley",
-          "url": "https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg"
-        }
-      ],
-      "duration_ms": 250083,
-      "name": "Love Is Blind",
-      "url": "https://open.spotify.com/track/4gHVaZx1qKbWZ17ryZcBpL"
-    },
-    {
-      "added_at": "2022-05-11 13:21:51",
-      "album": {
         "name": "Heavy",
         "url": "https://open.spotify.com/album/3Ij5M43l3qsAp4S6RMsk71"
       },
@@ -5807,6 +5791,22 @@
       "duration_ms": 172869,
       "name": "Heavy",
       "url": "https://open.spotify.com/track/2X8GwyuNBiOJKLCLNaefOT"
+    },
+    {
+      "added_at": "2022-05-11 13:21:51",
+      "album": {
+        "name": "Long Way Home",
+        "url": "https://open.spotify.com/album/5h5HjSBjZ2dAuGxGL6L2EB"
+      },
+      "artists": [
+        {
+          "name": "L\u00e5psley",
+          "url": "https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg"
+        }
+      ],
+      "duration_ms": 250083,
+      "name": "Love Is Blind",
+      "url": "https://open.spotify.com/track/4gHVaZx1qKbWZ17ryZcBpL"
     },
     {
       "added_at": "2022-05-11 13:21:51",
@@ -5951,22 +5951,6 @@
     {
       "added_at": "2022-05-11 13:21:51",
       "album": {
-        "name": "Can't Help Myself",
-        "url": "https://open.spotify.com/album/6X4EMFETZWj4LXd8TpsnZP"
-      },
-      "artists": [
-        {
-          "name": "Lou and Matthew",
-          "url": "https://open.spotify.com/artist/43Ij4TGofSYrrATCUydG6Z"
-        }
-      ],
-      "duration_ms": 234361,
-      "name": "Can't Help Myself",
-      "url": "https://open.spotify.com/track/48e8Xd7N9N3jWmMOV5Q7tV"
-    },
-    {
-      "added_at": "2022-05-11 13:21:51",
-      "album": {
         "name": "Sway",
         "url": "https://open.spotify.com/album/3fSRbKgYW6kcR1ZFMaaNV4"
       },
@@ -5979,6 +5963,22 @@
       "duration_ms": 205586,
       "name": "Mistakes",
       "url": "https://open.spotify.com/track/0yvpLNRWeGarNOcQzxxDw8"
+    },
+    {
+      "added_at": "2022-05-11 13:21:51",
+      "album": {
+        "name": "Can't Help Myself",
+        "url": "https://open.spotify.com/album/6X4EMFETZWj4LXd8TpsnZP"
+      },
+      "artists": [
+        {
+          "name": "Lou and Matthew",
+          "url": "https://open.spotify.com/artist/43Ij4TGofSYrrATCUydG6Z"
+        }
+      ],
+      "duration_ms": 234361,
+      "name": "Can't Help Myself",
+      "url": "https://open.spotify.com/track/48e8Xd7N9N3jWmMOV5Q7tV"
     },
     {
       "added_at": "2022-05-11 13:21:51",

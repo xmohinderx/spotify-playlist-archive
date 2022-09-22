@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMetQrUYhar.md) - [plain]
 
 > Your favorite indie & alternative jams, reimagined and recorded exclusively for Spotify Singles\. Cover: MUNA
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,680 likes - 125 songs - 7 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,691 likes - 125 songs - 7 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,8 +106,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMetQrUYhar.md) - [plain]
 | 96 | [Everybody Wants To Be Famous \- Recorded at RAK Studios, London](https://open.spotify.com/track/2cfvcnasI4AbplUmYXTyjP) | [Superorganism](https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE) | [Spotify Singles](https://open.spotify.com/album/2jVlmo3NT5VZaOCd353TFv) | 3:18 |
 | 97 | [Born Again \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0BGdxW79sZA6nmuws983bE) | [Saint Motel](https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV) | [Spotify Singles](https://open.spotify.com/album/5yPmcKtzc9A0RcKpCFqQtZ) | 3:51 |
 | 98 | [Water \- Jim Eno Sessions](https://open.spotify.com/track/2wufv9jAZvrEVq5vTyTril) | [Ra Ra Riot](https://open.spotify.com/artist/6FIrstf3kHEg3zBOyLpvxD) | [Spotify Sessions](https://open.spotify.com/album/2fDaqqrHSc4gfy8sAu8MXg) | 4:19 |
-| 99 | [Body's In Trouble \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/40OXv3JCTBrMlh9DjDVXqy) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Spotify Singles](https://open.spotify.com/album/4WQLkeOJulFut0ZPTFQQdi) | 3:44 |
-| 100 | [Rockstar \- Recorded At Abbey Road Studios, London](https://open.spotify.com/track/5D6Z7Iof3v5QRbaW2LquoN) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [Spotify Singles](https://open.spotify.com/album/2bOO36ZGSYDuXj27cdnxKE) | 3:57 |
+| 99 | [Rockstar \- Recorded At Abbey Road Studios, London](https://open.spotify.com/track/5D6Z7Iof3v5QRbaW2LquoN) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [Spotify Singles](https://open.spotify.com/album/2bOO36ZGSYDuXj27cdnxKE) | 3:57 |
+| 100 | [Body's In Trouble \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/40OXv3JCTBrMlh9DjDVXqy) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Spotify Singles](https://open.spotify.com/album/4WQLkeOJulFut0ZPTFQQdi) | 3:44 |
 | 101 | [Nancy From Now On \- Spotify Sessions Curated by Jim Eno](https://open.spotify.com/track/6lLCsTI2SIMHTyi5AM897D) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Spotify Sessions \- Curated by Jim Eno](https://open.spotify.com/album/7LA6J1jUUYRw6KSTKxOrbG) | 4:10 |
 | 102 | [Face Like Thunder \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/0OKn9iHjJ8ZNfCRff1mLJA) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Spotify Singles](https://open.spotify.com/album/05P14Crb7IRWfwSYFgKiM2) | 4:14 |
 | 103 | [The Falls \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6RasuQ5G0sJNP0v5feNurh) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Spotify Singles](https://open.spotify.com/album/5XwtoYuub04Jp9e4HA6PNv) | 2:19 |
@@ -120,8 +120,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMetQrUYhar.md) - [plain]
 | 110 | [Shades of Blue \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5Js2KuiUtuv5o9eu5hy5s1) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [Spotify Singles](https://open.spotify.com/album/1iCPl6KTM3OyL2rHgWorNH) | 2:55 |
 | 111 | [Mr\. Tillman \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0qkXjeim9CYNcXlVXQuYCb) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Spotify Singles](https://open.spotify.com/album/2cWqFyCDTBXrTx5hy86qK5) | 3:18 |
 | 112 | [Fountain Of Youth](https://open.spotify.com/track/14B3iL077fUYRAkmka5eTq) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Spotify Singles](https://open.spotify.com/album/2pmZrbCbPmu1tKnABQTumb) | 3:49 |
-| 113 | [Fire on the Mountain \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0VYh7UE0QG71xFfPEI353W) | [Pierce Fulton](https://open.spotify.com/artist/5p0zkKpBuRguKebwRe0RI2) | [Spotify Singles](https://open.spotify.com/album/1jairj919ADwCPsOTF0Z1j) | 2:49 |
-| 114 | [Mourning Sound \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4qPb53XN2ilYsBf5OIHdtV) | [Grizzly Bear](https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4) | [Spotify Singles](https://open.spotify.com/album/68X345rpDHj4iY6E7pcT6d) | 5:16 |
+| 113 | [Mourning Sound \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4qPb53XN2ilYsBf5OIHdtV) | [Grizzly Bear](https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4) | [Spotify Singles](https://open.spotify.com/album/68X345rpDHj4iY6E7pcT6d) | 5:16 |
+| 114 | [Fire on the Mountain \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0VYh7UE0QG71xFfPEI353W) | [Pierce Fulton](https://open.spotify.com/artist/5p0zkKpBuRguKebwRe0RI2) | [Spotify Singles](https://open.spotify.com/album/1jairj919ADwCPsOTF0Z1j) | 2:49 |
 | 115 | [Welcome to Your Life \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2cN7H31DES22HCjYitKggF) | [Grouplove](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Spotify Singles](https://open.spotify.com/album/0uneTqrqMeF49ETtLvVOcl) | 3:45 |
 | 116 | [Fire Escape \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/1k2XzKObDo17FgS3ovj3se) | [Andrew McMahon in the Wilderness](https://open.spotify.com/artist/716ZwtZBmwROBXcFmCzfdM) | [Spotify Singles](https://open.spotify.com/album/0MtApzOMJ5uGbMZHhgrMur) | 3:33 |
 | 117 | [Higher \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6wZkI07C2wRQE2W3LkW9Uk) | [The Naked And Famous](https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9) | [Spotify Singles](https://open.spotify.com/album/2ospU0wa9ux7r054JMFbEL) | 3:38 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMetQrUYhar.md) - [plain]
 | 124 | [Genghis Khan \- Jim Eno Sessions](https://open.spotify.com/track/5mFvYNykzBjdXRbPxKnvwA) | [Miike Snow](https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J) | [Spotify Sessions](https://open.spotify.com/album/7mqNAKmDhYPSA1NrvIG0wv) | 3:19 |
 | 125 | [Night So Long \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/28H8wM4aFa1DYUMjw4sI3c) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Spotify Singles](https://open.spotify.com/album/1YRHQaixdZLJkUxQ5glsnk) | 2:55 |
 
-Snapshot ID: `MTY2MjA2MDY5NSwwMDAwMDAwMDE2MjAwMjZjNmJlYjJlNGFhNzBjMmUyNzI0ZDI4ZjNj`
+Snapshot ID: `MTY2MjA2MDY5NSwwMDAwMDAwMDc1NzMxZTE1MTIzODRhOTM5N2VhM2E3Njc4Mzc3Nzk0`

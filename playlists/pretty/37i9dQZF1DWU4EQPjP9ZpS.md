@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4EQPjP9ZpS.md) - [plain]
 
 > get lost in the  a e s t h e t i c
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,386 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,608 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4EQPjP9ZpS.md) - [plain]
 | 57 | [幽霊](https://open.spotify.com/track/5k4CETgejw6DSDTfqXvTba) | [desert sand feels warm at night](https://open.spotify.com/artist/31krAdMGlK6qGv5TCF7e9P) | [囚人](https://open.spotify.com/album/6jK1pKKMjVaRAPGKtdrHW9) | 5:20 |
 | 58 | [Strangers Who Know Every Secret](https://open.spotify.com/track/5QTXHQKxX4fPRJMiHPkGYU) | [Designed Intervention](https://open.spotify.com/artist/4dpQCIT52Zhd5DkCtGjohT) | [Strangers Who Know Every Secret](https://open.spotify.com/album/2HYUqt8hUWWJI1k9Z0ikhk) | 2:36 |
 | 59 | [Intercontinental](https://open.spotify.com/track/6bfuLXMhr4jpG2og7eZWpH) | [Lost Traveler ロスト](https://open.spotify.com/artist/0zUh7z3wJlLWbWFoyrdOxD) | [Intercontinental](https://open.spotify.com/album/7zgV7O9KcT8ZymRfHFGxa3) | 4:13 |
-| 60 | [Edenic Green Plus](https://open.spotify.com/track/3VdhA2Yzb5p1cSBri10ctZ) | [Windows 96](https://open.spotify.com/artist/65XcfOOaVxbZnNlz40DK7i), [Gavriel](https://open.spotify.com/artist/53wGx0J5eu3GdlChMeO8RJ) | [Empty Hiding World](https://open.spotify.com/album/7B9eJo7vRYl1ztGxTOeK4R) | 4:01 |
-| 61 | [mirror gallery \(Windows 96 Remix\)](https://open.spotify.com/track/1qnb5BWjEyWNOw06UWpMNH) | [FM Skyline](https://open.spotify.com/artist/78eLUMRVVuDlDgcvYCYDCf), [Windows 96](https://open.spotify.com/artist/65XcfOOaVxbZnNlz40DK7i) | [mirror gallery \(Windows 96 Remix\)](https://open.spotify.com/album/0MJk13mTHzhooFD8zhuJX2) | 2:43 |
+| 60 | [mirror gallery \(Windows 96 Remix\)](https://open.spotify.com/track/1qnb5BWjEyWNOw06UWpMNH) | [FM Skyline](https://open.spotify.com/artist/78eLUMRVVuDlDgcvYCYDCf), [Windows 96](https://open.spotify.com/artist/65XcfOOaVxbZnNlz40DK7i) | [mirror gallery \(Windows 96 Remix\)](https://open.spotify.com/album/0MJk13mTHzhooFD8zhuJX2) | 2:43 |
+| 61 | [Edenic Green Plus](https://open.spotify.com/track/3VdhA2Yzb5p1cSBri10ctZ) | [Windows 96](https://open.spotify.com/artist/65XcfOOaVxbZnNlz40DK7i), [Gavriel](https://open.spotify.com/artist/53wGx0J5eu3GdlChMeO8RJ) | [Empty Hiding World](https://open.spotify.com/album/7B9eJo7vRYl1ztGxTOeK4R) | 4:01 |
 | 62 | [Melatonin High \- Rework 2021](https://open.spotify.com/track/05NcFvbmsIEHSSiu0YN8HU) | [Dan Mason ダン·メイソン](https://open.spotify.com/artist/7ustec6RrECyewmYxf4cIa) | [Melatonin High \(Rework 2021\)](https://open.spotify.com/album/2sXLqJZI9hraRNOdAYBtdK) | 4:40 |
 | 63 | [新しい時代, Yes!](https://open.spotify.com/track/4UGeYxP5W5sVf0UUblKahK) | [VANITAS命死](https://open.spotify.com/artist/3626h020F6R0HEQdaRTTWI) | [新しい時代, Yes!](https://open.spotify.com/album/03lEQrnYK2LkWnADa0DqhP) | 4:37 |
 | 64 | [都 市 フ ォ ー ラ ム Consumer \[kahvi\]](https://open.spotify.com/track/7jkJ9qQ9i3zc2Z6FFkyaxG) | [猫 シ Corp.](https://open.spotify.com/artist/4eYVVrnphe4blxWuzahYQE) | [シ ョ ッ プ @ ヘ ル シ ン キ](https://open.spotify.com/album/6jIBTgmApxxRoUZAWJJojl) | 5:54 |
@@ -82,10 +82,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4EQPjP9ZpS.md) - [plain]
 | 72 | [Vcrheadaches \- Purge](https://open.spotify.com/track/1Lsl4apcwmBn1S7NuQAkbT) | [King Quartz](https://open.spotify.com/artist/0Dpp9Ra8Tizj3iolElqGri), [VCRheadaches](https://open.spotify.com/artist/2AgYofn08I5PnbylI4mQUI) | [The 33rd Split](https://open.spotify.com/album/2KngsHRVaIQVVTiKiFClbn) | 4:20 |
 | 73 | [Anomaly](https://open.spotify.com/track/1N9xhwPDSx1A8SGPcD7M3k) | [oDDling](https://open.spotify.com/artist/2zhOohLhIGzDcBhAqmBmuE) | [Anomaly](https://open.spotify.com/album/2BacN89ksqwckgSLcayfkb) | 3:52 |
 | 74 | [Sonic in the Holobeach](https://open.spotify.com/track/0D572l8DUok2WQpKMA5MEg) | [FM Skyline](https://open.spotify.com/artist/78eLUMRVVuDlDgcvYCYDCf) | [Sonic in the Holobeach](https://open.spotify.com/album/39XqN8qQbnTPErbj4MPBau) | 4:16 |
-| 75 | [clœ](https://open.spotify.com/track/230pjCGPAeToefwBcQieMZ) | [VAAV Social Club](https://open.spotify.com/artist/2pU9qrYI6KKvYO0I3io8nM) | [clœ & ¡vaya melodía! ツ \(Singles\)](https://open.spotify.com/album/5bX7MiGjET5GUxO10xiuf8) | 2:46 |
-| 76 | [Nature](https://open.spotify.com/track/2GcSVKKKIgnFhXF0t6Cvc9) | [US Golf 95](https://open.spotify.com/artist/5CnHY3fEGCye9RQH7gVvox) | [Swing Tournament](https://open.spotify.com/album/0V64Z07UBDgp8RkDgfMIiC) | 2:52 |
-| 77 | [Bad Baby \(Satin Sheets Remix\)](https://open.spotify.com/track/06o1qEhvUVPibr3yeFLSzi) | [Neggy Gemmy](https://open.spotify.com/artist/3SU7pCbOPCUMboKnxMvHVW) | [Bad Baby \(Satin Sheets Remix\)](https://open.spotify.com/album/73DnEmFsvRyBtCqNKCD3I9) | 4:57 |
-| 78 | [Midi Beach](https://open.spotify.com/track/22ZPueAG5tq036nOJLg2nh) | [AURAGRAPH](https://open.spotify.com/artist/6yR7RysQJaTayvmT0Bx8zt) | [Reflection Plane](https://open.spotify.com/album/5drH29DpqokNHxftcmPzPd) | 3:00 |
+| 75 | [Nature](https://open.spotify.com/track/2GcSVKKKIgnFhXF0t6Cvc9) | [US Golf 95](https://open.spotify.com/artist/5CnHY3fEGCye9RQH7gVvox) | [Swing Tournament](https://open.spotify.com/album/0V64Z07UBDgp8RkDgfMIiC) | 2:52 |
+| 76 | [Bad Baby \(Satin Sheets Remix\)](https://open.spotify.com/track/06o1qEhvUVPibr3yeFLSzi) | [Neggy Gemmy](https://open.spotify.com/artist/3SU7pCbOPCUMboKnxMvHVW) | [Bad Baby \(Satin Sheets Remix\)](https://open.spotify.com/album/73DnEmFsvRyBtCqNKCD3I9) | 4:57 |
+| 77 | [Midi Beach](https://open.spotify.com/track/22ZPueAG5tq036nOJLg2nh) | [AURAGRAPH](https://open.spotify.com/artist/6yR7RysQJaTayvmT0Bx8zt) | [Reflection Plane](https://open.spotify.com/album/5drH29DpqokNHxftcmPzPd) | 3:00 |
+| 78 | [clœ](https://open.spotify.com/track/230pjCGPAeToefwBcQieMZ) | [VAAV Social Club](https://open.spotify.com/artist/2pU9qrYI6KKvYO0I3io8nM) | [clœ & ¡vaya melodía! ツ \(Singles\)](https://open.spotify.com/album/5bX7MiGjET5GUxO10xiuf8) | 2:46 |
 | 79 | [Home Workout VHS](https://open.spotify.com/track/4Uea245Q37jKLFs4i8rMO6) | [Vivi Vulture](https://open.spotify.com/artist/5i7PL36PdMQfPVxLudI090) | [Dr\. ROM](https://open.spotify.com/album/3GWrjC0VhYuLYQuLMU6Kr4) | 2:44 |
 | 80 | [Home and Office](https://open.spotify.com/track/7nLSB0ZrbuHY9gRYJKv9W5) | [Stux.Io](https://open.spotify.com/artist/5OmqY8dwR6GFMocNY3ph68), [Mercurius FM](https://open.spotify.com/artist/4vaCfb7Q90IqXw3U77tAje), [Vaporwavez](https://open.spotify.com/artist/67AOfL6Oi8UZqpuGlw0mT3) | [Home and Office](https://open.spotify.com/album/0Ulc2WfQQRLRd58E6xra7M) | 2:33 |
 | 81 | [Flight](https://open.spotify.com/track/23frDm4y1nX1TA4rA6FQvX) | [XWaves](https://open.spotify.com/artist/03kLm4ZLzEgtQxTC3OKaHQ) | [Peak Internet](https://open.spotify.com/album/67Vh6yM6vFUEA97yRB64eP) | 4:04 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4EQPjP9ZpS.md) - [plain]
 | 99 | [Harlequin](https://open.spotify.com/track/7rDsuv5zejXYlPUkG5nW0p) | [FM Skyline](https://open.spotify.com/artist/78eLUMRVVuDlDgcvYCYDCf) | [Harlequin](https://open.spotify.com/album/3cB1LycEBKXgS2OT8z2sPb) | 2:56 |
 | 100 | [New Wares New Heirs New Game Plus \- Remix](https://open.spotify.com/track/2VvDGxDybgST5iEulmG6EV) | [R23X](https://open.spotify.com/artist/3IPek7qktTBeCtaGB0ZAmr), [Dan Mason ダン·メイソン](https://open.spotify.com/artist/7ustec6RrECyewmYxf4cIa) | [New Wares New Heirs New Game Plus \(Remix\)](https://open.spotify.com/album/0n5L2gvBD4ySFDlhvpmPqN) | 3:46 |
 
-Snapshot ID: `MTY2MjkxODc2MywwMDAwMDAwMGFjZjc3YWFkM2RmYTRjZTM2OGMxYjFjNzhkMDdiMjky`
+Snapshot ID: `MTY2MjkxODc2MywwMDAwMDAwMDMzNzY0MDEzNzQzNWRiNGY4ZTJkMjI5NTAyZmM0YmEw`

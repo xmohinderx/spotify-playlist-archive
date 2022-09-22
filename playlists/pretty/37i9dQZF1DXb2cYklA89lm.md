@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb2cYklA89lm.md) - [plain]
 
 > Fast cars, zombie love, and psychobilly freakouts!
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,103 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,180 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb2cYklA89lm.md) - [plain]
 | 11 | [Nature Calls](https://open.spotify.com/track/1p1RgiJTvoaWFnkM1M0JFH) | [Iguana Death Cult](https://open.spotify.com/artist/3krOZK9c8q5QOdt9QSdEV8) | [Nude Casino](https://open.spotify.com/album/3ikzXiKu90dwjhX3kz6gWV) | 3:48 |
 | 12 | [Dig Up Her Bones](https://open.spotify.com/track/5gHeUcDVjnDda7TABO9RYv) | [Misfits](https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey) | [American Psycho](https://open.spotify.com/album/636aBJi9ifGPSPacQ0fYCF) | 3:01 |
 | 13 | [Mind Control](https://open.spotify.com/track/32weR7gT1q5DDwP9Zr7lSB) | [Snash](https://open.spotify.com/artist/34vKcVb8KHcZzOJgokh0Y4) | [Mind Control](https://open.spotify.com/album/1MFwVDPT3hggfu3WWWTeZ0) | 2:14 |
-| 14 | [Mayhem](https://open.spotify.com/track/0kxkgi1SRDFaX9dqwdhdgk) | [Imelda May](https://open.spotify.com/artist/6AnjHMqEAps8VJdHU8RykH) | [Mayhem](https://open.spotify.com/album/6QLKR2LZaSZzZuZpiosZNR) | 2:46 |
+| 14 | [Victory Lap](https://open.spotify.com/track/1vVF4BT9Khi5wuO9fwBMj3) | [The Reverend Horton Heat](https://open.spotify.com/artist/4byZW0sEv5RUoyQBfv7CPw) | [Rev](https://open.spotify.com/album/7vTpOzMO04lY6z62reNXaL) | 3:23 |
 | 15 | [Miss Take](https://open.spotify.com/track/4ooN58vt6HJdTH5QxPzQ5y) | [Horrorpops](https://open.spotify.com/artist/7MvgOAoxA9ZgOxtRBYxLWJ) | [Hell Yeah!](https://open.spotify.com/album/0VOcNE4u7ADFpWm5AG7gDC) | 3:58 |
-| 16 | [Victory Lap](https://open.spotify.com/track/1vVF4BT9Khi5wuO9fwBMj3) | [The Reverend Horton Heat](https://open.spotify.com/artist/4byZW0sEv5RUoyQBfv7CPw) | [Rev](https://open.spotify.com/album/7vTpOzMO04lY6z62reNXaL) | 3:23 |
+| 16 | [Mayhem](https://open.spotify.com/track/0kxkgi1SRDFaX9dqwdhdgk) | [Imelda May](https://open.spotify.com/artist/6AnjHMqEAps8VJdHU8RykH) | [Mayhem](https://open.spotify.com/album/6QLKR2LZaSZzZuZpiosZNR) | 2:46 |
 | 17 | [Bodies in the Basement](https://open.spotify.com/track/3wZXkoUcXsTP3iRf6UIH0C) | [Demented Are Go](https://open.spotify.com/artist/7fvToIpjDfwtLhAoZdVF5W) | [Welcome Back To Insanity Hall](https://open.spotify.com/album/5pYc0q0qCPcASzOLi03U9k) | 2:28 |
 | 18 | [Who Killed The Cheerleader](https://open.spotify.com/track/3Ero9C3m7RlEf1xu5XhFDC) | [Nekromantix](https://open.spotify.com/artist/3KPGTmc7LTodUo6mG4KvzQ) | [Return Of The Loving Dead](https://open.spotify.com/album/7dr1Aqdu3jMjHKC8J3QCvd) | 4:09 |
 | 19 | [Last Ride](https://open.spotify.com/track/7vW7D1uPPSw6V7kt9VJL6S) | [Tiger Army](https://open.spotify.com/artist/7ivKiS6TITQYizkbUUahbi) | [Retrofuture](https://open.spotify.com/album/5DbBmt6CrKpGsWnhgYKPX1) | 3:16 |
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb2cYklA89lm.md) - [plain]
 | 21 | [Nightmare on Elm Street](https://open.spotify.com/track/3GeIm6HhGv6k6yBxoFqQy4) | [Misfits](https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey) | [Friday The 13th](https://open.spotify.com/album/5lWhwbVAq6NJY1FkRcIybm) | 2:53 |
 | 22 | [Death at My Door](https://open.spotify.com/track/3YY9GOjWTzEYwptFfomE1L) | [The Creepshow](https://open.spotify.com/artist/7rHGFWPlIoy2qOWBDLAWNt) | [Death at My Door](https://open.spotify.com/album/0LbmGABwr2WGTzNObgorLu) | 2:10 |
 | 23 | [Kiss me now](https://open.spotify.com/track/5MZbDFmM6KMMXwRu5JIIez) | [Batmobile](https://open.spotify.com/artist/7qkq2G92f2yMJVejh6NBEJ) | [Bail set at $6M](https://open.spotify.com/album/7KOJg4C1DjxJH5PM4waUSL) | 3:15 |
-| 24 | [Decompose](https://open.spotify.com/track/6NexeDn8Jgd0q5owW8EgLi) | [Wednesday 13](https://open.spotify.com/artist/6Cvzf33JDzCIw2eJU8npQo) | [Necrophaze](https://open.spotify.com/album/6PsN3csRxymw0Qoykup69Q) | 4:25 |
-| 25 | [Graveyard Girlfriend](https://open.spotify.com/track/4hyBfSiH8h6xe5MagKN9Aw) | [Kepi Ghoulie & The Copyrights](https://open.spotify.com/artist/07ilVTX7rWZkHA8IIEwogC) | [Re\-Animation Festival](https://open.spotify.com/album/4wTOb6aleIGvVYywjfavKe) | 2:25 |
+| 24 | [Graveyard Girlfriend](https://open.spotify.com/track/4hyBfSiH8h6xe5MagKN9Aw) | [Kepi Ghoulie & The Copyrights](https://open.spotify.com/artist/07ilVTX7rWZkHA8IIEwogC) | [Re\-Animation Festival](https://open.spotify.com/album/4wTOb6aleIGvVYywjfavKe) | 2:25 |
+| 25 | [Decompose](https://open.spotify.com/track/6NexeDn8Jgd0q5owW8EgLi) | [Wednesday 13](https://open.spotify.com/artist/6Cvzf33JDzCIw2eJU8npQo) | [Necrophaze](https://open.spotify.com/album/6PsN3csRxymw0Qoykup69Q) | 4:25 |
 | 26 | [Enjoy the Silence](https://open.spotify.com/track/2kL439jP9YGWZ6hdGDDE6l) | [The Brains](https://open.spotify.com/artist/0ujJcXFGHsPI1zGj4UoTKH) | [Psychobilly Goes Pop](https://open.spotify.com/album/7zHdZsf31n2zvmm5FmxHZ0) | 2:09 |
 | 27 | [A Night to Dismember](https://open.spotify.com/track/6Oz1iTAMTFQiOVxHZhNlYQ) | [Bloody Hammers](https://open.spotify.com/artist/6MC1i9hToT9dRxdN4hIHEW) | [Songs of Unspeakable Terror](https://open.spotify.com/album/18WFSTsaFEFNG9P5jM5gxM) | 3:18 |
 | 28 | [Gargoyles Over Copenhagen](https://open.spotify.com/track/7HtSPzWtfn0PWY2NkWGYvq) | [Nekromantix](https://open.spotify.com/artist/3KPGTmc7LTodUo6mG4KvzQ) | [Return Of The Loving Dead](https://open.spotify.com/album/7dr1Aqdu3jMjHKC8J3QCvd) | 3:56 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb2cYklA89lm.md) - [plain]
 | 35 | [Sticks & Stones](https://open.spotify.com/track/6afQKJhKqdqTGomP1bbRT5) | [The Creepshow](https://open.spotify.com/artist/7rHGFWPlIoy2qOWBDLAWNt) | [Death at My Door](https://open.spotify.com/album/0LbmGABwr2WGTzNObgorLu) | 3:18 |
 | 36 | [Two\-Headed Shark](https://open.spotify.com/track/0JOz2NI94mJAiV5phfqMu9) | [The Buttertones](https://open.spotify.com/artist/1CMml5seBEaxQzlmaGxMPx) | [Gravedigging](https://open.spotify.com/album/1U7hECBiaVZvmnF7mZNMhB) | 1:52 |
 | 37 | [Mark of the Devil](https://open.spotify.com/track/4MvaRGF0s248WZV2w7JtIH) | [The Other](https://open.spotify.com/artist/0a3Gua6g9TZBKlDSqebL7W) | [Haunted](https://open.spotify.com/album/1CigInXplAqMF77IcdCdb5) | 3:58 |
-| 38 | [Be My End](https://open.spotify.com/track/5tp1SK9wnHy3onxp3CrmXe) | [Creeper](https://open.spotify.com/artist/0nV7SiEIVtPLTSJ6NwWDGj) | [Be My End](https://open.spotify.com/album/6zNt1H80jWVERyW4UyVjq0) | 2:38 |
-| 39 | [Come A Little Closer](https://open.spotify.com/track/4Tel3fqGkIkhK9hvS9mj63) | [Andy and the rockets](https://open.spotify.com/artist/6B1g25y7etRaKrODzS312a) | [Big City Lights](https://open.spotify.com/album/5YKlWkVRpjt0lvV6hxe6gi) | 2:58 |
+| 38 | [Come A Little Closer](https://open.spotify.com/track/4Tel3fqGkIkhK9hvS9mj63) | [Andy and the rockets](https://open.spotify.com/artist/6B1g25y7etRaKrODzS312a) | [Big City Lights](https://open.spotify.com/album/5YKlWkVRpjt0lvV6hxe6gi) | 2:58 |
+| 39 | [Be My End](https://open.spotify.com/track/5tp1SK9wnHy3onxp3CrmXe) | [Creeper](https://open.spotify.com/artist/0nV7SiEIVtPLTSJ6NwWDGj) | [Be My End](https://open.spotify.com/album/6zNt1H80jWVERyW4UyVjq0) | 2:38 |
 | 40 | [Night Flier](https://open.spotify.com/track/5hrSN6pRbv7ldRA8lFqMuC) | [Bloodsucking Zombies from outer Space](https://open.spotify.com/artist/0KqznEOu3uw5H643xIvlq9) | [All These Fiendish Things](https://open.spotify.com/album/5YQHYdhHRa5D5B6e6Er3hj) | 3:29 |
 | 41 | [Formula 666](https://open.spotify.com/track/0AniATpGL5KElCpak9n05M) | [Sarah and the Safe Word](https://open.spotify.com/artist/4YguD206MPuadAlhnGppL3) | [Formula 666](https://open.spotify.com/album/0Fd5terpOdaXIzlV5tn6Qd) | 3:36 |
 | 42 | [Ravenous](https://open.spotify.com/track/0bE5kTNR60mf4dvJPqJCf3) | [Gutter Demons](https://open.spotify.com/artist/22aCMV8ydQjMaTi8d5hUdf) | [No God, No Ghost, No Saints](https://open.spotify.com/album/2fbrbnqy3C8R1hjUzufsdA) | 3:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb2cYklA89lm.md) - [plain]
 | 49 | [King of the Waves](https://open.spotify.com/track/2H9eYf6J7fRcgOm4MJrpfI) | [Johnny and the Rotten](https://open.spotify.com/artist/0UxpQSNKdoqA1TOdFnAcng) | [Down the Rabbit Hole](https://open.spotify.com/album/5bRbNwr5O2YUwOYuxf3Fq7) | 3:35 |
 | 50 | [Black Jack Death Bet](https://open.spotify.com/track/6LH2ljS7gXAhWA7o6qoCLz) | [The Brains](https://open.spotify.com/artist/0ujJcXFGHsPI1zGj4UoTKH) | [No Brain, No Pain](https://open.spotify.com/album/2rZ5qNRkmfs9bTaz0bx7Az) | 3:05 |
 
-Snapshot ID: `MTYxMDgxNTY3NSwwMDAwMDAwMDI4Y2ZkN2NkMDU5NzlhMzkwYTU3NGZkZDY4NzdmMGUw`
+Snapshot ID: `MTYxMDgxNTY3NSwwMDAwMDAwMDQxMzJiNjAwYmNmYjczMzA4YmJmZmI2MjcyZmY2NWRj`

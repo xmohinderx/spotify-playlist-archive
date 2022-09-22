@@ -4,7 +4,7 @@
 
 > Vegas pool party vibes with a mix of the hottest Latin dance anthems of today.
 
-127 songs - 6 hr 46 min - [published](https://open.spotify.com/playlist/1ZF0pbGIatnjdQmWjkzz9Q)
+128 songs - 6 hr 47 min - [published](https://open.spotify.com/playlist/1ZF0pbGIatnjdQmWjkzz9Q)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [Body On My Mind](https://open.spotify.com/track/6h1PXppJpiPHDhqdGycFdL) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Body On My Mind](https://open.spotify.com/album/74z7Bcwu01V3ZE2CAqrtqf) | 2:49 | 2022-04-07 | 2022-05-12 |
 | [BOOM](https://open.spotify.com/track/6iC7vapdKp0XlKhxOkp8QJ) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Sevenn](https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [BOOM](https://open.spotify.com/album/47wyCwrChF50ZTFNOuWx99) | 2:59 | 2022-05-11 |  |
 | [Brisa](https://open.spotify.com/track/5xhFO6kaUjGcSezSp5hIhG) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Brisa](https://open.spotify.com/album/4ZYTZPdMVeOcEaKRhRKFbE) | 4:19 | 2022-05-11 |  |
-| [Buchona Vibez](https://open.spotify.com/track/32cJddYAOxeVaYxtccjIgM) | [Jenny69](https://open.spotify.com/artist/7jqoLHB45Xqz6PGUnqWrYX), [DJ Morphius](https://open.spotify.com/artist/0JG1qMChKnNWRh0GRgOJJN), [Muzik Junkies](https://open.spotify.com/artist/34DQTRbIYPLSGU2SkOTEja) | [Buchona Vibez](https://open.spotify.com/album/0MUsHHel6y2il1aiIDb20v) | 1:43 | 2022-05-11 |  |
+| [Buchona Vibez](https://open.spotify.com/track/32cJddYAOxeVaYxtccjIgM) | [Jenny69](https://open.spotify.com/artist/7jqoLHB45Xqz6PGUnqWrYX), [DJ Morphius](https://open.spotify.com/artist/0JG1qMChKnNWRh0GRgOJJN), [Muzik Junkies](https://open.spotify.com/artist/34DQTRbIYPLSGU2SkOTEja) | [Buchona Vibez](https://open.spotify.com/album/0MUsHHel6y2il1aiIDb20v) | 1:43 | 2022-05-11 | 2022-09-22 |
+| [Buchona Vibez](https://open.spotify.com/track/5cTKVPUXeVUN0FnLa9qpTH) | [Jenny69](https://open.spotify.com/artist/7jqoLHB45Xqz6PGUnqWrYX), [DJ Morphius](https://open.spotify.com/artist/0JG1qMChKnNWRh0GRgOJJN), [Muzik Junkies](https://open.spotify.com/artist/34DQTRbIYPLSGU2SkOTEja) | [Buchona Vibez](https://open.spotify.com/album/0XWKu9iW3CBjkgeOdg8RE8) | 1:43 | 2022-06-03 |  |
 | [Cheke \(dEVOLVE Remix\)](https://open.spotify.com/track/4mbQeYuM51ZB3fvAJKH6Mq) | [Gian Varela](https://open.spotify.com/artist/0vN342SOFAsCVGGZwLU9AF), [Jenn Morel](https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a), [J Rythm](https://open.spotify.com/artist/0N3ASLPJ1rTh91tn7YJwNm), [Boro Boro](https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu), [dEVOLVE](https://open.spotify.com/artist/6kLN4GaYwfWUe0A4cnNS6d) | [Cheke \(The Remixes\)](https://open.spotify.com/album/1hzfAaCFTgoE5K8ohwvAHZ) | 2:49 | 2022-05-11 |  |
 | [Cold Heart \- PNAU Remix](https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Cold Heart \(PNAU Remix\)](https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6) | 3:22 | 2022-05-11 |  |
 | [Cosa Guapa](https://open.spotify.com/track/5o9NxjgOMpdGDYswuNv7yu) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [VICE VERSA](https://open.spotify.com/album/5hKAQ3WuOJtaOW2a8hpIXY) | 4:15 | 2022-04-07 | 2022-05-12 |

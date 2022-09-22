@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 
 > Tune in here for new and current hits in Contemporary Christian music!  Cover:  Casting Crowns
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,912 likes - 104 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,979 likes - 104 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 | 51 | [How Far](https://open.spotify.com/track/1gIFVl1aHTD5A3TPKtOTVC) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [How Far](https://open.spotify.com/album/3gLjb9742smlCKDF42g7yy) | 3:07 |
 | 52 | [Tremble](https://open.spotify.com/track/0RGIthuwU7fubTalnVc5fl) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Tremble](https://open.spotify.com/album/6XFGEg3EfV8PFqOUjs8Yvx) | 4:59 |
 | 53 | [Soul Worth Saving](https://open.spotify.com/track/5qzTeetyjgqMLV3CWOFqiD) | [Apollo LTD](https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp) | [Soul Worth Saving](https://open.spotify.com/album/252KuqNw7Z2Q1Otew5IySn) | 3:46 |
-| 54 | [Over and Over](https://open.spotify.com/track/0llRdEbtFavEzGYkpJjfTg) | [Caleb and Kelsey](https://open.spotify.com/artist/7l0sphz32GV0AjjEhECpVg) | [Over and Over](https://open.spotify.com/album/6ZRdE0msjDHKGG076tz87A) | 3:35 |
+| 54 | [Over and Over](https://open.spotify.com/track/3Fq9eU3HKUviaVtgEIq8lu) | [Caleb and Kelsey](https://open.spotify.com/artist/7l0sphz32GV0AjjEhECpVg) | [Over and Over](https://open.spotify.com/album/3EUqmYgGBbQQKawUQOzteX) | 3:35 |
 | 55 | [We're Here Because You're Here](https://open.spotify.com/track/0ZMUZSwjHhRO2k6mBXwO2S) | [Elias Dummer](https://open.spotify.com/artist/5gGNIhEw4JfZ7AS6tVjJbi) | [The Work, Vol\. 2](https://open.spotify.com/album/1wLvhr3tZahKSZdeef0uiK) | 4:14 |
 | 56 | [Wonder](https://open.spotify.com/track/5JTUzRWxGBR8GgkAyqjfvR) | [Jimi Cravity](https://open.spotify.com/artist/3klvuxan8KcvysB5d9q7Ls) | [Wonder](https://open.spotify.com/album/00xTOJwRmfTABsNNQCZkHA) | 4:07 |
 | 57 | [Young Love](https://open.spotify.com/track/2j85h5KZCPzIH5toHo42kd) | [James Paek](https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz) | [Young Love](https://open.spotify.com/album/2eviPVL3x8z0RBqV3YGQwg) | 4:23 |
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 | 103 | [Getting Started \- Radio Version](https://open.spotify.com/track/3KwzdWIyI2KuXSe2eh98KU) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [Getting Started \(Radio Version\)](https://open.spotify.com/album/3oJ9UZKOQBx1DaAOnCMi9a) | 3:39 |
 | 104 | [Sunday Sermons](https://open.spotify.com/track/3l9iNZD6J3nDZMlAhH48Q1) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [My Jesus](https://open.spotify.com/album/32hskBTJCQ3rmYAsUmol3Q) | 3:20 |
 
-Snapshot ID: `MTY2MTUwOTM3MywwMDAwMDAwMDMxOTAxN2RkNWMzODUyZTA3YzYzOThhOTZkNzIwODhj`
+Snapshot ID: `MTY2MTUwOTM3MywwMDAwMDAwMDI2Mzk3M2ViOThiOWY5OWI5MjMxMTkzYWJkZDU2MzZi`

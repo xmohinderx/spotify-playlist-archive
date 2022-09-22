@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PpQS44qqLL.md) - [plain]
 
 > Siempre espectaculares\. Foto: Vicente Fernández
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,063 likes - 200 songs - 13 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,166 likes - 200 songs - 13 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -162,18 +162,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PpQS44qqLL.md) - [plain]
 | 152 | [El Hombre Que Yo Amo](https://open.spotify.com/track/5OtonpNWhoAw9z3wRwM2TC) | [Myriam Hernandez](https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT) | [Todo Lo Mio](https://open.spotify.com/album/1mNEGTs66AF3EPnXcFTOzb) | 3:33 |
 | 153 | [Basta Ya \- Pop](https://open.spotify.com/track/726JxH4rjuSfeYjtZBKp5w) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu), [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Joyas Prestadas \- Pop](https://open.spotify.com/album/4PbG5KBpRl1ObRpMJ9oLF6) | 4:13 |
 | 154 | [Heridas](https://open.spotify.com/track/5KMiMU5PGgzKWPGjjoZSAI) | [Dulce](https://open.spotify.com/artist/6ZYIXbXuZWooEUSJlRtew2) | [Heridas](https://open.spotify.com/album/0j3c954NNObBbkkXvxTI6l) | 3:33 |
-| 155 | [Begin the Beguine \(Volver a Empezar\)](https://open.spotify.com/track/3vSGGtjD7JLA9Q6I36sGve) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [Begin the Beguine](https://open.spotify.com/album/5siSTOhozc4kGQxQgbFhvS) | 4:44 |
-| 156 | [La Puerta de Alcalá](https://open.spotify.com/track/29opVIw8I1BOZntEn3Un2I) | [Ana Belén](https://open.spotify.com/artist/4NOZW7dBOmBMMAG9EGQd4t), [Víctor Manuel](https://open.spotify.com/artist/6cFqY5mkBqKqaIYunDg1k8) | [Grandes Exitos](https://open.spotify.com/album/5SCJwX7r1soZgDCH9YIHwG) | 4:48 |
+| 155 | [La Puerta de Alcalá](https://open.spotify.com/track/29opVIw8I1BOZntEn3Un2I) | [Ana Belén](https://open.spotify.com/artist/4NOZW7dBOmBMMAG9EGQd4t), [Víctor Manuel](https://open.spotify.com/artist/6cFqY5mkBqKqaIYunDg1k8) | [Grandes Exitos](https://open.spotify.com/album/5SCJwX7r1soZgDCH9YIHwG) | 4:48 |
+| 156 | [Begin the Beguine \(Volver a Empezar\)](https://open.spotify.com/track/3vSGGtjD7JLA9Q6I36sGve) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [Begin the Beguine](https://open.spotify.com/album/5siSTOhozc4kGQxQgbFhvS) | 4:44 |
 | 157 | [Contigo Aprendí](https://open.spotify.com/track/1WpVNGu96nRoVeeUNthWkt) | [Armando Manzanero](https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT) | [Mis Canciones, Mi Voz, Mi Piano](https://open.spotify.com/album/2zM7EeQzkEVgHpUunxV4E5) | 3:38 |
-| 158 | [Quiero Escaparme De Ti](https://open.spotify.com/track/0T4foqM5NWaO1eiaR7pn1G) | [Laureano Brizuela](https://open.spotify.com/artist/5388C04OP0Fc6xqbvct7kv) | [El Angel Del Rock Vol\. 2](https://open.spotify.com/album/5ym9ffMyvW91QBixRrcS9x) | 3:43 |
-| 159 | [Lo Siento Mi Amor](https://open.spotify.com/track/2X27vrGVFUGGxXzM8PMtHC) | [Lupita D'Alessio](https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en) | [Lupita D'Alessio](https://open.spotify.com/album/0MGCWdG0HX9KHAdQmlqjYh) | 5:35 |
+| 158 | [Lo Siento Mi Amor](https://open.spotify.com/track/2X27vrGVFUGGxXzM8PMtHC) | [Lupita D'Alessio](https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en) | [Lupita D'Alessio](https://open.spotify.com/album/0MGCWdG0HX9KHAdQmlqjYh) | 5:35 |
+| 159 | [Quiero Escaparme De Ti](https://open.spotify.com/track/0T4foqM5NWaO1eiaR7pn1G) | [Laureano Brizuela](https://open.spotify.com/artist/5388C04OP0Fc6xqbvct7kv) | [El Angel Del Rock Vol\. 2](https://open.spotify.com/album/5ym9ffMyvW91QBixRrcS9x) | 3:43 |
 | 160 | [Pobre secretaria](https://open.spotify.com/track/1Ikzf2CUcmHzNf4ETPJexW) | [Daniela Romo](https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y) | [Daniela Romo](https://open.spotify.com/album/2gJ6tGS2FHniYfpHIR1153) | 2:55 |
 | 161 | [Déjame Volver Contigo](https://open.spotify.com/track/7E0gzXsB0JtYxqvqRwNAEj) | [Dulce](https://open.spotify.com/artist/6ZYIXbXuZWooEUSJlRtew2) | [Heridas](https://open.spotify.com/album/0j3c954NNObBbkkXvxTI6l) | 4:23 |
 | 162 | [Todo Me Gusta De Ti](https://open.spotify.com/track/4rh6NUKzdzOenErCBd9AJO) | [Aaron Y Su Grupo Ilusion](https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ) | [Lo Más Escuchado De](https://open.spotify.com/album/6O1uu6IBrLPZqax4yCisSt) | 4:05 |
 | 163 | [Tímido](https://open.spotify.com/track/2m0rV14r7Idr8B8mVfSr6S) | [Flans](https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT) | [20 Millas](https://open.spotify.com/album/4XDOln6yWfqfuDN7TzLDqI) | 3:36 |
-| 164 | [Cuando Baja La Marea](https://open.spotify.com/track/0HgwO0T0c6PKrog2ENJN2y) | [Yuri](https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx) | [Baladas 80's 90's](https://open.spotify.com/album/41wjuEye85NHNrEhVn02H7) | 3:57 |
-| 165 | [Quién piensa en ti \- 2015 Remastered Version](https://open.spotify.com/track/5dzhWgvobFV8CrKkUuz0RR) | [Gonzalo](https://open.spotify.com/artist/3PicqN8i7W2mQuwJu08SXn) | [Sus dos LP's en Hispavox \(2015 Remastered\)](https://open.spotify.com/album/6XBLf1YGU6qWRJySAtCQBP) | 3:31 |
-| 166 | [El Hombre del Piano](https://open.spotify.com/track/61ccRl3FBtLs3U5HuBtP6e) | [Ana Belén](https://open.spotify.com/artist/4NOZW7dBOmBMMAG9EGQd4t) | [26 Grandes Canciones Y Una Nube Blanca](https://open.spotify.com/album/45MhAsX9X7z5siVUxUjUk7) | 5:17 |
+| 164 | [El Hombre del Piano](https://open.spotify.com/track/61ccRl3FBtLs3U5HuBtP6e) | [Ana Belén](https://open.spotify.com/artist/4NOZW7dBOmBMMAG9EGQd4t) | [26 Grandes Canciones Y Una Nube Blanca](https://open.spotify.com/album/45MhAsX9X7z5siVUxUjUk7) | 5:17 |
+| 165 | [Cuando Baja La Marea](https://open.spotify.com/track/0HgwO0T0c6PKrog2ENJN2y) | [Yuri](https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx) | [Baladas 80's 90's](https://open.spotify.com/album/41wjuEye85NHNrEhVn02H7) | 3:57 |
+| 166 | [Quién piensa en ti \- 2015 Remastered Version](https://open.spotify.com/track/5dzhWgvobFV8CrKkUuz0RR) | [Gonzalo](https://open.spotify.com/artist/3PicqN8i7W2mQuwJu08SXn) | [Sus dos LP's en Hispavox \(2015 Remastered\)](https://open.spotify.com/album/6XBLf1YGU6qWRJySAtCQBP) | 3:31 |
 | 167 | [Ni Guerra, Ni Paz](https://open.spotify.com/track/4RiXckh45ncf3txjfaxwtJ) | [Lupita D'Alessio](https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en) | [Idolos Inmortales](https://open.spotify.com/album/7xWKIZqzUiPQ34rLSJhJE3) | 3:52 |
 | 168 | [Amandote](https://open.spotify.com/track/4FNzQAFYz8A2a7k5cyn3E2) | [Laureano Brizuela](https://open.spotify.com/artist/5388C04OP0Fc6xqbvct7kv) | [Solo](https://open.spotify.com/album/20jzOl6wKNK5KB7Kj1WU58) | 3:54 |
 | 169 | [De Mujer A Mujer](https://open.spotify.com/track/64pb8EzpdjhOOTaiJ6Bwlx) | [Marta Sánchez](https://open.spotify.com/artist/368rTiMKMrz3b03az6B14w) | [Mujer](https://open.spotify.com/album/4fbm0OYtjthyi4RlTQuT6l) | 4:51 |
@@ -192,9 +192,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PpQS44qqLL.md) - [plain]
 | 182 | [Vete Con Ella \(Chappell Of Love\)](https://open.spotify.com/track/18yQJpSFRhdRYC4GHVEwcc) | [Lucero](https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330) | [Lucerito](https://open.spotify.com/album/1Ylk1qtCXpMdBpDaZvPd0I) | 3:42 |
 | 183 | [Dudas](https://open.spotify.com/track/7EtOFVnHpg6Czxb7pwG2j0) | [Amanda Miguel](https://open.spotify.com/artist/3v8mFhjLFa50QK8zDvAMYN) | [El Sonido Vol\. 3](https://open.spotify.com/album/3K9Lx3MCERuTQswKy5tMQ7) | 3:37 |
 | 184 | [Quinceañera](https://open.spotify.com/track/2Sqg5VH7diEdBoQwJH7ryb) | [Timbiriche](https://open.spotify.com/artist/1FbygZnWsyUjzjTGLhWVlO) | [La Historia De Los Éxitos](https://open.spotify.com/album/7ITWVrFjMOo5eVT31GY314) | 2:58 |
-| 185 | [Insoportablemente Bella](https://open.spotify.com/track/5OAGFH0ezPr3jXSfQbMUpJ) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Lo Mejor De Lo Mejor](https://open.spotify.com/album/5SLdkbTxNK4lMPtEhmU3Jw) | 3:38 |
-| 186 | [Aun Lo Amo](https://open.spotify.com/track/6rQiv59kQYiG8LqaSYDfWz) | [Dulce](https://open.spotify.com/artist/6ZYIXbXuZWooEUSJlRtew2) | [Castillos De Cristal](https://open.spotify.com/album/1pf6pJVfH0FZZtphKRqQMP) | 4:38 |
-| 187 | [Cuando Estemos Juntos](https://open.spotify.com/track/1p79WfRuI5Ov4rHXxPHMS1) | [Tatiana y Johnny](https://open.spotify.com/artist/3hWYqGI2MA8NWKxWuTcuvm) | [Tatiana y Johnny](https://open.spotify.com/album/7MctcX1XsSRfudnAyihmSi) | 3:43 |
+| 185 | [Cuando Estemos Juntos](https://open.spotify.com/track/1p79WfRuI5Ov4rHXxPHMS1) | [Tatiana y Johnny](https://open.spotify.com/artist/3hWYqGI2MA8NWKxWuTcuvm) | [Tatiana y Johnny](https://open.spotify.com/album/7MctcX1XsSRfudnAyihmSi) | 3:43 |
+| 186 | [Insoportablemente Bella](https://open.spotify.com/track/5OAGFH0ezPr3jXSfQbMUpJ) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Lo Mejor De Lo Mejor](https://open.spotify.com/album/5SLdkbTxNK4lMPtEhmU3Jw) | 3:38 |
+| 187 | [Aun Lo Amo](https://open.spotify.com/track/6rQiv59kQYiG8LqaSYDfWz) | [Dulce](https://open.spotify.com/artist/6ZYIXbXuZWooEUSJlRtew2) | [Castillos De Cristal](https://open.spotify.com/album/1pf6pJVfH0FZZtphKRqQMP) | 4:38 |
 | 188 | [Hasta Cuando](https://open.spotify.com/track/1wc5way7a45biOnobQUHJm) | [Beatriz Adriana](https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ) | [Lo Más Romántico De](https://open.spotify.com/album/5dQIGbAkUGuLtNdhb8ttAx) | 3:19 |
 | 189 | [Amor fascíname](https://open.spotify.com/track/34fUwEAJL7CI2ymqQ1TGyN) | [Alejandra Avalos](https://open.spotify.com/artist/0ujbYrGeviCZxfrKOzXDzK) | [20 Grandes Exitos](https://open.spotify.com/album/5XdzLQ5VPixvtDnw3iKHSl) | 4:23 |
 | 190 | [No Puedo Más](https://open.spotify.com/track/2GE8RKcdkYiATbAZMGCz5b) | [Yuri](https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx) | [Isla Del Sol](https://open.spotify.com/album/5mbOkwRAd2mx7TCMaeJva3) | 3:47 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PpQS44qqLL.md) - [plain]
 | 199 | [Hazme Tuya una Vez Mas](https://open.spotify.com/track/6nRaI3IcbXMi3iHbfuiiVk) | [Isabel Pantoja](https://open.spotify.com/artist/0G2qO3Wbj6WmCTFgcsJ1Eo) | [Desde Andalucia](https://open.spotify.com/album/2z0nGeab4W4lk2AjxG3kbw) | 6:07 |
 | 200 | [Este hombre no se toca](https://open.spotify.com/track/047T2fSx1eNiRbCNztIAhL) | [Rocio Banquells](https://open.spotify.com/artist/0WaPMyYYZZ7yxzG1qhZ5kz) | [Rocio Banquells](https://open.spotify.com/album/2XWgQoX6V3MDSm9dGZGkGz) | 3:58 |
 
-Snapshot ID: `MTY0MDEwNTU3NSwwMDAwMDAwMDNjODJmOTczNjU4YmFiYzAyMTI2MGMxZWI1MTViMjg4`
+Snapshot ID: `MTY0MDEwNTU3NSwwMDAwMDAwMGViMDkyYjQzMWEwYzEwMTM5YWVhMDk5MDY5MjFkYWRi`

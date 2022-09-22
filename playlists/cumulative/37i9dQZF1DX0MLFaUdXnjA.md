@@ -4,7 +4,7 @@
 
 > Keep it low\-key with all of today's chill pop\. Cover: Omar Apollo
 
-1,056 songs - 2 day 8 hr 2 min - [published](https://open.spotify.com/playlist/6isU2kXFblpGeacMELfavp)
+1,057 songs - 2 day 8 hr 7 min - [published](https://open.spotify.com/playlist/6isU2kXFblpGeacMELfavp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -561,7 +561,8 @@
 | [lips \- Original Music from The L Word: Generation Q](https://open.spotify.com/track/2RZ7iGHryigk7AbK4SS7yD) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [lips \(Original Music from The L Word: Generation Q\)](https://open.spotify.com/album/4FpOvP5qpLTv6F8MV0FQXO) | 3:07 | 2021-09-11 | 2021-10-09 |
 | [Little Did I Know](https://open.spotify.com/track/4hkSiyO1zy1scfc4HWMGR4) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Not In Chronological Order](https://open.spotify.com/album/59Zhv6U3Zge8ZFdBvkSpcI) | 3:16 | 2021-04-30 | 2021-08-21 |
 | [Little Things](https://open.spotify.com/track/74mU4zNiHJl990F6gqBG4p) | [Charlie Brennan](https://open.spotify.com/artist/3YzXK1DQ9EkWqwmUkk6yc8), [Madelyn Paquette](https://open.spotify.com/artist/4yL7BcVGrznuqkWFmNM19M) | [Little Things](https://open.spotify.com/album/7z7s43LmJPmOqe9Wrmlbjw) | 2:26 | 2020-10-23 | 2020-11-21 |
-| [Living In Symphony](https://open.spotify.com/track/3yRcxFz0tlcm45Uc46tUPl) | [Fleurie](https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4) | [Living In Symphony](https://open.spotify.com/album/4BbHI3lGZG68Q3ANzOJFQI) | 4:24 | 2022-08-12 |  |
+| [Living In Symphony](https://open.spotify.com/track/1vLGeIX4csrWmpvhGrMVNf) | [Fleurie](https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4) | [It’s Always Summer in Supertropicali \(Chapter 2\)](https://open.spotify.com/album/0fx9Wepc1X1qSMVK6Nrm81) | 4:24 | 2022-09-19 |  |
+| [Living In Symphony](https://open.spotify.com/track/3yRcxFz0tlcm45Uc46tUPl) | [Fleurie](https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4) | [Living In Symphony](https://open.spotify.com/album/4BbHI3lGZG68Q3ANzOJFQI) | 4:24 | 2022-08-12 | 2022-09-22 |
 | [london](https://open.spotify.com/track/4mmtgoBJCUA8l8uDRJlnro) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII), [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [these words are all for you too](https://open.spotify.com/album/1OZvSGYMq3CixeCjZH9m4M) | 4:26 | 2022-07-26 | 2022-09-10 |
 | [london \(with Cam\)](https://open.spotify.com/track/47EMbOhi8EB7FjLm2OQDln) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII), [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [london \(with Cam\)](https://open.spotify.com/album/41rhdJBIvsm2mb7RSPIo3K) | 4:26 | 2022-02-04 | 2022-07-29 |
 | [London Is Lonely](https://open.spotify.com/track/5dXiKFepHXZktud7z5635H) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [London Is Lonely](https://open.spotify.com/album/7tD8r8V7O1wl4ULxmDZExG) | 3:54 | 2022-01-21 | 2022-07-23 |
@@ -717,7 +718,7 @@
 | [Palladium](https://open.spotify.com/track/1bI1ASTRif9GKJO9b7PQk3) | [Greyson Chance](https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX) | [Palladium](https://open.spotify.com/album/2YyWyMCjuegqxsrfo1672e) | 4:07 | 2022-06-24 | 2022-09-20 |
 | [Palladium](https://open.spotify.com/track/43p2QBqcMqf6ddjd9NuqLb) | [Greyson Chance](https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX) | [Palladium](https://open.spotify.com/album/3Ce6hTcDVumkMvdtBL0LoR) | 4:07 | 2022-09-19 |  |
 | [Pantone 17 13 30](https://open.spotify.com/track/2GeR7M97pCrWrMh8d6BlrF) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y1](https://open.spotify.com/album/0xlpkNFvbonkCBiAZu0AdM) | 3:06 | 2022-03-11 | 2022-04-02 |
-| [Paper Airplanes \- from the Netflix Film A Jazzman's Blues](https://open.spotify.com/track/7qFTlPTav0bSkuPiSff6RL) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Paper Airplanes \(from the Netflix Film A Jazzman's Blues\)](https://open.spotify.com/album/6SSvoVCaTreXvwNETYXMen) | 4:17 | 2022-08-26 |  |
+| [Paper Airplanes](https://open.spotify.com/track/7qFTlPTav0bSkuPiSff6RL) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Paper Airplanes](https://open.spotify.com/album/6SSvoVCaTreXvwNETYXMen) | 4:17 | 2022-08-26 |  |
 | [Paper Planes](https://open.spotify.com/track/5GzgEC6pWf1USZsCtkG8yC) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Paper Planes](https://open.spotify.com/album/1k4PWPO9n9mMQyh1WGXog0) | 3:19 | 2020-04-26\* | 2020-09-04 |
 | [paper thin](https://open.spotify.com/track/52SEe3AOwJVuNdKuQAAZVm) | [Christian French](https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM) | [paper thin](https://open.spotify.com/album/3Pjza99sXkqv5XaYswAY3u) | 3:30 | 2020-08-07 | 2020-10-23 |
 | [parachute](https://open.spotify.com/track/4QvSA3gQn7DAWEwuEdHBAt) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [love + everything else](https://open.spotify.com/album/7oMpndHpNfCBH4QPqHGcta) | 2:36 | 2020-11-13 | 2021-06-05 |

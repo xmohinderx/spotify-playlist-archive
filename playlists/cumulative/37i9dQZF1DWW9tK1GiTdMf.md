@@ -2,7 +2,7 @@
 
 ### [sanguegiovane](https://open.spotify.com/playlist/37i9dQZF1DWW9tK1GiTdMf)
 
-> canzoni da gridare ❤️‍🩹 Sethu in cover
+> canzoni da gridare ❤️‍🩹 Giuze in cover
 
 250 songs - 11 hr 34 min - [published](https://open.spotify.com/playlist/2BZ03rNM0vrjFSXCBigadZ)
 

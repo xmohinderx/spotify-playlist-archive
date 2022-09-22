@@ -4,7 +4,7 @@
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: 甲田まひる
 
-2,051 songs - 5 day 6 hr 5 min - [published](https://open.spotify.com/playlist/7vZo0GBGKfv8haIOHte1r4)
+2,053 songs - 5 day 6 hr 13 min - [published](https://open.spotify.com/playlist/7vZo0GBGKfv8haIOHte1r4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,7 +212,8 @@
 | [Dance Alone](https://open.spotify.com/track/2kpZkWCfmuSvn8CZYGvNkO) | [えんぷてい](https://open.spotify.com/artist/7zzRFLfG1OzxyobuR74moh) | [Dance Alone](https://open.spotify.com/album/2grXUKK5gDiBlcWcpbKm6Y) | 4:56 | 2022-09-20 |  |
 | [Dance Dance Dancing!](https://open.spotify.com/track/34TvSzbwbusIQo2dHe0dyR) | [Bullet Train](https://open.spotify.com/artist/0udR1QMfgT37SQnL1QClTU) | [Dance Dance Dance](https://open.spotify.com/album/5qDRugF594u3FyP5JdZ3OH) | 3:33 | 2021-11-16 | 2021-11-24 |
 | [Dance with Me Tonight](https://open.spotify.com/track/2DqZZJ7KW7PHwxskGyE92O) | [MiMiBiLLy](https://open.spotify.com/artist/0qkzyJZNfbcchO3Dwd7k7R) | [Moments](https://open.spotify.com/album/5t6Ae3ZGbMkcuVqQQWj3aT) | 2:36 | 2022-01-31 | 2022-03-02 |
-| [Danceless Island](https://open.spotify.com/track/1NoSwzKuFxmilfoRxJ1tvQ) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [CHIKAMATSU SAMPLER 2022](https://open.spotify.com/album/0wDseUOW320G0im7GAz4GM) | 3:46 | 2022-09-20 |  |
+| [Danceless Island](https://open.spotify.com/track/1HveaXiH8hnI1spsowkeCL) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Danceless Island](https://open.spotify.com/album/1syVDDqzi6brKX5hosWs8u) | 3:45 | 2022-09-21 |  |
+| [Danceless Island](https://open.spotify.com/track/1NoSwzKuFxmilfoRxJ1tvQ) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [CHIKAMATSU SAMPLER 2022](https://open.spotify.com/album/0wDseUOW320G0im7GAz4GM) | 3:46 | 2022-09-20 | 2022-09-22 |
 | [DANCESELF](https://open.spotify.com/track/2PgJuGLxn3le08uFootWmq) | [ゆっきゅん](https://open.spotify.com/artist/5Y9FO0DbxGApgPFNh4HBNA) | [DANCESELF](https://open.spotify.com/album/7zHIxTK8y61kZn7YjmEjOg) | 4:20 | 2022-03-28 | 2022-04-06 |
 | [Dark Pop](https://open.spotify.com/track/2Fd2MHYFAcikGlVjxPq9DQ) | [SLMCT](https://open.spotify.com/artist/1gj0i6cwXRPKfDaxwNwPab) | [Dark Pop](https://open.spotify.com/album/59gmCV61pLhjUqrd5ohN1n) | 3:10 | 2022-05-10 | 2022-05-25 |
 | [Dark\_Eyes.](https://open.spotify.com/track/3rztynxdeGLdlMsSkgNcHf) | [illiomote](https://open.spotify.com/artist/3WT4BJFKhoWN3Mc8TDcH7v) | [Dark\_Eyes.](https://open.spotify.com/album/4yzm7FnAq26Wnc1SldTS7B) | 4:24 | 2022-05-10 | 2022-05-25 |
@@ -894,6 +895,7 @@
 | [TERRAPLANE](https://open.spotify.com/track/2XiO3lYou5hoHKbhZxG0Li) | [Wang Dang Doodle](https://open.spotify.com/artist/5OWQWpSRACBuLtPRFPdfq1) | [TERRAPLANE](https://open.spotify.com/album/7gU7HZOk0NkBImfvakldNR) | 3:29 | 2022-01-24 | 2022-02-01 |
 | [Texas Groove](https://open.spotify.com/track/6pDD5aArcEZ81bcdEvGXAC) | [HOTEI](https://open.spotify.com/artist/4cShXyYZpvnVZYeE3Oukns), [Shea Seger](https://open.spotify.com/artist/42qG0bvG3B4FKtQ93yCOZc) | [Strangers](https://open.spotify.com/album/5EuD0JoZ5Cl7BL7C9C78Mo) | 3:15 | 2022-07-11 | 2022-07-19 |
 | [That Day](https://open.spotify.com/track/6I1liG6opR0rWIHimYmsHe) | [Swimming Sheep](https://open.spotify.com/artist/4lXsVyFTJxtA8LxnKzmDxz), [OddSong](https://open.spotify.com/artist/6goMq6LcnFyuHZJcYu7T1E) | [That Day](https://open.spotify.com/album/3LplSyAtit23YkRf7McBNl) | 2:27 | 2022-03-07 | 2022-03-15 |
+| [The Brave FXXkin' Pop](https://open.spotify.com/track/3gFIaXdygAJ4TnX5jk6zRT) | [Denpa Girl](https://open.spotify.com/artist/2hHLAWUioiEtCIay1ZndwS) | [The Brave FXXkin' Pop](https://open.spotify.com/album/5eUp3wQU4548JdwuiRVvD0) | 4:25 | 2022-09-21 |  |
 | [The Dawn](https://open.spotify.com/track/5NCfFFDLWN4hfgphPRaFpn) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb) | [The Dawn](https://open.spotify.com/album/3pHBDWw0nnEPCoUrAutLej) | 3:49 | 2022-05-30 | 2022-06-21 |
 | [The Sun](https://open.spotify.com/track/11Gi13v5tOergV1LjEbbDT) | [Ako](https://open.spotify.com/artist/3OZH8bAVViRcIjo4vUuIRz) | [The Sun](https://open.spotify.com/album/4U9TfKHxuKyPdFO5emYrfH) | 3:29 | 2022-08-29 | 2022-09-20 |
 | [Think Over](https://open.spotify.com/track/0jHfHfOmxnFP60OrDlSHLb) | [MARiA](https://open.spotify.com/artist/3VLk5buofnRZwwAS0PhS7v) | [Moments](https://open.spotify.com/album/3veL9VgutCTN2Z0MxjXwaV) | 3:23 | 2022-06-27 | 2022-07-05 |

@@ -1,12 +1,12 @@
 {
   "description": "This is the best of ska, new and classic. Cover: The Interrupters",
-  "num_followers": 320394,
+  "num_followers": 320467,
   "original_name": "The Essential Ska",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDg3Mzg2NCwwMDAwMDAwMDAwMGNjY2M2NTMzNmE0OTlhYjEyOTcyMTBhMjJjODg0",
+  "snapshot_id": "MTY1NDg3Mzg2NCwwMDAwMDAwMDM5ZGU2YzViZjU4NzBiOTU4ZWZkY2M0MDFmMjllZjNm",
   "tracks": [
     {
       "added_at": "2022-04-14 09:43:03",
@@ -639,22 +639,6 @@
     {
       "added_at": "2022-04-14 09:43:03",
       "album": {
-        "name": "Silver Linings",
-        "url": "https://open.spotify.com/album/6PIQdcVGp07UYR4zWhVE1O"
-      },
-      "artists": [
-        {
-          "name": "Less Than Jake",
-          "url": "https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha"
-        }
-      ],
-      "duration_ms": 218240,
-      "name": "Lie to Me",
-      "url": "https://open.spotify.com/track/49KsGRK6Pq6pjlGvBQ8NoQ"
-    },
-    {
-      "added_at": "2022-04-14 09:43:03",
-      "album": {
         "name": "Tragic Kingdom",
         "url": "https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 275360,
       "name": "Different People",
       "url": "https://open.spotify.com/track/6PM8yaNDDfXc0kHIMSuIKR"
+    },
+    {
+      "added_at": "2022-04-14 09:43:03",
+      "album": {
+        "name": "Silver Linings",
+        "url": "https://open.spotify.com/album/6PIQdcVGp07UYR4zWhVE1O"
+      },
+      "artists": [
+        {
+          "name": "Less Than Jake",
+          "url": "https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha"
+        }
+      ],
+      "duration_ms": 218240,
+      "name": "Lie to Me",
+      "url": "https://open.spotify.com/track/49KsGRK6Pq6pjlGvBQ8NoQ"
     },
     {
       "added_at": "2022-04-14 09:43:03",
@@ -815,22 +815,6 @@
     {
       "added_at": "2022-04-14 09:43:03",
       "album": {
-        "name": "Wasted Days",
-        "url": "https://open.spotify.com/album/6Gsk2nUl219al8pzo8TNWB"
-      },
-      "artists": [
-        {
-          "name": "The Slackers",
-          "url": "https://open.spotify.com/artist/2QRPuDfRA9LtoeGFaMikmK"
-        }
-      ],
-      "duration_ms": 248413,
-      "name": "Wasted Days",
-      "url": "https://open.spotify.com/track/5z8lvQDJPOl8A7RkTOdJWQ"
-    },
-    {
-      "added_at": "2022-04-14 09:43:03",
-      "album": {
         "name": "\u2026And The Battle Begun",
         "url": "https://open.spotify.com/album/0bjJmoZgV7ijmlMwvF0Oij"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 219133,
       "name": "Apparition",
       "url": "https://open.spotify.com/track/1yC2n0cfsyIASjIKD0EZ3H"
+    },
+    {
+      "added_at": "2022-04-14 09:43:03",
+      "album": {
+        "name": "Wasted Days",
+        "url": "https://open.spotify.com/album/6Gsk2nUl219al8pzo8TNWB"
+      },
+      "artists": [
+        {
+          "name": "The Slackers",
+          "url": "https://open.spotify.com/artist/2QRPuDfRA9LtoeGFaMikmK"
+        }
+      ],
+      "duration_ms": 248413,
+      "name": "Wasted Days",
+      "url": "https://open.spotify.com/track/5z8lvQDJPOl8A7RkTOdJWQ"
     },
     {
       "added_at": "2022-04-14 09:43:03",
@@ -959,22 +959,6 @@
     {
       "added_at": "2022-04-14 09:43:03",
       "album": {
-        "name": "Class of Nations",
-        "url": "https://open.spotify.com/album/0j2TrwJjrxrhg07Orrmmj1"
-      },
-      "artists": [
-        {
-          "name": "The Offenders",
-          "url": "https://open.spotify.com/artist/3S1FzJNl5DweiBE4UE0uob"
-        }
-      ],
-      "duration_ms": 191824,
-      "name": "Marchez",
-      "url": "https://open.spotify.com/track/6p58iYVehQwqvMKPgSENyE"
-    },
-    {
-      "added_at": "2022-04-14 09:43:03",
-      "album": {
         "name": "Keasbey Nights",
         "url": "https://open.spotify.com/album/2sFPd4EWqI4x6RsaeMqA8a"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 194146,
       "name": "On & On & On",
       "url": "https://open.spotify.com/track/66UiVrGhYHHyfJlE1g8y61"
+    },
+    {
+      "added_at": "2022-04-14 09:43:03",
+      "album": {
+        "name": "Class of Nations",
+        "url": "https://open.spotify.com/album/0j2TrwJjrxrhg07Orrmmj1"
+      },
+      "artists": [
+        {
+          "name": "The Offenders",
+          "url": "https://open.spotify.com/artist/3S1FzJNl5DweiBE4UE0uob"
+        }
+      ],
+      "duration_ms": 191824,
+      "name": "Marchez",
+      "url": "https://open.spotify.com/track/6p58iYVehQwqvMKPgSENyE"
     },
     {
       "added_at": "2022-04-14 09:43:03",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2022-04-14 09:43:03",
       "album": {
-        "name": "Fear",
-        "url": "https://open.spotify.com/album/4mxF6EtrFVnX5PAZJVOpH7"
-      },
-      "artists": [
-        {
-          "name": "Bumpin Uglies",
-          "url": "https://open.spotify.com/artist/2q0PlZJNGryR467EUNmWn7"
-        }
-      ],
-      "duration_ms": 216900,
-      "name": "Fear",
-      "url": "https://open.spotify.com/track/6AzyB4NQxERcKEaVlMA8SJ"
-    },
-    {
-      "added_at": "2022-04-14 09:43:03",
-      "album": {
         "name": "Silver Linings",
         "url": "https://open.spotify.com/album/6PIQdcVGp07UYR4zWhVE1O"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 183570,
       "name": "Keep on Chasing",
       "url": "https://open.spotify.com/track/352s3lxFuWqTuP9p1wjbdo"
+    },
+    {
+      "added_at": "2022-04-14 09:43:03",
+      "album": {
+        "name": "Fear",
+        "url": "https://open.spotify.com/album/4mxF6EtrFVnX5PAZJVOpH7"
+      },
+      "artists": [
+        {
+          "name": "Bumpin Uglies",
+          "url": "https://open.spotify.com/artist/2q0PlZJNGryR467EUNmWn7"
+        }
+      ],
+      "duration_ms": 216900,
+      "name": "Fear",
+      "url": "https://open.spotify.com/track/6AzyB4NQxERcKEaVlMA8SJ"
     },
     {
       "added_at": "2022-04-14 09:43:03",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2022-04-14 09:43:03",
       "album": {
-        "name": "Viva La Ska Revolution",
-        "url": "https://open.spotify.com/album/7Ix9aOmnkTwAIQomGB4ATh"
-      },
-      "artists": [
-        {
-          "name": "Bad Manners",
-          "url": "https://open.spotify.com/artist/0GShYlUdyLahdsvgKdselx"
-        }
-      ],
-      "duration_ms": 166640,
-      "name": "Lip Up Fatty",
-      "url": "https://open.spotify.com/track/2V5tv4ZwtNTgAp4MCwNOXb"
-    },
-    {
-      "added_at": "2022-04-14 09:43:03",
-      "album": {
         "name": "Arcade Perfect",
         "url": "https://open.spotify.com/album/2ICTXbgW4rWcYWlSG1JtJ9"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 194640,
       "name": "Sound of a Revolution",
       "url": "https://open.spotify.com/track/5iqoangjJT6emeXzZg2czr"
+    },
+    {
+      "added_at": "2022-04-14 09:43:03",
+      "album": {
+        "name": "Viva La Ska Revolution",
+        "url": "https://open.spotify.com/album/7Ix9aOmnkTwAIQomGB4ATh"
+      },
+      "artists": [
+        {
+          "name": "Bad Manners",
+          "url": "https://open.spotify.com/artist/0GShYlUdyLahdsvgKdselx"
+        }
+      ],
+      "duration_ms": 166640,
+      "name": "Lip Up Fatty",
+      "url": "https://open.spotify.com/track/2V5tv4ZwtNTgAp4MCwNOXb"
     },
     {
       "added_at": "2022-04-14 09:43:03",

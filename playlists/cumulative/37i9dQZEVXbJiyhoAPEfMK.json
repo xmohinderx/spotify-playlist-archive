@@ -3928,6 +3928,24 @@
     },
     {
       "album": {
+        "name": "Can't Stop",
+        "url": "https://open.spotify.com/album/7z7pDXWv00dKyR963ImQRw"
+      },
+      "artists": [
+        {
+          "name": "Matthew Schultz",
+          "url": "https://open.spotify.com/artist/2Sd3zmzvPHUeBp7jWxIGfP"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142564,
+      "name": "Can't Stop",
+      "url": "https://open.spotify.com/track/41VzOdcWn8EsXsSMXz6Hja"
+    },
+    {
+      "album": {
         "name": "Canada Goose",
         "url": "https://open.spotify.com/album/6kQAvGYxQuYtFwuaqUUkDc"
       },
@@ -22271,7 +22289,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-22",
       "duration_ms": 138205,
       "name": "True",
       "url": "https://open.spotify.com/track/47H26TwwZ6SCcU1CF2aRYn"

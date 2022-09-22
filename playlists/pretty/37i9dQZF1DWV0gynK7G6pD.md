@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Lang Lang
 
-[Spotify](https://open.spotify.com/user/spotify) - 654,634 likes - 75 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 654,710 likes - 75 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 | 16 | [Hayat Ağacı Süiti, Op\. 100: V\. Hayat Ağacı](https://open.spotify.com/track/7sq4vmD0BDilokr7pHugY2) | [Fazıl Say](https://open.spotify.com/artist/15NSFL63oPhmpXLcZHny2N), [Jamal Aliyev](https://open.spotify.com/artist/57mVIxJ9t0acqvtLuG0TzU) | [Hayat Ağacı](https://open.spotify.com/album/0bGTaZNheCBsLXagxaclK0) | 4:20 |
 | 17 | [Pulling the Rain](https://open.spotify.com/track/3psJT0rX3kxPl0APFmNLH1) | [Peter Broderick](https://open.spotify.com/artist/3haVJx9TUcufYl1rPyH0iv) | [Pulling the Rain](https://open.spotify.com/album/5YmAZ8wf8LnxkTU4KQZMQq) | 5:28 |
 | 18 | [The Fairy Shuffle \(Arr\. for String Ensemble by Bjarte Eike & Barokksolistene\)](https://open.spotify.com/track/7fE7LXvVEorhA9tCbrlI99) | [Henry Purcell](https://open.spotify.com/artist/3tMLo1k3iUo82coMLWXzxq), [Barokksolistene](https://open.spotify.com/artist/1OcVt5llZFb6dkSeMGhvGJ), [Bjarte Eike](https://open.spotify.com/artist/0Cfr4nJjCg2UyybWBMbE7t) | [Henry Purcell: The Fairy Shuffle \(Arr\. by Bjarte Eike\)](https://open.spotify.com/album/4PPTT41lZvqOvEQoiJuNgo) | 3:45 |
-| 19 | [Hind / Aska \- Harpa Sessions / Medley](https://open.spotify.com/track/5SvXKhkzEg3it60Ca1bMY1) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Hind / Aska \(Harpa Sessions / Medley\)](https://open.spotify.com/album/42bHJ4yCifsYfAc2FyUREf) | 2:59 |
+| 19 | [Hind / Aska \- Harpa Sessions](https://open.spotify.com/track/5SvXKhkzEg3it60Ca1bMY1) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Hind / Aska \(Harpa Sessions\)](https://open.spotify.com/album/42bHJ4yCifsYfAc2FyUREf) | 2:59 |
 | 20 | [Symphony No\. 7, Op\. 81: III\. Andante](https://open.spotify.com/track/5pMBonLvXsyy6totr0YCUe) | [Mieczysław Weinberg](https://open.spotify.com/artist/6roPI9Y9n0FmCWxI3GxjaH), [Kirill Gerstein](https://open.spotify.com/artist/4NulEDrSwcTZuWWVUXe4s7), [Deutsche Kammerphilharmonie Bremen](https://open.spotify.com/artist/2g3N0oxbmn5Q95mYNNdIo4), [Mirga Gražinytė\-Tyla](https://open.spotify.com/artist/5wVbvpGikqowoq81OuLiO5) | [Weinberg: Symphonies Nos\. 3 & 7; Flute Concerto No\. 1](https://open.spotify.com/album/5o3HiFn83tJQDi6gWlyCJh) | 5:06 |
 | 21 | [Smells Like Teen Spirit](https://open.spotify.com/track/4sZRhiTReO9PByUpC82C1o) | [Redi Hasa](https://open.spotify.com/artist/7HlXH3lEJtM1yO38Ghi20f) | [Smells Like Teen Spirit](https://open.spotify.com/album/4mT1kCjz8kx8dbW8N8TnwT) | 5:00 |
 | 22 | [Symphony No\. 4 "Romantic" \(Cohrs A04B\): Finale \(Volksfest\)\. Allegro moderato \(1878, Cohrs A04B\-2\)](https://open.spotify.com/track/0D7d0QO02EUG32sjj20fxV) | [Anton Bruckner](https://open.spotify.com/artist/2bM3j1JQWBkmzuoZKu4zj2), [Sir Simon Rattle](https://open.spotify.com/artist/4GQwgdcDQwqtcHICjUNndp), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Bruckner: Symphony No\. 4](https://open.spotify.com/album/7gCn3KHSO859sQgaL1sn6H) | 15:48 |
