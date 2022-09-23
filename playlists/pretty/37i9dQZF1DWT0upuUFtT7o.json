@@ -1,13 +1,45 @@
 {
   "description": "The best new indie tracks by independent artists and labels. Updates every Wednesday. Cover: Ghost Orchard, Artwork: Robin Clifford Ellis ",
-  "num_followers": 152006,
+  "num_followers": 152123,
   "original_name": "Fresh Finds Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzYwNjgzNCwwMDAwMDAwMGEyMGZkOGNiNGRiZWUxZjM3NjFjZmZmNGI4MTVhODRk",
+  "snapshot_id": "MTY2Mzg5NDI5MiwwMDAwMDAwMDJkMDcxOWUwNmQ4YTU0YWRkMmM1ZGQyZjM2ZDAxZWFh",
   "tracks": [
+    {
+      "added_at": "2022-09-14 16:00:00",
+      "album": {
+        "name": "Dream Machine",
+        "url": "https://open.spotify.com/album/0FUs1PnmvHShn0GjwfYQlB"
+      },
+      "artists": [
+        {
+          "name": "Lucy Daydream",
+          "url": "https://open.spotify.com/artist/0RQEMnWcCrVW4vkPFbAVsg"
+        }
+      ],
+      "duration_ms": 217043,
+      "name": "Drippy",
+      "url": "https://open.spotify.com/track/7pu7lPXqQ7lLB9qFYmuItv"
+    },
+    {
+      "added_at": "2022-09-23 00:51:32",
+      "album": {
+        "name": "i watch the women",
+        "url": "https://open.spotify.com/album/4jP7OLmoLTKs0i9IlUmSit"
+      },
+      "artists": [
+        {
+          "name": "O Hell",
+          "url": "https://open.spotify.com/artist/2bsely4SlBVS2nBhren0vw"
+        }
+      ],
+      "duration_ms": 118303,
+      "name": "i watch the women",
+      "url": "https://open.spotify.com/track/44tmlWcUwDCHOhRdcnryux"
+    },
     {
       "added_at": "2022-09-14 16:00:00",
       "album": {
@@ -23,6 +55,38 @@
       "duration_ms": 230819,
       "name": "Summer In My Head",
       "url": "https://open.spotify.com/track/3KquekHc2ApZSvrd9qCiWW"
+    },
+    {
+      "added_at": "2022-09-23 00:51:32",
+      "album": {
+        "name": "Wasted",
+        "url": "https://open.spotify.com/album/7o7maQi8xuOcsG6IfEAY0l"
+      },
+      "artists": [
+        {
+          "name": "Blunt Chunks",
+          "url": "https://open.spotify.com/artist/0LAiiUMmOgX2YIQ5xPb4XX"
+        }
+      ],
+      "duration_ms": 341053,
+      "name": "Wasted",
+      "url": "https://open.spotify.com/track/3STDFm1uFX2vURQKYKc3Me"
+    },
+    {
+      "added_at": "2022-09-06 23:50:39",
+      "album": {
+        "name": "Apologizing",
+        "url": "https://open.spotify.com/album/0ee0UNooyR9pEWrFUXtRWY"
+      },
+      "artists": [
+        {
+          "name": "Celler Dwellers",
+          "url": "https://open.spotify.com/artist/6JqJpTCoO1tmLR7mVhFmFx"
+        }
+      ],
+      "duration_ms": 221181,
+      "name": "Apologizing",
+      "url": "https://open.spotify.com/track/2UOQXlUQfwlgIFG4u3ecrv"
     },
     {
       "added_at": "2022-09-19 17:00:33",
@@ -41,6 +105,54 @@
       "url": "https://open.spotify.com/track/65yTBhByFAm1xoP04NSlOf"
     },
     {
+      "added_at": "2022-09-23 00:51:32",
+      "album": {
+        "name": "Knocked Out",
+        "url": "https://open.spotify.com/album/0W3V7bXBVenVg5b0P5C7Pi"
+      },
+      "artists": [
+        {
+          "name": "Blue Mena",
+          "url": "https://open.spotify.com/artist/0OVCaaj4RxjhMe7vHsPPCa"
+        }
+      ],
+      "duration_ms": 238152,
+      "name": "Knocked Out",
+      "url": "https://open.spotify.com/track/1wzlcehTVU6w9O6n4PINXk"
+    },
+    {
+      "added_at": "2022-09-23 00:51:32",
+      "album": {
+        "name": "Stone After Stone",
+        "url": "https://open.spotify.com/album/6B1hhFIH0plGioiE0AxO8Q"
+      },
+      "artists": [
+        {
+          "name": "June McDoom",
+          "url": "https://open.spotify.com/artist/01dkMVgxs4d9pNMIOgyXVV"
+        }
+      ],
+      "duration_ms": 246586,
+      "name": "Stone After Stone",
+      "url": "https://open.spotify.com/track/0pwiEhcbpCFQvU6fMt4AeE"
+    },
+    {
+      "added_at": "2022-09-23 00:51:32",
+      "album": {
+        "name": "Wet Batteries / I Like Lies",
+        "url": "https://open.spotify.com/album/04qsL0NEbRr8dnclselSid"
+      },
+      "artists": [
+        {
+          "name": "Dance Lessons",
+          "url": "https://open.spotify.com/artist/52VhFwZRpWWiHCtoBMA6na"
+        }
+      ],
+      "duration_ms": 292880,
+      "name": "Wet Batteries",
+      "url": "https://open.spotify.com/track/5neneVsklOtlC0msU2OHgK"
+    },
+    {
       "added_at": "2022-09-14 16:00:00",
       "album": {
         "name": "Could've Tried",
@@ -57,36 +169,52 @@
       "url": "https://open.spotify.com/track/04ZUad18xszxdqExEA6fot"
     },
     {
-      "added_at": "2022-09-14 16:00:00",
+      "added_at": "2022-09-23 00:51:32",
       "album": {
-        "name": "Dream Machine",
-        "url": "https://open.spotify.com/album/0FUs1PnmvHShn0GjwfYQlB"
+        "name": "No Sweat",
+        "url": "https://open.spotify.com/album/6X1wlGhhV2P82VkNilQ8Bt"
       },
       "artists": [
         {
-          "name": "Lucy Daydream",
-          "url": "https://open.spotify.com/artist/0RQEMnWcCrVW4vkPFbAVsg"
+          "name": "Double Virgo",
+          "url": "https://open.spotify.com/artist/6z7qEMTNZigz2k3qozRYw1"
         }
       ],
-      "duration_ms": 217043,
-      "name": "Drippy",
-      "url": "https://open.spotify.com/track/7pu7lPXqQ7lLB9qFYmuItv"
+      "duration_ms": 183194,
+      "name": "No Sweat",
+      "url": "https://open.spotify.com/track/3nwHmqkBRofBzW4elGoSb3"
     },
     {
-      "added_at": "2022-09-06 23:50:39",
+      "added_at": "2022-09-23 00:51:32",
       "album": {
-        "name": "Apologizing",
-        "url": "https://open.spotify.com/album/0ee0UNooyR9pEWrFUXtRWY"
+        "name": "Hideaway",
+        "url": "https://open.spotify.com/album/0Ju3TRVtXqR89zMEEIqdYc"
       },
       "artists": [
         {
-          "name": "Celler Dwellers",
-          "url": "https://open.spotify.com/artist/6JqJpTCoO1tmLR7mVhFmFx"
+          "name": "Sunsee",
+          "url": "https://open.spotify.com/artist/0iuSzEwlTuGayeV4vX8bxc"
         }
       ],
-      "duration_ms": 221181,
-      "name": "Apologizing",
-      "url": "https://open.spotify.com/track/2UOQXlUQfwlgIFG4u3ecrv"
+      "duration_ms": 177677,
+      "name": "Hideaway",
+      "url": "https://open.spotify.com/track/3cTLRlTsD4E5A0xNfI9UoF"
+    },
+    {
+      "added_at": "2022-09-23 00:51:32",
+      "album": {
+        "name": "Do I Scare You",
+        "url": "https://open.spotify.com/album/3YN9Rzgi86fzi1WMTRY3uf"
+      },
+      "artists": [
+        {
+          "name": "Bea Bitter",
+          "url": "https://open.spotify.com/artist/6dgOnDNXvJ5ipEnbocP0Gu"
+        }
+      ],
+      "duration_ms": 146833,
+      "name": "Do I Scare You",
+      "url": "https://open.spotify.com/track/1PHn37xR2YvLcGpBCPpl2e"
     },
     {
       "added_at": "2022-09-14 16:00:00",
@@ -867,22 +995,6 @@
     {
       "added_at": "2022-08-31 17:03:18",
       "album": {
-        "name": "Flowers From Japan",
-        "url": "https://open.spotify.com/album/7cWK1OJgqmkyBjK67LUesw"
-      },
-      "artists": [
-        {
-          "name": "Gabe Watkins",
-          "url": "https://open.spotify.com/artist/2GtFIN8b3SolBC7mmCPAAA"
-        }
-      ],
-      "duration_ms": 246400,
-      "name": "Flowers From Japan",
-      "url": "https://open.spotify.com/track/6UMZpB7uTxDyhUs8cvSHRE"
-    },
-    {
-      "added_at": "2022-08-31 17:03:18",
-      "album": {
         "name": "Watch Your 6",
         "url": "https://open.spotify.com/album/2SYnimRwUaDLnsamnUb9TN"
       },
@@ -1275,38 +1387,6 @@
       "duration_ms": 248251,
       "name": "Under the Light",
       "url": "https://open.spotify.com/track/1NBLhR3gPrwun5Mk99YtOA"
-    },
-    {
-      "added_at": "2022-08-10 01:50:47",
-      "album": {
-        "name": "Casanova",
-        "url": "https://open.spotify.com/album/6tr8BViI4I0wA9LmuuTI8F"
-      },
-      "artists": [
-        {
-          "name": "Nick Dorian",
-          "url": "https://open.spotify.com/artist/60tZRF2LOOUONoZXo2ATtd"
-        }
-      ],
-      "duration_ms": 212453,
-      "name": "Casanova",
-      "url": "https://open.spotify.com/track/3ZV6NvltLpFNA9toysnv1g"
-    },
-    {
-      "added_at": "2022-08-10 01:50:47",
-      "album": {
-        "name": "The Florist",
-        "url": "https://open.spotify.com/album/1CcPFEX5L52OeFXHlqI4pa"
-      },
-      "artists": [
-        {
-          "name": "Abby Sage",
-          "url": "https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k"
-        }
-      ],
-      "duration_ms": 190601,
-      "name": "The Florist",
-      "url": "https://open.spotify.com/track/3LbPPqqqmmvEwjHA8YH4Wo"
     },
     {
       "added_at": "2022-08-10 01:50:47",

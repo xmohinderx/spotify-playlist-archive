@@ -4,7 +4,7 @@
 
 > Rimas argentinas\. Foto: WOS.
 
-164 songs - 8 hr 31 min - [published](https://open.spotify.com/playlist/4sv8KvOxUTe4tMwrdfTP89)
+165 songs - 8 hr 35 min - [published](https://open.spotify.com/playlist/4sv8KvOxUTe4tMwrdfTP89)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [\#Ysya2020 Vol\. 6 \- Un Flow de Infarto](https://open.spotify.com/track/2byu6eeLWaBq88ZtusqU4V) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36) | [\#Ysya2020 Vol\. 6 \- Un Flow de Infarto](https://open.spotify.com/album/7LGfXrv3UV7GAMuUOQZ37L) | 2:22 | 2021-11-26 |  |
 | [2 Gramos](https://open.spotify.com/track/4b3bC2qVLpBmsQXoOPCB1R) | [Fazzini](https://open.spotify.com/artist/0UgMoItq2HrVT6sRUF9ouY), [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [Always](https://open.spotify.com/album/5A6Dg5sCDSjW26RNkRYMmV) | 2:50 | 2022-04-11 |  |
 | [21334 \- Red Bull](https://open.spotify.com/track/42sYKO9iXIJK3tsm9jJvLn) | [Dani Ribba](https://open.spotify.com/artist/6cC67GpmPCjQjOYLpmOGhN), [BIG MENU](https://open.spotify.com/artist/5J4zBfajQeBkyZuicSOL7Q) | [21334 \(Red Bull\)](https://open.spotify.com/album/03NZ1TUdzSrKP4NAvUXEJY) | 3:15 | 2021-11-26 | 2022-02-19 |
-| [333](https://open.spotify.com/track/3zdIMwE2l96zC7Txbg9g5Q) | [Flaco Vazquez](https://open.spotify.com/artist/4Ohr1XPB2qzNiiWRJlelPO) | [333](https://open.spotify.com/album/1BkbDtwVUYLHEynzgC6yKg) | 3:49 | 2022-04-11 |  |
+| [333](https://open.spotify.com/track/3zdIMwE2l96zC7Txbg9g5Q) | [Flaco Vazquez](https://open.spotify.com/artist/4Ohr1XPB2qzNiiWRJlelPO) | [333](https://open.spotify.com/album/1BkbDtwVUYLHEynzgC6yKg) | 3:49 | 2022-04-11 | 2022-09-23 |
+| [333](https://open.spotify.com/track/7uRjkDEmtb4CngdV8GoW4d) | [Flaco Vazquez](https://open.spotify.com/artist/4Ohr1XPB2qzNiiWRJlelPO) | [333](https://open.spotify.com/album/36IBUMoqZrk1yx1p6OML8B) | 3:49 | 2022-09-22 |  |
 | [90's](https://open.spotify.com/track/1I5TzzXzQjVVl9iFi3Jh50) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [90's](https://open.spotify.com/album/3ugKqSFHw2RVmGKEwd3zMl) | 2:18 | 2021-11-26 | 2022-07-29 |
 | [90's](https://open.spotify.com/track/2joekpIeB4D30yg6P12RF5) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [90's](https://open.spotify.com/album/6JGCt2W3OKRLXXtn6RcTN1) | 2:18 | 2022-06-10 |  |
 | [A 120](https://open.spotify.com/track/6hIaPSI8jiEMcSNBg5UDvO) | [Zica](https://open.spotify.com/artist/46tb2ZXhiEO0R42JLK1Qzr), [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [A 120](https://open.spotify.com/album/0sovDa8vIqn8cuDESN7G30) | 3:08 | 2021-11-26 |  |

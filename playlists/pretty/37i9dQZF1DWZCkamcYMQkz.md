@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCkamcYMQkz.md) - [plain]
 
 > Happy and uplifting Jazz to get you in a good mood.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,820 likes - 100 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,943 likes - 100 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,13 +92,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCkamcYMQkz.md) - [plain]
 | 82 | [See See Rider](https://open.spotify.com/track/5NltGjgbV9hy4HMCS9CYoy) | [Ernestine Anderson](https://open.spotify.com/artist/7yNele4jnVhZJ2GE7Kg25T) | [My Kinda Swing](https://open.spotify.com/album/1LJPmxO2eGpzZGrr12LEIa) | 3:02 |
 | 83 | [On a Clear Day \(You Can See Forever\) \- Live](https://open.spotify.com/track/44mZcRGz5AypDvxNFHDPYd) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Exclusively for My Friends: Girl Talk, Vol\. II](https://open.spotify.com/album/3UL145zQyFoPH9WCRDUD3f) | 4:21 |
 | 84 | [Anything Goes](https://open.spotify.com/track/4SK4XpzqomNOm2RkscCk5D) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [Getz Meets Mulligan In Hi\-Fi](https://open.spotify.com/album/790iHphSpmNDWfcha7SAx0) | 3:39 |
-| 85 | [Ramblin'](https://open.spotify.com/track/3PI3LtxqQtlQCxUxKqDfqm) | [Charles Lloyd](https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5) | [Ramblin'](https://open.spotify.com/album/6IF4t8d8X6WTr3KR5RRpSs) | 4:58 |
-| 86 | [Oh, Good Grief](https://open.spotify.com/track/7t6Kf3myyknIqWzDFfaImE) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [A Boy Named Charlie Brown](https://open.spotify.com/album/4bNE83zw6uZs5FyDFnSCui) | 2:22 |
+| 85 | [Oh, Good Grief](https://open.spotify.com/track/7t6Kf3myyknIqWzDFfaImE) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [A Boy Named Charlie Brown](https://open.spotify.com/album/4bNE83zw6uZs5FyDFnSCui) | 2:22 |
+| 86 | [Ramblin'](https://open.spotify.com/track/3PI3LtxqQtlQCxUxKqDfqm) | [Charles Lloyd](https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5) | [Ramblin'](https://open.spotify.com/album/6IF4t8d8X6WTr3KR5RRpSs) | 4:58 |
 | 87 | [The Best Things In Life Are Free](https://open.spotify.com/track/2QPxNZFYWCEtvLRQ8cEVli) | [Jo Stafford](https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw) | [Autumn In New York](https://open.spotify.com/album/6hM8Vc45AcGKa6XR5yqv14) | 2:24 |
-| 88 | [The Feeling is Mutual](https://open.spotify.com/track/6hRotep2BbjGYmHHjj6soQ) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa), [Laura Anglade](https://open.spotify.com/artist/49gu1QHXBPcWoeT5cyAGqG) | [The Feeling is Mutual](https://open.spotify.com/album/0NiWeiNpFi6hBoPJ7NCmHk) | 4:14 |
-| 89 | [Hello Bright Sunflower \- Rudy Van Gelder Edition/2006 Digital Remaster](https://open.spotify.com/track/2Q6fLryY9lv34jazpe4bnE) | [Donald Byrd](https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL) | [The Cat Walk](https://open.spotify.com/album/74xp9w1ZWItApmB1qEd7hm) | 7:33 |
-| 90 | [Doozy \- 1966 Album Version](https://open.spotify.com/track/0iZFlr1KifqE2h5jM8g5pF) | [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32) | [Additions To Further Definitions](https://open.spotify.com/album/7xZfgQPKxnmAAt6mLTTSVb) | 5:31 |
-| 91 | [Green Eyes](https://open.spotify.com/track/56z6nKTleua5OBs5dO76aV) | [Lou Donaldson](https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR) | [Light\-Foot](https://open.spotify.com/album/4TUkYB55C23uHCxyLjGAaR) | 5:19 |
+| 88 | [Hello Bright Sunflower \- Rudy Van Gelder Edition/2006 Digital Remaster](https://open.spotify.com/track/2Q6fLryY9lv34jazpe4bnE) | [Donald Byrd](https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL) | [The Cat Walk](https://open.spotify.com/album/74xp9w1ZWItApmB1qEd7hm) | 7:33 |
+| 89 | [The Feeling is Mutual](https://open.spotify.com/track/6hRotep2BbjGYmHHjj6soQ) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa), [Laura Anglade](https://open.spotify.com/artist/49gu1QHXBPcWoeT5cyAGqG) | [The Feeling is Mutual](https://open.spotify.com/album/0NiWeiNpFi6hBoPJ7NCmHk) | 4:14 |
+| 90 | [Green Eyes](https://open.spotify.com/track/56z6nKTleua5OBs5dO76aV) | [Lou Donaldson](https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR) | [Light\-Foot](https://open.spotify.com/album/4TUkYB55C23uHCxyLjGAaR) | 5:19 |
+| 91 | [Doozy \- 1966 Album Version](https://open.spotify.com/track/0iZFlr1KifqE2h5jM8g5pF) | [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32) | [Additions To Further Definitions](https://open.spotify.com/album/7xZfgQPKxnmAAt6mLTTSVb) | 5:31 |
 | 92 | [I'm Looking Over A Four Leaf Clover \(Jazz Samba\)](https://open.spotify.com/track/1wqrfKgBPtCHITqSwwXcxf) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0) | [Desafinado](https://open.spotify.com/album/4Zmp4npHwNJ3cIdwv3sWz4) | 2:53 |
 | 93 | [It's Crazy](https://open.spotify.com/track/6bgkRqGbBJJ9cnwj8S4CkC) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8), [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO) | [Sarah Vaughan](https://open.spotify.com/album/7wX89EWCK8cNZeGnBS5bMG) | 5:06 |
 | 94 | [Dakar](https://open.spotify.com/track/3bQEe78SKsthvH116E12YJ) | [Musicmusicmusic](https://open.spotify.com/artist/5mtFvnvImn9y9m8MaVxTZ8), [Fabian Kallerdahl](https://open.spotify.com/artist/7fl8Q1ZxnrShvSPkISUZoU), [Michael Edlund](https://open.spotify.com/artist/0kYl58y2IiOpSbieJ31Oja), [Josef Kallerdahl](https://open.spotify.com/artist/5Wc1iOuZi2XsaM1ppRsAaN) | [Buen Sabor](https://open.spotify.com/album/0d3GbYL99XBllNDr93R4T0) | 8:02 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCkamcYMQkz.md) - [plain]
 | 99 | [It's A Big Wide Wonderful World](https://open.spotify.com/track/7viOK0TULHr1y8RU1K0R0s) | [Betty Carter](https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ) | [Inside Betty Carter](https://open.spotify.com/album/3rFnwsVrrSYZQsCGTkOT7W) | 1:50 |
 | 100 | [A Dab Of This And That](https://open.spotify.com/track/6PKGuyvnWzcwC8aDPp9ywI) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv) | [Far Away Lands](https://open.spotify.com/album/2dtIc2zQas1dfBadi57ohi) | 5:12 |
 
-Snapshot ID: `MTY2MzY2MDA4NiwwMDAwMDAwMGVlNzU4NmNlYmRkMTc0MDI4NDhmYTVjODFlMzRhNjMx`
+Snapshot ID: `MTY2MzY2MDA4NiwwMDAwMDAwMGIwMzc4ZmRlZGRlYTdjOGM5ZjMwZmUxMzkyOTNjZmU2`

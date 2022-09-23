@@ -1,12 +1,12 @@
 {
   "description": "2011 highlights from the home of indie music.",
-  "num_followers": 58192,
+  "num_followers": 58277,
   "original_name": "Best of Indie 2011",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDkxNjQ0NCwwMDAwMDAwMGNkY2YwODYwMmJiZWI0YzQwY2VmMDYyOWQ5YWFlYjlh",
+  "snapshot_id": "MTY1MDkxNjQ0NCwwMDAwMDAwMDNlMWRkZjM5NTc2ZDg1M2QyNjk5MWQwMzE2MWQwNThm",
   "tracks": [
     {
       "added_at": "2021-09-02 08:15:11",
@@ -299,22 +299,6 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
-        "name": "Portamento",
-        "url": "https://open.spotify.com/album/0gi6GxcVnTUjOaFWozw9en"
-      },
-      "artists": [
-        {
-          "name": "The Drums",
-          "url": "https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu"
-        }
-      ],
-      "duration_ms": 233655,
-      "name": "Money",
-      "url": "https://open.spotify.com/track/5Q1H7ASDiJpACNx5ziyhuN"
-    },
-    {
-      "added_at": "2021-09-02 08:15:11",
-      "album": {
         "name": "Ceremonials (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5SxudoALxEAVh9l83kSebx"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 277720,
       "name": "Shake It Out",
       "url": "https://open.spotify.com/track/4lY95OMGb9WxP6IYut64ir"
+    },
+    {
+      "added_at": "2021-09-02 08:15:11",
+      "album": {
+        "name": "Portamento",
+        "url": "https://open.spotify.com/album/0gi6GxcVnTUjOaFWozw9en"
+      },
+      "artists": [
+        {
+          "name": "The Drums",
+          "url": "https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu"
+        }
+      ],
+      "duration_ms": 233655,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/5Q1H7ASDiJpACNx5ziyhuN"
     },
     {
       "added_at": "2021-09-02 08:15:11",
@@ -539,22 +539,6 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
-        "name": "What Did You Expect from The Vaccines?",
-        "url": "https://open.spotify.com/album/2T0iwqVWzr4Y63x4kKO5DW"
-      },
-      "artists": [
-        {
-          "name": "The Vaccines",
-          "url": "https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA"
-        }
-      ],
-      "duration_ms": 174453,
-      "name": "Post Break-Up Sex",
-      "url": "https://open.spotify.com/track/47oXAoC5TynVLCZ3FKb0gC"
-    },
-    {
-      "added_at": "2021-09-02 08:15:11",
-      "album": {
         "name": "Ceremonials (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5SxudoALxEAVh9l83kSebx"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 271013,
       "name": "Never Let Me Go",
       "url": "https://open.spotify.com/track/6cC9RY7MoUx5z3aHjDTNI6"
+    },
+    {
+      "added_at": "2021-09-02 08:15:11",
+      "album": {
+        "name": "What Did You Expect from The Vaccines?",
+        "url": "https://open.spotify.com/album/2T0iwqVWzr4Y63x4kKO5DW"
+      },
+      "artists": [
+        {
+          "name": "The Vaccines",
+          "url": "https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA"
+        }
+      ],
+      "duration_ms": 174453,
+      "name": "Post Break-Up Sex",
+      "url": "https://open.spotify.com/track/47oXAoC5TynVLCZ3FKb0gC"
     },
     {
       "added_at": "2021-09-02 08:15:11",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
-        "name": "Loverboy",
-        "url": "https://open.spotify.com/album/1tTnc3AhId4QUgGR69cCF8"
-      },
-      "artists": [
-        {
-          "name": "Brett Dennen",
-          "url": "https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT"
-        }
-      ],
-      "duration_ms": 205373,
-      "name": "Comeback Kid (That's My Dog)",
-      "url": "https://open.spotify.com/track/4Jjr9IXCJVWIXOTuXDBNoq"
-    },
-    {
-      "added_at": "2021-09-02 08:15:11",
-      "album": {
         "name": "Helplessness Blues",
         "url": "https://open.spotify.com/album/7D0rCfJjFj9x0bdgRKtvzb"
       },
@@ -1139,18 +1123,18 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
-        "name": "Ceremonials (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5SxudoALxEAVh9l83kSebx"
+        "name": "Loverboy",
+        "url": "https://open.spotify.com/album/1tTnc3AhId4QUgGR69cCF8"
       },
       "artists": [
         {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+          "name": "Brett Dennen",
+          "url": "https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT"
         }
       ],
-      "duration_ms": 274853,
-      "name": "No Light, No Light",
-      "url": "https://open.spotify.com/track/5nkYDYUSb1bvLJ4nP8CnQ1"
+      "duration_ms": 205373,
+      "name": "Comeback Kid (That's My Dog)",
+      "url": "https://open.spotify.com/track/4Jjr9IXCJVWIXOTuXDBNoq"
     },
     {
       "added_at": "2021-09-02 08:15:11",
@@ -1167,6 +1151,22 @@
       "duration_ms": 232440,
       "name": "Minnesota, WI",
       "url": "https://open.spotify.com/track/6dmqnKIOvBfqjP317AT2tT"
+    },
+    {
+      "added_at": "2021-09-02 08:15:11",
+      "album": {
+        "name": "Ceremonials (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5SxudoALxEAVh9l83kSebx"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 274853,
+      "name": "No Light, No Light",
+      "url": "https://open.spotify.com/track/5nkYDYUSb1bvLJ4nP8CnQ1"
     },
     {
       "added_at": "2021-09-02 08:15:11",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
-        "name": "Mirrorwriting",
-        "url": "https://open.spotify.com/album/30MSPzoWz0TzaFY7zx02XD"
-      },
-      "artists": [
-        {
-          "name": "Jamie Woon",
-          "url": "https://open.spotify.com/artist/1fUMEn4Yk7ZUloozE0fRLL"
-        }
-      ],
-      "duration_ms": 322400,
-      "name": "Night Air",
-      "url": "https://open.spotify.com/track/73C8W2PBSEbfoNIi1J93MN"
-    },
-    {
-      "added_at": "2021-09-02 08:15:11",
-      "album": {
         "name": "You Are All I See",
         "url": "https://open.spotify.com/album/0naMIQoMmwqmpXiO7qFqCX"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 321453,
       "name": "Hanging On",
       "url": "https://open.spotify.com/track/6o4lFpp8OAFhBqGQbWyAob"
+    },
+    {
+      "added_at": "2021-09-02 08:15:11",
+      "album": {
+        "name": "Mirrorwriting",
+        "url": "https://open.spotify.com/album/30MSPzoWz0TzaFY7zx02XD"
+      },
+      "artists": [
+        {
+          "name": "Jamie Woon",
+          "url": "https://open.spotify.com/artist/1fUMEn4Yk7ZUloozE0fRLL"
+        }
+      ],
+      "duration_ms": 322400,
+      "name": "Night Air",
+      "url": "https://open.spotify.com/track/73C8W2PBSEbfoNIi1J93MN"
     },
     {
       "added_at": "2021-09-02 08:15:11",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
-        "name": "Space Is Only Noise",
-        "url": "https://open.spotify.com/album/0tUJcqDuXHNkaPKLN0lQhT"
-      },
-      "artists": [
-        {
-          "name": "Nicolas Jaar",
-          "url": "https://open.spotify.com/artist/5a0etAzO5V26gvlbmHzT9W"
-        }
-      ],
-      "duration_ms": 342163,
-      "name": "Space Is Only Noise If You Can See",
-      "url": "https://open.spotify.com/track/7uW6TpsG5sqP5JxTLV7Bf0"
-    },
-    {
-      "added_at": "2021-09-02 08:15:11",
-      "album": {
         "name": "SBTRKT",
         "url": "https://open.spotify.com/album/4ncktAfHYJlko5yZgqce3H"
       },
@@ -1503,18 +1487,18 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
-        "name": "The Rip Tide",
-        "url": "https://open.spotify.com/album/7HYptJX2aQJPWbxXviXLwQ"
+        "name": "Space Is Only Noise",
+        "url": "https://open.spotify.com/album/0tUJcqDuXHNkaPKLN0lQhT"
       },
       "artists": [
         {
-          "name": "Beirut",
-          "url": "https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX"
+          "name": "Nicolas Jaar",
+          "url": "https://open.spotify.com/artist/5a0etAzO5V26gvlbmHzT9W"
         }
       ],
-      "duration_ms": 238546,
-      "name": "East Harlem",
-      "url": "https://open.spotify.com/track/4i6O75iAptEnENjKLOLZ9Y"
+      "duration_ms": 342163,
+      "name": "Space Is Only Noise If You Can See",
+      "url": "https://open.spotify.com/track/7uW6TpsG5sqP5JxTLV7Bf0"
     },
     {
       "added_at": "2021-09-02 08:15:11",
@@ -1531,6 +1515,22 @@
       "duration_ms": 263906,
       "name": "Landfill",
       "url": "https://open.spotify.com/track/7zUnbLzzq8g5IoKedMiRo9"
+    },
+    {
+      "added_at": "2021-09-02 08:15:11",
+      "album": {
+        "name": "The Rip Tide",
+        "url": "https://open.spotify.com/album/7HYptJX2aQJPWbxXviXLwQ"
+      },
+      "artists": [
+        {
+          "name": "Beirut",
+          "url": "https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX"
+        }
+      ],
+      "duration_ms": 238546,
+      "name": "East Harlem",
+      "url": "https://open.spotify.com/track/4i6O75iAptEnENjKLOLZ9Y"
     },
     {
       "added_at": "2021-09-02 08:15:11",

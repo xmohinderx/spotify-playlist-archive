@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXWGZfG4d1b.md) - [plain]
 
 > Rock independiente, pop alternativo y golden hour.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,345 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,350 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXWGZfG4d1b.md) - [plain]
 | 48 | [Sabés Dónde Encontrarme](https://open.spotify.com/track/7fMVcLdtD9RGlUfMxnO08T) | [Pasado Verde](https://open.spotify.com/artist/6I0h9J8iQTeXkAir3RAj9k) | [Declaración de Principios](https://open.spotify.com/album/6KgAL7uTSPiZ6EvX043GVq) | 3:23 |
 | 49 | [Nube](https://open.spotify.com/track/0ptdCEFJjqE7hJJrUVz29z) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW) | [Como Antes](https://open.spotify.com/album/56qAd8JFUBjW7gdAEQinHT) | 1:10 |
 | 50 | [Semillas de Luz](https://open.spotify.com/track/3EqkA7HfjFahS89pEBr2Sa) | [Los Espiritus](https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0) | [Caldero](https://open.spotify.com/album/6K0FP8olOJO2Po8RVFkUhA) | 4:11 |
-| 51 | [Nudos](https://open.spotify.com/track/2xbzDOzq3F9WnbHrgDhixH) | [Alejo y Valentin](https://open.spotify.com/artist/18e0X2rB92SDmDYGCFTGum) | [En El Palacio de Las Almas](https://open.spotify.com/album/4XsbM55fQ2RpOriLDQZJtI) | 4:03 |
-| 52 | [Solos](https://open.spotify.com/track/4OrRyEaGBZub38KX2tf7dR) | [Lucia Tacchetti](https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ), [Margarita Quebrada](https://open.spotify.com/artist/5aPDMwix2ydu77sgQ89SUi) | [Solos](https://open.spotify.com/album/2hV78YdCzBXgjMeF9eniwQ) | 4:12 |
+| 51 | [Solos](https://open.spotify.com/track/4OrRyEaGBZub38KX2tf7dR) | [Lucia Tacchetti](https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ), [Margarita Quebrada](https://open.spotify.com/artist/5aPDMwix2ydu77sgQ89SUi) | [Solos](https://open.spotify.com/album/2hV78YdCzBXgjMeF9eniwQ) | 4:12 |
+| 52 | [Nudos](https://open.spotify.com/track/2xbzDOzq3F9WnbHrgDhixH) | [Alejo y Valentin](https://open.spotify.com/artist/18e0X2rB92SDmDYGCFTGum) | [En El Palacio de Las Almas](https://open.spotify.com/album/4XsbM55fQ2RpOriLDQZJtI) | 4:03 |
 | 53 | [Congelado](https://open.spotify.com/track/2evNqTcmNYPUErVp1L9yNp) | [Cítrico](https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9) | [Congelado](https://open.spotify.com/album/1rDN4coWkaGReLYZ55WRWn) | 2:27 |
 | 54 | [Sonámbulos](https://open.spotify.com/track/3E9jp8FfxeKPAkMBJwMaMc) | [Valentin y Los Volcanes](https://open.spotify.com/artist/2VK9T8hGs9nEseJ1UaTAKS) | [Una Comedia Romántica](https://open.spotify.com/album/6OvZ23mWgNch2FVc13ZrNk) | 3:44 |
 | 55 | [En Toneles](https://open.spotify.com/track/0AKSlOfNxuM2c3ydqUPYdg) | [Lucy Patané](https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld) | [Lucy Patané](https://open.spotify.com/album/3DBoYj1Q8vZ3Xu1k2MIO9w) | 4:06 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXWGZfG4d1b.md) - [plain]
 | 99 | [Carolina](https://open.spotify.com/track/3YQqAy085USiQsvOQ6B5Fn) | [Fonso](https://open.spotify.com/artist/7F0EJprm2nfF3OmKCa4Ox4) | [Carolina](https://open.spotify.com/album/0CutNkvW3zTZhCF73jg6Vv) | 2:23 |
 | 100 | [Animales](https://open.spotify.com/track/6TVAKgR4O5g0OLUocQmiRW) | [Vosque](https://open.spotify.com/artist/5rz5fB76tpWPsEvcfSWUD6) | [Animales](https://open.spotify.com/album/2GRZzy5ZPmh7dvns69tZ8p) | 3:41 |
 
-Snapshot ID: `MTY2MjY5MjQwMCwwMDAwMDAwMDYyNDAxYjAyNmNmYTdlMzcxMGZlMTVjYTg5NWE4ZDVh`
+Snapshot ID: `MTY2MjY5MjQwMCwwMDAwMDAwMGYzMzVmYzY2Yzc5OTk0ZDA3NDQ3MDE4Y2ZkNzIwNTJm`

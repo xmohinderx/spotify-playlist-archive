@@ -4,7 +4,7 @@
 
 > pov: u hand the internet the aux
 
-138 songs - 7 hr 39 min - [published](https://open.spotify.com/playlist/4jWPG0cqAOP6wtAEReRH0H)
+139 songs - 7 hr 43 min - [published](https://open.spotify.com/playlist/4jWPG0cqAOP6wtAEReRH0H)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [District 8](https://open.spotify.com/track/3oXiddNGiWhpmlQCWkJoJ9) | [FJAAK](https://open.spotify.com/artist/4qG1qjeHfkASTdyRGbLWbV) | [SYS02](https://open.spotify.com/album/1hWdAnaS9tsIcwYM3hC48Y) | 5:01 | 2022-03-02 | 2022-07-29 |
 | [Do It To It](https://open.spotify.com/track/20on25jryn53hWghthWWW3) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Cherish](https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo) | [Do It To It](https://open.spotify.com/album/58cd90Jkrovggh556JPN9L) | 2:37 | 2021-12-03 |  |
 | [Don't Start Now](https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Don't Start Now](https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp) | 3:03 | 2021-12-03 |  |
-| [Down Under \(feat\. Colin Hay\)](https://open.spotify.com/track/7AVyve7cFYTd51ha5i9kE2) | [Luude](https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg), [Colin Hay](https://open.spotify.com/artist/5mxB08ktCukEhGMg2YZeEv) | [Down Under \(feat\. Colin Hay\)](https://open.spotify.com/album/64xmSwJJbFQMf63AFYZXpW) | 2:38 | 2022-01-04 |  |
+| [Down Under \(feat\. Colin Hay\)](https://open.spotify.com/track/7AVyve7cFYTd51ha5i9kE2) | [Luude](https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg), [Colin Hay](https://open.spotify.com/artist/5mxB08ktCukEhGMg2YZeEv) | [Down Under \(feat\. Colin Hay\)](https://open.spotify.com/album/64xmSwJJbFQMf63AFYZXpW) | 2:38 | 2022-01-04 | 2022-09-23 |
 | [Edge](https://open.spotify.com/track/4pCvnGkf7jveRMKHZosxxB) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw) | [The Silence Is Deafening](https://open.spotify.com/album/52vZKQID1SqrbDnzE0Je5K) | 3:43 | 2022-01-26 | 2022-04-21 |
 | [Everybody Wants To Party](https://open.spotify.com/track/3hbi5zXAgQt0Z9V5JSOnCe) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [JØRD](https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV) | [Everybody Wants To Party](https://open.spotify.com/album/5gQsKvFQiPKop7tVdbvNSj) | 3:04 | 2021-12-03 | 2022-04-20 |
 | [Fashion Week](https://open.spotify.com/track/6ShImJT1uMlKJbdJh6MnbH) | [Thybxlle](https://open.spotify.com/artist/6bxjRFPDTdgf3HeJJJhes7) | [Fashion Week](https://open.spotify.com/album/71nuI99ptBQqwwE9ffKnLL) | 2:35 | 2021-12-03 | 2022-07-29 |
@@ -62,6 +62,7 @@
 | [Harlem Shake](https://open.spotify.com/track/01XFgRZfZI7oBagNf1Loml) | [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv) | [Harlem Shake](https://open.spotify.com/album/5H0yFEG5FT0tccZRSdNvVU) | 3:16 | 2021-12-03 | 2022-04-19 |
 | [HMU](https://open.spotify.com/track/60U1w8wJMlPvXRdPaLAYqi) | [Tobias Dray](https://open.spotify.com/artist/52X0HmQRQ8oRiq0pSEmJ9W) | [HMU](https://open.spotify.com/album/7ARY8uh4CSM067QGCluIiT) | 1:58 | 2021-12-23 | 2022-07-29 |
 | [I Feel Fantastic](https://open.spotify.com/track/2CMq2UImv0YssAzKb95YBH) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [I Feel Fantastic](https://open.spotify.com/album/7EK9acXyOaMuemZA2rRqqz) | 2:26 | 2022-01-12 | 2022-07-29 |
+| [I Really Want to Stay at Your House](https://open.spotify.com/track/7mykoq6R3BArsSpNDjFQTm) | [Rosa Walton](https://open.spotify.com/artist/1X0HaTcdkHW7LviblBiEeq), [Hallie Coggins](https://open.spotify.com/artist/5JNkPX6dYGLeEm4cUjHNGc) | [Cyberpunk 2077: Radio, Vol\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/1VGVJdmvOSRK2w9RKXk18A) | 4:06 | 2022-09-22 |  |
 | [I'd Rather Sleep](https://open.spotify.com/track/56JcHvg7W4cCs6fQEOz2gW) | [Kero Kero Bonito](https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT) | [Intro Bonito](https://open.spotify.com/album/3s3PEd50fVx2qXMNgPy0uD) | 1:55 | 2021-12-03 | 2022-07-29 |
 | [ily \(i love you baby\) \(feat\. Emilee\)](https://open.spotify.com/track/62aP9fBQKYKxi7PDXwcUAS) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Emilee](https://open.spotify.com/artist/4ArPQ1Opcksbbf3CPwEjWE) | [ily \(i love you baby\) \(feat\. Emilee\)](https://open.spotify.com/album/4MHHajvRTUHItDsvfdIC8B) | 2:56 | 2021-12-03 |  |
 | [in heat.](https://open.spotify.com/track/6T3sH1EuBMijU1MHe2WFJt) | [Hentai Xander](https://open.spotify.com/artist/7J67YP5oiObsKJkC7mrRWW) | [in heat.](https://open.spotify.com/album/0K4n11MU36fn5LewWZSOQ7) | 1:56 | 2021-12-03 | 2022-07-29 |

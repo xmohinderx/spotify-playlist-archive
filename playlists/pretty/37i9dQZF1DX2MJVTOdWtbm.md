@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MJVTOdWtbm.md) - [plain]
 
 > The home of Latin R&B\. La casa del R&B Latino\. Cover: LATENIGHTJIGGY
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,075 likes - 85 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,115 likes - 85 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MJVTOdWtbm.md) - [plain]
 | 35 | [TOSCANA](https://open.spotify.com/track/6ejAYAdo08qbPLrH4FEfYe) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [Cardellino](https://open.spotify.com/album/43ngUKpEMUdgNv3cHaWGKC) | 2:49 |
 | 36 | [Podemos Intentar](https://open.spotify.com/track/3Mi8RoaiZ6jmPIFkuNkYAg) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3), [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [Amor En Español](https://open.spotify.com/album/1e8k4kAKtcC5GIjfP4JDdR) | 4:11 |
 | 37 | [Ajá](https://open.spotify.com/track/7B0Vml7GTmw8ffpfSUjVzl) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [Ajá](https://open.spotify.com/album/71gL6gQiyTWMmbLcsn0MS4) | 2:22 |
-| 38 | [Chimbita](https://open.spotify.com/track/1s8LnjztT2IIxezpn0JP7H) | [Amenazzy](https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf) | [Chimbita](https://open.spotify.com/album/4q0baF6ACF19h9lFRz3Dit) | 2:45 |
-| 39 | [Miedo](https://open.spotify.com/track/7acURarwO3OFjtUKzzQq1T) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Una Niña Inútil](https://open.spotify.com/album/3cOK1UKpkM2v2xtcbNFzzc) | 3:09 |
+| 38 | [Miedo](https://open.spotify.com/track/7acURarwO3OFjtUKzzQq1T) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Una Niña Inútil](https://open.spotify.com/album/3cOK1UKpkM2v2xtcbNFzzc) | 3:09 |
+| 39 | [Chimbita](https://open.spotify.com/track/1s8LnjztT2IIxezpn0JP7H) | [Amenazzy](https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf) | [Chimbita](https://open.spotify.com/album/4q0baF6ACF19h9lFRz3Dit) | 2:45 |
 | 40 | [Corre](https://open.spotify.com/track/1guHjbt0T9U3p7JfW91ISA) | [Melodico](https://open.spotify.com/artist/0S6XZyWww6AyEUfk62wRJg) | [Corre](https://open.spotify.com/album/3zKO6vZTet1vKtoZDXM1Io) | 2:53 |
 | 41 | [Summer Nights](https://open.spotify.com/track/2J6KEv2z0LWUsMc2bHBAOR) | [Destiny Rogers](https://open.spotify.com/artist/6gezkje7GoJlQbHBgLXHuu) | [Summer Nights](https://open.spotify.com/album/3noBkmNZz14QcgIRgIzAZQ) | 2:31 |
 | 42 | [Pleasure \(feat\. RINI\)](https://open.spotify.com/track/6vZVtJgg7G16h2XxSa2mKI) | [Abrina](https://open.spotify.com/artist/3FfeeQuvoeef4F19qixt58), [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3) | [Pleasure \(feat\. RINI\)](https://open.spotify.com/album/3FeCrMtnuv4FZiSc3EHeEz) | 2:41 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MJVTOdWtbm.md) - [plain]
 | 84 | [Tu Boca](https://open.spotify.com/track/3uIfaA9Xe5yHXt5sIxVYsh) | [HALÉ](https://open.spotify.com/artist/0wWRmiISCSkPHDqQFIXBii) | [Tu Boca](https://open.spotify.com/album/0RIIwcidaXFpZNg2cZu9D2) | 3:02 |
 | 85 | [Diferente](https://open.spotify.com/track/1kjcjFtHnRkyMEbfhpw3bR) | [Andre TG](https://open.spotify.com/artist/2OHDHtDUjiP1K0rUXDC3vm) | [Diferente](https://open.spotify.com/album/2cDwDzzvit1Aoy6x9iBYVD) | 2:53 |
 
-Snapshot ID: `MTY2MzA3NzY0MCwwMDAwMDAwMGY5Y2ZlMjMxYmYwMDlmNGVkMDg0ZDQ4MmRmM2MyODQ1`
+Snapshot ID: `MTY2MzA3NzY0MCwwMDAwMDAwMGE5NjA3ODlmN2Q5ODBkMmQwZTJmNDA0ZWU5NTBlMDk2`

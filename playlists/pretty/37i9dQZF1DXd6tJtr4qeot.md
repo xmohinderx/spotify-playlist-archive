@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6tJtr4qeot.md) - [plain]
 
 > Punk rock from the 90s and 00s that you need in your life\. Cover: Rancid
 
-[Spotify](https://open.spotify.com/user/spotify) - 832,555 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 832,713 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

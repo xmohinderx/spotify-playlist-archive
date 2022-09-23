@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - France.",
-  "num_followers": 812692,
+  "num_followers": 812815,
   "original_name": "Top 50 - France",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzE3MDcyODcyLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzE3MTYwMTE0LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2022-09-21 10:54:32",
+      "added_at": "2022-09-22 11:08:34",
       "album": {
         "name": "KMT",
         "url": "https://open.spotify.com/album/5rS3VIo8faf2gtaNvAIavb"
@@ -25,59 +25,7 @@
       "url": "https://open.spotify.com/track/3D29kjUyWxsT3jUUTtARVQ"
     },
     {
-      "added_at": "2022-09-21 10:54:32",
-      "album": {
-        "name": "Mauvais Ordre",
-        "url": "https://open.spotify.com/album/6R8nBTTPwlP7iur0wV3oLq"
-      },
-      "artists": [
-        {
-          "name": "Lomepal",
-          "url": "https://open.spotify.com/artist/1Yfe3ONJlioHys7jwHdfVm"
-        }
-      ],
-      "duration_ms": 204760,
-      "name": "\u00c0 peu pr\u00e8s",
-      "url": "https://open.spotify.com/track/4VpmtsVKIRfNlmrtaEnrQi"
-    },
-    {
-      "added_at": "2022-09-21 10:54:32",
-      "album": {
-        "name": "Sans visa",
-        "url": "https://open.spotify.com/album/5rncxkieoEvPDzA7VdNGQx"
-      },
-      "artists": [
-        {
-          "name": "Soolking",
-          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
-        },
-        {
-          "name": "Niska",
-          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
-        }
-      ],
-      "duration_ms": 176120,
-      "name": "Balader",
-      "url": "https://open.spotify.com/track/6PrB4KpvuoYWtwjPC5a44S"
-    },
-    {
-      "added_at": "2022-09-21 10:54:32",
-      "album": {
-        "name": "Mauvais Ordre",
-        "url": "https://open.spotify.com/album/6R8nBTTPwlP7iur0wV3oLq"
-      },
-      "artists": [
-        {
-          "name": "Lomepal",
-          "url": "https://open.spotify.com/artist/1Yfe3ONJlioHys7jwHdfVm"
-        }
-      ],
-      "duration_ms": 219626,
-      "name": "Mauvais ordre",
-      "url": "https://open.spotify.com/track/0H5JKQ7qQ5MBeRSZSieZsM"
-    },
-    {
-      "added_at": "2022-09-21 10:54:32",
+      "added_at": "2022-09-22 11:08:34",
       "album": {
         "name": "FADE UP",
         "url": "https://open.spotify.com/album/6eD0LYFE7Tp1vOFffZVWNr"
@@ -101,7 +49,27 @@
       "url": "https://open.spotify.com/track/4ZpIuzx91EAPK3VimONbfB"
     },
     {
-      "added_at": "2022-09-21 10:54:32",
+      "added_at": "2022-09-22 11:08:34",
+      "album": {
+        "name": "Sans visa",
+        "url": "https://open.spotify.com/album/5rncxkieoEvPDzA7VdNGQx"
+      },
+      "artists": [
+        {
+          "name": "Soolking",
+          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
+        },
+        {
+          "name": "Niska",
+          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
+        }
+      ],
+      "duration_ms": 176120,
+      "name": "Balader",
+      "url": "https://open.spotify.com/track/6PrB4KpvuoYWtwjPC5a44S"
+    },
+    {
+      "added_at": "2022-09-22 11:08:34",
       "album": {
         "name": "Mauvais Ordre",
         "url": "https://open.spotify.com/album/6R8nBTTPwlP7iur0wV3oLq"
@@ -112,12 +80,28 @@
           "url": "https://open.spotify.com/artist/1Yfe3ONJlioHys7jwHdfVm"
         }
       ],
-      "duration_ms": 178866,
-      "name": "Hasarder",
-      "url": "https://open.spotify.com/track/6V40xLcDlYwZpz3oKIVNhL"
+      "duration_ms": 204760,
+      "name": "\u00c0 peu pr\u00e8s",
+      "url": "https://open.spotify.com/track/4VpmtsVKIRfNlmrtaEnrQi"
     },
     {
-      "added_at": "2022-09-21 10:54:32",
+      "added_at": "2022-09-22 11:08:34",
+      "album": {
+        "name": "Mauvais Ordre",
+        "url": "https://open.spotify.com/album/6R8nBTTPwlP7iur0wV3oLq"
+      },
+      "artists": [
+        {
+          "name": "Lomepal",
+          "url": "https://open.spotify.com/artist/1Yfe3ONJlioHys7jwHdfVm"
+        }
+      ],
+      "duration_ms": 219626,
+      "name": "Mauvais ordre",
+      "url": "https://open.spotify.com/track/0H5JKQ7qQ5MBeRSZSieZsM"
+    },
+    {
+      "added_at": "2022-09-22 11:08:34",
       "album": {
         "name": "QUARTIERS NORD",
         "url": "https://open.spotify.com/album/4EGHU1v3qmjchplaPqRWBC"
@@ -141,7 +125,23 @@
       "url": "https://open.spotify.com/track/6OZwia8loN0aPS0vTvsBjR"
     },
     {
-      "added_at": "2022-09-21 10:54:32",
+      "added_at": "2022-09-22 11:08:34",
+      "album": {
+        "name": "PETETE",
+        "url": "https://open.spotify.com/album/58vole57PvKhmHcY2JHBtk"
+      },
+      "artists": [
+        {
+          "name": "Gambi",
+          "url": "https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ"
+        }
+      ],
+      "duration_ms": 123846,
+      "name": "PETETE",
+      "url": "https://open.spotify.com/track/0z3bi63SNZ5ylyHOzb81Uq"
+    },
+    {
+      "added_at": "2022-09-22 11:08:34",
       "album": {
         "name": "I'm Good (Blue)",
         "url": "https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3"
@@ -161,23 +161,7 @@
       "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
     },
     {
-      "added_at": "2022-09-21 10:54:32",
-      "album": {
-        "name": "PETETE",
-        "url": "https://open.spotify.com/album/58vole57PvKhmHcY2JHBtk"
-      },
-      "artists": [
-        {
-          "name": "Gambi",
-          "url": "https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ"
-        }
-      ],
-      "duration_ms": 123846,
-      "name": "PETETE",
-      "url": "https://open.spotify.com/track/0z3bi63SNZ5ylyHOzb81Uq"
-    },
-    {
-      "added_at": "2022-09-21 10:54:32",
+      "added_at": "2022-09-22 11:08:34",
       "album": {
         "name": "Mauvais Ordre",
         "url": "https://open.spotify.com/album/6R8nBTTPwlP7iur0wV3oLq"
@@ -188,28 +172,12 @@
           "url": "https://open.spotify.com/artist/1Yfe3ONJlioHys7jwHdfVm"
         }
       ],
-      "duration_ms": 203400,
-      "name": "Tee",
-      "url": "https://open.spotify.com/track/2wqnUV5B4g6u3somiH9JkX"
+      "duration_ms": 178866,
+      "name": "Hasarder",
+      "url": "https://open.spotify.com/track/6V40xLcDlYwZpz3oKIVNhL"
     },
     {
-      "added_at": "2022-09-21 10:54:32",
-      "album": {
-        "name": "Mauvais Ordre",
-        "url": "https://open.spotify.com/album/6R8nBTTPwlP7iur0wV3oLq"
-      },
-      "artists": [
-        {
-          "name": "Lomepal",
-          "url": "https://open.spotify.com/artist/1Yfe3ONJlioHys7jwHdfVm"
-        }
-      ],
-      "duration_ms": 218586,
-      "name": "Decrescendo",
-      "url": "https://open.spotify.com/track/4otT81iBBpaf36roGtzT4a"
-    },
-    {
-      "added_at": "2022-09-21 10:54:32",
+      "added_at": "2022-09-22 11:08:34",
       "album": {
         "name": "Doja",
         "url": "https://open.spotify.com/album/6oECjagksATHu2UaclXrq1"
@@ -225,7 +193,23 @@
       "url": "https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i"
     },
     {
-      "added_at": "2022-09-21 10:54:32",
+      "added_at": "2022-09-22 11:08:34",
+      "album": {
+        "name": "Mauvais Ordre",
+        "url": "https://open.spotify.com/album/6R8nBTTPwlP7iur0wV3oLq"
+      },
+      "artists": [
+        {
+          "name": "Lomepal",
+          "url": "https://open.spotify.com/artist/1Yfe3ONJlioHys7jwHdfVm"
+        }
+      ],
+      "duration_ms": 203400,
+      "name": "Tee",
+      "url": "https://open.spotify.com/track/2wqnUV5B4g6u3somiH9JkX"
+    },
+    {
+      "added_at": "2022-09-22 11:08:34",
       "album": {
         "name": "I Ain\u2019t Worried (Music From The Motion Picture \"Top Gun: Maverick\")",
         "url": "https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2"
@@ -241,23 +225,7 @@
       "url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"
     },
     {
-      "added_at": "2022-09-21 10:54:32",
-      "album": {
-        "name": "Mauvais Ordre",
-        "url": "https://open.spotify.com/album/6R8nBTTPwlP7iur0wV3oLq"
-      },
-      "artists": [
-        {
-          "name": "Lomepal",
-          "url": "https://open.spotify.com/artist/1Yfe3ONJlioHys7jwHdfVm"
-        }
-      ],
-      "duration_ms": 262613,
-      "name": "Etna",
-      "url": "https://open.spotify.com/track/775qtHu1rNoq1N2aKFa4nD"
-    },
-    {
-      "added_at": "2022-09-21 10:54:32",
+      "added_at": "2022-09-22 11:08:34",
       "album": {
         "name": "KMT",
         "url": "https://open.spotify.com/album/5rS3VIo8faf2gtaNvAIavb"
@@ -273,7 +241,7 @@
       "url": "https://open.spotify.com/track/48BdA5qBxXVoe59xvu0bwc"
     },
     {
-      "added_at": "2022-09-21 10:54:32",
+      "added_at": "2022-09-22 11:08:34",
       "album": {
         "name": "Mauvais Ordre",
         "url": "https://open.spotify.com/album/6R8nBTTPwlP7iur0wV3oLq"
@@ -284,28 +252,12 @@
           "url": "https://open.spotify.com/artist/1Yfe3ONJlioHys7jwHdfVm"
         }
       ],
-      "duration_ms": 237146,
-      "name": "Maladie moderne",
-      "url": "https://open.spotify.com/track/7AoYApfKZO5jADcj7AmWg2"
+      "duration_ms": 218586,
+      "name": "Decrescendo",
+      "url": "https://open.spotify.com/track/4otT81iBBpaf36roGtzT4a"
     },
     {
-      "added_at": "2022-09-21 10:54:32",
-      "album": {
-        "name": "Mauvais Ordre",
-        "url": "https://open.spotify.com/album/6R8nBTTPwlP7iur0wV3oLq"
-      },
-      "artists": [
-        {
-          "name": "Lomepal",
-          "url": "https://open.spotify.com/artist/1Yfe3ONJlioHys7jwHdfVm"
-        }
-      ],
-      "duration_ms": 239146,
-      "name": "50\u00b0",
-      "url": "https://open.spotify.com/track/2yl8lePeFcQAPJKef8AM93"
-    },
-    {
-      "added_at": "2022-09-21 10:54:32",
+      "added_at": "2022-09-22 11:08:34",
       "album": {
         "name": "L'\u00c9lu",
         "url": "https://open.spotify.com/album/6UiV6zQxitBwaQ6Kw72W1i"
@@ -321,7 +273,23 @@
       "url": "https://open.spotify.com/track/3TVUW7bJJWDOonkVCZxfLV"
     },
     {
-      "added_at": "2022-09-21 10:54:32",
+      "added_at": "2022-09-22 11:08:34",
+      "album": {
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 167303,
+      "name": "As It Was",
+      "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
+    },
+    {
+      "added_at": "2022-09-22 11:08:34",
       "album": {
         "name": "DAN\u00c7ARINA (feat. Nicky Jam, MC Pedrinho) [Remix]",
         "url": "https://open.spotify.com/album/47F5OvdnBKsti5MNRGJ2On"
@@ -353,23 +321,7 @@
       "url": "https://open.spotify.com/track/5QQKWOwPjG9vcDBTQ5Hv5Q"
     },
     {
-      "added_at": "2022-09-21 10:54:32",
-      "album": {
-        "name": "Harry's House",
-        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 167303,
-      "name": "As It Was",
-      "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
-    },
-    {
-      "added_at": "2022-09-21 10:54:32",
+      "added_at": "2022-09-22 11:08:34",
       "album": {
         "name": "Mauvais Ordre",
         "url": "https://open.spotify.com/album/6R8nBTTPwlP7iur0wV3oLq"
@@ -380,44 +332,12 @@
           "url": "https://open.spotify.com/artist/1Yfe3ONJlioHys7jwHdfVm"
         }
       ],
-      "duration_ms": 278746,
-      "name": "Crystal",
-      "url": "https://open.spotify.com/track/2Hkj54nCgTnGOqJ3DslNQJ"
+      "duration_ms": 262613,
+      "name": "Etna",
+      "url": "https://open.spotify.com/track/775qtHu1rNoq1N2aKFa4nD"
     },
     {
-      "added_at": "2022-09-21 10:54:32",
-      "album": {
-        "name": "Mauvais Ordre",
-        "url": "https://open.spotify.com/album/6R8nBTTPwlP7iur0wV3oLq"
-      },
-      "artists": [
-        {
-          "name": "Lomepal",
-          "url": "https://open.spotify.com/artist/1Yfe3ONJlioHys7jwHdfVm"
-        }
-      ],
-      "duration_ms": 156640,
-      "name": "Le miel et le vinaigre",
-      "url": "https://open.spotify.com/track/4gPVkvBL2TSyk4y4feOkot"
-    },
-    {
-      "added_at": "2022-09-21 10:54:32",
-      "album": {
-        "name": "MOTOMAMI +",
-        "url": "https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 156787,
-      "name": "DESPECH\u00c1",
-      "url": "https://open.spotify.com/track/53tfEupEzQRtVFOeZvk7xq"
-    },
-    {
-      "added_at": "2022-09-21 10:54:32",
+      "added_at": "2022-09-22 11:08:34",
       "album": {
         "name": "Extraterrestre",
         "url": "https://open.spotify.com/album/4DqWj7iB2Xa2DQYiWcT7ks"
@@ -433,23 +353,7 @@
       "url": "https://open.spotify.com/track/3fgEIHsl6ecyAK1rpAxBIY"
     },
     {
-      "added_at": "2022-09-21 10:54:32",
-      "album": {
-        "name": "Mauvais Ordre",
-        "url": "https://open.spotify.com/album/6R8nBTTPwlP7iur0wV3oLq"
-      },
-      "artists": [
-        {
-          "name": "Lomepal",
-          "url": "https://open.spotify.com/artist/1Yfe3ONJlioHys7jwHdfVm"
-        }
-      ],
-      "duration_ms": 212133,
-      "name": "Prends ce que tu veux chez moi",
-      "url": "https://open.spotify.com/track/4Gx40GXz92VgLvVTi9ns17"
-    },
-    {
-      "added_at": "2022-09-21 10:54:32",
+      "added_at": "2022-09-22 11:08:34",
       "album": {
         "name": "Chop (Nouvelle \u00c9cole)",
         "url": "https://open.spotify.com/album/2vAVFfoAjUMrDpXtcYhp5U"
@@ -465,7 +369,7 @@
       "url": "https://open.spotify.com/track/6KHsTu4Ht4XYiWcZOOdwbW"
     },
     {
-      "added_at": "2022-09-21 10:54:32",
+      "added_at": "2022-09-22 11:08:34",
       "album": {
         "name": "M\u00e9lo",
         "url": "https://open.spotify.com/album/3YjNC4de1PEvhuyZjMyxJU"
@@ -485,7 +389,39 @@
       "url": "https://open.spotify.com/track/6kwmp0U8M1tPvgPHqvbwsr"
     },
     {
-      "added_at": "2022-09-21 10:54:32",
+      "added_at": "2022-09-22 11:08:34",
+      "album": {
+        "name": "Mauvais Ordre",
+        "url": "https://open.spotify.com/album/6R8nBTTPwlP7iur0wV3oLq"
+      },
+      "artists": [
+        {
+          "name": "Lomepal",
+          "url": "https://open.spotify.com/artist/1Yfe3ONJlioHys7jwHdfVm"
+        }
+      ],
+      "duration_ms": 237146,
+      "name": "Maladie moderne",
+      "url": "https://open.spotify.com/track/7AoYApfKZO5jADcj7AmWg2"
+    },
+    {
+      "added_at": "2022-09-22 11:08:34",
+      "album": {
+        "name": "MOTOMAMI +",
+        "url": "https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 156787,
+      "name": "DESPECH\u00c1",
+      "url": "https://open.spotify.com/track/53tfEupEzQRtVFOeZvk7xq"
+    },
+    {
+      "added_at": "2022-09-22 11:08:34",
       "album": {
         "name": "KMT",
         "url": "https://open.spotify.com/album/5rS3VIo8faf2gtaNvAIavb"
@@ -505,23 +441,7 @@
       "url": "https://open.spotify.com/track/0i9RysNKssk6syOrKDX3U2"
     },
     {
-      "added_at": "2022-09-21 10:54:32",
-      "album": {
-        "name": "Rave & Roses",
-        "url": "https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 219668,
-      "name": "Calm Down",
-      "url": "https://open.spotify.com/track/3BnDvpeuGOj21Ir2aVEtQo"
-    },
-    {
-      "added_at": "2022-09-21 10:54:32",
+      "added_at": "2022-09-22 11:08:34",
       "album": {
         "name": "Mauvais Ordre",
         "url": "https://open.spotify.com/album/6R8nBTTPwlP7iur0wV3oLq"
@@ -532,12 +452,12 @@
           "url": "https://open.spotify.com/artist/1Yfe3ONJlioHys7jwHdfVm"
         }
       ],
-      "duration_ms": 293480,
-      "name": "Pour de faux",
-      "url": "https://open.spotify.com/track/6ySYehW8e6YRC6Cyw453SV"
+      "duration_ms": 239146,
+      "name": "50\u00b0",
+      "url": "https://open.spotify.com/track/2yl8lePeFcQAPJKef8AM93"
     },
     {
-      "added_at": "2022-09-21 10:54:32",
+      "added_at": "2022-09-22 11:08:34",
       "album": {
         "name": "Ips\u00e9it\u00e9",
         "url": "https://open.spotify.com/album/7ovdjtmV0Bkm4Xb4pqtrZt"
@@ -553,7 +473,23 @@
       "url": "https://open.spotify.com/track/6YWjskKykdPsBuiTBOg1VK"
     },
     {
-      "added_at": "2022-09-21 10:54:32",
+      "added_at": "2022-09-22 11:08:34",
+      "album": {
+        "name": "Rave & Roses",
+        "url": "https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 219668,
+      "name": "Calm Down",
+      "url": "https://open.spotify.com/track/3BnDvpeuGOj21Ir2aVEtQo"
+    },
+    {
+      "added_at": "2022-09-22 11:08:34",
       "album": {
         "name": "Mauvais Ordre",
         "url": "https://open.spotify.com/album/6R8nBTTPwlP7iur0wV3oLq"
@@ -564,12 +500,44 @@
           "url": "https://open.spotify.com/artist/1Yfe3ONJlioHys7jwHdfVm"
         }
       ],
-      "duration_ms": 251920,
-      "name": "Auburn",
-      "url": "https://open.spotify.com/track/4m3X0hcI4dZdZ802yxpm35"
+      "duration_ms": 278746,
+      "name": "Crystal",
+      "url": "https://open.spotify.com/track/2Hkj54nCgTnGOqJ3DslNQJ"
     },
     {
-      "added_at": "2022-09-21 10:54:32",
+      "added_at": "2022-09-22 11:08:34",
+      "album": {
+        "name": "Mauvais Ordre",
+        "url": "https://open.spotify.com/album/6R8nBTTPwlP7iur0wV3oLq"
+      },
+      "artists": [
+        {
+          "name": "Lomepal",
+          "url": "https://open.spotify.com/artist/1Yfe3ONJlioHys7jwHdfVm"
+        }
+      ],
+      "duration_ms": 212133,
+      "name": "Prends ce que tu veux chez moi",
+      "url": "https://open.spotify.com/track/4Gx40GXz92VgLvVTi9ns17"
+    },
+    {
+      "added_at": "2022-09-22 11:08:34",
+      "album": {
+        "name": "Mauvais Ordre",
+        "url": "https://open.spotify.com/album/6R8nBTTPwlP7iur0wV3oLq"
+      },
+      "artists": [
+        {
+          "name": "Lomepal",
+          "url": "https://open.spotify.com/artist/1Yfe3ONJlioHys7jwHdfVm"
+        }
+      ],
+      "duration_ms": 156640,
+      "name": "Le miel et le vinaigre",
+      "url": "https://open.spotify.com/track/4gPVkvBL2TSyk4y4feOkot"
+    },
+    {
+      "added_at": "2022-09-22 11:08:34",
       "album": {
         "name": "KMT",
         "url": "https://open.spotify.com/album/5rS3VIo8faf2gtaNvAIavb"
@@ -585,23 +553,7 @@
       "url": "https://open.spotify.com/track/2wXS2IXCyBX0WL76LLYT31"
     },
     {
-      "added_at": "2022-09-21 10:54:32",
-      "album": {
-        "name": "KU LO SA - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi"
-      },
-      "artists": [
-        {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
-        }
-      ],
-      "duration_ms": 147580,
-      "name": "KU LO SA - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn"
-    },
-    {
-      "added_at": "2022-09-21 10:54:32",
+      "added_at": "2022-09-22 11:08:34",
       "album": {
         "name": "Don't You Worry",
         "url": "https://open.spotify.com/album/0mEexWITKhScRM40eqDEFi"
@@ -625,7 +577,39 @@
       "url": "https://open.spotify.com/track/4UyVCLbNG8yhrqbzeSmdho"
     },
     {
-      "added_at": "2022-09-21 10:54:32",
+      "added_at": "2022-09-22 11:08:34",
+      "album": {
+        "name": "KU LO SA - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi"
+      },
+      "artists": [
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        }
+      ],
+      "duration_ms": 147580,
+      "name": "KU LO SA - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn"
+    },
+    {
+      "added_at": "2022-09-22 11:08:34",
+      "album": {
+        "name": "Mauvais Ordre",
+        "url": "https://open.spotify.com/album/6R8nBTTPwlP7iur0wV3oLq"
+      },
+      "artists": [
+        {
+          "name": "Lomepal",
+          "url": "https://open.spotify.com/artist/1Yfe3ONJlioHys7jwHdfVm"
+        }
+      ],
+      "duration_ms": 293480,
+      "name": "Pour de faux",
+      "url": "https://open.spotify.com/track/6ySYehW8e6YRC6Cyw453SV"
+    },
+    {
+      "added_at": "2022-09-22 11:08:34",
       "album": {
         "name": "La TN (Team Naps)",
         "url": "https://open.spotify.com/album/7MNbcWeCe5gCt3PdMXFXeI"
@@ -645,23 +629,7 @@
       "url": "https://open.spotify.com/track/5QowMIujytktMDC8pktNXH"
     },
     {
-      "added_at": "2022-09-21 10:54:32",
-      "album": {
-        "name": "Jefe",
-        "url": "https://open.spotify.com/album/0RBanMMBVaRdM7SOwgAmaK"
-      },
-      "artists": [
-        {
-          "name": "Ninho",
-          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
-        }
-      ],
-      "duration_ms": 177705,
-      "name": "Jefe",
-      "url": "https://open.spotify.com/track/6HTJgY7iWWlVLSDHsfHePf"
-    },
-    {
-      "added_at": "2022-09-21 10:54:32",
+      "added_at": "2022-09-22 11:08:34",
       "album": {
         "name": "Un jour, je",
         "url": "https://open.spotify.com/album/6behht7b5iDD8CRpTWMWrI"
@@ -677,7 +645,23 @@
       "url": "https://open.spotify.com/track/5EWPzyWm0b9McPS5Qyaijp"
     },
     {
-      "added_at": "2022-09-21 10:54:32",
+      "added_at": "2022-09-22 11:08:34",
+      "album": {
+        "name": "Jefe",
+        "url": "https://open.spotify.com/album/0RBanMMBVaRdM7SOwgAmaK"
+      },
+      "artists": [
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        }
+      ],
+      "duration_ms": 177705,
+      "name": "Jefe",
+      "url": "https://open.spotify.com/track/6HTJgY7iWWlVLSDHsfHePf"
+    },
+    {
+      "added_at": "2022-09-22 11:08:34",
       "album": {
         "name": "L\u2019Amour",
         "url": "https://open.spotify.com/album/447oYDEOpoTAmbgDKIhkZ6"
@@ -697,7 +681,39 @@
       "url": "https://open.spotify.com/track/2toEys3zZ8rRB242Na7FZh"
     },
     {
-      "added_at": "2022-09-21 10:54:32",
+      "added_at": "2022-09-22 11:08:34",
+      "album": {
+        "name": "Mauvais Ordre",
+        "url": "https://open.spotify.com/album/6R8nBTTPwlP7iur0wV3oLq"
+      },
+      "artists": [
+        {
+          "name": "Lomepal",
+          "url": "https://open.spotify.com/artist/1Yfe3ONJlioHys7jwHdfVm"
+        }
+      ],
+      "duration_ms": 251920,
+      "name": "Auburn",
+      "url": "https://open.spotify.com/track/4m3X0hcI4dZdZ802yxpm35"
+    },
+    {
+      "added_at": "2022-09-22 11:08:34",
+      "album": {
+        "name": "Pays des merveilles",
+        "url": "https://open.spotify.com/album/7B1NFmx9uu3VbOvGBAiUCe"
+      },
+      "artists": [
+        {
+          "name": "Yanns",
+          "url": "https://open.spotify.com/artist/3mirzmIKVfvqcW0M5OKAzR"
+        }
+      ],
+      "duration_ms": 163977,
+      "name": "Clic clic pan pan",
+      "url": "https://open.spotify.com/track/6aZPMuJetqwKQCPClCNgd3"
+    },
+    {
+      "added_at": "2022-09-22 11:08:34",
       "album": {
         "name": "Allez dehors",
         "url": "https://open.spotify.com/album/6Us6AtFqQORq9wUpHdvbnf"
@@ -717,7 +733,7 @@
       "url": "https://open.spotify.com/track/2YGtFjsTpSrsGb2rQy4ARj"
     },
     {
-      "added_at": "2022-09-21 10:54:32",
+      "added_at": "2022-09-22 11:08:34",
       "album": {
         "name": "Ar\u00e8s",
         "url": "https://open.spotify.com/album/3YqLNAFhUEpmmWWrTP015P"
@@ -737,59 +753,7 @@
       "url": "https://open.spotify.com/track/7eb7JIRN6HKpedFSDGd4yI"
     },
     {
-      "added_at": "2022-09-21 10:54:32",
-      "album": {
-        "name": "Familia",
-        "url": "https://open.spotify.com/album/4urxMitPAkjyey14LeuWSX"
-      },
-      "artists": [
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-        },
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 206070,
-      "name": "Bam Bam (feat. Ed Sheeran)",
-      "url": "https://open.spotify.com/track/2DB4DdfCFMw1iaR6JaR03a"
-    },
-    {
-      "added_at": "2022-09-21 10:54:32",
-      "album": {
-        "name": "Mercury - Acts 1 & 2",
-        "url": "https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 165264,
-      "name": "Bones",
-      "url": "https://open.spotify.com/track/54ipXppHLA8U4yqpOFTUhr"
-    },
-    {
-      "added_at": "2022-09-21 10:54:32",
-      "album": {
-        "name": "Pays des merveilles",
-        "url": "https://open.spotify.com/album/7B1NFmx9uu3VbOvGBAiUCe"
-      },
-      "artists": [
-        {
-          "name": "Yanns",
-          "url": "https://open.spotify.com/artist/3mirzmIKVfvqcW0M5OKAzR"
-        }
-      ],
-      "duration_ms": 163977,
-      "name": "Clic clic pan pan",
-      "url": "https://open.spotify.com/track/6aZPMuJetqwKQCPClCNgd3"
-    },
-    {
-      "added_at": "2022-09-21 10:54:32",
+      "added_at": "2022-09-22 11:08:34",
       "album": {
         "name": "Sans visa",
         "url": "https://open.spotify.com/album/5rncxkieoEvPDzA7VdNGQx"
@@ -805,23 +769,7 @@
       "url": "https://open.spotify.com/track/6Qe7YCkIOc1iaw9HKqO3qV"
     },
     {
-      "added_at": "2022-09-21 10:54:32",
-      "album": {
-        "name": "Love, Damini",
-        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 172342,
-      "name": "Last Last",
-      "url": "https://open.spotify.com/track/5YbPxJwPfrj7uswNwoF1pJ"
-    },
-    {
-      "added_at": "2022-09-21 10:54:32",
+      "added_at": "2022-09-22 11:08:34",
       "album": {
         "name": "MOLLY - A COLORS SHOW",
         "url": "https://open.spotify.com/album/6ZIJvsgdRVinkp5FaVbgRz"
@@ -837,23 +785,23 @@
       "url": "https://open.spotify.com/track/6KNw3UKRp3QRsO7Cf4ASVE"
     },
     {
-      "added_at": "2022-09-21 10:54:32",
+      "added_at": "2022-09-22 11:08:34",
       "album": {
-        "name": "Mauvais Ordre",
-        "url": "https://open.spotify.com/album/6R8nBTTPwlP7iur0wV3oLq"
+        "name": "Mercury - Acts 1 & 2",
+        "url": "https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS"
       },
       "artists": [
         {
-          "name": "Lomepal",
-          "url": "https://open.spotify.com/artist/1Yfe3ONJlioHys7jwHdfVm"
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
         }
       ],
-      "duration_ms": 132160,
-      "name": "Skit il",
-      "url": "https://open.spotify.com/track/6iPAzooWzFPQHLBBCNFrV3"
+      "duration_ms": 165264,
+      "name": "Bones",
+      "url": "https://open.spotify.com/track/54ipXppHLA8U4yqpOFTUhr"
     },
     {
-      "added_at": "2022-09-21 10:54:32",
+      "added_at": "2022-09-22 11:08:34",
       "album": {
         "name": "M\u00e9lo",
         "url": "https://open.spotify.com/album/3YjNC4de1PEvhuyZjMyxJU"
@@ -877,7 +825,43 @@
       "url": "https://open.spotify.com/track/5b8HD1dJDuPawgS5FjSC2q"
     },
     {
-      "added_at": "2022-09-21 10:54:32",
+      "added_at": "2022-09-22 11:08:34",
+      "album": {
+        "name": "Familia",
+        "url": "https://open.spotify.com/album/4urxMitPAkjyey14LeuWSX"
+      },
+      "artists": [
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 206070,
+      "name": "Bam Bam (feat. Ed Sheeran)",
+      "url": "https://open.spotify.com/track/2DB4DdfCFMw1iaR6JaR03a"
+    },
+    {
+      "added_at": "2022-09-22 11:08:34",
+      "album": {
+        "name": "Indigo (Extended)",
+        "url": "https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 184613,
+      "name": "Under The Influence",
+      "url": "https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb"
+    },
+    {
+      "added_at": "2022-09-22 11:08:34",
       "album": {
         "name": "Jefe",
         "url": "https://open.spotify.com/album/0RBanMMBVaRdM7SOwgAmaK"
@@ -891,6 +875,22 @@
       "duration_ms": 187027,
       "name": "VVS",
       "url": "https://open.spotify.com/track/5S12Ds2RswM2ITC0u1J01f"
+    },
+    {
+      "added_at": "2022-09-22 11:08:34",
+      "album": {
+        "name": "Love, Damini",
+        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 172342,
+      "name": "Last Last",
+      "url": "https://open.spotify.com/track/5YbPxJwPfrj7uswNwoF1pJ"
     }
   ],
   "unique_name": "Top 50 - France",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Koe Wetzel
 
-[Spotify](https://open.spotify.com/user/spotify) - 384,994 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 385,111 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 | 21 | [Die Runnin'](https://open.spotify.com/track/7oWzVNBs8OUqXzfp8Psbxg) | [Mike Ryan](https://open.spotify.com/artist/026v3mvWdRvVdjL67VBySh) | [Die Runnin'](https://open.spotify.com/album/6cB7PMBtBbBERIL8Aru4S5) | 3:11 |
 | 22 | [Tears the Size of Texas](https://open.spotify.com/track/3dty7RRoFfyFTylgKAAy2V) | [Ben Burgess](https://open.spotify.com/artist/7pnTkKShdYS8BnmTHhcEaa) | [Tears the Size of Texas](https://open.spotify.com/album/79l3KSw4fOnOvixKQB1yPI) | 3:58 |
 | 23 | [Happier Alone \(feat\. Koe Wetzel\)](https://open.spotify.com/track/4VyZr1v1MNeZbl6eV8ZJGh) | [Austin Meade](https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79), [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Happier Alone \(feat\. Koe Wetzel\)](https://open.spotify.com/album/3FMpvDKoq0GAMYKn72pqlC) | 3:44 |
-| 24 | [Love Talking](https://open.spotify.com/track/5kFLWyiAXjYrecLHnR7bTk) | [Eli Young Band](https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv) | [Love Talking](https://open.spotify.com/album/0bflVbQQISnuMdv5KjVPHB) | 2:53 |
+| 24 | [Gettin' By](https://open.spotify.com/track/2cpwCl4uQlyub8HOqkh5sl) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Welcome To Countryland](https://open.spotify.com/album/7mbvRPQce4Lg8NpQkpOzxX) | 3:06 |
 | 25 | [Highway Boys](https://open.spotify.com/track/77OK2W45f7DEYgUEQs00PY) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Highway Boys](https://open.spotify.com/album/7jo54HwllkSXM0EVvEUurZ) | 3:40 |
-| 26 | [Gettin' By](https://open.spotify.com/track/2cpwCl4uQlyub8HOqkh5sl) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Welcome To Countryland](https://open.spotify.com/album/7mbvRPQce4Lg8NpQkpOzxX) | 3:06 |
+| 26 | [Love Talking](https://open.spotify.com/track/5kFLWyiAXjYrecLHnR7bTk) | [Eli Young Band](https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv) | [Love Talking](https://open.spotify.com/album/0bflVbQQISnuMdv5KjVPHB) | 2:53 |
 | 27 | [Burn It Down \- 717 Tapes](https://open.spotify.com/track/5NqaRQWSVg9mnnmdCZJ17s) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [717 Tapes, Vol\. 2](https://open.spotify.com/album/1AWzOlaYVoo3IazAiSD5t6) | 2:49 |
 | 28 | [All I See Is You](https://open.spotify.com/track/46fHLVEQBcyC8VjnmdDF3q) | [Shane Smith & the Saints](https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ) | [Geronimo](https://open.spotify.com/album/7B2oMtnyw4d5aZOSq2eUhz) | 4:17 |
 | 29 | [Different Now](https://open.spotify.com/track/50F1kaXRx8Ns8PvZDj3ZLR) | [Cody Hibbard](https://open.spotify.com/artist/71DKcYMBfZtxrOB7w6pKq5) | [Different Now](https://open.spotify.com/album/7uMjBi7VLbpjEQOgNcTSI7) | 3:09 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 | 50 | [Girls Like Me](https://open.spotify.com/track/7sHT4a3rSs8IXdo7RZjzC6) | [Alyssa Micaela](https://open.spotify.com/artist/7k7mCkZfVpQUXTgSowcpej) | [Girls Like Me](https://open.spotify.com/album/2LFWLNbRoaoOkvj98gudSv) | 2:51 |
 | 51 | [The Highway Kind](https://open.spotify.com/track/1DBoVgENKo0xEOAsQS3TK3) | [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb) | [The Highway Kind](https://open.spotify.com/album/3iN9tmhAGOfIPbKEklyujQ) | 3:59 |
 | 52 | [Rest Of My Life](https://open.spotify.com/track/2fhgFd9pEvTUhyBacCrPOn) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Rest Of My Life](https://open.spotify.com/album/3fOdo5NTgvDRnGtw70Eekp) | 2:54 |
-| 53 | [Hummingbird](https://open.spotify.com/track/1mLZIGyDYLUtQ3HYhyYnJy) | [Shane Smith & the Saints](https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ) | [Hummingbird](https://open.spotify.com/album/13P3sBbbxn9kVJp5vR3v60) | 4:45 |
-| 54 | [But Me](https://open.spotify.com/track/4Y6NQuXwIQNbRJccgE9ul2) | [Slade Coulter](https://open.spotify.com/artist/0Qht1bMfMyq85aI74COUvn) | [But Me](https://open.spotify.com/album/3EMvVIcOA7woHlWrlxQoF1) | 3:55 |
+| 53 | [But Me](https://open.spotify.com/track/4Y6NQuXwIQNbRJccgE9ul2) | [Slade Coulter](https://open.spotify.com/artist/0Qht1bMfMyq85aI74COUvn) | [But Me](https://open.spotify.com/album/3EMvVIcOA7woHlWrlxQoF1) | 3:55 |
+| 54 | [Hummingbird](https://open.spotify.com/track/1mLZIGyDYLUtQ3HYhyYnJy) | [Shane Smith & the Saints](https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ) | [Hummingbird](https://open.spotify.com/album/13P3sBbbxn9kVJp5vR3v60) | 4:45 |
 | 55 | [She Goes Home \(Dirty Breakup Song\)](https://open.spotify.com/track/1zSP3prCgF50ZAiDX7rfDy) | [Grant Gilbert](https://open.spotify.com/artist/22JGfpxVueSHqP2SIi1919) | [She Goes Home \(Dirty Breakup Song\)](https://open.spotify.com/album/3Fd2MJsqGbqAY9lGoHajU6) | 3:19 |
 | 56 | [Anderson County](https://open.spotify.com/track/75VAQ0SRTBKzqzAZuIepN8) | [Chad Cooke Band](https://open.spotify.com/artist/7BFmW9uJ3wCZmZxpr03u0H) | [Anderson County](https://open.spotify.com/album/7qT9Yz0XXRIQBvSHAYz8FI) | 3:07 |
 | 57 | [Fooled Around](https://open.spotify.com/track/5BIOWZoUF45eU07lNuPXz6) | [Presley Drake](https://open.spotify.com/artist/0IQG9LULw1mZehtAXtF9ld) | [Fooled Around](https://open.spotify.com/album/1CDfkllTerM9sZEAs0Gd0Q) | 3:12 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 | 63 | [Varsity Type](https://open.spotify.com/track/6ib18tpFXAP1kVlzWMmJzD) | [Austin Meade](https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79) | [Varsity Type](https://open.spotify.com/album/3QMqwEyKKpfc60T6P46ImP) | 3:22 |
 | 64 | [Telling on My Heart](https://open.spotify.com/track/6g7qBmMtsGFxzeEkT0YiJ7) | [Casey Donahew](https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib) | [Built Different](https://open.spotify.com/album/5GfNph4mi2Ira5Sm7jrwqZ) | 3:37 |
 | 65 | [If I Lived Here](https://open.spotify.com/track/2jc2BVAr4FPqYowcXoDTlD) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [The Last Resort: Greetings From](https://open.spotify.com/album/6qURbeUcbhHdGXDAUzZcag) | 3:49 |
-| 66 | [Happy Hour](https://open.spotify.com/track/1NrpMKByuTCn9Bck5mdqOm) | [Hayes Carll](https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV) | [Happy Hour](https://open.spotify.com/album/5CZAEHWXrGtkUDQjsLyjM2) | 3:11 |
-| 67 | [Stay Tuned](https://open.spotify.com/track/2dOtM9EeM3bhQvzOWEQPwP) | [Treaty Oak Revival](https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV) | [Stay Tuned](https://open.spotify.com/album/6o4nLp0Ra5dW31bxWk91s6) | 3:20 |
+| 66 | [Stay Tuned](https://open.spotify.com/track/2dOtM9EeM3bhQvzOWEQPwP) | [Treaty Oak Revival](https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV) | [Stay Tuned](https://open.spotify.com/album/6o4nLp0Ra5dW31bxWk91s6) | 3:20 |
+| 67 | [Happy Hour](https://open.spotify.com/track/1NrpMKByuTCn9Bck5mdqOm) | [Hayes Carll](https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV) | [Happy Hour](https://open.spotify.com/album/5CZAEHWXrGtkUDQjsLyjM2) | 3:11 |
 | 68 | [I Just Want You](https://open.spotify.com/track/2RAuxKLHNvjn9fBRJVTGqi) | [Chad Cooke Band](https://open.spotify.com/artist/7BFmW9uJ3wCZmZxpr03u0H) | [I Just Want You](https://open.spotify.com/album/7cdDtUoGbIgVDEkFaS3rA6) | 3:44 |
 | 69 | [Built Different](https://open.spotify.com/track/0zEAZTsPl7VXJJ6vx2iAkZ) | [Casey Donahew](https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib) | [Built Different](https://open.spotify.com/album/4ShfeQkF2wvKB17ZrMnKTn) | 3:00 |
 | 70 | [Once in a Blue Moon](https://open.spotify.com/track/0T57qwTgUjH26XH3mmHWNq) | [Triston Marez](https://open.spotify.com/artist/34J7mIMU9nyg5px9m3ur88), [Jenna Paulette](https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX) | [Once in a Blue Moon](https://open.spotify.com/album/7il1OFIKfeTBSiYBFlH1Mk) | 3:07 |
@@ -94,9 +94,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 | 84 | [Nothing But Love Songs](https://open.spotify.com/track/7jJ32IueHuaOZmvp4npqCU) | [Randy Rogers Band](https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3) | [Nothing But Love Songs](https://open.spotify.com/album/56G2DJ71govyBPz6qWHEPK) | 3:45 |
 | 85 | [John Wayne](https://open.spotify.com/track/32HzrX0rfhNdd9uJdeLO7u) | [Rachel LaRen](https://open.spotify.com/artist/52mZQzoHHS6rWygkzKuZFv) | [John Wayne](https://open.spotify.com/album/5s32nBJPKJ8jr4c8I4dj0M) | 3:08 |
 | 86 | [Pleasure in the Pain \(Acoustic\)](https://open.spotify.com/track/0SnkVKNi88G8lKlXala0Nu) | [Dylan Wheeler](https://open.spotify.com/artist/0wt7kveV9BteRyhkkWGj87) | [Pleasure in the Pain \(Acoustic\)](https://open.spotify.com/album/0g34MxtPrMRcK6uVtNAQ99) | 3:58 |
-| 87 | [Heartbreak](https://open.spotify.com/track/09314p0WJhfG0mXqlg6hTC) | [Ben Burgess](https://open.spotify.com/artist/7pnTkKShdYS8BnmTHhcEaa) | [Heartbreak](https://open.spotify.com/album/1YNRiSLFpupJgMqZxRyxQx) | 3:08 |
+| 87 | [Western Tears](https://open.spotify.com/track/5in7jYPcrDH7vXB0C9vffq) | [Jarrod Morris](https://open.spotify.com/artist/2Y08Tu239xOkg25bPkth9R) | [Western Tears](https://open.spotify.com/album/1hzYDPwjgMn6hVrCiUNGiK) | 4:08 |
 | 88 | [What's Your Drinkin' Song](https://open.spotify.com/track/3oxNPAlVwXNOCHEEvntITl) | [Kyle Park](https://open.spotify.com/artist/5uZZpd0gd1c36OcQBGxgGC) | [What's Your Drinkin' Song](https://open.spotify.com/album/2FKfzCrl5q6vskYTUHqY9Q) | 3:45 |
-| 89 | [Western Tears](https://open.spotify.com/track/5in7jYPcrDH7vXB0C9vffq) | [Jarrod Morris](https://open.spotify.com/artist/2Y08Tu239xOkg25bPkth9R) | [Western Tears](https://open.spotify.com/album/1hzYDPwjgMn6hVrCiUNGiK) | 4:08 |
+| 89 | [Heartbreak](https://open.spotify.com/track/09314p0WJhfG0mXqlg6hTC) | [Ben Burgess](https://open.spotify.com/artist/7pnTkKShdYS8BnmTHhcEaa) | [Heartbreak](https://open.spotify.com/album/1YNRiSLFpupJgMqZxRyxQx) | 3:08 |
 | 90 | [It Wasn’t Love](https://open.spotify.com/track/5B3loG5N0IdvkrEWQlVwCh) | [Larissa Boyd](https://open.spotify.com/artist/76BLe6Ojs4hwzg9xOkOagD) | [It Wasn’t Love](https://open.spotify.com/album/4xpeLcxmn097Fo2YknqVv1) | 4:05 |
 | 91 | [Wishin' on an Airplane](https://open.spotify.com/track/1PPFRpaI3WhDnRi3BSLsEy) | [Clayton Mullen](https://open.spotify.com/artist/6iRDBNeREg0Je2y9LZzD2g) | [Wishin' on an Airplane](https://open.spotify.com/album/0pAckWyY7LqtlCg61kylwf) | 3:30 |
 | 92 | [Anymore](https://open.spotify.com/track/5DzqR9xwyVEwbhRVXes5sZ) | [William Clark Green](https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ) | [Baker Hotel](https://open.spotify.com/album/7oj9A1igjcHCBnq6SyfB75) | 4:36 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 | 99 | [Dancing Around The Truth](https://open.spotify.com/track/3q41hamYDHE4lcRptEfUrz) | [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3) | [Unwanted Man](https://open.spotify.com/album/4o5I0LPIKI0LqNGfV88pCw) | 4:14 |
 | 100 | [With You](https://open.spotify.com/track/48QruqVpJwCpgKOmQtjewC) | [Tanner Usrey](https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7) | [SÕL Sessions](https://open.spotify.com/album/1e2EDJwPez79eKupUecgD6) | 4:26 |
 
-Snapshot ID: `MTY2MzMwMDgwMCwwMDAwMDAwMGRkYWMyZTcwMmM2NTk5MTVjYmVhYjAyNDJkOWExNTk0`
+Snapshot ID: `MTY2MzMwMDgwMCwwMDAwMDAwMGFlYThiMWQzNjFjOTA1YTY3YjUyMTFhZTE1MzU5OGFi`

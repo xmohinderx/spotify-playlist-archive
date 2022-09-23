@@ -1,12 +1,12 @@
 {
   "description": "The best jazz pianists today. Cover: Julius Rodriguez",
-  "num_followers": 13215,
+  "num_followers": 13248,
   "original_name": "Jazz Piano Today",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjA5MTMyMCwwMDAwMDAwMGNlYjQ0ZmRmMzM3Nzk5ZDc0ZDk1ZjVmOTJkMzJiMTVi",
+  "snapshot_id": "MTY2MjA5MTMyMCwwMDAwMDAwMGQ1NWI0Mjg4NzEyOGQyY2MxMDgzM2Y5Y2VmZmU4Y2Ew",
   "tracks": [
     {
       "added_at": "2022-02-10 23:00:00",
@@ -491,30 +491,6 @@
     {
       "added_at": "2022-02-10 23:00:00",
       "album": {
-        "name": "Our Songs",
-        "url": "https://open.spotify.com/album/6cbxatO4U8vB68x9IZW2XF"
-      },
-      "artists": [
-        {
-          "name": "Alex Riel",
-          "url": "https://open.spotify.com/artist/0kPEyoVCAET0GwNPmjmpyH"
-        },
-        {
-          "name": "Bo Stief",
-          "url": "https://open.spotify.com/artist/6btUX9F5YeOm9ChA2v5yDg"
-        },
-        {
-          "name": "Carsten Dahl",
-          "url": "https://open.spotify.com/artist/4CSBqdnCyXayFaZR10Pvda"
-        }
-      ],
-      "duration_ms": 224607,
-      "name": "My Song",
-      "url": "https://open.spotify.com/track/0lSLRJcWni4XX5UbCLJPy1"
-    },
-    {
-      "added_at": "2022-02-10 23:00:00",
-      "album": {
         "name": "Some Gospel According to Matthew",
         "url": "https://open.spotify.com/album/2un2RVOffrrTVLidr8NrUO"
       },
@@ -535,6 +511,30 @@
       "duration_ms": 323426,
       "name": "Some Gospel According to Matthew - Live",
       "url": "https://open.spotify.com/track/0mrE0qZaNsnTULsDF8Npp7"
+    },
+    {
+      "added_at": "2022-02-10 23:00:00",
+      "album": {
+        "name": "Our Songs",
+        "url": "https://open.spotify.com/album/6cbxatO4U8vB68x9IZW2XF"
+      },
+      "artists": [
+        {
+          "name": "Alex Riel",
+          "url": "https://open.spotify.com/artist/0kPEyoVCAET0GwNPmjmpyH"
+        },
+        {
+          "name": "Bo Stief",
+          "url": "https://open.spotify.com/artist/6btUX9F5YeOm9ChA2v5yDg"
+        },
+        {
+          "name": "Carsten Dahl",
+          "url": "https://open.spotify.com/artist/4CSBqdnCyXayFaZR10Pvda"
+        }
+      ],
+      "duration_ms": 224607,
+      "name": "My Song",
+      "url": "https://open.spotify.com/track/0lSLRJcWni4XX5UbCLJPy1"
     },
     {
       "added_at": "2022-04-08 04:01:00",

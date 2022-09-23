@@ -4,7 +4,7 @@
 
 > plaid shirt days and nights
 
-75 songs - 4 hr 35 min - [published](https://open.spotify.com/playlist/23fB26dU2vYzc523vA12TM)
+77 songs - 4 hr 41 min - [published](https://open.spotify.com/playlist/23fB26dU2vYzc523vA12TM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Autumn Leaves \- Deluxe Edition](https://open.spotify.com/track/7iBSkXB0pTvZasOLf0Qxk9) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [+](https://open.spotify.com/album/02pi98kE0nra0yBqCStzbC) | 3:20 | 2022-09-16 |  |
 | [Before You Go](https://open.spotify.com/track/6XSbSBzCrJv0C99guObcy6) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Before You Go EP](https://open.spotify.com/album/1AGHTcqnvCoksoL6UGAxFa) | 3:35 | 2022-09-16 |  |
 | [Best Days](https://open.spotify.com/track/3z1DnGBH2uhlDekJr0YVzQ) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [In The Meantime](https://open.spotify.com/album/5reEg9or7xqpXy6XLVIoTE) | 3:31 | 2022-09-16 |  |
+| [Birthday Girl](https://open.spotify.com/track/3v0QLMlaEcFN0G0gb6fGJ3) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Girl Of My Dreams](https://open.spotify.com/album/38aH4OObJSjtO48q2eNoA4) | 3:17 | 2022-09-22 |  |
 | [Buzz](https://open.spotify.com/track/2HJfsvk8GKk6qCGLG8cMCA) | [Maddie Medley](https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3) | [Coming Of Age pt\. 1](https://open.spotify.com/album/2QXM0eteTUsJ42k6T9fEEy) | 4:21 | 2022-09-16 |  |
 | [Call Me A Dreamer](https://open.spotify.com/track/5PMp84lVFm0SWEWOx1aQsw) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [Call Me A Dreamer](https://open.spotify.com/album/3zKpAuwGhuBpavexvu6ySj) | 3:48 | 2022-09-16 |  |
 | [cardigan](https://open.spotify.com/track/4R2kfaDFhslZEMJqAFNpdd) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 3:59 | 2022-09-16 |  |
@@ -31,7 +32,7 @@
 | [Dear August](https://open.spotify.com/track/16gW9O8A4rIMx5OOVlzsSn) | [PJ Harding](https://open.spotify.com/artist/1RryIbDjpwt00AKkSpCGvP), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Dear August](https://open.spotify.com/album/6gaOMLivdMhiFaTuPqTmgj) | 3:20 | 2022-09-16 |  |
 | [Different Kind of World](https://open.spotify.com/track/2cWMbr0aGddDlXbTEzSAxn) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Surrender](https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI) | 2:45 | 2022-09-16 |  |
 | [dorothea](https://open.spotify.com/track/3w9VRlKPvNxj40RdUGRweH) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [evermore](https://open.spotify.com/album/5jmVg7rwRcgd6ARPAeYNSm) | 3:45 | 2022-09-16 |  |
-| [Dreamer](https://open.spotify.com/track/5MS9UnAqC3ObXUN6dIV1rr) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Songs of Sonder](https://open.spotify.com/album/3meoZUwEJiy7nyrDsv2HHJ) | 3:01 | 2022-09-16 |  |
+| [Dreamer](https://open.spotify.com/track/5MS9UnAqC3ObXUN6dIV1rr) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Songs of Sonder](https://open.spotify.com/album/3meoZUwEJiy7nyrDsv2HHJ) | 3:01 | 2022-09-16 | 2022-09-23 |
 | [drivers license](https://open.spotify.com/track/5wANPM4fQCJwkGd4rN57mH) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 4:02 | 2022-09-16 |  |
 | [Ever Since New York](https://open.spotify.com/track/5LABCxgmP7DATATIJXOh6n) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry Styles](https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV) | 4:13 | 2022-09-16 |  |
 | [everyone at this party](https://open.spotify.com/track/43klOCoUcqtkNWCqQQvh9W) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Familia](https://open.spotify.com/album/5Nn3fX7CuJo7tbibtqASmf) | 2:48 | 2022-09-16 |  |
@@ -41,6 +42,7 @@
 | [favorite crime](https://open.spotify.com/track/5JCoSi02qi3jJeHdZXMmR8) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:32 | 2022-09-16 |  |
 | [Feels Like](https://open.spotify.com/track/35IcAVSMsU9qzHfpPbvC8A) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [This Is What It Feels Like](https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at) | 2:32 | 2022-09-16 |  |
 | [Flicker](https://open.spotify.com/track/5BpmwiKR6ns1EtfCQRpNUc) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Flicker \(Deluxe\)](https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p) | 4:18 | 2022-09-16 |  |
+| [Fool's Gold \- Recorded At RAK Studios, London](https://open.spotify.com/track/3AY6H68WNMDzWw9JhPW4Jv) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Spotify Singles](https://open.spotify.com/album/5Zi0SV2aU0OjmV9k2K1NVi) | 3:24 | 2022-09-22 |  |
 | [From the Dining Table](https://open.spotify.com/track/1IF5UcqRO42D12vYwceOY6) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry Styles](https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV) | 3:31 | 2022-09-16 |  |
 | [Good Looking](https://open.spotify.com/track/3L3G4XFQqtFe9a3azMacZ5) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Good Looking](https://open.spotify.com/album/5dfLsxzcFhYFoihyaNZA3E) | 3:34 | 2022-09-16 |  |
 | [hate to be lame \(feat\. FINNEAS\)](https://open.spotify.com/track/33DWkHTEF8LmdxI1OPc50a) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [five seconds flat](https://open.spotify.com/album/7vh3nkUP7HlDQIeSm7Ht6N) | 2:36 | 2022-09-16 |  |

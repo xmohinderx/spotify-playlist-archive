@@ -2,9 +2,9 @@
 
 ### [Rap en Español](https://open.spotify.com/playlist/37i9dQZF1DX40O80BIPklU)
 
-> De Tijuana a Tierra del Fuego, aquí los que dominan el juego\. Foto: Nanpa Básico
+> De Tijuana a Tierra del Fuego, aquí los que dominan el juego\. Foto: WOS
 
-118 songs - 6 hr 45 min - [published](https://open.spotify.com/playlist/1FI4Y6oYusBHTp00FAfqcv)
+119 songs - 6 hr 47 min - [published](https://open.spotify.com/playlist/1FI4Y6oYusBHTp00FAfqcv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Pensando en Ti](https://open.spotify.com/track/7MfrwUdFybdVfNHd1wcH63) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Pensando en Ti](https://open.spotify.com/album/328KPPOFjIYTfLsH8iyIAh) | 3:21 | 2022-09-09 |  |
 | [Phiesta](https://open.spotify.com/track/0Mm0wQVuoZQRPFDo4hgFW7) | [Chystemc](https://open.spotify.com/artist/12wTrvRwxmsbUxkLffkPfv), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Macrodee](https://open.spotify.com/artist/1LFSjjDBhaukmZa69zJvgM) | [Phiesta](https://open.spotify.com/album/1N8qdQjaioKfCtIwkXcrds) | 3:19 | 2022-03-13 | 2022-07-30 |
 | [Problemático](https://open.spotify.com/track/3D3ek5Ts78bkWEopL6zIjv) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Problemático](https://open.spotify.com/album/490OSKw7jSVNmS31iOXXQc) | 4:22 | 2022-01-13 | 2022-02-25 |
+| [PUAJ \(sesión\)](https://open.spotify.com/track/6fTxvdEyWl3zZg2XTWO4s8) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [PUAJ \(sesión\)](https://open.spotify.com/album/2NU5SWfJFO8IN7cvecZlww) | 2:36 | 2022-09-22 |  |
 | [Quién No Llora](https://open.spotify.com/track/1YxgIliOknSsGt2LsbfNOV) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Quién No Llora](https://open.spotify.com/album/62eH2gWy4aImRgTQQVAgmy) | 3:56 | 2021-12-30 |  |
 | [Quiúboles Que](https://open.spotify.com/track/4SEFSM1H18Q8uLXsi7zcIj) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Quiúboles Que!](https://open.spotify.com/album/7fEd90zyiFjIr9UElw41iK) | 3:41 | 2021-12-30 | 2022-01-27 |
 | [Real \(Freestyle\)](https://open.spotify.com/track/2mUlvUlYYj5lyN21pdLQRG) | [Ecko](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF) | [Real \(Freestyle\)](https://open.spotify.com/album/0MnDifOrRyGobTPpzBAzPm) | 1:45 | 2021-12-30 |  |
@@ -111,7 +112,7 @@
 | [Te Marqué Pedo](https://open.spotify.com/track/4hAYQuavbB0FYhyxBTbVal) | [Alex Luna](https://open.spotify.com/artist/0lxgtTr0rNyTf3j6smPBp2), [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C) | [Te Marqué Pedo](https://open.spotify.com/album/5RY8g4VHQsgPDxewtnPIEX) | 3:36 | 2022-06-24 |  |
 | [Te Va a Gustar](https://open.spotify.com/track/0HMmzc6sW3DRrxlt5e4EmE) | [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Te Va a Gustar](https://open.spotify.com/album/1ODdv8sr9uVhLsDZnVAA6b) | 2:48 | 2021-12-30 | 2022-04-19 |
 | [THE ROOKIE](https://open.spotify.com/track/3Q2iwtxmzLEIQm0mrSXr5N) | [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl) | [THE ROOKIE](https://open.spotify.com/album/5ffp7jVauYWxTDvfBSvhpq) | 2:50 | 2021-12-30 | 2022-08-17 |
-| [This is Not America \(feat\. Ibeyi\)](https://open.spotify.com/track/7d8LusdMBU3yWUSWBpETjG) | [Residente](https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS), [Ibeyi](https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa) | [This is Not America \(feat\. Ibeyi\)](https://open.spotify.com/album/5J11N6p7TBOMPE5bg9mbax) | 3:51 | 2022-03-21 |  |
+| [This is Not America \(feat\. Ibeyi\)](https://open.spotify.com/track/7d8LusdMBU3yWUSWBpETjG) | [Residente](https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS), [Ibeyi](https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa) | [This is Not America \(feat\. Ibeyi\)](https://open.spotify.com/album/5J11N6p7TBOMPE5bg9mbax) | 3:51 | 2022-03-21 | 2022-09-23 |
 | [TIERRA ZANTA](https://open.spotify.com/track/73zQG7t3tZDyePEflVSqJJ) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Victor Heredia](https://open.spotify.com/artist/07S2B15CcvWG4jyfMhqx8X) | [BIEN O MAL](https://open.spotify.com/album/1HeNYlqvbUDkP97DJ33Kjl) | 3:57 | 2022-05-13 |  |
 | [TIROTEO \#2: Leyenda como Kobe](https://open.spotify.com/track/6LPVPZOlqNOPzE95g0QbGM) | [John C](https://open.spotify.com/artist/66lf5bQo2BIEue1pxfgxQS) | [TIROTEO \#2: Leyenda como Kobe](https://open.spotify.com/album/4JReHBiLBiHl2JWJ7kiX9L) | 2:53 | 2021-12-30 | 2022-09-10 |
 | [Tocame](https://open.spotify.com/track/4dWY6RpM9zmYvwqxrNvwtV) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Fuera de Órbita](https://open.spotify.com/album/51yJSY6U0Bl7rrQDekZvjF) | 3:53 | 2022-02-09 |  |

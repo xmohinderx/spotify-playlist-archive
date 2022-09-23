@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSSKiqqNKSC.md) - [plain]
 
 > ¡Lo mejor de la Salsa Cubana! Cover: Celia Cruz
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,731 likes - 48 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,832 likes - 48 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSSKiqqNKSC.md) - [plain]
 | 5 | [Pa' Bravo Yo](https://open.spotify.com/track/5kzoRHOhLIGVQGsxi8fWpy) | [Justo Betancourt](https://open.spotify.com/artist/1Mq5Rgvn4D37tQdwuFL689) | [Pa' Bravo Yo](https://open.spotify.com/album/0Ggehw0oAdAUNoipqO2Sqh) | 3:44 |
 | 6 | [El Cuarto de Tula](https://open.spotify.com/track/7dRfobhDNnsEgB2ZArxA1f) | [Buena Vista Social Club](https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW) | [Buena Vista Social Club](https://open.spotify.com/album/6DPdEaZ0KDBCCgXyy4q8bi) | 7:24 |
 | 7 | [Me Quedo Contigo](https://open.spotify.com/track/7vxc1a4aks0RqIbNhBYjlg) | [Leoni Torres](https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS) | [Amor Bonito](https://open.spotify.com/album/03qKkg0zLrtuOkRJD6MfNI) | 3:23 |
-| 8 | [Mala Mujer](https://open.spotify.com/track/3dGFlXjz6eRgtJoVuPo1nx) | [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [Coleccion de Oro](https://open.spotify.com/album/4hB9LGTtBc6H29pjkTagzo) | 3:52 |
-| 9 | [Mi Historia Entre Tus Dedos](https://open.spotify.com/track/5RYSQDIq0ZPGc03ZnUut57) | [Los 4](https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK) | [Privilegio 2](https://open.spotify.com/album/1f4Sx32mc13J54vS8n1dIl) | 5:07 |
+| 8 | [Mi Historia Entre Tus Dedos](https://open.spotify.com/track/5RYSQDIq0ZPGc03ZnUut57) | [Los 4](https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK) | [Privilegio 2](https://open.spotify.com/album/1f4Sx32mc13J54vS8n1dIl) | 5:07 |
+| 9 | [Mala Mujer](https://open.spotify.com/track/3dGFlXjz6eRgtJoVuPo1nx) | [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [Coleccion de Oro](https://open.spotify.com/album/4hB9LGTtBc6H29pjkTagzo) | 3:52 |
 | 10 | [No Me Acostumbro](https://open.spotify.com/track/4SjBGbtJz77ximBiOZcIn6) | [Rey Ruiz](https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ) | [Oro Salsero](https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE) | 4:49 |
 | 11 | [Candela](https://open.spotify.com/track/1eHGsCdAWh1Ffowzacpfoi) | [Buena Vista Social Club](https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW) | [Buena Vista Social Club](https://open.spotify.com/album/6DPdEaZ0KDBCCgXyy4q8bi) | 5:27 |
 | 12 | [La Negra Tiene Tumbao](https://open.spotify.com/track/2uzCfFYh6tSNFdz14ZIf3N) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [La Negra Tiene Tumbao](https://open.spotify.com/album/1206SPHFIi9EoXIEiqtHr9) | 4:13 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSSKiqqNKSC.md) - [plain]
 | 47 | [Arrebátate](https://open.spotify.com/track/4EtFaIAE21AfCd4dLDxcCi) | [Los 4](https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK) | [Así Somos](https://open.spotify.com/album/1BrlB5l1v2yQLsGa2CrnRF) | 3:46 |
 | 48 | [Yo Vengo de Cuba \(feat\. Havana D' Primera\)](https://open.spotify.com/track/2Tq5qXd9wmX2dxE69EV8od) | [FredyClan](https://open.spotify.com/artist/1rsRdI8sk9RqrfdPzLqmWE), [Havana D’Primera](https://open.spotify.com/artist/05qiwKzU1RgkyqkEH1ZFlA) | [Yo Vengo de Cuba \(feat\. Havana D' Primera\)](https://open.spotify.com/album/2rvfJUNyzz6JrSdqgHZGi6) | 4:48 |
 
-Snapshot ID: `MTU5ODM3NDY2NiwwMDAwMDAwMGQxMWY0MDA1YTVlODljYWViYWRjYTRkYWI1Y2M4YzRm`
+Snapshot ID: `MTU5ODM3NDY2NiwwMDAwMDAwMGNmMzExN2NlMzQzYTQ3Mzg0YjE5MDhhMzZjZjFiYjBj`

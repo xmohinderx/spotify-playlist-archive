@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjGYBfEmjR5.md) - [plain]
 
 > Don't worry, we're back in the funk of it besties ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,311 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,539 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

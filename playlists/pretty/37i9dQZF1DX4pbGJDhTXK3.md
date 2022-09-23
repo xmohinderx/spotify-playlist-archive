@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pbGJDhTXK3.md) - [plain]
 
 > A celebration of Norway's dance scene!
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,986 likes - 50 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,014 likes - 50 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pbGJDhTXK3.md) - [plain]
 | 17 | [This Time, This Place…](https://open.spotify.com/track/4JGxZc0tsSVQx2gw7rOQSz) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Beki Mari](https://open.spotify.com/artist/4z9AKehWvtxINEbu8aQGO6) | [This Time, This Place…](https://open.spotify.com/album/0C8AjuFDeY8LVpEMH3DR25) | 7:44 |
 | 18 | [Moon Jocks n Prog Rocks](https://open.spotify.com/track/190sUkgX3sm1co7Qkd7SBX) | [Mungolian Jetset](https://open.spotify.com/artist/3we4aZ9sQc0tp8UOyOEtpt) | [Moon Jocks n Prog Rocks](https://open.spotify.com/album/1mAPYemEY9Bb5K3L0T0nT6) | 13:33 |
 | 19 | [Staying In](https://open.spotify.com/track/6gQIMENC4azncXDUOzD1YE) | [Diskjokke](https://open.spotify.com/artist/77jljjDLgcihmTS2WW7Uxo) | [Staying In](https://open.spotify.com/album/0SSgR5G630l1HxQkCMoWhP) | 3:54 |
-| 20 | [Games \- Prins Thomas Diskomiks](https://open.spotify.com/track/0I8g1dYLJXqJujeyyIY3fG) | [Gundelach](https://open.spotify.com/artist/2TUtwEDqoXZOapCTgMrcvj), [ARY](https://open.spotify.com/artist/4FLA7MpTdP5nNUQfiaA3WM), [Prins Thomas](https://open.spotify.com/artist/4rsEVNO1tGTY0beCnsnHi6) | [Games \(Prins Thomas Diskomiks\)](https://open.spotify.com/album/3emSYEw7cGHEHlZtgK3EyZ) | 8:13 |
-| 21 | [how long is..\. cold pizza good for](https://open.spotify.com/track/4xDLHt2Ss3pYDoLCK2uUPB) | [Orions Belte](https://open.spotify.com/artist/3Kzo2BzQIPQW0397gx9rRp) | [Villa Amorini](https://open.spotify.com/album/5PdhR2YW9IubgKjU9N28RG) | 5:59 |
+| 20 | [how long is..\. cold pizza good for](https://open.spotify.com/track/4xDLHt2Ss3pYDoLCK2uUPB) | [Orions Belte](https://open.spotify.com/artist/3Kzo2BzQIPQW0397gx9rRp) | [Villa Amorini](https://open.spotify.com/album/5PdhR2YW9IubgKjU9N28RG) | 5:59 |
+| 21 | [Games \- Prins Thomas Diskomiks](https://open.spotify.com/track/0I8g1dYLJXqJujeyyIY3fG) | [Gundelach](https://open.spotify.com/artist/2TUtwEDqoXZOapCTgMrcvj), [ARY](https://open.spotify.com/artist/4FLA7MpTdP5nNUQfiaA3WM), [Prins Thomas](https://open.spotify.com/artist/4rsEVNO1tGTY0beCnsnHi6) | [Games \(Prins Thomas Diskomiks\)](https://open.spotify.com/album/3emSYEw7cGHEHlZtgK3EyZ) | 8:13 |
 | 22 | [Transit \- Radio Edit](https://open.spotify.com/track/6xX3DLq6CqH54lcNRzCGnu) | [Third Attempt](https://open.spotify.com/artist/1tsNLehJWv67iMipy0WwQR) | [Transit](https://open.spotify.com/album/2xGTUrOe1vH974ZuWfGp54) | 2:30 |
 | 23 | [Hard Trafikk](https://open.spotify.com/track/5jJuwmQ8Jdfx08F9hAx5tg) | [Bjørn Torske](https://open.spotify.com/artist/4mD9kXHOs76Ld1m2Vfyi68) | [Trøbbel](https://open.spotify.com/album/1Es585IxIHauFNjCaRoRyU) | 4:42 |
 | 24 | [Tyrkisk Pepper \- Dolle Jolle Remix](https://open.spotify.com/track/38KKAivesNw1zoh8eshIZX) | [Blackbelt Andersen](https://open.spotify.com/artist/67qty1jpSV57pPDYDTDUgL), [Dølle Jølle](https://open.spotify.com/artist/1UbgLp0E5zKU0BAhpPp59B) | [Tyrkisk Pepper](https://open.spotify.com/album/2KUdBmCPOBpD2YweRXPAMt) | 8:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pbGJDhTXK3.md) - [plain]
 | 49 | [Perseverance](https://open.spotify.com/track/1S2N8e03dQC5Hs8OC141PE) | [Niilas](https://open.spotify.com/artist/1qAHgylFxv2gU6bXAQEM2P) | [Perseverance](https://open.spotify.com/album/3mppadjAyaa5NGmMRDSQIS) | 2:46 |
 | 50 | [Bommelom](https://open.spotify.com/track/1Xi4PSk3kXmv5iXort9Jaa) | [Bjørn Torske](https://open.spotify.com/artist/4mD9kXHOs76Ld1m2Vfyi68) | [Ramma EP](https://open.spotify.com/album/4UiQU657e5Uirz7XD6sTMG) | 7:06 |
 
-Snapshot ID: `MTY2MjA2OTYwMCwwMDAwMDAwMDFjNTQyNzE0NWI2Zjc1YjlkNDU4MWQwMzQyYTk5OGFk`
+Snapshot ID: `MTY2MjA2OTYwMCwwMDAwMDAwMDhiNDJiZTIyMjNhZGJkMTlkMTViMTQzMjc0YzVjMTk2`

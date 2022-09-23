@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dlPXwFl0rQ.md) - [plain]
 
 > Estas son las indomables del Regional Mexicano\. Cheli Madrid en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,302 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,338 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: The 1975
 
-1,348 songs - 2 day 22 hr 51 min - [published](https://open.spotify.com/playlist/2nCGCENCYFC3EyufXsiFQ9)
+1,349 songs - 2 day 22 hr 54 min - [published](https://open.spotify.com/playlist/2nCGCENCYFC3EyufXsiFQ9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -361,6 +361,7 @@
 | [drinking games](https://open.spotify.com/track/1uE4onkFvDXyBjIGsu9PZ5) | [Sophie Cates](https://open.spotify.com/artist/4xjJOu0MWVWuaDVZOy0Dx2) | [yikes!](https://open.spotify.com/album/6Tu5CCCBJvyF0x6BQuzj0G) | 3:20 | 2021-06-04 | 2022-05-21 |
 | [Drive Slow](https://open.spotify.com/track/13795WBWdWvQHCXeOPLCWQ) | [Calica](https://open.spotify.com/artist/1gi49JL4LNUMlylXm5Z0ZG) | [Drive Slow](https://open.spotify.com/album/16hoKJlZ0Y3kt7zJ5eIP7R) | 2:57 | 2021-06-05 | 2022-07-29 |
 | [Drive\-in Movie](https://open.spotify.com/track/2lK2RkDLxEbfrap6wu9U4w) | [Abby Bella May](https://open.spotify.com/artist/7wMih0kHtN3mLG2I93WXH8) | [Drive\-in Movie](https://open.spotify.com/album/2F2GkSJfMdbwe0xvKsEs7s) | 3:17 | 2020-10-13\* | 2020-11-20 |
+| [Drown](https://open.spotify.com/track/0vpy9NZpTbjCH0HNnAhCTt) | [Weston Estate](https://open.spotify.com/artist/18CPEToK1OfjJ5B5vDBDKa) | [Drown](https://open.spotify.com/album/6r3o0wlGhFaM4bT92PFaFB) | 3:01 | 2022-09-16 |  |
 | [Drugs in California](https://open.spotify.com/track/2pFsmLD22nDUkAejzukYuW) | [Transviolet](https://open.spotify.com/artist/7ixzNQXQ64I2ayrtyhlF7i) | [Drugs in California](https://open.spotify.com/album/4r6ZfkuDW4kXhiQuY0tS5g) | 3:25 | 2021-03-09 | 2021-05-25 |
 | [Dude In A Romantic Way](https://open.spotify.com/track/61V900hMxvHdpGdarlFbve) | [Callaway Martin](https://open.spotify.com/artist/32Om1pF9kloxRMFv1gUifZ) | [Dude In A Romantic Way](https://open.spotify.com/album/33qhi8y8l1LN1Ift6Ihc0V) | 3:01 | 2022-03-29 | 2022-04-20 |
 | [DUI](https://open.spotify.com/track/585BK4XWLggY2wCeO6dG1U) | [Caroline Kole](https://open.spotify.com/artist/3kmXbS3akWikVvZNGpYEvu) | [DUI](https://open.spotify.com/album/0s9urnWu1OkCcYEDpV03ig) | 2:58 | 2021-03-01 | 2021-05-26 |
@@ -667,7 +668,7 @@
 | [Just a Waste](https://open.spotify.com/track/6WCgeGzEYlkluHeqQqmnl6) | [summervibes](https://open.spotify.com/artist/1JPqepX6kQ0rU9Btzsbb1C) | [Just a Waste](https://open.spotify.com/album/4v2u9tXp3irRw0UB9VUYZK) | 2:07 | 2021-10-06 | 2021-10-13 |
 | [Just Like Me](https://open.spotify.com/track/5CMgV1SsMDRFyeM10Al6NL) | [Ben Kessler](https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo) | [Just Like Me](https://open.spotify.com/album/0EeEkFwvT9QbI5y5CeUMq6) | 2:50 | 2022-08-26 | 2022-09-09 |
 | [Just Move](https://open.spotify.com/track/0zfrIxHvYUAp8wAIQlAKj0) | [Pixey](https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI) | [Just Move](https://open.spotify.com/album/30wUyky9CMZydC8QrX3RFH) | 3:06 | 2020-10-13\* | 2020-11-17 |
-| [kaleidoscope](https://open.spotify.com/track/5bD7bhOa64aE8a0vifa5J6) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [kaleidoscope](https://open.spotify.com/album/5AVdHQYItgjzDu5qRVmONy) | 3:05 | 2022-08-05 |  |
+| [kaleidoscope](https://open.spotify.com/track/5bD7bhOa64aE8a0vifa5J6) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [kaleidoscope](https://open.spotify.com/album/5AVdHQYItgjzDu5qRVmONy) | 3:05 | 2022-08-05 | 2022-09-23 |
 | [Karaoke](https://open.spotify.com/track/3RJ8bIJrnekapqvS3JxDkq) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Karaoke](https://open.spotify.com/album/5JJYDmVfIhfdTp3HRaiKTy) | 3:17 | 2022-06-17 | 2022-07-29 |
 | [KEEP IT UP](https://open.spotify.com/track/0ioTTk5l0Zz7Oh48qEocgj) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [KEEP IT UP](https://open.spotify.com/album/36IWMZ2DOpKbLb0IrzWc4U) | 3:03 | 2022-01-28 |  |
 | [Keep On Dancing](https://open.spotify.com/track/5clIpJtJdJbV1WMioS5CXS) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [Home Tapes](https://open.spotify.com/album/2w2gRZhzkG0oAO54M8Pcat) | 3:15 | 2020-10-20 | 2021-06-03 |

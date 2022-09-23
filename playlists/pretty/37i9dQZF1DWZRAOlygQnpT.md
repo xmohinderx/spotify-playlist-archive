@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRAOlygQnpT.md) - [plain]
 
 > ¡Ahi viene la plaga..\. por eso, aviéntense todos a bailar!
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,762 likes - 100 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,824 likes - 100 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRAOlygQnpT.md) - [plain]
 | 14 | [Fue en un Cafe](https://open.spotify.com/track/1hZnDaUq0F8VLn800aAbJK) | [Los Apson](https://open.spotify.com/artist/63MoX25vZtzCSTvRFkAsnW) | [Amores Incomparables, Vol\. 3](https://open.spotify.com/album/0wl64awQOtkdtCQuZDcY4n) | 3:11 |
 | 15 | [Popotitos](https://open.spotify.com/track/3kwvhErFvlurnAsxJ5iIaK) | [Los Teen Tops](https://open.spotify.com/artist/14GfQ6EEHnp1lTAWHgtcYy) | [La Plaga](https://open.spotify.com/album/5XGOSEvpopRia9Qoil4OId) | 3:03 |
 | 16 | [Cosas](https://open.spotify.com/track/0HyMclCYwn2zd92zxHAP2E) | [Oscar Madrigal](https://open.spotify.com/artist/1TWdQKKan4cnjG1YTdHW6t) | [Emociones Sin Límite Volumen 1](https://open.spotify.com/album/3PDBK5dKDsYY42NOIh8STL) | 2:22 |
-| 17 | [Siluetas](https://open.spotify.com/track/0nwY36t2kFMEFc01z5HXRw) | [Johnny Laboriel](https://open.spotify.com/artist/3LuvtpIFyGIY9RKuFaRiCs), [Los Rebeldes Del Rock](https://open.spotify.com/artist/5ahSHu8Ulm48wkQalpmjb5) | [Homenaje a Johnny Laboriel Con los Rebeldes del Rock](https://open.spotify.com/album/2kkj1WhzTOwgJP3KrOnVZR) | 2:58 |
+| 17 | [Melodía de Amor](https://open.spotify.com/track/0PeWOm50vIoOCwp9MljmDk) | [Johnny Laboriel](https://open.spotify.com/artist/3LuvtpIFyGIY9RKuFaRiCs), [Johnny Laboriel / Los Rebeldes Del Rock](https://open.spotify.com/artist/1wzLx9DF6VtTfEo4sTotl9) | [Historia Musical de Mis Exitos](https://open.spotify.com/album/6ojYnTtDA5HT5eBxDuPuaP) | 2:26 |
 | 18 | [Dame Felicidad](https://open.spotify.com/track/2isDsHmWRiOnCTldVND0BO) | [Enrique Guzman](https://open.spotify.com/artist/4FeDV8T2wgjzYKBamSp7MG) | [Idolos del Rock de los 60's: Enrique Guzman](https://open.spotify.com/album/2XuRoPnWFPk5r085lSLP5v) | 2:22 |
 | 19 | [Dieciséis Toneladas](https://open.spotify.com/track/57F2bFv1ACvOcxwRfPlMM1) | [Alberto Vazquez](https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc) | [16 Éxitos: Baladas](https://open.spotify.com/album/16koZGZZYztvCEShPLndCv) | 3:00 |
 | 20 | [Nomas Contigo](https://open.spotify.com/track/0iBQqqoq2Qa8EeM4NgNBP0) | [Mario Quintero](https://open.spotify.com/artist/1em8XoX89lrjj8DLdiPswM) | [Mi Pueblo](https://open.spotify.com/album/3X6vNPToCXfZcdLVIGaJk2) | 2:57 |
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRAOlygQnpT.md) - [plain]
 | 22 | [Nos Pertenecemos](https://open.spotify.com/track/2mvAbsRCWBxQdU82eB4t5e) | [Los Rogers](https://open.spotify.com/artist/2m7zyOAASO7A8ipy4XkDcC) | [15 Exitos del Rock & Roll](https://open.spotify.com/album/2dPVpmxzzFtycLo8C8U1Uh) | 1:50 |
 | 23 | [Tus Ojos](https://open.spotify.com/track/2pBbjdRMtCnFFUpOug5vtj) | [Los Locos Del Ritmo](https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO) | [Rock Con los Locos del Ritmo](https://open.spotify.com/album/3NJEqRTgTBmum7F7tqgWKH) | 3:13 |
 | 24 | [Anoche Me Enamoré](https://open.spotify.com/track/7zHQkpC5hy5VSPZwdz17ND) | [Los Apson](https://open.spotify.com/artist/63MoX25vZtzCSTvRFkAsnW) | [Loco \- Vintage Rock en Español](https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO) | 2:22 |
-| 25 | [Melodía de Amor](https://open.spotify.com/track/0PeWOm50vIoOCwp9MljmDk) | [Johnny Laboriel](https://open.spotify.com/artist/3LuvtpIFyGIY9RKuFaRiCs), [Johnny Laboriel / Los Rebeldes Del Rock](https://open.spotify.com/artist/1wzLx9DF6VtTfEo4sTotl9) | [Historia Musical de Mis Exitos](https://open.spotify.com/album/6ojYnTtDA5HT5eBxDuPuaP) | 2:26 |
+| 25 | [Siluetas](https://open.spotify.com/track/0nwY36t2kFMEFc01z5HXRw) | [Johnny Laboriel](https://open.spotify.com/artist/3LuvtpIFyGIY9RKuFaRiCs), [Los Rebeldes Del Rock](https://open.spotify.com/artist/5ahSHu8Ulm48wkQalpmjb5) | [Homenaje a Johnny Laboriel Con los Rebeldes del Rock](https://open.spotify.com/album/2kkj1WhzTOwgJP3KrOnVZR) | 2:58 |
 | 26 | [Confidente de Secundaria \- School Confidential \(Tema Remasterizado\)](https://open.spotify.com/track/5NwnhR2Am7p9kdUJcj9I2m) | [Los Teen Tops](https://open.spotify.com/artist/14GfQ6EEHnp1lTAWHgtcYy) | [Serie De Colección 16 Autenticos Exitos](https://open.spotify.com/album/6DB6Osx9qCOSB0wPNbSE2A) | 2:18 |
 | 27 | [Ángel de Mi Vida \- Angel of the Morning](https://open.spotify.com/track/3yETnVVPXdCOs9k8cNChPA) | [Enrique Guzman](https://open.spotify.com/artist/4FeDV8T2wgjzYKBamSp7MG) | [15 Exitos De Enrique Guzman Vol\. ll](https://open.spotify.com/album/5Y0jl26HDiRVf7G4uBJV8y) | 2:46 |
 | 28 | [Tu Significas Todo Para Mi](https://open.spotify.com/track/0ZXw2HZ4hFw8AM7mp2xfRF) | [Alberto Vazquez](https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc) | [Ballads del Rock](https://open.spotify.com/album/1o7i3eHMR0vxTLqGk81uUh) | 4:12 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRAOlygQnpT.md) - [plain]
 | 99 | [El Esqueleto](https://open.spotify.com/track/1vSBPw23dARiJyon6Ttoj7) | [Los Jockers](https://open.spotify.com/artist/1tHxyQ3P1Oo7T7YFKfRaKK) | [Rock, Puro Rock](https://open.spotify.com/album/2uZRx3gfHsgndRHm8Ks7RE) | 2:45 |
 | 100 | [Lagrimas de Cristal](https://open.spotify.com/track/239DMvPN5JBfsPW2Xm5KZS) | [Los Hermanos Carrion](https://open.spotify.com/artist/6s99lPSFFrlxBfk14DUNyz) | [Hermanos Carrión, Vol 1](https://open.spotify.com/album/7yyuDFKQipWrq5IR7AudTx) | 2:27 |
 
-Snapshot ID: `MTY1MTY3OTUyMiwwMDAwMDAwMDczODYzZmRiNGY4NmNhNjZiNmE5YmViOGVjODdlNGZj`
+Snapshot ID: `MTY1MTY3OTUyMiwwMDAwMDAwMDI2MTIwNmI0MDE4ZDg0NTYxMTVmOTYyZThlYTI5MjNl`

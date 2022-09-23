@@ -4,7 +4,7 @@
 
 > Get your spirits up and manage your mood any time of the day
 
-56 songs - 3 hr 13 min - [published](https://open.spotify.com/playlist/1o7EepyilIUDZHnRGHzKt5)
+57 songs - 3 hr 16 min - [published](https://open.spotify.com/playlist/1o7EepyilIUDZHnRGHzKt5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Omutima](https://open.spotify.com/track/4uDqe7prnIPYPU2wq1VsVW) | [Lydia Jazmine](https://open.spotify.com/artist/3iIWxRdX4e7W4ZD2urn7WM) | [Omutima](https://open.spotify.com/album/61wC1nlhsMQeNVSCDEZDhY) | 2:43 | 2022-06-06 |  |
 | [One Life](https://open.spotify.com/track/4YYf1EHe0xR4xss7owlpzj) | [Melissa Mulungi](https://open.spotify.com/artist/77ZzFS6WajdNwqHdOMScJl), [Benji Kasule](https://open.spotify.com/artist/3m5KYldm0k5caRrKT1nfem) | [One Life](https://open.spotify.com/album/49tKHYj8bb3pmUoo2PbnoD) | 3:52 | 2022-06-06 |  |
 | [One Thing](https://open.spotify.com/track/0GIFfCmvv0eO8dHnOG241U) | [Lukas Blacc](https://open.spotify.com/artist/5tXsoJIgKCCzvGawhVNCel), [Likkle Bangi](https://open.spotify.com/artist/0ziAEtI2DsCBTbBChD6pK8), [Lagum the Rapper](https://open.spotify.com/artist/1QhXoko9LsFCRt54shf124) | [BoBV](https://open.spotify.com/album/4q4mssAJ2NaWCENz8vIRj7) | 4:11 | 2022-06-06 |  |
+| [Part2 \(Dinner in Maui\)](https://open.spotify.com/track/6DuJn4hkMAzb4Iiamim1Te) | [Hermez](https://open.spotify.com/artist/168iTeZjIZlN7Sc8ieZJl6), [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b) | [Part2 \(Dinner in Maui\)](https://open.spotify.com/album/2RjYPIml5GBer8oZvUV1OO) | 3:13 | 2022-09-22 |  |
 | [Pick Up](https://open.spotify.com/track/1QpDkktxmLnzZZ2VcBjJkY) | [Kyvo Bouy](https://open.spotify.com/artist/3DEny7mL5yyeEDPYXdO3ky), [Andy Muzic](https://open.spotify.com/artist/5tc8NGhMC3EWbThUi33XXn), [Jozzi Firebouy](https://open.spotify.com/artist/3H4d85m6pJn0VfXvCl3vC3) | [Pick Up](https://open.spotify.com/album/593JM1cjCgPaAIx8fIOFwu) | 2:36 | 2022-06-06 |  |
 | [Pity Party](https://open.spotify.com/track/01j67FBrhCFWC2kYJWGmdA) | [Kamanzii](https://open.spotify.com/artist/5Qzz9wRaEZdcWmSvCEn5Hb) | [Pity Party](https://open.spotify.com/album/3vLiY1nSz8oe12nrSzkW4y) | 3:24 | 2022-06-06 |  |
 | [Serenade at Serena](https://open.spotify.com/track/3CeVhX1dTzx8IxQ9BVcqpa) | [The Mith](https://open.spotify.com/artist/1xGpeTWvpYbkDTpP5dXyNf), [Evon](https://open.spotify.com/artist/3aRikpwal24y5bhOYcVHnJ) | [The Ugandan](https://open.spotify.com/album/3oyokB16SXiEeZybhCS2V8) | 5:44 | 2022-06-06 | 2022-08-06 |

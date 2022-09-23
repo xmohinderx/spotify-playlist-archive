@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6C8II7sX76D.md) - [plain]
 
 > pov: u hand the internet the aux
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,554 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,739 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6C8II7sX76D.md) - [plain]
 | 45 | [Marea \(we’ve lost dancing\)](https://open.spotify.com/track/1t0Jmqg1pKVBbxjQFZebeR) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw) | [Marea \(we’ve lost dancing\)](https://open.spotify.com/album/3AAwKutHRWyftJ2GrFdPX9) | 4:45 |
 | 46 | [U Are My High](https://open.spotify.com/track/3S7A85bAWOd6ltk6r2ANOI) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [U Are My High](https://open.spotify.com/album/0LMzMzG385642dtYwsVLkq) | 3:00 |
 | 47 | [Break it off \- Bonus](https://open.spotify.com/track/78ul3D77noQsYjSwvwiPU1) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [to hell with it](https://open.spotify.com/album/65YAjLCn7Jp33nJpOxIPMe) | 1:36 |
-| 48 | [Where Have You Been](https://open.spotify.com/track/5WQQIDU3HRaMyPkob8mpFb) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Talk That Talk](https://open.spotify.com/album/2g1EakEaW7fPTZC6vBmBCn) | 4:02 |
-| 49 | [Latch](https://open.spotify.com/track/1DunhgeZSEgWiIYbHqXl0c) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Settle \(Deluxe\)](https://open.spotify.com/album/1lM5IfaqcIsXd6UCV3aDSs) | 4:15 |
-| 50 | [Down Under \(feat\. Colin Hay\)](https://open.spotify.com/track/7AVyve7cFYTd51ha5i9kE2) | [Luude](https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg), [Colin Hay](https://open.spotify.com/artist/5mxB08ktCukEhGMg2YZeEv) | [Down Under \(feat\. Colin Hay\)](https://open.spotify.com/album/64xmSwJJbFQMf63AFYZXpW) | 2:38 |
+| 48 | [I Really Want to Stay at Your House](https://open.spotify.com/track/7mykoq6R3BArsSpNDjFQTm) | [Rosa Walton](https://open.spotify.com/artist/1X0HaTcdkHW7LviblBiEeq), [Hallie Coggins](https://open.spotify.com/artist/5JNkPX6dYGLeEm4cUjHNGc) | [Cyberpunk 2077: Radio, Vol\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/1VGVJdmvOSRK2w9RKXk18A) | 4:06 |
+| 49 | [Where Have You Been](https://open.spotify.com/track/5WQQIDU3HRaMyPkob8mpFb) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Talk That Talk](https://open.spotify.com/album/2g1EakEaW7fPTZC6vBmBCn) | 4:02 |
+| 50 | [Latch](https://open.spotify.com/track/1DunhgeZSEgWiIYbHqXl0c) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Settle \(Deluxe\)](https://open.spotify.com/album/1lM5IfaqcIsXd6UCV3aDSs) | 4:15 |
 
-Snapshot ID: `MTY2MzI2NTkzMiwwMDAwMDAwMGM0MWU2NjExNmU4YjY1MjJmOWU4MTMyYWEwMGQyOWY4`
+Snapshot ID: `MTY2Mzg2NDUwMywwMDAwMDAwMGQxZGExNThhZWJkZmI5YTg1M2NmZjQ0YWM1YmM3Zjgy`

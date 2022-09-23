@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHdCJiQTW4YT.md) - [plain]
 | 69 | [i want you](https://open.spotify.com/track/3k8s9SgL9HJvUbKKKOdtwy) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [i want you](https://open.spotify.com/album/1GkdIe9m5cwcXx8ophbqqD) | 3:21 |
 | 70 | [\(it wouldn't be\) christmas without you](https://open.spotify.com/track/26mBm1kzLkzKDHw99SbZyb) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [\(it wouldn't be\) christmas without you](https://open.spotify.com/album/5EED01hPlds9HOTSrEE6so) | 3:25 |
 | 71 | [Muscle](https://open.spotify.com/track/1CVh1re4QmrSmZ47cDiwz3) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Night Call \(Deluxe\)](https://open.spotify.com/album/5JnUGpLYBxqEDuot5vlfSC) | 3:07 |
-| 72 | [Tough](https://open.spotify.com/track/6u0gZDuXDZYfN8QWwnqxMZ) | [Goldroom](https://open.spotify.com/artist/4eZebkMFU3xelF8mbZYXyl) | [West Of The West](https://open.spotify.com/album/1CNxJCixrOSJxMo5pz5ZaP) | 3:44 |
-| 73 | [Will It Find Me](https://open.spotify.com/track/0msLXGH72jfmy50Z5CAqPA) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Unlearning](https://open.spotify.com/album/6UgNw0NOw3Ixs0kAWl7RGr) | 3:29 |
+| 72 | [Will It Find Me](https://open.spotify.com/track/0msLXGH72jfmy50Z5CAqPA) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Unlearning](https://open.spotify.com/album/6UgNw0NOw3Ixs0kAWl7RGr) | 3:29 |
+| 73 | [Tough](https://open.spotify.com/track/6u0gZDuXDZYfN8QWwnqxMZ) | [Goldroom](https://open.spotify.com/artist/4eZebkMFU3xelF8mbZYXyl) | [West Of The West](https://open.spotify.com/album/1CNxJCixrOSJxMo5pz5ZaP) | 3:44 |
 | 74 | [Fabulous](https://open.spotify.com/track/1nLj9iiZr3Bb3e0zYiyDfm) | [Empire Cast](https://open.spotify.com/artist/7EjxNoVjXo7gL73F2EdXVA), [DMK](https://open.spotify.com/artist/6Jzb9QsxR4wkdtNxg108Aj) | [Empire: Original Soundtrack, Season 2 Volume 2 \(Deluxe\)](https://open.spotify.com/album/5F63FnyDVZcFljjvVRdPd8) | 2:53 |
 | 75 | [don't pick up the phone](https://open.spotify.com/track/5j610MhjMLhyT2pPNy9Zj9) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [these words are all for you](https://open.spotify.com/album/2N9lFXoevPmnTNr8KhK5PS) | 2:34 |
 | 76 | [good](https://open.spotify.com/track/6kuR6cGKmGoplhELslv6Fw) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [these words are all for you](https://open.spotify.com/album/2N9lFXoevPmnTNr8KhK5PS) | 3:28 |
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHdCJiQTW4YT.md) - [plain]
 | 113 | [Mean It](https://open.spotify.com/track/4XW0JyO4DKjyxAFJhNDbps) | [Dustin Domingo](https://open.spotify.com/artist/78bcX1rKaNUMVYutJ5Kq4L) | [Mean It](https://open.spotify.com/album/5dCqM12gg8X650WYNZcbuu) | 3:22 |
 | 114 | [Here Comes the Change](https://open.spotify.com/track/6mrrZi2rUwPhnVLWO7PtO5) | [JukeVox LibrAries](https://open.spotify.com/artist/3XCz6vtF1dsjFpVluDCFRm) | [Waiting For You](https://open.spotify.com/album/2dRmJE9oRpnCpy2eKk9q07) | 4:45 |
 
-Snapshot ID: `Mjc3MzAxNTgsMDAwMDAwMDBmZWI3ZmZhYjk3MGVmNWI2M2YzMmM1NmQyOGE4MTM5OA==`
+Snapshot ID: `Mjc3MzE1OTgsMDAwMDAwMDAxMjc2OThlNGQyMTQ4N2U4MmY5NDc1ZjNlNzNlZGM3MA==`

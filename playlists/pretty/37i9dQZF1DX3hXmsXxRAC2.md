@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3hXmsXxRAC2.md) - [plain]
 
 > Las voces que inmortalizaron las canciones del Divo de Juárez.
 
-[Spotify](https://open.spotify.com/user/spotify) - 304,170 likes - 100 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 304,196 likes - 100 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,13 +34,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3hXmsXxRAC2.md) - [plain]
 | 24 | [Así Fue](https://open.spotify.com/track/7xSLmRhD3zySGXlyO90LQn) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [La Voz de un Ángel](https://open.spotify.com/album/7C00pR2m5tkpqjRczIdbqw) | 4:40 |
 | 25 | [De Mi Enamórate](https://open.spotify.com/track/7LHfwnID8ytzF5KsGr02MJ) | [Daniela Romo](https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y) | [Celebridades\- Daniela Romo](https://open.spotify.com/album/13HtNoDUSIMopEbZl087rR) | 3:38 |
 | 26 | [Ya No Me Interesas](https://open.spotify.com/track/13P7xlcWQzFMvAGQZniMTS) | [Lucha Villa](https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1) | [Interpreta A Juan Gabriel](https://open.spotify.com/album/3CaLGUG2hGBGom57xsxA1O) | 3:02 |
-| 27 | [Siempre en Mi Mente](https://open.spotify.com/track/15MLfT6zSKytzwO7X6saIE) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit), [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [MTV Unplugged](https://open.spotify.com/album/0Oj8WUcWlQCS6CSJEAjaob) | 4:54 |
+| 27 | [Costumbres](https://open.spotify.com/track/0onqUSXlBN3jzAvbdJttvM) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Fue un Placer Conocerte: Gracias Juan Gabriel, Vol\. 1](https://open.spotify.com/album/53mW1mcrK5HCENdQKkwVtV) | 4:44 |
 | 28 | [Buenos Días Señor Sol](https://open.spotify.com/track/1KGat1UmiOwHtpqt2JxTnX) | [Vazquez Sounds](https://open.spotify.com/artist/7M5Z4j6N9k2Jd3CukFUv5e) | [Buenos Días Señor Sol](https://open.spotify.com/album/24HuJNzk4nHDvGhJ5nANUQ) | 2:45 |
 | 29 | [Mañana, Mañana \- Primera Fila \- Live Version](https://open.spotify.com/track/72SShJccmTCXDqPf6J8h38) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Cristian Castro En Primera Fila \- Día 1](https://open.spotify.com/album/79S9eRBE4zhXybavIRwAv0) | 3:59 |
 | 30 | [Fue un Placer Conocerte](https://open.spotify.com/track/6lDo6f5jT5b4lBRu8HAhQ9) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Las Rancheras De Juan Gabriel](https://open.spotify.com/album/7D3jvm4H4nCIY9Fq7ERRUU) | 3:00 |
 | 31 | [He Venido a Pedirte Perdón](https://open.spotify.com/track/7IjVM9hrpMF7Qrn15ZJYxN) | [Aterciopelados](https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW) | [Amor Eterno al Divo / Tributo de Rock](https://open.spotify.com/album/4PQjuDBIuLTMpfPrHnB77z) | 4:14 |
 | 32 | [No Discutamos](https://open.spotify.com/track/4oXBnMgYcvU87uKq30Reyq) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [Los Dúo 2](https://open.spotify.com/album/15SmxvmFr0a33i5c1f2T19) | 2:19 |
-| 33 | [Costumbres](https://open.spotify.com/track/0onqUSXlBN3jzAvbdJttvM) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Fue un Placer Conocerte: Gracias Juan Gabriel, Vol\. 1](https://open.spotify.com/album/53mW1mcrK5HCENdQKkwVtV) | 4:44 |
+| 33 | [Siempre en Mi Mente](https://open.spotify.com/track/15MLfT6zSKytzwO7X6saIE) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit), [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [MTV Unplugged](https://open.spotify.com/album/0Oj8WUcWlQCS6CSJEAjaob) | 4:54 |
 | 34 | [Amor Eterno](https://open.spotify.com/track/4SWye3OAVUSJysWgPF89e6) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R) | [México de Mi Corazón](https://open.spotify.com/album/2gW78rtsuRp5ldj6urzYiY) | 4:33 |
 | 35 | [No Discutamos](https://open.spotify.com/track/3IwKzJ7SenrBSRmmGAWR65) | [Lucha Villa](https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1) | [Interpreta A Juan Gabriel](https://open.spotify.com/album/3CaLGUG2hGBGom57xsxA1O) | 2:15 |
 | 36 | [Ya No Me Interesas](https://open.spotify.com/track/0FPDm5PU6egeZWag2PRft8) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Primero Soy Mexicana](https://open.spotify.com/album/5OoN6koPuuOLo9xRuF6gXh) | 2:23 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3hXmsXxRAC2.md) - [plain]
 | 99 | [Me Gustas Mucho \- Con Amaia Montero](https://open.spotify.com/track/09WmDckPkEXGRlGH5Kyipy) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Una Estrella En El Cielo](https://open.spotify.com/album/5BKMan1vEF6HtWpj8tNceY) | 3:00 |
 | 100 | [Fue Tan Poco Tu Cariño](https://open.spotify.com/track/6iU3Z1hIEXctO1xm3JQzfZ) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Lo Mejor De Lo Mejor](https://open.spotify.com/album/7hmSedqLVW3pMXzRPSbJfM) | 3:13 |
 
-Snapshot ID: `MTY0MDgyMTEwNSwwMDAwMDAwMDE2M2RhZGVhZjhjOGExMTI0MzZkZWYzYjgyOWExMTI4`
+Snapshot ID: `MTY0MDgyMTEwNSwwMDAwMDAwMGFkYjlkOWE5OTZiMWUwNjkxNTZjOTA5ZGUzMTk5ZTQ5`

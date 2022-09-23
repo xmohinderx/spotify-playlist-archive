@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Nb1cyWS6Tq.md) - [plain]
 
 > Release The Bats! Cover: Siouxsie and the Banshees
 
-[Spotify](https://open.spotify.com/user/spotify) - 453,263 likes - 80 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 453,708 likes - 80 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Nb1cyWS6Tq.md) - [plain]
 | 43 | [The Passion of Lovers](https://open.spotify.com/track/0Ha6Oee9KzRwNxAbfznzYJ) | [Bauhaus](https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi) | [Mask](https://open.spotify.com/album/6Cj5mXjHSi8eJ5jOAI8tsV) | 3:51 |
 | 44 | [Dominion / Mother Russia](https://open.spotify.com/track/286oOUWsKLgh9DMcOqKkkQ) | [Sisters of Mercy](https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR) | [Floodland](https://open.spotify.com/album/2I5WCmOZo17YkcEwjXbLvc) | 7:00 |
 | 45 | [The Lovecats](https://open.spotify.com/track/5rzr3lYGJiw3OXEg8imWgH) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Japanese Whispers](https://open.spotify.com/album/6fFTxlpJPGQbO3CbVz9MOS) | 3:40 |
-| 46 | [A Strange Kind of Love \- Version One](https://open.spotify.com/track/1zPAojZywAA8wCIScNMGK6) | [Peter Murphy](https://open.spotify.com/artist/7zeHJIIfNStVfxlbT72UwY) | [Deep](https://open.spotify.com/album/63VVK15ZBJI5TZu525KTVa) | 3:48 |
-| 47 | [Kangaroo \- Remastered](https://open.spotify.com/track/2HsOICaAi5bwnqyG7uO1Fo) | [This Mortal Coil](https://open.spotify.com/artist/5OK8j1JnhoBlivN32G7yOO) | [It'll End In Tears \(Remastered\)](https://open.spotify.com/album/5gMiiXVgUFVUIHKXC57a0j) | 3:29 |
+| 46 | [Kangaroo \- Remastered](https://open.spotify.com/track/2HsOICaAi5bwnqyG7uO1Fo) | [This Mortal Coil](https://open.spotify.com/artist/5OK8j1JnhoBlivN32G7yOO) | [It'll End In Tears \(Remastered\)](https://open.spotify.com/album/5gMiiXVgUFVUIHKXC57a0j) | 3:29 |
+| 47 | [A Strange Kind of Love \- Version One](https://open.spotify.com/track/1zPAojZywAA8wCIScNMGK6) | [Peter Murphy](https://open.spotify.com/artist/7zeHJIIfNStVfxlbT72UwY) | [Deep](https://open.spotify.com/album/63VVK15ZBJI5TZu525KTVa) | 3:48 |
 | 48 | [Love Like Blood](https://open.spotify.com/track/14z3RzUHeZQgtpOlSYvmZD) | [Killing Joke](https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD) | [Night Time](https://open.spotify.com/album/2qcwXvluk9iFwNNg4eDBXm) | 6:48 |
 | 49 | [Red Drop](https://open.spotify.com/track/0jyOu6GTwQ3c0hVXYwGZpL) | [Motorama](https://open.spotify.com/artist/3j0kMFxXTTYsuw1twLClw3) | [Poverty](https://open.spotify.com/album/18y3DE8cX1ptDjRVwgnmfb) | 3:31 |
 | 50 | [Kick in the Eye](https://open.spotify.com/track/1WmDtKY1clNiRdc5xY8Bms) | [Bauhaus](https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi) | [Mask](https://open.spotify.com/album/6Cj5mXjHSi8eJ5jOAI8tsV) | 3:40 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Nb1cyWS6Tq.md) - [plain]
 | 79 | [I Walk the Line](https://open.spotify.com/track/6kJoVUIqzlkjNeVGatlGKB) | [Alien Sex Fiend](https://open.spotify.com/artist/6WVnBgqJfj9Iw9gpBed9fJ) | [The Singles 1983\-1995](https://open.spotify.com/album/23bJrYWdTWLUlBdtgCMMCp) | 4:51 |
 | 80 | [Somewhere](https://open.spotify.com/track/5XYCe2ek8lMcTQXYDgQAGG) | [The Danse Society](https://open.spotify.com/artist/0WkypWGtWi9gAlB6aIKESl) | [Seduction \(The Society Collection\)](https://open.spotify.com/album/0NbtabKulAdSkbnzu94bJ9) | 4:20 |
 
-Snapshot ID: `MTY2MDAwOTA2OCwwMDAwMDAwMGNjMGMyMjI5ZjQ4OWRiYjRlODc2ODU0M2JmMTY3OGU2`
+Snapshot ID: `MTY2MDAwOTA2OCwwMDAwMDAwMDZhNGFkMTdiYmQwNmQyOGFmMWNiNDlmMTY5NmUzNzk2`

@@ -1,12 +1,12 @@
 {
   "description": "Una dosis con lo m\u00e1s ching\u00f3n pa'l gusto mexicano. Kinky en portada.",
-  "num_followers": 953935,
+  "num_followers": 954082,
   "original_name": "La + Chingona",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzAxNTc3MywwMDAwMDAwMGMyN2NmMGNiM2ExYTJjZWVkYjg5NjFjZjRiYmU2OTk4",
+  "snapshot_id": "MTY2MzAxNTc3MywwMDAwMDAwMGVmOWY0M2Q4YWU1YzYwYjBlMDIyNTkwNTUyNDAwNDQ5",
   "tracks": [
     {
       "added_at": "2022-01-14 14:14:57",
@@ -293,22 +293,6 @@
       "url": "https://open.spotify.com/track/0dRY4OrSY53yUjVgfgne1W"
     },
     {
-      "added_at": "2022-01-14 14:14:57",
-      "album": {
-        "name": "Defecto Perfecto",
-        "url": "https://open.spotify.com/album/2nbI0uW9IoyZg23xNL08Bx"
-      },
-      "artists": [
-        {
-          "name": "Divisi\u00f3n Min\u00fascula",
-          "url": "https://open.spotify.com/artist/2Ky9mFKNApb9KpEcORXE3p"
-        }
-      ],
-      "duration_ms": 313933,
-      "name": "Sognare",
-      "url": "https://open.spotify.com/track/3EYPZf5gtyU9suVqTWChzk"
-    },
-    {
       "added_at": "2022-04-19 19:45:44",
       "album": {
         "name": "Ch\u00fantaros Radio Poder",
@@ -339,6 +323,22 @@
       "duration_ms": 237760,
       "name": "Monitor",
       "url": "https://open.spotify.com/track/7on4qNO1Iu5EX61mD80Cgv"
+    },
+    {
+      "added_at": "2022-01-14 14:14:57",
+      "album": {
+        "name": "Defecto Perfecto",
+        "url": "https://open.spotify.com/album/2nbI0uW9IoyZg23xNL08Bx"
+      },
+      "artists": [
+        {
+          "name": "Divisi\u00f3n Min\u00fascula",
+          "url": "https://open.spotify.com/artist/2Ky9mFKNApb9KpEcORXE3p"
+        }
+      ],
+      "duration_ms": 313933,
+      "name": "Sognare",
+      "url": "https://open.spotify.com/track/3EYPZf5gtyU9suVqTWChzk"
     },
     {
       "added_at": "2022-01-14 14:14:57",

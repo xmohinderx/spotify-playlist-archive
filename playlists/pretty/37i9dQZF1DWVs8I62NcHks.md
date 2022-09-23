@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVs8I62NcHks.md) - [plain]
 
 ### [Disney Favorites](https://open.spotify.com/playlist/37i9dQZF1DWVs8I62NcHks)
 
-> All your favorite <a href="spotify:user:128899670">Disney</a> classics, new and old\. Cover: <a href="spotify:album:6WjuMbjLJHdI0EwjJR9ChA">Forky and Woody</a>
+> All your favorite Disney classics, new and old\. Stream Pinocchio on Disney+.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,875,667 likes - 81 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,875,916 likes - 81 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVs8I62NcHks.md) - [plain]
 | 80 | [Spirit](https://open.spotify.com/track/38SueFAjT6jtFneyoQamYi) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [The Lion King \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7e8y48Z2fkJNGBOKSECCeS) | 4:33 |
 | 81 | [We're All In This Together](https://open.spotify.com/track/0cqNGWvuukhCiKvEX7utys) | [High School Musical Cast](https://open.spotify.com/artist/2gUMs9PE8XZVQyzCDqaYmW), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [High School Musical](https://open.spotify.com/album/4dOvFkIgrb6b9zCcGfCcci) | 3:51 |
 
-Snapshot ID: `MTY2MzIzMzIxMiwwMDAwMDAwMDE1OGEyMjBmMTQxMWVkZmFiNWNkNjcyMmYyYjk0YzQx`
+Snapshot ID: `MTY2Mzg4MTc4OSwwMDAwMDAwMDBiMGE2OGU5OWRmYTBiNmU1OGE3ZmUyMDNiNTY5ZmY2`

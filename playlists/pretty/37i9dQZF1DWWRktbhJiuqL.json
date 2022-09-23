@@ -1,12 +1,12 @@
 {
   "description": "Various sounds, various decades, but with 1 thing in common: it's pure rock & roll.",
-  "num_followers": 1500187,
+  "num_followers": 1500447,
   "original_name": "Pure Rock & Roll",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDgzOTI0OCwwMDAwMDAwMGUyM2YzZDk2NGQ2ZWI5OTQ3OTVlZjE0MDRlNjk0NDRh",
+  "snapshot_id": "MTY2MDgzOTI0OCwwMDAwMDAwMDkwZTRlZWEyNjg5NDFkNzY5NmZlZDE4NWNmNTFjYzBh",
   "tracks": [
     {
       "added_at": "2022-08-04 23:36:32",
@@ -491,6 +491,22 @@
     {
       "added_at": "2022-08-04 23:36:32",
       "album": {
+        "name": "Hail to the King",
+        "url": "https://open.spotify.com/album/0ks45m1bsP2JsZpM5D2FFA"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "duration_ms": 305906,
+      "name": "Hail to the King",
+      "url": "https://open.spotify.com/track/5anCkDvJ17aznvK5TED5uo"
+    },
+    {
+      "added_at": "2022-08-04 23:36:32",
+      "album": {
         "name": "America",
         "url": "https://open.spotify.com/album/0E5IKYhiKgbYQkmfsFonbZ"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 252239,
       "name": "A Horse with No Name",
       "url": "https://open.spotify.com/track/54eZmuggBFJbV7k248bTTt"
-    },
-    {
-      "added_at": "2022-08-04 23:36:32",
-      "album": {
-        "name": "Hail to the King",
-        "url": "https://open.spotify.com/album/0ks45m1bsP2JsZpM5D2FFA"
-      },
-      "artists": [
-        {
-          "name": "Avenged Sevenfold",
-          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
-        }
-      ],
-      "duration_ms": 305906,
-      "name": "Hail to the King",
-      "url": "https://open.spotify.com/track/5anCkDvJ17aznvK5TED5uo"
     },
     {
       "added_at": "2022-08-04 23:36:32",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2022-08-04 23:36:32",
       "album": {
-        "name": "Elvis' Golden Records",
-        "url": "https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek"
-      },
-      "artists": [
-        {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
-        }
-      ],
-      "duration_ms": 146480,
-      "name": "Jailhouse Rock",
-      "url": "https://open.spotify.com/track/4gphxUgq0JSFv2BCLhNDiE"
-    },
-    {
-      "added_at": "2022-08-04 23:36:32",
-      "album": {
         "name": "Up Your Alley",
         "url": "https://open.spotify.com/album/2pkv3nrNrwtUdT8VNWwt5U"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 246800,
       "name": "I Hate Myself for Loving You",
       "url": "https://open.spotify.com/track/2HXixVqzzm9rEUIMAWzshl"
+    },
+    {
+      "added_at": "2022-08-04 23:36:32",
+      "album": {
+        "name": "Elvis' Golden Records",
+        "url": "https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "duration_ms": 146480,
+      "name": "Jailhouse Rock",
+      "url": "https://open.spotify.com/track/4gphxUgq0JSFv2BCLhNDiE"
     },
     {
       "added_at": "2022-08-04 23:36:32",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2022-08-04 23:36:32",
       "album": {
-        "name": "A Hard Day's Night (Remastered)",
-        "url": "https://open.spotify.com/album/6wCttLq0ADzkPgtRnUihLV"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 154200,
-      "name": "A Hard Day's Night - Remastered 2009",
-      "url": "https://open.spotify.com/track/5J2CHimS7dWYMImCHkEFaJ"
-    },
-    {
-      "added_at": "2022-08-04 23:36:32",
-      "album": {
         "name": "Audioslave",
         "url": "https://open.spotify.com/album/78guAsers0klWl6RwzgDLd"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 222026,
       "name": "Cochise",
       "url": "https://open.spotify.com/track/1TDk2Jmi4dVZhm2dum3Jim"
+    },
+    {
+      "added_at": "2022-08-04 23:36:32",
+      "album": {
+        "name": "A Hard Day's Night (Remastered)",
+        "url": "https://open.spotify.com/album/6wCttLq0ADzkPgtRnUihLV"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 154200,
+      "name": "A Hard Day's Night - Remastered 2009",
+      "url": "https://open.spotify.com/track/5J2CHimS7dWYMImCHkEFaJ"
     },
     {
       "added_at": "2022-08-04 23:36:32",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2022-08-04 23:36:32",
       "album": {
+        "name": "Audioslave",
+        "url": "https://open.spotify.com/album/78guAsers0klWl6RwzgDLd"
+      },
+      "artists": [
+        {
+          "name": "Audioslave",
+          "url": "https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn"
+        }
+      ],
+      "duration_ms": 334906,
+      "name": "I Am the Highway",
+      "url": "https://open.spotify.com/track/3bwAS8cN7Xtzvv5UurJOOX"
+    },
+    {
+      "added_at": "2022-08-04 23:36:32",
+      "album": {
         "name": "Greatest Hits 1974-78",
         "url": "https://open.spotify.com/album/5hLazW5a3Ysgy3dncwGgUn"
       },
@@ -1615,22 +1631,6 @@
       "duration_ms": 215666,
       "name": "Jet Airliner",
       "url": "https://open.spotify.com/track/2zI3bUYn2pcF27of6i2oqK"
-    },
-    {
-      "added_at": "2022-08-04 23:36:32",
-      "album": {
-        "name": "Nathaniel Rateliff & The Night Sweats",
-        "url": "https://open.spotify.com/album/1uJRMyfjWu3255ihMnNuj4"
-      },
-      "artists": [
-        {
-          "name": "Nathaniel Rateliff & The Night Sweats",
-          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
-        }
-      ],
-      "duration_ms": 247613,
-      "name": "S.O.B.",
-      "url": "https://open.spotify.com/track/1VPUpUwtbpoRVXt0txVU0w"
     }
   ],
   "unique_name": "Pure Rock & Roll",

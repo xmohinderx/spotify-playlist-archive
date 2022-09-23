@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NRlBOcUOcY.md) - [plain]
 
 > Good vibes only! Aquí solo hay buena vibra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 442,957 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 442,983 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NRlBOcUOcY.md) - [plain]
 | 51 | [Felices x Siempre](https://open.spotify.com/track/42Gzfqnfpk7Pp1ydM60eNn) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Felices x Siempre](https://open.spotify.com/album/1DW15sDiWh55xNKb5uqIp2) | 3:19 |
 | 52 | [Un Viaje](https://open.spotify.com/track/3huLeBRjZPOzkePH7ph91y) | [Jotaerre](https://open.spotify.com/artist/1pEqLDmVTqmfwfywlwL7wL), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE), [Moffa](https://open.spotify.com/artist/2lcWprkQW6ehqKep82rWnC) | [Un Viaje](https://open.spotify.com/album/2Hi8ff429tSHmxPK3CzV36) | 4:45 |
 | 53 | [Barranquilla Bajo Cero](https://open.spotify.com/track/02mhtclidb7Jpf1gwEasJh) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Barranquilla Bajo Cero](https://open.spotify.com/album/0TDGIoXeKDPhp1LpU4RMvf) | 4:06 |
-| 54 | [Apretaito](https://open.spotify.com/track/0cW5cXANjlv8hgLAQwdvgE) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Apretaito](https://open.spotify.com/album/0aMqp2gRJQjhVZmHkuTtfL) | 3:19 |
-| 55 | [Desde Mis Ojos](https://open.spotify.com/track/55b9ywCCjdMt4p0rrDWZGp) | [Chris Lebron](https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk) | [Versos de un Cardíaco](https://open.spotify.com/album/37kW73lswREZ5Bj410ZXTX) | 2:49 |
+| 54 | [Desde Mis Ojos](https://open.spotify.com/track/55b9ywCCjdMt4p0rrDWZGp) | [Chris Lebron](https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk) | [Versos de un Cardíaco](https://open.spotify.com/album/37kW73lswREZ5Bj410ZXTX) | 2:49 |
+| 55 | [Apretaito](https://open.spotify.com/track/0cW5cXANjlv8hgLAQwdvgE) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Apretaito](https://open.spotify.com/album/0aMqp2gRJQjhVZmHkuTtfL) | 3:19 |
 | 56 | [El Cielo Se Me Cayó](https://open.spotify.com/track/7q72vajxaywdWMdena6o54) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [El Cielo Se Me Cayó](https://open.spotify.com/album/49E0S14vGXYJSMrloi57sn) | 2:03 |
 | 57 | [Tutu](https://open.spotify.com/track/1nocRtwyNPVtGcIJqfgdzZ) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Tutu](https://open.spotify.com/album/6xu5asYeoMIT5Sa5b1P13q) | 2:58 |
 | 58 | [Oh Na Na](https://open.spotify.com/track/03NqHNdG3Ur6kciQWK6e8V) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [Oh Na Na](https://open.spotify.com/album/6gkAMKnELz3nS8KtSDTPko) | 3:23 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NRlBOcUOcY.md) - [plain]
 | 99 | [Bad Kiss](https://open.spotify.com/track/1pXdYW93QYTfReu4hhXozQ) | [Samantha Sánchez](https://open.spotify.com/artist/1GhW0GVy12AcLQc5kA14PJ) | [Bad Kiss](https://open.spotify.com/album/6k9wPtpVp9mfAOwp56g5LJ) | 2:22 |
 | 100 | [I've Seen Better Days](https://open.spotify.com/track/0c6I474Mfy2VEDD80Yinhi) | [jame minogue](https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck) | [I've Seen Better Days](https://open.spotify.com/album/7mYHrBhLey9y1r5TpL05cL) | 3:04 |
 
-Snapshot ID: `MTY2MjQ4MDYxNCwwMDAwMDAwMGJjYzFjNzFjYTE0N2JjMjFmN2EyMTgyZmEzNWMwMGZj`
+Snapshot ID: `MTY2MjQ4MDYxNCwwMDAwMDAwMDUwNWE1NjNlNTYxMTY5NWE5OTQ2ZjY3M2ZiYWYxYWY4`

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Peru.
 
-359 songs - 20 hr 53 min - [published](https://open.spotify.com/playlist/5vi5P9XAfzKe30tgFRMu63)
+360 songs - 20 hr 56 min - [published](https://open.spotify.com/playlist/5vi5P9XAfzKe30tgFRMu63)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [As It Was](https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [As It Was](https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8) | 2:47 | 2022-04-02 | 2022-05-23 |
 | [Ay, DiOs Mío!](https://open.spotify.com/track/1beTDCe7sT7fzm8WIKXicz) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [KG0516](https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW) | 3:09 | 2021-03-27 | 2021-04-03 |
 | [Ay, DiOs Mío!](https://open.spotify.com/track/7x4ASXYEKfQBCewcZhK776) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Ay, DiOs Mío!](https://open.spotify.com/album/1mMUBQXa70gHyUjK0Q0u63) | 3:09 | 2021-03-27\* | 2021-03-27 |
+| [BABY OTAKU](https://open.spotify.com/track/0kTMK4gNFfLXaTb62w1UaJ) | [Pablo Pesadilla](https://open.spotify.com/artist/41vcoPejPG3vv8emJ2R5Ox), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Nickoog Clk](https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj), [Fran C](https://open.spotify.com/artist/5NenY2Jl9wwLRxf86go4Y8) | [BABY OTAKU](https://open.spotify.com/album/7HUH0lFoay2KzGEZqGp55G) | 2:56 | 2022-09-22 |  |
 | [Bad Decisions \(with BTS & Snoop Dogg\)](https://open.spotify.com/track/0xzI1KAr0Yd9tv8jlIk3sn) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Bad Decisions \(with BTS & Snoop Dogg\)](https://open.spotify.com/album/2km2gV8HN1lk1e1GEDl7SN) | 2:52 | 2022-08-06 | 2022-08-30 |
 | [Baila Conmigo \(with Rauw Alejandro\)](https://open.spotify.com/track/079Ey5uxL04AKPQgVQwx5h) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Revelación \- EP](https://open.spotify.com/album/2jGa3OwXatFYQAIS7OV7k9) | 3:06 | 2021-03-27\* | 2021-07-18 |
 | [Bam Bam \(feat\. Ed Sheeran\)](https://open.spotify.com/track/0QBzMgT7NIeoCYy3sJCof1) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Bam Bam \(feat\. Ed Sheeran\)](https://open.spotify.com/album/6FIMt58naoGYrOe4Wn2P3n) | 3:26 | 2022-03-08 | 2022-04-10 |
@@ -169,7 +170,7 @@
 | [La Tóxica](https://open.spotify.com/track/15OjBeqNX3bShsGYQbteRv) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [La Tóxica](https://open.spotify.com/album/1R0ocprmeDu8ZkZn29xYFx) | 3:00 | 2021-03-27\* | 2021-04-17 |
 | [La Zona](https://open.spotify.com/track/5kqNIqFjijuzvVLhuY9B8j) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 2:16 | 2022-02-20 | 2022-03-26 |
 | [LALISA](https://open.spotify.com/track/7uQZVznj0uQOGC9KhV2Mg6) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd) | 3:20 | 2021-09-12 | 2021-10-07 |
-| [Lamento Boliviano](https://open.spotify.com/track/6Pur3hWy6Nzc27ilmsp5HA) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Big Bang](https://open.spotify.com/album/3y63u5vmuMugqI8lfuUY3a) | 3:42 | 2022-09-10 |  |
+| [Lamento Boliviano](https://open.spotify.com/track/6Pur3hWy6Nzc27ilmsp5HA) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Big Bang](https://open.spotify.com/album/3y63u5vmuMugqI8lfuUY3a) | 3:42 | 2022-09-10 | 2022-09-23 |
 | [Last Christmas](https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78) | [Wham!](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) | [LAST CHRISTMAS](https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ) | 4:22 | 2021-12-26 | 2021-12-27 |
 | [Late Night Talking](https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:57 | 2022-05-22 | 2022-05-26 |
 | [Leave The Door Open](https://open.spotify.com/track/7MAibcTli4IisCtbHKrGMh) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [Leave The Door Open](https://open.spotify.com/album/7dfPqXck6BB9wpThrVYBss) | 4:02 | 2021-03-27\* | 2021-07-11 |

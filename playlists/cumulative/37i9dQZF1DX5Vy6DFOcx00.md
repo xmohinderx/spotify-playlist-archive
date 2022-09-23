@@ -4,7 +4,7 @@
 
 > iykyk
 
-583 songs - 1 day 7 hr 47 min - [published](https://open.spotify.com/playlist/4A3sS6FGGPjl0VEjsEjlzC)
+584 songs - 1 day 7 hr 50 min - [published](https://open.spotify.com/playlist/4A3sS6FGGPjl0VEjsEjlzC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -549,6 +549,7 @@
 | [Turban](https://open.spotify.com/track/4aMxs74PXoQg2SLgjypcvb) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Up 2 Më](https://open.spotify.com/album/1x55Z0fYARLdeJVjG2UESs) | 2:35 | 2022-02-01 | 2022-03-10 |
 | [Two Birds](https://open.spotify.com/track/2n0U2OG5d6TuW5mKx7YrC0) | [Regina Spektor](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) | [Far](https://open.spotify.com/album/5t0lQDPLF22wmWCtSZkIVv) | 3:15 | 2021-11-09 | 2022-02-14 |
 | [Under The Influence](https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Indigo \(Extended\)](https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww) | 3:04 | 2022-07-26 |  |
+| [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi) | 2:36 | 2022-09-22 |  |
 | [United In Grief](https://open.spotify.com/track/05zd5Nv0e02ZqrlC8A2cwx) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 4:15 | 2022-06-02 | 2022-06-28 |
 | [Unstoppable](https://open.spotify.com/track/1yvMUkIOTeUNtNWlWRgANS) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [This Is Acting \(Deluxe Version\)](https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX) | 3:37 | 2022-08-04 |  |
 | [Until I Found You](https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Until I Found You](https://open.spotify.com/album/18CtLoAMTr7F8ngtuM6D8i) | 2:57 | 2022-02-18 |  |

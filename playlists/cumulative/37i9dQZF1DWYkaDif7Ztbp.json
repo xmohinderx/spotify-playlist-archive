@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The tracks heating up the continent right now!  Cover: <a href=\"https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp?si=Cb38Es3YRlq8YsdOAtgOzg\"> WizKid</a>  ",
+  "description": "The tracks heating up the continent right now!  Cover: <a href=\"https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz?si=vq7JM_g7TVioQtm4ZfLE5Q\"> CKay</a>  ",
   "name": "African Heat",
   "published_playlist_ids": [
     "6CGfDwBbFDC5qx0eVHKRnz"
@@ -2220,6 +2220,24 @@
     },
     {
       "album": {
+        "name": "mmadu",
+        "url": "https://open.spotify.com/album/7bIxgdSCV9HbRrGOgXyxCT"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196712,
+      "name": "mmadu",
+      "url": "https://open.spotify.com/track/4QzOS4y283J1iizwxgTEk8"
+    },
+    {
+      "album": {
         "name": "LV N ATTN",
         "url": "https://open.spotify.com/album/7zx9F3ehp4NIcts4Tq0Oc8"
       },
@@ -2562,6 +2580,24 @@
     },
     {
       "album": {
+        "name": "palazzo",
+        "url": "https://open.spotify.com/album/36cDnYodbE7wMVKnwNoSOB"
+      },
+      "artists": [
+        {
+          "name": "Rodi0",
+          "url": "https://open.spotify.com/artist/3oo0pZAB5OrgM3Fh3tIFo5"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186003,
+      "name": "palazzo",
+      "url": "https://open.spotify.com/track/3FZL5wn7jwqbQbCwyuqsuu"
+    },
+    {
+      "album": {
         "name": "PALAZZO",
         "url": "https://open.spotify.com/album/2O2xKMqPSpnYYQMk5DPSTf"
       },
@@ -2577,7 +2613,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 186002,
       "name": "PALAZZO",
       "url": "https://open.spotify.com/track/2SaRkvUkzNzL39fBB2hLpt"
@@ -2873,7 +2909,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 331349,
       "name": "Selema (Po Po) - Remix",
       "url": "https://open.spotify.com/track/32YnNTVsrqcSPj3aXDbi80"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0U9uWXLno47.md) - [plain]
 
 > Clásicos que no sabías que eran covers para disfrutar con papá.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,428 likes - 75 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,445 likes - 75 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0U9uWXLno47.md) - [plain]
 | 17 | [Dazed and Confused \- 1990 Remaster](https://open.spotify.com/track/6hu1f1cXSw7OAqhpSQ2zDy) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin](https://open.spotify.com/album/3ycjBixZf7S3WpC5WZhhUK) | 6:26 |
 | 18 | [China Girl \- 2018 Remaster](https://open.spotify.com/track/5Ei9o2fHEnfHb84YrPuz4v) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Let's Dance \(2018 Remaster\)](https://open.spotify.com/album/4NwG11AsDJluT732lSjMrV) | 5:33 |
 | 19 | [I Will Survive](https://open.spotify.com/track/4THrHKyBL0yaDDw9yg37Zk) | [CAKE](https://open.spotify.com/artist/6A43Djmhbe9100UwnI7epV) | [Fashion Nugget](https://open.spotify.com/album/6kPOXxCYCdXBzEbb9dqE90) | 5:10 |
-| 20 | [We Can Work It Out](https://open.spotify.com/track/41q8ZiB3LZl4HRmmzUTIo4) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Signed, Sealed And Delivered](https://open.spotify.com/album/54ootLtDyMZFr9obtWQvvO) | 3:19 |
-| 21 | [I Put A Spell On You](https://open.spotify.com/track/4SDywo3ykB2PEthjXvo1UP) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Creedence Clearwater Revival \(Expanded Edition\)](https://open.spotify.com/album/7oIftk0P8cViwNpNEdCYl2) | 4:31 |
+| 20 | [I Put A Spell On You](https://open.spotify.com/track/4SDywo3ykB2PEthjXvo1UP) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Creedence Clearwater Revival \(Expanded Edition\)](https://open.spotify.com/album/7oIftk0P8cViwNpNEdCYl2) | 4:31 |
+| 21 | [We Can Work It Out](https://open.spotify.com/track/41q8ZiB3LZl4HRmmzUTIo4) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Signed, Sealed And Delivered](https://open.spotify.com/album/54ootLtDyMZFr9obtWQvvO) | 3:19 |
 | 22 | [Baby I'm Yours](https://open.spotify.com/track/6FLqFu1ApSkUddZ9P4H6Io) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Leave Before The Lights Come On](https://open.spotify.com/album/7zGAOSaUjqWdwyYtQvnqWy) | 2:32 |
 | 23 | [Personal Jesus](https://open.spotify.com/track/5dcwiQFqn0mTcWewYIv7MV) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [American IV: The Man Comes Around](https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9) | 3:19 |
 | 24 | [Soldier of Love](https://open.spotify.com/track/0ll4shInilQVdYVrVVHpjB) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Last Kiss](https://open.spotify.com/album/11BDZR6NRHwPiPy1WQr4Jf) | 2:54 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0U9uWXLno47.md) - [plain]
 | 47 | [Ashes to Ashes](https://open.spotify.com/track/323zAiM19cVLQY0pFlwyb7) | [Warpaint](https://open.spotify.com/artist/3AmgGrYHXqgbmZ2yKoIVzO) | [Ashes to Ashes](https://open.spotify.com/album/5xlYLpqPAkDeWRPzphG894) | 5:10 |
 | 48 | [Take Me Home, Country Roads \(ft\. Waxahatchee\)](https://open.spotify.com/track/4pR4OUNzzhK3vDY89PN1Oa) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Candid](https://open.spotify.com/album/02b3E6hkZ8TslA7nDnrrb2) | 2:45 |
 | 49 | [Friday I'm In Love](https://open.spotify.com/track/1L8L3B8BY9SzcJUC8TCSi4) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [Stuff Like That There](https://open.spotify.com/album/00vIbcUe4eGeNezbmT3525) | 3:11 |
-| 50 | [It's Oh So Quiet](https://open.spotify.com/track/0OMNQyneWmmZtTQpULYJcl) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Post](https://open.spotify.com/album/2Ul7B1LEHxXzYubtkTMENs) | 3:37 |
-| 51 | [Unchained Melody](https://open.spotify.com/track/2eH4LAMhD20bl8tQseKckb) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Unchained Melody](https://open.spotify.com/album/7BKTOFQtwCo78sCpM7woOG) | 2:36 |
+| 50 | [Unchained Melody](https://open.spotify.com/track/2eH4LAMhD20bl8tQseKckb) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Unchained Melody](https://open.spotify.com/album/7BKTOFQtwCo78sCpM7woOG) | 2:36 |
+| 51 | [It's Oh So Quiet](https://open.spotify.com/track/0OMNQyneWmmZtTQpULYJcl) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Post](https://open.spotify.com/album/2Ul7B1LEHxXzYubtkTMENs) | 3:37 |
 | 52 | [\(I Can't Get No\) Satisfaction](https://open.spotify.com/track/5FzBxhIsZBFXDTVGWtV4IQ) | [DEVO](https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3) | [Q: Are We Not Men? A: We Are Devo!](https://open.spotify.com/album/1u2Qni8cVRptDTaA00fmBC) | 2:40 |
 | 53 | [Feeling Good](https://open.spotify.com/track/5Yj4AP0JGQWierBFKdKVyS) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Origin of Symmetry](https://open.spotify.com/album/1AP6uGYHdakRgwuWQsP5pK) | 3:18 |
 | 54 | [Wicked Game \- Recorded at Electric Lady Studios, NYC \(feat\. Chris Isaak\)](https://open.spotify.com/track/7rSSVVqC2sqDhmt1LfWm3J) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK), [Chris Isaak](https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx) | [Spotify Singles](https://open.spotify.com/album/3CtjXkvmvOyiSld7yBZkJ2) | 4:51 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0U9uWXLno47.md) - [plain]
 | 74 | [Eyes Without A Face](https://open.spotify.com/track/48TH4snarSvpIF6559Gjry) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Aisles](https://open.spotify.com/album/6yp8LzFMaKy0WyPpTyYEB7) | 4:40 |
 | 75 | [Everybody Wants to Rule the World](https://open.spotify.com/track/75lEtKX3MoBmnUSmXn75E2) | [Brothertiger](https://open.spotify.com/artist/2MaMzvFmtu68r9zpdJ4tLE) | [Brothertiger Plays: Tears for Fears' Songs from the Big Chair](https://open.spotify.com/album/2Zv6ExetUe6w00tINrreEO) | 4:21 |
 
-Snapshot ID: `MTYzNTUyNTA3NiwwMDAwMDAwMGU2ZTNkYTA3ZGYyZTcyNDVmYTAyMWUzZWIxYmE0ZDZh`
+Snapshot ID: `MTYzNTUyNTA3NiwwMDAwMDAwMDNjNTE4NzFlMGFiZmQ3ZWFiNjFlM2E3MTNlZjA3OTU3`

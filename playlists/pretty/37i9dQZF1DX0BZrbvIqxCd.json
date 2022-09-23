@@ -1,12 +1,12 @@
 {
   "description": "A mix of punk rock to get you through your workout.",
-  "num_followers": 520943,
+  "num_followers": 520954,
   "original_name": "Punk Rock Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Mzc1NTQxMSwwMDAwMDAwMDQxYzY4YmZlMGE5ZGVhODE2OTk1ODUxMDEwYzY4YzQ4",
+  "snapshot_id": "MTY0Mzc1NTQxMSwwMDAwMDAwMGFlNDgwNzljY2EzY2NhMzhmMjBkNThhMzM0ZTBmMTI3",
   "tracks": [
     {
       "added_at": "2020-11-20 21:27:18",
@@ -499,22 +499,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Social Distortion",
-        "url": "https://open.spotify.com/album/46nX6hzuIb6wEia7OQ2viS"
-      },
-      "artists": [
-        {
-          "name": "Social Distortion",
-          "url": "https://open.spotify.com/artist/16nn7kCHPWIB6uK09GQCNI"
-        }
-      ],
-      "duration_ms": 346333,
-      "name": "Story of My Life",
-      "url": "https://open.spotify.com/track/4Q4w8aRdfhIIEhBututktL"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "Recipe For Hate",
         "url": "https://open.spotify.com/album/1DMLunJrzPkQws2uQU797l"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 197666,
       "name": "American Jesus",
       "url": "https://open.spotify.com/track/5TZn3LQSWwVPnBlPgFKb54"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Social Distortion",
+        "url": "https://open.spotify.com/album/46nX6hzuIb6wEia7OQ2viS"
+      },
+      "artists": [
+        {
+          "name": "Social Distortion",
+          "url": "https://open.spotify.com/artist/16nn7kCHPWIB6uK09GQCNI"
+        }
+      ],
+      "duration_ms": 346333,
+      "name": "Story of My Life",
+      "url": "https://open.spotify.com/track/4Q4w8aRdfhIIEhBututktL"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -627,22 +627,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Fight the Good Fight",
-        "url": "https://open.spotify.com/album/6AoWkAFBSNlX63z1fJVNIL"
-      },
-      "artists": [
-        {
-          "name": "The Interrupters",
-          "url": "https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF"
-        }
-      ],
-      "duration_ms": 170453,
-      "name": "She's Kerosene",
-      "url": "https://open.spotify.com/track/60FJeNTK5edr72G2xtCWuP"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "Ghost in My Home",
         "url": "https://open.spotify.com/album/1gfShNUI5uB4qR2MRQJIGu"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 200189,
       "name": "Ghost in My Home",
       "url": "https://open.spotify.com/track/0bjwkqQ0lZSIes3IW7Aeq8"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Fight the Good Fight",
+        "url": "https://open.spotify.com/album/6AoWkAFBSNlX63z1fJVNIL"
+      },
+      "artists": [
+        {
+          "name": "The Interrupters",
+          "url": "https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF"
+        }
+      ],
+      "duration_ms": 170453,
+      "name": "She's Kerosene",
+      "url": "https://open.spotify.com/track/60FJeNTK5edr72G2xtCWuP"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -755,22 +755,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "High Hopes",
-        "url": "https://open.spotify.com/album/4TGgIBpUlNWUnVFIAx7P8w"
-      },
-      "artists": [
-        {
-          "name": "Yours Truly",
-          "url": "https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo"
-        }
-      ],
-      "duration_ms": 231400,
-      "name": "High Hopes",
-      "url": "https://open.spotify.com/track/2DmNhvPUecofT7Zu7DJxS1"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "War on Errorism",
         "url": "https://open.spotify.com/album/579FRQBE6RnFZXn6dG0DeV"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 189733,
       "name": "The Separation of Church and Skate",
       "url": "https://open.spotify.com/track/1NVjbk3Q06lEvAPUlTauzr"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "High Hopes",
+        "url": "https://open.spotify.com/album/4TGgIBpUlNWUnVFIAx7P8w"
+      },
+      "artists": [
+        {
+          "name": "Yours Truly",
+          "url": "https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo"
+        }
+      ],
+      "duration_ms": 231400,
+      "name": "High Hopes",
+      "url": "https://open.spotify.com/track/2DmNhvPUecofT7Zu7DJxS1"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -955,18 +955,18 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Into the Raging Sea",
-        "url": "https://open.spotify.com/album/668M0j58jceb2KVxomANs6"
+        "name": "The General Strike",
+        "url": "https://open.spotify.com/album/406J0Oguq0uZBtJmsc5juw"
       },
       "artists": [
         {
-          "name": "Broadside",
-          "url": "https://open.spotify.com/artist/7EGdqeEDe7WMqOVyDFUYyo"
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
         }
       ],
-      "duration_ms": 221539,
-      "name": "Foolish Believer",
-      "url": "https://open.spotify.com/track/1b4ObYUAxvigL7kOw6rBdL"
+      "duration_ms": 181440,
+      "name": "Broken Bones",
+      "url": "https://open.spotify.com/track/3F3WJuZLS5I5aOcQLCbMGK"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -991,18 +991,18 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "The General Strike",
-        "url": "https://open.spotify.com/album/406J0Oguq0uZBtJmsc5juw"
+        "name": "Into the Raging Sea",
+        "url": "https://open.spotify.com/album/668M0j58jceb2KVxomANs6"
       },
       "artists": [
         {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+          "name": "Broadside",
+          "url": "https://open.spotify.com/artist/7EGdqeEDe7WMqOVyDFUYyo"
         }
       ],
-      "duration_ms": 181440,
-      "name": "Broken Bones",
-      "url": "https://open.spotify.com/track/3F3WJuZLS5I5aOcQLCbMGK"
+      "duration_ms": 221539,
+      "name": "Foolish Believer",
+      "url": "https://open.spotify.com/track/1b4ObYUAxvigL7kOw6rBdL"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Living Proof",
-        "url": "https://open.spotify.com/album/1Qb73C8hC76e3R8udyit5I"
-      },
-      "artists": [
-        {
-          "name": "State Champs",
-          "url": "https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr"
-        }
-      ],
-      "duration_ms": 191756,
-      "name": "Dead and Gone",
-      "url": "https://open.spotify.com/track/0QapunlwO9vnL5X6h4YF18"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "Composure",
         "url": "https://open.spotify.com/album/574qjeKnYHIU246L4MMNbX"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 212893,
       "name": "Get By",
       "url": "https://open.spotify.com/track/1rBlsNeQ1IgT3L4xdUSNY3"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Living Proof",
+        "url": "https://open.spotify.com/album/1Qb73C8hC76e3R8udyit5I"
+      },
+      "artists": [
+        {
+          "name": "State Champs",
+          "url": "https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr"
+        }
+      ],
+      "duration_ms": 191756,
+      "name": "Dead and Gone",
+      "url": "https://open.spotify.com/track/0QapunlwO9vnL5X6h4YF18"
     },
     {
       "added_at": "2020-11-20 21:27:18",

@@ -4,7 +4,7 @@
 
 > The ultimate instrumental soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-500 songs - 22 hr 21 min - [published](https://open.spotify.com/playlist/6G1POdc4fbQZ6aBIV9rUMB)
+502 songs - 22 hr 25 min - [published](https://open.spotify.com/playlist/6G1POdc4fbQZ6aBIV9rUMB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,7 +168,7 @@
 | [Good Morning My Dear](https://open.spotify.com/track/4EQ5UCyLK2Qg1g3agHdlsO) | [sphontik](https://open.spotify.com/artist/27r4JWLsSQYgsQvnAdk0Zq) | [HOME](https://open.spotify.com/album/4saAi1XXXyNnwwIpnO6UDK) | 1:47 | 2022-06-02 | 2022-07-23 |
 | [Good song](https://open.spotify.com/track/1pdMs8HUL8udZMqbUaBtd6) | [SPECIAL OTHERS](https://open.spotify.com/artist/4642raFccEF58fHRtJSsc5) | [WAVE](https://open.spotify.com/album/3oJNisRS39JpmBEmmL3X2B) | 3:22 | 2021-12-23 |  |
 | [goodbye](https://open.spotify.com/track/7lgBuXy8lmgaQ0rGTQRf6O) | [illmore](https://open.spotify.com/artist/6xLWs7PzOiPY2351KcoeGZ) | [goodbye](https://open.spotify.com/album/6OIpggxPPOAJ8bu0yU8wJ3) | 1:28 | 2022-01-27 | 2022-06-13 |
-| [Goodbye](https://open.spotify.com/track/1oyrVPtes5mIqt3RNIOcGp) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [Goodbye](https://open.spotify.com/album/1zEzeSY7dRs8tkKfDg5lQ0) | 3:15 | 2022-09-15 |  |
+| [Goodbye](https://open.spotify.com/track/1oyrVPtes5mIqt3RNIOcGp) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [Goodbye](https://open.spotify.com/album/1zEzeSY7dRs8tkKfDg5lQ0) | 3:15 | 2022-09-15 | 2022-09-23 |
 | [Goodbye](https://open.spotify.com/track/2JuCeSYtgR8bCjzmfQikJU) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [Goodbye](https://open.spotify.com/album/21p31pvhRnJuajkA9CqYEv) | 3:15 | 2022-09-15 | 2022-09-17 |
 | [Grandeur](https://open.spotify.com/track/0CjXWn8u6fg9z82AIuqW0L) | [Shinjuku Jumpshot](https://open.spotify.com/artist/3Tssruxt0wSeVhuGQzrpGx) | [Grandeur](https://open.spotify.com/album/5VlVy0FZJwFDfgmCx8NWIv) | 2:10 | 2021-12-23 | 2022-01-24 |
 | [Grasses](https://open.spotify.com/track/4lb9N5eEBiK5GkTvBSV7L4) | [呼煙魔](https://open.spotify.com/artist/6DCqyAIjEYMWaUbJExBBA5) | [Mr.PiCture](https://open.spotify.com/album/1ZK9ycZGj6BH9Lxc20v3Wx) | 2:04 | 2022-04-07 | 2022-06-30 |
@@ -202,7 +202,7 @@
 | [In Moment](https://open.spotify.com/track/0gN3UHcbbfLtIe2HThmvE1) | [UZK](https://open.spotify.com/artist/4nB4wMQin7UtH9VzkpW1Ti) | [In Moment](https://open.spotify.com/album/4zAoLpf8uLbOETYXKoYIWq) | 2:18 | 2022-03-03 | 2022-07-24 |
 | [ingenuity](https://open.spotify.com/track/7Fc6xaWktLjTFh2pkXPWPs) | [BROCKBEATS](https://open.spotify.com/artist/0DrshpbzI0ItncVhYZ2BtW), [Ian Urbina](https://open.spotify.com/artist/7miGJahGF5JYOunptmXsQz) | [Ingenuity \(The Noam Chomsky Music Project\)](https://open.spotify.com/album/00BnzaMCnyitulh8rIEFWV) | 3:04 | 2022-07-28 | 2022-09-11 |
 | [ingenuity](https://open.spotify.com/track/7Jpq5JifjHGXkcke4xaxa8) | [BROCKBEATS](https://open.spotify.com/artist/0DrshpbzI0ItncVhYZ2BtW), [Ian Urbina](https://open.spotify.com/artist/7miGJahGF5JYOunptmXsQz) | [Ingenuity \(The Noam Chomsky Music Project\)](https://open.spotify.com/album/073FOLOmSzVc8brGH32LWB) | 3:04 | 2021-12-23 | 2022-07-29 |
-| [INNER CHILD](https://open.spotify.com/track/0UN76wlPdYnG5O6V0qORZq) | [DJ MOTORA](https://open.spotify.com/artist/5NkOVFLxuooWRa99WZuQu2) | [INNER CHILD](https://open.spotify.com/album/54VHZuKa304ZvfiEXO27xA) | 2:56 | 2021-12-23 |  |
+| [INNER CHILD](https://open.spotify.com/track/0UN76wlPdYnG5O6V0qORZq) | [DJ MOTORA](https://open.spotify.com/artist/5NkOVFLxuooWRa99WZuQu2) | [INNER CHILD](https://open.spotify.com/album/54VHZuKa304ZvfiEXO27xA) | 2:56 | 2021-12-23 | 2022-09-23 |
 | [Inside Love](https://open.spotify.com/track/5WSaTxllq6SNyOCEh2C1kb) | [SSIR](https://open.spotify.com/artist/68aVwfoV4wmRwYhRhaze7t) | [Inside Love](https://open.spotify.com/album/4bA08DkU2XGgOvwgmB7dFa) | 1:40 | 2022-04-14 | 2022-07-28 |
 | [Intersect](https://open.spotify.com/track/40ZwjOSE0JE0eqYN6v1XXn) | [Minthaze](https://open.spotify.com/artist/0GDuz9Xe0BQHtO6uEOHm1v), [A N T I T H E S I S](https://open.spotify.com/artist/1sbuH2QadilkAzCOOrjHuf) | [Cadence](https://open.spotify.com/album/61KwQrK6ffvkm5JWWHwjTg) | 2:51 | 2021-12-23 | 2022-07-17 |
 | [IQ \- Instrumental](https://open.spotify.com/track/5Ied56g4AIcQbG2xB782QW) | [CARREC](https://open.spotify.com/artist/2GvSLpKBp3XZdNbAtiChQr), [TALOW](https://open.spotify.com/artist/5HwgnSQkBOfC49j0eCs7BJ) | [IQ](https://open.spotify.com/album/0Yn3CPyencGnFUlj0VuMoF) | 4:32 | 2022-01-06 | 2022-04-20 |
@@ -319,6 +319,7 @@
 | [Nujabest](https://open.spotify.com/track/2h5AdIzimnGEaT8EToDcQb) | [Astrolemo](https://open.spotify.com/artist/6XtEzqCB9T1Y8uAjCGS17j) | [Nujabest](https://open.spotify.com/album/7M1n4PgrCJoFKhdMqT1Xj2) | 0:54 | 2022-03-24 | 2022-04-16 |
 | [Oak](https://open.spotify.com/track/4QrLXFESrpnpf6TXJsM1rX) | [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN), [cocabona](https://open.spotify.com/artist/5V8HGb7Pt982HEbpmglIYT) | [Oak](https://open.spotify.com/album/0vdKiuQsAHix0sDjoiwngg) | 2:50 | 2021-12-23 |  |
 | [Ocean Avenue](https://open.spotify.com/track/5Bv8KRYPE7w6S9bZfrUYiz) | [Vanilla Beach](https://open.spotify.com/artist/4gJj9oQfNWsfgwKYeUdlCe), [Ashley Orikami](https://open.spotify.com/artist/3g8971KIYlPDlZWnU5Mlof) | [Ocean Avenue](https://open.spotify.com/album/26MxpI4CnZlMXJoD7IoiGU) | 3:53 | 2022-02-24 | 2022-07-04 |
+| [ode to N](https://open.spotify.com/track/3kKypbU1yMlHWc33em5aIO) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [ode to N](https://open.spotify.com/album/0Og7hHFQfX0OW028kjJelF) | 2:14 | 2022-09-22 |  |
 | [On My Way Home](https://open.spotify.com/track/3UwKfXx1SdJSxnzG2gYkgc) | [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [On My Way Home](https://open.spotify.com/album/6bO5QKKe9OAyMHQ2RryMou) | 3:14 | 2021-12-23 |  |
 | [on the way home](https://open.spotify.com/track/1JkQR9Mzg3LsJL9RVCcWHx) | [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa), [Y\-2](https://open.spotify.com/artist/3Tn5cTqDZdc03G1TfqpnbE) | [on the way home](https://open.spotify.com/album/1h5gtqYpoaqnVm85KyYQJW) | 2:48 | 2022-07-28 |  |
 | [on the way home](https://open.spotify.com/track/43cXj7oRb5TsLh4AqEO1OF) | [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa), [Y\-2](https://open.spotify.com/artist/3Tn5cTqDZdc03G1TfqpnbE) | [on the way home](https://open.spotify.com/album/5EqWe1anZt6ZdshaRuW4Hq) | 2:48 | 2022-05-12 | 2022-07-26 |
@@ -407,6 +408,7 @@
 | [Sounds Like Love](https://open.spotify.com/track/4Ix70rkYSbbXfzqLk6lvRM) | [m\-al](https://open.spotify.com/artist/36uYgW4LAxNLllQq3NmoVJ) | [The Remixes Instrumental](https://open.spotify.com/album/52xioo3LkEQ7B1dfYD9SVl) | 4:00 | 2022-01-13 | 2022-06-29 |
 | [Sous les étoiles](https://open.spotify.com/track/2VGD6dKxBoh6Yq94XTidZg) | [Mayaewk](https://open.spotify.com/artist/20oT5LKCdO5vqCSgZ83OsQ) | [Sous les étoiles](https://open.spotify.com/album/0U29rwwf7QYM3vJIKeZCqj) | 1:38 | 2022-01-13 | 2022-05-27 |
 | [special](https://open.spotify.com/track/5YqgLosDBFzjeXUvNwCnQC) | [bird](https://open.spotify.com/artist/4UYTq2L0l4zfsUKe8BqeNs) | [special](https://open.spotify.com/album/5GfEDnVTeachHBtWYl4YTr) | 2:26 | 2022-01-13 |  |
+| [SPHERE](https://open.spotify.com/track/7z5sMgAaXOcToQhgynYjHG) | [gummy3000](https://open.spotify.com/artist/0q2gFnL3Jr1BlvwIeK29f7) | [SPHERE](https://open.spotify.com/album/5zpSPICBYaR5EX73CtD2a1) | 1:39 | 2022-09-22 |  |
 | [Spiritual State](https://open.spotify.com/track/1Q1onoQM04M590VO7aLOyt) | [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ), [The Champloo](https://open.spotify.com/artist/2qhjN0fdlNPZtCiP3MALRH) | [Spiritual State](https://open.spotify.com/album/3vJyN20ZkQ2x5YMjniVrwY) | 6:57 | 2022-04-21 |  |
 | [Spring Fever](https://open.spotify.com/track/0l5FtOj6LGeDykv7WM7gkR) | [VIDEOTAPEMUSIC](https://open.spotify.com/artist/7yyl43NN4h6ZFP1DnbzeaJ) | [Spring Fever](https://open.spotify.com/album/5GSSACeC1W7lg7aN8d1qnk) | 4:03 | 2022-07-28 |  |
 | [Spring Fever](https://open.spotify.com/track/2k21QRkejIDUk5b7K9YA27) | [VIDEOTAPEMUSIC](https://open.spotify.com/artist/7yyl43NN4h6ZFP1DnbzeaJ) | [Spring Fever](https://open.spotify.com/album/7wFqHdaHXqzKDepQNoh5EZ) | 4:03 | 2021-12-23 | 2022-07-26 |

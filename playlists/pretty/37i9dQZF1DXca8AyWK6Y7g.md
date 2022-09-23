@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca8AyWK6Y7g.md) - [plain]
 
 > living life in your 250 sq ft micro apt\. Cover: Dylan
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,423,416 likes - 150 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,423,469 likes - 150 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,8 +124,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca8AyWK6Y7g.md) - [plain]
 | 114 | [It Gets Dark](https://open.spotify.com/track/5DxVRNrKQJkjibB6jmUhej) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [It Gets Dark](https://open.spotify.com/album/4jEjxmfyDepTh4ObH2qJtr) | 3:23 |
 | 115 | [Nonsense](https://open.spotify.com/track/3MVIHbuVWx7MLRRdHWnd8j) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/0Qkz4dXVbm9MTpGTfO7zfg) | 2:43 |
 | 116 | [Glitter](https://open.spotify.com/track/6afganegJBNs44tGwIOgYQ) | [Daisy the Great](https://open.spotify.com/artist/0SrIPejckovMwhrN3MZFPB) | [Glitter](https://open.spotify.com/album/7lgPMiz220ZdI9hachYEvG) | 3:01 |
-| 117 | [Girl Who Does Both](https://open.spotify.com/track/1ewA2ju9VPzBSxG991vQHi) | [New Hope Club](https://open.spotify.com/artist/2WuKU0SYZOQyY3MmE4vtez) | [Getting Better](https://open.spotify.com/album/3x9smhttMTYsCi0vTJxLxz) | 2:50 |
-| 118 | [Trophy](https://open.spotify.com/track/0ocYQnByzoJWYyitslaBtm) | [TAELA](https://open.spotify.com/artist/0UpJN0IU36gOyMJLHYHTYq) | [Trophy](https://open.spotify.com/album/0uETltJ5TYMOFOxIr46SsZ) | 2:40 |
+| 117 | [Trophy](https://open.spotify.com/track/0ocYQnByzoJWYyitslaBtm) | [TAELA](https://open.spotify.com/artist/0UpJN0IU36gOyMJLHYHTYq) | [Trophy](https://open.spotify.com/album/0uETltJ5TYMOFOxIr46SsZ) | 2:40 |
+| 118 | [Girl Who Does Both](https://open.spotify.com/track/1ewA2ju9VPzBSxG991vQHi) | [New Hope Club](https://open.spotify.com/artist/2WuKU0SYZOQyY3MmE4vtez) | [Getting Better](https://open.spotify.com/album/3x9smhttMTYsCi0vTJxLxz) | 2:50 |
 | 119 | [let's run away](https://open.spotify.com/track/5IbySMDqxT2qILb666CCz0) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj), [Orion Song](https://open.spotify.com/artist/6o2v5odR8pVWajdW2tBesd), [Patrick Hizon](https://open.spotify.com/artist/7sH3l8uRghf9V149Gnu63X) | [let's run away](https://open.spotify.com/album/0sIrhXZSQwZ3H1cRzVD3Mk) | 3:25 |
 | 120 | [Strangers Forever](https://open.spotify.com/track/0mIvRrpvEg5NDJIEoXee1E) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Strangers Forever EP](https://open.spotify.com/album/6TnIod1gUSYfl8EMCgc93H) | 3:13 |
 | 121 | [Mouthwash](https://open.spotify.com/track/0qkX92NooHlyyucGb0yaF5) | [OSTON](https://open.spotify.com/artist/4PR77KtW5drJXCsqcyfuzJ) | [Melancholia](https://open.spotify.com/album/2DM6bydNkbiaQbxIxSTuhi) | 2:54 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca8AyWK6Y7g.md) - [plain]
 | 149 | [survival of the littest](https://open.spotify.com/track/3VtoWz29VkRNtCMKfn6VZv) | [NOT THE MAIN CHARACTERS](https://open.spotify.com/artist/3zXPbW06DXFBAToUstfD1V) | [bad things come in 3s](https://open.spotify.com/album/29NCAQcGId5b4HAJp87xCM) | 2:12 |
 | 150 | [Expiration Date](https://open.spotify.com/track/4gSeTIoKhkvGoebMtohlNC) | [NERIAH](https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG) | [Expiration Date](https://open.spotify.com/album/0qQxB4grsHTtUYCYlpUCFp) | 3:18 |
 
-Snapshot ID: `MTY2MzcxNzQ5OSwwMDAwMDAwMDZiY2ViNTI0YmFlNDBlZjJhOTcyMmQxMjY2M2U5NzUz`
+Snapshot ID: `MTY2MzcxNzQ5OSwwMDAwMDAwMDM4MTAzNTVmZmNmOTU3MmU2ODI2ZWIyNDE3NWYxYzQz`

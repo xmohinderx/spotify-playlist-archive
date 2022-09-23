@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5O5m2ypWiqa.md) - [plain]
 
 > ¡Y qué retumbe la bandona, pariente! Julión Álvarez y su Norteño Banda en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,485,526 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,486,165 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5O5m2ypWiqa.md) - [plain]
 | 19 | [El Amor No Fue Pa´ Mí \- En Vivo](https://open.spotify.com/track/3dkEwOKhFselY2m22Nj2vi) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Banda Coloso](https://open.spotify.com/artist/4SmIb5onxiijhyC8BilFED) | [El Amor No Fue Pa´ Mí \(En Vivo\)](https://open.spotify.com/album/2GmxvaOlvl9OSOW3FnVcbX) | 3:46 |
 | 20 | [Borracho de Amor](https://open.spotify.com/track/4fYNJdS986IYQWxVoZjY3A) | [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl) | [De Monterrey a Sinaloa](https://open.spotify.com/album/1RVvXaNvZedvPDVQfozH1I) | 3:24 |
 | 21 | [Te Hubieras Ido Antes](https://open.spotify.com/track/2jPufybqAAmiF16Jirt9Ez) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Soy Lo Que Quiero..\. Indispensable \(Edición Especial\)](https://open.spotify.com/album/4kWF9XKqqLONgYtUQ4alvb) | 3:11 |
-| 22 | [La Mejor De Todas](https://open.spotify.com/track/1F6BAyY4iIzHiZCnUIZDbn) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [La Mejor De Todas](https://open.spotify.com/album/6YeSYcQwO0BYw0bABVuGKW) | 3:27 |
-| 23 | [Nadie Como Tú](https://open.spotify.com/track/0cyP9Zil4WvqycKDRynmcP) | [Los 2 de la S](https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc) | [La Barda Me Volé](https://open.spotify.com/album/13SwxlksMXwzpK8iAafFDh) | 3:35 |
+| 22 | [Nadie Como Tú](https://open.spotify.com/track/0cyP9Zil4WvqycKDRynmcP) | [Los 2 de la S](https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc) | [La Barda Me Volé](https://open.spotify.com/album/13SwxlksMXwzpK8iAafFDh) | 3:35 |
+| 23 | [La Mejor De Todas](https://open.spotify.com/track/1F6BAyY4iIzHiZCnUIZDbn) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [La Mejor De Todas](https://open.spotify.com/album/6YeSYcQwO0BYw0bABVuGKW) | 3:27 |
 | 24 | [Quién Es Usted](https://open.spotify.com/track/4lac6b0JIjh4hQiW9IGKea) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [¿Quién Es Usted?](https://open.spotify.com/album/3NoapLHvTH6AlaSczk2e3o) | 3:33 |
 | 25 | [Por Mi No Te Detengas](https://open.spotify.com/track/3mV5TTtHnXUeOzRkyFKsVl) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Con Todas Las Fuerzas](https://open.spotify.com/album/265Gtj6TCk9UcWpyE2LDeM) | 3:45 |
 | 26 | [Aliado Del Tiempo](https://open.spotify.com/track/1rEdvfLrkCB4RqxI8D6ZNR) | [Mariano Barba](https://open.spotify.com/artist/0UOSIKhi6uZP7SVEJKYRMo) | [Un Cantautor Con Alma de Triunfador](https://open.spotify.com/album/4g2vkEYYuBVP72ZHbcxnU2) | 4:32 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5O5m2ypWiqa.md) - [plain]
 | 99 | [Para Impresionarte](https://open.spotify.com/track/3zhLYl0tIzHUx6UxD1KP0C) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Idolos De Mexico Para El Mundo](https://open.spotify.com/album/03QeaYk3AUCbRQFBQdXOZG) | 3:39 |
 | 100 | [Ignoraste Mis Lágrimas](https://open.spotify.com/track/12M4PzpcGsn49aJvxkaadh) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Mis Canciones de Amor](https://open.spotify.com/album/0JCDByU5HnFtMb2Ov4CJLV) | 2:54 |
 
-Snapshot ID: `MTY1ODE4NTAwOCwwMDAwMDAwMDBiOTE0MGMwODAwM2ZjMzlkZjNmZmUwZTgyMzNjZmQw`
+Snapshot ID: `MTY1ODE4NTAwOCwwMDAwMDAwMDQyZTUzOTRlNmYyYmQzYWY0NzlkZjZhYjg2NWU5NWJm`

@@ -1,12 +1,12 @@
 {
   "description": "A musical celebration of women in R&amp;B, from its earliest acts to its newest stars. Cover: Mary J. Blige",
-  "num_followers": 475868,
+  "num_followers": 476046,
   "original_name": "Women of R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mjc0ODkwNywwMDAwMDAwMDM5ZjBkY2JlZDhiYTY0YjAzZWQxM2E2Y2I4OWFiN2Vk",
+  "snapshot_id": "MTY2Mjc0ODkwNywwMDAwMDAwMGRmZjRhOTcxNWM4MmFlMGQzZTEzNzhkYzZhOTA4YmUz",
   "tracks": [
     {
       "added_at": "2022-03-08 19:58:52",
@@ -597,22 +597,6 @@
       "url": "https://open.spotify.com/track/3tZm76otWH20xzJC7icHCk"
     },
     {
-      "added_at": "2022-03-08 19:58:52",
-      "album": {
-        "name": "Age Ain't Nothing But A Number",
-        "url": "https://open.spotify.com/album/3E3QRjL4Cre7Krms420Irl"
-      },
-      "artists": [
-        {
-          "name": "Aaliyah",
-          "url": "https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4"
-        }
-      ],
-      "duration_ms": 291400,
-      "name": "At Your Best (You Are Love)",
-      "url": "https://open.spotify.com/track/4lRrk574qIHpoEEKC1zuam"
-    },
-    {
       "added_at": "2022-09-09 18:41:47",
       "album": {
         "name": "Spotify Singles",
@@ -627,6 +611,22 @@
       "duration_ms": 188989,
       "name": "Freak Like Me - Spotify Singles",
       "url": "https://open.spotify.com/track/7lxF9OOlLhxslC3BEDIMfB"
+    },
+    {
+      "added_at": "2022-03-08 19:58:52",
+      "album": {
+        "name": "Age Ain't Nothing But A Number",
+        "url": "https://open.spotify.com/album/3E3QRjL4Cre7Krms420Irl"
+      },
+      "artists": [
+        {
+          "name": "Aaliyah",
+          "url": "https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4"
+        }
+      ],
+      "duration_ms": 291400,
+      "name": "At Your Best (You Are Love)",
+      "url": "https://open.spotify.com/track/4lRrk574qIHpoEEKC1zuam"
     },
     {
       "added_at": "2022-03-08 19:58:52",
@@ -719,22 +719,6 @@
     {
       "added_at": "2022-03-08 19:58:52",
       "album": {
-        "name": "Crazy Tings",
-        "url": "https://open.spotify.com/album/1kphAJp2xhCv2IxfgWMKLR"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "Crazy Tings",
-      "url": "https://open.spotify.com/track/5VQagemEOLpJJikcLzDNYR"
-    },
-    {
-      "added_at": "2022-03-08 19:58:52",
-      "album": {
         "name": "Karma",
         "url": "https://open.spotify.com/album/13AioFwH1nNynbyO8AZW6L"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 176075,
       "name": "Karma",
       "url": "https://open.spotify.com/track/3qmm9AdG0TnShv0drgXNIQ"
+    },
+    {
+      "added_at": "2022-03-08 19:58:52",
+      "album": {
+        "name": "Crazy Tings",
+        "url": "https://open.spotify.com/album/1kphAJp2xhCv2IxfgWMKLR"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "Crazy Tings",
+      "url": "https://open.spotify.com/track/5VQagemEOLpJJikcLzDNYR"
     },
     {
       "added_at": "2022-03-08 19:58:52",
@@ -783,6 +783,26 @@
     {
       "added_at": "2022-03-08 19:58:52",
       "album": {
+        "name": "You're All I Need",
+        "url": "https://open.spotify.com/album/1i1HqvvJk7zGpNDygYlXQd"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        },
+        {
+          "name": "Tammi Terrell",
+          "url": "https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8"
+        }
+      ],
+      "duration_ms": 173866,
+      "name": "You're All I Need To Get By",
+      "url": "https://open.spotify.com/track/6Ndauo9gCxNjTfklsFYS7b"
+    },
+    {
+      "added_at": "2022-03-08 19:58:52",
+      "album": {
         "name": "I Feel for You",
         "url": "https://open.spotify.com/album/08yanJqA75TPyDowCXvvPU"
       },
@@ -811,26 +831,6 @@
       "duration_ms": 304160,
       "name": "If You Love Me",
       "url": "https://open.spotify.com/track/0BTGqPIW9acmhhUmENkq5r"
-    },
-    {
-      "added_at": "2022-03-08 19:58:52",
-      "album": {
-        "name": "You're All I Need",
-        "url": "https://open.spotify.com/album/1i1HqvvJk7zGpNDygYlXQd"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        },
-        {
-          "name": "Tammi Terrell",
-          "url": "https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8"
-        }
-      ],
-      "duration_ms": 173866,
-      "name": "You're All I Need To Get By",
-      "url": "https://open.spotify.com/track/6Ndauo9gCxNjTfklsFYS7b"
     },
     {
       "added_at": "2022-03-08 19:58:52",

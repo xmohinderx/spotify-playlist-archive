@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZel4xa7wX1s.md) - [plain]
 
 > Key words: Contemporary pop, legends, country music \- and something in between\. Just good tunes!
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,341 likes - 60 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,343 likes - 60 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZel4xa7wX1s.md) - [plain]
 | 19 | [If She Ever Leaves Me](https://open.spotify.com/track/7eU4GSfrANUlZBptlflhR5) | [The Highwomen](https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [The Highwomen](https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl) | 3:13 |
 | 20 | [Western Stars](https://open.spotify.com/track/58YZTutWhYcglUHl3Udnlj) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Western Stars](https://open.spotify.com/album/6BhqPpIgY83rqoZ2L78Lte) | 4:38 |
 | 21 | [Orphans](https://open.spotify.com/track/6muOWhMh7Tf0UFUtMDBhUR) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Orphans / Arabesque](https://open.spotify.com/album/6DX4K0afv5l01Pf6lymJuB) | 3:17 |
-| 22 | [The Big Unknown \(From "Widows"\)](https://open.spotify.com/track/3vvTGcClIV5mocdasOIDsb) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [The Big Unknown \(From "Widows"\)](https://open.spotify.com/album/19221iQ9OgS1T1SxaccBhl) | 4:21 |
-| 23 | [Ahimsa](https://open.spotify.com/track/588dEScku8LSP1Ubp2wyaG) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ), [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG) | [Ahimsa](https://open.spotify.com/album/7N2UQW7AWRh40cWqlB7JvL) | 3:50 |
+| 22 | [Ahimsa](https://open.spotify.com/track/588dEScku8LSP1Ubp2wyaG) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ), [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG) | [Ahimsa](https://open.spotify.com/album/7N2UQW7AWRh40cWqlB7JvL) | 3:50 |
+| 23 | [The Big Unknown \(From "Widows"\)](https://open.spotify.com/track/3vvTGcClIV5mocdasOIDsb) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [The Big Unknown \(From "Widows"\)](https://open.spotify.com/album/19221iQ9OgS1T1SxaccBhl) | 4:21 |
 | 24 | [Let Me Know](https://open.spotify.com/track/0HT2pC2Wcl2GGyDTcCWpLU) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [CLOSURE](https://open.spotify.com/album/6ujQJTTGKCCPdFjeTI4bIh) | 2:56 |
 | 25 | [Run Away from It All \- Acoustic](https://open.spotify.com/track/7MOTCiY8t7HHBwaBb2CafC) | [Blackberry Smoke](https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8) | [Run Away from It All \(Acoustic\)](https://open.spotify.com/album/67YBhDZbe4OOZNwMdXGT4e) | 4:27 |
 | 26 | [Until The Hurting Is Gone](https://open.spotify.com/track/3GeBvpzVmiqbKIAJZoffVc) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [1975](https://open.spotify.com/album/0rhChR1mcH1LVUCTm1JtHZ) | 3:17 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZel4xa7wX1s.md) - [plain]
 | 31 | [The Story We Used To Tell](https://open.spotify.com/track/5Sr9l180RmszDrCueohy3x) | [Buster Moe](https://open.spotify.com/artist/3nmEMu180oirieWGPt1fOf) | [The Story We Used To Tell](https://open.spotify.com/album/3vaR9t74RttIcLaf8OrI6s) | 3:38 |
 | 32 | [Friends](https://open.spotify.com/track/2yJBTToYK5LtQoFGzozCgM) | [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs) | [Still on My Mind](https://open.spotify.com/album/5AR3jURU3vmoJiGzpjY4Xn) | 3:23 |
 | 33 | [Pretty Bitchin'](https://open.spotify.com/track/5IhAJUu8ZEKOezGFaMeEmO) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Wildcard](https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn) | 3:31 |
-| 34 | [Prove You Wrong](https://open.spotify.com/track/4mWc6pp9qeSoQEZ2jYd7a0) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD), [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Threads](https://open.spotify.com/album/4b65ZJhMr04pEScAjHYpg7) | 3:41 |
-| 35 | [Didn't I](https://open.spotify.com/track/1GL3ydfG8v9m4jKiVx8UQ0) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT), [Bridget Cady](https://open.spotify.com/artist/5RJ60X53PX6NgZCCsYZ91Z) | [Blood Red Roses \(Deluxe Version\)](https://open.spotify.com/album/0ymt2BMulzLu7hAAolKVSa) | 4:00 |
+| 34 | [Didn't I](https://open.spotify.com/track/1GL3ydfG8v9m4jKiVx8UQ0) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT), [Bridget Cady](https://open.spotify.com/artist/5RJ60X53PX6NgZCCsYZ91Z) | [Blood Red Roses \(Deluxe Version\)](https://open.spotify.com/album/0ymt2BMulzLu7hAAolKVSa) | 4:00 |
+| 35 | [Prove You Wrong](https://open.spotify.com/track/4mWc6pp9qeSoQEZ2jYd7a0) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD), [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Threads](https://open.spotify.com/album/4b65ZJhMr04pEScAjHYpg7) | 3:41 |
 | 36 | [Sanremo](https://open.spotify.com/track/1tH4JALrku66weg6Bx5fC9) | [MIKA](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA) | [My Name Is Michael Holbrook](https://open.spotify.com/album/4bVlbOipapiqrTusSsgvIc) | 3:24 |
 | 37 | [Over The Hump](https://open.spotify.com/track/5VU0m0N5Y8kHJBjJp40Ipb) | [The Kelly Family](https://open.spotify.com/artist/5KU4DdFlZy6aiI5u6nhywP) | [25 Years Later](https://open.spotify.com/album/4QKirfSQTnnbswBaDl4tl8) | 3:47 |
 | 38 | [Tucson Train](https://open.spotify.com/track/4HK0sl3lqQH0RR0dA0ZQH5) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Western Stars](https://open.spotify.com/album/6BhqPpIgY83rqoZ2L78Lte) | 3:29 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZel4xa7wX1s.md) - [plain]
 | 59 | [Amazing](https://open.spotify.com/track/0JahrDBriRtoaO473f00rk) | [Paul Carrack](https://open.spotify.com/artist/0FFuvdY7fuiuTmHN9unYoz) | [These Days](https://open.spotify.com/album/0OyJRO76yPcp9woysD5VT6) | 4:01 |
 | 60 | [Loves Missing](https://open.spotify.com/track/78W2JgujSHp98M87UJkcjM) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Free](https://open.spotify.com/album/2aRxolqVA2v2TFeuWPIuEI) | 4:19 |
 
-Snapshot ID: `MTU3NTAyMDI3NSwwMDAwMDAwMDQ1NjBhNWI5YzcyYWI5NjRiYmZmODg5ZDEyNWMwMTc4`
+Snapshot ID: `MTU3NTAyMDI3NSwwMDAwMDAwMDdjNjExZjEwZDFjMjQxZDNkZTY5MzUxM2UyMDZhYmE3`

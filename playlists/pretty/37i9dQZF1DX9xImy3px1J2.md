@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xImy3px1J2.md) - [plain]
 
 > Questa è la tua notte, balla fino al mattino tra hit dance e ritmi latini.
 
-[Spotify](https://open.spotify.com/user/spotify) - 301,971 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 301,985 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xImy3px1J2.md) - [plain]
 | 38 | [Don't Call Me Up](https://open.spotify.com/track/5WHTFyqSii0lmT9R21abT8) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Ivy To Roses \(Mixtape\)](https://open.spotify.com/album/0syM7OUAhV7S6XmOa4nLUZ) | 2:58 |
 | 39 | [Piece Of Your Heart](https://open.spotify.com/track/1DFD5Fotzgn6yYXkYsKiGs) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Piece Of Your Heart](https://open.spotify.com/album/0cqRGWD3uc5Lggpducn5nD) | 2:32 |
 | 40 | [Loco](https://open.spotify.com/track/6PDlkWmrq2ZKiUuFt2aQsH) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Loco](https://open.spotify.com/album/0Aq33KpcbXrHkuyfMhEORI) | 3:51 |
-| 41 | [BUBBLE \(feat\. thasup & Salmo\)](https://open.spotify.com/track/3fIB4IEcvjlzItwnFUvIBk) | [Takagi & Ketra](https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx), [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [BUBBLE \(feat\. thasup & Salmo\)](https://open.spotify.com/album/2yuspE1GL8YQLrOboKtwWp) | 2:44 |
-| 42 | [China](https://open.spotify.com/track/2ksOAxtIxY8yElEWw8RhgK) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [China](https://open.spotify.com/album/1PTTAq0OxggVgqP5WTYWDh) | 5:01 |
+| 41 | [China](https://open.spotify.com/track/2ksOAxtIxY8yElEWw8RhgK) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [China](https://open.spotify.com/album/1PTTAq0OxggVgqP5WTYWDh) | 5:01 |
+| 42 | [BUBBLE \(feat\. thasup & Salmo\)](https://open.spotify.com/track/3fIB4IEcvjlzItwnFUvIBk) | [Takagi & Ketra](https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx), [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [BUBBLE \(feat\. thasup & Salmo\)](https://open.spotify.com/album/2yuspE1GL8YQLrOboKtwWp) | 2:44 |
 | 43 | [Suavemente](https://open.spotify.com/track/7Bz5B6hEU5TS145QYTfc3k) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Boro Boro](https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu) | [Suavemente](https://open.spotify.com/album/6RfOBcxexu6ZYIUS9HG9Al) | 2:37 |
 | 44 | [In Da Getto](https://open.spotify.com/track/63aj87TQG6F3RVO5nbG2VQ) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [In Da Getto](https://open.spotify.com/album/2M7g0SNXnSq7j5BgYJYJsl) | 2:11 |
 | 45 | [My Heart Goes \(La Di Da\) \(feat\. Topic\)](https://open.spotify.com/track/4xMbBESczlHPUO8QeYi56p) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ) | [My Heart Goes \(La Di Da\) \(feat\. Topic\)](https://open.spotify.com/album/3xDukGLEHBX2uylxb6S9jc) | 2:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xImy3px1J2.md) - [plain]
 | 49 | [Baila Conmigo](https://open.spotify.com/track/3KruoUtSkm84Az0bJunnxl) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Baila Conmigo](https://open.spotify.com/album/00RgZ3hZH9WpvBksu2hx5G) | 2:26 |
 | 50 | [Here With Me](https://open.spotify.com/track/5icOoE6VgqFKohjWWNp0Ac) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Here With Me](https://open.spotify.com/album/6NHS3hV16MZyfcp0nSHdrd) | 2:36 |
 
-Snapshot ID: `MTY2Mjk4NDcxOSwwMDAwMDAwMDcxYWU1Y2RhZGU3MTFiNzFlYjI4ZTc0YjcyYjM4N2Iw`
+Snapshot ID: `MTY2Mjk4NDcxOSwwMDAwMDAwMGIyNzBhYjk1YWI5OTlkM2NkOWM5MDk4ZWYyMTRjYzdl`

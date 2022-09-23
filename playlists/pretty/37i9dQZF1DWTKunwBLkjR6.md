@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKunwBLkjR6.md) - [plain]
 
 > Soundtrack your 2022 resolutions with Joie Chavis.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,837 likes - 40 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,839 likes - 40 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKunwBLkjR6.md) - [plain]
 | 23 | [Ballin' \(with Roddy Ricch\)](https://open.spotify.com/track/3QzAOrNlsabgbMwlZt7TAY) | [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Perfect Ten](https://open.spotify.com/album/2WrNHOba5u6P9S9xEboaUy) | 3:00 |
 | 24 | [Wish Wish \(feat\. Cardi B & 21 Savage\)](https://open.spotify.com/track/1Hd2XLitkt1PYCWSbfF5qV) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Father Of Asahd](https://open.spotify.com/album/1YgX8BWKleDlDeCOFklRfz) | 3:22 |
 | 25 | [Clout \(feat\. Cardi B\)](https://open.spotify.com/track/59ywHNwwchG4nZJMLyxSzd) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [FATHER OF 4](https://open.spotify.com/album/6bPpXqJRpjwy0hLyUGtzYc) | 3:25 |
-| 26 | [6 Foot 7 Foot](https://open.spotify.com/track/6BCs8vxnGgKL9eMCOrG2wm) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Cory Gunz](https://open.spotify.com/artist/7BAaznGSsqcksud4R5ou5z) | [Tha Carter IV](https://open.spotify.com/album/1MGEMBqM3v8OUM2glv7MSx) | 4:08 |
+| 26 | [6 Foot 7 Foot](https://open.spotify.com/track/5Qy6a5KzM4XlRxsNcGYhgH) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Cory Gunz](https://open.spotify.com/artist/7BAaznGSsqcksud4R5ou5z) | [Tha Carter IV \(Complete Edition\)](https://open.spotify.com/album/0pFydyko4Iw450abXlDPpp) | 4:08 |
 | 27 | [Litty \(feat\. Tory Lanez\)](https://open.spotify.com/track/5J5PXmMdQ2nh1lZOal8KmK) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Sound M.O.B.](https://open.spotify.com/artist/4yLuE0l9rK7fqijTb7BPh9), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [DC4](https://open.spotify.com/album/6sNbRwX0lZREkdmUSDsVzo) | 4:40 |
 | 28 | [Bae](https://open.spotify.com/track/0MSO8zh09EAFtZz1E9jOEh) | [O.T\. Genasis](https://open.spotify.com/artist/1Zatb2YN4erBOoSivOXc0o) | [Bae](https://open.spotify.com/album/5k4hfzHlSIVG4qoE8kyPjq) | 2:36 |
 | 29 | [Going Bad \(feat\. Drake\)](https://open.spotify.com/track/2IRZnDFmlqMuOrYOLnZZyc) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Championships](https://open.spotify.com/album/6UYZEYjpN1DYRW0kqFy9ZE) | 3:00 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKunwBLkjR6.md) - [plain]
 | 39 | [NEON PEACH feat\. Tyler, The Creator](https://open.spotify.com/track/5PF2WtSZV4EtmGx4oER1zt) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [TEMPORARY HIGHS IN THE VIOLET SKIES](https://open.spotify.com/album/57ttk3xzHMWLr6CGrEa8F3) | 3:12 |
 | 40 | [Essence \(feat\. Tems\)](https://open.spotify.com/track/5FG7Tl93LdH117jEKYl3Cm) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 4:08 |
 
-Snapshot ID: `MTY0MjAwMDc2NywwMDAwMDAwMDkwZTdjMDg4ZDQ3ZjUwMjJiZTcxZjBjZTEzMmU0OWE5`
+Snapshot ID: `MTY0MjAwMDc2NywwMDAwMDAwMGZlOGNmYmJkMzAzOTBmODhlM2U0MTIzMzQ3OTYxYmI3`

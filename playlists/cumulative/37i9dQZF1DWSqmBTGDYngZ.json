@@ -16454,6 +16454,24 @@
     },
     {
       "album": {
+        "name": "The Thrill Of It All (Special Edition)",
+        "url": "https://open.spotify.com/album/3XftSbguntyRTBQaGItmfK"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "Too Good At Goodbyes",
+      "url": "https://open.spotify.com/track/3VlbOrM6nYPprVvzBZllE5"
+    },
+    {
+      "album": {
         "name": "Flicker (Deluxe)",
         "url": "https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p"
       },
@@ -18861,7 +18879,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 300773,
       "name": "You Get What You Give",
       "url": "https://open.spotify.com/track/1Cwsd5xI8CajJz795oy4XF"

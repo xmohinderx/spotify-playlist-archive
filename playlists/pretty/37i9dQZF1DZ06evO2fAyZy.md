@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fAyZy.md) - [plain]
 
 > This is Kelsea Ballerini\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,073 likes - 33 songs - 1 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,112 likes - 33 songs - 1 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [HEARTFIRST](https://open.spotify.com/track/1S55d7hhptRt8PS6nC1fSY) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [HEARTFIRST](https://open.spotify.com/album/34lEWEkrMZmB2WTzMXsk2s) | 3:07 |
-| 2 | [This Feeling](https://open.spotify.com/track/4NBTZtAt1F13VvlSKe6KTl) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Sick Boy](https://open.spotify.com/album/6ZvDJs17O3woQirttKRYCG) | 3:17 |
-| 3 | [I Quit Drinking](https://open.spotify.com/track/6OcCk1dbAb7XNHsC098oEM) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [I Quit Drinking](https://open.spotify.com/album/5c5S9cyjHKBQRm1DGU1E8J) | 2:51 |
+| 2 | [I Quit Drinking](https://open.spotify.com/track/6OcCk1dbAb7XNHsC098oEM) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [I Quit Drinking](https://open.spotify.com/album/5c5S9cyjHKBQRm1DGU1E8J) | 2:51 |
+| 3 | [This Feeling](https://open.spotify.com/track/4NBTZtAt1F13VvlSKe6KTl) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Sick Boy](https://open.spotify.com/album/6ZvDJs17O3woQirttKRYCG) | 3:17 |
 | 4 | [half of my hometown \(feat\. Kenny Chesney\)](https://open.spotify.com/track/1yRke3PmsyFrYlFZOAkABk) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [kelsea](https://open.spotify.com/album/11sr6VmBTa9Tkzwte11LDZ) | 3:51 |
 | 5 | [Peter Pan](https://open.spotify.com/track/2wqXQjOmQ9KoBm9Ssgt4Fo) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [The First Time](https://open.spotify.com/album/4smRLX0wglNhMXGyahWuUf) | 3:20 |
 | 6 | [LOVE IS A COWBOY](https://open.spotify.com/track/0syI1uKOPmjaRAdnpC1LUr) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [LOVE IS A COWBOY](https://open.spotify.com/album/2DNSEaiDOlocUHvQn37ylQ) | 2:43 |
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fAyZy.md) - [plain]
 | 24 | [Xo](https://open.spotify.com/track/2sYJeORxYzEQItfa9VmiwZ) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [The First Time](https://open.spotify.com/album/4smRLX0wglNhMXGyahWuUf) | 2:54 |
 | 25 | [I Think I Fell in Love Today](https://open.spotify.com/track/5ZdZVXpB7hLKPwx1xhb6q3) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Unapologetically \(Deluxe Edition\)](https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA) | 2:32 |
 | 26 | [Center Point Road](https://open.spotify.com/track/7p9zIciejn8GXnsRdG9EQR) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Center Point Road](https://open.spotify.com/album/5gnWhEFNbtCn0RLG2cp90g) | 3:36 |
-| 27 | [club](https://open.spotify.com/track/0SzOCqaLfsLODI4blj7cbx) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [kelsea](https://open.spotify.com/album/11sr6VmBTa9Tkzwte11LDZ) | 3:01 |
+| 27 | [overshare](https://open.spotify.com/track/7exnPa3Da17WUEVuZwO3xp) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [kelsea](https://open.spotify.com/album/11sr6VmBTa9Tkzwte11LDZ) | 2:50 |
 | 28 | [We Were Like](https://open.spotify.com/track/5wdwd46vdGxRsy6tBRCSAY) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [We Were Like](https://open.spotify.com/album/0yJAsGozlILYqinG4rzjKc) | 3:00 |
 | 29 | [Unapologetically](https://open.spotify.com/track/6DeMC9qUOznRorpgNW6dYe) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Unapologetically \(Deluxe Edition\)](https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA) | 3:38 |
 | 30 | [Stilettos](https://open.spotify.com/track/2q1VQXH254t7zGWpZOQU8x) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [The First Time](https://open.spotify.com/album/4smRLX0wglNhMXGyahWuUf) | 3:26 |
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fAyZy.md) - [plain]
 | 32 | [First Time Again](https://open.spotify.com/track/2aPIgCNuLT9TWUN9be2rpR) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH), [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [They Don't Know](https://open.spotify.com/album/64IFfMf7W67CLvXaYeRNB6) | 3:24 |
 | 33 | [Music](https://open.spotify.com/track/6PCPxCkN8ClnHN1AESmSJg) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Unapologetically \(Deluxe Edition\)](https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA) | 3:23 |
 
-Snapshot ID: `Mjc3Mjk0NTIsMDAwMDAwMDAzOGM4MGE2MmVjMDZkZGRjMWI3ODliYTRmZTUzOGU5ZA==`
+Snapshot ID: `Mjc3MzA5MDEsMDAwMDAwMDAzY2M3NzAxNTcyZjVhNDM0MzM1YTViODY4ZTYyMjg1OA==`

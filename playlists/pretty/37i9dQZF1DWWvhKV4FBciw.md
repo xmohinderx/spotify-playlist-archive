@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvhKV4FBciw.md) - [plain]
 
 > A selection of the greatest funk & soul records ever made.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,356,863 likes - 80 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,357,497 likes - 80 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,11 +40,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvhKV4FBciw.md) - [plain]
 | 30 | [Tired of Being Alone](https://open.spotify.com/track/10vkYRKw6Jjr7try1ir50G) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Gets Next to You](https://open.spotify.com/album/6A2T77SSF5TUglshWSQAiC) | 2:52 |
 | 31 | [I'm Every Woman](https://open.spotify.com/track/1oFiPGBafH9Woo9AMwgBSl) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Chaka](https://open.spotify.com/album/2lvaLIoEg3hwL2dybu6zTC) | 4:09 |
 | 32 | [Baby Love](https://open.spotify.com/track/5uES1C2NgkdrNHiCwf9jRr) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [Where Did Our Love Go](https://open.spotify.com/album/05pI1Rx1HQ4KA0a0e3PJlV) | 2:38 |
-| 33 | [Isn't She Lovely](https://open.spotify.com/track/6RANU8AS5ICU5PEHh8BYtH) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Songs In The Key Of Life](https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0) | 6:34 |
+| 33 | [Fantasy \- Single Version](https://open.spotify.com/track/0Eq4BMgsdV6DkLSJfX8eBt) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [The Best Of Earth, Wind & Fire Vol\. 1](https://open.spotify.com/album/2FW0uQ4WL25umm5p2VrZO7) | 3:46 |
 | 34 | [What's Going On](https://open.spotify.com/track/3Um9toULmYFGCpvaIPFw7l) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [What's Going On](https://open.spotify.com/album/2v6ANhWhZBUKkg6pJJBs3B) | 3:53 |
 | 35 | [Soul Man](https://open.spotify.com/track/4eGHlplaq1ME8oetnTuFFf) | [Sam & Dave](https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2) | [Soul Men](https://open.spotify.com/album/1DThdjKvkvxYaqlDUnQGzK) | 2:39 |
 | 36 | [Everyday People](https://open.spotify.com/track/4ZVZBc5xvMyV3WzWktn8i7) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Stand](https://open.spotify.com/album/7iwS1r6JHYJe9xpPjzmWqD) | 2:21 |
-| 37 | [Fantasy \- Single Version](https://open.spotify.com/track/0Eq4BMgsdV6DkLSJfX8eBt) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [The Best Of Earth, Wind & Fire Vol\. 1](https://open.spotify.com/album/2FW0uQ4WL25umm5p2VrZO7) | 3:46 |
+| 37 | [Isn't She Lovely](https://open.spotify.com/track/6RANU8AS5ICU5PEHh8BYtH) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Songs In The Key Of Life](https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0) | 6:34 |
 | 38 | [How Long Do I Have to Wait for You?](https://open.spotify.com/track/113bLFbp3F9MVN0w2KJ1ma) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Naturally](https://open.spotify.com/album/1xwNW7Q1daqJ8LNgymY04y) | 4:03 |
 | 39 | [Mr\. Big Stuff](https://open.spotify.com/track/2Bls0igCm79XQQ95IoUbhq) | [Jean Knight](https://open.spotify.com/artist/2Tk0pWxTuQgnE5nsUexrLr) | [Mr\. Big Stuff](https://open.spotify.com/album/0p86nom1q9716gzstS4Y5e) | 2:44 |
 | 40 | [In the Midnight Hour](https://open.spotify.com/track/4NRQwaks9r58tTDvr4iEyv) | [Wilson Pickett](https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE) | [In the Midnight Hour](https://open.spotify.com/album/1L6fHKTQAogglo3coyo8yU) | 2:37 |
@@ -77,16 +77,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvhKV4FBciw.md) - [plain]
 | 67 | [Proud Mary](https://open.spotify.com/track/4ppxp8rJB8eOhM9TFm6dK2) | [Ike & Tina Turner](https://open.spotify.com/artist/1ZikppG9dPedbIgMfnfx8k) | [Workin' Together](https://open.spotify.com/album/5BFTZqoJ1aCn80FKB0GkXL) | 4:57 |
 | 68 | [The Boss](https://open.spotify.com/track/6LzjgzpVl0hB3YrBU1b8Z1) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW), [The J.B.'s](https://open.spotify.com/artist/4lJHGi5dlJmWwFH0JKF6di) | [Black Caesar](https://open.spotify.com/album/3Eiwyp3EB66AuXjBI2MYZI) | 3:14 |
 | 69 | [Love Rollercoaster](https://open.spotify.com/track/1hRDHWWealh2Pk3fnpIe75) | [Ohio Players](https://open.spotify.com/artist/6m30rs1IQqnWqV5nKMpU7U) | [Honey](https://open.spotify.com/album/6cdbsUYFysGXOh5fqWpIuR) | 4:50 |
-| 70 | [Theme From Shaft \- Remastered](https://open.spotify.com/track/7KMILVTQdVS4zQ8ilTcpRO) | [Isaac Hayes](https://open.spotify.com/artist/3IKV7o6WPphDB7cCWXaG3E) | [Shaft \(Deluxe Edition\)](https://open.spotify.com/album/5HAXYSqdNjjbvoFrXwtrBw) | 4:39 |
-| 71 | [Cissy Strut](https://open.spotify.com/track/0WSlOSMLJWoWUpWci9nnRb) | [The Meters](https://open.spotify.com/artist/2JRvXPGWiINrnJljNJhG5s) | [The Meters](https://open.spotify.com/album/1Nt14TE6bKZGzJrROip36y) | 3:06 |
-| 72 | [Right Place Wrong Time](https://open.spotify.com/track/0I2ELF6uHlL4ABu9aFiou7) | [Dr\. John](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO) | [In The Right Place](https://open.spotify.com/album/1b1ljTXAkcugOLAHkIi7Eq) | 2:55 |
+| 70 | [Right Place Wrong Time](https://open.spotify.com/track/0I2ELF6uHlL4ABu9aFiou7) | [Dr\. John](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO) | [In The Right Place](https://open.spotify.com/album/1b1ljTXAkcugOLAHkIi7Eq) | 2:55 |
+| 71 | [Theme From Shaft \- Remastered](https://open.spotify.com/track/7KMILVTQdVS4zQ8ilTcpRO) | [Isaac Hayes](https://open.spotify.com/artist/3IKV7o6WPphDB7cCWXaG3E) | [Shaft \(Deluxe Edition\)](https://open.spotify.com/album/5HAXYSqdNjjbvoFrXwtrBw) | 4:39 |
+| 72 | [Cissy Strut](https://open.spotify.com/track/0WSlOSMLJWoWUpWci9nnRb) | [The Meters](https://open.spotify.com/artist/2JRvXPGWiINrnJljNJhG5s) | [The Meters](https://open.spotify.com/album/1Nt14TE6bKZGzJrROip36y) | 3:06 |
 | 73 | [Baltimore](https://open.spotify.com/track/39CyGKIFqMzSuynOR8uilD) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Baltimore](https://open.spotify.com/album/4UjcMSiyv8QCiZ4O8gpzXS) | 4:38 |
 | 74 | [Take Yo' Praise](https://open.spotify.com/track/2c4zwlPMc5dHS3Kg6oeUjk) | [Camille Yarbrough](https://open.spotify.com/artist/1bSCGVnnijnSf8R9maUeJ9) | [The Iron Pot Cooker](https://open.spotify.com/album/6l2ADv76CuJhDg0gCsbSbo) | 4:13 |
 | 75 | [Give Up The Funk \(Tear The Roof Off The Sucker\)](https://open.spotify.com/track/4XRkQloZFcRrCONN7ZQ49Y) | [Parliament](https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH) | [Mothership Connection](https://open.spotify.com/album/4q1HNSka8CzuLvC8ydcsD2) | 5:48 |
 | 76 | [Baby, Please Don't Go \(feat\. Van Morrison\)](https://open.spotify.com/track/5WUgOOaTk00PnksDekcgcg) | [Them](https://open.spotify.com/artist/5BaHqGtf6UAZnHfqdPaTDA), [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Complete Them \(1964\-1967\) \(feat\. Van Morrison\)](https://open.spotify.com/album/0I5bDXICWz4idoFkxv0W4Z) | 2:42 |
-| 77 | [Express Yourself](https://open.spotify.com/track/4pW3aTX3kAmOaPJfc9UM12) | [Charles Wright & The Watts 103rd Street Rhythm Band](https://open.spotify.com/artist/2t0kaaDtGZtmpczIAMaVTQ) | [Express Yourself](https://open.spotify.com/album/2aUItMxwVnUJg4btjcUxC5) | 3:53 |
-| 78 | [Across 110th Street](https://open.spotify.com/track/2zyTP97uGsIc1C4KNNEkyn) | [Bobby Womack](https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq) | [Midnight Mover: The Bobby Womack Story](https://open.spotify.com/album/7eVKCG0KD8FCvIlx8E1pBG) | 3:50 |
+| 77 | [Across 110th Street](https://open.spotify.com/track/2zyTP97uGsIc1C4KNNEkyn) | [Bobby Womack](https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq) | [Midnight Mover: The Bobby Womack Story](https://open.spotify.com/album/7eVKCG0KD8FCvIlx8E1pBG) | 3:50 |
+| 78 | [Express Yourself](https://open.spotify.com/track/4pW3aTX3kAmOaPJfc9UM12) | [Charles Wright & The Watts 103rd Street Rhythm Band](https://open.spotify.com/artist/2t0kaaDtGZtmpczIAMaVTQ) | [Express Yourself](https://open.spotify.com/album/2aUItMxwVnUJg4btjcUxC5) | 3:53 |
 | 79 | [Stomp! \- Single Version](https://open.spotify.com/track/3EG65y2LtxWjfydabHdItb) | [The Brothers Johnson](https://open.spotify.com/artist/6h3rSZ8VLK7a5vXjEmhfuD) | [Strawberry Letter 23: The Very Best Of The Brothers Johnson](https://open.spotify.com/album/4DUmxqvkQn3UJgDLjlYsyX) | 4:07 |
 | 80 | [I Can't Stand the Rain](https://open.spotify.com/track/0CcL4kSHKIEwF3IW0BGgb6) | [Ann Peebles](https://open.spotify.com/artist/5dM7jA0PXh0Ozz8LT2YOCB) | [I Can't Stand the Rain](https://open.spotify.com/album/67Sjm7EwrWbnnyojmhP4KL) | 2:30 |
 
-Snapshot ID: `MTU5OTczMDIzOSwwMDAwMDAwMGNkYWVjZWMxOThjY2M0YzA2ZTI5ZDc0NWVlZTk0NzJi`
+Snapshot ID: `MTU5OTczMDIzOSwwMDAwMDAwMDM1ZjdiMjllOGMzMTM0MTI3NGI0MTcwOGY5ZWE3ODVi`

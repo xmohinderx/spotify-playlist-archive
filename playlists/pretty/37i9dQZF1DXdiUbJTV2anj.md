@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiUbJTV2anj.md) - [plain]
 
 > Heavy new bands you need to have an eye on\. Cover: WARGASM \(UK\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,447 likes - 51 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,562 likes - 51 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiUbJTV2anj.md) - [plain]
 | 13 | [Static Abyss](https://open.spotify.com/track/7uovzMDpYCrhVd9EtXWDHQ) | [Nicolas Cage Fighter](https://open.spotify.com/artist/4JkTiXry8oQXwcOmEdqAPl) | [The Bones That Grew from Pain](https://open.spotify.com/album/7GzN1P1QFtMNIp3p6ZQEFe) | 3:47 |
 | 14 | [Thanatos](https://open.spotify.com/track/1nckYgkJGeJFvcEwKrSCe7) | [Dead/Awake](https://open.spotify.com/artist/2Mtcd92iGg5ZXYaSUhZEQm) | [Thanatos](https://open.spotify.com/album/1SwglEKNRXgmlGP3csWSJV) | 2:56 |
 | 15 | [RATATATA](https://open.spotify.com/track/69MHdGzxzt4GMliiXqpWn4) | [Wake up Frankie](https://open.spotify.com/artist/0a3b8EtIuUttBtZ2mIhLuv) | [RATATATA](https://open.spotify.com/album/4lvR3TmGeAdG6CesUqaPBd) | 3:27 |
-| 16 | [Lovecraft](https://open.spotify.com/track/4qkm2L5ytrdyWZSSTCV8x5) | [Confessions of a Traitor](https://open.spotify.com/artist/3XxTiLhFGMsWvVfpZ7KlF9) | [Lovecraft](https://open.spotify.com/album/7JZIeHDXrDEUOwBBTpOZdC) | 3:43 |
+| 16 | [Lovecraft](https://open.spotify.com/track/5XMJ0iPqfYdVSAMZaZu6x3) | [Confessions of a Traitor](https://open.spotify.com/artist/3XxTiLhFGMsWvVfpZ7KlF9) | [Punishing Myself Before God Does](https://open.spotify.com/album/222AtgmkJIArvoRoP5KC8S) | 3:43 |
 | 17 | [Still Waiting](https://open.spotify.com/track/5L6GZ6mFm4q0ZM4hhE8JJt) | [We're Wolves](https://open.spotify.com/artist/73hZY77xQYtJsTrslIzy7v) | [Still Waiting](https://open.spotify.com/album/7MnKb71wfwCK6QNVQdefI9) | 2:40 |
 | 18 | [Toxic](https://open.spotify.com/track/5yPoXFHbffwThUvx0ssfFZ) | [Charlotte Wessels](https://open.spotify.com/artist/6yyPaE45AE346XVgFJgiaI) | [Toxic](https://open.spotify.com/album/1o7TaQ4EMPhF8wHpUFv08z) | 3:10 |
 | 19 | [Tiny Disappointments](https://open.spotify.com/track/1pfAi5l2hIvVoBN13s1Gbj) | [The Offering](https://open.spotify.com/artist/69gpxGPOo7OguSCeHSlO9C) | [Tiny Disappointments](https://open.spotify.com/album/4itHsRrDzMue3SKuVcIoCw) | 6:36 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiUbJTV2anj.md) - [plain]
 | 50 | [Servant](https://open.spotify.com/track/3FG2lpxvJulguHUn7G5f2V) | [Horizon Ignited](https://open.spotify.com/artist/6ckq60ZYOQgb3qpcBIWt1E) | [Servant](https://open.spotify.com/album/6DgCalvMdxS4cGDMLxXRAt) | 3:00 |
 | 51 | [Rōnin](https://open.spotify.com/track/11ArWSwCKdG9P0ZAzDlS2G) | [Ibaraki](https://open.spotify.com/artist/2KfAvhpbfc8YkLBj6w3hfU), [Gerard Way](https://open.spotify.com/artist/4YZ5ECfbM2xSTSQTJGBbO5) | [Rōnin](https://open.spotify.com/album/6QxmiqZTHh35bUPiYtgXgc) | 9:13 |
 
-Snapshot ID: `MTY2MzMzMzIwMCwwMDAwMDAwMGExNDYzNmViMGRhNWEwYjUyYzAyMmE5MjAyYjExMWIx`
+Snapshot ID: `MTY2MzMzMzIwMCwwMDAwMDAwMDU4M2U0MjZjYzZhNjZhYzI2YzNlZmRhZjcwYzJkOTA2`

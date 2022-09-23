@@ -4,7 +4,7 @@
 
 > Make your shower more uplifting by singing along to these hits.
 
-1,019 songs - 2 day 16 hr 30 min - [published](https://open.spotify.com/playlist/0bWbbMf6QMS9BYmS1mWwHB)
+1,020 songs - 2 day 16 hr 33 min - [published](https://open.spotify.com/playlist/0bWbbMf6QMS9BYmS1mWwHB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -877,6 +877,7 @@
 | [To Be With You](https://open.spotify.com/track/0Yi128S6QgQDnAKg5A0OZw) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Deep Cuts: The Best Of The Ballads](https://open.spotify.com/album/0DYLNt604AgwFMQhK3HNLR) | 3:28 | 2019-06-22 | 2021-05-22 |
 | [To Be With You \- 2010 Remastered Version](https://open.spotify.com/track/3Mmt6Xk0H6VR92PEp6x3hP) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Lean Into It \[Expanded\]](https://open.spotify.com/album/6CrjpyjlfjK95oHF6dvEnQ) | 3:30 | 2021-12-10 | 2022-04-20 |
 | [Too Good At Goodbyes](https://open.spotify.com/track/1mXVgsBdtIVeCLJnSnmtdV) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3TJz2UBNYJtlEly0sPeNrQ) | 3:21 | 2022-02-22 | 2022-07-29 |
+| [Too Good At Goodbyes](https://open.spotify.com/track/3VlbOrM6nYPprVvzBZllE5) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3XftSbguntyRTBQaGItmfK) | 3:21 | 2022-09-09 |  |
 | [Too Much To Ask](https://open.spotify.com/track/39jXnbACjiaiTwwhsr5sY5) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Flicker \(Deluxe\)](https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p) | 3:43 | 2021-10-08 | 2021-10-16 |
 | [Torn](https://open.spotify.com/track/0KDaN0HL3TcJVTbXlQCEsS) | [Natalie Imbruglia](https://open.spotify.com/artist/0dlOr0VIysztGWvU1dpjmP) | [Left Of The Middle](https://open.spotify.com/album/6HOvWskl058duikMCVOLcW) | 4:04 | 2019-06-19 | 2021-03-22 |
 | [Torn](https://open.spotify.com/track/1Jaah2tmN9Hv81A87KZ1MU) | [Natalie Imbruglia](https://open.spotify.com/artist/0dlOr0VIysztGWvU1dpjmP) | [Left Of The Middle](https://open.spotify.com/album/38alWeQVP9UUAGJvLptys9) | 4:04 | 2021-03-21 |  |
@@ -1005,7 +1006,7 @@
 | [You Can't Hurry Love](https://open.spotify.com/track/1OppEieGNdItZbE14gLBEv) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [The Supremes A' Go\-Go \(Expanded Edition\)](https://open.spotify.com/album/5fpOmAuZaVyEXPlQ4oOqJ6) | 2:47 | 2019-06-19\* | 2022-04-20 |
 | [You Can't Hurry Love \- 2016 Remaster](https://open.spotify.com/track/4YwbSZaYeYja8Umyt222Qf) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [Hello, I Must Be Going! \(Deluxe Edition\)](https://open.spotify.com/album/6sn6eWmPciSiHj0ltTBl7M) | 2:55 | 2020-04-08 |  |
 | [You Don't Know Me](https://open.spotify.com/track/1rFMYAZxBoAKSzXI54brMu) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [You Don't Know Me](https://open.spotify.com/album/3gdmWRWWJmkp5uMBXf755B) | 3:33 | 2021-03-02 | 2021-05-28 |
-| [You Get What You Give](https://open.spotify.com/track/1Cwsd5xI8CajJz795oy4XF) | [New Radicals](https://open.spotify.com/artist/0Grjlu7ncIuCaSYvCs9fcd) | [Maybe You've Been Brainwashed Too](https://open.spotify.com/album/13btXEnBerpA1UjIVtsMAR) | 5:00 | 2022-07-07 |  |
+| [You Get What You Give](https://open.spotify.com/track/1Cwsd5xI8CajJz795oy4XF) | [New Radicals](https://open.spotify.com/artist/0Grjlu7ncIuCaSYvCs9fcd) | [Maybe You've Been Brainwashed Too](https://open.spotify.com/album/13btXEnBerpA1UjIVtsMAR) | 5:00 | 2022-07-07 | 2022-09-23 |
 | [You Get What You Give](https://open.spotify.com/track/32lF1rsInDTdK6Av3KdfaY) | [New Radicals](https://open.spotify.com/artist/0Grjlu7ncIuCaSYvCs9fcd) | [Maybe You've Been Brainwashed Too](https://open.spotify.com/album/2AbdLTMFF9UaDoEdJPva4g) | 5:00 | 2019-08-02 | 2022-04-21 |
 | [You Give Love A Bad Name](https://open.spotify.com/track/0rmGAIH9LNJewFw7nKzZnc) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Slippery When Wet](https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t) | 3:42 | 2019-06-22 | 2019-08-13 |
 | [You Give Love A Bad Name](https://open.spotify.com/track/61lqNlVRnWYiR9C7BDJw2l) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Bon Jovi Greatest Hits](https://open.spotify.com/album/3Ad4QdO0EJr1c2livr9cmm) | 3:43 | 2019-05-26\* | 2019-06-19 |

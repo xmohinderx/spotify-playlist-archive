@@ -1,12 +1,12 @@
 {
   "description": "Die gr\u00f6\u00dften Hits der deutschen Hip-Hop-Geschichte.",
-  "num_followers": 573767,
+  "num_followers": 573838,
   "original_name": "Deutschrap: Die Klassiker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzc2MzgxMCwwMDAwMDAwMDIyZGZhNmQyMTdhM2I4MTliNjgzMWFiOTYwNjIyYzE3",
+  "snapshot_id": "MTY2Mzc2MzgxMCwwMDAwMDAwMGM2NmJiODViYzkxZjc2MWY2OWE4ZTcyZjRlYWE4OWZk",
   "tracks": [
     {
       "added_at": "2022-09-21 12:36:50",
@@ -847,26 +847,6 @@
     {
       "added_at": "2022-09-21 12:36:50",
       "album": {
-        "name": "Irgendwie, Irgendwo, Irgendwann",
-        "url": "https://open.spotify.com/album/5pDCfBYA6CphwerrwR8av8"
-      },
-      "artists": [
-        {
-          "name": "Jan Delay",
-          "url": "https://open.spotify.com/artist/4KivBMgSnZ7hCDfPm46fKc"
-        },
-        {
-          "name": "Dennis Dubplate",
-          "url": "https://open.spotify.com/artist/7c3IvNS3sINVdf7TDIbBx3"
-        }
-      ],
-      "duration_ms": 330409,
-      "name": "Irgendwie, Irgendwo, Irgendwann",
-      "url": "https://open.spotify.com/track/04sIbgH6Vdo2V21QsUPaRJ"
-    },
-    {
-      "added_at": "2022-09-21 12:36:50",
-      "album": {
         "name": "Zum Gl\u00fcck in die Zukunft",
         "url": "https://open.spotify.com/album/7nBhK71CSKNj5utsMybDTg"
       },
@@ -887,18 +867,38 @@
     {
       "added_at": "2022-09-21 12:36:50",
       "album": {
-        "name": "Maske X",
-        "url": "https://open.spotify.com/album/4TbgjGDL2TAlflFfktyrNP"
+        "name": "Irgendwie, Irgendwo, Irgendwann",
+        "url": "https://open.spotify.com/album/5pDCfBYA6CphwerrwR8av8"
       },
       "artists": [
         {
-          "name": "Sido",
-          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
+          "name": "Jan Delay",
+          "url": "https://open.spotify.com/artist/4KivBMgSnZ7hCDfPm46fKc"
+        },
+        {
+          "name": "Dennis Dubplate",
+          "url": "https://open.spotify.com/artist/7c3IvNS3sINVdf7TDIbBx3"
         }
       ],
-      "duration_ms": 227573,
-      "name": "Fuffies Im Club",
-      "url": "https://open.spotify.com/track/1A0b0yR0quuBByKQzASAvf"
+      "duration_ms": 330409,
+      "name": "Irgendwie, Irgendwo, Irgendwann",
+      "url": "https://open.spotify.com/track/04sIbgH6Vdo2V21QsUPaRJ"
+    },
+    {
+      "added_at": "2022-09-21 12:36:50",
+      "album": {
+        "name": "BLYAT",
+        "url": "https://open.spotify.com/album/186E5XovNHY19VgZPNjHJs"
+      },
+      "artists": [
+        {
+          "name": "Capital Bra",
+          "url": "https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d"
+        }
+      ],
+      "duration_ms": 212506,
+      "name": "Nur noch Gucci",
+      "url": "https://open.spotify.com/track/6zxFyURXhsMwwkLQGZbzBw"
     }
   ],
   "unique_name": "Deutschrap: Die Klassiker",

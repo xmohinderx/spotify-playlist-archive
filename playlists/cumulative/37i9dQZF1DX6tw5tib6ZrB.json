@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-19",
-  "description": "Monster Hiphop anthems to unlock your day. Tracks from DJ Khaled, Megan Thee Stallion, Central Cee and more",
+  "description": "Monster Hiphop anthems to unlock your day. Tracks from Stormzy, DJ Khaled, Megan Thee Stallion and more",
   "name": "JumpOff",
   "published_playlist_ids": [
     "14bEBF0XIXvpomoPm6muAO"
@@ -311,7 +311,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 171319,
       "name": "Distraction",
       "url": "https://open.spotify.com/track/1oc92BMKYkNxK17C2GtyRM"
@@ -741,7 +741,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 242965,
       "name": "Knife Talk (with 21 Savage ft. Project Pat)",
       "url": "https://open.spotify.com/track/2BcMwX1MPV6ZHP4tUT9uq6"
@@ -821,10 +821,28 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 117013,
       "name": "Love Me",
       "url": "https://open.spotify.com/track/4e0FYxSROat25pH16zMTZI"
+    },
+    {
+      "album": {
+        "name": "Mel Made Me Do It",
+        "url": "https://open.spotify.com/album/2qB4PkpoOUuvLXPzckmYdw"
+      },
+      "artists": [
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 440857,
+      "name": "Mel Made Me Do It",
+      "url": "https://open.spotify.com/track/3y8xPhq9Ho1hCEMIE9DvZe"
     },
     {
       "album": {
@@ -843,6 +861,24 @@
       "duration_ms": 237904,
       "name": "Mrs. Davis",
       "url": "https://open.spotify.com/track/6R8OyxlpbW1F00R2eJRiHk"
+    },
+    {
+      "album": {
+        "name": "Munch (Feelin\u2019 U)",
+        "url": "https://open.spotify.com/album/0LgFPcU3P2HLGUtBQTBBpv"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104819,
+      "name": "Munch (Feelin\u2019 U)",
+      "url": "https://open.spotify.com/track/1jOgJN75btuUONIdf57vHz"
     },
     {
       "album": {
@@ -951,7 +987,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 164633,
       "name": "Not The Same (feat. Lucasraps)",
       "url": "https://open.spotify.com/track/73DJqwKLRQgDMNN7odJPqt"
@@ -980,6 +1016,28 @@
     },
     {
       "album": {
+        "name": "Pardon My Arrogance",
+        "url": "https://open.spotify.com/album/2690tz6XKjQtcF1WjNNDJW"
+      },
+      "artists": [
+        {
+          "name": "Cassper Nyovest",
+          "url": "https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP"
+        },
+        {
+          "name": "K1NG",
+          "url": "https://open.spotify.com/artist/4VHLPOtj6jnjbe9kIxFHA9"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118000,
+      "name": "Pardon My Arrogance",
+      "url": "https://open.spotify.com/track/5lSqaq9zJN90ut2JOoddUW"
+    },
+    {
+      "album": {
         "name": "Pop Out",
         "url": "https://open.spotify.com/album/3DKxIMMpgRakBLeaXEs0JG"
       },
@@ -995,7 +1053,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 189295,
       "name": "Pop Out",
       "url": "https://open.spotify.com/track/0XLWcdwnbkaq1sxbNXJBNs"
@@ -1124,6 +1182,32 @@
     },
     {
       "album": {
+        "name": "Sailor On The Moon (feat. IDK & KayCyy)",
+        "url": "https://open.spotify.com/album/35lqamVUzvMaT91dR2q36f"
+      },
+      "artists": [
+        {
+          "name": "Masked Wolf",
+          "url": "https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd"
+        },
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
+        },
+        {
+          "name": "KayCyy",
+          "url": "https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193243,
+      "name": "Sailor On The Moon (feat. IDK & KayCyy)",
+      "url": "https://open.spotify.com/track/0O4wHincVaptKiV2Rv7LhC"
+    },
+    {
+      "album": {
         "name": "See Wat I\u2019m Sayin",
         "url": "https://open.spotify.com/album/3busrWaOS06nIDLDdIro3R"
       },
@@ -1168,6 +1252,28 @@
     },
     {
       "album": {
+        "name": "Ceduction",
+        "url": "https://open.spotify.com/album/72CVdgTmhjPyGh78LRv1Gy"
+      },
+      "artists": [
+        {
+          "name": "Cedo",
+          "url": "https://open.spotify.com/artist/4XnL8ClOo3yWrWU4VJWa6q"
+        },
+        {
+          "name": "Nyashinski",
+          "url": "https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169578,
+      "name": "Shots (feat. Nyashinski)",
+      "url": "https://open.spotify.com/track/1oZYyR3EWPOPTyrZXIQuey"
+    },
+    {
+      "album": {
         "name": "Sleazy Flow (Remix)",
         "url": "https://open.spotify.com/album/4N1yQmAeHbswH8jbcRnsEG"
       },
@@ -1187,6 +1293,24 @@
       "duration_ms": 161355,
       "name": "Sleazy Flow (with Lil Baby) - Remix",
       "url": "https://open.spotify.com/track/5cx7vkF8BQ0iOsVpfvZbnz"
+    },
+    {
+      "album": {
+        "name": "Baby On Baby 2",
+        "url": "https://open.spotify.com/album/6x5UJEgPpRGdXjpeRY5QSz"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171123,
+      "name": "SOCKS",
+      "url": "https://open.spotify.com/track/060dZ7q9HN8nAS2zn2hwo5"
     },
     {
       "album": {
@@ -1289,7 +1413,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 332228,
       "name": "The Heart Part 5",
       "url": "https://open.spotify.com/track/5MMW4CZsZiZt2iuqAXzzWC"

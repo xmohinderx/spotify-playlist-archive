@@ -1,12 +1,12 @@
 {
   "description": "The summer needs dance hits \ud83d\ude0e\u2600\ufe0f",
-  "num_followers": 127083,
+  "num_followers": 127334,
   "original_name": "Summer Dance Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY2NjEzNiwwMDAwMDAwMGFmZjA2YWNlOGQxYTEzMjAxOThhMTY5ZWQ0ODc0MDM1",
+  "snapshot_id": "MTY2MjY2NjEzNiwwMDAwMDAwMDNmMTIxODQ3NjVlOTUyMWM3NzZlOTI3MDI5MTI5ODAx",
   "tracks": [
     {
       "added_at": "2022-09-08 19:41:46",
@@ -247,26 +247,6 @@
     {
       "added_at": "2022-09-08 19:41:46",
       "album": {
-        "name": "Where Did You Go (feat. MNEK)",
-        "url": "https://open.spotify.com/album/5vSLX6JljaSXuRY2Wqi6xL"
-      },
-      "artists": [
-        {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
-        },
-        {
-          "name": "MNEK",
-          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
-        }
-      ],
-      "duration_ms": 177689,
-      "name": "Where Did You Go? (feat. MNEK)",
-      "url": "https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8"
-    },
-    {
-      "added_at": "2022-09-08 19:41:46",
-      "album": {
         "name": "Hot In It",
         "url": "https://open.spotify.com/album/6R7Yy0sY9N8PNUhseegr2Q"
       },
@@ -283,6 +263,26 @@
       "duration_ms": 129817,
       "name": "Hot In It",
       "url": "https://open.spotify.com/track/3Z7CaxQkqbIs1rewKi6v4W"
+    },
+    {
+      "added_at": "2022-09-08 19:41:46",
+      "album": {
+        "name": "Where Did You Go (feat. MNEK)",
+        "url": "https://open.spotify.com/album/5vSLX6JljaSXuRY2Wqi6xL"
+      },
+      "artists": [
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        },
+        {
+          "name": "MNEK",
+          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
+        }
+      ],
+      "duration_ms": 177689,
+      "name": "Where Did You Go? (feat. MNEK)",
+      "url": "https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8"
     },
     {
       "added_at": "2022-09-08 19:41:46",
@@ -395,6 +395,26 @@
     {
       "added_at": "2022-09-08 19:41:46",
       "album": {
+        "name": "Don't Be Shy",
+        "url": "https://open.spotify.com/album/2TvfE8CY37OQIPVGcWYpEA"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 140500,
+      "name": "Don't Be Shy",
+      "url": "https://open.spotify.com/track/0bI7K9Becu2dtXK1Q3cZNB"
+    },
+    {
+      "added_at": "2022-09-08 19:41:46",
+      "album": {
         "name": "Honestly, Nevermind",
         "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
       },
@@ -451,26 +471,6 @@
       "duration_ms": 267946,
       "name": "Turn On The Lights again.. (feat. Future)",
       "url": "https://open.spotify.com/track/6gdDu39yYqPcaTgCwYEW8i"
-    },
-    {
-      "added_at": "2022-09-08 19:41:46",
-      "album": {
-        "name": "Don't Be Shy",
-        "url": "https://open.spotify.com/album/2TvfE8CY37OQIPVGcWYpEA"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 140500,
-      "name": "Don't Be Shy",
-      "url": "https://open.spotify.com/track/0bI7K9Becu2dtXK1Q3cZNB"
     },
     {
       "added_at": "2022-09-08 19:41:46",
@@ -1235,26 +1235,6 @@
     {
       "added_at": "2022-09-08 19:41:46",
       "album": {
-        "name": "Some Say (Felix Jaehn Remix)",
-        "url": "https://open.spotify.com/album/3HE3e3QqmuhAsxcJGtxyEr"
-      },
-      "artists": [
-        {
-          "name": "Nea",
-          "url": "https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E"
-        },
-        {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
-        }
-      ],
-      "duration_ms": 186878,
-      "name": "Some Say - Felix Jaehn Remix",
-      "url": "https://open.spotify.com/track/7C1trmcQQ5n5RNy4l6ziCv"
-    },
-    {
-      "added_at": "2022-09-08 19:41:46",
-      "album": {
         "name": "Sun Will Shine",
         "url": "https://open.spotify.com/album/43u6j73XJJE6wOhKgsA50W"
       },
@@ -1271,6 +1251,26 @@
       "duration_ms": 201700,
       "name": "Sun Will Shine",
       "url": "https://open.spotify.com/track/6bp0sJ0l3Ab3ZU0aktsYCf"
+    },
+    {
+      "added_at": "2022-09-08 19:41:46",
+      "album": {
+        "name": "Some Say (Felix Jaehn Remix)",
+        "url": "https://open.spotify.com/album/3HE3e3QqmuhAsxcJGtxyEr"
+      },
+      "artists": [
+        {
+          "name": "Nea",
+          "url": "https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E"
+        },
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        }
+      ],
+      "duration_ms": 186878,
+      "name": "Some Say - Felix Jaehn Remix",
+      "url": "https://open.spotify.com/track/7C1trmcQQ5n5RNy4l6ziCv"
     },
     {
       "added_at": "2022-09-08 19:41:46",
@@ -1551,6 +1551,26 @@
     {
       "added_at": "2022-09-08 19:41:46",
       "album": {
+        "name": "Dandelion",
+        "url": "https://open.spotify.com/album/6YPTwr9e07jNzBJgXbmoQZ"
+      },
+      "artists": [
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        },
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        }
+      ],
+      "duration_ms": 140011,
+      "name": "Dandelion",
+      "url": "https://open.spotify.com/track/4NexTaCZZ7Ehnf03A6SVjt"
+    },
+    {
+      "added_at": "2022-09-08 19:41:46",
+      "album": {
         "name": "Quando Quando",
         "url": "https://open.spotify.com/album/4NKMf9KUpHjQxKYQMZO1Ec"
       },
@@ -1571,26 +1591,6 @@
       "duration_ms": 159695,
       "name": "Quando Quando",
       "url": "https://open.spotify.com/track/1xrNLqTt0HmrwdZhigBAim"
-    },
-    {
-      "added_at": "2022-09-08 19:41:46",
-      "album": {
-        "name": "Dandelion",
-        "url": "https://open.spotify.com/album/6YPTwr9e07jNzBJgXbmoQZ"
-      },
-      "artists": [
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        },
-        {
-          "name": "JVKE",
-          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
-        }
-      ],
-      "duration_ms": 140011,
-      "name": "Dandelion",
-      "url": "https://open.spotify.com/track/4NexTaCZZ7Ehnf03A6SVjt"
     },
     {
       "added_at": "2022-09-08 19:41:46",
@@ -1903,26 +1903,6 @@
     {
       "added_at": "2022-09-08 19:41:46",
       "album": {
-        "name": "Leave A Little Love",
-        "url": "https://open.spotify.com/album/7x6hV80YBk3pWE4of9Q23y"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        }
-      ],
-      "duration_ms": 187029,
-      "name": "Leave A Little Love",
-      "url": "https://open.spotify.com/track/5pmbZWt1lYVMvZ12MSdtqF"
-    },
-    {
-      "added_at": "2022-09-08 19:41:46",
-      "album": {
         "name": "Crazy Love",
         "url": "https://open.spotify.com/album/0nFUcnT6Kdx9BWoM3RKAxh"
       },
@@ -1939,6 +1919,26 @@
       "duration_ms": 186184,
       "name": "Crazy Love",
       "url": "https://open.spotify.com/track/6jQXpMHQNaGGFE03wRDiUM"
+    },
+    {
+      "added_at": "2022-09-08 19:41:46",
+      "album": {
+        "name": "Leave A Little Love",
+        "url": "https://open.spotify.com/album/7x6hV80YBk3pWE4of9Q23y"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        }
+      ],
+      "duration_ms": 187029,
+      "name": "Leave A Little Love",
+      "url": "https://open.spotify.com/track/5pmbZWt1lYVMvZ12MSdtqF"
     },
     {
       "added_at": "2022-09-08 19:41:46",
@@ -2091,22 +2091,6 @@
     {
       "added_at": "2022-09-08 19:41:46",
       "album": {
-        "name": "Both Of Us",
-        "url": "https://open.spotify.com/album/6tKMQ3udmP1PErZYHKXnqA"
-      },
-      "artists": [
-        {
-          "name": "Jayda G",
-          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
-        }
-      ],
-      "duration_ms": 229424,
-      "name": "Both Of Us - Edit",
-      "url": "https://open.spotify.com/track/75rGONmoi48LLYBFaGiYsv"
-    },
-    {
-      "added_at": "2022-09-08 19:41:46",
-      "album": {
         "name": "Okay",
         "url": "https://open.spotify.com/album/7d5FKzrSPqpKczy9IP5zOE"
       },
@@ -2127,6 +2111,22 @@
       "duration_ms": 151312,
       "name": "Okay",
       "url": "https://open.spotify.com/track/71H8k9qe7DersxR6KyhUnI"
+    },
+    {
+      "added_at": "2022-09-08 19:41:46",
+      "album": {
+        "name": "Both Of Us",
+        "url": "https://open.spotify.com/album/6tKMQ3udmP1PErZYHKXnqA"
+      },
+      "artists": [
+        {
+          "name": "Jayda G",
+          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
+        }
+      ],
+      "duration_ms": 229424,
+      "name": "Both Of Us - Edit",
+      "url": "https://open.spotify.com/track/75rGONmoi48LLYBFaGiYsv"
     },
     {
       "added_at": "2022-09-08 19:41:46",
@@ -2303,22 +2303,6 @@
     {
       "added_at": "2022-09-08 19:41:46",
       "album": {
-        "name": "Trompetisto",
-        "url": "https://open.spotify.com/album/6gsOgcotCeVJsqqQVZ0Qdb"
-      },
-      "artists": [
-        {
-          "name": "Sjaak",
-          "url": "https://open.spotify.com/artist/2YjydjpJfm9VAtiV0XRmkm"
-        }
-      ],
-      "duration_ms": 140322,
-      "name": "Trompetisto",
-      "url": "https://open.spotify.com/track/7LZQAYj5NmW7Db2y8k7dXm"
-    },
-    {
-      "added_at": "2022-09-08 19:41:46",
-      "album": {
         "name": "Trompeta",
         "url": "https://open.spotify.com/album/3h4iogzC5VXCozVCzgVWns"
       },
@@ -2331,6 +2315,22 @@
       "duration_ms": 168704,
       "name": "Trompeta",
       "url": "https://open.spotify.com/track/1tpl2fUDbrPAcbPufthvQe"
+    },
+    {
+      "added_at": "2022-09-08 19:41:46",
+      "album": {
+        "name": "Trompetisto",
+        "url": "https://open.spotify.com/album/6gsOgcotCeVJsqqQVZ0Qdb"
+      },
+      "artists": [
+        {
+          "name": "Sjaak",
+          "url": "https://open.spotify.com/artist/2YjydjpJfm9VAtiV0XRmkm"
+        }
+      ],
+      "duration_ms": 140322,
+      "name": "Trompetisto",
+      "url": "https://open.spotify.com/track/7LZQAYj5NmW7Db2y8k7dXm"
     },
     {
       "added_at": "2022-09-08 19:41:46",

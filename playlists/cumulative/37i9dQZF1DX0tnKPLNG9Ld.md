@@ -4,7 +4,7 @@
 
 > Blue skies, nothing but blue skies\. Sun in your eyes and uplifting jazz in your ears on a sunny day.
 
-139 songs - 7 hr 6 min - [published](https://open.spotify.com/playlist/17UmPpGpDE0CvSJx06ZMsA)
+140 songs - 7 hr 11 min - [published](https://open.spotify.com/playlist/17UmPpGpDE0CvSJx06ZMsA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,8 +38,9 @@
 | [Cocktails For Two](https://open.spotify.com/track/12Iu4hfFdWbKE6nfVi1zKK) | [Toots Thielemans](https://open.spotify.com/artist/0KyolDFb1RjJQb4qXZKCqo) | [Harmonica Jazz](https://open.spotify.com/album/0xcPfuRMo0frd2Q36jCd8j) | 2:12 | 2022-06-29 | 2022-09-09 |
 | [Cocktails for Two](https://open.spotify.com/track/2LKQVRrrXW7cN34JJYmzC1) | [Toots Thielemans](https://open.spotify.com/artist/0KyolDFb1RjJQb4qXZKCqo) | [The Real..\. Toots Thielemans](https://open.spotify.com/album/45kY69KnMtysdft3o07LiZ) | 2:13 | 2021-12-20 | 2022-07-29 |
 | [Come Fly With Me \- Remastered 1998](https://open.spotify.com/track/4hHbeIIKO5Y5uLyIEbY9Gn) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Come Fly With Me \(Remastered\)](https://open.spotify.com/album/66v9QmjAj0Wwhh2OpbU4BE) | 3:19 | 2021-12-20 |  |
+| [Corner Pocket](https://open.spotify.com/track/1e16lbqXFdnuTdeJngVBuY) | [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) | [April In Paris \(Expanded Edition\)](https://open.spotify.com/album/1gDs61sxoI4By9TKxe8Y0k) | 5:15 | 2022-09-22 |  |
 | [Days Of Wine And Roses](https://open.spotify.com/track/5XrLzC6tClHbANUOmPYg2E) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Days Of Wine And Roses, Moon River And Other Academy Award Winners](https://open.spotify.com/album/7FAo3wmrJNNzz2W5Z5ZG80) | 2:15 | 2021-12-20 |  |
-| [Deed I Do](https://open.spotify.com/track/0RqNcBJILvtCJH82auUnKs) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [Buddy Bregman](https://open.spotify.com/artist/6t6zRn7Wo4ctJPVLNJlhOs) | [Bing Sings Whilst Bregman Swings](https://open.spotify.com/album/73o2GaqcTroIzxh7bggyrY) | 2:49 | 2021-12-20 |  |
+| [Deed I Do](https://open.spotify.com/track/0RqNcBJILvtCJH82auUnKs) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [Buddy Bregman](https://open.spotify.com/artist/6t6zRn7Wo4ctJPVLNJlhOs) | [Bing Sings Whilst Bregman Swings](https://open.spotify.com/album/73o2GaqcTroIzxh7bggyrY) | 2:49 | 2021-12-20 | 2022-09-23 |
 | [Destination Moon \- 1997 Remaster](https://open.spotify.com/track/0SdLUQBG2EQBX7bEAcxA6m) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [Jazz Profile](https://open.spotify.com/album/79FnOpEmKU8ibfYgOhVZdy) | 2:35 | 2022-01-26 | 2022-07-29 |
 | [Destination Moon \- 1997 Remaster](https://open.spotify.com/track/0pkIyrSYE0BRpw4nNsBlmq) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [Dinah '62](https://open.spotify.com/album/2k6aNn1NaZPqko2mOtCZwu) | 2:35 | 2022-08-30 | 2022-09-22 |
 | [Don't Rain On My Parade](https://open.spotify.com/track/4mtgGu7EI1txi6GCmMsGZc) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb) | [How Glad I Am](https://open.spotify.com/album/4qgiPr8Wg6HpqtfZBzcKqt) | 2:13 | 2021-12-20 |  |

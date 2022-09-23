@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWIfrT204w7E.md) - [plain]
 
 > Drill scenes connect\. Cover: 22Gz
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,744 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,811 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWIfrT204w7E.md) - [plain]
 | 10 | [Munch \(Feelin’ U\)](https://open.spotify.com/track/1jOgJN75btuUONIdf57vHz) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Munch \(Feelin’ U\)](https://open.spotify.com/album/0LgFPcU3P2HLGUtBQTBBpv) | 1:44 |
 | 11 | [Headshot \(feat\. Polo G & Fivio Foreign\)](https://open.spotify.com/track/4eNOLmx8r2IJAVKvBBL1jv) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [Destined 2 Win](https://open.spotify.com/album/3MEKpJ7wSSp6Z661ThjrUJ) | 2:24 |
 | 12 | [Off The Grid](https://open.spotify.com/track/6LNoArVBBVZzUTUiAX2aKO) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz) | 5:39 |
-| 13 | [Paris to Tokyo](https://open.spotify.com/track/5QvW5lK6mkfTegpAK9JOO7) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Paris to Tokyo](https://open.spotify.com/album/5BXl6r5L4zXQufLQjgkU6U) | 2:10 |
-| 14 | [Welcome To Brixton](https://open.spotify.com/track/7kQUdVjev73xIuwu7W6YW9) | [SR](https://open.spotify.com/artist/2NZN0JDhWXmMmhSXTbhm1h) | [Welcome To Brixton](https://open.spotify.com/album/2cJGDIj1sw0CRisyitZqdQ) | 3:00 |
+| 13 | [Welcome To Brixton](https://open.spotify.com/track/7kQUdVjev73xIuwu7W6YW9) | [SR](https://open.spotify.com/artist/2NZN0JDhWXmMmhSXTbhm1h) | [Welcome To Brixton](https://open.spotify.com/album/2cJGDIj1sw0CRisyitZqdQ) | 3:00 |
+| 14 | [Paris to Tokyo](https://open.spotify.com/track/5QvW5lK6mkfTegpAK9JOO7) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Paris to Tokyo](https://open.spotify.com/album/5BXl6r5L4zXQufLQjgkU6U) | 2:10 |
 | 15 | [DOA \(feat\. Set Da Trend\)](https://open.spotify.com/track/3i4yWKMRIoCcquLwOPhqZ1) | [Kay Flock](https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu), [Set Da Trend](https://open.spotify.com/artist/4dtz0vRRNPW7J2N94X85eB) | [DOA \(feat\. Set Da Trend\)](https://open.spotify.com/album/0z0OfFcfdNLWfCuo6VS6ql) | 1:48 |
 | 16 | [Hot N\*gga](https://open.spotify.com/track/19gEmPjfqSZT0ulDRfjl0m) | [Bobby Shmurda](https://open.spotify.com/artist/34Y0ldeyUv7jBvukWOGASO) | [Hot N\*gga](https://open.spotify.com/album/5ptl9Sheh9eWaogxFOZ3PV) | 3:14 |
 | 17 | [In The UK](https://open.spotify.com/track/7kWXW1tYyE2cOR11TPkKT7) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [In The UK](https://open.spotify.com/album/7ueX2aPzPqbryfJKHnJPTh) | 3:03 |
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWIfrT204w7E.md) - [plain]
 | 20 | [Gator Season](https://open.spotify.com/track/0B0kOrauoAebBdoax6C0Y4) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [Gator Season](https://open.spotify.com/album/5ypYJLK29dHLVKXSB32AIK) | 1:41 |
 | 21 | [No Suburban, Pt\. 2](https://open.spotify.com/track/3VayB5gLZGODx8b7RO1y5f) | [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm) | [One and Only](https://open.spotify.com/album/6lJqLqRmWGmsw8aLEoSlZ9) | 2:33 |
 | 22 | [Faneto](https://open.spotify.com/track/7EcE5yCPVZaZut1JqowbcI) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [Back from the Dead 2](https://open.spotify.com/album/6uOn9t70gVO6YPU4M65h5g) | 3:26 |
-| 23 | [City of Gods](https://open.spotify.com/track/4huBDGP4I3S0pYI0EaRN1c) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [City of Gods](https://open.spotify.com/album/0Nzff60OICCUBrtr980elH) | 4:16 |
-| 24 | [6 For 6](https://open.spotify.com/track/1tLV0GD0WXQ1Z8BKOQscti) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Wild West](https://open.spotify.com/album/0aAVMtHuK9wX1mQozWvdSZ) | 2:28 |
+| 23 | [6 For 6](https://open.spotify.com/track/1tLV0GD0WXQ1Z8BKOQscti) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Wild West](https://open.spotify.com/album/0aAVMtHuK9wX1mQozWvdSZ) | 2:28 |
+| 24 | [City of Gods](https://open.spotify.com/track/4huBDGP4I3S0pYI0EaRN1c) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [City of Gods](https://open.spotify.com/album/0Nzff60OICCUBrtr980elH) | 4:16 |
 | 25 | [ROLANDO 2 \(Catch The Rain\)](https://open.spotify.com/track/0XoP7t3morEhlTwVmH2VVG) | [DUSTY LOCANE](https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L) | [ROLLIN N CONTROLLIN](https://open.spotify.com/album/3CGPmQ2hmBXd5pG0K1nDLv) | 2:46 |
 | 26 | [Whoopty](https://open.spotify.com/track/1t9WgS8FN0534tLBRwbaxO) | [CJ](https://open.spotify.com/artist/7arQA31aZVS8yS6zUveWzb) | [Loyalty Over Royalty](https://open.spotify.com/album/0kHRftVXaiRHgQdtviml0G) | 2:03 |
 | 27 | [AMUSED](https://open.spotify.com/track/3FgahD27EJCxMHGcJJtAmM) | [Jnr Choi](https://open.spotify.com/artist/1Z25ZlGHqqlr3o1UGQOfNn), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [AMUSED](https://open.spotify.com/album/781fnfWDxzWNpLnG0k99Ga) | 3:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWIfrT204w7E.md) - [plain]
 | 49 | [Changed On Me \(feat\. Vory & Polo G\)](https://open.spotify.com/track/0aJMggmjMva3QFnAbmM2U9) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [B.I.B.L.E.](https://open.spotify.com/album/6np2Ix6RidhSseqw2dZovP) | 4:01 |
 | 50 | [Wow](https://open.spotify.com/track/1zEtEb820Vwe9giuUFXH7H) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt) | [Wow](https://open.spotify.com/album/50GEiFeJvh61ifn8ZWyH4Y) | 2:53 |
 
-Snapshot ID: `MTY2MzMwMTEwNiwwMDAwMDAwMDQ3ZjVmZTIxMmJkMWI2MGVmMjliZTlmNzg5MTI2OWE0`
+Snapshot ID: `MTY2MzMwMTEwNiwwMDAwMDAwMDYwYjY2MWZjZjlkMmJhYmIyMjJiYjk5ZGNiM2U5YzAy`

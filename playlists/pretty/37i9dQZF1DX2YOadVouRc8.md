@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YOadVouRc8.md) - [plain]
 
 > Slow jams from West Africa that unwind and relax
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,646 likes - 80 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,661 likes - 80 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YOadVouRc8.md) - [plain]
 | 36 | [Heartburn \(Sooibrand\)](https://open.spotify.com/track/1rne9Xm5ZvMPpPFAL4uloN) | [Sio](https://open.spotify.com/artist/4hIQjO5iXCXx71iZBQQ1Jh) | [Torn Tapestries](https://open.spotify.com/album/5SsFVmvUK3BIib8Grc6ay1) | 2:42 |
 | 37 | [FOR MY BABY](https://open.spotify.com/track/5bAsB0uRfEAOj9d3vsNSm5) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [FOR MY BABY](https://open.spotify.com/album/1HYUIlhz822Tule9gSBB5z) | 2:17 |
 | 38 | [Mayana](https://open.spotify.com/track/0SVGaPNKJYl3JtVoScM7tF) | [Aṣa](https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc) | [Mayana](https://open.spotify.com/album/3ZW36cj6b0bNOrcICqqsek) | 2:38 |
-| 39 | [Bad4u](https://open.spotify.com/track/47MrcI6SgwA4FRvURaaaZ1) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Bad4u](https://open.spotify.com/album/6oWQWuCF0BGQSkGCVnzQN8) | 2:59 |
-| 40 | [ELI](https://open.spotify.com/track/2NZG481vNSuLTBbGl1SFKj) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [APOLLO](https://open.spotify.com/album/6HdrMYu33mRMYPEDB8MbPq) | 2:52 |
+| 39 | [ELI](https://open.spotify.com/track/2NZG481vNSuLTBbGl1SFKj) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [APOLLO](https://open.spotify.com/album/6HdrMYu33mRMYPEDB8MbPq) | 2:52 |
+| 40 | [Bad4u](https://open.spotify.com/track/47MrcI6SgwA4FRvURaaaZ1) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Bad4u](https://open.spotify.com/album/6oWQWuCF0BGQSkGCVnzQN8) | 2:59 |
 | 41 | [Rosemary](https://open.spotify.com/track/2jY01b9OU1WFhDlsrD17Yd) | [Savage](https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Rosemary](https://open.spotify.com/album/1MwiNkYbclqgoGEEOpGTed) | 3:08 |
 | 42 | [Osondu](https://open.spotify.com/track/7IkanW59HjJBCtEUARmJNx) | [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [ROOTS](https://open.spotify.com/album/2OU0uJWqRBeAokBzjvAiRF) | 4:18 |
 | 43 | [Naked Wire](https://open.spotify.com/track/5sFwnVasc8RuDlatiNHOXN) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Naked Wire](https://open.spotify.com/album/1GOlHRebm95q6OxmRwYdKG) | 2:42 |
@@ -60,9 +60,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YOadVouRc8.md) - [plain]
 | 50 | [Dutty Love](https://open.spotify.com/track/6k7TGPkAitlkUamq2maMNT) | [Ojahbee](https://open.spotify.com/artist/0PssYXDV1kjmSuUVkxEQkY), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Dutty Love](https://open.spotify.com/album/5PJtsGGSWAP8qDTVu0zXJ4) | 2:51 |
 | 51 | [Patient](https://open.spotify.com/track/7LxVI3obU50YFurUYGp3ih) | [Ukweli](https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ), [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Patient](https://open.spotify.com/album/2d1a8MNe12RsPe3rhZpGvb) | 2:59 |
 | 52 | [IDG](https://open.spotify.com/track/3k9Y1OBtIdPQNqbKILvJcD) | [Aṣa](https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [V](https://open.spotify.com/album/5rvJ4cyNUU0jI9DF3r596d) | 3:07 |
-| 53 | [Malibu](https://open.spotify.com/track/0JAzlCL0Btz2z6qWN09AaG) | [Preyé](https://open.spotify.com/artist/6dbTmlL5brq9B2fkUj2MQD) | [Malibu](https://open.spotify.com/album/6lGF6ysU8aKnpIUiA6lYpz) | 2:51 |
-| 54 | [Tales By Moonlight \(Ft Amaarae\)](https://open.spotify.com/track/53JGRDnTAbXozbVusHa5ht) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Water & Garri](https://open.spotify.com/album/4kaFvICfRtvFJawQ6p7VSW) | 3:24 |
-| 55 | [Bordeaux](https://open.spotify.com/track/0eAudWJz6SUYPA2CGE0Z8H) | [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp), [Muthoni](https://open.spotify.com/artist/5iCw2Vm3dX5y14ZPTwrbgj), [Edwvn](https://open.spotify.com/artist/2pXAmAzTJfBMMzGXKVWAxn), [Narah](https://open.spotify.com/artist/0hcG5f9K9mREVnVMV3yCZh), [Tronomie](https://open.spotify.com/artist/34BrK0231uzn1SZfNPsaWA) | [Bordeaux](https://open.spotify.com/album/0SSXQj05tsfbHFY29CTeOq) | 3:18 |
+| 53 | [Tales By Moonlight \(Ft Amaarae\)](https://open.spotify.com/track/53JGRDnTAbXozbVusHa5ht) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Water & Garri](https://open.spotify.com/album/4kaFvICfRtvFJawQ6p7VSW) | 3:24 |
+| 54 | [Bordeaux](https://open.spotify.com/track/0eAudWJz6SUYPA2CGE0Z8H) | [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp), [Muthoni](https://open.spotify.com/artist/5iCw2Vm3dX5y14ZPTwrbgj), [Edwvn](https://open.spotify.com/artist/2pXAmAzTJfBMMzGXKVWAxn), [Narah](https://open.spotify.com/artist/0hcG5f9K9mREVnVMV3yCZh), [Tronomie](https://open.spotify.com/artist/34BrK0231uzn1SZfNPsaWA) | [Bordeaux](https://open.spotify.com/album/0SSXQj05tsfbHFY29CTeOq) | 3:18 |
+| 55 | [Malibu](https://open.spotify.com/track/0JAzlCL0Btz2z6qWN09AaG) | [Preyé](https://open.spotify.com/artist/6dbTmlL5brq9B2fkUj2MQD) | [Malibu](https://open.spotify.com/album/6lGF6ysU8aKnpIUiA6lYpz) | 2:51 |
 | 56 | [Brunch](https://open.spotify.com/track/2uka2kAlD8m3yUXT0iZKv6) | [Noon Dave](https://open.spotify.com/artist/7JkLbDtlEwAhFPn3o2kXAm) | [Brunch](https://open.spotify.com/album/2cQ86acGp5LQatlnXdrDec) | 3:01 |
 | 57 | [Can You See Her](https://open.spotify.com/track/6ClDzvO4Ys2FAYXEBAqRJ3) | [Tha Beatsmith](https://open.spotify.com/artist/0jlnkOITm8T6aR98XB1y6O), [Ogranya](https://open.spotify.com/artist/2Y4GWlZVnj2QoLJb5r85of) | [Vanity](https://open.spotify.com/album/2NNV633QV0mNfqRDoFx0q0) | 3:44 |
 | 58 | [Your Love \- Mogbe](https://open.spotify.com/track/3hRxhSMgoOtUt4IucTomlM) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Afro Nation](https://open.spotify.com/artist/54okxCS1Qi7TsWHymlwdYy), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Your Love \(Mogbe\)](https://open.spotify.com/album/0bliq9zvsEHViZ3TOBjFQV) | 2:40 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YOadVouRc8.md) - [plain]
 | 79 | [loving is harder](https://open.spotify.com/track/3FFTifOMJ6jUNxTELrRasy) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [loving is harder](https://open.spotify.com/album/66bXOBWU3SD12I3Hiw6TD9) | 2:29 |
 | 80 | [Chigal](https://open.spotify.com/track/4EVzgtfcg5kMEnKEpDv2bL) | [Sinachi](https://open.spotify.com/artist/3Oo9PudiVUZjuCdJBBn4si) | [Chigal](https://open.spotify.com/album/48unx5t6zGTXFtMDhElQIK) | 2:06 |
 
-Snapshot ID: `MTY2MzU3MjU5NSwwMDAwMDAwMDkzNzkzNjY4ZTQyOGIxYzFhMDljYTUwMDYyMzZlNjVj`
+Snapshot ID: `MTY2MzU3MjU5NSwwMDAwMDAwMDEwZDk5ZTA5NGE3YWZiNGMwMWE2YWUwY2I1Mjk2NjVk`

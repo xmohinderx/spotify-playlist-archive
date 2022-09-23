@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lU51fgoMhF.md) - [plain]
 
 > Be cool with refreshing Tropical K\-Pop dance music! \(시원청량한 국내 댄스곡을 즐겨보세요!\) \(Cover: NAYEON\(나연\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,722 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,773 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lU51fgoMhF.md) - [plain]
 | 91 | [BYE \(feat\. Whee In\)](https://open.spotify.com/track/55oxwFzHYVKmtSawW9MlTu) | [RAVI](https://open.spotify.com/artist/42xj5mBLvrFdW6tYns6mxs), [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [BYE \(feat\. Whee In\)](https://open.spotify.com/album/2iPk0O4IWcWVVHxnpCzHbx) | 3:08 |
 | 92 | [Beautiful Night](https://open.spotify.com/track/5TAVtxiijuCtUAvubAy7bY) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [Beautiful Night](https://open.spotify.com/album/3d3Qrwsh70152U0DkClVem) | 2:49 |
 | 93 | [NOT THE END](https://open.spotify.com/track/3VSA53dOtVkhwyJ0nsAnRt) | [Highlight](https://open.spotify.com/artist/3T0fMfxYBU3q9oAUAdPIsr) | [The Blowing](https://open.spotify.com/album/12bPrSSJZ1qysNAGEFGzGC) | 3:38 |
-| 94 | [Your Song](https://open.spotify.com/track/59yoeKUIiRIFNxlA13AlDt) | [ONF](https://open.spotify.com/artist/0eEhOgZ2x6kv8kLz77WO7b) | [SPECIAL ALBUM \[Storage of ONF\]](https://open.spotify.com/album/4DMNgwsMFZzefb1HBAmHwG) | 3:40 |
-| 95 | [Promise U](https://open.spotify.com/track/3S0yfEkrXLpHjcizhj97nf) | [Solar](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD), [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) | [PROMISE U \(REVIBE Vol.1\)](https://open.spotify.com/album/4eJdKwHH9rb3dNbtIsBgjV) | 3:27 |
+| 94 | [Promise U](https://open.spotify.com/track/3S0yfEkrXLpHjcizhj97nf) | [Solar](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD), [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) | [PROMISE U \(REVIBE Vol.1\)](https://open.spotify.com/album/4eJdKwHH9rb3dNbtIsBgjV) | 3:27 |
+| 95 | [Your Song](https://open.spotify.com/track/59yoeKUIiRIFNxlA13AlDt) | [ONF](https://open.spotify.com/artist/0eEhOgZ2x6kv8kLz77WO7b) | [SPECIAL ALBUM \[Storage of ONF\]](https://open.spotify.com/album/4DMNgwsMFZzefb1HBAmHwG) | 3:40 |
 | 96 | [Shining Love Song](https://open.spotify.com/track/0DFSFBB4faitgBed2IJ4O5) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [Shining Love Song](https://open.spotify.com/album/7n2p500IY7UeU9NlgFFeV0) | 3:11 |
 | 97 | [Thank You](https://open.spotify.com/track/08rg9OloHTHRsk9evNPpnd) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [THANK YOU](https://open.spotify.com/album/5RaqvFt71ro3Y8nngoucv6) | 3:15 |
 | 98 | [OCEAN VIEW \(Feat.CHANYEOL\)](https://open.spotify.com/track/5f8pHuUR6958PQKIdLibdB) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una), [CHANYEOL](https://open.spotify.com/artist/6jV25rzTKQ2zMgrqHha1V5) | [OCEAN VIEW](https://open.spotify.com/album/0w40fqHApJ1JrxddGs9wcF) | 3:07 |
 | 99 | [Reference](https://open.spotify.com/track/2PmLP4DNUPJC98L78mrkal) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Room Vol.1](https://open.spotify.com/album/2cSXk0XqGoen6IvmlJmJJt) | 3:41 |
 | 100 | [Summertime \(feat\. Ashley Alisha\)](https://open.spotify.com/track/7Iik4joMVkfqrMMCDwFe3W) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Ashley Alisha](https://open.spotify.com/artist/63P6hjn73jNbnEFT0gKWKk) | [Summertime](https://open.spotify.com/album/0r9E2hgF8kZ4k9zDk72CbK) | 3:01 |
 
-Snapshot ID: `MTY2MjM1OTQ5MSwwMDAwMDAwMDc4NTk3YTZmZWNlYTc4ZTA3YjBiYjczNDMzZTBhOTVi`
+Snapshot ID: `MTY2MjM1OTQ5MSwwMDAwMDAwMDExODg2NzFiMmQ2NTVlODlmYTViODhmYzY3YzRlM2I1`

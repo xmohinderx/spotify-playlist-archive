@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWyCCtyRAvGr.md) - [plain]
 
 > A relaxing evening with a smooth glass never sounded so good\. Hit play and let the room fill with some of the classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,915 likes - 50 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,027 likes - 50 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWyCCtyRAvGr.md) - [plain]
 | 16 | [Make It Rain](https://open.spotify.com/track/4FLsABaj5iQbOfp7akXEn5) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708) | [Heavy Load Blues](https://open.spotify.com/album/4RZFJXFYLHs9VhATqZ2nan) | 6:41 |
 | 17 | [Need Her So Bad](https://open.spotify.com/track/1Msf1vU7lpnbqUDxj6HpnW) | [Aynsley Lister](https://open.spotify.com/artist/7hueZY91Csxv57p4KnPVcU) | [Everything I Need](https://open.spotify.com/album/6XGCDSommzsbG2lDSldCEy) | 7:00 |
 | 18 | [Step In](https://open.spotify.com/track/1b44sEBiYyl35EbYDgNGfk) | [Cedric Burnside](https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc) | [I Be Trying](https://open.spotify.com/album/38J9ZNteDXUiLTndROhKyY) | 2:35 |
-| 19 | [All Your Love](https://open.spotify.com/track/73GEVn1tqk9bn0KbtWsiqj) | [Magic Sam](https://open.spotify.com/artist/0XErJwG6aCEj7NpKsEZrrO) | [The Essential Magic Sam: The Cobra and Chief Recordings 1957\-1961](https://open.spotify.com/album/5pwsqaIx7UFtjXU3HiF1Nv) | 2:56 |
-| 20 | [Reconsider Baby](https://open.spotify.com/track/65JvAtDMWtNIjDCDOLeJ2A) | [Lowell Fulson](https://open.spotify.com/artist/3VhvGNnWfzmlEyiuhzdgf5) | [Hung Down Head](https://open.spotify.com/album/4x3NEnpfAk2NY3jD6UDLEV) | 3:09 |
+| 19 | [Reconsider Baby](https://open.spotify.com/track/65JvAtDMWtNIjDCDOLeJ2A) | [Lowell Fulson](https://open.spotify.com/artist/3VhvGNnWfzmlEyiuhzdgf5) | [Hung Down Head](https://open.spotify.com/album/4x3NEnpfAk2NY3jD6UDLEV) | 3:09 |
+| 20 | [All Your Love](https://open.spotify.com/track/73GEVn1tqk9bn0KbtWsiqj) | [Magic Sam](https://open.spotify.com/artist/0XErJwG6aCEj7NpKsEZrrO) | [The Essential Magic Sam: The Cobra and Chief Recordings 1957\-1961](https://open.spotify.com/album/5pwsqaIx7UFtjXU3HiF1Nv) | 2:56 |
 | 21 | [Midnight Healing](https://open.spotify.com/track/4RKoKePOnKpRlR68xyBQCn) | [Gene Deer](https://open.spotify.com/artist/2eIkIIArGbSEVLzC0rHxGV) | [Soul Tender](https://open.spotify.com/album/1LSwdjVS3iXgNAru0Ly5Vn) | 7:39 |
 | 22 | [You Don't Want Me](https://open.spotify.com/track/6ECnAHxGQilDe32zQqfdz3) | [Earl Hooker](https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O) | [Two Bugs and a Roach](https://open.spotify.com/album/4IWaRuc8RGDetpOm5Bv4Ho) | 5:16 |
 | 23 | [Come on and Go with Me](https://open.spotify.com/track/7M9Bru9dH3gHSmx6c7bo7j) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Delta Kream](https://open.spotify.com/album/682pJqnx8hcrCfSjvyNBki) | 5:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWyCCtyRAvGr.md) - [plain]
 | 49 | [One Scotch, One Bourbon, One Beer](https://open.spotify.com/track/0l33ve0XHG5XxKwMQPKcZk) | [Delbert McClinton](https://open.spotify.com/artist/3Ri72CuuQSCLLkDRJgniFU) | [One Scotch, One Bourbon, One Beer](https://open.spotify.com/album/7uDIaa0VUbDhhEA4CkqNN6) | 3:12 |
 | 50 | [Reconsider Baby \- Remastered](https://open.spotify.com/track/5Avx6u0cFb5P0fL4qzijGC) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [The Best Of Freddie King: The Shelter Years](https://open.spotify.com/album/4gpyOtOO0Ws6zhvcp4ASMY) | 4:00 |
 
-Snapshot ID: `MTY2MzAwMDgwOSwwMDAwMDAwMDE4MjEyZjU1OWQ4MDQzOWVmNjQyNjAxNTFhZGNiZmVl`
+Snapshot ID: `MTY2MzAwMDgwOSwwMDAwMDAwMDdhMjI1YmM2MTQwMjMzYTM2ZmQ2MmM3MmVlNjA1Njcy`

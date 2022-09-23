@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80MfQNTNVNZ.md) - [plain]
 
 > Groove\-heavy, soothing tunes for the soul
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,893 likes - 60 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,969 likes - 60 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80MfQNTNVNZ.md) - [plain]
 | 59 | [Toothache](https://open.spotify.com/track/6plp1nJtm4Y3m87qmDCy61) | [Topaz Jones](https://open.spotify.com/artist/76bAuLD5jMIT1YDJ84KB8l) | [Toothache / Zoom](https://open.spotify.com/album/3c9W0mGNlgamPdlh1JfNj1) | 3:43 |
 | 60 | [Take You Higher](https://open.spotify.com/track/3QtNPpwrajozNB5AORHYzP) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Sunsetter](https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU) | 3:48 |
 
-Snapshot ID: `MTY2MzI1ODg0NCwwMDAwMDAwMGQ4MTAxYmQxZDcwYjk2MmU2NzU3MWI2YWNkYzA1YTIz`
+Snapshot ID: `MTY2Mzg1ODgwMCwwMDAwMDAwMGE3NTU5ZTdlYzU4NGM4YzFlYTNlODgwNjljOWI3MGZj`

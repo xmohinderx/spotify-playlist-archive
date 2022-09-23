@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX57NRq0pf7ea.md) - [plain]
 
 > ¡Estos son los hits que acompañan la fiesta!
 
-[Spotify](https://open.spotify.com/user/spotify) - 288,553 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 288,790 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX57NRq0pf7ea.md) - [plain]
 | 27 | [LOKERA](https://open.spotify.com/track/79HZAZNnOE97rb2hnI0XQr) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [LOKERA](https://open.spotify.com/album/4vJcqwIGUuk5TeP29OPovU) | 3:15 |
 | 28 | [Una Noche en Medellín](https://open.spotify.com/track/1O2pcBJGej0pmH2Y9XZMs6) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Una Noche en Medellín](https://open.spotify.com/album/455Vc66bPFRI5D0zDEDn46) | 2:33 |
 | 29 | [Party](https://open.spotify.com/track/4tYFy8ALRjIZvnvSLw5lxN) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:47 |
-| 30 | [ULTRA SOLO REMIX](https://open.spotify.com/track/6wtZPYBIXUvCpXwVjMCJBf) | [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [ULTRA SOLO REMIX](https://open.spotify.com/album/7JsxzI8o2TI71jHBOIsgqm) | 5:22 |
-| 31 | [Bam Bam \(feat\. Ed Sheeran\)](https://open.spotify.com/track/0QBzMgT7NIeoCYy3sJCof1) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Bam Bam \(feat\. Ed Sheeran\)](https://open.spotify.com/album/6FIMt58naoGYrOe4Wn2P3n) | 3:26 |
+| 30 | [Bam Bam \(feat\. Ed Sheeran\)](https://open.spotify.com/track/0QBzMgT7NIeoCYy3sJCof1) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Bam Bam \(feat\. Ed Sheeran\)](https://open.spotify.com/album/6FIMt58naoGYrOe4Wn2P3n) | 3:26 |
+| 31 | [ULTRA SOLO REMIX](https://open.spotify.com/track/6wtZPYBIXUvCpXwVjMCJBf) | [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [ULTRA SOLO REMIX](https://open.spotify.com/album/7JsxzI8o2TI71jHBOIsgqm) | 5:22 |
 | 32 | [Pepas](https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Pepas](https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1) | 4:47 |
 | 33 | [MAMIII](https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAMIII](https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R) | 3:46 |
 | 34 | [DON'T YOU WORRY](https://open.spotify.com/track/0gYXw7aPoybWFfB7btQ0eM) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [DON'T YOU WORRY](https://open.spotify.com/album/3plMoBhvQ07H4itII2Qdeb) | 3:16 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX57NRq0pf7ea.md) - [plain]
 | 99 | [MAL DE AMOR](https://open.spotify.com/track/0j15NSe9m6egjzJXXn1QXQ) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [MAL DE AMOR](https://open.spotify.com/album/1PJGPDQCUfl18e5C3to1Uk) | 3:41 |
 | 100 | [Chica Ideal](https://open.spotify.com/track/21N4Buj4xsyLb218lYle61) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Chica Ideal](https://open.spotify.com/album/7aS92ROK5rixV65VSRGPct) | 3:03 |
 
-Snapshot ID: `MTY2MzMwMDg2MCwwMDAwMDAwMGEzZmVmNTcwYTdjMzkxYzQ1NjNmZjNkZmE0MDk0YTYw`
+Snapshot ID: `MTY2MzMwMDg2MCwwMDAwMDAwMGRiODExNDA2OTM5MjY5MGZmMzk5MDRjNDU2ZTkzYWRm`

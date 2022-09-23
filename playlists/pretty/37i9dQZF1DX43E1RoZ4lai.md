@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43E1RoZ4lai.md) - [plain]
 
 > The best jazz pianists today\. Cover: Julius Rodriguez
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,215 likes - 200 songs - 17 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,248 likes - 200 songs - 17 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43E1RoZ4lai.md) - [plain]
 | 26 | [Remembering](https://open.spotify.com/track/1Iqeeci1aIDfZpelLxMSni) | [Joey Alexander](https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII) | [Origin](https://open.spotify.com/album/47Y5cRWVXLK2nM3pkOpVxE) | 5:44 |
 | 27 | [Grinde](https://open.spotify.com/track/2ldhlejPCYY1Ey1QKNlxnz) | [Espen Eriksen Trio](https://open.spotify.com/artist/57BkYLMXOYqJ7KHFhd1VST) | [You Had Me at Goodbye](https://open.spotify.com/album/6OxXYgY6ayT3FSuR2VqZdW) | 5:04 |
 | 28 | [Softly, as in a Morning Sunrise](https://open.spotify.com/track/02QDRB6wtMMi28hODUpbbk) | [Joe Farnsworth](https://open.spotify.com/artist/42ICgxJl0MTeVV8IeFGuP4) | [City of Sounds](https://open.spotify.com/album/7eCsq51INi4VOW6VxEQATr) | 8:02 |
-| 29 | [My Song](https://open.spotify.com/track/0lSLRJcWni4XX5UbCLJPy1) | [Alex Riel](https://open.spotify.com/artist/0kPEyoVCAET0GwNPmjmpyH), [Bo Stief](https://open.spotify.com/artist/6btUX9F5YeOm9ChA2v5yDg), [Carsten Dahl](https://open.spotify.com/artist/4CSBqdnCyXayFaZR10Pvda) | [Our Songs](https://open.spotify.com/album/6cbxatO4U8vB68x9IZW2XF) | 3:44 |
-| 30 | [Some Gospel According to Matthew \- Live](https://open.spotify.com/track/0mrE0qZaNsnTULsDF8Npp7) | [Fabian Kallerdahl](https://open.spotify.com/artist/7fl8Q1ZxnrShvSPkISUZoU), [Albin Lindgård](https://open.spotify.com/artist/2VlkNl0iG5Hoil0m4oBm84), [Ossian Ward](https://open.spotify.com/artist/25fgNI6A7XEHdPmAoLV2xo) | [Some Gospel According to Matthew](https://open.spotify.com/album/2un2RVOffrrTVLidr8NrUO) | 5:23 |
+| 29 | [Some Gospel According to Matthew \- Live](https://open.spotify.com/track/0mrE0qZaNsnTULsDF8Npp7) | [Fabian Kallerdahl](https://open.spotify.com/artist/7fl8Q1ZxnrShvSPkISUZoU), [Albin Lindgård](https://open.spotify.com/artist/2VlkNl0iG5Hoil0m4oBm84), [Ossian Ward](https://open.spotify.com/artist/25fgNI6A7XEHdPmAoLV2xo) | [Some Gospel According to Matthew](https://open.spotify.com/album/2un2RVOffrrTVLidr8NrUO) | 5:23 |
+| 30 | [My Song](https://open.spotify.com/track/0lSLRJcWni4XX5UbCLJPy1) | [Alex Riel](https://open.spotify.com/artist/0kPEyoVCAET0GwNPmjmpyH), [Bo Stief](https://open.spotify.com/artist/6btUX9F5YeOm9ChA2v5yDg), [Carsten Dahl](https://open.spotify.com/artist/4CSBqdnCyXayFaZR10Pvda) | [Our Songs](https://open.spotify.com/album/6cbxatO4U8vB68x9IZW2XF) | 3:44 |
 | 31 | [Tender Love](https://open.spotify.com/track/1FePXz2POgqbRHXyvTaatk) | [Ola W Jansson](https://open.spotify.com/artist/4hoFdBmz4b5NykkV0SCEVz), [W JAZZ TRIO](https://open.spotify.com/artist/4nFofMNAntqM5p8Q4ha2YA) | [Tender Love](https://open.spotify.com/album/1yJMv0eQnnqlkXdtP4tc8w) | 2:13 |
 | 32 | [Manhattan](https://open.spotify.com/track/7eooKc7DUKjCOfdxsXzxS0) | [Rob Van Bavel](https://open.spotify.com/artist/1hoKG6Fb0T7qUj1yL8MPsN) | [Time For Ballads \- The Studio Sessions](https://open.spotify.com/album/5UunarohrbI9z28uUYyw6q) | 4:23 |
 | 33 | [Stay Now](https://open.spotify.com/track/7hC1pSoxiMsK5pUqZGiyrV) | [Joel Lyssarides](https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx) | [Stay Now](https://open.spotify.com/album/0sZT6GFJLAZH6NE8DEMsSO) | 2:49 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43E1RoZ4lai.md) - [plain]
 | 199 | [Hembygden](https://open.spotify.com/track/6MlijKgMNuaBwGkIhtX1rb) | [August Eriksson](https://open.spotify.com/artist/3OK5wlyxxgCRWaIJbz0XFU), [Joel Sellgren](https://open.spotify.com/artist/4haQb0AGs7TjGAOE5DHs2X), [Ima Baeza Bilgin](https://open.spotify.com/artist/2PhHa0xCiACVtyWLVVWeX1) | [Hembygden](https://open.spotify.com/album/16V7BaxDbIh9XfBjTiOgoW) | 7:32 |
 | 200 | [Work](https://open.spotify.com/track/5Kc103YvdvdejYKO3rk4kQ) | [Eric Reed](https://open.spotify.com/artist/6aIBBSprVv4xXTT6vzONXU) | [The Adventurous Monk](https://open.spotify.com/album/7K356kopdGUNnFfCPuBKD3) | 6:37 |
 
-Snapshot ID: `MTY2MjA5MTMyMCwwMDAwMDAwMGNlYjQ0ZmRmMzM3Nzk5ZDc0ZDk1ZjVmOTJkMzJiMTVi`
+Snapshot ID: `MTY2MjA5MTMyMCwwMDAwMDAwMGQ1NWI0Mjg4NzEyOGQyY2MxMDgzM2Y5Y2VmZmU4Y2Ew`

@@ -3043,7 +3043,7 @@
       ],
       "date_added": "2022-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-21",
+      "date_removed": null,
       "duration_ms": 165558,
       "name": "Demons Around",
       "url": "https://open.spotify.com/track/7KXAgGAHEB1Ny89pL6eEA0"
@@ -3769,7 +3769,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 208539,
       "name": "Dump It Dummy (feat. 2rare)",
       "url": "https://open.spotify.com/track/7MODHYi60npkw5bgBStqV3"
@@ -10899,7 +10899,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 163910,
       "name": "Righteous",
       "url": "https://open.spotify.com/track/2zG8L9QM7FnlKkLQYirIxh"
@@ -11349,6 +11349,24 @@
       "duration_ms": 165074,
       "name": "Separate Ways (Worlds Apart) - Bryce Miller/Alloy Tracks Remix",
       "url": "https://open.spotify.com/track/0muK9BAzu2TJXQgWPsEj6e"
+    },
+    {
+      "album": {
+        "name": "Now, Then & Forever",
+        "url": "https://open.spotify.com/album/2L8rj8VnahryOqg7vKHYzx"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221520,
+      "name": "September",
+      "url": "https://open.spotify.com/track/4f2GB5ZC7vOUYPAg69N2Xw"
     },
     {
       "album": {

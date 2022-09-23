@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 
 > ¡Sube el volumen y disfruta del pop más chicloso! Sofi Mata en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,549 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,624 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 | 38 | [Marea \(feat\. legallyrxx\)](https://open.spotify.com/track/63ZPI191Myh2F8GpzW14q1) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Francely Abreuu](https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh), [LuisOn](https://open.spotify.com/artist/2PpwJIa82Jd0CVT1IKgTGs), [legallyrxx](https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3) | [Marea \(feat\. legallyrxx\)](https://open.spotify.com/album/11ZztgTrgbcz4TA64WxQ6R) | 2:46 |
 | 39 | [Chihiro](https://open.spotify.com/track/0PDjU1tGuHogWax0Dpcq3m) | [Donovan Morales](https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax) | [Chihiro](https://open.spotify.com/album/7AIKI5Ft7gwBc5m1JZiC2y) | 3:39 |
 | 40 | [Tus Besos](https://open.spotify.com/track/7DKWBbMHCnf7l3j1ujHRNN) | [Karol Sevilla](https://open.spotify.com/artist/6aBoKzSTjuIi0sY69XHLk3) | [Tus Besos](https://open.spotify.com/album/5S9MvHxcWp1l7fwhxm0r42) | 3:02 |
-| 41 | [Siempre Tú](https://open.spotify.com/track/6LUouQmwcFQQgjkL4jsxUh) | [GRECIA](https://open.spotify.com/artist/38R1cYS63phBu2ZIsOinxw), [Callejo](https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551) | [Siempre Tú](https://open.spotify.com/album/3ipgL8vCJtnSTJl8irREqr) | 3:14 |
-| 42 | [Crayola](https://open.spotify.com/track/3aDXAKTlUxN5Nq4dwk5CyI) | [SHEISA](https://open.spotify.com/artist/6VQ16ALjrbpX923Nif5wW8) | [Crayola](https://open.spotify.com/album/4f4UcqSlToqzBzTPgtP7C3) | 2:30 |
+| 41 | [Crayola](https://open.spotify.com/track/3aDXAKTlUxN5Nq4dwk5CyI) | [SHEISA](https://open.spotify.com/artist/6VQ16ALjrbpX923Nif5wW8) | [Crayola](https://open.spotify.com/album/4f4UcqSlToqzBzTPgtP7C3) | 2:30 |
+| 42 | [Siempre Tú](https://open.spotify.com/track/6LUouQmwcFQQgjkL4jsxUh) | [GRECIA](https://open.spotify.com/artist/38R1cYS63phBu2ZIsOinxw), [Callejo](https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551) | [Siempre Tú](https://open.spotify.com/album/3ipgL8vCJtnSTJl8irREqr) | 3:14 |
 | 43 | [Tan Bonita](https://open.spotify.com/track/7xyzefduQtdn4nxbT92T4G) | [Picus](https://open.spotify.com/artist/2BUqEy3gCJYDKmKqV06Ojt) | [Tan Bonita](https://open.spotify.com/album/527CairPtfgaEwJKH6sAmj) | 3:03 |
 | 44 | [Frío](https://open.spotify.com/track/1p9vRub1lRUQDdFNxzJfCu) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Frío](https://open.spotify.com/album/52fZOIMpznnGr5pwXm2aMA) | 2:50 |
 | 45 | [Shot Shot](https://open.spotify.com/track/1T9uhHXZspigDRS10mzBmt) | [Lamentablemente Flow](https://open.spotify.com/artist/5b6Hl206aXLFcGUPx7DLSk) | [Shot Shot](https://open.spotify.com/album/5I0GqHbj7MEGF0RRd5haZF) | 2:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 | 49 | [Bailando al Amanecer](https://open.spotify.com/track/2cqBQjsnfRpZhqqEULcjWG) | [Motel](https://open.spotify.com/artist/19IsMFpELM7g2UDuwDlZvU) | [Bailando al Amanecer](https://open.spotify.com/album/6fKK4ABu0NTbpnkknjO3l5) | 3:56 |
 | 50 | [Eclipse de Luna \- Edición Especial](https://open.spotify.com/track/3kYAIegzm6Ounx1nFg2mxa) | [Playa Limbo](https://open.spotify.com/artist/6XmHtVhgpE33VHFEp2V1P8), [Aleks Syntek](https://open.spotify.com/artist/0r8toju2ecKaVtItkzAnNi) | [Eclipse de Luna \(Edición Especial\)](https://open.spotify.com/album/72B74qlICDqsf9R9mtSQWR) | 3:40 |
 
-Snapshot ID: `MTY2MDg4NTIwMCwwMDAwMDAwMGYwMjM3MDU1YjA0YjljMmMyZTU3ZTU2NjJhOGY2ODYz`
+Snapshot ID: `MTY2MDg4NTIwMCwwMDAwMDAwMDhiMWM2MGQ4Y2U5OWEzZjQ4OGI0YzA1YTM5NjRkYjk0`

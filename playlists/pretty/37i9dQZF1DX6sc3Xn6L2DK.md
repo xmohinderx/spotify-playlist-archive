@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sc3Xn6L2DK.md) - [plain]
 
 > Explore the stellar corners of the genre's expansive and marvelous universe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,805 likes - 75 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,823 likes - 75 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sc3Xn6L2DK.md) - [plain]
 | 35 | [Jealous Guy](https://open.spotify.com/track/1H0UI5yQg9hlue3ZIjb7fs) | [Luke Bell](https://open.spotify.com/artist/4D3lmUAeXE2SMsOKd2B8XQ) | [Jealous Guy](https://open.spotify.com/album/5OMFZV2INE430tcKKBaKbZ) | 3:50 |
 | 36 | [Golden](https://open.spotify.com/track/77EOVfDhyUX5nSzzc4ZEGX) | [Becca Mancari](https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5) | [Good Woman](https://open.spotify.com/album/63mkT1UZtwofel0rP4rfZR) | 5:13 |
 | 37 | [Los Angeles](https://open.spotify.com/track/5DQFjLWTW7AGqaPLdeXCTz) | [Dougie Poole](https://open.spotify.com/artist/2GubanPI94YiSAy9uVC51y) | [The Freelancer's Blues](https://open.spotify.com/album/4UxVJzE5iHPxl2mBWlEqC1) | 4:37 |
-| 38 | [Green Rocky Road](https://open.spotify.com/track/62VuzDNl5RZIlhzs0XDQzY) | [Bria](https://open.spotify.com/artist/7f71lxhHip9KvlOVpwtWm3) | [Green Rocky Road](https://open.spotify.com/album/3Mk2rCfx4ywDJ5sg5C0jk8) | 3:21 |
-| 39 | [Long Game](https://open.spotify.com/track/0fE8J2qGiRxq2ybixfBygG) | [Emily Nenni](https://open.spotify.com/artist/63BuZ8jcRTEc8SLZdGlXQy) | [Long Game](https://open.spotify.com/album/0FbB9CA6nnPmFmz1Ka0zQy) | 3:00 |
+| 38 | [Long Game](https://open.spotify.com/track/0fE8J2qGiRxq2ybixfBygG) | [Emily Nenni](https://open.spotify.com/artist/63BuZ8jcRTEc8SLZdGlXQy) | [Long Game](https://open.spotify.com/album/0FbB9CA6nnPmFmz1Ka0zQy) | 3:00 |
+| 39 | [Green Rocky Road](https://open.spotify.com/track/62VuzDNl5RZIlhzs0XDQzY) | [Bria](https://open.spotify.com/artist/7f71lxhHip9KvlOVpwtWm3) | [Green Rocky Road](https://open.spotify.com/album/3Mk2rCfx4ywDJ5sg5C0jk8) | 3:21 |
 | 40 | [Wherever You Go](https://open.spotify.com/track/0blkm16pwu9wnnNLoHb3nM) | [Dee White](https://open.spotify.com/artist/44NXXiPYo5zuLYTyMKJBNU) | [Southern Gentleman](https://open.spotify.com/album/6ZRbVOgb2dPQRDCnXNerZp) | 3:20 |
 | 41 | [Turn on the Dark](https://open.spotify.com/track/5HV810LjKwzNg61eHL0RzH) | [Nick Shoulders](https://open.spotify.com/artist/4Vydw38lzh6aKIGqzZdwRS) | [Home on the Rage](https://open.spotify.com/album/4O4dpDZFNMWRSaJaUZcDTm) | 4:22 |
 | 42 | [Letting Go](https://open.spotify.com/track/2sYKMfMLXwmK6idbtpxYTD) | [Hayden Pedigo](https://open.spotify.com/artist/4OR0gbDLGgJ4fxoXB0ZCYZ) | [Letting Go](https://open.spotify.com/album/46N1u5BuUGsZlj7pij2JRK) | 3:24 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sc3Xn6L2DK.md) - [plain]
 | 74 | [Boomerang](https://open.spotify.com/track/5ztdTyMkwfHvY5UAnNSF3a) | [The Cactus Blossoms](https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S) | [Easy Way](https://open.spotify.com/album/1baZsLfWdRMcdXqgko3Bo7) | 4:54 |
 | 75 | [Isn’t It](https://open.spotify.com/track/7jGJXnajUOnQrBO3QN7Cst) | [Kacy & Clayton](https://open.spotify.com/artist/7oJ1EabmX7ejrie3NBzn0p), [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [Isn’t It](https://open.spotify.com/album/1vRciHqPyPkre5uJHbCeDC) | 2:04 |
 
-Snapshot ID: `MTY2MzMwMDgwMCwwMDAwMDAwMDY0MWFmMzM4YWQ1YTdmOTBkNWFkNmI1ODU4ZTJlZTlj`
+Snapshot ID: `MTY2MzMwMDgwMCwwMDAwMDAwMGMyY2E4ODI4OWY0Mzk2YjdhNWMwOWFhN2FiYmZmZjg2`

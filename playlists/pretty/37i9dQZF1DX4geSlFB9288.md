@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4geSlFB9288.md) - [plain]
 
 > Indie music to keep your gaming session properly soundtracked.
 
-[Spotify](https://open.spotify.com/user/spotify) - 419,457 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 420,458 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4geSlFB9288.md) - [plain]
 | 20 | [Pumped Up Kicks](https://open.spotify.com/track/7w87IxuO7BDcJ3YUqCyMTT) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Torches](https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT) | 3:59 |
 | 21 | [I WANNA BE YOUR SLAVE](https://open.spotify.com/track/4pt5fDVTg5GhEvEtlz9dKk) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Teatro d'ira \- Vol\. I](https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A) | 2:53 |
 | 22 | [Notion](https://open.spotify.com/track/0sTlGEld0h8kIPZaKDYUf4) | [The Rare Occasions](https://open.spotify.com/artist/1QfpRUtH14JLoY6F6AYmwt) | [Notion](https://open.spotify.com/album/4Uf8BVznefnd2xZm2nRFUx) | 3:15 |
-| 23 | [This Side of Paradise](https://open.spotify.com/track/79EkGysjP2dL5GdpeQjRxT) | [Coyote Theory](https://open.spotify.com/artist/48vmXfV0QPy3ljXBp81Fwn) | [Color](https://open.spotify.com/album/2WADI6qysXnT8cpXKbH8nv) | 4:02 |
-| 24 | [Jealous](https://open.spotify.com/track/1aXV8GrmQLvgoFtBPERP7E) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Jealous](https://open.spotify.com/album/4keJsdw9XhEvimhIgXmtO1) | 2:02 |
+| 23 | [Jealous](https://open.spotify.com/track/1aXV8GrmQLvgoFtBPERP7E) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Jealous](https://open.spotify.com/album/4keJsdw9XhEvimhIgXmtO1) | 2:02 |
+| 24 | [This Side of Paradise](https://open.spotify.com/track/79EkGysjP2dL5GdpeQjRxT) | [Coyote Theory](https://open.spotify.com/artist/48vmXfV0QPy3ljXBp81Fwn) | [Color](https://open.spotify.com/album/2WADI6qysXnT8cpXKbH8nv) | 4:02 |
 | 25 | [Young](https://open.spotify.com/track/1KIJclzEbNhSVw8tiHPWwE) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Vibes](https://open.spotify.com/album/54lNPJ6xq2QXwG6jLEIf6C) | 3:09 |
 | 26 | [death bed \(coffee for your head\)](https://open.spotify.com/track/7eJMfftS33KTjuF7lTsMCx) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [death bed \(coffee for your head\)](https://open.spotify.com/album/2p9gK2BcdrloHNJwarc9gc) | 2:53 |
 | 27 | [Apocalypse](https://open.spotify.com/track/3AVrVz5rK8Hrqo9YGiVGN5) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/5bP82ZIls6rzhpf5Qu6AzC) | 4:50 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4geSlFB9288.md) - [plain]
 | 99 | [Hey Lover!](https://open.spotify.com/track/7rC3P7tpWriaC4hYWKwGQd) | [Wabie](https://open.spotify.com/artist/3wOQaMNQU0rbzWyGXIudmE) | [Cyclones and Hey Lover](https://open.spotify.com/album/076hhK2bCjHhQJqWY7wRh0) | 2:42 |
 | 100 | [Greek Tragedy \- Oliver Nelson TikTok Remix](https://open.spotify.com/track/64rqvMhAPLLEag310IG3z9) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB), [Oliver Nelson](https://open.spotify.com/artist/4QAp87iZerUP9PKxtLhmW1) | [Greek Tragedy \(Oliver Nelson TikTok Remix\)](https://open.spotify.com/album/1UglarHubZKdQNBzRLF7dt) | 5:06 |
 
-Snapshot ID: `MTY2MzE5NTkyNiwwMDAwMDAwMGRlNDk5MjdiMDBiMjM3MWJjOGRjMDhiY2Y1ZDdhNDkw`
+Snapshot ID: `MTY2MzE5NTkyNiwwMDAwMDAwMDMxYTA2NGUwMTE4YjM1ZmU5MWUxZTJhM2UzYWI2NTcw`

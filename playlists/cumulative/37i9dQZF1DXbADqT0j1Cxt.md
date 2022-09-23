@@ -4,7 +4,7 @@
 
 > Lull your little ones with piano music.
 
-351 songs - 10 hr 33 min - [published](https://open.spotify.com/playlist/0QYwaZb9tNnA0EzmNKC1Pf)
+355 songs - 10 hr 40 min - [published](https://open.spotify.com/playlist/0QYwaZb9tNnA0EzmNKC1Pf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [How to Catch a Star](https://open.spotify.com/track/2ODvQsWsSIyVbYnIxU52ng) | [Gus Holley](https://open.spotify.com/artist/3HY0QaaJZYvuIeZ6lmKzcM) | [How to Catch a Star](https://open.spotify.com/album/4lzH3KsEo76eAngPQ5b26q) | 1:59 | 2021-10-07 |  |
 | [Hubert, the magic dog](https://open.spotify.com/track/6msSaqM3vYDJyE8iPvWIB6) | [Tatton Sage](https://open.spotify.com/artist/7uFje8Q60Ydw3sjBkZsO3W) | [Hubert, the magic dog](https://open.spotify.com/album/3n9jKccSiibP9CQlUIWgPm) | 1:24 | 2021-10-07 |  |
 | [Humpty Dumpty](https://open.spotify.com/track/0PuH1f5UQo54OwIzJyZKMc) | [Ronaldo Franke](https://open.spotify.com/artist/2mE2YV7qO4v2XIOovk2Yxg) | [Humpty Dumpty](https://open.spotify.com/album/692KzLCdujMItymDhBpQvV) | 1:28 | 2021-10-07 |  |
+| [Hush Little Baby](https://open.spotify.com/track/2biFygmxMUsxlbIYrGVOkC) | [Beth McLaughlin](https://open.spotify.com/artist/4nTpgCVfCqU7ouzQeZw0rL) | [Hush Little Baby \- Piano Lullaby Hits](https://open.spotify.com/album/5nAXSHi7dbmhvaBxAntzuI) | 2:10 | 2022-09-22 |  |
 | [Hush Now Little Sweetheart](https://open.spotify.com/track/4RDae6L7ueWtD5DpnLg9g3) | [Marnie Todd](https://open.spotify.com/artist/2wIA3XDPcUrITCBmhFMgYp) | [Hush Now Little Sweetheart](https://open.spotify.com/album/0w228DU0pQVl8aTQXnu7lS) | 1:56 | 2021-10-07 |  |
 | [Hänschen klein](https://open.spotify.com/track/3TVWQ5JitUqM6bocliOUam) | [Ludovico Sagese](https://open.spotify.com/artist/1dygDSkQGQOfq1ZdChpOCs) | [Edelweiss](https://open.spotify.com/album/73dGpwMip3kOtupImKbCmS) | 1:20 | 2021-10-07 |  |
 | [I am longing for tomorrow](https://open.spotify.com/track/0qA9hUwwGzKPToFpAWqPQv) | [Lanna Carroll](https://open.spotify.com/artist/0VDUO8LL09SYxcqoMdiJyq) | [I am longing for tomorrow](https://open.spotify.com/album/15vMLMmgmrasbDb3trDF6V) | 1:41 | 2021-10-07 |  |
@@ -147,6 +148,7 @@
 | [I Had a Little Nut Tree](https://open.spotify.com/track/0g71PuknW0AdHYrTHOpVsq) | [Rosie Stein](https://open.spotify.com/artist/5tWsDEKMacjeSXYAfg5KX7) | [I Had a Little Nut Tree](https://open.spotify.com/album/7harFRrN0EoRUgeSL2583Z) | 1:17 | 2021-10-07 |  |
 | [I Love You](https://open.spotify.com/track/2kvXP1dvSnTYZ2ZRPh1VTl) | [Ned Conner](https://open.spotify.com/artist/17CIEaoWlKKUrHeldDwBu6) | [I Love You](https://open.spotify.com/album/64by941udGaCxM0IZeMlpC) | 1:34 | 2021-10-07 |  |
 | [If I Could Give You The Moon](https://open.spotify.com/track/0ArYNcJaVGmVE9lZ7k3Y2t) | [Polyák Lazar](https://open.spotify.com/artist/04qxCyQREKAuS2k9LAQbEZ) | [If I Could Give You The Moon](https://open.spotify.com/album/2YNSmu6Gvkw9labT7ZIGWh) | 1:29 | 2021-10-07 |  |
+| [If I Had A Dolly](https://open.spotify.com/track/0sp55kJzItfs2I7vc17dRi) | [Hilary Parkman](https://open.spotify.com/artist/7Kwvf1uZze90FKtvXhITrQ) | [If I Had A Dolly](https://open.spotify.com/album/5U2OnMwk9Niv4CFMsRtnAa) | 1:27 | 2022-09-22 |  |
 | [If I Were a Dog](https://open.spotify.com/track/3bWsLKRPFXwbfQmRnDqF4g) | [Maisy Pacheco](https://open.spotify.com/artist/3z3BD21RBIXTtfIgmydQEG) | [If I Were a Dog](https://open.spotify.com/album/6MAuXlN8JfJzv8ibE3BJAO) | 1:35 | 2021-10-07 |  |
 | [If I Were an Astronaut](https://open.spotify.com/track/2Ygx4161pwI6xWkd3zu6HV) | [Dana McGowen](https://open.spotify.com/artist/4VsnumFuiW1YdUCHgENYUB) | [If I Were an Astronaut](https://open.spotify.com/album/2SyqxeyjjTR0k4j1riNTwA) | 1:21 | 2022-05-13 |  |
 | [If You're Happy and You Know It](https://open.spotify.com/track/0bVX8bwBnbAiuQI7JOte86) | [Braeburn Little](https://open.spotify.com/artist/1rFEWMkQLA4l9D10jdGORp) | [If You're Happy and You Know It](https://open.spotify.com/album/1wxlNEqXjluWa8lRqS5vXk) | 2:28 | 2021-10-07 | 2022-09-03 |
@@ -284,6 +286,7 @@
 | [Soft Bear](https://open.spotify.com/track/2sMgvy0fQhWcil0wY0V7AJ) | [Tiny Teddy](https://open.spotify.com/artist/6xHwRw7frAzIq7IsUApKyt) | [Sleep Sleep](https://open.spotify.com/album/5Ge9qAlN0C1YzQ71yQhAtO) | 1:54 | 2021-10-07 |  |
 | [Softly Spoken](https://open.spotify.com/track/5D92jakPIMSqskVgerdq9r) | [Karen Elf](https://open.spotify.com/artist/5RWEVr9QGQJrCXyVxMJD48) | [Softly Spoken](https://open.spotify.com/album/2GCwj6sVXuuYXUsuEe6XQ4) | 4:50 | 2021-10-07 |  |
 | [Sogni d’oro](https://open.spotify.com/track/3ZrREPkekC17w11uxaanhW) | [Leora Bianchi](https://open.spotify.com/artist/7BnEklN1peuEwAJrp2u7z3) | [Sogni d’oro](https://open.spotify.com/album/0SdGm7wUUA4ThFb0oazFz5) | 1:35 | 2021-10-07 |  |
+| [Soleado](https://open.spotify.com/track/0mZtMMDWYXSOSV4OZCi75V) | [Tom Abott](https://open.spotify.com/artist/4Mxad1PBRHlkgCRhpKhTbf) | [Soleado](https://open.spotify.com/album/54VyyjgjFO3kAUJiXVVU7o) | 1:39 | 2022-09-22 |  |
 | [Sometimes I Lie Awake](https://open.spotify.com/track/2Bn1ZCdWSE6HQQY6vJcRtI) | [Deirdre Shafer](https://open.spotify.com/artist/0ACgFROI0eDhKqeLMvqoYH) | [Sometimes I Lie Awake](https://open.spotify.com/album/1nBYCLfEE7SAbAzLh4SL95) | 1:33 | 2021-10-07 |  |
 | [Somewhere over the rainbow](https://open.spotify.com/track/5NoSvkAWZakc4pWrd3sJHC) | [Michael Andersen](https://open.spotify.com/artist/5gmOxTV1V68gGvOXDTopig) | [Lullaby](https://open.spotify.com/album/4b3Jt78QPsMfN2caOxo1i8) | 2:16 | 2021-10-07 |  |
 | [Sommeil de bébé](https://open.spotify.com/track/0iCLUNgMsi5Nc52xB6kvtv) | [Patrice Bijon](https://open.spotify.com/artist/3hmpAsI5NAjUWg42KjSXJS) | [Sommeil de bébé](https://open.spotify.com/album/3r6xu5uMB5xrbvknBuLjlv) | 1:31 | 2021-10-07 |  |
@@ -320,7 +323,7 @@
 | [The Yellow Rose](https://open.spotify.com/track/4Qn4wCKYnDJkAvQ6m8FP6e) | [Cosy Cat](https://open.spotify.com/artist/1hBpKFAxzX85r39gdoln3g) | [The Yellow Rose](https://open.spotify.com/album/1iypmahNGAJ415h9FN3oUo) | 2:20 | 2021-10-07 |  |
 | [There's a Hole In My Pants](https://open.spotify.com/track/4OxSiT6RAFsL2ezRFL1rAP) | [Olivia Frederickson](https://open.spotify.com/artist/3wn7ua143T3ZoIwzP8UCXK) | [There's a Hole In My Pants](https://open.spotify.com/album/3PmOrL92yXD6gWwHfOLnGi) | 1:53 | 2021-10-07 |  |
 | [This Is The Way](https://open.spotify.com/track/5r4OlQ86NhqM4kedvlFMws) | [Arya Dylan](https://open.spotify.com/artist/4M7zKy7koNuxlPdhZHfWA7) | [This Is The Way](https://open.spotify.com/album/6gU5ZfrxEmN868dQG7y0xa) | 1:14 | 2021-10-07 |  |
-| [This Little Light Of Mine](https://open.spotify.com/track/2j0aEdojLHM2N6TlaANyd7) | [Marla Thomson](https://open.spotify.com/artist/6vawkH5ddvxAkYs9dI8Crz) | [This Little Light Of Mine](https://open.spotify.com/album/6zZhhuDeCAB18QJfI4mZnS) | 2:20 | 2021-10-07 |  |
+| [This Little Light Of Mine](https://open.spotify.com/track/2j0aEdojLHM2N6TlaANyd7) | [Marla Thomson](https://open.spotify.com/artist/6vawkH5ddvxAkYs9dI8Crz) | [This Little Light Of Mine](https://open.spotify.com/album/6zZhhuDeCAB18QJfI4mZnS) | 2:20 | 2021-10-07 | 2022-09-23 |
 | [This Little Pig](https://open.spotify.com/track/6ordUlkJ8vG1gDkYcfR6Zq) | [Dorothy Baughman](https://open.spotify.com/artist/48UhwqnntjRekrZEcoZ0aL) | [Looby Loo](https://open.spotify.com/album/2n4JGmlRLImBzcHg5JqIU6) | 1:18 | 2021-10-07 |  |
 | [This Little Piggy](https://open.spotify.com/track/6dEtpCv2c4FT9MzTIhIB9M) | [Margot Robinson](https://open.spotify.com/artist/6AjVMCD9purahFDCRKyqF6) | [British Nursery Rhymes](https://open.spotify.com/album/5u3uB3Zg5ZT5dhxuCVgAja) | 1:51 | 2021-10-07 |  |
 | [This old man](https://open.spotify.com/track/2nQvWJbR4UHRndUPQXgwaC) | [Jascha van Nuenen](https://open.spotify.com/artist/0wxmGu7bfQkix7ZeK8A0mz) | [My Bonnie lies over the ocean](https://open.spotify.com/album/2oF4b0hzO8kR2uAFHRlFji) | 0:46 | 2021-10-07 | 2022-03-18 |
@@ -334,6 +337,7 @@
 | [Tommy Tortoise](https://open.spotify.com/track/6XCI3rblsYcL08EBn64RoG) | [Joanna Carlton](https://open.spotify.com/artist/7dXo2q3715N1By7UKzdBkN) | [Tommy Tortoise](https://open.spotify.com/album/7lwd6OpT6WlOULQJZNxKmX) | 1:44 | 2021-10-07 |  |
 | [Tomorrow](https://open.spotify.com/track/3ansqkO7A68z6xDhErpKpi) | [Mingmei Hsueh](https://open.spotify.com/artist/2Z1JaXCxqUBOH0Zm2Eyrxq) | [Lullabies](https://open.spotify.com/album/6v9K3CTqFHLK5SMavLKn5U) | 3:18 | 2021-10-07 | 2022-09-03 |
 | [Tomorrow is far away](https://open.spotify.com/track/6YEJBWnbtF0rPVwmdylcGA) | [Ariana Marroquín](https://open.spotify.com/artist/6oDAugLEiz4mYjZga0iP3Y) | [Tomorrow is far away](https://open.spotify.com/album/3GeN2Q5g2tfYXUvwgKZcXy) | 1:38 | 2021-10-07 |  |
+| [Tomorrow Is My Birthday](https://open.spotify.com/track/6m4pnakL7ZNIwp0Haqo6pH) | [Lea van der Eule](https://open.spotify.com/artist/2Irdbe7WQkenoyvCcEl6np) | [Tomorrow Is My Birthday](https://open.spotify.com/album/35dmglQdiUW5NMcZeA802d) | 2:00 | 2022-09-22 |  |
 | [Tonight all the stars all blinking](https://open.spotify.com/track/4YDIM1CZ20cVtRlT65khDY) | [Rozalia Simon](https://open.spotify.com/artist/3z1zbS49qlbXmefW7og4Tx) | [Tonight all the stars all blinking](https://open.spotify.com/album/4DsN8bFlHAd2zmr53qcwfE) | 1:55 | 2021-10-07 |  |
 | [Tooth Fairy's Lullaby](https://open.spotify.com/track/23tsfh5fSpuknZ5rDsYbpV) | [Mackenzie Gioví](https://open.spotify.com/artist/2nRazLbumkzkQArTaFncXW) | [Tooth Fairy's Lullaby](https://open.spotify.com/album/7ziSMHLD2hJ5gzTLNHOIWG) | 2:04 | 2021-10-07 |  |
 | [Touching the sky](https://open.spotify.com/track/4D9S99PiDD7HfzGr2Tfmaf) | [Joseph Turley](https://open.spotify.com/artist/3c9Mx9mtyfI6gv5czq8GPa) | [Touching the sky](https://open.spotify.com/album/0REKGFTLinAJl18qAxhPXv) | 1:40 | 2021-10-07 |  |

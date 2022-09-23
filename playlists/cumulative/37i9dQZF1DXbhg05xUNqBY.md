@@ -4,11 +4,12 @@
 
 > Breathe deep, and relax with the softer side of Christian music.
 
-71 songs - 4 hr 48 min - [published](https://open.spotify.com/playlist/4hszzPzSlNXEOlQljHhGJC)
+72 songs - 4 hr 51 min - [published](https://open.spotify.com/playlist/4hszzPzSlNXEOlQljHhGJC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [06:00 Sunrise](https://open.spotify.com/track/3mCfc1Sf16fonjtBdxZOXC) | [Jonathan Ogden](https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7) | [Twenty Four](https://open.spotify.com/album/0tyhsvvuD7LAkKv2Z9FfU2) | 2:18 | 2021-10-31 |  |
+| [Be My Shalom](https://open.spotify.com/track/6eGFb1mib8IH3F6QGirRIG) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4), [Meredith Andrews](https://open.spotify.com/artist/6qk2W9h3eE5UtPJlIatzsY) | [Be My Shalom](https://open.spotify.com/album/5Q3pr1K8HU2taEjuQavQac) | 3:07 | 2021-10-31 |  |
 | [Be Thou My Vision](https://open.spotify.com/track/1ygyed6ppQD1GRSKw5Bm21) | [Cherry Wee](https://open.spotify.com/artist/6s9lmiBnWMbiiUnuaTARaa) | [Be Thou My Vision](https://open.spotify.com/album/1dpxwkXjH3SkFEKoqG8NW7) | 3:36 | 2021-10-31 |  |
 | [Belovedness](https://open.spotify.com/track/2pAyv8F5dFMahqD5of77ty) | [Sarah Kroger](https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH) | [Belovedness](https://open.spotify.com/album/4B5hr91ODZS3Pn1zLz142m) | 3:42 | 2021-10-31 |  |
 | [Better View](https://open.spotify.com/track/173RgJWVkioV5Ngb8U6q90) | [Switch](https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN) | [Better View](https://open.spotify.com/album/5fjwampEKoaXEv81pDDQQ5) | 2:48 | 2021-10-31 |  |
@@ -62,7 +63,7 @@
 | [Same God \- Acoustic](https://open.spotify.com/track/4Q4fzpczkjfZRdpt6P2gDW) | [Hannah Kerr](https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq) | [Same God \(Acoustic\)](https://open.spotify.com/album/2r1aM6zqJOqmFBiCiQQ2Lt) | 3:44 | 2021-10-31 |  |
 | [Shiloh](https://open.spotify.com/track/5bbpGneGOh76SyDWEhZRXN) | [Audrey Assad](https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw) | [Shiloh](https://open.spotify.com/album/1fQcrISwcL6Xg8O46S8ytG) | 4:28 | 2021-10-31 |  |
 | [Show Me What It Means](https://open.spotify.com/track/7rA6eHljnanyoQ5QyHWQrv) | [Land of Color](https://open.spotify.com/artist/42YoF8fzPiMbU5dlf59YuQ) | [Show Me What It Means](https://open.spotify.com/album/0WJ9VhlvVj1U0QADkAz02d) | 4:30 | 2021-10-31 |  |
-| [So Well](https://open.spotify.com/track/7H2oCmru9QL84hO04PIffN) | [Caleb and Kelsey](https://open.spotify.com/artist/7l0sphz32GV0AjjEhECpVg) | [So Well](https://open.spotify.com/album/4fTsqC23xThgybhDfyjKry) | 4:49 | 2021-10-31 |  |
+| [So Well](https://open.spotify.com/track/7H2oCmru9QL84hO04PIffN) | [Caleb and Kelsey](https://open.spotify.com/artist/7l0sphz32GV0AjjEhECpVg) | [So Well](https://open.spotify.com/album/4fTsqC23xThgybhDfyjKry) | 4:49 | 2021-10-31 | 2022-09-23 |
 | [Springtime](https://open.spotify.com/track/0TmYlHDVP4gUTkUbl7AIsv) | [Chris Renzema](https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT) | [Let the Ground Rest](https://open.spotify.com/album/67cPtLz0jVSsGHWLiIMip7) | 4:14 | 2021-10-31 |  |
 | [Sueños](https://open.spotify.com/track/3nOjFj0WWbsci9foo3o2tk) | [Un Corazón](https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm), [Daniel Jaguar](https://open.spotify.com/artist/1BB1RTgquZcIV9ZmbVYqhu) | [Todos A La Mesa](https://open.spotify.com/album/6Etivewzt1lcrYkWUAqnd9) | 4:29 | 2021-10-31 |  |
 | [Sunrise](https://open.spotify.com/track/1U9teJ7N3lMrDzued877qU) | [John Mark Pantana](https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG) | [Sunrise](https://open.spotify.com/album/5DhIZm5AX92oYAFlZzj05T) | 2:50 | 2021-10-31 |  |

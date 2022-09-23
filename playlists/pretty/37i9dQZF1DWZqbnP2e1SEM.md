@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqbnP2e1SEM.md) - [plain]
 
 > From Ayia Napa to Ibiza, the biggest anthems from your favourite holiday hotspots.
 
-[Spotify](https://open.spotify.com/user/spotify) - 318,967 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 318,982 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqbnP2e1SEM.md) - [plain]
 | 43 | [It's A Killa](https://open.spotify.com/track/2cAYjs1WvosMFadzTDmmzD) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [It's A Killa](https://open.spotify.com/album/1ogCIMBO0ju1EP18pir9Tt) | 3:20 |
 | 44 | [365 \(Thr33 6ix 5ive\)](https://open.spotify.com/track/5Q4MxA344M8VyFieIC4YTk) | [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl) | [365 \(Thr33 6ix 5ive\)](https://open.spotify.com/album/2CPEiNpmYAciWrkFNPUgQC) | 2:31 |
 | 45 | [Temptation \(feat\. Poppy Baskcomb\)](https://open.spotify.com/track/3fvsxmytTns1ApIWBqfANZ) | [Jess Bays](https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Temptation \(feat\. Poppy Baskcomb\)](https://open.spotify.com/album/30K7gYPhkqCeQJ25C0GvXE) | 2:52 |
-| 46 | [Used To This](https://open.spotify.com/track/6IlL9Xlnm0Oq6wXSe6TH9v) | [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r), [Issey Cross](https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U) | [Used to This](https://open.spotify.com/album/48vV65b1zjT4lCeO5MplHm) | 3:46 |
-| 47 | [Sun Came Up](https://open.spotify.com/track/2wf2KMhjoHSZXKVHNBoTMg) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205) | [Sun Came Up](https://open.spotify.com/album/0XKusTPfwHVCYWzsn2kN8i) | 3:22 |
+| 46 | [Sun Came Up](https://open.spotify.com/track/2wf2KMhjoHSZXKVHNBoTMg) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205) | [Sun Came Up](https://open.spotify.com/album/0XKusTPfwHVCYWzsn2kN8i) | 3:22 |
+| 47 | [Used To This](https://open.spotify.com/track/6IlL9Xlnm0Oq6wXSe6TH9v) | [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r), [Issey Cross](https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U) | [Used to This](https://open.spotify.com/album/48vV65b1zjT4lCeO5MplHm) | 3:46 |
 | 48 | [soft spot](https://open.spotify.com/track/3BBFjy5w9S66h3ys6cQtvI) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN) | [soft spot](https://open.spotify.com/album/5A3dh1CIsZwBTppyUsiBtV) | 3:39 |
 | 49 | [My Love](https://open.spotify.com/track/5Vi0u7cGTcPrXk6ZOoppnp) | [Jethro Heston](https://open.spotify.com/artist/1Qj4wPnd5DKW7TXALK7Xfj) | [My Love](https://open.spotify.com/album/09zYedT6OABvIqKBuEH3zE) | 2:36 |
 | 50 | [I'm Just Feelin' \(Du Du Du\)](https://open.spotify.com/track/73ThEGwF5i9GrsXXGyZBRa) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB) | [I'm Just Feelin' \(Du Du Du\)](https://open.spotify.com/album/73TbTmEjh6VgGCjz7ichnB) | 2:44 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqbnP2e1SEM.md) - [plain]
 | 93 | [Playing Games](https://open.spotify.com/track/7E4bsEMTezUdZY2zPGGUb6) | [Silky](https://open.spotify.com/artist/3dlippLcdVGBPKVFhnWXaF) | [Playing Games](https://open.spotify.com/album/4S3JaFhxQHmgzN0uu7JUVL) | 3:08 |
 | 94 | [System \(feat\. WizKid\)](https://open.spotify.com/track/5laAdwuT8EEvkIXrmrhRSB) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [System \(feat\. WizKid\)](https://open.spotify.com/album/5ABN8cUVC3sZZQQLvGjiUM) | 3:01 |
 | 95 | [Want You To Want Me](https://open.spotify.com/track/5cBHDVijSYGOpgnSx7rBuw) | [Alex Mills](https://open.spotify.com/artist/6z9EDgWh3ZJZKIJI5Q71Cq) | [Want You To Want Me](https://open.spotify.com/album/4NHmZ3UJiiK9ppIZeqoQE5) | 3:07 |
-| 96 | [Never Let Me Down](https://open.spotify.com/track/3PBxGPKTvxXvcP1Z7dDc3Q) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [Hayley May](https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued) | [Olympia](https://open.spotify.com/album/3r4dG6bUfL4jasKeo50kLE) | 3:05 |
-| 97 | [Crystallise](https://open.spotify.com/track/7jJfACKhaxK3kF3bda6AVS) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Crystallise](https://open.spotify.com/album/11faQiUnyNFKWJYpj1HXsK) | 3:02 |
+| 96 | [Crystallise](https://open.spotify.com/track/7jJfACKhaxK3kF3bda6AVS) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Crystallise](https://open.spotify.com/album/11faQiUnyNFKWJYpj1HXsK) | 3:02 |
+| 97 | [Never Let Me Down](https://open.spotify.com/track/3PBxGPKTvxXvcP1Z7dDc3Q) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [Hayley May](https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued) | [Olympia](https://open.spotify.com/album/3r4dG6bUfL4jasKeo50kLE) | 3:05 |
 | 98 | [Out The Door](https://open.spotify.com/track/1u00EMt2762l5buwd6uQAK) | [Hot Since 82](https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS) | [Out The Door](https://open.spotify.com/album/4R53BlPojGyGmWd0UVIH9Y) | 3:06 |
 | 99 | [Not In Love \(feat\. LOWES\)](https://open.spotify.com/track/28MLM0VRhhcqtWzxsNLvwu) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco), [LOWES](https://open.spotify.com/artist/1mbybf2CrAiwWiznqA8R3g) | [Not In Love \(feat\. LOWES\)](https://open.spotify.com/album/6bPw3hRULbo1TP1718uPGo) | 3:43 |
 | 100 | [Secrets](https://open.spotify.com/track/6h2WDabbgcDfnTLiMJ2wqH) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Secrets](https://open.spotify.com/album/5gz0manw16JDHq1wwJDZl7) | 2:56 |
 
-Snapshot ID: `MTY1NTczNDk5NywwMDAwMDAwMDZiYzQ0YmJmMDBlZDgyNzk1ZDFlMzFkMjlkYmEwNDI4`
+Snapshot ID: `MTY1NTczNDk5NywwMDAwMDAwMGVjZjJhNmEzOTY3NDYyNDlmNTgyMWE4ODMyZDFhZDAw`

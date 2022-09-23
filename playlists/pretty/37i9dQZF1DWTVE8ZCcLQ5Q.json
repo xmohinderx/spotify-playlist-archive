@@ -1,12 +1,12 @@
 {
   "description": "Descubra Mac J\u00falia e novos talentos brasileiros no horizonte.",
-  "num_followers": 421324,
+  "num_followers": 421322,
   "original_name": "RADAR Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDUzMjQ2MCwwMDAwMDAwMDVlZDM1YWNhMGI4ODA2YWU2YjJiZTZiYWRmZTY4M2E4",
+  "snapshot_id": "MTY2MDUzMjQ2MCwwMDAwMDAwMDdlY2VmNjk4N2M2YjQyMTEyOWQzODE4MTFiN2NlODZj",
   "tracks": [
     {
       "added_at": "2022-08-15 03:01:00",
@@ -539,6 +539,22 @@
     {
       "added_at": "2022-08-15 03:01:00",
       "album": {
+        "name": "bonita e miser\u00e1vel",
+        "url": "https://open.spotify.com/album/2uF3enSQoCCusAYTAiIWhK"
+      },
+      "artists": [
+        {
+          "name": "Clarissa",
+          "url": "https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK"
+        }
+      ],
+      "duration_ms": 171601,
+      "name": "bonita e miser\u00e1vel",
+      "url": "https://open.spotify.com/track/1ePCG4jmr5NWT84Pw678kZ"
+    },
+    {
+      "added_at": "2022-08-15 03:01:00",
+      "album": {
         "name": "Garrafa Colorida",
         "url": "https://open.spotify.com/album/13nFR7PUVvMRC1jx2BgFmC"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 164000,
       "name": "Garrafa Colorida",
       "url": "https://open.spotify.com/track/1JtXsY6NZbBhuBq0X8dzgE"
-    },
-    {
-      "added_at": "2022-08-15 03:01:00",
-      "album": {
-        "name": "bonita e miser\u00e1vel",
-        "url": "https://open.spotify.com/album/2uF3enSQoCCusAYTAiIWhK"
-      },
-      "artists": [
-        {
-          "name": "Clarissa",
-          "url": "https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK"
-        }
-      ],
-      "duration_ms": 171601,
-      "name": "bonita e miser\u00e1vel",
-      "url": "https://open.spotify.com/track/1ePCG4jmr5NWT84Pw678kZ"
     },
     {
       "added_at": "2022-08-15 03:01:00",
@@ -647,26 +647,6 @@
     {
       "added_at": "2022-08-15 03:01:00",
       "album": {
-        "name": "Quente e Colorido",
-        "url": "https://open.spotify.com/album/5A63mDBA1MSmqUpMU5ZSac"
-      },
-      "artists": [
-        {
-          "name": "Illy",
-          "url": "https://open.spotify.com/artist/5gWFbdcQOMRYz1cdCuBxWO"
-        },
-        {
-          "name": "Marina Sena",
-          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
-        }
-      ],
-      "duration_ms": 228223,
-      "name": "Quente e Colorido",
-      "url": "https://open.spotify.com/track/18ngMCPo2m3W4rDzuUs9Cn"
-    },
-    {
-      "added_at": "2022-08-15 03:01:00",
-      "album": {
         "name": "Meu Amor",
         "url": "https://open.spotify.com/album/074aWj0vTp7r0JTZWBvvOQ"
       },
@@ -683,6 +663,26 @@
       "duration_ms": 146347,
       "name": "Meu Amor",
       "url": "https://open.spotify.com/track/6QXTXu1Rezdb7gMcVvRXeC"
+    },
+    {
+      "added_at": "2022-08-15 03:01:00",
+      "album": {
+        "name": "Quente e Colorido",
+        "url": "https://open.spotify.com/album/5A63mDBA1MSmqUpMU5ZSac"
+      },
+      "artists": [
+        {
+          "name": "Illy",
+          "url": "https://open.spotify.com/artist/5gWFbdcQOMRYz1cdCuBxWO"
+        },
+        {
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        }
+      ],
+      "duration_ms": 228223,
+      "name": "Quente e Colorido",
+      "url": "https://open.spotify.com/track/18ngMCPo2m3W4rDzuUs9Cn"
     },
     {
       "added_at": "2022-08-15 03:01:00",
@@ -751,6 +751,26 @@
     {
       "added_at": "2022-08-15 03:01:00",
       "album": {
+        "name": "PELE",
+        "url": "https://open.spotify.com/album/57LANvZ85BtVlj31EAY7EK"
+      },
+      "artists": [
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "Terra",
+          "url": "https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW"
+        }
+      ],
+      "duration_ms": 134264,
+      "name": "Matem\u00e1tica",
+      "url": "https://open.spotify.com/track/1xRxdXBGDY5O89pKp40i0L"
+    },
+    {
+      "added_at": "2022-08-15 03:01:00",
+      "album": {
         "name": "BXD IN JAZZ",
         "url": "https://open.spotify.com/album/2ocVVPThABbahLeYHR9FBO"
       },
@@ -783,26 +803,6 @@
       "duration_ms": 192170,
       "name": "O \u00daltimo Xote do Ano",
       "url": "https://open.spotify.com/track/23r1Kyn3hD7gRAgxWkW5Bb"
-    },
-    {
-      "added_at": "2022-08-15 03:01:00",
-      "album": {
-        "name": "PELE",
-        "url": "https://open.spotify.com/album/57LANvZ85BtVlj31EAY7EK"
-      },
-      "artists": [
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        },
-        {
-          "name": "Terra",
-          "url": "https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW"
-        }
-      ],
-      "duration_ms": 134264,
-      "name": "Matem\u00e1tica",
-      "url": "https://open.spotify.com/track/1xRxdXBGDY5O89pKp40i0L"
     },
     {
       "added_at": "2022-08-15 03:01:00",
@@ -847,6 +847,26 @@
       "duration_ms": 205718,
       "name": "Jogo Sujo",
       "url": "https://open.spotify.com/track/4dr0AjgSS9kfTD9U8bfOnF"
+    },
+    {
+      "added_at": "2022-08-15 03:01:00",
+      "album": {
+        "name": "Contram\u00e3o",
+        "url": "https://open.spotify.com/album/0dF3Hp05Ud1aUXPz8qv8X2"
+      },
+      "artists": [
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "Taleko",
+          "url": "https://open.spotify.com/artist/1YMyvUKZLJeBYhN9nmJhyz"
+        }
+      ],
+      "duration_ms": 222857,
+      "name": "Contram\u00e3o",
+      "url": "https://open.spotify.com/track/00CCXySfYOVAXvRb8y8bmo"
     },
     {
       "added_at": "2022-08-15 03:01:00",
@@ -907,26 +927,6 @@
     {
       "added_at": "2022-08-15 03:01:00",
       "album": {
-        "name": "Contram\u00e3o",
-        "url": "https://open.spotify.com/album/0dF3Hp05Ud1aUXPz8qv8X2"
-      },
-      "artists": [
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        },
-        {
-          "name": "Taleko",
-          "url": "https://open.spotify.com/artist/1YMyvUKZLJeBYhN9nmJhyz"
-        }
-      ],
-      "duration_ms": 222857,
-      "name": "Contram\u00e3o",
-      "url": "https://open.spotify.com/track/00CCXySfYOVAXvRb8y8bmo"
-    },
-    {
-      "added_at": "2022-08-15 03:01:00",
-      "album": {
         "name": "Vendaval (Ao Vivo)",
         "url": "https://open.spotify.com/album/0CdhqJwe0aAWf0Oz7SYSiF"
       },
@@ -983,22 +983,6 @@
     {
       "added_at": "2022-08-15 03:01:00",
       "album": {
-        "name": "poderia ser pior",
-        "url": "https://open.spotify.com/album/3vaeQA1qsbog2MZKhMbt1O"
-      },
-      "artists": [
-        {
-          "name": "Number Teddie",
-          "url": "https://open.spotify.com/artist/18TympJ9X4CQ45GYy7sORT"
-        }
-      ],
-      "duration_ms": 172414,
-      "name": "poderia ser pior",
-      "url": "https://open.spotify.com/track/0ksL64x432xlpRa2ii0bqN"
-    },
-    {
-      "added_at": "2022-08-15 03:01:00",
-      "album": {
         "name": "SIM SIM SIM",
         "url": "https://open.spotify.com/album/5lPgAWFWtQOUllSFzoWJtx"
       },
@@ -1031,22 +1015,18 @@
     {
       "added_at": "2022-08-15 03:01:00",
       "album": {
-        "name": "Encruzilhada",
-        "url": "https://open.spotify.com/album/2Mfu5KHRKxv7NwkyKbFnwk"
+        "name": "poderia ser pior",
+        "url": "https://open.spotify.com/album/3vaeQA1qsbog2MZKhMbt1O"
       },
       "artists": [
         {
-          "name": "Young Piva",
-          "url": "https://open.spotify.com/artist/6kNuO9sY94kxMuRAwsCzOH"
-        },
-        {
-          "name": "Baco Exu do Blues",
-          "url": "https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf"
+          "name": "Number Teddie",
+          "url": "https://open.spotify.com/artist/18TympJ9X4CQ45GYy7sORT"
         }
       ],
-      "duration_ms": 151374,
-      "name": "Fogo",
-      "url": "https://open.spotify.com/track/7pkFFPkSYa9JJY9dvZDjoc"
+      "duration_ms": 172414,
+      "name": "poderia ser pior",
+      "url": "https://open.spotify.com/track/0ksL64x432xlpRa2ii0bqN"
     },
     {
       "added_at": "2022-08-15 03:01:00",
@@ -1071,6 +1051,26 @@
       "duration_ms": 158569,
       "name": "Prata Amor",
       "url": "https://open.spotify.com/track/3aiKlNW8MgZFzA3cGsaJWJ"
+    },
+    {
+      "added_at": "2022-08-15 03:01:00",
+      "album": {
+        "name": "Encruzilhada",
+        "url": "https://open.spotify.com/album/2Mfu5KHRKxv7NwkyKbFnwk"
+      },
+      "artists": [
+        {
+          "name": "Young Piva",
+          "url": "https://open.spotify.com/artist/6kNuO9sY94kxMuRAwsCzOH"
+        },
+        {
+          "name": "Baco Exu do Blues",
+          "url": "https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf"
+        }
+      ],
+      "duration_ms": 151374,
+      "name": "Fogo",
+      "url": "https://open.spotify.com/track/7pkFFPkSYa9JJY9dvZDjoc"
     },
     {
       "added_at": "2022-08-15 03:01:00",

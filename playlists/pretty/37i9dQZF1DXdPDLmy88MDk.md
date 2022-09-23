@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdPDLmy88MDk.md) - [plain]
 
 > Gentle instrumental tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,744 likes - 103 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,868 likes - 103 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdPDLmy88MDk.md) - [plain]
 | 5 | [Loom \- Sunrise Session II](https://open.spotify.com/track/42DSWZ06VzGVzuoRwZEHHe) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Reykjavík Recording Orchestra](https://open.spotify.com/artist/2vv6MgWm0GauKxYJXA4TFN) | [Loom \(Sunrise Session II\)](https://open.spotify.com/album/0lCyefnvL1HqQkpXl5HjC5) | 3:46 |
 | 6 | [Bylur](https://open.spotify.com/track/3xjaaBf7ef5TWermNspKOM) | [Eydís Evensen](https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx) | [Bylur](https://open.spotify.com/album/1qNi4PwUQTGAJxDFABvGw7) | 4:11 |
 | 7 | [Deux Pensées](https://open.spotify.com/track/4jgazYikKO5Xhctuhc0snS) | [Darker In Vine](https://open.spotify.com/artist/58jh9fSzagZAZLbetSDIIg) | [Deux Pensées](https://open.spotify.com/album/25AWPRVmAbWIiGe7pIm9xA) | 2:49 |
-| 8 | [Papillon \- Solo Piano Version](https://open.spotify.com/track/1gbI7NTfAbYIqEkOdjI3Yo) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Papillon \(Solo Piano Version\)](https://open.spotify.com/album/1ABCgTKvrHDqtaQJoVL8LB) | 2:56 |
+| 8 | [Papillon \- Solo Piano Version](https://open.spotify.com/track/6rrjDzYFuGQjpUk4hwfRJn) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Evermore \(Solo Piano Version\)](https://open.spotify.com/album/1h1ZsE5v8PlJhtbXODCYCS) | 2:56 |
 | 9 | [The Arts and the Hours](https://open.spotify.com/track/1G3QPQkoXvpChjNUhd6Tfs) | [Jean\-Philippe Rameau](https://open.spotify.com/artist/4JSWO1Pf2zV991fq64uAce), [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Rameau, Ólafsson: The Arts and the Hours](https://open.spotify.com/album/4omnRCjOvnHa3ETQlqZpd1) | 4:45 |
 | 10 | [Schumann: Kinderszenen, Op\. 15 \- 7\. 梦幻曲](https://open.spotify.com/track/3WUgND9BFNDFEbkCB9AzHg) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Gina Alice](https://open.spotify.com/artist/2h8Yy5xhlNbJsekoeiPhbb) | [Schumann: Kinderszenen, Op\. 15: 7\. 梦幻曲](https://open.spotify.com/album/0KLbEsucZJHClx3bjLeZbu) | 3:14 |
 | 11 | [Lilac](https://open.spotify.com/track/67U3BF1e1PTw6DF1LLRPcF) | [Emil Brandqvist](https://open.spotify.com/artist/5u17bcLy3Geti3XAx7gSr8) | [Lilac](https://open.spotify.com/album/0yEDrVPu9cPGu23o1ulSbC) | 4:05 |
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdPDLmy88MDk.md) - [plain]
 | 102 | [Crisantemi for string orchestra](https://open.spotify.com/track/0ObV8vQoB8SJLf6vGv4xhB) | [Giacomo Puccini](https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc), [Antonio Pappano](https://open.spotify.com/artist/0xHw5qPRSEc8sUmSmXf5sw) | [Puccini: Messa di Gloria](https://open.spotify.com/album/2y9CgDrQ19SbbO9rsmihCT) | 7:01 |
 | 103 | [Infinité](https://open.spotify.com/track/4rMf7O7IA7M8Aly99i3GSd) | [Dan Evmark](https://open.spotify.com/artist/6u2qrVRsvJjOpbTYwH6Xsp), [Paula Gustafsson](https://open.spotify.com/artist/7hqiEu32L3foRmOiP7ealx) | [Silent Moves \- Music by Dan Evmark](https://open.spotify.com/album/4pmY5rkR1S9OgZ8EYcKO4g) | 4:22 |
 
-Snapshot ID: `MTY2MzU4OTgxMCwwMDAwMDAwMGUzODEzNGExOWM5ZDU5OWIxOTI0YjA1M2YzNjU5ODk4`
+Snapshot ID: `MTY2MzU4OTgxMCwwMDAwMDAwMGU0ODFkMTdmMmZkN2MyMTg3NjVlOTQ4MmYxZjk2Yjcw`

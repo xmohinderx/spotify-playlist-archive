@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones cristianas\.  Foto: Anmily Brown
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,792 likes - 100 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,838 likes - 100 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,9 +65,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 55 | [Tumba](https://open.spotify.com/track/3pG0dfvF8vQZY10HOit7UM) | [JXHN PVUL](https://open.spotify.com/artist/28H3boz2aIeGYUIEP3cHUU), [Tommy Royale](https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs) | [Tumba](https://open.spotify.com/album/0gAvd9iYu6hKJ3DvE9oZv2) | 2:32 |
 | 56 | [Corazón](https://open.spotify.com/track/0OxK3aqp1yo6d0s87J4v9X) | [Rubinsky Rbk](https://open.spotify.com/artist/5K6MRaKDEJ1bLuHQQFaUFH), [MC Ari](https://open.spotify.com/artist/4isXRQYJjFLguM6c4VoBtW) | [Corazón](https://open.spotify.com/album/6rrhTrRoDHIAOrqudQ65Yt) | 3:37 |
 | 57 | [Lo Volverás a Hacer](https://open.spotify.com/track/5MCSuE4VwYj7aOOcfnqiWJ) | [Jeff Mojica](https://open.spotify.com/artist/1LGZGN1qiHt1HtNHJ0nGBg), [Lowsan Melgar](https://open.spotify.com/artist/4MgA2G0NoAMdcFBaK5ZAfw) | [Lo Volverás a Hacer](https://open.spotify.com/album/7uLEeDyg4eehLd5qLh73Iq) | 5:48 |
-| 58 | [Con Qué Pagaré?](https://open.spotify.com/track/2LKYoKY35J9bd69QLbGOoG) | [Pablo Martinez](https://open.spotify.com/artist/5IirgPwhfjHp6MDFXbLRdz), [Cristóbal Fones, Sj](https://open.spotify.com/artist/4Jqs0PJ4Q5gmz1WzS1OUHk) | [Con Qué Pagaré?](https://open.spotify.com/album/5SOg5hB6NprWFePQ4uRcn7) | 3:32 |
-| 59 | [Estaré Seguro](https://open.spotify.com/track/3AfacExClFa3lPSks81Ht3) | [Visión Juvenil](https://open.spotify.com/artist/6P1AgVQCZ5tlKMroVruWlz) | [Visión Juvenil \- EP \(En Vivo\)](https://open.spotify.com/album/2gZml9TloSkU0idJyvJUFA) | 4:21 |
-| 60 | [158](https://open.spotify.com/track/2r6TFHq0fbHY0WExjjAkAN) | [Peter Metivier](https://open.spotify.com/artist/1dRxdmjynLZ3uWalEN5wrg), [El Philippe](https://open.spotify.com/artist/3COYG9FFfTZQEB5B58Ufi1) | [158](https://open.spotify.com/album/4atRfdVDjejaG9x0wgiNt8) | 3:11 |
+| 58 | [Estaré Seguro](https://open.spotify.com/track/3AfacExClFa3lPSks81Ht3) | [Visión Juvenil](https://open.spotify.com/artist/6P1AgVQCZ5tlKMroVruWlz) | [Visión Juvenil \- EP \(En Vivo\)](https://open.spotify.com/album/2gZml9TloSkU0idJyvJUFA) | 4:21 |
+| 59 | [158](https://open.spotify.com/track/2r6TFHq0fbHY0WExjjAkAN) | [Peter Metivier](https://open.spotify.com/artist/1dRxdmjynLZ3uWalEN5wrg), [El Philippe](https://open.spotify.com/artist/3COYG9FFfTZQEB5B58Ufi1) | [158](https://open.spotify.com/album/4atRfdVDjejaG9x0wgiNt8) | 3:11 |
+| 60 | [Con Qué Pagaré?](https://open.spotify.com/track/2LKYoKY35J9bd69QLbGOoG) | [Pablo Martinez](https://open.spotify.com/artist/5IirgPwhfjHp6MDFXbLRdz), [Cristóbal Fones, Sj](https://open.spotify.com/artist/4Jqs0PJ4Q5gmz1WzS1OUHk) | [Con Qué Pagaré?](https://open.spotify.com/album/5SOg5hB6NprWFePQ4uRcn7) | 3:32 |
 | 61 | [Ando Buscando](https://open.spotify.com/track/4CtrV2YrWF6AeaFmIPzP1j) | [Pablo Betancourth](https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe), [Oveja Cosmica](https://open.spotify.com/artist/753kMQPUSpCNEXk4YcEUy6) | [Ando Buscando](https://open.spotify.com/album/15lgAi4rF8nNEwMQwjzBAU) | 2:40 |
 | 62 | [Glory](https://open.spotify.com/track/4cNUbTFJ1WnVLPu4j8qRHR) | [Odanis BSK](https://open.spotify.com/artist/2equ79Fk9Rj9vmQsuJpIJ9) | [Glory](https://open.spotify.com/album/3bNF1FxN1oofpgzJjq8LeT) | 3:01 |
 | 63 | [A Puerta Cerrada](https://open.spotify.com/track/0HzcNtVVpTB3IdrzHhfrTO) | [Daniela Galeano](https://open.spotify.com/artist/5iBuQW2ANJlj4eqhEv43Be), [CRYS](https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI) | [A Puerta Cerrada](https://open.spotify.com/album/42XTtNruyb9nf3KAihCEG9) | 3:05 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 99 | [Mi Eterno Destino \- Live Session From Los Angeles](https://open.spotify.com/track/0R76qZVB37v5LpuwRNZgkB) | [Estación Cero](https://open.spotify.com/artist/0ICDrTxXsdPG2nopFWSRyI) | [Mi Eterno Destino \(Live Session From Los Angeles\)](https://open.spotify.com/album/4ZNs1mvGqLfSbHr86jynKy) | 3:39 |
 | 100 | [Alentador](https://open.spotify.com/track/79conTU66MZOzGtVoYVV6Z) | [Mariannah y Diego](https://open.spotify.com/artist/2bZwH6BImOFTkOPaSdbtOG), [Tito\-S7](https://open.spotify.com/artist/3ih1E30XDXDPEXXvDyG1W5) | [Con Amigos I](https://open.spotify.com/album/37heT14OSQCyFiF1NkjRNz) | 3:32 |
 
-Snapshot ID: `MTY2MzMxNjk0MywwMDAwMDAwMDQ1MTIwMDQyMGMwZTJjYTgwZTU0MGQ3MzVhMjlhODBl`
+Snapshot ID: `MTY2MzMxNjk0MywwMDAwMDAwMDc1YzU4NTExOTViNmY5MTdkOGNkNzQzYzA3ZjQ4NjIx`

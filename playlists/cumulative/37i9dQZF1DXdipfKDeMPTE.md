@@ -4,7 +4,7 @@
 
 > Moody beats for sleepless nights.
 
-324 songs - 12 hr 15 min - [published](https://open.spotify.com/playlist/1KoQ1qVTSCCy8X3hTp8pGe)
+327 songs - 12 hr 21 min - [published](https://open.spotify.com/playlist/1KoQ1qVTSCCy8X3hTp8pGe)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,6 +179,7 @@
 | [messy](https://open.spotify.com/track/5nvL2YxmnbQyuu7aGrI68K) | [luvuto](https://open.spotify.com/artist/5jjdhw89A0Q9drbfysftNm) | [messy](https://open.spotify.com/album/3630vAsANBxtui6vKFSigL) | 1:36 | 2022-05-20 |  |
 | [METAVERSE](https://open.spotify.com/track/1w2zpyoSEfy2AyY4DevJRM) | [upper class](https://open.spotify.com/artist/2NtGuhjeGjxetrptLSQHV0) | [METAVERSE](https://open.spotify.com/album/2NluYXYPbWKF3RsZ8Kn5XB) | 1:42 | 2022-05-20 |  |
 | [Midnight](https://open.spotify.com/track/2ot6dciYtrBq1agHgjwojD) | [Joe Lee Noire](https://open.spotify.com/artist/5c9fBAFhEu0crejR4zKumg) | [Midnight](https://open.spotify.com/album/4gEyeinm1ECFzwKXYbI6SW) | 1:54 | 2022-08-19 |  |
+| [Midnight Cigar](https://open.spotify.com/track/3f0NlJqwjtfPdmXbE2rpfH) | [Guidolain beats](https://open.spotify.com/artist/5ORspEJvAWz3OgMR8gOqcP) | [Midnight Cigar](https://open.spotify.com/album/2d7WHw8dMJsHHsKA69mER9) | 2:06 | 2022-09-23 |  |
 | [Midnight Moonlight](https://open.spotify.com/track/59uMk0XV0H5ZGbao7TkwKf) | [Rakuyou](https://open.spotify.com/artist/7tQNGIV5AjrU5htrzL0JSe) | [Midnight Moonlight](https://open.spotify.com/album/4bDOHHsPgh8VE8koFxKHuV) | 2:41 | 2022-08-05 |  |
 | [Midnight Oil](https://open.spotify.com/track/7MGZ6G0or7ihnQ0zY9MQ5z) | [Mad Seedling](https://open.spotify.com/artist/7BZ7k3A6VWTeuE8i0y5hbu), [Fred Paci](https://open.spotify.com/artist/24snO5m4Z01DjKf5gtl14T), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [Midnight Oil](https://open.spotify.com/album/0olsBDcHn95BV3dwI5KJ6w) | 3:01 | 2022-05-20 | 2022-07-28 |
 | [miletones](https://open.spotify.com/track/4vqrhPRaeoJ8pHL6dKTlfW) | [luvuto](https://open.spotify.com/artist/5jjdhw89A0Q9drbfysftNm) | [miletones](https://open.spotify.com/album/1JK0ujihjq1lSOBXrS38Mg) | 2:27 | 2022-05-20 |  |
@@ -189,6 +190,7 @@
 | [Missing You](https://open.spotify.com/track/0IhDHRbFUfg3MaG1iQUClb) | [Tru Beri](https://open.spotify.com/artist/5ycHMRtAIjlIQ2P5NMvI5k) | [Missing You](https://open.spotify.com/album/3qjbuBW6voCrKP8N2xvqGQ) | 1:36 | 2022-05-20 |  |
 | [Moody floral](https://open.spotify.com/track/04coIyF2UZ6pMFUw28z4at) | [DarkSkyBeats](https://open.spotify.com/artist/3au6RfUJ60t2YXgysbwf2w) | [Moody floral](https://open.spotify.com/album/20XvqhIXpmeSnmpCY3DprN) | 1:39 | 2022-05-20 |  |
 | [Moon Shine](https://open.spotify.com/track/0SAnO4rUQJEC4IBxozew6W) | [Drogra](https://open.spotify.com/artist/46C1yy45Hsu5NlD7QnNFri) | [Moon Shine](https://open.spotify.com/album/30WANbBaynnPKdkVBQHgjm) | 2:49 | 2022-05-20 | 2022-07-01 |
+| [Moondust](https://open.spotify.com/track/5wVL5oe3j2S11EZc3qmA1R) | [Codewav](https://open.spotify.com/artist/1Mbu0fBSAzxejpvhss6A5B) | [Moondust](https://open.spotify.com/album/5kwjoMQO24KAKGTX16rdRl) | 2:00 | 2022-09-23 |  |
 | [Morgana](https://open.spotify.com/track/3DYyHUe3wG4F1ahZf2XLCm) | [En Rie](https://open.spotify.com/artist/3P18mn1T53JU82867PDYbM), [Lobi9](https://open.spotify.com/artist/3QO5tWYbDbzZ4jer6EDqUq) | [Mediado](https://open.spotify.com/album/5VDUfxSdbWaCOcrq0eFGMS) | 1:33 | 2022-05-20 | 2022-06-10 |
 | [Morning Mist](https://open.spotify.com/track/0ROMwF8gNj8dCog0D8zStX) | [Jelika](https://open.spotify.com/artist/3eJdbQVaYyybG0aBrDdI5u) | [Morning Mist](https://open.spotify.com/album/7czewPa3OyAV9f4kBbUqFR) | 1:40 | 2022-05-20 |  |
 | [moth](https://open.spotify.com/track/2cIUDGUdIV5TsFGa7FbDsX) | [benny yu](https://open.spotify.com/artist/5IIHfmIpUekEkjUethyUN0) | [moth](https://open.spotify.com/album/5NpnJyCssyy0BizGiOo0Ri) | 2:05 | 2022-05-20 |  |
@@ -240,6 +242,7 @@
 | [Pour the Blue](https://open.spotify.com/track/6b7oKYz6sfV90rMTG4Bkvu) | [Jackson Hacking](https://open.spotify.com/artist/220Ej7lTYoyJxdsbGwahB6) | [Pour The Blue](https://open.spotify.com/album/1TzJxGqIZ81oRWXdiEkisM) | 2:05 | 2022-05-20 |  |
 | [Prickly Pear](https://open.spotify.com/track/29ZE7tvn32CJskQ5QS8BKw) | [Fona](https://open.spotify.com/artist/1Z9Kmnj7PimziF4URnIzL2), [Bertholet](https://open.spotify.com/artist/2igm2vmbeYibaElfyvj9XQ) | [Cactus Files](https://open.spotify.com/album/6LFKdb0RZhEl3GvVLvITuc) | 1:47 | 2022-05-20 | 2022-06-10 |
 | [Purple & Yellow](https://open.spotify.com/track/5Q4X6JGfoZM89iGSNGt2XR) | [Idyllik Beat](https://open.spotify.com/artist/2iIteXiNI5fVOATQamujmX) | [Purple & Yellow](https://open.spotify.com/album/2pUZ78mijQuuZSH6Tsb0xz) | 2:15 | 2022-05-20 |  |
+| [Purple Jazz Night](https://open.spotify.com/track/53M1z8lbsdPK3ohCpQJCj7) | [Matija Lazic](https://open.spotify.com/artist/7n5I2WFL66EZNrmd1rxBnB), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Purple Jazz Night](https://open.spotify.com/album/0f0Tpwwj0SahGcGMoGsPml) | 1:40 | 2022-09-23 |  |
 | [Quiet Corner](https://open.spotify.com/track/4DSlgCK59DficPnapF5kTE) | [softy](https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB) | [Quiet Corner](https://open.spotify.com/album/6mAljgRl93rNIkcDzUbFsF) | 2:48 | 2022-07-15 |  |
 | [Rainy Day](https://open.spotify.com/track/1yqAghmGXkcct0tQQCdS4w) | [Funky Fella](https://open.spotify.com/artist/1fbcnomvhK1HKLYFmquYMA) | [Rainy Day](https://open.spotify.com/album/1Nf5o3mcLP0TBOn53FYqY5) | 3:01 | 2022-05-20 |  |
 | [Recharged](https://open.spotify.com/track/2g6jTX11fvtm2i41UBIJ8B) | [Steve Blino](https://open.spotify.com/artist/24usk464uzsxYNFHCgagLj) | [Recharged](https://open.spotify.com/album/3T3QnyIKArgnarUJVbV7bR) | 2:22 | 2022-05-20 |  |

@@ -354,6 +354,24 @@
     },
     {
       "album": {
+        "name": "Boats",
+        "url": "https://open.spotify.com/album/4DCapP89AOJsWAAfXGRlvP"
+      },
+      "artists": [
+        {
+          "name": "Penga Scain",
+          "url": "https://open.spotify.com/artist/5A7ldCfxlH3KQLsqAFzhF2"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200689,
+      "name": "Boats",
+      "url": "https://open.spotify.com/track/6LgD6X1ckTSAH0J7fhc1h7"
+    },
+    {
+      "album": {
         "name": "Bonez",
         "url": "https://open.spotify.com/album/40RcBRJGlIp9zlsWuGHGGj"
       },
@@ -563,7 +581,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 310714,
       "name": "Crepuscular",
       "url": "https://open.spotify.com/track/5mFUHYZXlZhiSdqKmscDcU"
@@ -959,7 +977,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 158181,
       "name": "Enigma",
       "url": "https://open.spotify.com/track/3uPv7gwfs6YzUVeD8pyZ4c"
@@ -977,7 +995,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 299508,
       "name": "Fade Away",
       "url": "https://open.spotify.com/track/3RO9tD7ttecxGrxJ0te80c"
@@ -1193,7 +1211,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 281908,
       "name": "From Here To Eternity",
       "url": "https://open.spotify.com/track/0CVApUBXDYlSnqFtAl7E1S"
@@ -1643,7 +1661,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 162153,
       "name": "Kissing on the Dance Floor",
       "url": "https://open.spotify.com/track/3LHZHqkVQRfUbxWli3717M"
@@ -2183,7 +2201,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 164571,
       "name": "reflect",
       "url": "https://open.spotify.com/track/0MLoEubW0HuTuHMYphRBgd"
@@ -2741,7 +2759,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 223309,
       "name": "Still Dancin\u2019",
       "url": "https://open.spotify.com/track/3wip8pMVqbfItdSuXhm1PK"

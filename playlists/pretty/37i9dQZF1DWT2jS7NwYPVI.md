@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > Here's your cheat sheet for everything on the rise in the rock/alt world\. Cover: Starcrawler
 
-[Spotify](https://open.spotify.com/user/spotify) - 403,618 likes - 126 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 403,868 likes - 126 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,7 +117,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 107 | [Time](https://open.spotify.com/track/36d2zV9oeEiDlkZmiZaZE1) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Good Old](https://open.spotify.com/album/73cqG0sJJq82DL93j5qU34) | 4:22 |
 | 108 | [Grace](https://open.spotify.com/track/4i4gcJSMofr3Pe9YWThzRp) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB) | [\(self\-titled\)](https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE) | 4:13 |
 | 109 | [Doomed](https://open.spotify.com/track/5hlZoMfZ53CuPdnJhVzJzi) | [New Friends](https://open.spotify.com/artist/7aHNy2bjgGqOeFqUZ1shgb) | [Doomed](https://open.spotify.com/album/20gXBrfqHiZpUCFuVWCeup) | 2:25 |
-| 110 | [Here to Forever](https://open.spotify.com/track/3uKLuVqBd0bIUfFDdn68lI) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Here to Forever](https://open.spotify.com/album/3ysrZoXIO6es1hsQI2iTeZ) | 3:46 |
+| 110 | [Here to Forever](https://open.spotify.com/track/7Cva2EgJougx6O6M5xgWAq) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Asphalt Meadows](https://open.spotify.com/album/2PIWPTOIxbaVSjTnc30vXS) | 3:46 |
 | 111 | [Change](https://open.spotify.com/track/1Iq8H2uEpjyfkLQbUYdY5V) | [Jany Green](https://open.spotify.com/artist/1Qg99NvQcJaAMmmDl6nPRv) | [Change](https://open.spotify.com/album/1Og1tMxcRr64qwuA5T6BKu) | 2:51 |
 | 112 | [Growing/Dying](https://open.spotify.com/track/4JAFlkYkNy1MM6zOqRbiGp) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [Growing/Dying](https://open.spotify.com/album/29kPpfrcYvtyTD1nhXxui0) | 3:32 |
 | 113 | [Around and Around](https://open.spotify.com/track/3lT43G3g9c8149QDWAjrYA) | [The Happy Fits](https://open.spotify.com/artist/73rPcaYEhBd0UuVZBqqyQJ) | [Under The Shade of Green](https://open.spotify.com/album/17bTwQsIx4na7kUDtKKrvk) | 2:34 |
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 125 | [stay volk](https://open.spotify.com/track/3JphgObk2MgLvmS0Fu26pL) | [Mobley](https://open.spotify.com/artist/6ZGf9hyQy1jpBZFb7nBWcP) | [stay volk](https://open.spotify.com/album/2gxXQJm3eMeZDP7OHKCibZ) | 2:48 |
 | 126 | [Dangerous State of Mind](https://open.spotify.com/track/4iwjEJYExvmBM5w75RTuLv) | [Chri$tian Gate$](https://open.spotify.com/artist/0OEYE03fBF2VoTBxGuaUxL) | [Dangerous State of Mind](https://open.spotify.com/album/5dDbh3KtUuXAGq77CeFYGD) | 1:55 |
 
-Snapshot ID: `MTY2MzMwMDg2MCwwMDAwMDAwMDIwZDA3NmNkYTM0ZWRkMTI3YzhmMjQ4YjUyNDRmZWFm`
+Snapshot ID: `MTY2MzMwMDg2MCwwMDAwMDAwMDlkMzJkNDkzYTg4ODY2Y2I3ZWU0YzVjNTkyZjhkNzAw`

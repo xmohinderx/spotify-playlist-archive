@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AWGsjpYHPA.md) - [plain]
 
 > Hand\-curated cuts from the vault, no record player required.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,390 likes - 75 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,491 likes - 75 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,15 +73,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AWGsjpYHPA.md) - [plain]
 | 63 | [My Queen Is Albertina Sisulu](https://open.spotify.com/track/28uZjhU60BosFYSMJLJoQ3) | [Sons Of Kemet](https://open.spotify.com/artist/3pvRbmrqOyFxB2Eext4Dki) | [Your Queen Is A Reptile](https://open.spotify.com/album/4pxnDGBdoGu88h8ZInX5f5) | 5:14 |
 | 64 | [Water](https://open.spotify.com/track/22QE1KHFMkl96UTjeDQ4GV) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh) | [Water](https://open.spotify.com/album/6Dao9eIV6CntMa9sH2YP2B) | 4:58 |
 | 65 | [La Perla](https://open.spotify.com/track/4pNlEl7y5pT9f9zFy0oxXb) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [La Perla](https://open.spotify.com/album/4N2nM5QZXYNbWPtxOADiAw) | 5:27 |
-| 66 | [The Chocolate Conquistadors \(From Grand Theft Auto Online: The Cayo Perico Heist\)](https://open.spotify.com/track/6HOLZtVDh5EgvPnW4z23n2) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL) | [The Chocolate Conquistadors \(From Grand Theft Auto Online: The Cayo Perico Heist\)](https://open.spotify.com/album/3ev38ci4cqU1Ic8vmNri3D) | 7:00 |
-| 67 | [Before](https://open.spotify.com/track/0FjyvdAffyJcnvbv3dLFyw) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Before](https://open.spotify.com/album/5vqILcEeCT0N1DeJBsLrGE) | 4:47 |
+| 66 | [Before](https://open.spotify.com/track/0FjyvdAffyJcnvbv3dLFyw) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Before](https://open.spotify.com/album/5vqILcEeCT0N1DeJBsLrGE) | 4:47 |
+| 67 | [The Chocolate Conquistadors \(From Grand Theft Auto Online: The Cayo Perico Heist\)](https://open.spotify.com/track/6HOLZtVDh5EgvPnW4z23n2) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL) | [The Chocolate Conquistadors \(From Grand Theft Auto Online: The Cayo Perico Heist\)](https://open.spotify.com/album/3ev38ci4cqU1Ic8vmNri3D) | 7:00 |
 | 68 | [Gated Area](https://open.spotify.com/track/2bdKTq31MlD9tQEzSPBVWl) | [Pool Boy](https://open.spotify.com/artist/0JA5uqKcjlx67kfQ5atued), [Cyril Hahn](https://open.spotify.com/artist/4EFMHRFpgrpfp0AVEBp4m2) | [All Inclusive](https://open.spotify.com/album/3Ds49Xs732sr7FXcH6OrLJ) | 3:48 |
 | 69 | [Do What You Gotta Do](https://open.spotify.com/track/1WP7Snm91AFyvhWb3s8UB8) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [The Very Best Of Nina Simone 1967\-1972 \- Sugar In My Bowl](https://open.spotify.com/album/5Dh4qVmcMpDv5qhgdaqGtj) | 3:34 |
 | 70 | [Nterini \- A COLORS SHOW](https://open.spotify.com/track/3G7Mvni5YaF5UgJWGp5nQe) | [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC) | [Nterini \- A COLORS SHOW](https://open.spotify.com/album/6JErS4p9PuTYxCmeWu6Eaq) | 3:51 |
 | 71 | [Garden](https://open.spotify.com/track/1Wrmm4XppIEegxMsU8utlv) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Trouble](https://open.spotify.com/album/1srFzlchwSOzxO8n99tJxP) | 4:35 |
-| 72 | [Jazz Vol\. 1](https://open.spotify.com/track/2f9TCHbHyWF85G9LDjjwiF) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV) | [Jazz Vol\. 1](https://open.spotify.com/album/2cWeR05mqXycoHSAHaCBMV) | 6:37 |
-| 73 | [London\. Paris\. Berlin.](https://open.spotify.com/track/5mxQ1JcGnb3sTu5zO08ZTK) | [Shire T](https://open.spotify.com/artist/0AIim12jO78DuyyUYbHfAe), [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg) | [London\. Paris\. Berlin.](https://open.spotify.com/album/1dDsbruFq4OZMM1Xj3KF6v) | 4:05 |
+| 72 | [Action Line](https://open.spotify.com/track/1TZQO0HgZq6jj6P9GgD2xS) | [Dorothy Ashby](https://open.spotify.com/artist/0dAZ2slrElfR0Y5flcoSPt) | [Afro\-Harping](https://open.spotify.com/album/1XEPKavl3nlI2qVt8HuA5n) | 3:41 |
+| 73 | [Jazz Vol\. 1](https://open.spotify.com/track/2f9TCHbHyWF85G9LDjjwiF) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV) | [Jazz Vol\. 1](https://open.spotify.com/album/2cWeR05mqXycoHSAHaCBMV) | 6:37 |
 | 74 | [I Know](https://open.spotify.com/track/4oV37nYkVu3IZ64ZGxghT7) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [OnlyL](https://open.spotify.com/album/3S0Bc7ND7GBGyBUElLAXqU) | 4:48 |
-| 75 | [Disco Dancer](https://open.spotify.com/track/297SLwXcZw0ZUourOzPQpU) | [Kiki Gyan](https://open.spotify.com/artist/4lxYjU4q6B1KoDJOvNXzQy) | [24 Hours in a Disco 1978\-82](https://open.spotify.com/album/0p1PYyKaMEsDboqHmERvZu) | 6:56 |
+| 75 | [London\. Paris\. Berlin.](https://open.spotify.com/track/5mxQ1JcGnb3sTu5zO08ZTK) | [Shire T](https://open.spotify.com/artist/0AIim12jO78DuyyUYbHfAe), [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg) | [London\. Paris\. Berlin.](https://open.spotify.com/album/1dDsbruFq4OZMM1Xj3KF6v) | 4:05 |
 
-Snapshot ID: `MTY2MzI4MTE1NywwMDAwMDAwMDg3MWQxMzQ5NjdjMzg4MGEwMGJjNjEwYjk1MDUwMDRh`
+Snapshot ID: `MTY2MzI4MTE1NywwMDAwMDAwMGI1N2RkMGZhNDc4YTE1MTY0MzgzZTIzYTk5MmE1ZjRm`

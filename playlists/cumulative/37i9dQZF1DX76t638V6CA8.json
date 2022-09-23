@@ -172,6 +172,24 @@
     },
     {
       "album": {
+        "name": "4 The Win",
+        "url": "https://open.spotify.com/album/6vjPlRatcX5zG3vUNJO3mv"
+      },
+      "artists": [
+        {
+          "name": "D-Block Europe",
+          "url": "https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207083,
+      "name": "4 The Win",
+      "url": "https://open.spotify.com/track/2ci77PsnWsDLd57Opdud6a"
+    },
+    {
+      "album": {
         "name": "4Real",
         "url": "https://open.spotify.com/album/2bnWbydPjn7gxv7sDuBJG1"
       },
@@ -5297,7 +5315,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 206385,
       "name": "Nail Tech",
       "url": "https://open.spotify.com/track/62Yo3FDddWY8ydu6PW2wyz"

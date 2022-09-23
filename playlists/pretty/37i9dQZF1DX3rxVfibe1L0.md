@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rxVfibe1L0.md) - [plain]
 
 > Get happy with today's dose of feel\-good songs!
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,241,380 likes - 76 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,242,480 likes - 76 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rxVfibe1L0.md) - [plain]
 | 27 | [Electric Love](https://open.spotify.com/track/2GiJYvgVaD2HtM8GqD9EgQ) | [BØRNS](https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo) | [Dopamine](https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw) | 3:38 |
 | 28 | [Light Switch](https://open.spotify.com/track/1BSMpVGWs3v5BZKnAQziAc) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Light Switch](https://open.spotify.com/album/6PBwTu4IgZMQNTKtrgxzZQ) | 3:05 |
 | 29 | [Summer of Love \(Shawn Mendes & Tainy\)](https://open.spotify.com/track/0z8hI3OPS8ADPWtoCjjLl6) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [Summer Of Love](https://open.spotify.com/album/4nProAxFavzKkbaRQ2Otyk) | 3:04 |
-| 30 | [Meet Me At Our Spot](https://open.spotify.com/track/07MDkzWARZaLEdKxo6yArG) | [THE ANXIETY](https://open.spotify.com/artist/64H8UqGLbJFHwKtGxiV8OP), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Tyler Cole](https://open.spotify.com/artist/1xoxekeb8jUVHKJB7m6bfg) | [THE ANXIETY](https://open.spotify.com/album/2kZyqn4Cmr78D74K9TcO4K) | 2:42 |
-| 31 | [2 Be Loved \(Am I Ready\)](https://open.spotify.com/track/2rmwqU7yzTvzkiaRV53DpT) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 3:07 |
+| 30 | [2 Be Loved \(Am I Ready\)](https://open.spotify.com/track/2rmwqU7yzTvzkiaRV53DpT) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 3:07 |
+| 31 | [Meet Me At Our Spot](https://open.spotify.com/track/07MDkzWARZaLEdKxo6yArG) | [THE ANXIETY](https://open.spotify.com/artist/64H8UqGLbJFHwKtGxiV8OP), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Tyler Cole](https://open.spotify.com/artist/1xoxekeb8jUVHKJB7m6bfg) | [THE ANXIETY](https://open.spotify.com/album/2kZyqn4Cmr78D74K9TcO4K) | 2:42 |
 | 32 | [When I’m Gone \(with Katy Perry\)](https://open.spotify.com/track/5902W4uHWzhtOff1UK7the) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [When I’m Gone \(with Katy Perry\)](https://open.spotify.com/album/5itVTi6rI3MlOcWBxROxd9) | 2:41 |
 | 33 | [Coast \(feat\. Anderson .Paak\)](https://open.spotify.com/track/1l4iQsOZ5sOXZPMQLvouaB) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Coast](https://open.spotify.com/album/0152qvGv0mmX2vU36Rocng) | 2:46 |
 | 34 | [Overpass Graffiti](https://open.spotify.com/track/4btFHqumCO31GksfuBLLv3) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:56 |
@@ -73,11 +73,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rxVfibe1L0.md) - [plain]
 | 63 | [Clarity](https://open.spotify.com/track/5c6lM2zjAF6MFoD8C1hiBr) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Clarity](https://open.spotify.com/album/4V3BerycmgxqE3sr3RaDYE) | 3:47 |
 | 64 | [SUPERBLOOM](https://open.spotify.com/track/2HvtedoEeymVWrBPyAMNwZ) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [SUPERBLOOM](https://open.spotify.com/album/59f3BAKRdlWeaGTetnUPob) | 3:33 |
 | 65 | [Joy](https://open.spotify.com/track/4Hn4zAkBUaNnT8m9p7cYaf) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Joy](https://open.spotify.com/album/0Pq6IzsPjGObrhLlaqn9eM) | 3:13 |
-| 66 | [You \(with Marshmello & Vance Joy\)](https://open.spotify.com/track/1GkHyypTFkUf0QQKwYoXH4) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [You \(with Marshmello & Vance Joy\)](https://open.spotify.com/album/3U75bXq9LhqZoaGoBCXikn) | 2:49 |
-| 67 | [Blueberry Eyes \(feat\. SUGA of BTS\)](https://open.spotify.com/track/5dn6QANKbf76pANGjMBida) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [SUGA](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) | [Blueberry Eyes \(feat\. SUGA of BTS\)](https://open.spotify.com/album/2dEJHnsuxIij7YeBbt0sVm) | 2:52 |
+| 66 | [Wonder Woman](https://open.spotify.com/track/3BLWGYOcy1svvsBByeFxLh) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [LEGEND](https://open.spotify.com/album/0kRBs6M0VbrourQ6fYbCiJ) | 2:48 |
+| 67 | [You \(with Marshmello & Vance Joy\)](https://open.spotify.com/track/1GkHyypTFkUf0QQKwYoXH4) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [You \(with Marshmello & Vance Joy\)](https://open.spotify.com/album/3U75bXq9LhqZoaGoBCXikn) | 2:49 |
 | 68 | [Sheesh!](https://open.spotify.com/track/3ddNKnYpVx0uI8vcwbTQ5Y) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u), [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [Sheesh!](https://open.spotify.com/album/7aGQrZNnvPaOc0PVm7yuc5) | 2:28 |
 | 69 | [Love Again](https://open.spotify.com/track/1imMjt1YGNebtrtTAprKV7) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/5lKlFlReHOLShQKyRv6AL9) | 4:18 |
-| 70 | [Wonder Woman](https://open.spotify.com/track/3BLWGYOcy1svvsBByeFxLh) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [LEGEND](https://open.spotify.com/album/0kRBs6M0VbrourQ6fYbCiJ) | 2:48 |
+| 70 | [Blueberry Eyes \(feat\. SUGA of BTS\)](https://open.spotify.com/track/5dn6QANKbf76pANGjMBida) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [SUGA](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) | [Blueberry Eyes \(feat\. SUGA of BTS\)](https://open.spotify.com/album/2dEJHnsuxIij7YeBbt0sVm) | 2:52 |
 | 71 | [Cloudy Day](https://open.spotify.com/track/0mA7zotmg2ZFMRALljdZsS) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Cloudy Day](https://open.spotify.com/album/3IbmFFjHMuAkhfk1zFDSow) | 3:05 |
 | 72 | [WHERE WE ARE](https://open.spotify.com/track/7l987hjMH9FBNXBE93Hrs7) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [BRIGHTSIDE](https://open.spotify.com/album/3K8XmeN3jQvl6reRJcfakL) | 2:52 |
 | 73 | [Don't I Make It Look Easy](https://open.spotify.com/track/0Bm2kjXM4w6JlwS6jpTmfO) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Don't I Make It Look Easy](https://open.spotify.com/album/0vAG2gPTupFRMmpPf9qAB1) | 2:34 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rxVfibe1L0.md) - [plain]
 | 75 | [Little Bit of Love](https://open.spotify.com/track/78q4ESvMkPVJzHAV11LAGE) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Little Bit of Love \(Acoustic\)](https://open.spotify.com/album/4TFniUvcapARz1DzhdKPas) | 3:46 |
 | 76 | [Big Energy](https://open.spotify.com/track/5lHxARJJrZc3ss4ZVmGWfz) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Big Energy](https://open.spotify.com/album/4tY28Pau74a3kkOEQGGS0b) | 2:53 |
 
-Snapshot ID: `MTY2MjY5NjAwMCwwMDAwMDAwMDAxNjlmZmVkYjVmZGQwZDU4NzQxZDg4OGNiYzIzNGI1`
+Snapshot ID: `MTY2MjY5NjAwMCwwMDAwMDAwMDQyNTkzOGJiY2M2YzEwMDc4ODRlYjBhNTgxZWNmMDYw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA91mpJ5Ldc.md) - [plain]
 
 > Música brasileira para temperar as receitas do dia\-a\-dia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,895 likes - 60 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,921 likes - 60 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,11 +34,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA91mpJ5Ldc.md) - [plain]
 | 24 | [Onde Estará](https://open.spotify.com/track/0hbNJXcaPK4cQD78fh8uSR) | [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4) | [Nonsense, Vol\. 1](https://open.spotify.com/album/0psPVRixSPuaBChZnZ9Eot) | 3:37 |
 | 25 | [Num Mundo de Paz](https://open.spotify.com/track/6zZbf1v1Ngdc52IzlVCPUP) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Num Mundo de Paz](https://open.spotify.com/album/4qp1Py4SsDovYGY21R3fKu) | 5:42 |
 | 26 | [Decisão de Te Amar](https://open.spotify.com/track/6iyBtf6dboO5YVYS3XUbVC) | [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [Te Amo Lá Fora](https://open.spotify.com/album/5o6MJpi6Y4fQwI8gmv0oZc) | 4:06 |
-| 27 | [Calma](https://open.spotify.com/track/1IcI7zO7RvGKGWx5jRNouz) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Calma](https://open.spotify.com/album/4NnapYcmIcnlJXB22BPve5) | 3:06 |
-| 28 | [Sonar](https://open.spotify.com/track/7sBW1PIwPe0RhgkQByk0EG) | [BaianaSystem](https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5), [Curumin](https://open.spotify.com/artist/1W1k6LUPDR0l4zwvKR4YLI), [Edgar](https://open.spotify.com/artist/0ZeTpaHiNCZFAuQ7v1fZ7Z) | [O Futuro Não Demora](https://open.spotify.com/album/195RDcBkD9dUqWBO75eCgQ) | 2:50 |
+| 27 | [Sonar](https://open.spotify.com/track/7sBW1PIwPe0RhgkQByk0EG) | [BaianaSystem](https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5), [Curumin](https://open.spotify.com/artist/1W1k6LUPDR0l4zwvKR4YLI), [Edgar](https://open.spotify.com/artist/0ZeTpaHiNCZFAuQ7v1fZ7Z) | [O Futuro Não Demora](https://open.spotify.com/album/195RDcBkD9dUqWBO75eCgQ) | 2:50 |
+| 28 | [Calma](https://open.spotify.com/track/1IcI7zO7RvGKGWx5jRNouz) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Calma](https://open.spotify.com/album/4NnapYcmIcnlJXB22BPve5) | 3:06 |
 | 29 | [Areia Fina](https://open.spotify.com/track/5UmNv7EMn8Re0LTNMDSUNE) | [Tiago Nacarato](https://open.spotify.com/artist/3mwYj8Nb9VZbAnLpli7l8X), [Fran](https://open.spotify.com/artist/1vrYVHeXLynVOgRmAxzHq1) | [Areia Fina](https://open.spotify.com/album/5u12FbXvV6Fs2fqGPngRbg) | 3:31 |
-| 30 | [Me Toca](https://open.spotify.com/track/2uSeVS09DW8FnBgc61eHDW) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Me Toca](https://open.spotify.com/album/7n5J2k1hvnJ9UZ1BGBBLrU) | 3:06 |
-| 31 | [Alumiô](https://open.spotify.com/track/1wBZJA59toDn4TESZRPxs3) | [Luiza Lian](https://open.spotify.com/artist/0mqrSBamArf14pPZE2Q9kW), [Bixiga 70](https://open.spotify.com/artist/6rUeHFntOV8tgpoUJvEthU) | [Alumiô](https://open.spotify.com/album/358AvliXpqAtQY1grWwuQ1) | 3:24 |
+| 30 | [Alumiô](https://open.spotify.com/track/1wBZJA59toDn4TESZRPxs3) | [Luiza Lian](https://open.spotify.com/artist/0mqrSBamArf14pPZE2Q9kW), [Bixiga 70](https://open.spotify.com/artist/6rUeHFntOV8tgpoUJvEthU) | [Alumiô](https://open.spotify.com/album/358AvliXpqAtQY1grWwuQ1) | 3:24 |
+| 31 | [Me Toca](https://open.spotify.com/track/2uSeVS09DW8FnBgc61eHDW) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Me Toca](https://open.spotify.com/album/7n5J2k1hvnJ9UZ1BGBBLrU) | 3:06 |
 | 32 | [Pra todas as mulheres](https://open.spotify.com/track/1ixHR8sknQnSFD9lR6Pn6K) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH) | [Pra todas as mulheres](https://open.spotify.com/album/4OiLzpWqd2LTlqxOHOtjXQ) | 2:48 |
 | 33 | [Minha Menina Bonita](https://open.spotify.com/track/0BjeHGTju5g3kIa8ed9vrs) | [Fino Coletivo](https://open.spotify.com/artist/4w4OsEmXP5ogC0U7CLnOrH) | [Copacabana](https://open.spotify.com/album/0ubqLWyiFgB4n2TfQ45rhs) | 3:58 |
 | 34 | [Besteira](https://open.spotify.com/track/01DihPKWcCgJazoqZPfq0s) | [YOÙN](https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi), [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t) | [Besteira](https://open.spotify.com/album/3hOEphZEIj8V8UyrIMDLn6) | 3:33 |
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA91mpJ5Ldc.md) - [plain]
 | 54 | [No Stress](https://open.spotify.com/track/2fIdSo9QPKWtlc29d9L0u3) | [Lamparina](https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z) | [ZAM ZAM](https://open.spotify.com/album/1e7w1jb3tAk4BRXZORhWa6) | 3:32 |
 | 55 | [Fim do Horizonte](https://open.spotify.com/track/7D3Kw5T7nQtM3Cg5jgNVeX) | [Diogo Nogueira](https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd), [Hamilton De Holanda](https://open.spotify.com/artist/5Bn4jYRlfMfbxVwfPDGeL8) | [Fim do Horizonte](https://open.spotify.com/album/46bYEuUXkQl7pL0p88TdgJ) | 3:20 |
 | 56 | [Sem Medo](https://open.spotify.com/track/31YDFOH4f9fOhF0CGWEFds) | [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [Sem Medo](https://open.spotify.com/album/36P5zxfGnYSXock4EQgLcA) | 4:12 |
-| 57 | [Andar Sozinho \(feat\. Jão\)](https://open.spotify.com/track/6VgqKm7c4chTnDmyInAxPS) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD), [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [Andar Sozinho \(feat\. Jão\)](https://open.spotify.com/album/1hwlO0NqvY5Lpsynz93sVP) | 3:00 |
-| 58 | [Mais Uma de Carnaval](https://open.spotify.com/track/2xWRAo3t3gFZr05I9yC8WM) | [Gabriel Coelho](https://open.spotify.com/artist/6DsLWHhRTF9iOzDJ1UCELx) | [O Funk Mais Triste da Cidade](https://open.spotify.com/album/1xqqsPHIOiruUb2eDsQdYs) | 2:50 |
+| 57 | [Mais Uma de Carnaval](https://open.spotify.com/track/2xWRAo3t3gFZr05I9yC8WM) | [Gabriel Coelho](https://open.spotify.com/artist/6DsLWHhRTF9iOzDJ1UCELx) | [O Funk Mais Triste da Cidade](https://open.spotify.com/album/1xqqsPHIOiruUb2eDsQdYs) | 2:50 |
+| 58 | [Andar Sozinho \(feat\. Jão\)](https://open.spotify.com/track/6VgqKm7c4chTnDmyInAxPS) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD), [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [Andar Sozinho \(feat\. Jão\)](https://open.spotify.com/album/1hwlO0NqvY5Lpsynz93sVP) | 3:00 |
 | 59 | [Parafuso](https://open.spotify.com/track/6EEglMg2h3npZVTQQzIOeX) | [Qinhones](https://open.spotify.com/artist/0pcMoyp7o9Fv8sGMm9rjAU) | [Parafuso](https://open.spotify.com/album/76F6NYWGJgkqU3WbR9Mo3F) | 4:39 |
 | 60 | [Chororô](https://open.spotify.com/track/2Q8gzfsNUErbquwqiWGu9w) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Bom Mesmo É Estar Debaixo D'Água](https://open.spotify.com/album/72RsVQVhqVjyBfsTCThFpq) | 3:29 |
 
-Snapshot ID: `MTY2MjQ4NjA4OSwwMDAwMDAwMDQyODVkZmY2N2FjM2NkN2RkZmMyNjNhY2EzNTYxOGQz`
+Snapshot ID: `MTY2MjQ4NjA4OSwwMDAwMDAwMDIwYjY2OTQyNzgyMGNlMTk5ZTk4NDQ1MjZlMTcyMTI3`

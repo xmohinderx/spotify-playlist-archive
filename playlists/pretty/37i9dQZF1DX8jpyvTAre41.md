@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 
 > The hottest tunes in rock\. Crank it up! Cover: Nickelback
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,664 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,669 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 | 41 | [29](https://open.spotify.com/track/0REv856zadB0e8IM1brlwr) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [HOLY FVCK](https://open.spotify.com/album/2QX21ryT6SIcft6N3PkfeR) | 2:43 |
 | 42 | [hover like a GODDESS](https://open.spotify.com/track/5lq8H9zq9v4wDVyNHOoTVX) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [hover like a GODDESS](https://open.spotify.com/album/4arIDrVDtHLb3qVOY35Qvf) | 2:23 |
 | 43 | [9 lives](https://open.spotify.com/track/17XY1uAyl0lrFqiMp1aQXO) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [mainstream sellout \(life in pink deluxe\)](https://open.spotify.com/album/5mj5NblnMMm5G3n1cugGH7) | 3:01 |
-| 44 | [Next Ex](https://open.spotify.com/track/1jvHT0EOuvcPF8FT5A9G6V) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [Next Ex](https://open.spotify.com/album/5pHz874yawnTG7hK0bgHWO) | 2:09 |
+| 44 | [Next Ex](https://open.spotify.com/track/6pkDDxuxe9gkkLRI33mQFn) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [It Was Fun While It Lasted \(Deluxe\)](https://open.spotify.com/album/2LTrehfUzphv3iBocifvSY) | 2:09 |
 | 45 | [wish i was dead](https://open.spotify.com/track/16dzo8i1mlh2AkmQ4DhwXH) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [wish i was dead](https://open.spotify.com/album/3B4UmoO1zRScG8X8MSDHy4) | 1:38 |
 | 46 | [Yeah, I Like You](https://open.spotify.com/track/6kNOYOpdMy0w67fC4XPc0q) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Yeah, I Like You](https://open.spotify.com/album/0vlDeWXsRPN0GZkdIoykfT) | 4:24 |
 | 47 | [you're not special](https://open.spotify.com/track/6Mc1snn8uClt3FzkUREymB) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [you're not special](https://open.spotify.com/album/7vvGNS9MRPrzfi0cHbDeQC) | 2:46 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 | 99 | [Fallout](https://open.spotify.com/track/2JBk2XZLjS0N4x3mFHINM6) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Fallout](https://open.spotify.com/album/74K2vGYMdCCO29n4s4Y41h) | 3:14 |
 | 100 | [Never Said I Love You](https://open.spotify.com/track/1CTvIWh1mje3HTU3jMSCRf) | [Envy Of None](https://open.spotify.com/artist/2wwArB2zsZyIIThkewLBaZ) | [Envy of None](https://open.spotify.com/album/23Iuy4cXEOCOdmbnkb8ZIy) | 4:06 |
 
-Snapshot ID: `MTY2MzM0NDQ2MCwwMDAwMDAwMDVkYTg3ZmVmMmNhOTUyMmNmMzkyNGU2NGJmNjJiYThh`
+Snapshot ID: `MTY2MzM0NDQ2MCwwMDAwMDAwMDE1ZThlMDRmNWI5YmYyYjRiZjIxNzRkYTNlMWNlOWRm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LTcinqsO68.md) - [plain]
 
 > Like the old school sound of metal? Then you'll love this playlist! Cover: Megadeth
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,313,674 likes - 125 songs - 9 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,314,615 likes - 125 songs - 9 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LTcinqsO68.md) - [plain]
 | 60 | [Overkill](https://open.spotify.com/track/3Staqm5EYDnYBqcwuxrWjZ) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Overkill \(Expanded Bonus Track Edition\)](https://open.spotify.com/album/5iw08epzFaKtmX3y2vRVU6) | 5:11 |
 | 61 | [Stargazer](https://open.spotify.com/track/1aDNYyeU62BuQsBAY18i48) | [Rainbow](https://open.spotify.com/artist/6SLAMfhOi7UJI0fMztaK0m) | [Rising](https://open.spotify.com/album/3uIT4I4Dy7Pq1j0aSjzPW9) | 8:26 |
 | 62 | [Balls to the Wall](https://open.spotify.com/track/2dbOYFfS7r7NAzquRvji9A) | [Accept](https://open.spotify.com/artist/3JDIAtVrJdQ7GFOX26LYpv) | [Balls To The Wall](https://open.spotify.com/album/2twCPCDGJjVD90GWUjA8vN) | 5:42 |
-| 63 | [Lay It Down](https://open.spotify.com/track/3D5ORNm9spaTcdRx50ksHx) | [Ratt](https://open.spotify.com/artist/3tufWJzpCiAGleBt5TkmTn) | [Invasion of Privacy](https://open.spotify.com/album/7CzsLoFBEMElxviJoApcAI) | 3:25 |
+| 63 | [Lay It Down](https://open.spotify.com/track/3D5ORNm9spaTcdRx50ksHx) | [Ratt](https://open.spotify.com/artist/3tufWJzpCiAGleBt5TkmTn) | [Invasion of Your Privacy](https://open.spotify.com/album/7CzsLoFBEMElxviJoApcAI) | 3:25 |
 | 64 | [Modern Day Cowboy](https://open.spotify.com/track/5ZIU2kT1wNjQNclQeVCz5O) | [Tesla](https://open.spotify.com/artist/0dgnITyIAN4NrmUVisvxHU) | [Mechanical Resonance](https://open.spotify.com/album/1VctZj1UuAgfqtnDcTlzGI) | 5:18 |
 | 65 | [In My Darkest Hour \- Remastered](https://open.spotify.com/track/5LO0sJCkNMZYLYeGOvblLu) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [So Far, So Good...So What! \(2004 Remaster\)](https://open.spotify.com/album/5f4vbRLrRmoDH0zpdQnyrE) | 6:26 |
 | 66 | [Madhouse](https://open.spotify.com/track/76BYv24CcZt2u94JRjmATX) | [Anthrax](https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP) | [Spreading The Disease](https://open.spotify.com/album/0qEFMrunmeRHqzI9xAnu9L) | 4:19 |
@@ -82,9 +82,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LTcinqsO68.md) - [plain]
 | 72 | [Seventeen](https://open.spotify.com/track/2ZS0wDcdfrJPC86u5aJGo9) | [Winger](https://open.spotify.com/artist/2qQeKHrQJHLLbvDAOSO874) | [Winger](https://open.spotify.com/album/4aMtQDeDMAHBfh7cE87PWo) | 4:05 |
 | 73 | [Highway Star](https://open.spotify.com/track/4gVTozEmzwAUXpwj3jEetX) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Machine Head](https://open.spotify.com/album/1EK3a0Yctg4d3nGQzE4Uty) | 6:08 |
 | 74 | [Alone Again](https://open.spotify.com/track/1j06ieEC2BOCM0fTmYhn2l) | [Dokken](https://open.spotify.com/artist/09hNSPPOxDop4FRdr6UEnq) | [Tooth and Nail](https://open.spotify.com/album/0opFMR8DprHzu1nPHhoHuL) | 4:22 |
-| 75 | [The Kids Are Back](https://open.spotify.com/track/7xzmJPFQAn0O1ZYYtbGRlz) | [Twisted Sister](https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut) | [You Can't Stop Rock 'N' Roll](https://open.spotify.com/album/3KW5iWFnvhHtFoMHwWnUr5) | 3:18 |
-| 76 | [Killed by Death](https://open.spotify.com/track/4cuPWrSsjNLAkYRJwQLCzt) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [No Remorse](https://open.spotify.com/album/7sRhaLxwU2iUWuSBCNU5ba) | 4:39 |
-| 77 | [The Number of the Beast \- 2015 Remaster](https://open.spotify.com/track/139RwLyp7r8F9ojvhGF5lC) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [The Number of the Beast \(2015 \- Remaster\)](https://open.spotify.com/album/33d72N71hl9bXwT4zAcqUy) | 4:50 |
+| 75 | [The Number of the Beast \- 2015 Remaster](https://open.spotify.com/track/139RwLyp7r8F9ojvhGF5lC) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [The Number of the Beast \(2015 \- Remaster\)](https://open.spotify.com/album/33d72N71hl9bXwT4zAcqUy) | 4:50 |
+| 76 | [The Kids Are Back](https://open.spotify.com/track/7xzmJPFQAn0O1ZYYtbGRlz) | [Twisted Sister](https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut) | [You Can't Stop Rock 'N' Roll](https://open.spotify.com/album/3KW5iWFnvhHtFoMHwWnUr5) | 3:18 |
+| 77 | [Killed by Death](https://open.spotify.com/track/4cuPWrSsjNLAkYRJwQLCzt) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [No Remorse](https://open.spotify.com/album/7sRhaLxwU2iUWuSBCNU5ba) | 4:39 |
 | 78 | [Kings of Metal](https://open.spotify.com/track/28TcG73tbc4iGrGBFjiBnR) | [Manowar](https://open.spotify.com/artist/4CzUzn54Cp9TQr6a7JIlMZ) | [Kings of Metal](https://open.spotify.com/album/7lZkD6ntnGAhmWowltbOYB) | 3:43 |
 | 79 | [Heaven and Hell \- 2008 Remaster](https://open.spotify.com/track/3Jl5GohfNwozDmpzmQBLDI) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Heaven and Hell \(2008 Remaster\)](https://open.spotify.com/album/1Wk2g7TV0adbUZ53ruvIdL) | 6:59 |
 | 80 | [Breaking the Chains](https://open.spotify.com/track/2W7CvGjipq3EmHqNGN7lN9) | [Dokken](https://open.spotify.com/artist/09hNSPPOxDop4FRdr6UEnq) | [Breaking the Chains](https://open.spotify.com/album/7f89NbaCH568pUcYy6mqBq) | 3:51 |
@@ -123,8 +123,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LTcinqsO68.md) - [plain]
 | 113 | [Swords and Tequila](https://open.spotify.com/track/3lJqE5AKrrFDFdhDyB0kqx) | [Riot](https://open.spotify.com/artist/2TTfkn3oA5dSvqmvVxjUxR) | [Fire Down Under](https://open.spotify.com/album/5yygmFcqz4aOo36rLXyNXO) | 3:20 |
 | 114 | [Bedside Radio](https://open.spotify.com/track/7dp39ThK3DGKVneJERWhHe) | [Krokus](https://open.spotify.com/artist/4YveAIZNQZBiWbt7iWsvCa) | [Metal Rendez\-Vous](https://open.spotify.com/album/45tNUIvPmtfo4w44e1Tpgw) | 3:19 |
 | 115 | [Let Them Eat Metal](https://open.spotify.com/track/3uZFSiCurXd9Jm3OIfxmAb) | [The Rods](https://open.spotify.com/artist/3W6mkWRUQjmny6bSsEcJf3) | [Let Them Eat Metal](https://open.spotify.com/album/1wbX59VoMx72e3N9P3NhLZ) | 3:57 |
-| 116 | [Fool for Your Loving \- 2009 Remaster](https://open.spotify.com/track/0BdTZNyYnSIDmkqjxSB0ef) | [Whitesnake](https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP) | [Slip of the Tongue \(20th Anniversary Edition\)](https://open.spotify.com/album/75eYg2qUeIvXaDMtFhYuin) | 4:08 |
-| 117 | [Mexican Radio](https://open.spotify.com/track/1mIEtP4RLqJn5xk8omStDv) | [Celtic Frost](https://open.spotify.com/artist/4ZISAmHmQUDCpv8xydqeKG) | [Into the Pandemonium \(Expanded Version\)](https://open.spotify.com/album/2itSTDBhhVmJc5287zvnq0) | 3:29 |
+| 116 | [Mexican Radio](https://open.spotify.com/track/1mIEtP4RLqJn5xk8omStDv) | [Celtic Frost](https://open.spotify.com/artist/4ZISAmHmQUDCpv8xydqeKG) | [Into the Pandemonium \(Expanded Version\)](https://open.spotify.com/album/2itSTDBhhVmJc5287zvnq0) | 3:29 |
+| 117 | [Fool for Your Loving \- 2009 Remaster](https://open.spotify.com/track/0BdTZNyYnSIDmkqjxSB0ef) | [Whitesnake](https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP) | [Slip of the Tongue \(20th Anniversary Edition\)](https://open.spotify.com/album/75eYg2qUeIvXaDMtFhYuin) | 4:08 |
 | 118 | [Under Jolly Roger](https://open.spotify.com/track/25qe3Wf24HVQBBiQeb9Cdf) | [Running Wild](https://open.spotify.com/artist/7954VFaZClkL503srfV5PE) | [Under Jolly Roger](https://open.spotify.com/album/1PgXFAY89grykiyk18pB2P) | 4:42 |
 | 119 | [Crusader](https://open.spotify.com/track/1IQwVMvWjaWqW8dABr0rPG) | [Saxon](https://open.spotify.com/artist/71vVmHeNgCVSa5SVmfvscU) | [The Best of Saxon](https://open.spotify.com/album/1W5MR7hWVGdKrjGVdedj7x) | 6:34 |
 | 120 | [Metal Heart](https://open.spotify.com/track/4f73ikIdf3E1r89cRzo7e6) | [Accept](https://open.spotify.com/artist/3JDIAtVrJdQ7GFOX26LYpv) | [Metal Heart](https://open.spotify.com/album/3aNoUWVxh05ahM2uHaEhKp) | 5:23 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LTcinqsO68.md) - [plain]
 | 124 | [Phantom of the Opera \- 2015 Remaster](https://open.spotify.com/track/5dtdDxI45qW6GRr2YyC0mX) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Iron Maiden \(2015 \- Remaster\)](https://open.spotify.com/album/5nyyw7ThJdClJ0jPisOta3) | 7:21 |
 | 125 | [Tomorrow's Dream \- 2021 Remaster](https://open.spotify.com/track/07f9Uh1cWqH8ggfcEYeC1l) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Tomorrow's Dream \(2021 Remaster\)](https://open.spotify.com/album/6Zzss0gwhwdizR2JIoSUa7) | 3:08 |
 
-Snapshot ID: `MTY2MjY1MDE1OCwwMDAwMDAwMDJiNDE2NWUxMGVhMzFkNzU3ZWRhOGJkZjBiOTU2MGZm`
+Snapshot ID: `MTY2MjY1MDE1OCwwMDAwMDAwMGM5ZjNhZWIzNDJkZTk2MmE2YjZlN2I3YTVkZDU3YmM2`

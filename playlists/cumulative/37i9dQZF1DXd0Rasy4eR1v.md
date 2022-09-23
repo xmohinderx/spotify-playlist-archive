@@ -4,7 +4,7 @@
 
 > Discover fresh new Pakistani indie tracks\. Cover \- Marshall Ahmed
 
-75 songs - 4 hr 10 min - not published yet
+75 songs - 4 hr 10 min - [published](https://open.spotify.com/playlist/194Tgkv1OO1EGm3LAXJi6q)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Lahore](https://open.spotify.com/track/3GjIOg2xHQWv6lkPiXRqes) | [Ahsan Samraa](https://open.spotify.com/artist/60AyZ7poR9Mj27ZtDEhqVV) | [Lahore](https://open.spotify.com/album/3AgKYEDy7GaOImCTjLMGeU) | 2:08 | 2022-08-27 |  |
 | [Lanjhay](https://open.spotify.com/track/1S2jtCfrerfpmvXFlSyPkQ) | [danish roomi](https://open.spotify.com/artist/719laN9dZ4QG7Q2F2vOwcP) | [Lanjhay](https://open.spotify.com/album/7E1sdPTLu37NqG4Gagr1Mw) | 3:18 | 2022-08-27 |  |
 | [N\. M\. D](https://open.spotify.com/track/47AjJrGrOCaqxXbEIMWNq9) | [Hashim Ishaq](https://open.spotify.com/artist/3K6IjvhAJpWRUehJ9mU0Ot) | [N\. M\. D](https://open.spotify.com/album/2NGJttt7WlmSCWNRedrUIW) | 2:50 | 2022-08-27 |  |
-| [Najumi](https://open.spotify.com/track/1SWq0lhhyfkA4VLkpb0def) | [Trejinald](https://open.spotify.com/artist/351fUED1zOea9HZ8Rktdln), [Asfandyar Cheema](https://open.spotify.com/artist/4iZXWNteJIaKzLQ118VXcE) | [Najumi](https://open.spotify.com/album/1q8r3PHHaNLnxfi7Upsw4P) | 4:24 | 2022-08-27 |  |
+| [Najumi](https://open.spotify.com/track/1SWq0lhhyfkA4VLkpb0def) | [Waseh Farooq](https://open.spotify.com/artist/1QS6vLtKzDA5Q2H6w5ph3a), [Asfandyar Cheema](https://open.spotify.com/artist/4iZXWNteJIaKzLQ118VXcE) | [Najumi](https://open.spotify.com/album/1q8r3PHHaNLnxfi7Upsw4P) | 4:24 | 2022-08-27 |  |
 | [Nakhuda](https://open.spotify.com/track/0OqVCqOnluSB2Xy7aI65g4) | [Barfaani Reech Ajao](https://open.spotify.com/artist/0cic1YPysmB8DKUXthyakE) | [Nakhuda](https://open.spotify.com/album/1OBKBbqcruttbixQBXo9XS) | 4:27 | 2022-08-27 |  |
 | [New Start](https://open.spotify.com/track/7i10KNgwMSJZmkldAL5wGE) | [Saad Khan](https://open.spotify.com/artist/3M0uh0LP6Fwut5XODH9Rj9) | [New Start](https://open.spotify.com/album/2If8KZFS1F2Wz90dGoAVUx) | 2:42 | 2022-08-27 |  |
 | [No Competition](https://open.spotify.com/track/1pYof6cMSxtOleS3Y52fER) | [AHSAN](https://open.spotify.com/artist/74NqyFriwNs6QJWkJmGvYR) | [No Competition](https://open.spotify.com/album/5ySztINYSJUUCKiEyuTSy9) | 4:53 | 2022-08-27 |  |

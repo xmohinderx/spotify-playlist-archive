@@ -1,12 +1,12 @@
 {
   "description": "Esta es la plebada que est\u00e1 marcando tendencia en la M\u00fasica Mexicana. Tania Dominguez en portada.",
-  "num_followers": 43907,
+  "num_followers": 43938,
   "original_name": "La Nueva Ola: M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMwNDQwMCwwMDAwMDAwMGE0Y2E1YzcxZWRkY2FjOGMzMmRiZjM4ZDM1YzE0ODUy",
+  "snapshot_id": "MTY2MzMwNDQwMCwwMDAwMDAwMDQ3Nzc0NjJhMWFlYjgzY2U4M2ZlZmNjMmZmNDc4MzRj",
   "tracks": [
     {
       "added_at": "2022-09-16 05:00:00",
@@ -177,26 +177,6 @@
       "url": "https://open.spotify.com/track/1bnSKjuPEd8FPACxqA5Mos"
     },
     {
-      "added_at": "2022-04-29 05:00:00",
-      "album": {
-        "name": "Ya acab\u00f3 (Con Becky G)",
-        "url": "https://open.spotify.com/album/6XZejfd76Y8JU23nnaVDTc"
-      },
-      "artists": [
-        {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
-        },
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        }
-      ],
-      "duration_ms": 176458,
-      "name": "Ya acab\u00f3 - Con Becky G",
-      "url": "https://open.spotify.com/track/0OPiOIAyw2FUjKm8PXBGhq"
-    },
-    {
       "added_at": "2022-04-01 18:32:14",
       "album": {
         "name": "El Chaman",
@@ -219,6 +199,26 @@
       "duration_ms": 281760,
       "name": "El Chaman",
       "url": "https://open.spotify.com/track/3yE8qL9HNfyzAbpqoMnUr8"
+    },
+    {
+      "added_at": "2022-04-29 05:00:00",
+      "album": {
+        "name": "Ya acab\u00f3 (Con Becky G)",
+        "url": "https://open.spotify.com/album/6XZejfd76Y8JU23nnaVDTc"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        },
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "duration_ms": 176458,
+      "name": "Ya acab\u00f3 - Con Becky G",
+      "url": "https://open.spotify.com/track/0OPiOIAyw2FUjKm8PXBGhq"
     },
     {
       "added_at": "2022-07-08 05:00:00",
@@ -521,20 +521,20 @@
       "url": "https://open.spotify.com/track/4AwlNIyid3oRyNqX61kTKt"
     },
     {
-      "added_at": "2022-06-17 17:30:56",
+      "added_at": "2022-08-05 14:47:55",
       "album": {
-        "name": "Lo Que Construimos (Spotify Singles)",
-        "url": "https://open.spotify.com/album/7ewtzbOUdPhT85PQ6onKEF"
+        "name": "Corridos 602",
+        "url": "https://open.spotify.com/album/0e6v7RAfsLk2UHr5gvDitO"
       },
       "artists": [
         {
-          "name": "Virlan Garcia",
-          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
         }
       ],
-      "duration_ms": 219222,
-      "name": "Lo Que Construimos - Spotify Singles",
-      "url": "https://open.spotify.com/track/5YCs2XXzIFHADPntqJ2jqv"
+      "duration_ms": 167370,
+      "name": "Pideme la Luna",
+      "url": "https://open.spotify.com/track/3m2S4eEc19o5krIEplPq2c"
     },
     {
       "added_at": "2021-12-27 20:28:17",
@@ -553,20 +553,20 @@
       "url": "https://open.spotify.com/track/0OephgF5HKnlnZYLhCuaKQ"
     },
     {
-      "added_at": "2022-08-05 14:47:55",
+      "added_at": "2022-06-17 17:30:56",
       "album": {
-        "name": "Corridos 602",
-        "url": "https://open.spotify.com/album/0e6v7RAfsLk2UHr5gvDitO"
+        "name": "Lo Que Construimos (Spotify Singles)",
+        "url": "https://open.spotify.com/album/7ewtzbOUdPhT85PQ6onKEF"
       },
       "artists": [
         {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+          "name": "Virlan Garcia",
+          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
         }
       ],
-      "duration_ms": 167370,
-      "name": "Pideme la Luna",
-      "url": "https://open.spotify.com/track/3m2S4eEc19o5krIEplPq2c"
+      "duration_ms": 219222,
+      "name": "Lo Que Construimos - Spotify Singles",
+      "url": "https://open.spotify.com/track/5YCs2XXzIFHADPntqJ2jqv"
     },
     {
       "added_at": "2022-06-07 16:00:00",

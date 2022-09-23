@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Italia](https://open.spotify.com/playlist/37i9dQZF1DX0KBgD4Jf5tY)
 
-> Nuove scoperte dalla scena indipendente italiana, senza etichette di genere\. Cover: <a href="spotify:artist:6TWgi8oIy1OFh9P7EglVUt">Arieti Rilassati</a>
+> Nuove scoperte dalla scena indipendente italiana, senza etichette di genere\. Cover: <a href="spotify:artist:2HDuNOhm4h9glYn2F7rAFP">Tanca</a>
 
-368 songs - 18 hr 43 min - [published](https://open.spotify.com/playlist/7DW4xNQc4jVEAVd25UPTmP)
+369 songs - 18 hr 46 min - [published](https://open.spotify.com/playlist/7DW4xNQc4jVEAVd25UPTmP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Amore o veleno](https://open.spotify.com/track/4XGpFE3aFdpMx0RxjrWHNm) | [FLAMINIA](https://open.spotify.com/artist/5SHeDn87rQaynVVBCZrMG5) | [Amore o veleno](https://open.spotify.com/album/5rLzwhJHsTBPuCwHuk4zrR) | 2:56 | 2022-01-06 | 2022-02-18 |
 | [An Interior of Strange Beauty](https://open.spotify.com/track/1YHeSEpxM24Nq1sZdvuPKG) | [Ginevra Nervi](https://open.spotify.com/artist/1D0bKzmxdExazYDP4ahsBj) | [An Interior of Strange Beauty / Incoming Call](https://open.spotify.com/album/38dsx6d80G3byvU4NoUUSN) | 6:34 | 2022-04-19 | 2022-05-06 |
 | [Anche Se Non Mi Vedi](https://open.spotify.com/track/11tUOgUE2OzSISNhxz3b3U) | [maniviola](https://open.spotify.com/artist/1CCy3YNgISLMizVv56lW7i) | [Anche Se Non Mi Vedi](https://open.spotify.com/album/7K7TraHLkwEGW1IqzOxXAH) | 1:00 | 2022-01-06 | 2022-02-18 |
-| [ANCORA](https://open.spotify.com/track/2XxrTkLS3YxDp0HRDPMlsM) | [Asteria](https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq) | [ANCORA](https://open.spotify.com/album/4LjYaprNELvWNeqE9hIszw) | 2:25 | 2022-06-13 |  |
+| [ANCORA](https://open.spotify.com/track/2XxrTkLS3YxDp0HRDPMlsM) | [Asteria](https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq) | [ANCORA](https://open.spotify.com/album/4LjYaprNELvWNeqE9hIszw) | 2:25 | 2022-06-13 | 2022-09-23 |
 | [ANIMA](https://open.spotify.com/track/1x14T3fXUhQxF7TKI0Dvgy) | [Commodo](https://open.spotify.com/artist/3tdN1qijWdkKpbB2ofQCmo), [Cuzna](https://open.spotify.com/artist/1RIT0T7ORlcbyIIFdAwHU2), [Boisié](https://open.spotify.com/artist/4aYFx0nZk91epacdJub6Ti) | [DA FIRENZE CON AMORE](https://open.spotify.com/album/2K2tS5FCPcBFPzI4mhxWdp) | 2:37 | 2022-03-24 | 2022-05-06 |
 | [Anima Gemella \(1926\)](https://open.spotify.com/track/4594QC5Q9USRBX2KDJnf9f) | [Aaron Rumore](https://open.spotify.com/artist/32E3ChQHyhmhRs1H4sM4OU), [rrageless](https://open.spotify.com/artist/0pjFf3X1jg3UVCVvreDJ3F) | [3x3+2](https://open.spotify.com/album/3i3kWVR2RaOD2pjQ4bRcYK) | 2:39 | 2022-04-08 | 2022-05-20 |
 | [Anomalia](https://open.spotify.com/track/5zpncVhGWNvIhNUzaNaj3D) | [s7n](https://open.spotify.com/artist/000I60AeWcpszUzzirjtbZ), [loui2](https://open.spotify.com/artist/4lbyABe5GN4GHeUmga1fjZ), [Foreverboymush](https://open.spotify.com/artist/7tkxzgoJwU4tMdyMSPxkxE) | [Echoes of Innocence](https://open.spotify.com/album/0ykw61BFto2DGHs8c5zRmy) | 2:15 | 2022-01-06 | 2022-02-18 |
@@ -291,6 +291,7 @@
 | [Salice](https://open.spotify.com/track/04xLRTZiC7MoWR4zYdsQIi) | [Alice](https://open.spotify.com/artist/2secXZJFel5sboofeiGQyk), [Altea](https://open.spotify.com/artist/1yGCY2abK83JZlenHcgdws) | [Salice](https://open.spotify.com/album/1KETHPt4P9yeJwQLnw7bkK) | 3:49 | 2022-01-06 | 2022-02-26 |
 | [Santa Barbara](https://open.spotify.com/track/0FR32DeyHC4UhnPujAbMMh) | [Evrint Bless](https://open.spotify.com/artist/6a9h2MsqrQTJqERdiWrMC8) | [Santa Barbara](https://open.spotify.com/album/6xSHoiffbCCqrRf6h4EI4r) | 2:51 | 2022-05-19 | 2022-06-24 |
 | [Saturno](https://open.spotify.com/track/5no9sktP36a7LKjohrJ4XC) | [Thomas Costantin](https://open.spotify.com/artist/0WKjXc8BCwyL9ds9cNRlWW) | [Saturno / Macchine intelligenti](https://open.spotify.com/album/0tnld7S6Ew0VHSog7cPjD4) | 3:49 | 2022-02-17 | 2022-03-04 |
+| [SBADIGLI \- Rearranged](https://open.spotify.com/track/1Wb1mkRuPT1kmxXEnN87Uh) | [Tanca](https://open.spotify.com/artist/2HDuNOhm4h9glYn2F7rAFP) | [WORDS OF DOGTOWN](https://open.spotify.com/album/1Xsz3QEUeU5lnpyUZZnK0P) | 2:03 | 2022-09-22 |  |
 | [Sbronza aliena](https://open.spotify.com/track/5kTpQbDLPFXXtkIYqkdmE0) | [Come Rane in Alaska](https://open.spotify.com/artist/2O8vLQfvTlGDfh9Jx2rD2i) | [C.R.I.A.](https://open.spotify.com/album/0i09qRzMWzFwdE77LGwXQx) | 4:18 | 2022-09-15 |  |
 | [Sciura Milanese](https://open.spotify.com/track/5sdqPOejvlS6P9qI7BfqrA) | [Popa](https://open.spotify.com/artist/3v3PilwftiZCpC4msQRNyB) | [Sciura Milanese](https://open.spotify.com/album/1ITICNjOqSkSVOngl30Xmh) | 3:10 | 2022-02-17 | 2022-04-09 |
 | [Scuse](https://open.spotify.com/track/23If7giarQ3qk3Rx0AYSq6) | [44Moca](https://open.spotify.com/artist/5mE5vxk4MlRxhcAHgbPKpQ), [Nelson](https://open.spotify.com/artist/4GvQ2vmzbBgRXhjGlgYeYR) | [Scuse](https://open.spotify.com/album/6CmdaqnNkVBijCoYNveXRK) | 2:35 | 2022-04-19 | 2022-06-10 |

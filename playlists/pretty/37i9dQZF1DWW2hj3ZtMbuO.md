@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2hj3ZtMbuO.md) - [plain]
 
 > Sapphic songs that defined your music taste as "yearning"
 
-[Spotify](https://open.spotify.com/user/spotify) - 830,540 likes - 75 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 832,887 likes - 75 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2hj3ZtMbuO.md) - [plain]
 | 56 | [Mary](https://open.spotify.com/track/5T0Ib1Hjhsua7qbGTczU7j) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Trick](https://open.spotify.com/album/3mUhfkEikAJjuvSDC1NEE4) | 3:17 |
 | 57 | [You're All I Want](https://open.spotify.com/track/0EUw3ZK8Ti14t6R6FOP8Ty) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [You're All I Want](https://open.spotify.com/album/5lU2BUnMIIe6JcbqV9LXtS) | 4:24 |
 | 58 | [Numb](https://open.spotify.com/track/6Ijmj8Z0L31hCp5pLZnT5U) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Numb](https://open.spotify.com/album/1HMR6PG5Su7p0JjRws7NBb) | 3:39 |
-| 59 | [She](https://open.spotify.com/track/45h4w81P5iJJTSeR0jJUQ8) | [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Human](https://open.spotify.com/album/6Kr92CEAh6YLlEO8ubps17) | 3:33 |
-| 60 | [Possibility](https://open.spotify.com/track/39Odj4vLKRarATkCA31gaW) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [The Twilight Saga: New Moon \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2PDlvc7K51qC4Bkali3q0R) | 5:06 |
+| 59 | [Possibility](https://open.spotify.com/track/39Odj4vLKRarATkCA31gaW) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [The Twilight Saga: New Moon \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2PDlvc7K51qC4Bkali3q0R) | 5:06 |
+| 60 | [She](https://open.spotify.com/track/45h4w81P5iJJTSeR0jJUQ8) | [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Human](https://open.spotify.com/album/6Kr92CEAh6YLlEO8ubps17) | 3:33 |
 | 61 | [Fear](https://open.spotify.com/track/4rHfpAN2CK3H6eRWd7j7E0) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [A Different Age](https://open.spotify.com/album/7tZp8ZodRmNpf1DTcHfV61) | 3:36 |
 | 62 | [Pancakes for Dinner](https://open.spotify.com/track/4HffeEF97c6UxNePgbuECW) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Give Me A Minute](https://open.spotify.com/album/2PullXMROSpzCdFdzEmFhy) | 3:55 |
 | 63 | [Punisher](https://open.spotify.com/track/5LJ4ig9cMvjui3li1mrNRl) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH) | 3:09 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2hj3ZtMbuO.md) - [plain]
 | 70 | [I Wish I Never Met You](https://open.spotify.com/track/5Ga9HA1RoegXoq4TGolIi9) | [Babygirl](https://open.spotify.com/artist/6Y2m4AEOS9JFrsK2goyg7T) | [Lovers Fevers](https://open.spotify.com/album/74tYpNN6rvOiKe1FbucCcB) | 3:31 |
 | 71 | [Fool For You](https://open.spotify.com/track/3pEGNvJWWAfDSuUrQjEpEV) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [FEELS](https://open.spotify.com/album/7CqQYYERGNSq5xSgTuALLd) | 3:14 |
 | 72 | [Sappho](https://open.spotify.com/track/5DIGt883aHs3KqWSziy4gR) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [Next Thing](https://open.spotify.com/album/0vhRTvVCv9O5orRMgFjxT1) | 1:52 |
-| 73 | [Why Am I Like This?](https://open.spotify.com/track/1VaB7rOe1mK60C2M9dUl2Y) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Why Am I Like This?](https://open.spotify.com/album/6e75KHFKuyHqjhoz5v4u8R) | 3:32 |
-| 74 | [I hope that you think of me](https://open.spotify.com/track/42LY6qYxu3L6nJ7Dt72gNy) | [Pity Party \(Girls Club\)](https://open.spotify.com/artist/5J3QKfJDFyjR3Q2qRcRaIU), [Lucys](https://open.spotify.com/artist/3zfHIfmPkBRTy2EPGuTUxI) | [Hard Times / Bad Trips](https://open.spotify.com/album/7adFlPgcQWFfPHcgNgZhUI) | 2:08 |
+| 73 | [I hope that you think of me](https://open.spotify.com/track/42LY6qYxu3L6nJ7Dt72gNy) | [Pity Party \(Girls Club\)](https://open.spotify.com/artist/5J3QKfJDFyjR3Q2qRcRaIU), [Lucys](https://open.spotify.com/artist/3zfHIfmPkBRTy2EPGuTUxI) | [Hard Times / Bad Trips](https://open.spotify.com/album/7adFlPgcQWFfPHcgNgZhUI) | 2:08 |
+| 74 | [Why Am I Like This?](https://open.spotify.com/track/1VaB7rOe1mK60C2M9dUl2Y) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Why Am I Like This?](https://open.spotify.com/album/6e75KHFKuyHqjhoz5v4u8R) | 3:32 |
 | 75 | [Teenage Blue](https://open.spotify.com/track/7mgI1HLrLMlIHL3wzotbyM) | [Dreamgirl](https://open.spotify.com/artist/7JPPLV24jlpVoHz5dHN6pR) | [Illuminaughty \- EP](https://open.spotify.com/album/2M7CnxGiFH8xKQUr5RW5yE) | 3:54 |
 
-Snapshot ID: `MTY2MzI3NDI1OCwwMDAwMDAwMDZmZDA4Zjk5ZmFjMzY4MjA3NDFiMzBiOWEyYmJkNjU0`
+Snapshot ID: `MTY2MzI3NDI1OCwwMDAwMDAwMDMzNzQxNjE2ZGUwOTUyNzMzMDBjNjA3YzdkODI2YzEw`

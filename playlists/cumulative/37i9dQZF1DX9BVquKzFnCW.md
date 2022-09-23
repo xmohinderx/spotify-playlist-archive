@@ -4,7 +4,7 @@
 
 > Set the perfect brunch mood with instrumental and vocal Jazz.
 
-157 songs - 14 hr 14 min - [published](https://open.spotify.com/playlist/1120v1OL3dMNoviL6OZjaA)
+158 songs - 14 hr 17 min - [published](https://open.spotify.com/playlist/1120v1OL3dMNoviL6OZjaA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [Interplay](https://open.spotify.com/track/49AFmEeq9Ulx4YXA24yNKJ) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [The Interplay Sessions \[2\-fer\]](https://open.spotify.com/album/64Thgy8vQNwTvX1zbsi2sy) | 8:14 | 2022-09-15 |  |
 | [It Never Entered My Mind](https://open.spotify.com/track/2XuM2irHH6kaHk4np8VIHL) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y), [Gary Peacock](https://open.spotify.com/artist/2k1Qcdf3sOJYCNZEPus58Y), [Jack DeJohnette](https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU) | [Standards Vol.1](https://open.spotify.com/album/6g4tw8mwge2gJKqJQxE5r3) | 6:42 | 2022-02-23 |  |
 | [Jacqui](https://open.spotify.com/track/1uwY1ZqURcKJ9Fd7foMxPb) | [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO), [Max Roach Quintet](https://open.spotify.com/artist/6ynifrh6ZrWXHAywnUlNV3) | [Study In Brown](https://open.spotify.com/album/3158RZskTkHMhPvQICUeQ1) | 5:11 | 2022-02-23 |  |
-| [Kerosene II](https://open.spotify.com/track/1JNLwhmasqZ9cs8D652jhS) | [The Bad Plus](https://open.spotify.com/artist/5qOfTfMzTj2dvvpWKzIFk6) | [Never Stop II](https://open.spotify.com/album/6BwHi8VM68LWmGSTEGmDCe) | 4:44 | 2022-02-23 |  |
+| [Kerosene II](https://open.spotify.com/track/1JNLwhmasqZ9cs8D652jhS) | [The Bad Plus](https://open.spotify.com/artist/5qOfTfMzTj2dvvpWKzIFk6) | [Never Stop II](https://open.spotify.com/album/6BwHi8VM68LWmGSTEGmDCe) | 4:44 | 2022-02-23 | 2022-09-23 |
 | [La Valse Bleue](https://open.spotify.com/track/0FcUn6IPrPvzNRTaOyWKuu) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y) | [At The Blue Note](https://open.spotify.com/album/6sJLTN1J3PhPQ0OybVsqVz) | 7:03 | 2022-02-23 | 2022-08-31 |
 | [Life Is a Ball](https://open.spotify.com/track/5knIQIYX3uLKECQH6n9DJg) | [André Previn](https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq) | [4 to Go!](https://open.spotify.com/album/5Za3xlEz6bE0ELBf1EjdAQ) | 5:31 | 2022-08-30 |  |
 | [Life Is a Ball](https://open.spotify.com/track/2wdivsZL6AFl6qygmGZDEr) | [André Previn](https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq) | [4 To Go !](https://open.spotify.com/album/4PSGQpJEso0r7WoPiFjbbl) | 5:31 | 2022-02-23 | 2022-07-29 |
@@ -126,6 +126,7 @@
 | [Softly As In A Morning Sunrise \- Rudy Van Gelder Edition, 2008 Digital Remaster](https://open.spotify.com/track/6I0I8uMyDHtA1nfyP8c5WE) | [Paul Chambers Quintet](https://open.spotify.com/artist/42ckVhl96fQSAXsR2Gm1My) | [Paul Chambers Quintet \(Remastered\)](https://open.spotify.com/album/3YjDsVQMm9N0u2A0uUCiyb) | 3:10 | 2022-02-23 |  |
 | [Solar](https://open.spotify.com/track/6pzpKJYKvHUzOpz9J207j3) | [Phil Woods](https://open.spotify.com/artist/6G4hVmXKJ9NW5JecncK89f) | [Bird Feathers \(Remastered\)](https://open.spotify.com/album/2BvoHpEjeJf6lM0p9720AM) | 5:52 | 2022-02-23 |  |
 | [Solar \- Live At The Village Vanguard, NYC; 6/25/1961](https://open.spotify.com/track/2JDGyG1zA8tZ4fJK9SsIRk) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Sunday At The Village Vanguard \[Keepnews Collection\]](https://open.spotify.com/album/3uwufR7PwniMX7t3v4I5oB) | 8:54 | 2022-04-13 |  |
+| [Somebody Loves Me](https://open.spotify.com/track/30VONnonLwftL8WeCopyLt) | [Roy Eldridge](https://open.spotify.com/artist/4RvXA7BDgqNgGDjsSSJnPc) | [The Complete Verve Studio Sessions](https://open.spotify.com/album/7MtvcTxFnvzzhkmRsPiHA2) | 3:33 | 2022-09-22 |  |
 | [Sophisticated Lady](https://open.spotify.com/track/5Gd6s2kDdEsHpOFPCNrSuG) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The Duke Ellington Song Book](https://open.spotify.com/album/2VgS17fUEsUer5nCbM2juj) | 5:20 | 2022-02-23 |  |
 | [Sophisticated Lady](https://open.spotify.com/track/04bTSazBcvYh3yszQLzOZH) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Oscar Peterson Plays The Duke Ellington Song Book](https://open.spotify.com/album/1pKJpLhilpDIcpVPtyxvMc) | 2:26 | 2022-04-08 |  |
 | [Soul\-Lo Blues \- Remastered 1997](https://open.spotify.com/track/7JM0nsnyr0AKQYhI6hR7dn) | [Clifford Jordan](https://open.spotify.com/artist/0oJCbLnXR9ZfTkwxO9tVNn) | [Cliff Craft](https://open.spotify.com/album/4kj58OYHsFRP69N2576yDp) | 8:31 | 2022-02-23 |  |

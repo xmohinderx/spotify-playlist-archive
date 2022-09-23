@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDD7cfEKhW.md) - [plain]
 
 > Remixed pop and <a href="spotify:genre:edm\_dance">dance</a> collabs\. Cover: David Guetta & Bebe Rexha.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,325,219 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,325,937 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

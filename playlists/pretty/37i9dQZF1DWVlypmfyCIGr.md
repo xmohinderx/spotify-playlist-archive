@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: 甲田まひる
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,913 likes - 81 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,938 likes - 81 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 7 | [Danceless Island](https://open.spotify.com/track/1HveaXiH8hnI1spsowkeCL) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Danceless Island](https://open.spotify.com/album/1syVDDqzi6brKX5hosWs8u) | 3:45 |
 | 8 | [Blue Hawaii](https://open.spotify.com/track/72ElUNJsPAoVPBzaJ1sDKF) | [Tota](https://open.spotify.com/artist/6RptmPevPKd4YVK1VRpK3F) | [Blue Hawaii](https://open.spotify.com/album/2q3X7QPG8bwJH6PWTnkYR6) | 3:38 |
 | 9 | [スタートライン](https://open.spotify.com/track/6fPqN3CbNZ4w403xlgQeWC) | [miu](https://open.spotify.com/artist/2QMEcA2HhzcfJX2eZLEEyp) | [スタートライン](https://open.spotify.com/album/0uKDWCzo91Vll8J6XJbhYD) | 3:07 |
-| 10 | [The Brave FXXkin' Pop](https://open.spotify.com/track/3gFIaXdygAJ4TnX5jk6zRT) | [Denpa Girl](https://open.spotify.com/artist/2hHLAWUioiEtCIay1ZndwS) | [The Brave FXXkin' Pop](https://open.spotify.com/album/5eUp3wQU4548JdwuiRVvD0) | 4:25 |
+| 10 | [The Brave Fxxkin' Pop](https://open.spotify.com/track/3gFIaXdygAJ4TnX5jk6zRT) | [Denpa Girl](https://open.spotify.com/artist/2hHLAWUioiEtCIay1ZndwS) | [The Brave Fxxkin' Pop](https://open.spotify.com/album/5eUp3wQU4548JdwuiRVvD0) | 4:25 |
 | 11 | [Laika](https://open.spotify.com/track/5xA3rEBFUN7AaBKDWLoRES) | [Yuri Yuki](https://open.spotify.com/artist/3lBBdJs6hYYfPmG4DeJ91k) | [Laika](https://open.spotify.com/album/1ZDvVoXC2Qi4yYK4obgUsU) | 4:37 |
 | 12 | [やっぱそれなー](https://open.spotify.com/track/03zdsbNQ5BIPzMyOXRL36C) | [KOMAGOME](https://open.spotify.com/artist/4yi7xi9fRysQclHSMAkQpY) | [やっぱそれなー](https://open.spotify.com/album/0tHBLTysQOwtuGLNpWOcGH) | 2:49 |
 | 13 | [恋しさと せつなさと 心強さと 2023](https://open.spotify.com/track/5pyTRere2Z5XNQApX2wFbi) | [Ryoko Shinohara](https://open.spotify.com/artist/2Ff8zALDdJVexxrBF9an2M), [Tetsuya Komuro](https://open.spotify.com/artist/0YXSqOpIseLknz8JjcX0UH) | [恋しさと せつなさと 心強さと 2023](https://open.spotify.com/album/7ywvvbNRlOgIWACCnAgcrj) | 4:19 |

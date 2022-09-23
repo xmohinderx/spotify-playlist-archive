@@ -4,7 +4,7 @@
 
 > This is Queen\. The essential tracks, all in one playlist.
 
-52 songs - 3 hr 30 min - [published](https://open.spotify.com/playlist/1D7F79ihmqVCZOamI5aR0k)
+53 songs - 3 hr 32 min - [published](https://open.spotify.com/playlist/1D7F79ihmqVCZOamI5aR0k)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [It's A Hard Life \- Remastered 2011](https://open.spotify.com/track/34MoKBRdC9JDjcL4b4X1Ic) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Works \(2011 Remaster\)](https://open.spotify.com/album/5RS9xkMuDmeVISqGDBmnSa) | 4:06 | 2022-09-17 |  |
 | [Keep Yourself Alive \- Live At The Rainbow](https://open.spotify.com/track/34pz8XUZRfw04lk4DPtwa7) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Bohemian Rhapsody \(The Original Soundtrack\)](https://open.spotify.com/album/6i6folBtxKV28WX3msQ4FE) | 3:56 | 2022-09-17 |  |
 | [Killer Queen \- Remastered 2011](https://open.spotify.com/track/4cIPLtg1avt2Jm3ne9S1zy) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Sheer Heart Attack \(Deluxe Edition 2011 Remaster\)](https://open.spotify.com/album/1Gnrd76EubInPV4KjOJ1Zr) | 2:59 | 2022-09-17 |  |
-| [Liar \- Remastered 2011](https://open.spotify.com/track/6hPAoJvuIsgPlxnoZnjPRk) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Queen \(Deluxe Edition 2011 Remaster\)](https://open.spotify.com/album/2hZTdsWsAqlgrYG6Nd6Egg) | 6:23 | 2022-09-17 |  |
+| [Liar \- Remastered 2011](https://open.spotify.com/track/6hPAoJvuIsgPlxnoZnjPRk) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Queen \(Deluxe Edition 2011 Remaster\)](https://open.spotify.com/album/2hZTdsWsAqlgrYG6Nd6Egg) | 6:23 | 2022-09-17 | 2022-09-23 |
 | [Love Of My Life \- Remastered 2011](https://open.spotify.com/track/4YJUTdZ0Pgl0ZeNyHYXeLd) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Night At The Opera \(Deluxe Edition 2011 Remaster\)](https://open.spotify.com/album/75eP8LZolyNBpqIRyB5pvB) | 3:37 | 2022-09-17 |  |
 | [Now I'm Here \- Live At The Hammersmith Odeon](https://open.spotify.com/track/4ysz5yttr3rpRkvyVMLlRB) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Bohemian Rhapsody \(The Original Soundtrack\)](https://open.spotify.com/album/6i6folBtxKV28WX3msQ4FE) | 4:25 | 2022-09-17 |  |
 | [One Vision \- Remastered 2011](https://open.spotify.com/track/3ROPrLWea9uICOW4V2Px1y) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Kind Of Magic \(2011 Remaster\)](https://open.spotify.com/album/0pEfDPZko6TnNOgrZMe5nn) | 5:11 | 2022-09-17 |  |
@@ -49,6 +49,7 @@
 | [Save Me \- Remastered 2011](https://open.spotify.com/track/1pBFEy8cz0Fq4Pru0c4awd) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(2011 Remaster\)](https://open.spotify.com/album/58alCatewkjNm9IM1Ucj67) | 3:49 | 2022-09-17 |  |
 | [Seven Seas Of Rhye \- Remastered 2011](https://open.spotify.com/track/1IhLUUzMxDDJ9pzfT95exy) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Queen II \(Deluxe Edition 2011 Remaster\)](https://open.spotify.com/album/48MhNEYxMJvcBbqz85UTQP) | 2:48 | 2022-09-17 |  |
 | [Somebody To Love \- Remastered 2011](https://open.spotify.com/track/4rDbp1vnvEhieiccprPMdI) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Day At The Races \(Deluxe Edition 2011 Remaster\)](https://open.spotify.com/album/4KZGe18wZJbXL6JLW4KyLc) | 4:56 | 2022-09-17 |  |
+| [Stone Cold Crazy \- Remastered 2011](https://open.spotify.com/track/6d2UQWWWZj3k4BE6WcN4IT) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Sheer Heart Attack \(Deluxe Edition 2011 Remaster\)](https://open.spotify.com/album/1Gnrd76EubInPV4KjOJ1Zr) | 2:13 | 2022-09-22 |  |
 | [The Invisible Man \- Remastered 2011](https://open.spotify.com/track/6VoiY3rukFPoqzP4AoGPU8) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Miracle \(2011 Remaster\)](https://open.spotify.com/album/3h6SV9wHJtNL1YswZUJs8V) | 3:57 | 2022-09-17 |  |
 | [The Show Must Go On \- Remastered 2011](https://open.spotify.com/track/5n6RDaGFSN88oRWuGtYAIN) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Innuendo \(2011 Remaster\)](https://open.spotify.com/album/5kffKW0sSLo6tkLg1veUGC) | 4:37 | 2022-09-17 |  |
 | [Tie Your Mother Down \- Remastered 2011](https://open.spotify.com/track/4mLKx7zsUdyT4Ax7rI7KXu) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Day At The Races \(Deluxe Edition 2011 Remaster\)](https://open.spotify.com/album/4KZGe18wZJbXL6JLW4KyLc) | 4:47 | 2022-09-17 |  |

@@ -564,6 +564,24 @@
     },
     {
       "album": {
+        "name": "April In Paris (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1gDs61sxoI4By9TKxe8Y0k"
+      },
+      "artists": [
+        {
+          "name": "Count Basie",
+          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315000,
+      "name": "Corner Pocket",
+      "url": "https://open.spotify.com/track/1e16lbqXFdnuTdeJngVBuY"
+    },
+    {
+      "album": {
         "name": "Days Of Wine And Roses, Moon River And Other Academy Award Winners",
         "url": "https://open.spotify.com/album/7FAo3wmrJNNzz2W5Z5ZG80"
       },
@@ -597,7 +615,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 169373,
       "name": "Deed I Do",
       "url": "https://open.spotify.com/track/0RqNcBJILvtCJH82auUnKs"

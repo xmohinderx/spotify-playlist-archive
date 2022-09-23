@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6yDPo14vsW.md) - [plain]
 
 > ¿Qué es lo que está pasando? ¿Amor o Desamor?
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,482 likes - 100 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,600 likes - 100 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,16 +78,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6yDPo14vsW.md) - [plain]
 | 68 | [Esta Ausencia](https://open.spotify.com/track/0phL00aOVS9nHhvd5Vodei) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Bulería](https://open.spotify.com/album/2zsm7DcaJsvZFY8DIxPveu) | 4:35 |
 | 69 | [Mi Héroe](https://open.spotify.com/track/01SoeJJ3ICXaWLBp1jnWk8) | [Antonio Orozco](https://open.spotify.com/artist/1ADdpen72RPuafRcv0YRBf) | [Destino](https://open.spotify.com/album/7ntYRtIyF3vFEDORFx91VS) | 3:54 |
 | 70 | [¿Qué Vas a Hacer?](https://open.spotify.com/track/2KOlQ5BfzhNe79KtGHDJ8S) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Montaner](https://open.spotify.com/album/50k6VtZQku8LJncGUzgBBG) | 3:44 |
-| 71 | [Querido Tommy](https://open.spotify.com/track/2JCXcyMXlVywgDJT86wWZW) | [Tommy Torres](https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG) | [12 Historias](https://open.spotify.com/album/3EpLCnAGX2cSWEJ9WhL1G6) | 4:59 |
+| 71 | [No Digas Nada \(Déjà Vu\)](https://open.spotify.com/track/3DhD3hWyou0QluBBTSiBC5) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [3 A.M\. \(Deluxe\)](https://open.spotify.com/album/2zx3DYhlTX0ALhbEDUnbnA) | 3:33 |
 | 72 | [Noviembre Sin Ti](https://open.spotify.com/track/63EzbC00mdZurdZzRcO4w3) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Reik](https://open.spotify.com/album/16QRglfvF1gpz6GLsBC1gU) | 3:23 |
 | 73 | [Aquello que me diste](https://open.spotify.com/track/5iua35KoPKyet49uHr7aaU) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Más](https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI) | 4:45 |
 | 74 | [Te Enamoraste de Ti](https://open.spotify.com/track/3gBzsI7YDTcvfTFCRHEuom) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [Galeria Caribe](https://open.spotify.com/album/3Pido82I7SgITS8LDABA7y) | 4:27 |
-| 75 | [No Digas Nada \(Déjà Vu\)](https://open.spotify.com/track/3DhD3hWyou0QluBBTSiBC5) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [3 A.M\. \(Deluxe\)](https://open.spotify.com/album/2zx3DYhlTX0ALhbEDUnbnA) | 3:33 |
+| 75 | [Querido Tommy](https://open.spotify.com/track/2JCXcyMXlVywgDJT86wWZW) | [Tommy Torres](https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG) | [12 Historias](https://open.spotify.com/album/3EpLCnAGX2cSWEJ9WhL1G6) | 4:59 |
 | 76 | [Qué Voy a Hacer Con Mi Amor](https://open.spotify.com/track/2H2Tg24kqd1eA3F7BSQFSi) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Lo Esencial De Alejandro Fernández](https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi) | 4:05 |
 | 77 | [Amame](https://open.spotify.com/track/3ZHRiFQZaJXRvnhUt43pqO) | [Alexandre Pires](https://open.spotify.com/artist/0Rrl4hJQjRAbGtiEwAqS5N) | [Estrella Guia](https://open.spotify.com/album/0bJDginBxFe7sM7Vz8gAAQ) | 4:05 |
 | 78 | [Déjame Llorar](https://open.spotify.com/track/3uq7mCsEPhlR9RLvAtwwzL) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [En El Ultimo Lugar Del Mundo](https://open.spotify.com/album/3njekBt0uI62QBzVXSLEQT) | 4:46 |
-| 79 | [Tú Vas a Tener Que Explicarme \- Remix](https://open.spotify.com/track/1eLiEFCEFRFsoHDL2bh8wy) | [La Ross Maria](https://open.spotify.com/artist/5AmJYBIvICxss43P05MkU8), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Tú Vas a Tener Que Explicarme \(Remix\)](https://open.spotify.com/album/3HItKdsXoqNXaNcKeJPVBW) | 2:59 |
-| 80 | [Luna](https://open.spotify.com/track/0sQ363WVeWIrUopUnj0jTA) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Luna](https://open.spotify.com/album/70fbl3TF1Eht9jXFBK8Mjt) | 4:31 |
+| 79 | [Luna](https://open.spotify.com/track/0sQ363WVeWIrUopUnj0jTA) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Luna](https://open.spotify.com/album/70fbl3TF1Eht9jXFBK8Mjt) | 4:31 |
+| 80 | [Tú Vas a Tener Que Explicarme \- Remix](https://open.spotify.com/track/1eLiEFCEFRFsoHDL2bh8wy) | [La Ross Maria](https://open.spotify.com/artist/5AmJYBIvICxss43P05MkU8), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Tú Vas a Tener Que Explicarme \(Remix\)](https://open.spotify.com/album/3HItKdsXoqNXaNcKeJPVBW) | 2:59 |
 | 81 | [Te Conozco](https://open.spotify.com/track/5nAiSK9L3OG1v3HEgZmnoz) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [Sólo Para Mujeres](https://open.spotify.com/album/6GAL5gNwSJKlpl2ozzdNb9) | 4:06 |
 | 82 | [No Sé Olvidar](https://open.spotify.com/track/5GRw7thRUAl9hYx9V8jbPk) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Lo Esencial De Alejandro Fernández](https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi) | 4:21 |
 | 83 | [Un Siglo Sin Ti](https://open.spotify.com/track/4SjWlauTM2FSmHfe62rDPW) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Desde Siempre](https://open.spotify.com/album/7GFpQchXpnoqDimteHViUX) | 4:38 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6yDPo14vsW.md) - [plain]
 | 99 | [Me Cansé De Ti](https://open.spotify.com/track/1pxmhFimjs0SGi5CH1OmXB) | [Obie Bermudez](https://open.spotify.com/artist/0caLxEeeNrpE0noxdInoGe) | [Confesiones](https://open.spotify.com/album/6HP3XgMRhNov0v1qTetdOi) | 3:07 |
 | 100 | [Qué Vida la Mía](https://open.spotify.com/track/3T0OdyDjFtltn1nHH4j06U) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Reik](https://open.spotify.com/album/16QRglfvF1gpz6GLsBC1gU) | 2:51 |
 
-Snapshot ID: `MTY2MjQwNzIwNiwwMDAwMDAwMGIyZDA2MDJjN2RmMWIxODI5YzczM2YyNzcxODA1NDAz`
+Snapshot ID: `MTY2MjQwNzIwNiwwMDAwMDAwMDFjYjZjYWUwYTg1NTk2Zjk0M2U3NjgzZjEwOWRmOWIx`

@@ -4,7 +4,7 @@
 
 > May the Force be with you\. Find more great Star Wars music <a href="https://open.spotify.com/user/official\_star\_wars">here</a>.
 
-106 songs - 6 hr 1 min - [published](https://open.spotify.com/playlist/1VWBxYYjYIwYYr2cZZuEqM)
+109 songs - 6 hr 3 min - [published](https://open.spotify.com/playlist/1VWBxYYjYIwYYr2cZZuEqM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,9 @@
 | [Anakin's Betrayal](https://open.spotify.com/track/4sLtmtKMmA5iCIa90tWhSe) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Star Wars: Revenge of the Sith \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6zhlos3HFJrWni7rjqxacg) | 4:05 | 2021-05-14 |  |
 | [Anakin's Dark Deeds](https://open.spotify.com/track/7E7lRhO18SHKnX3wzgp5kN) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Star Wars: Revenge of the Sith \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6zhlos3HFJrWni7rjqxacg) | 4:04 | 2021-05-14 |  |
 | [Anakin's Theme](https://open.spotify.com/track/61ny12xki8cVUKP46nXp6Z) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Star Wars: The Phantom Menace \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/45EFycwtfRhnDPWbc2mClK) | 3:07 | 2021-05-14 |  |
+| [Andor \(Main Title Theme\) \- Episode 1](https://open.spotify.com/track/6OTgul0hKh5GuAwvHA6Z3x) | [Nicholas Britell](https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni) | [Main Title Themes \(Episodes 1\-3\) \[From "Andor"\]](https://open.spotify.com/album/0nCyL6BwJyIO8ZuudQg6md) | 1:17 | 2022-09-22 |  |
+| [Andor \(Main Title Theme\) \- Episode 2](https://open.spotify.com/track/4SxT40S7bBdHg8iSTYUpTq) | [Nicholas Britell](https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni) | [Main Title Themes \(Episodes 1\-3\) \[From "Andor"\]](https://open.spotify.com/album/0nCyL6BwJyIO8ZuudQg6md) | 0:49 | 2022-09-22 |  |
+| [Andor \(Main Title Theme\) \- Episode 3](https://open.spotify.com/track/3nN7Ayfj2ukwgnprat3JjI) | [Nicholas Britell](https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni) | [Main Title Themes \(Episodes 1\-3\) \[From "Andor"\]](https://open.spotify.com/album/0nCyL6BwJyIO8ZuudQg6md) | 0:39 | 2022-09-22 |  |
 | [Anthem of Imperial \(Am's Theme\)](https://open.spotify.com/track/4nVX4iK27SpoFaPDqh7CFZ) | [Michiru Oshima](https://open.spotify.com/artist/6zqZlqpjrq3op255dF32Fr) | [Star Wars: Visions \- THE TWINS \(Original Soundtrack\)](https://open.spotify.com/album/3vJFJpgsuEWp09Pv0Ae9J2) | 2:00 | 2021-10-14 |  |
 | [Bad Batch Heroics](https://open.spotify.com/track/664NeBjmpNyEXPNPjB3Zvl) | [Kevin Kiner](https://open.spotify.com/artist/6krMKleBJfXYPdCP5q3ypW) | [Star Wars: The Clone Wars \- The Final Season \(Episodes 1\-4\) \[Original Soundtrack\]](https://open.spotify.com/album/10YZRQdDel04sE4hn2UGRg) | 2:09 | 2021-05-14 |  |
 | [Bad Batch Theme \- From "Star Wars: The Clone Wars \- The Final Season"](https://open.spotify.com/track/5u4B5vUi7cVqcuoKjgCVkg) | [Kevin Kiner](https://open.spotify.com/artist/6krMKleBJfXYPdCP5q3ypW) | [Bad Batch Theme \(From "Star Wars: The Clone Wars \- The Final Season"\)](https://open.spotify.com/album/7cTFtIj93bFLmGxhgpEZ6i) | 2:00 | 2021-05-14 |  |

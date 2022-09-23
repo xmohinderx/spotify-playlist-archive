@@ -4,7 +4,7 @@
 
 > Uplifting, slow House music to work or relax to.
 
-250 songs - 12 hr 42 min - [published](https://open.spotify.com/playlist/1OAQCWr9DIgjEDuOEkwgz1)
+253 songs - 12 hr 52 min - [published](https://open.spotify.com/playlist/1OAQCWr9DIgjEDuOEkwgz1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Alfredo](https://open.spotify.com/track/1Q7DSl0WfWe0zCbfqK5NAF) | [X84](https://open.spotify.com/artist/54gir5f5MoNobdGxTWrNy4) | [Alfredo](https://open.spotify.com/album/2BMBix54yodrJVQi5drYEr) | 2:30 | 2021-10-12 | 2022-02-12 |
 | [Alla Prima](https://open.spotify.com/track/5qIGheFvtMbdmffqHvaBvV) | [Voodulce](https://open.spotify.com/artist/0oaRcSFPFh6FaAgZjSVYfr) | [Viridian](https://open.spotify.com/album/5kfojidGkqgfaHxyr2Gbvi) | 4:35 | 2022-02-11 |  |
 | [Almannagjá](https://open.spotify.com/track/2y8NHclCo5TPdGn5oq1pkY) | [West & Zander](https://open.spotify.com/artist/2Zjic6AMVbL0WvXf5ll1lA) | [Almannagjá](https://open.spotify.com/album/3oc8GKdKvYten8v7t4mspv) | 3:31 | 2022-09-02 |  |
-| [Ambiancé](https://open.spotify.com/track/50U4fPJmLG5iL6HWO1z53a) | [Peed Hus](https://open.spotify.com/artist/4LpZEO5wsgiBMLhl7Mpec7) | [Ambiancé](https://open.spotify.com/album/2x2RQSYKdNFBIjf0lVascf) | 4:11 | 2022-07-29 |  |
+| [Ambiancé](https://open.spotify.com/track/50U4fPJmLG5iL6HWO1z53a) | [Peed Hus](https://open.spotify.com/artist/4LpZEO5wsgiBMLhl7Mpec7) | [Ambiancé](https://open.spotify.com/album/2x2RQSYKdNFBIjf0lVascf) | 4:11 | 2022-07-29 | 2022-09-23 |
 | [another LOOK](https://open.spotify.com/track/3ujm2z1mOalAvVyE0yDLbF) | [francesco MG](https://open.spotify.com/artist/3jsOcrGsjDdIRR7EobZMDr) | [another LOOK](https://open.spotify.com/album/52v3M4zfMlRUQjkALjohRU) | 1:57 | 2021-10-26 | 2022-02-12 |
 | [Another Shot](https://open.spotify.com/track/1Uc5EFttqhNXqiJsH2vfIs) | [Twin Iguana](https://open.spotify.com/artist/59OJzu5UZA6OrK4dGT4GZi) | [Another Shot](https://open.spotify.com/album/5g208I1FL14xlhlnzR4mb5) | 3:17 | 2022-08-19 |  |
 | [anti\-skate](https://open.spotify.com/track/2UCDo9LZZE9IDsDihDIa62) | [cruzcamra](https://open.spotify.com/artist/5U5yZ3Xe35tZQtKBSAicl6) | [anti\-skate](https://open.spotify.com/album/13AsfNnBW30ZQ6GxOmv5Rh) | 2:23 | 2021-10-12 | 2022-02-12 |
@@ -46,6 +46,7 @@
 | [Brandy & Apple Juice](https://open.spotify.com/track/24HZpLFRijvJawsS7Vthud) | [Neon Lighthouse](https://open.spotify.com/artist/3EwvgZOFqqGPO7Xfgw4wcg) | [Brandy & Apple Juice](https://open.spotify.com/album/42YfWVfh7I3fuUvvlQGN99) | 4:09 | 2021-10-26 | 2022-02-12 |
 | [Breathe](https://open.spotify.com/track/62Dz5wGqHMLCdmVvwDFLFS) | [LiQWYD](https://open.spotify.com/artist/7vZTLO4iDAVrmOtpRiyP3N) | [Breathe](https://open.spotify.com/album/1nOXbVRPW56W2Ksz4hVZWE) | 2:51 | 2019-10-04 | 2022-02-12 |
 | [bubbly fun](https://open.spotify.com/track/4EgmPP8fBkVxL4jDUEhQ8n) | [fxhash](https://open.spotify.com/artist/0p1FUiIp2oM3aFekQZYR6j) | [bubbly fun](https://open.spotify.com/album/4cN9GCj0Q9bohgKoXWQhjO) | 2:48 | 2022-08-19 |  |
+| [Bulletproof Lady](https://open.spotify.com/track/5CXumXWGyr7aKvc5NqKWxH) | [Tyler Greyson](https://open.spotify.com/artist/6oqXcmdNWohuzozZgdcS9o) | [Cruisin' on the 45](https://open.spotify.com/album/6Hb4wdGwr0BjUQkt6NzfUX) | 2:39 | 2022-09-23 |  |
 | [Busy](https://open.spotify.com/track/6AQUCFk5TnvAth4jv633Rx) | [Timothy Infinite](https://open.spotify.com/artist/4rhZUbGllLmyrhbB9g2ZbX) | [Tropical](https://open.spotify.com/album/2exehSdrDXWdFYn1gfgMxb) | 3:06 | 2019-10-04 | 2022-02-12 |
 | [button press](https://open.spotify.com/track/1W5oSgHcgFqLZkUGSb5mgi) | [QUARTEER](https://open.spotify.com/artist/3Al6VUDbDL5JSWXLebLDYX) | [button press](https://open.spotify.com/album/0gzqGvz8CA2SIhVaErYEyk) | 2:05 | 2021-10-26 | 2022-02-12 |
 | [Café Rio](https://open.spotify.com/track/28WEdMqtZ0EW43L0yTRQk5) | [Edoardo Más](https://open.spotify.com/artist/3vDywqMAcuHdMgK30nSSLW) | [Café Rio](https://open.spotify.com/album/6yL9GXFei3SZJUorDCJZMU) | 3:36 | 2022-02-11 |  |
@@ -57,6 +58,7 @@
 | [Clarity](https://open.spotify.com/track/2QDm9uNerLtITaDn2P7XeJ) | [Dan Awy](https://open.spotify.com/artist/6LubM6pIrPHuCLDhPCWe3Z) | [Clarity](https://open.spotify.com/album/1H4cEBIvngQaCi2ZNJoYd6) | 2:59 | 2022-05-27 |  |
 | [Close To Me](https://open.spotify.com/track/28T738J7MBniDTJsHjLCXD) | [Aselec](https://open.spotify.com/artist/6sieT8D35Oae3wuL26bA4Z) | [Close To Me](https://open.spotify.com/album/78J95MXdIW6WW8g38M6B1l) | 2:51 | 2022-08-19 |  |
 | [Cloud Number Five](https://open.spotify.com/track/4ulT6vEjfMzTAxbiNYhm7C) | [Dia Louge](https://open.spotify.com/artist/71TnN2RDUMrNrcFS1kYZdl) | [Cloud Number Five](https://open.spotify.com/album/2LpnJdn48aBAPVJY8xJYeB) | 3:26 | 2022-06-24 |  |
+| [Cold Desert](https://open.spotify.com/track/0Fc8JaRVZWGmNQ3E0O8fgw) | [Onyoso](https://open.spotify.com/artist/3hOMAARcMkxkZ5iLA5MWl8) | [Cold Desert](https://open.spotify.com/album/7yYiEMCtoSYc8QenoAg1il) | 4:24 | 2022-09-23 |  |
 | [Curvature](https://open.spotify.com/track/4YjO6S1cg24DllgkHWqhxq) | [Colton Jefferson](https://open.spotify.com/artist/4dB5DX9CCgOE5LIOciYR7n) | [Curvature](https://open.spotify.com/album/0P0SDDB0i2Whu1bWrpxcd5) | 2:33 | 2022-09-09 |  |
 | [Curves](https://open.spotify.com/track/2AkLzKnVUxCmEF5qOxnb0f) | [Good Kings](https://open.spotify.com/artist/0p9lqEL03evk1imDzxLJJU) | [Curves](https://open.spotify.com/album/4KjuZSoDJzOOL6lVrUQSxj) | 2:55 | 2022-02-11 | 2022-07-15 |
 | [Côte d'Azur](https://open.spotify.com/track/3j2z0dEUbYb8nClzLPnJCe) | [Parker Wilkins](https://open.spotify.com/artist/6igZZYtkBvDiAl9KF34BD4) | [Côte d'Azur](https://open.spotify.com/album/1SIIMxqsHJjFesEaSu6WYO) | 2:31 | 2022-07-01 |  |
@@ -141,7 +143,7 @@
 | [Nanimoshinai](https://open.spotify.com/track/2Tn9t0J8lcoWoqFt3salVA) | [Yasumaru](https://open.spotify.com/artist/0d8Lf2UsOCP5Wuy3n9dOzT) | [Yukkuri](https://open.spotify.com/album/3UsJZDdh685GcDK7a0bdTp) | 3:13 | 2022-02-11 |  |
 | [Nevada](https://open.spotify.com/track/3gCskbRL90fyXnTg6kNaUu) | [Kerala Dust](https://open.spotify.com/artist/6lK8O3kyFThiTmgowQZGOH) | [Late Sun](https://open.spotify.com/album/1JGBUKbvb8xKBddvKP0ASW) | 6:03 | 2022-02-12 | 2022-07-15 |
 | [New Creation](https://open.spotify.com/track/1yKDappVhFf05peEb9NFR8) | [Vertical Sight](https://open.spotify.com/artist/59fdBKobn0AP6yV1aI53W7) | [New Creation](https://open.spotify.com/album/4kV127M8gRdovkFwvwLGcA) | 2:42 | 2022-02-11 |  |
-| [Night Street](https://open.spotify.com/track/54NurX7EtFspwo0YvSeyN2) | [DNDM](https://open.spotify.com/artist/49LauQfpd2peE6g1aWbuTA) | [Night Street](https://open.spotify.com/album/5SLLE63V5AX27iDYdSYh3R) | 4:25 | 2022-08-12 |  |
+| [Night Street](https://open.spotify.com/track/54NurX7EtFspwo0YvSeyN2) | [DNDM](https://open.spotify.com/artist/49LauQfpd2peE6g1aWbuTA) | [Night Street](https://open.spotify.com/album/5SLLE63V5AX27iDYdSYh3R) | 4:25 | 2022-08-12 | 2022-09-23 |
 | [No Problem](https://open.spotify.com/track/5ER8Qb144767nRWtLxZqGD) | [Eneko Artola](https://open.spotify.com/artist/3Q3pmaIKRKXh2e0g4A4Xpc) | [No Problem](https://open.spotify.com/album/3eqOLVEqqN5rSlDyLcsH0S) | 2:58 | 2022-02-12 |  |
 | [Nocturne](https://open.spotify.com/track/03vZMNnBKCtR79aOvCnwzf) | [Nina Young](https://open.spotify.com/artist/5kfKDSksVMsl63kpMZ8m2x) | [Nocturne](https://open.spotify.com/album/1X3hAhpKf9B1Vf6HSfEfyQ) | 2:02 | 2022-02-12 | 2022-09-09 |
 | [Novice Juggler](https://open.spotify.com/track/4qll3wRtSGgLmpj7liqNEr) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [Novice Juggler](https://open.spotify.com/album/4AQx07SKH6WpZqcLHWw6jb) | 3:11 | 2019-10-04 | 2022-02-12 |
@@ -169,7 +171,7 @@
 | [running emotion](https://open.spotify.com/track/50qTed10S2KaDtGAYbD4dr) | [Hayzei](https://open.spotify.com/artist/4Fr8mwKk9GLHkjlNrxFNAX) | [running emotion](https://open.spotify.com/album/0iHbisELLIEFVvRithDFAx) | 2:38 | 2022-07-29 |  |
 | [sambas song](https://open.spotify.com/track/6BJM6iNyj2nSKrLGP9w3mA) | [ben buru](https://open.spotify.com/artist/5mRaT6rnqIeeuE6Io3mVRS) | [sambas song](https://open.spotify.com/album/1dr6yK67Stnx9YaFiF212T) | 1:58 | 2021-10-26 | 2022-02-12 |
 | [Sauna Friends](https://open.spotify.com/track/6wzbTAUcIuTU8ioK3ySpSg) | [Wavy Naps](https://open.spotify.com/artist/0kFUFC571jik6K7viLxtPX) | [Sauna Friends](https://open.spotify.com/album/1ZziephRiQWbOkRMwJ7GRS) | 2:11 | 2021-10-12 | 2022-02-12 |
-| [scent of you](https://open.spotify.com/track/3KOkrFg9xm462HinmQ94N0) | [Mateo Hill](https://open.spotify.com/artist/6ZwI5BEf3SVNDkdOKFpxKQ) | [scent of you](https://open.spotify.com/album/31BhSIIoSeqb1ZdRpdlYVX) | 2:59 | 2022-07-29 |  |
+| [scent of you](https://open.spotify.com/track/3KOkrFg9xm462HinmQ94N0) | [Mateo Hill](https://open.spotify.com/artist/6ZwI5BEf3SVNDkdOKFpxKQ) | [scent of you](https://open.spotify.com/album/31BhSIIoSeqb1ZdRpdlYVX) | 2:59 | 2022-07-29 | 2022-09-23 |
 | [Scent/Sweat](https://open.spotify.com/track/0F0p5ui6cpPUsjiSsPNHcs) | [Pheeyownah](https://open.spotify.com/artist/3uHNiWNGDKPU2dIA7Q7en9) | [Scent/Sweat](https://open.spotify.com/album/0bceiqvN5qQm0RqT2X3weZ) | 3:36 | 2019-10-04 | 2022-02-12 |
 | [Seala](https://open.spotify.com/track/1BL2QYqKsUqMHMpFswdXRD) | [Kellen Berrios](https://open.spotify.com/artist/0tTc6Q8lb2dB4Atl12F4Zp) | [Seala](https://open.spotify.com/album/3wFkbVpZwahPZXOWZfIhia) | 2:24 | 2022-09-02 |  |
 | [Semiconcious](https://open.spotify.com/track/7DZcwJ8CKNIgpgPDnqmDox) | [Brooklynn Contreras](https://open.spotify.com/artist/6ds4IULZlDK5RutmpOhwGt) | [Semiconcious](https://open.spotify.com/album/39yrRMOKpQOdKX1ElgihUm) | 3:00 | 2021-10-12 | 2022-02-12 |
@@ -187,6 +189,7 @@
 | [sound by night](https://open.spotify.com/track/17EyMtoMHoVj1LQyOluAEO) | [scratchine](https://open.spotify.com/artist/7tDgvVUF0rqcdI44ZKWMHh) | [sound by night](https://open.spotify.com/album/3TF0ANcNRkxJUW9qKTBGnk) | 2:29 | 2021-10-12 | 2022-02-12 |
 | [Spinning \(feat\. Ilsey\)](https://open.spotify.com/track/2nEU0GtVvBap7jvy2ZwHTH) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Ilsey](https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j) | [Late Night Feelings](https://open.spotify.com/album/6vdLdzihSWxV8FgWU2GSvA) | 3:11 | 2019-10-04 | 2022-02-12 |
 | [Spirals](https://open.spotify.com/track/2iLCFMUPpBkrluLl55RxI6) | [Ralf](https://open.spotify.com/artist/4UIhkghagHG8sGJ3GO75HR) | [Drine](https://open.spotify.com/album/2gDEjivLQAHFzY7OdUgy5n) | 3:58 | 2022-02-11 |  |
+| [stand me](https://open.spotify.com/track/3iKh3jXoEIkgF2kIMVAlCX) | [Audio Scavengers](https://open.spotify.com/artist/5dqce9cvgiZ0WAX7x7HxVa) | [stand me](https://open.spotify.com/album/7oIs0cixveS2hwbI6rWOp3) | 2:58 | 2022-09-23 |  |
 | [Star Reflections](https://open.spotify.com/track/7xpr7wA84h55F4t2noWCd0) | [Lostlow](https://open.spotify.com/artist/2ZB3DKgzAjv2VY88jaH9jn) | [Star Reflections](https://open.spotify.com/album/2lXS0eCpWHuVwFBJbtNhEV) | 3:12 | 2022-02-11 |  |
 | [Stick with U](https://open.spotify.com/track/4MFfg6PS5YYsWaOHeUlPyF) | [Kaan Pars](https://open.spotify.com/artist/6Cubdky3Aaaaxc3sn5C32N), [jfarr](https://open.spotify.com/artist/2CzqsCETQ20DPjcoRvVvaj) | [Stick with U](https://open.spotify.com/album/4zSaVRNtwB0eNCkqwBdDnK) | 2:44 | 2022-07-29 |  |
 | [Stick With U](https://open.spotify.com/track/2JquddjybdDlgVbOddsp3B) | [Kaan Pars](https://open.spotify.com/artist/6Cubdky3Aaaaxc3sn5C32N), [jfarr](https://open.spotify.com/artist/2CzqsCETQ20DPjcoRvVvaj) | [Stick With U](https://open.spotify.com/album/6D65CQ4A2LiCHY4HiZbP66) | 2:44 | 2022-02-11 | 2022-07-29 |

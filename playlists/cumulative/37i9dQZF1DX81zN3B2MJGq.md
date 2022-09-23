@@ -4,7 +4,7 @@
 
 > Come on a wild ride through <a href="spotify:artist:4Ws2otunReOa6BbwxxpCt6">Benny Benassi</a>'s hits and selections!
 
-15 songs - 1 hr 0 min - not published yet
+15 songs - 1 hr 0 min - [published](https://open.spotify.com/playlist/1cr5EcVMMD65NcCQ44oYXJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

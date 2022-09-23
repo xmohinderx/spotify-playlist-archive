@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Little Big Town, Mitchell Tenpenny, Bailey Zimmerman and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,677 likes - 76 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,776 likes - 76 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

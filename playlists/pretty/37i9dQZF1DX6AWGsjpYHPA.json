@@ -1,12 +1,12 @@
 {
   "description": "Hand-curated cuts from the vault, no record player required. ",
-  "num_followers": 85390,
+  "num_followers": 85491,
   "original_name": "Turntable",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzI4MTE1NywwMDAwMDAwMDg3MWQxMzQ5NjdjMzg4MGEwMGJjNjEwYjk1MDUwMDRh",
+  "snapshot_id": "MTY2MzI4MTE1NywwMDAwMDAwMGI1N2RkMGZhNDc4YTE1MTY0MzgzZTIzYTk5MmE1ZjRm",
   "tracks": [
     {
       "added_at": "2022-09-15 22:32:37",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
+        "name": "Before",
+        "url": "https://open.spotify.com/album/5vqILcEeCT0N1DeJBsLrGE"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "duration_ms": 287871,
+      "name": "Before",
+      "url": "https://open.spotify.com/track/0FjyvdAffyJcnvbv3dLFyw"
+    },
+    {
+      "added_at": "2022-09-15 22:32:37",
+      "album": {
         "name": "The Chocolate Conquistadors (From Grand Theft Auto Online: The Cayo Perico Heist)",
         "url": "https://open.spotify.com/album/3ev38ci4cqU1Ic8vmNri3D"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 420718,
       "name": "The Chocolate Conquistadors (From Grand Theft Auto Online: The Cayo Perico Heist)",
       "url": "https://open.spotify.com/track/6HOLZtVDh5EgvPnW4z23n2"
-    },
-    {
-      "added_at": "2022-09-15 22:32:37",
-      "album": {
-        "name": "Before",
-        "url": "https://open.spotify.com/album/5vqILcEeCT0N1DeJBsLrGE"
-      },
-      "artists": [
-        {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
-        }
-      ],
-      "duration_ms": 287871,
-      "name": "Before",
-      "url": "https://open.spotify.com/track/0FjyvdAffyJcnvbv3dLFyw"
     },
     {
       "added_at": "2022-09-15 22:32:37",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
+        "name": "Afro-Harping",
+        "url": "https://open.spotify.com/album/1XEPKavl3nlI2qVt8HuA5n"
+      },
+      "artists": [
+        {
+          "name": "Dorothy Ashby",
+          "url": "https://open.spotify.com/artist/0dAZ2slrElfR0Y5flcoSPt"
+        }
+      ],
+      "duration_ms": 221053,
+      "name": "Action Line",
+      "url": "https://open.spotify.com/track/1TZQO0HgZq6jj6P9GgD2xS"
+    },
+    {
+      "added_at": "2022-09-15 22:32:37",
+      "album": {
         "name": "Jazz Vol. 1",
         "url": "https://open.spotify.com/album/2cWeR05mqXycoHSAHaCBMV"
       },
@@ -1271,26 +1287,6 @@
       "duration_ms": 397477,
       "name": "Jazz Vol. 1",
       "url": "https://open.spotify.com/track/2f9TCHbHyWF85G9LDjjwiF"
-    },
-    {
-      "added_at": "2022-09-15 22:32:37",
-      "album": {
-        "name": "London. Paris. Berlin.",
-        "url": "https://open.spotify.com/album/1dDsbruFq4OZMM1Xj3KF6v"
-      },
-      "artists": [
-        {
-          "name": "Shire T",
-          "url": "https://open.spotify.com/artist/0AIim12jO78DuyyUYbHfAe"
-        },
-        {
-          "name": "Maribou State",
-          "url": "https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg"
-        }
-      ],
-      "duration_ms": 245200,
-      "name": "London. Paris. Berlin.",
-      "url": "https://open.spotify.com/track/5mxQ1JcGnb3sTu5zO08ZTK"
     },
     {
       "added_at": "2022-09-15 22:32:37",
@@ -1311,18 +1307,22 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
-        "name": "24 Hours in a Disco 1978-82",
-        "url": "https://open.spotify.com/album/0p1PYyKaMEsDboqHmERvZu"
+        "name": "London. Paris. Berlin.",
+        "url": "https://open.spotify.com/album/1dDsbruFq4OZMM1Xj3KF6v"
       },
       "artists": [
         {
-          "name": "Kiki Gyan",
-          "url": "https://open.spotify.com/artist/4lxYjU4q6B1KoDJOvNXzQy"
+          "name": "Shire T",
+          "url": "https://open.spotify.com/artist/0AIim12jO78DuyyUYbHfAe"
+        },
+        {
+          "name": "Maribou State",
+          "url": "https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg"
         }
       ],
-      "duration_ms": 416800,
-      "name": "Disco Dancer",
-      "url": "https://open.spotify.com/track/297SLwXcZw0ZUourOzPQpU"
+      "duration_ms": 245200,
+      "name": "London. Paris. Berlin.",
+      "url": "https://open.spotify.com/track/5mxQ1JcGnb3sTu5zO08ZTK"
     }
   ],
   "unique_name": "Turntable",

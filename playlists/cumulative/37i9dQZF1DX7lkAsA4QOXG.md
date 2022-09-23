@@ -4,7 +4,7 @@
 
 > Covers of classic songs with a touch of Jazz\. Cover: Jamie Cullum
 
-101 songs - 7 hr 55 min - [published](https://open.spotify.com/playlist/0a8qLwuYjb3BzzgElxKw9i)
+102 songs - 8 hr 0 min - [published](https://open.spotify.com/playlist/0a8qLwuYjb3BzzgElxKw9i)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [California Dreamin'](https://open.spotify.com/track/14IV6ycAWxurGj5KvHtNAT) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Wallflower](https://open.spotify.com/album/6xUodRTpBiWXfQwPVZ5hIN) | 3:17 | 2022-09-13 |  |
 | [Can't Buy Me Love](https://open.spotify.com/track/6YoqJRJSjkP1NeVR26RIf3) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Jazz Plays The Beatles](https://open.spotify.com/album/0aMvDpN8TRj3BD9E703y5i) | 2:37 | 2022-09-13 |  |
 | [Car Wash](https://open.spotify.com/track/6esuuSi7EMHUUpAwiE2su4) | [Christian McBride Trio](https://open.spotify.com/artist/3nh2jsKXbzQzTBm5qzVXEP) | [Live at the Village Vanguard](https://open.spotify.com/album/3UJbQf5jRzsa1B6mad1gVB) | 7:12 | 2022-09-13 |  |
-| [Chelsea Morning](https://open.spotify.com/track/0KIqkIvNZcS5pBzkHHvFt1) | [Sara Colman](https://open.spotify.com/artist/4PfopQBQZtuDd8NmCvOBXa) | [Ink on a Pin \- A Celebration of Joni Mitchell](https://open.spotify.com/album/62dQ3hNEiWLBOCJLHILChk) | 3:52 | 2022-09-13 |  |
+| [Chelsea Morning](https://open.spotify.com/track/0KIqkIvNZcS5pBzkHHvFt1) | [Sara Colman](https://open.spotify.com/artist/4PfopQBQZtuDd8NmCvOBXa) | [Ink on a Pin \- A Celebration of Joni Mitchell](https://open.spotify.com/album/62dQ3hNEiWLBOCJLHILChk) | 3:52 | 2022-09-13 | 2022-09-23 |
 | [Comfortably Numb](https://open.spotify.com/track/0aQZxKrtx2JhXQfT4TD23E) | [The Bad Plus](https://open.spotify.com/artist/5qOfTfMzTj2dvvpWKzIFk6) | [For All I Care](https://open.spotify.com/album/3CGYqqKu94N6TBohkL35OV) | 6:41 | 2022-09-13 | 2022-09-21 |
 | [Creep](https://open.spotify.com/track/32SkNdTcuxvUGjtv0ObOgu) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [Karen Souza Essentials](https://open.spotify.com/album/7oLFzJWMBpnAB7jd5bMOxm) | 3:31 | 2022-09-13 |  |
 | [Dance Me To The End Of Love](https://open.spotify.com/track/13zjNPZUyWvzZC2dlYjW0L) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [Careless Love](https://open.spotify.com/album/4Kev9VMY5Ypfo19jRqK6bW) | 3:57 | 2022-09-13 |  |
@@ -71,6 +71,7 @@
 | [Ladies Of the Canyon \(Bonus\)](https://open.spotify.com/track/6KjMkGCoRpcb9nHS2auXo5) | [Chris Potter](https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB) | [Ultrahang](https://open.spotify.com/album/1t82Iyc1g2Z5xAUPjGzCvj) | 6:42 | 2022-09-13 |  |
 | [Landslide](https://open.spotify.com/track/5ZcDIHP2IAuluC75GAZkz2) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi), [John Parricelli](https://open.spotify.com/artist/55Ib86Ob0dKLELhJ1gvUri), [Dave Chamberlain](https://open.spotify.com/artist/39LRDjCTn1f255RhV5cmyF) | [Breakfast on the Morning Tram \(Bonus Edition\)](https://open.spotify.com/album/6XmdcBZamVqXAQflgp9ksR) | 3:48 | 2022-09-13 |  |
 | [Let It Be](https://open.spotify.com/track/4UpSPiCAeE8Wjzs71LiXnK) | [Lynne Arriale Trio](https://open.spotify.com/artist/5aSW8XbsteHFgFPYpp1s3x), [Jasper Somsen](https://open.spotify.com/artist/2lcAR2q7nM4FNKG4SbaKVY), [Jasper Van Hulten](https://open.spotify.com/artist/4fd2c95arvB2uh6V4PFydQ) | [Give Us These Days](https://open.spotify.com/album/3eo3nkUCc90eI7UDHfkZE3) | 6:01 | 2022-09-13 |  |
+| [Love Hurts](https://open.spotify.com/track/1Dq5j0rPWew23E9ut85AIX) | [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [Love Hurts](https://open.spotify.com/album/72SR28cHjGmcS8xaJJ0fve) | 4:45 | 2022-09-22 |  |
 | [Lover, You Should Have Come Over](https://open.spotify.com/track/0f6bXABu4brGJMt0bG9yPQ) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Twentysomething \(Special Edition\)](https://open.spotify.com/album/6YwcKkG1bEljsv9nyfCtgh) | 4:48 | 2022-09-13 |  |
 | [Maiden Voyage / Everything In Its Right Place](https://open.spotify.com/track/0jyXW8hxeIzX4QwznqVT0E) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn) | [In My Element](https://open.spotify.com/album/7M4DuL9Z6JqcNapcOUTPNS) | 8:43 | 2022-09-13 |  |
 | [Material Girl](https://open.spotify.com/track/3Mizu9oMBUCm14uctRt2uL) | [Cassandra Beck](https://open.spotify.com/artist/6DFSkfaVzPXCNeNk1pcth2) | [The Sexy EP](https://open.spotify.com/album/68cA9VzumdYb1FO6COsffJ) | 2:54 | 2022-09-13 |  |

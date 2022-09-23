@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d57cbyhqPM.md) - [plain]
 
 > From the Congo, to the world\. / Du Congo, au monde\. 🌍  Photo: Innoss'B
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,444 likes - 85 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,488 likes - 85 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

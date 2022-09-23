@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 
 > Explore Pakistan's thriving independent scene\. Cover: Taha G
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,126 likes - 80 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,137 likes - 80 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

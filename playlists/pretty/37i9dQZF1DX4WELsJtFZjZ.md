@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WELsJtFZjZ.md) - [plain]
 
 > Mellow songs from the 1980s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 523,407 likes - 150 songs - 11 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 523,969 likes - 150 songs - 11 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -157,6 +157,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WELsJtFZjZ.md) - [plain]
 | 147 | [Stuck On You](https://open.spotify.com/track/0ROwoz82DIW4tOzkxYnSjf) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Can't Slow Down](https://open.spotify.com/album/3alZBOvPaK3hgMEEymw4Yr) | 3:15 |
 | 148 | [Stop](https://open.spotify.com/track/2IWYi4NJyJvhpJVjVs2pm8) | [Sam Brown](https://open.spotify.com/artist/3gvT4Mc7kn54IUy08Y0Tr5), [Pete Brown](https://open.spotify.com/artist/67OKa82otrQqKDsfTDfSYA) | [Stop!](https://open.spotify.com/album/1Co1PfkD3RSirfxw6h2KfJ) | 4:55 |
 | 149 | [Baby, I Love Your Way/Freebird](https://open.spotify.com/track/0kzSooCGpuphLwn8iTuO9h) | [Will To Power](https://open.spotify.com/artist/63I04Kj1gXC1LLSVcrOzLN) | [Will To Power](https://open.spotify.com/album/39hl8vZno6XTES8Drko8uw) | 4:07 |
-| 150 | [Human Nature](https://open.spotify.com/track/4cgjA7B4fJBHyB9Ya2bu0t) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ) | 4:06 |
+| 150 | [Joe le taxi](https://open.spotify.com/track/7nZCg1jgmXIjSBRifWkmaJ) | [Vanessa Paradis](https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd) | [M & J](https://open.spotify.com/album/3ptx9VPjMyOjQzrNsvjLIc) | 3:55 |
 
-Snapshot ID: `MTY1NjA0NzkxOSwwMDAwMDAwMDQzYzZiZDI3YTgzMDQwNTc3NDYxMDVmZTgzN2QxMTZi`
+Snapshot ID: `MTY1NjA0NzkxOSwwMDAwMDAwMGQ0ZmQ5YmNiZGY0NzNmZDBjMDI0OWZiZTJjMWRhODBk`

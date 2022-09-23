@@ -4,7 +4,7 @@
 
 > Here's your cheat sheet for everything on the rise in the rock/alt world\. Cover: Starcrawler
 
-787 songs - 1 day 18 hr 6 min - [published](https://open.spotify.com/playlist/28qfe2Gbg56ekPQjcdpZuC)
+788 songs - 1 day 18 hr 9 min - [published](https://open.spotify.com/playlist/28qfe2Gbg56ekPQjcdpZuC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -301,7 +301,8 @@
 | [Hell is in Your Head](https://open.spotify.com/track/06f39OJsLh2MCDFGFBZyY9) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Hell is in Your Head](https://open.spotify.com/album/1Rj8VxOUGmuKrTDcFNISvB) | 3:03 | 2022-07-15 | 2022-08-13 |
 | [Hellbound](https://open.spotify.com/track/1EXm3LiwvcJA9t4xA6kp1V) | [DYLYN](https://open.spotify.com/artist/3hOdLrtKdSs3AEuwcR7ses) | [Hellbound](https://open.spotify.com/album/1kfFVkWbq62lKHWtW2yPj8) | 2:45 | 2022-01-07 | 2022-03-26 |
 | [Hello World](https://open.spotify.com/track/4Z3dv0ea4R11kqqBkFV1nQ) | [The Front Bottoms](https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS) | [Hello World](https://open.spotify.com/album/2FQxYhaN3AULlomg0TNefH) | 4:31 | 2022-08-26 |  |
-| [Here to Forever](https://open.spotify.com/track/3uKLuVqBd0bIUfFDdn68lI) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Here to Forever](https://open.spotify.com/album/3ysrZoXIO6es1hsQI2iTeZ) | 3:46 | 2022-07-15 |  |
+| [Here to Forever](https://open.spotify.com/track/3uKLuVqBd0bIUfFDdn68lI) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Here to Forever](https://open.spotify.com/album/3ysrZoXIO6es1hsQI2iTeZ) | 3:46 | 2022-07-15 | 2022-09-23 |
+| [Here to Forever](https://open.spotify.com/track/7Cva2EgJougx6O6M5xgWAq) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Asphalt Meadows](https://open.spotify.com/album/2PIWPTOIxbaVSjTnc30vXS) | 3:46 | 2022-09-16 |  |
 | [Heroine](https://open.spotify.com/track/7IUN2oyr0tfsjb39FtKeYg) | [Your Favorite Color](https://open.spotify.com/artist/0svp2p0UowZkieevH4358o) | [Heroine](https://open.spotify.com/album/6e9LHebjWrj6qfxwHIMXZS) | 3:11 | 2021-12-17 | 2022-03-12 |
 | [Hertz](https://open.spotify.com/track/7fri3wodaEszuJBZcGB4VF) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Comfort To Me](https://open.spotify.com/album/24JeT9uxcmqL227jId3Pci) | 2:33 | 2022-06-03 | 2022-07-30 |
 | [Hi\-De\-Ho](https://open.spotify.com/track/3GkZwRXM2Dsd8c25qYSmGU) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf), [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU) | [Hi\-De\-Ho](https://open.spotify.com/album/4oAHIlamiKhZ6wg1lXbAdG) | 3:56 | 2022-03-04 | 2022-04-09 |

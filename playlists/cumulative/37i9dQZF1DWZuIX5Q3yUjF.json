@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Il meglio dell'R&B italiano. Cover: La Ni\u00f1a",
+  "description": "Il meglio dell'R&B italiano. Cover: anice",
   "name": "anima R&B",
   "published_playlist_ids": [
     "6baLMOVUAzKiyXO33cGiRz"
@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 178032,
       "name": "2000 \u20ac",
       "url": "https://open.spotify.com/track/4M7xe51VhlPIjmsBnTuHvz"
@@ -773,7 +773,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 172107,
       "name": "Diversi",
       "url": "https://open.spotify.com/track/258bYaUpoQ5wJrLzqQ1JEj"
@@ -1896,6 +1896,24 @@
     },
     {
       "album": {
+        "name": "NAMASTE",
+        "url": "https://open.spotify.com/album/0qdR71s2AaRSxFnmIcCXM8"
+      },
+      "artists": [
+        {
+          "name": "Sir",
+          "url": "https://open.spotify.com/artist/7IPFl9kGGBOSG9uQw5tQIg"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117394,
+      "name": "NAMASTE",
+      "url": "https://open.spotify.com/track/1WQoZPJuSkENMK0ddTUbtw"
+    },
+    {
+      "album": {
         "name": "Negli Occhi",
         "url": "https://open.spotify.com/album/5kjmW3BcCHutYbwm7M2diZ"
       },
@@ -2039,7 +2057,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 207600,
       "name": "Non mi vuoi pi\u00f9 bene",
       "url": "https://open.spotify.com/track/1JDLPzD8ZfFR1sQN6enws4"
@@ -2647,10 +2665,28 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 198720,
       "name": "Salvami",
       "url": "https://open.spotify.com/track/3VhkiNXHfpBD2WwYdtM8iO"
+    },
+    {
+      "album": {
+        "name": "salvare",
+        "url": "https://open.spotify.com/album/2YjaCfTIJi5ehsSPOIflxu"
+      },
+      "artists": [
+        {
+          "name": "Joseph",
+          "url": "https://open.spotify.com/artist/55XdeSzaUSVeSfsnRCQrnR"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184421,
+      "name": "salvare",
+      "url": "https://open.spotify.com/track/4jQCFTq0WPVBHayDkgzIFf"
     },
     {
       "album": {
@@ -2727,6 +2763,24 @@
       "duration_ms": 202800,
       "name": "Sei Diventata",
       "url": "https://open.spotify.com/track/2tGfmcXRFhHnTM1rgDodWF"
+    },
+    {
+      "album": {
+        "name": "Sempre Indietro",
+        "url": "https://open.spotify.com/album/06zmjnqSxJbJN3wvSb9v0m"
+      },
+      "artists": [
+        {
+          "name": "Sidea",
+          "url": "https://open.spotify.com/artist/6hG077WYgnjPVTkzhD2a9A"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163200,
+      "name": "Sempre Indietro",
+      "url": "https://open.spotify.com/track/4zEmCO5vajFjB3UxcS72F9"
     },
     {
       "album": {
@@ -2979,10 +3033,28 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 137142,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/6E7zQ1NSnVtvwboUv8afme"
+    },
+    {
+      "album": {
+        "name": "supernova",
+        "url": "https://open.spotify.com/album/2LuWFJRsciGayhfir9BNhz"
+      },
+      "artists": [
+        {
+          "name": "anice",
+          "url": "https://open.spotify.com/artist/0Sf5IqezdIhXjKogXm0Nad"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157239,
+      "name": "supernova",
+      "url": "https://open.spotify.com/track/1HgQFrZi1J4RuhJ9Z4MAcD"
     },
     {
       "album": {
@@ -3023,6 +3095,24 @@
       "duration_ms": 123750,
       "name": "Tell Me Why",
       "url": "https://open.spotify.com/track/5JiVlyEvnZj6D3fZEhS9M8"
+    },
+    {
+      "album": {
+        "name": "Tra di noi",
+        "url": "https://open.spotify.com/album/4iWjvdquhsSVH76bUTOSxO"
+      },
+      "artists": [
+        {
+          "name": "Saintess",
+          "url": "https://open.spotify.com/artist/1rZmAfzhpXD8kgq8ZMFl1J"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206511,
+      "name": "Tra di noi",
+      "url": "https://open.spotify.com/track/4sItwBhx0dgj8VtkGK6BGz"
     },
     {
       "album": {

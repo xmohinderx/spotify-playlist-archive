@@ -1,12 +1,12 @@
 {
   "description": "The biggest songs in Latin America in 2018. Cover: Bad Bunny",
-  "num_followers": 27148,
+  "num_followers": 27228,
   "original_name": "Latin Hits 2018",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzOTYxNzA5MiwwMDAwMDAwMGY3NDMwM2RhZDY0NmNiM2E5NjY1NjVmOWVhM2ZiNjJl",
+  "snapshot_id": "MTYzOTYxNzA5MiwwMDAwMDAwMDg5MDUwNjdmNGI5N2Q4YzM1MmI5MjI2NWMxOGIwYThj",
   "tracks": [
     {
       "added_at": "2021-12-16 01:11:32",
@@ -615,18 +615,22 @@
     {
       "added_at": "2021-12-16 01:11:32",
       "album": {
-        "name": "El Mal Querer",
-        "url": "https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq"
+        "name": "Ya No Tiene Novio",
+        "url": "https://open.spotify.com/album/7yFrNYBdjgAeUKflMGtU8l"
       },
       "artists": [
         {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        },
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
         }
       ],
-      "duration_ms": 150027,
-      "name": "MALAMENTE - Cap.1: Augurio",
-      "url": "https://open.spotify.com/track/1B0BQaSRHxhI0AUlItY3LK"
+      "duration_ms": 198933,
+      "name": "Ya No Tiene Novio",
+      "url": "https://open.spotify.com/track/7uQmJ1jgNzBpATSoWKSPFu"
     },
     {
       "added_at": "2021-12-16 01:11:32",
@@ -667,22 +671,18 @@
     {
       "added_at": "2021-12-16 01:11:32",
       "album": {
-        "name": "Ya No Tiene Novio",
-        "url": "https://open.spotify.com/album/7yFrNYBdjgAeUKflMGtU8l"
+        "name": "El Mal Querer",
+        "url": "https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq"
       },
       "artists": [
         {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        },
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
         }
       ],
-      "duration_ms": 198933,
-      "name": "Ya No Tiene Novio",
-      "url": "https://open.spotify.com/track/7uQmJ1jgNzBpATSoWKSPFu"
+      "duration_ms": 150027,
+      "name": "MALAMENTE - Cap.1: Augurio",
+      "url": "https://open.spotify.com/track/1B0BQaSRHxhI0AUlItY3LK"
     },
     {
       "added_at": "2021-12-16 01:11:32",
@@ -859,6 +859,26 @@
     {
       "added_at": "2021-12-16 01:11:32",
       "album": {
+        "name": "FANTAS\u00cdA",
+        "url": "https://open.spotify.com/album/5Zyj0zwOksGYLbLAZOaC31"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        },
+        {
+          "name": "Beret",
+          "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
+        }
+      ],
+      "duration_ms": 225213,
+      "name": "Vuelve",
+      "url": "https://open.spotify.com/track/3wGRfBDRNQb0nFDFrUPvq6"
+    },
+    {
+      "added_at": "2021-12-16 01:11:32",
+      "album": {
         "name": "Asesina (Remix)",
         "url": "https://open.spotify.com/album/3kszVyyPdSKYihlQkme1Vv"
       },
@@ -891,26 +911,6 @@
     {
       "added_at": "2021-12-16 01:11:32",
       "album": {
-        "name": "Clandestino",
-        "url": "https://open.spotify.com/album/1h1hnfRyc45IIDnxUCaGIf"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 231920,
-      "name": "Clandestino",
-      "url": "https://open.spotify.com/track/7DrluKkTviBwCc8AV3VGmf"
-    },
-    {
-      "added_at": "2021-12-16 01:11:32",
-      "album": {
         "name": "Cuando Te Bes\u00e9",
         "url": "https://open.spotify.com/album/1rNj1DvnXIH5irucrzT4zo"
       },
@@ -931,22 +931,22 @@
     {
       "added_at": "2021-12-16 01:11:32",
       "album": {
-        "name": "FANTAS\u00cdA",
-        "url": "https://open.spotify.com/album/5Zyj0zwOksGYLbLAZOaC31"
+        "name": "Clandestino",
+        "url": "https://open.spotify.com/album/1h1hnfRyc45IIDnxUCaGIf"
       },
       "artists": [
         {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
         },
         {
-          "name": "Beret",
-          "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
         }
       ],
-      "duration_ms": 225213,
-      "name": "Vuelve",
-      "url": "https://open.spotify.com/track/3wGRfBDRNQb0nFDFrUPvq6"
+      "duration_ms": 231920,
+      "name": "Clandestino",
+      "url": "https://open.spotify.com/track/7DrluKkTviBwCc8AV3VGmf"
     },
     {
       "added_at": "2021-12-16 01:11:32",

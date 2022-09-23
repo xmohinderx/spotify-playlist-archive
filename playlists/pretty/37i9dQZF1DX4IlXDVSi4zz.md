@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IlXDVSi4zz.md) - [plain]
 
 > Dance the night away and just blame it on Tulum!
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,044 likes - 55 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,331 likes - 55 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IlXDVSi4zz.md) - [plain]
 | 31 | [The Last Goodbye \(feat\. Bettye LaVette\)](https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3) | [The Last Goodbye \(feat\. Bettye LaVette\)](https://open.spotify.com/album/4vpnU0Hu4c0KNq2p4nz4U2) | 5:58 |
 | 32 | [Sci\-Fi](https://open.spotify.com/track/5hF1rSgXQ4EPdWdYb8E6q0) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Sci\-Fi](https://open.spotify.com/album/1aVp3b9xC3Wrc0du10sDBu) | 3:18 |
 | 33 | [Ma Vie \(feat\. Yay\)](https://open.spotify.com/track/6UU24wuWgGwuSBAxDH866Z) | [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km), [Yay](https://open.spotify.com/artist/65UC5VKwU4vBSBSHckQd5l) | [Rockport Espacial](https://open.spotify.com/album/1RHKamkIrSEQAIUfsbYXvB) | 3:53 |
-| 34 | [Nieve](https://open.spotify.com/track/66uR26h9WTxwKhJCWnz5J9) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Nieve](https://open.spotify.com/album/4axBgdQOZogTmpgKNQQr1C) | 2:20 |
-| 35 | [Beg For You \(feat\. Rina Sawayama\)](https://open.spotify.com/track/50ZFpw2wS6ERvLmW8TINhq) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Beg For You \(feat\. Rina Sawayama\)](https://open.spotify.com/album/0ffmwwS9EBmpLAgjblX75O) | 2:48 |
+| 34 | [Beg For You \(feat\. Rina Sawayama\)](https://open.spotify.com/track/50ZFpw2wS6ERvLmW8TINhq) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Beg For You \(feat\. Rina Sawayama\)](https://open.spotify.com/album/0ffmwwS9EBmpLAgjblX75O) | 2:48 |
+| 35 | [Nieve](https://open.spotify.com/track/66uR26h9WTxwKhJCWnz5J9) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Nieve](https://open.spotify.com/album/4axBgdQOZogTmpgKNQQr1C) | 2:20 |
 | 36 | [Doses & Mimosas](https://open.spotify.com/track/44CZRkOxv7UItaAUmh8PgN) | [Cherub](https://open.spotify.com/artist/00dwwnz3V4kRfu3UFYpJLz) | [Year of the Caprese](https://open.spotify.com/album/070DVvXuLD3fM3KYs47tas) | 5:23 |
 | 37 | [Purple Hat](https://open.spotify.com/track/0bGH7ezs7WdDwpqnsvGf1z) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Purple Hat](https://open.spotify.com/album/4L9MrIcjiPN4luIoWP8XgG) | 2:58 |
 | 38 | [Roses \- Imanbek Remix](https://open.spotify.com/track/0zLCBJZSiELJf02ucPP9wb) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [While The World Was Burning](https://open.spotify.com/album/1OmWlObj9gAwNnTNgxBUmz) | 2:56 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IlXDVSi4zz.md) - [plain]
 | 54 | [El Sueno](https://open.spotify.com/track/4DndSKZKWXbbBxi5lO4QUP) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs) | [El Sueno](https://open.spotify.com/album/67oNtjg4DE8CMeOtqcEwV7) | 2:51 |
 | 55 | [Cocaine Model](https://open.spotify.com/track/5Z3trOR982mBrJcPfrLUsq) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2) | [THE NIGHTDAY](https://open.spotify.com/album/59irM3hSsX9Kpj31rJnsHc) | 4:15 |
 
-Snapshot ID: `MTY2MjM1MTU2NiwwMDAwMDAwMDFlMDI3MWE5YmFkMzM1NzQ2OTExODk3MTEyOWJlNzIw`
+Snapshot ID: `MTY2MjM1MTU2NiwwMDAwMDAwMGMxMmQ4YjIxMjA3YzZhMDhmNzYxODRkNTM3MTYzYmI4`

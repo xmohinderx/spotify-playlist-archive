@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CGYgLhqwu5.md) - [plain]
 
 > Many would say that this decade is a "Golden Era" for country music\. Cover: Patsy Cline
 
-[Spotify](https://open.spotify.com/user/spotify) - 313,846 likes - 100 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 313,983 likes - 100 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CGYgLhqwu5.md) - [plain]
 | 28 | [Harper Valley P.T.A.](https://open.spotify.com/track/2sZIclzhHlH8tzf7wry9hK) | [Jeannie C\. Riley](https://open.spotify.com/artist/3MIwMeYV8vmgQFbbRiJTp2) | [Harper Valley P.T.A\. \(The Plantation Recordings 1968\-70\)](https://open.spotify.com/album/43obe0SQxjP4aFRyyj3QRg) | 3:14 |
 | 29 | [Leavin' On Your Mind \- Single Version](https://open.spotify.com/track/1D2mV1f9QkklP6vy0sdBI9) | [Patsy Cline](https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK) | [The Patsy Cline Story](https://open.spotify.com/album/3iHskF7qovrsQGE282MDHe) | 2:27 |
 | 30 | [Waiting Around to Die](https://open.spotify.com/track/7gtrXOGETM9OkerNjNXeie) | [Townes Van Zandt](https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof) | [Townes Van Zandt](https://open.spotify.com/album/6KFVwdp9yZczVIVv4glWue) | 2:45 |
-| 31 | [Skip a Rope](https://open.spotify.com/track/2kzVFcp3kSU1Qld4dYBM7L) | [Henson Cargill](https://open.spotify.com/artist/6OUTtVUjAvUF0uZ3wudxtv) | [All\-American Cowboy](https://open.spotify.com/album/5tSfvArzn1TQdXx2UKJlv0) | 2:40 |
+| 31 | [He'll Have to Go](https://open.spotify.com/track/7DH5dXVuQaqcKf9oTy9oUN) | [Jim Reeves](https://open.spotify.com/artist/2Ev0e8GUIX4u7d9etNLTXg) | [The Essential Jim Reeves](https://open.spotify.com/album/158F4r9awKr4bs7X5E49JA) | 2:18 |
 | 32 | [D\-I\-V\-O\-R\-C\-E](https://open.spotify.com/track/5f38UWziNmvOjdMHvwxsL9) | [Tammy Wynette](https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id) | [Tammy's Greatest Hits](https://open.spotify.com/album/5QF3r0KyftGsWWs6zmyfNI) | 2:55 |
-| 33 | [He'll Have to Go](https://open.spotify.com/track/7DH5dXVuQaqcKf9oTy9oUN) | [Jim Reeves](https://open.spotify.com/artist/2Ev0e8GUIX4u7d9etNLTXg) | [The Essential Jim Reeves](https://open.spotify.com/album/158F4r9awKr4bs7X5E49JA) | 2:18 |
+| 33 | [Skip a Rope](https://open.spotify.com/track/2kzVFcp3kSU1Qld4dYBM7L) | [Henson Cargill](https://open.spotify.com/artist/6OUTtVUjAvUF0uZ3wudxtv) | [All\-American Cowboy](https://open.spotify.com/album/5tSfvArzn1TQdXx2UKJlv0) | 2:40 |
 | 34 | [Why Do I Love You So \- 1960 \#42 Billboard chart hit](https://open.spotify.com/track/2hh6RGmBNTGB7fi62fYgUL) | [Johnny Tillotson](https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794) | [Johnny Tillotson's Best](https://open.spotify.com/album/23FZ6dkeF3N8cAfVqzggFR) | 2:07 |
 | 35 | [She's Got You](https://open.spotify.com/track/1Pj6cjIyqBBnl82qJwi1Kb) | [Patsy Cline](https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK) | [The Definitive Collection](https://open.spotify.com/album/3g5uyAp8sS8LnnCxh9y2em) | 2:58 |
 | 36 | [Ballad Of Forty Dollars](https://open.spotify.com/track/1phh5V7T5JAaiIww22ARZk) | [Tom T\. Hall](https://open.spotify.com/artist/1SvG3y1gYAFOsv9785Xu9T) | [Country Classics: American Legends Tom T\. Hall \(Expanded Edition\)](https://open.spotify.com/album/2w9g6fpfrMWD8jsxM2I8h5) | 3:01 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CGYgLhqwu5.md) - [plain]
 | 99 | [Girl On The Billboard](https://open.spotify.com/track/1wUNtUnrz17hU0R743Kqk4) | [Del Reeves](https://open.spotify.com/artist/2rTgolMbO5tyXZvD26bO8e) | [Son Of The South](https://open.spotify.com/album/2pIrOaistT1kxYfqUdlLd8) | 2:37 |
 | 100 | [\(Margie's At\) The Lincoln Park Inn](https://open.spotify.com/track/0srp0yXqH0Axym0z7wLUQy) | [Bobby Bare](https://open.spotify.com/artist/69wzuykaVXlRS5KVygESvd) | [\(Margie's At\) The Lincoln Park Inn](https://open.spotify.com/album/2sIBp3FcO6tNjcgFVIxaFM) | 3:18 |
 
-Snapshot ID: `MTY1OTA2NzMyMCwwMDAwMDAwMDI0MDZjMGZmOTE1YzNmZGQ1NTJjMTYzYWNmZDZmMGY2`
+Snapshot ID: `MTY1OTA2NzMyMCwwMDAwMDAwMDBhMmMzZDUzZjZkMmEwM2EyNTE3MmEyOWY1OTJlNmVk`

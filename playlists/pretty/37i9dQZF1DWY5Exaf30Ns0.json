@@ -1,12 +1,12 @@
 {
   "description": "\u00bfSevaser o nosevaser? ",
-  "num_followers": 868245,
+  "num_followers": 868407,
   "original_name": "Carnita Asada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjE3NDA4MCwwMDAwMDAwMDc3MjYzNDliNTNiNGY5OTM5MGJjNWFhZTU5MGU3MDFk",
+  "snapshot_id": "MTY2MjE3NDA4MCwwMDAwMDAwMDMwNmM0OGI1ZWVlMTk1MTY5MDRkYzFiMDZmN2RhNGE3",
   "tracks": [
     {
       "added_at": "2022-08-26 05:00:00",
@@ -77,6 +77,22 @@
       "url": "https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb"
     },
     {
+      "added_at": "2022-04-06 18:55:26",
+      "album": {
+        "name": "Parachutes",
+        "url": "https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 266773,
+      "name": "Yellow",
+      "url": "https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg"
+    },
+    {
       "added_at": "2022-08-26 05:00:00",
       "album": {
         "name": "La Llevo Al Cielo (Ft. \u00d1engo Flow)",
@@ -103,22 +119,6 @@
       "duration_ms": 254920,
       "name": "La Llevo Al Cielo (Ft. \u00d1engo Flow)",
       "url": "https://open.spotify.com/track/6DoL1yYIwEW7VZMRaJhoJI"
-    },
-    {
-      "added_at": "2022-04-06 18:55:26",
-      "album": {
-        "name": "Parachutes",
-        "url": "https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 266773,
-      "name": "Yellow",
-      "url": "https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg"
     },
     {
       "added_at": "2022-08-26 05:00:00",
@@ -175,22 +175,6 @@
     {
       "added_at": "2021-06-16 13:58:07",
       "album": {
-        "name": "Synchronicity (Remastered 2003)",
-        "url": "https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY"
-      },
-      "artists": [
-        {
-          "name": "The Police",
-          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
-        }
-      ],
-      "duration_ms": 253920,
-      "name": "Every Breath You Take",
-      "url": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1"
-    },
-    {
-      "added_at": "2021-06-16 13:58:07",
-      "album": {
         "name": "AM",
         "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 161123,
       "name": "Why'd You Only Call Me When You're High?",
       "url": "https://open.spotify.com/track/086myS9r57YsLbJpU0TgK9"
+    },
+    {
+      "added_at": "2021-06-16 13:58:07",
+      "album": {
+        "name": "Synchronicity (Remastered 2003)",
+        "url": "https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "duration_ms": 253920,
+      "name": "Every Breath You Take",
+      "url": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1"
     },
     {
       "added_at": "2022-08-26 05:00:00",
@@ -513,20 +513,20 @@
       "url": "https://open.spotify.com/track/2MnLkFqY9Rpg9s3Zv6ZJdK"
     },
     {
-      "added_at": "2022-08-26 05:00:00",
+      "added_at": "2021-06-16 13:58:07",
       "album": {
-        "name": "Borrachera Con Los Honorables (Live)",
-        "url": "https://open.spotify.com/album/6dvpGPwp36h1DYPUbp2dmv"
+        "name": "Use Your Illusion I",
+        "url": "https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz"
       },
       "artists": [
         {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
         }
       ],
-      "duration_ms": 188416,
-      "name": "La Boda Del Huitlacoche - Live",
-      "url": "https://open.spotify.com/track/1Tcm4Qi0lbzXofH11MIzJs"
+      "duration_ms": 536066,
+      "name": "November Rain",
+      "url": "https://open.spotify.com/track/3YRCqOhFifThpSRFJ1VWFM"
     },
     {
       "added_at": "2022-08-26 05:00:00",
@@ -549,20 +549,20 @@
       "url": "https://open.spotify.com/track/4tYFy8ALRjIZvnvSLw5lxN"
     },
     {
-      "added_at": "2021-06-16 13:58:07",
+      "added_at": "2022-08-26 05:00:00",
       "album": {
-        "name": "Use Your Illusion I",
-        "url": "https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz"
+        "name": "Borrachera Con Los Honorables (Live)",
+        "url": "https://open.spotify.com/album/6dvpGPwp36h1DYPUbp2dmv"
       },
       "artists": [
         {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 536066,
-      "name": "November Rain",
-      "url": "https://open.spotify.com/track/3YRCqOhFifThpSRFJ1VWFM"
+      "duration_ms": 188416,
+      "name": "La Boda Del Huitlacoche - Live",
+      "url": "https://open.spotify.com/track/1Tcm4Qi0lbzXofH11MIzJs"
     },
     {
       "added_at": "2021-06-16 13:58:07",
@@ -671,22 +671,6 @@
     {
       "added_at": "2021-06-16 13:58:07",
       "album": {
-        "name": "1984 (Remastered)",
-        "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
-      },
-      "artists": [
-        {
-          "name": "Van Halen",
-          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
-        }
-      ],
-      "duration_ms": 241599,
-      "name": "Jump - 2015 Remaster",
-      "url": "https://open.spotify.com/track/7N3PAbqfTjSEU1edb2tY8j"
-    },
-    {
-      "added_at": "2021-06-16 13:58:07",
-      "album": {
         "name": "Surfer Rosa",
         "url": "https://open.spotify.com/album/50j4Wm1b9hLpSpPIA39Vp9"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 234973,
       "name": "Where Is My Mind? - Remastered",
       "url": "https://open.spotify.com/track/7wCmS9TTVUcIhRalDYFgPy"
+    },
+    {
+      "added_at": "2021-06-16 13:58:07",
+      "album": {
+        "name": "1984 (Remastered)",
+        "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
+      },
+      "artists": [
+        {
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+        }
+      ],
+      "duration_ms": 241599,
+      "name": "Jump - 2015 Remaster",
+      "url": "https://open.spotify.com/track/7N3PAbqfTjSEU1edb2tY8j"
     },
     {
       "added_at": "2021-06-16 13:58:07",
@@ -833,38 +833,6 @@
       "url": "https://open.spotify.com/track/5q2JbCNi4FcnglgPfxcV65"
     },
     {
-      "added_at": "2021-06-16 13:58:07",
-      "album": {
-        "name": "Full Moon Fever",
-        "url": "https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty",
-          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "Free Fallin'",
-      "url": "https://open.spotify.com/track/5tVA6TkbaAH9QMITTQRrNv"
-    },
-    {
-      "added_at": "2021-06-16 13:58:07",
-      "album": {
-        "name": "(What's The Story) Morning Glory? (Deluxe Remastered Edition)",
-        "url": "https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4"
-      },
-      "artists": [
-        {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
-        }
-      ],
-      "duration_ms": 258773,
-      "name": "Wonderwall - Remastered",
-      "url": "https://open.spotify.com/track/7ygpwy2qP3NbrxVkHvUhXY"
-    },
-    {
       "added_at": "2022-08-26 05:00:00",
       "album": {
         "name": "Solita",
@@ -901,6 +869,38 @@
       "url": "https://open.spotify.com/track/7rwX0O3RlxqqIjQM8evm5E"
     },
     {
+      "added_at": "2021-06-16 13:58:07",
+      "album": {
+        "name": "(What's The Story) Morning Glory? (Deluxe Remastered Edition)",
+        "url": "https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "duration_ms": 258773,
+      "name": "Wonderwall - Remastered",
+      "url": "https://open.spotify.com/track/7ygpwy2qP3NbrxVkHvUhXY"
+    },
+    {
+      "added_at": "2021-06-16 13:58:07",
+      "album": {
+        "name": "Full Moon Fever",
+        "url": "https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty",
+          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "Free Fallin'",
+      "url": "https://open.spotify.com/track/5tVA6TkbaAH9QMITTQRrNv"
+    },
+    {
       "added_at": "2022-08-26 05:00:00",
       "album": {
         "name": "La Sinverg\u00fcenza",
@@ -923,18 +923,18 @@
     {
       "added_at": "2021-06-16 13:58:07",
       "album": {
-        "name": "Pr\u00f3xima Estaci\u00f3n: Esperanza",
-        "url": "https://open.spotify.com/album/4t1LLdXiWTfoywqricztFo"
+        "name": "King Of Kings",
+        "url": "https://open.spotify.com/album/5LbfmeWh5cvLpR1Nfvdch5"
       },
       "artists": [
         {
-          "name": "Manu Chao",
-          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
         }
       ],
-      "duration_ms": 239986,
-      "name": "Me Gustas Tu",
-      "url": "https://open.spotify.com/track/6b37xrsNCWYIUphFBazqD6"
+      "duration_ms": 315293,
+      "name": "Sali\u00f3 El Sol",
+      "url": "https://open.spotify.com/track/48NXpYRuvv9izul4oXhqS9"
     },
     {
       "added_at": "2021-06-16 13:58:07",
@@ -955,34 +955,18 @@
     {
       "added_at": "2021-06-16 13:58:07",
       "album": {
-        "name": "King Of Kings",
-        "url": "https://open.spotify.com/album/5LbfmeWh5cvLpR1Nfvdch5"
+        "name": "Pr\u00f3xima Estaci\u00f3n: Esperanza",
+        "url": "https://open.spotify.com/album/4t1LLdXiWTfoywqricztFo"
       },
       "artists": [
         {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+          "name": "Manu Chao",
+          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
         }
       ],
-      "duration_ms": 315293,
-      "name": "Sali\u00f3 El Sol",
-      "url": "https://open.spotify.com/track/48NXpYRuvv9izul4oXhqS9"
-    },
-    {
-      "added_at": "2021-06-16 13:58:07",
-      "album": {
-        "name": "Abbey Road (Remastered)",
-        "url": "https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 259946,
-      "name": "Come Together - Remastered 2009",
-      "url": "https://open.spotify.com/track/2EqlS6tkEnglzr7tkKAAYD"
+      "duration_ms": 239986,
+      "name": "Me Gustas Tu",
+      "url": "https://open.spotify.com/track/6b37xrsNCWYIUphFBazqD6"
     },
     {
       "added_at": "2021-06-16 13:58:07",
@@ -1007,6 +991,22 @@
     {
       "added_at": "2021-06-16 13:58:07",
       "album": {
+        "name": "Abbey Road (Remastered)",
+        "url": "https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 259946,
+      "name": "Come Together - Remastered 2009",
+      "url": "https://open.spotify.com/track/2EqlS6tkEnglzr7tkKAAYD"
+    },
+    {
+      "added_at": "2021-06-16 13:58:07",
+      "album": {
         "name": "Point Of Know Return (Expanded Edition)",
         "url": "https://open.spotify.com/album/6oU298pdPTCQnMx1PYwyUA"
       },
@@ -1019,38 +1019,6 @@
       "duration_ms": 206266,
       "name": "Dust in the Wind",
       "url": "https://open.spotify.com/track/6zeE5tKyr8Nu882DQhhSQI"
-    },
-    {
-      "added_at": "2022-08-26 05:00:00",
-      "album": {
-        "name": "Instagram",
-        "url": "https://open.spotify.com/album/0FLBLU9SceeQFuIaR54MJH"
-      },
-      "artists": [
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Instagram",
-      "url": "https://open.spotify.com/track/0EFxJw34fK8DWlTxx9qYeW"
-    },
-    {
-      "added_at": "2021-06-16 13:58:07",
-      "album": {
-        "name": "Outlandos D'Amour (Remastered 2003)",
-        "url": "https://open.spotify.com/album/1H9g6j4Wwj6wh6p8YHVtkf"
-      },
-      "artists": [
-        {
-          "name": "The Police",
-          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
-        }
-      ],
-      "duration_ms": 191946,
-      "name": "Roxanne",
-      "url": "https://open.spotify.com/track/3EYOJ48Et32uATr9ZmLnAo"
     },
     {
       "added_at": "2021-06-16 13:58:07",
@@ -1079,18 +1047,34 @@
     {
       "added_at": "2021-06-16 13:58:07",
       "album": {
-        "name": "A Little Bit of Mambo",
-        "url": "https://open.spotify.com/album/13BmLGhVCLBn3XzKB8HIai"
+        "name": "Outlandos D'Amour (Remastered 2003)",
+        "url": "https://open.spotify.com/album/1H9g6j4Wwj6wh6p8YHVtkf"
       },
       "artists": [
         {
-          "name": "Lou Bega",
-          "url": "https://open.spotify.com/artist/46lnlnlU0dXTDpoAUmH6Qx"
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
         }
       ],
-      "duration_ms": 220293,
-      "name": "Mambo No. 5 (a Little Bit of...)",
-      "url": "https://open.spotify.com/track/6x4tKaOzfNJpEJHySoiJcs"
+      "duration_ms": 191946,
+      "name": "Roxanne",
+      "url": "https://open.spotify.com/track/3EYOJ48Et32uATr9ZmLnAo"
+    },
+    {
+      "added_at": "2022-08-26 05:00:00",
+      "album": {
+        "name": "Instagram",
+        "url": "https://open.spotify.com/album/0FLBLU9SceeQFuIaR54MJH"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Instagram",
+      "url": "https://open.spotify.com/track/0EFxJw34fK8DWlTxx9qYeW"
     },
     {
       "added_at": "2021-06-16 13:58:07",
@@ -1115,6 +1099,22 @@
     {
       "added_at": "2021-06-16 13:58:07",
       "album": {
+        "name": "A Little Bit of Mambo",
+        "url": "https://open.spotify.com/album/13BmLGhVCLBn3XzKB8HIai"
+      },
+      "artists": [
+        {
+          "name": "Lou Bega",
+          "url": "https://open.spotify.com/artist/46lnlnlU0dXTDpoAUmH6Qx"
+        }
+      ],
+      "duration_ms": 220293,
+      "name": "Mambo No. 5 (a Little Bit of...)",
+      "url": "https://open.spotify.com/track/6x4tKaOzfNJpEJHySoiJcs"
+    },
+    {
+      "added_at": "2021-06-16 13:58:07",
+      "album": {
         "name": "R&G (Rhythm & Gangsta): The Masterpiece",
         "url": "https://open.spotify.com/album/797fkvAtk0iZvP1HHPCWbp"
       },
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2021-06-16 13:58:07",
       "album": {
+        "name": "Tattoo You (2009 Re-Mastered)",
+        "url": "https://open.spotify.com/album/15XNBzVWARPMlu0sEbfBjJ"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 213066,
+      "name": "Start Me Up - Remastered 2009",
+      "url": "https://open.spotify.com/track/7HKez549fwJQDzx3zLjHKC"
+    },
+    {
+      "added_at": "2021-06-16 13:58:07",
+      "album": {
         "name": "Pa' Otro La 'O",
         "url": "https://open.spotify.com/album/1AwPrz3G3D1Xx9wiKHNmHX"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 271031,
       "name": "Procura",
       "url": "https://open.spotify.com/track/2q9udNV9NK0BL3q9p6TLxf"
-    },
-    {
-      "added_at": "2021-06-16 13:58:07",
-      "album": {
-        "name": "Tattoo You (2009 Re-Mastered)",
-        "url": "https://open.spotify.com/album/15XNBzVWARPMlu0sEbfBjJ"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 213066,
-      "name": "Start Me Up - Remastered 2009",
-      "url": "https://open.spotify.com/track/7HKez549fwJQDzx3zLjHKC"
     },
     {
       "added_at": "2021-06-16 13:58:07",

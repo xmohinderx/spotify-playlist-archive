@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3jWba5xiDhV.md) - [plain]
 
 > When the dance floor calls your name, that's amore.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,065 likes - 75 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,148 likes - 75 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

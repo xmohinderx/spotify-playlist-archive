@@ -1,12 +1,12 @@
 {
   "description": "That bouncy, groovy, dancey sound.",
-  "num_followers": 103268,
+  "num_followers": 103354,
   "original_name": "Choice Edit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMDQ3YjY1NzA0NjRjNjlmYzk2YTNkMWM4ZWE0YzVmYzE2",
+  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMGZjMWE2ZTBjMTA1Njc5Yjc4OTM2Nzk1ZGUzNDM5Yzg3",
   "tracks": [
     {
       "added_at": "2022-09-16 04:00:00",
@@ -367,26 +367,6 @@
     {
       "added_at": "2022-07-30 02:24:25",
       "album": {
-        "name": "PALAZZO",
-        "url": "https://open.spotify.com/album/2O2xKMqPSpnYYQMk5DPSTf"
-      },
-      "artists": [
-        {
-          "name": "SPINALL",
-          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
-        },
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 186002,
-      "name": "PALAZZO",
-      "url": "https://open.spotify.com/track/2SaRkvUkzNzL39fBB2hLpt"
-    },
-    {
-      "added_at": "2022-07-30 02:24:25",
-      "album": {
         "name": "Closer (feat. H.E.R.)",
         "url": "https://open.spotify.com/album/5IZ3qMtXKXAleWBxB7vWen"
       },
@@ -403,6 +383,26 @@
       "duration_ms": 168873,
       "name": "Closer (feat. H.E.R.)",
       "url": "https://open.spotify.com/track/1dKe9VEGUSNfzn5MDvm6SJ"
+    },
+    {
+      "added_at": "2022-07-30 02:24:25",
+      "album": {
+        "name": "U Are My High (with Future)",
+        "url": "https://open.spotify.com/album/3fG4IID2LEPJ7iBSsnVvuG"
+      },
+      "artists": [
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "U Are My High (with Future)",
+      "url": "https://open.spotify.com/track/0ITaSRuI0L1RNL7ZNYTTi7"
     },
     {
       "added_at": "2022-09-09 04:08:54",
@@ -439,26 +439,6 @@
       "duration_ms": 227706,
       "name": "YOU'RE THE ONE",
       "url": "https://open.spotify.com/track/70kdJnm1X6eEM8DbWa8Mnc"
-    },
-    {
-      "added_at": "2022-07-30 02:24:25",
-      "album": {
-        "name": "U Are My High (with Future)",
-        "url": "https://open.spotify.com/album/3fG4IID2LEPJ7iBSsnVvuG"
-      },
-      "artists": [
-        {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 211200,
-      "name": "U Are My High (with Future)",
-      "url": "https://open.spotify.com/track/0ITaSRuI0L1RNL7ZNYTTi7"
     },
     {
       "added_at": "2022-07-30 02:24:25",
@@ -573,26 +553,6 @@
       "url": "https://open.spotify.com/track/1h6Clzt71p8iOQpVM4saBz"
     },
     {
-      "added_at": "2022-08-05 04:16:42",
-      "album": {
-        "name": "Twin Flame",
-        "url": "https://open.spotify.com/album/1SzuRFxlqSZTIWUEE587Oy"
-      },
-      "artists": [
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        }
-      ],
-      "duration_ms": 232122,
-      "name": "Twin Flame",
-      "url": "https://open.spotify.com/track/15cYjzRUBRrDHn76GdxWiv"
-    },
-    {
       "added_at": "2022-05-02 22:05:00",
       "album": {
         "name": "Recap (with VanJess & Channel Tres)",
@@ -615,6 +575,26 @@
       "duration_ms": 177725,
       "name": "Recap (with VanJess & Channel Tres)",
       "url": "https://open.spotify.com/track/2m3RjRXib3un5AEh08k8Fe"
+    },
+    {
+      "added_at": "2022-08-05 04:16:42",
+      "album": {
+        "name": "Twin Flame",
+        "url": "https://open.spotify.com/album/1SzuRFxlqSZTIWUEE587Oy"
+      },
+      "artists": [
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "duration_ms": 232122,
+      "name": "Twin Flame",
+      "url": "https://open.spotify.com/track/15cYjzRUBRrDHn76GdxWiv"
     },
     {
       "added_at": "2022-05-02 22:05:00",
@@ -715,26 +695,6 @@
     {
       "added_at": "2022-05-02 22:05:00",
       "album": {
-        "name": "BUBBA",
-        "url": "https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO"
-      },
-      "artists": [
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        },
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 186680,
-      "name": "10%",
-      "url": "https://open.spotify.com/track/41SwdQIX8Hy2u6fuEDgvWr"
-    },
-    {
-      "added_at": "2022-05-02 22:05:00",
-      "album": {
         "name": "Wake Up, Get Down",
         "url": "https://open.spotify.com/album/5GHIjfV0FiuXa2cvqovHg6"
       },
@@ -755,6 +715,26 @@
       "duration_ms": 259816,
       "name": "Wake Up, Get Down",
       "url": "https://open.spotify.com/track/1gEB5InUzgNLHPv8H34v54"
+    },
+    {
+      "added_at": "2022-05-02 22:05:00",
+      "album": {
+        "name": "BUBBA",
+        "url": "https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO"
+      },
+      "artists": [
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 186680,
+      "name": "10%",
+      "url": "https://open.spotify.com/track/41SwdQIX8Hy2u6fuEDgvWr"
     },
     {
       "added_at": "2022-05-02 22:05:00",
@@ -819,6 +799,22 @@
     {
       "added_at": "2022-07-30 02:24:25",
       "album": {
+        "name": "SG8*",
+        "url": "https://open.spotify.com/album/2vwmN3BESDjpuUWloIjM1S"
+      },
+      "artists": [
+        {
+          "name": "Duckwrth",
+          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
+        }
+      ],
+      "duration_ms": 163106,
+      "name": "No Chill",
+      "url": "https://open.spotify.com/track/6J1qFWHFbmMgz0A6o10Xaq"
+    },
+    {
+      "added_at": "2022-07-30 02:24:25",
+      "album": {
         "name": "Run It Up",
         "url": "https://open.spotify.com/album/6YIohFFdeMmUqjMXLoe4Iq"
       },
@@ -835,22 +831,6 @@
       "duration_ms": 178218,
       "name": "Run It Up",
       "url": "https://open.spotify.com/track/4Tla2jt77nO70DgGwFejbK"
-    },
-    {
-      "added_at": "2022-07-30 02:24:25",
-      "album": {
-        "name": "SG8*",
-        "url": "https://open.spotify.com/album/2vwmN3BESDjpuUWloIjM1S"
-      },
-      "artists": [
-        {
-          "name": "Duckwrth",
-          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
-        }
-      ],
-      "duration_ms": 163106,
-      "name": "No Chill",
-      "url": "https://open.spotify.com/track/6J1qFWHFbmMgz0A6o10Xaq"
     },
     {
       "added_at": "2022-07-29 04:11:59",
@@ -917,6 +897,22 @@
       "url": "https://open.spotify.com/track/5AFrctm65wWIqJsjHPPx85"
     },
     {
+      "added_at": "2022-07-30 02:24:25",
+      "album": {
+        "name": "EL SUR",
+        "url": "https://open.spotify.com/album/1sHYyBeTBczpD87Bt3f8rz"
+      },
+      "artists": [
+        {
+          "name": "Girl Ultra",
+          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
+        }
+      ],
+      "duration_ms": 186299,
+      "name": "BOMBAY",
+      "url": "https://open.spotify.com/track/6rQYdEoWTZZBqCJexRei11"
+    },
+    {
       "added_at": "2022-05-02 22:05:00",
       "album": {
         "name": "BUBBA",
@@ -939,22 +935,6 @@
     {
       "added_at": "2022-07-30 02:24:25",
       "album": {
-        "name": "EL SUR",
-        "url": "https://open.spotify.com/album/1sHYyBeTBczpD87Bt3f8rz"
-      },
-      "artists": [
-        {
-          "name": "Girl Ultra",
-          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
-        }
-      ],
-      "duration_ms": 186299,
-      "name": "BOMBAY",
-      "url": "https://open.spotify.com/track/6rQYdEoWTZZBqCJexRei11"
-    },
-    {
-      "added_at": "2022-07-30 02:24:25",
-      "album": {
         "name": "The Lion King: The Gift [Deluxe Edition]",
         "url": "https://open.spotify.com/album/7kUuNU2LRmr9XbwLHXU9UZ"
       },
@@ -971,6 +951,26 @@
       "duration_ms": 216339,
       "name": "FIND YOUR WAY BACK - MELO-X Remix",
       "url": "https://open.spotify.com/track/1g0k1bFcLKyIrdsdUkF3eW"
+    },
+    {
+      "added_at": "2022-07-30 02:24:25",
+      "album": {
+        "name": "333 (Deluxe)",
+        "url": "https://open.spotify.com/album/1mxG8YY9wY5Q3mLcDs2khW"
+      },
+      "artists": [
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        },
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "duration_ms": 247117,
+      "name": "HMU for a Good Time",
+      "url": "https://open.spotify.com/track/2Kb5Sy93AE70esO90eJgdQ"
     }
   ],
   "unique_name": "Choice Edit",

@@ -1,12 +1,12 @@
 {
   "description": "Semplicemente noi.",
-  "num_followers": 84253,
+  "num_followers": 84301,
   "original_name": "Tra Amiche",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzc1NDY3MCwwMDAwMDAwMDRlOTc4MjUyMGQ5N2MyNGFiZTU1YzI2MmEzYWMyNDJi",
+  "snapshot_id": "MTY2Mzc1NDY3MCwwMDAwMDAwMDRlNjdjMjZkZDFmYTFlY2U0ZDFjNWYwZGRkZjdmOGYy",
   "tracks": [
     {
       "added_at": "2022-09-21 10:04:29",
@@ -183,6 +183,22 @@
     {
       "added_at": "2022-09-21 10:04:29",
       "album": {
+        "name": "Una Noche en Medell\u00edn",
+        "url": "https://open.spotify.com/album/455Vc66bPFRI5D0zDEDn46"
+      },
+      "artists": [
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "duration_ms": 153750,
+      "name": "Una Noche en Medell\u00edn",
+      "url": "https://open.spotify.com/track/1O2pcBJGej0pmH2Y9XZMs6"
+    },
+    {
+      "added_at": "2022-09-21 10:04:29",
+      "album": {
         "name": "One Kiss (with Dua Lipa)",
         "url": "https://open.spotify.com/album/7GEzhoTiqcPYkOprWQu581"
       },
@@ -199,22 +215,6 @@
       "duration_ms": 214846,
       "name": "One Kiss (with Dua Lipa)",
       "url": "https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6"
-    },
-    {
-      "added_at": "2022-09-21 10:04:29",
-      "album": {
-        "name": "Una Noche en Medell\u00edn",
-        "url": "https://open.spotify.com/album/455Vc66bPFRI5D0zDEDn46"
-      },
-      "artists": [
-        {
-          "name": "Cris Mj",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
-        }
-      ],
-      "duration_ms": 153750,
-      "name": "Una Noche en Medell\u00edn",
-      "url": "https://open.spotify.com/track/1O2pcBJGej0pmH2Y9XZMs6"
     },
     {
       "added_at": "2022-09-21 10:04:29",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2022-09-21 10:04:29",
       "album": {
+        "name": "Don't Go Yet",
+        "url": "https://open.spotify.com/album/4gxhWdfO9qAogokjIc2bPZ"
+      },
+      "artists": [
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        }
+      ],
+      "duration_ms": 164842,
+      "name": "Don't Go Yet",
+      "url": "https://open.spotify.com/track/1058fW9H3fZA6QjYCdOBad"
+    },
+    {
+      "added_at": "2022-09-21 10:04:29",
+      "album": {
         "name": "Tropicana (feat. Annalisa)",
         "url": "https://open.spotify.com/album/4vJhkz8fj06lW7TEoVmBKM"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 172000,
       "name": "Tropicana (feat. Annalisa)",
       "url": "https://open.spotify.com/track/3YjriLRvztHSDJOZRTTiQz"
-    },
-    {
-      "added_at": "2022-09-21 10:04:29",
-      "album": {
-        "name": "Don't Go Yet",
-        "url": "https://open.spotify.com/album/4gxhWdfO9qAogokjIc2bPZ"
-      },
-      "artists": [
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-        }
-      ],
-      "duration_ms": 164842,
-      "name": "Don't Go Yet",
-      "url": "https://open.spotify.com/track/1058fW9H3fZA6QjYCdOBad"
     },
     {
       "added_at": "2022-09-21 10:04:29",

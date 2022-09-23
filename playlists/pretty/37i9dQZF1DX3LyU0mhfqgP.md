@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 
 > The newest songs from LGBTQIA+ artists feat\. cover girl Fletcher's fave picks at the top
 
-[Spotify](https://open.spotify.com/user/spotify) - 812,265 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 812,428 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,10 +58,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 48 | [Slow Song \(with Dragonette\)](https://open.spotify.com/track/7HDcd1vyDdNWq897wSILCZ) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Dragonette](https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n) | [Slow Song \(with Dragonette\)](https://open.spotify.com/album/43HtqLPR1ZIXU8c81c2Vj6) | 4:13 |
 | 49 | [kaleidoscope](https://open.spotify.com/track/5bD7bhOa64aE8a0vifa5J6) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [kaleidoscope](https://open.spotify.com/album/5AVdHQYItgjzDu5qRVmONy) | 3:05 |
 | 50 | [The Curse of the Blackened Eye](https://open.spotify.com/track/5WhdOYLmpNgENGhtzyvEXc) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Bronco](https://open.spotify.com/album/2hCcPHWTbvF81CiXPUrM6I) | 4:10 |
-| 51 | [Holy Water](https://open.spotify.com/track/2FcbwSTgbQeweZv0bA9hI7) | [Noah Davis](https://open.spotify.com/artist/7lVbD38aVBVACNzgta9awX) | [Holy Water](https://open.spotify.com/album/0IzNmO6dTVd1jebYlk6t41) | 3:20 |
-| 52 | [Leave It On The Dancefloor](https://open.spotify.com/track/30ae9cv36eD4Q6Zc8PVF8v) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Leave It On The Dancefloor](https://open.spotify.com/album/07Vt92F3DMX0GHMKSJ6A3o) | 2:55 |
-| 53 | [IDK SH!T](https://open.spotify.com/track/0S3xP5jVO84UzVeWpwXMK8) | [JORDY](https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E) | [IDK SH!T](https://open.spotify.com/album/2gfnBbxQ9zW5VH0wBt2uzF) | 2:51 |
-| 54 | [Keeping The Light On](https://open.spotify.com/track/1Uacdg0eFpE2bpjS90feZQ) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Keeping The Light On](https://open.spotify.com/album/6frFUCnLfPHN5cuGuONc04) | 3:43 |
+| 51 | [Leave It On The Dancefloor](https://open.spotify.com/track/30ae9cv36eD4Q6Zc8PVF8v) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Leave It On The Dancefloor](https://open.spotify.com/album/07Vt92F3DMX0GHMKSJ6A3o) | 2:55 |
+| 52 | [Holy Water](https://open.spotify.com/track/2FcbwSTgbQeweZv0bA9hI7) | [Noah Davis](https://open.spotify.com/artist/7lVbD38aVBVACNzgta9awX) | [Holy Water](https://open.spotify.com/album/0IzNmO6dTVd1jebYlk6t41) | 3:20 |
+| 53 | [Keeping The Light On](https://open.spotify.com/track/1Uacdg0eFpE2bpjS90feZQ) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Keeping The Light On](https://open.spotify.com/album/6frFUCnLfPHN5cuGuONc04) | 3:43 |
+| 54 | [IDK SH!T](https://open.spotify.com/track/0S3xP5jVO84UzVeWpwXMK8) | [JORDY](https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E) | [IDK SH!T](https://open.spotify.com/album/2gfnBbxQ9zW5VH0wBt2uzF) | 2:51 |
 | 55 | [Let Us Die](https://open.spotify.com/track/5uDo40mspcWNHDCLlKTLoJ) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Hold On Baby](https://open.spotify.com/album/3Q998ztjKK3ybjToj0QL9c) | 3:53 |
 | 56 | [Skin and Bones](https://open.spotify.com/track/6slWOE0SO6HjBH0fNd13YB) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Skin and Bones](https://open.spotify.com/album/5LCCfjJW4kBomupswapRHE) | 3:34 |
 | 57 | [Homerun Hitter](https://open.spotify.com/track/5tHalhXKz1l1rCJAMzx0PG) | [Greyson Chance](https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX) | [Homerun Hitter](https://open.spotify.com/album/7KRLrC9FUfJDXC7p2E4q11) | 4:32 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 71 | [Always Been \- Edit](https://open.spotify.com/track/7BRfaJyBsD2kixpq6TC9bS) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [Always Been](https://open.spotify.com/album/10SELiFQ5TbsmxH0pmAHYs) | 3:28 |
 | 72 | [Weirdo](https://open.spotify.com/track/0aIj36K0tuJIt6kpN4Jbtq) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Inside Voices / Outside Voices](https://open.spotify.com/album/3rOh1c4zewftORLmjmV8dM) | 3:45 |
 | 73 | [SHE CAN DANCE](https://open.spotify.com/track/5rWi2q5zyWZzQupvHJgrWB) | [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [SHE CAN DANCE](https://open.spotify.com/album/0ZvZsk1tWYnw35slDlTXXR) | 3:04 |
-| 74 | [Photograph](https://open.spotify.com/track/7qG7bsMPOmiMt0uT13cLx5) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Ugly Season](https://open.spotify.com/album/6rFFWK98d8hhdSYgaOxI5L) | 4:41 |
-| 75 | [Complex](https://open.spotify.com/track/5R1a0XN84btO27Bn5uV5BK) | [Xana](https://open.spotify.com/artist/5Ui0TOcqUVmXQORMMkMaD3) | [Tantrums](https://open.spotify.com/album/3N2z6l5poKgtLXUwPFFyuc) | 3:31 |
+| 74 | [Complex](https://open.spotify.com/track/5R1a0XN84btO27Bn5uV5BK) | [Xana](https://open.spotify.com/artist/5Ui0TOcqUVmXQORMMkMaD3) | [Tantrums](https://open.spotify.com/album/3N2z6l5poKgtLXUwPFFyuc) | 3:31 |
+| 75 | [Photograph](https://open.spotify.com/track/7qG7bsMPOmiMt0uT13cLx5) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Ugly Season](https://open.spotify.com/album/6rFFWK98d8hhdSYgaOxI5L) | 4:41 |
 
-Snapshot ID: `MTY2MzMwMDgwMCwwMDAwMDAwMDdjZGJmZTdmZWQ5NzE4ZTQyNzhjOWU0YTNmODVhYWY5`
+Snapshot ID: `MTY2MzMwMDgwMCwwMDAwMDAwMDczMjI1MTZmOWFlYjE1ZWU3MjViNjNmYjlhOWUzYWI1`

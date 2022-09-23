@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNQEmXRHxVe.md) - [plain]
 
 > Music from the most memorable Super Bowl halftime shows\. Cover: Dr\. Dre
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,173 likes - 96 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,202 likes - 96 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNQEmXRHxVe.md) - [plain]
 | 85 | [Tracks of My Tears](https://open.spotify.com/track/5QizJ1IfhrJemVys14KlJF) | [Smokey Robinson](https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8) | [Platoon And Songs From the Era](https://open.spotify.com/album/61ueQv6BTjwSURyp2yV4fd) | 2:57 |
 | 86 | [This One's for the Children](https://open.spotify.com/track/78bDGxqn2KF2VU1G3Kz6J0) | [New Kids On The Block](https://open.spotify.com/artist/55qiaow2sDYtjqu1mwRua6) | [Merry, Merry Christmas](https://open.spotify.com/album/0Ttc1BQu1k3SfU02vn2cM5) | 3:58 |
 | 87 | [All For You](https://open.spotify.com/track/28IZUzBnFsBxyrgdsdlQPg) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Best Of Number Ones](https://open.spotify.com/album/7qxMrD1a1AEWPmTiiltWda) | 4:32 |
-| 88 | [I Will Survive](https://open.spotify.com/track/5MSC1blxmqpS2PZ6YVN1GB) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Take Me Higher](https://open.spotify.com/album/3RruDgHLjfELXFUOTKvqVC) | 4:47 |
-| 89 | [I Gotta Feeling](https://open.spotify.com/track/3w01lhgzYV8BHPqwC9BOte) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [Throwback Party](https://open.spotify.com/album/1FVXIAyitK6wgpiKMSqc40) | 4:49 |
+| 88 | [I Gotta Feeling](https://open.spotify.com/track/3w01lhgzYV8BHPqwC9BOte) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [Throwback Party](https://open.spotify.com/album/1FVXIAyitK6wgpiKMSqc40) | 4:49 |
+| 89 | [I Will Survive](https://open.spotify.com/track/5MSC1blxmqpS2PZ6YVN1GB) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Take Me Higher](https://open.spotify.com/album/3RruDgHLjfELXFUOTKvqVC) | 4:47 |
 | 90 | [It's A Little Too Late](https://open.spotify.com/track/0j3Ly6UYhwEgAiXeCERVJM) | [Tanya Tucker](https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB) | [Greatest Hits 1990\-1992](https://open.spotify.com/album/1VvHSKStQBrQV5bOPBsq16) | 2:39 |
 | 91 | [Paper](https://open.spotify.com/track/5wOFLFoIhXBaKGtgCc62wW) | [Queen Latifah](https://open.spotify.com/artist/5m7wCUhYhBh7A3A3YMxrbt) | [Order In The Court](https://open.spotify.com/album/6CUx1FX3ctnbXGieFT7inL) | 4:00 |
 | 92 | [Release Yourself](https://open.spotify.com/track/24JnivykEgycnelmeyvZNl) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [Burnin'](https://open.spotify.com/album/7IAaeP93y9SgYQ6MKWA0hL) | 4:54 |
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNQEmXRHxVe.md) - [plain]
 | 95 | [Nuthin' But A "G" Thang](https://open.spotify.com/track/4YtoipFgf4k0AfD17ZfD5X) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [The Chronic](https://open.spotify.com/album/6vdFSyhPjL4dZFkgRtToXH) | 3:58 |
 | 96 | [Gin N Juice \(feat\. Dat Nigga Daz\)](https://open.spotify.com/track/7sPt2cfrg7DrVP52zfvS1i) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Daz Dillinger](https://open.spotify.com/artist/5Jz9kKRnCRLTodCH58MyB4) | [Doggystyle](https://open.spotify.com/album/57elsC8jWIydd3qGLf5w8C) | 3:31 |
 
-Snapshot ID: `MTY0NDU4ODYwMywwMDAwMDAwMDM3MGQ4MGVmMmQwMWRmMTM5NDhmOWJhZmVjYjEzOTY0`
+Snapshot ID: `MTY0NDU4ODYwMywwMDAwMDAwMDVjMDE3MzYzMjNmZWNhMWJlNjM5ODU0ODVjNzdkNWFh`

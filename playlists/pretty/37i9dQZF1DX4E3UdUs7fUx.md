@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4E3UdUs7fUx.md) - [plain]
 
 > Unwind and let the afternoon unfold.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,331,598 likes - 100 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,331,533 likes - 100 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4E3UdUs7fUx.md) - [plain]
 | 14 | [Tiger Striped Sky](https://open.spotify.com/track/4C2aiAVTTVyZbCQZst5Xu1) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Little Giant](https://open.spotify.com/album/3ZTS2uxdWAkBnIXzsCY8PZ) | 4:01 |
 | 15 | [The Way Back Home](https://open.spotify.com/track/3PTsvzTENG4jREGGQz9xpb) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [The Way Back Home](https://open.spotify.com/album/1UpWcCKM40cIfTaDY38eFY) | 3:34 |
 | 16 | [Wildfire](https://open.spotify.com/track/6VfY0sgS4j4JpFQH8kk4XA) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Blindfaller](https://open.spotify.com/album/2Ww7LYiKIxQUhLyiXtlppZ) | 5:29 |
-| 17 | [Like Gold](https://open.spotify.com/track/6Od2OWvoT4embWAgIGeFRd) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Nation of Two](https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV) | 3:44 |
-| 18 | [Boardwalks \- Remastered 2015/ Bonus Track](https://open.spotify.com/track/23Zlb66N7xcIWbpt2C1bsi) | [Little May](https://open.spotify.com/artist/0TjAAwE04BeoSeOpJIakYH) | [For The Company](https://open.spotify.com/album/4ruKhGgJSmLx5fGAZquEH2) | 3:19 |
+| 17 | [Boardwalks \- Remastered 2015/ Bonus Track](https://open.spotify.com/track/23Zlb66N7xcIWbpt2C1bsi) | [Little May](https://open.spotify.com/artist/0TjAAwE04BeoSeOpJIakYH) | [For The Company](https://open.spotify.com/album/4ruKhGgJSmLx5fGAZquEH2) | 3:19 |
+| 18 | [Like Gold](https://open.spotify.com/track/6Od2OWvoT4embWAgIGeFRd) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Nation of Two](https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV) | 3:44 |
 | 19 | [Calico](https://open.spotify.com/track/7EWwiyBXMaLzoSXwWZkYyU) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Calico](https://open.spotify.com/album/6ocDemfIGrj8hpvvpjDFoc) | 3:51 |
 | 20 | [The Trouble with Wanting](https://open.spotify.com/track/5ZUObJNpVt2l9GogUSfALc) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Front Porch](https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu) | 3:55 |
 | 21 | [Wouldn't Come Back](https://open.spotify.com/track/1zeQjPT367QcGrkpIXYjuW) | [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE) | [Wouldn't Come Back](https://open.spotify.com/album/2X0Oi2vkyzqYWPy2dSdim1) | 3:39 |
@@ -49,13 +49,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4E3UdUs7fUx.md) - [plain]
 | 39 | [See the World](https://open.spotify.com/track/0YPX6ztcWM4QTbR9tpnHNB) | [Brett Dennen](https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT) | [See the World](https://open.spotify.com/album/4mWXndqtN0KU5ndYussdyK) | 4:17 |
 | 40 | [Without A Word](https://open.spotify.com/track/6NTIKfyWCP3Nm2zWB16o88) | [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek) | [Young In All The Wrong Ways](https://open.spotify.com/album/5O41sFLk5rKN2S4eT8GgQR) | 3:58 |
 | 41 | [You're My Home](https://open.spotify.com/track/2GbTLMvttdfKoz4YDjZJis) | [Joshua Radin](https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34) | [The Ghost and the Wall](https://open.spotify.com/album/5XY9DCBsTFRKm6EHhc2pGo) | 3:20 |
-| 42 | [Resentment](https://open.spotify.com/track/2Dms8axOrrjXETwVwtvBF5) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [History Of A Feeling](https://open.spotify.com/album/0bx5hbIbfqvl6XmqTiGvkt) | 2:53 |
-| 43 | [On The Road Again](https://open.spotify.com/track/4Uc8xnNu2Mm1yObB0uxZI6) | [The Brother Brothers](https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5) | [On The Road Again](https://open.spotify.com/album/55usaj7ODaBiksdYFoKUvb) | 2:53 |
+| 42 | [On The Road Again](https://open.spotify.com/track/4Uc8xnNu2Mm1yObB0uxZI6) | [The Brother Brothers](https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5) | [On The Road Again](https://open.spotify.com/album/55usaj7ODaBiksdYFoKUvb) | 2:53 |
+| 43 | [Resentment](https://open.spotify.com/track/2Dms8axOrrjXETwVwtvBF5) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [History Of A Feeling](https://open.spotify.com/album/0bx5hbIbfqvl6XmqTiGvkt) | 2:53 |
 | 44 | [Shame](https://open.spotify.com/track/1d39v4V4DmrrLiFX4DKHBv) | [Ciaran Lavery](https://open.spotify.com/artist/7zOuMHqRJ6YOMnCGpLfuTU) | [Not Nearly Dark](https://open.spotify.com/album/6kUNN69mPV5AxDEyypv6hB) | 4:11 |
 | 45 | [Sophie](https://open.spotify.com/track/5Ics32fcXJuInGCu9DPpqg) | [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi) | [Without/Within](https://open.spotify.com/album/0yvBc7miQsWYDcV4A8gjEv) | 5:04 |
-| 46 | [IOWA](https://open.spotify.com/track/3c9srkZXPYH5969NYxVXZS) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [IOWA](https://open.spotify.com/album/4jLnoqNXzY7DquELf6mz46) | 4:35 |
+| 46 | [Whiskey Whiskey](https://open.spotify.com/track/0c1rlIZao3TFvRWKBig16H) | [Joshua Burnside](https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV) | [Into the Depths of Hell](https://open.spotify.com/album/7BMZsEBUvcUTxTjnhXbl9c) | 2:51 |
 | 47 | [All This Time Running](https://open.spotify.com/track/4qrVC09Ud9a0B2hpwT1EGV) | [Craig Cardiff](https://open.spotify.com/artist/2VMxEtyyo7Jg3jmVDQPHwx) | [All This Time Running](https://open.spotify.com/album/71FWp5uo78GM4C7ZseK2O9) | 3:05 |
-| 48 | [Whiskey Whiskey](https://open.spotify.com/track/0c1rlIZao3TFvRWKBig16H) | [Joshua Burnside](https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV) | [Into the Depths of Hell](https://open.spotify.com/album/7BMZsEBUvcUTxTjnhXbl9c) | 2:51 |
+| 48 | [IOWA](https://open.spotify.com/track/3c9srkZXPYH5969NYxVXZS) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [IOWA](https://open.spotify.com/album/4jLnoqNXzY7DquELf6mz46) | 4:35 |
 | 49 | [Faking My Own Death](https://open.spotify.com/track/0GoTonjhYLPM7NVKqliTTt) | [Allison Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Faking My Own Death](https://open.spotify.com/album/5wGcJVAdzM6LndVUbMxTnf) | 3:58 |
 | 50 | [Nothing’s Gonna Happen](https://open.spotify.com/track/4WM5HfHQZ0N4o8HDNwRmRk) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Good Woman](https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl) | 3:36 |
 | 51 | [The Blower's Daughter](https://open.spotify.com/track/4B2lJinAkeNLSJjcq3dg8Q) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [O](https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1) | 4:46 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4E3UdUs7fUx.md) - [plain]
 | 99 | [Waves \- Guitar Acoustic](https://open.spotify.com/track/6yiWXb7aSGTLtrh7oKj80S) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Same Kind Of Different \(Acoustic\)](https://open.spotify.com/album/6EWejNtoOEYMzQwKIpctti) | 4:08 |
 | 100 | [Motel](https://open.spotify.com/track/6qe4MSI8cWbBqo2YBNmUic) | [Caitlin Canty](https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl) | [Motel Bouquet](https://open.spotify.com/album/1wzGEFBlLXHmoW4OK4Qapu) | 3:04 |
 
-Snapshot ID: `MTYzOTA4OTEwNSwwMDAwMDAwMDUyMzdjYmJhOGZkMThiMTVkNzQ3YzFmODM4ZWMxNzRi`
+Snapshot ID: `MTYzOTA4OTEwNSwwMDAwMDAwMGFiMmZmYjA2ZjE5MmE0ZTM3MDk2YTM5MzE1YmJmZDcz`

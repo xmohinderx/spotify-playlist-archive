@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 
 > Chill tunes to soundtrack your gaming session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,755 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,848 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 | 20 | [Ocelot](https://open.spotify.com/track/3n5bECT6qgStHMeip7brcr) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm) | [Seven Seas](https://open.spotify.com/album/7tFM2YfFPx3mNrwRes7LrC) | 4:36 |
 | 21 | [Start Shootin'](https://open.spotify.com/track/4IUgpL0CgSiloUOHzgd6Qe) | [Little People](https://open.spotify.com/artist/3cbU0WxlZJTFLTfXEUB433) | [Mickey Mouse Operation](https://open.spotify.com/album/2ULdmAtiIIn5xok5YCVGpk) | 3:36 |
 | 22 | [Fireflies](https://open.spotify.com/track/4Al96JAyCmkAn9tryHNEFx) | [Spaceouters](https://open.spotify.com/artist/4WbV6iwik5OIUR9qfUF3h3) | [Fireflies](https://open.spotify.com/album/45QD5MLnRkj2F2RVJfwkcc) | 4:58 |
-| 23 | [Panacea](https://open.spotify.com/track/7KBoQnlle2lUerygFSk0iJ) | [Disasterpeace](https://open.spotify.com/artist/7rSMEcqv4Ez0OLgJKDjrvq) | [Hyper Light Drifter](https://open.spotify.com/album/0uYATlPpnvkSvsjxWg8ZB3) | 6:04 |
-| 24 | [Crazy for You](https://open.spotify.com/track/7y128njgv0ipvbzIPycOgx) | [Moai Beats](https://open.spotify.com/artist/5Zt96vfBQXmUB3fs3Qkm5q) | [Crazy for You](https://open.spotify.com/album/0RRw5IO6MRoPPOyQFq480D) | 4:10 |
+| 23 | [Crazy for You](https://open.spotify.com/track/7y128njgv0ipvbzIPycOgx) | [Moai Beats](https://open.spotify.com/artist/5Zt96vfBQXmUB3fs3Qkm5q) | [Crazy for You](https://open.spotify.com/album/0RRw5IO6MRoPPOyQFq480D) | 4:10 |
+| 24 | [Panacea](https://open.spotify.com/track/7KBoQnlle2lUerygFSk0iJ) | [Disasterpeace](https://open.spotify.com/artist/7rSMEcqv4Ez0OLgJKDjrvq) | [Hyper Light Drifter](https://open.spotify.com/album/0uYATlPpnvkSvsjxWg8ZB3) | 6:04 |
 | 25 | [A Gloomy Night](https://open.spotify.com/track/7ogQ3ATYnACdIjSXXesBKF) | [Voron](https://open.spotify.com/artist/5NmGxnoqCncZYg2TbfC1hN) | [Journey To Osaka](https://open.spotify.com/album/6UcQeTFgDgCjzlXRVBHQhm) | 2:20 |
 | 26 | [Until We Meet Again](https://open.spotify.com/track/78CpmGK47wePWOuKZhnus1) | [Peak Twilight](https://open.spotify.com/artist/25qDYhjZHVzZS6sOVzAVAx), [amies](https://open.spotify.com/artist/2zNmlxTlRfyMAAifd2f71Q) | [Departure](https://open.spotify.com/album/18OPZkuFLk129TscAuoDN7) | 3:09 |
 | 27 | [I Still Like You](https://open.spotify.com/track/2P1pP6UfKgkUkCUzceAGEx) | [ビクター ＭＫＩＩ](https://open.spotify.com/artist/2lGJkXqpvUW77Kc6hcEIO8) | [Omoide](https://open.spotify.com/album/0N3ddx2vF7wsVEqtQRmfB1) | 2:20 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 | 39 | [playa](https://open.spotify.com/track/2WHfcEjm46Pjbviynt1jN8) | [evän](https://open.spotify.com/artist/2VNtLWlwWghbNHvtPcM69G), [Electricsheep42](https://open.spotify.com/artist/52VLqHXZjk0GtsvTkjFDr0), [Linearwave](https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk) | [playa](https://open.spotify.com/album/1Ilqrit4cHGAAZVfpLo2on) | 1:56 |
 | 40 | [tears](https://open.spotify.com/track/0lR6qQ72JIxSm2c1NWIyHt) | [Austin Chen](https://open.spotify.com/artist/3y6dmAk5GeWK3wjo8xcpjf) | [scenes I](https://open.spotify.com/album/32VEzvjaCrWCdoSUB67Wvf) | 2:24 |
 | 41 | [Theta](https://open.spotify.com/track/1GeeXTY3fjN7EeNTWibtuH) | [NiElsir](https://open.spotify.com/artist/7A7IFcjPcVU9swlaIT1wbk) | [Theta](https://open.spotify.com/album/04s7SQbx21d5jzKWxWreOg) | 3:00 |
-| 42 | [star drive](https://open.spotify.com/track/1D1RwQ2Lt5F4gSsTApjoij) | [Arthur Wu](https://open.spotify.com/artist/3FvtuXFdOgdAl7Gsi91GFV) | [star drive](https://open.spotify.com/album/7p2Q3tN2DHenlhsWW2uZ87) | 2:01 |
-| 43 | [settled down.](https://open.spotify.com/track/7KFQ0LrtvHkiR0aSZKscjF) | [mr\. okane](https://open.spotify.com/artist/6sQtzwpgvnWhyi9yi6pfxE) | [OKANE 金 1](https://open.spotify.com/album/5bal2BUbu8l191xGDxQ8AK) | 1:45 |
+| 42 | [settled down.](https://open.spotify.com/track/7KFQ0LrtvHkiR0aSZKscjF) | [mr\. okane](https://open.spotify.com/artist/6sQtzwpgvnWhyi9yi6pfxE) | [OKANE 金 1](https://open.spotify.com/album/5bal2BUbu8l191xGDxQ8AK) | 1:45 |
+| 43 | [star drive](https://open.spotify.com/track/1D1RwQ2Lt5F4gSsTApjoij) | [Arthur Wu](https://open.spotify.com/artist/3FvtuXFdOgdAl7Gsi91GFV) | [star drive](https://open.spotify.com/album/7p2Q3tN2DHenlhsWW2uZ87) | 2:01 |
 | 44 | [Sad Heart of Mine](https://open.spotify.com/track/3e66nnkSbIvBHD8TFzh1mw) | [Caspian](https://open.spotify.com/artist/4SXj7TVoA3bgfR8AVssACa) | [Dust and Disquiet](https://open.spotify.com/album/2m4KwsPpsNAenV6ImBv71I) | 4:27 |
 | 45 | [pyjamas](https://open.spotify.com/track/2hUhKjunV4ryNKlQmnDqN0) | [pipetiger](https://open.spotify.com/artist/12HMurN87aQV1xBcqfcjnL) | [pyjamas](https://open.spotify.com/album/1k5jnVJrROUCzvUVvrbKXT) | 2:02 |
 | 46 | [Csay Csay](https://open.spotify.com/track/1enynlph69y9FEW7NVhkO3) | [Little People](https://open.spotify.com/artist/3cbU0WxlZJTFLTfXEUB433) | [Csay Csay](https://open.spotify.com/album/7t9LroLEtMH5GKu7xtcKVn) | 6:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 | 49 | [Byte into an Apple](https://open.spotify.com/track/2yrmWG0ppPgLS5roqMruJP) | [Alpha Room](https://open.spotify.com/artist/0u3vSXLtwN75J1AlhuXpMk) | [Byte into an Apple](https://open.spotify.com/album/1JgMUjHWidmXNlfNWHiLEr) | 3:15 |
 | 50 | [A Drifting Up](https://open.spotify.com/track/6p15WNkNoKhR0iDdFOTmuw) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Insides](https://open.spotify.com/album/124tr6mYSuv4yCQUKfyKTF) | 6:27 |
 
-Snapshot ID: `MTY2Mzc4NDc3NSwwMDAwMDAwMDYwNDAxNDY4ZjM1ZTNiOTY3OGMyYzhjYmE2M2EyMTJk`
+Snapshot ID: `MTY2Mzc4NDc3NSwwMDAwMDAwMDhiYWY2ZTgyZTY1YWFmMTJjZTQ0ODhjZTgxYzY2NDI0`

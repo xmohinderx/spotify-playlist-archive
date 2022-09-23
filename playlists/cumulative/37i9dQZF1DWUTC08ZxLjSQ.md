@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: Abri, Artwork: Isu Kim
 
-52 songs - 2 hr 46 min - not published yet
+52 songs - 2 hr 46 min - [published](https://open.spotify.com/playlist/5WHUFzJa9ZzmLS4KcMCdPY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

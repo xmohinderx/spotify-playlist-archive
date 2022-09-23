@@ -1,15 +1,31 @@
 {
   "description": "It's Hits \u2013 b\u00e4sta och st\u00f6rsta hitsen just nu.",
-  "num_followers": 647265,
+  "num_followers": 647297,
   "original_name": "It's Hits Sweden",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzU5MTQ1MCwwMDAwMDAwMDUwN2RiZDRmOWI3MDYwZmMyMWRjZDYyZjI5MmNiY2I5",
+  "snapshot_id": "MTY2Mzg4NDAwMCwwMDAwMDAwMDMzZGEyZGU2OWZlOGU5ZmU5OWM0ZGFiZDQwNmUzODI4",
   "tracks": [
     {
-      "added_at": "2022-09-15 22:00:00",
+      "added_at": "2022-09-22 22:00:00",
+      "album": {
+        "name": "F*CKED UP!",
+        "url": "https://open.spotify.com/album/2C3PepE12YTbPAAt67hqji"
+      },
+      "artists": [
+        {
+          "name": "LOAM",
+          "url": "https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P"
+        }
+      ],
+      "duration_ms": 167760,
+      "name": "F*CKED UP!",
+      "url": "https://open.spotify.com/track/2D3O7NUUdTrMu30ZtGa2s6"
+    },
+    {
+      "added_at": "2022-09-22 22:00:00",
       "album": {
         "name": "St\u00e5 med mig i regnet - Spotify Studio It's Hits Recording",
         "url": "https://open.spotify.com/album/3pcUoFcxYue6mWBKPFr3c0"
@@ -25,7 +41,7 @@
       "url": "https://open.spotify.com/track/5TFJLlEljmmlxS3s58oQN8"
     },
     {
-      "added_at": "2022-09-15 22:00:00",
+      "added_at": "2022-09-22 22:00:00",
       "album": {
         "name": "I'm Good (Blue)",
         "url": "https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3"
@@ -45,7 +61,43 @@
       "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
     },
     {
-      "added_at": "2022-09-15 22:00:00",
+      "added_at": "2022-09-22 22:00:00",
+      "album": {
+        "name": "Unholy (feat. Kim Petras)",
+        "url": "https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "duration_ms": 156943,
+      "name": "Unholy (feat. Kim Petras)",
+      "url": "https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG"
+    },
+    {
+      "added_at": "2022-09-22 22:00:00",
+      "album": {
+        "name": "Run Away to Mars",
+        "url": "https://open.spotify.com/album/4ks1Xkpt67UXbJamJFZ8et"
+      },
+      "artists": [
+        {
+          "name": "TALK",
+          "url": "https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87"
+        }
+      ],
+      "duration_ms": 213753,
+      "name": "Run Away to Mars",
+      "url": "https://open.spotify.com/track/6G1Mz5yMgn0ydOlIvTrZ65"
+    },
+    {
+      "added_at": "2022-09-22 22:00:00",
       "album": {
         "name": "Haglar \u2013 Spotify Studio It\u2019s Hits Recording",
         "url": "https://open.spotify.com/album/5r7W2jDIx805Fhx5ahwFUr"
@@ -65,39 +117,7 @@
       "url": "https://open.spotify.com/track/5yoafZ4sNIlX4BuQwlKQCX"
     },
     {
-      "added_at": "2022-09-15 22:00:00",
-      "album": {
-        "name": "Run Away to Mars",
-        "url": "https://open.spotify.com/album/4ks1Xkpt67UXbJamJFZ8et"
-      },
-      "artists": [
-        {
-          "name": "TALK",
-          "url": "https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87"
-        }
-      ],
-      "duration_ms": 213753,
-      "name": "Run Away to Mars",
-      "url": "https://open.spotify.com/track/6G1Mz5yMgn0ydOlIvTrZ65"
-    },
-    {
-      "added_at": "2022-09-15 22:00:00",
-      "album": {
-        "name": "Ingen Aning Vart Jag Landar",
-        "url": "https://open.spotify.com/album/3N8DSgKPVNUoit6kBArz01"
-      },
-      "artists": [
-        {
-          "name": "Hanna Ferm",
-          "url": "https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq"
-        }
-      ],
-      "duration_ms": 156857,
-      "name": "Det \u00c4r Slut",
-      "url": "https://open.spotify.com/track/04QgZlzLxbu9YNEjYIpUPU"
-    },
-    {
-      "added_at": "2022-09-15 22:00:00",
+      "added_at": "2022-09-22 22:00:00",
       "album": {
         "name": "Wish You Were Here (feat. Khalid)",
         "url": "https://open.spotify.com/album/6xStUI10NrOYMx3sKoIfBq"
@@ -117,7 +137,7 @@
       "url": "https://open.spotify.com/track/7up4SX2l8FAnisrUXoGupd"
     },
     {
-      "added_at": "2022-09-15 22:00:00",
+      "added_at": "2022-09-22 22:00:00",
       "album": {
         "name": "How Do I Say Goodbye",
         "url": "https://open.spotify.com/album/3cptxwPFf3Ioj7I3AVX3mp"
@@ -133,27 +153,7 @@
       "url": "https://open.spotify.com/track/5hnGrTBaEsdukpDF6aZg8a"
     },
     {
-      "added_at": "2022-09-15 22:00:00",
-      "album": {
-        "name": "Som ett minne blott",
-        "url": "https://open.spotify.com/album/7wmvCiobMOZO4MMgXZCtKE"
-      },
-      "artists": [
-        {
-          "name": "Norlie & KKV",
-          "url": "https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk"
-        },
-        {
-          "name": "Benjamin Ingrosso",
-          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
-        }
-      ],
-      "duration_ms": 191445,
-      "name": "Som ett minne blott",
-      "url": "https://open.spotify.com/track/3WiVbKsEJhierVISxoc07e"
-    },
-    {
-      "added_at": "2022-09-15 22:00:00",
+      "added_at": "2022-09-22 22:00:00",
       "album": {
         "name": "Hold Me Closer",
         "url": "https://open.spotify.com/album/4QQWpCEX4BxMXwRQmtkKY6"
@@ -173,107 +173,7 @@
       "url": "https://open.spotify.com/track/72yP0DUlWPyH8P7IoxskwN"
     },
     {
-      "added_at": "2022-09-15 22:00:00",
-      "album": {
-        "name": "Million Dollar Baby",
-        "url": "https://open.spotify.com/album/4fCW1XNPfBY6rgL1scsfGC"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 184294,
-      "name": "Million Dollar Baby",
-      "url": "https://open.spotify.com/track/3pPN20syOYvbUuEiBpbenI"
-    },
-    {
-      "added_at": "2022-09-15 22:00:00",
-      "album": {
-        "name": "PSYCHO",
-        "url": "https://open.spotify.com/album/7qUT6ERWHp2U6RdUkuYZ3O"
-      },
-      "artists": [
-        {
-          "name": "Anne-Marie",
-          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
-        },
-        {
-          "name": "Aitch",
-          "url": "https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF"
-        }
-      ],
-      "duration_ms": 162666,
-      "name": "PSYCHO",
-      "url": "https://open.spotify.com/track/1eprzC29mwUQqcVj0eILdx"
-    },
-    {
-      "added_at": "2022-09-15 22:00:00",
-      "album": {
-        "name": "Forget Me",
-        "url": "https://open.spotify.com/album/50IWCes196EP2nWO6i4I67"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 203472,
-      "name": "Forget Me",
-      "url": "https://open.spotify.com/track/5uSFGgIfHMT3osrAd9n9ym"
-    },
-    {
-      "added_at": "2022-09-15 22:00:00",
-      "album": {
-        "name": "FREE SMOKE",
-        "url": "https://open.spotify.com/album/7d10wpjHWZ4lII0zOfTenv"
-      },
-      "artists": [
-        {
-          "name": "Hov1",
-          "url": "https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt"
-        }
-      ],
-      "duration_ms": 159483,
-      "name": "FREE SMOKE",
-      "url": "https://open.spotify.com/track/3KSegg0APyp082vo9peW7e"
-    },
-    {
-      "added_at": "2022-09-15 22:00:00",
-      "album": {
-        "name": "SEVILLA",
-        "url": "https://open.spotify.com/album/24EnvnJxCORX2zeI9s72NJ"
-      },
-      "artists": [
-        {
-          "name": "Thrife",
-          "url": "https://open.spotify.com/artist/6iNTGd6T0cxg1H8IIaZTlt"
-        }
-      ],
-      "duration_ms": 175522,
-      "name": "SEVILLA",
-      "url": "https://open.spotify.com/track/1YRrnU7iBSHsdyG5AVIC2Y"
-    },
-    {
-      "added_at": "2022-09-15 22:00:00",
-      "album": {
-        "name": "SNAP",
-        "url": "https://open.spotify.com/album/4fb1QzgTJpTk9TBjFzjmlR"
-      },
-      "artists": [
-        {
-          "name": "Rosa Linn",
-          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
-        }
-      ],
-      "duration_ms": 179551,
-      "name": "SNAP",
-      "url": "https://open.spotify.com/track/76OGwb5RA9h4FxQPT33ekc"
-    },
-    {
-      "added_at": "2022-09-19 12:44:10",
+      "added_at": "2022-09-22 22:00:00",
       "album": {
         "name": "Hjertel\u00f8s",
         "url": "https://open.spotify.com/album/14EKNiLzDMZicYko6DBUFV"
@@ -289,7 +189,139 @@
       "url": "https://open.spotify.com/track/5PzratDTUf07VyMKrGGxz3"
     },
     {
-      "added_at": "2022-09-15 22:00:00",
+      "added_at": "2022-09-22 22:00:00",
+      "album": {
+        "name": "Ingen Aning Vart Jag Landar",
+        "url": "https://open.spotify.com/album/3N8DSgKPVNUoit6kBArz01"
+      },
+      "artists": [
+        {
+          "name": "Hanna Ferm",
+          "url": "https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq"
+        }
+      ],
+      "duration_ms": 156857,
+      "name": "Det \u00c4r Slut",
+      "url": "https://open.spotify.com/track/04QgZlzLxbu9YNEjYIpUPU"
+    },
+    {
+      "added_at": "2022-09-22 22:00:00",
+      "album": {
+        "name": "you were there for me",
+        "url": "https://open.spotify.com/album/1UIQIGA87GXO6Or60s73cV"
+      },
+      "artists": [
+        {
+          "name": "Henry Moodie",
+          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
+        }
+      ],
+      "duration_ms": 195365,
+      "name": "you were there for me",
+      "url": "https://open.spotify.com/track/0C3shWEOObGT5IxApC7Mkg"
+    },
+    {
+      "added_at": "2022-09-22 22:00:00",
+      "album": {
+        "name": "Som ett minne blott",
+        "url": "https://open.spotify.com/album/7wmvCiobMOZO4MMgXZCtKE"
+      },
+      "artists": [
+        {
+          "name": "Norlie & KKV",
+          "url": "https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk"
+        },
+        {
+          "name": "Benjamin Ingrosso",
+          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
+        }
+      ],
+      "duration_ms": 191445,
+      "name": "Som ett minne blott",
+      "url": "https://open.spotify.com/track/3WiVbKsEJhierVISxoc07e"
+    },
+    {
+      "added_at": "2022-09-22 22:00:00",
+      "album": {
+        "name": "SEVILLA",
+        "url": "https://open.spotify.com/album/24EnvnJxCORX2zeI9s72NJ"
+      },
+      "artists": [
+        {
+          "name": "Thrife",
+          "url": "https://open.spotify.com/artist/6iNTGd6T0cxg1H8IIaZTlt"
+        }
+      ],
+      "duration_ms": 175522,
+      "name": "SEVILLA",
+      "url": "https://open.spotify.com/track/1YRrnU7iBSHsdyG5AVIC2Y"
+    },
+    {
+      "added_at": "2022-09-22 22:00:00",
+      "album": {
+        "name": "Million Dollar Baby",
+        "url": "https://open.spotify.com/album/4fCW1XNPfBY6rgL1scsfGC"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 184294,
+      "name": "Million Dollar Baby",
+      "url": "https://open.spotify.com/track/3pPN20syOYvbUuEiBpbenI"
+    },
+    {
+      "added_at": "2022-09-22 22:00:00",
+      "album": {
+        "name": "Forget Me",
+        "url": "https://open.spotify.com/album/50IWCes196EP2nWO6i4I67"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 203472,
+      "name": "Forget Me",
+      "url": "https://open.spotify.com/track/5uSFGgIfHMT3osrAd9n9ym"
+    },
+    {
+      "added_at": "2022-09-22 22:00:00",
+      "album": {
+        "name": "FREE SMOKE",
+        "url": "https://open.spotify.com/album/7d10wpjHWZ4lII0zOfTenv"
+      },
+      "artists": [
+        {
+          "name": "Hov1",
+          "url": "https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt"
+        }
+      ],
+      "duration_ms": 159483,
+      "name": "FREE SMOKE",
+      "url": "https://open.spotify.com/track/3KSegg0APyp082vo9peW7e"
+    },
+    {
+      "added_at": "2022-09-22 22:00:00",
+      "album": {
+        "name": "SNAP",
+        "url": "https://open.spotify.com/album/4fb1QzgTJpTk9TBjFzjmlR"
+      },
+      "artists": [
+        {
+          "name": "Rosa Linn",
+          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
+        }
+      ],
+      "duration_ms": 179551,
+      "name": "SNAP",
+      "url": "https://open.spotify.com/track/76OGwb5RA9h4FxQPT33ekc"
+    },
+    {
+      "added_at": "2022-09-22 22:00:00",
       "album": {
         "name": "Din l\u00e5t",
         "url": "https://open.spotify.com/album/02kiu1rc2gbB4gAEtPWqi7"
@@ -309,7 +341,7 @@
       "url": "https://open.spotify.com/track/3xPsqMJQNM14OrawTBiK4G"
     },
     {
-      "added_at": "2022-09-15 22:00:00",
+      "added_at": "2022-09-22 22:00:00",
       "album": {
         "name": "Woke Up in Love",
         "url": "https://open.spotify.com/album/06q3cqjSYhkePDu6RW6Uoy"
@@ -333,23 +365,23 @@
       "url": "https://open.spotify.com/track/21H0pUV2uPIPcFnFhgTBjo"
     },
     {
-      "added_at": "2022-09-15 22:00:00",
+      "added_at": "2022-09-22 22:00:00",
       "album": {
-        "name": "you were there for me",
-        "url": "https://open.spotify.com/album/1UIQIGA87GXO6Or60s73cV"
+        "name": "STAR WALKIN' (League of Legends Worlds Anthem)",
+        "url": "https://open.spotify.com/album/0aIy6J8M9yHTnjtRu81Nr9"
       },
       "artists": [
         {
-          "name": "Henry Moodie",
-          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
         }
       ],
-      "duration_ms": 195365,
-      "name": "you were there for me",
-      "url": "https://open.spotify.com/track/0C3shWEOObGT5IxApC7Mkg"
+      "duration_ms": 210575,
+      "name": "STAR WALKIN' (League of Legends Worlds Anthem)",
+      "url": "https://open.spotify.com/track/38T0tPVZHcPZyhtOcCP7pF"
     },
     {
-      "added_at": "2022-09-15 22:00:00",
+      "added_at": "2022-09-22 22:00:00",
       "album": {
         "name": "2 Die 4",
         "url": "https://open.spotify.com/album/6p4OKNrv71scAKjHZ16G5t"
@@ -365,7 +397,7 @@
       "url": "https://open.spotify.com/track/3QK2bbLCTGoFXFt64e5TBY"
     },
     {
-      "added_at": "2022-09-15 22:00:00",
+      "added_at": "2022-09-22 22:00:00",
       "album": {
         "name": "MER & MER",
         "url": "https://open.spotify.com/album/6cxHLbeuGsPpVe2LoW3duK"
@@ -381,23 +413,7 @@
       "url": "https://open.spotify.com/track/1puxV64QJkmRUhhXt4T9rD"
     },
     {
-      "added_at": "2022-09-15 22:00:00",
-      "album": {
-        "name": "Lay All Your Love On Me - Spotify Singles",
-        "url": "https://open.spotify.com/album/4aCXO1evmETJ2Cy32sZ2Zj"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 161125,
-      "name": "Lay All Your Love On Me - Spotify Singles",
-      "url": "https://open.spotify.com/track/2vaxUyVWNoA2L272YHEy70"
-    },
-    {
-      "added_at": "2022-09-15 22:00:00",
+      "added_at": "2022-09-22 22:00:00",
       "album": {
         "name": "Doja",
         "url": "https://open.spotify.com/album/6oECjagksATHu2UaclXrq1"
@@ -413,7 +429,7 @@
       "url": "https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i"
     },
     {
-      "added_at": "2022-09-15 22:00:00",
+      "added_at": "2022-09-22 22:00:00",
       "album": {
         "name": "Love, Damini",
         "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
@@ -429,7 +445,7 @@
       "url": "https://open.spotify.com/track/5YbPxJwPfrj7uswNwoF1pJ"
     },
     {
-      "added_at": "2022-09-15 22:00:00",
+      "added_at": "2022-09-22 22:00:00",
       "album": {
         "name": "Victoria\u2019s Secret",
         "url": "https://open.spotify.com/album/47eeG5ewIbO53gXZOkvHhg"
@@ -445,7 +461,7 @@
       "url": "https://open.spotify.com/track/4svaKoxMMP7ImmKrD5hfQu"
     },
     {
-      "added_at": "2022-09-15 22:00:00",
+      "added_at": "2022-09-22 22:00:00",
       "album": {
         "name": "The Only Wan",
         "url": "https://open.spotify.com/album/4OrCH3Tp7HUpfxKzwWuVp3"
@@ -461,7 +477,23 @@
       "url": "https://open.spotify.com/track/03XktnlHaenNj1tJP8zQFs"
     },
     {
-      "added_at": "2022-09-15 22:00:00",
+      "added_at": "2022-09-22 22:00:00",
+      "album": {
+        "name": "RENAISSANCE",
+        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 225388,
+      "name": "CUFF IT",
+      "url": "https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS"
+    },
+    {
+      "added_at": "2022-09-22 22:00:00",
       "album": {
         "name": "ZUTTLUKTEN",
         "url": "https://open.spotify.com/album/5mDneCwYSabz7MTxMVnPhw"
@@ -481,39 +513,7 @@
       "url": "https://open.spotify.com/track/5DRJr5a0J0aEIejegQvd7F"
     },
     {
-      "added_at": "2022-09-15 22:00:00",
-      "album": {
-        "name": "Vi:et i vinsten (Sveriges Officiella EM-l\u00e5t 2022)",
-        "url": "https://open.spotify.com/album/06wqtAadumHfK9NenuMELU"
-      },
-      "artists": [
-        {
-          "name": "Molly Sand\u00e9n",
-          "url": "https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY"
-        }
-      ],
-      "duration_ms": 190671,
-      "name": "Vi:et i vinsten (Sveriges Officiella EM-l\u00e5t 2022)",
-      "url": "https://open.spotify.com/track/6g5K1kubnMcCkcQlvIRxVy"
-    },
-    {
-      "added_at": "2022-09-15 22:00:00",
-      "album": {
-        "name": "Super Freaky Girl",
-        "url": "https://open.spotify.com/album/0h5MuD9O9o1VoN07mQmwMQ"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 170977,
-      "name": "Super Freaky Girl",
-      "url": "https://open.spotify.com/track/4C6Uex2ILwJi9sZXRdmqXp"
-    },
-    {
-      "added_at": "2022-09-15 22:00:00",
+      "added_at": "2022-09-22 22:00:00",
       "album": {
         "name": "Love, Damini",
         "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
@@ -533,7 +533,39 @@
       "url": "https://open.spotify.com/track/0HaRLPnr887lcQM2YQzkff"
     },
     {
-      "added_at": "2022-09-15 22:00:00",
+      "added_at": "2022-09-22 22:00:00",
+      "album": {
+        "name": "Vi:et i vinsten (Sveriges Officiella EM-l\u00e5t 2022)",
+        "url": "https://open.spotify.com/album/06wqtAadumHfK9NenuMELU"
+      },
+      "artists": [
+        {
+          "name": "Molly Sand\u00e9n",
+          "url": "https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY"
+        }
+      ],
+      "duration_ms": 190671,
+      "name": "Vi:et i vinsten (Sveriges Officiella EM-l\u00e5t 2022)",
+      "url": "https://open.spotify.com/track/6g5K1kubnMcCkcQlvIRxVy"
+    },
+    {
+      "added_at": "2022-09-22 22:00:00",
+      "album": {
+        "name": "Super Freaky Girl",
+        "url": "https://open.spotify.com/album/0h5MuD9O9o1VoN07mQmwMQ"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 170977,
+      "name": "Super Freaky Girl",
+      "url": "https://open.spotify.com/track/4C6Uex2ILwJi9sZXRdmqXp"
+    },
+    {
+      "added_at": "2022-09-22 22:00:00",
       "album": {
         "name": "AMO",
         "url": "https://open.spotify.com/album/0rsdh7RmT619F6n5bwLsGn"
@@ -553,7 +585,7 @@
       "url": "https://open.spotify.com/track/5y6IzqltRLzH0xYIQ3w87a"
     },
     {
-      "added_at": "2022-09-15 22:00:00",
+      "added_at": "2022-09-22 22:00:00",
       "album": {
         "name": "KU LO SA - A COLORS SHOW",
         "url": "https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi"
@@ -569,7 +601,7 @@
       "url": "https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn"
     },
     {
-      "added_at": "2022-09-19 12:44:10",
+      "added_at": "2022-09-22 22:00:00",
       "album": {
         "name": "Hotel",
         "url": "https://open.spotify.com/album/0ykf7jcx3yY49RpkIO1byF"
@@ -585,7 +617,7 @@
       "url": "https://open.spotify.com/track/0JzG1wJuB4v9UPkSE7LMXi"
     },
     {
-      "added_at": "2022-09-15 22:00:00",
+      "added_at": "2022-09-22 22:00:00",
       "album": {
         "name": "No One Dies From Love",
         "url": "https://open.spotify.com/album/2oKzwmlJS888dI16InbxCv"
@@ -601,7 +633,7 @@
       "url": "https://open.spotify.com/track/62MosvjGMQY3HeGPFEsmM1"
     },
     {
-      "added_at": "2022-09-15 22:00:00",
+      "added_at": "2022-09-22 22:00:00",
       "album": {
         "name": "Words (feat. Zara Larsson)",
         "url": "https://open.spotify.com/album/66W7mt0wKGLFALilLBLfU6"
@@ -621,7 +653,7 @@
       "url": "https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs"
     },
     {
-      "added_at": "2022-09-15 22:00:00",
+      "added_at": "2022-09-22 22:00:00",
       "album": {
         "name": "Syrener",
         "url": "https://open.spotify.com/album/35KHrZ7KsOC7ajWq6SNxgu"
@@ -637,7 +669,7 @@
       "url": "https://open.spotify.com/track/7iKUMPi3CcDLLNF4pU1vND"
     },
     {
-      "added_at": "2022-09-15 22:00:00",
+      "added_at": "2022-09-22 22:00:00",
       "album": {
         "name": "Hounds of Love (2018 Remaster)",
         "url": "https://open.spotify.com/album/3OYnManu1Nlxnw9OMng7BH"
@@ -653,7 +685,7 @@
       "url": "https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP"
     },
     {
-      "added_at": "2022-09-15 22:00:00",
+      "added_at": "2022-09-22 22:00:00",
       "album": {
         "name": "X",
         "url": "https://open.spotify.com/album/7EH7nvTbjaBd79TeW08awR"
@@ -669,7 +701,27 @@
       "url": "https://open.spotify.com/track/3Tp6XRivI85TAfpgja9ILh"
     },
     {
-      "added_at": "2022-09-15 22:00:00",
+      "added_at": "2022-09-22 22:00:00",
+      "album": {
+        "name": "PSYCHO",
+        "url": "https://open.spotify.com/album/7qUT6ERWHp2U6RdUkuYZ3O"
+      },
+      "artists": [
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        },
+        {
+          "name": "Aitch",
+          "url": "https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF"
+        }
+      ],
+      "duration_ms": 162666,
+      "name": "PSYCHO",
+      "url": "https://open.spotify.com/track/1eprzC29mwUQqcVj0eILdx"
+    },
+    {
+      "added_at": "2022-09-22 22:00:00",
       "album": {
         "name": "V\u00e4lkommen \u00c5ter",
         "url": "https://open.spotify.com/album/38ApGKtXK58w6N7DRfJ1kX"
@@ -689,87 +741,7 @@
       "url": "https://open.spotify.com/track/4q2nejfnJpmHqr2GAi09ph"
     },
     {
-      "added_at": "2022-09-15 22:00:00",
-      "album": {
-        "name": "I Ain\u2019t Worried (Music From The Motion Picture \"Top Gun: Maverick\")",
-        "url": "https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 148485,
-      "name": "I Ain't Worried",
-      "url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"
-    },
-    {
-      "added_at": "2022-09-15 22:00:00",
-      "album": {
-        "name": "MISSF\u00d6RST\u00c5TT",
-        "url": "https://open.spotify.com/album/6paodjmf7ivTOvJOgUJdaY"
-      },
-      "artists": [
-        {
-          "name": "BELL",
-          "url": "https://open.spotify.com/artist/2MnEe6M7ibhg3RAG0Ydtp4"
-        }
-      ],
-      "duration_ms": 101692,
-      "name": "MISSF\u00d6RST\u00c5TT",
-      "url": "https://open.spotify.com/track/4RRNw7trorJaxdJLWDZTZL"
-    },
-    {
-      "added_at": "2022-09-15 22:00:00",
-      "album": {
-        "name": "As It Was",
-        "url": "https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 167303,
-      "name": "As It Was",
-      "url": "https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7"
-    },
-    {
-      "added_at": "2022-09-15 22:00:00",
-      "album": {
-        "name": "Sista sommaren",
-        "url": "https://open.spotify.com/album/1txqzRAK4uX13YOe28MxYo"
-      },
-      "artists": [
-        {
-          "name": "Thomas Stenstr\u00f6m",
-          "url": "https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7"
-        }
-      ],
-      "duration_ms": 190053,
-      "name": "Sista sommaren",
-      "url": "https://open.spotify.com/track/28TGtp6irVUZhTv5ytdex1"
-    },
-    {
-      "added_at": "2022-09-19 12:44:10",
-      "album": {
-        "name": "BORN PINK",
-        "url": "https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P"
-      },
-      "artists": [
-        {
-          "name": "BLACKPINK",
-          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
-        }
-      ],
-      "duration_ms": 175889,
-      "name": "Shut Down",
-      "url": "https://open.spotify.com/track/0ARKW62l9uWIDYMZTUmJHF"
-    },
-    {
-      "added_at": "2022-09-15 22:00:00",
+      "added_at": "2022-09-22 22:00:00",
       "album": {
         "name": "In The Stars",
         "url": "https://open.spotify.com/album/6dSmXsyGAnFtq048IFhiYd"
@@ -785,7 +757,55 @@
       "url": "https://open.spotify.com/track/1ei3hzQmrgealgRKFxIcWn"
     },
     {
-      "added_at": "2022-09-15 22:00:00",
+      "added_at": "2022-09-22 22:00:00",
+      "album": {
+        "name": "I Ain\u2019t Worried (Music From The Motion Picture \"Top Gun: Maverick\")",
+        "url": "https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 148485,
+      "name": "I Ain't Worried",
+      "url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"
+    },
+    {
+      "added_at": "2022-09-22 22:00:00",
+      "album": {
+        "name": "As It Was",
+        "url": "https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 167303,
+      "name": "As It Was",
+      "url": "https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7"
+    },
+    {
+      "added_at": "2022-09-22 22:00:00",
+      "album": {
+        "name": "Sista sommaren",
+        "url": "https://open.spotify.com/album/1txqzRAK4uX13YOe28MxYo"
+      },
+      "artists": [
+        {
+          "name": "Thomas Stenstr\u00f6m",
+          "url": "https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7"
+        }
+      ],
+      "duration_ms": 190053,
+      "name": "Sista sommaren",
+      "url": "https://open.spotify.com/track/28TGtp6irVUZhTv5ytdex1"
+    },
+    {
+      "added_at": "2022-09-22 22:00:00",
       "album": {
         "name": "Och som vanligt h\u00e4nder det n\u00e5got hemskt",
         "url": "https://open.spotify.com/album/7efvTTk8KIylfIuqBiFGXM"
@@ -801,7 +821,7 @@
       "url": "https://open.spotify.com/track/03UV6Xr4KkBwN4ej2C1irI"
     },
     {
-      "added_at": "2022-09-15 22:00:00",
+      "added_at": "2022-09-22 22:00:00",
       "album": {
         "name": "X",
         "url": "https://open.spotify.com/album/5DrPOcQTUL12mbozwLBrcz"
@@ -809,7 +829,7 @@
       "artists": [
         {
           "name": "LOAM",
-          "url": "https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P"
+          "url": "https://open.spotify.com/artist/6agCyqS204QdNHJvKCl8AJ"
         },
         {
           "name": "ADAAM",
@@ -821,7 +841,7 @@
       "url": "https://open.spotify.com/track/2NnO7FJonRjGvAjm3LwKvl"
     },
     {
-      "added_at": "2022-09-15 22:00:00",
+      "added_at": "2022-09-22 22:00:00",
       "album": {
         "name": "DIRTY",
         "url": "https://open.spotify.com/album/3YqGFGM11gO0iXhn5a2lo0"
@@ -841,23 +861,7 @@
       "url": "https://open.spotify.com/track/2acI4LUjCjPuFk0Y05yVNZ"
     },
     {
-      "added_at": "2022-09-15 22:00:00",
-      "album": {
-        "name": "Ein\u00e1r",
-        "url": "https://open.spotify.com/album/1LJeZmd25DaFGgjYDZzfVy"
-      },
-      "artists": [
-        {
-          "name": "Ein\u00e1r",
-          "url": "https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ"
-        }
-      ],
-      "duration_ms": 237551,
-      "name": "Koppla av",
-      "url": "https://open.spotify.com/track/3MOiHZI4V8KaDdSaOSOVMQ"
-    },
-    {
-      "added_at": "2022-09-15 22:00:00",
+      "added_at": "2022-09-22 22:00:00",
       "album": {
         "name": "Stockholmsvy",
         "url": "https://open.spotify.com/album/4NUrMxS5Jwc0sa84UeOeZf"

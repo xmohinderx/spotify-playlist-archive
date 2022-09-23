@@ -1,36 +1,56 @@
 {
   "description": "selects from music we've been listening to @ Moving Castle. Manila Killa's album, Dusk drops July 21st!",
-  "num_followers": 21242,
+  "num_followers": 21241,
   "original_name": "Moving Castle Monthly",
   "owner": {
     "name": "Moving Castle",
     "url": "https://open.spotify.com/user/moving-castle"
   },
-  "snapshot_id": "OTk4NSxhNTAxMjhmNDI0OWQwZDRmYmM1NTlhZjhlODExYmFlYmNlMDVlYjRl",
+  "snapshot_id": "OTk5NSwwMTU0NDcwNGRhNTk2ZDRkYzYzNzEzNGQ2MDBkNDYyYTQ5MzM4ODIy",
   "tracks": [
     {
-      "added_at": "2022-09-02 17:26:49",
+      "added_at": "2022-09-22 15:02:05",
       "album": {
-        "name": "HEAVEN'S GATES (feat. Izzy Camina) [Manila Killa Remix]",
-        "url": "https://open.spotify.com/album/6VjleRIJlteuD8bd63EjN7"
+        "name": "Dark Places (Promnite Remix)",
+        "url": "https://open.spotify.com/album/3mP38vYlIEwpsGJ1sR2Jam"
       },
       "artists": [
         {
-          "name": "Devault",
-          "url": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
-        },
-        {
-          "name": "Izzy Camina",
-          "url": "https://open.spotify.com/artist/1bEvuUxdYlGYGq5WvDAE1u"
-        },
-        {
           "name": "Manila Killa",
           "url": "https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN"
+        },
+        {
+          "name": "Kwesi",
+          "url": "https://open.spotify.com/artist/320LkiSxenwJtoxQ9SZ1eV"
+        },
+        {
+          "name": "Promnite",
+          "url": "https://open.spotify.com/artist/5nhrH1JLtBXqhhliwceEI5"
         }
       ],
-      "duration_ms": 240000,
-      "name": "HEAVEN'S GATES (feat. Izzy Camina) - Manila Killa Remix",
-      "url": "https://open.spotify.com/track/0jT25u5GLiQtqX8k25Rjup"
+      "duration_ms": 355093,
+      "name": "Dark Places - Promnite Remix",
+      "url": "https://open.spotify.com/track/3fG0CSPqKqBYmv9JUdHzvg"
+    },
+    {
+      "added_at": "2022-09-22 15:27:56",
+      "album": {
+        "name": "Unfold",
+        "url": "https://open.spotify.com/album/3MWWoyTPwnuhND8LMOAyse"
+      },
+      "artists": [
+        {
+          "name": "IMANU",
+          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
+        },
+        {
+          "name": "DROELOE",
+          "url": "https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA"
+        }
+      ],
+      "duration_ms": 141951,
+      "name": "Shoyu",
+      "url": "https://open.spotify.com/track/7ammiC4TKHgMXP8RnccYcA"
     },
     {
       "added_at": "2022-09-20 15:42:20",
@@ -87,6 +107,30 @@
       "duration_ms": 160645,
       "name": "Dreamfields",
       "url": "https://open.spotify.com/track/0nzxHXi11ZQrZEuUQEdU87"
+    },
+    {
+      "added_at": "2022-09-02 17:26:49",
+      "album": {
+        "name": "HEAVEN'S GATES (feat. Izzy Camina) [Manila Killa Remix]",
+        "url": "https://open.spotify.com/album/6VjleRIJlteuD8bd63EjN7"
+      },
+      "artists": [
+        {
+          "name": "Devault",
+          "url": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
+        },
+        {
+          "name": "Izzy Camina",
+          "url": "https://open.spotify.com/artist/1bEvuUxdYlGYGq5WvDAE1u"
+        },
+        {
+          "name": "Manila Killa",
+          "url": "https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "HEAVEN'S GATES (feat. Izzy Camina) - Manila Killa Remix",
+      "url": "https://open.spotify.com/track/0jT25u5GLiQtqX8k25Rjup"
     },
     {
       "added_at": "2022-09-02 22:33:17",
@@ -507,6 +551,30 @@
       "duration_ms": 201199,
       "name": "We Will Meet Again",
       "url": "https://open.spotify.com/track/6VpRQDOM7nQ6viuVUSXWGn"
+    },
+    {
+      "added_at": "2022-09-22 19:44:28",
+      "album": {
+        "name": "Don\u2019t Look Down (feat. Linney)",
+        "url": "https://open.spotify.com/album/2cPDBEbEqCBsm9I2cxL9jj"
+      },
+      "artists": [
+        {
+          "name": "MitiS",
+          "url": "https://open.spotify.com/artist/16yUpGkBRgc2eDMd3bB3Uw"
+        },
+        {
+          "name": "Ray Volpe",
+          "url": "https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb"
+        },
+        {
+          "name": "Linney",
+          "url": "https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb"
+        }
+      ],
+      "duration_ms": 243400,
+      "name": "Don\u2019t Look Down (feat. Linney)",
+      "url": "https://open.spotify.com/track/6Rzv2CVwDi7hYnVU5wKcXe"
     },
     {
       "added_at": "2022-03-09 20:12:07",
@@ -1895,6 +1963,30 @@
       "duration_ms": 166451,
       "name": "High On That New Love",
       "url": "https://open.spotify.com/track/1QH1Lhz1GFShACuoKgFcL9"
+    },
+    {
+      "added_at": "2022-09-22 17:15:43",
+      "album": {
+        "name": "Blow The Socket",
+        "url": "https://open.spotify.com/album/6Vg0yJzjpsJdwlrAN0dyzh"
+      },
+      "artists": [
+        {
+          "name": "Slushii",
+          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
+        },
+        {
+          "name": "Teddy Killerz",
+          "url": "https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm"
+        },
+        {
+          "name": "PAV4N",
+          "url": "https://open.spotify.com/artist/1csMDtU42ZYNaqadbA4TAK"
+        }
+      ],
+      "duration_ms": 192068,
+      "name": "Blow The Socket",
+      "url": "https://open.spotify.com/track/3o9c2W2OrQe4i1KE0QjQdW"
     }
   ],
   "unique_name": "Moving Castle Monthly",

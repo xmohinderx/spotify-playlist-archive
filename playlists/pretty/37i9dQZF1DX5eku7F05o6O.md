@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5eku7F05o6O.md) - [plain]
 
 > Le plus beau, le plus triste\. Photo: Alexandra Streliski
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,631 likes - 102 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,634 likes - 102 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,9 +58,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5eku7F05o6O.md) - [plain]
 | 48 | [Rouge\-gorge](https://open.spotify.com/track/7MVdiX7zo5AnRDmaL0Loc4) | [Philippe B](https://open.spotify.com/artist/7FvBLeBeCiWR09phkPyyrf) | [La grande nuit vidéo](https://open.spotify.com/album/70ctMLPWLjNb5L96kyJCGv) | 3:24 |
 | 49 | [Voltige](https://open.spotify.com/track/3k4RLVYe0AGrVfuwYJyCMy) | [Martin Lizotte](https://open.spotify.com/artist/4BHr9YxHWGZd8OVIcCVnd5) | [Ubiquité](https://open.spotify.com/album/5SC0ot9Pkx2U33PD0VCBT8) | 3:20 |
 | 50 | [Elles](https://open.spotify.com/track/2f1aeMuXIJDlI4YbaihQ4e) | [Ingrid St\-Pierre](https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w), [Frannie Holder](https://open.spotify.com/artist/6tRHDWQrzx6iK7tqSH69Lw) | [Elles](https://open.spotify.com/album/0KNqhfKtNUKjQFiZFKR0Fp) | 4:13 |
-| 51 | [One Final Drink, One Final Smoke](https://open.spotify.com/track/40qVet6deMAcVqwUQy3jJC) | [Slow Fade Sailors](https://open.spotify.com/artist/14bUWQx1jCureD3Kud1ElD) | [Lovers in No Mind's Land](https://open.spotify.com/album/4IjYBvTsTKMeTRYHf1dZzh) | 4:47 |
-| 52 | [L’oiseau mécanique](https://open.spotify.com/track/1TCklgqTPFMMD8YV5G4wNB) | [Stéphanie Lapointe](https://open.spotify.com/artist/0bEvfTJsHHsTxqpqzWGXDw) | [Les amours parallèles](https://open.spotify.com/album/6t5F9hgEjkanSW3opjKB82) | 3:38 |
-| 53 | [Elton d'août \- Remix](https://open.spotify.com/track/4AUJX89rvtLDdUsYu8M1uD) | [Malajube](https://open.spotify.com/artist/5yLzPjejoWM3eiYNoejATm) | [Étienne d'août](https://open.spotify.com/album/5o8uGuDD6VLjbkarw9DhiE) | 5:12 |
+| 51 | [Elton d'août \- Remix](https://open.spotify.com/track/4AUJX89rvtLDdUsYu8M1uD) | [Malajube](https://open.spotify.com/artist/5yLzPjejoWM3eiYNoejATm) | [Étienne d'août](https://open.spotify.com/album/5o8uGuDD6VLjbkarw9DhiE) | 5:12 |
+| 52 | [One Final Drink, One Final Smoke](https://open.spotify.com/track/40qVet6deMAcVqwUQy3jJC) | [Slow Fade Sailors](https://open.spotify.com/artist/14bUWQx1jCureD3Kud1ElD) | [Lovers in No Mind's Land](https://open.spotify.com/album/4IjYBvTsTKMeTRYHf1dZzh) | 4:47 |
+| 53 | [L’oiseau mécanique](https://open.spotify.com/track/1TCklgqTPFMMD8YV5G4wNB) | [Stéphanie Lapointe](https://open.spotify.com/artist/0bEvfTJsHHsTxqpqzWGXDw) | [Les amours parallèles](https://open.spotify.com/album/6t5F9hgEjkanSW3opjKB82) | 3:38 |
 | 54 | [Cabin \(VF\)](https://open.spotify.com/track/1LEB7rebJJrztPAKKa8zay) | [Groenland](https://open.spotify.com/artist/5jf8dqTo3zaKS16FmTFxWC) | [A Wider Space, B\-Sides](https://open.spotify.com/album/5mUBEzLAxef1iGhMFIEcLx) | 3:42 |
 | 55 | [Nous restions là](https://open.spotify.com/track/24PaQVwM1wwWuyoKLDTrXg) | [Pierre Lapointe](https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP) | [Sentiments humains](https://open.spotify.com/album/6iExYO8AbDltsJz1Tre3qS) | 3:57 |
 | 56 | [Le cœur de l'océan](https://open.spotify.com/track/5tKlcROrtIMfKul9x4Uxzd) | [Luce Dufault](https://open.spotify.com/artist/5FXcHIUubTQhOvzOFT8k7v) | [Dire combien je t'aime](https://open.spotify.com/album/1LMHYa88eFjdK4s9aYvUFf) | 4:07 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5eku7F05o6O.md) - [plain]
 | 101 | [Grand mal](https://open.spotify.com/track/0LN18forBwwfYK9GU2vt92) | [ludovic alarie](https://open.spotify.com/artist/5YQJ21kmCLdhMccxqJoDWU) | [Ludovic Alarie](https://open.spotify.com/album/0FxH3Lu9Sxu501EFCauomP) | 4:50 |
 | 102 | [Ce monde](https://open.spotify.com/track/2mUWSp5aSbvSCNeW18SE5I) | [VAN Piunno](https://open.spotify.com/artist/7HQokVgxCA3pXAieQ9HuXI) | [Ce monde \- Single](https://open.spotify.com/album/0E6O5g66aIM69v7YjCw6ov) | 3:19 |
 
-Snapshot ID: `MTYxMjU4MTE2MCwwMDAwMDAwMGI1N2M5YzU0ZWJiMTE2NzczMTNlZTFiODk0ZjkzOTc2`
+Snapshot ID: `MTYxMjU4MTE2MCwwMDAwMDAwMDRkOTMzN2YxZDFjODQyZjM4ZDg4YWMwZDYyNjBlMzUz`

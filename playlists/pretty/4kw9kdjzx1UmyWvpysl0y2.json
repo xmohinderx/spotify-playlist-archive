@@ -1,13 +1,45 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127231,
+  "num_followers": 127222,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "MzYzNCwxODkxYWMyZjVjZjk2ZmVmNjVjMWRlN2I0N2UxZmRmY2Q5ZmZiMmZj",
+  "snapshot_id": "MzYzOSxiNmY0MDg5YzMwMjU5YTA5MWQ0MGQ5YjkzYWM0YWNlZTVmZDc3NjU4",
   "tracks": [
+    {
+      "added_at": "2022-09-22 16:56:00",
+      "album": {
+        "name": "INEEDU / SOYUZ",
+        "url": "https://open.spotify.com/album/3kfTKr2reUQfr7EEQOMzxg"
+      },
+      "artists": [
+        {
+          "name": "Teddy Killerz",
+          "url": "https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm"
+        }
+      ],
+      "duration_ms": 213942,
+      "name": "INEEDU",
+      "url": "https://open.spotify.com/track/6oj95LjRQSKa5oY6aexgpa"
+    },
+    {
+      "added_at": "2022-09-21 16:35:05",
+      "album": {
+        "name": "Talk To Me",
+        "url": "https://open.spotify.com/album/4lXG5SZAxBlwZGD13ePprM"
+      },
+      "artists": [
+        {
+          "name": "Ra5im",
+          "url": "https://open.spotify.com/artist/0tozaYWflIEZ3jaXOULWjk"
+        }
+      ],
+      "duration_ms": 247948,
+      "name": "Talk To Me",
+      "url": "https://open.spotify.com/track/1HTAiaEhm1ASBdfku96IUF"
+    },
     {
       "added_at": "2022-09-20 17:01:40",
       "album": {
@@ -1059,70 +1091,6 @@
       "duration_ms": 258000,
       "name": "Phases Of The Moon",
       "url": "https://open.spotify.com/track/4V7J0Au7NmhmPV9WwKcr48"
-    },
-    {
-      "added_at": "2022-07-12 16:48:58",
-      "album": {
-        "name": "Happiness (Just A Pursuit)",
-        "url": "https://open.spotify.com/album/26llcMMM2WioNcKNlmrFIk"
-      },
-      "artists": [
-        {
-          "name": "Mick Mazoo",
-          "url": "https://open.spotify.com/artist/1Yx2K8SQD3JPnPesUxNqve"
-        },
-        {
-          "name": "Leela Rosa",
-          "url": "https://open.spotify.com/artist/1ljyZt4G3QAhA5WPBL7r66"
-        }
-      ],
-      "duration_ms": 164516,
-      "name": "Happiness (Just A Pursuit)",
-      "url": "https://open.spotify.com/track/0yyH8JYSfGEDJRUyllg4CG"
-    },
-    {
-      "added_at": "2022-07-11 16:30:09",
-      "album": {
-        "name": "Bad For You",
-        "url": "https://open.spotify.com/album/6hNHNhff93z7BmdBHfnBFS"
-      },
-      "artists": [
-        {
-          "name": "IVORY",
-          "url": "https://open.spotify.com/artist/4820AP0lvBGJjSK0PXgZgo"
-        },
-        {
-          "name": "Hammerhead",
-          "url": "https://open.spotify.com/artist/6sckmaSXwZnsOR3kB4Hk75"
-        },
-        {
-          "name": "Dani King",
-          "url": "https://open.spotify.com/artist/3IoL23eRnUfAwnOTsbTLVp"
-        }
-      ],
-      "duration_ms": 243488,
-      "name": "Bad For You",
-      "url": "https://open.spotify.com/track/0vWynZjfMnx8wtQx4CpwgS"
-    },
-    {
-      "added_at": "2022-07-08 16:49:30",
-      "album": {
-        "name": "Drive You Crazy",
-        "url": "https://open.spotify.com/album/1zetX8KIFc1L4WmDm23uxb"
-      },
-      "artists": [
-        {
-          "name": "Dylan Matthew",
-          "url": "https://open.spotify.com/artist/6d0ZjIp5L7Ygy2l02HskRX"
-        },
-        {
-          "name": "Nitti Gritti",
-          "url": "https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk"
-        }
-      ],
-      "duration_ms": 178285,
-      "name": "Drive You Crazy",
-      "url": "https://open.spotify.com/track/5XY6DN8SXjHtj55e7CkZpH"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

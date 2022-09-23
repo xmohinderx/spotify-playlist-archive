@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56Bc0iAghdi.md) - [plain]
 
 > Songs of love, hope and positivity for the world\.   Listen with Spirit!  Cover: Local Sound
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,012 likes - 65 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,018 likes - 65 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,9 +13,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56Bc0iAghdi.md) - [plain]
 | 3 | [Blinded By Your Grace, Pt\. 2 \(feat\. MNEK\)](https://open.spotify.com/track/0ihguwGVwKihJ1Nj8fGQlY) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Gang Signs & Prayer](https://open.spotify.com/album/5fkFWJ9LZizXE4yPenNGuy) | 3:50 |
 | 4 | [Dear God](https://open.spotify.com/track/6k9nsVCSf6QO1WnFsCsmVf) | [Hunter Hayes](https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN) | [Wild Blue, Part I](https://open.spotify.com/album/3xDD4CKNUEVmhOL1IY8MAL) | 2:55 |
 | 5 | [Holy Water](https://open.spotify.com/track/1xI9KSGNJB2eka8FMvovvi) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [Holy Water](https://open.spotify.com/album/5xAesqK2Ke6g4Y0W9CSijV) | 4:02 |
-| 6 | [Only Ever](https://open.spotify.com/track/3A1etA4fcClRWiPCRhbY9l) | [Alive City](https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5) | [Only Ever](https://open.spotify.com/album/1OK3WYikBD59j8DxLPXhte) | 3:21 |
-| 7 | [In the Arms](https://open.spotify.com/track/25d5ECcMe57FZaK5PJqiIU) | [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [In the Arms](https://open.spotify.com/album/2gybUUpxYO2SyDa3CbgX4P) | 3:52 |
-| 8 | [I'll Find You \(feat\. Tori Kelly\)](https://open.spotify.com/track/05hdZ0YRqAg6qsgV1ee3LE) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [I'll Find You \(feat\. Tori Kelly\)](https://open.spotify.com/album/4YOkLua2AMiyZYbocWWVqM) | 3:38 |
+| 6 | [In the Arms](https://open.spotify.com/track/25d5ECcMe57FZaK5PJqiIU) | [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [In the Arms](https://open.spotify.com/album/2gybUUpxYO2SyDa3CbgX4P) | 3:52 |
+| 7 | [I'll Find You \(feat\. Tori Kelly\)](https://open.spotify.com/track/05hdZ0YRqAg6qsgV1ee3LE) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [I'll Find You \(feat\. Tori Kelly\)](https://open.spotify.com/album/4YOkLua2AMiyZYbocWWVqM) | 3:38 |
+| 8 | [Only Ever](https://open.spotify.com/track/3A1etA4fcClRWiPCRhbY9l) | [Alive City](https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5) | [Only Ever](https://open.spotify.com/album/1OK3WYikBD59j8DxLPXhte) | 3:21 |
 | 9 | [Maybe It's Ok](https://open.spotify.com/track/3mKIS7svYfwxiwRWIi1tmK) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd) | [Power](https://open.spotify.com/album/0LVXob178SD0IbGst4RWvi) | 3:31 |
 | 10 | [Forever on Your Side \(with JOHNNYSWIM\)](https://open.spotify.com/track/598Dy3TgV1SQulwjPOM0Z2) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G), [Johnnyswim](https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm) | [Forever on Your Side \(Niles City Sound Sessions\)](https://open.spotify.com/album/3qPcOQNFQgqvkEperYIjOq) | 4:54 |
 | 11 | [Scars \(Come With Livin'\)](https://open.spotify.com/track/5CYMOjWrVWZqHGv2ObF5mr) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [The Elements](https://open.spotify.com/album/7th3D4IFJFSGajVlS4DheM) | 4:21 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56Bc0iAghdi.md) - [plain]
 | 64 | [Summertime](https://open.spotify.com/track/4iJeJV5d8kZAPmmu4LtqmQ) | [Steven Malcolm](https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8), [Jay\-Way](https://open.spotify.com/artist/1RDbE3dM2bNNSTh88R4MQ7) | [Summertime](https://open.spotify.com/album/6Z0UDE7UctY5H0T3oBdHnX) | 3:09 |
 | 65 | [Help You Heal](https://open.spotify.com/track/45BXjER0XEofYtOw4oB4lh) | [Silverberg](https://open.spotify.com/artist/3lpVtJYZ57FvUVDzECu4UY) | [Help You Heal](https://open.spotify.com/album/7uFNH0Tr5Ohb07vfhDbo41) | 3:43 |
 
-Snapshot ID: `MTU2OTAwNDQ0NiwwMDAwMDAwMDEyYWViYzA1NGUzMTA1ZGQ4ODNjNDU2MzgyZTVjYjY2`
+Snapshot ID: `MTU2OTAwNDQ0NiwwMDAwMDAwMDc3MjU3NWQ1NzliNTY5NzA5M2MzYTRjNTgzZDlmNzBl`

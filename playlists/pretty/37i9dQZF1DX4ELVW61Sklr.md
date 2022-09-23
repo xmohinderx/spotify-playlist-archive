@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ELVW61Sklr.md) - [plain]
 
 > A collection of soul, rnb and gospel flavored takes on the most beloved Christmas songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,369 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,372 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

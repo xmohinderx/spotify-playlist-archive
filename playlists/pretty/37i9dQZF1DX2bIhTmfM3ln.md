@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2bIhTmfM3ln.md) - [plain]
 
 > West African love stories wrapped up in song
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,925 likes - 79 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,936 likes - 79 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,11 +27,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2bIhTmfM3ln.md) - [plain]
 | 17 | [When I See You](https://open.spotify.com/track/22fHc3vuTK2kxjrNSJrA5J) | [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW), [Jaywillz](https://open.spotify.com/artist/0eYIT8bKfvhhDHFH1A0rxk) | [When I See You](https://open.spotify.com/album/6uP3M17zzbY0VpvJrlYil0) | 2:39 |
 | 18 | [Many Ways \(feat\. Wizkid\)](https://open.spotify.com/track/0lWW0X74IvjNlgY5glykvY) | [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Bad Since '97](https://open.spotify.com/album/0Uf8CLgcWoLrYwmBcp0pio) | 3:47 |
 | 19 | [Keep On Rocking](https://open.spotify.com/track/6QI1X3HslfwOzp1ccx7x4k) | [Avante](https://open.spotify.com/artist/6LdpGXaKgNqCJBxRVRJoG3), [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [Frayz](https://open.spotify.com/artist/6TNvrjv0tBqhehlialweyH) | [Keep On Rocking](https://open.spotify.com/album/0UhiIEs4OSp0xzAEfISdMI) | 2:54 |
-| 20 | [Love Don't Cost A Dime \(Re\-Up\)](https://open.spotify.com/track/0hW02S9ACVYANz1ica10jH) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Love Don't Cost A Dime \(Re\-Up\)](https://open.spotify.com/album/01N6IpG2OxaznUK60C81hT) | 2:27 |
+| 20 | [Soweto](https://open.spotify.com/track/6RbOyNeajWax51NtpO6WT8) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Tempoe](https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4) | [Outlaw](https://open.spotify.com/album/12iai3p96UYvcrDqlvvKFE) | 2:28 |
 | 21 | [MISS UNIVERSE](https://open.spotify.com/track/6rOY9kHJxwJCNMqsqd2LUO) | [$pacely](https://open.spotify.com/artist/4V5Mu31gXSzN4xbP2pOVO1), [Dumey](https://open.spotify.com/artist/0OEKjS8wv0c1cdc9ogqjFz) | [MISS UNIVERSE](https://open.spotify.com/album/2F4eqhwtKRJtq4B8slZoTO) | 4:14 |
-| 22 | [Méchante](https://open.spotify.com/track/5k5duWxo5HqhetBe6ucgZJ) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Méchante](https://open.spotify.com/album/1k6MS0e5EMEkCDZ88fiLQ5) | 2:51 |
-| 23 | [Ijo \(Laba Laba\)](https://open.spotify.com/track/7tZMF9Hn5uGsfC7zGXbSKM) | [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb) | [Ijo \(Laba Laba\)](https://open.spotify.com/album/5A1qWiQBSEkCpGvQE2YfOH) | 3:06 |
-| 24 | [Soweto](https://open.spotify.com/track/6RbOyNeajWax51NtpO6WT8) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Tempoe](https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4) | [Outlaw](https://open.spotify.com/album/12iai3p96UYvcrDqlvvKFE) | 2:28 |
+| 22 | [Love Don't Cost A Dime \(Re\-Up\)](https://open.spotify.com/track/0hW02S9ACVYANz1ica10jH) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Love Don't Cost A Dime \(Re\-Up\)](https://open.spotify.com/album/01N6IpG2OxaznUK60C81hT) | 2:27 |
+| 23 | [Méchante](https://open.spotify.com/track/5k5duWxo5HqhetBe6ucgZJ) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Méchante](https://open.spotify.com/album/1k6MS0e5EMEkCDZ88fiLQ5) | 2:51 |
+| 24 | [Ijo \(Laba Laba\)](https://open.spotify.com/track/7tZMF9Hn5uGsfC7zGXbSKM) | [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb) | [Ijo \(Laba Laba\)](https://open.spotify.com/album/5A1qWiQBSEkCpGvQE2YfOH) | 3:06 |
 | 25 | [Dada](https://open.spotify.com/track/6SLhDU3r8FLmESRyWZypjT) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Dada](https://open.spotify.com/album/0ogWb5mN0ZG6U1aMX7r4ai) | 2:41 |
 | 26 | [Soundgasm](https://open.spotify.com/track/2psl5iNJCrmmm2XtS7LZqb) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rave & Roses](https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG) | 3:24 |
 | 27 | [love nwantiti \(ah ah ah\) \[feat\. Joeboy & Kuami Eugene\] \[Remix\]](https://open.spotify.com/track/140dx97IbJbQhIMd7AaHeb) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [love nwantiti \(ah ah ah\) \[feat\. Joeboy & Kuami Eugene\] \[Remix\]](https://open.spotify.com/album/4mI7w8746bh2UPt2LGeeEl) | 3:08 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2bIhTmfM3ln.md) - [plain]
 | 74 | [Shine](https://open.spotify.com/track/06TDTjD7efqsLwhXKv0bci) | [Elaine](https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx) | [Shine](https://open.spotify.com/album/4dyua6pD9i0Ht460lB6JOG) | 3:02 |
 | 75 | [Body](https://open.spotify.com/track/27YwMCIG7Rx9czTR625Wfz) | [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG) | [Bayanni](https://open.spotify.com/album/0XIgw74GKfTD6MCOHzhovL) | 3:13 |
 | 76 | [Hard to Find](https://open.spotify.com/track/2DEfBwqL5U7OP3UFKQJ0cq) | [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q), [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo) | [Hard to Find](https://open.spotify.com/album/5OgLCYPqsqVdwlGEijUEpQ) | 3:08 |
-| 77 | [Options](https://open.spotify.com/track/3j8QA7ByqMlDZdL6OAvi7b) | [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Options](https://open.spotify.com/album/7DrDPkf2xxGd9uAmxccW9s) | 2:55 |
-| 78 | [FOR YOU](https://open.spotify.com/track/1tj7Pn7RFy82MTwM3TvLkw) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [FOR YOU](https://open.spotify.com/album/0G24UhXGf5SSfBS9QNRKa0) | 3:08 |
+| 77 | [FOR YOU](https://open.spotify.com/track/1tj7Pn7RFy82MTwM3TvLkw) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [FOR YOU](https://open.spotify.com/album/0G24UhXGf5SSfBS9QNRKa0) | 3:08 |
+| 78 | [Options](https://open.spotify.com/track/3j8QA7ByqMlDZdL6OAvi7b) | [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Options](https://open.spotify.com/album/7DrDPkf2xxGd9uAmxccW9s) | 2:55 |
 | 79 | [Bad n Rude \(feat\. WSTRN\)](https://open.spotify.com/track/5vwKhgUVH6G17g664pSZbf) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [WSTRN](https://open.spotify.com/artist/5nSAh3wlH7VaqpnkiMjzDs) | [Bad n Rude \(feat\. WSTRN\)](https://open.spotify.com/album/4t9NUCaBagfEhBDUgOPYGc) | 3:46 |
 
-Snapshot ID: `MTY2MzI4MjgwMCwwMDAwMDAwMDg4Y2UzNGUxN2FmNzMzZjI3ZjhiMDVlZGI1NDZiMGZi`
+Snapshot ID: `MTY2MzI4MjgwMCwwMDAwMDAwMDcwMWUxMDJlMDdhNGQxNjJlMzk1ZDQxNmYyOWQzYWRh`

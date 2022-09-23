@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SfyqmSFDwe.md) - [plain]
 
 > Classics are forever! Los clásicos no pasan de moda!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,660,729 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,665,218 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

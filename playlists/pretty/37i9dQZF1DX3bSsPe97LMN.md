@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSsPe97LMN.md) - [plain]
 
 > Esta es la plebada que está marcando tendencia en la Música Mexicana\. Tania Dominguez en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,907 likes - 75 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,938 likes - 75 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSsPe97LMN.md) - [plain]
 | 7 | [No Sabía Cuánto](https://open.spotify.com/track/4gBxREFDhxi8Hw4qeiYt7B) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6) | [No Sabía Cuánto](https://open.spotify.com/album/73ldGcnuZUBccjAhd4jgXZ) | 2:45 |
 | 8 | [Déjenme Hacer Dinero](https://open.spotify.com/track/4LdopLerbbhZxY6cBQyRsP) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [La Ventaja](https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD), [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH) | [Déjenme Hacer Dinero](https://open.spotify.com/album/38P4ol8xZRrL4DqxxWKMAo) | 3:13 |
 | 9 | [Préstame Tu Corazón](https://open.spotify.com/track/1bnSKjuPEd8FPACxqA5Mos) | [Efecto Elegante](https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3) | [Préstame Tu Corazón](https://open.spotify.com/album/193sAyinQJCfAe9rWjUH36) | 3:02 |
-| 10 | [Ya acabó \- Con Becky G](https://open.spotify.com/track/0OPiOIAyw2FUjKm8PXBGhq) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Ya acabó \(Con Becky G\)](https://open.spotify.com/album/6XZejfd76Y8JU23nnaVDTc) | 2:56 |
-| 11 | [El Chaman](https://open.spotify.com/track/3yE8qL9HNfyzAbpqoMnUr8) | [Aldo Trujillo](https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu), [Legion RG](https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V), [El Padrinito Toys](https://open.spotify.com/artist/19I7n3fJWbecNWpRUSuIjf) | [El Chaman](https://open.spotify.com/album/0dKlcXtiUXnQK7BZH7UIfE) | 4:41 |
+| 10 | [El Chaman](https://open.spotify.com/track/3yE8qL9HNfyzAbpqoMnUr8) | [Aldo Trujillo](https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu), [Legion RG](https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V), [El Padrinito Toys](https://open.spotify.com/artist/19I7n3fJWbecNWpRUSuIjf) | [El Chaman](https://open.spotify.com/album/0dKlcXtiUXnQK7BZH7UIfE) | 4:41 |
+| 11 | [Ya acabó \- Con Becky G](https://open.spotify.com/track/0OPiOIAyw2FUjKm8PXBGhq) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Ya acabó \(Con Becky G\)](https://open.spotify.com/album/6XZejfd76Y8JU23nnaVDTc) | 2:56 |
 | 12 | [Solo Me Dejaste](https://open.spotify.com/track/0OLLsFyVPrjI3iL03lDFXk) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Solo Me Dejaste](https://open.spotify.com/album/2On4y5Gf1XWFvPYaXnqqOH) | 3:06 |
 | 13 | [Me Gusta Mi Vida](https://open.spotify.com/track/1lRYofIUSURrWsUVafsmzH) | [Joan Y Su Elite](https://open.spotify.com/artist/7zezEcThEVuTMXsVgPLPG1), [Manuel Rodriguez](https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH) | [Me Gusta Mi Vida](https://open.spotify.com/album/6Afdo0WciubGD9TEGkrop9) | 3:47 |
 | 14 | [No Le Aflojo](https://open.spotify.com/track/7ifMxHITc3NIipJO4R5NGb) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [No Le Aflojo](https://open.spotify.com/album/3VABPNfUfSP5DurV7CUZaH) | 3:22 |
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSsPe97LMN.md) - [plain]
 | 26 | [El Chaman](https://open.spotify.com/track/0RstZCli3DcyY1LJq38P4b) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [El Chaman](https://open.spotify.com/album/7v4rU4KEpLAyPG7aGHVYNA) | 2:54 |
 | 27 | [12 Rifles](https://open.spotify.com/track/6bKPmj3k2zoTzoEOiFnmM0) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [12 Rifles](https://open.spotify.com/album/1KqUq2OTqTIlxAdXhz0Ypn) | 2:53 |
 | 28 | [No Te Quiero Perder](https://open.spotify.com/track/4AwlNIyid3oRyNqX61kTKt) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Limerencia](https://open.spotify.com/album/4d9KK2351FK3PAzlqfy8yj) | 3:46 |
-| 29 | [Lo Que Construimos \- Spotify Singles](https://open.spotify.com/track/5YCs2XXzIFHADPntqJ2jqv) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Lo Que Construimos \(Spotify Singles\)](https://open.spotify.com/album/7ewtzbOUdPhT85PQ6onKEF) | 3:39 |
+| 29 | [Pideme la Luna](https://open.spotify.com/track/3m2S4eEc19o5krIEplPq2c) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602](https://open.spotify.com/album/0e6v7RAfsLk2UHr5gvDitO) | 2:47 |
 | 30 | [Por La Baja Navegamos](https://open.spotify.com/track/0OephgF5HKnlnZYLhCuaKQ) | [Nueva Marca](https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ) | [La Loteria](https://open.spotify.com/album/1eOnR7Tb5ajg0OMNi68i4W) | 2:56 |
-| 31 | [Pideme la Luna](https://open.spotify.com/track/3m2S4eEc19o5krIEplPq2c) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602](https://open.spotify.com/album/0e6v7RAfsLk2UHr5gvDitO) | 2:47 |
+| 31 | [Lo Que Construimos \- Spotify Singles](https://open.spotify.com/track/5YCs2XXzIFHADPntqJ2jqv) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Lo Que Construimos \(Spotify Singles\)](https://open.spotify.com/album/7ewtzbOUdPhT85PQ6onKEF) | 3:39 |
 | 32 | [No Te Lo Voy a Negar \(feat\. HERNAN TREJO\)](https://open.spotify.com/track/340OYprIslmjNCuJZKRjwn) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [HERNAN TREJO](https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD) | [No Te Lo Voy a Negar \(feat\. HERNAN TREJO\)](https://open.spotify.com/album/1qc0uWlaS1bswH57YVEZHU) | 4:00 |
 | 33 | [Una Chevy](https://open.spotify.com/track/7xxQJetweF4orA784Bfae2) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Una Chevy](https://open.spotify.com/album/6Yt4FwoiLC7XebognYM5fx) | 2:21 |
 | 34 | [KDR](https://open.spotify.com/track/66OK4uEWo71v2hcsPqxMNn) | [Grupo Mente Maestra](https://open.spotify.com/artist/7fReOInDdj4876IaRNzHC2) | [KDR](https://open.spotify.com/album/6ATbvwDHxLn5dfzGpqfygm) | 3:21 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSsPe97LMN.md) - [plain]
 | 74 | [Mis Travesuras](https://open.spotify.com/track/19gfnvZCia2fknfk9utMgB) | [Nietos Del Viejo](https://open.spotify.com/artist/3sC7anQFAQtZNYpADNh5EH) | [Pasajes Negros](https://open.spotify.com/album/4trLYsGUm6UmLuhdlMAC7A) | 2:20 |
 | 75 | [Bella Mujer](https://open.spotify.com/track/4UdElq0dpUVS6fNyhLYwYM) | [Grupo Nueva Liga](https://open.spotify.com/artist/0iVRaTxHkNNvEaY1SOD8dk) | [Bella Mujer](https://open.spotify.com/album/7AyFGqdzc3zqoW68XI8SA3) | 2:26 |
 
-Snapshot ID: `MTY2MzMwNDQwMCwwMDAwMDAwMGE0Y2E1YzcxZWRkY2FjOGMzMmRiZjM4ZDM1YzE0ODUy`
+Snapshot ID: `MTY2MzMwNDQwMCwwMDAwMDAwMDQ3Nzc0NjJhMWFlYjgzY2U4M2ZlZmNjMmZmNDc4MzRj`

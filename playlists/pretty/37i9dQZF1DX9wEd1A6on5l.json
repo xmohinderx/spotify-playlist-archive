@@ -1,12 +1,12 @@
 {
   "description": "Get the party started with these Naija bangers! ",
-  "num_followers": 18116,
+  "num_followers": 18145,
   "original_name": "Party Dey!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzU3MTk3MywwMDAwMDAwMDc0NDVhM2U1MzU1ZmY2ZjU3ZDk5MjBlY2U5MzMyZTky",
+  "snapshot_id": "MTY2MzU3MTk3MywwMDAwMDAwMGUxYTVlZjg1ZjNlMGMzMTBlOGMzOGY2NmIyMzg0NTRm",
   "tracks": [
     {
       "added_at": "2022-06-16 23:00:00",
@@ -639,26 +639,6 @@
     {
       "added_at": "2022-06-09 23:00:00",
       "album": {
-        "name": "PALAZZO",
-        "url": "https://open.spotify.com/album/2O2xKMqPSpnYYQMk5DPSTf"
-      },
-      "artists": [
-        {
-          "name": "SPINALL",
-          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
-        },
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 186002,
-      "name": "PALAZZO",
-      "url": "https://open.spotify.com/track/2SaRkvUkzNzL39fBB2hLpt"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
         "name": "Boy Alone",
         "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
       },
@@ -719,26 +699,6 @@
     {
       "added_at": "2022-06-09 23:00:00",
       "album": {
-        "name": "Omo Ope",
-        "url": "https://open.spotify.com/album/6PU3yx6qtcu2BKkRMGSbdG"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        },
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        }
-      ],
-      "duration_ms": 166153,
-      "name": "Omo Ope (feat. Olamide)",
-      "url": "https://open.spotify.com/track/7d1aTQlsHMgWmkPywDi7h1"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
         "name": "Cold Outside",
         "url": "https://open.spotify.com/album/7lVp4uiQQr65XGWwmwQWR0"
       },
@@ -755,6 +715,26 @@
       "duration_ms": 181224,
       "name": "Cold Outside",
       "url": "https://open.spotify.com/track/2jZ2MrAk8iNZk1dsI0Vr5z"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
+        "name": "Omo Ope",
+        "url": "https://open.spotify.com/album/6PU3yx6qtcu2BKkRMGSbdG"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        },
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "duration_ms": 166153,
+      "name": "Omo Ope (feat. Olamide)",
+      "url": "https://open.spotify.com/track/7d1aTQlsHMgWmkPywDi7h1"
     },
     {
       "added_at": "2022-06-23 23:00:00",
@@ -969,22 +949,6 @@
       "url": "https://open.spotify.com/track/574QNMkQGedluLOgr275s9"
     },
     {
-      "added_at": "2022-07-14 23:00:00",
-      "album": {
-        "name": "Boy Alone",
-        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
-      },
-      "artists": [
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 183056,
-      "name": "soso",
-      "url": "https://open.spotify.com/track/1wADwLSkYhrSmy4vdy6BRn"
-    },
-    {
       "added_at": "2022-06-09 23:00:00",
       "album": {
         "name": "Loving You",
@@ -1039,6 +1003,22 @@
       "duration_ms": 184000,
       "name": "Holy Father",
       "url": "https://open.spotify.com/track/3yCYQ0uzJyX0GwJoF3QvAe"
+    },
+    {
+      "added_at": "2022-07-14 23:00:00",
+      "album": {
+        "name": "Boy Alone",
+        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 183056,
+      "name": "soso",
+      "url": "https://open.spotify.com/track/1wADwLSkYhrSmy4vdy6BRn"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -1117,6 +1097,22 @@
       "url": "https://open.spotify.com/track/6u1Hciw2SSywNhnrjvZPhp"
     },
     {
+      "added_at": "2022-07-25 06:09:50",
+      "album": {
+        "name": "The Second Wave Deluxe",
+        "url": "https://open.spotify.com/album/6dvqARQzWnVbGym9dEWw4Y"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        }
+      ],
+      "duration_ms": 173617,
+      "name": "WeWe",
+      "url": "https://open.spotify.com/track/6vy5gmpM2yuLAhDRtGOtPw"
+    },
+    {
       "added_at": "2022-06-09 23:00:00",
       "album": {
         "name": "Catch Me If You Can",
@@ -1135,22 +1131,6 @@
       "duration_ms": 160799,
       "name": "One Woman",
       "url": "https://open.spotify.com/track/7BglTfVmbUUOCQUNof4RBF"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
-        "name": "The Second Wave",
-        "url": "https://open.spotify.com/album/2X0RCBDJankvvvaJgMUUHD"
-      },
-      "artists": [
-        {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        }
-      ],
-      "duration_ms": 206775,
-      "name": "Snapchat",
-      "url": "https://open.spotify.com/track/10m1yYuud3w7bb43srjbWi"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -1221,22 +1201,6 @@
       "url": "https://open.spotify.com/track/7aeIvptSeWBdtuPyyjM3wM"
     },
     {
-      "added_at": "2022-07-25 06:09:50",
-      "album": {
-        "name": "The Second Wave Deluxe",
-        "url": "https://open.spotify.com/album/6dvqARQzWnVbGym9dEWw4Y"
-      },
-      "artists": [
-        {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        }
-      ],
-      "duration_ms": 173617,
-      "name": "WeWe",
-      "url": "https://open.spotify.com/track/6vy5gmpM2yuLAhDRtGOtPw"
-    },
-    {
       "added_at": "2022-07-14 23:00:00",
       "album": {
         "name": "Like (feat. Kizz Daniel)",
@@ -1275,6 +1239,22 @@
       "duration_ms": 144758,
       "name": "Call of Duty",
       "url": "https://open.spotify.com/track/2wfWK2cmM5DZ4VnT7rDnFO"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
+        "name": "The Second Wave",
+        "url": "https://open.spotify.com/album/2X0RCBDJankvvvaJgMUUHD"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        }
+      ],
+      "duration_ms": 206775,
+      "name": "Snapchat",
+      "url": "https://open.spotify.com/track/10m1yYuud3w7bb43srjbWi"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -1447,22 +1427,6 @@
     {
       "added_at": "2022-06-09 23:00:00",
       "album": {
-        "name": "Big Energy",
-        "url": "https://open.spotify.com/album/4ooUYNH9ZD44v6wpIv5huk"
-      },
-      "artists": [
-        {
-          "name": "LADIPOE",
-          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "Big Energy",
-      "url": "https://open.spotify.com/track/4wG7xubJwUdjvdVJvAV1d9"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
         "name": "Dada",
         "url": "https://open.spotify.com/album/0ogWb5mN0ZG6U1aMX7r4ai"
       },
@@ -1535,6 +1499,22 @@
     {
       "added_at": "2022-06-09 23:00:00",
       "album": {
+        "name": "Big Energy",
+        "url": "https://open.spotify.com/album/4ooUYNH9ZD44v6wpIv5huk"
+      },
+      "artists": [
+        {
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "Big Energy",
+      "url": "https://open.spotify.com/track/4wG7xubJwUdjvdVJvAV1d9"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
         "name": "Waist Drop",
         "url": "https://open.spotify.com/album/2bXMxsnq3X6PgRx4Oucn3H"
       },
@@ -1547,6 +1527,22 @@
       "duration_ms": 167142,
       "name": "Waist Drop",
       "url": "https://open.spotify.com/track/0pq7v5FzfN7pv4qVk173a5"
+    },
+    {
+      "added_at": "2022-07-22 04:27:00",
+      "album": {
+        "name": "Begging",
+        "url": "https://open.spotify.com/album/2YnH0BZHt58uxsgnnNeeYH"
+      },
+      "artists": [
+        {
+          "name": "Yemi Alade",
+          "url": "https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW"
+        }
+      ],
+      "duration_ms": 135272,
+      "name": "Begging",
+      "url": "https://open.spotify.com/track/771tThfRECkaHjTKb6clZx"
     }
   ],
   "unique_name": "Party Dey!",

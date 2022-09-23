@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX127GJMzd1vB.md) - [plain]
 
 > ¡De amor y desamor! Las canciones que no pueden faltar a la hora de llevar gallo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,389 likes - 75 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,437 likes - 75 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX127GJMzd1vB.md) - [plain]
 | 12 | [Por Mujeres Como Tú](https://open.spotify.com/track/4Zd6gElrsmSyVomurxAPOD) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Por Mujeres Como Tú](https://open.spotify.com/album/1i8KV89uJq08T3MTNEELgL) | 4:23 |
 | 13 | [Bonita](https://open.spotify.com/track/5CYjYxgqGkYVXP70iVasim) | [Los Dorados](https://open.spotify.com/artist/3q0KiiH0SqZoOftCEZNAis) | [Bonita](https://open.spotify.com/album/0GrIKHwtfk4TpzwwJh9QPu) | 3:21 |
 | 14 | [No Me Queda Más](https://open.spotify.com/track/1r28ZDlVxz24Rmy8Sq9REY) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Amor Prohibido](https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E) | 3:20 |
-| 15 | [Caray](https://open.spotify.com/track/3SPqDiyU1dKcWfBBWpPEC3) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Todo](https://open.spotify.com/album/6X4xZK2oV8ydJDnIMpL5TX) | 3:49 |
-| 16 | [Nuestro Juramento](https://open.spotify.com/track/4F6Ne3xyctrytvYm9W68ll) | [Julio Jaramillo](https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8) | [El Ruiseñor de America](https://open.spotify.com/album/33pvMxnkZFMGkg9fbomz0r) | 3:15 |
+| 15 | [Nuestro Juramento](https://open.spotify.com/track/4F6Ne3xyctrytvYm9W68ll) | [Julio Jaramillo](https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8) | [El Ruiseñor de America](https://open.spotify.com/album/33pvMxnkZFMGkg9fbomz0r) | 3:15 |
+| 16 | [Caray](https://open.spotify.com/track/3SPqDiyU1dKcWfBBWpPEC3) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Todo](https://open.spotify.com/album/6X4xZK2oV8ydJDnIMpL5TX) | 3:49 |
 | 17 | [Te Irá Mejor Sin Mí](https://open.spotify.com/track/3d7uS6KzdacpUccKpjXr7x) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Pegadito Al Corazón](https://open.spotify.com/album/1uMyEZYWXHuAToVZSoRIY7) | 2:56 |
 | 18 | [Cien años](https://open.spotify.com/track/760r2LXNtMaHDKMQ5wkXbi) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [15 Inmortales de Pedro Infante](https://open.spotify.com/album/0EUGqkj07wWx27XADAq3Ba) | 3:32 |
 | 19 | [Directo Al Corazón](https://open.spotify.com/track/659B2PbbBVtPwJh5QkB1WB) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Por Mujeres Como Tú](https://open.spotify.com/album/1i8KV89uJq08T3MTNEELgL) | 3:20 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX127GJMzd1vB.md) - [plain]
 | 74 | [La Diferencia](https://open.spotify.com/track/0UjaaTDGZcDhNZITXW9nUI) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Con el Mariachi de América de Jesús Rodríguez de Hijar](https://open.spotify.com/album/1KyEwimgjlEeq4Ovc1D8ws) | 3:20 |
 | 75 | [Amaneci Entre Tus Brazos \- En Vivo](https://open.spotify.com/track/2wUyUpg8oOrvZ2MsEHph0m) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [El Concierto](https://open.spotify.com/album/6efyUFJcUK18KRFTMoxNSI) | 2:30 |
 
-Snapshot ID: `MTY0MDgyMTYxNywwMDAwMDAwMDlhZjg2MWRjYjJkOWU1MjdlNWQzMzA5NTk0OTg5ZWY3`
+Snapshot ID: `MTY0MDgyMTYxNywwMDAwMDAwMGJjZmZlZDRkNGJiNWIyNDYzNTEzOWIwNGY0MTY0MTVl`

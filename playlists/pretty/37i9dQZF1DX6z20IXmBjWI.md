@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6z20IXmBjWI.md) - [plain]
 
 > Acoustic and roots music gems.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,141,780 likes - 160 songs - 10 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,141,810 likes - 160 songs - 10 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6z20IXmBjWI.md) - [plain]
 | 62 | [Hello](https://open.spotify.com/track/3PDJfUCgOy0mqm3jxUVA5F) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Hello](https://open.spotify.com/album/6e2JVuCWiGeSK70X9PhPNX) | 3:14 |
 | 63 | [Where You Are \- Acoustic](https://open.spotify.com/track/4OrDWRw53W0rp1Lps64OFb) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Living Room Worktapes](https://open.spotify.com/album/4tqIQcOp7So49ZKF4Mzvp3) | 4:03 |
 | 64 | [Victory](https://open.spotify.com/track/1oqnATF6AFH93dCBrDqBTP) | [The Avett Brothers](https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q) | [The Third Gleam](https://open.spotify.com/album/6qHVJFxoizJAdhB7CdbaV2) | 3:53 |
-| 65 | [Only Time](https://open.spotify.com/track/6QXolVfFVjUHPp5TVzsjIF) | [Aaron Espe](https://open.spotify.com/artist/11nbBcaBk8uXBPQsc3Sq9p) | [Only Time](https://open.spotify.com/album/7GsStYh3eGaa8PYiZPnkMD) | 2:58 |
-| 66 | [Secret \- Acoustic](https://open.spotify.com/track/7khUiiyqFAluYRsw1ZKcWS) | [Angel Snow](https://open.spotify.com/artist/4awtkia1cywuwJ2OrxNw6j) | [Secret \(Acoustic\)](https://open.spotify.com/album/4YAWFrz6K5VyNQcg8eK7B3) | 3:10 |
+| 65 | [Secret \- Acoustic](https://open.spotify.com/track/7khUiiyqFAluYRsw1ZKcWS) | [Angel Snow](https://open.spotify.com/artist/4awtkia1cywuwJ2OrxNw6j) | [Secret \(Acoustic\)](https://open.spotify.com/album/4YAWFrz6K5VyNQcg8eK7B3) | 3:10 |
+| 66 | [Only Time](https://open.spotify.com/track/6QXolVfFVjUHPp5TVzsjIF) | [Aaron Espe](https://open.spotify.com/artist/11nbBcaBk8uXBPQsc3Sq9p) | [Only Time](https://open.spotify.com/album/7GsStYh3eGaa8PYiZPnkMD) | 2:58 |
 | 67 | [Such A Simple Thing \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/1xYMyM7MxFi4OuzDA2op9Q) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Spotify Singles](https://open.spotify.com/album/79Eaui1AldvjTjHIY7V6vu) | 5:07 |
 | 68 | [New Star](https://open.spotify.com/track/3PUln07oXes6xzvFFBnPO1) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [New Star](https://open.spotify.com/album/3zRIyC1QFzYOxRuuocyOt3) | 3:05 |
 | 69 | [Summer's End \- Spotify Singles](https://open.spotify.com/track/2lVPHHSn8elKFEf1d6evFG) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Maria Taylor](https://open.spotify.com/artist/6iKiDPed4LAQEcPZpvf00m) | [Spotify Singles](https://open.spotify.com/album/1pBRAyTNXs1QRRAFRZ4Ygs) | 3:54 |
@@ -169,4 +169,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6z20IXmBjWI.md) - [plain]
 | 159 | [A Prayer Of My Own](https://open.spotify.com/track/4T9huHkcSekxse5hkJA8UD) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [A Prayer Of My Own](https://open.spotify.com/album/5nPBWxyJ7Ro4DbbdkGoVyO) | 4:33 |
 | 160 | [Eyes Wide Open \- From "North Star"](https://open.spotify.com/track/1xkFLx2HwziUgjXrC0Jhw6) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [Eyes Wide Open \(From "North Star"\)](https://open.spotify.com/album/2YYpuK6nOd6KJap8X7vzHe) | 3:15 |
 
-Snapshot ID: `MTY2MjY5NjAwMCwwMDAwMDAwMGM4OTBjZDU1NzFiOGM5NTg3MWUyNzJlYjMxMjVjMTA0`
+Snapshot ID: `MTY2MjY5NjAwMCwwMDAwMDAwMGJlYzM2Y2ZkNWIyZWMyZWI4NDgyM2IzNzhiZTdkZjFh`

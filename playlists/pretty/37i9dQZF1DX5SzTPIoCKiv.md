@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5SzTPIoCKiv.md) - [plain]
 
 > Recent smashes from your favorite Christian Contemporary artists\.  Cover: Mac Powell
 
-[Spotify](https://open.spotify.com/user/spotify) - 544,025 likes - 100 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 544,119 likes - 100 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5SzTPIoCKiv.md) - [plain]
 | 79 | [I'm Listening \- Radio Version](https://open.spotify.com/track/5ExBj7cdyNLZ1t5PalfPWa) | [Chris McClarney](https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp), [Hollyn](https://open.spotify.com/artist/2E6Nnh7AAOVajEHHRDALav) | [Fill This Place \(Live\)](https://open.spotify.com/album/16CdyumvxDomk04TnJZYe7) | 4:08 |
 | 80 | [God Is Good](https://open.spotify.com/track/55u3TOux7B6QdoOOQ4KCWa) | [Francesca Battistelli](https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA) | [God Is Good](https://open.spotify.com/album/2NjwP5E285YasIUIQ6LPl0) | 3:17 |
 | 81 | [For The Good](https://open.spotify.com/track/7ePpMxyHYteDKAeNWeT6vi) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [For The Good](https://open.spotify.com/album/4Rib5N0s3XZL0hcoMI3zdy) | 3:26 |
-| 82 | [I Will Fear No More](https://open.spotify.com/track/7IKh3MlTFsgFOaqKc0z7If) | [The Afters](https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc) | [The Beginning & Everything After](https://open.spotify.com/album/30Cu7H7abvkKw8EuWckmG0) | 3:22 |
-| 83 | [Symphony](https://open.spotify.com/track/0Wc49GX11eFZV4BjJd8yh9) | [Switch](https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN), [Dillon Chase](https://open.spotify.com/artist/3cj7pwtC0GuRFHayrbazV8) | [Symphony](https://open.spotify.com/album/5TigSX6SdwoGVhTS3sE8TW) | 4:04 |
+| 82 | [Symphony](https://open.spotify.com/track/0Wc49GX11eFZV4BjJd8yh9) | [Switch](https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN), [Dillon Chase](https://open.spotify.com/artist/3cj7pwtC0GuRFHayrbazV8) | [Symphony](https://open.spotify.com/album/5TigSX6SdwoGVhTS3sE8TW) | 4:04 |
+| 83 | [I Will Fear No More](https://open.spotify.com/track/7IKh3MlTFsgFOaqKc0z7If) | [The Afters](https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc) | [The Beginning & Everything After](https://open.spotify.com/album/30Cu7H7abvkKw8EuWckmG0) | 3:22 |
 | 84 | [Best News Ever](https://open.spotify.com/track/17x1RzAOMVLuNnFqjdal2C) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [Lifer](https://open.spotify.com/album/3KVlZJCLMdeU43OwSU0Hac) | 2:59 |
 | 85 | [Same God](https://open.spotify.com/track/3kHh1th3S2di1tg5XoZTzU) | [Hannah Kerr](https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq) | [Same God](https://open.spotify.com/album/294x9L2GHOfyL9k0Ufo1qh) | 3:49 |
 | 86 | [Like You Love Me](https://open.spotify.com/track/33bqWsuJvnjTgAYr8DMadN) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Citizen of Heaven](https://open.spotify.com/album/7o7x7p8emSxFJXS2ECj1Us) | 3:30 |
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5SzTPIoCKiv.md) - [plain]
 | 90 | [I Have This Hope](https://open.spotify.com/track/5ELZpvTDGorz9BIE9zaBoZ) | [Tenth Avenue North](https://open.spotify.com/artist/7v35CkHBaT1SStgQHl95a0) | [Followers](https://open.spotify.com/album/4Hjjqd2cPyD9K8TbSC9O6C) | 3:24 |
 | 91 | [Over And Over](https://open.spotify.com/track/5AjM1AF3Gy3W5Mr4ZG7zgI) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG), [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Over And Over](https://open.spotify.com/album/6JSGQXaNZyITJBTMTWGseO) | 3:38 |
 | 92 | [Defender](https://open.spotify.com/track/3VHNtJNVPazkHGpeGgpoOd) | [Francesca Battistelli](https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA), [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW) | [Own It](https://open.spotify.com/album/4ggS6OmzHrIqpfj0tYdzT0) | 7:04 |
-| 93 | [Bleed The Same](https://open.spotify.com/track/5c1gWcamTmYP1t3UwN6caS) | [Mandisa](https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3), [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Out Of The Dark](https://open.spotify.com/album/0HXOO7P7QQHPzUHDbSGKMF) | 4:04 |
-| 94 | [Living Water](https://open.spotify.com/track/6TyyGSk69X8S922AF5L4qE) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Psalms, Hymns, and Spiritual Songs, Vol\. 1](https://open.spotify.com/album/0zQOH5kEUD7CDho30wHTjf) | 3:45 |
+| 93 | [Living Water](https://open.spotify.com/track/6TyyGSk69X8S922AF5L4qE) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Psalms, Hymns, and Spiritual Songs, Vol\. 1](https://open.spotify.com/album/0zQOH5kEUD7CDho30wHTjf) | 3:45 |
+| 94 | [Bleed The Same](https://open.spotify.com/track/5c1gWcamTmYP1t3UwN6caS) | [Mandisa](https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3), [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Out Of The Dark](https://open.spotify.com/album/0HXOO7P7QQHPzUHDbSGKMF) | 4:04 |
 | 95 | [In the Arms](https://open.spotify.com/track/25d5ECcMe57FZaK5PJqiIU) | [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [In the Arms](https://open.spotify.com/album/2gybUUpxYO2SyDa3CbgX4P) | 3:52 |
 | 96 | [Hold Us Together \- Hope Mix](https://open.spotify.com/track/42Q6AOIHAybfNz8tFMwrWl) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Hold Us Together \(Hope Mix\)](https://open.spotify.com/album/1v2udzifT2MKC7HBgz8BlU) | 4:38 |
 | 97 | [Is He Worthy?](https://open.spotify.com/track/4E43YlwUlpYDJIxcMjt0S7) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Holy Roar](https://open.spotify.com/album/2MsjmtZb4JVzmQ2kmS6dVq) | 4:31 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5SzTPIoCKiv.md) - [plain]
 | 99 | [It's Always Been You](https://open.spotify.com/track/5Tc2hNyood20vuKm89NeCf) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Hymn Of Heaven](https://open.spotify.com/album/51IGu0d5eyVVO3wAxIm2Ep) | 4:01 |
 | 100 | [Your Love Defends Me](https://open.spotify.com/track/066eFvkQXyR9UIYi65GsSu) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Echoes \(Deluxe Edition\)](https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA) | 3:46 |
 
-Snapshot ID: `MTYzNDI5NzQ1MywwMDAwMDAwMDc1ODM2NjRiOTJmM2QzNDA2MzZjNWQxYjJjYmMwMTgz`
+Snapshot ID: `MTYzNDI5NzQ1MywwMDAwMDAwMGI3Yzc3MTUxYmJhMGM3MjM1YmRkNDBiY2Y0ZDYwYWNl`

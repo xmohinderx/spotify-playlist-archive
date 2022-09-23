@@ -4,7 +4,7 @@
 
 > Most adored pop hits from the Middle East and North Africa\. Cover: Wael Kfoury
 
-100 songs - 6 hr 2 min - [published](https://open.spotify.com/playlist/3oCJHmm7pEXb9N40JMypnM)
+101 songs - 6 hr 5 min - [published](https://open.spotify.com/playlist/3oCJHmm7pEXb9N40JMypnM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,9 +100,10 @@
 | [Yama](https://open.spotify.com/track/2LFXoehu5ZfYXnKob64neu) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [Nancy 10](https://open.spotify.com/album/3uqaoNAn5imRyAztEcb6Bb) | 4:08 | 2022-05-04 |  |
 | [Yom Min el Ayyam](https://open.spotify.com/track/2KDcnJ2ooNZUIHiHTnWE2b) | [Zainab Hassan](https://open.spotify.com/artist/0WhuydXuCatjNCoMjab4M7) | [Yom Min el Ayyam](https://open.spotify.com/album/5rOBlOyJbFnhAsu2BhcQc9) | 3:40 | 2022-05-04 |  |
 | [Zahmet Weshoush](https://open.spotify.com/track/75oCHG4P4pcpTx79twBdpF) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Zahmet Weshoush](https://open.spotify.com/album/5htGDfQfI8xRnbI2S1G7h8) | 3:49 | 2022-05-04 |  |
-| [Zahra Hala Helwa \(Maa Myriam Fares W Asser Yassin\)](https://open.spotify.com/track/5ksURzwZba1aZd7LVyU9DL) | [Memaar Al Morshedy](https://open.spotify.com/artist/6YNhk9uSHg8MTtdwNjhh6d) | [Zahra Hala Helwa \(Maa Myriam Fares W Asser Yassin\)](https://open.spotify.com/album/2coqbgNvH5tanBqXSlZrt4) | 1:57 | 2022-07-14 |  |
+| [Zahra Hala Helwa \(Maa Myriam Fares W Asser Yassin\)](https://open.spotify.com/track/5ksURzwZba1aZd7LVyU9DL) | [Memaar Al Morshedy](https://open.spotify.com/artist/6YNhk9uSHg8MTtdwNjhh6d) | [Zahra Hala Helwa \(Maa Myriam Fares W Asser Yassin\)](https://open.spotify.com/album/2coqbgNvH5tanBqXSlZrt4) | 1:57 | 2022-07-14 | 2022-09-23 |
 | [Zayaha Meen](https://open.spotify.com/track/26YGvlmMNFT41QtXWGR0Xi) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Ya Fatenny](https://open.spotify.com/album/4c7UeqkDVT5AZI3hN7oitj) | 3:24 | 2022-07-14 |  |
 | [Zayaha Meen](https://open.spotify.com/track/5NBR9Pd73CpmzdCWTpBbFj) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Zayaha Meen](https://open.spotify.com/album/4ousdr4gRYNebJqEgz0pGs) | 3:24 | 2022-05-04 | 2022-07-29 |
+| [اعدائك كترت](https://open.spotify.com/track/0CFfVxPKnJfh7bIxzgOyO0) | [Haytham Shaker](https://open.spotify.com/artist/6qRALpme6YIgJ8jWM2D0G2) | [اعدائك كترت](https://open.spotify.com/album/5FTpX2Ws71TQRQyec4CbqY) | 3:27 | 2022-09-22 |  |
 | [باشا باشا](https://open.spotify.com/track/5u6I8MExcbewu6VcSnI1Sc) | [ِEmad Basha](https://open.spotify.com/artist/4oYGyyjjeg3AJofnWGjqR6) | [باشا باشا](https://open.spotify.com/album/3s2sywrjEFwOK8xewRebzc) | 4:09 | 2022-05-04 |  |
 | [بتوحشيني](https://open.spotify.com/track/5JAf3OAFDSrQ3MHonCo69E) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [بتوحشيني](https://open.spotify.com/album/55mOWoEYw3i3WAMF23O5rg) | 3:53 | 2022-05-04 | 2022-07-15 |
 | [زهرة حالة حلوة \(مع ميريام فارس و اسر ياسين\)](https://open.spotify.com/track/6AZzs7g85UpFDJUTKwLzgo) | [Memaar Al Morshedy](https://open.spotify.com/artist/6YNhk9uSHg8MTtdwNjhh6d) | [زهرة حالة حلوة \(مع ميريام فارس و اسر ياسين\)](https://open.spotify.com/album/7g0oVx8s5TOZKU4hIwmpsG) | 2:04 | 2022-05-04 | 2022-07-29 |

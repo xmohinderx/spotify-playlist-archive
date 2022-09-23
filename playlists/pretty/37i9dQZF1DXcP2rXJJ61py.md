@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcP2rXJJ61py.md) - [plain]
 
 > The official playlist for House of the Dragon \(and House Targaryen\)\. Watch Sundays on HBO Max.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,134 likes - 40 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,281 likes - 40 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

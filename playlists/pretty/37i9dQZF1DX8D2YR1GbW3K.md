@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D2YR1GbW3K.md) - [plain]
 
 > Nostalgic <a href="spotify:genre:edm\_dance">dance</a> festival favourites from the 2010s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,838 likes - 125 songs - 8 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,924 likes - 125 songs - 8 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,9 +96,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D2YR1GbW3K.md) - [plain]
 | 86 | [Leaving You](https://open.spotify.com/track/22qUyTlEvJf6DAlyQjMADe) | [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE), [M.BRONX](https://open.spotify.com/artist/3jbqK4VihAncvAJWgcidZG) | [Leaving You](https://open.spotify.com/album/1QkRNSPk2pDxzILcU14yBG) | 3:32 |
 | 87 | [Fortune Days](https://open.spotify.com/track/5VWVVSABdgccboSdrKGiZH) | [The Glitch Mob](https://open.spotify.com/artist/3a9qv6NLHnsVxJUtKOMHvD) | [Drink the Sea](https://open.spotify.com/album/4c5fhgLoAaFzwjNTxC57jK) | 6:22 |
 | 88 | [Crash 2.0](https://open.spotify.com/track/3NAGKEkJN7cUTaIYqFnF8l) | [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa), [DallasK](https://open.spotify.com/artist/7uas0F5EhsZg6KDJ7yy7rW) | [Red // Blue](https://open.spotify.com/album/45hTiiH7JpJx1P5TN6iDDG) | 4:14 |
-| 89 | [Flashlight](https://open.spotify.com/track/4soJPaN3etpZC72tHZztw3) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Flashlight](https://open.spotify.com/album/57zTr9eQz0d6JqRnHpcCBQ) | 3:52 |
+| 89 | [Show Me Love \- Radio Edit](https://open.spotify.com/track/6hL8PxitrG9hSXUmgWkG3N) | [Steve Angello](https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s), [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [Robin S](https://open.spotify.com/artist/2WvLeseDGPX1slhmxI59G3) | [Show Me Love](https://open.spotify.com/album/5zhHMMz0YT13BKa7ULPxGX) | 3:04 |
 | 90 | [Revolution \(feat\. Faustix & Imanos and Kai\)](https://open.spotify.com/track/7aaeZpSr54XQKSwMYO5JeH) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Faustix & Imanos](https://open.spotify.com/artist/4BXklnu49JdL9ZJBSiN3Hx), [Kai](https://open.spotify.com/artist/1gS7f2dZDZorikdyFNeEp4) | [Random White Dude Be Everywhere](https://open.spotify.com/album/4c7lxBZCbR8SQsoVvO2lCb) | 4:23 |
-| 91 | [Show Me Love \- Radio Edit](https://open.spotify.com/track/6hL8PxitrG9hSXUmgWkG3N) | [Steve Angello](https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s), [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [Robin S](https://open.spotify.com/artist/2WvLeseDGPX1slhmxI59G3) | [Show Me Love](https://open.spotify.com/album/5zhHMMz0YT13BKa7ULPxGX) | 3:04 |
+| 91 | [Flashlight](https://open.spotify.com/track/4soJPaN3etpZC72tHZztw3) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Flashlight](https://open.spotify.com/album/57zTr9eQz0d6JqRnHpcCBQ) | 3:52 |
 | 92 | [Barbra Streisand](https://open.spotify.com/track/6HkmOvGpoYrJ1BdppBNp2t) | [Duck Sauce](https://open.spotify.com/artist/0q8J3Yj810t5cpAYEJ7gxt), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [Quack](https://open.spotify.com/album/2r0wRLEAmOJA4ZUkCyfuW6) | 4:24 |
 | 93 | [A Sky Full of Stars \- Hardwell Remix](https://open.spotify.com/track/0WZVGXO8FYpK8v1IDxlOyE) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [A Sky Full of Stars \(Hardwell Remix\)](https://open.spotify.com/album/0CvMcLab5Xb0KL7gsQfhhv) | 5:13 |
 | 94 | [Higher Ground](https://open.spotify.com/track/0Js9hB2I66nJliPIJxzn2R) | [TNGHT](https://open.spotify.com/artist/40jiZfvsiAi1aIarh5Z3d3), [Lunice](https://open.spotify.com/artist/5I0593TTVPzkanWW8xsTns), [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb) | [TNGHT](https://open.spotify.com/album/4e0s9NinQo02X4exDDmW65) | 3:19 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D2YR1GbW3K.md) - [plain]
 | 124 | [Teenage Crime \- Radio Edit](https://open.spotify.com/track/3WeOzaQI5ukIzBOiHv3TWh) | [Adrian Lux](https://open.spotify.com/artist/5kp9Qhzri9LrDkzrtjt5Sh) | [Adrian Lux](https://open.spotify.com/album/1BrunRBB6h877zDUxep7eh) | 2:48 |
 | 125 | [Illmerica](https://open.spotify.com/track/3ERVrhNx8p2I3xY9RomH9t) | [Wolfgang Gartner](https://open.spotify.com/artist/3534yWWzmxx8NbKVoNolsK) | [Weekend In America](https://open.spotify.com/album/5pIPewOu9MCZVSQt7FLMim) | 5:37 |
 
-Snapshot ID: `MTY1NDgwNDc2NiwwMDAwMDAwMDNmYTk2YTI5NjU5ODBlYWQ5MGRmZTBiYmI5M2JiMDYw`
+Snapshot ID: `MTY1NDgwNDc2NiwwMDAwMDAwMDY4OGM1YTI4ODU5ZjMxMDk0MDU5ZDgzMzcxN2U3YjI0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules\. No boundaries\. Just cool music you need to hear\. Cover: Death Cab for Cutie
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,091,320 likes - 127 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,091,373 likes - 127 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

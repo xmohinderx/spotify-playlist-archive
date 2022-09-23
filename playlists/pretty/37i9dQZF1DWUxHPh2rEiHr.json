@@ -1,12 +1,12 @@
 {
   "description": "Discover rhythmic crossover hits from cultures around the world. Cover: Will.i.am, El Alfa & Yandel",
-  "num_followers": 450573,
+  "num_followers": 450646,
   "original_name": "Global X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMGM3NjAxMThlZDM4MDZhOTUxNmU5MTE0ZGViZjU5ODY0",
+  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMGI5NWUyOGQwN2I5Y2E1M2VmYjJjODFhOGM5OTE0Mjcx",
   "tracks": [
     {
       "added_at": "2022-09-16 04:00:00",
@@ -499,22 +499,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Una Noche en Medell\u00edn",
-        "url": "https://open.spotify.com/album/455Vc66bPFRI5D0zDEDn46"
-      },
-      "artists": [
-        {
-          "name": "Cris Mj",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
-        }
-      ],
-      "duration_ms": 153750,
-      "name": "Una Noche en Medell\u00edn",
-      "url": "https://open.spotify.com/track/1O2pcBJGej0pmH2Y9XZMs6"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "LOKERA",
         "url": "https://open.spotify.com/album/4vJcqwIGUuk5TeP29OPovU"
       },
@@ -539,22 +523,18 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Where Are You Now",
-        "url": "https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD"
+        "name": "Una Noche en Medell\u00edn",
+        "url": "https://open.spotify.com/album/455Vc66bPFRI5D0zDEDn46"
       },
       "artists": [
         {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        },
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
         }
       ],
-      "duration_ms": 148197,
-      "name": "Where Are You Now",
-      "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
+      "duration_ms": 153750,
+      "name": "Una Noche en Medell\u00edn",
+      "url": "https://open.spotify.com/track/1O2pcBJGej0pmH2Y9XZMs6"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -583,6 +563,26 @@
       "duration_ms": 254920,
       "name": "La Llevo Al Cielo (Ft. \u00d1engo Flow)",
       "url": "https://open.spotify.com/track/6DoL1yYIwEW7VZMRaJhoJI"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Where Are You Now",
+        "url": "https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "duration_ms": 148197,
+      "name": "Where Are You Now",
+      "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
+        "name": "Mood",
+        "url": "https://open.spotify.com/album/0of66YXURMrVzhAVkYNDeO"
+      },
+      "artists": [
+        {
+          "name": "Makar",
+          "url": "https://open.spotify.com/artist/4PUr4W5mWlzMkyVpSiX2ZN"
+        }
+      ],
+      "duration_ms": 151690,
+      "name": "Mood",
+      "url": "https://open.spotify.com/track/4k6yZRw7M04gZE2uW12Cw6"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
         "name": "1, 2, 3 (feat. Jason Derulo & De La Ghetto)",
         "url": "https://open.spotify.com/album/1jHSAfCHKUFx5imuezI7HE"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 201526,
       "name": "1, 2, 3 (feat. Jason Derulo & De La Ghetto)",
       "url": "https://open.spotify.com/track/4QtiVmuA88tPQiCOHZuQ5b"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "Mood",
-        "url": "https://open.spotify.com/album/0of66YXURMrVzhAVkYNDeO"
-      },
-      "artists": [
-        {
-          "name": "Makar",
-          "url": "https://open.spotify.com/artist/4PUr4W5mWlzMkyVpSiX2ZN"
-        }
-      ],
-      "duration_ms": 151690,
-      "name": "Mood",
-      "url": "https://open.spotify.com/track/4k6yZRw7M04gZE2uW12Cw6"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Plan A",
-        "url": "https://open.spotify.com/album/2ZcdUwSYlt9fX8OPWX9Scg"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 178202,
-      "name": "Plan A",
-      "url": "https://open.spotify.com/track/2gpQi3hbcUAcEG8m2dlgfB"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "MOTOMAMI",
         "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
       },
@@ -1255,6 +1239,22 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
+        "name": "Plan A",
+        "url": "https://open.spotify.com/album/2ZcdUwSYlt9fX8OPWX9Scg"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 178202,
+      "name": "Plan A",
+      "url": "https://open.spotify.com/track/2gpQi3hbcUAcEG8m2dlgfB"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
         "name": "El Que Espera",
         "url": "https://open.spotify.com/album/1iouSXg5RihFIXRvZFJyTa"
       },
@@ -1271,6 +1271,26 @@
       "duration_ms": 170396,
       "name": "El Que Espera",
       "url": "https://open.spotify.com/track/2oNSHvGBGZIrZouRAA1eaX"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "El Pa\u00f1uelo",
+        "url": "https://open.spotify.com/album/6UHVdZCYgXo8xeSCw4RXp5"
+      },
+      "artists": [
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        },
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 234706,
+      "name": "El Pa\u00f1uelo",
+      "url": "https://open.spotify.com/track/3c7H5RL3H6jFgDTbMxGBe9"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1307,26 +1327,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "El Pa\u00f1uelo",
-        "url": "https://open.spotify.com/album/6UHVdZCYgXo8xeSCw4RXp5"
-      },
-      "artists": [
-        {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
-        },
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 234706,
-      "name": "El Pa\u00f1uelo",
-      "url": "https://open.spotify.com/track/3c7H5RL3H6jFgDTbMxGBe9"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "LALISA",
         "url": "https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd"
       },
@@ -1339,30 +1339,6 @@
       "duration_ms": 168227,
       "name": "MONEY",
       "url": "https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "AM Remix",
-        "url": "https://open.spotify.com/album/1jTRS4KS666BesH1GUHyEV"
-      },
-      "artists": [
-        {
-          "name": "Nio Garcia",
-          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 261334,
-      "name": "AM Remix",
-      "url": "https://open.spotify.com/track/05bfbizlM5AX6Mf1RRyMho"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1387,6 +1363,30 @@
       "duration_ms": 204763,
       "name": "SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy)",
       "url": "https://open.spotify.com/track/09gysnJpfQ3ublBmJDfcEC"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "AM Remix",
+        "url": "https://open.spotify.com/album/1jTRS4KS666BesH1GUHyEV"
+      },
+      "artists": [
+        {
+          "name": "Nio Garcia",
+          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 261334,
+      "name": "AM Remix",
+      "url": "https://open.spotify.com/track/05bfbizlM5AX6Mf1RRyMho"
     },
     {
       "added_at": "2022-09-16 04:00:00",

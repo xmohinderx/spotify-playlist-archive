@@ -4,7 +4,7 @@
 
 > This is Descendents\. The essential tracks, all in one playlist.
 
-54 songs - 1 hr 59 min - [published](https://open.spotify.com/playlist/71DPVD0UJs9jy7z6tEeoxz)
+55 songs - 2 hr 2 min - [published](https://open.spotify.com/playlist/71DPVD0UJs9jy7z6tEeoxz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,9 +31,10 @@
 | [I'm Not a Loser](https://open.spotify.com/track/1XFG00rEeHaDIPOQv9LTYs) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Milo Goes to College](https://open.spotify.com/album/7ap2sARnQnkhfbUxYIEcu8) | 1:28 | 2022-09-16 |  |
 | [I'm Not a Punk](https://open.spotify.com/track/1VMnHHIyXnIWbkhhMoI9kM) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Milo Goes to College](https://open.spotify.com/album/7ap2sARnQnkhfbUxYIEcu8) | 1:04 | 2022-09-16 |  |
 | [I'm The One](https://open.spotify.com/track/5XXiK8GZjjmCHpBpUEm9z5) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Everything Sucks](https://open.spotify.com/album/2jUjrmnCfEEwvC4H2twuTI) | 2:15 | 2022-09-16 |  |
+| [Impressions](https://open.spotify.com/track/7L5ZNuxX0DMOqOKibohM0Q) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [All](https://open.spotify.com/album/02ZwlIiMwnSolCumjuSQ8U) | 3:08 | 2022-09-22 |  |
 | [In Love This Way](https://open.spotify.com/track/4LlmKr3eGaU3oxnvd84kY4) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [I Don't Want to Grow Up](https://open.spotify.com/album/5kOp5XHhmMoG2e41VyVQC0) | 2:32 | 2022-09-16 |  |
-| [It's A Hectic World](https://open.spotify.com/track/1wwJvz8aqieLQc8tZvYIX9) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [9th & Walnut](https://open.spotify.com/album/2nWhDLqVYsmlsiw1K2PkFs) | 1:37 | 2022-09-16 |  |
-| [Lullaby](https://open.spotify.com/track/2E9ttxZB1OpSmdkasZpYND) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [9th & Walnut](https://open.spotify.com/album/2nWhDLqVYsmlsiw1K2PkFs) | 1:01 | 2022-09-16 | 2022-09-22 |
+| [It's A Hectic World](https://open.spotify.com/track/1wwJvz8aqieLQc8tZvYIX9) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [9th & Walnut](https://open.spotify.com/album/2nWhDLqVYsmlsiw1K2PkFs) | 1:37 | 2022-09-16 | 2022-09-23 |
+| [Lullaby](https://open.spotify.com/track/2E9ttxZB1OpSmdkasZpYND) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [9th & Walnut](https://open.spotify.com/album/2nWhDLqVYsmlsiw1K2PkFs) | 1:01 | 2022-09-16 |  |
 | [Mass Nerder](https://open.spotify.com/track/7u972MeFIdqkmQodkqbBcx) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Cool to Be You](https://open.spotify.com/album/52RKlgHaL9hv8VjlVa3YkB) | 2:47 | 2022-09-16 |  |
 | [Myage](https://open.spotify.com/track/1PcPuR2vNpqNr88Cc2Lw8m) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Milo Goes to College](https://open.spotify.com/album/7ap2sARnQnkhfbUxYIEcu8) | 2:00 | 2022-09-16 |  |
 | [Nightage](https://open.spotify.com/track/0gNDfOiFi2HLe2uZerMAB7) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [9th & Walnut](https://open.spotify.com/album/2nWhDLqVYsmlsiw1K2PkFs) | 2:22 | 2022-09-16 |  |
@@ -46,8 +47,8 @@
 | [Rotting Out](https://open.spotify.com/track/4N22k5sUjgC4rTymY5ilpq) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Everything Sucks](https://open.spotify.com/album/2jUjrmnCfEEwvC4H2twuTI) | 1:57 | 2022-09-16 |  |
 | [Sailor's Choice](https://open.spotify.com/track/0HfSlRenXUSBpouR8DNQ8V) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [9th & Walnut](https://open.spotify.com/album/2nWhDLqVYsmlsiw1K2PkFs) | 1:14 | 2022-09-20 | 2022-09-22 |
 | [She Don't Care](https://open.spotify.com/track/1YvA35HudRjB00cQxYGUNa) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Cool to Be You](https://open.spotify.com/album/52RKlgHaL9hv8VjlVa3YkB) | 1:51 | 2022-09-16 |  |
-| [She Loves Me](https://open.spotify.com/track/67qUEZ8HOzdz3110FohG9k) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Everything Sucks](https://open.spotify.com/album/2jUjrmnCfEEwvC4H2twuTI) | 2:33 | 2022-09-16 | 2022-09-19 |
-| [Sick\-O\-Me](https://open.spotify.com/track/1fiN0tMqkUXr5rTmw109Qo) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Everything Sucks](https://open.spotify.com/album/2jUjrmnCfEEwvC4H2twuTI) | 1:46 | 2022-09-16 |  |
+| [She Loves Me](https://open.spotify.com/track/67qUEZ8HOzdz3110FohG9k) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Everything Sucks](https://open.spotify.com/album/2jUjrmnCfEEwvC4H2twuTI) | 2:33 | 2022-09-16 |  |
+| [Sick\-O\-Me](https://open.spotify.com/track/1fiN0tMqkUXr5rTmw109Qo) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Everything Sucks](https://open.spotify.com/album/2jUjrmnCfEEwvC4H2twuTI) | 1:46 | 2022-09-16 | 2022-09-23 |
 | [Silly Girl](https://open.spotify.com/track/1o0cObpbURSTFEoXSgmL6a) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [I Don't Want to Grow Up](https://open.spotify.com/album/5kOp5XHhmMoG2e41VyVQC0) | 2:25 | 2022-09-16 |  |
 | [Smile](https://open.spotify.com/track/5bgrq2ys7hfJXEdP6ZlrDR) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Hypercaffium Spazzinate \(Deluxe Edition\)](https://open.spotify.com/album/2hGGxQXnZpKXPmQJUgLGXS) | 3:10 | 2022-09-16 |  |
 | [Sour Grapes](https://open.spotify.com/track/1zX9ziH6fCwdtH3exHEIq8) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Enjoy!](https://open.spotify.com/album/2Yltds9OVHc9cd020ojrWg) | 3:51 | 2022-09-16 |  |
@@ -56,7 +57,7 @@
 | [Talking](https://open.spotify.com/track/5MbtRgGNhwK2KdJFt39a8L) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Cool to Be You](https://open.spotify.com/album/52RKlgHaL9hv8VjlVa3YkB) | 2:27 | 2022-09-16 |  |
 | [Testosterone](https://open.spotify.com/track/6jnunhDko6kFi4sVWFaR85) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Hypercaffium Spazzinate \(Deluxe Edition\)](https://open.spotify.com/album/2hGGxQXnZpKXPmQJUgLGXS) | 1:22 | 2022-09-18 | 2022-09-22 |
 | [That's The Breaks](https://open.spotify.com/track/6ITRdfrMgETFrRGlMj4KTs) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [That's The Breaks](https://open.spotify.com/album/7jBnEaexaIWaZvD7Bft29z) | 0:42 | 2022-09-16 |  |
-| [Tired of Being Tired](https://open.spotify.com/track/4u3eECXPRzUzQQVdiSmsoS) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [9th & Walnut](https://open.spotify.com/album/2nWhDLqVYsmlsiw1K2PkFs) | 1:16 | 2022-09-16 |  |
+| [Tired of Being Tired](https://open.spotify.com/track/4u3eECXPRzUzQQVdiSmsoS) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [9th & Walnut](https://open.spotify.com/album/2nWhDLqVYsmlsiw1K2PkFs) | 1:16 | 2022-09-16 | 2022-09-23 |
 | [Van](https://open.spotify.com/track/2SJHPnqYZPBAOFXqqiMUU9) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [All](https://open.spotify.com/album/02ZwlIiMwnSolCumjuSQ8U) | 3:01 | 2022-09-16 |  |
 | [Wendy](https://open.spotify.com/track/09zb1vmjubFswa5uUeCn58) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Enjoy!](https://open.spotify.com/album/2Yltds9OVHc9cd020ojrWg) | 2:19 | 2022-09-16 |  |
 | [When I Get Old](https://open.spotify.com/track/40AFXpAe4CDeT8DQ8jSDag) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Everything Sucks](https://open.spotify.com/album/2jUjrmnCfEEwvC4H2twuTI) | 2:29 | 2022-09-16 |  |

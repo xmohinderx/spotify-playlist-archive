@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels from Africa, updated every last Wednesday of the month\. Cover: <a href="https://open.spotify.com/artist/6dbTmlL5brq9B2fkUj2MQD?si=TEnCfCz1T7CFVelrX8RI5Q"> Preyé </a>, Artwork: Isu Kim.
 
-77 songs - 4 hr 0 min - not published yet
+77 songs - 4 hr 0 min - [published](https://open.spotify.com/playlist/6NtJBvt8QreX95xer9OMcd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

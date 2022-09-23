@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWThcryaU9mXU.md) - [plain]
 
 > When you want to be alone and the Blues is your soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,592 likes - 50 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,645 likes - 50 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWThcryaU9mXU.md) - [plain]
 | 43 | [When Will You Tell Him About Me?](https://open.spotify.com/track/3HG6C5B8ISRVDk8VumBo4m) | [Toronzo Cannon](https://open.spotify.com/artist/0zqygsU5SAxzfK5hop7As6) | [The Chicago Way](https://open.spotify.com/album/4v5H921Ld53iepB3Ut49tS) | 4:29 |
 | 44 | [Love Is Gone](https://open.spotify.com/track/72H7XGrB55Uh7IOxlPD6u6) | [Deb Ryder](https://open.spotify.com/artist/6dc6gOm9RKiBTEpUGe1NZ3) | [Memphis Moonlight](https://open.spotify.com/album/190SoOYPW7oceXrstDTvp8) | 4:48 |
 | 45 | [Lonesome Road Blues](https://open.spotify.com/track/1lp1zm1MSYzwt3vAPhdIMQ) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Muddy Waters Sings Big Bill Broonzy](https://open.spotify.com/album/2ULAVn0TXR0ISBy9v8iCrU) | 3:03 |
-| 46 | [I Walk Alone](https://open.spotify.com/track/350WfWVJnoUixMboTKUPpS) | [Michael Hardie](https://open.spotify.com/artist/0hoFPHvdknXhVTBp1nq17S) | [Waiting For Perfection](https://open.spotify.com/album/3l6RCXBpentPUrP9AcrL5O) | 6:15 |
-| 47 | [Blues Keep Chasing Me](https://open.spotify.com/track/3GK95DlclAn2RFYY36IHoc) | [Kenny Neal](https://open.spotify.com/artist/2YNoaobWamjDPop3nk9xMQ) | [Straight from the Heart](https://open.spotify.com/album/2owcIwahZSfIqs5v4i86dQ) | 4:22 |
+| 46 | [Blues Keep Chasing Me](https://open.spotify.com/track/3GK95DlclAn2RFYY36IHoc) | [Kenny Neal](https://open.spotify.com/artist/2YNoaobWamjDPop3nk9xMQ) | [Straight from the Heart](https://open.spotify.com/album/2owcIwahZSfIqs5v4i86dQ) | 4:22 |
+| 47 | [I Walk Alone](https://open.spotify.com/track/350WfWVJnoUixMboTKUPpS) | [Michael Hardie](https://open.spotify.com/artist/0hoFPHvdknXhVTBp1nq17S) | [Waiting For Perfection](https://open.spotify.com/album/3l6RCXBpentPUrP9AcrL5O) | 6:15 |
 | 48 | [I Need Love So Bad](https://open.spotify.com/track/33XNrhJHyTEl38KwTZV0QV) | [Junior Parker](https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u) | [Next Time You See Me](https://open.spotify.com/album/47tUqkIpGOM1Mpn8dkCzmx) | 2:36 |
 | 49 | [No More Lonely Nights](https://open.spotify.com/track/2JrOFXxwVO0duMSxfhwUXN) | [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [Best Of The Vanguard Years](https://open.spotify.com/album/50S1EIpm4XRJhZQEAzcMh3) | 5:19 |
-| 50 | [Sanctified, Holy And Hateful](https://open.spotify.com/track/2M3KYbPJPfKOCWN75MZZXa) | [Nick Moss Band](https://open.spotify.com/artist/6B3fdJhhhAVJ4RTrFAptMM), [Dennis Gruenling](https://open.spotify.com/artist/56M0TPfeix1WjBuylxkVeG) | [Lucky Guy!](https://open.spotify.com/album/5tWeZuFba1X0sJPBnj2oW3) | 5:29 |
+| 50 | [Someone Broke This Heart Of Mine](https://open.spotify.com/track/1TX9nidaWJmR3KyHxrSz8h) | [Little Junior Parker](https://open.spotify.com/artist/5AZroUSVLr1sdkgCAfv1kM) | [Driving Wheel](https://open.spotify.com/album/5RqYLf8ScgXBcrNRWoyQrP) | 2:14 |
 
-Snapshot ID: `MTY2MDkzMDU3MSwwMDAwMDAwMGYyZTg4MDk5NmVmYjhhMGI4Mzg3N2Q2ZTczMjBmNDU5`
+Snapshot ID: `MTY2MDkzMDU3MSwwMDAwMDAwMDgyMmU3MTIzMTUzZTYxZWFiNWIwNjAyZGMxNjMxZmJk`

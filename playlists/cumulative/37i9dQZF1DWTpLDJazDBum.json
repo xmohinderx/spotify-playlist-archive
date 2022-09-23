@@ -4000,6 +4000,24 @@
     },
     {
       "album": {
+        "name": "up2nogood",
+        "url": "https://open.spotify.com/album/3tXM6TH3dp2aYWJRaIoox4"
+      },
+      "artists": [
+        {
+          "name": "Blac Bamboo",
+          "url": "https://open.spotify.com/artist/4ypPDohUBzURhyETVv552h"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196733,
+      "name": "up2nogood",
+      "url": "https://open.spotify.com/track/4Qf1wyD1SYIo8oxqSacGEi"
+    },
+    {
+      "album": {
         "name": "Vaguely Familiar",
         "url": "https://open.spotify.com/album/4qSkBz77XobKTbhPfktVNs"
       },

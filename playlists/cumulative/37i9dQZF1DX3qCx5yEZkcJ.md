@@ -4,7 +4,7 @@
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
-401 songs - 16 hr 19 min - [published](https://open.spotify.com/playlist/79bD32Mo8Na66JzRH4c1HB)
+402 songs - 16 hr 22 min - [published](https://open.spotify.com/playlist/79bD32Mo8Na66JzRH4c1HB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -248,6 +248,7 @@
 | [Oak](https://open.spotify.com/track/4QrLXFESrpnpf6TXJsM1rX) | [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN), [cocabona](https://open.spotify.com/artist/5V8HGb7Pt982HEbpmglIYT) | [Oak](https://open.spotify.com/album/0vdKiuQsAHix0sDjoiwngg) | 2:50 | 2020-07-18 | 2022-01-07 |
 | [Ocean Waves](https://open.spotify.com/track/03qYV8hat9j4ttaPN2HKfh) | [Alberto Droguett](https://open.spotify.com/artist/4T90xdfrulR6Kr4dm4XnrC), [Axian](https://open.spotify.com/artist/3sdeNhCYLAMuRVsJPMNYO6), [Alcynoos](https://open.spotify.com/artist/2rUcJCZNHIVPJ5iZUbnUkY), [Aywee Tha Seed & Kydual](https://open.spotify.com/artist/4E7QYvNiTmh0VcrmKsQ3RH) | [Ocean Waves](https://open.spotify.com/album/3zpNlJKA8tRRvUzE4mpuMP) | 2:49 | 2020-06-29 | 2022-07-29 |
 | [Ocean Waves](https://open.spotify.com/track/0bUUIbkmZZARHVRbukkdUJ) | [Axian](https://open.spotify.com/artist/3sdeNhCYLAMuRVsJPMNYO6), [Alberto Droguett](https://open.spotify.com/artist/4T90xdfrulR6Kr4dm4XnrC), [Alcynoos](https://open.spotify.com/artist/2rUcJCZNHIVPJ5iZUbnUkY), [Aywee Tha Seed](https://open.spotify.com/artist/2YAav0Cd12Zf7fh1cQYi62), [Kydual](https://open.spotify.com/artist/08HyLTxC7A2TTg8u52KNBK) | [Soul Searching](https://open.spotify.com/album/6efynV2ZemtiA8m8VIhfNX) | 2:49 | 2022-07-28 |  |
+| [ode to N](https://open.spotify.com/track/3kKypbU1yMlHWc33em5aIO) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [ode to N](https://open.spotify.com/album/0Og7hHFQfX0OW028kjJelF) | 2:14 | 2022-09-22 |  |
 | [Ol' Chip](https://open.spotify.com/track/0GGEOadYmcgeypcAe30pcE) | [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a), [Sling Dilly](https://open.spotify.com/artist/5FdaPPagFvA9neahVC3bAO) | [Ol' Chip / JayJay](https://open.spotify.com/album/79KtjGUVfHK6U2PNtHfaNH) | 1:17 | 2019-05-26\* | 2021-10-29 |
 | [On It](https://open.spotify.com/track/2GVxtwwychjHFKVut3Osls) | [jus.](https://open.spotify.com/artist/7srPSgvqbQ7wyI84WV1LXx) | [BLESS Vol\. 2](https://open.spotify.com/album/0rXue3LLSLUXoMatPLmxuU) | 2:52 | 2019-05-26\* | 2019-08-13 |
 | [On My Way Home](https://open.spotify.com/track/3UwKfXx1SdJSxnzG2gYkgc) | [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [On My Way Home](https://open.spotify.com/album/6bO5QKKe9OAyMHQ2RryMou) | 3:14 | 2020-03-07 | 2020-06-22 |
@@ -284,7 +285,7 @@
 | [Recollection](https://open.spotify.com/track/7a55wM8GN7WcT7UXX3zBRK) | [Shingo Sekiguchi](https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9) | [Recollection](https://open.spotify.com/album/5hPbTTsCGBDi5XVUUBYqge) | 2:41 | 2020-10-02 | 2021-09-10 |
 | [Recuring Dream](https://open.spotify.com/track/6dB6YYgBOPtzt37Fa0M8Eh) | [Elaquent](https://open.spotify.com/artist/14rl122F3uMCloqdEVV9WL) | [The Scenic Route](https://open.spotify.com/album/7wbY6nhgh48vz5QGOGJDEo) | 2:53 | 2019-05-26\* |  |
 | [Red moon](https://open.spotify.com/track/2F66lTUMuqkuuFCBSbXn0t) | [hiyasu](https://open.spotify.com/artist/7lNkPk6OeVKmPuLs1aRGNc) | [Red moon](https://open.spotify.com/album/3TKBZuqZUWoFxFZ1M1TqhA) | 2:21 | 2019-05-26\* | 2022-07-28 |
-| [Red moon](https://open.spotify.com/track/5TGFhHolLkIp7ZO799qypV) | [hiyasu](https://open.spotify.com/artist/7lNkPk6OeVKmPuLs1aRGNc) | [Red moon](https://open.spotify.com/album/1Avmt8F962GtbwfKTylowU) | 2:21 | 2022-08-04 |  |
+| [Red moon](https://open.spotify.com/track/5TGFhHolLkIp7ZO799qypV) | [hiyasu](https://open.spotify.com/artist/7lNkPk6OeVKmPuLs1aRGNc) | [Red moon](https://open.spotify.com/album/1Avmt8F962GtbwfKTylowU) | 2:21 | 2022-08-04 | 2022-09-23 |
 | [Red Phase, Part One](https://open.spotify.com/track/6riOshSCGusBuhC9okwNBS) | [Kabuki](https://open.spotify.com/artist/7eRc93g1wju97Og3KYVsEB) | [The Crucible \(Red Phase\)](https://open.spotify.com/album/4zcIVoAVEim9lIROJk7fhv) | 2:58 | 2021-06-12 | 2021-09-02 |
 | [reflection eternal](https://open.spotify.com/track/6eGMwVVABqVTe9bWRIm498) | [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ) | [Modal Soul](https://open.spotify.com/album/6nVACH6a27eOWiumAJhDWS) | 4:17 | 2020-03-27 | 2021-10-12 |
 | [Reminisce](https://open.spotify.com/track/3dqasc8Jr0GI6mXF7nWymv) | [Jake Milliner](https://open.spotify.com/artist/5GbsEElDfxIjlM3rknGexS), [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI), [Marcus Tenney](https://open.spotify.com/artist/4nujeeZvLhAuw47XvmeTRq) | [Reminisce](https://open.spotify.com/album/3ChXg4GZXHN2ZJuvPOgA51) | 3:36 | 2019-08-31 | 2020-06-29 |

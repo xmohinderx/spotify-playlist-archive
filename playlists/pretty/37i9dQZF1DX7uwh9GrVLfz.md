@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7uwh9GrVLfz.md) - [plain]
 
 > The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: dustbox
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,917 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,978 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,17 +84,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7uwh9GrVLfz.md) - [plain]
 | 74 | [Steady](https://open.spotify.com/track/0Rm6wPl6VhHbUKJ1NnxFnX) | [SHANK](https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF) | [STEADY](https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w) | 2:30 |
 | 75 | [愛するPOW](https://open.spotify.com/track/319lAdDWeZxW4YH3nFECUo) | [B\-DASH](https://open.spotify.com/artist/1ZUagrWzR2kve94ptFLdSz) | [ぽ](https://open.spotify.com/album/4Ug3HlCExkmj08eGUifjbY) | 3:20 |
 | 76 | [今夜](https://open.spotify.com/track/3OIZncmhlLb29Ude4fffmj) | [BRAHMAN](https://open.spotify.com/artist/65ZxfiilUIYWNEpDjrHaM5) | [梵唄 \-bonbai\-](https://open.spotify.com/album/15iY1BT28NYAxP1I6TTkXx) | 4:25 |
-| 77 | [Flying high](https://open.spotify.com/track/3uM3wcAM64onS9OhojdapX) | [GOOD4NOTHING](https://open.spotify.com/artist/32VxoMUMRUcnYscQ9gAWar) | [BACK 4 GOOD](https://open.spotify.com/album/1syONVFETJSiHYHVlW4myu) | 3:21 |
-| 78 | [Sparkle Light](https://open.spotify.com/track/47sohv5VFYwm24JRhCz3KF) | [The Winking Owl](https://open.spotify.com/artist/08aT4nW2iKh4WRoYojWmDE) | [BLOOMING](https://open.spotify.com/album/2XQmTky0Y8phmyKDurxUDN) | 3:13 |
+| 77 | [Sparkle Light](https://open.spotify.com/track/47sohv5VFYwm24JRhCz3KF) | [The Winking Owl](https://open.spotify.com/artist/08aT4nW2iKh4WRoYojWmDE) | [BLOOMING](https://open.spotify.com/album/2XQmTky0Y8phmyKDurxUDN) | 3:13 |
+| 78 | [Flying high](https://open.spotify.com/track/3uM3wcAM64onS9OhojdapX) | [GOOD4NOTHING](https://open.spotify.com/artist/32VxoMUMRUcnYscQ9gAWar) | [BACK 4 GOOD](https://open.spotify.com/album/1syONVFETJSiHYHVlW4myu) | 3:21 |
 | 79 | [B・M・W](https://open.spotify.com/track/3CBy99A0i7gTKOjOSSIw53) | [Snail Ramp](https://open.spotify.com/artist/1FXeQKrufIqfjNAPPV4bfx) | [FRESH BRASH OLD MAN](https://open.spotify.com/album/6I3h8d1qKsleQ1iq9nQCwH) | 2:37 |
 | 80 | [Thanks](https://open.spotify.com/track/6AAJi0tGZxjbLKK2fIuZkU) | [Over Arm Throw](https://open.spotify.com/artist/0ULdhIbhpUx97klXlmINML) | [Oath and Night War](https://open.spotify.com/album/3DpriibTdXfiioI41LKUxS) | 2:48 |
 | 81 | [アオ](https://open.spotify.com/track/2XcpaIgYulHpwEESRX8L70) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [アオ](https://open.spotify.com/album/12LkKpoe7EkrIZhiZqHNb1) | 3:44 |
 | 82 | [Chain Reaction](https://open.spotify.com/track/2Nu30TK5pHMHxjiVJQ7gxr) | [SHADOWS](https://open.spotify.com/artist/0VyVlaKyEJ2NFJnxxYgyt3) | [illuminate](https://open.spotify.com/album/009caNHfVz7CyPVjKyZnqC) | 3:23 |
-| 83 | [FAR EAST DISCO](https://open.spotify.com/track/7nzAb5aXJKYAIbLwpXIenx) | [Wienners](https://open.spotify.com/artist/5NNgHGA4nj68wC8K3lR0n0) | [BURST POP ISLAND](https://open.spotify.com/album/3iwkOy5OBbRrPllfeD0kYV) | 3:41 |
-| 84 | [夏の日の午後](https://open.spotify.com/track/0EjdWwzbKRIb3xoyVyzLXP) | [Eastern Youth](https://open.spotify.com/artist/5Y2k6C2UgQVRd3zzsx1CcH) | [旅路ニ季節ガ燃エ落チル](https://open.spotify.com/album/3c2QAlEKyYSei9beAMgOnB) | 5:46 |
+| 83 | [Chain of Emotions](https://open.spotify.com/track/6TD4IgWz4W3tyyh2MBUY7S) | [The Winking Owl](https://open.spotify.com/artist/08aT4nW2iKh4WRoYojWmDE) | [Into Another World](https://open.spotify.com/album/633gkF2gOK4kJGTiCfNoWl) | 4:07 |
+| 84 | [FAR EAST DISCO](https://open.spotify.com/track/7nzAb5aXJKYAIbLwpXIenx) | [Wienners](https://open.spotify.com/artist/5NNgHGA4nj68wC8K3lR0n0) | [BURST POP ISLAND](https://open.spotify.com/album/3iwkOy5OBbRrPllfeD0kYV) | 3:41 |
 | 85 | [HOTARU NO HIKARI](https://open.spotify.com/track/7u0uQ6LPgE5weRPJx8XzzF) | [Snail Ramp](https://open.spotify.com/artist/1FXeQKrufIqfjNAPPV4bfx), [AIR](https://open.spotify.com/artist/1tY72Ioe4SGlALcoIDlCa1) | [GRAVITY](https://open.spotify.com/album/7AotoltMCQTbLyVq73371i) | 3:40 |
 | 86 | [ZINNIA](https://open.spotify.com/track/453y9UfKiUqrGNOAYcGvhh) | [Over Arm Throw](https://open.spotify.com/artist/0ULdhIbhpUx97klXlmINML) | [Oath and Night War](https://open.spotify.com/album/3DpriibTdXfiioI41LKUxS) | 3:02 |
-| 87 | [Chain of Emotions](https://open.spotify.com/track/6TD4IgWz4W3tyyh2MBUY7S) | [The Winking Owl](https://open.spotify.com/artist/08aT4nW2iKh4WRoYojWmDE) | [Into Another World](https://open.spotify.com/album/633gkF2gOK4kJGTiCfNoWl) | 4:07 |
+| 87 | [夏の日の午後](https://open.spotify.com/track/0EjdWwzbKRIb3xoyVyzLXP) | [Eastern Youth](https://open.spotify.com/artist/5Y2k6C2UgQVRd3zzsx1CcH) | [旅路ニ季節ガ燃エ落チル](https://open.spotify.com/album/3c2QAlEKyYSei9beAMgOnB) | 5:46 |
 | 88 | [The Dream Is Not Dead](https://open.spotify.com/track/45YAIPPE3My3zoqOJJnLc8) | [Dizzy Sunfist](https://open.spotify.com/artist/66TdubACxGacvormjPazAk) | [DREAMS NEVER END](https://open.spotify.com/album/1YLr4saK1uW4JUk87gLqMD) | 3:23 |
 | 89 | [オトナノススメ](https://open.spotify.com/track/7L23l0zf58d4fFN4KEz903) | [Dohatsuten](https://open.spotify.com/artist/2UUHBIbp6MHWflVwNbPUOE) | [オトナマイト・ダンディー](https://open.spotify.com/album/74xgGFWbafTwQkfUI5d6Av) | 4:45 |
 | 90 | [Ohichyo](https://open.spotify.com/track/4PCTknCvdlBSZuOw9gpH6F) | [KEMURI](https://open.spotify.com/artist/3tRqvT7FoScxartUAj68Wp) | [77 Days](https://open.spotify.com/album/2MGPBJ3elGWwjgKRBXy1ib) | 2:23 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7uwh9GrVLfz.md) - [plain]
 | 99 | [Whistle](https://open.spotify.com/track/5EJlRKWkHK2MrXQYiTcJl2) | [SCAFULL KING](https://open.spotify.com/artist/2tIt3Fx2TGWQqdz6uyDHmS) | [SCAtegory](https://open.spotify.com/album/3hoGg8akRjWHeU1fpI3byQ) | 2:30 |
 | 100 | [CHANGES](https://open.spotify.com/track/2LJu1JfpZw1ekxaHGMIam3) | [NAMBA69](https://open.spotify.com/artist/3ZHCgdbzqHYDjPTVZG87gs) | [CHANGES](https://open.spotify.com/album/0N9hph6Prr4UgH9ah1EZaH) | 3:23 |
 
-Snapshot ID: `MTY2MzY4NjAwMCwwMDAwMDAwMDFjNDE2NDliMmUxY2FjY2VlMTBhOTFkNmIyZjE1ZDdi`
+Snapshot ID: `MTY2MzY4NjAwMCwwMDAwMDAwMGMzNWIwMjYwMjQ1YmZmN2E0YmFiNTY5NmQ5ZmNmZmM5`

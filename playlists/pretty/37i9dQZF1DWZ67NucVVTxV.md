@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ67NucVVTxV.md) - [plain]
 
 > Grind day motivation
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,365 likes - 90 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,403 likes - 90 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

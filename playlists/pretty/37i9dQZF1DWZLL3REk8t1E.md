@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLL3REk8t1E.md) - [plain]
 
 > ¡A calentar garganta!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,083,633 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,083,854 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,12 +73,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLL3REk8t1E.md) - [plain]
 | 63 | [Me Vas A Extrañar](https://open.spotify.com/track/47UjuR24Bp3LgCTHNTynXu) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Lo Mejor De Nosotros](https://open.spotify.com/album/6DKj6CdMCUYRYJ4BnJnjd0) | 4:20 |
 | 64 | [Te Lloré Un Río \- Versión Mariacheño](https://open.spotify.com/track/04firplM7voiFmGWNTI3Va) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Te Lloré Un Río](https://open.spotify.com/album/7GV5uaJVmICyAAdEoUgKbd) | 3:29 |
 | 65 | [Vas A Llorar Por Mí](https://open.spotify.com/track/0Ndim92MYsrFSseD9gbBcg) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Haciendo Historia](https://open.spotify.com/album/3rgETN4XlGeTJaU4w1BfEO) | 3:30 |
-| 66 | [Los Caminos de la Vida \- Spotify Singles](https://open.spotify.com/track/0LPcBW66vudTxR0HcauKNy) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Los Caminos de la Vida \(Spotify Singles\)](https://open.spotify.com/album/1GdDkx6ATOjvmbi7AYDtq5) | 5:28 |
-| 67 | [El Malo](https://open.spotify.com/track/6mLX6uVPp6uLlBVim1rR82) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [El Malo](https://open.spotify.com/album/4fvBzXczcpD346IFgtWnaI) | 2:57 |
+| 66 | [El Malo](https://open.spotify.com/track/6mLX6uVPp6uLlBVim1rR82) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [El Malo](https://open.spotify.com/album/4fvBzXczcpD346IFgtWnaI) | 2:57 |
+| 67 | [Los Caminos de la Vida \- Spotify Singles](https://open.spotify.com/track/0LPcBW66vudTxR0HcauKNy) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Los Caminos de la Vida \(Spotify Singles\)](https://open.spotify.com/album/1GdDkx6ATOjvmbi7AYDtq5) | 5:28 |
 | 68 | [Compré Una Cantina](https://open.spotify.com/track/2fKafjPt7Pkl2WXPhOy9gM) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Compraron Una Cantina](https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk) | 2:39 |
 | 69 | [Fuiste Mía](https://open.spotify.com/track/0QRHEmvbFr73h5Fyk33fji) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Hoy Más Fuerte](https://open.spotify.com/album/2OAr7CKU64w3VzHkSsdC46) | 2:11 |
-| 70 | [Si Nos Dejan \- En Vivo](https://open.spotify.com/track/7nAvryV9PVCt9PQGPx7I0z) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [El Concierto](https://open.spotify.com/album/6efyUFJcUK18KRFTMoxNSI) | 2:32 |
-| 71 | [Le Dije Al Corazón](https://open.spotify.com/track/23IJBnRVYyPd2GD0mAkZTp) | [Duelo](https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq) | [En El Area De Sueños](https://open.spotify.com/album/6pHjYeVeqfrhY7urDyaand) | 2:33 |
+| 70 | [Le Dije Al Corazón](https://open.spotify.com/track/23IJBnRVYyPd2GD0mAkZTp) | [Duelo](https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq) | [En El Area De Sueños](https://open.spotify.com/album/6pHjYeVeqfrhY7urDyaand) | 2:33 |
+| 71 | [Si Nos Dejan \- En Vivo](https://open.spotify.com/track/7nAvryV9PVCt9PQGPx7I0z) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [El Concierto](https://open.spotify.com/album/6efyUFJcUK18KRFTMoxNSI) | 2:32 |
 | 72 | [Ya Es Muy Tarde](https://open.spotify.com/track/47ehW8KNY6XhEtwMYAY0br) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Colección Privada "Las 20 Exclusivas"](https://open.spotify.com/album/4hueGGPMBXDsGn9Zjv7uvB) | 3:01 |
 | 73 | [A Través Del Vaso](https://open.spotify.com/track/1uqjLVaSyTkdDvfGAmXrHo) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [A Través Del Vaso](https://open.spotify.com/album/27hMg5MlBaww37hBPzS0ot) | 3:00 |
 | 74 | [Y Llegaste Tú](https://open.spotify.com/track/3DqQhY5S4RIWIoFuowD7kX) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Contigo Por Siempre](https://open.spotify.com/album/10bfwCIfySATCoekmUjeab) | 3:16 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLL3REk8t1E.md) - [plain]
 | 99 | [Ya No Quiero Andar Contigo](https://open.spotify.com/track/00XB6UnshchPDNdCvXzokD) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh) | [Ya No Quiero Andar Contigo](https://open.spotify.com/album/00xw9cwU9fJbQKQrCHYDJI) | 3:32 |
 | 100 | [Desaires](https://open.spotify.com/track/1Kr3Yod5u7TrZMTPqOeNto) | [Laraim](https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Pa' Los Dolidos](https://open.spotify.com/album/2GQFwhWhS0guyuKxD7hoMi) | 2:41 |
 
-Snapshot ID: `MTY1OTU1MzE2NiwwMDAwMDAwMDI0ZWVjMDE1M2Y5NDgyNjFiZmU3NTI0M2ExZDVlZjI3`
+Snapshot ID: `MTY1OTU1MzE2NiwwMDAwMDAwMDg1MzgxMjgxNzVjNjRkNGQ2ZGZiZmNmNGJmZGM5NjM1`

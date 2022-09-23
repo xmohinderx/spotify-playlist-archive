@@ -2,13 +2,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaiDZ16BA15.md) - [plain]
 
 ### [Giolì & Assia's DJ Mix](https://open.spotify.com/playlist/37i9dQZF1DWZaiDZ16BA15)
 
-> Italian duo <a href="spotify:artist:6PozOimyS8a9OxMddMSBCf">Giolì & Assia</a> deliver a mix featuring tracks from their most recent album and deep, melodic selections.
+> Italian duo <a href="spotify:artist:6mM9a86Nrw0y7f9MaJGbpU">Giolì & Assia</a> deliver a mix featuring tracks from their most recent album and deep, melodic selections.
 
-[Spotify](https://open.spotify.com/user/spotify) - 992 likes - 18 songs - 1 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,199 likes - 18 songs - 1 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Playing Chess \(Prelude\) \- Mixed](https://open.spotify.com/track/2xmIzWmqX82is1CeoxSNHv) | [Giolì & Assia](https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU) | [Playing Chess \(Prelude\) \[Mixed\]](https://open.spotify.com/album/7H4KbZS9tkIxKSoQPeJJlF) | 1:15 |
+| 1 | [Playing Chess \(Prelude\)](https://open.spotify.com/track/2pP3PPZ2tiXDX6ifjTEB0X) | [Giolì & Assia](https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU) | [Fire Hell and Holy Water](https://open.spotify.com/album/0ZTKj2OdsF2gI2npmAADAQ) | 1:16 |
 | 2 | [Playing Chess \- Mixed](https://open.spotify.com/track/6dTXkqYUn2guNpC83JML9g) | [Giolì & Assia](https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU) | [Playing Chess \(Mixed\)](https://open.spotify.com/album/0rr8n4nWYMbJBFJF6TjQ0g) | 3:41 |
 | 3 | [Transparent \- Mixed](https://open.spotify.com/track/2qPuHzvZkF9w1gixNFgdBq) | [Ziger](https://open.spotify.com/artist/33L8FupX5olugmSnrRpYUQ) | [Transparent \(Mixed\)](https://open.spotify.com/album/0C0xvs9FJ8XiEcW0N2fRuc) | 4:42 |
 | 4 | [Keia \- Modeplex Remix \- Mixed](https://open.spotify.com/track/4X5wslsbAuXiW5QppGrWU1) | [Artaria](https://open.spotify.com/artist/54LH798QKraEZosT57zMqU), [Modeplex](https://open.spotify.com/artist/1NnerRuA7QMi4ILFMoQsaU) | [Keia \- Modeplex Remix \(Mixed\)](https://open.spotify.com/album/2zEcR5TZtB6kM5fKoHsd8L) | 5:12 |
@@ -27,4 +27,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaiDZ16BA15.md) - [plain]
 | 17 | [Hela \- Mixed](https://open.spotify.com/track/7JJ6NykhLd1aYbYKTfVg4F) | [biskuwi](https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT) | [Hela \(Mixed\)](https://open.spotify.com/album/6ygiIWvvJmTSUeqnzveu5s) | 4:05 |
 | 18 | [Fire Hell and Holy Water \- Mixed](https://open.spotify.com/track/745qUk66s5pDjIgdqRMO8Y) | [Giolì & Assia](https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU) | [Fire Hell and Holy Water \(Mixed\)](https://open.spotify.com/album/5oIrhfrHjMRvPwpC0u3CyO) | 3:29 |
 
-Snapshot ID: `MTY2Mzc3MDY5NSwwMDAwMDAwMGJiNmNkMDk4NDZlYTc5YWY4MjkyOThkOTQ1MWQ2YmYx`
+Snapshot ID: `MTY2MzgzMjI3MiwwMDAwMDAwMGFlODhlNWM3MjAxOGM4ZmY1YmExOWU0M2U1Mjg3ZWUy`

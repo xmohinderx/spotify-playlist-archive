@@ -463,7 +463,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 164466,
       "name": "Anya",
       "url": "https://open.spotify.com/track/1iD1gkUhOrj6fD5QrFrA8b"
@@ -851,7 +851,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-21",
+      "date_removed": null,
       "duration_ms": 170869,
       "name": "BAZ+ - T\u00fal vagyok rajtad",
       "url": "https://open.spotify.com/track/6ofxXXTKk1UyRj9YkkWh3u"
@@ -1747,6 +1747,24 @@
       "duration_ms": 141147,
       "name": "Costa Rica",
       "url": "https://open.spotify.com/track/3q8b8Rn1UB0bG9QG2yBgIQ"
+    },
+    {
+      "album": {
+        "name": "Csinibaba",
+        "url": "https://open.spotify.com/album/21YFZ4eoDDoj1KPnhhFaY7"
+      },
+      "artists": [
+        {
+          "name": "Kiss Kevin",
+          "url": "https://open.spotify.com/artist/2qiyCYzYvsFEsMn1gSMNed"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Csinibaba",
+      "url": "https://open.spotify.com/track/33zWUivvsRkfnOYx4FUmPt"
     },
     {
       "album": {
@@ -6607,7 +6625,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 244962,
       "name": "OFFWHITE",
       "url": "https://open.spotify.com/track/02CdOh37OAq88RNK1WL8TD"

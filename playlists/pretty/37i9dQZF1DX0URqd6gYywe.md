@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0URqd6gYywe.md) - [plain]
 
 > Dejate llevar por los mejores lentos del rock\. Foto: Babasónicos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,605 likes - 75 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,679 likes - 75 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,10 +28,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0URqd6gYywe.md) - [plain]
 | 18 | [Personalmente](https://open.spotify.com/track/7q7XFO9av9VpNJSXKJwJxD) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Despierta](https://open.spotify.com/album/0289kJfdXVBPSDJfQ1fPJz) | 4:10 |
 | 19 | [Mírenla](https://open.spotify.com/track/0WuKq2LiraBFney78dzwoc) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [27](https://open.spotify.com/album/53SyvU4UwkCQc2jqZJc0Bo) | 4:16 |
 | 20 | [La Batalla](https://open.spotify.com/track/3MLYtPOOPhzmmsL5yLLFqu) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [La Batalla](https://open.spotify.com/album/4Xd4pfERdR1UulMgvMvfNf) | 4:56 |
-| 21 | [Juntos a la Par](https://open.spotify.com/track/1Ig4pCPanhzXl7C86MmBUc) | [Pappo](https://open.spotify.com/artist/1db5TWniHR7iqwXer7AiQ2) | [Buscando un Amor](https://open.spotify.com/album/4AMgSDaOROvCGSNSz3rfYw) | 2:41 |
-| 22 | [Te quiero igual](https://open.spotify.com/track/7qIw4D1PcDHigDohKkLB0W) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Honestidad Brutal](https://open.spotify.com/album/4OZincs6XqlfEuKEFtpq1Y) | 3:55 |
+| 21 | [Te quiero igual](https://open.spotify.com/track/7qIw4D1PcDHigDohKkLB0W) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Honestidad Brutal](https://open.spotify.com/album/4OZincs6XqlfEuKEFtpq1Y) | 3:55 |
+| 22 | [Campanas en la Noche](https://open.spotify.com/track/0C9V5jMElp7laZZdsCHufD) | [Los Tipitos](https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt) | [Armando Camaleón](https://open.spotify.com/album/1d8IGsUrIw7cXqFcwUM5pP) | 3:57 |
 | 23 | [A Las Nueve](https://open.spotify.com/track/68cko9zdsKwaxgb98sF36S) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Otras Canciones](https://open.spotify.com/album/72SqrtijWJKq6ukitktd1D) | 3:22 |
-| 24 | [Campanas en la Noche](https://open.spotify.com/track/0C9V5jMElp7laZZdsCHufD) | [Los Tipitos](https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt) | [Armando Camaleón](https://open.spotify.com/album/1d8IGsUrIw7cXqFcwUM5pP) | 3:57 |
+| 24 | [Juntos a la Par](https://open.spotify.com/track/1Ig4pCPanhzXl7C86MmBUc) | [Pappo](https://open.spotify.com/artist/1db5TWniHR7iqwXer7AiQ2) | [Buscando un Amor](https://open.spotify.com/album/4AMgSDaOROvCGSNSz3rfYw) | 2:41 |
 | 25 | [Esa Estrella Era Mi Lujo](https://open.spotify.com/track/5exsngywf8qMS6f00gKVWY) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [¡Bang! ¡Bang!..\. Estás Liquidado](https://open.spotify.com/album/07hue2DRapyJHxGJBROTYb) | 2:56 |
 | 26 | [Será](https://open.spotify.com/track/60IzIxSuVAtU71yCmHjxHH) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Esperando el Milagro](https://open.spotify.com/album/7nXlmH0p6PfgKTsxy3DzCT) | 3:01 |
 | 27 | [Veneno](https://open.spotify.com/track/3qSsdVel7dNcpW4khZejHa) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Despedazado Por Mil Partes](https://open.spotify.com/album/0eH6ICTcUbNqjplgRISQEg) | 4:08 |
@@ -68,20 +68,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0URqd6gYywe.md) - [plain]
 | 58 | [Oxidado](https://open.spotify.com/track/32YkpyPZ6taMEEb8TBLcrr) | [Los Caballeros De La Quema](https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW) | [La Paciencia De La Araña](https://open.spotify.com/album/7urCdolaxQ3YUQlI8Bhj41) | 5:17 |
 | 59 | [Heroína](https://open.spotify.com/track/7ERzS9KIggtCp9oslPzEc0) | [Sumo](https://open.spotify.com/artist/10AzTrYMPVVmpKoBP5bX9W) | [Llegando Los Monos](https://open.spotify.com/album/2kn0EF90FuahMHtPpwVsX4) | 5:41 |
 | 60 | [Etiqueta Negra](https://open.spotify.com/track/6XaH8Mw8EvzVrFQ5ww5rLm) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [Cordero Atado](https://open.spotify.com/album/2qP2OCdnHQz3cwrxyqjzEk) | 5:36 |
-| 61 | [Como un Cuento](https://open.spotify.com/track/3EissuXjQZQrjpHh8gRCG1) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Narigón del Siglo, Yo Te Dejo Perfumado en la Esquina para Siempre](https://open.spotify.com/album/4GkZExYLfegidZaO1BgpvU) | 4:46 |
-| 62 | [Te Encontré \(Acústico\)](https://open.spotify.com/track/1yB0GiaDvlGfLDJlaHSJyl) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [Guerras \(Un Viaje en el Tiempo\)](https://open.spotify.com/album/7n628eTRFQ2E1Bp6hBjZYR) | 3:14 |
+| 61 | [Te Encontré \(Acústico\)](https://open.spotify.com/track/1yB0GiaDvlGfLDJlaHSJyl) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [Guerras \(Un Viaje en el Tiempo\)](https://open.spotify.com/album/7n628eTRFQ2E1Bp6hBjZYR) | 3:14 |
+| 62 | [Como un Cuento](https://open.spotify.com/track/3EissuXjQZQrjpHh8gRCG1) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Narigón del Siglo, Yo Te Dejo Perfumado en la Esquina para Siempre](https://open.spotify.com/album/4GkZExYLfegidZaO1BgpvU) | 4:46 |
 | 63 | [Hay Momentos](https://open.spotify.com/track/0rL9XFxw3b9bRUqApteFiD) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o) | [Esclavo](https://open.spotify.com/album/6vWWH1Bvv5O0bxKq4ndPuf) | 2:38 |
 | 64 | [Nada es para siempre](https://open.spotify.com/track/73J1IrrirnxKM6wk5JfIcV) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x), [Eduardo Bergallo](https://open.spotify.com/artist/0iO7GoHspdzqLANoFLZz78) | [Sol en Cinco](https://open.spotify.com/album/3PRvVLAu5xKxYa9o4lK04S) | 5:28 |
 | 65 | [Mujer Amante](https://open.spotify.com/track/0zLv81RNFByXTZ3wu91y1R) | [Rata Blanca](https://open.spotify.com/artist/632M26jlmnCrL8CqD5i7Kd) | [Col 2x1: Magos, Espadas Y Rosas / Guerrero Del Arco Iris](https://open.spotify.com/album/0cOpyRpGurf8Oeg7SD3znn) | 6:03 |
 | 66 | [Olivia](https://open.spotify.com/track/7aMBK1r16NAACeiJHsb9cf) | [Ivan Noble](https://open.spotify.com/artist/2MfTaq5E3ClttaUjoBdI6p) | [Intemperie](https://open.spotify.com/album/0vW5os63sQZKBtIxsqFx9f) | 3:42 |
-| 67 | [Va a Ser Difícil Olvidar](https://open.spotify.com/track/0Nylt3biQgd30wwgGqFCPm) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Al Parecer Todo Ha Sido una Trampa](https://open.spotify.com/album/25wv6eU2tDQDPLAYTyuj2Q) | 3:53 |
-| 68 | [Pétalo de sal](https://open.spotify.com/track/47rrhPXwe6sfKtIDwJAsO4) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [El Amor Después del Amor](https://open.spotify.com/album/1nDTw13U4zW8YuelhilKW5) | 2:43 |
+| 67 | [Pétalo de sal](https://open.spotify.com/track/47rrhPXwe6sfKtIDwJAsO4) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [El Amor Después del Amor](https://open.spotify.com/album/1nDTw13U4zW8YuelhilKW5) | 2:43 |
+| 68 | [Va a Ser Difícil Olvidar](https://open.spotify.com/track/0Nylt3biQgd30wwgGqFCPm) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Al Parecer Todo Ha Sido una Trampa](https://open.spotify.com/album/25wv6eU2tDQDPLAYTyuj2Q) | 3:53 |
 | 69 | [Siguiendo la Luna](https://open.spotify.com/track/1zW0pOzZmq4TjEbIDZiPed) | [Los Tipitos](https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt) | [Rock Nacional](https://open.spotify.com/album/2TSunTI1bHCQgmPIfw1mTK) | 4:39 |
-| 70 | [Otro Jueves Cobarde](https://open.spotify.com/track/09T8jYEV0b1z6tqghjTBZO) | [Los Caballeros De La Quema](https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW) | [Fulanos de Nadie](https://open.spotify.com/album/5C5gMVVl97LxjXpbZEHYKB) | 5:20 |
-| 71 | [Dejo Atrás](https://open.spotify.com/track/60FasBAOZzjNCSoljbbASM) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Dejo Atrás](https://open.spotify.com/album/5HNfFTWeDBXDUWnhrFFYTb) | 3:41 |
+| 70 | [Dejo Atrás](https://open.spotify.com/track/60FasBAOZzjNCSoljbbASM) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Dejo Atrás](https://open.spotify.com/album/5HNfFTWeDBXDUWnhrFFYTb) | 3:41 |
+| 71 | [Otro Jueves Cobarde](https://open.spotify.com/track/09T8jYEV0b1z6tqghjTBZO) | [Los Caballeros De La Quema](https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW) | [Fulanos de Nadie](https://open.spotify.com/album/5C5gMVVl97LxjXpbZEHYKB) | 5:20 |
 | 72 | [Capital Afectivo](https://open.spotify.com/track/3ig0xkpP1fVJYr9JZW8lwf) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Trinchera](https://open.spotify.com/album/5oLaRXGevqs8RYxXhYe9PG) | 3:39 |
 | 73 | [Ojos de Río](https://open.spotify.com/track/53O5lFOaitGbeEfb6OMFxs) | [Ricardo Mollo](https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7) | [Ojos de Río](https://open.spotify.com/album/0FDjjaaAOmUSmEyGlcPJtM) | 2:16 |
 | 74 | [Cielo Todo Gris](https://open.spotify.com/track/5kDOkt2XCum4V4mlITOX7u) | [La Triple Nelson](https://open.spotify.com/artist/1vs5Ejn8M22dZKl4oLcvgM), [Emiliano Brancciari](https://open.spotify.com/artist/6Xdjhy4MawcCmBq5MYM5N8) | [La Sed](https://open.spotify.com/album/5bOQcSrMniUTGZq4Np1zjT) | 3:39 |
-| 75 | [Y Quemás](https://open.spotify.com/track/499kpq8yWHsIWhWrM0Wk6v) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Azul](https://open.spotify.com/album/0ryyNNi9K5iLu7v4uQSJ4c) | 4:52 |
+| 75 | [Pensamientos](https://open.spotify.com/track/1daUWaMsFC5RM4HKydKJoG) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Pensamientos](https://open.spotify.com/album/2RYIfoNF29kFoR60jOpaHf) | 3:53 |
 
-Snapshot ID: `MTY1NzEzNjcxMiwwMDAwMDAwMDdmOTE0Mjg2ODFiZTk1ZGQyNjgzYmY1ZWJhNDYwMWJm`
+Snapshot ID: `MTY1NzEzNjcxMiwwMDAwMDAwMDNjZGQxZWQyNmUyZjAzN2RjYmEzMzBkNTA1YWY1YjI4`

@@ -2,9 +2,9 @@
 
 ### [Giolì & Assia's DJ Mix](https://open.spotify.com/playlist/37i9dQZF1DWZaiDZ16BA15)
 
-> Italian duo <a href="spotify:artist:6PozOimyS8a9OxMddMSBCf">Giolì & Assia</a> deliver a mix featuring tracks from their most recent album and deep, melodic selections.
+> Italian duo <a href="spotify:artist:6mM9a86Nrw0y7f9MaJGbpU">Giolì & Assia</a> deliver a mix featuring tracks from their most recent album and deep, melodic selections.
 
-18 songs - 1 hr 16 min - not published yet
+19 songs - 1 hr 17 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [Kakaramba \- Cabasa Tribe Remix \- Mixed](https://open.spotify.com/track/4tjDMsODSyFwNAIy9Wvtrr) | [Milkoeh](https://open.spotify.com/artist/5ohfiqQjV311dQdfpgzYak), [Tick Tock](https://open.spotify.com/artist/4HSLzKb8RzSBc6z7hvenm9), [B'Utiza](https://open.spotify.com/artist/52AxxPFLWcF8qLAxCOekmE), [Cabasa Tribe](https://open.spotify.com/artist/2GVXCkaensOw92z6rev9Ok) | [Kakaramba \- Cabasa Tribe Remix \(Mixed\)](https://open.spotify.com/album/3c8E2Zzdu1Rm7gTGWOojbj) | 4:10 | 2022-09-19 |  |
 | [Keia \- Modeplex Remix \- Mixed](https://open.spotify.com/track/4X5wslsbAuXiW5QppGrWU1) | [Artaria](https://open.spotify.com/artist/54LH798QKraEZosT57zMqU), [Modeplex](https://open.spotify.com/artist/1NnerRuA7QMi4ILFMoQsaU) | [Keia \- Modeplex Remix \(Mixed\)](https://open.spotify.com/album/2zEcR5TZtB6kM5fKoHsd8L) | 5:12 | 2022-09-19 |  |
 | [Lost \- Zakente Remix \- Mixed](https://open.spotify.com/track/45K4y0mwWVBMw5Te1NASrm) | [Mahmut Orhan](https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE), [Giolì & Assia](https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU), [Zakente](https://open.spotify.com/artist/5onJRnzNCch9amHkNIr8Bd) | [Lost \- Zakente Remix \(Mixed\)](https://open.spotify.com/album/3E6bbzRbsVGt6FKe1AOElV) | 3:29 | 2022-09-19 |  |
-| [Playing Chess \(Prelude\) \- Mixed](https://open.spotify.com/track/2xmIzWmqX82is1CeoxSNHv) | [Giolì & Assia](https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU) | [Playing Chess \(Prelude\) \[Mixed\]](https://open.spotify.com/album/7H4KbZS9tkIxKSoQPeJJlF) | 1:15 | 2022-09-19 |  |
+| [Playing Chess \(Prelude\)](https://open.spotify.com/track/2pP3PPZ2tiXDX6ifjTEB0X) | [Giolì & Assia](https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU) | [Fire Hell and Holy Water](https://open.spotify.com/album/0ZTKj2OdsF2gI2npmAADAQ) | 1:16 | 2022-09-22 |  |
+| [Playing Chess \(Prelude\) \- Mixed](https://open.spotify.com/track/2xmIzWmqX82is1CeoxSNHv) | [Giolì & Assia](https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU) | [Playing Chess \(Prelude\) \[Mixed\]](https://open.spotify.com/album/7H4KbZS9tkIxKSoQPeJJlF) | 1:15 | 2022-09-19 | 2022-09-23 |
 | [Playing Chess \- Mixed](https://open.spotify.com/track/6dTXkqYUn2guNpC83JML9g) | [Giolì & Assia](https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU) | [Playing Chess \(Mixed\)](https://open.spotify.com/album/0rr8n4nWYMbJBFJF6TjQ0g) | 3:41 | 2022-09-19 |  |
 | [Salut \- Mixed](https://open.spotify.com/track/7Dz4Bh89CDCeiwnMU5NI5r) | [Liva K](https://open.spotify.com/artist/63mVEANeXk1p622Ejj9rBj) | [Salut \(Mixed\)](https://open.spotify.com/album/26mHKw4uEvVMNTCGqWyt4e) | 4:41 | 2022-09-19 |  |
 | [Shooting In My Chest \- Mixed](https://open.spotify.com/track/5yZ3dNhYcDTSG33MI3oaUG) | [Giolì & Assia](https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU) | [Shooting In My Chest \(Mixed\)](https://open.spotify.com/album/72nmTewrokp0ijGZtMRZIK) | 3:36 | 2022-09-19 |  |

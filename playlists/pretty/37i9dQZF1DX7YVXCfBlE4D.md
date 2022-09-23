@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YVXCfBlE4D.md) - [plain]
 
 > Deja que tu corazón se rinda ante la música romántica de antaño.
 
-[Spotify](https://open.spotify.com/user/spotify) - 478,753 likes - 170 songs - 8 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 478,848 likes - 170 songs - 8 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,10 +111,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YVXCfBlE4D.md) - [plain]
 | 101 | [Voy Gritando por la Calle](https://open.spotify.com/track/0q8qmkWirShRjnOB2Nc2Ae) | [Sonia Lopez](https://open.spotify.com/artist/412SQ2pwIYKv7NgaOg1uty) | [Mis 30 Mejores Canciones](https://open.spotify.com/album/5dTJ5OQ4fMlMXVyxXwIVpA) | 2:50 |
 | 102 | [Llevatela](https://open.spotify.com/track/0c4aaZ2wPDfgjYxCZggRsW) | [Las Lagrimas](https://open.spotify.com/artist/4CFUyjHnUwIb4SryCWffqN) | [Llevatela](https://open.spotify.com/album/4JCAbGWSc3iEUzjOCCMpme) | 2:18 |
 | 103 | [Concha Nacar / Limosna](https://open.spotify.com/track/6jrUIPj4VyB9ItLhOMrcSs) | [Elvira Rios](https://open.spotify.com/artist/1us5UEUwARpm9xvMh1i52g) | [Agustín Lara y sus Grandes Intérpretes](https://open.spotify.com/album/1UCHaeKP4ZhDqk4s4pDZn0) | 2:59 |
-| 104 | [Me Engañas Mujer](https://open.spotify.com/track/4qcjtUP5Lk9RRQQMkcKkKR) | [Lucho Barrios](https://open.spotify.com/artist/0THtXVjA70xW4Qk9o2YEYh) | [Lucho Barrios \- In Memoriam 1935 \- 2010](https://open.spotify.com/album/0VBFqcD3jsclm0q9Ad5NbS) | 2:58 |
-| 105 | [Nos Hizo Falta Tiempo](https://open.spotify.com/track/7I1gW6hOscv5Sq8hyrDmdi) | [Las Perlas Negras](https://open.spotify.com/artist/26U6qpVYdrQQNMUPyblVPp) | [Nos Hizo Falta Tiempo](https://open.spotify.com/album/1MFnxCHtziAmBpzkozWNXf) | 2:46 |
-| 106 | [Ya Te Olvide](https://open.spotify.com/track/1TM1jRGtkF18D4VnRqlpKu) | [Los Amores Recientes](https://open.spotify.com/artist/4gGcw7smf466EwjJwxp9VG) | [Ya Te Olvide](https://open.spotify.com/album/6mlUaXGzLm5RPoQDP0o4mZ) | 2:28 |
-| 107 | [Tú Me Acostumbraste](https://open.spotify.com/track/24anJg1u8ITUQpcSco3mQ1) | [Olga Guillot](https://open.spotify.com/artist/2RDV6sncQWynJFH5JUoCfJ) | [Exitos De Siempre: Olga Guillot](https://open.spotify.com/album/1dspwAvJMwMt86pyUYoiKd) | 3:38 |
+| 104 | [Nos Hizo Falta Tiempo](https://open.spotify.com/track/7I1gW6hOscv5Sq8hyrDmdi) | [Las Perlas Negras](https://open.spotify.com/artist/26U6qpVYdrQQNMUPyblVPp) | [Nos Hizo Falta Tiempo](https://open.spotify.com/album/1MFnxCHtziAmBpzkozWNXf) | 2:46 |
+| 105 | [Me Engañas Mujer](https://open.spotify.com/track/4qcjtUP5Lk9RRQQMkcKkKR) | [Lucho Barrios](https://open.spotify.com/artist/0THtXVjA70xW4Qk9o2YEYh) | [Lucho Barrios \- In Memoriam 1935 \- 2010](https://open.spotify.com/album/0VBFqcD3jsclm0q9Ad5NbS) | 2:58 |
+| 106 | [Tú Me Acostumbraste](https://open.spotify.com/track/24anJg1u8ITUQpcSco3mQ1) | [Olga Guillot](https://open.spotify.com/artist/2RDV6sncQWynJFH5JUoCfJ) | [Exitos De Siempre: Olga Guillot](https://open.spotify.com/album/1dspwAvJMwMt86pyUYoiKd) | 3:38 |
+| 107 | [Ya Te Olvide](https://open.spotify.com/track/1TM1jRGtkF18D4VnRqlpKu) | [Los Amores Recientes](https://open.spotify.com/artist/4gGcw7smf466EwjJwxp9VG) | [Ya Te Olvide](https://open.spotify.com/album/6mlUaXGzLm5RPoQDP0o4mZ) | 2:28 |
 | 108 | [Despedida](https://open.spotify.com/track/6r6bcAHYlO0bAC5q7mSJYw) | [Daniel Santos](https://open.spotify.com/artist/6ZBL7tzXJCtsYfHVHozmM2), [Orquesta Pedro Flores](https://open.spotify.com/artist/35ePrAW1vdWYsrYywU6Mps) | [40 Temas Originales](https://open.spotify.com/album/6G9XJm8YJ4oO265SWCqmk5) | 3:11 |
 | 109 | [Cuando Me Lo Pidas](https://open.spotify.com/track/1A7mAX9YwOxJKDfI2wxvR9) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3), [Roberto Aguilar](https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV), [Felipe Gutierrez](https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c) | [Trios](https://open.spotify.com/album/5uJX8PvDhVkPlUhfbMr4XT) | 2:55 |
 | 110 | [Ven](https://open.spotify.com/track/65zy1w1ji5H6Vo9fwc9s8M) | [Mexican Music Factory](https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb), [Roberto Aguilar](https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV), [Felipe Gutierrez](https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c), [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3) | [Boleros](https://open.spotify.com/album/6sp7ntRlQpaNtK25bNXuEZ) | 3:11 |
@@ -179,4 +179,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YVXCfBlE4D.md) - [plain]
 | 169 | [Inolvidable](https://open.spotify.com/track/4WWYBTpa9J6A7RZht1LtzW) | [Tito Rodriguez](https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS) | [From Tito With Love](https://open.spotify.com/album/3fAbfV4TGbi2El5oFlV1WJ) | 3:13 |
 | 170 | [Entre Tu Amor y Mi Amor](https://open.spotify.com/track/1gN6EsWafOEODCrnDI55By) | [Felipe Pirela](https://open.spotify.com/artist/6PbZObu8NuIhiU6L0OzkZN) | [Felipe Pirela \- Mi Historia Músical Volume 5](https://open.spotify.com/album/6DPZLqS4VB5YpP6MGhB26s) | 3:10 |
 
-Snapshot ID: `MTY0Mjc4OTIyNSwwMDAwMDAwMDFjYTY0NmI2ZDNmYzkyMzdhY2QzODg4ZDY1YTZiOTM3`
+Snapshot ID: `MTY0Mjc4OTIyNSwwMDAwMDAwMDlhNGY4ODk5NjM1YjU5MzhkMzNlMTQ4MDA5NWYwMjU3`

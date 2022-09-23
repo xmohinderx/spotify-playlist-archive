@@ -1,12 +1,12 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. Steve Aoki, Santa Fe Klan y Snow Tha Product",
-  "num_followers": 52357,
+  "num_followers": 52368,
   "original_name": "mint MX",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTUyODkyMCwwMDAwMDAwMDU0NDljZjJhYjI5OGI4MWRlOGY3YzRhN2VlZDNjZTAw",
+  "snapshot_id": "MTY2MTUyODkyMCwwMDAwMDAwMDY2NGQyMTkxN2I0YmJmNDJiNGFkZTk3NDMwZWM4MTIw",
   "tracks": [
     {
       "added_at": "2022-08-26 15:48:40",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
+        "name": "De Sur A Norte",
+        "url": "https://open.spotify.com/album/1mDieLmWyCiyZWhPJUckVf"
+      },
+      "artists": [
+        {
+          "name": "Nortec: Bostich + Fussible",
+          "url": "https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg"
+        }
+      ],
+      "duration_ms": 288813,
+      "name": "Polen",
+      "url": "https://open.spotify.com/track/077IhBAyPSoTflz9e2Xe5Z"
+    },
+    {
+      "added_at": "2022-08-02 18:48:01",
+      "album": {
         "name": "Houdini",
         "url": "https://open.spotify.com/album/5HUCcH55uPddv4Xcr2adgy"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 180521,
       "name": "Ojos - La Noche Mix - Radio Edit",
       "url": "https://open.spotify.com/track/7y7kOnxQc1dHJcYOt7XMDJ"
-    },
-    {
-      "added_at": "2022-08-02 18:48:01",
-      "album": {
-        "name": "De Sur A Norte",
-        "url": "https://open.spotify.com/album/1mDieLmWyCiyZWhPJUckVf"
-      },
-      "artists": [
-        {
-          "name": "Nortec: Bostich + Fussible",
-          "url": "https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg"
-        }
-      ],
-      "duration_ms": 288813,
-      "name": "Polen",
-      "url": "https://open.spotify.com/track/077IhBAyPSoTflz9e2Xe5Z"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -1403,26 +1403,6 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
-        "name": "Getaway",
-        "url": "https://open.spotify.com/album/1d1vnzF7rbEKA7Csc4OPo0"
-      },
-      "artists": [
-        {
-          "name": "Jessica Audiffred",
-          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
-        },
-        {
-          "name": "The Arcturians",
-          "url": "https://open.spotify.com/artist/39Igqv4O9OUd0De2mCdB9K"
-        }
-      ],
-      "duration_ms": 188689,
-      "name": "Getaway",
-      "url": "https://open.spotify.com/track/6kEIY1YMGoUG3WGqBzpEEq"
-    },
-    {
-      "added_at": "2022-08-02 18:48:01",
-      "album": {
         "name": "Weekend",
         "url": "https://open.spotify.com/album/7FtdIOpU66SkktCMbhraB7"
       },
@@ -1439,6 +1419,26 @@
       "duration_ms": 252579,
       "name": "Weekend",
       "url": "https://open.spotify.com/track/536cXZkxCVury8e0oEMaHW"
+    },
+    {
+      "added_at": "2022-08-02 18:48:01",
+      "album": {
+        "name": "Getaway",
+        "url": "https://open.spotify.com/album/1d1vnzF7rbEKA7Csc4OPo0"
+      },
+      "artists": [
+        {
+          "name": "Jessica Audiffred",
+          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
+        },
+        {
+          "name": "The Arcturians",
+          "url": "https://open.spotify.com/artist/39Igqv4O9OUd0De2mCdB9K"
+        }
+      ],
+      "duration_ms": 188689,
+      "name": "Getaway",
+      "url": "https://open.spotify.com/track/6kEIY1YMGoUG3WGqBzpEEq"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -1519,6 +1519,22 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
+        "name": "Legoo",
+        "url": "https://open.spotify.com/album/5cB9R964vdhuoQRDrI1nlS"
+      },
+      "artists": [
+        {
+          "name": "Le Twins",
+          "url": "https://open.spotify.com/artist/52kfbBndpbamlOcoNPaurb"
+        }
+      ],
+      "duration_ms": 148571,
+      "name": "Legoo",
+      "url": "https://open.spotify.com/track/4VPvvQCuMKYPd8teOLKZji"
+    },
+    {
+      "added_at": "2022-08-02 18:48:01",
+      "album": {
         "name": "Covalent Bond",
         "url": "https://open.spotify.com/album/5jZ5hLf3m4UenDBUFjfsNK"
       },
@@ -1535,22 +1551,6 @@
       "duration_ms": 159359,
       "name": "Covalent Bond",
       "url": "https://open.spotify.com/track/2TZLm2KyyWHlNhyFXAhvCK"
-    },
-    {
-      "added_at": "2022-08-02 18:48:01",
-      "album": {
-        "name": "Legoo",
-        "url": "https://open.spotify.com/album/5cB9R964vdhuoQRDrI1nlS"
-      },
-      "artists": [
-        {
-          "name": "Le Twins",
-          "url": "https://open.spotify.com/artist/52kfbBndpbamlOcoNPaurb"
-        }
-      ],
-      "duration_ms": 148571,
-      "name": "Legoo",
-      "url": "https://open.spotify.com/track/4VPvvQCuMKYPd8teOLKZji"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -1655,26 +1655,6 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
-        "name": "Mujer del Desierto",
-        "url": "https://open.spotify.com/album/3wFHt75jtO3M8zdAfN5gDG"
-      },
-      "artists": [
-        {
-          "name": "Pahua",
-          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
-        },
-        {
-          "name": "WX//CLTV",
-          "url": "https://open.spotify.com/artist/0m4sYqkyOznjEKxEEeLLkL"
-        }
-      ],
-      "duration_ms": 210372,
-      "name": "Mujer del Desierto",
-      "url": "https://open.spotify.com/track/0mT3gq4INtY9A0sjWCz5ms"
-    },
-    {
-      "added_at": "2022-08-02 18:48:01",
-      "album": {
         "name": "Fire",
         "url": "https://open.spotify.com/album/3sXt7lzsm7c0nJFb7huHjl"
       },
@@ -1695,6 +1675,26 @@
       "duration_ms": 181935,
       "name": "Fire",
       "url": "https://open.spotify.com/track/6cQ652KB26bjWHt2OZkB5Z"
+    },
+    {
+      "added_at": "2022-08-02 18:48:01",
+      "album": {
+        "name": "Mujer del Desierto",
+        "url": "https://open.spotify.com/album/3wFHt75jtO3M8zdAfN5gDG"
+      },
+      "artists": [
+        {
+          "name": "Pahua",
+          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
+        },
+        {
+          "name": "WX//CLTV",
+          "url": "https://open.spotify.com/artist/0m4sYqkyOznjEKxEEeLLkL"
+        }
+      ],
+      "duration_ms": 210372,
+      "name": "Mujer del Desierto",
+      "url": "https://open.spotify.com/track/0mT3gq4INtY9A0sjWCz5ms"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -1767,26 +1767,6 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
-        "name": "West",
-        "url": "https://open.spotify.com/album/4f95eRxwK1AusFsJfadaqp"
-      },
-      "artists": [
-        {
-          "name": "Lujavo",
-          "url": "https://open.spotify.com/artist/5QCGlnijOcNxsXXNzZkcWL"
-        },
-        {
-          "name": "SIAS",
-          "url": "https://open.spotify.com/artist/6krsiTtc4T9aJEkwT3lyP5"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "West",
-      "url": "https://open.spotify.com/track/4iDacLHy981JKWDFOKZRjJ"
-    },
-    {
-      "added_at": "2022-08-02 18:48:01",
-      "album": {
         "name": "Clap Your Hands For Love",
         "url": "https://open.spotify.com/album/5NTWWtbJgtRkQdPBbqMYu7"
       },
@@ -1807,6 +1787,26 @@
       "duration_ms": 177627,
       "name": "Clap Your Hands For Love",
       "url": "https://open.spotify.com/track/7hiYyIQXoGzgon6w4MVPrx"
+    },
+    {
+      "added_at": "2022-08-02 18:48:01",
+      "album": {
+        "name": "West",
+        "url": "https://open.spotify.com/album/4f95eRxwK1AusFsJfadaqp"
+      },
+      "artists": [
+        {
+          "name": "Lujavo",
+          "url": "https://open.spotify.com/artist/5QCGlnijOcNxsXXNzZkcWL"
+        },
+        {
+          "name": "SIAS",
+          "url": "https://open.spotify.com/artist/6krsiTtc4T9aJEkwT3lyP5"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "West",
+      "url": "https://open.spotify.com/track/4iDacLHy981JKWDFOKZRjJ"
     },
     {
       "added_at": "2022-08-02 18:48:01",

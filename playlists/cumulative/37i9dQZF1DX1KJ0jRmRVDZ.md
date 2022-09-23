@@ -4,7 +4,7 @@
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-463 songs - 1 day 2 hr 33 min - [published](https://open.spotify.com/playlist/5QuqpfHvCVk049tCrncQUc)
+464 songs - 1 day 2 hr 38 min - [published](https://open.spotify.com/playlist/5QuqpfHvCVk049tCrncQUc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -239,7 +239,7 @@
 | [ダークルーム](https://open.spotify.com/track/7sm1J9BbrNaOaTaF9I5f7B) | [Dios](https://open.spotify.com/artist/6dPVBimWWkHAzbOcfOmOYu) | [ダークルーム](https://open.spotify.com/album/0enb4QkhRZPSzNsH0immrH) | 2:55 | 2022-06-14 | 2022-07-02 |
 | [チノカテ](https://open.spotify.com/track/7w1taFiEu8GGQJkzQaEWpx) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [チノカテ](https://open.spotify.com/album/1ItS3Da6sbCmwwTgkBHttk) | 4:08 | 2022-08-30 |  |
 | [チャイニーズブルー](https://open.spotify.com/track/3fI3sur34KpeY4I7ZmZmph) | [meiyo](https://open.spotify.com/artist/6ggtLFRSvZsS61lbxLujd9) | [チャイニーズブルー](https://open.spotify.com/album/4cHuPNTErffuzP4wdDuJHl) | 2:10 | 2022-06-16 | 2022-07-25 |
-| [ツバメ \(feat\. ミドリーズ\)](https://open.spotify.com/track/0yzX8MYYJHw7A3PLvgEc7e) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj), [ミドリーズ](https://open.spotify.com/artist/3y1b2eef2HLeYyqFJLtH4p) | [ツバメ \(feat\. ミドリーズ\)](https://open.spotify.com/album/3hLagbbi0Ud7VLJC9AxiTr) | 3:37 | 2022-06-09 |  |
+| [ツバメ \(feat\. ミドリーズ\)](https://open.spotify.com/track/0yzX8MYYJHw7A3PLvgEc7e) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj), [ミドリーズ](https://open.spotify.com/artist/3y1b2eef2HLeYyqFJLtH4p) | [ツバメ \(feat\. ミドリーズ\)](https://open.spotify.com/album/3hLagbbi0Ud7VLJC9AxiTr) | 3:37 | 2022-06-09 | 2022-09-23 |
 | [テラ](https://open.spotify.com/track/5UtltFFaTR1dI93Xs49uKb) | [春猿火](https://open.spotify.com/artist/39fp9WgXJxPo1pYxt96w6l) | [テラ](https://open.spotify.com/album/3CEY7ac55EVxuSMyOvfx1v) | 4:00 | 2022-09-20 |  |
 | [テレキャスタービーボーイ](https://open.spotify.com/track/1ROD2ELpcPJNGexb1oxV3R) | [麻婆豆腐](https://open.spotify.com/artist/4rDjKnJ4UDzfROtTs37kDT) | [テレキャスタービーボーイ](https://open.spotify.com/album/08V9xGeTdDTy8WIlbYwRVR) | 2:50 | 2022-06-14 | 2022-06-16 |
 | [テレフォン・ラブ](https://open.spotify.com/track/3qyTid7Q3Nm6vwjHSgnaRG) | [PARED](https://open.spotify.com/artist/6LTMDeytAJfS4q9u28JYl0) | [テレフォン・ラブ](https://open.spotify.com/album/5rFbPS2qeENPzhpKNPAHe6) | 4:03 | 2022-06-09 | 2022-07-16 |
@@ -314,6 +314,7 @@
 | [君の幸せ喜べない、ごめんね](https://open.spotify.com/track/6jpGvizv7JIMm9jBUuGKHr) | [Sangatsu no Phantasia](https://open.spotify.com/artist/5WmX340gDNLIAyUcg4MzWN) | [君の幸せ喜べない、ごめんね](https://open.spotify.com/album/5y7SUJ28Fzab8T4FV2045N) | 3:02 | 2022-06-28 | 2022-07-27 |
 | [君はいなせなガール](https://open.spotify.com/track/3QFzoUHBlSLAA7RMR4umgU) | [ネクライトーキー](https://open.spotify.com/artist/45ew0KWgCA7evVgCydrZws), [日本松 ひとみ](https://open.spotify.com/artist/2HewoxIYwiA5DoOk4rFgNc) | [君はいなせなガール](https://open.spotify.com/album/0a8wJacfTpSenRSb4TCrNC) | 4:22 | 2022-06-30 | 2022-07-28 |
 | [命に嫌われている。](https://open.spotify.com/track/4iJkPFfvhKL08H9dhHhr3c) | [Mafumafu](https://open.spotify.com/artist/6t6aXZlmnAF1VuiG8BVjQZ) | [命に嫌われている。](https://open.spotify.com/album/00IVbq106tRZe6RJqk9Jy8) | 4:34 | 2022-06-09 | 2022-07-29 |
+| [命に嫌われている。](https://open.spotify.com/track/1D9l3S2uqYTVAAPL825H73) | [うみくん](https://open.spotify.com/artist/7AeFUOB2BZuIkeq2S6FpIp) | [命に嫌われている。](https://open.spotify.com/album/759u4zcGJPIBbhlMGI717p) | 4:38 | 2022-09-22 |  |
 | [命の行方](https://open.spotify.com/track/492GY9Jp8F8QK2eQfMDZXq) | [DUSTCELL](https://open.spotify.com/artist/6Rs4z6XgltEI01UlDlu98B) | [命の行方](https://open.spotify.com/album/02S9ytTyWvDtuZjDVOyxJY) | 3:20 | 2022-07-19 | 2022-07-21 |
 | [命は誰のもの](https://open.spotify.com/track/23FMtyW0cKVsHSOtp2TPTJ) | [Kami\-sama, I have noticed](https://open.spotify.com/artist/19hnen14uXCUMoBAnTmrCp) | [命は誰のもの](https://open.spotify.com/album/2CKCxf1W5yIcjzCJOz4PVG) | 3:11 | 2022-06-28 | 2022-07-27 |
 | [嘘ツキノウタ](https://open.spotify.com/track/56QO0Sq87klMjutZ8gNv3H) | [神谷志龍](https://open.spotify.com/artist/6r2FGDlvtbwwRAnxLhzoaX) | [嘘ツキノウタ](https://open.spotify.com/album/7svnuifGLIlmGWgLf59oZk) | 3:22 | 2022-07-04 | 2022-07-06 |

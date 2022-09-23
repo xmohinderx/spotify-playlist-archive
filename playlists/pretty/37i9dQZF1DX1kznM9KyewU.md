@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kznM9KyewU.md) - [plain]
 
 > Rock that was on repeat during the summers of the 1990s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,495 likes - 90 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,529 likes - 90 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kznM9KyewU.md) - [plain]
 | 45 | [Epic](https://open.spotify.com/track/4ReyTz0y3TGkX48wO3Llot) | [Faith No More](https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5) | [The Real Thing](https://open.spotify.com/album/6LEP3L94jnkqjOxYJWPRP0) | 4:53 |
 | 46 | [You Oughta Know \- 2015 Remaster](https://open.spotify.com/track/3jS7bB0oXVOwGFZn3aE5NV) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Jagged Little Pill \(2015 Remaster\)](https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA) | 4:09 |
 | 47 | [Girls & Boys](https://open.spotify.com/track/5CeL9C3bsoe4yzYS1Qz8cw) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Blur: The Best Of](https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x) | 4:19 |
-| 48 | [Life Is A Highway](https://open.spotify.com/track/7jIFGkTBIK1UwWaEXMW2Nh) | [Tom Cochrane](https://open.spotify.com/artist/5Jj4mqGYiplyowPLKkJLHt) | [Mad Mad World \(Deluxe\)](https://open.spotify.com/album/1Jn0dHH6ztd0CD7lstrIR8) | 4:26 |
-| 49 | [Tonight, Tonight \- Remastered 2012](https://open.spotify.com/track/7bu0znpSbTks0O6I98ij0W) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Mellon Collie And The Infinite Sadness \(Deluxe Edition\)](https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV) | 4:14 |
+| 48 | [Tonight, Tonight \- Remastered 2012](https://open.spotify.com/track/7bu0znpSbTks0O6I98ij0W) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Mellon Collie And The Infinite Sadness \(Deluxe Edition\)](https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV) | 4:14 |
+| 49 | [Life Is A Highway](https://open.spotify.com/track/7jIFGkTBIK1UwWaEXMW2Nh) | [Tom Cochrane](https://open.spotify.com/artist/5Jj4mqGYiplyowPLKkJLHt) | [Mad Mad World \(Deluxe\)](https://open.spotify.com/album/1Jn0dHH6ztd0CD7lstrIR8) | 4:26 |
 | 50 | [Every Morning](https://open.spotify.com/track/2ouURa1AIXp3AvkS52Jry5) | [Sugar Ray](https://open.spotify.com/artist/4uN3DsfENc7dp0OLO0FEIb) | [14:59](https://open.spotify.com/album/43NNW7iDuAE8pIouzvwWWi) | 3:39 |
 | 51 | [Save Tonight](https://open.spotify.com/track/1t2Hq2WIBcZINOEnK6mdJG) | [Eagle\-Eye Cherry](https://open.spotify.com/artist/3ngKsDXZAssmljeXCvEgOe) | [Desireless](https://open.spotify.com/album/3P2WRy9eBoBbSTCZWGQOoO) | 3:59 |
 | 52 | [American Woman](https://open.spotify.com/track/3X6iIrFuQoCshIWBseEKPl) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [5](https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN) | 4:24 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kznM9KyewU.md) - [plain]
 | 64 | [Love of a Lifetime](https://open.spotify.com/track/2kDH08boXJyhKMl5hnZbrE) | [Firehouse](https://open.spotify.com/artist/28pS8WVbFstY0o1SrqCf8I) | [Firehouse](https://open.spotify.com/album/1qO6xwjpMSZ5qLexoXs43T) | 4:46 |
 | 65 | [You Learn \- 2015 Remaster](https://open.spotify.com/track/4l7YIni9bAiGwWMqK5wvgV) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Jagged Little Pill \(2015 Remaster\)](https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA) | 3:59 |
 | 66 | [Livin' On The Edge](https://open.spotify.com/track/4avSaixVwu8uqfSs7zgoj3) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Get A Grip](https://open.spotify.com/album/1tuM8yBePaekEruGsH2J79) | 6:20 |
-| 67 | [Sex And Candy](https://open.spotify.com/track/3hAaCXvutknQugsPFogh8H) | [Marcy Playground](https://open.spotify.com/artist/7AQzXO3NPNQsI7oNu5rC3r) | [Lunch, Recess & Detention](https://open.spotify.com/album/3TGtyfwv5KOmHENjkY8TQc) | 2:52 |
-| 68 | [Remedy](https://open.spotify.com/track/217a9W3cZ3ur40RFQW2pTo) | [The Black Crowes](https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC) | [The Southern Harmony And Musical Companion](https://open.spotify.com/album/4hVgzAM4i3dPdhZQki9cKk) | 5:22 |
+| 67 | [Remedy](https://open.spotify.com/track/217a9W3cZ3ur40RFQW2pTo) | [The Black Crowes](https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC) | [The Southern Harmony And Musical Companion](https://open.spotify.com/album/4hVgzAM4i3dPdhZQki9cKk) | 5:22 |
+| 68 | [Sex And Candy](https://open.spotify.com/track/3hAaCXvutknQugsPFogh8H) | [Marcy Playground](https://open.spotify.com/artist/7AQzXO3NPNQsI7oNu5rC3r) | [Lunch, Recess & Detention](https://open.spotify.com/album/3TGtyfwv5KOmHENjkY8TQc) | 2:52 |
 | 69 | [Secret Smile](https://open.spotify.com/track/1OhctVvuAU8kVCtzDWsCTj) | [Semisonic](https://open.spotify.com/artist/1TqQi97nqeiuOJrIFv5Sw0) | [Feeling Strangely Fine \(20th Anniversary Edition\)](https://open.spotify.com/album/6KaEKR4KsmFWVrb0ktQo2T) | 4:39 |
 | 70 | [Ava Adore](https://open.spotify.com/track/6bVB2MGR7LcotAIB1vfpw6) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Adore \(Super Deluxe\)](https://open.spotify.com/album/7ysKTnHt4ve0MvIWm3vPdz) | 4:30 |
 | 71 | [All I Want](https://open.spotify.com/track/2GHYJ0dhVds3PODKnTdiGE) | [Toad The Wet Sprocket](https://open.spotify.com/artist/4j7EVY3kuDwLPfD2jfC7LC) | [fear](https://open.spotify.com/album/3UeshcanaZ1xd90cgmQmch) | 3:16 |
@@ -91,12 +91,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kznM9KyewU.md) - [plain]
 | 81 | [Selling The Drama](https://open.spotify.com/track/5y9ivD2g37FSCEJpfhG7d5) | [Live](https://open.spotify.com/artist/6eoJpTIlcuxJNjV5fDzDJH) | [Throwing Copper](https://open.spotify.com/album/4ZsG3ifn9sIcrFT1ecw0gF) | 3:25 |
 | 82 | [Cradle Of Love](https://open.spotify.com/track/5TSANSqPTD6nBG0NSJWmVB) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Charmed Life](https://open.spotify.com/album/4GCciwt8efweJZ4AEEvnTQ) | 4:41 |
 | 83 | [Hold Me, Thrill Me, Kiss Me, Kill Me \- From 'Batman Forever'](https://open.spotify.com/track/5TsHqbDKaSs4ECZX0045YS) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Best Of 1990\-2000](https://open.spotify.com/album/5I099NUhbRrXaxnxQagElv) | 4:44 |
-| 84 | [Stupid Girl](https://open.spotify.com/track/3fNf71Ktya4CYMqGM6eRud) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Garbage \(20th Anniversary Deluxe Edition/Remastered\)](https://open.spotify.com/album/1Vze7jtjAVQOdIIQ8oO2X7) | 4:18 |
-| 85 | [Driftwood](https://open.spotify.com/track/40l4DYTW2jfArPOL63YogV) | [Travis](https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh) | [The Man Who](https://open.spotify.com/album/1cUp1HbKtGF7CiSl962vH5) | 3:33 |
+| 84 | [Driftwood](https://open.spotify.com/track/40l4DYTW2jfArPOL63YogV) | [Travis](https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh) | [The Man Who](https://open.spotify.com/album/1cUp1HbKtGF7CiSl962vH5) | 3:33 |
+| 85 | [Stupid Girl](https://open.spotify.com/track/3fNf71Ktya4CYMqGM6eRud) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Garbage \(20th Anniversary Deluxe Edition/Remastered\)](https://open.spotify.com/album/1Vze7jtjAVQOdIIQ8oO2X7) | 4:18 |
 | 86 | [It's No Good](https://open.spotify.com/track/339PPSAl7Ta2CZ25YI7a7v) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX), [Q](https://open.spotify.com/artist/7HYjhgcTjrAIRBCACbSEqE), [Tim Simenon](https://open.spotify.com/artist/2yzxPcfb8JjrKKCIiLGWQW) | [Ultra \| The 12" Singles](https://open.spotify.com/album/3FRJU9jyS1gc71ha3leUp8) | 5:58 |
 | 87 | [Pick A Part That's New](https://open.spotify.com/track/5ENmb2WrPdGlSAYBaZrEoF) | [Stereophonics](https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8) | [Performance And Cocktails](https://open.spotify.com/album/3L8K0FWsWGSHvYj56skH00) | 3:33 |
 | 88 | [Even Better Than The Real Thing](https://open.spotify.com/track/4bK2vKMdkS0rNhbzRqAZe0) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Achtung Baby \(Deluxe Edition\)](https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe) | 3:41 |
 | 89 | [Secretly](https://open.spotify.com/track/0dw3ZgJ3h4ICWxGsoaz4dm) | [Skunk Anansie](https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF) | [Post Orgasmic Chill](https://open.spotify.com/album/4WznTvC9d1Oino7gLS8XHq) | 4:45 |
 | 90 | [All For You](https://open.spotify.com/track/5fwCxKVai3LszSWFZ9AyA8) | [Sister Hazel](https://open.spotify.com/artist/7m60UAnbgFFNuJbmS6OxTk) | [90s Mixtape](https://open.spotify.com/album/1CVJMhFsgCZeOMk2wQKnwL) | 3:39 |
 
-Snapshot ID: `MTY1MDkxNjAwNCwwMDAwMDAwMGI2NGIyMWMwY2NmOGNhZDA3ZmE1YWMyOWRkYTAyZjA4`
+Snapshot ID: `MTY1MDkxNjAwNCwwMDAwMDAwMDI4ZDcwMGZjYTUyYjM0OTUxZWE5YTA1MWE1MmFkZThh`

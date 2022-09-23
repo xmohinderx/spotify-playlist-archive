@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05We5FN3NiD.md) - [plain]
 
 > 2019 highlights from the home of indie music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,333 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,383 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05We5FN3NiD.md) - [plain]
 | 22 | [Imagination](https://open.spotify.com/track/2flxduIqEbsicdmPyj1WVW) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Imagination](https://open.spotify.com/album/5LbiR8iqC4hYeIKifnmVqc) | 4:16 |
 | 23 | [Roddy](https://open.spotify.com/track/20WSCvv9qfQHzYzTaLyXHH) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Twenty Twenty](https://open.spotify.com/album/4v3LUnHL01HzJC6Jol6FCv) | 4:12 |
 | 24 | [i'll die anyway.](https://open.spotify.com/track/7yyJF1BYBaCifNmO1RGhv7) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [i'll die anyway.](https://open.spotify.com/album/6RIPvkeMrEPX4iY1H9ZiVc) | 3:12 |
-| 25 | [Sunkissed](https://open.spotify.com/track/1tD8J13a74q8fBqXwAP50j) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) | [Now and Then](https://open.spotify.com/album/3jysksH3UVanTDQD5xeaIG) | 2:06 |
+| 25 | [Scrawny](https://open.spotify.com/track/1pNUmVxDiE8t6P1XxcZAv8) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Nothing Happens](https://open.spotify.com/album/7eed9MBclFPjjjvotfR2e9) | 2:46 |
 | 26 | [Fuck it I love you](https://open.spotify.com/track/7MtVPRGtZl6rPjMfLoI3Lh) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Norman Fucking Rockwell!](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) | 3:38 |
-| 27 | [Scrawny](https://open.spotify.com/track/1pNUmVxDiE8t6P1XxcZAv8) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Nothing Happens](https://open.spotify.com/album/7eed9MBclFPjjjvotfR2e9) | 2:46 |
+| 27 | [Sunkissed](https://open.spotify.com/track/1tD8J13a74q8fBqXwAP50j) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) | [Now and Then](https://open.spotify.com/album/3jysksH3UVanTDQD5xeaIG) | 2:06 |
 | 28 | [Heavenly](https://open.spotify.com/track/1Bh0UzthW8pKEnYg7v40Oa) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cry](https://open.spotify.com/album/6fUVptFdeOgcqDvCZzM2kC) | 4:48 |
 | 29 | [Hypersonic Missiles](https://open.spotify.com/track/6CltzquypraYIlWFp48m1O) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Hypersonic Missiles](https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m) | 3:57 |
 | 30 | [So Hot You're Hurting My Feelings](https://open.spotify.com/track/5B6Kjha6RRIMWGN7zGsAaT) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Pang](https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD) | 3:03 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05We5FN3NiD.md) - [plain]
 | 62 | [Longshot](https://open.spotify.com/track/2VcS3oKcOPkubN9LVzZ96l) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [The Balance](https://open.spotify.com/album/0eELSmJrZpzOKfdO80nJ9r) | 3:52 |
 | 63 | [Seventeen](https://open.spotify.com/track/5jZoYp0P8ML7AxkS3tQz3j) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Remind Me Tomorrow](https://open.spotify.com/album/4bfvR9TMwCm2tzXpboLH3t) | 4:25 |
 | 64 | [It Might Be Time](https://open.spotify.com/track/558ubozatFQlweufvHa3Ip) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush](https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL) | 4:33 |
-| 65 | [The Barrel](https://open.spotify.com/track/06lw2dBFqdXhAErz7Xz9Zs) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Designer](https://open.spotify.com/album/39CMyhmaEk6JMlqYUXQNOI) | 4:59 |
-| 66 | [Sunflower \(feat\. Steve Lacy\)](https://open.spotify.com/track/53KFMdxzi8IJDewiql1Qo3) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Father of the Bride](https://open.spotify.com/album/1A3nVEWRJ8yvlPzawHI1pQ) | 2:17 |
+| 65 | [Sunflower \(feat\. Steve Lacy\)](https://open.spotify.com/track/53KFMdxzi8IJDewiql1Qo3) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Father of the Bride](https://open.spotify.com/album/1A3nVEWRJ8yvlPzawHI1pQ) | 2:17 |
+| 66 | [The Barrel](https://open.spotify.com/track/06lw2dBFqdXhAErz7Xz9Zs) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Designer](https://open.spotify.com/album/39CMyhmaEk6JMlqYUXQNOI) | 4:59 |
 | 67 | [Jenny of Oldstones \(Game of Thrones\)](https://open.spotify.com/track/1u0THw5xaGd7sYzJEh48Lt) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Jenny of Oldstones \(Game of Thrones\)](https://open.spotify.com/album/1R6GYgEbpObUZC2btPQlqB) | 3:08 |
 | 68 | [Monster](https://open.spotify.com/track/2MKIadkPrRqaivpyn6cnI0) | [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Human](https://open.spotify.com/album/6Kr92CEAh6YLlEO8ubps17) | 4:05 |
 | 69 | [Ordinary Pleasure](https://open.spotify.com/track/1r1BFALfShEfyv1aEs7MRW) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Outer Peace](https://open.spotify.com/album/3KkxbmbkRvxghNwGwQRZcj) | 3:03 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05We5FN3NiD.md) - [plain]
 | 99 | [Peach](https://open.spotify.com/track/6M8qU2rDpeRQLE88DF2xtq) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Don't Feed The Pop Monster](https://open.spotify.com/album/3KzbSN2H2bqf9b8NKiCIL0) | 4:15 |
 | 100 | [Unbearably White](https://open.spotify.com/track/2FjoCQaBoiEKs3FCvD0HkR) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Father of the Bride](https://open.spotify.com/album/1A3nVEWRJ8yvlPzawHI1pQ) | 4:40 |
 
-Snapshot ID: `MTY2MzMwNDAxNiwwMDAwMDAwMGExZjI3YjRkYWM1YmVkN2NlOWM4ZWUyMjcxNTE3MDEw`
+Snapshot ID: `MTY2MzMwNDAxNiwwMDAwMDAwMGI2ZTY0NzllZTg2ZWMyZTBjMzljOGJjNGE3M2M2Mjc4`

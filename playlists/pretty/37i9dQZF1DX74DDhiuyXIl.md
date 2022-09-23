@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74DDhiuyXIl.md) - [plain]
 
 > 回家的路上，有好聽的歌曲陪伴，會讓人暫時忘了疲倦。
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,110 likes - 75 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,126 likes - 75 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74DDhiuyXIl.md) - [plain]
 | 19 | [NUNA](https://open.spotify.com/track/6L5ImrjJJKVYJQzjpARPXj) | [队长](https://open.spotify.com/artist/4SpsVETdnMLwPHyOW0FlQz) | [NUNA](https://open.spotify.com/album/3q988MNRDhIto8xDT7ireC) | 3:42 |
 | 20 | [有一種悲傷 \- 電影《比悲傷更悲傷的故事》主題曲](https://open.spotify.com/track/3ayrHkyorPEpeOBvZ76SwG) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [有一種悲傷 \(電影《比悲傷更悲傷的故事》主題曲\)](https://open.spotify.com/album/68NAOLFISOsBsyMLA2fUPf) | 3:57 |
 | 21 | [你的酒馆对我打了烊](https://open.spotify.com/track/6FurM8spY6gzyPF1yUuXwX) | [陈雪凝](https://open.spotify.com/artist/7hhBMsiz3xH2GHj7tbRpgW) | [你的酒馆对我打了烊](https://open.spotify.com/album/2TwPjdqlFBNjR2qrFHnYWL) | 4:11 |
-| 22 | [丢了你](https://open.spotify.com/track/1gIAq5bVQhn71cYmX9r22f) | [井胧](https://open.spotify.com/artist/7vUl41Mg2BGkAWQcK6ptJ2) | [丢了你](https://open.spotify.com/album/1bjAIaCl5ZubV2nErI6zLb) | 4:37 |
-| 23 | [好想愛這個世界啊](https://open.spotify.com/track/7dcP3dkBK2SEplkgIZlwix) | [Hua Chen Yu](https://open.spotify.com/artist/7v7bP8NfcMYh4sDADEAy6Z) | [新世界](https://open.spotify.com/album/63odMEqIm4IMVGav51VG1k) | 4:18 |
+| 22 | [好想愛這個世界啊](https://open.spotify.com/track/7dcP3dkBK2SEplkgIZlwix) | [Hua Chen Yu](https://open.spotify.com/artist/7v7bP8NfcMYh4sDADEAy6Z) | [新世界](https://open.spotify.com/album/63odMEqIm4IMVGav51VG1k) | 4:18 |
+| 23 | [丢了你](https://open.spotify.com/track/1gIAq5bVQhn71cYmX9r22f) | [井胧](https://open.spotify.com/artist/7vUl41Mg2BGkAWQcK6ptJ2) | [丢了你](https://open.spotify.com/album/1bjAIaCl5ZubV2nErI6zLb) | 4:37 |
 | 24 | [时光洪流](https://open.spotify.com/track/05yDoVDvARdRQCzDNNd6a1) | [程响](https://open.spotify.com/artist/0EZ1dmFa27KXSwDwcZKT1O) | [时光洪流](https://open.spotify.com/album/4BXBO9Tqn43erEulVz5rNz) | 4:11 |
 | 25 | [天黑請閉眼 \(feat\. 邱鋒澤\)](https://open.spotify.com/track/0bIbgooxvBkww2ZGeu8VMR) | [Nine Chen](https://open.spotify.com/artist/4MMQmzYiUiuD8VwjrJu3v6), [Feng Ze](https://open.spotify.com/artist/6QYehwA9q6UQEMs1Vak0uy) | [天黑請閉眼 \(feat\. 邱鋒澤\)](https://open.spotify.com/album/4Rx7JsvDZWfL07FV9qchPX) | 4:46 |
 | 26 | [不知所措](https://open.spotify.com/track/4BKKdyNzudNKscbKt3Sb9i) | [王靖雯](https://open.spotify.com/artist/4lQ2LwNj8DlXSM3UntsbGc) | [不知所措](https://open.spotify.com/album/4ivt28CRmnStMCm7p3MtSa) | 4:08 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74DDhiuyXIl.md) - [plain]
 | 32 | [因為是你 \- 原創影集《火神的眼淚》片頭曲](https://open.spotify.com/track/0TqOMBOKodVMnr1NgMwOt7) | [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX) | [因為是你 \(原創影集《火神的眼淚》片頭曲\)](https://open.spotify.com/album/5YSunwRv17InUanAfwwHhr) | 3:31 |
 | 33 | [聽見下雨的聲音](https://open.spotify.com/track/0nt1LAZjaTjrf30S8hdRDU) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [哎呦 不錯哦](https://open.spotify.com/album/1aYDr6muZPmwYvstDnIbeH) | 4:39 |
 | 34 | [受夠](https://open.spotify.com/track/5JLLWtgBLRxpd4MRkGAm74) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [小時候的我們](https://open.spotify.com/album/2GaVDyAX5sgrX5CuWxRhZm) | 5:31 |
-| 35 | [我以為你不會出現 \(UAG安全感形象曲\)](https://open.spotify.com/track/20OrMs4eAhIHyG82wHaGy0) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [我以為你不會出現](https://open.spotify.com/album/6jCdDLLM1EH24grt1rqmIQ) | 5:46 |
-| 36 | [裹著心的光](https://open.spotify.com/track/4qasQt2JsuBK8ZwERwuAZO) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [裹著心的光](https://open.spotify.com/album/5Ahq8CVYewyMVVjIcHgqUO) | 4:33 |
+| 35 | [裹著心的光](https://open.spotify.com/track/4qasQt2JsuBK8ZwERwuAZO) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [裹著心的光](https://open.spotify.com/album/5Ahq8CVYewyMVVjIcHgqUO) | 4:33 |
+| 36 | [我以為你不會出現 \(UAG安全感形象曲\)](https://open.spotify.com/track/20OrMs4eAhIHyG82wHaGy0) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [我以為你不會出現](https://open.spotify.com/album/6jCdDLLM1EH24grt1rqmIQ) | 5:46 |
 | 37 | [云与海](https://open.spotify.com/track/391EmQt63uXH2dkY5ji3Q9) | [阿YueYue](https://open.spotify.com/artist/1QLBXKM5GCpyQQSVMNZqrZ) | [云与海](https://open.spotify.com/album/2MZWFjLhnd8FiRPxkgKeTk) | 4:18 |
 | 38 | [溫柔 \#MaydayBlue20th \- feat.孫燕姿](https://open.spotify.com/track/40fcXSuSb80MekMZM1ei2J) | [Mayday](https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY), [Stefanie Sun](https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn) | [溫柔 \#MaydayBlue20th](https://open.spotify.com/album/0hFNgUJRgBphC1NBJaZGI3) | 4:31 |
 | 39 | [鲸落海底](https://open.spotify.com/track/6SCJVKQdBc4KDDCafZ4S8p) | [Xian Zi](https://open.spotify.com/artist/2CBuGdj5Nmgx1VfrgLnGoJ) | [鲸落海底](https://open.spotify.com/album/7dHNvUWY9c3nix7Stp8zMy) | 4:43 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74DDhiuyXIl.md) - [plain]
 | 74 | [以年為單位的愛情\(電影《以年為單位的戀愛》片尾主題曲\)](https://open.spotify.com/track/5f939ccwoOJXxU2Sj6RxU4) | [Rainie Yang](https://open.spotify.com/artist/0MEchSWR9pJvw1S5CV3Kuk) | [以年為單位的愛情\(電影《以年為單位的戀愛》片尾主題曲\)](https://open.spotify.com/album/7vLFjY35aHSs0xwkzCTVAR) | 4:31 |
 | 75 | [Hold Me Tight](https://open.spotify.com/track/18U6DzjWgoMMYg14kJxCMu) | [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ), [張粹方](https://open.spotify.com/artist/7oBIFoqEP2zwnJa2HL6h0l) | [Hold Me Tight](https://open.spotify.com/album/72vVTzqoBOdbJDkZZmVmgd) | 4:06 |
 
-Snapshot ID: `MTY2MzU2MTM2MSwwMDAwMDAwMGY3ZGNmZGQ3MTE3ZmFlMjk2NjI0NTY5MjllNWE0NjJm`
+Snapshot ID: `MTY2MzU2MTM2MSwwMDAwMDAwMDI5ODc5NTE1MDQ2N2U5NTA3YTZkNzM2N2I3MzM3MWEw`

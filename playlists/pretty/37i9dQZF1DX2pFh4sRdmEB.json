@@ -1,12 +1,12 @@
 {
   "description": "\u00c9xitos del Regional Mexicano de ayer y hoy para acompa\u00f1arte en la troca.",
-  "num_followers": 440611,
+  "num_followers": 440722,
   "original_name": "La Troca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Njg2NDU3OSwwMDAwMDAwMDRmYjAzYWFmNzUxYTk5NDM5YzNjNzhiYjZiMTRkYWYy",
+  "snapshot_id": "MTY0Njg2NDU3OSwwMDAwMDAwMDk2NWMwOWYxZTE4YTViZjViNTM3NzdlNWNhYTIxNDgz",
   "tracks": [
     {
       "added_at": "2022-03-09 22:22:59",
@@ -1035,6 +1035,30 @@
     {
       "added_at": "2022-03-09 22:22:59",
       "album": {
+        "name": "Bendec\u00eddo",
+        "url": "https://open.spotify.com/album/639M2fMh0LtrcHgt1pBftu"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        },
+        {
+          "name": "Jes\u00fas Chairez",
+          "url": "https://open.spotify.com/artist/49xb55bacoIXahj7bLmfUp"
+        }
+      ],
+      "duration_ms": 208117,
+      "name": "Recordando a Manuel",
+      "url": "https://open.spotify.com/track/3JuPa0jxEAacGtz4mAKVZA"
+    },
+    {
+      "added_at": "2022-03-09 22:22:59",
+      "album": {
         "name": "12 Kilates Puros Corridos",
         "url": "https://open.spotify.com/album/1y9lJbemJO1OdyIQvcL1q4"
       },
@@ -1067,30 +1091,6 @@
       "duration_ms": 200161,
       "name": "Sigo Chambeando",
       "url": "https://open.spotify.com/track/4PR0r2us3a64lTew6TVlF2"
-    },
-    {
-      "added_at": "2022-03-09 22:22:59",
-      "album": {
-        "name": "Bendec\u00eddo",
-        "url": "https://open.spotify.com/album/639M2fMh0LtrcHgt1pBftu"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        },
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        },
-        {
-          "name": "Jes\u00fas Chairez",
-          "url": "https://open.spotify.com/artist/49xb55bacoIXahj7bLmfUp"
-        }
-      ],
-      "duration_ms": 208117,
-      "name": "Recordando a Manuel",
-      "url": "https://open.spotify.com/track/3JuPa0jxEAacGtz4mAKVZA"
     },
     {
       "added_at": "2022-03-09 22:22:59",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2022-03-09 22:22:59",
       "album": {
-        "name": "A Trav\u00e9s del Vaso",
-        "url": "https://open.spotify.com/album/7vT5aK4tV66WR8OH16gKjn"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arranke",
-          "url": "https://open.spotify.com/artist/1A773r2lVYAnmt8uwb5BOu"
-        }
-      ],
-      "duration_ms": 188661,
-      "name": "A Trav\u00e9s del Vaso",
-      "url": "https://open.spotify.com/track/1x5Fqllow3ngr5euK3hXSw"
-    },
-    {
-      "added_at": "2022-03-09 22:22:59",
-      "album": {
         "name": "La Banda Del Carro Rojo",
         "url": "https://open.spotify.com/album/7fetk69EbFu3iKqjhrKJdA"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 186720,
       "name": "La Banda Del Carro Rojo",
       "url": "https://open.spotify.com/track/6WDwbOSL8PGwokjxxZ7FDG"
+    },
+    {
+      "added_at": "2022-03-09 22:22:59",
+      "album": {
+        "name": "A Trav\u00e9s del Vaso",
+        "url": "https://open.spotify.com/album/7vT5aK4tV66WR8OH16gKjn"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arranke",
+          "url": "https://open.spotify.com/artist/1A773r2lVYAnmt8uwb5BOu"
+        }
+      ],
+      "duration_ms": 188661,
+      "name": "A Trav\u00e9s del Vaso",
+      "url": "https://open.spotify.com/track/1x5Fqllow3ngr5euK3hXSw"
     },
     {
       "added_at": "2022-03-09 22:22:59",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2022-03-09 22:22:59",
       "album": {
-        "name": "Hoy Te Pierdo",
-        "url": "https://open.spotify.com/album/2On6waVHo74Z7m8sLKGAUg"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 234320,
-      "name": "Hoy Te Pierdo",
-      "url": "https://open.spotify.com/track/2PtH42TBhfgAu6jS4RMqEw"
-    },
-    {
-      "added_at": "2022-03-09 22:22:59",
-      "album": {
         "name": "En El Camino",
         "url": "https://open.spotify.com/album/5B5zQLsqiI6PoIRQC8jn6M"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 168425,
       "name": "En El Camino",
       "url": "https://open.spotify.com/track/76QRh2Ikhr0i6dNjRvS3GS"
+    },
+    {
+      "added_at": "2022-03-09 22:22:59",
+      "album": {
+        "name": "Hoy Te Pierdo",
+        "url": "https://open.spotify.com/album/2On6waVHo74Z7m8sLKGAUg"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 234320,
+      "name": "Hoy Te Pierdo",
+      "url": "https://open.spotify.com/track/2PtH42TBhfgAu6jS4RMqEw"
     },
     {
       "added_at": "2022-03-09 22:22:59",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2022-03-09 22:22:59",
       "album": {
-        "name": "Jaula De Oro",
-        "url": "https://open.spotify.com/album/4xfHI8aqhWroOghjZ7NqkO"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 193106,
-      "name": "Pedro Y Pablo",
-      "url": "https://open.spotify.com/track/5XgIkYlSVby03NmqREd5Sf"
-    },
-    {
-      "added_at": "2022-03-09 22:22:59",
-      "album": {
         "name": "Dany, Te Dedico Esta Canci\u00f3n Con Todo Mi Coraz\u00f3n",
         "url": "https://open.spotify.com/album/5Zm6BtWH4CgLV83H2nWBsL"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 209906,
       "name": "Mi Raz\u00f3n De Ser",
       "url": "https://open.spotify.com/track/7EDEbNBsxgsTOfrOifN37a"
+    },
+    {
+      "added_at": "2022-03-09 22:22:59",
+      "album": {
+        "name": "Jaula De Oro",
+        "url": "https://open.spotify.com/album/4xfHI8aqhWroOghjZ7NqkO"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 193106,
+      "name": "Pedro Y Pablo",
+      "url": "https://open.spotify.com/track/5XgIkYlSVby03NmqREd5Sf"
     },
     {
       "added_at": "2022-03-09 22:22:59",
@@ -1375,18 +1375,18 @@
     {
       "added_at": "2022-03-09 22:22:59",
       "album": {
-        "name": "Los Caminos de la Vida (Spotify Singles)",
-        "url": "https://open.spotify.com/album/1GdDkx6ATOjvmbi7AYDtq5"
+        "name": "La Rueda De La Fortuna",
+        "url": "https://open.spotify.com/album/1YDVn5KeQ7ZzX7TPmSLTKd"
       },
       "artists": [
         {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
         }
       ],
-      "duration_ms": 328115,
-      "name": "Los Caminos de la Vida - Spotify Singles",
-      "url": "https://open.spotify.com/track/0LPcBW66vudTxR0HcauKNy"
+      "duration_ms": 234013,
+      "name": "Todo O Nada",
+      "url": "https://open.spotify.com/track/0snAM2wzhyQkT1zQmFliLG"
     },
     {
       "added_at": "2022-03-09 22:22:59",
@@ -1407,18 +1407,18 @@
     {
       "added_at": "2022-03-09 22:22:59",
       "album": {
-        "name": "La Rueda De La Fortuna",
-        "url": "https://open.spotify.com/album/1YDVn5KeQ7ZzX7TPmSLTKd"
+        "name": "Los Caminos de la Vida (Spotify Singles)",
+        "url": "https://open.spotify.com/album/1GdDkx6ATOjvmbi7AYDtq5"
       },
       "artists": [
         {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
         }
       ],
-      "duration_ms": 234013,
-      "name": "Todo O Nada",
-      "url": "https://open.spotify.com/track/0snAM2wzhyQkT1zQmFliLG"
+      "duration_ms": 328115,
+      "name": "Los Caminos de la Vida - Spotify Singles",
+      "url": "https://open.spotify.com/track/0LPcBW66vudTxR0HcauKNy"
     },
     {
       "added_at": "2022-03-09 22:22:59",
@@ -1439,22 +1439,6 @@
       "duration_ms": 183893,
       "name": "Las Tres Tumbas",
       "url": "https://open.spotify.com/track/4mcG6SlICWy1KPphstFiWz"
-    },
-    {
-      "added_at": "2022-03-09 22:22:59",
-      "album": {
-        "name": "La Garra De...",
-        "url": "https://open.spotify.com/album/36X48S9LwuT4hOF9igko7Y"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "Pacas De A Kilo",
-      "url": "https://open.spotify.com/track/4mBRMSabjk5OFpwAyZyHOI"
     },
     {
       "added_at": "2022-03-09 22:22:59",
@@ -1495,6 +1479,22 @@
     {
       "added_at": "2022-03-09 22:22:59",
       "album": {
+        "name": "La Garra De...",
+        "url": "https://open.spotify.com/album/36X48S9LwuT4hOF9igko7Y"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Pacas De A Kilo",
+      "url": "https://open.spotify.com/track/4mBRMSabjk5OFpwAyZyHOI"
+    },
+    {
+      "added_at": "2022-03-09 22:22:59",
+      "album": {
         "name": "Comer\u00e9 Callado, Vol. 1",
         "url": "https://open.spotify.com/album/4IeW4TAoqfbRYzQNAKxk91"
       },
@@ -1527,22 +1527,6 @@
       "duration_ms": 175040,
       "name": "Los Inadaptados",
       "url": "https://open.spotify.com/track/15v0ra246PDmiT5Vh9YzWO"
-    },
-    {
-      "added_at": "2022-03-09 22:22:59",
-      "album": {
-        "name": "Corridos Prohibidos",
-        "url": "https://open.spotify.com/album/6ur3OZ3UXA4Y4IgLpMW5Rw"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 195613,
-      "name": "La Camioneta Gris",
-      "url": "https://open.spotify.com/track/7e9vWIQWNE6r74PBC7ixdS"
     },
     {
       "added_at": "2022-03-09 22:22:59",
@@ -1611,6 +1595,22 @@
       "duration_ms": 201038,
       "name": "El Gato De Chihuahua",
       "url": "https://open.spotify.com/track/1PKoT3dROitNnZQch89TgT"
+    },
+    {
+      "added_at": "2022-03-09 22:22:59",
+      "album": {
+        "name": "Corridos Prohibidos",
+        "url": "https://open.spotify.com/album/6ur3OZ3UXA4Y4IgLpMW5Rw"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 195613,
+      "name": "La Camioneta Gris",
+      "url": "https://open.spotify.com/track/7e9vWIQWNE6r74PBC7ixdS"
     },
     {
       "added_at": "2022-03-09 22:22:59",
@@ -1811,18 +1811,18 @@
     {
       "added_at": "2022-03-09 22:22:59",
       "album": {
-        "name": "Unas M\u00edas y Otras Prestadas",
-        "url": "https://open.spotify.com/album/2QxaFVBRBiPeA6K3tBk7tk"
+        "name": "La Ley De La Vida",
+        "url": "https://open.spotify.com/album/6nAnqWuOL40YIUfsAPUi4F"
       },
       "artists": [
         {
-          "name": "Gerardo Coronel",
-          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
+          "name": "Luis Angel \"El Flaco\"",
+          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
         }
       ],
-      "duration_ms": 218709,
-      "name": "Vete",
-      "url": "https://open.spotify.com/track/0PphCpk9pbs0KDiEGJ2UwQ"
+      "duration_ms": 205133,
+      "name": "Te Lo Debo a Ti",
+      "url": "https://open.spotify.com/track/6IHwMo9UbzanstmW2Edy8r"
     },
     {
       "added_at": "2022-03-09 22:22:59",
@@ -1843,18 +1843,18 @@
     {
       "added_at": "2022-03-09 22:22:59",
       "album": {
-        "name": "La Ley De La Vida",
-        "url": "https://open.spotify.com/album/6nAnqWuOL40YIUfsAPUi4F"
+        "name": "Unas M\u00edas y Otras Prestadas",
+        "url": "https://open.spotify.com/album/2QxaFVBRBiPeA6K3tBk7tk"
       },
       "artists": [
         {
-          "name": "Luis Angel \"El Flaco\"",
-          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
+          "name": "Gerardo Coronel",
+          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
         }
       ],
-      "duration_ms": 205133,
-      "name": "Te Lo Debo a Ti",
-      "url": "https://open.spotify.com/track/6IHwMo9UbzanstmW2Edy8r"
+      "duration_ms": 218709,
+      "name": "Vete",
+      "url": "https://open.spotify.com/track/0PphCpk9pbs0KDiEGJ2UwQ"
     },
     {
       "added_at": "2022-03-09 22:22:59",
@@ -2003,22 +2003,6 @@
     {
       "added_at": "2022-03-09 22:22:59",
       "album": {
-        "name": "Renovar O Morir",
-        "url": "https://open.spotify.com/album/0Npb5RTXimPOeUQONeuz3A"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 169760,
-      "name": "Culiac\u00e1n Vs. Mazatl\u00e1n",
-      "url": "https://open.spotify.com/track/6TlCQBVenVdJWJknrVeCYr"
-    },
-    {
-      "added_at": "2022-03-09 22:22:59",
-      "album": {
         "name": "Mi Princesa",
         "url": "https://open.spotify.com/album/74Z68wlXXHP5nzOobB6ppJ"
       },
@@ -2031,6 +2015,22 @@
       "duration_ms": 214146,
       "name": "Espero Con Ansias",
       "url": "https://open.spotify.com/track/22SnIb63vexyG4RlRcqI9r"
+    },
+    {
+      "added_at": "2022-03-09 22:22:59",
+      "album": {
+        "name": "Renovar O Morir",
+        "url": "https://open.spotify.com/album/0Npb5RTXimPOeUQONeuz3A"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 169760,
+      "name": "Culiac\u00e1n Vs. Mazatl\u00e1n",
+      "url": "https://open.spotify.com/track/6TlCQBVenVdJWJknrVeCYr"
     },
     {
       "added_at": "2022-03-09 22:22:59",
@@ -2267,18 +2267,22 @@
     {
       "added_at": "2022-03-09 22:22:59",
       "album": {
-        "name": "Desmadre en el Bano",
-        "url": "https://open.spotify.com/album/7nvsqLAhYCFH1aroN9wDrP"
+        "name": "Estrenando Amante",
+        "url": "https://open.spotify.com/album/6OTgNYYTX9V9VwlK1swNVw"
       },
       "artists": [
         {
-          "name": "Los Amos De Nuevo Leon",
-          "url": "https://open.spotify.com/artist/2PpOrMC4P8PG2yi0S3ft0l"
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
         }
       ],
-      "duration_ms": 151960,
-      "name": "Desmadre en el Bano",
-      "url": "https://open.spotify.com/track/639HHMIvPddNffAgYylJcL"
+      "duration_ms": 168546,
+      "name": "Estrenando Amante",
+      "url": "https://open.spotify.com/track/39hRwctyqnnEsXttaJGKyQ"
     },
     {
       "added_at": "2022-03-09 22:22:59",
@@ -2299,22 +2303,18 @@
     {
       "added_at": "2022-03-09 22:22:59",
       "album": {
-        "name": "Estrenando Amante",
-        "url": "https://open.spotify.com/album/6OTgNYYTX9V9VwlK1swNVw"
+        "name": "Desmadre en el Bano",
+        "url": "https://open.spotify.com/album/7nvsqLAhYCFH1aroN9wDrP"
       },
       "artists": [
         {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        },
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+          "name": "Los Amos De Nuevo Leon",
+          "url": "https://open.spotify.com/artist/2PpOrMC4P8PG2yi0S3ft0l"
         }
       ],
-      "duration_ms": 168546,
-      "name": "Estrenando Amante",
-      "url": "https://open.spotify.com/track/39hRwctyqnnEsXttaJGKyQ"
+      "duration_ms": 151960,
+      "name": "Desmadre en el Bano",
+      "url": "https://open.spotify.com/track/639HHMIvPddNffAgYylJcL"
     },
     {
       "added_at": "2022-03-09 22:22:59",

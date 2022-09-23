@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 
 > Celebrate the spirit of independence! Cover: John Mark McMillan
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,410 likes - 60 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,417 likes - 60 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 | 38 | [Light of Your Grace](https://open.spotify.com/track/0VjZsR8TQBaUn9f4tND4J6) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [Light of Your Grace](https://open.spotify.com/album/5sxF80CaSq5Y2buTMXx3eD) | 3:09 |
 | 39 | [Falling Up](https://open.spotify.com/track/1sL6ZOwabMjS7h4dQVvkeC) | [Laity](https://open.spotify.com/artist/4K2tvMk8OdoG0Lo3PHir41) | [LET YOURSELF BE LOVED](https://open.spotify.com/album/1Ru5mrSp6RQUPpQFf0doee) | 3:19 |
 | 40 | [Take All of Me](https://open.spotify.com/track/7iiGzIvHSPmf1dAuRoKJ5J) | [Andrew Marcus](https://open.spotify.com/artist/2tVAwkz1ElBIuRY3jk86yT) | [Take All of Me](https://open.spotify.com/album/5HQj9QFkG10YJWHU70N2jr) | 3:52 |
-| 41 | [Person In Christ](https://open.spotify.com/track/1pdX4gY5t6sdZdsd5lp3Z5) | [Tenielle Neda](https://open.spotify.com/artist/38rsHCzbXGGXcIGq1ceArD) | [Person In Christ](https://open.spotify.com/album/5TZciwCzlDz8wObaigKYBu) | 4:10 |
-| 42 | [Worth It All](https://open.spotify.com/track/0LO9dTebf6qQ8apUEF93VI) | [Danny O'Callaghan](https://open.spotify.com/artist/0jSoCYPN9A69XCLdF0USBj) | [Worth It All](https://open.spotify.com/album/3BYHGBqcqYRwby8vAk5xXD) | 3:37 |
+| 41 | [Worth It All](https://open.spotify.com/track/0LO9dTebf6qQ8apUEF93VI) | [Danny O'Callaghan](https://open.spotify.com/artist/0jSoCYPN9A69XCLdF0USBj) | [Worth It All](https://open.spotify.com/album/3BYHGBqcqYRwby8vAk5xXD) | 3:37 |
+| 42 | [Person In Christ](https://open.spotify.com/track/1pdX4gY5t6sdZdsd5lp3Z5) | [Tenielle Neda](https://open.spotify.com/artist/38rsHCzbXGGXcIGq1ceArD) | [Person In Christ](https://open.spotify.com/album/5TZciwCzlDz8wObaigKYBu) | 4:10 |
 | 43 | [Yes and Amen](https://open.spotify.com/track/4DgiEJ7Jd1P91E88iswJoX) | [Matthew Zigenis](https://open.spotify.com/artist/6qW8jmrfF8dslzJDELDxdj) | [Everything Is Possible](https://open.spotify.com/album/0u2ivB7R3oDMcA5zfUfeuX) | 4:29 |
 | 44 | [Tides](https://open.spotify.com/track/0hlbkCqqxAXOkoN4340d91) | [RELIC](https://open.spotify.com/artist/2i1soaUZ6BZhbrxOpKy6we) | [High Hopes](https://open.spotify.com/album/5ke4ep5wCyDS6zsBbRTCxL) | 3:17 |
 | 45 | [Know Your Heart](https://open.spotify.com/track/5QgvHNtnWgO0nevZ6XQro6) | [David Leonard](https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE) | [The Wait](https://open.spotify.com/album/69YX5aF5IQ7Wg0lVhCoK0w) | 3:59 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 | 59 | [Never Grow Tired](https://open.spotify.com/track/68m3fFj8up50boqi077Yr8) | [The Evidence](https://open.spotify.com/artist/4MED9DlaFRdyMhD445Wqxe) | [Never Grow Tired](https://open.spotify.com/album/6YsIjF6Wr2kPr25CVI3F7M) | 4:21 |
 | 60 | [Found](https://open.spotify.com/track/1P1GB5tbf3wF9e7RyH1Qqu) | [Cory Emery](https://open.spotify.com/artist/7BPnaZXmzlAmylptWQG7so) | [A New Heart](https://open.spotify.com/album/6kZYWMvOAvXoUcpOFgkHSG) | 3:17 |
 
-Snapshot ID: `MTYwODI3MTMzNCwwMDAwMDAwMGE4YmEyZjExMDJjYjU3ZjI5NGY5MjYxOTI4ZTIyNTIy`
+Snapshot ID: `MTYwODI3MTMzNCwwMDAwMDAwMGZlNTVjYTdhYTA1ZjQ3YWUyMmE3MjdiOWY0MDM4OWM1`

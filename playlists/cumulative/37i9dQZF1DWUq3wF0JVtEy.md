@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Shuffle</a> your heart out.
 
-257 songs - 12 hr 36 min - [published](https://open.spotify.com/playlist/3x0R9H3q2apK7ItZZ2pCtQ)
+258 songs - 12 hr 38 min - [published](https://open.spotify.com/playlist/3x0R9H3q2apK7ItZZ2pCtQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Can't See](https://open.spotify.com/track/1kYkGEVNpugTZiigbiNK2W) | [NEVERGLOW](https://open.spotify.com/artist/2K7Hlrg5cti0mVKx4l0Rwz) | [Can't See](https://open.spotify.com/album/2BncSMJsjWgHrl6XbgMbjr) | 3:07 | 2022-04-29 | 2022-07-15 |
 | [Cardio](https://open.spotify.com/track/1gsrFaPPIpxsD92lNZHWzG) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ) | [Cardio](https://open.spotify.com/album/3Tb8sBjaY5Ah5Efpc8Z7xo) | 2:20 | 2021-10-29 |  |
 | [Carried Away \(Love To Love\) \(with Madison Beer\) \[Tchami Remix\]](https://open.spotify.com/track/4UWYz4VDyycuuyN2A9B2sY) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q), [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY) | [Carried Away \(Love To Love\) \[Tchami Remix\]](https://open.spotify.com/album/3jmkm8U4Fp8LX1qBH0nzmx) | 4:49 | 2021-10-29 | 2022-08-06 |
+| [Cathedral \(Piece Of Me\) \[feat\. JEN\]](https://open.spotify.com/track/7CXln4Z9LfQdsPpXaPrDQn) | [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT), [JEN](https://open.spotify.com/artist/6DaSJnsDXVDcrHzru4MHrx) | [Cathedral \(Piece Of Me\) \[feat\. JEN\]](https://open.spotify.com/album/7bOJCwe874SKa24MfzyNEG) | 2:28 | 2022-09-16 |  |
 | [Change Your Mind](https://open.spotify.com/track/614o3Tg9I7Xv8xkovjSp7a) | [Interupt](https://open.spotify.com/artist/0OFn6uw0q674vCcjDRNP4I) | [Change Your Mind](https://open.spotify.com/album/4lzvg3fmxUlAGaxfbWhBt4) | 3:04 | 2021-10-29 |  |
 | [Check Out](https://open.spotify.com/track/2n6qz4opcJlHsEpI8030YM) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj), [Leo Stannard](https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0) | [Check Out](https://open.spotify.com/album/1i9flcfwW08i5ynf4YZHsb) | 2:54 | 2022-01-21 |  |
 | [Cheque](https://open.spotify.com/track/1CE0qHhs1ptJg01dGROO2c) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Cheque](https://open.spotify.com/album/60wvUC6xVoV8ZXeoW7sP1g) | 2:45 | 2021-10-29 |  |
@@ -235,7 +236,7 @@
 | [Tell Me](https://open.spotify.com/track/6gOR8xTSQWEMfEJa7r52k7) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS), [Hero Baldwin](https://open.spotify.com/artist/3F5e8tUWnf1MKKwW89rSg6) | [Tell Me \(feat\. Hero Baldwin\)](https://open.spotify.com/album/2zVu8oMOxheVKRKvRqaque) | 3:23 | 2021-10-29 | 2022-08-06 |
 | [Tell Me How](https://open.spotify.com/track/4p6e7cpogv3RbcjzB1HXEZ) | [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC), [Emily Makis](https://open.spotify.com/artist/51ferxocEKt0vjxzUsqyFX) | [Faith In Chaos](https://open.spotify.com/album/2v9CsJviAEwrbViMJV2muZ) | 3:16 | 2022-03-04 | 2022-04-20 |
 | [The G.O.A.T.](https://open.spotify.com/track/1hUmqRBZpseNjByPAEW6AJ) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Mesto](https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9) | [The G.O.A.T.](https://open.spotify.com/album/3WNP6JVlFZke5TwAToMtkh) | 3:21 | 2022-04-01 | 2022-08-06 |
-| [The Middle](https://open.spotify.com/track/36s3JG5whwTnqpgeqeDK7K) | [Seth Hills](https://open.spotify.com/artist/5nFt7a5Du2MkdAr1KniXh7) | [The Middle](https://open.spotify.com/album/6ZJkuLfmOtCxXmrFXrbpzN) | 2:47 | 2022-09-09 |  |
+| [The Middle](https://open.spotify.com/track/36s3JG5whwTnqpgeqeDK7K) | [Seth Hills](https://open.spotify.com/artist/5nFt7a5Du2MkdAr1KniXh7) | [The Middle](https://open.spotify.com/album/6ZJkuLfmOtCxXmrFXrbpzN) | 2:47 | 2022-09-09 | 2022-09-23 |
 | [The Underground](https://open.spotify.com/track/266YHA8L6rGYl4Iq5Mmvwb) | [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM), [MorganJ](https://open.spotify.com/artist/5irwemCIBdwWYTZrcxX2UW) | [The Underground](https://open.spotify.com/album/75d0vSPEzmVLSECS9AOXUO) | 2:35 | 2022-07-22 | 2022-08-22 |
 | [This Is Love](https://open.spotify.com/track/0TeIpXK4mS251xn4HNbL5x) | [Melissa Pools](https://open.spotify.com/artist/3ZKTIDG2YvVYr9EogB9KpW), [Municipal](https://open.spotify.com/artist/16Kr9q5VCyDw6elRITKlC6) | [This Is Love](https://open.spotify.com/album/5StBcXiU25jAcDmA4GOjQN) | 2:08 | 2022-04-01 |  |
 | [Thrills \(feat\. Jaxon Rose\)](https://open.spotify.com/track/2KnOz4On4UakMbBYlfPa9K) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R), [Jaxon Rose](https://open.spotify.com/artist/0IyRRQX0XYxwropqhXgZLz) | [Thrills \(feat\. Jaxon Rose\)](https://open.spotify.com/album/0AHVfgQ7mjSC2cocVF5uOx) | 3:22 | 2021-10-29 | 2022-09-13 |

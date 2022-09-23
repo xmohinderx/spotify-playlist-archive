@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest, freshest R&B tunes\.  Cover: Jessie Reyez
 
-[Spotify](https://open.spotify.com/user/spotify) - 928,989 likes - 85 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 929,261 likes - 85 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

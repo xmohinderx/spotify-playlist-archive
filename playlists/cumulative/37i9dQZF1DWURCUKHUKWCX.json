@@ -1776,6 +1776,24 @@
     },
     {
       "album": {
+        "name": "Evermore (Solo Piano Version)",
+        "url": "https://open.spotify.com/album/1h1ZsE5v8PlJhtbXODCYCS"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198897,
+      "name": "One Look - Solo Piano Version",
+      "url": "https://open.spotify.com/track/2rOzjds76jtdjSwQbIfuc6"
+    },
+    {
+      "album": {
         "name": "Songbird (Solo Piano Version)",
         "url": "https://open.spotify.com/album/5Rq6irAvLNj36yBD7bY9t0"
       },
@@ -1841,7 +1859,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 198897,
       "name": "One Look - Solo Piano Version",
       "url": "https://open.spotify.com/track/6ukVwqW1apM0LMTHxoCiZm"

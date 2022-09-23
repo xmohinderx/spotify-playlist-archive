@@ -4,7 +4,7 @@
 
 > Gentle instrumental versions of holiday classics to help your little one relax when Christmas excitement is in full swing.
 
-48 songs - 2 hr 8 min - [published](https://open.spotify.com/playlist/0cma9eATlERoy7bhmBZ0M3)
+53 songs - 2 hr 15 min - [published](https://open.spotify.com/playlist/0cma9eATlERoy7bhmBZ0M3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [](https://open.spotify.com/track/5RH7e8dotrJNLdfbDgXkxG) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/0pCLie2ziptu5IJwLPJzhI) | 0:00 | 2021-12-22 | 2022-09-20 |
 | [](https://open.spotify.com/track/6jnVe0mrlljgBx7il7YtUJ) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/4aBHuJfciuVyOcgAXX2NvJ) | 0:00 | 2021-12-22 | 2022-09-20 |
 | [](https://open.spotify.com/track/7ubJ40WEvyuzjmiFsH6RQa) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/7CrpddnQnNkNBQEAJ0ci6a) | 0:00 | 2021-12-22 | 2022-09-20 |
+| [A Dream Is A Wish Your Heart Makes](https://open.spotify.com/track/12m082qt1zlO0KybXIVgnu) | [Lola Fiennes](https://open.spotify.com/artist/2AxgpeDAr8BILZvsEO445F) | [Christmas Time Is Here](https://open.spotify.com/album/6atF2Hn5oYHVxTQe0toTTf) | 1:19 | 2022-09-22 |  |
 | [Angels From The Realms Of Glory](https://open.spotify.com/track/3PTDBKq7S99lqgvFPDlnJZ) | [Eric Nordhoff](https://open.spotify.com/artist/6egf9BaYi17rYFHpsrELXd) | [Quietime In The Garden](https://open.spotify.com/album/2NdrbO9WGOrDfY9boMUt6N) | 3:46 | 2021-12-22 | 2022-07-29 |
 | [Angels From The Realms Of Glory](https://open.spotify.com/track/4xKthebrMWpRlfCdqGjfZk) | [Eric Nordhoff](https://open.spotify.com/artist/6egf9BaYi17rYFHpsrELXd) | [Quietime \- Peace On Earth](https://open.spotify.com/album/5cVsi9sRldx6HLChLxTZcz) | 3:47 | 2021-12-22 |  |
 | [Ave Maria](https://open.spotify.com/track/1igkY9A1HcPCcvq3PIMReq) | [Jonta Lei](https://open.spotify.com/artist/5bRtL6wZclxJEQiqsR9lNC) | [Religous Harp](https://open.spotify.com/album/4ThFe1arVGMNwLQTNONbWn) | 3:01 | 2021-12-22 |  |
@@ -21,6 +22,8 @@
 | [Away in a Manger](https://open.spotify.com/track/6EPQBJzVPciZVmXpQntlXa) | [The Masked Guitarist](https://open.spotify.com/artist/60JboBXHFYFoJk6e1TrtZT) | [Away in a Manger](https://open.spotify.com/album/6vrDuE2NlFHXYpLf3kV4zy) | 1:47 | 2021-12-22 | 2022-07-29 |
 | [Christ Child's Lullaby \(Instrumental Version\)](https://open.spotify.com/track/4mIDI8cbAsw2sVD4oG3vCl) | [The O'Neill Brothers Group](https://open.spotify.com/artist/0cylxW7HGdK9xMdubw2oYW) | [Christmas Sounds on Harp](https://open.spotify.com/album/4jiBc5Y3OuHOlllmKb0zb3) | 3:14 | 2021-12-22 |  |
 | [Christmas Peace](https://open.spotify.com/track/5Jxv7KoYizZe91nA4PpaDY) | [Amy Yeager](https://open.spotify.com/artist/5xfWkvMNQZUL93sfFVRQqj) | [The Joy of Christmas](https://open.spotify.com/album/6wIKUnFppzUPdkXF4AvWiD) | 2:54 | 2021-12-22 |  |
+| [Deck The Halls](https://open.spotify.com/track/4Ryb9cUEenvCPcL5V66x9Z) | [Karen Joyce](https://open.spotify.com/artist/7yb60ZMXVj2XWFhMH8Yuxd) | [Christmas Harp For Babies](https://open.spotify.com/album/3kL1zKzvQYnnZbClSPZCoy) | 1:05 | 2022-09-22 |  |
+| [Ding Dong Merrily On High](https://open.spotify.com/track/0NZWjFE931lEjsNAjutr1G) | [Anna Murakami](https://open.spotify.com/artist/2kEfDMbRORDJWTJQhAxbws) | [Holiday Harp\-Magic](https://open.spotify.com/album/5FxJ2QVKORkTtKVzA87Lt0) | 1:18 | 2022-09-22 |  |
 | [Ding Dong Merrily On High](https://open.spotify.com/track/51VCb04kTqUOziuk2kviK5) | [Michiko Mullins](https://open.spotify.com/artist/0kZcnLHQCIufaWOKpac6ZG) | [Light The Candles](https://open.spotify.com/album/1iAiCpBrkkToAoC7CU1Ed9) | 2:03 | 2021-12-22 |  |
 | [Do You Want To Build A Snowman?](https://open.spotify.com/track/2vwIMdSn7LSjFk5YleHKqF) | [Ivan Clarke](https://open.spotify.com/artist/6CDPO2Fvp4FmhIuopGwy2W) | [A Baby Changes Everything](https://open.spotify.com/album/1YHiGXAmqHP3ykTBezP5FV) | 3:08 | 2021-12-22 |  |
 | [Do You Want to Build a Snowman?](https://open.spotify.com/track/1fbnn3frhDoCMsM0QEogJK) | [Ralph Aachen](https://open.spotify.com/artist/0dJtjZpWliouisclYavoGF) | [Do You Want to Build a Snowman?](https://open.spotify.com/album/66qwp0fTQzjZGsx5zFSNeB) | 3:16 | 2021-12-22 |  |
@@ -40,7 +43,9 @@
 | [Joy to the World \(Instrumental\)](https://open.spotify.com/track/2XG2tfepUFV6ujKSLFmL7u) | [Rockabye Lullaby](https://open.spotify.com/artist/3y0d6ljlxup7X9hZKSdKbr) | [Christmas Lullabies Vol 3](https://open.spotify.com/album/17kPYRSo1D9KTGZy4fKB7n) | 3:56 | 2021-12-22 |  |
 | [Let It Snow Let It Snow Let It Snow](https://open.spotify.com/track/15a8V1kcwfqimlHRe5n6Yl) | [Universe Mind](https://open.spotify.com/artist/2awxN1MZogaVe4XxP4NNjG) | [Christmas Lullabies](https://open.spotify.com/album/5gcFtGz8MFUST69lxrvVol) | 3:14 | 2021-12-22 |  |
 | [Lo, How a Rose E'er Blooming \(Instrumental Version\)](https://open.spotify.com/track/3sDAasJyBhCo7swSa9MHrk) | [The O'Neill Brothers Group](https://open.spotify.com/artist/0cylxW7HGdK9xMdubw2oYW) | [Christmas Sounds on Harp](https://open.spotify.com/album/4jiBc5Y3OuHOlllmKb0zb3) | 2:37 | 2021-12-22 |  |
+| [Mary’s Boy child](https://open.spotify.com/track/61VQF7MNKpHtCBZRr3TePx) | [Karen Joyce](https://open.spotify.com/artist/7yb60ZMXVj2XWFhMH8Yuxd) | [Christmas Harp For Babies](https://open.spotify.com/album/3kL1zKzvQYnnZbClSPZCoy) | 1:26 | 2022-09-22 |  |
 | [O Come All Ye Faithful](https://open.spotify.com/track/2s52PLq7hqaO2kmb6CPn6T) | [Attila Fias](https://open.spotify.com/artist/3V1CgXZe3cFkJ9VDSeFKkl) | [Peaceful Christmas Harp](https://open.spotify.com/album/1ZPpgQnJEJEHCycs1dWEHl) | 4:11 | 2021-12-22 |  |
+| [O Holy Night](https://open.spotify.com/track/32i2RMnxpMfTYBRGhNWZbb) | [Karen Joyce](https://open.spotify.com/artist/7yb60ZMXVj2XWFhMH8Yuxd) | [Christmas Harp For Babies](https://open.spotify.com/album/3kL1zKzvQYnnZbClSPZCoy) | 1:54 | 2022-09-22 |  |
 | [O Tannenbaum](https://open.spotify.com/track/7h63D3GIj99OkdMILmrCZf) | [Attila Fias](https://open.spotify.com/artist/3V1CgXZe3cFkJ9VDSeFKkl) | [Christmas Spa](https://open.spotify.com/album/6i7aQrxUd1jpAR6Ni95uib) | 5:05 | 2021-12-22 |  |
 | [Silent Night](https://open.spotify.com/track/3sPnX1oNBvVfxf8NzhsZQf) | [Ginga Nesto](https://open.spotify.com/artist/1dNyjcuUQztBbx0zk7MBRc) | [You Are My Sunshine \- Harp Classics](https://open.spotify.com/album/5a8OWw2hbEJofxPO4YFwBE) | 3:24 | 2021-12-22 |  |
 | [Silent Night](https://open.spotify.com/track/4VhASbTfw1zBh7kzMFtFAC) | [Liam Simon](https://open.spotify.com/artist/2z660oi3KO1WylKrZlxi6y) | [A Joyful Christmas](https://open.spotify.com/album/4TWNCHyFgjy0lDT17EH9wm) | 2:28 | 2021-12-22 |  |

@@ -4,7 +4,7 @@
 
 > next gen pop cover: JVKE
 
-1,110 songs - 2 day 5 hr 55 min - [published](https://open.spotify.com/playlist/1MUGAYRMba2bUffdFFswRE)
+1,111 songs - 2 day 5 hr 57 min - [published](https://open.spotify.com/playlist/1MUGAYRMba2bUffdFFswRE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -811,6 +811,7 @@
 | [Revolver](https://open.spotify.com/track/3alJBylWqwz6zFDhzT9xO3) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [Revolver](https://open.spotify.com/album/5h5Phe6GYcTrFRyjfDcNPv) | 2:48 | 2021-06-05 | 2021-08-14 |
 | [Rock Bottom](https://open.spotify.com/track/3CTDZULHrabIo5ANOg2mV3) | [Navvy](https://open.spotify.com/artist/59uIMi3xrGO0kwfy7Zea24) | [Rock Bottom](https://open.spotify.com/album/5lrE3gB0O2774Qn0WcnAPd) | 2:42 | 2021-09-11 | 2021-09-28 |
 | [Rockland](https://open.spotify.com/track/2fooMOezILHFlxkCqq3RRm) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Rockland](https://open.spotify.com/album/58I32Uh5uNYLKSkrzIufBo) | 3:37 | 2021-10-23 | 2021-11-20 |
+| [Romantic Homicide](https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B) | 2:12 | 2022-09-22 |  |
 | [Romeo & Juliet](https://open.spotify.com/track/4AXS0kSzmuhAAYJtVKbZDq) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [Romeo & Juliet](https://open.spotify.com/album/6DHGanNz3f10orVwx5NhW3) | 2:46 | 2021-03-16 | 2021-05-22 |
 | [ROOM FOR 2](https://open.spotify.com/track/7wfxf9QXBIWgBx1aG5QWhR) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [ROOM FOR 2](https://open.spotify.com/album/51XyM5nK6zGwa4hWNNMmSz) | 2:31 | 2022-02-18 | 2022-04-23 |
 | [rubberband](https://open.spotify.com/track/05ABOPiW13nqIedJfqmfPM) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [rubberband](https://open.spotify.com/album/3CWYvhScPEskXPOYiXG8SH) | 2:27 | 2021-02-16\* | 2021-04-10 |

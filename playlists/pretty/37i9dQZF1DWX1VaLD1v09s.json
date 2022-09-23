@@ -1,12 +1,12 @@
 {
   "description": "The most incredible songs to celebrate the life, death and resurrection of our Lord Jesus are all here in one collection.  Sit back and let it provide the praise for glorious day!",
-  "num_followers": 66183,
+  "num_followers": 66208,
   "original_name": "Easter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDE3NDY2OCwwMDAwMDAwMDkxYzRlMWUyNmQ4OGVlOTk2OWIxZDVlYzcxNTNiY2Yw",
+  "snapshot_id": "MTY1MDE3NDY2OCwwMDAwMDAwMDRkZGZkZWQ3MTZlYTk4YTUyNmU2MWE5ZTVhYmQyNTVm",
   "tracks": [
     {
       "added_at": "2022-04-17 05:51:08",
@@ -267,6 +267,22 @@
     {
       "added_at": "2022-04-17 05:51:08",
       "album": {
+        "name": "My God Is Still The Same",
+        "url": "https://open.spotify.com/album/5YFrFIwYuNxdYIA0I0qFy1"
+      },
+      "artists": [
+        {
+          "name": "Sanctus Real",
+          "url": "https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj"
+        }
+      ],
+      "duration_ms": 205146,
+      "name": "My God Is Still The Same",
+      "url": "https://open.spotify.com/track/18QN5s8wxFP61qsKPLiBue"
+    },
+    {
+      "added_at": "2022-04-17 05:51:08",
+      "album": {
         "name": "Chain Breaker (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1SIDIEoYi0EAlRqa1J6J7N"
       },
@@ -303,22 +319,6 @@
       "duration_ms": 373691,
       "name": "No Longer Slaves (Spontaneous) - Live",
       "url": "https://open.spotify.com/track/584GnCDcDhRV6R8iZ7gzxC"
-    },
-    {
-      "added_at": "2022-04-17 05:51:08",
-      "album": {
-        "name": "My God Is Still The Same",
-        "url": "https://open.spotify.com/album/5YFrFIwYuNxdYIA0I0qFy1"
-      },
-      "artists": [
-        {
-          "name": "Sanctus Real",
-          "url": "https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj"
-        }
-      ],
-      "duration_ms": 205146,
-      "name": "My God Is Still The Same",
-      "url": "https://open.spotify.com/track/18QN5s8wxFP61qsKPLiBue"
     },
     {
       "added_at": "2022-04-17 05:51:08",
@@ -1859,6 +1859,22 @@
     {
       "added_at": "2022-04-17 05:51:08",
       "album": {
+        "name": "Your Grace Finds Me (Live)",
+        "url": "https://open.spotify.com/album/1gYcjMGHyTQvlTlSDu8dhU"
+      },
+      "artists": [
+        {
+          "name": "Matt Redman",
+          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
+        }
+      ],
+      "duration_ms": 340826,
+      "name": "Your Grace Finds Me - Live",
+      "url": "https://open.spotify.com/track/1ExpEXUOW2KzpfV0v8iWUp"
+    },
+    {
+      "added_at": "2022-04-17 05:51:08",
+      "album": {
         "name": "Passion: Everything Glorious",
         "url": "https://open.spotify.com/album/1plOtC0txpyPtkeb6tlixF"
       },
@@ -1875,22 +1891,6 @@
       "duration_ms": 327400,
       "name": "Jesus Paid It All",
       "url": "https://open.spotify.com/track/73EIpn5AcedCWPOmxWMxH9"
-    },
-    {
-      "added_at": "2022-04-17 05:51:08",
-      "album": {
-        "name": "Your Grace Finds Me (Live)",
-        "url": "https://open.spotify.com/album/1gYcjMGHyTQvlTlSDu8dhU"
-      },
-      "artists": [
-        {
-          "name": "Matt Redman",
-          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
-        }
-      ],
-      "duration_ms": 340826,
-      "name": "Your Grace Finds Me - Live",
-      "url": "https://open.spotify.com/track/1ExpEXUOW2KzpfV0v8iWUp"
     },
     {
       "added_at": "2022-04-17 05:51:08",
@@ -2055,6 +2055,50 @@
     {
       "added_at": "2022-04-17 05:51:08",
       "album": {
+        "name": "Awe + Wonder (Live)",
+        "url": "https://open.spotify.com/album/2Qp1udkJdjI6zW6Lr7wO3g"
+      },
+      "artists": [
+        {
+          "name": "The Belonging Co",
+          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
+        },
+        {
+          "name": "Kari Jobe",
+          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+        }
+      ],
+      "duration_ms": 389897,
+      "name": "Hosanna - Live",
+      "url": "https://open.spotify.com/track/3iCyKTgnCYAhYJKaGsBmg8"
+    },
+    {
+      "added_at": "2022-04-17 05:51:08",
+      "album": {
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/2QPKh4LqUxtwXGwbriYzqZ"
+      },
+      "artists": [
+        {
+          "name": "Trip Lee",
+          "url": "https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy"
+        },
+        {
+          "name": "Dimitri McDowell",
+          "url": "https://open.spotify.com/artist/0z5SAvLBgXdLs33L3tLbfo"
+        },
+        {
+          "name": "Leah Smith",
+          "url": "https://open.spotify.com/artist/29b38fzTLn3i4vvRNCED2E"
+        }
+      ],
+      "duration_ms": 308274,
+      "name": "Sweet Victory",
+      "url": "https://open.spotify.com/track/3RpcCr8ZlIiYEctUYBAGQm"
+    },
+    {
+      "added_at": "2022-04-17 05:51:08",
+      "album": {
         "name": "The Loft Sessions",
         "url": "https://open.spotify.com/album/4gpwBS3FpUuSPfrV8D9Bqr"
       },
@@ -2095,30 +2139,6 @@
     {
       "added_at": "2022-04-17 05:51:08",
       "album": {
-        "name": "Rise",
-        "url": "https://open.spotify.com/album/2QPKh4LqUxtwXGwbriYzqZ"
-      },
-      "artists": [
-        {
-          "name": "Trip Lee",
-          "url": "https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy"
-        },
-        {
-          "name": "Dimitri McDowell",
-          "url": "https://open.spotify.com/artist/0z5SAvLBgXdLs33L3tLbfo"
-        },
-        {
-          "name": "Leah Smith",
-          "url": "https://open.spotify.com/artist/29b38fzTLn3i4vvRNCED2E"
-        }
-      ],
-      "duration_ms": 308274,
-      "name": "Sweet Victory",
-      "url": "https://open.spotify.com/track/3RpcCr8ZlIiYEctUYBAGQm"
-    },
-    {
-      "added_at": "2022-04-17 05:51:08",
-      "album": {
         "name": "Pure Heart (Live)",
         "url": "https://open.spotify.com/album/5tke3M4DlnUd6fChHyIxKg"
       },
@@ -2131,26 +2151,6 @@
       "duration_ms": 208933,
       "name": "There Is None Like You - Live",
       "url": "https://open.spotify.com/track/6gVkG8f7ldsQs0jAI8cB4X"
-    },
-    {
-      "added_at": "2022-04-17 05:51:08",
-      "album": {
-        "name": "Awe + Wonder (Live)",
-        "url": "https://open.spotify.com/album/2Qp1udkJdjI6zW6Lr7wO3g"
-      },
-      "artists": [
-        {
-          "name": "The Belonging Co",
-          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
-        },
-        {
-          "name": "Kari Jobe",
-          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
-        }
-      ],
-      "duration_ms": 389897,
-      "name": "Hosanna - Live",
-      "url": "https://open.spotify.com/track/3iCyKTgnCYAhYJKaGsBmg8"
     },
     {
       "added_at": "2022-04-17 05:51:08",
@@ -2271,22 +2271,6 @@
     {
       "added_at": "2022-04-17 05:51:08",
       "album": {
-        "name": "Cutting Edge 1 & 2",
-        "url": "https://open.spotify.com/album/6w2F4U8DetNtAucmynDj5v"
-      },
-      "artists": [
-        {
-          "name": "Delirious?",
-          "url": "https://open.spotify.com/artist/53Z2RNY4OYJ0Galu6AWzxF"
-        }
-      ],
-      "duration_ms": 370360,
-      "name": "I Could Sing of Your Love Forever",
-      "url": "https://open.spotify.com/track/1yowMNvS59dTccbZosir2o"
-    },
-    {
-      "added_at": "2022-04-17 05:51:08",
-      "album": {
         "name": "Something Different (Deluxe Version)",
         "url": "https://open.spotify.com/album/4S4lInmCZneeMgd2wUJAwr"
       },
@@ -2299,6 +2283,22 @@
       "duration_ms": 228040,
       "name": "To Live Is Christ",
       "url": "https://open.spotify.com/track/2RQvdhnvPxxLBHkCPd1dnw"
+    },
+    {
+      "added_at": "2022-04-17 05:51:08",
+      "album": {
+        "name": "Cutting Edge 1 & 2",
+        "url": "https://open.spotify.com/album/6w2F4U8DetNtAucmynDj5v"
+      },
+      "artists": [
+        {
+          "name": "Delirious?",
+          "url": "https://open.spotify.com/artist/53Z2RNY4OYJ0Galu6AWzxF"
+        }
+      ],
+      "duration_ms": 370360,
+      "name": "I Could Sing of Your Love Forever",
+      "url": "https://open.spotify.com/track/1yowMNvS59dTccbZosir2o"
     },
     {
       "added_at": "2022-04-17 05:51:08",
@@ -2355,22 +2355,6 @@
     {
       "added_at": "2022-04-17 05:51:08",
       "album": {
-        "name": "Reunited",
-        "url": "https://open.spotify.com/album/7ygK4tK0qSpdlMau3sBnO5"
-      },
-      "artists": [
-        {
-          "name": "Gaither Vocal Band",
-          "url": "https://open.spotify.com/artist/0pjLiK5qb4Zr0PWRNkdd2o"
-        }
-      ],
-      "duration_ms": 216226,
-      "name": "Because He Lives",
-      "url": "https://open.spotify.com/track/1OqKHs0OGzlOib5BtuUT7L"
-    },
-    {
-      "added_at": "2022-04-17 05:51:08",
-      "album": {
         "name": "No One Like Our God",
         "url": "https://open.spotify.com/album/7Fcpi2Cm9H7PoWi0y91aKR"
       },
@@ -2383,6 +2367,22 @@
       "duration_ms": 249080,
       "name": "No One Like Our God",
       "url": "https://open.spotify.com/track/0OVsEZ9BLf4zNa4d8OOL3a"
+    },
+    {
+      "added_at": "2022-04-17 05:51:08",
+      "album": {
+        "name": "Reunited",
+        "url": "https://open.spotify.com/album/7ygK4tK0qSpdlMau3sBnO5"
+      },
+      "artists": [
+        {
+          "name": "Gaither Vocal Band",
+          "url": "https://open.spotify.com/artist/0pjLiK5qb4Zr0PWRNkdd2o"
+        }
+      ],
+      "duration_ms": 216226,
+      "name": "Because He Lives",
+      "url": "https://open.spotify.com/track/1OqKHs0OGzlOib5BtuUT7L"
     },
     {
       "added_at": "2022-04-17 05:51:08",

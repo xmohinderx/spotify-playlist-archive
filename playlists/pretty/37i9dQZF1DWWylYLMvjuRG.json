@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 2010s. Cover: Flo Rida",
-  "num_followers": 451979,
+  "num_followers": 452867,
   "original_name": "Party Hits 2010s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTc4MzE5MSwwMDAwMDAwMDc5NTU3ZTJlNWVlMGJhMzczYjllN2ZkNzYxOWM3MWJi",
+  "snapshot_id": "MTY2MTc4MzE5MSwwMDAwMDAwMDRmOGY5MjdhMWYzNzBiN2RjN2U2MGJkNzhiYTQxM2Q1",
   "tracks": [
     {
       "added_at": "2022-07-02 11:07:00",
@@ -803,26 +803,6 @@
     {
       "added_at": "2022-07-02 11:07:00",
       "album": {
-        "name": "Jungle Rules",
-        "url": "https://open.spotify.com/album/4c2p3TdN7NcQfCXyueCNnC"
-      },
-      "artists": [
-        {
-          "name": "French Montana",
-          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
-        },
-        {
-          "name": "Swae Lee",
-          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
-        }
-      ],
-      "duration_ms": 233901,
-      "name": "Unforgettable",
-      "url": "https://open.spotify.com/track/3B54sVLJ402zGa6Xm4YGNe"
-    },
-    {
-      "added_at": "2022-07-02 11:07:00",
-      "album": {
         "name": "Without Warning",
         "url": "https://open.spotify.com/album/0MV1yCXcNNQBfwApqAVkH0"
       },
@@ -839,6 +819,26 @@
       "duration_ms": 172800,
       "name": "Ric Flair Drip (with Metro Boomin)",
       "url": "https://open.spotify.com/track/7sO5G9EABYOXQKNPNiE9NR"
+    },
+    {
+      "added_at": "2022-07-02 11:07:00",
+      "album": {
+        "name": "Jungle Rules",
+        "url": "https://open.spotify.com/album/4c2p3TdN7NcQfCXyueCNnC"
+      },
+      "artists": [
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "name": "Swae Lee",
+          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+        }
+      ],
+      "duration_ms": 233901,
+      "name": "Unforgettable",
+      "url": "https://open.spotify.com/track/3B54sVLJ402zGa6Xm4YGNe"
     },
     {
       "added_at": "2022-07-02 11:07:00",
@@ -987,22 +987,6 @@
     {
       "added_at": "2022-07-02 11:07:00",
       "album": {
-        "name": "Pink Friday (Complete Edition)",
-        "url": "https://open.spotify.com/album/7aADdYLiK1z7GlMFr0UIZw"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 200013,
-      "name": "Super Bass",
-      "url": "https://open.spotify.com/track/3hlksXnvbKogFdPbpO9vel"
-    },
-    {
-      "added_at": "2022-07-02 11:07:00",
-      "album": {
         "name": "More Than You Know",
         "url": "https://open.spotify.com/album/6Ei5WWek37m1x9AjpSXTcJ"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 203000,
       "name": "More Than You Know",
       "url": "https://open.spotify.com/track/6h5PAsRni4IRlxWr6uDPTP"
+    },
+    {
+      "added_at": "2022-07-02 11:07:00",
+      "album": {
+        "name": "Pink Friday (Complete Edition)",
+        "url": "https://open.spotify.com/album/7aADdYLiK1z7GlMFr0UIZw"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 200013,
+      "name": "Super Bass",
+      "url": "https://open.spotify.com/track/3hlksXnvbKogFdPbpO9vel"
     },
     {
       "added_at": "2022-07-02 11:07:00",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2022-07-02 11:07:00",
       "album": {
+        "name": "Battleground (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2hnaJ8ktG2FSP1EthsCo6N"
+      },
+      "artists": [
+        {
+          "name": "The Wanted",
+          "url": "https://open.spotify.com/artist/2NhdGz9EDv2FeUw6udu2g1"
+        }
+      ],
+      "duration_ms": 197935,
+      "name": "Glad You Came",
+      "url": "https://open.spotify.com/track/5yDL13y5giogKs2fSNf7sj"
+    },
+    {
+      "added_at": "2022-07-02 11:07:00",
+      "album": {
         "name": "Invasion of Privacy",
         "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 253390,
       "name": "I Like It",
       "url": "https://open.spotify.com/track/58q2HKrzhC3ozto2nDdN4z"
-    },
-    {
-      "added_at": "2022-07-02 11:07:00",
-      "album": {
-        "name": "Battleground (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2hnaJ8ktG2FSP1EthsCo6N"
-      },
-      "artists": [
-        {
-          "name": "The Wanted",
-          "url": "https://open.spotify.com/artist/2NhdGz9EDv2FeUw6udu2g1"
-        }
-      ],
-      "duration_ms": 197935,
-      "name": "Glad You Came",
-      "url": "https://open.spotify.com/track/5yDL13y5giogKs2fSNf7sj"
     },
     {
       "added_at": "2022-07-02 11:07:00",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2022-07-02 11:07:00",
       "album": {
+        "name": "Scorpion",
+        "url": "https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 210746,
+      "name": "Nice For What",
+      "url": "https://open.spotify.com/track/3CA9pLiwRIGtUBiMjbZmRw"
+    },
+    {
+      "added_at": "2022-07-02 11:07:00",
+      "album": {
         "name": "Waves (Robin Schulz Radio Edit)",
         "url": "https://open.spotify.com/album/29RpLEpfNr1mnrnmtbO620"
       },
@@ -1403,22 +1419,6 @@
       "duration_ms": 208133,
       "name": "Waves - Robin Schulz Radio Edit",
       "url": "https://open.spotify.com/track/1HFfMOxCAT4GAwaPfCdmUs"
-    },
-    {
-      "added_at": "2022-07-02 11:07:00",
-      "album": {
-        "name": "Scorpion",
-        "url": "https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 210746,
-      "name": "Nice For What",
-      "url": "https://open.spotify.com/track/3CA9pLiwRIGtUBiMjbZmRw"
     },
     {
       "added_at": "2022-07-02 11:07:00",
@@ -2035,22 +2035,6 @@
     {
       "added_at": "2022-07-02 11:07:00",
       "album": {
-        "name": "Rolling Papers",
-        "url": "https://open.spotify.com/album/6ZOXiVL8rmk2ATHJiFJhiD"
-      },
-      "artists": [
-        {
-          "name": "Wiz Khalifa",
-          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
-        }
-      ],
-      "duration_ms": 217666,
-      "name": "Black and Yellow",
-      "url": "https://open.spotify.com/track/5A6OHHy73AR5tLxgTc98zz"
-    },
-    {
-      "added_at": "2022-07-02 11:07:00",
-      "album": {
         "name": "Yeezus",
         "url": "https://open.spotify.com/album/7D2NdGvBHIavgLhmcwhluK"
       },
@@ -2063,6 +2047,22 @@
       "duration_ms": 188013,
       "name": "Black Skinhead",
       "url": "https://open.spotify.com/track/722tgOgdIbNe3BEyLnejw4"
+    },
+    {
+      "added_at": "2022-07-02 11:07:00",
+      "album": {
+        "name": "Rolling Papers",
+        "url": "https://open.spotify.com/album/6ZOXiVL8rmk2ATHJiFJhiD"
+      },
+      "artists": [
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        }
+      ],
+      "duration_ms": 217666,
+      "name": "Black and Yellow",
+      "url": "https://open.spotify.com/track/5A6OHHy73AR5tLxgTc98zz"
     },
     {
       "added_at": "2022-07-02 11:07:00",
@@ -2351,26 +2351,6 @@
     {
       "added_at": "2022-07-02 11:07:00",
       "album": {
-        "name": "Clarity",
-        "url": "https://open.spotify.com/album/7juWTdmjo0vYywWu8HiQxs"
-      },
-      "artists": [
-        {
-          "name": "Zedd",
-          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
-        },
-        {
-          "name": "Foxes",
-          "url": "https://open.spotify.com/artist/7qRll6DYV06u2VuRPAVqug"
-        }
-      ],
-      "duration_ms": 271426,
-      "name": "Clarity",
-      "url": "https://open.spotify.com/track/60wwxj6Dd9NJlirf84wr2c"
-    },
-    {
-      "added_at": "2022-07-02 11:07:00",
-      "album": {
         "name": "Views",
         "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
       },
@@ -2403,6 +2383,26 @@
       "duration_ms": 188080,
       "name": "Se Prepar\u00f3",
       "url": "https://open.spotify.com/track/1m69ELEgE6k5ZWsap40ozt"
+    },
+    {
+      "added_at": "2022-07-02 11:07:00",
+      "album": {
+        "name": "Clarity",
+        "url": "https://open.spotify.com/album/7juWTdmjo0vYywWu8HiQxs"
+      },
+      "artists": [
+        {
+          "name": "Zedd",
+          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
+        },
+        {
+          "name": "Foxes",
+          "url": "https://open.spotify.com/artist/7qRll6DYV06u2VuRPAVqug"
+        }
+      ],
+      "duration_ms": 271426,
+      "name": "Clarity",
+      "url": "https://open.spotify.com/track/60wwxj6Dd9NJlirf84wr2c"
     },
     {
       "added_at": "2022-07-02 11:07:00",
@@ -2519,22 +2519,6 @@
     {
       "added_at": "2022-07-02 11:07:00",
       "album": {
-        "name": "Prestige",
-        "url": "https://open.spotify.com/album/6Hu1DObY1WeKWxHfeaOcFg"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 224693,
-      "name": "Limbo",
-      "url": "https://open.spotify.com/track/3pDhN3qB33AOPhQEkUCaWt"
-    },
-    {
-      "added_at": "2022-07-02 11:07:00",
-      "album": {
         "name": "Electricity (with Dua Lipa)",
         "url": "https://open.spotify.com/album/429B3se6xtZuvblNnS2iy7"
       },
@@ -2559,6 +2543,22 @@
       "duration_ms": 238173,
       "name": "Electricity (with Dua Lipa)",
       "url": "https://open.spotify.com/track/5N4erncE7kuUccm7zEmwzk"
+    },
+    {
+      "added_at": "2022-07-02 11:07:00",
+      "album": {
+        "name": "Prestige",
+        "url": "https://open.spotify.com/album/6Hu1DObY1WeKWxHfeaOcFg"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 224693,
+      "name": "Limbo",
+      "url": "https://open.spotify.com/track/3pDhN3qB33AOPhQEkUCaWt"
     },
     {
       "added_at": "2022-07-02 11:07:00",

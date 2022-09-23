@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GJXiuZRisr.md) - [plain]
 
 > Dark and moody progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,369,735 likes - 100 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,370,116 likes - 100 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GJXiuZRisr.md) - [plain]
 | 85 | [Ashes](https://open.spotify.com/track/2rqgrjE3T96UvvQ0MheJ8T) | [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t) | [Ashes](https://open.spotify.com/album/5B5HDCCEGMkJELMnocaoSJ) | 3:42 |
 | 86 | [Twin Souls](https://open.spotify.com/track/0XXWZcLfM8drFINoxPx5fC) | [Luttrell](https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2) | [Twin Souls](https://open.spotify.com/album/3lGFgqvHsHfqqsfk6pSLgm) | 4:29 |
 | 87 | [Close My Eyes](https://open.spotify.com/track/2eQfD774357Ymh9NzCl5T2) | [Matt Fax](https://open.spotify.com/artist/1XgI1X3xjXCKRP1ZjhqgkV), [Jack Dawson](https://open.spotify.com/artist/2UrCf8LmvXFfXAR0HtGkSx) | [Close My Eyes](https://open.spotify.com/album/3NPt95B03k5zZptWmquiJu) | 3:42 |
-| 88 | [Vommuli](https://open.spotify.com/track/0P3Sfu8JGonAXzPyjAf6RU) | [EDX](https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6) | [Vommuli](https://open.spotify.com/album/4UPeZ2BiTHtX5sQ2XhURQL) | 3:52 |
-| 89 | [Follow You Anywhere](https://open.spotify.com/track/27nGU2v3syK7aU3AVY2vUO) | [Cosmic Gate](https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Follow You Anywhere](https://open.spotify.com/album/1C9r52yduyIpjxb8Zd9XAs) | 4:04 |
+| 88 | [Follow You Anywhere](https://open.spotify.com/track/27nGU2v3syK7aU3AVY2vUO) | [Cosmic Gate](https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Follow You Anywhere](https://open.spotify.com/album/1C9r52yduyIpjxb8Zd9XAs) | 4:04 |
+| 89 | [Vommuli](https://open.spotify.com/track/0P3Sfu8JGonAXzPyjAf6RU) | [EDX](https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6) | [Vommuli](https://open.spotify.com/album/4UPeZ2BiTHtX5sQ2XhURQL) | 3:52 |
 | 90 | [Riptide](https://open.spotify.com/track/7yT31cuPzcqkE2BJV4Fusx) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Davey Havok](https://open.spotify.com/artist/1Q1ItjYrk6Si5q4tQtRbx8) | [Riptide](https://open.spotify.com/album/1fY8TWeIEA2EXH24sT9RJn) | 5:50 |
 | 91 | [My Stripes](https://open.spotify.com/track/0gT8d4DW5wDlJahSlLiuda) | [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp), [Leo Wood](https://open.spotify.com/artist/58vAPzbpMZAVTHWA1KT68B) | [My Stripes](https://open.spotify.com/album/261Kgweh2NYQcLq6DHkUhp) | 4:27 |
 | 92 | [Murphy \- Edit](https://open.spotify.com/track/4n8fxV2m3ESCoQgOaMrR2n) | [Jeremy Olander](https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB) | [Murphy](https://open.spotify.com/album/4YPqdsHuhVRGp2RglgnzSM) | 5:08 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GJXiuZRisr.md) - [plain]
 | 99 | [Steps](https://open.spotify.com/track/1pIBxvFjjnp7tAKOTwA0Az) | [Jeremy Olander](https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB) | [Steps](https://open.spotify.com/album/0uin82gWKieM4DTE77Ayrk) | 5:58 |
 | 100 | [This Time, This Place…](https://open.spotify.com/track/50BApvEvSnoCPYb4ymbb8y) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Beki Mari](https://open.spotify.com/artist/4z9AKehWvtxINEbu8aQGO6) | [Profound Mysteries](https://open.spotify.com/album/3CPVa0a5QGqxkuiGqNQjSp) | 7:44 |
 
-Snapshot ID: `MTY2MzMwMDgwMCwwMDAwMDAwMGU3M2U0MTYwMjI5NTY4ZDU4ZThlYWU3ODZjMWIzYmRl`
+Snapshot ID: `MTY2MzMwMDgwMCwwMDAwMDAwMGYxZDFhOWQ0NjJlN2VlOGU5ZmI0MmM0NDI2MjY3NmNk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4UAnLC6Pj3.md) - [plain]
 
 > ¡Los éxitos de banda que necesitas! Los Dos Carnales en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,046,093 likes - 75 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,046,266 likes - 75 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,11 +77,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4UAnLC6Pj3.md) - [plain]
 | 67 | [Ya Se Fue](https://open.spotify.com/track/3hIFiQfRn4tOaIS6ePCNXr) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Ya Se Fue](https://open.spotify.com/album/5aX6a0wLRfsIPr8kvZ5S1k) | 3:21 |
 | 68 | [La Ley De La Vida](https://open.spotify.com/track/0B0vC9ItsWMUahbFN7a01H) | [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl) | [La Ley De La Vida](https://open.spotify.com/album/6nAnqWuOL40YIUfsAPUi4F) | 2:55 |
 | 69 | [Modo Crudo](https://open.spotify.com/track/21VxcprEejJWPVNHxA23Hs) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Modo Crudo](https://open.spotify.com/album/2miY1Si17V3AvA1YXe8O5k) | 2:08 |
-| 70 | [Provócame](https://open.spotify.com/track/3wnpHn5p1XuiNSNOCJOCxs) | [Banda Tierra Sagrada](https://open.spotify.com/artist/0v7JYEoQOQbzNNESKwxmzT) | [Ajeno](https://open.spotify.com/album/4lDfHHRW5vhZQkqmUf9WQO) | 3:00 |
-| 71 | [Modo Incógnito](https://open.spotify.com/track/7h1KxwCRPI9WC3hJyLuF8g) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Sin Miedo Al Éxito \(Deluxe\)](https://open.spotify.com/album/06RNnPXzGC23bqQiCDTotI) | 3:06 |
+| 70 | [Modo Incógnito](https://open.spotify.com/track/7h1KxwCRPI9WC3hJyLuF8g) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Sin Miedo Al Éxito \(Deluxe\)](https://open.spotify.com/album/06RNnPXzGC23bqQiCDTotI) | 3:06 |
+| 71 | [Provócame](https://open.spotify.com/track/3wnpHn5p1XuiNSNOCJOCxs) | [Banda Tierra Sagrada](https://open.spotify.com/artist/0v7JYEoQOQbzNNESKwxmzT) | [Ajeno](https://open.spotify.com/album/4lDfHHRW5vhZQkqmUf9WQO) | 3:00 |
 | 72 | [Me Rindo](https://open.spotify.com/track/763m9Csnr97OvhnAej8iDQ) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Me Rindo](https://open.spotify.com/album/4ZuuapFT4NA2nYljrz6D57) | 3:40 |
 | 73 | [Fuerte No Soy](https://open.spotify.com/track/4673knHBZjafW3zfT4nBvc) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Fuerte No Soy](https://open.spotify.com/album/0xeqSKK5P5DbDASkUmiYeU) | 3:21 |
 | 74 | [Amigos Con Beneficio](https://open.spotify.com/track/5LoB3vdJ2C8rHbCHh1wMAl) | [Josi Cuen](https://open.spotify.com/artist/5nhpUbjd9KtuE0vi67czgY) | [Querer Es Poder](https://open.spotify.com/album/1G3HMEwdPV2ovKDR4ZsO4J) | 3:10 |
 | 75 | [Una Noche Cualquiera](https://open.spotify.com/track/1d2ziGaMKHlNjuFY1oL8If) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Una Noche Cualquiera](https://open.spotify.com/album/6uhcErVRHBbBaslDcvzDlD) | 3:35 |
 
-Snapshot ID: `MTY2MTQ4NjUyMCwwMDAwMDAwMGE5YTM0YzMxZDkyYzlkNTI4YTI2MjRiZGFmZTk5ZGNm`
+Snapshot ID: `MTY2MTQ4NjUyMCwwMDAwMDAwMDIwODIxZTRkODE0MTg5ZDEyMmZjOWY2M2Y3ZTVlZTZj`

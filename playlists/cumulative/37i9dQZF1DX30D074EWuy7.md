@@ -2,7 +2,7 @@
 
 ### [Jazz Italia](https://open.spotify.com/playlist/37i9dQZF1DX30D074EWuy7)
 
-> Il meglio del Jazz Italiano, in una selezione speciale a cura di <a href="spotify:artist:70S7xGDXv69V2vUv3z1PeT">Joe Barbieri</a>
+> Il meglio del Jazz Italiano, in una selezione speciale a cura di <a href="spotify:artist:70S7xGDXv69V2vUv3z1PeT">Joe Barbieri</a>.
 
 50 songs - 3 hr 26 min - [published](https://open.spotify.com/playlist/4ci8LwC6vBaMAmVvAWXsOb)
 

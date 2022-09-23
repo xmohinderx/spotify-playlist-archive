@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5R53BjnKBjk.md) - [plain]
 
 > Uma seleção de novos artistas da cena brasileira que você precisa conhecer\.  Foto: Camaleoa Arte: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,876 likes - 80 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,892 likes - 80 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,9 +14,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5R53BjnKBjk.md) - [plain]
 | 4 | [Perdidão](https://open.spotify.com/track/3WhmWO1hQYOl3xBqiSSqPx) | [Pri Pach](https://open.spotify.com/artist/0HjP0FywphjmwI2T2Pcy2H) | [Perdidão](https://open.spotify.com/album/64O18RVul0ZJ5pEMvcB4zc) | 2:34 |
 | 5 | [Fênix](https://open.spotify.com/track/36kCYix5428TjxrCQkxqYV) | [Amanda Cadore](https://open.spotify.com/artist/1QzbQKoB7I3Z9GP4BlfZNA), [Dandara Manoela](https://open.spotify.com/artist/1lh8s7gXcq7nXaidv3OMt3), [Joana Castanheira](https://open.spotify.com/artist/4oeqovhGT9Bj4wbDeaTqXn) | [Fênix](https://open.spotify.com/album/3q7IXJZeH9uhFVlrmgGLYR) | 3:46 |
 | 6 | [AMORA](https://open.spotify.com/track/058ozZtEEy3yaeBJgy28nh) | [YASSIQ](https://open.spotify.com/artist/2Uqri3X47V2gFAI76QblVr) | [AMORA](https://open.spotify.com/album/7xc8WZsY2fM32pJqEAO71k) | 2:16 |
-| 7 | [sei lá](https://open.spotify.com/track/0ke3cpUdKJamJvii855vH2) | [Chico e o Mar](https://open.spotify.com/artist/24aBhTcvMpdnGyNBwbu2DJ) | [CHICO E O MAR](https://open.spotify.com/album/5A0PTs0EU75mJnSWK54JyM) | 3:33 |
-| 8 | [três](https://open.spotify.com/track/3PrFyucupUOrcLRPXR29yI) | [Braga](https://open.spotify.com/artist/7dO3FozNKSxFlBbh4U08ng) | [três](https://open.spotify.com/album/4B2gsbWbg2Knfd0zZBf6n8) | 2:29 |
-| 9 | [MTV](https://open.spotify.com/track/33fnVp55zYGLfhWBgl2j9O) | [Aquino e a Orquestra Invisível](https://open.spotify.com/artist/52fjZORhR21B9pR9kORRTA) | [Aquino e a Orquestra Invisível](https://open.spotify.com/album/39FjAAoFhZFSZhyl63dlqe) | 2:53 |
+| 7 | [MTV](https://open.spotify.com/track/33fnVp55zYGLfhWBgl2j9O) | [Aquino e a Orquestra Invisível](https://open.spotify.com/artist/52fjZORhR21B9pR9kORRTA) | [Aquino e a Orquestra Invisível](https://open.spotify.com/album/39FjAAoFhZFSZhyl63dlqe) | 2:53 |
+| 8 | [sei lá](https://open.spotify.com/track/0ke3cpUdKJamJvii855vH2) | [Chico e o Mar](https://open.spotify.com/artist/24aBhTcvMpdnGyNBwbu2DJ) | [CHICO E O MAR](https://open.spotify.com/album/5A0PTs0EU75mJnSWK54JyM) | 3:33 |
+| 9 | [três](https://open.spotify.com/track/3PrFyucupUOrcLRPXR29yI) | [Braga](https://open.spotify.com/artist/7dO3FozNKSxFlBbh4U08ng) | [três](https://open.spotify.com/album/4B2gsbWbg2Knfd0zZBf6n8) | 2:29 |
 | 10 | [Olha Como Eu Tô](https://open.spotify.com/track/0i0DDCEvMEG1slOYL3Or7h) | [Giovanna](https://open.spotify.com/artist/4osnH08CXtOVX57JrBDePA) | [Olha Como Eu Tô](https://open.spotify.com/album/3WNrDFToTMdb3MlPywHOQb) | 2:37 |
 | 11 | [Chuva de Verão](https://open.spotify.com/track/6HEfROuxbeZxDYPQsDrNng) | [Yasmim Silveira](https://open.spotify.com/artist/2tiDdUYnIf0lN7EC5wzE1s), [Raphael Garrido](https://open.spotify.com/artist/4NgK77VcKix9IFvO78qzLT) | [Chuva de Verão](https://open.spotify.com/album/5l29R0Ztm14OgLi7BCJi1U) | 3:00 |
 | 12 | [Good Times](https://open.spotify.com/track/4QBMTlSCdodYRQqsYPBJtZ) | [ogoin](https://open.spotify.com/artist/31lFbAIACVCAY9J0JoLbCy), [Linguini](https://open.spotify.com/artist/3VNJeULanp6BoL1MOConoz) | [Good Times](https://open.spotify.com/album/40YG2w0Yxz0hJBCaA8dvAv) | 2:27 |
@@ -24,16 +24,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5R53BjnKBjk.md) - [plain]
 | 14 | [Caramelo](https://open.spotify.com/track/2C1duqQzynu2lqUlAncWH7) | [Maielle](https://open.spotify.com/artist/2vGvYgHGWdoDDdtplJlMjX) | [Caramelo](https://open.spotify.com/album/5zd7um3FOsvf88Wm1yC0e7) | 3:28 |
 | 15 | [Ex\-Melhor Amigo](https://open.spotify.com/track/7m604nggEys9csDMi0pTsC) | [Veni](https://open.spotify.com/artist/6NPLv8VA9rs9EEhGxHDmzl) | [Ex\-Melhor Amigo](https://open.spotify.com/album/3siYvHqoPipVcMasKdgg3b) | 4:02 |
 | 16 | [Rouquidão](https://open.spotify.com/track/4zoAger8ZaHL6bRujicqSF) | [Chorou Bebel](https://open.spotify.com/artist/3l1Do0Qcg30ywoKApiWmu1), [Duarte](https://open.spotify.com/artist/4TTKi5ThwRcTW2Fp21Z6Sc) | [Rouquidão](https://open.spotify.com/album/6Lb82lCrQr6b0ZkhSAox9u) | 2:41 |
-| 17 | [meu bem, meu bem](https://open.spotify.com/track/6jwoPMGaE3r81hkj9MK2Vh) | [Lizandra](https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl) | [meu bem, meu bem](https://open.spotify.com/album/6E8StuG2GIkZBncqpUTZAU) | 2:48 |
-| 18 | [Amor de Mar](https://open.spotify.com/track/0cOXBqb6bsKwyL9Edj8Yww) | [NUNEZ](https://open.spotify.com/artist/6RvP5pZMli48YYw0nwreXZ), [LOX](https://open.spotify.com/artist/7ziafkiqJhhvv6CExUeOcS) | [Boemia, de Fato](https://open.spotify.com/album/6u6IGXmGZNngMOA4zxrrmd) | 2:56 |
+| 17 | [Amor de Mar](https://open.spotify.com/track/0cOXBqb6bsKwyL9Edj8Yww) | [NUNEZ](https://open.spotify.com/artist/6RvP5pZMli48YYw0nwreXZ), [LOX](https://open.spotify.com/artist/7ziafkiqJhhvv6CExUeOcS) | [Boemia, de Fato](https://open.spotify.com/album/6u6IGXmGZNngMOA4zxrrmd) | 2:56 |
+| 18 | [meu bem, meu bem](https://open.spotify.com/track/6jwoPMGaE3r81hkj9MK2Vh) | [Lizandra](https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl) | [meu bem, meu bem](https://open.spotify.com/album/6E8StuG2GIkZBncqpUTZAU) | 2:48 |
 | 19 | [Beira Do Mar](https://open.spotify.com/track/0kX5ljJYzOU7a0gnRNqBcx) | [Nobat](https://open.spotify.com/artist/1xAXVaLirdVzOJvXamSIMK), [Luli](https://open.spotify.com/artist/7sTgq75BwYI4szMTbH0KZU) | [Mestiço](https://open.spotify.com/album/1uTHWGAA7LxCNwkj79goWp) | 4:10 |
 | 20 | [Fire](https://open.spotify.com/track/2H4uSHGHRwmye5AAsycdOv) | [Juniper](https://open.spotify.com/artist/3h55d9cBydMk3jlDfMu1rN), [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg) | [Fire](https://open.spotify.com/album/4rbFqaLd2gRytJuQU2zVjT) | 2:14 |
 | 21 | [DEPRIMIDA](https://open.spotify.com/track/6zaz7b82CZhMzhAnWG127g) | [Julia Joia](https://open.spotify.com/artist/1Fyk7p0wTiShyRUg1dVrkQ) | [DEPRIMIDA](https://open.spotify.com/album/2GvTSF9E4v4CWlUY0liQgp) | 2:35 |
 | 22 | [Secos e Molhados](https://open.spotify.com/track/0GMhjwdwL5MHQGH6xErzQL) | [UTOPIXXXTA](https://open.spotify.com/artist/1NsBWj4SN51iyKbOfzRnu5) | [Secos e Molhados](https://open.spotify.com/album/6vjaUebAivNAnI242kJIIj) | 2:48 |
 | 23 | [Da Vida](https://open.spotify.com/track/7fgr78dwmw3FpXVtfeWLn6) | [Márcio Lugó](https://open.spotify.com/artist/4dp2Ihu4Jlv9RzcfV5P9JM), [Hugo Branquinho](https://open.spotify.com/artist/1G7RC4anhU2mNCDNV0l8rs) | [Da Vida](https://open.spotify.com/album/4ySNj63Ce3q3TFm3B9DwQb) | 3:00 |
 | 24 | [Sambatango](https://open.spotify.com/track/0xwNMjWaJ21opxeVa0hEvL) | [Dan Stump](https://open.spotify.com/artist/76qXgVNZFVQZrLmsawuYcZ), [Victor Xamã](https://open.spotify.com/artist/6sLPSvN2Z4R1ndAS068ibP) | [Transe Tropical](https://open.spotify.com/album/3GDXeYh3kmWa4amneMoK95) | 2:35 |
-| 25 | [KIKADAUM](https://open.spotify.com/track/04aZsWuQFUxRRY0hp4T3Kd) | [Júlia Rezende](https://open.spotify.com/artist/4ROjaB2Qac8zgm7PAdI4hE) | [KIKADAUM](https://open.spotify.com/album/56ZeH3Mh7cfCh7kG1ysyzQ) | 2:55 |
-| 26 | [A Nossa Bossa](https://open.spotify.com/track/33vbDli8ByiNhw5vdM9Esh) | [NUNEZ](https://open.spotify.com/artist/6RvP5pZMli48YYw0nwreXZ), [Jair Oliveira](https://open.spotify.com/artist/1kuKDHZD1oPXwVZviVgRbV) | [A Nossa Bossa](https://open.spotify.com/album/53CQgPLHrM1HGyZHz2pqPl) | 2:44 |
+| 25 | [A Nossa Bossa](https://open.spotify.com/track/33vbDli8ByiNhw5vdM9Esh) | [NUNEZ](https://open.spotify.com/artist/6RvP5pZMli48YYw0nwreXZ), [Jair Oliveira](https://open.spotify.com/artist/1kuKDHZD1oPXwVZviVgRbV) | [A Nossa Bossa](https://open.spotify.com/album/53CQgPLHrM1HGyZHz2pqPl) | 2:44 |
+| 26 | [KIKADAUM](https://open.spotify.com/track/04aZsWuQFUxRRY0hp4T3Kd) | [Júlia Rezende](https://open.spotify.com/artist/4ROjaB2Qac8zgm7PAdI4hE) | [KIKADAUM](https://open.spotify.com/album/56ZeH3Mh7cfCh7kG1ysyzQ) | 2:55 |
 | 27 | [Desejos de um Leão](https://open.spotify.com/track/2iMyTW8yaGvIEl5ntwv76U) | [Uiu Lopes](https://open.spotify.com/artist/3weJGyLwPPBBvrarb0XjSZ), [Walfredo em Busca da Simbiose](https://open.spotify.com/artist/6PzQC3kTcWcJcH8p4d7yJl) | [Desejos de um Leão](https://open.spotify.com/album/6dV9NQKeqBQbhhx1Z5xRp2) | 3:13 |
 | 28 | [Apaga a Luz](https://open.spotify.com/track/5vyASrasZ8JObjelAgG3nJ) | [Augusta Barna](https://open.spotify.com/artist/1nCqVLF06AcC2U5Tq2RkRk) | [Apaga a Luz](https://open.spotify.com/album/3bNEsR5sEVn4EMfpNtLxDS) | 2:32 |
 | 29 | [Troca de Carícias](https://open.spotify.com/track/5w7X04lpO9KZRIm9cUDg7F) | [UTOPIXXXTA](https://open.spotify.com/artist/1NsBWj4SN51iyKbOfzRnu5) | [Troca de Carícias](https://open.spotify.com/album/7pVNPGWjpePZYkL0cYeklZ) | 2:44 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5R53BjnKBjk.md) - [plain]
 | 79 | [TARA](https://open.spotify.com/track/2mci9VwSkwtxPaMGKJqOvt) | [Malu Rizzo](https://open.spotify.com/artist/6OReJ6J8946lGFWrYugvdH) | [TARA](https://open.spotify.com/album/15UnP9gEyIaskBAb6u7gJX) | 2:16 |
 | 80 | [Pressão](https://open.spotify.com/track/1r2a7CeiInrCrVvFn3UMJS) | [Carolina Bandeira](https://open.spotify.com/artist/2X128HXjROy5ll3miTyMjB) | [Pressão](https://open.spotify.com/album/5QXgUUl1KWsO3bAXJtVIDz) | 2:31 |
 
-Snapshot ID: `MTY2MzMwMDgwMCwwMDAwMDAwMGI1NzVhM2FiMmY5MDU5ZWE0YjA3OGNjNGRlNGRjZTAx`
+Snapshot ID: `MTY2MzMwMDgwMCwwMDAwMDAwMDMyYjlkOWQ4OThmYTdhMjExYmUzYWNjMzU2YmJiNmY4`

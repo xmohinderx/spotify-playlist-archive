@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdPec7aLTmlC.md) - [plain]
 
 > Hits to boost your mood and fill you with happiness!
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,895,926 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,896,852 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdPec7aLTmlC.md) - [plain]
 | 99 | [Tick Tock \(feat\. 24kGoldn\)](https://open.spotify.com/track/27u7t9d7ZQoyjsCROHuZJ3) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4), [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [Tick Tock \(feat\. 24kGoldn\)](https://open.spotify.com/album/3tuAs968COA2vxKjiLvmxr) | 2:58 |
 | 100 | [If You Really Love Me \(How Will I Know\)](https://open.spotify.com/track/1V7bZ9gEIwFQpm8yGxRHNA) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MistaJam](https://open.spotify.com/artist/3qi5fhSI6aUecvRN0XqIJ2), [John Newman](https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf) | [If You Really Love Me \(How Will I Know\)](https://open.spotify.com/album/2jchxs2dbRKpdHZl5O3FEY) | 3:04 |
 
-Snapshot ID: `MTY2MzI3OTI2MCwwMDAwMDAwMGYzMTliOTM1ZTZmNDQxNDYyZjBjZmU4NTQyMjY2NWI3`
+Snapshot ID: `MTY2Mzg4NDAwMCwwMDAwMDAwMDA3NjgyOWM4ZTA2NGJhOGJkMzdhNDg3NTA4ZjBmZjlk`

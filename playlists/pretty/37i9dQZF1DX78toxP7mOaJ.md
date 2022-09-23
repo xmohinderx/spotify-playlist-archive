@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Fresh rock from independent artists every Wednesday\. Cover: The Mammoths \| Artwork: Jim Klok
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,075 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,165 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 60 | [Not Nancy](https://open.spotify.com/track/0VZby2ElZMhA52NPFbD7z3) | [Mila Degray](https://open.spotify.com/artist/2xEm2V0agYeSKR0xBLzMxu) | [Not Nancy](https://open.spotify.com/album/5TZA8AeVWthYGO8A1o24PG) | 2:59 |
 | 61 | [Second Single Bed](https://open.spotify.com/track/3BehfRcWSWPFZNIZfwMu7I) | [Katie Gregson\-MacLeod](https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF) | [Second Single Bed](https://open.spotify.com/album/0z2Aga9gZaBVt2eLqIXD29) | 3:40 |
 | 62 | [Soft Slam](https://open.spotify.com/track/2ayuMJgUiVIw7FAjRWrjTH) | [Slow Joy](https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL) | [Soft Slam](https://open.spotify.com/album/3MwQRJAuzrzCijNZr1AoJI) | 2:45 |
-| 63 | [Black Gold](https://open.spotify.com/track/19nkIKBdFF5qflYHmMDN9N) | [Kill Strings](https://open.spotify.com/artist/6dmCo3M8DyCxZ4qR6ImCI0) | [Black Gold](https://open.spotify.com/album/6qyGXofSNXxAh7IAIZht5F) | 3:30 |
+| 63 | [Black Gold \- Radio Edit](https://open.spotify.com/track/19nkIKBdFF5qflYHmMDN9N) | [Kill Strings](https://open.spotify.com/artist/6dmCo3M8DyCxZ4qR6ImCI0) | [Black Gold](https://open.spotify.com/album/6qyGXofSNXxAh7IAIZht5F) | 3:30 |
 | 64 | [Truth Or Dare](https://open.spotify.com/track/025gicHQKtkMIFNpnZBak2) | [Carry The Crown](https://open.spotify.com/artist/6d45ZKjCEhvAXmnIAzKkQ8) | [Truth Or Dare](https://open.spotify.com/album/3sRZXTXvblTx6UrnijgTbl) | 2:52 |
 | 65 | [I'll Be Okay](https://open.spotify.com/track/6E8IPptM3I5o1Ya9nIEGkq) | [Jmsey](https://open.spotify.com/artist/0P1f2YvmKlXYF7aZPKefuv), [Beck Pete](https://open.spotify.com/artist/5hhVBlzS6hGuC1BNWANyyj) | [I'll Be Okay](https://open.spotify.com/album/0v3HeWMkmMgjy1bNU5tRs6) | 2:37 |
 | 66 | [Hate Club](https://open.spotify.com/track/2SuwxL2pgwxt3rqS5nrIC8) | [Clay J Gladstone](https://open.spotify.com/artist/5xHqj2YUaAmSq5FBWvCe73) | [Hate Club](https://open.spotify.com/album/282HMj1YjoO2dczQBhtd8J) | 2:01 |

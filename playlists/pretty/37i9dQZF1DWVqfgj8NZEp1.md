@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqfgj8NZEp1.md) - [plain]
 
 > Relax to the sound of gentle instrumental Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,397,262 likes - 142 songs - 12 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,397,559 likes - 142 songs - 12 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -151,4 +151,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqfgj8NZEp1.md) - [plain]
 | 141 | [Mommy's Shawl](https://open.spotify.com/track/7u38kj1yGDoExUnP6gxxor) | [Yelena Eckemoff](https://open.spotify.com/artist/7vRtxQT9nKIPHA36iDrCul), [Verneri Pohjola](https://open.spotify.com/artist/601yt0lWcEE1vS1bzAPwSX), [Panu Savolainen](https://open.spotify.com/artist/5og1sabV0PYzVdMIqoRYof), [Antti Lötjönen](https://open.spotify.com/artist/6uEOkKRkGPB7Z274RWBiCR), [Olavi Louhivuori](https://open.spotify.com/artist/7MsLyr0nCXGN6OGoZgZqrT) | [Blooming Tall Phlox](https://open.spotify.com/album/6flIHnOYOMbCz53SOdGle3) | 5:05 |
 | 142 | [I Have Dreamed](https://open.spotify.com/track/4bBIADw4urJPkcx0YOfEIo) | [Christian McBride Trio](https://open.spotify.com/artist/3nh2jsKXbzQzTBm5qzVXEP) | [Out Here](https://open.spotify.com/album/14BJkt0RNMcXU14xMmNRxH) | 8:27 |
 
-Snapshot ID: `MTY2MzU5NjU5OSwwMDAwMDAwMDhhYTBiMjExNjgyNDNkNzkyOWM2ZjUwMzIwNDJlNjg0`
+Snapshot ID: `MTY2MzgzMDQ4MCwwMDAwMDAwMDJiNGI4YmE5NDZiNGEyZjg1ZDg2ZTYwZjg5N2Q0NDc4`

@@ -1,12 +1,12 @@
 {
   "description": "The Latin soundtrack of the 2010s! Cover: Daddy Yankee, Luis Fonsi",
-  "num_followers": 109960,
+  "num_followers": 110027,
   "original_name": "10s Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTkzMDIxMSwwMDAwMDAwMGI5N2Y4MGNlNTUxOTM5YzRhNmJkMzM5NTNlNDE2ZjVl",
+  "snapshot_id": "MTY2MTkzMDIxMSwwMDAwMDAwMGM0MzJlYWYyNGRlY2ZjZWJlZGI3N2Q3ZmIwYzBkYjM2",
   "tracks": [
     {
       "added_at": "2022-08-31 07:16:51",
@@ -467,22 +467,18 @@
     {
       "added_at": "2022-08-31 07:16:51",
       "album": {
-        "name": "Secreto",
-        "url": "https://open.spotify.com/album/6owzcG80ifZRDApCpzJYK1"
+        "name": "Odisea",
+        "url": "https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo"
       },
       "artists": [
         {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
         }
       ],
-      "duration_ms": 258800,
-      "name": "Secreto",
-      "url": "https://open.spotify.com/track/5W83ErFkO3aKAIS1WMi6u0"
+      "duration_ms": 188080,
+      "name": "Se Prepar\u00f3",
+      "url": "https://open.spotify.com/track/1m69ELEgE6k5ZWsap40ozt"
     },
     {
       "added_at": "2022-08-31 07:16:51",
@@ -507,18 +503,22 @@
     {
       "added_at": "2022-08-31 07:16:51",
       "album": {
-        "name": "Odisea",
-        "url": "https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo"
+        "name": "Secreto",
+        "url": "https://open.spotify.com/album/6owzcG80ifZRDApCpzJYK1"
       },
       "artists": [
         {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
         }
       ],
-      "duration_ms": 188080,
-      "name": "Se Prepar\u00f3",
-      "url": "https://open.spotify.com/track/1m69ELEgE6k5ZWsap40ozt"
+      "duration_ms": 258800,
+      "name": "Secreto",
+      "url": "https://open.spotify.com/track/5W83ErFkO3aKAIS1WMi6u0"
     },
     {
       "added_at": "2022-08-31 07:16:51",

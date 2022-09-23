@@ -4,7 +4,7 @@
 
 > alternative hits of today, tomorrow, and then some\. Cover: The Backseat Lovers
 
-389 songs - 20 hr 12 min - [published](https://open.spotify.com/playlist/1wVw7z1lWnvceI3e0NeFmp)
+390 songs - 20 hr 16 min - [published](https://open.spotify.com/playlist/1wVw7z1lWnvceI3e0NeFmp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,7 +150,8 @@
 | [Heart and Mine](https://open.spotify.com/track/03fMRgKzOeMIa9lZlG8xeB) | [Hot Chelle Rae](https://open.spotify.com/artist/6jTnHxhb6cDCaCu4rdvsQ0) | [Heart and Mine](https://open.spotify.com/album/4jzHgCJd6zdIqSAkJpobg9) | 3:12 | 2022-02-04 | 2022-04-23 |
 | [Heavy Heart \- Edit](https://open.spotify.com/track/3Gbk5JvijQQxg5q8AkGdmw) | [Bartees Strange](https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG) | [Heavy Heart](https://open.spotify.com/album/0J97gh6EZ7bqsqq4IeGe68) | 3:46 | 2022-03-04 | 2022-04-16 |
 | [Her Body Is Bible](https://open.spotify.com/track/1qMMRXrcyfjbik6Mh1XRDz) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Her Body Is Bible](https://open.spotify.com/album/3JwM5vjiKuLf2HLmcR5o6D) | 2:57 | 2022-06-24 | 2022-07-17 |
-| [Here to Forever](https://open.spotify.com/track/3uKLuVqBd0bIUfFDdn68lI) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Here to Forever](https://open.spotify.com/album/3ysrZoXIO6es1hsQI2iTeZ) | 3:46 | 2022-07-22 |  |
+| [Here to Forever](https://open.spotify.com/track/3uKLuVqBd0bIUfFDdn68lI) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Here to Forever](https://open.spotify.com/album/3ysrZoXIO6es1hsQI2iTeZ) | 3:46 | 2022-07-22 | 2022-09-23 |
+| [Here to Forever](https://open.spotify.com/track/7Cva2EgJougx6O6M5xgWAq) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Asphalt Meadows](https://open.spotify.com/album/2PIWPTOIxbaVSjTnc30vXS) | 3:46 | 2022-08-26 |  |
 | [HERO JOURNEY \(feat\. Superorganism\)](https://open.spotify.com/track/5wsZVRGMRA4ZzMStNKxcK2) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx), [Superorganism](https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE) | [HERO JOURNEY \(feat\. Superorganism\)](https://open.spotify.com/album/3dbLBkeSvzwDE5tVt662sZ) | 1:54 | 2022-07-08 | 2022-07-18 |
 | [High School](https://open.spotify.com/track/3aWmJVDmjKtmSCLLjUwJ7r) | [MASN](https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE) | [High School](https://open.spotify.com/album/7KhHLIouEPya0k5PGv5gBh) | 2:34 | 2022-08-26 |  |
 | [Hold Me Down](https://open.spotify.com/track/3nfC5ikuvw3mxDEE10c7EA) | [Niko Rubio](https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa) | [Hold Me Down](https://open.spotify.com/album/2L7xcRtVXalWzgyT76W2Xj) | 2:42 | 2022-02-04 | 2022-05-14 |
@@ -165,7 +166,7 @@
 | [I Like to Hide in the Bathroom at Parties](https://open.spotify.com/track/5AlbjaOF6CTcAOcuav3pv1) | [Winnetka Bowling League](https://open.spotify.com/artist/4ug3P1K8BaCdJXROrqHqhu), [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC) | [I Like to Hide in the Bathroom at Parties](https://open.spotify.com/album/0E5jbLqzY4KozTUhavTbdT) | 2:46 | 2022-05-27 | 2022-07-29 |
 | [I Met God Online](https://open.spotify.com/track/3shB8ksTOqgJ6fj0L09FT9) | [grandma](https://open.spotify.com/artist/2eYwIt8heUiqcnd0Tmkizk) | [I Met God Online](https://open.spotify.com/album/34Xg4eUnFTwsZZ6vIsrwxd) | 2:56 | 2022-04-29 | 2022-06-22 |
 | [i miss myself](https://open.spotify.com/track/7Cts3DcDyQyDqfoSloC1pL) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [i miss myself](https://open.spotify.com/album/4MHQH93N0VSN6wpXThBp1R) | 3:42 | 2022-07-01 | 2022-07-29 |
-| [I Miss When I Smelled Like You](https://open.spotify.com/track/6IhWjoBYe5hvHKA4ZLH4dX) | [girlpuppy](https://open.spotify.com/artist/2dV0D4uKMB4c8VhYHzt360) | [I Miss When I Smelled Like You](https://open.spotify.com/album/0L0s3OfgFfFoHBlk1A07WH) | 3:51 | 2022-06-10 |  |
+| [I Miss When I Smelled Like You](https://open.spotify.com/track/6IhWjoBYe5hvHKA4ZLH4dX) | [girlpuppy](https://open.spotify.com/artist/2dV0D4uKMB4c8VhYHzt360) | [I Miss When I Smelled Like You](https://open.spotify.com/album/0L0s3OfgFfFoHBlk1A07WH) | 3:51 | 2022-06-10 | 2022-09-23 |
 | [I Think I Left the Stove On](https://open.spotify.com/track/1XcQwxhNmgzGVW76JfBDPX) | [Hotel Ugly](https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb) | [I Think I Left the Stove On](https://open.spotify.com/album/6GmBP3c1JJx9ZOg2LMlIc5) | 3:22 | 2022-07-22 | 2022-08-06 |
 | [I Think I Like You](https://open.spotify.com/track/6yOxL1xfPkv9Z9zvpNrMDU) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [The Band CAMINO](https://open.spotify.com/album/1N5ZRHDLAv92FHZ4fRYhCi) | 3:02 | 2022-03-25 |  |
 | [I Want to Feel It All](https://open.spotify.com/track/4p2Qe0tYuz6G7d6uDGTirU) | [The Districts](https://open.spotify.com/artist/3HZgaiR960RFqx9d4LPraD) | [I Want to Feel It All](https://open.spotify.com/album/0WLSgALXrDuYcBI9N2QY61) | 3:28 | 2022-02-04 | 2022-03-26 |
@@ -393,7 +394,7 @@
 | [Wonderful Life \- Edit](https://open.spotify.com/track/3CrDdihSYMmQxSRUuLsPdY) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Wonderful Life](https://open.spotify.com/album/3Ja3WF7ybMFGiRFNZG3Xz7) | 3:05 | 2022-07-22 |  |
 | [Wonderful Life \- edit](https://open.spotify.com/track/4xcTOmWUBUOKbsa7UewmLH) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Wonderful Life](https://open.spotify.com/album/2xH369QbqwYtRNDhJZvbuF) | 3:05 | 2022-06-17 | 2022-07-29 |
 | [Wretched](https://open.spotify.com/track/6lKlCsBcsiPky4LP0DRmQd) | [Bartees Strange](https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG) | [Wretched](https://open.spotify.com/album/2Ehu1KE6isCk03znJL0LWS) | 3:49 | 2022-06-24 | 2022-07-29 |
-| [Yellow](https://open.spotify.com/track/3AsPDfysPpXHXm8JK85F3W) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Yellow](https://open.spotify.com/album/46x6iizcB1N1WdwHO7EO7e) | 3:48 | 2022-07-22 | 2022-08-30 |
+| [Yellow](https://open.spotify.com/track/3AsPDfysPpXHXm8JK85F3W) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Yellow](https://open.spotify.com/album/46x6iizcB1N1WdwHO7EO7e) | 3:48 | 2022-07-22 |  |
 | [YES MOM](https://open.spotify.com/track/3imd2WJDPDoIOyqDmw3plc) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [YES MOM](https://open.spotify.com/album/3vE82WGpKX2oHOC8qbCjOS) | 2:42 | 2022-02-18 | 2022-06-07 |
 | [You Lose!](https://open.spotify.com/track/0tP8FKhJsar5y4JcOH4Rjp) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Mercurial World](https://open.spotify.com/album/1ERrUvG31thFCxdwWUoJrY) | 3:24 | 2022-03-22 | 2022-06-28 |
 | [You Ruined Nirvana](https://open.spotify.com/track/6HdZ8l3sHVYgrcAAXTugKK) | [Mckenna Grace](https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE) | [You Ruined Nirvana](https://open.spotify.com/album/0AvEawbGpZQ1Nv2BqaNvJT) | 2:53 | 2022-04-22 | 2022-07-08 |

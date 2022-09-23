@@ -1,12 +1,12 @@
 {
   "description": "I rapper pi\u00f9 forti del mondo in una sola playlist. Cover: Lil Baby",
-  "num_followers": 199160,
+  "num_followers": 199176,
   "original_name": "Rap Internazionale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzY2NTQ0MSwwMDAwMDAwMDAxMDQ3NDVmNDgzODY5NzY1NzEzYmU2OTQxOGE1MGM0",
+  "snapshot_id": "MTY2MzY2NTQ0MSwwMDAwMDAwMDUyYzAxMTE0ZWI0NjcyMTI0ZTQ2ZmI1NWZiOGVmZDli",
   "tracks": [
     {
       "added_at": "2022-09-20 09:17:21",
@@ -511,22 +511,18 @@
     {
       "added_at": "2022-09-20 09:17:21",
       "album": {
-        "name": "Die Young (feat. 347aidan)",
-        "url": "https://open.spotify.com/album/33C2Ujqsq5tFa93LtafTHN"
+        "name": "Hall of Fame",
+        "url": "https://open.spotify.com/album/7KSf6p0G0mZd7j60etVTwT"
       },
       "artists": [
         {
-          "name": "Sleepy Hallow",
-          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
-        },
-        {
-          "name": "347aidan",
-          "url": "https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw"
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
         }
       ],
-      "duration_ms": 148816,
-      "name": "Die Young (feat. 347aidan)",
-      "url": "https://open.spotify.com/track/6EbVuwU7EnKeF2hdpViXCH"
+      "duration_ms": 165925,
+      "name": "RAPSTAR",
+      "url": "https://open.spotify.com/track/18vXApRmJSgQ6wG2ll9AOg"
     },
     {
       "added_at": "2022-09-20 09:17:21",
@@ -555,18 +551,22 @@
     {
       "added_at": "2022-09-20 09:17:21",
       "album": {
-        "name": "Hall of Fame",
-        "url": "https://open.spotify.com/album/7KSf6p0G0mZd7j60etVTwT"
+        "name": "Die Young (feat. 347aidan)",
+        "url": "https://open.spotify.com/album/33C2Ujqsq5tFa93LtafTHN"
       },
       "artists": [
         {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+          "name": "Sleepy Hallow",
+          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
+        },
+        {
+          "name": "347aidan",
+          "url": "https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw"
         }
       ],
-      "duration_ms": 165925,
-      "name": "RAPSTAR",
-      "url": "https://open.spotify.com/track/18vXApRmJSgQ6wG2ll9AOg"
+      "duration_ms": 148816,
+      "name": "Die Young (feat. 347aidan)",
+      "url": "https://open.spotify.com/track/6EbVuwU7EnKeF2hdpViXCH"
     },
     {
       "added_at": "2022-09-20 09:17:21",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2022-09-20 09:17:21",
       "album": {
-        "name": "Traumazine",
-        "url": "https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim"
-      },
-      "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 137107,
-      "name": "Her",
-      "url": "https://open.spotify.com/track/5hHvFrMnwic82WwRLr4WY0"
-    },
-    {
-      "added_at": "2022-09-20 09:17:21",
-      "album": {
         "name": "Destined 2 Win",
         "url": "https://open.spotify.com/album/3MEKpJ7wSSp6Z661ThjrUJ"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 232048,
       "name": "Run It Up (feat. Offset & Moneybagg Yo)",
       "url": "https://open.spotify.com/track/1dg3qy5DjoJodawfOCgrTP"
+    },
+    {
+      "added_at": "2022-09-20 09:17:21",
+      "album": {
+        "name": "Traumazine",
+        "url": "https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 137107,
+      "name": "Her",
+      "url": "https://open.spotify.com/track/5hHvFrMnwic82WwRLr4WY0"
     },
     {
       "added_at": "2022-09-20 09:17:21",
@@ -1095,6 +1095,26 @@
     {
       "added_at": "2022-09-20 09:17:21",
       "album": {
+        "name": "Lyf\u00eb",
+        "url": "https://open.spotify.com/album/6Xo2PDEoQKzCndIbks2kvu"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 176124,
+      "name": "Flawl\u00ebss (feat. Lil Uzi Vert)",
+      "url": "https://open.spotify.com/track/1a019wP7IdYLexwbmfZPm3"
+    },
+    {
+      "added_at": "2022-09-20 09:17:21",
+      "album": {
         "name": "No Love Lost (Deluxe)",
         "url": "https://open.spotify.com/album/7AwrgenNcTAJlJF3pKL0Qr"
       },
@@ -1135,26 +1155,6 @@
     {
       "added_at": "2022-09-20 09:17:21",
       "album": {
-        "name": "Lyf\u00eb",
-        "url": "https://open.spotify.com/album/6Xo2PDEoQKzCndIbks2kvu"
-      },
-      "artists": [
-        {
-          "name": "Yeat",
-          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
-        },
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 176124,
-      "name": "Flawl\u00ebss (feat. Lil Uzi Vert)",
-      "url": "https://open.spotify.com/track/1a019wP7IdYLexwbmfZPm3"
-    },
-    {
-      "added_at": "2022-09-20 09:17:21",
-      "album": {
         "name": "Rover (feat. DTG)",
         "url": "https://open.spotify.com/album/6XwFgPuBbmmfXEQhCcgPvd"
       },
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2022-09-20 09:17:21",
       "album": {
-        "name": "Right On",
-        "url": "https://open.spotify.com/album/1dzpQiq9uhCaaeTGFmtn2p"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 213975,
-      "name": "Right On",
-      "url": "https://open.spotify.com/track/6ws54n2IzyrIxxyzlG2bVJ"
-    },
-    {
-      "added_at": "2022-09-20 09:17:21",
-      "album": {
         "name": "CODE (feat. Moneybagg Yo)",
         "url": "https://open.spotify.com/album/42jB9RVqk28zOVbbKhSMX1"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 192427,
       "name": "CODE (feat. Moneybagg Yo)",
       "url": "https://open.spotify.com/track/5uVW9FWVaQde0lfF4hYs4C"
+    },
+    {
+      "added_at": "2022-09-20 09:17:21",
+      "album": {
+        "name": "Right On",
+        "url": "https://open.spotify.com/album/1dzpQiq9uhCaaeTGFmtn2p"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 213975,
+      "name": "Right On",
+      "url": "https://open.spotify.com/track/6ws54n2IzyrIxxyzlG2bVJ"
     },
     {
       "added_at": "2022-09-20 09:17:21",
@@ -1443,22 +1443,26 @@
     {
       "added_at": "2022-09-20 09:17:21",
       "album": {
-        "name": "Paris to Tokyo",
-        "url": "https://open.spotify.com/album/5BXl6r5L4zXQufLQjgkU6U"
+        "name": "It's Almost Dry",
+        "url": "https://open.spotify.com/album/6o38CdD7CUlZDCFhjZYLDH"
       },
       "artists": [
         {
-          "name": "Fivio Foreign",
-          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+          "name": "Pusha T",
+          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
         },
         {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
         }
       ],
-      "duration_ms": 130897,
-      "name": "Paris to Tokyo",
-      "url": "https://open.spotify.com/track/5QvW5lK6mkfTegpAK9JOO7"
+      "duration_ms": 152612,
+      "name": "Scrape It Off (feat. Lil Uzi Vert & Don Toliver)",
+      "url": "https://open.spotify.com/track/1dp8aQANyTRKssDeAYPiZe"
     },
     {
       "added_at": "2022-09-20 09:17:21",
@@ -1495,26 +1499,22 @@
     {
       "added_at": "2022-09-20 09:17:21",
       "album": {
-        "name": "It's Almost Dry",
-        "url": "https://open.spotify.com/album/6o38CdD7CUlZDCFhjZYLDH"
+        "name": "Paris to Tokyo",
+        "url": "https://open.spotify.com/album/5BXl6r5L4zXQufLQjgkU6U"
       },
       "artists": [
         {
-          "name": "Pusha T",
-          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+          "name": "Fivio Foreign",
+          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
         },
         {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        },
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
         }
       ],
-      "duration_ms": 152612,
-      "name": "Scrape It Off (feat. Lil Uzi Vert & Don Toliver)",
-      "url": "https://open.spotify.com/track/1dp8aQANyTRKssDeAYPiZe"
+      "duration_ms": 130897,
+      "name": "Paris to Tokyo",
+      "url": "https://open.spotify.com/track/5QvW5lK6mkfTegpAK9JOO7"
     },
     {
       "added_at": "2022-09-20 09:17:21",
@@ -1779,18 +1779,26 @@
     {
       "added_at": "2022-09-20 09:17:21",
       "album": {
-        "name": "I NEVER LIKED YOU",
-        "url": "https://open.spotify.com/album/6ViO9Wx6dWzeUq6DmGTaHl"
+        "name": "Ghetto Superstar (feat. G Herbo & Doe Boy)",
+        "url": "https://open.spotify.com/album/2MTfZnikwjrMJ20QSomF5j"
       },
       "artists": [
         {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Doe Boy",
+          "url": "https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC"
         }
       ],
-      "duration_ms": 172933,
-      "name": "PUFFIN ON ZOOTIEZ",
-      "url": "https://open.spotify.com/track/5qgFgsrrxOjyPmX5YCuK2E"
+      "duration_ms": 244853,
+      "name": "Ghetto Superstar (feat. G Herbo & Doe Boy)",
+      "url": "https://open.spotify.com/track/5QdVpZhASstTN4BBwglPz6"
     },
     {
       "added_at": "2022-09-20 09:17:21",
@@ -1819,6 +1827,22 @@
     {
       "added_at": "2022-09-20 09:17:21",
       "album": {
+        "name": "I NEVER LIKED YOU",
+        "url": "https://open.spotify.com/album/6ViO9Wx6dWzeUq6DmGTaHl"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 172933,
+      "name": "PUFFIN ON ZOOTIEZ",
+      "url": "https://open.spotify.com/track/5qgFgsrrxOjyPmX5YCuK2E"
+    },
+    {
+      "added_at": "2022-09-20 09:17:21",
+      "album": {
         "name": "CELINE 3X",
         "url": "https://open.spotify.com/album/41kuLdSoezApusMB9AIZCT"
       },
@@ -1831,30 +1855,6 @@
       "duration_ms": 158223,
       "name": "CELINE 3X",
       "url": "https://open.spotify.com/track/2APwDsIavDeJRJFcz6s8Ow"
-    },
-    {
-      "added_at": "2022-09-20 09:17:21",
-      "album": {
-        "name": "Ghetto Superstar (feat. G Herbo & Doe Boy)",
-        "url": "https://open.spotify.com/album/2MTfZnikwjrMJ20QSomF5j"
-      },
-      "artists": [
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        },
-        {
-          "name": "Doe Boy",
-          "url": "https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC"
-        }
-      ],
-      "duration_ms": 244853,
-      "name": "Ghetto Superstar (feat. G Herbo & Doe Boy)",
-      "url": "https://open.spotify.com/track/5QdVpZhASstTN4BBwglPz6"
     },
     {
       "added_at": "2022-09-20 09:17:21",

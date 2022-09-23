@@ -4,12 +4,13 @@
 
 > Cùng tôn vinh tài năng và âm nhạc của những nữ nghệ sĩ Việt\. Ảnh bìa: Chi Pu
 
-106 songs - 6 hr 52 min - [published](https://open.spotify.com/playlist/04IRwdQz860iINipt3YtIB)
+107 songs - 6 hr 57 min - [published](https://open.spotify.com/playlist/04IRwdQz860iINipt3YtIB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [24h](https://open.spotify.com/track/4inMQ83GNpQ2OHDredH5hW) | [Lyly](https://open.spotify.com/artist/4POahBr8YCPNKGErIiofyx) | [24h](https://open.spotify.com/album/4LO3n3uH8Iu6xi09nh2u9i) | 4:17 | 2021-12-07 |  |
-| [Black Hickey \- Con Dấu Chủ Quyền](https://open.spotify.com/track/1Qf8uhmyNubhiGOCcWeDPv) | [Chi Pu](https://open.spotify.com/artist/6jRD85dsXJYn5vv73rqSGi) | [Black Hickey \(Con Dấu Chủ Quyền\)](https://open.spotify.com/album/7zSOESWQXSqQeV2ptNXArL) | 3:53 | 2022-09-06 |  |
+| [Anh Ơi Ở Lại](https://open.spotify.com/track/0VBv6oyMgeEBOIysaSV9aE) | [Chi Pu](https://open.spotify.com/artist/6jRD85dsXJYn5vv73rqSGi), [Đạt G](https://open.spotify.com/artist/4R3mugkUqCALXgkwSptTbg) | [Anh Ơi Ở Lại](https://open.spotify.com/album/0AvJduRQsFMQojtnsE2SfS) | 4:52 | 2022-09-22 |  |
+| [Black Hickey \- Con Dấu Chủ Quyền](https://open.spotify.com/track/1Qf8uhmyNubhiGOCcWeDPv) | [Chi Pu](https://open.spotify.com/artist/6jRD85dsXJYn5vv73rqSGi) | [Black Hickey \(Con Dấu Chủ Quyền\)](https://open.spotify.com/album/7zSOESWQXSqQeV2ptNXArL) | 3:53 | 2022-09-06 | 2022-09-23 |
 | [Bởi Vì Là Khi Yêu](https://open.spotify.com/track/57idtlQlKCv3toIDtx5LaX) | [Lyly](https://open.spotify.com/artist/4POahBr8YCPNKGErIiofyx) | [Bởi Vì Là Khi Yêu](https://open.spotify.com/album/3pAb4r4EzKQNUqjrt8HCoe) | 4:12 | 2021-12-07 |  |
 | [Bởi Vì Yêu](https://open.spotify.com/track/74C7vazAOSPwpVGxx21n5l) | [Juky San](https://open.spotify.com/artist/51wGpVg4Z3lv1IjuZAQjXn) | [Bởi Vì Yêu](https://open.spotify.com/album/7wgd9XeERTsnRGmBi1hIzU) | 3:26 | 2021-12-07 | 2022-02-02 |
 | [Cho Em Một Lần Yêu](https://open.spotify.com/track/5oQwxJJBwKPGkZliiyv3jQ) | [Đông Nhi](https://open.spotify.com/artist/6JTiPLdbZD2e0tDsN15U1s) | [The Singer](https://open.spotify.com/album/6mqV4lo8LrZhDS3NzjVLP5) | 3:45 | 2022-04-06 | 2022-05-27 |

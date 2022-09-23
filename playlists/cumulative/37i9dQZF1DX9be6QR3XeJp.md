@@ -2,9 +2,9 @@
 
 ### [RADAR: First Listen](https://open.spotify.com/playlist/37i9dQZF1DX9be6QR3XeJp)
 
-> Discover your new favourite artists\. Cover: Yazmin Lacey
+> Discover your new favourite artists\. Cover: Bellah
 
-142 songs - 7 hr 53 min - [published](https://open.spotify.com/playlist/6qn9QC3gawWvZcEMTsuVpt)
+143 songs - 7 hr 56 min - [published](https://open.spotify.com/playlist/6qn9QC3gawWvZcEMTsuVpt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Falling Asleep At The Wheel](https://open.spotify.com/track/5rqQv5jUcg58xsi1nuZDl9) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Falling Asleep At The Wheel](https://open.spotify.com/album/359BMiYkEMDC70gvpCVljg) | 3:23 | 2022-02-18 |  |
 | [Fiorucci Made Me Hardcore](https://open.spotify.com/track/4SXZvIjujIcmMtWbjnSwZT) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Fiorucci Made Me Hardcore](https://open.spotify.com/album/1pidRw3j1dO2bHEWDCR0ep) | 3:51 | 2022-05-06 |  |
 | [For You](https://open.spotify.com/track/2MRo59IW5O13nu0BIBqhW0) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [For You](https://open.spotify.com/album/5Gna2Z9JhoRjYR2CmIBB2r) | 5:37 | 2022-02-18 |  |
+| [Garden](https://open.spotify.com/track/3U4lJRdx9MgH42ThXr8GuP) | [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ) | [Garden](https://open.spotify.com/album/3IPCddJutMPZCJHfVeClx5) | 2:55 | 2022-09-22 |  |
 | [Glue](https://open.spotify.com/track/2xAL8CyACab3SzV2oEwjJq) | [Jafaris](https://open.spotify.com/artist/69hGavzu5tphYU1EIY0yEg) | [Glue](https://open.spotify.com/album/5ezdZ1R3DnBczev00GboAK) | 2:29 | 2022-02-18 |  |
 | [go \(feat\. Sam Smith\)](https://open.spotify.com/track/0dkPo2Tvo0PhGJaUAvk4pC) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [go \(feat\. Sam Smith\)](https://open.spotify.com/album/3zTbB7N63JZkS6I6zuooMs) | 3:35 | 2022-06-09 | 2022-08-23 |
 | [go \(feat\. Sam Smith\)](https://open.spotify.com/track/7kgNbYOyDZPzDVE89mLs1O) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Go \(Remixes\)](https://open.spotify.com/album/1kGbwOHke3PrRnZAmlkoOu) | 3:35 | 2022-08-18 |  |

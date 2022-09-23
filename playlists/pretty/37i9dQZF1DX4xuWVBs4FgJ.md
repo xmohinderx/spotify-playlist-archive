@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4xuWVBs4FgJ.md) - [plain]
 
 > Dinner with Friends? Here's the perfect playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,452,281 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,452,599 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4xuWVBs4FgJ.md) - [plain]
 | 34 | [I Guess I Just Feel Like](https://open.spotify.com/track/4Im6GRj17qa7NW76OsJh1s) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 4:46 |
 | 35 | [Tieduprightnow](https://open.spotify.com/track/66tkDkPsznE5zIHNt4QkXB) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Tieduprightnow](https://open.spotify.com/album/5v7PsESglCFeVcb7wNEWIW) | 4:09 |
 | 36 | [Like Strangers Do](https://open.spotify.com/track/0Wc6cbF38a90b8wov9V63F) | [AJ Mitchell](https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77) | [Like Strangers Do](https://open.spotify.com/album/3fFTDPRQZRpbH5pgqvepFZ) | 2:40 |
-| 37 | [To Be With You \- 2021 Remastered](https://open.spotify.com/track/0eifvmNPHWaSh4IKNR4Xva) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Lean Into It \(30th Anniversary Edition\)](https://open.spotify.com/album/2Y7fURPZCCr4iZIrM2S3dR) | 3:28 |
-| 38 | [Teenage Dream](https://open.spotify.com/track/3Y2MvObZdPakD1X71KOxCD) | [Stephen Dawes](https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose) | [Teenage Dream](https://open.spotify.com/album/0FPqPpVTND59rpe6YsNnyz) | 2:57 |
+| 37 | [Teenage Dream](https://open.spotify.com/track/3Y2MvObZdPakD1X71KOxCD) | [Stephen Dawes](https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose) | [Teenage Dream](https://open.spotify.com/album/0FPqPpVTND59rpe6YsNnyz) | 2:57 |
+| 38 | [To Be With You \- 2021 Remastered](https://open.spotify.com/track/0eifvmNPHWaSh4IKNR4Xva) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Lean Into It \(30th Anniversary Edition\)](https://open.spotify.com/album/2Y7fURPZCCr4iZIrM2S3dR) | 3:28 |
 | 39 | [You & Me](https://open.spotify.com/track/1bQhZOoXYqjXs7u7rFXo0h) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Chapters](https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP) | 3:51 |
 | 40 | [Leaving My Love Behind](https://open.spotify.com/track/1NxHgM5nOnmqi3KUVLbaIw) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent \(Extended Edition\)](https://open.spotify.com/album/2wiPF3m0ylst0JSk1IvZL8) | 3:30 |
 | 41 | [Last Request](https://open.spotify.com/track/6xM8oBy40nK1rOd8WmoOPx) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [These Streets](https://open.spotify.com/album/6L2FiSnFMisCgbhbag4KTl) | 3:40 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4xuWVBs4FgJ.md) - [plain]
 | 92 | [Come Home To Me](https://open.spotify.com/track/2K8elWg8ihrZRwZJ7Gy6L3) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [LÉON](https://open.spotify.com/album/4rH2e0qPw9MrwOSdk9rKNe) | 3:45 |
 | 93 | [That Was Yesterday](https://open.spotify.com/track/3gwfEBrFpzEFCZMjw7mqxA) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [That Was Yesterday](https://open.spotify.com/album/2GYGaipOwfLGveAF3ta6Iv) | 3:50 |
 | 94 | [Grow As We Go \(feat\. Sara Bareilles\)](https://open.spotify.com/track/1xscBC6UV21t0sMCgu0mLi) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k), [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [Grow As We Go \(feat\. Sara Bareilles\)](https://open.spotify.com/album/3BEJQtuowUpkfO9ducuC0M) | 4:09 |
-| 95 | [Desafinado \- From 'Minions: The Rise of Gru' Soundtrack](https://open.spotify.com/track/12j5ByuhjK6vsb0vJS1cwM) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Desafinado \(From 'Minions: The Rise of Gru' Soundtrack\)](https://open.spotify.com/album/3l4QQKkuRpYQCmmq3F6DLv) | 2:10 |
-| 96 | [Stuck On You](https://open.spotify.com/track/0ROwoz82DIW4tOzkxYnSjf) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Can't Slow Down](https://open.spotify.com/album/3alZBOvPaK3hgMEEymw4Yr) | 3:15 |
+| 95 | [Stuck On You](https://open.spotify.com/track/0ROwoz82DIW4tOzkxYnSjf) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Can't Slow Down](https://open.spotify.com/album/3alZBOvPaK3hgMEEymw4Yr) | 3:15 |
+| 96 | [Desafinado \- From 'Minions: The Rise of Gru' Soundtrack](https://open.spotify.com/track/12j5ByuhjK6vsb0vJS1cwM) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Desafinado \(From 'Minions: The Rise of Gru' Soundtrack\)](https://open.spotify.com/album/3l4QQKkuRpYQCmmq3F6DLv) | 2:10 |
 | 97 | [Let's Fall In Love](https://open.spotify.com/track/4IVyX0UJzGyUk0MLiz1jVJ) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [When I Look In Your Eyes](https://open.spotify.com/album/6NqwpeiAjwYAppRNA7F3yD) | 4:18 |
 | 98 | [Favorite T\-Shirt \- Acoustic](https://open.spotify.com/track/2PR4jVXzyjCky2PkONvipq) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [Favorite T\-Shirt \(Acoustic\)](https://open.spotify.com/album/6h8LWfRQHp7Jef1EChIhEM) | 3:08 |
 | 99 | [golden thing](https://open.spotify.com/track/5y2TuOFgwlpztHlqENHQOE) | [Cody Simpson](https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K) | [golden thing](https://open.spotify.com/album/33MiMpGm7MU2UBggBqBIUz) | 3:39 |
 | 100 | [Confidant](https://open.spotify.com/track/5CRMZVNTo7AxJkWmIPehJQ) | [Blakey](https://open.spotify.com/artist/3cqjRMFHyTEbY3Gq1P7sAl) | [Embers Mixtape](https://open.spotify.com/album/558oOcAGpoyyjsVCPxD0gI) | 3:35 |
 
-Snapshot ID: `MTY2MzMwMDgwMCwwMDAwMDAwMDUzYWY4MGFmMzJhOGI4OWY4MzQ3ZjMwZDI5ZDgzMzZj`
+Snapshot ID: `MTY2MzMwMDgwMCwwMDAwMDAwMGQ5ZTcyYzEyZWYyZGNlNDE1YjRkY2RjOTBmMjM2NzZi`

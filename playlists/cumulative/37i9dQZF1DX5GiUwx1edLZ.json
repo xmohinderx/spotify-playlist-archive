@@ -314,6 +314,32 @@
     },
     {
       "album": {
+        "name": "Better EP (feat. Teddy Swims)",
+        "url": "https://open.spotify.com/album/6XTuLXNcNIzDaLzI6EwKXy"
+      },
+      "artists": [
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        },
+        {
+          "name": "BURNS",
+          "url": "https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7"
+        },
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150652,
+      "name": "Better (feat. Teddy Swims) - Acoustic Version",
+      "url": "https://open.spotify.com/track/24MoOLc4izxq0E0lzRxxJn"
+    },
+    {
+      "album": {
         "name": "Better (feat. Teddy Swims) [Acoustic]",
         "url": "https://open.spotify.com/album/49MadsJdpvc0l6spOFKU6N"
       },
@@ -333,7 +359,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 150652,
       "name": "Better (feat. Teddy Swims) - Acoustic Version",
       "url": "https://open.spotify.com/track/52ha3Z4bUD70ykCzFsJulA"

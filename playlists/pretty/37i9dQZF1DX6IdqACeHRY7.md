@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IdqACeHRY7.md) - [plain]
 
 > Behagelig musik.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,523 likes - 114 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,530 likes - 114 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IdqACeHRY7.md) - [plain]
 | 81 | [Wait](https://open.spotify.com/track/3hqJFkxeobh6Y9mOL37NLx) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Raised Under Grey Skies \(Deluxe\)](https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo) | 3:51 |
 | 82 | [If That's Alright](https://open.spotify.com/track/1sOHsqg3EeaimEJM72CZa5) | [Dylan Dunlap](https://open.spotify.com/artist/7CanUos0itnFLMrCiT839W) | [If That's Alright](https://open.spotify.com/album/3ZxgIRFBsbYYxcKOIVaXPx) | 3:55 |
 | 83 | [For You](https://open.spotify.com/track/0CJvDUBeEL1Rmpx7MH28CQ) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [For You](https://open.spotify.com/album/7mNUdtUxh2dKzqYMgP67LX) | 3:23 |
-| 84 | [No Peace](https://open.spotify.com/track/75TlwJ8oBgdq8P9kO7uVML) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3XftSbguntyRTBQaGItmfK) | 4:43 |
-| 85 | [Mirage](https://open.spotify.com/track/1emAqEEKHGpdFx6H2YJTiG) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Mirage](https://open.spotify.com/album/2ZkqACn45Z6cSf1xy0ll2D) | 2:44 |
+| 84 | [Mirage](https://open.spotify.com/track/1emAqEEKHGpdFx6H2YJTiG) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Mirage](https://open.spotify.com/album/2ZkqACn45Z6cSf1xy0ll2D) | 2:44 |
+| 85 | [No Peace](https://open.spotify.com/track/75TlwJ8oBgdq8P9kO7uVML) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3XftSbguntyRTBQaGItmfK) | 4:43 |
 | 86 | [Worst In Me](https://open.spotify.com/track/1FY8gDAydm8CfGYp7Lv9ce) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Nervous System](https://open.spotify.com/album/1qyjZGIeeLJlXbYWuoloWj) | 3:22 |
 | 87 | [Moonlight](https://open.spotify.com/track/6Lx8iWqYzIT5hnuriaGCY9) | [Lilly Ahlberg](https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk) | [Moonlight](https://open.spotify.com/album/7xe4K8R3RaC5405EABFdTM) | 3:31 |
 | 88 | [Wild Love](https://open.spotify.com/track/3XLZOk9aP5VxiO81xFSX2w) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Electric Light](https://open.spotify.com/album/08cprzGPjtLDvKMwtQh93R) | 3:17 |
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IdqACeHRY7.md) - [plain]
 | 90 | [Suitcase](https://open.spotify.com/track/6dQ1FEt4FByE6tU0dvQNmr) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Chapters](https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP) | 3:35 |
 | 91 | [i loved you first](https://open.spotify.com/track/3FpEXAupLwCHwzeUBxF99S) | [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [i loved you first](https://open.spotify.com/album/77GA1E8JXxpzlFFnGxbLEg) | 3:47 |
 | 92 | [Rockabye \- Acoustic Version](https://open.spotify.com/track/30LDuVfrePWbedYTc1mUCn) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Rockabye \(Acoustic\)](https://open.spotify.com/album/3eWhckqCd4GXXCchAvaWCW) | 2:37 |
-| 93 | [It's Gotta Be You](https://open.spotify.com/track/66yKv1kZIqfejvrLEGqTML) | [Isaiah Firebrace](https://open.spotify.com/artist/5lXfVoQxVgC5fpjkVqvNYn) | [It's Gotta Be You](https://open.spotify.com/album/4zSLy4XMFXIMFa52jzoEdk) | 3:11 |
-| 94 | [Still the Same \(feat\. Boy In Space\)](https://open.spotify.com/track/0f8xPdFJ6SdlHJwkxpdw2Q) | [SHY Martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM), [Boy In Space](https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP) | [Still the Same \(feat\. Boy In Space\)](https://open.spotify.com/album/15a2L2owp0WoKIMfcwncLc) | 2:58 |
+| 93 | [Still the Same \(feat\. Boy In Space\)](https://open.spotify.com/track/0f8xPdFJ6SdlHJwkxpdw2Q) | [SHY Martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM), [Boy In Space](https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP) | [Still the Same \(feat\. Boy In Space\)](https://open.spotify.com/album/15a2L2owp0WoKIMfcwncLc) | 2:58 |
+| 94 | [It's Gotta Be You](https://open.spotify.com/track/66yKv1kZIqfejvrLEGqTML) | [Isaiah Firebrace](https://open.spotify.com/artist/5lXfVoQxVgC5fpjkVqvNYn) | [It's Gotta Be You](https://open.spotify.com/album/4zSLy4XMFXIMFa52jzoEdk) | 3:11 |
 | 95 | [reverie](https://open.spotify.com/track/56iI6wwW6Lm2DzRxl0TFqH) | [isaac gracie](https://open.spotify.com/artist/5Smb3KB29epOb92Btsxulb) | [isaac gracie \(extended edition\)](https://open.spotify.com/album/0WhOJJJZPWfefjJogtinkD) | 5:43 |
 | 96 | [Call Your Girlfriend](https://open.spotify.com/track/5hs8G87IGQq0Sz37oY9efX) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [Call Your Girlfriend](https://open.spotify.com/album/1ecFIwEV47tnDAQLAyH8vu) | 3:14 |
 | 97 | [Perfect To Me \- Acoustic](https://open.spotify.com/track/5OWrEfTdsOsTxMbznYDVL0) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Perfect to Me \(Acoustic\)](https://open.spotify.com/album/4bVFapJCV0zmEd2e6qq74v) | 3:33 |
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IdqACeHRY7.md) - [plain]
 | 113 | [Scars To Your Beautiful](https://open.spotify.com/track/19f6MVdX9dLFerHynoM5im) | [Thomas Daniel](https://open.spotify.com/artist/6szSMqKKwkFqJoK3MxK3Hk) | [Scars To Your Beautiful](https://open.spotify.com/album/7lwdqOUtzxHH7wxUHtFffj) | 3:57 |
 | 114 | [You Give Me Something](https://open.spotify.com/track/28euH5Ny1JXxZAt2KjWp62) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [Undiscovered](https://open.spotify.com/album/00QEcKEqSmwP8odEMImIuz) | 3:32 |
 
-Snapshot ID: `MTY2MjcxMzYwOCwwMDAwMDAwMDFlYmI3MmFjYTRjODhhOTZkZWQwNTMwYjc4NTUwNDA4`
+Snapshot ID: `MTY2MjcxMzYwOCwwMDAwMDAwMDMwYjcyZDFkNTMxZTM0OThkMTMzNWViNTc2ZDc2NWY2`

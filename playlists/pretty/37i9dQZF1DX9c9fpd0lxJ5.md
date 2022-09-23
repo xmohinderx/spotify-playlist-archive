@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c9fpd0lxJ5.md) - [plain]
 
 > indie tunes to make you shine bby:\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 446,920 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 446,930 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c9fpd0lxJ5.md) - [plain]
 | 65 | [Dung Ding Dang](https://open.spotify.com/track/5OWxGgdDveGYp0iKvJN4H3) | [Estereomance](https://open.spotify.com/artist/0sPz0BuaI7sSF0mzku6fZd) | [Estereomance](https://open.spotify.com/album/5BLPMwnHHRMq6JhrhjX62T) | 4:15 |
 | 66 | [A No Llorar](https://open.spotify.com/track/4JxEKIxczOK2dvQWq8Gb9T) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [A No Llorar](https://open.spotify.com/album/6QVVfvXpuOKOxuOweZTnAB) | 3:52 |
 | 67 | [Caramelo](https://open.spotify.com/track/1Ug6XFyqQE9nSE8ycck18M) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch) | [Caramelo](https://open.spotify.com/album/7qqJ54Yi4bI3OTqMiJ6ghi) | 3:18 |
-| 68 | [CLEAN BABY](https://open.spotify.com/track/2enQxKJL5ZTGoU3U8ri85A) | [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT) | [CLEAN BABY](https://open.spotify.com/album/5VzoByWr9exzILjqYGPS2F) | 3:04 |
-| 69 | [Arcoíris](https://open.spotify.com/track/3Kw6nJFp1sZ5RqwYrP51jU) | [Mola Mola](https://open.spotify.com/artist/0GvoilgXudnVgLkkxYCttN) | [Arcoíris](https://open.spotify.com/album/0RBNncC4gMU2U83bLPoWcs) | 3:37 |
+| 68 | [Arcoíris](https://open.spotify.com/track/3Kw6nJFp1sZ5RqwYrP51jU) | [Mola Mola](https://open.spotify.com/artist/0GvoilgXudnVgLkkxYCttN) | [Arcoíris](https://open.spotify.com/album/0RBNncC4gMU2U83bLPoWcs) | 3:37 |
+| 69 | [CLEAN BABY](https://open.spotify.com/track/2enQxKJL5ZTGoU3U8ri85A) | [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT) | [CLEAN BABY](https://open.spotify.com/album/5VzoByWr9exzILjqYGPS2F) | 3:04 |
 | 70 | [¿Pa Qué?](https://open.spotify.com/track/4eReQpWfpFVEKrWyynpadO) | [Letón Pé](https://open.spotify.com/artist/76LJ0AYW9sxNGRfKnag1vO), [Chøby](https://open.spotify.com/artist/6xsIIOuNuBj1Lvmcn87fQd) | [¿Pa Qué?](https://open.spotify.com/album/1aBwufMjzi19BkmB4tkapq) | 3:22 |
 | 71 | [Agua Que Quema](https://open.spotify.com/track/5mJ7IcsK2WzXRaIKW5XgY9) | [Mula](https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE) | [Mundos](https://open.spotify.com/album/04IsLcbwfDd5Y7fwdaGML6) | 3:19 |
 | 72 | [La Sombra](https://open.spotify.com/track/3monG9SQApxiOwivspTANk) | [Chesdana](https://open.spotify.com/artist/1PobiDleeGFCqJgRVvX9DY) | [La Sombra](https://open.spotify.com/album/1byXfg4uGQecfZKo9AjziF) | 3:46 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c9fpd0lxJ5.md) - [plain]
 | 82 | [IN MY ROOM!](https://open.spotify.com/track/74XGMhW9YScgVpeVJmzKqj) | [Tatiana Hazel](https://open.spotify.com/artist/5NvrRBcK6hRuboOL0CtZXU) | [DUALITY](https://open.spotify.com/album/1mHk73bDEklzG02PtK4lv4) | 3:42 |
 | 83 | [No Puedo Parar](https://open.spotify.com/track/40Vkas3vI6KE0v02V1ZdiA) | [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2) | [No Puedo Parar](https://open.spotify.com/album/4xIpUxqAgzC1vYpD9Zabfo) | 4:03 |
 | 84 | [New Lane](https://open.spotify.com/track/2vO9Ha3zfJ7MXRLsfHyI7q) | [TEMPOREX](https://open.spotify.com/artist/3BBCgZVbXFRzcnT1ewVfRt) | [Bowling](https://open.spotify.com/album/4dM8zWbltC75lrKKQP7U3e) | 1:57 |
-| 85 | [Me Voy](https://open.spotify.com/track/7ttDaIS674Ty20rnKQMQs7) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Me Voy](https://open.spotify.com/album/2pQloxRAAk9IH3qbtP8cVr) | 3:32 |
-| 86 | [Coachella](https://open.spotify.com/track/2OmMwHDXy86Y9qPvRqiFMA) | [REYNA](https://open.spotify.com/artist/4AHhe1KXVCCoOdHQNjH5Zu) | [Coachella](https://open.spotify.com/album/77e8Fef7cxAiWngOEq8enQ) | 3:20 |
+| 85 | [Coachella](https://open.spotify.com/track/2OmMwHDXy86Y9qPvRqiFMA) | [REYNA](https://open.spotify.com/artist/4AHhe1KXVCCoOdHQNjH5Zu) | [Coachella](https://open.spotify.com/album/77e8Fef7cxAiWngOEq8enQ) | 3:20 |
+| 86 | [Me Voy](https://open.spotify.com/track/7ttDaIS674Ty20rnKQMQs7) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Me Voy](https://open.spotify.com/album/2pQloxRAAk9IH3qbtP8cVr) | 3:32 |
 | 87 | [CAVIAR](https://open.spotify.com/track/7jQ0ac6EcFNXxm0obXOFWb) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP) | [CARISMA](https://open.spotify.com/album/62TQ8Q7gaq5T4eUzYr3YXQ) | 3:01 |
 | 88 | [Johnny \- Español](https://open.spotify.com/track/7MpNJk4yOU2A8nHm3EVFfv) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [Die 4 Ur Love \(Deluxe\)](https://open.spotify.com/album/5OgIupqmSD356odTnwvkBj) | 3:33 |
 | 89 | [Desastre Comunal](https://open.spotify.com/track/1FzcH0boI4wvlUvjnQxf0l) | [Los Wálters](https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY) | [Desastre Comunal](https://open.spotify.com/album/4EwZis4GJBiNs1ziHwtvhg) | 3:04 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c9fpd0lxJ5.md) - [plain]
 | 99 | [Si Te Portas Mal \(Be Bad\)](https://open.spotify.com/track/5cxGETg09kiVEMDMJ3qW0G) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Everlasting](https://open.spotify.com/album/2PQOF8sJwxJODZ4MZ97mYn) | 3:37 |
 | 100 | [Dónde estás](https://open.spotify.com/track/3xG8DnokACoP2e4Q83PY21) | [dani](https://open.spotify.com/artist/4sYXzPulKYxOYuDKS1px8Y) | [veinte](https://open.spotify.com/album/1rAMdylzJZKDJgL200ivk5) | 3:24 |
 
-Snapshot ID: `MTY2MDc2MjM4OSwwMDAwMDAwMDhjY2Q4MjI2ZDQyYzg5YmI1M2M2N2I2N2NiODAzODU1`
+Snapshot ID: `MTY2MDc2MjM4OSwwMDAwMDAwMDg2OWYwMTA3MTFlOTRmZTNjNmQwOTcwNzc3NjA5Y2Uw`

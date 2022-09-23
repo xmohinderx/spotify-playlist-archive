@@ -1,12 +1,12 @@
 {
-  "description": "The latest straight bars and Afro-Trap. Cover:  <a href=\"https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z?si=RVmkl649TI2eS6agxx09aQ\"> K.O </a> ",
-  "num_followers": 99201,
+  "description": "The latest straight bars and Afro-Trap. Cover:  <a href=\"https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ?si=nOiYYMd5SSuw6cmc_LG3Dw\"> Black Sherif </a> ",
+  "num_followers": 99239,
   "original_name": "No Wahala",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMwMjM5MywwMDAwMDAwMDZiMDcxZjg1NTU2YzBmMDZmZmVlZjE5NzM0NzhlYzVl",
+  "snapshot_id": "MTY2Mzg5MzYyNSwwMDAwMDAwMGZkOTczNGJkMDlkODNlZGEwOWE5MWUzYWE3MGM3ZjNl",
   "tracks": [
     {
       "added_at": "2022-07-07 23:00:00",
@@ -29,20 +29,20 @@
       "url": "https://open.spotify.com/track/0cE68B5sCz9f3snJ5ueTGZ"
     },
     {
-      "added_at": "2022-09-16 04:26:33",
+      "added_at": "2022-09-23 00:40:25",
       "album": {
-        "name": "SR3",
-        "url": "https://open.spotify.com/album/6Si2FMyfksVv0PHoSmWGUT"
+        "name": "Soja",
+        "url": "https://open.spotify.com/album/0WrpYqyMi0ZU8EY9AzCdht"
       },
       "artists": [
         {
-          "name": "K.O",
-          "url": "https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z"
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
         }
       ],
-      "duration_ms": 145333,
-      "name": "MOSHITO",
-      "url": "https://open.spotify.com/track/0alylhpp2eVgZYSPfZg9Gi"
+      "duration_ms": 181557,
+      "name": "Soja",
+      "url": "https://open.spotify.com/track/5F7imvl6nIRWoMCejdR4Sk"
     },
     {
       "added_at": "2022-09-16 04:26:33",
@@ -85,20 +85,24 @@
       "url": "https://open.spotify.com/track/5XE6dTAtEqrHp0NRCjuPui"
     },
     {
-      "added_at": "2022-06-09 23:00:00",
+      "added_at": "2022-09-23 00:40:25",
       "album": {
-        "name": "Big Energy",
-        "url": "https://open.spotify.com/album/4ooUYNH9ZD44v6wpIv5huk"
+        "name": "Pardon My Arrogance",
+        "url": "https://open.spotify.com/album/2690tz6XKjQtcF1WjNNDJW"
       },
       "artists": [
         {
-          "name": "LADIPOE",
-          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+          "name": "Cassper Nyovest",
+          "url": "https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP"
+        },
+        {
+          "name": "K1NG",
+          "url": "https://open.spotify.com/artist/4VHLPOtj6jnjbe9kIxFHA9"
         }
       ],
-      "duration_ms": 185000,
-      "name": "Big Energy",
-      "url": "https://open.spotify.com/track/4wG7xubJwUdjvdVJvAV1d9"
+      "duration_ms": 118000,
+      "name": "Pardon My Arrogance",
+      "url": "https://open.spotify.com/track/5lSqaq9zJN90ut2JOoddUW"
     },
     {
       "added_at": "2022-09-16 04:26:33",
@@ -517,24 +521,20 @@
       "url": "https://open.spotify.com/track/6quFWbUf88BS0pWUNrwVCR"
     },
     {
-      "added_at": "2021-11-04 23:01:00",
+      "added_at": "2022-06-09 23:00:00",
       "album": {
-        "name": "Providence",
-        "url": "https://open.spotify.com/album/6y0Jfh7dZgzKcxM2hP7PgF"
+        "name": "Big Energy",
+        "url": "https://open.spotify.com/album/4ooUYNH9ZD44v6wpIv5huk"
       },
       "artists": [
         {
           "name": "LADIPOE",
           "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
-        },
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
         }
       ],
-      "duration_ms": 186923,
-      "name": "Afro Jigga",
-      "url": "https://open.spotify.com/track/4z48XG61raE7WwbtJdIvqe"
+      "duration_ms": 185000,
+      "name": "Big Energy",
+      "url": "https://open.spotify.com/track/4wG7xubJwUdjvdVJvAV1d9"
     },
     {
       "added_at": "2021-10-14 23:00:00",
@@ -685,6 +685,26 @@
       "url": "https://open.spotify.com/track/1eJ1pgxRJWi0LYPbS9CxS3"
     },
     {
+      "added_at": "2021-11-04 23:01:00",
+      "album": {
+        "name": "Providence",
+        "url": "https://open.spotify.com/album/6y0Jfh7dZgzKcxM2hP7PgF"
+      },
+      "artists": [
+        {
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 186923,
+      "name": "Afro Jigga",
+      "url": "https://open.spotify.com/track/4z48XG61raE7WwbtJdIvqe"
+    },
+    {
       "added_at": "2021-11-18 23:01:00",
       "album": {
         "name": "SUN / BABY BLUE 4\u2019s",
@@ -715,6 +735,22 @@
       "duration_ms": 183750,
       "name": "Khuphuka",
       "url": "https://open.spotify.com/track/0yonvZ8xFI5IYgOVaXTSa5"
+    },
+    {
+      "added_at": "2022-09-16 04:26:33",
+      "album": {
+        "name": "SR3",
+        "url": "https://open.spotify.com/album/6Si2FMyfksVv0PHoSmWGUT"
+      },
+      "artists": [
+        {
+          "name": "K.O",
+          "url": "https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z"
+        }
+      ],
+      "duration_ms": 145333,
+      "name": "MOSHITO",
+      "url": "https://open.spotify.com/track/0alylhpp2eVgZYSPfZg9Gi"
     },
     {
       "added_at": "2022-03-24 23:00:00",
@@ -1347,46 +1383,6 @@
       "duration_ms": 220847,
       "name": "Best for You",
       "url": "https://open.spotify.com/track/2RTJ8I0U32wZaKLuQj624z"
-    },
-    {
-      "added_at": "2021-10-14 23:00:00",
-      "album": {
-        "name": "Ball Till We Fall",
-        "url": "https://open.spotify.com/album/1ykaxeBYRvI0boqwTezPTx"
-      },
-      "artists": [
-        {
-          "name": "Kida Kudz",
-          "url": "https://open.spotify.com/artist/4wrFUdBKN4RBMtC3ZoLVdw"
-        },
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        }
-      ],
-      "duration_ms": 143220,
-      "name": "Ball Till We Fall",
-      "url": "https://open.spotify.com/track/4ZrGslwrdNckETI7gktSwS"
-    },
-    {
-      "added_at": "2022-06-30 23:00:00",
-      "album": {
-        "name": "Dangerous",
-        "url": "https://open.spotify.com/album/6qPd7nTNkXx4VhmgryxRVH"
-      },
-      "artists": [
-        {
-          "name": "Kofi Jamar",
-          "url": "https://open.spotify.com/artist/79KG6wqJDA2rLXbAwmtNgK"
-        },
-        {
-          "name": "Khaligraph Jones",
-          "url": "https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az"
-        }
-      ],
-      "duration_ms": 291492,
-      "name": "Dangerous",
-      "url": "https://open.spotify.com/track/71ozkaqkgsWV2aUl7zYHty"
     }
   ],
   "unique_name": "No Wahala",

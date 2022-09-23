@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYeI1QdFxzU.md) - [plain]
 
 > A soundscape of chilled electronic and compositional ambient music, to help you unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,275 likes - 50 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,297 likes - 50 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYeI1QdFxzU.md) - [plain]
 | 17 | [Don't Miss It](https://open.spotify.com/track/1p80XDFkNwDaA87sh2C2Xn) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Assume Form](https://open.spotify.com/album/23dKNZpiadggKHrQgHLi3L) | 4:59 |
 | 18 | [Envelopes \(Chapter VI\) \- Edit](https://open.spotify.com/track/3JDsYB8UxGbMQNnNlAeDL0) | [Leon Vynehall](https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU) | [Envelopes](https://open.spotify.com/album/1A6VtF2OjVmEKErfTrNZYJ) | 4:01 |
 | 19 | [Feel](https://open.spotify.com/track/0AW12rdgg7BEKo4POOUUbQ) | [Luke Marzec](https://open.spotify.com/artist/5X0GAEimapMzpG5Q7Sibmh) | [Regrets & Resolutions](https://open.spotify.com/album/1I8zvBuhjyZSgWjhspMNr0) | 5:54 |
-| 20 | [Wednesday Afternoon](https://open.spotify.com/track/5ab9R4PepSOaZWPJHGUpYK) | [FAIR GAME](https://open.spotify.com/artist/1siJGCHqSxy7R5J5nVyH2y) | [Wednesday Afternoon](https://open.spotify.com/album/5kbyM8e5JFyjneNgjC9cJD) | 2:29 |
-| 21 | [Magic\-\-Pearl](https://open.spotify.com/track/4hiNXRP0MUIl6wdEMAnazO) | [Arbour](https://open.spotify.com/artist/3pSfwb3p6BVPTYDkNdgxS2) | [Sights & Sounds](https://open.spotify.com/album/5aYSZXvc6VcNWB3jdaqQBK) | 3:20 |
+| 20 | [Magic\-\-Pearl](https://open.spotify.com/track/4hiNXRP0MUIl6wdEMAnazO) | [Arbour](https://open.spotify.com/artist/3pSfwb3p6BVPTYDkNdgxS2) | [Sights & Sounds](https://open.spotify.com/album/5aYSZXvc6VcNWB3jdaqQBK) | 3:20 |
+| 21 | [Wednesday Afternoon](https://open.spotify.com/track/5ab9R4PepSOaZWPJHGUpYK) | [FAIR GAME](https://open.spotify.com/artist/1siJGCHqSxy7R5J5nVyH2y) | [Wednesday Afternoon](https://open.spotify.com/album/5kbyM8e5JFyjneNgjC9cJD) | 2:29 |
 | 22 | [Joyfulness](https://open.spotify.com/track/04l9bUZEsUkF6zy7hIjbbT) | [Hector Plimmer](https://open.spotify.com/artist/7K64vyGna9ILfEEWnLKFEV), [Alexa Harley](https://open.spotify.com/artist/7vgZqCNS2Nah7tlpo7ZjC4) | [Next to Nothing](https://open.spotify.com/album/5Kl4wtgRETX1aQU5prjKQO) | 3:36 |
 | 23 | [Fires](https://open.spotify.com/track/3J29rY1I9u0gNsvHq1cgUk) | [Frameworks](https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP) | [Imagine Gold](https://open.spotify.com/album/0S9o7MW7YSpKKRX7cmqSXm) | 4:39 |
 | 24 | [Don't You Forget About Me](https://open.spotify.com/track/1Dl0E86yorhNRMYZ20RIfY) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Don't You Forget About Me](https://open.spotify.com/album/6lHsSTzYm6I40BrkUq54n1) | 5:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYeI1QdFxzU.md) - [plain]
 | 49 | [Love Is Alive](https://open.spotify.com/track/4NRWOq8GohOo62jFxIzMF8) | [Mozez](https://open.spotify.com/artist/3r6uJM01I6meTehVwh0q2b), [DJ Celeste Lear](https://open.spotify.com/artist/6Z8VsD3APPWszUaJi65y9d) | [Love Is Alive](https://open.spotify.com/album/02dSIhVa4IQs0xHxOsgHUt) | 3:42 |
 | 50 | [El Azul del Cielo \- Mente Orgánica Remix](https://open.spotify.com/track/0J6AcQFq8RnR4jWYYZNPbm) | [Buendia](https://open.spotify.com/artist/4DgmNZDjpk4Zj547a2bfcH), [De Juepuchas](https://open.spotify.com/artist/7oVSI0ddXNkjEtvLoh0SRC), [Mente Orgánica](https://open.spotify.com/artist/1wfwGvcBGamXiXxuaExHRT), [Romboi](https://open.spotify.com/artist/7AevNCcvxBEy5z42d2A2RO) | [El Azul del Cielo \(Remix\)](https://open.spotify.com/album/7qYsWtbEwidXgIjiiZ0u1I) | 7:00 |
 
-Snapshot ID: `MTYzNDMwNTY0NywwMDAwMDAwMDk2YzkzNmVhMWU1YTBkZTkxZjliYTIzYmU4YTg0ZTA4`
+Snapshot ID: `MTYzNDMwNTY0NywwMDAwMDAwMGU0ZWZhYTE5MTUwMjZkYjlmN2ZmNjBiYmM1MjA2MTg3`

@@ -1,12 +1,12 @@
 {
   "description": "Acoustic country songs from the heart of Nashville - stripped down to the basics.",
-  "num_followers": 109309,
+  "num_followers": 109320,
   "original_name": "Nashville Stripped",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMGZmZTIyMDI2MWVjZWRhN2U5YTViYWM3YzJmOWM2NWU5",
+  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMGExMWFlZTQ3Mzc0N2VkNzMwODA1ODZjOTRiMzQ4OGVh",
   "tracks": [
     {
       "added_at": "2022-09-16 04:00:00",
@@ -259,18 +259,18 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Country Again (Side A)",
-        "url": "https://open.spotify.com/album/3W2BTPUHJX51hweWPNRenv"
+        "name": "Rock and A Hard Place (Acoustic)",
+        "url": "https://open.spotify.com/album/1jp5itCaZpsTO6aK9KQH4R"
       },
       "artists": [
         {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
         }
       ],
-      "duration_ms": 172586,
-      "name": "Want It Again",
-      "url": "https://open.spotify.com/track/3VvPREisNL7yBoePVbLbyZ"
+      "duration_ms": 207540,
+      "name": "Rock and A Hard Place - Acoustic",
+      "url": "https://open.spotify.com/track/1QLMOpJ9hjifk5pEiJdXMN"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -291,18 +291,18 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Rock and A Hard Place (Acoustic)",
-        "url": "https://open.spotify.com/album/1jp5itCaZpsTO6aK9KQH4R"
+        "name": "Country Again (Side A)",
+        "url": "https://open.spotify.com/album/3W2BTPUHJX51hweWPNRenv"
       },
       "artists": [
         {
-          "name": "Bailey Zimmerman",
-          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
         }
       ],
-      "duration_ms": 207540,
-      "name": "Rock and A Hard Place - Acoustic",
-      "url": "https://open.spotify.com/track/1QLMOpJ9hjifk5pEiJdXMN"
+      "duration_ms": 172586,
+      "name": "Want It Again",
+      "url": "https://open.spotify.com/track/3VvPREisNL7yBoePVbLbyZ"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -423,22 +423,18 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "This City Remix (feat. Kane Brown)",
-        "url": "https://open.spotify.com/album/0WWpkBplmouutZQWMlq0vF"
+        "name": "Long Haul (Stripped)",
+        "url": "https://open.spotify.com/album/7cF9NMgiYb5SYY9twO6KXq"
       },
       "artists": [
         {
-          "name": "Sam Fischer",
-          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
-        },
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+          "name": "Ian Munsick",
+          "url": "https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn"
         }
       ],
-      "duration_ms": 194837,
-      "name": "This City Remix (feat. Kane Brown)",
-      "url": "https://open.spotify.com/track/3GPvHSNPWlzDu5rLu4PztC"
+      "duration_ms": 242530,
+      "name": "Long Haul - Stripped",
+      "url": "https://open.spotify.com/track/4SvNxGE5IEzBsYD9x3lEhG"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -459,18 +455,22 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Long Haul (Stripped)",
-        "url": "https://open.spotify.com/album/7cF9NMgiYb5SYY9twO6KXq"
+        "name": "This City Remix (feat. Kane Brown)",
+        "url": "https://open.spotify.com/album/0WWpkBplmouutZQWMlq0vF"
       },
       "artists": [
         {
-          "name": "Ian Munsick",
-          "url": "https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn"
+          "name": "Sam Fischer",
+          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
+        },
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
         }
       ],
-      "duration_ms": 242530,
-      "name": "Long Haul - Stripped",
-      "url": "https://open.spotify.com/track/4SvNxGE5IEzBsYD9x3lEhG"
+      "duration_ms": 194837,
+      "name": "This City Remix (feat. Kane Brown)",
+      "url": "https://open.spotify.com/track/3GPvHSNPWlzDu5rLu4PztC"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -715,18 +715,18 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/72JX0b36iIgjSHlhCSLHOv"
+        "name": "Two Story House",
+        "url": "https://open.spotify.com/album/2P2FI57iewRlqpOy6bhPFQ"
       },
       "artists": [
         {
-          "name": "Devin Dawson",
-          "url": "https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu"
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
         }
       ],
-      "duration_ms": 211662,
-      "name": "All On Me - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/7aq3BKKrM3luFfBuZso3U1"
+      "duration_ms": 199986,
+      "name": "Two Story House",
+      "url": "https://open.spotify.com/track/1OfA15M48QXwN2n92m7qE2"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -763,18 +763,18 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Two Story House",
-        "url": "https://open.spotify.com/album/2P2FI57iewRlqpOy6bhPFQ"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/72JX0b36iIgjSHlhCSLHOv"
       },
       "artists": [
         {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+          "name": "Devin Dawson",
+          "url": "https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu"
         }
       ],
-      "duration_ms": 199986,
-      "name": "Two Story House",
-      "url": "https://open.spotify.com/track/1OfA15M48QXwN2n92m7qE2"
+      "duration_ms": 211662,
+      "name": "All On Me - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/7aq3BKKrM3luFfBuZso3U1"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -815,6 +815,22 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
+        "name": "As You Leave (undone)",
+        "url": "https://open.spotify.com/album/2qbYexAOjAjIg9eySC5jNO"
+      },
+      "artists": [
+        {
+          "name": "Canaan Cox",
+          "url": "https://open.spotify.com/artist/6LcdklijxllKGfl4FWiv3D"
+        }
+      ],
+      "duration_ms": 127500,
+      "name": "As You Leave (undone)",
+      "url": "https://open.spotify.com/track/68hGkMqxX5AfMuO5Y4NL0A"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
         "name": "Little More Be Alright",
         "url": "https://open.spotify.com/album/1PjknGJiyZnoKGTgUQHamM"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 161052,
       "name": "Neon Moon",
       "url": "https://open.spotify.com/track/2MLlSnAU74p2OHT5cNmazH"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "As You Leave (undone)",
-        "url": "https://open.spotify.com/album/2qbYexAOjAjIg9eySC5jNO"
-      },
-      "artists": [
-        {
-          "name": "Canaan Cox",
-          "url": "https://open.spotify.com/artist/6LcdklijxllKGfl4FWiv3D"
-        }
-      ],
-      "duration_ms": 127500,
-      "name": "As You Leave (undone)",
-      "url": "https://open.spotify.com/track/68hGkMqxX5AfMuO5Y4NL0A"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -983,22 +983,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "St. Louis",
-        "url": "https://open.spotify.com/album/5e0JbK04Ky16eiEkULAN7n"
-      },
-      "artists": [
-        {
-          "name": "David Nail",
-          "url": "https://open.spotify.com/artist/4DZGvSv2oMkBUnPz67E6z6"
-        }
-      ],
-      "duration_ms": 274964,
-      "name": "St. Louis",
-      "url": "https://open.spotify.com/track/1sJ3GTTKEThu9LuQ2gUWku"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Another (Wedding Version)",
         "url": "https://open.spotify.com/album/4RTl5pDygFl1McoNT4AkMd"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 162117,
       "name": "Drunk Too",
       "url": "https://open.spotify.com/track/6dFc4ryW27fQaj0DWW1DPo"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "St. Louis",
+        "url": "https://open.spotify.com/album/5e0JbK04Ky16eiEkULAN7n"
+      },
+      "artists": [
+        {
+          "name": "David Nail",
+          "url": "https://open.spotify.com/artist/4DZGvSv2oMkBUnPz67E6z6"
+        }
+      ],
+      "duration_ms": 274964,
+      "name": "St. Louis",
+      "url": "https://open.spotify.com/track/1sJ3GTTKEThu9LuQ2gUWku"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "I Wish",
-        "url": "https://open.spotify.com/album/5bD9iZ8X5SoXJDZfVy3gXn"
-      },
-      "artists": [
-        {
-          "name": "Leah Marie Mason",
-          "url": "https://open.spotify.com/artist/0fubiYogCTeBykbgV7HGf6"
-        }
-      ],
-      "duration_ms": 207272,
-      "name": "I Wish",
-      "url": "https://open.spotify.com/track/1mG53WSquMx8mz2s6eytXb"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Slow Dance In A Parking Lot (Acoustic)",
         "url": "https://open.spotify.com/album/7JG2UFjGvdHMQ6Zes4lclo"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 178285,
       "name": "Slow Dance In A Parking Lot - Acoustic",
       "url": "https://open.spotify.com/track/2obDcF1vgEom76Mj3UZGxw"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "I Wish",
+        "url": "https://open.spotify.com/album/5bD9iZ8X5SoXJDZfVy3gXn"
+      },
+      "artists": [
+        {
+          "name": "Leah Marie Mason",
+          "url": "https://open.spotify.com/artist/0fubiYogCTeBykbgV7HGf6"
+        }
+      ],
+      "duration_ms": 207272,
+      "name": "I Wish",
+      "url": "https://open.spotify.com/track/1mG53WSquMx8mz2s6eytXb"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Austin (Acoustic)",
-        "url": "https://open.spotify.com/album/4NzUmm4MlZpmSCwKb0bKls"
-      },
-      "artists": [
-        {
-          "name": "Blake Shelton",
-          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
-        }
-      ],
-      "duration_ms": 226179,
-      "name": "Austin - Acoustic",
-      "url": "https://open.spotify.com/track/4jSnQyYyO0OV0VQXx2x46N"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Secret (Gravel Drive Sounds)",
         "url": "https://open.spotify.com/album/2ZUh3hF6Q1jX3PEgWhqZqG"
       },
@@ -1271,6 +1255,38 @@
       "duration_ms": 225240,
       "name": "Secret - Gravel Drive Sounds",
       "url": "https://open.spotify.com/track/0LKQRiJgwtxYNNnlB4djQp"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Buy Dirt",
+        "url": "https://open.spotify.com/album/3T9Iw4QrkSpiJnqN0ZpNTd"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 170755,
+      "name": "Buy Dirt - Alternate Version",
+      "url": "https://open.spotify.com/track/6dYs20Vw8S9pzf8gR7BN0c"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Austin (Acoustic)",
+        "url": "https://open.spotify.com/album/4NzUmm4MlZpmSCwKb0bKls"
+      },
+      "artists": [
+        {
+          "name": "Blake Shelton",
+          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+        }
+      ],
+      "duration_ms": 226179,
+      "name": "Austin - Acoustic",
+      "url": "https://open.spotify.com/track/4jSnQyYyO0OV0VQXx2x46N"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1343,22 +1359,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Buy Dirt",
-        "url": "https://open.spotify.com/album/3T9Iw4QrkSpiJnqN0ZpNTd"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 170755,
-      "name": "Buy Dirt - Alternate Version",
-      "url": "https://open.spotify.com/track/6dYs20Vw8S9pzf8gR7BN0c"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "I Wanna Remember (feat. Carrie Underwood) [Acoustic]",
         "url": "https://open.spotify.com/album/11r0mt27sHJJi8RVhH4Urn"
       },
@@ -1411,38 +1411,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "First Goodbye",
-        "url": "https://open.spotify.com/album/1TGvUDIdFBHxTIuVwO4s4p"
-      },
-      "artists": [
-        {
-          "name": "Georgia Webster",
-          "url": "https://open.spotify.com/artist/0SBVbPO2gePQlaDiIfaKDl"
-        }
-      ],
-      "duration_ms": 232706,
-      "name": "First Goodbye",
-      "url": "https://open.spotify.com/track/61x7KwsjSYc5dXFhJ23sS6"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "Whiskey And Rain (Acoustic)",
-        "url": "https://open.spotify.com/album/7AA4SUS9xQx6f4mCxuWWoa"
-      },
-      "artists": [
-        {
-          "name": "Michael Ray",
-          "url": "https://open.spotify.com/artist/6ghiFYcwn2Vzl6K50U0UPz"
-        }
-      ],
-      "duration_ms": 207967,
-      "name": "Whiskey And Rain - Acoustic",
-      "url": "https://open.spotify.com/track/4hpWtPnZHX9xfb1fr8cVVw"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "What If I Never Get Over You (Piano Version)",
         "url": "https://open.spotify.com/album/11bmQ3T03JQ2aTfY62MPib"
       },
@@ -1459,6 +1427,22 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
+        "name": "First Goodbye",
+        "url": "https://open.spotify.com/album/1TGvUDIdFBHxTIuVwO4s4p"
+      },
+      "artists": [
+        {
+          "name": "Georgia Webster",
+          "url": "https://open.spotify.com/artist/0SBVbPO2gePQlaDiIfaKDl"
+        }
+      ],
+      "duration_ms": 232706,
+      "name": "First Goodbye",
+      "url": "https://open.spotify.com/track/61x7KwsjSYc5dXFhJ23sS6"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
         "name": "Almost Maybes (Acoustic)",
         "url": "https://open.spotify.com/album/2tT0KYZ5ZO0meRleXxrwoW"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 179907,
       "name": "Almost Maybes - Acoustic",
       "url": "https://open.spotify.com/track/4ZYpv3IMjQd6Hoi3xMKRPC"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Whiskey And Rain (Acoustic)",
+        "url": "https://open.spotify.com/album/7AA4SUS9xQx6f4mCxuWWoa"
+      },
+      "artists": [
+        {
+          "name": "Michael Ray",
+          "url": "https://open.spotify.com/artist/6ghiFYcwn2Vzl6K50U0UPz"
+        }
+      ],
+      "duration_ms": 207967,
+      "name": "Whiskey And Rain - Acoustic",
+      "url": "https://open.spotify.com/track/4hpWtPnZHX9xfb1fr8cVVw"
     },
     {
       "added_at": "2022-09-16 04:00:00",

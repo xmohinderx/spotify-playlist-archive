@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZvY2t6fRcn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3HvY4N6ad1ASmFufm8XCPV">Trey Campbell</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 366 likes - 86 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 365 likes - 86 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZvY2t6fRcn.md) - [plain]
 | 85 | [FUCKING MURDER](https://open.spotify.com/track/5seDFLG0mfC2PT2x27xauZ) | [Caroline Vreeland](https://open.spotify.com/artist/5P1LyOIFc1fg1w1Dssiezw) | ['LIKE A WOMAN, LIKE A DRUNKARD, LIKE AN ANIMAL'](https://open.spotify.com/album/5u9NVAXUZsT7wl5Vqj3gmv) | 9:19 |
 | 86 | [Down Daddy](https://open.spotify.com/track/1Tg5ZNgyRJFVFXcQBaSyMS) | [Chloe Angelides](https://open.spotify.com/artist/79A4RmgwxYGIDkqQDUHLXK) | [Friends Who Failed At Love](https://open.spotify.com/album/0cGYe4MX209Hbi0aoebED6) | 3:40 |
 
-Snapshot ID: `Mjc3MzAxNTIsMDAwMDAwMDA0ZWU2NTVkYjBiM2ZlMzBkOTU1ZjQ0YWJlNzU0OTUxMA==`
+Snapshot ID: `Mjc3MzE2NTIsMDAwMDAwMDBlNjIyYzY1ZjM3MTQxY2ZjMDBlOWM5ZTVkYzAxZGU2Yg==`

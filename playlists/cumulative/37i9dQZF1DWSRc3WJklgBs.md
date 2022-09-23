@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance music</a> for the heart <3
 
-1,002 songs - 2 day 11 hr 17 min - [published](https://open.spotify.com/playlist/1X8NDOgNVf1JiUkXM1Dr6p)
+1,003 songs - 2 day 11 hr 21 min - [published](https://open.spotify.com/playlist/1X8NDOgNVf1JiUkXM1Dr6p)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -929,7 +929,8 @@
 | [Warehouse](https://open.spotify.com/track/2wER3gVMMIWPusxOjoWlcQ) | [Oliver Smith](https://open.spotify.com/artist/2Npo4Cfm48M2uKlvxiXMic) | [Warehouse](https://open.spotify.com/album/5nMBgawIQbyTWNeQ5HVXxK) | 4:06 | 2020-03-29 | 2021-09-11 |
 | [Waterbed \(feat\. Waterbed\)](https://open.spotify.com/track/5glABIjb1lnJ2zLl3RxQEI) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Waterbed](https://open.spotify.com/artist/41yTdTDoHOK9dG7iupSZx4) | [Bouquet](https://open.spotify.com/album/5uJqpJth89JzqPFt6vEzwF) | 3:29 | 2019-08-09\* | 2019-08-27 |
 | [Watercolor](https://open.spotify.com/track/0lsrtWc4kEYkLs9Nr0xu3s) | [Forester](https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc) | [Watercolor](https://open.spotify.com/album/3DkCczN0suDVGt6TAM9oGi) | 3:45 | 2022-03-18 |  |
-| [Waterfall](https://open.spotify.com/track/72EaWichAXl7tTulGwxCKO) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Waterfall](https://open.spotify.com/album/5lLpdj3vBItlhNW9BxY2TK) | 3:52 | 2022-05-13 |  |
+| [Waterfall](https://open.spotify.com/track/3a1CcF94xavoweGG1GWT0m) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Waterfall](https://open.spotify.com/album/2f1wxCMX4KoS2DwTeagrNO) | 3:52 | 2022-09-16 |  |
+| [Waterfall](https://open.spotify.com/track/72EaWichAXl7tTulGwxCKO) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Waterfall](https://open.spotify.com/album/5lLpdj3vBItlhNW9BxY2TK) | 3:52 | 2022-05-13 | 2022-09-23 |
 | [Waterfalls](https://open.spotify.com/track/03RwdIvdmGXNxaqoT4iopD) | [LVNDSCAPE](https://open.spotify.com/artist/2QlwnS23KrBeshXFyK5U6M), [Holland Park](https://open.spotify.com/artist/65rMJvtegr9sVtUgyAdPBS), [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [Waterfalls](https://open.spotify.com/album/39PZthflmiwcsr2w67NtEh) | 3:26 | 2020-04-22 | 2021-09-02 |
 | [Way Back Home](https://open.spotify.com/track/6GWRcf3yBx3Y7pSScXoxGk) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Anna Grey](https://open.spotify.com/artist/5SFwozJTdBZNUFYYrAqH4q) | [Way Back Home](https://open.spotify.com/album/0uzdr4Q8ftYWdrAeej6M5F) | 2:55 | 2021-09-11 | 2022-05-14 |
 | [Way That I Do](https://open.spotify.com/track/1SlbKGl5Evbifvn0omh6r7) | [Ookay](https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t) | [Way That I Do](https://open.spotify.com/album/0R4yvFZBJgGskBvJUtf7hv) | 3:05 | 2022-01-07 |  |

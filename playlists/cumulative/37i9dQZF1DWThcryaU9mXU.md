@@ -4,7 +4,7 @@
 
 > When you want to be alone and the Blues is your soundtrack.
 
-76 songs - 5 hr 45 min - [published](https://open.spotify.com/playlist/7aLejfa10LatvlE9q0LFcJ)
+77 songs - 5 hr 48 min - [published](https://open.spotify.com/playlist/7aLejfa10LatvlE9q0LFcJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,12 +60,13 @@
 | [Ooh Baby](https://open.spotify.com/track/3Caj3EuBDu2cpjpFNNTXLL) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq) | [His Best](https://open.spotify.com/album/1ZpGSzyrRcrp6tn8IczHDU) | 3:49 | 2022-05-13 |  |
 | [Reconsider Baby](https://open.spotify.com/track/46tOHo9SThlggrU2MiijEC) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Had to Cry Today](https://open.spotify.com/album/4NS1YYttwG5mtWQCdpbvjV) | 6:51 | 2022-05-13 |  |
 | [Same Old Blues](https://open.spotify.com/track/1J5kvLHbuFrcYlQDxrujYr) | [Peter Frampton Band](https://open.spotify.com/artist/0JvNeHGFrPqynXe5EszItO) | [All Blues](https://open.spotify.com/album/1WXRu9aB8wHIwjLqA2DnBu) | 4:34 | 2022-05-13 |  |
-| [Sanctified, Holy And Hateful](https://open.spotify.com/track/2M3KYbPJPfKOCWN75MZZXa) | [Nick Moss Band](https://open.spotify.com/artist/6B3fdJhhhAVJ4RTrFAptMM), [Dennis Gruenling](https://open.spotify.com/artist/56M0TPfeix1WjBuylxkVeG) | [Lucky Guy!](https://open.spotify.com/album/5tWeZuFba1X0sJPBnj2oW3) | 5:29 | 2022-05-13 |  |
+| [Sanctified, Holy And Hateful](https://open.spotify.com/track/2M3KYbPJPfKOCWN75MZZXa) | [Nick Moss Band](https://open.spotify.com/artist/6B3fdJhhhAVJ4RTrFAptMM), [Dennis Gruenling](https://open.spotify.com/artist/56M0TPfeix1WjBuylxkVeG) | [Lucky Guy!](https://open.spotify.com/album/5tWeZuFba1X0sJPBnj2oW3) | 5:29 | 2022-05-13 | 2022-09-23 |
 | [She's Gone](https://open.spotify.com/track/0nsNwksjh20u7q6oQnZm5m) | [Hound Dog Taylor](https://open.spotify.com/artist/737qPoiQQkeuIzuJy54aK4) | [Hound Dog Taylor & The Houserockers](https://open.spotify.com/album/3whc6JMkDLZMngoWFIMJYV) | 3:51 | 2022-05-13 |  |
 | [Ships On The Ocean](https://open.spotify.com/track/28fsOjMzmiw6iphB2ty19x) | [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK), [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Hoodoo Man Blues](https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4) | 4:09 | 2022-07-08 |  |
 | [Ships on the Ocean](https://open.spotify.com/track/5qZkTvK2yktEtZ1BxJeGCr) | [Junior Wells' Chicago Blues Band](https://open.spotify.com/artist/3qhyjnRYQ1YprGjhvGQ8GP) | [Hoodoo Man Blues](https://open.spotify.com/album/3TBecWtWPePxMvoqNAEuDt) | 4:07 | 2022-05-27 | 2022-07-24 |
 | [Slow Burning Love](https://open.spotify.com/track/2JkHY8iEaClOCBneUNuD0a) | [Oscar LaDell](https://open.spotify.com/artist/08WZ8sVJKWdmh8VXtZEoOB), [Chris Armour](https://open.spotify.com/artist/7k8iEjzcT7rKcOBA5MPE7r) | [Slow Burning Love](https://open.spotify.com/album/2Zwtl70eaowopCHRsvuEa0) | 3:11 | 2022-05-13 | 2022-07-29 |
 | [Someone Broke This Heart of Mine](https://open.spotify.com/track/1nAib0m89PRTuvauNATdOU) | [Junior Parker](https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u) | [Pretty Baby](https://open.spotify.com/album/1ck7nHDnXEfVJI1ee0IkuZ) | 2:15 | 2022-05-13 | 2022-07-28 |
+| [Someone Broke This Heart Of Mine](https://open.spotify.com/track/1TX9nidaWJmR3KyHxrSz8h) | [Little Junior Parker](https://open.spotify.com/artist/5AZroUSVLr1sdkgCAfv1kM) | [Driving Wheel](https://open.spotify.com/album/5RqYLf8ScgXBcrNRWoyQrP) | 2:14 | 2022-08-19 |  |
 | [Souled Out On You](https://open.spotify.com/track/7ITdt0me2VEjKchX3iPzKp) | [Robert Finley](https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv) | [Sharecropper's Son](https://open.spotify.com/album/0GrKDFuaqGOhs54O8Zerqf) | 3:33 | 2022-05-27 |  |
 | [Still Here](https://open.spotify.com/track/48EXlenGFwcnZWdh6AqUW4) | [Ben Levin](https://open.spotify.com/artist/7JPxlItTC9DxZ7YwAOwLci) | [Still Here](https://open.spotify.com/album/5KhHtOUptVZINgVHuyIgDD) | 4:10 | 2022-05-13 | 2022-07-29 |
 | [Sufferin' With The Blues](https://open.spotify.com/track/780aR01ClCSK7X6DQlyT60) | [Irma Thomas](https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv) | [Wish Someone Would Care](https://open.spotify.com/album/2nnXcAt9Yke9sHwKtfcJlY) | 2:20 | 2022-05-27 | 2022-07-12 |

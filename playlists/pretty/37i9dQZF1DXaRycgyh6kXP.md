@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRycgyh6kXP.md) - [plain]
 
 > Delicate digital expressions of the heart.
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,420 likes - 100 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,560 likes - 100 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRycgyh6kXP.md) - [plain]
 | 58 | [Silver Moon Over Sleeping Steeples](https://open.spotify.com/track/7h7wT4LgpdWMuR2t3kmQAI) | [David Sylvian](https://open.spotify.com/artist/2oyWkw7sq99yqj12hVUHtw) | [Gone To Earth \(Remastered 2003\)](https://open.spotify.com/album/3CRipGCmcoBTKdadiYIMOc) | 2:21 |
 | 59 | [Stay With Us](https://open.spotify.com/track/3Opk9C8pMgBCmbqXelH0I5) | [Seoul](https://open.spotify.com/artist/3e69LorE0YSsEaYY6x9XuG) | [I Become A Shade](https://open.spotify.com/album/1zP69up0zPq8SsIx4lvCkg) | 3:57 |
 | 60 | [Before I Move Off](https://open.spotify.com/track/6rcBB3zLdFn6RjEzienOdm) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl) | [Crooks & Lovers](https://open.spotify.com/album/22shOa6UBod9o1HHe0JPmr) | 4:10 |
-| 61 | [Half Hour Verve](https://open.spotify.com/track/6YdpCujgKQpiFWtmin0E6k) | [Harvey Causon](https://open.spotify.com/artist/7CfGxgCfRwumbKatrTjC4d) | [Fourth Wall](https://open.spotify.com/album/6f5i8vNHXp944iy5UPvSI7) | 4:05 |
-| 62 | [Stratus](https://open.spotify.com/track/0DuKfzPUyHNS92DuruNqpK) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH) | [EARS](https://open.spotify.com/album/4TRKhrBtgzRO8XcoKbj4DZ) | 3:04 |
+| 61 | [Stratus](https://open.spotify.com/track/0DuKfzPUyHNS92DuruNqpK) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH) | [EARS](https://open.spotify.com/album/4TRKhrBtgzRO8XcoKbj4DZ) | 3:04 |
+| 62 | [Half Hour Verve](https://open.spotify.com/track/6YdpCujgKQpiFWtmin0E6k) | [Harvey Causon](https://open.spotify.com/artist/7CfGxgCfRwumbKatrTjC4d) | [Fourth Wall](https://open.spotify.com/album/6f5i8vNHXp944iy5UPvSI7) | 4:05 |
 | 63 | [Appeayl 2 U part 1](https://open.spotify.com/track/3hOT2KhpXP3OCXoAPlqA75) | [Gayngs](https://open.spotify.com/artist/3OUN7gnsDijEfvaHpXAAzI) | [Appeayl 2 U](https://open.spotify.com/album/08wTaIdQqR22MDT8iEaU2U) | 3:56 |
 | 64 | [At Height](https://open.spotify.com/track/6LxPmMmwY76D4XPCvZnQR3) | [Inwards](https://open.spotify.com/artist/542nHHjo4wRmP3AbeJWkse) | [Bright Serpent](https://open.spotify.com/album/5qi4aoHpcDfsoTbVsjPXwI) | 3:52 |
 | 65 | [runnersz](https://open.spotify.com/track/33ZGlpwOQ5Wc2u6n8Lq3iZ) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg) | [still slipping vol\. 1](https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA) | 2:20 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRycgyh6kXP.md) - [plain]
 | 99 | [Passing By \- 2019 remaster](https://open.spotify.com/track/4QF7VCyGrqOPpJNQc9yNWA) | [Ulrich Schnauss](https://open.spotify.com/artist/4znPt0HV6Ik0iR8sR4GAJE) | [Far Away Trains Passing By](https://open.spotify.com/album/24WjU9DTi8CA3wGa4G8gWZ) | 6:37 |
 | 100 | [Four Horsemen](https://open.spotify.com/track/3SDNkBLjb5w8jaNGnojGCc) | [Jacober](https://open.spotify.com/artist/5qqAJRq2z4M9IOULr4JtQu) | [Sketch for Winter X: Immortal Word](https://open.spotify.com/album/0wQCNrQIkv6vD7sRfiDylv) | 3:12 |
 
-Snapshot ID: `MTY0Mzg1NjIwNiwwMDAwMDAwMGE2ZWIyNDFmNzZhNzJkNDk4ZjgyNGM2ODM5MTI4OGI2`
+Snapshot ID: `MTY0Mzg1NjIwNiwwMDAwMDAwMDdkMWMwYmY5MTRiZTNjNTBjYWJiY2EzM2I0NWZmM2Jm`

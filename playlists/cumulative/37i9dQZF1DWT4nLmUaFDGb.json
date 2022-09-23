@@ -1551,7 +1551,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 283693,
       "name": "I've Got A Crush On You",
       "url": "https://open.spotify.com/track/2ujJJsaTQ78ReHWY9Nnwh1"
@@ -2857,6 +2857,28 @@
       "duration_ms": 272990,
       "name": "Sunset In The Blue",
       "url": "https://open.spotify.com/track/3fkoZm1DZEfsyAx1Z87bKR"
+    },
+    {
+      "album": {
+        "name": "Suzanne",
+        "url": "https://open.spotify.com/album/6ZzCxDsaWHAK4kKcjep4iQ"
+      },
+      "artists": [
+        {
+          "name": "Here It Is",
+          "url": "https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw"
+        },
+        {
+          "name": "Gregory Porter",
+          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273626,
+      "name": "Suzanne (feat. Gregory Porter)",
+      "url": "https://open.spotify.com/track/2IYWqinJpFhid2qRqnqPDA"
     },
     {
       "album": {

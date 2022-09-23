@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7XSlwvR1ar.md) - [plain]
 
 > Don't stress out\. Stay relaxed with these easy, upbeat songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,960,039 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,960,294 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,22 +57,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7XSlwvR1ar.md) - [plain]
 | 47 | [You And I](https://open.spotify.com/track/7aohwSiTDju51QmC54AUba) | [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0) | [Be OK](https://open.spotify.com/album/26OZ2w8TlwMUmA0GMpQL1U) | 2:28 |
 | 48 | [Gloria](https://open.spotify.com/track/5BkGp7FLUUpKgWl29jBK0J) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [III](https://open.spotify.com/album/0cGGGHvqwMD2J7bNz8TG3s) | 3:36 |
 | 49 | [Trick To Happy](https://open.spotify.com/track/4lrkAUjZqFCofSF4QplDYd) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Sad Hunk](https://open.spotify.com/album/0vWNWn7PcEotOycEtBC7br) | 3:24 |
-| 50 | [Surefire](https://open.spotify.com/track/6iWvETAILWAYOdm2DioSEF) | [Wilderado](https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI) | [Wilderado](https://open.spotify.com/album/27PS3oqiVzOqqAT04Ku6at) | 4:01 |
-| 51 | [Fresh Roses](https://open.spotify.com/track/05RmevbSKDvHHKpYBoXYfR) | [Juke Ross](https://open.spotify.com/artist/3mDo5Nv0SWpslJe9HzA2xY) | [Fresh Roses](https://open.spotify.com/album/6DUbcDDJa547U0KvgjCthp) | 3:21 |
+| 50 | [Fresh Roses](https://open.spotify.com/track/05RmevbSKDvHHKpYBoXYfR) | [Juke Ross](https://open.spotify.com/artist/3mDo5Nv0SWpslJe9HzA2xY) | [Fresh Roses](https://open.spotify.com/album/6DUbcDDJa547U0KvgjCthp) | 3:21 |
+| 51 | [Surefire](https://open.spotify.com/track/6iWvETAILWAYOdm2DioSEF) | [Wilderado](https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI) | [Wilderado](https://open.spotify.com/album/27PS3oqiVzOqqAT04Ku6at) | 4:01 |
 | 52 | [Ready or Not \(feat\. Sierra Ferrell\)](https://open.spotify.com/track/2NAOqvZIf7onZ4kDLU560I) | [Shakey Graves](https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Ready or Not \(feat\. Sierra Ferrell\)](https://open.spotify.com/album/5JcW9l6CD3JJbn7DbJrrkh) | 3:12 |
 | 53 | [All We Ever Knew](https://open.spotify.com/track/72zmwnbXjx9fMUjw3mbDSs) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Signs of Light](https://open.spotify.com/album/0EFitK3T7hqin7iGMbpltM) | 3:45 |
 | 54 | [You Were](https://open.spotify.com/track/0TsWu7ZYypXsIEIPwl6BOi) | [Field Guide](https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz) | [You Were](https://open.spotify.com/album/6wnBVRrp4xGypc2UjRUcRg) | 3:13 |
 | 55 | [Heart](https://open.spotify.com/track/5L7IgwUPhir2FJftGNXJDW) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [Mary \(b\-sides\)](https://open.spotify.com/album/15RYnRTIMHrCB6X3HjK2mC) | 3:39 |
 | 56 | [Naked as We Came](https://open.spotify.com/track/6UIxGIqWlO5wsddY44AV1R) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Our Endless Numbered Days \(Deluxe Edition\)](https://open.spotify.com/album/169vCBCFaW2na816P8Ir7m) | 2:32 |
 | 57 | [Dark Days](https://open.spotify.com/track/7LZN7FkxHZk6maiN6NdI2i) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Sunlit Youth](https://open.spotify.com/album/2qiPY1CqHGexT4yWrQ5uX0) | 3:00 |
-| 58 | [No Sleep](https://open.spotify.com/track/2pfAvgMoHLfialvMYn337d) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [By and By](https://open.spotify.com/album/4Ib3LE6FimfhNVnY7Tc1zM) | 3:57 |
-| 59 | [Green Mountain State](https://open.spotify.com/track/0c7iF5fSBYxCuwsAv2z4iI) | [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8) | [Chapter Of The Forest](https://open.spotify.com/album/0Tt5WHP4RdkQemDgD1QItP) | 4:34 |
-| 60 | [Empress](https://open.spotify.com/track/4xWqRo8GPwMQ02LjiaX4D8) | [Morningsiders](https://open.spotify.com/artist/5hPR4Atp3QY2ztiAcz1inl) | [A Little Lift](https://open.spotify.com/album/3roe3TTl1o2p9sZZ9HdeX2) | 3:19 |
+| 58 | [Believe](https://open.spotify.com/track/0QFGZqqB1KDpOtyL3vXMXo) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Believe](https://open.spotify.com/album/0WOkJaVLYAGfbuBvcKCTCo) | 3:15 |
+| 59 | [Empress](https://open.spotify.com/track/4xWqRo8GPwMQ02LjiaX4D8) | [Morningsiders](https://open.spotify.com/artist/5hPR4Atp3QY2ztiAcz1inl) | [A Little Lift](https://open.spotify.com/album/3roe3TTl1o2p9sZZ9HdeX2) | 3:19 |
+| 60 | [Green Mountain State](https://open.spotify.com/track/0c7iF5fSBYxCuwsAv2z4iI) | [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8) | [Chapter Of The Forest](https://open.spotify.com/album/0Tt5WHP4RdkQemDgD1QItP) | 4:34 |
 | 61 | [Eloise](https://open.spotify.com/track/3XnDbrxxtA40HPIIRWLgRT) | [Penny and Sparrow](https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur) | [Finch](https://open.spotify.com/album/0ixOUcKraH7Y3tIV1MGoRo) | 2:48 |
 | 62 | [McKenzie](https://open.spotify.com/track/6FLkXWDTvUc36qYYRhm4jg) | [Houndmouth](https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5) | [Good For You](https://open.spotify.com/album/7pDkPWgwrc2weqXdL0ID6m) | 3:14 |
 | 63 | [In Your Hands \- Single Version](https://open.spotify.com/track/7tJHvRoGvkckZkZk5ORUot) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [In Your Hands](https://open.spotify.com/album/0tZj37rUrevqNsoI4N0iEA) | 3:50 |
 | 64 | [Take Some Time](https://open.spotify.com/track/7sgecWk9KRFYXk7lokoF4z) | [Wilderado](https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI) | [Wilderado](https://open.spotify.com/album/27PS3oqiVzOqqAT04Ku6at) | 3:30 |
-| 65 | [Believe](https://open.spotify.com/track/0QFGZqqB1KDpOtyL3vXMXo) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Believe](https://open.spotify.com/album/0WOkJaVLYAGfbuBvcKCTCo) | 3:15 |
+| 65 | [No Sleep](https://open.spotify.com/track/2pfAvgMoHLfialvMYn337d) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [By and By](https://open.spotify.com/album/4Ib3LE6FimfhNVnY7Tc1zM) | 3:57 |
 | 66 | [Be OK](https://open.spotify.com/track/4I8Nhe8qN9xgR8tosYQ5ut) | [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0) | [Be OK](https://open.spotify.com/album/26OZ2w8TlwMUmA0GMpQL1U) | 2:28 |
 | 67 | [Kick It to Me](https://open.spotify.com/track/6QZbDUZEgkwaVWROtWzjQ0) | [Sammy Rae & The Friends](https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn) | [The Good Life](https://open.spotify.com/album/4s1igjt5YJe7s7BdCeX3DX) | 6:27 |
 | 68 | [That Was Yesterday](https://open.spotify.com/track/3gwfEBrFpzEFCZMjw7mqxA) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [That Was Yesterday](https://open.spotify.com/album/2GYGaipOwfLGveAF3ta6Iv) | 3:50 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7XSlwvR1ar.md) - [plain]
 | 74 | [Circles Around This Town](https://open.spotify.com/track/08TCIO6LpgC11UdayeOxWB) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Humble Quest](https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw) | 3:15 |
 | 75 | [Mockingbird](https://open.spotify.com/track/6fS1CEMY4LlvQNWuUMoWEQ) | [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I) | [Dying Star](https://open.spotify.com/album/0HglC8wDUKL0VV5KI31bqU) | 4:37 |
 | 76 | [Down in the Valley](https://open.spotify.com/track/7B2yGUDt0aHGP0YuP4c2iG) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head And The Heart](https://open.spotify.com/album/0HOYbncHll4TcojWXrfYfV) | 5:03 |
-| 77 | [Something Tells Me](https://open.spotify.com/track/6yWn9RKfL1il1b4hFe6H1i) | [BAILEN](https://open.spotify.com/artist/3sYoUB7tAeXO7sOAB8eaII) | [Thrilled To Be Here](https://open.spotify.com/album/03tlaFyvYYWHr16yGL01qZ) | 4:01 |
-| 78 | [Tom Barrett](https://open.spotify.com/track/6YbQXUNroKs9qofA8gttor) | [Ian Noe](https://open.spotify.com/artist/2TEpPi5SFalflhpcQHq3lB) | [River Fools & Mountain Saints](https://open.spotify.com/album/6OsF7JfA48kcvWcV4auWIl) | 3:13 |
+| 77 | [Tom Barrett](https://open.spotify.com/track/6YbQXUNroKs9qofA8gttor) | [Ian Noe](https://open.spotify.com/artist/2TEpPi5SFalflhpcQHq3lB) | [River Fools & Mountain Saints](https://open.spotify.com/album/6OsF7JfA48kcvWcV4auWIl) | 3:13 |
+| 78 | [Something Tells Me](https://open.spotify.com/track/6yWn9RKfL1il1b4hFe6H1i) | [BAILEN](https://open.spotify.com/artist/3sYoUB7tAeXO7sOAB8eaII) | [Thrilled To Be Here](https://open.spotify.com/album/03tlaFyvYYWHr16yGL01qZ) | 4:01 |
 | 79 | [My God Has A Telephone](https://open.spotify.com/track/0vOHWx4itwA0pQeWromAAx) | [The Flying Stars Of Brooklyn NY](https://open.spotify.com/artist/1Q33Sd9px79c7lWMbQXwxm), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [My God Has a Telephone](https://open.spotify.com/album/6A6ktPfg9TWvgNmk87FUmk) | 2:55 |
 | 80 | [Nick Of Time](https://open.spotify.com/track/1SdkSIyVEBu8o9ZsJnTJqO) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Nick Of Time](https://open.spotify.com/album/4SArFlFDyqFOzmlNFS5fDX) | 4:10 |
 | 81 | [Furr](https://open.spotify.com/track/2fgbsGWU2Dum08uifQHhiB) | [Blitzen Trapper](https://open.spotify.com/artist/72XY3HrDdFfZXNZFCT9Zh1) | [Furr](https://open.spotify.com/album/2DyjbFqAX5Yxoh3EFMMXh7) | 4:07 |
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7XSlwvR1ar.md) - [plain]
 | 84 | [I Got You](https://open.spotify.com/track/2yOJBslB31F2WMHM3s1FRN) | [Michael Franti & Spearhead](https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB) | [Work Hard and Be Nice](https://open.spotify.com/album/7hvm1xQnsTkIrcHYHGA5mR) | 3:36 |
 | 85 | [Hey Julia](https://open.spotify.com/track/4ITcbrMbYwD3kuIG304nxO) | [The 502s](https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX) | [Hey Julia](https://open.spotify.com/album/161llzgJp98MoWom3IJOJp) | 1:59 |
 | 86 | [Worry No More](https://open.spotify.com/track/6Sf1IjXhbfTIYOHhaj5DG0) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Worry No More](https://open.spotify.com/album/3TS9LGoHqv0vyvIy2Lg6aL) | 3:41 |
-| 87 | [Not Dead Yet](https://open.spotify.com/track/5NRbNXwXHM9mYgxMhzVWTP) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Not Dead Yet](https://open.spotify.com/album/044x9ycjGCrCHA6TcjaK8w) | 2:57 |
-| 88 | [Keep 'Em on They Toes](https://open.spotify.com/track/0f388trqcZyqGbPJUqGWpx) | [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz) | [Keep 'Em on They Toes](https://open.spotify.com/album/0NrDp8wKKFdhyHSMlcHBnD) | 2:43 |
+| 87 | [Keep 'Em on They Toes](https://open.spotify.com/track/0f388trqcZyqGbPJUqGWpx) | [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz) | [Keep 'Em on They Toes](https://open.spotify.com/album/0NrDp8wKKFdhyHSMlcHBnD) | 2:43 |
+| 88 | [Not Dead Yet](https://open.spotify.com/track/5NRbNXwXHM9mYgxMhzVWTP) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Not Dead Yet](https://open.spotify.com/album/044x9ycjGCrCHA6TcjaK8w) | 2:57 |
 | 89 | [Highroad](https://open.spotify.com/track/64iXPlkVfgkSYRvE0CXij0) | [Sir Woman](https://open.spotify.com/artist/3H03S3ZtyYLdzsk6EYndUL) | [Highroad](https://open.spotify.com/album/70gYt9g5sdmG00ArLq5eIY) | 3:50 |
 | 90 | [Now I'm In It \- Bonus Track](https://open.spotify.com/track/5T8OICEqdqbx8Uz7L5abkH) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Women In Music Pt\. III](https://open.spotify.com/album/396EJBtUzseofX2YCBJVvM) | 3:24 |
 | 91 | [I NEED YOU](https://open.spotify.com/track/0RDUnNaGubiseI1W9T3YTf) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [WE ARE](https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE) | 2:37 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7XSlwvR1ar.md) - [plain]
 | 95 | [sunday](https://open.spotify.com/track/5zYiD0qYctWMiLHGAiEcd3) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness \(the beginnings\)](https://open.spotify.com/album/376qFRUbcROL5XR8jdFzg4) | 3:13 |
 | 96 | [I Want More](https://open.spotify.com/track/4xQRRue5qsu2tULiz7UDKi) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [I Want More / Break My Baby](https://open.spotify.com/album/0zohDZP7J5cZe6cN5jjIaY) | 3:32 |
 | 97 | [The Walk](https://open.spotify.com/track/7tBZa65xUKMMan9tIMPqbi) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [How Do You Do](https://open.spotify.com/album/2AsTehQMH82xr6phI9c42V) | 3:38 |
-| 98 | [When They Fight, They Fight](https://open.spotify.com/track/0zqmyB1prgGGiOS10sjH8A) | [Generationals](https://open.spotify.com/artist/57MtJQ6Sc4tIxrXIhrqVJL) | [Con Law](https://open.spotify.com/album/6JoADrFrfs62hhWAMzSA8A) | 3:20 |
-| 99 | [BRIGHTSIDE](https://open.spotify.com/track/1TX0ImiGMYiikRash29a2b) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [BRIGHTSIDE](https://open.spotify.com/album/35oJ7lIOHpQtRxr4QiCK5j) | 3:49 |
+| 98 | [BRIGHTSIDE](https://open.spotify.com/track/1TX0ImiGMYiikRash29a2b) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [BRIGHTSIDE](https://open.spotify.com/album/35oJ7lIOHpQtRxr4QiCK5j) | 3:49 |
+| 99 | [When They Fight, They Fight](https://open.spotify.com/track/0zqmyB1prgGGiOS10sjH8A) | [Generationals](https://open.spotify.com/artist/57MtJQ6Sc4tIxrXIhrqVJL) | [Con Law](https://open.spotify.com/album/6JoADrFrfs62hhWAMzSA8A) | 3:20 |
 | 100 | [Steady Love](https://open.spotify.com/track/6UOkF086zUgYXnqFxqUvEI) | [Ben Rector](https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI) | [The Joy of Music](https://open.spotify.com/album/1l4VD485oDSJM23eWJEWJN) | 3:44 |
 
-Snapshot ID: `MTY2MzMwMDg2MCwwMDAwMDAwMDM4ZDkzYmNiNTQxMzIwYmY3Y2U1YTk1MTRlZWU4NzFk`
+Snapshot ID: `MTY2MzMwMDg2MCwwMDAwMDAwMDNmM2VkNzZhN2MwNzk2MjU2NGM1YzNjZjA1YjZhZWRm`

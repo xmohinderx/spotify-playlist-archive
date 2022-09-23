@@ -4,7 +4,7 @@
 
 > Lo mejor del hip hop español\. Foto: Natos y Waor
 
-157 songs - 8 hr 46 min - [published](https://open.spotify.com/playlist/6HU8sOAPcOoaf1vF1QQHTH)
+159 songs - 8 hr 51 min - [published](https://open.spotify.com/playlist/6HU8sOAPcOoaf1vF1QQHTH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Freestyle Session \#13](https://open.spotify.com/track/2yGN0LzE0AL7Ev9chjp9Nh) | [ZARAMAY](https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff), [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw) | [Freestyle Session \#13](https://open.spotify.com/album/1erD5sfzkSeBKykn8baBla) | 5:39 | 2022-01-21 |  |
 | [Fuera Llueve](https://open.spotify.com/track/2GYMoCoeu4ereNA8HF57Ct) | [Kaze](https://open.spotify.com/artist/2X11x8C63wCzAf1WwsIuLg) | [Recopilatorio de Temas Inéditos](https://open.spotify.com/album/1v7aHZf2y6DDXK1nJdvggG) | 3:09 | 2022-07-19 |  |
 | [Fumando Serio](https://open.spotify.com/track/0ECx1tOxvuJi9NYFwYazAl) | [FERNANDOCOSTA](https://open.spotify.com/artist/5dC7EcwWdf9Qj4VvJab4rZ), [Delaossa](https://open.spotify.com/artist/5Uox3n7m4W2CoM9MmHPJwQ) | [Fumando Serio](https://open.spotify.com/album/0e0hTChaBgxDVkGshiEEZ2) | 3:20 | 2022-04-01 |  |
+| [Gracias](https://open.spotify.com/track/5dRiyNQ7VXLgcMAdO9SZQ3) | [Ayax y Prok](https://open.spotify.com/artist/5Ypafuz95Xk09YDf4tgAvU) | [Gracias](https://open.spotify.com/album/6kLl7Ay8GTzOapg3EeaYz7) | 2:21 | 2022-09-22 |  |
 | [Guadalupe](https://open.spotify.com/track/4zKqmhQaO4H4b50EJyxiSa) | [Ayax y Prok](https://open.spotify.com/artist/5Ypafuz95Xk09YDf4tgAvU), [Los del Control](https://open.spotify.com/artist/3Nbij6lwrwz0XB7HubxdN2) | [Juglar del Siglo XXI](https://open.spotify.com/album/7bxbscLnwPLah6i2bZVA9V) | 2:55 | 2022-03-04 | 2022-04-22 |
 | [Guajiro](https://open.spotify.com/track/7mzNtZ87Ha6gc1YZCQfA6c) | [Ayax y Prok](https://open.spotify.com/artist/5Ypafuz95Xk09YDf4tgAvU), [Dollar Selmouni](https://open.spotify.com/artist/2544NCTfffschCn1NZVMSb) | [Guajiro](https://open.spotify.com/album/2xWes52vgOfvY7Q8IKAYv7) | 2:58 | 2022-01-21 |  |
 | [Halo](https://open.spotify.com/track/7411L3K2yn8FsOBU09ONxY) | [Al Safir](https://open.spotify.com/artist/5NzCASNJVvcPW4uGwMRlPl), [Mon](https://open.spotify.com/artist/3HkB3egKNBUqV7kojcri6g) | [Madrid V](https://open.spotify.com/album/63TOo644jy6PwbPeEb3Bsa) | 3:17 | 2022-03-04 | 2022-04-02 |
@@ -110,6 +111,7 @@
 | [No Hay Manera](https://open.spotify.com/track/5Qn3vK8wlpxGTIrCUKVzE2) | [ToteKing](https://open.spotify.com/artist/224rbIjYbXaTI7lnP2ZMNJ), [Foyone](https://open.spotify.com/artist/1F2erLLqRHbaFvEYHeVIHJ), [Sho\-Hai](https://open.spotify.com/artist/1mvAv5jk1OSd3Tyv4aZEjK), [Aerstame](https://open.spotify.com/artist/4L5QHhmkOdVWH91Kz0uLPg) | [No Hay Manera](https://open.spotify.com/album/1eR5vOALWMjXkehzm3tfyj) | 4:51 | 2022-01-21 | 2022-04-22 |
 | [No Me Llores](https://open.spotify.com/track/6cKsGajC4aS32T61nYTf9i) | [Pepe : Vizio](https://open.spotify.com/artist/4rvJ0Ktz2X2Erea9XUHxfu), [Los del Control](https://open.spotify.com/artist/3Nbij6lwrwz0XB7HubxdN2) | [No Me Llores](https://open.spotify.com/album/3I2K1vDwbQsCgBht4t7rDr) | 3:18 | 2022-04-21 | 2022-05-28 |
 | [No Me Renta II](https://open.spotify.com/track/1lGYUNCN2k5CGF4PzpRYt9) | [EZVIT 810](https://open.spotify.com/artist/20taoPw3DvVajnkUySMckx) | [No Me Renta II](https://open.spotify.com/album/7E0iUBWxU11g8xFB7p0iMY) | 2:56 | 2022-01-21 | 2022-09-17 |
+| [No Te Necesito](https://open.spotify.com/track/2WolKw0yREKvDqD3oo9IZs) | [Delaossa](https://open.spotify.com/artist/5Uox3n7m4W2CoM9MmHPJwQ), [Dani Ribba](https://open.spotify.com/artist/6cC67GpmPCjQjOYLpmOGhN), [KIDDO](https://open.spotify.com/artist/3lLDZNIMUmxMzIE6Vz9Agz) | [No Te Necesito](https://open.spotify.com/album/6913O2wIhfi9cQeAy3cibQ) | 3:29 | 2022-09-22 |  |
 | [No temas](https://open.spotify.com/track/4sgi1JD8StfO3LVTVYicpo) | [Luisaker](https://open.spotify.com/artist/6qHDnHoUlA5AhDNg7AHRS9) | [Y ahora qué](https://open.spotify.com/album/0bj2oCZAlxlWquNNHAK7yE) | 4:00 | 2022-06-21 | 2022-08-05 |
 | [Nudos](https://open.spotify.com/track/2nXXsCwR49zSwvOByAR4wU) | [AMBKOR](https://open.spotify.com/artist/5iQNy7hQGe1suvNOQz19Jz) | [Nudos](https://open.spotify.com/album/1CUDHDUTqOAbXH0uFgesjb) | 3:09 | 2022-01-21 | 2022-02-23 |
 | [Ojalá](https://open.spotify.com/track/3lhBtkwoZuzjaykxbQvQzX) | [Anier](https://open.spotify.com/artist/29WHGHkCIlASkOrbKKyvcS), [Miranda](https://open.spotify.com/artist/0DjGDEVSQsodFbL1bMVPRs), [Dualy](https://open.spotify.com/artist/0XwYf0nSP6fpUCMRjnfiwo) | [Ojalá](https://open.spotify.com/album/6nlRFfAm9DE7mKegkODxYN) | 3:55 | 2022-03-16 | 2022-09-17 |

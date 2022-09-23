@@ -1,12 +1,12 @@
 {
   "description": "All things <a href=\"spotify:genre:bass\">bass</a> with What So Not.",
-  "num_followers": 939435,
+  "num_followers": 939481,
   "original_name": "Bass Arcade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMGU5NGI0M2Q0MjNkNjVmYTRiNWU4MTUwYjgxNDYwZDA2",
+  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMGFlYTUxZTcwOGI1MDk3YjAyODkxMDA5ODllOTIwNTQ3",
   "tracks": [
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1031,26 +1031,6 @@
     {
       "added_at": "2022-08-12 10:58:30",
       "album": {
-        "name": "Ur Body",
-        "url": "https://open.spotify.com/album/6xUwGauHFII4qhNBAldvQi"
-      },
-      "artists": [
-        {
-          "name": "Juelz",
-          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
-        },
-        {
-          "name": "Hex Cougar",
-          "url": "https://open.spotify.com/artist/0AlNB0yIoyxdKloLmK9AOR"
-        }
-      ],
-      "duration_ms": 216338,
-      "name": "Ur Body",
-      "url": "https://open.spotify.com/track/4KD6CYSCX2m3rxYdQQuyYP"
-    },
-    {
-      "added_at": "2022-08-12 10:58:30",
-      "album": {
         "name": "Open Your Mind",
         "url": "https://open.spotify.com/album/4coZdNTSApgHapvBDXY1U4"
       },
@@ -1067,6 +1047,26 @@
       "duration_ms": 174246,
       "name": "Open Your Mind",
       "url": "https://open.spotify.com/track/1ztnDy21iJOc5eH7wvbEeV"
+    },
+    {
+      "added_at": "2022-08-12 10:58:30",
+      "album": {
+        "name": "Ur Body",
+        "url": "https://open.spotify.com/album/6xUwGauHFII4qhNBAldvQi"
+      },
+      "artists": [
+        {
+          "name": "Juelz",
+          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
+        },
+        {
+          "name": "Hex Cougar",
+          "url": "https://open.spotify.com/artist/0AlNB0yIoyxdKloLmK9AOR"
+        }
+      ],
+      "duration_ms": 216338,
+      "name": "Ur Body",
+      "url": "https://open.spotify.com/track/4KD6CYSCX2m3rxYdQQuyYP"
     },
     {
       "added_at": "2022-08-12 10:58:30",
@@ -1201,22 +1201,6 @@
       "url": "https://open.spotify.com/track/5tp6gaGhCCWHaqwuXVFuLk"
     },
     {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
-        "name": "Operator",
-        "url": "https://open.spotify.com/album/0cUBXDtEC8xdBkwI1KvxAt"
-      },
-      "artists": [
-        {
-          "name": "G Jones",
-          "url": "https://open.spotify.com/artist/0gXx2aQ2mfovDfqCw10MQC"
-        }
-      ],
-      "duration_ms": 174083,
-      "name": "Operator",
-      "url": "https://open.spotify.com/track/5JVHMRWlqPuqB331dVe5wl"
-    },
-    {
       "added_at": "2022-08-12 10:58:30",
       "album": {
         "name": "RELOAD",
@@ -1257,6 +1241,22 @@
       "url": "https://open.spotify.com/track/3CvIbxdih7XqVgtoRmYMAq"
     },
     {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "Operator",
+        "url": "https://open.spotify.com/album/0cUBXDtEC8xdBkwI1KvxAt"
+      },
+      "artists": [
+        {
+          "name": "G Jones",
+          "url": "https://open.spotify.com/artist/0gXx2aQ2mfovDfqCw10MQC"
+        }
+      ],
+      "duration_ms": 174083,
+      "name": "Operator",
+      "url": "https://open.spotify.com/track/5JVHMRWlqPuqB331dVe5wl"
+    },
+    {
       "added_at": "2022-08-12 10:58:30",
       "album": {
         "name": "See You Again EP",
@@ -1279,30 +1279,6 @@
       "duration_ms": 263200,
       "name": "See You Again",
       "url": "https://open.spotify.com/track/4pXG8Q82L8WvypAm5Wo86y"
-    },
-    {
-      "added_at": "2022-08-12 10:58:30",
-      "album": {
-        "name": "Take You Home (feat. Dia Frampton)",
-        "url": "https://open.spotify.com/album/0YrmV2q7mqsDbcjY0jpH95"
-      },
-      "artists": [
-        {
-          "name": "Jason Ross",
-          "url": "https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150"
-        },
-        {
-          "name": "MitiS",
-          "url": "https://open.spotify.com/artist/16yUpGkBRgc2eDMd3bB3Uw"
-        },
-        {
-          "name": "Dia Frampton",
-          "url": "https://open.spotify.com/artist/3ppkM4QtM781APpaX7H9t7"
-        }
-      ],
-      "duration_ms": 218322,
-      "name": "Take You Home (feat. Dia Frampton)",
-      "url": "https://open.spotify.com/track/7dUeGRu9gaXSjkjKO4I8F3"
     },
     {
       "added_at": "2022-08-12 10:58:30",
@@ -1331,6 +1307,46 @@
     {
       "added_at": "2022-08-12 10:58:30",
       "album": {
+        "name": "Take You Home (feat. Dia Frampton)",
+        "url": "https://open.spotify.com/album/0YrmV2q7mqsDbcjY0jpH95"
+      },
+      "artists": [
+        {
+          "name": "Jason Ross",
+          "url": "https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150"
+        },
+        {
+          "name": "MitiS",
+          "url": "https://open.spotify.com/artist/16yUpGkBRgc2eDMd3bB3Uw"
+        },
+        {
+          "name": "Dia Frampton",
+          "url": "https://open.spotify.com/artist/3ppkM4QtM781APpaX7H9t7"
+        }
+      ],
+      "duration_ms": 218322,
+      "name": "Take You Home (feat. Dia Frampton)",
+      "url": "https://open.spotify.com/track/7dUeGRu9gaXSjkjKO4I8F3"
+    },
+    {
+      "added_at": "2022-08-12 10:58:30",
+      "album": {
+        "name": "Power Stone",
+        "url": "https://open.spotify.com/album/6no9wONT4kamphMKX8DyG0"
+      },
+      "artists": [
+        {
+          "name": "Crankdat",
+          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
+        }
+      ],
+      "duration_ms": 167272,
+      "name": "Power Stone",
+      "url": "https://open.spotify.com/track/5FufznQatRZsjumawlLbbo"
+    },
+    {
+      "added_at": "2022-08-12 10:58:30",
+      "album": {
         "name": "Skyline",
         "url": "https://open.spotify.com/album/0j1JntUGndsVxvXu6DwvRg"
       },
@@ -1351,18 +1367,18 @@
     {
       "added_at": "2022-08-12 10:58:30",
       "album": {
-        "name": "Power Stone",
-        "url": "https://open.spotify.com/album/6no9wONT4kamphMKX8DyG0"
+        "name": "(Never Gonna) Be Alone",
+        "url": "https://open.spotify.com/album/6R9I1SuHSwmZ54XzZY9Gba"
       },
       "artists": [
         {
-          "name": "Crankdat",
-          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
+          "name": "Flux Pavilion",
+          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
         }
       ],
-      "duration_ms": 167272,
-      "name": "Power Stone",
-      "url": "https://open.spotify.com/track/5FufznQatRZsjumawlLbbo"
+      "duration_ms": 198399,
+      "name": "(Never Gonna) Be Alone",
+      "url": "https://open.spotify.com/track/1vTTzqjD4zWJ8ZtVwgr4dK"
     },
     {
       "added_at": "2022-08-12 10:58:30",
@@ -1403,22 +1419,6 @@
       "duration_ms": 245828,
       "name": "See You Go",
       "url": "https://open.spotify.com/track/2ohKWVkLGG9R5FXsg9v3cf"
-    },
-    {
-      "added_at": "2022-08-12 10:58:30",
-      "album": {
-        "name": "(Never Gonna) Be Alone",
-        "url": "https://open.spotify.com/album/6R9I1SuHSwmZ54XzZY9Gba"
-      },
-      "artists": [
-        {
-          "name": "Flux Pavilion",
-          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
-        }
-      ],
-      "duration_ms": 198399,
-      "name": "(Never Gonna) Be Alone",
-      "url": "https://open.spotify.com/track/1vTTzqjD4zWJ8ZtVwgr4dK"
     },
     {
       "added_at": "2022-08-12 10:58:30",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2022-08-12 10:58:30",
       "album": {
-        "name": "Haunted Haus",
-        "url": "https://open.spotify.com/album/3Up7Gze0bGUTVv3XJTqvW5"
-      },
-      "artists": [
-        {
-          "name": "GHASTLY",
-          "url": "https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh"
-        }
-      ],
-      "duration_ms": 201931,
-      "name": "Bullet",
-      "url": "https://open.spotify.com/track/2T0GF8mdSC5wyDzv5Z8DXg"
-    },
-    {
-      "added_at": "2022-08-12 10:58:30",
-      "album": {
         "name": "Eden",
         "url": "https://open.spotify.com/album/4cVCweGWAjAiQXk8ploVGQ"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 176761,
       "name": "Eden",
       "url": "https://open.spotify.com/track/44aRKPTVWjWtxCeGaXYKSF"
+    },
+    {
+      "added_at": "2022-08-12 10:58:30",
+      "album": {
+        "name": "Haunted Haus",
+        "url": "https://open.spotify.com/album/3Up7Gze0bGUTVv3XJTqvW5"
+      },
+      "artists": [
+        {
+          "name": "GHASTLY",
+          "url": "https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh"
+        }
+      ],
+      "duration_ms": 201931,
+      "name": "Bullet",
+      "url": "https://open.spotify.com/track/2T0GF8mdSC5wyDzv5Z8DXg"
     },
     {
       "added_at": "2022-08-12 10:58:30",
@@ -2021,6 +2021,26 @@
       "url": "https://open.spotify.com/track/1ZxXGPR6WgTuUzvvExUomd"
     },
     {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Fallen",
+        "url": "https://open.spotify.com/album/3ywLCMZLSe12Q5Xuc8m1Pj"
+      },
+      "artists": [
+        {
+          "name": "Juelz",
+          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
+        },
+        {
+          "name": "capshun",
+          "url": "https://open.spotify.com/artist/1iHaJ84BqipzAefeXNAsdL"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Fallen",
+      "url": "https://open.spotify.com/track/2ionHuKVoJhnih3TAZ1di9"
+    },
+    {
       "added_at": "2022-08-12 10:58:30",
       "album": {
         "name": "Terrabot",
@@ -2075,22 +2095,6 @@
     {
       "added_at": "2022-08-12 10:58:30",
       "album": {
-        "name": "AWOL",
-        "url": "https://open.spotify.com/album/2h3pi4XeLI0OI5eu3IGaBr"
-      },
-      "artists": [
-        {
-          "name": "Papa Khan",
-          "url": "https://open.spotify.com/artist/7DKYxh9hbhtTdPRSubo2iM"
-        }
-      ],
-      "duration_ms": 215716,
-      "name": "AWOL",
-      "url": "https://open.spotify.com/track/5IrorJJdoV7SBTJIQdVkmT"
-    },
-    {
-      "added_at": "2022-08-12 10:58:30",
-      "album": {
         "name": "Hollow (with DeathbyRomy)",
         "url": "https://open.spotify.com/album/1fRAl9cLzdlHptJkaZdbuw"
       },
@@ -2109,24 +2113,20 @@
       "url": "https://open.spotify.com/track/7pZJtzfLAFB0NxWzLr3f85"
     },
     {
-      "added_at": "2022-09-16 04:00:00",
+      "added_at": "2022-08-12 10:58:30",
       "album": {
-        "name": "Fallen",
-        "url": "https://open.spotify.com/album/3ywLCMZLSe12Q5Xuc8m1Pj"
+        "name": "AWOL",
+        "url": "https://open.spotify.com/album/2h3pi4XeLI0OI5eu3IGaBr"
       },
       "artists": [
         {
-          "name": "Juelz",
-          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
-        },
-        {
-          "name": "capshun",
-          "url": "https://open.spotify.com/artist/1iHaJ84BqipzAefeXNAsdL"
+          "name": "Papa Khan",
+          "url": "https://open.spotify.com/artist/7DKYxh9hbhtTdPRSubo2iM"
         }
       ],
-      "duration_ms": 210000,
-      "name": "Fallen",
-      "url": "https://open.spotify.com/track/2ionHuKVoJhnih3TAZ1di9"
+      "duration_ms": 215716,
+      "name": "AWOL",
+      "url": "https://open.spotify.com/track/5IrorJJdoV7SBTJIQdVkmT"
     },
     {
       "added_at": "2022-08-12 10:58:30",
@@ -2143,6 +2143,26 @@
       "duration_ms": 159622,
       "name": "Eat Your Soul",
       "url": "https://open.spotify.com/track/1vUNgZq9RLRMe3Oiu9wQrz"
+    },
+    {
+      "added_at": "2022-08-12 10:58:30",
+      "album": {
+        "name": "DRMVRSE",
+        "url": "https://open.spotify.com/album/11pjcRObX2pkqo9oczv5Gb"
+      },
+      "artists": [
+        {
+          "name": "NGHTMRE",
+          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+        },
+        {
+          "name": "KLAXX",
+          "url": "https://open.spotify.com/artist/1sg1SPREm84p1TlfjABfnp"
+        }
+      ],
+      "duration_ms": 186373,
+      "name": "The One",
+      "url": "https://open.spotify.com/track/4LfJbl62cw3nr0POfs8Yy5"
     },
     {
       "added_at": "2022-08-12 10:58:30",
@@ -2339,26 +2359,6 @@
       "duration_ms": 189737,
       "name": "On My Mind",
       "url": "https://open.spotify.com/track/5mfwPQqeoP8jzGJCHwM3iF"
-    },
-    {
-      "added_at": "2022-08-12 10:58:30",
-      "album": {
-        "name": "DRMVRSE",
-        "url": "https://open.spotify.com/album/11pjcRObX2pkqo9oczv5Gb"
-      },
-      "artists": [
-        {
-          "name": "NGHTMRE",
-          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
-        },
-        {
-          "name": "KLAXX",
-          "url": "https://open.spotify.com/artist/1sg1SPREm84p1TlfjABfnp"
-        }
-      ],
-      "duration_ms": 186373,
-      "name": "The One",
-      "url": "https://open.spotify.com/track/4LfJbl62cw3nr0POfs8Yy5"
     },
     {
       "added_at": "2022-08-12 10:58:30",

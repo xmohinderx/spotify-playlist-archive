@@ -4,7 +4,7 @@
 
 > entering my reputation era 🐍
 
-229 songs - 12 hr 44 min - [published](https://open.spotify.com/playlist/1tPoUAYzbtzf09bxrh5s55)
+230 songs - 12 hr 47 min - [published](https://open.spotify.com/playlist/1tPoUAYzbtzf09bxrh5s55)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Dangerous Woman](https://open.spotify.com/track/6RUhbFEhrvGISaQ8u2j2JN) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Dangerous Woman](https://open.spotify.com/album/3pdKKSqqLVIKmRTGw0x2N7) | 3:55 | 2022-01-27 |  |
 | [Dark Lady](https://open.spotify.com/track/7ckF0HeHGMOEjNqW5GoTqq) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Universal Masters Collection](https://open.spotify.com/album/6SlRWiNTV4uuona6bAUWId) | 3:25 | 2022-04-18 | 2022-04-21 |
 | [DARKSIDE](https://open.spotify.com/track/6xlOnm5MITIKtixzJW8R0j) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [Wars In A Wonderland](https://open.spotify.com/album/2npzGBEPDOfVLN8ajYm3pZ) | 2:48 | 2022-07-18 |  |
+| [Dead To Me](https://open.spotify.com/track/6tPLIurCFf9MAGYvba94ub) | [Chloe Adams](https://open.spotify.com/artist/4B1bjBU8CLkIBTYTRklo2u) | [Dead To Me](https://open.spotify.com/album/0GgNNJPbQUpny8XErV9Vhw) | 2:33 | 2022-09-22 |  |
 | [Deal With The Devil](https://open.spotify.com/track/7eFIg4OmtXa0Wf5eeFOLs4) | [Rory Webley](https://open.spotify.com/artist/2vlC4o7h61xlMUop6QCuvK) | [Deal With The Devil](https://open.spotify.com/album/3sJM5AOASzuZETZOLf77ND) | 2:15 | 2022-01-27 | 2022-07-29 |
 | [Death Of Us](https://open.spotify.com/track/1b7kH8a40bQ0ttYPNdxrn6) | [Elsie Bay](https://open.spotify.com/artist/4YpY98ig3QIOUX50xQ21GE) | [Death Of Us](https://open.spotify.com/album/2LkqNFhcGWp6PTyozndEXd) | 3:08 | 2022-01-27 | 2022-07-28 |
 | [Desperado](https://open.spotify.com/track/4mCf3vQf7z0Yseo0RxAi3V) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 3:06 | 2022-01-27 |  |
@@ -75,7 +76,7 @@
 | [Do I Wanna Know?](https://open.spotify.com/track/5FVd6KXrgO9B3JPmC8OPst) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 4:32 | 2022-01-27 |  |
 | [Do It Like A Girl](https://open.spotify.com/track/2pY0EPtqQb0GJGUY7EzxqP) | [Morgan St\. Jean](https://open.spotify.com/artist/4kAyoGhVlC6PFg0FvMqmFB) | [Do It Like A Girl](https://open.spotify.com/album/6CfE9EVboYOLM5OunwJTCm) | 2:43 | 2022-04-08 | 2022-07-27 |
 | [Don't Hurt Yourself \(feat\. Jack White\)](https://open.spotify.com/track/78eouBKVRyhbSzJwChr6QM) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Lemonade](https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF) | 3:53 | 2022-01-27 | 2022-04-21 |
-| [Don't Lose Ur Head](https://open.spotify.com/track/6sUQqRmOcRyAG5M3EWXzr3) | [SIX](https://open.spotify.com/artist/1VbWMsap5Ex2erHPlmndr0), [Christina Modestou](https://open.spotify.com/artist/21uejta558No7qYG1Nmwn7) | [Six: The Musical \(Studio Cast Recording\)](https://open.spotify.com/album/5jTDaLFNQovRyjNcWe4cZh) | 4:05 | 2022-02-18 |  |
+| [Don't Lose Ur Head](https://open.spotify.com/track/6sUQqRmOcRyAG5M3EWXzr3) | [SIX](https://open.spotify.com/artist/1VbWMsap5Ex2erHPlmndr0), [Christina Modestou](https://open.spotify.com/artist/21uejta558No7qYG1Nmwn7) | [Six: The Musical \(Studio Cast Recording\)](https://open.spotify.com/album/5jTDaLFNQovRyjNcWe4cZh) | 4:05 | 2022-02-18 | 2022-09-23 |
 | [Don’t Blame Me](https://open.spotify.com/track/1R0a2iXumgCiFb7HEZ7gUE) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [reputation](https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv) | 3:56 | 2022-01-27 |  |
 | [dramatic](https://open.spotify.com/track/5uBlr2RNpuu3n7ROgiQa7w) | [Cat & Calmell](https://open.spotify.com/artist/0SaaipFXHYbYDLDB6atAoR) | [dramatic](https://open.spotify.com/album/2uIYbXxbgDyGpndqhhHQS9) | 2:30 | 2022-01-27 | 2022-07-29 |
 | [Dream Girl Evil](https://open.spotify.com/track/7GtOjSSp5Qyi3gNbNDZgja) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Dance Fever](https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE) | 3:47 | 2022-05-13 | 2022-08-26 |

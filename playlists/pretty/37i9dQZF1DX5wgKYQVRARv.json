@@ -1,12 +1,12 @@
 {
   "description": "Fresh and recent tracks from the world of Prog Metal. Cover: Architects",
-  "num_followers": 470525,
+  "num_followers": 470644,
   "original_name": "Progressive Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjEyMzYwMCwwMDAwMDAwMGI3ZGQxYThmYmIzMzJiYjlkMjNmZWM3ZTQxMjIyNGEy",
+  "snapshot_id": "MTY2MjEyMzYwMCwwMDAwMDAwMDVmOTdhZWI4YzQzZmY5MmNmOTA0NDQ3OTk2N2ZiYTBl",
   "tracks": [
     {
       "added_at": "2022-09-02 13:00:00",
@@ -411,22 +411,6 @@
     {
       "added_at": "2022-09-02 13:00:00",
       "album": {
-        "name": "New Age Filth",
-        "url": "https://open.spotify.com/album/5DGfTPWaXmfdiwlUOBzZdh"
-      },
-      "artists": [
-        {
-          "name": "Hail The Sun",
-          "url": "https://open.spotify.com/artist/0XblvrTo6mnHOxWIP1t5T6"
-        }
-      ],
-      "duration_ms": 264646,
-      "name": "Domino",
-      "url": "https://open.spotify.com/track/6rYBRpj2tKN3pTnrugVuZF"
-    },
-    {
-      "added_at": "2022-09-02 13:00:00",
-      "album": {
         "name": "Periphery III: Select Difficulty",
         "url": "https://open.spotify.com/album/5L9ddlTFtgLj93nzy77MEO"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 439840,
       "name": "Marigold",
       "url": "https://open.spotify.com/track/0xaN6B7xNJU9czMXELDyDM"
+    },
+    {
+      "added_at": "2022-09-02 13:00:00",
+      "album": {
+        "name": "New Age Filth",
+        "url": "https://open.spotify.com/album/5DGfTPWaXmfdiwlUOBzZdh"
+      },
+      "artists": [
+        {
+          "name": "Hail The Sun",
+          "url": "https://open.spotify.com/artist/0XblvrTo6mnHOxWIP1t5T6"
+        }
+      ],
+      "duration_ms": 264646,
+      "name": "Domino",
+      "url": "https://open.spotify.com/track/6rYBRpj2tKN3pTnrugVuZF"
     },
     {
       "added_at": "2022-09-02 13:00:00",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2022-09-02 13:00:00",
       "album": {
-        "name": "Coherence",
-        "url": "https://open.spotify.com/album/0BH4HBaIx4uUsVQ1wId0Ix"
-      },
-      "artists": [
-        {
-          "name": "Be'lakor",
-          "url": "https://open.spotify.com/artist/7qUcsMCdIHrs2LOZlmciQp"
-        }
-      ],
-      "duration_ms": 504453,
-      "name": "Hidden Window",
-      "url": "https://open.spotify.com/track/0WOGPQwYgOl3wtdzCSJ5Xl"
-    },
-    {
-      "added_at": "2022-09-02 13:00:00",
-      "album": {
         "name": "Nowhere",
         "url": "https://open.spotify.com/album/6fOy4uokE6m81dMyrwAKtv"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 302000,
       "name": "Nowhere",
       "url": "https://open.spotify.com/track/3GSiy6QJ8LM2o1u6NimbZT"
+    },
+    {
+      "added_at": "2022-09-02 13:00:00",
+      "album": {
+        "name": "Coherence",
+        "url": "https://open.spotify.com/album/0BH4HBaIx4uUsVQ1wId0Ix"
+      },
+      "artists": [
+        {
+          "name": "Be'lakor",
+          "url": "https://open.spotify.com/artist/7qUcsMCdIHrs2LOZlmciQp"
+        }
+      ],
+      "duration_ms": 504453,
+      "name": "Hidden Window",
+      "url": "https://open.spotify.com/track/0WOGPQwYgOl3wtdzCSJ5Xl"
     },
     {
       "added_at": "2022-09-02 13:00:00",
@@ -1735,22 +1735,6 @@
     {
       "added_at": "2022-09-02 13:00:00",
       "album": {
-        "name": "Proxy",
-        "url": "https://open.spotify.com/album/70TeLExFCwmHVjgmlQheK6"
-      },
-      "artists": [
-        {
-          "name": "Tulip",
-          "url": "https://open.spotify.com/artist/520HRtk3c4y8WTKKywE4PY"
-        }
-      ],
-      "duration_ms": 268203,
-      "name": "Proxy",
-      "url": "https://open.spotify.com/track/6JdWuk1w8rpzxSMjUAXT2d"
-    },
-    {
-      "added_at": "2022-09-02 13:00:00",
-      "album": {
         "name": "Sinner",
         "url": "https://open.spotify.com/album/2KasnGDYJUuOPdcejZ1KNt"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 246500,
       "name": "Gods Way is my Way",
       "url": "https://open.spotify.com/track/5vDwPAcIikEc4g21ndDtVw"
+    },
+    {
+      "added_at": "2022-09-02 13:00:00",
+      "album": {
+        "name": "Proxy",
+        "url": "https://open.spotify.com/album/70TeLExFCwmHVjgmlQheK6"
+      },
+      "artists": [
+        {
+          "name": "Tulip",
+          "url": "https://open.spotify.com/artist/520HRtk3c4y8WTKKywE4PY"
+        }
+      ],
+      "duration_ms": 268203,
+      "name": "Proxy",
+      "url": "https://open.spotify.com/track/6JdWuk1w8rpzxSMjUAXT2d"
     },
     {
       "added_at": "2022-09-02 13:00:00",
@@ -2223,22 +2223,6 @@
     {
       "added_at": "2022-09-02 13:00:00",
       "album": {
-        "name": "Kijo",
-        "url": "https://open.spotify.com/album/4DsmxRjsSuFWq1tgZPQzvb"
-      },
-      "artists": [
-        {
-          "name": "Memorist",
-          "url": "https://open.spotify.com/artist/5iO99RO9AmhAr4rLgjZ1nn"
-        }
-      ],
-      "duration_ms": 222099,
-      "name": "Kijo",
-      "url": "https://open.spotify.com/track/608RRgKIml4mVLlDDwqBv4"
-    },
-    {
-      "added_at": "2022-09-02 13:00:00",
-      "album": {
         "name": "Ascendancy",
         "url": "https://open.spotify.com/album/6dzFP961cMYvpVSBUvNzD9"
       },
@@ -2251,6 +2235,22 @@
       "duration_ms": 219700,
       "name": "Stone of Mourning",
       "url": "https://open.spotify.com/track/7A7ewiTVqWwSDd1HLu82gs"
+    },
+    {
+      "added_at": "2022-09-02 13:00:00",
+      "album": {
+        "name": "Kijo",
+        "url": "https://open.spotify.com/album/4DsmxRjsSuFWq1tgZPQzvb"
+      },
+      "artists": [
+        {
+          "name": "Memorist",
+          "url": "https://open.spotify.com/artist/5iO99RO9AmhAr4rLgjZ1nn"
+        }
+      ],
+      "duration_ms": 222099,
+      "name": "Kijo",
+      "url": "https://open.spotify.com/track/608RRgKIml4mVLlDDwqBv4"
     },
     {
       "added_at": "2022-09-02 13:00:00",
@@ -2619,6 +2619,22 @@
     {
       "added_at": "2022-09-02 13:00:00",
       "album": {
+        "name": "Artificial Void",
+        "url": "https://open.spotify.com/album/6x5jAsKU1x9JB5u5eZ6sLg"
+      },
+      "artists": [
+        {
+          "name": "Unprocessed",
+          "url": "https://open.spotify.com/artist/13GH7wviJQ9gfZmr1pXHS4"
+        }
+      ],
+      "duration_ms": 346415,
+      "name": "Avatar",
+      "url": "https://open.spotify.com/track/12f0f3XqpyPb4O8bdtDn3E"
+    },
+    {
+      "added_at": "2022-09-02 13:00:00",
+      "album": {
         "name": "Armoured Core",
         "url": "https://open.spotify.com/album/4maYMoEU5enOJAI253HdwL"
       },
@@ -2635,22 +2651,6 @@
       "duration_ms": 247228,
       "name": "Armoured Core",
       "url": "https://open.spotify.com/track/62F58Zl56B35WQEiS5T1AQ"
-    },
-    {
-      "added_at": "2022-09-02 13:00:00",
-      "album": {
-        "name": "Artificial Void",
-        "url": "https://open.spotify.com/album/6x5jAsKU1x9JB5u5eZ6sLg"
-      },
-      "artists": [
-        {
-          "name": "Unprocessed",
-          "url": "https://open.spotify.com/artist/13GH7wviJQ9gfZmr1pXHS4"
-        }
-      ],
-      "duration_ms": 346415,
-      "name": "Avatar",
-      "url": "https://open.spotify.com/track/12f0f3XqpyPb4O8bdtDn3E"
     },
     {
       "added_at": "2022-09-02 13:00:00",
@@ -2771,6 +2771,26 @@
     {
       "added_at": "2022-09-02 13:00:00",
       "album": {
+        "name": "Bloodmoon: I",
+        "url": "https://open.spotify.com/album/4rEDzWnp2RoNzSx8DjO7gY"
+      },
+      "artists": [
+        {
+          "name": "Converge",
+          "url": "https://open.spotify.com/artist/7kHzfxMLtVHHb523s43rY1"
+        },
+        {
+          "name": "Chelsea Wolfe",
+          "url": "https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10"
+        }
+      ],
+      "duration_ms": 201293,
+      "name": "Lord of Liars",
+      "url": "https://open.spotify.com/track/3z2umWMJNuuOYU25JZK4vm"
+    },
+    {
+      "added_at": "2022-09-02 13:00:00",
+      "album": {
         "name": "Lord Of Chaos",
         "url": "https://open.spotify.com/album/5Urcd0CgxOwChJzrJnanIo"
       },
@@ -2799,26 +2819,6 @@
       "duration_ms": 218318,
       "name": "Prostitute Part II: Pretty Woman (Makes Money)",
       "url": "https://open.spotify.com/track/1FPMj3g1JQ29fiD6VZWVaO"
-    },
-    {
-      "added_at": "2022-09-02 13:00:00",
-      "album": {
-        "name": "Bloodmoon: I",
-        "url": "https://open.spotify.com/album/4rEDzWnp2RoNzSx8DjO7gY"
-      },
-      "artists": [
-        {
-          "name": "Converge",
-          "url": "https://open.spotify.com/artist/7kHzfxMLtVHHb523s43rY1"
-        },
-        {
-          "name": "Chelsea Wolfe",
-          "url": "https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10"
-        }
-      ],
-      "duration_ms": 201293,
-      "name": "Lord of Liars",
-      "url": "https://open.spotify.com/track/3z2umWMJNuuOYU25JZK4vm"
     },
     {
       "added_at": "2022-09-02 13:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Deep House in all its shapes and colours.",
-  "num_followers": 524211,
+  "num_followers": 524412,
   "original_name": "Deep House Blend",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjE0MTkxOSwwMDAwMDAwMDlhNGNlZGMyNDI1N2MxOGE0MmY3OGI0NjU2NWZiODBk",
+  "snapshot_id": "MTY2MjE0MTkxOSwwMDAwMDAwMDQ5NjExYzM2M2Q5MDFmZmZjN2VmMzFkZjliNzMzNWNi",
   "tracks": [
     {
       "added_at": "2022-09-02 18:05:19",
@@ -527,22 +527,6 @@
     {
       "added_at": "2022-09-02 18:05:19",
       "album": {
-        "name": "Come Back Around",
-        "url": "https://open.spotify.com/album/5PWznD1Bh2vMBlXChhmsav"
-      },
-      "artists": [
-        {
-          "name": "Eli & Fur",
-          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
-        }
-      ],
-      "duration_ms": 231349,
-      "name": "Come Back Around",
-      "url": "https://open.spotify.com/track/0TvCPywvY8QGAWdteEiCdF"
-    },
-    {
-      "added_at": "2022-09-02 18:05:19",
-      "album": {
         "name": "Trojan Love (Original Club Mix)",
         "url": "https://open.spotify.com/album/5VGOmMOd2ke7rAFmaU125O"
       },
@@ -563,22 +547,18 @@
     {
       "added_at": "2022-09-02 18:05:19",
       "album": {
-        "name": "Laufen",
-        "url": "https://open.spotify.com/album/0rBQ3XoH7MGsyTroRmawqT"
+        "name": "Come Back Around",
+        "url": "https://open.spotify.com/album/5PWznD1Bh2vMBlXChhmsav"
       },
       "artists": [
         {
-          "name": "MonoJack",
-          "url": "https://open.spotify.com/artist/0cOtwWgfpavqmqhEkqner9"
-        },
-        {
-          "name": "Fritz K\u00f6lner",
-          "url": "https://open.spotify.com/artist/5kUq5J6UHtwVWgtrpE4zGh"
+          "name": "Eli & Fur",
+          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
         }
       ],
-      "duration_ms": 257709,
-      "name": "Laufen",
-      "url": "https://open.spotify.com/track/3l09ozhFppcBhSXXalTtsf"
+      "duration_ms": 231349,
+      "name": "Come Back Around",
+      "url": "https://open.spotify.com/track/0TvCPywvY8QGAWdteEiCdF"
     },
     {
       "added_at": "2022-09-02 18:05:19",
@@ -595,6 +575,26 @@
       "duration_ms": 420272,
       "name": "Ceremony",
       "url": "https://open.spotify.com/track/5JQZTqHVXa1ShGEZjOnlgN"
+    },
+    {
+      "added_at": "2022-09-02 18:05:19",
+      "album": {
+        "name": "Laufen",
+        "url": "https://open.spotify.com/album/0rBQ3XoH7MGsyTroRmawqT"
+      },
+      "artists": [
+        {
+          "name": "MonoJack",
+          "url": "https://open.spotify.com/artist/0cOtwWgfpavqmqhEkqner9"
+        },
+        {
+          "name": "Fritz K\u00f6lner",
+          "url": "https://open.spotify.com/artist/5kUq5J6UHtwVWgtrpE4zGh"
+        }
+      ],
+      "duration_ms": 257709,
+      "name": "Laufen",
+      "url": "https://open.spotify.com/track/3l09ozhFppcBhSXXalTtsf"
     },
     {
       "added_at": "2022-09-02 18:05:19",
@@ -1495,18 +1495,18 @@
     {
       "added_at": "2022-09-02 18:05:19",
       "album": {
-        "name": "Changes EP",
-        "url": "https://open.spotify.com/album/6brECbf1Kr7MPAk1lay37J"
+        "name": "Studio A Pt.1",
+        "url": "https://open.spotify.com/album/09lUmMUXdwkYhizeDg2NpO"
       },
       "artists": [
         {
-          "name": "Mind Against",
-          "url": "https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72"
+          "name": "Ian Pooley",
+          "url": "https://open.spotify.com/artist/1m4GViPjIy4T8Pd0Iz6hRS"
         }
       ],
-      "duration_ms": 341419,
-      "name": "Changes",
-      "url": "https://open.spotify.com/track/0BmCeSYUthdYE4LbJx1qYj"
+      "duration_ms": 367578,
+      "name": "Basic Juno",
+      "url": "https://open.spotify.com/track/1hgWPFzfyUuKPSieELghgg"
     }
   ],
   "unique_name": "Deep House Blend",

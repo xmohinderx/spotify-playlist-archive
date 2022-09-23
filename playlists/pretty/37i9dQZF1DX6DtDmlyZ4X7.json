@@ -1,12 +1,12 @@
 {
   "description": "Musik som hj\u00e4lper dig att fokusera vid intensiva studier.",
-  "num_followers": 103570,
+  "num_followers": 103585,
   "original_name": "Pluggfokus",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzIyNDY0NiwwMDAwMDAwMGRiOTUxZGVlZDdlODc2MTkwNGI3ODMzZmYzZDVmOWNj",
+  "snapshot_id": "MTY2MzIyNDY0NiwwMDAwMDAwMDIzZDVmOGNkNDI4ZWFmZWUzZGE2MTMxNmEyM2NlYzdm",
   "tracks": [
     {
       "added_at": "2022-09-15 06:50:45",
@@ -3415,6 +3415,22 @@
     {
       "added_at": "2022-09-15 06:50:45",
       "album": {
+        "name": "Y\u014dsei",
+        "url": "https://open.spotify.com/album/0PK0SJ0irDoDsSvI2WF5zy"
+      },
+      "artists": [
+        {
+          "name": "Malotte H",
+          "url": "https://open.spotify.com/artist/7DRkB3iAI3rpubmBA7qrEt"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "Y\u014dsei",
+      "url": "https://open.spotify.com/track/5wsqAeIRP9mmZBVRua7ShH"
+    },
+    {
+      "added_at": "2022-09-15 06:50:45",
+      "album": {
         "name": "Promenade",
         "url": "https://open.spotify.com/album/3LW1XhKVlovivBri0LDZwB"
       },
@@ -3443,22 +3459,6 @@
       "duration_ms": 155125,
       "name": "Postcards",
       "url": "https://open.spotify.com/track/5LHsps6yM7U1ogxSQpEsxM"
-    },
-    {
-      "added_at": "2022-09-15 06:50:45",
-      "album": {
-        "name": "Y\u014dsei",
-        "url": "https://open.spotify.com/album/0PK0SJ0irDoDsSvI2WF5zy"
-      },
-      "artists": [
-        {
-          "name": "Malotte H",
-          "url": "https://open.spotify.com/artist/7DRkB3iAI3rpubmBA7qrEt"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "Y\u014dsei",
-      "url": "https://open.spotify.com/track/5wsqAeIRP9mmZBVRua7ShH"
     },
     {
       "added_at": "2022-09-15 06:50:45",
@@ -3591,22 +3591,6 @@
     {
       "added_at": "2022-09-15 06:50:45",
       "album": {
-        "name": "The Changing Seasons",
-        "url": "https://open.spotify.com/album/33UnDdqWOok4v5cduSyoC6"
-      },
-      "artists": [
-        {
-          "name": "Mildred Wolf",
-          "url": "https://open.spotify.com/artist/3Pj0inogFqTDKgCC5OVTaz"
-        }
-      ],
-      "duration_ms": 133624,
-      "name": "The Changing Seasons",
-      "url": "https://open.spotify.com/track/7DjBH5a3l59agklZXozXNM"
-    },
-    {
-      "added_at": "2022-09-15 06:50:45",
-      "album": {
         "name": "Passageways",
         "url": "https://open.spotify.com/album/557439Fi4P9aWE0MZyy5PV"
       },
@@ -3635,6 +3619,22 @@
       "duration_ms": 179948,
       "name": "Rana Tranquiliana",
       "url": "https://open.spotify.com/track/5ZSy4yLpajuh1eOjM2Rsdf"
+    },
+    {
+      "added_at": "2022-09-15 06:50:45",
+      "album": {
+        "name": "The Changing Seasons",
+        "url": "https://open.spotify.com/album/33UnDdqWOok4v5cduSyoC6"
+      },
+      "artists": [
+        {
+          "name": "Mildred Wolf",
+          "url": "https://open.spotify.com/artist/3Pj0inogFqTDKgCC5OVTaz"
+        }
+      ],
+      "duration_ms": 133624,
+      "name": "The Changing Seasons",
+      "url": "https://open.spotify.com/track/7DjBH5a3l59agklZXozXNM"
     },
     {
       "added_at": "2022-09-15 06:50:45",
@@ -4779,6 +4779,22 @@
     {
       "added_at": "2022-09-15 06:50:45",
       "album": {
+        "name": "Refraction",
+        "url": "https://open.spotify.com/album/1aGIdyXxti7seh4NwA5RNJ"
+      },
+      "artists": [
+        {
+          "name": "Allysium",
+          "url": "https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin"
+        }
+      ],
+      "duration_ms": 179500,
+      "name": "Refraction",
+      "url": "https://open.spotify.com/track/0fb16xi6nGQi15crUCDrw8"
+    },
+    {
+      "added_at": "2022-09-15 06:50:45",
+      "album": {
         "name": "Bellevue",
         "url": "https://open.spotify.com/album/3PY8KrpMXFaTfy2hhYBXJk"
       },
@@ -4823,22 +4839,6 @@
       "duration_ms": 167333,
       "name": "Roots",
       "url": "https://open.spotify.com/track/4PzCduZiQfY4E4661r2V3u"
-    },
-    {
-      "added_at": "2022-09-15 06:50:45",
-      "album": {
-        "name": "Refraction",
-        "url": "https://open.spotify.com/album/1aGIdyXxti7seh4NwA5RNJ"
-      },
-      "artists": [
-        {
-          "name": "Allysium",
-          "url": "https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin"
-        }
-      ],
-      "duration_ms": 179500,
-      "name": "Refraction",
-      "url": "https://open.spotify.com/track/0fb16xi6nGQi15crUCDrw8"
     },
     {
       "added_at": "2022-09-15 06:50:45",

@@ -1,12 +1,12 @@
 {
   "description": "The newest songs from LGBTQIA+ artists feat. cover girl Fletcher's fave picks at the top ",
-  "num_followers": 812265,
+  "num_followers": 812428,
   "original_name": "Out Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMDdjZGJmZTdmZWQ5NzE4ZTQyNzhjOWU0YTNmODVhYWY5",
+  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMDczMjI1MTZmOWFlYjE1ZWU3MjViNjNmYjlhOWUzYWI1",
   "tracks": [
     {
       "added_at": "2022-09-09 19:33:47",
@@ -851,22 +851,6 @@
     {
       "added_at": "2022-09-09 19:33:47",
       "album": {
-        "name": "Holy Water",
-        "url": "https://open.spotify.com/album/0IzNmO6dTVd1jebYlk6t41"
-      },
-      "artists": [
-        {
-          "name": "Noah Davis",
-          "url": "https://open.spotify.com/artist/7lVbD38aVBVACNzgta9awX"
-        }
-      ],
-      "duration_ms": 200453,
-      "name": "Holy Water",
-      "url": "https://open.spotify.com/track/2FcbwSTgbQeweZv0bA9hI7"
-    },
-    {
-      "added_at": "2022-09-09 19:33:47",
-      "album": {
         "name": "Leave It On The Dancefloor",
         "url": "https://open.spotify.com/album/07Vt92F3DMX0GHMKSJ6A3o"
       },
@@ -883,18 +867,18 @@
     {
       "added_at": "2022-09-09 19:33:47",
       "album": {
-        "name": "IDK SH!T",
-        "url": "https://open.spotify.com/album/2gfnBbxQ9zW5VH0wBt2uzF"
+        "name": "Holy Water",
+        "url": "https://open.spotify.com/album/0IzNmO6dTVd1jebYlk6t41"
       },
       "artists": [
         {
-          "name": "JORDY",
-          "url": "https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E"
+          "name": "Noah Davis",
+          "url": "https://open.spotify.com/artist/7lVbD38aVBVACNzgta9awX"
         }
       ],
-      "duration_ms": 171576,
-      "name": "IDK SH!T",
-      "url": "https://open.spotify.com/track/0S3xP5jVO84UzVeWpwXMK8"
+      "duration_ms": 200453,
+      "name": "Holy Water",
+      "url": "https://open.spotify.com/track/2FcbwSTgbQeweZv0bA9hI7"
     },
     {
       "added_at": "2022-09-09 19:33:47",
@@ -911,6 +895,22 @@
       "duration_ms": 223628,
       "name": "Keeping The Light On",
       "url": "https://open.spotify.com/track/1Uacdg0eFpE2bpjS90feZQ"
+    },
+    {
+      "added_at": "2022-09-09 19:33:47",
+      "album": {
+        "name": "IDK SH!T",
+        "url": "https://open.spotify.com/album/2gfnBbxQ9zW5VH0wBt2uzF"
+      },
+      "artists": [
+        {
+          "name": "JORDY",
+          "url": "https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E"
+        }
+      ],
+      "duration_ms": 171576,
+      "name": "IDK SH!T",
+      "url": "https://open.spotify.com/track/0S3xP5jVO84UzVeWpwXMK8"
     },
     {
       "added_at": "2022-09-09 19:33:47",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2022-09-09 19:33:47",
       "album": {
-        "name": "Ugly Season",
-        "url": "https://open.spotify.com/album/6rFFWK98d8hhdSYgaOxI5L"
-      },
-      "artists": [
-        {
-          "name": "Perfume Genius",
-          "url": "https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn"
-        }
-      ],
-      "duration_ms": 281190,
-      "name": "Photograph",
-      "url": "https://open.spotify.com/track/7qG7bsMPOmiMt0uT13cLx5"
-    },
-    {
-      "added_at": "2022-09-09 19:33:47",
-      "album": {
         "name": "Tantrums",
         "url": "https://open.spotify.com/album/3N2z6l5poKgtLXUwPFFyuc"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 211675,
       "name": "Complex",
       "url": "https://open.spotify.com/track/5R1a0XN84btO27Bn5uV5BK"
+    },
+    {
+      "added_at": "2022-09-09 19:33:47",
+      "album": {
+        "name": "Ugly Season",
+        "url": "https://open.spotify.com/album/6rFFWK98d8hhdSYgaOxI5L"
+      },
+      "artists": [
+        {
+          "name": "Perfume Genius",
+          "url": "https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn"
+        }
+      ],
+      "duration_ms": 281190,
+      "name": "Photograph",
+      "url": "https://open.spotify.com/track/7qG7bsMPOmiMt0uT13cLx5"
     }
   ],
   "unique_name": "Out Now",

@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica para acompa\u00f1ar esas rondas interminables de mate.",
-  "num_followers": 580365,
+  "num_followers": 580602,
   "original_name": "Mates y M\u00fasica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzYxNzkyMiwwMDAwMDAwMDBkNTU5MmE5YTgxZTg0NDMwNDM4ZTg3M2E3Nzc4Yjg2",
+  "snapshot_id": "MTY2MzYxNzkyMiwwMDAwMDAwMDU1MDA1MDdhZWE2YzdhMjU5OTA0NzUzZmUwNTMyMjA2",
   "tracks": [
     {
       "added_at": "2022-09-19 20:05:22",
@@ -259,26 +259,6 @@
     {
       "added_at": "2022-09-19 20:05:22",
       "album": {
-        "name": "CHANT (feat. Tones And I)",
-        "url": "https://open.spotify.com/album/4z2ItYJOliymox1iXbu9gs"
-      },
-      "artists": [
-        {
-          "name": "Macklemore",
-          "url": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
-        },
-        {
-          "name": "Tones And I",
-          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
-        }
-      ],
-      "duration_ms": 270635,
-      "name": "CHANT (feat. Tones And I)",
-      "url": "https://open.spotify.com/track/5BgeAX4HuZdcuCqmu4pIMM"
-    },
-    {
-      "added_at": "2022-09-19 20:05:22",
-      "album": {
         "name": "Ah\u00ed Vamos",
         "url": "https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP"
       },
@@ -307,6 +287,26 @@
       "duration_ms": 280400,
       "name": "Luna - En Vivo",
       "url": "https://open.spotify.com/track/7b3k8I1fncAzbk9PHnLkbX"
+    },
+    {
+      "added_at": "2022-09-19 20:05:22",
+      "album": {
+        "name": "CHANT (feat. Tones And I)",
+        "url": "https://open.spotify.com/album/4z2ItYJOliymox1iXbu9gs"
+      },
+      "artists": [
+        {
+          "name": "Macklemore",
+          "url": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
+        },
+        {
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
+        }
+      ],
+      "duration_ms": 270635,
+      "name": "CHANT (feat. Tones And I)",
+      "url": "https://open.spotify.com/track/5BgeAX4HuZdcuCqmu4pIMM"
     },
     {
       "added_at": "2022-09-19 20:05:22",
@@ -415,22 +415,6 @@
     {
       "added_at": "2022-09-19 20:05:22",
       "album": {
-        "name": "Vicentico",
-        "url": "https://open.spotify.com/album/6Qt9Yiol5QcAEeKPyIQafo"
-      },
-      "artists": [
-        {
-          "name": "Vicentico",
-          "url": "https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ"
-        }
-      ],
-      "duration_ms": 218440,
-      "name": "Algo Contigo",
-      "url": "https://open.spotify.com/track/4zsDA31stWMtLveU61hejd"
-    },
-    {
-      "added_at": "2022-09-19 20:05:22",
-      "album": {
         "name": "D\u00e9jenme Llorar",
         "url": "https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 228253,
       "name": "Eres T\u00fa",
       "url": "https://open.spotify.com/track/75zvC8d4iozawMJvxt8T1f"
+    },
+    {
+      "added_at": "2022-09-19 20:05:22",
+      "album": {
+        "name": "Vicentico",
+        "url": "https://open.spotify.com/album/6Qt9Yiol5QcAEeKPyIQafo"
+      },
+      "artists": [
+        {
+          "name": "Vicentico",
+          "url": "https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ"
+        }
+      ],
+      "duration_ms": 218440,
+      "name": "Algo Contigo",
+      "url": "https://open.spotify.com/track/4zsDA31stWMtLveU61hejd"
     },
     {
       "added_at": "2022-09-19 20:05:22",
@@ -771,6 +771,22 @@
     {
       "added_at": "2022-09-19 20:05:22",
       "album": {
+        "name": "Narig\u00f3n del Siglo, Yo Te Dejo Perfumado en la Esquina para Siempre",
+        "url": "https://open.spotify.com/album/4GkZExYLfegidZaO1BgpvU"
+      },
+      "artists": [
+        {
+          "name": "Divididos",
+          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
+        }
+      ],
+      "duration_ms": 212880,
+      "name": "Spaghetti del Rock",
+      "url": "https://open.spotify.com/track/6rg1MBZqggsQ5olFGTw0rr"
+    },
+    {
+      "added_at": "2022-09-19 20:05:22",
+      "album": {
         "name": "Verte",
         "url": "https://open.spotify.com/album/3NXbwVxHga0cmLdnRIDX64"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 157418,
       "name": "Verte",
       "url": "https://open.spotify.com/track/2mMZAd3ol9wGI2WJl4XJCF"
-    },
-    {
-      "added_at": "2022-09-19 20:05:22",
-      "album": {
-        "name": "Narig\u00f3n del Siglo, Yo Te Dejo Perfumado en la Esquina para Siempre",
-        "url": "https://open.spotify.com/album/4GkZExYLfegidZaO1BgpvU"
-      },
-      "artists": [
-        {
-          "name": "Divididos",
-          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
-        }
-      ],
-      "duration_ms": 212880,
-      "name": "Spaghetti del Rock",
-      "url": "https://open.spotify.com/track/6rg1MBZqggsQ5olFGTw0rr"
     },
     {
       "added_at": "2022-09-19 20:05:22",
@@ -931,6 +931,22 @@
     {
       "added_at": "2022-09-19 20:05:22",
       "album": {
+        "name": "Antihumano",
+        "url": "https://open.spotify.com/album/3NsuNDcnIc0jAxpC9svIbz"
+      },
+      "artists": [
+        {
+          "name": "Attaque 77",
+          "url": "https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9"
+        }
+      ],
+      "duration_ms": 259186,
+      "name": "Arrancacorazones",
+      "url": "https://open.spotify.com/track/2zogXcCqvKJwh3o67W3GG3"
+    },
+    {
+      "added_at": "2022-09-19 20:05:22",
+      "album": {
         "name": "Golpes en el Coraz\u00f3n",
         "url": "https://open.spotify.com/album/1v2sXZ3GCmKSwGOM24VSiZ"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 211268,
       "name": "Golpes en el Coraz\u00f3n",
       "url": "https://open.spotify.com/track/5fXk93H1gUgNtZrDGiNLR4"
-    },
-    {
-      "added_at": "2022-09-19 20:05:22",
-      "album": {
-        "name": "Antihumano",
-        "url": "https://open.spotify.com/album/3NsuNDcnIc0jAxpC9svIbz"
-      },
-      "artists": [
-        {
-          "name": "Attaque 77",
-          "url": "https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9"
-        }
-      ],
-      "duration_ms": 259186,
-      "name": "Arrancacorazones",
-      "url": "https://open.spotify.com/track/2zogXcCqvKJwh3o67W3GG3"
     },
     {
       "added_at": "2022-09-19 20:05:22",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2022-09-19 20:05:22",
       "album": {
-        "name": "Buscando un Amor",
-        "url": "https://open.spotify.com/album/4AMgSDaOROvCGSNSz3rfYw"
-      },
-      "artists": [
-        {
-          "name": "Pappo",
-          "url": "https://open.spotify.com/artist/1db5TWniHR7iqwXer7AiQ2"
-        }
-      ],
-      "duration_ms": 161133,
-      "name": "Juntos a la Par",
-      "url": "https://open.spotify.com/track/1Ig4pCPanhzXl7C86MmBUc"
-    },
-    {
-      "added_at": "2022-09-19 20:05:22",
-      "album": {
         "name": "Honestidad Brutal",
         "url": "https://open.spotify.com/album/4OZincs6XqlfEuKEFtpq1Y"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 235560,
       "name": "Te quiero igual",
       "url": "https://open.spotify.com/track/7qIw4D1PcDHigDohKkLB0W"
+    },
+    {
+      "added_at": "2022-09-19 20:05:22",
+      "album": {
+        "name": "Buscando un Amor",
+        "url": "https://open.spotify.com/album/4AMgSDaOROvCGSNSz3rfYw"
+      },
+      "artists": [
+        {
+          "name": "Pappo",
+          "url": "https://open.spotify.com/artist/1db5TWniHR7iqwXer7AiQ2"
+        }
+      ],
+      "duration_ms": 161133,
+      "name": "Juntos a la Par",
+      "url": "https://open.spotify.com/track/1Ig4pCPanhzXl7C86MmBUc"
     },
     {
       "added_at": "2022-09-19 20:05:22",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2022-09-19 20:05:22",
       "album": {
-        "name": "Lobo Suelto",
-        "url": "https://open.spotify.com/album/6JrFFJuOdqxp1lOMTuOrlF"
-      },
-      "artists": [
-        {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
-        }
-      ],
-      "duration_ms": 231533,
-      "name": "Un \u00c1ngel para Tu Soledad",
-      "url": "https://open.spotify.com/track/7fbuABzGfagLWkI54bxL6c"
-    },
-    {
-      "added_at": "2022-09-19 20:05:22",
-      "album": {
         "name": "Fuerza Natural",
         "url": "https://open.spotify.com/album/51wepZm3YvZfvFxiu7D5F8"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 234760,
       "name": "Cactus",
       "url": "https://open.spotify.com/track/1NeZxBuSEhikl0ZrOSgpuW"
+    },
+    {
+      "added_at": "2022-09-19 20:05:22",
+      "album": {
+        "name": "Lobo Suelto",
+        "url": "https://open.spotify.com/album/6JrFFJuOdqxp1lOMTuOrlF"
+      },
+      "artists": [
+        {
+          "name": "Patricio Rey y sus Redonditos de Ricota",
+          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
+        }
+      ],
+      "duration_ms": 231533,
+      "name": "Un \u00c1ngel para Tu Soledad",
+      "url": "https://open.spotify.com/track/7fbuABzGfagLWkI54bxL6c"
     },
     {
       "added_at": "2022-09-19 20:05:22",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2022-09-19 20:05:22",
       "album": {
-        "name": "No Tengo Hambre, Tengo Ansiedad",
-        "url": "https://open.spotify.com/album/3z2EoMTegXomOSq61UVRA2"
-      },
-      "artists": [
-        {
-          "name": "Alan Sutton y las criaturitas de la ansiedad",
-          "url": "https://open.spotify.com/artist/3OFrGQrdXwm0UgTERW6LAV"
-        }
-      ],
-      "duration_ms": 134181,
-      "name": "No Tengo Hambre, Tengo Ansiedad",
-      "url": "https://open.spotify.com/track/0kqWb82ACdjcObDqDqD0zg"
-    },
-    {
-      "added_at": "2022-09-19 20:05:22",
-      "album": {
         "name": "Toro Rojo",
         "url": "https://open.spotify.com/album/5RQqvJeGRUrvVbvKGlMceO"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 250173,
       "name": "Reyes de la Noche",
       "url": "https://open.spotify.com/track/3nnDwYz3dEd4p2ESdpS1G0"
+    },
+    {
+      "added_at": "2022-09-19 20:05:22",
+      "album": {
+        "name": "No Tengo Hambre, Tengo Ansiedad",
+        "url": "https://open.spotify.com/album/3z2EoMTegXomOSq61UVRA2"
+      },
+      "artists": [
+        {
+          "name": "Alan Sutton y las criaturitas de la ansiedad",
+          "url": "https://open.spotify.com/artist/3OFrGQrdXwm0UgTERW6LAV"
+        }
+      ],
+      "duration_ms": 134181,
+      "name": "No Tengo Hambre, Tengo Ansiedad",
+      "url": "https://open.spotify.com/track/0kqWb82ACdjcObDqDqD0zg"
     },
     {
       "added_at": "2022-09-19 20:05:22",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XbKgPOSda8.md) - [plain]
 
 > ¡Oi nomás ese cumbión!
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,889 likes - 100 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,037 likes - 100 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,9 +81,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XbKgPOSda8.md) - [plain]
 | 71 | [La Rumba Quimbumba](https://open.spotify.com/track/02pQk9G1SnyBBVh9yOtxau) | [Grupo Kual? Dinastia Pedraza Es Grupo Kein?](https://open.spotify.com/artist/3mtUQL8wfuXoI3bcciosLd), [Grupo Kien? Los Reyes Del Sabor](https://open.spotify.com/artist/5bK0A1q7E0UgBFrXZtedtU) | [Para Que La Cuña Apriete](https://open.spotify.com/album/643Req8SJXX188L5fuuVD2) | 4:56 |
 | 72 | [La Colegiala](https://open.spotify.com/track/5G9zTiOzuF1wONxSuXHg33) | [Rodolfo Aicardi](https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414), [La Tipica Ra7](https://open.spotify.com/artist/0WJbT6T0nkWfYO5zEbUPOG) | [Muy Tropical y Bailable](https://open.spotify.com/album/2MFR4ywLd3BPvVDa8U52Us) | 3:40 |
 | 73 | [Ámame](https://open.spotify.com/track/6MSp1jexGF9TlEpzWM7Zuf) | [Los Llayras](https://open.spotify.com/artist/2ArV1M689cANDANMu9OfBz) | [Clásicas De La Cumbia Andina](https://open.spotify.com/album/1G9yAgWGkLLyc3ItyTfS3Z) | 3:58 |
-| 74 | [Mi Cucu](https://open.spotify.com/track/2cUKBUN66IsL9lc8PdISQY) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw), [Lucho Argain](https://open.spotify.com/artist/69KQI0QMvoPN5OcpNgTC2b), [La India Meliyará](https://open.spotify.com/artist/0zBKolPOzGoV8uja8nnaUG) | [Greatest Cumbia Classics Of Colombia, Vol\. 1](https://open.spotify.com/album/53W9qG1q6xaKlUVuzkBNPV) | 3:54 |
+| 74 | [Te Daré Una Rosa](https://open.spotify.com/track/7CHWKwGjWiNIJt44XUlW1s) | [Los Askis](https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi) | [Quién Te Robo el Corazón](https://open.spotify.com/album/1iV1YdOYq0BdmtF8HcXhWo) | 3:31 |
 | 75 | [Cumbia De Los Estados](https://open.spotify.com/track/4n0kXy9VtZQnh1oOLIOQ6D) | [Super Grupo Colombia](https://open.spotify.com/artist/4VUjAlb1nGT2FW5n4CPxwi) | [Super Grupo Colombia \- Auténticos Embajadores De La Cumbia](https://open.spotify.com/album/3rX1cWMO3LNCi4uSD2eKxg) | 4:01 |
-| 76 | [Te Daré Una Rosa](https://open.spotify.com/track/7CHWKwGjWiNIJt44XUlW1s) | [Los Askis](https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi) | [Quién Te Robo el Corazón](https://open.spotify.com/album/1iV1YdOYq0BdmtF8HcXhWo) | 3:31 |
+| 76 | [Mi Cucu](https://open.spotify.com/track/2cUKBUN66IsL9lc8PdISQY) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw), [Lucho Argain](https://open.spotify.com/artist/69KQI0QMvoPN5OcpNgTC2b), [La India Meliyará](https://open.spotify.com/artist/0zBKolPOzGoV8uja8nnaUG) | [Greatest Cumbia Classics Of Colombia, Vol\. 1](https://open.spotify.com/album/53W9qG1q6xaKlUVuzkBNPV) | 3:54 |
 | 77 | [Amor Carnal](https://open.spotify.com/track/2BvixI7ri9MTF60jLSZLGW) | [Grupo Karo's](https://open.spotify.com/artist/3wOf6DlTkRycQcnlDrTe2x) | [Locura De Amor](https://open.spotify.com/album/5EDey3kMxdheEFK69Tq8EF) | 3:57 |
 | 78 | [Vuela Mariposa](https://open.spotify.com/track/4F8AQkyQSTb19us1XLfVf2) | [Los Llayras](https://open.spotify.com/artist/2ArV1M689cANDANMu9OfBz) | [Prometiendo Amor](https://open.spotify.com/album/3M5IHxICkEH22lqBgDXnHu) | 3:26 |
 | 79 | [Escándalo](https://open.spotify.com/track/4EhRKeEN4RE7AWaI9pWXQ5) | [Margarita la diosa de la cumbia](https://open.spotify.com/artist/2vdi5RS6XV5Qy7J5GgDqgn) | [Duelo de Sonoras](https://open.spotify.com/album/6cKW6XlgLPzuNM0f7emBjY) | 4:48 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XbKgPOSda8.md) - [plain]
 | 99 | [Los sabanales](https://open.spotify.com/track/31GD3gDTI7PYt6Dulr1wvh) | [Los Corraleros De Majagual](https://open.spotify.com/artist/4gUlOT8yUtjFDWKlkEpLI4) | [The Afrosound Of Colombia Volume 1](https://open.spotify.com/album/7GuPa60Lh3Wlls5rMGpOJf) | 2:43 |
 | 100 | [Cumbia Barulera](https://open.spotify.com/track/2CR5YD5yF77bSxV7qXrSTG) | [Los Dinamiteros de Colombia](https://open.spotify.com/artist/0OJXBz0TBaRCbyDpx62nZW), [Aniceto Molina](https://open.spotify.com/artist/0vpwDjHfD1T65OcmvpcF0S) | [Disco De Oro \- Cumbia](https://open.spotify.com/album/6uHRsIS95PzYt0ajDqtGCU) | 3:00 |
 
-Snapshot ID: `MTY1OTQ4MjYxMCwwMDAwMDAwMDk2YmE2ODJlZTkwY2Q0NWViMDM4Y2Q5Y2IzZDZjMmJm`
+Snapshot ID: `MTY1OTQ4MjYxMCwwMDAwMDAwMDdkMzc5ZDBlMmZiZTllZmI4NjdmZDdmNjdhMzc5NDg5`

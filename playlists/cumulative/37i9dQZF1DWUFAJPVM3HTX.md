@@ -4,7 +4,7 @@
 
 > New R&B/Soul from independent artists & labels every Wednesday\. Cover: Gio Genesis
 
-705 songs - 1 day 12 hr 56 min - [published](https://open.spotify.com/playlist/1joOFBFfrfPA6SUyTqQm6o)
+707 songs - 1 day 13 hr 1 min - [published](https://open.spotify.com/playlist/1joOFBFfrfPA6SUyTqQm6o)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -368,7 +368,7 @@
 | [keisha](https://open.spotify.com/track/0ICoAzphnJ3i5I9KHcBLdo) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [keisha](https://open.spotify.com/album/6lIhuQnAGRVi0DMNUmdNCD) | 2:55 | 2022-03-16 | 2022-09-02 |
 | [Keys](https://open.spotify.com/track/07QiIu2CE9j2yuKmo8XZvx) | [Lance Redeker](https://open.spotify.com/artist/1F8HRVc2bSFoyrzKZgRh7M) | [Keys](https://open.spotify.com/album/5gDvyk122g7t7QihZBKVrR) | 3:51 | 2021-12-01 | 2022-01-13 |
 | [Kinda Love](https://open.spotify.com/track/548cTdHVWvO8YTcqW7FzS9) | [Ashleyn](https://open.spotify.com/artist/3Xkj2AWTceLmIkrP8RC96c) | [Kinda Love](https://open.spotify.com/album/443uct6tMBcxhXK2bLOO80) | 2:54 | 2022-02-02 | 2022-03-31 |
-| [Kitty & I](https://open.spotify.com/track/1CEvoEip9uA8w5Or4Pf7G3) | [Chloe Bodur](https://open.spotify.com/artist/3HFE3MznHoHRI5kwxeW1GU) | [Kitty & I](https://open.spotify.com/album/0yAkS28Cl4QtLaxRKVc9VZ) | 3:03 | 2022-08-19 |  |
+| [Kitty & I](https://open.spotify.com/track/1CEvoEip9uA8w5Or4Pf7G3) | [Chloe Bodur](https://open.spotify.com/artist/3HFE3MznHoHRI5kwxeW1GU) | [Kitty & I](https://open.spotify.com/album/0yAkS28Cl4QtLaxRKVc9VZ) | 3:03 | 2022-08-19 | 2022-09-23 |
 | [KLM](https://open.spotify.com/track/61kUJ5SyDid5ujv4ZyrIjU) | [MisterKay](https://open.spotify.com/artist/1rd2uaxe75DEeIz8AnlyLN) | [KLM](https://open.spotify.com/album/7M8t6y4yEeARY88jrW1uEY) | 2:29 | 2022-08-10 | 2022-09-15 |
 | [Know It's Wrong](https://open.spotify.com/track/4QEtedNdEUJSusAF0m1NOu) | [Skylar Stecker](https://open.spotify.com/artist/6f6VAs9A49Er8jbbCUjAH0) | [Know It's Wrong](https://open.spotify.com/album/39K9QGEVT1iQnTgf5czaZ8) | 3:23 | 2022-06-02 | 2022-08-20 |
 | [Ku](https://open.spotify.com/track/0xrtN6x8Z9OC2gd6M8PMQe) | [LNDFK](https://open.spotify.com/artist/2PyFLSnE2J670nBHdmwil4) | [Ku](https://open.spotify.com/album/06SAhgXQnhnhjCgDoUvMd1) | 4:35 | 2022-01-19 | 2022-03-03 |
@@ -422,7 +422,7 @@
 | [Moments Ago](https://open.spotify.com/track/6OHfVVT9bIFWizu3XhSg3P) | [JJ Adrian](https://open.spotify.com/artist/4crJ8wTee0AgPI72R7YS77) | [Moments Ago / Yesterday Feels](https://open.spotify.com/album/77obPp4tcowHZwET3NGtBB) | 2:42 | 2022-04-27 | 2022-06-10 |
 | [Mona Lisa](https://open.spotify.com/track/7FDrxmRDLKUnt0hcZkaHvO) | [Meaghan Maples](https://open.spotify.com/artist/5FA6mWNzm3ecpLGip159LP) | [Mona Lisa](https://open.spotify.com/album/08y3tRgGzJ5jVoIC4QWqCK) | 2:50 | 2022-04-13 | 2022-05-27 |
 | [MORE](https://open.spotify.com/track/2Ed33NZQd9I8DtysknOOcV) | [Nina Chiodin](https://open.spotify.com/artist/7vInCYXueIYbgdGjxESYXK) | [MORE](https://open.spotify.com/album/3yDQidjyrpi9tjTmFvjlH1) | 3:16 | 2022-03-02 | 2022-04-28 |
-| [More Than Friends](https://open.spotify.com/track/4mROUR22BSJu4FoVni8mFp) | [Talii](https://open.spotify.com/artist/4l3RqT4ysMcYdjdPEig59L) | [More Than Friends](https://open.spotify.com/album/3Y8rNzKIvhqkM0iUdlESqe) | 2:47 | 2022-08-26 |  |
+| [More Than Friends](https://open.spotify.com/track/4mROUR22BSJu4FoVni8mFp) | [Talii](https://open.spotify.com/artist/4l3RqT4ysMcYdjdPEig59L) | [More Than Friends](https://open.spotify.com/album/3Y8rNzKIvhqkM0iUdlESqe) | 2:47 | 2022-08-26 | 2022-09-23 |
 | [More!](https://open.spotify.com/track/2HUFYGgONkghxRMcZx82ut) | [Zavier O'Keith](https://open.spotify.com/artist/2UVj3KVaby1WqCXPH7cwTR) | [Interlude I: Hours](https://open.spotify.com/album/42aH89r2MIDs9RntnlfPOg) | 3:45 | 2022-03-30 | 2022-05-12 |
 | [Morning Coffee](https://open.spotify.com/track/4g32SGaFLUyj0TgwoIt1OX) | [Isak Thomas and The Stoop Boys](https://open.spotify.com/artist/7gxsKHFFOFtx2zpx2Ur5Sa), [connor](https://open.spotify.com/artist/7DdiQ4GtU0voZdZKPzFKFl), [Johnny Cattini](https://open.spotify.com/artist/1NTNDi3hpUfwBPz3taaaCv) | [Morning Coffee](https://open.spotify.com/album/63xB8Wz2IS1gO76vh74yDq) | 4:34 | 2021-12-01 | 2022-01-13 |
 | [MOVIE](https://open.spotify.com/track/5h1JCPLweD5Mtr7q78Hg9B) | [Ré Alissa](https://open.spotify.com/artist/54Mgnc12eqv2hqz9YmRNOA) | [MOVIE](https://open.spotify.com/album/0ahdqqtKUVxO8CYsVTbox9) | 2:55 | 2022-01-12 | 2022-02-10 |
@@ -475,6 +475,7 @@
 | [Over U](https://open.spotify.com/track/2c1xEMyAW0Y9wGiWvvNRws) | [Jay Isaiah](https://open.spotify.com/artist/0oMty0VPLJbB8WAQ8otDAs), [Roderick Porter](https://open.spotify.com/artist/7Lcln0AXqNHMahrca8KVpy) | [Over U](https://open.spotify.com/album/7xqNjgPEQFQmlKKCxdUZEB) | 2:49 | 2022-04-27 | 2022-07-02 |
 | [Over You](https://open.spotify.com/track/1TU2FUSp6Yq72aOLMNosZr) | [Maya Mor](https://open.spotify.com/artist/3ErltUmjiO9wBatFNJbv3V) | [Over You](https://open.spotify.com/album/4aMa2Q0nbmILQRwLvbJ4VH) | 2:21 | 2022-01-12 | 2022-02-03 |
 | [Overgold](https://open.spotify.com/track/74vzcgYIdZhdyrgZcaVnAy) | [Sebastian Mikael](https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf) | [Overgold](https://open.spotify.com/album/5oW0Zsl8PcoaWXEENCIVi6) | 3:15 | 2022-09-09 |  |
+| [Pain In My Voice](https://open.spotify.com/track/2bfJu4MiQBfJNGH1HCDoUX) | [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT) | [Pain In My Voice](https://open.spotify.com/album/4KhipHygaz7sHCtY8X0PQs) | 2:37 | 2022-09-22 |  |
 | [Palo Santo](https://open.spotify.com/track/0rT1uRsIdsIht4deJOlF0z) | [Saint Joshua](https://open.spotify.com/artist/5dSZ45x1qKuQFU9L6cODmz) | [Palo Santo](https://open.spotify.com/album/3iDJodyAXkwE76Z3NNt8W8) | 2:55 | 2022-02-02 | 2022-04-07 |
 | [Pandemia](https://open.spotify.com/track/6TM8mafPCp7BfQDwvPe6MG) | [Elujay](https://open.spotify.com/artist/1CgbNAF3Stnz1Tpipu3xdO) | [Pandemia](https://open.spotify.com/album/3nr0Km2WewEH7Sd3qR4Mdy) | 1:49 | 2022-01-19 | 2022-03-03 |
 | [Pantone 17 13 30](https://open.spotify.com/track/2GeR7M97pCrWrMh8d6BlrF) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y1](https://open.spotify.com/album/0xlpkNFvbonkCBiAZu0AdM) | 3:06 | 2022-03-11 | 2022-05-12 |
@@ -531,6 +532,7 @@
 | [Right](https://open.spotify.com/track/19Ws0pVsWp8VTwvvL9SBtR) | [Bri Feel](https://open.spotify.com/artist/2bFe43J9gVry0s8sNN8Jet) | [Right](https://open.spotify.com/album/6VLiJ8APTZg8Em7CImHVdY) | 4:16 | 2021-12-01 | 2022-01-13 |
 | [RIP](https://open.spotify.com/track/2uRFxSw7uEN9vlGHjwoS29) | [Benita](https://open.spotify.com/artist/7eg1HMzWrYIgVFtoq4UZZA) | [SCARLET](https://open.spotify.com/album/2r4VnfYwKcsNFoBlwIhW1k) | 2:03 | 2022-03-11 | 2022-05-12 |
 | [RISE](https://open.spotify.com/track/5pvQJtNSJH28ex4qFLQi69) | [Noah Slee](https://open.spotify.com/artist/2inX1svE5swPuIBIJdrFyo), [L V J](https://open.spotify.com/artist/6nbOYUQOlOoU5C0p2I6zGk) | [RISE](https://open.spotify.com/album/7CeHWqHwSeRkV0XY1GePBN) | 3:34 | 2022-01-26 | 2022-03-31 |
+| [Risk It All](https://open.spotify.com/track/5eaZ2M4cg70JmT5JLOCZvT) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Risk It All](https://open.spotify.com/album/0bjz2600aSXHJFxc5DlOVh) | 2:39 | 2022-09-22 |  |
 | [Risking It All](https://open.spotify.com/track/1YzOPWIImEHR9MBSOsy3xN) | [Romeyo Wilson](https://open.spotify.com/artist/2dlixKsISNrgfVBQJzg3VJ), [Kiki Rowe](https://open.spotify.com/artist/3FHeKI9kIuqPffmhyrcHuP) | [Risking It All](https://open.spotify.com/album/4ZeKP8mcR8tkpiKcIqIgeB) | 3:10 | 2022-06-09 | 2022-09-02 |
 | [RITUAL](https://open.spotify.com/track/6v7pPqAP2ZkYPjWKylEAo4) | [BLCKNOISE](https://open.spotify.com/artist/5F61uHswUA4QRC4HEKELlK) | [RITUAL](https://open.spotify.com/album/0pBysGgbIqiqNaL7Iestau) | 3:49 | 2022-01-12 | 2022-02-17 |
 | [ROLLA](https://open.spotify.com/track/0E1ECahwlKkFkoi5uFHfRB) | [Liza](https://open.spotify.com/artist/7CeUn1UNtIFSZIIBNXV8jk) | [ROLLA](https://open.spotify.com/album/29FTSpA2recQP47Z4H6Qqm) | 3:52 | 2021-12-01 | 2022-01-13 |

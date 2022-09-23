@@ -4,7 +4,7 @@
 
 > All of your favorite Disney hits, including songs from Encanto\. Stream Encanto on Disney+.
 
-129 songs - 6 hr 25 min - [published](https://open.spotify.com/playlist/636MTeCEICQctVDwXtEgUe)
+130 songs - 6 hr 28 min - [published](https://open.spotify.com/playlist/636MTeCEICQctVDwXtEgUe)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [The Mad Tea Party / The Unbirthday Song / Twinkle Twinkle / Clean Cup Move Down / Mad Watch](https://open.spotify.com/track/0uDuqVAWCOYEH4qM3vWe1g) | [Kathryn Beaumont](https://open.spotify.com/artist/762gpacQ6WcT75zlkrc3Ls), [Edwynn](https://open.spotify.com/artist/3XX7VQJvnPuFrCSaHgexf5), [James Macdonald](https://open.spotify.com/artist/6Wr4qA7iyTKRag1Pyyuv2g), [Jerry Colonna](https://open.spotify.com/artist/4Rg7sNSGzUzaP1qkc5qVhc) | [Alice In Wonderland \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1Sfipn1VH7Q0ZSPfXz7oOx) | 4:31 | 2022-05-26 |  |
 | [The Rose Song](https://open.spotify.com/track/4qCySCQyiyLT2mVUOM2zdS) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [High School Musical: The Musical: The Series \(Original Soundtrack/Season 2\)](https://open.spotify.com/album/5j8ccf2ePPuzngz8j1xcVM) | 2:54 | 2022-04-01 |  |
 | [The World Es Mi Familia](https://open.spotify.com/track/7FOS31xq9jv4cXWtp6Jnzw) | [Anthony Gonzalez](https://open.spotify.com/artist/2q10Wskc3lPYmEuV7rzMCv), [Antonio Sol](https://open.spotify.com/artist/7GmYpAwLQ2PyE1BubvUBsM) | [Coco \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7nMexBA71PdwPnfqS5Yji5) | 0:50 | 2022-04-01 |  |
+| [This Is Halloween](https://open.spotify.com/track/01YROQCnF1AQm7SCWJmD2o) | [The Citizens of Halloween](https://open.spotify.com/artist/164hs3x1Tsp3FgJWNHee1r) | [Nightmare Before Christmas Special Edition](https://open.spotify.com/album/32hXKuDkMnpQaOI67xQj86) | 3:16 | 2022-09-22 |  |
 | [Touch The Sky \- From "Brave"/Soundtrack](https://open.spotify.com/track/5yyqx4brn6Bm9U1Rj9ENnz) | [Julie Fowlis](https://open.spotify.com/artist/3IqWMVFksTbtL2EaFi5o8k) | [Brave](https://open.spotify.com/album/7vSvdmI0szfMcn7LyVjp0R) | 2:31 | 2022-04-01 |  |
 | [Trashin' The Camp](https://open.spotify.com/track/4qn3XK6IW2cKjWjSk37t6p) | [Rosie O'Donnell](https://open.spotify.com/artist/4V8U8U6LwsHGyRTLCt9t19), [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp), [Cast \- Tarzan](https://open.spotify.com/artist/3KA60L5qrdSZ0BYad8hmK2) | [Tarzan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1zszC1x9HYKxUCKVa62p7C) | 2:15 | 2022-04-01 |  |
 | [Try Everything](https://open.spotify.com/track/1N3dZ7TTWO6VcD4Y3hHYLZ) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Zootopia \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3X6netsswLt0U97Doga56C) | 3:16 | 2022-04-01 |  |

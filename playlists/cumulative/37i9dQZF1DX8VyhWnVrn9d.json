@@ -692,6 +692,24 @@
     },
     {
       "album": {
+        "name": "Jacarandosa",
+        "url": "https://open.spotify.com/album/3QXuIFZnAGmlahOic59KsT"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256420,
+      "name": "Hotel California",
+      "url": "https://open.spotify.com/track/7aGYG6w2hMxiJXot3LZVTS"
+    },
+    {
+      "album": {
         "name": "Grandes Bandas",
         "url": "https://open.spotify.com/album/6DejTyQTl57yvFotq3l4xg"
       },
@@ -703,7 +721,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 257000,
       "name": "Hotel California",
       "url": "https://open.spotify.com/track/3h2HTBcEqFAlHsY8gJJrGn"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rCrO4CFRfM.md) - [plain]
 
 > Relax to acoustic versions of your favorite rock songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 829,011 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 829,273 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rCrO4CFRfM.md) - [plain]
 | 36 | [When You're Gone \- Acoustic Version](https://open.spotify.com/track/3fcOPNiuzOsjwaguaxrAon) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [12" Masters \- The Essential Mixes](https://open.spotify.com/album/2jJ6cDLNPwLyVNC1qqVwOT) | 3:57 |
 | 37 | [Kill The Noise \- Acoustic](https://open.spotify.com/track/7oLfJtNvOFHYo02uProOfr) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Kill The Noise \(Acoustic\)](https://open.spotify.com/album/4NuxF7PTPbjtboHpQ6b3NI) | 2:41 |
 | 38 | [Bored To Death \(Acoustic\)](https://open.spotify.com/track/2hQRxgtDliE6eD7NmEfpuD) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [California \(Deluxe Edition\)](https://open.spotify.com/album/0jLf8ecN5HjstQqPAjJlsS) | 3:55 |
-| 39 | [Something Human \(Acoustic\)](https://open.spotify.com/track/1D2ISRyHAs9QBHIWVQIbgM) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Simulation Theory \(Super Deluxe\)](https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC) | 3:46 |
-| 40 | [Legendary \- Acoustic](https://open.spotify.com/track/5l4O7VzsZhKpAJO8w2jrC9) | [Welshly Arms](https://open.spotify.com/artist/1xKrH6GSh9CJh8nYwbqW7B) | [Legendary \(Acoustic\)](https://open.spotify.com/album/1hj9cR7EcEIisOX3eeke2x) | 3:36 |
+| 39 | [Legendary \- Acoustic](https://open.spotify.com/track/5l4O7VzsZhKpAJO8w2jrC9) | [Welshly Arms](https://open.spotify.com/artist/1xKrH6GSh9CJh8nYwbqW7B) | [Legendary \(Acoustic\)](https://open.spotify.com/album/1hj9cR7EcEIisOX3eeke2x) | 3:36 |
+| 40 | [Something Human \(Acoustic\)](https://open.spotify.com/track/1D2ISRyHAs9QBHIWVQIbgM) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Simulation Theory \(Super Deluxe\)](https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC) | 3:46 |
 | 41 | [In Bloom \(Acoustic\)](https://open.spotify.com/track/0MkIn6BHsrQswE5v44kToW) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [In Bloom: Versions](https://open.spotify.com/album/6UjgPXbovoEObPAYEfuC85) | 3:32 |
 | 42 | [Scumbag \- Acoustic](https://open.spotify.com/track/37Eb16TFeVB2dxkoEnzW4W) | [Goody Grace](https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30) | [Scumbag \(Acoustic\)](https://open.spotify.com/album/3bauwJBwUAGFxVCoajMIKv) | 3:29 |
 | 43 | [Shooting Stars \- in the Woods](https://open.spotify.com/track/69mwPY097BcpVDYHOFIAT7) | [Rival Sons](https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf) | [Shooting Stars \(in the Woods\)](https://open.spotify.com/album/3PDSx1HCnP3I2byYCTjrG1) | 4:23 |
 | 44 | [I Sat by the Ocean \- Live Acoustic](https://open.spotify.com/track/7mGAH8wfCljwG0tBi9WMGJ) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [...Like Cologne \(Spotify Exclusive\)](https://open.spotify.com/album/4emoC6C9fCDkWPdTuxN9an) | 4:35 |
 | 45 | [Island in the Sun \- Live from Spotify NYC](https://open.spotify.com/track/6QuYC4Vcr3myWxZRJxg4NZ) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Spotify Sessions](https://open.spotify.com/album/148mo9e8hv2UZsxS2YKf9T) | 3:44 |
-| 46 | [Ana's Song \(Open Fire\) \- Acoustic Re\-Mix](https://open.spotify.com/track/4FM8TeKWsro8yjzbpDwocN) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [The Best Of \- Volume One](https://open.spotify.com/album/5MgR5qQCxsusIOui4S2io5) | 3:50 |
-| 47 | [7 \- Acoustic](https://open.spotify.com/track/2Nz14MtLy82a3togG2EI8l) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [7 \(Acoustic\)](https://open.spotify.com/album/6IKwv5Fu9q2xAwAIKDlakX) | 4:12 |
+| 46 | [7 \- Acoustic](https://open.spotify.com/track/2Nz14MtLy82a3togG2EI8l) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [7 \(Acoustic\)](https://open.spotify.com/album/6IKwv5Fu9q2xAwAIKDlakX) | 4:12 |
+| 47 | [Ana's Song \(Open Fire\) \- Acoustic Re\-Mix](https://open.spotify.com/track/4FM8TeKWsro8yjzbpDwocN) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [The Best Of \- Volume One](https://open.spotify.com/album/5MgR5qQCxsusIOui4S2io5) | 3:50 |
 | 48 | [bloody valentine \- Acoustic](https://open.spotify.com/track/4Uah1pyFsLEsw4eauJvuNF) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [bloody valentine \(Acoustic\)](https://open.spotify.com/album/6b3coyUziyxHqt8h5UiSkU) | 3:15 |
 | 49 | [Space \- Acoustic Version](https://open.spotify.com/track/63z4jrxNSqlNkYPzGzY3Od) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [Space \(Orchestral Version\)](https://open.spotify.com/album/620D8EVhCCJFc0Qif0uHnd) | 4:05 |
 | 50 | [Into The Fire \- Acoustic Version](https://open.spotify.com/track/2Cee261lwgFVYq6TGd2g1P) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Into The Fire \(Acoustic Version\)](https://open.spotify.com/album/6jbTKyck3sf5vmvjSzvzYL) | 3:28 |
 
-Snapshot ID: `MTY2Mzc0MDM5OSwwMDAwMDAwMGUyYjBlYTU2NGY0YjQ1YzY2NjQ1ZmU4YTFlY2QwNDIx`
+Snapshot ID: `MTY2Mzg0MTg2MiwwMDAwMDAwMGQyN2Y4N2QyNmUyMDc1YzU3Y2I1ODAwNjU5MzE0ZGYy`

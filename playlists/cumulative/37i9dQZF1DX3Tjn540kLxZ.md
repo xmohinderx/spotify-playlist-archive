@@ -4,7 +4,7 @@
 
 > bops you can always rely on ◡̈
 
-330 songs - 18 hr 39 min - [published](https://open.spotify.com/playlist/4HyXgaWQ9jg50Del0ne7dK)
+331 songs - 18 hr 42 min - [published](https://open.spotify.com/playlist/4HyXgaWQ9jg50Del0ne7dK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -307,10 +307,11 @@
 | [Throwaway \(with Clairo\)](https://open.spotify.com/track/2MnEG4htbbdfoUsyzxZ4BM) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Dawn](https://open.spotify.com/album/57TxOlFzG9yvAKEdjjm2yB) | 3:00 | 2022-03-31 | 2022-04-16 |
 | [Tom's Diner](https://open.spotify.com/track/0oA9wBGDY4uyILLg4GymWP) | [AnnenMayKantereit](https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m), [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Tom's Diner](https://open.spotify.com/album/7ClPGbXY81egfNn8H1hDAg) | 4:29 | 2022-03-16 |  |
 | [Too Late Now](https://open.spotify.com/track/6OH7Zxopr4NxIVPfORUEoR) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Too Late Now / Oh No](https://open.spotify.com/album/0c1zD1xhhczlpTNzhuOtvS) | 3:29 | 2021-12-22 | 2022-07-28 |
+| [touch tank](https://open.spotify.com/track/1S3ZeV4CEdqbzBYwu0pxE7) | [quinnie](https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e) | [touch tank](https://open.spotify.com/album/4XsixtHgUzRfUd9zrhX5eh) | 2:59 | 2022-07-04 |  |
 | [touch tank](https://open.spotify.com/track/7DrzZN5jaDyE0a0tVuVWnj) | [quinnie](https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e) | [touch tank](https://open.spotify.com/album/4cH0G6g1NcPguHQ8aOk1h6) | 2:59 | 2022-07-04 | 2022-09-16 |
 | [Truth](https://open.spotify.com/track/0gOA1SWEZhRECJRguyxFFZ) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Truth](https://open.spotify.com/album/5l710vNzBqEqWo7KaXvBr1) | 2:51 | 2022-03-31 | 2022-07-04 |
 | [Try a Little Tenderness](https://open.spotify.com/track/0JykQXWGNwVGjV2HleUPuo) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [Try a Little Tenderness](https://open.spotify.com/album/7pNPnsQmwf86kDUcUbJQH0) | 3:12 | 2022-03-31 | 2022-04-15 |
-| [Ur Mum](https://open.spotify.com/track/4ug5wsIcbAPBun8TCKn2t6) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Leg](https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO) | 3:21 | 2022-04-08 |  |
+| [Ur Mum](https://open.spotify.com/track/4ug5wsIcbAPBun8TCKn2t6) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Leg](https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO) | 3:21 | 2022-04-08 | 2022-09-23 |
 | [Ur Mum](https://open.spotify.com/track/7CLIr0lZ4GWeHTaj9lNkXM) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Ur Mum](https://open.spotify.com/album/30Q55cfZGvp8AZJqUM4BzG) | 3:21 | 2022-07-04 | 2022-07-27 |
 | [VROOM VROOM](https://open.spotify.com/track/7BKIfBT1VKkBcSsACK1Az8) | [Mickey Darling](https://open.spotify.com/artist/3uwUtL5kPSO2mpOhU4SiWz) | [VROOM VROOM](https://open.spotify.com/album/5uhLcex9bi6Z84KsbR3jIc) | 3:06 | 2021-12-22 | 2022-07-29 |
 | [Want Me](https://open.spotify.com/track/3gZyxP7keADPPc8lEJWehW) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [Want Me](https://open.spotify.com/album/6TcACn0I4bI5cdehIQvCND) | 4:18 | 2022-04-28 |  |

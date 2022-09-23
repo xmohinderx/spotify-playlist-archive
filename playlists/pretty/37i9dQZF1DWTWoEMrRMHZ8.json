@@ -1,12 +1,12 @@
 {
   "description": "As belas novidades da MPB. Foto: Z\u00e9 Ramalho",
-  "num_followers": 323324,
+  "num_followers": 323362,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY5MjQwMCwwMDAwMDAwMDQ2YjdhNzhiY2EyMWY1OTZhOGI4NGFiNDZlNTJmOTQ5",
+  "snapshot_id": "MTY2MjY5MjQwMCwwMDAwMDAwMDdlMTBjZDJmMTNkNjUzZDU2YTg1M2EwZjQwNDc2OWU2",
   "tracks": [
     {
       "added_at": "2022-09-09 03:00:00",
@@ -335,22 +335,6 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
-        "name": "Meu Coco",
-        "url": "https://open.spotify.com/album/2WeCBdtzqLePJpI28q0mjz"
-      },
-      "artists": [
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        }
-      ],
-      "duration_ms": 212014,
-      "name": "Sem Samba N\u00e3o D\u00e1",
-      "url": "https://open.spotify.com/track/1pIwgYq2uM1Q2nu9DTODGP"
-    },
-    {
-      "added_at": "2022-09-09 03:00:00",
-      "album": {
         "name": "Real",
         "url": "https://open.spotify.com/album/23UR4Z6ZHtQQM0hsMobUY6"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 202892,
       "name": "Real",
       "url": "https://open.spotify.com/track/3KG82gCnam0YCY22Af3Ma7"
+    },
+    {
+      "added_at": "2022-09-09 03:00:00",
+      "album": {
+        "name": "Meu Coco",
+        "url": "https://open.spotify.com/album/2WeCBdtzqLePJpI28q0mjz"
+      },
+      "artists": [
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        }
+      ],
+      "duration_ms": 212014,
+      "name": "Sem Samba N\u00e3o D\u00e1",
+      "url": "https://open.spotify.com/track/1pIwgYq2uM1Q2nu9DTODGP"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -783,18 +783,22 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
-        "name": "Jasmim Parte 1",
-        "url": "https://open.spotify.com/album/6YRFjsWP08K5hNWocg7o2Q"
+        "name": "Paula e Bebeto",
+        "url": "https://open.spotify.com/album/0uiSAseDeXMBFIjAUAqQ87"
       },
       "artists": [
         {
-          "name": "Gabriel da Rosa",
-          "url": "https://open.spotify.com/artist/010biSbu4uiSzu9SKjcKhF"
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        },
+        {
+          "name": "Criolo",
+          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
         }
       ],
-      "duration_ms": 199693,
-      "name": "Jasmim Parte 1",
-      "url": "https://open.spotify.com/track/2K7avC9Vm9wnXqTdsG5SW9"
+      "duration_ms": 191418,
+      "name": "Paula e Bebeto",
+      "url": "https://open.spotify.com/track/62eMpHTC584YQztqxELhmK"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -815,22 +819,18 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
-        "name": "Paula e Bebeto",
-        "url": "https://open.spotify.com/album/0uiSAseDeXMBFIjAUAqQ87"
+        "name": "Jasmim Parte 1",
+        "url": "https://open.spotify.com/album/6YRFjsWP08K5hNWocg7o2Q"
       },
       "artists": [
         {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
-        },
-        {
-          "name": "Criolo",
-          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
+          "name": "Gabriel da Rosa",
+          "url": "https://open.spotify.com/artist/010biSbu4uiSzu9SKjcKhF"
         }
       ],
-      "duration_ms": 191418,
-      "name": "Paula e Bebeto",
-      "url": "https://open.spotify.com/track/62eMpHTC584YQztqxELhmK"
+      "duration_ms": 199693,
+      "name": "Jasmim Parte 1",
+      "url": "https://open.spotify.com/track/2K7avC9Vm9wnXqTdsG5SW9"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -887,54 +887,6 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
-        "name": "Bryan Behr \u2022 Ao vivo em S\u00e3o Paulo",
-        "url": "https://open.spotify.com/album/0YiT4eheEc4IClnZKfSjna"
-      },
-      "artists": [
-        {
-          "name": "Bryan Behr",
-          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
-        }
-      ],
-      "duration_ms": 230953,
-      "name": "conversas de travesseiro - Ao vivo em S\u00e3o Paulo",
-      "url": "https://open.spotify.com/track/1emrkeYwsLgQCz0WflpEOs"
-    },
-    {
-      "added_at": "2022-09-09 03:00:00",
-      "album": {
-        "name": "Morena Bonita",
-        "url": "https://open.spotify.com/album/3SrB4JGQMMwvBfeHjoy3p0"
-      },
-      "artists": [
-        {
-          "name": "Anna Setton",
-          "url": "https://open.spotify.com/artist/7er8R2Few8v9jYtIY2vh9L"
-        }
-      ],
-      "duration_ms": 179517,
-      "name": "Morena Bonita",
-      "url": "https://open.spotify.com/track/5xMM1Dlkw74HHXtRHn3bc9"
-    },
-    {
-      "added_at": "2022-09-09 03:00:00",
-      "album": {
-        "name": "Ao Vivo no Montreux Jazz Festival 1997",
-        "url": "https://open.spotify.com/album/6TUhbe62fmri26xrurl58M"
-      },
-      "artists": [
-        {
-          "name": "Djavan",
-          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
-        }
-      ],
-      "duration_ms": 249845,
-      "name": "Seca - Ao Vivo no Montreux Jazz Festival 1997",
-      "url": "https://open.spotify.com/track/55sJHFHTpLSrBVy8OSHsVy"
-    },
-    {
-      "added_at": "2022-09-09 03:00:00",
-      "album": {
         "name": "Preciso Me Encontrar",
         "url": "https://open.spotify.com/album/168Yh2b1a17bk6sCoQwllU"
       },
@@ -955,18 +907,50 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
-        "name": "Entre Homens e Autom\u00f3veis",
-        "url": "https://open.spotify.com/album/2Wa5PKMLUefVYZWQomYHv6"
+        "name": "Bryan Behr \u2022 Ao vivo em S\u00e3o Paulo",
+        "url": "https://open.spotify.com/album/0YiT4eheEc4IClnZKfSjna"
       },
       "artists": [
         {
-          "name": "Brolo Gonzalez",
-          "url": "https://open.spotify.com/artist/2cvrwb2vQUWPlPy53354Bg"
+          "name": "Bryan Behr",
+          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
         }
       ],
-      "duration_ms": 185073,
-      "name": "Pois \u00e9",
-      "url": "https://open.spotify.com/track/2sVXcLNGtYwSbOO5I8xpAb"
+      "duration_ms": 230953,
+      "name": "conversas de travesseiro - Ao vivo em S\u00e3o Paulo",
+      "url": "https://open.spotify.com/track/1emrkeYwsLgQCz0WflpEOs"
+    },
+    {
+      "added_at": "2022-09-09 03:00:00",
+      "album": {
+        "name": "Ao Vivo no Montreux Jazz Festival 1997",
+        "url": "https://open.spotify.com/album/6TUhbe62fmri26xrurl58M"
+      },
+      "artists": [
+        {
+          "name": "Djavan",
+          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
+        }
+      ],
+      "duration_ms": 249845,
+      "name": "Seca - Ao Vivo no Montreux Jazz Festival 1997",
+      "url": "https://open.spotify.com/track/55sJHFHTpLSrBVy8OSHsVy"
+    },
+    {
+      "added_at": "2022-09-09 03:00:00",
+      "album": {
+        "name": "Morena Bonita",
+        "url": "https://open.spotify.com/album/3SrB4JGQMMwvBfeHjoy3p0"
+      },
+      "artists": [
+        {
+          "name": "Anna Setton",
+          "url": "https://open.spotify.com/artist/7er8R2Few8v9jYtIY2vh9L"
+        }
+      ],
+      "duration_ms": 179517,
+      "name": "Morena Bonita",
+      "url": "https://open.spotify.com/track/5xMM1Dlkw74HHXtRHn3bc9"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -983,6 +967,22 @@
       "duration_ms": 152801,
       "name": "Esse Amor Chegou",
       "url": "https://open.spotify.com/track/43qZK77WZUsK6c2HOvLXzj"
+    },
+    {
+      "added_at": "2022-09-09 03:00:00",
+      "album": {
+        "name": "Entre Homens e Autom\u00f3veis",
+        "url": "https://open.spotify.com/album/2Wa5PKMLUefVYZWQomYHv6"
+      },
+      "artists": [
+        {
+          "name": "Brolo Gonzalez",
+          "url": "https://open.spotify.com/artist/2cvrwb2vQUWPlPy53354Bg"
+        }
+      ],
+      "duration_ms": 185073,
+      "name": "Pois \u00e9",
+      "url": "https://open.spotify.com/track/2sVXcLNGtYwSbOO5I8xpAb"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
-        "name": "Serotonina",
-        "url": "https://open.spotify.com/album/1BUJAgFFEA6ebbaFU8Fipc"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Donato",
-          "url": "https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi"
-        }
-      ],
-      "duration_ms": 224041,
-      "name": "\u00d3rbita",
-      "url": "https://open.spotify.com/track/686veWKRzmwYCFpisNUulz"
-    },
-    {
-      "added_at": "2022-09-09 03:00:00",
-      "album": {
         "name": "Aqui em Casa (Ep 02)",
         "url": "https://open.spotify.com/album/55d26HxQZEQLu4Kny8Ce6B"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 234405,
       "name": "Aqui em Casa",
       "url": "https://open.spotify.com/track/3AtSBHBXc5rN50VrJQmTTe"
+    },
+    {
+      "added_at": "2022-09-09 03:00:00",
+      "album": {
+        "name": "Serotonina",
+        "url": "https://open.spotify.com/album/1BUJAgFFEA6ebbaFU8Fipc"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Donato",
+          "url": "https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi"
+        }
+      ],
+      "duration_ms": 224041,
+      "name": "\u00d3rbita",
+      "url": "https://open.spotify.com/track/686veWKRzmwYCFpisNUulz"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
+        "name": "A Palo Seco (Radio Edit)",
+        "url": "https://open.spotify.com/album/2GX7fBHfQCzr0jhwvYAdXm"
+      },
+      "artists": [
+        {
+          "name": "Ana Ca\u00f1as",
+          "url": "https://open.spotify.com/artist/4v1mao101nIWvxzotCSKyz"
+        }
+      ],
+      "duration_ms": 215660,
+      "name": "A Palo Seco - Radio Edit",
+      "url": "https://open.spotify.com/track/6LJF62VztdsYHSLanjYvgW"
+    },
+    {
+      "added_at": "2022-09-09 03:00:00",
+      "album": {
         "name": "Se N\u00e3o For Amor",
         "url": "https://open.spotify.com/album/58tRsnbneeUALoTYhCYbr7"
       },
@@ -1351,22 +1367,6 @@
       "duration_ms": 296000,
       "name": "Se N\u00e3o For Amor",
       "url": "https://open.spotify.com/track/7HrlWBqZOmsS57YKvkegkq"
-    },
-    {
-      "added_at": "2022-09-09 03:00:00",
-      "album": {
-        "name": "A Palo Seco (Radio Edit)",
-        "url": "https://open.spotify.com/album/2GX7fBHfQCzr0jhwvYAdXm"
-      },
-      "artists": [
-        {
-          "name": "Ana Ca\u00f1as",
-          "url": "https://open.spotify.com/artist/4v1mao101nIWvxzotCSKyz"
-        }
-      ],
-      "duration_ms": 215660,
-      "name": "A Palo Seco - Radio Edit",
-      "url": "https://open.spotify.com/track/6LJF62VztdsYHSLanjYvgW"
     },
     {
       "added_at": "2022-09-09 03:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17dmzi8A5FV.md) - [plain]
 
 > Remember the biggest boy bands of the 90s? They are all here!
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,618 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,761 likes - 50 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,12 +25,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17dmzi8A5FV.md) - [plain]
 | 15 | [If I Let You Go \- Radio Edit](https://open.spotify.com/track/3St0RlsL0Z0klK1mqWakQm) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Westlife](https://open.spotify.com/album/03zaputfmJ3wwrKh6bHcTN) | 3:41 |
 | 16 | [I Do \(Cherish You\)](https://open.spotify.com/track/6XgwPf0cqjySCMsOmQq4t6) | [98º](https://open.spotify.com/artist/6V03b3Y36lolYP2orXn8mV) | [98 Degrees And Rising](https://open.spotify.com/album/16oW7he0sWe3dBxV2XaQx6) | 3:46 |
 | 17 | [Keep On Movin'](https://open.spotify.com/track/0mrU1w2UMIZnR2I6oguwGz) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG), [Steve Mac](https://open.spotify.com/artist/78E5Zx38dgv90Q7VN2AplD) | [Invincible](https://open.spotify.com/album/72qAXkZ8keSUHe55hhEVQG) | 3:17 |
-| 18 | [Step by Step](https://open.spotify.com/track/6J6RWKCPN5RFKHUKEUFjxS) | [New Kids On The Block](https://open.spotify.com/artist/55qiaow2sDYtjqu1mwRua6) | [Step By Step](https://open.spotify.com/album/4dCdnfD0shXGuHtyTOtx8q) | 4:27 |
+| 18 | [I Wanna Sex You Up \- Single Mix](https://open.spotify.com/track/1kPBHRXyXdrtYfUfeRwBko) | [Color Me Badd](https://open.spotify.com/artist/1QtIfAa6y7w2JhxYJhYeUG) | [C.M.B.](https://open.spotify.com/album/17mrdLXkhmlY36jRm9cUbw) | 3:56 |
 | 19 | [No Matter What](https://open.spotify.com/track/5KVPav34JaKkXwBTJHnPgo) | [Boyzone](https://open.spotify.com/artist/6X9aYHnQ75YI8o08aoa0iS) | [Where We Belong](https://open.spotify.com/album/0CIOLuLFn9fzEltziUqJyz) | 4:34 |
 | 20 | [Tearin' up My Heart \- Radio Edit](https://open.spotify.com/track/73q3FpQVXWk5eSUnyo83E4) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | ['N Sync UK Version](https://open.spotify.com/album/7K5qlneuWF1CcY6ERzwkLB) | 3:29 |
 | 21 | [Swear It Again \- Radio Edit](https://open.spotify.com/track/4ekWUsmWMaT5EI3VL0epBk) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Westlife](https://open.spotify.com/album/03zaputfmJ3wwrKh6bHcTN) | 4:08 |
 | 22 | [Everybody \(Backstreet's Back\) \- Radio Edit](https://open.spotify.com/track/4rTeOSYqwXNz5qPR2DUTFZ) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [This Is The End: Original Motion Picture Soundtrack](https://open.spotify.com/album/1SFKmqhTTEkE3PmSBEMpa3) | 3:44 |
-| 23 | [I Wanna Sex You Up \- Single Mix](https://open.spotify.com/track/1kPBHRXyXdrtYfUfeRwBko) | [Color Me Badd](https://open.spotify.com/artist/1QtIfAa6y7w2JhxYJhYeUG) | [C.M.B.](https://open.spotify.com/album/17mrdLXkhmlY36jRm9cUbw) | 3:56 |
+| 23 | [Step by Step](https://open.spotify.com/track/6J6RWKCPN5RFKHUKEUFjxS) | [New Kids On The Block](https://open.spotify.com/artist/55qiaow2sDYtjqu1mwRua6) | [Step By Step](https://open.spotify.com/album/4dCdnfD0shXGuHtyTOtx8q) | 4:27 |
 | 24 | [I Can Love You Like That](https://open.spotify.com/track/70d8omRI2p7qesFOiy55Ro) | [All\-4\-One](https://open.spotify.com/artist/1B8ySGDAiXTCvnJNH4HSCG) | [And the Music Speaks](https://open.spotify.com/album/3GzFhu8IwK8tNCSjCeHIjY) | 4:17 |
 | 25 | [I'll Make Love To You](https://open.spotify.com/track/61sQYdFNS6sEBYCyr1q5gn) | [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [II](https://open.spotify.com/album/1IWhZEOwEoXbOB4a40XaR3) | 3:56 |
 | 26 | [I Want You Back \- Radio Edit](https://open.spotify.com/track/221LRlPHPuevgE1tuUlof9) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | ['N Sync UK Version](https://open.spotify.com/album/7K5qlneuWF1CcY6ERzwkLB) | 3:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17dmzi8A5FV.md) - [plain]
 | 49 | [All or Nothing](https://open.spotify.com/track/1TBIHWmr1r34J2s0eSfA7U) | [O\-Town](https://open.spotify.com/artist/4zKhX6hYCQPNs406umP9Fx) | [O\-Town](https://open.spotify.com/album/2yWrBg2LjW4oPnCRQrJJLV) | 4:41 |
 | 50 | [My Everything](https://open.spotify.com/track/0bz0nJ3SztnFRKfSwFbhC6) | [98º](https://open.spotify.com/artist/6V03b3Y36lolYP2orXn8mV) | [Revelation](https://open.spotify.com/album/3cZL4sLAaAYjrY7DQl5lC9) | 3:51 |
 
-Snapshot ID: `MTY1Mjc0NjM5MywwMDAwMDAwMDU2MmEwNTA3ZTk3MTM4MTQ0Y2M5MGU5M2ZhNjY0MDhl`
+Snapshot ID: `MTY1Mjc0NjM5MywwMDAwMDAwMGU0ZWQ5MTA0Njg0YmRjNDE3YWZmMjBkYWE0MzExOGM4`

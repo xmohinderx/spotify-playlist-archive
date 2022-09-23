@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:220xv2aB3dsGxaJI1gGs7l">Hotboii</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,680,571 likes - 100 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,680,835 likes - 100 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

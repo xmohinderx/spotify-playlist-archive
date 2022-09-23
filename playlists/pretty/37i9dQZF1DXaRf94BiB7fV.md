@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 
 ### [Fresh Finds India](https://open.spotify.com/playlist/37i9dQZF1DXaRf94BiB7fV)
 
-> The best new music by independent artists and labels from India, updated every Wednesday\. Cover: Akshath, Artwork: Isu Kim
+> The best new music by Indian Indie artists, updated every Wednesday\. Cover: Akshath, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,993 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,017 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 99 | [June](https://open.spotify.com/track/7d6f9zD2juTcmHvStiYQ1T) | [Sidharth Bendi](https://open.spotify.com/artist/4qZt4u2tjGR95JC1QRfeYh) | [June](https://open.spotify.com/album/2lKJmsDAjIQyx32wbQlx6a) | 3:28 |
 | 100 | [Tera Zikr](https://open.spotify.com/track/05iQB3iUamGZrowDs7ub7D) | [Manav](https://open.spotify.com/artist/51JL41wIGc0LJonGMZcsyM) | [Tera Zikr](https://open.spotify.com/album/0hqU29dVOem2Cq04UkB5Tq) | 3:57 |
 
-Snapshot ID: `MTY2Mzc2MDU2NiwwMDAwMDAwMDZlZTgzZmE1YTI0OGFlZjA1ZWFiYjkxZmUxMDY3Yzk3`
+Snapshot ID: `MTY2Mzg2Njg3OSwwMDAwMDAwMDdlY2Y1OGY1ZDE4NWE4NTIwNGM3MGE4YWQ2NDYyZGM0`

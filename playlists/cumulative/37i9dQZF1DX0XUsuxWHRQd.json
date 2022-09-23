@@ -18754,6 +18754,24 @@
     },
     {
       "album": {
+        "name": "The Lost Tapes",
+        "url": "https://open.spotify.com/album/2mU2jRMwrsL1tG97xKoiav"
+      },
+      "artists": [
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219466,
+      "name": "Purple",
+      "url": "https://open.spotify.com/track/42qK1JWm8fDy3qHZbIZNuQ"
+    },
+    {
+      "album": {
         "name": "Purple Emoji (feat. J Cole)",
         "url": "https://open.spotify.com/album/5tcLbrane4ipoQy0liSuNH"
       },

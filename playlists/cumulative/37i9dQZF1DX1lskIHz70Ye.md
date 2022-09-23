@@ -4,7 +4,7 @@
 
 > Piezas acústicas para cenar a la luz de las velas con alguien especial.
 
-137 songs - 7 hr 2 min - [published](https://open.spotify.com/playlist/0NRIi162ZzHvIFqC70MezX)
+138 songs - 7 hr 3 min - [published](https://open.spotify.com/playlist/0NRIi162ZzHvIFqC70MezX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Lembrei de Você](https://open.spotify.com/track/2qXVRAwRPbnPOTQv9ov0Zq) | [João Callado](https://open.spotify.com/artist/6eDeimOkEXaz1QkTkRuGjB), [Maurício Massunaga](https://open.spotify.com/artist/66CvqABI3thHckYwuwxk6i) | [Lembrei de Você](https://open.spotify.com/album/7qyVZP9PsptfF9ERJe7OpL) | 4:08 | 2022-07-15 |  |
 | [Love Letter 1 \- Guitar Solo](https://open.spotify.com/track/2q7sQMlVltYFHo479M0X2o) | [Ulrich Steier](https://open.spotify.com/artist/53d66ja0O9INgwNvA4dIIY) | [Love Letter 1 \(Guitar Solo\)](https://open.spotify.com/album/2yW3sBoJlFPbHXHxuMiSxC) | 3:39 | 2022-09-02 |  |
 | [Love Letter 2 \- Guitar Solo](https://open.spotify.com/track/3Ja1ilSiwlj5NisHVbfCSV) | [Ulrich Steier](https://open.spotify.com/artist/53d66ja0O9INgwNvA4dIIY) | [Love Letter 2 \(Guitar Solo\)](https://open.spotify.com/album/0EJLdJoq9IKN0MrKo5NGDu) | 2:11 | 2022-09-17 |  |
+| [Love Story \(Main Theme For Guitar\)](https://open.spotify.com/track/1duB44w73T1Sy7wLL3apCl) | [Tomas Hilber](https://open.spotify.com/artist/2pxii0UbnSs9vWOt4QcmHN) | [Love Story \(Main Theme\)](https://open.spotify.com/album/7vM1zZzyUXq2gd2k5ZP20G) | 1:49 | 2022-09-23 |  |
 | [Mais tarde](https://open.spotify.com/track/3OsoopvnzJWLErS19g6kkH) | [Margot Leavitt](https://open.spotify.com/artist/0eqVgQI4iTRtSBjclCTV5D) | [Mais tarde](https://open.spotify.com/album/76UFpZeSUJmxeefnkVmSSy) | 3:17 | 2022-03-03 |  |
 | [Maria Elena](https://open.spotify.com/track/6hBhCWOJRbY8lB9Es8iajN) | [Miles Higgins](https://open.spotify.com/artist/5tdW8sDHJ3jsFUSrEjJkn4) | [Amore](https://open.spotify.com/album/2FaBacnmmAyYE47pIiAvqT) | 2:44 | 2022-03-03 | 2022-07-22 |
 | [María Elena](https://open.spotify.com/track/10uj4OUMAm6uSylGheBhfp) | [Las Guitarras Románticas](https://open.spotify.com/artist/1ujwlcR6oyT856VONw14pD) | [Guitarras Mágicas \(En El Sonido De Los Indios Cabajaras\)](https://open.spotify.com/album/0ryTLVrwIMFxpUjNl3eDNG) | 2:40 | 2022-03-03 | 2022-07-15 |

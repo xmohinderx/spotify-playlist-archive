@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GqyyDpXu1q.md) - [plain]
 
 > Rock N' Roll Swagger Served Straight Up  / Cover: Marcus King
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,855 likes - 106 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,892 likes - 106 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GqyyDpXu1q.md) - [plain]
 | 33 | [Side Street Shakedown](https://open.spotify.com/track/6kvU0tOTfsQV94MQvsuBmq) | [The Wild Feathers](https://open.spotify.com/artist/5YENCIQVzziCFdoVWc26Bn) | [Side Street Shakedown](https://open.spotify.com/album/3YtUZAChERlSGaIkRe4jdF) | 3:27 |
 | 34 | [I Need You \(feat\. Ashley Monroe\)](https://open.spotify.com/track/4U7VPsgV5C3cz28kdWAT8u) | [The Steel Woods](https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM), [Ashley Monroe](https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP) | [All of Your Stones](https://open.spotify.com/album/3Cv9M3aOY2sU7DMfq5QbMy) | 7:09 |
 | 35 | [Welcome 2 Club XIII](https://open.spotify.com/track/0CqQEFDDgVBj4VZAH5C43S) | [Drive\-By Truckers](https://open.spotify.com/artist/1rXr1ZnvbRoYBaedIl9v4v) | [Welcome 2 Club XIII](https://open.spotify.com/album/5eEe392vaoKZOsVrEIyLsT) | 3:22 |
-| 36 | [Can't Answer Why](https://open.spotify.com/track/3peVPF1U0EHzuiBjWkaffe) | [Giovannie and the Hired Guns](https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94) | [Can't Answer Why](https://open.spotify.com/album/6gOxlXHNjjAuSkKmlZCoc3) | 3:11 |
+| 36 | [Can't Answer Why](https://open.spotify.com/track/1RBqkm7DAqDQYFjOGnhJqV) | [Giovannie and the Hired Guns](https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94) | [Can't Answer Why](https://open.spotify.com/album/2cmk3rKGG5QfLcddPpF7Jl) | 3:11 |
 | 37 | [Tell Me](https://open.spotify.com/track/51X5Rk23XIUiUid7GVlQZf) | [Bones Owens](https://open.spotify.com/artist/172e5cVOCSMYQQaIaZ4l1z) | [Bones Owens](https://open.spotify.com/album/33ObrRfIHT3AESxy8E15FG) | 3:17 |
 | 38 | [Looking For An Old Friend](https://open.spotify.com/track/2BRVCYzNCuazGKNBVZtgIA) | [The Georgia Thunderbolts](https://open.spotify.com/artist/0sukMbleG21A52WNk4O81d) | [Can We Get A Witness](https://open.spotify.com/album/5Knes2pddqGyhjacLakFGt) | 4:41 |
 | 39 | [Naturally Wild](https://open.spotify.com/track/3Qi4gIj4fB6PF3lDKC1DDd) | [Ray Wylie Hubbard](https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0), [Lzzy Hale](https://open.spotify.com/artist/3Nbau9SoiH72jmJdUTqjOY), [John 5](https://open.spotify.com/artist/7mAqCk75DUBWgcC0sqhzwX) | [Co\-Starring Too](https://open.spotify.com/album/2qdRjOgx6MnLayfn9QZiJE) | 3:14 |
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GqyyDpXu1q.md) - [plain]
 | 105 | [Liar](https://open.spotify.com/track/5mry8XEOIVru9Mla0bc8dY) | [The Shelters](https://open.spotify.com/artist/7LrFQFaZaxfa9deqkjvc89) | [The Shelters](https://open.spotify.com/album/451kD1EliOug21dypPYnMn) | 3:03 |
 | 106 | [Never Enough](https://open.spotify.com/track/4W8zk9Kyvg3FzwAk0kjtuj) | [Black Pistol Fire](https://open.spotify.com/artist/0Nrwy16xCPXG8AwkMbcVvo) | [Look Alive](https://open.spotify.com/album/0DnJstuYf8Bdj6DFpdtIEy) | 4:03 |
 
-Snapshot ID: `MTY2MTQ4NjQwMCwwMDAwMDAwMDY1ZGFmOGNmN2ZlNmIxNmM5ODRhMWUzNmE2MDllYzg3`
+Snapshot ID: `MTY2MTQ4NjQwMCwwMDAwMDAwMGVjMjY2MzRkOWNmYjM0ODY2MDc1NDU0MGM4OGMzYTY5`

@@ -1,12 +1,12 @@
 {
   "description": "Groovy sounds from around the world.",
-  "num_followers": 529725,
+  "num_followers": 529927,
   "original_name": "Global Groove",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzI0NjI2MiwwMDAwMDAwMGFkY2QxMDM5OWMwODQwYTlkN2I1YjViODQ5ZjI0ZWI2",
+  "snapshot_id": "MTY2MzI0NjI2MiwwMDAwMDAwMDk4YzMxM2JmNDBiYWIzMDMyNWM0NDA0MzkwOTg0ODc5",
   "tracks": [
     {
       "added_at": "2022-09-09 03:16:34",
@@ -489,22 +489,6 @@
       "url": "https://open.spotify.com/track/1gE7p3b4J8p4ivOCR2CO0Y"
     },
     {
-      "added_at": "2022-02-11 00:29:03",
-      "album": {
-        "name": "Chan Chan",
-        "url": "https://open.spotify.com/album/4i8oCrEGBTqhFW4rjTPkgp"
-      },
-      "artists": [
-        {
-          "name": "Iseo & Dodosound",
-          "url": "https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc"
-        }
-      ],
-      "duration_ms": 260320,
-      "name": "Chan Chan",
-      "url": "https://open.spotify.com/track/7wQ3PHT0oNWwjPuTZ2z7cS"
-    },
-    {
       "added_at": "2021-10-06 02:02:41",
       "album": {
         "name": "Mr Bongo Record Club, Vol. 1",
@@ -519,6 +503,22 @@
       "duration_ms": 127773,
       "name": "Esperar pra Ver",
       "url": "https://open.spotify.com/track/2M6H4fqf5olMjqzwwBzkEf"
+    },
+    {
+      "added_at": "2022-02-11 00:29:03",
+      "album": {
+        "name": "Chan Chan",
+        "url": "https://open.spotify.com/album/4i8oCrEGBTqhFW4rjTPkgp"
+      },
+      "artists": [
+        {
+          "name": "Iseo & Dodosound",
+          "url": "https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc"
+        }
+      ],
+      "duration_ms": 260320,
+      "name": "Chan Chan",
+      "url": "https://open.spotify.com/track/7wQ3PHT0oNWwjPuTZ2z7cS"
     },
     {
       "added_at": "2022-04-17 18:22:38",
@@ -641,22 +641,6 @@
       "url": "https://open.spotify.com/track/2eugKq2QsQ3TRJ4JgbdpzC"
     },
     {
-      "added_at": "2022-08-13 01:36:14",
-      "album": {
-        "name": "Shake",
-        "url": "https://open.spotify.com/album/1TTt9ZEy0EmabFaJLXnvtZ"
-      },
-      "artists": [
-        {
-          "name": "Santigold",
-          "url": "https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p"
-        }
-      ],
-      "duration_ms": 101560,
-      "name": "Shake",
-      "url": "https://open.spotify.com/track/5Ey7yUZCEdRd57MlkZOXYj"
-    },
-    {
       "added_at": "2022-06-03 16:50:58",
       "album": {
         "name": "Pueblo",
@@ -675,6 +659,22 @@
       "duration_ms": 103220,
       "name": "Pueblo",
       "url": "https://open.spotify.com/track/4LOw0j83cz4aaqgP555uAT"
+    },
+    {
+      "added_at": "2022-08-13 01:36:14",
+      "album": {
+        "name": "Shake",
+        "url": "https://open.spotify.com/album/1TTt9ZEy0EmabFaJLXnvtZ"
+      },
+      "artists": [
+        {
+          "name": "Santigold",
+          "url": "https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p"
+        }
+      ],
+      "duration_ms": 101560,
+      "name": "Shake",
+      "url": "https://open.spotify.com/track/5Ey7yUZCEdRd57MlkZOXYj"
     },
     {
       "added_at": "2021-10-06 02:02:41",
@@ -787,18 +787,18 @@
     {
       "added_at": "2021-10-06 02:02:41",
       "album": {
-        "name": "S\u00e9rie Samba Soul",
-        "url": "https://open.spotify.com/album/6D52C2o93yMKyXqOiXRd3A"
+        "name": "Earthology",
+        "url": "https://open.spotify.com/album/4FXD1pVdJ5G690V7mRAFEL"
       },
       "artists": [
         {
-          "name": "Dom Salvador & Aboli\u00e7\u00e3o",
-          "url": "https://open.spotify.com/artist/0Aanlviesqoy29lgsP9OC6"
+          "name": "Whitefield Brothers",
+          "url": "https://open.spotify.com/artist/1ynl48Y4KflTXf1alW9g1L"
         }
       ],
-      "duration_ms": 152733,
-      "name": "Hei! Voc\u00ea",
-      "url": "https://open.spotify.com/track/3Ztfe3UOfRkjTpajSYZ4qy"
+      "duration_ms": 199572,
+      "name": "Safari Strut",
+      "url": "https://open.spotify.com/track/1lDELORqnHLLTe1bYmHLq7"
     },
     {
       "added_at": "2021-10-06 02:02:41",
@@ -823,18 +823,18 @@
     {
       "added_at": "2021-10-06 02:02:41",
       "album": {
-        "name": "Earthology",
-        "url": "https://open.spotify.com/album/4FXD1pVdJ5G690V7mRAFEL"
+        "name": "S\u00e9rie Samba Soul",
+        "url": "https://open.spotify.com/album/6D52C2o93yMKyXqOiXRd3A"
       },
       "artists": [
         {
-          "name": "Whitefield Brothers",
-          "url": "https://open.spotify.com/artist/1ynl48Y4KflTXf1alW9g1L"
+          "name": "Dom Salvador & Aboli\u00e7\u00e3o",
+          "url": "https://open.spotify.com/artist/0Aanlviesqoy29lgsP9OC6"
         }
       ],
-      "duration_ms": 199572,
-      "name": "Safari Strut",
-      "url": "https://open.spotify.com/track/1lDELORqnHLLTe1bYmHLq7"
+      "duration_ms": 152733,
+      "name": "Hei! Voc\u00ea",
+      "url": "https://open.spotify.com/track/3Ztfe3UOfRkjTpajSYZ4qy"
     },
     {
       "added_at": "2021-10-06 02:02:41",
@@ -859,22 +859,6 @@
     {
       "added_at": "2021-10-06 02:02:41",
       "album": {
-        "name": "Philantropiques",
-        "url": "https://open.spotify.com/album/3fsnW79AlDwj2mF8HhnByU"
-      },
-      "artists": [
-        {
-          "name": "Guts",
-          "url": "https://open.spotify.com/artist/5mMkUZv8uUrlH0SHX89BeS"
-        }
-      ],
-      "duration_ms": 386893,
-      "name": "Kenke Corner",
-      "url": "https://open.spotify.com/track/7DSe9aWkpnbDQTTRikkpYp"
-    },
-    {
-      "added_at": "2021-10-06 02:02:41",
-      "album": {
         "name": "Dos Uvas",
         "url": "https://open.spotify.com/album/2MvZ4FTsUUSAv7VhtXwFRf"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 209280,
       "name": "Dos Uvas",
       "url": "https://open.spotify.com/track/5ZVhOPIz5xEb52pRnZBitG"
+    },
+    {
+      "added_at": "2021-10-06 02:02:41",
+      "album": {
+        "name": "Philantropiques",
+        "url": "https://open.spotify.com/album/3fsnW79AlDwj2mF8HhnByU"
+      },
+      "artists": [
+        {
+          "name": "Guts",
+          "url": "https://open.spotify.com/artist/5mMkUZv8uUrlH0SHX89BeS"
+        }
+      ],
+      "duration_ms": 386893,
+      "name": "Kenke Corner",
+      "url": "https://open.spotify.com/track/7DSe9aWkpnbDQTTRikkpYp"
     },
     {
       "added_at": "2021-10-06 02:02:41",
@@ -1201,6 +1201,22 @@
       "url": "https://open.spotify.com/track/6XOguNHu0tyQRFhPqoBFeV"
     },
     {
+      "added_at": "2022-04-17 20:13:34",
+      "album": {
+        "name": "Roots in the Air",
+        "url": "https://open.spotify.com/album/2k7SzJHQKAapyNECIvx6rY"
+      },
+      "artists": [
+        {
+          "name": "Iseo & Dodosound",
+          "url": "https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc"
+        }
+      ],
+      "duration_ms": 215202,
+      "name": "Vampire",
+      "url": "https://open.spotify.com/track/4oRvjHoSmt1mOagLCdgtkK"
+    },
+    {
       "added_at": "2022-03-29 03:12:27",
       "album": {
         "name": "On te l'avait dit",
@@ -1219,22 +1235,6 @@
       "duration_ms": 384383,
       "name": "On te l'avait dit",
       "url": "https://open.spotify.com/track/3d6u38zeC6XIt87Hhp4pql"
-    },
-    {
-      "added_at": "2022-04-17 20:13:34",
-      "album": {
-        "name": "Roots in the Air",
-        "url": "https://open.spotify.com/album/2k7SzJHQKAapyNECIvx6rY"
-      },
-      "artists": [
-        {
-          "name": "Iseo & Dodosound",
-          "url": "https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc"
-        }
-      ],
-      "duration_ms": 215202,
-      "name": "Vampire",
-      "url": "https://open.spotify.com/track/4oRvjHoSmt1mOagLCdgtkK"
     },
     {
       "added_at": "2021-10-06 02:02:41",
@@ -1299,26 +1299,6 @@
       "duration_ms": 348148,
       "name": "The Rabbit That Hunts Tigers",
       "url": "https://open.spotify.com/track/13rx5XnSVYoN2IhPnERw24"
-    },
-    {
-      "added_at": "2021-10-06 02:02:41",
-      "album": {
-        "name": "Voiciii",
-        "url": "https://open.spotify.com/album/5kf5N7odrE990aRCyW3PEH"
-      },
-      "artists": [
-        {
-          "name": "Voilaaa",
-          "url": "https://open.spotify.com/artist/6MQoRoLtsUg7Fzi5nJGmC1"
-        },
-        {
-          "name": "Lass",
-          "url": "https://open.spotify.com/artist/5lo0kRRetvEfkimf1sJxuX"
-        }
-      ],
-      "duration_ms": 288569,
-      "name": "Ben Bene La",
-      "url": "https://open.spotify.com/track/167NF5BT2JUVb8RqqCTDQg"
     },
     {
       "added_at": "2021-10-06 02:02:41",
@@ -1391,6 +1371,26 @@
     {
       "added_at": "2021-10-06 02:02:41",
       "album": {
+        "name": "Voiciii",
+        "url": "https://open.spotify.com/album/5kf5N7odrE990aRCyW3PEH"
+      },
+      "artists": [
+        {
+          "name": "Voilaaa",
+          "url": "https://open.spotify.com/artist/6MQoRoLtsUg7Fzi5nJGmC1"
+        },
+        {
+          "name": "Lass",
+          "url": "https://open.spotify.com/artist/5lo0kRRetvEfkimf1sJxuX"
+        }
+      ],
+      "duration_ms": 288569,
+      "name": "Ben Bene La",
+      "url": "https://open.spotify.com/track/167NF5BT2JUVb8RqqCTDQg"
+    },
+    {
+      "added_at": "2021-10-06 02:02:41",
+      "album": {
         "name": "Resonate",
         "url": "https://open.spotify.com/album/32wdlbMm4TWfi75n9qW1rs"
       },
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2021-10-06 02:02:41",
       "album": {
-        "name": "Chaos Theories",
-        "url": "https://open.spotify.com/album/6DfCiu85VKpjBTBGuTD6mA"
-      },
-      "artists": [
-        {
-          "name": "The Souljazz Orchestra",
-          "url": "https://open.spotify.com/artist/0MiCOT2cVYso39XSskiUUo"
-        }
-      ],
-      "duration_ms": 311546,
-      "name": "House of Cards",
-      "url": "https://open.spotify.com/track/4lmzz09uUKtHnh740nyu37"
-    },
-    {
-      "added_at": "2021-10-06 02:02:41",
-      "album": {
         "name": "Calentita",
         "url": "https://open.spotify.com/album/4NycotM0tlCFNtXd6JCzce"
       },
@@ -1463,6 +1447,22 @@
     {
       "added_at": "2021-10-06 02:02:41",
       "album": {
+        "name": "Chaos Theories",
+        "url": "https://open.spotify.com/album/6DfCiu85VKpjBTBGuTD6mA"
+      },
+      "artists": [
+        {
+          "name": "The Souljazz Orchestra",
+          "url": "https://open.spotify.com/artist/0MiCOT2cVYso39XSskiUUo"
+        }
+      ],
+      "duration_ms": 311546,
+      "name": "House of Cards",
+      "url": "https://open.spotify.com/track/4lmzz09uUKtHnh740nyu37"
+    },
+    {
+      "added_at": "2021-10-06 02:02:41",
+      "album": {
         "name": "Ka Rica-Tar",
         "url": "https://open.spotify.com/album/2Y1w4MWDnXvVaHavVnEbzg"
       },
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2021-10-06 02:02:41",
       "album": {
-        "name": "Belle Wahallah",
-        "url": "https://open.spotify.com/album/757OI3ObWjiqLTkU6TEFkc"
-      },
-      "artists": [
-        {
-          "name": "Kondi Band",
-          "url": "https://open.spotify.com/artist/2IPZPCen311aH09425TKpF"
-        }
-      ],
-      "duration_ms": 326606,
-      "name": "Yeanoh (Powe'hande Binga'dbe)",
-      "url": "https://open.spotify.com/track/0IVlx6wUnkGmU8zWXznnf1"
-    },
-    {
-      "added_at": "2021-10-06 02:02:41",
-      "album": {
         "name": "Gun Metal Grey",
         "url": "https://open.spotify.com/album/1ksIAr0EZzkqpKuVI9BgJQ"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 196746,
       "name": "Gun Metal Grey",
       "url": "https://open.spotify.com/track/2xBMnos2JHuKgRGr0cSgK5"
+    },
+    {
+      "added_at": "2021-10-06 02:02:41",
+      "album": {
+        "name": "Belle Wahallah",
+        "url": "https://open.spotify.com/album/757OI3ObWjiqLTkU6TEFkc"
+      },
+      "artists": [
+        {
+          "name": "Kondi Band",
+          "url": "https://open.spotify.com/artist/2IPZPCen311aH09425TKpF"
+        }
+      ],
+      "duration_ms": 326606,
+      "name": "Yeanoh (Powe'hande Binga'dbe)",
+      "url": "https://open.spotify.com/track/0IVlx6wUnkGmU8zWXznnf1"
     },
     {
       "added_at": "2021-10-06 02:02:41",
@@ -1561,6 +1561,22 @@
       "url": "https://open.spotify.com/track/2rIzolYxlQr9JoitK2BeC4"
     },
     {
+      "added_at": "2021-10-06 02:02:41",
+      "album": {
+        "name": "Midnight Voyage",
+        "url": "https://open.spotify.com/album/5uaAVhppungH8fzCbBc6ji"
+      },
+      "artists": [
+        {
+          "name": "Tunnelvisions",
+          "url": "https://open.spotify.com/artist/0IhfJZiFjHqE9mJ9INjp7x"
+        }
+      ],
+      "duration_ms": 357500,
+      "name": "Gobi",
+      "url": "https://open.spotify.com/track/1DgTnSP026pNUjCDlhXfu5"
+    },
+    {
       "added_at": "2022-08-09 18:35:48",
       "album": {
         "name": "Tukumtak",
@@ -1581,20 +1597,20 @@
       "url": "https://open.spotify.com/track/4aOaDvOhOeTkF3sItgGY8y"
     },
     {
-      "added_at": "2021-10-06 02:02:41",
+      "added_at": "2022-04-26 02:37:33",
       "album": {
-        "name": "Midnight Voyage",
-        "url": "https://open.spotify.com/album/5uaAVhppungH8fzCbBc6ji"
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/45yGFEPm310zjAc1psZzEv"
       },
       "artists": [
         {
-          "name": "Tunnelvisions",
-          "url": "https://open.spotify.com/artist/0IhfJZiFjHqE9mJ9INjp7x"
+          "name": "Glass Beams",
+          "url": "https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF"
         }
       ],
-      "duration_ms": 357500,
-      "name": "Gobi",
-      "url": "https://open.spotify.com/track/1DgTnSP026pNUjCDlhXfu5"
+      "duration_ms": 272375,
+      "name": "Taurus",
+      "url": "https://open.spotify.com/track/1R2g3aWdOv9BOUjqMgZTic"
     },
     {
       "added_at": "2022-04-17 17:23:49",
@@ -1611,6 +1627,54 @@
       "duration_ms": 187906,
       "name": "Tinko Tinko (Don't Play Me for a Fool)",
       "url": "https://open.spotify.com/track/6f8pOnEswFwiU4FTcZicV6"
+    },
+    {
+      "added_at": "2021-10-06 02:02:41",
+      "album": {
+        "name": "Feelings",
+        "url": "https://open.spotify.com/album/0gmjvJvdWuD3AFk9sZ02Yi"
+      },
+      "artists": [
+        {
+          "name": "Brijean",
+          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
+        }
+      ],
+      "duration_ms": 192656,
+      "name": "Wifi Beach",
+      "url": "https://open.spotify.com/track/06ukn4Va91MfzMcxc1N0cu"
+    },
+    {
+      "added_at": "2021-10-06 02:02:41",
+      "album": {
+        "name": "Expansions",
+        "url": "https://open.spotify.com/album/1tMUBZE5cSHtJCn0HT9FaW"
+      },
+      "artists": [
+        {
+          "name": "Bacao Rhythm & Steel Band",
+          "url": "https://open.spotify.com/artist/0sjhSgEkyVa8QRmkkuckJ0"
+        }
+      ],
+      "duration_ms": 151948,
+      "name": "Space",
+      "url": "https://open.spotify.com/track/6pnryYnhE5zBugXN1QxPBg"
+    },
+    {
+      "added_at": "2021-10-06 02:02:41",
+      "album": {
+        "name": "Various Bilongo",
+        "url": "https://open.spotify.com/album/1WnorRo4yM6FtWdFq2enSt"
+      },
+      "artists": [
+        {
+          "name": "Kelenkye Band",
+          "url": "https://open.spotify.com/artist/1AIamdH9sipGz8h6gp0Fmq"
+        }
+      ],
+      "duration_ms": 336133,
+      "name": "Jungle Music",
+      "url": "https://open.spotify.com/track/4Fz7kqfYvb6T4YUxTexdLs"
     },
     {
       "added_at": "2021-10-06 02:02:41",
@@ -1635,38 +1699,6 @@
     {
       "added_at": "2021-10-06 02:02:41",
       "album": {
-        "name": "Feelings",
-        "url": "https://open.spotify.com/album/0gmjvJvdWuD3AFk9sZ02Yi"
-      },
-      "artists": [
-        {
-          "name": "Brijean",
-          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
-        }
-      ],
-      "duration_ms": 192656,
-      "name": "Wifi Beach",
-      "url": "https://open.spotify.com/track/06ukn4Va91MfzMcxc1N0cu"
-    },
-    {
-      "added_at": "2022-08-03 03:52:21",
-      "album": {
-        "name": "Mushroom Samba",
-        "url": "https://open.spotify.com/album/2vZDpV5nFLejbX10a04HM2"
-      },
-      "artists": [
-        {
-          "name": "Saib",
-          "url": "https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk"
-        }
-      ],
-      "duration_ms": 250434,
-      "name": "Mushroom Samba",
-      "url": "https://open.spotify.com/track/06dKqow8ddfH8FREVTLJoy"
-    },
-    {
-      "added_at": "2021-10-06 02:02:41",
-      "album": {
         "name": "RAS II",
         "url": "https://open.spotify.com/album/6GJ3n96Nj0u2E6YhAngJko"
       },
@@ -1679,22 +1711,6 @@
       "duration_ms": 348292,
       "name": "Boogie",
       "url": "https://open.spotify.com/track/1udnVMUpzoMzVdHI5FnhQO"
-    },
-    {
-      "added_at": "2021-10-06 02:02:41",
-      "album": {
-        "name": "Expansions",
-        "url": "https://open.spotify.com/album/1tMUBZE5cSHtJCn0HT9FaW"
-      },
-      "artists": [
-        {
-          "name": "Bacao Rhythm & Steel Band",
-          "url": "https://open.spotify.com/artist/0sjhSgEkyVa8QRmkkuckJ0"
-        }
-      ],
-      "duration_ms": 151948,
-      "name": "Space",
-      "url": "https://open.spotify.com/track/6pnryYnhE5zBugXN1QxPBg"
     },
     {
       "added_at": "2021-10-26 03:22:21",
@@ -1717,36 +1733,20 @@
       "url": "https://open.spotify.com/track/68wZUaqJLlzSgDpvtOD5z1"
     },
     {
-      "added_at": "2021-10-06 02:02:41",
+      "added_at": "2022-08-03 03:52:21",
       "album": {
-        "name": "Various Bilongo",
-        "url": "https://open.spotify.com/album/1WnorRo4yM6FtWdFq2enSt"
+        "name": "Mushroom Samba",
+        "url": "https://open.spotify.com/album/2vZDpV5nFLejbX10a04HM2"
       },
       "artists": [
         {
-          "name": "Kelenkye Band",
-          "url": "https://open.spotify.com/artist/1AIamdH9sipGz8h6gp0Fmq"
+          "name": "Saib",
+          "url": "https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk"
         }
       ],
-      "duration_ms": 336133,
-      "name": "Jungle Music",
-      "url": "https://open.spotify.com/track/4Fz7kqfYvb6T4YUxTexdLs"
-    },
-    {
-      "added_at": "2022-04-26 02:37:33",
-      "album": {
-        "name": "Mirage",
-        "url": "https://open.spotify.com/album/45yGFEPm310zjAc1psZzEv"
-      },
-      "artists": [
-        {
-          "name": "Glass Beams",
-          "url": "https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF"
-        }
-      ],
-      "duration_ms": 272375,
-      "name": "Taurus",
-      "url": "https://open.spotify.com/track/1R2g3aWdOv9BOUjqMgZTic"
+      "duration_ms": 250434,
+      "name": "Mushroom Samba",
+      "url": "https://open.spotify.com/track/06dKqow8ddfH8FREVTLJoy"
     }
   ],
   "unique_name": "Global Groove",

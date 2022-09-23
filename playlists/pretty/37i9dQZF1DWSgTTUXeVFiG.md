@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgTTUXeVFiG.md) - [plain]
 
 > Los éxitos de siempre en concierto\. Foto: Celia Cruz
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,019 likes - 50 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,044 likes - 50 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgTTUXeVFiG.md) - [plain]
 | 27 | [Sueño Contigo \- En Vivo](https://open.spotify.com/track/5BrPoD09caqS2vjKc8TNgQ) | [José Alberto "El Canario"](https://open.spotify.com/artist/6TRzinjf5dzE8zA8baPbYz) | [Íntimamente Salsero \(En Vivo\)](https://open.spotify.com/album/1gRHLe75BJK2tqAbaSL30w) | 4:58 |
 | 28 | [Ella Es \- En Vivo](https://open.spotify.com/track/718X6sjlHdmOzdTfJv4tUc) | [Tony Vega](https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY) | [En Concierto](https://open.spotify.com/album/3Gdp5KnCKrIDAfbgvM7N2b) | 4:56 |
 | 29 | [Anacaona \- Live](https://open.spotify.com/track/0aiInkmMYSIizbx4YIxHHP) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u), [Cheo Feliciano](https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC) | [Live At The Cheetah, Vol\. 1](https://open.spotify.com/album/1XfrZU7zjQT9obvRbk1x0e) | 7:15 |
-| 30 | [Agua que Cae del Cielo \(Lluvia\) \(feat\. Willie Rosario\) \- En Vivo desde Puerto Rico](https://open.spotify.com/track/39XBzvG6sBfwvNvhfD7bpA) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1), [Willie Rosario](https://open.spotify.com/artist/24qSVomYxpfAFwzBnKCc8J) | [40..\. y Contando \(En Vivo Desde Puerto Rico\)](https://open.spotify.com/album/1oftR2h20tzZjMEiesBPJp) | 7:22 |
+| 30 | [Vivir Sin Ella \- En Vivo Desde El Carnegie Hall Version](https://open.spotify.com/track/5uXxRpu20m2smwEsL1BTvj) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [En Vivo Desde El Carnegie Hall](https://open.spotify.com/album/3ASsv46z8jp15gwRTOjy22) | 8:37 |
 | 31 | [Juanito Alimaña \- Live](https://open.spotify.com/track/6ZBmiKpvm0Wkv8oxstW9f2) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Live](https://open.spotify.com/album/2kIKvvOkkLqfGUyAaiU3rQ) | 8:42 |
 | 32 | [Viajera](https://open.spotify.com/track/5sGcHVN7zuehqXAcNHe4Ek) | [Tommy Olivencia](https://open.spotify.com/artist/38fLjRT1W1x3RR6SWWxL0x) | [Va por Ti, Frankie \(Concierto Homenaje a Frankie Ruiz\)](https://open.spotify.com/album/3NpPEaMbkXan11KO2FB43Q) | 5:11 |
 | 33 | [Yo No Sé Mañana \- Live Version](https://open.spotify.com/track/6sc28e5O4zPT3N1VY7N5Q3) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [Sergio George Presents Salsa Giants \(Live\)](https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io) | 5:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgTTUXeVFiG.md) - [plain]
 | 49 | [Descarga Fania \- Live](https://open.spotify.com/track/1WeyEbCQgbh2YZkDKx6Uud) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u), [Adalberto Santiago](https://open.spotify.com/artist/6tZxUxheS7w3953cQFOXkd) | [Live At The Cheetah, Vol\. 1](https://open.spotify.com/album/1XfrZU7zjQT9obvRbk1x0e) | 9:17 |
 | 50 | [La Murga \- Live](https://open.spotify.com/track/0rcL0bGZpeN9stj0dHE3f0) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Live](https://open.spotify.com/album/2kIKvvOkkLqfGUyAaiU3rQ) | 7:02 |
 
-Snapshot ID: `MTY0NzU3OTYwMCwwMDAwMDAwMDFiZDg1Nzg3YWFlMDllYjI0YTVhYTgxNWVmMThiN2E4`
+Snapshot ID: `MTY0NzU3OTYwMCwwMDAwMDAwMGY4NjkyMDc1Yjc1NDI2YjYxNTc4ZmZhNzJhMDE5MzJl`

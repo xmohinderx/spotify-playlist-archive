@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX23YPJntYMnh.md) - [plain]
 
 > Funk\. But heavier\. Cover: King's X
 
-[Spotify](https://open.spotify.com/user/spotify) - 448,684 likes - 60 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 448,741 likes - 60 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX23YPJntYMnh.md) - [plain]
 | 56 | [What Time Is It?](https://open.spotify.com/track/3PoEcTE8L23vYlAbIYbtHA) | [Spin Doctors](https://open.spotify.com/artist/2PSiyldxmJze7xiqbz658m) | [Pocket Full Of Kryptonite](https://open.spotify.com/album/2TWdmpnFNCMlZDQROleupK) | 4:49 |
 | 57 | [Politicalamity](https://open.spotify.com/track/7fyHrLP3XxlVjHZHtgeWVe) | [Extreme](https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L) | [III Sides To Every Story](https://open.spotify.com/album/2TV8JqednqRKb2injBMYGd) | 5:04 |
 | 58 | [Dear Ol' Dad](https://open.spotify.com/track/0x8GQiIDqb7jbkrZjHoGF7) | [Blind Melon](https://open.spotify.com/artist/5sD1ZLf2dGQ9gQ3YJl1eAd) | [Blind Melon](https://open.spotify.com/album/0A6yLV44DEhpwXB7cyvLEP) | 3:01 |
-| 59 | [Rain Will Fall](https://open.spotify.com/track/2fJHXL82X3wtyXMzcSifdj) | [I Mother Earth](https://open.spotify.com/artist/3zEJAyZ1qSHSx9936UfXuM) | [Dig](https://open.spotify.com/album/0nUW7lioZIQNMXlsXjaOxy) | 5:19 |
-| 60 | [Good Grief](https://open.spotify.com/track/4uNr9f4s35mXouHntXwVl6) | [Urban Dance Squad](https://open.spotify.com/artist/0Vo614yFlepUdpdbkggrmC) | [The Singles Collection](https://open.spotify.com/album/6MIl1ERfeaobCbKVAG7y3i) | 4:24 |
+| 59 | [Good Grief](https://open.spotify.com/track/4uNr9f4s35mXouHntXwVl6) | [Urban Dance Squad](https://open.spotify.com/artist/0Vo614yFlepUdpdbkggrmC) | [The Singles Collection](https://open.spotify.com/album/6MIl1ERfeaobCbKVAG7y3i) | 4:24 |
+| 60 | [Rain Will Fall](https://open.spotify.com/track/2fJHXL82X3wtyXMzcSifdj) | [I Mother Earth](https://open.spotify.com/artist/3zEJAyZ1qSHSx9936UfXuM) | [Dig](https://open.spotify.com/album/0nUW7lioZIQNMXlsXjaOxy) | 5:19 |
 
-Snapshot ID: `MTY2MDg4MTcyMCwwMDAwMDAwMDExZTYyY2MzYTYyNjEwZTk2ODI0NTY3ZDViY2NiNDI1`
+Snapshot ID: `MTY2MDg4MTcyMCwwMDAwMDAwMDc4OGEzYmI5YTdkMGEyMmIxMWQ3Mzg0MTk5OTU0ZjE0`

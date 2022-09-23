@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OHJr8lBfqY.md) - [plain]
 
 > Add some sabor to your summer!
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,612 likes - 111 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,630 likes - 111 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,12 +112,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OHJr8lBfqY.md) - [plain]
 | 102 | [Y Qué Pasó?](https://open.spotify.com/track/4BpOF7fEKoGStuMvqgia7R) | [Chiquito Team Band](https://open.spotify.com/artist/0vEYOFlkqy2FUy1UOF7RiV) | [Y Qué Pasó?](https://open.spotify.com/album/05ZSFYsMffZur7XPbJNMCM) | 3:41 |
 | 103 | [Otra Botella](https://open.spotify.com/track/7B6aEwgsjVLGrXn11mbyRe) | [Victor & Gabo](https://open.spotify.com/artist/1jF1NAxfzCf1PeWzmVvqsx), [Itzza Primera](https://open.spotify.com/artist/0PlTbBrPOOOmJzprmZ4cdM) | [Otra Botella](https://open.spotify.com/album/1x1l4HTXeFzxKcRovL23h3) | 2:46 |
 | 104 | [Traiganme Alcohol](https://open.spotify.com/track/483stYH6hNRad4b5qeyI9K) | [JFab & Paola Fabre](https://open.spotify.com/artist/1652mfhXA8ApJ7devxmKds) | [Pa' Que Te Duela](https://open.spotify.com/album/6TU8wHPVsx9a4byLoZllb7) | 3:54 |
-| 105 | [A Güiro \- Remix](https://open.spotify.com/track/1oldTqOAlhNaEf58HnyEra) | [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz), [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Randy](https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav), [Toño Rosario](https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy), [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1), [Kiko el Crazy](https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E) | [10: 22](https://open.spotify.com/album/2FQtC3R2jOukMLgiWRmyfN) | 5:43 |
-| 106 | [Goza Pelota](https://open.spotify.com/track/47ojnruXrJxBoc8R5XcvxR) | [El Taiger](https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf), [Adonis MC](https://open.spotify.com/artist/593Of0KHzqbTfImhHskrJr) | [Goza Pelota](https://open.spotify.com/album/6E2uYyBQkfIMQVHX1ENKva) | 3:17 |
+| 105 | [Goza Pelota](https://open.spotify.com/track/47ojnruXrJxBoc8R5XcvxR) | [El Taiger](https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf), [Adonis MC](https://open.spotify.com/artist/593Of0KHzqbTfImhHskrJr) | [Goza Pelota](https://open.spotify.com/album/6E2uYyBQkfIMQVHX1ENKva) | 3:17 |
+| 106 | [A Güiro \- Remix](https://open.spotify.com/track/1oldTqOAlhNaEf58HnyEra) | [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz), [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Randy](https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav), [Toño Rosario](https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy), [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1), [Kiko el Crazy](https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E) | [10: 22](https://open.spotify.com/album/2FQtC3R2jOukMLgiWRmyfN) | 5:43 |
 | 107 | [Si Es Trucho Es Trucho](https://open.spotify.com/track/5FKWq8ppC9KeXZGwYTqsxS) | [Axel Rulay](https://open.spotify.com/artist/7ur9H6w9OqIgWrmM2GUWuB), [Verbo Flow](https://open.spotify.com/artist/0dxkgaBNqak7UBqLB1sZrQ) | [Si Es Trucho Es Trucho](https://open.spotify.com/album/78VChAFN0gSXTJQz3QOQpw) | 5:37 |
 | 108 | [Cobarde](https://open.spotify.com/track/1alpDKsk2N9ulxPhp3YbyG) | [Christian Alicea](https://open.spotify.com/artist/7e3WPrCLa3zHg6Er0lq7mp) | [Cobarde](https://open.spotify.com/album/0lT8AZVarqGUEgnLvafwtJ) | 3:51 |
 | 109 | [Saber Perder \- Versión Salsa\-Son](https://open.spotify.com/track/32l5lCxrPvhwIXOOKL51ix) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs), [Ivonne Guzmán](https://open.spotify.com/artist/0ZjdMZB4ZGx8aM53fGzoFY), [Descemer Bueno](https://open.spotify.com/artist/5luyt0SUvGkDMY4ILP6Qhl) | [Saber Perder \(Versión Salsa\-Son\)](https://open.spotify.com/album/66qMU3zi1gYtCYgqz4ASdZ) | 3:33 |
 | 110 | [Luna](https://open.spotify.com/track/5Pdw0kGwWndeTsbOfVrv3r) | [Bella Dose](https://open.spotify.com/artist/0mzZB75kFTY5xPZm4RWfk9), [DaniLeigh](https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d) | [Suelta](https://open.spotify.com/album/0a75xzDuN6WBePejRqxLTZ) | 3:24 |
 | 111 | [El Fenómeno del Mambo](https://open.spotify.com/track/2J6tJINnAI7Oqh0hYyQPLd) | [Juan Ingaramo](https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2) | [El Fenómeno del Mambo](https://open.spotify.com/album/25Vl33c9fDERhuJ7mSzEdJ) | 2:59 |
 
-Snapshot ID: `MTY2MTkzMTQ1NywwMDAwMDAwMGFjZmIwZjNjMjRmZGQ0OTZkMjU1NDZlMWVhNjI0ZDhk`
+Snapshot ID: `MTY2MTkzMTQ1NywwMDAwMDAwMDA2YjNlNDJkZDA4YjU4NGE2MmYyMjRiYjc2YzJhOWEw`

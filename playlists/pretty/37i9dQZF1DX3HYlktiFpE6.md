@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3HYlktiFpE6.md) - [plain]
 
 > Your favorite a cappella music from Pentatonix, the Glee cast, Pitch Perfect, and more\. Just sing it! Cover: Pentatonix
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,818 likes - 57 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,830 likes - 57 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,12 +16,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3HYlktiFpE6.md) - [plain]
 | 6 | [Trebles Finals: Bright Lights Bigger City/Magic](https://open.spotify.com/track/2mgPmzcrz3sBCR7AvCr6mE) | [The Treblemakers](https://open.spotify.com/artist/1T81IFRFywCJW0SNWMv3T1) | [Ultimate Pitch Perfect \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3C81mDhWllB5q56pfvik3U) | 2:34 |
 | 7 | [Ring of Fire \(feat\. Avi Kaplan\)](https://open.spotify.com/track/5i9A1n1s82jh53IGLldPG6) | [Home Free](https://open.spotify.com/artist/2MSlGNpwXDScUdspOK6TS7), [Avi Kaplan](https://open.spotify.com/artist/6mLJ8OuY32n8iDAyy95pdy) | [Crazy Life](https://open.spotify.com/album/7qn9BbiBucTH28IoyEGMyy) | 2:21 |
 | 8 | [Cups \- Movie Version](https://open.spotify.com/track/1k6hE5RWi4LQzoIFeosCJ7) | [Anna Kendrick](https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS) | [Ultimate Pitch Perfect \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3C81mDhWllB5q56pfvik3U) | 1:15 |
-| 9 | [Don't Stop Believin' \(Glee Cast Version\) \- Cover of Journey](https://open.spotify.com/track/6rjnRocdCULjLF61x2NR5e) | [Glee Cast](https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm) | [Glee: The Music, Volume 1](https://open.spotify.com/album/3bzOPF8mGdoW059DsGfMXj) | 3:52 |
+| 9 | [Valerie \- Glee Cast Version](https://open.spotify.com/track/4hBW3h6FnQNh7NRmyxLLG7) | [Glee Cast](https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm) | [Glee: The Music, Volume 4](https://open.spotify.com/album/6al4VUZHO90Zmw0fm4vVeI) | 3:33 |
 | 10 | [Radioactive](https://open.spotify.com/track/7dJGehjbhJvs3K4fWwYTW1) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53), [Lindsey Stirling](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM) | [PTX](https://open.spotify.com/album/77RBn8pRsfXlZdfTQh221D) | 3:46 |
 | 11 | [Riff Off: Mickey/Like A Virgin/Hit Me With Your Best Shot/S&M/Let’s Talk About Sex/I’ll Make Love To You/Feels Like The First Time/No Diggity](https://open.spotify.com/track/0phwM5a6TdLBDl0F9bk5fl) | [The Barden Bellas](https://open.spotify.com/artist/2BaKphge9AdjZIxQqv7WoQ), [The Treblemakers](https://open.spotify.com/artist/1T81IFRFywCJW0SNWMv3T1), [The Bu Harmonics](https://open.spotify.com/artist/3ZqvXNT2zEezA2VUT90CYy) | [Ultimate Pitch Perfect \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3C81mDhWllB5q56pfvik3U) | 3:44 |
 | 12 | [Riff Off \- From "Pitch Perfect 2" Soundtrack](https://open.spotify.com/track/5RGFGWglZ2zRDWXOK7HyNq) | [Das Sound Machine](https://open.spotify.com/artist/3OIHrPeryKmEnrOHCh0x7a), [Tone Hangers](https://open.spotify.com/artist/2RHqPH33tgSVMtXhJkzwue), [The Barden Bellas](https://open.spotify.com/artist/2BaKphge9AdjZIxQqv7WoQ), [Green Bay Packers](https://open.spotify.com/artist/54FQoMnSEdeijbIgu7zBnz), [The Treblemakers](https://open.spotify.com/artist/1T81IFRFywCJW0SNWMv3T1) | [Pitch Perfect 2 \- Special Edition \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2ZeHAc9olOJ70wqPjHXhZE) | 4:24 |
 | 13 | [Waka Waka \(This Time For Africa\)](https://open.spotify.com/track/1ZRXk2GjLeHu1Ojv4WDWs4) | [University of Rochester YellowJackets](https://open.spotify.com/artist/5PdBpsZXvnEbbTe1589fMO) | [United We Sing](https://open.spotify.com/album/7oJCzq2s36F8PByLgaaYX6) | 3:19 |
-| 14 | [Valerie \- Glee Cast Version](https://open.spotify.com/track/4hBW3h6FnQNh7NRmyxLLG7) | [Glee Cast](https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm) | [Glee: The Music, Volume 4](https://open.spotify.com/album/6al4VUZHO90Zmw0fm4vVeI) | 3:33 |
+| 14 | [Don't Stop Believin' \(Glee Cast Version\) \- Cover of Journey](https://open.spotify.com/track/6rjnRocdCULjLF61x2NR5e) | [Glee Cast](https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm) | [Glee: The Music, Volume 1](https://open.spotify.com/album/3bzOPF8mGdoW059DsGfMXj) | 3:52 |
 | 15 | [Wake Me Up](https://open.spotify.com/track/60Q0ZSKKBea7otGijFgrQI) | [Home Free](https://open.spotify.com/artist/2MSlGNpwXDScUdspOK6TS7) | [Crazy Life](https://open.spotify.com/album/7qn9BbiBucTH28IoyEGMyy) | 3:13 |
 | 16 | [Party In The U.S.A.](https://open.spotify.com/track/7c2KF18pPpaN8Hy5MiNNWs) | [The Barden Bellas](https://open.spotify.com/artist/2BaKphge9AdjZIxQqv7WoQ) | [Ultimate Pitch Perfect \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3C81mDhWllB5q56pfvik3U) | 1:02 |
 | 17 | [Don't Stop The Music](https://open.spotify.com/track/7mwaAS5hqSuSxsFLpQh5NU) | [The Treblemakers](https://open.spotify.com/artist/1T81IFRFywCJW0SNWMv3T1) | [Ultimate Pitch Perfect \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3C81mDhWllB5q56pfvik3U) | 3:04 |
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3HYlktiFpE6.md) - [plain]
 | 56 | [Pumped Up Kicks](https://open.spotify.com/track/544Vnwfg8YSUP6An38yUsT) | [Hullabahoos](https://open.spotify.com/artist/3S1DEHnGNfWmamdZEyLs8I) | [Morning Warriors](https://open.spotify.com/album/1ZdIwfFXaKiPolBEBp1kqs) | 3:53 |
 | 57 | [Cruise](https://open.spotify.com/track/7zcLCtqtovzOjUIr0GMAPh) | [Home Free](https://open.spotify.com/artist/2MSlGNpwXDScUdspOK6TS7) | [The Sing\-Off: Season 4, Episode 1\- The Sing\-Off Is Back](https://open.spotify.com/album/2v7S6K26bvlGpKP35MLF9j) | 1:40 |
 
-Snapshot ID: `MTY0MDMyMjAwMCwwMDAwMDAwMDk1Yjc0ZGNmODMyZTNmODk5ZTA1NWI1YzRlMzAwZjE3`
+Snapshot ID: `MTY0MDMyMjAwMCwwMDAwMDAwMGJjYjY1Mzc4NDAyODVhOGNiNzMwYTY1NmYyYzkzZmU2`

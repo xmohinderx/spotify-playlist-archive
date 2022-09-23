@@ -1,13 +1,57 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Vikrant Rona",
-  "num_followers": 40456,
+  "num_followers": 40494,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzU4ODcyMCwwMDAwMDAwMGEwNGJiMjAzZTk3MzRkNTljNmVkOWRmMjYxNTVhYjli",
+  "snapshot_id": "MTY2MzgxNDUxMCwwMDAwMDAwMGU1MGM3ODI3ZTc3NWRiZjBkYTNlZDMxZmUzNzI4MTA0",
   "tracks": [
+    {
+      "added_at": "2022-09-16 05:21:59",
+      "album": {
+        "name": "Triple Riding",
+        "url": "https://open.spotify.com/album/5swnwLChk3yQrPt5ZByQ86"
+      },
+      "artists": [
+        {
+          "name": "Chandan Shetty",
+          "url": "https://open.spotify.com/artist/2b4BOEtTbGchL0K53fvpgk"
+        },
+        {
+          "name": "Mangli",
+          "url": "https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo"
+        }
+      ],
+      "duration_ms": 210802,
+      "name": "Yatta Yatta Yatta",
+      "url": "https://open.spotify.com/track/3Z3xTNFCBOCpIy6hQ98bRa"
+    },
+    {
+      "added_at": "2022-09-22 02:37:37",
+      "album": {
+        "name": "Luckyman (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4THkDjieEZKUIzVkLC10Co"
+      },
+      "artists": [
+        {
+          "name": "Benny Dayal",
+          "url": "https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ"
+        },
+        {
+          "name": "V2 Vijay Vicky",
+          "url": "https://open.spotify.com/artist/7zyTYIiNKFMRW0NlZZAeBF"
+        },
+        {
+          "name": "Dhananjay Ranjan",
+          "url": "https://open.spotify.com/artist/3lCmfZPOZc1x3kmphuR96p"
+        }
+      ],
+      "duration_ms": 264489,
+      "name": "Baaro Raja",
+      "url": "https://open.spotify.com/track/5aApK4jfmDfJvKgh1fBTBD"
+    },
     {
       "added_at": "2022-09-06 06:48:32",
       "album": {
@@ -53,26 +97,6 @@
       "url": "https://open.spotify.com/track/5fbapg4r9kgFJGo0zeBqP6"
     },
     {
-      "added_at": "2022-09-16 05:21:59",
-      "album": {
-        "name": "Triple Riding",
-        "url": "https://open.spotify.com/album/5swnwLChk3yQrPt5ZByQ86"
-      },
-      "artists": [
-        {
-          "name": "Chandan Shetty",
-          "url": "https://open.spotify.com/artist/2b4BOEtTbGchL0K53fvpgk"
-        },
-        {
-          "name": "Mangli",
-          "url": "https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo"
-        }
-      ],
-      "duration_ms": 210802,
-      "name": "Yatta Yatta Yatta",
-      "url": "https://open.spotify.com/track/3Z3xTNFCBOCpIy6hQ98bRa"
-    },
-    {
       "added_at": "2022-09-05 04:14:21",
       "album": {
         "name": "Cobra (Kannada) [Original Motion Picture Soundtrack]",
@@ -91,6 +115,30 @@
       "duration_ms": 313333,
       "name": "Usiradagide",
       "url": "https://open.spotify.com/track/50NtnG97a2M2BKOpu9d0HZ"
+    },
+    {
+      "added_at": "2022-09-22 02:41:50",
+      "album": {
+        "name": "Jodi Etthu (From \"Raja Rani Roarer Rocket\")",
+        "url": "https://open.spotify.com/album/5ZZ46QoetHixZBWlub0d4D"
+      },
+      "artists": [
+        {
+          "name": "Ravi Basrur",
+          "url": "https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn"
+        },
+        {
+          "name": "Aniruddha Sastry",
+          "url": "https://open.spotify.com/artist/4eBhDqKsVw41KLAgusBZPa"
+        },
+        {
+          "name": "Prabhu S R",
+          "url": "https://open.spotify.com/artist/4VrFORsWwVXNQ0hLCMrV1w"
+        }
+      ],
+      "duration_ms": 170047,
+      "name": "Jodi Etthu (From \"Raja Rani Roarer Rocket\")",
+      "url": "https://open.spotify.com/track/2Kpopodq3cVEhX5r7ZjjrY"
     },
     {
       "added_at": "2022-09-16 08:56:48",
@@ -129,6 +177,30 @@
       "url": "https://open.spotify.com/track/1Z6A1twrpQDZa4uaBl3Zuf"
     },
     {
+      "added_at": "2022-09-22 02:37:37",
+      "album": {
+        "name": "Luckyman (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4THkDjieEZKUIzVkLC10Co"
+      },
+      "artists": [
+        {
+          "name": "M. M. Manasi",
+          "url": "https://open.spotify.com/artist/3JGrxsZ6kfzJrfwsxwERhS"
+        },
+        {
+          "name": "Adithya RK",
+          "url": "https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm"
+        },
+        {
+          "name": "V2 Vijay Vicky",
+          "url": "https://open.spotify.com/artist/7zyTYIiNKFMRW0NlZZAeBF"
+        }
+      ],
+      "duration_ms": 207600,
+      "name": "Friendship Song",
+      "url": "https://open.spotify.com/track/19EmTS1Zqyxwvc5ywqnFvJ"
+    },
+    {
       "added_at": "2022-09-16 05:17:15",
       "album": {
         "name": "Meghave Meghave (From \"Ms. Nandini\")",
@@ -149,6 +221,34 @@
       "url": "https://open.spotify.com/track/29pNXwtXq4jAMzF4Zi1tBo"
     },
     {
+      "added_at": "2022-09-22 02:37:37",
+      "album": {
+        "name": "Baglu Tegi Meri Jaan Remix (From \"Thothapuri Chapter - 1\")",
+        "url": "https://open.spotify.com/album/4SIVCtLiC0QnFven5Rpqem"
+      },
+      "artists": [
+        {
+          "name": "J. Anoop Seelin",
+          "url": "https://open.spotify.com/artist/6ALy9cwte5hjLcjAjCxu4R"
+        },
+        {
+          "name": "Vyasraj Sosale",
+          "url": "https://open.spotify.com/artist/2kUH5PlbfTRfChKtfp6JCE"
+        },
+        {
+          "name": "Ananya Bhat",
+          "url": "https://open.spotify.com/artist/4JczWHls9n9VpTHnqO2IG8"
+        },
+        {
+          "name": "Supriyaa Ram",
+          "url": "https://open.spotify.com/artist/6ZRC0Bc7Dcx49chE1ppbkp"
+        }
+      ],
+      "duration_ms": 81860,
+      "name": "Baglu Tegi Meri Jaan Remix (From \"Thothapuri Chapter - 1\")",
+      "url": "https://open.spotify.com/track/4C77W7R85CC3bVb0pRlajy"
+    },
+    {
       "added_at": "2022-09-16 05:35:09",
       "album": {
         "name": "Troll (From \"Banaras\") [KANNADA]",
@@ -163,6 +263,30 @@
       "duration_ms": 194014,
       "name": "Troll (From \"Banaras\") [KANNADA]",
       "url": "https://open.spotify.com/track/1UQU8T7C5dMXA9cuk168V0"
+    },
+    {
+      "added_at": "2022-09-22 02:37:37",
+      "album": {
+        "name": "Luckyman (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4THkDjieEZKUIzVkLC10Co"
+      },
+      "artists": [
+        {
+          "name": "Sanjith Hegde",
+          "url": "https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v"
+        },
+        {
+          "name": "V2 Vijay Vicky",
+          "url": "https://open.spotify.com/artist/7zyTYIiNKFMRW0NlZZAeBF"
+        },
+        {
+          "name": "Dhananjay Rajan",
+          "url": "https://open.spotify.com/artist/2iJ67BcXWSOW7dPJzeyjXc"
+        }
+      ],
+      "duration_ms": 272359,
+      "name": "Manasella Neene",
+      "url": "https://open.spotify.com/track/35DIdndkvnI8iBG2LnmXKt"
     },
     {
       "added_at": "2022-09-05 13:59:01",
@@ -183,6 +307,34 @@
       "duration_ms": 245735,
       "name": "Dancina Huchchu (From \"Brahmastra (Kannada)\")",
       "url": "https://open.spotify.com/track/4DqR5G7zfJDAvVCdPIOPC1"
+    },
+    {
+      "added_at": "2022-09-22 02:37:37",
+      "album": {
+        "name": "Nille Kanneera (From \"Thothapuri Chapter - 1\")",
+        "url": "https://open.spotify.com/album/5sTyJKvQsHvio1cuoxgyRs"
+      },
+      "artists": [
+        {
+          "name": "J. Anoop Seelin",
+          "url": "https://open.spotify.com/artist/6ALy9cwte5hjLcjAjCxu4R"
+        },
+        {
+          "name": "Vyasraj Sosale",
+          "url": "https://open.spotify.com/artist/2kUH5PlbfTRfChKtfp6JCE"
+        },
+        {
+          "name": "Ananya Bhat",
+          "url": "https://open.spotify.com/artist/4JczWHls9n9VpTHnqO2IG8"
+        },
+        {
+          "name": "Varijashree Venugopal",
+          "url": "https://open.spotify.com/artist/59GUnH7f4NlLkxSxtNNt0i"
+        }
+      ],
+      "duration_ms": 201333,
+      "name": "Nille Kanneera (From \"Thothapuri Chapter - 1\")",
+      "url": "https://open.spotify.com/track/5kyj6mFCvpHhWne9viVFLj"
     },
     {
       "added_at": "2022-09-16 05:21:59",

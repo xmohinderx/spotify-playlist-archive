@@ -5283,7 +5283,7 @@
     {
       "album": {
         "name": "Twilight",
-        "url": "https://open.spotify.com/album/2AXcVujiP64YJjh05z7xBu"
+        "url": "https://open.spotify.com/album/44NnM38oAf0i0gWqkVVA1x"
       },
       "artists": [
         {
@@ -5294,6 +5294,24 @@
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 116129,
+      "name": "Twilight",
+      "url": "https://open.spotify.com/track/1Y5MJnYsIi3Qlifvss4jPI"
+    },
+    {
+      "album": {
+        "name": "Twilight",
+        "url": "https://open.spotify.com/album/2AXcVujiP64YJjh05z7xBu"
+      },
+      "artists": [
+        {
+          "name": "GRAVECHILL",
+          "url": "https://open.spotify.com/artist/1EnZjgGD81emhSdq6adEKt"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-23",
       "duration_ms": 116129,
       "name": "Twilight",
       "url": "https://open.spotify.com/track/1guHCTD0uiEgTG3HOPgBmU"

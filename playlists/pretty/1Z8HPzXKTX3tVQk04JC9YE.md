@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1Z8HPzXKTX3tVQk04JC9YE.md) - [plain]
 
 > All your favorite tracks from the hottest TV shows, commercials, and movies! Prepare for the 2022 Emmys with this collection of hits and new favorites! Cover: Sofia Carson
 
-[digster.fm](https://open.spotify.com/user/digster.fm) - 30,158 likes - 50 songs - 3 hr 15 min
+[digster.fm](https://open.spotify.com/user/digster.fm) - 30,207 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

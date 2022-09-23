@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Canada.
 
-1,046 songs - 2 day 11 hr 27 min - [published](https://open.spotify.com/playlist/1BpkNJHAL5ueBdL3E2hJvr)
+1,047 songs - 2 day 11 hr 31 min - [published](https://open.spotify.com/playlist/1BpkNJHAL5ueBdL3E2hJvr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -798,6 +798,7 @@
 | [Scrape It Off \(feat\. Lil Uzi Vert & Don Toliver\)](https://open.spotify.com/track/1dp8aQANyTRKssDeAYPiZe) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [It's Almost Dry](https://open.spotify.com/album/6o38CdD7CUlZDCFhjZYLDH) | 2:32 | 2022-04-23 | 2022-04-29 |
 | [Seeing Green \(with Drake & Lil Wayne\)](https://open.spotify.com/track/1TZv3bujNaYz646eezRE91) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Beam Me Up Scotty](https://open.spotify.com/album/2upw5IrzeqKApIQZyx5o6r) | 5:39 | 2021-05-16 | 2021-05-30 |
 | [Selfish](https://open.spotify.com/track/2xbI8Vmyv3TkpTdywpPyNw) | [PnB Rock](https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM) | [GTTM: Goin Thru the Motions](https://open.spotify.com/album/7eFfp9r4A30ueN9A5EJbk2) | 4:05 | 2022-09-14 | 2022-09-16 |
+| [September](https://open.spotify.com/track/4f2GB5ZC7vOUYPAg69N2Xw) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Now, Then & Forever](https://open.spotify.com/album/2L8rj8VnahryOqg7vKHYzx) | 3:41 | 2022-09-22 |  |
 | [Sharing Locations \(feat\. Lil Baby & Lil Durk\)](https://open.spotify.com/track/3J4VKkUpLvomXJbn9ZAypO) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Sharing Locations \(feat\. Lil Baby & Lil Durk\)](https://open.spotify.com/album/0q6qOUfC4ikWtv62KCnoip) | 2:41 | 2021-08-29 | 2021-10-03 |
 | [Sharing Locations \(feat\. Lil Baby & Lil Durk\)](https://open.spotify.com/track/3T9BKc4kB7ukeNQrCqv6ZV) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Expensive Pain](https://open.spotify.com/album/3cLQ49Ll3nGRkw3HSSk92K) | 2:41 | 2021-10-03 | 2021-10-10 |
 | [She Wolf](https://open.spotify.com/track/4cS2HQ6jK80vqdY9ofpztx) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [She Wolf \(Expanded Edition\)](https://open.spotify.com/album/5u0OuxRnf3FzvZR07xAxL2) | 3:08 | 2021-11-02 | 2021-11-03 |
@@ -959,7 +960,7 @@
 | [True Love](https://open.spotify.com/track/06JvOZ39sK8D8SqiqfaxDU) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [True Love](https://open.spotify.com/album/1YA0gAfV91LkDq1DODSCbc) | 2:28 | 2022-05-28 | 2022-06-26 |
 | [TSU](https://open.spotify.com/track/4s7QLoImIwmPi9L6dq1nVW) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 5:08 | 2021-09-05 | 2021-09-26 |
 | [TV](https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guitar Songs](https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj) | 4:41 | 2022-07-23 | 2022-08-07 |
-| [Typa Girl](https://open.spotify.com/track/0L8LOav65XwLjCLS11gNPD) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P) | 2:59 | 2022-09-17 |  |
+| [Typa Girl](https://open.spotify.com/track/0L8LOav65XwLjCLS11gNPD) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P) | 2:59 | 2022-09-17 | 2022-09-23 |
 | [U\-Digg \(feat\. 42 Dugg & Veeze\)](https://open.spotify.com/track/0b7UwotRCrS7qBoLDjfvSY) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7) | [U\-Digg \(feat\. 42 Dugg & Veeze\)](https://open.spotify.com/album/0gnnmRUd9qg7ihL70KEtVZ) | 3:55 | 2022-06-18 | 2022-06-20 |
 | [Under The Influence](https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Indigo \(Extended\)](https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww) | 3:04 | 2022-08-03 |  |
 | [Underneath the Tree](https://open.spotify.com/track/3nAp4IvdMPPWEH9uuXFFV5) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Wrapped In Red](https://open.spotify.com/album/0t70lpfTyHEv0uuq21fhdZ) | 3:49 | 2021-11-28 | 2021-12-29 |

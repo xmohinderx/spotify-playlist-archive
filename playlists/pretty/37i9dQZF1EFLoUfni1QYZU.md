@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLoUfni1QYZU.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Us5C0HFdmcZ9MjiU11rWa">LP</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 421 likes - 83 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 424 likes - 83 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLoUfni1QYZU.md) - [plain]
 | 17 | [One Last Time](https://open.spotify.com/track/3b5rN0v3y5T70UUX9zayTy) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Churches](https://open.spotify.com/album/73yPks0QhGEUpg7jcWHVso) | 3:13 |
 | 18 | [Waiting Outside The Lines](https://open.spotify.com/track/5AdFiDqYP1E0OwXyUt9UGI) | [Greyson Chance](https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX) | [Hold On ‘Til The Night](https://open.spotify.com/album/5Vbc1cKq8E0TxSAL5rTD57) | 3:51 |
 | 19 | [Shaken](https://open.spotify.com/track/33Vpz0V1ytEaRQuIb1LqGv) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Heart to Mouth](https://open.spotify.com/album/0pGDQC60cx6f5roJfHLF1g) | 3:45 |
-| 20 | [Mirror Man](https://open.spotify.com/track/5ItmPIcrJGy1e9sMnihDqB) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Chapter One](https://open.spotify.com/album/0KP9GNOxpsKRSA0t0B4ZsL) | 3:42 |
-| 21 | [Dreamer](https://open.spotify.com/track/53N2lUWiXmZHNlR8ydET2p) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Heart to Mouth](https://open.spotify.com/album/0pGDQC60cx6f5roJfHLF1g) | 3:25 |
+| 20 | [Dreamer](https://open.spotify.com/track/53N2lUWiXmZHNlR8ydET2p) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Heart to Mouth](https://open.spotify.com/album/0pGDQC60cx6f5roJfHLF1g) | 3:25 |
+| 21 | [Mirror Man](https://open.spotify.com/track/5ItmPIcrJGy1e9sMnihDqB) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Chapter One](https://open.spotify.com/album/0KP9GNOxpsKRSA0t0B4ZsL) | 3:42 |
 | 22 | [Shine Ya Light](https://open.spotify.com/track/53Jn6XWHu86vTZEK4elSH7) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [ORA](https://open.spotify.com/album/1aDnLoXL8rl3WFJWLTxZmx) | 3:30 |
 | 23 | [Up Against Me](https://open.spotify.com/track/2EyNDcf37MM2eez5Csf3YX) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Lost on You](https://open.spotify.com/album/3R2TVCA5PMMnEcVlIOCMEG) | 3:02 |
 | 24 | [Someday](https://open.spotify.com/track/6aqQwBaJ2W7z5PIqWMheGx) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Forever for Now \(Deluxe Edition\)](https://open.spotify.com/album/4Xj78YEY3wweavnPEJXuWw) | 4:12 |
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLoUfni1QYZU.md) - [plain]
 | 82 | [Roller Coaster](https://open.spotify.com/track/6elXVlR9dJliy71mybZP7s) | [Serena Ryder](https://open.spotify.com/artist/3jmxkI8Jhv8bHOd2qSiU9j) | [Utopia \(Deluxe\)](https://open.spotify.com/album/0GAtHpvRswlQ1ONVQgz9q5) | 3:30 |
 | 83 | [Pedestal](https://open.spotify.com/track/1mVW6SmGOr1UMfIBf9xSag) | [EMIN](https://open.spotify.com/artist/0sKY9AcBdiGx4FbFbQsXoX) | [Good Love](https://open.spotify.com/album/13jgOeU2lMcpB0JJ77aJXt) | 3:25 |
 
-Snapshot ID: `Mjc3Mjg3NjEsMDAwMDAwMDBlZTEwMDNkZWY3N2Q5NDQ2ZjA5ODM3N2QwNDMxNzY5Yg==`
+Snapshot ID: `Mjc3MzE2NDEsMDAwMDAwMDBhN2E1MWYxMGNjYTk2NjQzNDkyZDAxMDcwODg5MDIzNw==`

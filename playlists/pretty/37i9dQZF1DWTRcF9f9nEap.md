@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRcF9f9nEap.md) - [plain]
 
 > A sound synonymous with the Blues; these are the pioneering names in slide guitar\. Cover: Johnny Winter
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,674 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,755 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,9 +20,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRcF9f9nEap.md) - [plain]
 | 10 | [Dark Was the Night, Cold Was the Ground](https://open.spotify.com/track/2P9nh9pTK96dE0b6NBbTSs) | [Blind Willie Johnson](https://open.spotify.com/artist/5kO4xdEKLuHHHPreu3UmkZ) | [Dark Was The Night \(Mojo Workin'\- Blues For The Next Generation\)](https://open.spotify.com/album/3H90ji25FlT62CztiEOhrt) | 3:18 |
 | 11 | [Statesboro Blues](https://open.spotify.com/track/3UsbGR71AjcBYOWoUlfTdm) | [Allman Brothers Band](https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR) | [The 1971 Fillmore East Recordings](https://open.spotify.com/album/4RbjXWZ3uTRGP3DRT6nvKz) | 4:44 |
 | 12 | [Ain't Got Nobody](https://open.spotify.com/track/4lbqUtqgX3dITgYJMBjCDS) | [Hound Dog Taylor](https://open.spotify.com/artist/737qPoiQQkeuIzuJy54aK4) | [Genuine Houserocking Music](https://open.spotify.com/album/0QYVlYhJlKUteRXnfqZwhe) | 3:30 |
-| 13 | [Down In the Flood](https://open.spotify.com/track/5U51nS2N1TDL1HEHEio7mC) | [The Derek Trucks Band](https://open.spotify.com/artist/1YwfENKEZrowcmtR1nALZn) | [Already Free](https://open.spotify.com/album/1I4Ydy7hVvINSdRHV7n4fS) | 5:02 |
-| 14 | [You Gotta Move](https://open.spotify.com/track/2En6kxGCjZxXmKJ1IYu4Fp) | [Mississippi Fred McDowell](https://open.spotify.com/artist/0elA30wLp3RmiPaGtU2jhQ) | [You Gotta Move](https://open.spotify.com/album/5nJz88Bfi3okSgLuLLDfX1) | 3:20 |
-| 15 | [The Sky Is Crying](https://open.spotify.com/track/0qRz3AYteD6VX65GkBqcel) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Shake Your Moneymaker: The Best of the Fire Sessions](https://open.spotify.com/album/04c932ZDWrJTCdBLfUCgUj) | 2:46 |
+| 13 | [The Sky Is Crying](https://open.spotify.com/track/0qRz3AYteD6VX65GkBqcel) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Shake Your Moneymaker: The Best of the Fire Sessions](https://open.spotify.com/album/04c932ZDWrJTCdBLfUCgUj) | 2:46 |
+| 14 | [Down In the Flood](https://open.spotify.com/track/5U51nS2N1TDL1HEHEio7mC) | [The Derek Trucks Band](https://open.spotify.com/artist/1YwfENKEZrowcmtR1nALZn) | [Already Free](https://open.spotify.com/album/1I4Ydy7hVvINSdRHV7n4fS) | 5:02 |
+| 15 | [You Gotta Move](https://open.spotify.com/track/2En6kxGCjZxXmKJ1IYu4Fp) | [Mississippi Fred McDowell](https://open.spotify.com/artist/0elA30wLp3RmiPaGtU2jhQ) | [You Gotta Move](https://open.spotify.com/album/5nJz88Bfi3okSgLuLLDfX1) | 3:20 |
 | 16 | [I'm In The Mood](https://open.spotify.com/track/1W3QQa9SG6zaftNQJchWY7) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x), [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [The Healer](https://open.spotify.com/album/2jKj2prskANfjyo13navEs) | 4:31 |
 | 17 | [Ground On Down](https://open.spotify.com/track/6THh5CL5PYf7OqOq9pTqNb) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Fight For Your Mind](https://open.spotify.com/album/3qw2TRebw37Mdb3aP78kM4) | 4:53 |
 | 18 | [Death Letter](https://open.spotify.com/track/78ZPgT0agDUG95ByxpTNBP) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [De Stijl](https://open.spotify.com/album/3jqKVacx9hnu47kCAG55T3) | 4:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRcF9f9nEap.md) - [plain]
 | 49 | [Ghost Blues](https://open.spotify.com/track/6axmyZv2KR3IUTjuIHSN8E) | [Rory Gallagher](https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV) | [Fresh Evidence \(Remastered 2017\)](https://open.spotify.com/album/3nKprInHCjgZsU6GQPeEst) | 8:00 |
 | 50 | [Bad Girl Blues \- Remastered](https://open.spotify.com/track/5abAIEO9uuBFNvWzle7rcx) | [Johnny Winter](https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO) | [3rd Degree \(Remastered\)](https://open.spotify.com/album/1RcjOFCn7PDU8GZB97odnZ) | 4:34 |
 
-Snapshot ID: `MTY1Mjk4ODMyOSwwMDAwMDAwMDRkZWNmY2M2MDM0ZWEzY2NmZWZkZTVhYjRkZWRiNWM5`
+Snapshot ID: `MTY1Mjk4ODMyOSwwMDAwMDAwMDg4ODVkZmIxYmYxZWMyYTMwN2Q5MThhNGNhMWMxZjU4`

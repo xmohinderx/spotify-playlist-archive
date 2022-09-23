@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnscMH24yOc.md) - [plain]
 
 > Kick back and relax with a collection of eclectic and unexpected reimaginings\. Cover:  Joy Oladokun
 
-[Spotify](https://open.spotify.com/user/spotify) - 412,367 likes - 100 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 412,420 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,10 +47,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnscMH24yOc.md) - [plain]
 | 37 | [Come As You Are](https://open.spotify.com/track/2BPmo2L5bYVS5SmpOTcfyF) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [Come As You Are](https://open.spotify.com/album/4375fZFM49wOvF4BvU1jfv) | 2:45 |
 | 38 | [Dakota](https://open.spotify.com/track/2LOEgB0Jk9suqAP5dDS4bp) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [Dakota](https://open.spotify.com/album/4dl5Lo8s7uDNRAqqtW2wna) | 4:54 |
 | 39 | [Lost](https://open.spotify.com/track/3WPYHZy8f7KIS5fVTUmliT) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [Lost](https://open.spotify.com/album/0zjop7Z7ewP36d0dBidpnJ) | 3:57 |
-| 40 | [I'll Stand by You](https://open.spotify.com/track/7zdaLRVLJJSXjdQB1tFZRJ) | [Jake Wesley Rogers](https://open.spotify.com/artist/5lEF4Tt1uK7Kuk80ILMlE9) | [I'll Stand by You](https://open.spotify.com/album/6CsQEUwnLOXJMlRW5uiGnE) | 3:24 |
+| 40 | [Addicted To Love](https://open.spotify.com/track/3fNuoybebaufvtFBo5TDWO) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Edition\)](https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ) | 3:19 |
 | 41 | [Wicked Game \- Live at Killkenny Arts Festival, Ireland/2011](https://open.spotify.com/track/77mT8LF6gDOLZNOjUhmwfV) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [We Don't Eat EP](https://open.spotify.com/album/0wk8Gzx0HhV71P4IpYFsEy) | 4:31 |
-| 42 | [All Too Well](https://open.spotify.com/track/3iTb61NCoUhOvbChmdhcRM) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [All Too Well](https://open.spotify.com/album/6efKXWSoIcByFOuxyu7Sh3) | 5:15 |
-| 43 | [Addicted To Love](https://open.spotify.com/track/3fNuoybebaufvtFBo5TDWO) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Edition\)](https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ) | 3:19 |
+| 42 | [I'll Stand by You](https://open.spotify.com/track/7zdaLRVLJJSXjdQB1tFZRJ) | [Jake Wesley Rogers](https://open.spotify.com/artist/5lEF4Tt1uK7Kuk80ILMlE9) | [I'll Stand by You](https://open.spotify.com/album/6CsQEUwnLOXJMlRW5uiGnE) | 3:24 |
+| 43 | [All Too Well](https://open.spotify.com/track/3iTb61NCoUhOvbChmdhcRM) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [All Too Well](https://open.spotify.com/album/6efKXWSoIcByFOuxyu7Sh3) | 5:15 |
 | 44 | [Today](https://open.spotify.com/track/2M605uHCPSyTuiWhplewX1) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Siamese Dream](https://open.spotify.com/album/0ru8LiiyWfkrHIqh0nSUTA) | 4:15 |
 | 45 | [All Through the Night](https://open.spotify.com/track/32RC7EvEAUUn9aoQZlWT2e) | [Sleeping At Last](https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g) | [Covers, Vol\. 1](https://open.spotify.com/album/3y3pxFKLvqdAyL9RA4Hd3o) | 3:17 |
 | 46 | [Wouldn't It Be Nice](https://open.spotify.com/track/0p9iW5SZgKuxF2Tnodh316) | [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE) | [Wouldn't It Be Nice](https://open.spotify.com/album/1PT5g9fRMIqfpwPzRkAmFy) | 2:47 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnscMH24yOc.md) - [plain]
 | 74 | [I'm Gonna Be \(500 Miles\)](https://open.spotify.com/track/09MdiypXlcb1kohV3cO03p) | [Sleeping At Last](https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g) | [I'm Gonna Be \(500 Miles\)](https://open.spotify.com/album/0b8KcBvQVOYGRQWGaWzyS0) | 3:32 |
 | 75 | [Love You Like a Love Song](https://open.spotify.com/track/0JnadInlpLB7yLuxyPvSBR) | [Cats On Trees](https://open.spotify.com/artist/3Dcckn2A8PXmu8zLpMuO3B) | [Cats On Trees \(Deluxe Edition\)](https://open.spotify.com/album/490jDU3N2lYBkXm6Ag5A5y) | 3:01 |
 | 76 | [Waterfalls](https://open.spotify.com/track/4WFdNbQtBQxY9rM7d3E6XC) | [Ten Fé](https://open.spotify.com/artist/3cohAS2UQTaOo80kCn8qjT) | [Waterfalls](https://open.spotify.com/album/3a6JKnmVgeGdxebVWOXGOw) | 4:26 |
-| 77 | [Savior Complex](https://open.spotify.com/track/5cTlo1j9rEKQWRBynDcywn) | [Brandon](https://open.spotify.com/artist/08HpiyWkp2Z7gFTkVae265) | [Savior Complex](https://open.spotify.com/album/2GRYhyTbRxrjwzJOcCfJUI) | 3:52 |
-| 78 | [About You Now](https://open.spotify.com/track/0z4eTq4BtDiNN5IFQSUBau) | [Meadowlark](https://open.spotify.com/artist/3M8Mq1n1l1TRnTUw2MRSCs) | [Nocturnes](https://open.spotify.com/album/6Jzq1Fi63BPj4aMhXLQ5yH) | 3:47 |
+| 77 | [About You Now](https://open.spotify.com/track/0z4eTq4BtDiNN5IFQSUBau) | [Meadowlark](https://open.spotify.com/artist/3M8Mq1n1l1TRnTUw2MRSCs) | [Nocturnes](https://open.spotify.com/album/6Jzq1Fi63BPj4aMhXLQ5yH) | 3:47 |
+| 78 | [Savior Complex](https://open.spotify.com/track/5cTlo1j9rEKQWRBynDcywn) | [Brandon](https://open.spotify.com/artist/08HpiyWkp2Z7gFTkVae265) | [Savior Complex](https://open.spotify.com/album/2GRYhyTbRxrjwzJOcCfJUI) | 3:52 |
 | 79 | [Let’s Dance](https://open.spotify.com/track/2GeeOvZ02vgWehu9Sl8tX8) | [M\. Ward](https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI) | [Transfiguration of Vincent](https://open.spotify.com/album/4teFdvjZVz0nud7aGZ8jjS) | 5:00 |
 | 80 | [Whatever You Like \- Single Version](https://open.spotify.com/track/5qX2ZJoLEyFCTAdaCqUo7s) | [Anya Marina](https://open.spotify.com/artist/6xYBLeSMu1AqPsnUzEvx5n) | [Whatever You Like \[Digital 45\]](https://open.spotify.com/album/16AnLWE6Js4hmXqumUFJjv) | 3:48 |
 | 81 | [What Is Love](https://open.spotify.com/track/2jrmSLNOdNPZvMyYaZt9bm) | [Kiesza](https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo) | [Sound Of A Woman](https://open.spotify.com/album/2esSZWmdzMPyQsszbsX0rr) | 3:08 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnscMH24yOc.md) - [plain]
 | 99 | [Every Breath You Take \(Re:Imagined\)](https://open.spotify.com/track/1sz0fuWEAcPkCfG5o7D9KP) | [Denmark + Winter](https://open.spotify.com/artist/3iieFb3WOWJ8tW57Gixt8y) | [Every Breath You Take \(Re:Imagined\)](https://open.spotify.com/album/3SwpbUHJxGoZQnUCtBltcN) | 3:42 |
 | 100 | [Anthem](https://open.spotify.com/track/2oubpFgSp6kOuL4XeBIHe9) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Anthem +3](https://open.spotify.com/album/6QjbX8JjvSfG5daXAeQKEU) | 5:45 |
 
-Snapshot ID: `MTY0Nzk2MDAyOSwwMDAwMDAwMGE5MzBjNDE2Mzg2ZDRlMWMzYWZmMWJiMGE5YmNiMjhi`
+Snapshot ID: `MTY0Nzk2MDAyOSwwMDAwMDAwMGIwZjI0ZTIyYzAzNTFlMTdmNThkYjcwOGNmOGIwNjY0`

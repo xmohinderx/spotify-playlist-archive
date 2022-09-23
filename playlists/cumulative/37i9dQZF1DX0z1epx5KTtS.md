@@ -2,9 +2,9 @@
 
 ### [Coupé Décalé](https://open.spotify.com/playlist/37i9dQZF1DX0z1epx5KTtS)
 
-> African dance party music from Paris to Abidjan\. Photo : DJ Arafat
+> African dance party music from Paris to Abidjan\. Photo : Fior 2 Bior
 
-80 songs - 4 hr 50 min - [published](https://open.spotify.com/playlist/05NUJhg2S8ET7TkDhLag5G)
+81 songs - 4 hr 54 min - [published](https://open.spotify.com/playlist/05NUJhg2S8ET7TkDhLag5G)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,8 +22,9 @@
 | [Dadado](https://open.spotify.com/track/5vl7f5amLLp8nYv4b74XxZ) | [Bébé Baya](https://open.spotify.com/artist/5zJCChWvZvn93HvWKNPvod), [Fishkiller](https://open.spotify.com/artist/1C6LOx5DP2ylyB2KVuV4fs) | [Dadado](https://open.spotify.com/album/0dli480IYmrLBuhhKmPKoJ) | 3:22 | 2021-12-20 | 2022-05-06 |
 | [Delta force](https://open.spotify.com/track/1QR5eo1mMXlKAn6Hv5Db9Q) | [Samarino](https://open.spotify.com/artist/3rIS2pZczFmGjl4LVxelm7) | [Chambre Noire](https://open.spotify.com/album/3IATloMilRD68c5FtSfPGv) | 3:41 | 2022-06-16 | 2022-08-05 |
 | [Descend un peu](https://open.spotify.com/track/0Yc6JRXXgNzj6zOtQEv7f3) | [Molare](https://open.spotify.com/artist/4RVinIIKSvO4mc0DGj8FW1), [Kiff No Beat](https://open.spotify.com/artist/4dQxvm7YD9qOd3SdToppT8) | [Descend un peu](https://open.spotify.com/album/1GsntAdgmlPTwI5vRcM0fU) | 3:42 | 2021-12-20 |  |
-| [Detounounan](https://open.spotify.com/track/7y55f9xT7YZqyQc5vqHyxc) | [Debordo Leekunfa](https://open.spotify.com/artist/5FifERNGZjGW4axWwm0Q8f) | [Detounounan](https://open.spotify.com/album/0W8RUFSIkglecLJhjt4ocf) | 4:09 | 2021-12-20 |  |
+| [Detounounan](https://open.spotify.com/track/7y55f9xT7YZqyQc5vqHyxc) | [Debordo Leekunfa](https://open.spotify.com/artist/5FifERNGZjGW4axWwm0Q8f) | [Detounounan](https://open.spotify.com/album/0W8RUFSIkglecLJhjt4ocf) | 4:09 | 2021-12-20 | 2022-09-23 |
 | [Dibango Dibanga](https://open.spotify.com/track/5JjlAXr0s5A1S9JSUBTN8U) | [Bello Falcao](https://open.spotify.com/artist/3bskvfAKK6Qmmzx5LDtP9R) | [Dibango Dibanga](https://open.spotify.com/album/1K8UMbxiHBMAfI5eGF7cuX) | 3:00 | 2022-06-09 |  |
+| [Dinero](https://open.spotify.com/track/6ovQy5ORm3DaZtPC5yZJt8) | [Tidiane Mario](https://open.spotify.com/artist/18KtXJle23YLBaRsGpMCxx), [Gaz Mawete](https://open.spotify.com/artist/4WSA56zRr2ZBnbQqVNrMay) | [Dinero](https://open.spotify.com/album/0qFDvXYZKNLthuFhlufwvO) | 4:03 | 2022-09-22 |  |
 | [Dis merci à Dieu](https://open.spotify.com/track/2KqGneSnIJJATSwpv2mbA3) | [DJ KEROZEN](https://open.spotify.com/artist/6CPW7jlE6totfvrymgqV7W), [Toofan](https://open.spotify.com/artist/5BfpzKNakWiXUNm1RfBgUi) | [Dis merci à Dieu](https://open.spotify.com/album/3FWMC015RDd3VS86NUrohj) | 3:26 | 2021-12-20 | 2022-06-03 |
 | [Donne\-lui l'argent](https://open.spotify.com/track/35QFvkmNkPjDa3H3EacJLr) | [Dj Léo le kdo du ciel](https://open.spotify.com/artist/084TMjcRarwgyURTDNr8Xh) | [Donne\-lui l'argent](https://open.spotify.com/album/1kwf8zg7guVu0jG40TL8oi) | 3:01 | 2021-12-20 | 2022-06-03 |
 | [Donnez nous un peu](https://open.spotify.com/track/2XnpZ2HWVvEJqUhyhQBGZj) | [Roseline Layo](https://open.spotify.com/artist/3vrK28yYXzDOifqaD3YyEI) | [Donnez nous un peu](https://open.spotify.com/album/3uF6riPOUySzte9e68eXUu) | 3:51 | 2022-01-21 |  |

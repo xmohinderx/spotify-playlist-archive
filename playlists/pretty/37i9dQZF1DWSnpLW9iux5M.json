@@ -1,12 +1,12 @@
 {
   "description": "Celebrate Christmas with these soulful and classic songs sung by some of your favorite Gospel artists.",
-  "num_followers": 41871,
+  "num_followers": 41887,
   "original_name": "Gospel Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDMyMjMwMCwwMDAwMDAwMGU0ZjNhNjZhYmZhOGJiN2YyOTNiMmIwZmQwM2MwNmM3",
+  "snapshot_id": "MTY0MDMyMjMwMCwwMDAwMDAwMGFkMTRjNGViNWE0MDJiNzk0NWM3OTA0ODk4MDMyZGM1",
   "tracks": [
     {
       "added_at": "2021-12-24 05:05:00",
@@ -291,6 +291,26 @@
     {
       "added_at": "2021-12-24 05:05:00",
       "album": {
+        "name": "Christmas With PJ Morton",
+        "url": "https://open.spotify.com/album/6CCI8iFCudEj8BrLUs3Mj6"
+      },
+      "artists": [
+        {
+          "name": "PJ Morton",
+          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
+        },
+        {
+          "name": "Yolanda Adams",
+          "url": "https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11"
+        }
+      ],
+      "duration_ms": 248663,
+      "name": "Do You Believe (feat. Yolanda Adams)",
+      "url": "https://open.spotify.com/track/4Arl2nYTR4A0vTs4im5mYb"
+    },
+    {
+      "added_at": "2021-12-24 05:05:00",
+      "album": {
         "name": "First Christmas",
         "url": "https://open.spotify.com/album/34TpQar6QnutagRwdtiNpl"
       },
@@ -319,26 +339,6 @@
       "duration_ms": 255600,
       "name": "Jesus What a Wonderful Child",
       "url": "https://open.spotify.com/track/0lhWmXuHinXh3CTXOVECEC"
-    },
-    {
-      "added_at": "2021-12-24 05:05:00",
-      "album": {
-        "name": "Christmas With PJ Morton",
-        "url": "https://open.spotify.com/album/6CCI8iFCudEj8BrLUs3Mj6"
-      },
-      "artists": [
-        {
-          "name": "PJ Morton",
-          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
-        },
-        {
-          "name": "Yolanda Adams",
-          "url": "https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11"
-        }
-      ],
-      "duration_ms": 248663,
-      "name": "Do You Believe (feat. Yolanda Adams)",
-      "url": "https://open.spotify.com/track/4Arl2nYTR4A0vTs4im5mYb"
     },
     {
       "added_at": "2021-12-24 05:05:00",
@@ -519,18 +519,18 @@
     {
       "added_at": "2021-12-24 05:05:00",
       "album": {
-        "name": "First Christmas",
-        "url": "https://open.spotify.com/album/34TpQar6QnutagRwdtiNpl"
+        "name": "Fred Hammond Christmas... Just Remember",
+        "url": "https://open.spotify.com/album/60FGRPh1qIBo8lXzk5Vkv9"
       },
       "artists": [
         {
-          "name": "Bebe & Cece Winans",
-          "url": "https://open.spotify.com/artist/3WNUkxJcJeliFx9KXWXMgs"
+          "name": "Fred Hammond",
+          "url": "https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484"
         }
       ],
-      "duration_ms": 270133,
-      "name": "For Unto Us (A Child Is Born)",
-      "url": "https://open.spotify.com/track/6vCh1sz0DsccWhs5nJHk3q"
+      "duration_ms": 230026,
+      "name": "Go Tell It On The Mountain",
+      "url": "https://open.spotify.com/track/1wJ8rs2jbN3fE1aRU3IsNa"
     },
     {
       "added_at": "2021-12-24 05:05:00",
@@ -551,18 +551,18 @@
     {
       "added_at": "2021-12-24 05:05:00",
       "album": {
-        "name": "Fred Hammond Christmas... Just Remember",
-        "url": "https://open.spotify.com/album/60FGRPh1qIBo8lXzk5Vkv9"
+        "name": "First Christmas",
+        "url": "https://open.spotify.com/album/34TpQar6QnutagRwdtiNpl"
       },
       "artists": [
         {
-          "name": "Fred Hammond",
-          "url": "https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484"
+          "name": "Bebe & Cece Winans",
+          "url": "https://open.spotify.com/artist/3WNUkxJcJeliFx9KXWXMgs"
         }
       ],
-      "duration_ms": 230026,
-      "name": "Go Tell It On The Mountain",
-      "url": "https://open.spotify.com/track/1wJ8rs2jbN3fE1aRU3IsNa"
+      "duration_ms": 270133,
+      "name": "For Unto Us (A Child Is Born)",
+      "url": "https://open.spotify.com/track/6vCh1sz0DsccWhs5nJHk3q"
     },
     {
       "added_at": "2021-12-24 05:05:00",
@@ -663,6 +663,26 @@
     {
       "added_at": "2021-12-24 05:05:00",
       "album": {
+        "name": "Let There Be Peace on Earth",
+        "url": "https://open.spotify.com/album/0hTxmgpCiExm895BIhQ6Vv"
+      },
+      "artists": [
+        {
+          "name": "Susy Gonzalez",
+          "url": "https://open.spotify.com/artist/5CTNrReVSQ2TyN3QC1M1VG"
+        },
+        {
+          "name": "Take 6",
+          "url": "https://open.spotify.com/artist/31zQEL3ARiYe63jn3jtM18"
+        }
+      ],
+      "duration_ms": 216367,
+      "name": "Let There Be Peace on Earth",
+      "url": "https://open.spotify.com/track/2oD7uX89PowHqD3CPFkULx"
+    },
+    {
+      "added_at": "2021-12-24 05:05:00",
+      "album": {
         "name": "He Is Christmas",
         "url": "https://open.spotify.com/album/7vW35sxN7K0ZxTscxFpCDR"
       },
@@ -695,26 +715,6 @@
     {
       "added_at": "2021-12-24 05:05:00",
       "album": {
-        "name": "Let There Be Peace on Earth",
-        "url": "https://open.spotify.com/album/0hTxmgpCiExm895BIhQ6Vv"
-      },
-      "artists": [
-        {
-          "name": "Susy Gonzalez",
-          "url": "https://open.spotify.com/artist/5CTNrReVSQ2TyN3QC1M1VG"
-        },
-        {
-          "name": "Take 6",
-          "url": "https://open.spotify.com/artist/31zQEL3ARiYe63jn3jtM18"
-        }
-      ],
-      "duration_ms": 216367,
-      "name": "Let There Be Peace on Earth",
-      "url": "https://open.spotify.com/track/2oD7uX89PowHqD3CPFkULx"
-    },
-    {
-      "added_at": "2021-12-24 05:05:00",
-      "album": {
         "name": "A Soulful Holiday",
         "url": "https://open.spotify.com/album/79IL2APoL7tNBZqrT9dZpT"
       },
@@ -727,22 +727,6 @@
       "duration_ms": 248093,
       "name": "Deck The Halls",
       "url": "https://open.spotify.com/track/5UqCQJC8SM1DJXoGyIXfKk"
-    },
-    {
-      "added_at": "2021-12-24 05:05:00",
-      "album": {
-        "name": "Fred Hammond Christmas... Just Remember",
-        "url": "https://open.spotify.com/album/60FGRPh1qIBo8lXzk5Vkv9"
-      },
-      "artists": [
-        {
-          "name": "Fred Hammond",
-          "url": "https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484"
-        }
-      ],
-      "duration_ms": 272466,
-      "name": "His Name Is Jesus",
-      "url": "https://open.spotify.com/track/2kqPEt1i8GxrBdTC0xpbFL"
     },
     {
       "added_at": "2021-12-24 05:05:00",
@@ -763,6 +747,22 @@
     {
       "added_at": "2021-12-24 05:05:00",
       "album": {
+        "name": "Fred Hammond Christmas... Just Remember",
+        "url": "https://open.spotify.com/album/60FGRPh1qIBo8lXzk5Vkv9"
+      },
+      "artists": [
+        {
+          "name": "Fred Hammond",
+          "url": "https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484"
+        }
+      ],
+      "duration_ms": 272466,
+      "name": "His Name Is Jesus",
+      "url": "https://open.spotify.com/track/2kqPEt1i8GxrBdTC0xpbFL"
+    },
+    {
+      "added_at": "2021-12-24 05:05:00",
+      "album": {
         "name": "Silent Night: Songs For Christmas",
         "url": "https://open.spotify.com/album/5xInXUBHp3zpSTpwUsgvmp"
       },
@@ -775,22 +775,6 @@
       "duration_ms": 234440,
       "name": "O Little Town of Bethlehem",
       "url": "https://open.spotify.com/track/68edTo4Prl09iToMTtqanW"
-    },
-    {
-      "added_at": "2021-12-24 05:05:00",
-      "album": {
-        "name": "A Timeless Christmas",
-        "url": "https://open.spotify.com/album/3F5Wb3mMFiioGLmZxyYxQ8"
-      },
-      "artists": [
-        {
-          "name": "Israel & New Breed",
-          "url": "https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E"
-        }
-      ],
-      "duration_ms": 324560,
-      "name": "Go Tell",
-      "url": "https://open.spotify.com/track/32u9xTZ9N9fJX9mMNymVhx"
     },
     {
       "added_at": "2021-12-24 05:05:00",
@@ -811,6 +795,22 @@
     {
       "added_at": "2021-12-24 05:05:00",
       "album": {
+        "name": "A Timeless Christmas",
+        "url": "https://open.spotify.com/album/3F5Wb3mMFiioGLmZxyYxQ8"
+      },
+      "artists": [
+        {
+          "name": "Israel & New Breed",
+          "url": "https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E"
+        }
+      ],
+      "duration_ms": 324560,
+      "name": "Go Tell",
+      "url": "https://open.spotify.com/track/32u9xTZ9N9fJX9mMNymVhx"
+    },
+    {
+      "added_at": "2021-12-24 05:05:00",
+      "album": {
         "name": "This Christmas",
         "url": "https://open.spotify.com/album/3r8Q53TiFAKYR19SBLYL75"
       },
@@ -823,6 +823,22 @@
       "duration_ms": 232720,
       "name": "Christmas Ain't Christmas (Without The One You Love)",
       "url": "https://open.spotify.com/track/1AGyI7SdbBZo21G0obtQrH"
+    },
+    {
+      "added_at": "2021-12-24 05:05:00",
+      "album": {
+        "name": "It's Christmas",
+        "url": "https://open.spotify.com/album/7ne0Kc9Ky1QdfNLb3FfOuj"
+      },
+      "artists": [
+        {
+          "name": "Ledisi",
+          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
+        }
+      ],
+      "duration_ms": 264573,
+      "name": "Have Yourself A Merry Little Christmas",
+      "url": "https://open.spotify.com/track/4DEyCl5t6wuxLZnUBQss8N"
     },
     {
       "added_at": "2021-12-24 05:05:00",
@@ -843,22 +859,6 @@
       "duration_ms": 188135,
       "name": "I\u2019ll Be Home For Christmas",
       "url": "https://open.spotify.com/track/2pcA8F0cSYeMhXCHqBxBoX"
-    },
-    {
-      "added_at": "2021-12-24 05:05:00",
-      "album": {
-        "name": "It's Christmas",
-        "url": "https://open.spotify.com/album/7ne0Kc9Ky1QdfNLb3FfOuj"
-      },
-      "artists": [
-        {
-          "name": "Ledisi",
-          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
-        }
-      ],
-      "duration_ms": 264573,
-      "name": "Have Yourself A Merry Little Christmas",
-      "url": "https://open.spotify.com/track/4DEyCl5t6wuxLZnUBQss8N"
     },
     {
       "added_at": "2021-12-24 05:05:00",
@@ -903,22 +903,6 @@
     {
       "added_at": "2021-12-24 05:05:00",
       "album": {
-        "name": "Gospel Heritage Christmas Vol. 2",
-        "url": "https://open.spotify.com/album/401xeKiJnhyWCWDLdca40p"
-      },
-      "artists": [
-        {
-          "name": "Jonathan McReynolds",
-          "url": "https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9"
-        }
-      ],
-      "duration_ms": 180684,
-      "name": "Mary Did You Know",
-      "url": "https://open.spotify.com/track/2ROTDFwYPHaf1xlEWVVOta"
-    },
-    {
-      "added_at": "2021-12-24 05:05:00",
-      "album": {
         "name": "Christmas Card",
         "url": "https://open.spotify.com/album/3nDsomMe31JVCIlnaQizwU"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 240026,
       "name": "Home for Christmas (feat. Joe) (feat. Joe)",
       "url": "https://open.spotify.com/track/4gGEaTqjTlEK0uf3guEhDI"
+    },
+    {
+      "added_at": "2021-12-24 05:05:00",
+      "album": {
+        "name": "Gospel Heritage Christmas Vol. 2",
+        "url": "https://open.spotify.com/album/401xeKiJnhyWCWDLdca40p"
+      },
+      "artists": [
+        {
+          "name": "Jonathan McReynolds",
+          "url": "https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9"
+        }
+      ],
+      "duration_ms": 180684,
+      "name": "Mary Did You Know",
+      "url": "https://open.spotify.com/track/2ROTDFwYPHaf1xlEWVVOta"
     },
     {
       "added_at": "2021-12-24 05:05:00",
@@ -1091,6 +1091,26 @@
     {
       "added_at": "2021-12-24 05:05:00",
       "album": {
+        "name": "Holiday Love Sounds of Christmas",
+        "url": "https://open.spotify.com/album/2ovxcV44GZ2oFfMnaWMoqs"
+      },
+      "artists": [
+        {
+          "name": "Joe Pace",
+          "url": "https://open.spotify.com/artist/2om6820fe3HJsgcWcC5Zn0"
+        },
+        {
+          "name": "Jekalyn Carr",
+          "url": "https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH"
+        }
+      ],
+      "duration_ms": 298680,
+      "name": "What a Wonderful Savior",
+      "url": "https://open.spotify.com/track/0cbgZxW0vbOVJx1sMgQXVo"
+    },
+    {
+      "added_at": "2021-12-24 05:05:00",
+      "album": {
         "name": "Follow That Star",
         "url": "https://open.spotify.com/album/4H2iB9EQCZD4Zl031kB8ML"
       },
@@ -1119,26 +1139,6 @@
       "duration_ms": 228160,
       "name": "You Are Our Joy Christmas",
       "url": "https://open.spotify.com/track/1ubujbBg5S9NvxNtmJzOBB"
-    },
-    {
-      "added_at": "2021-12-24 05:05:00",
-      "album": {
-        "name": "Holiday Love Sounds of Christmas",
-        "url": "https://open.spotify.com/album/2ovxcV44GZ2oFfMnaWMoqs"
-      },
-      "artists": [
-        {
-          "name": "Joe Pace",
-          "url": "https://open.spotify.com/artist/2om6820fe3HJsgcWcC5Zn0"
-        },
-        {
-          "name": "Jekalyn Carr",
-          "url": "https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH"
-        }
-      ],
-      "duration_ms": 298680,
-      "name": "What a Wonderful Savior",
-      "url": "https://open.spotify.com/track/0cbgZxW0vbOVJx1sMgQXVo"
     },
     {
       "added_at": "2021-12-24 05:05:00",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2021-12-24 05:05:00",
       "album": {
+        "name": "Joy To The World",
+        "url": "https://open.spotify.com/album/6cJAAI5DrfmD8S9kWi8LhK"
+      },
+      "artists": [
+        {
+          "name": "Marvin Sapp",
+          "url": "https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo"
+        }
+      ],
+      "duration_ms": 340800,
+      "name": "Glory To The Lamb",
+      "url": "https://open.spotify.com/track/3DeqedtaqSp4TDnYD5VXcy"
+    },
+    {
+      "added_at": "2021-12-24 05:05:00",
+      "album": {
         "name": "Maranda Presents A Holy Christmas",
         "url": "https://open.spotify.com/album/0c1zGZMDhb2UNZlmQ8cfKN"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 409946,
       "name": "Holy (The Crispell Legacy) (feat. Melvin Crispell III)",
       "url": "https://open.spotify.com/track/3ucYWAeWRbwmR5sUzyGjnA"
-    },
-    {
-      "added_at": "2021-12-24 05:05:00",
-      "album": {
-        "name": "Joy To The World",
-        "url": "https://open.spotify.com/album/6cJAAI5DrfmD8S9kWi8LhK"
-      },
-      "artists": [
-        {
-          "name": "Marvin Sapp",
-          "url": "https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo"
-        }
-      ],
-      "duration_ms": 340800,
-      "name": "Glory To The Lamb",
-      "url": "https://open.spotify.com/track/3DeqedtaqSp4TDnYD5VXcy"
     },
     {
       "added_at": "2021-12-24 05:05:00",
@@ -1311,22 +1311,18 @@
     {
       "added_at": "2021-12-24 05:05:00",
       "album": {
-        "name": "White Christmas",
-        "url": "https://open.spotify.com/album/1Bep3JEfFFmVL8EA2Fugvz"
+        "name": "Family Christmas",
+        "url": "https://open.spotify.com/album/3y6kzpy1GnrxR7H1KkGBuh"
       },
       "artists": [
         {
-          "name": "Lynda Randle",
-          "url": "https://open.spotify.com/artist/5WWuo8k0komiDBmtec6gHI"
-        },
-        {
-          "name": "Michael Tait",
-          "url": "https://open.spotify.com/artist/6DcdhH46Toay7xuWck4jQW"
+          "name": "The Clark Sisters",
+          "url": "https://open.spotify.com/artist/6VUdDU44uo3KwSHc9lAEFE"
         }
       ],
-      "duration_ms": 181306,
-      "name": "Winter Wonderland",
-      "url": "https://open.spotify.com/track/08wpq3prs1o1DLQyNukmjB"
+      "duration_ms": 183720,
+      "name": "Hark The Herald Angels Sing",
+      "url": "https://open.spotify.com/track/4Zgd9TerFAB6delKBFITmX"
     }
   ],
   "unique_name": "Gospel Christmas",

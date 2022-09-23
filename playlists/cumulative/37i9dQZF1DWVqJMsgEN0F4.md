@@ -4,7 +4,7 @@
 
 > Marcus Mumford along with the top Alternative songs of today.
 
-181 songs - 10 hr 24 min - [published](https://open.spotify.com/playlist/6EMN1AhrUHWzoAMRYyK1Q6)
+182 songs - 10 hr 27 min - [published](https://open.spotify.com/playlist/6EMN1AhrUHWzoAMRYyK1Q6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,8 @@
 | [Happy Face](https://open.spotify.com/track/6QNCvcs758QuBEBISL6XIV) | [Jagwar Twin](https://open.spotify.com/artist/4luZExkmgn39Kj5XsYWria) | [Happy Face](https://open.spotify.com/album/663C3TEQrU97Lm6gVKp5zi) | 2:49 | 2022-03-25 |  |
 | [Hayloft II](https://open.spotify.com/track/0kYMwaQWABTkFff8AZjmYI) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Inside \(Deluxe\)](https://open.spotify.com/album/03EqExvZuxLK86huLxGIa2) | 3:35 | 2022-04-29 | 2022-07-30 |
 | [Head Right](https://open.spotify.com/track/1aSYLITaiacybc3BNuHzGs) | [Wilderado](https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI) | [Head Right](https://open.spotify.com/album/1uxEgl1zadKOff90XJU3dA) | 3:17 | 2021-12-17 | 2022-06-04 |
-| [Here to Forever](https://open.spotify.com/track/3uKLuVqBd0bIUfFDdn68lI) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Here to Forever](https://open.spotify.com/album/3ysrZoXIO6es1hsQI2iTeZ) | 3:46 | 2022-07-22 |  |
+| [Here to Forever](https://open.spotify.com/track/3uKLuVqBd0bIUfFDdn68lI) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Here to Forever](https://open.spotify.com/album/3ysrZoXIO6es1hsQI2iTeZ) | 3:46 | 2022-07-22 | 2022-09-23 |
+| [Here to Forever](https://open.spotify.com/track/7Cva2EgJougx6O6M5xgWAq) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Asphalt Meadows](https://open.spotify.com/album/2PIWPTOIxbaVSjTnc30vXS) | 3:46 | 2022-09-16 |  |
 | [HTIS \(feat\. Luna Shadows & Carmen Vandenberg\)](https://open.spotify.com/track/3gbagPtR7WT8reMyyGXPl0) | [Meg Myers](https://open.spotify.com/artist/0W8xe7IqAPlnBRMUpWOUuJ), [Carmen Vandenberg](https://open.spotify.com/artist/2Zc5QLd6oXX67boj5GGfdS), [Luna Shadows](https://open.spotify.com/artist/55SUpsj027epu8yi663EKZ) | [HTIS \(feat\. Luna Shadows & Carmen Vandenberg\)](https://open.spotify.com/album/5XnTBxVlabGBGoMxw9b1PA) | 3:15 | 2022-06-10 | 2022-07-16 |
 | [Human \(feat\. Barns Courtney\)](https://open.spotify.com/track/2xDsoMDYyAiOns2ntt1bRE) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [The Atlas Underground Flood](https://open.spotify.com/album/75eiKDHKEavsp6yerrNGge) | 3:04 | 2021-12-03 | 2022-02-05 |
 | [I Can't Help But Feel](https://open.spotify.com/track/40gooTta3y4FgzXaMOGDJL) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [I Can't Help But Feel](https://open.spotify.com/album/7rzTGJdNOe2W5h7pZaSWOr) | 2:58 | 2022-05-06 |  |

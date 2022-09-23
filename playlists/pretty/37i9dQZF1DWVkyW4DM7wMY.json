@@ -1,13 +1,29 @@
 {
   "description": "The hottest alternative music from Nairobi to Dar!",
-  "num_followers": 7536,
+  "num_followers": 7545,
   "original_name": "Eastern Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY3MDc0MCwwMDAwMDAwMDBlYTE0ZTAwN2M1ZjVhYzkwMDNlNWRjNTBiOWFiZTk1",
+  "snapshot_id": "MTY2Mzg4MDM0MCwwMDAwMDAwMDQzMjBkMGEyZTliNDAzN2FiOWFiNzk0ZGQyNmU2YTEx",
   "tracks": [
+    {
+      "added_at": "2022-01-27 20:59:00",
+      "album": {
+        "name": "Camille",
+        "url": "https://open.spotify.com/album/0TuVjq7KoUQdIEq9agdjFo"
+      },
+      "artists": [
+        {
+          "name": "$hyli",
+          "url": "https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "Camille",
+      "url": "https://open.spotify.com/track/74DvPOPk92XbKct0MwhCkv"
+    },
     {
       "added_at": "2022-09-08 20:59:00",
       "album": {
@@ -25,20 +41,24 @@
       "url": "https://open.spotify.com/track/3O9GGQXx5mi1ekYoCJbgXk"
     },
     {
-      "added_at": "2022-01-27 20:59:00",
+      "added_at": "2022-09-22 20:59:00",
       "album": {
-        "name": "Camille",
-        "url": "https://open.spotify.com/album/0TuVjq7KoUQdIEq9agdjFo"
+        "name": "Part2 (Dinner in Maui)",
+        "url": "https://open.spotify.com/album/2RjYPIml5GBer8oZvUV1OO"
       },
       "artists": [
         {
-          "name": "$hyli",
-          "url": "https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ"
+          "name": "Hermez",
+          "url": "https://open.spotify.com/artist/168iTeZjIZlN7Sc8ieZJl6"
+        },
+        {
+          "name": "MAUIM\u00d8ON",
+          "url": "https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b"
         }
       ],
-      "duration_ms": 158000,
-      "name": "Camille",
-      "url": "https://open.spotify.com/track/74DvPOPk92XbKct0MwhCkv"
+      "duration_ms": 193896,
+      "name": "Part2 (Dinner in Maui)",
+      "url": "https://open.spotify.com/track/6DuJn4hkMAzb4Iiamim1Te"
     },
     {
       "added_at": "2022-08-25 20:59:00",
@@ -59,6 +79,22 @@
       "duration_ms": 177245,
       "name": "Let Go",
       "url": "https://open.spotify.com/track/44YtzfSlmFcDPozHlfeivt"
+    },
+    {
+      "added_at": "2022-09-22 20:59:00",
+      "album": {
+        "name": "Gangverment",
+        "url": "https://open.spotify.com/album/2izp2Z7ZsXy5Ks3A6ApDUg"
+      },
+      "artists": [
+        {
+          "name": "Nu Fvnk",
+          "url": "https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R"
+        }
+      ],
+      "duration_ms": 126000,
+      "name": "Gangverment",
+      "url": "https://open.spotify.com/track/2sEswtS0JbRU8WnjciNz8I"
     },
     {
       "added_at": "2022-03-17 20:59:00",
@@ -115,6 +151,22 @@
       "duration_ms": 130500,
       "name": "CHERRY SWEET",
       "url": "https://open.spotify.com/track/1B3h5EIwLDMtubHLu3edCM"
+    },
+    {
+      "added_at": "2022-09-22 20:59:00",
+      "album": {
+        "name": "Spanish Villager No. 3",
+        "url": "https://open.spotify.com/album/1wTobCIdhZP6Y0pOSZK0IU"
+      },
+      "artists": [
+        {
+          "name": "Ondara",
+          "url": "https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W"
+        }
+      ],
+      "duration_ms": 272883,
+      "name": "A Seminar In Tokyo",
+      "url": "https://open.spotify.com/track/0CFc37YTJa449oOe660cSU"
     },
     {
       "added_at": "2022-03-25 05:44:05",
@@ -259,22 +311,6 @@
       "duration_ms": 179318,
       "name": "Patient",
       "url": "https://open.spotify.com/track/7LxVI3obU50YFurUYGp3ih"
-    },
-    {
-      "added_at": "2022-06-17 09:25:48",
-      "album": {
-        "name": "Curtains",
-        "url": "https://open.spotify.com/album/0CKUdB8tlCZaoxAVrCYKTI"
-      },
-      "artists": [
-        {
-          "name": "Nu Fvnk",
-          "url": "https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R"
-        }
-      ],
-      "duration_ms": 110000,
-      "name": "Curtains",
-      "url": "https://open.spotify.com/track/25XVan47oOYRQU04LiTfE0"
     },
     {
       "added_at": "2021-12-09 20:59:00",
@@ -1161,34 +1197,6 @@
       "url": "https://open.spotify.com/track/3B7XQSWXPAsz50D3NZTmZi"
     },
     {
-      "added_at": "2021-10-29 06:04:39",
-      "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/3xuJsr75n7P5nlmxOwnMVs"
-      },
-      "artists": [
-        {
-          "name": "Joshua Baraka",
-          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
-        },
-        {
-          "name": "Akeine",
-          "url": "https://open.spotify.com/artist/2RuHphW7LRCASStgHSFmds"
-        },
-        {
-          "name": "9loo",
-          "url": "https://open.spotify.com/artist/3WEhFPBwX2zRE2EL2QrqtE"
-        },
-        {
-          "name": "Chxf Barry",
-          "url": "https://open.spotify.com/artist/4vMmIzBBucgN0Hend2wz0S"
-        }
-      ],
-      "duration_ms": 211612,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/5mCGTPQcA0XK2ApGmIaXx2"
-    },
-    {
       "added_at": "2021-11-11 20:59:00",
       "album": {
         "name": "Full Circle",
@@ -1223,22 +1231,6 @@
       "duration_ms": 163200,
       "name": "Sana",
       "url": "https://open.spotify.com/track/6cNt6K8BTWyX3ntnMBHjgt"
-    },
-    {
-      "added_at": "2021-10-15 19:38:29",
-      "album": {
-        "name": "Changed the Game",
-        "url": "https://open.spotify.com/album/0ElhbiaJqf836NlDDU1FcG"
-      },
-      "artists": [
-        {
-          "name": "Tofa Jaxx",
-          "url": "https://open.spotify.com/artist/1CThfFD9mffbXka0DLLWxq"
-        }
-      ],
-      "duration_ms": 132624,
-      "name": "Changed the Game - Radio Edit",
-      "url": "https://open.spotify.com/track/56Lv8Cn8pqBH0Rt8VkwtcR"
     },
     {
       "added_at": "2021-10-15 19:38:29",

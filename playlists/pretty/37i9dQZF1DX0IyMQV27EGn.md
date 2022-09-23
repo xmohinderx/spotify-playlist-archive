@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IyMQV27EGn.md) - [plain]
 
 > A collection of powerful voices and alluring siren songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 595,019 likes - 70 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 595,058 likes - 70 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IyMQV27EGn.md) - [plain]
 | 56 | [The High Road](https://open.spotify.com/track/4pzFGh9NGkmnaZnFiTAoFb) | [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [The Soul Sessions, Vol\. 2 \(Deluxe Edition\)](https://open.spotify.com/album/5zkhFfJEVeDAIZUMt5evAd) | 4:39 |
 | 57 | [Cannonball \- Acoustic](https://open.spotify.com/track/21TxR8B11XQRg3PTOLZ7PH) | [ZZ Ward](https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi), [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Cannonball \(Acoustic\)](https://open.spotify.com/album/1EhkXNK9Y9WFGb1s77NFmn) | 4:38 |
 | 58 | [Why’d Ya Do It](https://open.spotify.com/track/0PWl6yqk7yuEooaJvrpFsY) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Jeremiah / Why’d Ya Do It](https://open.spotify.com/album/0AaN7st0yKbhu2QcamRXxJ) | 3:37 |
-| 59 | [Carry On](https://open.spotify.com/track/3y9NrDzc6IfDQabE38Xw0D) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [Roses \(Deluxe Edition\)](https://open.spotify.com/album/4rb0ToWRx0JUKakgtc8VOy) | 3:35 |
-| 60 | [How Much Does Your Love Cost?](https://open.spotify.com/track/4N68T3KMkvtVIW3F7zsyRQ) | [Thelma Plum](https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC) | [Monsters](https://open.spotify.com/album/6XT1DBUeegngZSSIyErAzm) | 3:52 |
+| 59 | [How Much Does Your Love Cost?](https://open.spotify.com/track/4N68T3KMkvtVIW3F7zsyRQ) | [Thelma Plum](https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC) | [Monsters](https://open.spotify.com/album/6XT1DBUeegngZSSIyErAzm) | 3:52 |
+| 60 | [Carry On](https://open.spotify.com/track/3y9NrDzc6IfDQabE38Xw0D) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [Roses \(Deluxe Edition\)](https://open.spotify.com/album/4rb0ToWRx0JUKakgtc8VOy) | 3:35 |
 | 61 | [Listen Up](https://open.spotify.com/track/1vtkAVGkmMckxrlbLEHhTx) | [Nicole Atkins](https://open.spotify.com/artist/4ab2tQaaTr2TnairelOwvO) | [Goodnight Rhonda Lee](https://open.spotify.com/album/4RcpHyy4rL1RrB89Di3HrJ) | 3:10 |
 | 62 | [Hopeless Romantic](https://open.spotify.com/track/4rxll3CP6XklLuoki7A26P) | [Michelle Branch](https://open.spotify.com/artist/5rScKX1Sh1U67meeUyTGwk) | [Hopeless Romantic](https://open.spotify.com/album/0KQoc67ApuKSx5qBPtrXJt) | 3:30 |
 | 63 | [Pain of Love](https://open.spotify.com/track/3MtBYMhHTNhD4xICSFAikb) | [Whissell](https://open.spotify.com/artist/1JIc2FMsvtccdSllBI6vZh) | [Old Souls, Young Bodies](https://open.spotify.com/album/3rImHlWa9YsEUcdan3toc7) | 3:31 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IyMQV27EGn.md) - [plain]
 | 69 | [Presence](https://open.spotify.com/track/2wntS3awxMEUUJOd3Py19o) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [Good Luck, Kid](https://open.spotify.com/album/4Nz2TKH4snc8EZMhsMDjgi) | 2:51 |
 | 70 | [Left With Someone Else](https://open.spotify.com/track/0qin3yx9CCpBxiZRAwSeGJ) | [Gabriella Cilmi](https://open.spotify.com/artist/5v2GEv1pQaCp6oeOQROdKE) | [The Sting](https://open.spotify.com/album/4BIAvFCoghxvGNnxDtBYZM) | 3:15 |
 
-Snapshot ID: `MTY2MTQ4NjQwMCwwMDAwMDAwMGNmZjhhY2RkYjIzYWZlMzE5MzI2OTYwZTNjMTFlNGUx`
+Snapshot ID: `MTY2MTQ4NjQwMCwwMDAwMDAwMDQ3NjUzOWU0ZjYyYzU5OWZmZTFhY2ZmMGY1YmYzZWUz`

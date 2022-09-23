@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Egypt.
 
-486 songs - 1 day 3 hr 36 min - [published](https://open.spotify.com/playlist/5xT4nQt3o56tzuR4v4jZw5)
+487 songs - 1 day 3 hr 40 min - [published](https://open.spotify.com/playlist/5xT4nQt3o56tzuR4v4jZw5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,7 @@
 | [Butter \(Instrumental\)](https://open.spotify.com/track/1e0Wxoraz9IzFhREDqgJAe) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Butter](https://open.spotify.com/album/2BDhPi2XCYujYxU6VM0QaD) | 2:42 | 2021-05-23 | 2021-05-31 |
 | [Butter \(Megan Thee Stallion Remix\)](https://open.spotify.com/track/3JR0ducCexKbeK47g6AHm5) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Butter \(Megan Thee Stallion Remix\)](https://open.spotify.com/album/4VmlZdGnrtNpiCJFXplGrP) | 2:44 | 2021-08-29 | 2021-08-30 |
 | [CA7BY](https://open.spotify.com/track/199urTMSWFxpEFDhTJ5wwH) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [FLORIDA DARK MODE \(el malahy\)](https://open.spotify.com/album/1w7TpeUHdy1MammG1bmIxQ) | 2:54 | 2022-07-20 | 2022-08-19 |
-| [Call Out My Name](https://open.spotify.com/track/09mEdoA6zrmBPgTEN5qXmN) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [My Dear Melancholy,](https://open.spotify.com/album/4qZBW3f2Q8y0k1A84d4iAO) | 3:48 | 2022-07-16 |  |
+| [Call Out My Name](https://open.spotify.com/track/09mEdoA6zrmBPgTEN5qXmN) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [My Dear Melancholy,](https://open.spotify.com/album/4qZBW3f2Q8y0k1A84d4iAO) | 3:48 | 2022-07-16 | 2022-09-23 |
 | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp) | 3:59 | 2022-09-01 |  |
 | [Champagne Poetry](https://open.spotify.com/track/2HSmyk2qMN8WQjuGhaQgCk) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 5:36 | 2021-09-05 | 2021-09-06 |
 | [CHAMPIONS LEAGUE](https://open.spotify.com/track/4iozpxYS1GPH7wVLIY91o8) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [FLORIDA DARK MODE \(el malahy\)](https://open.spotify.com/album/1w7TpeUHdy1MammG1bmIxQ) | 3:38 | 2022-06-26 | 2022-07-07 |
@@ -193,6 +193,7 @@
 | [Ivan Vs Rocky](https://open.spotify.com/track/5GWrWjXVmOvXdEy9dbm6Wa) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Ras Shitan](https://open.spotify.com/album/5xs1hPBH7vjLHf8UY7TxDY) | 2:57 | 2022-07-07 | 2022-07-15 |
 | [Jail](https://open.spotify.com/track/42ZrMq4BKsWDrrbMnMRYaK) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 4:57 | 2021-08-31 | 2021-09-02 |
 | [Jalebi Baby](https://open.spotify.com/track/6GKGoi0FHzldk1ZRQoV1fv) | [Tesher](https://open.spotify.com/artist/49YbNTLaaAbZHLtDI2aPGL) | [Jalebi Baby](https://open.spotify.com/album/2k8nShpibT4psqEQV7Smqc) | 3:09 | 2021-04-11 | 2021-04-23 |
+| [James Dean](https://open.spotify.com/track/3bN0IZvx7rI9yK0JAYdP2M) | [Cairokee](https://open.spotify.com/artist/2GVksDv9UpY60i4CvytrZK) | [James Dean](https://open.spotify.com/album/0xreh1fpGApy66xjYdGEMD) | 4:04 | 2022-09-22 |  |
 | [Jimmy Cooks \(feat\. 21 Savage\)](https://open.spotify.com/track/3F5CgOj3wFlRv51JsHbxhe) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 3:38 | 2022-06-18 | 2022-06-23 |
 | [Jonah](https://open.spotify.com/track/3gWzTnziivUYzqXtnvgN8q) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 3:15 | 2021-08-31 | 2021-09-01 |
 | [Kan Lak Ma'aya \(Feat\. Umm Kulthum\)](https://open.spotify.com/track/6EVt050wg9TQv9HpSn0Ke3) | [Cairokee](https://open.spotify.com/artist/2GVksDv9UpY60i4CvytrZK), [Umm Kulthum](https://open.spotify.com/artist/52lsD82iOqGtyfEMqWgk4f) | [The Ugly Ducklings](https://open.spotify.com/album/64DY9gqA0dWDjP7v6NSlVL) | 3:45 | 2021-12-06 | 2021-12-25 |

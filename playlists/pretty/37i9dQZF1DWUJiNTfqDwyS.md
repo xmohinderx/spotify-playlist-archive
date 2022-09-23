@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJiNTfqDwyS.md) - [plain]
 
 > A collection of the best Metal covers out there\. Cover: Metallica
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,588 likes - 75 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,824 likes - 75 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,14 +74,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJiNTfqDwyS.md) - [plain]
 | 64 | [Carry on a Wayward Son](https://open.spotify.com/track/6YvqkiySh1NoVCvkYxfNXK) | [Anthrax](https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP) | [For All Kings \(Deluxe\)](https://open.spotify.com/album/4V0U4SYEZX0tmBw6fnca3h) | 5:24 |
 | 65 | [Orion](https://open.spotify.com/track/1tvr1RopO3KsVQwP8etKA5) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Medium Rarities](https://open.spotify.com/album/3xeGtowrXCRjPOmZahNAoW) | 8:15 |
 | 66 | [Renegades](https://open.spotify.com/track/66gXuXJx50t2a8XGwhDiHP) | [36 Crazyfists](https://open.spotify.com/artist/4ijGLY4dzlurDh7jqH3tW7) | [Renegades](https://open.spotify.com/album/387RMZLKNvf1s3ZPSIkYCM) | 3:28 |
-| 67 | [Only for the Weak](https://open.spotify.com/track/0OBxEhj74scqtN9l1RxANI) | [Vicky Psarakis](https://open.spotify.com/artist/6wgfKETz8TigbBqevjeAwZ), [Quentin Cornet](https://open.spotify.com/artist/783UqG9zEcrqxXk0UVKsuP) | [Only for the Weak](https://open.spotify.com/album/0LGDnOKdzUM9QtXTFvOWQu) | 4:36 |
-| 68 | [Livin' la Vida Loca \- Cover](https://open.spotify.com/track/3v6ji8IE3AXlBeHK3vwJTc) | [COMETRON](https://open.spotify.com/artist/3zlHrJ9PNVZzqy7qobJFIi) | [Livin' la Vida Loca \(Cover\)](https://open.spotify.com/album/1vwAdEbrf2M5oC79nUyjWC) | 3:37 |
+| 67 | [Livin' la Vida Loca \- Cover](https://open.spotify.com/track/3v6ji8IE3AXlBeHK3vwJTc) | [COMETRON](https://open.spotify.com/artist/3zlHrJ9PNVZzqy7qobJFIi) | [Livin' la Vida Loca \(Cover\)](https://open.spotify.com/album/1vwAdEbrf2M5oC79nUyjWC) | 3:37 |
+| 68 | [Only for the Weak](https://open.spotify.com/track/0OBxEhj74scqtN9l1RxANI) | [Vicky Psarakis](https://open.spotify.com/artist/6wgfKETz8TigbBqevjeAwZ), [Quentin Cornet](https://open.spotify.com/artist/783UqG9zEcrqxXk0UVKsuP) | [Only for the Weak](https://open.spotify.com/album/0LGDnOKdzUM9QtXTFvOWQu) | 4:36 |
 | 69 | [My Own Summer \- Shove It](https://open.spotify.com/track/3JAFPy9eiSkeevje6xmCyY) | [Oceans](https://open.spotify.com/artist/7x3hXpGkI296eBLTbhbND0) | [Cover Me in Darkness](https://open.spotify.com/album/3j69OIOknRiDRk2aaHh5tD) | 3:38 |
 | 70 | [Judas](https://open.spotify.com/track/1siidHE9T8LBQVltAw8piM) | [Lord Of The Lost](https://open.spotify.com/artist/28eLrVsohdXynlnIzQ2VvI) | [Judas](https://open.spotify.com/album/0fl4B7VkU0WjZ9OGRByR0E) | 4:11 |
 | 71 | [Bodies](https://open.spotify.com/track/5eDJaMNW8uSayxhKBXhmUW) | [We're Wolves](https://open.spotify.com/artist/73hZY77xQYtJsTrslIzy7v) | [Bodies](https://open.spotify.com/album/76VYWxgc2GZTVNJGRRAoEX) | 3:22 |
 | 72 | [Symphony of Destruction \- cover version](https://open.spotify.com/track/0WxklKp98Lt2Gr3dqHBjDa) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Covered In Blood](https://open.spotify.com/album/7LfAQgQQISJJRTfgcDxVQS) | 4:02 |
 | 73 | [Looks That Kill](https://open.spotify.com/track/6EsmreLQ4j67JOyq9cDiA5) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Looks That Kill](https://open.spotify.com/album/4SgYiHjpOwZ1EqweySZRun) | 4:11 |
 | 74 | [Devil Inside](https://open.spotify.com/track/2kzVZTBUQG3CzuFTUknaRo) | [Wednesday 13](https://open.spotify.com/artist/6Cvzf33JDzCIw2eJU8npQo) | [Devil Inside](https://open.spotify.com/album/42VxwbDQ4YorE3wuS7ofYq) | 5:14 |
-| 75 | [Mambo No\. 5 \- Cover](https://open.spotify.com/track/6zVPxBtCzKMewKLC9OOfcx) | [COMETRON](https://open.spotify.com/artist/3zlHrJ9PNVZzqy7qobJFIi) | [Mambo No\. 5 \(Cover\)](https://open.spotify.com/album/5Ng9lsJwo1waGpQhSOMBSn) | 3:30 |
+| 75 | [Animals](https://open.spotify.com/track/6656ZMxIGQewFwQt5x4GvR) | [Villain of the Story](https://open.spotify.com/artist/28XopU8Uw6D6Wl7rIgCVNE) | [Animals](https://open.spotify.com/album/2TGEqCNx8wHVFtgZ820rPd) | 3:02 |
 
-Snapshot ID: `MTY2MTUxODgwMCwwMDAwMDAwMDExZDE1ZWNmZGVlNmJmMjAwOTI1NWE1NzllZjhkNGRi`
+Snapshot ID: `MTY2MTUxODgwMCwwMDAwMDAwMGYzNTI3YjhhMjg5MmM5MzM5NmNhNzQ4MmRhNDQyNmU4`

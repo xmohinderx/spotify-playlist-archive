@@ -1,12 +1,12 @@
 {
   "description": "Classic songs like you've never heard before. Cover: Zara Larsson. ",
-  "num_followers": 228,
+  "num_followers": 243,
   "original_name": "Spotify Singles: Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzI1NzIzNSwwMDAwMDAwMDczMmU4NWU1NTU3NzhkNGEyMDZmNmYzYTc2OTNkZjEz",
+  "snapshot_id": "MTY2MzI1NzIzNSwwMDAwMDAwMGMxMWVmNDQzYjMxM2E5NWE3NjAxNTY4NDBmN2Y1NWY2",
   "tracks": [
     {
       "added_at": "2022-09-01 16:33:37",
@@ -388,6 +388,22 @@
       "added_at": "2022-06-21 22:09:25",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4aNDmtlwH25CBLUjKUXPLu"
+      },
+      "artists": [
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        }
+      ],
+      "duration_ms": 149062,
+      "name": "Big Yellow Taxi - Live from Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/0e3ujCTfBtvX8HdQrEUBd9"
+    },
+    {
+      "added_at": "2022-06-21 22:09:25",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3yPPJlOdCyJVVXR7z7BmFs"
       },
       "artists": [
@@ -403,22 +419,6 @@
       "duration_ms": 177261,
       "name": "Watermelon Sugar (featuring Avenue Beat)",
       "url": "https://open.spotify.com/track/6pPD1k342KK4fMU6xPHufi"
-    },
-    {
-      "added_at": "2022-06-21 22:09:25",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4aNDmtlwH25CBLUjKUXPLu"
-      },
-      "artists": [
-        {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
-        }
-      ],
-      "duration_ms": 149062,
-      "name": "Big Yellow Taxi - Live from Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/0e3ujCTfBtvX8HdQrEUBd9"
     },
     {
       "added_at": "2022-06-21 22:09:25",
@@ -1488,26 +1488,6 @@
       "added_at": "2022-06-21 22:09:25",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0Q6SEonIrUCqHqYaj4ZWzr"
-      },
-      "artists": [
-        {
-          "name": "John Prine",
-          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
-        },
-        {
-          "name": "The Secret Sisters",
-          "url": "https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL"
-        }
-      ],
-      "duration_ms": 149422,
-      "name": "I Have Met My Love Today - Recorded at RCA Studio a, Nashville",
-      "url": "https://open.spotify.com/track/0WK7SpoCnKifXNYgRMjYZc"
-    },
-    {
-      "added_at": "2022-06-21 22:09:25",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3G8anIKFdjaKHRGKUWESgY"
       },
       "artists": [
@@ -1523,6 +1503,26 @@
       "duration_ms": 213800,
       "name": "Elvira (feat. The Oak Ridge Boys) - Recorded at Sound Stage Nashville",
       "url": "https://open.spotify.com/track/4XmLGH5lm3ofjbtZTI5dAm"
+    },
+    {
+      "added_at": "2022-06-21 22:09:25",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0Q6SEonIrUCqHqYaj4ZWzr"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        },
+        {
+          "name": "The Secret Sisters",
+          "url": "https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL"
+        }
+      ],
+      "duration_ms": 149422,
+      "name": "I Have Met My Love Today - Recorded at RCA Studio a, Nashville",
+      "url": "https://open.spotify.com/track/0WK7SpoCnKifXNYgRMjYZc"
     },
     {
       "added_at": "2022-06-21 22:09:25",

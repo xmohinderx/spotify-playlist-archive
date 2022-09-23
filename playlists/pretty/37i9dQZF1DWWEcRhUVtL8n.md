@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWEcRhUVtL8n.md) - [plain]
 
 > New and approved indie pop\. Cover: The 1975
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,695,081 likes - 75 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,695,054 likes - 75 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWEcRhUVtL8n.md) - [plain]
 | 32 | [Dream Girl Evil](https://open.spotify.com/track/7GtOjSSp5Qyi3gNbNDZgja) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Dance Fever](https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE) | 3:47 |
 | 33 | [Mona Lisa, Mona Lisa](https://open.spotify.com/track/252G7yirQ4pXj6ZD4T9R2W) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Mona Lisa, Mona Lisa](https://open.spotify.com/album/0PmQqosU37by7LZHObTC8r) | 2:52 |
 | 34 | [I'm Not In Love](https://open.spotify.com/track/0fB64S7FNKUDQlyYXlacYi) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x) | [I'm Not In Love](https://open.spotify.com/album/10VeT6WRqObxGPOirjcank) | 1:37 |
-| 35 | [Another Man's Jeans](https://open.spotify.com/track/2Tv3bPKLESHfl8jgAlY2Pv) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Another Man's Jeans](https://open.spotify.com/album/54xLeetI8f6mslHLEJ5K2X) | 2:45 |
-| 36 | [Blue Spirits](https://open.spotify.com/track/7xXUNbWepi09rzwW1Il61B) | [DWLLRS](https://open.spotify.com/artist/2TviQllPVEQ7E68Yr4uPKR) | [Blue Spirits](https://open.spotify.com/album/7fKKW6npF1UzqRXre0Y39n) | 3:08 |
+| 35 | [Blue Spirits](https://open.spotify.com/track/7xXUNbWepi09rzwW1Il61B) | [DWLLRS](https://open.spotify.com/artist/2TviQllPVEQ7E68Yr4uPKR) | [Blue Spirits](https://open.spotify.com/album/7fKKW6npF1UzqRXre0Y39n) | 3:08 |
+| 36 | [Another Man's Jeans](https://open.spotify.com/track/2Tv3bPKLESHfl8jgAlY2Pv) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Another Man's Jeans](https://open.spotify.com/album/54xLeetI8f6mslHLEJ5K2X) | 2:45 |
 | 37 | [Threads](https://open.spotify.com/track/2SJ0exVB6NRWLbdjCsNWAd) | [Indy](https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ) | [Threads](https://open.spotify.com/album/1SZmDUuIlro250y8TPMMbd) | 3:52 |
 | 38 | [All I Ever Asked](https://open.spotify.com/track/2F9DCIJ7ZXHhNkiIlIIOkw) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [All I Ever Asked](https://open.spotify.com/album/2FuT85CBZhzZ8dndFdtwXn) | 3:35 |
 | 39 | [Line Without a Hook \(feat\. mxmtoon\)](https://open.spotify.com/track/4dHdqpGaO9km4TEw9nNQSR) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw), [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [Line Without a Hook \(feat\. mxmtoon\)](https://open.spotify.com/album/6uDkQYNploKRDP7Pu36DNz) | 4:11 |
@@ -76,12 +76,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWEcRhUVtL8n.md) - [plain]
 | 66 | [Anything But Me](https://open.spotify.com/track/0MtRE3z0MqQp9ZgYVW9s8u) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [MUNA](https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l) | 3:33 |
 | 67 | [Cutie](https://open.spotify.com/track/4nLTOnpSCBwRlul92HLIyW) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Cutie](https://open.spotify.com/album/5bn7iiPpq2Za6KX1PekKD2) | 3:04 |
 | 68 | [Catch Me In The Air](https://open.spotify.com/track/6VRfsebyIwzt9otSvcuV87) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Catch Me In The Air](https://open.spotify.com/album/31uMGaqlOlC9QcKG8e7aVq) | 3:35 |
-| 69 | [Fruity](https://open.spotify.com/track/4XVPArAtSq0657KUF0vXRy) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Fruity](https://open.spotify.com/album/63awPWi564xa0E4Y61w2dz) | 3:13 |
-| 70 | [Petrified](https://open.spotify.com/track/0G41EUi3xiwUR6iOtXAQCz) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:17 |
+| 69 | [Petrified](https://open.spotify.com/track/0G41EUi3xiwUR6iOtXAQCz) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:17 |
+| 70 | [Fruity](https://open.spotify.com/track/4XVPArAtSq0657KUF0vXRy) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Fruity](https://open.spotify.com/album/63awPWi564xa0E4Y61w2dz) | 3:13 |
 | 71 | [Where Do We Go From Here?](https://open.spotify.com/track/5DObWDHfwHE2mIdZGgRnzE) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Easy / Where Do We Go From Here?](https://open.spotify.com/album/1paYV647AAPnlKgpFJVtLa) | 3:51 |
 | 72 | [stuck on us](https://open.spotify.com/track/5GIsnSmSyFM8dI3e4dP1G5) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24), [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [stuck on us](https://open.spotify.com/album/1KXHYyQGGw2QbPGQSOBwJN) | 2:55 |
 | 73 | [gentle](https://open.spotify.com/track/7LhVGZrF9jgkT97CaKTlds) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [closer to closure](https://open.spotify.com/album/6CfZkq2gT8JmDKJGgHOIf1) | 3:18 |
-| 74 | [Meteorite](https://open.spotify.com/track/6el1gIJ39V0ycFwNLZiKm7) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI), [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Meteorite](https://open.spotify.com/album/0fwTvb0Qo1pjmAr82hCE7t) | 3:14 |
-| 75 | [kaleidoscope](https://open.spotify.com/track/5bD7bhOa64aE8a0vifa5J6) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [kaleidoscope](https://open.spotify.com/album/5AVdHQYItgjzDu5qRVmONy) | 3:05 |
+| 74 | [Drown](https://open.spotify.com/track/0vpy9NZpTbjCH0HNnAhCTt) | [Weston Estate](https://open.spotify.com/artist/18CPEToK1OfjJ5B5vDBDKa) | [Drown](https://open.spotify.com/album/6r3o0wlGhFaM4bT92PFaFB) | 3:01 |
+| 75 | [Meteorite](https://open.spotify.com/track/6el1gIJ39V0ycFwNLZiKm7) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI), [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Meteorite](https://open.spotify.com/album/0fwTvb0Qo1pjmAr82hCE7t) | 3:14 |
 
-Snapshot ID: `MTY2MzMwMDgwMCwwMDAwMDAwMGE1YzI3MzA3YmE5N2I5Y2Q5OTFmN2Q5OGY1M2IxYzhj`
+Snapshot ID: `MTY2MzMwMDgwMCwwMDAwMDAwMDE5ZDA3MWFhOWRkMWRkY2M1YmU1N2ZhOGQ0ZGJkOTVl`

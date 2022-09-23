@@ -246,6 +246,28 @@
     },
     {
       "album": {
+        "name": "british backyard",
+        "url": "https://open.spotify.com/album/21OGJZZoaLqrjdsZimFr9u"
+      },
+      "artists": [
+        {
+          "name": "Eli Fischer",
+          "url": "https://open.spotify.com/artist/353udVYVvXRQfXeuFUKQ2e"
+        },
+        {
+          "name": "Adam Panek",
+          "url": "https://open.spotify.com/artist/4irDpwU4JhKKCu4r1yRbR9"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75000,
+      "name": "british backyard",
+      "url": "https://open.spotify.com/track/5crBNn90VF3IITkb4aizaJ"
+    },
+    {
+      "album": {
         "name": "Bye Bye Love",
         "url": "https://open.spotify.com/album/5lVuEMCIGGyDIVbm6s1FP0"
       },
@@ -479,7 +501,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 156014,
       "name": "Crossed",
       "url": "https://open.spotify.com/track/6anGBlHB9oM5SVAqqwfSTv"
@@ -643,6 +665,24 @@
       "duration_ms": 129522,
       "name": "Downhill",
       "url": "https://open.spotify.com/track/4YC5W9CCrGwppDSFVOBlEz"
+    },
+    {
+      "album": {
+        "name": "Drifting",
+        "url": "https://open.spotify.com/album/5o9k672HaDkt1QQvUAAcBh"
+      },
+      "artists": [
+        {
+          "name": "Robertson",
+          "url": "https://open.spotify.com/artist/2EzlZPJxXWKsLlQBJUEw28"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124235,
+      "name": "Drifting",
+      "url": "https://open.spotify.com/track/7Co3NtdJY6Gx0XRnt1MoSr"
     },
     {
       "album": {
@@ -1001,6 +1041,24 @@
       "duration_ms": 142222,
       "name": "Hot Air",
       "url": "https://open.spotify.com/track/68NisFKk0tXGGZPOuARYtz"
+    },
+    {
+      "album": {
+        "name": "pneuma",
+        "url": "https://open.spotify.com/album/3uKoJL14ttBrgoSNAvOjJt"
+      },
+      "artists": [
+        {
+          "name": "solae",
+          "url": "https://open.spotify.com/artist/0k8mD0prjdPcC9HRtTuRr4"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85352,
+      "name": "hyper\u014don",
+      "url": "https://open.spotify.com/track/5If8IfFFoKb0gAiT7OHV10"
     },
     {
       "album": {
@@ -1430,6 +1488,24 @@
     },
     {
       "album": {
+        "name": "Medialuna",
+        "url": "https://open.spotify.com/album/7kMpxrJGpedL1tTFWYKJGS"
+      },
+      "artists": [
+        {
+          "name": "Senoidal",
+          "url": "https://open.spotify.com/artist/6r9s2iVXnrwENfSRUUtxpa"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138461,
+      "name": "Medialuna",
+      "url": "https://open.spotify.com/track/1D5EPculazUMvuIXD3HjOL"
+    },
+    {
+      "album": {
         "name": "Meeting Under The Enchanted Oak",
         "url": "https://open.spotify.com/album/3VT2QmsS419WRFJZg3ZVWO"
       },
@@ -1855,7 +1931,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 124394,
       "name": "Questions 2 U",
       "url": "https://open.spotify.com/track/2gjhVg1G9POF47hWaKnBG5"
@@ -1978,6 +2054,24 @@
     },
     {
       "album": {
+        "name": "Rise And Shine",
+        "url": "https://open.spotify.com/album/54I6z4GWxePYQZ4ZCXAhok"
+      },
+      "artists": [
+        {
+          "name": "Lucid Keys",
+          "url": "https://open.spotify.com/artist/5l1oiy2VufzI1tbdpiaoQi"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134495,
+      "name": "Rise And Shine",
+      "url": "https://open.spotify.com/track/2NpPNpDJG4g1Txp98TiRsx"
+    },
+    {
+      "album": {
         "name": "Rituals",
         "url": "https://open.spotify.com/album/3Q1jF9FT8iQYOwGnKQ5aK9"
       },
@@ -2073,6 +2167,24 @@
       "duration_ms": 101052,
       "name": "Sit Back",
       "url": "https://open.spotify.com/track/5eYteJrika8ajQkVDU53Fp"
+    },
+    {
+      "album": {
+        "name": "Sudden Impulses",
+        "url": "https://open.spotify.com/album/7yGlBKB6q1ofsyWySZOg1I"
+      },
+      "artists": [
+        {
+          "name": "Timothy Infinite",
+          "url": "https://open.spotify.com/artist/4rhZUbGllLmyrhbB9g2ZbX"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166017,
+      "name": "Skin Tone",
+      "url": "https://open.spotify.com/track/0tL9E43q9uXQftXBeZMM8D"
     },
     {
       "album": {
@@ -2543,7 +2655,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 147644,
       "name": "Tides",
       "url": "https://open.spotify.com/track/04afJKFNdIoRML4qG7U6t3"
@@ -2631,6 +2743,24 @@
       "duration_ms": 140800,
       "name": "Welcome Stars",
       "url": "https://open.spotify.com/track/0KBrGfBONI31G6XmR6NGDQ"
+    },
+    {
+      "album": {
+        "name": "Why Did I",
+        "url": "https://open.spotify.com/album/2Tj9I7wDJVxm9OlO8VuX9l"
+      },
+      "artists": [
+        {
+          "name": "HATAMITSUNAMI",
+          "url": "https://open.spotify.com/artist/6FgjnW0Q1Kx3WEyWfApXmv"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174121,
+      "name": "Why Did I",
+      "url": "https://open.spotify.com/track/7xgUDPfcpaUCvdAEdRck07"
     },
     {
       "album": {

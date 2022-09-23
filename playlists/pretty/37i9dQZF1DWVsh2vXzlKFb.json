@@ -1,12 +1,12 @@
 {
   "description": "Indie tunes for t-shirt weather.",
-  "num_followers": 265456,
+  "num_followers": 265438,
   "original_name": "Summer Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ2ODQwMCwwMDAwMDAwMGQ4NDNiZjUzNTcwNTNlYTBjNDM3NjAyM2JmNWIwODhj",
+  "snapshot_id": "MTY2MTQ2ODQwMCwwMDAwMDAwMDU5OGZhNTI1MjA0MzgyYzZhMGExYTVkOWRhM2U4NTlj",
   "tracks": [
     {
       "added_at": "2022-08-25 23:00:00",
@@ -423,22 +423,6 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "Year of the Caprese",
-        "url": "https://open.spotify.com/album/070DVvXuLD3fM3KYs47tas"
-      },
-      "artists": [
-        {
-          "name": "Cherub",
-          "url": "https://open.spotify.com/artist/00dwwnz3V4kRfu3UFYpJLz"
-        }
-      ],
-      "duration_ms": 323253,
-      "name": "Doses & Mimosas",
-      "url": "https://open.spotify.com/track/44CZRkOxv7UItaAUmh8PgN"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
         "name": "Weekend Friend",
         "url": "https://open.spotify.com/album/1U2tk4b49drBLpt9GJ9kPc"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 209454,
       "name": "Weekend Friend",
       "url": "https://open.spotify.com/track/2d3QlXE6FXFDeodiS66yjM"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "Year of the Caprese",
+        "url": "https://open.spotify.com/album/070DVvXuLD3fM3KYs47tas"
+      },
+      "artists": [
+        {
+          "name": "Cherub",
+          "url": "https://open.spotify.com/artist/00dwwnz3V4kRfu3UFYpJLz"
+        }
+      ],
+      "duration_ms": 323253,
+      "name": "Doses & Mimosas",
+      "url": "https://open.spotify.com/track/44CZRkOxv7UItaAUmh8PgN"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -583,22 +583,6 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "GOOD TIMES / PROBLEMZ",
-        "url": "https://open.spotify.com/album/2j8Bsbbqb9EyS1ajAq3GME"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 181312,
-      "name": "GOOD TIMES",
-      "url": "https://open.spotify.com/track/1WeqJkPY5rDIfyOKWfyuf5"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
         "name": "Free Nationals",
         "url": "https://open.spotify.com/album/53oqFs4q8sfqH6IPiyleEN"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 210385,
       "name": "Time",
       "url": "https://open.spotify.com/track/7klPHv3HnXdUY3dSfTccNc"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "GOOD TIMES / PROBLEMZ",
+        "url": "https://open.spotify.com/album/2j8Bsbbqb9EyS1ajAq3GME"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 181312,
+      "name": "GOOD TIMES",
+      "url": "https://open.spotify.com/track/1WeqJkPY5rDIfyOKWfyuf5"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -831,6 +831,26 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
+        "name": "Silk Chiffon",
+        "url": "https://open.spotify.com/album/0tVci75UxNB1H29bpj86tj"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 206586,
+      "name": "Silk Chiffon",
+      "url": "https://open.spotify.com/track/0BLY78hYpsH9NqP6X0N8CX"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
         "name": "Everything Else Has Gone Wrong",
         "url": "https://open.spotify.com/album/11yHtE6IzOk6elh9cJzldJ"
       },
@@ -859,26 +879,6 @@
       "duration_ms": 170386,
       "name": "Alpha Zulu",
       "url": "https://open.spotify.com/track/1QgegXUzfvRJxNRHM9sP3F"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
-        "name": "Silk Chiffon",
-        "url": "https://open.spotify.com/album/0tVci75UxNB1H29bpj86tj"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        },
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 206586,
-      "name": "Silk Chiffon",
-      "url": "https://open.spotify.com/track/0BLY78hYpsH9NqP6X0N8CX"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
+        "name": "seaside_demo",
+        "url": "https://open.spotify.com/album/0w0OXF5QUd40ePrP9kwPSo"
+      },
+      "artists": [
+        {
+          "name": "SEB",
+          "url": "https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "seaside_demo",
+      "url": "https://open.spotify.com/track/7K3tHDY5uelNUy9DgLIFiq"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
         "name": "Runner",
         "url": "https://open.spotify.com/album/5jhIfSbDYyInZbF9c4EauX"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 229113,
       "name": "Taking Over The Sun",
       "url": "https://open.spotify.com/track/0Ac5WPWNBr4p3xcllMMIbN"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
-        "name": "seaside_demo",
-        "url": "https://open.spotify.com/album/0w0OXF5QUd40ePrP9kwPSo"
-      },
-      "artists": [
-        {
-          "name": "SEB",
-          "url": "https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "seaside_demo",
-      "url": "https://open.spotify.com/track/7K3tHDY5uelNUy9DgLIFiq"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "Cyclorama",
-        "url": "https://open.spotify.com/album/2XLO00VSPGAGxpUjezhHoC"
-      },
-      "artists": [
-        {
-          "name": "Polo & Pan",
-          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
-        }
-      ],
-      "duration_ms": 408800,
-      "name": "Magic",
-      "url": "https://open.spotify.com/track/3QEYYJTIEd6Tv0HCrgHvri"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
         "name": "Acting My Age",
         "url": "https://open.spotify.com/album/2Ty2YnDFpPDqlclwEeNHVW"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 192120,
       "name": "T-Shirt Weather",
       "url": "https://open.spotify.com/track/1gR9y60Vr70iUtfC61JIXH"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "Cyclorama",
+        "url": "https://open.spotify.com/album/2XLO00VSPGAGxpUjezhHoC"
+      },
+      "artists": [
+        {
+          "name": "Polo & Pan",
+          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
+        }
+      ],
+      "duration_ms": 408800,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/3QEYYJTIEd6Tv0HCrgHvri"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -1395,18 +1395,18 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "Sugar",
-        "url": "https://open.spotify.com/album/3Ql9TVwS8g3bnK1ImDhXMX"
+        "name": "Blue Skies",
+        "url": "https://open.spotify.com/album/3RWu6OftP02gYbA5k0ixM0"
       },
       "artists": [
         {
-          "name": "Surf Curse",
-          "url": "https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D"
+          "name": "dexter",
+          "url": "https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa"
         }
       ],
-      "duration_ms": 162880,
-      "name": "Sugar",
-      "url": "https://open.spotify.com/track/3Tuz3Ec6n03nPTAa5knMm8"
+      "duration_ms": 159490,
+      "name": "Blue Skies",
+      "url": "https://open.spotify.com/track/4e11dFRYAcJyvIv9Y35ERA"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -1427,18 +1427,18 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "Blue Skies",
-        "url": "https://open.spotify.com/album/3RWu6OftP02gYbA5k0ixM0"
+        "name": "Sugar",
+        "url": "https://open.spotify.com/album/3Ql9TVwS8g3bnK1ImDhXMX"
       },
       "artists": [
         {
-          "name": "dexter",
-          "url": "https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa"
+          "name": "Surf Curse",
+          "url": "https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D"
         }
       ],
-      "duration_ms": 159490,
-      "name": "Blue Skies",
-      "url": "https://open.spotify.com/track/4e11dFRYAcJyvIv9Y35ERA"
+      "duration_ms": 162880,
+      "name": "Sugar",
+      "url": "https://open.spotify.com/track/3Tuz3Ec6n03nPTAa5knMm8"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -1547,18 +1547,18 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "Wake Me Up",
-        "url": "https://open.spotify.com/album/7MyrKdRkvj8hK20cLBj5jI"
+        "name": "Nobody's Home",
+        "url": "https://open.spotify.com/album/231jpal5NKt2c1QFN1D6AZ"
       },
       "artists": [
         {
-          "name": "Foals",
-          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
         }
       ],
-      "duration_ms": 263658,
-      "name": "Wake Me Up",
-      "url": "https://open.spotify.com/track/4MDDOpA7BwGDjYclTmCTVw"
+      "duration_ms": 233960,
+      "name": "NW3",
+      "url": "https://open.spotify.com/track/3NSBOLzrxMri9OEyxYeWov"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -1579,18 +1579,18 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "Nobody's Home",
-        "url": "https://open.spotify.com/album/231jpal5NKt2c1QFN1D6AZ"
+        "name": "Wake Me Up",
+        "url": "https://open.spotify.com/album/7MyrKdRkvj8hK20cLBj5jI"
       },
       "artists": [
         {
-          "name": "Bakar",
-          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+          "name": "Foals",
+          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
         }
       ],
-      "duration_ms": 233960,
-      "name": "NW3",
-      "url": "https://open.spotify.com/track/3NSBOLzrxMri9OEyxYeWov"
+      "duration_ms": 263658,
+      "name": "Wake Me Up",
+      "url": "https://open.spotify.com/track/4MDDOpA7BwGDjYclTmCTVw"
     },
     {
       "added_at": "2022-08-25 23:00:00",

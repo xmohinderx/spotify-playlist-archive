@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1Q4GnDtPDjnD2xTWVQgErL">KAYTRANADA</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,849 likes - 102 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,853 likes - 102 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 | 46 | [Have You Seen That Girl?](https://open.spotify.com/track/0H57lJQoHSzP4nE7EvTJPP) | [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ) | [At What Cost](https://open.spotify.com/album/18JrBX1QkpnUSJF3oxX6RX) | 2:42 |
 | 47 | [THE MOVE \- prod\. KAYTRANADA](https://open.spotify.com/track/5ZnZelwYbsrBsi2QmBcTXC) | [Reva DeVito](https://open.spotify.com/artist/00jACgDWIBdPM4eH8nORwz), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [THE MOVE \(prod\. KAYTRANADA\)](https://open.spotify.com/album/0d9pwcDuixiZHEcxwnvFNU) | 3:14 |
 | 48 | [Blakkst Skn](https://open.spotify.com/track/3Hvexq1TWtvQxFvSzq26Ku) | [Rejjie Snow](https://open.spotify.com/artist/3lLHpTOJ11tWiUNGYN14gt) | [Blakkst Skn](https://open.spotify.com/album/7ESc0SUNBXBlHv3h5MpBo0) | 3:30 |
-| 49 | [P's & Q's](https://open.spotify.com/track/1z3sZrbZfgIpICkFDeSurB) | [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [Wave\[s\]](https://open.spotify.com/album/5yXvXFTwuqoAHFuPeliqvZ) | 2:33 |
-| 50 | [Twin Flame](https://open.spotify.com/track/15cYjzRUBRrDHn76GdxWiv) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Twin Flame](https://open.spotify.com/album/1SzuRFxlqSZTIWUEE587Oy) | 3:52 |
+| 49 | [Twin Flame](https://open.spotify.com/track/15cYjzRUBRrDHn76GdxWiv) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Twin Flame](https://open.spotify.com/album/1SzuRFxlqSZTIWUEE587Oy) | 3:52 |
+| 50 | [P's & Q's](https://open.spotify.com/track/1z3sZrbZfgIpICkFDeSurB) | [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [Wave\[s\]](https://open.spotify.com/album/5yXvXFTwuqoAHFuPeliqvZ) | 2:33 |
 | 51 | [Say Sumthin](https://open.spotify.com/track/6UAaa72nf55kRhyF1SjV4i) | [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [One Hand on the Future](https://open.spotify.com/album/2iXC1LP13glN7IQrsF7hUI) | 3:46 |
 | 52 | [Live in the Moment \(feat\. GoldLink\)](https://open.spotify.com/track/6dt1vglokVwAR8XuVC9Gnd) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ) | [The Time Is Now \(Expanded Edition\)](https://open.spotify.com/album/51vRvV83RdWGP9FpzGe4SQ) | 3:06 |
 | 53 | [Be Careful \(feat\. Thundercat\)](https://open.spotify.com/track/73VGs4bdVRt4O8D7a4lCwJ) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Intimidated](https://open.spotify.com/album/1tbB05wnLmxMl8WPbcnV0y) | 2:43 |
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 | 84 | [Day To Day](https://open.spotify.com/track/4yBdOhdoRDGKGgMEsDAyq1) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn) | [ArtScience](https://open.spotify.com/album/3Bn4x1v0uRbt2JwkxVg7Wu) | 5:24 |
 | 85 | [Best Rapper in the Fuckin World](https://open.spotify.com/track/2higrBnP8m4gSBBKs5VKZZ) | [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ) | [Best Rapper in the Fuckin World](https://open.spotify.com/album/3sPNnS9LL1YXzKPPLHDUit) | 2:28 |
 | 86 | [Thinkin Bout You](https://open.spotify.com/track/2OGES71yUPyUcaMf3ZM6nR) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn) | [ArtScience](https://open.spotify.com/album/3Bn4x1v0uRbt2JwkxVg7Wu) | 3:12 |
-| 87 | [My Crew \(Woooo\)](https://open.spotify.com/track/76fyjZT556J5tydoOTbwUA) | [Cadence Weapon](https://open.spotify.com/artist/179CHqJZlZwKBQhjcOeAOS) | [Cadence Weapon](https://open.spotify.com/album/4Yx4gbcfNWPYOtNc1cKFP7) | 3:13 |
-| 88 | [Heard This One Before \(feat\. BOSCO & KAYTRANADA\)](https://open.spotify.com/track/0MPWtvb5xSdQlzGSnm0hCh) | [Phonte](https://open.spotify.com/artist/5SyCTZ8X8YQCI0J1VRp4iC), [BOSCO](https://open.spotify.com/artist/1A4fV156Nn6rWIE8jk5ZpT), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Pacific Time \- EP](https://open.spotify.com/album/4JInVfKuLTpdDNdPZ3qAyK) | 2:37 |
+| 87 | [Heard This One Before \(feat\. BOSCO & KAYTRANADA\)](https://open.spotify.com/track/0MPWtvb5xSdQlzGSnm0hCh) | [Phonte](https://open.spotify.com/artist/5SyCTZ8X8YQCI0J1VRp4iC), [BOSCO](https://open.spotify.com/artist/1A4fV156Nn6rWIE8jk5ZpT), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Pacific Time \- EP](https://open.spotify.com/album/4JInVfKuLTpdDNdPZ3qAyK) | 2:37 |
+| 88 | [My Crew \(Woooo\)](https://open.spotify.com/track/76fyjZT556J5tydoOTbwUA) | [Cadence Weapon](https://open.spotify.com/artist/179CHqJZlZwKBQhjcOeAOS) | [Cadence Weapon](https://open.spotify.com/album/4Yx4gbcfNWPYOtNc1cKFP7) | 3:13 |
 | 89 | [Love Or Something](https://open.spotify.com/track/7oARln7vvm7pxWXvJmiVxH) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Ocean & Montana](https://open.spotify.com/album/6wQHjKlxXujDKgkUXJ4NIv) | 2:57 |
 | 90 | [No One Like You](https://open.spotify.com/track/0IeM0wphilRFSDEVSRrQ23) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn) | [ArtScience](https://open.spotify.com/album/3Bn4x1v0uRbt2JwkxVg7Wu) | 9:18 |
 | 91 | [Don't Touch!](https://open.spotify.com/track/5Ra9YCYlPeW050TLtkkOZF) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [Don't Touch!](https://open.spotify.com/album/5SQTz1po86w7yd86CeciGR) | 2:22 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 | 101 | [NEW FRIENDS](https://open.spotify.com/track/2K2HS7k6TikCQ0ErmZK4BM) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [EXTRA EXTRA!](https://open.spotify.com/album/2e6cYARtMKZUhYqD7WXXa1) | 3:06 |
 | 102 | [FIRE](https://open.spotify.com/track/5h7V109OsJIa9zsfU8vEey) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [EXTRA EXTRA!](https://open.spotify.com/album/2e6cYARtMKZUhYqD7WXXa1) | 3:13 |
 
-Snapshot ID: `Mjc3MzAxNTAsMDAwMDAwMDA2ZjlhMmIwNTk0MjNiNjdmNTBlMjBiZmRiNzk2NGEzOQ==`
+Snapshot ID: `Mjc3MzE2NTAsMDAwMDAwMDA5NGRmMGNjYThlMWZkYzk1YTViZGE0MjdjOGE0MTFiMw==`

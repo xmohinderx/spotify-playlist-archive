@@ -1579,7 +1579,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 237575,
       "name": "Audiotool Day 2016",
       "url": "https://open.spotify.com/track/0mAYx7e7gOsH7wUQgrD8t2"
@@ -8429,7 +8429,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 283218,
       "name": "I Recall (feat. Preston Knight)",
       "url": "https://open.spotify.com/track/7twMy6xI9y6KeQAuYTtDYt"
@@ -12253,7 +12253,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 234345,
       "name": "Never Live Without You",
       "url": "https://open.spotify.com/track/06Mu4dzNZDxsMkFK5iAmpe"
@@ -14911,7 +14911,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 270684,
       "name": "Resurrection",
       "url": "https://open.spotify.com/track/6ELfm23L3PPKRsa7akhwDZ"
@@ -15961,7 +15961,7 @@
       ],
       "date_added": "2022-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": null,
       "duration_ms": 246728,
       "name": "Ser\u00e1",
       "url": "https://open.spotify.com/track/4BcfGEX9mrTpxklFL0h2K8"
@@ -16761,6 +16761,24 @@
       "duration_ms": 219375,
       "name": "Someone In The Night",
       "url": "https://open.spotify.com/track/2FV0Fl6Kd1QJaOpKSM0Eou"
+    },
+    {
+      "album": {
+        "name": "Synthetic Love",
+        "url": "https://open.spotify.com/album/5CAMb9tcfQPiLH0e4tqIE3"
+      },
+      "artists": [
+        {
+          "name": "Trevor Something",
+          "url": "https://open.spotify.com/artist/6bWylzDlsTfR8khADRQJfd"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240011,
+      "name": "Something About You",
+      "url": "https://open.spotify.com/track/3hzdQYiKKvw6dRdHKkyu9h"
     },
     {
       "album": {

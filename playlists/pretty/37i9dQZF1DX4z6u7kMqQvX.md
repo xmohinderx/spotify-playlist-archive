@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4z6u7kMqQvX.md) - [plain]
 
 > Sin ataduras, pero con amor: la medida justa de romance independiente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,417 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,493 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4z6u7kMqQvX.md) - [plain]
 | 55 | [Para Vivir Mejor](https://open.spotify.com/track/3WCJS3iT5DIHYYBd7Obm38) | [Koino Yokan](https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J) | [Para Vivir Mejor](https://open.spotify.com/album/6Hvl1yMEJWYNG72bHkZMZs) | 2:31 |
 | 56 | [Me Conecto \(feat\. Jorge Drexler\)](https://open.spotify.com/track/6X99UPXCpHWCih4OcZN9pg) | [Salvapantallas](https://open.spotify.com/artist/1VZQhmsaBc4voNvRGvFUgK), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [SMS](https://open.spotify.com/album/2D2JNUc0IzRwyiDR8X2sHh) | 3:08 |
 | 57 | [A Dónde Vamos?](https://open.spotify.com/track/1IHqTQujYdLIGhd0fHgoxa) | [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9), [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1) | [A Dónde Vamos?](https://open.spotify.com/album/5v2DHcwUNxPBLC4qNZDw2T) | 3:22 |
-| 58 | [Amor De Verano](https://open.spotify.com/track/0ftQLiC3Whfsb3b6nWAoPK) | [Vacación](https://open.spotify.com/artist/0VDRX95OX96cR7q15oaXgd), [Adan Jodorowsky](https://open.spotify.com/artist/5qUyJ52ARWXdUNECvFHBag) | [Tiempo Compartido](https://open.spotify.com/album/60iutg1EYIP0B3ZtYGcj4a) | 3:06 |
-| 59 | [Si Fueras Lluvia](https://open.spotify.com/track/2N3LPVCuyWN0A5uodq95RN) | [vangoura](https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g) | [Si Fueras Lluvia](https://open.spotify.com/album/46B8tnPwQdlw6jOY947lGu) | 3:12 |
+| 58 | [Si Fueras Lluvia](https://open.spotify.com/track/2N3LPVCuyWN0A5uodq95RN) | [vangoura](https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g) | [Si Fueras Lluvia](https://open.spotify.com/album/46B8tnPwQdlw6jOY947lGu) | 3:12 |
+| 59 | [Amor De Verano](https://open.spotify.com/track/0ftQLiC3Whfsb3b6nWAoPK) | [Vacación](https://open.spotify.com/artist/0VDRX95OX96cR7q15oaXgd), [Adan Jodorowsky](https://open.spotify.com/artist/5qUyJ52ARWXdUNECvFHBag) | [Tiempo Compartido](https://open.spotify.com/album/60iutg1EYIP0B3ZtYGcj4a) | 3:06 |
 | 60 | [La Danza del Espacio Tiempo](https://open.spotify.com/track/5YFqhC4xMQWSbdiGPUynXP) | [Koino Yokan](https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J) | [La Danza del Espacio Tiempo](https://open.spotify.com/album/6tSTVRRPOPq1TXqB8Wea0b) | 2:08 |
 | 61 | [Zoe](https://open.spotify.com/track/1Zp6wk74v4tf1UPgX75IQB) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW) | [Como Antes](https://open.spotify.com/album/56qAd8JFUBjW7gdAEQinHT) | 3:34 |
 | 62 | [Desnuda](https://open.spotify.com/track/0drLaDtp4SxzUJoLwEpNe1) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Mi Primer Día Triste](https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo) | 3:45 |
@@ -95,18 +95,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4z6u7kMqQvX.md) - [plain]
 | 85 | [Enterrarte](https://open.spotify.com/track/1426f7xQMhO5HTvKpv7TbI) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Sexo Con Modelos](https://open.spotify.com/album/0chduE6pCglPaH32gP0ctx) | 3:27 |
 | 86 | [Love](https://open.spotify.com/track/5nasO0nXcUNWriFdJR9Lp5) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Love](https://open.spotify.com/album/0MLSi95me9YKHGrNdIVfXQ) | 3:24 |
 | 87 | [Dulce Mal](https://open.spotify.com/track/4bVaYbaxhHaxeCLGyERNfT) | [The Chamanas](https://open.spotify.com/artist/4QUnWR26plj0oHiQgRyhvk) | [Dulce Mal](https://open.spotify.com/album/7u7PYKzkFojFmGAj0JI37Y) | 4:02 |
-| 88 | [Manual de una Pérdida](https://open.spotify.com/track/7hP1CtdqStqiXU91lWxmwV) | [Fármacos](https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M) | [Manual de una Pérdida](https://open.spotify.com/album/0LhbhAzSSCCq3Wg6u969gc) | 3:18 |
-| 89 | [Louvre](https://open.spotify.com/track/6aw79PLeX1Q2sMUYqOuz0A) | [Santi Muk](https://open.spotify.com/artist/0IaiZRhsEDKT58KYfU5isz) | [Louvre](https://open.spotify.com/album/6ePyM0mN9mHStVZIVOUjOP) | 2:49 |
+| 88 | [Louvre](https://open.spotify.com/track/6aw79PLeX1Q2sMUYqOuz0A) | [Santi Muk](https://open.spotify.com/artist/0IaiZRhsEDKT58KYfU5isz) | [Louvre](https://open.spotify.com/album/6ePyM0mN9mHStVZIVOUjOP) | 2:49 |
+| 89 | [Manual de una Pérdida](https://open.spotify.com/track/7hP1CtdqStqiXU91lWxmwV) | [Fármacos](https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M) | [Manual de una Pérdida](https://open.spotify.com/album/0LhbhAzSSCCq3Wg6u969gc) | 3:18 |
 | 90 | [Primavera 2020 \(feat\. Zoe Gotusso\)](https://open.spotify.com/track/4vCD9Xe8QYIm2Aqp1xGbbP) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit), [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Primavera 2020 \(feat\. Zoe Gotusso\)](https://open.spotify.com/album/5X9qkepq82FqhDuve2Jmsp) | 4:49 |
 | 91 | [Por Amor al Arte](https://open.spotify.com/track/11J0d0cb0J4Xk4PcRyuJ3k) | [Santi Celli](https://open.spotify.com/artist/3zoMlg6gx6K4NcGE15qtCF) | [Reset](https://open.spotify.com/album/0DDUTF4YqIOsUpq9MOqWMo) | 2:02 |
 | 92 | [Sueño Tsunami](https://open.spotify.com/track/6bXaxXuBHxzy98PWxPvVLl) | [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD) | [Crucero Cristal](https://open.spotify.com/album/0LmoZ3QsZ5UDNoit01E12E) | 2:57 |
 | 93 | [Desde Dentro](https://open.spotify.com/track/38MvBCfKEfqBmx4bfXxA7Z) | [Buendia](https://open.spotify.com/artist/4DgmNZDjpk4Zj547a2bfcH) | [En el Caribe También Pasa Esto](https://open.spotify.com/album/5nasMHFwjeW93OHvHwDWCp) | 4:26 |
-| 94 | [SOMOS TAN INTENSOS](https://open.spotify.com/track/6LTS9XjUZXVDr0DY0b8AQA) | [LOUTA](https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3) | [ENCHASTRE](https://open.spotify.com/album/4tLVVo1gXMizHYINYC3FB7) | 3:32 |
-| 95 | [Amor Amor](https://open.spotify.com/track/5ateXRsQ82PGxSBDndHD88) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Antibióticx](https://open.spotify.com/album/4lO3CYyULcgc6RPKfJqS02) | 4:15 |
+| 94 | [Amor Amor](https://open.spotify.com/track/5ateXRsQ82PGxSBDndHD88) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Antibióticx](https://open.spotify.com/album/4lO3CYyULcgc6RPKfJqS02) | 4:15 |
+| 95 | [SOMOS TAN INTENSOS](https://open.spotify.com/track/6LTS9XjUZXVDr0DY0b8AQA) | [LOUTA](https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3) | [ENCHASTRE](https://open.spotify.com/album/4tLVVo1gXMizHYINYC3FB7) | 3:32 |
 | 96 | [Admirador](https://open.spotify.com/track/1jaQ4o6VRWRPxzf560sMWZ) | [Odisseo](https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd) | [Admirador](https://open.spotify.com/album/19h3hwEv0Soo77O7j0JoSy) | 3:32 |
 | 97 | [Confía](https://open.spotify.com/track/1SXPlj3wH0Luz40LmBFjso) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM), [Vicentico](https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ) | [Confía](https://open.spotify.com/album/6OBErs3AYUFKYyZYDDavCU) | 3:04 |
 | 98 | [Abriendo Latidos](https://open.spotify.com/track/5PnoR6ebAhK7paJET1iv6a) | [LARÓ](https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri) | [Abriendo Latidos](https://open.spotify.com/album/5aA6xXb2YJGRjyPhx0orry) | 3:14 |
 | 99 | [Ahí Ahí](https://open.spotify.com/track/6m02i6JyJz15hw8jOqu3Cz) | [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [Ahí Ahí](https://open.spotify.com/album/7dr2zU98W3hvgR81Hm02dY) | 3:30 |
 | 100 | [Si No Es Así](https://open.spotify.com/track/687EDCtBggHXjS1HxfILjB) | [Candelaria Zamar](https://open.spotify.com/artist/5CvtChuDVlejwaMPQb9Sx1), [Hernán Segret](https://open.spotify.com/artist/0ZsQYKiNIxkaBdbkftJQYU) | [Un Vaso de Agua](https://open.spotify.com/album/6mUautkWmj3z5Q1FJ68tUN) | 1:28 |
 
-Snapshot ID: `MTY2MjY5MjQwMCwwMDAwMDAwMGNhNWExYmU4YTNmMzljMDQzY2ZmYmQ1ZTQzNjYxM2M3`
+Snapshot ID: `MTY2MjY5MjQwMCwwMDAwMDAwMDk0NTM0Mzc0NWUzOWVkODZmZWJiN2RlYWNhZDIyYTlj`

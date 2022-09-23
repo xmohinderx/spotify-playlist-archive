@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "I FASK e il Liga? What is this, a crossover episode?",
+  "description": "Chitarre, pi\u00f9 o meno distorte. Aggiornata ogni venerd\u00ec. Cover: Verdena",
   "name": "Rock Italia",
   "published_playlist_ids": [
     "1ygHfNTT8YmP8RXH0ojm4P"
@@ -59,7 +59,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 182503,
       "name": "A casa dei miei",
       "url": "https://open.spotify.com/track/5CyM9AldfTQmuvs0Tmy3B8"
@@ -275,7 +275,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 194400,
       "name": "Biting My Tongue",
       "url": "https://open.spotify.com/track/7ldjZ1u6RB5E0oecZwWNlO"
@@ -520,6 +520,24 @@
     },
     {
       "album": {
+        "name": "Casanova",
+        "url": "https://open.spotify.com/album/48Kseq11LU065k91UeV3c3"
+      },
+      "artists": [
+        {
+          "name": "Francie",
+          "url": "https://open.spotify.com/artist/0yWTeuyotX6gZzD2pbe8ip"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236000,
+      "name": "Casanova",
+      "url": "https://open.spotify.com/track/4fImlKONfekd1g8CNPnOea"
+    },
+    {
+      "album": {
         "name": "Chaise Longue",
         "url": "https://open.spotify.com/album/2HtuyQa8ttY6Fn433FIs0s"
       },
@@ -647,6 +665,24 @@
       "duration_ms": 203920,
       "name": "Cristallo metallo",
       "url": "https://open.spotify.com/track/2GNllavhO7WsdE2yRuKWnO"
+    },
+    {
+      "album": {
+        "name": "Volevo Magia",
+        "url": "https://open.spotify.com/album/0ISl1KHwbmQIJBe0TOWqGk"
+      },
+      "artists": [
+        {
+          "name": "Verdena",
+          "url": "https://open.spotify.com/artist/058thnz6odaxoAN4n3cMBN"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174026,
+      "name": "Crystal Ball",
+      "url": "https://open.spotify.com/track/4rJZeYt6ArHcnPova0Hgtw"
     },
     {
       "album": {
@@ -892,6 +928,42 @@
     },
     {
       "album": {
+        "name": "Elena's Beauty Theme",
+        "url": "https://open.spotify.com/album/12o45mm8xoSWby7NYpra6C"
+      },
+      "artists": [
+        {
+          "name": "R.Y.F.",
+          "url": "https://open.spotify.com/artist/6KvSMX9OVVJxn6mfCXbAOe"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296306,
+      "name": "Elena's Beauty Theme",
+      "url": "https://open.spotify.com/track/2SOdY5uljAC0Nf0ij678ER"
+    },
+    {
+      "album": {
+        "name": "Eroe",
+        "url": "https://open.spotify.com/album/144VL2vm7JEivoQ90Bafub"
+      },
+      "artists": [
+        {
+          "name": "Edoardo Elia",
+          "url": "https://open.spotify.com/artist/2cFlxnBPQbRd31eOu6soe8"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201213,
+      "name": "Eroe",
+      "url": "https://open.spotify.com/track/6q0e4HCA3LuPFkDhsOEmrI"
+    },
+    {
+      "album": {
         "name": "Estate di Merda",
         "url": "https://open.spotify.com/album/77Lhio4DcfwZ8PRhNzquc5"
       },
@@ -979,7 +1051,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 209374,
       "name": "Fewdrops",
       "url": "https://open.spotify.com/track/21j9o0fKq37tHikEmRzPAf"
@@ -1420,6 +1492,24 @@
     },
     {
       "album": {
+        "name": "Servito Freddo",
+        "url": "https://open.spotify.com/album/3XJL5WJKxgMqozmITOPrFR"
+      },
+      "artists": [
+        {
+          "name": "Pino!",
+          "url": "https://open.spotify.com/artist/052Bs1XHJXqz4X1KS3ao1O"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "In ciabatte",
+      "url": "https://open.spotify.com/track/1cL1wwfU1LvhGTUmUe5wsc"
+    },
+    {
+      "album": {
         "name": "Jack (Non Sa)",
         "url": "https://open.spotify.com/album/6Pado7DoRbTZ3LSkXefVSr"
       },
@@ -1631,7 +1721,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 181918,
       "name": "Lento",
       "url": "https://open.spotify.com/track/1Zf7qzYqsGk9SSWRxerDF0"
@@ -1707,6 +1797,24 @@
       "duration_ms": 165138,
       "name": "Love Will Take You from Behind",
       "url": "https://open.spotify.com/track/2p1Wvj7F5s8I1ypZNkBJyP"
+    },
+    {
+      "album": {
+        "name": "Book Of Hate For Good People",
+        "url": "https://open.spotify.com/album/4gr5qXeIHW3uRpYvqBbYSo"
+      },
+      "artists": [
+        {
+          "name": "The Manges",
+          "url": "https://open.spotify.com/artist/5Uop1XjzGUDG3t4uoWXooc"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144493,
+      "name": "Lucky Tiger",
+      "url": "https://open.spotify.com/track/6t1EdtEDYhXnGi8rBnnxJ6"
     },
     {
       "album": {
@@ -1790,6 +1898,24 @@
     },
     {
       "album": {
+        "name": "Pastimes",
+        "url": "https://open.spotify.com/album/4ep2PpS27FYkcXqje4ibyE"
+      },
+      "artists": [
+        {
+          "name": "Baseball Gregg",
+          "url": "https://open.spotify.com/artist/7MXsu694gc1X8K6s7XPmw4"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221778,
+      "name": "Montese",
+      "url": "https://open.spotify.com/track/6plgbXWnR6fv3bE2H4yJSu"
+    },
+    {
+      "album": {
         "name": "Multiculti supermarket",
         "url": "https://open.spotify.com/album/4yxX7IQ7lT1njmkVgzCXtw"
       },
@@ -1859,6 +1985,24 @@
       "duration_ms": 203307,
       "name": "Non moriremo mai",
       "url": "https://open.spotify.com/track/6FNoHN4QzgqM5FVISnhplF"
+    },
+    {
+      "album": {
+        "name": "Non \u00c8 Per Sempre",
+        "url": "https://open.spotify.com/album/1ENKtcZOUYJj21mbuki1XI"
+      },
+      "artists": [
+        {
+          "name": "La ragazza dello Sputnik",
+          "url": "https://open.spotify.com/artist/3k1ymzgC0JLqsmj6R8WaYB"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208786,
+      "name": "Non \u00c8 Per Sempre",
+      "url": "https://open.spotify.com/track/3hmcaxci5fSfzMdT59gf3M"
     },
     {
       "album": {
@@ -2611,7 +2755,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 101205,
       "name": "Sunbathing",
       "url": "https://open.spotify.com/track/3zopgb185SC5qGckDEjP6y"

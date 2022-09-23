@@ -4,7 +4,7 @@
 
 > A relaxing atmosphere of Jazz piano sounds.
 
-309 songs - 20 hr 55 min - [published](https://open.spotify.com/playlist/4rBgcgd1OSYR929BKpPyA1)
+310 songs - 21 hr 0 min - [published](https://open.spotify.com/playlist/4rBgcgd1OSYR929BKpPyA1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,7 @@
 | [I Can't Get Started](https://open.spotify.com/track/5L9Mumh1rUDSIaHPzLpVhj) | [Sal Ritter](https://open.spotify.com/artist/2ExFoyhPRTmehwcofSp2E0) | [Softly, as in a Morning Sunrise](https://open.spotify.com/album/3rIfaasfAx6n5CEbdnw8Ql) | 3:56 | 2020-10-20\* | 2022-08-22 |
 | [I Could Write A Book](https://open.spotify.com/track/7nbQBpnj4CfKEycYy1dNLT) | [Jacob Schwarz Trio](https://open.spotify.com/artist/4xN1VyTbKQakR98CT0NNfY) | [Jazz Nights](https://open.spotify.com/album/6RT1EEN4J9A229oyoZ6jHM) | 3:09 | 2020-10-20\* | 2021-01-21 |
 | [I Cover the Waterfront](https://open.spotify.com/track/2gGerDB2Wi5BgPTUQiwYUJ) | [Charles Daisey & Friends](https://open.spotify.com/artist/3w2I7PA6Gx8aD6IZMBJP20) | [I Cover the Waterfront](https://open.spotify.com/album/2Xot33Eg7gVwDGGv7BS7Bz) | 2:28 | 2021-06-05 |  |
-| [I Didn't Know What Time It Was](https://open.spotify.com/track/55R3ErqINJB9SiOEMqv6mh) | [David Fitzpatrick Trio](https://open.spotify.com/artist/4enAEqBK3yfMjEWDBjtat3) | [Standards Volume 1](https://open.spotify.com/album/0jnrF5LE85YLF87HCDaea0) | 4:47 | 2020-10-20\* |  |
+| [I Didn't Know What Time It Was](https://open.spotify.com/track/55R3ErqINJB9SiOEMqv6mh) | [David Fitzpatrick Trio](https://open.spotify.com/artist/4enAEqBK3yfMjEWDBjtat3) | [Standards Volume 1](https://open.spotify.com/album/0jnrF5LE85YLF87HCDaea0) | 4:47 | 2020-10-20\* | 2022-09-23 |
 | [I Fall In Love Too Easily](https://open.spotify.com/track/27UzG7JwCeHVv81CTGWIlc) | [Sweet Nothings Band](https://open.spotify.com/artist/4ygDKFVSrFRneq8dUmldb7) | [I'll Remember April](https://open.spotify.com/album/0Sc9pwXP23B6Fh5TTCJ0dl) | 4:47 | 2020-10-20\* | 2022-09-02 |
 | [I Got It Bad And That Ain't Good](https://open.spotify.com/track/4ol2UyMTiklHVujAWg02nE) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Night Train \(Expanded Edition\)](https://open.spotify.com/album/3gPOWmWT0q7Ygp95Xiuw1v) | 5:06 | 2021-01-21 |  |
 | [I Guess I'll Hang My Tears Out To Dry](https://open.spotify.com/track/3WVKyc1in22UyqbohaNuhP) | [Hector Milo Trio](https://open.spotify.com/artist/0sn0tQQs3lIlLSgHgidapX) | [I Can't Get Started](https://open.spotify.com/album/36KOcJTwtz8mKCmpac4cD6) | 4:14 | 2021-02-06 | 2022-08-14 |
@@ -206,6 +206,7 @@
 | [Oh Good Grief](https://open.spotify.com/track/2Xa7KXq1fLZ6A4WyQSU6kF) | [Franco Reiss](https://open.spotify.com/artist/67WjJlQvj3PHZKkBTpVbOy) | [Angel Eyes](https://open.spotify.com/album/7Ax5m45a1FCPw7ztlGSwIb) | 3:08 | 2020-10-20\* | 2021-01-21 |
 | [Once I Had A Secret Love](https://open.spotify.com/track/05prboiM4bmlXfvsvghvI1) | [CMC 3](https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC) | [Dear Old Stockholm](https://open.spotify.com/album/4GI4i7HoTbp7QQdMTGn28L) | 4:18 | 2020-10-20\* | 2020-12-15 |
 | [Out of place](https://open.spotify.com/track/5GSCUe3Tygcx9JHJ6e7Qo3) | [Robert Elovsson](https://open.spotify.com/artist/1qbdguQmvfReqeUnLezmAx) | [All Alone](https://open.spotify.com/album/3mDYL1r2ixKn7U5r0EA2JJ) | 3:31 | 2020-10-20\* |  |
+| [Pensativa](https://open.spotify.com/track/1QVNZXoguyS3bBzMldMn7i) | [Gene Hart Trio](https://open.spotify.com/artist/5iUzoJfVuTECa0aM3nCCCh) | [I'm Glad There's You](https://open.spotify.com/album/77AOGNjcrBXivWuex9jHmc) | 4:47 | 2022-09-20 |  |
 | [Perception Through A Crystal Orb](https://open.spotify.com/track/5P2fFIHidJIgfcHgs7v4fK) | [Joyce Trio](https://open.spotify.com/artist/75pnTZQozf5CtkbWxmUtCf) | [Perception Through A Crystal Orb](https://open.spotify.com/album/0vrjE37V3hoBoEBFW1FP4m) | 3:10 | 2022-06-08 |  |
 | [Pink Balloons](https://open.spotify.com/track/328IUKlFSM9s4PtJHkrFir) | [Manuel Cali Band](https://open.spotify.com/artist/0EUayRxSuHe3rEgexVFpk6) | [Pink Balloons](https://open.spotify.com/album/7agJWbtNcNFJzvtn62eN9q) | 4:24 | 2022-01-19 |  |
 | [Polka Dots and Moonbeams](https://open.spotify.com/track/7sVXqVvhTvRi8f9jdvh4Z0) | [Enzo Green](https://open.spotify.com/artist/5gP1SO0cGYBFIJZy7VG88p) | [I Fall in Love Too Easily](https://open.spotify.com/album/0RbnjRxCrpynyhiBsjf7Kj) | 4:08 | 2020-12-09 |  |

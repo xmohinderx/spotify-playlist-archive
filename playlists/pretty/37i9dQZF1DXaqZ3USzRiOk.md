@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqZ3USzRiOk.md) - [plain]
 
 > Yo soy tu sangre, mi viejo, soy tu silencio y tu tiempo...
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,225 likes - 150 songs - 7 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,360 likes - 150 songs - 7 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,15 +76,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqZ3USzRiOk.md) - [plain]
 | 66 | [Tus Desprecios](https://open.spotify.com/track/6gyPojQkJawXsMryAeu5Se) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit), [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Tus Desprecios](https://open.spotify.com/album/3si2q6g6Mw94o5wsftqXH6) | 2:22 |
 | 67 | [Mi Jefe](https://open.spotify.com/track/0UUz5GRn15I8839GPyxlfU) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Mi Jefe](https://open.spotify.com/album/64Ea7fAv31mvQ47PTQFeUN) | 3:34 |
 | 68 | [Por una Mujer Casada](https://open.spotify.com/track/4zLVaH8HnWApTsEwCBRYxM) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Pa' Puros Compas!, Vol\. 2: Corridos y Rancheras](https://open.spotify.com/album/6YfMNFnsU5lhm1T3Tt9vB9) | 2:09 |
-| 69 | [Apenas Te Fuistes Ayer](https://open.spotify.com/track/6V79WQFVLdiCLrlsYpdQTV) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Mi Buena Suerte](https://open.spotify.com/album/3Ucu7Yp0cBJvikdVn5qsUA) | 2:43 |
-| 70 | [Paloma negra](https://open.spotify.com/track/7cOZAzuSGF7y4pNX35B7yq) | [Lola Beltrán](https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p) | [A 10 años....un recuerdo permanente](https://open.spotify.com/album/1kjh1Y0RyHMdXLQWJqkf4R) | 3:15 |
+| 69 | [Paloma negra](https://open.spotify.com/track/7cOZAzuSGF7y4pNX35B7yq) | [Lola Beltrán](https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p) | [A 10 años....un recuerdo permanente](https://open.spotify.com/album/1kjh1Y0RyHMdXLQWJqkf4R) | 3:15 |
+| 70 | [Apenas Te Fuistes Ayer](https://open.spotify.com/track/6V79WQFVLdiCLrlsYpdQTV) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Mi Buena Suerte](https://open.spotify.com/album/3Ucu7Yp0cBJvikdVn5qsUA) | 2:43 |
 | 71 | [Un Viejo Amor](https://open.spotify.com/track/2crKAO9BmgxaCo98HhSAXP) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [15 Boleros de Oro](https://open.spotify.com/album/7GqZKE68HTdrIGkRpa81w6) | 2:40 |
 | 72 | [De Mi Viejo](https://open.spotify.com/track/7carA1Po4OJtsuw8QlIJko) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [En El Camino](https://open.spotify.com/album/5B5zQLsqiI6PoIRQC8jn6M) | 3:03 |
 | 73 | [Ebrio De Amor](https://open.spotify.com/track/74wVQ70UcpENCcJFOZCsW3) | [Ezequiel Peña](https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty) | [Orgullo Ranchero](https://open.spotify.com/album/3RX67bIfnSkkEcobM5yAni) | 3:38 |
 | 74 | [No me amenaces](https://open.spotify.com/track/7FaDBpQuCQxWL0nAYTg8n1) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [¡MÉXICO Por Siempre!](https://open.spotify.com/album/46FkZmwdxnGPVXUTTfhche) | 2:28 |
 | 75 | [El Abuelo](https://open.spotify.com/track/3XL9NdAfiirtappFSAZyCr) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [El Abuelo](https://open.spotify.com/album/0OIYe6PJEmhsKP8m9Kdbz1) | 3:07 |
-| 76 | [Rinconcito En El Cielo](https://open.spotify.com/track/0uJUohjIxJs0FHE53qOCvX) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [FREDDIE RECORDS PRESENTA EL DIA DE LAS MADRES](https://open.spotify.com/album/1lrpWHUZEI6Kgmqi7Aw4kp) | 3:33 |
-| 77 | [La basurita](https://open.spotify.com/track/11A3Ku68YxMyS6OADvRMX3) | [Beatriz Adriana](https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ) | [¡ Ora pues !](https://open.spotify.com/album/7o88TvoiVuWuHRoXQXsfJA) | 2:10 |
+| 76 | [La basurita](https://open.spotify.com/track/11A3Ku68YxMyS6OADvRMX3) | [Beatriz Adriana](https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ) | [¡ Ora pues !](https://open.spotify.com/album/7o88TvoiVuWuHRoXQXsfJA) | 2:10 |
+| 77 | [Rinconcito En El Cielo](https://open.spotify.com/track/0uJUohjIxJs0FHE53qOCvX) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [FREDDIE RECORDS PRESENTA EL DIA DE LAS MADRES](https://open.spotify.com/album/1lrpWHUZEI6Kgmqi7Aw4kp) | 3:33 |
 | 78 | [Pena Tras Pena](https://open.spotify.com/track/1GLxXu6AlBjPyo3a158CW4) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Tengo Una Ilusión \(60 Aniversario\)](https://open.spotify.com/album/7MAgEJa3wbOp6RfV42WtBg) | 2:48 |
 | 79 | [Asi Fue](https://open.spotify.com/track/1igWS2rkcWldABqxIaUiHP) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Antes De Partir](https://open.spotify.com/album/28Kb1pmRPsiBUFKSCs1Qlq) | 5:18 |
 | 80 | [Libro Abierto](https://open.spotify.com/track/6squwxmGYNEgrk3Ai0piCi) | [Gerardo Reyes](https://open.spotify.com/artist/2HdTW6TLACOcKKsUaRdP0e) | [Serie De Colecc\. 15 Auténticos Exitos](https://open.spotify.com/album/2NBlTAiYb311082CIMKqjU) | 2:08 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqZ3USzRiOk.md) - [plain]
 | 149 | [El venadito](https://open.spotify.com/track/6QwLrOSaZXZO7NgE1MhdR2) | [Hermanos Zaizar](https://open.spotify.com/artist/5KbyfDCBeFU2FrZy5yVvyo) | [16 Exitos de los Hermanos Zaizar](https://open.spotify.com/album/1n9DnpRlC0dB6Fhr70DaGO) | 2:46 |
 | 150 | [La Que Se Fue](https://open.spotify.com/track/1alyNZG9KRgo9QEs7alv92) | [Jorge Negrete](https://open.spotify.com/artist/4W5RbLZybsLfAzE7QqdibE) | [Fiesta Mexicana](https://open.spotify.com/album/3YGaO3xZe4xrr1defiiv5q) | 2:49 |
 
-Snapshot ID: `MTY1NjQzODk1OCwwMDAwMDAwMGFkODJiZTFhMjNmN2Q4OTY2NjI4YTA2MDNlODYwYmIy`
+Snapshot ID: `MTY1NjQzODk1OCwwMDAwMDAwMDliYzNkMzhjYTk2M2EzOTAzNzEwNWRlNDFkZWNhMjg5`

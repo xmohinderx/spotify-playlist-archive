@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "The best in current indie rock. Cover: The Big Moon",
+  "description": "The best in current indie rock. Cover: Sports Team",
   "name": "pulp",
   "published_playlist_ids": [
     "6icr08W6LxkqPUtZpmcgvv"
@@ -152,6 +152,24 @@
     },
     {
       "album": {
+        "name": "War Boys - EP",
+        "url": "https://open.spotify.com/album/27cHXHny5VwZZndOEskS4s"
+      },
+      "artists": [
+        {
+          "name": "Dead Pony",
+          "url": "https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226514,
+      "name": "All Dressed Up For Nothing",
+      "url": "https://open.spotify.com/track/2MHkWrU8EtiU6mANOCVO5t"
+    },
+    {
+      "album": {
         "name": "Alright",
         "url": "https://open.spotify.com/album/0gGGoMyxPz6CKGjmoWJGmv"
       },
@@ -235,7 +253,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 232320,
       "name": "Angelica",
       "url": "https://open.spotify.com/track/3EwTIu5qka2l5ZekB0b6QC"
@@ -271,7 +289,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 210640,
       "name": "Anti-glory",
       "url": "https://open.spotify.com/track/7fDPgekQGJKkyyqjuhtNSG"
@@ -836,6 +854,24 @@
     },
     {
       "album": {
+        "name": "Clearing Up",
+        "url": "https://open.spotify.com/album/27c9Gmx0vjHxeRtdDWK8Wa"
+      },
+      "artists": [
+        {
+          "name": "BROCKHOFF",
+          "url": "https://open.spotify.com/artist/5ZeRq1tqf4t8fcdFdjmlQZ"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188691,
+      "name": "Clearing Up",
+      "url": "https://open.spotify.com/track/1myngwB46MFlfvFsH3Pxmb"
+    },
+    {
+      "album": {
         "name": "Seize the Power",
         "url": "https://open.spotify.com/album/2QgPGKzoN51qcEzGlHYk7j"
       },
@@ -1020,6 +1056,42 @@
     },
     {
       "album": {
+        "name": "Cut My Hair",
+        "url": "https://open.spotify.com/album/3K6BzyGqvZCujtg6nIMS3F"
+      },
+      "artists": [
+        {
+          "name": "Lande Hekt",
+          "url": "https://open.spotify.com/artist/3RU6wsoh0bm0gZFHJiYRmq"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181279,
+      "name": "Cut My Hair",
+      "url": "https://open.spotify.com/track/0vhDL4PlraJhlfGYtYFaB6"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0dMeqAw8U02QpDifgEeY3Y"
+      },
+      "artists": [
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149443,
+      "name": "Daisy - Spotify Singles",
+      "url": "https://open.spotify.com/track/7fvs1psRkf1WWX4qJOq53N"
+    },
+    {
+      "album": {
         "name": "Damn I'm Tired",
         "url": "https://open.spotify.com/album/0LqHbdzLluBS0k9Wh7bmKu"
       },
@@ -1175,7 +1247,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 161082,
       "name": "Dig!",
       "url": "https://open.spotify.com/track/0jhhWCD0oXc4E480bMl6L7"
@@ -1218,6 +1290,24 @@
     },
     {
       "album": {
+        "name": "Do You Wanna Talk",
+        "url": "https://open.spotify.com/album/1M9rhdjdrp2azAxUtavJuX"
+      },
+      "artists": [
+        {
+          "name": "Circa Waves",
+          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146392,
+      "name": "Do You Wanna Talk",
+      "url": "https://open.spotify.com/track/32SDqcUr2HkSJ20NlHcMBe"
+    },
+    {
+      "album": {
         "name": "Anna Calls From The Arctic",
         "url": "https://open.spotify.com/album/5jwTWkWKnLiNQL9NXklUva"
       },
@@ -1229,7 +1319,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 110302,
       "name": "Don't Press Me",
       "url": "https://open.spotify.com/track/1kjV1x2jSTA6g4RoPm3HdY"
@@ -1359,6 +1449,24 @@
       "duration_ms": 200891,
       "name": "Falling Apart",
       "url": "https://open.spotify.com/track/48DEKIyp57dlFy7Yn2O12V"
+    },
+    {
+      "album": {
+        "name": "Guitar Music",
+        "url": "https://open.spotify.com/album/6aYwIBompOG7x0c2BukbgI"
+      },
+      "artists": [
+        {
+          "name": "Courting",
+          "url": "https://open.spotify.com/artist/3oLTaC5QBOH96VbxMAafpZ"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199328,
+      "name": "Famous",
+      "url": "https://open.spotify.com/track/5yqJYw5xgVn46fc0IZ55Mz"
     },
     {
       "album": {
@@ -1895,7 +2003,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 165772,
       "name": "Hell On Earth",
       "url": "https://open.spotify.com/track/5zkVTkQkHV4ygkf4sjicbA"
@@ -2835,7 +2943,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 245880,
       "name": "No Good Woman",
       "url": "https://open.spotify.com/track/483wH74F4lN52Xl5cV3MJ8"
@@ -2853,7 +2961,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 200326,
       "name": "Oblivion!",
       "url": "https://open.spotify.com/track/7kbVobcMAcn9tPSjwYG5uT"
@@ -2973,6 +3081,24 @@
       "duration_ms": 220311,
       "name": "One Last Embrace",
       "url": "https://open.spotify.com/track/4r1tj3IiK4oeUK1U4iAgY6"
+    },
+    {
+      "album": {
+        "name": "One Of A Million",
+        "url": "https://open.spotify.com/album/2RyB5I5mCKX3dic2vxyjvG"
+      },
+      "artists": [
+        {
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216255,
+      "name": "One Of A Million",
+      "url": "https://open.spotify.com/track/129EFIQ1KrSVCPPIg1XQnj"
     },
     {
       "album": {
@@ -3272,6 +3398,24 @@
     },
     {
       "album": {
+        "name": "Rid Of Me",
+        "url": "https://open.spotify.com/album/6M1gUhD4vXvWeEJ49maP1U"
+      },
+      "artists": [
+        {
+          "name": "Nil\u00fcfer Yanya",
+          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217712,
+      "name": "Rid Of Me",
+      "url": "https://open.spotify.com/track/2vVP0dYc6rjkXalTfPthfa"
+    },
+    {
+      "album": {
         "name": "Planet (i)",
         "url": "https://open.spotify.com/album/0j5QJZWlMGIcd0tmFQXs63"
       },
@@ -3319,7 +3463,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 194374,
       "name": "Roll The Dice",
       "url": "https://open.spotify.com/track/2q7RE1Csj30DPOXqO4sWqO"
@@ -3953,7 +4097,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-02",
+      "date_removed": null,
       "duration_ms": 178212,
       "name": "The Drop",
       "url": "https://open.spotify.com/track/2fQ31yKKudLScWY0Tt84AF"
@@ -4187,7 +4331,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 291893,
       "name": "Try Try Try",
       "url": "https://open.spotify.com/track/5RIVwMLtGIriw8JS73Fleg"
@@ -4281,6 +4425,24 @@
       "duration_ms": 214000,
       "name": "Watching Strangers Smile",
       "url": "https://open.spotify.com/track/2fZ2u0nLos8nBjS4n3IDKl"
+    },
+    {
+      "album": {
+        "name": "Wayfinding",
+        "url": "https://open.spotify.com/album/2uKHnwdrCulGi0RdoaJCMl"
+      },
+      "artists": [
+        {
+          "name": "Chappaqua Wrestling",
+          "url": "https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189466,
+      "name": "Wayfinding",
+      "url": "https://open.spotify.com/track/1SBkDOflNcFTPGysQJa9gd"
     },
     {
       "album": {
@@ -4439,7 +4601,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 164866,
       "name": "Wild Child",
       "url": "https://open.spotify.com/track/02bJ6uGeHKfNOhIc9qyA8e"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QWEVCu9UDA.md) - [plain]
 
 > Discover new music while you game.
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,555 likes - 100 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,593 likes - 100 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

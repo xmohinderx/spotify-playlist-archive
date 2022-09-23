@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgsG1xGbDd1.md) - [plain]
 
 > You feel the sun on your face.
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,020 likes - 60 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,079 likes - 60 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgsG1xGbDd1.md) - [plain]
 | 2 | [Get Up, Stand Up](https://open.spotify.com/track/25ugoarRZ6IaZegrjNxGOx) | [The Wailers](https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE) | [Burnin' \(Deluxe Edition\)](https://open.spotify.com/album/5EZMcYc3xK0rlru83kHpUe) | 3:17 |
 | 3 | [Bobby Babylon](https://open.spotify.com/track/0VjZC2nsyapSm0pd5r4Jns) | [Freddie McGregor](https://open.spotify.com/artist/30R9paG1c5BGtNGle59VPq) | [Freddie McGregor: The Anthology](https://open.spotify.com/album/3LamMh1kBDsc516HnS0Iuf) | 2:27 |
 | 4 | [People Make the World Go Round](https://open.spotify.com/track/5VsZxcRWnfX9b4SNH0KjuK) | [Hortense Ellis](https://open.spotify.com/artist/3rZYrTkyrwz1CiW09bfLE2) | [Alton & Hortense Ellis](https://open.spotify.com/album/1hWDeXQy6iBX5avTe0TKmy) | 3:18 |
-| 5 | [No No No](https://open.spotify.com/track/1IydAjgvKCvFinmoIDaBx0) | [Dawn Penn](https://open.spotify.com/artist/6mLXvSt7Xxy2r9uBba1O6Z) | [Feel Like Jumping: The Best of Studio One Women](https://open.spotify.com/album/6VePDosmMTNHNOshjX4vZJ) | 4:29 |
-| 6 | [Rudie Bam Bam](https://open.spotify.com/track/19MYWyeATrI33acF9xSgBk) | [The Clarendonians](https://open.spotify.com/artist/4GJL3Iwg1JKo6VembsjOS5) | [Winner Of My Heart \- Reggae](https://open.spotify.com/album/0xUN4o8p2BixUKpUvOejJ5) | 2:21 |
+| 5 | [Rudie Bam Bam](https://open.spotify.com/track/19MYWyeATrI33acF9xSgBk) | [The Clarendonians](https://open.spotify.com/artist/4GJL3Iwg1JKo6VembsjOS5) | [Winner Of My Heart \- Reggae](https://open.spotify.com/album/0xUN4o8p2BixUKpUvOejJ5) | 2:21 |
+| 6 | [No No No](https://open.spotify.com/track/1IydAjgvKCvFinmoIDaBx0) | [Dawn Penn](https://open.spotify.com/artist/6mLXvSt7Xxy2r9uBba1O6Z) | [Feel Like Jumping: The Best of Studio One Women](https://open.spotify.com/album/6VePDosmMTNHNOshjX4vZJ) | 4:29 |
 | 7 | [Poco Tempo \(aka Pocco Tempo\)](https://open.spotify.com/track/3XsdL4mKkygWZpOcyt4vfp) | [Pablove Black and The New Establishment](https://open.spotify.com/artist/1AWHkjdfs8WUkn61MicKNq) | [Natural High: The Bongo Man Collection](https://open.spotify.com/album/09ThsD4R0KOVguZBScQH3S) | 4:10 |
 | 8 | [Never Give Your Heart Away](https://open.spotify.com/track/22LNaj7qU9BC1nlylGVaKt) | [Carlton & The Shoes](https://open.spotify.com/artist/6mkOssVLhCbXwi57tThPet) | [Love Me Forever](https://open.spotify.com/album/6xagSz2uBot6PdYytMZxxi) | 3:05 |
 | 9 | [Addis Ababa](https://open.spotify.com/track/2WyHhnomczoCMPlG6SW50w) | [The Skatalites](https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb) | [Foundation Ska](https://open.spotify.com/album/75ZvFVrbCvlXtjrMkyeRCZ) | 2:24 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgsG1xGbDd1.md) - [plain]
 | 59 | [Cousin Joe Pt 1](https://open.spotify.com/track/3hJPEhPVe5r122YyR938Sb) | [Sugar Belly](https://open.spotify.com/artist/0ssb4YvbdaKz7NlQAcrbX6) | [Studio One Scorcher Volume 2](https://open.spotify.com/album/7uBodlWM79A8BbXJqHS90a) | 3:39 |
 | 60 | [Reggae Feet](https://open.spotify.com/track/7bfqVYoG4SEjyp0LgUf6KG) | [Lloyd Williams](https://open.spotify.com/artist/0neTVvqj2VQoVQRrfWtfNE) | [Studio One Funk](https://open.spotify.com/album/5Ywu5U2ufJsj751yuKw3V4) | 2:34 |
 
-Snapshot ID: `MTYxOTE3MTcwNCwwMDAwMDAwMDExMTg4MzdjZmU1OWI2ODU4NjE5MjllYzI2Y2VhOGZh`
+Snapshot ID: `MTYxOTE3MTcwNCwwMDAwMDAwMGRhMzBkOGUyYjk5ODkzMWRmYzYzZDgzYjAxZjFmZDM1`

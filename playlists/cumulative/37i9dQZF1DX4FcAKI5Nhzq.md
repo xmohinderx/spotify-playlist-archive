@@ -4,7 +4,7 @@
 
 > Future K\-Pop hits! Cover: CHOI YOOJUNG
 
-646 songs - 1 day 12 hr 0 min - [published](https://open.spotify.com/playlist/365X6AQFdYqkXtDjWksHVf)
+648 songs - 1 day 12 hr 6 min - [published](https://open.spotify.com/playlist/365X6AQFdYqkXtDjWksHVf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -250,6 +250,7 @@
 | [Hello](https://open.spotify.com/track/3cGp1jXxLReLKz7QgVbWZR) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [Hello \- Special Album](https://open.spotify.com/album/37mRfTDwQzVbHihypYY8oE) | 3:38 | 2021-06-01 | 2021-08-25 |
 | [Hello Future](https://open.spotify.com/track/332GJ8ykVuEt3jOT1sy7j6) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hello Future \- The 1st Album Repackage](https://open.spotify.com/album/1fRqXYwoLDxG3EwP70qnjM) | 3:40 | 2021-07-01 | 2021-09-07 |
 | [Hero](https://open.spotify.com/track/3jfkavi0DplCgF687ce9Md) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [INSIDE](https://open.spotify.com/album/38ifcco3lQ2JhSpU5JLMGW) | 3:16 | 2021-02-22 | 2021-03-01 |
+| [HEYDAY \(Prod\. Czaer\)](https://open.spotify.com/track/35sE2Ehvd1GzBzAIC0zFIu) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Street Man Fighter Original Vol.4 \(Crew Songs\)](https://open.spotify.com/album/7dwRGP1A80POqE3O9At5Vw) | 2:24 | 2022-09-22 |  |
 | [Hit The Bass](https://open.spotify.com/track/1NP5DSaxtvH6iAIOpXHdf2) | [BLITZERS](https://open.spotify.com/artist/3Exoh42YMeqnUvYahAGgUE) | [WIN\-DOW](https://open.spotify.com/album/4dcwVvd7l0sAGBg0pSmKK2) | 3:30 | 2022-07-25 | 2022-09-02 |
 | [HIT YA!](https://open.spotify.com/track/5m7UOBjNO6Zp9gWdyscqDx) | [Lapillus](https://open.spotify.com/artist/7bcMJG1TkYFFD9Fit3STLJ) | [HIT YA!](https://open.spotify.com/album/5TIglX0Yp81a4cAvtdodI9) | 3:21 | 2022-06-27 | 2022-09-09 |
 | [Hmph!](https://open.spotify.com/track/0UF2ka9POcLMSi1rf9pwgA) | [WJSN Chocome](https://open.spotify.com/artist/5VyqN5hNo0TbYF0ICU77nn) | [Hmph!](https://open.spotify.com/album/3oiVOb6e43wsvdV4ClJYm0) | 3:19 | 2020-10-13\* | 2020-11-16 |
@@ -652,6 +653,7 @@
 | [ZERO](https://open.spotify.com/track/7pWYbXXcXaDenC0yQylDmQ) | [SUPER JUNIOR\-D&E](https://open.spotify.com/artist/3EfnKIG9827OXkcQQT7HEI) | [COUNTDOWN \- The 1st Album](https://open.spotify.com/album/7yNv0QElHZXnh6wMac0cx3) | 3:26 | 2021-11-05 | 2021-12-14 |
 | [ZERO:ATTITUDE \(Feat\. pH\-1\)](https://open.spotify.com/track/7oZ7KgLcFZGJ0EZXi6BR7M) | [SOYOU](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb), [IZ\*ONE](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [ZERO:ATTITUDE](https://open.spotify.com/album/0QNFrDNohHvrMsm7lH1gat) | 3:00 | 2021-02-15 | 2021-03-01 |
 | [Zombie](https://open.spotify.com/track/5zTp64MsWOTdAWWXK7zEPK) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [HIDE & SEEK](https://open.spotify.com/album/1Oh6STLhW6dxRAkvOUBHl8) | 3:20 | 2021-09-29 | 2021-12-14 |
+| [ZOMBIES](https://open.spotify.com/track/2Q1EVavjMH8XrRvHbVRTpc) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [BUT FOR NOW LEAVE ME ALONE](https://open.spotify.com/album/5HUdhu9p2kVPQ8g56woOQn) | 3:04 | 2022-09-22 |  |
 | [ZOO](https://open.spotify.com/track/7eVu7FI02cTicLEgVtUvwF) | [TAEYONG](https://open.spotify.com/artist/6SKusTjOAPsTZ6kareKQdm), [JENO](https://open.spotify.com/artist/3DZrLuJOQFKqV2sjMsKb1V), [HENDERY](https://open.spotify.com/artist/5wrZ59w1ndSBlPeUj2f6Fs), [YANGYANG](https://open.spotify.com/artist/5yyf4YDCKGaa71SC7KRw2L), [GISELLE](https://open.spotify.com/artist/2P1id80CMwR5R5cwcyIIAi) | [2021 Winter SMTOWN : SMCU EXPRESS](https://open.spotify.com/album/3dn2in6doTc6zfA0G2UFDZ) | 2:57 | 2022-01-12 | 2022-06-03 |
 | [긴 밤 \(feat\. GIRIBOY\)](https://open.spotify.com/track/5YAO57ujV1cs5eubzyOL1E) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e), [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [긴 밤 \(feat\. GIRIBOY\)](https://open.spotify.com/album/3AuhCLxpvg4gWl2Oi8D043) | 3:30 | 2021-06-18 | 2021-09-18 |
 

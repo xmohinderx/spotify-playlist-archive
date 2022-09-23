@@ -1,12 +1,12 @@
 {
   "description": "Alegra tu d\u00eda con lo m\u00e1s pop para la ma\u00f1ana.",
-  "num_followers": 979086,
+  "num_followers": 979189,
   "original_name": "Despierta y Sonr\u00ede",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY2Mjk2MywwMDAwMDAwMGRiM2U1ZmVlMDNhMmZlNWNlYmJhZmNmNjYyZmU0NDRi",
+  "snapshot_id": "MTY2MjY2Mjk2MywwMDAwMDAwMGE5NmI4MjE5NGU1ZjBiNWFjNDgwN2FmODk1YjFhZTUz",
   "tracks": [
     {
       "added_at": "2022-09-08 18:49:23",
@@ -707,6 +707,22 @@
     {
       "added_at": "2022-09-08 18:49:23",
       "album": {
+        "name": "Balas Perdidas",
+        "url": "https://open.spotify.com/album/43mAHKPa4iB2er88lxD9Q8"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "duration_ms": 216752,
+      "name": "No Se Va",
+      "url": "https://open.spotify.com/track/4khWEpnaijN0G1x019Uzdr"
+    },
+    {
+      "added_at": "2022-09-08 18:49:23",
+      "album": {
         "name": "Thousand Miles",
         "url": "https://open.spotify.com/album/5x23D06mbAdtkU9N9JrZyf"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 199604,
       "name": "Todo De Ti",
       "url": "https://open.spotify.com/track/4fSIb4hdOQ151TILNsSEaF"
-    },
-    {
-      "added_at": "2022-09-08 18:49:23",
-      "album": {
-        "name": "Balas Perdidas",
-        "url": "https://open.spotify.com/album/43mAHKPa4iB2er88lxD9Q8"
-      },
-      "artists": [
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        }
-      ],
-      "duration_ms": 216752,
-      "name": "No Se Va",
-      "url": "https://open.spotify.com/track/4khWEpnaijN0G1x019Uzdr"
     },
     {
       "added_at": "2022-09-08 18:49:23",
@@ -883,22 +883,6 @@
     {
       "added_at": "2022-09-08 18:49:23",
       "album": {
-        "name": "Justice",
-        "url": "https://open.spotify.com/album/0w1dwXfG5z6Xjjgj524JkD"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 153190,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/5dPz35akJjPqb17yeqNwqH"
-    },
-    {
-      "added_at": "2022-09-08 18:49:23",
-      "album": {
         "name": "Tiroteo (Remix)",
         "url": "https://open.spotify.com/album/2Ke07jWpOWaNVYpNMmXt7C"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 321555,
       "name": "Tiroteo - Remix",
       "url": "https://open.spotify.com/track/4OwhwvKESFtuu06dTgct7i"
+    },
+    {
+      "added_at": "2022-09-08 18:49:23",
+      "album": {
+        "name": "Justice",
+        "url": "https://open.spotify.com/album/0w1dwXfG5z6Xjjgj524JkD"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 153190,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/5dPz35akJjPqb17yeqNwqH"
     },
     {
       "added_at": "2022-09-08 18:49:23",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2022-09-08 18:49:23",
       "album": {
-        "name": "Celebration (double disc version)",
-        "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 240280,
-      "name": "Material Girl",
-      "url": "https://open.spotify.com/track/22sLuJYcvZOSoLLRYev1s5"
-    },
-    {
-      "added_at": "2022-09-08 18:49:23",
-      "album": {
         "name": "Los Tragos",
         "url": "https://open.spotify.com/album/74ubg9xT4sJ4FmNxcGHIK0"
       },
@@ -1231,6 +1215,22 @@
     {
       "added_at": "2022-09-08 18:49:23",
       "album": {
+        "name": "Celebration (double disc version)",
+        "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 240280,
+      "name": "Material Girl",
+      "url": "https://open.spotify.com/track/22sLuJYcvZOSoLLRYev1s5"
+    },
+    {
+      "added_at": "2022-09-08 18:49:23",
+      "album": {
         "name": "Pegao",
         "url": "https://open.spotify.com/album/2BzQoZdHURkzdFErSQ2Qll"
       },
@@ -1243,22 +1243,6 @@
       "duration_ms": 160733,
       "name": "Pegao",
       "url": "https://open.spotify.com/track/7Dk8r4VR5NoveUvTiCKEXC"
-    },
-    {
-      "added_at": "2022-09-08 18:49:23",
-      "album": {
-        "name": "Luces",
-        "url": "https://open.spotify.com/album/33y9UsVrEeUltpFdq8aPxZ"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 172561,
-      "name": "Luces",
-      "url": "https://open.spotify.com/track/77UICuAzXRYuJqdhcy6R3m"
     },
     {
       "added_at": "2022-09-08 18:49:23",
@@ -1283,6 +1267,22 @@
       "duration_ms": 226187,
       "name": "Una Vaina Loca",
       "url": "https://open.spotify.com/track/2qEoAz0i6yEz5dPggABcLH"
+    },
+    {
+      "added_at": "2022-09-08 18:49:23",
+      "album": {
+        "name": "Luces",
+        "url": "https://open.spotify.com/album/33y9UsVrEeUltpFdq8aPxZ"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 172561,
+      "name": "Luces",
+      "url": "https://open.spotify.com/track/77UICuAzXRYuJqdhcy6R3m"
     },
     {
       "added_at": "2022-09-08 18:49:23",
@@ -1327,26 +1327,6 @@
     {
       "added_at": "2022-09-08 18:49:23",
       "album": {
-        "name": "Fantasi",
-        "url": "https://open.spotify.com/album/64d5HQCHWpk4Qfb1MkEzj9"
-      },
-      "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        },
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        }
-      ],
-      "duration_ms": 158080,
-      "name": "Fantasi",
-      "url": "https://open.spotify.com/track/63GTuNSVLynH3n3PdqObgd"
-    },
-    {
-      "added_at": "2022-09-08 18:49:23",
-      "album": {
         "name": "Loco",
         "url": "https://open.spotify.com/album/0Aq33KpcbXrHkuyfMhEORI"
       },
@@ -1367,6 +1347,26 @@
       "duration_ms": 231603,
       "name": "Loco",
       "url": "https://open.spotify.com/track/6PDlkWmrq2ZKiUuFt2aQsH"
+    },
+    {
+      "added_at": "2022-09-08 18:49:23",
+      "album": {
+        "name": "Fantasi",
+        "url": "https://open.spotify.com/album/64d5HQCHWpk4Qfb1MkEzj9"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "duration_ms": 158080,
+      "name": "Fantasi",
+      "url": "https://open.spotify.com/track/63GTuNSVLynH3n3PdqObgd"
     },
     {
       "added_at": "2022-09-08 18:49:23",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2022-09-08 18:49:23",
       "album": {
+        "name": "En El Coche",
+        "url": "https://open.spotify.com/album/6sIXTuaE9F2p4PcXVuawjp"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "duration_ms": 125080,
+      "name": "En El Coche",
+      "url": "https://open.spotify.com/track/5mcYWxQAAlqGAhEPqVMMR5"
+    },
+    {
+      "added_at": "2022-09-08 18:49:23",
+      "album": {
         "name": "Bar",
         "url": "https://open.spotify.com/album/0QCHhR6WxpMZBbI33s1bAf"
       },
@@ -1475,22 +1491,6 @@
       "duration_ms": 200197,
       "name": "Haw\u00e1i",
       "url": "https://open.spotify.com/track/4uoR6qeWeuL4Qeu2qJzkuG"
-    },
-    {
-      "added_at": "2022-09-08 18:49:23",
-      "album": {
-        "name": "En El Coche",
-        "url": "https://open.spotify.com/album/6sIXTuaE9F2p4PcXVuawjp"
-      },
-      "artists": [
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        }
-      ],
-      "duration_ms": 125080,
-      "name": "En El Coche",
-      "url": "https://open.spotify.com/track/5mcYWxQAAlqGAhEPqVMMR5"
     },
     {
       "added_at": "2022-09-08 18:49:23",
@@ -1703,6 +1703,22 @@
     {
       "added_at": "2022-09-08 18:49:23",
       "album": {
+        "name": "Versos de un Card\u00edaco",
+        "url": "https://open.spotify.com/album/37kW73lswREZ5Bj410ZXTX"
+      },
+      "artists": [
+        {
+          "name": "Chris Lebron",
+          "url": "https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk"
+        }
+      ],
+      "duration_ms": 169536,
+      "name": "Desde Mis Ojos",
+      "url": "https://open.spotify.com/track/55b9ywCCjdMt4p0rrDWZGp"
+    },
+    {
+      "added_at": "2022-09-08 18:49:23",
+      "album": {
         "name": "Apretaito",
         "url": "https://open.spotify.com/album/0aMqp2gRJQjhVZmHkuTtfL"
       },
@@ -1723,38 +1739,6 @@
     {
       "added_at": "2022-09-08 18:49:23",
       "album": {
-        "name": "Versos de un Card\u00edaco",
-        "url": "https://open.spotify.com/album/37kW73lswREZ5Bj410ZXTX"
-      },
-      "artists": [
-        {
-          "name": "Chris Lebron",
-          "url": "https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk"
-        }
-      ],
-      "duration_ms": 169536,
-      "name": "Desde Mis Ojos",
-      "url": "https://open.spotify.com/track/55b9ywCCjdMt4p0rrDWZGp"
-    },
-    {
-      "added_at": "2022-09-08 18:49:23",
-      "album": {
-        "name": "Nieve",
-        "url": "https://open.spotify.com/album/4axBgdQOZogTmpgKNQQr1C"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 140440,
-      "name": "Nieve",
-      "url": "https://open.spotify.com/track/66uR26h9WTxwKhJCWnz5J9"
-    },
-    {
-      "added_at": "2022-09-08 18:49:23",
-      "album": {
         "name": "Tranquila",
         "url": "https://open.spotify.com/album/4VoOmCYmdOgQEK4TidgNtj"
       },
@@ -1771,6 +1755,22 @@
       "duration_ms": 183430,
       "name": "Tranquila",
       "url": "https://open.spotify.com/track/5NMPnWUDvXr8Vnauv7I7YZ"
+    },
+    {
+      "added_at": "2022-09-08 18:49:23",
+      "album": {
+        "name": "Nieve",
+        "url": "https://open.spotify.com/album/4axBgdQOZogTmpgKNQQr1C"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 140440,
+      "name": "Nieve",
+      "url": "https://open.spotify.com/track/66uR26h9WTxwKhJCWnz5J9"
     },
     {
       "added_at": "2022-09-08 18:49:23",

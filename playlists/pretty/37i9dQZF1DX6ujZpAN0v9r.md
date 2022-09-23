@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ujZpAN0v9r.md) - [plain]
 
 > The essential beautiful noise: sweet and sour fuzz to warm your heart\. Cover: my bloody valentine
 
-[Spotify](https://open.spotify.com/user/spotify) - 433,954 likes - 143 songs - 11 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 434,218 likes - 143 songs - 11 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ujZpAN0v9r.md) - [plain]
 | 29 | [Autre temps](https://open.spotify.com/track/50dpeks48j0zMECIKVAGUG) | [Alcest](https://open.spotify.com/artist/0d5ZwMtCer8dQdOPAgWhe7) | [Les voyages de l'âme](https://open.spotify.com/album/1yENAh14y99tcC6No2mXWl) | 5:50 |
 | 30 | [Soon](https://open.spotify.com/track/7ITRNB9OckYIp2SW2iXU8U) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [Loveless](https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6) | 6:58 |
 | 31 | [Black Metallic](https://open.spotify.com/track/0jmyo9QOmFbjDCYpNaPDhy) | [Catherine Wheel](https://open.spotify.com/artist/1QPWAsWIjRcTfvY5uH8dov) | [Ferment](https://open.spotify.com/album/7LLZLkkBTR42Kb9JPRAzKb) | 7:18 |
-| 32 | [Not Too Soon](https://open.spotify.com/track/0gvjs4NDHjwlC8fyWoOTUz) | [Throwing Muses](https://open.spotify.com/artist/5xU5wRTlZHVRoo2OxPvqA4) | [The Real Ramona](https://open.spotify.com/album/4Tvtq50di0OrLLSWAcAubS) | 3:10 |
-| 33 | [What Lies Beneath](https://open.spotify.com/track/6HwfqB8ajWFaHyQGxO0Z9g) | [Life On Venus](https://open.spotify.com/artist/72cBWuYjXkWxEXqZcoH5kE) | [Departure](https://open.spotify.com/album/6PlC1gFl7hLSY6ylKbxwKf) | 3:53 |
+| 32 | [What Lies Beneath](https://open.spotify.com/track/6HwfqB8ajWFaHyQGxO0Z9g) | [Life On Venus](https://open.spotify.com/artist/72cBWuYjXkWxEXqZcoH5kE) | [Departure](https://open.spotify.com/album/6PlC1gFl7hLSY6ylKbxwKf) | 3:53 |
+| 33 | [Not Too Soon](https://open.spotify.com/track/0gvjs4NDHjwlC8fyWoOTUz) | [Throwing Muses](https://open.spotify.com/artist/5xU5wRTlZHVRoo2OxPvqA4) | [The Real Ramona](https://open.spotify.com/album/4Tvtq50di0OrLLSWAcAubS) | 3:10 |
 | 34 | [Time Baby III](https://open.spotify.com/track/5tujK4iuRbqaDQv94ZRH98) | [Medicine](https://open.spotify.com/artist/61uYVpJPgBq9dNrfUy6kTp), [Robin Guthrie](https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC) | [The Crow Original Motion Picture Soundtrack](https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n) | 3:51 |
 | 35 | [Catch The Breeze](https://open.spotify.com/track/4cz5bBa239LZ0Pt5DrJXYK) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Just For A Day](https://open.spotify.com/album/7761KE2C9rH1QO9WAE1Ysb) | 4:19 |
 | 36 | [Pancake](https://open.spotify.com/track/00YCRrySf0dJ6nRCKYSAkA) | [Swirlies](https://open.spotify.com/artist/0Zk7We5BZoDR40himAI86D) | [Blonder Tongue Audio Baton](https://open.spotify.com/album/0bOwhaZsDgLWVIUd4mU7U5) | 3:15 |
@@ -152,4 +152,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ujZpAN0v9r.md) - [plain]
 | 142 | [](https://open.spotify.com/track/2b2S9w60neGvaXD70DDDkT) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/7EeBLXTesaRmxWoQ2sAMVo) | 0:00 |
 | 143 | [We’re Not Done \(End Title\)](https://open.spotify.com/track/1RBGSieBtIBvojx80RwOfZ) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [KIN](https://open.spotify.com/album/20VOMBfnJraeZ0BQ4aPuqd) | 4:14 |
 
-Snapshot ID: `MTY0MTg2OTc1MywwMDAwMDAwMGFmNzc3ZmJhZWQ1MTg0NmI4OTNlNzVlMTMwODhjOWU5`
+Snapshot ID: `MTY0MTg2OTc1MywwMDAwMDAwMGMyY2UwMTkxNTY0YmQ5MTAzYmNmOGM3M2UwM2NmYmU5`

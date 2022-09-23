@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V5eXk4NKqu.md) - [plain]
 
 > Best Latin Indie tracks right now\. Cover: Kevin Kaarl
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,490 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,515 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,13 +44,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V5eXk4NKqu.md) - [plain]
 | 34 | [Pastel](https://open.spotify.com/track/6Xur7MWcS7np7zm3ijJO0w) | [Katzù Oso](https://open.spotify.com/artist/4tSzEOfCj6LXhaf0jtk4XO) | [Pastel](https://open.spotify.com/album/3QTnx5ztLT9Ub46YFKWKh3) | 2:09 |
 | 35 | [Oscuridad](https://open.spotify.com/track/5i9XNqv8ay4PXRBNxfwdfZ) | [Jasper](https://open.spotify.com/artist/5H9fLAWx4MHfn3fHeczaAm) | [Oscuridad](https://open.spotify.com/album/1ArGHztaWAQKgVKivQdAyG) | 3:29 |
 | 36 | [There Must Be a Song Like You](https://open.spotify.com/track/0686tzFJ79mRZPApYYLiMA) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [Far In](https://open.spotify.com/album/6VuufjwylS8CGaUcq3Vs4e) | 4:50 |
-| 37 | [Someone](https://open.spotify.com/track/15M7rUKWxfg4YZwczUhlkb) | [Gabriel Garzón\-Montano](https://open.spotify.com/artist/1R4GxRuSVTPSb6oy56SPST) | [Agüita](https://open.spotify.com/album/51kUBshxb3ZJGICNNwJUcH) | 3:41 |
-| 38 | [Espera \(feat\. Carlos Sadness\)](https://open.spotify.com/track/40q4bzLjO9zqBIZYP442af) | [MOÜGLI](https://open.spotify.com/artist/786qoKu8y9vQHdegoxNJn9), [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq) | [Espera \(feat\. Carlos Sadness\)](https://open.spotify.com/album/0AZHlKXAlrkRx6iPs3s2dX) | 3:52 |
+| 37 | [Espera \(feat\. Carlos Sadness\)](https://open.spotify.com/track/40q4bzLjO9zqBIZYP442af) | [MOÜGLI](https://open.spotify.com/artist/786qoKu8y9vQHdegoxNJn9), [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq) | [Espera \(feat\. Carlos Sadness\)](https://open.spotify.com/album/0AZHlKXAlrkRx6iPs3s2dX) | 3:52 |
+| 38 | [Someone](https://open.spotify.com/track/15M7rUKWxfg4YZwczUhlkb) | [Gabriel Garzón\-Montano](https://open.spotify.com/artist/1R4GxRuSVTPSb6oy56SPST) | [Agüita](https://open.spotify.com/album/51kUBshxb3ZJGICNNwJUcH) | 3:41 |
 | 39 | [Daikiri](https://open.spotify.com/track/4H1FWNakPyBYKkohOm6I8O) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Daikiri](https://open.spotify.com/album/7lHVQTwK5be4j9Lr8L5c5C) | 3:57 |
 | 40 | [Ambar Bossa Nova \- Spotify Singles](https://open.spotify.com/track/3d1SX0Fw0gqVKrdrWCJR12) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Spotify Singles](https://open.spotify.com/album/5MlYmVGHlWSCdKutrQcLAV) | 3:01 |
-| 41 | [Alcohólica Funcional](https://open.spotify.com/track/4lA24fgAOX0nRHUPzI2Fz3) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Alcohólica Funcional](https://open.spotify.com/album/7C4hHq1P0CeazLLqIitR7z) | 2:41 |
-| 42 | [El Invento](https://open.spotify.com/track/7daItyBA4UqHyFItCVgzBn) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [El Invento](https://open.spotify.com/album/1XhI1Bcby2CSogky3EiENa) | 2:33 |
-| 43 | [Ser De Ti](https://open.spotify.com/track/0i9GosFgbI0w0YLM8DLR2u) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Marchita](https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi) | 3:27 |
+| 41 | [Ser De Ti](https://open.spotify.com/track/0i9GosFgbI0w0YLM8DLR2u) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Marchita](https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi) | 3:27 |
+| 42 | [Alcohólica Funcional](https://open.spotify.com/track/4lA24fgAOX0nRHUPzI2Fz3) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Alcohólica Funcional](https://open.spotify.com/album/7C4hHq1P0CeazLLqIitR7z) | 2:41 |
+| 43 | [El Invento](https://open.spotify.com/track/7daItyBA4UqHyFItCVgzBn) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [El Invento](https://open.spotify.com/album/1XhI1Bcby2CSogky3EiENa) | 2:33 |
 | 44 | [Brillo Más Que El Oro \(La Bala Apuntándome\)](https://open.spotify.com/track/7l0kAwlnFbbtUKSeeecr5g) | [Combo Chimbita](https://open.spotify.com/artist/5sgpZfCPK6zd3MEB1Nrhey) | [Ahomale](https://open.spotify.com/album/5T8HiC9DBepOkVyHur3AHe) | 3:56 |
 | 45 | [Ya no estoy aquí](https://open.spotify.com/track/72ERVQD9a4KEnLEssH4mg7) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [Ya no estoy aquí](https://open.spotify.com/album/2L2rLbtvGZDkJdSHCAOdh6) | 3:22 |
 | 46 | [Te Espero Aquí](https://open.spotify.com/track/1xvQsgUbvz53trUe3xaIdm) | [Monogem](https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV) | [Gardenia](https://open.spotify.com/album/2YOhfUkhFT2uNis4xMDPFe) | 4:11 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V5eXk4NKqu.md) - [plain]
 | 67 | [ALL THESE INSTRUMENTS](https://open.spotify.com/track/0KdWKPgZ0pleOpV2xOd8D0) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [WILL THIS MAKE ME GOOD](https://open.spotify.com/album/5wHIOaV0DXf73kL7i5blmM) | 4:09 |
 | 68 | [Te Guardo](https://open.spotify.com/track/7c0Au5lLOgO8HmeCRNHoOb) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Marchita](https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi) | 3:22 |
 | 69 | [IN MY ROOM!](https://open.spotify.com/track/74XGMhW9YScgVpeVJmzKqj) | [Tatiana Hazel](https://open.spotify.com/artist/5NvrRBcK6hRuboOL0CtZXU) | [DUALITY](https://open.spotify.com/album/1mHk73bDEklzG02PtK4lv4) | 3:42 |
-| 70 | [Hear Me Out \- Stripped](https://open.spotify.com/track/0EX3OCeGdjwz2P017sOEIk) | [KORDELYA](https://open.spotify.com/artist/3JmbGjGpi55FRnjvjH9ljV), [jame minogue](https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck) | [Hear Me Out](https://open.spotify.com/album/0NNKUMVScFPOCdXiFIV2Ev) | 2:17 |
-| 71 | [Coachella](https://open.spotify.com/track/2OmMwHDXy86Y9qPvRqiFMA) | [REYNA](https://open.spotify.com/artist/4AHhe1KXVCCoOdHQNjH5Zu) | [Coachella](https://open.spotify.com/album/77e8Fef7cxAiWngOEq8enQ) | 3:20 |
+| 70 | [Coachella](https://open.spotify.com/track/2OmMwHDXy86Y9qPvRqiFMA) | [REYNA](https://open.spotify.com/artist/4AHhe1KXVCCoOdHQNjH5Zu) | [Coachella](https://open.spotify.com/album/77e8Fef7cxAiWngOEq8enQ) | 3:20 |
+| 71 | [Hear Me Out \- Stripped](https://open.spotify.com/track/0EX3OCeGdjwz2P017sOEIk) | [KORDELYA](https://open.spotify.com/artist/3JmbGjGpi55FRnjvjH9ljV), [jame minogue](https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck) | [Hear Me Out](https://open.spotify.com/album/0NNKUMVScFPOCdXiFIV2Ev) | 2:17 |
 | 72 | [Musa introvertida](https://open.spotify.com/track/7mH6ndKQtl7Pk7VaNwBfxt) | [Sofía Paola](https://open.spotify.com/artist/6gC5HmMueMdiRY3rGtkrKx) | [Limbo Habitual, Vol\. I](https://open.spotify.com/album/4Moq6bYqlcEmQ4VFwg4A01) | 3:35 |
 | 73 | [Rey](https://open.spotify.com/track/1D3FF8btq4bHzmDpU04fwH) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H) | [Rey](https://open.spotify.com/album/5jU98FSu18DrwrXBCkGJpN) | 3:51 |
 | 74 | [a lifetime with you](https://open.spotify.com/track/4TpbCnB3xgDYm2uhGLuQwV) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP) | [CARISMA](https://open.spotify.com/album/62TQ8Q7gaq5T4eUzYr3YXQ) | 3:07 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V5eXk4NKqu.md) - [plain]
 | 99 | [Paraíso](https://open.spotify.com/track/7uOv9seTuAbjuGBcgGXHuJ) | [Monogem](https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV) | [Gardenia](https://open.spotify.com/album/2YOhfUkhFT2uNis4xMDPFe) | 3:52 |
 | 100 | [Don't Care](https://open.spotify.com/track/3gAxhEtNqFlCLvN6DDKdth) | [Tatiana Hazel](https://open.spotify.com/artist/5NvrRBcK6hRuboOL0CtZXU) | [DUALITY](https://open.spotify.com/album/1mHk73bDEklzG02PtK4lv4) | 3:16 |
 
-Snapshot ID: `MTY2MjQ4MjI5MSwwMDAwMDAwMDIxYjA4YjUzZTE1ZWE2MzNlZmE1NjkyZjdiY2Q4MjMz`
+Snapshot ID: `MTY2MjQ4MjI5MSwwMDAwMDAwMDhiY2JhYWVhYzFiMDQ0MTBiZjViNWMyOTJiMTdhMmZm`

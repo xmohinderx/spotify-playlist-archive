@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0UetYTdFoTk.md) - [plain]
 
 > To all the 7abieb out there\. Cover: Siilawy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,513 likes - 60 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,573 likes - 60 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0UetYTdFoTk.md) - [plain]
 | 43 | [Aleb Albi](https://open.spotify.com/track/36jmUC55efoLTEheXaNZOp) | [Karim Nour](https://open.spotify.com/artist/5HArEmaE0ebTGJnUpurfIo) | [Aleb Albi](https://open.spotify.com/album/6bmVNmHt840K2iWz3F4UN4) | 3:39 |
 | 44 | [Habibi Wayno](https://open.spotify.com/track/2nZKHO69mzHL9GtNWzAKpy) | [Ziad Bourji](https://open.spotify.com/artist/04N4sGkSTSxjVfbiItLvTj) | [Habibi Wayno](https://open.spotify.com/album/4zx5oNdg8pKaq6NbD3ZYJI) | 4:46 |
 | 45 | [Shee](https://open.spotify.com/track/0oRNK10JeRv431CLgTanNQ) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g) | [Shee](https://open.spotify.com/album/2SZdvrxMgfl0LrhozVW0RX) | 2:36 |
-| 46 | [El Wadaa El Hali](https://open.spotify.com/track/2y3fmNdELZAqBmodgJneVz) | [Salim Assaf](https://open.spotify.com/artist/3D2w7u9CQ0dfJ3xi9Y86Df) | [El Wadaa El Hali](https://open.spotify.com/album/2QOFwnKnOXIeNQcn9AqShc) | 2:20 |
-| 47 | [Malek Ya Tara](https://open.spotify.com/track/0Hlhi6mfGN3qGDg8JBCQgF) | [Mohamed Nour](https://open.spotify.com/artist/50Kx7LQ2dxkhWoMScUXpix) | [Malek Ya Tara](https://open.spotify.com/album/4dF55Jek9f3MG6KfV0fKoB) | 3:15 |
+| 46 | [Malek Ya Tara](https://open.spotify.com/track/0Hlhi6mfGN3qGDg8JBCQgF) | [Mohamed Nour](https://open.spotify.com/artist/50Kx7LQ2dxkhWoMScUXpix) | [Malek Ya Tara](https://open.spotify.com/album/4dF55Jek9f3MG6KfV0fKoB) | 3:15 |
+| 47 | [El Wadaa El Hali](https://open.spotify.com/track/2y3fmNdELZAqBmodgJneVz) | [Salim Assaf](https://open.spotify.com/artist/3D2w7u9CQ0dfJ3xi9Y86Df) | [El Wadaa El Hali](https://open.spotify.com/album/2QOFwnKnOXIeNQcn9AqShc) | 2:20 |
 | 48 | [Wen Wen](https://open.spotify.com/track/3EN1SgNhN2VzewMpYglMKh) | [Saif Nabeel](https://open.spotify.com/artist/2i8aIAYY0wCKbFYWiihztK) | [Wen Wen](https://open.spotify.com/album/1WZvUCn06pvksWG9ZNHata) | 3:15 |
 | 49 | [Badi Yaha](https://open.spotify.com/track/7F0cwrSI8ogovGZY9iBWA8) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [From Nassif Zeytoun with Love](https://open.spotify.com/album/60D9VCdWGbTklahFkQYmDq) | 5:30 |
 | 50 | [ملحم زين ونور الزين \(feat\. Noor Al Zain\)](https://open.spotify.com/track/66pcEVrz1i9un38OpJvGXW) | [Melhem Zein](https://open.spotify.com/artist/3pCdpK2DVRSs77L9RtxFy0), [Nour Al Zain](https://open.spotify.com/artist/3zjyoiXHu5SgwtRHU7GcMH) | [ملحم زين ونور الزين \(feat\. Noor Al Zain\)](https://open.spotify.com/album/2sPvLAdwUWpMFWaiL4Z8Gm) | 2:46 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0UetYTdFoTk.md) - [plain]
 | 56 | [شِمالي](https://open.spotify.com/track/196CcGNeJ0poBVJlIvnPUr) | [Joseph Attieh](https://open.spotify.com/artist/5DPb3SKW8QZFwkRlmt7Gvo) | [الاغاني اللي عملتا الك](https://open.spotify.com/album/3fwpj2fEjO7ZR9CWrOWtPQ) | 3:31 |
 | 57 | [Khodni Eleik](https://open.spotify.com/track/35NvGLU38ElWqhd7NW659s) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Kol Yom Men Dah](https://open.spotify.com/album/5jLCYOiVF1KkRjDJl10r4f) | 3:32 |
 | 58 | [Ma Nesitak](https://open.spotify.com/track/1A32gfZPQjn4CJojB8Q08w) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Ma Nesitak](https://open.spotify.com/album/0dnleJmfjPjiH9iDeCUIwn) | 6:26 |
-| 59 | [و انا معاك](https://open.spotify.com/track/36ekrEyHv96RLDSoQFbBot) | [Mohammed Alsahli](https://open.spotify.com/artist/7c7hybwd6CtpDhi0Imsppx), [زينة عماد](https://open.spotify.com/artist/7DhHYTuGOB46RI0zG0UVXa) | [و انا معاك](https://open.spotify.com/album/5ONxpuGaRJfwR69fSc1bAN) | 3:01 |
+| 59 | [Baddi Hada Hebbou](https://open.spotify.com/track/2RWrtK1GhcCquT83dYyCTs) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [Baddi Hada Hebbou](https://open.spotify.com/album/7lBwCNhfMEM9jvjNJKdgsJ) | 4:14 |
 | 60 | [هي الي](https://open.spotify.com/track/5gsySuD8jP4quf9HHmBpeZ) | [Melhem Zein](https://open.spotify.com/artist/3pCdpK2DVRSs77L9RtxFy0) | [الجرح اللي بعدو](https://open.spotify.com/album/43YudfflH4ShSAe4FFX2OI) | 3:54 |
 
-Snapshot ID: `MTY2MTE1MTU2OCwwMDAwMDAwMDFhYzhhZjQwYTU0ZWE3OTMyYjljOWE5ODUwNDEyMjI2`
+Snapshot ID: `MTY2MzgyNDQ3MCwwMDAwMDAwMGEwNDcwMDc3MGU2YjFiN2JkYTdjZWIwY2U4NWUxNTA3`

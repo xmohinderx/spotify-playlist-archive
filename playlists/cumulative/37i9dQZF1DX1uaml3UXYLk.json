@@ -3215,7 +3215,7 @@
       ],
       "date_added": "2020-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 231531,
       "name": "Glaskupad - Axel E Remix (Radio Edit)",
       "url": "https://open.spotify.com/track/3fUtw6vacMxmpRHay1VztG"
@@ -5464,6 +5464,24 @@
     },
     {
       "album": {
+        "name": "offshore",
+        "url": "https://open.spotify.com/album/6BfvXlKoifT1TKN3HbeTys"
+      },
+      "artists": [
+        {
+          "name": "TECHO",
+          "url": "https://open.spotify.com/artist/7cLuZ2xmHW5Znuu4jXNpPl"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232118,
+      "name": "offshore",
+      "url": "https://open.spotify.com/track/625WCk8lpyxdQgyN8aJu3d"
+    },
+    {
+      "album": {
         "name": "Often Wrong (Tourist Remix)",
         "url": "https://open.spotify.com/album/2GRkzIhTkZtFbAtAtomGVg"
       },
@@ -6059,6 +6077,24 @@
       "duration_ms": 195011,
       "name": "Rainbows",
       "url": "https://open.spotify.com/track/1Y3ELkSuRZmsJE4WYGvN49"
+    },
+    {
+      "album": {
+        "name": "Ray of Light",
+        "url": "https://open.spotify.com/album/40cUksrjQvtzoCmKDMskYE"
+      },
+      "artists": [
+        {
+          "name": "Duckmaw",
+          "url": "https://open.spotify.com/artist/4T1LvLyHdDj300MVNb6VyD"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228130,
+      "name": "Ray of Light",
+      "url": "https://open.spotify.com/track/52qHDEnksl0jZt3OJHDi3i"
     },
     {
       "album": {
@@ -7093,7 +7129,7 @@
       ],
       "date_added": "2021-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 122678,
       "name": "So Solar",
       "url": "https://open.spotify.com/track/1El70dxYc3YFC4QsXkxpbp"
@@ -7249,7 +7285,7 @@
       ],
       "date_added": "2021-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 234250,
       "name": "Southern Sky",
       "url": "https://open.spotify.com/track/7b5JVYNwXrFVB94lBBqeQU"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6DtDmlyZ4X7.md) - [plain]
 
 > Musik som hjälper dig att fokusera vid intensiva studier.
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,570 likes - 366 songs - 15 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,585 likes - 366 songs - 15 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -220,9 +220,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6DtDmlyZ4X7.md) - [plain]
 | 210 | [Der Vogel auf dem Felsen](https://open.spotify.com/track/6qeY26kCmlIzpLZVibJU4M) | [Wolfgang Schulmann](https://open.spotify.com/artist/0AUguA7F9t87WF6krMPXyz) | [Auf dem Felde](https://open.spotify.com/album/0EROhvEiWfGx9i9btcWQQm) | 2:20 |
 | 211 | [I Know Him](https://open.spotify.com/track/4CeTYj1jcn4wVhh7HOHfeM) | [Errol Hayward](https://open.spotify.com/artist/5QqAOx4RRkDlVmHse16kNx) | [I Know Him](https://open.spotify.com/album/54o66y7C616cYs13urOgYx) | 2:37 |
 | 212 | [Laurel Tree \(Whispers\)](https://open.spotify.com/track/2n1LkGURXqH7lP3J7vhcJr) | [Rowen Ellis](https://open.spotify.com/artist/185C3FAs4S58KqV8e8LP3H) | [Laurel Tree \(Whispers\)](https://open.spotify.com/album/2yqjaFL6QWjYqH7vBpbUK0) | 2:47 |
-| 213 | [Promenade](https://open.spotify.com/track/7mRoJ7GqlDNNRfhjoc3Jk9) | [Louis Mercier](https://open.spotify.com/artist/3Pew2vdzxrnyQjjs7wsOa2) | [Promenade](https://open.spotify.com/album/3LW1XhKVlovivBri0LDZwB) | 2:00 |
-| 214 | [Postcards](https://open.spotify.com/track/5LHsps6yM7U1ogxSQpEsxM) | [Barry Hudson\-Taylor](https://open.spotify.com/artist/3MuhX7tuEdOUvsOGg7ui02) | [Postcards](https://open.spotify.com/album/3eEKFsABkKbQ4nlOZzmG0M) | 2:35 |
-| 215 | [Yōsei](https://open.spotify.com/track/5wsqAeIRP9mmZBVRua7ShH) | [Malotte H](https://open.spotify.com/artist/7DRkB3iAI3rpubmBA7qrEt) | [Yōsei](https://open.spotify.com/album/0PK0SJ0irDoDsSvI2WF5zy) | 2:38 |
+| 213 | [Yōsei](https://open.spotify.com/track/5wsqAeIRP9mmZBVRua7ShH) | [Malotte H](https://open.spotify.com/artist/7DRkB3iAI3rpubmBA7qrEt) | [Yōsei](https://open.spotify.com/album/0PK0SJ0irDoDsSvI2WF5zy) | 2:38 |
+| 214 | [Promenade](https://open.spotify.com/track/7mRoJ7GqlDNNRfhjoc3Jk9) | [Louis Mercier](https://open.spotify.com/artist/3Pew2vdzxrnyQjjs7wsOa2) | [Promenade](https://open.spotify.com/album/3LW1XhKVlovivBri0LDZwB) | 2:00 |
+| 215 | [Postcards](https://open.spotify.com/track/5LHsps6yM7U1ogxSQpEsxM) | [Barry Hudson\-Taylor](https://open.spotify.com/artist/3MuhX7tuEdOUvsOGg7ui02) | [Postcards](https://open.spotify.com/album/3eEKFsABkKbQ4nlOZzmG0M) | 2:35 |
 | 216 | [La Cosa Migliore Che So](https://open.spotify.com/track/2ad6KC9V4jvAB73Z5nWrFF) | [Loreto Bianco](https://open.spotify.com/artist/7DH3PpYqclWL9RpXN4B2PC) | [La Cosa Migliore Che So](https://open.spotify.com/album/6Jd4loeXMsmKpbvxFPnfm2) | 3:14 |
 | 217 | [Nomae](https://open.spotify.com/track/3EhHWAEZpRI78OtJEPoabw) | [Lara Di Umbra](https://open.spotify.com/artist/26Js1EtYSgTosRfHYbEpZG) | [Arctica](https://open.spotify.com/album/3BTmQFkuJ96ZlpeRNXerBd) | 3:09 |
 | 218 | [Ripples](https://open.spotify.com/track/3xE0JN7dBupo1lrr6WvZSl) | [Sean Oban](https://open.spotify.com/artist/32LreS7UHEG3COCJzy826n) | [Ripples](https://open.spotify.com/album/67aW2j0JJHUh72ixyNytgg) | 2:12 |
@@ -231,9 +231,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6DtDmlyZ4X7.md) - [plain]
 | 221 | [Naoko](https://open.spotify.com/track/69eVeuJn0NONg1vRdhLmmU) | [Emilija Grey](https://open.spotify.com/artist/3tv3uBF05Jt45Q3ZbXeCSI) | [Naoko](https://open.spotify.com/album/50eCW2CjWfy37vvKaWOoUE) | 2:27 |
 | 222 | [Mon Soleil](https://open.spotify.com/track/66QPTjE4c7QhJf8moxu0UE) | [Soraya Blix](https://open.spotify.com/artist/745G3QJNAiGbS5g8h9MTWQ) | [Mon Soleil](https://open.spotify.com/album/6TjZEUu50N5pKYKNXGGHAe) | 2:23 |
 | 223 | [mondaufgang](https://open.spotify.com/track/6iqbDeuRi4WJ3fYJc9WWGg) | [Albert Puck](https://open.spotify.com/artist/5hjnkdeCMBf3w7lMyHSDQd) | [silhouette](https://open.spotify.com/album/1aVDfgfybCKvosSxwokRlh) | 2:49 |
-| 224 | [The Changing Seasons](https://open.spotify.com/track/7DjBH5a3l59agklZXozXNM) | [Mildred Wolf](https://open.spotify.com/artist/3Pj0inogFqTDKgCC5OVTaz) | [The Changing Seasons](https://open.spotify.com/album/33UnDdqWOok4v5cduSyoC6) | 2:13 |
-| 225 | [The Truth](https://open.spotify.com/track/3NPDTMVP9BwvbOQXoGNkV0) | [Geir Gudmundson](https://open.spotify.com/artist/6Y1fkM0GSMtbOYT8iNjup5) | [Passageways](https://open.spotify.com/album/557439Fi4P9aWE0MZyy5PV) | 3:27 |
-| 226 | [Rana Tranquiliana](https://open.spotify.com/track/5ZSy4yLpajuh1eOjM2Rsdf) | [Gioia Pisano](https://open.spotify.com/artist/5WMvjE5qJNLR5FMPdQfic8) | [Rana Tranquiliana](https://open.spotify.com/album/4FU3mPjMgdpaNVMwofKqow) | 2:59 |
+| 224 | [The Truth](https://open.spotify.com/track/3NPDTMVP9BwvbOQXoGNkV0) | [Geir Gudmundson](https://open.spotify.com/artist/6Y1fkM0GSMtbOYT8iNjup5) | [Passageways](https://open.spotify.com/album/557439Fi4P9aWE0MZyy5PV) | 3:27 |
+| 225 | [Rana Tranquiliana](https://open.spotify.com/track/5ZSy4yLpajuh1eOjM2Rsdf) | [Gioia Pisano](https://open.spotify.com/artist/5WMvjE5qJNLR5FMPdQfic8) | [Rana Tranquiliana](https://open.spotify.com/album/4FU3mPjMgdpaNVMwofKqow) | 2:59 |
+| 226 | [The Changing Seasons](https://open.spotify.com/track/7DjBH5a3l59agklZXozXNM) | [Mildred Wolf](https://open.spotify.com/artist/3Pj0inogFqTDKgCC5OVTaz) | [The Changing Seasons](https://open.spotify.com/album/33UnDdqWOok4v5cduSyoC6) | 2:13 |
 | 227 | [Minuit à Paris](https://open.spotify.com/track/4MEQkYg6D715wDzzm5r5K6) | [Nolan Khan](https://open.spotify.com/artist/6GpEjquDluNZrINNY0cS3H) | [Minuit à Paris](https://open.spotify.com/album/2OxcHeyTYMZ9vFOj2Ktml6) | 2:14 |
 | 228 | [Trei](https://open.spotify.com/track/5bHQg9Zu5BjBcwwtKWL8JK) | [Hiroko Murakami](https://open.spotify.com/artist/2FPMZBH13ARkDrd37sIp13), [Hiroco.M](https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of) | [Trei](https://open.spotify.com/album/4lm7RojcsLs6xVCVmKuH5k) | 2:31 |
 | 229 | [Un mazzolino di rose](https://open.spotify.com/track/0Z9EGceqg3e1PlatNVcb6n) | [Fulvio Neri](https://open.spotify.com/artist/6uYBrTfn9labgPGjkU4OkO) | [Un mazzolino di rose](https://open.spotify.com/album/3sgL5k7GHsCOUNkG5pvt2n) | 3:18 |
@@ -305,10 +305,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6DtDmlyZ4X7.md) - [plain]
 | 295 | [Innocent Pleasure](https://open.spotify.com/track/77mJp2S0dP7PITIBWBN9KE) | [Klaus Steiner](https://open.spotify.com/artist/0QqxPV8XBzOlkgKWoXAhbt) | [Innocent Pleasure](https://open.spotify.com/album/278QhSkHqoR0B0eNATZFd5) | 3:29 |
 | 296 | [Lure](https://open.spotify.com/track/77JZMOwuyKnDpzBAQwwrhh) | [Nil Ciuró](https://open.spotify.com/artist/2mKlC27x5dL4PIOwzwPGWh) | [Lure / Elegiac](https://open.spotify.com/album/435QkFbt0x0yrEJs6j5jtC) | 2:43 |
 | 297 | [Carousel](https://open.spotify.com/track/3hVSL4kM3pVj8YRmBiDcIn) | [Rich Mortimer](https://open.spotify.com/artist/0WMQidVblrSXVtlhpMcQTI) | [Carousel](https://open.spotify.com/album/6qN46VNn1NLcmaWJYk5hKK) | 2:03 |
-| 298 | [Bellevue](https://open.spotify.com/track/40z1F06SK2TWTrozGft2vp) | [Leyland Rogers](https://open.spotify.com/artist/6P5vbqhRX2ZrMmFLQHZ3Mr) | [Bellevue](https://open.spotify.com/album/3PY8KrpMXFaTfy2hhYBXJk) | 2:00 |
-| 299 | [Pursuance](https://open.spotify.com/track/2VV9vBFleaOfvDkKRxUNR6) | [Deirdre Fetter](https://open.spotify.com/artist/1oJLuwoSGBnbUVL0ol9m1b) | [Pursuance](https://open.spotify.com/album/00Evna3lzOgx036aEnY8IU) | 2:24 |
-| 300 | [Roots](https://open.spotify.com/track/4PzCduZiQfY4E4661r2V3u) | [Ali Toygar](https://open.spotify.com/artist/3UWxXb2q9zHnhaSjHcKt7H) | [Roots](https://open.spotify.com/album/5wXRhc0L07nItoMPgEAso3) | 2:47 |
-| 301 | [Refraction](https://open.spotify.com/track/0fb16xi6nGQi15crUCDrw8) | [Allysium](https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin) | [Refraction](https://open.spotify.com/album/1aGIdyXxti7seh4NwA5RNJ) | 2:59 |
+| 298 | [Refraction](https://open.spotify.com/track/0fb16xi6nGQi15crUCDrw8) | [Allysium](https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin) | [Refraction](https://open.spotify.com/album/1aGIdyXxti7seh4NwA5RNJ) | 2:59 |
+| 299 | [Bellevue](https://open.spotify.com/track/40z1F06SK2TWTrozGft2vp) | [Leyland Rogers](https://open.spotify.com/artist/6P5vbqhRX2ZrMmFLQHZ3Mr) | [Bellevue](https://open.spotify.com/album/3PY8KrpMXFaTfy2hhYBXJk) | 2:00 |
+| 300 | [Pursuance](https://open.spotify.com/track/2VV9vBFleaOfvDkKRxUNR6) | [Deirdre Fetter](https://open.spotify.com/artist/1oJLuwoSGBnbUVL0ol9m1b) | [Pursuance](https://open.spotify.com/album/00Evna3lzOgx036aEnY8IU) | 2:24 |
+| 301 | [Roots](https://open.spotify.com/track/4PzCduZiQfY4E4661r2V3u) | [Ali Toygar](https://open.spotify.com/artist/3UWxXb2q9zHnhaSjHcKt7H) | [Roots](https://open.spotify.com/album/5wXRhc0L07nItoMPgEAso3) | 2:47 |
 | 302 | [A New Day](https://open.spotify.com/track/3f3o11I6fICW22aTW3ZK2k) | [Norman Dück](https://open.spotify.com/artist/5v5UYx58FiFAcbWIjZ4kPB) | [A New Day](https://open.spotify.com/album/1OUJJk70WJeyliPi5Hu3q9) | 2:18 |
 | 303 | [For Brea](https://open.spotify.com/track/7AAiL40T07q44EzwZWhsmf) | [JNUARY](https://open.spotify.com/artist/66A9oG2ybGddl9xwDibKak) | [For Brea](https://open.spotify.com/album/3DhaC4gb4cgt8tLlBEEERI) | 1:57 |
 | 304 | [Patchouli](https://open.spotify.com/track/3PpvhHp9USOBQFFQ7pJwsy) | [Barry Hudson\-Taylor](https://open.spotify.com/artist/3MuhX7tuEdOUvsOGg7ui02) | [Patchouli](https://open.spotify.com/album/2IKEDd4NsJtezuTDjBqhDg) | 1:52 |
@@ -375,4 +375,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6DtDmlyZ4X7.md) - [plain]
 | 365 | [Sonder](https://open.spotify.com/track/3piXN9w4wKQGll4ryYpVl5) | [Eugene Goh](https://open.spotify.com/artist/2xWyi5H9hUsrq5V7wZVdNI) | [Sonder](https://open.spotify.com/album/5kJ4JlLmhkJiMnzkMSStON) | 2:55 |
 | 366 | [Vellichor](https://open.spotify.com/track/6wHTJ1Bx98S9qILhLsgeQO) | [Eugene Goh](https://open.spotify.com/artist/2xWyi5H9hUsrq5V7wZVdNI) | [Vellichor](https://open.spotify.com/album/5VbKExVj5IMx2M4ABGZCN7) | 2:37 |
 
-Snapshot ID: `MTY2MzIyNDY0NiwwMDAwMDAwMGRiOTUxZGVlZDdlODc2MTkwNGI3ODMzZmYzZDVmOWNj`
+Snapshot ID: `MTY2MzIyNDY0NiwwMDAwMDAwMDIzZDVmOGNkNDI4ZWFmZWUzZGE2MTMxNmEyM2NlYzdm`

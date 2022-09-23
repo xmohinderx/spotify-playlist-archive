@@ -4,7 +4,7 @@
 
 > Productores latinos underground para bailar con audífonos.
 
-116 songs - 9 hr 22 min - [published](https://open.spotify.com/playlist/17jqKs9HnwrpFMEyVzns1G)
+117 songs - 9 hr 26 min - [published](https://open.spotify.com/playlist/17jqKs9HnwrpFMEyVzns1G)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,9 +32,10 @@
 | [Dancehall, Audubon Ballroom](https://open.spotify.com/track/09LNA3vpPg0Zd3ghzTv5BN) | [Kelman Duran](https://open.spotify.com/artist/6PIl48ctj6HDmqVM2uIikd) | [Night in Tijuana](https://open.spotify.com/album/4vKaGMoRdGVu6u6GJyqHTx) | 2:50 | 2022-08-03 |  |
 | [Death](https://open.spotify.com/track/12CmR3HdSgdTeNqqCArJNd) | [Valesuchi](https://open.spotify.com/artist/20lLQVCg1N2fCUB7fEg46b) | [Tragicomic](https://open.spotify.com/album/7MLoEoQIno3oRHwGj0gJJh) | 4:08 | 2022-05-06 | 2022-08-02 |
 | [Descanse](https://open.spotify.com/track/4OQOtq13NDob5sVbAhRla6) | [DJ Python](https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl) | [Mas Amable](https://open.spotify.com/album/2RLMab2R3icqnFA2dYJKVc) | 4:31 | 2022-05-06 | 2022-09-15 |
+| [Descanse](https://open.spotify.com/track/5sWwuI8g0WyZI3tddeU6WO) | [DJ Python](https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl) | [Mas Amable](https://open.spotify.com/album/2WpHf0NARcxAamPoMSgCvM) | 4:31 | 2022-08-18 |  |
 | [Directions \- Original Mix](https://open.spotify.com/track/6pBTIX73nFOiLrEAfSSRq2) | [Alejandro Paz](https://open.spotify.com/artist/58JUcJgPMahuJHcVQM5CNL), [Local Suicide](https://open.spotify.com/artist/0oRegIGGmJDXVaVfgWuoz0) | [Directions](https://open.spotify.com/album/0k7Pj75e3fgHcwZnQnmyCK) | 5:26 | 2022-05-06 | 2022-07-28 |
 | [Don't Be Afraid \- Nicola Cruz Remix](https://open.spotify.com/track/22teIDFOGKfHJ7fXOJcrgc) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Damian Lazarus](https://open.spotify.com/artist/3EIJ8wiUHbgkRCt5cpRrQv), [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [Don't Be Afraid \(Nicola Cruz Remix\)](https://open.spotify.com/album/0o9SKRZh7Xe9ZPNUC9SOtP) | 4:18 | 2022-05-06 | 2022-07-27 |
-| [Don't Be Afraid \- Nicola Cruz Remix](https://open.spotify.com/track/4YWbJqvzBG8NB08tFSCFMt) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Damian Lazarus](https://open.spotify.com/artist/3EIJ8wiUHbgkRCt5cpRrQv), [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [Don't Be Afraid \(Remixes\)](https://open.spotify.com/album/4YbwJtEcOBlG6WzHKvbG3T) | 4:18 | 2022-05-06 |  |
+| [Don't Be Afraid \- Nicola Cruz Remix](https://open.spotify.com/track/4YWbJqvzBG8NB08tFSCFMt) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Damian Lazarus](https://open.spotify.com/artist/3EIJ8wiUHbgkRCt5cpRrQv), [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [Don't Be Afraid \(Remixes\)](https://open.spotify.com/album/4YbwJtEcOBlG6WzHKvbG3T) | 4:18 | 2022-05-06 | 2022-09-23 |
 | [Drum Dance](https://open.spotify.com/track/0g6KSwu63mYMkdA1IF1BAA) | [Omaar](https://open.spotify.com/artist/6HYCLQ4rq3A3VSXBWIMUsW) | [Drum Temple](https://open.spotify.com/album/5yqrk9yWU3kk8OwfWSgMnc) | 4:17 | 2022-05-06 | 2022-08-04 |
 | [Dry Season](https://open.spotify.com/track/6e9UhLaCCAN7PcfH9JJRHw) | [Lila Tirando a Violeta](https://open.spotify.com/artist/1ZD9xcoRJKY4ldaV4UuAhx), [Lighght](https://open.spotify.com/artist/1N8IFaa9ZdF8QL9kGXIbGT) | [Limerencia](https://open.spotify.com/album/0oTHfAcuMFyHsb8U9P7NYs) | 3:10 | 2022-05-06 | 2022-07-29 |
 | [Dune Dune](https://open.spotify.com/track/4pvAdTqM8fNzMK7QEjovlV) | [Iñigo Vontier](https://open.spotify.com/artist/46102Rmv7OVlBvNRnH3fj2) | [Dune Dune](https://open.spotify.com/album/4O80Saj92IWtbX9mio39oj) | 5:46 | 2022-05-06 |  |

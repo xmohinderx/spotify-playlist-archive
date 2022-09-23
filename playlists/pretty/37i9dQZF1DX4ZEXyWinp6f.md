@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ZEXyWinp6f.md) - [plain]
 
 > Fold time and space through sound to reach imaginary universes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,070 likes - 75 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,202 likes - 75 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,14 +51,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ZEXyWinp6f.md) - [plain]
 | 41 | [Hollow Earth](https://open.spotify.com/track/4e09seMli7tAi2UcXy5lkm) | [Pye Corner Audio](https://open.spotify.com/artist/3ib3ECT421EXd8CNLfNqAL) | [Hollow Earth](https://open.spotify.com/album/7fsM6k4wFansul9lF5QeTG) | 5:11 |
 | 42 | [White Cyclosa](https://open.spotify.com/track/4aoSnKywSeejCyNK9KmHg1) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Tomorrow's Harvest](https://open.spotify.com/album/159ORixBSSemxiualv1Woj) | 3:13 |
 | 43 | [Is This Power](https://open.spotify.com/track/0Q70gojAQn9mTAdY15tWzM) | [The Field](https://open.spotify.com/artist/23MIhFHpoOuhtEHZDrrnCS) | [Looping State Of Mind](https://open.spotify.com/album/6h1LdVhHDirAXwgDFftCL0) | 8:39 |
-| 44 | [Forbidden Planet](https://open.spotify.com/track/6d4VuOTe1geweKH7FuZBJs) | [Twisted Psykie](https://open.spotify.com/artist/7EVJL2cE96Dv31WOI7IkYA) | [Forbidden Planet](https://open.spotify.com/album/6GgEOWDoundyJHT6VnJ9vJ) | 4:09 |
-| 45 | [Milliseconds](https://open.spotify.com/track/6Yj3LX9pxXCIL4fZTAlYkU) | [Lonely Roads](https://open.spotify.com/artist/4nQMRc0j45XcB0g0SioPw5) | [Milliseconds](https://open.spotify.com/album/4LhiM15EyjXVUUvMGPTWN0) | 2:57 |
+| 44 | [Milliseconds](https://open.spotify.com/track/6Yj3LX9pxXCIL4fZTAlYkU) | [Lonely Roads](https://open.spotify.com/artist/4nQMRc0j45XcB0g0SioPw5) | [Milliseconds](https://open.spotify.com/album/4LhiM15EyjXVUUvMGPTWN0) | 2:57 |
+| 45 | [Forbidden Planet](https://open.spotify.com/track/6d4VuOTe1geweKH7FuZBJs) | [Twisted Psykie](https://open.spotify.com/artist/7EVJL2cE96Dv31WOI7IkYA) | [Forbidden Planet](https://open.spotify.com/album/6GgEOWDoundyJHT6VnJ9vJ) | 4:09 |
 | 46 | [CREEK](https://open.spotify.com/track/6UYWctsd0e6g2m9JvXzErv) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Green](https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl) | 4:53 |
 | 47 | [Lost At Sea \- Kelly Moran remix](https://open.spotify.com/track/26XyyAXLjXU4a1TVkwzjd0) | [Malibu](https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B), [Kelly Moran](https://open.spotify.com/artist/1SFqXNEGetmMW6VPZseNqy) | [Lost At Sea \(Kelly Moran remix\)](https://open.spotify.com/album/2y8gds5sFhAgJO7kY4oZpE) | 4:56 |
 | 48 | [Iniziare](https://open.spotify.com/track/4SgUoGv3RlcMF4Vpm0Jp5i) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Iniziare](https://open.spotify.com/album/0slaiqzIOB4yT6UlSPdC8S) | 5:42 |
 | 49 | [Schöne Hände](https://open.spotify.com/track/1WbwlYiiMZGQlrFGirRnHv) | [Cluster](https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Cluster & Eno](https://open.spotify.com/album/0VSmGsL1RtyjE7bdAaSAvy) | 3:05 |
-| 50 | [Brazil](https://open.spotify.com/track/1QMxUV937BtqTNwZCJMZK3) | [Luke Abbott](https://open.spotify.com/artist/3rVAnydRNnaQr24T3reJZg) | [Holkham Drones](https://open.spotify.com/album/2x1yXwFPvn4ssDc5vavFEi) | 4:53 |
-| 51 | [Vision](https://open.spotify.com/track/2zVr2mii2iTDTag39yjf3b) | [Pyramid](https://open.spotify.com/artist/3aSTe6gzR3XChH1wcLfhmD) | [Atmosphere](https://open.spotify.com/album/1Qefhd4hwDiSjtooxAjdhM) | 3:10 |
+| 50 | [Vision](https://open.spotify.com/track/2zVr2mii2iTDTag39yjf3b) | [Pyramid](https://open.spotify.com/artist/3aSTe6gzR3XChH1wcLfhmD) | [Atmosphere](https://open.spotify.com/album/1Qefhd4hwDiSjtooxAjdhM) | 3:10 |
+| 51 | [Brazil](https://open.spotify.com/track/1QMxUV937BtqTNwZCJMZK3) | [Luke Abbott](https://open.spotify.com/artist/3rVAnydRNnaQr24T3reJZg) | [Holkham Drones](https://open.spotify.com/album/2x1yXwFPvn4ssDc5vavFEi) | 4:53 |
 | 52 | [Wind On Water](https://open.spotify.com/track/3PpLfTKoQtN2s2GPmrSrWt) | [Robert Fripp](https://open.spotify.com/artist/5HKpBHDxIDNdtmEAGXGntl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Evening Star](https://open.spotify.com/album/6VeZbitYSYxhDJEm7Wf2k4) | 5:29 |
 | 53 | [Pressure](https://open.spotify.com/track/1m4VTEIOiIMEeidzm9z4Zt) | [58918012](https://open.spotify.com/artist/3SocIm1Z2zkHRvPCibwQus) | [Lost Album](https://open.spotify.com/album/3dQUZig6JH9AP8kj96lpNv) | 9:36 |
 | 54 | [Life Forms](https://open.spotify.com/track/3lmGK3UelDNbXwTCbvVKrN) | [The Future Sound of XYZ](https://open.spotify.com/artist/3gqmTTI15kx2XMhxdfxwyY) | [Life Forms](https://open.spotify.com/album/4MXUqLOKxcTFkHgF7ChgdR) | 2:30 |
@@ -77,11 +77,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ZEXyWinp6f.md) - [plain]
 | 67 | [Polygon Window](https://open.spotify.com/track/74yFgfBjzPASPr3wv79aWe) | [The Dice Man](https://open.spotify.com/artist/67znT4w9oHh5dpk4WAHVCM) | [Artificial Intelligence](https://open.spotify.com/album/34aK04FrYZGC4SMS3WEPIi) | 5:12 |
 | 68 | [Kagen Sound](https://open.spotify.com/track/65CcRPKQEQcT3bGHNfk2v9) | [Luke Abbott](https://open.spotify.com/artist/3rVAnydRNnaQr24T3reJZg) | [Translate](https://open.spotify.com/album/0Sn4h3jqTAWbVvoFHqG2Od) | 3:07 |
 | 69 | [The Girl with the Sun in Her Head](https://open.spotify.com/track/2lbQIq3wQTZvdWnqL2e3Zp) | [Orbital](https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV) | [In Sides](https://open.spotify.com/album/1wXyzUmlgN6G1DXIY0Sh8l) | 10:27 |
-| 70 | [Moderato](https://open.spotify.com/track/5nihxnUMrvUAY7NweeNPbT) | [Astrid Sonne](https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689) | [outside of your lifetime](https://open.spotify.com/album/6byELpoEiFADM1j4Zgv0WJ) | 3:57 |
-| 71 | [Barcarolle](https://open.spotify.com/track/5yTYVsQPA7ujLOANcjdDTW) | [Saloli](https://open.spotify.com/artist/6tZ3TVCfSW7ZuoPovDYKWj) | [The Deep End](https://open.spotify.com/album/3Fwmzb3B5GXy6aUWfFEFXm) | 4:42 |
-| 72 | [The Runaround](https://open.spotify.com/track/7uapTtBbij6ydhnU7BaerU) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c), [Lowell Brams](https://open.spotify.com/artist/1hCuN7zeXgcoLq6Ys1UOe4) | [Aporia](https://open.spotify.com/album/1juVCzBeCE5Nzx0iqXZ8kU) | 3:35 |
+| 70 | [Barcarolle](https://open.spotify.com/track/5yTYVsQPA7ujLOANcjdDTW) | [Saloli](https://open.spotify.com/artist/6tZ3TVCfSW7ZuoPovDYKWj) | [The Deep End](https://open.spotify.com/album/3Fwmzb3B5GXy6aUWfFEFXm) | 4:42 |
+| 71 | [The Runaround](https://open.spotify.com/track/7uapTtBbij6ydhnU7BaerU) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c), [Lowell Brams](https://open.spotify.com/artist/1hCuN7zeXgcoLq6Ys1UOe4) | [Aporia](https://open.spotify.com/album/1juVCzBeCE5Nzx0iqXZ8kU) | 3:35 |
+| 72 | [Moderato](https://open.spotify.com/track/5nihxnUMrvUAY7NweeNPbT) | [Astrid Sonne](https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689) | [outside of your lifetime](https://open.spotify.com/album/6byELpoEiFADM1j4Zgv0WJ) | 3:57 |
 | 73 | [Two Heads in a Frame Looking at Something Beautiful](https://open.spotify.com/track/6D4oXT9CNYfzdCZg8mYUZf) | [J\. Albert](https://open.spotify.com/artist/0tjC8HMcPx5o2ZYsWw5BNK) | [Young American Artist](https://open.spotify.com/album/7uO5lLWW2Nv3G01Yt7lpGP) | 3:52 |
 | 74 | [Mono No Aware 1.1](https://open.spotify.com/track/6iGNMNHHbsdSh0f14q3jcS) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB), [Lawrence English](https://open.spotify.com/artist/0V1EXFlRy3LeOKB07YJucI) | [Selva Oscura](https://open.spotify.com/album/1BbS1N3W9MnpKuiAn26tSo) | 5:39 |
 | 75 | [Butoh baby](https://open.spotify.com/track/3L7HGdt8alejIzzVKWsk3j) | [Oliver Coates](https://open.spotify.com/artist/2jToqK8MU3rtt0DYrgCIXM) | [skins n slime](https://open.spotify.com/album/6ZdXLyJH5kdDayoZL4peVQ) | 3:16 |
 
-Snapshot ID: `MTY2MzczMDIyNSwwMDAwMDAwMDVlZTkzN2JlZmQ2NTk0ZDM5OWYwY2FhZmM1NTBhODE5`
+Snapshot ID: `MTY2MzczMDIyNSwwMDAwMDAwMGYyMjJhYmEwYTRjZmIzOTc1MTRkODhiNDRkZTZiMmZj`

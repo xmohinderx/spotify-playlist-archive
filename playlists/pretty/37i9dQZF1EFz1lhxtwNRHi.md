@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz1lhxtwNRHi.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0wm02dqR3fjZoHxxNzB85l">Teddy Geiger</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,276 likes - 141 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,277 likes - 141 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz1lhxtwNRHi.md) - [plain]
 | 73 | [Off the Market](https://open.spotify.com/track/6rXTBv6P0LQzLrEOM8WyUA) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [Beach House](https://open.spotify.com/album/5shnElSTugZ2ITzWUmDS5L) | 2:44 |
 | 74 | [First Time](https://open.spotify.com/track/3t7axcC6EVWSRoyYYYkKUJ) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Emergency EP](https://open.spotify.com/album/1hZkAUxHrsteOYTCnrdD6J) | 3:11 |
 | 75 | [Overloved](https://open.spotify.com/track/0w6qh5d8G5PoJatb7HoDrs) | [Greyson Chance](https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX) | [Overloved](https://open.spotify.com/album/38rPxIOqhYF5LI4J8janwV) | 3:03 |
-| 76 | [Life Goes On](https://open.spotify.com/track/20iykucq4850X9MMIm7PBY) | [teddy<3](https://open.spotify.com/artist/62FaS5AarFCrus8LxSVKKW), [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC) | [LillyAnna](https://open.spotify.com/album/2tsAo6YXbFha5LKr8PuIgt) | 3:38 |
-| 77 | [Scream Drive Faster \- Teddy Geiger Remix](https://open.spotify.com/track/0mNDAxTlYYwftUS5FScuAD) | [LAUREL](https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1), [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC) | [Scream Drive Faster \(Teddy Geiger Remix\)](https://open.spotify.com/album/1PMPBHKgdMQQ5AvxsjBk82) | 4:10 |
+| 76 | [Scream Drive Faster \- Teddy Geiger Remix](https://open.spotify.com/track/0mNDAxTlYYwftUS5FScuAD) | [LAUREL](https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1), [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC) | [Scream Drive Faster \(Teddy Geiger Remix\)](https://open.spotify.com/album/1PMPBHKgdMQQ5AvxsjBk82) | 4:10 |
+| 77 | [Life Goes On](https://open.spotify.com/track/20iykucq4850X9MMIm7PBY) | [teddy<3](https://open.spotify.com/artist/62FaS5AarFCrus8LxSVKKW), [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC) | [LillyAnna](https://open.spotify.com/album/2tsAo6YXbFha5LKr8PuIgt) | 3:38 |
 | 78 | [Body and Soul](https://open.spotify.com/track/26QbQ0G1GcGnna7MaYbDuM) | [teddy<3](https://open.spotify.com/artist/62FaS5AarFCrus8LxSVKKW) | [LillyAnna](https://open.spotify.com/album/2tsAo6YXbFha5LKr8PuIgt) | 2:30 |
 | 79 | [Numb \- teddy<3 version](https://open.spotify.com/track/4FSX3VAbyFPLA5UE3z0K0E) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv), [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC) | [Numb](https://open.spotify.com/album/1Ho3UkeW5DfE812uhE6Q9Q) | 4:31 |
 | 80 | [Under the Blue](https://open.spotify.com/track/5XNiGICOo8gIjqhiauFYjM) | [teddy<3](https://open.spotify.com/artist/62FaS5AarFCrus8LxSVKKW), [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC) | [LillyAnna](https://open.spotify.com/album/2tsAo6YXbFha5LKr8PuIgt) | 3:28 |
@@ -131,8 +131,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz1lhxtwNRHi.md) - [plain]
 | 121 | [Hey Mister](https://open.spotify.com/track/6yq7yTOP4GaN5Edu60395a) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO](https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ) | 3:05 |
 | 122 | [Ain't Shit](https://open.spotify.com/track/0SyBU2ZH5mBYDYfcay5oPQ) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [SKYLOFT](https://open.spotify.com/album/0dvuqLEnlfiHV491p4wtWf) | 2:56 |
 | 123 | [Atoms](https://open.spotify.com/track/4pwcV7gAfkM7F6Yu1YBLvJ) | [Julianna Joy](https://open.spotify.com/artist/0USR2QFOObXNb4xQxDeLjs) | [Garden of Eden](https://open.spotify.com/album/5qXrV4ZkxKeHtXhfApE7ge) | 3:48 |
-| 124 | [Slash My Tire](https://open.spotify.com/track/6T1ecdzhoLQUe9gdAiCerw) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [SKYLOFT](https://open.spotify.com/album/0dvuqLEnlfiHV491p4wtWf) | 3:24 |
-| 125 | [California](https://open.spotify.com/track/5zJ7etJ3xJnS4ccMRUIOCH) | [Julianna Joy](https://open.spotify.com/artist/0USR2QFOObXNb4xQxDeLjs) | [Garden of Eden](https://open.spotify.com/album/5qXrV4ZkxKeHtXhfApE7ge) | 4:40 |
+| 124 | [California](https://open.spotify.com/track/5zJ7etJ3xJnS4ccMRUIOCH) | [Julianna Joy](https://open.spotify.com/artist/0USR2QFOObXNb4xQxDeLjs) | [Garden of Eden](https://open.spotify.com/album/5qXrV4ZkxKeHtXhfApE7ge) | 4:40 |
+| 125 | [Slash My Tire](https://open.spotify.com/track/6T1ecdzhoLQUe9gdAiCerw) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [SKYLOFT](https://open.spotify.com/album/0dvuqLEnlfiHV491p4wtWf) | 3:24 |
 | 126 | [Modern](https://open.spotify.com/track/3bC6bHyz5nRWqGZwWlrrNc) | [Julianna Joy](https://open.spotify.com/artist/0USR2QFOObXNb4xQxDeLjs) | [Garden of Eden](https://open.spotify.com/album/5qXrV4ZkxKeHtXhfApE7ge) | 4:19 |
 | 127 | [Shots with Mariah](https://open.spotify.com/track/2epbEmDaCITnKflZGluswL) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [SKYLOFT](https://open.spotify.com/album/0dvuqLEnlfiHV491p4wtWf) | 2:20 |
 | 128 | [My Whole Life](https://open.spotify.com/track/3oo8W1b5umFaPXQELkhe3I) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO](https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ) | 2:14 |
@@ -150,4 +150,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz1lhxtwNRHi.md) - [plain]
 | 140 | [Ya Zi Me](https://open.spotify.com/track/7rMntdl7eVtbF3S0GU8izm) | [Laza Morgan](https://open.spotify.com/artist/0sDZqRLIBL1Gr5gikfV1xz) | [One By One](https://open.spotify.com/album/22FhDa9P2HzbTXutBpmrHl) | 3:34 |
 | 141 | [Leona Interlude](https://open.spotify.com/track/7kkADY5XzhAFMfOnfc7Z4K) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO](https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ) | 0:27 |
 
-Snapshot ID: `Mjc3Mjg3NjksMDAwMDAwMDA2MTFjMTY0NmU2MTljY2I0ZDE1Y2M2NjhjMmQ3ODIyNQ==`
+Snapshot ID: `Mjc3MzE2NDksMDAwMDAwMDAxMDEzMjY1NDk1MTVkZTg5MzdiYWVhYTA1YTI1MzJjNg==`

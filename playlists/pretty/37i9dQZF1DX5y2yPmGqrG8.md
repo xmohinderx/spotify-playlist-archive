@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y2yPmGqrG8.md) - [plain]
 
 > Immerse in an imaginary panorama of atmospheric soundscapes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,995 likes - 50 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,058 likes - 50 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y2yPmGqrG8.md) - [plain]
 | 36 | [Lemon Day](https://open.spotify.com/track/4G0m7oplySbleIlWeLu3vH) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Lemon Day](https://open.spotify.com/album/5kU780ntZsCfCMhEn1DLQE) | 18:31 |
 | 37 | [Night Owl](https://open.spotify.com/track/3i0IiglJ0nzjxlpU3s7wXr) | [Cihangir Aslan](https://open.spotify.com/artist/30J2BZr9IIoch7Sj47xtpD), [Dilan Balkay](https://open.spotify.com/artist/0EmioUrT5ZIveHOQnDcTGM) | [Night Owl](https://open.spotify.com/album/0eJCk5W0VKQ4qIuoAhn5ns) | 6:16 |
 | 38 | [Waende](https://open.spotify.com/track/0jIymbEdH6q5ZgFVwGJehs) | [Ceeys](https://open.spotify.com/artist/6K8BBZapSLE6XGXF4htbIT) | [Waende](https://open.spotify.com/album/3w9bvWO480nCjEQuxzwrkc) | 3:52 |
-| 39 | [Angel's Flight](https://open.spotify.com/track/3W3xcAOWb0TkMqqI7Rd5xg) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Angel's Flight](https://open.spotify.com/album/33d7YxK49GlKrzATMvdhyR) | 5:52 |
-| 40 | [After Midnight](https://open.spotify.com/track/0L2Q17joitlk1BxqKbbUyM) | [Skinshape](https://open.spotify.com/artist/1itM5tXaK5THggpXA7ovAe) | [Filoxiny](https://open.spotify.com/album/5F3jI2TClJuyIAUcbgf4Ps) | 4:43 |
-| 41 | [Wurlitzer](https://open.spotify.com/track/4OjcEWInukLib0TUfETqfx) | [Leifur James](https://open.spotify.com/artist/2N1foZRamgP1sfiYXFID9O) | [Wurlitzer](https://open.spotify.com/album/0mfitPoE1oWjDfmX48fOl3) | 4:17 |
+| 39 | [Wurlitzer](https://open.spotify.com/track/4OjcEWInukLib0TUfETqfx) | [Leifur James](https://open.spotify.com/artist/2N1foZRamgP1sfiYXFID9O) | [Wurlitzer](https://open.spotify.com/album/0mfitPoE1oWjDfmX48fOl3) | 4:17 |
+| 40 | [Angel's Flight](https://open.spotify.com/track/3W3xcAOWb0TkMqqI7Rd5xg) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Angel's Flight](https://open.spotify.com/album/33d7YxK49GlKrzATMvdhyR) | 5:52 |
+| 41 | [After Midnight](https://open.spotify.com/track/0L2Q17joitlk1BxqKbbUyM) | [Skinshape](https://open.spotify.com/artist/1itM5tXaK5THggpXA7ovAe) | [Filoxiny](https://open.spotify.com/album/5F3jI2TClJuyIAUcbgf4Ps) | 4:43 |
 | 42 | [Coconut Mango](https://open.spotify.com/track/6VRgvci0hYokJguaBzGZmj) | [Arrangement](https://open.spotify.com/artist/6RxI3tCP0Olcb9dMar7e9e) | [Coconut Mango](https://open.spotify.com/album/5paYeeVQtrLKO68IaCCtwj) | 5:25 |
 | 43 | [Virtual U](https://open.spotify.com/track/39nTI9fKd7tB0AUuQObLf1) | [oso leone](https://open.spotify.com/artist/0iViECTHd21gYy1zIEvusi) | [Gallery Love](https://open.spotify.com/album/449aXZhYMnuXRL877ZFF64) | 5:02 |
-| 44 | [Broken Hearted Kota](https://open.spotify.com/track/2nP8BQtLMXpaUWjUGWAwhy) | [Joseph Shabason](https://open.spotify.com/artist/7xoTSPGUr9u8FWR4G8AWoS) | [Broken Hearted Kota](https://open.spotify.com/album/1Wmrt4ojrx2y7NRHVvuoMv) | 5:11 |
+| 44 | [E70 No\. 01](https://open.spotify.com/track/01iglyLhCYZYlCqAxY8Vfz) | [Scott Gilmore](https://open.spotify.com/artist/4VC1j6E8YdBgmSGCWYWtVN) | [Subtle Vertigo](https://open.spotify.com/album/5Q0m6tA2OUCmhhTYAwZimH) | 2:42 |
 | 45 | [No Step on Wing](https://open.spotify.com/track/2DmIDwMhMA3V0KipI78nM1) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Empty](https://open.spotify.com/album/5XD78Fc6jfSfFYgwynseoI) | 4:46 |
-| 46 | [E70 No\. 01](https://open.spotify.com/track/01iglyLhCYZYlCqAxY8Vfz) | [Scott Gilmore](https://open.spotify.com/artist/4VC1j6E8YdBgmSGCWYWtVN) | [Subtle Vertigo](https://open.spotify.com/album/5Q0m6tA2OUCmhhTYAwZimH) | 2:42 |
+| 46 | [Broken Hearted Kota](https://open.spotify.com/track/2nP8BQtLMXpaUWjUGWAwhy) | [Joseph Shabason](https://open.spotify.com/artist/7xoTSPGUr9u8FWR4G8AWoS) | [Broken Hearted Kota](https://open.spotify.com/album/1Wmrt4ojrx2y7NRHVvuoMv) | 5:11 |
 | 47 | [The Rhythm Of A Dividing Pair](https://open.spotify.com/track/3c8mNUeqbasEt6BvzYtxNb) | [A Winged Victory for the Sullen](https://open.spotify.com/artist/13CMfEeq8AC6ryGOPODqE1), [Adam Bryanbaum Wiltzie](https://open.spotify.com/artist/3pv7Yo0bBHl6jyOXU1NnWf), [Dustin O'Halloran](https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq) | [The Undivided Five](https://open.spotify.com/album/3AuhGsh99iTqA57kn3rzvl) | 4:52 |
 | 48 | [Impossible Island](https://open.spotify.com/track/312f1c2NbtQKam65h7Mq39) | [Gaussian Curve](https://open.spotify.com/artist/2rxgmguaQSynTMnBKZL73G) | [Clouds](https://open.spotify.com/album/4FC9qI04vobItNEKVeRh8Q) | 7:28 |
 | 49 | [Atoms Song](https://open.spotify.com/track/5GkmYAsDo9mWAEBrxfQo5j) | [Teebs](https://open.spotify.com/artist/2L2unNFaPbDxjg3NqzpqhJ), [Thomas Stankiewicz](https://open.spotify.com/artist/6z4bXm4x6pBHdbxdj6gL7G) | [Anicca](https://open.spotify.com/album/19tj2J1Czpvnd1nNyPBGDU) | 7:40 |
 | 50 | [A Ghost At Noon](https://open.spotify.com/track/5o4IyOYeFXEQ8NZuKuPHOQ) | [Sam Prekop](https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk), [John McEntire](https://open.spotify.com/artist/39xjP2biuKg7i0U6DwoRHg) | [Sons Of](https://open.spotify.com/album/5Zb3em703R0GO9k6LXh33a) | 7:51 |
 
-Snapshot ID: `MTY2MzcyNzUxMywwMDAwMDAwMDdiYTA2ZDJkNTBlMmQwZWNmZjRjMzRlNmYyZjMzZWZi`
+Snapshot ID: `MTY2MzcyNzUxMywwMDAwMDAwMDgzZDRjYzZmMmNhNDgyMzBjMjM5OWYxOTMyZDk3MzZi`

@@ -296,6 +296,28 @@
     },
     {
       "album": {
+        "name": "Arcadia",
+        "url": "https://open.spotify.com/album/4n6GZA8loDKXCsE3cKGvv3"
+      },
+      "artists": [
+        {
+          "name": "LESKY",
+          "url": "https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6"
+        },
+        {
+          "name": "Beyond Moments",
+          "url": "https://open.spotify.com/artist/2Kdx7FakZqck2kep2MyTW4"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154029,
+      "name": "Arcadia",
+      "url": "https://open.spotify.com/track/51XDt7V30rnHBT7RCSSqrS"
+    },
+    {
+      "album": {
         "name": "Lillipad Orange",
         "url": "https://open.spotify.com/album/1peAwvbSOe0oC5PUEsbGmS"
       },
@@ -451,7 +473,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 128000,
       "name": "BEACH WAVES",
       "url": "https://open.spotify.com/track/5kh6cDKfut5E1J8mP8dX0Y"
@@ -653,7 +675,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 132497,
       "name": "Blue Sunset",
       "url": "https://open.spotify.com/track/1RNvIrwGqibZOadgBN0Jc8"
@@ -2156,6 +2178,24 @@
     },
     {
       "album": {
+        "name": "Glassy Haze",
+        "url": "https://open.spotify.com/album/0lUWXiHBeZ9aW7TjY81pWf"
+      },
+      "artists": [
+        {
+          "name": "Kubicova",
+          "url": "https://open.spotify.com/artist/4ml57BmL2HqNklJZjCbqYr"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153652,
+      "name": "Glassy Haze",
+      "url": "https://open.spotify.com/track/4FILjWLfV7XwMXzIoJ5XH6"
+    },
+    {
+      "album": {
         "name": "Inhale",
         "url": "https://open.spotify.com/album/1VfXd4FP4FYHe5OMHTqGSH"
       },
@@ -2563,7 +2603,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 192000,
       "name": "i tried",
       "url": "https://open.spotify.com/track/6W7hFzh8GNeSTljK7qzCsT"
@@ -2657,6 +2697,24 @@
       "duration_ms": 119812,
       "name": "Infinite",
       "url": "https://open.spotify.com/track/7BlFnkY76uwDT9fvoeWEFZ"
+    },
+    {
+      "album": {
+        "name": "Inner Circle",
+        "url": "https://open.spotify.com/album/6Oa5m0iCnUyBGue9WmeBcA"
+      },
+      "artists": [
+        {
+          "name": "Nitta' Gritta'",
+          "url": "https://open.spotify.com/artist/55psXqpj00WvVubriLCEet"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146670,
+      "name": "Inner Circle",
+      "url": "https://open.spotify.com/track/2PHONNW4Knw22LQ9o3EvIo"
     },
     {
       "album": {
@@ -3976,6 +4034,24 @@
     },
     {
       "album": {
+        "name": "New Route",
+        "url": "https://open.spotify.com/album/3RJnGF4jUjWvg6icuIBqYc"
+      },
+      "artists": [
+        {
+          "name": "Triangle Spirits",
+          "url": "https://open.spotify.com/artist/2JoSNJu22yWingeosZDvxs"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158490,
+      "name": "New Route",
+      "url": "https://open.spotify.com/track/1SeBElvpfLPZ2KLx20Cwzv"
+    },
+    {
+      "album": {
         "name": "Next To Me",
         "url": "https://open.spotify.com/album/5a9biqCDEv550j450SqCVK"
       },
@@ -4059,7 +4135,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 157285,
       "name": "Nuages",
       "url": "https://open.spotify.com/track/5zABvoRurfZ456yMRvqjZ7"
@@ -4409,6 +4485,24 @@
       "duration_ms": 178500,
       "name": "Pina Colada",
       "url": "https://open.spotify.com/track/5kdAsrSLFycGMkziF7vgNT"
+    },
+    {
+      "album": {
+        "name": "Plucky",
+        "url": "https://open.spotify.com/album/7KcyMO4tOtEHauTkHcQzLx"
+      },
+      "artists": [
+        {
+          "name": "Gaudeix",
+          "url": "https://open.spotify.com/artist/1TIyHgc4lFrfKNUlLLAB7z"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147200,
+      "name": "Plucky",
+      "url": "https://open.spotify.com/track/1H0IqXyiFc8OGAjyIfaFr9"
     },
     {
       "album": {
@@ -4931,6 +5025,24 @@
       "duration_ms": 184751,
       "name": "Rosenwinkle",
       "url": "https://open.spotify.com/track/2rO7QbPdO9mNOA75fg9CNy"
+    },
+    {
+      "album": {
+        "name": "Roses",
+        "url": "https://open.spotify.com/album/2FLvGi2XNnLe3qLiFF5SQi"
+      },
+      "artists": [
+        {
+          "name": "Paul Rietz",
+          "url": "https://open.spotify.com/artist/0xvfumiS0sx0xXJshA2uwW"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207785,
+      "name": "Roses",
+      "url": "https://open.spotify.com/track/0f7cYpEP7f7uwsNbaxcDHV"
     },
     {
       "album": {

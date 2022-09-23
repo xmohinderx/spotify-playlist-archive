@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RR19vHNnb8.md) - [plain]
 
 > Hip hop tracks to kick your workout up a notch
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,020 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,032 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RR19vHNnb8.md) - [plain]
 | 46 | [Last One Left \(feat\. Roddy Ricch\)](https://open.spotify.com/track/6hUoVMWls2K9oYSNBFlYU6) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Two\-Face Bang 2](https://open.spotify.com/album/0CPeOS6Ykin4EelpJAZslh) | 3:15 |
 | 47 | [Holy F4k](https://open.spotify.com/track/7eWoPZVIC0RzgFghNDrLbQ) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG), [Ivorian Doll](https://open.spotify.com/artist/5zWJtrglcTFohMajO2qrgd), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [Connecting the Dots](https://open.spotify.com/album/1q6SQV8J22Is1SsgKAh4eJ) | 3:15 |
 | 48 | [Unload](https://open.spotify.com/track/0be1HYcKx12wNtKMV8u9RE) | [WSTRN](https://open.spotify.com/artist/5nSAh3wlH7VaqpnkiMjzDs), [BackRoad Gee](https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL) | [Unload](https://open.spotify.com/album/7iY32OXu7HCehUpG7lC7jP) | 3:50 |
-| 49 | [Assignment](https://open.spotify.com/track/1Crv7EI1sdcy07OlvvoA2Y) | [KiddBlack](https://open.spotify.com/artist/3vQvbO6Fd24F5StyZp1UMH), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [DJ FortuneDJ](https://open.spotify.com/artist/3H1ujqsrtJXeYDoJ2Ar9I9) | [Assignment](https://open.spotify.com/album/2CnjO9KA45Cu5OTtshEr0D) | 2:17 |
-| 50 | [SKI](https://open.spotify.com/track/1vE1nV0Q3t9gcw6ZlZ0yJT) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [SKI](https://open.spotify.com/album/24rTvY9feCnZe0SLsLdzbF) | 2:34 |
+| 49 | [SKI](https://open.spotify.com/track/1vE1nV0Q3t9gcw6ZlZ0yJT) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [SKI](https://open.spotify.com/album/24rTvY9feCnZe0SLsLdzbF) | 2:34 |
+| 50 | [Assignment](https://open.spotify.com/track/1Crv7EI1sdcy07OlvvoA2Y) | [KiddBlack](https://open.spotify.com/artist/3vQvbO6Fd24F5StyZp1UMH), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [DJ FortuneDJ](https://open.spotify.com/artist/3H1ujqsrtJXeYDoJ2Ar9I9) | [Assignment](https://open.spotify.com/album/2CnjO9KA45Cu5OTtshEr0D) | 2:17 |
 
-Snapshot ID: `MTY2MjcxNTE3MiwwMDAwMDAwMGFmMzkzOTBjODdjMjYxZGJjODFhZTIwZjhlNTE3YzY2`
+Snapshot ID: `MTY2MjcxNTE3MiwwMDAwMDAwMGM5NmM2Y2M5NTQ4NWU2YTFhMDUwMDMyZTllNTliZjY4`

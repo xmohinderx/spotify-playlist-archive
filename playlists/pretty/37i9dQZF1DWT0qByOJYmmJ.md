@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0qByOJYmmJ.md) - [plain]
 
 > Tristeza independiente para aquellos días de bajón.
 
-[Spotify](https://open.spotify.com/user/spotify) - 550,406 likes - 80 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 550,744 likes - 80 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0qByOJYmmJ.md) - [plain]
 | 50 | [Fuentes de Ortíz \(Live session\)](https://open.spotify.com/track/3nTeLDqZebdpIdB9uRJJk1) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Fuentes de Ortíz \(Live session\)](https://open.spotify.com/album/3hckHlpN6ERKTcGMFrV9ui) | 2:59 |
 | 51 | [Catorce](https://open.spotify.com/track/1s3WD4gbNoEXHiuSTmAKaK) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq) | [Catorce](https://open.spotify.com/album/0DxFyFTHGHtQSuKXFhvOeN) | 3:44 |
 | 52 | [Vino Tinto](https://open.spotify.com/track/5ONAA8z6SvFBniu8zXz1Ax) | [El David](https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b) | [Sin Final Feliz](https://open.spotify.com/album/2AoNm9wXhQQPQrbS963xJH) | 2:51 |
-| 53 | [Amar](https://open.spotify.com/track/55lkRONUdhDT87IbTuJKXN) | [Donovan Morales](https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax) | [Amar](https://open.spotify.com/album/2WLYPoynzvRPOPBtdXaPrj) | 2:59 |
-| 54 | [Solo](https://open.spotify.com/track/3baHPHIKvDuugzoowvdJBo) | [Sous\-Sol](https://open.spotify.com/artist/6npvMAuRzmnkSxIlxwdG0T) | [Solo](https://open.spotify.com/album/7yjeHjZ43TiOl65KvSEwnL) | 2:30 |
+| 53 | [Solo](https://open.spotify.com/track/3baHPHIKvDuugzoowvdJBo) | [Sous\-Sol](https://open.spotify.com/artist/6npvMAuRzmnkSxIlxwdG0T) | [Solo](https://open.spotify.com/album/7yjeHjZ43TiOl65KvSEwnL) | 2:30 |
+| 54 | [Amar](https://open.spotify.com/track/55lkRONUdhDT87IbTuJKXN) | [Donovan Morales](https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax) | [Amar](https://open.spotify.com/album/2WLYPoynzvRPOPBtdXaPrj) | 2:59 |
 | 55 | [Hoy No](https://open.spotify.com/track/0jGBvWB2j1LfUUTm6oxXKs) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Hoy No](https://open.spotify.com/album/277bMalOjznL9f3X8wtv2A) | 4:02 |
 | 56 | [Al Norte](https://open.spotify.com/track/2dxeshKXUCGzydZQziuN3B) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Primeras Canciones](https://open.spotify.com/album/2MTdMQ9S3ro39aKgQMmms3) | 3:19 |
 | 57 | [Anhelos](https://open.spotify.com/track/7D8Frp6Le27sExAi0mBjys) | [Dawn Avenue](https://open.spotify.com/artist/3ZCvfZxGmkariKQgNYRD4P) | [Anhelos](https://open.spotify.com/album/54JTCEWN3EsbuViyF6i8oy) | 3:42 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0qByOJYmmJ.md) - [plain]
 | 79 | [Roto](https://open.spotify.com/track/5muxDDRz7Y1m9leVgwTUrD) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Roto](https://open.spotify.com/album/5763P0o9ruO8OZ4Dwey7sf) | 2:45 |
 | 80 | [Tqm](https://open.spotify.com/track/1vLoNyIDBKikOd8jNMAEOs) | [CoolestAndie](https://open.spotify.com/artist/2TBvQNXLncWIE3ZcuRHSUr) | [Tqm](https://open.spotify.com/album/46iWmNM0KiEGVCR1crEO6Q) | 3:36 |
 
-Snapshot ID: `MTY2Mjc2NjkzOCwwMDAwMDAwMGRiYWYyY2E5MGFmMjcwNzM5YzQxMDY4NGQ1ODY0Yjg0`
+Snapshot ID: `MTY2Mjc2NjkzOCwwMDAwMDAwMDA3NDY3OGE0ZDliYTdhNTYyMjg1ZWNkZTEyOWY1NmNk`

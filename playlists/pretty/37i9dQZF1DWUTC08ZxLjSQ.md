@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain]
 
 > The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: Abri, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 375 likes - 52 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 480 likes - 52 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Higher \(Breathe Easy\)](https://open.spotify.com/track/3yilsAnbDMSTMRA5AR1Eg3) | [ABRI](https://open.spotify.com/artist/0HaOYwL5NsXcaTGebbW06I) | [Higher \(Breathe Easy\)](https://open.spotify.com/album/7b5DtLjl7shhLIkkq3Q1UN) | 3:26 |
-| 2 | [El Donia Beta3ti](https://open.spotify.com/track/0D7avy8sOXIcY4ZDWuHO7R) | [Lella Fadda](https://open.spotify.com/artist/2yV4zQzvNPMyHncf60u9sr), [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU) | [El Donia Beta3ti](https://open.spotify.com/album/1DZgnVuOlcIiXskI9HkYMe) | 2:50 |
-| 3 | [Hope](https://open.spotify.com/track/6RJ5fDIAfT6edvjVgp3Wbh) | [Malket](https://open.spotify.com/artist/4SniWApo3km8jt2PVMnyEK), [MMT](https://open.spotify.com/artist/03KOcUfBqKsh9spQfwyoF4) | [Hope](https://open.spotify.com/album/3kEjGrGuSJUWjcE8tvm4rK) | 3:52 |
-| 4 | [All On You](https://open.spotify.com/track/76CER1W49x9F01Z7ZwJ6Oa) | [Nawal](https://open.spotify.com/artist/4I7cv8uAvHYwNrMgHer9bV) | [All On You](https://open.spotify.com/album/4x1NJpdoUhSKs1yXag2zXy) | 3:07 |
-| 5 | [Lina](https://open.spotify.com/track/2ig3Y0b35whG1FrAVG27tv) | [Yvzid](https://open.spotify.com/artist/1hiAzHtDperYB5FhcWzJsW) | [Lina](https://open.spotify.com/album/11CqECgUKAF3kZCsAPTMmo) | 2:15 |
-| 6 | [Strange Goodbyes](https://open.spotify.com/track/6KwdMYj4nfbixzgSVM0uFB) | [Anou](https://open.spotify.com/artist/0aQne1tbiKJM4qGKWW8Ykc) | [Strange Goodbyes](https://open.spotify.com/album/7LgTA1VhcRQ0xP6jvM5bAq) | 4:32 |
-| 7 | [Summer Falls](https://open.spotify.com/track/3t7Y0G3ouDolA344PslWTh) | [TheKiddEast](https://open.spotify.com/artist/6QBV3lqWQWduZNIdi4yrhG) | [Summer Falls](https://open.spotify.com/album/6lwBaJtr0PeYJNuSNoBAn0) | 2:48 |
-| 8 | [Motivational Quote](https://open.spotify.com/track/4MhpTyGa1IH01zlFuy99aN) | [Melodi Ghazal](https://open.spotify.com/artist/6f05TSa46XPA6UoITTjqwm) | [Motivational Quote](https://open.spotify.com/album/0TNNXEi9P8wgb4g26VJ3om) | 3:33 |
-| 9 | [The Woods](https://open.spotify.com/track/2kmfh6SiWGNGscn1z7RlUT) | [Nadine El Roubi](https://open.spotify.com/artist/0LFs7mfW7n7DOKwmRTO0sf) | [The Woods](https://open.spotify.com/album/2k0fEyChPaC0qsSYXc0UqK) | 3:03 |
-| 10 | [start again](https://open.spotify.com/track/33XOL8guHAws71hVhQLYiC) | [Maro](https://open.spotify.com/artist/0ru1ZJNkRRddceqkIah5Yh) | [start again](https://open.spotify.com/album/7b2pfkpByTUXX0rGbKICpl) | 2:33 |
+| 1 | [Hope](https://open.spotify.com/track/6RJ5fDIAfT6edvjVgp3Wbh) | [Malket](https://open.spotify.com/artist/4SniWApo3km8jt2PVMnyEK), [MMT](https://open.spotify.com/artist/03KOcUfBqKsh9spQfwyoF4) | [Hope](https://open.spotify.com/album/3kEjGrGuSJUWjcE8tvm4rK) | 3:52 |
+| 2 | [All On You](https://open.spotify.com/track/76CER1W49x9F01Z7ZwJ6Oa) | [Nawal](https://open.spotify.com/artist/4I7cv8uAvHYwNrMgHer9bV) | [All On You](https://open.spotify.com/album/4x1NJpdoUhSKs1yXag2zXy) | 3:07 |
+| 3 | [Lina](https://open.spotify.com/track/2ig3Y0b35whG1FrAVG27tv) | [Yvzid](https://open.spotify.com/artist/1hiAzHtDperYB5FhcWzJsW) | [Lina](https://open.spotify.com/album/11CqECgUKAF3kZCsAPTMmo) | 2:15 |
+| 4 | [Strange Goodbyes](https://open.spotify.com/track/6KwdMYj4nfbixzgSVM0uFB) | [Anou](https://open.spotify.com/artist/0aQne1tbiKJM4qGKWW8Ykc) | [Strange Goodbyes](https://open.spotify.com/album/7LgTA1VhcRQ0xP6jvM5bAq) | 4:32 |
+| 5 | [Summer Falls](https://open.spotify.com/track/3t7Y0G3ouDolA344PslWTh) | [TheKiddEast](https://open.spotify.com/artist/6QBV3lqWQWduZNIdi4yrhG) | [Summer Falls](https://open.spotify.com/album/6lwBaJtr0PeYJNuSNoBAn0) | 2:48 |
+| 6 | [Motivational Quote](https://open.spotify.com/track/4MhpTyGa1IH01zlFuy99aN) | [Melodi Ghazal](https://open.spotify.com/artist/6f05TSa46XPA6UoITTjqwm) | [Motivational Quote](https://open.spotify.com/album/0TNNXEi9P8wgb4g26VJ3om) | 3:33 |
+| 7 | [Higher \(Breathe Easy\)](https://open.spotify.com/track/3yilsAnbDMSTMRA5AR1Eg3) | [ABRI](https://open.spotify.com/artist/0HaOYwL5NsXcaTGebbW06I) | [Higher \(Breathe Easy\)](https://open.spotify.com/album/7b5DtLjl7shhLIkkq3Q1UN) | 3:26 |
+| 8 | [The Woods](https://open.spotify.com/track/2kmfh6SiWGNGscn1z7RlUT) | [Nadine El Roubi](https://open.spotify.com/artist/0LFs7mfW7n7DOKwmRTO0sf) | [The Woods](https://open.spotify.com/album/2k0fEyChPaC0qsSYXc0UqK) | 3:03 |
+| 9 | [start again](https://open.spotify.com/track/33XOL8guHAws71hVhQLYiC) | [Maro](https://open.spotify.com/artist/0ru1ZJNkRRddceqkIah5Yh) | [start again](https://open.spotify.com/album/7b2pfkpByTUXX0rGbKICpl) | 2:33 |
+| 10 | [El Donia Beta3ti](https://open.spotify.com/track/0D7avy8sOXIcY4ZDWuHO7R) | [Lella Fadda](https://open.spotify.com/artist/2yV4zQzvNPMyHncf60u9sr), [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU) | [El Donia Beta3ti](https://open.spotify.com/album/1DZgnVuOlcIiXskI9HkYMe) | 2:50 |
 | 11 | [Words](https://open.spotify.com/track/675Tylxj87tk6TGGubnmT4) | [Nora Toutain](https://open.spotify.com/artist/7LXP2eZLFZYdpUi29xOF1A) | [Words](https://open.spotify.com/album/3qUeC7YPgYsC38OjSkZ7vK) | 6:37 |
 | 12 | [Who Pulled Up? \(feat\. Jeed\)](https://open.spotify.com/track/4DkNc7OeBsd4a95Sb86Xnt) | [Kali\-B](https://open.spotify.com/artist/62s7RLFRZJV8CcJWidmQ1j), [Jeed](https://open.spotify.com/artist/6O5okGW7N019Tinwive4IF) | [Who Pulled Up? \(feat\. Jeed\)](https://open.spotify.com/album/7FYFckeLTVNxOzCHsMLuNC) | 2:18 |
 | 13 | [Breathe](https://open.spotify.com/track/2bvF4YCECIcSSplYinvLfD) | [Fell'g](https://open.spotify.com/artist/2GZ2Ds7aWRKK1sgfZGwhmv) | [Breathe](https://open.spotify.com/album/0QRPtbmSN78AztDmyK10Ij) | 2:26 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain]
 | 51 | [On Sight](https://open.spotify.com/track/0S5zLiOfQJPCr7RVj6HFRq) | [Bbnbooda](https://open.spotify.com/artist/7qSpIerjnYf4qu9ShXRPlV) | [On Sight](https://open.spotify.com/album/4LxPwuFcp3IOfBnYWKj368) | 3:17 |
 | 52 | [بسيط ايفكتڤ](https://open.spotify.com/track/0AHVNC8und8XJU61876q0o) | [Dattune](https://open.spotify.com/artist/7KV81tK9fACDT7gCl4pFmj), [DZEEZ دزيز](https://open.spotify.com/artist/0NwIwzq4fV5i0LNEC7Vtwg) | [بسيط ايفكتڤ](https://open.spotify.com/album/4Gf35Uc9uEEi5M9qWKGA5c) | 1:35 |
 
-Snapshot ID: `MTY2MzcxMDQ2NywwMDAwMDAwMDRmMzVjMDk1YmVmNzc3OWRlM2RlOTczMjYxM2JkNDBl`
+Snapshot ID: `MTY2Mzg1OTUwNCwwMDAwMDAwMDdlOWQ0ODgyMWY0OThkM2UyM2ZlZWZhNGQ0Y2YzMThi`

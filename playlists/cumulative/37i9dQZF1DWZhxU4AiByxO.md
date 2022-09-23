@@ -4,7 +4,7 @@
 
 > Enjoy some kid\-friendly pop tunes.
 
-227 songs - 11 hr 26 min - [published](https://open.spotify.com/playlist/1sAcZQkEf1QE9sxroLLAMt)
+229 songs - 11 hr 32 min - [published](https://open.spotify.com/playlist/1sAcZQkEf1QE9sxroLLAMt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,6 +175,8 @@
 | [Shake It Off](https://open.spotify.com/track/1p52mBoILwvouXvCie1c3q) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 34](https://open.spotify.com/album/4yK5KdznGoinYNY2rdeGAB) | 3:28 | 2021-10-22 | 2022-07-29 |
 | [Shine Bright \(From Trolls\)](https://open.spotify.com/track/5zuetjtTslM9aMxOW2YuZX) | [Chloe x Halle](https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW) | [Shine Bright \(From Trolls\)](https://open.spotify.com/album/1u5IYqAKm5gtWTamjNb2fV) | 2:09 | 2022-07-28 |  |
 | [Shine Bright \(From Trolls\)](https://open.spotify.com/track/6VGrDeWDhgVlyljWdEFT9r) | [Chloe x Halle](https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW) | [Shine Bright \(From Trolls\)](https://open.spotify.com/album/5egjjgQRGPToUC8t15Bfzq) | 2:09 | 2021-10-22 | 2022-07-29 |
+| [Shut Down](https://open.spotify.com/track/0ARKW62l9uWIDYMZTUmJHF) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P) | 2:55 | 2022-09-22 |  |
+| [Smells Like Me](https://open.spotify.com/track/6LXIhiXK8z1KLd3giR904b) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Smells Like Me](https://open.spotify.com/album/3XvDbxerzYjQZRc6JfF9jY) | 3:24 | 2022-09-22 |  |
 | [Smile](https://open.spotify.com/track/3DXdjHnePKnh6oXw2ZgGSl) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Smile](https://open.spotify.com/album/61HTU0pcDaTmotLnBQgoLs) | 2:46 | 2021-10-22 |  |
 | [Snacks](https://open.spotify.com/track/0E71SurMZPXv3rnQ8jUGLz) | [Novi](https://open.spotify.com/artist/40MxKrk3WiFYGXvVtrRON6) | [Snacks](https://open.spotify.com/album/5ZhB2l1rH8CpfmeTXR7BOh) | 2:49 | 2022-07-28 |  |
 | [Snacks](https://open.spotify.com/track/6l67IEVLEAzvx1emBSX0t8) | [Novi](https://open.spotify.com/artist/40MxKrk3WiFYGXvVtrRON6) | [Snacks](https://open.spotify.com/album/6CFXRlY2OyrWssAzicgo7R) | 2:49 | 2021-10-22 | 2022-07-29 |

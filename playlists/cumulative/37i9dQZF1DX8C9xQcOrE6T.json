@@ -2220,6 +2220,24 @@
     },
     {
       "album": {
+        "name": "Nightmare Before Christmas Special Edition",
+        "url": "https://open.spotify.com/album/32hXKuDkMnpQaOI67xQj86"
+      },
+      "artists": [
+        {
+          "name": "The Citizens of Halloween",
+          "url": "https://open.spotify.com/artist/164hs3x1Tsp3FgJWNHee1r"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196560,
+      "name": "This Is Halloween",
+      "url": "https://open.spotify.com/track/01YROQCnF1AQm7SCWJmD2o"
+    },
+    {
+      "album": {
         "name": "Brave",
         "url": "https://open.spotify.com/album/7vSvdmI0szfMcn7LyVjp0R"
       },

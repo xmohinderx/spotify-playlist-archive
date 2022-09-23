@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtHcSjp0LID.md) - [plain]
 
 > Deep beats to study to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,461 likes - 80 songs - 7 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,494 likes - 80 songs - 7 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtHcSjp0LID.md) - [plain]
 | 50 | [Warped](https://open.spotify.com/track/3jgpE2RhPNOD98t5PoYTrT) | [Joyhauser](https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y) | [Warped](https://open.spotify.com/album/6XCDqHX603iScKjeb9ffAG) | 7:30 |
 | 51 | [Archive Seven](https://open.spotify.com/track/5q9o521FdgonxiKsvAFIPJ) | [Pilotpriest](https://open.spotify.com/artist/6WedqgL53vbco33SU3sVAX) | [WWDKF](https://open.spotify.com/album/1PZ4lKDTSi66OmL8plZEfM) | 5:44 |
 | 52 | [Sweet Spot](https://open.spotify.com/track/1SRLcPOv2gHmEgzrHD831l) | [Flabaire](https://open.spotify.com/artist/4PlRWEw6q6gyML5o0dlP4X) | [It's Just A Silly Phase I'm Going Through](https://open.spotify.com/album/3pCNvytAktBWfslmbpow5H) | 4:55 |
-| 53 | [Vanilla](https://open.spotify.com/track/050gkqbA6Rl0SRZpzQKrAr) | [Gavinco](https://open.spotify.com/artist/7dUeQwfHuOEQGH5PbksGf6) | [Vanilla](https://open.spotify.com/album/4Xs7MNZpiPaKnM4BqkdXTj) | 6:47 |
-| 54 | [Breathing Underwater](https://open.spotify.com/track/2z37gIePyVNcu8cmuvc3JL) | [Jim Henderson](https://open.spotify.com/artist/0MXiMSXku6aYHyNgXtT9MG) | [Breathing Underwater](https://open.spotify.com/album/7n7MzOjUGkLO6gIotByQLL) | 5:13 |
+| 53 | [Breathing Underwater](https://open.spotify.com/track/2z37gIePyVNcu8cmuvc3JL) | [Jim Henderson](https://open.spotify.com/artist/0MXiMSXku6aYHyNgXtT9MG) | [Breathing Underwater](https://open.spotify.com/album/7n7MzOjUGkLO6gIotByQLL) | 5:13 |
+| 54 | [Vanilla](https://open.spotify.com/track/050gkqbA6Rl0SRZpzQKrAr) | [Gavinco](https://open.spotify.com/artist/7dUeQwfHuOEQGH5PbksGf6) | [Vanilla](https://open.spotify.com/album/4Xs7MNZpiPaKnM4BqkdXTj) | 6:47 |
 | 55 | [Loop No 1](https://open.spotify.com/track/02G42teKnMwPwDFEKUfdct) | [Moomin](https://open.spotify.com/artist/5GyUtaUuEnR7uhRF3jDj4s) | [A Minor Thought](https://open.spotify.com/album/0bxwH4IfXTXYmpiC2rIfFA) | 6:12 |
 | 56 | [Miracle Of The Rose](https://open.spotify.com/track/3Tw7T1en0fIwM5RzKPVvCi) | [Denis Horvat](https://open.spotify.com/artist/5eJJoSS6weFQeI9AtNFLee) | [Miracle Of The Rose EP](https://open.spotify.com/album/2RqPo78ZB3Ln3i7TQPUcaC) | 5:31 |
 | 57 | [Moons](https://open.spotify.com/track/4t4uk0wS8mvGwuAsGW9TB8) | [Embee](https://open.spotify.com/artist/7ga1hewK4zSX6yl16251DF) | [Moons](https://open.spotify.com/album/3tIgTO7IeJfRd4rUDyxAUb) | 3:37 |
@@ -82,11 +82,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtHcSjp0LID.md) - [plain]
 | 72 | [Immortal](https://open.spotify.com/track/3Y7kUkLjiY70JafNJnC31R) | [Dok & Martin](https://open.spotify.com/artist/1rV7LSzJ2ZzL3FicYplmLX), [Carlos Pérez](https://open.spotify.com/artist/6L9nhBLgFJjNsV6BJDhqRr) | [Thunderstorm EP](https://open.spotify.com/album/6R30YrcG8zrQwb5IpPsmWS) | 6:57 |
 | 73 | [Everything](https://open.spotify.com/track/0UYh6IZU6VI8xTvupNWdWh) | [A Forest Mighty Black](https://open.spotify.com/artist/0kvh70DV0fgXwIVVtwNs9y) | [Mellowdramatic](https://open.spotify.com/album/2I95PYKCg7XXV6yHKVOtW3) | 7:58 |
 | 74 | [Deepart 8.0](https://open.spotify.com/track/1TmgIqBZJsMvs4p96tEWrI) | [Async](https://open.spotify.com/artist/5PZlBEt3wsD3kAw6i7Mz0t) | [Frekk EP](https://open.spotify.com/album/1OEm5cnudsYGee21Ic1nYE) | 7:54 |
-| 75 | [Occasional Magic \- Ulrich Schnauss Remix](https://open.spotify.com/track/4cVbjycdaVOrQUPtn7zauc) | [Yppah](https://open.spotify.com/artist/3Gaqw2nGyE7yM3rcRSzE3U), [Ulrich Schnauss](https://open.spotify.com/artist/4znPt0HV6Ik0iR8sR4GAJE) | [Occasional Magic Remixes EP](https://open.spotify.com/album/1LpyYD31piweVGq8HIhv2n) | 5:30 |
-| 76 | [Beirut](https://open.spotify.com/track/3Yfs5ZmkP7FgMzREvrgS07) | [Baba Stiltz](https://open.spotify.com/artist/1xaQSClXcsc1JvxZ2qnwBF) | [A Slice of'' Heaven'' EP](https://open.spotify.com/album/2pU6NoEXYQq2bv27p82faA) | 7:27 |
+| 75 | [Beirut](https://open.spotify.com/track/3Yfs5ZmkP7FgMzREvrgS07) | [Baba Stiltz](https://open.spotify.com/artist/1xaQSClXcsc1JvxZ2qnwBF) | [A Slice of'' Heaven'' EP](https://open.spotify.com/album/2pU6NoEXYQq2bv27p82faA) | 7:27 |
+| 76 | [Occasional Magic \- Ulrich Schnauss Remix](https://open.spotify.com/track/4cVbjycdaVOrQUPtn7zauc) | [Yppah](https://open.spotify.com/artist/3Gaqw2nGyE7yM3rcRSzE3U), [Ulrich Schnauss](https://open.spotify.com/artist/4znPt0HV6Ik0iR8sR4GAJE) | [Occasional Magic Remixes EP](https://open.spotify.com/album/1LpyYD31piweVGq8HIhv2n) | 5:30 |
 | 77 | [Hawkmoth](https://open.spotify.com/track/44MqpNL8xdtG3hTT2QWbQ4) | [Plaid](https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD) | [Reachy Prints](https://open.spotify.com/album/4nwAU3LuHt6nL5KLqhzw1z) | 4:48 |
 | 78 | [Shift II \- Original Mix](https://open.spotify.com/track/2VAPNBfbvw7zagvjO1bHZd) | [Coss](https://open.spotify.com/artist/3YdYc0Ewo5Vpejw0r3dV74) | [Shift I \- II](https://open.spotify.com/album/6N6oJFs70pee2N27qQFwWX) | 5:56 |
 | 79 | [Dance Machine \- Original Mix](https://open.spotify.com/track/15Xi6tukR3x3rl6XcY8Pb7) | [Stereoclip](https://open.spotify.com/artist/4x2Ejyd2OGXtZrPvAQWvYL), [Jim Henderson](https://open.spotify.com/artist/0MXiMSXku6aYHyNgXtT9MG) | [Dance Machine](https://open.spotify.com/album/5F2iDQN8FGSAT8Qis3uVjn) | 5:40 |
 | 80 | [Heading North](https://open.spotify.com/track/2gbQR2XJlZy461hu9FOrZL) | [Fideles](https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs), [Flu](https://open.spotify.com/artist/0et1qkvGOPow6uK5rJzyzi) | [Endless Sacrifice](https://open.spotify.com/album/6q9loyCvFDdPgUER8JcX5J) | 7:17 |
 
-Snapshot ID: `MTY1NzkwNjQ1NSwwMDAwMDAwMGE5YWExMDY5OGYyMGJkYjYyNWZiMjA5OTI0MmY2ZmU2`
+Snapshot ID: `MTY1NzkwNjQ1NSwwMDAwMDAwMDIzMWEwZDU2NDViOTkxNDY4NzNjNWQxZTRiZTljY2Ux`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbITWG1ZJKYt.md) - [plain]
 
 > The best tunes in Jazz history\. Cover: John Coltrane
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,679,978 likes - 250 songs - 21 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,681,167 likes - 250 songs - 21 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbITWG1ZJKYt.md) - [plain]
 | 249 | [Strange Fruit](https://open.spotify.com/track/1CTex49P0iWwzUGsMNjgaV) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Billie Holiday](https://open.spotify.com/album/4MkdTflpaaGGcXb5vtOYRs) | 3:12 |
 | 250 | [As Time Goes By](https://open.spotify.com/track/3lO4Z6BSp773vcovgYurHg) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [The Complete Commodore Recordings](https://open.spotify.com/album/7zSWkh1YCGAo4zO7nje22z) | 3:14 |
 
-Snapshot ID: `MTY2MzU5NjAxNiwwMDAwMDAwMDdmOTMyZjY2MTA2MDczYmUxNjIyN2M5Yjk5OTg5Njhi`
+Snapshot ID: `MTY2MzgzNDYwOSwwMDAwMDAwMDAzODU3Nzg2N2U4MjZiZWE3Zjg5NGQ3MTQwYmIyMWEx`

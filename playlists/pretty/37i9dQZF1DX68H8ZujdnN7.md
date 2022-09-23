@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68H8ZujdnN7.md) - [plain]
 
 > Hair goals, spandex and epic guitar solos\. We got you.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,821,308 likes - 106 songs - 7 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,821,813 likes - 106 songs - 7 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68H8ZujdnN7.md) - [plain]
 | 13 | [Separate Ways \(Worlds Apart\)](https://open.spotify.com/track/4ECNtOnqzxutZkXP4TE3n3) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Frontiers](https://open.spotify.com/album/2EFUNYmwxe0AOGxBORrfaw) | 5:23 |
 | 14 | [Panama \- 2015 Remaster](https://open.spotify.com/track/05RgAMGypEvqhNs5hPCbMS) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [1984 \(Remastered\)](https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0) | 3:30 |
 | 15 | [Rainbow in the Dark](https://open.spotify.com/track/2PpNgmrS9mAyrkRAwn6YPq) | [Dio](https://open.spotify.com/artist/4CYeVo5iZbtYGBN4Isc3n6) | [Holy Diver](https://open.spotify.com/album/2ivNJLSx8Rbvnsvcn01Yt3) | 4:16 |
-| 16 | [Lay It Down](https://open.spotify.com/track/3D5ORNm9spaTcdRx50ksHx) | [Ratt](https://open.spotify.com/artist/3tufWJzpCiAGleBt5TkmTn) | [Invasion of Privacy](https://open.spotify.com/album/7CzsLoFBEMElxviJoApcAI) | 3:25 |
+| 16 | [Lay It Down](https://open.spotify.com/track/3D5ORNm9spaTcdRx50ksHx) | [Ratt](https://open.spotify.com/artist/3tufWJzpCiAGleBt5TkmTn) | [Invasion of Your Privacy](https://open.spotify.com/album/7CzsLoFBEMElxviJoApcAI) | 3:25 |
 | 17 | [Bad Medicine](https://open.spotify.com/track/72hcFp4tYkd3dbNA9dZ3Pv) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [New Jersey \(Deluxe Edition\)](https://open.spotify.com/album/3mcKOl0KNe65BqiBa40WxR) | 5:16 |
 | 18 | [Metal Health \(Bang Your Head\)](https://open.spotify.com/track/28clONjZmul6FjfO6tZQDE) | [Quiet Riot](https://open.spotify.com/artist/1dLWg6m8RRhizsdqJbhyj3) | [Metal Health](https://open.spotify.com/album/3Q3rQ8FK1e9Fd9Gv9xm3CK) | 5:16 |
 | 19 | [The Final Countdown](https://open.spotify.com/track/3MrRksHupTVEQ7YbA0FsZK) | [Europe](https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz) | [The Final Countdown \(Expanded Edition\)](https://open.spotify.com/album/5Jkd47JEaCU1g4DcGBnHm3) | 5:10 |
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68H8ZujdnN7.md) - [plain]
 | 27 | [Once Bitten Twice Shy](https://open.spotify.com/track/7pkWZL0kA26s754CwyK0SH) | [Great White](https://open.spotify.com/artist/6ZPbX2Lxd40e2UVkXpyxvI) | [Twice Shy](https://open.spotify.com/album/0gPfgxBDkrtJgwIkziS8LI) | 5:22 |
 | 28 | [Wanted Dead Or Alive](https://open.spotify.com/track/0oerlffJSzhRVvtDfLcp3N) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Slippery When Wet](https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t) | 5:08 |
 | 29 | [Don't Know What You Got \(Till It's Gone\)](https://open.spotify.com/track/5QRs63VVKNaqUjg6XSSckM) | [Cinderella](https://open.spotify.com/artist/7HL4id2U7FSDJtfKQHMgQx) | [Long Cold Winter](https://open.spotify.com/album/5EsAeGDozof1PIH3WPXLr2) | 5:54 |
-| 30 | [You're in Love](https://open.spotify.com/track/3D3lmTEhuWaunO1yxpYPD8) | [Ratt](https://open.spotify.com/artist/3tufWJzpCiAGleBt5TkmTn) | [Invasion of Privacy](https://open.spotify.com/album/7CzsLoFBEMElxviJoApcAI) | 3:14 |
+| 30 | [You're in Love](https://open.spotify.com/track/3D3lmTEhuWaunO1yxpYPD8) | [Ratt](https://open.spotify.com/artist/3tufWJzpCiAGleBt5TkmTn) | [Invasion of Your Privacy](https://open.spotify.com/album/7CzsLoFBEMElxviJoApcAI) | 3:14 |
 | 31 | [Girls, Girls, Girls](https://open.spotify.com/track/549Go7a66CX6k523uK9kUv) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Girls, Girls, Girls](https://open.spotify.com/album/2KT9tWALjIRjnaGYDYPg3k) | 4:30 |
 | 32 | [Here I Go Again \- 2018 Remaster](https://open.spotify.com/track/1qOU8KzFifXE9YrgjVwYvc) | [Whitesnake](https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP) | [Whitesnake \(2018 Remaster\)](https://open.spotify.com/album/5drgoLSnXSDIhNK4ms3P7I) | 4:35 |
 | 33 | [Livin' On A Prayer](https://open.spotify.com/track/37ZJ0p5Jm13JPevGcx4SkF) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Slippery When Wet](https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t) | 4:09 |

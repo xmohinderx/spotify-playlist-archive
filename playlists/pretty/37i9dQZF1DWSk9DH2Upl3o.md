@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSk9DH2Upl3o.md) - [plain]
 
 > The jam scene is alive and well\. Cover: Papadosio
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,732 likes - 50 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,788 likes - 50 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,17 +38,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSk9DH2Upl3o.md) - [plain]
 | 28 | [Curse Lifter \(feat\. Derek Trucks\)](https://open.spotify.com/track/3qhvHN2UFlOouwkEEBWn37) | [Eric Krasno](https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k), [Derek Trucks](https://open.spotify.com/artist/1xJPYI7GXasA3ariMSftPq) | [Blood from a Stone](https://open.spotify.com/album/2OMMQdI71h7sWqkhis2ZkT) | 4:59 |
 | 29 | [Electric Taco Stand](https://open.spotify.com/track/2mMElb3GObwkGdVYtyT0nu) | [Spafford](https://open.spotify.com/artist/7fA0IDinGo27lmOeGy6oGV) | [Spafford](https://open.spotify.com/album/6XNKBFhh66GoOhMpOd8s05) | 4:23 |
 | 30 | [All I Need](https://open.spotify.com/track/6vC5WWQXWqBUW5iq7XoGnu) | [Goose](https://open.spotify.com/artist/5tkITWzssc9z9hu7ZEOCXz) | [Night Lights](https://open.spotify.com/album/1UyBQOLKc5jxzrdAOpHjv4) | 6:41 |
-| 31 | [Ghost In The Machine](https://open.spotify.com/track/5VBPHVGLIpMdwRolGDxAm9) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [Ghost In The Machine](https://open.spotify.com/album/35uUl3hTYQfBhH8CvSsTiV) | 6:19 |
-| 32 | [Opelika Yella](https://open.spotify.com/track/0lNcPLNpygKPwn4rh07yHQ) | [Cbdb](https://open.spotify.com/artist/0Rt9ML8x5r1DFhSPAJhbwr) | [Out of Line](https://open.spotify.com/album/0L8s86CwVUyPR1wF2HiTRg) | 5:39 |
+| 31 | [Opelika Yella](https://open.spotify.com/track/0lNcPLNpygKPwn4rh07yHQ) | [Cbdb](https://open.spotify.com/artist/0Rt9ML8x5r1DFhSPAJhbwr) | [Out of Line](https://open.spotify.com/album/0L8s86CwVUyPR1wF2HiTRg) | 5:39 |
+| 32 | [Ghost In The Machine](https://open.spotify.com/track/5VBPHVGLIpMdwRolGDxAm9) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [Ghost In The Machine](https://open.spotify.com/album/35uUl3hTYQfBhH8CvSsTiV) | 6:19 |
 | 33 | [Mr\. Scientist](https://open.spotify.com/track/4873MdwrLRw2FuAddS0h3F) | [The Magic Beans](https://open.spotify.com/artist/6v39xVS6Vpmnun982EF8XH) | [Casino Cabaret](https://open.spotify.com/album/2Y7VfgO3VkHuZHgTfmbHco) | 7:28 |
 | 34 | [Mokuba](https://open.spotify.com/track/58Ge6PmTc9PfP0mK5GC8Mk) | [Tauk](https://open.spotify.com/artist/6qauwCj8W2mTcDGbyDGo6O) | [Collisions](https://open.spotify.com/album/0Hzx5qahFYpoxFlNz0iHrK) | 5:27 |
 | 35 | [Fannie](https://open.spotify.com/track/3L2U8GgZE0y2WX0z6cUYGX) | [Dopapod](https://open.spotify.com/artist/6ur6SxSBdRLBgehOIT2iwX) | [Dopapod](https://open.spotify.com/album/2LrH4Sm8KxA10mnUy3IcFA) | 4:07 |
-| 36 | [Red Sky](https://open.spotify.com/track/6GeA7HIChjhFR5JsRHVTdV) | [The Big Wu](https://open.spotify.com/artist/2IQLjVQHKnzSQAVAkeCcQ0) | [Tracking Buffalo Through the Bathtub](https://open.spotify.com/album/6pEnxOBIV3UGzmH7W0JOFx) | 8:52 |
-| 37 | [Time Dilates](https://open.spotify.com/track/2rGANn1EnbCGUC0oftuwW9) | [Lotus ](https://open.spotify.com/artist/1a4N2lwra7WGjwCDJS1Dkk) | [Time Dilates](https://open.spotify.com/album/6fPbxh0gX0GZl4Ppy8pJ29) | 5:21 |
-| 38 | [Revival](https://open.spotify.com/track/5hdLN2CbIeZbVDYN8cVqoB) | [Backup Planet](https://open.spotify.com/artist/1Jc3wYtJwv8KMbo3Ct7aLD) | [Element](https://open.spotify.com/album/1M8jFuVLqJOlqYtOv1cdAI) | 3:35 |
-| 39 | [The World Is A Ghetto](https://open.spotify.com/track/5yiEFVz2RhuNvi9msiw3oI) | [Los Lobos](https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT) | [Native Sons](https://open.spotify.com/album/2AH53pDM2S1jAggLLAueAM) | 8:33 |
-| 40 | [Galactic Passport](https://open.spotify.com/track/3OAg1ONfFGgdps1INL4qaX) | [The Werks](https://open.spotify.com/artist/2w3mdKFSuS2cyXd6ZLYEvs) | [The Werks](https://open.spotify.com/album/4GdrviBOifZPQe1r7At1qG) | 6:52 |
-| 41 | [Stacy's on the Lake](https://open.spotify.com/track/5aM41a1nAdLaYMj2roH4vu) | [Cbdb](https://open.spotify.com/artist/0Rt9ML8x5r1DFhSPAJhbwr) | [Phone.Keys.Wallet](https://open.spotify.com/album/2fVFLWl9qjao0Q1eal6yx4) | 2:19 |
+| 36 | [Stacy's on the Lake](https://open.spotify.com/track/5aM41a1nAdLaYMj2roH4vu) | [Cbdb](https://open.spotify.com/artist/0Rt9ML8x5r1DFhSPAJhbwr) | [Phone.Keys.Wallet](https://open.spotify.com/album/2fVFLWl9qjao0Q1eal6yx4) | 2:19 |
+| 37 | [Red Sky](https://open.spotify.com/track/6GeA7HIChjhFR5JsRHVTdV) | [The Big Wu](https://open.spotify.com/artist/2IQLjVQHKnzSQAVAkeCcQ0) | [Tracking Buffalo Through the Bathtub](https://open.spotify.com/album/6pEnxOBIV3UGzmH7W0JOFx) | 8:52 |
+| 38 | [Time Dilates](https://open.spotify.com/track/2rGANn1EnbCGUC0oftuwW9) | [Lotus ](https://open.spotify.com/artist/1a4N2lwra7WGjwCDJS1Dkk) | [Time Dilates](https://open.spotify.com/album/6fPbxh0gX0GZl4Ppy8pJ29) | 5:21 |
+| 39 | [Revival](https://open.spotify.com/track/5hdLN2CbIeZbVDYN8cVqoB) | [Backup Planet](https://open.spotify.com/artist/1Jc3wYtJwv8KMbo3Ct7aLD) | [Element](https://open.spotify.com/album/1M8jFuVLqJOlqYtOv1cdAI) | 3:35 |
+| 40 | [The World Is A Ghetto](https://open.spotify.com/track/5yiEFVz2RhuNvi9msiw3oI) | [Los Lobos](https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT) | [Native Sons](https://open.spotify.com/album/2AH53pDM2S1jAggLLAueAM) | 8:33 |
+| 41 | [Galactic Passport](https://open.spotify.com/track/3OAg1ONfFGgdps1INL4qaX) | [The Werks](https://open.spotify.com/artist/2w3mdKFSuS2cyXd6ZLYEvs) | [The Werks](https://open.spotify.com/album/4GdrviBOifZPQe1r7At1qG) | 6:52 |
 | 42 | [Random Company](https://open.spotify.com/track/6eOzmeLU3lJD7dw5kJ46EX) | [Aqueous](https://open.spotify.com/artist/74d8upOdwQZyoDGXWEguMn) | [Best in Show](https://open.spotify.com/album/0CjZ35bc20KXgtOT9dGCWC) | 8:05 |
 | 43 | [Left Behind](https://open.spotify.com/track/160RJAfQ71LcES9hN06z3b) | [Bywater Call](https://open.spotify.com/artist/1bhk3AmtYKQAcDzbDyWG4M) | [Remain](https://open.spotify.com/album/6Ra2EYAa2ZUGMdFDOwPrgj) | 5:54 |
 | 44 | [Don't Say Goodnight Just Yet](https://open.spotify.com/track/2w04CcDEqzLwsc5hhZ0KRQ) | [Ghost Light](https://open.spotify.com/artist/2daxH6yPiKVTF0CtQ6XWOe) | [Don't Say Goodnight Just Yet](https://open.spotify.com/album/038eg4P2YxR7XEyXxSfWUe) | 5:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSk9DH2Upl3o.md) - [plain]
 | 49 | [When Ya Hustle](https://open.spotify.com/track/3AttQu1NPvaCrgw9O3jgOq) | [Cytrus](https://open.spotify.com/artist/6VrNLN6Thj1iUMsiL4Yt5q) | [Extraction](https://open.spotify.com/album/6Rr6d7WcYWtsdMZImjvWmA) | 4:07 |
 | 50 | [Lily's Tiger](https://open.spotify.com/track/1wEt9nM5wq2U5RNuWBxnyA) | [Great Blue](https://open.spotify.com/artist/1LlkBNUOz29oWc0IeX0lXc) | [Great Blue](https://open.spotify.com/album/3EuzVI8uESnKwlOOdh4wr6) | 4:57 |
 
-Snapshot ID: `MTY2MzMwMDg2MCwwMDAwMDAwMGZlN2ZjODhjMWM1NDU4N2JjNjk5NjVhMDE3ZDZjNGIz`
+Snapshot ID: `MTY2MzMwMDg2MCwwMDAwMDAwMDE0NTJhMjE0NjJlZWYzMzQzYTQ0M2U1Y2JmMDBlM2Ex`

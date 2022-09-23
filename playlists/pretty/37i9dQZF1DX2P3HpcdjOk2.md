@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3HpcdjOk2.md) - [plain]
 
 > The best of 70s Glam Rock\. Cover: David Bowie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,840 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,057 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3HpcdjOk2.md) - [plain]
 | 28 | [Ziggy Stardust \- 2012 Remaster](https://open.spotify.com/track/5IyL3XOaRPpTgxVjRIAxXU) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [The Rise and Fall of Ziggy Stardust and the Spiders from Mars \(2012 Remaster\)](https://open.spotify.com/album/48D1hRORqJq52qsnUYZX56) | 3:13 |
 | 29 | [Personality Crisis](https://open.spotify.com/track/4AwKXevZmsTNa3KZVj3rzl) | [New York Dolls](https://open.spotify.com/artist/0WhGV9lzljq2QKJ8ipw6jx) | [New York Dolls](https://open.spotify.com/album/2xbTV0Awe4Qm5caUVuPbMr) | 3:41 |
 | 30 | [Vicious](https://open.spotify.com/track/4A48NL57P16zSRaq3yoYry) | [Lou Reed](https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL) | [Transformer](https://open.spotify.com/album/5SqbMEyAt8332ISGiLX0St) | 2:56 |
-| 31 | [Some Girls](https://open.spotify.com/track/6U7yae1KRTEJJe0WSr4OdX) | [Racey](https://open.spotify.com/artist/1W4SfNO5hb1tdX0wQ87zxl) | [Smash and Grab](https://open.spotify.com/album/2UntsTXsuN0LidA4xgSgnX) | 3:27 |
-| 32 | [Rock On](https://open.spotify.com/track/0uPIwcT6OdJ5BAJdYkxVp9) | [David Essex](https://open.spotify.com/artist/46n0cAhBmsRJZiX6GSFmbf) | [Rock On](https://open.spotify.com/album/4yMLfb3f5fo7lPgHAUqx8P) | 3:24 |
+| 31 | [Rock On](https://open.spotify.com/track/0uPIwcT6OdJ5BAJdYkxVp9) | [David Essex](https://open.spotify.com/artist/46n0cAhBmsRJZiX6GSFmbf) | [Rock On](https://open.spotify.com/album/4yMLfb3f5fo7lPgHAUqx8P) | 3:24 |
+| 32 | [Some Girls](https://open.spotify.com/track/6U7yae1KRTEJJe0WSr4OdX) | [Racey](https://open.spotify.com/artist/1W4SfNO5hb1tdX0wQ87zxl) | [Smash and Grab](https://open.spotify.com/album/2UntsTXsuN0LidA4xgSgnX) | 3:27 |
 | 33 | [Far Far Away](https://open.spotify.com/track/1QMmLeAxi9MDLXjboKOpc7) | [Slade](https://open.spotify.com/artist/10n5lhNDoSMUHWLlnST1yw) | [Slade in Flame](https://open.spotify.com/album/0LmjoS42wberY6QHYm6k5E) | 3:34 |
 | 34 | [Under the Moon of Love](https://open.spotify.com/track/34LMQb9wE70d6KhZhzHUo1) | [Showaddywaddy](https://open.spotify.com/artist/3zIIUxcnIoUMouVQdphkeC) | [A's & B's](https://open.spotify.com/album/6CzzK91Y1KngXnXK3tTfVn) | 3:12 |
 | 35 | [Can the Can](https://open.spotify.com/track/1zaiZAuhPkQfhhY9X2mTnn) | [Suzi Quatro](https://open.spotify.com/artist/15jHZ1EZwmm2QDjKctvqJQ) | [Suzi Quatro](https://open.spotify.com/album/63KpMsxh6E1WJPcDeT2GH4) | 3:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3HpcdjOk2.md) - [plain]
 | 49 | [Dyna\-Mite](https://open.spotify.com/track/25ONd5KLodHeHOvALtWG1T) | [Mud](https://open.spotify.com/artist/3cqIsBnzV3BabbPWKz8Txf) | [A's, B's And Rarities](https://open.spotify.com/album/3S9t2MD1HLBshrczST9ULW) | 2:56 |
 | 50 | [The Wild One \- Single Version](https://open.spotify.com/track/7ukFfm4TZOSwrnz2wxp4mG) | [Suzi Quatro](https://open.spotify.com/artist/15jHZ1EZwmm2QDjKctvqJQ) | [Quatro](https://open.spotify.com/album/0PVSnckBznSfzQai0cR3Kh) | 2:51 |
 
-Snapshot ID: `MTY2MzAxMDU4MiwwMDAwMDAwMGQ2MmYyNTFkOWY4NWY0NGRmOThjMzg1Nzc2YTkzOGE1`
+Snapshot ID: `MTY2MzAxMDU4MiwwMDAwMDAwMDc5YzU0NTEwNjY3NjNlYzk5NmE2MDdmMzJlYjI1MTFm`

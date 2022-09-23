@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX09mi3a4Zmox.md) - [plain]
 
 > Música para enamorarse.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,950,110 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,950,535 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX09mi3a4Zmox.md) - [plain]
 | 41 | [Aunque no te pueda ver](https://open.spotify.com/track/2425UlXvkIkAEJAtAd8ROm) | [Alex Ubago](https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X) | [Fantasía o realidad](https://open.spotify.com/album/1RF8AaupRPlmA13HxSdWAe) | 4:26 |
 | 42 | [¿Quieres Ser Mi Amante?](https://open.spotify.com/track/1Y7q2zwCBjt9zgIHZ0Ku7J) | [Camilo Sesto](https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y) | [Camilo](https://open.spotify.com/album/4AxRFDkSlRWzCpyaO107UJ) | 4:09 |
 | 43 | [El Perdedor](https://open.spotify.com/track/4jMu6QYon1JEikcdTJ1TzR) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [SEX AND LOVE \(Deluxe\)](https://open.spotify.com/album/2kZkiVn1m00XcgaWlLb2LD) | 3:11 |
-| 44 | [Gavilán o Paloma](https://open.spotify.com/track/4Wg6Ggb6DY8OmlFQvvHO9b) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Reencuentro](https://open.spotify.com/album/6raiLPK4vKJD34Q33Gkpgt) | 4:10 |
-| 45 | [Bendita Tu Luz](https://open.spotify.com/track/2JBs412fpVUuzIaIp3CyIs) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [Amar Es Combatir](https://open.spotify.com/album/6XrpkEuQyfilUHMduKDeuB) | 4:24 |
+| 44 | [Bendita Tu Luz](https://open.spotify.com/track/2JBs412fpVUuzIaIp3CyIs) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [Amar Es Combatir](https://open.spotify.com/album/6XrpkEuQyfilUHMduKDeuB) | 4:24 |
+| 45 | [Gavilán o Paloma](https://open.spotify.com/track/4Wg6Ggb6DY8OmlFQvvHO9b) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Reencuentro](https://open.spotify.com/album/6raiLPK4vKJD34Q33Gkpgt) | 4:10 |
 | 46 | [El Mismo Aire](https://open.spotify.com/track/3a29UVSEIj6x3YcfKs2rdi) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Por Primera Vez](https://open.spotify.com/album/6xS6mQz1fQZ6eZE654J15I) | 3:06 |
 | 47 | [Sólo para Ti](https://open.spotify.com/track/0GNWo2IgoBKdk10gdnaSVk) | [Camila](https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU) | [Todo Cambio](https://open.spotify.com/album/7dTSfhp5okEjaYXp38LwVf) | 3:02 |
 | 48 | [Mi Razon De Ser](https://open.spotify.com/track/6RLB0Jw4gg5uYpHyekjQSI) | [Griss Romero](https://open.spotify.com/artist/36eqG3jM0MhxTR7Cuw7BQA) | [Mis Canciones De La Web](https://open.spotify.com/album/5Cpv2FIiZHAGFrYHtVTDNP) | 2:52 |
@@ -87,11 +87,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX09mi3a4Zmox.md) - [plain]
 | 77 | [Eres Mi Religión](https://open.spotify.com/track/3NTaEHQg5iVrRRNWlnK4RY) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [Revolución De Amor](https://open.spotify.com/album/6HrRHewMLfZLSkwJyZgr3V) | 5:27 |
 | 78 | [La Nave del Olvido](https://open.spotify.com/track/2pOyQcM91HM3tZEiwZCraG) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [La Nave del Olvido](https://open.spotify.com/album/1BDHXHGmDMUVEWeqZlBLfQ) | 3:35 |
 | 79 | [Lo Que en Ti Veo](https://open.spotify.com/track/2cLOSF54zDP52z6ma8mivK) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV), [Nahuel Pennisi](https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe) | [Mesa Para Dos](https://open.spotify.com/album/1ZGHMTg7kh6TRqDRkJyEHO) | 3:26 |
-| 80 | [Hey \- Spanish](https://open.spotify.com/track/3X8buu765D59qlQ6z78I8A) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [Begin the Beguine](https://open.spotify.com/album/5siSTOhozc4kGQxQgbFhvS) | 5:00 |
-| 81 | [Ven](https://open.spotify.com/track/0UDnTve3eqcCqBDLbHhX1k) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP) | [Agustín](https://open.spotify.com/album/0b06tYwwHqxWucHN4296YW) | 4:08 |
+| 80 | [Ven](https://open.spotify.com/track/0UDnTve3eqcCqBDLbHhX1k) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP) | [Agustín](https://open.spotify.com/album/0b06tYwwHqxWucHN4296YW) | 4:08 |
+| 81 | [Hey \- Spanish](https://open.spotify.com/track/3X8buu765D59qlQ6z78I8A) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [Begin the Beguine](https://open.spotify.com/album/5siSTOhozc4kGQxQgbFhvS) | 5:00 |
 | 82 | [Así Te Pedí](https://open.spotify.com/track/79Le7RyHdaPC1eEZBpFm4x) | [Zeri](https://open.spotify.com/artist/1ISG0zSleX4gwbBf4AydB8) | [Extraños](https://open.spotify.com/album/3VgQqkogbq1J5tNxz0Cbbj) | 3:45 |
-| 83 | [Hablemos de amor](https://open.spotify.com/track/0ttJ5VlYydkecHXNqQChgN) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Vértigo](https://open.spotify.com/album/3rMqrzAwB0tLlsA9Zrd46L) | 3:29 |
-| 84 | [Deje de Amar](https://open.spotify.com/track/4SB87vYiWYWFg9ekXay2Fo) | [Felipe Muñiz](https://open.spotify.com/artist/659iks2UnmZ5PXHOEF9YST), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Deje de Amar](https://open.spotify.com/album/1WL8muZp8DwnP4XDuovUou) | 3:12 |
+| 83 | [Deje de Amar](https://open.spotify.com/track/4SB87vYiWYWFg9ekXay2Fo) | [Felipe Muñiz](https://open.spotify.com/artist/659iks2UnmZ5PXHOEF9YST), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Deje de Amar](https://open.spotify.com/album/1WL8muZp8DwnP4XDuovUou) | 3:12 |
+| 84 | [Hablemos de amor](https://open.spotify.com/track/0ttJ5VlYydkecHXNqQChgN) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Vértigo](https://open.spotify.com/album/3rMqrzAwB0tLlsA9Zrd46L) | 3:29 |
 | 85 | [Como Han Pasado los Años \(with Julio Iglesias\)](https://open.spotify.com/track/5PuY7F2jpk1yuD3ZNvzT85) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB), [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [Una Estrella En El Cielo](https://open.spotify.com/album/5BKMan1vEF6HtWpj8tNceY) | 3:30 |
 | 86 | [Antes Que al Mío](https://open.spotify.com/track/69VfaraLe5onolFj90bgyj) | [Los Claxons](https://open.spotify.com/artist/4AgfaZvOiSS97uy5ekQ7bf) | [Camino a Encontrarte \(Edición Especial\)](https://open.spotify.com/album/25WLz1zNyzbXZnAMFZXpKW) | 3:01 |
 | 87 | [Te quiero](https://open.spotify.com/track/53xN2jnRERbs7bg9t8hKDd) | [José Luis Perales](https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP) | [Nido de águilas](https://open.spotify.com/album/32WuCQwrBEno4ofZMvr0tC) | 3:50 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX09mi3a4Zmox.md) - [plain]
 | 99 | [Estar contigo](https://open.spotify.com/track/0IDyf9eri6YrUs4yeQfCZZ) | [Alex Ubago](https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X) | [Mentiras sinceras](https://open.spotify.com/album/4kycb8w5cgbdLcQ6uD6IyF) | 3:52 |
 | 100 | [Hilo Rojo](https://open.spotify.com/track/3XMJLE4cS4ug7i4tnz09dP) | [Río Roma](https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt) | [Rojo](https://open.spotify.com/album/3n0zkanqLGhc1R0O7Ddl1G) | 3:42 |
 
-Snapshot ID: `MTY2MzY3OTA5MCwwMDAwMDAwMDAwNWMyNTg3NjhlN2U3YWQ1ZTI1OTdjMzYyMjRhZTI1`
+Snapshot ID: `MTY2MzY3OTA5MCwwMDAwMDAwMDAyM2UzODdiZWRkYzc2Y2RkODI0NjE5NGJkOTJlY2Ez`

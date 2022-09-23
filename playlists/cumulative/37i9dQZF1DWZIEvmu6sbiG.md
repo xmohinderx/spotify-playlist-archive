@@ -4,7 +4,7 @@
 
 > Scopa, paletta e musica!
 
-254 songs - 17 hr 6 min - [published](https://open.spotify.com/playlist/4qhwVOd0ce2lSNhjobvAFO)
+255 songs - 17 hr 10 min - [published](https://open.spotify.com/playlist/4qhwVOd0ce2lSNhjobvAFO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,13 +96,14 @@
 | [Here With Me](https://open.spotify.com/track/4xFxK0FXmNlUDRgCaIQCVn) | [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs) | [No Angel](https://open.spotify.com/album/7ydMeYrv8bFFRkkHepoJM4) | 4:15 | 2021-07-19 | 2022-07-29 |
 | [Heroes \- 1999 Remaster](https://open.spotify.com/track/5j6ZZwA9BnxZi5Bk0Ng4jB) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Heroes \(1999 Remaster\)](https://open.spotify.com/album/3lFioPGhn7x5Y3H3YbPV83) | 6:10 | 2021-07-19 | 2022-07-29 |
 | [Hey Jude \- Remastered 2015](https://open.spotify.com/track/0aym2LBJBk9DAYuHHutrIl) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [1 \(Remastered\)](https://open.spotify.com/album/7vEJAtP3KgKSpOHVgwm3Eh) | 7:05 | 2021-07-19 | 2022-05-20 |
-| [Hey There Delilah](https://open.spotify.com/track/4RCWB3V8V0dignt99LZ8vH) | [Plain White T's](https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o) | [All That We Needed](https://open.spotify.com/album/4vUClKTFaDWnsHE8rK52GY) | 3:52 | 2021-07-19 |  |
+| [Hey There Delilah](https://open.spotify.com/track/4RCWB3V8V0dignt99LZ8vH) | [Plain White T's](https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o) | [All That We Needed](https://open.spotify.com/album/4vUClKTFaDWnsHE8rK52GY) | 3:52 | 2021-07-19 | 2022-09-23 |
 | [Hey Ya!](https://open.spotify.com/track/2PpruBYCo4H7WOBJ7Q2EwM) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 3:55 | 2021-07-19 |  |
 | [Hey, Soul Sister](https://open.spotify.com/track/4HlFJV71xXKIGcU3kRyttv) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Save Me, San Francisco \(Golden Gate Edition\)](https://open.spotify.com/album/1CwXS6MAz8Wo7K4TzW9iuR) | 3:36 | 2021-07-19 |  |
 | [Hey, Soul Sister](https://open.spotify.com/track/5i0eU4qWEhgsDcG6xO5yvy) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Save Me, San Francisco](https://open.spotify.com/album/31JOfqUiCWs5facQRPdeUk) | 3:36 | 2021-07-19 | 2022-07-22 |
 | [High Hopes](https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Pray for the Wicked](https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge) | 3:10 | 2021-07-19 |  |
 | [Highway to Hell](https://open.spotify.com/track/2zYzyRzz6pRmhPzyfMEC8s) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Highway to Hell](https://open.spotify.com/album/10v912xgTZbjAtYfyKWJCS) | 3:28 | 2021-07-19 |  |
 | [hot girl bummer](https://open.spotify.com/track/6jRq8gaZhMUyy5RclRPcAf) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [everything means nothing](https://open.spotify.com/album/4UxlLk460BnmQlRV3WiORh) | 3:08 | 2021-07-19 |  |
+| [How to Save a Life](https://open.spotify.com/track/5fVZC9GiM4e8vu99W0Xf6J) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [How To Save A Life](https://open.spotify.com/album/1IM3GwptCGYjRkzCBolyFK) | 4:22 | 2021-07-19 |  |
 | [Human](https://open.spotify.com/track/1sTsuZTdANkiFd7T34H3nb) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Day & Age \(Bonus Tracks\)](https://open.spotify.com/album/0Ug5scDXUIgGN8yanDBLQw) | 4:05 | 2021-07-19 | 2022-07-29 |
 | [I Don't Feel Like Dancin' \- Radio Edit](https://open.spotify.com/track/1qEHgdFqUxFebMPk8s2HLY) | [Scissor Sisters](https://open.spotify.com/artist/3Y10boYzeuFCJ4Qgp53w6o) | [I Don't Feel Like Dancin'](https://open.spotify.com/album/6LPpLYrjQYKtMfDUT1qjOz) | 4:08 | 2021-07-19 | 2022-07-28 |
 | [I Don't Want to Miss a Thing \- From "Armageddon" Soundtrack](https://open.spotify.com/track/6lEuFGrUqR9Yc6hSsHPnYP) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [I Don't Want To Miss A Thing EP](https://open.spotify.com/album/4GYrE0hDKjM0v6EQIjkBV3) | 4:59 | 2021-07-19 | 2022-06-12 |

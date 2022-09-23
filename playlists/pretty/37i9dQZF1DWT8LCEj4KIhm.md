@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8LCEj4KIhm.md) - [plain]
 
 > Désormais, aucune raison de se faire ch\*\*r au gym.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,039 likes - 75 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,038 likes - 75 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8LCEj4KIhm.md) - [plain]
 | 62 | [P6](https://open.spotify.com/track/3jVJeAslQXRX5FEnOu0NEP) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [P6](https://open.spotify.com/album/3w6GFeovX4Maso1xtfWFRv) | 3:38 |
 | 63 | [Sweat](https://open.spotify.com/track/0drXYOymxrIl2lzhVnsiMH) | [DJ Assad](https://open.spotify.com/artist/1PpMfsOyfZ3nmcSoiIohpC), [Laurell](https://open.spotify.com/artist/69Pm1OWlxk1tbYphlkcKHR) | [Sweat](https://open.spotify.com/album/0r5iMvc6l6oJDyHgQLMxaT) | 3:24 |
 | 64 | [Higher](https://open.spotify.com/track/02rpa9omMkxHb1wrA5dNyR) | [Breathe Carolina](https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC), [Jordan Jay](https://open.spotify.com/artist/3htJBdRyfwyCTKgpZAj6pY) | [Higher](https://open.spotify.com/album/4vsPp7l8q37wmtnSAJkfmb) | 2:22 |
-| 65 | [Le monde est à nous](https://open.spotify.com/track/4QYpXezeMH6SkpIqT8nFM2) | [Poirier](https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4), [Imposs](https://open.spotify.com/artist/7jAs3bSFCCU88rzme8E9fz) | [Le monde est à nous](https://open.spotify.com/album/2GO68pEg33eudiyr8GuxH6) | 3:12 |
-| 66 | [Fantasy](https://open.spotify.com/track/6O7c7tf1FQsrb3gjJX3oZk) | [BIJOU](https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA), [DLMT](https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF), [Vannah](https://open.spotify.com/artist/4jwv3a7juNAOTSjZrkuz0P) | [Fantasy](https://open.spotify.com/album/5gcFASqSTMjuLNhcrrcs5L) | 3:20 |
+| 65 | [Fantasy](https://open.spotify.com/track/6O7c7tf1FQsrb3gjJX3oZk) | [BIJOU](https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA), [DLMT](https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF), [Vannah](https://open.spotify.com/artist/4jwv3a7juNAOTSjZrkuz0P) | [Fantasy](https://open.spotify.com/album/5gcFASqSTMjuLNhcrrcs5L) | 3:20 |
+| 66 | [Le monde est à nous](https://open.spotify.com/track/4QYpXezeMH6SkpIqT8nFM2) | [Poirier](https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4), [Imposs](https://open.spotify.com/artist/7jAs3bSFCCU88rzme8E9fz) | [Le monde est à nous](https://open.spotify.com/album/2GO68pEg33eudiyr8GuxH6) | 3:12 |
 | 67 | [Barquette](https://open.spotify.com/track/7cWl7ZJwmuvwxYroIq8eY3) | [Benny Adam](https://open.spotify.com/artist/31Gbv2WFzy6QX0X6DkGiHA) | [La Barquetterie](https://open.spotify.com/album/1NrmMEOZY5M0AwC1Dokqef) | 2:32 |
 | 68 | [L’orage](https://open.spotify.com/track/3t65ml1XmFNg4OmFr7v2ps) | [Eli Rose](https://open.spotify.com/artist/6RBs2gBQlEgSAITbC9wB6h) | [L'orage](https://open.spotify.com/album/28WSPAryhYDtCL8526dp2j) | 3:14 |
 | 69 | [Je suis à toi \(Moto Blanco Remix\)](https://open.spotify.com/track/0rVUCy43dmcchGcOWvlgY0) | [Lara Fabian](https://open.spotify.com/artist/7ocwZINHqO9DZJgFtc1B20) | [Je suis à toi \(MOTO BLANCO REMIX\)](https://open.spotify.com/album/1QNn9u3t1LaW6A2l4napNa) | 3:17 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8LCEj4KIhm.md) - [plain]
 | 72 | [Miroir](https://open.spotify.com/track/0Eolm1QSRMxzaVS3w8JxW1) | [Mody](https://open.spotify.com/artist/6dkxSINLJmaCC2uxuM61ds) | [Miroir](https://open.spotify.com/album/2P8kIb8QyEW46PLCGbhFgS) | 3:19 |
 | 73 | [Faire la fête](https://open.spotify.com/track/3IgiHFixYUbhXSWpEWlW0D) | [Jacobus](https://open.spotify.com/artist/1nNrgL7FuM2jY8DI5GdyZ7), [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP) | [Faire la fête](https://open.spotify.com/album/1auuOciKDCZF7BVNXLRugS) | 3:19 |
 | 74 | [Première ministre](https://open.spotify.com/track/25eiHmARIEqh9yaUQthf0s) | [Laurence Nerbonne](https://open.spotify.com/artist/1fPc13ccCnGx3gdESGBhYQ) | [Première ministre](https://open.spotify.com/album/12ROayPFNHCQowWjJvdr6Q) | 2:45 |
-| 75 | [Comme dans les films](https://open.spotify.com/track/5bxaSSnEhbc8u7diN1jY69) | [Alexe](https://open.spotify.com/artist/25OceRescHJwftJk284v8K) | [Comme dans les films](https://open.spotify.com/album/0pNRPtiKdcXRyHDX8Qizzv) | 3:03 |
+| 75 | [Girl Code](https://open.spotify.com/track/0pLRmqULQgr2WkAdgLN4mh) | [Mikalya](https://open.spotify.com/artist/7jv66bdVdkdIlPvEizxV1f), [Odreii](https://open.spotify.com/artist/7an95q1yJtdFUi57D6Emrn), [Nissa Seych](https://open.spotify.com/artist/3LzKJ6aOX8uEf7b2rli5Uc) | [Girl Code](https://open.spotify.com/album/5uB4Q0FuEmGPweQ1pT83nr) | 2:23 |
 
-Snapshot ID: `MTYzMzY2NTY2MCwwMDAwMDAwMDRlYjAzZTQ2YTJjODNjNTA3NDc1NWJjNjE2OTA4NGFj`
+Snapshot ID: `MTYzMzY2NTY2MCwwMDAwMDAwMDIyODI0YjgzMGUwYWM3ZTU2YWUxMzBlZDFhYmFlNmI5`

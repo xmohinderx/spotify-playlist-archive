@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KDoWqpOwcW.md) - [plain]
 
 > El soundtrack oficial de la Liga Mexicana de Beisbol ⚾️🏟🧢
 
-[Spotify](https://open.spotify.com/user/spotify) - 473 likes - 125 songs - 7 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 501 likes - 125 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KDoWqpOwcW.md) - [plain]
 | 38 | [Tusa](https://open.spotify.com/track/7k4t7uLgtOxPwTpFmtJNTY) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Tusa](https://open.spotify.com/album/7mKevNHhVnZER3BLgI8O4F) | 3:20 |
 | 39 | [La Santa](https://open.spotify.com/track/69vlMrzHwATKzupwNcUPyK) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 3:26 |
 | 40 | [Adiós Amor](https://open.spotify.com/track/63bmZnBN1CiJ9sA4qTEe8y) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Me Dejé Llevar](https://open.spotify.com/album/2XHw4PFHT6srg7dxA3yrKv) | 3:19 |
-| 41 | [SAOKO](https://open.spotify.com/track/2FYGZDfsAnNsrm1gVbyKnG) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 2:17 |
-| 42 | [Me Rehúso](https://open.spotify.com/track/6De0lHrwBfPfrhorm9q1Xl) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Me Rehúso](https://open.spotify.com/album/4RrvIEhnaHKpFxsjXc4D7d) | 3:25 |
+| 41 | [Me Rehúso](https://open.spotify.com/track/6De0lHrwBfPfrhorm9q1Xl) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Me Rehúso](https://open.spotify.com/album/4RrvIEhnaHKpFxsjXc4D7d) | 3:25 |
+| 42 | [SAOKO](https://open.spotify.com/track/2FYGZDfsAnNsrm1gVbyKnG) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 2:17 |
 | 43 | [Lo Que Pasó, Pasó](https://open.spotify.com/track/26QKsGW4hMuwiEE1ftUMHe) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Barrio Fino \(Bonus Track Version\)](https://open.spotify.com/album/4pLuE50wL9T26lSv42X0J2) | 3:30 |
 | 44 | [Danza Kuduro](https://open.spotify.com/track/2a1o6ZejUi8U3wzzOtCOYw) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Lucenzo](https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E) | [Meet The Orphans](https://open.spotify.com/album/6mGDfbDErYIJsmSewvccWm) | 3:18 |
 | 45 | [Perdóname](https://open.spotify.com/track/6yLqoieklk9gwabLaUDJ4s) | [La Factoria](https://open.spotify.com/artist/4VsbQvC84B8Z3IsBY1HLQy), [Eddy Lover](https://open.spotify.com/artist/7gR53ad9JjCweCv4f9MWEX) | [Nuevas Metas](https://open.spotify.com/album/3jjhGPZjbKkW8b85zd7vfE) | 4:02 |
@@ -79,12 +79,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KDoWqpOwcW.md) - [plain]
 | 69 | [Qué Maldición](https://open.spotify.com/track/2RxC2peY3FtrurYmbbmanr) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Qué Maldición](https://open.spotify.com/album/3w8ZmQeTQo1390hdupmxvJ) | 3:23 |
 | 70 | [Sangoloteadito](https://open.spotify.com/track/6X0EfHtuMNjZXFma8x7uv1) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Bandido de Amores](https://open.spotify.com/album/02hrAwGoK0AxRiQcl4oOST) | 3:02 |
 | 71 | [A Través del Vaso](https://open.spotify.com/track/1x5Fqllow3ngr5euK3hXSw) | [Grupo Arranke](https://open.spotify.com/artist/1A773r2lVYAnmt8uwb5BOu) | [A Través del Vaso](https://open.spotify.com/album/7vT5aK4tV66WR8OH16gKjn) | 3:08 |
-| 72 | [Feliz Feliz](https://open.spotify.com/track/0JZV1UuBsbSwHhGirgWaXI) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Mi Mexico Querido](https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1) | 3:37 |
-| 73 | [Who Let The Dogs Out](https://open.spotify.com/track/1H5tvpoApNDxvxDexoaAUo) | [Baha Men](https://open.spotify.com/artist/67FFKYikvTlvsPNk4NPOYJ) | [Who Let The Dogs Out](https://open.spotify.com/album/44UH34qoCNNfEqo0VnOkGd) | 3:18 |
+| 72 | [Who Let The Dogs Out](https://open.spotify.com/track/1H5tvpoApNDxvxDexoaAUo) | [Baha Men](https://open.spotify.com/artist/67FFKYikvTlvsPNk4NPOYJ) | [Who Let The Dogs Out](https://open.spotify.com/album/44UH34qoCNNfEqo0VnOkGd) | 3:18 |
+| 73 | [Feliz Feliz](https://open.spotify.com/track/0JZV1UuBsbSwHhGirgWaXI) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Mi Mexico Querido](https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1) | 3:37 |
 | 74 | [Hip Hop Hooray](https://open.spotify.com/track/1SyQ6t9RdRBK0QUCS6a797) | [Naughty By Nature](https://open.spotify.com/artist/4Otx4bRLSfpah5kX8hdgDC) | [19 Naughty III](https://open.spotify.com/album/1APlzmzWwXz3ElpmdWF5KA) | 4:27 |
 | 75 | [Brujeria](https://open.spotify.com/track/0k1hbeZodoEw34FAdbh8xM) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [Aqui No Se Sienta Nadie!](https://open.spotify.com/album/18m4lag970uk1AMSvaUZmg) | 3:25 |
-| 76 | [Reggaeton](https://open.spotify.com/track/2D3z17LBMJ2HEHeBFFjTLi) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Reggaeton](https://open.spotify.com/album/5FMJB2xKTMGdM3w6DmC6L5) | 2:38 |
-| 77 | [Suavecito Suavecito](https://open.spotify.com/track/6cKWDVak6o362TElLvwtmU) | [Laura Leon](https://open.spotify.com/artist/1dON8KmX1N7ZPHCRyhK2hX) | [15 Éxitos](https://open.spotify.com/album/48FUru9enVg1NlLrkZyJW6) | 3:45 |
+| 76 | [Suavecito Suavecito](https://open.spotify.com/track/6cKWDVak6o362TElLvwtmU) | [Laura Leon](https://open.spotify.com/artist/1dON8KmX1N7ZPHCRyhK2hX) | [15 Éxitos](https://open.spotify.com/album/48FUru9enVg1NlLrkZyJW6) | 3:45 |
+| 77 | [Reggaeton](https://open.spotify.com/track/2D3z17LBMJ2HEHeBFFjTLi) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Reggaeton](https://open.spotify.com/album/5FMJB2xKTMGdM3w6DmC6L5) | 2:38 |
 | 78 | [Cumbia Buena](https://open.spotify.com/track/74pSi4Ukm4geJABToCxGgr) | [Grupo la Cumbia](https://open.spotify.com/artist/4pInEVYnkBM7SjkcNrS33s) | [Cumbia Buena](https://open.spotify.com/album/2hKZd4cGeRpBrO8R8YegAB) | 3:33 |
 | 79 | [El Botecito](https://open.spotify.com/track/2DzLlUtscN7QECJ6E3yvHE) | [Los Hijos Del Pueblo](https://open.spotify.com/artist/35hWST2f8cTTFbGzQZzGTZ) | [El Botecito](https://open.spotify.com/album/3F17x1qqSjZBxMCwxbnupP) | 2:30 |
 | 80 | [Tiburon](https://open.spotify.com/track/2GcjfckZexh9wRRjg9KtQG) | [Proyecto Uno](https://open.spotify.com/artist/6w1XCiB8efbfnusJ2jzmvu) | [In Da House](https://open.spotify.com/album/6AbWKVD3idhjdTxk7BQtKe) | 5:03 |
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KDoWqpOwcW.md) - [plain]
 | 90 | [Matador \- Remasterizado 2008](https://open.spotify.com/track/7d4pdMym8ZBOgf1oVPTiPb) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [Vasos Vacíos](https://open.spotify.com/album/54A9Agody2BGDXtTGMdFn4) | 4:35 |
 | 91 | [I'm A Believer \- Radio Edit](https://open.spotify.com/track/1RC5Mb0VhnlhnMlFDnrvE0) | [Smash Mouth](https://open.spotify.com/artist/2iEvnFsWxR0Syqu2JNopAd) | [Smash Mouth](https://open.spotify.com/album/0E0q3hPeALlDvoDvYztYeH) | 3:03 |
 | 92 | [Rock Lobster](https://open.spotify.com/track/2Q5wSOwq6BDSu7sSVMNrtT) | [The B\-52's](https://open.spotify.com/artist/3gdbcIdNypBsYNu3iiCjtN) | [The B\-52's](https://open.spotify.com/album/3eXETk1esvZPRluDCWH3GN) | 6:49 |
-| 93 | [Payaso de rodeo](https://open.spotify.com/track/0EVcfyLGhkvm2RMXMWI456) | [Caballo Dorado](https://open.spotify.com/artist/38yOUctO9eek9ti5NWMQXm) | [Payaso de rodeo](https://open.spotify.com/album/1NMqmkX9KhLoy5fXxtiS5S) | 4:14 |
-| 94 | [Pegao / Me Miro y La Mire \- TikTok Hit](https://open.spotify.com/track/4Pzk85DqWoLqptyA5IlhLk) | [Omega](https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0) | [Pegao / Me Miro y La Mire \(TikTok Hit\)](https://open.spotify.com/album/2owNg3nikzMzLuQy9n0Jqz) | 3:36 |
+| 93 | [Pegao / Me Miro y La Mire \- TikTok Hit](https://open.spotify.com/track/4Pzk85DqWoLqptyA5IlhLk) | [Omega](https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0) | [Pegao / Me Miro y La Mire \(TikTok Hit\)](https://open.spotify.com/album/2owNg3nikzMzLuQy9n0Jqz) | 3:36 |
+| 94 | [Payaso de rodeo](https://open.spotify.com/track/0EVcfyLGhkvm2RMXMWI456) | [Caballo Dorado](https://open.spotify.com/artist/38yOUctO9eek9ti5NWMQXm) | [Payaso de rodeo](https://open.spotify.com/album/1NMqmkX9KhLoy5fXxtiS5S) | 4:14 |
 | 95 | [La Guitarra de Lolo \(Huapango\)](https://open.spotify.com/track/13dUAJU2seBDHy3VVBSO4i) | [La Kumbre Con K](https://open.spotify.com/artist/4YsOJficccPjUQ8xGgObh3) | [10 Pa' Huapanguear](https://open.spotify.com/album/4XEQwR2ThYEitmYIv9g4Di) | 3:18 |
 | 96 | [Provócame](https://open.spotify.com/track/3wnpHn5p1XuiNSNOCJOCxs) | [Banda Tierra Sagrada](https://open.spotify.com/artist/0v7JYEoQOQbzNNESKwxmzT) | [Ajeno](https://open.spotify.com/album/4lDfHHRW5vhZQkqmUf9WQO) | 3:00 |
 | 97 | [La culebra](https://open.spotify.com/track/6bJlR3XVNgAOIkKdiKkZz4) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [25 Bandazos de Machos \(Vol\. 1\) \[USA\]](https://open.spotify.com/album/641IjGwd385qV3RVouieUv) | 3:08 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KDoWqpOwcW.md) - [plain]
 | 124 | [No Soy Monedita de Oro](https://open.spotify.com/track/4rbH1Mh7HDIhx1tsXSFQvq) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Los 20 Mejores Corridos y Rancheras, Vol\. 2](https://open.spotify.com/album/1JXX5Z7nbAS2P2t8fH7S73) | 3:20 |
 | 125 | [El Toro Viejo \- Huapango](https://open.spotify.com/track/62zRGMj7CUz3aN1g3gSev8) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Con Banda](https://open.spotify.com/album/2525QjTlcuO1zaYoBCl1Z9) | 2:52 |
 
-Snapshot ID: `MTY2MjU3MDkyMSwwMDAwMDAwMDA2ZGY1NTA5M2ZiNjY2MjRhOWJiNGM1YjQ0Njg5MjU2`
+Snapshot ID: `MTY2MjU3MDkyMSwwMDAwMDAwMGE3OGVlOTIzNjgwYWYzMzI0YjllYzZmOThiZWQwNmJm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJNOeepZTGy.md) - [plain]
 
 > As you prepare and settle into your romantic dinner, let us provide the soundtrack with these RnB/Soul love songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 242,797 likes - 50 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 242,835 likes - 50 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,10 +19,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJNOeepZTGy.md) - [plain]
 | 9 | [Sweet Love](https://open.spotify.com/track/4xVXe1VS5zlQyECVk6GRrL) | [Anita Baker](https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG) | [Sweet Love](https://open.spotify.com/album/5ua8gCeWXrvivM9hfVCXhD) | 4:22 |
 | 10 | [Knocks Me Off My Feet](https://open.spotify.com/track/4o1E2c0ye1RlIJJqOM0dqP) | [Donell Jones](https://open.spotify.com/artist/5KNqYrivNgVCHBssEUSu5B) | [My Heart](https://open.spotify.com/album/1YylipCwfGRhRc4j3vJzwV) | 3:42 |
 | 11 | [I Love You](https://open.spotify.com/track/6gsmFgUiSTuinJlScwFODv) | [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn) | [Faithfully](https://open.spotify.com/album/0pP9NBXbbRH2ZJb7fazkZy) | 4:27 |
-| 12 | [Inside My Love \- Remastered](https://open.spotify.com/track/1HdNTlZrGTlgxDn31GB6Sv) | [Minnie Riperton](https://open.spotify.com/artist/2i1IdHG5w0wiSmJGoqAGlj) | [Capitol Gold: The Best Of Minnie Riperton](https://open.spotify.com/album/1Zc6fY5TjkirFsQIeX7KFL) | 3:58 |
+| 12 | [Nice & Slow \- Ryan James Carr Remake](https://open.spotify.com/track/31YudjfCQCpRYDeDMskWGh) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Ryan James Carr](https://open.spotify.com/artist/5V5f4rVZkRnl5O17X1vDM1) | [My Way \(25th Anniversary Edition\)](https://open.spotify.com/album/3ideAfrVvWpeZkKB9fOz81) | 3:12 |
 | 13 | [Knocks Me Off My Feet](https://open.spotify.com/track/4C5GsegFD0j5ujSr1y93Oj) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Songs In The Key Of Life](https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0) | 3:36 |
-| 14 | [For Real](https://open.spotify.com/track/0sxEHZ8WEPPTWGFXYBdB3O) | [Amel Larrieux](https://open.spotify.com/artist/4hVcxmC7igpot32EzQf7IR) | [Bravebird](https://open.spotify.com/album/4ifJLmQAJIUsAPmm6pnxJw) | 3:46 |
-| 15 | [Nice & Slow \- Ryan James Carr Remake](https://open.spotify.com/track/31YudjfCQCpRYDeDMskWGh) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Ryan James Carr](https://open.spotify.com/artist/5V5f4rVZkRnl5O17X1vDM1) | [My Way \(25th Anniversary Edition\)](https://open.spotify.com/album/3ideAfrVvWpeZkKB9fOz81) | 3:12 |
+| 14 | [Inside My Love \- Remastered](https://open.spotify.com/track/1HdNTlZrGTlgxDn31GB6Sv) | [Minnie Riperton](https://open.spotify.com/artist/2i1IdHG5w0wiSmJGoqAGlj) | [Capitol Gold: The Best Of Minnie Riperton](https://open.spotify.com/album/1Zc6fY5TjkirFsQIeX7KFL) | 3:58 |
+| 15 | [For Real](https://open.spotify.com/track/0sxEHZ8WEPPTWGFXYBdB3O) | [Amel Larrieux](https://open.spotify.com/artist/4hVcxmC7igpot32EzQf7IR) | [Bravebird](https://open.spotify.com/album/4ifJLmQAJIUsAPmm6pnxJw) | 3:46 |
 | 16 | [Lifetime \- Remastered 2021](https://open.spotify.com/track/0tXq1ob3ysGZN2oK1abtyp) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [Now](https://open.spotify.com/album/3Ul8Nyuzr2AEwE8iSrQepC) | 5:29 |
 | 17 | [sobeautiful](https://open.spotify.com/track/2PN3gbuBn5WBEwrEJH3xiu) | [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [onmyradio](https://open.spotify.com/album/50kPvqerqvDdl0JoWNMukp) | 4:51 |
 | 18 | [For You](https://open.spotify.com/track/4eI8okfmurpexL41RdjkGA) | [Kenny Lattimore](https://open.spotify.com/artist/1UjTUqWfGkof4L5HO5NmzP) | [Kenny Lattimore](https://open.spotify.com/album/1H10hT3tMPtL2uD3rIQRUE) | 3:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJNOeepZTGy.md) - [plain]
 | 49 | [The Ingredients Of Love \(feat\. Musiq Soulchild\)](https://open.spotify.com/track/46ojXpU8hKUPFiDhBwUt6J) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM), [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [Mahogany Soul](https://open.spotify.com/album/1pJld4hH1xL3ONIlWZEhXw) | 3:56 |
 | 50 | [Lovin' You](https://open.spotify.com/track/1JPJQLSYAvPp4qnzC8Uk6Y) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [The Essential O'Jays](https://open.spotify.com/album/4pdU7xetOuKZTvpqW5Kor8) | 5:17 |
 
-Snapshot ID: `MTY2MzMwMDg2MCwwMDAwMDAwMGMwM2Q3ODYyODk3NzBjZjljOGRhMDY2YjRkNDU1NDYy`
+Snapshot ID: `MTY2MzMwMDg2MCwwMDAwMDAwMGJmZjFiN2MzOGEzZDA3N2IzMDljYjgyZTBjZDU2ZTA5`

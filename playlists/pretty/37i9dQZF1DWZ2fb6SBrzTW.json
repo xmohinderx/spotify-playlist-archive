@@ -1,12 +1,12 @@
 {
   "description": "Your go to Afrobeats workout playlist ",
-  "num_followers": 6330,
+  "num_followers": 6349,
   "original_name": "Keep Fit Club ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzU3MjQ0MiwwMDAwMDAwMDdkMmUyZmEwZDE1MTg3NTIzODdjYzBmN2M2NGNhYzg4",
+  "snapshot_id": "MTY2MzU3MjQ0MiwwMDAwMDAwMGYyYjk0M2VhMzkxYTIwZTFkMzA1MmY4NzhmMTQzMmFl",
   "tracks": [
     {
       "added_at": "2022-08-26 13:01:27",
@@ -53,22 +53,6 @@
       "url": "https://open.spotify.com/track/4eZZofkV1OQ9GDqAgHqNpA"
     },
     {
-      "added_at": "2022-06-16 23:00:00",
-      "album": {
-        "name": "The Second Wave Deluxe",
-        "url": "https://open.spotify.com/album/6dvqARQzWnVbGym9dEWw4Y"
-      },
-      "artists": [
-        {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        }
-      ],
-      "duration_ms": 196800,
-      "name": "Girlfriend",
-      "url": "https://open.spotify.com/track/4MzOppXoeKvDsVaNMeOK3C"
-    },
-    {
       "added_at": "2022-09-19 07:27:22",
       "album": {
         "name": "Bad To Me",
@@ -83,6 +67,22 @@
       "duration_ms": 176850,
       "name": "Bad To Me",
       "url": "https://open.spotify.com/track/2pUlBBWq8R10ylbBvZJV9j"
+    },
+    {
+      "added_at": "2022-06-16 23:00:00",
+      "album": {
+        "name": "The Second Wave Deluxe",
+        "url": "https://open.spotify.com/album/6dvqARQzWnVbGym9dEWw4Y"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        }
+      ],
+      "duration_ms": 196800,
+      "name": "Girlfriend",
+      "url": "https://open.spotify.com/track/4MzOppXoeKvDsVaNMeOK3C"
     },
     {
       "added_at": "2022-09-19 07:27:22",
@@ -233,26 +233,6 @@
       "url": "https://open.spotify.com/track/5d5SZVEn8rsEA7aOEUn4DU"
     },
     {
-      "added_at": "2022-05-12 23:00:00",
-      "album": {
-        "name": "PALAZZO",
-        "url": "https://open.spotify.com/album/2O2xKMqPSpnYYQMk5DPSTf"
-      },
-      "artists": [
-        {
-          "name": "SPINALL",
-          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
-        },
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 186002,
-      "name": "PALAZZO",
-      "url": "https://open.spotify.com/track/2SaRkvUkzNzL39fBB2hLpt"
-    },
-    {
       "added_at": "2022-07-07 23:00:00",
       "album": {
         "name": "Ijo (Laba Laba)",
@@ -303,6 +283,22 @@
       "duration_ms": 197000,
       "name": "kolomental",
       "url": "https://open.spotify.com/track/6lXOGwFzCglrPMtuysPIUo"
+    },
+    {
+      "added_at": "2022-09-19 07:27:22",
+      "album": {
+        "name": "Rush",
+        "url": "https://open.spotify.com/album/6CvEsGBD3JdbDKpmJaXn2E"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 185093,
+      "name": "Rush",
+      "url": "https://open.spotify.com/track/1rrqJ9QkOBYJlsZgqqwxgB"
     },
     {
       "added_at": "2022-06-16 23:00:00",
@@ -437,20 +433,20 @@
       "url": "https://open.spotify.com/track/3UOg91DTKgZuWsYsV1Zn13"
     },
     {
-      "added_at": "2022-09-19 07:27:22",
+      "added_at": "2021-06-07 12:50:41",
       "album": {
-        "name": "Rush",
-        "url": "https://open.spotify.com/album/6CvEsGBD3JdbDKpmJaXn2E"
+        "name": "Woman",
+        "url": "https://open.spotify.com/album/05ytkPc0ZnkQRwp05V1T8v"
       },
       "artists": [
         {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
         }
       ],
-      "duration_ms": 185093,
-      "name": "Rush",
-      "url": "https://open.spotify.com/track/1rrqJ9QkOBYJlsZgqqwxgB"
+      "duration_ms": 238911,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/62N0RkCCs4XQXk7hgnpOXo"
     },
     {
       "added_at": "2022-09-09 09:20:13",
@@ -469,20 +465,20 @@
       "url": "https://open.spotify.com/track/3UH3DZZNIuUZ78VE2jDsO7"
     },
     {
-      "added_at": "2021-06-07 12:50:41",
+      "added_at": "2022-07-04 07:22:23",
       "album": {
-        "name": "Woman",
-        "url": "https://open.spotify.com/album/05ytkPc0ZnkQRwp05V1T8v"
+        "name": "The Second Wave Deluxe",
+        "url": "https://open.spotify.com/album/6dvqARQzWnVbGym9dEWw4Y"
       },
       "artists": [
         {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
         }
       ],
-      "duration_ms": 238911,
-      "name": "Woman",
-      "url": "https://open.spotify.com/track/62N0RkCCs4XQXk7hgnpOXo"
+      "duration_ms": 173617,
+      "name": "WeWe",
+      "url": "https://open.spotify.com/track/6vy5gmpM2yuLAhDRtGOtPw"
     },
     {
       "added_at": "2022-03-29 06:00:35",
@@ -543,22 +539,6 @@
       "duration_ms": 176842,
       "name": "The Love Song (feat. Wande Coal)",
       "url": "https://open.spotify.com/track/1Dv2XVRbsgjdvGVqFSVYUE"
-    },
-    {
-      "added_at": "2022-07-04 07:22:23",
-      "album": {
-        "name": "The Second Wave Deluxe",
-        "url": "https://open.spotify.com/album/6dvqARQzWnVbGym9dEWw4Y"
-      },
-      "artists": [
-        {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        }
-      ],
-      "duration_ms": 173617,
-      "name": "WeWe",
-      "url": "https://open.spotify.com/track/6vy5gmpM2yuLAhDRtGOtPw"
     },
     {
       "added_at": "2022-06-03 03:54:26",
@@ -749,6 +729,22 @@
       "url": "https://open.spotify.com/track/63oup3T49OzdnDqxS3Xbzb"
     },
     {
+      "added_at": "2022-07-14 23:00:00",
+      "album": {
+        "name": "Polongo",
+        "url": "https://open.spotify.com/album/16FAg2VCwyJBJ68dMANxHa"
+      },
+      "artists": [
+        {
+          "name": "Olakira",
+          "url": "https://open.spotify.com/artist/0rMCvFPIvdoBmgdcVADKQE"
+        }
+      ],
+      "duration_ms": 173076,
+      "name": "Polongo",
+      "url": "https://open.spotify.com/track/5sWkgw4o3DDpIlw906aSr4"
+    },
+    {
       "added_at": "2022-02-24 23:00:00",
       "album": {
         "name": "Mufasa",
@@ -765,20 +761,20 @@
       "url": "https://open.spotify.com/track/3PG45NefxQe8S5gkuJaFd7"
     },
     {
-      "added_at": "2022-07-14 23:00:00",
+      "added_at": "2022-09-19 07:27:22",
       "album": {
-        "name": "Polongo",
-        "url": "https://open.spotify.com/album/16FAg2VCwyJBJ68dMANxHa"
+        "name": "LEADER!",
+        "url": "https://open.spotify.com/album/5ECNF38ye7R9LlzZRgp9YC"
       },
       "artists": [
         {
-          "name": "Olakira",
-          "url": "https://open.spotify.com/artist/0rMCvFPIvdoBmgdcVADKQE"
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
         }
       ],
-      "duration_ms": 173076,
-      "name": "Polongo",
-      "url": "https://open.spotify.com/track/5sWkgw4o3DDpIlw906aSr4"
+      "duration_ms": 141958,
+      "name": "LEADER!",
+      "url": "https://open.spotify.com/track/60VJ0CZ1bV5Ln2n3H1Xo1F"
     },
     {
       "added_at": "2022-07-28 23:00:00",
@@ -815,22 +811,6 @@
       "duration_ms": 179444,
       "name": "My Touch",
       "url": "https://open.spotify.com/track/0ydo79qMlvXi8MMuLFrAl0"
-    },
-    {
-      "added_at": "2022-09-19 07:27:22",
-      "album": {
-        "name": "LEADER!",
-        "url": "https://open.spotify.com/album/5ECNF38ye7R9LlzZRgp9YC"
-      },
-      "artists": [
-        {
-          "name": "Lojay",
-          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
-        }
-      ],
-      "duration_ms": 141958,
-      "name": "LEADER!",
-      "url": "https://open.spotify.com/track/60VJ0CZ1bV5Ln2n3H1Xo1F"
     },
     {
       "added_at": "2022-09-09 09:20:13",
@@ -1211,6 +1191,30 @@
       "duration_ms": 157773,
       "name": "Fvck Off",
       "url": "https://open.spotify.com/track/6suEGaFoeHV8eNQau8itvT"
+    },
+    {
+      "added_at": "2022-06-16 23:00:00",
+      "album": {
+        "name": "Moyo (feat. Costa Titch & Phantom Steeze)",
+        "url": "https://open.spotify.com/album/12PHIJ7XJEjiclcDuljOtE"
+      },
+      "artists": [
+        {
+          "name": "Mbosso",
+          "url": "https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa"
+        },
+        {
+          "name": "Costa Titch",
+          "url": "https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG"
+        },
+        {
+          "name": "Phantom Steeze",
+          "url": "https://open.spotify.com/artist/02XiDOg93e5rFwmPoc7O6S"
+        }
+      ],
+      "duration_ms": 252785,
+      "name": "Moyo (feat. Costa Titch & Phantom Steeze)",
+      "url": "https://open.spotify.com/track/7ekrjUWevBEalqmms6kM3K"
     }
   ],
   "unique_name": "Keep Fit Club ",

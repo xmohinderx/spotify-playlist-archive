@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4908CEYEdlz.md) - [plain]
 
 > Aumente o volume e ouça as bandas que estão com tudo no rock! Foto: Nickelback
 
-[Spotify](https://open.spotify.com/user/spotify) - 705,901 likes - 75 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 705,881 likes - 75 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4908CEYEdlz.md) - [plain]
 | 26 | [More Than Machines](https://open.spotify.com/track/1y1l61KJCj8EDE35iS4ZgC) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa) | [More Than Machines](https://open.spotify.com/album/3h4MWIFNt3pb3IHaifAW83) | 3:21 |
 | 27 | [What's the Trick?](https://open.spotify.com/track/14FW5L81Px03LnnsXnB2LG) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Fear Of The Dawn](https://open.spotify.com/album/46qeiLBu3KwqFQpJBT7t6B) | 3:34 |
 | 28 | [Out Of Style](https://open.spotify.com/track/06nmwVr0Ev16QnVXsQXSf1) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [STILL SUCKS](https://open.spotify.com/album/2lZ9RqGnGXH8gtH3DK02tJ) | 3:22 |
-| 29 | [City Of The Dead](https://open.spotify.com/track/39sHS8PN9SDZSZ7w1wjRYb) | [Hollywood Undead](https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E) | [City Of The Dead](https://open.spotify.com/album/36OypNDN6ZVkr5u08ZCmJG) | 2:53 |
-| 30 | [No More Tears To Cry](https://open.spotify.com/track/11beGBTthT9XhdQXYFkajZ) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [No More Tears To Cry](https://open.spotify.com/album/0aAcMNWv3LRwqpRa6rb7X0) | 3:41 |
+| 29 | [No More Tears To Cry](https://open.spotify.com/track/11beGBTthT9XhdQXYFkajZ) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [No More Tears To Cry](https://open.spotify.com/album/0aAcMNWv3LRwqpRa6rb7X0) | 3:41 |
+| 30 | [City Of The Dead](https://open.spotify.com/track/39sHS8PN9SDZSZ7w1wjRYb) | [Hollywood Undead](https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E) | [City Of The Dead](https://open.spotify.com/album/36OypNDN6ZVkr5u08ZCmJG) | 2:53 |
 | 31 | [Nowhere Generation](https://open.spotify.com/track/74zUPQTB6HMnfS1cagJnd8) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Nowhere Generation](https://open.spotify.com/album/0NaOsrcxpNfSIPtTkazQdI) | 3:52 |
 | 32 | [Wouldn’t Change A Thing](https://open.spotify.com/track/1nxolqTzRn39brCPRk5f8v) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [Wouldn’t Change A Thing](https://open.spotify.com/album/6G2HZJQGGtURKxrOdf3czb) | 3:07 |
 | 33 | [Take What You Want](https://open.spotify.com/track/0frtdZ0KWaYQJGvPvsS6YO) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Diamond Star Halos](https://open.spotify.com/album/5arLkguGPIDSGzCT8Cjt6K) | 4:14 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4908CEYEdlz.md) - [plain]
 | 74 | [The People That We Love \- Golden Dub Remix](https://open.spotify.com/track/1QJpxlH4M7DmSFdIyE7Ekq) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa), [Greg Brimson](https://open.spotify.com/artist/52Fd5EqIgOlMWe3yqd1YMe) | [Golden State \(20th Anniversary Expanded Version\)](https://open.spotify.com/album/43TsRvNOblRitRDfdgu4VS) | 5:42 |
 | 75 | [Keep It Away](https://open.spotify.com/track/4PBj43xrepBtpGDcrVewUf) | [Fuel](https://open.spotify.com/artist/0EyuKHE1AeE9lWUF8mzKVp) | [Keep It Away](https://open.spotify.com/album/56a0YTfgc8pSSmvdD381eB) | 3:41 |
 
-Snapshot ID: `MTY2MjY5MjQ2MCwwMDAwMDAwMGI0YThjZTFlNmI1NDM5ZjY3NTNjZjUyOWNjYTM3YTMz`
+Snapshot ID: `MTY2MjY5MjQ2MCwwMDAwMDAwMDg2OTQ4ZWQzZjUyZTMyYTNhYzM3YmVkMzBiMDUxMWM4`

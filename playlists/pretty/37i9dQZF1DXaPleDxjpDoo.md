@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPleDxjpDoo.md) - [plain]
 
 > Bathe in Ambient and nature sounds and reconnect to nature, with the Japanese practice of shinrin yoku.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47 likes - 60 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 52 likes - 60 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

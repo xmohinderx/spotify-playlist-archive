@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFCN8nsm6zC.md) - [plain]
 
 > Rock for the road\. Cover: The Strokes
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,322 likes - 70 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,356 likes - 70 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFCN8nsm6zC.md) - [plain]
 | 20 | [Time to Pretend](https://open.spotify.com/track/4iG2gAwKXsOcijVaVXzRPW) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 4:21 |
 | 21 | [Jeremy](https://open.spotify.com/track/62nQ8UZVqR2RMvkJHkcO2o) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Ten](https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a) | 5:18 |
 | 22 | [Shine](https://open.spotify.com/track/77YKoNCjP5hWqiXMRG2839) | [Collective Soul](https://open.spotify.com/artist/4e5V1Q2dKCzbLVMQ8qbTn6) | [Hints, Allegations & Things Left Unsaid](https://open.spotify.com/album/2B2KQTgQr3UhQf4n2VtoUG) | 5:06 |
-| 23 | [Steady, As She Goes](https://open.spotify.com/track/4xlEKYv7HmC8zXoJIbpZKM) | [The Raconteurs](https://open.spotify.com/artist/4wo1267SJuUfHgasdlfNfc) | [Broken Boy Soldiers](https://open.spotify.com/album/4Z1sCXBHHKWCsScOLAfuig) | 3:35 |
-| 24 | [Gold on the Ceiling](https://open.spotify.com/track/5lN1EH25gdiqT1SFALMAq1) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [El Camino](https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm) | 3:44 |
+| 23 | [Gold on the Ceiling](https://open.spotify.com/track/5lN1EH25gdiqT1SFALMAq1) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [El Camino](https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm) | 3:44 |
+| 24 | [Steady, As She Goes](https://open.spotify.com/track/4xlEKYv7HmC8zXoJIbpZKM) | [The Raconteurs](https://open.spotify.com/artist/4wo1267SJuUfHgasdlfNfc) | [Broken Boy Soldiers](https://open.spotify.com/album/4Z1sCXBHHKWCsScOLAfuig) | 3:35 |
 | 25 | [Monkey Wrench](https://open.spotify.com/track/44wXefe8WB9Fd6xwtmAwbR) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [The Colour And The Shape](https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv) | 3:51 |
 | 26 | [Inside Out](https://open.spotify.com/track/4GiVcDqNQI0fc0yYuRGH9m) | [Eve 6](https://open.spotify.com/artist/4Eqd24yS5YcxI8b6Xfuwr8) | [Eve 6](https://open.spotify.com/album/1qJOmC60ez9RNWPg4ELMBW) | 3:39 |
 | 27 | [Here It Goes Again](https://open.spotify.com/track/1pHP4JeQV9wDx87D6qH9hD) | [OK Go](https://open.spotify.com/artist/3hozsZ9hqNq7CoBGYNlFTz) | [Oh No](https://open.spotify.com/album/1qN6qh1gwgrYTCdSq21gov) | 2:59 |
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFCN8nsm6zC.md) - [plain]
 | 36 | [Amsterdam](https://open.spotify.com/track/454I78HEySdcHE8fcVabTb) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Broken Machine \(Deluxe\)](https://open.spotify.com/album/0r7wrRVD77lNrD9t2QgZrq) | 4:32 |
 | 37 | [Short Skirt / Long Jacket](https://open.spotify.com/track/3OOFEF20WqtsUPcRbPY3L7) | [CAKE](https://open.spotify.com/artist/6A43Djmhbe9100UwnI7epV) | [Comfort Eagle](https://open.spotify.com/album/5OCg9OWnL1PY4tW2ON8ssj) | 3:24 |
 | 38 | [Mountain at My Gates](https://open.spotify.com/track/3f7OyfSoDbQC0LRDQiytPp) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [What Went Down](https://open.spotify.com/album/0RyCpIKlCV0kgEuzrmp73O) | 4:04 |
-| 39 | [Bound For The Floor](https://open.spotify.com/track/3cbTV3IZZvSBYVcl0xuZbY) | [Local H](https://open.spotify.com/artist/415JrPfN7ukaTu8JV8BLE8) | [As Good As Dead](https://open.spotify.com/album/4DY4LZwEjx7zZ3tYtJG5Pl) | 3:42 |
+| 39 | [Cocoon](https://open.spotify.com/track/1B241LRKmK6qDDTZfUajmm) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [The Balcony](https://open.spotify.com/album/0C0OFASoQC57yC12vQhCwN) | 3:56 |
 | 40 | [Last Nite](https://open.spotify.com/track/3SUusuA9jH1v6PVwtYMbdv) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Is This It](https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE) | 3:13 |
-| 41 | [Cocoon](https://open.spotify.com/track/1B241LRKmK6qDDTZfUajmm) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [The Balcony](https://open.spotify.com/album/0C0OFASoQC57yC12vQhCwN) | 3:56 |
+| 41 | [Bound For The Floor](https://open.spotify.com/track/3cbTV3IZZvSBYVcl0xuZbY) | [Local H](https://open.spotify.com/artist/415JrPfN7ukaTu8JV8BLE8) | [As Good As Dead](https://open.spotify.com/album/4DY4LZwEjx7zZ3tYtJG5Pl) | 3:42 |
 | 42 | [Hey Jealousy](https://open.spotify.com/track/4o7ZPI2fmEi3piRe0Hrfpy) | [Gin Blossoms](https://open.spotify.com/artist/6kXp61QMZFPcKMcRPqoiVj) | [New Miserable Experience](https://open.spotify.com/album/484pzryEPqn6KSMLtP2c4f) | 3:56 |
 | 43 | [Pepper](https://open.spotify.com/track/1ng36571Iyov4HBxUClySn) | [Butthole Surfers](https://open.spotify.com/artist/62BcWP4fzR8axESibNQEhs) | [Electriclarryland](https://open.spotify.com/album/7nawZF1eeyTGbrL9OsOCwz) | 4:57 |
 | 44 | [The Hardest Button to Button](https://open.spotify.com/track/3RdQfyk7BBxxIx0zSnCBIw) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Elephant](https://open.spotify.com/album/6D9urpsOWWKtYvF6PaorGE) | 3:32 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFCN8nsm6zC.md) - [plain]
 | 53 | [Wolf Like Me](https://open.spotify.com/track/03wKMRNYVvw6s9nm4I4jUS) | [TV On The Radio](https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR) | [Return To Cookie Mountain](https://open.spotify.com/album/7xn8nwwutlJFMb7Zf9NEHi) | 4:39 |
 | 54 | [Blood In The Cut](https://open.spotify.com/track/4q604hQba5940BbOoaenmz) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Every Where Is Some Where](https://open.spotify.com/album/5ddpf5pxYjw9ob4DjPLuiz) | 3:08 |
 | 55 | [Hard To Explain](https://open.spotify.com/track/0OM9ri37LIbPc9hffwsyb1) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Is This It](https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE) | 3:44 |
-| 56 | [Sex And Candy](https://open.spotify.com/track/3hAaCXvutknQugsPFogh8H) | [Marcy Playground](https://open.spotify.com/artist/7AQzXO3NPNQsI7oNu5rC3r) | [Lunch, Recess & Detention](https://open.spotify.com/album/3TGtyfwv5KOmHENjkY8TQc) | 2:52 |
-| 57 | [E\-Pro](https://open.spotify.com/track/01MBhRpvFkbeRwAp7gcF2W) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Guero](https://open.spotify.com/album/2EugWXUZjr78KJFqZavvZT) | 3:22 |
+| 56 | [E\-Pro](https://open.spotify.com/track/01MBhRpvFkbeRwAp7gcF2W) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Guero](https://open.spotify.com/album/2EugWXUZjr78KJFqZavvZT) | 3:22 |
+| 57 | [Sex And Candy](https://open.spotify.com/track/3hAaCXvutknQugsPFogh8H) | [Marcy Playground](https://open.spotify.com/artist/7AQzXO3NPNQsI7oNu5rC3r) | [Lunch, Recess & Detention](https://open.spotify.com/album/3TGtyfwv5KOmHENjkY8TQc) | 2:52 |
 | 58 | [Little Sister](https://open.spotify.com/track/0BqQWfhMrkpRAUCbdfdHUC) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Lullabies To Paralyze](https://open.spotify.com/album/2OMdsA2I4RxrHCyogwKGvF) | 2:54 |
 | 59 | [Pork And Beans](https://open.spotify.com/track/7wclPheMJAUKn2njmO2s3A) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer \(Red Album\)](https://open.spotify.com/album/6v8wNjiQDhDijoapXXZ9mZ) | 3:09 |
 | 60 | [All My Friends](https://open.spotify.com/track/2Ud3deeqLAG988pfW0Kwcl) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [Sound of Silver](https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X) | 7:42 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFCN8nsm6zC.md) - [plain]
 | 69 | [Diane Young](https://open.spotify.com/track/10f0hrbCBiQk9STrFG3EU7) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Modern Vampires of the City](https://open.spotify.com/album/1GXMNFfoHF4sN7lG8gZq1j) | 2:40 |
 | 70 | [Girl From Mars](https://open.spotify.com/track/1mppNVGh4ipsxIWUUA0QiH) | [Ash](https://open.spotify.com/artist/2evydP72Z45DouM4uMGsIE) | [1977](https://open.spotify.com/album/6WPJ2wQLi4SskpTkmofkr9) | 3:30 |
 
-Snapshot ID: `MTY1NjYxNTMzNiwwMDAwMDAwMDY2YTE5NmJmMGMxZmNlNmEzZGM2YjkzOWEzNWVhYjE1`
+Snapshot ID: `MTY1NjYxNTMzNiwwMDAwMDAwMDRjY2YxZDg3ZDgwY2M0ZmE4YWM3YjViY2I0Mjk2NDhl`

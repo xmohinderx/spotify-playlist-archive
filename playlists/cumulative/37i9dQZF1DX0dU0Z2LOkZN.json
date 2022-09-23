@@ -81,7 +81,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 84637,
       "name": "93.",
       "url": "https://open.spotify.com/track/1qQgYfb28afmiq0G3ecxWj"
@@ -607,7 +607,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 157500,
       "name": "Classic",
       "url": "https://open.spotify.com/track/1oSACtYTXU47tpiYnPAgt5"
@@ -643,7 +643,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 196287,
       "name": "Colours - Instrumental",
       "url": "https://open.spotify.com/track/5mCZhBTtSRx1Ioy0F6rXDI"
@@ -737,7 +737,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 203200,
       "name": "Cruise",
       "url": "https://open.spotify.com/track/2SHOKzFqELTLPVnmVAUH2u"
@@ -777,6 +777,24 @@
       "duration_ms": 139460,
       "name": "D-Bounce",
       "url": "https://open.spotify.com/track/3ZQzuwNNLstDqee25SQzCp"
+    },
+    {
+      "album": {
+        "name": "Daylight",
+        "url": "https://open.spotify.com/album/0gzh82KEGrgzb2IKKnaZxP"
+      },
+      "artists": [
+        {
+          "name": "Slo Five",
+          "url": "https://open.spotify.com/artist/5irIh5qdcXwDG9p7EWegeN"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136261,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/5eMcv6nVdSr6hZ2X53W1kt"
     },
     {
       "album": {
@@ -993,7 +1011,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 188749,
       "name": "Dream Big",
       "url": "https://open.spotify.com/track/5AFPlDsgf5GGuET3M2myGC"
@@ -2779,7 +2797,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 99545,
       "name": "Poetree",
       "url": "https://open.spotify.com/track/7IJEcchCTSdeEwiK226KLG"
@@ -2931,6 +2949,28 @@
       "duration_ms": 178604,
       "name": "Renegades",
       "url": "https://open.spotify.com/track/2aW6bhzUQ53imrld5G8VKY"
+    },
+    {
+      "album": {
+        "name": "Return to my roots",
+        "url": "https://open.spotify.com/album/6x4mKSCAqfqATVQH1ZFN60"
+      },
+      "artists": [
+        {
+          "name": "Mr. Donsai",
+          "url": "https://open.spotify.com/artist/7lw3xexSn1fipl8UlSXtpX"
+        },
+        {
+          "name": "Chill Moon Music",
+          "url": "https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100576,
+      "name": "Return to my roots",
+      "url": "https://open.spotify.com/track/3qHxHvt1cQ6SrrK76Ty0Gy"
     },
     {
       "album": {
@@ -3633,7 +3673,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 92897,
       "name": "Trillest",
       "url": "https://open.spotify.com/track/5b55DpeadBEClX3VLhaB8d"

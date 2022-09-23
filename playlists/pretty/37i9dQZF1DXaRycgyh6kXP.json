@@ -1,12 +1,12 @@
 {
   "description": "Delicate digital expressions of the heart.",
-  "num_followers": 133420,
+  "num_followers": 133560,
   "original_name": "Electronica Romantica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Mzg1NjIwNiwwMDAwMDAwMGE2ZWIyNDFmNzZhNzJkNDk4ZjgyNGM2ODM5MTI4OGI2",
+  "snapshot_id": "MTY0Mzg1NjIwNiwwMDAwMDAwMDdkMWMwYmY5MTRiZTNjNTBjYWJiY2EzM2I0NWZmM2Jm",
   "tracks": [
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Fourth Wall",
-        "url": "https://open.spotify.com/album/6f5i8vNHXp944iy5UPvSI7"
-      },
-      "artists": [
-        {
-          "name": "Harvey Causon",
-          "url": "https://open.spotify.com/artist/7CfGxgCfRwumbKatrTjC4d"
-        }
-      ],
-      "duration_ms": 245123,
-      "name": "Half Hour Verve",
-      "url": "https://open.spotify.com/track/6YdpCujgKQpiFWtmin0E6k"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "EARS",
         "url": "https://open.spotify.com/album/4TRKhrBtgzRO8XcoKbj4DZ"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 184586,
       "name": "Stratus",
       "url": "https://open.spotify.com/track/0DuKfzPUyHNS92DuruNqpK"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "Fourth Wall",
+        "url": "https://open.spotify.com/album/6f5i8vNHXp944iy5UPvSI7"
+      },
+      "artists": [
+        {
+          "name": "Harvey Causon",
+          "url": "https://open.spotify.com/artist/7CfGxgCfRwumbKatrTjC4d"
+        }
+      ],
+      "duration_ms": 245123,
+      "name": "Half Hour Verve",
+      "url": "https://open.spotify.com/track/6YdpCujgKQpiFWtmin0E6k"
     },
     {
       "added_at": "2022-02-03 02:43:26",

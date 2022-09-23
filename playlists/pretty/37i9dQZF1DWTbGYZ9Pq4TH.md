@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbGYZ9Pq4TH.md) - [plain]
 
 > Le tracce italiane più romantiche di sempre.
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,135 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,145 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbGYZ9Pq4TH.md) - [plain]
 | 6 | [Niente Canzoni D'Amore](https://open.spotify.com/track/3Pqm4BPjluxMX3afwDlKy5) | [Elodie](https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY) | [This Is Elodie](https://open.spotify.com/album/3EREGNLTHWi1SZCoDKT4Pd) | 3:25 |
 | 7 | [Dove e quando](https://open.spotify.com/track/5XM7tx8ovQ9UrYqUowW1AK) | [Benji & Fede](https://open.spotify.com/artist/2nftqfbLohpDYzY8VUlvbm) | [Good Vibes](https://open.spotify.com/album/77QYi88mcI4qXClwTAwxjg) | 3:10 |
 | 8 | [Ridere](https://open.spotify.com/track/5LZVK19ieaV8Mk9FsqTL3F) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Fuori dall'Hype Ringo Starr](https://open.spotify.com/album/56JsicBPrw88plclhKK74J) | 3:34 |
-| 9 | [Completamente](https://open.spotify.com/track/7sh95K3HXkne9mVYDOIRWs) | [Thegiornalisti](https://open.spotify.com/artist/6YBgd2LKccEB3pX6UaW1Yp) | [Completamente Sold Out](https://open.spotify.com/album/2UsIHnX2RaOOQVkpspAYDj) | 3:36 |
-| 10 | [MADAME \- L'anima \(feat\. Madame\)](https://open.spotify.com/track/3go5ZuMoFTKl5ugai8nAKi) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7), [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [Persona](https://open.spotify.com/album/3ZOt77e63uMgJXU7xcFpqu) | 3:41 |
+| 9 | [MADAME \- L'anima \(feat\. Madame\)](https://open.spotify.com/track/3go5ZuMoFTKl5ugai8nAKi) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7), [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [Persona](https://open.spotify.com/album/3ZOt77e63uMgJXU7xcFpqu) | 3:41 |
+| 10 | [Completamente](https://open.spotify.com/track/7sh95K3HXkne9mVYDOIRWs) | [Thegiornalisti](https://open.spotify.com/artist/6YBgd2LKccEB3pX6UaW1Yp) | [Completamente Sold Out](https://open.spotify.com/album/2UsIHnX2RaOOQVkpspAYDj) | 3:36 |
 | 11 | [Piccola Stella](https://open.spotify.com/track/6sLBJkMyZIkGevtpYgeotT) | [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa) | [Colpa Delle Favole](https://open.spotify.com/album/7ynNnkdYfFsjMxvfecxAWy) | 3:52 |
 | 12 | [Destri](https://open.spotify.com/track/0WBg2If3H9nN9RFl2xO2SZ) | [Gazzelle](https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN) | [Destri](https://open.spotify.com/album/6xIlY5dzwgDm4dVeTteILC) | 3:05 |
 | 13 | [Stanza Singola \(feat\. Tommaso Paradiso\)](https://open.spotify.com/track/23hpOtox5sIuRqVBVVJxsO) | [Franco126](https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc), [Tommaso Paradiso](https://open.spotify.com/artist/47z0zz9ZMCn9GBiPRTn5Bc) | [Stanza Singola](https://open.spotify.com/album/5f2LuFGKudyDDp9d93Qvvc) | 3:16 |
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbGYZ9Pq4TH.md) - [plain]
 | 37 | [La Cura](https://open.spotify.com/track/3sc9YIcDSPCXsQ0zzX3JLW) | [Franco Battiato](https://open.spotify.com/artist/4lianjyuR1tqf6oUX8kjrZ) | [L'Imboscata](https://open.spotify.com/album/6Ws5YQCEOfwmpTK01EALgv) | 4:03 |
 | 38 | [La tua canzone](https://open.spotify.com/track/4Z43nMEiOiNeDrqu2BN0JD) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [È sempre bello](https://open.spotify.com/album/10qyDIB3pverR0MvhOFDVy) | 3:12 |
 | 39 | [E...](https://open.spotify.com/track/2hfBefasNaEEgnxD4Pdsar) | [Vasco Rossi](https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65) | [Buoni O Cattivi \(Remastered 2017\)](https://open.spotify.com/album/6qD7I2PTgtLMutPuanRjwL) | 3:29 |
-| 40 | [A Te](https://open.spotify.com/track/0pVSpAnjpnqywmPZnOISiv) | [Jovanotti](https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi) | [Safari](https://open.spotify.com/album/4tp7nwTFlAwtgHhJiEnilK) | 4:24 |
-| 41 | [Infinito](https://open.spotify.com/track/7KyPP4IenVDrKeewWlAp5L) | [Raf](https://open.spotify.com/artist/3rlKqNmhaP9UiC0wFQyFS3) | [Iperbole](https://open.spotify.com/album/11ppqhDtSVmjuGCJygZdIG) | 4:56 |
+| 40 | [Infinito](https://open.spotify.com/track/7KyPP4IenVDrKeewWlAp5L) | [Raf](https://open.spotify.com/artist/3rlKqNmhaP9UiC0wFQyFS3) | [Iperbole](https://open.spotify.com/album/11ppqhDtSVmjuGCJygZdIG) | 4:56 |
+| 41 | [A Te](https://open.spotify.com/track/0pVSpAnjpnqywmPZnOISiv) | [Jovanotti](https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi) | [Safari](https://open.spotify.com/album/4tp7nwTFlAwtgHhJiEnilK) | 4:24 |
 | 42 | [MIA](https://open.spotify.com/track/1SIl1FBbHmGa4PmJu5q6Lm) | [Lortex](https://open.spotify.com/artist/0ItmqfCN0IYX9N8LcDHj45) | [MIA](https://open.spotify.com/album/6cncwJJC6PJW1JelJ6v71g) | 2:54 |
 | 43 | [Il bacio di Klimt](https://open.spotify.com/track/3E1FgPTXX203rgBTD5nlKF) | [Emanuele Aloia](https://open.spotify.com/artist/3vkFU3DBYyYBSUt323pj76) | [Il bacio di Klimt](https://open.spotify.com/album/2JAcCIuh57ns83xfzTpNaB) | 2:57 |
 | 44 | [Unica](https://open.spotify.com/track/0LcyAWgNU4vk3Sn1DNtifk) | [Antonello Venditti](https://open.spotify.com/artist/3hYLJPJuDyblFKersEaFd6) | [Unica](https://open.spotify.com/album/2gJy8l07yFCDvGnscXyl9F) | 3:54 |
 | 45 | [Acqua e Sale](https://open.spotify.com/track/2k5XUNGw2nD3qTl9C208Qr) | [MINACELENTANO](https://open.spotify.com/artist/2RaKpBVCLrHguQqQDcahYB) | [Mina Celentano](https://open.spotify.com/album/0fK3gESwoPn02N98BmuRid) | 4:42 |
-| 46 | [La donna cannone](https://open.spotify.com/track/2T2t1DXwzdilKF3BQPHREo) | [Francesco De Gregori](https://open.spotify.com/artist/16FJYC4FqKhZXiXIzMI4ul) | [La Donna Cannone](https://open.spotify.com/album/7COQBoeP7bBHykCpFbdpR2) | 4:39 |
-| 47 | [Sorriso \(Milano Dateo\)](https://open.spotify.com/track/6Rg0AJvt1xa4hR2QH2fUhb) | [Calcutta ](https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r) | [Sorriso \(Milano Dateo\)](https://open.spotify.com/album/5U5pvv8NQHjb4UEhMozHRz) | 2:57 |
+| 46 | [Sorriso \(Milano Dateo\)](https://open.spotify.com/track/6Rg0AJvt1xa4hR2QH2fUhb) | [Calcutta ](https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r) | [Sorriso \(Milano Dateo\)](https://open.spotify.com/album/5U5pvv8NQHjb4UEhMozHRz) | 2:57 |
+| 47 | [La donna cannone](https://open.spotify.com/track/2T2t1DXwzdilKF3BQPHREo) | [Francesco De Gregori](https://open.spotify.com/artist/16FJYC4FqKhZXiXIzMI4ul) | [La Donna Cannone](https://open.spotify.com/album/7COQBoeP7bBHykCpFbdpR2) | 4:39 |
 | 48 | [Posso \(feat\. Max Gazzé\)](https://open.spotify.com/track/5N0nmOmc0MqPZTYKw4fVV6) | [Carl Brave](https://open.spotify.com/artist/29nrwultxQ8jENVmXoyMqK), [Max Gazzè](https://open.spotify.com/artist/1h5O32I1o0VOnpLmKXLfRa) | [Notti Brave \(After\)](https://open.spotify.com/album/5igFxzbfH6oTb3vRFvNK5w) | 3:58 |
 | 49 | [Una Su 1.000.000](https://open.spotify.com/track/3O96lY6J3wxMEc8yoB844j) | [Alex Britti](https://open.spotify.com/artist/2cNC9hjjdsMKLv0m2m9p1D) | [La Vasca](https://open.spotify.com/album/2iZYerMKDMcaJiosOSEu3f) | 2:56 |
 | 50 | [L'Immenso](https://open.spotify.com/track/7bof4i0U5eYSJ6yhgtddK9) | [Negramaro](https://open.spotify.com/artist/1X9iZlQXfAAx4Vvmlqeao7) | [La Finestra \(Deluxe Edition\)](https://open.spotify.com/album/0NQDyYJyaZWGAuKo8PngX2) | 3:34 |
 
-Snapshot ID: `MTYzMjY4MTUzMywwMDAwMDAwMDlhOWYzNTgwMTdlODg5YTE4NmFiZGI5ZDI1ODZlYjNh`
+Snapshot ID: `MTYzMjY4MTUzMywwMDAwMDAwMDc5YjNiYjY1NzhlYWM0YTY2M2VkYzM3ZGE1MDQ2Njg0`

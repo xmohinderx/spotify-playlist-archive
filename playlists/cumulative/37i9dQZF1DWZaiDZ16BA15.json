@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-22",
-  "description": "Italian duo <a href=\"spotify:artist:6PozOimyS8a9OxMddMSBCf\">Giol\u00ec & Assia</a> deliver a mix featuring tracks from their most recent album and deep, melodic selections.",
+  "description": "Italian duo <a href=\"spotify:artist:6mM9a86Nrw0y7f9MaJGbpU\">Giol\u00ec & Assia</a> deliver a mix featuring tracks from their most recent album and deep, melodic selections.",
   "name": "Giol\u00ec & Assia's DJ Mix",
   "published_playlist_ids": [],
   "tracks": [
@@ -182,6 +182,24 @@
     },
     {
       "album": {
+        "name": "Fire Hell and Holy Water",
+        "url": "https://open.spotify.com/album/0ZTKj2OdsF2gI2npmAADAQ"
+      },
+      "artists": [
+        {
+          "name": "Giol\u00ec & Assia",
+          "url": "https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 76260,
+      "name": "Playing Chess (Prelude)",
+      "url": "https://open.spotify.com/track/2pP3PPZ2tiXDX6ifjTEB0X"
+    },
+    {
+      "album": {
         "name": "Playing Chess (Prelude) [Mixed]",
         "url": "https://open.spotify.com/album/7H4KbZS9tkIxKSoQPeJJlF"
       },
@@ -193,7 +211,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 75000,
       "name": "Playing Chess (Prelude) - Mixed",
       "url": "https://open.spotify.com/track/2xmIzWmqX82is1CeoxSNHv"

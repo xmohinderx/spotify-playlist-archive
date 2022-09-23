@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gIoKXt0gmx.md) - [plain]
 
 > All the vibes\. All the feels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,429,812 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,430,330 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gIoKXt0gmx.md) - [plain]
 | 99 | [Stole My Love](https://open.spotify.com/track/1ex37MbvUY3yBvwsh8yZVl) | [Jay Isaiah](https://open.spotify.com/artist/0oMty0VPLJbB8WAQ8otDAs) | [Stole My Love](https://open.spotify.com/album/7f44ShiYsYglLbfIwZAXOE) | 3:31 |
 | 100 | [Lifetime](https://open.spotify.com/track/0QZnyONVa7pEq115ZjkFNV) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [Lifetime](https://open.spotify.com/album/27qgpTqm1Zkhgnis7bgjjC) | 3:09 |
 
-Snapshot ID: `MTY2MzMwMDg2MCwwMDAwMDAwMDIzMjg0ODgzZWI4MDEwMWNjZTM4MDg3Nzc4OTBmZmE1`
+Snapshot ID: `MTY2Mzg2OTY4NiwwMDAwMDAwMDZjN2Y1ZGZlN2M4OTZiY2MzMGNkMmQzYWViMDE3OTk2`

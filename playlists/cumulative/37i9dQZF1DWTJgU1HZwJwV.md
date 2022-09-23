@@ -4,7 +4,7 @@
 
 > Elegant classical guitar to accompany your favourite Italian coffee.
 
-202 songs - 8 hr 47 min - [published](https://open.spotify.com/playlist/7jgB2m9mBTWEbhTLrW7Tf4)
+203 songs - 8 hr 49 min - [published](https://open.spotify.com/playlist/7jgB2m9mBTWEbhTLrW7Tf4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Marbles](https://open.spotify.com/track/4BeC6brIcRPXt6JYFGPLC8) | [Aurélien Trigo](https://open.spotify.com/artist/1XvEjHuBKBUIbZHuBesoCE) | [Marbles](https://open.spotify.com/album/0fzNxocPUrTdm9k85dNVkH) | 2:23 | 2022-06-17 |  |
 | [Marvel At The Sky](https://open.spotify.com/track/1p0GiIv44pMkVdfHEZhVbM) | [Lullaby Texture](https://open.spotify.com/artist/1nniTSIKfKilcQ0gdDTsvW) | [Marvel At The Sky](https://open.spotify.com/album/3DK195qjIawfQacLtFPFSC) | 2:03 | 2022-06-17 |  |
 | [Mediterranean Rain](https://open.spotify.com/track/43jO5gEX6XVcVdQDF2wsbw) | [John A\. Nilson](https://open.spotify.com/artist/0jclSzw2eZAu8huZPEcOJ9) | [Mediterranean Rain](https://open.spotify.com/album/3Im6URgqUPJSxc7qQpsgXc) | 2:41 | 2022-06-17 |  |
+| [Melibea](https://open.spotify.com/track/6iPklVZHZeyQBqm4zV2ruy) | [Nuria Polanka](https://open.spotify.com/artist/2kq2VvWZunlZU33VuP144d) | [Melibea](https://open.spotify.com/album/2PwIYDzYOuEYl6ZhttAGI6) | 2:31 | 2022-09-23 |  |
 | [Melody For My Best Friend](https://open.spotify.com/track/1IA0lgqrDrqXbiQgbo8oB2) | [Carol Maddox](https://open.spotify.com/artist/1tfErPhfPUi2JprfJZRsfb) | [Melody For My Best Friend](https://open.spotify.com/album/3W6OOmwDnWm6SMPl26r7tV) | 2:48 | 2022-06-17 |  |
 | [Melrose](https://open.spotify.com/track/1mk7RZAYrpp1twu6bqI5aG) | [Henrik Janson](https://open.spotify.com/artist/5kIhxGyX6VtcsLk88dwYED) | [Melrose](https://open.spotify.com/album/6C8FoeSpYvqRZkWMLw90L8) | 1:55 | 2022-06-17 | 2022-09-09 |
 | [Midwinter](https://open.spotify.com/track/3U0Jz4y4SiseCKtL6jdDOZ) | [Czarina Frost](https://open.spotify.com/artist/3iidbcDBg4BOBD5a927q0Q) | [Midwinter](https://open.spotify.com/album/38fLpzIszQjCAZ2FTIuTi7) | 2:50 | 2022-06-17 |  |

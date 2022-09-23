@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 
 > Catching flights and going global\. Cover:  <a href="https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW?si=g4bV5bx4Tfy11ARMMgbypw" > Yemi Alade </a> and <a href="https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL?si=YKPgoxreSpycjegIIlGmOA" > Spice </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,559 likes - 80 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,636 likes - 80 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

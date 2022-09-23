@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 
 > The best of today's dance hits\. Cover: Rochelle Jordan
 
-[Spotify](https://open.spotify.com/user/spotify) - 303,394 likes - 104 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 303,393 likes - 104 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

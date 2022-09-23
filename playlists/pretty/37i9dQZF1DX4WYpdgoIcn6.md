@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WYpdgoIcn6.md) - [plain]
 
 > Kick back to the best new and recent chill hits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,446,787 likes - 130 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,448,986 likes - 130 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WYpdgoIcn6.md) - [plain]
 | 129 | [To Die For](https://open.spotify.com/track/2ZTYlnhhV1UAReg7wIGolx) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [To Die For](https://open.spotify.com/album/2motAeq8jZvHkF4VpbWSHf) | 3:13 |
 | 130 | [It's Ok If You Forget Me](https://open.spotify.com/track/312zSwwbPU7C3sTmro4Wx9) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [It's Ok If You Forget Me](https://open.spotify.com/album/2C91kmyDRWZdm0wR8dK1Wn) | 3:24 |
 
-Snapshot ID: `MTY2MjA2OTY2MCwwMDAwMDAwMGRiMjlkNTgwZmQ2NWYyYWNkODU1NTk0ZGFlOTUzYjMx`
+Snapshot ID: `MTY2Mzg4NDAwMCwwMDAwMDAwMDZmODgxYzI1YTg1ZmJiNTMxNDliMjBmYTdhZTZkNmJj`

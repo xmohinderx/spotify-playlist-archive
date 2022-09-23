@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N8QTiMHLoT.md) - [plain]
 
 > Because bass\. Cover: Victor Wooten
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,806 likes - 50 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,886 likes - 50 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N8QTiMHLoT.md) - [plain]
 | 38 | [Aeon](https://open.spotify.com/track/7437o7VmWq62ibaGLLu4bb) | [Evan Marien](https://open.spotify.com/artist/7j3WzD4hWEZ0CL4dDH9d6H) | [We Are All You \(Extended Edition\)](https://open.spotify.com/album/71E0HQ4rIZfwmA07vxqVUr) | 2:26 |
 | 39 | [Right After 4](https://open.spotify.com/track/0Xcd7ELzTQjVaNAOG23Jco) | [Alain Caron](https://open.spotify.com/artist/1jonOyRkfkvgd1MUyZtPgj) | [Multiple Faces](https://open.spotify.com/album/1H6WkzaF10oay25cWVtkkB) | 6:53 |
 | 40 | [Power](https://open.spotify.com/track/2wd1sOeNdzBeRGsL6mPogQ) | [Marcus Miller](https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9) | [M2](https://open.spotify.com/album/1xyfptnTlG1u1fzVxYJm6d) | 4:35 |
-| 41 | [Sun Chaser](https://open.spotify.com/track/4ZbDihSwE41c6jYCHeMOWj) | [Blair Bryant](https://open.spotify.com/artist/1bNvtqK9g0M2hDWRLdwpZq), [Darren Rahn](https://open.spotify.com/artist/20Jboo9DFLN2MlZPtXQt2u) | [Cerulean Blue](https://open.spotify.com/album/3bThtHCv0o3pe6f8KqYiK3) | 4:06 |
-| 42 | [Is That the Best You Can Do?](https://open.spotify.com/track/3WQdJiq9896W9Zw7jjIBI7) | [Brian Bromberg](https://open.spotify.com/artist/6iyIbAydXPDNz1yYFl7A9h) | [Thicker Than Water](https://open.spotify.com/album/7GTWVyB9UwiibcbA6Ykpfx) | 5:35 |
+| 41 | [Is That the Best You Can Do?](https://open.spotify.com/track/3WQdJiq9896W9Zw7jjIBI7) | [Brian Bromberg](https://open.spotify.com/artist/6iyIbAydXPDNz1yYFl7A9h) | [Thicker Than Water](https://open.spotify.com/album/7GTWVyB9UwiibcbA6Ykpfx) | 5:35 |
+| 42 | [Sun Chaser](https://open.spotify.com/track/4ZbDihSwE41c6jYCHeMOWj) | [Blair Bryant](https://open.spotify.com/artist/1bNvtqK9g0M2hDWRLdwpZq), [Darren Rahn](https://open.spotify.com/artist/20Jboo9DFLN2MlZPtXQt2u) | [Cerulean Blue](https://open.spotify.com/album/3bThtHCv0o3pe6f8KqYiK3) | 4:06 |
 | 43 | [Don't Look Back Again](https://open.spotify.com/track/66MsmmOc0dIhqYuhVobax7) | [Charles Berthoud](https://open.spotify.com/artist/2ja5lXz6NdhSjtDlbYIE91) | [Epiphany](https://open.spotify.com/album/5uGgz6J40Kwm77V8Lyl827) | 3:12 |
 | 44 | [Off The Cuff](https://open.spotify.com/track/6aGE12dPzbEVEL47yb3F5d) | [Pino Palladino](https://open.spotify.com/artist/5vjTuHApbJQOo9L3Ro2KM8), [Blake Mills](https://open.spotify.com/artist/4LhV33vJvXmFGSM3m5RzUR) | [Notes With Attachments](https://open.spotify.com/album/5fsq4qeIWboRRPG7mGGfxr) | 2:34 |
 | 45 | [Just Letting Go](https://open.spotify.com/track/0Y4SEMAHZpGp9UyTrMcVTW) | [Tony Saunders](https://open.spotify.com/artist/5OLFOdnwdWsZry0VUo3b2Q) | [Romancing the Bass](https://open.spotify.com/album/1hbDdA4rK8dIj05pefvCGJ) | 5:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N8QTiMHLoT.md) - [plain]
 | 49 | [Letter for Paul \(feat\. Chris Potter, Jon Cowherd, Marcus Gilmore & Rogerio Boccato\)](https://open.spotify.com/track/3stEH9HPia2bpfoZ6LhOaR) | [John Patitucci](https://open.spotify.com/artist/4KmKbbEq6PMnW2TdkrbBIH), [Chris Potter](https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB), [Jon Cowherd](https://open.spotify.com/artist/1CfUXWkyKLaI4IyJ6ul9NE), [Marcus Gilmore](https://open.spotify.com/artist/1caVPl46Ta6C8DYns5AAuo), [Rogerio Boccato](https://open.spotify.com/artist/4o7gEQWwzhUvcepiz3klAe) | [Letter for Paul \(feat\. Chris Potter, Jon Cowherd, Marcus Gilmore & Rogerio Boccato\)](https://open.spotify.com/album/4oz7MSG5MJrIlxDLW7fF75) | 5:30 |
 | 50 | [F.U.NKWHY](https://open.spotify.com/track/08Xt9rwQXMqW2QF8ngLM8J) | [Ida Nielsen](https://open.spotify.com/artist/0LNUSuufEzNpI4nPIVThW3) | [Time 2 Stop Worrying \(Bout the Weird Stuff\)](https://open.spotify.com/album/4DrZmRj1deGY9MpW2dBjVJ) | 3:43 |
 
-Snapshot ID: `MTY2Mzc3NTkxMCwwMDAwMDAwMDY2MTdkN2M5MWQzZDFkOTUwYWI0ZWRjZTM0ZTc0ODAw`
+Snapshot ID: `MTY2Mzc3NTkxMCwwMDAwMDAwMGJhN2MzMDdiYWZkMmQ2YjcwZWJhODEzNDZjM2NlOTdk`

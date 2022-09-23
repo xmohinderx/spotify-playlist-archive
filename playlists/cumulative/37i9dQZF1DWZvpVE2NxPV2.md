@@ -4,7 +4,7 @@
 
 > Peaceful ambient for mind body connection.
 
-121 songs - 6 hr 18 min - [published](https://open.spotify.com/playlist/4h4rBqtRamQg1x2iFDUEw4)
+126 songs - 6 hr 32 min - [published](https://open.spotify.com/playlist/4h4rBqtRamQg1x2iFDUEw4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Deep Rest](https://open.spotify.com/track/0SOQcyGJpYPtzY89w6Xljm) | [Enzo Electronic](https://open.spotify.com/artist/4kyWODlwZxF4tiAe4LblhX) | [Deep Rest](https://open.spotify.com/album/6Xer7AG0fbNhiNY6HsXrII) | 2:48 | 2022-01-07 |  |
 | [Descendent](https://open.spotify.com/track/1WQU9B3hbamPd5uRsQuDEZ) | [The Thing About Noise](https://open.spotify.com/artist/3YDqHBcfFRqJ136NsrFyYa) | [Texture](https://open.spotify.com/album/5WDvrrJdqAhIRh97925mPe) | 3:06 | 2022-01-07 |  |
 | [Dharawi Nights](https://open.spotify.com/track/7J0ZO7IO5rcPG5cbTWoRuF) | [Secretpath](https://open.spotify.com/artist/3CgMjC9kBPZPgUZEmcjsnU) | [Dharawi Nights](https://open.spotify.com/album/1ZVSgPi74n655eUn8cXdGI) | 3:57 | 2022-01-07 | 2022-05-13 |
+| [Emersion](https://open.spotify.com/track/2pxDPvNqRMkrnoOiL3CVYK) | [Yasmin Ryan](https://open.spotify.com/artist/5yNo2UDxYyUsMrH7UdPW1g) | [Emersion](https://open.spotify.com/album/2AVFXtKshMtp06uEyDMx7Z) | 2:48 | 2022-09-22 |  |
 | [Empty Spaces](https://open.spotify.com/track/02hFekfpXLbeoBIdCEgbBc) | [Everything Will Rust](https://open.spotify.com/artist/6ongOGTUwDaQjpqjnlkooi) | [Empty Spaces](https://open.spotify.com/album/4qfwY4yqkCdFGevRrcBsVB) | 3:48 | 2022-01-07 |  |
 | [Enchanting](https://open.spotify.com/track/5Th1JB1zTh6BtnvIuFXn4U) | [Pranayama Om](https://open.spotify.com/artist/6WrKGQdOj7BcZNZ8uvIWOV) | [Enchanting](https://open.spotify.com/album/6dfT9qNKN2NBJUgjPtvo9j) | 3:50 | 2022-01-07 |  |
 | [Endlessness](https://open.spotify.com/track/56Hx2TNbbWeEk3I3H1Tzgz) | [Parker Woods](https://open.spotify.com/artist/1eNbVzydYSYdXyjnVSMypX) | [Endlessness](https://open.spotify.com/album/1sXwnBlGNqJjejMOM0QoNx) | 2:43 | 2022-01-07 |  |
@@ -82,12 +83,14 @@
 | [Restful Dream](https://open.spotify.com/track/57wGsyF2YSyRkHZrksQXrB) | [Buddha's Flute](https://open.spotify.com/artist/1j6Futx8f5ywiHqPnX32bl) | [Restful Dream](https://open.spotify.com/album/6wZFjc47KdhamOOPBMrSHL) | 6:06 | 2022-09-02 |  |
 | [Restfulness](https://open.spotify.com/track/1eWEJ1JVoyt0nozyAoUPZW) | [Zion Llama](https://open.spotify.com/artist/3cpzUGjbTlToxJzxfWiW1u) | [Aura](https://open.spotify.com/album/1GgB6wCGMjv9eIWbysYO4x) | 2:55 | 2022-03-02 |  |
 | [Reversed Stress](https://open.spotify.com/track/36LvimjTIyWaVS1CejsRL9) | [Minonna](https://open.spotify.com/artist/6mysyQI353vNbwstr6pT1Y) | [Motion Slow](https://open.spotify.com/album/368cYXAyRSQSAk4X40uHFs) | 2:50 | 2022-01-07 |  |
+| [Ricreazione](https://open.spotify.com/track/1gWgWXJUK6wVGYyv1TGuCY) | [Armand DeLuca](https://open.spotify.com/artist/4O6yyC0Q9B1aWoXGxydFUu) | [Ricreazione](https://open.spotify.com/album/3bmXE4jBcMmHW5sL2xkKh4) | 2:34 | 2022-09-22 |  |
 | [Rishis](https://open.spotify.com/track/7G2xLyRHac8eH0qhMPDnl0) | [Skye Saraswati](https://open.spotify.com/artist/4mSdD05BfppgiCGUVKcUZ3) | [Rishis](https://open.spotify.com/album/4wsw80EuYCSMlsPy4xT2L2) | 3:23 | 2022-05-12 |  |
 | [Rising Above](https://open.spotify.com/track/7qVMaIJNIRLVGfdFqYlnBX) | [Cloudville](https://open.spotify.com/artist/2PZ9Lx5YAYcmTUPBc6a17L) | [Rising Above](https://open.spotify.com/album/4NeEtU59lupmDYnE4zxjhZ) | 2:22 | 2022-01-07 |  |
 | [Rivers Of Flutes](https://open.spotify.com/track/6DewZxWwJwOTWeyIXsntrH) | [Sacred Flute](https://open.spotify.com/artist/6dn5BFtVFrmBuZXS3Pt2Qi) | [Rivers Of Flutes](https://open.spotify.com/album/2b62YJsJ8REP4fGZKh9Qv7) | 7:25 | 2022-09-02 |  |
 | [Rêver](https://open.spotify.com/track/1yYjkMdQyOvwqiwfeGP5fK) | [Eztebe Matia](https://open.spotify.com/artist/3n2j9RLqJFPzyI8WGn94bm) | [Rêver](https://open.spotify.com/album/6Sb8XeQK9LqSeUlYHFaB9B) | 2:54 | 2022-01-07 |  |
 | [Saman Aftur](https://open.spotify.com/track/3CSHq4I9SPxE2AmNsW4Riz) | [Elvar Arngrimsson](https://open.spotify.com/artist/5DChGYPOwgULNzFMzw0TIb) | [Unni](https://open.spotify.com/album/35Gv91ojzEtJl0iXz41X58) | 2:58 | 2022-01-07 |  |
 | [Samsara](https://open.spotify.com/track/3MA4oCOy0frQdyBZx6qRGG) | [Massimu](https://open.spotify.com/artist/6HRgy5lTTh6w2SpMq2cCcP) | [Samsara](https://open.spotify.com/album/0RmyzpADBheUrCS5xtufQM) | 4:04 | 2022-01-07 |  |
+| [Savitri](https://open.spotify.com/track/5vjexs7Iu9LZksyyLAQ1JF) | [The Lay\-Backs](https://open.spotify.com/artist/3hcHU2Pwf2YPgQXqdEi83C) | [Savitri](https://open.spotify.com/album/0DoI5SafFqC5cdAw7cxiwT) | 2:53 | 2022-09-22 |  |
 | [secret dream](https://open.spotify.com/track/7nTF2dyXvsPdPVWu9pcz8v) | [Havanna Chandri](https://open.spotify.com/artist/7L19dBW5AbTgQvjXFGaOF6) | [secret dream](https://open.spotify.com/album/65pWpFsm37vjl67sIHsZyY) | 2:58 | 2022-06-02 |  |
 | [Selama Aku Bersamamu](https://open.spotify.com/track/6j3XbhOPbyAqJcYc1gkRdS) | [Indah Bethari](https://open.spotify.com/artist/6PEb2KuIsMYIR8DFdBL2al) | [Selama Aku Bersamamu](https://open.spotify.com/album/14AvT6nrlER3v91lS8MvDs) | 4:12 | 2022-03-02 |  |
 | [Senses](https://open.spotify.com/track/40btANYJL2hwYW0C5b28pb) | [Sasha Green](https://open.spotify.com/artist/5OnulnqJlxCzWEyq3IfoVt) | [Senses](https://open.spotify.com/album/74K5NTAi3kXSgzuBbneNiG) | 3:09 | 2022-05-12 |  |
@@ -100,6 +103,7 @@
 | [Sol Rythym](https://open.spotify.com/track/1SuOOxR5CYtqp0wUgG6KqK) | [Solarixo](https://open.spotify.com/artist/5McHUSz4tKBSVrwI9JzUhY) | [Sol Rhythm](https://open.spotify.com/album/2AJAJVg6ebdW9pY61qeV6x) | 3:04 | 2022-05-12 |  |
 | [Solsken](https://open.spotify.com/track/0r14frSgaiYUHdW66ZCDY3) | [Owen Meyers](https://open.spotify.com/artist/3pTw5Y5aUfDyTD1OQVojEM) | [Solsken](https://open.spotify.com/album/06ZptErgRD4TluQw7ax1wj) | 3:45 | 2022-06-02 |  |
 | [Sparrow Cloud](https://open.spotify.com/track/0ScOpQ7ZnaFE1wjkuZ5pIX) | [Mindful Measures](https://open.spotify.com/artist/4DYgl2qzOphoG3p9gZNluF) | [Essence of Mind](https://open.spotify.com/album/2kXPGbbn7SVW9YCDFYbx1Y) | 4:00 | 2022-08-12 |  |
+| [Spring Flower](https://open.spotify.com/track/6wPoL3OrhS8NOOwWk9F7QW) | [I Haga Xela](https://open.spotify.com/artist/14l8W9RkIRqaYt89jWg6tT) | [Spring Flower](https://open.spotify.com/album/2E3hwDKb2jqMrS3oMqAyZp) | 3:00 | 2022-09-22 |  |
 | [Stavselet](https://open.spotify.com/track/7tI2DDr0bxmGendIMcv7zk) | [Ström](https://open.spotify.com/artist/0GrHUOaxUA1EUn8UlzeHBS) | [Gimdalen](https://open.spotify.com/album/5KiyJPS3ZdCt1yCQh80pdE) | 3:07 | 2022-01-07 |  |
 | [Stillness is Waiting](https://open.spotify.com/track/4lGwOa5uQ6NFjm1wTZODUo) | [Alex Couture](https://open.spotify.com/artist/25G0894RyKrGyKDqdG1pGu) | [Handpan Reflections](https://open.spotify.com/album/449GydnmUhqj6rKP6P8ufT) | 2:38 | 2022-01-07 |  |
 | [Strings of Light](https://open.spotify.com/track/7pLqzJr6EA7gFm6hAeYxD9) | [Surrounding Life](https://open.spotify.com/artist/7x0g29FUOlzLsQrKB0NioF) | [Rivers of Relief](https://open.spotify.com/album/08i8VU7ZL1rBE9dNhf6ldr) | 4:55 | 2022-01-07 | 2022-06-03 |
@@ -108,6 +112,7 @@
 | [Them](https://open.spotify.com/track/2tr4oclswJ6v3dfDlI01HD) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Music for the Motion Picture Victoria](https://open.spotify.com/album/5Bd46K8hcylV7O7xz2YqEX) | 3:59 | 2022-06-02 |  |
 | [Them](https://open.spotify.com/track/55c9jHCc9bsryobmiSQyvh) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Music for the Motion Picture Victoria \(Bonus Track Version\)](https://open.spotify.com/album/6RHEdxcef0XLhkLHBYhINF) | 4:00 | 2022-01-07 | 2022-07-29 |
 | [This Now](https://open.spotify.com/track/6bcf6i4amFipG1r2ScmfHL) | [Nela Bautista](https://open.spotify.com/artist/57p6zjae5P8UG8gGu8jO4w) | [This Now](https://open.spotify.com/album/4hhWJQREZiGh7OJ0EcPFxa) | 2:09 | 2022-03-02 |  |
+| [Through The Looking Glass](https://open.spotify.com/track/1Ayup32NuK2rBsIjcAS4wb) | [Samaneh Awad](https://open.spotify.com/artist/2r6oyERO8APn3d2BXDB3e1) | [Through The Looking Glass](https://open.spotify.com/album/2pGYl3Iy7lQlHZ0LlQj0Ff) | 2:45 | 2022-09-22 |  |
 | [Transparency](https://open.spotify.com/track/73ZnCLiPERq5SRGZ3cOpEz) | [Tristan Wilson](https://open.spotify.com/artist/0Whtro6LqFditoj7nzIOMH) | [Transparency](https://open.spotify.com/album/7L0fkPPLzgQWjo9CApHGOJ) | 2:14 | 2022-07-29 |  |
 | [Transparent](https://open.spotify.com/track/4PDuAWcBrtLPRce5V33hHK) | [Sea of Waves](https://open.spotify.com/artist/4R8zw6rwLPscyd42vMpMmo) | [Echoes of Water](https://open.spotify.com/album/42l3J84qQWgIcToLFBAJr1) | 2:33 | 2022-01-07 |  |
 | [Undulate](https://open.spotify.com/track/3VcEjU1dF3GWsOllMFChWb) | [Blake Child](https://open.spotify.com/artist/2prVqy64VMNySVSHnIzz69) | [Undulate](https://open.spotify.com/album/37mHMJMu26lsc7RKyDlSj8) | 2:16 | 2022-01-07 |  |

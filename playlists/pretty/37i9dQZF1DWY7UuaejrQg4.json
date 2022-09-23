@@ -1,12 +1,12 @@
 {
   "description": "2018 highlights from the home of indie music.",
-  "num_followers": 53102,
+  "num_followers": 53169,
   "original_name": "Best of Indie 2018",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Njc1MjAyNiwwMDAwMDAwMDI5Njc3MGZmZTE4Zjk1YWEwZmZjZThhYTMyMjVhMmJl",
+  "snapshot_id": "MTY0Njc1MjAyNiwwMDAwMDAwMDE4YjQwOTYxZDZkN2Q3Y2I2YmU2ZDQzZmNmOGMzZjEz",
   "tracks": [
     {
       "added_at": "2022-03-08 15:07:06",
@@ -635,22 +635,6 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
-        "name": "Now, Not Yet",
-        "url": "https://open.spotify.com/album/2KSWrd22LGc0Hmqs2Z5i7z"
-      },
-      "artists": [
-        {
-          "name": "half\u2022alive",
-          "url": "https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k"
-        }
-      ],
-      "duration_ms": 247786,
-      "name": "still feel.",
-      "url": "https://open.spotify.com/track/48XkVAagIoQHCsOlJtXUd5"
-    },
-    {
-      "added_at": "2022-03-08 15:07:06",
-      "album": {
         "name": "Skin",
         "url": "https://open.spotify.com/album/1E3Dc94QXnqiQcGVgij0iW"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 230625,
       "name": "Skin",
       "url": "https://open.spotify.com/track/467t3218y3yihFcyDGWjr0"
+    },
+    {
+      "added_at": "2022-03-08 15:07:06",
+      "album": {
+        "name": "Now, Not Yet",
+        "url": "https://open.spotify.com/album/2KSWrd22LGc0Hmqs2Z5i7z"
+      },
+      "artists": [
+        {
+          "name": "half\u2022alive",
+          "url": "https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k"
+        }
+      ],
+      "duration_ms": 247786,
+      "name": "still feel.",
+      "url": "https://open.spotify.com/track/48XkVAagIoQHCsOlJtXUd5"
     },
     {
       "added_at": "2022-03-08 15:07:06",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
+        "name": "we just need some time together",
+        "url": "https://open.spotify.com/album/4Pr42qDjwPOxMxB9aJBDPG"
+      },
+      "artists": [
+        {
+          "name": "BETWEEN FRIENDS",
+          "url": "https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn"
+        }
+      ],
+      "duration_ms": 235225,
+      "name": "affection",
+      "url": "https://open.spotify.com/track/4LyIHEDbAWDeKV0JbVZae9"
+    },
+    {
+      "added_at": "2022-03-08 15:07:06",
+      "album": {
         "name": "For Ever",
         "url": "https://open.spotify.com/album/5gYCZgmXzzWXxOCb9fMfBm"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 191935,
       "name": "Cool Again",
       "url": "https://open.spotify.com/track/4CFJuKGq5CiGF95M2Jrw3S"
-    },
-    {
-      "added_at": "2022-03-08 15:07:06",
-      "album": {
-        "name": "we just need some time together",
-        "url": "https://open.spotify.com/album/4Pr42qDjwPOxMxB9aJBDPG"
-      },
-      "artists": [
-        {
-          "name": "BETWEEN FRIENDS",
-          "url": "https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn"
-        }
-      ],
-      "duration_ms": 235225,
-      "name": "affection",
-      "url": "https://open.spotify.com/track/4LyIHEDbAWDeKV0JbVZae9"
     },
     {
       "added_at": "2022-03-08 15:07:06",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
-        "name": "Soy Pablo",
-        "url": "https://open.spotify.com/album/1lESM5Y1VAvrCLEgLmyfOw"
-      },
-      "artists": [
-        {
-          "name": "boy pablo",
-          "url": "https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw"
-        }
-      ],
-      "duration_ms": 186681,
-      "name": "Losing You",
-      "url": "https://open.spotify.com/track/7mjOxXnZYbGtgjyX0hqaLs"
-    },
-    {
-      "added_at": "2022-03-08 15:07:06",
-      "album": {
         "name": "On the Train Ride Home",
         "url": "https://open.spotify.com/album/4amdDYo23aSOrv7hSZrCMT"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 203560,
       "name": "Arms",
       "url": "https://open.spotify.com/track/4EXvl9cypQrKVYwabqd1EY"
+    },
+    {
+      "added_at": "2022-03-08 15:07:06",
+      "album": {
+        "name": "Soy Pablo",
+        "url": "https://open.spotify.com/album/1lESM5Y1VAvrCLEgLmyfOw"
+      },
+      "artists": [
+        {
+          "name": "boy pablo",
+          "url": "https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw"
+        }
+      ],
+      "duration_ms": 186681,
+      "name": "Losing You",
+      "url": "https://open.spotify.com/track/7mjOxXnZYbGtgjyX0hqaLs"
     },
     {
       "added_at": "2022-03-08 15:07:06",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
+        "name": "Calm",
+        "url": "https://open.spotify.com/album/4yuJkYEGuZ5cR5qMtS342L"
+      },
+      "artists": [
+        {
+          "name": "Vistas",
+          "url": "https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc"
+        }
+      ],
+      "duration_ms": 208760,
+      "name": "Calm",
+      "url": "https://open.spotify.com/track/4j7R6F40QS9mlvAOKP8U9G"
+    },
+    {
+      "added_at": "2022-03-08 15:07:06",
+      "album": {
         "name": "Better (SG Lewis x Clairo)",
         "url": "https://open.spotify.com/album/2lZmVu1fNVLtqPyhRiDdsd"
       },
@@ -1611,22 +1627,6 @@
       "duration_ms": 193761,
       "name": "Better",
       "url": "https://open.spotify.com/track/32T61xmNSIXhGkEszzs0t8"
-    },
-    {
-      "added_at": "2022-03-08 15:07:06",
-      "album": {
-        "name": "Calm",
-        "url": "https://open.spotify.com/album/4yuJkYEGuZ5cR5qMtS342L"
-      },
-      "artists": [
-        {
-          "name": "Vistas",
-          "url": "https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc"
-        }
-      ],
-      "duration_ms": 208760,
-      "name": "Calm",
-      "url": "https://open.spotify.com/track/4j7R6F40QS9mlvAOKP8U9G"
     },
     {
       "added_at": "2022-03-08 15:07:06",

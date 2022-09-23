@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Ireland.
 
-786 songs - 1 day 22 hr 14 min - [published](https://open.spotify.com/playlist/4n1f92uAImh9ia0W919RKo)
+787 songs - 1 day 22 hr 18 min - [published](https://open.spotify.com/playlist/4n1f92uAImh9ia0W919RKo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,7 +174,7 @@
 | [Daydreaming](https://open.spotify.com/track/69w5X6uTrOaWM32IetSzvO) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:07 | 2022-05-21 | 2022-06-26 |
 | [Daylight](https://open.spotify.com/track/51Zw1cKDgkad0CXv23HCMU) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:44 | 2022-05-21 | 2022-07-10 |
 | [DEAD RIGHT NOW](https://open.spotify.com/track/3grVoZ10bm2jUGpo7BxpuF) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 3:41 | 2021-09-19 | 2021-09-20 |
-| [Deep Down \(feat\. Never Dull\)](https://open.spotify.com/track/7MIhUdNJtaOnDmC5nBC1fb) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA), [Kenny Dope](https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX), [Never Dull](https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm) | [Deep Down \(feat\. Never Dull\)](https://open.spotify.com/album/3KpxpdySrMR2S7noneu1bI) | 2:45 | 2022-09-21 |  |
+| [Deep Down \(feat\. Never Dull\)](https://open.spotify.com/track/7MIhUdNJtaOnDmC5nBC1fb) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA), [Kenny Dope](https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX), [Never Dull](https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm) | [Deep Down \(feat\. Never Dull\)](https://open.spotify.com/album/3KpxpdySrMR2S7noneu1bI) | 2:45 | 2022-09-21 | 2022-09-23 |
 | [deja vu](https://open.spotify.com/track/6HU7h9RYOaPRFeh0R3UeAr) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:35 | 2021-05-23 | 2022-07-03 |
 | [deja vu](https://open.spotify.com/track/61KpQadow081I2AsbeLcsb) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [deja vu](https://open.spotify.com/album/3lwHyR4joA1xB7Nun21EP6) | 3:35 | 2021-04-04 | 2021-05-23 |
 | [Demeanor \(feat\. Dua Lipa\)](https://open.spotify.com/track/3DMs7bahbQTnoxCjgP7qoK) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Faith](https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL) | 3:04 | 2021-07-18 | 2021-07-19 |
@@ -590,6 +590,7 @@
 | [Savior \- Interlude](https://open.spotify.com/track/5PPUw4Xo3Hz6rl4GpBfd3c) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 2:32 | 2022-05-14 | 2022-05-16 |
 | [SCOOP \(feat\. Doja Cat\)](https://open.spotify.com/track/6bpq1jGkVz66Q3LYeoXdjZ) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:54 | 2021-09-19 | 2021-09-20 |
 | [Send My Love \(To Your New Lover\)](https://open.spotify.com/track/563SfWAHJs4FBZMkRN0IFN) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/6TVfiWmo8KtflUAmkK9gGF) | 3:43 | 2021-10-17 | 2021-10-30 |
+| [September](https://open.spotify.com/track/4f2GB5ZC7vOUYPAg69N2Xw) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Now, Then & Forever](https://open.spotify.com/album/2L8rj8VnahryOqg7vKHYzx) | 3:41 | 2022-09-22 |  |
 | [Set Fire to the Rain](https://open.spotify.com/track/7j4OmvkjRz0PrjFADlHfQx) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/4HYlttFwVHZaz7gguxaN9H) | 4:02 | 2021-10-17 | 2021-10-31 |
 | [Seventeen Going Under](https://open.spotify.com/track/5rF6YUIlgiat22OT1lWspJ) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Seventeen Going Under \(Deluxe\)](https://open.spotify.com/album/4FKOLaEGqA7ZFYYW5r4X9z) | 4:57 | 2021-11-10 | 2022-08-28 |
 | [Shape of You](https://open.spotify.com/track/7qiZfU4dY1lWllzX7mPBI3) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 3:53 | 2022-04-23 | 2022-05-11 |

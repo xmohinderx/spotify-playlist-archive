@@ -1,12 +1,12 @@
 {
   "description": "The soundtrack of the Summer 2022.",
-  "num_followers": 397804,
+  "num_followers": 397779,
   "original_name": "Summer Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjYyNjUyMCwwMDAwMDAwMGNkZTgwNDM5MTRjMzkzMzAwODI5ZjRjN2UyNmY4Njlk",
+  "snapshot_id": "MTY1NjYyNjUyMCwwMDAwMDAwMDA3YWZiZThmODUyMjdiZTQ0MGY4MjYyODlkYWY5ZDY0",
   "tracks": [
     {
       "added_at": "2022-06-30 22:02:00",
@@ -159,26 +159,6 @@
     {
       "added_at": "2022-06-30 22:02:00",
       "album": {
-        "name": "Where Did You Go (feat. MNEK)",
-        "url": "https://open.spotify.com/album/5vSLX6JljaSXuRY2Wqi6xL"
-      },
-      "artists": [
-        {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
-        },
-        {
-          "name": "MNEK",
-          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
-        }
-      ],
-      "duration_ms": 177689,
-      "name": "Where Did You Go? (feat. MNEK)",
-      "url": "https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8"
-    },
-    {
-      "added_at": "2022-06-30 22:02:00",
-      "album": {
         "name": "Hot In It",
         "url": "https://open.spotify.com/album/6R7Yy0sY9N8PNUhseegr2Q"
       },
@@ -195,6 +175,26 @@
       "duration_ms": 129817,
       "name": "Hot In It",
       "url": "https://open.spotify.com/track/3Z7CaxQkqbIs1rewKi6v4W"
+    },
+    {
+      "added_at": "2022-06-30 22:02:00",
+      "album": {
+        "name": "Where Did You Go (feat. MNEK)",
+        "url": "https://open.spotify.com/album/5vSLX6JljaSXuRY2Wqi6xL"
+      },
+      "artists": [
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        },
+        {
+          "name": "MNEK",
+          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
+        }
+      ],
+      "duration_ms": 177689,
+      "name": "Where Did You Go? (feat. MNEK)",
+      "url": "https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8"
     },
     {
       "added_at": "2022-06-30 22:02:00",

@@ -1,12 +1,12 @@
 {
   "description": "Because bass. Cover: Victor Wooten",
-  "num_followers": 111806,
+  "num_followers": 111886,
   "original_name": "Bottoms Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzc3NTkxMCwwMDAwMDAwMDY2MTdkN2M5MWQzZDFkOTUwYWI0ZWRjZTM0ZTc0ODAw",
+  "snapshot_id": "MTY2Mzc3NTkxMCwwMDAwMDAwMGJhN2MzMDdiYWZkMmQ2YjcwZWJhODEzNDZjM2NlOTdk",
   "tracks": [
     {
       "added_at": "2021-05-06 21:09:12",
@@ -695,6 +695,22 @@
     {
       "added_at": "2021-05-06 21:09:12",
       "album": {
+        "name": "Thicker Than Water",
+        "url": "https://open.spotify.com/album/7GTWVyB9UwiibcbA6Ykpfx"
+      },
+      "artists": [
+        {
+          "name": "Brian Bromberg",
+          "url": "https://open.spotify.com/artist/6iyIbAydXPDNz1yYFl7A9h"
+        }
+      ],
+      "duration_ms": 335588,
+      "name": "Is That the Best You Can Do?",
+      "url": "https://open.spotify.com/track/3WQdJiq9896W9Zw7jjIBI7"
+    },
+    {
+      "added_at": "2021-05-06 21:09:12",
+      "album": {
         "name": "Cerulean Blue",
         "url": "https://open.spotify.com/album/3bThtHCv0o3pe6f8KqYiK3"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 246692,
       "name": "Sun Chaser",
       "url": "https://open.spotify.com/track/4ZbDihSwE41c6jYCHeMOWj"
-    },
-    {
-      "added_at": "2021-05-06 21:09:12",
-      "album": {
-        "name": "Thicker Than Water",
-        "url": "https://open.spotify.com/album/7GTWVyB9UwiibcbA6Ykpfx"
-      },
-      "artists": [
-        {
-          "name": "Brian Bromberg",
-          "url": "https://open.spotify.com/artist/6iyIbAydXPDNz1yYFl7A9h"
-        }
-      ],
-      "duration_ms": 335588,
-      "name": "Is That the Best You Can Do?",
-      "url": "https://open.spotify.com/track/3WQdJiq9896W9Zw7jjIBI7"
     },
     {
       "added_at": "2021-05-06 21:09:12",

@@ -1,12 +1,12 @@
 {
   "description": "All the hits you'll need to make your summer sizzle.",
-  "num_followers": 1232331,
+  "num_followers": 1232562,
   "original_name": "Summer Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjA3OTIwMCwwMDAwMDAwMGQ3OTk1MjUzNmEwODBmNWIxMDAwMjgyMjUxMzkyODY3",
+  "snapshot_id": "MTY2MjA3OTIwMCwwMDAwMDAwMDAwMzQ1NzRmY2MxMjI1N2VmNTdmMzZiMGMxMzRjN2Nj",
   "tracks": [
     {
       "added_at": "2022-09-02 00:40:00",
@@ -459,6 +459,22 @@
     {
       "added_at": "2022-09-02 00:40:00",
       "album": {
+        "name": "=",
+        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 207853,
+      "name": "Shivers",
+      "url": "https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5"
+    },
+    {
+      "added_at": "2022-09-02 00:40:00",
+      "album": {
         "name": "Betty (Get Money)",
         "url": "https://open.spotify.com/album/3FEQZNn34v3EdxrVKi9pZF"
       },
@@ -475,18 +491,18 @@
     {
       "added_at": "2022-09-02 00:40:00",
       "album": {
-        "name": "=",
-        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
+        "name": "Gemini Rights",
+        "url": "https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD"
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
         }
       ],
-      "duration_ms": 207853,
-      "name": "Shivers",
-      "url": "https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5"
+      "duration_ms": 232066,
+      "name": "Bad Habit",
+      "url": "https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy"
     },
     {
       "added_at": "2022-09-02 00:40:00",
@@ -507,22 +523,6 @@
       "duration_ms": 151475,
       "name": "Belly Dancer",
       "url": "https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil"
-    },
-    {
-      "added_at": "2022-09-02 00:40:00",
-      "album": {
-        "name": "Gemini Rights",
-        "url": "https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD"
-      },
-      "artists": [
-        {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
-        }
-      ],
-      "duration_ms": 232066,
-      "name": "Bad Habit",
-      "url": "https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy"
     },
     {
       "added_at": "2022-09-02 00:40:00",
@@ -735,6 +735,26 @@
     {
       "added_at": "2022-09-02 00:40:00",
       "album": {
+        "name": "Words (feat. Zara Larsson)",
+        "url": "https://open.spotify.com/album/66W7mt0wKGLFALilLBLfU6"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 142677,
+      "name": "Words (feat. Zara Larsson)",
+      "url": "https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs"
+    },
+    {
+      "added_at": "2022-09-02 00:40:00",
+      "album": {
         "name": "STAYING ALIVE (feat. Drake & Lil Baby)",
         "url": "https://open.spotify.com/album/0oEsQwXJhNbbb8VT0xOMok"
       },
@@ -759,22 +779,18 @@
     {
       "added_at": "2022-09-02 00:40:00",
       "album": {
-        "name": "Words (feat. Zara Larsson)",
-        "url": "https://open.spotify.com/album/66W7mt0wKGLFALilLBLfU6"
+        "name": "KU LO SA - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi"
       },
       "artists": [
         {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
         }
       ],
-      "duration_ms": 142677,
-      "name": "Words (feat. Zara Larsson)",
-      "url": "https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs"
+      "duration_ms": 147580,
+      "name": "KU LO SA - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn"
     },
     {
       "added_at": "2022-09-02 00:40:00",
@@ -795,22 +811,6 @@
       "duration_ms": 157890,
       "name": "Do It To It",
       "url": "https://open.spotify.com/track/20on25jryn53hWghthWWW3"
-    },
-    {
-      "added_at": "2022-09-02 00:40:00",
-      "album": {
-        "name": "KU LO SA - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi"
-      },
-      "artists": [
-        {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
-        }
-      ],
-      "duration_ms": 147580,
-      "name": "KU LO SA - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn"
     },
     {
       "added_at": "2022-09-02 00:40:00",
@@ -891,26 +891,6 @@
     {
       "added_at": "2022-09-02 00:40:00",
       "album": {
-        "name": "Where Did You Go (feat. MNEK)",
-        "url": "https://open.spotify.com/album/5vSLX6JljaSXuRY2Wqi6xL"
-      },
-      "artists": [
-        {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
-        },
-        {
-          "name": "MNEK",
-          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
-        }
-      ],
-      "duration_ms": 177689,
-      "name": "Where Did You Go? (feat. MNEK)",
-      "url": "https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8"
-    },
-    {
-      "added_at": "2022-09-02 00:40:00",
-      "album": {
         "name": "Hot In It",
         "url": "https://open.spotify.com/album/6R7Yy0sY9N8PNUhseegr2Q"
       },
@@ -927,6 +907,26 @@
       "duration_ms": 129817,
       "name": "Hot In It",
       "url": "https://open.spotify.com/track/3Z7CaxQkqbIs1rewKi6v4W"
+    },
+    {
+      "added_at": "2022-09-02 00:40:00",
+      "album": {
+        "name": "Where Did You Go (feat. MNEK)",
+        "url": "https://open.spotify.com/album/5vSLX6JljaSXuRY2Wqi6xL"
+      },
+      "artists": [
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        },
+        {
+          "name": "MNEK",
+          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
+        }
+      ],
+      "duration_ms": 177689,
+      "name": "Where Did You Go? (feat. MNEK)",
+      "url": "https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8"
     },
     {
       "added_at": "2022-09-02 00:40:00",
@@ -1135,30 +1135,6 @@
     {
       "added_at": "2022-09-02 00:40:00",
       "album": {
-        "name": "Potion (with Dua Lipa & Young Thug)",
-        "url": "https://open.spotify.com/album/1V6HksALLzO5ihpU3YVqJc"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 214459,
-      "name": "Potion (with Dua Lipa & Young Thug)",
-      "url": "https://open.spotify.com/track/7fYRg3CEbk6rNCuzNzMT06"
-    },
-    {
-      "added_at": "2022-09-02 00:40:00",
-      "album": {
         "name": "Summer Of Love",
         "url": "https://open.spotify.com/album/4nProAxFavzKkbaRQ2Otyk"
       },
@@ -1191,6 +1167,30 @@
       "duration_ms": 138293,
       "name": "Get Into It (Yuh)",
       "url": "https://open.spotify.com/track/0W6I02J9xcqK8MtSeosEXb"
+    },
+    {
+      "added_at": "2022-09-02 00:40:00",
+      "album": {
+        "name": "Potion (with Dua Lipa & Young Thug)",
+        "url": "https://open.spotify.com/album/1V6HksALLzO5ihpU3YVqJc"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 214459,
+      "name": "Potion (with Dua Lipa & Young Thug)",
+      "url": "https://open.spotify.com/track/7fYRg3CEbk6rNCuzNzMT06"
     },
     {
       "added_at": "2022-09-02 00:40:00",
@@ -1715,6 +1715,26 @@
     {
       "added_at": "2022-09-02 00:40:00",
       "album": {
+        "name": "I Remember",
+        "url": "https://open.spotify.com/album/2sb91FS5wPmcPf1GSgeAwF"
+      },
+      "artists": [
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        },
+        {
+          "name": "Russell Dickerson",
+          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
+        }
+      ],
+      "duration_ms": 168117,
+      "name": "I Remember",
+      "url": "https://open.spotify.com/track/5e2ZOmiFEAOFEgXNj1mHEk"
+    },
+    {
+      "added_at": "2022-09-02 00:40:00",
+      "album": {
         "name": "Toxic Pony",
         "url": "https://open.spotify.com/album/0foeyhY6LY8jZazsuQvSXf"
       },
@@ -1735,26 +1755,6 @@
       "duration_ms": 198041,
       "name": "Toxic Pony",
       "url": "https://open.spotify.com/track/6QHXcb0eFwOKZOZ9bOFmxm"
-    },
-    {
-      "added_at": "2022-09-02 00:40:00",
-      "album": {
-        "name": "I Remember",
-        "url": "https://open.spotify.com/album/2sb91FS5wPmcPf1GSgeAwF"
-      },
-      "artists": [
-        {
-          "name": "Cheat Codes",
-          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
-        },
-        {
-          "name": "Russell Dickerson",
-          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
-        }
-      ],
-      "duration_ms": 168117,
-      "name": "I Remember",
-      "url": "https://open.spotify.com/track/5e2ZOmiFEAOFEgXNj1mHEk"
     },
     {
       "added_at": "2022-09-02 00:40:00",

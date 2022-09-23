@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35oM5SPECmN.md) - [plain]
 
 > Uplifting and uptempo indie folk and roots rock, guaranteed to open your stride.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,428,446 likes - 75 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,428,397 likes - 75 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,35 +53,35 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35oM5SPECmN.md) - [plain]
 | 43 | [Barton Hollow](https://open.spotify.com/track/6ZOBY9RG2tcxXX0ohKtfRc) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Barton Hollow](https://open.spotify.com/album/4uWgDFxGAp7XlVSHuVBv4E) | 3:25 |
 | 44 | [Strange Girl](https://open.spotify.com/track/5cK0wREGoDqNKECNlw8xzx) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Song For Our Daughter](https://open.spotify.com/album/0ubXthGSkZfe30Nuj91lcu) | 3:21 |
 | 45 | [Good Times](https://open.spotify.com/track/0C9uaJt51ytJgwiZpRYyGM) | [The Lone Bellow](https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7) | [Half Moon Light](https://open.spotify.com/album/6jqJNgfl234UYEWeP3iRF1) | 3:49 |
-| 46 | [White Flag](https://open.spotify.com/track/3nDM1ezsfSuuYaFN4sicp1) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [I'm Alone, No You're Not](https://open.spotify.com/album/0kb4iBtX69frHEfyNv7EJG) | 3:19 |
-| 47 | [Expectations](https://open.spotify.com/track/5j5bXVwxBapNPj0MbYBa6f) | [Katie Pruitt](https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s) | [Expectations](https://open.spotify.com/album/1v30ZLtb2nYIWqDto4GuIP) | 3:55 |
+| 46 | [Expectations](https://open.spotify.com/track/5j5bXVwxBapNPj0MbYBa6f) | [Katie Pruitt](https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s) | [Expectations](https://open.spotify.com/album/1v30ZLtb2nYIWqDto4GuIP) | 3:55 |
+| 47 | [White Flag](https://open.spotify.com/track/3nDM1ezsfSuuYaFN4sicp1) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [I'm Alone, No You're Not](https://open.spotify.com/album/0kb4iBtX69frHEfyNv7EJG) | 3:19 |
 | 48 | [Fast and Slow](https://open.spotify.com/track/7omE4K9WTUmbD9TzVPyTjZ) | [Sons Of The East](https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej) | [Already Gone](https://open.spotify.com/album/0qOy9NpS6fADbXb0ViXNtE) | 4:09 |
 | 49 | [Own Alone](https://open.spotify.com/track/2wSJmOCCeO3Nvq1eRqJuTD) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Sad Hunk](https://open.spotify.com/album/0vWNWn7PcEotOycEtBC7br) | 3:15 |
-| 50 | [Hideaway](https://open.spotify.com/track/3bAgQ4fNuTVf98RtiVgKRv) | [MAGIC GIANT](https://open.spotify.com/artist/7eaa5bidliPI0djFYv166f) | [In The Wind](https://open.spotify.com/album/7tSccVmXBn6RyHKoeKgKIv) | 4:10 |
-| 51 | [Roots And Wings](https://open.spotify.com/track/6p2ptJ8ZTeN7Qi7I64oG74) | [The Wallflowers](https://open.spotify.com/artist/0jJNGWrpjGIHUdTTJiIYeB) | [Exit Wounds](https://open.spotify.com/album/53XIkqGsvjR2WayoVSvz6l) | 3:54 |
-| 52 | [New Earth](https://open.spotify.com/track/3uT9svp7O7rAzrFgvCq8cW) | [Cass McCombs](https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz) | [Heartmind](https://open.spotify.com/album/2HutgntzLdadMPeSLrwmT1) | 4:11 |
+| 50 | [Grace](https://open.spotify.com/track/4i4gcJSMofr3Pe9YWThzRp) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB) | [\(self\-titled\)](https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE) | 4:13 |
+| 51 | [Hideaway](https://open.spotify.com/track/3bAgQ4fNuTVf98RtiVgKRv) | [MAGIC GIANT](https://open.spotify.com/artist/7eaa5bidliPI0djFYv166f) | [In The Wind](https://open.spotify.com/album/7tSccVmXBn6RyHKoeKgKIv) | 4:10 |
+| 52 | [Roots And Wings](https://open.spotify.com/track/6p2ptJ8ZTeN7Qi7I64oG74) | [The Wallflowers](https://open.spotify.com/artist/0jJNGWrpjGIHUdTTJiIYeB) | [Exit Wounds](https://open.spotify.com/album/53XIkqGsvjR2WayoVSvz6l) | 3:54 |
 | 53 | [Take The Journey](https://open.spotify.com/track/3cGblMVSNAG6UgIsro3kQ0) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [When You're Ready](https://open.spotify.com/album/1w0K4edsnTTxo2p6ZCErUV) | 2:42 |
-| 54 | [Smile](https://open.spotify.com/track/5MOHiX0uAj555wbYJyBnDy) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Moon And Stars: Prescriptions For Dreamers](https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO) | 3:30 |
-| 55 | [Don't Let It Get You Down](https://open.spotify.com/track/4jjvUXBBqQDFRGX4SR5OhS) | [Johnnyswim](https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm) | [Heart Beats](https://open.spotify.com/album/3tt2SVYuamD48tewEdDqza) | 3:20 |
-| 56 | [Comeback Kid](https://open.spotify.com/track/1Qpyt7U1yu4tfuJc4LKuzF) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Remind Me Tomorrow](https://open.spotify.com/album/4bfvR9TMwCm2tzXpboLH3t) | 3:02 |
-| 57 | [Can’t Do Much](https://open.spotify.com/track/0sEJmxTlb2SZNxdjzBATPK) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Saint Cloud](https://open.spotify.com/album/4V1EQ7wQZUoiPjMY0WtY3M) | 3:44 |
+| 54 | [New Earth](https://open.spotify.com/track/3uT9svp7O7rAzrFgvCq8cW) | [Cass McCombs](https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz) | [Heartmind](https://open.spotify.com/album/2HutgntzLdadMPeSLrwmT1) | 4:11 |
+| 55 | [Smile](https://open.spotify.com/track/5MOHiX0uAj555wbYJyBnDy) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Moon And Stars: Prescriptions For Dreamers](https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO) | 3:30 |
+| 56 | [Don't Let It Get You Down](https://open.spotify.com/track/4jjvUXBBqQDFRGX4SR5OhS) | [Johnnyswim](https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm) | [Heart Beats](https://open.spotify.com/album/3tt2SVYuamD48tewEdDqza) | 3:20 |
+| 57 | [Comeback Kid](https://open.spotify.com/track/1Qpyt7U1yu4tfuJc4LKuzF) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Remind Me Tomorrow](https://open.spotify.com/album/4bfvR9TMwCm2tzXpboLH3t) | 3:02 |
 | 58 | [Hold Out Your Hand](https://open.spotify.com/track/0xpKRzMR9x53jKSdugItan) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [By The Way, I Forgive You](https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l) | 4:22 |
-| 59 | [Can't Cheat Death](https://open.spotify.com/track/2W7LF1AC58Y4Qmk9UpZ5c1) | [The Ballroom Thieves](https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC) | [Paper Crown](https://open.spotify.com/album/6SZ8LmrpZfJofLgriF6yIZ) | 3:10 |
-| 60 | [Elevate](https://open.spotify.com/track/5BxVRqpZi6tIhAap1ZjzVD) | [St\. Lucia](https://open.spotify.com/artist/5WId4o5jdGVhptNU0uqKxu) | [When The Night](https://open.spotify.com/album/7fbye8EAeiLsiKAe2upMEh) | 5:08 |
+| 59 | [Can’t Do Much](https://open.spotify.com/track/0sEJmxTlb2SZNxdjzBATPK) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Saint Cloud](https://open.spotify.com/album/4V1EQ7wQZUoiPjMY0WtY3M) | 3:44 |
+| 60 | [Can't Cheat Death](https://open.spotify.com/track/2W7LF1AC58Y4Qmk9UpZ5c1) | [The Ballroom Thieves](https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC) | [Paper Crown](https://open.spotify.com/album/6SZ8LmrpZfJofLgriF6yIZ) | 3:10 |
 | 61 | [Caesar Knows](https://open.spotify.com/track/7skCLVpO2PbGfPib1FgD5C) | [Oliver Hazard](https://open.spotify.com/artist/3F4iXxXxe7iazo3Jnwucng) | [34 N\. River](https://open.spotify.com/album/1DBaSoZDEr2HG4X3TTDjjw) | 2:36 |
-| 62 | [Grace](https://open.spotify.com/track/4i4gcJSMofr3Pe9YWThzRp) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB) | [\(self\-titled\)](https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE) | 4:13 |
-| 63 | [Monochrome](https://open.spotify.com/track/6ERbOSiVlLgwYcKsN3kmY6) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [Monochrome](https://open.spotify.com/album/2nXzlL3Zhd3LnZkAMyvesX) | 3:28 |
+| 62 | [Elevate](https://open.spotify.com/track/5BxVRqpZi6tIhAap1ZjzVD) | [St\. Lucia](https://open.spotify.com/artist/5WId4o5jdGVhptNU0uqKxu) | [When The Night](https://open.spotify.com/album/7fbye8EAeiLsiKAe2upMEh) | 5:08 |
+| 63 | [My Boy](https://open.spotify.com/track/5ndSLoHMt298BYsru2seYK) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [My Boy](https://open.spotify.com/album/6BkPM6yssffxIhcKimWI3B) | 2:43 |
 | 64 | [Right Time](https://open.spotify.com/track/33bIBZTNim7ZxKrhEAXYyu) | [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [All Or Nothin'](https://open.spotify.com/album/1d0rJFoBz1G0QsIpyYOa1s) | 3:21 |
-| 65 | [Awake](https://open.spotify.com/track/47ed9eO66cBHvWteLlF7C0) | [Freedom Fry](https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7) | [Classic](https://open.spotify.com/album/2gHoyHYnaGEctKR8kysOAU) | 3:14 |
-| 66 | [My Boy](https://open.spotify.com/track/5ndSLoHMt298BYsru2seYK) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [My Boy](https://open.spotify.com/album/6BkPM6yssffxIhcKimWI3B) | 2:43 |
+| 65 | [Monochrome](https://open.spotify.com/track/6ERbOSiVlLgwYcKsN3kmY6) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [Monochrome](https://open.spotify.com/album/2nXzlL3Zhd3LnZkAMyvesX) | 3:28 |
+| 66 | [Awake](https://open.spotify.com/track/47ed9eO66cBHvWteLlF7C0) | [Freedom Fry](https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7) | [Classic](https://open.spotify.com/album/2gHoyHYnaGEctKR8kysOAU) | 3:14 |
 | 67 | [Making Do](https://open.spotify.com/track/1ID7FIrnDFtAoRebVRBhlO) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Obviously](https://open.spotify.com/album/2Zi7uv234eNZJfLPGUIkSD) | 3:34 |
 | 68 | [Las Vegas](https://open.spotify.com/track/6dnrxlk3s3we2lqMvckukJ) | [Houndmouth](https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5) | [Good For You](https://open.spotify.com/album/7pDkPWgwrc2weqXdL0ID6m) | 3:42 |
 | 69 | [Philosophize In It! Chemicalize With It!](https://open.spotify.com/track/7ICjrouimwa79iCbBdUWoq) | [Kishi Bashi](https://open.spotify.com/artist/3LVPGE5jPPwtbGslx07YR0) | [Lighght \(Deluxe Version\)](https://open.spotify.com/album/3oPVMDW85Fo8tXQWKhYIQO) | 3:20 |
 | 70 | [Who Do You Think You're Talking To?](https://open.spotify.com/track/3JRKgmK00uNLQzXGcLUaZ3) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [Good Luck With Whatever](https://open.spotify.com/album/3esEgXmUs1zjBVqijbZ6RQ) | 3:19 |
 | 71 | [Bad Moves](https://open.spotify.com/track/04LtT3aIQTrKUpVR9UG3OL) | [The Bones of J.R\. Jones](https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn) | [Bad Moves](https://open.spotify.com/album/6c2fkeEyjpOCqJqj5L6BTy) | 4:06 |
-| 72 | [Living In The City](https://open.spotify.com/track/03NrJwKoZVAhiBz4jsWVCx) | [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt) | [The Navigator](https://open.spotify.com/album/31poENBRik5Velm7Z2gPSw) | 3:16 |
-| 73 | [Heroes](https://open.spotify.com/track/1FudW4lBMbxG1BVP7Ko1DT) | [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw) | [Heroes](https://open.spotify.com/album/7817F6Nn9C1XdQmENndiks) | 3:13 |
-| 74 | [Highway Queen](https://open.spotify.com/track/1HSK85Escjg7ClgwgnMI0G) | [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [Highway Queen](https://open.spotify.com/album/0tYgeDm3xRF6AV19UwDXXW) | 3:51 |
-| 75 | [On The Road Again](https://open.spotify.com/track/6f2o3F3BoPwlicA0ko2gAb) | [The Brother Brothers](https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5) | [Calla Lily](https://open.spotify.com/album/44QrG8cDITqHHGZcGfeZWr) | 2:53 |
+| 72 | [Highway Queen](https://open.spotify.com/track/1HSK85Escjg7ClgwgnMI0G) | [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [Highway Queen](https://open.spotify.com/album/0tYgeDm3xRF6AV19UwDXXW) | 3:51 |
+| 73 | [Living In The City](https://open.spotify.com/track/03NrJwKoZVAhiBz4jsWVCx) | [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt) | [The Navigator](https://open.spotify.com/album/31poENBRik5Velm7Z2gPSw) | 3:16 |
+| 74 | [Heroes](https://open.spotify.com/track/1FudW4lBMbxG1BVP7Ko1DT) | [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw) | [Heroes](https://open.spotify.com/album/7817F6Nn9C1XdQmENndiks) | 3:13 |
+| 75 | [Down in the Country](https://open.spotify.com/track/53XNcCqYctEXLvT8XvumCC) | [Israel Nash](https://open.spotify.com/artist/5skM4jc4QoEpHiWWl6OoW7) | [Topaz](https://open.spotify.com/album/0jvcLSp8mVWIEgcoTVqeM2) | 3:34 |
 
-Snapshot ID: `MTY2MzYxNDY0MSwwMDAwMDAwMDc1YjNlZjJiNGQ5YjZmMGI4ODYyYWFkNjFhNmM1NTJj`
+Snapshot ID: `MTY2MzYxNDY0MSwwMDAwMDAwMDgzNjNjZjI2ZTMyYTYxY2YyY2E4NjIzNDdkMzYzYTli`

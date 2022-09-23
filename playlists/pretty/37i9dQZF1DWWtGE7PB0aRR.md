@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtGE7PB0aRR.md) - [plain]
 
 > Blues with a British flavor\. Cover: Jeff Beck
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,115 likes - 64 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,167 likes - 64 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,16 +26,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtGE7PB0aRR.md) - [plain]
 | 16 | [In the Skies](https://open.spotify.com/track/526nHQfF4e5fqr6I2WwyVE) | [Peter Green](https://open.spotify.com/artist/3y1DgnVXqckGJrbwOKchdU) | [In the Skies](https://open.spotify.com/album/2lN1smqF0snKbzvR6ZY7FJ) | 3:49 |
 | 17 | [I Just Want to Make Love to You \- 2016 Remaster](https://open.spotify.com/track/6dYZUX7ClBtpzUE7coynkt) | [Foghat](https://open.spotify.com/artist/6x33CmZWo2Ve4hxYl2Craq) | [Foghat \(2016 Remaster\)](https://open.spotify.com/album/6joHhNZW3Wmu62vFiqL3mQ) | 4:20 |
 | 18 | [Walk In My Shadow](https://open.spotify.com/track/6URu54HPMyL9SjnzXn607m) | [Free](https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC) | [Tons Of Sobs](https://open.spotify.com/album/3h2uQXJFhgBTVQpZWfXKi9) | 3:30 |
-| 19 | [They Don't Make Them Like You Anymore](https://open.spotify.com/track/5bpefadeY6xmGgkXkylqSt) | [Rory Gallagher](https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV) | [Tattoo \(Remastered 2017\)](https://open.spotify.com/album/4lC6XXj4Cq9rsaJh7EghRg) | 4:04 |
-| 20 | [Boneyard \- Edit](https://open.spotify.com/track/1zHHwTIloBthaYONQX2TZ0) | [Fink](https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf) | [Boneyard](https://open.spotify.com/album/6PAu4B2YSVrbCzELEhyAmU) | 3:20 |
+| 19 | [Boneyard \- Edit](https://open.spotify.com/track/1zHHwTIloBthaYONQX2TZ0) | [Fink](https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf) | [Boneyard](https://open.spotify.com/album/6PAu4B2YSVrbCzELEhyAmU) | 3:20 |
+| 20 | [They Don't Make Them Like You Anymore](https://open.spotify.com/track/5bpefadeY6xmGgkXkylqSt) | [Rory Gallagher](https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV) | [Tattoo \(Remastered 2017\)](https://open.spotify.com/album/4lC6XXj4Cq9rsaJh7EghRg) | 4:04 |
 | 21 | [\(I Know\) I'm Losing You](https://open.spotify.com/track/7s7ylhLGL0sV6TU9bzpN5S) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Every Picture Tells A Story](https://open.spotify.com/album/4VykjLwkyfKMZVLrJJVrYh) | 5:23 |
 | 22 | [Tell Mama](https://open.spotify.com/track/53g0wWZkXPiQPjqVuZ5TFS) | [Savoy Brown](https://open.spotify.com/artist/17obwOahRWI121iMUZznh2) | [Street Corner Talking](https://open.spotify.com/album/5oq20r8iNOO9fpw8R2h3vE) | 5:23 |
 | 23 | [Songs Of Yesterday](https://open.spotify.com/track/7jYXoudEWfERVDFZHM8Nfw) | [Free](https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC) | [Free](https://open.spotify.com/album/2yZXtlCUGjaOYBGc9qqeay) | 3:35 |
 | 24 | [Cheats and Liars](https://open.spotify.com/track/7k0hyVgSg0woUwN1qAuuBf) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Shining in the Half Light](https://open.spotify.com/album/1qXhwQrfr59v0uk5wUOshO) | 3:48 |
 | 25 | [I Woke up This Morning](https://open.spotify.com/track/20yxud4lZiqNzkreGyliiA) | [Ten Years After](https://open.spotify.com/artist/7nkLRaWHImCvWGHdNGnhVE) | [Goin' Home!](https://open.spotify.com/album/22PaF4yYYiTjFpDgeN7zLX) | 5:30 |
 | 26 | [Harmonica](https://open.spotify.com/track/1RzvCKDGLcPaz9jEpsADWZ) | [The Graham Bond Organisation](https://open.spotify.com/artist/2YHcSCb5tMbCoovS962pff), [Jack Bruce](https://open.spotify.com/artist/73ndLgs6jSrpZzjyzU9TJV), [Ginger Baker](https://open.spotify.com/artist/5xTbqEbkihxdjj2jyYSthw) | [Gonks Go Beat \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6F7KmbT7Do6tetnKzE5C3i) | 2:49 |
-| 27 | [In Your Town \- Alternate Take 3](https://open.spotify.com/track/31qFaijhaTMs3Xe0pzq0Bl) | [Rory Gallagher](https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV) | [Deuce \(50th Anniversary\)](https://open.spotify.com/album/5OL57ObDW2DkOHQp0jQDeX) | 5:34 |
-| 28 | [Evil Woman](https://open.spotify.com/track/6WaPZ4qGseF8TS9jTvKHsr) | [Spooky Tooth](https://open.spotify.com/artist/5YE3Wwk5wqQmFXM5qyaM6u) | [Spooky Two](https://open.spotify.com/album/21cn3spYbbQ1aAuzNoeRRp) | 9:08 |
+| 27 | [Evil Woman](https://open.spotify.com/track/6WaPZ4qGseF8TS9jTvKHsr) | [Spooky Tooth](https://open.spotify.com/artist/5YE3Wwk5wqQmFXM5qyaM6u) | [Spooky Two](https://open.spotify.com/album/21cn3spYbbQ1aAuzNoeRRp) | 9:08 |
+| 28 | [In Your Town \- Alternate Take 3](https://open.spotify.com/track/31qFaijhaTMs3Xe0pzq0Bl) | [Rory Gallagher](https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV) | [Deuce \(50th Anniversary\)](https://open.spotify.com/album/5OL57ObDW2DkOHQp0jQDeX) | 5:34 |
 | 29 | [The Fool and Me \- 2007 Remaster](https://open.spotify.com/track/0KaBfk7ax1IoCyA1aABCf9) | [Robin Trower](https://open.spotify.com/artist/0MAvx5yzdhylg2ztJC3MD3) | [Bridge Of Sighs \(2007 Remaster\)](https://open.spotify.com/album/2ufQ2fXlHknTw5RtIN7qaC) | 3:55 |
 | 30 | [Delta Lady](https://open.spotify.com/track/0gHjMu0zgdBA0GcaA6B6x0) | [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI) | [Joe Cocker!](https://open.spotify.com/album/3MoIn4co8ZN5vhLNekUqnc) | 2:50 |
 | 31 | [Cries from the Midnight Circus](https://open.spotify.com/track/52Fn9DRxCDZlcjZXXxxqT5) | [The Pretty Things](https://open.spotify.com/artist/5U16QlMnlSAhkQxBZpLyLO) | [Parachute](https://open.spotify.com/album/1mz6AZJZanmgynkVQgflMK) | 6:28 |
@@ -66,11 +66,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtGE7PB0aRR.md) - [plain]
 | 56 | [Sittin' And Thinkin' \- Mono Version](https://open.spotify.com/track/0umo8TT1q9CQbOwfjHHK1O) | [The Spencer Davis Group](https://open.spotify.com/artist/3i9hP422d2KMjaupTzBNVS) | [Their First LP \(Mono Version\)](https://open.spotify.com/album/3S64E4pbZbfsB7gJWxrRDT) | 2:57 |
 | 57 | [Hey Baby, Everything's Gonna Be Alright, Yeh Yeh Yeh](https://open.spotify.com/track/0IDPpYCPWQfcMJABUxqoGc) | [Climax Blues Band](https://open.spotify.com/artist/4eeRviM714mXXeILmKHxh2) | [The Climax Blues Band Plays On](https://open.spotify.com/album/7Dyfx1BcJMbajqziS2ppka) | 4:26 |
 | 58 | [My Heart Beat Like a Hammer \- Take 2](https://open.spotify.com/track/6miLmB0XTcmTqGFoz3gWAA) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Peter Green's Fleetwood Mac \(Deluxe\)](https://open.spotify.com/album/4QtzKoXiBdSUTJbukiEiPr) | 3:32 |
-| 59 | [Jo Ann](https://open.spotify.com/track/2fsmlot7lUJuNMt3AIcSys) | [Them](https://open.spotify.com/artist/5BaHqGtf6UAZnHfqdPaTDA) | [Them](https://open.spotify.com/album/5woWYPtFL1yreRRqKEGUyQ) | 2:55 |
-| 60 | [I Put a Spell on You](https://open.spotify.com/track/7j7yDC9hh6kAvSVP0XrkbO) | [Manfred Mann](https://open.spotify.com/artist/5670CyWrIOA7702gNjsGMZ) | [Down the Road Apiece \- the Recordings 1963\-1966](https://open.spotify.com/album/13VP0DyGZZq15NzDVoh79y) | 3:35 |
+| 59 | [I Put a Spell on You](https://open.spotify.com/track/7j7yDC9hh6kAvSVP0XrkbO) | [Manfred Mann](https://open.spotify.com/artist/5670CyWrIOA7702gNjsGMZ) | [Down the Road Apiece \- the Recordings 1963\-1966](https://open.spotify.com/album/13VP0DyGZZq15NzDVoh79y) | 3:35 |
+| 60 | [Jo Ann](https://open.spotify.com/track/2fsmlot7lUJuNMt3AIcSys) | [Them](https://open.spotify.com/artist/5BaHqGtf6UAZnHfqdPaTDA) | [Them](https://open.spotify.com/album/5woWYPtFL1yreRRqKEGUyQ) | 2:55 |
 | 61 | [Desperation \(Stereo Version\)](https://open.spotify.com/track/1wgPsruWiUSxgeFel6L7t5) | [Humble Pie](https://open.spotify.com/artist/2CxLP749mup3ncPrXgCnvU) | [As Safe As Yesterday Is](https://open.spotify.com/album/43KR0GXJQQ7uBwTdga0QLw) | 6:27 |
 | 62 | [Days Like This](https://open.spotify.com/track/3mMtsmooHmJo6Ciiwo6oPv) | [Danny Bryant](https://open.spotify.com/artist/0y5sFo3j8Mo01UVEfqeuqn) | [02:10 The Early Years](https://open.spotify.com/album/1PWmGi9UjaHpHi2p8TBQh9) | 8:15 |
 | 63 | [Highway \(Killing Me\) \- 2016 Remaster](https://open.spotify.com/track/26lMoZvdVmBdAribSN7RLL) | [Foghat](https://open.spotify.com/artist/6x33CmZWo2Ve4hxYl2Craq) | [Foghat \(2016 Remaster\)](https://open.spotify.com/album/6joHhNZW3Wmu62vFiqL3mQ) | 3:50 |
 | 64 | [Someday Baby Blues](https://open.spotify.com/track/0KkRdukZsl1Fzc56pgorCd) | [Jo Ann Kelly](https://open.spotify.com/artist/6enyYil5r9snkIazgAX5DG) | [Blues & Gospel \(Rare & Unreleased Recordings\)](https://open.spotify.com/album/1X6zfC44u7x4iDVrrX1bo9) | 3:36 |
 
-Snapshot ID: `MTY2MzMwMDg2MCwwMDAwMDAwMDhmY2FkMGZlOTFmMDY0M2ZjZWE3ZmM5NWU0OWQwMDYx`
+Snapshot ID: `MTY2MzMwMDg2MCwwMDAwMDAwMGIyYTRiZTI4OTk5YzgzNWZkMjIyM2NlZDM3MWM4NWEx`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Spillelisten som byr p\u00e5 en rekke b\u00f8gdebangers du liker \u00e5 spelle i kjerra! Cover: Den BB & Oskar Westerlin",
+  "description": "Spillelisten som byr p\u00e5 en rekke b\u00f8gdebangers du liker \u00e5 spelle i kjerra! Cover: Ringnes-Ronny",
   "name": "Livet p\u00e5 B\u00f8gda!",
   "published_playlist_ids": [
     "3zMqShr44pcg3CK0Psc64W"
@@ -1451,7 +1451,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 151304,
       "name": "Flaska",
       "url": "https://open.spotify.com/track/5PIXzeI6g83I0QkD7z7orD"
@@ -1469,7 +1469,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 126450,
       "name": "FRATERNITY",
       "url": "https://open.spotify.com/track/7wcbaD93iX2uIcP1X9oDKq"
@@ -1597,7 +1597,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 118125,
       "name": "Fylleangst",
       "url": "https://open.spotify.com/track/1gcTGGDqXQWe97FMTUxPP9"
@@ -1767,7 +1767,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-13",
+      "date_removed": null,
       "duration_ms": 158866,
       "name": "GUTTA (feat. Plumbo)",
       "url": "https://open.spotify.com/track/5DXX1gqh2B9pvK042sb3mE"
@@ -2807,7 +2807,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-19",
+      "date_removed": null,
       "duration_ms": 274053,
       "name": "Levva Livet",
       "url": "https://open.spotify.com/track/56C8jz11WNH1PM677aq6ez"
@@ -3041,7 +3041,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 120812,
       "name": "MILLION",
       "url": "https://open.spotify.com/track/1BN63Kxnw30peKSp5xLVNl"
@@ -3437,7 +3437,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 150142,
       "name": "RAGGA V\u00c4RLDEN RUNT",
       "url": "https://open.spotify.com/track/6PTD6A0ttYfoAoOHkzu1Ba"
@@ -3498,6 +3498,24 @@
     },
     {
       "album": {
+        "name": "Raggen m\u00e5ste g\u00e5",
+        "url": "https://open.spotify.com/album/3G2aieDiN6qhTZyvHGJhGF"
+      },
+      "artists": [
+        {
+          "name": "Ringnes-Ronny",
+          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131571,
+      "name": "Raggen m\u00e5ste g\u00e5",
+      "url": "https://open.spotify.com/track/3IhR0OCASlmyMHAx8HAKdr"
+    },
+    {
+      "album": {
         "name": "Rett Ut Av Rehab",
         "url": "https://open.spotify.com/album/0EsF8pGhd04FZFwbYW1ilI"
       },
@@ -3553,6 +3571,28 @@
       "duration_ms": 169786,
       "name": "Ronny & Ragge",
       "url": "https://open.spotify.com/track/0u64RPrwUD8k2R8tdy8wwI"
+    },
+    {
+      "album": {
+        "name": "Ruller Norge Rundt",
+        "url": "https://open.spotify.com/album/6lnw4ZdNLMZaciC3wiHQso"
+      },
+      "artists": [
+        {
+          "name": "ZadeKing",
+          "url": "https://open.spotify.com/artist/1HFOFTPBhTc2hxFWJw1yzw"
+        },
+        {
+          "name": "Mr Melk",
+          "url": "https://open.spotify.com/artist/2sfYCaSe6ZMDYZxmhA0ujD"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143144,
+      "name": "Ruller Norge Rundt",
+      "url": "https://open.spotify.com/track/2L0Rir3jfe18FLKtRfWc5j"
     },
     {
       "album": {
@@ -4551,7 +4591,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-10",
+      "date_removed": null,
       "duration_ms": 151933,
       "name": "Wellerman",
       "url": "https://open.spotify.com/track/4rFhv1bOt5M7rRa83KEY71"

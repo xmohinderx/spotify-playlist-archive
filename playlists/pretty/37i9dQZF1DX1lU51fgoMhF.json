@@ -1,12 +1,12 @@
 {
   "description": "Be cool with refreshing Tropical K-Pop dance music! (\uc2dc\uc6d0\uccad\ub7c9\ud55c \uad6d\ub0b4 \ub304\uc2a4\uace1\uc744 \uc990\uaca8\ubcf4\uc138\uc694!) (Cover: NAYEON(\ub098\uc5f0))",
-  "num_followers": 105722,
+  "num_followers": 105773,
   "original_name": "Summer K-Pop Hits (\uc378\uba38 \ud788\ud2b8)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjM1OTQ5MSwwMDAwMDAwMDc4NTk3YTZmZWNlYTc4ZTA3YjBiYjczNDMzZTBhOTVi",
+  "snapshot_id": "MTY2MjM1OTQ5MSwwMDAwMDAwMDExODg2NzFiMmQ2NTVlODlmYTViODhmYzY3YzRlM2I1",
   "tracks": [
     {
       "added_at": "2022-09-05 06:31:31",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2022-09-05 06:31:31",
       "album": {
-        "name": "SPECIAL ALBUM [Storage of ONF]",
-        "url": "https://open.spotify.com/album/4DMNgwsMFZzefb1HBAmHwG"
-      },
-      "artists": [
-        {
-          "name": "ONF",
-          "url": "https://open.spotify.com/artist/0eEhOgZ2x6kv8kLz77WO7b"
-        }
-      ],
-      "duration_ms": 220546,
-      "name": "Your Song",
-      "url": "https://open.spotify.com/track/59yoeKUIiRIFNxlA13AlDt"
-    },
-    {
-      "added_at": "2022-09-05 06:31:31",
-      "album": {
         "name": "PROMISE U (REVIBE Vol.1)",
         "url": "https://open.spotify.com/album/4eJdKwHH9rb3dNbtIsBgjV"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 207613,
       "name": "Promise U",
       "url": "https://open.spotify.com/track/3S0yfEkrXLpHjcizhj97nf"
+    },
+    {
+      "added_at": "2022-09-05 06:31:31",
+      "album": {
+        "name": "SPECIAL ALBUM [Storage of ONF]",
+        "url": "https://open.spotify.com/album/4DMNgwsMFZzefb1HBAmHwG"
+      },
+      "artists": [
+        {
+          "name": "ONF",
+          "url": "https://open.spotify.com/artist/0eEhOgZ2x6kv8kLz77WO7b"
+        }
+      ],
+      "duration_ms": 220546,
+      "name": "Your Song",
+      "url": "https://open.spotify.com/track/59yoeKUIiRIFNxlA13AlDt"
     },
     {
       "added_at": "2022-09-05 06:31:31",

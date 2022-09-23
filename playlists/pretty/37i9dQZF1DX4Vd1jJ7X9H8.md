@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Vd1jJ7X9H8.md) - [plain]
 
 > it's not just an indie kid with an aux, it's \*chic\*
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,695 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,990 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Vd1jJ7X9H8.md) - [plain]
 | 69 | [Foreign Language](https://open.spotify.com/track/6M0cy8N7KQhaYbJ7088D28) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [Jess](https://open.spotify.com/artist/0vzlcDC7qhbx7pm9ExsQV7) | [Foreign Language](https://open.spotify.com/album/0VaOUq9SfMxBspe18eyufo) | 4:04 |
 | 70 | [The Mission](https://open.spotify.com/track/4CGORuRtjSK6xMy8s1VvSS) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [The Mission](https://open.spotify.com/album/0jsaa9MWnJM4EUG81Ja2fn) | 3:11 |
 | 71 | [Just For Me \(with SZA\) \- Space Jam: A New Legacy](https://open.spotify.com/track/3B5yl01KF06NkYG39BdTBa) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Just For Me \(Space Jam: A New Legacy\)](https://open.spotify.com/album/0uXCtaJMMAAgaB1AavNLSh) | 3:37 |
-| 72 | [Keep Moving](https://open.spotify.com/track/6a88fc0zSrVWGPdoj445nJ) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Keep Moving](https://open.spotify.com/album/2RfWbfIULVPJq4Ng554eyX) | 4:00 |
-| 73 | [Wallflower](https://open.spotify.com/track/2mlCfcprMj3aOUX2uYuQEE) | [Tim Atlas](https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH) | [Wallflower](https://open.spotify.com/album/6N89NI7s5lwbpa9s1VWgYm) | 2:57 |
+| 72 | [Wallflower](https://open.spotify.com/track/2mlCfcprMj3aOUX2uYuQEE) | [Tim Atlas](https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH) | [Wallflower](https://open.spotify.com/album/6N89NI7s5lwbpa9s1VWgYm) | 2:57 |
+| 73 | [Keep Moving](https://open.spotify.com/track/6a88fc0zSrVWGPdoj445nJ) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Keep Moving](https://open.spotify.com/album/2RfWbfIULVPJq4Ng554eyX) | 4:00 |
 | 74 | [Sex n' Drugs](https://open.spotify.com/track/0G2wimhVoDYXbQ6csDxtSf) | [Abhi The Nomad](https://open.spotify.com/artist/1gUi2utSbJLNPddYENJAp4), [Harrison Sands](https://open.spotify.com/artist/5lwE4ASworJdeRDXu5g9en), [Copper King](https://open.spotify.com/artist/0UcRuQorbZibK50cFtsJh3) | [Marbled](https://open.spotify.com/album/4UdZHRBCIoe7XCPr8KdVg7) | 3:37 |
 | 75 | [Experience](https://open.spotify.com/track/2oap3QptGISyIvwKpnJJId) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [JAGUAR](https://open.spotify.com/album/6aW67R0sshdUwtbJEG2uQR) | 2:56 |
 | 76 | [Lose My Cool \- Franc Moody Remix](https://open.spotify.com/track/4gdQamULpFs7WeyFGfmTCZ) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu), [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Lose My Cool \(Remixes\)](https://open.spotify.com/album/1UG98QDB2VZMhJtYZaRQAA) | 4:17 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Vd1jJ7X9H8.md) - [plain]
 | 80 | [Chemicals](https://open.spotify.com/track/2ORvnjpTAXtyTKnaGAgFIv) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [times](https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY) | 4:15 |
 | 81 | [2001](https://open.spotify.com/track/18mdHJIozzktPJ93oXk39A) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Life Is Yours](https://open.spotify.com/album/7CBK26TFXHyt2l6NQcXIsq) | 4:26 |
 | 82 | [Heybb!](https://open.spotify.com/track/3sN85u5M7FoMmHa8E2aViO) | [binki](https://open.spotify.com/artist/2jbd7OqeJJd1hz81vOXwwW) | [Heybb!](https://open.spotify.com/album/5CfgvNG8Y0ZGXAx3rNvjC8) | 2:28 |
-| 83 | [Gospel For A New Century](https://open.spotify.com/track/46LX0sSwIU4GFLcj23ZfMA) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Heaven To A Tortured Mind](https://open.spotify.com/album/5wnCTZtzIZxasRSHzI1JeW) | 3:18 |
-| 84 | [Blur](https://open.spotify.com/track/15IfeWfzxJtcKBgx6oDHvl) | [dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [Blur](https://open.spotify.com/album/0oQLzvDrvXSwmUfXlnCwc8) | 3:40 |
+| 83 | [Blur](https://open.spotify.com/track/15IfeWfzxJtcKBgx6oDHvl) | [dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [Blur](https://open.spotify.com/album/0oQLzvDrvXSwmUfXlnCwc8) | 3:40 |
+| 84 | [Gospel For A New Century](https://open.spotify.com/track/46LX0sSwIU4GFLcj23ZfMA) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Heaven To A Tortured Mind](https://open.spotify.com/album/5wnCTZtzIZxasRSHzI1JeW) | 3:18 |
 | 85 | [Time](https://open.spotify.com/track/2Oc5ez4PVPnIWAmYr8i99V) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [times](https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY) | 4:19 |
 | 86 | [Too Much \(feat\. Lucky Daye\)](https://open.spotify.com/track/2SF0GLxRCm3IcYoVagrKhj) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Too Much \(feat\. Lucky Daye\)](https://open.spotify.com/album/72sbcb1TU3tshd27FuJ1Gi) | 3:35 |
 | 87 | [Juice](https://open.spotify.com/track/3BINSFSuHalV8yoX3zAVbl) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Pell](https://open.spotify.com/artist/2O2dI9lY9PnWtAa4OlrgMi) | [Juice](https://open.spotify.com/album/6IrbtLsuCh1AAnK5Br72lR) | 3:31 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Vd1jJ7X9H8.md) - [plain]
 | 99 | [The Sun](https://open.spotify.com/track/2hhVlIZmGEGfNeVIYnMUAG) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [All Inclusive](https://open.spotify.com/album/3poeqbKVhcXTRFoOMzwiQS) | 3:28 |
 | 100 | [Weekend](https://open.spotify.com/track/4Zc6fjadh1ONHDtec9poAD) | [Clubhouse](https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX) | [Are We Going Too Slow?](https://open.spotify.com/album/4WrVZgQ5FMGG8596elftve) | 3:08 |
 
-Snapshot ID: `MTY2MzY4MjU4MiwwMDAwMDAwMGQxNGQ4MjcxYWY1OTFlMTFmYzgwYTM0NTE1ZWY1ZDA3`
+Snapshot ID: `MTY2MzY4MjU4MiwwMDAwMDAwMGNmMTBjMDI3ZjI0NWY3ZjM3ZWUwYTM3MWYyZDUwNWU2`

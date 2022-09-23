@@ -2,9 +2,9 @@
 
 ### [Pop Covers](https://open.spotify.com/playlist/37i9dQZF1DX2i24iHGhL24)
 
-> Reimagined pop covers of your favorite songs\.  Cover: Sasha Alex Sloan
+> Reimagined pop covers of your favorite songs\.  Cover: Lewis Capaldi
 
-319 songs - 18 hr 17 min - [published](https://open.spotify.com/playlist/0YqLmoULLKOfYm2xjQ8vjJ)
+320 songs - 18 hr 21 min - [published](https://open.spotify.com/playlist/0YqLmoULLKOfYm2xjQ8vjJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Dreams \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2q9jsX0poviVu9OSWgmRYg) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Spotify Singles](https://open.spotify.com/album/3Kvg9h8w3OMPNkDISwcal8) | 3:59 | 2021-12-17 | 2022-04-16 |
 | [Driver's License \(Acoustic\)](https://open.spotify.com/track/6kiyZthBkF9VkkVh9Cc4jY) | [Landon Austin](https://open.spotify.com/artist/2WROyFfIOmKtRopsTrIL52), [Aubrey Toone](https://open.spotify.com/artist/61R2K577GF9XaGmrzJIebF) | [Driver's License \(Acoustic\)](https://open.spotify.com/album/3zzWc3okIhygb6p6ai6RO9) | 3:53 | 2021-12-17 | 2022-01-22 |
 | [drivers license](https://open.spotify.com/track/6i8lDXu86pOsPwGbxoD4RI) | [Us The Duo](https://open.spotify.com/artist/3QGKsAfhZdldQCLuLjk6zl) | [drivers license](https://open.spotify.com/album/0CCwZdow3z8rNFTP7uOawf) | 3:48 | 2021-12-17 |  |
+| [drivers license \- Spotify Singles](https://open.spotify.com/track/10wk4XQdba4QpHgFb28Ktk) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Spotify Singles](https://open.spotify.com/album/1bqvkdrPKF47lM9bZrRvB9) | 4:22 | 2022-09-22 |  |
 | [Dynamite \- from "Emily in Paris" Soundtrack](https://open.spotify.com/track/2kWMnHc8iORF5b8BctKxpU) | [Ashley Park](https://open.spotify.com/artist/59QZR94fPLVcOx2sWEk7xn) | [Dynamite \(from "Emily in Paris" Soundtrack\)](https://open.spotify.com/album/2XEBvWxf5c5LQwAJTINM7Q) | 2:02 | 2022-01-14 |  |
 | [Elliot's Song](https://open.spotify.com/track/0ZpMlIPfnFzVn3qVNeMMev) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Elliot's Song](https://open.spotify.com/album/3rCeLP9YZJ8UXvbrS3EMyy) | 2:33 | 2022-07-29 |  |
 | [Everybody Wants To Rule The World](https://open.spotify.com/track/3lAzdfubFCfgrmSPUWBh4b) | [Bow Anderson](https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO) | [Everybody Wants To Rule The World](https://open.spotify.com/album/4vNTnk9ZwBi2zIJlAiOYms) | 2:47 | 2021-12-17 |  |

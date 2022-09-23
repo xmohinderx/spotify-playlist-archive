@@ -4,7 +4,7 @@
 
 > every main character needs their soundtrack
 
-307 songs - 18 hr 42 min - [published](https://open.spotify.com/playlist/0qDhDetE9WNOVsWzIdwgFf)
+308 songs - 18 hr 46 min - [published](https://open.spotify.com/playlist/0qDhDetE9WNOVsWzIdwgFf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,6 +174,7 @@
 | [Love Will Tear Us Apart \- 2020 Remaster](https://open.spotify.com/track/34iOH7LY3vme5rQxsVILZ4) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [Love Will Tear Us Apart](https://open.spotify.com/album/0u0CJa9zwFbGSU8JWQYS5G) | 3:28 | 2021-09-17 | 2022-04-21 |
 | [Lovers Rock](https://open.spotify.com/track/1H7zdcRD0gLGQY0w5ejGgX) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [French Exit](https://open.spotify.com/album/6WrxgVbi9Q96gV8tZMq3FH) | 3:33 | 2021-03-26 | 2022-07-24 |
 | [Lovers Rock](https://open.spotify.com/track/6dBUzqjtbnIa1TwYbyw5CM) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [French Exit](https://open.spotify.com/album/4Hai0uVzRbyTSaTPzxTY4e) | 3:33 | 2021-03-26 |  |
+| [Mary On A Cross](https://open.spotify.com/track/2HZLXBOnaSRhXStMLrq9fD) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Seven Inches Of Satanic Panic](https://open.spotify.com/album/6eOWfFjfBPRsAW0ZS4sbaF) | 4:04 | 2022-09-22 |  |
 | [Maybe](https://open.spotify.com/track/2WharvxRQJWtEF8dcf7qkz) | [Christian Leave](https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6) | [Maybe](https://open.spotify.com/album/2XtDVJNzLpqWD1KpzgePzb) | 3:00 | 2021-10-15 | 2022-07-19 |
 | [Meet Me At Our Spot](https://open.spotify.com/track/07MDkzWARZaLEdKxo6yArG) | [THE ANXIETY](https://open.spotify.com/artist/64H8UqGLbJFHwKtGxiV8OP), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Tyler Cole](https://open.spotify.com/artist/1xoxekeb8jUVHKJB7m6bfg) | [THE ANXIETY](https://open.spotify.com/album/2kZyqn4Cmr78D74K9TcO4K) | 2:42 | 2021-08-27 |  |
 | [Middle Of Nowhere](https://open.spotify.com/track/7gUpHwmxXyJ4JVra6UHpKA) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [Middle Of Nowhere](https://open.spotify.com/album/2G7vGmlxwNxKWbjyK3otZb) | 6:42 | 2021-03-26 | 2022-07-29 |
@@ -284,7 +285,7 @@
 | [Tongue Tied](https://open.spotify.com/track/0GO8y8jQk1PkHzS31d699N) | [Grouplove](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Never Trust a Happy Song](https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc) | 3:38 | 2021-03-26 |  |
 | [Toronto](https://open.spotify.com/track/7gM7OSSKozedhoigEvPaQ7) | [Jamws](https://open.spotify.com/artist/5Dzf0U33H8rPObc1WSjNTw) | [Toronto](https://open.spotify.com/album/5McrgZtIJuH3XadkI4AumD) | 4:13 | 2021-03-26 | 2022-07-29 |
 | [Trouble](https://open.spotify.com/track/5n0CTysih20NYdT2S0Wpe8) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Tell Me I'm Pretty](https://open.spotify.com/album/0nW0w37lrQ87k7PLZvC4qJ) | 3:45 | 2021-03-26 |  |
-| [Two Weeks](https://open.spotify.com/track/0iTpQYzJnYgh7kIxyq8A2O) | [Grizzly Bear](https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4) | [Veckatimest](https://open.spotify.com/album/6FIFqclBriPCb0SjWDaHIk) | 4:03 | 2021-08-06 |  |
+| [Two Weeks](https://open.spotify.com/track/0iTpQYzJnYgh7kIxyq8A2O) | [Grizzly Bear](https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4) | [Veckatimest](https://open.spotify.com/album/6FIFqclBriPCb0SjWDaHIk) | 4:03 | 2021-08-06 | 2022-09-23 |
 | [Understand](https://open.spotify.com/track/2MC62kpPl5Q35iqThQpXpG) | [Greer](https://open.spotify.com/artist/39v5154nNeWJGatKDkLGu9) | [Understand](https://open.spotify.com/album/5T7KUN4KsOu9v4zgrMdSUp) | 3:18 | 2021-03-26 | 2022-04-20 |
 | [Until I Found You](https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Until I Found You](https://open.spotify.com/album/18CtLoAMTr7F8ngtuM6D8i) | 2:57 | 2022-06-02 |  |
 | [untitled](https://open.spotify.com/track/4pJcFEzvPTTpxAncONKdrk) | [Max Leone](https://open.spotify.com/artist/4VrJDwgmhD1aIenZwn7JpE) | [untitled](https://open.spotify.com/album/1AzTLu2HMYvWizUxKPMKNP) | 2:44 | 2021-04-23 | 2022-07-28 |

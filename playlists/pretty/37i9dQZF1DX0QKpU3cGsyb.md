@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QKpU3cGsyb.md) - [plain]
 
 > Slow jams for the passionate.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,620,618 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,621,235 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QKpU3cGsyb.md) - [plain]
 | 31 | [Get Back \(feat\. Chris Brown\)](https://open.spotify.com/track/74CjepodJooOCQkrGCwE4C) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Get Back \(feat\. Chris Brown\)](https://open.spotify.com/album/5C6SZng9isd7hGZshc7RtX) | 3:42 |
 | 32 | [Say Yea](https://open.spotify.com/track/72kAhVS63uHIQV7drmjjHZ) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ) | [Say Yea](https://open.spotify.com/album/7LRIPWJaK4kQfrfD94zTzS) | 3:25 |
 | 33 | [Feels Like](https://open.spotify.com/track/2Hyaggl5zUVCwGSbJmkOs3) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Candydrip](https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ) | 3:29 |
-| 34 | [LOST YOU](https://open.spotify.com/track/26aJMMLBSOQmiC4JenVjjl) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [TEMPORARY HIGHS IN THE VIOLET SKIES](https://open.spotify.com/album/57ttk3xzHMWLr6CGrEa8F3) | 2:57 |
-| 35 | [Weapon \(feat\. Fireboy DML\)](https://open.spotify.com/track/4YI21WT1m1lUC3d4z9HtPF) | [Rotimi](https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [All or Nothing](https://open.spotify.com/album/35J4qJY7CLZzn3o682sx2V) | 2:48 |
+| 34 | [Weapon \(feat\. Fireboy DML\)](https://open.spotify.com/track/4YI21WT1m1lUC3d4z9HtPF) | [Rotimi](https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [All or Nothing](https://open.spotify.com/album/35J4qJY7CLZzn3o682sx2V) | 2:48 |
+| 35 | [LOST YOU](https://open.spotify.com/track/26aJMMLBSOQmiC4JenVjjl) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [TEMPORARY HIGHS IN THE VIOLET SKIES](https://open.spotify.com/album/57ttk3xzHMWLr6CGrEa8F3) | 2:57 |
 | 36 | [Situationship](https://open.spotify.com/track/2e0bYXa7BRXqPilw9Qj49f) | [Nbdy](https://open.spotify.com/artist/1fQWUHoSWhlrc9rmHi2xnE) | [Situationship](https://open.spotify.com/album/1reU8zP1OtFCmK055l6UZF) | 2:56 |
 | 37 | [24 Hrs \(feat\. Lil Tjay\)](https://open.spotify.com/track/1LZtjIkC9X3Ji8XylhCEa1) | [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [24 Hrs](https://open.spotify.com/album/5hFQFFREMK36OtrifdmTCO) | 2:47 |
 | 38 | [On It](https://open.spotify.com/track/4Xr6BbSSu5HhImp8vfxMbg) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Heaux Tales](https://open.spotify.com/album/5g9YhHW8tE7Tcslgxsk5u9) | 3:25 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QKpU3cGsyb.md) - [plain]
 | 43 | [You Want My Love](https://open.spotify.com/track/5BQf3eyCsoSP5jNGx9sPdD) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [You Want My Love](https://open.spotify.com/album/2GGcfPODdGZ3m6riQU4rNq) | 3:14 |
 | 44 | [Caliber](https://open.spotify.com/track/1Okha0BLoXlC6iXrIWLVFk) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Caliber](https://open.spotify.com/album/0zwvnPJUZqs4nlSieXuM8X) | 3:02 |
 | 45 | [Slow Down \(feat\. Lucky Daye\)](https://open.spotify.com/track/6EsOT4Yq4BavQSJ4sEe9dw) | [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Slow Down \(feat\. Lucky Daye\)](https://open.spotify.com/album/3bP5HbrQemp8PQS9Z9gnCF) | 3:47 |
-| 46 | [Rebel \(feat\. Jeremih\)](https://open.spotify.com/track/1yCaGeVkeiHwM0EnErYDrR) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Heat Of The Moment](https://open.spotify.com/album/3EjN3Lt1gd4M0KrYKz7GrD) | 2:34 |
-| 47 | [Blü Moon](https://open.spotify.com/track/3fZYsBgwG8TUI53S14V0HD) | [THEY.](https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx) | [Blü Moon](https://open.spotify.com/album/4Zq8nr1P9iDhupYoj2wuQz) | 3:09 |
+| 46 | [Blü Moon](https://open.spotify.com/track/3fZYsBgwG8TUI53S14V0HD) | [THEY.](https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx) | [Blü Moon](https://open.spotify.com/album/4Zq8nr1P9iDhupYoj2wuQz) | 3:09 |
+| 47 | [Rebel \(feat\. Jeremih\)](https://open.spotify.com/track/1yCaGeVkeiHwM0EnErYDrR) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Heat Of The Moment](https://open.spotify.com/album/3EjN3Lt1gd4M0KrYKz7GrD) | 2:34 |
 | 48 | [When You Love Someone feat\. H.E.R\. \(feat\. H.E.R.\)](https://open.spotify.com/track/10zCt0DTW61AJyiahtY1Xn) | [Tone Stith](https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [FWM](https://open.spotify.com/album/1lXnc3tDTNdendTSuMAZCg) | 3:19 |
 | 49 | [Bed Friend \(feat\. Queen Naija\)](https://open.spotify.com/track/0NeBH6OPQMBJMcmhRoCUmv) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ), [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98) | [Bed Friend](https://open.spotify.com/album/4yddao1MpTLxHNHoSupTpP) | 3:01 |
 | 50 | [CYBAH \(feat\. Lucky Daye\)](https://open.spotify.com/track/2qEyhtx20tSCSubM3JXhxu) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [CYBAH \(feat\. Lucky Daye\)](https://open.spotify.com/album/5gjFuT34mMkuHKrqe5hWEG) | 4:04 |
 
-Snapshot ID: `MTY1Nzg5MzQ1OCwwMDAwMDAwMGZkMTlhMmFhMjQyYzY5MzVjOGRjZDZlZTRkMWJhNTAx`
+Snapshot ID: `MTY1Nzg5MzQ1OCwwMDAwMDAwMDlhNTQ0YjBhM2Q1N2E3MzA0MDg1NTUzODVhOWFlNGEz`

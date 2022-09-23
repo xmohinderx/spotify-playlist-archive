@@ -1,12 +1,12 @@
 {
   "description": "slowed, reverbed, chopped and screwed.",
-  "num_followers": 499167,
+  "num_followers": 500760,
   "original_name": "slowed and reverbed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTU0MTE2MywwMDAwMDAwMDZhNDJiMGRhZDFjZjY4YWU0Y2NiZDdkNDdmNTM5ZTI2",
+  "snapshot_id": "MTY2Mzg1MTk3OCwwMDAwMDAwMGUxZDU1ZDc0ZjJjZTMxYWIwYjJiZjI3ZmI2NWMzYzc3",
   "tracks": [
     {
       "added_at": "2022-08-26 06:26:00",
@@ -213,6 +213,22 @@
       "url": "https://open.spotify.com/track/7lCu7IgWLKeHBGcTR4HfgX"
     },
     {
+      "added_at": "2022-09-22 13:06:18",
+      "album": {
+        "name": "Mary On A Cross (slowed + reverb)",
+        "url": "https://open.spotify.com/album/3uMnHBe9kSpru8jFG4bzB8"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 274783,
+      "name": "Mary On A Cross - slowed + reverb",
+      "url": "https://open.spotify.com/track/6xWbpC8KpcItoGd8ZOKJlU"
+    },
+    {
       "added_at": "2022-08-26 06:26:00",
       "album": {
         "name": "Swing Lynn (Slowed Version)",
@@ -291,22 +307,6 @@
     {
       "added_at": "2022-08-26 06:26:00",
       "album": {
-        "name": "help_urself (Alternates)",
-        "url": "https://open.spotify.com/album/7MyfgVtudevZkaalHSpE46"
-      },
-      "artists": [
-        {
-          "name": "Ezekiel",
-          "url": "https://open.spotify.com/artist/4qUoZ6ErhTYFhAI0W1iI9q"
-        }
-      ],
-      "duration_ms": 151431,
-      "name": "help_urself - slowed",
-      "url": "https://open.spotify.com/track/6ivAviar2zmiKrQ397I4rG"
-    },
-    {
-      "added_at": "2022-08-26 06:26:00",
-      "album": {
         "name": "vendetta! (Slowed + Reverb)",
         "url": "https://open.spotify.com/album/23BaWXcjrA2P7khBHQLP7N"
       },
@@ -323,6 +323,22 @@
       "duration_ms": 117399,
       "name": "vendetta! - Slowed + Reverb",
       "url": "https://open.spotify.com/track/27eiUzfUEc75ujJbn68s53"
+    },
+    {
+      "added_at": "2022-08-26 06:26:00",
+      "album": {
+        "name": "help_urself (Alternates)",
+        "url": "https://open.spotify.com/album/7MyfgVtudevZkaalHSpE46"
+      },
+      "artists": [
+        {
+          "name": "Ezekiel",
+          "url": "https://open.spotify.com/artist/4qUoZ6ErhTYFhAI0W1iI9q"
+        }
+      ],
+      "duration_ms": 151431,
+      "name": "help_urself - slowed",
+      "url": "https://open.spotify.com/track/6ivAviar2zmiKrQ397I4rG"
     },
     {
       "added_at": "2022-08-26 06:26:00",
@@ -543,6 +559,22 @@
     {
       "added_at": "2022-08-26 06:26:00",
       "album": {
+        "name": "Righteous (SLOW & REVERB)",
+        "url": "https://open.spotify.com/album/4YI4JmnkU1ggD6wWdCrBfC"
+      },
+      "artists": [
+        {
+          "name": "Mo Beats",
+          "url": "https://open.spotify.com/artist/2Hil1oktsE7Wic4X5cBGK3"
+        }
+      ],
+      "duration_ms": 180403,
+      "name": "Righteous (SLOW & REVERB)",
+      "url": "https://open.spotify.com/track/4ItmLaoV2YCCx0MKKQOTNT"
+    },
+    {
+      "added_at": "2022-08-26 06:26:00",
+      "album": {
         "name": "fools (can't help falling in love) (slowed down & reverb)",
         "url": "https://open.spotify.com/album/4cqURqEKhKGJNtuO2N3rqn"
       },
@@ -599,22 +631,6 @@
       "duration_ms": 240531,
       "name": "Happier - Slowed + Reverb",
       "url": "https://open.spotify.com/track/072Hl1zCG3UMxc7JBeQk7r"
-    },
-    {
-      "added_at": "2022-08-26 06:26:00",
-      "album": {
-        "name": "Righteous (SLOW & REVERB)",
-        "url": "https://open.spotify.com/album/4YI4JmnkU1ggD6wWdCrBfC"
-      },
-      "artists": [
-        {
-          "name": "Mo Beats",
-          "url": "https://open.spotify.com/artist/2Hil1oktsE7Wic4X5cBGK3"
-        }
-      ],
-      "duration_ms": 180403,
-      "name": "Righteous (SLOW & REVERB)",
-      "url": "https://open.spotify.com/track/4ItmLaoV2YCCx0MKKQOTNT"
     },
     {
       "added_at": "2022-08-26 06:26:00",
@@ -887,22 +903,6 @@
     {
       "added_at": "2022-08-26 06:26:00",
       "album": {
-        "name": "This December (slow)",
-        "url": "https://open.spotify.com/album/2xC918XnDFsH6h6qc6R7li"
-      },
-      "artists": [
-        {
-          "name": "Ricky Montgomery",
-          "url": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw"
-        }
-      ],
-      "duration_ms": 213783,
-      "name": "This December - slow",
-      "url": "https://open.spotify.com/track/5x4R7DNsMj5ZFSJR63GVjV"
-    },
-    {
-      "added_at": "2022-08-26 06:26:00",
-      "album": {
         "name": "Us and Them",
         "url": "https://open.spotify.com/album/4Hrrad0vv9BbvFjBPYb2xJ"
       },
@@ -927,42 +927,38 @@
     {
       "added_at": "2022-08-26 06:26:00",
       "album": {
-        "name": "NEVER MET! (feat. Glitch Gum) [Slowed]",
-        "url": "https://open.spotify.com/album/2q39vwyCoD2GJkY59i307W"
+        "name": "This December (slow)",
+        "url": "https://open.spotify.com/album/2xC918XnDFsH6h6qc6R7li"
       },
       "artists": [
         {
-          "name": "CMTEN",
-          "url": "https://open.spotify.com/artist/3ReVTyprRfKmKquryr9UeA"
-        },
-        {
-          "name": "Glitch Gum",
-          "url": "https://open.spotify.com/artist/1wpftBruYql3kTa4Px6kze"
+          "name": "Ricky Montgomery",
+          "url": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw"
         }
       ],
-      "duration_ms": 168000,
-      "name": "NEVER MET! (feat. Glitch Gum) - Slowed",
-      "url": "https://open.spotify.com/track/2a68c5nfBcRAGDAyMOVGuX"
+      "duration_ms": 213783,
+      "name": "This December - slow",
+      "url": "https://open.spotify.com/track/5x4R7DNsMj5ZFSJR63GVjV"
     },
     {
       "added_at": "2022-08-26 06:26:00",
       "album": {
-        "name": "2077 (Slowed + Reverb)",
-        "url": "https://open.spotify.com/album/0P2qRYsHnnSHWDcgxuZ1HW"
+        "name": "My Head In The Sky",
+        "url": "https://open.spotify.com/album/42LRVvno1lbcasw45M1vZJ"
       },
       "artists": [
         {
-          "name": "slowed down music",
-          "url": "https://open.spotify.com/artist/0To1rYNCQCQNqWr6mnboFi"
+          "name": "ZRobb",
+          "url": "https://open.spotify.com/artist/1RmSC77TcLJOAryLDXEpbZ"
         },
         {
-          "name": "do not resurrect",
-          "url": "https://open.spotify.com/artist/0QRp7CyL31iErUn6cX0YU3"
+          "name": "Shiloh Dynasty",
+          "url": "https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r"
         }
       ],
-      "duration_ms": 156823,
-      "name": "2077 (Slowed + Reverb)",
-      "url": "https://open.spotify.com/track/4oKjiIqpMpvglxaNUm3VYn"
+      "duration_ms": 95108,
+      "name": "I Don't Trust Nobody - Slowed and Reverb",
+      "url": "https://open.spotify.com/track/5kFWqLVb9idG4f52ZVD99r"
     }
   ],
   "unique_name": "slowed and reverbed",

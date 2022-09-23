@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbOY1zkU5qF.md) - [plain]
 
 > Versiones acústicas de tus canciones favoritas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,419 likes - 80 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,548 likes - 80 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbOY1zkU5qF.md) - [plain]
 | 32 | [Mátenme Porque Me Muero](https://open.spotify.com/track/4sVoEFCyerZgHpVuPK4klD) | [Pedro y el Lobo](https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak) | [Mátenme Porque Me Muero](https://open.spotify.com/album/1xnmcDkmUfiN7fJXU85tRQ) | 3:26 |
 | 33 | [Cuando Sale la Luna \(Deja Que Salga la Luna\) \(feat\. Natalia Lafourcade\)](https://open.spotify.com/track/1t4n4GkDFjUDr9tv586lVv) | [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Cuando Sale la Luna \(Deja Que Salga la Luna\) \(feat\. Natalia Lafourcade\)](https://open.spotify.com/album/6CTLL46M0k07OzWmH9gfzs) | 4:51 |
 | 34 | [Ya Me Enteré](https://open.spotify.com/track/1RN4yYQ4V5Ve7kamJ6lSJO) | [Carolina García](https://open.spotify.com/artist/4WsjFGzfwGHbcbkRfxQbnC) | [Ya Me Enteré](https://open.spotify.com/album/4kG8FeoHeQzKN2HSllmYGg) | 3:09 |
-| 35 | [Muerte En Hawaii](https://open.spotify.com/track/4y2wnQgN93puWVDavsMTUi) | [Pau Sotomayor](https://open.spotify.com/artist/056E7SvpkfW3APQoHf35zN) | [Muerte En Hawaii](https://open.spotify.com/album/2oSkI5ztZQV313ZNifkbDM) | 3:06 |
-| 36 | [Andar Conmigo](https://open.spotify.com/track/5usKouO9EPZnbzztaZd9jw) | [Leopoldo Lopez](https://open.spotify.com/artist/4eiT8IHB1FaTzRyvkyyI3q) | [Andar Conmigo](https://open.spotify.com/album/5ItestUQ48ki9aagEmthYn) | 3:58 |
+| 35 | [Andar Conmigo](https://open.spotify.com/track/5usKouO9EPZnbzztaZd9jw) | [Leopoldo Lopez](https://open.spotify.com/artist/4eiT8IHB1FaTzRyvkyyI3q) | [Andar Conmigo](https://open.spotify.com/album/5ItestUQ48ki9aagEmthYn) | 3:58 |
+| 36 | [Muerte En Hawaii](https://open.spotify.com/track/4y2wnQgN93puWVDavsMTUi) | [Pau Sotomayor](https://open.spotify.com/artist/056E7SvpkfW3APQoHf35zN) | [Muerte En Hawaii](https://open.spotify.com/album/2oSkI5ztZQV313ZNifkbDM) | 3:06 |
 | 37 | [Como Fue](https://open.spotify.com/track/1FEeJpSdoPfsTZk9AGqOcN) | [Paté de Fuá](https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa) | [Amores Ajenos](https://open.spotify.com/album/3FRBtXIYzHiiDSXykW2WVT) | 2:42 |
 | 38 | [Caramelo](https://open.spotify.com/track/19MixFiWncCkjVnqmqROdC) | [Xandra Garsem](https://open.spotify.com/artist/14HpVzsOYc0nufSwtkMp1s) | [Caramelo](https://open.spotify.com/album/0FKjMfSsbhKuvZUlqiobpK) | 3:09 |
 | 39 | [Escápate Conmigo](https://open.spotify.com/track/0OWuNa52w8ZqQo0pBGdDAL) | [Connie Isla](https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a) | [Covers, Vol\. 2](https://open.spotify.com/album/6KMPmqSSPMWe8HImn6q4S5) | 2:29 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbOY1zkU5qF.md) - [plain]
 | 48 | [Si Veo a Tu Mamá](https://open.spotify.com/track/1TzT4fQENDBK4a1GkDvB0P) | [Melanie Espinosa](https://open.spotify.com/artist/2ZfqsIUeid08QO6i4Bqbi6) | [Si Veo a Tu Mamá](https://open.spotify.com/album/2s2db0CNIpRhDdHHOGwyJh) | 2:40 |
 | 49 | [Mis ojos lloran por ti](https://open.spotify.com/track/4IQPpwVShAHMXx9Qehpp4B) | [Laura Naranjo](https://open.spotify.com/artist/3xf1o37bU0ANm6kT3YAlLr) | [Mis ojos lloran por ti](https://open.spotify.com/album/57d7YCLPJ9quoQ0mmDIWHp) | 3:50 |
 | 50 | [Échame La Culpa](https://open.spotify.com/track/0qo4ywp67nbYaxI2hRBVts) | [Cris Moné](https://open.spotify.com/artist/5Exvb6CXfgIb7sYwvzO7pS), [Lou Cornago](https://open.spotify.com/artist/71QLvXvl9jdkFiGzLIwh9v) | [Échame La Culpa](https://open.spotify.com/album/5zmiQwf0xQI91Yhh65riGr) | 3:00 |
-| 51 | [Qué Maldición](https://open.spotify.com/track/3nzQ1oTlpb03DGy5CYk9yT) | [Miky Mendozza](https://open.spotify.com/artist/7iJNYh5D6FchEeryIG87vL), [Diego Amoz](https://open.spotify.com/artist/40eNb3QTIcFoH0ga3LTnlN) | [Qué Maldición](https://open.spotify.com/album/2slx4sczbHiZEFALNFW71z) | 2:05 |
-| 52 | [Me Llamas \- Versión Acústica](https://open.spotify.com/track/1NNNDr8YjI7oIzEksdi5ap) | [Segundo Piso](https://open.spotify.com/artist/5qN0sPcoiBWKOXJw6b5659) | [Me Llamas \(Versión Acústica\)](https://open.spotify.com/album/0eYb5PlrKL31jDjvKWNGTG) | 3:30 |
+| 51 | [Me Llamas \- Versión Acústica](https://open.spotify.com/track/1NNNDr8YjI7oIzEksdi5ap) | [Segundo Piso](https://open.spotify.com/artist/5qN0sPcoiBWKOXJw6b5659) | [Me Llamas \(Versión Acústica\)](https://open.spotify.com/album/0eYb5PlrKL31jDjvKWNGTG) | 3:30 |
+| 52 | [Qué Maldición](https://open.spotify.com/track/3nzQ1oTlpb03DGy5CYk9yT) | [Miky Mendozza](https://open.spotify.com/artist/7iJNYh5D6FchEeryIG87vL), [Diego Amoz](https://open.spotify.com/artist/40eNb3QTIcFoH0ga3LTnlN) | [Qué Maldición](https://open.spotify.com/album/2slx4sczbHiZEFALNFW71z) | 2:05 |
 | 53 | [Bailame](https://open.spotify.com/track/2LCU2czGbhjboUOUjB9NUK) | [Reggaeton Acústico](https://open.spotify.com/artist/2VG4iLloPFUXdzWZ9knh7c) | [Viral Hits, Vol\. 1](https://open.spotify.com/album/31JdJ3MW0AF5NWmLECQwnU) | 3:35 |
 | 54 | [Otra Vez](https://open.spotify.com/track/7hwhLO6kskiavCM8Xi6bpQ) | [Panacea Project](https://open.spotify.com/artist/2JPjEf17xC7Rp1lMpDZv7c) | [Panacea Session, Vol\. 2](https://open.spotify.com/album/0vVu8iHQmGTkfc0YwwtA0n) | 3:36 |
 | 55 | [Déjala que vuelva](https://open.spotify.com/track/56FZGghCNsEffwJF1wyagX) | [Carolina García](https://open.spotify.com/artist/4WsjFGzfwGHbcbkRfxQbnC) | [Déjala que vuelva](https://open.spotify.com/album/0YQ4Qna8FKWSBCelqPk9kY) | 3:18 |
@@ -74,11 +74,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbOY1zkU5qF.md) - [plain]
 | 64 | [Reggaetón Lento \(Bailemos\)](https://open.spotify.com/track/4gICYVqe0drMCOVgj0OeTA) | [Xandra Garsem](https://open.spotify.com/artist/14HpVzsOYc0nufSwtkMp1s), [Juacko](https://open.spotify.com/artist/0LLnP7NEsEQ1pSCfsuYURr) | [Reggaetón Lento \(Bailemos\)](https://open.spotify.com/album/0DX0y2NJhzvD9igiBgbzTg) | 4:10 |
 | 65 | [La Noche De Anoche](https://open.spotify.com/track/0x6aRKrxUvPL5ktixcva5j) | [Perdita Cazalla](https://open.spotify.com/artist/2CP0Db8PTDxSjeXx23ETBn) | [La Noche De Anoche](https://open.spotify.com/album/6kvjN0eOp3iixUU8FWMyYh) | 2:53 |
 | 66 | [Pareja Del Año](https://open.spotify.com/track/1N61SM8vfZG5T1X6A30a4P) | [Hermia Morillo](https://open.spotify.com/artist/4i0yEZXVjUar6mABs3PTP4) | [Pareja Del Año](https://open.spotify.com/album/2D7ZcpIFrswCFzPsU72gAf) | 4:08 |
-| 67 | [Salió el Sol](https://open.spotify.com/track/79bcr7W4FFq44aQpusEx18) | [Reggaeton Acústico](https://open.spotify.com/artist/2VG4iLloPFUXdzWZ9knh7c) | [Classic Hits, Vol\. 1](https://open.spotify.com/album/2tOLTOXZoj4cKQD2GQkhW8) | 5:10 |
-| 68 | [Calma](https://open.spotify.com/track/5Z52mAR8UvfDNmm6xMvIIR) | [Ledes Diaz](https://open.spotify.com/artist/47IqbEaIiXjlosr45bjtPV) | [Calma](https://open.spotify.com/album/3F0daqlEpGUxXQCRIjMwql) | 3:05 |
+| 67 | [Calma](https://open.spotify.com/track/5Z52mAR8UvfDNmm6xMvIIR) | [Ledes Diaz](https://open.spotify.com/artist/47IqbEaIiXjlosr45bjtPV) | [Calma](https://open.spotify.com/album/3F0daqlEpGUxXQCRIjMwql) | 3:05 |
+| 68 | [Salió el Sol](https://open.spotify.com/track/79bcr7W4FFq44aQpusEx18) | [Reggaeton Acústico](https://open.spotify.com/artist/2VG4iLloPFUXdzWZ9knh7c) | [Classic Hits, Vol\. 1](https://open.spotify.com/album/2tOLTOXZoj4cKQD2GQkhW8) | 5:10 |
 | 69 | [Duele el Corazón](https://open.spotify.com/track/7f2gcdeYTCYbGvoljwzdCl) | [Bely Basarte](https://open.spotify.com/artist/6akDfyocmsREgR5eUXZt3I) | [Duele el Corazón](https://open.spotify.com/album/0LML5tHNZSGzSEbaXKzlbY) | 2:15 |
-| 70 | [Mamita \- Acústica](https://open.spotify.com/track/0L8h7Eo1LksZrT3vu4eRES) | [Carlo Gless](https://open.spotify.com/artist/0JHf76hafaLMLN3BXSCFBm) | [Mamita \(Acústica\)](https://open.spotify.com/album/77TsvmLS36GDZBQuZM4asl) | 2:22 |
-| 71 | [Despacito](https://open.spotify.com/track/0anEuO11FGUN4Y9hDHGuym) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 3](https://open.spotify.com/album/3Z5c9YxXkoRBfbPfgMgXsy) | 3:51 |
+| 70 | [Despacito](https://open.spotify.com/track/0anEuO11FGUN4Y9hDHGuym) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 3](https://open.spotify.com/album/3Z5c9YxXkoRBfbPfgMgXsy) | 3:51 |
+| 71 | [Mamita \- Acústica](https://open.spotify.com/track/0L8h7Eo1LksZrT3vu4eRES) | [Carlo Gless](https://open.spotify.com/artist/0JHf76hafaLMLN3BXSCFBm) | [Mamita \(Acústica\)](https://open.spotify.com/album/77TsvmLS36GDZBQuZM4asl) | 2:22 |
 | 72 | [Con la miel en los labios](https://open.spotify.com/track/37IxNTaLe74OKWltUcF7Og) | [Carolina García](https://open.spotify.com/artist/4WsjFGzfwGHbcbkRfxQbnC) | [Con la miel en los labios](https://open.spotify.com/album/5Cdz5tyljQmbTMZUkDLphi) | 3:30 |
 | 73 | [Otro trago](https://open.spotify.com/track/6VFsWv9LkBMAnSE4vVqvJV) | [Xandra Garsem](https://open.spotify.com/artist/14HpVzsOYc0nufSwtkMp1s), [Paul Fourmy](https://open.spotify.com/artist/0wEhgN98ys7Fzv7FIKUAQo) | [Otro trago](https://open.spotify.com/album/6YjTRY19KnNn9hU04Uq9Gx) | 2:47 |
 | 74 | [Y Cómo Es Él?](https://open.spotify.com/track/3sTh8rnycgz4pBRqAd1V9y) | [Nara Gilberto](https://open.spotify.com/artist/5H8qAk2IBifRhZK1BS8XFs) | [Y Cómo Es Él?](https://open.spotify.com/album/5CmwEq7NdDCZSLtl44Vu90) | 3:51 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbOY1zkU5qF.md) - [plain]
 | 79 | [Me Hace Tanto Bien \- En Vivo](https://open.spotify.com/track/1gemIOvi0ybSilXyxNkk9J) | [Mo Rivas](https://open.spotify.com/artist/6RfNQchFdYSfkgbAkoWMZz), [Carlos Law](https://open.spotify.com/artist/3nxhMRNxXV5givTbEvsjHD) | [Me Hace Tanto Bien \(En Vivo\)](https://open.spotify.com/album/64H5xJmU6jY4l5UVbeLLQh) | 3:08 |
 | 80 | [Asi Es La Vida](https://open.spotify.com/track/4A6G2xNppWG9MI0kmBMraX) | [Pablo Rojas](https://open.spotify.com/artist/3eZMc1qqbM4whaMy2X14nx) | [Asi Es La Vida](https://open.spotify.com/album/4EYa4M7e4FYqBqsJFwt3Vi) | 4:44 |
 
-Snapshot ID: `MTY1MDkxNjI2NywwMDAwMDAwMDkyZDg4MGQxNmM5OTQ0MGRlZTU3YjgzYTM5OTFjYmNi`
+Snapshot ID: `MTY1MDkxNjI2NywwMDAwMDAwMDgyOTMzODNlZGMyMWZmZTY3YWY3YTZjYTlmMjFkYzVi`

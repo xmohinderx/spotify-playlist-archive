@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 
 > This is the best of ska, new and classic\. Cover: The Interrupters
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,467 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,547 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,17 +96,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 | 86 | [B.L.M](https://open.spotify.com/track/5jvVBreQOSEW2r78oC0CoZ) | [The Specials](https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3) | [Encore \(Deluxe\)](https://open.spotify.com/album/2K7Z8kR4tsXDIkS0jWLkwZ) | 5:05 |
 | 87 | [Dippy Egg](https://open.spotify.com/track/3OqTya26KpcQYUa72cSI4Y) | [Snuff](https://open.spotify.com/artist/39Yw8FPJXDJyf5L4vK7TD3) | [There's a Lot of It About](https://open.spotify.com/album/0SgUfhqqhfGG0nJqECcDe4) | 2:32 |
 | 88 | [I Don't Wanna Go](https://open.spotify.com/track/2QMorHwzcNe3lvoBaN41CE) | [Ballyhoo!](https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ) | [Detonate](https://open.spotify.com/album/749SC742jI27G78tbtxKNT) | 3:22 |
-| 89 | [LONELY BOY](https://open.spotify.com/track/7exeQYwgHvD9pLJlFdXWhU) | [The Mighty Mighty Bosstones](https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK) | [When God Was Great](https://open.spotify.com/album/2GMkzDNISHUME6JBeT46D3) | 3:33 |
-| 90 | [Ego](https://open.spotify.com/track/5vkJkwKAEBUGess9Elg26s) | [\[spunge\]](https://open.spotify.com/artist/6vxyuUNiILvDzBfLxgu0KT) | [Room For Abuse '06](https://open.spotify.com/album/5Jf3CXEX8DhIxzH3psPoCf) | 3:06 |
+| 89 | [Ego](https://open.spotify.com/track/5vkJkwKAEBUGess9Elg26s) | [\[spunge\]](https://open.spotify.com/artist/6vxyuUNiILvDzBfLxgu0KT) | [Room For Abuse '06](https://open.spotify.com/album/5Jf3CXEX8DhIxzH3psPoCf) | 3:06 |
+| 90 | [LONELY BOY](https://open.spotify.com/track/7exeQYwgHvD9pLJlFdXWhU) | [The Mighty Mighty Bosstones](https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK) | [When God Was Great](https://open.spotify.com/album/2GMkzDNISHUME6JBeT46D3) | 3:33 |
 | 91 | [Sorry I'm Not Sorry](https://open.spotify.com/track/278kcYhSJT5MorzKYpkKqK) | [Bumpin Uglies](https://open.spotify.com/artist/2q0PlZJNGryR467EUNmWn7) | [Keep It Together](https://open.spotify.com/album/3MByj0jMYnFWIE82Z0ypvb) | 3:06 |
 | 92 | [A Flowery Song](https://open.spotify.com/track/6FYCcmTfxq84NSePWXLIby) | [Five Iron Frenzy](https://open.spotify.com/artist/1BcAEs4W94BrXMmVCOgwSx) | [Upbeats & Beatdowns](https://open.spotify.com/album/7IUjcWJ3ucGT2C97McF1Ua) | 3:40 |
 | 93 | [Here is the News \(Papa´s Got a Brand New Pigbag\)](https://open.spotify.com/track/0Sgv5oF4OGGGFlEmtzpAEc) | [Russkaja](https://open.spotify.com/artist/3FuzPmx49qjFhzbG99d9Kr) | [No One is Illegal](https://open.spotify.com/album/2Gy5JaGmiaykwDoJZH4xQO) | 3:46 |
 | 94 | [If I Could Only Listen to My Heart](https://open.spotify.com/track/0bIcOHJmmumvvdsHmnFEy1) | [Bruce Lee Band](https://open.spotify.com/artist/6BhJtndfqL4E0eO0ZGKrhY) | [Rental!! Eviction!!](https://open.spotify.com/album/7jbc6VssvRQLTYCAYMAT9W) | 2:04 |
 | 95 | [When The Wall Falls](https://open.spotify.com/track/4H37sUD0Hfx2vqODJInQQ9) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [When The Wall Falls](https://open.spotify.com/album/1gRbKCXYYJjE07OQeNNcel) | 2:45 |
-| 96 | [Anything](https://open.spotify.com/track/4rcNt8pEnkQSQVyTXgmlG9) | [Save Ferris](https://open.spotify.com/artist/1PAi6SNPtaiFqTRiTfecFr) | [Checkered Past](https://open.spotify.com/album/4RpU4zEboCRpkRxhlds9Dj) | 2:44 |
-| 97 | [THE FINAL PARADE](https://open.spotify.com/track/2bKOzEirhfTNQHGvCJRwYz) | [The Mighty Mighty Bosstones](https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK), [Aimee Interrupter](https://open.spotify.com/artist/511ZM3AQ8CNe4VNMcYvdB0), [Tim Timebomb](https://open.spotify.com/artist/2Sqro0AUxdyLXAfYF16nPw), [Angelo Moore](https://open.spotify.com/artist/3MJYGxXDQhcHl0Fh5Zuyf9), [Stranger Cole](https://open.spotify.com/artist/0O3mV0IW4pJRQStTUo2y3z) | [THE FINAL PARADE](https://open.spotify.com/album/5M5RNwrNNOCkuI1bZeB45I) | 7:57 |
+| 96 | [THE FINAL PARADE](https://open.spotify.com/track/2bKOzEirhfTNQHGvCJRwYz) | [The Mighty Mighty Bosstones](https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK), [Aimee Interrupter](https://open.spotify.com/artist/511ZM3AQ8CNe4VNMcYvdB0), [Tim Timebomb](https://open.spotify.com/artist/2Sqro0AUxdyLXAfYF16nPw), [Angelo Moore](https://open.spotify.com/artist/3MJYGxXDQhcHl0Fh5Zuyf9), [Stranger Cole](https://open.spotify.com/artist/0O3mV0IW4pJRQStTUo2y3z) | [THE FINAL PARADE](https://open.spotify.com/album/5M5RNwrNNOCkuI1bZeB45I) | 7:57 |
+| 97 | [Anything](https://open.spotify.com/track/4rcNt8pEnkQSQVyTXgmlG9) | [Save Ferris](https://open.spotify.com/artist/1PAi6SNPtaiFqTRiTfecFr) | [Checkered Past](https://open.spotify.com/album/4RpU4zEboCRpkRxhlds9Dj) | 2:44 |
 | 98 | [Revolution Riot](https://open.spotify.com/track/7FK3roNAFpxl3vfhtRiPH9) | [Authority Zero](https://open.spotify.com/artist/5CHcX5KtuSz5uo1p5fM3sz) | [Broadcasting to the Nations](https://open.spotify.com/album/3RrUzc5Tuxt481nSHDWpKS) | 3:16 |
 | 99 | [Upside Down](https://open.spotify.com/track/56SbrhQBAmYHEQWT5bNmxj) | [Popes Of Chillitown](https://open.spotify.com/artist/52TSqCyQNF1RMmTzew0soN) | [Work Hard, Play Hard, See You in the Graveyard](https://open.spotify.com/album/7gQDqeLcyp8Xfxs7YZFZmz) | 2:39 |
 | 100 | [Morbid Obsessions](https://open.spotify.com/track/22gBwKtpb1qgBNS7l5feMh) | [We Are The Union](https://open.spotify.com/artist/4AAXAVOZ3fw7M8ILLrKLvs) | [Ordinary Life](https://open.spotify.com/album/6gbRX2quEui9NXZu5ogvz9) | 3:02 |
 
-Snapshot ID: `MTY1NDg3Mzg2NCwwMDAwMDAwMDM5ZGU2YzViZjU4NzBiOTU4ZWZkY2M0MDFmMjllZjNm`
+Snapshot ID: `MTY1NDg3Mzg2NCwwMDAwMDAwMDc2N2Y0NGVlNmVhM2FlYzMyMjYwODE1Zjc3NTU5NjEz`

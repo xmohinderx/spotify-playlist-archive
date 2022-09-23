@@ -774,6 +774,24 @@
     },
     {
       "album": {
+        "name": "DRAILL",
+        "url": "https://open.spotify.com/album/4Sx9SrFQdcCD5pSY6bwU8M"
+      },
+      "artists": [
+        {
+          "name": "MA3IZ",
+          "url": "https://open.spotify.com/artist/6T4HJ0ayzxLWDbktdiBe3l"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220444,
+      "name": "DRAILL",
+      "url": "https://open.spotify.com/track/2UYZDBQ89KYUdU3CspLZJ2"
+    },
+    {
+      "album": {
         "name": "El Hala'",
         "url": "https://open.spotify.com/album/72a9NuF8ZI7ynsbjqGEj3o"
       },

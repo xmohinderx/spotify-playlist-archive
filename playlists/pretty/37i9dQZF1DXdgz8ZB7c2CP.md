@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgz8ZB7c2CP.md) - [plain]
 
 > A sprinkle of bass, warm vocal drizzle, and dreamy <a href="spotify:genre:edm\_dance">dance music</a>\. Featuring new music by Pauline Herr.
 
-[Spotify](https://open.spotify.com/user/spotify) - 726,616 likes - 125 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 726,716 likes - 125 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [2gether](https://open.spotify.com/track/4dzBqc5t2GWJKpGqUoTbrU) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [2gether](https://open.spotify.com/album/3DG2mNSbwGZjzSJxnpM1Qf) | 3:11 |
+| 1 | [2gether](https://open.spotify.com/track/4dzBqc5t2GWJKpGqUoTbrU) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Gretel Hänlyn](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [2gether](https://open.spotify.com/album/3DG2mNSbwGZjzSJxnpM1Qf) | 3:11 |
 | 2 | [All The Highs](https://open.spotify.com/track/6Dg3ArDiJcseYoeeTZZXK6) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo) | [All The Highs](https://open.spotify.com/album/4Z9aZaIeSiKBVOf7v7oHCI) | 3:26 |
 | 3 | [‎kinder ‎opposites](https://open.spotify.com/track/6DH5NhDzhtSyQ6eRtHcPX8) | [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB) | [‎kinder ‎opposites](https://open.spotify.com/album/6O3emw9f3lKSgDvNabPT9B) | 1:42 |
 | 4 | [Shoyu](https://open.spotify.com/track/7ammiC4TKHgMXP8RnccYcA) | [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1), [DROELOE](https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA) | [Unfold](https://open.spotify.com/album/3MWWoyTPwnuhND8LMOAyse) | 2:21 |

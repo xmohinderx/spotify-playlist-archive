@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYs6zNzJ0ci.md) - [plain]
 
 > Vibraciones rastafari en español\. Foto: Los Cafres
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,203,848 likes - 100 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,203,916 likes - 100 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYs6zNzJ0ci.md) - [plain]
 | 61 | [Kultura Babylon](https://open.spotify.com/track/7vKxkgvw31YjVgEiabyXZa) | [Laguna Pai](https://open.spotify.com/artist/4NmvNRWDxYHYMKt4yiMljS) | [Kultura Babylon](https://open.spotify.com/album/0DZ7bLQzuop71o90CTkueo) | 3:58 |
 | 62 | [Keep The Fyah Burning](https://open.spotify.com/track/1Rp41EZvGAym6wLzj7QgRY) | [Nonpalidece](https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe), [Brinsley Forde](https://open.spotify.com/artist/63qBcGs26phTxIJUhgOWB8), [Flabba Holt](https://open.spotify.com/artist/5utMO0rlmzSsVIEIQEm9Tl) | [Keep The Fyah Burning](https://open.spotify.com/album/5d8pv82S8cNEp4jXwhejxm) | 4:16 |
 | 63 | [Puedo esperarte](https://open.spotify.com/track/21noFdEzJUoFq2apeT3mXh) | [Riddim](https://open.spotify.com/artist/4nrP6H78NuKzQr9bQxAFVk) | [Buenas Noticias](https://open.spotify.com/album/4XtplkaYKyMzIiIekNBe2n) | 4:11 |
-| 64 | [Gaia](https://open.spotify.com/track/4sxH0m1nMETWC6xvMzjk2s) | [MAMA GAIA](https://open.spotify.com/artist/5uvIzs93CiewRg46Q9VpCx), [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Encanto](https://open.spotify.com/album/3aJJdHEClW1YQarSSXaE9H) | 3:13 |
-| 65 | [Algo mejor \- Remastered](https://open.spotify.com/track/0iITTpeIsR2NQIv1QiIkKx) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [La Búsqueda](https://open.spotify.com/album/3jVxkfB39y5PEC7yiPCYWJ) | 3:58 |
+| 64 | [Algo mejor \- Remastered](https://open.spotify.com/track/0iITTpeIsR2NQIv1QiIkKx) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [La Búsqueda](https://open.spotify.com/album/3jVxkfB39y5PEC7yiPCYWJ) | 3:58 |
+| 65 | [Gaia](https://open.spotify.com/track/4sxH0m1nMETWC6xvMzjk2s) | [MAMA GAIA](https://open.spotify.com/artist/5uvIzs93CiewRg46Q9VpCx), [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Encanto](https://open.spotify.com/album/3aJJdHEClW1YQarSSXaE9H) | 3:13 |
 | 66 | [Eu Quero Tudo](https://open.spotify.com/track/0DXOyC3z15P3eIE8HrhNas) | [Macaco](https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT), [Natiruts](https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO) | [Eu Quero Tudo](https://open.spotify.com/album/6pg9t9IdAOKNr7kgPjDTtZ) | 3:39 |
 | 67 | [Quisiera](https://open.spotify.com/track/7v0WvqGq7auy99Nydgc6YJ) | [Flor de Toloache](https://open.spotify.com/artist/1eEJbNVFQTDmQETQpLMoWD), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Quisiera](https://open.spotify.com/album/1hxhKktk2u9gTPms7c8fv9) | 3:53 |
 | 68 | [Love and Happiness](https://open.spotify.com/track/2Q4iDZrwPmn5aEqWFYyPR2) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Sobrevolando](https://open.spotify.com/album/3rCmFIVWG9ktkGhKNcZnli) | 5:08 |
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYs6zNzJ0ci.md) - [plain]
 | 91 | [Ready](https://open.spotify.com/track/105s2PTUiEcGtKsL1rl0Fl) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [Ready](https://open.spotify.com/album/6eSOrBQDFoAT27MUPHW5d4) | 2:30 |
 | 92 | [Laba Laba Craven](https://open.spotify.com/track/3hd9TlZsdqhnzdndCbT1Kz) | [Hugo Lobo](https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN) | [Neigborhood Rules](https://open.spotify.com/album/2JyFsrq6OkrfH0mBRRYAiu) | 3:52 |
 | 93 | [Normal](https://open.spotify.com/track/7coiBABUHNhnrtwartgZyV) | [Laguna Pai](https://open.spotify.com/artist/4NmvNRWDxYHYMKt4yiMljS) | [Normal](https://open.spotify.com/album/4TDHPkZFHmvX2NM5S6y73c) | 4:27 |
-| 94 | [Cocomango](https://open.spotify.com/track/1v1WSCFVUyCYQe0g9zdBlY) | [Sie7e](https://open.spotify.com/artist/11wOrJLuakmQqTuhXXW2xz), [The Islanauts](https://open.spotify.com/artist/3Fes3iYQgBEocYeRIFOwqx) | [Gaia](https://open.spotify.com/album/4PYQYYOE41VWrnr9OqqYYY) | 3:15 |
-| 95 | [All Night Long](https://open.spotify.com/track/4hgda2zsC0CPHtxT55FJho) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l), [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl) | [All Night Long](https://open.spotify.com/album/2PuKW3LCrVlfbIY1u4RoMe) | 4:20 |
+| 94 | [All Night Long](https://open.spotify.com/track/4hgda2zsC0CPHtxT55FJho) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l), [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl) | [All Night Long](https://open.spotify.com/album/2PuKW3LCrVlfbIY1u4RoMe) | 4:20 |
+| 95 | [Cocomango](https://open.spotify.com/track/1v1WSCFVUyCYQe0g9zdBlY) | [Sie7e](https://open.spotify.com/artist/11wOrJLuakmQqTuhXXW2xz), [The Islanauts](https://open.spotify.com/artist/3Fes3iYQgBEocYeRIFOwqx) | [Gaia](https://open.spotify.com/album/4PYQYYOE41VWrnr9OqqYYY) | 3:15 |
 | 96 | [Quién Sos?](https://open.spotify.com/track/2iq53i4P2VSj3Qc3DYbQTH) | [Rondamon](https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP), [Julieta Rada](https://open.spotify.com/artist/5KA95SZBQeMgNMTuqnxzJd) | [Quién Sos?](https://open.spotify.com/album/3ciuW3aqUEX2Yx76S6ZrEA) | 3:51 |
 | 97 | [Mira Bien](https://open.spotify.com/track/55QuN0qYc4pnb001Ns8ZsK) | [Cestar](https://open.spotify.com/artist/1p5MGlN01vwR008ce7818d), [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [Mira Bien](https://open.spotify.com/album/1dGNnwFx3AGB9cl38NQjf3) | 3:19 |
-| 98 | [Quemando Tu Pecho](https://open.spotify.com/track/5MRAyyeWEQvcsf9BdruIIY) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Carpe Diem](https://open.spotify.com/album/0hjSy3tFI2uK4RcppyNASu) | 4:19 |
-| 99 | [Mi Niña](https://open.spotify.com/track/32dbDZjc45fBUUFaSU3DMg) | [Spiritual Reggae Band](https://open.spotify.com/artist/1NsI01VINwVZh1Au2lfbAS) | [Ruge](https://open.spotify.com/album/05KcuSthgbWCRQkV8liSvJ) | 4:03 |
+| 98 | [Mi Niña](https://open.spotify.com/track/32dbDZjc45fBUUFaSU3DMg) | [Spiritual Reggae Band](https://open.spotify.com/artist/1NsI01VINwVZh1Au2lfbAS) | [Ruge](https://open.spotify.com/album/05KcuSthgbWCRQkV8liSvJ) | 4:03 |
+| 99 | [Quemando Tu Pecho](https://open.spotify.com/track/5MRAyyeWEQvcsf9BdruIIY) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Carpe Diem](https://open.spotify.com/album/0hjSy3tFI2uK4RcppyNASu) | 4:19 |
 | 100 | [Medicina](https://open.spotify.com/track/4zRbnZkeN4TNBJgGcTDMqG) | [Antidoping](https://open.spotify.com/artist/3gNRdx3DyEnckHDCmVwwnY) | [Esfuerzo Universal](https://open.spotify.com/album/0Kw6qKktEcAe5gzLrFd9au) | 6:22 |
 
-Snapshot ID: `MTY2MDc1NzE3MiwwMDAwMDAwMDhkNTFlZjc5ZWU3OGRjNmJlZDcxN2Y0NWQ0NTY4YjM4`
+Snapshot ID: `MTY2MDc1NzE3MiwwMDAwMDAwMGM5ZWZjZDQ2NzQ5Y2ViNTIzMzk0OTcyZGMyMjIwZjZj`

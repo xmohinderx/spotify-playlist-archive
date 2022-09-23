@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zAr9vdmFlU.md) - [plain]
 
 > You bring the ingredients\. We bring the flavor\. Enjoy la cena!
 
-[Spotify](https://open.spotify.com/user/spotify) - 359,054 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 359,083 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,14 +41,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zAr9vdmFlU.md) - [plain]
 | 31 | [Ai mi morena \- Chocolate Restyle](https://open.spotify.com/track/195rt3pQCPzYDmobHp9uL5) | [Mo' Horizons](https://open.spotify.com/artist/3tuX54dqgS8LsGUvNzgrpP) | [Some More Horizons \(Digital Version\)](https://open.spotify.com/album/4PTCPiyD0Pwhoec2VU6rlk) | 5:28 |
 | 32 | [Arráncame](https://open.spotify.com/track/6FtIBJWxBhg8OOplgXaGr5) | [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT), [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [Amores](https://open.spotify.com/album/0DSrZQhNEnpV8WiiIoaLVH) | 3:36 |
 | 33 | [Oye Como Va](https://open.spotify.com/track/5XNixCaiTFx88y5wLhVMQR) | [Faul & Wad](https://open.spotify.com/artist/6HUm6AHJE0oisACMN6NNJ5) | [Oye Como Va](https://open.spotify.com/album/4GXh6a6jVejKsYyCcymtUN) | 3:05 |
-| 34 | [Boulevard](https://open.spotify.com/track/0bPh6AN7Xa7rnZzeDCrR4k) | [Jenny And The Mexicats](https://open.spotify.com/artist/2faVKByk0IA651ICKyYYOa) | [Ome](https://open.spotify.com/album/69ecmGWs76wJyI23HLNfjh) | 3:17 |
-| 35 | [Lo Mismo Que Usted](https://open.spotify.com/track/031dcODCuFUQAyQ38PkdlU) | [Pantoja](https://open.spotify.com/artist/1sSMrejChoHWBnCe7w6fKc) | [Lo Mismo Que Usted](https://open.spotify.com/album/68bhYAXXLFt0gp866clvtQ) | 3:09 |
+| 34 | [Lo Mismo Que Usted](https://open.spotify.com/track/031dcODCuFUQAyQ38PkdlU) | [Pantoja](https://open.spotify.com/artist/1sSMrejChoHWBnCe7w6fKc) | [Lo Mismo Que Usted](https://open.spotify.com/album/68bhYAXXLFt0gp866clvtQ) | 3:09 |
+| 35 | [Boulevard](https://open.spotify.com/track/0bPh6AN7Xa7rnZzeDCrR4k) | [Jenny And The Mexicats](https://open.spotify.com/artist/2faVKByk0IA651ICKyYYOa) | [Ome](https://open.spotify.com/album/69ecmGWs76wJyI23HLNfjh) | 3:17 |
 | 36 | [Taganga](https://open.spotify.com/track/6suwy7Q9BdzR9aEdALuKiF) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Ayo](https://open.spotify.com/album/2OxYGrY7nYt2ymmoFaebqB) | 2:45 |
 | 37 | [Atómico](https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw) | [Jungle Fire](https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby) | [Jungle Fire](https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7) | 3:49 |
 | 38 | [Carnaval](https://open.spotify.com/track/2IuXKFaWQhwhYAScCOclkV) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG) | [Sorpresa](https://open.spotify.com/album/4clIaqyIpJOku2E6VNnwy2) | 4:02 |
 | 39 | [Calaveras y Diablitos](https://open.spotify.com/track/3hEMRRpy1AiRma7mlsVqY7) | [Clemente Castillo](https://open.spotify.com/artist/6xq8uO5PE2Vs9G6OsIicin), [Celso Piña](https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi) | [Eureka](https://open.spotify.com/album/2LA3Z2VlhMWBAIpaAnJFmf) | 3:55 |
-| 40 | [Si No Pueden Quererte \(with Miguel Bosé\)](https://open.spotify.com/track/446rQWVFWcido9fHuW981s) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [Mujer Divina \- Homenaje a Agustín Lara](https://open.spotify.com/album/3IwQTuKlyYUjH5foI0gACh) | 3:55 |
-| 41 | [Represent](https://open.spotify.com/track/19J9QEDo6N6dVGfzWUz5LZ) | [Orishas](https://open.spotify.com/artist/2gKYxTUOqw9aPt7ljMwSHT) | [A Lo Cubano](https://open.spotify.com/album/0ZHx4gXoe1FquHnBZpNTKv) | 3:46 |
+| 40 | [Represent](https://open.spotify.com/track/19J9QEDo6N6dVGfzWUz5LZ) | [Orishas](https://open.spotify.com/artist/2gKYxTUOqw9aPt7ljMwSHT) | [A Lo Cubano](https://open.spotify.com/album/0ZHx4gXoe1FquHnBZpNTKv) | 3:46 |
+| 41 | [Si No Pueden Quererte \(with Miguel Bosé\)](https://open.spotify.com/track/446rQWVFWcido9fHuW981s) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [Mujer Divina \- Homenaje a Agustín Lara](https://open.spotify.com/album/3IwQTuKlyYUjH5foI0gACh) | 3:55 |
 | 42 | [Que Beleza](https://open.spotify.com/track/0IY5lHDP46LTWfEwu66TZd) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [World Psychedelic Classics 4: Nobody Can Live Forever: The Existential Soul of Tim Maia](https://open.spotify.com/album/0q41u8oMFT9Ewr2tqGnmL8) | 3:28 |
 | 43 | [Margarita \(feat\. Vicente García & Jose Quiñónez\)](https://open.spotify.com/track/6LEZkAAdNuEPE6PdEX7lrj) | [Chabuco](https://open.spotify.com/artist/7iVnPo1i10De0UGQz5eDsl), [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq), [Jose Quiñonez](https://open.spotify.com/artist/5KOhKsRb9lFVmHFhoGAnIx) | [Encuentro](https://open.spotify.com/album/5dMx0NVZdoTtrdVprK7gSz) | 3:56 |
 | 44 | [Harta](https://open.spotify.com/track/1J4xv5V5dzkA8UGtXSbCNU) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Harta](https://open.spotify.com/album/7xxEXEwifY6NE0sEmIybSg) | 3:05 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zAr9vdmFlU.md) - [plain]
 | 55 | [Cumbia De Los Muertos](https://open.spotify.com/track/6muW3ShcHUFFSfEfw8yqMP) | [Ozomatli](https://open.spotify.com/artist/1An0HCtDktvCBDdFEu7HC0) | [Ozomatli](https://open.spotify.com/album/7tz0zZOFIdX7PxMfIeoXS0) | 3:32 |
 | 56 | [Come Fly With Me](https://open.spotify.com/track/4htOz9gMFZStfcVz1kx3El) | [¡Oye Frank! Sonata Latina Tribute Orchestra](https://open.spotify.com/artist/7zug34wHklQjAqvDHAhqJ3) | [¡Oye Frank! Sonata Latina Tribute Orchestra](https://open.spotify.com/album/1SSdDsip5PL6hBiWrQ1QiI) | 3:00 |
 | 57 | [Tranquilito](https://open.spotify.com/track/18raESmvANegtffrhwSnP4) | [Pirulo y la Tribu](https://open.spotify.com/artist/7yUFtMptVtCtg3vIR018vO) | [Calle Linda 2](https://open.spotify.com/album/4zbTjGo8oXeLgPSO2PdsWe) | 5:46 |
-| 58 | [Dame un Besito](https://open.spotify.com/track/3XI5IKSEsGITE0zAQwj1CR) | [Mexican Institute Of Sound](https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy) | [Disco Popular](https://open.spotify.com/album/1awEp9l62JJYlas31ytrAK) | 2:13 |
-| 59 | [Bienvenido a mi habitación](https://open.spotify.com/track/4NtU5Yq5SqaIbGjpbPmXw7) | [Georgina](https://open.spotify.com/artist/71cjWNRukkIF8Ulh006x3b) | [Bienvenido a mi habitación](https://open.spotify.com/album/4nEsMSMUDN7x646cLbaXBp) | 3:12 |
+| 58 | [Bienvenido a mi habitación](https://open.spotify.com/track/4NtU5Yq5SqaIbGjpbPmXw7) | [Georgina](https://open.spotify.com/artist/71cjWNRukkIF8Ulh006x3b) | [Bienvenido a mi habitación](https://open.spotify.com/album/4nEsMSMUDN7x646cLbaXBp) | 3:12 |
+| 59 | [Dame un Besito](https://open.spotify.com/track/3XI5IKSEsGITE0zAQwj1CR) | [Mexican Institute Of Sound](https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy) | [Disco Popular](https://open.spotify.com/album/1awEp9l62JJYlas31ytrAK) | 2:13 |
 | 60 | [Despues De Almuerzo Parte 3](https://open.spotify.com/track/4vFmMHwyLzIJ9GCY7yPiiJ) | [Bitman & Roban](https://open.spotify.com/artist/5pNASbHJBVikbxzyXziGTe) | [Musica Para Despues De Almuerzo](https://open.spotify.com/album/1exvDLSiFL6TncjgMrkOAP) | 3:15 |
 | 61 | [Si Te Contara](https://open.spotify.com/track/4FZjsJCf0MO19udtVY4rfx) | [Pantoja](https://open.spotify.com/artist/1sSMrejChoHWBnCe7w6fKc) | [Trébol](https://open.spotify.com/album/1d75UCUMQna3KfPPZ9tAcg) | 2:39 |
 | 62 | [El Amor Después Del Amor](https://open.spotify.com/track/5s7y4yEb3TGIqRMjE32MZx) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Origen](https://open.spotify.com/album/1pnliPS7mvHIMlBgwK7kgO) | 3:44 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zAr9vdmFlU.md) - [plain]
 | 99 | [Esperando Verte](https://open.spotify.com/track/7xRafouoS2J7SYgaURkJjx) | [Niña Pastori](https://open.spotify.com/artist/6UelqIK8qwhWFc2f6nSEh8) | [Esperando Verte](https://open.spotify.com/album/1DizlzrJAt2J6CdekDpyMT) | 3:52 |
 | 100 | [Ya Llegó \- Captain Planet Remix](https://open.spotify.com/track/0PIeefi6RLeFt2O0NUfRps) | [Mon Rivera](https://open.spotify.com/artist/0XnUt52wINQV3RGEWCeDFx), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Captain Planet](https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi) | [Calentura: Toque \(Captain Planet Remixes\)](https://open.spotify.com/album/3mBNM16s2Nq2hfPNkhHSpz) | 4:04 |
 
-Snapshot ID: `MTY2MTkzMDkxOSwwMDAwMDAwMGRjYjU5MTZkMzI2Y2RmYTUyYTQzZmFjMTBhZTE3Y2Fi`
+Snapshot ID: `MTY2MTkzMDkxOSwwMDAwMDAwMDQyMjRkNzljNWRhNjdmNmRiZDJlNWU1ZDEyNjliNzgz`

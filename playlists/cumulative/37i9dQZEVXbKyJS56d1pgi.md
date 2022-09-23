@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Portugal.
 
-580 songs - 1 day 8 hr 7 min - [published](https://open.spotify.com/playlist/5sx0bOwIYMxi0Nf8rS1mMZ)
+581 songs - 1 day 8 hr 17 min - [published](https://open.spotify.com/playlist/5sx0bOwIYMxi0Nf8rS1mMZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [Butter](https://open.spotify.com/track/2bgTY4UwhfBYhGT4HUYStN) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Butter \(Hotter, Sweeter, Cooler\)](https://open.spotify.com/album/1HnJKmB4P6Z8RBdLMWx18w) | 2:44 | 2021-06-10 | 2021-07-12 |
 | [Butter](https://open.spotify.com/track/3VqeTFIvhxu3DIe4eZVzGq) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Butter](https://open.spotify.com/album/2BDhPi2XCYujYxU6VM0QaD) | 2:44 | 2021-05-23 | 2021-06-10 |
 | [c l o s e](https://open.spotify.com/track/4YiY551vHi6glMtgVxuqAy) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 2:48 | 2021-05-16 | 2021-05-17 |
-| [CACHORRINHAS](https://open.spotify.com/track/7KWKWJnbGJ3Soag6Oopion) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [CACHORRINHAS](https://open.spotify.com/album/290wcRNv42S3KICKFYmTu6) | 2:14 | 2022-07-21 |  |
+| [CACHORRINHAS](https://open.spotify.com/track/7KWKWJnbGJ3Soag6Oopion) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [CACHORRINHAS](https://open.spotify.com/album/290wcRNv42S3KICKFYmTu6) | 2:14 | 2022-07-21 | 2022-09-23 |
 | [CAFÉ DA MANHÃ ;P](https://open.spotify.com/track/0sPtV4stCHkFJB6GpoaZ1f) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [DOCE 22](https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x) | 3:01 | 2022-03-20 | 2022-03-30 |
 | [Calling My Name](https://open.spotify.com/track/7sT7kZEYd1MrmzLLIRVZas) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 2:09 | 2022-06-18 | 2022-06-23 |
 | [Calling My Phone](https://open.spotify.com/track/3J8EOeKLTLXORtWPpOU5bE) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Destined 2 Win](https://open.spotify.com/album/3MEKpJ7wSSp6Z661ThjrUJ) | 3:25 | 2021-04-04 | 2021-05-16 |
@@ -413,6 +413,7 @@
 | [Pipoco](https://open.spotify.com/track/7AwVSKaQxpidrtYBerkHKk) | [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex), [Melody](https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI), [Dj Chris No Beat](https://open.spotify.com/artist/0vdcZzmneH0nK9CYFHQBjk) | [Pipoco](https://open.spotify.com/album/00C8jeBlMsEwhksDe34e6E) | 3:14 | 2022-07-01 |  |
 | [Plutão](https://open.spotify.com/track/3ydmNkAyYq0AKtG8sTfE9P) | [VMZ](https://open.spotify.com/artist/5sgcRRQA3HrL1AVk6oMUeg) | [Plutão](https://open.spotify.com/album/2sZzCGg7xCNdWQwoVaFuro) | 3:41 | 2021-06-07 | 2021-07-24 |
 | [Pode Tentar](https://open.spotify.com/track/2vFjbIf5sKoXsXdBG2E9Xf) | [Maninho](https://open.spotify.com/artist/0c1Tiu4dJze8OTzxJ7Yowr) | [Pode Tentar](https://open.spotify.com/album/7tqfs2HS7LyVIKS6u8hTgS) | 2:35 | 2021-08-05 | 2022-08-18 |
+| [Poesia Acústica 13](https://open.spotify.com/track/7qoIhutxU269Zqo9PG5IOj) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY), [Salve Malak](https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0), [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Chefin](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET) | [Poesia Acústica 13](https://open.spotify.com/album/1tJQLPkG5qc9BXqklDInry) | 10:28 | 2022-09-22 |  |
 | [Por Enquanto](https://open.spotify.com/track/5fjD0vHh9XRL6b657FWe9C) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Por Enquanto](https://open.spotify.com/album/1uFTodamqWqlk5KwYkqy0n) | 2:22 | 2022-07-02 |  |
 | [Portas do Sol](https://open.spotify.com/track/1iL2qN1fpyE9MxUhUUu0O4) | [Nena](https://open.spotify.com/artist/561qBVd91ZPE9yCURXt7BB) | [Portas do Sol](https://open.spotify.com/album/0Ik78gbm575dclbfvP4y9T) | 3:48 | 2021-04-28 | 2022-03-06 |
 | [Pra Mim](https://open.spotify.com/track/1wxLvOhDguWTLAJN0HW87J) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [Pra Mim](https://open.spotify.com/album/4o64dSERjVp8ZJc12BYzJJ) | 2:33 | 2022-02-19 | 2022-02-21 |

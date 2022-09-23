@@ -4,7 +4,7 @@
 
 > The beautiful sound of the Spanish guitar to help you wind down.
 
-150 songs - 7 hr 5 min - [published](https://open.spotify.com/playlist/5vDhhJLUXvegKwwtL6H3y2)
+151 songs - 7 hr 7 min - [published](https://open.spotify.com/playlist/5vDhhJLUXvegKwwtL6H3y2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Bungalows](https://open.spotify.com/track/1mBPJN2NO56flat9UoRAnq) | [Elson Complex](https://open.spotify.com/artist/1zy5PFSUkeOY7g6bM3vooX), [Nylonwings](https://open.spotify.com/artist/2FLK3ubX0vLLfbU5ViuJTN) | [Bungalows](https://open.spotify.com/album/5JvGMHNP9ZoxrL25nhcG4O) | 3:04 | 2022-08-12 |  |
 | [Bye bye](https://open.spotify.com/track/7izNlGhHL1tWqkElMrqLU1) | [Jose el Petate](https://open.spotify.com/artist/1mMuIn9JDZhYLWFRjQQUEj) | [Bye bye](https://open.spotify.com/album/54aFqc6U17SGOOLdZOXvhV) | 2:41 | 2022-07-29 |  |
 | [Bésame Mucho](https://open.spotify.com/track/0WlaFDGrsRstbIF44eWLVP) | [Javier Van Velthoven](https://open.spotify.com/artist/4rUmg0lEB3QIm4OpxiTxoZ) | [Bésame Mucho](https://open.spotify.com/album/0Fr2ZGB1zrWW6RRjSajNtn) | 3:11 | 2022-06-17 |  |
+| [Calisto](https://open.spotify.com/track/6J35jqkTjXsJz2SQhu3BVt) | [Marta Fiscovich](https://open.spotify.com/artist/6B7cCKWOKNqdjU5bqeZAS7) | [Calisto](https://open.spotify.com/album/6v3xFIkiGK5BtXb6IyILMI) | 2:26 | 2022-09-23 |  |
 | [Cambio de Corazòn](https://open.spotify.com/track/3wRiBKnaGISsvRwHKeossu) | [Sounds Of Our Home](https://open.spotify.com/artist/6LkvK0WVSHZcocRLhroGOY) | [Cambio de Corazòn](https://open.spotify.com/album/0VVUv5a4PJngb9Hb8qe648) | 1:44 | 2022-06-17 |  |
 | [Chartres](https://open.spotify.com/track/7qrmODD2bTNoMzqn31vSjE) | [Tomohiro Maeda](https://open.spotify.com/artist/4UQJP3QYMukd9eUqKuRn0N) | [Tachibana Bay](https://open.spotify.com/album/6o1qA16sjgZwcFrp819vHx) | 3:41 | 2022-06-17 |  |
 | [Close To Firenze](https://open.spotify.com/track/6Fixm5hLh4ySUdQmXHYTNq) | [Robert Delofeu](https://open.spotify.com/artist/05HoDshGmaZHJBCs6HWFA3) | [Close To Firenze](https://open.spotify.com/album/6K0R6DtEhe1wcG4U4Hjq8W) | 2:42 | 2022-06-17 |  |

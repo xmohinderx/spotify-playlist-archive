@@ -4,7 +4,7 @@
 
 > Music from Nicki Minaj, Kodak Black and EST Gee.
 
-1,353 songs - 2 day 21 hr 41 min - [published](https://open.spotify.com/playlist/5P8tKmuueRelbQ17C8xRQo)
+1,354 songs - 2 day 21 hr 44 min - [published](https://open.spotify.com/playlist/5P8tKmuueRelbQ17C8xRQo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -885,6 +885,7 @@
 | [Pure Souls](https://open.spotify.com/track/7up5MwPUHQdv4DkzQRHRWP) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 5:58 | 2021-08-30 | 2021-08-31 |
 | [Pure Water \(with Migos\)](https://open.spotify.com/track/63cd4JkwGgYJrbOizbfmsp) | [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Pure Water \(with Migos\)](https://open.spotify.com/album/1ypNy6o0C2ZbuuPPYkavVl) | 3:14 | 2019-05-26\* | 2019-06-21 |
 | [Purge Me](https://open.spotify.com/track/4HTkk2vceRNg08yGcRJtBS) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Realer 2](https://open.spotify.com/album/0HYHImbSqwsuU61PSMEe8J) | 2:16 | 2022-09-09 | 2022-09-17 |
+| [Purple](https://open.spotify.com/track/42qK1JWm8fDy3qHZbIZNuQ) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [The Lost Tapes](https://open.spotify.com/album/2mU2jRMwrsL1tG97xKoiav) | 3:39 | 2022-09-22 |  |
 | [Purple Emoji \(feat\. J\. Cole\)](https://open.spotify.com/track/3OJ4LEE50iFELaHiZ09zif) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Purple Emoji \(feat\. J Cole\)](https://open.spotify.com/album/5tcLbrane4ipoQy0liSuNH) | 2:43 | 2019-06-07 | 2019-06-22 |
 | [Push It](https://open.spotify.com/track/1wTpghlkEyQwCKSEb6688P) | [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [Return Of The Mack / Push It](https://open.spotify.com/album/1uaZVgPVhRbVrXDKbAnMZx) | 3:00 | 2019-08-02 | 2019-08-09 |
 | [Push It \(feat\. Young Thug\)](https://open.spotify.com/track/1s3etXt5RKVEuC14ugwmHy) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Me vs\. Me](https://open.spotify.com/album/4KrQSZfzmxp0aftaBZj7m3) | 3:30 | 2022-01-28 | 2022-02-12 |

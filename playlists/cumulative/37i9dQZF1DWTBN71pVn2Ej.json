@@ -966,6 +966,24 @@
     },
     {
       "album": {
+        "name": "Into the Blue (Deluxe)",
+        "url": "https://open.spotify.com/album/1EjDpSngm4sh4mn8Hta2pV"
+      },
+      "artists": [
+        {
+          "name": "The Joy Formidable",
+          "url": "https://open.spotify.com/artist/4LdZNE5MHGqvc0N9ivXNF3"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294798,
+      "name": "Csts",
+      "url": "https://open.spotify.com/track/0fbQD0elsISeiHp5nvVyPo"
+    },
+    {
+      "album": {
         "name": "Daddy's Boy",
         "url": "https://open.spotify.com/album/3RbnFr6QtEazEHuAB2HwDM"
       },
@@ -1500,6 +1518,24 @@
     },
     {
       "album": {
+        "name": "Godzilla",
+        "url": "https://open.spotify.com/album/0xodabdosMvBKkBtTLfmuK"
+      },
+      "artists": [
+        {
+          "name": "Dude Safari",
+          "url": "https://open.spotify.com/artist/6u86o2rCOh2saTMgsYFvzX"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232105,
+      "name": "Godzilla",
+      "url": "https://open.spotify.com/track/6X3XvthYOhT8SHIJpY7sKw"
+    },
+    {
+      "album": {
         "name": "Gotta Let It Go",
         "url": "https://open.spotify.com/album/1DbUmnPCXKJSimJw4FoFgb"
       },
@@ -1569,6 +1605,24 @@
       "duration_ms": 186465,
       "name": "Growing Up",
       "url": "https://open.spotify.com/track/027uWCaOfVFzShwCQoqVjY"
+    },
+    {
+      "album": {
+        "name": "Heavy Is The Ocean",
+        "url": "https://open.spotify.com/album/7vsbwpZnmz2q3y15J0NViN"
+      },
+      "artists": [
+        {
+          "name": "Bush",
+          "url": "https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312610,
+      "name": "Heavy Is The Ocean",
+      "url": "https://open.spotify.com/track/4ud1E56t24ktCa6r1aGvKl"
     },
     {
       "album": {
@@ -1879,7 +1933,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 170813,
       "name": "Kleptomaniac",
       "url": "https://open.spotify.com/track/6t9F8OPLkxZgcGhZjPgPu1"
@@ -2319,7 +2373,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 263765,
       "name": "New Low",
       "url": "https://open.spotify.com/track/0YsGHQXC0LCALA4b36QYA5"
@@ -2373,7 +2427,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 239130,
       "name": "Nothing",
       "url": "https://open.spotify.com/track/1xtm5LyLJsOcCqyGY0qnTn"
@@ -2445,7 +2499,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 199194,
       "name": "Nullify",
       "url": "https://open.spotify.com/track/2wg36E0bVFuJIq7ZeKF3a8"
@@ -2470,6 +2524,24 @@
     },
     {
       "album": {
+        "name": "One Of A Million",
+        "url": "https://open.spotify.com/album/2RyB5I5mCKX3dic2vxyjvG"
+      },
+      "artists": [
+        {
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216255,
+      "name": "One Of A Million",
+      "url": "https://open.spotify.com/track/129EFIQ1KrSVCPPIg1XQnj"
+    },
+    {
+      "album": {
         "name": "Only You Say It",
         "url": "https://open.spotify.com/album/4CMYzNo5XGNoGExI7piQ5O"
       },
@@ -2485,6 +2557,24 @@
       "duration_ms": 200932,
       "name": "Only You Say It",
       "url": "https://open.spotify.com/track/1InK0K5uVrrwT47a4CMnAC"
+    },
+    {
+      "album": {
+        "name": "Open Your Eyes and Dream",
+        "url": "https://open.spotify.com/album/0tYtuOZFH561GOoZU3VdqV"
+      },
+      "artists": [
+        {
+          "name": "Thrice",
+          "url": "https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242180,
+      "name": "Open Your Eyes and Dream",
+      "url": "https://open.spotify.com/track/6o7ipc663JGAnWsntR8Ny6"
     },
     {
       "album": {
@@ -2661,7 +2751,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 237560,
       "name": "Ready For Something",
       "url": "https://open.spotify.com/track/7jxszj5PkDm69WQGda2S21"
@@ -3205,7 +3295,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 176799,
       "name": "talking to the drugs",
       "url": "https://open.spotify.com/track/3Lz6teL5yOL4pp30hKj9LT"
@@ -3353,7 +3443,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 225625,
       "name": "Tide Of Doubt",
       "url": "https://open.spotify.com/track/5SuqiH65FrbM731Cf6dYyp"
@@ -3429,6 +3519,24 @@
       "duration_ms": 234416,
       "name": "UGLY BUG",
       "url": "https://open.spotify.com/track/1ZcDbE8gp4GnmcfVJWdjcs"
+    },
+    {
+      "album": {
+        "name": "Under The Knife",
+        "url": "https://open.spotify.com/album/7t8h0W6FsxiFFE4EHeBc5S"
+      },
+      "artists": [
+        {
+          "name": "BRKN LOVE",
+          "url": "https://open.spotify.com/artist/2Hkg1gn2Hpar1sVP8adtNp"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176072,
+      "name": "Under The Knife",
+      "url": "https://open.spotify.com/track/3XtlCUDgBJaPbK0S4LKPbA"
     },
     {
       "album": {
@@ -3573,6 +3681,24 @@
       "duration_ms": 182053,
       "name": "Way Out",
       "url": "https://open.spotify.com/track/7Grwv8rXFa6K9ETV1Sgr4g"
+    },
+    {
+      "album": {
+        "name": "Wayfinding",
+        "url": "https://open.spotify.com/album/2uKHnwdrCulGi0RdoaJCMl"
+      },
+      "artists": [
+        {
+          "name": "Chappaqua Wrestling",
+          "url": "https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189466,
+      "name": "Wayfinding",
+      "url": "https://open.spotify.com/track/1SBkDOflNcFTPGysQJa9gd"
     },
     {
       "album": {

@@ -2276,6 +2276,24 @@
     },
     {
       "album": {
+        "name": "(self-titled)",
+        "url": "https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE"
+      },
+      "artists": [
+        {
+          "name": "Marcus Mumford",
+          "url": "https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253599,
+      "name": "Grace",
+      "url": "https://open.spotify.com/track/4i4gcJSMofr3Pe9YWThzRp"
+    },
+    {
+      "album": {
         "name": "GUCCI BAG",
         "url": "https://open.spotify.com/album/2uglKnENyDI1cz6PxM37dY"
       },
@@ -4599,7 +4617,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 213293,
       "name": "Pale Damp Cheeks",
       "url": "https://open.spotify.com/track/5RwjsoPluDen5DPyPdv32Q"

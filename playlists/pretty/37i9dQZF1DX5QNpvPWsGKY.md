@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5QNpvPWsGKY.md) - [plain]
 
 > Un buffet de ritmos sabrositos para satisfacer tu paladar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,510 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,631 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5QNpvPWsGKY.md) - [plain]
 | 61 | [Tonta](https://open.spotify.com/track/1A1yn53ZypVPUcV4W54j8A) | [Grupo Mojado](https://open.spotify.com/artist/28NFZuZbEm7yzMpv1q1Rb7) | [25 Exitos Vol\. 1 \(USA\)](https://open.spotify.com/album/0dgNt6D4pz86nn0ZTRYoVQ) | 3:10 |
 | 62 | [Dime Dónde Y Cuándo](https://open.spotify.com/track/7GKKZEHiYblZOedraf4ca4) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Quiereme](https://open.spotify.com/album/1NzyJD7kRhW8U5i1od2LH6) | 3:54 |
 | 63 | [Tú Me Quieres Lastimar](https://open.spotify.com/track/4WZBfo2iiJyrhUdcyOOk0c) | [Ladron](https://open.spotify.com/artist/32BLNtPX18499VCjsUiFj1) | [Tú Me Quieres Lastimar](https://open.spotify.com/album/1iXk5Xg8ZhzfWQdbFxbyVE) | 3:35 |
-| 64 | [Ultimas Noticias](https://open.spotify.com/track/1KtOcVH5cR2D7QeWpzwm8I) | [Viento Y Sol](https://open.spotify.com/artist/4d4OGW8V5resuylQWT6S9s) | [Últimas Noticias](https://open.spotify.com/album/5Y81X2aAPTKzjnIhsSz177) | 2:53 |
-| 65 | [Voy a pintar un corazón](https://open.spotify.com/track/6ztkxjvne5bjzUUnoskShx) | [Los Acosta](https://open.spotify.com/artist/1sxekzjeHJaqkZbpaaGR9x) | [Album de Oro](https://open.spotify.com/album/7yZcbdxZv4trwSe3RfY8LE) | 3:28 |
+| 64 | [Voy a pintar un corazón](https://open.spotify.com/track/6ztkxjvne5bjzUUnoskShx) | [Los Acosta](https://open.spotify.com/artist/1sxekzjeHJaqkZbpaaGR9x) | [Album de Oro](https://open.spotify.com/album/7yZcbdxZv4trwSe3RfY8LE) | 3:28 |
+| 65 | [Ultimas Noticias](https://open.spotify.com/track/1KtOcVH5cR2D7QeWpzwm8I) | [Viento Y Sol](https://open.spotify.com/artist/4d4OGW8V5resuylQWT6S9s) | [Últimas Noticias](https://open.spotify.com/album/5Y81X2aAPTKzjnIhsSz177) | 2:53 |
 | 66 | [Cumbia En La Playa](https://open.spotify.com/track/6CgVMTAJsotV8x0jMfYHbC) | [Grupo Kual?](https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX) | [Cumbiando Este 5 De Mayo](https://open.spotify.com/album/1PWKIRqLB0BPIgJuGMlyfb) | 5:24 |
 | 67 | [El Verde De Tus Ojos \- Remix](https://open.spotify.com/track/1Nl4EXAxSulKlbiro793i4) | [Los Yes Yes](https://open.spotify.com/artist/6h9B8wche8pbvJ0wiWKn8q) | [Trayectoria](https://open.spotify.com/album/0YtGKnOCOt9IYnHDsuJwQt) | 5:15 |
 | 68 | [El Colesterol](https://open.spotify.com/track/1jjLhYePEexexawOF6DgzP) | [Fito Olivares y Su Grupo](https://open.spotify.com/artist/3zzeZVLuOeetfimOd4k8rE) | [30 Exitos Inolvidables](https://open.spotify.com/album/2RDLZK3ocjN4OHLeFVLJcA) | 2:26 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5QNpvPWsGKY.md) - [plain]
 | 99 | [Hola, ¿Cómo Estás?](https://open.spotify.com/track/3z3BcSmA92dr3J8LP51Kit) | [Grupo Pegasso](https://open.spotify.com/artist/00YglmekVqqlHbv8N8erfv) | [Amor Vendido, Vol\. 4](https://open.spotify.com/album/6iC3acGZhPbKigho8pZNU3) | 3:19 |
 | 100 | [La Hierba Se Movía](https://open.spotify.com/track/58F3513Tw8RUvF0kX3GOOU) | [Tropicalísimo Apache](https://open.spotify.com/artist/1veLiIQBt4YcFO5Z36DwFO) | [Serie Sensacional: Tropicalisimo Apache](https://open.spotify.com/album/1pZ4Bc8s9h7rPzAHsXfx6b) | 3:06 |
 
-Snapshot ID: `MTY0MzEzNzUxNiwwMDAwMDAwMGRjNDIwYTFmMTIwMGI1NzU2ZjU5NjAwM2IyZmNkNjNi`
+Snapshot ID: `MTY0MzEzNzUxNiwwMDAwMDAwMGExMGM2Yjc1MzkzNmYyNjBjMzIxYzI1ZmY1MDQ3YTgz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZprlljz35Gr.md) - [plain]
 
 > Bluesy blips and blops
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,407 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,421 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZprlljz35Gr.md) - [plain]
 | 30 | [Right Now](https://open.spotify.com/track/2CPIE5QUfKjUKFNcKQXgnU) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf), [Leaf Dog](https://open.spotify.com/artist/3m634B61sWwR5xhu3lCyK6) | [Dog 'n' Bone](https://open.spotify.com/album/3pnmwntXRlUrBVvxabteEa) | 2:37 |
 | 31 | [Electrified](https://open.spotify.com/track/3LAyeN6fnP8Hxd9uNszLsp) | [MY BABY](https://open.spotify.com/artist/0c103ZyWDycpfVxR0lNrjm) | [Prehistoric Rhythm](https://open.spotify.com/album/4iPWsm1A64k2xzydc0SmWc) | 6:38 |
 | 32 | [Shuck Dub](https://open.spotify.com/track/7lNr4eqSP7MCUCbDUGHWRo) | [R.L\. Burnside](https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip) | [Come on In](https://open.spotify.com/album/6QyepVbPWpjsQZAEgqmDsJ) | 4:28 |
-| 33 | [Ride On](https://open.spotify.com/track/4sEDI5vsiNsdefE0K93181) | [Little Axe](https://open.spotify.com/artist/0ZLV7I1vDpjO5IIDTYfeGJ) | [Return](https://open.spotify.com/album/7CVCVJP0FuNBdtOCqd4jD3) | 5:21 |
-| 34 | [Dirty Blues](https://open.spotify.com/track/41N9M3HeIQWcS63XAiWOqJ) | [Riff Kitten](https://open.spotify.com/artist/2dWWUgJS0zdhV2Bu4WGF6a) | [Dirty Blues](https://open.spotify.com/album/5izZcttoL7uPSrAosqObkb) | 2:46 |
+| 33 | [Dirty Blues](https://open.spotify.com/track/41N9M3HeIQWcS63XAiWOqJ) | [Riff Kitten](https://open.spotify.com/artist/2dWWUgJS0zdhV2Bu4WGF6a) | [Dirty Blues](https://open.spotify.com/album/5izZcttoL7uPSrAosqObkb) | 2:46 |
+| 34 | [Ride On](https://open.spotify.com/track/4sEDI5vsiNsdefE0K93181) | [Little Axe](https://open.spotify.com/artist/0ZLV7I1vDpjO5IIDTYfeGJ) | [Return](https://open.spotify.com/album/7CVCVJP0FuNBdtOCqd4jD3) | 5:21 |
 | 35 | [Reasons](https://open.spotify.com/track/4hGyxsLEwbuwlLsxunnMoT) | [PARTY SHIRT](https://open.spotify.com/artist/5QsM7I7aDux4F7lm8aWBNA) | [Reasons](https://open.spotify.com/album/4eehdx5DtW9A6RvfLaVirQ) | 5:00 |
 | 36 | [Daddy Was a Wolfman](https://open.spotify.com/track/7i10VbOnkG09EuZuOkz3gO) | [Son Of Dave](https://open.spotify.com/artist/5t81Dbcvlm5J7YP7cI2kae) | [Music for Cop Shows](https://open.spotify.com/album/5BXskRJFE9uS1C0K1hZtqE) | 2:34 |
 | 37 | [Please Don't Stay](https://open.spotify.com/track/5QCKfr2ckdL5kf9wCQtzUu) | [R.L\. Burnside](https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip) | [Come on In](https://open.spotify.com/album/6QyepVbPWpjsQZAEgqmDsJ) | 2:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZprlljz35Gr.md) - [plain]
 | 49 | [Come on Jump Right In](https://open.spotify.com/track/1dqcArKoJmhj8cjg26Mu5Q) | [Akolo](https://open.spotify.com/artist/5n31j1CydRWUtmfct89c5J) | [Come on Jump Right In](https://open.spotify.com/album/4YZOzLozsvdyka8cBHZNAy) | 3:30 |
 | 50 | [Idol \(Should I Know\)](https://open.spotify.com/track/676LOrrQHW9WOz8VL5LYVC) | [Mississippi Big Beat](https://open.spotify.com/artist/430DMjWZpbtg2tt64FynYH) | [Delta Disco](https://open.spotify.com/album/3SDDZMhIy357UN63KjpJP8) | 5:19 |
 
-Snapshot ID: `MTY1OTA2NzMyMCwwMDAwMDAwMGEwMmE2ZmY3MTE3YWQzOThlZWI1YjI0NGQ2ZjE5YzEy`
+Snapshot ID: `MTY1OTA2NzMyMCwwMDAwMDAwMDc0ZDg2ODZhNjY2ZTBkODA2NGJkNzRjZmY2NjI0ZmVm`

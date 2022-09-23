@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TXiF0EOUoR.md) - [plain]
 
 > ¡Los reyes del jaripeo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,062 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,153 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TXiF0EOUoR.md) - [plain]
 | 38 | [Molinos de Viento](https://open.spotify.com/track/3xCyBGCKtkyzD44L1pQJr3) | [Los Rugar](https://open.spotify.com/artist/7GwU9JkNrNzwUPP0Puswe9) | [Que Se Arme la Fiesta](https://open.spotify.com/album/4AKnoboSYY1A9EotKTRjyO) | 4:00 |
 | 39 | [El Sinaloense](https://open.spotify.com/track/2Oz3xXgX6mUWO2DfL8Iosp) | [Alameños de la Sierra](https://open.spotify.com/artist/4C9L4xjlVFB6lsA9v3EfUh) | [El Sinaloense](https://open.spotify.com/album/3ADj9FieNVX8JaJj3GX99S) | 4:24 |
 | 40 | [Lucesita](https://open.spotify.com/track/5EdZ3ta2DrvCjPtHNr8A7Y) | [Guizador Norteño de Zirahuén Mich.](https://open.spotify.com/artist/4fGn6oclcpfVniidRAvXLP) | [Los Únicos del Huapango Michoacano](https://open.spotify.com/album/5y4vlR58lLHIxvJEafFogr) | 2:28 |
-| 41 | [Flor de Piña](https://open.spotify.com/track/4j9dUECjcbldf719yKz3LO) | [Banda Tierra Mojada](https://open.spotify.com/artist/7qiTcZri2NHe9Et3zAPAci) | [Carnavaleando con la Tierra Mojada](https://open.spotify.com/album/5znsyujVo3YajOYUiSUdnQ) | 3:44 |
-| 42 | [El Toro Pinto](https://open.spotify.com/track/4Iehg5erUkn9UMvyc1N2fB) | [Banda Zirahuen](https://open.spotify.com/artist/7HLRLMnyM5R8wHIds5PfZ7) | [Exitos](https://open.spotify.com/album/0oduvh6rT62D4y2vTBPJAj) | 4:49 |
+| 41 | [El Toro Pinto](https://open.spotify.com/track/4Iehg5erUkn9UMvyc1N2fB) | [Banda Zirahuen](https://open.spotify.com/artist/7HLRLMnyM5R8wHIds5PfZ7) | [Exitos](https://open.spotify.com/album/0oduvh6rT62D4y2vTBPJAj) | 4:49 |
+| 42 | [Flor de Piña](https://open.spotify.com/track/4j9dUECjcbldf719yKz3LO) | [Banda Tierra Mojada](https://open.spotify.com/artist/7qiTcZri2NHe9Et3zAPAci) | [Carnavaleando con la Tierra Mojada](https://open.spotify.com/album/5znsyujVo3YajOYUiSUdnQ) | 3:44 |
 | 43 | [El Sinaloense](https://open.spotify.com/track/3zZLLl6h70ggta49LwrYdd) | [La Adictiva](https://open.spotify.com/artist/5U8FVQFiugMolJ7DEEDOdf) | [30 Aniversario](https://open.spotify.com/album/6R0zUtsEyeLEPmWBhVmenf) | 2:33 |
 | 44 | [El Son de la Tambora](https://open.spotify.com/track/5ZThyGO1Bj0fe1IZuyomad) | [Banda Bucanera](https://open.spotify.com/artist/2sudy981RKHBlYmb5ByWSy) | [Puras Pa'levantar la Polvadera](https://open.spotify.com/album/6acbGb816Kw2vWjPL5uC2F) | 2:51 |
 | 45 | [El Polvorete](https://open.spotify.com/track/5iyaVyi8Cx98S8WS8TbuOT) | [La Numero 1 Banda Jerez De Marco A\. Flores](https://open.spotify.com/artist/5KMVb0Y20BTIrobzI2YZUi) | [Me Gustan Las Viejas Buenas](https://open.spotify.com/album/70xlTaBOwwuHqnJ2aqiiLD) | 2:48 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TXiF0EOUoR.md) - [plain]
 | 99 | [El Sonao](https://open.spotify.com/track/6dSReOEVUQqBgXGYQyWSZw) | [Banda 466 Paso a Paso](https://open.spotify.com/artist/6RfT1OjkFTBrGC48aiJjvm) | [Bailando Ando](https://open.spotify.com/album/0kSHlUFHyJgwldae6Xt6Ss) | 4:21 |
 | 100 | [El Carretero](https://open.spotify.com/track/5Li8aTVHhTJgAfocGruRpw) | [Los Infinitos Puro Zirahuen](https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9) | [Las Alegres de los Infinitos](https://open.spotify.com/album/2i5ASZlby3bDtfMaAMAr3d) | 4:13 |
 
-Snapshot ID: `MTY2MzAxMTIwNywwMDAwMDAwMGM1Y2M0MjU2YTg0MDA3Njg1NzUwOTdjZWRiMDM4NTgx`
+Snapshot ID: `MTY2MzAxMTIwNywwMDAwMDAwMDAzOWM1NDU1MWVhNjkwNGQ0NzdhMjE3MWI1ZDdjNTgy`

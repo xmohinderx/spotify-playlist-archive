@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 
 > Chill techno, melodic house and tech house.
 
-[Spotify](https://open.spotify.com/user/spotify) - 766,998 likes - 60 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 767,316 likes - 60 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,18 +55,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 | 45 | [Pulsing](https://open.spotify.com/track/5uy5YwhwkiuihoJQdEiuws) | [Fejká](https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9) | [Pulsing](https://open.spotify.com/album/4WI3S9WHdO0wPocxqSXh4E) | 3:57 |
 | 46 | [Don't Give Up \- Radio Edit](https://open.spotify.com/track/3Ect3TlbUYwB0pwWUzCOv9) | [Nihil Young](https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC), [Talal](https://open.spotify.com/artist/4FahFgHbYW6tRpEwCQqQTz), [Amy Wawn](https://open.spotify.com/artist/2LfqKoz9RFoKwyCs3s2OLf) | [Don't Give Up \(Radio Edit\)](https://open.spotify.com/album/3uvEmBmwZIVOVYu5DDXYUN) | 3:28 |
 | 47 | [The Blame \- Helsloot Remix](https://open.spotify.com/track/4HiowIhpREOxQ3reSVLQ8n) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5), [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS) | [The Blame \(Helsloot Remix\)](https://open.spotify.com/album/6CER3OrpXoQlZxr9rAiGNj) | 6:44 |
-| 48 | [Gravity](https://open.spotify.com/track/5DhcUBjJbFk2crXo2CgiKO) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa), [Delhia De France](https://open.spotify.com/artist/7A4TdwdnxfR9auD1yAmpWD) | [Love Will Set U Free](https://open.spotify.com/album/5mOPJyGANs9UdcjZjuQZZH) | 5:29 |
+| 48 | [When We Meet Again \- Edit](https://open.spotify.com/track/6DhPzi86qVRtAAXIlnU2fb) | [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS) | [When We Meet Again](https://open.spotify.com/album/7u0IDT1mwyatrbk1ZPgs4X) | 3:57 |
 | 49 | [Tantrum](https://open.spotify.com/track/4CMsK9RIEcJEUwUkSvmBxQ) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Tantrum](https://open.spotify.com/album/2xnR6OX1P3XleZQUbT7MCF) | 3:49 |
-| 50 | [Follow \(Max Manie Remix\)](https://open.spotify.com/track/6WkkQXnxsahGrqGLv540AI) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo), [GIVVEN](https://open.spotify.com/artist/7e1aNehmQevT0RVtN8Pzly), [Max Manie](https://open.spotify.com/artist/0esUZwk3FcZiAH1fXa66dU) | [Follow \(Max Manie Remix\)](https://open.spotify.com/album/29nHlh98BX8btGwsApWfih) | 4:52 |
-| 51 | [When We Meet Again \- Edit](https://open.spotify.com/track/6DhPzi86qVRtAAXIlnU2fb) | [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS) | [When We Meet Again](https://open.spotify.com/album/7u0IDT1mwyatrbk1ZPgs4X) | 3:57 |
+| 50 | [Gravity](https://open.spotify.com/track/5DhcUBjJbFk2crXo2CgiKO) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa), [Delhia De France](https://open.spotify.com/artist/7A4TdwdnxfR9auD1yAmpWD) | [Love Will Set U Free](https://open.spotify.com/album/5mOPJyGANs9UdcjZjuQZZH) | 5:29 |
+| 51 | [Follow \(Max Manie Remix\)](https://open.spotify.com/track/6WkkQXnxsahGrqGLv540AI) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo), [GIVVEN](https://open.spotify.com/artist/7e1aNehmQevT0RVtN8Pzly), [Max Manie](https://open.spotify.com/artist/0esUZwk3FcZiAH1fXa66dU) | [Follow \(Max Manie Remix\)](https://open.spotify.com/album/29nHlh98BX8btGwsApWfih) | 4:52 |
 | 52 | [Prisma \- Klanglos Remix \- Radio Edit](https://open.spotify.com/track/512m11L55vWoUbqrkObdCz) | [Girlwoman](https://open.spotify.com/artist/24rqTvJDFy2t2xgCxsN2f0), [Klanglos](https://open.spotify.com/artist/1jV311C5ADuBqCPpprsjUp) | [Prisma \(Klanglos Remix\)](https://open.spotify.com/album/147QdcYieTKdMrzIvs2X8h) | 3:28 |
 | 53 | [Tarcu](https://open.spotify.com/track/53XCa30Ua1FGl4VeAyCENK) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb) | [Tarcu](https://open.spotify.com/album/3AE8hCcO0uSlP37iOO1stA) | 3:58 |
 | 54 | [Bring You Back \- Edit](https://open.spotify.com/track/2Q3jcJsNmsbgwPjLAZccZz) | [Peer Kusiv](https://open.spotify.com/artist/0yTV2etph4xN8PXPLPeEG5), [Johanson](https://open.spotify.com/artist/5oNwxILfJ5rJhMaFdwB9tN) | [Bring You Back](https://open.spotify.com/album/6fPDCt9pyi6QYzde4O9O2Y) | 3:18 |
 | 55 | [Between Two Worlds](https://open.spotify.com/track/0uO5T7u4DkgfGif1wIeLNr) | [Lexer](https://open.spotify.com/artist/2vDXLZ9mI3CdTPPIzFUKlY) | [Between Two Worlds](https://open.spotify.com/album/2e0Xq16PwrfYtznyso4lHy) | 7:44 |
 | 56 | [FAST LAND](https://open.spotify.com/track/6ab52dV6RWDbdDb8xbQ8Uz) | [Moderat](https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy) | [FAST LAND](https://open.spotify.com/album/4wXwA4w2sssqxsv9sjaHkb) | 3:39 |
 | 57 | [I WON'T STAY](https://open.spotify.com/track/0U9gq4pfWLjoF7F4pWcMvO) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [I WON'T STAY](https://open.spotify.com/album/0m8w2qFAnW82Nn6mhmxZ7I) | 4:46 |
-| 58 | [It's a Fine Day](https://open.spotify.com/track/0ZRVNeTUZVdjIdjss3toAS) | [Tube & Berger](https://open.spotify.com/artist/32wcuqRxZuBY5HbH1bWa8h), [Grace Gachot](https://open.spotify.com/artist/1viwLnZpOs9iGIe3PP3aoJ) | [It's a Fine Day](https://open.spotify.com/album/0uU1QLNOmgVTDdFwhcmvAL) | 3:24 |
-| 59 | [Postquam](https://open.spotify.com/track/3uz86uuWkk7oyJs5pOTN3b) | [Vanita](https://open.spotify.com/artist/03wBbT5tqttIBpmUrNa9ur) | [Postquam](https://open.spotify.com/album/53S7Jd7k0K4mC2vg28j99p) | 8:18 |
+| 58 | [Postquam](https://open.spotify.com/track/3uz86uuWkk7oyJs5pOTN3b) | [Vanita](https://open.spotify.com/artist/03wBbT5tqttIBpmUrNa9ur) | [Postquam](https://open.spotify.com/album/53S7Jd7k0K4mC2vg28j99p) | 8:18 |
+| 59 | [It's a Fine Day](https://open.spotify.com/track/0ZRVNeTUZVdjIdjss3toAS) | [Tube & Berger](https://open.spotify.com/artist/32wcuqRxZuBY5HbH1bWa8h), [Grace Gachot](https://open.spotify.com/artist/1viwLnZpOs9iGIe3PP3aoJ) | [It's a Fine Day](https://open.spotify.com/album/0uU1QLNOmgVTDdFwhcmvAL) | 3:24 |
 | 60 | [Pure](https://open.spotify.com/track/3yICreqWo6oaNU136hP3u2) | [pølaroit](https://open.spotify.com/artist/3B1BQHf6ExWixwqy9zRDZm) | [Pure](https://open.spotify.com/album/78y3GpzYgLJWmZsbpaDqP1) | 6:05 |
 
-Snapshot ID: `MTY2MjE0MjE4NiwwMDAwMDAwMGU3ZmM3YWU3YjhjNjViMmM0OTk0ZDE5YzMyMTFlNGFj`
+Snapshot ID: `MTY2MjE0MjE4NiwwMDAwMDAwMGQ4OTc3NmI5ZWZhMDY5NDZhMWM2NzRkZGE2ZGYxOTkw`

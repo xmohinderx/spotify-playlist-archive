@@ -4,7 +4,7 @@
 
 > The sweet sounds of Morocco.
 
-157 songs - 8 hr 29 min - [published](https://open.spotify.com/playlist/3rERU7jhrUFm3TLTfgFuLD)
+158 songs - 8 hr 32 min - [published](https://open.spotify.com/playlist/3rERU7jhrUFm3TLTfgFuLD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Douka](https://open.spotify.com/track/4XLGewxYfYfvaajEtRgDVy) | [Adil Assil](https://open.spotify.com/artist/5idudw3rFRe9uVUCus4Kp1) | [Douka](https://open.spotify.com/album/6FDpxxCHJwACZIzmtnRRch) | 3:12 | 2022-02-22 |  |
 | [Dounya](https://open.spotify.com/track/76MO9sT4OIQkEeRndLHveG) | [othmanouilki](https://open.spotify.com/artist/5tA7M2xqrIPJ0ax87b19w5) | [Dounya](https://open.spotify.com/album/7wPcqrlsQuPXO15iysENkm) | 3:35 | 2022-05-19 |  |
 | [Dowara](https://open.spotify.com/track/7f5S0zYuv6Ou0xEPwLXUDU) | [Lbenj](https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv) | [Dowara](https://open.spotify.com/album/12ZhO91Amzo0mYJOP1eP1t) | 3:15 | 2021-12-25 | 2022-07-22 |
+| [DRAILL](https://open.spotify.com/track/2UYZDBQ89KYUdU3CspLZJ2) | [MA3IZ](https://open.spotify.com/artist/6T4HJ0ayzxLWDbktdiBe3l) | [DRAILL](https://open.spotify.com/album/4Sx9SrFQdcCD5pSY6bwU8M) | 3:40 | 2022-09-22 |  |
 | [El Hala'](https://open.spotify.com/track/75erM0i0rM96ydo1ujzn7g) | [Saad Lamjarred](https://open.spotify.com/artist/0NjXtqYWpnV055KhfZgtuY) | [El Hala'](https://open.spotify.com/album/72a9NuF8ZI7ynsbjqGEj3o) | 2:52 | 2022-09-06 |  |
 | [Enty Hayaty](https://open.spotify.com/track/2FCV8dhMiAl3fNifmx1Q3m) | [Saad Lamjarred](https://open.spotify.com/artist/0NjXtqYWpnV055KhfZgtuY), [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um) | [Enty Hayaty](https://open.spotify.com/album/6xcvw1ccUgfmlOqh55D2yN) | 4:15 | 2021-12-25 | 2022-04-12 |
 | [Fin Ghadia Bia](https://open.spotify.com/track/3AidVpiTLO0ef8t9Ijfw6l) | [Rachid Goudi](https://open.spotify.com/artist/5hsP4094TnggYBrPxOvgUm) | [Fin Ghadia Bia](https://open.spotify.com/album/6xzNpEqdF2XulXSyt2dyQr) | 3:30 | 2022-06-22 | 2022-08-10 |

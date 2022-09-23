@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 
 > Discover fresh new Pakistani indie tracks\. Cover \- Marshall Ahmed
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,526 likes - 75 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,527 likes - 75 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 | 34 | [Kirpa Karo Mahraj Moinuddin](https://open.spotify.com/track/4e362EAzyRCN8TmPPvsgQK) | [Hamza Akram Qawwal](https://open.spotify.com/artist/1SqOrcBazuYQ8pcw4UuseT), [Taimoor Akram](https://open.spotify.com/artist/1cwy0UsOCVBUtJcMq80gzq), [Abdul Akram](https://open.spotify.com/artist/7h8qDn9P06lpRw7ARJxXnC) | [Kirpa Karo Mahraj Moinuddin](https://open.spotify.com/album/5puT2pu99WQrigbhMTZ0GD) | 7:27 |
 | 35 | [Wakhray Rung](https://open.spotify.com/track/1tiSj1evhuX3oKr9AzTcrV) | [Hashim Nawaz](https://open.spotify.com/artist/2zurwnLzcPvY8n3jJEse5E) | [Wakhray Rung](https://open.spotify.com/album/6RDtoN4rh89O0ofIKYuDn8) | 2:40 |
 | 36 | [Speak](https://open.spotify.com/track/434o65O1lnTVb0Lbf3kx6O) | [Floatleaf](https://open.spotify.com/artist/6PuTsxqrk5XNswCXYWNr5r) | [Speak](https://open.spotify.com/album/3it0uzUrXEZYwUqXrI6pay) | 2:09 |
-| 37 | [Najumi](https://open.spotify.com/track/1SWq0lhhyfkA4VLkpb0def) | [Trejinald](https://open.spotify.com/artist/351fUED1zOea9HZ8Rktdln), [Asfandyar Cheema](https://open.spotify.com/artist/4iZXWNteJIaKzLQ118VXcE) | [Najumi](https://open.spotify.com/album/1q8r3PHHaNLnxfi7Upsw4P) | 4:24 |
+| 37 | [Najumi](https://open.spotify.com/track/1SWq0lhhyfkA4VLkpb0def) | [Waseh Farooq](https://open.spotify.com/artist/1QS6vLtKzDA5Q2H6w5ph3a), [Asfandyar Cheema](https://open.spotify.com/artist/4iZXWNteJIaKzLQ118VXcE) | [Najumi](https://open.spotify.com/album/1q8r3PHHaNLnxfi7Upsw4P) | 4:24 |
 | 38 | [Nakhuda](https://open.spotify.com/track/0OqVCqOnluSB2Xy7aI65g4) | [Barfaani Reech Ajao](https://open.spotify.com/artist/0cic1YPysmB8DKUXthyakE) | [Nakhuda](https://open.spotify.com/album/1OBKBbqcruttbixQBXo9XS) | 4:27 |
 | 39 | [Nothing To Lose](https://open.spotify.com/track/3wIBEgOOLd1l6p9NQCeTn7) | [influence](https://open.spotify.com/artist/4211Jdw6RynwJ4flmJ1pKp) | [Time Will Tell](https://open.spotify.com/album/7AWZmaMkeGc488QqpDbRps) | 3:57 |
 | 40 | [Taaray](https://open.spotify.com/track/4LoaLtHvppfu4WlN0Ux1Fd) | [Moharr](https://open.spotify.com/artist/569lhafCnmBCenRCOf7ISo) | [Taaray](https://open.spotify.com/album/6raIHVkCZqJQ9n7LjqJohm) | 3:40 |

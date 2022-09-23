@@ -4,7 +4,7 @@
 
 > Top Sharqi hits right now\. Cover: Wael Kfoury.
 
-80 songs - 4 hr 34 min - [published](https://open.spotify.com/playlist/3kBNibb2D8hX0xnC695807)
+81 songs - 4 hr 38 min - [published](https://open.spotify.com/playlist/3kBNibb2D8hX0xnC695807)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,8 @@
 | [إنتي السبب](https://open.spotify.com/track/3OSoXw4H5CRGMtmDKDQvz4) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8) | [إنتي السبب](https://open.spotify.com/album/6XM5tebpzVaTj6ZaqvWmYA) | 3:37 | 2022-05-04 | 2022-09-18 |
 | [الدنيا بعينيا](https://open.spotify.com/track/5HsOqrwWovST07mWul6LfD) | [Anas Kareem](https://open.spotify.com/artist/03IOvKWtAnWAOVf5864dUS) | [الدنيا بعينيا](https://open.spotify.com/album/19l3MlaXMntBa9xOoB79ZJ) | 2:25 | 2022-06-20 |  |
 | [بتوحشيني](https://open.spotify.com/track/5JAf3OAFDSrQ3MHonCo69E) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [بتوحشيني](https://open.spotify.com/album/55mOWoEYw3i3WAMF23O5rg) | 3:53 | 2022-05-04 | 2022-07-17 |
-| [بحارب فيها](https://open.spotify.com/track/74dkAlEbjBPHK3HrLXiAmC) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8) | [بحارب فيها](https://open.spotify.com/album/4x1Bl2uSE5UPlfnQXwlo2U) | 4:05 | 2022-06-20 |  |
+| [بحارب فيها](https://open.spotify.com/track/0XDtC0f0gsLPPVvbFiu07q) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8) | [بحارب فيها](https://open.spotify.com/album/0LLAkjCkZJFQInR2cQ9KFe) | 4:05 | 2022-08-28 |  |
+| [بحارب فيها](https://open.spotify.com/track/74dkAlEbjBPHK3HrLXiAmC) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8) | [بحارب فيها](https://open.spotify.com/album/4x1Bl2uSE5UPlfnQXwlo2U) | 4:05 | 2022-06-20 | 2022-09-23 |
 | [زهرة من الياسمين](https://open.spotify.com/track/0tS4ytQ1au13MkSFESa6B7) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [زهرة من الياسمين](https://open.spotify.com/album/5CLgYJzaltpiwQOjXf4bD8) | 4:10 | 2022-07-16 |  |
 | [عشانك](https://open.spotify.com/track/0cJ6V9clK0gZCwPHxgKB5D) | [siilawy](https://open.spotify.com/artist/5VZr6vX1UPRRf9tneUEi2B) | [عشانك](https://open.spotify.com/album/7IeH8T12RVRbIlppvS83x3) | 3:07 | 2022-07-27 |  |
 | [عشانك](https://open.spotify.com/track/2L8xtCLeM42te93xowB4nx) | [siilawy](https://open.spotify.com/artist/5VZr6vX1UPRRf9tneUEi2B) | [عشانك](https://open.spotify.com/album/4HyGsmrEgAjCZl7ZZLDhTk) | 3:07 | 2022-05-04 | 2022-07-29 |

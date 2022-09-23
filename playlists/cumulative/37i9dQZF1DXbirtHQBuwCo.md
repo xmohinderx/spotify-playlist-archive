@@ -2,9 +2,9 @@
 
 ### [TrenChill K\-R&B](https://open.spotify.com/playlist/37i9dQZF1DXbirtHQBuwCo)
 
-> Trendy & Chill 한국 R&B\. Be laid\-back with groovy K\-R&B\. \(Cover: SOLE\(쏠\)\)
+> Trendy & Chill 한국 R&B\. Be laid\-back with groovy K\-R&B\. \(Cover: Crush\(크러쉬\)\)
 
-410 songs - 22 hr 25 min - [published](https://open.spotify.com/playlist/3joqGbdyT1iJwODdo3szax)
+411 songs - 22 hr 28 min - [published](https://open.spotify.com/playlist/3joqGbdyT1iJwODdo3szax)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,7 +184,7 @@
 | [Hype Boy](https://open.spotify.com/track/0a4MMyCrzT0En247IhqZbD) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 2:59 | 2022-08-18 |  |
 | [hypocrite](https://open.spotify.com/track/7a7LtMf2TqwQ3GZ38XXZBF) | [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r) | [love](https://open.spotify.com/album/3TzHGHpI61xn4CqKrMhRRS) | 2:43 | 2022-07-25 | 2022-08-03 |
 | [I can't make you love me](https://open.spotify.com/track/1QcQ79sEzmEbUG1oR8iNM6) | [KINDA BLUE](https://open.spotify.com/artist/264XvBSD6pFn1eDvWSWMI8), [Hwa Sa](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [I can't make you love me](https://open.spotify.com/album/5IXPrB8V5bV6tl9Eh09jxa) | 2:38 | 2022-04-19 | 2022-07-29 |
-| [i got you](https://open.spotify.com/track/20gAOYKYQ7aFRVRg6LvrLW) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [i got you](https://open.spotify.com/album/6yhXV3FtUQ8kDhBwhDuTKZ) | 2:12 | 2022-04-19 |  |
+| [i got you](https://open.spotify.com/track/20gAOYKYQ7aFRVRg6LvrLW) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [i got you](https://open.spotify.com/album/6yhXV3FtUQ8kDhBwhDuTKZ) | 2:12 | 2022-04-19 | 2022-09-23 |
 | [I hope you like it](https://open.spotify.com/track/6QofUdC2H2t5V6DDIXpYM6) | [Woody](https://open.spotify.com/artist/37ZY7eIcTT28id2jfq8WYw) | [I hope you like it](https://open.spotify.com/album/14asPqEXDUtKBLAwAi3smY) | 2:59 | 2022-05-09 | 2022-05-12 |
 | [I MEAN I MEAN.](https://open.spotify.com/track/6zOW7aFQXzIvLSpA7e7nAv) | [jeebanoff](https://open.spotify.com/artist/6FK6uP46ntwU9gaQQxTlDV) | [I MEAN I MEAN.](https://open.spotify.com/album/56ZCnaj5QSdXMOv6Cy1ksU) | 2:55 | 2022-05-11 | 2022-06-28 |
 | [I was a Hero](https://open.spotify.com/track/6y2u3p63XWKrJr3PG9YGd3) | [9001](https://open.spotify.com/artist/0ucJPeq0vaU8dbHu0Tie6E) | [I was a Hero](https://open.spotify.com/album/7o7JkBnQg1EK3kP6JSBKFD) | 3:19 | 2022-07-04 | 2022-07-08 |
@@ -318,6 +318,7 @@
 | [Right Back \(Feat\. Tabber\)](https://open.spotify.com/track/5w0UlB7OxmoBF5kpT6uFKw) | [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du), [Tabber](https://open.spotify.com/artist/4CYjITN8Au3K5CWFeex7fU) | [Lucky Charms!](https://open.spotify.com/album/6bwVdSQ3xOtkSgNIzhqiaa) | 3:26 | 2022-05-31 | 2022-06-17 |
 | [Ringwanderung](https://open.spotify.com/track/2cLJhvm09iuwVHSAfaCaus) | [YELO](https://open.spotify.com/artist/2SIjieAwLcihB5fZ7HfHmD) | [Ringwanderung](https://open.spotify.com/album/2gQiMJyIb8lqZu3dAeBbwh) | 2:54 | 2022-05-31 | 2022-07-03 |
 | [Running Through The Night](https://open.spotify.com/track/3UZ46DvXvB2R7sBUZornlv) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [?depacse ohw](https://open.spotify.com/album/0srUbfZOMUBwUitQGQeUca) | 3:37 | 2022-04-19 |  |
+| [Rush Hour \(Feat\. j\-hope of BTS\)](https://open.spotify.com/track/5aucVLKiumD89mxVCB4zvS) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Rush Hour](https://open.spotify.com/album/7egcy2gtlyoUUl1OlQrY3R) | 2:57 | 2022-09-22 |  |
 | [Salang Salang](https://open.spotify.com/track/1DEJaWgi8ZKdStRO0iUX6e) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [In My Room](https://open.spotify.com/album/6kEpx1z9uVAWuTkHY1bdKG) | 3:02 | 2022-04-22 | 2022-07-21 |
 | [Scaredy Cat](https://open.spotify.com/track/4LkXtklCusSbi6UxYWgH8B) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Moodswings in This Order](https://open.spotify.com/album/2hPHncbZRuWiCBauEUJxyA) | 2:50 | 2022-04-19 |  |
 | [Seiren](https://open.spotify.com/track/3TygjfDZ8m6ehJpIGO39CA) | [Seiren](https://open.spotify.com/artist/4gfhlsF2bTM0wS7Y1gvHzL) | [Seiren](https://open.spotify.com/album/1j3OwiDesda3wbEvmtCzBq) | 3:02 | 2022-04-19 | 2022-04-21 |

@@ -2,29 +2,29 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 
 ### [Fresh Finds Italia](https://open.spotify.com/playlist/37i9dQZF1DX0KBgD4Jf5tY)
 
-> Nuove scoperte dalla scena indipendente italiana, senza etichette di genere\. Cover: <a href="spotify:artist:6TWgi8oIy1OFh9P7EglVUt">Arieti Rilassati</a>
+> Nuove scoperte dalla scena indipendente italiana, senza etichette di genere\. Cover: <a href="spotify:artist:2HDuNOhm4h9glYn2F7rAFP">Tanca</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,376 likes - 55 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,388 likes - 55 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Spirito della Domenica](https://open.spotify.com/track/49BcVeFV0VuU9v73JxQFL1) | [Arieti Rilassati](https://open.spotify.com/artist/6TWgi8oIy1OFh9P7EglVUt) | [Vacanza Tranquilla](https://open.spotify.com/album/4Sh3OGcoT7T8ViG262Wgwf) | 4:58 |
-| 2 | [Bugie bianche](https://open.spotify.com/track/3adK6P8rQo1ILRRfiwHrif) | [Carolei](https://open.spotify.com/artist/1bSPgPv4OyNIMnWqG7TtTf) | [Bugie bianche](https://open.spotify.com/album/37Yadtrb8JoTs9hxSnmQMA) | 2:37 |
-| 3 | [Cantonese](https://open.spotify.com/track/6fOA2rIxr7HEV8a5dyiVl2) | [Stramare](https://open.spotify.com/artist/5oAifDTzCGqpz9YWvTrLOW) | [Cantonese](https://open.spotify.com/album/6oZtBvNPK6ezs0ZL7XOAwb) | 3:40 |
-| 4 | [Baby stai con me](https://open.spotify.com/track/1YRkrzo34kTUQq8jSfnSoA) | [Kinder Garden](https://open.spotify.com/artist/7By2W4RhZGhK9wCYGQr1Q1) | [Baby stai con me](https://open.spotify.com/album/0qdIghkVBG0SB2iKAccsY7) | 3:15 |
-| 5 | [UMMA \- Arssalendo Remix](https://open.spotify.com/track/6Zdz3j652H8aYnfR4IcYK0) | [BLUEM](https://open.spotify.com/artist/1eFOTBAGM0w0SH7jnTYSd1), [Arssalendo](https://open.spotify.com/artist/54LmkGE6kI6eoaPdd6XiEd) | [UMMA \(Remix\)](https://open.spotify.com/album/2sCXqX8nII3Qk3ms7k4n9F) | 3:17 |
-| 6 | [Party on My Own](https://open.spotify.com/track/0fEpZIB3BMirPi0EHom7xJ) | [Lilla Shy](https://open.spotify.com/artist/4bpm0dwCqIbfjsvqW716Qh) | [Party on My Own](https://open.spotify.com/album/6cipBf6Xsv55Qo8V38CZFb) | 3:39 |
-| 7 | [CCC](https://open.spotify.com/track/6F9L4qAPNYGOsZSEYdGk3U) | [Michelle, The Listless](https://open.spotify.com/artist/0Qk6tmdYV2gBJo4lS07hhz), [Bongi](https://open.spotify.com/artist/3ehxbQ0letT4rNrzvp3SAq) | [CCC](https://open.spotify.com/album/0EcUuIu2kejaSul2I0e2jH) | 3:08 |
-| 8 | [Domenica Berici](https://open.spotify.com/track/0XT1UrQMwTCqbiwpbjWAjk) | [Delicatoni](https://open.spotify.com/artist/1OEKoqhN34tIGOjgCdp2gq) | [Delicatoni](https://open.spotify.com/album/1K1LSukSt8Ae3rZCNuKheA) | 4:27 |
-| 9 | [OCCHI STANCHI](https://open.spotify.com/track/1axi47Y55klJTxAGRrIweI) | [Martina](https://open.spotify.com/artist/5FUuvvK6pzPDOJsRl10Z8p) | [OCCHI STANCHI](https://open.spotify.com/album/3vON14VlAxP71Md2R3Tv24) | 2:23 |
-| 10 | [Chiamami](https://open.spotify.com/track/06sdKGHzyXWyN73Dd6vZK7) | [Tuchisei](https://open.spotify.com/artist/3h4ILu2xVU2FQTS50u1mo3), [Vez Venanzi](https://open.spotify.com/artist/2tYN4DZQ3RGu9NYSsgLdkV) | [Chiamami](https://open.spotify.com/album/2qpNHcYewPwkl93wHuS8bp) | 2:33 |
-| 11 | [Pirati](https://open.spotify.com/track/5ipWXlmwltaLQCsBzoRizT) | [Barberini](https://open.spotify.com/artist/2jOreV30iFYcXc8qEzt9yH) | [Pirati](https://open.spotify.com/album/1DXxshEJz5EEX8aJyU29XI) | 5:01 |
-| 12 | [Tapparelle](https://open.spotify.com/track/0shEngy3uI1eEZ3bNEP4h3) | [elito](https://open.spotify.com/artist/4OSuHJobGRJFovPsbGCVgR) | [Tapparelle](https://open.spotify.com/album/29Ra0ASs9aqOvJRj4DmiIx) | 3:06 |
-| 13 | [Settembre](https://open.spotify.com/track/0sld7QsrvqUlIUyJuI06Ki) | [Giuze](https://open.spotify.com/artist/2drbYqHcAqNoLoEhrzaZ5B) | [Settembre](https://open.spotify.com/album/0orVvpMLZdKnHeitZwp7pK) | 3:48 |
-| 14 | [Le sette e sette](https://open.spotify.com/track/1a3Qif4kPHr3nTUzTPvfw6) | [Klippa Kloppa](https://open.spotify.com/artist/0Ok66I75FSQaKQSy7CAEdK) | [Le sette e sette](https://open.spotify.com/album/3kLLLad5A5Q35oqzNwDli6) | 2:23 |
-| 15 | [Tocco di Lusso](https://open.spotify.com/track/0kxe9g9K1kdxzwRMNYfgIl) | [Popa](https://open.spotify.com/artist/3v3PilwftiZCpC4msQRNyB) | [Tocco di Lusso](https://open.spotify.com/album/2637BRvpeYONrNQiUWJUwV) | 3:23 |
-| 16 | [Luci di città](https://open.spotify.com/track/5Gs57UzbLHUbEm7NV5orhp) | [CARAVELLE](https://open.spotify.com/artist/5f8YHxtakxf9y90jmgpYBo) | [Luci di città](https://open.spotify.com/album/20UxFoxUOTlNXUBcCGjRb4) | 3:11 |
-| 17 | [ANCORA](https://open.spotify.com/track/2XxrTkLS3YxDp0HRDPMlsM) | [Asteria](https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq) | [ANCORA](https://open.spotify.com/album/4LjYaprNELvWNeqE9hIszw) | 2:25 |
+| 1 | [SBADIGLI \- Rearranged](https://open.spotify.com/track/1Wb1mkRuPT1kmxXEnN87Uh) | [Tanca](https://open.spotify.com/artist/2HDuNOhm4h9glYn2F7rAFP) | [WORDS OF DOGTOWN](https://open.spotify.com/album/1Xsz3QEUeU5lnpyUZZnK0P) | 2:03 |
+| 2 | [Domenica Berici](https://open.spotify.com/track/0XT1UrQMwTCqbiwpbjWAjk) | [Delicatoni](https://open.spotify.com/artist/1OEKoqhN34tIGOjgCdp2gq) | [Delicatoni](https://open.spotify.com/album/1K1LSukSt8Ae3rZCNuKheA) | 4:27 |
+| 3 | [Baby stai con me](https://open.spotify.com/track/1YRkrzo34kTUQq8jSfnSoA) | [Kinder Garden](https://open.spotify.com/artist/7By2W4RhZGhK9wCYGQr1Q1) | [Baby stai con me](https://open.spotify.com/album/0qdIghkVBG0SB2iKAccsY7) | 3:15 |
+| 4 | [UMMA \- Arssalendo Remix](https://open.spotify.com/track/6Zdz3j652H8aYnfR4IcYK0) | [BLUEM](https://open.spotify.com/artist/1eFOTBAGM0w0SH7jnTYSd1), [Arssalendo](https://open.spotify.com/artist/54LmkGE6kI6eoaPdd6XiEd) | [UMMA \(Remix\)](https://open.spotify.com/album/2sCXqX8nII3Qk3ms7k4n9F) | 3:17 |
+| 5 | [Pirati](https://open.spotify.com/track/5ipWXlmwltaLQCsBzoRizT) | [Barberini](https://open.spotify.com/artist/2jOreV30iFYcXc8qEzt9yH) | [Pirati](https://open.spotify.com/album/1DXxshEJz5EEX8aJyU29XI) | 5:01 |
+| 6 | [Tapparelle](https://open.spotify.com/track/0shEngy3uI1eEZ3bNEP4h3) | [elito](https://open.spotify.com/artist/4OSuHJobGRJFovPsbGCVgR) | [Tapparelle](https://open.spotify.com/album/29Ra0ASs9aqOvJRj4DmiIx) | 3:06 |
+| 7 | [Cantonese](https://open.spotify.com/track/6fOA2rIxr7HEV8a5dyiVl2) | [Stramare](https://open.spotify.com/artist/5oAifDTzCGqpz9YWvTrLOW) | [Cantonese](https://open.spotify.com/album/6oZtBvNPK6ezs0ZL7XOAwb) | 3:40 |
+| 8 | [Spirito della Domenica](https://open.spotify.com/track/49BcVeFV0VuU9v73JxQFL1) | [Arieti Rilassati](https://open.spotify.com/artist/6TWgi8oIy1OFh9P7EglVUt) | [Vacanza Tranquilla](https://open.spotify.com/album/4Sh3OGcoT7T8ViG262Wgwf) | 4:58 |
+| 9 | [Bugie bianche](https://open.spotify.com/track/3adK6P8rQo1ILRRfiwHrif) | [Carolei](https://open.spotify.com/artist/1bSPgPv4OyNIMnWqG7TtTf) | [Bugie bianche](https://open.spotify.com/album/37Yadtrb8JoTs9hxSnmQMA) | 2:37 |
+| 10 | [Party on My Own](https://open.spotify.com/track/0fEpZIB3BMirPi0EHom7xJ) | [Lilla Shy](https://open.spotify.com/artist/4bpm0dwCqIbfjsvqW716Qh) | [Party on My Own](https://open.spotify.com/album/6cipBf6Xsv55Qo8V38CZFb) | 3:39 |
+| 11 | [CCC](https://open.spotify.com/track/6F9L4qAPNYGOsZSEYdGk3U) | [Michelle, The Listless](https://open.spotify.com/artist/0Qk6tmdYV2gBJo4lS07hhz), [Bongi](https://open.spotify.com/artist/3ehxbQ0letT4rNrzvp3SAq) | [CCC](https://open.spotify.com/album/0EcUuIu2kejaSul2I0e2jH) | 3:08 |
+| 12 | [OCCHI STANCHI](https://open.spotify.com/track/1axi47Y55klJTxAGRrIweI) | [Martina](https://open.spotify.com/artist/5FUuvvK6pzPDOJsRl10Z8p) | [OCCHI STANCHI](https://open.spotify.com/album/3vON14VlAxP71Md2R3Tv24) | 2:23 |
+| 13 | [Chiamami](https://open.spotify.com/track/06sdKGHzyXWyN73Dd6vZK7) | [Tuchisei](https://open.spotify.com/artist/3h4ILu2xVU2FQTS50u1mo3), [Vez Venanzi](https://open.spotify.com/artist/2tYN4DZQ3RGu9NYSsgLdkV) | [Chiamami](https://open.spotify.com/album/2qpNHcYewPwkl93wHuS8bp) | 2:33 |
+| 14 | [Settembre](https://open.spotify.com/track/0sld7QsrvqUlIUyJuI06Ki) | [Giuze](https://open.spotify.com/artist/2drbYqHcAqNoLoEhrzaZ5B) | [Settembre](https://open.spotify.com/album/0orVvpMLZdKnHeitZwp7pK) | 3:48 |
+| 15 | [Le sette e sette](https://open.spotify.com/track/1a3Qif4kPHr3nTUzTPvfw6) | [Klippa Kloppa](https://open.spotify.com/artist/0Ok66I75FSQaKQSy7CAEdK) | [Le sette e sette](https://open.spotify.com/album/3kLLLad5A5Q35oqzNwDli6) | 2:23 |
+| 16 | [Tocco di Lusso](https://open.spotify.com/track/0kxe9g9K1kdxzwRMNYfgIl) | [Popa](https://open.spotify.com/artist/3v3PilwftiZCpC4msQRNyB) | [Tocco di Lusso](https://open.spotify.com/album/2637BRvpeYONrNQiUWJUwV) | 3:23 |
+| 17 | [Luci di città](https://open.spotify.com/track/5Gs57UzbLHUbEm7NV5orhp) | [CARAVELLE](https://open.spotify.com/artist/5f8YHxtakxf9y90jmgpYBo) | [Luci di città](https://open.spotify.com/album/20UxFoxUOTlNXUBcCGjRb4) | 3:11 |
 | 18 | [Stelle Negli Occhi](https://open.spotify.com/track/5QR3GD4eRvAQTd2u2dKCsw) | [ASTRI](https://open.spotify.com/artist/6dBUON1UBDXXlUA8XP3Bcz), [Lenor](https://open.spotify.com/artist/4pWBZqR0oa0gjBKEhaw4SK) | [Stelle Negli Occhi](https://open.spotify.com/album/6ZteKa00z9mOELY50nCzBV) | 3:07 |
 | 19 | [Yasmine](https://open.spotify.com/track/73lQUpCI7Dvs6hxTygsGxP) | [Lupo Wolf](https://open.spotify.com/artist/5paQlmqXMYnXc921kMw9jn) | [Yasmine](https://open.spotify.com/album/0F5tULTAZ33JwolGnMEEQT) | 2:37 |
 | 20 | [Noi No](https://open.spotify.com/track/4ILVP85F9Ka7nxCU7wuQEA) | [2llo](https://open.spotify.com/artist/4mG88f13FAWGPNYA9IkKM8), [Grover](https://open.spotify.com/artist/2kEhzvRzkxM8m8HB3P0bdM) | [Noi No](https://open.spotify.com/album/1V5ibYkoGes1jq5daFXitZ) | 3:14 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 | 54 | [Carla Fracci](https://open.spotify.com/track/1TTfIGA55MMhRceb2UIy9c) | [Funivie dello Stato](https://open.spotify.com/artist/19NTsPVkPAZFObaYM18Os7) | [Carla Fracci](https://open.spotify.com/album/6JAIpuVxhFqXv4xDG2eMEd) | 3:07 |
 | 55 | [LUNa!](https://open.spotify.com/track/5qTtF6151q9YE9LWNOIpQE) | [pikkoloATTIKO !! !](https://open.spotify.com/artist/3XClM6ocC58yvHFylO94Wy), [Nosgov](https://open.spotify.com/artist/6FK0azeTwe5RwhUAkpkhnh) | [LUNa!](https://open.spotify.com/album/2LAasDRBMXkgieRneqsqSF) | 2:34 |
 
-Snapshot ID: `MTY2MzI3OTI2MCwwMDAwMDAwMDI2ZWYzOTFkZmQ4NzBlNTIxMTM0M2FkNmQ1NjFkYTJj`
+Snapshot ID: `MTY2Mzg4NDA2MCwwMDAwMDAwMDVjOTYxMGVmMDcxZWMyYzkzOTg5OTBhZTJkZmE5NDI5`

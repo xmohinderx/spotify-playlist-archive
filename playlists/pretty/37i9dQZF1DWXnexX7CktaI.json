@@ -1,12 +1,12 @@
 {
   "description": "All the jams. Cover: Miguel",
-  "num_followers": 1852056,
+  "num_followers": 1852616,
   "original_name": "Gold Edition",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTc5NDU2NywwMDAwMDAwMDZjODQ3NmZiZjAwZTYwZDRkMjI0MjI2YmU3YjQyNzk1",
+  "snapshot_id": "MTY2MTc5NDU2NywwMDAwMDAwMDk3Mjc2ZTk4ZjRlYmQ4MzZmZjE0YTQxMjZmMTc4MTQ2",
   "tracks": [
     {
       "added_at": "2022-08-03 15:25:39",
@@ -549,6 +549,22 @@
       "url": "https://open.spotify.com/track/6ZRuF2n1CQxyxxAAWsKJOy"
     },
     {
+      "added_at": "2022-07-30 03:34:52",
+      "album": {
+        "name": "Last Day Of Summer",
+        "url": "https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 188906,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/2Fyjjpg03fn7n5cj0Qm380"
+    },
+    {
       "added_at": "2022-03-14 17:48:22",
       "album": {
         "name": "East Atlanta Love Letter",
@@ -567,22 +583,6 @@
       "duration_ms": 240341,
       "name": "Pretty Little Fears (feat. J. Cole)",
       "url": "https://open.spotify.com/track/4at3d5QWnlibMVN75ECDrp"
-    },
-    {
-      "added_at": "2022-07-30 03:34:52",
-      "album": {
-        "name": "Last Day Of Summer",
-        "url": "https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 188906,
-      "name": "Karma",
-      "url": "https://open.spotify.com/track/2Fyjjpg03fn7n5cj0Qm380"
     },
     {
       "added_at": "2022-03-14 17:48:22",

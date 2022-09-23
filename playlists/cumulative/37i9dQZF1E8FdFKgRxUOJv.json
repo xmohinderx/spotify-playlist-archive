@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-12-06",
-  "description": "With John Mayer, Dave Barnes, Luca Fogale, Joshua Hyslop and more",
+  "description": "With John Mayer, Dave Barnes, Luca Fogale, Allen Stone and more",
   "name": "Carry Me Away Radio",
   "published_playlist_ids": [
     "3X9pREhPT1sgh0QMNyY8S7"
@@ -929,7 +929,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 158013,
       "name": "American Beauty",
       "url": "https://open.spotify.com/track/7K36drJq6lInkW6Kkojucp"
@@ -2547,7 +2547,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-24",
+      "date_removed": null,
       "duration_ms": 237696,
       "name": "Caroline - Acoustic",
       "url": "https://open.spotify.com/track/2GRgfuqbBkJMHcTouipXzR"
@@ -2659,6 +2659,24 @@
       "duration_ms": 230980,
       "name": "Chasing You",
       "url": "https://open.spotify.com/track/1wvwsG3PGHeAcT2rYwFG1X"
+    },
+    {
+      "album": {
+        "name": "Chin Up",
+        "url": "https://open.spotify.com/album/2W0l4M80ykkBI8WkPtHf7T"
+      },
+      "artists": [
+        {
+          "name": "Yoke Lore",
+          "url": "https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265213,
+      "name": "Chin Up",
+      "url": "https://open.spotify.com/track/1Q5gm2dsPwvJeQPQeNs2nv"
     },
     {
       "album": {
@@ -3013,6 +3031,28 @@
       "duration_ms": 215173,
       "name": "Come On Get Higher",
       "url": "https://open.spotify.com/track/38YgZVHPWOWsKrsCXz6JyP"
+    },
+    {
+      "album": {
+        "name": "Partners",
+        "url": "https://open.spotify.com/album/1IgRzhudBVPtta2jDVa1en"
+      },
+      "artists": [
+        {
+          "name": "Barbra Streisand",
+          "url": "https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6"
+        },
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250293,
+      "name": "Come Rain or Come Shine (with John Mayer)",
+      "url": "https://open.spotify.com/track/2d02A2eoTYHOnI162zeAKQ"
     },
     {
       "album": {
@@ -3687,7 +3727,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 219961,
       "name": "Dead Ringer",
       "url": "https://open.spotify.com/track/0Rki21AYk4m80ITCe1E34i"
@@ -6609,7 +6649,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 260226,
       "name": "Heart and Soul",
       "url": "https://open.spotify.com/track/03XFoApkEE01zSo1H0f2US"
@@ -8953,7 +8993,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 192080,
       "name": "Jealous of Birds",
       "url": "https://open.spotify.com/track/5A6k7MKg3gUMwT1Z9TCRKb"
@@ -10315,7 +10355,7 @@
       ],
       "date_added": "2022-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-15",
+      "date_removed": null,
       "duration_ms": 257972,
       "name": "Long Way Down",
       "url": "https://open.spotify.com/track/5sdliaZjk3rVGuT13UVhxn"
@@ -10575,7 +10615,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-22",
+      "date_removed": null,
       "duration_ms": 250547,
       "name": "Love & War in Your Twenties",
       "url": "https://open.spotify.com/track/3FFpGDzfkwJGjfIqM6BNMC"
@@ -10651,7 +10691,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 144400,
       "name": "Love Is A Verb",
       "url": "https://open.spotify.com/track/03XjpGGdsIPouALXem2Cku"
@@ -11371,7 +11411,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 238733,
       "name": "Missing Peace",
       "url": "https://open.spotify.com/track/5fTJGZ6k0zokfh5KLfe0sm"
@@ -11605,7 +11645,7 @@
       ],
       "date_added": "2022-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 206853,
       "name": "My Song Too",
       "url": "https://open.spotify.com/track/4ZHQOaGBXYmZOt3as6EVMC"
@@ -12157,7 +12197,7 @@
       ],
       "date_added": "2020-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-05",
+      "date_removed": null,
       "duration_ms": 182667,
       "name": "Nostalgic",
       "url": "https://open.spotify.com/track/65SjaqhfKeFhmXprzlzyn4"
@@ -12431,7 +12471,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-21",
+      "date_removed": null,
       "duration_ms": 212400,
       "name": "OK",
       "url": "https://open.spotify.com/track/2gBYjMXW65daBB1elr68JK"
@@ -13869,7 +13909,7 @@
       ],
       "date_added": "2019-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-19",
+      "date_removed": null,
       "duration_ms": 240626,
       "name": "Rosie",
       "url": "https://open.spotify.com/track/5KsLlcmWDoHUoJFzRw14wD"
@@ -17747,7 +17787,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 230751,
       "name": "Two Sides",
       "url": "https://open.spotify.com/track/3CXYKSBNOQxfIGHLcbra1f"
@@ -18775,7 +18815,7 @@
       ],
       "date_added": "2022-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 244477,
       "name": "Who Would Have Thought",
       "url": "https://open.spotify.com/track/6qsacYwaDcrOy4CnTDxWNF"
@@ -19043,6 +19083,24 @@
       "duration_ms": 224131,
       "name": "Wish for the World",
       "url": "https://open.spotify.com/track/7I1mlHUunqWUdCOaNcqKMA"
+    },
+    {
+      "album": {
+        "name": "Wide Awake",
+        "url": "https://open.spotify.com/album/43sgLebubxZtXox2i0QiVA"
+      },
+      "artists": [
+        {
+          "name": "Rayland Baxter",
+          "url": "https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344573,
+      "name": "Without Me",
+      "url": "https://open.spotify.com/track/3BkBTso1LQicQOkU1ga0xY"
     },
     {
       "album": {

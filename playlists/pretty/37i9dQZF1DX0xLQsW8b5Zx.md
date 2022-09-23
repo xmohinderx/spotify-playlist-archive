@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xLQsW8b5Zx.md) - [plain]
 
 > Live fast, die awesome! A great mix of the best rockabilly tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 505,584 likes - 60 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 505,673 likes - 60 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xLQsW8b5Zx.md) - [plain]
 | 34 | [Hold Me, Hug Me, Rock Me](https://open.spotify.com/track/0P9wPwqLUHzp5jeY1cHeAd) | [Gene Vincent & His Blue Caps](https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq) | [Gene Vincent And The Blue Caps](https://open.spotify.com/album/0hiKWm7WLBpTtzIlnwTnrk) | 2:15 |
 | 35 | [Once More](https://open.spotify.com/track/6s3WmrBER7k2TVM1wvue3i) | [The Buckaroos](https://open.spotify.com/artist/74wE2KMCkSnUpjtgKF9cUr) | [Nola](https://open.spotify.com/album/6c6YN42siupi6OxN7ZwqJC) | 2:19 |
 | 36 | [Musta Notta Gotta Lotta](https://open.spotify.com/track/0MJiECmrhQvEggBvVfBSOj) | [Joe Ely](https://open.spotify.com/artist/388Y4nUQbYSyonhNlBEypT) | [Musta Notta Gotta Lotta](https://open.spotify.com/album/0Og633EW0zPdlclAXI9TJg) | 2:35 |
-| 37 | [Rockin' the Night Away](https://open.spotify.com/track/5jt2cfZCz9L0f3LqAgktSs) | [The Jetaways](https://open.spotify.com/artist/4d6H6DOyHM4g55AY3fIQxy) | [Rockin' the Night Away](https://open.spotify.com/album/1eWWmQYAkAnthpK6W6VuVZ) | 2:53 |
-| 38 | [Everybody's Trying to Be My Baby](https://open.spotify.com/track/75MzeS5tyJDX7a5ZytcqS8) | [Carl Perkins](https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f) | [The Dance Album](https://open.spotify.com/album/2mDKmUu61YwkVAJfvD81HK) | 2:13 |
+| 37 | [Everybody's Trying to Be My Baby](https://open.spotify.com/track/75MzeS5tyJDX7a5ZytcqS8) | [Carl Perkins](https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f) | [The Dance Album](https://open.spotify.com/album/2mDKmUu61YwkVAJfvD81HK) | 2:13 |
+| 38 | [Rockin' the Night Away](https://open.spotify.com/track/5jt2cfZCz9L0f3LqAgktSs) | [The Jetaways](https://open.spotify.com/artist/4d6H6DOyHM4g55AY3fIQxy) | [Rockin' the Night Away](https://open.spotify.com/album/1eWWmQYAkAnthpK6W6VuVZ) | 2:53 |
 | 39 | [Tiger Twist \- 2007 Remaster](https://open.spotify.com/track/0WZiGJT2NawjIySdHLzhMx) | [Teddy & The Tigers](https://open.spotify.com/artist/1vKtKEWbJ3NcT14A49sBbb) | [Burn It Up](https://open.spotify.com/album/7mqE83mgUVFGH58PShzMBg) | 2:05 |
 | 40 | [Jungle Rock](https://open.spotify.com/track/6dA1oRPKhfAm1hHO6sKrGy) | [Hank Mizell](https://open.spotify.com/artist/3RGF93b8Qtz77GLJBgdBH6) | [Windy City Bop \- Chicago Rockabilly 1945\-1958](https://open.spotify.com/album/1cqS5uzgVFJLhGuP7G089N) | 2:46 |
 | 41 | [Welcome to My Hell](https://open.spotify.com/track/5UDbp5XoKm8UornXTFQk8D) | [The Go Getters](https://open.spotify.com/artist/5UR2Ohlvs9osiEwbJVQHiq) | [Hot Rod Roadeo](https://open.spotify.com/album/3HMxOidYsEt6ayuiJALN0k) | 3:08 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xLQsW8b5Zx.md) - [plain]
 | 43 | [Help Me Out](https://open.spotify.com/track/6qgKJxzgWqPyoHJaoDAnGE) | [The Hotlips](https://open.spotify.com/artist/1WNWaC0lAc3o5ODUvRfOo6) | [Help Me Out](https://open.spotify.com/album/1OiLEuPXzmyiPDUZtAQZYc) | 2:59 |
 | 44 | [Black Slacks](https://open.spotify.com/track/0nRR6eQMDYkIFmn8c9Rwga) | [Joe Bennett & The Sparkletones](https://open.spotify.com/artist/7jXrEnMAd3ExygGvV3ZGhP) | [1957\-1959](https://open.spotify.com/album/5jRYbndM2M3Z5tzDJDLzNp) | 2:09 |
 | 45 | [New Rock The Joint](https://open.spotify.com/track/2msqQpB7YcypMKIx6W5qG5) | [Bill Haley & His Comets](https://open.spotify.com/artist/3MFp4cYuYtTZe3d3xkLLbr) | [Rockin' The Joint](https://open.spotify.com/album/0N5EMEMyYN6BW9R3PjCxxz) | 2:18 |
-| 46 | [Rock Around With Ollie Vee \- Alternate Version](https://open.spotify.com/track/5b0KMebx2ZOPv91U42xOSv) | [Buddy Holly](https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D) | [That'll Be The Day](https://open.spotify.com/album/0KHc3cD7pAOAieo9lPWXkY) | 2:18 |
-| 47 | [Chevy 55](https://open.spotify.com/track/79K5pAjftYuDRdxRksHddu) | [The Playtones](https://open.spotify.com/artist/4UThQDoYdZatw3BH5zZIne) | [In the Mood](https://open.spotify.com/album/2sUh5PyADSSgduPJgCeYwu) | 2:55 |
+| 46 | [Chevy 55](https://open.spotify.com/track/79K5pAjftYuDRdxRksHddu) | [The Playtones](https://open.spotify.com/artist/4UThQDoYdZatw3BH5zZIne) | [In the Mood](https://open.spotify.com/album/2sUh5PyADSSgduPJgCeYwu) | 2:55 |
+| 47 | [Rock Around With Ollie Vee \- Alternate Version](https://open.spotify.com/track/5b0KMebx2ZOPv91U42xOSv) | [Buddy Holly](https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D) | [That'll Be The Day](https://open.spotify.com/album/0KHc3cD7pAOAieo9lPWXkY) | 2:18 |
 | 48 | [Everybody's Movin'](https://open.spotify.com/track/4NnJxkpRJzfKMJM1H3VlYt) | [Glen Glenn](https://open.spotify.com/artist/4HA1v7Kj8foWKczaOUbxQx) | [Glen Rocks](https://open.spotify.com/album/7lm2w3HxZcXE1V2tvscmBv) | 2:42 |
 | 49 | [Rich Little Bitch](https://open.spotify.com/track/12680M4NXeEB27oywHfCxg) | [Melrose](https://open.spotify.com/artist/7wEF4N6aICDlkHnCy3PLan) | [Melrose](https://open.spotify.com/album/4RE5Q4pm0CqEXpfva5NoXz) | 3:51 |
 | 50 | [Rocky Road Blues](https://open.spotify.com/track/3BnAAC5tXSJgv2FnQdB0Fx) | [The Lennerockers](https://open.spotify.com/artist/4vc23SWZ3Lws9afk9sJun9), [Freddie Fingers Lee](https://open.spotify.com/artist/0zbAwBACoFK4620DPiqRnz) | [The Lennerockers and Friends](https://open.spotify.com/album/5isCgworJE2qqtIyx4K4Vr) | 3:27 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xLQsW8b5Zx.md) - [plain]
 | 59 | [Don't Come Knocking on My Door](https://open.spotify.com/track/3yZL03V9NrrM6PnjK9WEqu) | [Danny Cooltmoore](https://open.spotify.com/artist/5QJXgfc6xBUgLtMctf1fHF), [Small Town Pimps](https://open.spotify.com/artist/5Pta9k4k1L77SPVrUxAVvS) | [Don't Come Knocking on My Door](https://open.spotify.com/album/1nPMU7cEdcWQfCXNg37M2h) | 3:17 |
 | 60 | [Northern Girl](https://open.spotify.com/track/3ddovtNdDK3nrseLGpI4hV) | [Lee Ericson](https://open.spotify.com/artist/4i9dZAd8B1gXWY8iyPdgnY), [The Kingbees](https://open.spotify.com/artist/4cu77OuihTaUDYozqa2u9G) | [Stockholm Blue](https://open.spotify.com/album/7xFg94LOru7QaN5couhbh1) | 3:30 |
 
-Snapshot ID: `MTY2MjEwMzE5NSwwMDAwMDAwMGVkZDIxYThjZWI4MWY4MWYyNGE2ZmVmMzhlNjUwMWIz`
+Snapshot ID: `MTY2MjEwMzE5NSwwMDAwMDAwMGE3NWI1NDBlYWI0OTIyMjY4OTQ1NDBlYmEwM2QwOWM3`

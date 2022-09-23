@@ -1,12 +1,12 @@
 {
   "description": "The women at the forefront of ambient and experimental music. Cover: Mira Calix",
-  "num_followers": 24090,
+  "num_followers": 24117,
   "original_name": "EQUAL Ambient",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDkyOTg5NywwMDAwMDAwMDgwYjEwNzE0OTRlMjRmNjM1MWEzNzY0YjQ2OTU5NWM2",
+  "snapshot_id": "MTY2MDkyOTg5NywwMDAwMDAwMDA0MjQyNzAzOWJlYTllM2FiMjJlNTAyNDU0ZGQ1NGQx",
   "tracks": [
     {
       "added_at": "2022-08-19 17:24:57",
@@ -535,22 +535,22 @@
     {
       "added_at": "2022-08-19 17:24:57",
       "album": {
-        "name": "Humidity",
-        "url": "https://open.spotify.com/album/3RD5Gg1dcm6bHJUQIFWJba"
+        "name": "Fantas Variations",
+        "url": "https://open.spotify.com/album/7zytkfZ6AvjmCbvwqFgFWO"
       },
       "artists": [
         {
-          "name": "Sofie Birch",
-          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
+          "name": "Caterina Barbieri",
+          "url": "https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu"
         },
         {
-          "name": "Nana Pi",
-          "url": "https://open.spotify.com/artist/3gbm3E5mVftZywfgEysN6I"
+          "name": "Kara-Lis Coverdale",
+          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
         }
       ],
-      "duration_ms": 271093,
-      "name": "Humidity",
-      "url": "https://open.spotify.com/track/2WO4gKLH1gaydKHuJof33I"
+      "duration_ms": 187863,
+      "name": "Fantas Morbida",
+      "url": "https://open.spotify.com/track/3EmimXCpHQ9PW6FN0ajDeU"
     },
     {
       "added_at": "2022-08-19 17:24:57",
@@ -571,22 +571,22 @@
     {
       "added_at": "2022-08-19 17:24:57",
       "album": {
-        "name": "Fantas Variations",
-        "url": "https://open.spotify.com/album/7zytkfZ6AvjmCbvwqFgFWO"
+        "name": "Humidity",
+        "url": "https://open.spotify.com/album/3RD5Gg1dcm6bHJUQIFWJba"
       },
       "artists": [
         {
-          "name": "Caterina Barbieri",
-          "url": "https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu"
+          "name": "Sofie Birch",
+          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
         },
         {
-          "name": "Kara-Lis Coverdale",
-          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
+          "name": "Nana Pi",
+          "url": "https://open.spotify.com/artist/3gbm3E5mVftZywfgEysN6I"
         }
       ],
-      "duration_ms": 187863,
-      "name": "Fantas Morbida",
-      "url": "https://open.spotify.com/track/3EmimXCpHQ9PW6FN0ajDeU"
+      "duration_ms": 271093,
+      "name": "Humidity",
+      "url": "https://open.spotify.com/track/2WO4gKLH1gaydKHuJof33I"
     },
     {
       "added_at": "2022-08-19 17:24:57",
@@ -815,22 +815,6 @@
     {
       "added_at": "2022-08-19 17:24:57",
       "album": {
-        "name": "Kali",
-        "url": "https://open.spotify.com/album/5ZZqEAvWi7uagiA3QEnRKt"
-      },
-      "artists": [
-        {
-          "name": "Salamanda",
-          "url": "https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru"
-        }
-      ],
-      "duration_ms": 400000,
-      "name": "Kali",
-      "url": "https://open.spotify.com/track/5LZxYZ4oQ0LA6VvgaxW36k"
-    },
-    {
-      "added_at": "2022-08-19 17:24:57",
-      "album": {
         "name": "a journey...",
         "url": "https://open.spotify.com/album/3H7S86kkmy5zKqw7DTmULR"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 256146,
       "name": "A Journey",
       "url": "https://open.spotify.com/track/5fxfFBYhfCIBSU9LvHk0pF"
+    },
+    {
+      "added_at": "2022-08-19 17:24:57",
+      "album": {
+        "name": "Kali",
+        "url": "https://open.spotify.com/album/5ZZqEAvWi7uagiA3QEnRKt"
+      },
+      "artists": [
+        {
+          "name": "Salamanda",
+          "url": "https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru"
+        }
+      ],
+      "duration_ms": 400000,
+      "name": "Kali",
+      "url": "https://open.spotify.com/track/5LZxYZ4oQ0LA6VvgaxW36k"
     },
     {
       "added_at": "2022-08-19 17:24:57",

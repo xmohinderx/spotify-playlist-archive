@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "Hottest indie sounds & the best new tracks from Asia. Cover: The Black Skirts (South Korea)",
+  "description": "Hottest indie sounds & the best new tracks from Asia. Cover: Dhira Bong (Indonesia)",
   "name": ".ORG",
   "published_playlist_ids": [
     "150ZZwzNCm1BXFjIA5T8kJ"
@@ -107,6 +107,28 @@
       "duration_ms": 222000,
       "name": "A Little of Autumn",
       "url": "https://open.spotify.com/track/3QLpDswqTh1i8uxHPDFlQR"
+    },
+    {
+      "album": {
+        "name": "a luv song",
+        "url": "https://open.spotify.com/album/3ebClLURIBXy425TuC7Gbo"
+      },
+      "artists": [
+        {
+          "name": "Barney Sku",
+          "url": "https://open.spotify.com/artist/77ziiu02mos4YrZ4mpWO0v"
+        },
+        {
+          "name": "friexza",
+          "url": "https://open.spotify.com/artist/3DGKUbhwIE6KEIbpJhp5Cq"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223384,
+      "name": "a luv song",
+      "url": "https://open.spotify.com/track/0V3P6jdD0vxBrsBFErn1Xg"
     },
     {
       "album": {
@@ -655,7 +677,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 229500,
       "name": "Blue",
       "url": "https://open.spotify.com/track/1p98nMaX0RhzvZtGVKEITv"
@@ -753,6 +775,24 @@
       "duration_ms": 129250,
       "name": "Bon Voyage",
       "url": "https://open.spotify.com/track/3OdAbvLDmobuNrIVp6vapw"
+    },
+    {
+      "album": {
+        "name": "Noises & Clarity",
+        "url": "https://open.spotify.com/album/6AKF6IguDDDkjTn07cIIKz"
+      },
+      "artists": [
+        {
+          "name": "SCALLER",
+          "url": "https://open.spotify.com/artist/6IjWOreXe5zdIiRpDD4stM"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268988,
+      "name": "Born & Die",
+      "url": "https://open.spotify.com/track/0RDjAutucOtnLANrRny7r7"
     },
     {
       "album": {
@@ -959,7 +999,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 315586,
       "name": "Cerita Bahaya",
       "url": "https://open.spotify.com/track/3vudXFZo78HISE8sA9Lwo3"
@@ -1289,7 +1329,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 220904,
       "name": "Come Away",
       "url": "https://open.spotify.com/track/7newW6xmjNb1K9hWMp1DV5"
@@ -1592,6 +1632,24 @@
     },
     {
       "album": {
+        "name": "don't wanna hold u back",
+        "url": "https://open.spotify.com/album/0Fca3QLo7gi7T48TdeWi00"
+      },
+      "artists": [
+        {
+          "name": "Varis",
+          "url": "https://open.spotify.com/artist/53DTvTbpR2jK1KUrR13431"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217800,
+      "name": "don't wanna hold u back",
+      "url": "https://open.spotify.com/track/44aylXQRxfSCMoinxh7oJR"
+    },
+    {
+      "album": {
         "name": "DOWN IN THE DUMPS",
         "url": "https://open.spotify.com/album/5qrAHXTOei4zFw1mnTasBP"
       },
@@ -1683,7 +1741,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 275374,
       "name": "Earth",
       "url": "https://open.spotify.com/track/5UqUMoymWBJD3bAKK7rGb2"
@@ -2290,6 +2348,28 @@
     },
     {
       "album": {
+        "name": "Headrush",
+        "url": "https://open.spotify.com/album/0MExe2bXS8GwfAWLKAJPce"
+      },
+      "artists": [
+        {
+          "name": "RANJ",
+          "url": "https://open.spotify.com/artist/1vR6C8xoVTgy9yVRsCsr7H"
+        },
+        {
+          "name": "adL",
+          "url": "https://open.spotify.com/artist/4ERBh5R40XpUy1uk9aZzag"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179433,
+      "name": "Headrush",
+      "url": "https://open.spotify.com/track/7oLdorBxa3NvbkOyoHi7Kf"
+    },
+    {
+      "album": {
         "name": "Healing House",
         "url": "https://open.spotify.com/album/0ET9XtVsVTzx2yLIXwoPRk"
       },
@@ -2301,7 +2381,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 227442,
       "name": "Healing House",
       "url": "https://open.spotify.com/track/2DTOne6ZiLt8ZCtXS9VG97"
@@ -2906,6 +2986,24 @@
     },
     {
       "album": {
+        "name": "INSECURE",
+        "url": "https://open.spotify.com/album/4ct723N4CptKNkpDF8mls8"
+      },
+      "artists": [
+        {
+          "name": "Gordon Flanders",
+          "url": "https://open.spotify.com/artist/2yMjXqAPoOehNikcWBRdfD"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181593,
+      "name": "INSECURE",
+      "url": "https://open.spotify.com/track/1QmXQ90HCMe9jCM0xrCdI4"
+    },
+    {
+      "album": {
         "name": "Inside My Head",
         "url": "https://open.spotify.com/album/3kKFVFHrArAgfAKoRZzmMk"
       },
@@ -3047,7 +3145,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 221374,
       "name": "Jellyfish",
       "url": "https://open.spotify.com/track/3fYRIQXvG6Ge1ERfMgcRJE"
@@ -3167,6 +3265,24 @@
       "duration_ms": 198612,
       "name": "Killer",
       "url": "https://open.spotify.com/track/0skOmSnfoOEOjCvkkvymhz"
+    },
+    {
+      "album": {
+        "name": "Kokoro No Mamani",
+        "url": "https://open.spotify.com/album/6PHA287IjWB3n2jg1xowXQ"
+      },
+      "artists": [
+        {
+          "name": "never young beach",
+          "url": "https://open.spotify.com/artist/2YtvgEYiTH6jh7n2UmUdXX"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205369,
+      "name": "Kokoro No Mamani",
+      "url": "https://open.spotify.com/track/0ntEHTd4tY8jfL7bElYoGo"
     },
     {
       "album": {
@@ -3582,6 +3698,28 @@
     },
     {
       "album": {
+        "name": "A Tiny Bit of Gold In The Dark Ocean",
+        "url": "https://open.spotify.com/album/2ye0rT388zwLfuvv4RdRM0"
+      },
+      "artists": [
+        {
+          "name": "Dhira Bongs",
+          "url": "https://open.spotify.com/artist/1OnA7BIptSxofkEpSipGhV"
+        },
+        {
+          "name": "Gotch",
+          "url": "https://open.spotify.com/artist/6IVCk7qklx0tv5wtr4VSPc"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248677,
+      "name": "Make Me Fallin in Love Again",
+      "url": "https://open.spotify.com/track/3lvqBeQk3VNH1mtGbiUrBm"
+    },
+    {
+      "album": {
         "name": "Making Me Sick!",
         "url": "https://open.spotify.com/album/5BR2hx0RWzvUJ2KfRksdo5"
       },
@@ -3749,7 +3887,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 247793,
       "name": "Mindless",
       "url": "https://open.spotify.com/track/7wKSQwBzevrfI4nsSNGnuM"
@@ -3937,7 +4075,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 217512,
       "name": "My Little Lambs",
       "url": "https://open.spotify.com/track/5h1HkyDCvKdyJAA1GM2VH4"
@@ -4469,10 +4607,28 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 204000,
       "name": "Pahit Manis",
       "url": "https://open.spotify.com/track/6Bgz0aLA2UuVizhbSw0w1j"
+    },
+    {
+      "album": {
+        "name": "Pair Of You",
+        "url": "https://open.spotify.com/album/67lgGIywB4fMJ0xHsHgUiL"
+      },
+      "artists": [
+        {
+          "name": "FIG",
+          "url": "https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144128,
+      "name": "Pair Of You",
+      "url": "https://open.spotify.com/track/6ekoBPfdfnWhQ8oJveaZSk"
     },
     {
       "album": {
@@ -4603,7 +4759,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 263124,
       "name": "Play It Cool",
       "url": "https://open.spotify.com/track/7dnoIWcbnHhwGojoK7xg7G"
@@ -4895,7 +5051,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 171351,
       "name": "Safe Flight",
       "url": "https://open.spotify.com/track/1UVOyw9vzAZ3f6Z9CAm5Vz"
@@ -5033,6 +5189,24 @@
       "duration_ms": 274901,
       "name": "Shangri-La Is Calling",
       "url": "https://open.spotify.com/track/3mC9UEuISVfgymoY1YDTNn"
+    },
+    {
+      "album": {
+        "name": "Shortcut To Heaven",
+        "url": "https://open.spotify.com/album/1LzCyAXs0MWStAaFkFc4QJ"
+      },
+      "artists": [
+        {
+          "name": "lullaboy",
+          "url": "https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184343,
+      "name": "Shortcut To Heaven",
+      "url": "https://open.spotify.com/track/0zL5fdl4CvAAYUG3dJVMqS"
     },
     {
       "album": {
@@ -5249,7 +5423,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 167131,
       "name": "Splinter",
       "url": "https://open.spotify.com/track/4iKfmaKGc59LZXQNK7nAgf"
@@ -5676,6 +5850,28 @@
     },
     {
       "album": {
+        "name": "\u611b\u662f\u6211\u5011\u5fc5\u7d93\u7684\u8f9b\u82e6",
+        "url": "https://open.spotify.com/album/393Q9l2o8kkGFhtD4kYkav"
+      },
+      "artists": [
+        {
+          "name": "Crispy\u8106\u6a02\u5718",
+          "url": "https://open.spotify.com/artist/5AO5nzx14PfLNfVgYVd0rw"
+        },
+        {
+          "name": "\u6050\u9f8d\u7684\u76ae",
+          "url": "https://open.spotify.com/artist/6zp0iXMIvLZ7oVeTk0Nt0J"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324500,
+      "name": "Take It Slow",
+      "url": "https://open.spotify.com/track/6ZRdwFsEw5crjTzHo6Idxh"
+    },
+    {
+      "album": {
         "name": "Take Me Back",
         "url": "https://open.spotify.com/album/10YPFcXMzBP9qdC8jEOcpT"
       },
@@ -5717,6 +5913,24 @@
       "duration_ms": 179249,
       "name": "Teenager",
       "url": "https://open.spotify.com/track/2oXYNuC2MyRIBEAuhVCIAz"
+    },
+    {
+      "album": {
+        "name": "Temple Fair",
+        "url": "https://open.spotify.com/album/3sPEorgDnsLIHkEhWyQaZO"
+      },
+      "artists": [
+        {
+          "name": "Phum Viphurit",
+          "url": "https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303545,
+      "name": "Temple Fair",
+      "url": "https://open.spotify.com/track/65IQJhKCLw0yHLL6OSiyvG"
     },
     {
       "album": {
@@ -5796,6 +6010,28 @@
     },
     {
       "album": {
+        "name": "Thinkin' Bout Me",
+        "url": "https://open.spotify.com/album/1oJq5u10EdD29i5HJ4XXvY"
+      },
+      "artists": [
+        {
+          "name": "Guernica Club",
+          "url": "https://open.spotify.com/artist/3vT1EkYKu5O7ZOL9BjWTXn"
+        },
+        {
+          "name": "Delorians",
+          "url": "https://open.spotify.com/artist/3veLkV7PryzEQXJnFxDhON"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233500,
+      "name": "Thinkin' Bout Me",
+      "url": "https://open.spotify.com/track/1vYVy0C40JfBo8l6Rhv2QK"
+    },
+    {
+      "album": {
         "name": "This Is Where I Leave You",
         "url": "https://open.spotify.com/album/2glM5A2KXvltgXvkotGJaE"
       },
@@ -5865,6 +6101,24 @@
       "duration_ms": 313846,
       "name": "Told You So",
       "url": "https://open.spotify.com/track/44oV4Lbj57EoORRzSNWCRX"
+    },
+    {
+      "album": {
+        "name": "Too Far",
+        "url": "https://open.spotify.com/album/5uekioXuMtE3YiBbMscBQu"
+      },
+      "artists": [
+        {
+          "name": "Dreane",
+          "url": "https://open.spotify.com/artist/3jGBrkfigCO8a21DpyiOMa"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211867,
+      "name": "Too Far",
+      "url": "https://open.spotify.com/track/45HLGBHegbepv8pcUsR7wI"
     },
     {
       "album": {
@@ -5991,7 +6245,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 258206,
       "name": "TV Show",
       "url": "https://open.spotify.com/track/64AjwbV9owK5mv0IMwYpQo"
@@ -6508,6 +6762,24 @@
     },
     {
       "album": {
+        "name": "Wish Upon A Star",
+        "url": "https://open.spotify.com/album/6Z5QlpJojN80fwGLHFEkDS"
+      },
+      "artists": [
+        {
+          "name": "H I N A N O",
+          "url": "https://open.spotify.com/artist/6tO81LUACIiheJWoVBJ5PY"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265200,
+      "name": "Wish Upon A Star",
+      "url": "https://open.spotify.com/track/4dRlRt2jZKOd7WsPRQ5KVq"
+    },
+    {
+      "album": {
         "name": "Dreams",
         "url": "https://open.spotify.com/album/3gGYHCVl2KuIIk4iyDO81f"
       },
@@ -6917,7 +7189,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 172250,
       "name": "\u3053\u3093\u306b\u3061\u306f",
       "url": "https://open.spotify.com/track/46ffXVe06tGBKlfwWRig2z"

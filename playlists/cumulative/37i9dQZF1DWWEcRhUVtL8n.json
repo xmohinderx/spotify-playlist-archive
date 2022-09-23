@@ -6542,6 +6542,24 @@
     },
     {
       "album": {
+        "name": "Drown",
+        "url": "https://open.spotify.com/album/6r3o0wlGhFaM4bT92PFaFB"
+      },
+      "artists": [
+        {
+          "name": "Weston Estate",
+          "url": "https://open.spotify.com/artist/18CPEToK1OfjJ5B5vDBDKa"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181466,
+      "name": "Drown",
+      "url": "https://open.spotify.com/track/0vpy9NZpTbjCH0HNnAhCTt"
+    },
+    {
+      "album": {
         "name": "Drugs in California",
         "url": "https://open.spotify.com/album/4r6ZfkuDW4kXhiQuY0tS5g"
       },
@@ -12217,7 +12235,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 185346,
       "name": "kaleidoscope",
       "url": "https://open.spotify.com/track/5bD7bhOa64aE8a0vifa5J6"

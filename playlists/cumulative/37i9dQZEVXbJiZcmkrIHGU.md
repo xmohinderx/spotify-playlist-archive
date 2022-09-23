@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Germany.
 
-1,263 songs - 2 day 14 hr 41 min - [published](https://open.spotify.com/playlist/6ac8Kxyke6Hyo0AQCo7I3J)
+1,264 songs - 2 day 14 hr 44 min - [published](https://open.spotify.com/playlist/6ac8Kxyke6Hyo0AQCo7I3J)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,6 +161,7 @@
 | [blau](https://open.spotify.com/track/75J8OuOkEyMIG9scAuuwew) | [LUNA](https://open.spotify.com/artist/2RrkjxcwXz281MxRs8Oqp7) | [blau](https://open.spotify.com/album/6gY4QVJaGRxnrVsFzoV4IR) | 2:24 | 2021-07-24 | 2021-07-25 |
 | [Blau](https://open.spotify.com/track/7kPwuFA1D7tTIm4778jllA) | [Zuna](https://open.spotify.com/artist/2otUckChxWf2cp6UP2cD6e) | [Auf Loop](https://open.spotify.com/album/3noX7oSIEdQ0YEQOLBZfxF) | 3:03 | 2022-06-11 | 2022-06-13 |
 | [Blauer Himmel](https://open.spotify.com/track/4LAI8j0ZszO14oMQwRKflU) | [Jamule](https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN) | [Blauer Himmel](https://open.spotify.com/album/4WVgTEKMkdw7VZlcGdGKwa) | 2:16 | 2022-01-15 | 2022-01-30 |
+| [Blaues Licht](https://open.spotify.com/track/0UEXA9stQx2gRsXq0bWDx4) | [Kraftklub](https://open.spotify.com/artist/0MZ55DwuMQ1B2TXq9lcrE4) | [Blaues Licht](https://open.spotify.com/album/2HvRjltv3Dr5FshGA8ygWz) | 2:59 | 2022-09-22 |  |
 | [Blaues Licht](https://open.spotify.com/track/08EPQiLMyGB8GJX2EiVoCM) | [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L), [Bonez MC](https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6) | [Zukunft](https://open.spotify.com/album/47brL4n2IhoAlMIkwE4yHT) | 2:24 | 2021-07-25 | 2021-11-27 |
 | [Blaues Licht](https://open.spotify.com/track/2Oi1IJ6JEUX1aya9VUAA1Z) | [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L), [Bonez MC](https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6) | [Zukunft 1 & 2](https://open.spotify.com/album/6npdmy45COickvaNIV5obJ) | 2:24 | 2021-11-27 | 2022-07-24 |
 | [Bleib](https://open.spotify.com/track/5DqvoUR0STVl6qmXGTpYtK) | [AYLIVA](https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1), [Milano](https://open.spotify.com/artist/4Jd9XCHzRXTB7ZPPVzJoUm) | [Bleib](https://open.spotify.com/album/0fGMzzrrffnikRaYd7FH9L) | 2:35 | 2022-03-26 | 2022-04-10 |
@@ -270,7 +271,7 @@
 | [Diebe](https://open.spotify.com/track/4allObWlgZ21WeVKbxSIlk) | [Samra](https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0) | [Diebe](https://open.spotify.com/album/5b5m4Kjx34zoQ8tguW4yyY) | 2:30 | 2021-04-03 | 2021-04-20 |
 | [Dies & Das](https://open.spotify.com/track/5GzBVGr752l5qcGo2ZBNoS) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [Gustav](https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC), [Zachi](https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2), [AVO](https://open.spotify.com/artist/3g8GEfox7TneqzId98rNGi) | [Dies & Das](https://open.spotify.com/album/3w25lpXTAf001nxzF9nBPI) | 2:19 | 2021-10-23 | 2021-11-02 |
 | [Diese eine Melodie](https://open.spotify.com/track/6RvBo8JZUMSvvHnGa2hDrj) | [Kontra K](https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK) | [Diese eine Melodie](https://open.spotify.com/album/5lV7NkfTGByc7c3zppGdPx) | 2:52 | 2021-03-27\* | 2021-03-27 |
-| [Dieses Leben...](https://open.spotify.com/track/0HkUMcZ3HQTLZiAQzUHrEI) | [Samra](https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0) | [Dieses Leben...](https://open.spotify.com/album/2AJfLOSy2DXe0gyvaKqYZL) | 2:43 | 2022-09-17 |  |
+| [Dieses Leben...](https://open.spotify.com/track/0HkUMcZ3HQTLZiAQzUHrEI) | [Samra](https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0) | [Dieses Leben...](https://open.spotify.com/album/2AJfLOSy2DXe0gyvaKqYZL) | 2:43 | 2022-09-17 | 2022-09-23 |
 | [DILEMMA](https://open.spotify.com/track/5a4BwnoE6D5bRmhMvITk0u) | [reezy](https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q) | [LOYALTY OVER LOVE](https://open.spotify.com/album/0VEuh3ku5EpMHrMYuGTSTR) | 4:47 | 2022-04-30 | 2022-05-08 |
 | [Dinero](https://open.spotify.com/track/3ggtU1ZOKO8ZNiqPNyXGcm) | [Trinidad Cardona](https://open.spotify.com/artist/4wP1kxjUsc9IR4Iy2smL7o) | [Dinero](https://open.spotify.com/album/6FfydthOJNOSCM8BeSqKh3) | 2:40 | 2021-06-16 | 2021-08-01 |
 | [Dinner Table](https://open.spotify.com/track/3AXtCunptjQHMzxbwnK7yn) | [Takt32](https://open.spotify.com/artist/1G7TGDJ01So6i6XNirnVS7), [badmómzjay](https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h) | [Dinner Table](https://open.spotify.com/album/7fNGWvEaZ1DspOAhSiNfUK) | 3:09 | 2022-02-19 | 2022-02-21 |

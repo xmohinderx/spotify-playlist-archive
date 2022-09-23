@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZndSu0dHeI.md) - [plain]
 
 > Sometimes it's nice to be nice, you know.
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,428 likes - 80 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,471 likes - 80 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZndSu0dHeI.md) - [plain]
 | 62 | [Hysterical Us](https://open.spotify.com/track/0vMlVGJuREJk3c7vvObE5Z) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Mercurial World](https://open.spotify.com/album/1ERrUvG31thFCxdwWUoJrY) | 3:55 |
 | 63 | [Are You OK?](https://open.spotify.com/track/1sygfNN1Uw3kWlmTqC3PJY) | [Wasuremono](https://open.spotify.com/artist/1i9EknSbxjunq52yyxl8ig) | [Are You OK?](https://open.spotify.com/album/6xkwDIfgHnNz5SRL16PlFc) | 4:23 |
 | 64 | [Static](https://open.spotify.com/track/4dzJp4NxWFSWUFUhI0s72k) | [Still Corners](https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp) | [The Last Exit](https://open.spotify.com/album/4qQas6wHjmGZsUBS9ziAhe) | 3:55 |
-| 65 | [The Boy With The Arab Strap](https://open.spotify.com/track/2PV8oZJo3K3bXENO7FRRtp) | [Belle and Sebastian](https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h) | [The Boy With The Arab Strap](https://open.spotify.com/album/4AChnLbiWqxiotXz8kv6D7) | 5:14 |
-| 66 | [Vampires](https://open.spotify.com/track/38kSwDFzxfP3SIAlrXgmrv) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Flight Risk EP](https://open.spotify.com/album/4aRnUT8j0PTjKKW7FJsrvb) | 3:15 |
+| 65 | [Vampires](https://open.spotify.com/track/38kSwDFzxfP3SIAlrXgmrv) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Flight Risk EP](https://open.spotify.com/album/4aRnUT8j0PTjKKW7FJsrvb) | 3:15 |
+| 66 | [The Boy With The Arab Strap](https://open.spotify.com/track/2PV8oZJo3K3bXENO7FRRtp) | [Belle and Sebastian](https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h) | [The Boy With The Arab Strap](https://open.spotify.com/album/4AChnLbiWqxiotXz8kv6D7) | 5:14 |
 | 67 | [Keep Going](https://open.spotify.com/track/4cLtxNBdb0zH63vvnitsh3) | [This Is The Kit](https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo) | [Off Off On](https://open.spotify.com/album/1X8kC5D2ke7puDYgalJtXj) | 6:39 |
 | 68 | [Arcadia](https://open.spotify.com/track/1vLmc6JVzSGVnUT3BMfKXZ) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Arcadia](https://open.spotify.com/album/6KpJMQZAI4thJHoBzawHnZ) | 3:30 |
 | 69 | [Lloyd, I'm Ready To Be Heartbroken](https://open.spotify.com/track/52PuLmsxTDOI2WAqpzYjoT) | [Camera Obscura](https://open.spotify.com/artist/5gInJ5P5gQnOKPM3SUEVFt) | [Let's Get Out Of This Country](https://open.spotify.com/album/3NcGNYXKiHeygdXXL7czL1) | 3:51 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZndSu0dHeI.md) - [plain]
 | 79 | [Her](https://open.spotify.com/track/3vOfOukwKoWE6AGRXscucS) | [FUR](https://open.spotify.com/artist/0e0z6v7dIm0XM7BgQTtB0a) | [Her](https://open.spotify.com/album/5SlWmYvt5uc2ga9MmkUxBH) | 3:51 |
 | 80 | [French Navy](https://open.spotify.com/track/7Mb0qE443GpOcgkmgS4lP1) | [Camera Obscura](https://open.spotify.com/artist/5gInJ5P5gQnOKPM3SUEVFt) | [My Maudlin Career](https://open.spotify.com/album/7tcYHOoBL2DoocG2T7x8tg) | 3:18 |
 
-Snapshot ID: `MTY1OTY5NTUwMCwwMDAwMDAwMGM0ZWU4MDEzMTAyOTBlOGU5NWRmZGMyZDAyMGNkNWEz`
+Snapshot ID: `MTY1OTY5NTUwMCwwMDAwMDAwMGU4YjRmNjlmN2IxOTA3MzRlOGRhODE1NDIxYmQ0Yjgz`

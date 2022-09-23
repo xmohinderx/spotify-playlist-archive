@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music by independent artists and labels\. Updates every Wednesday\. Cover: Izzy Spears, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,105,870 likes - 55 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,105,938 likes - 55 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

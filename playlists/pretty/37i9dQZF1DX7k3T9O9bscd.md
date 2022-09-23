@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7k3T9O9bscd.md) - [plain]
 
 > Psyched\-out bands from the four corners of the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 307,773 likes - 75 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 307,912 likes - 75 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7k3T9O9bscd.md) - [plain]
 | 71 | [Rasayana](https://open.spotify.com/track/1mf0q8XDtJwuQVP8mnpsfz) | [Siena Root](https://open.spotify.com/artist/119lba2E5Wz6tQUlSu3Q1l) | [A New Day Dawning](https://open.spotify.com/album/7CvbhsQF1ESh1ZXb2h0Sx4) | 9:00 |
 | 72 | [Trees](https://open.spotify.com/track/6RTPhBy716vfQKcfCOVi3I) | [Föllakzoid](https://open.spotify.com/artist/7djT11AqtEBzdME1OGFfxL) | [II](https://open.spotify.com/album/3sH28pORiCQMqQNWuXweUv) | 7:14 |
 | 73 | [Todo Bien](https://open.spotify.com/track/6aKI6d7NkTPqHoElel3TnI) | [Los Espiritus](https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0) | [Sancocho Stereo](https://open.spotify.com/album/6C5oBZMtcSchAu9TuTSrKB) | 4:33 |
-| 74 | [Strange Secrets Worth Knowing](https://open.spotify.com/track/0XDFrRl5464H97zLQZiC1W) | [Improvement Movement](https://open.spotify.com/artist/18S4ntNsQ8TCG80wpOsxWZ) | [Don't Delay, Join Today!](https://open.spotify.com/album/28ArhpcPDNuJFqqWGmevOi) | 2:08 |
-| 75 | [Eclipse](https://open.spotify.com/track/7ww3ZrwEJbZjWhmAac71Mk) | [Wooden Shjips](https://open.spotify.com/artist/35rFgnhlSSYflP4HpC3JM0) | [V.](https://open.spotify.com/album/5KjpFRvPpExlRIuDQqwhNk) | 6:23 |
+| 74 | [See](https://open.spotify.com/track/0wNR01ZZBPtPnyHOvFK5mB) | [Hooveriii](https://open.spotify.com/artist/4zmrLVufAWS6bWdSfXfaB7) | [A Round of Applause](https://open.spotify.com/album/7okWE6leJxAshjMYpr2ifw) | 4:25 |
+| 75 | [Strange Secrets Worth Knowing](https://open.spotify.com/track/0XDFrRl5464H97zLQZiC1W) | [Improvement Movement](https://open.spotify.com/artist/18S4ntNsQ8TCG80wpOsxWZ) | [Don't Delay, Join Today!](https://open.spotify.com/album/28ArhpcPDNuJFqqWGmevOi) | 2:08 |
 
-Snapshot ID: `MTY2Mjg2NjcwMSwwMDAwMDAwMDE0ODkzYzkyNGE4MzYyNmM4ODk5ZGU1M2M4ZDU1YmFk`
+Snapshot ID: `MTY2Mjg2NjcwMSwwMDAwMDAwMDFmZjE5YWNkZjJlYTU1YjJlMGQ1NTZiYjFiYTM0YzZh`

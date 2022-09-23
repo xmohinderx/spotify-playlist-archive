@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "A la Medida",
+        "url": "https://open.spotify.com/album/6efOKRzidSTHQXjUyHmCM4"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151051,
+      "name": "A la Medida",
+      "url": "https://open.spotify.com/track/4ZeC3j8u2e4i5hn4k5bFSw"
+    },
+    {
+      "album": {
         "name": "Mexicana Enamorada",
         "url": "https://open.spotify.com/album/6mkOolBljGoPHJAvsI7deX"
       },
@@ -23,6 +41,28 @@
       "duration_ms": 244642,
       "name": "Ahi\u0301 Donde Me Ven",
       "url": "https://open.spotify.com/track/7AU5lOckSQL0jOFNiv1uUy"
+    },
+    {
+      "album": {
+        "name": "Amiga M\u00eda",
+        "url": "https://open.spotify.com/album/1ZhjvXP3Frzxshp4OVKUvE"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        },
+        {
+          "name": "MORVN",
+          "url": "https://open.spotify.com/artist/76AlElZjbs04hHBpPDmR5f"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Amiga M\u00eda",
+      "url": "https://open.spotify.com/track/3PAb3SSA1zP388eqKXKNsV"
     },
     {
       "album": {
@@ -95,7 +135,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 147513,
       "name": "Anillo Grabado",
       "url": "https://open.spotify.com/track/4M3A1xOY409r0cGLEKSDmf"
@@ -229,10 +269,28 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 244727,
       "name": "El Anticuado",
       "url": "https://open.spotify.com/track/4ZO4lNK6uR8okn2q6Tl8FR"
+    },
+    {
+      "album": {
+        "name": "El Comienzo del Final",
+        "url": "https://open.spotify.com/album/2sk5lhzj7DeKg6efRrhu9g"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Aguilar",
+          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173816,
+      "name": "El Comienzo del Final",
+      "url": "https://open.spotify.com/track/3MWYxx33qIGH4ShVmAltW6"
     },
     {
       "album": {
@@ -393,7 +451,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 210042,
       "name": "Fue un Placer Conocerte",
       "url": "https://open.spotify.com/track/2keN15BswHOxejdRAaMT8s"
@@ -501,7 +559,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 171605,
       "name": "Las Ma\u00f1anitas",
       "url": "https://open.spotify.com/track/6kbmiCL77OvBdw6ZUfG6oV"
@@ -647,7 +705,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 225133,
       "name": "Navajas En El Viento",
       "url": "https://open.spotify.com/track/6EhatS1CYbGwgn1Sip0nG7"
@@ -691,6 +749,46 @@
       "duration_ms": 271000,
       "name": "Ni Contigo, Ni Sin Ti",
       "url": "https://open.spotify.com/track/6Y7W7sn8mT1C6FatpoPhhd"
+    },
+    {
+      "album": {
+        "name": "No Lo Pod\u00eda Hacer Mejor",
+        "url": "https://open.spotify.com/album/6k964PchdjqpKVlAuoYvfL"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Aguilar",
+          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178980,
+      "name": "No Lo Pod\u00eda Hacer Mejor",
+      "url": "https://open.spotify.com/track/0miQuUmnk0hQ0HaviDOrUA"
+    },
+    {
+      "album": {
+        "name": "A la Medida",
+        "url": "https://open.spotify.com/album/6efOKRzidSTHQXjUyHmCM4"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        },
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189665,
+      "name": "No Me Hablen de Amor",
+      "url": "https://open.spotify.com/track/03zaQokPmEiYjrLFl9NAK6"
     },
     {
       "album": {
@@ -741,7 +839,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 192677,
       "name": "Por Eso T\u00fa",
       "url": "https://open.spotify.com/track/73Op2YIk2Ea5kJ9uHd99QH"
@@ -872,6 +970,24 @@
     },
     {
       "album": {
+        "name": "Mexicana Enamorada",
+        "url": "https://open.spotify.com/album/6mkOolBljGoPHJAvsI7deX"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206383,
+      "name": "Se Disfrazo\u0301",
+      "url": "https://open.spotify.com/track/35vWB9Yj2WwxpuI2WceZ38"
+    },
+    {
+      "album": {
         "name": "Antonio Aguilar con Mariachi",
         "url": "https://open.spotify.com/album/1avd5vgMRyfa6YD4LuZh2n"
       },
@@ -963,10 +1079,32 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 142819,
       "name": "Tus Desprecios",
       "url": "https://open.spotify.com/track/6gyPojQkJawXsMryAeu5Se"
+    },
+    {
+      "album": {
+        "name": "A la Medida",
+        "url": "https://open.spotify.com/album/6efOKRzidSTHQXjUyHmCM4"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        },
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143010,
+      "name": "Tus Desprecios",
+      "url": "https://open.spotify.com/track/3GXUtMP7Q0Lv7UsL2Bpqh0"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Denmark.
 
-788 songs - 1 day 17 hr 14 min - [published](https://open.spotify.com/playlist/0xZxWo7riSweBRsHAunmHj)
+789 songs - 1 day 17 hr 18 min - [published](https://open.spotify.com/playlist/0xZxWo7riSweBRsHAunmHj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [Count Me Out](https://open.spotify.com/track/7pj6P5WnxkZsw3XRc8eMe1) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 4:43 | 2022-05-14 | 2022-05-21 |
 | [Crown](https://open.spotify.com/track/2IwbW2jd0Ncv99Aroe77Ru) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 4:24 | 2022-05-14 | 2022-05-16 |
 | [Cry Your Heart Out](https://open.spotify.com/track/09u787BYeYIGd2mFIJ505t) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 4:15 | 2021-11-21 | 2021-11-25 |
+| [CUFF IT](https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:45 | 2022-09-22 |  |
 | [D R HVA D R \(feat\. Shooter Gang\)](https://open.spotify.com/track/6Rcc0NO1nVVqJ67EnvLReN) | [DIBSET](https://open.spotify.com/artist/4g53FCcxQZEj8SSr1rHmiH), [Shooter Gang](https://open.spotify.com/artist/7HAfa0zXzOgIEUdyxE08AO) | [D R HVA D R \(feat\. Shooter Gang\)](https://open.spotify.com/album/0DmMSAdxQJYIhfXBDzhdui) | 3:06 | 2021-08-29 | 2021-09-05 |
 | [Dagslys](https://open.spotify.com/track/14qA7FPqXcep6LuF7o3ecH) | [Nik & Jay](https://open.spotify.com/artist/71k6SmcYKiIPq8M2RxK2Jr) | [Lys Over Land 1](https://open.spotify.com/album/2NJaPWjalZ41VDHlywGyq3) | 3:05 | 2022-06-18 | 2022-06-26 |
 | [Danmarks Drenge](https://open.spotify.com/track/0p030Tlxy9EBpA9Un2uSsh) | [Søren Poppe](https://open.spotify.com/artist/4IIzHcHwmfGxdVznMYZAHZ) | [Hvert Minut](https://open.spotify.com/album/0Gw2GlkhIIVi5BeE9DMiDU) | 3:34 | 2021-06-14 | 2021-07-10 |
@@ -353,7 +354,7 @@
 | [Hvor Har Du Lært Det](https://open.spotify.com/track/7zBD2Y6xoOMgm4ftGHFWfW) | [GMG](https://open.spotify.com/artist/2SCRrSkAkIVnZYJGPhsoN7) | [Hvor Har Du Lært Det](https://open.spotify.com/album/5kkb92eCnhK5bJPDKEUB2d) | 2:18 | 2022-05-23 | 2022-08-06 |
 | [Hvor Vi Fra](https://open.spotify.com/track/749czLOsKVhocGuNaF87WK) | [Landsholdet](https://open.spotify.com/artist/3pUk1ndVKDCVrXXUhVONOf), [Safri Duo](https://open.spotify.com/artist/2UOx6w3eHpPKc3RBnNV3Rl), [B\-Boys](https://open.spotify.com/artist/0VCBHwEXckS4LgmgGl0RJU), [Birthe Kjær](https://open.spotify.com/artist/0IfpyCP48pZ9kkFVSeHbC5) | [Danske Fodboldsange](https://open.spotify.com/album/5h6UgLuiatq2Tetg0Jw4rE) | 3:19 | 2021-07-05 | 2021-07-10 |
 | [HYGGE MYGGE](https://open.spotify.com/track/11AZDeHTCik5zXmZAFzDST) | [RH](https://open.spotify.com/artist/0BecZI4vqLoN178y3f16XJ) | [HYGGE MYGGE](https://open.spotify.com/album/4rKa3KaGe8wg90d9Vpni7i) | 2:14 | 2022-03-26 | 2022-06-13 |
-| [Håb \- Min Sang Til Danmark](https://open.spotify.com/track/1Si8YF3oG5eLdTq5DWMAne) | [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [Håb \(Min Sang Til Danmark\)](https://open.spotify.com/album/1ZwMPZGdZlvNpR7oBGAbgP) | 2:42 | 2022-09-17 |  |
+| [Håb \- Min Sang Til Danmark](https://open.spotify.com/track/1Si8YF3oG5eLdTq5DWMAne) | [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [Håb \(Min Sang Til Danmark\)](https://open.spotify.com/album/1ZwMPZGdZlvNpR7oBGAbgP) | 2:42 | 2022-09-17 | 2022-09-23 |
 | [Højt Oppe \(feat\. Emil Goll\)](https://open.spotify.com/track/1auA7wGDzCrlmPzadTlarI) | [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE) | [30 Somre](https://open.spotify.com/album/1rzS6sG9RAQSmujvgvrcBS) | 3:10 | 2022-06-18 | 2022-06-26 |
 | [I Ain't Worried](https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Ain’t Worried \(Music From The Motion Picture "Top Gun: Maverick"\)](https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2) | 2:28 | 2022-07-13 |  |
 | [I AM WOMAN](https://open.spotify.com/track/3nOz1U41SZZ0N3fuUWr9nb) | [Emmy Meli](https://open.spotify.com/artist/71szvmFWd7TUa7b6XmXj9k) | [I AM WOMAN](https://open.spotify.com/album/4zxSM7n57ny7FztFtjSj7n) | 3:52 | 2021-12-28 | 2022-01-08 |

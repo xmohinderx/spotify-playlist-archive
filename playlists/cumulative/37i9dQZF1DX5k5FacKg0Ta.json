@@ -359,7 +359,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 392424,
       "name": "Dead Sea",
       "url": "https://open.spotify.com/track/1QnoRhFiXxkKCZ9AK4lvrg"
@@ -395,7 +395,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 239026,
       "name": "Deep in the Water",
       "url": "https://open.spotify.com/track/6223sSiNuaTxGCyyshUYGl"
@@ -435,7 +435,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 149066,
       "name": "Denmark: Lek",
       "url": "https://open.spotify.com/track/6bAVVD3He4f1r5UbyMV7Qq"
@@ -638,6 +638,24 @@
     },
     {
       "album": {
+        "name": "Hiljainen",
+        "url": "https://open.spotify.com/album/5lzBNkrexXp1rBeOJSIXi3"
+      },
+      "artists": [
+        {
+          "name": "Mikko Sarvanne Garden",
+          "url": "https://open.spotify.com/artist/6BNkfqfvbnuPEVyBhANA39"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385986,
+      "name": "Hiljainen",
+      "url": "https://open.spotify.com/track/0zf7oA2yxkY0pf7FqJFBu8"
+    },
+    {
+      "album": {
         "name": "Hope",
         "url": "https://open.spotify.com/album/1bph2eWLw0CiJawMFhb2Pu"
       },
@@ -667,7 +685,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 360866,
       "name": "House of Brew",
       "url": "https://open.spotify.com/track/0eK8guIuSnsakNziWtlOjM"
@@ -786,6 +804,42 @@
     },
     {
       "album": {
+        "name": "Diversity",
+        "url": "https://open.spotify.com/album/2Z8qjhaLu9SYLtt7YuKNgD"
+      },
+      "artists": [
+        {
+          "name": "Eero Koivistoinen Quartet",
+          "url": "https://open.spotify.com/artist/7q1zywOL5kaYleRWJORLGo"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312173,
+      "name": "Kelo",
+      "url": "https://open.spotify.com/track/5MaNwKdorJTKEMzKr4cL3i"
+    },
+    {
+      "album": {
+        "name": "Ketunnokka",
+        "url": "https://open.spotify.com/album/2592dCUKaQyPcmgUP4gszv"
+      },
+      "artists": [
+        {
+          "name": "Kadi Vija Key Project",
+          "url": "https://open.spotify.com/artist/3eQyWxtFpfGfVLPBgO9LY5"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367741,
+      "name": "Ketunnokka",
+      "url": "https://open.spotify.com/track/3YvK6bdj8mGao5f2CCVBdz"
+    },
+    {
+      "album": {
         "name": "Unituulia",
         "url": "https://open.spotify.com/album/4ea1eOXdoToRal6XqcSoci"
       },
@@ -844,6 +898,24 @@
     },
     {
       "album": {
+        "name": "In Belgium 1967",
+        "url": "https://open.spotify.com/album/7K7ZPq67v0pdmlyQXhr4ph"
+      },
+      "artists": [
+        {
+          "name": "Esa Pethman",
+          "url": "https://open.spotify.com/artist/19tCGRoeUzAegnBcvMfLZg"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307845,
+      "name": "Like Steel",
+      "url": "https://open.spotify.com/track/0zvp0m468qwkERmjMPnVfB"
+    },
+    {
+      "album": {
         "name": "III",
         "url": "https://open.spotify.com/album/2GmTfaTiwX055jsxaiKPuE"
       },
@@ -871,7 +943,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 496453,
       "name": "Love and Maladies",
       "url": "https://open.spotify.com/track/5kHdEAX0zIB3DV2Yg8AsSy"
@@ -1023,6 +1095,24 @@
       "duration_ms": 190659,
       "name": "November",
       "url": "https://open.spotify.com/track/5Jvk0Oe071dMpFzvdhD8DC"
+    },
+    {
+      "album": {
+        "name": "One small step",
+        "url": "https://open.spotify.com/album/0GY9ODHnnp43DXGAIrjiap"
+      },
+      "artists": [
+        {
+          "name": "Ville Tomminen",
+          "url": "https://open.spotify.com/artist/3z05cHmgpoxtH09pPL5sYD"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289698,
+      "name": "One small step",
+      "url": "https://open.spotify.com/track/0oXgF2YDoQ9o4GgYWjHz5F"
     },
     {
       "album": {
@@ -1548,6 +1638,24 @@
     },
     {
       "album": {
+        "name": "Travelogue",
+        "url": "https://open.spotify.com/album/0MaCvvuQx4Qj6TXcBQQT1q"
+      },
+      "artists": [
+        {
+          "name": "Martti Vesala Soundpost Quintet",
+          "url": "https://open.spotify.com/artist/4yfLJzuJhNaBEJlfe53KnO"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253463,
+      "name": "Travelogue",
+      "url": "https://open.spotify.com/track/4cZS6EhdLNIpI6CYIo6HUI"
+    },
+    {
+      "album": {
         "name": "Tree Sea Wind",
         "url": "https://open.spotify.com/album/6Vpth5VHGgJRRZ4uCztL5p"
       },
@@ -1575,7 +1683,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 447506,
       "name": "Tree Sea Wind",
       "url": "https://open.spotify.com/track/1rclaLd2fUcsSU2J3XIoeH"

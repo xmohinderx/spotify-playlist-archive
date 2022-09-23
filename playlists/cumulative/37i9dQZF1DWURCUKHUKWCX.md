@@ -4,7 +4,7 @@
 
 > Atmospheric and emotional piano pieces.
 
-154 songs - 8 hr 34 min - [published](https://open.spotify.com/playlist/5PXW8WDXeIw3YqfXn9AhIU)
+155 songs - 8 hr 37 min - [published](https://open.spotify.com/playlist/5PXW8WDXeIw3YqfXn9AhIU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,10 +102,11 @@
 | [October](https://open.spotify.com/track/0qJkni7fSqPAim9WFO4qUh) | [Annelie](https://open.spotify.com/artist/0Rm9NmU9uyvf7tfVt4YNKC) | [October](https://open.spotify.com/album/4YhjuXwBlF265iUJkCr0Db) | 2:57 | 2021-12-10 |  |
 | [Of Twilight Skies](https://open.spotify.com/track/5FgOdb5ilNpgXpPBYl23Ln) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [Of Twilight Skies](https://open.spotify.com/album/76YGw1azMme9elduNgSeld) | 3:18 | 2022-01-28 |  |
 | [oku](https://open.spotify.com/track/0dh69TWktsQtq1JWheVpHZ) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [april \- tree](https://open.spotify.com/album/6gdxaCujfNt2szV6FXV4ps) | 2:25 | 2021-12-10 |  |
+| [One Look \- Solo Piano Version](https://open.spotify.com/track/2rOzjds76jtdjSwQbIfuc6) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Evermore \(Solo Piano Version\)](https://open.spotify.com/album/1h1ZsE5v8PlJhtbXODCYCS) | 3:18 | 2022-08-05 |  |
 | [One Look \- Solo Piano Version](https://open.spotify.com/track/4mFBL9WVfRZsOC8PKcjCva) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Songbird \(Solo Piano Version\)](https://open.spotify.com/album/5Rq6irAvLNj36yBD7bY9t0) | 3:18 | 2022-08-05 | 2022-09-02 |
 | [One Look \- Solo Piano Version](https://open.spotify.com/track/5hyeuyL8PXCMoFlwXixGjI) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Still Life \(Solo Piano Version\)](https://open.spotify.com/album/2HBQlWRHDJqUlr1iUX22iu) | 3:18 | 2022-08-05 | 2022-09-16 |
 | [One Look \- Solo Piano Version](https://open.spotify.com/track/6ZQ7FcPjetnVnS5uU0gZ2d) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Canyons \(Solo Piano Version\)](https://open.spotify.com/album/5m8TJspnBZjuJRalHDeioI) | 3:18 | 2022-08-05 | 2022-08-27 |
-| [One Look \- Solo Piano Version](https://open.spotify.com/track/6ukVwqW1apM0LMTHxoCiZm) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Papillon \(Solo Piano Version\)](https://open.spotify.com/album/1ABCgTKvrHDqtaQJoVL8LB) | 3:18 | 2022-08-05 |  |
+| [One Look \- Solo Piano Version](https://open.spotify.com/track/6ukVwqW1apM0LMTHxoCiZm) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Papillon \(Solo Piano Version\)](https://open.spotify.com/album/1ABCgTKvrHDqtaQJoVL8LB) | 3:18 | 2022-08-05 | 2022-09-23 |
 | [One Look \- Solo Piano Version](https://open.spotify.com/track/79UTVXirLKGg722iyWAlLh) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Hope, Ascending \(Solo Piano Version\)](https://open.spotify.com/album/7gOdkCD1pDOKqF7Khofniy) | 3:18 | 2022-08-05 | 2022-09-05 |
 | [One Look \- Solo Piano Version](https://open.spotify.com/track/7jooXsI76dcqjmcU9QV8K7) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [One Look \(Solo Piano Version\)](https://open.spotify.com/album/05Mf7iiPdcr8UH5URzCUfC) | 3:18 | 2022-08-05 | 2022-08-19 |
 | [Only in the Dark](https://open.spotify.com/track/7MenFyNgpOMMPFmbrvJZqX) | [Ben Lukas Boysen](https://open.spotify.com/artist/0lYoJnsYMVaAitj1pZVqER) | [Gravity \(Special Edition\)](https://open.spotify.com/album/0lDH51Xy10a1fXsRMAyufW) | 3:29 | 2021-12-10 |  |

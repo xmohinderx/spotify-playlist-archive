@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVIaV4KJYuq.md) - [plain]
 
 > All the classic songs you love—covered\. Cover: Brandi Carlile
 
-[Spotify](https://open.spotify.com/user/spotify) - 645,196 likes - 110 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 645,401 likes - 110 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVIaV4KJYuq.md) - [plain]
 | 39 | [The Best](https://open.spotify.com/track/7zLqJdc0e37PpGKADGnOUt) | [Walk Off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [The Best](https://open.spotify.com/album/5Le6JV0WccI6oxLzlA7it7) | 2:56 |
 | 40 | [In Your Eyes](https://open.spotify.com/track/5c0z1ccAIoZl1okUhiqNOc) | [Ben Abraham](https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI) | [In Your Eyes](https://open.spotify.com/album/6rMXObFQHowLksaLis6GXA) | 5:29 |
 | 41 | [Somewhere Only We know \- Live from Spotify, London](https://open.spotify.com/track/7FnHpKPgVC6GE0RRCJNB2T) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Spotify Sessions](https://open.spotify.com/album/5cNnduB4QgrxQzaJvEuC8z) | 3:47 |
-| 42 | [Landslide](https://open.spotify.com/track/65nCVhtlWYUzNvcM1MYp4l) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [The Essential The Chicks](https://open.spotify.com/album/31St5diPbTZoCjOwWXSMWD) | 3:48 |
-| 43 | [Bridge Over Troubled Water](https://open.spotify.com/track/3e0qSxu1fNPzDlwqWN3cBD) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [American IV: The Man Comes Around](https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9) | 3:54 |
+| 42 | [Bridge Over Troubled Water](https://open.spotify.com/track/3e0qSxu1fNPzDlwqWN3cBD) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [American IV: The Man Comes Around](https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9) | 3:54 |
+| 43 | [Landslide](https://open.spotify.com/track/65nCVhtlWYUzNvcM1MYp4l) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [The Essential The Chicks](https://open.spotify.com/album/31St5diPbTZoCjOwWXSMWD) | 3:48 |
 | 44 | [Miss You](https://open.spotify.com/track/5PrOgvXZU7RzhJQknS6hEu) | [Carla Bruni](https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx) | [French Touch](https://open.spotify.com/album/2bHQTGyLGnwMDqrsuMvTsQ) | 3:31 |
 | 45 | [Wish You Were Here](https://open.spotify.com/track/6Hm8qbvIicqaQmAWyevlda) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [Wish You Were Here](https://open.spotify.com/album/6dGngnY6ND7aoag5IGkx9C) | 4:45 |
 | 46 | [Go Your Own Way](https://open.spotify.com/track/0VuhdSYkAOmhASbt5vnkdO) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [To The Faithful Departed \(The Complete Sessions 1996\-1997\)](https://open.spotify.com/album/6re8Qh8GMzxH92LO1xj2jU) | 4:01 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVIaV4KJYuq.md) - [plain]
 | 66 | [Helplessly Hoping](https://open.spotify.com/track/3p3wBH07OgxSIxyGUmqNl4) | [Jamestown Revival](https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it) | [Helplessly Hoping](https://open.spotify.com/album/3StDwAhArvL2O43axaJCSA) | 2:39 |
 | 67 | [You Never Can Tell](https://open.spotify.com/track/1GLMm7mMGNZznCUDr5JOkX) | [Elise LeGrow](https://open.spotify.com/artist/20biSVcaiwFyvcseOzYKo8) | [Playing Chess](https://open.spotify.com/album/2Ob030pqqBl9S3DZ6kddLU) | 3:05 |
 | 68 | [If It Makes You Happy](https://open.spotify.com/track/7ia7SaMGhr00G8EX5DMiFq) | [Wesley Schultz](https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX) | [Vignettes](https://open.spotify.com/album/3q2dNzIenzJnFyDmV7cY3M) | 4:15 |
-| 69 | [I Won't Back Down \- Recorded At Sound Stage Studios Nashville](https://open.spotify.com/track/3ObnRly5EABWIj0lzWFcBZ) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [Spotify Singles](https://open.spotify.com/album/6i6VBbBMbTYfB9oso3IrSN) | 3:47 |
-| 70 | [Hallelujah](https://open.spotify.com/track/0wDRNOFe1nzWFDQc5FoKk1) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Hallelujah](https://open.spotify.com/album/0s4mjch2kYLFQQNbgPNbuE) | 3:49 |
+| 69 | [Hallelujah](https://open.spotify.com/track/0wDRNOFe1nzWFDQc5FoKk1) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Hallelujah](https://open.spotify.com/album/0s4mjch2kYLFQQNbgPNbuE) | 3:49 |
+| 70 | [I Won't Back Down \- Recorded At Sound Stage Studios Nashville](https://open.spotify.com/track/3ObnRly5EABWIj0lzWFcBZ) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [Spotify Singles](https://open.spotify.com/album/6i6VBbBMbTYfB9oso3IrSN) | 3:47 |
 | 71 | [Believe](https://open.spotify.com/track/1ty3N197je3o1dN0F6Fu1G) | [Madilyn Bailey](https://open.spotify.com/artist/0NxhAEPOSeCg6vypFr7yjU) | [Believe](https://open.spotify.com/album/2fEYL3YBVILeEuiKJL7S2n) | 3:56 |
 | 72 | [Blue Skies](https://open.spotify.com/track/3qgK1i52jyuvz8ATQmMLTx) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Blue Skies](https://open.spotify.com/album/1m50nO6LDcbAsv82M2KaZR) | 2:34 |
 | 73 | [Dance Me to the End of Love \(Bonus\)](https://open.spotify.com/track/6WoJzSRQeROe5MNpf7cPDu) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Barton Hollow](https://open.spotify.com/album/4uWgDFxGAp7XlVSHuVBv4E) | 3:05 |
@@ -103,8 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVIaV4KJYuq.md) - [plain]
 | 93 | [Rocket Man](https://open.spotify.com/track/5ujvc1IFzGeBn2hsDX2n6w) | [creamy](https://open.spotify.com/artist/2uSVRVjYZ0PlJPdFHnBETu), [untrusted](https://open.spotify.com/artist/31mtcsgS3CJW5dEPlG83E7), [11:11 Music Group](https://open.spotify.com/artist/2MDj296KJIfgWDNBtHzeFi) | [Rocket Man](https://open.spotify.com/album/2ybfxBbMNc3lyY3ekDuDy4) | 2:54 |
 | 94 | [Unchained Melody \(feat\. The Chapin Sisters\)](https://open.spotify.com/track/6FRePTC2w57kLtE4rg20N1) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4), [The Chapin Sisters](https://open.spotify.com/artist/6t28TiXfX7V14H4hAxBarM) | [Classics](https://open.spotify.com/album/5TAVRgiAR2E79dQ1HrljqX) | 3:50 |
 | 95 | [The Times They Are A\-Changin’ \- Performance Version](https://open.spotify.com/track/03ob02uf5cOtDGQe7U9SYE) | [Dillon James](https://open.spotify.com/artist/5bdPShbvAASQjO3mIMOWRR) | [The Times They Are A\-Changin’ \(Performance Version\)](https://open.spotify.com/album/78XZBuGwbg9DtB95S95dJ6) | 3:00 |
-| 96 | [Strangers \- From "Life In A Day"](https://open.spotify.com/track/1y8fNzfN7UiL02gUzvuTVw) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6), [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Black Pumas \(Expanded Deluxe Edition\)](https://open.spotify.com/album/3dgyglN3wrQu131OIjkdh7) | 3:12 |
-| 97 | [What a Wonderful World](https://open.spotify.com/track/0bb1B382NhX0cxMMnheGNC) | [Sawyer Fredericks](https://open.spotify.com/artist/3GaRKzVcjJv5cIL8CmRAHn) | [What a Wonderful World](https://open.spotify.com/album/4G3BqD95dtfO19wUNwi0M7) | 2:42 |
+| 96 | [What a Wonderful World](https://open.spotify.com/track/0bb1B382NhX0cxMMnheGNC) | [Sawyer Fredericks](https://open.spotify.com/artist/3GaRKzVcjJv5cIL8CmRAHn) | [What a Wonderful World](https://open.spotify.com/album/4G3BqD95dtfO19wUNwi0M7) | 2:42 |
+| 97 | [Strangers \- From "Life In A Day"](https://open.spotify.com/track/1y8fNzfN7UiL02gUzvuTVw) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6), [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Black Pumas \(Expanded Deluxe Edition\)](https://open.spotify.com/album/3dgyglN3wrQu131OIjkdh7) | 3:12 |
 | 98 | [Anthem](https://open.spotify.com/track/2oubpFgSp6kOuL4XeBIHe9) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Anthem +3](https://open.spotify.com/album/6QjbX8JjvSfG5daXAeQKEU) | 5:45 |
 | 99 | [More Than a Woman](https://open.spotify.com/track/7rYyYKW8QxGzkRnqa165JC) | [The Shadowboxers](https://open.spotify.com/artist/3gq3IRuBKSmyBbGXwfagj4) | [More Than a Woman](https://open.spotify.com/album/5Nw0TgZQGMB9QwBsaUlQBM) | 3:44 |
 | 100 | [Brass in Pocket](https://open.spotify.com/track/1NUpIqsrU4UBxNvmeznDQK) | [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC), [teddy<3](https://open.spotify.com/artist/62FaS5AarFCrus8LxSVKKW) | [Spotify Singles](https://open.spotify.com/album/7yzvoOWugzfdTuqCeedb4l) | 4:01 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVIaV4KJYuq.md) - [plain]
 | 109 | [Common People](https://open.spotify.com/track/0RA1JKkRycZg27V6o70lf7) | [Conor Patrick](https://open.spotify.com/artist/2Zmbe847JU96530bnvtIBh), [Emma Genta](https://open.spotify.com/artist/2mwJYIhbQClnc3UXZBTn1O) | [Common People](https://open.spotify.com/album/1XM4qAth5mhPmlpUJQcKlg) | 4:03 |
 | 110 | [I Won't Back Down](https://open.spotify.com/track/0ty4f4slQKbXZnPrcHWHsu) | [Anthony D'Amato](https://open.spotify.com/artist/1oplL2hHYq7CQykvSbd6gy) | [Won't You Be My Neighbor? \(A Benefit For Refugee Aid\)](https://open.spotify.com/album/7mr65EthWJRSzJ6AvoIj3S) | 3:12 |
 
-Snapshot ID: `MTY0Mzk1MDkyMCwwMDAwMDAwMGExNGY0Y2FhZDE1NGEyNDU4ZDFmNDQ2MmE4ZGFlNDk0`
+Snapshot ID: `MTY0Mzk1MDkyMCwwMDAwMDAwMDk3MGFiM2EwZGU3N2M3YWU2MDRhYzI2MjYwNjY1MGNj`

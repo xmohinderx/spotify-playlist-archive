@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27Dfa7kD6dg.md) - [plain]
 
 > New York salsa...it's home.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,376 likes - 126 songs - 9 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,443 likes - 126 songs - 9 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27Dfa7kD6dg.md) - [plain]
 | 51 | [Tu Sin Mi](https://open.spotify.com/track/3My5e0LeWBuE8zJwLtqEs8) | [Jehu El Rey](https://open.spotify.com/artist/3bpLd5BxgDFSo6CqglwzZk) | [Legend](https://open.spotify.com/album/0MOhkz73OBpXs7TY9rFXeC) | 4:05 |
 | 52 | [La Hija De Lola](https://open.spotify.com/track/5xS8g8E2mPuIjCbxQj2Yx4) | [Charlie Palmieri](https://open.spotify.com/artist/1qNctKAgK8LDV3agmP8ukS) | [El Gigante del Teclado](https://open.spotify.com/album/6PjtSTcRAyMZ1k9xhvXEFp) | 4:32 |
 | 53 | [Vaciló Con Tumbao](https://open.spotify.com/track/6YC0cl9aX5RENgJEJd39sr) | [Ismael Quintana](https://open.spotify.com/artist/0BM26r4eTvHRclFsKRH2zq) | [Dos Imagenes](https://open.spotify.com/album/3e2g32lpM8T4lTLa4mswzo) | 2:54 |
-| 54 | [Ran Kan Kan](https://open.spotify.com/track/7qKQb6lScG5P9PKUaBLSaa) | [German Villareal](https://open.spotify.com/artist/4XkEwP6rxlThQhL2mdQ5jm), [Mambo Big Band](https://open.spotify.com/artist/1S88nr4JvfizT2pLOORfpI) | [Con Permiso de Mis Mayores](https://open.spotify.com/album/4bzpKsW94b9dGiCsbyAKFT) | 4:05 |
-| 55 | [Bamboléo](https://open.spotify.com/track/4Gu8MRCmbJbX2sGueXipVg) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Bamboléo](https://open.spotify.com/album/10FXtMH6uOwaTMFs9bpmY2) | 5:27 |
+| 54 | [Bamboléo](https://open.spotify.com/track/4Gu8MRCmbJbX2sGueXipVg) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Bamboléo](https://open.spotify.com/album/10FXtMH6uOwaTMFs9bpmY2) | 5:27 |
+| 55 | [Ran Kan Kan](https://open.spotify.com/track/7qKQb6lScG5P9PKUaBLSaa) | [German Villareal](https://open.spotify.com/artist/4XkEwP6rxlThQhL2mdQ5jm), [Mambo Big Band](https://open.spotify.com/artist/1S88nr4JvfizT2pLOORfpI) | [Con Permiso de Mis Mayores](https://open.spotify.com/album/4bzpKsW94b9dGiCsbyAKFT) | 4:05 |
 | 56 | [Juan Pachanga](https://open.spotify.com/track/1jUMNoLhnrD3c8iWncVFSr) | [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj), [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u) | [Bohemio y Poeta](https://open.spotify.com/album/08zXnylrEGWXgMcFI5eBm4) | 6:13 |
 | 57 | [Un Verano en NY](https://open.spotify.com/track/7paJ4Dsm2SWJvqRwpDnxrL) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [25th Anniversary](https://open.spotify.com/album/7GO5kZOp732nPbwGVsQePn) | 4:57 |
 | 58 | [Puerto Rico](https://open.spotify.com/track/4doloJKKvqdQTlId3BWMWk) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [El Papá De La Salsa](https://open.spotify.com/album/7qVMjFoNbVzaUwU2vapE9h) | 4:34 |
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27Dfa7kD6dg.md) - [plain]
 | 125 | [Conciencia](https://open.spotify.com/track/05K2YWeCYYBgPWFj8TT4uK) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [El Caballero De La Salsa \- La Historia Tropical](https://open.spotify.com/album/4AKdvM4gN7a6EWtBywDVcA) | 5:33 |
 | 126 | [Casi Te Envidio](https://open.spotify.com/track/14ZtWHRc05sX1qy4dL89ID) | [Andy Montañez](https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v) | [Serie Millennium](https://open.spotify.com/album/7FCjuXUkL6AgssIVl57z7C) | 5:20 |
 
-Snapshot ID: `MTY2MDc2MTAyOSwwMDAwMDAwMGM3ZjQ3MTUzZGRlMjc2NDBjYjczZmIxNGMxM2M4OTVh`
+Snapshot ID: `MTY2MDc2MTAyOSwwMDAwMDAwMGNhN2NmY2FhYzc1NmI4YmFjOGI5NmM1YzBkYWRhOTBj`

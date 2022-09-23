@@ -4,7 +4,7 @@
 
 > Hits of the 70s, 80s and 90s for gamers who love things retro.
 
-430 songs - 1 day 5 hr 57 min - [published](https://open.spotify.com/playlist/28maSpA5bzCPJTSBtwdjUV)
+431 songs - 1 day 6 hr 2 min - [published](https://open.spotify.com/playlist/28maSpA5bzCPJTSBtwdjUV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Action \- Single Version](https://open.spotify.com/track/5cTJwXAVQtWO5y1k9OWXeE) | [Sweet](https://open.spotify.com/artist/3JaAGmSTpJK35DqWrDUzBz) | [Action! The Ultimate Story](https://open.spotify.com/album/1jEk0k3VNGLcezveTCUFfU) | 3:18 | 2021-05-19 | 2022-06-01 |
 | [Africa](https://open.spotify.com/track/2374M0fQpWi3dLnB54qaLX) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [Toto IV](https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D) | 4:55 | 2021-05-19 |  |
 | [All Eyez On Me](https://open.spotify.com/track/2xTft6GEZeTyWNpdX94rkf) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [All Eyez On Me](https://open.spotify.com/album/4CzT5ueFBRpbILw34HQYxi) | 5:07 | 2021-05-19 | 2022-04-21 |
+| [All Eyez On Me \(ft\. Big Syke\)](https://open.spotify.com/track/4VQNCzfZ3MdHEwwErNXpBo) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Big Syke](https://open.spotify.com/artist/5J32qSlWzKCdcL31B8wglv) | [All Eyez On Me](https://open.spotify.com/album/78iX7tMceN0FsnmabAtlOC) | 5:07 | 2021-05-19 |  |
 | [All Star](https://open.spotify.com/track/3cfOd4CMv2snFaKAnMdnvK) | [Smash Mouth](https://open.spotify.com/artist/2iEvnFsWxR0Syqu2JNopAd) | [Astro Lounge](https://open.spotify.com/album/2kyTLcEZe6nc1s6ve0zW9P) | 3:20 | 2021-05-19 |  |
 | [All Star](https://open.spotify.com/track/7ntXYU4zboGuq5ZunkrXRB) | [Smash Mouth](https://open.spotify.com/artist/2iEvnFsWxR0Syqu2JNopAd) | [Astro Lounge](https://open.spotify.com/album/183GEdjm0dJezlc8CeBLYu) | 3:20 | 2021-05-19 | 2022-07-29 |
 | [All The Small Things](https://open.spotify.com/track/2m1hi0nfMR9vdGC8UcrnwU) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Enema Of The State](https://open.spotify.com/album/652N05EcNH1a4bIlUixQE2) | 2:47 | 2021-05-19 |  |
@@ -268,7 +269,7 @@
 | [No One Like You](https://open.spotify.com/track/26fZwf1ImE4aUJ4XaqOkUg) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Blackout](https://open.spotify.com/album/6x75r5C54z1quun86Bbqbr) | 3:57 | 2021-05-19 | 2022-07-28 |
 | [No Scrubs](https://open.spotify.com/track/1KGi9sZVMeszgZOWivFpxs) | [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) | [Fanmail](https://open.spotify.com/album/1CvjjpvqVMoyprsf74bpYW) | 3:34 | 2021-05-19 |  |
 | [Nothin' But A Good Time \- Remastered 2006](https://open.spotify.com/track/2V8KvnD5LVeeDChMWEkSzC) | [Poison](https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo) | [Open Up And Say...Ahh! \(20th Anniversary Edition\)](https://open.spotify.com/album/2AMWVB3FWknjcMeb6hMZnd) | 3:44 | 2021-05-19 | 2022-07-03 |
-| [Nothing's Gonna Stop Us Now](https://open.spotify.com/track/3X7uFMzJrEE0sxn62qd8Ch) | [Starship](https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf) | [No Protection](https://open.spotify.com/album/3nCQjsOzTmnWM6gnjIaT8J) | 4:30 | 2021-05-19 |  |
+| [Nothing's Gonna Stop Us Now](https://open.spotify.com/track/3X7uFMzJrEE0sxn62qd8Ch) | [Starship](https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf) | [No Protection](https://open.spotify.com/album/3nCQjsOzTmnWM6gnjIaT8J) | 4:30 | 2021-05-19 | 2022-09-23 |
 | [Old Time Rock & Roll](https://open.spotify.com/track/1lhpxZT57yw5toGJtt8fGE) | [Bob Seger](https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ) | [Stranger In Town](https://open.spotify.com/album/3IqhO2ukdUkAs83DzamqIJ) | 3:14 | 2021-05-19 | 2022-07-15 |
 | [One \(Remastered\)](https://open.spotify.com/track/10HlI5OL8VIdMh2CaymhbD) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [...And Justice For All](https://open.spotify.com/album/7CNQl7thCP0pDllX1lehLM) | 7:27 | 2021-05-19 | 2022-07-28 |
 | [One More Astronaut](https://open.spotify.com/track/3kJw8wpzrB5WLFcdmIvXew) | [I Mother Earth](https://open.spotify.com/artist/3zEJAyZ1qSHSx9936UfXuM) | [Scenery & Fish](https://open.spotify.com/album/2ghGUuQNwMOVl5HNIPSKeU) | 5:24 | 2021-05-19 | 2022-04-27 |

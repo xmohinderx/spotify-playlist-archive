@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTR4ZOXTfd9K.md) - [plain]
 
 > The best music from one of the greatest jazz labels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 376,300 likes - 101 songs - 10 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 376,401 likes - 101 songs - 10 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTR4ZOXTfd9K.md) - [plain]
 | 8 | [Book Of Slim](https://open.spotify.com/track/4qRyiKJFPLlaEma8BDaVML) | [Gene Harris & The Three Sounds](https://open.spotify.com/artist/7wpE9ePlaLVOdFrSs9BX8B) | [Elegant Soul \(Reissue\)](https://open.spotify.com/album/2HWvhHLaJg5WIcT7lWwdtX) | 3:23 |
 | 9 | [Shine It](https://open.spotify.com/track/69xdPh6CEOpwcP4ZpReWmH) | [Medeski, Martin & Wood](https://open.spotify.com/artist/2Hg4SUNDuIn8xIidz9GxFw) | [End Of The World Party \(Just In Case\)](https://open.spotify.com/album/1hCxbfoen4fGGbbrE3pfZX) | 4:59 |
 | 10 | [Let 'Em Roll](https://open.spotify.com/track/1f2hIPiAT870zgTAr7o1Jp) | [Big John Patton](https://open.spotify.com/artist/1N0ymPm6hUQbmzXDuERfeT) | [Let 'Em Roll](https://open.spotify.com/album/6GikhGod1ea9wJLMdX7Fk7) | 6:48 |
-| 11 | [Bright Eyes \- Live](https://open.spotify.com/track/5c17qhp5zR2gs61XNEpAnC) | [Dr\. Lonnie Smith](https://open.spotify.com/artist/1ZpPJRe9erwiWi548SKVyn) | [Breathe](https://open.spotify.com/album/1VmQzWa2H4IRjpVReN8LDY) | 7:25 |
-| 12 | [Boo's Blues](https://open.spotify.com/track/1bnnJsnSGD4hmNG7J0BMFG) | [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [Squint](https://open.spotify.com/album/4eomOt6YKFtZhFPyoSwrSC) | 3:25 |
+| 11 | [Castle Park](https://open.spotify.com/track/0jf293soDMku4J3lHZXUa3) | [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [View With A Room](https://open.spotify.com/album/0bxXAO9Vxpx20fidIJc4va) | 3:57 |
+| 12 | [Bright Eyes \- Live](https://open.spotify.com/track/5c17qhp5zR2gs61XNEpAnC) | [Dr\. Lonnie Smith](https://open.spotify.com/artist/1ZpPJRe9erwiWi548SKVyn) | [Breathe](https://open.spotify.com/album/1VmQzWa2H4IRjpVReN8LDY) | 7:25 |
 | 13 | [Chitlins Con Carne](https://open.spotify.com/track/18A1V1vsy5YgHFqb4galTw) | [Kenny Burrell](https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB) | [Midnight Blue \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/0hMuKAciHKinu4L3R4Ojjl) | 5:30 |
 | 14 | [Blue Bossa \- Remastered](https://open.spotify.com/track/6qqK0oeBRapZn8f9hJJENw) | [Joe Henderson](https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt) | [Page One](https://open.spotify.com/album/7mQGTuvmdp56DNz0AmMwWi) | 8:02 |
 | 15 | [LLL](https://open.spotify.com/track/7F2GCFOBnFoNyE2qfYUR3A) | [Johnathan Blake](https://open.spotify.com/artist/5FzOdzC3xUlGuFNNOQ4Xms) | [Homeward Bound](https://open.spotify.com/album/567r4Wqu7u5g1G7Jj3qpBj) | 6:10 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTR4ZOXTfd9K.md) - [plain]
 | 100 | [G.G.](https://open.spotify.com/track/4cirs0aWDKwYw1ehlRy30v) | [Elvin Jones](https://open.spotify.com/artist/4dUMhhUjQ2YcNTvab29hYF) | [Mr\. Jones](https://open.spotify.com/album/226bVJEQsu9W1nUvSefYJc) | 5:46 |
 | 101 | [The Bed We Made](https://open.spotify.com/track/6AplJffmm6vaEltCayfGLV) | [Nels Cline](https://open.spotify.com/artist/3s6o8vxtYJ1utkWl8EXxUp) | [Lovers](https://open.spotify.com/album/2oFwmxCUzVmP8pZxV1sdfN) | 3:25 |
 
-Snapshot ID: `MTY2Mzc2MDk5NCwwMDAwMDAwMDE5OWU4MzEzNzU0YTlhMmFmZTQ0MDc4NDEzYjdkMDM3`
+Snapshot ID: `MTY2MzgzNjQ0NCwwMDAwMDAwMGY4YTg0MmFmZmM2NTQzZGViYTk0MTVlNWY2ZTUwNzM5`

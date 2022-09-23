@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pSTOxoPbx9.md) - [plain]
 
 > Beautifully dark, dramatic tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 666,805 likes - 100 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 667,049 likes - 100 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pSTOxoPbx9.md) - [plain]
 | 19 | [Glory](https://open.spotify.com/track/5rMea4Gu5db0qb1c6TfGIh) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Doves & Ravens](https://open.spotify.com/album/64KvdiGpqwb0Lu1Zn4AcSf) | 3:42 |
 | 20 | [Beggin For Thread](https://open.spotify.com/track/4PvD06Pmbm2rHG2JjSlElF) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Goddess \(Deluxe\)](https://open.spotify.com/album/1eeYYgK208xvkCEGkYqWah) | 4:09 |
 | 21 | [9 Crimes](https://open.spotify.com/track/08YEGpKt2LHJ0URCXKHEie) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [9](https://open.spotify.com/album/4B7O0E5V0ntVTz41tCfPdF) | 3:39 |
-| 22 | [In Dreams](https://open.spotify.com/track/6yPuQr6vjZ7tJ4oq1PEXle) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [I Forget Where We Were](https://open.spotify.com/album/4WI3oFEsDiHU3I5xHz88sF) | 3:33 |
-| 23 | [Cold](https://open.spotify.com/track/2PYRqwROIlW4t4Gh0uDD3d) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Woodgate, NY](https://open.spotify.com/album/4HCiNoFBb2vFvySaSW2JBs) | 4:23 |
+| 22 | [Cold](https://open.spotify.com/track/2PYRqwROIlW4t4Gh0uDD3d) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Woodgate, NY](https://open.spotify.com/album/4HCiNoFBb2vFvySaSW2JBs) | 4:23 |
+| 23 | [In Dreams](https://open.spotify.com/track/6yPuQr6vjZ7tJ4oq1PEXle) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [I Forget Where We Were](https://open.spotify.com/album/4WI3oFEsDiHU3I5xHz88sF) | 3:33 |
 | 24 | [Killer + The Sound](https://open.spotify.com/track/00fRUfon3pr861IKiG03kA) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi), [Abby Gundersen](https://open.spotify.com/artist/5BlKoQLYxv24MSV5AD6i6q) | [Killer + The Sound](https://open.spotify.com/album/0YkXSjRA7Zim0xIuZ26CRs) | 7:55 |
 | 25 | [Bottom of the River](https://open.spotify.com/track/2LzyUfJdRp3uqTrITBJXEY) | [Delta Rae](https://open.spotify.com/artist/0iidQFemlPhkoHqFroz2my) | [Carry the Fire](https://open.spotify.com/album/42NjSADnDs97o75bICIqs0) | 3:22 |
 | 26 | [The System Only Dreams in Total Darkness](https://open.spotify.com/track/612R6rJlv9N3wpljUpT8Ja) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Sleep Well Beast](https://open.spotify.com/album/2lsM7Py65EOtlq8BgwkXCS) | 3:56 |
@@ -39,19 +39,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pSTOxoPbx9.md) - [plain]
 | 29 | [The Swimmer \(To Be an Old Man\)](https://open.spotify.com/track/7LEGwwvRtilCPvNrHxxRGw) | [Rose Cousins](https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ) | [Bravado](https://open.spotify.com/album/6HG6bnPHDDW3R6RBlJBFGq) | 4:07 |
 | 30 | [Small Things](https://open.spotify.com/track/5RySo0AAUR0reTHSCvb6HC) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [I Forget Where We Were](https://open.spotify.com/album/4WI3oFEsDiHU3I5xHz88sF) | 5:43 |
 | 31 | [When You Break](https://open.spotify.com/track/26X9sBKoalJBEPQ4CqZzPU) | [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi) | [Agape](https://open.spotify.com/album/4baa1BQ5dRO8Bsvjnt3FwH) | 4:45 |
-| 32 | [What Kind Of Man](https://open.spotify.com/track/1w9ta1CvXlJPRXh6Py2Mto) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [How Big, How Blue, How Beautiful \(Deluxe\)](https://open.spotify.com/album/0Om2TWqroaCLQamQME3bD2) | 3:36 |
-| 33 | [I Love You, But I Need Another Year](https://open.spotify.com/track/2UQYVFUrqybUciB3ULiysS) | [Liza Anne](https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ) | [Fine But Dying](https://open.spotify.com/album/6ELuMj5lPWzmvHhi3YeIOp) | 3:42 |
-| 34 | [Beautiful Hell](https://open.spotify.com/track/65q0qZbQBdPPYfAcZ7n0e3) | [Adna](https://open.spotify.com/artist/1pduOlnYE5rd4VChXbeU8g) | [Run, Lucifer](https://open.spotify.com/album/1uL86W2jobgxHMrJEGdAal) | 2:56 |
+| 32 | [I Love You, But I Need Another Year](https://open.spotify.com/track/2UQYVFUrqybUciB3ULiysS) | [Liza Anne](https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ) | [Fine But Dying](https://open.spotify.com/album/6ELuMj5lPWzmvHhi3YeIOp) | 3:42 |
+| 33 | [What Kind Of Man](https://open.spotify.com/track/1w9ta1CvXlJPRXh6Py2Mto) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [How Big, How Blue, How Beautiful \(Deluxe\)](https://open.spotify.com/album/0Om2TWqroaCLQamQME3bD2) | 3:36 |
+| 34 | [Byegone](https://open.spotify.com/track/0Sq3wdy9bjXBAnkc0SO2A4) | [Volcano Choir](https://open.spotify.com/artist/6gAtOqhriLzOzb3Qqmg5kO) | [Repave](https://open.spotify.com/album/69qFYmNxf9i1kc26Cip5sZ) | 4:22 |
 | 35 | [Nocturne](https://open.spotify.com/track/2fv4O0H2EdMqliyEAUAEST) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [Nocturne EP](https://open.spotify.com/album/3KeZeDLfggA5icZ8HG9FHm) | 4:28 |
-| 36 | [Smother](https://open.spotify.com/track/27ViT9yPmgH4TLyXPTsQWl) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [If You Leave](https://open.spotify.com/album/31LehqnrVyTuEBEKeXeqVx) | 4:00 |
-| 37 | [Byegone](https://open.spotify.com/track/0Sq3wdy9bjXBAnkc0SO2A4) | [Volcano Choir](https://open.spotify.com/artist/6gAtOqhriLzOzb3Qqmg5kO) | [Repave](https://open.spotify.com/album/69qFYmNxf9i1kc26Cip5sZ) | 4:22 |
+| 36 | [Beautiful Hell](https://open.spotify.com/track/65q0qZbQBdPPYfAcZ7n0e3) | [Adna](https://open.spotify.com/artist/1pduOlnYE5rd4VChXbeU8g) | [Run, Lucifer](https://open.spotify.com/album/1uL86W2jobgxHMrJEGdAal) | 2:56 |
+| 37 | [Smother](https://open.spotify.com/track/27ViT9yPmgH4TLyXPTsQWl) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [If You Leave](https://open.spotify.com/album/31LehqnrVyTuEBEKeXeqVx) | 4:00 |
 | 38 | [Sausalito](https://open.spotify.com/track/3l2wMTBa64PBV7aCPwYkEf) | [Lydia Luce](https://open.spotify.com/artist/5e1SaJPn6U7YpOrNTkW1jH) | [Sausalito](https://open.spotify.com/album/3AYWgbF5x1Op6yY4MGYDgj) | 3:42 |
 | 39 | [Queen of Disaster](https://open.spotify.com/track/0PyopHInX2qJzsRUKgNnxI) | [LULLANAS](https://open.spotify.com/artist/3b8jXMWK6VSV8FlQ4hbVkd) | [Queen of Disaster](https://open.spotify.com/album/6hsSgsifs7mkMqLNLf5CpI) | 3:41 |
 | 40 | [Appointments](https://open.spotify.com/track/3jt1ZVIuluGkV0sWWLSUzw) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Turn Out the Lights](https://open.spotify.com/album/3AV0YFhIzY0LDeaJPU5x3O) | 4:33 |
 | 41 | [Milk & Honey \- Alt Version](https://open.spotify.com/track/35ZHHlrMKr7CijbD239b0g) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Writing of Blues and Yellows \(Deluxe Version\)](https://open.spotify.com/album/3WHmv6ghPoM7oA0rP6jMkT) | 4:48 |
 | 42 | [It Will Come Back](https://open.spotify.com/track/13CyXxYgWD9N5KwWqRYU1U) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier](https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq) | 4:37 |
-| 43 | [The Only Thing Worth Fighting For \- From The HBO Series True Detective](https://open.spotify.com/track/1s99Qkm5GtZ1ufweMDOfzQ) | [Lera Lynn](https://open.spotify.com/artist/2iul6etLF5hjjpxo43rzz7) | [The Only Thing Worth Fighting For \(From The HBO Series True Detective\)](https://open.spotify.com/album/00NfXHt45nh1NYwYNwL4ob) | 3:16 |
-| 44 | [O I Long to Feel Your Arms Around Me](https://open.spotify.com/track/0rGB4l2BHJhL4C1s8w6jZG) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Fear Fun](https://open.spotify.com/album/2CXVonfqGwTQu8dgr2qkNS) | 2:23 |
+| 43 | [O I Long to Feel Your Arms Around Me](https://open.spotify.com/track/0rGB4l2BHJhL4C1s8w6jZG) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Fear Fun](https://open.spotify.com/album/2CXVonfqGwTQu8dgr2qkNS) | 2:23 |
+| 44 | [The Only Thing Worth Fighting For \- From The HBO Series True Detective](https://open.spotify.com/track/1s99Qkm5GtZ1ufweMDOfzQ) | [Lera Lynn](https://open.spotify.com/artist/2iul6etLF5hjjpxo43rzz7) | [The Only Thing Worth Fighting For \(From The HBO Series True Detective\)](https://open.spotify.com/album/00NfXHt45nh1NYwYNwL4ob) | 3:16 |
 | 45 | [The War](https://open.spotify.com/track/0EnZoG9AaD0uXoffiC8KAQ) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [In My Body](https://open.spotify.com/album/3j4PehkkrV1KOF5ZvDtCxY) | 5:54 |
 | 46 | [Nica Libres At Dusk](https://open.spotify.com/track/5eSH7Aubn6Ol80ynF4MV2L) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Noonday Dream](https://open.spotify.com/album/6astw05cTiXEc2OvyByaPs) | 6:34 |
 | 47 | [By Night](https://open.spotify.com/track/2HiVLVR0RrcjQagWwuiwob) | [Puzzle Muteson](https://open.spotify.com/artist/3PkGkJmTotXKubtTksWboK) | [Theatrics](https://open.spotify.com/album/51EBcEd7bGD96iR6yXtYRC) | 3:38 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pSTOxoPbx9.md) - [plain]
 | 99 | [Stretch Your Eyes \- Radio Edit](https://open.spotify.com/track/2As5LUjQxNyXAcQWBUimY2) | [Agnes Obel](https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms) | [Stretch Your Eyes \(Radio Edit\)](https://open.spotify.com/album/7zjJtvfDH72QlMgAfBeuhc) | 4:07 |
 | 100 | [Smile](https://open.spotify.com/track/2hMl41oCsn1JDbUlCRpaRH) | [William Crighton](https://open.spotify.com/artist/4EVBuMQ6XVgxeqWKH09dBM) | [William Crighton](https://open.spotify.com/album/11iygN0BADQ3dWcAwyp3QV) | 6:02 |
 
-Snapshot ID: `MTY1NzU3NDY3MCwwMDAwMDAwMDMwNGRhZDA3NTRlNWM1NGY1YWFmNjZlYTVkM2Q0NGY2`
+Snapshot ID: `MTY1NzU3NDY3MCwwMDAwMDAwMGE5NWZiNjA3ZTkyMzhjNDEyNWIyNTk3N2FkMWMzZTIx`

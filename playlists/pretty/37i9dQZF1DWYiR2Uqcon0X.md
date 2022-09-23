@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYiR2Uqcon0X.md) - [plain]
 
 > The Country Coffeehouse is open! Grab a cup and lean back to some low\-key country.
 
-[Spotify](https://open.spotify.com/user/spotify) - 685,268 likes - 83 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 685,393 likes - 83 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYiR2Uqcon0X.md) - [plain]
 | 46 | [The Captain's Daughter](https://open.spotify.com/track/7tAmmKQz5aR8B7aFuhRkab) | [Alison Krauss & Union Station](https://open.spotify.com/artist/0OTnx2X2FDXeewcm72lavT) | [Johnny Cash: Forever Words Expanded](https://open.spotify.com/album/5QkKD6xmHdaoxCRL5NHvIp) | 4:57 |
 | 47 | [Where the Heart Is](https://open.spotify.com/track/4qaBHFw6eN6Oxa7gBXOvxv) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Sunday Drive](https://open.spotify.com/album/5am18BIdjp6lOvt9KjKbSd) | 4:07 |
 | 48 | [Wild Honey](https://open.spotify.com/track/2ekYJOliaYZ2zUb3XlLs5V) | [Anna Vaus](https://open.spotify.com/artist/3ftsk3ROAgHws85G83ppw1) | [Wild Honey](https://open.spotify.com/album/26BCtlHD1X80TZqJ5O2Mrc) | 3:33 |
-| 49 | [Coming Down the Mountain](https://open.spotify.com/track/3ogA3HTz2gSGTX8f135LJ5) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Coming Down the Mountain](https://open.spotify.com/album/6OfyzpeBx3DGxRxPTPHc5g) | 4:33 |
-| 50 | [what do i](https://open.spotify.com/track/2qG34SPqlVutAZwWe3q6iF) | [Emily James](https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy) | [Moments that mattered](https://open.spotify.com/album/4fjTSlU3zj9tH4Doq38C3S) | 3:43 |
+| 49 | [what do i](https://open.spotify.com/track/2qG34SPqlVutAZwWe3q6iF) | [Emily James](https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy) | [Moments that mattered](https://open.spotify.com/album/4fjTSlU3zj9tH4Doq38C3S) | 3:43 |
+| 50 | [Coming Down the Mountain](https://open.spotify.com/track/3ogA3HTz2gSGTX8f135LJ5) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Coming Down the Mountain](https://open.spotify.com/album/6OfyzpeBx3DGxRxPTPHc5g) | 4:33 |
 | 51 | [Supernova](https://open.spotify.com/track/66xwYKVQrraFqAwHyCDGao) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Supernova](https://open.spotify.com/album/2m9qpnKqmy3c8FbwApTSvb) | 2:36 |
 | 52 | [A House Made of You](https://open.spotify.com/track/69ZO6imfpWPajcjFeU5kNI) | [Michael Shynes](https://open.spotify.com/artist/1hoLjrdiXJoP9abACQNgx3) | [Happy Before We Get Old](https://open.spotify.com/album/0ZROSmXfCd7Yf0hNTLmlEs) | 3:24 |
 | 53 | [Better Than That](https://open.spotify.com/track/3doRPkGBQUl1ukOGagcFVs) | [Ian McConnell](https://open.spotify.com/artist/4cnccBVC82QHFHuOVxzqM1) | [Better Than That](https://open.spotify.com/album/2KsHuCJUVL0VtCqSLKxhRi) | 3:13 |
@@ -68,14 +68,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYiR2Uqcon0X.md) - [plain]
 | 58 | [War](https://open.spotify.com/track/1UxeYs0x9oyJtCpmH0QbvL) | [The Dryes](https://open.spotify.com/artist/0npnqS0C9n5uuuBQC4oEWE) | [War](https://open.spotify.com/album/5BGimDYo0GQML8zT2gTeJK) | 3:47 |
 | 59 | [St\. Louis](https://open.spotify.com/track/1sJ3GTTKEThu9LuQ2gUWku) | [David Nail](https://open.spotify.com/artist/4DZGvSv2oMkBUnPz67E6z6) | [St\. Louis](https://open.spotify.com/album/5e0JbK04Ky16eiEkULAN7n) | 4:34 |
 | 60 | [Because Of Yours](https://open.spotify.com/track/71gcKI3CKHIrkJPkk20USG) | [Jeffrey East](https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S) | [Because Of Yours](https://open.spotify.com/album/1brc4oeT2JHZmmVXXTrrrS) | 4:00 |
-| 61 | [Cheap Suit](https://open.spotify.com/track/2yWTcrs09YISrT3yXZB5Bp) | [Jeffrey Foucault](https://open.spotify.com/artist/7i36YYqKiSqVihxTcvLSBK) | [Blood Brothers](https://open.spotify.com/album/4DsOKCHNJ2RHA24Dlz68uN) | 2:38 |
-| 62 | [Without A Word](https://open.spotify.com/track/4e6dpHanuFVUxou9bKkLDN) | [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek) | [Without A Word](https://open.spotify.com/album/1rzbmMngXvWTlfm2FyMFbr) | 3:58 |
-| 63 | [Sunday Best \- Acoustic](https://open.spotify.com/track/05MAs5o6TxAmADc3JJmkv9) | [Smithfield](https://open.spotify.com/artist/1aPmWgDU4JXEWg1d2BwH5M) | [Sunday Best \(Acoustic\)](https://open.spotify.com/album/59oCat0Wfu0qZyUV1AqcA4) | 2:47 |
+| 61 | [Sunday Best \- Acoustic](https://open.spotify.com/track/05MAs5o6TxAmADc3JJmkv9) | [Smithfield](https://open.spotify.com/artist/1aPmWgDU4JXEWg1d2BwH5M) | [Sunday Best \(Acoustic\)](https://open.spotify.com/album/59oCat0Wfu0qZyUV1AqcA4) | 2:47 |
+| 62 | [Cheap Suit](https://open.spotify.com/track/2yWTcrs09YISrT3yXZB5Bp) | [Jeffrey Foucault](https://open.spotify.com/artist/7i36YYqKiSqVihxTcvLSBK) | [Blood Brothers](https://open.spotify.com/album/4DsOKCHNJ2RHA24Dlz68uN) | 2:38 |
+| 63 | [Without A Word](https://open.spotify.com/track/4e6dpHanuFVUxou9bKkLDN) | [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek) | [Without A Word](https://open.spotify.com/album/1rzbmMngXvWTlfm2FyMFbr) | 3:58 |
 | 64 | [This Town Still Talks About You](https://open.spotify.com/track/7yPmspgKN5MPOVlyAWFtsa) | [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw) | [Puxico](https://open.spotify.com/album/24wTPEb0rJiR9RdVBv9EQA) | 4:28 |
 | 65 | [Anyone](https://open.spotify.com/track/7rDz9WrGq1mCxgXZl3D0r2) | [Eric Van Houten](https://open.spotify.com/artist/4FQ4J66lTV5bpVtEKjiGeK) | [Anyone](https://open.spotify.com/album/6Mbu76NbGkVPIDF4XTBJWu) | 2:51 |
-| 66 | [Pretty Hands](https://open.spotify.com/track/0daO3mhf7lmqH1vNsGEFCJ) | [Jeffrey Foucault](https://open.spotify.com/artist/7i36YYqKiSqVihxTcvLSBK) | [Blood Brothers](https://open.spotify.com/album/4DsOKCHNJ2RHA24Dlz68uN) | 2:20 |
+| 66 | [Time Is Cold \(Coffee House Version\)](https://open.spotify.com/track/0BYkrYRN04xUnZG53OHfGS) | [Jeffrey East](https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S) | [Time Is Cold \(Coffee House Version\)](https://open.spotify.com/album/4sCjovt0vwuCj9aMMSW4dL) | 3:08 |
 | 67 | [Heartland](https://open.spotify.com/track/5o0hAYrXcdGYUlDC8j3x34) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [The Dream: Living The Dream \(Deluxe\)](https://open.spotify.com/album/0r6KIOwZvmsEd457nUJWbt) | 3:31 |
-| 68 | [Time Is Cold \(Coffee House Version\)](https://open.spotify.com/track/0BYkrYRN04xUnZG53OHfGS) | [Jeffrey East](https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S) | [Time Is Cold \(Coffee House Version\)](https://open.spotify.com/album/4sCjovt0vwuCj9aMMSW4dL) | 3:08 |
+| 68 | [Pretty Hands](https://open.spotify.com/track/0daO3mhf7lmqH1vNsGEFCJ) | [Jeffrey Foucault](https://open.spotify.com/artist/7i36YYqKiSqVihxTcvLSBK) | [Blood Brothers](https://open.spotify.com/album/4DsOKCHNJ2RHA24Dlz68uN) | 2:20 |
 | 69 | [Cowgirl](https://open.spotify.com/track/2KeIYazn8x4IobcS1aXram) | [Nelly Joy](https://open.spotify.com/artist/5LpodItaIbBuZQUyR65lGZ) | [Cowgirl](https://open.spotify.com/album/7nv5BlYzkMnp9VEo8OX0Dg) | 3:39 |
 | 70 | [Far From Home](https://open.spotify.com/track/54tkmrvf1ejo3ejAHuVgq1) | [Aubrie Sellers](https://open.spotify.com/artist/27IiEYV6p8fs5j8n39Pk1u) | [Far from Home](https://open.spotify.com/album/6EgZXWhzIYtXFo1vhKg5Ch) | 3:07 |
 | 71 | [Giving It All \(To You\)](https://open.spotify.com/track/4dQCgHy1lh24ystDObYXDB) | [Haley & Michaels](https://open.spotify.com/artist/5ko56X4u667qvCekZkcWHF) | [Giving It All \(To You\)](https://open.spotify.com/album/5SvZ3PbjCupA7edljacTMc) | 3:54 |
@@ -86,10 +86,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYiR2Uqcon0X.md) - [plain]
 | 76 | [Yesterday \- live](https://open.spotify.com/track/2PQAFvFbgTRdKSIiT4cWH4) | [Joey Greer](https://open.spotify.com/artist/0ZvGvF2SeEeUUTV8NlIXn4) | [Back My Way](https://open.spotify.com/album/1AS6HHmdIc6FXHp0ENRjsv) | 3:44 |
 | 77 | [End of the Rain](https://open.spotify.com/track/3ZzPTO2Qbo6cI72DBjOLep) | [Jason Blaine](https://open.spotify.com/artist/4k4DTNqE48dzmwOQU8PaKQ) | [End of the Rain](https://open.spotify.com/album/2AjVO7FIhjSQLqtLDm8xAb) | 3:15 |
 | 78 | [Suitcase Heart](https://open.spotify.com/track/49pwoHqxTI3xI52w883fkO) | [Tyler Cain](https://open.spotify.com/artist/7xmVA0jnh2yjM3S642J1Bd) | [This Is All There Is, Vol\. 1](https://open.spotify.com/album/6LZ2ATHpoFHve0CvBwHb4v) | 2:44 |
-| 79 | [Brighter Shade of Blue](https://open.spotify.com/track/1yyXmUb99vQ1BI1ee9gkFh) | [Jordan DePaul](https://open.spotify.com/artist/5uUIZ5FnQjqfOamzj0yK3h) | [Forces \- EP](https://open.spotify.com/album/3Q7yRMDkHa2DM3G7jx3p7I) | 3:48 |
-| 80 | [Crystal Eyes](https://open.spotify.com/track/2dW9kl7WScv2wIY9JxjNN3) | [Thomas Csorba](https://open.spotify.com/artist/21BSy0UVoDXEiRdA9v9uUH) | [Crystal Eyes](https://open.spotify.com/album/1jQ2IrQ8tqYquBkQz0LJ4Y) | 3:42 |
+| 79 | [Crystal Eyes](https://open.spotify.com/track/2dW9kl7WScv2wIY9JxjNN3) | [Thomas Csorba](https://open.spotify.com/artist/21BSy0UVoDXEiRdA9v9uUH) | [Crystal Eyes](https://open.spotify.com/album/1jQ2IrQ8tqYquBkQz0LJ4Y) | 3:42 |
+| 80 | [Brighter Shade of Blue](https://open.spotify.com/track/1yyXmUb99vQ1BI1ee9gkFh) | [Jordan DePaul](https://open.spotify.com/artist/5uUIZ5FnQjqfOamzj0yK3h) | [Forces \- EP](https://open.spotify.com/album/3Q7yRMDkHa2DM3G7jx3p7I) | 3:48 |
 | 81 | [It Don't Work Like That](https://open.spotify.com/track/0IYLEch1W0g2L6BOxypDdb) | [Kenny Foster](https://open.spotify.com/artist/0awfhMMIeRArR1ESXbCmW4) | [It Don't Work Like That](https://open.spotify.com/album/3i8Mp5tQop1sdcXkJPbfi2) | 3:01 |
 | 82 | [Breaking Hearts The Hard Way](https://open.spotify.com/track/4bhDhtSwRVRNoLZIy5cbfM) | [Kenton Bryant](https://open.spotify.com/artist/2RAufxLZxgdARBDirloCoB) | [Small Town Lyric: Side B](https://open.spotify.com/album/4uIM8wOcL3tU7F44o29LMs) | 3:09 |
 | 83 | [Back to You](https://open.spotify.com/track/5tXygo2KgUWVhpvYW7r0I5) | [Jedd Hughes](https://open.spotify.com/artist/6aZmqT6ycUdRsm7fF7ndwH) | [Back to You](https://open.spotify.com/album/6oKON9XPW9sB4CBnrQL3rs) | 3:44 |
 
-Snapshot ID: `MTY2MjA5MTIwMCwwMDAwMDAwMGFmOTI5MDYyOWI0OGY5NGZiYWRmNTgyOTQ1ZWY1NWQz`
+Snapshot ID: `MTY2MjA5MTIwMCwwMDAwMDAwMDFkZTliNzc4NzUwMWI0YzEzMDRjMTRkYzk5NDY4MWQ0`

@@ -4,7 +4,7 @@
 
 > Home to the best of South Asian Indie scene\. Cover: Mitraz
 
-114 songs - 6 hr 29 min - [published](https://open.spotify.com/playlist/3EgngKMIU7QCN4I9Kyv7gp)
+115 songs - 6 hr 34 min - [published](https://open.spotify.com/playlist/3EgngKMIU7QCN4I9Kyv7gp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Faltu Pyar](https://open.spotify.com/track/1yFryDjhXXIIaJA1dKqrab) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Natasha Noorani](https://open.spotify.com/artist/1nGL9DljVpkRcayU8Wi285), [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS) | [Faltu Pyar](https://open.spotify.com/album/5DfIEUN6BSCNEETICvOQtm) | 3:41 | 2022-06-20 |  |
 | [Filhaal](https://open.spotify.com/track/0PNU96DGl5PRswbstQgbtv) | [Towers](https://open.spotify.com/artist/3RtQy4G1wwfnhyegf4czBO) | [Filhaal](https://open.spotify.com/album/7ClbtfOcCG9bzO30ZTRgI2) | 4:15 | 2022-05-20 | 2022-07-16 |
 | [Funk Song](https://open.spotify.com/track/53LVgD7RguP5syVZfA76G7) | [Kidjaywest](https://open.spotify.com/artist/2S34cREqbQ10LEU0hvvpCF), [Talwiinder](https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN), [Ikath](https://open.spotify.com/artist/1KIIFjHeTZ2xy5WKJ7L6fI) | [Funk Song](https://open.spotify.com/album/0ifu1eR55sv3ZZX0BvHsTp) | 2:52 | 2022-07-15 | 2022-09-02 |
+| [Gaayab](https://open.spotify.com/track/6yxyxncMxTxyU05fD5lRMk) | [Raman Negi](https://open.spotify.com/artist/1ZsF8DeNQav5xvu4X5KsYB) | [Gaayab](https://open.spotify.com/album/3qGhJwL6Y2tY2t9lJNHiOS) | 4:22 | 2022-09-22 |  |
 | [Ghum Nahi](https://open.spotify.com/track/4rqgYSkALihMTO4OUAPUk2) | [JANI](https://open.spotify.com/artist/63L8XYlQRWRGlg1d4ujXDc), [superdupersultan](https://open.spotify.com/artist/04ENOEpTQgKEVWrvlHwdzN) | [Ghum Nahi](https://open.spotify.com/album/4ktyI8XAm8uUNNhYg8rRdi) | 3:22 | 2022-07-15 | 2022-09-02 |
 | [Ghuroor](https://open.spotify.com/track/7jMjMcyt3qxEkbC0s8LJQf) | [Izzchughtai](https://open.spotify.com/artist/211ei6ZiUeBMIXUZGBaJ4S), [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1) | [Ghuroor](https://open.spotify.com/album/4XcK8cuV6rHuppTwoJrEiG) | 3:18 | 2022-07-15 | 2022-09-02 |
 | [Gumsum](https://open.spotify.com/track/5on36dq2B35S2RRGvNQCRo) | [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL) | [Gumsum](https://open.spotify.com/album/21daR74kGnsJmxjfvKIE2r) | 2:55 | 2022-05-20 | 2022-07-16 |

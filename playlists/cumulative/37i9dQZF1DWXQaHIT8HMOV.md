@@ -4,7 +4,7 @@
 
 > Top hits from homegrown artists showcasing rich culture and talent from Uganda
 
-60 songs - 3 hr 5 min - [published](https://open.spotify.com/playlist/5zBxtGWhSLF9WlVV5CcxnH)
+64 songs - 3 hr 18 min - [published](https://open.spotify.com/playlist/5zBxtGWhSLF9WlVV5CcxnH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,11 +43,13 @@
 | [Leaving Summer](https://open.spotify.com/track/5rcpZXk678vSZxMcz8ZGz6) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV), [Akeine](https://open.spotify.com/artist/2RuHphW7LRCASStgHSFmds) | [Leaving Summer](https://open.spotify.com/album/3WXVLlMIZOLqmPkZTJqHWT) | 2:37 | 2022-09-09 |  |
 | [LIFIST](https://open.spotify.com/track/045zyz72HMi2gx0hfPnK6m) | [Fik Fameica](https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5) | [LIFIST](https://open.spotify.com/album/7h8sc5E5STX1XovzqXzjUO) | 3:34 | 2022-06-24 |  |
 | [Love \- Remix](https://open.spotify.com/track/5yef0whc1psSC6RDmE5ObC) | [Teslah](https://open.spotify.com/artist/29d1gtSpXDMaZLyvHIZw4u), [Jaz On The Beat](https://open.spotify.com/artist/4K9uuaA2QxgKJtSX7uSwkf) | [Love \(Remix\)](https://open.spotify.com/album/7e5K2OZi6p0jEVRySYDEU0) | 3:02 | 2022-05-12 | 2022-08-20 |
+| [Low](https://open.spotify.com/track/1sHswMDDPk44WSkMh3lJN6) | [Eddy Kenzo](https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j), [Latinum](https://open.spotify.com/artist/4L3ta0ADfVnBdi04utLTqA) | [Low](https://open.spotify.com/album/60yKgbxVfxilQTFfxQ5SLb) | 3:21 | 2022-09-22 |  |
 | [MAJJE](https://open.spotify.com/track/0WtWi9rYWUAwq57vbA6y2k) | [Azawi](https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR), [Fik Fameica](https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5) | [AFRICAN MUSIC](https://open.spotify.com/album/7IHzR8vlurQJjUg9sP4T7E) | 3:30 | 2022-05-12 |  |
 | [Mbipambana](https://open.spotify.com/track/03Oa6GiBpDJSpazfZixZKy) | [Heather Nanteza](https://open.spotify.com/artist/0sA6V5qSFuTnAFaNdo4pHJ), [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo) | [Mbipambana](https://open.spotify.com/album/6agyrH6gmk3uz1JAAj7MIR) | 3:05 | 2022-05-12 |  |
 | [Medalli](https://open.spotify.com/track/0eK5i2ADiozLxvSGCHjeVh) | [Ill Gee](https://open.spotify.com/artist/3bsKojJ5YjloiR72zszfmW) | [Medalli](https://open.spotify.com/album/34OoUv85ylvOjGKKdFVi5I) | 2:18 | 2022-07-22 |  |
 | [Melody](https://open.spotify.com/track/170CNdSxk5vIQNinTIl9XH) | [Josh Buxton](https://open.spotify.com/artist/4Guu0ZYrcI2naNVmQVje5n) | [Mperekera](https://open.spotify.com/album/3JVNzLhSAPBmJpmbBy5Ivb) | 2:59 | 2022-05-12 |  |
 | [Mpakasa](https://open.spotify.com/track/3pwBAkk0rCwXl2nDmcY9es) | [Fik Fameica](https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5) | [Mpakasa](https://open.spotify.com/album/0IJXotvomhn59wnb0g7u3v) | 3:06 | 2022-09-01 | 2022-09-10 |
+| [Mufele \- Radio Edit](https://open.spotify.com/track/2MSgpEYfJpDa4j9g6R32Lm) | [Angella Katatumba](https://open.spotify.com/artist/1xiwy2IYNqMyae2Eot9nCH) | [Mufele \(Radio Edit\)](https://open.spotify.com/album/2FyvNRC4xnpeWTIMRXWxEA) | 2:21 | 2022-09-22 |  |
 | [Nguwayo](https://open.spotify.com/track/1oWaNysQNktTIh7Ro0My1E) | [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo) | [Nguwayo](https://open.spotify.com/album/6sea4jShgdOs8oNE4aAl1t) | 3:01 | 2022-05-12 | 2022-08-20 |
 | [Nkwata Bulungi \(Bailamos\)](https://open.spotify.com/track/7ov7271CIF8N5V5r6IspKw) | [Sheebah](https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu) | [Nkwata Bulungi \(Bailamos\)](https://open.spotify.com/album/5z0xDgKDEnZGSPUxIcikEV) | 3:07 | 2022-05-12 |  |
 | [Nteredde](https://open.spotify.com/track/7obRw7Iy6DbqvyuPyiqzUj) | [Ugaboys](https://open.spotify.com/artist/3MJRn5EWi6McEFbI00qNGe) | [Nteredde](https://open.spotify.com/album/6JcRkrtxzHACyHQytZ37z1) | 3:14 | 2022-07-08 |  |
@@ -55,8 +57,10 @@
 | [Omwana Wabandi \- Remix](https://open.spotify.com/track/0vK7OUdfdcCiucULQAPE59) | [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo), [Lex Raven](https://open.spotify.com/artist/3mZYpQsk8ZyHkMCdtQL4iM) | [Omwana Wabandi \(Remix\)](https://open.spotify.com/album/2SJek9xY189sLRGmm17vin) | 2:44 | 2022-05-12 | 2022-09-02 |
 | [One Bite](https://open.spotify.com/track/6OOi3c5ikce6w19EN5Mp1T) | [Vinka](https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES) | [One Bite](https://open.spotify.com/album/5806Vs0UN9KhUaJwKEc7TO) | 2:54 | 2022-06-24 |  |
 | [Osobola](https://open.spotify.com/track/3Bz6rWbCF6dPyGZUWnfq4q) | [Emilian Starz](https://open.spotify.com/artist/2S7N3sP6mqXp5yyu82QWOb) | [Osobola](https://open.spotify.com/album/6Y0mGvsjLUQUb2E7twJlws) | 3:13 | 2022-08-05 |  |
+| [Part2 \(Dinner in Maui\)](https://open.spotify.com/track/6DuJn4hkMAzb4Iiamim1Te) | [Hermez](https://open.spotify.com/artist/168iTeZjIZlN7Sc8ieZJl6), [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b) | [Part2 \(Dinner in Maui\)](https://open.spotify.com/album/2RjYPIml5GBer8oZvUV1OO) | 3:13 | 2022-09-22 |  |
 | [Personal](https://open.spotify.com/track/75GrSLQFXf1tWzgHBEUvd9) | [Zulitums](https://open.spotify.com/artist/7KJHPQ0SRCI3AlxKX7heea) | [Personal](https://open.spotify.com/album/5wYH1MacgZZEpIew5uQBTF) | 3:10 | 2022-05-12 |  |
 | [Pirepe](https://open.spotify.com/track/1c6pBk5cUupGEKuEc8gpgT) | [Suzan Kerunen](https://open.spotify.com/artist/2aNSI0ak2Os9PHD11PdkHr), [Aloysius Migadde](https://open.spotify.com/artist/7rJOWggakrq6vVC3gQ35XY) | [From Ashes We Rise](https://open.spotify.com/album/6qdLGSQgD4Qnl088lO3lgp) | 4:25 | 2022-05-12 | 2022-08-20 |
+| [Raha](https://open.spotify.com/track/2GJMYdqcS8uMRdUdwHJCY1) | [Navio](https://open.spotify.com/artist/0itCt7khLTvv5WqlMJwYNQ) | [Vibes Out The East](https://open.spotify.com/album/0qYAUeR7eF1HCKJGmRgLoz) | 3:32 | 2022-09-22 |  |
 | [Riri](https://open.spotify.com/track/6uuhUQUMzrnEZdTaTwpgYZ) | [$hyli](https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ) | [Riri](https://open.spotify.com/album/0YbmSdTyRouipTci3DtkQv) | 3:35 | 2022-05-12 |  |
 | [Sakata](https://open.spotify.com/track/1vOBjsXST8IjLgoUZIwDU6) | [Authentically Plastic](https://open.spotify.com/artist/1Gum664eHo0JeNdHWb4hoY) | [Sakata](https://open.spotify.com/album/7oscxpiTiwjPlcBdqYa4uX) | 3:42 | 2022-07-22 |  |
 | [Simple Guy](https://open.spotify.com/track/4doqYzAKym2GER3mDaU8jy) | [Pallaso](https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5) | [Simple Guy](https://open.spotify.com/album/0xJrCs4TbSSdZUNPpFRjUy) | 3:42 | 2022-07-22 |  |

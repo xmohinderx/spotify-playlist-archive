@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvrPFPIwgwG.md) - [plain]
 
 > Ouça as novidades e grandes louvores Pentecostais\. Foto: Damares, Canção & Louvor
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,985 likes - 85 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,018 likes - 85 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,10 +42,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvrPFPIwgwG.md) - [plain]
 | 32 | [Tenha Paciência](https://open.spotify.com/track/0KeALyJoGCqwFR78aguHix) | [Raquel Olliver](https://open.spotify.com/artist/0CsY0kk9b1XBXwvytj42fx) | [Tenha Paciência](https://open.spotify.com/album/7cRSXJv5T9rvK5VoMXjmsa) | 4:46 |
 | 33 | [Só Faz Ajudar](https://open.spotify.com/track/3c3DAV2Q8jWj24cLUqUMYI) | [Vitória Souza](https://open.spotify.com/artist/07tsf3FXOQCLN2djNLUT2j) | [Só Faz Ajudar](https://open.spotify.com/album/6sYO4VBVtTS40LaEvZ5sAv) | 4:27 |
 | 34 | [Supremo Dom](https://open.spotify.com/track/1ViDZv97Xvv5QRHNTfKbNg) | [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B) | [Supremo Dom](https://open.spotify.com/album/51FV6z6vJKdIJHvKg4hkdx) | 4:55 |
-| 35 | [Prossiga \(feat\. Midian Lima\)](https://open.spotify.com/track/0Q4kMlGILF6jZvfEDFnZBz) | [André e Felipe](https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Em Meu Coração](https://open.spotify.com/album/62yuV0UZe17S9roAFW5GFa) | 4:32 |
+| 35 | [Forma de Cuidado \(Ao Vivo\)](https://open.spotify.com/track/6KOtFGXB6I18VCgaQrG0IS) | [Valesca Mayssa](https://open.spotify.com/artist/4K4fsuNkaAwysF3AxRPLNh), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Forma de Cuidado \(Ao Vivo\)](https://open.spotify.com/album/2acF6eJqkOSqlXiH97dBsa) | 4:04 |
 | 36 | [Deus Vai Te Honrar](https://open.spotify.com/track/2LUxOHDMLlfkhupqcg8eJn) | [Stella Laura](https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm) | [Deus Vai Te Honrar](https://open.spotify.com/album/1PPYeNy0331Sw7V3KUDBxn) | 4:22 |
 | 37 | [Aguenta Firme](https://open.spotify.com/track/273szeex8IxWLBi7V6VJQe) | [Paulo Neto](https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko) | [Aguenta Firme](https://open.spotify.com/album/1BZzOyKEOWRvtkePWXcYYr) | 4:38 |
-| 38 | [Forma de Cuidado \(Ao Vivo\)](https://open.spotify.com/track/6KOtFGXB6I18VCgaQrG0IS) | [Valesca Mayssa](https://open.spotify.com/artist/4K4fsuNkaAwysF3AxRPLNh), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Forma de Cuidado \(Ao Vivo\)](https://open.spotify.com/album/2acF6eJqkOSqlXiH97dBsa) | 4:04 |
+| 38 | [Prossiga \(feat\. Midian Lima\)](https://open.spotify.com/track/0Q4kMlGILF6jZvfEDFnZBz) | [André e Felipe](https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Em Meu Coração](https://open.spotify.com/album/62yuV0UZe17S9roAFW5GFa) | 4:32 |
 | 39 | [O Noivo Virá](https://open.spotify.com/track/4H5tuVx6j0UqcWVAaJt9qu) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [O Noivo Virá](https://open.spotify.com/album/6W6VSlerbFI3dvGgiOX7pE) | 6:29 |
 | 40 | [Profetiza](https://open.spotify.com/track/27XhnRnhyicK7dn2Ui8AeH) | [Jozyanne](https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh), [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Profetiza](https://open.spotify.com/album/6IgJb5EU0zSGlqlsLfFbzm) | 4:54 |
 | 41 | [Abraço e Renovo](https://open.spotify.com/track/0KipyY3ja1r9oaUUAuZE4E) | [Canção & Louvor](https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu) | [Abraço e Renovo](https://open.spotify.com/album/4MsZ3ZFjzjp5ygxVHSi5zB) | 5:02 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvrPFPIwgwG.md) - [plain]
 | 51 | [Vendavais](https://open.spotify.com/track/1kFTihWjdy8DCeSuxagORd) | [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI) | [Vendavais](https://open.spotify.com/album/1w5kjZKJAjcFQAbfvt0INc) | 4:44 |
 | 52 | [De Repente](https://open.spotify.com/track/1bltH7HeykQVo3moYUzPbb) | [Léa Mendonça](https://open.spotify.com/artist/73Ye0Yvwvanmf6bqXAez97), [Amanda Wanessa](https://open.spotify.com/artist/4kvOhoqtLM66VLWfcUv4Hm) | [De Repente](https://open.spotify.com/album/2wPvQ8BV6wt0SZZqYii17K) | 4:06 |
 | 53 | [Deus Realiza Sonhos](https://open.spotify.com/track/4l0uNo61OKaZCyvkTSDSOW) | [Antônia Gomes](https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe) | [Deus Realiza Sonhos](https://open.spotify.com/album/1MfOrRnrObyxnSchOAfcyN) | 5:45 |
-| 54 | [Você Disse](https://open.spotify.com/track/6EogdYz9DwIG7YZziqj9Js) | [Claudio Louvor](https://open.spotify.com/artist/4g5J5IEGJ5DzEyCqJbHEJA) | [Você Disse](https://open.spotify.com/album/4uqGFeLGkX5Yt6hNSHHDQ8) | 4:37 |
-| 55 | [Há uma Saída: 45 Anos \- Ao Vivo](https://open.spotify.com/track/5lpWmEhS3Z7ZCEwyBUEafc) | [Shirley Carvalhaes](https://open.spotify.com/artist/6HNIWHUiKtaQwzY424iplT), [Elaine de Jesus](https://open.spotify.com/artist/6bGbc8Wuk79kOzhCDWmeQQ) | [Há uma Saída: 45 Anos \(Ao Vivo\)](https://open.spotify.com/album/0xIK85RxLHAbOyqeWpAdYv) | 6:17 |
+| 54 | [Há uma Saída: 45 Anos \- Ao Vivo](https://open.spotify.com/track/5lpWmEhS3Z7ZCEwyBUEafc) | [Shirley Carvalhaes](https://open.spotify.com/artist/6HNIWHUiKtaQwzY424iplT), [Elaine de Jesus](https://open.spotify.com/artist/6bGbc8Wuk79kOzhCDWmeQQ) | [Há uma Saída: 45 Anos \(Ao Vivo\)](https://open.spotify.com/album/0xIK85RxLHAbOyqeWpAdYv) | 6:17 |
+| 55 | [Você Disse](https://open.spotify.com/track/6EogdYz9DwIG7YZziqj9Js) | [Claudio Louvor](https://open.spotify.com/artist/4g5J5IEGJ5DzEyCqJbHEJA) | [Você Disse](https://open.spotify.com/album/4uqGFeLGkX5Yt6hNSHHDQ8) | 4:37 |
 | 56 | [Vai Se Cumprir](https://open.spotify.com/track/550RtH8cLuEu2IIL6pJXG9) | [Camilly Vitória](https://open.spotify.com/artist/4rUGVlkSvIQX76x3P54ObH), [Kiara Vitória](https://open.spotify.com/artist/7isz29frg8jk2TERqWfP00) | [Vai Se Cumprir](https://open.spotify.com/album/5x3DpJwDkKrcfnp6SV6cEg) | 4:08 |
 | 57 | [Eu Te Toquei \- Ao Vivo](https://open.spotify.com/track/1iLSgpZIY86S7sNElnJnYp) | [Nathália Braga](https://open.spotify.com/artist/4QkSOV4m3EYCOhZXK9y5vV) | [Eu Te Toquei \(Ao Vivo\)](https://open.spotify.com/album/1y157yrC9IY6bVjkkJrrDn) | 5:19 |
 | 58 | [Olha Você Aí](https://open.spotify.com/track/3lmKyXR7M4bTrzUWrM90eM) | [Antônia Gomes](https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe) | [Olha Você Aí](https://open.spotify.com/album/0hSIqNjbnDJdWlwUpzwKd4) | 5:02 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvrPFPIwgwG.md) - [plain]
 | 84 | [Basta uma Palavra](https://open.spotify.com/track/0N5lJZVZ2fnAUcNH921nDL) | [Angélica Azevedo Oficial](https://open.spotify.com/artist/29C07hDeBxC0pbCDWiwXYE) | [Basta uma Palavra](https://open.spotify.com/album/1ZgQqx0JZRWhsRFwluUwlk) | 3:59 |
 | 85 | [Maior Esperança](https://open.spotify.com/track/1ZRnMbEWclfT2LNCFQbdSO) | [Alugiana](https://open.spotify.com/artist/6JWO2kpkeZtMHP4fQxPCaV) | [Maior Esperança](https://open.spotify.com/album/0aacsowIPdD2jIMkO2t3cd) | 6:23 |
 
-Snapshot ID: `MTY2MjY5MjQwMCwwMDAwMDAwMDBkZmZiZTFmOTkwNzc1MDJlMjIzNjgzM2Q0MTU5NjEz`
+Snapshot ID: `MTY2MjY5MjQwMCwwMDAwMDAwMGQ3ODliMjY3NGFlNzUxYWM1MWExY2FkZTdmNTEzMzg0`

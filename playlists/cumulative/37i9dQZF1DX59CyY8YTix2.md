@@ -4,7 +4,7 @@
 
 > Japanese female rock icons\. Cover: BAND\-MAID
 
-592 songs - 1 day 14 hr 3 min - [published](https://open.spotify.com/playlist/5oLzS8mnacSvAW2zqgcbrN)
+593 songs - 1 day 14 hr 9 min - [published](https://open.spotify.com/playlist/5oLzS8mnacSvAW2zqgcbrN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -264,6 +264,7 @@
 | [いなくなったもの](https://open.spotify.com/track/6jUHx2SGaAtxNWyT6kqAIO) | [最果テルーティン](https://open.spotify.com/artist/2yAThkujbnqrhoqPMdoxpX) | [ないちゃった、](https://open.spotify.com/album/62scCEXozPOw1OmCGf3Vkl) | 5:04 | 2022-08-30 | 2022-09-07 |
 | [いらない](https://open.spotify.com/track/0SF7KDPsfbo20srTywlYY4) | [レイラ](https://open.spotify.com/artist/1q6rCB21jRvn4eofLLuWOf) | [World](https://open.spotify.com/album/0jKElKSvShqqPMoGAaSzR1) | 3:15 | 2022-06-02 | 2022-07-04 |
 | [うみべの町](https://open.spotify.com/track/7KKXHXX913wiVckdwtYkNj) | [揺らす](https://open.spotify.com/artist/2gY7l0hsZP0p2G2HNsXmin) | [うみべの女の子](https://open.spotify.com/album/7qxZ61rX3UI5Bp1q4Bnx0X) | 3:30 | 2022-06-30 | 2022-07-15 |
+| [おもちゃ箱はタイムマシン](https://open.spotify.com/track/0sg85QLa5f8Z0m1eWSqkyI) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [おもちゃ箱はタイムマシン](https://open.spotify.com/album/3l1zYsPI4PH6TO8RQHotyc) | 5:48 | 2022-09-22 |  |
 | [かくれん坊](https://open.spotify.com/track/1L3UMJURyF9UVc2Z4O16s6) | [黒子首](https://open.spotify.com/artist/56pKIRNnzK6xCW508ohOo3) | [ぼやぁ\~じゅ](https://open.spotify.com/album/5sw6cVMbXiNO6T7i5vfCP5) | 3:52 | 2022-08-02 | 2022-09-15 |
 | [かつて天才だった俺たちへ \(feat\. ASOBOiSM\)](https://open.spotify.com/track/7hEGeTypOtmAiNKaKVPxqn) | [AFTER HOURS](https://open.spotify.com/artist/0tt41FYRZVpxGMpgCaOmGi), [ASOBOiSM](https://open.spotify.com/artist/5DdX6WAZixq5ZN5eGg068D) | [かつて天才だった俺たちへ \(feat\. ASOBOiSM\)](https://open.spotify.com/album/0aY7cHP9Q2gj7NlpIrEyWb) | 3:26 | 2022-05-31 | 2022-06-10 |
 | [かみさま](https://open.spotify.com/track/5LmRV82wzYcX3rLSkB6D1k) | [Kuhakugokko](https://open.spotify.com/artist/1t2jU16aGbeRc63vVMf1Zn) | [かみさま/サンクチュアリ](https://open.spotify.com/album/2CxEoP6oJFyMcQLuhxgYM5) | 3:53 | 2022-06-23 | 2022-07-10 |
@@ -555,7 +556,7 @@
 | [祥月](https://open.spotify.com/track/7pw4Ae2KKbwo86OPbrm7i8) | [あたらよ](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [祥月](https://open.spotify.com/album/65J8BQK0PRT8qmqZdz53Hz) | 4:17 | 2022-06-02 | 2022-06-28 |
 | [私たちってかわいそう?](https://open.spotify.com/track/2fpBndy4bPFRPTJxBmmQ7l) | [ゆ～すほすてる](https://open.spotify.com/artist/3EI9Wy1WFeNy9dbZofQeKW) | [私たちってかわいそう?](https://open.spotify.com/album/1RNTBlSFkj1JAcS4GOY4Bj) | 3:58 | 2022-06-14 | 2022-06-29 |
 | [私の真心](https://open.spotify.com/track/5ZZzoCTdBPAMog1IyljHac) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [私の真心](https://open.spotify.com/album/0MGw3b3E2012pYRo0Rh94F) | 7:01 | 2022-06-07 | 2022-07-25 |
-| [私生活 \- 新訳版](https://open.spotify.com/track/0VNPsx1SsHyJCyvNwSYTHo) | [Tokyo Incidents](https://open.spotify.com/artist/6KQWWzFLPQbqomJrieHAW5) | [私生活 \(新訳版\)](https://open.spotify.com/album/2SOjoKF4ZeCGlEYU9osbWA) | 3:38 | 2022-06-02 |  |
+| [私生活 \- 新訳版](https://open.spotify.com/track/0VNPsx1SsHyJCyvNwSYTHo) | [Tokyo Incidents](https://open.spotify.com/artist/6KQWWzFLPQbqomJrieHAW5) | [私生活 \(新訳版\)](https://open.spotify.com/album/2SOjoKF4ZeCGlEYU9osbWA) | 3:38 | 2022-06-02 | 2022-09-23 |
 | [積乱雲の下で](https://open.spotify.com/track/6fNtxTx6Ic15mlXlGiNXG6) | [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM) | [積乱雲の下で](https://open.spotify.com/album/1PtvRzDk8nMaURJ3G0fs55) | 3:30 | 2022-06-02 | 2022-06-28 |
 | [空とビール](https://open.spotify.com/track/74qvHeWqG6wjvEqnc46vuJ) | [ナツノコエ](https://open.spotify.com/artist/6IeQH1Haeo0wYA0klPh5X6) | [空とビール](https://open.spotify.com/album/5RixdW8Oe3w9xJbKdwOSF4) | 3:33 | 2022-05-31 | 2022-07-08 |
 | [絶対](https://open.spotify.com/track/2TsxnvrERFElzCEZ1FnIZ1) | [Uniolla](https://open.spotify.com/artist/46FRoaRwYgXPq0HGAdTRDU) | [絶対](https://open.spotify.com/album/1sO6sSqKL4CVKfOQzUCppf) | 4:08 | 2022-06-16 | 2022-07-21 |

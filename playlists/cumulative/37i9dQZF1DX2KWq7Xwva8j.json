@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Descubre hoy a los artistas de ma\u00f1ana. Foto: Marmi",
+  "description": "Descubre hoy a los artistas de ma\u00f1ana. Foto: Cyril Kamer",
   "name": "Radar Espa\u00f1a",
   "published_playlist_ids": [
     "0uaQZzCtnp7y3M4o0OYD28"
@@ -565,7 +565,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 201290,
       "name": "De Cero",
       "url": "https://open.spotify.com/track/5r8IK44DM54gjzDxEuz9M2"
@@ -725,6 +725,24 @@
       "duration_ms": 108250,
       "name": "Dunas",
       "url": "https://open.spotify.com/track/0NzUqCoIruBP1d1z8s81dU"
+    },
+    {
+      "album": {
+        "name": "Duro",
+        "url": "https://open.spotify.com/album/083xEEO2J9kKFQS7vAvxZ9"
+      },
+      "artists": [
+        {
+          "name": "Cyril Kamer",
+          "url": "https://open.spotify.com/artist/3J1MhhyXLJRNRZVrx11Lbf"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Duro",
+      "url": "https://open.spotify.com/track/69v35PjrZ0YV6G2e46aDL9"
     },
     {
       "album": {
@@ -1076,6 +1094,24 @@
     },
     {
       "album": {
+        "name": "J*DER",
+        "url": "https://open.spotify.com/album/1h87OcIP6KuNxXp0vsxtZy"
+      },
+      "artists": [
+        {
+          "name": "Rorro",
+          "url": "https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127661,
+      "name": "J*DER",
+      "url": "https://open.spotify.com/track/01z5gGmtYds3vaSREf9JuI"
+    },
+    {
+      "album": {
         "name": "C\u00f3mo decirte, mi amor",
         "url": "https://open.spotify.com/album/5iwpXxPIQS2wGBhUZpbwTY"
       },
@@ -1185,7 +1221,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 154285,
       "name": "La Lluvia",
       "url": "https://open.spotify.com/track/5aM5QibidKdtMMB8YzGhtR"
@@ -2205,7 +2241,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 190484,
       "name": "Sol de Ayer",
       "url": "https://open.spotify.com/track/7JuH6cT4H9Go3hvdGY4BbG"
@@ -2567,6 +2603,24 @@
       "duration_ms": 100744,
       "name": "uno x ciento",
       "url": "https://open.spotify.com/track/0cbp157hyiM0c9XVLb0Mqk"
+    },
+    {
+      "album": {
+        "name": "Veo tan Dentro",
+        "url": "https://open.spotify.com/album/69MjZjIJ1dmeDF9vjXNtue"
+      },
+      "artists": [
+        {
+          "name": "Depresi\u00f3n Sonora",
+          "url": "https://open.spotify.com/artist/2oCrGFAUJwBVFaaIM8c0AO"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239933,
+      "name": "Veo tan Dentro",
+      "url": "https://open.spotify.com/track/0IG1i3O84chtFIQMsKg6TD"
     },
     {
       "album": {

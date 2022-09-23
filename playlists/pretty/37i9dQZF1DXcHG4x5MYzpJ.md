@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcHG4x5MYzpJ.md) - [plain]
 
 > Mientras no dejes de cantar, la playlist no deja de sonar\. Alfredo Olivas en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,014 likes - 125 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,155 likes - 125 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

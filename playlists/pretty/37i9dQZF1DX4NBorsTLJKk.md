@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NBorsTLJKk.md) - [plain]
 
 > 天空灰灰的、到處溼淋淋的，我們聽歌就好，先不要去感覺那些事。
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,932 likes - 75 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,945 likes - 75 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NBorsTLJKk.md) - [plain]
 | 58 | [雨](https://open.spotify.com/track/0Ou6DX7cbRYrofS4gLe88v) | [Empty ORio](https://open.spotify.com/artist/5XuYYh7VssmjmETxEBUF2M) | [EmptyORio](https://open.spotify.com/album/0Jh3xk4JvrzI4KFSvzo9tx) | 2:52 |
 | 59 | [最愛雨天](https://open.spotify.com/track/3yUnqU8SLFOdraGY5lCueD) | [小男孩樂團](https://open.spotify.com/artist/4N9mUjAWoNCkLN0kCxzaL5) | [Everything](https://open.spotify.com/album/1rE6znC1DlxxgHUyqsDLYe) | 4:10 |
 | 60 | [雨季中](https://open.spotify.com/track/0DYYzMxj5aGKbYJIQRRpQi) | [Elva Hsiao](https://open.spotify.com/artist/6yTAPw3o7oDH7lhj34jvbH) | [紅薔薇 蕭亞軒](https://open.spotify.com/album/3JkpICoTdCueQSw4O12iN7) | 4:30 |
-| 61 | [Rain in Taipei](https://open.spotify.com/track/2lrNjDXlD2GKjGR93U26ZN) | [鄭興](https://open.spotify.com/artist/5zawO99pOdAzrwyJSSu5qE) | [When I Leave Taipei](https://open.spotify.com/album/4Q7lWTYxppgchu3kJ3lcwp) | 4:34 |
-| 62 | [雨天的尾巴 \- 滬尾小情歌](https://open.spotify.com/track/4kDhpezOgkieB3LA0xtL9C) | [Cheer Chen](https://open.spotify.com/artist/4m0xrEWYU0yCUFMaga015T) | [陳綺貞 精選](https://open.spotify.com/album/6OEP6qEplZpiSJ4bPzQtAY) | 3:35 |
+| 61 | [雨天的尾巴 \- 滬尾小情歌](https://open.spotify.com/track/4kDhpezOgkieB3LA0xtL9C) | [Cheer Chen](https://open.spotify.com/artist/4m0xrEWYU0yCUFMaga015T) | [陳綺貞 精選](https://open.spotify.com/album/6OEP6qEplZpiSJ4bPzQtAY) | 3:35 |
+| 62 | [Rain in Taipei](https://open.spotify.com/track/2lrNjDXlD2GKjGR93U26ZN) | [鄭興](https://open.spotify.com/artist/5zawO99pOdAzrwyJSSu5qE) | [When I Leave Taipei](https://open.spotify.com/album/4Q7lWTYxppgchu3kJ3lcwp) | 4:34 |
 | 63 | [被雨困住的城市](https://open.spotify.com/track/4PdRKbD69HOOSTsB5Q76wk) | [Sodagreen](https://open.spotify.com/artist/3WYT2b8pOLsLsqSaoWYr7U) | [小宇宙](https://open.spotify.com/album/2yhTPiBJRuRjofOIEDLJGw) | 4:18 |
 | 64 | [如果你能到我的雨裡面](https://open.spotify.com/track/6ZIoEvPsWnyun3w3QXBeJN) | [白頻率 White Frequency](https://open.spotify.com/artist/4tREKMNVSLyiI0K6IhgHVc) | [如果你能到我的雨裡面](https://open.spotify.com/album/5nEFRdFxPGdN5M2nSYSznd) | 5:08 |
 | 65 | [冰雨](https://open.spotify.com/track/4N3WwdlmKij0R0fd02Ykli) | [E\-Jun Lee](https://open.spotify.com/artist/39YbP9PakVwqfXFtRdn5vI) | [翊往情深](https://open.spotify.com/album/0TKfNt0Mr56TJtBKMOPSHQ) | 4:09 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NBorsTLJKk.md) - [plain]
 | 74 | [雨與你](https://open.spotify.com/track/01BQfSbNd3LflgSiPXizkO) | [陳建年](https://open.spotify.com/artist/1UAZlkup3OPkbEYiH8tlbi) | [海洋音樂創作專輯](https://open.spotify.com/album/3lgDIJPRUSsSgim5cBZ5mE) | 6:09 |
 | 75 | [等雨](https://open.spotify.com/track/6ZFbVCOCfticaZjBQ0dLDA) | [Hu Xia](https://open.spotify.com/artist/3iRqbMhzyOyoCkmmMRxLWR) | [拾](https://open.spotify.com/album/5AgltDdpS6cBwYNsctFypI) | 4:09 |
 
-Snapshot ID: `MTY2MjM0NzE5NywwMDAwMDAwMDgwMjJhNzNlMWYzODkxMjc4NjBiOWM0NTU0ZmIxMWNi`
+Snapshot ID: `MTY2MjM0NzE5NywwMDAwMDAwMDRhNmI1YmE5ZTdjZGU1Y2NiYmE1ZTg3NjYwOGE3NjY4`

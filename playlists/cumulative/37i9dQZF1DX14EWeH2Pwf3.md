@@ -2,9 +2,9 @@
 
 ### [Plus Ultra](https://open.spotify.com/playlist/37i9dQZF1DX14EWeH2Pwf3)
 
-> La playlist urban più grande d'Italia\. Cover: James Hype, Lazza
+> La playlist urban più grande d'Italia\. Cover: Rose Villain, Tony Effe
 
-138 songs - 6 hr 56 min - [published](https://open.spotify.com/playlist/7z4B5G5t7icaq70XD3Gf3S)
+139 songs - 6 hr 58 min - [published](https://open.spotify.com/playlist/7z4B5G5t7icaq70XD3Gf3S)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [GASOLINA](https://open.spotify.com/track/3uaQK6iP56b0oVzFWUO6mn) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [GASOLINA](https://open.spotify.com/album/3ZBJbeVGumukG3EFsUN8ch) | 2:25 | 2022-06-02 | 2022-09-02 |
 | [Giungla](https://open.spotify.com/track/1W5uxws5Pwf5ujQZFgZyPS) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Hustle Mixtape](https://open.spotify.com/album/6LmhYmD5q0vflzqQhkfeN1) | 2:20 | 2022-06-02 |  |
 | [Goyard](https://open.spotify.com/track/3e9L7P1Cu91OWiak39QUkH) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Goyard](https://open.spotify.com/album/0CuTFVpBoXLYDy1Rvaa0JA) | 2:44 | 2022-05-12 | 2022-07-16 |
-| [Guardare Sotto](https://open.spotify.com/track/0XziCMIyt5YkZSxMFrxKdi) | [Quentin40](https://open.spotify.com/artist/63iLDTZb43E6k8Ign6voma) | [Guardare Sotto](https://open.spotify.com/album/5ElAMiTYjmJgnWQ84ZzHaM) | 2:46 | 2022-09-01 |  |
+| [Guardare Sotto](https://open.spotify.com/track/0XziCMIyt5YkZSxMFrxKdi) | [Quentin40](https://open.spotify.com/artist/63iLDTZb43E6k8Ign6voma) | [Guardare Sotto](https://open.spotify.com/album/5ElAMiTYjmJgnWQ84ZzHaM) | 2:46 | 2022-09-01 | 2022-09-23 |
 | [Guess Who's Back](https://open.spotify.com/track/2jWBTpS709oRAG7GwbPU8X) | [Il Tre](https://open.spotify.com/artist/4p5IspnsqtILeRtckOxumu) | [Guess Who's Back](https://open.spotify.com/album/2G9p4nrpfNHzjg1QLEaxTr) | 3:13 | 2022-05-09 | 2022-05-13 |
 | [Hace Calor \- Remix](https://open.spotify.com/track/3h043RAJ7tKaG1HDFeet6w) | [Kaleb Di Masi](https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [Hace Calor \(Remix\)](https://open.spotify.com/album/1ScrZWEue2DdYU8aj9AiSF) | 4:07 | 2022-06-09 |  |
 | [I soldi e la droga \(feat\. Lazza\)](https://open.spotify.com/track/20R9mqRNIAFyUl849j9DOc) | [Jake La Furia](https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [Ferro del mestiere](https://open.spotify.com/album/3MmCBPYzRAiMZc5tFMu0NL) | 3:21 | 2022-06-16 | 2022-09-02 |
@@ -101,6 +101,7 @@
 | [Non è Easy](https://open.spotify.com/track/2SdYuBGvuX0L7KbWiFhLzg) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Non è Easy](https://open.spotify.com/album/2C8BWxEdF4kCgUH4FpT2cP) | 2:44 | 2022-05-12 |  |
 | [NON É COLPA MIA](https://open.spotify.com/track/168k2KmrWRYJWPrNvW2Y0p) | [Dani Faiv](https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ) | [FAIV](https://open.spotify.com/album/39lorAlGAFUXFhJT1rYBlI) | 3:00 | 2022-09-05 | 2022-09-16 |
 | [NON É COLPA MIA](https://open.spotify.com/track/2xBFcnT4uw8BUCW2kCASWs) | [Dani Faiv](https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ) | [NON É COLPA MIA](https://open.spotify.com/album/6dwSqJfnH0Z0DyWq1IBtLc) | 3:00 | 2022-09-01 | 2022-09-06 |
+| [okk@pp@](https://open.spotify.com/track/6Eut6MtJYENAxBtNG0stnT) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA) | [okk@pp@](https://open.spotify.com/album/2Ev7vWEFWmMsWdiZZKgVR1) | 2:22 | 2022-09-22 |  |
 | [Paranoia](https://open.spotify.com/track/4ZPmb48JaAysD1OdQEt5LL) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Bobo](https://open.spotify.com/artist/4W6DLx1j8rZzzcbMuUd42J) | [Paranoia](https://open.spotify.com/album/2zj6RUMudqC6Y6le04Axcs) | 3:02 | 2022-05-09 | 2022-06-10 |
 | [PARE \(feat\. Madame\)](https://open.spotify.com/track/1WQxLQxEDMDwuaAmRXDHIw) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L), [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [Sensazione ultra](https://open.spotify.com/album/7x0QV22Ci2ZOm9HweqBLhn) | 2:45 | 2022-05-19 | 2022-07-15 |
 | [Password](https://open.spotify.com/track/1WXNkrOGGFpG7tjMVHLzxr) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Dove Volano Le Aquile](https://open.spotify.com/album/3SPUCNVfVDn3skohfmd2x8) | 2:45 | 2022-05-09 | 2022-07-29 |

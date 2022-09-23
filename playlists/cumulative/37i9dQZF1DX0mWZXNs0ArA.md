@@ -4,7 +4,7 @@
 
 > 125%
 
-73 songs - 3 hr 5 min - [published](https://open.spotify.com/playlist/2G3OqMZbrNC2ergi0aOh3M)
+74 songs - 3 hr 7 min - [published](https://open.spotify.com/playlist/2G3OqMZbrNC2ergi0aOh3M)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [all I want is you](https://open.spotify.com/track/7lOvJBqH38ZY59eLU7bioq) | [Rebzyyx](https://open.spotify.com/artist/7GcVOOrldYLwxGrCkELOno), [hoshie star](https://open.spotify.com/artist/0LWHFUzXPTl9BDdJHDE001) | [all I want is you](https://open.spotify.com/album/4aGM4L8ks2bc51kAKcVA9V) | 2:31 | 2022-06-09 |  |
 | [Alternative Girl \(Sped Up + Reverb\)](https://open.spotify.com/track/1smghCB7wGjb4Spg0IocM1) | [Mix The Take](https://open.spotify.com/artist/6vrA33ZpKXZ0xXng1H0Frg) | [Alternative Girl \(Slowed/Sped Up + Reverb\)](https://open.spotify.com/album/07Q2bdlMtshCPpC1gG5YGv) | 2:06 | 2022-06-09 | 2022-07-23 |
 | [Atlantis \- Extra Sped Up Version](https://open.spotify.com/track/3u6PxWema1snbjLbFEyjkJ) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [Atlantis](https://open.spotify.com/album/16Q4jVtBWq9UNO78ZLOvwk) | 3:10 | 2022-08-12 |  |
-| [AYANO \- Speed Up](https://open.spotify.com/track/13laoPfypXtxTIy4zg9mhG) | [kobzx2z](https://open.spotify.com/artist/1e1A7s86U6f7cyJAivpfY3), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER) | [AYANO \(Speed Up\)](https://open.spotify.com/album/1dA3OfbB8DUNk9w7d1Dwr1) | 1:48 | 2022-09-09 |  |
+| [AYANO \- Speed Up](https://open.spotify.com/track/13laoPfypXtxTIy4zg9mhG) | [kobzx2z](https://open.spotify.com/artist/1e1A7s86U6f7cyJAivpfY3), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER) | [AYANO \(Speed Up\)](https://open.spotify.com/album/1dA3OfbB8DUNk9w7d1Dwr1) | 1:48 | 2022-09-09 | 2022-09-23 |
 | [Baby Girl](https://open.spotify.com/track/2cSdAkzAf2T4j4aLvx4LLz) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z) | [Baby Girl](https://open.spotify.com/album/06SuoEMTpd5PGRVwuIpETC) | 1:51 | 2022-06-22 |  |
 | [BABYDOLL \(Speed\)](https://open.spotify.com/track/5K3SJuYEkvvrLbzOjPyRi1) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [BABYDOLL \(Speed\)](https://open.spotify.com/album/0qMwROWsV0fT5hBqkH1per) | 2:36 | 2022-06-09 |  |
 | [Black Out Days \- Sped Up](https://open.spotify.com/track/2pXZpxidEYMMNUlPOBADGa) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER), [Esteve](https://open.spotify.com/artist/5vxQVYuckN4XHIB46zPvXy) | [Black Out Days \(Sped Up\)](https://open.spotify.com/album/6Ac5Ik66ewaCqABSkrKJal) | 3:01 | 2022-06-09 |  |
@@ -25,6 +25,7 @@
 | [Cool for the Summer \- Sped Up \(Nightcore\)](https://open.spotify.com/track/4FYWOYqOF9lbb1JcZFDT67) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER) | [Cool for the Summer \[Sped Up \(Nightcore\)\]](https://open.spotify.com/album/410MZofhiv240ybaWhUxpc) | 3:11 | 2022-06-09 |  |
 | [Desert Rose \- Sped Up \(high highs\)](https://open.spotify.com/track/5YLpkXL0fKNCEhke5ZXMV8) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [Desert Rose \(The Remixes\)](https://open.spotify.com/album/5gBGLLbmbIMNfuiWSWB6He) | 3:25 | 2022-08-16 |  |
 | [die first \- sped up version](https://open.spotify.com/track/209DMKJgqiJwjvFCCEW3N6) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [die first \(love forever\)](https://open.spotify.com/album/6a8W5qyixFCBIhWllbu3bj) | 2:24 | 2022-08-05 |  |
+| [don't miss me \- sped up](https://open.spotify.com/track/2rpez0lqbhLnbFTl1urYwm) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24), [Romy Bornhorst](https://open.spotify.com/artist/4UoDX6M8th8sNyoX7i3nT5) | [don’t miss me \(sped up\)](https://open.spotify.com/album/1ziHMhSrO41E03FPBaKR0P) | 1:32 | 2022-09-22 |  |
 | [Drowning \- Sped Up Version](https://open.spotify.com/track/40x8vMUHIjqd2A5EtHEvAb) | [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Drowning \(Sped Up Version\)](https://open.spotify.com/album/3Z5FPyxx1sKOTzHsOnS4ZI) | 2:54 | 2022-06-09 |  |
 | [Faster \(Sped Up\)](https://open.spotify.com/track/1tlPauwjMeBY5ZiQA5wLH3) | [A.Oonthebeat](https://open.spotify.com/artist/1wEqe2EwOgePW2eQb0Du2J), [Jupyter](https://open.spotify.com/artist/4J6FA22xD10UHtjrVHeWm9) | [Faster \(Sped Up\)](https://open.spotify.com/album/6MYpoQeEO6l8yxd15w6Rce) | 2:26 | 2022-06-24 |  |
 | [Faster \- Sped Up](https://open.spotify.com/track/1MShtYPzkiw12vVAooL4zy) | [A.Oonthebeat](https://open.spotify.com/artist/1wEqe2EwOgePW2eQb0Du2J), [Jupyter](https://open.spotify.com/artist/4J6FA22xD10UHtjrVHeWm9) | [A.O Ultra](https://open.spotify.com/album/5X2NqD0hP43ZuYEIcXcW1L) | 2:26 | 2022-06-09 | 2022-07-29 |
@@ -79,7 +80,7 @@
 | [WARNING \- Sped Up](https://open.spotify.com/track/5MNfAmHvsqOliIxtwiFzsz) | [MC ORSEN](https://open.spotify.com/artist/2DXPtOc14uPVvK7qggj2a3) | [WARNING \(Sped Up\)](https://open.spotify.com/album/2oRa8uJdTOrDSWvWAy50A3) | 1:48 | 2022-08-24 |  |
 | [Wasted \(Nightcore\)](https://open.spotify.com/track/0zSDG1EI7SGhM62M5iBiGI) | [Murkish](https://open.spotify.com/artist/5anIaPEacO0S5sVfxg6cVw), [Huken](https://open.spotify.com/artist/2i5ApczYJfGAYrtf7QmjCV) | [Wasted \(Nightcore\)](https://open.spotify.com/album/338C6sxO1twtEJn8YqGeh4) | 3:14 | 2022-06-09 |  |
 | [why so serious?](https://open.spotify.com/track/3CcNuI3JbOw5n5Evl5Qjx6) | [ExotiiC\-](https://open.spotify.com/artist/3t98cVjC4AW3IPjCNsc3em) | [why so serious?](https://open.spotify.com/album/0owMsQYWHryve339icpxYv) | 1:35 | 2022-06-24 | 2022-09-04 |
-| [why so srs?](https://open.spotify.com/track/0rifR43CptApOWLL8kMkcg) | [outer streets](https://open.spotify.com/artist/07Kya5CjMDo2yVV8YFJg9T) | [why so srs?](https://open.spotify.com/album/2cWHWaopqauQCtQYVnN9wC) | 1:35 | 2022-06-09 | 2022-09-17 |
+| [why so srs?](https://open.spotify.com/track/0rifR43CptApOWLL8kMkcg) | [outer streets](https://open.spotify.com/artist/07Kya5CjMDo2yVV8YFJg9T) | [why so srs?](https://open.spotify.com/album/2cWHWaopqauQCtQYVnN9wC) | 1:35 | 2022-06-09 |  |
 | [zombie \(hyper\)](https://open.spotify.com/track/4YKfwSVcrK85r3TaUeUHGd) | [Ka$tro](https://open.spotify.com/artist/22AaKQKPmQXX1xFhc825rJ), [Keepitinside](https://open.spotify.com/artist/78cc6k0CLZpWYSO4x5xnro) | [reaper / zombie \(remixes\)](https://open.spotify.com/album/6rIGvpDxSbZABArWo8hwko) | 2:16 | 2022-06-09 |  |
 
 \*This playlist was first scraped on 2022-06-22. Prior content cannot be recovered.

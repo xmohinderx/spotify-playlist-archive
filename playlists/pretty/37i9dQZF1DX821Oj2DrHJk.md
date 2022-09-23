@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX821Oj2DrHJk.md) - [plain]
 
 > Rock that was on repeat during the summers of the 1970s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,613 likes - 100 songs - 7 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,630 likes - 100 songs - 7 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX821Oj2DrHJk.md) - [plain]
 | 23 | [Money](https://open.spotify.com/track/0vFOzaXqZHahrZp6enQwQb) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Dark Side of the Moon](https://open.spotify.com/album/4LH4d3cOWNNsVw41Gqt2kv) | 6:22 |
 | 24 | [The Logical Song \- Remastered 2010](https://open.spotify.com/track/6mHOcVtsHLMuesJkswc0GZ) | [Supertramp](https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx) | [Breakfast In America \(Deluxe Edition\)](https://open.spotify.com/album/1zcm3UvHNHpseYOUfd0pna) | 4:11 |
 | 25 | [Long Train Runnin'](https://open.spotify.com/track/4nXkbcTj3nyww1cHkw5RAP) | [The Doobie Brothers](https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz) | [The Captain and Me](https://open.spotify.com/album/0M2KWMbvY5x1sUnIKNpyUt) | 3:27 |
-| 26 | [One of These Nights \- 2013 Remaster](https://open.spotify.com/track/608xszaAxVh4m7NcKJiAbF) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [One of These Nights \(2013 Remaster\)](https://open.spotify.com/album/0F77QekrNe8vVAjU2sepja) | 4:51 |
-| 27 | [Detroit Rock City](https://open.spotify.com/track/3uz0O62HqYoyRiWZjS61KK) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Smashes Thrashes & Hits](https://open.spotify.com/album/2TrudRaCE8XYG56z1Xbmh6) | 3:48 |
+| 26 | [Detroit Rock City](https://open.spotify.com/track/3uz0O62HqYoyRiWZjS61KK) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Smashes Thrashes & Hits](https://open.spotify.com/album/2TrudRaCE8XYG56z1Xbmh6) | 3:48 |
+| 27 | [One of These Nights \- 2013 Remaster](https://open.spotify.com/track/608xszaAxVh4m7NcKJiAbF) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [One of These Nights \(2013 Remaster\)](https://open.spotify.com/album/0F77QekrNe8vVAjU2sepja) | 4:51 |
 | 28 | [Life on Mars? \- 2015 Remaster](https://open.spotify.com/track/3ZE3wv8V3w2T2f7nOCjV0N) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Hunky Dory \(2015 Remaster\)](https://open.spotify.com/album/6fQElzBNTiEMGdIeY0hy5l) | 3:55 |
 | 29 | [Band On The Run \- Remastered 2010](https://open.spotify.com/track/1H4idkmruFoJBg1DvUv2tY) | [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [Band On The Run \(Standard\)](https://open.spotify.com/album/257oomaawruFknt5wYCPDh) | 5:13 |
 | 30 | [Cold as Ice](https://open.spotify.com/track/7vidktgNZFQylTgH1GEnMs) | [Foreigner](https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN) | [Foreigner \(Expanded\)](https://open.spotify.com/album/1OU7zJvUfgxxPHgkTClt1M) | 3:20 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX821Oj2DrHJk.md) - [plain]
 | 99 | [Little Willy](https://open.spotify.com/track/5l7WMtIUfX4D2XsHYOp4zV) | [Sweet](https://open.spotify.com/artist/3JaAGmSTpJK35DqWrDUzBz) | [Best Of Sweet](https://open.spotify.com/album/7I5IWDrFPKeqhRSnd6QrXG) | 3:15 |
 | 100 | [Girls Talk](https://open.spotify.com/track/7vjs7IWQlxfhlxSYsKbKB6) | [Dave Edmunds](https://open.spotify.com/artist/65Gh3BfK84aTIugiRCgLBA) | [Single Trax 1970\-1981](https://open.spotify.com/album/4Zk0R6PCTujeSb9ppg1vQi) | 3:25 |
 
-Snapshot ID: `MTY1Mzk0MjI4OCwwMDAwMDAwMDliODU0NjQ0YmE3ODY4MTkxYzMxMDZjNmIwNTIwMjcy`
+Snapshot ID: `MTY1Mzk0MjI4OCwwMDAwMDAwMGZkYzAzZGUwZTExNjQyMGIzNWUxZTBhMzM2YjNlMDE2`

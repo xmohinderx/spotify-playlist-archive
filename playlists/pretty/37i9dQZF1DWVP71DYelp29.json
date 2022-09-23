@@ -1,12 +1,12 @@
 {
   "description": "The hits you know like you\u2019ve never heard before.  Cover: Harry Styles.",
-  "num_followers": 724826,
+  "num_followers": 724865,
   "original_name": "Spotify Singles: Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzI1NzIzNSwwMDAwMDAwMDhjYWZlYThhODAwMzllNmFhY2YxM2UwYjliYTNmNTg5",
+  "snapshot_id": "MTY2MzI1NzIzNSwwMDAwMDAwMGQ1ZmUwYWVlYjkyYmMzMjA0NzA1NzJlYzkyYjgyMDBj",
   "tracks": [
     {
       "added_at": "2022-09-01 18:43:04",
@@ -155,6 +155,22 @@
     {
       "added_at": "2022-05-27 17:31:46",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5AS789PRyPv5B6l17kLfAW"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "duration_ms": 184548,
+      "name": "ocean eyes - Recorded Live at Jungle City Studios",
+      "url": "https://open.spotify.com/track/7rLokcIMP9p8fl0iROdVfC"
+    },
+    {
+      "added_at": "2022-05-27 17:31:46",
+      "album": {
         "name": "Gates to the Sun (POLLEN Singles)",
         "url": "https://open.spotify.com/album/6SaeE8lgGxlOafd4yZFYs8"
       },
@@ -171,22 +187,6 @@
       "duration_ms": 135748,
       "name": "Gates to the Sun (POLLEN Singles)",
       "url": "https://open.spotify.com/track/6EG0w98d2S1u1copDAHDqP"
-    },
-    {
-      "added_at": "2022-05-27 17:31:46",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5AS789PRyPv5B6l17kLfAW"
-      },
-      "artists": [
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 184548,
-      "name": "ocean eyes - Recorded Live at Jungle City Studios",
-      "url": "https://open.spotify.com/track/7rLokcIMP9p8fl0iROdVfC"
     },
     {
       "added_at": "2022-05-27 17:31:46",
@@ -344,22 +344,6 @@
       "added_at": "2022-05-27 17:31:46",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3t6qlpHjZ5sqv49NbUB5Rn"
-      },
-      "artists": [
-        {
-          "name": "Alec Benjamin",
-          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
-        }
-      ],
-      "duration_ms": 202482,
-      "name": "Stan - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/6H98N10OCmld8m5XyyulO3"
-    },
-    {
-      "added_at": "2022-05-27 17:31:46",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5WSVBLmTp6Fgjm2Dwyu3vr"
       },
       "artists": [
@@ -371,6 +355,22 @@
       "duration_ms": 258862,
       "name": "Day \u2018n\u2019 Nite - Spotify Singles",
       "url": "https://open.spotify.com/track/6M0tj2hONdMEveSWg3JdQG"
+    },
+    {
+      "added_at": "2022-05-27 17:31:46",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3t6qlpHjZ5sqv49NbUB5Rn"
+      },
+      "artists": [
+        {
+          "name": "Alec Benjamin",
+          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
+        }
+      ],
+      "duration_ms": 202482,
+      "name": "Stan - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/6H98N10OCmld8m5XyyulO3"
     },
     {
       "added_at": "2022-05-27 17:31:46",
@@ -424,22 +424,6 @@
       "added_at": "2022-05-27 17:31:46",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6KjX30XbUmMpQoek2DEHie"
-      },
-      "artists": [
-        {
-          "name": "Anderson East",
-          "url": "https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby"
-        }
-      ],
-      "duration_ms": 254834,
-      "name": "Always Be My Baby - Recorded at Sound Stage Nashville",
-      "url": "https://open.spotify.com/track/3QSnkhUvoPS5QogonimPfk"
-    },
-    {
-      "added_at": "2022-05-27 17:31:46",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7txW0oEFE7Cxj1OPROdRvq"
       },
       "artists": [
@@ -451,6 +435,22 @@
       "duration_ms": 214573,
       "name": "Look Up Child - Recorded at Sound Stage Studios Nashville",
       "url": "https://open.spotify.com/track/4riVBa7E3aPBsQVeDBBWGy"
+    },
+    {
+      "added_at": "2022-05-27 17:31:46",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6KjX30XbUmMpQoek2DEHie"
+      },
+      "artists": [
+        {
+          "name": "Anderson East",
+          "url": "https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby"
+        }
+      ],
+      "duration_ms": 254834,
+      "name": "Always Be My Baby - Recorded at Sound Stage Nashville",
+      "url": "https://open.spotify.com/track/3QSnkhUvoPS5QogonimPfk"
     },
     {
       "added_at": "2022-05-27 17:31:46",
@@ -492,22 +492,6 @@
       "added_at": "2022-05-27 17:31:46",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0AccJ5bsbh5fiF4uPaQuyE"
-      },
-      "artists": [
-        {
-          "name": "James Barker Band",
-          "url": "https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA"
-        }
-      ],
-      "duration_ms": 268840,
-      "name": "Never Be The Same - Recorded At Revolution Studios, Toronto",
-      "url": "https://open.spotify.com/track/4AL1lFrYg2RgSIGVjKOo2E"
-    },
-    {
-      "added_at": "2022-05-27 17:31:46",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5lGxbmDssvHBGx37Qpr7UL"
       },
       "artists": [
@@ -523,6 +507,22 @@
       "duration_ms": 225644,
       "name": "Heavenly Father (feat. Noah Kahan) - Recorded at Electric Lady Studios, NYC",
       "url": "https://open.spotify.com/track/2OZhWugxgM4wvjI3MXRhJg"
+    },
+    {
+      "added_at": "2022-05-27 17:31:46",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0AccJ5bsbh5fiF4uPaQuyE"
+      },
+      "artists": [
+        {
+          "name": "James Barker Band",
+          "url": "https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA"
+        }
+      ],
+      "duration_ms": 268840,
+      "name": "Never Be The Same - Recorded At Revolution Studios, Toronto",
+      "url": "https://open.spotify.com/track/4AL1lFrYg2RgSIGVjKOo2E"
     },
     {
       "added_at": "2022-05-27 17:31:46",
@@ -916,22 +916,6 @@
       "added_at": "2022-05-27 17:31:46",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6vJ831b419D1qjX1clMjk6"
-      },
-      "artists": [
-        {
-          "name": "Amy Shark",
-          "url": "https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT"
-        }
-      ],
-      "duration_ms": 246701,
-      "name": "Teenage Dirtbag - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/0P9RpXoU2UnYmjzrEMlupy"
-    },
-    {
-      "added_at": "2022-05-27 17:31:46",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3xKhnVSlIEGG4MFnackt9M"
       },
       "artists": [
@@ -943,6 +927,22 @@
       "duration_ms": 167907,
       "name": "bad guy - Recorded at Electric Lady Studios NYC",
       "url": "https://open.spotify.com/track/66wi6NRfwsula1n68bJEod"
+    },
+    {
+      "added_at": "2022-05-27 17:31:46",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6vJ831b419D1qjX1clMjk6"
+      },
+      "artists": [
+        {
+          "name": "Amy Shark",
+          "url": "https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT"
+        }
+      ],
+      "duration_ms": 246701,
+      "name": "Teenage Dirtbag - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/0P9RpXoU2UnYmjzrEMlupy"
     },
     {
       "added_at": "2022-05-27 17:31:46",
@@ -996,22 +996,6 @@
       "added_at": "2022-05-27 17:31:46",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4OUg8wmqAxUfSN05i4um9Y"
-      },
-      "artists": [
-        {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
-        }
-      ],
-      "duration_ms": 228586,
-      "name": "All We Ever Knew - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/0PHm9MrfZdEUasfd1XC0n2"
-    },
-    {
-      "added_at": "2022-05-27 17:31:46",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0FbO77jrZy4CcXbtR0hqIE"
       },
       "artists": [
@@ -1023,6 +1007,22 @@
       "duration_ms": 199914,
       "name": "Lost In Japan - Recorded at Sound Stage Studios Nashville",
       "url": "https://open.spotify.com/track/2Q1f6exzZ9iYrv4IICnzVx"
+    },
+    {
+      "added_at": "2022-05-27 17:31:46",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4OUg8wmqAxUfSN05i4um9Y"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 228586,
+      "name": "All We Ever Knew - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/0PHm9MrfZdEUasfd1XC0n2"
     },
     {
       "added_at": "2022-05-27 17:31:46",
@@ -1408,22 +1408,6 @@
       "added_at": "2022-05-27 17:31:46",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6MfeMJhhtj6Aas0rDfkHcO"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 214750,
-      "name": "Hunger - Recorded At RAK Studios, London",
-      "url": "https://open.spotify.com/track/1HwuSP4S2lun5IExwkCEOi"
-    },
-    {
-      "added_at": "2022-05-27 17:31:46",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0VcmfkTIowuHgCCurP5xf7"
       },
       "artists": [
@@ -1435,6 +1419,22 @@
       "duration_ms": 180982,
       "name": "Friends - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/3jb6ByvjXfeM1p0ISGN584"
+    },
+    {
+      "added_at": "2022-05-27 17:31:46",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6MfeMJhhtj6Aas0rDfkHcO"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 214750,
+      "name": "Hunger - Recorded At RAK Studios, London",
+      "url": "https://open.spotify.com/track/1HwuSP4S2lun5IExwkCEOi"
     },
     {
       "added_at": "2022-05-27 17:31:46",
@@ -1632,21 +1632,17 @@
       "added_at": "2022-05-27 17:31:46",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5A7U3iko4a07wkEZNxmqIe"
+        "url": "https://open.spotify.com/album/032NDbaKcxfTZK6iz7wwPu"
       },
       "artists": [
         {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        },
-        {
-          "name": "DJ Durel",
-          "url": "https://open.spotify.com/artist/1MHslxKWxauC559dXYEX1C"
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
         }
       ],
-      "duration_ms": 187213,
-      "name": "Dab of Ranch - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/3lNfezSWDZIdt6XMwyNCJi"
+      "duration_ms": 192773,
+      "name": "Don't Stay - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/6lLLwnbWbFTqbFmZmJW3bM"
     },
     {
       "added_at": "2022-05-27 17:31:46",
@@ -1668,17 +1664,21 @@
       "added_at": "2022-05-27 17:31:46",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/032NDbaKcxfTZK6iz7wwPu"
+        "url": "https://open.spotify.com/album/5A7U3iko4a07wkEZNxmqIe"
       },
       "artists": [
         {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        },
+        {
+          "name": "DJ Durel",
+          "url": "https://open.spotify.com/artist/1MHslxKWxauC559dXYEX1C"
         }
       ],
-      "duration_ms": 192773,
-      "name": "Don't Stay - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/6lLLwnbWbFTqbFmZmJW3bM"
+      "duration_ms": 187213,
+      "name": "Dab of Ranch - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/3lNfezSWDZIdt6XMwyNCJi"
     },
     {
       "added_at": "2022-05-27 17:31:46",
@@ -1732,6 +1732,22 @@
       "added_at": "2022-05-27 17:31:46",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1DwD96qkcmYfDAor27Gj38"
+      },
+      "artists": [
+        {
+          "name": "CHVRCHES",
+          "url": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
+        }
+      ],
+      "duration_ms": 244315,
+      "name": "Stay - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/3kSIXQW05MKcprFP1RtwWX"
+    },
+    {
+      "added_at": "2022-05-27 17:31:46",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0tUnCfqBLeZlivAkbxvbib"
       },
       "artists": [
@@ -1775,22 +1791,6 @@
       "duration_ms": 161371,
       "name": "Tipsy - Spotify Singles",
       "url": "https://open.spotify.com/track/5SjcWE3c7dn0xQbrRLeczT"
-    },
-    {
-      "added_at": "2022-05-27 17:31:46",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1DwD96qkcmYfDAor27Gj38"
-      },
-      "artists": [
-        {
-          "name": "CHVRCHES",
-          "url": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
-        }
-      ],
-      "duration_ms": 244315,
-      "name": "Stay - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/3kSIXQW05MKcprFP1RtwWX"
     },
     {
       "added_at": "2022-05-27 17:31:46",
@@ -1940,22 +1940,6 @@
       "added_at": "2022-05-27 17:31:46",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5A7U3iko4a07wkEZNxmqIe"
-      },
-      "artists": [
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        }
-      ],
-      "duration_ms": 163903,
-      "name": "T-Shirt (Spotify Mix) - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/7yTGNfswQgcfZ0Y1LLI5aA"
-    },
-    {
-      "added_at": "2022-05-27 17:31:46",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6XI7j88Hmfye0TXQgp0DcU"
       },
       "artists": [
@@ -1967,6 +1951,22 @@
       "duration_ms": 180028,
       "name": "Aura - Recorded at Electric Lady Studios NYC",
       "url": "https://open.spotify.com/track/6Xv6dDUGl39MfJHBtqprmx"
+    },
+    {
+      "added_at": "2022-05-27 17:31:46",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5A7U3iko4a07wkEZNxmqIe"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "duration_ms": 163903,
+      "name": "T-Shirt (Spotify Mix) - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/7yTGNfswQgcfZ0Y1LLI5aA"
     },
     {
       "added_at": "2022-05-27 17:31:46",
@@ -2072,17 +2072,17 @@
       "added_at": "2022-05-27 17:31:46",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4ZXl1inxvsA1x3uKIIRomO"
+        "url": "https://open.spotify.com/album/5yPmcKtzc9A0RcKpCFqQtZ"
       },
       "artists": [
         {
-          "name": "NODE",
-          "url": "https://open.spotify.com/artist/03WNJB1zKyqW8DimkHP4Bg"
+          "name": "Saint Motel",
+          "url": "https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV"
         }
       ],
-      "duration_ms": 201552,
-      "name": "Walking Away - Recorded At Spotify Studios Stockholm",
-      "url": "https://open.spotify.com/track/6eXTECbiawTve7VP1vEDcs"
+      "duration_ms": 231729,
+      "name": "Born Again - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/0BGdxW79sZA6nmuws983bE"
     }
   ],
   "unique_name": "Spotify Singles: Hits",

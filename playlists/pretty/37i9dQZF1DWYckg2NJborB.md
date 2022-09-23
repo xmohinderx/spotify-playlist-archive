@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYckg2NJborB.md) - [plain]
 
 > Suffering from writer's block? This collection of writerly and literature\-inspired songs might help!.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,337 likes - 50 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,335 likes - 50 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,14 +30,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYckg2NJborB.md) - [plain]
 | 20 | [42](https://open.spotify.com/track/2i2Lz3FDIqYdsJZEWkEaTC) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Viva La Vida or Death and All His Friends](https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty) | 3:57 |
 | 21 | [Reading In Bed](https://open.spotify.com/track/4H73CNDBQpE9gp3YTFfC7y) | [Emily Haines & The Soft Skeleton](https://open.spotify.com/artist/1b2U0VT1Z4ACqOihBL1fgw) | [Knives Don't Have Your Back](https://open.spotify.com/album/3ugZjO9GDXiiq4LRDDzcv8) | 2:48 |
 | 22 | [The Book I Read \- 2005 Remaster](https://open.spotify.com/track/1WKEDO98nmcF1uYmMttw7B) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Talking Heads '77 \(Deluxe Version\)](https://open.spotify.com/album/5eqcF7pWzHgWpGdEmHgeSN) | 4:10 |
-| 23 | [The Sensual World \- 2018 Remaster](https://open.spotify.com/track/6eVxdX2tQkNmHg7PP1sRbw) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [The Sensual World \(2018 Remaster\)](https://open.spotify.com/album/3k9p0yOIiw3O39chv3fYYO) | 3:57 |
-| 24 | [Walt Whitman](https://open.spotify.com/track/6nQ5z2EDrltb8MZs3HhfgL) | [Trampled by Turtles](https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4) | [Stars and Satellites](https://open.spotify.com/album/3otETa3Pe9HZon4cP9xZnB) | 2:38 |
+| 23 | [Walt Whitman](https://open.spotify.com/track/6nQ5z2EDrltb8MZs3HhfgL) | [Trampled by Turtles](https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4) | [Stars and Satellites](https://open.spotify.com/album/3otETa3Pe9HZon4cP9xZnB) | 2:38 |
+| 24 | [The Sensual World \- 2018 Remaster](https://open.spotify.com/track/6eVxdX2tQkNmHg7PP1sRbw) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [The Sensual World \(2018 Remaster\)](https://open.spotify.com/album/3k9p0yOIiw3O39chv3fYYO) | 3:57 |
 | 25 | [Shakespeare](https://open.spotify.com/track/1Q9yJCrqDANqGMKai1gqBM) | [Fink](https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf) | [Hard Believer](https://open.spotify.com/album/1TMJ7yDSSYByO0UjKwnOiX) | 6:18 |
 | 26 | [Wrapped Up In Books](https://open.spotify.com/track/14TIka80BMTELhMHk1sIdH) | [Belle and Sebastian](https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h) | [Dear Catastrophe Waitress](https://open.spotify.com/album/7HNrDkHNFopKBXGWf0UZML) | 3:34 |
 | 27 | [Who Wrote Holden Caulfield?](https://open.spotify.com/track/6471zt9nuKXLwEOItOgDld) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Kerplunk!](https://open.spotify.com/album/1UShup0VvfxhxS7j3Omxh2) | 2:42 |
 | 28 | [Haunted](https://open.spotify.com/track/2rjNVjIfyGCDoNIjXFsPdS) | [Poe](https://open.spotify.com/artist/2Kl8iFAUJmtmyP1Sab1paD) | [Haunted](https://open.spotify.com/album/3Qn2GfbzCa3b0NZoaJotEA) | 5:20 |
-| 29 | [Banana Co](https://open.spotify.com/track/0CiGamY7diH7yvzHsPtHtO) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Street Spirit \(Fade Out\)](https://open.spotify.com/album/23wLaTvnMb3pSb3uxnQE3E) | 2:21 |
-| 30 | [The Wild Boys](https://open.spotify.com/track/5qeLeyIWCPe1FpdJLQTUDW) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Decade](https://open.spotify.com/album/4P6rgSkSEXFGrpTk9NZUAj) | 4:17 |
+| 29 | [The Wild Boys](https://open.spotify.com/track/5qeLeyIWCPe1FpdJLQTUDW) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Decade](https://open.spotify.com/album/4P6rgSkSEXFGrpTk9NZUAj) | 4:17 |
+| 30 | [Banana Co](https://open.spotify.com/track/0CiGamY7diH7yvzHsPtHtO) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Street Spirit \(Fade Out\)](https://open.spotify.com/album/23wLaTvnMb3pSb3uxnQE3E) | 2:21 |
 | 31 | [Richard Cory](https://open.spotify.com/track/669jVNlVxPmrb2kN8YFq1u) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Sounds Of Silence](https://open.spotify.com/album/07RAGILF28QweYQSZasr5k) | 2:55 |
 | 32 | [Open Book](https://open.spotify.com/track/3vmgOwQdZTbdT1W54eeEy0) | [CAKE](https://open.spotify.com/artist/6A43Djmhbe9100UwnI7epV) | [Fashion Nugget](https://open.spotify.com/album/6kPOXxCYCdXBzEbb9dqE90) | 3:44 |
 | 33 | [Sailing to Philadelphia](https://open.spotify.com/track/5dFbGFPR2GkgIPvfnAo3R3) | [Mark Knopfler](https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug) | [Sailing to Philadelphia](https://open.spotify.com/album/1DrdpkCNbP2QxDvtsASs63) | 5:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYckg2NJborB.md) - [plain]
 | 49 | [The Underwood Typewriter](https://open.spotify.com/track/2pzlZI4C3f1MSMg047bPI6) | [Fionn Regan](https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy) | [The End of History](https://open.spotify.com/album/3lFILJkKAjwlUdSz4wwW4b) | 3:01 |
 | 50 | [Harper Lee](https://open.spotify.com/track/5KWesyeHlejVprGxufFxtq) | [Little Green Cars](https://open.spotify.com/artist/2Vz3AN2wY3xjS2jCaGMVsy) | [Absolute Zero](https://open.spotify.com/album/6etgcx8zgTyaGJBXXweGsf) | 3:31 |
 
-Snapshot ID: `MTU1NTQxNDUzMiwwMDAwMDAwMGYzM2I4MzVkZDllYTNmYmY5N2U0YTAzYThkNTQyZWMz`
+Snapshot ID: `MTU1NTQxNDUzMiwwMDAwMDAwMGU2MzQ0MzBhM2RhM2EzYTQwMmJhNTVlNGNiMTM5YTgx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZufbpO1g3tw.md) - [plain]
 
 > ¡Trompetas, piano y timbal para darle sazón a tu mediodía!
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,588 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,601 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZufbpO1g3tw.md) - [plain]
 | 18 | [Summertime Heat](https://open.spotify.com/track/6tH3VW64C62rEUMnUzjKEw) | [Chris Conde](https://open.spotify.com/artist/0iDUILVpAIeb7q4XkRC1ZY), [El Dusty](https://open.spotify.com/artist/746tySZWCr6nqgEjmQyKyB) | [Summertime Heat](https://open.spotify.com/album/0OHvZ2aRrRbecYwk5lyB3L) | 2:35 |
 | 19 | [Cumbia del Monte Fuji](https://open.spotify.com/track/24fMHoWCFcyuuSDbHWzbPc) | [Frente Cumbiero](https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6), [Minyo Crusaders](https://open.spotify.com/artist/1zpJ58qKOgKcWge9iaFxHG) | [Cumbia del Monte Fuji](https://open.spotify.com/album/4QajQb50l0ry5S3dcl2SVo) | 4:24 |
 | 20 | [Pájaro Cenzontle](https://open.spotify.com/track/3QYQIrQ5ccLToSwFJ1cZcW) | [Son Rompe Pera](https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V) | [Batuco](https://open.spotify.com/album/3M8Eepfnzl2kaKyBVqjguX) | 3:40 |
-| 21 | [Los sabanales](https://open.spotify.com/track/31GD3gDTI7PYt6Dulr1wvh) | [Los Corraleros De Majagual](https://open.spotify.com/artist/4gUlOT8yUtjFDWKlkEpLI4) | [The Afrosound Of Colombia Volume 1](https://open.spotify.com/album/7GuPa60Lh3Wlls5rMGpOJf) | 2:43 |
-| 22 | [Para Elisa](https://open.spotify.com/track/6t6QEaiKAXtVOORoNbGR9O) | [Los Destellos](https://open.spotify.com/artist/2xfdrsA1TWrKlaEfQQbbmf) | [En Orbita](https://open.spotify.com/album/0jzpJgWjBGLxQsGbwKT7TB) | 2:49 |
+| 21 | [Para Elisa](https://open.spotify.com/track/6t6QEaiKAXtVOORoNbGR9O) | [Los Destellos](https://open.spotify.com/artist/2xfdrsA1TWrKlaEfQQbbmf) | [En Orbita](https://open.spotify.com/album/0jzpJgWjBGLxQsGbwKT7TB) | 2:49 |
+| 22 | [Los sabanales](https://open.spotify.com/track/31GD3gDTI7PYt6Dulr1wvh) | [Los Corraleros De Majagual](https://open.spotify.com/artist/4gUlOT8yUtjFDWKlkEpLI4) | [The Afrosound Of Colombia Volume 1](https://open.spotify.com/album/7GuPa60Lh3Wlls5rMGpOJf) | 2:43 |
 | 23 | [Chango](https://open.spotify.com/track/6X2qyN9UIXitH2UtIOZ85C) | [Ska Cubano](https://open.spotify.com/artist/6lmoqMxughzdlxvQTsUXjF) | [Ska Cubano](https://open.spotify.com/album/1Sry0mamK4yz2Khmmtm1DA) | 3:38 |
 | 24 | [El Aguajal](https://open.spotify.com/track/7nOD24bJ7hchHuwVpT9y9z) | [Los Shapis](https://open.spotify.com/artist/3LorjMdYWKEtf3wdNtjM6v) | [Los Auténticos](https://open.spotify.com/album/4sd3JQ7mufYwKdNNtYzc0B) | 3:50 |
 | 25 | [Nariz Con Raíz](https://open.spotify.com/track/5ijJhZPMHeDljcpmgC2lLp) | [Briela Ojeda](https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo) | [TEMPLO KOMODO](https://open.spotify.com/album/0ju8Ri6jnaQllxgAnkoPXA) | 5:10 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZufbpO1g3tw.md) - [plain]
 | 44 | [La Danza de los Simpsons](https://open.spotify.com/track/59WEhlP47JI0naL5ub1c7U) | [Chicha Libre](https://open.spotify.com/artist/1eiodDx0lIftKNviQGG95x) | [Cuatro Tigres](https://open.spotify.com/album/3HdnrOGtv9y40s33FCuXcR) | 2:26 |
 | 45 | [Molienda](https://open.spotify.com/track/6Wnxsx8Q43Ng0GYl8SCHUH) | [Malphino](https://open.spotify.com/artist/1hWJbIVGfYRmwRgmM6HFij) | [Visit Malphino](https://open.spotify.com/album/2OA05pERt66hYi51jeM2oa) | 3:05 |
 | 46 | [Hotline Bling](https://open.spotify.com/track/7dNOYhHNvhCs0uKkCQdH2M) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Los Miticos Del Ritmo](https://open.spotify.com/artist/1YR9g05YIIVWq3QsC7Krsu) | [Hotline Bling](https://open.spotify.com/album/7fBRvRup48necAZiCwGugk) | 3:23 |
-| 47 | [Negro Santo](https://open.spotify.com/track/7bxC71HV7HEyhFbpJkLHKk) | [Don Couto](https://open.spotify.com/artist/75RbJtVQX3xaPgV4GE9FxN), [Monstruos del Mañana](https://open.spotify.com/artist/7v8VhVh30Z6wcT480oEK7V), [Melisa Castellanos](https://open.spotify.com/artist/7IuJScX96WercVvWQZNolC) | [ELCANO](https://open.spotify.com/album/6NX6KCQs8KEJIAA207IhAw) | 4:58 |
-| 48 | [Lazalypso](https://open.spotify.com/track/73nwZubj4lYdp7MfDZO47a) | [Ondatrópica](https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh) | [Baile Bucanero](https://open.spotify.com/album/1jBC2RT7oXRkOqHrfoZCI3) | 3:33 |
+| 47 | [Lazalypso](https://open.spotify.com/track/73nwZubj4lYdp7MfDZO47a) | [Ondatrópica](https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh) | [Baile Bucanero](https://open.spotify.com/album/1jBC2RT7oXRkOqHrfoZCI3) | 3:33 |
+| 48 | [Negro Santo](https://open.spotify.com/track/7bxC71HV7HEyhFbpJkLHKk) | [Don Couto](https://open.spotify.com/artist/75RbJtVQX3xaPgV4GE9FxN), [Monstruos del Mañana](https://open.spotify.com/artist/7v8VhVh30Z6wcT480oEK7V), [Melisa Castellanos](https://open.spotify.com/artist/7IuJScX96WercVvWQZNolC) | [ELCANO](https://open.spotify.com/album/6NX6KCQs8KEJIAA207IhAw) | 4:58 |
 | 49 | [Para Elisa](https://open.spotify.com/track/4cu1KDI2JSaf6lQbUlzDlX) | [Los Hermanos Zañartu](https://open.spotify.com/artist/3eZmniklmCQj7Jn6i6alvI) | [Enrique Delgado \(feat\. Enrique Delgado Montes\)](https://open.spotify.com/album/62Q0yW6XbxNtuJDOc6ohyj) | 2:48 |
 | 50 | [Sonido Amazonico](https://open.spotify.com/track/30XzPuJXYZrPF2jx89SQG1) | [Chicha Libre](https://open.spotify.com/artist/1eiodDx0lIftKNviQGG95x) | [Sonido Amazonico](https://open.spotify.com/album/0p5Iiuaj58qCxzMYqgP7B1) | 4:17 |
 
-Snapshot ID: `MTY1MDQzMDgwMCwwMDAwMDAwMDgyZDUyNTQwYjYxZmE2MmNjNWUxNGQ3M2IyNTA0NDEz`
+Snapshot ID: `MTY1MDQzMDgwMCwwMDAwMDAwMGVlYjhiNzg4MDJkYjQ5M2YwZDQ2MGMwMTJmYjM0ZmM4`

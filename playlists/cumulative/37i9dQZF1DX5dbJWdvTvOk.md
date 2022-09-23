@@ -4,7 +4,7 @@
 
 > Canciones instrumentales de guitarra.
 
-148 songs - 7 hr 8 min - [published](https://open.spotify.com/playlist/284nn8KHwKE48t5E3olrdV)
+149 songs - 7 hr 11 min - [published](https://open.spotify.com/playlist/284nn8KHwKE48t5E3olrdV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [By Myself but Not Alone](https://open.spotify.com/track/3Um3kj4lrIubR86Y81qCWj) | [R.B James](https://open.spotify.com/artist/2DUG73DKY1Km2VX1J866f1) | [By Myself but Not Alone](https://open.spotify.com/album/4kBBI0yalDHd0QQ6MW6hb2) | 4:05 | 2022-07-15 |  |
 | [Bésame Mucho](https://open.spotify.com/track/0WlaFDGrsRstbIF44eWLVP) | [Javier Van Velthoven](https://open.spotify.com/artist/4rUmg0lEB3QIm4OpxiTxoZ) | [Bésame Mucho](https://open.spotify.com/album/0Fr2ZGB1zrWW6RRjSajNtn) | 3:11 | 2022-07-15 | 2022-07-29 |
 | [Cadiz](https://open.spotify.com/track/7GlGgZVvEI5oCpZGrEWyKN) | [Las Lagrimas](https://open.spotify.com/artist/4CFUyjHnUwIb4SryCWffqN) | [Cadiz](https://open.spotify.com/album/16WtMA3bkNFXtvTzdL9su3) | 3:05 | 2022-07-15 |  |
+| [Calisto](https://open.spotify.com/track/6J35jqkTjXsJz2SQhu3BVt) | [Marta Fiscovich](https://open.spotify.com/artist/6B7cCKWOKNqdjU5bqeZAS7) | [Calisto](https://open.spotify.com/album/6v3xFIkiGK5BtXb6IyILMI) | 2:26 | 2022-09-23 |  |
 | [Calme et Paisible](https://open.spotify.com/track/7yVRPYTBVg3h1TsPdzcr07) | [Gabriel Sellier](https://open.spotify.com/artist/68bFmMmumjz0ig4CCNeoLZ) | [Calme et Paisible](https://open.spotify.com/album/2E92OD1lGuIQEla85kYKvY) | 3:46 | 2022-07-15 |  |
 | [Canción A Solas](https://open.spotify.com/track/2h4IHvYUMuHSRtP1IN7Mpr) | [Marta Fiscovich](https://open.spotify.com/artist/6B7cCKWOKNqdjU5bqeZAS7) | [Canción A Solas](https://open.spotify.com/album/4Qb1rsL5QvMtnDVE4fEjTZ) | 2:26 | 2022-07-22 |  |
 | [Cartas da Infância](https://open.spotify.com/track/6oWxIZMs643Wtw2cuDh2b3) | [Willian Rosa](https://open.spotify.com/artist/7prsw90i6r3zf2WUsSajns) | [Cartas da Infância](https://open.spotify.com/album/0BhYFKgYBJydcaDQG6emhd) | 4:23 | 2022-07-15 |  |
@@ -79,7 +80,7 @@
 | [Kékes](https://open.spotify.com/track/1Y95ZqpRL9fDfPylinDvtS) | [Victor Manu](https://open.spotify.com/artist/2faFzPAZ0UYeY6TlerQmGK) | [Raphaela](https://open.spotify.com/album/2rHXOxttBdWZ45jSuMKgXv) | 3:17 | 2022-07-15 |  |
 | [La Cascata](https://open.spotify.com/track/1BZLT1iTsTy1IpstmYE6PI) | [Rafaela Moreno](https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF) | [La Cascata](https://open.spotify.com/album/7tQWWgdBbI5n2K27VmQiMy) | 2:11 | 2022-07-29 |  |
 | [La Nostalgia](https://open.spotify.com/track/0LPw0eHj4ZzgFoWBNkKMPM) | [Mexican Music Factory](https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb), [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3), [José Isidoro](https://open.spotify.com/artist/3nbcGaD8jhAuRC6SLuB2Hz) | [La Nostalgia](https://open.spotify.com/album/7qt3oe7jbO84iozNWFpb4e) | 3:38 | 2022-08-19 |  |
-| [La Suerte Llegará](https://open.spotify.com/track/6kkupWXVg8I0XjbCbx7lHu) | [Alonso Librado](https://open.spotify.com/artist/0fCLdOidYGZ2fORXrf3zw0) | [La Suerte Llegará](https://open.spotify.com/album/1kGSX1V9qlLqa51ldvn9TR) | 2:25 | 2022-07-15 |  |
+| [La Suerte Llegará](https://open.spotify.com/track/6kkupWXVg8I0XjbCbx7lHu) | [Alonso Librado](https://open.spotify.com/artist/0fCLdOidYGZ2fORXrf3zw0) | [La Suerte Llegará](https://open.spotify.com/album/1kGSX1V9qlLqa51ldvn9TR) | 2:25 | 2022-07-15 | 2022-09-23 |
 | [Lake District](https://open.spotify.com/track/2xrNBiMKQ8Waq8Yfk3SILh) | [Argun North](https://open.spotify.com/artist/4jjr4BcdHYLSoU3Ba1pq9Q) | [Lake District](https://open.spotify.com/album/2D3X3S42HBWPbhWL9nE7YE) | 2:49 | 2022-07-15 |  |
 | [Lavender Fields](https://open.spotify.com/track/3ExlWxzIV13ak6afl93XDq) | [Josiah Mitchell](https://open.spotify.com/artist/6ADi5pFQDjbPqV3V1z4iUZ) | [Lavender Fields](https://open.spotify.com/album/5ZWhg4hM263s5Mb21HicFg) | 3:29 | 2022-07-15 |  |
 | [Leaving La Habana](https://open.spotify.com/track/25clc1eJ1cXlUqCk6K9BBL) | [Jürg Kindle](https://open.spotify.com/artist/5vmlpBR3GPFV5vYLSIZ7Tm), [Agustín Amigó](https://open.spotify.com/artist/3hUFjtgMr2bvq6E6tY7yQB) | [Leaving La Habana](https://open.spotify.com/album/4icca12AyQGQAqLzPTYs6E) | 3:38 | 2022-07-15 |  |
@@ -135,12 +136,12 @@
 | [Spring Awakening](https://open.spotify.com/track/0bYa0O1LHWVaPRKfdyO2yQ) | [Marcus Larsen](https://open.spotify.com/artist/3VvLdbNVbOdEcCrsmaOfYX) | [Siena](https://open.spotify.com/album/7uBcvHDsSXkR6m5CSHqCFJ) | 2:43 | 2022-07-15 |  |
 | [Stockholm Waltz](https://open.spotify.com/track/4qH4Otl7cbyUjg7kshFzUr) | [Julian Vigil](https://open.spotify.com/artist/37iIAObpTKbDOZ9BjSrmMv) | [Stockholm Waltz](https://open.spotify.com/album/0Vl8Nl9s21QHz3fSk3U623) | 2:20 | 2022-09-16 |  |
 | [The Poconos](https://open.spotify.com/track/0ds1reOHuK7CCsu3nIzZXj) | [Sara Rice\-Clark](https://open.spotify.com/artist/1ChFJ60swiMaSUuw1mmHwd) | [The Poconos](https://open.spotify.com/album/3A40QGZkO7BxsX5pwDr017) | 2:51 | 2022-07-15 |  |
-| [Thing Of Beauty](https://open.spotify.com/track/4ATFCqpqkV8IwC7SXuPZSZ) | [Timothy Reiger](https://open.spotify.com/artist/2gJCO2wkZJeVALM0a9PpV3) | [Thing Of Beauty](https://open.spotify.com/album/6xq6nBH8XUmiBRhDEBSi7y) | 2:32 | 2022-07-15 |  |
+| [Thing Of Beauty](https://open.spotify.com/track/4ATFCqpqkV8IwC7SXuPZSZ) | [Timothy Reiger](https://open.spotify.com/artist/2gJCO2wkZJeVALM0a9PpV3) | [Thing Of Beauty](https://open.spotify.com/album/6xq6nBH8XUmiBRhDEBSi7y) | 2:32 | 2022-07-15 | 2022-09-23 |
 | [Through The Clouds](https://open.spotify.com/track/4iAdXL69NTrfKpBO8os3uZ) | [Benedict Wallfish](https://open.spotify.com/artist/0J9KRHzB7ZVu5zqVztzclJ) | [Learn to Fly](https://open.spotify.com/album/329j1EFas4BUDJaJLz0k5l) | 3:01 | 2022-07-15 |  |
 | [Tiempo Diferente](https://open.spotify.com/track/2Ydby2f4z6soHFOJ5vwksZ) | [Francisca Fortinbras](https://open.spotify.com/artist/5fwKwRmjgEbAclDp30ssyD) | [Tiempo Diferente](https://open.spotify.com/album/7Hop5OQe2ynxNv0CoOUR9g) | 2:27 | 2022-07-15 |  |
 | [Todo Es Mi Culpa](https://open.spotify.com/track/5YEiLgjWOoWQdmy8ziS42B) | [Dominic Ruiz](https://open.spotify.com/artist/4x3JdU2gxNgHzMdY61pCOx) | [Todo Es Mi Culpa](https://open.spotify.com/album/2i3eS5YpZIAjskFF5mffpd) | 3:24 | 2022-07-15 |  |
 | [tranquila](https://open.spotify.com/track/0WfGcbNKdff8Ud2kQVW2nz) | [Rafaela Moreno](https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF) | [tranquila](https://open.spotify.com/album/2SkyKZ3eE11Hyrg3E1BZZy) | 2:49 | 2022-07-15 |  |
-| [Un Dia de Novembre](https://open.spotify.com/track/2JuotGupvzrnGSYSx31N1o) | [Leo Brouwer](https://open.spotify.com/artist/4PdumqEAuo2EQzukVWnxa0), [Clara Jansen](https://open.spotify.com/artist/36naeGyvAeqzuXPIVtAY6C) | [Romance d'amour](https://open.spotify.com/album/20eQWEKfXxNTeFl34aKtmr) | 2:11 | 2022-07-15 |  |
+| [Un Dia de Novembre](https://open.spotify.com/track/2JuotGupvzrnGSYSx31N1o) | [Leo Brouwer](https://open.spotify.com/artist/4PdumqEAuo2EQzukVWnxa0), [Clara Jansen](https://open.spotify.com/artist/36naeGyvAeqzuXPIVtAY6C) | [Romance d'amour](https://open.spotify.com/album/20eQWEKfXxNTeFl34aKtmr) | 2:11 | 2022-07-15 | 2022-09-23 |
 | [Unknown](https://open.spotify.com/track/3GAGou6aIHq6LpVOWat8yl) | [Atacustico](https://open.spotify.com/artist/0rvubIwf5v5p5KqyCuVZmk) | [Unknown](https://open.spotify.com/album/2bOqx8yL6KpAUcNtv8RhO2) | 2:27 | 2022-09-09 |  |
 | [Vals del Poniente](https://open.spotify.com/track/0qV4MeBsY9MvlMVoIGMXi0) | [Pablo Briceño](https://open.spotify.com/artist/4SoRek2FECACQBVjfhZ3sQ), [Manuel Galán](https://open.spotify.com/artist/29d8S9wbsggVBbr2YXxjfM) | [Vals del Poniente](https://open.spotify.com/album/1LsfF1UWdBt9D0VrNfL6rE) | 2:02 | 2022-07-15 |  |
 | [Valsa e Vinho](https://open.spotify.com/track/4992uwyEYOstUKzPgdPVR3) | [Nelson Gomes](https://open.spotify.com/artist/1OSiaLKfv7utlBDRS3Qr31) | [Valsa e Vinho](https://open.spotify.com/album/0LNkP579n9idgfPSrTObSV) | 2:38 | 2022-07-15 |  |

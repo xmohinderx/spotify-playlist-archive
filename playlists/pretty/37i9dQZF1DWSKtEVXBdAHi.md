@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKtEVXBdAHi.md) - [plain]
 
 > Utan bra musik blir det ingen bra AW\. Så enkel är ekvationen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,045 likes - 80 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,047 likes - 80 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKtEVXBdAHi.md) - [plain]
 | 18 | [Lonely Together \(feat\. Rita Ora\)](https://open.spotify.com/track/75NhhYjHO43mvZgYtnXgti) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [AVĪCI \(01\)](https://open.spotify.com/album/1m3mf7xkXIwssVriaaTjOS) | 3:01 |
 | 19 | [Happy Now](https://open.spotify.com/track/14sOS5L36385FJ3OL8hew4) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Sandro Cavazza](https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy) | [Happy Now](https://open.spotify.com/album/6nAjd2MlBY1f1mNu6BsWLO) | 3:31 |
 | 20 | [Rather Be \(feat\. Jess Glynne\)](https://open.spotify.com/track/3s4U7OHV7gnj42VV72eSZ6) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [Rather Be \(feat\. Jess Glynne\)](https://open.spotify.com/album/4UB0J5V3JsZZtNR360pZ6r) | 3:47 |
-| 21 | [Youngblood](https://open.spotify.com/track/55S2PQgSMYAhgoTCcGCDfw) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Youngblood](https://open.spotify.com/album/16Qs4jnIyXe7jprnMNRddy) | 3:23 |
-| 22 | [The Greatest \(feat\. Kendrick Lamar\)](https://open.spotify.com/track/7xHWNBFm6ObGEQPaUxHuKO) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [This Is Acting \(Deluxe Version\)](https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX) | 3:30 |
+| 21 | [The Greatest \(feat\. Kendrick Lamar\)](https://open.spotify.com/track/7xHWNBFm6ObGEQPaUxHuKO) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [This Is Acting \(Deluxe Version\)](https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX) | 3:30 |
+| 22 | [Youngblood](https://open.spotify.com/track/55S2PQgSMYAhgoTCcGCDfw) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Youngblood](https://open.spotify.com/album/16Qs4jnIyXe7jprnMNRddy) | 3:23 |
 | 23 | [Keep You Mine](https://open.spotify.com/track/0OJN2A3Qyvd7pwSF0AIteC) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [SHY Martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [Keep You Mine](https://open.spotify.com/album/6r3wtqeQLGFb59YJWz2jHC) | 2:54 |
 | 24 | [Easy Love](https://open.spotify.com/track/5s7xgzXtmY4gMjeSlgisjy) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN) | [Brighter Days](https://open.spotify.com/album/5rr0xAQfk01cPi1N37jX11) | 3:49 |
 | 25 | [Final Song](https://open.spotify.com/track/4qqArAiTPueDxIp7cf87h7) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Final Song](https://open.spotify.com/album/2gcqSlK5xTxcpuLZ1iik3Z) | 3:55 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKtEVXBdAHi.md) - [plain]
 | 79 | [Too Far Gone](https://open.spotify.com/track/0s5ibKUNbISHnrBrx1o2nF) | [Lost Kings](https://open.spotify.com/artist/3hyEbRtp617pNCuuQjyOmc), [Anna Clendening](https://open.spotify.com/artist/2y9j8qUwBMGPYPQJJxmYzD) | [Too Far Gone](https://open.spotify.com/album/4Ow8VDC7PLzir1Glze74dW) | 3:16 |
 | 80 | [Did You Forget](https://open.spotify.com/track/5IxobSU5BKaUoeMDDAtJwg) | [Jeff Riv3r & Mike F](https://open.spotify.com/artist/4O3BLUhLCrqcPiX8vOVbHh), [Michel Fannoun](https://open.spotify.com/artist/6VMiCKfMjcq2KzrozRA9ko) | [Did You Forget](https://open.spotify.com/album/0lnxwZAV1OzqEC5TiikQHe) | 3:04 |
 
-Snapshot ID: `MTU4MjAzMjY5MCwwMDAwMDAwMGNjODQ3ZGRmZjY3ZDgwNjBmNjg4ZjU2ZDkyY2I4N2Zi`
+Snapshot ID: `MTU4MjAzMjY5MCwwMDAwMDAwMDQ0YmEwNmNkM2RiMThkYjUwMmFhZDY5ZWQ4MjY1OWNk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5e2bJhV6pu.md) - [plain]
 
 > Get your day off to a cracking start!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,159,916 likes - 80 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,160,266 likes - 80 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5e2bJhV6pu.md) - [plain]
 | 79 | [Say So](https://open.spotify.com/track/3Dv1eDb0MEgF93GpLXlucZ) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Hot Pink](https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3) | 3:57 |
 | 80 | [The Middle](https://open.spotify.com/track/09IStsImFySgyp0pIQdqAc) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Grey](https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl) | [The Middle](https://open.spotify.com/album/7nEiwcUSwycvC77kZ9ub7c) | 3:04 |
 
-Snapshot ID: `MTY2MjUyNzIzOCwwMDAwMDAwMGUxM2JlN2M0NGYwOTY0NDI5OWZkM2ZmODBjNmRjM2Q2`
+Snapshot ID: `MTY2Mzg1NTIwMCwwMDAwMDAwMGVjMzNjMjFiMjJlNjg1YWRjMDRlYWZjZDAzNTZkNWY0`

@@ -1,12 +1,12 @@
 {
   "description": "Rock en vivo de la A a la Z, de ayer, de hoy y de siempre... \u00a1Canten ustedes! Foto: Rata Blanca",
-  "num_followers": 90888,
+  "num_followers": 90925,
   "original_name": "Vivo de Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY5MjQwMCwwMDAwMDAwMGNjYzg3YjUxZWRkYzNhMmI3N2U5N2YyYjdjZTdlYzU0",
+  "snapshot_id": "MTY2MjY5MjQwMCwwMDAwMDAwMDlmODdjZjk3MzE5MTY3MjliY2ZjZDIwNWM0ZjBlY2Jl",
   "tracks": [
     {
       "added_at": "2022-09-09 03:00:00",
@@ -519,8 +519,8 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
-        "name": "No S\u00e9 Si Es Baires O Madrid",
-        "url": "https://open.spotify.com/album/4WLwsEOqZXfYEJK9iLdGVs"
+        "name": "El Amor Despu\u00e9s Del Amor 20 A\u00f1os ( En Vivo )",
+        "url": "https://open.spotify.com/album/69hkXFR8jgVt1cLqfQmKEj"
       },
       "artists": [
         {
@@ -528,9 +528,9 @@
           "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
         }
       ],
-      "duration_ms": 432680,
-      "name": "Al Lado Del Camino",
-      "url": "https://open.spotify.com/track/4kO3ytUsym4fw60Szcglc5"
+      "duration_ms": 340653,
+      "name": "A Rodar Mi Vida - En Vivo",
+      "url": "https://open.spotify.com/track/4tHukPtCIjMugUkLh0aIpE"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -599,8 +599,8 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
-        "name": "El Amor Despu\u00e9s Del Amor 20 A\u00f1os ( En Vivo )",
-        "url": "https://open.spotify.com/album/69hkXFR8jgVt1cLqfQmKEj"
+        "name": "No S\u00e9 Si Es Baires O Madrid",
+        "url": "https://open.spotify.com/album/4WLwsEOqZXfYEJK9iLdGVs"
       },
       "artists": [
         {
@@ -608,9 +608,9 @@
           "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
         }
       ],
-      "duration_ms": 340653,
-      "name": "A Rodar Mi Vida - En Vivo",
-      "url": "https://open.spotify.com/track/4tHukPtCIjMugUkLh0aIpE"
+      "duration_ms": 432680,
+      "name": "Al Lado Del Camino",
+      "url": "https://open.spotify.com/track/4kO3ytUsym4fw60Szcglc5"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -679,38 +679,6 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
-        "name": "De La Cabeza Con Bersuit Vergarabat (Live In Buenos Aires / 2001)",
-        "url": "https://open.spotify.com/album/7xdsaV2y15dItFMlsoWTqu"
-      },
-      "artists": [
-        {
-          "name": "Bersuit Vergarabat",
-          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
-        }
-      ],
-      "duration_ms": 226186,
-      "name": "Yo Tomo - Live In Buenos Aires / 2001",
-      "url": "https://open.spotify.com/track/3AjtTcyP76C5Cwb0qfvPM6"
-    },
-    {
-      "added_at": "2022-09-09 03:00:00",
-      "album": {
-        "name": "14 Episodios Sinf\u00f3nicos / En Vivo / Auditorio Nacional de M\u00e9xico / Febrero 2002",
-        "url": "https://open.spotify.com/album/68BnYL75CjklQes6lwfzWO"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Cerati",
-          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
-        }
-      ],
-      "duration_ms": 431580,
-      "name": "Hombre al Agua (Sinf\u00f3nico en Vivo)",
-      "url": "https://open.spotify.com/track/5wi2cktKirlyirlUTsTHCg"
-    },
-    {
-      "added_at": "2022-09-09 03:00:00",
-      "album": {
         "name": "Trapos",
         "url": "https://open.spotify.com/album/1K64jidLVfUXr4aCBbcXEI"
       },
@@ -727,6 +695,22 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
+        "name": "De La Cabeza Con Bersuit Vergarabat (Live In Buenos Aires / 2001)",
+        "url": "https://open.spotify.com/album/7xdsaV2y15dItFMlsoWTqu"
+      },
+      "artists": [
+        {
+          "name": "Bersuit Vergarabat",
+          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
+        }
+      ],
+      "duration_ms": 226186,
+      "name": "Yo Tomo - Live In Buenos Aires / 2001",
+      "url": "https://open.spotify.com/track/3AjtTcyP76C5Cwb0qfvPM6"
+    },
+    {
+      "added_at": "2022-09-09 03:00:00",
+      "album": {
         "name": "Unplugged",
         "url": "https://open.spotify.com/album/7vuvoAP3WxyXIvH64LDn1R"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 329893,
       "name": "Demoliendo Hoteles - Live",
       "url": "https://open.spotify.com/track/15dNGPxvzuCvTBzFGmveZi"
+    },
+    {
+      "added_at": "2022-09-09 03:00:00",
+      "album": {
+        "name": "14 Episodios Sinf\u00f3nicos / En Vivo / Auditorio Nacional de M\u00e9xico / Febrero 2002",
+        "url": "https://open.spotify.com/album/68BnYL75CjklQes6lwfzWO"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Cerati",
+          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+        }
+      ],
+      "duration_ms": 431580,
+      "name": "Hombre al Agua (Sinf\u00f3nico en Vivo)",
+      "url": "https://open.spotify.com/track/5wi2cktKirlyirlUTsTHCg"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -947,22 +947,6 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
-        "name": "Fuego (En Vivo Luna Park)",
-        "url": "https://open.spotify.com/album/1V8ku6WhML2Z15eiLqIoHA"
-      },
-      "artists": [
-        {
-          "name": "Intoxicados",
-          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
-        }
-      ],
-      "duration_ms": 286528,
-      "name": "Fuego - En Vivo Luna Park",
-      "url": "https://open.spotify.com/track/6WtFW6voAmKo5QOf3KTj6K"
-    },
-    {
-      "added_at": "2022-09-09 03:00:00",
-      "album": {
         "name": "En Vivo en el Estadio \u00danico",
         "url": "https://open.spotify.com/album/7GYnlBfQuUjK8ArBRMtYxp"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 456626,
       "name": "Flores - En Vivo en el Estadio \u00danico",
       "url": "https://open.spotify.com/track/3zLOiFlFq5Wh8qckWyRNqy"
+    },
+    {
+      "added_at": "2022-09-09 03:00:00",
+      "album": {
+        "name": "Fuego (En Vivo Luna Park)",
+        "url": "https://open.spotify.com/album/1V8ku6WhML2Z15eiLqIoHA"
+      },
+      "artists": [
+        {
+          "name": "Intoxicados",
+          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
+        }
+      ],
+      "duration_ms": 286528,
+      "name": "Fuego - En Vivo Luna Park",
+      "url": "https://open.spotify.com/track/6WtFW6voAmKo5QOf3KTj6K"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
-        "name": "Insoportablemente Vivo (En Directo Desde Estadio De Hurac\u00e1n Buenos Aires / 2001)",
-        "url": "https://open.spotify.com/album/5cgGmPTXGyysE1ShAqPh0x"
-      },
-      "artists": [
-        {
-          "name": "La Renga",
-          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
-        }
-      ],
-      "duration_ms": 283946,
-      "name": "Lo Fr\u00e1gil De La Locura - En Directo Desde Estadio De Hurac\u00e1n Buenos Aires / 2001",
-      "url": "https://open.spotify.com/track/09MFq4vAtlRnC9dQVQJYln"
-    },
-    {
-      "added_at": "2022-09-09 03:00:00",
-      "album": {
         "name": "Provincia Emergente Estadio Unico de La Plata (En Vivo)",
         "url": "https://open.spotify.com/album/2VPSdVQuuSNyYPIgzxruqi"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 334320,
       "name": "Avanti Morocha (En Vivo Provincia Emergente)",
       "url": "https://open.spotify.com/track/7KEi5XL40fRcqyq9aUcDX6"
+    },
+    {
+      "added_at": "2022-09-09 03:00:00",
+      "album": {
+        "name": "Insoportablemente Vivo (En Directo Desde Estadio De Hurac\u00e1n Buenos Aires / 2001)",
+        "url": "https://open.spotify.com/album/5cgGmPTXGyysE1ShAqPh0x"
+      },
+      "artists": [
+        {
+          "name": "La Renga",
+          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
+        }
+      ],
+      "duration_ms": 283946,
+      "name": "Lo Fr\u00e1gil De La Locura - En Directo Desde Estadio De Hurac\u00e1n Buenos Aires / 2001",
+      "url": "https://open.spotify.com/track/09MFq4vAtlRnC9dQVQJYln"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
+        "name": "El Amor Despu\u00e9s Del Amor 20 A\u00f1os ( En Vivo )",
+        "url": "https://open.spotify.com/album/69hkXFR8jgVt1cLqfQmKEj"
+      },
+      "artists": [
+        {
+          "name": "Fito Paez",
+          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
+        }
+      ],
+      "duration_ms": 247613,
+      "name": "La Rueda M\u00e1gica - En Vivo",
+      "url": "https://open.spotify.com/track/4lhtqmdz80xSAKWMwDUcuK"
+    },
+    {
+      "added_at": "2022-09-09 03:00:00",
+      "album": {
         "name": "Kapangstock",
         "url": "https://open.spotify.com/album/5q9atOWoewQnrNG3t4mU5p"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 263573,
       "name": "Reyes de la Noche",
       "url": "https://open.spotify.com/track/5BtQSJAmxP3ezx5ZXR2p8s"
-    },
-    {
-      "added_at": "2022-09-09 03:00:00",
-      "album": {
-        "name": "El Amor Despu\u00e9s Del Amor 20 A\u00f1os ( En Vivo )",
-        "url": "https://open.spotify.com/album/69hkXFR8jgVt1cLqfQmKEj"
-      },
-      "artists": [
-        {
-          "name": "Fito Paez",
-          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
-        }
-      ],
-      "duration_ms": 247613,
-      "name": "La Rueda M\u00e1gica - En Vivo",
-      "url": "https://open.spotify.com/track/4lhtqmdz80xSAKWMwDUcuK"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
-        "name": "Vivo Ac\u00e1",
-        "url": "https://open.spotify.com/album/2EzmMJuPwDj8CSpSL7TieY"
-      },
-      "artists": [
-        {
-          "name": "Divididos",
-          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
-        }
-      ],
-      "duration_ms": 321253,
-      "name": "Vida de Topos - En Vivo",
-      "url": "https://open.spotify.com/track/6AaSvhWkYo2MMZX1o93TM8"
-    },
-    {
-      "added_at": "2022-09-09 03:00:00",
-      "album": {
         "name": "Huracanes en Luna Plateada (En Vivo)",
         "url": "https://open.spotify.com/album/1z9HFVvWCXsY1BkmyGBiRx"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 258493,
       "name": "Mar\u00eda y Jos\u00e9 - En Vivo",
       "url": "https://open.spotify.com/track/7dRcduV7DKRzYhFkFUJVFF"
+    },
+    {
+      "added_at": "2022-09-09 03:00:00",
+      "album": {
+        "name": "Vivo Ac\u00e1",
+        "url": "https://open.spotify.com/album/2EzmMJuPwDj8CSpSL7TieY"
+      },
+      "artists": [
+        {
+          "name": "Divididos",
+          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
+        }
+      ],
+      "duration_ms": 321253,
+      "name": "Vida de Topos - En Vivo",
+      "url": "https://open.spotify.com/track/6AaSvhWkYo2MMZX1o93TM8"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
-        "name": "Luces (En Vivo Luna Park 2006)",
-        "url": "https://open.spotify.com/album/2vHwdJI0FKurPPmHjXj24Z"
-      },
-      "artists": [
-        {
-          "name": "Babas\u00f3nicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
-        }
-      ],
-      "duration_ms": 164080,
-      "name": "Capricho (En Vivo Luna Park 2006)",
-      "url": "https://open.spotify.com/track/2w4RdnyrpxJA0xvVsZHInx"
-    },
-    {
-      "added_at": "2022-09-09 03:00:00",
-      "album": {
         "name": "El Amor Despu\u00e9s Del Amor 20 A\u00f1os ( En Vivo )",
         "url": "https://open.spotify.com/album/69hkXFR8jgVt1cLqfQmKEj"
       },
@@ -1551,18 +1535,34 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
-        "name": "Sortilegio de Arrabal",
-        "url": "https://open.spotify.com/album/4FMIICOCC7pmOdhDwIUkid"
+        "name": "Luces (En Vivo Luna Park 2006)",
+        "url": "https://open.spotify.com/album/2vHwdJI0FKurPPmHjXj24Z"
       },
       "artists": [
         {
-          "name": "Los Gardelitos",
-          "url": "https://open.spotify.com/artist/1WXAndtMSMymA6qMXyvoXV"
+          "name": "Babas\u00f3nicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
         }
       ],
-      "duration_ms": 244071,
-      "name": "Envuelto en Llamas (En Vivo)",
-      "url": "https://open.spotify.com/track/674zid6QdjoHzafff631N8"
+      "duration_ms": 164080,
+      "name": "Capricho (En Vivo Luna Park 2006)",
+      "url": "https://open.spotify.com/track/2w4RdnyrpxJA0xvVsZHInx"
+    },
+    {
+      "added_at": "2022-09-09 03:00:00",
+      "album": {
+        "name": "Huellas Digitales (En Vivo)",
+        "url": "https://open.spotify.com/album/61TR8ZaXw2iCrD4uxgex54"
+      },
+      "artists": [
+        {
+          "name": "Eruca Sativa",
+          "url": "https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6"
+        }
+      ],
+      "duration_ms": 346040,
+      "name": "El Balc\u00f3n - En Vivo",
+      "url": "https://open.spotify.com/track/7ywbpggu1JZHDKCK153aTf"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -1583,18 +1583,18 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
-        "name": "Huellas Digitales (En Vivo)",
-        "url": "https://open.spotify.com/album/61TR8ZaXw2iCrD4uxgex54"
+        "name": "Sortilegio de Arrabal",
+        "url": "https://open.spotify.com/album/4FMIICOCC7pmOdhDwIUkid"
       },
       "artists": [
         {
-          "name": "Eruca Sativa",
-          "url": "https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6"
+          "name": "Los Gardelitos",
+          "url": "https://open.spotify.com/artist/1WXAndtMSMymA6qMXyvoXV"
         }
       ],
-      "duration_ms": 346040,
-      "name": "El Balc\u00f3n - En Vivo",
-      "url": "https://open.spotify.com/track/7ywbpggu1JZHDKCK153aTf"
+      "duration_ms": 244071,
+      "name": "Envuelto en Llamas (En Vivo)",
+      "url": "https://open.spotify.com/track/674zid6QdjoHzafff631N8"
     },
     {
       "added_at": "2022-09-09 03:00:00",

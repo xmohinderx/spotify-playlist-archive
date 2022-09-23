@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The best jazz new releases. Photo : Gabriels",
+  "description": "The best jazz new releases. Photo : Laurent Coulondre",
   "name": "Jazz Club",
   "published_playlist_ids": [
     "3rs0g3vcnj4aI2NKRtpM5z"
@@ -297,10 +297,28 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 207682,
       "name": "Blossom's Blues",
       "url": "https://open.spotify.com/track/7mwxIlsW86NrePRjW19PZx"
+    },
+    {
+      "album": {
+        "name": "Boomer Beach Club",
+        "url": "https://open.spotify.com/album/6V1YvUQGfSBi2FWzYxsGZL"
+      },
+      "artists": [
+        {
+          "name": "Pierre de Frebourg",
+          "url": "https://open.spotify.com/artist/6oGqggYYWcMdy5iq5coDiU"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327006,
+      "name": "Boomer Beach Club",
+      "url": "https://open.spotify.com/track/7jODp4rN9m84yYx16dUcwm"
     },
     {
       "album": {
@@ -433,7 +451,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 211813,
       "name": "Come Fly with Me",
       "url": "https://open.spotify.com/track/6Yzl0fJuDnNsQA3I1VVSCP"
@@ -637,6 +655,36 @@
       "duration_ms": 324000,
       "name": "Dirty Mariposa",
       "url": "https://open.spotify.com/track/7hiCGd7VM7ToeLZgo0Mvo7"
+    },
+    {
+      "album": {
+        "name": "LongGone (feat. Brad Mehldau, Christian McBride & Brian Blade)",
+        "url": "https://open.spotify.com/album/52Vr22XzeD9rIOnOQ3OSKR"
+      },
+      "artists": [
+        {
+          "name": "Joshua Redman",
+          "url": "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
+        },
+        {
+          "name": "Brad Mehldau",
+          "url": "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
+        },
+        {
+          "name": "Brian Blade",
+          "url": "https://open.spotify.com/artist/0nXwIc4NAbu2K881ealRDu"
+        },
+        {
+          "name": "Christian McBride",
+          "url": "https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381160,
+      "name": "Disco Ears",
+      "url": "https://open.spotify.com/track/5li75DMlmHshiqcMStzxhF"
     },
     {
       "album": {
@@ -1740,6 +1788,56 @@
     },
     {
       "album": {
+        "name": "Meva Festa",
+        "url": "https://open.spotify.com/album/36Jal3DfKpkkGEV5ZAA2s5"
+      },
+      "artists": [
+        {
+          "name": "Laurent Coulondre",
+          "url": "https://open.spotify.com/artist/1yv7gzHLWb53t8smEXXcUV"
+        },
+        {
+          "name": "Martin Wangerm\u00e9e",
+          "url": "https://open.spotify.com/artist/6Cko0OY4MlDWb57nLFMV4q"
+        },
+        {
+          "name": "Alexis Bourguignon",
+          "url": "https://open.spotify.com/artist/3KbkoymkBIQF812bJQYPPE"
+        },
+        {
+          "name": "Robinson Khoury",
+          "url": "https://open.spotify.com/artist/1L0xfJpihhDB3N8GEbmV6J"
+        },
+        {
+          "name": "St\u00e9phane Guillaume",
+          "url": "https://open.spotify.com/artist/2JmUauyONacBoIcYvSggJr"
+        },
+        {
+          "name": "Lucas Saint-Cricq",
+          "url": "https://open.spotify.com/artist/7AB1iv55p57sSmfa9d7GsI"
+        },
+        {
+          "name": "Nicolas Folmer",
+          "url": "https://open.spotify.com/artist/42oVkAbF0mIgvyFEIfeUUQ"
+        },
+        {
+          "name": "Adriano Dos Santos Tenorio",
+          "url": "https://open.spotify.com/artist/4s4GAWdKDa4sB0wQpA70lS"
+        },
+        {
+          "name": "Jeremy Bruyere",
+          "url": "https://open.spotify.com/artist/27B9cx6PSADN8csmFRU0Tj"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250128,
+      "name": "Piment doux",
+      "url": "https://open.spotify.com/track/4YYaJVza3fZCPgLYv2k6Mh"
+    },
+    {
+      "album": {
         "name": "Plus Fort Que Nous",
         "url": "https://open.spotify.com/album/5b3U4t8eiOoLiBlqGZ2Zwf"
       },
@@ -2057,7 +2155,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 197501,
       "name": "Something Tomorrow",
       "url": "https://open.spotify.com/track/6il16WIBZGRYEJ5sqpYoVY"
@@ -2075,7 +2173,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 298096,
       "name": "Soulful",
       "url": "https://open.spotify.com/track/4uuF07XqmSTTrpmHEfkYSc"
@@ -2133,6 +2231,28 @@
       "duration_ms": 216611,
       "name": "Sun Dog",
       "url": "https://open.spotify.com/track/4n4EALhlcYv1tsc45asW3M"
+    },
+    {
+      "album": {
+        "name": "Suzanne",
+        "url": "https://open.spotify.com/album/6ZzCxDsaWHAK4kKcjep4iQ"
+      },
+      "artists": [
+        {
+          "name": "Here It Is",
+          "url": "https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw"
+        },
+        {
+          "name": "Gregory Porter",
+          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273626,
+      "name": "Suzanne (feat. Gregory Porter)",
+      "url": "https://open.spotify.com/track/2IYWqinJpFhid2qRqnqPDA"
     },
     {
       "album": {
@@ -2695,7 +2815,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 200213,
       "name": "Way Out",
       "url": "https://open.spotify.com/track/54vmnIj6yLipSrw1KMK3zg"
@@ -2823,6 +2943,32 @@
       "duration_ms": 207431,
       "name": "Word of mouth",
       "url": "https://open.spotify.com/track/0TVdv9t7nx36wbWXTGcnIT"
+    },
+    {
+      "album": {
+        "name": "My Days in Copenhagen",
+        "url": "https://open.spotify.com/album/7uHalLMcXcHRQxtI8usglb"
+      },
+      "artists": [
+        {
+          "name": "Jean-Pierre Como",
+          "url": "https://open.spotify.com/artist/2Ljlfck4EICwQziKkapzlO"
+        },
+        {
+          "name": "Thomas Fonnesb\u00e6k",
+          "url": "https://open.spotify.com/artist/2GWMZZQNuU0VZra0suXVph"
+        },
+        {
+          "name": "Niclas Campagnol",
+          "url": "https://open.spotify.com/artist/1VqIpsJWDzAFIxWXCGCLuL"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376666,
+      "name": "You and the Night and the Music",
+      "url": "https://open.spotify.com/track/0pv0fKJSALa9MWseuzQFUR"
     },
     {
       "album": {

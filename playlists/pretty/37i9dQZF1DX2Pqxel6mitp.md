@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Pqxel6mitp.md) - [plain]
 
 > A cup of Joe and the raw blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,045 likes - 75 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,154 likes - 75 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,15 +73,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Pqxel6mitp.md) - [plain]
 | 63 | [Hangover Blues](https://open.spotify.com/track/1babQrGnsSw3RZ07KvMapY) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Hangover Blues](https://open.spotify.com/album/5tVLK620Eepr8FfUFvYmkz) | 4:04 |
 | 64 | [Tell Me Baby](https://open.spotify.com/track/71yVjDvQpUzzPdocf3DAYo) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Muddy Waters Sings Big Bill Broonzy](https://open.spotify.com/album/2ULAVn0TXR0ISBy9v8iCrU) | 2:15 |
 | 65 | [Guitar Man \(feat\. Christone "Kingfish" Ingram\)](https://open.spotify.com/track/6Ldi3GEqxgHp3GZq7eKTYY) | [G\. Love & Special Sauce](https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89), [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Philadelphia Mississippi](https://open.spotify.com/album/7LPvvSqf27OBr5a8Erupl3) | 3:05 |
-| 66 | [First McDonell's on the Moon](https://open.spotify.com/track/5tIPp0eDCVopzvXyeMgUOm) | [Jake La Botz](https://open.spotify.com/artist/7pHtidPDRlqg71cTcwjWQX) | [First McDonell's on the Moon](https://open.spotify.com/album/6hVnFJurOhApCMbjug96f4) | 3:51 |
-| 67 | [Back on Top](https://open.spotify.com/track/1Ps6uZFGUtM8VZlOTY6EnU) | [Buffalo Nichols](https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh) | [Buffalo Nichols](https://open.spotify.com/album/2P9z3iSo6T3NmaX5q4FjTc) | 3:25 |
-| 68 | [Man in the Ground](https://open.spotify.com/track/58hIcKjEMwvTLGdEsdfRPf) | [Jack Barksdale](https://open.spotify.com/artist/0Xr86XoAGFGXZTAFjr3EMt) | [Man in the Ground](https://open.spotify.com/album/3pSMQQFLcjdQDasxNuGNEF) | 3:06 |
-| 69 | [Blues Chase up a Rabbit](https://open.spotify.com/track/1sUlYlnaANkXLmv78fRkzA) | [Judy Henske](https://open.spotify.com/artist/3UtfXMhd36NSwHMvWYuE8A) | [High Flying Bird](https://open.spotify.com/album/1PKo6UvTCdxihIRNH5qLyA) | 2:39 |
-| 70 | [Death Valley Blues](https://open.spotify.com/track/7rG5HKSHsK3HDb2HWGiDAT) | [Arthur "Big Boy" Crudup](https://open.spotify.com/artist/7dSnChJjb0jdfulJsIijoC) | [Death Valley Blues](https://open.spotify.com/album/1TbXvKBvqWDDIOADkyTNoM) | 2:43 |
-| 71 | [Great God Almighty \- Demo, Summer 2018](https://open.spotify.com/track/1LOYHXCCqHpnLuzfXRCjfy) | [Mike Trask](https://open.spotify.com/artist/03QTVe1gbMUcw3wF1Vdn4k) | [Great God Almighty \(Demo, Summer 2018\)](https://open.spotify.com/album/346VRPWFqkGJ6r67HMvOm4) | 2:58 |
-| 72 | [C.C\. Rider](https://open.spotify.com/track/2jpyzovZr1zpVVVKck8rlu) | [Jerry Lee Lewis](https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo) | [The "Killer" Rocks On](https://open.spotify.com/album/6vFYcOml32pCUDT7Adp5hW) | 2:52 |
-| 73 | [Navigation Blues](https://open.spotify.com/track/55WTb0BjmzXUUurFiNRWVk) | [Thorbjørn Risager](https://open.spotify.com/artist/1ZH4VWLaW65KivEJmbhhiT), [The Black Tornado](https://open.spotify.com/artist/5xZXRYnVUXrCglxwVCLAVD) | [Navigation Blues](https://open.spotify.com/album/1uVVEurSRPaxgJF2EuAHEr) | 4:56 |
+| 66 | [Back on Top](https://open.spotify.com/track/1Ps6uZFGUtM8VZlOTY6EnU) | [Buffalo Nichols](https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh) | [Buffalo Nichols](https://open.spotify.com/album/2P9z3iSo6T3NmaX5q4FjTc) | 3:25 |
+| 67 | [First McDonell's on the Moon](https://open.spotify.com/track/5tIPp0eDCVopzvXyeMgUOm) | [Jake La Botz](https://open.spotify.com/artist/7pHtidPDRlqg71cTcwjWQX) | [First McDonell's on the Moon](https://open.spotify.com/album/6hVnFJurOhApCMbjug96f4) | 3:51 |
+| 68 | [Death Valley Blues](https://open.spotify.com/track/7rG5HKSHsK3HDb2HWGiDAT) | [Arthur "Big Boy" Crudup](https://open.spotify.com/artist/7dSnChJjb0jdfulJsIijoC) | [Death Valley Blues](https://open.spotify.com/album/1TbXvKBvqWDDIOADkyTNoM) | 2:43 |
+| 69 | [Man in the Ground](https://open.spotify.com/track/58hIcKjEMwvTLGdEsdfRPf) | [Jack Barksdale](https://open.spotify.com/artist/0Xr86XoAGFGXZTAFjr3EMt) | [Man in the Ground](https://open.spotify.com/album/3pSMQQFLcjdQDasxNuGNEF) | 3:06 |
+| 70 | [Blues Chase up a Rabbit](https://open.spotify.com/track/1sUlYlnaANkXLmv78fRkzA) | [Judy Henske](https://open.spotify.com/artist/3UtfXMhd36NSwHMvWYuE8A) | [High Flying Bird](https://open.spotify.com/album/1PKo6UvTCdxihIRNH5qLyA) | 2:39 |
+| 71 | [Navigation Blues](https://open.spotify.com/track/55WTb0BjmzXUUurFiNRWVk) | [Thorbjørn Risager](https://open.spotify.com/artist/1ZH4VWLaW65KivEJmbhhiT), [The Black Tornado](https://open.spotify.com/artist/5xZXRYnVUXrCglxwVCLAVD) | [Navigation Blues](https://open.spotify.com/album/1uVVEurSRPaxgJF2EuAHEr) | 4:56 |
+| 72 | [Great God Almighty \- Demo, Summer 2018](https://open.spotify.com/track/1LOYHXCCqHpnLuzfXRCjfy) | [Mike Trask](https://open.spotify.com/artist/03QTVe1gbMUcw3wF1Vdn4k) | [Great God Almighty \(Demo, Summer 2018\)](https://open.spotify.com/album/346VRPWFqkGJ6r67HMvOm4) | 2:58 |
+| 73 | [C.C\. Rider](https://open.spotify.com/track/2jpyzovZr1zpVVVKck8rlu) | [Jerry Lee Lewis](https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo) | [The "Killer" Rocks On](https://open.spotify.com/album/6vFYcOml32pCUDT7Adp5hW) | 2:52 |
 | 74 | [Cigarettes, Whiskey And Wild, Wild Women](https://open.spotify.com/track/4CWMKliTHoJCoRWaI8WljW) | [The Big Three Trio](https://open.spotify.com/artist/7EPI9RLrU6kU6ZQLTqB7wY), [Willie Dixon](https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY) | [The Best Of Delta Records](https://open.spotify.com/album/6qF7UpIdnbVMPukKa9rpee) | 3:00 |
 | 75 | [Lone Star Blues](https://open.spotify.com/track/6RQBEr8vjgHlRIANySsjbm) | [Edgar Winter](https://open.spotify.com/artist/3UNrI3SG1l2ezKikxQ2zuk), [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Brother Johnny](https://open.spotify.com/album/4xRZx0cl1NVIG2oDtACbpa) | 3:57 |
 
-Snapshot ID: `MTY2MzAwMDc2MywwMDAwMDAwMGFkYjMxY2ZhMzA1NTkwMzQ3YTFhYTdjMDhlOWFmMjVj`
+Snapshot ID: `MTY2MzAwMDc2MywwMDAwMDAwMDU2OGMwOWI5MjdmMjQyNDM3ZTgxZGQ2YjVlZjUwOTAy`

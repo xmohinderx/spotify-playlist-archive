@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vfpJ74tSuo.md) - [plain]
 
 > I woke up this morning… to the chilled sound of the Blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,358 likes - 80 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,451 likes - 80 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vfpJ74tSuo.md) - [plain]
 | 3 | [Leaving Trunk](https://open.spotify.com/track/3E0VKSvZp76kvBU2WwwBul) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [Taj Mahal](https://open.spotify.com/album/0kEaFupzvrGdcczROS519i) | 4:49 |
 | 4 | [Sittin On Top Of The World](https://open.spotify.com/track/3GgvAt2Cyp7GRhYy9Luus1) | [Doc Watson](https://open.spotify.com/artist/01N1aZStXA4yGvkz4vRXtJ) | [Doc Watson](https://open.spotify.com/album/5utfrn0rGdeOC9MO2xCI6r) | 2:39 |
 | 5 | [I'm In The Mood](https://open.spotify.com/track/6iQ0OIxisPxhzEICEXtaWS) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [The Real Folk Blues](https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY) | 2:47 |
-| 6 | [Ai Du \(with Ry Cooder\)](https://open.spotify.com/track/3c6wivu78aLN7ZXp8UbpaI) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Talking Timbuktu \(with Ry Cooder\)](https://open.spotify.com/album/2MSgPFGGgIn5EqLezjLpt9) | 7:09 |
-| 7 | [Sweet Thang](https://open.spotify.com/track/2u3HmBPHrk3ooSdVikignW) | [Shuggie Otis](https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl) | [Freedom Flight](https://open.spotify.com/album/7suTZDEkiDpzkouw300noM) | 4:12 |
+| 6 | [Sweet Thang](https://open.spotify.com/track/2u3HmBPHrk3ooSdVikignW) | [Shuggie Otis](https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl) | [Freedom Flight](https://open.spotify.com/album/7suTZDEkiDpzkouw300noM) | 4:12 |
+| 7 | [Ai Du \(with Ry Cooder\)](https://open.spotify.com/track/3c6wivu78aLN7ZXp8UbpaI) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Talking Timbuktu \(with Ry Cooder\)](https://open.spotify.com/album/2MSgPFGGgIn5EqLezjLpt9) | 7:09 |
 | 8 | [Junker's Blues](https://open.spotify.com/track/31GIhpOQpKCzlnuPn03pBQ) | [Champion Jack Dupree](https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7) | [Blues From The Gutter](https://open.spotify.com/album/6tBbwtL1simKd3VF6jE5dL) | 3:12 |
 | 9 | [Mean Old World](https://open.spotify.com/track/3gg0xEc2b4eEbYySLmfFU1) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [T\-Bone Blues](https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3) | 4:07 |
 | 10 | [Queen Bee](https://open.spotify.com/track/6kqXaZrIDOmA177KL9LHHf) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [Señor Blues](https://open.spotify.com/album/1J4901NnEbPx0sTbfQlahA) | 4:40 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vfpJ74tSuo.md) - [plain]
 | 79 | [I'm Satisfied](https://open.spotify.com/track/6YWXv1B0n4jktNLb6LJ2QN) | [Mississippi John Hurt](https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA) | [Complete Studio Recordings](https://open.spotify.com/album/5cwghugVHA8qva7hYvMPVJ) | 2:55 |
 | 80 | [I'm Ready](https://open.spotify.com/track/4wk6CwXYGbwN5ueOhd6twG) | [The Reverend Shawn Amos](https://open.spotify.com/artist/2XfNsXm2GClde2U0tZpBQT) | [The Cause of It All](https://open.spotify.com/album/3ppJZy5wj282RpH5M3ld1a) | 2:17 |
 
-Snapshot ID: `MTY2MzY5MDUzNCwwMDAwMDAwMDJlNTFjNjgzZjkyMDNmNjY3MmQwYzUxMTQ3ZTgwMmRh`
+Snapshot ID: `MTY2MzY5MDUzNCwwMDAwMDAwMDEzNjllNmM0ZDQ1NzQxOTllMjhlNjAzYjEzNTIyZjUw`

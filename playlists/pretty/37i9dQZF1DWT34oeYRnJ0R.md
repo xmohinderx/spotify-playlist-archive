@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 
 > Just vibes\. Cover: paopao
 
-[Spotify](https://open.spotify.com/user/spotify) - 696,399 likes - 80 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 696,404 likes - 80 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 | 27 | [Ojos Negros](https://open.spotify.com/track/0hjbmFnvWmn9QPlEUKJUK3) | [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC), [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [Ojos Negros](https://open.spotify.com/album/1GpskTNrGXAlgg63EOMANt) | 3:19 |
 | 28 | [Tu Fanático \- Remix](https://open.spotify.com/track/6yvWk1foReDykNoYd7n1Wc) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Tu Fanático \(Remix\)](https://open.spotify.com/album/0bS2p0AQqpChH6HOhK5NzM) | 3:34 |
 | 29 | [Miedo](https://open.spotify.com/track/7acURarwO3OFjtUKzzQq1T) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Una Niña Inútil](https://open.spotify.com/album/3cOK1UKpkM2v2xtcbNFzzc) | 3:09 |
-| 30 | [RDMDA](https://open.spotify.com/track/4ucFAncTWKzcOjQ9J4SbaM) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [Sueños de Dalí](https://open.spotify.com/album/4jfOmy33i7nM0gW5zPslJK) | 2:50 |
-| 31 | [lo que pasó](https://open.spotify.com/track/6xS02EfbvnneFWCM90PJFG) | [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [lo que pasó](https://open.spotify.com/album/7FsquZmPaXaNImnGHMnFUH) | 2:30 |
+| 30 | [lo que pasó](https://open.spotify.com/track/6xS02EfbvnneFWCM90PJFG) | [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [lo que pasó](https://open.spotify.com/album/7FsquZmPaXaNImnGHMnFUH) | 2:30 |
+| 31 | [RDMDA](https://open.spotify.com/track/4ucFAncTWKzcOjQ9J4SbaM) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [Sueños de Dalí](https://open.spotify.com/album/4jfOmy33i7nM0gW5zPslJK) | 2:50 |
 | 32 | [En La Disco Revela](https://open.spotify.com/track/2aP62YJe28Kclfpx2DBjo7) | [DJ Nelson](https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Alejandro Armes](https://open.spotify.com/artist/3J9eSTe3nQKjuMyoiO2XSi) | [En La Disco Revela](https://open.spotify.com/album/37v6cQ4Ng0iXObwMzBwu5b) | 3:03 |
 | 33 | [Just Fine \(feat\. Kiana Ledé\)](https://open.spotify.com/track/4810VYLNArmiy9ftC7yhzV) | [Kitty Ca$h](https://open.spotify.com/artist/1WcZXhILKBJktTKnqfjWMT), [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Just Fine \(feat\. Kiana Ledé\)](https://open.spotify.com/album/39v3mxqGMJSk4VACEvENAc) | 2:51 |
 | 34 | [Honey](https://open.spotify.com/track/2FuQp5l27bC1sHWnZr8uA3) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Amor En Español](https://open.spotify.com/album/1e8k4kAKtcC5GIjfP4JDdR) | 3:06 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 | 64 | [Para Ti](https://open.spotify.com/track/3NAA9XN9xarn0V2nmw6EoV) | [Che Ecru](https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR) | [Til Death](https://open.spotify.com/album/1KdIvpllbhDOBXGxjM6azb) | 1:37 |
 | 65 | [Mi Fanatica](https://open.spotify.com/track/0WrRjLCLiX3ZaTZjyT3KbA) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW) | [Foreplay](https://open.spotify.com/album/0Zyin6wtlQoUC3ZSqMbAtT) | 4:04 |
 | 66 | [el vuelo](https://open.spotify.com/track/2qtrDGVkMqKrcL44b8U4LG) | [Yarge](https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4) | [el vuelo](https://open.spotify.com/album/50fPKkTgYxNCIaoEWb3jU3) | 3:05 |
-| 67 | [MIA](https://open.spotify.com/track/23GhLjcJ26QGrn7g4saZ4k) | [Aleesha](https://open.spotify.com/artist/18qC8mrcJ9ZjChRDPvpadi) | [La Patrona](https://open.spotify.com/album/7GTks3uBI8W9D2EeFYp9V1) | 3:31 |
-| 68 | [Direction](https://open.spotify.com/track/3K2PkX4J57HRMdjchzhV2x) | [Aniya Teno](https://open.spotify.com/artist/3tQk5O9Q3HKn7wA7yAl8MW), [Ivan Orozco](https://open.spotify.com/artist/0YtSuW7FvS3jNpb8dkc2Sl) | [Direction](https://open.spotify.com/album/07oAGIjAdGLI4RAFgPZ3UM) | 3:45 |
+| 67 | [Direction](https://open.spotify.com/track/3K2PkX4J57HRMdjchzhV2x) | [Aniya Teno](https://open.spotify.com/artist/3tQk5O9Q3HKn7wA7yAl8MW), [Ivan Orozco](https://open.spotify.com/artist/0YtSuW7FvS3jNpb8dkc2Sl) | [Direction](https://open.spotify.com/album/07oAGIjAdGLI4RAFgPZ3UM) | 3:45 |
+| 68 | [MIA](https://open.spotify.com/track/23GhLjcJ26QGrn7g4saZ4k) | [Aleesha](https://open.spotify.com/artist/18qC8mrcJ9ZjChRDPvpadi) | [La Patrona](https://open.spotify.com/album/7GTks3uBI8W9D2EeFYp9V1) | 3:31 |
 | 69 | [Me Recuerda a Ti](https://open.spotify.com/track/1Fngw0WPdqz5jRasncUjZS) | [GioBulla](https://open.spotify.com/artist/0Byw4aFEQbFJBgL82P0LKc) | [Me Recuerda a Ti](https://open.spotify.com/album/0CEnEIiJKwelKhAJK8Md20) | 2:54 |
 | 70 | [9 Times Outta 10](https://open.spotify.com/track/6lPCFkM3CZxabYWDTgwtwB) | [Angelic Montero](https://open.spotify.com/artist/2pxAIkRFeYyAt7Pumm7t7H) | [9 Times Outta 10](https://open.spotify.com/album/3kJqAgJe5yJX8VIcx6ER9b) | 2:52 |
 | 71 | [TE EXCITO](https://open.spotify.com/track/5mckOgQpLWXGKDL7JkhinL) | [MKY](https://open.spotify.com/artist/1PqHnWEPEpvvqbNYgMPcxX) | [TE EXCITO](https://open.spotify.com/album/39gMLm6ooahFbaF0EDOsdZ) | 3:00 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 | 79 | [yourplace](https://open.spotify.com/track/3zahH6mfmPZz4q038rk3Hu) | [riela](https://open.spotify.com/artist/5K3Lwty6gv1gtuPn3gcf3A) | [tranquila y tropical](https://open.spotify.com/album/24SzPSINiQWmIu84VfkC5a) | 2:29 |
 | 80 | [LULLABY](https://open.spotify.com/track/1yXYxa3O00Gcxy6XqGRhpE) | [COASTCITY](https://open.spotify.com/artist/3U6AuiLSmMwlxgEDGZz9xj) | [Wild Americanos](https://open.spotify.com/album/7vkUNL3WH7fg4PwqQlM0fJ) | 3:44 |
 
-Snapshot ID: `MTY2MjQ5NTQ3NywwMDAwMDAwMDAxNjgyMzU5OGZkMWQxMzM3NDM2NzJiZDlhNjA4ZGNj`
+Snapshot ID: `MTY2MjQ5NTQ3NywwMDAwMDAwMDIwMDc3YjA5ODU4NTAyZTA3ZTJmMTlkZjFmNjhlNzMw`

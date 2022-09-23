@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0J3RD2.md) - [plain]
 
 > This is Movements\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,921 likes - 24 songs - 1 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,933 likes - 24 songs - 1 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0J3RD2.md) - [plain]
 | 19 | [No Silhouette](https://open.spotify.com/track/2AUklDRxsrryo0AgL0Wcvo) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [No Good Left To Give \(B\-Sides\)](https://open.spotify.com/album/5hHi9UqkmVQ1kDJO2ufgs8) | 3:57 |
 | 20 | [Hatchet](https://open.spotify.com/track/6jGPtSuSPFODlN1a7TQuqT) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Outgrown Things](https://open.spotify.com/album/7rVzuWEA2QyRBZiaepThCO) | 2:44 |
 | 21 | [Daylily](https://open.spotify.com/track/6AgtouHw1KrKy1PsoLjY3o) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Feel Something](https://open.spotify.com/album/4baVGjGtGhgpb0oEqjSkLi) | 3:28 |
-| 22 | [Seneca](https://open.spotify.com/track/6NODZg5BdHffvguB5Qky1v) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [No Good Left To Give](https://open.spotify.com/album/77DJwm3iezGJOtsZdNGE3Z) | 3:09 |
+| 22 | [Love Took The Last Of It](https://open.spotify.com/track/1IlAPVYbBIffKz29syKvBb) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [No Good Left To Give](https://open.spotify.com/album/77DJwm3iezGJOtsZdNGE3Z) | 4:37 |
 | 23 | [Vacant Home](https://open.spotify.com/track/5E0DnCREPWkoh5HQvA7uDy) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Outgrown Things](https://open.spotify.com/album/7rVzuWEA2QyRBZiaepThCO) | 3:38 |
-| 24 | [Love Took The Last Of It](https://open.spotify.com/track/1IlAPVYbBIffKz29syKvBb) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [No Good Left To Give](https://open.spotify.com/album/77DJwm3iezGJOtsZdNGE3Z) | 4:37 |
+| 24 | [Seneca](https://open.spotify.com/track/6NODZg5BdHffvguB5Qky1v) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [No Good Left To Give](https://open.spotify.com/album/77DJwm3iezGJOtsZdNGE3Z) | 3:09 |
 
-Snapshot ID: `Mjc3Mjk0NTIsMDAwMDAwMDAwOTMxMGZhNmRiODBkMGY2NGQ1MmYwMTk4Y2E4ZjE3YQ==`
+Snapshot ID: `Mjc3MzA5MDEsMDAwMDAwMDA0NTUxYTIyMDBlZGYwNThiNmE4ODBiYTYzYTA5NTIzMg==`

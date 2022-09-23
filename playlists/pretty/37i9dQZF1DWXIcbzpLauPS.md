@@ -4,23 +4,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 
 > This is the new Core at its finest\. Cover: Motionless In White
 
-[Spotify](https://open.spotify.com/user/spotify) - 853,558 likes - 75 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 853,550 likes - 75 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Into Oblivion](https://open.spotify.com/track/1ZlTDTGu86Bxf0RQX2RjMz) | [Miss May I](https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237) | [Curse Of Existence](https://open.spotify.com/album/7GiQ5guVJwb7hScDnhfsAW) | 4:15 |
 | 2 | [Sign Of Life](https://open.spotify.com/track/73QoCfWJJWbRYmm5nCH5Y2) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl) | [Scoring The End Of The World](https://open.spotify.com/album/0DoVnWjNFYoUfq7qe36jxh) | 3:40 |
 | 3 | [Pain Remains I: Dancing Like Flames](https://open.spotify.com/track/4KyPlGyV6lfxOPHfBQpPZm) | [Lorna Shore](https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF) | [Pain Remains I: Dancing Like Flames](https://open.spotify.com/album/2HRhcuqmyel4Zn92eeE3Cg) | 5:52 |
-| 4 | [Fuckboi \(feat\. Conquer Divide\)](https://open.spotify.com/track/5TcdxibMGG4QVSW4H2ELpO) | [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc), [Conquer Divide](https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc) | [Fuckboi \(feat\. Conquer Divide\)](https://open.spotify.com/album/1pVy6lUUdpYfD2b88KYf6l) | 2:44 |
-| 5 | [Faded Out \(feat\. Within Temptation\)](https://open.spotify.com/track/5l4DU5tgUtLqFSxir6y0dp) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ), [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Faded Out \(feat\. Within Temptation\)](https://open.spotify.com/album/0i4ilwdkroLzNxb3SD0SjW) | 3:05 |
+| 4 | [Faded Out \(feat\. Within Temptation\)](https://open.spotify.com/track/5l4DU5tgUtLqFSxir6y0dp) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ), [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Faded Out \(feat\. Within Temptation\)](https://open.spotify.com/album/0i4ilwdkroLzNxb3SD0SjW) | 3:05 |
+| 5 | [Fuckboi \(feat\. Conquer Divide\)](https://open.spotify.com/track/5TcdxibMGG4QVSW4H2ELpO) | [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc), [Conquer Divide](https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc) | [Fuckboi \(feat\. Conquer Divide\)](https://open.spotify.com/album/1pVy6lUUdpYfD2b88KYf6l) | 2:44 |
 | 6 | [The Watcher](https://open.spotify.com/track/7wwFeAgaC2pGqJaTuCVFAw) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Deceivers](https://open.spotify.com/album/0UWT0SwOzXkR9IVbz0GNuo) | 4:58 |
 | 7 | [Salt](https://open.spotify.com/track/5Ve3eqZmguw75vcY7iwwZY) | [The Devil Wears Prada](https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb) | [Salt](https://open.spotify.com/album/1HqkZxWaoHVC5OPhGlHGa0) | 3:27 |
 | 8 | [RE\-Animate](https://open.spotify.com/track/1swGkxWE39ddPCPLwWyWLw) | [For The Fallen Dreams](https://open.spotify.com/artist/0rsHKddRhuze38fVL0egOY) | [RE\-Animate](https://open.spotify.com/album/4ivJq2bYddTsyWUjEtTBHJ) | 3:19 |
 | 9 | [Sol](https://open.spotify.com/track/3Svbk7PnKp2hKqViRCti7S) | [Oceans Ate Alaska](https://open.spotify.com/artist/48zUWAXpgEXfpttz23pCNQ) | [Disparity](https://open.spotify.com/album/2aI7O7ukQBWxfMimo9pUo8) | 3:21 |
 | 10 | [Rain Down](https://open.spotify.com/track/0WcS5eAg9byayXJFZ75eEi) | [Solence](https://open.spotify.com/artist/4fnono0JCZFAeeaecrI7kg) | [Rain Down](https://open.spotify.com/album/2qcmpfLRQq8qi4WCJOI1oc) | 4:07 |
 | 11 | [Plagued](https://open.spotify.com/track/7vEfK1zL7FF5SVy4s1sYUC) | [We Came As Romans](https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz) | [Plagued](https://open.spotify.com/album/0WgDndMMinCJLLMQ2MMoxP) | 3:29 |
-| 12 | [This Means War](https://open.spotify.com/track/4f1Bxzgor1HNbdm2kGl8mL) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Bullet For My Valentine \(Deluxe\)](https://open.spotify.com/album/6FqFZ1gdiCXhCPWhFbF1fF) | 3:55 |
-| 13 | [PSYCHO](https://open.spotify.com/track/4hML3fFHY3xtJdGqlmNgw0) | [Self Deception](https://open.spotify.com/artist/0FHW0Lp33r3fvIG0HL4mW0) | [PSYCHO](https://open.spotify.com/album/0UK8WwRL2oYVG4wakmjk6p) | 3:24 |
+| 12 | [PSYCHO](https://open.spotify.com/track/4hML3fFHY3xtJdGqlmNgw0) | [Self Deception](https://open.spotify.com/artist/0FHW0Lp33r3fvIG0HL4mW0) | [PSYCHO](https://open.spotify.com/album/0UK8WwRL2oYVG4wakmjk6p) | 3:24 |
+| 13 | [This Means War](https://open.spotify.com/track/4f1Bxzgor1HNbdm2kGl8mL) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Bullet For My Valentine \(Deluxe\)](https://open.spotify.com/album/6FqFZ1gdiCXhCPWhFbF1fF) | 3:55 |
 | 14 | [Reaper](https://open.spotify.com/track/6I7ilpVQq4oETOdmHPL5LE) | [Fit For A King](https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx) | [Reaper](https://open.spotify.com/album/6RnuLQwxEgHaHPyWjel051) | 3:19 |
 | 15 | [Pull From The Ghost](https://open.spotify.com/track/5X0o92ihmXE7KP5fcmNSFv) | [ERRA](https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0) | [Pull From The Ghost](https://open.spotify.com/album/2KElNfghT2G7tHLaOCMqFe) | 4:11 |
 | 16 | [Anomaly](https://open.spotify.com/track/4y2WxyFPLHaLoHkxymgNar) | [Aviana](https://open.spotify.com/artist/1AvLltBsz1HdAtZeucm9zy) | [Anomaly](https://open.spotify.com/album/3x0fD3AKsVdr63OInlGAXv) | 3:43 |
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 | 27 | [Fever](https://open.spotify.com/track/2FpylwTwA3dDi9eHbqHPIN) | [Citizen Soldier](https://open.spotify.com/artist/7fM0h2CG7zKqKc0jEa1b4R) | [Fever](https://open.spotify.com/album/0aT6W0YSIzX0mnIOsQSeJc) | 3:08 |
 | 28 | [A Killing Word](https://open.spotify.com/track/3jVZdrq596QrH6xq4l6jgI) | [Norma Jean](https://open.spotify.com/artist/55b0Gfm53udtGBs8mmNXrH) | [Deathrattle Sing for Me](https://open.spotify.com/album/3M166GrcDHdQBuV2ChB2As) | 4:44 |
 | 29 | [Shade Astray](https://open.spotify.com/track/4nsRC5m6nhWEGytiaDgewc) | [Invent Animate](https://open.spotify.com/artist/3ALVPmg5sZexSVD2m9atEt) | [Shade Astray](https://open.spotify.com/album/13V5598DE5BTivaX1zecEF) | 4:37 |
-| 30 | [Ketamine](https://open.spotify.com/track/37vKzukXbXcJiA3TMmGptj) | [Fame on Fire](https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP) | [Ketamine](https://open.spotify.com/album/7IJVzIr5F8Vq0Qe50PGwke) | 2:52 |
-| 31 | [From Today](https://open.spotify.com/track/7qLbPd5yhm0Vne45PXPabV) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [Nonnegative](https://open.spotify.com/album/2XA78l6T2geC3hfxcnOs6V) | 3:53 |
+| 30 | [From Today](https://open.spotify.com/track/7qLbPd5yhm0Vne45PXPabV) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [Nonnegative](https://open.spotify.com/album/2XA78l6T2geC3hfxcnOs6V) | 3:53 |
+| 31 | [Ketamine](https://open.spotify.com/track/37vKzukXbXcJiA3TMmGptj) | [Fame on Fire](https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP) | [Ketamine](https://open.spotify.com/album/7IJVzIr5F8Vq0Qe50PGwke) | 2:52 |
 | 32 | [Alive or Only Burning](https://open.spotify.com/track/3OFbZftPhoSCFbxyNBzPF3) | [Blind Channel](https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs) | [Lifestyles of the Sick & Dangerous](https://open.spotify.com/album/2kcAri2GgDTQD7k8k727Mb) | 3:09 |
 | 33 | [Stand Down](https://open.spotify.com/track/2tpiHcSSFCnpIH8HFzIUEa) | [Bleed From Within](https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG) | [Shrine](https://open.spotify.com/album/6weRZNkcgMFxKcr98KC6Dg) | 4:06 |
 | 34 | [Venenosa](https://open.spotify.com/track/39Vg7SGvdJTeEq3rtKKwk2) | [Thousand Below](https://open.spotify.com/artist/0iU3WDujScAofxcK2EMypN) | [Venenosa](https://open.spotify.com/album/6obCslVAsNkI4LfaYTH2G7) | 3:10 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 | 47 | [What Is War](https://open.spotify.com/track/3qPDkJVT3nTadE0DowU2w5) | [Chaosbay](https://open.spotify.com/artist/7GNTvmIi6DDF2XDJKYKoUk), [Siamese](https://open.spotify.com/artist/0Hx4gv3eoiodtu6XYHF1X0) | [What Is War](https://open.spotify.com/album/2Fig0Wysa46RMtW7JyNAc9) | 3:59 |
 | 48 | [Reflections](https://open.spotify.com/track/1Llt2DZh24nULvOmBj8Ooc) | [VENUES](https://open.spotify.com/artist/21LZjxwncsHeKlwA2XPKEd) | [Reflections](https://open.spotify.com/album/1uTmZIJQxa9q0viqcGoexw) | 3:07 |
 | 49 | [Suffer](https://open.spotify.com/track/66ZM0tKioRCiW5TyPUdfpl) | [Dragged Under](https://open.spotify.com/artist/3D1uNqaasEWzallSxKo1cH) | [Suffer](https://open.spotify.com/album/2Km1B3OkljeuAyGAmnxZT2) | 3:23 |
-| 50 | [Play Time](https://open.spotify.com/track/5lWTv6nMPXeVFHifOIpX4U) | [October Ends](https://open.spotify.com/artist/4j7vAPWYV5yRdX8CnSq0Jc) | [Play Time](https://open.spotify.com/album/4VCY5HtkP5SU8AqSo36y9K) | 3:36 |
-| 51 | [Miscreation](https://open.spotify.com/track/5YcT4GfUGdJSuoiZwiv26Z) | [The Anchor](https://open.spotify.com/artist/2x583f2zJEjkiPd6IY4yfW) | [Miscreation](https://open.spotify.com/album/6iVF7LgG1mjmMfBGF5jGP2) | 3:33 |
+| 50 | [Miscreation](https://open.spotify.com/track/5YcT4GfUGdJSuoiZwiv26Z) | [The Anchor](https://open.spotify.com/artist/2x583f2zJEjkiPd6IY4yfW) | [Miscreation](https://open.spotify.com/album/6iVF7LgG1mjmMfBGF5jGP2) | 3:33 |
+| 51 | [Play Time](https://open.spotify.com/track/5lWTv6nMPXeVFHifOIpX4U) | [October Ends](https://open.spotify.com/artist/4j7vAPWYV5yRdX8CnSq0Jc) | [Play Time](https://open.spotify.com/album/4VCY5HtkP5SU8AqSo36y9K) | 3:36 |
 | 52 | [Forsaken](https://open.spotify.com/track/29RLIEdsr7lXMkct9omK00) | [Until I Wake](https://open.spotify.com/artist/4XYFjTd83FIwArFrWEYhd5) | [Forsaken](https://open.spotify.com/album/1AdoiciuD5DrLLBHHBQrq2) | 3:03 |
 | 53 | [Sunchaser](https://open.spotify.com/track/06tK7kL7Q37Fx57FUWrB2H) | [The Wise Man's Fear](https://open.spotify.com/artist/0Ir2YUbOtgP5GeOzQicQ44) | [Sunchaser](https://open.spotify.com/album/7zz108OrdqIflvbY8boOgl) | 3:29 |
 | 54 | [Spearmint Revolt](https://open.spotify.com/track/2k3Vtbkr80qEkmGle4NK37) | [Norma Jean](https://open.spotify.com/artist/55b0Gfm53udtGBs8mmNXrH) | [Spearmint Revolt](https://open.spotify.com/album/23XEhKtJYPjK41dUrHl5Y2) | 5:02 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 | 72 | [Call It Home](https://open.spotify.com/track/1jdcRfcIYZuorAcGDmHapO) | [Elyne](https://open.spotify.com/artist/2ldJ3WucPLlQJBtoNnl3Dk) | [Call It Home](https://open.spotify.com/album/65cX0qLgpscBtANqVWZs0Z) | 3:30 |
 | 73 | [White Rabbit](https://open.spotify.com/track/48gotqEngeagErLW3C1FUs) | [Saving Vice](https://open.spotify.com/artist/1bN0Zx15XhmvTjNF2cPs0b) | [White Rabbit](https://open.spotify.com/album/7MpFnrbyOhfoaZKFypWdci) | 3:50 |
 | 74 | [No King Rules Forever](https://open.spotify.com/track/33a56ZdHf1SrYxgbGLf14n) | [Alex Yarmak](https://open.spotify.com/artist/7BxvbZy8vMWGskAEh3uueA) | [No King Rules Forever](https://open.spotify.com/album/10vHHRoQupZXltyWiDozNI) | 3:12 |
-| 75 | [Trapped](https://open.spotify.com/track/2rggHX6x7fQUmo4WXTBzMQ) | [Suasion](https://open.spotify.com/artist/3By3NlIbjZW9Uqlph8kcgK) | [Trapped](https://open.spotify.com/album/3qKY0taBBsvUZaSSblJtrf) | 3:24 |
+| 75 | [The Snow](https://open.spotify.com/track/5Ud87h3Gmcelf0F22qObT8) | [Devil May Care](https://open.spotify.com/artist/7i4fpNdyHzYPX3TFjEqKll) | [The Snow](https://open.spotify.com/album/5sDZlTzQLxtxKceKQsNZZo) | 3:44 |
 
-Snapshot ID: `MTY2MzMzMzIwMCwwMDAwMDAwMGU0YmQzNzRjOGRjZWYzMjgzNWIyMDA4NTdlNjVmYTY0`
+Snapshot ID: `MTY2MzMzMzIwMCwwMDAwMDAwMDQ2NWE5M2M2ZTQ1ZDUwOWYzOThlYjRhOTNlYWU2NmMw`

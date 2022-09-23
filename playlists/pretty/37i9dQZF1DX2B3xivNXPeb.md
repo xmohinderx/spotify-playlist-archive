@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2B3xivNXPeb.md) - [plain]
 
 > Whether you're cooking or pottering about, here's an all\-day soundtrack to enjoy in the comfort of your own home.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,658 likes - 60 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,680 likes - 60 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2B3xivNXPeb.md) - [plain]
 | 56 | [Obvious Guy](https://open.spotify.com/track/5NS0xTfHbV8EQ83GBfFqea) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Happiness in Liquid Form](https://open.spotify.com/album/4hfnS7YAQNDiihGt70E3ei) | 3:21 |
 | 57 | [Tell Me](https://open.spotify.com/track/2jrAN4OhqpaeWrE8Krt2to) | [Conor Albert](https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M) | [Collage 1](https://open.spotify.com/album/6OdqJNtnslCLIeUZt5jogs) | 3:20 |
 | 58 | [\(Lover\) You Don't Treat Me No Good](https://open.spotify.com/track/1wdQiMzfdRiufsCKWH2anl) | [D\. Pritzker](https://open.spotify.com/artist/7hSWOsjh4uFNAS6c3gcm25), [Sonia Dada](https://open.spotify.com/artist/1aTjB39eq6n3HcA8MbGpGp) | [Sonia Dada](https://open.spotify.com/album/5pvGQ3nohEcX2yJ1hAyX7u) | 4:07 |
-| 59 | [la la la that’s how it goes](https://open.spotify.com/track/5Pw4Q2Z2NttJtISFFxe9MK) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [no song without you](https://open.spotify.com/album/3DG5MS8iKYcJROCnb1DYDf) | 3:39 |
-| 60 | [Jessie \(i miss you\)](https://open.spotify.com/track/2BMtVVQPrhMR3bIoiFhwpQ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Jessie \(i miss you\)](https://open.spotify.com/album/3EKtYw5CKxZD4B0lXizamQ) | 3:17 |
+| 59 | [Jessie \(i miss you\)](https://open.spotify.com/track/2BMtVVQPrhMR3bIoiFhwpQ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Jessie \(i miss you\)](https://open.spotify.com/album/3EKtYw5CKxZD4B0lXizamQ) | 3:17 |
+| 60 | [la la la that’s how it goes](https://open.spotify.com/track/5Pw4Q2Z2NttJtISFFxe9MK) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [no song without you](https://open.spotify.com/album/3DG5MS8iKYcJROCnb1DYDf) | 3:39 |
 
-Snapshot ID: `MTY0NDg0NjY4MCwwMDAwMDAwMGY2YzJmZTVhNTBmM2EyMDg3NWY3ZWQ2MzM5OTQ5YzFm`
+Snapshot ID: `MTY0NDg0NjY4MCwwMDAwMDAwMDk5ZTNjN2U2ZGJjNTc0ODY3MjNkNDJkZGEzNTNmYmI1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Kgdykz6OKj.md) - [plain]
 
 > Laid back cratedigger hip\-hop from around the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,009,583 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,009,886 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Kgdykz6OKj.md) - [plain]
 | 96 | [First Law of Nature Rock Day \(feat\. Denmark Vessey\)](https://open.spotify.com/track/4xRxoDdkC1z55jlQy9SIa3) | [Dabrye](https://open.spotify.com/artist/1tVRa7YiCwE6hTGsqqb4Te), [Denmark Vessey](https://open.spotify.com/artist/6o8VpmZLTJZfFUQhKCDYoZ) | [Three/Three](https://open.spotify.com/album/5YWh19vM9DvHTJ8cvqPRBf) | 3:32 |
 | 97 | [Flowers On The Weekend](https://open.spotify.com/track/2fymL9YLaFKDGMvVDzNGbQ) | [Asher Roth](https://open.spotify.com/artist/1wgY8huggK60P5nvYrwcYT) | [Flowers On The Weekend](https://open.spotify.com/album/1o8meEDwi5nGluhnWfqs7K) | 2:32 |
 | 98 | [Black Superhero \[Feat\. Killer Mike, BJ The Chicago Kid & Big K.R.I.T.\]](https://open.spotify.com/track/6i8K68TanxPlhBlRiQIdC3) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI), [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe), [Big K.R.I.T.](https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP) | [Black Superhero \[Feat\. Killer Mike, BJ The Chicago Kid & Big K.R.I.T.\]](https://open.spotify.com/album/6OQ6gN6iPAZHNpu8Z1p1Yv) | 5:55 |
-| 99 | [That Jazz](https://open.spotify.com/track/2fDT3A5tLwiySARQEawvRo) | [Coops](https://open.spotify.com/artist/0sXhBmVgBTDxkQb8CUbhhR) | [That Jazz](https://open.spotify.com/album/5fmTUqAxnXPx3UjgV8VYds) | 3:08 |
-| 100 | [Hi\(gh\)](https://open.spotify.com/track/5yZscInGj0SfUuBFhcCdJQ) | [Syrup](https://open.spotify.com/artist/3F4JEfklypM9dhsSZmXJGc), [Twit One](https://open.spotify.com/artist/38OPqGlHHCPAsL87VM10Su), [Turt](https://open.spotify.com/artist/0VkwWpbd5pxXBYZu3ns9N0), [C.Tappin](https://open.spotify.com/artist/09cx9hVWTix2e9uCcBXeds), [Summers Sons](https://open.spotify.com/artist/6dX4na3KWr3yMTLU4l1W7z) | [Rosy Lee](https://open.spotify.com/album/55yMb48WHIzbK1CG63qG0L) | 2:36 |
+| 99 | [Dreamchaser](https://open.spotify.com/track/7C9Q8Q26nhw5IBloP9PGCt) | [Kista](https://open.spotify.com/artist/3lmL8QuUlvLxMly5j2nHYD), [Glad2Mecha](https://open.spotify.com/artist/6pokAyXBznXdV5T3gO6cNQ) | [Collecting Dust \(Deluxe Edition\)](https://open.spotify.com/album/7keyFWzKUZDyxMmNTCXeNl) | 2:47 |
+| 100 | [That Jazz](https://open.spotify.com/track/2fDT3A5tLwiySARQEawvRo) | [Coops](https://open.spotify.com/artist/0sXhBmVgBTDxkQb8CUbhhR) | [That Jazz](https://open.spotify.com/album/5fmTUqAxnXPx3UjgV8VYds) | 3:08 |
 
-Snapshot ID: `MTY2MTUyODk1MCwwMDAwMDAwMDJmMTQ3Y2Q4MTU0ZDZmMTk5MWYxMjE4ZDI1NDFiN2Mw`
+Snapshot ID: `MTY2Mzg4NDAwMCwwMDAwMDAwMGRlYzAwNmZlOWUzMjJlMjI5ZGFlMmVmMThhZWY3NTJh`

@@ -2,7 +2,7 @@
 
 ### [Fresh Finds India](https://open.spotify.com/playlist/37i9dQZF1DXaRf94BiB7fV)
 
-> The best new music by independent artists and labels from India, updated every Wednesday\. Cover: Akshath, Artwork: Isu Kim
+> The best new music by Indian Indie artists, updated every Wednesday\. Cover: Akshath, Artwork: Isu Kim
 
 571 songs - 1 day 10 hr 10 min - [published](https://open.spotify.com/playlist/5ZxKEzYK5bckaAr3OIv47F)
 

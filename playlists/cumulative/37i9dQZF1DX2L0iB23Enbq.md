@@ -4,7 +4,7 @@
 
 > Viral, trending and taking off.
 
-230 songs - 12 hr 10 min - [published](https://open.spotify.com/playlist/2hH5qQbyuOq8mla61ka40f)
+231 songs - 12 hr 13 min - [published](https://open.spotify.com/playlist/2hH5qQbyuOq8mla61ka40f)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -221,6 +221,7 @@
 | [Two Birds](https://open.spotify.com/track/2n0U2OG5d6TuW5mKx7YrC0) | [Regina Spektor](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) | [Far](https://open.spotify.com/album/5t0lQDPLF22wmWCtSZkIVv) | 3:15 | 2021-12-20 | 2022-02-01 |
 | [U Are My High](https://open.spotify.com/track/3S7A85bAWOd6ltk6r2ANOI) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [U Are My High](https://open.spotify.com/album/0LMzMzG385642dtYwsVLkq) | 3:00 | 2021-12-20 |  |
 | [Under The Influence](https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Indigo \(Extended\)](https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww) | 3:04 | 2022-07-31 |  |
+| [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi) | 2:36 | 2022-09-22 |  |
 | [Unstoppable](https://open.spotify.com/track/1yvMUkIOTeUNtNWlWRgANS) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [This Is Acting \(Deluxe Version\)](https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX) | 3:37 | 2022-08-05 |  |
 | [Until I Found You](https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Until I Found You](https://open.spotify.com/album/18CtLoAMTr7F8ngtuM6D8i) | 2:57 | 2022-05-10 |  |
 | [Vegas \(From the Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/track/0hquQWY3xvYqN4qtiquniF) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Vegas \(From the Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/album/2Q5DPv9uliinOBSdNooIe3) | 3:02 | 2022-08-19 |  |

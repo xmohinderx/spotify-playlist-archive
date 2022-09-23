@@ -1,36 +1,48 @@
 {
   "description": "Get your spirits up and manage your mood any time of the day",
-  "num_followers": 1510,
+  "num_followers": 1520,
   "original_name": "Mutima ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY3MDc0MCwwMDAwMDAwMDk4ZjQxZWRjMTJiZDBkNWQzYzIxNDhhOGRlNzRlOTc3",
+  "snapshot_id": "MTY2Mzg4MDM0MCwwMDAwMDAwMDEyZWEyZDM1OGI0Y2IzMTZkZGUyMmY5Y2NiODI4MDdi",
   "tracks": [
     {
-      "added_at": "2022-09-08 20:59:00",
+      "added_at": "2022-06-06 07:52:52",
       "album": {
-        "name": "Leaving Summer",
-        "url": "https://open.spotify.com/album/3WXVLlMIZOLqmPkZTJqHWT"
+        "name": "Pity Party",
+        "url": "https://open.spotify.com/album/3vLiY1nSz8oe12nrSzkW4y"
       },
       "artists": [
         {
-          "name": "MAUIM\u00d8ON",
-          "url": "https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b"
-        },
-        {
-          "name": "La So\u00fclchyld",
-          "url": "https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV"
-        },
-        {
-          "name": "Akeine",
-          "url": "https://open.spotify.com/artist/2RuHphW7LRCASStgHSFmds"
+          "name": "Kamanzii",
+          "url": "https://open.spotify.com/artist/5Qzz9wRaEZdcWmSvCEn5Hb"
         }
       ],
-      "duration_ms": 157500,
-      "name": "Leaving Summer",
-      "url": "https://open.spotify.com/track/5rcpZXk678vSZxMcz8ZGz6"
+      "duration_ms": 204140,
+      "name": "Pity Party",
+      "url": "https://open.spotify.com/track/01j67FBrhCFWC2kYJWGmdA"
+    },
+    {
+      "added_at": "2022-09-22 20:59:00",
+      "album": {
+        "name": "Part2 (Dinner in Maui)",
+        "url": "https://open.spotify.com/album/2RjYPIml5GBer8oZvUV1OO"
+      },
+      "artists": [
+        {
+          "name": "Hermez",
+          "url": "https://open.spotify.com/artist/168iTeZjIZlN7Sc8ieZJl6"
+        },
+        {
+          "name": "MAUIM\u00d8ON",
+          "url": "https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b"
+        }
+      ],
+      "duration_ms": 193896,
+      "name": "Part2 (Dinner in Maui)",
+      "url": "https://open.spotify.com/track/6DuJn4hkMAzb4Iiamim1Te"
     },
     {
       "added_at": "2022-06-06 07:52:52",
@@ -47,22 +59,6 @@
       "duration_ms": 269386,
       "name": "Don't Cry",
       "url": "https://open.spotify.com/track/68WyaHiGQ1tb8qumA6l8P2"
-    },
-    {
-      "added_at": "2022-06-06 07:52:52",
-      "album": {
-        "name": "Pity Party",
-        "url": "https://open.spotify.com/album/3vLiY1nSz8oe12nrSzkW4y"
-      },
-      "artists": [
-        {
-          "name": "Kamanzii",
-          "url": "https://open.spotify.com/artist/5Qzz9wRaEZdcWmSvCEn5Hb"
-        }
-      ],
-      "duration_ms": 204140,
-      "name": "Pity Party",
-      "url": "https://open.spotify.com/track/01j67FBrhCFWC2kYJWGmdA"
     },
     {
       "added_at": "2022-08-05 10:09:38",
@@ -83,38 +79,18 @@
     {
       "added_at": "2022-06-06 07:52:52",
       "album": {
-        "name": "Kibunomu",
-        "url": "https://open.spotify.com/album/1cc9sKFy3FDPyGzKYSYehp"
+        "name": "Mountains of the Moon",
+        "url": "https://open.spotify.com/album/4Yald2Q4kTDKMjiADNkXTs"
       },
       "artists": [
         {
-          "name": "Kenneth Mugabi",
-          "url": "https://open.spotify.com/artist/439cAFpgGsd10FGSviU0sF"
+          "name": "Abaasa",
+          "url": "https://open.spotify.com/artist/6IoNAD4tutkEZWTR3L21oc"
         }
       ],
-      "duration_ms": 166897,
-      "name": "Naki",
-      "url": "https://open.spotify.com/track/7c2UaLROWqBnj32u6nrNvq"
-    },
-    {
-      "added_at": "2022-06-24 11:08:07",
-      "album": {
-        "name": "Mulisa Omusubbawa",
-        "url": "https://open.spotify.com/album/74YrNvBCHoit0jQ0ylTjxB"
-      },
-      "artists": [
-        {
-          "name": "Edrine Matovu",
-          "url": "https://open.spotify.com/artist/27SQtyfntb31K4H9LJDiwd"
-        },
-        {
-          "name": "Aldo Onyango",
-          "url": "https://open.spotify.com/artist/4q8WaPFlyXWb6wTmAI3uiI"
-        }
-      ],
-      "duration_ms": 258405,
-      "name": "Mulisa Omusubbawa",
-      "url": "https://open.spotify.com/track/5Efm581hRW2myabSJPwFba"
+      "duration_ms": 197068,
+      "name": "Butterflies",
+      "url": "https://open.spotify.com/track/3tv6yZvQSk5easUqOh0P1O"
     },
     {
       "added_at": "2022-06-06 07:52:52",
@@ -135,18 +111,18 @@
     {
       "added_at": "2022-06-06 07:52:52",
       "album": {
-        "name": "Mountains of the Moon",
-        "url": "https://open.spotify.com/album/4Yald2Q4kTDKMjiADNkXTs"
+        "name": "Kibunomu",
+        "url": "https://open.spotify.com/album/1cc9sKFy3FDPyGzKYSYehp"
       },
       "artists": [
         {
-          "name": "Abaasa",
-          "url": "https://open.spotify.com/artist/6IoNAD4tutkEZWTR3L21oc"
+          "name": "Kenneth Mugabi",
+          "url": "https://open.spotify.com/artist/439cAFpgGsd10FGSviU0sF"
         }
       ],
-      "duration_ms": 197068,
-      "name": "Butterflies",
-      "url": "https://open.spotify.com/track/3tv6yZvQSk5easUqOh0P1O"
+      "duration_ms": 166897,
+      "name": "Naki",
+      "url": "https://open.spotify.com/track/7c2UaLROWqBnj32u6nrNvq"
     },
     {
       "added_at": "2022-09-01 20:59:00",
@@ -167,6 +143,38 @@
     {
       "added_at": "2022-06-06 07:52:52",
       "album": {
+        "name": "Choore",
+        "url": "https://open.spotify.com/album/1JJS21TtylktwlJYPrZuxH"
+      },
+      "artists": [
+        {
+          "name": "Apio Moro",
+          "url": "https://open.spotify.com/artist/3TS6PfDQo5FRZaG03GdkAj"
+        }
+      ],
+      "duration_ms": 213375,
+      "name": "Ndi Mukyala",
+      "url": "https://open.spotify.com/track/1VynzKBT8c9amEWZPBwZZO"
+    },
+    {
+      "added_at": "2022-06-06 07:52:52",
+      "album": {
+        "name": "Akaffekye (Acoustic Version)",
+        "url": "https://open.spotify.com/album/2nhXoGyp7SSqUnMJFtnXED"
+      },
+      "artists": [
+        {
+          "name": "Rema namakula",
+          "url": "https://open.spotify.com/artist/2444nM3S18PKjvdsXNNLdr"
+        }
+      ],
+      "duration_ms": 179513,
+      "name": "Akaffekye - Acoustic Version",
+      "url": "https://open.spotify.com/track/56O4FJu4LKMpeO3FcyBIgz"
+    },
+    {
+      "added_at": "2022-06-06 07:52:52",
+      "album": {
         "name": "WANO",
         "url": "https://open.spotify.com/album/3XIZCSSFUdzPvxMJOcC32t"
       },
@@ -181,20 +189,24 @@
       "url": "https://open.spotify.com/track/7smBB3wQQe6eGZMMVVF4mv"
     },
     {
-      "added_at": "2022-06-06 07:52:52",
+      "added_at": "2022-06-24 11:08:07",
       "album": {
-        "name": "Choore",
-        "url": "https://open.spotify.com/album/1JJS21TtylktwlJYPrZuxH"
+        "name": "Mulisa Omusubbawa",
+        "url": "https://open.spotify.com/album/74YrNvBCHoit0jQ0ylTjxB"
       },
       "artists": [
         {
-          "name": "Apio Moro",
-          "url": "https://open.spotify.com/artist/3TS6PfDQo5FRZaG03GdkAj"
+          "name": "Edrine Matovu",
+          "url": "https://open.spotify.com/artist/27SQtyfntb31K4H9LJDiwd"
+        },
+        {
+          "name": "Aldo Onyango",
+          "url": "https://open.spotify.com/artist/4q8WaPFlyXWb6wTmAI3uiI"
         }
       ],
-      "duration_ms": 213375,
-      "name": "Ndi Mukyala",
-      "url": "https://open.spotify.com/track/1VynzKBT8c9amEWZPBwZZO"
+      "duration_ms": 258405,
+      "name": "Mulisa Omusubbawa",
+      "url": "https://open.spotify.com/track/5Efm581hRW2myabSJPwFba"
     },
     {
       "added_at": "2022-06-06 07:52:52",
@@ -273,20 +285,28 @@
       "url": "https://open.spotify.com/track/6aliqk3DjcxVudF7DimupW"
     },
     {
-      "added_at": "2022-06-06 07:52:52",
+      "added_at": "2022-09-08 20:59:00",
       "album": {
-        "name": "Akaffekye (Acoustic Version)",
-        "url": "https://open.spotify.com/album/2nhXoGyp7SSqUnMJFtnXED"
+        "name": "Leaving Summer",
+        "url": "https://open.spotify.com/album/3WXVLlMIZOLqmPkZTJqHWT"
       },
       "artists": [
         {
-          "name": "Rema namakula",
-          "url": "https://open.spotify.com/artist/2444nM3S18PKjvdsXNNLdr"
+          "name": "MAUIM\u00d8ON",
+          "url": "https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b"
+        },
+        {
+          "name": "La So\u00fclchyld",
+          "url": "https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV"
+        },
+        {
+          "name": "Akeine",
+          "url": "https://open.spotify.com/artist/2RuHphW7LRCASStgHSFmds"
         }
       ],
-      "duration_ms": 179513,
-      "name": "Akaffekye - Acoustic Version",
-      "url": "https://open.spotify.com/track/56O4FJu4LKMpeO3FcyBIgz"
+      "duration_ms": 157500,
+      "name": "Leaving Summer",
+      "url": "https://open.spotify.com/track/5rcpZXk678vSZxMcz8ZGz6"
     },
     {
       "added_at": "2022-06-06 07:52:52",

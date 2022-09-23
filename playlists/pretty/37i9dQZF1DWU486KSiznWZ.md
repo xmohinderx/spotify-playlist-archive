@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU486KSiznWZ.md) - [plain]
 
 > مختارات من أفضل الاغاني الخليجية <br/>الغلاف: عبدالمجيدعبدالله
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,264 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,358 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU486KSiznWZ.md) - [plain]
 | 11 | [ولا غلطة](https://open.spotify.com/track/1Htw7lMJaoL7Wg1o1oh3rK) | [Sultan Al Murshed](https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU) | [ولا غلطة](https://open.spotify.com/album/4BBuPUUSsT8qkatKvZJb33) | 4:35 |
 | 12 | [Al Sourah](https://open.spotify.com/track/4wx0IYEDJhN0ghC1QtqocW) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Al Sourah](https://open.spotify.com/album/24aRGx287iB3Y1OUuM3Z3T) | 4:19 |
 | 13 | [Elhubb Ja](https://open.spotify.com/track/6dNsnqDf8c5aBUZW7V2Oqh) | [Salah Alzadjali](https://open.spotify.com/artist/5B14NO9B5J7hKVfyttzrpH) | [Elhubb Ja](https://open.spotify.com/album/42tevSQ1DPLBGr8BgQfh3e) | 4:36 |
-| 14 | [كلمني](https://open.spotify.com/track/0F66LkXiihhVNKpWSqKgjy) | [بدر العزي](https://open.spotify.com/artist/3JgiCW6Za1Pvg0dnz7xsjy) | [كلمني](https://open.spotify.com/album/1ZrVAcuOnbRQJZFahoALeo) | 3:26 |
+| 14 | [كلمني](https://open.spotify.com/track/4SWldutKma2NvU850zeEkd) | [بدر العزي](https://open.spotify.com/artist/3JgiCW6Za1Pvg0dnz7xsjy) | [كلمني](https://open.spotify.com/album/04aRoZxBPhR6aYvTkC7f6F) | 3:26 |
 | 15 | [Sara Barg](https://open.spotify.com/track/611PXXtuU51ToWk55udzWo) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Sara Barg](https://open.spotify.com/album/38JLjvDN9Vmdv3hlf6KA0O) | 4:07 |
 | 16 | [روح براحتك](https://open.spotify.com/track/4MEeCc9QHr24rQ99dOd9AZ) | [شيمي](https://open.spotify.com/artist/6x8vq4QX1MQjqasHWpMWhw) | [روح براحتك](https://open.spotify.com/album/2hStDr8tYNyFkQiUT2F0fj) | 3:39 |
 | 17 | [وصلنا](https://open.spotify.com/track/5x30FoNuMhL1dzwrSbDpEm) | [VO](https://open.spotify.com/artist/4QII96v2C63K9PaG6k8aby), [Abdulaziz Louis](https://open.spotify.com/artist/45fXWSpX6WGHhSQVbkktUk), [Bader AlShuaibi](https://open.spotify.com/artist/2R1yoDsSddlxGn9DmAtJTj) | [وصلنا](https://open.spotify.com/album/1vrIcCOg50amkJ8OgdxI4a) | 3:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU486KSiznWZ.md) - [plain]
 | 49 | [Aady](https://open.spotify.com/track/51xCLTYjK5IhySDDdnSCzy) | [Talal Sam](https://open.spotify.com/artist/72mJx5QexvdKQK1mi5CB4T), [Amy Roko](https://open.spotify.com/artist/4MYTbyu2ZNKAiImWWrAMjQ) | [Aady](https://open.spotify.com/album/11hE157XbnuTAeJnboNR7Y) | 2:49 |
 | 50 | [Hatet Yadak](https://open.spotify.com/track/0hnemjZiAz2E1jg83hsQl0) | [Mohamed Al Shehhi](https://open.spotify.com/artist/0dMebvi9NQ4TNjqWIH9dXp) | [Hatet Yadak](https://open.spotify.com/album/2yvDoecCouFgoSA8u84OJ7) | 4:32 |
 
-Snapshot ID: `MTY2MjUzOTY2OCwwMDAwMDAwMDA4NWJhMjI1OGRmMGIwM2ZkMGEzMjBkMDBhZDZjZjJm`
+Snapshot ID: `MTY2MjUzOTY2OCwwMDAwMDAwMDVjZmY5ZGE5NjZmMjA5MDQ2ZjZiZDY3ZWM3NGI5MzMy`

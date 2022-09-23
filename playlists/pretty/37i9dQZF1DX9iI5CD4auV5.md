@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9iI5CD4auV5.md) - [plain]
 
 > Listen to <a href="spotify:artist:3ABaec4jjl95VqmG1iD4k2">Green Velvet</a>'s favorite tracks\. Updated regularly\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,869 likes - 61 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,894 likes - 61 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9iI5CD4auV5.md) - [plain]
 | 16 | [Wake Up](https://open.spotify.com/track/3ZLt4qrsnA9zZYBNjDceZv) | [The Bongo Man](https://open.spotify.com/artist/2pBVJLkrOeSpjMzCSBQNMI) | [Wake Up EP](https://open.spotify.com/album/6V0lRrfD8pXLJSzfbe4SA5) | 6:39 |
 | 17 | [Lone Traveller](https://open.spotify.com/track/2xMRar8Kb7VwlqICHgtKe2) | [HNQO](https://open.spotify.com/artist/6pkEHKolF0GKjOdbbIEuUg) | [Lone Traveller](https://open.spotify.com/album/3asZnJNY3vw7vBLfmpWOoe) | 4:58 |
 | 18 | [Sea](https://open.spotify.com/track/0KhPmfbekOqnxePzkT6g6q) | [Francesca Lombardo](https://open.spotify.com/artist/53k6hml77TQV6Eub3zdbju) | [Magic Moment](https://open.spotify.com/album/4EPidCv1ztlKwUWct8A3CQ) | 9:39 |
-| 19 | [Discoteca Exotica](https://open.spotify.com/track/3yIlfK9UxOCsXlbk9vLZ14) | [W.O.L.F.](https://open.spotify.com/artist/5OCKaLRwZLyIEmrzz9RhqC), [Climbers](https://open.spotify.com/artist/1IGl1k7lAgsIhTJaR8Vnrc) | [Discoteca Exotica](https://open.spotify.com/album/2I6LwiCQv4pAEI2VDBZIk0) | 6:28 |
+| 19 | [Discoteca Exotica](https://open.spotify.com/track/3yIlfK9UxOCsXlbk9vLZ14) | [W.O.L.F.](https://open.spotify.com/artist/5OCKaLRwZLyIEmrzz9RhqC), [Climbers](https://open.spotify.com/artist/1IGl1k7lAgsIhTJaR8Vnrc) | [Discoteca Exotica](https://open.spotify.com/album/2I6LwiCQv4pAEI2VDBZIk0) | 6:24 |
 | 20 | [Freak Beat \- Original Mix](https://open.spotify.com/track/6TWctzftXtuTy923tnqAdE) | [NRSSE](https://open.spotify.com/artist/7dB4r6T3maXtASe2UhJMoV) | [Offweek 2022](https://open.spotify.com/album/3EMmYQ8fdRn6YgOyfHnsg6) | 6:00 |
 | 21 | [Thoughts \- Rebūke Remix](https://open.spotify.com/track/1g8ZYuTgbNJBvycYFyep0b) | [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2), [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [Thoughts \(Rebūke Remix\)](https://open.spotify.com/album/53Lw6bLxSXxo36KsWQZJfq) | 3:29 |
 | 22 | [Wanyama](https://open.spotify.com/track/1RPC1AZLtafrjIBrSvuoE2) | [Fhaken](https://open.spotify.com/artist/2w6nD6Hc2uvxqDdbrQFkDK) | [Wanyama EP](https://open.spotify.com/album/0R3Xwd3EsMls3XjYKsg1RI) | 3:00 |

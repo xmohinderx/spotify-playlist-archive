@@ -1,12 +1,12 @@
 {
   "description": "Fourth quarter, two minutes left .. get locked in",
-  "num_followers": 1514275,
+  "num_followers": 1514973,
   "original_name": "Locked In",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMDZiNjJlNGZjNTk1NWVlMmY5ZTVlZGRiODAxZjFlZmRj",
+  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMDcyYTZiNTNiNzgxOWQzZWIyYWY3YjQyZjAzM2Y0ZTgy",
   "tracks": [
     {
       "added_at": "2022-09-02 04:01:00",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2022-09-02 04:01:00",
       "album": {
-        "name": "The Big 3",
-        "url": "https://open.spotify.com/album/48eC2urnoRGt6AeU7KsOoC"
-      },
-      "artists": [
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
-        }
-      ],
-      "duration_ms": 183186,
-      "name": "Real Talk",
-      "url": "https://open.spotify.com/track/32ny2YtiR7zKi7PBjiQ5Iy"
-    },
-    {
-      "added_at": "2022-09-02 04:01:00",
-      "album": {
         "name": "Kamikaze",
         "url": "https://open.spotify.com/album/3HNnxK7NgLXbDoxRZxNWiR"
       },
@@ -1103,22 +1087,6 @@
       "duration_ms": 244679,
       "name": "Lucky You (feat. Joyner Lucas)",
       "url": "https://open.spotify.com/track/60SdxE8apGAxMiRrpbmLY0"
-    },
-    {
-      "added_at": "2022-09-02 04:01:00",
-      "album": {
-        "name": "WAITRESS",
-        "url": "https://open.spotify.com/album/6VIsocCK7mDklr0V3UouGZ"
-      },
-      "artists": [
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        }
-      ],
-      "duration_ms": 132018,
-      "name": "WAITRESS",
-      "url": "https://open.spotify.com/track/6I5DkMtgMjN6k270nRwNEl"
     },
     {
       "added_at": "2022-09-02 04:01:00",
@@ -1147,6 +1115,38 @@
       "duration_ms": 215693,
       "name": "Solid (feat. Drake)",
       "url": "https://open.spotify.com/track/6rTInqW3YECMkQsBEHw4sd"
+    },
+    {
+      "added_at": "2022-09-02 04:01:00",
+      "album": {
+        "name": "WAITRESS",
+        "url": "https://open.spotify.com/album/6VIsocCK7mDklr0V3UouGZ"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "duration_ms": 132018,
+      "name": "WAITRESS",
+      "url": "https://open.spotify.com/track/6I5DkMtgMjN6k270nRwNEl"
+    },
+    {
+      "added_at": "2022-09-02 04:01:00",
+      "album": {
+        "name": "The Big 3",
+        "url": "https://open.spotify.com/album/48eC2urnoRGt6AeU7KsOoC"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "duration_ms": 183186,
+      "name": "Real Talk",
+      "url": "https://open.spotify.com/track/32ny2YtiR7zKi7PBjiQ5Iy"
     },
     {
       "added_at": "2022-09-02 04:01:00",
@@ -1331,26 +1331,6 @@
     {
       "added_at": "2022-09-02 04:01:00",
       "album": {
-        "name": "F.N.F. (Let's Go)",
-        "url": "https://open.spotify.com/album/1FkcZKerCfWg4nUItVHf9B"
-      },
-      "artists": [
-        {
-          "name": "Hitkidd",
-          "url": "https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf"
-        },
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 137579,
-      "name": "F.N.F. (Let's Go)",
-      "url": "https://open.spotify.com/track/1vrFJDrysqmsNAgyjBzx4f"
-    },
-    {
-      "added_at": "2022-09-02 04:01:00",
-      "album": {
         "name": "Step 1",
         "url": "https://open.spotify.com/album/5FK1c1mPSV1qVlrP3STXYf"
       },
@@ -1367,6 +1347,26 @@
       "duration_ms": 177731,
       "name": "Step 1 (with Offset)",
       "url": "https://open.spotify.com/track/5gcsJvWzuPMeJBQYdiO0RS"
+    },
+    {
+      "added_at": "2022-09-02 04:01:00",
+      "album": {
+        "name": "F.N.F. (Let's Go)",
+        "url": "https://open.spotify.com/album/1FkcZKerCfWg4nUItVHf9B"
+      },
+      "artists": [
+        {
+          "name": "Hitkidd",
+          "url": "https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 137579,
+      "name": "F.N.F. (Let's Go)",
+      "url": "https://open.spotify.com/track/1vrFJDrysqmsNAgyjBzx4f"
     },
     {
       "added_at": "2022-09-02 04:01:00",
@@ -1455,30 +1455,6 @@
     {
       "added_at": "2022-09-02 04:01:00",
       "album": {
-        "name": "GOD DID",
-        "url": "https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50"
-      },
-      "artists": [
-        {
-          "name": "DJ Khaled",
-          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
-        },
-        {
-          "name": "Nardo Wick",
-          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
-        },
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 170197,
-      "name": "IT AIN'T SAFE (feat. Nardo Wick & Kodak Black)",
-      "url": "https://open.spotify.com/track/2d4XHh61JufZpNdm88TXXx"
-    },
-    {
-      "added_at": "2022-09-02 04:01:00",
-      "album": {
         "name": "Shake It (feat. Cardi B, Dougie B & Bory300)",
         "url": "https://open.spotify.com/album/0Kr65MJsLayLENRXxrlW3Z"
       },
@@ -1503,6 +1479,30 @@
       "duration_ms": 118249,
       "name": "Shake It (feat. Cardi B, Dougie B & Bory300)",
       "url": "https://open.spotify.com/track/0RkCnqwF8Tfl2QGPZwopyk"
+    },
+    {
+      "added_at": "2022-09-02 04:01:00",
+      "album": {
+        "name": "GOD DID",
+        "url": "https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50"
+      },
+      "artists": [
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "name": "Nardo Wick",
+          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 170197,
+      "name": "IT AIN'T SAFE (feat. Nardo Wick & Kodak Black)",
+      "url": "https://open.spotify.com/track/2d4XHh61JufZpNdm88TXXx"
     },
     {
       "added_at": "2022-09-02 04:01:00",
@@ -1757,6 +1757,26 @@
       "url": "https://open.spotify.com/track/1XRgIKC5TPwo7nWGyKqgG0"
     },
     {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "I Never Felt Nun",
+        "url": "https://open.spotify.com/album/0A4xJz6OAedAQGriJH7pjn"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        },
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 158431,
+      "name": "Backstage Passes (feat. Jack Harlow)",
+      "url": "https://open.spotify.com/track/2BSl2gSFHdzJAMus74qzNj"
+    },
+    {
       "added_at": "2022-09-02 04:01:00",
       "album": {
         "name": "Tha Carter III",
@@ -1863,6 +1883,26 @@
     {
       "added_at": "2022-09-02 04:01:00",
       "album": {
+        "name": "Rumors (feat. Lil Durk)",
+        "url": "https://open.spotify.com/album/7x2jRqKRTESzM0A8vBOJIM"
+      },
+      "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "duration_ms": 185855,
+      "name": "Rumors (feat. Lil Durk)",
+      "url": "https://open.spotify.com/track/0P2P1AxcRYhiZvoF5MyRmM"
+    },
+    {
+      "added_at": "2022-09-02 04:01:00",
+      "album": {
         "name": "The London (feat. J. Cole & Travis Scott)",
         "url": "https://open.spotify.com/album/6p9Y1K9yu3ojyS8fBJXUnp"
       },
@@ -1883,26 +1923,6 @@
       "duration_ms": 200106,
       "name": "The London (feat. J. Cole & Travis Scott)",
       "url": "https://open.spotify.com/track/7DcvwMAiqKJQD1rrdfxSDx"
-    },
-    {
-      "added_at": "2022-09-02 04:01:00",
-      "album": {
-        "name": "Rumors (feat. Lil Durk)",
-        "url": "https://open.spotify.com/album/7x2jRqKRTESzM0A8vBOJIM"
-      },
-      "artists": [
-        {
-          "name": "Gucci Mane",
-          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        }
-      ],
-      "duration_ms": 185855,
-      "name": "Rumors (feat. Lil Durk)",
-      "url": "https://open.spotify.com/track/0P2P1AxcRYhiZvoF5MyRmM"
     },
     {
       "added_at": "2022-09-02 04:01:00",
@@ -1943,26 +1963,6 @@
       "duration_ms": 158350,
       "name": "Can't Stop Won't Stop (feat. Kodak Black)",
       "url": "https://open.spotify.com/track/4L1zI1GJxi0Qq38aSYmsS0"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "I Never Felt Nun",
-        "url": "https://open.spotify.com/album/0A4xJz6OAedAQGriJH7pjn"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        },
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 158431,
-      "name": "Backstage Passes (feat. Jack Harlow)",
-      "url": "https://open.spotify.com/track/2BSl2gSFHdzJAMus74qzNj"
     },
     {
       "added_at": "2022-09-02 04:01:00",
@@ -2241,6 +2241,26 @@
       "url": "https://open.spotify.com/track/0CAJdthKDdRjB2h8YOguN6"
     },
     {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Blues",
+        "url": "https://open.spotify.com/album/7yf3T5Ga0DpWFjqzoMkXK2"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 145862,
+      "name": "Blues (feat. Future)",
+      "url": "https://open.spotify.com/track/28gBJ6GG1orRuc4Ck3y45n"
+    },
+    {
       "added_at": "2022-09-02 04:01:00",
       "album": {
         "name": "I NEVER LIKED YOU",
@@ -2279,26 +2299,6 @@
     {
       "added_at": "2022-09-02 04:01:00",
       "album": {
-        "name": "Keep Dissing 2 (with Lil Durk)",
-        "url": "https://open.spotify.com/album/5Xt2jd95PhUWTLXoy2pyJN"
-      },
-      "artists": [
-        {
-          "name": "Real Boston Richey",
-          "url": "https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        }
-      ],
-      "duration_ms": 173683,
-      "name": "Keep Dissing 2 (with Lil Durk)",
-      "url": "https://open.spotify.com/track/68ccsqXPhYGGTQ1RVDDtOh"
-    },
-    {
-      "added_at": "2022-09-02 04:01:00",
-      "album": {
         "name": "MMG Presents: Self Made, Vol. 1",
         "url": "https://open.spotify.com/album/1xE3Obhzdpw4aIqPDMf4I4"
       },
@@ -2331,6 +2331,26 @@
       "duration_ms": 174915,
       "name": "HOME",
       "url": "https://open.spotify.com/track/08hYZJIjLZwUVDiMzzeu0q"
+    },
+    {
+      "added_at": "2022-09-02 04:01:00",
+      "album": {
+        "name": "Keep Dissing 2 (with Lil Durk)",
+        "url": "https://open.spotify.com/album/5Xt2jd95PhUWTLXoy2pyJN"
+      },
+      "artists": [
+        {
+          "name": "Real Boston Richey",
+          "url": "https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "duration_ms": 173683,
+      "name": "Keep Dissing 2 (with Lil Durk)",
+      "url": "https://open.spotify.com/track/68ccsqXPhYGGTQ1RVDDtOh"
     },
     {
       "added_at": "2022-09-02 04:01:00",
@@ -2377,26 +2397,6 @@
       "url": "https://open.spotify.com/track/6ya8ejoKgw906Y8LWclqrp"
     },
     {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "Blues",
-        "url": "https://open.spotify.com/album/7yf3T5Ga0DpWFjqzoMkXK2"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 145862,
-      "name": "Blues (feat. Future)",
-      "url": "https://open.spotify.com/track/28gBJ6GG1orRuc4Ck3y45n"
-    },
-    {
       "added_at": "2022-09-02 04:01:00",
       "album": {
         "name": "Section.80",
@@ -2439,6 +2439,26 @@
     {
       "added_at": "2022-09-02 04:01:00",
       "album": {
+        "name": "We Are Young Money",
+        "url": "https://open.spotify.com/album/0hDy52fqKwb2ZIjyNXGxan"
+      },
+      "artists": [
+        {
+          "name": "Young Money",
+          "url": "https://open.spotify.com/artist/5OrB6Jhhrl9y2PK0pSV4VP"
+        },
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        }
+      ],
+      "duration_ms": 310733,
+      "name": "Steady Mobbin",
+      "url": "https://open.spotify.com/track/3cSuhzV7wKX5diQ8hos78P"
+    },
+    {
+      "added_at": "2022-09-02 04:01:00",
+      "album": {
         "name": "We Set The Trends (Remix) [feat. \u200eMigos & Juelz Santana]",
         "url": "https://open.spotify.com/album/7JZ79IAZ6xFXBqbzsb06YE"
       },
@@ -2467,26 +2487,6 @@
       "duration_ms": 217815,
       "name": "We Set The Trends (feat. Migos & \u200eJuelz Santana) - Remix",
       "url": "https://open.spotify.com/track/3KNxJvz0dM6aPb6bVJdyKi"
-    },
-    {
-      "added_at": "2022-09-02 04:01:00",
-      "album": {
-        "name": "We Are Young Money",
-        "url": "https://open.spotify.com/album/0hDy52fqKwb2ZIjyNXGxan"
-      },
-      "artists": [
-        {
-          "name": "Young Money",
-          "url": "https://open.spotify.com/artist/5OrB6Jhhrl9y2PK0pSV4VP"
-        },
-        {
-          "name": "Gucci Mane",
-          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
-        }
-      ],
-      "duration_ms": 310733,
-      "name": "Steady Mobbin",
-      "url": "https://open.spotify.com/track/3cSuhzV7wKX5diQ8hos78P"
     },
     {
       "added_at": "2022-09-02 04:01:00",
@@ -3083,6 +3083,22 @@
     {
       "added_at": "2022-09-02 04:01:00",
       "album": {
+        "name": "What It Is",
+        "url": "https://open.spotify.com/album/4WFokPlvWtHvqsG6P6Dxo5"
+      },
+      "artists": [
+        {
+          "name": "BabyDrill",
+          "url": "https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv"
+        }
+      ],
+      "duration_ms": 129269,
+      "name": "What It Is",
+      "url": "https://open.spotify.com/track/7D4HOXBTsFfC8IJc6UfjsY"
+    },
+    {
+      "added_at": "2022-09-02 04:01:00",
+      "album": {
         "name": "Flood My Wrist (feat. Lil Uzi Vert)",
         "url": "https://open.spotify.com/album/1DNZxVVjDU8ArQRzQjif6H"
       },
@@ -3103,22 +3119,6 @@
       "duration_ms": 180935,
       "name": "Flood My Wrist (feat. Lil Uzi Vert)",
       "url": "https://open.spotify.com/track/5Tj4faD9lGyMw8ZatUYR6G"
-    },
-    {
-      "added_at": "2022-09-02 04:01:00",
-      "album": {
-        "name": "What It Is",
-        "url": "https://open.spotify.com/album/4WFokPlvWtHvqsG6P6Dxo5"
-      },
-      "artists": [
-        {
-          "name": "BabyDrill",
-          "url": "https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv"
-        }
-      ],
-      "duration_ms": 129269,
-      "name": "What It Is",
-      "url": "https://open.spotify.com/track/7D4HOXBTsFfC8IJc6UfjsY"
     },
     {
       "added_at": "2022-09-02 04:01:00",
@@ -3539,26 +3539,6 @@
     {
       "added_at": "2022-09-02 04:01:00",
       "album": {
-        "name": "Nobody Safe",
-        "url": "https://open.spotify.com/album/1w3bK9CG80xsuDPlrz5EV7"
-      },
-      "artists": [
-        {
-          "name": "Rich The Kid",
-          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
-        },
-        {
-          "name": "YoungBoy Never Broke Again",
-          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
-        }
-      ],
-      "duration_ms": 141692,
-      "name": "No Flash",
-      "url": "https://open.spotify.com/track/3DhQknNJsPtkRj1D7bxjvl"
-    },
-    {
-      "added_at": "2022-09-02 04:01:00",
-      "album": {
         "name": "Let's Do A Drill",
         "url": "https://open.spotify.com/album/2ZlRq32UQiZYPYt6VkPaRl"
       },
@@ -3579,6 +3559,26 @@
       "duration_ms": 243264,
       "name": "Rock",
       "url": "https://open.spotify.com/track/7kp8t9yexJdk7LuvTK47XI"
+    },
+    {
+      "added_at": "2022-09-02 04:01:00",
+      "album": {
+        "name": "Nobody Safe",
+        "url": "https://open.spotify.com/album/1w3bK9CG80xsuDPlrz5EV7"
+      },
+      "artists": [
+        {
+          "name": "Rich The Kid",
+          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
+        },
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "duration_ms": 141692,
+      "name": "No Flash",
+      "url": "https://open.spotify.com/track/3DhQknNJsPtkRj1D7bxjvl"
     },
     {
       "added_at": "2022-09-02 04:01:00",

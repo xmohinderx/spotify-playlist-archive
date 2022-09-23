@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7UuaejrQg4.md) - [plain]
 
 > 2018 highlights from the home of indie music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,102 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,169 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7UuaejrQg4.md) - [plain]
 | 36 | [I'm with You](https://open.spotify.com/track/6Qwuw0eOeszVlewLpu24gR) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Nation of Two](https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV) | 3:59 |
 | 37 | [Dontmakemefallinlove](https://open.spotify.com/track/6zHyWsqTzT6Fympdy9KQDQ) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Chiquito](https://open.spotify.com/album/6Bq9FHHUxCUZalaQ6YwGjy) | 3:27 |
 | 38 | [Fool](https://open.spotify.com/track/7asyVbwQE7IbA3x2be7bdI) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Lemon Boy](https://open.spotify.com/album/5rvA7Pth9X8PFp5jHqFl3V) | 3:53 |
-| 39 | [still feel.](https://open.spotify.com/track/48XkVAagIoQHCsOlJtXUd5) | [half•alive](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k) | [Now, Not Yet](https://open.spotify.com/album/2KSWrd22LGc0Hmqs2Z5i7z) | 4:07 |
-| 40 | [Skin](https://open.spotify.com/track/467t3218y3yihFcyDGWjr0) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Skin](https://open.spotify.com/album/1E3Dc94QXnqiQcGVgij0iW) | 3:50 |
+| 39 | [Skin](https://open.spotify.com/track/467t3218y3yihFcyDGWjr0) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Skin](https://open.spotify.com/album/1E3Dc94QXnqiQcGVgij0iW) | 3:50 |
+| 40 | [still feel.](https://open.spotify.com/track/48XkVAagIoQHCsOlJtXUd5) | [half•alive](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k) | [Now, Not Yet](https://open.spotify.com/album/2KSWrd22LGc0Hmqs2Z5i7z) | 4:07 |
 | 41 | [These Days](https://open.spotify.com/track/4gZDCOFuLCxCRWNhSEcOtJ) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Spring EP](https://open.spotify.com/album/0P2kTQ7mJ3z7CFjII7GWkw) | 3:22 |
 | 42 | [Narcissist \(feat\. The 1975\)](https://open.spotify.com/track/4qjLvvBh5ZeKEPyShKRf06) | [No Rome](https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd), [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [RIP Indo Hisashi](https://open.spotify.com/album/5l156gMmHiFQKaAqCWRkI4) | 3:15 |
 | 43 | [Night Shift](https://open.spotify.com/track/1yYlpGuBiRRf33e1gY61bN) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Historian](https://open.spotify.com/album/0LqhbUfmHsxovfSirhEIGu) | 6:31 |
@@ -74,16 +74,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7UuaejrQg4.md) - [plain]
 | 64 | [tkm](https://open.spotify.com/track/7eAp42zD2PbKJMvHVcHHF8) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [Soy Pablo](https://open.spotify.com/album/1lESM5Y1VAvrCLEgLmyfOw) | 5:38 |
 | 65 | [Sesame Syrup](https://open.spotify.com/track/73ROvjXlrsrDcNmCurwWOF) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Crush](https://open.spotify.com/album/5m3edD6VcJ23DxiLPwjDaB) | 5:03 |
 | 66 | [Four Out Of Five](https://open.spotify.com/track/3nhzPKCm2yqGmgEhdAg19u) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Tranquility Base Hotel & Casino](https://open.spotify.com/album/1jeMiSeSnNS0Oys375qegp) | 5:12 |
-| 67 | [Heavy, California](https://open.spotify.com/track/34wcz4mpAActEc6gtqX3wz) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [For Ever](https://open.spotify.com/album/5gYCZgmXzzWXxOCb9fMfBm) | 3:04 |
-| 68 | [Lost in Paris](https://open.spotify.com/track/4A7DUET5H4f7dJkUhjfVFB) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ) | [Geography](https://open.spotify.com/album/28enuddLPEA914scE6Drvk) | 3:14 |
-| 69 | [Cool Again](https://open.spotify.com/track/4CFJuKGq5CiGF95M2Jrw3S) | [Shoffy](https://open.spotify.com/artist/4wO0kHiOwf8l9VMJJN9HmG) | [Lenses](https://open.spotify.com/album/1RTm973fIk4zlqW69bqXOU) | 3:11 |
-| 70 | [affection](https://open.spotify.com/track/4LyIHEDbAWDeKV0JbVZae9) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [we just need some time together](https://open.spotify.com/album/4Pr42qDjwPOxMxB9aJBDPG) | 3:55 |
+| 67 | [affection](https://open.spotify.com/track/4LyIHEDbAWDeKV0JbVZae9) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [we just need some time together](https://open.spotify.com/album/4Pr42qDjwPOxMxB9aJBDPG) | 3:55 |
+| 68 | [Heavy, California](https://open.spotify.com/track/34wcz4mpAActEc6gtqX3wz) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [For Ever](https://open.spotify.com/album/5gYCZgmXzzWXxOCb9fMfBm) | 3:04 |
+| 69 | [Lost in Paris](https://open.spotify.com/track/4A7DUET5H4f7dJkUhjfVFB) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ) | [Geography](https://open.spotify.com/album/28enuddLPEA914scE6Drvk) | 3:14 |
+| 70 | [Cool Again](https://open.spotify.com/track/4CFJuKGq5CiGF95M2Jrw3S) | [Shoffy](https://open.spotify.com/artist/4wO0kHiOwf8l9VMJJN9HmG) | [Lenses](https://open.spotify.com/album/1RTm973fIk4zlqW69bqXOU) | 3:11 |
 | 71 | [Drown](https://open.spotify.com/track/03ZkvqZOANKndGXfAAPywG) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Drown](https://open.spotify.com/album/6Az1XhIF7MTkO0kr5fRJOd) | 3:54 |
 | 72 | [No Going Back](https://open.spotify.com/track/356aM3w6i5v1cltIzOnVTP) | [Yuno](https://open.spotify.com/artist/36BjLtXEXIifbRrfc1Rtqa) | [Moodie](https://open.spotify.com/album/4XMQDHZSKpEg1UReRiMuJC) | 3:28 |
 | 73 | [Give Yourself A Try](https://open.spotify.com/track/4rmIfFUZhhi9sS5IYtpkXw) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [A Brief Inquiry Into Online Relationships](https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY) | 3:16 |
 | 74 | [Star Treatment](https://open.spotify.com/track/0FgNSsaSZTvbLXUumSO8LQ) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Tranquility Base Hotel & Casino](https://open.spotify.com/album/1jeMiSeSnNS0Oys375qegp) | 5:54 |
-| 75 | [Losing You](https://open.spotify.com/track/7mjOxXnZYbGtgjyX0hqaLs) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [Soy Pablo](https://open.spotify.com/album/1lESM5Y1VAvrCLEgLmyfOw) | 3:06 |
-| 76 | [Arms](https://open.spotify.com/track/4EXvl9cypQrKVYwabqd1EY) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [On the Train Ride Home](https://open.spotify.com/album/4amdDYo23aSOrv7hSZrCMT) | 3:23 |
+| 75 | [Arms](https://open.spotify.com/track/4EXvl9cypQrKVYwabqd1EY) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [On the Train Ride Home](https://open.spotify.com/album/4amdDYo23aSOrv7hSZrCMT) | 3:23 |
+| 76 | [Losing You](https://open.spotify.com/track/7mjOxXnZYbGtgjyX0hqaLs) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [Soy Pablo](https://open.spotify.com/album/1lESM5Y1VAvrCLEgLmyfOw) | 3:06 |
 | 77 | [All I Want To Hear You Say](https://open.spotify.com/track/7BZWTu4Pv77TxGmmsQaSXN) | [Sea Girls](https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe) | [All I Want To Hear You Say](https://open.spotify.com/album/1q1jS5K0GVUbJL7NySZM3F) | 3:10 |
 | 78 | [Holy](https://open.spotify.com/track/7FVGIPgLMDChTffvG2LuHV) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Make My Bed](https://open.spotify.com/album/6VnoKML5dWRxOOEbMAPfG5) | 2:54 |
 | 79 | [Shelter](https://open.spotify.com/track/5C5Fle0gDOcUchmj4RgVH5) | [Broken Bells](https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG) | [Shelter](https://open.spotify.com/album/4mYvYnX8cLr4w2UjmkpjnU) | 3:59 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7UuaejrQg4.md) - [plain]
 | 94 | [I Can't Stand It](https://open.spotify.com/track/16nIdWPjwoNTkADzm6nwBb) | [Blossoms](https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5) | [Cool Like You \(Deluxe\)](https://open.spotify.com/album/0yO5Mwu2oDdGbeRFpAaBGa) | 2:57 |
 | 95 | [Heat Wave](https://open.spotify.com/track/7B0uWqVjMySfDKhtZghBkO) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Lush](https://open.spotify.com/album/2ZlrWJ4Ev4DhG6mRo5h1AP) | 5:08 |
 | 96 | [Cheetah Tongue](https://open.spotify.com/track/4w9TBRGhvbhiLQB8jVCusl) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Beautiful People Will Ruin Your Life](https://open.spotify.com/album/4kUbTSoTsbKP5MRdYMDBx1) | 3:39 |
-| 97 | [Better](https://open.spotify.com/track/32T61xmNSIXhGkEszzs0t8) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Better \(SG Lewis x Clairo\)](https://open.spotify.com/album/2lZmVu1fNVLtqPyhRiDdsd) | 3:13 |
-| 98 | [Calm](https://open.spotify.com/track/4j7R6F40QS9mlvAOKP8U9G) | [Vistas](https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc) | [Calm](https://open.spotify.com/album/4yuJkYEGuZ5cR5qMtS342L) | 3:28 |
+| 97 | [Calm](https://open.spotify.com/track/4j7R6F40QS9mlvAOKP8U9G) | [Vistas](https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc) | [Calm](https://open.spotify.com/album/4yuJkYEGuZ5cR5qMtS342L) | 3:28 |
+| 98 | [Better](https://open.spotify.com/track/32T61xmNSIXhGkEszzs0t8) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Better \(SG Lewis x Clairo\)](https://open.spotify.com/album/2lZmVu1fNVLtqPyhRiDdsd) | 3:13 |
 | 99 | [The Reason](https://open.spotify.com/track/3UZjxHie58YFNRxO5B4s6w) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Sleeping with Roses](https://open.spotify.com/album/0ZJuaVZMvpdrlYnKHhvfRq) | 3:04 |
 | 100 | [Say, Can You Hear](https://open.spotify.com/track/7JvjjlZ5R1I1xRDsEkPuJ7) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Say, Can You Hear](https://open.spotify.com/album/6rQixYcPsSviu4PfdprZgK) | 3:09 |
 
-Snapshot ID: `MTY0Njc1MjAyNiwwMDAwMDAwMDI5Njc3MGZmZTE4Zjk1YWEwZmZjZThhYTMyMjVhMmJl`
+Snapshot ID: `MTY0Njc1MjAyNiwwMDAwMDAwMDE4YjQwOTYxZDZkN2Q3Y2I2YmU2ZDQzZmNmOGMzZjEz`

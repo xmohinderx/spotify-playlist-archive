@@ -1,12 +1,12 @@
 {
   "description": "This is the best of ska, new and classic. Cover: The Interrupters",
-  "num_followers": 320467,
+  "num_followers": 320547,
   "original_name": "The Essential Ska",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDg3Mzg2NCwwMDAwMDAwMDM5ZGU2YzViZjU4NzBiOTU4ZWZkY2M0MDFmMjllZjNm",
+  "snapshot_id": "MTY1NDg3Mzg2NCwwMDAwMDAwMDc2N2Y0NGVlNmVhM2FlYzMyMjYwODE1Zjc3NTU5NjEz",
   "tracks": [
     {
       "added_at": "2022-04-14 09:43:03",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2022-04-14 09:43:03",
       "album": {
-        "name": "When God Was Great",
-        "url": "https://open.spotify.com/album/2GMkzDNISHUME6JBeT46D3"
-      },
-      "artists": [
-        {
-          "name": "The Mighty Mighty Bosstones",
-          "url": "https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK"
-        }
-      ],
-      "duration_ms": 213754,
-      "name": "LONELY BOY",
-      "url": "https://open.spotify.com/track/7exeQYwgHvD9pLJlFdXWhU"
-    },
-    {
-      "added_at": "2022-04-14 09:43:03",
-      "album": {
         "name": "Room For Abuse '06",
         "url": "https://open.spotify.com/album/5Jf3CXEX8DhIxzH3psPoCf"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 186804,
       "name": "Ego",
       "url": "https://open.spotify.com/track/5vkJkwKAEBUGess9Elg26s"
+    },
+    {
+      "added_at": "2022-04-14 09:43:03",
+      "album": {
+        "name": "When God Was Great",
+        "url": "https://open.spotify.com/album/2GMkzDNISHUME6JBeT46D3"
+      },
+      "artists": [
+        {
+          "name": "The Mighty Mighty Bosstones",
+          "url": "https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK"
+        }
+      ],
+      "duration_ms": 213754,
+      "name": "LONELY BOY",
+      "url": "https://open.spotify.com/track/7exeQYwgHvD9pLJlFdXWhU"
     },
     {
       "added_at": "2022-04-14 09:43:03",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2022-04-14 09:43:03",
       "album": {
-        "name": "Checkered Past",
-        "url": "https://open.spotify.com/album/4RpU4zEboCRpkRxhlds9Dj"
-      },
-      "artists": [
-        {
-          "name": "Save Ferris",
-          "url": "https://open.spotify.com/artist/1PAi6SNPtaiFqTRiTfecFr"
-        }
-      ],
-      "duration_ms": 164880,
-      "name": "Anything",
-      "url": "https://open.spotify.com/track/4rcNt8pEnkQSQVyTXgmlG9"
-    },
-    {
-      "added_at": "2022-04-14 09:43:03",
-      "album": {
         "name": "THE FINAL PARADE",
         "url": "https://open.spotify.com/album/5M5RNwrNNOCkuI1bZeB45I"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 477836,
       "name": "THE FINAL PARADE",
       "url": "https://open.spotify.com/track/2bKOzEirhfTNQHGvCJRwYz"
+    },
+    {
+      "added_at": "2022-04-14 09:43:03",
+      "album": {
+        "name": "Checkered Past",
+        "url": "https://open.spotify.com/album/4RpU4zEboCRpkRxhlds9Dj"
+      },
+      "artists": [
+        {
+          "name": "Save Ferris",
+          "url": "https://open.spotify.com/artist/1PAi6SNPtaiFqTRiTfecFr"
+        }
+      ],
+      "duration_ms": 164880,
+      "name": "Anything",
+      "url": "https://open.spotify.com/track/4rcNt8pEnkQSQVyTXgmlG9"
     },
     {
       "added_at": "2022-04-14 09:43:03",

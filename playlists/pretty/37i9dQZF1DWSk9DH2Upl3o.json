@@ -1,12 +1,12 @@
 {
   "description": "The jam scene is alive and well. Cover: Papadosio",
-  "num_followers": 6732,
+  "num_followers": 6788,
   "original_name": "Modern Jam Band",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMwMDg2MCwwMDAwMDAwMGZlN2ZjODhjMWM1NDU4N2JjNjk5NjVhMDE3ZDZjNGIz",
+  "snapshot_id": "MTY2MzMwMDg2MCwwMDAwMDAwMDE0NTJhMjE0NjJlZWYzMzQzYTQ0M2U1Y2JmMDBlM2Ex",
   "tracks": [
     {
       "added_at": "2022-09-16 04:01:00",
@@ -497,22 +497,6 @@
       "url": "https://open.spotify.com/track/6vC5WWQXWqBUW5iq7XoGnu"
     },
     {
-      "added_at": "2022-07-08 04:02:00",
-      "album": {
-        "name": "Ghost In The Machine",
-        "url": "https://open.spotify.com/album/35uUl3hTYQfBhH8CvSsTiV"
-      },
-      "artists": [
-        {
-          "name": "Dawes",
-          "url": "https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV"
-        }
-      ],
-      "duration_ms": 379640,
-      "name": "Ghost In The Machine",
-      "url": "https://open.spotify.com/track/5VBPHVGLIpMdwRolGDxAm9"
-    },
-    {
       "added_at": "2022-06-23 13:45:43",
       "album": {
         "name": "Out of Line",
@@ -527,6 +511,22 @@
       "duration_ms": 339120,
       "name": "Opelika Yella",
       "url": "https://open.spotify.com/track/0lNcPLNpygKPwn4rh07yHQ"
+    },
+    {
+      "added_at": "2022-07-08 04:02:00",
+      "album": {
+        "name": "Ghost In The Machine",
+        "url": "https://open.spotify.com/album/35uUl3hTYQfBhH8CvSsTiV"
+      },
+      "artists": [
+        {
+          "name": "Dawes",
+          "url": "https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV"
+        }
+      ],
+      "duration_ms": 379640,
+      "name": "Ghost In The Machine",
+      "url": "https://open.spotify.com/track/5VBPHVGLIpMdwRolGDxAm9"
     },
     {
       "added_at": "2022-06-23 13:45:43",
@@ -575,6 +575,22 @@
       "duration_ms": 247106,
       "name": "Fannie",
       "url": "https://open.spotify.com/track/3L2U8GgZE0y2WX0z6cUYGX"
+    },
+    {
+      "added_at": "2022-06-23 13:45:43",
+      "album": {
+        "name": "Phone.Keys.Wallet",
+        "url": "https://open.spotify.com/album/2fVFLWl9qjao0Q1eal6yx4"
+      },
+      "artists": [
+        {
+          "name": "Cbdb",
+          "url": "https://open.spotify.com/artist/0Rt9ML8x5r1DFhSPAJhbwr"
+        }
+      ],
+      "duration_ms": 139773,
+      "name": "Stacy's on the Lake",
+      "url": "https://open.spotify.com/track/5aM41a1nAdLaYMj2roH4vu"
     },
     {
       "added_at": "2022-06-23 13:45:43",
@@ -655,22 +671,6 @@
       "duration_ms": 412707,
       "name": "Galactic Passport",
       "url": "https://open.spotify.com/track/3OAg1ONfFGgdps1INL4qaX"
-    },
-    {
-      "added_at": "2022-06-23 13:45:43",
-      "album": {
-        "name": "Phone.Keys.Wallet",
-        "url": "https://open.spotify.com/album/2fVFLWl9qjao0Q1eal6yx4"
-      },
-      "artists": [
-        {
-          "name": "Cbdb",
-          "url": "https://open.spotify.com/artist/0Rt9ML8x5r1DFhSPAJhbwr"
-        }
-      ],
-      "duration_ms": 139773,
-      "name": "Stacy's on the Lake",
-      "url": "https://open.spotify.com/track/5aM41a1nAdLaYMj2roH4vu"
     },
     {
       "added_at": "2022-06-23 13:45:43",

@@ -95,10 +95,28 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 138857,
       "name": "ADA",
       "url": "https://open.spotify.com/track/5wMbHVkIKNLOaXrZvS97dw"
+    },
+    {
+      "album": {
+        "name": "Affaire",
+        "url": "https://open.spotify.com/album/4Jh4GBieaE8tFEGgmLRzF5"
+      },
+      "artists": [
+        {
+          "name": "Karma",
+          "url": "https://open.spotify.com/artist/4dy4hTb8rfqlxr4s2m6YJq"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185199,
+      "name": "Affaire",
+      "url": "https://open.spotify.com/track/2jwAom7XMWKifWOHK89I6T"
     },
     {
       "album": {
@@ -201,6 +219,24 @@
       "duration_ms": 162206,
       "name": "BAG",
       "url": "https://open.spotify.com/track/1RVx5RzVcALnTgLY8RbUnt"
+    },
+    {
+      "album": {
+        "name": "Bala No Cr\u00e2nio",
+        "url": "https://open.spotify.com/album/5eJNHIxUCMszMg1GdbuhQb"
+      },
+      "artists": [
+        {
+          "name": "SPLIFF",
+          "url": "https://open.spotify.com/artist/2QPRzhivMb2TfzvZKpQYxL"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193533,
+      "name": "Bala No Cr\u00e2nio",
+      "url": "https://open.spotify.com/track/6rT73pMVAgtm5cxr7sqpZt"
     },
     {
       "album": {
@@ -331,7 +367,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 186435,
       "name": "Ciente Tamb\u00e9m Ama",
       "url": "https://open.spotify.com/track/2lLC9Etz8TEtISitLef46t"
@@ -1193,7 +1229,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 137142,
       "name": "Hora H",
       "url": "https://open.spotify.com/track/3RUvxg6Cw854FE0dSP1Yua"
@@ -1215,7 +1251,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 246575,
       "name": "IBC",
       "url": "https://open.spotify.com/track/03jCCoBVLfE3uz0rIeQHwS"
@@ -1313,7 +1349,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 192671,
       "name": "Jorge Mendes",
       "url": "https://open.spotify.com/track/0ZDClbJVrnR5bmg8zdOrbC"
@@ -1475,7 +1511,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 152000,
       "name": "LONGE",
       "url": "https://open.spotify.com/track/1j6uM6WLcNbrbQNCLCfBi1"
@@ -1747,7 +1783,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 169941,
       "name": "My Bae-be",
       "url": "https://open.spotify.com/track/6TciUV6ruKBISWXhnBKM50"
@@ -1907,7 +1943,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 144658,
       "name": "NOTAS",
       "url": "https://open.spotify.com/track/3FsrV8MuR7CehzpkRQSBkg"
@@ -1925,7 +1961,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 135250,
       "name": "Novo Amor",
       "url": "https://open.spotify.com/track/6NlakJnwjiQ1jHpGlJGWsI"
@@ -2309,7 +2345,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 154285,
       "name": "Pull Up",
       "url": "https://open.spotify.com/track/5Tl4w6rF8jjqGlSQ0uIuEa"
@@ -2401,6 +2437,24 @@
       "duration_ms": 132000,
       "name": "Rendez Vous",
       "url": "https://open.spotify.com/track/083SY7cT3XODPbG3rSteh6"
+    },
+    {
+      "album": {
+        "name": "I THINK I THINK TOO MUCH",
+        "url": "https://open.spotify.com/album/2YFKwrCMam3s3KWl97Rbwo"
+      },
+      "artists": [
+        {
+          "name": "Extrazen",
+          "url": "https://open.spotify.com/artist/2PcroavCL0hrKcRgRUGa7O"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205263,
+      "name": "REVOLVER",
+      "url": "https://open.spotify.com/track/6Ncfl5A354xEKXWAxdp1bj"
     },
     {
       "album": {
@@ -2600,6 +2654,24 @@
     },
     {
       "album": {
+        "name": "LIFE AS IT IS (PART 2)",
+        "url": "https://open.spotify.com/album/3IelcM5VNrEu908zaj88t6"
+      },
+      "artists": [
+        {
+          "name": "Mr. Energy Na Casa",
+          "url": "https://open.spotify.com/artist/7heoEfCwom2oXBac7x1Tn2"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206250,
+      "name": "SIM PODI",
+      "url": "https://open.spotify.com/track/1JyBdqo55z9hrdgtJ9iFfl"
+    },
+    {
+      "album": {
         "name": "Sin Sabeba",
         "url": "https://open.spotify.com/album/1UH7XXbG4uV2NKAqEG4Yg2"
       },
@@ -2654,6 +2726,24 @@
     },
     {
       "album": {
+        "name": "Special One",
+        "url": "https://open.spotify.com/album/5HEchXSoc4SJnLjbVqGqFw"
+      },
+      "artists": [
+        {
+          "name": "Londone",
+          "url": "https://open.spotify.com/artist/1rCRiVBfLiDomUEUNGykT2"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Special One",
+      "url": "https://open.spotify.com/track/0HPJcGkZpSI2evjzzivHXk"
+    },
+    {
+      "album": {
         "name": "STARS",
         "url": "https://open.spotify.com/album/4mp5DvarBla5ioFV5K3lkY"
       },
@@ -2683,7 +2773,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 225251,
       "name": "Supa Drill",
       "url": "https://open.spotify.com/track/1WQajxCcePCx3UKAW0bq29"
@@ -2749,6 +2839,46 @@
       "duration_ms": 152766,
       "name": "Tao Dar Bandeira",
       "url": "https://open.spotify.com/track/1udzRBwHBWYiWmwryLa59X"
+    },
+    {
+      "album": {
+        "name": "Punchlines for Days 3",
+        "url": "https://open.spotify.com/album/0eguTT4ygOdlXgyAvsiGP4"
+      },
+      "artists": [
+        {
+          "name": "Hernani",
+          "url": "https://open.spotify.com/artist/0pv7KRBmPGExsFFLcyPv1y"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228546,
+      "name": "Three-Peat",
+      "url": "https://open.spotify.com/track/2vngAmfh6Ab7Z41SguoM5E"
+    },
+    {
+      "album": {
+        "name": "Toma Nota",
+        "url": "https://open.spotify.com/album/3R2YQ0hMkv7v2GujTrBnFj"
+      },
+      "artists": [
+        {
+          "name": "TILHON",
+          "url": "https://open.spotify.com/artist/6s6mY5Dhbh9Qrg118P3qcO"
+        },
+        {
+          "name": "Timor YSF",
+          "url": "https://open.spotify.com/artist/5iyA3j1yVqGBgaKCeiUIzO"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216338,
+      "name": "Toma Nota",
+      "url": "https://open.spotify.com/track/6cc82nI1c6mCgeU60VjelG"
     },
     {
       "album": {
@@ -2821,10 +2951,50 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 106666,
       "name": "Trap No Daily",
       "url": "https://open.spotify.com/track/5hARU7QleGhAg4bWbFxdAm"
+    },
+    {
+      "album": {
+        "name": "Tudo Mudou",
+        "url": "https://open.spotify.com/album/3rbUeYAIbQZnNJkEsia5kY"
+      },
+      "artists": [
+        {
+          "name": "Marcelo",
+          "url": "https://open.spotify.com/artist/4vtDYMpNi4ZFBGjOie9rwM"
+        },
+        {
+          "name": "URG",
+          "url": "https://open.spotify.com/artist/7kKEaWgCxK4lLwnrmsDZDL"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232896,
+      "name": "Tudo Mudou",
+      "url": "https://open.spotify.com/track/2XfGBVchQoNXdxmiZTnhSP"
+    },
+    {
+      "album": {
+        "name": "Tundra",
+        "url": "https://open.spotify.com/album/3yM8zrPKGaGhxxvnzZEtUZ"
+      },
+      "artists": [
+        {
+          "name": "Migsly",
+          "url": "https://open.spotify.com/artist/4T85tykJaQiepqhyyKurwZ"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249600,
+      "name": "Tundra",
+      "url": "https://open.spotify.com/track/6MBVLXWkylitlJOXb9nPsG"
     },
     {
       "album": {
@@ -2919,7 +3089,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 201047,
       "name": "Valentino Rossi",
       "url": "https://open.spotify.com/track/7DBJP0meqZxL6EybX4bHQt"
@@ -3093,6 +3263,24 @@
       "duration_ms": 194579,
       "name": "Yours Truly",
       "url": "https://open.spotify.com/track/4t19vRfZFy4wHU0xSHuiQb"
+    },
+    {
+      "album": {
+        "name": "Casos Arquivados",
+        "url": "https://open.spotify.com/album/7IZR6GkyT3vCM2tmhOf1uR"
+      },
+      "artists": [
+        {
+          "name": "Pulla",
+          "url": "https://open.spotify.com/artist/5ErBgmtP1N6p83k3OF59Al"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180845,
+      "name": "\u00c1gua/Pedra",
+      "url": "https://open.spotify.com/track/61fTo6j2Er96r1RDBSE7VT"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX59I2hjkhLtN"

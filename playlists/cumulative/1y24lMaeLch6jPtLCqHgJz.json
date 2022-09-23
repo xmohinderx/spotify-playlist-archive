@@ -498,6 +498,28 @@
     },
     {
       "album": {
+        "name": "Deja Vu",
+        "url": "https://open.spotify.com/album/2xmcOsh0Zv699SfTkri9Xj"
+      },
+      "artists": [
+        {
+          "name": "Riley James",
+          "url": "https://open.spotify.com/artist/5jRgxHYG8ayHyuBTSQjiGg"
+        },
+        {
+          "name": "Revealed Recordings",
+          "url": "https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167298,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/36tPYCqVrns8yBEv1IMbPs"
+    },
+    {
+      "album": {
         "name": "Diamonds & Gold",
         "url": "https://open.spotify.com/album/4DTto2HAiqGx5XP6BXMzzb"
       },

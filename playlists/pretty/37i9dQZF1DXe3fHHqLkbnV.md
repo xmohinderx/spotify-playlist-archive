@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe3fHHqLkbnV.md) - [plain]
 
 > The best soft rock from the 1990s\. Cover: Bryan Adams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,446 likes - 80 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,717 likes - 80 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

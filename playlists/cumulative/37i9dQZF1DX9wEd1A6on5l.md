@@ -4,7 +4,7 @@
 
 > Get the party started with these Naija bangers!
 
-80 songs - 4 hr 9 min - not published yet
+81 songs - 4 hr 11 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Bad To Me](https://open.spotify.com/track/2pUlBBWq8R10ylbBvZJV9j) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Bad To Me](https://open.spotify.com/album/15hz0gTEdD5H9taOgDdrfJ) | 2:56 | 2022-09-19 |  |
 | [Baddest Boy \- Remix](https://open.spotify.com/track/4lDghGd035xrzGp6Yec2j1) | [Skiibii](https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Baddest Boy \(Remix\)](https://open.spotify.com/album/2aNveWp5zVMduvpZwAZTpf) | 2:24 | 2022-06-09 |  |
 | [Bandana](https://open.spotify.com/track/5CTQCPv51aLWpwTbqo8mEL) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Bandana](https://open.spotify.com/album/18ykMJdXdkUldVNESaXDke) | 2:58 | 2022-07-14 |  |
+| [Begging](https://open.spotify.com/track/771tThfRECkaHjTKb6clZx) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [Begging](https://open.spotify.com/album/2YnH0BZHt58uxsgnnNeeYH) | 2:15 | 2022-07-22 |  |
 | [bend you](https://open.spotify.com/track/4cukkgbgG9P9PKouQ462aV) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem) | 2:39 | 2022-07-14 |  |
 | [Big Energy](https://open.spotify.com/track/4wG7xubJwUdjvdVJvAV1d9) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu) | [Big Energy](https://open.spotify.com/album/4ooUYNH9ZD44v6wpIv5huk) | 3:05 | 2022-06-09 |  |
 | [Big Flexa](https://open.spotify.com/track/16vqEDaCZpq5zdgop8U9uM) | [Costa Titch](https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG), [C'buda M](https://open.spotify.com/artist/3rdDFMUUzxsQODbgrY6mCf), [Alfa Kat](https://open.spotify.com/artist/30Ep7ARHnQpc0z9otD7jup), [Banaba Des](https://open.spotify.com/artist/02CpmHJhuAVY5YybphI3Wn), [Sdida](https://open.spotify.com/artist/7MVdJWzuMTtXvvaovjs3bB), [Man T](https://open.spotify.com/artist/5syvopnKgETMISE53XS578) | [Big Flexa](https://open.spotify.com/album/5MhQBsStYfPKxStExE5wM3) | 5:27 | 2022-06-23 |  |
@@ -66,7 +67,7 @@
 | [One Woman](https://open.spotify.com/track/7BglTfVmbUUOCQUNof4RBF) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Catch Me If You Can](https://open.spotify.com/album/3b5r0ZryUlByiw2byA2IKn) | 2:40 | 2022-06-09 |  |
 | [Organise](https://open.spotify.com/track/2wgvxtggKVzPkl0smF2UzI) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Mr\. Money With The Vibe](https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI) | 2:03 | 2022-09-09 |  |
 | [Overloading \(OVERDOSE\)](https://open.spotify.com/track/4lVEVXrlQlXPdYWMGTwrFe) | [Mavins](https://open.spotify.com/artist/5JWBXFlYkBy3n2oN1To790), [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142), [Boy Spyce](https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT) | [Overloading \(OVERDOSE\)](https://open.spotify.com/album/0PhRHHW803w4pHDJR4AUw8) | 3:25 | 2022-06-09 |  |
-| [PALAZZO](https://open.spotify.com/track/2SaRkvUkzNzL39fBB2hLpt) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [PALAZZO](https://open.spotify.com/album/2O2xKMqPSpnYYQMk5DPSTf) | 3:06 | 2022-06-09 |  |
+| [PALAZZO](https://open.spotify.com/track/2SaRkvUkzNzL39fBB2hLpt) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [PALAZZO](https://open.spotify.com/album/2O2xKMqPSpnYYQMk5DPSTf) | 3:06 | 2022-06-09 | 2022-09-23 |
 | [Peace Be Unto You \(PBUY\)](https://open.spotify.com/track/1mJFFeluclL38IwV264lm9) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Peace Be Unto You \(PBUY\)](https://open.spotify.com/album/2gAZf4ZEJH7fs0szGoCui1) | 2:33 | 2022-06-16 |  |
 | [Peru](https://open.spotify.com/track/0lk5tzmaJWVAv5GBvpm3xu) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Peru](https://open.spotify.com/album/79O3iaxnmfBDwqueQJiNBe) | 2:31 | 2022-06-09 |  |
 | [Peru](https://open.spotify.com/track/3s1KwrLP0NlFWiWbjz6bfQ) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Peru](https://open.spotify.com/album/72hpBprZjtHAgsRTIUKrKO) | 3:07 | 2022-06-09 |  |

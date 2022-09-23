@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59NCqCqJtoH.md) - [plain]
 
 > We hear you.
 
-[Spotify](https://open.spotify.com/user/spotify) - 907,072 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 909,067 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59NCqCqJtoH.md) - [plain]
 | 80 | [I Know You so Well](https://open.spotify.com/track/17eeKDTWiREsr23gIYahtE) | [Sarah Meow](https://open.spotify.com/artist/3O7oOXK7KPniAPEUorctsi), [Shiloh](https://open.spotify.com/artist/5r6AkaWwQMMkRBEaaM8AFS) | [Safe.](https://open.spotify.com/album/59kgTkOxM40wktDHGhDEuH) | 1:59 |
 | 81 | [Close to Me](https://open.spotify.com/track/4jPr49jXRJHftXlwTEA2w4) | [Laica](https://open.spotify.com/artist/2DqImimq9vdEbnQBxGgihQ) | [Forever](https://open.spotify.com/album/0R2eIVnmPN3dXRj77Gb4Up) | 3:31 |
 | 82 | [The Silence](https://open.spotify.com/track/72dIN8F7D5ydB3auSqNi84) | [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f) | [A Black Mile To The Surface](https://open.spotify.com/album/4hruYceqit29o6m4arpAql) | 6:59 |
-| 83 | [Forever & Always](https://open.spotify.com/track/2keT649m2xIywngAVJHsuC) | [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [Forever & Always](https://open.spotify.com/album/06EYDifphG99Y4dmF44pwe) | 4:09 |
-| 84 | [What If I Told You That I Love You](https://open.spotify.com/track/74D7JUfU6HYeMx4bZhsHnG) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [What If I Told You That I Love You](https://open.spotify.com/album/0FJdFiVzdDw7YXiNdds38M) | 3:13 |
+| 83 | [What If I Told You That I Love You](https://open.spotify.com/track/74D7JUfU6HYeMx4bZhsHnG) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [What If I Told You That I Love You](https://open.spotify.com/album/0FJdFiVzdDw7YXiNdds38M) | 3:13 |
+| 84 | [Forever & Always](https://open.spotify.com/track/2keT649m2xIywngAVJHsuC) | [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [Forever & Always](https://open.spotify.com/album/06EYDifphG99Y4dmF44pwe) | 4:09 |
 | 85 | [is your bedroom ceiling bored? \(feat\. Cavetown\)](https://open.spotify.com/track/3ehrCQoouv7NW8LRgcMvRF) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt), [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [is your bedroom ceiling bored? \(feat\. Cavetown\)](https://open.spotify.com/album/3EScPN7QqAa3WUVgZe1dNo) | 3:27 |
 | 86 | [more](https://open.spotify.com/track/24Sqz5FNuD6D5Utxeg4DmK) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [always](https://open.spotify.com/album/37FLvUnF5qC1LZBNCWqG1A) | 3:04 |
 | 87 | [Violets](https://open.spotify.com/track/25ndwd0OLtkQLkFBaS9RjT) | [Josh Golden](https://open.spotify.com/artist/6wUAn24MOirNVNqQM47fda) | [Violets](https://open.spotify.com/album/38yuckLnYIM6TqyKeSQsRU) | 1:55 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59NCqCqJtoH.md) - [plain]
 | 99 | [change ur mind](https://open.spotify.com/track/58Mh6zmqSo9IvysPAXnG0h) | [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ), [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24), [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [change ur mind](https://open.spotify.com/album/5Sq4GMxxUnYNkcXZEORRQh) | 3:03 |
 | 100 | [argyle](https://open.spotify.com/track/5PlTDE2RLbcC9vBzbGAG4y) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [argyle](https://open.spotify.com/album/3urZZqZs16FNxBfyRZj2HU) | 2:45 |
 
-Snapshot ID: `MTY2MzYxODU1NCwwMDAwMDAwMDhjZjQ2NTY3MGU2OWEwYTU2NDg5ZDczNzU0YmRiNTk3`
+Snapshot ID: `MTY2MzYxODU1NCwwMDAwMDAwMGI2Yjg5MGM2ZDk0MDg3MDU1MmViNzlhNjM1YzA4MTc3`

@@ -1,12 +1,12 @@
 {
   "description": "Let these innovative tracks spark your creativity and inspiration.",
-  "num_followers": 373628,
+  "num_followers": 373620,
   "original_name": "Creativity Boost",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTI3MzI4OCwwMDAwMDAwMGRhYjc3ZjBhN2ZjOTAxZDU2MjIxNjE1NzMwZTUyOTM5",
+  "snapshot_id": "MTY1MTI3MzI4OCwwMDAwMDAwMDkyY2EyOTlhM2MxMDNhNzAxZTQ5MmVjNjRjOGVlMmM2",
   "tracks": [
     {
       "added_at": "2022-04-29 23:01:28",
@@ -699,18 +699,22 @@
     {
       "added_at": "2022-04-29 23:01:28",
       "album": {
-        "name": "Concrete",
-        "url": "https://open.spotify.com/album/4ZdyRUMRbY9plmxLjQtkF1"
+        "name": "False Art",
+        "url": "https://open.spotify.com/album/4AkKVNM05Pf48mQVhAj5SZ"
       },
       "artists": [
         {
           "name": "Ben Kessler",
           "url": "https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo"
+        },
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
         }
       ],
-      "duration_ms": 152051,
-      "name": "Concrete",
-      "url": "https://open.spotify.com/track/7HGwpUzbvszA3q7pnokHkY"
+      "duration_ms": 183454,
+      "name": "False Art",
+      "url": "https://open.spotify.com/track/5eBZPQjBjCRXKsu9DnfS21"
     },
     {
       "added_at": "2022-04-29 23:01:28",
@@ -819,22 +823,18 @@
     {
       "added_at": "2022-04-29 23:01:28",
       "album": {
-        "name": "False Art",
-        "url": "https://open.spotify.com/album/4AkKVNM05Pf48mQVhAj5SZ"
+        "name": "Concrete",
+        "url": "https://open.spotify.com/album/4ZdyRUMRbY9plmxLjQtkF1"
       },
       "artists": [
         {
           "name": "Ben Kessler",
           "url": "https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo"
-        },
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
         }
       ],
-      "duration_ms": 183454,
-      "name": "False Art",
-      "url": "https://open.spotify.com/track/5eBZPQjBjCRXKsu9DnfS21"
+      "duration_ms": 152051,
+      "name": "Concrete",
+      "url": "https://open.spotify.com/track/7HGwpUzbvszA3q7pnokHkY"
     },
     {
       "added_at": "2022-04-29 23:01:28",
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2022-04-29 23:01:28",
       "album": {
+        "name": "For The Very Last Time",
+        "url": "https://open.spotify.com/album/2lfXUo4jtKlwpyZuAAm712"
+      },
+      "artists": [
+        {
+          "name": "Glassio",
+          "url": "https://open.spotify.com/artist/6FK9mlh2JAB7kSBYS2CYHN"
+        }
+      ],
+      "duration_ms": 219788,
+      "name": "A Million Doubts",
+      "url": "https://open.spotify.com/track/0QuxL88IiyWc5Dw2wAfeW1"
+    },
+    {
+      "added_at": "2022-04-29 23:01:28",
+      "album": {
         "name": "Gold (Flume Re-Work)",
         "url": "https://open.spotify.com/album/4DHglATZVLGvsoJHoiTxXl"
       },
@@ -1479,22 +1495,6 @@
       "duration_ms": 267231,
       "name": "Gold - Flume Re-Work",
       "url": "https://open.spotify.com/track/7oELjqBCLfUKhsR5IGCS6N"
-    },
-    {
-      "added_at": "2022-04-29 23:01:28",
-      "album": {
-        "name": "For The Very Last Time",
-        "url": "https://open.spotify.com/album/2lfXUo4jtKlwpyZuAAm712"
-      },
-      "artists": [
-        {
-          "name": "Glassio",
-          "url": "https://open.spotify.com/artist/6FK9mlh2JAB7kSBYS2CYHN"
-        }
-      ],
-      "duration_ms": 219788,
-      "name": "A Million Doubts",
-      "url": "https://open.spotify.com/track/0QuxL88IiyWc5Dw2wAfeW1"
     },
     {
       "added_at": "2022-04-29 23:01:28",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2022-04-29 23:01:28",
       "album": {
+        "name": "The Mathematics of Nature",
+        "url": "https://open.spotify.com/album/0uBZBBhGxyYXJCPhE2lU2W"
+      },
+      "artists": [
+        {
+          "name": "Matthew Chaim",
+          "url": "https://open.spotify.com/artist/70JkpECHBzs79FOYemfHwk"
+        }
+      ],
+      "duration_ms": 363841,
+      "name": "Winter/Fall",
+      "url": "https://open.spotify.com/track/2s152GUETF2NZdSYYhwnk9"
+    },
+    {
+      "added_at": "2022-04-29 23:01:28",
+      "album": {
         "name": "September Come",
         "url": "https://open.spotify.com/album/7gmEibaDmaeX04sGCIPayd"
       },
@@ -1567,22 +1583,6 @@
       "duration_ms": 240131,
       "name": "September Come",
       "url": "https://open.spotify.com/track/0xsrh1MnIju00GT8ZmEcIu"
-    },
-    {
-      "added_at": "2022-04-29 23:01:28",
-      "album": {
-        "name": "The Mathematics of Nature",
-        "url": "https://open.spotify.com/album/0uBZBBhGxyYXJCPhE2lU2W"
-      },
-      "artists": [
-        {
-          "name": "Matthew Chaim",
-          "url": "https://open.spotify.com/artist/70JkpECHBzs79FOYemfHwk"
-        }
-      ],
-      "duration_ms": 363841,
-      "name": "Winter/Fall",
-      "url": "https://open.spotify.com/track/2s152GUETF2NZdSYYhwnk9"
     },
     {
       "added_at": "2022-04-29 23:01:28",

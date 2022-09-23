@@ -161,7 +161,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 145760,
       "name": "Cuando Pienso (En Vivo)",
       "url": "https://open.spotify.com/track/0FMCuTrcs0ZmPjez4cIc34"
@@ -423,7 +423,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 125000,
       "name": "Glorificate",
       "url": "https://open.spotify.com/track/5IgyeqmhQwYvaztSsPH71W"
@@ -565,7 +565,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-21",
+      "date_removed": null,
       "duration_ms": 621407,
       "name": "J\u00fabilo",
       "url": "https://open.spotify.com/track/5Pu8Ug7xIQsm6eRSaYC8IC"
@@ -623,7 +623,7 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 251826,
       "name": "Lev\u00e1ntate Guate",
       "url": "https://open.spotify.com/track/44jaI2hbNmBHAQXpreResb"
@@ -924,6 +924,24 @@
     },
     {
       "album": {
+        "name": "Tu Habitaci\u00f3n",
+        "url": "https://open.spotify.com/album/3EOkmxLamBPxPJLeGPXaNd"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74173,
+      "name": "Que Jesus Brille Aqui",
+      "url": "https://open.spotify.com/track/6lRrjIP4TAFiH6NweQAeyA"
+    },
+    {
+      "album": {
         "name": "El Abrazo De Mi Padre (En Vivo)",
         "url": "https://open.spotify.com/album/1n5VT7UWkZe2LuNZYSrEZB"
       },
@@ -961,7 +979,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 173450,
       "name": "Regoci\u0301jate Oh Moradora De Sio\u0301n",
       "url": "https://open.spotify.com/track/6aSJ4pf8B5gzAFV5XF6gF2"
@@ -1173,7 +1191,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-21",
+      "date_removed": null,
       "duration_ms": 260600,
       "name": "Viento Recio (En Vivo)",
       "url": "https://open.spotify.com/track/6jBHRJLPqC90s97aj7TWxV"
@@ -1191,7 +1209,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-22",
+      "date_removed": null,
       "duration_ms": 183854,
       "name": "Vino Celestial",
       "url": "https://open.spotify.com/track/2Idfgbdvy9O1Ii6KpHB3kV"

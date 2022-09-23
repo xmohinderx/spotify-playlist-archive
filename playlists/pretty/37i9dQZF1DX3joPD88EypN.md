@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3joPD88EypN.md) - [plain]
 
 > The sound of Jazz from the nordics\. Cover: Jan Garbarek
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,292 likes - 100 songs - 9 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,316 likes - 100 songs - 9 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3joPD88EypN.md) - [plain]
 | 28 | [Richter Sonntag](https://open.spotify.com/track/1FvYFhjePSGYxMnD5K8BT1) | [Nils Berg Cinemascope](https://open.spotify.com/artist/2VACX6wISeQjVQapXgWvm3) | [We Seem to Be Drifting Apart](https://open.spotify.com/album/6TydUQN1CxibuLIbQSvMt2) | 2:46 |
 | 29 | [Twins](https://open.spotify.com/track/041E7613Qaw4buZMVpaLcd) | [Tord Gustavsen Trio](https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a) | [The Ground](https://open.spotify.com/album/3rpF9hVBypQJLBf8fu5Vfu) | 4:55 |
 | 30 | [Eliasong](https://open.spotify.com/track/3zsRUTrHvbJB8kU5KUBYgV) | [Christian Wallumrød Ensemble](https://open.spotify.com/artist/3pTucW7td8pXstYpKDlmjd) | [A Year From Easter](https://open.spotify.com/album/1OPLZN3JTriIxlGnPDGNX0) | 3:24 |
-| 31 | [Time of Water](https://open.spotify.com/track/0bT1HItEFfOnlb17W1434D) | [Daniel Herskedal](https://open.spotify.com/artist/3zz8PxJE0tBfUqcZbf3SZS) | [Time of Water](https://open.spotify.com/album/1l6BsIffCUBQpPl9CNIluP) | 4:32 |
-| 32 | [Paa Hinside Ørken](https://open.spotify.com/track/2vM22BUosPBjTT1jAIpmA5) | [Ingebrigt Håker Flaten & Håkon Kornstad](https://open.spotify.com/artist/3dcXHjTOXqdvMG8TxapKUF) | [Elise](https://open.spotify.com/album/4kCZMjIuzw9VNaVPgirs5d) | 6:02 |
+| 31 | [Paa Hinside Ørken](https://open.spotify.com/track/2vM22BUosPBjTT1jAIpmA5) | [Ingebrigt Håker Flaten & Håkon Kornstad](https://open.spotify.com/artist/3dcXHjTOXqdvMG8TxapKUF) | [Elise](https://open.spotify.com/album/4kCZMjIuzw9VNaVPgirs5d) | 6:02 |
+| 32 | [Time of Water](https://open.spotify.com/track/0bT1HItEFfOnlb17W1434D) | [Daniel Herskedal](https://open.spotify.com/artist/3zz8PxJE0tBfUqcZbf3SZS) | [Time of Water](https://open.spotify.com/album/1l6BsIffCUBQpPl9CNIluP) | 4:32 |
 | 33 | [Un Vestido y un Amor](https://open.spotify.com/track/74uViEHEh4ZLAixYHOjR9Q) | [Lars Danielsson](https://open.spotify.com/artist/7c9O0hfRy2u32JVcWhoope), [Paolo Fresu](https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi) | [Summerwind](https://open.spotify.com/album/4O3nk9VY0eisrO7ElPQguX) | 3:53 |
 | 34 | [Jeg gik mig ud en Sommerdag](https://open.spotify.com/track/6OHXcoZJlNDnRGBXRrDTHy) | [Carsten Dahl](https://open.spotify.com/artist/4CSBqdnCyXayFaZR10Pvda), [Nils Bo Davidsen](https://open.spotify.com/artist/2r34nP7vhdUQj6D8Hx2R6l), [Stefan Pasborg](https://open.spotify.com/artist/51WkZxHdfF1tlqejXDc2AY) | [Painting Music](https://open.spotify.com/album/0fmB8ha3cuP05cuk6nU6tZ) | 4:18 |
 | 35 | [Remembering](https://open.spotify.com/track/7egSnOVoyp1SvQtr2ZUp1z) | [Kjetil Mulelid Trio](https://open.spotify.com/artist/474vK8QpU3WL9RxRCmo5cX) | [Who Do You Love the Most?](https://open.spotify.com/album/49BEjb3ppEwJklB8nbhPpR) | 4:43 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3joPD88EypN.md) - [plain]
 | 46 | [Vintermørke](https://open.spotify.com/track/2i8mf4M58VG6bRaSp48lzK) | [Espen Berg Trio](https://open.spotify.com/artist/7KUOutQopHIyqvTqjuHZSk), [Mathias Eick](https://open.spotify.com/artist/6emZIO62oAXpIGiplDApwJ) | [Vintermørke](https://open.spotify.com/album/7wpWC9p8PjOIdtVCbZO5fF) | 7:18 |
 | 47 | [And They All Came Marching Out Of The Woods](https://open.spotify.com/track/6jBw9vdYnh6iO1ufKaBkYw) | [Jakob Bro](https://open.spotify.com/artist/6slrkfC61k7yWM5Hl5USES), [Thomas Morgan](https://open.spotify.com/artist/6txzCcsy6ZKKKQLHmE3Y9L), [Jon Christensen](https://open.spotify.com/artist/5Li0fvh4kEJOWbLYWfNrPr) | [Gefion](https://open.spotify.com/album/7oBGBUeoPT402ls5ANCQdT) | 4:30 |
 | 48 | [Fanfar](https://open.spotify.com/track/5XolAVRmGT9ixbJwtqdePB) | [Thommy Andersson](https://open.spotify.com/artist/6nEynqiaDe09T3BFfnxVf6) | [Wood Circles](https://open.spotify.com/album/1f7YSqegaAoWwI1B777WnP) | 5:23 |
-| 49 | [The Second Page \- Live](https://open.spotify.com/track/4gm27nUNV7cj747hTWKJAA) | [Esbjörn Svensson Trio](https://open.spotify.com/artist/3HJzLaMbS0jMabxS3wttGk) | [Live in Gothenburg](https://open.spotify.com/album/6X0P7XyEdeTrt3p8H59EHW) | 6:10 |
-| 50 | [Before the Wedding](https://open.spotify.com/track/3ZKkBzLXdzfrBbn0CBFfum) | [Eivind Aarset](https://open.spotify.com/artist/0VqQFqLcy0bBMPDnKB25vC), [Jan Bang](https://open.spotify.com/artist/3GNzfnhVE1aY6fgK403107), [Hilde Norbakken](https://open.spotify.com/artist/5HJCkhpDKHnbOWY7SQN6g0) | [Snow Catches on Her Eyelashes](https://open.spotify.com/album/5GdrscQpfdU1BcTTvAQJec) | 3:03 |
+| 49 | [Before the Wedding](https://open.spotify.com/track/3ZKkBzLXdzfrBbn0CBFfum) | [Eivind Aarset](https://open.spotify.com/artist/0VqQFqLcy0bBMPDnKB25vC), [Jan Bang](https://open.spotify.com/artist/3GNzfnhVE1aY6fgK403107), [Hilde Norbakken](https://open.spotify.com/artist/5HJCkhpDKHnbOWY7SQN6g0) | [Snow Catches on Her Eyelashes](https://open.spotify.com/album/5GdrscQpfdU1BcTTvAQJec) | 3:03 |
+| 50 | [The Second Page \- Live](https://open.spotify.com/track/4gm27nUNV7cj747hTWKJAA) | [Esbjörn Svensson Trio](https://open.spotify.com/artist/3HJzLaMbS0jMabxS3wttGk) | [Live in Gothenburg](https://open.spotify.com/album/6X0P7XyEdeTrt3p8H59EHW) | 6:10 |
 | 51 | [Endless](https://open.spotify.com/track/0B9sDqvIGA0xlJaiyzjnHv) | [Kjetil Mulelid Trio](https://open.spotify.com/artist/474vK8QpU3WL9RxRCmo5cX) | [Endless](https://open.spotify.com/album/55VI95f9lqZuDrc0xZIlrD) | 5:01 |
 | 52 | [Nipa Revisited](https://open.spotify.com/track/28PMFJ4TCFmNC1xjEfuJdY) | [Helge Lien Trio](https://open.spotify.com/artist/4kWBvU5JdoohnGYl7SMlfY) | [Nipa Revisited](https://open.spotify.com/album/5ccXz0QirHwa98idqSWR1R) | 4:59 |
 | 53 | [tide](https://open.spotify.com/track/3oL0879uE3RmjqrUNJzae8) | [Bugge Wesseltoft](https://open.spotify.com/artist/4p35pLn1lRgqoVVsnqNZEK) | [tide](https://open.spotify.com/album/2PI9rOUfbuuN7FoQWlAuzG) | 4:02 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3joPD88EypN.md) - [plain]
 | 99 | [Polska efter Gil](https://open.spotify.com/track/1ZUlYNUVyJuzeVlSRBHOYj) | [Thomas Tidholm](https://open.spotify.com/artist/546D8gpuMz5DBN0i1V9vAx), [Jonas Knutsson](https://open.spotify.com/artist/4epZWwhakogZTfyKbGpvQa) | [Orsa by Night](https://open.spotify.com/album/3ZBMz2uOIHTPBp4lyQY6Vg) | 3:32 |
 | 100 | [Seasons' Change](https://open.spotify.com/track/39qOYqccZpJBs8gHb8EkPy) | [Armen Donelian](https://open.spotify.com/artist/68zxZ3Dwy30yeV3rGTRat8), [Carl Morten Iversen](https://open.spotify.com/artist/7GtkTtAleVObAO1K08men1), [Audun Kleive](https://open.spotify.com/artist/7vLSlwyxgwz4SCqkkTtMaq) | [Trio '87](https://open.spotify.com/album/42T6V1P8cpUAlyZ3xfq5zs) | 5:44 |
 
-Snapshot ID: `MTY2MzMxNTc3MiwwMDAwMDAwMDg1MDJlMzE5OWIwYjU1ZGEyZGM3Njg2N2U3MzJiZjE5`
+Snapshot ID: `MTY2MzMxNTc3MiwwMDAwMDAwMDNkN2M3MGMyMWI1MjM3MWZlNWFlZDc1MzlmZGI1ZjMy`

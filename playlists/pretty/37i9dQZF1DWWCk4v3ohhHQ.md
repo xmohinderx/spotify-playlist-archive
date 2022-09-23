@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWCk4v3ohhHQ.md) - [plain]
 
 > The essential pop rock songs from the 2010s\. Cover: Coldplay.
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,103 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,264 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWCk4v3ohhHQ.md) - [plain]
 | 68 | [Forever And Always](https://open.spotify.com/track/3NCg46FWgnANZc9HQHQOQR) | [Parachute](https://open.spotify.com/artist/2PCUhxD40qlMqsKHjTZD2e) | [The Way It Was](https://open.spotify.com/album/7drIw3eAGaFbqjAQe9EMYF) | 4:08 |
 | 69 | [Quarter Past Midnight](https://open.spotify.com/track/1etiUDkISHELzQGMY79ryt) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Quarter Past Midnight](https://open.spotify.com/album/70p5NvBOkvaxU1UeIxhE1Z) | 3:21 |
 | 70 | [Money Run Low](https://open.spotify.com/track/3LhGRE7ZNOEZhrqazWMYRI) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [ATLAS \(Deluxe\)](https://open.spotify.com/album/2estDSavGQ2q3IHLbzxkSE) | 3:05 |
-| 71 | [Fourth Of July](https://open.spotify.com/track/1vrjcPplEuenckUzGGp2UR) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [American Beauty/American Psycho](https://open.spotify.com/album/022DrG7Wp2PSCwzuD0bSzT) | 3:44 |
+| 71 | [HOLD ME TIGHT OR DON’T](https://open.spotify.com/track/0Q9vbV7G2Q6lts13nY9YGP) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [MANIA](https://open.spotify.com/album/16xtTZvPH6PXcwSqYqJHHG) | 3:30 |
 | 72 | [Missing You](https://open.spotify.com/track/0LSY3NePenK0VG7nRUTVk8) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Future Hearts](https://open.spotify.com/album/712X8QUI6uWg1JxHmz0l4I) | 4:04 |
 | 73 | [What We Live For](https://open.spotify.com/track/1KgZOCjN3nGRTk3c87oIj6) | [American Authors](https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3) | [What We Live For](https://open.spotify.com/album/1av32Pkx9yoZYU250F34zW) | 2:58 |
 | 74 | [Love Don't Die](https://open.spotify.com/track/6IDDwI0YOCAUDhMZltQekS) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [Helios](https://open.spotify.com/album/4Z1kH6bfeeMYtCuhnR4vEr) | 3:03 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWCk4v3ohhHQ.md) - [plain]
 | 99 | [Out Of My Mind](https://open.spotify.com/track/2foU3yN5SE5IUasPTs91YV) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Wonderful Wonderful](https://open.spotify.com/album/72ZfMxLCPG8mlWC0TXfZQi) | 3:43 |
 | 100 | [Shine A Light](https://open.spotify.com/track/3ScCe5tFbRmWdiOdzmaFzr) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Shine A Light](https://open.spotify.com/album/5Y3mOR1wCRhEhUmncrlLOO) | 3:26 |
 
-Snapshot ID: `MTY1MzQyMjIwMywwMDAwMDAwMGRhOTlkZTgzOGFjMmRiYjk4MjEyMzE2ZDJkNmU4NWVk`
+Snapshot ID: `MTY1MzQyMjIwMywwMDAwMDAwMGQ3ZGU4OGExYTE5ZmQ1Y2NhN2VkNTkzMTdlZGEwMWQw`

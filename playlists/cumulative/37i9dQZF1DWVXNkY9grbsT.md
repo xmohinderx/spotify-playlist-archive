@@ -4,7 +4,7 @@
 
 > Genre\-defying artists pushing boundaries in electronic ambient music\. Cover: JakoJako
 
-246 songs - 21 hr 0 min - [published](https://open.spotify.com/playlist/7yZuMWSP3DmPnpKPoOfSdU)
+247 songs - 21 hr 10 min - [published](https://open.spotify.com/playlist/7yZuMWSP3DmPnpKPoOfSdU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,7 @@
 | [Ghosts and All](https://open.spotify.com/track/0pAZJrgG34WZZI16v8sTkc) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Vergers](https://open.spotify.com/album/3m1PX4NYhDWFpdbphMpUgG) | 8:32 | 2021-12-26 |  |
 | [Glimmer](https://open.spotify.com/track/0WMSg3Iisjd8xX6gUJt7Bj) | [Hannes Kretzer](https://open.spotify.com/artist/1vHwczEjnY229foOj5ubxe) | [Burst / Glimmer](https://open.spotify.com/album/6EhvFMXIVZbmGe1aM9xvkb) | 5:16 | 2022-03-18 |  |
 | [God's Country](https://open.spotify.com/track/7pa7G9qszdLfdkrFIdhgIw) | [Feral](https://open.spotify.com/artist/5DsrGhHrqGPbRsU93R9H5A) | [God's Country](https://open.spotify.com/album/4doG8lWaRW1488oZwTA6Z9) | 3:27 | 2021-12-26 |  |
-| [Gold](https://open.spotify.com/track/56FPk0JIcUiBbebj6UZ1mF) | [Grand River](https://open.spotify.com/artist/7HtrqYEdzfxQcGct9YBxAO) | [Blink a Few Times to Clear Your Eyes](https://open.spotify.com/album/20J24viKPjsgpj2a1Edob2) | 2:13 | 2021-12-26 |  |
+| [Gold](https://open.spotify.com/track/56FPk0JIcUiBbebj6UZ1mF) | [Grand River](https://open.spotify.com/artist/7HtrqYEdzfxQcGct9YBxAO) | [Blink a Few Times to Clear Your Eyes](https://open.spotify.com/album/20J24viKPjsgpj2a1Edob2) | 2:13 | 2021-12-26 | 2022-09-23 |
 | [Govenek](https://open.spotify.com/track/3HT7p7MSUFJwD9MlAA4kaP) | [A Blaze of Feather](https://open.spotify.com/artist/0j7wLGDwHdUSPLkxCH3GBQ) | [Claire's Lane](https://open.spotify.com/album/5fcy2JXXX8xhJdtsobGnzh) | 1:28 | 2022-05-06 |  |
 | [GRV Tr 5](https://open.spotify.com/track/1ynoJzY6xN6eKr9kR7IGYu) | [TV Victor](https://open.spotify.com/artist/0djRJ1zrkgq8sN17i9NysU) | [GRV, Vol\. 3](https://open.spotify.com/album/4AtCjI23fzcNJopMAyye7w) | 5:44 | 2022-01-14 | 2022-07-26 |
 | [Hello Planta](https://open.spotify.com/track/2exLnxLChIibXNuR7VjdBF) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Hello Planta](https://open.spotify.com/album/6UC52kWUMqIeubdZM31TmG) | 2:08 | 2022-03-25 |  |
@@ -170,6 +170,7 @@
 | [Phaedra](https://open.spotify.com/track/3GG5A7ugKwKqtxAOvSwuF8) | [Amon Tobin](https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO) | [How Do You Live](https://open.spotify.com/album/0a48X39VME2QhWVEASztpm) | 3:33 | 2021-12-26 |  |
 | [Plonk III](https://open.spotify.com/track/3kilgBTpr97Ef1v3x6rTeJ) | [Huerco S.](https://open.spotify.com/artist/0Wy3xgOTkgtDlT9wJsOQjy) | [Plonk](https://open.spotify.com/album/0URcDAZuAvHu1pNFPekiL5) | 6:22 | 2022-02-25 | 2022-03-04 |
 | [Plonk VI](https://open.spotify.com/track/0Jae6ZMQ6BTe0FjdFA3lwJ) | [Huerco S.](https://open.spotify.com/artist/0Wy3xgOTkgtDlT9wJsOQjy) | [Plonk VI](https://open.spotify.com/album/54mRSjdlk3TO9xQpcMDCok) | 9:24 | 2021-12-26 | 2022-07-29 |
+| [Plonk VI](https://open.spotify.com/track/6r5vGrYSklN6D9QGwfCxii) | [Huerco S.](https://open.spotify.com/artist/0Wy3xgOTkgtDlT9wJsOQjy) | [Plonk](https://open.spotify.com/album/1NLglnqr3MZju3F0upWXzU) | 9:24 | 2022-09-20 |  |
 | [Poissons volants](https://open.spotify.com/track/0wDzW0OiFhSRnaBITaXOPD) | [Jonathan Fitoussi](https://open.spotify.com/artist/2EuDyGDH8HMwcmWo8UzR7b), [Clemens Hourriere](https://open.spotify.com/artist/0Q92u4ProQgv8AezwCVuG6) | [Möbius \(Aerial Ballet Created by Cie Xy\)](https://open.spotify.com/album/3JltziBX9Nyfj86n7BWyz0) | 4:56 | 2022-01-28 | 2022-07-27 |
 | [Poortgebouw](https://open.spotify.com/track/2hcciC9hZ9ZMUMDMWYw3BY) | [Hiro Kone](https://open.spotify.com/artist/1BCUHvti8crTWtc0h0U4W4) | [Pure Expenditure](https://open.spotify.com/album/40raiV1d3ZciD2917Mxy4P) | 5:03 | 2021-12-26 | 2022-07-12 |
 | [Portico](https://open.spotify.com/track/3dCPn65wkIDeUeITYOlofX) | [Tangerine Dream](https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl) | [Portico](https://open.spotify.com/album/1hDYGw9QpPDBNHvdAIDVbr) | 6:42 | 2022-02-18 |  |

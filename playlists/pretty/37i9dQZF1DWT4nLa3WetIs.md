@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLa3WetIs.md) - [plain]
 
 > Taking you back to your favourite hall party classics from the Afrobeat scene.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,423 likes - 80 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,507 likes - 80 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLa3WetIs.md) - [plain]
 | 47 | [No Lele](https://open.spotify.com/track/4cKNCruCZcXEfiIKEG6m7b) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Superstar](https://open.spotify.com/album/16xW2AvG6yVXJJ0ZYJ5Dlb) | 3:38 |
 | 48 | [Igwe](https://open.spotify.com/track/6Of9mBX5A3C0DqH7ysqqFb) | [Midnight Crew](https://open.spotify.com/artist/6fV5ZuXo1IZqGn9n1hexab) | [Igwe](https://open.spotify.com/album/5UP6Qw8DpgmuQJsevFLwmG) | 5:12 |
 | 49 | [Move Back](https://open.spotify.com/track/1tvi8tv0eykhNcV1WtaIqO) | [5five](https://open.spotify.com/artist/37zb1JQnDV9dRLatrASEj1) | [Move Back](https://open.spotify.com/album/32SvtOKJRz8UBI6ndreZp3) | 3:57 |
-| 50 | [Tonga](https://open.spotify.com/track/7ceisg9MpCeJoLaoPfyu0V) | [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Tonga](https://open.spotify.com/album/21RhbIIQ8i06WMDavhdgs8) | 3:22 |
-| 51 | [Swagger](https://open.spotify.com/track/1rVyxy6CRo3dB5z5oNKZfc) | [Ruff\-N\-Smooth](https://open.spotify.com/artist/4KSIIR6dY7MPuq5WRWfS56), [Stay Jay](https://open.spotify.com/artist/5y43lOR941Xj5lwV2JQwGW) | [Life Is Rough & Smooth](https://open.spotify.com/album/5p9tj9UKG6DSzGg36pVWjl) | 4:43 |
+| 50 | [Swagger](https://open.spotify.com/track/1rVyxy6CRo3dB5z5oNKZfc) | [Ruff\-N\-Smooth](https://open.spotify.com/artist/4KSIIR6dY7MPuq5WRWfS56), [Stay Jay](https://open.spotify.com/artist/5y43lOR941Xj5lwV2JQwGW) | [Life Is Rough & Smooth](https://open.spotify.com/album/5p9tj9UKG6DSzGg36pVWjl) | 4:43 |
+| 51 | [Tonga](https://open.spotify.com/track/7ceisg9MpCeJoLaoPfyu0V) | [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Tonga](https://open.spotify.com/album/21RhbIIQ8i06WMDavhdgs8) | 3:22 |
 | 52 | [Dance for Me](https://open.spotify.com/track/1XgfWBcj0E8cKSo8Hj2F4P) | [Eugy](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Dance for Me](https://open.spotify.com/album/2H9HAxeTHIQ66FHVoBjWME) | 3:24 |
 | 53 | [Aben Wo Aha](https://open.spotify.com/track/1sw1Ahq16MtmeFIwEgXxKm) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Aben Wo Aha](https://open.spotify.com/album/4FcLoTiIPJwwnW5xa20mm2) | 5:10 |
 | 54 | [Wo Onane No](https://open.spotify.com/track/2dguh4zWtrZK6VIJsEsXhe) | [Kwamz & Flava](https://open.spotify.com/artist/3RdldZQW8cYFLEDEH7haJe) | [DeYaaa](https://open.spotify.com/album/5sJDwsKEbIfoNwIT3sJ9bp) | 3:29 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLa3WetIs.md) - [plain]
 | 79 | [Bae \(feat\. Afro B\)](https://open.spotify.com/track/0XAebEOKmFP0QjVplewqbE) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [Afro B](https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC) | [Bae \(feat\. Afro B\)](https://open.spotify.com/album/0ae2TKUu1qAZ18GYdrJdNB) | 3:23 |
 | 80 | [Ahayede](https://open.spotify.com/track/0YcLMyZGhtAx1qYgQPbPkJ) | [Nana Boroo](https://open.spotify.com/artist/6okA9KLxPv9Za9RGkHSOk5), [SK Originale](https://open.spotify.com/artist/2z5uuIjNgQjzjwO3QVwHXP) | [Best of Nana Boroo](https://open.spotify.com/album/0FxMEwwFyYv70CkwvMpIUd) | 5:00 |
 
-Snapshot ID: `MTYwNDY2ODg4MSwwMDAwMDAwMGUyYzkwZTMyZjE1NTE4ODIxZmRmZmVlM2NiNGJjNmE3`
+Snapshot ID: `MTYwNDY2ODg4MSwwMDAwMDAwMGI5M2VmMDEyYTIzMzU0OTYwZGM3NzYwNDhjYzExOWU3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0ENBD2.md) - [plain]
 
 > This is Queen\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,438,281 likes - 51 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,439,406 likes - 51 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0ENBD2.md) - [plain]
 | 25 | [Who Wants To Live Forever \- Remastered 2011](https://open.spotify.com/track/3SGP8It5WDnCONyApJKRTJ) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Greatest Hits II \(Remastered\)](https://open.spotify.com/album/1uG9cIT7IRuq9NqFvKFUsI) | 4:55 |
 | 26 | [Bicycle Race \- Remastered 2011](https://open.spotify.com/track/5CTAcf8aS0a0sIsDwQRF9C) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Jazz \(2011 Remaster\)](https://open.spotify.com/album/2yuTRGIackbcReLUXOYBqU) | 3:00 |
 | 27 | [Cool Cat \- Remastered 2011](https://open.spotify.com/track/7nhWtCc3v6Vem80gYPlppQ) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Hot Space \(2011 Remaster\)](https://open.spotify.com/album/6reTSIf5MoBco62rk8T7Q1) | 3:29 |
-| 28 | [I Was Born To Love You \- 2011 Remaster](https://open.spotify.com/track/7DtdhIJlSSOaAFNk4JdXCb) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Made In Heaven \(Deluxe Edition 2011 Remaster\)](https://open.spotify.com/album/274tWwrhGJy0IFeMENjWi7) | 4:49 |
-| 29 | [Seven Seas Of Rhye \- Remastered 2011](https://open.spotify.com/track/1IhLUUzMxDDJ9pzfT95exy) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Queen II \(Deluxe Edition 2011 Remaster\)](https://open.spotify.com/album/48MhNEYxMJvcBbqz85UTQP) | 2:48 |
+| 28 | [Seven Seas Of Rhye \- Remastered 2011](https://open.spotify.com/track/1IhLUUzMxDDJ9pzfT95exy) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Queen II \(Deluxe Edition 2011 Remaster\)](https://open.spotify.com/album/48MhNEYxMJvcBbqz85UTQP) | 2:48 |
+| 29 | [I Was Born To Love You \- 2011 Remaster](https://open.spotify.com/track/7DtdhIJlSSOaAFNk4JdXCb) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Made In Heaven \(Deluxe Edition 2011 Remaster\)](https://open.spotify.com/album/274tWwrhGJy0IFeMENjWi7) | 4:49 |
 | 30 | [Save Me \- Remastered 2011](https://open.spotify.com/track/1pBFEy8cz0Fq4Pru0c4awd) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(2011 Remaster\)](https://open.spotify.com/album/58alCatewkjNm9IM1Ucj67) | 3:49 |
 | 31 | [Innuendo \- Remastered 2011](https://open.spotify.com/track/0BzhS74ByIVlyz8BedHaYi) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Innuendo \(2011 Remaster\)](https://open.spotify.com/album/5kffKW0sSLo6tkLg1veUGC) | 6:33 |
 | 32 | [Keep Yourself Alive \- Live At The Rainbow](https://open.spotify.com/track/34pz8XUZRfw04lk4DPtwa7) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Bohemian Rhapsody \(The Original Soundtrack\)](https://open.spotify.com/album/6i6folBtxKV28WX3msQ4FE) | 3:56 |
@@ -52,12 +52,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0ENBD2.md) - [plain]
 | 42 | [I'm In Love With My Car \- Remastered 2011](https://open.spotify.com/track/253ewjP2R1LjKqA70mGdnk) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Night At The Opera \(2011 Remaster\)](https://open.spotify.com/album/1GbtB4zTqAsyfZEsm1RZfx) | 3:04 |
 | 43 | [Princes Of The Universe \- Remastered 2011](https://open.spotify.com/track/0Uy8lcDHiPDicBQ7rnDgcK) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Kind Of Magic \(2011 Remaster\)](https://open.spotify.com/album/0pEfDPZko6TnNOgrZMe5nn) | 3:33 |
 | 44 | [The Invisible Man \- Remastered 2011](https://open.spotify.com/track/6VoiY3rukFPoqzP4AoGPU8) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Miracle \(2011 Remaster\)](https://open.spotify.com/album/3h6SV9wHJtNL1YswZUJs8V) | 3:57 |
-| 45 | [Death On Two Legs \(Dedicated To...\) \- Remastered 2011](https://open.spotify.com/track/2MvRMWU2ILRcFEU8WWbuP8) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Night At The Opera \(Deluxe Edition 2011 Remaster\)](https://open.spotify.com/album/75eP8LZolyNBpqIRyB5pvB) | 3:43 |
+| 45 | ['39 \- Remastered 2011](https://open.spotify.com/track/65NTcXUtOb27NHKQ4fAcw0) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Night At The Opera \(Deluxe Edition 2011 Remaster\)](https://open.spotify.com/album/75eP8LZolyNBpqIRyB5pvB) | 3:30 |
 | 46 | [I'm Going Slightly Mad \- Remastered 2011](https://open.spotify.com/track/1pHVfiNHMMZYquR35fTZdM) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Innuendo \(2011 Remaster\)](https://open.spotify.com/album/5kffKW0sSLo6tkLg1veUGC) | 4:22 |
-| 47 | [Now I'm Here \- Live At The Hammersmith Odeon](https://open.spotify.com/track/4ysz5yttr3rpRkvyVMLlRB) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Bohemian Rhapsody \(The Original Soundtrack\)](https://open.spotify.com/album/6i6folBtxKV28WX3msQ4FE) | 4:25 |
-| 48 | [Flash \- Single Version](https://open.spotify.com/track/5aswWmjJLHBSYFknQjegfg) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Flash Gordon \(Deluxe Edition 2011 Remaster\)](https://open.spotify.com/album/4r9kNse038AoF2KfbqPUOS) | 2:48 |
-| 49 | ['39 \- Remastered 2011](https://open.spotify.com/track/65NTcXUtOb27NHKQ4fAcw0) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Night At The Opera \(Deluxe Edition 2011 Remaster\)](https://open.spotify.com/album/75eP8LZolyNBpqIRyB5pvB) | 3:30 |
+| 47 | [Flash \- Single Version](https://open.spotify.com/track/5aswWmjJLHBSYFknQjegfg) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Flash Gordon \(Deluxe Edition 2011 Remaster\)](https://open.spotify.com/album/4r9kNse038AoF2KfbqPUOS) | 2:48 |
+| 48 | [Now I'm Here \- Live At The Hammersmith Odeon](https://open.spotify.com/track/4ysz5yttr3rpRkvyVMLlRB) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Bohemian Rhapsody \(The Original Soundtrack\)](https://open.spotify.com/album/6i6folBtxKV28WX3msQ4FE) | 4:25 |
+| 49 | [Death On Two Legs \(Dedicated To...\) \- Remastered 2011](https://open.spotify.com/track/2MvRMWU2ILRcFEU8WWbuP8) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Night At The Opera \(Deluxe Edition 2011 Remaster\)](https://open.spotify.com/album/75eP8LZolyNBpqIRyB5pvB) | 3:43 |
 | 50 | [Headlong \- Remastered 2011](https://open.spotify.com/track/6goUTcMn0V30hWtKFIj6Kh) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Innuendo \(2011 Remaster\)](https://open.spotify.com/album/5kffKW0sSLo6tkLg1veUGC) | 4:37 |
-| 51 | [Liar \- Remastered 2011](https://open.spotify.com/track/6hPAoJvuIsgPlxnoZnjPRk) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Queen \(Deluxe Edition 2011 Remaster\)](https://open.spotify.com/album/2hZTdsWsAqlgrYG6Nd6Egg) | 6:23 |
+| 51 | [Stone Cold Crazy \- Remastered 2011](https://open.spotify.com/track/6d2UQWWWZj3k4BE6WcN4IT) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Sheer Heart Attack \(Deluxe Edition 2011 Remaster\)](https://open.spotify.com/album/1Gnrd76EubInPV4KjOJ1Zr) | 2:13 |
 
-Snapshot ID: `Mjc3Mjk0NTIsMDAwMDAwMDA0NWNhZjU4MGQ4YzBkMzM3YzEzNWM2MWU5NmNjYzYyYg==`
+Snapshot ID: `Mjc3MzA5MDEsMDAwMDAwMDAxM2RhOTMyYWMxZWNiZGE2NDAxOTcyOGNkMDk2MmI4OQ==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3spgx4EgoDM.md) - [plain]
 
 > ¡El mejor condimento para tus comidas!
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,366 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,425 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,13 +69,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3spgx4EgoDM.md) - [plain]
 | 59 | [Yo Tomo](https://open.spotify.com/track/3aMeh9RWiWwKoDF66AuyN3) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Cumbia Nena](https://open.spotify.com/album/0CgHWdYF92LImrdVUO66Hm) | 3:24 |
 | 60 | [Flasheaste Amor](https://open.spotify.com/track/2ACgvo2Kx4LgWqQ2amvM5C) | [Agapornis](https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1), [Hernan y La Champion's Liga](https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt), [Lauro](https://open.spotify.com/artist/6jf90HKr9vgFgKaQ2iHGHJ) | [Flasheaste Amor](https://open.spotify.com/album/34AlPTtBDL5H8B1Dl2DgoO) | 2:55 |
 | 61 | [Serenata cruel](https://open.spotify.com/track/2gEhAH0eZwl3b8si4l3tZ1) | [Villa Cariño](https://open.spotify.com/artist/3BBhJ4tssZm6vSQQ5xPDC1) | [La Fiesta es de Nosotros](https://open.spotify.com/album/67YStxw0rxexYKzFU6ocdT) | 4:32 |
-| 62 | [Una Ráfaga de Amor](https://open.spotify.com/track/4i5NFoPWqTqlsR4WyoVFtB) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Lo mejor de Ráfaga](https://open.spotify.com/album/4qECJweYNVyAPvZNT6fd1T) | 3:03 |
+| 62 | [Mentirosa](https://open.spotify.com/track/3Iw4UVS7fo2TdD6Spmgqaj) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Imparables](https://open.spotify.com/album/7jfg9E2mgCCUgeRAHRJuIG) | 3:14 |
 | 63 | [Olvídala](https://open.spotify.com/track/0cXGtTRfQKSHojilCoBAOd) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Voló La Paloma/Un Toque Diferente](https://open.spotify.com/album/04lLSTAYIBNjlJ0L6JJnDK) | 4:50 |
 | 64 | [Las Mujers No Se Acaban](https://open.spotify.com/track/0NLSsL8sIElmNuTySSb3s6) | [Grupo Kual? Dinastia Pedraza Es Grupo Kein?](https://open.spotify.com/artist/3mtUQL8wfuXoI3bcciosLd), [Grupo Kien? Los Reyes Del Sabor](https://open.spotify.com/artist/5bK0A1q7E0UgBFrXZtedtU) | [Para Que La Cuña Apriete](https://open.spotify.com/album/643Req8SJXX188L5fuuVD2) | 4:30 |
 | 65 | [Su Florcita](https://open.spotify.com/track/558S2P5A4Ku4bnXheLaXeG) | [Agrupación Marilyn](https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG) | [Historias](https://open.spotify.com/album/1SEf8KBy0khQM5Hxrk9CYm) | 3:44 |
 | 66 | [Dime si eres feliz](https://open.spotify.com/track/2FsKAVOxpmnxhxmEsqrZOD) | [La Champions Liga](https://open.spotify.com/artist/4osqF39bEPXPsJfVUXeCh3) | [La Champions Liga](https://open.spotify.com/album/62CXOSLSYEgIUONJ8Mu9gm) | 2:07 |
 | 67 | [Las Amo a Las Dos](https://open.spotify.com/track/4XqXGdhCvH9GL7DWeqUrWm) | [Cumbias Poblanas](https://open.spotify.com/artist/5yfgm29nhL4CSbKZSPORu4) | [Cumbia Pa' seguir Bailando](https://open.spotify.com/album/6StHl9h5jusxFp10JAKmZu) | 4:49 |
-| 68 | [Mentirosa](https://open.spotify.com/track/3Iw4UVS7fo2TdD6Spmgqaj) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Imparables](https://open.spotify.com/album/7jfg9E2mgCCUgeRAHRJuIG) | 3:14 |
+| 68 | [Una Ráfaga de Amor](https://open.spotify.com/track/4i5NFoPWqTqlsR4WyoVFtB) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Lo mejor de Ráfaga](https://open.spotify.com/album/4qECJweYNVyAPvZNT6fd1T) | 3:03 |
 | 69 | [Corazón Solitario](https://open.spotify.com/track/7f7ChKewJr4Mjm8rDl53iP) | [Alberto Pedraza](https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR) | [Guarachando](https://open.spotify.com/album/5uHNavgy4yM4orwoEBWMjO) | 4:04 |
 | 70 | [La Cumbita](https://open.spotify.com/track/23ADuBlydh01tBQhJgMgIV) | [Tambó Tambó](https://open.spotify.com/artist/6wAk3K9nxqR0pTLGLctzQu) | [De Enero a Enero](https://open.spotify.com/album/459Jy3R3Jhm4GdpVWKGM0g) | 3:14 |
 | 71 | [Fuiste](https://open.spotify.com/track/3jxP1S0xXvPBry3scDZj6h) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [Corazón Valiente](https://open.spotify.com/album/3WuwesFp1zHaIQa98Y3Fcn) | 3:02 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3spgx4EgoDM.md) - [plain]
 | 99 | [Cumbia En La Playa](https://open.spotify.com/track/6CgVMTAJsotV8x0jMfYHbC) | [Grupo Kual?](https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX) | [Cumbiando Este 5 De Mayo](https://open.spotify.com/album/1PWKIRqLB0BPIgJuGMlyfb) | 5:24 |
 | 100 | [No Podre Olvidarme](https://open.spotify.com/track/3tl8h7FZbALLLTGk5MPeHL) | [Grupo Red](https://open.spotify.com/artist/7zGKMkRT4IMLgAJmFhf5cz) | [El Color De Tu Corazón](https://open.spotify.com/album/4i5dZPh3Yu4S4F4CAu0LRv) | 3:15 |
 
-Snapshot ID: `MTY2MjY5MjQwMCwwMDAwMDAwMDE4YjQwNTgwNDAxNDY2MGVlZWJkZGYxN2QxMzdkYTcz`
+Snapshot ID: `MTY2MjY5MjQwMCwwMDAwMDAwMDdhODQ3MDM2NTZkNTAwYjFjNDViMjViYWYyYjExMDc4`

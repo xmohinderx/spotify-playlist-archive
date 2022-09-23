@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Saudi Arabia.
 
-620 songs - 1 day 11 hr 51 min - [published](https://open.spotify.com/playlist/7viCC71S6fIOj9ymtSPNrp)
+621 songs - 1 day 11 hr 53 min - [published](https://open.spotify.com/playlist/7viCC71S6fIOj9ymtSPNrp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -249,6 +249,7 @@
 | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/track/748mdHapucXQri7IAO8yFK) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/album/1OnzqJTL9bwe4kvaLxRYxt) | 3:28 | 2021-04-11 | 2021-06-27 |
 | [Knife Talk \(with 21 Savage ft\. Project Pat\)](https://open.spotify.com/track/2BcMwX1MPV6ZHP4tUT9uq6) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Project Pat](https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 4:02 | 2021-09-05 | 2021-09-08 |
 | [Kolo Laha](https://open.spotify.com/track/7cZ78cbz662BOqm7AVz2yy) | [Abdulrahman Mohammed](https://open.spotify.com/artist/1sWV2X7SzXd06hEO2EttHl), [Khalid Barzanji](https://open.spotify.com/artist/267hUGjFmbec4OZlUdFeqy) | [Kolo Laha](https://open.spotify.com/album/6RsvXXgXAaL0mHLFjAXyPa) | 3:46 | 2022-08-04 | 2022-08-06 |
+| [KU LO SA \- A COLORS SHOW](https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi) | 2:27 | 2022-09-22 |  |
 | [La Hawl Wla Quwa](https://open.spotify.com/track/7Jy2xkUWZBHpwEbBR5IdE7) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [La Hawl Wla Quwa](https://open.spotify.com/album/7kLiypV7FmQLdHYbNCKz3U) | 4:16 | 2021-08-01 | 2021-12-20 |
 | [La Oalef La](https://open.spotify.com/track/5x6FYvmEwCwn8OLb6GQD0Z) | [Yousif Al Sumaidaie](https://open.spotify.com/artist/26oGZUtxxUt9xpCWFfGSXN) | [La Oalef La](https://open.spotify.com/album/6WPQCybaZTCvrVuuY4rAsl) | 3:32 | 2021-03-27\* | 2021-04-24 |
 | [LALISA](https://open.spotify.com/track/7uQZVznj0uQOGC9KhV2Mg6) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd) | 3:20 | 2021-09-12 | 2021-11-20 |
@@ -449,7 +450,7 @@
 | [SNAP](https://open.spotify.com/track/6zJejIfVYLgjud3lTk4DLB) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP PACK](https://open.spotify.com/album/2nzuzJvr3yowqbPaYjEYof) | 2:59 | 2022-07-30 |  |
 | [SNAP \- High and Fast](https://open.spotify.com/track/3TWHd23YOrfxx3yDYCE1WC) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP PACK](https://open.spotify.com/album/2nzuzJvr3yowqbPaYjEYof) | 2:15 | 2022-08-11 | 2022-08-23 |
 | [Snowman](https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 2:45 | 2021-03-27\* | 2021-12-27 |
-| [Softcore](https://open.spotify.com/track/2K7xn816oNHJZ0aVqdQsha) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Hard To Imagine The Neighbourhood Ever Changing](https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy) | 3:26 | 2022-01-12 |  |
+| [Softcore](https://open.spotify.com/track/2K7xn816oNHJZ0aVqdQsha) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Hard To Imagine The Neighbourhood Ever Changing](https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy) | 3:26 | 2022-01-12 | 2022-09-23 |
 | [Someone You Loved](https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent](https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70) | 3:02 | 2021-04-15 | 2021-04-16 |
 | [SpongeBob SquarePants Theme Song](https://open.spotify.com/track/3w0pmgENjeJJiue9tFSmev) | [Spongebob Squarepants](https://open.spotify.com/artist/3zCAmjKyHsG7kTGsls1cfj) | [I Successi Di Spongebob](https://open.spotify.com/album/2lC3fScRnbshE0MOv7iPXW) | 0:44 | 2022-04-14 | 2022-04-18 |
 | [Stan](https://open.spotify.com/track/3UmaczJpikHgJFyBTAJVoz) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs) | [The Marshall Mathers LP](https://open.spotify.com/album/6t7956yu5zYf5A829XRiHC) | 6:44 | 2022-04-21 | 2022-04-25 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DBcbHcgPJw.md) - [plain]
 
 > ¡Lo mejor de la Cumbia Pop! <br/>Foto: Rei.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,139,626 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,139,699 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

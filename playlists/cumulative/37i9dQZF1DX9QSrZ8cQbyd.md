@@ -4,7 +4,7 @@
 
 > Glockenspiel lullabies for your baby to fall asleep.
 
-143 songs - 3 hr 56 min - [published](https://open.spotify.com/playlist/79jliU0lroEmqzvLywaZ5u)
+146 songs - 4 hr 0 min - [published](https://open.spotify.com/playlist/79jliU0lroEmqzvLywaZ5u)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Good Night, Everyone](https://open.spotify.com/track/3dt6GYAdIaT92DXYF26NcW) | [Durward Moon](https://open.spotify.com/artist/7icgsEqWluxq2LfkpHbyFg) | [Good Night, Everyone](https://open.spotify.com/album/56uRRwxhTXPA9X9RxrnSy7) | 1:15 | 2022-05-17 |  |
 | [Good Tidings](https://open.spotify.com/track/49eTLnPpcj4OFSGPeFSKOl) | [Mrs Mayford](https://open.spotify.com/artist/1DnajjlzcHuEugVA6brKPr) | [Clementine](https://open.spotify.com/album/6Uxl43a90seUzkTdWIB6gm) | 2:35 | 2022-07-29 |  |
 | [Goodnight Kiss](https://open.spotify.com/track/2HesqUQfm0I4vGd5EbMbec) | [Geppetto](https://open.spotify.com/artist/0JluzkzshbftJdJDXQdTDF) | [Baby Songs For Bedtime And Relaxation](https://open.spotify.com/album/3C2anDtIwBUf0Wfy8JHBEZ) | 1:26 | 2021-11-11 |  |
+| [Goodnight My Someone](https://open.spotify.com/track/5T8AIfwSsH43gnDm3C0pTR) | [Asma Everett](https://open.spotify.com/artist/2Yz8qK2KqZDmcXd2eEQ9s5) | [Goodnight My Someone](https://open.spotify.com/album/3PiuFALmZpqSUXHr3IdWQk) | 1:17 | 2022-09-22 |  |
 | [Greensleaves](https://open.spotify.com/track/6edPOOfxJGvHvsewUnIHEn) | [Mino Mentoni](https://open.spotify.com/artist/3xf1BsykKMqHCxmJBRGlBX) | [Greensleaves](https://open.spotify.com/album/52wztb50Swni7LsmJgVLmm) | 1:28 | 2021-11-11 |  |
 | [Gymnopédie](https://open.spotify.com/track/0v7kquV0jG7radH78bvBgi) | [Dulce de Lago](https://open.spotify.com/artist/4Oi1HzgJuS0O66JmE9ADKd) | [Gymnopédie](https://open.spotify.com/album/3OWu5CyQaClgpCW8HktVkO) | 3:05 | 2021-11-11 |  |
 | [Head Shoulders Knees And Toes](https://open.spotify.com/track/2CFgvvFJtqQo4E2ZzA8NdC) | [Zachary Landon](https://open.spotify.com/artist/6OBnS3jI2F9gSlemw9qalk) | [Head Shoulders Knees And Toes](https://open.spotify.com/album/1B71f2slh93Y2nebgTXpAJ) | 1:51 | 2021-11-11 |  |
@@ -128,8 +129,10 @@
 | [The Button Song](https://open.spotify.com/track/53asbytXgNUysTYzx36QKL) | [Conway Rose](https://open.spotify.com/artist/5MPStf6vX21ukgWegFXU3K) | [The Button Song](https://open.spotify.com/album/2GczQclNVTVpionfA4751C) | 1:05 | 2021-11-11 |  |
 | [The More We Get Together](https://open.spotify.com/track/1NFGCM05E8UmXCYlYxGZ1x) | [Leslie Cyzner](https://open.spotify.com/artist/2hA7X1UG3Vb95EUylqcf3N) | [Mary Had a Little Lamb](https://open.spotify.com/album/4LF5iraotVnbVyZ4N30qfv) | 1:21 | 2021-11-11 | 2022-04-23 |
 | [The Music Box](https://open.spotify.com/track/2t2W2gdVYe0wloYG3NVP9v) | [Emillie Nichols](https://open.spotify.com/artist/2JCF2kSrfmwKhRO1Q7L6xx) | [The Music Box](https://open.spotify.com/album/1dTk9VshRUU3g83tCPb1hr) | 1:43 | 2021-11-11 | 2022-04-23 |
+| [The Path](https://open.spotify.com/track/0aQHD3ja7WN5etAtmpaCde) | [Durward Moon](https://open.spotify.com/artist/7icgsEqWluxq2LfkpHbyFg) | [The Path](https://open.spotify.com/album/32jBuvuiRMjnmJ3L9rbTDt) | 1:45 | 2022-09-22 |  |
 | [The Peace of the Night](https://open.spotify.com/track/3oIPH7m0DAwD0VFK1Uycio) | [Orson Pierson](https://open.spotify.com/artist/43rTSYyJFSBjnuS3nNQswf) | [The Peace of the Night](https://open.spotify.com/album/5JimndzgmbOkh5dbaKjR0H) | 0:58 | 2021-11-11 | 2022-04-23 |
 | [The Rooster](https://open.spotify.com/track/3G691fRcbrkjBPeN5X2tO5) | [Kit Romilly](https://open.spotify.com/artist/0yI8CvVKPU5Ya1B1FVeBx1) | [The Rooster](https://open.spotify.com/album/6YrHZXpnoIHg2CbK73zUjY) | 1:26 | 2021-11-11 |  |
+| [The Song For You](https://open.spotify.com/track/1Tzz33d3lCreodYOyB3ptN) | [Saxon Howland](https://open.spotify.com/artist/1GWprHthhoUHxSFNDIzkI9) | [The Song For You](https://open.spotify.com/album/2o3htZyom2sLOLsPUlwxBx) | 1:20 | 2022-09-22 |  |
 | [The Stars Above](https://open.spotify.com/track/1zOabAT0CeNm2aN9OhEN6i) | [Sammie Elliott](https://open.spotify.com/artist/1o0iPfmqGYTb0bucYuvGgr) | [My Fantasy](https://open.spotify.com/album/6APLIWg2VEvrbv5h2RVRck) | 1:14 | 2021-11-11 |  |
 | [The Troll Mother](https://open.spotify.com/track/3p675yyQ9azIewwnjIQJUJ) | [Egbert Devine](https://open.spotify.com/artist/4A4PVIJyA3KM3c8dh58gG5) | [The Troll Mother](https://open.spotify.com/album/3MtFAkhPAmiHWLA3lWNx1X) | 1:04 | 2021-11-11 |  |
 | [The Wheels on the Bus](https://open.spotify.com/track/2a1AnFv6uuXPWjqeqDSRO6) | [Dahlia Greene](https://open.spotify.com/artist/5ktRI2Uh0Kzq21ZfNC7ZAm) | [Siesta](https://open.spotify.com/album/6wxh5PhxtXFWbgtBorWMkD) | 1:21 | 2021-11-11 |  |

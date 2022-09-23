@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHqd3RfK9kX.md) - [plain]
 
 > Il sound giusto per creare in cucina!
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,686 likes - 80 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,691 likes - 80 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHqd3RfK9kX.md) - [plain]
 | 21 | [Oye Cómo Va](https://open.spotify.com/track/73uEbChpBB29ttwVnwuNVE) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [El Rey Bravo](https://open.spotify.com/album/7J3VF3HcxYEYr2tRFoaqNq) | 4:34 |
 | 22 | [The Harder They Come](https://open.spotify.com/track/2XIr0KTybGQsC1SFfeaZhI) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [The Harder They Come \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4oxdKcC9epGo9viy1j8fN7) | 3:39 |
 | 23 | [Garota de Ipanema](https://open.spotify.com/track/7CzWvXHsAFAJeXAEHNXRdf) | [Paula Sergio](https://open.spotify.com/artist/6P4y8CZPgk4uB6UlJV5uwS) | [Brasil Bossa Nova Grandes Autores Vinicius Toquinho Tom Jobin](https://open.spotify.com/album/7iFtBoq7mSSnMKWoePFOpG) | 2:30 |
-| 24 | [I Like It Like That](https://open.spotify.com/track/6Wy3X4jSszfisnRscJCHdq) | [Pete Rodriguez](https://open.spotify.com/artist/76KY8JsK3XMQkjDiRZVprS) | [I Like It Like That](https://open.spotify.com/album/3jMsGvImaL1YxiTxNNIvvB) | 4:25 |
-| 25 | [Mas, Que Nada!](https://open.spotify.com/track/6U03Orwr5Dxt8jahLnQpYV) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Samba Esquema Novo](https://open.spotify.com/album/3xWp6y0HGsHZlXljNs7VRy) | 2:59 |
+| 24 | [Mas, Que Nada!](https://open.spotify.com/track/6U03Orwr5Dxt8jahLnQpYV) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Samba Esquema Novo](https://open.spotify.com/album/3xWp6y0HGsHZlXljNs7VRy) | 2:59 |
+| 25 | [I Like It Like That](https://open.spotify.com/track/6Wy3X4jSszfisnRscJCHdq) | [Pete Rodriguez](https://open.spotify.com/artist/76KY8JsK3XMQkjDiRZVprS) | [I Like It Like That](https://open.spotify.com/album/3jMsGvImaL1YxiTxNNIvvB) | 4:25 |
 | 26 | [Police & Thieves](https://open.spotify.com/track/2XsW8N3mMRD5blv4KGNHq6) | [Junior Murvin](https://open.spotify.com/artist/17dXLKGh9AKpooAvGaVt34) | [Police & Thieves](https://open.spotify.com/album/6k54vGxQY5Gita60TQYCtR) | 4:04 |
 | 27 | [Samba Para Dos](https://open.spotify.com/track/76YAvriBBn6LcV97l4Stdc) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3), [Roberto Aguilar](https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV) | [Guitarras Latinas](https://open.spotify.com/album/6z1QMvoOBwozy4CvEqNPsD) | 4:51 |
 | 28 | [Tous les garçons et les filles \- Slow](https://open.spotify.com/track/0Yg1hSAUgd2AAneReFOVzS) | [Françoise Hardy](https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g) | [Françoise Hardy \(Tous les garçons et les filles\)](https://open.spotify.com/album/0TcP4beTgxQmREuHJ7BBY2) | 3:07 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHqd3RfK9kX.md) - [plain]
 | 30 | [Réu Confesso](https://open.spotify.com/track/3BpiaGyTIb7VIoAYbvSzTH) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [Tim Maia 1973](https://open.spotify.com/album/6gK1Uf1uZolqGBibGaW5qK) | 3:37 |
 | 31 | [El Preso](https://open.spotify.com/track/1Fp4njyRHJYyMTKP899c0q) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob), [Wilson "Saoko" Manyoma](https://open.spotify.com/artist/43zrpWYGTWyHmRAmhE07u0) | [Fruko el Grande](https://open.spotify.com/album/4VwcUaZ0yWCHp9hEDue09C) | 4:54 |
 | 32 | [Underwater Love](https://open.spotify.com/track/1vahbgf2hkAjBvYRtIo09F) | [Smoke City](https://open.spotify.com/artist/76aD5RR474u5LVtrYxBKkF) | [Flying Away](https://open.spotify.com/album/52g3C6ZdK60MAWsiGxAQz1) | 6:46 |
-| 33 | [Estrelar](https://open.spotify.com/track/2koS4fD3kzizdnzWzyrxyT) | [Marcos Valle](https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk) | [Marcos Valle](https://open.spotify.com/album/0FOAFmdS9StYdW3hrSnJCe) | 5:13 |
-| 34 | [Cotidiano](https://open.spotify.com/track/127twwy3iCo1xBRQHyWetU) | [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t) | [Construção](https://open.spotify.com/album/7yrRo2o4XzDfv3mNnkPRE5) | 2:48 |
+| 33 | [Cotidiano](https://open.spotify.com/track/127twwy3iCo1xBRQHyWetU) | [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t) | [Construção](https://open.spotify.com/album/7yrRo2o4XzDfv3mNnkPRE5) | 2:48 |
+| 34 | [Estrelar](https://open.spotify.com/track/2koS4fD3kzizdnzWzyrxyT) | [Marcos Valle](https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk) | [Marcos Valle](https://open.spotify.com/album/0FOAFmdS9StYdW3hrSnJCe) | 5:13 |
 | 35 | [Por Causa De Você, Menina](https://open.spotify.com/track/0YojqXjn4xb5hblpFAhqJr) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Samba Esquema Novo](https://open.spotify.com/album/3xWp6y0HGsHZlXljNs7VRy) | 2:47 |
 | 36 | [Bring It On Home To Me](https://open.spotify.com/track/4yjz1aazw6R8ZURpGbCAkp) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [30 Greatest Hits: Portrait of a Legend 1951\-1964](https://open.spotify.com/album/4jiO2jRz7g50ESvYYKsKwZ) | 2:45 |
 | 37 | [Mi Swing es Tropical](https://open.spotify.com/track/3z2aHQwr9MJ5g7DA19tpha) | [Nickodemus](https://open.spotify.com/artist/4VNKVCluxMcjqwYJm3yuQ3), [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Tempo](https://open.spotify.com/artist/76whng5pl9msPkkjFUtWYn) | [Endangered Species \(Bonus Edition\)](https://open.spotify.com/album/5QAwzwTSEcpwnbEE2NvzqD) | 3:42 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHqd3RfK9kX.md) - [plain]
 | 42 | [Soy El Rey](https://open.spotify.com/track/0TGLRGD4ZRp6sM5jy8EOjR) | [Pete Rodriguez](https://open.spotify.com/artist/76KY8JsK3XMQkjDiRZVprS) | [I Like It Like That](https://open.spotify.com/album/3jMsGvImaL1YxiTxNNIvvB) | 3:05 |
 | 43 | [Softly As In A Morning Sunrise](https://open.spotify.com/track/4vWMrM0AwlhRlkAdQtC2zn) | [The Modern Jazz Quartet](https://open.spotify.com/artist/7wBFjZMHsC6nfV0HOSd6uI) | [Elegance: The Birth Of The Modern Jazz Quartet](https://open.spotify.com/album/2uu6trC0IdVMMeslfF8nCC) | 3:29 |
 | 44 | [Quizás, Quizás \- Live](https://open.spotify.com/track/2GVDX9MYgot3QdNe7xv1Yb) | [Buena Vista Social Club](https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW) | [Buena Vista Social Club at Carnegie Hall \(Live\)](https://open.spotify.com/album/7gIpPRE9VDKCrMk08okn59) | 3:47 |
-| 45 | [Amor verdadero](https://open.spotify.com/track/6Ds9miFD06FwpFdAuqDo0h) | [Afro\-Cuban All Stars](https://open.spotify.com/artist/5cvnQ2gtwZraxeE99Y8aOg) | [A Toda Cuba Le Gusta](https://open.spotify.com/album/3mjwCWLCCtHiEv0Ttek5zT) | 6:36 |
-| 46 | [Mantra \(Feat\. Emicida\)](https://open.spotify.com/track/1vuAdDQlGRntmbQ7RpkObZ) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Casas](https://open.spotify.com/album/4srydLleGSH7OmLav3nCTX) | 4:54 |
+| 45 | [Mantra \(Feat\. Emicida\)](https://open.spotify.com/track/1vuAdDQlGRntmbQ7RpkObZ) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Casas](https://open.spotify.com/album/4srydLleGSH7OmLav3nCTX) | 4:54 |
+| 46 | [Amor verdadero](https://open.spotify.com/track/6Ds9miFD06FwpFdAuqDo0h) | [Afro\-Cuban All Stars](https://open.spotify.com/artist/5cvnQ2gtwZraxeE99Y8aOg) | [A Toda Cuba Le Gusta](https://open.spotify.com/album/3mjwCWLCCtHiEv0Ttek5zT) | 6:36 |
 | 47 | [Cariñito](https://open.spotify.com/track/2jQj5bsJeOad1YoaPWjJHm) | [Los Hijos del sol](https://open.spotify.com/artist/2eDtYwKCGACUH3hFyaZ7Ah) | [Tropicalísimo: Clásicos de Cumbia Peruana](https://open.spotify.com/album/4y6v6W4BoxN7HjlbxKL6lW) | 4:05 |
 | 48 | [Beggin' \- 2007 Remaster](https://open.spotify.com/track/4LQtQV5HHTdVBCBJYaEuUr) | [Frankie Valli & The Four Seasons](https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou) | [Jersey Beat: The Music Of Frankie Valli and The Four Seasons](https://open.spotify.com/album/0sEAJ8QdJQPRNL2km3NYqg) | 2:48 |
 | 49 | [You Can Get It If You Really Want](https://open.spotify.com/track/0TjOyjjHJb9WmyUQlq1F12) | [Desmond Dekker](https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe) | [You Can Get It If You Really Want](https://open.spotify.com/album/6MVF2k2tOc6nHwa0yDtBHK) | 2:42 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHqd3RfK9kX.md) - [plain]
 | 79 | [Que Beleza](https://open.spotify.com/track/0IY5lHDP46LTWfEwu66TZd) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [World Psychedelic Classics 4: Nobody Can Live Forever: The Existential Soul of Tim Maia](https://open.spotify.com/album/0q41u8oMFT9Ewr2tqGnmL8) | 3:28 |
 | 80 | [Call](https://open.spotify.com/track/4tvw503IOIq9uc0QNYVey2) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Painted](https://open.spotify.com/album/0sxfu0XUwHOtnKiZgkTQwk) | 3:31 |
 
-Snapshot ID: `MTYwNTAzNDA0MiwwMDAwMDAwMGRmYzM3OGEyOTc5Zjc5NThhNTEyOGU5MTFlYjJhMjcz`
+Snapshot ID: `MTYwNTAzNDA0MiwwMDAwMDAwMDYwYTJkODA4MWFhZDNlM2YxNGE3ZDk4ODQyNjMxOTA2`

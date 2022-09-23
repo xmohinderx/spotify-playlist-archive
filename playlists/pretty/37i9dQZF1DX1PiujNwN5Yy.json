@@ -1,12 +1,12 @@
 {
   "description": "Canciones tristes para uno de esos d\u00edas. Sad songs just 4 you.",
-  "num_followers": 98439,
+  "num_followers": 98484,
   "original_name": "gris",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTM3NzQwOSwwMDAwMDAwMGY3MWU2NjQxNzk5Mjg4MjgyZDNmMDgxNzk5NGQ0Mzg3",
+  "snapshot_id": "MTY1OTM3NzQwOSwwMDAwMDAwMGQ2OWNmYTlmYTYxNjkwMDUwNzNkOTM4ZjlhNmFkYjY0",
   "tracks": [
     {
       "added_at": "2022-08-01 18:10:09",
@@ -579,18 +579,18 @@
     {
       "added_at": "2022-08-01 18:10:09",
       "album": {
-        "name": "Agua",
-        "url": "https://open.spotify.com/album/18lEH8fgVYdkUBTDK0IPyu"
+        "name": "Anhelos",
+        "url": "https://open.spotify.com/album/54JTCEWN3EsbuViyF6i8oy"
       },
       "artists": [
         {
-          "name": "Valeria Castro",
-          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
+          "name": "Dawn Avenue",
+          "url": "https://open.spotify.com/artist/3ZCvfZxGmkariKQgNYRD4P"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Agua",
-      "url": "https://open.spotify.com/track/76yx6d2cnxogqq5EeWAGGv"
+      "duration_ms": 222474,
+      "name": "Anhelos",
+      "url": "https://open.spotify.com/track/7D8Frp6Le27sExAi0mBjys"
     },
     {
       "added_at": "2022-08-01 18:10:09",
@@ -611,18 +611,18 @@
     {
       "added_at": "2022-08-01 18:10:09",
       "album": {
-        "name": "Anhelos",
-        "url": "https://open.spotify.com/album/54JTCEWN3EsbuViyF6i8oy"
+        "name": "Agua",
+        "url": "https://open.spotify.com/album/18lEH8fgVYdkUBTDK0IPyu"
       },
       "artists": [
         {
-          "name": "Dawn Avenue",
-          "url": "https://open.spotify.com/artist/3ZCvfZxGmkariKQgNYRD4P"
+          "name": "Valeria Castro",
+          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
         }
       ],
-      "duration_ms": 222474,
-      "name": "Anhelos",
-      "url": "https://open.spotify.com/track/7D8Frp6Le27sExAi0mBjys"
+      "duration_ms": 240000,
+      "name": "Agua",
+      "url": "https://open.spotify.com/track/76yx6d2cnxogqq5EeWAGGv"
     },
     {
       "added_at": "2022-08-01 18:10:09",
@@ -711,22 +711,6 @@
     {
       "added_at": "2022-08-01 18:10:09",
       "album": {
-        "name": "chiquita",
-        "url": "https://open.spotify.com/album/4K29NpImQBdRlngO3NhNbK"
-      },
-      "artists": [
-        {
-          "name": "Valeria Castro",
-          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
-        }
-      ],
-      "duration_ms": 198720,
-      "name": "culpa",
-      "url": "https://open.spotify.com/track/7nByHsiIV08TNL6hG4nBBs"
-    },
-    {
-      "added_at": "2022-08-01 18:10:09",
-      "album": {
         "name": "Silencio",
         "url": "https://open.spotify.com/album/7Lzac5wLxNo3PJOviNF59D"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 177333,
       "name": "De Mi Para Ti",
       "url": "https://open.spotify.com/track/6l4xmyJ1a9sjjZjnaKzq7t"
+    },
+    {
+      "added_at": "2022-08-01 18:10:09",
+      "album": {
+        "name": "chiquita",
+        "url": "https://open.spotify.com/album/4K29NpImQBdRlngO3NhNbK"
+      },
+      "artists": [
+        {
+          "name": "Valeria Castro",
+          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
+        }
+      ],
+      "duration_ms": 198720,
+      "name": "culpa",
+      "url": "https://open.spotify.com/track/7nByHsiIV08TNL6hG4nBBs"
     },
     {
       "added_at": "2022-08-01 18:10:09",
@@ -859,22 +859,6 @@
     {
       "added_at": "2022-08-01 18:10:09",
       "album": {
-        "name": "Vete Si Quieres",
-        "url": "https://open.spotify.com/album/59n8OAA2MokNaY6EunSMY6"
-      },
-      "artists": [
-        {
-          "name": "El David",
-          "url": "https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b"
-        }
-      ],
-      "duration_ms": 228575,
-      "name": "Vete Si Quieres",
-      "url": "https://open.spotify.com/track/0eBNvFiuvRpKPzfEx7CVs6"
-    },
-    {
-      "added_at": "2022-08-01 18:10:09",
-      "album": {
         "name": "no estabas cerca",
         "url": "https://open.spotify.com/album/1zGsHBTBDiV6x7fygtLjto"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 70465,
       "name": "no estabas cerca",
       "url": "https://open.spotify.com/track/0CaAkdZcfgo0KRyPoU2vc7"
+    },
+    {
+      "added_at": "2022-08-01 18:10:09",
+      "album": {
+        "name": "Vete Si Quieres",
+        "url": "https://open.spotify.com/album/59n8OAA2MokNaY6EunSMY6"
+      },
+      "artists": [
+        {
+          "name": "El David",
+          "url": "https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b"
+        }
+      ],
+      "duration_ms": 228575,
+      "name": "Vete Si Quieres",
+      "url": "https://open.spotify.com/track/0eBNvFiuvRpKPzfEx7CVs6"
     },
     {
       "added_at": "2022-08-01 18:10:09",
@@ -923,22 +923,18 @@
     {
       "added_at": "2022-08-01 18:10:09",
       "album": {
-        "name": "Galerna",
-        "url": "https://open.spotify.com/album/1x0YBpjfsJpk8h9ryEqgKH"
+        "name": "En L\u00ednea",
+        "url": "https://open.spotify.com/album/05qaC3zEdhmI4bH0G4ckw6"
       },
       "artists": [
         {
-          "name": "DEVA",
-          "url": "https://open.spotify.com/artist/0EdwY8DfBqB83R45WnHJDg"
-        },
-        {
-          "name": "Carlos Ares",
-          "url": "https://open.spotify.com/artist/3eReTIjhrje1sk2hFQgwhI"
+          "name": "yes I M",
+          "url": "https://open.spotify.com/artist/3TZI0rZ4YeTit0vak0CXQy"
         }
       ],
-      "duration_ms": 188901,
-      "name": "Galerna",
-      "url": "https://open.spotify.com/track/0cw4MxjnhP15RC3aRxJR4O"
+      "duration_ms": 210579,
+      "name": "Qu\u00e9 M\u00e1s Da",
+      "url": "https://open.spotify.com/track/7ifjN5DxB3r1hKnqjRDO1a"
     },
     {
       "added_at": "2022-08-01 18:10:09",
@@ -959,18 +955,22 @@
     {
       "added_at": "2022-08-01 18:10:09",
       "album": {
-        "name": "En L\u00ednea",
-        "url": "https://open.spotify.com/album/05qaC3zEdhmI4bH0G4ckw6"
+        "name": "Galerna",
+        "url": "https://open.spotify.com/album/1x0YBpjfsJpk8h9ryEqgKH"
       },
       "artists": [
         {
-          "name": "yes I M",
-          "url": "https://open.spotify.com/artist/3TZI0rZ4YeTit0vak0CXQy"
+          "name": "DEVA",
+          "url": "https://open.spotify.com/artist/0EdwY8DfBqB83R45WnHJDg"
+        },
+        {
+          "name": "Carlos Ares",
+          "url": "https://open.spotify.com/artist/3eReTIjhrje1sk2hFQgwhI"
         }
       ],
-      "duration_ms": 210579,
-      "name": "Qu\u00e9 M\u00e1s Da",
-      "url": "https://open.spotify.com/track/7ifjN5DxB3r1hKnqjRDO1a"
+      "duration_ms": 188901,
+      "name": "Galerna",
+      "url": "https://open.spotify.com/track/0cw4MxjnhP15RC3aRxJR4O"
     },
     {
       "added_at": "2022-08-01 18:10:09",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2022-08-01 18:10:09",
       "album": {
-        "name": "Bolsas - C. Tangana",
-        "url": "https://open.spotify.com/album/6Cg69S5BKiWGtk66BD8Fl5"
-      },
-      "artists": [
-        {
-          "name": "Valdivia",
-          "url": "https://open.spotify.com/artist/622Gl6V4TWg2yWdsSsnx3q"
-        }
-      ],
-      "duration_ms": 236605,
-      "name": "Bolsas - C. Tangana",
-      "url": "https://open.spotify.com/track/28rRswMxvXAoN5ZPXHYFbk"
-    },
-    {
-      "added_at": "2022-08-01 18:10:09",
-      "album": {
         "name": "Ma\u00f1ana Te Escribo Otra Canci\u00f3n",
         "url": "https://open.spotify.com/album/13fka9ET1RGpC4jQx2W9kE"
       },
@@ -1155,18 +1139,18 @@
     {
       "added_at": "2022-08-01 18:10:09",
       "album": {
-        "name": "Ayer yo estaba bien",
-        "url": "https://open.spotify.com/album/3UIWYkquYH5QEDT2moAHy5"
+        "name": "Bolsas - C. Tangana",
+        "url": "https://open.spotify.com/album/6Cg69S5BKiWGtk66BD8Fl5"
       },
       "artists": [
         {
-          "name": "De Los Santos",
-          "url": "https://open.spotify.com/artist/6hvYBtG0PJ29gStB6pLXwY"
+          "name": "Valdivia",
+          "url": "https://open.spotify.com/artist/622Gl6V4TWg2yWdsSsnx3q"
         }
       ],
-      "duration_ms": 152000,
-      "name": "Ayer yo estaba bien",
-      "url": "https://open.spotify.com/track/6jLsHP0Z3Xryry93GvXBzg"
+      "duration_ms": 236605,
+      "name": "Bolsas - C. Tangana",
+      "url": "https://open.spotify.com/track/28rRswMxvXAoN5ZPXHYFbk"
     },
     {
       "added_at": "2022-08-01 18:10:09",
@@ -1187,6 +1171,22 @@
       "duration_ms": 185411,
       "name": "T la Sudo (Demo)",
       "url": "https://open.spotify.com/track/1Vyf9dBD7DzVWobiEbHoKx"
+    },
+    {
+      "added_at": "2022-08-01 18:10:09",
+      "album": {
+        "name": "Ayer yo estaba bien",
+        "url": "https://open.spotify.com/album/3UIWYkquYH5QEDT2moAHy5"
+      },
+      "artists": [
+        {
+          "name": "De Los Santos",
+          "url": "https://open.spotify.com/artist/6hvYBtG0PJ29gStB6pLXwY"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Ayer yo estaba bien",
+      "url": "https://open.spotify.com/track/6jLsHP0Z3Xryry93GvXBzg"
     },
     {
       "added_at": "2022-08-01 18:10:09",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2022-08-01 18:10:09",
       "album": {
-        "name": "Nada Es Igual",
-        "url": "https://open.spotify.com/album/4TouSDU0z4DXKuuheeCfZw"
-      },
-      "artists": [
-        {
-          "name": "Karen M\u00e9ndez",
-          "url": "https://open.spotify.com/artist/0txXDZCdXBzha20sgN1GRk"
-        }
-      ],
-      "duration_ms": 251640,
-      "name": "Nada Es Igual",
-      "url": "https://open.spotify.com/track/4CKntyb4V1au0i1ieEfapR"
-    },
-    {
-      "added_at": "2022-08-01 18:10:09",
-      "album": {
         "name": "La Canci\u00f3n",
         "url": "https://open.spotify.com/album/0JKeAs7WGDWdoCjvdqgiKQ"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 253910,
       "name": "La Canci\u00f3n",
       "url": "https://open.spotify.com/track/2p6vZOWwUYqlmnDGIaAl72"
+    },
+    {
+      "added_at": "2022-08-01 18:10:09",
+      "album": {
+        "name": "Nada Es Igual",
+        "url": "https://open.spotify.com/album/4TouSDU0z4DXKuuheeCfZw"
+      },
+      "artists": [
+        {
+          "name": "Karen M\u00e9ndez",
+          "url": "https://open.spotify.com/artist/0txXDZCdXBzha20sgN1GRk"
+        }
+      ],
+      "duration_ms": 251640,
+      "name": "Nada Es Igual",
+      "url": "https://open.spotify.com/track/4CKntyb4V1au0i1ieEfapR"
     },
     {
       "added_at": "2022-08-01 18:10:09",

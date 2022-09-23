@@ -4,12 +4,13 @@
 
 > The calming and pensive side of electric guitar\. Instrumental only.
 
-93 songs - 4 hr 46 min - [published](https://open.spotify.com/playlist/3oJlWxouvmQCoHhx3LLhbO)
+94 songs - 4 hr 49 min - [published](https://open.spotify.com/playlist/3oJlWxouvmQCoHhx3LLhbO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [aesthetics](https://open.spotify.com/track/2kRzlPRExNaBBsIANubbHg) | [Agnes Lundh](https://open.spotify.com/artist/3OJ5pC5H7eYoyow4sXULSt) | [aesthetics](https://open.spotify.com/album/4F9dzxcyWFLTY0oZj9A5Ej) | 2:13 | 2022-07-08 | 2022-07-15 |
 | [After](https://open.spotify.com/track/6bu6ncccfVyX29Tkl9oRpR) | [Sean Angus Watson](https://open.spotify.com/artist/2kiSeGQsztzTrVXlIZOoBn) | [Feels Like This](https://open.spotify.com/album/37dKlvajGi2mmHLPgWBvLj) | 4:19 | 2022-05-13 |  |
+| [Blue Pearl](https://open.spotify.com/track/6khHWpOIcKjA71xz5BWi9h) | [obelebo](https://open.spotify.com/artist/0qsb0PqyATXSQMdaUAxIAZ) | [Blue Pearl](https://open.spotify.com/album/4Zo1Q2PXOGtV2OirdktdYY) | 2:49 | 2022-09-23 |  |
 | [Bortom Träden](https://open.spotify.com/track/4CFlaEtdgeu4mFmnUApAyl) | [Erik Reno](https://open.spotify.com/artist/4QL7rtAbYIAQ3sIsffoIz0) | [I Blomstertid](https://open.spotify.com/album/4tvdL8uzjualif8HIlf6ab) | 4:20 | 2022-05-13 |  |
 | [Boy Meets World](https://open.spotify.com/track/0r049w4eKLL1dEdZ6xZJYZ) | [Ladderbreak](https://open.spotify.com/artist/0GxMDb96WYvDodwqMfeSwe) | [Cerro](https://open.spotify.com/album/0kXdiTfDJNzAqefh5NBFQy) | 3:41 | 2022-05-13 |  |
 | [Breakups Are Hard](https://open.spotify.com/track/2xJuvHrr1OgDAkIxL6klv5) | [Pink Halcyon](https://open.spotify.com/artist/02YzIekYco9IxU1HZuVg0C) | [Breakups Are Hard](https://open.spotify.com/album/2cRJ1TWmG6e7cU91md5ymn) | 2:16 | 2022-05-13 |  |
@@ -94,7 +95,7 @@
 | [The Kind Journeyman](https://open.spotify.com/track/2CgGcJ3cBHQJhhK2pqcm8g) | [Timestain](https://open.spotify.com/artist/3x4Wg2JsXrfZkMbfP0giOU) | [Ghost Town](https://open.spotify.com/album/2ceYok3cY1JTWnIP12B7u8) | 2:40 | 2022-05-13 |  |
 | [The Source](https://open.spotify.com/track/6MmCpo0GytipNTU0mNwh4X) | [Dan Caine](https://open.spotify.com/artist/0r5LxNZiRy5s6to6o2Uy5A) | [Rivers](https://open.spotify.com/album/4v47S3SLTz4b0Wsnfs3gjq) | 5:30 | 2022-05-13 |  |
 | [Towards Daylight](https://open.spotify.com/track/6zHVtnqzmL0cNG3KFBJv0H) | [John Pete Dexter](https://open.spotify.com/artist/7dljhI1eiWanHTZAy5XQTR) | [Towards Daylight](https://open.spotify.com/album/52kuliw2gKIqyaZbdJMe6z) | 2:27 | 2022-07-08 |  |
-| [Tremoland](https://open.spotify.com/track/13z3AL9gEDxGWr1sGk0UZe) | [Palacín](https://open.spotify.com/artist/4AFGBpC7hxvSJArGRadDoL) | [Tremoland](https://open.spotify.com/album/1PLLrdOtibrkAzPxV8j3jj) | 2:43 | 2022-05-13 |  |
+| [Tremoland](https://open.spotify.com/track/13z3AL9gEDxGWr1sGk0UZe) | [Palacín](https://open.spotify.com/artist/4AFGBpC7hxvSJArGRadDoL) | [Tremoland](https://open.spotify.com/album/1PLLrdOtibrkAzPxV8j3jj) | 2:43 | 2022-05-13 | 2022-09-23 |
 | [Vast Open Sky](https://open.spotify.com/track/42gzCgGFiRmoDvzhVQvEOI) | [J\. J\. Zapata](https://open.spotify.com/artist/6ospPIOrQaXpxQD5dsKAAL) | [Vast Open Sky](https://open.spotify.com/album/1yN0XDhIYbhffVOzLpEHq4) | 2:12 | 2022-05-13 |  |
 | [Wagonside](https://open.spotify.com/track/4Tb2hOoWV5c6Xe8CcI2sUP) | [Arpwatch](https://open.spotify.com/artist/4QWzCQdSl0I35LnBIN5Lmr) | [Rotations](https://open.spotify.com/album/1yyulWBUveBEnszGh0Zseu) | 3:18 | 2022-05-13 |  |
 | [White Ferrari](https://open.spotify.com/track/3peYvBrl7CyE0zXUujPGnN) | [Justice Der](https://open.spotify.com/artist/2N79L5eT2Xraec4UJsi2Fz) | [Favorites 2](https://open.spotify.com/album/1wCB84h6r1T0nv9ZQDcM3e) | 4:54 | 2022-05-13 |  |

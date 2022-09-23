@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3NnZWk6Z3T.md) - [plain]
 
 > Keep calm and enjoy this musical cafecito.
 
-[Spotify](https://open.spotify.com/user/spotify) - 546,371 likes - 150 songs - 8 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 546,472 likes - 150 songs - 8 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,8 +129,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3NnZWk6Z3T.md) - [plain]
 | 119 | [Amor Narcotico](https://open.spotify.com/track/1UqyF5I7vz3gfk0Zc4L4HU) | [Retro Jazz](https://open.spotify.com/artist/7H5CbmeG3gR9Qu0Ki0b0Tb) | [Jazzeando el Cancionero Dominicano, Vol 2](https://open.spotify.com/album/3GNKuCVdxtKUJRN02V6yfM) | 4:50 |
 | 120 | [Idas y Vueltas](https://open.spotify.com/track/5Ajw26Yo7IDiwTjDva2VIr) | [Maria Mulata](https://open.spotify.com/artist/1oZNtWMNjry3xwoMamQR9Q), [Maite Hontelé](https://open.spotify.com/artist/1Pe4MoTbike2NZeexUUBrU) | [Idas y Vueltas](https://open.spotify.com/album/4V9raKN14W4W670fMeaCiO) | 3:52 |
 | 121 | [Y Si Mañana](https://open.spotify.com/track/0mdXFAAbFwFlKdiEtkz1ha) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1), [Omara Portuondo](https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy) | [Sublime](https://open.spotify.com/album/7rdezKlUOq26Dypydp5p9y) | 3:37 |
-| 122 | [No Me Gustan los Grises](https://open.spotify.com/track/3csSDv4S9IzB7FetDpBn66) | [Mery Granados](https://open.spotify.com/artist/0aJgv15DVDKvr0yWb5BzP1) | [No Me Gustan los Grises](https://open.spotify.com/album/2JzCk4SJDCnYXlP5RT6v4x) | 3:37 |
-| 123 | [Everybody Wants to Rule the World](https://open.spotify.com/track/3cChN0lUEGVlJSGcMKyAsx) | [Making Movies](https://open.spotify.com/artist/1wFpAE8HCGoqaLjzRO51w9) | [Everybody Wants to Rule the World](https://open.spotify.com/album/4N1Ji6AB9p3FW2xY5hDkRk) | 3:58 |
+| 122 | [Everybody Wants to Rule the World](https://open.spotify.com/track/3cChN0lUEGVlJSGcMKyAsx) | [Making Movies](https://open.spotify.com/artist/1wFpAE8HCGoqaLjzRO51w9) | [Everybody Wants to Rule the World](https://open.spotify.com/album/4N1Ji6AB9p3FW2xY5hDkRk) | 3:58 |
+| 123 | [No Me Gustan los Grises](https://open.spotify.com/track/3csSDv4S9IzB7FetDpBn66) | [Mery Granados](https://open.spotify.com/artist/0aJgv15DVDKvr0yWb5BzP1) | [No Me Gustan los Grises](https://open.spotify.com/album/2JzCk4SJDCnYXlP5RT6v4x) | 3:37 |
 | 124 | [Reflexión del Pasto](https://open.spotify.com/track/1tzTiU8wtxHvZ3YtU0cjEM) | [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Reflexión del Pasto](https://open.spotify.com/album/28GYUNMKd575GwnofewUEI) | 1:46 |
 | 125 | [Eucalipto](https://open.spotify.com/track/3XApO9AXI8gWMIr67HJUiL) | [Mario Puglia](https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT) | [Eucalipto](https://open.spotify.com/album/48SgeHpP6RkBC5q3SSzb27) | 2:40 |
 | 126 | [Epitafio](https://open.spotify.com/track/4k0MEDp6V71N0sbGbSiGwk) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Epitafio](https://open.spotify.com/album/7B7Sdq7h3TwFq5TTWyy4AK) | 2:37 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3NnZWk6Z3T.md) - [plain]
 | 149 | [Te Quiero Olvidar](https://open.spotify.com/track/7HsVyALWw7ILw9wqNJGcUw) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP) | [Te Quiero Olvidar](https://open.spotify.com/album/7vC7hsFMfCARD5FQWiAzIY) | 3:22 |
 | 150 | [Refugio](https://open.spotify.com/track/2XHOcpj3XkYsv9aa4inXVQ) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ), [Fer Casillas](https://open.spotify.com/artist/1zl3p4VBfqqHGikw3Ad46R) | [Refugio](https://open.spotify.com/album/6rb0q66fl0KXNB9SXW5Ycc) | 3:50 |
 
-Snapshot ID: `MTY2Mzc4MzQ2NiwwMDAwMDAwMDIzOGYyODY0YjUwNTI3NzliODQ4OTIxNTc5NmE4ZWFm`
+Snapshot ID: `MTY2Mzc4MzQ2NiwwMDAwMDAwMGJkMGViNDJjZTk2YmVmNzBhNjlhOWZhZGVkNmI3MjUz`

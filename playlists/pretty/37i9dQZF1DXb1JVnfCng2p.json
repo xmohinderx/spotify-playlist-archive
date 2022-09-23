@@ -1,12 +1,12 @@
 {
   "description": "Get ready for dinner with some upbeat, funky and cooking Jazz.",
-  "num_followers": 18291,
+  "num_followers": 18311,
   "original_name": "Cooking Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzc0NjU2MSwwMDAwMDAwMGUyYTM3OGRiMGI0MzZkYzJkZDFjNzhjZDkyYWFlYjM4",
+  "snapshot_id": "MTY2Mzc0NjU2MSwwMDAwMDAwMDM3MGQ4M2IzYTBhN2Q3NjA2M2ZmZDhmZDRiZDk1YzVl",
   "tracks": [
     {
       "added_at": "2022-09-21 07:49:21",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2022-09-21 07:49:21",
       "album": {
+        "name": "Six Pieces Of Silver",
+        "url": "https://open.spotify.com/album/2p4ipY0YJS0JSDuc1uamxE"
+      },
+      "artists": [
+        {
+          "name": "Horace Silver Quintet",
+          "url": "https://open.spotify.com/artist/4PNIQCDBeVCSSqKUhvkP8Y"
+        }
+      ],
+      "duration_ms": 265893,
+      "name": "Camouflage - Remastered 1998/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/3OANaB4dlcU6CjFE1geQhz"
+    },
+    {
+      "added_at": "2022-09-21 07:49:21",
+      "album": {
         "name": "The Music From \"The Connection\" (2005 Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/0OMYhZDRDDcUa5Ee0TyLJK"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 358426,
       "name": "Wigglin' - Remastered",
       "url": "https://open.spotify.com/track/4N4bT7cB4Nu0BGIzaflIHM"
-    },
-    {
-      "added_at": "2022-09-21 07:49:21",
-      "album": {
-        "name": "Six Pieces Of Silver",
-        "url": "https://open.spotify.com/album/2p4ipY0YJS0JSDuc1uamxE"
-      },
-      "artists": [
-        {
-          "name": "Horace Silver Quintet",
-          "url": "https://open.spotify.com/artist/4PNIQCDBeVCSSqKUhvkP8Y"
-        }
-      ],
-      "duration_ms": 265893,
-      "name": "Camouflage - Remastered 1998/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/3OANaB4dlcU6CjFE1geQhz"
     },
     {
       "added_at": "2022-09-21 07:49:21",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2022-09-21 07:49:21",
       "album": {
+        "name": "The Cape Verdean Blues",
+        "url": "https://open.spotify.com/album/2jTvEM76ioutKODSdPllkr"
+      },
+      "artists": [
+        {
+          "name": "Horace Silver Quintet",
+          "url": "https://open.spotify.com/artist/4PNIQCDBeVCSSqKUhvkP8Y"
+        }
+      ],
+      "duration_ms": 450880,
+      "name": "Pretty Eyes - Rudy Van Gelder Edition / 2003 Remastered",
+      "url": "https://open.spotify.com/track/0qCNbd9xXMhKqc2wPLB0cV"
+    },
+    {
+      "added_at": "2022-09-21 07:49:21",
+      "album": {
         "name": "The Hardbop Grandpop",
         "url": "https://open.spotify.com/album/4yC3YQ7yrNEzLM9fVvrc6F"
       },
@@ -1291,22 +1307,6 @@
       "duration_ms": 208800,
       "name": "Stand Still",
       "url": "https://open.spotify.com/track/2dS3pxZTUIiucqi6gSbDo3"
-    },
-    {
-      "added_at": "2022-09-21 07:49:21",
-      "album": {
-        "name": "The Cape Verdean Blues",
-        "url": "https://open.spotify.com/album/2jTvEM76ioutKODSdPllkr"
-      },
-      "artists": [
-        {
-          "name": "Horace Silver Quintet",
-          "url": "https://open.spotify.com/artist/4PNIQCDBeVCSSqKUhvkP8Y"
-        }
-      ],
-      "duration_ms": 450880,
-      "name": "Pretty Eyes - Rudy Van Gelder Edition / 2003 Remastered",
-      "url": "https://open.spotify.com/track/0qCNbd9xXMhKqc2wPLB0cV"
     },
     {
       "added_at": "2022-09-21 07:49:21",

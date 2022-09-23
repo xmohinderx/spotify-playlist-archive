@@ -4,7 +4,7 @@
 
 > Warm instrumental guitar for a gentle start.
 
-172 songs - 7 hr 31 min - [published](https://open.spotify.com/playlist/4J4yOBmgih5feZicGBWAgu)
+173 songs - 7 hr 34 min - [published](https://open.spotify.com/playlist/4J4yOBmgih5feZicGBWAgu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [Pinus Halepensis](https://open.spotify.com/track/5vHDaXBGHiN5AroXmGjucE) | [Mario Regio](https://open.spotify.com/artist/37J9hiCCgzUYyi8V46abD2) | [Pinus Halepensis](https://open.spotify.com/album/5VbSF6F1JbowAFGpB3YB9C) | 2:35 | 2022-03-04 | 2022-04-06 |
 | [Primavera](https://open.spotify.com/track/3rcoy7zeug8RSQpkhIAaxy) | [Giuseppina Tolda](https://open.spotify.com/artist/6VAysUntvNkdLFWbH9Cf3D) | [Primavera](https://open.spotify.com/album/420EyG44UX8z6gH8OLEfa7) | 2:12 | 2022-03-04 |  |
 | [Private Investigation](https://open.spotify.com/track/5UJX41yJ3og8Jb1Gn6kjMv) | [Owen Larssen](https://open.spotify.com/artist/5KC38oAHkvoeZvx2k9Pwlo) | [Private Investigation](https://open.spotify.com/album/5h0J1K7pgcNeILEhv472rN) | 3:04 | 2022-03-04 | 2022-03-19 |
+| [Pumori](https://open.spotify.com/track/1CLchOJrSa1K59IgJtBgAS) | [Michael Reiss](https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy) | [Makalu](https://open.spotify.com/album/1T6ygMtSOuBoR1rMg4Ejh7) | 2:59 | 2022-09-23 |  |
 | [Quality Craftsmanship](https://open.spotify.com/track/0BoV3iHQDjg8f1RI1jHR6B) | [Joshua Cipolla](https://open.spotify.com/artist/1dc27rgyTY82CaorqruMi1) | [Quality Craftsmanship](https://open.spotify.com/album/3AZbol8ntAqXNrUJOelRwX) | 2:16 | 2022-03-04 | 2022-03-19 |
 | [Rainmaker](https://open.spotify.com/track/5asJLV0COedoeSPKAkiH7y) | [Steve D](https://open.spotify.com/artist/7JaeTu8xN4ZYcKyGrK6DBW) | [Rainmaker](https://open.spotify.com/album/0Ww1YwBaiSEIpFmjeSbPg0) | 2:21 | 2022-03-04 | 2022-05-27 |
 | [Rains](https://open.spotify.com/track/0le8iYnPvQYMs1aCKgrFeZ) | [Werner de John](https://open.spotify.com/artist/7KYZ7B3pZ9TQ5k8j8C4pGG) | [Rains](https://open.spotify.com/album/6ez4Vo0omWdIJOYyWgr6EU) | 2:27 | 2022-03-04 | 2022-04-22 |

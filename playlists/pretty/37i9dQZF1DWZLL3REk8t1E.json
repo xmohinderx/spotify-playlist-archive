@@ -1,12 +1,12 @@
 {
   "description": "\u00a1A calentar garganta!",
-  "num_followers": 1083633,
+  "num_followers": 1083854,
   "original_name": "La Cantina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTU1MzE2NiwwMDAwMDAwMDI0ZWVjMDE1M2Y5NDgyNjFiZmU3NTI0M2ExZDVlZjI3",
+  "snapshot_id": "MTY1OTU1MzE2NiwwMDAwMDAwMDg1MzgxMjgxNzVjNjRkNGQ2ZGZiZmNmNGJmZGM5NjM1",
   "tracks": [
     {
       "added_at": "2022-08-03 18:59:26",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2022-08-03 18:59:26",
       "album": {
-        "name": "Los Caminos de la Vida (Spotify Singles)",
-        "url": "https://open.spotify.com/album/1GdDkx6ATOjvmbi7AYDtq5"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 328115,
-      "name": "Los Caminos de la Vida - Spotify Singles",
-      "url": "https://open.spotify.com/track/0LPcBW66vudTxR0HcauKNy"
-    },
-    {
-      "added_at": "2022-08-03 18:59:26",
-      "album": {
         "name": "El Malo",
         "url": "https://open.spotify.com/album/4fvBzXczcpD346IFgtWnaI"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 177194,
       "name": "El Malo",
       "url": "https://open.spotify.com/track/6mLX6uVPp6uLlBVim1rR82"
+    },
+    {
+      "added_at": "2022-08-03 18:59:26",
+      "album": {
+        "name": "Los Caminos de la Vida (Spotify Singles)",
+        "url": "https://open.spotify.com/album/1GdDkx6ATOjvmbi7AYDtq5"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 328115,
+      "name": "Los Caminos de la Vida - Spotify Singles",
+      "url": "https://open.spotify.com/track/0LPcBW66vudTxR0HcauKNy"
     },
     {
       "added_at": "2022-08-03 18:59:26",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2022-08-03 18:59:26",
       "album": {
-        "name": "El Concierto",
-        "url": "https://open.spotify.com/album/6efyUFJcUK18KRFTMoxNSI"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 152173,
-      "name": "Si Nos Dejan - En Vivo",
-      "url": "https://open.spotify.com/track/7nAvryV9PVCt9PQGPx7I0z"
-    },
-    {
-      "added_at": "2022-08-03 18:59:26",
-      "album": {
         "name": "En El Area De Sue\u00f1os",
         "url": "https://open.spotify.com/album/6pHjYeVeqfrhY7urDyaand"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 153266,
       "name": "Le Dije Al Coraz\u00f3n",
       "url": "https://open.spotify.com/track/23IJBnRVYyPd2GD0mAkZTp"
+    },
+    {
+      "added_at": "2022-08-03 18:59:26",
+      "album": {
+        "name": "El Concierto",
+        "url": "https://open.spotify.com/album/6efyUFJcUK18KRFTMoxNSI"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 152173,
+      "name": "Si Nos Dejan - En Vivo",
+      "url": "https://open.spotify.com/track/7nAvryV9PVCt9PQGPx7I0z"
     },
     {
       "added_at": "2022-08-03 18:59:26",

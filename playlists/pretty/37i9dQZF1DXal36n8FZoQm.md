@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXal36n8FZoQm.md) - [plain]
 
 > The official playlist for Cobra Kai\. Watch on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,515 likes - 143 songs - 8 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,682 likes - 143 songs - 8 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXal36n8FZoQm.md) - [plain]
 | 63 | [Ain't That A Kick In The Head](https://open.spotify.com/track/7fQ3PYTYdu208fQ3JEm2U7) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dean Martin: The Capitol Recordings, Vol\. 11 \(1960\-1961\)](https://open.spotify.com/album/3LGVxGRKwi4WfDnhMaBygF) | 2:27 |
 | 64 | [Black](https://open.spotify.com/track/2g6BvZlBNESRZKQkbXnTZh) | [Kari Kimmel](https://open.spotify.com/artist/6w5nIAeqFbZa9qssSwPsyn) | [Black](https://open.spotify.com/album/2bc07yF2kvHSFM3WmhqyaZ) | 3:51 |
 | 65 | [Kiss It](https://open.spotify.com/track/6fUI7AyEG8jXtpJqv0cvsJ) | [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up) | [ROCKISDEAD](https://open.spotify.com/album/5AYoffF42E0cgDuuNgzYir) | 2:33 |
-| 66 | [Lay It Down](https://open.spotify.com/track/3D5ORNm9spaTcdRx50ksHx) | [Ratt](https://open.spotify.com/artist/3tufWJzpCiAGleBt5TkmTn) | [Invasion of Privacy](https://open.spotify.com/album/7CzsLoFBEMElxviJoApcAI) | 3:25 |
+| 66 | [Lay It Down](https://open.spotify.com/track/3D5ORNm9spaTcdRx50ksHx) | [Ratt](https://open.spotify.com/artist/3tufWJzpCiAGleBt5TkmTn) | [Invasion of Your Privacy](https://open.spotify.com/album/7CzsLoFBEMElxviJoApcAI) | 3:25 |
 | 67 | [Live It Up \(Aaron Wayne Remix\)](https://open.spotify.com/track/6QGdefzRvTLXxTFkUyKTHu) | [Ali Pierre](https://open.spotify.com/artist/0HVFl59me8hw9a4mqQfks7) | [Live It Up](https://open.spotify.com/album/0vDYOAFOWUrlADVcS7nnJ4) | 5:28 |
 | 68 | [Round and Round](https://open.spotify.com/track/5B6Z7NwVqA7W3UFiqBdEJC) | [Ratt](https://open.spotify.com/artist/3tufWJzpCiAGleBt5TkmTn) | [Out of the Cellar](https://open.spotify.com/album/6P3Fqm7z9wr5GeatpVZ5ut) | 4:25 |
 | 69 | [Perm](https://open.spotify.com/track/1I6pKIyaBp4OebTGLJpCCC) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [24K Magic](https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA) | 3:30 |

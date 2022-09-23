@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVp4cWdnm5ws.md) - [plain]
 
 > Discover new artists on the horizon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,529 likes - 42 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,556 likes - 42 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

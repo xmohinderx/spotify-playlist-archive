@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 
 > Familiar hits that match your emotions while watching your favourite Korean movie or TV drama \(인기 있는 화제의 OST곡들을 즐겨보세요!\) \(커버: Little Women \(작은 아씨들\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,464,311 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,464,387 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 | 31 | [The Blue Night of Jeju Island](https://open.spotify.com/track/68OxmOeNzSDJnfB9QX6dzJ) | [Park Eunbin](https://open.spotify.com/artist/1ANiPe6RWnAKnfwORN5vxP) | [Extraordinary Attorney Woo \(Original Television Soundtrack\) Pt\. 6](https://open.spotify.com/album/37eokJCyqRxZfSuyMq1tEC) | 4:10 |
 | 32 | [Still with you](https://open.spotify.com/track/4qL1uZDOmVW5sgXi1IAOic) | [SU A](https://open.spotify.com/artist/72XqIIqjxuftxq8x5l0V9Y) | [Minamdang \(Original Television Soundtrack, Pt\. 7\)](https://open.spotify.com/album/2GIuXzkq4ta6ymxiFQuLgv) | 3:06 |
 | 33 | [오늘의 너](https://open.spotify.com/track/5lvvCgodu7FpPbtGB55vUi) | [O.WHEN](https://open.spotify.com/artist/7f5OHScUwC0ZKZzma5mMxq) | [오늘의 웹툰 \(Original Television Soundtrack\) Pt\. 3](https://open.spotify.com/album/6dmQsUekAewFhnzEi3jjFk) | 3:09 |
-| 34 | [Come and knock \- Guitar Version](https://open.spotify.com/track/5qCPZjRokTun8HvZ7pn4wp) | [임윤성](https://open.spotify.com/artist/3VNHUvK0rkFvmDNYEVrSLq) | [The Good Detective 2 \(Original Television Soundtrack, Pt\. 2\)](https://open.spotify.com/album/0sEHLcoPyJK61yiuonJCvp) | 3:49 |
+| 34 | [Come and knock \- Guitar Version](https://open.spotify.com/track/5qCPZjRokTun8HvZ7pn4wp) | [Im Yoon Seong](https://open.spotify.com/artist/3VNHUvK0rkFvmDNYEVrSLq) | [The Good Detective 2 \(Original Television Soundtrack, Pt\. 2\)](https://open.spotify.com/album/0sEHLcoPyJK61yiuonJCvp) | 3:49 |
 | 35 | [Darling You](https://open.spotify.com/track/3j4QD9uSev2Uh1DeFMdMml) | [Bernard Park](https://open.spotify.com/artist/53Yqe3arWNbYQCw4kk1Qmv) | [ADAMAS, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/6dYluyaRdoGCOONJcEOa1k) | 2:29 |
 | 36 | [I like you](https://open.spotify.com/track/0X5xuP3hkIMo86LpTCFGdb) | [Seo In Guk](https://open.spotify.com/artist/433F0GjVZRnsjP8ztGEso1) | [Minamdang \(Original Television Soundtrack, Pt\. 6\)](https://open.spotify.com/album/2zIS0T0Kegw9sOh0YQXxqF) | 2:58 |
 | 37 | [Dear, Beloved \- Original Version](https://open.spotify.com/track/5AwhDE42bfgFw9Nm5iv66T) | [HYOJUNG](https://open.spotify.com/artist/6seuyGQ3Fq56sS06YVPsOk) | [Dear X Who Doesn't Love Me, Pt\. 5 \(Original Soundtrack\)](https://open.spotify.com/album/3ydjTxtIV74JPcsXff9hoh) | 3:23 |
@@ -97,7 +97,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 | 87 | [My Shadow](https://open.spotify.com/track/1Kxf9FrJeecsgDZrmjGaQR) | [Leeraon](https://open.spotify.com/artist/5FsMBpsPFTzURDjb2T3ane) | [DOCTOR LAWYER \(Original Television Soundtrack, Pt\. 4\)](https://open.spotify.com/album/5wbiV5vX7IQMkhtwsdmA2U) | 3:39 |
 | 88 | [FREE SMILE](https://open.spotify.com/track/1TEv7OolmCRlF8TuZiNczt) | [Lee Hyori](https://open.spotify.com/artist/4FjoOJAndC0s9ZJUo6VGc5), [Lee Chan Hyuk](https://open.spotify.com/artist/4RkTSLr5Qf79FfUkeaDKbl) | [Seoul Check\-in OST Part 10](https://open.spotify.com/album/7oCrCB3pOE6zMjHLqnr1r9) | 3:21 |
 | 89 | [Pit a Pat](https://open.spotify.com/track/5bmr4XB9X2QQPpnrY6PwwZ) | [SEUNGKWAN](https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6) | [Link: Eat, Love, Kill \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/2Hp9GqzPYOzPV4nkJ0iKVr) | 3:32 |
-| 90 | [Howling](https://open.spotify.com/track/3aoxA2eTxDjhi3Gxqcs14V) | [임윤성](https://open.spotify.com/artist/3VNHUvK0rkFvmDNYEVrSLq) | [Insider \(Original Television Soundtrack, Pt\. 1\)](https://open.spotify.com/album/1F9iWEozvamdo7yGTaC3PT) | 3:22 |
+| 90 | [Howling](https://open.spotify.com/track/3aoxA2eTxDjhi3Gxqcs14V) | [Im Yoon Seong](https://open.spotify.com/artist/3VNHUvK0rkFvmDNYEVrSLq) | [Insider \(Original Television Soundtrack, Pt\. 1\)](https://open.spotify.com/album/1F9iWEozvamdo7yGTaC3PT) | 3:22 |
 | 91 | [Alright](https://open.spotify.com/track/19HAqd06VADSJFguM6JFFl) | [Jeong Dong Won](https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki), [Basick](https://open.spotify.com/artist/7pXKdkQsYFCMG2omRxheJ2) | [Never give up, Pt\. 10 \(Original Soundtrack\)](https://open.spotify.com/album/4DWoV8Joe6UltzCi5kOXYp) | 3:12 |
 | 92 | [Listen](https://open.spotify.com/track/2jL5xA9FZ6zSDrcs6oN7q6) | [Jeong Yubin](https://open.spotify.com/artist/3hTlITCaMAJYlwQpcUv1hl) | [Don't let her know about his death \(Original Television Soundtrack\) \(O'PENing\)](https://open.spotify.com/album/0aq1s8VohaT2dUHBp2yBwl) | 4:06 |
 | 93 | [Swing](https://open.spotify.com/track/23EXTMJ9rKLNJl6uPBoTbV) | [KIMMUSEUM](https://open.spotify.com/artist/1NVRvV0KqaO7VtSaVQcm3V) | [Link: Eat, Love, Kill \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/4sAFREAhjZaXjDY6zx4UQ1) | 3:44 |

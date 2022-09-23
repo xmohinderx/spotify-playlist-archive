@@ -1,12 +1,12 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 4346,
+  "num_followers": 4360,
   "original_name": "\uc378",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjM5MzExMiwwMDAwMDAwMDQyODA1NWQxMzU5ZmFmNmI4ZmVkYzg4NzEwMzMxNGE5",
+  "snapshot_id": "MTY2MjM5MzExMiwwMDAwMDAwMDg4NGM4MjQyZTllMDNiZDQxNjVjZDc3ZDZmYTQ5ODRl",
   "tracks": [
     {
       "added_at": "2022-09-05 15:51:52",
@@ -159,18 +159,18 @@
     {
       "added_at": "2022-09-05 15:51:52",
       "album": {
-        "name": "5.3 (Gradation)",
-        "url": "https://open.spotify.com/album/4uqihIyXomdsr6ttzYwKjG"
+        "name": "Kiss",
+        "url": "https://open.spotify.com/album/3XLwYEV8JxiKrzL1IJOQhg"
       },
       "artists": [
         {
-          "name": "10cm",
-          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
         }
       ],
-      "duration_ms": 201280,
-      "name": "Gradation",
-      "url": "https://open.spotify.com/track/775S83AMYbQc8SYteOktTL"
+      "duration_ms": 186573,
+      "name": "Kiss",
+      "url": "https://open.spotify.com/track/3pNcAmfGXKeKvsSG2h1teI"
     },
     {
       "added_at": "2022-09-05 15:51:52",
@@ -195,18 +195,18 @@
     {
       "added_at": "2022-09-05 15:51:52",
       "album": {
-        "name": "Kiss",
-        "url": "https://open.spotify.com/album/3XLwYEV8JxiKrzL1IJOQhg"
+        "name": "5.3 (Gradation)",
+        "url": "https://open.spotify.com/album/4uqihIyXomdsr6ttzYwKjG"
       },
       "artists": [
         {
-          "name": "NMIXX",
-          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+          "name": "10cm",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
         }
       ],
-      "duration_ms": 186573,
-      "name": "Kiss",
-      "url": "https://open.spotify.com/track/3pNcAmfGXKeKvsSG2h1teI"
+      "duration_ms": 201280,
+      "name": "Gradation",
+      "url": "https://open.spotify.com/track/775S83AMYbQc8SYteOktTL"
     },
     {
       "added_at": "2022-09-05 15:51:52",
@@ -279,6 +279,22 @@
     {
       "added_at": "2022-09-05 15:51:52",
       "album": {
+        "name": "START-UP (Original Television Soundtrack) Pt. 6",
+        "url": "https://open.spotify.com/album/7wzFqr0yCbjdcjjKpfBi1B"
+      },
+      "artists": [
+        {
+          "name": "10cm",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "duration_ms": 183320,
+      "name": "Where Is Dream",
+      "url": "https://open.spotify.com/track/1hFOLJ9bQfZu3tlbHaLCGf"
+    },
+    {
+      "added_at": "2022-09-05 15:51:52",
+      "album": {
         "name": "Do you want to walk with me? (Romance 101 X Jukjae)",
         "url": "https://open.spotify.com/album/6Mt17o8mnGYTu8jryXZaZX"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 182266,
       "name": "Can you stay",
       "url": "https://open.spotify.com/track/3tSvYzpDRQI9uYPrB8W6tj"
-    },
-    {
-      "added_at": "2022-09-05 15:51:52",
-      "album": {
-        "name": "START-UP (Original Television Soundtrack) Pt. 6",
-        "url": "https://open.spotify.com/album/7wzFqr0yCbjdcjjKpfBi1B"
-      },
-      "artists": [
-        {
-          "name": "10cm",
-          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
-        }
-      ],
-      "duration_ms": 183320,
-      "name": "Where Is Dream",
-      "url": "https://open.spotify.com/track/1hFOLJ9bQfZu3tlbHaLCGf"
     },
     {
       "added_at": "2022-09-05 15:51:52",
@@ -379,22 +379,6 @@
     {
       "added_at": "2022-09-05 15:51:52",
       "album": {
-        "name": "After School Lessons for Unripe Apples (Original Webcomic Soundtrack) Pt.2",
-        "url": "https://open.spotify.com/album/6y8QtlbcnxTnBt1Sd4S4bS"
-      },
-      "artists": [
-        {
-          "name": "KIHYUN",
-          "url": "https://open.spotify.com/artist/52MWHSohXVqTyGhBPRJepS"
-        }
-      ],
-      "duration_ms": 204013,
-      "name": "IS THIS LOVE",
-      "url": "https://open.spotify.com/track/7ssHGorhA1RFETKIufBFht"
-    },
-    {
-      "added_at": "2022-09-05 15:51:52",
-      "album": {
         "name": "San E, Raina Project Single 'A midsummer night's sweetness'",
         "url": "https://open.spotify.com/album/1srZhGQymoN6YQksduox2J"
       },
@@ -415,18 +399,18 @@
     {
       "added_at": "2022-09-05 15:51:52",
       "album": {
-        "name": "CYAN",
-        "url": "https://open.spotify.com/album/54mKbSh20yke318bPZMsjb"
+        "name": "After School Lessons for Unripe Apples (Original Webcomic Soundtrack) Pt.2",
+        "url": "https://open.spotify.com/album/6y8QtlbcnxTnBt1Sd4S4bS"
       },
       "artists": [
         {
-          "name": "KANGDANIEL",
-          "url": "https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW"
+          "name": "KIHYUN",
+          "url": "https://open.spotify.com/artist/52MWHSohXVqTyGhBPRJepS"
         }
       ],
-      "duration_ms": 195253,
-      "name": "2U",
-      "url": "https://open.spotify.com/track/00S4PrcWUb3f3dQ9PuC0uy"
+      "duration_ms": 204013,
+      "name": "IS THIS LOVE",
+      "url": "https://open.spotify.com/track/7ssHGorhA1RFETKIufBFht"
     },
     {
       "added_at": "2022-09-05 15:51:52",
@@ -443,6 +427,22 @@
       "duration_ms": 203425,
       "name": "so this is love",
       "url": "https://open.spotify.com/track/18xXVZwosvArMOJOs7wd6S"
+    },
+    {
+      "added_at": "2022-09-05 15:51:52",
+      "album": {
+        "name": "CYAN",
+        "url": "https://open.spotify.com/album/54mKbSh20yke318bPZMsjb"
+      },
+      "artists": [
+        {
+          "name": "KANGDANIEL",
+          "url": "https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW"
+        }
+      ],
+      "duration_ms": 195253,
+      "name": "2U",
+      "url": "https://open.spotify.com/track/00S4PrcWUb3f3dQ9PuC0uy"
     },
     {
       "added_at": "2022-09-05 15:51:52",
@@ -527,6 +527,22 @@
     {
       "added_at": "2022-09-05 15:51:52",
       "album": {
+        "name": "Why isn't love always easy? (Romance 101 X JOY)",
+        "url": "https://open.spotify.com/album/5CGt6ALaaHUzCHtbqhpDJi"
+      },
+      "artists": [
+        {
+          "name": "JOY",
+          "url": "https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub"
+        }
+      ],
+      "duration_ms": 221040,
+      "name": "Why isn't love always easy? (Romance 101 X JOY)",
+      "url": "https://open.spotify.com/track/0i2zK59gngO1kHTnq9Hvp8"
+    },
+    {
+      "added_at": "2022-09-05 15:51:52",
+      "album": {
         "name": "UH-RA? with KozyPop",
         "url": "https://open.spotify.com/album/7JWfmdSg7VBvgi2gQA9Xib"
       },
@@ -551,22 +567,6 @@
     {
       "added_at": "2022-09-05 15:51:52",
       "album": {
-        "name": "Why isn't love always easy? (Romance 101 X JOY)",
-        "url": "https://open.spotify.com/album/5CGt6ALaaHUzCHtbqhpDJi"
-      },
-      "artists": [
-        {
-          "name": "JOY",
-          "url": "https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub"
-        }
-      ],
-      "duration_ms": 221040,
-      "name": "Why isn't love always easy? (Romance 101 X JOY)",
-      "url": "https://open.spotify.com/track/0i2zK59gngO1kHTnq9Hvp8"
-    },
-    {
-      "added_at": "2022-09-05 15:51:52",
-      "album": {
         "name": "Under the Oak Tree (Original Soundtrack), Part. 4",
         "url": "https://open.spotify.com/album/5zJVeHgHrwJ3m24sSMSrTV"
       },
@@ -583,6 +583,22 @@
       "duration_ms": 192493,
       "name": "Telepathy",
       "url": "https://open.spotify.com/track/1xbxSb7zTHysqWZmjFdJ2n"
+    },
+    {
+      "added_at": "2022-09-05 15:51:52",
+      "album": {
+        "name": "Losing Sleep Over You",
+        "url": "https://open.spotify.com/album/5cWr6GGTuK2eWAjN8EkUxi"
+      },
+      "artists": [
+        {
+          "name": "Punch",
+          "url": "https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm"
+        }
+      ],
+      "duration_ms": 181266,
+      "name": "Losing Sleep Over You",
+      "url": "https://open.spotify.com/track/1T9QufIPBQTW36Z1oNxrks"
     },
     {
       "added_at": "2022-09-05 15:51:52",
@@ -607,18 +623,18 @@
     {
       "added_at": "2022-09-05 15:51:52",
       "album": {
-        "name": "Losing Sleep Over You",
-        "url": "https://open.spotify.com/album/5cWr6GGTuK2eWAjN8EkUxi"
+        "name": "Our Love is Great",
+        "url": "https://open.spotify.com/album/6o7uJmwJP40A8lllMXk8MW"
       },
       "artists": [
         {
-          "name": "Punch",
-          "url": "https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm"
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
         }
       ],
-      "duration_ms": 181266,
-      "name": "Losing Sleep Over You",
-      "url": "https://open.spotify.com/track/1T9QufIPBQTW36Z1oNxrks"
+      "duration_ms": 224726,
+      "name": "See You Again",
+      "url": "https://open.spotify.com/track/389DRP9O3ftN8r7QZxcUX0"
     },
     {
       "added_at": "2022-09-05 15:51:52",
@@ -643,38 +659,6 @@
     {
       "added_at": "2022-09-05 15:51:52",
       "album": {
-        "name": "Pong Dang",
-        "url": "https://open.spotify.com/album/1pFgxq13Tw9ZU7owb3BTP2"
-      },
-      "artists": [
-        {
-          "name": "CHEEZE",
-          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
-        }
-      ],
-      "duration_ms": 233026,
-      "name": "Pong Dang",
-      "url": "https://open.spotify.com/track/1z4RuGHHajj2eRK8IMbxMw"
-    },
-    {
-      "added_at": "2022-09-05 15:51:52",
-      "album": {
-        "name": "Our Love is Great",
-        "url": "https://open.spotify.com/album/6o7uJmwJP40A8lllMXk8MW"
-      },
-      "artists": [
-        {
-          "name": "Yerin Baek",
-          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
-        }
-      ],
-      "duration_ms": 224726,
-      "name": "See You Again",
-      "url": "https://open.spotify.com/track/389DRP9O3ftN8r7QZxcUX0"
-    },
-    {
-      "added_at": "2022-09-05 15:51:52",
-      "album": {
         "name": "Tattoo",
         "url": "https://open.spotify.com/album/6bj3FAvqE5M3tfANem3X08"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 189093,
       "name": "Tattoo",
       "url": "https://open.spotify.com/track/3B4AOfW6nDbCPb1pIEczJQ"
+    },
+    {
+      "added_at": "2022-09-05 15:51:52",
+      "album": {
+        "name": "Pong Dang",
+        "url": "https://open.spotify.com/album/1pFgxq13Tw9ZU7owb3BTP2"
+      },
+      "artists": [
+        {
+          "name": "CHEEZE",
+          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
+        }
+      ],
+      "duration_ms": 233026,
+      "name": "Pong Dang",
+      "url": "https://open.spotify.com/track/1z4RuGHHajj2eRK8IMbxMw"
     },
     {
       "added_at": "2022-09-05 15:51:52",
@@ -843,22 +843,6 @@
     {
       "added_at": "2022-09-05 15:51:52",
       "album": {
-        "name": "Oh My Boy",
-        "url": "https://open.spotify.com/album/3wB6o7osE6fIGUBNG4dk1F"
-      },
-      "artists": [
-        {
-          "name": "KWON EUN BI",
-          "url": "https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm"
-        }
-      ],
-      "duration_ms": 183853,
-      "name": "Oh My Boy",
-      "url": "https://open.spotify.com/track/3qsxjwVRHAu69j7LoglBEz"
-    },
-    {
-      "added_at": "2022-09-05 15:51:52",
-      "album": {
         "name": "algorithm",
         "url": "https://open.spotify.com/album/70sbsUFZH7F476QOof1pw6"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 129619,
       "name": "algorithm (prod. edenbyeden)",
       "url": "https://open.spotify.com/track/27zb6pgYkmgpeD4kLNPdBQ"
+    },
+    {
+      "added_at": "2022-09-05 15:51:52",
+      "album": {
+        "name": "Oh My Boy",
+        "url": "https://open.spotify.com/album/3wB6o7osE6fIGUBNG4dk1F"
+      },
+      "artists": [
+        {
+          "name": "KWON EUN BI",
+          "url": "https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm"
+        }
+      ],
+      "duration_ms": 183853,
+      "name": "Oh My Boy",
+      "url": "https://open.spotify.com/track/3qsxjwVRHAu69j7LoglBEz"
     }
   ],
   "unique_name": "\uc378",

@@ -1,12 +1,12 @@
 {
   "description": "Get ready to sing your hearts out with these family friendly road trip classics.",
-  "num_followers": 456631,
+  "num_followers": 456796,
   "original_name": "Family Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDc1MDczNSwwMDAwMDAwMDA4N2I3YmJjZmVjY2U5NTFlMWIxMTk3ODQ4ZDEyYjE5",
+  "snapshot_id": "MTY2MDc1MDczNSwwMDAwMDAwMDRjYzE2NjU0YWZlMjE0YWFiYWE4YzA2YTRjNjJkNjRk",
   "tracks": [
     {
       "added_at": "2022-08-17 15:38:55",
@@ -335,22 +335,6 @@
     {
       "added_at": "2022-08-17 15:38:55",
       "album": {
-        "name": "Full Moon Fever",
-        "url": "https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty",
-          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "Free Fallin'",
-      "url": "https://open.spotify.com/track/5tVA6TkbaAH9QMITTQRrNv"
-    },
-    {
-      "added_at": "2022-08-17 15:38:55",
-      "album": {
         "name": "(What's The Story) Morning Glory? (Deluxe Remastered Edition)",
         "url": "https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 258773,
       "name": "Wonderwall - Remastered",
       "url": "https://open.spotify.com/track/7ygpwy2qP3NbrxVkHvUhXY"
+    },
+    {
+      "added_at": "2022-08-17 15:38:55",
+      "album": {
+        "name": "Full Moon Fever",
+        "url": "https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty",
+          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "Free Fallin'",
+      "url": "https://open.spotify.com/track/5tVA6TkbaAH9QMITTQRrNv"
     },
     {
       "added_at": "2022-08-17 15:38:55",
@@ -879,22 +879,6 @@
     {
       "added_at": "2022-08-17 15:38:55",
       "album": {
-        "name": "Some Gave All",
-        "url": "https://open.spotify.com/album/2Rh2JyaBjJwPMFR9Dl60nV"
-      },
-      "artists": [
-        {
-          "name": "Billy Ray Cyrus",
-          "url": "https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa"
-        }
-      ],
-      "duration_ms": 203373,
-      "name": "Achy Breaky Heart",
-      "url": "https://open.spotify.com/track/2EoIt9vdgFRNW03u5IvFsQ"
-    },
-    {
-      "added_at": "2022-08-17 15:38:55",
-      "album": {
         "name": "Golden Hour",
         "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 219053,
       "name": "Butterflies",
       "url": "https://open.spotify.com/track/30VHURM5NOfoZmqp2iKawS"
+    },
+    {
+      "added_at": "2022-08-17 15:38:55",
+      "album": {
+        "name": "Some Gave All",
+        "url": "https://open.spotify.com/album/2Rh2JyaBjJwPMFR9Dl60nV"
+      },
+      "artists": [
+        {
+          "name": "Billy Ray Cyrus",
+          "url": "https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa"
+        }
+      ],
+      "duration_ms": 203373,
+      "name": "Achy Breaky Heart",
+      "url": "https://open.spotify.com/track/2EoIt9vdgFRNW03u5IvFsQ"
     },
     {
       "added_at": "2022-08-17 15:38:55",

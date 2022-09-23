@@ -1,12 +1,12 @@
 {
   "description": "Las mejores nuevas canciones cristianas.  Foto: Anmily Brown",
-  "num_followers": 106792,
+  "num_followers": 106838,
   "original_name": "Novedades Cristianas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMxNjk0MywwMDAwMDAwMDQ1MTIwMDQyMGMwZTJjYTgwZTU0MGQ3MzVhMjlhODBl",
+  "snapshot_id": "MTY2MzMxNjk0MywwMDAwMDAwMDc1YzU4NTExOTViNmY5MTdkOGNkNzQzYzA3ZjQ4NjIx",
   "tracks": [
     {
       "added_at": "2022-09-16 08:29:03",
@@ -1075,26 +1075,6 @@
     {
       "added_at": "2022-09-16 08:29:03",
       "album": {
-        "name": "Con Qu\u00e9 Pagar\u00e9?",
-        "url": "https://open.spotify.com/album/5SOg5hB6NprWFePQ4uRcn7"
-      },
-      "artists": [
-        {
-          "name": "Pablo Martinez",
-          "url": "https://open.spotify.com/artist/5IirgPwhfjHp6MDFXbLRdz"
-        },
-        {
-          "name": "Crist\u00f3bal Fones, Sj",
-          "url": "https://open.spotify.com/artist/4Jqs0PJ4Q5gmz1WzS1OUHk"
-        }
-      ],
-      "duration_ms": 212125,
-      "name": "Con Qu\u00e9 Pagar\u00e9?",
-      "url": "https://open.spotify.com/track/2LKYoKY35J9bd69QLbGOoG"
-    },
-    {
-      "added_at": "2022-09-16 08:29:03",
-      "album": {
         "name": "Visi\u00f3n Juvenil - EP (En Vivo)",
         "url": "https://open.spotify.com/album/2gZml9TloSkU0idJyvJUFA"
       },
@@ -1127,6 +1107,26 @@
       "duration_ms": 191186,
       "name": "158",
       "url": "https://open.spotify.com/track/2r6TFHq0fbHY0WExjjAkAN"
+    },
+    {
+      "added_at": "2022-09-16 08:29:03",
+      "album": {
+        "name": "Con Qu\u00e9 Pagar\u00e9?",
+        "url": "https://open.spotify.com/album/5SOg5hB6NprWFePQ4uRcn7"
+      },
+      "artists": [
+        {
+          "name": "Pablo Martinez",
+          "url": "https://open.spotify.com/artist/5IirgPwhfjHp6MDFXbLRdz"
+        },
+        {
+          "name": "Crist\u00f3bal Fones, Sj",
+          "url": "https://open.spotify.com/artist/4Jqs0PJ4Q5gmz1WzS1OUHk"
+        }
+      ],
+      "duration_ms": 212125,
+      "name": "Con Qu\u00e9 Pagar\u00e9?",
+      "url": "https://open.spotify.com/track/2LKYoKY35J9bd69QLbGOoG"
     },
     {
       "added_at": "2022-09-16 08:29:03",

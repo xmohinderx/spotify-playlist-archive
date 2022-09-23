@@ -4,7 +4,7 @@
 
 > Soft and calm renditions of songs for harp.
 
-156 songs - 4 hr 14 min - [published](https://open.spotify.com/playlist/5s5aESIlnEiqencTr1QRMW)
+158 songs - 4 hr 18 min - [published](https://open.spotify.com/playlist/5s5aESIlnEiqencTr1QRMW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Hush My Little Angel](https://open.spotify.com/track/7LTCWsNXdsc0dtAQ570WLn) | [Elliot Adasik](https://open.spotify.com/artist/0ygQ1CuZpZqv6dsdnIl3wL) | [You Are My Sunshine](https://open.spotify.com/album/0nKXkJyhxjkkCspsLGHyz5) | 2:17 | 2021-11-11 | 2022-06-11 |
 | [I Can't Help Falling In Love \- Harp](https://open.spotify.com/track/6ufNUNeLxtMKI99EmZbG0p) | [Chloe Hulme](https://open.spotify.com/artist/547PuusQ4w9ybqTNLkI4Nu) | [I Can't Help Falling In Love](https://open.spotify.com/album/67udOFmO7YqGWCIJFqo88w) | 1:59 | 2022-05-17 |  |
 | [I Don't Like Peas](https://open.spotify.com/track/0fm4S3aLlxvh1viBe47osX) | [Peggy Buggs](https://open.spotify.com/artist/6JZRlIGBEp56gHX94QzpQe) | [I Don't Like Peas](https://open.spotify.com/album/2dam7lg2R9iMIAEZ72Vo0t) | 1:22 | 2021-11-11 |  |
+| [I Will Wait](https://open.spotify.com/track/1R6EvIkbjBXKdEgShye32j) | [Ratko Zrala](https://open.spotify.com/artist/1tuQN6hzZ7Nkifi8fTv8jQ) | [I Will Wait](https://open.spotify.com/album/3TNUI0JGMaGJas6FjahFY9) | 2:33 | 2022-09-22 |  |
 | [Idas sommarvisa](https://open.spotify.com/track/6EtjH6yR0XIHAY0PXRd65U) | [Josefine Wennman](https://open.spotify.com/artist/4Iz7MgZBYGsZzFr3gVamSc) | [Idas sommarvisa](https://open.spotify.com/album/6QTrbS5qBgNVXmfXdllD2O) | 2:29 | 2021-11-11 |  |
 | [If all the stars](https://open.spotify.com/track/6qdsdpkntWpvn6vsgdwcXY) | [Ford Ripley](https://open.spotify.com/artist/6WLptfkrV9byJX74bdV2x9) | [If all the stars](https://open.spotify.com/album/27s25kTVun2NPwD2b3oSOD) | 1:45 | 2021-11-11 |  |
 | [If You Can't Fall Asleep](https://open.spotify.com/track/2OzYkqvv0gWeNn2fuI4BJx) | [Callie Berger](https://open.spotify.com/artist/6oE1DSOeQTgGMvLpFVnnjs) | [If You Can't Fall Asleep](https://open.spotify.com/album/7iI7Oz1jT9b1dkaWlb3qJC) | 1:47 | 2022-07-29 |  |
@@ -159,6 +160,7 @@
 | [When I Close My Eyes](https://open.spotify.com/track/7luR1726Cf9Wgt4Q3yljOF) | [Dodie Little](https://open.spotify.com/artist/6sE8hcdC14rNNo1NXuQ8sy) | [My Best Friend Bob](https://open.spotify.com/album/0omMrAr8zSXzokTTBqyM4Q) | 1:33 | 2021-11-11 |  |
 | [When You're Close](https://open.spotify.com/track/1dKbvhGqWVJA57xL2mHeg2) | [Amilia Weldon](https://open.spotify.com/artist/1514uPuTa2Z6370suTHi8O) | [When You're Close](https://open.spotify.com/album/5RmuqdBHiNMVckkLWS2tpP) | 2:02 | 2021-11-11 |  |
 | [White Pyjamas](https://open.spotify.com/track/2dsE2HXXX88x38idJQ6Nhh) | [Tyler Abney](https://open.spotify.com/artist/4eMNLIDXtUKtztNhEVr8tY) | [White Pyjamas](https://open.spotify.com/album/7E1S7PPtG3jSPfOkV92QZL) | 1:31 | 2021-11-11 |  |
+| [White Winter Hymnal](https://open.spotify.com/track/430vTXvfipiOzgWFAkfNDB) | [Espen Ahl](https://open.spotify.com/artist/6s99Zvn7tubqMmfawFW3vW) | [White Winter Hymnal](https://open.spotify.com/album/3hR33q1nVK9ENI5WXxtcWf) | 2:20 | 2022-09-22 |  |
 | [With My Toes In The Lake](https://open.spotify.com/track/6K8gN2HJJbeRSHnawuyAHl) | [Dodie Little](https://open.spotify.com/artist/6sE8hcdC14rNNo1NXuQ8sy) | [With My Toes In The Lake](https://open.spotify.com/album/1ROYUuVzjEENXzPTwD8MBf) | 1:37 | 2022-07-01 |  |
 | [With You By My Side](https://open.spotify.com/track/6UFjCV3KcMHjq4J96IVXrL) | [Brook Wilkie](https://open.spotify.com/artist/06YJLPH6EiVH60sOmPBszs) | [With You By My Side](https://open.spotify.com/album/4JTWjznbMaz9ALtqE4LLAw) | 1:48 | 2022-04-26 |  |
 | [Your Dreams](https://open.spotify.com/track/0FKZ7aqBOZT6ZW8cP1fnaC) | [Byrne Freeman](https://open.spotify.com/artist/09NXPHIx4m5wvbplZ11jvF) | [Your Dreams](https://open.spotify.com/album/1wcNjc21IasZBk76lYt5NZ) | 1:23 | 2021-11-11 |  |

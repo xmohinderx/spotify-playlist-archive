@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4lunzhQdRx.md) - [plain]
 
 > cry just a little
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,945 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,077 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4lunzhQdRx.md) - [plain]
 | 15 | [Try Losing One](https://open.spotify.com/track/6mDokQBBmkDhu7uDEFhyQ7) | [Tyler Braden](https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N) | [What Do They Know](https://open.spotify.com/album/0NR3FJJhD27XgurmHEQHY0) | 3:39 |
 | 16 | [Record Year](https://open.spotify.com/track/5fSPbm5lcwtqwXkeQQswW8) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Mr\. Misunderstood](https://open.spotify.com/album/1QIZsTZrZdQwQ9QJnFoFao) | 2:59 |
 | 17 | [More Hearts Than Mine](https://open.spotify.com/track/60RFlt48hm0l4Fu0JoccOl) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Lady Like](https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl) | 3:34 |
-| 18 | [Strawberry Wine](https://open.spotify.com/track/5Pgwi0iizu96RHxJ4xL3SH) | [Deana Carter](https://open.spotify.com/artist/0aqrM7Fo3Ml66Kc5JAzmjt) | [Did I Shave My Legs For This?](https://open.spotify.com/album/3rVrwVrTgiFmCBZCmYBryn) | 4:51 |
-| 19 | [Flower Shops \(feat\. Morgan Wallen\)](https://open.spotify.com/track/0De9jFjJ4eRLl7Yww2eBw1) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [FLOWER SHOPS \(THE ALBUM\)](https://open.spotify.com/album/5mTNFZBZyKIZSYrIAf9c5L) | 3:34 |
+| 18 | [Flower Shops \(feat\. Morgan Wallen\)](https://open.spotify.com/track/0De9jFjJ4eRLl7Yww2eBw1) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [FLOWER SHOPS \(THE ALBUM\)](https://open.spotify.com/album/5mTNFZBZyKIZSYrIAf9c5L) | 3:34 |
+| 19 | [Strawberry Wine](https://open.spotify.com/track/5Pgwi0iizu96RHxJ4xL3SH) | [Deana Carter](https://open.spotify.com/artist/0aqrM7Fo3Ml66Kc5JAzmjt) | [Did I Shave My Legs For This?](https://open.spotify.com/album/3rVrwVrTgiFmCBZCmYBryn) | 4:51 |
 | 20 | [Break Up in the End](https://open.spotify.com/track/5Z19ylxppfnfdP4JH0u8oj) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [All of It](https://open.spotify.com/album/2SxBuClrOCg8WZPXEDobmm) | 3:19 |
 | 21 | [Landslide](https://open.spotify.com/track/5hviCr3lgg6LY6noG6DPKs) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Home](https://open.spotify.com/album/1zgQkZFMRqx1Lz9GVXghLt) | 3:50 |
 | 22 | [Back To December](https://open.spotify.com/track/3DrjZArsPsoqbLzUZZV1Id) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now](https://open.spotify.com/album/5MfAxS5zz8MlfROjGQVXhy) | 4:53 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4lunzhQdRx.md) - [plain]
 | 46 | [Merry Go 'Round](https://open.spotify.com/track/5UDqWOgDdixYMAgAyNbpgh) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Same Trailer Different Park](https://open.spotify.com/album/6IGpQUt0KNi5rBUXZZOFI6) | 3:26 |
 | 47 | [Breakups](https://open.spotify.com/track/77Bt2DXJE1R1qsnm4D10Ox) | [Seaforth](https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG) | [Breakups](https://open.spotify.com/album/59PZ1sBuiJjiLLL5qCvoua) | 3:43 |
 | 48 | [Every Little Thing](https://open.spotify.com/track/2wxfu24GQpEZQrjDJm5Ac1) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Every Little Thing](https://open.spotify.com/album/4CXTL0OFQqpn4LCBDvRDdu) | 3:00 |
-| 49 | [If You Have To](https://open.spotify.com/track/5aWxPjDd4ZfpsmDoeR1plq) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [If You Have To](https://open.spotify.com/album/31jtMX7GvPB6gtQBCGA6xL) | 3:19 |
-| 50 | [Hair Salon](https://open.spotify.com/track/04jS8ttbCZdesbAhbOmMzG) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Hair Salon](https://open.spotify.com/album/3R5YoSrkdqrE5tvYgfKl0E) | 3:44 |
+| 49 | [Hair Salon](https://open.spotify.com/track/04jS8ttbCZdesbAhbOmMzG) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Hair Salon](https://open.spotify.com/album/3R5YoSrkdqrE5tvYgfKl0E) | 3:44 |
+| 50 | [If You Have To](https://open.spotify.com/track/5aWxPjDd4ZfpsmDoeR1plq) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [If You Have To](https://open.spotify.com/album/31jtMX7GvPB6gtQBCGA6xL) | 3:19 |
 
-Snapshot ID: `MTY2MzAzMDMwNSwwMDAwMDAwMDAzM2Y3ZDkyZGRjNmRkN2E3MTBkN2U4ZDM4NzYzYmY5`
+Snapshot ID: `MTY2MzAzMDMwNSwwMDAwMDAwMGE2YjQzMWZhMjIyYjhmZGM1YTRmODE0NjM5MzM0MWQx`

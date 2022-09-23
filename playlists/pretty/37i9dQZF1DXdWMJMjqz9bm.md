@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 
 > A little bit of pop, a little bit of rap\. Cover: Arden Jones
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,604 likes - 96 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,705 likes - 96 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

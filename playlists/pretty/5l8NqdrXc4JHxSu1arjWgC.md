@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 
 > 
 
-[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 3,680 likes - 652 songs - 1 day 19 hr 49 min
+[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 3,679 likes - 652 songs - 1 day 19 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -406,7 +406,7 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 | 396 | [Zero \- Remastered 2012](https://open.spotify.com/track/4YFcGTdgmEuw8xTO4XrxbB) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Mellon Collie And The Infinite Sadness \(Deluxe Edition\)](https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV) | 2:40 |
 | 397 | [Wot's...Uh the Deal](https://open.spotify.com/track/6zGFOp6rJZbYSp9DQO5AHY) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Obscured by Clouds](https://open.spotify.com/album/00BBpx0gG4KfQtxSJBPKUZ) | 5:09 |
 | 398 | [Shine A Little Light](https://open.spotify.com/track/365TSrFPqM66giaxJuafR3) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | ["Let's Rock"](https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg) | 3:16 |
-| 399 | [Would?](https://open.spotify.com/track/5sFDReWLrZHLFZFjHsjUTS) | [Alice In Chains](https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL) | [Dirt](https://open.spotify.com/album/58NXIEYqmq5dQHg9nV9duM) | 3:26 |
+| 399 | [Would? \(2022 Remaster\)](https://open.spotify.com/track/5sFDReWLrZHLFZFjHsjUTS) | [Alice In Chains](https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL) | [Dirt \(2022 Remaster\)](https://open.spotify.com/album/58NXIEYqmq5dQHg9nV9duM) | 3:26 |
 | 400 | [Not The News](https://open.spotify.com/track/7ypjELqhyUT3BBCws8kzKN) | [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau) | [ANIMA](https://open.spotify.com/album/1g4vEVvVVFvFju0gS0DMbh) | 3:57 |
 | 401 | [Help Me Stranger](https://open.spotify.com/track/4psuSgzXAkabslCkqWHoO6) | [The Raconteurs](https://open.spotify.com/artist/4wo1267SJuUfHgasdlfNfc) | [Help Us Stranger](https://open.spotify.com/album/12rfrkN4eZOpmJUmVzE84M) | 3:36 |
 | 402 | [Toreador](https://open.spotify.com/track/18fszHHqwRGC4oEO7U7IfN) | [Band Of Skulls](https://open.spotify.com/artist/4ddt8PPvmWrI9mJQy1VrIG) | [Himalayan](https://open.spotify.com/album/4XWbfiTYAP828RXQmkEkUd) | 4:00 |

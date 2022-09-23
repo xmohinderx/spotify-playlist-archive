@@ -4,7 +4,7 @@
 
 > The best music from one of the greatest jazz labels.
 
-103 songs - 10 hr 26 min - [published](https://open.spotify.com/playlist/33onHXtD6FTnm9jpuazHYx)
+104 songs - 10 hr 30 min - [published](https://open.spotify.com/playlist/33onHXtD6FTnm9jpuazHYx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,11 +23,12 @@
 | [Blue Waters](https://open.spotify.com/track/6JAPBVoA5bpYtPnjOztCuh) | [Kenny Barron Quintet](https://open.spotify.com/artist/4fV8RoCy9P8JLEJirqs1MJ) | [Concentric Circles](https://open.spotify.com/album/3LGUMqua9xLShUrzfvn5id) | 5:39 | 2021-12-02 |  |
 | [Blues For Philly Joe \- Remastered](https://open.spotify.com/track/0gYVHFAlcb42DZ5cQQh4nj) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [Newk's Time](https://open.spotify.com/album/61ZMZem0tvxv63NqN8mesY) | 6:44 | 2021-12-02 |  |
 | [Blues Walk](https://open.spotify.com/track/7dMWiyYYkxNC0mz90Ni9L3) | [Lou Donaldson](https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR) | [Blues Walk](https://open.spotify.com/album/05dECqC2jTJKERNKAOykqk) | 6:43 | 2021-12-02 |  |
-| [Boo's Blues](https://open.spotify.com/track/1bnnJsnSGD4hmNG7J0BMFG) | [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [Squint](https://open.spotify.com/album/4eomOt6YKFtZhFPyoSwrSC) | 3:25 | 2021-12-02 |  |
+| [Boo's Blues](https://open.spotify.com/track/1bnnJsnSGD4hmNG7J0BMFG) | [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [Squint](https://open.spotify.com/album/4eomOt6YKFtZhFPyoSwrSC) | 3:25 | 2021-12-02 | 2022-09-23 |
 | [Book Of Slim](https://open.spotify.com/track/4qRyiKJFPLlaEma8BDaVML) | [Gene Harris & The Three Sounds](https://open.spotify.com/artist/7wpE9ePlaLVOdFrSs9BX8B) | [Elegant Soul \(Reissue\)](https://open.spotify.com/album/2HWvhHLaJg5WIcT7lWwdtX) | 3:23 | 2021-12-02 |  |
 | [Bright Eyes \- Live](https://open.spotify.com/track/5c17qhp5zR2gs61XNEpAnC) | [Dr\. Lonnie Smith](https://open.spotify.com/artist/1ZpPJRe9erwiWi548SKVyn) | [Breathe](https://open.spotify.com/album/1VmQzWa2H4IRjpVReN8LDY) | 7:25 | 2021-12-02 |  |
 | [Broad Way Blues](https://open.spotify.com/track/3ASbn4OVbcg1tnSjmdyREe) | [Ornette Coleman](https://open.spotify.com/artist/47odibUtrN3lnWx0p0pk2P) | [New York Is Now](https://open.spotify.com/album/5YExsVX6QRDHsLJLLm4ogy) | 8:43 | 2021-12-02 |  |
 | [Cantaloupe Island \- Remastered](https://open.spotify.com/track/0sCeNwt8xRCMR4NhKpMyBe) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Empyrean Isles \(Expanded Edition\)](https://open.spotify.com/album/5HCi1WVOT9SGks2deeceFu) | 5:33 | 2021-12-02 |  |
+| [Castle Park](https://open.spotify.com/track/0jf293soDMku4J3lHZXUa3) | [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [View With A Room](https://open.spotify.com/album/0bxXAO9Vxpx20fidIJc4va) | 3:57 | 2022-09-22 |  |
 | [Chitlins Con Carne](https://open.spotify.com/track/18A1V1vsy5YgHFqb4galTw) | [Kenny Burrell](https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB) | [Midnight Blue \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/0hMuKAciHKinu4L3R4Ojjl) | 5:30 | 2021-12-02 |  |
 | [Colors In The Dark](https://open.spotify.com/track/48Fbw0y8ofNfTHmuezhNPm) | [R+R=NOW](https://open.spotify.com/artist/6YwDgZxJVXO6N24VU8XMU5), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Christian Scott aTunde Adjuah](https://open.spotify.com/artist/2q37Nw8NND2z1T1KU5XVfn), [Derrick Hodge](https://open.spotify.com/artist/1jvBVqm4g5Jk8tEmKoYoes), [Taylor McFerrin](https://open.spotify.com/artist/0yLmsf6RBPYqm6hvFJCPg6), [Justin Tyson](https://open.spotify.com/artist/1XZooYvCGv4XL9rX1kKDdI) | [Collagically Speaking](https://open.spotify.com/album/4odXFRfbmTNdyjiidyDgDb) | 4:48 | 2021-12-02 |  |
 | [Congalegre](https://open.spotify.com/track/547xPOmLdBpM4X9B2lIW8B) | [Horace Parlan](https://open.spotify.com/artist/413WfGS7CgAHEJD4DtAo3e) | [Headin' South](https://open.spotify.com/album/3zLWpN31cZL0isbgDtdcXy) | 4:24 | 2021-12-02 |  |

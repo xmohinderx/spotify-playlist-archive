@@ -4,7 +4,7 @@
 
 > Ease into these recent hits and new songs from your favorite artists\. Cover: John Legend
 
-939 songs - 2 day 3 hr 48 min - [published](https://open.spotify.com/playlist/4ml5qGm3jWvLjOnBVMhlu7)
+940 songs - 2 day 3 hr 52 min - [published](https://open.spotify.com/playlist/4ml5qGm3jWvLjOnBVMhlu7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -838,6 +838,7 @@
 | [This Shouldn't Work](https://open.spotify.com/track/5emMvT62CP2ulTtk7Q1TsZ) | [RHODES](https://open.spotify.com/artist/07FfkbljNIdl45Ijlh1aXS) | [This Shouldn't Work](https://open.spotify.com/album/36GFEZJyNWa3bWlMgxE8Qn) | 3:14 | 2020-03-20 | 2020-04-04 |
 | [Thoughts](https://open.spotify.com/track/2jm0S3dMxpAz5H59z4lOJH) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Thoughts](https://open.spotify.com/album/3XFWmmwiJR0i7WnHDvgten) | 3:05 | 2019-06-07 | 2019-06-14 |
 | [Three Whiskeys And The Truth](https://open.spotify.com/track/2PMtsOOk1JD7yGT7E1ZK6Q) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Mr\. Sun](https://open.spotify.com/album/1zb7kVc7JA7ew7OIdj0wOB) | 3:53 | 2022-09-16 |  |
+| [Time \- From the Motion Picture "Amsterdam"](https://open.spotify.com/track/7nV3HScm7VfvyGdN5u6GNS) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Time \(From the Motion Picture "Amsterdam"\)](https://open.spotify.com/album/3VDUN8potNxTgF520R642l) | 3:42 | 2022-09-16 |  |
 | [time online](https://open.spotify.com/track/1Qafu0IHjwAA6mqryQvElc) | [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [night, love you.](https://open.spotify.com/album/58J1HN0dJl1pkTwu1YGJSq) | 4:06 | 2020-10-18 | 2020-11-13 |
 | [Tiny Riot](https://open.spotify.com/track/0u7b8p0mxUUNT7xeuYUtlP) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [Tiny Riot](https://open.spotify.com/album/1yoYSNh7PxIc2gvKHqpLa6) | 3:24 | 2021-03-26 | 2021-09-14 |
 | [To Begin Again](https://open.spotify.com/track/1iJBSr7s7jYXzM8EGcbK5b) | [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0), [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [To Begin Again](https://open.spotify.com/album/5rrWBCnnYiFaT5EoyCeikd) | 3:30 | 2021-03-19 | 2021-05-15 |

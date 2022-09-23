@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Shuffle</a> your heart out. ",
-  "num_followers": 852167,
+  "num_followers": 852433,
   "original_name": "Shuffle Syndrome",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMGE2NGJhOTE0MzdmNWI3NGM4MzFlNTVlOWQ5YTRiYzIy",
+  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMGNhNjA2YzNiYzM0ZDQyZThmZjhmNmRiOWU3Y2M5NWUw",
   "tracks": [
     {
       "added_at": "2022-08-12 04:00:00",
@@ -483,30 +483,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Down Low",
-        "url": "https://open.spotify.com/album/38O7LZ16jFp9RJ5BdCpFt0"
-      },
-      "artists": [
-        {
-          "name": "Dombresky",
-          "url": "https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN"
-        },
-        {
-          "name": "Ricky Ducati",
-          "url": "https://open.spotify.com/artist/66OCo8OcuPNrW6QLfmn7PE"
-        },
-        {
-          "name": "Donnie Sloan",
-          "url": "https://open.spotify.com/artist/4t95822Jv53tQJK2iS4dKt"
-        }
-      ],
-      "duration_ms": 161048,
-      "name": "Down Low",
-      "url": "https://open.spotify.com/track/5jbz9ONajDOe1AW5c3ob5U"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "Distance (Volac Remix)",
         "url": "https://open.spotify.com/album/4DV2LgtYZbumkW6ifBZkzh"
       },
@@ -527,6 +503,30 @@
       "duration_ms": 215390,
       "name": "Distance - Volac Remix",
       "url": "https://open.spotify.com/track/42BdPV3FB2HVsvdokaIDJt"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Down Low",
+        "url": "https://open.spotify.com/album/38O7LZ16jFp9RJ5BdCpFt0"
+      },
+      "artists": [
+        {
+          "name": "Dombresky",
+          "url": "https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN"
+        },
+        {
+          "name": "Ricky Ducati",
+          "url": "https://open.spotify.com/artist/66OCo8OcuPNrW6QLfmn7PE"
+        },
+        {
+          "name": "Donnie Sloan",
+          "url": "https://open.spotify.com/artist/4t95822Jv53tQJK2iS4dKt"
+        }
+      ],
+      "duration_ms": 161048,
+      "name": "Down Low",
+      "url": "https://open.spotify.com/track/5jbz9ONajDOe1AW5c3ob5U"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -629,28 +629,20 @@
       "url": "https://open.spotify.com/track/2dwnD6tMYqp8zQmfg1XvNQ"
     },
     {
-      "added_at": "2022-08-12 04:00:00",
+      "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "Problems",
-        "url": "https://open.spotify.com/album/6L2C3wz8KVARtC4wqrDJTG"
+        "name": "All That You Need",
+        "url": "https://open.spotify.com/album/1e5Rj4woY91M2jw7lNUMBt"
       },
       "artists": [
         {
           "name": "Don Diablo",
           "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        },
-        {
-          "name": "JLV",
-          "url": "https://open.spotify.com/artist/5CBNhusqki2s2jp4Lo6i2L"
-        },
-        {
-          "name": "John K",
-          "url": "https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE"
         }
       ],
-      "duration_ms": 179032,
-      "name": "Problems",
-      "url": "https://open.spotify.com/track/2dyrLrVopYKGc3H9oOYSmZ"
+      "duration_ms": 160312,
+      "name": "All That You Need",
+      "url": "https://open.spotify.com/track/7K8B2mdPHwZKhyShkl55Bh"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -753,20 +745,28 @@
       "url": "https://open.spotify.com/track/1A9viOL3Wl4lNr6apKIfBC"
     },
     {
-      "added_at": "2022-09-09 04:00:00",
+      "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "All That You Need",
-        "url": "https://open.spotify.com/album/1e5Rj4woY91M2jw7lNUMBt"
+        "name": "Problems",
+        "url": "https://open.spotify.com/album/6L2C3wz8KVARtC4wqrDJTG"
       },
       "artists": [
         {
           "name": "Don Diablo",
           "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        },
+        {
+          "name": "JLV",
+          "url": "https://open.spotify.com/artist/5CBNhusqki2s2jp4Lo6i2L"
+        },
+        {
+          "name": "John K",
+          "url": "https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE"
         }
       ],
-      "duration_ms": 160312,
-      "name": "All That You Need",
-      "url": "https://open.spotify.com/track/7K8B2mdPHwZKhyShkl55Bh"
+      "duration_ms": 179032,
+      "name": "Problems",
+      "url": "https://open.spotify.com/track/2dyrLrVopYKGc3H9oOYSmZ"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -883,22 +883,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Everything",
-        "url": "https://open.spotify.com/album/7AOtgsmGadJQFuJgHNkhG2"
-      },
-      "artists": [
-        {
-          "name": "Snavs",
-          "url": "https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "Everything",
-      "url": "https://open.spotify.com/track/4cljSFYLNYsspWUIicitiY"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "Fly With Us",
         "url": "https://open.spotify.com/album/6IwSRKffabEdwOZvUjght0"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 248437,
       "name": "Fly With Us",
       "url": "https://open.spotify.com/track/0aEIw4siCqZ8hlDrvtlRep"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/7AOtgsmGadJQFuJgHNkhG2"
+      },
+      "artists": [
+        {
+          "name": "Snavs",
+          "url": "https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/4cljSFYLNYsspWUIicitiY"
     },
     {
       "added_at": "2022-09-02 04:01:00",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "How it is",
-        "url": "https://open.spotify.com/album/2DjP7cXRnwyry7ji5iVYcc"
-      },
-      "artists": [
-        {
-          "name": "Malaa",
-          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
-        }
-      ],
-      "duration_ms": 181935,
-      "name": "How it is",
-      "url": "https://open.spotify.com/track/7HQEKWXO8oGMvnGSvhRK4j"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "Bang Bang",
         "url": "https://open.spotify.com/album/5C0wNtxNy0dMhY7mfX6mYJ"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 144677,
       "name": "Bang Bang",
       "url": "https://open.spotify.com/track/4IC1c5WgaeW1k3kAB7VMTH"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "How it is",
+        "url": "https://open.spotify.com/album/2DjP7cXRnwyry7ji5iVYcc"
+      },
+      "artists": [
+        {
+          "name": "Malaa",
+          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
+        }
+      ],
+      "duration_ms": 181935,
+      "name": "How it is",
+      "url": "https://open.spotify.com/track/7HQEKWXO8oGMvnGSvhRK4j"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1365,24 +1365,24 @@
       "url": "https://open.spotify.com/track/7KewOaneu1MC9RRrky8Oxc"
     },
     {
-      "added_at": "2022-08-12 04:00:00",
+      "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Make a Living",
-        "url": "https://open.spotify.com/album/0mZM7b4W6xWvPyKeNNrF3p"
+        "name": "Banga",
+        "url": "https://open.spotify.com/album/3HGGWYXPmiZ7d3qMbCi3ZD"
       },
       "artists": [
         {
-          "name": "YouNotUs",
-          "url": "https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH"
+          "name": "Dr. Fresch",
+          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
         },
         {
-          "name": "Plastik Funk",
-          "url": "https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v"
+          "name": "FETISH",
+          "url": "https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o"
         }
       ],
-      "duration_ms": 177798,
-      "name": "Make a Living",
-      "url": "https://open.spotify.com/track/5VlY1cabCZa9YQ9JtLhFlP"
+      "duration_ms": 141897,
+      "name": "Banga",
+      "url": "https://open.spotify.com/track/0Lg4xPkkZ3k7PP8kZhqyHV"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1451,6 +1451,26 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
+        "name": "Make a Living",
+        "url": "https://open.spotify.com/album/0mZM7b4W6xWvPyKeNNrF3p"
+      },
+      "artists": [
+        {
+          "name": "YouNotUs",
+          "url": "https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH"
+        },
+        {
+          "name": "Plastik Funk",
+          "url": "https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v"
+        }
+      ],
+      "duration_ms": 177798,
+      "name": "Make a Living",
+      "url": "https://open.spotify.com/track/5VlY1cabCZa9YQ9JtLhFlP"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
         "name": "Push And Pull",
         "url": "https://open.spotify.com/album/7E4ybWrTiPodPGPd0KrQNg"
       },
@@ -1463,26 +1483,6 @@
       "duration_ms": 138750,
       "name": "Push And Pull",
       "url": "https://open.spotify.com/track/5wJ7NwX3rC57OWT7A07iv0"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "Banga",
-        "url": "https://open.spotify.com/album/3HGGWYXPmiZ7d3qMbCi3ZD"
-      },
-      "artists": [
-        {
-          "name": "Dr. Fresch",
-          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
-        },
-        {
-          "name": "FETISH",
-          "url": "https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o"
-        }
-      ],
-      "duration_ms": 141897,
-      "name": "Banga",
-      "url": "https://open.spotify.com/track/0Lg4xPkkZ3k7PP8kZhqyHV"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1585,22 +1585,6 @@
       "url": "https://open.spotify.com/track/4RXw5GRcFbOCmWQ85oEguu"
     },
     {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "Midnight",
-        "url": "https://open.spotify.com/album/5xONA3ROlUquCv7IYc6Do3"
-      },
-      "artists": [
-        {
-          "name": "Interupt",
-          "url": "https://open.spotify.com/artist/0OFn6uw0q674vCcjDRNP4I"
-        }
-      ],
-      "duration_ms": 199384,
-      "name": "Midnight",
-      "url": "https://open.spotify.com/track/0tjviLADqxF7DtolJgJLf1"
-    },
-    {
       "added_at": "2022-09-02 04:01:00",
       "album": {
         "name": "Noise",
@@ -1615,6 +1599,22 @@
       "duration_ms": 159791,
       "name": "Noise",
       "url": "https://open.spotify.com/track/1VqDOw9oGH0pExiKzzeRXE"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Midnight",
+        "url": "https://open.spotify.com/album/5xONA3ROlUquCv7IYc6Do3"
+      },
+      "artists": [
+        {
+          "name": "Interupt",
+          "url": "https://open.spotify.com/artist/0OFn6uw0q674vCcjDRNP4I"
+        }
+      ],
+      "duration_ms": 199384,
+      "name": "Midnight",
+      "url": "https://open.spotify.com/track/0tjviLADqxF7DtolJgJLf1"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1639,6 +1639,26 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
+        "name": "shit i like",
+        "url": "https://open.spotify.com/album/26tPz3DGl0Hno8muVnjfx3"
+      },
+      "artists": [
+        {
+          "name": "Gwyn Love",
+          "url": "https://open.spotify.com/artist/4o5ZquVPYCsS90FQYPkGzN"
+        },
+        {
+          "name": "La+ch",
+          "url": "https://open.spotify.com/artist/22w0Xg5kpu5simeHw3afNG"
+        }
+      ],
+      "duration_ms": 230046,
+      "name": "shit i like",
+      "url": "https://open.spotify.com/track/7iBx3dJNTfXWf5vOJ9Vqg0"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
         "name": "Poison",
         "url": "https://open.spotify.com/album/2jKuairRPQOhtdfDCRNvNT"
       },
@@ -1659,26 +1679,6 @@
       "duration_ms": 204160,
       "name": "Poison",
       "url": "https://open.spotify.com/track/2xNxxDFIoCBIUYlTNK8oiU"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "shit i like",
-        "url": "https://open.spotify.com/album/26tPz3DGl0Hno8muVnjfx3"
-      },
-      "artists": [
-        {
-          "name": "Gwyn Love",
-          "url": "https://open.spotify.com/artist/4o5ZquVPYCsS90FQYPkGzN"
-        },
-        {
-          "name": "La+ch",
-          "url": "https://open.spotify.com/artist/22w0Xg5kpu5simeHw3afNG"
-        }
-      ],
-      "duration_ms": 230046,
-      "name": "shit i like",
-      "url": "https://open.spotify.com/track/7iBx3dJNTfXWf5vOJ9Vqg0"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1717,22 +1717,6 @@
       "url": "https://open.spotify.com/track/0a6fl7K59Exm2hx0RKPJeE"
     },
     {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "Policia",
-        "url": "https://open.spotify.com/album/0gqRJOUGlKPv6ixrLjs6dM"
-      },
-      "artists": [
-        {
-          "name": "Gentlemens Club",
-          "url": "https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO"
-        }
-      ],
-      "duration_ms": 211163,
-      "name": "Policia",
-      "url": "https://open.spotify.com/track/6AqlZeTJGRHuRKUAbc9kqP"
-    },
-    {
       "added_at": "2022-08-26 04:01:00",
       "album": {
         "name": "Funky Sound",
@@ -1751,6 +1735,22 @@
       "duration_ms": 139921,
       "name": "Funky Sound",
       "url": "https://open.spotify.com/track/6uKA5VNApuHQoWnSRH1jlc"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Policia",
+        "url": "https://open.spotify.com/album/0gqRJOUGlKPv6ixrLjs6dM"
+      },
+      "artists": [
+        {
+          "name": "Gentlemens Club",
+          "url": "https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO"
+        }
+      ],
+      "duration_ms": 211163,
+      "name": "Policia",
+      "url": "https://open.spotify.com/track/6AqlZeTJGRHuRKUAbc9kqP"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1905,6 +1905,26 @@
       "url": "https://open.spotify.com/track/04mYhQGTujxxPjPzxRrgTL"
     },
     {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Cathedral (Piece Of Me) [feat. JEN]",
+        "url": "https://open.spotify.com/album/7bOJCwe874SKa24MfzyNEG"
+      },
+      "artists": [
+        {
+          "name": "Sevek",
+          "url": "https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT"
+        },
+        {
+          "name": "JEN",
+          "url": "https://open.spotify.com/artist/6DaSJnsDXVDcrHzru4MHrx"
+        }
+      ],
+      "duration_ms": 148809,
+      "name": "Cathedral (Piece Of Me) [feat. JEN]",
+      "url": "https://open.spotify.com/track/7CXln4Z9LfQdsPpXaPrDQn"
+    },
+    {
       "added_at": "2022-08-12 04:00:00",
       "album": {
         "name": "Prock House",
@@ -1923,22 +1943,6 @@
       "duration_ms": 181875,
       "name": "End of Slaphouse",
       "url": "https://open.spotify.com/track/06Pb2d8P6wAaGyrRUYOFJc"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "The Middle",
-        "url": "https://open.spotify.com/album/6ZJkuLfmOtCxXmrFXrbpzN"
-      },
-      "artists": [
-        {
-          "name": "Seth Hills",
-          "url": "https://open.spotify.com/artist/5nFt7a5Du2MkdAr1KniXh7"
-        }
-      ],
-      "duration_ms": 167619,
-      "name": "The Middle",
-      "url": "https://open.spotify.com/track/36s3JG5whwTnqpgeqeDK7K"
     }
   ],
   "unique_name": "Shuffle Syndrome",

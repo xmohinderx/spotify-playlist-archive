@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best in Afro Bashment, Afro Swing and all that good stuff. Cover: Lojay",
+  "description": "The best in Afro Bashment, Afro Swing and all that good stuff. Cover: Ckay",
   "name": "Afro Bashment",
   "published_playlist_ids": [
     "60Bw7Cwgr0oH9rAK1w2wYZ"
@@ -119,10 +119,32 @@
       ],
       "date_added": "2022-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 150280,
       "name": "5 Star",
       "url": "https://open.spotify.com/track/5l6ZVWdSdot8a1FjPBiXvz"
+    },
+    {
+      "album": {
+        "name": "5 Star (with Rick Ross)",
+        "url": "https://open.spotify.com/album/6IX1qlt5sGAWAF2XPteKy6"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        },
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169800,
+      "name": "5 Star (with Rick Ross)",
+      "url": "https://open.spotify.com/track/5shjJZp662loniBOyjqr8h"
     },
     {
       "album": {
@@ -239,6 +261,24 @@
       "duration_ms": 160776,
       "name": "All For Me",
       "url": "https://open.spotify.com/track/5oPJE47uQBX0akLw3YjQOx"
+    },
+    {
+      "album": {
+        "name": "All I Really Want",
+        "url": "https://open.spotify.com/album/5OqvebMOCWm6uRBJcIS7uD"
+      },
+      "artists": [
+        {
+          "name": "Cashh",
+          "url": "https://open.spotify.com/artist/1CTdJErNqnCWNwtxJmleua"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202500,
+      "name": "All I Really Want",
+      "url": "https://open.spotify.com/track/2Y2KafmW8gFf68tTLVeRYw"
     },
     {
       "album": {
@@ -1299,7 +1339,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 208000,
       "name": "Come Over (feat. Popcaan)",
       "url": "https://open.spotify.com/track/58mtgcQVZ56NgWHKsN94nD"
@@ -1513,7 +1553,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 186573,
       "name": "Date Nite",
       "url": "https://open.spotify.com/track/7Er51a1xz8Do0CJflprseS"
@@ -2845,7 +2885,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 258320,
       "name": "In Da Car",
       "url": "https://open.spotify.com/track/3UOg91DTKgZuWsYsV1Zn13"
@@ -3283,6 +3323,40 @@
       "duration_ms": 197000,
       "name": "kolomental",
       "url": "https://open.spotify.com/track/6lXOGwFzCglrPMtuysPIUo"
+    },
+    {
+      "album": {
+        "name": "Koo Koo Fun (feat. Tiwa Savage & DJ Maphorisa)",
+        "url": "https://open.spotify.com/album/7iDZn6XFwYdbq6jGYNXnrj"
+      },
+      "artists": [
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "Major League Djz",
+          "url": "https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb"
+        },
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        },
+        {
+          "name": "DJ Maphorisa",
+          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193274,
+      "name": "Koo Koo Fun (feat. Tiwa Savage & DJ Maphorisa)",
+      "url": "https://open.spotify.com/track/3mO0E6D3BsdBLjDCImi65H"
     },
     {
       "album": {
@@ -3804,6 +3878,24 @@
     },
     {
       "album": {
+        "name": "mmadu",
+        "url": "https://open.spotify.com/album/7bIxgdSCV9HbRrGOgXyxCT"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196712,
+      "name": "mmadu",
+      "url": "https://open.spotify.com/track/4QzOS4y283J1iizwxgTEk8"
+    },
+    {
+      "album": {
         "name": "LV N ATTN",
         "url": "https://open.spotify.com/album/7zx9F3ehp4NIcts4Tq0Oc8"
       },
@@ -4017,6 +4109,28 @@
       "duration_ms": 144050,
       "name": "MYKILLI",
       "url": "https://open.spotify.com/track/3a9VWWcadXinOPMQzJS8uU"
+    },
+    {
+      "album": {
+        "name": "Nack Remix",
+        "url": "https://open.spotify.com/album/27iamLPlZhs4W8c8SYl6mD"
+      },
+      "artists": [
+        {
+          "name": "The Therapist",
+          "url": "https://open.spotify.com/artist/70aLDdX4tBrj9ZcsmHmwTQ"
+        },
+        {
+          "name": "Mayorkun",
+          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178467,
+      "name": "Nack Remix",
+      "url": "https://open.spotify.com/track/0SzvGgLW3d3P6ODpRwxGPA"
     },
     {
       "album": {
@@ -4579,7 +4693,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 186002,
       "name": "PALAZZO",
       "url": "https://open.spotify.com/track/2SaRkvUkzNzL39fBB2hLpt"
@@ -4641,6 +4755,24 @@
       "duration_ms": 201025,
       "name": "Party With A Jagaban",
       "url": "https://open.spotify.com/track/5BkBcXJ0rDRlnzh3tmknxI"
+    },
+    {
+      "album": {
+        "name": "PDF/BE FREE",
+        "url": "https://open.spotify.com/album/3JXY3hqrj0r0dOTJjem5p1"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183529,
+      "name": "PDF",
+      "url": "https://open.spotify.com/track/4gQPATYQSZ4BfiW2Csb2f4"
     },
     {
       "album": {
@@ -4717,7 +4849,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 151640,
       "name": "Peru",
       "url": "https://open.spotify.com/track/0lk5tzmaJWVAv5GBvpm3xu"
@@ -4881,7 +5013,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 185080,
       "name": "Princess Cuts (feat. Young T & Bugsey)",
       "url": "https://open.spotify.com/track/63Sb1AMnhb37DR59uXZdQd"
@@ -5792,6 +5924,24 @@
     },
     {
       "album": {
+        "name": "Soja",
+        "url": "https://open.spotify.com/album/0WrpYqyMi0ZU8EY9AzCdht"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181557,
+      "name": "Soja",
+      "url": "https://open.spotify.com/track/5F7imvl6nIRWoMCejdR4Sk"
+    },
+    {
+      "album": {
         "name": "Water & Garri",
         "url": "https://open.spotify.com/album/4kaFvICfRtvFJawQ6p7VSW"
       },
@@ -6337,7 +6487,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 230721,
       "name": "Time N Affection",
       "url": "https://open.spotify.com/track/0aMOalD335v1hsSXmLURzz"
@@ -6377,7 +6527,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-19",
+      "date_removed": null,
       "duration_ms": 139171,
       "name": "Timoti",
       "url": "https://open.spotify.com/track/1HG9yS1bhOSsrUoHdUEnbW"

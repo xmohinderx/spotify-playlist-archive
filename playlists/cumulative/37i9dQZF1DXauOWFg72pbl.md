@@ -4,7 +4,7 @@
 
 > Cold beer\. Hot wings\. Great rock.
 
-146 songs - 9 hr 17 min - [published](https://open.spotify.com/playlist/3dZKmsHFqarBZK5PhR0m0r)
+147 songs - 9 hr 20 min - [published](https://open.spotify.com/playlist/3dZKmsHFqarBZK5PhR0m0r)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,8 @@
 | [Oh No](https://open.spotify.com/track/6rF4s1wwsOa2EZF5MF6D3B) | [Goodbye June](https://open.spotify.com/artist/1l9I7G8J8AnMScWQwlNJ4M) | [Magic Valley](https://open.spotify.com/album/4GQp1LbFHcJVkS9M5HUzAL) | 3:41 | 2022-06-17 |  |
 | [One By One](https://open.spotify.com/track/1nO9qYFTq5ZkiiXnaXbBEH) | [The Blue Stones](https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC) | [Hidden Gems](https://open.spotify.com/album/6uI7YirquMLS8hkRFgJ16B) | 4:11 | 2021-06-24 | 2022-06-18 |
 | [Quick Escape](https://open.spotify.com/track/3FoykAESe8MNT69DpM6B4c) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Quick Escape](https://open.spotify.com/album/1hiDXsDWyQkChURbrmdgsY) | 4:46 | 2020-05-15 |  |
-| [Ramon Ayala](https://open.spotify.com/track/7oRlqeavsFnEtKoUueqyiL) | [Giovannie and the Hired Guns](https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94) | [Ramon Ayala](https://open.spotify.com/album/0uDXEh8zPFRjAGizuol1EI) | 2:48 | 2022-05-06 |  |
+| [Ramon Ayala](https://open.spotify.com/track/7mrLFLPPXee4E0JH2trPJz) | [Giovannie and the Hired Guns](https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94) | [Ramon Ayala](https://open.spotify.com/album/3QHU1NiJaARZJbBbYG1BeQ) | 2:48 | 2022-08-19 |  |
+| [Ramon Ayala](https://open.spotify.com/track/7oRlqeavsFnEtKoUueqyiL) | [Giovannie and the Hired Guns](https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94) | [Ramon Ayala](https://open.spotify.com/album/0uDXEh8zPFRjAGizuol1EI) | 2:48 | 2022-05-06 | 2022-09-23 |
 | [Rebel Heart](https://open.spotify.com/track/3Pc4BTWoH6x0PmeGfQzn5a) | [The Shelters](https://open.spotify.com/artist/7LrFQFaZaxfa9deqkjvc89) | [The Shelters](https://open.spotify.com/album/451kD1EliOug21dypPYnMn) | 3:58 | 2020-05-15 |  |
 | [Rest In Peace](https://open.spotify.com/track/2PZ5teF9vepeL2Qq7dkd59) | [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up) | [Gifts From The Holy Ghost](https://open.spotify.com/album/258YZ2TUzI1SJBU626eYFc) | 3:37 | 2022-05-06 |  |
 | [S.O.B.](https://open.spotify.com/track/1VPUpUwtbpoRVXt0txVU0w) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/album/1uJRMyfjWu3255ihMnNuj4) | 4:07 | 2022-06-17 |  |

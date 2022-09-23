@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UXfvEIZvDK.md) - [plain]
 
 > Even rockers need a break.
 
-[Spotify](https://open.spotify.com/user/spotify) - 586,140 likes - 60 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 586,426 likes - 60 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UXfvEIZvDK.md) - [plain]
 | 28 | [Nutshell](https://open.spotify.com/track/2JuasWPUodaUxf5nwNpciQ) | [Alice In Chains](https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL) | [Jar Of Flies](https://open.spotify.com/album/4FCoFSNIFhK36holxHWCnc) | 4:19 |
 | 29 | [Broken](https://open.spotify.com/track/507bYMYfbm6sUS9iEAaeSd) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW), [Amy Lee](https://open.spotify.com/artist/0fGVuq5ed21pM7iWwTcMyk) | [Disclaimer II](https://open.spotify.com/album/1mMgrxFYBUMKANGbapmXxi) | 4:18 |
 | 30 | [Just Breathe](https://open.spotify.com/track/6i81qFkru6Kj1IEsB7KNp2) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Backspacer](https://open.spotify.com/album/4DCwNXpnKEBYbls0T4LQzN) | 3:35 |
-| 31 | [Society](https://open.spotify.com/track/3bHhUEOTIbezeZ856R0BX5) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [Into The Wild \(Music For The Motion Picture\)](https://open.spotify.com/album/13xlpKbai3GGoMSr75lOeX) | 3:56 |
-| 32 | [It's Been Awhile](https://open.spotify.com/track/25CMmGsl22APKhfuj4Tp7j) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [Break the Cycle](https://open.spotify.com/album/0OwSOrPWyP9batKOhOnaPt) | 4:24 |
+| 31 | [It's Been Awhile](https://open.spotify.com/track/25CMmGsl22APKhfuj4Tp7j) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [Break the Cycle](https://open.spotify.com/album/0OwSOrPWyP9batKOhOnaPt) | 4:24 |
+| 32 | [Society](https://open.spotify.com/track/3bHhUEOTIbezeZ856R0BX5) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [Into The Wild \(Music For The Motion Picture\)](https://open.spotify.com/album/13xlpKbai3GGoMSr75lOeX) | 3:56 |
 | 33 | [Take A Picture](https://open.spotify.com/track/6q4aoWgTQ8td2AvqQXuFqm) | [Filter](https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C) | [Title Of Record \(Expanded Edition\)](https://open.spotify.com/album/0PtuV98eVpJkCORoCH2uCu) | 6:03 |
 | 34 | [Leave Out All The Rest](https://open.spotify.com/track/0sp00HSXkQyqTa6QqM0O8V) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Minutes to Midnight](https://open.spotify.com/album/2tlTBLz2w52rpGCLBGyGw6) | 3:29 |
 | 35 | [Take on the World](https://open.spotify.com/track/6J0xeqjdpsUH0W1YBCmD1L) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [Night People](https://open.spotify.com/album/48weSvWTs8IQAaUUl3Db8r) | 4:31 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UXfvEIZvDK.md) - [plain]
 | 59 | [Hey Julie](https://open.spotify.com/track/2LGAbm0xHNu7scBDVCkFwN) | [Fountains Of Wayne](https://open.spotify.com/artist/1pgtr4nhBQjp9oCUBPyYWh) | [Welcome Interstate Managers](https://open.spotify.com/album/6TZp52tXShLQbq8yNMxqNT) | 2:36 |
 | 60 | [Way down We Go \- Stripped](https://open.spotify.com/track/1YA7YUyrxgSzf7IQDX1xcl) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Way down We Go \(Stripped\)](https://open.spotify.com/album/7n2OEdfF8dac71VQEekeP0) | 3:28 |
 
-Snapshot ID: `MTY2Mzc3MjU4NiwwMDAwMDAwMGQ0ZDZhNzc2ODQ0NDVjYjdkNDkxMTg0MGJhNTQ2NTA2`
+Snapshot ID: `MTY2Mzc3MjU4NiwwMDAwMDAwMDE5NmI3OWUyYjYxZDc0NDFmZDc3OTE0NDA4ZWFiMzY5`

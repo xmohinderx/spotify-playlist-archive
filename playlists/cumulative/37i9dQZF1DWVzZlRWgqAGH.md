@@ -4,7 +4,7 @@
 
 > Smooth joints\. Cover: bLAck pARty
 
-724 songs - 1 day 18 hr 44 min - [published](https://open.spotify.com/playlist/6iBWJdwWthi80GH8IDHW0t)
+725 songs - 1 day 18 hr 47 min - [published](https://open.spotify.com/playlist/6iBWJdwWthi80GH8IDHW0t)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,7 @@
 | [Can't Help Myself](https://open.spotify.com/track/6QlWVgJiRRC6IbaW6TSmwB) | [Eric Zayne](https://open.spotify.com/artist/5HMNsIi6AQplZELW9jeLjd) | [Can't Help Myself](https://open.spotify.com/album/14zKEx62p2QYnFb8gyP7qJ) | 3:56 | 2022-05-13 | 2022-05-18 |
 | [Can't Refuse](https://open.spotify.com/track/3QpZ33JPgqCu7BsxaWKkAi) | [J.Lamotta](https://open.spotify.com/artist/76O0DRobXGao078KT0xci8) | [Can't Refuse](https://open.spotify.com/album/1QzjJKr1zyo5NA0nyfW7Bs) | 3:05 | 2020-05-25 | 2020-06-16 |
 | [Can't Stop Your Lovin'](https://open.spotify.com/track/5P1eorfAD2voGnX7ZbuvFz) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Can't Stop Your Lovin'](https://open.spotify.com/album/4wk1q3SvmE08InkoJKodlW) | 3:57 | 2019-09-29\* | 2020-04-24 |
-| [Can't Wait](https://open.spotify.com/track/6P8PBbcXeIBxoThtF8yq38) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [Can't Wait](https://open.spotify.com/album/29UTEWJkBTdpIMCrXH8x4N) | 3:27 | 2022-04-29 |  |
+| [Can't Wait](https://open.spotify.com/track/6P8PBbcXeIBxoThtF8yq38) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [Can't Wait](https://open.spotify.com/album/29UTEWJkBTdpIMCrXH8x4N) | 3:27 | 2022-04-29 | 2022-09-23 |
 | [Care for Your Mother](https://open.spotify.com/track/0eX41bBBkZ8Pl6v1KStWmm) | [Jordan Mackampa](https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST) | [Foreigner](https://open.spotify.com/album/6cd5Vc0UrVFjTARhdBWlm2) | 4:13 | 2020-03-13 | 2020-05-22 |
 | [Careful](https://open.spotify.com/track/5KNq33xonNuXuzGyIBvhrs) | [Handbook](https://open.spotify.com/artist/6OvOdUubb1MOOz2FtGWlHk), [RKZ](https://open.spotify.com/artist/0AMakHYrDCxR6EVvenRzlW) | [Careful](https://open.spotify.com/album/3SQQEUw8a9AR1Bt47ZO1Jg) | 2:11 | 2020-09-26 | 2020-10-23 |
 | [Caroline](https://open.spotify.com/track/21aQ9GdgEXK6qeovX0YaKb) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Caroline](https://open.spotify.com/album/75p2ynuvcTWcFIFs4OyDkQ) | 3:36 | 2020-12-04 | 2022-04-16 |
@@ -233,6 +233,7 @@
 | [Flashback](https://open.spotify.com/track/72AeYsLNGsNXLVwwbXuUTj) | [Submerse](https://open.spotify.com/artist/6iNVICWoG8BfqoyejEQdpF), [Devin Morrison](https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW), [Pink Siifu](https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh) | [See You Soon](https://open.spotify.com/album/11y45vkgrNDca3bohfcT3j) | 2:33 | 2019-10-02 | 2019-11-01 |
 | [Flight 99](https://open.spotify.com/track/5z2XleKRbvbiytGucM5v2D) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Ta\-ku](https://open.spotify.com/artist/13Kd75NSHSp9lB4CaqPMOV), [matt mcwaters](https://open.spotify.com/artist/3jUCC3z6XfyxBbGir9OcHK), [Please Wait](https://open.spotify.com/artist/2f70Y2dW98FPfkO61AGa2E) | [Flight 99](https://open.spotify.com/album/45IpQ6F0GYcas0yFGMzvac) | 2:47 | 2019-11-20 | 2020-04-24 |
 | [Flowers](https://open.spotify.com/track/66d6LokRxraTsz9CZ9IfSj) | [IYAMAH](https://open.spotify.com/artist/3kf01riKEcjHq6eiATvWT1) | [Truth EP.2](https://open.spotify.com/album/2PtMUxuv7tEhmSfkZRiCic) | 4:02 | 2020-10-23 | 2022-04-21 |
+| [Flowers \- A COLORS SHOW](https://open.spotify.com/track/5Oaj9RHokwxfV184bjReH9) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [Flowers \- A COLORS SHOW](https://open.spotify.com/album/4hwZPcU2qtjyKiPeqfeY32) | 3:13 | 2022-09-22 |  |
 | [Fly Away](https://open.spotify.com/track/2VJnZ0oDn1mEzjNJrOfo3t) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI), [Emmavie](https://open.spotify.com/artist/30SZetOBMEael27tboxz7f) | [Epoch](https://open.spotify.com/album/3X60lqs7cdHZf4Tk5Vfn53) | 2:45 | 2020-04-18 | 2020-05-01 |
 | [For André](https://open.spotify.com/track/06zGFsJg11na4OPtQTbyvG) | [Tank and The Bangas](https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7) | [For André](https://open.spotify.com/album/45B4sMt3DT6X8RY5qvGhhU) | 3:05 | 2020-05-29 | 2020-06-29 |
 | [For Keeps](https://open.spotify.com/track/1nPgx4Q9edLlooxkg46HrA) | [JGrrey](https://open.spotify.com/artist/66rDbD3tWR3M1uNuIaDAGx) | [For Keeps](https://open.spotify.com/album/7nJUSI4LKvwz6zXmpskgv9) | 2:52 | 2019-11-15 | 2020-03-20 |
@@ -567,8 +568,8 @@
 | [Smoke](https://open.spotify.com/track/092s6wVDOgosfuZKY4ccj7) | [Mac Ayres](https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL) | [Smoke](https://open.spotify.com/album/4xnAka30RUXgejpy6knE8M) | 4:24 | 2021-05-15 | 2022-07-27 |
 | [Snowflower](https://open.spotify.com/track/5iW0UFq95KuAbwoMyhgFB9) | [Puma Blue](https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG) | [Snowflower](https://open.spotify.com/album/5ZaTktssgaH0LP5boYH2K7) | 3:15 | 2020-10-16 | 2021-01-15 |
 | [So](https://open.spotify.com/track/3fDHHkOEw2Fr8km3T4ixYQ) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [So Sunshine](https://open.spotify.com/album/3tw7ZPvVJo1DqIZvdE6cos) | 2:16 | 2020-09-18 |  |
-| [So Long](https://open.spotify.com/track/0IgEhBc28DrqMaFCSWrSew) | [Danielle Ponder](https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ) | [So Long](https://open.spotify.com/album/2WajwfUOqKOzoicUBCmo14) | 2:23 | 2022-04-15 | 2022-09-19 |
-| [so simple](https://open.spotify.com/track/6cxiPW3AEDukD6zBwlyRw5) | [agajon](https://open.spotify.com/artist/5ZqhVXS0lKksMwTqFTBY3k), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [nag champa](https://open.spotify.com/album/5l8rGjeehGlrv6nxrRAvkj) | 2:52 | 2022-09-02 |  |
+| [So Long](https://open.spotify.com/track/0IgEhBc28DrqMaFCSWrSew) | [Danielle Ponder](https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ) | [So Long](https://open.spotify.com/album/2WajwfUOqKOzoicUBCmo14) | 2:23 | 2022-04-15 |  |
+| [so simple](https://open.spotify.com/track/6cxiPW3AEDukD6zBwlyRw5) | [agajon](https://open.spotify.com/artist/5ZqhVXS0lKksMwTqFTBY3k), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [nag champa](https://open.spotify.com/album/5l8rGjeehGlrv6nxrRAvkj) | 2:52 | 2022-09-02 | 2022-09-23 |
 | [So We Won't Forget](https://open.spotify.com/track/1sL0oHu8NCQpImkjxkoVXj) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [So We Won't Forget](https://open.spotify.com/album/6AixWA1IbGyb70exJJKUUa) | 4:58 | 2020-05-22 | 2020-06-20 |
 | [Sober](https://open.spotify.com/track/2lQv5l2Bmf7hYyYwjNe2lC) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [Sober](https://open.spotify.com/album/7qM4xyGyZdO6K2r2k7Lz7V) | 3:19 | 2020-03-06 | 2020-04-24 |
 | [Sober](https://open.spotify.com/track/5aeQsXqa9bchBjzFo5Slwv) | [MADANII](https://open.spotify.com/artist/1RzGXB2manO8IeUxrPSG4f), [LLUCID](https://open.spotify.com/artist/5BqTGVZWyKbcvweUqJj3wg) | [Sober](https://open.spotify.com/album/0Wygdkofb4GqReqxpFCfsM) | 3:29 | 2019-09-29\* | 2019-10-25 |

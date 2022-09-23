@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1F8iyK0PtpY1EAYBTssIaz">Billy Strayhorn</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-140 songs - 10 hr 24 min - [published](https://open.spotify.com/playlist/1UyIYAFlZaVwKHGX6GAsd7)
+141 songs - 10 hr 29 min - [published](https://open.spotify.com/playlist/1UyIYAFlZaVwKHGX6GAsd7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,5 +148,6 @@
 | [What Else Can You Do With a Drum, Pt\. 1 \- Calypso](https://open.spotify.com/track/05NaZClsqp0omXp4gYF8S0) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [A Drum Is a Woman](https://open.spotify.com/album/1L06BMH0kRrUQX93Vv3xck) | 1:52 | 2022-09-08 |  |
 | [You Better Know It \- 2004 Remaster](https://open.spotify.com/track/76d5GR4aO4HZqb8NQGQzq2) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Nina Simone Sings Ellington](https://open.spotify.com/album/4O1uLlNwEIVbwUXrpKL7rB) | 2:25 | 2022-09-08 |  |
 | [You're The One](https://open.spotify.com/track/2chpEqVXRY4OG2ehJ3Slcw) | [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S), [City Of Birmingham Symphony Orchestra](https://open.spotify.com/artist/6wuudWq7XpVutoFp4bsVDo), [Sir Simon Rattle](https://open.spotify.com/artist/4GQwgdcDQwqtcHICjUNndp), [Lena Horne](https://open.spotify.com/artist/2I6nP70ltmOHi6xjJUXHMe) | [Duke Ellington Album](https://open.spotify.com/album/0vMfSZG8wT2Bbe0PMBYJmC) | 2:58 | 2022-09-08 |  |
+| [Zajj's Dream](https://open.spotify.com/track/0GFIr9C7miDD3jxL7i54Ra) | [Claude Bolling Big Band](https://open.spotify.com/artist/3YxemJtRsk1WR4ikdnfy6L) | [A Drum Is a Woman, conte musical de Duke Ellington \(Live au Théâtre National de Chaillot en 1996\)](https://open.spotify.com/album/4sTOOHhshmGFyo6GvxHQRc) | 5:26 | 2022-09-22 |  |
 
 \*This playlist was first scraped on 2022-09-09. Prior content cannot be recovered.

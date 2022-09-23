@@ -4847,10 +4847,28 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 129812,
       "name": "Next Ex",
       "url": "https://open.spotify.com/track/1jvHT0EOuvcPF8FT5A9G6V"
+    },
+    {
+      "album": {
+        "name": "It Was Fun While It Lasted (Deluxe)",
+        "url": "https://open.spotify.com/album/2LTrehfUzphv3iBocifvSY"
+      },
+      "artists": [
+        {
+          "name": "Sueco",
+          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129812,
+      "name": "Next Ex",
+      "url": "https://open.spotify.com/track/6pkDDxuxe9gkkLRI33mQFn"
     },
     {
       "album": {

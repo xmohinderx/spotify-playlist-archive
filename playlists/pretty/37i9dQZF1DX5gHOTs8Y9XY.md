@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gHOTs8Y9XY.md) - [plain]
 
 > A beginners introduction to the beauty of Jazz\. Cover: Chet Baker
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,354 likes - 100 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,556 likes - 100 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gHOTs8Y9XY.md) - [plain]
 | 56 | [Beautiful Love](https://open.spotify.com/track/3lXgCSYCH9wCTHHLnpBzig) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB) | [Anita](https://open.spotify.com/album/5ytkuJciMwGDXwQeLWbHCw) | 2:40 |
 | 57 | [Mean To Me \- Remastered/1998](https://open.spotify.com/track/4R6rf3KbP45JST6Cr3Enry) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [This Time I'm Swingin'](https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y) | 2:10 |
 | 58 | [Tea For Two](https://open.spotify.com/track/6uWGcfyKS2bP63sd2zyswJ) | [BLOSSOM DEARIE](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [Once Upon A Summertime](https://open.spotify.com/album/5pJeMvBDbvBnmDJsd0Up9n) | 3:24 |
-| 59 | [Everything Happens to Me](https://open.spotify.com/track/4Y5fyQ5fBysC32Na5sZT3J) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings: It Could Happen To You \[Original Jazz Classics Remasters\] \(OJC Remaster\)](https://open.spotify.com/album/05GsIfSvuy3bSY5EodA0Cc) | 5:05 |
-| 60 | [Both Sides Now](https://open.spotify.com/track/7Meqm9jgQXhh08vdnbrvfY) | [Pat Martino](https://open.spotify.com/artist/4DlMMgnldzX6OkCskmeGKz) | [Cream](https://open.spotify.com/album/6R8qLTLbNFxzfBoavYUCXy) | 2:18 |
+| 59 | [Both Sides Now](https://open.spotify.com/track/7Meqm9jgQXhh08vdnbrvfY) | [Pat Martino](https://open.spotify.com/artist/4DlMMgnldzX6OkCskmeGKz) | [Cream](https://open.spotify.com/album/6R8qLTLbNFxzfBoavYUCXy) | 2:18 |
+| 60 | [Everything Happens to Me](https://open.spotify.com/track/4Y5fyQ5fBysC32Na5sZT3J) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings: It Could Happen To You \[Original Jazz Classics Remasters\] \(OJC Remaster\)](https://open.spotify.com/album/05GsIfSvuy3bSY5EodA0Cc) | 5:05 |
 | 61 | [Stompin At The Savoy](https://open.spotify.com/track/1xUJ1mdLAysxNBtO9w3J2g) | [Benny Goodman](https://open.spotify.com/artist/1pBuKaLHJlIlqYxQQaflve) | [B\. G\. In Hi Fi](https://open.spotify.com/album/33oCBSZiLbfqyOnTTQ4Tct) | 3:15 |
 | 62 | [Lullaby Of Birdland](https://open.spotify.com/track/5z161QQZMgQxSILnv3QoJk) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8), [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO) | [Sarah Vaughan](https://open.spotify.com/album/7wX89EWCK8cNZeGnBS5bMG) | 4:00 |
 | 63 | [Dedicated To You](https://open.spotify.com/track/7981FAW8DbDs1ueK4Ha8R2) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [John Coltrane And Johnny Hartman](https://open.spotify.com/album/5e3mq4TT4RLn4VXfgKV6MU) | 5:32 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gHOTs8Y9XY.md) - [plain]
 | 99 | [But Not For Me](https://open.spotify.com/track/07vtuaY3Ym8jf76SJ8g7ar) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Love Is Here To Stay](https://open.spotify.com/album/7dj3N9Ue8kXeMjXyxesD2t) | 3:05 |
 | 100 | [The Lady Is A Tramp](https://open.spotify.com/track/3nAemrbXMrnBEHElLvwcIX) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Love, Ella](https://open.spotify.com/album/1y5KGkUKO0NG32MhIIagCA) | 3:21 |
 
-Snapshot ID: `MTY2MzY2NjE3NiwwMDAwMDAwMDM3MGU1Mzk0MGUyMjNlZjM1OWI2Njg5OTcyNjQwM2Iw`
+Snapshot ID: `MTY2MzY2NjE3NiwwMDAwMDAwMGE2NTI5MTIyNjdhMjE4MDUzNGEyNjY1OGYyY2QzMDVm`

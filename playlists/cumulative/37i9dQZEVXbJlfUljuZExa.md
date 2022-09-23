@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Malaysia.
 
-551 songs - 1 day 7 hr 38 min - [published](https://open.spotify.com/playlist/4xe8JQ3qRY56mBF02olXgZ)
+552 songs - 1 day 7 hr 40 min - [published](https://open.spotify.com/playlist/4xe8JQ3qRY56mBF02olXgZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,7 @@
 | [Call Out My Name](https://open.spotify.com/track/09mEdoA6zrmBPgTEN5qXmN) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [My Dear Melancholy,](https://open.spotify.com/album/4qZBW3f2Q8y0k1A84d4iAO) | 3:48 | 2022-07-03 | 2022-09-18 |
 | [Can I Get It](https://open.spotify.com/track/6w8ZPYdnGajyfPddTWdthN) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:30 | 2021-11-21 | 2021-11-25 |
 | [Can't Control Myself](https://open.spotify.com/track/559f8rcNNZW07wz5Rfxnfh) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Can't Control Myself](https://open.spotify.com/album/2Xgk5KfKKed3D1a5B3gJJ9) | 3:01 | 2022-01-18 | 2022-01-24 |
-| [CASABLANCA](https://open.spotify.com/track/7gvhpn0qGA0r3GDqrPnmhD) | [Nuha Bahrin](https://open.spotify.com/artist/23t2TA28fx4549a1P0Nl65), [Naufal Azrin](https://open.spotify.com/artist/2VN6ToUICX0UvbJtUVa5Ij) | [CASABLANCA](https://open.spotify.com/album/79q2SC1pSKJ5feP5NfKGaU) | 3:00 | 2022-07-01 |  |
+| [CASABLANCA](https://open.spotify.com/track/7gvhpn0qGA0r3GDqrPnmhD) | [Nuha Bahrin](https://open.spotify.com/artist/23t2TA28fx4549a1P0Nl65), [Naufal Azrin](https://open.spotify.com/artist/2VN6ToUICX0UvbJtUVa5Ij) | [CASABLANCA](https://open.spotify.com/album/79q2SC1pSKJ5feP5NfKGaU) | 3:00 | 2022-07-01 | 2022-09-23 |
 | [Celebrity](https://open.spotify.com/track/4RewTiGEGoO7FWNZUmp1f4) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Celebrity](https://open.spotify.com/album/3mtDgtcl4bxDN73kIM216g) | 3:15 | 2021-03-27\* | 2021-03-27 |
 | [Celebrity](https://open.spotify.com/track/5nCwjUUsmBuNZKn9Xu10Os) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:15 | 2021-03-27 | 2021-04-18 |
 | [Champagne Poetry](https://open.spotify.com/track/2HSmyk2qMN8WQjuGhaQgCk) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 5:36 | 2021-09-05 | 2021-09-07 |
@@ -266,6 +266,7 @@
 | [It's Love](https://open.spotify.com/track/5orHjvcyt71Sv1O4M1GSHf) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [공감 \(Empathy\) \- The 1st Mini Album](https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk) | 3:57 | 2021-07-28 | 2021-07-30 |
 | [It's the Most Wonderful Time of the Year](https://open.spotify.com/track/1IcR6RlgvDczfvoWJSSY2A) | [Andy Williams](https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9) | [The Andy Williams Christmas Album](https://open.spotify.com/album/30eO7X0doSEWKhDLAFLMuW) | 2:31 | 2021-12-25 | 2021-12-27 |
 | [It's You](https://open.spotify.com/track/7rdnB5DAyPbaj51TCQRcqW) | [Sezairi](https://open.spotify.com/artist/51sob9QZyfLff9XqvYluN5) | [It's You](https://open.spotify.com/album/5GulvBNneCO2QRjoWVzhWI) | 4:11 | 2021-08-16 | 2022-01-15 |
+| [IT'S YOU \(feat\. keshi\)](https://open.spotify.com/track/5SMCxRA6hB2jEhroaYfw6N) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [IT'S YOU \(feat\. keshi\)](https://open.spotify.com/album/1LtaBRxkVaAnoTSQQsWjJF) | 2:53 | 2022-09-22 |  |
 | [IT’S OKAY](https://open.spotify.com/track/2ctJxfMEz5NUS7OoG4RFPp) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE SECOND STEP : CHAPTER ONE](https://open.spotify.com/album/17l09k7ZDb4GYwmsIVGcRZ) | 3:40 | 2022-02-16 | 2022-02-19 |
 | [Jail](https://open.spotify.com/track/42ZrMq4BKsWDrrbMnMRYaK) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 4:57 | 2021-08-31 | 2021-09-03 |
 | [Janji Manis](https://open.spotify.com/track/31ECplyzYRmbQihescMh6N) | [Masdo](https://open.spotify.com/artist/2r1WoyhX1FSc7AmcF8rkoO) | [Jalan Abbey](https://open.spotify.com/album/3eMXmUpVMwBaVm6hEmr6Ns) | 3:16 | 2021-12-19 | 2022-02-24 |

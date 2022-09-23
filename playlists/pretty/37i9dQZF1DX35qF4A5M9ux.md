@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35qF4A5M9ux.md) - [plain]
 
 > ¡Éxitos salseros para prenderle fuego a la pista de baile!
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,304 likes - 100 songs - 8 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,571 likes - 100 songs - 8 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35qF4A5M9ux.md) - [plain]
 | 57 | [Hazme Olvidarla](https://open.spotify.com/track/752aNrC43L3ZCIuPoK8YTK) | [Willie Gonzalez](https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z) | [Grandes Exitos Vol\. 2](https://open.spotify.com/album/6F2D1YfaSnPpH5Lf2bbUoJ) | 5:37 |
 | 58 | [Si Volvieras A Mi](https://open.spotify.com/track/7FntdQdzMcHcD4QhItlq9s) | [Maelo Ruiz](https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw) | [En Tiempo De Amor](https://open.spotify.com/album/6oSejW0PK0YiKXj5YPm1tl) | 4:50 |
 | 59 | [Gracias Amor](https://open.spotify.com/track/09zJAF4Z2v55rU9XXZfA9N) | [Matecana Orquesta](https://open.spotify.com/artist/0ekJN54dVshW0hk3yWRiyl) | [Que Bueno](https://open.spotify.com/album/03402zoYuwCwfeQ2MLg6St) | 4:49 |
-| 60 | [No Me Acostumbro](https://open.spotify.com/track/4SjBGbtJz77ximBiOZcIn6) | [Rey Ruiz](https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ) | [Oro Salsero](https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE) | 4:49 |
-| 61 | [Y Qué Me Pasa](https://open.spotify.com/track/3h00Mu0HcUdCNaxxNoWB3B) | [Mickey Taveras](https://open.spotify.com/artist/1iVpMZKqpnZWfCXO2vIozm) | [Y Qué Me Pasa](https://open.spotify.com/album/7y91WmADTOR396FZe5KJGn) | 5:05 |
+| 60 | [Y Qué Me Pasa](https://open.spotify.com/track/3h00Mu0HcUdCNaxxNoWB3B) | [Mickey Taveras](https://open.spotify.com/artist/1iVpMZKqpnZWfCXO2vIozm) | [Y Qué Me Pasa](https://open.spotify.com/album/7y91WmADTOR396FZe5KJGn) | 5:05 |
+| 61 | [No Me Acostumbro](https://open.spotify.com/track/4SjBGbtJz77ximBiOZcIn6) | [Rey Ruiz](https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ) | [Oro Salsero](https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE) | 4:49 |
 | 62 | [Me Liberé](https://open.spotify.com/track/1IcnHHfeAkdc88LybFWwb9) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [Nuevo Milenio \- El Mismo Sabor](https://open.spotify.com/album/4VjDEGwmMTP7hOn2Afmbkn) | 4:23 |
 | 63 | [El Jardín Prohibido](https://open.spotify.com/track/1X2FA15vCCik0fcowxawDA) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [Los Años Dorados](https://open.spotify.com/album/7wkJGrDsVVf0NtChbQC8LN) | 5:30 |
 | 64 | [Quiero Morir En Tu Piel](https://open.spotify.com/track/3t3jGDeU3t1ro51C3x2pPR) | [Willie Gonzalez](https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z) | [Grandes Exitos](https://open.spotify.com/album/2FakrUxHjeJKeY0QxX4MGo) | 6:17 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35qF4A5M9ux.md) - [plain]
 | 99 | [Mascaras](https://open.spotify.com/track/7zKD27zr6GGvmnftzyze8O) | [El Inspector De La Salsa](https://open.spotify.com/artist/3jakCpqlxelvHkdvhPWl2p) | [Salsa Estelar](https://open.spotify.com/album/00TVXvhvENeaYgeHGzH157) | 5:26 |
 | 100 | [Dime Que Pasó](https://open.spotify.com/track/65D6E7asOuIcW8MQWaRCV2) | [The Latin Brothers](https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK), [Morist Jimenez](https://open.spotify.com/artist/5aGvZHNmq1JOt3vaEPDI2t) | [¡Para Bailar!](https://open.spotify.com/album/371uwra4kQVB4GyUxSSHGs) | 3:32 |
 
-Snapshot ID: `MTY1OTY0NDA5MSwwMDAwMDAwMDgzNTI0Mzg5OGIwNmVmZDAxMDliOGM4OGJmNjE0YmJk`
+Snapshot ID: `MTY1OTY0NDA5MSwwMDAwMDAwMGZhODM4ZTJhMTIzMjY0Njc5YzdhOTA0OGE1OGJiMzMz`

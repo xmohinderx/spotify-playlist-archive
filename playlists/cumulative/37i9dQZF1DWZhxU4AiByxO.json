@@ -3258,6 +3258,42 @@
     },
     {
       "album": {
+        "name": "BORN PINK",
+        "url": "https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175889,
+      "name": "Shut Down",
+      "url": "https://open.spotify.com/track/0ARKW62l9uWIDYMZTUmJHF"
+    },
+    {
+      "album": {
+        "name": "Smells Like Me",
+        "url": "https://open.spotify.com/album/3XvDbxerzYjQZRc6JfF9jY"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204079,
+      "name": "Smells Like Me",
+      "url": "https://open.spotify.com/track/6LXIhiXK8z1KLd3giR904b"
+    },
+    {
+      "album": {
         "name": "Smile",
         "url": "https://open.spotify.com/album/61HTU0pcDaTmotLnBQgoLs"
       },

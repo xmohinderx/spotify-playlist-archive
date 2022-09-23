@@ -1,12 +1,12 @@
 {
   "description": "I woke up this morning\u2026 to the chilled sound of the Blues.",
-  "num_followers": 39358,
+  "num_followers": 39451,
   "original_name": "Morning Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzY5MDUzNCwwMDAwMDAwMDJlNTFjNjgzZjkyMDNmNjY3MmQwYzUxMTQ3ZTgwMmRh",
+  "snapshot_id": "MTY2MzY5MDUzNCwwMDAwMDAwMDEzNjllNmM0ZDQ1NzQxOTllMjhlNjAzYjEzNTIyZjUw",
   "tracks": [
     {
       "added_at": "2022-09-20 16:15:34",
@@ -91,6 +91,22 @@
     {
       "added_at": "2022-09-20 16:15:34",
       "album": {
+        "name": "Freedom Flight",
+        "url": "https://open.spotify.com/album/7suTZDEkiDpzkouw300noM"
+      },
+      "artists": [
+        {
+          "name": "Shuggie Otis",
+          "url": "https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl"
+        }
+      ],
+      "duration_ms": 252173,
+      "name": "Sweet Thang",
+      "url": "https://open.spotify.com/track/2u3HmBPHrk3ooSdVikignW"
+    },
+    {
+      "added_at": "2022-09-20 16:15:34",
+      "album": {
         "name": "Talking Timbuktu (with Ry Cooder)",
         "url": "https://open.spotify.com/album/2MSgPFGGgIn5EqLezjLpt9"
       },
@@ -107,22 +123,6 @@
       "duration_ms": 429973,
       "name": "Ai Du (with Ry Cooder)",
       "url": "https://open.spotify.com/track/3c6wivu78aLN7ZXp8UbpaI"
-    },
-    {
-      "added_at": "2022-09-20 16:15:34",
-      "album": {
-        "name": "Freedom Flight",
-        "url": "https://open.spotify.com/album/7suTZDEkiDpzkouw300noM"
-      },
-      "artists": [
-        {
-          "name": "Shuggie Otis",
-          "url": "https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl"
-        }
-      ],
-      "duration_ms": 252173,
-      "name": "Sweet Thang",
-      "url": "https://open.spotify.com/track/2u3HmBPHrk3ooSdVikignW"
     },
     {
       "added_at": "2022-09-20 16:15:34",

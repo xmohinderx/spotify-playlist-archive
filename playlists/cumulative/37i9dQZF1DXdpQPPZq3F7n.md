@@ -4,7 +4,7 @@
 
 > Best Bollywood love songs from last 10 years\. Cover\- Arijit Singh
 
-103 songs - 7 hr 14 min - [published](https://open.spotify.com/playlist/12gsYyhSmdkqjPDElYuEed)
+104 songs - 7 hr 17 min - [published](https://open.spotify.com/playlist/12gsYyhSmdkqjPDElYuEed)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Main Dhoondne Ko Zamaane Mein](https://open.spotify.com/track/75p6BrziB5urmwPCeXl3y7) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Heartless](https://open.spotify.com/album/1hPrjTLgnaAlEmDIDtfd5X) | 4:22 | 2022-05-19 |  |
 | [Main Ki Karaan? \(From "Laal Singh Chaddha"\)](https://open.spotify.com/track/0FaYl39oV2OPFGYJ6MbILr) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2), [Romy](https://open.spotify.com/artist/0bRPtPZQkWHeG7MGk9eWlh) | [Main Ki Karaan? \(From "Laal Singh Chaddha"\)](https://open.spotify.com/album/19agsRoi5VkKa80qfnmpx7) | 4:14 | 2022-05-19 | 2022-09-09 |
 | [Maiyya Mainu \(From "Jersey"\)](https://open.spotify.com/track/4PwTeFfKqmR3XIeXXUBDOf) | [Sachet\-Parampara](https://open.spotify.com/artist/1SyKki7JI1AZNKwgNMkn25), [Sachet Tandon](https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG) | [Maiyya Mainu \(From "Jersey"\)](https://open.spotify.com/album/1I3s1v090iECnF0ZhCL1ui) | 3:51 | 2022-05-19 |  |
+| [Manike \(From "Thank God"\)](https://open.spotify.com/track/0zlGnseLGzRIBA0TJcb3Bo) | [Yohani](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI), [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Rashmi Virag](https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo), [Surya Ragunaathan](https://open.spotify.com/artist/0GiAC4VvvYCypjRH6IiasK) | [Manike \(From "Thank God"\)](https://open.spotify.com/album/30CfQvXOWrJx6kCglMcbo3) | 3:17 | 2022-09-22 |  |
 | [Mann Bharryaa 2.0 \(From "Shershaah"\)](https://open.spotify.com/track/3jf5303mzzJ96O8xFTcEn4) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j) | [Mann Bharryaa 2.0 \(From "Shershaah"\)](https://open.spotify.com/album/37nWpT1gls52Tu6pymuPw3) | 4:26 | 2022-05-19 |  |
 | [Mann Mera \(From "Table No\. 21"\)](https://open.spotify.com/track/2BeY2dQPbD8xYxx3yhBTVD) | [Gajendra Verma](https://open.spotify.com/artist/1yzgJmZf5CxtFfGfRFm4Si) | [Table No\. 21](https://open.spotify.com/album/3O895TQZsINpYkZuMtIwFF) | 3:18 | 2022-05-19 | 2022-07-29 |
 | [Mann Mera \(From "Table No\. 21"\)](https://open.spotify.com/track/6k1f836hWD6F0ZehWTsyeQ) | [Gajendra Verma](https://open.spotify.com/artist/1yzgJmZf5CxtFfGfRFm4Si) | [Table No\. 21](https://open.spotify.com/album/7dqB9md2WPaVL30pChWGyv) | 3:18 | 2022-07-25 |  |

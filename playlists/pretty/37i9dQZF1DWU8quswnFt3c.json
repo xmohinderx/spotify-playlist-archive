@@ -1,12 +1,12 @@
 {
   "description": "Listen to women from all over the world, at full volume. Cover: Shania Twain",
-  "num_followers": 847786,
+  "num_followers": 847744,
   "original_name": "EQUAL Global ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzA1NzI3NSwwMDAwMDAwMGNmZmNmMmIwMjMxN2E1MTJiYmQ3Zjg0ZDE4ZGFmYmYz",
+  "snapshot_id": "MTY2MzA1NzI3NSwwMDAwMDAwMDE0MmYxNzU3OTUzNzczNTI3MDg3YTZiZjVmMDJmZTNl",
   "tracks": [
     {
       "added_at": "2022-09-13 08:21:15",
@@ -143,22 +143,6 @@
     {
       "added_at": "2022-09-13 08:21:15",
       "album": {
-        "name": "Ligo Ligo",
-        "url": "https://open.spotify.com/album/1vRQu7kPciIGfVhWABjTnN"
-      },
-      "artists": [
-        {
-          "name": "Anastasia",
-          "url": "https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Ligo Ligo",
-      "url": "https://open.spotify.com/track/4ba3bmE2i6SvEXIaJYhUoJ"
-    },
-    {
-      "added_at": "2022-09-13 08:21:15",
-      "album": {
         "name": "\u05e4\u05e0\u05ea\u05e8\u05d4",
         "url": "https://open.spotify.com/album/25E9FesbHAUYUxUJCswURR"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 173602,
       "name": "\u05e4\u05e0\u05ea\u05e8\u05d4",
       "url": "https://open.spotify.com/track/5A3bEckI7AjWTguGqZOzUm"
+    },
+    {
+      "added_at": "2022-09-13 08:21:15",
+      "album": {
+        "name": "Ligo Ligo",
+        "url": "https://open.spotify.com/album/1vRQu7kPciIGfVhWABjTnN"
+      },
+      "artists": [
+        {
+          "name": "Anastasia",
+          "url": "https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Ligo Ligo",
+      "url": "https://open.spotify.com/track/4ba3bmE2i6SvEXIaJYhUoJ"
     },
     {
       "added_at": "2022-09-13 08:21:15",
@@ -255,22 +255,6 @@
     {
       "added_at": "2022-09-13 08:21:15",
       "album": {
-        "name": "\u05d0\u05d9\u05e0\u05d8\u05dc\u05e7\u05d8\u05d5\u05e2\u05e8\u05e1 (Prod. By Triangle)",
-        "url": "https://open.spotify.com/album/5hXvq7DKidrNEns8VZkQLW"
-      },
-      "artists": [
-        {
-          "name": "Odeya",
-          "url": "https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA"
-        }
-      ],
-      "duration_ms": 152542,
-      "name": "\u05d0\u05d9\u05e0\u05d8\u05dc\u05e7\u05d8\u05d5\u05e2\u05e8\u05e1 (Prod. By Triangle)",
-      "url": "https://open.spotify.com/track/2XNXcmwubbt8MJYlQRb4V2"
-    },
-    {
-      "added_at": "2022-09-13 08:21:15",
-      "album": {
         "name": "Sempat",
         "url": "https://open.spotify.com/album/0hJPhUjVVEd25SzsPBfgnX"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 232554,
       "name": "Sempat",
       "url": "https://open.spotify.com/track/6RtzFvaNc67EHQDm1bBRi7"
+    },
+    {
+      "added_at": "2022-09-13 08:21:15",
+      "album": {
+        "name": "\u05d0\u05d9\u05e0\u05d8\u05dc\u05e7\u05d8\u05d5\u05e2\u05e8\u05e1 (Prod. By Triangle)",
+        "url": "https://open.spotify.com/album/5hXvq7DKidrNEns8VZkQLW"
+      },
+      "artists": [
+        {
+          "name": "Odeya",
+          "url": "https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA"
+        }
+      ],
+      "duration_ms": 152542,
+      "name": "\u05d0\u05d9\u05e0\u05d8\u05dc\u05e7\u05d8\u05d5\u05e2\u05e8\u05e1 (Prod. By Triangle)",
+      "url": "https://open.spotify.com/track/2XNXcmwubbt8MJYlQRb4V2"
     },
     {
       "added_at": "2022-09-13 08:21:15",
@@ -531,22 +531,6 @@
     {
       "added_at": "2022-09-13 08:21:15",
       "album": {
-        "name": "Colours Of You",
-        "url": "https://open.spotify.com/album/41YkwGJXDZy4nVAoCipCY7"
-      },
-      "artists": [
-        {
-          "name": "Nina Nesbitt",
-          "url": "https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd"
-        }
-      ],
-      "duration_ms": 218040,
-      "name": "Colours Of You",
-      "url": "https://open.spotify.com/track/0fgb9XN0RUp5phN8UADvsP"
-    },
-    {
-      "added_at": "2022-09-13 08:21:15",
-      "album": {
         "name": "Ocean Blue",
         "url": "https://open.spotify.com/album/5ttNbjh8ZcFwRz5Sn7V4vv"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 202360,
       "name": "Ocean Blue",
       "url": "https://open.spotify.com/track/6ydTM3R9A7uqGJkwkKTMp5"
+    },
+    {
+      "added_at": "2022-09-13 08:21:15",
+      "album": {
+        "name": "Colours Of You",
+        "url": "https://open.spotify.com/album/41YkwGJXDZy4nVAoCipCY7"
+      },
+      "artists": [
+        {
+          "name": "Nina Nesbitt",
+          "url": "https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd"
+        }
+      ],
+      "duration_ms": 218040,
+      "name": "Colours Of You",
+      "url": "https://open.spotify.com/track/0fgb9XN0RUp5phN8UADvsP"
     },
     {
       "added_at": "2022-09-13 08:21:15",
@@ -663,22 +663,6 @@
     {
       "added_at": "2022-09-13 08:21:15",
       "album": {
-        "name": "self sabotage",
-        "url": "https://open.spotify.com/album/34u86bUB4rmIcU8FGjPj4C"
-      },
-      "artists": [
-        {
-          "name": "Maggie Lindemann",
-          "url": "https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf"
-        }
-      ],
-      "duration_ms": 166758,
-      "name": "you're not special",
-      "url": "https://open.spotify.com/track/3KOi4iJ5t3vbaMdMxWQ30S"
-    },
-    {
-      "added_at": "2022-09-13 08:21:15",
-      "album": {
         "name": "Mi Loco Amor",
         "url": "https://open.spotify.com/album/6oNvO33sdfOdnE2o2RLP62"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 213705,
       "name": "Mi Loco Amor",
       "url": "https://open.spotify.com/track/2IkjSf9VxQAA7uSipkNsOJ"
+    },
+    {
+      "added_at": "2022-09-13 08:21:15",
+      "album": {
+        "name": "self sabotage",
+        "url": "https://open.spotify.com/album/34u86bUB4rmIcU8FGjPj4C"
+      },
+      "artists": [
+        {
+          "name": "Maggie Lindemann",
+          "url": "https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf"
+        }
+      ],
+      "duration_ms": 166758,
+      "name": "you're not special",
+      "url": "https://open.spotify.com/track/3KOi4iJ5t3vbaMdMxWQ30S"
     },
     {
       "added_at": "2022-09-13 08:21:15",
@@ -727,22 +727,6 @@
     {
       "added_at": "2022-09-13 08:21:15",
       "album": {
-        "name": "Dziwol\u0105g",
-        "url": "https://open.spotify.com/album/3BY9C6MyCIOSEUTqV4jMsv"
-      },
-      "artists": [
-        {
-          "name": "Wiktoria Zwoli\u0144ska",
-          "url": "https://open.spotify.com/artist/1Dyn3KxMNqGRpIEeXekqhf"
-        }
-      ],
-      "duration_ms": 147490,
-      "name": "Dziwol\u0105g",
-      "url": "https://open.spotify.com/track/32UXpfgM7meOgdsr0VVk61"
-    },
-    {
-      "added_at": "2022-09-13 08:21:15",
-      "album": {
         "name": "Paralizado",
         "url": "https://open.spotify.com/album/2MdDdIH9TlOkMeQztj5rLa"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 187933,
       "name": "Paralizado",
       "url": "https://open.spotify.com/track/1FEYsHYeKFrNzWm6R3OM30"
+    },
+    {
+      "added_at": "2022-09-13 08:21:15",
+      "album": {
+        "name": "Dziwol\u0105g",
+        "url": "https://open.spotify.com/album/3BY9C6MyCIOSEUTqV4jMsv"
+      },
+      "artists": [
+        {
+          "name": "Wiktoria Zwoli\u0144ska",
+          "url": "https://open.spotify.com/artist/1Dyn3KxMNqGRpIEeXekqhf"
+        }
+      ],
+      "duration_ms": 147490,
+      "name": "Dziwol\u0105g",
+      "url": "https://open.spotify.com/track/32UXpfgM7meOgdsr0VVk61"
     },
     {
       "added_at": "2022-09-13 08:21:15",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2022-09-13 08:21:15",
       "album": {
+        "name": "Ver\u00edm",
+        "url": "https://open.spotify.com/album/0SZQhC66vnT1mI56oQDatX"
+      },
+      "artists": [
+        {
+          "name": "Katarina Knechtova",
+          "url": "https://open.spotify.com/artist/0z3P3pZfNH9PP0pMwVkSwh"
+        }
+      ],
+      "duration_ms": 198482,
+      "name": "Ver\u00edm",
+      "url": "https://open.spotify.com/track/4wVBzqaWU4apXIpQPtV761"
+    },
+    {
+      "added_at": "2022-09-13 08:21:15",
+      "album": {
         "name": "Flavors",
         "url": "https://open.spotify.com/album/05aUOvpdNReQlFybLgVLNe"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 185626,
       "name": "Wicked",
       "url": "https://open.spotify.com/track/0kcPy2Y7EjCuVtcyfdMVCx"
-    },
-    {
-      "added_at": "2022-09-13 08:21:15",
-      "album": {
-        "name": "Ver\u00edm",
-        "url": "https://open.spotify.com/album/0SZQhC66vnT1mI56oQDatX"
-      },
-      "artists": [
-        {
-          "name": "Katarina Knechtova",
-          "url": "https://open.spotify.com/artist/0z3P3pZfNH9PP0pMwVkSwh"
-        }
-      ],
-      "duration_ms": 198482,
-      "name": "Ver\u00edm",
-      "url": "https://open.spotify.com/track/4wVBzqaWU4apXIpQPtV761"
     },
     {
       "added_at": "2022-09-13 08:21:15",

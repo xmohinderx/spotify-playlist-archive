@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 
 > A quality alternative blend\. Cover: Danielle Ponder
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,362 likes - 128 songs - 7 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,405 likes - 128 songs - 7 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 | 6 | [If I Were A Butterfly \- Single Version](https://open.spotify.com/track/6inkWeYbXK6IuhCALR379j) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [If I Were A Butterfly](https://open.spotify.com/album/5zF48gx3TWHg2Mi8nFrtpn) | 5:11 |
 | 7 | [Automatic](https://open.spotify.com/track/3TbdbnsJ7MRhyqayI7s17O) | [Motel Radio](https://open.spotify.com/artist/69tXKp8pHBX6ZoVMkNdvt7) | [The Garden](https://open.spotify.com/album/0mqEfZEXRTGAqGSAhn9RkK) | 4:23 |
 | 8 | [Burning](https://open.spotify.com/track/07IAGsfYqS8sZSECzK1hZK) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Burning](https://open.spotify.com/album/71Dk5SUWHmMrRnfPwYRnGB) | 4:05 |
-| 9 | [Here to Forever](https://open.spotify.com/track/3uKLuVqBd0bIUfFDdn68lI) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Here to Forever](https://open.spotify.com/album/3ysrZoXIO6es1hsQI2iTeZ) | 3:46 |
+| 9 | [Here to Forever](https://open.spotify.com/track/7Cva2EgJougx6O6M5xgWAq) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Asphalt Meadows](https://open.spotify.com/album/2PIWPTOIxbaVSjTnc30vXS) | 3:46 |
 | 10 | [Youngblood](https://open.spotify.com/track/11jCHa5pshglw7YHSmoDYm) | [Jonathan Jeremiah](https://open.spotify.com/artist/2TdWlAJcUHu32O3Yld3rsU) | [Youngblood](https://open.spotify.com/album/5tDG6ZFXWVigQfyuQ8FdsY) | 3:34 |
 | 11 | [I'm a Man](https://open.spotify.com/track/0x0BAh5h0ttabkoiWcv3Wo) | [Michelle Branch](https://open.spotify.com/artist/5rScKX1Sh1U67meeUyTGwk) | [I'm a Man](https://open.spotify.com/album/5quvKWbQnbnOLhRrQmt1Gn) | 3:01 |
 | 12 | [Supernatural](https://open.spotify.com/track/3HFvMIvCBNGkypFCQUHjyV) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [Supernatural](https://open.spotify.com/album/5T0qNPygFFXWjhnzSzlTWD) | 2:47 |
@@ -137,4 +137,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 | 127 | [I Believe in You](https://open.spotify.com/track/0Ml7rd3x4n1CVqqqWa1OVj) | [more\*](https://open.spotify.com/artist/1PNlt30lRnQITXc9vMnv7i) | [I Believe in You](https://open.spotify.com/album/7r4vwcfdbzyR1L2tHugI6G) | 4:09 |
 | 128 | [Bad Spell](https://open.spotify.com/track/3xMat5dBN7UXgK8a6E8n93) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Bad Spell](https://open.spotify.com/album/2uX8wXgr0jog1Xz6vZSxLS) | 3:15 |
 
-Snapshot ID: `MTY2MzMwMDgwMCwwMDAwMDAwMGZhZWIwMmVlOGU5MWU3NzY4ZTJiMzlmODQ5NzZhMGY1`
+Snapshot ID: `MTY2MzMwMDgwMCwwMDAwMDAwMDUwNTRmMGQzNjYwNTZkOGFhMzdhYTU5MzljYWIxNmRl`

@@ -4,7 +4,7 @@
 
 > Unas buenas cumbias con el calor de la gente! <br/>Foto: Pablo Lescano & El Mago.
 
-115 songs - 7 hr 46 min - [published](https://open.spotify.com/playlist/2wJPFQSijKKEawsi9DOknr)
+116 songs - 7 hr 50 min - [published](https://open.spotify.com/playlist/2wJPFQSijKKEawsi9DOknr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Perdoname / Te Quiero a Ti \- En Vivo](https://open.spotify.com/track/7cGu8dFYxocYccdAR9mOGL) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg) | [En el Gran Rex \(En Vivo\)](https://open.spotify.com/album/2m85X2JbnDrgMg529Uc3wu) | 4:29 | 2022-01-03 |  |
 | [Persiana Americana \- En Vivo](https://open.spotify.com/track/2wTDMjqzZzpSsQ0R56uXBL) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [En Vivo](https://open.spotify.com/album/0wdwM7dPqceHeIdCXL5UGL) | 1:11 | 2021-12-10 |  |
 | [Pibe Cantina](https://open.spotify.com/track/0yrlxBC5eeMRXLQyVVMV9e) | [Yerba Brava](https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6) | [En Vivo](https://open.spotify.com/album/1LdPP5ucu3EselExGmWjPy) | 4:15 | 2021-12-10 | 2022-09-11 |
+| [Pibe Cantina](https://open.spotify.com/track/1mgOFzzOQkGIE7wWrsFSBL) | [Yerba Brava](https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6) | [En Vivo](https://open.spotify.com/album/4PhhgpQ5bkLyCRVDL0hVpI) | 4:15 | 2022-08-26 |  |
 | [Poco a Poco / La Chica Indicada / Un Sueño / Separemonos / Fui Feliz / Amor, Amor / Ahora Regresas / En Este Mundo / La Pollera de Jimmy \- En Vivo](https://open.spotify.com/track/5biJmTVSy8a0rxgj0LbmF4) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc) | [En Vivo en el Teatro](https://open.spotify.com/album/1vvB4ZiqQrtrt0xBrh96qW) | 19:49 | 2021-12-10 |  |
 | [Por Culpa del Vino](https://open.spotify.com/track/35u7dRVnxMJwA9TL9jQ3of) | [El Super Hobby](https://open.spotify.com/artist/4nTNHKAVWQyqnvRuBW4N4V), [Fede Rojas](https://open.spotify.com/artist/0xJhZwxGtFJ6n5ZAJbVAEe) | [Por Siempre](https://open.spotify.com/album/4XO4d5OymSnSwoQYYRPInc) | 3:47 | 2021-12-10 | 2022-04-20 |
 | [Presentación / Dejémoslo Así \- En Vivo](https://open.spotify.com/track/0KOhixb30mbp9ylyQXnufj) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [En Vivo en Ciudad Cultural Konex](https://open.spotify.com/album/6Vyd5KnNi0zKuYXbbfqNTy) | 4:06 | 2022-01-07 | 2022-07-28 |
@@ -118,7 +119,7 @@
 | [Tu Sin Mi \- En Vivo](https://open.spotify.com/track/31jGueHW0i2xaGCtslbrdl) | [La Liga](https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6) | [En Vivo](https://open.spotify.com/album/67Ty9iopzTNcw0EGggjan6) | 3:41 | 2021-12-10 |  |
 | [Tú, La Más Bella](https://open.spotify.com/track/0INfS0VDSgKQS3jCDdTMOX) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [Ay, Amor \(En Vivo\)](https://open.spotify.com/album/6oYbjZU53uWm8p3vcFTDQZ) | 2:49 | 2021-12-10 |  |
 | [Un Amor Que No Se Olvida \- En Vivo](https://open.spotify.com/track/2U7pudlBcLKtF79qyUjRKJ) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [En Vivo](https://open.spotify.com/album/0wdwM7dPqceHeIdCXL5UGL) | 1:45 | 2022-01-03 | 2022-07-29 |
-| [Un Millon de Rosas / Me Enamore / El Camison \(En Vivo\)](https://open.spotify.com/track/1XtgMbP5enmvmfOoPtt2Io) | [Ale Ceberio](https://open.spotify.com/artist/7fxj9VjDxGpHfOPEkgxm6e) | [Un Millon de Rosas / Me Enamore de una Bandida / El Camison \(En Vivo\)](https://open.spotify.com/album/6Xp8jfGfA8gCZa5PK3Rlwo) | 7:09 | 2021-12-10 |  |
+| [Un Millon de Rosas / Me Enamore / El Camison \(En Vivo\)](https://open.spotify.com/track/1XtgMbP5enmvmfOoPtt2Io) | [Ale Ceberio](https://open.spotify.com/artist/7fxj9VjDxGpHfOPEkgxm6e) | [Un Millon de Rosas / Me Enamore de una Bandida / El Camison \(En Vivo\)](https://open.spotify.com/album/6Xp8jfGfA8gCZa5PK3Rlwo) | 7:09 | 2021-12-10 | 2022-09-23 |
 | [Una Calle Nos Separa \- En Vivo](https://open.spotify.com/track/4VGpzNCteGSN08HvBE1jkf) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg) | [En el Gran Rex \(En Vivo\)](https://open.spotify.com/album/2m85X2JbnDrgMg529Uc3wu) | 2:44 | 2021-12-10 |  |
 | [Vamos A Bailar](https://open.spotify.com/track/45w6jlCTU1PEIAlYZYNhtT) | [Yerba Brava](https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6) | [En Vivo](https://open.spotify.com/album/1LdPP5ucu3EselExGmWjPy) | 4:58 | 2021-12-10 | 2022-09-12 |
 | [Ya Te Olvide \- En Vivo](https://open.spotify.com/track/1Xhy66Vvyk4KUSNWx3P8Qf) | [Los Pibes del Penal](https://open.spotify.com/artist/23h9kiR8GTLVQyoGWVubqi) | [Ya Te Olvide \(En Vivo\)](https://open.spotify.com/album/69vSl7Ue6NQe92t0k7LVwC) | 4:20 | 2021-12-10 | 2022-07-29 |

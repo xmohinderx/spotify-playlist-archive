@@ -4,7 +4,7 @@
 
 > Bad b\*\*\*\* energy\. Be blessed, be spicy\. Cover: Nicki Minaj
 
-235 songs - 11 hr 33 min - [published](https://open.spotify.com/playlist/6fHUp4TYDozaapLssJC9LA)
+236 songs - 11 hr 36 min - [published](https://open.spotify.com/playlist/6fHUp4TYDozaapLssJC9LA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,6 +222,7 @@
 | [Tuh \(feat\. Queendom Come\)](https://open.spotify.com/track/3Ws45kDHTzluLrOBphKwkO) | [BeatKing](https://open.spotify.com/artist/5L8p9kDnX2cgoI8VLUL2p4), [Queendom Come](https://open.spotify.com/artist/0tFnayGz6sZxgRf1YS5VmI) | [Tuh \(feat\. Queendom Come\)](https://open.spotify.com/album/7owOwgant5ITCSmbCD1NL5) | 2:20 | 2022-04-15 | 2022-04-29 |
 | [TWINNEM](https://open.spotify.com/track/3oE2HPoP7DCgxhrqjAosZY) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [TWINNEM](https://open.spotify.com/album/0Am2vQjzogt7wnXMzzC8Mr) | 1:57 | 2021-10-15 | 2022-01-11 |
 | [Uhuh Yeah](https://open.spotify.com/track/2vFoOqeMKwLNp5q56TMPSU) | [G.L.A.M.](https://open.spotify.com/artist/0AQ2vnf2f5UNnbTmU0ggYZ), [Colbie](https://open.spotify.com/artist/4Gt6xGVHlxudOrO4VRuNRm) | [Uhuh Yeah](https://open.spotify.com/album/3tabisoRGn39DsCBNcqKR5) | 3:40 | 2022-02-17 | 2022-03-05 |
+| [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi) | 2:36 | 2022-09-22 |  |
 | [Up](https://open.spotify.com/track/1XXimziG1uhM0eDNCZCrUl) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Up](https://open.spotify.com/album/5BNrcvfbLyADks4RXPW7VP) | 2:36 | 2021-10-15 |  |
 | [Up And Down](https://open.spotify.com/track/1uQ1TZ9YIWCtBTgq09uoix) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her \(Deluxe\)](https://open.spotify.com/album/4XLPYMERZZaBzkJg0mkdvO) | 2:31 | 2021-10-26 | 2022-04-11 |
 | [Vegas \(From the Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/track/0hquQWY3xvYqN4qtiquniF) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Vegas \(From the Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/album/2Q5DPv9uliinOBSdNooIe3) | 3:02 | 2022-05-06 |  |

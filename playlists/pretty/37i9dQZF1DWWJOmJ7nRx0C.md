@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 
 > The hardest songs, loud\. Very loud\. Cover:  STARSET
 
-[Spotify](https://open.spotify.com/user/spotify) - 850,386 likes - 151 songs - 9 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 850,543 likes - 151 songs - 9 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 | 44 | [Echolocate Your Love](https://open.spotify.com/track/5P37xjNwr4ZgXG4JbsiXqT) | [VV](https://open.spotify.com/artist/5QeGMmMBYG14aeTzkVny1l) | [Echolocate Your Love](https://open.spotify.com/album/6mLQgWO8DFzqT9H8pYVIOu) | 3:24 |
 | 45 | [I Still Burn](https://open.spotify.com/track/7LYlvig8Sjclil4xO7ZKjk) | [Fozzy](https://open.spotify.com/artist/59CIPNdUfewexxn1CJEdp5) | [Boombox](https://open.spotify.com/album/2IZGL8m1sfmD1f0mi2iMPY) | 3:55 |
 | 46 | [Rest In Peace](https://open.spotify.com/track/1nx0EzitUaNF08xrQunABp) | [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up) | [Rest In Peace](https://open.spotify.com/album/4OVPoCoVpZ9qhhicoabdiE) | 3:37 |
-| 47 | [Ramon Ayala](https://open.spotify.com/track/7oRlqeavsFnEtKoUueqyiL) | [Giovannie and the Hired Guns](https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94) | [Ramon Ayala](https://open.spotify.com/album/0uDXEh8zPFRjAGizuol1EI) | 2:48 |
+| 47 | [Ramon Ayala](https://open.spotify.com/track/7mrLFLPPXee4E0JH2trPJz) | [Giovannie and the Hired Guns](https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94) | [Ramon Ayala](https://open.spotify.com/album/3QHU1NiJaARZJbBbYG1BeQ) | 2:48 |
 | 48 | [Natural Born Killer](https://open.spotify.com/track/78wMThFTNKThsWq19o0F1H) | [Highly Suspect](https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg) | [Natural Born Killer/Pink Lullabye](https://open.spotify.com/album/379z7WiokF2pa4kKUgVjRF) | 3:16 |
 | 49 | [DEEP CUTS](https://open.spotify.com/track/2ZTp176VMqvwwcQ62AQuCk) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [DEEP CUTS](https://open.spotify.com/album/2HbkSg3fAswxdCk5Bj23LO) | 4:14 |
 | 50 | [CHOKE \(with grandson & Zero 9:36\)](https://open.spotify.com/track/3AV8nyFN5AgejU5DZI9wKl) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh), [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4), [Zero 9:36](https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0) | [CHOKE](https://open.spotify.com/album/6AovsGSkC91dKnj7rXeK0z) | 2:40 |
@@ -160,4 +160,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 | 150 | [American Dream](https://open.spotify.com/track/1Fl5pNT0nM667ugiC08mPd) | [DIAMANTE](https://open.spotify.com/artist/6jMXENspOIBHOTQNQDTxsW), [Lit](https://open.spotify.com/artist/5mgr0FFpvy267wKVAYg8qp) | [American Dream](https://open.spotify.com/album/52EG4cU5zsXOZZrKRl2ixV) | 3:05 |
 | 151 | [Only Love Can Save Me Now \[Feat\. Matt Cameron & Kim Thayil\]](https://open.spotify.com/track/4jXoiJSLQkAft0L5D1yjDb) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq), [Matt Cameron](https://open.spotify.com/artist/4NfvOU2TMtQhyBOW0erSDf), [Kim Thayil](https://open.spotify.com/artist/0XY2RjIqyilsOHYiNro5tD) | [Death By Rock And Roll](https://open.spotify.com/album/2ysgEIHY4aOMMbbu0uV6ey) | 5:12 |
 
-Snapshot ID: `MTY2MzYwNDIzOCwwMDAwMDAwMGIzNDIxMDAyOGNmYTlhNTg1MTlkYjNhZjljMjhmZDRh`
+Snapshot ID: `MTY2MzYwNDIzOCwwMDAwMDAwMDVlNDM3OTRmYTk0YzRhYzI4ZjQ1ZjY4NTExZjFhOWVj`

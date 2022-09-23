@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zwZ4R1dXab.md) - [plain]
 
 > Songs and episodes to help calm your mind, co curated by Clinical psychologist 'Sonali Gupta'.
 
-[Spotify](https://open.spotify.com/user/spotify) - 281 likes - 75 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 382 likes - 75 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zwZ4R1dXab.md) - [plain]
 | 43 | [Varazdin](https://open.spotify.com/track/4MbjcL460D3UHueKiREBPZ) | [Davorka Poljak](https://open.spotify.com/artist/4BBOdslZwXmnXLC4JUm3xg) | [Varazdin](https://open.spotify.com/album/4vYwpkP10mwLThSSeYpsoV) | 1:46 |
 | 44 | [Salve](https://open.spotify.com/track/3ciGnLsselzhecVZZiHzfZ) | [Ferdinando Zetticci](https://open.spotify.com/artist/4MLLLG0z38an4nXddu8R3O) | [Salve](https://open.spotify.com/album/73yZQQSNzwlGyMBwndXjrd) | 2:50 |
 | 45 | [Silent](https://open.spotify.com/track/2wtXjG8mWHPGKbJcVNzjAR) | [Sogni Lunari](https://open.spotify.com/artist/02LLVbAMjm7ALCBmjmihqL) | [Silent](https://open.spotify.com/album/1qN9ZsA6ELL3C5dOOdwrTf) | 2:13 |
-| 46 | [Sleeping Beauty](https://open.spotify.com/track/0l1YnleLOy8MYRImQBYB1Q) | [Isaac Cassidy](https://open.spotify.com/artist/3QoWofhE474wVe9XdvQrHJ) | [Sleeping Beauty](https://open.spotify.com/album/259LOCwtmWn8iDUzgNle8K) | 2:01 |
-| 47 | [Apart, Together](https://open.spotify.com/track/0OiXiEqUyVZrz8OnJkek2q) | [Garreth Broke](https://open.spotify.com/artist/2VfNXBb3vlgXHEzQci1btx) | [Apart, Together](https://open.spotify.com/album/5XtJ21nRx5xJ9KNI9bZP2e) | 2:04 |
+| 46 | [Apart, Together](https://open.spotify.com/track/0OiXiEqUyVZrz8OnJkek2q) | [Garreth Broke](https://open.spotify.com/artist/2VfNXBb3vlgXHEzQci1btx) | [Apart, Together](https://open.spotify.com/album/5XtJ21nRx5xJ9KNI9bZP2e) | 2:04 |
+| 47 | [Sleeping Beauty](https://open.spotify.com/track/0l1YnleLOy8MYRImQBYB1Q) | [Isaac Cassidy](https://open.spotify.com/artist/3QoWofhE474wVe9XdvQrHJ) | [Sleeping Beauty](https://open.spotify.com/album/259LOCwtmWn8iDUzgNle8K) | 2:01 |
 | 48 | [On the Stairs](https://open.spotify.com/track/6qedmSEhHCcpsAxSAc0YZ0) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [On the Stairs](https://open.spotify.com/album/1y6ItDuTMzmJfIJ6Z4ghGu) | 2:21 |
 | 49 | [City Lights](https://open.spotify.com/track/041EqVueOI4pszWGJfKerh) | [Oliver Évilo](https://open.spotify.com/artist/6pr16671AS8qchaPqDDM0Y) | [City Lights](https://open.spotify.com/album/5edrSUkO57ts9EwVVjvPAx) | 2:06 |
 | 50 | [Comtemplating Still](https://open.spotify.com/track/3nq5cRQENEy6gZGwhlpdPz) | [Bree Arnold](https://open.spotify.com/artist/442UEEXcXRGduZmBuiZCwV) | [Comtemplating Still](https://open.spotify.com/album/6nEgQaVsZ4unrb44vrRRZo) | 1:40 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zwZ4R1dXab.md) - [plain]
 | 54 | [Desiderium](https://open.spotify.com/track/07KyFspZCxCatWgaXoPlXg) | [Christine Papst](https://open.spotify.com/artist/0PRooTT7V1vNPXCHBRomZE) | [Desiderium](https://open.spotify.com/album/6uUZU6NCqEjsFf3piG0srU) | 2:24 |
 | 55 | [Piano Eléctrico](https://open.spotify.com/track/658ysPC6WdtiRSQjiv2AJZ) | [Rancul](https://open.spotify.com/artist/7cVXjdkl7yJQfp2a76guvf) | [Rancul](https://open.spotify.com/album/30dDuezgO9cqoTGi0cMhPn) | 1:45 |
 | 56 | [Papperssvalan](https://open.spotify.com/track/537FP4rNU5SILZ5uWF2zDi) | [Norröga](https://open.spotify.com/artist/6k2rfOW9DnWyV4cKXkfjMw) | [Papperssvalan](https://open.spotify.com/album/2Qg3Na5QnWlPFJf0O2CiWV) | 2:33 |
-| 57 | [Space And Time](https://open.spotify.com/track/2WlKoxl8hJiuOgKolOH3WR) | [Lake Geneva](https://open.spotify.com/artist/6CcMV3fTlrJ4ECazXDdOA9) | [Space And Time](https://open.spotify.com/album/5RpZBi2zTH4WjK7AWc5OzN) | 2:25 |
-| 58 | [I Will Wait](https://open.spotify.com/track/5efmTcG1xyKUGP6UMBx6x3) | [Alina Linnéa](https://open.spotify.com/artist/2eWNqV0E7nkCq8MndbcmAU) | [I Will Wait](https://open.spotify.com/album/3djy7T65ukIdrFIOxFM1k6) | 2:06 |
+| 57 | [I Will Wait](https://open.spotify.com/track/5efmTcG1xyKUGP6UMBx6x3) | [Alina Linnéa](https://open.spotify.com/artist/2eWNqV0E7nkCq8MndbcmAU) | [I Will Wait](https://open.spotify.com/album/3djy7T65ukIdrFIOxFM1k6) | 2:06 |
+| 58 | [Space And Time](https://open.spotify.com/track/2WlKoxl8hJiuOgKolOH3WR) | [Lake Geneva](https://open.spotify.com/artist/6CcMV3fTlrJ4ECazXDdOA9) | [Space And Time](https://open.spotify.com/album/5RpZBi2zTH4WjK7AWc5OzN) | 2:25 |
 | 59 | [To Me](https://open.spotify.com/track/5R6uVJy58OxgyA0BQbY7Tk) | [Michel Landau](https://open.spotify.com/artist/2k6f9wKcRu84svgHonsR7x) | [You Are A Flower](https://open.spotify.com/album/0cH0rLc0CxNz3MjpKyuptN) | 2:08 |
 | 60 | [Resurrection](https://open.spotify.com/track/0BtJKY7UaAtw4ViVQJHOHI) | [Reinhard Krause](https://open.spotify.com/artist/51sDI12AiFuof8oXlSrdnM) | [Eternity](https://open.spotify.com/album/5HxEiomNu1exVfU8cokO0A) | 2:00 |
 | 61 | [Calm](https://open.spotify.com/track/4CK6vuYb4BaaQ2oYbkASuB) | [Henrik Janson](https://open.spotify.com/artist/5kIhxGyX6VtcsLk88dwYED) | [Calm](https://open.spotify.com/album/68XXJLCevHtMqzrnKPobT9) | 1:49 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zwZ4R1dXab.md) - [plain]
 | 74 | [Pensamiento \(Variacion 1\)](https://open.spotify.com/track/1XjmvMlHQeXqXqbIiphr7L) | [Night Effects](https://open.spotify.com/artist/3LYasSAMIunoZHkV2FC7WB) | [Night Effects](https://open.spotify.com/album/6YAH0vPQGXSSWdXv4ENVzU) | 1:42 |
 | 75 | [On a Clear Day](https://open.spotify.com/track/5PcP4bmY5dSL9jfWhTVVjB) | [Rannar Sillard](https://open.spotify.com/artist/3WIjOR36QpKStT6hfxguh5) | [Weightless Again](https://open.spotify.com/album/66ZFnHFTZ1NcORTEAGX0dG) | 1:59 |
 
-Snapshot ID: `MTY2MzI0MDY5NiwwMDAwMDAwMDhiOWMwMTdkMzljZmU1NzdkOGNhZmIxOTVmMjgzNDU0`
+Snapshot ID: `MTY2MzI0MDY5NiwwMDAwMDAwMDdhOWFkNGVhN2VhMDQzMThlODY5OTQ2NDM0ZTI3MzMy`

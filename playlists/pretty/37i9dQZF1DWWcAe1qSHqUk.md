@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWcAe1qSHqUk.md) - [plain]
 
 > 爵士就是一個聲音的紳士，有歌聲動人、有演奏優雅，旋律美妙之餘還濃濃情意！
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,505 likes - 75 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,521 likes - 75 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWcAe1qSHqUk.md) - [plain]
 | 19 | [Stars Fell On Alabama](https://open.spotify.com/track/3q634ZiAdA9bcg135bdJxo) | [Lizz Wright](https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW) | [Grace](https://open.spotify.com/album/2U1zLHhEmPFEOoZTezdXQg) | 3:52 |
 | 20 | [Cara valente](https://open.spotify.com/track/1KlC2yGobg0mBMAIJ3OrX2) | [Maria Rita](https://open.spotify.com/artist/1C8UBSZs5rOPfxuxTMS6OI) | [Maria Rita](https://open.spotify.com/album/0xLGxMlF7mzPccjawvljuw) | 4:42 |
 | 21 | [Meu Esquema](https://open.spotify.com/track/5hO3HgwIygwqjkGsw6wdP3) | [Mundo Livre S/A](https://open.spotify.com/artist/7dLXGClVfy10Ug57dZE0iC) | [Por Pouco \(Bit Box\)](https://open.spotify.com/album/0h4xTADMMdMSOQraeakiEC) | 4:19 |
-| 22 | ['S Wonderful](https://open.spotify.com/track/3VZwP7d1U7tuQjb9JZrSRF) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [The Look Of Love](https://open.spotify.com/album/4nmjBh2Td9I9x9JDncrQr3) | 4:28 |
-| 23 | [The Masquerade Is Over](https://open.spotify.com/track/1jf3wYtynxiPOdhqAp3cUN) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb), [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA) | [Nancy Wilson/Cannonball Adderley](https://open.spotify.com/album/6yyNgCQNsJ3VJ9PP7CmvLJ) | 4:18 |
+| 22 | [The Masquerade Is Over](https://open.spotify.com/track/1jf3wYtynxiPOdhqAp3cUN) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb), [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA) | [Nancy Wilson/Cannonball Adderley](https://open.spotify.com/album/6yyNgCQNsJ3VJ9PP7CmvLJ) | 4:18 |
+| 23 | ['S Wonderful](https://open.spotify.com/track/3VZwP7d1U7tuQjb9JZrSRF) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [The Look Of Love](https://open.spotify.com/album/4nmjBh2Td9I9x9JDncrQr3) | 4:28 |
 | 24 | [This Guy's In Love With You](https://open.spotify.com/track/3l91QxfQ9vyxq5AJU4D1FC) | [Steve Tyrell](https://open.spotify.com/artist/2UPnuV7os71xTZTyyEgj1B) | [This Guy's In Love](https://open.spotify.com/album/6CvJ1nkaBFnqfK1JSJ60Jy) | 3:43 |
 | 25 | [Outro Lugar](https://open.spotify.com/track/11NkxJtowfjaJksJbjYAS0) | [Toco](https://open.spotify.com/artist/2lVC2nWo4KJE4p6EySdfkL) | [Outro Lugar](https://open.spotify.com/album/53WnDiMAKdL0Lwfz6ckxvx) | 3:21 |
 | 26 | [Este Seu Olhar](https://open.spotify.com/track/7ws9U1clOAmsZmc0LAQxFt) | [Nara Leão](https://open.spotify.com/artist/64KVQ4YupSZYrGNLduVtj3) | [Nara Dez Anos Depois](https://open.spotify.com/album/14vNVSBK4R5XpKUEUOTjvd) | 2:32 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWcAe1qSHqUk.md) - [plain]
 | 49 | [Dance Me to the End of Love](https://open.spotify.com/track/202Ep1DlFXuCTSssanwLW2) | [Bria Skonberg](https://open.spotify.com/artist/0ahtSggrsy1v2oJuKfmzGm) | [With a Twist](https://open.spotify.com/album/1fg9qsZPv8CfwwsM08stjk) | 5:36 |
 | 50 | [I Wish You Love](https://open.spotify.com/track/5Uc0WlK2e5B5NYvS72fCHp) | [Ann Sally](https://open.spotify.com/artist/1g9zG323vBvafWMplgUEQx) | [Voices Of Love](https://open.spotify.com/album/3vyGVRUQaAS4g2ztBZX9t9) | 4:18 |
 | 51 | [Love On Top](https://open.spotify.com/track/7409tRO6Y8sLLIlSRZyXiu) | [Hailey Tuck](https://open.spotify.com/artist/31xWBejhhuVdm9zRmCQuse) | [Tuck + Cover](https://open.spotify.com/album/3ldm7w3EdQXyMHJHUmizvk) | 3:28 |
-| 52 | [Make It Last](https://open.spotify.com/track/69Di4YxK4PB1ivkRdeglt5) | [Nicole Henry](https://open.spotify.com/artist/17lVE8O9nHn3WWc6Csy2Sn) | [The Very Thought of You](https://open.spotify.com/album/6R6CLCrX0PblFlg8kj1KsO) | 5:16 |
-| 53 | [Kissing a Fool](https://open.spotify.com/track/2gXTiVrPqj5ys67xrOXZCs) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Michael Bublé](https://open.spotify.com/album/3rpSksJSFdNFqk5vne8at2) | 4:36 |
+| 52 | [Kissing a Fool](https://open.spotify.com/track/2gXTiVrPqj5ys67xrOXZCs) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Michael Bublé](https://open.spotify.com/album/3rpSksJSFdNFqk5vne8at2) | 4:36 |
+| 53 | [Make It Last](https://open.spotify.com/track/69Di4YxK4PB1ivkRdeglt5) | [Nicole Henry](https://open.spotify.com/artist/17lVE8O9nHn3WWc6Csy2Sn) | [The Very Thought of You](https://open.spotify.com/album/6R6CLCrX0PblFlg8kj1KsO) | 5:16 |
 | 54 | [It Was You](https://open.spotify.com/track/11F7j5xGRbsajmUPrwkqDP) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Begin Again](https://open.spotify.com/album/0iDASlJ6faB4ZDVkKlqbHj) | 5:30 |
 | 55 | [Full Moon](https://open.spotify.com/track/6KWqDGRYrY4T7sRdDhTnOX) | [OVN](https://open.spotify.com/artist/0E4q1wpuPwtqbDr6Okw304), [chrln](https://open.spotify.com/artist/5R1KD32YuMNzZszCHlZsHg) | [Full Moon](https://open.spotify.com/album/6IFHK7RBdfloqcLW53wroM) | 2:01 |
 | 56 | [Lá Vem a Baiana](https://open.spotify.com/track/1n441XV55b21VveSUSA1SA) | [Jussara Silveira](https://open.spotify.com/artist/59RULa3Jap6Q7Pj1o9tb7T) | [Canções de Caymmi](https://open.spotify.com/album/4cLmwrthVvhIYcOcrVDUaX) | 4:02 |
@@ -76,12 +76,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWcAe1qSHqUk.md) - [plain]
 | 66 | [September](https://open.spotify.com/track/2ECLI6x33wCKkU49hwfVux) | [Marcela Mangabeira](https://open.spotify.com/artist/4H5EtQdvxwz7wEGNlguKAg) | [Colors of Rio](https://open.spotify.com/album/367pDgfdeqOW5hYRwdsRsN) | 4:06 |
 | 67 | [A Hard Day´s Night \(Bossa Version\)](https://open.spotify.com/track/1SE6dKoxp3X9gnHQmoer4J) | [Monique Kessous](https://open.spotify.com/artist/2iI3XJh51N8lfWhmrO5CFI) | [Relaxing Bossa Lounge](https://open.spotify.com/album/1XMQvpAQLEQB1rdDtB7Thw) | 2:38 |
 | 68 | [I Get Along Without You Very Well](https://open.spotify.com/track/36ijrUpp53t9EBJa31Yus4) | [Ellen Andersson](https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog) | [You Should Have Told Me](https://open.spotify.com/album/24zLLdsQq4OwtSpS3SiEQJ) | 3:32 |
-| 69 | [Ev'ry Time We Say Goodbye](https://open.spotify.com/track/7hkel5OCjfRuN1j7DW2wxm) | [Kathleen Saadat](https://open.spotify.com/artist/564qZf8izrX2iWB532gVJu), [Pink Martini](https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ), [Thomas Lauderdale](https://open.spotify.com/artist/6687FLqoLQQnLXQiBC7NxL) | [Love for Sale](https://open.spotify.com/album/2NQRFZ6kUkN35JuB8SeGM9) | 3:54 |
-| 70 | [Forbidden Fruit](https://open.spotify.com/track/5Whmxb8uv9XCLz0daWbOVr) | [Kandace Springs](https://open.spotify.com/artist/19j0iFmJ5A6CMT0MVZZU4O) | [Kandace Springs](https://open.spotify.com/album/3sgO2YhnSjDNGCkcm3tjrr) | 3:16 |
+| 69 | [Forbidden Fruit](https://open.spotify.com/track/5Whmxb8uv9XCLz0daWbOVr) | [Kandace Springs](https://open.spotify.com/artist/19j0iFmJ5A6CMT0MVZZU4O) | [Kandace Springs](https://open.spotify.com/album/3sgO2YhnSjDNGCkcm3tjrr) | 3:16 |
+| 70 | [Ev'ry Time We Say Goodbye](https://open.spotify.com/track/7hkel5OCjfRuN1j7DW2wxm) | [Kathleen Saadat](https://open.spotify.com/artist/564qZf8izrX2iWB532gVJu), [Pink Martini](https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ), [Thomas Lauderdale](https://open.spotify.com/artist/6687FLqoLQQnLXQiBC7NxL) | [Love for Sale](https://open.spotify.com/album/2NQRFZ6kUkN35JuB8SeGM9) | 3:54 |
 | 71 | [Malaika](https://open.spotify.com/track/5ZMoyCcee60Omi3bNklKvQ) | [Lyambiko](https://open.spotify.com/artist/6ffhnheAv6MHO3B0ybBpnK) | [Shades of Delight](https://open.spotify.com/album/1TmyQu2ABmq5cHbH6Ds2n8) | 4:52 |
-| 72 | [The Night We Called It a Day](https://open.spotify.com/track/583lWzdB70dnWKa8qzBAOl) | [Maria Emrik](https://open.spotify.com/artist/3QCeDi6E5ejiJE2ZfIazBH) | [The Night We Called It a Day](https://open.spotify.com/album/1NoYS5pWC63LmIKrrvhwra) | 5:08 |
-| 73 | [Beyond the Sea](https://open.spotify.com/track/0z7HoTIz4VyKF8xldfxMK2) | [Halie Loren](https://open.spotify.com/artist/1Fcd5av0AI3xn05b3hrQfI) | [After Dark](https://open.spotify.com/album/1jHMh9wZHmRbBAnRpi8KLL) | 4:17 |
-| 74 | [Summer \(Estaté\)](https://open.spotify.com/track/5CZsV7NdDku7Uec9iIwylg) | [Carla Cook](https://open.spotify.com/artist/0wNmzSLHbGbaWfIOydm1eU) | [Simply Natural](https://open.spotify.com/album/0JM0rcnOY8TkbubNbhlBVL) | 5:15 |
-| 75 | [Allways on my mind](https://open.spotify.com/track/1Ppff3gyyUBG91dPwjaWTW) | [Inger Marie Gundersen](https://open.spotify.com/artist/1J2TFd0Li2fs50iJBS5MOq) | [Make this moment](https://open.spotify.com/album/4NaucYV5XP8jadj2GftgLY) | 5:14 |
+| 72 | [Beyond the Sea](https://open.spotify.com/track/0z7HoTIz4VyKF8xldfxMK2) | [Halie Loren](https://open.spotify.com/artist/1Fcd5av0AI3xn05b3hrQfI) | [After Dark](https://open.spotify.com/album/1jHMh9wZHmRbBAnRpi8KLL) | 4:17 |
+| 73 | [Summer \(Estaté\)](https://open.spotify.com/track/5CZsV7NdDku7Uec9iIwylg) | [Carla Cook](https://open.spotify.com/artist/0wNmzSLHbGbaWfIOydm1eU) | [Simply Natural](https://open.spotify.com/album/0JM0rcnOY8TkbubNbhlBVL) | 5:15 |
+| 74 | [Allways on my mind](https://open.spotify.com/track/1Ppff3gyyUBG91dPwjaWTW) | [Inger Marie Gundersen](https://open.spotify.com/artist/1J2TFd0Li2fs50iJBS5MOq) | [Make this moment](https://open.spotify.com/album/4NaucYV5XP8jadj2GftgLY) | 5:14 |
+| 75 | [The Night We Called It a Day](https://open.spotify.com/track/583lWzdB70dnWKa8qzBAOl) | [Maria Emrik](https://open.spotify.com/artist/3QCeDi6E5ejiJE2ZfIazBH) | [The Night We Called It a Day](https://open.spotify.com/album/1NoYS5pWC63LmIKrrvhwra) | 5:08 |
 
-Snapshot ID: `MTY2MzU2MDQxNSwwMDAwMDAwMDMzZGJkOWU5OWRiMzNlZTM1ZDg0OWJlYjFmMTc2MjUz`
+Snapshot ID: `MTY2MzU2MDQxNSwwMDAwMDAwMDhmZGU4Njg2NzVhOWQ3M2U4NjU3MWNmYzJjYjE4MGU2`

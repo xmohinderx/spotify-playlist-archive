@@ -2,7 +2,7 @@
 
 ### [Jazz Anak Negeri](https://open.spotify.com/playlist/37i9dQZF1DWZrhFFq3bnGV)
 
-> Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Sequoia Project
+> Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Joey Alexander
 
 76 songs - 5 hr 11 min - [published](https://open.spotify.com/playlist/50nx8bYWnlzdoNtPoX5a5I)
 

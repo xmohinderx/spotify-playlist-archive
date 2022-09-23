@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4qKWGR9z0LI.md) - [plain]
 
 > Lo último y lo mejor de la salsa\. Cover: Gilberto Santa Rosa
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,783,511 likes - 100 songs - 7 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,783,638 likes - 100 songs - 7 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4qKWGR9z0LI.md) - [plain]
 | 74 | [Cosas Bonitas](https://open.spotify.com/track/3zVf7Ssg55ioIak3B1aWSY) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Cosas Bonitas](https://open.spotify.com/album/3igVKSNDdHZkHVYGoAe3Yu) | 4:20 |
 | 75 | [Es por Ti](https://open.spotify.com/track/0g09E1yhLVHS7R57vxhlEM) | [Stay Homas](https://open.spotify.com/artist/7fUEi9sgiLw8gwQ307T6IU), [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj) | [Es por Ti](https://open.spotify.com/album/3jRMh7EFk5BXNdVwPfd9Et) | 3:04 |
 | 76 | [Agua Que Va Caer](https://open.spotify.com/track/4fZrgC2yPod6nIUvxPJ5aC) | [Tromboranga](https://open.spotify.com/artist/1d8flZp4PgQ17KR7RjtlJP) | [Tromboranga](https://open.spotify.com/album/73edLPjbItIG3qulH8etvP) | 4:43 |
-| 77 | [Siempre Sere](https://open.spotify.com/track/0ViQHcFsGyynn92NTscTIN) | [Tito Rojas](https://open.spotify.com/artist/2kgCV0fFS0wt3q6M5B39nH) | [MP 10th Anniversary](https://open.spotify.com/album/4PLj1LIHYKLMeVfWW0ukJX) | 5:21 |
-| 78 | [Tú Me Vuelves Loco](https://open.spotify.com/track/1xAubZVq0sOxsoSfm1PzqA) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Oro Salsero \(Vol 2\)](https://open.spotify.com/album/7hVgZj58AvnzHHzxw3Oqyh) | 4:58 |
+| 77 | [Tú Me Vuelves Loco](https://open.spotify.com/track/1xAubZVq0sOxsoSfm1PzqA) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Oro Salsero \(Vol 2\)](https://open.spotify.com/album/7hVgZj58AvnzHHzxw3Oqyh) | 4:58 |
+| 78 | [Siempre Sere](https://open.spotify.com/track/0ViQHcFsGyynn92NTscTIN) | [Tito Rojas](https://open.spotify.com/artist/2kgCV0fFS0wt3q6M5B39nH) | [MP 10th Anniversary](https://open.spotify.com/album/4PLj1LIHYKLMeVfWW0ukJX) | 5:21 |
 | 79 | [Viene y Se Va](https://open.spotify.com/track/3KOFm25dQCHhfMuEDNybKT) | [Mauro Castillo](https://open.spotify.com/artist/36CUTsdtNgCwMq6zKD1l8I) | [Baila Salsa](https://open.spotify.com/album/4KgZ95pJXdav7toOFbXHJY) | 4:09 |
 | 80 | [Me Tienes Mal](https://open.spotify.com/track/7rbaW6Q1xCiIucyaZZjTYY) | [Luis Vazquez](https://open.spotify.com/artist/00zeZxu1UPkn8DKqNxgnyw) | [Comienzos](https://open.spotify.com/album/2ndeHTmp2o62pjmgYATwVf) | 3:32 |
 | 81 | [Mi Propiedad Privada](https://open.spotify.com/track/3DAxwWtA3N41eNZ9pCsQnl) | [LA INDIA](https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck) | [Mi Propiedad Privada](https://open.spotify.com/album/5wzCExW5NvwRMvDRav2taR) | 4:12 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4qKWGR9z0LI.md) - [plain]
 | 99 | [Llorarás](https://open.spotify.com/track/1s25QxtuRQsSrOm9tTOaD6) | [Dimension Latina](https://open.spotify.com/artist/2ixSzFmACsZSsx40fXTNYk) | [Los Oscares De Oscar](https://open.spotify.com/album/5Y990OGQRoPBqdJ6YnU6tZ) | 3:48 |
 | 100 | [Doble Vida](https://open.spotify.com/track/6kpWSzcaLQc5wccq51Ysp9) | [Willie Gonzalez](https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z) | [Grandes Exitos](https://open.spotify.com/album/2FakrUxHjeJKeY0QxX4MGo) | 6:00 |
 
-Snapshot ID: `MTY2MjczNjE3MiwwMDAwMDAwMDdlNjc3YjQ1Mjg5NGNiMDJjMTIxOGY3OTFkYTM3MjBi`
+Snapshot ID: `MTY2MjczNjE3MiwwMDAwMDAwMDRlMmMxNjFjNTc4MTE1MzY2YTMyOTEwOGUxNTdjZDQy`

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeDU5PJuUQs.md) - [plain]
 
 > Unas buenas cumbias con el calor de la gente! <br/>Foto: Pablo Lescano & El Mago.
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,763 likes - 64 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,803 likes - 64 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Si Te Vas \- Vivo](https://open.spotify.com/track/4v17MVpCUu5l2p0mSlw8PK) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [El Mago Y La Nueva](https://open.spotify.com/artist/0pelomsVlROuivdE2RgeDU) | [Si Te Vas \(Vivo\)](https://open.spotify.com/album/3P9PZxc8N5rAXTQfqWS3sM) | 4:35 |
-| 2 | [Conmigo Te Gustó](https://open.spotify.com/track/43DJZnMU894sjYBDx6HHO8) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [En Directo \- Piel Con Piel](https://open.spotify.com/album/6AsaITRESy0yBVHxo7GNtQ) | 1:37 |
-| 3 | [Amor \(Ft\. Mon Laferte\) \- MTV Unplugged](https://open.spotify.com/track/1QjfU3jkGInap7Vm9lVJIQ) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Fiesta Nacional \(Mtv Unplugged\)](https://open.spotify.com/album/72XWQY6SO3b4M01tHYsIM7) | 5:12 |
+| 2 | [Amor \(Ft\. Mon Laferte\) \- MTV Unplugged](https://open.spotify.com/track/1QjfU3jkGInap7Vm9lVJIQ) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Fiesta Nacional \(Mtv Unplugged\)](https://open.spotify.com/album/72XWQY6SO3b4M01tHYsIM7) | 5:12 |
+| 3 | [Conmigo Te Gustó](https://open.spotify.com/track/43DJZnMU894sjYBDx6HHO8) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [En Directo \- Piel Con Piel](https://open.spotify.com/album/6AsaITRESy0yBVHxo7GNtQ) | 1:37 |
 | 4 | [Sólo con un Beso](https://open.spotify.com/track/5ucrujpVC5pPdxNR42guhh) | [Los Totora](https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2) | [Sólo con un Beso](https://open.spotify.com/album/1wCoN5OCgwlVWfR8nzTJBJ) | 2:35 |
 | 5 | [Sabes \(En Vivo\)\[Remasterizado 2021\]](https://open.spotify.com/track/7bGNfa1I1JC99U7tcMOZBk) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [En Vivo en Joya 2019 \(Remasterizado 2021\)](https://open.spotify.com/album/137WQeUeXMRTBzjE1Kvq54) | 1:15 |
 | 6 | [Me Vas a Extrañar](https://open.spotify.com/track/26WHTbuQHbpkx3TBNR4afU) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC), [Magoman](https://open.spotify.com/artist/17SbOgrrSKZHSTi3zEDNWc) | [Un Soñador Eterno](https://open.spotify.com/album/0gDwcXu8hITigvMrZci4wo) | 2:45 |
@@ -71,6 +71,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeDU5PJuUQs.md) - [plain]
 | 61 | [Cóncavo y Convexo \- En Vivo](https://open.spotify.com/track/3t7KW4pk5pvAZtOIWxXCTR) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [En Vivo en Ciudad Cultural Konex](https://open.spotify.com/album/6Vyd5KnNi0zKuYXbbfqNTy) | 3:38 |
 | 62 | [No Te Vi Crecer \- En Vivo](https://open.spotify.com/track/5WKV0jy7T3fzk5Lji9BpRf) | [Los del bohio](https://open.spotify.com/artist/6RszvvtxwKr7SyzeeQ5htn) | [La Historia Continua](https://open.spotify.com/album/3atDahyoXPO030lj6lpzLn) | 2:52 |
 | 63 | [La Huella / Aprovechadora / Has Vuelto Mi Amor / Vengo a Pedirte / Amor de Adolescente / Una Noche Mas / Regresa por Favor / La Que Me Pudo Enamorar / Te Extraño a Ti / Pensando en Ti / Desesperado \- En Vivo](https://open.spotify.com/track/6K4dgYClJiJvHmlxHGKY4X) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc) | [En Vivo en el Teatro](https://open.spotify.com/album/1vvB4ZiqQrtrt0xBrh96qW) | 19:49 |
-| 64 | [Un Millon de Rosas / Me Enamore / El Camison \(En Vivo\)](https://open.spotify.com/track/1XtgMbP5enmvmfOoPtt2Io) | [Ale Ceberio](https://open.spotify.com/artist/7fxj9VjDxGpHfOPEkgxm6e) | [Un Millon de Rosas / Me Enamore de una Bandida / El Camison \(En Vivo\)](https://open.spotify.com/album/6Xp8jfGfA8gCZa5PK3Rlwo) | 7:09 |
+| 64 | [Pibe Cantina](https://open.spotify.com/track/1mgOFzzOQkGIE7wWrsFSBL) | [Yerba Brava](https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6) | [En Vivo](https://open.spotify.com/album/4PhhgpQ5bkLyCRVDL0hVpI) | 4:15 |
 
-Snapshot ID: `MTY2MTUyODI2MCwwMDAwMDAwMGMyODMzZmU1MTYwNjBmOTA2NGYyNzZjY2I5YzQxNWEw`
+Snapshot ID: `MTY2MTUyODI2MCwwMDAwMDAwMGY0YTY5ZDU2YjUwYTdhYmViZDE5OTJhNjYzMTVjNDZj`

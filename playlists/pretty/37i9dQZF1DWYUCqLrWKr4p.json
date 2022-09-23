@@ -1,12 +1,12 @@
 {
   "description": "Unforgettable love songs from the 1960s.",
-  "num_followers": 115383,
+  "num_followers": 115532,
   "original_name": "60s Love Songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzkxNTc0NCwwMDAwMDAwMDgyMTdmODI2Y2EwNDA2NmFlN2UyMDM1NTkyYTgzNzQ3",
+  "snapshot_id": "MTY1MzkxNTc0NCwwMDAwMDAwMDM4Nzg0ZTNiNzllOTg4MjFhZmMxZjRiYzE0ZmY2MzEw",
   "tracks": [
     {
       "added_at": "2022-05-30 13:02:24",
@@ -123,22 +123,6 @@
     {
       "added_at": "2022-05-30 13:02:24",
       "album": {
-        "name": "Under the Boardwalk",
-        "url": "https://open.spotify.com/album/7AgI5vniflcbh86Znea7yM"
-      },
-      "artists": [
-        {
-          "name": "The Drifters",
-          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
-        }
-      ],
-      "duration_ms": 161960,
-      "name": "Under the Boardwalk",
-      "url": "https://open.spotify.com/track/65jrjEhWfAvysKfnojk1i0"
-    },
-    {
-      "added_at": "2022-05-30 13:02:24",
-      "album": {
         "name": "Strangers In The Night (Expanded Edition)",
         "url": "https://open.spotify.com/album/1kyb5tomEXcA106V57puFW"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 157866,
       "name": "Strangers In The Night",
       "url": "https://open.spotify.com/track/74VR3AkGPhbYXnxcOYa16x"
+    },
+    {
+      "added_at": "2022-05-30 13:02:24",
+      "album": {
+        "name": "Under the Boardwalk",
+        "url": "https://open.spotify.com/album/7AgI5vniflcbh86Znea7yM"
+      },
+      "artists": [
+        {
+          "name": "The Drifters",
+          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
+        }
+      ],
+      "duration_ms": 161960,
+      "name": "Under the Boardwalk",
+      "url": "https://open.spotify.com/track/65jrjEhWfAvysKfnojk1i0"
     },
     {
       "added_at": "2022-05-30 13:02:24",
@@ -567,22 +567,6 @@
     {
       "added_at": "2022-05-30 13:02:24",
       "album": {
-        "name": "I Get The Sweetest Feeling",
-        "url": "https://open.spotify.com/album/35PUYxZnmBjyVSbw5ictX6"
-      },
-      "artists": [
-        {
-          "name": "Jackie Wilson",
-          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
-        }
-      ],
-      "duration_ms": 178373,
-      "name": "I Get The Sweetest Feeling",
-      "url": "https://open.spotify.com/track/7F1eoVZd2ySSJ70iP3PN1m"
-    },
-    {
-      "added_at": "2022-05-30 13:02:24",
-      "album": {
         "name": "La La Means I Love You",
         "url": "https://open.spotify.com/album/2Xj7OXGWSM6JbjJjYUusLR"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 200906,
       "name": "La-La Means I Love You",
       "url": "https://open.spotify.com/track/58CUIzSxNpQUFvTCd8tntH"
+    },
+    {
+      "added_at": "2022-05-30 13:02:24",
+      "album": {
+        "name": "I Get The Sweetest Feeling",
+        "url": "https://open.spotify.com/album/35PUYxZnmBjyVSbw5ictX6"
+      },
+      "artists": [
+        {
+          "name": "Jackie Wilson",
+          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
+        }
+      ],
+      "duration_ms": 178373,
+      "name": "I Get The Sweetest Feeling",
+      "url": "https://open.spotify.com/track/7F1eoVZd2ySSJ70iP3PN1m"
     },
     {
       "added_at": "2022-05-30 13:02:24",

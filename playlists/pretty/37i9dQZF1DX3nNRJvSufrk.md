@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3nNRJvSufrk.md) - [plain]
 
 > Can you keep up? Get moving to the rapid rhythms of Footwork & Juke, originating in 1990s Chicago\. Cover: DJ Manny
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,429 likes - 80 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,448 likes - 80 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3nNRJvSufrk.md) - [plain]
 | 23 | [\(+\)3](https://open.spotify.com/track/4TYeI1lLLFgFojIZcuFNr2) | [Nick Hook](https://open.spotify.com/artist/4ICbI408d4uYagVEL3xf7S), [DJ Rashad](https://open.spotify.com/artist/4zGBj9dI63YIWmZkPl3o7V), [DJ Paypal](https://open.spotify.com/artist/4hH4fEXPg3qpTDlmdNOO01), [Nasty Nigel](https://open.spotify.com/artist/42W0OUrWwVQXuHfKan5R49) | [Relationships](https://open.spotify.com/album/0PuR1XbAkXUSEI9yGNHeaX) | 3:32 |
 | 24 | [Bangs & Works](https://open.spotify.com/track/4CQSClkhQi4zrNMKEzHxQ2) | [DJ Trouble](https://open.spotify.com/artist/33KsPfISa6inRnrPvWutSy) | [Bangs & Works, Vol.1: A Chicago Footwork Compilation](https://open.spotify.com/album/1P8EYmCJmjYhtMhR2H3h4m) | 3:00 |
 | 25 | [Pass That](https://open.spotify.com/track/4YKjrt7cGTQnu97OgKaFgC) | [DJ Rashad](https://open.spotify.com/artist/4zGBj9dI63YIWmZkPl3o7V), [Tripletrain](https://open.spotify.com/artist/47UATnEOiiEMa2OFvZjv6i), [DJ Spinn](https://open.spotify.com/artist/0ZGOz1bQgvsT4KSzHB1dg9) | [Afterlife](https://open.spotify.com/album/0lFoUvjrmqtll233XwCyko) | 3:13 |
-| 26 | [Get Down Lil Bit \- Street Bangers Factory 16](https://open.spotify.com/track/1KzKhPENPl7U9Mi25Qo7ir) | [Traxman](https://open.spotify.com/artist/0KyFKunOclAI5jah1T55lh) | [Get Down Lil Bit \(Street Bangers Factory 16\)](https://open.spotify.com/album/75vio1xSvsEGN3oC9veBzn) | 4:50 |
-| 27 | [Skkrtt](https://open.spotify.com/track/0zEgbC1lVNEYUJCv0jbUfc) | [DJ Orange Julius](https://open.spotify.com/artist/4DiPpabfaBSsHYvjlPkazH) | [The Grove](https://open.spotify.com/album/0KRdcfl8C4iPEhmw0Qgwce) | 4:49 |
+| 26 | [Skkrtt](https://open.spotify.com/track/0zEgbC1lVNEYUJCv0jbUfc) | [DJ Orange Julius](https://open.spotify.com/artist/4DiPpabfaBSsHYvjlPkazH) | [The Grove](https://open.spotify.com/album/0KRdcfl8C4iPEhmw0Qgwce) | 4:49 |
+| 27 | [Get Down Lil Bit \- Street Bangers Factory 16](https://open.spotify.com/track/1KzKhPENPl7U9Mi25Qo7ir) | [Traxman](https://open.spotify.com/artist/0KyFKunOclAI5jah1T55lh) | [Get Down Lil Bit \(Street Bangers Factory 16\)](https://open.spotify.com/album/75vio1xSvsEGN3oC9veBzn) | 4:50 |
 | 28 | [Bounce](https://open.spotify.com/track/2by9dE80FvGCBjyQxd2zJo) | [Starski and Clutch](https://open.spotify.com/artist/0jGUP5FLOFgZ0nbuQhVGCe) | [Players, Ballers, Rollers](https://open.spotify.com/album/3TCqiFkNsX6O9NfJwKcgu1) | 2:25 |
 | 29 | [Slanted \- BSN Posse Remix](https://open.spotify.com/track/2bZty9jSWZiv4rWQqeQJAA) | [Tim Parker](https://open.spotify.com/artist/3LBR9DFhfM9nUjdu1gi7lI), [BSN Posse](https://open.spotify.com/artist/1fnlGaoXeWH8RMPVKR2gBU) | [Slanted](https://open.spotify.com/album/0lP2c6I9kE1rULPnvACaSA) | 3:46 |
 | 30 | [BS6](https://open.spotify.com/track/6TvNg91oTRyHX6zN676dK5) | [Hyroglifics](https://open.spotify.com/artist/6hNELDwN2cBEdL74cpXKc0), [Sinistarr](https://open.spotify.com/artist/1AqybHsTw984feND8RwcCe) | [BS6](https://open.spotify.com/album/6NeoDlP2hzdBFRQdG8hLQF) | 3:45 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3nNRJvSufrk.md) - [plain]
 | 79 | [Do Right](https://open.spotify.com/track/7lMjqRbsChqroWRRkhw3ge) | [Slick Shoota](https://open.spotify.com/artist/2P1OqKNHmAOg9RfAufNNkR) | [Do Right](https://open.spotify.com/album/79oVcdOfST9iLRlqenoJdl) | 3:27 |
 | 80 | [Flicka](https://open.spotify.com/track/7BMJLV7eWICgcb1ouJAhq3) | [Dj Spaldin](https://open.spotify.com/artist/2TWLvBrhwsGGnd10vmtIBj) | [Ww3](https://open.spotify.com/album/4QY4yD4BeJPqJPskLtbEDB) | 3:34 |
 
-Snapshot ID: `MTYxMzEwMzYzNiwwMDAwMDAwMDEzYTlkNDE0MDg3Y2FiZjYyZDg4OWE2YTY5Y2Y0MTgx`
+Snapshot ID: `MTYxMzEwMzYzNiwwMDAwMDAwMDI3ZDNjZDQ2NDZiY2Q2MGE3NjU0OGFiYTRhZmM1YjJh`

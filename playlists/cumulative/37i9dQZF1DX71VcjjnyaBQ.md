@@ -4,7 +4,7 @@
 
 > Jazz for breakfast to start your day right.
 
-146 songs - 12 hr 50 min - [published](https://open.spotify.com/playlist/00KxmXWSXPzcN3QrlgmEa1)
+147 songs - 12 hr 55 min - [published](https://open.spotify.com/playlist/00KxmXWSXPzcN3QrlgmEa1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [Indian Summer](https://open.spotify.com/track/7ID8YBMZd8Cqi2fto81sP2) | [Anders Mogensen](https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik) | [Sideways](https://open.spotify.com/album/0nd4ki7GPhLrH5MjjdP7eP) | 4:04 | 2022-06-30 |  |
 | [It Might as Well Be Spring](https://open.spotify.com/track/0mmhNRfvI599pLb0bNV13N) | [Ari Hoenig](https://open.spotify.com/artist/1P6Llrp12ldpVbyC8gCHBz), [Yoav Eshed](https://open.spotify.com/artist/0xgMRXvX4wS1we58R46Xh5), [Gadi Lehavi](https://open.spotify.com/artist/01FRXq3Es0z4crmTkjkR7o), [Ben Tiberio](https://open.spotify.com/artist/4HF9chz1OmDunHzUD3ZIos) | [Golden Treasures](https://open.spotify.com/album/6HVVdncUSlgCkRh5qQaTV4) | 6:14 | 2022-06-02 |  |
 | [Jakob’s Happy Song](https://open.spotify.com/track/1w8AuoB6mjP8MsnHRoDSkW) | [Simon Westman Trio](https://open.spotify.com/artist/1OI2vi6Bdxr69cjnFWCMTw) | [Stay a While](https://open.spotify.com/album/4PTUyl0wF1Nw0Dfisf3bjE) | 5:32 | 2021-12-21 |  |
-| [Jennie](https://open.spotify.com/track/5pvXycrzupnyDZT1FVuwEL) | [Hederosgruppen](https://open.spotify.com/artist/0UNiBtRacvAnbospnyiEhw) | [Jennie / Gravol](https://open.spotify.com/album/3cU5aG5kVY2PERgkd0EXNJ) | 6:04 | 2022-02-10 |  |
+| [Jennie](https://open.spotify.com/track/5pvXycrzupnyDZT1FVuwEL) | [Hederosgruppen](https://open.spotify.com/artist/0UNiBtRacvAnbospnyiEhw) | [Jennie / Gravol](https://open.spotify.com/album/3cU5aG5kVY2PERgkd0EXNJ) | 6:04 | 2022-02-10 | 2022-09-23 |
 | [Laura](https://open.spotify.com/track/1Am0pclKtGRb8pPsjxOA9r) | [Adam Nussbaum](https://open.spotify.com/artist/1ymZAHNSJ5rvzjW01iwQRi) | [Lead Belly Reimagined](https://open.spotify.com/album/3PptUbT8wyVA5DcDDe8s3R) | 4:47 | 2021-12-21 |  |
 | [Liberated Brother](https://open.spotify.com/track/4ZVsHkOW4A3ChH1yeLqi1I) | [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5) | [In Pursuit Of The 27th Man](https://open.spotify.com/album/1jSn14NPxq3RfopCPluTyp) | 5:23 | 2021-12-21 |  |
 | [Loose Caboose](https://open.spotify.com/track/2K9ntrYpyBdgpUhzR4w1H6) | [Hans Ulrik](https://open.spotify.com/artist/1SdvVqfeIalD1XCYMO9HsF) | [In a Sentimental Mood](https://open.spotify.com/album/56K1pQYA5ZTmpCGjQbJV0l) | 3:48 | 2022-06-30 |  |
@@ -104,6 +104,7 @@
 | [Riders On The Storm](https://open.spotify.com/track/6YDi1zFfIPb5DxYPLKPF3s) | [Marcin Wasilewski Trio](https://open.spotify.com/artist/2UGL8QDKTSVXMqZqQR8DRL) | [En attendant](https://open.spotify.com/album/5StrH1ERbMpncR1LR5xWfv) | 5:33 | 2022-01-07 |  |
 | [Right Back Round Again \(feat\. Brad Mehldau, Christian McBride & Brian Blade\)](https://open.spotify.com/track/3ONFcrwlLYLUZBPh0WSD6q) | [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S), [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq), [Brian Blade](https://open.spotify.com/artist/0nXwIc4NAbu2K881ealRDu), [Christian McBride](https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv) | [RoundAgain \(feat\. Brad Mehldau, Christian McBride, Brian Blade\)](https://open.spotify.com/album/6glNa1tv5xDIevYwSvxNkm) | 6:00 | 2022-06-30 |  |
 | [Right Back Round Again \(feat\. Brad Mehldau, Christian McBride & Brian Blade\)](https://open.spotify.com/track/6R2vR6b0jLJaJCZUvyp5Ax) | [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S), [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq), [Brian Blade](https://open.spotify.com/artist/0nXwIc4NAbu2K881ealRDu), [Christian McBride](https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv) | [Right Back Round Again \(feat\. Brad Mehldau, Christian McBride & Brian Blade\)](https://open.spotify.com/album/2lp2FIQT23ZWBwH3bPuvY5) | 6:00 | 2021-12-21 | 2022-07-29 |
+| [Saving All My Love for You](https://open.spotify.com/track/67gegBlOgrRPHhfLfb3CEj) | [Atlantic Five Jazz Band](https://open.spotify.com/artist/2utgbFODWxZ6ZPLVhRaToA) | [The Pop Jazz Sessions](https://open.spotify.com/album/1bSsOP5q2aXB0TO2h6rKXg) | 5:23 | 2022-09-22 |  |
 | [Sconsolato](https://open.spotify.com/track/5kUE6uXelwvtA6qYKyfMWM) | [Nathan Davis](https://open.spotify.com/artist/3iF9mUqkeDgHbydOvDYqjO) | [Best of 1965\-76](https://open.spotify.com/album/4cskpXjr6Ai90fLNPYX8Vv) | 3:28 | 2021-12-21 |  |
 | [Sister Rosa](https://open.spotify.com/track/2ZuGfHsOmBicZnGSMwREbG) | [Christian McBride](https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv) | [The Movement Revisited: A Musical Portrait of Four Icons](https://open.spotify.com/album/6sxsZhMo8LBx3IIcqhtR13) | 6:25 | 2021-12-21 |  |
 | [Softly As In A Morning Sunrise](https://open.spotify.com/track/6BnDMyRz4KY8g9SoWlUfjq) | [Wynton Kelly](https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0) | [Kelly Blue \(Keepnews Collection\)](https://open.spotify.com/album/0mgUrEyxaymxq5hCKqNQ9B) | 6:33 | 2021-12-21 |  |

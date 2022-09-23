@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > Fresh releases from Latin independent artists and labels\. Lanzamientos frescos de artistas y sellos latinxs independientes\. La Queens Tafari on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,842 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,855 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 24 | [ni una foto](https://open.spotify.com/track/5Fc6a806jgiEU3ka1Rqpyq) | [GAMBOA](https://open.spotify.com/artist/6vNjkmZB4B8C9isC2GgjD9) | [ni una foto](https://open.spotify.com/album/6xKGfOhCxShui9ia3zCxwJ) | 3:12 |
 | 25 | [360 al Mundo](https://open.spotify.com/track/4jZysO9Cyydag0oBsGgPCc) | [Sofía Mora](https://open.spotify.com/artist/2ACpw1qZnCwDlLA4JpeTnE) | [Xoxo](https://open.spotify.com/album/6ELJsqVkUsw9k8341j22u8) | 2:59 |
 | 26 | [Paradoja](https://open.spotify.com/track/3kFy7VWKyPnIv5RAyXNmcz) | [Melov](https://open.spotify.com/artist/20gixjtBBVMyxYSnMRCV22), [Una María](https://open.spotify.com/artist/7CijOJxzQvp3mA6Sfquinl), [Obregøn](https://open.spotify.com/artist/7e5DKM613ys6ekrqyor2oK) | [Paradoja](https://open.spotify.com/album/5bmesQ37gb6KAUadrpsevz) | 3:40 |
-| 27 | [Posguerra](https://open.spotify.com/track/5Kb5RhVvDm5he4xTJ1aNqQ) | [Atrás Hay Truenos](https://open.spotify.com/artist/6KDozt8X774pjyp1oVMsmz) | [Posguerra](https://open.spotify.com/album/78FkR6dvHY3QXLu5Y7wDZF) | 4:11 |
-| 28 | [Medusa](https://open.spotify.com/track/6M2fkduE9eKOmZFTS3IDlp) | [La Valenti](https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ) | [Medusa](https://open.spotify.com/album/1FGitIgiVbZh21SrFMBt8G) | 4:07 |
+| 27 | [Medusa](https://open.spotify.com/track/6M2fkduE9eKOmZFTS3IDlp) | [La Valenti](https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ) | [Medusa](https://open.spotify.com/album/1FGitIgiVbZh21SrFMBt8G) | 4:07 |
+| 28 | [Posguerra](https://open.spotify.com/track/5Kb5RhVvDm5he4xTJ1aNqQ) | [Atrás Hay Truenos](https://open.spotify.com/artist/6KDozt8X774pjyp1oVMsmz) | [Posguerra](https://open.spotify.com/album/78FkR6dvHY3QXLu5Y7wDZF) | 4:11 |
 | 29 | [Fuego](https://open.spotify.com/track/6XkTyoyuTotgPCDpDEQTOx) | [Kepa](https://open.spotify.com/artist/641uUz4loRaQhEkuFOIefT) | [Fuego](https://open.spotify.com/album/5K672EviATQUJg8QgeRzsm) | 2:05 |
 | 30 | [ALCOHOL](https://open.spotify.com/track/1KlXeNDsdBFK8hUy98hM3a) | [Valeria Cid](https://open.spotify.com/artist/1klJBfGgnBcEI8uVTwLm9U) | [ALCOHOL](https://open.spotify.com/album/4VRmyOwP7CCT3hxwxlWWla) | 2:52 |
 | 31 | [Lo Que Dijimos](https://open.spotify.com/track/4tuj4EmYiW80rJFtCKGgEl) | [Mojo Myst](https://open.spotify.com/artist/5ZyxEP1eCs4f2uGH2ZaJiG) | [Lo Que Dijimos](https://open.spotify.com/album/2w1e2yRUmtm0i1MEmKlXI3) | 3:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 49 | [Girasoles al Oleo](https://open.spotify.com/track/2pLnslSZU2Kvo6VPNLwOmf) | [Aldeano de Neptuno](https://open.spotify.com/artist/7yU2HDXuhph3gvTovbTGSj), [Thaissa](https://open.spotify.com/artist/2cKO3OiykGBzHdb6406dHZ) | [Girasoles al Oleo](https://open.spotify.com/album/4qMplBH0Zqv8KbkawU8Y0d) | 4:24 |
 | 50 | [El Incendio](https://open.spotify.com/track/58SONbpFYstwN4LCITKI0v) | [Sara y Jacobo](https://open.spotify.com/artist/3xPClsuX8srpHtN8CCgSZX) | [El Incendio](https://open.spotify.com/album/2wKY7SiYOJsGgo54d199pr) | 4:12 |
 
-Snapshot ID: `MTY2Mzc3NjAwMCwwMDAwMDAwMDc3NmQ4OThjZjgzZWUwMDI3ZWYyMjkwYTBhYmQ5NGIy`
+Snapshot ID: `MTY2Mzc3NjAwMCwwMDAwMDAwMGEwNjAwNTY1MjBlMDRiYTc1NmMwNmEyMGMxMmM1Nzdj`

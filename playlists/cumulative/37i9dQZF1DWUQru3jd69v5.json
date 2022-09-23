@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "La nuova generazione del rap italiano. Cover: Young Rame, Abby 6ix",
+  "description": "La nuova generazione del rap italiano. Cover: Kassimi",
   "name": "Raptopia",
   "published_playlist_ids": [
     "6nhHRG6xegRC3RJpPdvh9l"
@@ -239,7 +239,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 113403,
       "name": "aka DOLCE&GABBANA",
       "url": "https://open.spotify.com/track/3UbG721DOAQ0mO3Vgrnnwa"
@@ -697,7 +697,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 154960,
       "name": "Bisous",
       "url": "https://open.spotify.com/track/74lz9d1soQih0k9QtN0acn"
@@ -883,10 +883,28 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 136875,
       "name": "CAPODANNO",
       "url": "https://open.spotify.com/track/7rhdU3PIZo35dLJmaBtiDQ"
+    },
+    {
+      "album": {
+        "name": "Cartier #1",
+        "url": "https://open.spotify.com/album/0j18KQ9kbszuYt5GxDlj8D"
+      },
+      "artists": [
+        {
+          "name": "Medy",
+          "url": "https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157714,
+      "name": "Cartier #1",
+      "url": "https://open.spotify.com/track/0IZKfHXiZSlB6uGURuo29K"
     },
     {
       "album": {
@@ -1232,6 +1250,28 @@
     },
     {
       "album": {
+        "name": "CRACK COCA",
+        "url": "https://open.spotify.com/album/6dEYHcH5MzuOuGkEqZvJbQ"
+      },
+      "artists": [
+        {
+          "name": "LXX Blood",
+          "url": "https://open.spotify.com/artist/01JV7meMCVebgwpU2UN0h5"
+        },
+        {
+          "name": "Naima Blood",
+          "url": "https://open.spotify.com/artist/4PK1VPNg3zWSbIK4SboMa9"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86715,
+      "name": "CRACK COCA",
+      "url": "https://open.spotify.com/track/0J69jDXSJLdUVSKsV9r8lY"
+    },
+    {
+      "album": {
         "name": "Crack In Casa 24/7",
         "url": "https://open.spotify.com/album/37DP2uMZ4Rn1c33MOMzdzt"
       },
@@ -1247,7 +1287,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 139000,
       "name": "Crack In Casa 24/7",
       "url": "https://open.spotify.com/track/35fUr9dMYSHsSI5hCjeklu"
@@ -1335,7 +1375,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 148959,
       "name": "Dawg",
       "url": "https://open.spotify.com/track/59BWRUiUYhNxv7y8Ji6pXA"
@@ -1747,10 +1787,28 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 121904,
       "name": "Fatturato meno",
       "url": "https://open.spotify.com/track/0weRnzGIHBAW14Io7JQPgV"
+    },
+    {
+      "album": {
+        "name": "Fogli strappati",
+        "url": "https://open.spotify.com/album/5rQJ4922Vw9chnwYjabaG3"
+      },
+      "artists": [
+        {
+          "name": "Naver",
+          "url": "https://open.spotify.com/artist/5uAeyLL0e4StdJe6JvhLep"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122152,
+      "name": "Fogli strappati",
+      "url": "https://open.spotify.com/track/5ETvYjfhCSHcCSYVTco7oP"
     },
     {
       "album": {
@@ -1765,7 +1823,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 150000,
       "name": "Forget About It",
       "url": "https://open.spotify.com/track/65N24i1XlJavtiNqzuO6xt"
@@ -1857,7 +1915,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 122448,
       "name": "Fuori City",
       "url": "https://open.spotify.com/track/1mvgPEzmMOa4Dj24v7NP8n"
@@ -2947,7 +3005,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 150649,
       "name": "MAMMA",
       "url": "https://open.spotify.com/track/1RmZG2YcuNvxIjDXUvBKme"
@@ -3267,7 +3325,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 185488,
       "name": "MVP",
       "url": "https://open.spotify.com/track/3XS0SjkmOL6jVoIx48Rfv7"
@@ -3381,6 +3439,28 @@
       "duration_ms": 164418,
       "name": "Niente Da Perdere",
       "url": "https://open.spotify.com/track/2lUti9Pis9z2IqP1IViXxF"
+    },
+    {
+      "album": {
+        "name": "NO CONFIDENCE",
+        "url": "https://open.spotify.com/album/2I3c5Ebl05sIArI3uy3mtj"
+      },
+      "artists": [
+        {
+          "name": "Rione",
+          "url": "https://open.spotify.com/artist/7iMfaY3weGRYnarHrFogVH"
+        },
+        {
+          "name": "Don Pero",
+          "url": "https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179280,
+      "name": "NO CONFIDENCE",
+      "url": "https://open.spotify.com/track/4aCdjK8tuejHwGSTpgRCez"
     },
     {
       "album": {
@@ -3555,6 +3635,24 @@
       "duration_ms": 136105,
       "name": "Paradiso & Inferno",
       "url": "https://open.spotify.com/track/4jmdFKP6vJlEOgTXTftaHW"
+    },
+    {
+      "album": {
+        "name": "Parenti",
+        "url": "https://open.spotify.com/album/5fvdfPY8mllbK4d4vDODmI"
+      },
+      "artists": [
+        {
+          "name": "Dot Valentino",
+          "url": "https://open.spotify.com/artist/4kDz1hBY5vGKKH5QYdS9uA"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Parenti",
+      "url": "https://open.spotify.com/track/5rFDHjPEP1CvNufa70VoUV"
     },
     {
       "album": {
@@ -4476,6 +4574,24 @@
     },
     {
       "album": {
+        "name": "Trafficante",
+        "url": "https://open.spotify.com/album/2fqjaXJGRG5PuEqb0ftjkB"
+      },
+      "artists": [
+        {
+          "name": "N\u00e9za",
+          "url": "https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127384,
+      "name": "Trafficante",
+      "url": "https://open.spotify.com/track/1rpFM1ZbTZVS1fusCzmzg9"
+    },
+    {
+      "album": {
         "name": "TRENCHES",
         "url": "https://open.spotify.com/album/0yHDhz1SKtKgwWtFy8Xp22"
       },
@@ -4575,7 +4691,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 98666,
       "name": "Uzi",
       "url": "https://open.spotify.com/track/5OAa4e22LQglEWHvV5BjvZ"
@@ -4737,7 +4853,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 129882,
       "name": "Vita vera",
       "url": "https://open.spotify.com/track/04mKihaPiWG3zVOlu7qLC7"
@@ -4763,6 +4879,24 @@
       "duration_ms": 136502,
       "name": "WAKANDA",
       "url": "https://open.spotify.com/track/4ApTJO5GLmci7uNivte6mE"
+    },
+    {
+      "album": {
+        "name": "Walkie Talkie",
+        "url": "https://open.spotify.com/album/02sDUCaTdnQXVqsTwlFA9B"
+      },
+      "artists": [
+        {
+          "name": "Delaru\u00e0",
+          "url": "https://open.spotify.com/artist/0inlLzcyWLbJbPZuMzfTPt"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140571,
+      "name": "Walkie Talkie",
+      "url": "https://open.spotify.com/track/34PkzeCZ8fZj9jBMMV1gqa"
     },
     {
       "album": {

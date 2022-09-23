@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 
 > Una fusión moderna de música Cristiana que alimenta el alma.
 
-[Spotify](https://open.spotify.com/user/spotify) - 305,553 likes - 75 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 305,760 likes - 75 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,11 +77,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 | 67 | [No Más](https://open.spotify.com/track/3AGq91W4DTXIWReXHd5jQ4) | [Indiomar](https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM) | [No Más](https://open.spotify.com/album/5cPtEugAHEiJGwIFCrzykF) | 3:26 |
 | 68 | [Ama A Dios Y A Tu Vecino](https://open.spotify.com/track/0ZIzGwc3j4lVacHR1c5DKb) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz), [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4), [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm) | [Ama A Dios Y A Tu Vecino](https://open.spotify.com/album/7cIlbOk2EXPl3ZBkuYDSnG) | 3:26 |
 | 69 | [Nada Me Falta](https://open.spotify.com/track/1xNDwOT47JQFYvtT0JcP7F) | [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd) | [¿Quién Contra Nosotros?](https://open.spotify.com/album/5cuqDgBJPMEWLjfbxnexp4) | 3:21 |
-| 70 | [Él Es Vida](https://open.spotify.com/track/2VmzoU0QqN8jLRbdSkxvao) | [En Espíritu Y En Verdad](https://open.spotify.com/artist/39m45GawtjXnazyVoEGkfb) | [No Puedo Callar](https://open.spotify.com/album/2ebN5IUSFeey8NJ2MQACla) | 4:31 |
-| 71 | [Sobre Mí](https://open.spotify.com/track/5QINbr4C1Qufiqj0WOGF4V) | [Dariann González](https://open.spotify.com/artist/1sgmTpjFhU8xeSlrDGpiSQ) | [Sobre Mi](https://open.spotify.com/album/1CXlie7i26wGMJlpUXh2Pv) | 5:45 |
+| 70 | [Sobre Mí](https://open.spotify.com/track/5QINbr4C1Qufiqj0WOGF4V) | [Dariann González](https://open.spotify.com/artist/1sgmTpjFhU8xeSlrDGpiSQ) | [Sobre Mi](https://open.spotify.com/album/1CXlie7i26wGMJlpUXh2Pv) | 5:45 |
+| 71 | [Él Es Vida](https://open.spotify.com/track/2VmzoU0QqN8jLRbdSkxvao) | [En Espíritu Y En Verdad](https://open.spotify.com/artist/39m45GawtjXnazyVoEGkfb) | [No Puedo Callar](https://open.spotify.com/album/2ebN5IUSFeey8NJ2MQACla) | 4:31 |
 | 72 | [Soy Libre](https://open.spotify.com/track/6Ae2dGmkZwXeO3BJEpkKaM) | [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3) | [Vive en Mí](https://open.spotify.com/album/0OWlPKpTVq2bLYj80Drs1x) | 3:30 |
 | 73 | [No Te Olvides](https://open.spotify.com/track/3IkRM0J6C71Bc7to3zJJHx) | [Onell Diaz](https://open.spotify.com/artist/0CY3fhkYxiPZh9XCwBeao2), [Inlight](https://open.spotify.com/artist/58j6JUyjaD09A7mRuF1Gcc) | [No Te Olvides](https://open.spotify.com/album/1GZFd6QKMYeS72xziUk0ue) | 4:09 |
 | 74 | [Viene De Ti](https://open.spotify.com/track/7Ck7diBtjNRVtwlcB2hOb3) | [Tercer Cielo](https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz) | [Viene De Ti](https://open.spotify.com/album/1hhM2pKRLdgEXz6DCq0fvy) | 4:15 |
 | 75 | [Todo Pasará](https://open.spotify.com/track/79MIBZkxaab6Pqv1Jsb49G) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE), [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd), [Abraham Velazquez](https://open.spotify.com/artist/5RFxDCs8wl2GNVve5FemDu) | [Todo Pasará](https://open.spotify.com/album/2qYzPWIFw6k0lix800JNyL) | 3:45 |
 
-Snapshot ID: `MTYyMTYyNDc2NywwMDAwMDAwMDU3YWJkZDIyMWMzYTMyZDZkMjBiZmQ5ZmQzNmY2ZDBh`
+Snapshot ID: `MTYyMTYyNDc2NywwMDAwMDAwMDEyM2RhNjMwZjc3M2RhMDYxNDM3NTA4YTE4NmZlODRm`

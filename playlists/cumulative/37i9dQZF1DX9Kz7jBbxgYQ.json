@@ -830,6 +830,24 @@
     },
     {
       "album": {
+        "name": "Gaayab",
+        "url": "https://open.spotify.com/album/3qGhJwL6Y2tY2t9lJNHiOS"
+      },
+      "artists": [
+        {
+          "name": "Raman Negi",
+          "url": "https://open.spotify.com/artist/1ZsF8DeNQav5xvu4X5KsYB"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262181,
+      "name": "Gaayab",
+      "url": "https://open.spotify.com/track/6yxyxncMxTxyU05fD5lRMk"
+    },
+    {
+      "album": {
         "name": "Ghum Nahi",
         "url": "https://open.spotify.com/album/4ktyI8XAm8uUNNhYg8rRdi"
       },

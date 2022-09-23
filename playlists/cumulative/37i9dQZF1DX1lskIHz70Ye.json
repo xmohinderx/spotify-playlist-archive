@@ -1304,6 +1304,24 @@
     },
     {
       "album": {
+        "name": "Love Story (Main Theme)",
+        "url": "https://open.spotify.com/album/7vM1zZzyUXq2gd2k5ZP20G"
+      },
+      "artists": [
+        {
+          "name": "Tomas Hilber",
+          "url": "https://open.spotify.com/artist/2pxii0UbnSs9vWOt4QcmHN"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109805,
+      "name": "Love Story (Main Theme For Guitar)",
+      "url": "https://open.spotify.com/track/1duB44w73T1Sy7wLL3apCl"
+    },
+    {
+      "album": {
         "name": "Mais tarde",
         "url": "https://open.spotify.com/album/76UFpZeSUJmxeefnkVmSSy"
       },

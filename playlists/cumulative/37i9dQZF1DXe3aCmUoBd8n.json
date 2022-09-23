@@ -1337,6 +1337,24 @@
     {
       "album": {
         "name": "\u0628\u062d\u0627\u0631\u0628 \u0641\u064a\u0647\u0627",
+        "url": "https://open.spotify.com/album/0LLAkjCkZJFQInR2cQ9KFe"
+      },
+      "artists": [
+        {
+          "name": "Bigsam",
+          "url": "https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8"
+        }
+      ],
+      "date_added": "2022-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245925,
+      "name": "\u0628\u062d\u0627\u0631\u0628 \u0641\u064a\u0647\u0627",
+      "url": "https://open.spotify.com/track/0XDtC0f0gsLPPVvbFiu07q"
+    },
+    {
+      "album": {
+        "name": "\u0628\u062d\u0627\u0631\u0628 \u0641\u064a\u0647\u0627",
         "url": "https://open.spotify.com/album/4x1Bl2uSE5UPlfnQXwlo2U"
       },
       "artists": [
@@ -1347,7 +1365,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 245925,
       "name": "\u0628\u062d\u0627\u0631\u0628 \u0641\u064a\u0647\u0627",
       "url": "https://open.spotify.com/track/74dkAlEbjBPHK3HrLXiAmC"

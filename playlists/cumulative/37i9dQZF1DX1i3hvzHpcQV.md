@@ -2,9 +2,9 @@
 
 ### [Hot Hits Tamil](https://open.spotify.com/playlist/37i9dQZF1DX1i3hvzHpcQV)
 
-> Tune into the Hottest tracks of Kollywood!<br/>Cover : Kamal Haasan
+> Tune into the Hottest tracks of Kollywood!<br/>Cover : PS \- 1
 
-74 songs - 4 hr 34 min - [published](https://open.spotify.com/playlist/08qCykpFzLPE8OJvwnUnl8)
+75 songs - 4 hr 36 min - [published](https://open.spotify.com/playlist/08qCykpFzLPE8OJvwnUnl8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Saami Saami](https://open.spotify.com/track/397k2vS0xPDxKKVXV46KtV) | [Rajalakshmi Senthiganesh](https://open.spotify.com/artist/1JIPdCqj5nSYLwHHD4vS5v) | [Pushpa \- The Rise](https://open.spotify.com/album/602rAkHAZiAsKB8BcxEiCM) | 3:44 | 2022-01-04 |  |
 | [Sandhanam Theme \- Background Score](https://open.spotify.com/track/525NKU3UFgZQtCXWBWE0al) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 1:46 | 2022-07-08 |  |
 | [So Baby \(From "Doctor"\)](https://open.spotify.com/track/0t0mHozF8Xsif9w8bemh9D) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Ananthakrrishnan](https://open.spotify.com/artist/07ziSY1M5vTjGnNtW9WNeR) | [So Baby \(From "Doctor"\)](https://open.spotify.com/album/28Y5P0FADbgckRg1E5E5Dp) | 4:12 | 2021-11-15 |  |
+| [Sol](https://open.spotify.com/track/5g1i02FYQMmVj4L17Gis1C) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Rakshita Suresh](https://open.spotify.com/artist/76Z6SMQPibr8qI24AhdvbJ) | [Ponniyin Selvan Part\-1 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6efDS3Pp3DUkDnr5XgPyMN) | 2:14 | 2022-09-22 |  |
 | [Soul of Doctor \(Theme\) \[From "Doctor"\]](https://open.spotify.com/track/6GFtWQYco30oKpMr5xJwy2) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Niranjana Ramanan](https://open.spotify.com/artist/3GB9ulskXfPOQCzw0SNEDx) | [Soul of Doctor \(Theme\) \[From "Doctor"\]](https://open.spotify.com/album/2ftkMy4ttkkdjFsFReYdWg) | 1:03 | 2021-11-15 |  |
 | [Srivalli](https://open.spotify.com/track/1pRHVSjEXuhZf7sEfH3yYS) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Pushpa \- The Rise](https://open.spotify.com/album/5dGmwPrF05ihcsEgBHBDhw) | 3:41 | 2022-02-09 |  |
 | [Sulthana](https://open.spotify.com/track/0avZTcyglSN3DMenBBimIr) | [Deepak Blue](https://open.spotify.com/artist/5iFKS1bnBNFWBAmd7mi0vf), [Govind Prasad](https://open.spotify.com/artist/2XzJ8aeBoI3YXBnaYVgDUh), [Yogi Sekar](https://open.spotify.com/artist/4n32jWbOVtfNDsOJAGQJcs), [Mohan Krishna](https://open.spotify.com/artist/2U4KiBePibvnd8BIXtBvk7), [Santhosh Venky](https://open.spotify.com/artist/1gpRRYfNURm0XJCyxUuH8Q), [Sachin Basrur](https://open.spotify.com/artist/6CdktQ3MYk5JwJHq1OajZG), [Ravi Basrur](https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn), [Puneeth Rudranag](https://open.spotify.com/artist/6oLN9TELPauBfctYeWPtYP), [Manish Dinakar](https://open.spotify.com/artist/70HfG4IYLoQ6X4jyxUSmXw), [Vaish](https://open.spotify.com/artist/3UUCWlU2bPEuKMAoUeiJBD) | [Kgf Chapter 2](https://open.spotify.com/album/55ocrn3kExKaTHbH2P8DJg) | 3:45 | 2022-05-11 |  |

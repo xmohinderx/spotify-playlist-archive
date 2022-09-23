@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdV3Fs5eWjC.md) - [plain]
 
 > Discover the multifaceted creativity of the black queer community\. Cover: Honey Dijon
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,646 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,669 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdV3Fs5eWjC.md) - [plain]
 | 36 | [Little Deer](https://open.spotify.com/track/7GkNvyhBawJGjNkmKsyQjP) | [Spellling](https://open.spotify.com/artist/7rlAAAiWScpsT1hmgURAmh) | [The Turning Wheel](https://open.spotify.com/album/5Dqqrr1dhaZ3BcFthVUCj2) | 5:39 |
 | 37 | [Fast Car](https://open.spotify.com/track/18kMrxuEwLL0i4lHnlF5rK) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Fast Car](https://open.spotify.com/album/1sh8dsfPPlCVXVux5NgX5d) | 3:30 |
 | 38 | [SULA \(Paperback\)](https://open.spotify.com/track/1RwK5al4DKxgHQ234mKbwB) | [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [SULA \(Paperback\)](https://open.spotify.com/album/54gPc2awVOFQyZjJi6dB3s) | 4:15 |
-| 39 | [Fellowship](https://open.spotify.com/track/1gVB71qZLk0eGwZGaVIUcM) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [DEACON](https://open.spotify.com/album/7dHEw1ug6SGPnGa74DQMxV) | 3:39 |
-| 40 | [Crushed Velvet](https://open.spotify.com/track/1I0i3wWt1sCZ4PT0TfnyZm) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [The Asymptotical World EP](https://open.spotify.com/album/2julo3Z5rNzSod7DoEuTz7) | 3:17 |
+| 39 | [Crushed Velvet](https://open.spotify.com/track/1I0i3wWt1sCZ4PT0TfnyZm) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [The Asymptotical World EP](https://open.spotify.com/album/2julo3Z5rNzSod7DoEuTz7) | 3:17 |
+| 40 | [Fellowship](https://open.spotify.com/track/1gVB71qZLk0eGwZGaVIUcM) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [DEACON](https://open.spotify.com/album/7dHEw1ug6SGPnGa74DQMxV) | 3:39 |
 | 41 | [Back Together](https://open.spotify.com/track/1KoXAHzunI8OY34GwmnIQV) | [Amorphous](https://open.spotify.com/artist/2mvAbMVwkxiZWJXjorKpdK), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Back Together](https://open.spotify.com/album/5aW4rl6oNbpoL0LwteyYNH) | 4:09 |
 | 42 | [Sick Bitch](https://open.spotify.com/track/7FfPZEeRpDjisWER6xohdV) | [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2) | [Sick Bitch](https://open.spotify.com/album/05DFlfUTOkmIKQJVtAD6ZC) | 4:19 |
 | 43 | [Down For It](https://open.spotify.com/track/5FhOCIqij24XZePzuJIOOp) | [Idman](https://open.spotify.com/artist/6N13mUTgkfYEUmW8R2GH0G) | [Down For It](https://open.spotify.com/album/7yL4gfHBtc66pNOA3Khs5y) | 3:15 |
-| 44 | [Don Dada](https://open.spotify.com/track/6B3NBWtTa7WuPILwpAz6D5) | [Cakes da Killa](https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC), [Proper Villains](https://open.spotify.com/artist/2mVUdPq7evlUNzq2rYys8S) | [Don Dada](https://open.spotify.com/album/4j8I2IA2VLSYqDCJ0FydNb) | 3:05 |
-| 45 | [Never Wanna Fall](https://open.spotify.com/track/2gdmSV6iZDVf8ETlD755Zf) | [Talia Goddess](https://open.spotify.com/artist/4Otn2nALdNCTFUUExiskqw) | [Poster Girl](https://open.spotify.com/album/5YgXXwuwTim607qGUWXbph) | 4:41 |
+| 44 | [Never Wanna Fall](https://open.spotify.com/track/2gdmSV6iZDVf8ETlD755Zf) | [Talia Goddess](https://open.spotify.com/artist/4Otn2nALdNCTFUUExiskqw) | [Poster Girl](https://open.spotify.com/album/5YgXXwuwTim607qGUWXbph) | 4:41 |
+| 45 | [Don Dada](https://open.spotify.com/track/6B3NBWtTa7WuPILwpAz6D5) | [Cakes da Killa](https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC), [Proper Villains](https://open.spotify.com/artist/2mVUdPq7evlUNzq2rYys8S) | [Don Dada](https://open.spotify.com/album/4j8I2IA2VLSYqDCJ0FydNb) | 3:05 |
 | 46 | [Shisha](https://open.spotify.com/track/3GQ4WtNBEax7cYRGBNM0Js) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Keep It Playa](https://open.spotify.com/album/1CIY3PA833LK8TVJpsSOvS) | 3:12 |
 | 47 | [Missing Out](https://open.spotify.com/track/5vvn5HATa05iKVql6oYULV) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Missing Out](https://open.spotify.com/album/1WteYNWIkmmgTfquwV0Mc4) | 3:59 |
 | 48 | [Green Line](https://open.spotify.com/track/5Ebu0lwiMFhempIKg1GUAk) | [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt), [Terrell Morris](https://open.spotify.com/artist/7C3agcqFXnteDagiWhaZdU) | [Green Line](https://open.spotify.com/album/4pZN0JVoQx3ikvl6qGzUH6) | 3:26 |
 | 49 | [Georgia](https://open.spotify.com/track/6BYRHke6jlb81Z6qCTRZ8y) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Jaime](https://open.spotify.com/album/3eMBjJtKjZrTi0N9mg6IcR) | 3:18 |
 | 50 | [Save Myself](https://open.spotify.com/track/74DbiadhBhDwhyG9D863IS) | [VINCINT](https://open.spotify.com/artist/6glcVV5wCi1hU4nxqJItqd) | [Save Myself](https://open.spotify.com/album/7K4LaLprwWw73jpzkoKBZU) | 3:38 |
 
-Snapshot ID: `MTY2MDIzOTkzOCwwMDAwMDAwMGZhOTI3MDY4MTJkZDFlNzVhNDE5OTk5MGU1NGUyNTkw`
+Snapshot ID: `MTY2MDIzOTkzOCwwMDAwMDAwMGM0NWZmOWMzMWYzZjQ0MzA3YzhkN2YxODZmMDM3NzBl`

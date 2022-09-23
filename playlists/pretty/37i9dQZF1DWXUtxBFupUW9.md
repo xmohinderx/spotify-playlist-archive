@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXUtxBFupUW9.md) - [plain]
 
 > Exercise together with uplifting soul music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,506 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,587 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXUtxBFupUW9.md) - [plain]
 | 41 | [Golden](https://open.spotify.com/track/0bHs3ly4Bv5BlzE3KrePfX) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [Beautifully Human: Words and Sounds Vol\. 2](https://open.spotify.com/album/21JbNB7qmJoOr03sM9dMeR) | 3:51 |
 | 42 | [Good Times \- 2018 Remaster](https://open.spotify.com/track/2wYKNcoqKW4IEcllj42xz1) | [CHIC](https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV) | [Risqué \(2018 Remaster\)](https://open.spotify.com/album/7rAk4WPpYlYr0fElVfXTOF) | 8:06 |
 | 43 | [The Tears Of A Clown](https://open.spotify.com/track/4Dq749x2QP6OXTURJ9GGY8) | [Smokey Robinson & The Miracles](https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt) | [Make It Happen](https://open.spotify.com/album/6vbD4D3SpN2JBjCoXdGE3i) | 3:01 |
-| 44 | [Needle In A Haystack](https://open.spotify.com/track/26fSgIa539TCK3KV76chHU) | [The Velvelettes](https://open.spotify.com/artist/72Q7helEnjOptf8FAoZQTi) | [The Very Best Of The Velvelettes](https://open.spotify.com/album/4TYdNPupS05h9dZq3iF5M6) | 2:29 |
-| 45 | [Get Up Offa That Thing](https://open.spotify.com/track/3whRKAOlJ0M3banzcChvQv) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [Cold Sweat & Other Soul Classics: James Brown](https://open.spotify.com/album/6CygdzTfDPgHKm8RAuiV7R) | 4:10 |
+| 44 | [Get Up Offa That Thing](https://open.spotify.com/track/3whRKAOlJ0M3banzcChvQv) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [Cold Sweat & Other Soul Classics: James Brown](https://open.spotify.com/album/6CygdzTfDPgHKm8RAuiV7R) | 4:10 |
+| 45 | [Needle In A Haystack](https://open.spotify.com/track/26fSgIa539TCK3KV76chHU) | [The Velvelettes](https://open.spotify.com/artist/72Q7helEnjOptf8FAoZQTi) | [The Very Best Of The Velvelettes](https://open.spotify.com/album/4TYdNPupS05h9dZq3iF5M6) | 2:29 |
 | 46 | [Hard to Handle](https://open.spotify.com/track/3AW8RH8wosGLxd6ZojTGBe) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [Soul Manifesto: 1964\-1970](https://open.spotify.com/album/0JwIILToCGqGm6jElmWRHZ) | 2:21 |
 | 47 | [How Sweet It Is \(To Be Loved By You\)](https://open.spotify.com/track/5Rb211KhnOhLLXPpt8awxU) | [Jr\. Walker & The All Stars](https://open.spotify.com/artist/1rHh0AI30JhKrbzKIFjFNd) | [Road Runner](https://open.spotify.com/album/5zFjEP5qKjqonWTmBewAf1) | 3:02 |
 | 48 | [Machine Gun](https://open.spotify.com/track/3mQTPYezPCB9uUM3WpkIff) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [Machine Gun](https://open.spotify.com/album/4OghKaRV54hQKGhkpD5cLC) | 2:39 |
 | 49 | [Chain Gang](https://open.spotify.com/track/7v1858htfU0srTDwhxeka8) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [Swing Low](https://open.spotify.com/album/40y4Rm3Oum1bQlzIxZpVPq) | 2:35 |
 | 50 | [Reflections](https://open.spotify.com/track/4yChgYDVcQrAgIEIErW27b) | [Diana Ross & The Supremes](https://open.spotify.com/artist/0rXI0q8Cahq6numvPlloaq) | [Reflections \(Expanded Edition\)](https://open.spotify.com/album/5Hihm4B5op6ktt8qP1AHKK) | 2:49 |
 
-Snapshot ID: `MTY2MDI5NDMzNSwwMDAwMDAwMDE5MmU1MThlZmNlNmVhZDc5NmQ4ZTM4MjdhMmRlN2Vi`
+Snapshot ID: `MTY2MDI5NDMzNSwwMDAwMDAwMGE2NGY5ZDlmZGNjOWQ1OTJlYTU3ZWVlMTg4NDBhYzlj`

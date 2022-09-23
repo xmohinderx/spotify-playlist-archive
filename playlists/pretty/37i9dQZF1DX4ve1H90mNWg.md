@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ve1H90mNWg.md) - [plain]
 
 > Texas music breaking waves\. Cover, Teezo Don Toliver
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,759 likes - 54 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,764 likes - 54 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ve1H90mNWg.md) - [plain]
 | 11 | [Psane \(feat\. Don Toliver\)](https://open.spotify.com/track/44SFX0JI00vMoyIemTQDtN) | [Pi’erre Bourne](https://open.spotify.com/artist/3x3jSlhyv5CiCZDZlaTq0M), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Good Movie](https://open.spotify.com/album/2REajdJ8KOaR8Vm2Zx8UXM) | 4:15 |
 | 12 | [Teach Her The Game](https://open.spotify.com/track/4dcnMjjjEKpMXMg70EUjeT) | [Whookilledkenny](https://open.spotify.com/artist/2KZnFwKkzZwaTe74507ZLD) | [Teach Her The Game](https://open.spotify.com/album/4e6FwvLip0QgE6ix2fQjG6) | 2:18 |
 | 13 | [Wet](https://open.spotify.com/track/6ZPocZfO8kpha6AfptjMi4) | [PRINCESS RICHIE](https://open.spotify.com/artist/7lYMDQUN09vQKEBSwQCXY4) | [Big Momma](https://open.spotify.com/album/0zDDtMRb0cPJQ6RSIlCt5q) | 2:24 |
-| 14 | [Studio Gangsta](https://open.spotify.com/track/5vdZczJznIbo9IDxzWvgV6) | [Marqus Clae](https://open.spotify.com/artist/6CMbYeF5Lb3RZjnig0rSBT) | [Studio Gangsta](https://open.spotify.com/album/1QiLqbcKn1Oh7QMaLOUOtU) | 4:55 |
+| 14 | [STUDIO GANGSTA](https://open.spotify.com/track/5vdZczJznIbo9IDxzWvgV6) | [Marqus Clae](https://open.spotify.com/artist/6CMbYeF5Lb3RZjnig0rSBT) | [STUDIO GANGSTA](https://open.spotify.com/album/1QiLqbcKn1Oh7QMaLOUOtU) | 4:55 |
 | 15 | [Reassurance](https://open.spotify.com/track/4NIZu6esOZH5dCvRA8y1Ra) | [Jastin Martin](https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1) | [MINE](https://open.spotify.com/album/4pY3QqSRrATv2KH7mPvP37) | 3:03 |
 | 16 | [Southside](https://open.spotify.com/track/5kRAI8FU35oY52jn8xwrI0) | [Ashton Travis](https://open.spotify.com/artist/5QFkhK4qG4aIeYZIWg2DO8) | [Southside](https://open.spotify.com/album/1bBH7XmYduj4tVTip9zuRo) | 3:21 |
 | 17 | [Make Me Say It Again, Girl](https://open.spotify.com/track/1AOLTT2XUALAnfhalrTQS6) | [Peyton](https://open.spotify.com/artist/0uIVCKSl2eNhWQ1yXxO5xV) | [Make Me Say It Again, Girl](https://open.spotify.com/album/4c6Z9lFMKtr9agRb6b8Myk) | 4:24 |

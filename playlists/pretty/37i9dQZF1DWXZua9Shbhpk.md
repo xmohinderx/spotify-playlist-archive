@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXZua9Shbhpk.md) - [plain]
 
 > The best mix of hip hop, pop, country, dance and classic anthems for the game day warm\-up.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,850 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,852 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXZua9Shbhpk.md) - [plain]
 | 43 | [MIA \(feat\. Drake\)](https://open.spotify.com/track/116H0KvKr2Zl4RPuVBruDO) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [MIA \(feat\. Drake\)](https://open.spotify.com/album/0p0W4RXcnc59jgatcdZozO) | 3:30 |
 | 44 | [Sweet Caroline](https://open.spotify.com/track/62AuGbAkt8Ox2IrFFb8GKV) | [Neil Diamond](https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes) | [Sweet Caroline](https://open.spotify.com/album/6RfgcwsOUlWkGNAd6zjjYd) | 3:23 |
 | 45 | [Old Town Road \- Remix](https://open.spotify.com/track/2YpeDb67231RjR0MgVLzsG) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Billy Ray Cyrus](https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa) | [7 EP](https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO) | 2:37 |
-| 46 | [Levels \- Radio Edit](https://open.spotify.com/track/5UqCQaDshqbIk3pkhy4Pjg) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [Levels](https://open.spotify.com/album/1OEGfToF7QbjUgyxMAnGXg) | 3:19 |
-| 47 | [family ties \(with Kendrick Lamar\)](https://open.spotify.com/track/7Bpx2vsWfQFBACRz4h3IqH) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [family ties \(with Kendrick Lamar\)](https://open.spotify.com/album/3HqmX8hGcbbQZODgayNEYx) | 4:12 |
+| 46 | [family ties \(with Kendrick Lamar\)](https://open.spotify.com/track/7Bpx2vsWfQFBACRz4h3IqH) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [family ties \(with Kendrick Lamar\)](https://open.spotify.com/album/3HqmX8hGcbbQZODgayNEYx) | 4:12 |
+| 47 | [Levels \- Radio Edit](https://open.spotify.com/track/5UqCQaDshqbIk3pkhy4Pjg) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [Levels](https://open.spotify.com/album/1OEGfToF7QbjUgyxMAnGXg) | 3:19 |
 | 48 | [Nonstop](https://open.spotify.com/track/0TlLq3lA83rQOYtrqBqSct) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Scorpion](https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX) | 3:58 |
 | 49 | [Mo Bamba](https://open.spotify.com/track/1xzBco0xcoJEDXktl7Jxrr) | [Sheck Wes](https://open.spotify.com/artist/2RDOrhPqAM4jzTRCEb19qX) | [MUDBOY](https://open.spotify.com/album/15Id9Jrqab8IwHFirdrrLp) | 3:03 |
 | 50 | [ROXANNE](https://open.spotify.com/track/696DnlkuDOXcMAnKlTgXXK) | [Arizona Zervas](https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs) | [ROXANNE](https://open.spotify.com/album/6HJDrXs0hpebaRFKA1sF90) | 2:43 |
 
-Snapshot ID: `MTY2MjE0NjUyMSwwMDAwMDAwMGFlY2JiYjRmYmYyNGNjZTM3M2QzYzlhNmE0YjEzNmE2`
+Snapshot ID: `MTY2MjE0NjUyMSwwMDAwMDAwMDdiYTk2NmRkNmQxZTFkNGFlNGY5MTZiMzZmNDYzZjFh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy0j22jjWNA.md) - [plain]
 
 > Great songs from great people\.  Enjoy music from artists you can believe in!
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,321 likes - 65 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,322 likes - 65 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,10 +68,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy0j22jjWNA.md) - [plain]
 | 58 | [Good As Gone](https://open.spotify.com/track/5sKTOx9wcRrW84darhOBc5) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [Good As Gone](https://open.spotify.com/album/32y5C6o9zbNZYypf951kAZ) | 3:59 |
 | 59 | [Beautiful Anyway](https://open.spotify.com/track/57nsUfW0qofrkoy9un0ffJ) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [Beautiful Anyway](https://open.spotify.com/album/7nBneg4Rg24xh4awr2PJye) | 4:58 |
 | 60 | [Radiant \(Shine Like Diamonds\)](https://open.spotify.com/track/1y6A6uJmgWWXyD9sO7iCtp) | [Quiet Science](https://open.spotify.com/artist/6ClKRjCUNwKVuR5MjFPjY0) | [Radiant \(Shine Like Diamonds\)](https://open.spotify.com/album/5G2zZlIJhCqKAT5Pjoqr2Y) | 4:01 |
-| 61 | [I Am One](https://open.spotify.com/track/6cuwOV2JrWQSY2wKBCawzJ) | [Sandra McCracken](https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN), [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [I Am One](https://open.spotify.com/album/0UBI5alyeqYSys0BUPAnEF) | 4:10 |
-| 62 | [Dawned On Me](https://open.spotify.com/track/4rTJ1zQvTsXNAs365RWGYj) | [Brewer](https://open.spotify.com/artist/1WNwNKCMaAZKRhB1PAquF2) | [Dawned On Me](https://open.spotify.com/album/1t9g1ZwBOn2EvDFc1copoe) | 2:57 |
-| 63 | [Roses](https://open.spotify.com/track/0mT0NsnCx7jydlJ6bAKyyK) | [Emily Brimlow](https://open.spotify.com/artist/5ncA0WGi828yjhqmvHsJRj) | [Roses](https://open.spotify.com/album/2srdHwegmNXJf9g68h5vhs) | 3:08 |
-| 64 | [Grateful \(feat\. Poo Bear\)](https://open.spotify.com/track/4vdzAzlQHMp225TA0mT4mq) | [13 Crowns](https://open.spotify.com/artist/1B6G8jtCIld4w3q7KQgIzb), [Poo Bear](https://open.spotify.com/artist/3JXpwnHbLvXxY99EuXqFPX) | [Grateful \(feat\. Poo Bear\)](https://open.spotify.com/album/0ZsYHZvZVDfo6CWE8IgpoH) | 4:06 |
+| 61 | [Grateful \(feat\. Poo Bear\)](https://open.spotify.com/track/4vdzAzlQHMp225TA0mT4mq) | [13 Crowns](https://open.spotify.com/artist/1B6G8jtCIld4w3q7KQgIzb), [Poo Bear](https://open.spotify.com/artist/3JXpwnHbLvXxY99EuXqFPX) | [Grateful \(feat\. Poo Bear\)](https://open.spotify.com/album/0ZsYHZvZVDfo6CWE8IgpoH) | 4:06 |
+| 62 | [I Am One](https://open.spotify.com/track/6cuwOV2JrWQSY2wKBCawzJ) | [Sandra McCracken](https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN), [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [I Am One](https://open.spotify.com/album/0UBI5alyeqYSys0BUPAnEF) | 4:10 |
+| 63 | [Dawned On Me](https://open.spotify.com/track/4rTJ1zQvTsXNAs365RWGYj) | [Brewer](https://open.spotify.com/artist/1WNwNKCMaAZKRhB1PAquF2) | [Dawned On Me](https://open.spotify.com/album/1t9g1ZwBOn2EvDFc1copoe) | 2:57 |
+| 64 | [Roses](https://open.spotify.com/track/0mT0NsnCx7jydlJ6bAKyyK) | [Emily Brimlow](https://open.spotify.com/artist/5ncA0WGi828yjhqmvHsJRj) | [Roses](https://open.spotify.com/album/2srdHwegmNXJf9g68h5vhs) | 3:08 |
 | 65 | [This Is No Burial](https://open.spotify.com/track/68yKw3WXrzKu8AwuLZ3Kt2) | [Andie Elise](https://open.spotify.com/artist/6MFwrVbS7GP9wVtvNtfGy2) | [This Is No Burial](https://open.spotify.com/album/0elstO4HWsES7meWd8Y019) | 3:54 |
 
-Snapshot ID: `MTU5OTE5MjEyMCwwMDAwMDAwMDc0OTcyNWM3NDU0NDYxNDkwOTYxMjMyNTkzNGY4NWY2`
+Snapshot ID: `MTU5OTE5MjEyMCwwMDAwMDAwMDNjODdiMGE1NmUxNDE1OTQyZjAwMzk2ZGFkY2Q3ZjQz`

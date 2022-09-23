@@ -4,7 +4,7 @@
 
 > A collection of hits that will have you singing every word\. Cover: Jon Pardi
 
-114 songs - 6 hr 15 min - [published](https://open.spotify.com/playlist/5Q1iirswdRnV2OItF004D6)
+115 songs - 6 hr 17 min - [published](https://open.spotify.com/playlist/5Q1iirswdRnV2OItF004D6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Same Boat](https://open.spotify.com/track/4HD9SLK4s9rwRyuFt3n8N7) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [The Comeback](https://open.spotify.com/album/3HAqDprp8YxHEguHkCcfOC) | 3:10 | 2022-09-02 |  |
 | [Settling Down](https://open.spotify.com/track/53bZYxVbCYm6w1Gx8U64bz) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Wildcard](https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn) | 3:17 | 2022-07-21 | 2022-09-03 |
 | [She Don't Know](https://open.spotify.com/track/5s95DvyPmrEGQz68fECUS8) | [Jade Eagleson](https://open.spotify.com/artist/2nTzAHwCk0swkDdIPj2FIP) | [Honkytonk Revival](https://open.spotify.com/album/17uEGzawT4q5I948KsSCtZ) | 3:24 | 2022-08-04 |  |
+| [She Likes It \(feat\. Jake Scott\)](https://open.spotify.com/track/6VVqPBFZIbcmv14zNfOc13) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw), [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [She Likes It \(feat\. Jake Scott\)](https://open.spotify.com/album/6w0l7fLsiJTgVAgoxMzBIu) | 2:43 | 2022-09-22 |  |
 | [Single Saturday Night](https://open.spotify.com/track/1irAliF0T8sLIOPJp6n7rU) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [Single Saturday Night](https://open.spotify.com/album/1wmVEVgetT1F0Qnu0651Ps) | 3:07 | 2022-07-21 |  |
 | [Slow Dance In A Parking Lot](https://open.spotify.com/track/6MBUUSIWCzaXW4q58Ktrv9) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Home State](https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR) | 3:13 | 2022-07-21 |  |
 | [Slow Down Summer](https://open.spotify.com/track/6c9mvipi1OooFPcU2dbwxq) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Where We Started](https://open.spotify.com/album/794M3R461sLnY042CsB3xW) | 3:37 | 2022-07-21 |  |
@@ -121,6 +122,6 @@
 | [Wishful Drinking \(with Sam Hunt\)](https://open.spotify.com/track/3HGnIIdHYIbkowzLk8UHbE) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii), [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Wishful Drinking \(with Sam Hunt\)](https://open.spotify.com/album/2vb8B3MYGjfYlGch4KlEfe) | 3:14 | 2022-07-21 |  |
 | [Worth A Shot \(feat\. Dierks Bentley\)](https://open.spotify.com/track/16Sdmdt7jpibASwEsO0s9j) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx), [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [Worth A Shot \(feat\. Dierks Bentley\)](https://open.spotify.com/album/6BkvN6AfqiLF186w0SThQm) | 3:31 | 2022-08-05 | 2022-09-03 |
 | [You Should Probably Leave](https://open.spotify.com/track/2UikqkwBv7aIvlixeVXHWt) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Starting Over](https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW) | 3:33 | 2022-07-21 |  |
-| [Yours](https://open.spotify.com/track/3I4WFddKpe2PGZWFh7f10J) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Yours](https://open.spotify.com/album/6NxQDh433Rl4EQXT6QiQCE) | 3:36 | 2022-07-21 |  |
+| [Yours](https://open.spotify.com/track/3I4WFddKpe2PGZWFh7f10J) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Yours](https://open.spotify.com/album/6NxQDh433Rl4EQXT6QiQCE) | 3:36 | 2022-07-21 | 2022-09-23 |
 
 \*This playlist was first scraped on 2022-07-31. Prior content cannot be recovered.

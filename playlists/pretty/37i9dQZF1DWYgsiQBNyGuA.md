@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgsiQBNyGuA.md) - [plain]
 
 > Soul to brighten up your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,738 likes - 80 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,770 likes - 80 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,15 +56,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgsiQBNyGuA.md) - [plain]
 | 46 | [Call My Name](https://open.spotify.com/track/2KuATlpFox2DKUkRxViBH3) | [Avery\*Sunshine](https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf) | [The SunRoom](https://open.spotify.com/album/3XR4GTqZQ1eiVULjHQd38N) | 4:31 |
 | 47 | [All I Ever Wonder](https://open.spotify.com/track/6kUfA51KpIMGdKYrzWLkbn) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Sea of Noise](https://open.spotify.com/album/2fRc3TJSXKXGFdnmcm17p2) | 3:29 |
 | 48 | [Just The Two Of Us](https://open.spotify.com/track/2P3YVlcxm5m4cRxjNiZ96q) | [Sabrina Starke](https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub) | [Lean On Me \- The Songs Of Bill Withers \(Bonustrack Edition\)](https://open.spotify.com/album/6SNemCUWVfYobddj98KgXh) | 4:20 |
-| 49 | [Blue Magic \(Waikiki\)](https://open.spotify.com/track/3auSQjs9kylJwN0aU7S5Qc) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [New Magic](https://open.spotify.com/album/6wYeJwJU9Y4fuLQVfGyJk9) | 3:33 |
-| 50 | [So Caught Up](https://open.spotify.com/track/2SrTIQZs2Dzv9WC538a8xM) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT) | 3:48 |
+| 49 | [So Caught Up](https://open.spotify.com/track/2SrTIQZs2Dzv9WC538a8xM) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT) | 3:48 |
+| 50 | [Blue Magic \(Waikiki\)](https://open.spotify.com/track/3auSQjs9kylJwN0aU7S5Qc) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [New Magic](https://open.spotify.com/album/6wYeJwJU9Y4fuLQVfGyJk9) | 3:33 |
 | 51 | [Who Do You Think You Are](https://open.spotify.com/track/06PqCTjgqD5SLemzSmg5OT) | [Lorrèn](https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG) | [Land of Possibilities](https://open.spotify.com/album/4w8jFeXUxgHokYQKZwJGsc) | 3:44 |
 | 52 | [Spiritual Thang](https://open.spotify.com/track/1lcZPCRAuVXCHSqPsFaWlw) | [Eric Benét](https://open.spotify.com/artist/1kjO72M26jZkv0aaGxJaov) | [True to Myself](https://open.spotify.com/album/0HgmysKc552d8G01TdbUa3) | 4:00 |
 | 53 | [Montego Sunset](https://open.spotify.com/track/0fsD8umgWm5PxXKY3h741i) | [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp) | [Make the Road By Walking](https://open.spotify.com/album/6wdxaAC6P7f6w05QadHFcB) | 3:18 |
 | 54 | [All I Need](https://open.spotify.com/track/2mGWmvIIvs7jKEXxyh7Wfb) | [Lee Fields & The Expressions](https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K), [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [Emma Jean](https://open.spotify.com/album/3u38Zm1pGlCrGZSsUk2396) | 3:34 |
 | 55 | [Oh No \(Man\)](https://open.spotify.com/track/4Sb5YjpeDNMzEMFNfZTZuj) | [Chico DeBarge](https://open.spotify.com/artist/67ISVBZzcCTTKM17Ps00sx) | [Addiction](https://open.spotify.com/album/0l3NCq2SpDb7JGBS92WRd5) | 4:07 |
-| 56 | [Question](https://open.spotify.com/track/06mrnjvi4UhBLOTdSLo3Yj) | [Fat Night](https://open.spotify.com/artist/0jUjkZEu17LkjSEQJmcqqi) | [Live for Each Other](https://open.spotify.com/album/3LEPfjcf5STf3EQj9jEfBU) | 4:22 |
-| 57 | [Seven Nation Army \- Remasterisée](https://open.spotify.com/track/4LDNKV0SYy8m9MRyhLkXv7) | [Ben L'Oncle Soul](https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK) | [Ben L'Oncle Soul](https://open.spotify.com/album/0cf7toJ9xKuKgsaTDwxaCj) | 2:56 |
+| 56 | [Seven Nation Army \- Remasterisée](https://open.spotify.com/track/4LDNKV0SYy8m9MRyhLkXv7) | [Ben L'Oncle Soul](https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK) | [Ben L'Oncle Soul](https://open.spotify.com/album/0cf7toJ9xKuKgsaTDwxaCj) | 2:56 |
+| 57 | [Question](https://open.spotify.com/track/06mrnjvi4UhBLOTdSLo3Yj) | [Fat Night](https://open.spotify.com/artist/0jUjkZEu17LkjSEQJmcqqi) | [Live for Each Other](https://open.spotify.com/album/3LEPfjcf5STf3EQj9jEfBU) | 4:22 |
 | 58 | [Hold Me](https://open.spotify.com/track/4QlhhWO6nq5BzSpfU4nJs0) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT) | 3:07 |
 | 59 | [Fanatic](https://open.spotify.com/track/39wzkLXh3LZypQmWATLZ7j) | [Vivian Green](https://open.spotify.com/artist/3t83f2J04dRWOpNBe9GTfs) | [A Love Story](https://open.spotify.com/album/2M5NsF6DS8Uemk6WcMewV4) | 4:12 |
 | 60 | [I Found Love \(On A Lonely Highway\)](https://open.spotify.com/track/0k7kfdefyPCDVHtHzgaq6t) | [Jeff Floyd](https://open.spotify.com/artist/4daynj4qj7K17EbBzEhtDe) | [Powerhouse](https://open.spotify.com/album/7jge7It8TJ7XVSjcKFRFfE) | 7:33 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgsiQBNyGuA.md) - [plain]
 | 68 | [Just Another Man](https://open.spotify.com/track/5pDX9LdKPUu8S56NEpxywo) | [Steffen Morrison](https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r) | [Movin' On](https://open.spotify.com/album/4kWmZoSHYtMxvejnCwv3ID) | 3:41 |
 | 69 | [Love You All My Lifetime](https://open.spotify.com/track/2yTswsiLkNGzzzX54WroNS) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [The Woman I Am](https://open.spotify.com/album/0xUs1n2GTs34q1JeFfZsDz) | 4:44 |
 | 70 | [Stupid Mad Love](https://open.spotify.com/track/0EmeMBuxo7JYg6EMKMhng4) | [Jeverson](https://open.spotify.com/artist/4sm6r5jbyfm1lq1ENy0SnX) | [Stupid Mad Love](https://open.spotify.com/album/01mhk58oxbUW8MIcNbv7MY) | 3:33 |
-| 71 | [All For Love](https://open.spotify.com/track/6vU8If1zpZDzYQdTa2Rvgp) | [Adriana Evans](https://open.spotify.com/artist/6sCf6HW9zBhLN64XC8tRdv) | [El Camino](https://open.spotify.com/album/6qS7HFeGOxWm7zplMU419G) | 4:25 |
-| 72 | [Man of the Universe](https://open.spotify.com/track/5LOqxE3oEe3tPTbIs6ytWM) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT) | 4:09 |
+| 71 | [Man of the Universe](https://open.spotify.com/track/5LOqxE3oEe3tPTbIs6ytWM) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT) | 4:09 |
+| 72 | [All For Love](https://open.spotify.com/track/6vU8If1zpZDzYQdTa2Rvgp) | [Adriana Evans](https://open.spotify.com/artist/6sCf6HW9zBhLN64XC8tRdv) | [El Camino](https://open.spotify.com/album/6qS7HFeGOxWm7zplMU419G) | 4:25 |
 | 73 | [Sunny Days](https://open.spotify.com/track/6FXis8xolZr1w66kY27zbs) | [Sabrina Starke](https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub) | [Bags & Suitcases](https://open.spotify.com/album/3TwHPffWffk3jvRzgTHVWm) | 3:29 |
 | 74 | [Lift Me Up](https://open.spotify.com/track/1uyj6ycPIp7i907LsGbUmA) | [Dojo Cuts](https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL), [Roxie Ray](https://open.spotify.com/artist/6ZbBl2PqUW7wMAU2DnsDCG) | [Take From Me](https://open.spotify.com/album/20e8oP5W0209A6D87lTzB3) | 4:29 |
 | 75 | [My Home \(Love Brings Us Here\)](https://open.spotify.com/track/425RXHH1ByViVaSslgfg0V) | [Jon Mero](https://open.spotify.com/artist/6MuZFI7KLPBjhmgkkX5LPf) | [My Home \(Love Brings Us Here\) \- Single](https://open.spotify.com/album/1qsxuAF1ujU6tjtAIYRpqB) | 3:33 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgsiQBNyGuA.md) - [plain]
 | 79 | [There Goes My Sanity](https://open.spotify.com/track/7HMe4VwDdDdGcTiKkJsamn) | [Lynden David Hall](https://open.spotify.com/artist/3fLIciFr0hJk9Mh0K6RLgQ) | [Medicine 4 My Pain](https://open.spotify.com/album/0wTxFbAFh9Ig1LgZ4axaIK) | 5:16 |
 | 80 | [Ain't No Use](https://open.spotify.com/track/1k8AAfl7Eylt2alxE2qWAN) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B](https://open.spotify.com/album/0bAw54Ih5LQ7SmC7uJ0IUv) | 4:40 |
 
-Snapshot ID: `MTY1NDg2MjA0OCwwMDAwMDAwMGY0OTExZDJiNzZmY2M4M2U1NjJmYzdjZDFhNDYwMTMy`
+Snapshot ID: `MTY1NDg2MjA0OCwwMDAwMDAwMGViZjAyYjJjNzJiYTE3MzViMTZhMTJjMzI1M2ZmM2Uw`

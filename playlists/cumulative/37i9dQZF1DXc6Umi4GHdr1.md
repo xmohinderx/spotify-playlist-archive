@@ -4,7 +4,7 @@
 
 > Free your mind and let your thoughts flow to the sounds of guitar.
 
-122 songs - 5 hr 58 min - [published](https://open.spotify.com/playlist/4HU2Rw6bNgsjgvEsWWL6e8)
+123 songs - 6 hr 0 min - [published](https://open.spotify.com/playlist/4HU2Rw6bNgsjgvEsWWL6e8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Anji](https://open.spotify.com/track/5pT4qRIpNb7cASsnMfE1Hc) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Sounds Of Silence](https://open.spotify.com/album/07RAGILF28QweYQSZasr5k) | 2:13 | 2021-12-10 | 2022-04-06 |
 | [Anoranza](https://open.spotify.com/track/6aq1erKhdTigJdqnoeWCrz) | [Gabriella Vargas Luna](https://open.spotify.com/artist/1P3NtjxAwU5gdEev4Pd93O) | [Anoranza](https://open.spotify.com/album/29qvE6ctOnyrUJWZODkMhV) | 2:48 | 2021-12-10 |  |
 | [Arbonne](https://open.spotify.com/track/39lP6wfJd0sADo8QQVNuPo) | [Frederic Dupont](https://open.spotify.com/artist/1kG7NP29tzvsYI6dEmOZFF) | [Iara](https://open.spotify.com/album/0gPVXKxCJ2nkXFiG1HPMtb) | 3:17 | 2022-03-03 |  |
-| [As Long As You Are By My Side](https://open.spotify.com/track/2UrLjcS494QMLJbzYgOXht) | [Mike Hense](https://open.spotify.com/artist/3NU4JVUYY3da2SyQjksPDh) | [As Long As You Are By My Side](https://open.spotify.com/album/6V5508TydVNEnHXsgUeW0q) | 2:22 | 2021-12-10 |  |
+| [As Long As You Are By My Side](https://open.spotify.com/track/2UrLjcS494QMLJbzYgOXht) | [Mike Hense](https://open.spotify.com/artist/3NU4JVUYY3da2SyQjksPDh) | [As Long As You Are By My Side](https://open.spotify.com/album/6V5508TydVNEnHXsgUeW0q) | 2:22 | 2021-12-10 | 2022-09-23 |
 | [Bagatelle Valley](https://open.spotify.com/track/1JaFCtOHjdzp0X5ReBZj4g) | [Nylonwings](https://open.spotify.com/artist/2FLK3ubX0vLLfbU5ViuJTN) | [Lluvia Bienvenida](https://open.spotify.com/album/4TItwlcBMFW12yGES5lBCA) | 3:07 | 2021-12-10 |  |
 | [Ballerine de Cirque](https://open.spotify.com/track/47lZktZxd7KahwX8Xt5fYT) | [DeLand](https://open.spotify.com/artist/1Aop9zFg2iGOHdCIIbCWZ0) | [Ballerine de Cirque](https://open.spotify.com/album/4V3T2e9DkFCXJgmFftUmYG) | 2:47 | 2021-12-10 | 2022-04-22 |
 | [Barre des Écrins](https://open.spotify.com/track/72hU3FPZi4aiqzt5paPu7x) | [Rex Lopes](https://open.spotify.com/artist/45X82ZBJp4VUU6UkCXNm54) | [Saludo](https://open.spotify.com/album/6ZWaw4NPpuBF57v0ap05Ug) | 3:09 | 2021-12-10 | 2022-07-22 |
@@ -96,6 +96,7 @@
 | [Rio De Los Sauces](https://open.spotify.com/track/693lY3L3XadRUYWEQoYHtb) | [Astrud Bonfa](https://open.spotify.com/artist/0YYKO7hybCYf1mjeXDADA7) | [Rio De Los Sauces](https://open.spotify.com/album/3rW87wBuoMnxn5CIdesQ7I) | 2:49 | 2021-12-23 |  |
 | [Rio Segundo](https://open.spotify.com/track/5jBlWBEf1MI1R2SasOZsuL) | [Serena Mendes](https://open.spotify.com/artist/6NPbeRsuxTEwa7lMDnZLLz) | [Rio Segundo](https://open.spotify.com/album/3gLjkFuD4BrEWG1AbScPaU) | 2:49 | 2021-12-23 |  |
 | [Saudade](https://open.spotify.com/track/2sVKwpi20O0WkibAdxWQk4) | [Gabriella Vargas Luna](https://open.spotify.com/artist/1P3NtjxAwU5gdEev4Pd93O) | [Saudade](https://open.spotify.com/album/6nkyNZGse00wWlhvhXsRFs) | 2:27 | 2021-12-10 |  |
+| [Sensibilita](https://open.spotify.com/track/4vS8BQGwgPbweNJLLHC9kE) | [Helena Timmers](https://open.spotify.com/artist/0B8LhZQbdtQPuzAu0cQ2az) | [Sensibilita](https://open.spotify.com/album/6K384fMAEjg7xCsSvWwoP2) | 2:21 | 2022-09-23 |  |
 | [Silent Sigh](https://open.spotify.com/track/612dMYgROLM8ZTF7ucY41U) | [Josephine Forrester](https://open.spotify.com/artist/3hGRgVdSwQQVheMJ6pizcz) | [Silent Sigh](https://open.spotify.com/album/5znmBBJ5OV0jVSMFX9a7rT) | 2:45 | 2022-06-17 |  |
 | [Sir Lancelot](https://open.spotify.com/track/2CPWOD9WJN19q2NY2sqpq7) | [Dion Mallow](https://open.spotify.com/artist/5tXQhgmU6CraHI0dbj6BdQ) | [Childhood](https://open.spotify.com/album/6t2utOCjrCkGnyYGEh6Ygg) | 2:53 | 2021-12-10 |  |
 | [Sonnensterne](https://open.spotify.com/track/3y1gTkcn6Vp1qFj0mLWH5L) | [Arno Pohl](https://open.spotify.com/artist/711DDi0p3SKq9UI82cvuhT) | [Waldschlaf](https://open.spotify.com/album/7dE6eIR5CifPhi9u2EuZtq) | 3:26 | 2021-12-10 |  |

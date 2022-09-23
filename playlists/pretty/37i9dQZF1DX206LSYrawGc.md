@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX206LSYrawGc.md) - [plain]
 
 > 80s rock to fuel your ride\. Cover: Guns N' Roses
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,688 likes - 50 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,973 likes - 50 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX206LSYrawGc.md) - [plain]
 | 16 | [Paradise City](https://open.spotify.com/track/6eN1f9KNmiWEhpE2RhQqB5) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction](https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW) | 6:45 |
 | 17 | [Girls, Girls, Girls](https://open.spotify.com/track/549Go7a66CX6k523uK9kUv) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Girls, Girls, Girls](https://open.spotify.com/album/2KT9tWALjIRjnaGYDYPg3k) | 4:30 |
 | 18 | [Cum on Feel the Noize](https://open.spotify.com/track/3vV3cr2TpPqFk07zxYUbla) | [Quiet Riot](https://open.spotify.com/artist/1dLWg6m8RRhizsdqJbhyj3) | [Metal Health](https://open.spotify.com/album/3Q3rQ8FK1e9Fd9Gv9xm3CK) | 4:50 |
-| 19 | [Juke Box Hero](https://open.spotify.com/track/00qOE7OjRl0BpYiCiweZB2) | [Foreigner](https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN) | [4 \(Expanded\)](https://open.spotify.com/album/2Pw51hAGvWpTA3AYl2WVuu) | 4:19 |
-| 20 | [Dude \(Looks Like A Lady\)](https://open.spotify.com/track/6gQUbFwwdYXlKdmqRoWKJe) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Permanent Vacation](https://open.spotify.com/album/3XYqOJI1YlX40kJTdzFEzp) | 4:25 |
+| 19 | [Dude \(Looks Like A Lady\)](https://open.spotify.com/track/6gQUbFwwdYXlKdmqRoWKJe) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Permanent Vacation](https://open.spotify.com/album/3XYqOJI1YlX40kJTdzFEzp) | 4:25 |
+| 20 | [Juke Box Hero](https://open.spotify.com/track/00qOE7OjRl0BpYiCiweZB2) | [Foreigner](https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN) | [4 \(Expanded\)](https://open.spotify.com/album/2Pw51hAGvWpTA3AYl2WVuu) | 4:19 |
 | 21 | [Nothin' But A Good Time \- Remastered 2006](https://open.spotify.com/track/2V8KvnD5LVeeDChMWEkSzC) | [Poison](https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo) | [Open Up And Say...Ahh! \(20th Anniversary Edition\)](https://open.spotify.com/album/2AMWVB3FWknjcMeb6hMZnd) | 3:44 |
 | 22 | [Bad Medicine](https://open.spotify.com/track/72hcFp4tYkd3dbNA9dZ3Pv) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [New Jersey \(Deluxe Edition\)](https://open.spotify.com/album/3mcKOl0KNe65BqiBa40WxR) | 5:16 |
 | 23 | [18 and Life](https://open.spotify.com/track/0qgrrDnUUhyxpxbBznUnzg) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Skid Row](https://open.spotify.com/album/0kSTuMp9GpX9pJR45Bksgi) | 3:49 |
@@ -48,10 +48,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX206LSYrawGc.md) - [plain]
 | 38 | [Unskinny Bop](https://open.spotify.com/track/1Z6lKdYhwp8WYoBqGCKxlM) | [Poison](https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo) | [Flesh & Blood](https://open.spotify.com/album/7alngtync76VqYWSKxcBhB) | 3:48 |
 | 39 | [Jump](https://open.spotify.com/track/6Fba9RZtC6vTY814JToDtP) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [Best of Volume 1](https://open.spotify.com/album/7ndqT6LH9o6YQ5uA7aT0St) | 3:59 |
 | 40 | [Holy Diver](https://open.spotify.com/track/57fqmDaokbxZ3TaB0jp39q) | [Dio](https://open.spotify.com/artist/4CYeVo5iZbtYGBN4Isc3n6) | [Holy Diver](https://open.spotify.com/album/2ivNJLSx8Rbvnsvcn01Yt3) | 5:53 |
-| 41 | [Play With Me](https://open.spotify.com/track/6hpPAOftKbe1YghyTtJuCq) | [Extreme](https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L) | [Extreme](https://open.spotify.com/album/0iWVmKKPVhtOkaMFZcfaiw) | 3:31 |
-| 42 | [I Wanna Be Somebody](https://open.spotify.com/track/6w8dBm5KlXxWejYrbGS1EJ) | [W.A.S.P.](https://open.spotify.com/artist/3BVkDHWRvLJEyKdvhLbjsq) | [W.A.S.P.](https://open.spotify.com/album/25pbI5TFqt2tzGS4XSMnog) | 3:43 |
+| 41 | [I Wanna Be Somebody](https://open.spotify.com/track/6w8dBm5KlXxWejYrbGS1EJ) | [W.A.S.P.](https://open.spotify.com/artist/3BVkDHWRvLJEyKdvhLbjsq) | [W.A.S.P.](https://open.spotify.com/album/25pbI5TFqt2tzGS4XSMnog) | 3:43 |
+| 42 | [Play With Me](https://open.spotify.com/track/6hpPAOftKbe1YghyTtJuCq) | [Extreme](https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L) | [Extreme](https://open.spotify.com/album/0iWVmKKPVhtOkaMFZcfaiw) | 3:31 |
 | 43 | [Nobody's Fool](https://open.spotify.com/track/01Q4wU19hamqnhNjtuvTyI) | [Cinderella](https://open.spotify.com/artist/7HL4id2U7FSDJtfKQHMgQx) | [Night Songs](https://open.spotify.com/album/6Af1uU7Di8q9oHyXpgvrmY) | 4:47 |
-| 44 | [Lay It Down](https://open.spotify.com/track/3D5ORNm9spaTcdRx50ksHx) | [Ratt](https://open.spotify.com/artist/3tufWJzpCiAGleBt5TkmTn) | [Invasion of Privacy](https://open.spotify.com/album/7CzsLoFBEMElxviJoApcAI) | 3:25 |
+| 44 | [Lay It Down](https://open.spotify.com/track/3D5ORNm9spaTcdRx50ksHx) | [Ratt](https://open.spotify.com/artist/3tufWJzpCiAGleBt5TkmTn) | [Invasion of Your Privacy](https://open.spotify.com/album/7CzsLoFBEMElxviJoApcAI) | 3:25 |
 | 45 | [Pour Some Sugar On Me](https://open.spotify.com/track/1aZLIbKEdsyqxyD6iNcrbA) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Hysteria](https://open.spotify.com/album/1ja2qzCrh6bZykcojbZs82) | 4:27 |
 | 46 | [I Surrender](https://open.spotify.com/track/2dHjSNCw10clC9oOld8tPn) | [Rainbow](https://open.spotify.com/artist/6SLAMfhOi7UJI0fMztaK0m) | [Difficult To Cure](https://open.spotify.com/album/6bLrltddpgzAPMlefww9Ex) | 4:01 |
 | 47 | [Modern Day Cowboy](https://open.spotify.com/track/5ZIU2kT1wNjQNclQeVCz5O) | [Tesla](https://open.spotify.com/artist/0dgnITyIAN4NrmUVisvxHU) | [Mechanical Resonance](https://open.spotify.com/album/1VctZj1UuAgfqtnDcTlzGI) | 5:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX206LSYrawGc.md) - [plain]
 | 49 | [Seventeen](https://open.spotify.com/track/2ZS0wDcdfrJPC86u5aJGo9) | [Winger](https://open.spotify.com/artist/2qQeKHrQJHLLbvDAOSO874) | [Winger](https://open.spotify.com/album/4aMtQDeDMAHBfh7cE87PWo) | 4:05 |
 | 50 | [The Kids Are Back](https://open.spotify.com/track/7xzmJPFQAn0O1ZYYtbGRlz) | [Twisted Sister](https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut) | [You Can't Stop Rock 'N' Roll](https://open.spotify.com/album/3KW5iWFnvhHtFoMHwWnUr5) | 3:18 |
 
-Snapshot ID: `MTY1NzAzNTkxNiwwMDAwMDAwMDM2Mzg3MGFkZDQwOWEwYTM4YzU0NjA0MzJkMjE1ODdh`
+Snapshot ID: `MTY1NzAzNTkxNiwwMDAwMDAwMGQ2ZmNlYjRkNzk3MWFlNTg0ZjI1YmM1N2NhZjBiYmYz`

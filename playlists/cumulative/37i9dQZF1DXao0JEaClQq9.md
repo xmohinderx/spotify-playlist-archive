@@ -4,7 +4,7 @@
 
 > if it feels ethereal, it's here\. cover: Hyd
 
-433 songs - 1 day 2 hr 50 min - [published](https://open.spotify.com/playlist/4CRtbJr5tLg7o8NQ01m1n7)
+434 songs - 1 day 2 hr 53 min - [published](https://open.spotify.com/playlist/4CRtbJr5tLg7o8NQ01m1n7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -327,7 +327,7 @@
 | [Scripture](https://open.spotify.com/track/1GG23RRVNQiPbzEY8cBXNG) | [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0) | [Scripture](https://open.spotify.com/album/4lQGISDm9vPUNc7yhNoUmX) | 4:11 | 2021-10-08 | 2022-06-04 |
 | [SEA SHANTY](https://open.spotify.com/track/5XyQzmLLwHtPbwRjNoec2z) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [AFTER DINNER WE TALK DREAMS: THE SIDE DISHES](https://open.spotify.com/album/7t3CYSKXmlMDUMGwOhbOQ0) | 2:54 | 2022-06-24 | 2022-07-28 |
 | [Secrets \(Your Fire\)](https://open.spotify.com/track/1jZwVqFP2v8mhdvEkj4mPa) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Secrets \(Your Fire\)](https://open.spotify.com/album/3pBnAbc3sR4PSH8dfAJmgC) | 4:05 | 2021-08-13 | 2022-04-23 |
-| [See you Soon](https://open.spotify.com/track/5W5N23Xz1Zk6Qi8wkP8UPM) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [See you Soon](https://open.spotify.com/album/7K4sR6OiINBpj00mFmiLoG) | 3:26 | 2022-06-03 |  |
+| [See you Soon](https://open.spotify.com/track/5W5N23Xz1Zk6Qi8wkP8UPM) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [See you Soon](https://open.spotify.com/album/7K4sR6OiINBpj00mFmiLoG) | 3:26 | 2022-06-03 | 2022-09-23 |
 | [seer](https://open.spotify.com/track/7boiFhcGcfE3DRMvM5nJkD) | [8485](https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo) | [plague town](https://open.spotify.com/album/4vE4Kr73Pai0UGZ98J4tW6) | 2:49 | 2021-06-03 | 2022-07-24 |
 | [Serenade of Water](https://open.spotify.com/track/5tt7O3V5vwf8ltkr1Wgxrf) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Untourable Album](https://open.spotify.com/album/7FkJxlcljM6Ix0pC2JSNOE) | 3:05 | 2021-08-27 |  |
 | [sex money feelings die \- slowed version](https://open.spotify.com/track/0dkvbYmXYEPK7gGMdytmfI) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [sex money feelings die \(slowed version\)](https://open.spotify.com/album/7bL1fTsGeOyxv29BNVtMb1) | 2:48 | 2022-06-03 |  |
@@ -358,6 +358,7 @@
 | [Stains](https://open.spotify.com/track/3jqRDmH8YN6GT6j53kPi3a) | [Tiberius b](https://open.spotify.com/artist/0Kt443UQm5aqR2WCwqSMe0) | [Stains](https://open.spotify.com/album/0ju0P8smAdTlOuWsd5sYdY) | 3:58 | 2021-06-11 | 2022-04-21 |
 | [stardew](https://open.spotify.com/track/59VEyFtuiZnWCfCDc4hOU0) | [Purity Ring](https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4) | [Womb](https://open.spotify.com/album/1qUKQoS2lPswBUS5BRUpOq) | 4:07 | 2021-06-03 | 2022-07-27 |
 | [Stare](https://open.spotify.com/track/1MNNFp9MUgIEbbK24oCmbf) | [Poté](https://open.spotify.com/artist/4mHvZlo1KyW4kW3F1FE1q5) | [Stare](https://open.spotify.com/album/333Aaea3MbXevGSHOvApi8) | 3:41 | 2021-06-03 | 2022-04-20 |
+| [Stay](https://open.spotify.com/track/1xqkbi0rZNNcbGv8r6kK8p) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Opening The Door](https://open.spotify.com/album/7qWVvcaFH5Wlv0vxBXMOUQ) | 3:48 | 2022-09-23 |  |
 | [Stay Open](https://open.spotify.com/track/5lqvXaZtOMslV0f5ZFbBK2) | [Cecile Believe](https://open.spotify.com/artist/0nZHjqvdLoBy50ZzUH5FNU) | [Plucking a Cherry From The Void](https://open.spotify.com/album/0f8LysahQxKbtIQfp5Gi8K) | 2:23 | 2021-10-08 | 2022-05-20 |
 | [Still Don't Know My Name](https://open.spotify.com/track/6N22FZs2ZhPBYi3b9XPajV) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Euphoria \(Original Score from the HBO Series\)](https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea) | 2:33 | 2021-06-03 |  |
 | [Still I Miss U](https://open.spotify.com/track/3jzT3kU7u6qSd9arh5Jm1O) | [Blue Hawaii](https://open.spotify.com/artist/41y1iPh0WqB7tyGdzyeinZ) | [Open Reduction Internal Fixation](https://open.spotify.com/album/4873bDeZl2LaFywLb9Gjes) | 3:17 | 2021-06-03 | 2022-06-03 |

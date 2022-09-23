@@ -1,12 +1,12 @@
 {
   "description": "A collection of tracks for punks big and small.",
-  "num_followers": 18337,
+  "num_followers": 18435,
   "original_name": "Raised on Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTc5NjQwNiwwMDAwMDAwMDI2N2ZmN2ZhMmJjZmNjMDkyNjc4MzA2YjkwNDFlZWJk",
+  "snapshot_id": "MTY0OTc5NjQwNiwwMDAwMDAwMDNkNDA5MzM1MWJkYTBjZDg5YjJmYjMxZDk1YmRlYWYx",
   "tracks": [
     {
       "added_at": "2021-04-20 17:48:20",
@@ -347,22 +347,6 @@
     {
       "added_at": "2021-04-20 17:48:20",
       "album": {
-        "name": "Social Distortion",
-        "url": "https://open.spotify.com/album/46nX6hzuIb6wEia7OQ2viS"
-      },
-      "artists": [
-        {
-          "name": "Social Distortion",
-          "url": "https://open.spotify.com/artist/16nn7kCHPWIB6uK09GQCNI"
-        }
-      ],
-      "duration_ms": 346333,
-      "name": "Story of My Life",
-      "url": "https://open.spotify.com/track/4Q4w8aRdfhIIEhBututktL"
-    },
-    {
-      "added_at": "2021-04-20 17:48:20",
-      "album": {
         "name": "Recipe For Hate",
         "url": "https://open.spotify.com/album/1DMLunJrzPkQws2uQU797l"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 197666,
       "name": "American Jesus",
       "url": "https://open.spotify.com/track/5TZn3LQSWwVPnBlPgFKb54"
+    },
+    {
+      "added_at": "2021-04-20 17:48:20",
+      "album": {
+        "name": "Social Distortion",
+        "url": "https://open.spotify.com/album/46nX6hzuIb6wEia7OQ2viS"
+      },
+      "artists": [
+        {
+          "name": "Social Distortion",
+          "url": "https://open.spotify.com/artist/16nn7kCHPWIB6uK09GQCNI"
+        }
+      ],
+      "duration_ms": 346333,
+      "name": "Story of My Life",
+      "url": "https://open.spotify.com/track/4Q4w8aRdfhIIEhBututktL"
     },
     {
       "added_at": "2021-04-20 17:48:20",
@@ -537,22 +537,6 @@
       "url": "https://open.spotify.com/track/5UwGMbEKlvXFj7DXI1d0P1"
     },
     {
-      "added_at": "2022-01-10 21:04:09",
-      "album": {
-        "name": "Operation Ivy (2007 Remaster)",
-        "url": "https://open.spotify.com/album/2Rv1kIWFeIYeq8kAtdhY6m"
-      },
-      "artists": [
-        {
-          "name": "Operation Ivy",
-          "url": "https://open.spotify.com/artist/18XRGxd1b484f2h06cwvJJ"
-        }
-      ],
-      "duration_ms": 134026,
-      "name": "Sound System - 2007 Remaster",
-      "url": "https://open.spotify.com/track/4Pmo0mMgiyBCj1Zd7Axsi1"
-    },
-    {
       "added_at": "2021-04-20 17:48:20",
       "album": {
         "name": "All Hallows EP",
@@ -567,6 +551,22 @@
       "duration_ms": 185360,
       "name": "The Boy Who Destroyed The World",
       "url": "https://open.spotify.com/track/7mXieDbl55P3L8kPE33gcC"
+    },
+    {
+      "added_at": "2022-01-10 21:04:09",
+      "album": {
+        "name": "Operation Ivy (2007 Remaster)",
+        "url": "https://open.spotify.com/album/2Rv1kIWFeIYeq8kAtdhY6m"
+      },
+      "artists": [
+        {
+          "name": "Operation Ivy",
+          "url": "https://open.spotify.com/artist/18XRGxd1b484f2h06cwvJJ"
+        }
+      ],
+      "duration_ms": 134026,
+      "name": "Sound System - 2007 Remaster",
+      "url": "https://open.spotify.com/track/4Pmo0mMgiyBCj1Zd7Axsi1"
     },
     {
       "added_at": "2021-04-20 17:48:20",
@@ -843,22 +843,6 @@
     {
       "added_at": "2021-04-20 17:48:20",
       "album": {
-        "name": "Let's Go",
-        "url": "https://open.spotify.com/album/44FRRbDmIqioUuIKjua6MT"
-      },
-      "artists": [
-        {
-          "name": "Rancid",
-          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
-        }
-      ],
-      "duration_ms": 173103,
-      "name": "Salvation",
-      "url": "https://open.spotify.com/track/6b769E9sQf0kZTILVjSDaH"
-    },
-    {
-      "added_at": "2021-04-20 17:48:20",
-      "album": {
         "name": "The Woods",
         "url": "https://open.spotify.com/album/73ctstwnbNifu5U902X2zL"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 181453,
       "name": "Modern Girl",
       "url": "https://open.spotify.com/track/2GOQVqZ3uVp7LKVAY1T0mk"
+    },
+    {
+      "added_at": "2021-04-20 17:48:20",
+      "album": {
+        "name": "Let's Go",
+        "url": "https://open.spotify.com/album/44FRRbDmIqioUuIKjua6MT"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "duration_ms": 173103,
+      "name": "Salvation",
+      "url": "https://open.spotify.com/track/6b769E9sQf0kZTILVjSDaH"
     },
     {
       "added_at": "2021-04-20 17:48:20",

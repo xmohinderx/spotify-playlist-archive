@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZYGncI.md) - [plain]
 
 > This is Slipknot\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 787,476 likes - 41 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 787,944 likes - 41 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,11 +34,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZYGncI.md) - [plain]
 | 24 | [Left Behind](https://open.spotify.com/track/4l3Vmsw0KO8HJqFtnbqaqu) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Iowa](https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9) | 4:01 |
 | 25 | [The Blister Exists](https://open.spotify.com/track/3q7GKmKaiktt57PVIxKOm8) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Vol\. 3: The Subliminal Verses](https://open.spotify.com/album/4ZDBQSIDIZRUBOG2OHcN3T) | 5:19 |
 | 26 | [Sulfur](https://open.spotify.com/track/4g3QZlvz39UllCcRXDZ0Do) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [All Hope Is Gone](https://open.spotify.com/album/0hFWapnP7orzXCMwNU5DuA) | 4:37 |
-| 27 | [Surfacing](https://open.spotify.com/track/0iget4icTqUya9wtpvCTF2) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Slipknot \(10th Anniversary Edition\)](https://open.spotify.com/album/2dL9Q5AtIv4Rw1L6lKcIUc) | 3:38 |
+| 27 | [Purity](https://open.spotify.com/track/3Lkm8fyUksuC8hr9I35nio) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Slipknot \(10th Anniversary Edition\)](https://open.spotify.com/album/2dL9Q5AtIv4Rw1L6lKcIUc) | 4:25 |
 | 28 | [My Plague](https://open.spotify.com/track/74WIE2htPZwxx4HgGhpf8i) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Iowa](https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9) | 3:40 |
 | 29 | [Pulse of the Maggots](https://open.spotify.com/track/0at89DgpVeImkVrQ0htbVm) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Vol\. 3: The Subliminal Verses](https://open.spotify.com/album/4ZDBQSIDIZRUBOG2OHcN3T) | 4:19 |
 | 30 | [The Chapeltown Rag](https://open.spotify.com/track/4DQEhtFcX9nK0zWNjb1xBw) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [The Chapeltown Rag](https://open.spotify.com/album/4I3hdRt7CVofGcgbheQ2fk) | 4:51 |
-| 31 | [Purity](https://open.spotify.com/track/3Lkm8fyUksuC8hr9I35nio) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Slipknot \(10th Anniversary Edition\)](https://open.spotify.com/album/2dL9Q5AtIv4Rw1L6lKcIUc) | 4:25 |
+| 31 | [Surfacing](https://open.spotify.com/track/0iget4icTqUya9wtpvCTF2) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Slipknot \(10th Anniversary Edition\)](https://open.spotify.com/album/2dL9Q5AtIv4Rw1L6lKcIUc) | 3:38 |
 | 32 | [Critical Darling](https://open.spotify.com/track/3XFaGEb6daqdj39ThpJ2XI) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [We Are Not Your Kind](https://open.spotify.com/album/754RY5WpZ2LTUZsk8kDBju) | 6:25 |
 | 33 | [Everything Ends](https://open.spotify.com/track/11SQnfm9cxgIjRREQWgbsP) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Iowa](https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9) | 4:14 |
 | 34 | [The Negative One](https://open.spotify.com/track/2ugAOltSeiFqKHItLMKFK3) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [.5: The Gray Chapter \(Special Edition\)](https://open.spotify.com/album/0ApKaazNHf0gzjAYZauexq) | 5:25 |
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZYGncI.md) - [plain]
 | 40 | [Skeptic](https://open.spotify.com/track/7yzFUknHiad4kRBfHq2ki1) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [.5: The Gray Chapter \(Special Edition\)](https://open.spotify.com/album/0ApKaazNHf0gzjAYZauexq) | 4:46 |
 | 41 | ['Til We Die](https://open.spotify.com/track/7bhfCl1a1InaSy8NOWVswk) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [All Hope Is Gone](https://open.spotify.com/album/0hFWapnP7orzXCMwNU5DuA) | 5:45 |
 
-Snapshot ID: `Mjc3Mjk0NTIsMDAwMDAwMDA1MmQ5YTczMTMwMzBmYjI1NGYzZTEzMzBkYzNiNTlkNw==`
+Snapshot ID: `Mjc3MzA5MDEsMDAwMDAwMDAwMjk0MzYyOTA0NTZmMzBmNmMxNmYwYjYzYjQ1M2RmOQ==`

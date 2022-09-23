@@ -4,7 +4,7 @@
 
 > مختارات من أفضل الاغاني الخليجية <br/>الغلاف: عبدالمجيدعبدالله
 
-77 songs - 5 hr 21 min - [published](https://open.spotify.com/playlist/6P6R1PK8TxLpu92yl9hTbK)
+78 songs - 5 hr 24 min - [published](https://open.spotify.com/playlist/6P6R1PK8TxLpu92yl9hTbK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,8 @@
 | [ذكريات](https://open.spotify.com/track/6xBWiIAEYlEfzxuO6tf41o) | [بدر العزي](https://open.spotify.com/artist/3JgiCW6Za1Pvg0dnz7xsjy) | [ذكريات](https://open.spotify.com/album/1Q1lKJYY8SqWrlkkHS0FV3) | 4:05 | 2022-09-07 |  |
 | [روح براحتك](https://open.spotify.com/track/4MEeCc9QHr24rQ99dOd9AZ) | [شيمي](https://open.spotify.com/artist/6x8vq4QX1MQjqasHWpMWhw) | [روح براحتك](https://open.spotify.com/album/2hStDr8tYNyFkQiUT2F0fj) | 3:39 | 2022-07-08 |  |
 | [سكه مجهوله](https://open.spotify.com/track/5X5ubFhkET9omL8FDcpSku) | [Abdullah Al Farwan](https://open.spotify.com/artist/7zjX652bWyemXyFFVhBnch) | [سكه مجهوله](https://open.spotify.com/album/2abcKDPudbZ4WvwyVkgrvR) | 4:20 | 2022-06-08 | 2022-09-09 |
-| [كلمني](https://open.spotify.com/track/0F66LkXiihhVNKpWSqKgjy) | [بدر العزي](https://open.spotify.com/artist/3JgiCW6Za1Pvg0dnz7xsjy) | [كلمني](https://open.spotify.com/album/1ZrVAcuOnbRQJZFahoALeo) | 3:26 | 2022-04-07 |  |
+| [كلمني](https://open.spotify.com/track/0F66LkXiihhVNKpWSqKgjy) | [بدر العزي](https://open.spotify.com/artist/3JgiCW6Za1Pvg0dnz7xsjy) | [كلمني](https://open.spotify.com/album/1ZrVAcuOnbRQJZFahoALeo) | 3:26 | 2022-04-07 | 2022-09-23 |
+| [كلمني](https://open.spotify.com/track/4SWldutKma2NvU850zeEkd) | [بدر العزي](https://open.spotify.com/artist/3JgiCW6Za1Pvg0dnz7xsjy) | [كلمني](https://open.spotify.com/album/04aRoZxBPhR6aYvTkC7f6F) | 3:26 | 2022-09-07 |  |
 | [ما اقدر اخونك](https://open.spotify.com/track/3iEe0l4ItrM9vgMHSnnr6t) | [Fahed Bin Fasla](https://open.spotify.com/artist/2CfEAlvAtAJ7MvCQl4mptz) | [ما اقدر اخونك](https://open.spotify.com/album/7uzMGbFNKS7K6koM513rjC) | 4:51 | 2022-04-07 | 2022-09-18 |
 | [ما اقدر اخونك](https://open.spotify.com/track/43Dl9rWkPaWUyL2PWhqv2D) | [فهد بن فصلا](https://open.spotify.com/artist/7DSLsFX6LgWuz3bJbPNfWg) | [ما اقدر اخونك](https://open.spotify.com/album/4msahoWAf2QAhOwehV7KY9) | 4:51 | 2022-09-07 |  |
 | [مرتاح](https://open.spotify.com/track/1eTt5Z7Yhxx0RABA3BLlgQ) | [Essa Almarzoug](https://open.spotify.com/artist/5F0AQAjsHjjT67OBz9GLuz) | [مرتاح](https://open.spotify.com/album/3AjExjqj8TnRdLrmW9RvZT) | 3:29 | 2022-04-07 | 2022-09-18 |

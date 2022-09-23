@@ -1,12 +1,12 @@
 {
   "description": "Mellow songs from the 2010s.",
-  "num_followers": 745685,
+  "num_followers": 746572,
   "original_name": "Soft 10s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTI1ODU5NiwwMDAwMDAwMGY4ZmYyYWYzZGM5ZDNmMWY1YmYxMTliZWQyNTQ4NzRm",
+  "snapshot_id": "MTY2MTI1ODU5NiwwMDAwMDAwMDk2YTNmYTI4ZTNmNGY0NDZjZGEwMTYwODMxY2JmNzUw",
   "tracks": [
     {
       "added_at": "2022-07-09 22:00:00",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2022-07-09 22:00:00",
       "album": {
-        "name": "Earned It (Fifty Shades Of Grey) [From The \"Fifty Shades Of Grey\" Soundtrack]",
-        "url": "https://open.spotify.com/album/61Ba3txRZWfiX6ZTEZlFCV"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 252226,
-      "name": "Earned It (Fifty Shades Of Grey) - From The \"Fifty Shades Of Grey\" Soundtrack",
-      "url": "https://open.spotify.com/track/2PIvq1pGrUjY007X5y1UpM"
-    },
-    {
-      "added_at": "2022-07-09 22:00:00",
-      "album": {
         "name": "Get You - Single",
         "url": "https://open.spotify.com/album/5qfhZ5YkZ4LhEUbYgjrWt6"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 270846,
       "name": "Japanese Denim",
       "url": "https://open.spotify.com/track/1boXOL0ua7N2iCOUVI1p9F"
+    },
+    {
+      "added_at": "2022-07-09 22:00:00",
+      "album": {
+        "name": "Earned It (Fifty Shades Of Grey) [From The \"Fifty Shades Of Grey\" Soundtrack]",
+        "url": "https://open.spotify.com/album/61Ba3txRZWfiX6ZTEZlFCV"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 252226,
+      "name": "Earned It (Fifty Shades Of Grey) - From The \"Fifty Shades Of Grey\" Soundtrack",
+      "url": "https://open.spotify.com/track/2PIvq1pGrUjY007X5y1UpM"
     },
     {
       "added_at": "2022-07-09 22:00:00",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2022-07-09 22:00:00",
       "album": {
-        "name": "Night Visions",
-        "url": "https://open.spotify.com/album/6htgf3qv7vGcsdxLCDxKp8"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 175200,
-      "name": "Demons",
-      "url": "https://open.spotify.com/track/3LlAyCYU26dvFZBDUIMb7a"
-    },
-    {
-      "added_at": "2022-07-09 22:00:00",
-      "album": {
         "name": "Ghost Stories",
         "url": "https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr"
       },
@@ -1651,18 +1635,18 @@
     {
       "added_at": "2022-07-09 22:00:00",
       "album": {
-        "name": "The Lumineers",
-        "url": "https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW"
+        "name": "Night Visions",
+        "url": "https://open.spotify.com/album/6htgf3qv7vGcsdxLCDxKp8"
       },
       "artists": [
         {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
         }
       ],
-      "duration_ms": 163133,
-      "name": "Ho Hey",
-      "url": "https://open.spotify.com/track/0W4Kpfp1w2xkY3PrV714B7"
+      "duration_ms": 175200,
+      "name": "Demons",
+      "url": "https://open.spotify.com/track/3LlAyCYU26dvFZBDUIMb7a"
     },
     {
       "added_at": "2022-07-09 22:00:00",
@@ -1679,6 +1663,22 @@
       "duration_ms": 261240,
       "name": "Versace on the Floor",
       "url": "https://open.spotify.com/track/0kN8xEmgMW9mh7UmDYHlJP"
+    },
+    {
+      "added_at": "2022-07-09 22:00:00",
+      "album": {
+        "name": "The Lumineers",
+        "url": "https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 163133,
+      "name": "Ho Hey",
+      "url": "https://open.spotify.com/track/0W4Kpfp1w2xkY3PrV714B7"
     },
     {
       "added_at": "2022-07-09 22:00:00",
@@ -2311,22 +2311,6 @@
     {
       "added_at": "2022-07-09 22:00:00",
       "album": {
-        "name": "BALLADS 1",
-        "url": "https://open.spotify.com/album/34GQP3dILpyCN018y2k61L"
-      },
-      "artists": [
-        {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
-        }
-      ],
-      "duration_ms": 179423,
-      "name": "TEST DRIVE",
-      "url": "https://open.spotify.com/track/1DMEzmAoQIikcL52psptQL"
-    },
-    {
-      "added_at": "2022-07-09 22:00:00",
-      "album": {
         "name": "Leave a Light On",
         "url": "https://open.spotify.com/album/3pczowjToa5SYsI6Th4KO8"
       },
@@ -2339,6 +2323,22 @@
       "duration_ms": 185863,
       "name": "Leave a Light On",
       "url": "https://open.spotify.com/track/6lOWoTqVnAWXchddtTH31W"
+    },
+    {
+      "added_at": "2022-07-09 22:00:00",
+      "album": {
+        "name": "BALLADS 1",
+        "url": "https://open.spotify.com/album/34GQP3dILpyCN018y2k61L"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "duration_ms": 179423,
+      "name": "TEST DRIVE",
+      "url": "https://open.spotify.com/track/1DMEzmAoQIikcL52psptQL"
     },
     {
       "added_at": "2022-07-09 22:00:00",
@@ -2499,22 +2499,6 @@
     {
       "added_at": "2022-07-09 22:00:00",
       "album": {
-        "name": "Sob Rock",
-        "url": "https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 286386,
-      "name": "I Guess I Just Feel Like",
-      "url": "https://open.spotify.com/track/4Im6GRj17qa7NW76OsJh1s"
-    },
-    {
-      "added_at": "2022-07-09 22:00:00",
-      "album": {
         "name": "The Heart Wants What It Wants",
         "url": "https://open.spotify.com/album/2iFTxCYwhF5oC1L8s1B0rI"
       },
@@ -2531,18 +2515,18 @@
     {
       "added_at": "2022-07-09 22:00:00",
       "album": {
-        "name": "Despicable Me 2 (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3xU6u2UadKV6gHjlXdJvqZ"
+        "name": "Sob Rock",
+        "url": "https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z"
       },
       "artists": [
         {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
         }
       ],
-      "duration_ms": 176078,
-      "name": "Just a Cloud Away",
-      "url": "https://open.spotify.com/track/4UPQiDmYScn2C6S2C2WATY"
+      "duration_ms": 286386,
+      "name": "I Guess I Just Feel Like",
+      "url": "https://open.spotify.com/track/4Im6GRj17qa7NW76OsJh1s"
     },
     {
       "added_at": "2022-07-09 22:00:00",
@@ -2559,6 +2543,22 @@
       "duration_ms": 233654,
       "name": "Slide Away",
       "url": "https://open.spotify.com/track/44ADyYoY5liaRa3EOAl4uf"
+    },
+    {
+      "added_at": "2022-07-09 22:00:00",
+      "album": {
+        "name": "Despicable Me 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3xU6u2UadKV6gHjlXdJvqZ"
+      },
+      "artists": [
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "duration_ms": 176078,
+      "name": "Just a Cloud Away",
+      "url": "https://open.spotify.com/track/4UPQiDmYScn2C6S2C2WATY"
     },
     {
       "added_at": "2022-07-09 22:00:00",
@@ -2631,18 +2631,18 @@
     {
       "added_at": "2022-07-09 22:00:00",
       "album": {
-        "name": "XO",
-        "url": "https://open.spotify.com/album/305TANxsPTFkiqS4cEilx1"
+        "name": "Some Say",
+        "url": "https://open.spotify.com/album/5pCAWYym13GcQN8CXEb89m"
       },
       "artists": [
         {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+          "name": "Nea",
+          "url": "https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E"
         }
       ],
-      "duration_ms": 213626,
-      "name": "XO",
-      "url": "https://open.spotify.com/track/7cpCU3Denug5NGZsSpQl8v"
+      "duration_ms": 175601,
+      "name": "Some Say",
+      "url": "https://open.spotify.com/track/4poybupy26pTWPr9zY1i7h"
     },
     {
       "added_at": "2022-07-09 22:00:00",
@@ -2659,6 +2659,22 @@
       "duration_ms": 278746,
       "name": "Adore You",
       "url": "https://open.spotify.com/track/5AnCLGg35ziFOloEnXK4uu"
+    },
+    {
+      "added_at": "2022-07-09 22:00:00",
+      "album": {
+        "name": "XO",
+        "url": "https://open.spotify.com/album/305TANxsPTFkiqS4cEilx1"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 213626,
+      "name": "XO",
+      "url": "https://open.spotify.com/track/7cpCU3Denug5NGZsSpQl8v"
     },
     {
       "added_at": "2022-07-09 22:00:00",
@@ -2683,38 +2699,6 @@
     {
       "added_at": "2022-07-09 22:00:00",
       "album": {
-        "name": "Some Say",
-        "url": "https://open.spotify.com/album/5pCAWYym13GcQN8CXEb89m"
-      },
-      "artists": [
-        {
-          "name": "Nea",
-          "url": "https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E"
-        }
-      ],
-      "duration_ms": 175601,
-      "name": "Some Say",
-      "url": "https://open.spotify.com/track/4poybupy26pTWPr9zY1i7h"
-    },
-    {
-      "added_at": "2022-07-09 22:00:00",
-      "album": {
-        "name": "Save Me, San Francisco (Golden Gate Edition)",
-        "url": "https://open.spotify.com/album/1CwXS6MAz8Wo7K4TzW9iuR"
-      },
-      "artists": [
-        {
-          "name": "Train",
-          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
-        }
-      ],
-      "duration_ms": 205453,
-      "name": "Marry Me",
-      "url": "https://open.spotify.com/track/2MWOqewf5j0qf2b6S5J6cS"
-    },
-    {
-      "added_at": "2022-07-09 22:00:00",
-      "album": {
         "name": "Last Year Was Complicated",
         "url": "https://open.spotify.com/album/4Yww2EYetseL1eL2YuvLna"
       },
@@ -2735,6 +2719,22 @@
     {
       "added_at": "2022-07-09 22:00:00",
       "album": {
+        "name": "Save Me, San Francisco (Golden Gate Edition)",
+        "url": "https://open.spotify.com/album/1CwXS6MAz8Wo7K4TzW9iuR"
+      },
+      "artists": [
+        {
+          "name": "Train",
+          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
+        }
+      ],
+      "duration_ms": 205453,
+      "name": "Marry Me",
+      "url": "https://open.spotify.com/track/2MWOqewf5j0qf2b6S5J6cS"
+    },
+    {
+      "added_at": "2022-07-09 22:00:00",
+      "album": {
         "name": "Me Before You (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3WT1mEcabGFCvUWpeN5dtq"
       },
@@ -2747,22 +2747,6 @@
       "duration_ms": 261079,
       "name": "Not Today",
       "url": "https://open.spotify.com/track/4kDTvLhGF29gFsqceuxBSC"
-    },
-    {
-      "added_at": "2022-07-09 22:00:00",
-      "album": {
-        "name": "Unapologetic (Edited Version)",
-        "url": "https://open.spotify.com/album/0T23GvNaBUGtMKxZko8LQG"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 225146,
-      "name": "Diamonds",
-      "url": "https://open.spotify.com/track/1z9kQ14XBSN0r2v6fx4IdG"
     },
     {
       "added_at": "2022-07-09 22:00:00",
@@ -2787,6 +2771,22 @@
       "duration_ms": 196569,
       "name": "Hard 2 Face Reality",
       "url": "https://open.spotify.com/track/0sPJELXHyWpFgkxlzvvRFI"
+    },
+    {
+      "added_at": "2022-07-09 22:00:00",
+      "album": {
+        "name": "Unapologetic (Edited Version)",
+        "url": "https://open.spotify.com/album/0T23GvNaBUGtMKxZko8LQG"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 225146,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/1z9kQ14XBSN0r2v6fx4IdG"
     },
     {
       "added_at": "2022-07-09 22:00:00",
@@ -3143,22 +3143,6 @@
     {
       "added_at": "2022-07-09 22:00:00",
       "album": {
-        "name": "Need You Now",
-        "url": "https://open.spotify.com/album/4oT0DxRmc0jr7DCKultQqh"
-      },
-      "artists": [
-        {
-          "name": "Lady A",
-          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
-        }
-      ],
-      "duration_ms": 236440,
-      "name": "Need You Now",
-      "url": "https://open.spotify.com/track/7h70RTLbnhDyPGXjl3iEhh"
-    },
-    {
-      "added_at": "2022-07-09 22:00:00",
-      "album": {
         "name": "Chapters",
         "url": "https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP"
       },
@@ -3171,6 +3155,22 @@
       "duration_ms": 246320,
       "name": "Incredible",
       "url": "https://open.spotify.com/track/5bZeugrr7oIATt1CLJuhT4"
+    },
+    {
+      "added_at": "2022-07-09 22:00:00",
+      "album": {
+        "name": "Need You Now",
+        "url": "https://open.spotify.com/album/4oT0DxRmc0jr7DCKultQqh"
+      },
+      "artists": [
+        {
+          "name": "Lady A",
+          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
+        }
+      ],
+      "duration_ms": 236440,
+      "name": "Need You Now",
+      "url": "https://open.spotify.com/track/7h70RTLbnhDyPGXjl3iEhh"
     },
     {
       "added_at": "2022-07-09 22:00:00",
@@ -3683,6 +3683,22 @@
     {
       "added_at": "2022-07-09 22:00:00",
       "album": {
+        "name": "Fresh Roses",
+        "url": "https://open.spotify.com/album/6DUbcDDJa547U0KvgjCthp"
+      },
+      "artists": [
+        {
+          "name": "Juke Ross",
+          "url": "https://open.spotify.com/artist/3mDo5Nv0SWpslJe9HzA2xY"
+        }
+      ],
+      "duration_ms": 201093,
+      "name": "Fresh Roses",
+      "url": "https://open.spotify.com/track/05RmevbSKDvHHKpYBoXYfR"
+    },
+    {
+      "added_at": "2022-07-09 22:00:00",
+      "album": {
         "name": "Electric (feat. Khalid)",
         "url": "https://open.spotify.com/album/4xcjwu5Lyyu0uYTknhuK7X"
       },
@@ -3703,22 +3719,6 @@
     {
       "added_at": "2022-07-09 22:00:00",
       "album": {
-        "name": "Fresh Roses",
-        "url": "https://open.spotify.com/album/6DUbcDDJa547U0KvgjCthp"
-      },
-      "artists": [
-        {
-          "name": "Juke Ross",
-          "url": "https://open.spotify.com/artist/3mDo5Nv0SWpslJe9HzA2xY"
-        }
-      ],
-      "duration_ms": 201093,
-      "name": "Fresh Roses",
-      "url": "https://open.spotify.com/track/05RmevbSKDvHHKpYBoXYfR"
-    },
-    {
-      "added_at": "2022-07-09 22:00:00",
-      "album": {
         "name": "Science & Faith",
         "url": "https://open.spotify.com/album/2oc73A20I1FTQiWGCkLeVP"
       },
@@ -3735,22 +3735,6 @@
     {
       "added_at": "2022-07-09 22:00:00",
       "album": {
-        "name": "portraits",
-        "url": "https://open.spotify.com/album/51EYIcwEHs2WpaiZrrjWtT"
-      },
-      "artists": [
-        {
-          "name": "Greyson Chance",
-          "url": "https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX"
-        }
-      ],
-      "duration_ms": 170363,
-      "name": "shut up",
-      "url": "https://open.spotify.com/track/65mPCrY32YMQlBnmWVrKNa"
-    },
-    {
-      "added_at": "2022-07-09 22:00:00",
-      "album": {
         "name": "Mirror",
         "url": "https://open.spotify.com/album/1JrRrStvJ9LpCYgYaMUOMH"
       },
@@ -3763,6 +3747,22 @@
       "duration_ms": 194746,
       "name": "Mirror",
       "url": "https://open.spotify.com/track/5G2Q4Vx9zwBAdQoEWgM8uX"
+    },
+    {
+      "added_at": "2022-07-09 22:00:00",
+      "album": {
+        "name": "portraits",
+        "url": "https://open.spotify.com/album/51EYIcwEHs2WpaiZrrjWtT"
+      },
+      "artists": [
+        {
+          "name": "Greyson Chance",
+          "url": "https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX"
+        }
+      ],
+      "duration_ms": 170363,
+      "name": "shut up",
+      "url": "https://open.spotify.com/track/65mPCrY32YMQlBnmWVrKNa"
     },
     {
       "added_at": "2022-07-09 22:00:00",
@@ -4251,6 +4251,22 @@
     {
       "added_at": "2022-07-09 22:00:00",
       "album": {
+        "name": "Jake Bugg",
+        "url": "https://open.spotify.com/album/6b2BArDCfSvW3VFenLJatj"
+      },
+      "artists": [
+        {
+          "name": "Jake Bugg",
+          "url": "https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg"
+        }
+      ],
+      "duration_ms": 247013,
+      "name": "Broken",
+      "url": "https://open.spotify.com/track/1Bph2KY0MA2JUiX5uADWjZ"
+    },
+    {
+      "added_at": "2022-07-09 22:00:00",
+      "album": {
         "name": "Thinking About It (Let It Go) [KVR Remix]",
         "url": "https://open.spotify.com/album/0bVpSLPikXccXESlJzdmgD"
       },
@@ -4267,22 +4283,6 @@
       "duration_ms": 183564,
       "name": "Thinking About It (Let It Go) - KVR Remix",
       "url": "https://open.spotify.com/track/0yJv0G7r1PZIl1CY5XhvkR"
-    },
-    {
-      "added_at": "2022-07-09 22:00:00",
-      "album": {
-        "name": "Jake Bugg",
-        "url": "https://open.spotify.com/album/6b2BArDCfSvW3VFenLJatj"
-      },
-      "artists": [
-        {
-          "name": "Jake Bugg",
-          "url": "https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg"
-        }
-      ],
-      "duration_ms": 247013,
-      "name": "Broken",
-      "url": "https://open.spotify.com/track/1Bph2KY0MA2JUiX5uADWjZ"
     }
   ],
   "unique_name": "Soft 10s",

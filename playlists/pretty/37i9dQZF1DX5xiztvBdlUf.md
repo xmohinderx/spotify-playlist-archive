@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5xiztvBdlUf.md) - [plain]
 
 > Deep House in all its shapes and colours.
 
-[Spotify](https://open.spotify.com/user/spotify) - 524,211 likes - 80 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 524,412 likes - 80 songs - 7 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,10 +36,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5xiztvBdlUf.md) - [plain]
 | 26 | [These Things Will Come To Be](https://open.spotify.com/track/1vVq4Y18oveAg20Ujh43aE) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [These Things Will Come To Be](https://open.spotify.com/album/3RGrGXf9ZsPOuqHm02SSl7) | 4:56 |
 | 27 | [Baby Flute](https://open.spotify.com/track/3335q25uuuOxltjChRUxSx) | [Vladimir Cauchemar](https://open.spotify.com/artist/2V5xArcB3BGAHmwsK46tyU) | [Baby Flute](https://open.spotify.com/album/4BBdOydRsJSZjZ1dRUQHR4) | 2:31 |
 | 28 | [Lay It All On Me](https://open.spotify.com/track/1MPfyPFjBE0e9GGWImKlXf) | [Phantoms](https://open.spotify.com/artist/1bJJlRHoc1UVeqzxcrPLIw), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Lay It All On Me](https://open.spotify.com/album/2uvf564mzMbpHwuT0v3i37) | 3:47 |
-| 29 | [Come Back Around](https://open.spotify.com/track/0TvCPywvY8QGAWdteEiCdF) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Come Back Around](https://open.spotify.com/album/5PWznD1Bh2vMBlXChhmsav) | 3:51 |
-| 30 | [Trojan Love \- Original Club Mix](https://open.spotify.com/track/283e2rkf3A78qmcp5xjOTT) | [Definition](https://open.spotify.com/artist/7KT19dObRj1T5OgnyQFm4C), [Natascha Polké](https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96) | [Trojan Love \(Original Club Mix\)](https://open.spotify.com/album/5VGOmMOd2ke7rAFmaU125O) | 5:57 |
-| 31 | [Laufen](https://open.spotify.com/track/3l09ozhFppcBhSXXalTtsf) | [MonoJack](https://open.spotify.com/artist/0cOtwWgfpavqmqhEkqner9), [Fritz Kölner](https://open.spotify.com/artist/5kUq5J6UHtwVWgtrpE4zGh) | [Laufen](https://open.spotify.com/album/0rBQ3XoH7MGsyTroRmawqT) | 4:17 |
-| 32 | [Ceremony](https://open.spotify.com/track/5JQZTqHVXa1ShGEZjOnlgN) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Ceremony](https://open.spotify.com/album/0xeaiWr64U3fCTxizuRi0e) | 7:00 |
+| 29 | [Trojan Love \- Original Club Mix](https://open.spotify.com/track/283e2rkf3A78qmcp5xjOTT) | [Definition](https://open.spotify.com/artist/7KT19dObRj1T5OgnyQFm4C), [Natascha Polké](https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96) | [Trojan Love \(Original Club Mix\)](https://open.spotify.com/album/5VGOmMOd2ke7rAFmaU125O) | 5:57 |
+| 30 | [Come Back Around](https://open.spotify.com/track/0TvCPywvY8QGAWdteEiCdF) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Come Back Around](https://open.spotify.com/album/5PWznD1Bh2vMBlXChhmsav) | 3:51 |
+| 31 | [Ceremony](https://open.spotify.com/track/5JQZTqHVXa1ShGEZjOnlgN) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Ceremony](https://open.spotify.com/album/0xeaiWr64U3fCTxizuRi0e) | 7:00 |
+| 32 | [Laufen](https://open.spotify.com/track/3l09ozhFppcBhSXXalTtsf) | [MonoJack](https://open.spotify.com/artist/0cOtwWgfpavqmqhEkqner9), [Fritz Kölner](https://open.spotify.com/artist/5kUq5J6UHtwVWgtrpE4zGh) | [Laufen](https://open.spotify.com/album/0rBQ3XoH7MGsyTroRmawqT) | 4:17 |
 | 33 | [The Church](https://open.spotify.com/track/7xzzBMB5gDlGFKMTUQvI5u) | [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8) | [The Church](https://open.spotify.com/album/7B1zROmTZS3MZ2QmtLyV6W) | 7:20 |
 | 34 | [Sign of the Times](https://open.spotify.com/track/2UOtnKZNppcZ5dC8v2FS41) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Sign of the Times](https://open.spotify.com/album/0nHKigA43sDSCs38xf1tnB) | 3:13 |
 | 35 | [Between Two Worlds](https://open.spotify.com/track/0uO5T7u4DkgfGif1wIeLNr) | [Lexer](https://open.spotify.com/artist/2vDXLZ9mI3CdTPPIzFUKlY) | [Between Two Worlds](https://open.spotify.com/album/2e0Xq16PwrfYtznyso4lHy) | 7:44 |
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5xiztvBdlUf.md) - [plain]
 | 77 | [Sinking](https://open.spotify.com/track/4RrMjTMEkksPxC4zVhQKAO) | [VNSSA](https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM), [Lenny Kiser](https://open.spotify.com/artist/4n0QSObAbjfgDL1u5aY0IN) | [Sinking](https://open.spotify.com/album/1x5eFJIW5i4HWiYN8gM1eZ) | 4:31 |
 | 78 | [Cycle](https://open.spotify.com/track/1E8VZOqKP9AvlME4DzAWw9) | [Cella](https://open.spotify.com/artist/3w7ASanLoAsQcWhd7V9DpJ) | [Cycle](https://open.spotify.com/album/3Ny2xjmiTaLiu56yqdvvho) | 3:28 |
 | 79 | [Feels Good](https://open.spotify.com/track/2WYgu5SgxDS4F6LwLssMZt) | [Audiojack](https://open.spotify.com/artist/3Uvzk4iffO4mvchgRNJjbs), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Feels Good](https://open.spotify.com/album/0nDWkPeHxo5aW66dbNm1PF) | 4:41 |
-| 80 | [Changes](https://open.spotify.com/track/0BmCeSYUthdYE4LbJx1qYj) | [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72) | [Changes EP](https://open.spotify.com/album/6brECbf1Kr7MPAk1lay37J) | 5:41 |
+| 80 | [Basic Juno](https://open.spotify.com/track/1hgWPFzfyUuKPSieELghgg) | [Ian Pooley](https://open.spotify.com/artist/1m4GViPjIy4T8Pd0Iz6hRS) | [Studio A Pt.1](https://open.spotify.com/album/09lUmMUXdwkYhizeDg2NpO) | 6:07 |
 
-Snapshot ID: `MTY2MjE0MTkxOSwwMDAwMDAwMDlhNGNlZGMyNDI1N2MxOGE0MmY3OGI0NjU2NWZiODBk`
+Snapshot ID: `MTY2MjE0MTkxOSwwMDAwMDAwMDQ5NjExYzM2M2Q5MDFmZmZjN2VmMzFkZjliNzMzNWNi`

@@ -8,8 +8,8 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Fight I Must Win](https://open.spotify.com/track/6Yb6ofPLgbb5QhhuWQXtnk) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Will To Power](https://open.spotify.com/album/1HimPrGurKic1hNOSidwF2) | 6:35 | 2022-06-27 |  |
-| [Aces High \- cover version](https://open.spotify.com/track/0C54uocegt2AqgdJkrFNqo) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Black Earth \(Reissue\)](https://open.spotify.com/album/4RRn0PSSHMJS6E8nz6Ul4z) | 4:24 | 2022-05-30 |  |
+| [A Fight I Must Win](https://open.spotify.com/track/6Yb6ofPLgbb5QhhuWQXtnk) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Will To Power](https://open.spotify.com/album/1HimPrGurKic1hNOSidwF2) | 6:35 | 2022-06-27 | 2022-09-23 |
+| [Aces High \- cover version](https://open.spotify.com/track/0C54uocegt2AqgdJkrFNqo) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Black Earth \(Reissue\)](https://open.spotify.com/album/4RRn0PSSHMJS6E8nz6Ul4z) | 4:24 | 2022-05-30 | 2022-09-23 |
 | [As the Pages Burn](https://open.spotify.com/track/3BkqtdD3Vc90C3JFtTTVqI) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [War Eternal](https://open.spotify.com/album/3qzrNVuUyOJxfzMYRCh5qN) | 4:01 | 2022-05-30 |  |
 | [Avalanche](https://open.spotify.com/track/5N9O4qRT4FJudc5m632T45) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [War Eternal](https://open.spotify.com/album/3qzrNVuUyOJxfzMYRCh5qN) | 4:38 | 2022-05-31 | 2022-09-10 |
 | [Beast of Man \- 2009 Version](https://open.spotify.com/track/65MwtwKP0YlnmLf4R5nhf0) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [The Root of All Evil](https://open.spotify.com/album/3lPgwuzDBUYL5eDb4n0w41) | 3:46 | 2022-05-30 |  |
@@ -52,7 +52,7 @@
 | [One Last Time](https://open.spotify.com/track/6SKe0n1Oe9P2o6GXp5nyFl) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Deceivers](https://open.spotify.com/album/0UWT0SwOzXkR9IVbz0GNuo) | 3:49 | 2022-08-16 | 2022-09-19 |
 | [Poisoned Arrow](https://open.spotify.com/track/0mO1FN8MXytVZfZYpC5i56) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Deceivers](https://open.spotify.com/album/0UWT0SwOzXkR9IVbz0GNuo) | 3:51 | 2022-08-13 |  |
 | [Ravenous](https://open.spotify.com/track/5oyCIQWuSgFB25yA66AIcG) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Wages of Sin](https://open.spotify.com/album/5QeMzsmPiNKqO8mB1hQFRZ) | 4:05 | 2022-05-30 |  |
-| [Reason to Believe](https://open.spotify.com/track/02gIPDHCTuKgKEl2VlgPzt) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Will To Power](https://open.spotify.com/album/1HimPrGurKic1hNOSidwF2) | 4:47 | 2022-05-30 | 2022-09-22 |
+| [Reason to Believe](https://open.spotify.com/track/02gIPDHCTuKgKEl2VlgPzt) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Will To Power](https://open.spotify.com/album/1HimPrGurKic1hNOSidwF2) | 4:47 | 2022-05-30 |  |
 | [Revolution Begins](https://open.spotify.com/track/1n6Iqdr5XQ6F4o0vvqmFjx) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Rise of the Tyrant](https://open.spotify.com/album/4ghmUVjSEgjv96xEARObbl) | 4:11 | 2022-05-30 |  |
 | [Rise of the Tyrant](https://open.spotify.com/track/4IgNweJc2Ph8KfXZ1Zl9y8) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Rise of the Tyrant](https://open.spotify.com/album/4ghmUVjSEgjv96xEARObbl) | 4:33 | 2022-05-30 | 2022-09-11 |
 | [Savage Messiah](https://open.spotify.com/track/2XhiaLljpaCG9nZomMpZol) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Wages of Sin](https://open.spotify.com/album/5QeMzsmPiNKqO8mB1hQFRZ) | 5:16 | 2022-05-30 |  |

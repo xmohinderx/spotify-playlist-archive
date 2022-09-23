@@ -439,7 +439,7 @@
           "url": "https://open.spotify.com/artist/3WoLTUzCzouGlfB95USM5f"
         },
         {
-          "name": "\uc784\uc724\uc131",
+          "name": "Im Yoon Seong",
           "url": "https://open.spotify.com/artist/3VNHUvK0rkFvmDNYEVrSLq"
         }
       ],
@@ -2093,6 +2093,36 @@
     {
       "album": {
         "name": "SUPER BAND 2 - Episode.11",
+        "url": "https://open.spotify.com/album/1PbDjUlcpJhPG5F9cOoKJ4"
+      },
+      "artists": [
+        {
+          "name": "KiTak",
+          "url": "https://open.spotify.com/artist/1GVOCXlt9J5PcnyGBtArvM"
+        },
+        {
+          "name": "\ubcc0\uc815\ud638",
+          "url": "https://open.spotify.com/artist/5c6A5kg3bCZMgdG63leKdQ"
+        },
+        {
+          "name": "\uae40\uc2ac\uc639",
+          "url": "https://open.spotify.com/artist/3WoLTUzCzouGlfB95USM5f"
+        },
+        {
+          "name": "Im Yoon Seong",
+          "url": "https://open.spotify.com/artist/3VNHUvK0rkFvmDNYEVrSLq"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346896,
+      "name": "Kings And Queens",
+      "url": "https://open.spotify.com/track/6H4A9Ch6hwHjwn7dhlttHv"
+    },
+    {
+      "album": {
+        "name": "SUPER BAND 2 - Episode.11",
         "url": "https://open.spotify.com/album/7yv0yPUGM4zValqu4vX9Kr"
       },
       "artists": [
@@ -2119,36 +2149,6 @@
       "duration_ms": 346896,
       "name": "Kings And Queens",
       "url": "https://open.spotify.com/track/2OQ7YAMsAn74viDaIVT1lh"
-    },
-    {
-      "album": {
-        "name": "SUPER BAND 2 - Episode.11",
-        "url": "https://open.spotify.com/album/1PbDjUlcpJhPG5F9cOoKJ4"
-      },
-      "artists": [
-        {
-          "name": "KiTak",
-          "url": "https://open.spotify.com/artist/1GVOCXlt9J5PcnyGBtArvM"
-        },
-        {
-          "name": "\ubcc0\uc815\ud638",
-          "url": "https://open.spotify.com/artist/5c6A5kg3bCZMgdG63leKdQ"
-        },
-        {
-          "name": "\uae40\uc2ac\uc639",
-          "url": "https://open.spotify.com/artist/3WoLTUzCzouGlfB95USM5f"
-        },
-        {
-          "name": "\uc784\uc724\uc131",
-          "url": "https://open.spotify.com/artist/3VNHUvK0rkFvmDNYEVrSLq"
-        }
-      ],
-      "date_added": "2021-10-01",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 346896,
-      "name": "Kings And Queens",
-      "url": "https://open.spotify.com/track/6H4A9Ch6hwHjwn7dhlttHv"
     },
     {
       "album": {
@@ -2717,6 +2717,32 @@
     {
       "album": {
         "name": "SUPER BAND 2 - Episode.3, 4",
+        "url": "https://open.spotify.com/album/2WeLjruBuRoZ0TjdVkGDjG"
+      },
+      "artists": [
+        {
+          "name": "\ud669\ub9b0",
+          "url": "https://open.spotify.com/artist/0lG4UaNoETC2meBRncQnvM"
+        },
+        {
+          "name": "Kim Joon-Seo",
+          "url": "https://open.spotify.com/artist/38yvkeOk48SQQIqlvbOELK"
+        },
+        {
+          "name": "Im Yoon Seong",
+          "url": "https://open.spotify.com/artist/3VNHUvK0rkFvmDNYEVrSLq"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301881,
+      "name": "Piano Man",
+      "url": "https://open.spotify.com/track/5G9JbZPDZDDbGbNftsIraT"
+    },
+    {
+      "album": {
+        "name": "SUPER BAND 2 - Episode.3, 4",
         "url": "https://open.spotify.com/album/25jfUkPyS3NLusqfgWJ9GJ"
       },
       "artists": [
@@ -2739,32 +2765,6 @@
       "duration_ms": 301881,
       "name": "Piano Man",
       "url": "https://open.spotify.com/track/4fT6IdsruVZQIgrKnoRH4p"
-    },
-    {
-      "album": {
-        "name": "SUPER BAND 2 - Episode.3, 4",
-        "url": "https://open.spotify.com/album/2WeLjruBuRoZ0TjdVkGDjG"
-      },
-      "artists": [
-        {
-          "name": "\ud669\ub9b0",
-          "url": "https://open.spotify.com/artist/0lG4UaNoETC2meBRncQnvM"
-        },
-        {
-          "name": "Kim Joon-Seo",
-          "url": "https://open.spotify.com/artist/38yvkeOk48SQQIqlvbOELK"
-        },
-        {
-          "name": "\uc784\uc724\uc131",
-          "url": "https://open.spotify.com/artist/3VNHUvK0rkFvmDNYEVrSLq"
-        }
-      ],
-      "date_added": "2021-10-01",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 301881,
-      "name": "Piano Man",
-      "url": "https://open.spotify.com/track/5G9JbZPDZDDbGbNftsIraT"
     },
     {
       "album": {

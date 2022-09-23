@@ -856,6 +856,36 @@
     },
     {
       "album": {
+        "name": "Electric (jeonghyeon Remix)",
+        "url": "https://open.spotify.com/album/47U0y4WrOv38gtxJcgZhm8"
+      },
+      "artists": [
+        {
+          "name": "jeonghyeon",
+          "url": "https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq"
+        },
+        {
+          "name": "Vaance",
+          "url": "https://open.spotify.com/artist/3hY9SF90lW0iMZkT2qBFDu"
+        },
+        {
+          "name": "Deerock",
+          "url": "https://open.spotify.com/artist/3BCouSmFlw2lHBmJmi1umh"
+        },
+        {
+          "name": "Robbie Rosen",
+          "url": "https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Electric - jeonghyeon Remix",
+      "url": "https://open.spotify.com/track/78yNJ5AiK2UkM8gDuSmRPB"
+    },
+    {
+      "album": {
         "name": "Emotions",
         "url": "https://open.spotify.com/album/4PqX0mPwf8NC5I9qnLdcBZ"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 
 > 日本の女性アーティストの歌を特集。cover: 松任谷由実
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,801 likes - 100 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,817 likes - 100 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,25 +88,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 | 78 | [Look At Me](https://open.spotify.com/track/7F38cYOAZBuCjf3YoAmIZn) | [Kawaguchi Yurina](https://open.spotify.com/artist/3snqW31jInsZwoYRZTaixr) | [Look At Me](https://open.spotify.com/album/3mp41Up4LNhAVLGxl7BAUR) | 3:03 |
 | 79 | [Good Morning](https://open.spotify.com/track/5RzbfqriTQAvMkSDKRwT4J) | [Awesome City Club](https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv) | [Good Morning](https://open.spotify.com/album/4HBA6vzBbAERjK1i10ja5R) | 3:17 |
 | 80 | [Flow](https://open.spotify.com/track/55HzAX2f4rVNpJ0XzyNHkP) | [Perfume](https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr) | [Flow](https://open.spotify.com/album/2gZy7QaMw8yS4JlJn1NuAE) | 3:04 |
-| 81 | [灯火](https://open.spotify.com/track/03kdTvI72t9uFwrcgKHgON) | [Yuga](https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT) | [灯火](https://open.spotify.com/album/23A0oqlZ1VCZd7PrVwTcDM) | 3:39 |
+| 81 | [愛のしるし](https://open.spotify.com/track/7Huzhd3UpthiZIf1UzRcGA) | [森七菜](https://open.spotify.com/artist/1IDjyCsCk5Xjy7RA7AQ8vy) | [愛のしるし](https://open.spotify.com/album/0E6klzABzldGWMc7DVYaEh) | 2:50 |
 | 82 | [ダイナマイト](https://open.spotify.com/track/1fYp7sbbY8iiPVmkQ5R1RP) | [Superfly](https://open.spotify.com/artist/5M8AXrOifBT8elkLKbGPQZ) | [ダイナマイト](https://open.spotify.com/album/6FnpfHUAb6eca7168HPMw6) | 3:13 |
-| 83 | [愛のしるし](https://open.spotify.com/track/7Huzhd3UpthiZIf1UzRcGA) | [森七菜](https://open.spotify.com/artist/1IDjyCsCk5Xjy7RA7AQ8vy) | [愛のしるし](https://open.spotify.com/album/0E6klzABzldGWMc7DVYaEh) | 2:50 |
-| 84 | [水面に、アイス](https://open.spotify.com/track/79XFskNpEhl8uEWHWRqReH) | [YeYe](https://open.spotify.com/artist/2YUe21UG1hJsuhy9E3bzxp), [Ginger Root](https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0) | [水面に、アイス](https://open.spotify.com/album/5JaPNZPx00FhqlyCTutJgA) | 4:30 |
+| 83 | [灯火](https://open.spotify.com/track/03kdTvI72t9uFwrcgKHgON) | [Yuga](https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT) | [灯火](https://open.spotify.com/album/23A0oqlZ1VCZd7PrVwTcDM) | 3:39 |
+| 84 | [3636](https://open.spotify.com/track/2mHWjrN4rIL8vbWt0Od9Ux) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [Falling into your eyes Record](https://open.spotify.com/album/5KLZZ5X7b8eM8OXXUBYfgz) | 4:11 |
 | 85 | [君が好きです](https://open.spotify.com/track/0pky0MjWmhHRcjVB5Eij7i) | [miwa](https://open.spotify.com/artist/3R3WEsfL1WC1zLiz3XG9K5) | [君が好きです](https://open.spotify.com/album/0ki7vdb78C0gGUfsJhdKaR) | 4:10 |
-| 86 | [3636](https://open.spotify.com/track/2mHWjrN4rIL8vbWt0Od9Ux) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [Falling into your eyes Record](https://open.spotify.com/album/5KLZZ5X7b8eM8OXXUBYfgz) | 4:11 |
+| 86 | [水面に、アイス](https://open.spotify.com/track/79XFskNpEhl8uEWHWRqReH) | [YeYe](https://open.spotify.com/artist/2YUe21UG1hJsuhy9E3bzxp), [Ginger Root](https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0) | [水面に、アイス](https://open.spotify.com/album/5JaPNZPx00FhqlyCTutJgA) | 4:30 |
 | 87 | [エクレール](https://open.spotify.com/track/74D1fZvt1jnZ8psXIf1FJ4) | [Genie High](https://open.spotify.com/artist/1NdpjvRYsY6cwAVX9YWzAB) | [エクレール](https://open.spotify.com/album/17ldd7eO4vY7MFODEl5FIw) | 3:32 |
 | 88 | [ONE AND LAST](https://open.spotify.com/track/52hEoJr9DL19p4BKGuvnfv) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [ONE AND LAST](https://open.spotify.com/album/5jc9kybeA4JeT6xucySNte) | 4:47 |
 | 89 | [いとをかし](https://open.spotify.com/track/7EDm2Hy7WYm49AXywJdpkW) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [いとをかし](https://open.spotify.com/album/0IeYhVouWKJSzL9RoaJoQf) | 3:15 |
 | 90 | [STARLIGHT](https://open.spotify.com/track/7gg611kXgkFXDwEdAAYSOD) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [STARLIGHT](https://open.spotify.com/album/3goLdwlEKJatLLNgVkRcxf) | 3:07 |
 | 91 | [Bloom](https://open.spotify.com/track/6pt9fZEfESI6uluywicYnz) | [miwa](https://open.spotify.com/artist/3R3WEsfL1WC1zLiz3XG9K5) | [Bloom](https://open.spotify.com/album/5ZkZOSUTwVRWrYh3JArLNv) | 3:04 |
-| 92 | [大人になって](https://open.spotify.com/track/50QZPjbeLQB9lQgRwJuppl) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [大人になって](https://open.spotify.com/album/7jvVYxNzMnAGGXUBOOojjA) | 4:00 |
-| 93 | [酸欠少女](https://open.spotify.com/track/2RZXA7qGu9Ei3iNpKhv4TP) | [Sayuri](https://open.spotify.com/artist/1YLxQZIGsaZq9rvFu8zeRz) | [酸欠少女](https://open.spotify.com/album/7wULgwMQk3K8FdcYqCKVlO) | 4:08 |
+| 92 | [酸欠少女](https://open.spotify.com/track/2RZXA7qGu9Ei3iNpKhv4TP) | [Sayuri](https://open.spotify.com/artist/1YLxQZIGsaZq9rvFu8zeRz) | [酸欠少女](https://open.spotify.com/album/7wULgwMQk3K8FdcYqCKVlO) | 4:08 |
+| 93 | [大人になって](https://open.spotify.com/track/50QZPjbeLQB9lQgRwJuppl) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [大人になって](https://open.spotify.com/album/7jvVYxNzMnAGGXUBOOojjA) | 4:00 |
 | 94 | [Who are you ?](https://open.spotify.com/track/5BbgSQt406V1N0G3S7sYWs) | [Liza](https://open.spotify.com/artist/2lt6QQR32fKGBooeTvd2wd), [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw) | [Who are you ?](https://open.spotify.com/album/1itmOBTEkREB9z5WCRRfJX) | 2:56 |
 | 95 | [S.S.S.](https://open.spotify.com/track/48f0KSnaKBBM4v5Uo3NWKN) | [CHIAKI SATO](https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt) | [S.S.S.](https://open.spotify.com/album/6r7gBmCDMCHc0C61Jgm74X) | 3:21 |
-| 96 | [透明なガール \-Dye me\- \(feat\. ひかり\)](https://open.spotify.com/track/3MddMYGS4fdkcRnkFbz2PM) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc) | [透明なガール \-Dye me\- \(feat\. ひかり\)](https://open.spotify.com/album/0dJVYEeg3RoLXPcUcpVatv) | 3:29 |
-| 97 | [穴空きの空](https://open.spotify.com/track/6jc77ebub9mX2uqELoF5Hh) | [adieu](https://open.spotify.com/artist/18tXnGJKmrSwXynnxWHy3Y) | [穴空きの空](https://open.spotify.com/album/3lMML0Z6akQ8iIuHk61r8h) | 4:06 |
+| 96 | [穴空きの空](https://open.spotify.com/track/6jc77ebub9mX2uqELoF5Hh) | [adieu](https://open.spotify.com/artist/18tXnGJKmrSwXynnxWHy3Y) | [穴空きの空](https://open.spotify.com/album/3lMML0Z6akQ8iIuHk61r8h) | 4:06 |
+| 97 | [透明なガール \-Dye me\- \(feat\. ひかり\)](https://open.spotify.com/track/3MddMYGS4fdkcRnkFbz2PM) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc) | [透明なガール \-Dye me\- \(feat\. ひかり\)](https://open.spotify.com/album/0dJVYEeg3RoLXPcUcpVatv) | 3:29 |
 | 98 | [Life Road](https://open.spotify.com/track/6B0h9SeRiGdT5dDgSwJXbT) | [LOZAREENA](https://open.spotify.com/artist/5lRAsaQysYDBzpa1CT0qwV) | [Life Road](https://open.spotify.com/album/4F5sszXsMnqUUYGwpfcOj9) | 3:32 |
 | 99 | [Suisei × Konyawa Boogie Back nice vocal](https://open.spotify.com/track/754uqLwH2sy5PlVSjluNRB) | [Tomoko Ikeda × TENDRE](https://open.spotify.com/artist/2OFTI9ZTwbhY8cT0k7HU2P) | [Suisei × Konyawa Boogie Back nice vocal](https://open.spotify.com/album/0feblWhwtVCFblpekmrmjJ) | 5:01 |
 | 100 | [わたしたちへ](https://open.spotify.com/track/78XrrMFIEGU8yOUdkn5umM) | [Ayano Kaneko](https://open.spotify.com/artist/4XKIIegkRbSJft0PmMv9NB) | [わたしたちへ](https://open.spotify.com/album/6bi87bNy6rch5PTXdjW1I6) | 4:05 |
 
-Snapshot ID: `MTY2MzY4NzM2OSwwMDAwMDAwMGU3YjExYmMzYjc5ZDIwOTA5N2ViZDk2NDAwN2Q5NGY1`
+Snapshot ID: `MTY2Mzg1ODgwMCwwMDAwMDAwMGMyNDQ5YTJmMzUxMjIxNzQwZGFkODAxZWQ1OGRhYThl`

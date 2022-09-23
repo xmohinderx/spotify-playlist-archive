@@ -2,9 +2,9 @@
 
 ### [Top Latin Hits](https://open.spotify.com/playlist/3vWayw42WNrZX1NdMZBSgZ)
 
-> The perfect mix of the biggest <a href="https://www.instagram.com/sonymusiclatin/">Sony Music Latin</a> hits! Follow this playlist for hot new updates\. Cover: Pedro Capó
+> The perfect mix of the biggest <a href="https://www.instagram.com/sonymusiclatin/">Sony Music Latin</a> hits! Follow this playlist for hot new updates\. Cover: Rauw Alejandro, Baby Rasta
 
-292 songs - 16 hr 3 min - [published](https://open.spotify.com/playlist/0lGBO3myxqxYAzrucuf31y)
+293 songs - 16 hr 6 min - [published](https://open.spotify.com/playlist/0lGBO3myxqxYAzrucuf31y)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -217,6 +217,7 @@
 | [Ponle Dembow](https://open.spotify.com/track/1zp23gHCrilG1NGfmjMy0f) | [Cauty](https://open.spotify.com/artist/2QUvtLq6oQaX0LNsYY2fas), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [574](https://open.spotify.com/artist/6LySp35VaLUeUEalGUTBns) | [Ponle Dembow](https://open.spotify.com/album/0hHPlPbwFAvowcLtTpy5qw) | 3:20 | 2022-08-11 |  |
 | [Por Fin Me Enamoré](https://open.spotify.com/track/4toLD6NYoiUgljszuA7V3y) | [Río Roma](https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt) | [Por Fin Me Enamoré](https://open.spotify.com/album/2PAEc8QtznTrkRvVT6P4SU) | 3:36 | 2022-02-02 |  |
 | [Problemas](https://open.spotify.com/track/0ibM1mZeNP37EH0aijBZed) | [GALE](https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM) | [Problemas](https://open.spotify.com/album/7D0hDhJZc5MHZVWxmzuCUv) | 3:16 | 2022-06-03 |  |
+| [PUNTO 40](https://open.spotify.com/track/2TDyyEBasw10wu5Uh94bR1) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Baby Rasta](https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN) | [PUNTO 40](https://open.spotify.com/album/3wh0e8pRtMt4HLLUhUM6Hs) | 3:10 | 2022-09-22 |  |
 | [Q'lona](https://open.spotify.com/track/18qAAYXV9LmnLgO81cscAQ) | [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [Q'lona](https://open.spotify.com/album/44rOSsMvLYhd9PL1TFcbOq) | 3:48 | 2022-02-25 |  |
 | [Quiero Decirte](https://open.spotify.com/track/7dT6ccDqmMHvz5C0d8iUND) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [Quiero Decirte](https://open.spotify.com/album/3CnYoRJD1BVt5eyoRwaFar) | 3:42 | 2022-05-12 |  |
 | [Qué Lío](https://open.spotify.com/track/3GmCcVI6ahFNLvF0izvmFP) | [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [NATTIVIDAD](https://open.spotify.com/album/2ZjmvVKeVy3CgaT2BvsyvM) | 3:25 | 2022-02-02 |  |

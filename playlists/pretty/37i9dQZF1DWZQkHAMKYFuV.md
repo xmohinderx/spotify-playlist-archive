@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQkHAMKYFuV.md) - [plain]
 
 > The Latin soundtrack of the 2010s! Cover: Daddy Yankee, Luis Fonsi
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,960 likes - 85 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,027 likes - 85 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQkHAMKYFuV.md) - [plain]
 | 21 | [Ya Me Enteré](https://open.spotify.com/track/0lPXFrKyl8HkdQ2E6NmNja) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Des/Amor](https://open.spotify.com/album/6Tap30zqzXj22sVKoy1GUj) | 3:24 |
 | 22 | [Amorfoda](https://open.spotify.com/track/68QcquxCS39cQGTsRrJWIR) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Amorfoda](https://open.spotify.com/album/4BrJhFl3j50A69ZktbzZAg) | 2:33 |
 | 23 | [Criminal](https://open.spotify.com/track/6Za3190Sbw39BBC77WSS1C) | [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Criminal](https://open.spotify.com/album/0S19ks6TFDHZKEYWFvrRm0) | 3:52 |
-| 24 | [Secreto](https://open.spotify.com/track/5W83ErFkO3aKAIS1WMi6u0) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Secreto](https://open.spotify.com/album/6owzcG80ifZRDApCpzJYK1) | 4:18 |
+| 24 | [Se Preparó](https://open.spotify.com/track/1m69ELEgE6k5ZWsap40ozt) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Odisea](https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo) | 3:08 |
 | 25 | [Chantaje \(feat\. Maluma\)](https://open.spotify.com/track/6mICuAdrwEjh6Y6lroV2Kg) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [El Dorado](https://open.spotify.com/album/6bUxh58rYTL67FS8dyTKMN) | 3:15 |
-| 26 | [Se Preparó](https://open.spotify.com/track/1m69ELEgE6k5ZWsap40ozt) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Odisea](https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo) | 3:08 |
+| 26 | [Secreto](https://open.spotify.com/track/5W83ErFkO3aKAIS1WMi6u0) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Secreto](https://open.spotify.com/album/6owzcG80ifZRDApCpzJYK1) | 4:18 |
 | 27 | [Calma \- Remix](https://open.spotify.com/track/5iwz1NiezX7WWjnCgY5TH4) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Calma \(Remix\)](https://open.spotify.com/album/1tFnP9PwIMeMIuj92mfswZ) | 3:58 |
 | 28 | [La Gozadera \(feat\. Marc Anthony\)](https://open.spotify.com/track/0OMRAvrtLWE2TvcXorRiB9) | [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Visualízate](https://open.spotify.com/album/2HXRjHb2nbLJa5r70FBtdT) | 3:23 |
 | 29 | [X](https://open.spotify.com/track/5YUyW9opqNsMSEzzecZih1) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Intimo](https://open.spotify.com/album/1CYQlkKE5Q0khU6eMwVAVt) | 2:52 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQkHAMKYFuV.md) - [plain]
 | 84 | [La Ocasión \- Remix](https://open.spotify.com/track/1M9gupJZxS3LdK8R6UZfYH) | [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD), [Mambo Kingz](https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Zion](https://open.spotify.com/artist/68Yelg8HOZqYn4EjOnXsZy) | [La Ocasión \(Remix\)](https://open.spotify.com/album/0bWNdvYtwewhKo0YUUgzwL) | 7:31 |
 | 85 | [Mi 45](https://open.spotify.com/track/4Q2xPu7B9e3PDnIUMXHw29) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Equipo Armado](https://open.spotify.com/album/1xTOE6MCUeSYrI62QrbJpt) | 2:31 |
 
-Snapshot ID: `MTY2MTkzMDIxMSwwMDAwMDAwMGI5N2Y4MGNlNTUxOTM5YzRhNmJkMzM5NTNlNDE2ZjVl`
+Snapshot ID: `MTY2MTkzMDIxMSwwMDAwMDAwMGM0MzJlYWYyNGRlY2ZjZWJlZGI3N2Q3ZmIwYzBkYjM2`

@@ -1,12 +1,12 @@
 {
   "description": "The world series of Ska. Cover: The Interrupters",
-  "num_followers": 17112,
+  "num_followers": 17160,
   "original_name": "Ska Around The Globe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjUxMjg5NiwwMDAwMDAwMDdmYjE4YTZmMGU1YmQ3NTFmMzYxNjExOGVmZTMyZjhl",
+  "snapshot_id": "MTY2MjUxMjg5NiwwMDAwMDAwMDdlMDllNjY0Y2Q5NDJhYjAwYTQ5YjFhNTExNmJjYmQy",
   "tracks": [
     {
       "added_at": "2022-08-01 20:17:22",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2021-12-06 21:30:06",
       "album": {
-        "name": "The Fury of the Aquabats!",
-        "url": "https://open.spotify.com/album/3ytuNr6VyEkILS2PG14LCM"
-      },
-      "artists": [
-        {
-          "name": "The Aquabats!",
-          "url": "https://open.spotify.com/artist/0WgiEOrXlaXJGHKhkd9s4s"
-        }
-      ],
-      "duration_ms": 182800,
-      "name": "Super Rad!",
-      "url": "https://open.spotify.com/track/0wZuFLzQhVAJU9JSmdixTE"
-    },
-    {
-      "added_at": "2021-12-06 21:30:06",
-      "album": {
         "name": "Kembali Berdansa",
         "url": "https://open.spotify.com/album/5s4ftdrs5SQ8FbcPpDIlZL"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 201200,
       "name": "Kembali Berdansa",
       "url": "https://open.spotify.com/track/2wUEPtqTxvWF0RlXpdi8b7"
+    },
+    {
+      "added_at": "2021-12-06 21:30:06",
+      "album": {
+        "name": "The Fury of the Aquabats!",
+        "url": "https://open.spotify.com/album/3ytuNr6VyEkILS2PG14LCM"
+      },
+      "artists": [
+        {
+          "name": "The Aquabats!",
+          "url": "https://open.spotify.com/artist/0WgiEOrXlaXJGHKhkd9s4s"
+        }
+      ],
+      "duration_ms": 182800,
+      "name": "Super Rad!",
+      "url": "https://open.spotify.com/track/0wZuFLzQhVAJU9JSmdixTE"
     },
     {
       "added_at": "2021-12-06 21:30:06",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2021-12-06 21:30:06",
       "album": {
-        "name": "The Very Best of The Selecter",
-        "url": "https://open.spotify.com/album/1Sk2mljWUTXFEtZpoT0fPg"
-      },
-      "artists": [
-        {
-          "name": "The Selecter",
-          "url": "https://open.spotify.com/artist/3wRksusBxJ6npu0PryYheF"
-        }
-      ],
-      "duration_ms": 185199,
-      "name": "On my Radio",
-      "url": "https://open.spotify.com/track/5X7Sbugnqqm3ffA9y7b7wD"
-    },
-    {
-      "added_at": "2021-12-06 21:30:06",
-      "album": {
         "name": "Latin Ska Force",
         "url": "https://open.spotify.com/album/0nqw5cvwdXNtyGv0H9WEDt"
       },
@@ -1763,6 +1747,22 @@
       "duration_ms": 219320,
       "name": "Labios Rojos",
       "url": "https://open.spotify.com/track/4TgMjUl6V83bU03XiQADz7"
+    },
+    {
+      "added_at": "2021-12-06 21:30:06",
+      "album": {
+        "name": "The Very Best of The Selecter",
+        "url": "https://open.spotify.com/album/1Sk2mljWUTXFEtZpoT0fPg"
+      },
+      "artists": [
+        {
+          "name": "The Selecter",
+          "url": "https://open.spotify.com/artist/3wRksusBxJ6npu0PryYheF"
+        }
+      ],
+      "duration_ms": 185199,
+      "name": "On my Radio",
+      "url": "https://open.spotify.com/track/5X7Sbugnqqm3ffA9y7b7wD"
     },
     {
       "added_at": "2021-12-06 21:30:06",
@@ -1831,6 +1831,22 @@
     {
       "added_at": "2021-12-06 21:30:06",
       "album": {
+        "name": "El Precio del Sudor",
+        "url": "https://open.spotify.com/album/3GeVKe0S3AIyGRbt5L40tc"
+      },
+      "artists": [
+        {
+          "name": "Los Rude Boys",
+          "url": "https://open.spotify.com/artist/2hnZsQ7mRwI8Sy2fOFL9wA"
+        }
+      ],
+      "duration_ms": 164186,
+      "name": "Somos del Barrio",
+      "url": "https://open.spotify.com/track/4f3B6Ts5LUR2X0DLwr00JV"
+    },
+    {
+      "added_at": "2021-12-06 21:30:06",
+      "album": {
         "name": "El Ska No Est\u00e1 en Extinci\u00f3n",
         "url": "https://open.spotify.com/album/2Gu2UiJbj83jMYCuoEu6xT"
       },
@@ -1851,38 +1867,6 @@
     {
       "added_at": "2021-12-06 21:30:06",
       "album": {
-        "name": "El Precio del Sudor",
-        "url": "https://open.spotify.com/album/3GeVKe0S3AIyGRbt5L40tc"
-      },
-      "artists": [
-        {
-          "name": "Los Rude Boys",
-          "url": "https://open.spotify.com/artist/2hnZsQ7mRwI8Sy2fOFL9wA"
-        }
-      ],
-      "duration_ms": 164186,
-      "name": "Somos del Barrio",
-      "url": "https://open.spotify.com/track/4f3B6Ts5LUR2X0DLwr00JV"
-    },
-    {
-      "added_at": "2021-12-06 21:30:06",
-      "album": {
-        "name": "The Tears of a Clown",
-        "url": "https://open.spotify.com/album/5wnW6dBs2MsXrl2prLPqYO"
-      },
-      "artists": [
-        {
-          "name": "The English Beat",
-          "url": "https://open.spotify.com/artist/1eVEVL20zNLcGrPDOR691N"
-        }
-      ],
-      "duration_ms": 160026,
-      "name": "The Tears of a Clown",
-      "url": "https://open.spotify.com/track/3M2mTLjRXRW8dE7j3KTaUv"
-    },
-    {
-      "added_at": "2021-12-06 21:30:06",
-      "album": {
         "name": "ADN (Cap\u00edtulo A)",
         "url": "https://open.spotify.com/album/5rinlFOFMszDRgJYFJJsDs"
       },
@@ -1899,6 +1883,22 @@
       "duration_ms": 168096,
       "name": "Luna de Miel en la Mano",
       "url": "https://open.spotify.com/track/7hlgmoLuoZReMqVOBoUycx"
+    },
+    {
+      "added_at": "2021-12-06 21:30:06",
+      "album": {
+        "name": "The Tears of a Clown",
+        "url": "https://open.spotify.com/album/5wnW6dBs2MsXrl2prLPqYO"
+      },
+      "artists": [
+        {
+          "name": "The English Beat",
+          "url": "https://open.spotify.com/artist/1eVEVL20zNLcGrPDOR691N"
+        }
+      ],
+      "duration_ms": 160026,
+      "name": "The Tears of a Clown",
+      "url": "https://open.spotify.com/track/3M2mTLjRXRW8dE7j3KTaUv"
     },
     {
       "added_at": "2021-12-06 21:30:06",
@@ -2259,22 +2259,6 @@
     {
       "added_at": "2021-12-06 21:30:06",
       "album": {
-        "name": "Mambo Ska",
-        "url": "https://open.spotify.com/album/7qfCYynbJSqc6OzpLQwRy6"
-      },
-      "artists": [
-        {
-          "name": "Ska Cubano",
-          "url": "https://open.spotify.com/artist/6lmoqMxughzdlxvQTsUXjF"
-        }
-      ],
-      "duration_ms": 171173,
-      "name": "Piel Canela",
-      "url": "https://open.spotify.com/track/1YopIwn9N58vwfrEIasIne"
-    },
-    {
-      "added_at": "2021-12-06 21:30:06",
-      "album": {
         "name": "1997-2002",
         "url": "https://open.spotify.com/album/0WMdVs6ArgHzWx81zmqwci"
       },
@@ -2303,6 +2287,22 @@
       "duration_ms": 161226,
       "name": "Tremarella",
       "url": "https://open.spotify.com/track/3qVMtCTsmeSUiXuhrTPweZ"
+    },
+    {
+      "added_at": "2021-12-06 21:30:06",
+      "album": {
+        "name": "Mambo Ska",
+        "url": "https://open.spotify.com/album/7qfCYynbJSqc6OzpLQwRy6"
+      },
+      "artists": [
+        {
+          "name": "Ska Cubano",
+          "url": "https://open.spotify.com/artist/6lmoqMxughzdlxvQTsUXjF"
+        }
+      ],
+      "duration_ms": 171173,
+      "name": "Piel Canela",
+      "url": "https://open.spotify.com/track/1YopIwn9N58vwfrEIasIne"
     },
     {
       "added_at": "2021-12-06 21:30:06",
@@ -2371,22 +2371,6 @@
     {
       "added_at": "2021-12-06 21:30:06",
       "album": {
-        "name": "En la Kalle",
-        "url": "https://open.spotify.com/album/5nWxwi3avzKgXiMyQN2E7P"
-      },
-      "artists": [
-        {
-          "name": "Skalariak",
-          "url": "https://open.spotify.com/artist/0hSw6yMPrZuFEVjDX5CoHQ"
-        }
-      ],
-      "duration_ms": 217826,
-      "name": "Skalari Rude Klub (SRK)",
-      "url": "https://open.spotify.com/track/2nAtFjIG82aevSNwGUZUqJ"
-    },
-    {
-      "added_at": "2021-12-06 21:30:06",
-      "album": {
         "name": "Morbo's Club",
         "url": "https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v"
       },
@@ -2399,22 +2383,6 @@
       "duration_ms": 243813,
       "name": "La Zona del Terror",
       "url": "https://open.spotify.com/track/3Y8xPwMiPWyzCeqLhkVLmZ"
-    },
-    {
-      "added_at": "2021-12-06 21:30:06",
-      "album": {
-        "name": "Here in The Heights",
-        "url": "https://open.spotify.com/album/2lGYvbR1ovYdsZKb2lTiq0"
-      },
-      "artists": [
-        {
-          "name": "Tropidelic",
-          "url": "https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl"
-        }
-      ],
-      "duration_ms": 223347,
-      "name": "Cali",
-      "url": "https://open.spotify.com/track/75pC1KbHcJ9Wmrkdb53tGl"
     },
     {
       "added_at": "2021-12-06 21:30:06",
@@ -2435,6 +2403,22 @@
     {
       "added_at": "2021-12-06 21:30:06",
       "album": {
+        "name": "En la Kalle",
+        "url": "https://open.spotify.com/album/5nWxwi3avzKgXiMyQN2E7P"
+      },
+      "artists": [
+        {
+          "name": "Skalariak",
+          "url": "https://open.spotify.com/artist/0hSw6yMPrZuFEVjDX5CoHQ"
+        }
+      ],
+      "duration_ms": 217826,
+      "name": "Skalari Rude Klub (SRK)",
+      "url": "https://open.spotify.com/track/2nAtFjIG82aevSNwGUZUqJ"
+    },
+    {
+      "added_at": "2021-12-06 21:30:06",
+      "album": {
         "name": "The Aggrolites",
         "url": "https://open.spotify.com/album/6kvCoBX2EuVuDtyAdslFUu"
       },
@@ -2447,6 +2431,22 @@
       "duration_ms": 229693,
       "name": "Countryman Fiddle",
       "url": "https://open.spotify.com/track/6ecUJEiugqWHcOursGGfSU"
+    },
+    {
+      "added_at": "2021-12-06 21:30:06",
+      "album": {
+        "name": "Here in The Heights",
+        "url": "https://open.spotify.com/album/2lGYvbR1ovYdsZKb2lTiq0"
+      },
+      "artists": [
+        {
+          "name": "Tropidelic",
+          "url": "https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl"
+        }
+      ],
+      "duration_ms": 223347,
+      "name": "Cali",
+      "url": "https://open.spotify.com/track/75pC1KbHcJ9Wmrkdb53tGl"
     },
     {
       "added_at": "2021-12-06 21:30:06",
@@ -2499,22 +2499,6 @@
     {
       "added_at": "2021-12-06 21:30:06",
       "album": {
-        "name": "2",
-        "url": "https://open.spotify.com/album/1ij4uqkqWe8zVHQH4bgHzp"
-      },
-      "artists": [
-        {
-          "name": "Los Victorios",
-          "url": "https://open.spotify.com/artist/0lUm3jq72pD9UrZJN0h0aj"
-        }
-      ],
-      "duration_ms": 190012,
-      "name": "El Peor Momento",
-      "url": "https://open.spotify.com/track/4L43mWUckLLELjY01ULy0f"
-    },
-    {
-      "added_at": "2021-12-06 21:30:06",
-      "album": {
         "name": "Klub Ska",
         "url": "https://open.spotify.com/album/2bWA5NhjP7bgAQFlZwnz0w"
       },
@@ -2527,6 +2511,22 @@
       "duration_ms": 146452,
       "name": "Puto Alcohol",
       "url": "https://open.spotify.com/track/7tj8oe1VHikWXAyS3Anhz3"
+    },
+    {
+      "added_at": "2021-12-06 21:30:06",
+      "album": {
+        "name": "2",
+        "url": "https://open.spotify.com/album/1ij4uqkqWe8zVHQH4bgHzp"
+      },
+      "artists": [
+        {
+          "name": "Los Victorios",
+          "url": "https://open.spotify.com/artist/0lUm3jq72pD9UrZJN0h0aj"
+        }
+      ],
+      "duration_ms": 190012,
+      "name": "El Peor Momento",
+      "url": "https://open.spotify.com/track/4L43mWUckLLELjY01ULy0f"
     },
     {
       "added_at": "2021-12-06 21:30:06",
@@ -2663,22 +2663,6 @@
     {
       "added_at": "2021-12-06 21:30:06",
       "album": {
-        "name": "Yours Truly (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2bKgvvT3ZCOW8CRpbU0Hdt"
-      },
-      "artists": [
-        {
-          "name": "Sublime With Rome",
-          "url": "https://open.spotify.com/artist/3XXrhkZKSGd3CUJQFnx5tQ"
-        }
-      ],
-      "duration_ms": 266386,
-      "name": "Murdera",
-      "url": "https://open.spotify.com/track/6ZForb50RiJaON05cHNcDB"
-    },
-    {
-      "added_at": "2021-12-06 21:30:06",
-      "album": {
         "name": "La Domenica Mattina",
         "url": "https://open.spotify.com/album/7ytTWa9GuCALoyRLwQ996j"
       },
@@ -2707,6 +2691,22 @@
       "duration_ms": 240072,
       "name": "Ojos Caf\u00e9s",
       "url": "https://open.spotify.com/track/7CfOeohPQbV2tLBafGGnnv"
+    },
+    {
+      "added_at": "2021-12-06 21:30:06",
+      "album": {
+        "name": "Yours Truly (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2bKgvvT3ZCOW8CRpbU0Hdt"
+      },
+      "artists": [
+        {
+          "name": "Sublime With Rome",
+          "url": "https://open.spotify.com/artist/3XXrhkZKSGd3CUJQFnx5tQ"
+        }
+      ],
+      "duration_ms": 266386,
+      "name": "Murdera",
+      "url": "https://open.spotify.com/track/6ZForb50RiJaON05cHNcDB"
     },
     {
       "added_at": "2021-12-06 21:30:06",

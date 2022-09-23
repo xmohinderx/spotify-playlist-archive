@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6YTj07PjLwE.md) - [plain]
 
 > Any songs you forgot existed? Let's go deep into 90s rock! Cover: Pixies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,772 likes - 200 songs - 14 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,880 likes - 200 songs - 14 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,19 +51,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6YTj07PjLwE.md) - [plain]
 | 41 | [Stay \(Faraway, So Close!\)](https://open.spotify.com/track/1E1ylgIWTW2yE0glywYLb6) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Zooropa](https://open.spotify.com/album/0IYjMBLA9PgtXyRPlLmTDE) | 4:58 |
 | 42 | [Black Balloon](https://open.spotify.com/track/5zmaypMaWb21FUGBxbw8hT) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Dizzy up the Girl](https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T) | 4:09 |
 | 43 | [Head over Feet \- 2015 Remaster](https://open.spotify.com/track/735rjks7kQgWCjTQlIHMuH) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Jagged Little Pill \(2015 Remaster\)](https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA) | 4:27 |
-| 44 | [Breakout](https://open.spotify.com/track/2kh0u2d2YKQ7BCqeLPdHk6) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [There Is Nothing Left To Lose](https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY) | 3:20 |
-| 45 | [Pure Morning](https://open.spotify.com/track/1TqmZVIyeD4aN4Wa0wbnfy) | [Placebo](https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB) | [Without You I'm Nothing](https://open.spotify.com/album/2cDDG5rnwEgjNL8Q0cO9Zd) | 4:14 |
-| 46 | [Vasoline \- 2019 Remaster](https://open.spotify.com/track/4fjsOdrWMaKf70x21h5XbX) | [Stone Temple Pilots](https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z) | [Purple \(2019 Remaster\)](https://open.spotify.com/album/57lcTrUlYgfMIPvBUsVU6h) | 2:56 |
+| 44 | [Vasoline \- 2019 Remaster](https://open.spotify.com/track/4fjsOdrWMaKf70x21h5XbX) | [Stone Temple Pilots](https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z) | [Purple \(2019 Remaster\)](https://open.spotify.com/album/57lcTrUlYgfMIPvBUsVU6h) | 2:56 |
+| 45 | [Breakout](https://open.spotify.com/track/2kh0u2d2YKQ7BCqeLPdHk6) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [There Is Nothing Left To Lose](https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY) | 3:20 |
+| 46 | [Pure Morning](https://open.spotify.com/track/1TqmZVIyeD4aN4Wa0wbnfy) | [Placebo](https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB) | [Without You I'm Nothing](https://open.spotify.com/album/2cDDG5rnwEgjNL8Q0cO9Zd) | 4:14 |
 | 47 | [Love Spreads](https://open.spotify.com/track/6JvEXmRh3l2acBzvqavgT9) | [The Stone Roses](https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d) | [Second Coming](https://open.spotify.com/album/3DE7aixVSE6DZ6ALYIztT0) | 5:47 |
 | 48 | [Spiderwebs](https://open.spotify.com/track/4ZD6SiaJi75smnel0d7jl3) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Tragic Kingdom](https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8) | 4:26 |
 | 49 | [Livin' On The Edge](https://open.spotify.com/track/4avSaixVwu8uqfSs7zgoj3) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Get A Grip](https://open.spotify.com/album/1tuM8yBePaekEruGsH2J79) | 6:20 |
-| 50 | [This Is a Call](https://open.spotify.com/track/2wO8aOvN1ogLy1N8XT1WJE) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Foo Fighters](https://open.spotify.com/album/4EnNuo8fG7dMoxMefbApRY) | 3:53 |
-| 51 | [Rusty Cage \- Remastered](https://open.spotify.com/track/6hqIXyo6GxydAnoI8XeIrV) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Badmotorfinger \(25th Anniversary Remaster\)](https://open.spotify.com/album/2W6MaUiInBkna5DfBES4E3) | 4:26 |
-| 52 | [Bang Bang](https://open.spotify.com/track/2yGoiZes2YcueNA4nGDmdS) | [DISPATCH](https://open.spotify.com/artist/6v4jPZO3UIDNJIgdxRxtr9) | [Bang Bang](https://open.spotify.com/album/0tN2TkilPoLmqN21UJBC77) | 4:27 |
-| 53 | [Stellar](https://open.spotify.com/track/6ISuXA3UCPMtsyEUGUTAyn) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [Make Yourself](https://open.spotify.com/album/2i6nd4FV6y7K9fln6eelmR) | 3:20 |
+| 50 | [Rusty Cage \- Remastered](https://open.spotify.com/track/6hqIXyo6GxydAnoI8XeIrV) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Badmotorfinger \(25th Anniversary Remaster\)](https://open.spotify.com/album/2W6MaUiInBkna5DfBES4E3) | 4:26 |
+| 51 | [Bang Bang](https://open.spotify.com/track/2yGoiZes2YcueNA4nGDmdS) | [DISPATCH](https://open.spotify.com/artist/6v4jPZO3UIDNJIgdxRxtr9) | [Bang Bang](https://open.spotify.com/album/0tN2TkilPoLmqN21UJBC77) | 4:27 |
+| 52 | [Stellar](https://open.spotify.com/track/6ISuXA3UCPMtsyEUGUTAyn) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [Make Yourself](https://open.spotify.com/album/2i6nd4FV6y7K9fln6eelmR) | 3:20 |
+| 53 | [This Is a Call](https://open.spotify.com/track/2wO8aOvN1ogLy1N8XT1WJE) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Foo Fighters](https://open.spotify.com/album/4EnNuo8fG7dMoxMefbApRY) | 3:53 |
 | 54 | [Comedown](https://open.spotify.com/track/2ox1STg6AbcEHoHWlFtFwr) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa) | [Sixteen Stone \(Remastered\)](https://open.spotify.com/album/5IJm0boSQuEBLiYNZJKV2Y) | 5:26 |
-| 55 | [My Name Is Jonas](https://open.spotify.com/track/4nzyOwogJuWn1s6QuGFZ6w) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q) | 3:24 |
-| 56 | [Trippin' on a Hole in a Paper Heart](https://open.spotify.com/track/2gdtLnVGGg80Kj9GiqP0vH) | [Stone Temple Pilots](https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z) | [Tiny Music...Songs from the Vatican Gift Shop](https://open.spotify.com/album/2JJEIN6LvQJQTJDfnYdDAe) | 2:55 |
+| 55 | [Trippin' on a Hole in a Paper Heart](https://open.spotify.com/track/2gdtLnVGGg80Kj9GiqP0vH) | [Stone Temple Pilots](https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z) | [Tiny Music...Songs from the Vatican Gift Shop](https://open.spotify.com/album/2JJEIN6LvQJQTJDfnYdDAe) | 2:55 |
+| 56 | [My Name Is Jonas](https://open.spotify.com/track/4nzyOwogJuWn1s6QuGFZ6w) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q) | 3:24 |
 | 57 | [Sonnet](https://open.spotify.com/track/6OgWHP8rRXiq7VMaryVaVo) | [The Verve](https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84) | [Urban Hymns \(Remastered 2016\)](https://open.spotify.com/album/52AeC4gwbxDfFlLHgK1ByD) | 4:21 |
 | 58 | [Anybody Seen My Baby? \- Remastered](https://open.spotify.com/track/4tXr9v3K7nWW1aebWqR1B7) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Bridges To Babylon \(Remastered\)](https://open.spotify.com/album/6lbQFxYqubkf4GbEtXARE7) | 4:31 |
 | 59 | [I Stay Away](https://open.spotify.com/track/6HnZsLUDrG3HTSbh8sq2u3) | [Alice In Chains](https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL) | [Jar Of Flies](https://open.spotify.com/album/4FCoFSNIFhK36holxHWCnc) | 4:14 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6YTj07PjLwE.md) - [plain]
 | 199 | [Tourniquet](https://open.spotify.com/track/2YGwSRjcY4Hjz6fktW9619) | [Marilyn Manson](https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj) | [Antichrist Superstar](https://open.spotify.com/album/7APnZJwayR3lH9aUDPDYQB) | 4:29 |
 | 200 | [A Little Respect](https://open.spotify.com/track/5tN541sO7fKaxdQx1BWfRh) | [Wheatus](https://open.spotify.com/artist/4mYFgEjpQT4IKOrjOUKyXu) | [Wheatus](https://open.spotify.com/album/3xmKWmqJFoXS22tePO3mgd) | 3:19 |
 
-Snapshot ID: `MTY1Mzg5NjM4MSwwMDAwMDAwMGZmNmE1NDcyMjZmYTY0MzE2YzI4NTNkYTMzOWI1NTBk`
+Snapshot ID: `MTY1Mzg5NjM4MSwwMDAwMDAwMDY1MWYxOWZjZjQ3Y2M3NGI3M2VhMTZlOTA2OTQ5OGQz`

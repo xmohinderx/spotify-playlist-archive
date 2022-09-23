@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOaP4H0w5b0.md) - [plain]
 
 > Want some metal? Better to start with the essentials\. Cover: Metallica
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,558,547 likes - 100 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,559,044 likes - 100 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOaP4H0w5b0.md) - [plain]
 | 21 | [Du hast](https://open.spotify.com/track/6uEvFCaOqXyEidoO8BZbyh) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Sehnsucht](https://open.spotify.com/album/0C9p8YMtbdOkcXPPlEmZvY) | 3:54 |
 | 22 | [Cowboys from Hell](https://open.spotify.com/track/2SgbR6ttzoNlCRGQOKjrop) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Cowboys from Hell](https://open.spotify.com/album/5szY4sBOSD6IFjFN1RtWTe) | 4:03 |
 | 23 | [Bad Company](https://open.spotify.com/track/7uIF6RDrW2PwvvYEMkanr8) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [War Is the Answer](https://open.spotify.com/album/7gjRHt4PuiDoMZmaojmTAf) | 4:22 |
-| 24 | [School's Out](https://open.spotify.com/track/5Z8EDau8uNcP1E8JvmfkZe) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [School's Out](https://open.spotify.com/album/0zKjnOsXxs63unPR6TWoHq) | 3:30 |
-| 25 | [Thunder Kiss '65](https://open.spotify.com/track/4tvBoSWeIW0bjhKNre5mod) | [White Zombie](https://open.spotify.com/artist/0CF71zaDOJWCynIkW9bSK8) | [La Sexorcisto: Devil Music Volume 1](https://open.spotify.com/album/6Cvv0qNSdZNf9o0j8EohoD) | 3:54 |
+| 24 | [Thunder Kiss '65](https://open.spotify.com/track/4tvBoSWeIW0bjhKNre5mod) | [White Zombie](https://open.spotify.com/artist/0CF71zaDOJWCynIkW9bSK8) | [La Sexorcisto: Devil Music Volume 1](https://open.spotify.com/album/6Cvv0qNSdZNf9o0j8EohoD) | 3:54 |
+| 25 | [School's Out](https://open.spotify.com/track/5Z8EDau8uNcP1E8JvmfkZe) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [School's Out](https://open.spotify.com/album/0zKjnOsXxs63unPR6TWoHq) | 3:30 |
 | 26 | [Shout At The Devil](https://open.spotify.com/track/6VZivrPxu9MJ5rIPIERg56) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Shout At The Devil](https://open.spotify.com/album/7xuz2r1QalMeEVkYuDfPgY) | 3:14 |
 | 27 | [No One Like You](https://open.spotify.com/track/26fZwf1ImE4aUJ4XaqOkUg) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Blackout](https://open.spotify.com/album/6x75r5C54z1quun86Bbqbr) | 3:57 |
 | 28 | [A Warrior's Call](https://open.spotify.com/track/4o6k1XHlrIZay8v1m5VU83) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Beyond Hell / Above Heaven](https://open.spotify.com/album/3EwdtOKxIBnC8jJwsOvy2K) | 4:23 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOaP4H0w5b0.md) - [plain]
 | 62 | [Are You Dead Yet?](https://open.spotify.com/track/2T2vudIHfVMA5ychWTU3KA) | [Children Of Bodom](https://open.spotify.com/artist/1xUhNgw4eJDZfvumIpcz1B) | [Are You Dead Yet?](https://open.spotify.com/album/4JtmC1dly1OaggJbhdYAyZ) | 3:54 |
 | 63 | [Madhouse](https://open.spotify.com/track/76BYv24CcZt2u94JRjmATX) | [Anthrax](https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP) | [Spreading The Disease](https://open.spotify.com/album/0qEFMrunmeRHqzI9xAnu9L) | 4:19 |
 | 64 | [Carrion](https://open.spotify.com/track/0xfWKcNu13xxXQ2GT0P09M) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Horizons \(Deluxe Edition\)](https://open.spotify.com/album/4GnybptVxP8FoxVfnSjMqM) | 3:07 |
-| 65 | [War Eternal](https://open.spotify.com/track/0WZZENH0kt3O2cBE8q5IRq) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [War Eternal](https://open.spotify.com/album/3qzrNVuUyOJxfzMYRCh5qN) | 4:16 |
-| 66 | [Ritual](https://open.spotify.com/track/5ZiTzbMB53mIiP3I4uQCmt) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Opus Eponymous](https://open.spotify.com/album/7xusHmkJUWt1XqPrM3pC9U) | 4:28 |
+| 65 | [Ritual](https://open.spotify.com/track/5ZiTzbMB53mIiP3I4uQCmt) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Opus Eponymous](https://open.spotify.com/album/7xusHmkJUWt1XqPrM3pC9U) | 4:28 |
+| 66 | [War Eternal](https://open.spotify.com/track/0WZZENH0kt3O2cBE8q5IRq) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [War Eternal](https://open.spotify.com/album/3qzrNVuUyOJxfzMYRCh5qN) | 4:16 |
 | 67 | [You Only Live Once](https://open.spotify.com/track/4Ku3OOZWR4tpKNCVFXILY8) | [Suicide Silence](https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc) | [The Black Crown](https://open.spotify.com/album/3oJKuFPVZTSeNc8G4UYV4L) | 3:12 |
 | 68 | [In Waves](https://open.spotify.com/track/1yYr4D1KjhhyDD5bZIiFQy) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [In Waves \(Special Edition\)](https://open.spotify.com/album/2p1voQHdNSdy596VRDtdji) | 5:02 |
 | 69 | [Black No\. 1 \(Little Miss Scare \-All\)](https://open.spotify.com/track/710B9xFjNOisQtKtppZE9p) | [Type O Negative](https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco) | [Bloody Kisses \(Top Shelf Edition\)](https://open.spotify.com/album/22PP61GmfGKAhIQo2ZSRxG) | 11:15 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOaP4H0w5b0.md) - [plain]
 | 72 | [Kings of Metal](https://open.spotify.com/track/28TcG73tbc4iGrGBFjiBnR) | [Manowar](https://open.spotify.com/artist/4CzUzn54Cp9TQr6a7JIlMZ) | [Kings of Metal](https://open.spotify.com/album/7lZkD6ntnGAhmWowltbOYB) | 3:43 |
 | 73 | [Hammer Smashed Face](https://open.spotify.com/track/4pFC6tuWErxbO61oFFq3BQ) | [Cannibal Corpse](https://open.spotify.com/artist/0yLwGBQiBqhXOvmTfH2A7n) | [Tomb Of The Mutilated](https://open.spotify.com/album/2yPAe2RJCfrfV97c8FKKjb) | 4:02 |
 | 74 | [Heaven and Hell \- 2008 Remaster](https://open.spotify.com/track/3Jl5GohfNwozDmpzmQBLDI) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Heaven and Hell \(2008 Remaster\)](https://open.spotify.com/album/1Wk2g7TV0adbUZ53ruvIdL) | 6:59 |
-| 75 | [Panic Attack](https://open.spotify.com/track/5axwj3ekvw85989jjO8Ov8) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [Octavarium](https://open.spotify.com/album/4v6kYkn7mYjlWS9vONmmCP) | 8:13 |
-| 76 | [Wild Eyes](https://open.spotify.com/track/4G8EhnfKvBQVlOJ4xXCHpQ) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Atlas](https://open.spotify.com/album/0bdtf7LHukCZbCyKMYdHXP) | 4:18 |
+| 75 | [Wild Eyes](https://open.spotify.com/track/4G8EhnfKvBQVlOJ4xXCHpQ) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Atlas](https://open.spotify.com/album/0bdtf7LHukCZbCyKMYdHXP) | 4:18 |
+| 76 | [Panic Attack](https://open.spotify.com/track/5axwj3ekvw85989jjO8Ov8) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [Octavarium](https://open.spotify.com/album/4v6kYkn7mYjlWS9vONmmCP) | 8:13 |
 | 77 | [L'enfant sauvage](https://open.spotify.com/track/4PWxt9Fy949kUtkEi2GI5V) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [L'Enfant Sauvage \(Special Edition\)](https://open.spotify.com/album/5dxqD5Kc6cRRi3rErmDfXG) | 4:17 |
 | 78 | [Snap Your Fingers, Snap Your Neck](https://open.spotify.com/track/7hgtn706RqLE5q1mWe8aQx) | [Prong](https://open.spotify.com/artist/6SER9tY2pDIDVWVf5Ql97B) | [Cleansing](https://open.spotify.com/album/1RmsgRJnBFyRMAVl1NW9pO) | 4:11 |
 | 79 | [Davidian](https://open.spotify.com/track/3qHlBxD3acw5nrl7Padt0v) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Burn My Eyes](https://open.spotify.com/album/4S4WHsBRNEIha796lnU8NJ) | 4:56 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOaP4H0w5b0.md) - [plain]
 | 99 | [Brotherhood of the Snake](https://open.spotify.com/track/4VcN84ZdC7doe4yoIarJUA) | [Testament](https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg) | [Brotherhood of the Snake](https://open.spotify.com/album/70oAOzrUemHFWB8VKToEtu) | 4:13 |
 | 100 | [Replica](https://open.spotify.com/track/5YeQoMo5py82YmqXMTjM5S) | [Fear Factory](https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX) | [Demanufacture \(Special Edition\)](https://open.spotify.com/album/6GPHWrMQG5Ns8O3aQKMro2) | 3:57 |
 
-Snapshot ID: `MTY2MTU0MDIxNCwwMDAwMDAwMDc5NjZjMTIyM2VhYTBjMzZhYjQ2MzI3YTczOWMwOGYy`
+Snapshot ID: `MTY2MTU0MDIxNCwwMDAwMDAwMDg3YmU2NmM4M2ViNmFlY2FiOWY2NzM5NjVhZDhhYmZj`

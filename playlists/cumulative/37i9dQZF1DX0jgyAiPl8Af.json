@@ -131,7 +131,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 142325,
       "name": "Across The Fields",
       "url": "https://open.spotify.com/track/7wCRPgEya03UoasCTb5BlA"
@@ -509,7 +509,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 171705,
       "name": "Bilbao",
       "url": "https://open.spotify.com/track/7DDKbHVAJqh0AjBUDs2nvu"
@@ -1705,7 +1705,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 123000,
       "name": "Down Days",
       "url": "https://open.spotify.com/track/2QZz9zVPT34ekeWpLgstlQ"
@@ -3920,6 +3920,24 @@
     },
     {
       "album": {
+        "name": "Misteriosa",
+        "url": "https://open.spotify.com/album/6e7EoYmMdJ7Wo5ZVUu9N1e"
+      },
+      "artists": [
+        {
+          "name": "Tor Dahl",
+          "url": "https://open.spotify.com/artist/5GfnXcZhvTgsNpj5U1CkBU"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158400,
+      "name": "Misteriosa",
+      "url": "https://open.spotify.com/track/4m8RD2JvsaH13RwZd9EmGd"
+    },
+    {
+      "album": {
         "name": "Misty Midnight",
         "url": "https://open.spotify.com/album/7JGiEcxXiPHjLEHH0eMzn1"
       },
@@ -4021,7 +4039,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 295133,
       "name": "Moon River",
       "url": "https://open.spotify.com/track/68TB2FZJMOpnb7ZCypjxOv"
@@ -4298,6 +4316,24 @@
     },
     {
       "album": {
+        "name": "Night in Sevilla",
+        "url": "https://open.spotify.com/album/779NwwOLuonCzVO6gQ7uNi"
+      },
+      "artists": [
+        {
+          "name": "Riley Howe",
+          "url": "https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163597,
+      "name": "Night in Sevilla",
+      "url": "https://open.spotify.com/track/3MeoEsS5PQ2Jh6ppvYOI9g"
+    },
+    {
+      "album": {
         "name": "Night Sky",
         "url": "https://open.spotify.com/album/2rcCBSP6wwWYfcBqTeHj6V"
       },
@@ -4529,6 +4565,24 @@
       "duration_ms": 159735,
       "name": "Olomana",
       "url": "https://open.spotify.com/track/4E0pCVwsSnYcxcKpp0wf8Q"
+    },
+    {
+      "album": {
+        "name": "Onyx",
+        "url": "https://open.spotify.com/album/3xxdEs2WfbfsP14dXWdzEN"
+      },
+      "artists": [
+        {
+          "name": "Esmeralda Torres",
+          "url": "https://open.spotify.com/artist/3bT8Meiw5qtuGhtYozTWOp"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165577,
+      "name": "Onyx",
+      "url": "https://open.spotify.com/track/5vPIHZrhWQV4bJvEvMOdwa"
     },
     {
       "album": {
@@ -5450,6 +5504,24 @@
     },
     {
       "album": {
+        "name": "Settignano",
+        "url": "https://open.spotify.com/album/4v7IruhzOzzXcqIewFc5Nh"
+      },
+      "artists": [
+        {
+          "name": "Amma Lerato",
+          "url": "https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118384,
+      "name": "Settignano",
+      "url": "https://open.spotify.com/track/5b1OOTi5NXuFC06YZyuXK3"
+    },
+    {
+      "album": {
         "name": "Seven Hills of Rome",
         "url": "https://open.spotify.com/album/5oUkh52zA4MoZQ5G1Zw6y1"
       },
@@ -6109,7 +6181,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 168500,
       "name": "The Bird's Nest",
       "url": "https://open.spotify.com/track/1tY1E5TeQj4kcZVQQZLUqx"
@@ -6203,6 +6275,24 @@
       "duration_ms": 253586,
       "name": "The Pioneers",
       "url": "https://open.spotify.com/track/6cuKQazicx5r7o5NQEp1uL"
+    },
+    {
+      "album": {
+        "name": "The Sun Terrace",
+        "url": "https://open.spotify.com/album/0nxokw3k5JfIzilT83AeN3"
+      },
+      "artists": [
+        {
+          "name": "Laura Di Vaio",
+          "url": "https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141160,
+      "name": "The Sun Terrace",
+      "url": "https://open.spotify.com/track/03DifiRgvdRwUsGhcuCtAG"
     },
     {
       "album": {
@@ -6441,6 +6531,24 @@
       "duration_ms": 141271,
       "name": "Vanja",
       "url": "https://open.spotify.com/track/7lyDrjn4e8BCszy5o7tNuk"
+    },
+    {
+      "album": {
+        "name": "Veracity",
+        "url": "https://open.spotify.com/album/5mpEiRXZhlx8DHuoDbdr6u"
+      },
+      "artists": [
+        {
+          "name": "Adrian Strohm",
+          "url": "https://open.spotify.com/artist/1Rs3hpkbsgsgFiavB9Id1i"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102095,
+      "name": "Veracity",
+      "url": "https://open.spotify.com/track/49RUCdpg6fvClNHxI6HB3x"
     },
     {
       "album": {
@@ -6815,7 +6923,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 183121,
       "name": "Zirbenwald",
       "url": "https://open.spotify.com/track/1gdYPWZy8U0ucfHLRLx7HQ"

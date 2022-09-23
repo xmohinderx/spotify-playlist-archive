@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYp0EKplWoKi.md) - [plain]
 
 > La esquina donde la Música Mexicana se junta con los ritmos urbanos\. Luis R Conriquez, Tony Aguirre, Rod Contreras & Jay Silva en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,537 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,682 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

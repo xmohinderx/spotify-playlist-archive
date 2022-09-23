@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVl5gPCRkquk.md) - [plain]
 
 > Channel some chilled\-out back yard vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 852,123 likes - 100 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 852,170 likes - 100 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVl5gPCRkquk.md) - [plain]
 | 60 | [As It Is](https://open.spotify.com/track/3nqhacrhmERFCAO6YTCAMB) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Because I Wanted You to Know](https://open.spotify.com/album/4t4kHyQ0DvmfYYHJITb9l8) | 3:04 |
 | 61 | [Need You](https://open.spotify.com/track/1i9yDwcpeOaM96zODWnqZn) | [Penny and Sparrow](https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur) | [Need You](https://open.spotify.com/album/5AmqUjMfw0VoXNaP5VgFQQ) | 3:09 |
 | 62 | [Without Your Love](https://open.spotify.com/track/5g8xjUhQ3OwOwIziC6hBtn) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy), [Julia Stone](https://open.spotify.com/artist/4gZRt9wlRx1IsxT9glJdrc) | [Roses](https://open.spotify.com/album/6w6TexLleVpQxVzOKOBaOD) | 3:30 |
-| 63 | [Witness Trees](https://open.spotify.com/track/5QENB0ad34Y0Fs2j7DoOXI) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [Witness Trees](https://open.spotify.com/album/5R2eVRMY8SSRPiq8EV4urI) | 2:40 |
-| 64 | [Lucid Lucy](https://open.spotify.com/track/6Xw7qv0H03e7bPBIH6tMQQ) | [Sunny War](https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8) | [Simple Syrup](https://open.spotify.com/album/1WO7SNNBa9NddGXi3UDNjF) | 3:37 |
+| 63 | [Lucid Lucy](https://open.spotify.com/track/6Xw7qv0H03e7bPBIH6tMQQ) | [Sunny War](https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8) | [Simple Syrup](https://open.spotify.com/album/1WO7SNNBa9NddGXi3UDNjF) | 3:37 |
+| 64 | [Witness Trees](https://open.spotify.com/track/5QENB0ad34Y0Fs2j7DoOXI) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [Witness Trees](https://open.spotify.com/album/5R2eVRMY8SSRPiq8EV4urI) | 2:40 |
 | 65 | [Featherweight](https://open.spotify.com/track/3ir3Eoj0pi0vlhqunNSyK3) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Shore](https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3) | 3:50 |
 | 66 | [Latter Days \(feat\. Anaïs Mitchell\)](https://open.spotify.com/track/7wOdJjz1WHJiBdzKSZWszu) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [How Long Do You Think It's Gonna Last?](https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T) | 3:38 |
 | 67 | [Lost In The Light](https://open.spotify.com/track/25J4d78ESH2MgAJoIakB8O) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Barchords](https://open.spotify.com/album/753yeghJKIjYDaLbJB2ZW9) | 3:56 |
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVl5gPCRkquk.md) - [plain]
 | 89 | [When I Say That I Love You](https://open.spotify.com/track/1L5jdavZ7YMWIFafo1gyZD) | [Gabe Goodman](https://open.spotify.com/artist/3ak5fTKu5X8h4yhvf5ThmF) | [When I Say That I Love You](https://open.spotify.com/album/0cPJV0lQbAtuMXeFK3a784) | 2:57 |
 | 90 | [Don't Tell Our Friends About Me](https://open.spotify.com/track/4ktZEbOKEnx5svwITaKwqK) | [Blake Mills](https://open.spotify.com/artist/4LhV33vJvXmFGSM3m5RzUR) | [Heigh Ho](https://open.spotify.com/album/05oav7mCaoTnTpuIFSv7T6) | 5:19 |
 | 91 | [cigarette holes](https://open.spotify.com/track/4WxxPiwiWxrhnJPnsNoOLO) | [Peter Raffoul](https://open.spotify.com/artist/57Y46IQXUoP3ytP9Wm2xRM) | [Bad For Me](https://open.spotify.com/album/76v1LQXUBTB1tmqYrTohmv) | 2:26 |
-| 92 | [Going Where The Lonely Go](https://open.spotify.com/track/4MTpZs4wIJ4SpqMkh0CMuJ) | [Robert Plant](https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Raise The Roof](https://open.spotify.com/album/5CQ3SOj1ZgudhbsTLcTTI2) | 4:10 |
-| 93 | [Sleepless in Seattle](https://open.spotify.com/track/1JEjCzwE9viGiRyewkcWy9) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi) | [Sleepless in Seattle](https://open.spotify.com/album/1LY1O1GGbuH89FpOPqWaJL) | 4:00 |
+| 92 | [Sleepless in Seattle](https://open.spotify.com/track/1JEjCzwE9viGiRyewkcWy9) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi) | [Sleepless in Seattle](https://open.spotify.com/album/1LY1O1GGbuH89FpOPqWaJL) | 4:00 |
+| 93 | [Going Where The Lonely Go](https://open.spotify.com/track/4MTpZs4wIJ4SpqMkh0CMuJ) | [Robert Plant](https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Raise The Roof](https://open.spotify.com/album/5CQ3SOj1ZgudhbsTLcTTI2) | 4:10 |
 | 94 | [Jah Werx](https://open.spotify.com/track/0epaptkWK7BHkHJheQJtZ4) | [Susto](https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt) | [& I'm Fine Today](https://open.spotify.com/album/5BMjWYvNyJDfdW5Gzfyc21) | 3:03 |
 | 95 | [Salt](https://open.spotify.com/track/7xD1cDSRz033zGBBTW6z2q) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [Motivational Speaking](https://open.spotify.com/album/0XMWbprQxPKfQKU3i8AyAl) | 4:02 |
 | 96 | [Song for Nick Drake](https://open.spotify.com/track/1ZMpeW7DIRIpWCpFxAFuf6) | [Skullcrusher](https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD) | [Song for Nick Drake](https://open.spotify.com/album/0tD7F0mOkgQliDESDRBLey) | 2:57 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVl5gPCRkquk.md) - [plain]
 | 99 | [Seed of Joy](https://open.spotify.com/track/6kUQwpX1ogl5inar6fE3bx) | [Marc Scibilia](https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77), [Brian Fallon](https://open.spotify.com/artist/3JlzEFwarS8ZcCGNFy11y4) | [Seed of Joy](https://open.spotify.com/album/4ivyT3pP5juItg8Yblaqfn) | 3:30 |
 | 100 | [Cool Jam](https://open.spotify.com/track/7uMh3fweKrgDOtnMoxp3O4) | [Houndmouth](https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5) | [Good For You](https://open.spotify.com/album/7pDkPWgwrc2weqXdL0ID6m) | 3:26 |
 
-Snapshot ID: `MTY2MjQ4NzE5MCwwMDAwMDAwMDgxMzE4MWRlYWMzNjYwMmNmN2I1ZTZjZTE1NmNmYjMx`
+Snapshot ID: `MTY2MjQ4NzE5MCwwMDAwMDAwMDBkNTA3MThkMzNmMDViYWY0OGNhOGQ0ZDAyOWQ2YjZl`

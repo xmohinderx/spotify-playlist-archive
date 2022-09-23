@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [2gether](https://open.spotify.com/track/4dzBqc5t2GWJKpGqUoTbrU) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [2gether](https://open.spotify.com/album/3DG2mNSbwGZjzSJxnpM1Qf) | 3:11 | 2022-02-10 |  |
+| [2gether](https://open.spotify.com/track/4dzBqc5t2GWJKpGqUoTbrU) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Gretel Hänlyn](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [2gether](https://open.spotify.com/album/3DG2mNSbwGZjzSJxnpM1Qf) | 3:11 | 2022-02-10 |  |
 | [A\-O\-K](https://open.spotify.com/track/1sx0XsWUusUoPstbvokZjP) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [TV](https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR) | 2:53 | 2022-02-10 |  |
 | [About U](https://open.spotify.com/track/5YbQiHdLvjDYxoycsViPXM) | [Cabu](https://open.spotify.com/artist/44hPDOKyTwkFxOL08UzNQE), [Kamaliza](https://open.spotify.com/artist/6YUQJ6WF4FGDqqBQ1LTjL6) | [So Far to Go](https://open.spotify.com/album/5VhZrgglg0LySUDX5qvLEJ) | 2:57 | 2022-02-10 |  |
 | [Air](https://open.spotify.com/track/3bJJu6tjuKlSGD8vbwJ7FB) | [Phebe Starr](https://open.spotify.com/artist/5buTKeJ19EBEcckqTe0XqP) | [Air](https://open.spotify.com/album/4Fz2th3B672VGj7wm7904J) | 3:48 | 2022-02-10 |  |

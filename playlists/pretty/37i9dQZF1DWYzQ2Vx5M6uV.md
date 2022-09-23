@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 
 > Bringing you the hottest collaborations between Afro & Latin artists\. Cover: Ir Sais, Manuel Turizo
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,319 likes - 70 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,360 likes - 70 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 | 33 | [Tayari](https://open.spotify.com/track/32YvTUCswxgGAiIzUp4zLy) | [Serge Ibaka](https://open.spotify.com/artist/4fDx6CTJ4KWhnAg6TvwmWe), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Mohombi](https://open.spotify.com/artist/37GUqxafAvAKGMZbXCUnmr) | [Tayari](https://open.spotify.com/album/5xDq1QkYliIl4gEuTwR52U) | 2:38 |
 | 34 | [MOSLADO](https://open.spotify.com/track/3n8cVzL2mibNoBC6aR5lo0) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [WONDALAND](https://open.spotify.com/album/2a4aRlgreoL2pMyh0fLczw) | 3:26 |
 | 35 | [Uchi Wala](https://open.spotify.com/track/1RKqrHsNqB9pECYucfOB61) | [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [TumbaGobierno](https://open.spotify.com/album/3O2LbnoZYKJ0EaDAHpBfIr) | 3:12 |
-| 36 | [Like a Queen \- Remix](https://open.spotify.com/track/34CKU5kPRpvJPCqBZ5224w) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ), [Said Palacios](https://open.spotify.com/artist/2IYe9gw3UV7STpcsbbrsvH) | [Like a Queen \(Remix\)](https://open.spotify.com/album/7oeAp9HBcnrktbdwe22fgK) | 2:38 |
-| 37 | [Love Language](https://open.spotify.com/track/7Jqa7kWKN4d2Fn7FESctLz) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Mayra Andrade](https://open.spotify.com/artist/7uriYlc9ETgOg8VPFbdnbE) | [Sounds of My World](https://open.spotify.com/album/2Mju5QRHhBPkUQajYKTUSH) | 3:24 |
+| 36 | [Love Language](https://open.spotify.com/track/7Jqa7kWKN4d2Fn7FESctLz) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Mayra Andrade](https://open.spotify.com/artist/7uriYlc9ETgOg8VPFbdnbE) | [Sounds of My World](https://open.spotify.com/album/2Mju5QRHhBPkUQajYKTUSH) | 3:24 |
+| 37 | [Like a Queen \- Remix](https://open.spotify.com/track/34CKU5kPRpvJPCqBZ5224w) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ), [Said Palacios](https://open.spotify.com/artist/2IYe9gw3UV7STpcsbbrsvH) | [Like a Queen \(Remix\)](https://open.spotify.com/album/7oeAp9HBcnrktbdwe22fgK) | 2:38 |
 | 38 | [Spanglish \(with Myke Towers\)](https://open.spotify.com/track/6GlNseuKrVgGyieWH5jUIn) | [J.I the Prince of N.Y](https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Spanglish \(with Myke Towers\)](https://open.spotify.com/album/0hZv0L2ymUsqCPVOXzrZgD) | 3:11 |
 | 39 | [Mimosas \- Remix](https://open.spotify.com/track/07grlLnIM285o7Y69mge5L) | [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [Mimosas \(Remix\)](https://open.spotify.com/album/1xsyvauPdMlbEoqnJAAsZ9) | 4:33 |
 | 40 | [No Wahala \- Latin Remix](https://open.spotify.com/track/2wzmZNutkmbhv0rNCHvPz4) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb), [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910) | [No Wahala \(Latin Remix\)](https://open.spotify.com/album/4QGp54NmocX8ptDWOJrRTz) | 2:37 |
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 | 67 | [LOML \(feat\. Olamide\)](https://open.spotify.com/track/0FZlLFD2yQLxVD4IoiQMFm) | [Cheque](https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [LOML \(feat\. Olamide\)](https://open.spotify.com/album/5ti4HTub24sdxO98BEy0LH) | 3:16 |
 | 68 | [Nightshift](https://open.spotify.com/track/0X48LLpHYxS1u4JcBeq9m3) | [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul), [Breakfast n Vegas](https://open.spotify.com/artist/0iwRZ9bQya1TDUAk5qN5YX) | [Nightshift](https://open.spotify.com/album/4giogCe206BY2QoMoqS1Vw) | 2:58 |
 | 69 | [Poporó](https://open.spotify.com/track/5cTwelN24Ur09iRRqy43Oz) | [Preto Show](https://open.spotify.com/artist/4YlvKlWWHJl1TuXvrk94OW), [Teo No Beat](https://open.spotify.com/artist/4HLRxCBJE5n6Mm0sTzUEv2) | [Poporó](https://open.spotify.com/album/3JN06AJeeSNLxhpjSR4pLx) | 2:49 |
-| 70 | [Don't Go \(feat\. Becky G and Mr\. Eazi\)](https://open.spotify.com/track/3owxTeAZ7UXqQjeGloHGKg) | [Vice](https://open.spotify.com/artist/0q4NrXqJnc367PieejuROJ), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Don't Go \(feat\. Becky G and Mr\. Eazi\)](https://open.spotify.com/album/2aK4sd781oVE0mFnHdrtZU) | 3:23 |
+| 70 | [Te Amo](https://open.spotify.com/track/0GsPeFVhoWKJljDoV1pPnx) | [Topo La Maskara](https://open.spotify.com/artist/3kgQWNZNpp8d8JQZhuKbPP), [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE), [Yaksta](https://open.spotify.com/artist/5vtwMQzntImyhUesG7tt2n) | [Te Amo](https://open.spotify.com/album/4nGbjxnPJJalt9Q809Oexm) | 3:58 |
 
-Snapshot ID: `MTY2MjQ4MTc1MywwMDAwMDAwMDI3N2M2NjI0NzY4MjdhYjExZjNlZjdhNGM3OGI2NDYx`
+Snapshot ID: `MTY2MjQ4MTc1MywwMDAwMDAwMGQ5ZDRkYzE1NGIzNzQwZWRhMGMxNTg3ZDY0NzUyYWEw`

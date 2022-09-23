@@ -4,7 +4,7 @@
 
 > أفضل أغاني الشيلات التي لا يمكن التوقف عن الاستماع اليها\. الغلاف: عبدالله ال فروان
 
-99 songs - 6 hr 24 min - [published](https://open.spotify.com/playlist/6tQmExXg8DxfrZtMJYW4IZ)
+100 songs - 6 hr 27 min - [published](https://open.spotify.com/playlist/6tQmExXg8DxfrZtMJYW4IZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,8 @@
 | [قسوة زماني](https://open.spotify.com/track/1xS12rwx7LT7wwUDXRtzm1) | [سلطان الفهادي](https://open.spotify.com/artist/2O4xS58wSf51BKELtixdQu), [Abdullah Al Farwan](https://open.spotify.com/artist/7zjX652bWyemXyFFVhBnch) | [قسوة زماني](https://open.spotify.com/album/4NDmtB4PwBPCoFgbInJB9P) | 3:28 | 2022-03-30 | 2022-06-14 |
 | [قوس](https://open.spotify.com/track/0aR1vyY71yHDHAmyz64trE) | [Fahed Bin Fasla](https://open.spotify.com/artist/2CfEAlvAtAJ7MvCQl4mptz) | [قوس](https://open.spotify.com/album/2xE0r2WvbfqGBi5cj47CcB) | 4:01 | 2022-03-30 | 2022-09-18 |
 | [قوس](https://open.spotify.com/track/0rPpEWXp2XynC2CX1jyGk8) | [فهد بن فصلا](https://open.spotify.com/artist/7DSLsFX6LgWuz3bJbPNfWg) | [قوس](https://open.spotify.com/album/79xWt8UkQRMA0rM1z3BAJR) | 4:01 | 2022-08-31 |  |
-| [كلمني](https://open.spotify.com/track/0F66LkXiihhVNKpWSqKgjy) | [بدر العزي](https://open.spotify.com/artist/3JgiCW6Za1Pvg0dnz7xsjy) | [كلمني](https://open.spotify.com/album/1ZrVAcuOnbRQJZFahoALeo) | 3:26 | 2022-03-30 |  |
+| [كلمني](https://open.spotify.com/track/0F66LkXiihhVNKpWSqKgjy) | [بدر العزي](https://open.spotify.com/artist/3JgiCW6Za1Pvg0dnz7xsjy) | [كلمني](https://open.spotify.com/album/1ZrVAcuOnbRQJZFahoALeo) | 3:26 | 2022-03-30 | 2022-09-23 |
+| [كلمني](https://open.spotify.com/track/4SWldutKma2NvU850zeEkd) | [بدر العزي](https://open.spotify.com/artist/3JgiCW6Za1Pvg0dnz7xsjy) | [كلمني](https://open.spotify.com/album/04aRoZxBPhR6aYvTkC7f6F) | 3:26 | 2022-08-31 |  |
 | [كيف حالك](https://open.spotify.com/track/0Ds7FDZmyfC8YGCfwJGYDT) | [Fahed Bin Fasla](https://open.spotify.com/artist/2CfEAlvAtAJ7MvCQl4mptz) | [كيف حالك](https://open.spotify.com/album/49gMMDBmuFcD3Ezn6sfBim) | 3:55 | 2022-03-30 | 2022-06-14 |
 | [لا تعذر بالظروف](https://open.spotify.com/track/2bUNPMLHaWamFhyVis7pLv) | [غريب ال مخلص](https://open.spotify.com/artist/4uiWNcw39r8x9YG4WtoQep) | [لا تعذر بالظروف](https://open.spotify.com/album/2rQqCTHcEvna562Frhio6y) | 4:55 | 2022-03-30 | 2022-09-18 |
 | [لابوه لابو هالحب](https://open.spotify.com/track/1zN9Da544HZd3CwsBzp3RF) | [نادر الشراري](https://open.spotify.com/artist/6TO4yttkJH47KzzQEQXTKm), [عثمان الشراري](https://open.spotify.com/artist/0YsNrTZe7uAUGwdPmLPNgT) | [لابوه لابو هالحب](https://open.spotify.com/album/7q66URiFPZNOTZhHmiAVH7) | 3:35 | 2022-03-30 |  |

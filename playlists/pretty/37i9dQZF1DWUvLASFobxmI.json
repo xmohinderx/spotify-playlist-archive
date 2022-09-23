@@ -1,12 +1,12 @@
 {
   "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. Los Dos Carnales en portada.",
-  "num_followers": 314025,
+  "num_followers": 314399,
   "original_name": "Norte\u00f1o 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzYxNDc1OCwwMDAwMDAwMDY3OTAyMDE0MTc5YzIzMzRhYjJlMDkwZjk4ZTJhYjJj",
+  "snapshot_id": "MTY2MzYxNDc1OCwwMDAwMDAwMGUxM2IzYWY5NmZkNTE5MmQ4NjkxZGY3ZjJmZDQyNzM2",
   "tracks": [
     {
       "added_at": "2022-09-19 19:12:38",
@@ -111,22 +111,6 @@
     {
       "added_at": "2022-08-29 18:05:53",
       "album": {
-        "name": "Borrachera Con Los Honorables (Live)",
-        "url": "https://open.spotify.com/album/6dvpGPwp36h1DYPUbp2dmv"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 188416,
-      "name": "La Boda Del Huitlacoche - Live",
-      "url": "https://open.spotify.com/track/1Tcm4Qi0lbzXofH11MIzJs"
-    },
-    {
-      "added_at": "2022-08-29 18:05:53",
-      "album": {
         "name": "No Se Va",
         "url": "https://open.spotify.com/album/4doKN48F7hHYG3WOujGP0F"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 194019,
       "name": "No Se Va",
       "url": "https://open.spotify.com/track/5TXLMRrIet3CQxkyBZc3yE"
+    },
+    {
+      "added_at": "2022-08-29 18:05:53",
+      "album": {
+        "name": "Borrachera Con Los Honorables (Live)",
+        "url": "https://open.spotify.com/album/6dvpGPwp36h1DYPUbp2dmv"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 188416,
+      "name": "La Boda Del Huitlacoche - Live",
+      "url": "https://open.spotify.com/track/1Tcm4Qi0lbzXofH11MIzJs"
     },
     {
       "added_at": "2022-08-29 18:05:53",
@@ -251,22 +251,6 @@
     {
       "added_at": "2022-08-29 18:05:53",
       "album": {
-        "name": "De Boca En Boca",
-        "url": "https://open.spotify.com/album/01olKgKJsavApHa7QJNT29"
-      },
-      "artists": [
-        {
-          "name": "Grupo Recluta",
-          "url": "https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo"
-        }
-      ],
-      "duration_ms": 187835,
-      "name": "Se Fue La Pantera",
-      "url": "https://open.spotify.com/track/7G3h22znCIwaN07Q2s1ukR"
-    },
-    {
-      "added_at": "2022-08-29 18:05:53",
-      "album": {
         "name": "Vive Y Dejame Vivir",
         "url": "https://open.spotify.com/album/7obSSQZvfcaXki0vc6U847"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 176208,
       "name": "El Vago De Los Nike",
       "url": "https://open.spotify.com/track/3MdhvQ8BprBhd4lYlgtPt2"
+    },
+    {
+      "added_at": "2022-08-29 18:05:53",
+      "album": {
+        "name": "De Boca En Boca",
+        "url": "https://open.spotify.com/album/01olKgKJsavApHa7QJNT29"
+      },
+      "artists": [
+        {
+          "name": "Grupo Recluta",
+          "url": "https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo"
+        }
+      ],
+      "duration_ms": 187835,
+      "name": "Se Fue La Pantera",
+      "url": "https://open.spotify.com/track/7G3h22znCIwaN07Q2s1ukR"
     },
     {
       "added_at": "2022-08-29 18:05:53",
@@ -379,6 +379,22 @@
     {
       "added_at": "2022-08-29 18:05:53",
       "album": {
+        "name": "No",
+        "url": "https://open.spotify.com/album/5pHsYxYOYQux6Ougxe2xnK"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 187240,
+      "name": "No",
+      "url": "https://open.spotify.com/track/024hOV0LnkxDeI8fOtNwAw"
+    },
+    {
+      "added_at": "2022-08-29 18:05:53",
+      "album": {
         "name": "Hablando Claro (En Vivo)",
         "url": "https://open.spotify.com/album/2F58yhcgZckSuL5pDXqEi8"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 190671,
       "name": "Hablando Claro (En Vivo)",
       "url": "https://open.spotify.com/track/5hRFjooNvZWb9gdnXjrv2j"
-    },
-    {
-      "added_at": "2022-08-29 18:05:53",
-      "album": {
-        "name": "No",
-        "url": "https://open.spotify.com/album/5pHsYxYOYQux6Ougxe2xnK"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 187240,
-      "name": "No",
-      "url": "https://open.spotify.com/track/024hOV0LnkxDeI8fOtNwAw"
     },
     {
       "added_at": "2022-08-29 18:05:53",
@@ -563,6 +563,22 @@
     {
       "added_at": "2022-08-29 18:05:53",
       "album": {
+        "name": "Eres Mi Crush",
+        "url": "https://open.spotify.com/album/0sK2BZyFjskAQMP7TYBKOp"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 161194,
+      "name": "Eres Mi Crush",
+      "url": "https://open.spotify.com/track/6ICVAdLNgkyd0k30kVDkFi"
+    },
+    {
+      "added_at": "2022-08-29 18:05:53",
+      "album": {
         "name": "Que Sea",
         "url": "https://open.spotify.com/album/59uULSbzUmeuVBiDGbLsqR"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 170506,
       "name": "Que Sea",
       "url": "https://open.spotify.com/track/4yKC4OVtG5Z9nIX98r7SQp"
-    },
-    {
-      "added_at": "2022-08-29 18:05:53",
-      "album": {
-        "name": "Eres Mi Crush",
-        "url": "https://open.spotify.com/album/0sK2BZyFjskAQMP7TYBKOp"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 161194,
-      "name": "Eres Mi Crush",
-      "url": "https://open.spotify.com/track/6ICVAdLNgkyd0k30kVDkFi"
     },
     {
       "added_at": "2022-08-29 18:05:53",
@@ -847,22 +847,6 @@
     {
       "added_at": "2022-08-29 18:05:53",
       "album": {
-        "name": "El Callado",
-        "url": "https://open.spotify.com/album/4hVjflE1kDLzwLNOtDsNq9"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 178986,
-      "name": "El Callado",
-      "url": "https://open.spotify.com/track/51tc4qhcssnwHV683Pq8H3"
-    },
-    {
-      "added_at": "2022-08-29 18:05:53",
-      "album": {
         "name": "No Estar\u00e9 Aqu\u00ed",
         "url": "https://open.spotify.com/album/37w7YHhpXOlpSPpiXm4D0b"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 146233,
       "name": "No Estar\u00e9 Aqu\u00ed",
       "url": "https://open.spotify.com/track/3em3YfqWFgBXqwPehgti6l"
+    },
+    {
+      "added_at": "2022-08-29 18:05:53",
+      "album": {
+        "name": "El Callado",
+        "url": "https://open.spotify.com/album/4hVjflE1kDLzwLNOtDsNq9"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 178986,
+      "name": "El Callado",
+      "url": "https://open.spotify.com/track/51tc4qhcssnwHV683Pq8H3"
     },
     {
       "added_at": "2022-08-29 18:05:53",
@@ -959,18 +959,18 @@
     {
       "added_at": "2022-08-29 18:05:53",
       "album": {
-        "name": "Los Caminos de la Vida (Spotify Singles)",
-        "url": "https://open.spotify.com/album/1GdDkx6ATOjvmbi7AYDtq5"
+        "name": "Cuervo Sierra",
+        "url": "https://open.spotify.com/album/5WjbMzzti4lF2YwoEquLrj"
       },
       "artists": [
         {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+          "name": "Los Austeros De Durango",
+          "url": "https://open.spotify.com/artist/3R6Kbe18UcjsGkBGWElC51"
         }
       ],
-      "duration_ms": 328115,
-      "name": "Los Caminos de la Vida - Spotify Singles",
-      "url": "https://open.spotify.com/track/0LPcBW66vudTxR0HcauKNy"
+      "duration_ms": 175674,
+      "name": "Cuervo Sierra",
+      "url": "https://open.spotify.com/track/4egR3W3kn5hcihVttAHtGL"
     },
     {
       "added_at": "2022-08-29 18:05:53",
@@ -991,18 +991,18 @@
     {
       "added_at": "2022-08-29 18:05:53",
       "album": {
-        "name": "Cuervo Sierra",
-        "url": "https://open.spotify.com/album/5WjbMzzti4lF2YwoEquLrj"
+        "name": "Los Caminos de la Vida (Spotify Singles)",
+        "url": "https://open.spotify.com/album/1GdDkx6ATOjvmbi7AYDtq5"
       },
       "artists": [
         {
-          "name": "Los Austeros De Durango",
-          "url": "https://open.spotify.com/artist/3R6Kbe18UcjsGkBGWElC51"
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
         }
       ],
-      "duration_ms": 175674,
-      "name": "Cuervo Sierra",
-      "url": "https://open.spotify.com/track/4egR3W3kn5hcihVttAHtGL"
+      "duration_ms": 328115,
+      "name": "Los Caminos de la Vida - Spotify Singles",
+      "url": "https://open.spotify.com/track/0LPcBW66vudTxR0HcauKNy"
     },
     {
       "added_at": "2022-09-02 05:00:00",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2022-08-29 18:05:53",
       "album": {
-        "name": "Boleros de Hoy",
-        "url": "https://open.spotify.com/album/7HG8mHWv4u3KBrzRfiMjox"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 203794,
-      "name": "La Pregunta del Mill\u00f3n",
-      "url": "https://open.spotify.com/track/6IEo2pVIGEwGd5ZL2ffiR0"
-    },
-    {
-      "added_at": "2022-08-29 18:05:53",
-      "album": {
         "name": "La Loteria",
         "url": "https://open.spotify.com/album/1eOnR7Tb5ajg0OMNi68i4W"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 194655,
       "name": "Cada Vez Mas",
       "url": "https://open.spotify.com/track/5Jo2xhD9fwJJbCYE9FY2i5"
+    },
+    {
+      "added_at": "2022-08-29 18:05:53",
+      "album": {
+        "name": "Boleros de Hoy",
+        "url": "https://open.spotify.com/album/7HG8mHWv4u3KBrzRfiMjox"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 203794,
+      "name": "La Pregunta del Mill\u00f3n",
+      "url": "https://open.spotify.com/track/6IEo2pVIGEwGd5ZL2ffiR0"
     },
     {
       "added_at": "2022-08-29 18:05:53",
@@ -1663,18 +1663,18 @@
     {
       "added_at": "2022-08-29 18:05:53",
       "album": {
-        "name": "Yo Perd\u00ed",
-        "url": "https://open.spotify.com/album/7qIFqS4tLfjag7YkyPwecJ"
+        "name": "Cu\u00e9ntame",
+        "url": "https://open.spotify.com/album/4z8sLfNnAf8Th8B8EwcTQ4"
       },
       "artists": [
         {
-          "name": "Joss Favela",
-          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
         }
       ],
-      "duration_ms": 164282,
-      "name": "Yo Perd\u00ed",
-      "url": "https://open.spotify.com/track/0QKr9qO91FbCUDaNsXkZ5T"
+      "duration_ms": 166040,
+      "name": "Cu\u00e9ntame",
+      "url": "https://open.spotify.com/track/2zJ1zCoUtHb6dt7C5Q7LqT"
     }
   ],
   "unique_name": "Norte\u00f1o 2022",

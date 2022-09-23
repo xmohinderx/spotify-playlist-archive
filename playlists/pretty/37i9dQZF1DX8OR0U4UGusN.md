@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OR0U4UGusN.md) - [plain]
 
 > cool tunes for walking, driving, running, flying, etc
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,328 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,398 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OR0U4UGusN.md) - [plain]
 | 31 | [Hot Crush Lover](https://open.spotify.com/track/2cBvJkneFRqK62VDL3yr0c) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [Hot Crush Lover](https://open.spotify.com/album/1KAtsKpFLwng34JEyge2hs) | 3:13 |
 | 32 | [New Romance](https://open.spotify.com/track/47htv7rED6WpgrPFM4J9pS) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Once Twice Melody](https://open.spotify.com/album/79NySyjxJ8xric31mXKMAo) | 4:12 |
 | 33 | [Janet](https://open.spotify.com/track/3ml3WB66sqG4kXoPBX2POA) | [Berhana](https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl) | [Berhana](https://open.spotify.com/album/5Tl4ncCoenypfpqZqRbtp3) | 3:24 |
-| 34 | [Selfish Soul](https://open.spotify.com/track/3ceTUPvI4JAuSwFWfeB7Ym) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [Selfish Soul](https://open.spotify.com/album/1zSjDYhE9QpJLaptBmBM8N) | 2:22 |
-| 35 | [Winona](https://open.spotify.com/track/50CrMqvVH178XRNNhhXfTy) | [Miloe](https://open.spotify.com/artist/3HdQTgQSncptIPjDgskWbu) | [Winona](https://open.spotify.com/album/29HNHTBfCETetrohUBXJxY) | 2:25 |
+| 34 | [Winona](https://open.spotify.com/track/50CrMqvVH178XRNNhhXfTy) | [Miloe](https://open.spotify.com/artist/3HdQTgQSncptIPjDgskWbu) | [Winona](https://open.spotify.com/album/29HNHTBfCETetrohUBXJxY) | 2:25 |
+| 35 | [Selfish Soul](https://open.spotify.com/track/3ceTUPvI4JAuSwFWfeB7Ym) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [Selfish Soul](https://open.spotify.com/album/1zSjDYhE9QpJLaptBmBM8N) | 2:22 |
 | 36 | [Duo](https://open.spotify.com/track/0KbMjhlUH1xUGDgeIQzLsn) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [Duo](https://open.spotify.com/album/5Mp5iZqsRMvP3izACMnLPF) | 2:06 |
 | 37 | [Faisal \(envelops me\)](https://open.spotify.com/track/1uyQNwG1sFl7etjFTEHlQp) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life 2 \(February 2 \- October 15 2021\)](https://open.spotify.com/album/0SFtIrRytNI4kcf93Tbhdf) | 4:10 |
 | 38 | [What Does That Make Me?](https://open.spotify.com/track/6dIIH84jl5SgoLggwFFadz) | [Sad Night Dynamite](https://open.spotify.com/artist/6ydvoGN30eRfE78bjTANF7) | [What Does That Make Me?](https://open.spotify.com/album/5f00WY9ZPJ6Pz2AnrNgy60) | 2:53 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OR0U4UGusN.md) - [plain]
 | 99 | [Smoking Section](https://open.spotify.com/track/3YYSTOsem7yFoAU7QqeRkP) | [Stevedreez](https://open.spotify.com/artist/3KJzwEs0Tr6egQZ65WTncE) | [Smoking Section](https://open.spotify.com/album/6Epl0VfGd5Ao5iZ0tR2wAK) | 3:48 |
 | 100 | [Ischia](https://open.spotify.com/track/4lzfwCNtSBGqRG5jl5Pp6K) | [Isola](https://open.spotify.com/artist/2K9NaV3uzFi6NAZCRHeZvh) | [EP1](https://open.spotify.com/album/46taxnLPMHr38wRSHJHxic) | 6:01 |
 
-Snapshot ID: `MTY2MTUyOTcxNSwwMDAwMDAwMDljOGY0Nzg3NmIzNDIwYzRkZmM5ZGQxZGU1MWIzOTNj`
+Snapshot ID: `MTY2MTUyOTcxNSwwMDAwMDAwMDFkZTFiODIwMjBlN2JjOGZkNzUzMzBiNmYxZTc4YjNm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXG4Kg5rawni.md) - [plain]
 
 > Adoradores cantando sobre o amor\. Foto: Cassiane e Jairinho
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,927 likes - 66 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,974 likes - 66 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

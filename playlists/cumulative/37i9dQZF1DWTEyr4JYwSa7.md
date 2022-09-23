@@ -4,7 +4,7 @@
 
 > La playlist idéale pour vos fêtes cette année! Photo: Alexandra Streliski
 
-284 songs - 15 hr 32 min - [published](https://open.spotify.com/playlist/0SxZxNJ9FKXL8tKafplut8)
+285 songs - 15 hr 35 min - [published](https://open.spotify.com/playlist/0SxZxNJ9FKXL8tKafplut8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Cadeau](https://open.spotify.com/track/2S0YYjl0Ij1GRaZYxQr62U) | [Shirley Théroux](https://open.spotify.com/artist/3UsDgAEOj0kz11teLs3SRM) | [En robe de neige](https://open.spotify.com/album/04OobBfEyP2hF1OZtLRMzp) | 3:39 | 2021-12-17 | 2022-07-27 |
 | [Chanson pour une nuit d'hiver](https://open.spotify.com/track/4v5igJYEez7gAKiyHuVFBo) | [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [Lumières d'hiver](https://open.spotify.com/album/4GVVHF9DXhDaXh8b74Uyjo) | 4:23 | 2021-12-17 | 2022-07-29 |
 | [Cheers](https://open.spotify.com/track/6ZCAkrXjyPfsRsIZdiFqTX) | [Laurence St\-Martin](https://open.spotify.com/artist/1DAZpwKWPQ4VnPSD2RcpgG) | [Cheers](https://open.spotify.com/album/0Wg2bATi2bsehYd23NBqpP) | 2:26 | 2021-12-17 | 2022-07-29 |
-| [Cheers](https://open.spotify.com/track/6aSOOOlwOm9HdvobCda3Er) | [Laurence St\-Martin](https://open.spotify.com/artist/1DAZpwKWPQ4VnPSD2RcpgG) | [Cheers](https://open.spotify.com/album/4UuwrpTwXbglkg5CggqnFT) | 2:26 | 2021-12-17 |  |
+| [Cheers](https://open.spotify.com/track/6aSOOOlwOm9HdvobCda3Er) | [Laurence St\-Martin](https://open.spotify.com/artist/1DAZpwKWPQ4VnPSD2RcpgG) | [Cheers](https://open.spotify.com/album/4UuwrpTwXbglkg5CggqnFT) | 2:26 | 2021-12-17 | 2022-09-23 |
 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/0277i1AiYItpCxOyxOT7gg) | [Andee](https://open.spotify.com/artist/0NkizteG3ppTHvm5Zh0xcN) | [Tous Ensemble Pour Noël](https://open.spotify.com/album/0MkCu0fwfcUNGYb2vdzHR9) | 2:45 | 2021-12-17 | 2022-07-23 |
 | [Christmas Ain't Enough](https://open.spotify.com/track/6VxjrRPMV0OUXIsKatkusi) | [Elliot Maginot](https://open.spotify.com/artist/0dX5TveSmyFKxWlYtnWS2X) | [Christmas Ain't Enough](https://open.spotify.com/album/2NLwE0NYAQgZmuNKC179fh) | 4:12 | 2021-12-17 |  |
 | [Christmas Alone](https://open.spotify.com/track/5bTnCvXkxrVuYa0yclJk5k) | [Skye Wells](https://open.spotify.com/artist/5Uh1ldj8Xk3WcWPKbwo5zJ) | [Christmas Alone](https://open.spotify.com/album/1EzpPcosEWSMJvKQu6UVXc) | 3:49 | 2021-12-17 | 2022-07-22 |
@@ -133,6 +133,7 @@
 | [Le Père Noël C't'un Québécois](https://open.spotify.com/track/7adJp4379R1irkezIA3zjd) | [Boum Ding Band](https://open.spotify.com/artist/50ERNshVS98iuEFQfxGggG) | [Noël, C'est L'amour](https://open.spotify.com/album/3daWVuTqbiXedViUfOnN1V) | 2:56 | 2021-12-17 |  |
 | [Le Père Noël c't'un québécois](https://open.spotify.com/track/1SeDUdcJMK6nurS4gA7n06) | [Sara Dufour](https://open.spotify.com/artist/3MSqVr13Lkb9iCiigUOm4S) | [Le Père Noël c't'un québécois](https://open.spotify.com/album/4ruPhatqirrYVEi69uIwxr) | 2:32 | 2021-12-17 | 2022-07-29 |
 | [Le Père Noël c't'un québécois](https://open.spotify.com/track/50UiWq1BJChAKQ0nhXl88O) | [Sara Dufour](https://open.spotify.com/artist/3MSqVr13Lkb9iCiigUOm4S) | [Le Père Noël c't'un québécois](https://open.spotify.com/album/6EzADwk0qEoRKPxoMWGIvk) | 2:32 | 2021-12-17 |  |
+| [Le sentier de neige](https://open.spotify.com/track/2CJJUz69TEqLrAyK2h02wp) | [Annie Villeneuve](https://open.spotify.com/artist/4UIM7xyslKU8ufDGXcRDpa) | [Noël chez moi](https://open.spotify.com/album/2Clfi6J5G7Aa1kxKv09ahV) | 2:42 | 2021-12-17 |  |
 | [Le sentier de neige](https://open.spotify.com/track/2Nlz01n71uROXKWJy85gHF) | [Annie Villeneuve](https://open.spotify.com/artist/4UIM7xyslKU8ufDGXcRDpa) | [Noël chez moi](https://open.spotify.com/album/33XuBkHCKQXVgBhvUR960L) | 2:42 | 2021-12-17 | 2022-07-27 |
 | [Le sentier de neige](https://open.spotify.com/track/5y1U1ZcRR2P9xPSIeYLTaI) | [Les Classels](https://open.spotify.com/artist/4AoIv0whQbnXND8lj08eVs) | [Les 16 plus grands succès](https://open.spotify.com/album/6BkrWmXC9uhHG3qxXrQ9Nc) | 2:17 | 2021-12-17 |  |
 | [Le sentier de neige](https://open.spotify.com/track/0wj09A1u592qYVeOYJYaji) | [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [Reprises Vol.1](https://open.spotify.com/album/3lSPJWmIKB3lFKxOxTvYA0) | 3:06 | 2021-12-17 |  |

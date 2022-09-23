@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 
 > 命を持たないVOCALOIDの魅力を特集。
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,906 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,974 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 | 27 | [Love Trial](https://open.spotify.com/track/7oa18QwhLsV3JfITGDxslD) | [40mP](https://open.spotify.com/artist/69jNq4RZ3PvQJvMeqtdz7O) | [41m](https://open.spotify.com/album/48CT8I4ImScM4TySzxyBUP) | 3:39 |
 | 28 | [アイデンティティ](https://open.spotify.com/track/4X3L6G6KDs0jBKvfTkmKmi) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [アイデンティティ](https://open.spotify.com/album/5bN9ddnWBszIifz4XhLlKj) | 2:35 |
 | 29 | [劣等上等 feat\. 鏡音リン・レン](https://open.spotify.com/track/367IrkRR4wk5WtSL41rONn) | [Giga](https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS), [鏡音リン・レン](https://open.spotify.com/artist/46cTNwyKdzoPIoEgLa8XS1) | [劣等上等 feat\. 鏡音リン・レン](https://open.spotify.com/album/5zeEMdy7T7nNZ5iu866WP0) | 3:55 |
-| 30 | [千本桜](https://open.spotify.com/track/38mUTswfszVFQ952r89AP8) | [KuroUsa](https://open.spotify.com/artist/1fyLCDf7gQRXZ1hRNtL2UF) | [千本桜](https://open.spotify.com/album/6Wop7Hk2r89DysfUe0USkh) | 4:12 |
-| 31 | [ロストワンの号哭](https://open.spotify.com/track/7bjO3BMl5ps63mpPMfhPDC) | [Neru](https://open.spotify.com/artist/0rhcL1Mw7J9YJRDpD6mhXr) | [Kagaminext feat\. 鏡音リン、鏡音レン ―10th ANNIVERSARY BEST―](https://open.spotify.com/album/2HbzIEq99Mqb0VgGN1g3if) | 3:34 |
+| 30 | [ロストワンの号哭](https://open.spotify.com/track/7bjO3BMl5ps63mpPMfhPDC) | [Neru](https://open.spotify.com/artist/0rhcL1Mw7J9YJRDpD6mhXr) | [Kagaminext feat\. 鏡音リン、鏡音レン ―10th ANNIVERSARY BEST―](https://open.spotify.com/album/2HbzIEq99Mqb0VgGN1g3if) | 3:34 |
+| 31 | [千本桜](https://open.spotify.com/track/38mUTswfszVFQ952r89AP8) | [KuroUsa](https://open.spotify.com/artist/1fyLCDf7gQRXZ1hRNtL2UF) | [千本桜](https://open.spotify.com/album/6Wop7Hk2r89DysfUe0USkh) | 4:12 |
 | 32 | [ヘンシン](https://open.spotify.com/track/1IopSg04uZM0DpggfEIMjf) | [Jin](https://open.spotify.com/artist/7to1UlTpu40h7CpjRPkGqA) | [ヘンシン](https://open.spotify.com/album/4LpQSK3LYK2ttsDuLzNAyJ) | 3:40 |
 | 33 | [サラマンダー](https://open.spotify.com/track/64LMCa7fkdfHYLtCm0kGTR) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [サラマンダー](https://open.spotify.com/album/11pU0vz7peTM1JdMZvSg9t) | 2:35 |
 | 34 | [day by days](https://open.spotify.com/track/6SRkWroP8AXI5bqNfmI6Mn) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [day by days](https://open.spotify.com/album/7Ir2ssbW6ov5OxbiQNcksm) | 2:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 | 49 | [God sees all](https://open.spotify.com/track/1MES6o0hVfvTcoK0JYDQq6) | [Ethyria](https://open.spotify.com/artist/1FUCVcTXn8jXmPTS3vV9xy) | [God sees all](https://open.spotify.com/album/2UvWMD9DOfJxpJaSwNtqFU) | 3:16 |
 | 50 | [炉心融解](https://open.spotify.com/track/705CVl7WvtnJgVpGIgZ6dQ) | [iroha\(sasaki\)](https://open.spotify.com/artist/0ucp2eJpluVvW5qn53vIuc) | [炉心融解](https://open.spotify.com/album/57aSkuZLXXOAyUbhclh3p3) | 5:29 |
 
-Snapshot ID: `MTY2MzY5NTQ4NSwwMDAwMDAwMGVmYzY5MGUwZDc1MWY5ZjdkZGQ2MmUxNWVhYWFmYmU1`
+Snapshot ID: `MTY2Mzg1ODgwMCwwMDAwMDAwMGQwNWU4MDZiOTEyYzViNmRhOGE2N2YxYTdhOTc0YjQ0`

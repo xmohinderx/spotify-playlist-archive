@@ -4,7 +4,7 @@
 
 > Laid back sounds to see you through your day.
 
-377 songs - 21 hr 20 min - [published](https://open.spotify.com/playlist/395pTXWBe61bIiK2GSpSLA)
+378 songs - 21 hr 24 min - [published](https://open.spotify.com/playlist/395pTXWBe61bIiK2GSpSLA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [Good Things Take Time](https://open.spotify.com/track/0RIuc7NFiUS8yT9BOPQgha) | [Aidan Martin](https://open.spotify.com/artist/3JKrNnhjEv9h3fyKhQpylb) | [Good Things Take Time](https://open.spotify.com/album/3yECa7f09z1U149eWQrN4e) | 3:32 | 2021-12-16 | 2022-03-27 |
 | [Goodbye](https://open.spotify.com/track/5b6enCVP67LsqqrfTs6rxr) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Goodbye](https://open.spotify.com/album/58Xvw6spiAwJygmEi6iQC7) | 3:04 | 2022-05-31 |  |
 | [Grace](https://open.spotify.com/track/0aJq40QZqvfGubgfKy5knk) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB) | [Grace](https://open.spotify.com/album/44ei9ptYrZ8ys7aXPW6bF8) | 4:13 | 2022-08-02 | 2022-09-20 |
+| [Grace](https://open.spotify.com/track/4i4gcJSMofr3Pe9YWThzRp) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB) | [\(self\-titled\)](https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE) | 4:13 | 2022-09-13 |  |
 | [GUCCI BAG](https://open.spotify.com/track/08G63QA6FMXwaABEN6syRb) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [GUCCI BAG](https://open.spotify.com/album/2uglKnENyDI1cz6PxM37dY) | 2:14 | 2022-05-31 |  |
 | [Hallelujah I Love Her So](https://open.spotify.com/track/6chbqElEHkFSRDJpEydK2H) | [Laura Zocca](https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7) | [Hallelujah I Love Her So](https://open.spotify.com/album/4KkR1fwO3tgHfhsKRgfFuf) | 2:43 | 2022-03-08 |  |
 | [Hands Tied](https://open.spotify.com/track/1vrA1Ndw5iMkjxgQ3yvohQ) | [Beatrich](https://open.spotify.com/artist/4R7ILGBgDWUiAT1kWNe90W) | [Hands Tied](https://open.spotify.com/album/3mFpTh7oqlZvjfhHN4hqcC) | 3:13 | 2021-12-16 | 2022-04-05 |
@@ -258,7 +259,7 @@
 | [Our Song](https://open.spotify.com/track/5zqObw7wjBgL9TDiAymxPn) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Our Song](https://open.spotify.com/album/0zocAVUSizQ74Cn8nCsN3a) | 2:43 | 2021-12-16 | 2022-01-12 |
 | [Painkiller](https://open.spotify.com/track/3L1y08P3oCRP1ecxyCEfnm) | [Call Me Loop](https://open.spotify.com/artist/6NEekR0i3JC1r4BntSjskE) | [Painkiller](https://open.spotify.com/album/3o8lhNYrKvv25wA5sZFBL1) | 3:03 | 2022-03-25 | 2022-07-27 |
 | [Pale Damp Cheeks](https://open.spotify.com/track/2toOLLWUzPPGXYjv3sZlN0) | [Etaoin](https://open.spotify.com/artist/5V9BcFYORnSqjFtBgrpx01) | [Pale Damp Cheeks](https://open.spotify.com/album/2pN3kmD7RLWl0axrlU7OuE) | 3:33 | 2021-12-16 | 2022-07-29 |
-| [Pale Damp Cheeks](https://open.spotify.com/track/5RwjsoPluDen5DPyPdv32Q) | [Etaoin](https://open.spotify.com/artist/5V9BcFYORnSqjFtBgrpx01) | [Bedroom Walls](https://open.spotify.com/album/0cdwwrdKjoW1g9p4BdEKuy) | 3:33 | 2022-09-13 |  |
+| [Pale Damp Cheeks](https://open.spotify.com/track/5RwjsoPluDen5DPyPdv32Q) | [Etaoin](https://open.spotify.com/artist/5V9BcFYORnSqjFtBgrpx01) | [Bedroom Walls](https://open.spotify.com/album/0cdwwrdKjoW1g9p4BdEKuy) | 3:33 | 2022-09-13 | 2022-09-23 |
 | [paper thin](https://open.spotify.com/track/6SjmmjdOvQcQ5lR7E7E7Em) | [Nemahsis](https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f) | [paper thin](https://open.spotify.com/album/0hkbQ2Xpo7VOFoq2LgHsCM) | 3:06 | 2022-03-25 | 2022-04-19 |
 | [Paramaniac](https://open.spotify.com/track/6bO7GeKYXEvOEDi9O3zMOC) | [Abby Roberts](https://open.spotify.com/artist/11260Smss09lExMicvRPeO) | [Paramaniac](https://open.spotify.com/album/3ol4KhcloRgpuQaA9B9rW3) | 3:00 | 2022-03-25 | 2022-04-17 |
 | [Part of Me](https://open.spotify.com/track/4aosx8uOGPG9aJjm0Dj4dN) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Part of Me](https://open.spotify.com/album/6uOlsqNPU8RIwSx0Uv2tH4) | 3:57 | 2021-12-16 | 2022-01-12 |

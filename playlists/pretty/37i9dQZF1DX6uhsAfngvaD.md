@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6uhsAfngvaD.md) - [plain]
 
 > Blissful indie for dreamers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,770 likes - 80 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,871 likes - 80 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,9 +78,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6uhsAfngvaD.md) - [plain]
 | 68 | [Gloomy Girl](https://open.spotify.com/track/62Zgaht9Dx6HReIOamFMdN) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Gloomy Girl](https://open.spotify.com/album/4TzEXyEPMZZPXbjPPIdRWR) | 3:06 |
 | 69 | [James](https://open.spotify.com/track/5Cd4brIkLNzLJJUxugJA1X) | [Oscar and the Wolf](https://open.spotify.com/artist/0dLWSYE7my9AbpQYNJ0ABV) | [James](https://open.spotify.com/album/6JM7AstjOZRklwDS9LbEz1) | 4:29 |
 | 70 | [Ohio Blue Tips](https://open.spotify.com/track/3cKzdHoTN1g39ktjm3twCF) | [Terry vs\. Tori](https://open.spotify.com/artist/1UAyQNs2HANU7mGGqtXzJv) | [Heathers](https://open.spotify.com/album/219YBWjZumk7SNvu9Rk86K) | 3:14 |
-| 71 | [De ma Tour](https://open.spotify.com/track/5mXgCx5JKyqsIapstWQ94b) | [Reymour](https://open.spotify.com/artist/6mlzYzLXQ7gQrMg3DydrAi) | [Leviosa](https://open.spotify.com/album/4dZlnblHaQxVDbUKkdVuL3) | 3:16 |
-| 72 | [Broken Record](https://open.spotify.com/track/2rNSaR3roXGZHSdPkbbsFH) | [Jaguar Sun](https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC) | [All We've Ever Known](https://open.spotify.com/album/2vHY2n9f4dlmC7OzGbLjaK) | 4:01 |
-| 73 | [Hyper\-normal](https://open.spotify.com/track/137bcY3t0tco8OqzumsF4z) | [GRAZER](https://open.spotify.com/artist/66npZ0iLHcWmV2DAC8oYRF) | [Hyper\-normal](https://open.spotify.com/album/3mQjXEpNYf3kXHXhRQt9YG) | 3:15 |
+| 71 | [Hyper\-normal](https://open.spotify.com/track/137bcY3t0tco8OqzumsF4z) | [GRAZER](https://open.spotify.com/artist/66npZ0iLHcWmV2DAC8oYRF) | [Hyper\-normal](https://open.spotify.com/album/3mQjXEpNYf3kXHXhRQt9YG) | 3:15 |
+| 72 | [De ma Tour](https://open.spotify.com/track/5mXgCx5JKyqsIapstWQ94b) | [Reymour](https://open.spotify.com/artist/6mlzYzLXQ7gQrMg3DydrAi) | [Leviosa](https://open.spotify.com/album/4dZlnblHaQxVDbUKkdVuL3) | 3:16 |
+| 73 | [Broken Record](https://open.spotify.com/track/2rNSaR3roXGZHSdPkbbsFH) | [Jaguar Sun](https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC) | [All We've Ever Known](https://open.spotify.com/album/2vHY2n9f4dlmC7OzGbLjaK) | 4:01 |
 | 74 | [Lean Into Life](https://open.spotify.com/track/5eWH1AYlLn8UV2E1PthAhk) | [Petey](https://open.spotify.com/artist/4TeKBLCqmYXzvcgYX4t4YA) | [Lean Into Life](https://open.spotify.com/album/4s4PfhSuN6uuMxpNYt2Zhw) | 5:27 |
 | 75 | [Back Into Your Arms](https://open.spotify.com/track/0RXXhrHZgLinM2Tb8k2ROk) | [RINSE](https://open.spotify.com/artist/2hNslbfAAcYQ8TyejfmIz0), [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [Back Into Your Arms](https://open.spotify.com/album/7e9ZaDSUcIgDPM1qm2zlsO) | 4:23 |
 | 76 | [House Of Mirrors](https://open.spotify.com/track/3zFqzq75hxehVM6DkCSORU) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [House Of Mirrors](https://open.spotify.com/album/075wMeSFPWCvDVNKzRPOlC) | 3:11 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6uhsAfngvaD.md) - [plain]
 | 79 | [So Humble the Afternoon](https://open.spotify.com/track/1dl1I6nRr3lFuFxP7gHtcx) | [Julia Holter](https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E) | [So Humble The Afternoon](https://open.spotify.com/album/13PrcaJFJLNw6jGg25zekp) | 5:22 |
 | 80 | [Seems Like Forever](https://open.spotify.com/track/3eIcEbicqr3ikj05Gkmziv) | [Scarlet Rae](https://open.spotify.com/artist/06v4QDLJOrIz62gsU9lN3K) | [Seems Like Forever](https://open.spotify.com/album/01rddRm7oUQ3GqOG9mkEO8) | 5:18 |
 
-Snapshot ID: `MTY1NzEyMDcxNCwwMDAwMDAwMDBlNzIxNDg3ZjEzZGU1NWUxZjM0ODI3Y2QxY2EzNGY1`
+Snapshot ID: `MTY1NzEyMDcxNCwwMDAwMDAwMDI4Y2MzZDQ4ZTNjOGM5NTE3MTNkMDIzZDU2OWQyNGM0`

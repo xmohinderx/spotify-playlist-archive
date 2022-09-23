@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbH5bzpmFWXy.md) - [plain]
 
 > Dos estilos, dos sonidos, un mismo origen: El Barrio\. Luis R Conriquez & Peso Pluma en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,754 likes - 75 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,039 likes - 75 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

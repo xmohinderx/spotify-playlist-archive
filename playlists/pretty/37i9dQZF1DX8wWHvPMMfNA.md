@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wWHvPMMfNA.md) - [plain]
 
 > Soft instrumental Jazz for working or studying.
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,201 likes - 100 songs - 8 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,258 likes - 100 songs - 8 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wWHvPMMfNA.md) - [plain]
 | 57 | [Born To Be Blue](https://open.spotify.com/track/0q2B8hRHzThL8CTlzCv06e) | [Tommy Flanagan Trio](https://open.spotify.com/artist/5N8jNQsfW9SHBkhVqqnXbU) | [Tommy Flanagan Trio](https://open.spotify.com/album/6ib55A9F22eHSqsVDjQPvu) | 4:21 |
 | 58 | [If Ever I Would Leave You \- Remasted 1998/ Rudy Van Gelder Edition](https://open.spotify.com/track/2DPcK58j3Zms6ybVIKSIIY) | [Kenny Dorham](https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er) | [Una Mas](https://open.spotify.com/album/478lLfwrnUMDKIgaLCPTIy) | 5:09 |
 | 59 | [Lover Man \- Remastered](https://open.spotify.com/track/7hjJTsKBkmmQgqQ6ZFakSg) | [Warne Marsh](https://open.spotify.com/artist/1yVmVSKnpfLDIAbghFMN3D) | [Intuition](https://open.spotify.com/album/2N1GYQNZRsS964RxWCjWVc) | 4:30 |
-| 60 | ['Round About Midnight \- Remastered 2002/Rudy Van Gelder Edition](https://open.spotify.com/track/6X6q7Wjn40xaYnIhXzMlOh) | [Grant Green](https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k) | [Green Street \(Rudy Van Gelder Edition\)](https://open.spotify.com/album/1RmoKOfLnMAafzhWRJCI8q) | 7:03 |
-| 61 | [Prisoner Of Love](https://open.spotify.com/track/6gwOTHR7B1YyWlnAiMBoT0) | [Lester Young](https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm), [Teddy Wilson Quartet](https://open.spotify.com/artist/4BeuZiSWQWLybvkCiBos0c) | [Pres & Teddy](https://open.spotify.com/album/7BsTlBs92PJa4mTPKTi8Nq) | 7:40 |
+| 60 | [Prisoner Of Love](https://open.spotify.com/track/6gwOTHR7B1YyWlnAiMBoT0) | [Lester Young](https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm), [Teddy Wilson Quartet](https://open.spotify.com/artist/4BeuZiSWQWLybvkCiBos0c) | [Pres & Teddy](https://open.spotify.com/album/7BsTlBs92PJa4mTPKTi8Nq) | 7:40 |
+| 61 | ['Round About Midnight \- Remastered 2002/Rudy Van Gelder Edition](https://open.spotify.com/track/6X6q7Wjn40xaYnIhXzMlOh) | [Grant Green](https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k) | [Green Street \(Rudy Van Gelder Edition\)](https://open.spotify.com/album/1RmoKOfLnMAafzhWRJCI8q) | 7:03 |
 | 62 | [Everybody's Somebody's Fool](https://open.spotify.com/track/3Fd6oqnuEVzOjzfh13k0CA) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Gettin' Around](https://open.spotify.com/album/1kKp5dSbveAtH9KmuGP6z9) | 6:47 |
 | 63 | [Gee Baby, Ain't I Good To You \- Remastered](https://open.spotify.com/track/3UrxgGboM1N5xsdOcz4o0K) | [Kenny Burrell](https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB) | [Midnight Blue \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/0hMuKAciHKinu4L3R4Ojjl) | 4:25 |
 | 64 | [My Romance](https://open.spotify.com/track/3LT1zcX6o7Xv2IfJrlU4f1) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk), [Harry "Sweets" Edison](https://open.spotify.com/artist/4rZoL92ShDgN9SLLg4OPPN) | [Ben And "Sweets"](https://open.spotify.com/album/2ZLYIpIfXFCbwBkaqgRhBk) | 4:14 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wWHvPMMfNA.md) - [plain]
 | 99 | [Days of Wine and Roses](https://open.spotify.com/track/2b2yKDFxgIVVGsgd8Pgneb) | [Red Garland](https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9) | [The Quota](https://open.spotify.com/album/5G2XZf9MkRLtABZoEJGRbT) | 7:43 |
 | 100 | [I'll Never Be The Same](https://open.spotify.com/track/4hW6cmyVnxXT92Gd4xwzDj) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0) | [The Hawk Relaxes](https://open.spotify.com/album/3fRgp7LyVaJow0lcZ9dZyH) | 6:08 |
 
-Snapshot ID: `MTY2Mzc0MjMxMiwwMDAwMDAwMDcwM2UyYmYwM2Y2MDliYTdhNDQ5ODMzMmJmYjg5ZWVk`
+Snapshot ID: `MTY2Mzc0MjMxMiwwMDAwMDAwMGZiNmY5YTgyOTc2ZDdiM2YwZWNkZWJiN2UyN2ZjMzI3`

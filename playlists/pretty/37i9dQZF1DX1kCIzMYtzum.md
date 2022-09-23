@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kCIzMYtzum.md) - [plain]
 
 > The latest hits from your favourite festival legends\. Peace, love, unity, respect\. 💗
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,606 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,975 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kCIzMYtzum.md) - [plain]
 | 47 | [Future In Your Hands \(feat\. Aloe Blacc\)](https://open.spotify.com/track/5A52bfa9VVfTTfwLpxopz6) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [David Solomon](https://open.spotify.com/artist/3fzRb5i8Wn7ao2KPDxEiTR), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Future In Your Hands \(feat\. Aloe Blacc\)](https://open.spotify.com/album/7s2UFHl1FHu2AkD6pVXxMn) | 3:41 |
 | 48 | [Shivering \(feat\. Spiritbox\)](https://open.spotify.com/track/10Q3ASy9okYt85040yV46c) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Shivering \(feat\. Spiritbox\)](https://open.spotify.com/album/2dRmLEMsxRhidLzay43XP5) | 5:00 |
 | 49 | [Breathe \(feat\. kaspara\)](https://open.spotify.com/track/7pDdE5FLqcNCvjxzRzm80r) | [Syn Cole](https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH), [Kaspara](https://open.spotify.com/artist/4DTvSNQv43222tg1K7C8k2) | [Breathe \(feat\. kaspara\)](https://open.spotify.com/album/5MYFonEyI51lu0JHBpSRfK) | 2:55 |
-| 50 | [Ready To Love](https://open.spotify.com/track/0cvMWzztDy1wNQkBqae8w4) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe) | [Ready To Love](https://open.spotify.com/album/2DZEdOT8Y9knkZAUjpG7mT) | 3:08 |
+| 50 | [Goodies](https://open.spotify.com/track/1rGd2CoMxEg2dnaytLY5ZG) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf) | [Goodies](https://open.spotify.com/album/67bFXY7O9MCywon0nEyS1Z) | 2:01 |
 
-Snapshot ID: `MTY2MzMwMDgwMCwwMDAwMDAwMGQyMDllNGJjYWEzMWI1YjRhZGFiZWJjN2NiMWFiYTFl`
+Snapshot ID: `MTY2MzMwMDgwMCwwMDAwMDAwMDg5YTIwNTMxZWE2YWNkYjQxMTA3NGI5YzcxMDEwZmY2`

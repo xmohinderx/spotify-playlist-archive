@@ -1,12 +1,12 @@
 {
   "description": "Questa \u00e8 la tua notte, balla fino al mattino tra hit dance e ritmi latini.",
-  "num_followers": 301971,
+  "num_followers": 301985,
   "original_name": "Fino Al Mattino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mjk4NDcxOSwwMDAwMDAwMDcxYWU1Y2RhZGU3MTFiNzFlYjI4ZTc0YjcyYjM4N2Iw",
+  "snapshot_id": "MTY2Mjk4NDcxOSwwMDAwMDAwMGIyNzBhYjk1YWI5OTlkM2NkOWM5MDk4ZWYyMTRjYzdl",
   "tracks": [
     {
       "added_at": "2022-09-12 12:11:59",
@@ -803,30 +803,6 @@
     {
       "added_at": "2022-09-12 12:11:59",
       "album": {
-        "name": "BUBBLE (feat. thasup & Salmo)",
-        "url": "https://open.spotify.com/album/2yuspE1GL8YQLrOboKtwWp"
-      },
-      "artists": [
-        {
-          "name": "Takagi & Ketra",
-          "url": "https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx"
-        },
-        {
-          "name": "thasup",
-          "url": "https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA"
-        },
-        {
-          "name": "Salmo",
-          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
-        }
-      ],
-      "duration_ms": 164327,
-      "name": "BUBBLE (feat. thasup & Salmo)",
-      "url": "https://open.spotify.com/track/3fIB4IEcvjlzItwnFUvIBk"
-    },
-    {
-      "added_at": "2022-09-12 12:11:59",
-      "album": {
         "name": "China",
         "url": "https://open.spotify.com/album/1PTTAq0OxggVgqP5WTYWDh"
       },
@@ -855,6 +831,30 @@
       "duration_ms": 301714,
       "name": "China",
       "url": "https://open.spotify.com/track/2ksOAxtIxY8yElEWw8RhgK"
+    },
+    {
+      "added_at": "2022-09-12 12:11:59",
+      "album": {
+        "name": "BUBBLE (feat. thasup & Salmo)",
+        "url": "https://open.spotify.com/album/2yuspE1GL8YQLrOboKtwWp"
+      },
+      "artists": [
+        {
+          "name": "Takagi & Ketra",
+          "url": "https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx"
+        },
+        {
+          "name": "thasup",
+          "url": "https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA"
+        },
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        }
+      ],
+      "duration_ms": 164327,
+      "name": "BUBBLE (feat. thasup & Salmo)",
+      "url": "https://open.spotify.com/track/3fIB4IEcvjlzItwnFUvIBk"
     },
     {
       "added_at": "2022-09-12 12:11:59",

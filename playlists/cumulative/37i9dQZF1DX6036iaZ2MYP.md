@@ -4,7 +4,7 @@
 
 > Tracks popping off in the global Afro scene\. Cover: Nnelg
 
-80 songs - 4 hr 2 min - [published](https://open.spotify.com/playlist/3nZuXQa2F2MSgHEfT2QpvH)
+81 songs - 4 hr 5 min - [published](https://open.spotify.com/playlist/3nZuXQa2F2MSgHEfT2QpvH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Finesse](https://open.spotify.com/track/3UqcIgObI7zZk8e7nvqmfc) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Finesse](https://open.spotify.com/album/09eq0dG75Fddf2HAHOotDx) | 2:31 | 2022-07-13 | 2022-07-29 |
 | [Finesse](https://open.spotify.com/track/4Gasn91fsCefnN8zM5GjA8) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Finesse](https://open.spotify.com/album/4QEC4uzBJJfLVv2bD337g1) | 2:35 | 2022-07-28 |  |
 | [Gentility](https://open.spotify.com/track/3vXFxsPqMgw4SYP7fkWicM) | [melvitto](https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Gentility \(feat\. Wande Coal\)](https://open.spotify.com/album/6v8LdWReU2z42hUXe7VdMg) | 3:45 | 2022-07-13 |  |
+| [Handle Me \(feat\. Adekunle Gold\)](https://open.spotify.com/track/4dLfcjzMHZAVgnmuglRvhY) | [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Handle Me \(feat\. Adekunle Gold\)](https://open.spotify.com/album/3Cd3jHPeIl4euaDfPIccK4) | 2:47 | 2022-09-22 |  |
 | [Holy Gee](https://open.spotify.com/track/3Y8PRiBMczgHn3edpbCkfb) | [Cheque](https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM) | [Holy Gee](https://open.spotify.com/album/6G5EqRXFllg0YGv6sXk5IP) | 2:44 | 2022-08-25 |  |
 | [IDG](https://open.spotify.com/track/3k9Y1OBtIdPQNqbKILvJcD) | [Aṣa](https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [V](https://open.spotify.com/album/5rvJ4cyNUU0jI9DF3r596d) | 3:07 | 2022-07-13 | 2022-08-26 |
 | [Ijo \(Laba Laba\)](https://open.spotify.com/track/7tZMF9Hn5uGsfC7zGXbSKM) | [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb) | [Ijo \(Laba Laba\)](https://open.spotify.com/album/5A1qWiQBSEkCpGvQE2YfOH) | 3:06 | 2022-07-13 |  |
@@ -75,7 +76,7 @@
 | [SETE \(feat\. Young Stunna & Blxckie\)](https://open.spotify.com/track/5mXZz0tXIToxu3HRohrdSK) | [K.O](https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z), [Young Stunna](https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [SETE \(feat\. Young Stunna & Blxckie\)](https://open.spotify.com/album/7ceVgKif2FV49HL1u7qxlG) | 4:09 | 2022-09-13 |  |
 | [Shakara](https://open.spotify.com/track/6XPPB2eOwBid6EbveTmVYe) | [Ice Prince](https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Shakara](https://open.spotify.com/album/2IAaPLIeM9CHUzqrTllGJI) | 3:20 | 2022-07-13 |  |
 | [Shaye](https://open.spotify.com/track/0hFgFEdlRzbWGZGEHiCwPy) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Shaye](https://open.spotify.com/album/46Ly7qRxGR5Hq6yPSEqRDH) | 2:49 | 2022-08-25 |  |
-| [Soweto](https://open.spotify.com/track/6RbOyNeajWax51NtpO6WT8) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Tempoe](https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4) | [Outlaw](https://open.spotify.com/album/12iai3p96UYvcrDqlvvKFE) | 2:28 | 2022-09-13 |  |
+| [Soweto](https://open.spotify.com/track/6RbOyNeajWax51NtpO6WT8) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Tempoe](https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4) | [Outlaw](https://open.spotify.com/album/12iai3p96UYvcrDqlvvKFE) | 2:28 | 2022-09-13 | 2022-09-23 |
 | [Sugarcane](https://open.spotify.com/track/2pPh2jjCqiIDjGdwMMsPQ1) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi), [Phantom](https://open.spotify.com/artist/3OTu83w505CLRat7nFoQeV) | [Sugarcane](https://open.spotify.com/album/4TBJjgBalFgE5fqiof8mWh) | 2:36 | 2022-07-13 |  |
 | [Sugarcane \- Dutch Remix](https://open.spotify.com/track/61tg9mVHe87QwDWYW4VJoD) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi), [Rich2Gether](https://open.spotify.com/artist/7JEKwHEyxkl7GMIZmTVllb), [JMANI](https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3) | [Sugarcane \(Dutch Remix\)](https://open.spotify.com/album/29jB9OyaNU5moCbdcSpsVJ) | 3:38 | 2022-09-01 |  |
 | [Sungba \(feat\. Burna Boy\) \- Remix](https://open.spotify.com/track/5FtWjKVBTMklN2yCP9UhF6) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Sungba \(Remix\) \[feat\. Burna Boy\]](https://open.spotify.com/album/4zK5YK5uXEDbGPnvv7DCNE) | 3:30 | 2022-07-13 |  |

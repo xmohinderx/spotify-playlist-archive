@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbm6HfkbMtFZ.md) - [plain]
 
 > An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 604,417 likes - 115 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 604,674 likes - 115 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,8 +110,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbm6HfkbMtFZ.md) - [plain]
 | 100 | [Easier Said Than Done](https://open.spotify.com/track/7dIPEjXoxkhmNR9S7EQVJ0) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Thee Sacred Souls](https://open.spotify.com/album/0UKT9me1zkVDmah2MjmCma) | 2:54 |
 | 101 | [Withorwithout](https://open.spotify.com/track/1Avnd5xLg7HmaNofmYk7RQ) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Parcels](https://open.spotify.com/album/6tNAnVG8xrmMbINuWutrNy) | 3:25 |
 | 102 | [Mushaboom](https://open.spotify.com/track/66olzBxCgKlpFRB1LKH5pO) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Let It Die](https://open.spotify.com/album/1dukVxiix2ckr6CMs1T1zI) | 3:44 |
-| 103 | [No Ending](https://open.spotify.com/track/6oqu8k5xFlEO9d0epyyHGC) | [Delv!s](https://open.spotify.com/artist/4cHYNNA4fiedY4Wpd0iVo2) | [No Ending](https://open.spotify.com/album/6KXuLqANULTBsHJIzadNBk) | 3:53 |
-| 104 | [Aphrodite](https://open.spotify.com/track/60q1qCrbsMcz1Dj0mBTjhH) | [TRESOR](https://open.spotify.com/artist/5tYaRVYbV1anmzyxqMVdHi), [Beatenberg](https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU) | [Nostalgia](https://open.spotify.com/album/4Hm7KHdv1q1T8hDiMbKJqS) | 3:54 |
+| 103 | [Aphrodite](https://open.spotify.com/track/60q1qCrbsMcz1Dj0mBTjhH) | [TRESOR](https://open.spotify.com/artist/5tYaRVYbV1anmzyxqMVdHi), [Beatenberg](https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU) | [Nostalgia](https://open.spotify.com/album/4Hm7KHdv1q1T8hDiMbKJqS) | 3:54 |
+| 104 | [No Ending](https://open.spotify.com/track/6oqu8k5xFlEO9d0epyyHGC) | [Delv!s](https://open.spotify.com/artist/4cHYNNA4fiedY4Wpd0iVo2) | [No Ending](https://open.spotify.com/album/6KXuLqANULTBsHJIzadNBk) | 3:53 |
 | 105 | [Cruisin' to the Parque feat\. Y La Bamba](https://open.spotify.com/track/1nCEYuoVGIyff0Gb8acGAq) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Y La Bamba](https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b) | [Cruisin' To The Parque feat\. Y La Bamba](https://open.spotify.com/album/4WZY8uTnoLtLPyeROJhAxh) | 3:35 |
 | 106 | [Debbie](https://open.spotify.com/track/1NWQFhNItpBUiaE8c8vvNZ) | [Your Smith](https://open.spotify.com/artist/2kTZfKGZEj8R76z3ooKOF1) | [Bad Habit](https://open.spotify.com/album/7dUv8LcGbAfQn5Rtf9ffC7) | 3:11 |
 | 107 | [I Might Be](https://open.spotify.com/track/5uKH4nY6ALq8jGNZ0BYlBH) | [Tōth](https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc) | [You and Me and Everything](https://open.spotify.com/album/0csxZuCz56owUfU6dC7Dth) | 3:36 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbm6HfkbMtFZ.md) - [plain]
 | 114 | [Freedom For a Change](https://open.spotify.com/track/6IED3V6GMa9SyP8xwkeqpD) | [Gizmo Varillas](https://open.spotify.com/artist/47i4lPow1dIRwOb85AB6lj) | [El Dorado](https://open.spotify.com/album/4sehYh39cQn4y8133SG1En) | 2:38 |
 | 115 | [You Don’t Want Me](https://open.spotify.com/track/6wzlFp6Xi5fo3iKZsBFI6V) | [Wesley Bright](https://open.spotify.com/artist/5sDnPhZdAs4FW1ewepXdFj), [Wesley Bright and the Honeytones](https://open.spotify.com/artist/6MW5yx2dPhGcNizd0Y4L9l) | [You Don't Want Me](https://open.spotify.com/album/7yHaXgmBkt2dWA6LC6pY2e) | 4:25 |
 
-Snapshot ID: `MTY2MjY1MzM4MSwwMDAwMDAwMDNjNjFhZGZkNTlhOWE3MjY5MGFlZWM3YmFhZTRkNTRh`
+Snapshot ID: `MTY2MjY1MzM4MSwwMDAwMDAwMDk3M2I1OTg5ZjAxMGYzZTAzMDNmMjJhNjUyY2M1ZmRm`

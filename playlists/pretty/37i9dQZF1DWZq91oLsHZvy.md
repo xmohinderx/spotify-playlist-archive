@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZq91oLsHZvy.md) - [plain]
 
 > Run to indie and alternative hits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,573 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,618 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZq91oLsHZvy.md) - [plain]
 | 9 | [Francis Forever](https://open.spotify.com/track/5411TEB6tlzvuF5A4oyldr) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Bury Me At Makeout Creek](https://open.spotify.com/album/3I2KkX13lHXuYqfBjSOopo) | 2:29 |
 | 10 | [Feel It Still](https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Woodstock](https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB) | 2:43 |
 | 11 | [Ain't No Rest for the Wicked](https://open.spotify.com/track/3Pzh926pXggbMe2ZpXyMV7) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Cage The Elephant \(Expanded Edition\)](https://open.spotify.com/album/7H814Cg8HV0qpoMheYbhNn) | 2:55 |
-| 12 | [What You Know](https://open.spotify.com/track/3UjtIALeg72qmJiKPWBvM3) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Tourist History](https://open.spotify.com/album/0SD7kwnJEC2oDzQBKEHQnH) | 3:11 |
-| 13 | [Breezeblocks](https://open.spotify.com/track/3n69hLUdIsSa1WlRmjMZlW) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [An Awesome Wave](https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL) | 3:47 |
+| 12 | [Breezeblocks](https://open.spotify.com/track/3n69hLUdIsSa1WlRmjMZlW) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [An Awesome Wave](https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL) | 3:47 |
+| 13 | [What You Know](https://open.spotify.com/track/3UjtIALeg72qmJiKPWBvM3) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Tourist History](https://open.spotify.com/album/0SD7kwnJEC2oDzQBKEHQnH) | 3:11 |
 | 14 | [Midnight City](https://open.spotify.com/track/1eyzqe2QqGZUmfcPZtrIyt) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Hurry Up, We're Dreaming](https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR) | 4:01 |
 | 15 | [Dog Days Are Over](https://open.spotify.com/track/1YLJVmuzeM2YSUkCCaTNUB) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Edition\)](https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ) | 4:11 |
 | 16 | [Clarity](https://open.spotify.com/track/5c6lM2zjAF6MFoD8C1hiBr) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Clarity](https://open.spotify.com/album/4V3BerycmgxqE3sr3RaDYE) | 3:47 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZq91oLsHZvy.md) - [plain]
 | 50 | [This Song Is Not About A Girl](https://open.spotify.com/track/40H5MGB07FCEmrgHBlmLDU) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Lockjaw](https://open.spotify.com/album/4wngUMjPQwiOngxqKPuh5p) | 4:14 |
 | 51 | [Soundcheck](https://open.spotify.com/track/60W7Co2AoP5VVG5Gwu6p5P) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [The Ride](https://open.spotify.com/album/07IHAhsG4FnnfHQSb3bbAZ) | 4:21 |
 | 52 | [There's A Reason Why \(I Never Returned Your Calls\)](https://open.spotify.com/track/5pVbLYTdihSKd8Kylfhwa7) | [Blossoms](https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5) | [Cool Like You \(Deluxe\)](https://open.spotify.com/album/0yO5Mwu2oDdGbeRFpAaBGa) | 3:42 |
-| 53 | [She Moves In Her Own Way](https://open.spotify.com/track/2SGBEDwsOAOAHrrdAd304i) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Inside In / Inside Out](https://open.spotify.com/album/4MhInH4XT7ReDV5fCZjaSz) | 2:49 |
-| 54 | [Pumpin Blood](https://open.spotify.com/track/7ti4qMC7xYQeh1uRzj5XuM) | [NONONO](https://open.spotify.com/artist/513t0jZUP0K98C4h7KHtEb) | [We Are Only What We Feel](https://open.spotify.com/album/58z2Nvab8wcQNs0n4J3GNZ) | 3:29 |
+| 53 | [Pumpin Blood](https://open.spotify.com/track/7ti4qMC7xYQeh1uRzj5XuM) | [NONONO](https://open.spotify.com/artist/513t0jZUP0K98C4h7KHtEb) | [We Are Only What We Feel](https://open.spotify.com/album/58z2Nvab8wcQNs0n4J3GNZ) | 3:29 |
+| 54 | [She Moves In Her Own Way](https://open.spotify.com/track/2SGBEDwsOAOAHrrdAd304i) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Inside In / Inside Out](https://open.spotify.com/album/4MhInH4XT7ReDV5fCZjaSz) | 2:49 |
 | 55 | [Colours](https://open.spotify.com/track/6gSKswfcoWvaadqvuMF3Y7) | [Grouplove](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Never Trust a Happy Song](https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc) | 4:17 |
 | 56 | [Our Own House](https://open.spotify.com/track/3QzbEvmnuZIONNv82PylZb) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Our Own House](https://open.spotify.com/album/726GB3GTBwPdsGr5XzOQbz) | 3:52 |
 | 57 | [Love Illumination](https://open.spotify.com/track/06Qha323s06okpZ4LmMX7P) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Right Thoughts, Right Words, Right Action \(Deluxe Edition\)](https://open.spotify.com/album/5W7631WJASasWPAFFzDpzi) | 3:42 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZq91oLsHZvy.md) - [plain]
 | 65 | [Go](https://open.spotify.com/track/2GuXIMRlaxVLcU0a5jacHw) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | ["Let's Rock"](https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg) | 2:26 |
 | 66 | [The Wolf](https://open.spotify.com/track/2rS77EbhEs7Y2UZD8pWIPb) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Wilder Mind](https://open.spotify.com/album/7yVx5zJONB6MO8zL1jHN7i) | 3:41 |
 | 67 | [Flashlight](https://open.spotify.com/track/5VeX28xDZhSgs7NWIR1Owp) | [The Front Bottoms](https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS) | [The Front Bottoms](https://open.spotify.com/album/5pCQUIEmbZveYwLmO3Iedv) | 4:57 |
-| 68 | [Go It Alone](https://open.spotify.com/track/7zeCIWu37bKFJuem8MTyM1) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Guero](https://open.spotify.com/album/2EugWXUZjr78KJFqZavvZT) | 4:08 |
-| 69 | [The Ghosts of Beverly Drive](https://open.spotify.com/track/6wNCdMW82LwJgFrnGqLhpJ) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Kintsugi](https://open.spotify.com/album/6BK3muExDOuk0VnyMn9NVw) | 4:03 |
+| 68 | [The Ghosts of Beverly Drive](https://open.spotify.com/track/6wNCdMW82LwJgFrnGqLhpJ) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Kintsugi](https://open.spotify.com/album/6BK3muExDOuk0VnyMn9NVw) | 4:03 |
+| 69 | [Go It Alone](https://open.spotify.com/track/7zeCIWu37bKFJuem8MTyM1) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Guero](https://open.spotify.com/album/2EugWXUZjr78KJFqZavvZT) | 4:08 |
 | 70 | [One Minute More](https://open.spotify.com/track/0NYLOvWtvJdyeceDD9R1Vw) | [Capital Cities](https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu), [Sebu Simonian](https://open.spotify.com/artist/2qNFFftPmkByIgN023GgLZ) | [In A Tidal Wave Of Mystery \(Deluxe Edition\)](https://open.spotify.com/album/3WrufJir7I61NkvkDwxero) | 3:22 |
 | 71 | [Gimme Twice](https://open.spotify.com/track/3DUBhiM44zetJNERX0n8Nk) | [The Royal Concept](https://open.spotify.com/artist/7LAucJAvbQa7ZIA0qP8YI2) | [Royal](https://open.spotify.com/album/4o7rdd2fYeSEXcTJLzpvsg) | 3:24 |
 | 72 | [Dancing Anymore](https://open.spotify.com/track/3Xd0819paqFQB4LBA8XVb0) | [IS TROPICAL](https://open.spotify.com/artist/148ujrGRexnhpqhRiw0rDi) | [I'm Leaving](https://open.spotify.com/album/5Fjrapit4FBhLL0E1q6z3Z) | 5:18 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZq91oLsHZvy.md) - [plain]
 | 75 | [Burning](https://open.spotify.com/track/2S2nmmJAS5efQ5fVrvYAQj) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [Lost In The Dream](https://open.spotify.com/album/51VxHZphGLsI7aUPqIkJaz) | 5:48 |
 | 76 | [One Thing Left to Try](https://open.spotify.com/track/52pWggDlN5mVeX111i06PP) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Little Dark Age](https://open.spotify.com/album/7GjVWG39IOj4viyWplJV4H) | 4:20 |
 | 77 | [Need You Now](https://open.spotify.com/track/5MRYyecW552BEq2nRBfIQX) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [Why Make Sense? \(Definitive Version\)](https://open.spotify.com/album/1ID4yRgxYUutcLKzYDcln4) | 4:45 |
-| 78 | [XOXO](https://open.spotify.com/track/1YzIe5I0UNPgPRPxYpe92f) | [Cherub](https://open.spotify.com/artist/00dwwnz3V4kRfu3UFYpJLz) | [MoM & DaD](https://open.spotify.com/album/1J2rHvvYb6ChhdUXTYkRWJ) | 4:51 |
-| 79 | [Cannons](https://open.spotify.com/track/1tgLMyNVmgtLJcOfE0wbyJ) | [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) | [The Year of Hibernation](https://open.spotify.com/album/7jG32gfkuo10qarPgmWC7q) | 3:44 |
+| 78 | [Cannons](https://open.spotify.com/track/1tgLMyNVmgtLJcOfE0wbyJ) | [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) | [The Year of Hibernation](https://open.spotify.com/album/7jG32gfkuo10qarPgmWC7q) | 3:44 |
+| 79 | [XOXO](https://open.spotify.com/track/1YzIe5I0UNPgPRPxYpe92f) | [Cherub](https://open.spotify.com/artist/00dwwnz3V4kRfu3UFYpJLz) | [MoM & DaD](https://open.spotify.com/album/1J2rHvvYb6ChhdUXTYkRWJ) | 4:51 |
 | 80 | [Vowels](https://open.spotify.com/track/2mvEB4KV6L54cfMe9bkzsw) | [Capital Cities](https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu) | [Solarize](https://open.spotify.com/album/0i38zdK4NoZLJmKPkzf1WB) | 3:04 |
 | 81 | [1998](https://open.spotify.com/track/0DdNKXYhsBBrHsUyMOdRaa) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om), [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [1998](https://open.spotify.com/album/1uWEdiOlz8bwBOl1Mho0ap) | 3:44 |
 | 82 | [Entertainment](https://open.spotify.com/track/6CplRWasnvBmi33sFv6xYn) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Bankrupt!](https://open.spotify.com/album/1s7a0VpP3aNEubiTgx6YlU) | 3:39 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZq91oLsHZvy.md) - [plain]
 | 99 | [In The Morning](https://open.spotify.com/track/2jNyUpqrjTgQn9fLWI6cMY) | [Razorlight](https://open.spotify.com/artist/450iujbtN6XgiA9pv6fVZz) | [Alternative Rock Anthems](https://open.spotify.com/album/6HqFU3JhIwBSjpnGYVI3E7) | 3:41 |
 | 100 | [Dirtball](https://open.spotify.com/track/2PUUFzVs8bjNrmoO12lskz) | [Modern Nun](https://open.spotify.com/artist/7A4YoJsZWQ3GRrHLGEmamb) | [Dirtball](https://open.spotify.com/album/1tiLz9mIQWcW801PJM0aD4) | 2:43 |
 
-Snapshot ID: `MTY2MzMwNDM1OCwwMDAwMDAwMDE0YTJmZDMzNjJkNWU2N2U4NWNhZmE4YWM4ODRmYjRk`
+Snapshot ID: `MTY2MzMwNDM1OCwwMDAwMDAwMGNlYjYwYzIyZTAyM2FmZTZiODA5NTIyYjQ5Y2U3NzJi`

@@ -4,7 +4,7 @@
 
 > Bailando de caballito, aunque se enoje tu mamá\. Mi Banda El Mexicano en portada.
 
-87 songs - 4 hr 29 min - [published](https://open.spotify.com/playlist/6lQGShtqHlUTR1KQhiWK9V)
+88 songs - 4 hr 33 min - [published](https://open.spotify.com/playlist/6lQGShtqHlUTR1KQhiWK9V)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,8 @@
 | [Feliz Feliz](https://open.spotify.com/track/0JZV1UuBsbSwHhGirgWaXI) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Mi Mexico Querido](https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1) | 3:37 | 2022-04-13 |  |
 | [Feliz, Feliz](https://open.spotify.com/track/6hFek9A3Xz4g1vgSYJBnzV) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Grupo El Mexicano](https://open.spotify.com/album/06QIUFuTgAr4DNUeuu9sX8) | 3:38 | 2022-04-13 | 2022-07-29 |
 | [Funk Town](https://open.spotify.com/track/489KguuubKHZbLtUQSnKK6) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Funky Town Recordando los Exitos, Vol\. 6](https://open.spotify.com/album/3qv9mycLS6sXaEkrNVSkAy) | 4:06 | 2022-04-13 |  |
-| [Hotel California](https://open.spotify.com/track/3h2HTBcEqFAlHsY8gJJrGn) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Grandes Bandas](https://open.spotify.com/album/6DejTyQTl57yvFotq3l4xg) | 4:17 | 2022-04-13 |  |
+| [Hotel California](https://open.spotify.com/track/7aGYG6w2hMxiJXot3LZVTS) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Jacarandosa](https://open.spotify.com/album/3QXuIFZnAGmlahOic59KsT) | 4:16 | 2022-04-13 |  |
+| [Hotel California](https://open.spotify.com/track/3h2HTBcEqFAlHsY8gJJrGn) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Grandes Bandas](https://open.spotify.com/album/6DejTyQTl57yvFotq3l4xg) | 4:17 | 2022-04-13 | 2022-09-23 |
 | [La Bota](https://open.spotify.com/track/5s3IWiEUyNocPtapPxqlPd) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Mi Mexico Querido](https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1) | 3:28 | 2022-04-13 |  |
 | [La Bota](https://open.spotify.com/track/3kUmCQhA8aFuKPYcZYNJ0X) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Grupo El Mexicano](https://open.spotify.com/album/06QIUFuTgAr4DNUeuu9sX8) | 3:28 | 2022-04-13 | 2022-07-29 |
 | [La cuca](https://open.spotify.com/track/6fAgsEWreF327VmKHhKQYf) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Mix movidas románticas \(USA\)](https://open.spotify.com/album/6XhzyrKMawpGgrMm32F70e) | 2:55 | 2022-04-13 |  |

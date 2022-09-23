@@ -1,12 +1,12 @@
 {
   "description": "Psyched-out bands from the four corners of the world.",
-  "num_followers": 307773,
+  "num_followers": 307912,
   "original_name": "Neo-Psychedelic Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mjg2NjcwMSwwMDAwMDAwMDE0ODkzYzkyNGE4MzYyNmM4ODk5ZGU1M2M4ZDU1YmFk",
+  "snapshot_id": "MTY2Mjg2NjcwMSwwMDAwMDAwMDFmZjE5YWNkZjJlYTU1YjJlMGQ1NTZiYjFiYTM0YzZh",
   "tracks": [
     {
       "added_at": "2022-09-03 04:25:40",
@@ -1201,6 +1201,22 @@
       "url": "https://open.spotify.com/track/6aKI6d7NkTPqHoElel3TnI"
     },
     {
+      "added_at": "2022-08-03 04:22:19",
+      "album": {
+        "name": "A Round of Applause",
+        "url": "https://open.spotify.com/album/7okWE6leJxAshjMYpr2ifw"
+      },
+      "artists": [
+        {
+          "name": "Hooveriii",
+          "url": "https://open.spotify.com/artist/4zmrLVufAWS6bWdSfXfaB7"
+        }
+      ],
+      "duration_ms": 265374,
+      "name": "See",
+      "url": "https://open.spotify.com/track/0wNR01ZZBPtPnyHOvFK5mB"
+    },
+    {
       "added_at": "2022-08-03 04:25:04",
       "album": {
         "name": "Don't Delay, Join Today!",
@@ -1215,22 +1231,6 @@
       "duration_ms": 128917,
       "name": "Strange Secrets Worth Knowing",
       "url": "https://open.spotify.com/track/0XDFrRl5464H97zLQZiC1W"
-    },
-    {
-      "added_at": "2021-11-12 05:23:58",
-      "album": {
-        "name": "V.",
-        "url": "https://open.spotify.com/album/5KjpFRvPpExlRIuDQqwhNk"
-      },
-      "artists": [
-        {
-          "name": "Wooden Shjips",
-          "url": "https://open.spotify.com/artist/35rFgnhlSSYflP4HpC3JM0"
-        }
-      ],
-      "duration_ms": 383100,
-      "name": "Eclipse",
-      "url": "https://open.spotify.com/track/7ww3ZrwEJbZjWhmAac71Mk"
     }
   ],
   "unique_name": "Neo-Psychedelic Rock",

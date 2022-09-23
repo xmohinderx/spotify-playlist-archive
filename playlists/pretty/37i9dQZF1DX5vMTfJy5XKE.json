@@ -1,12 +1,12 @@
 {
   "description": "'Tis the season! All new holiday releases. Cover: Elton John & Ed Sheeran",
-  "num_followers": 201398,
+  "num_followers": 201377,
   "original_name": "New Music Holiday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDMyMjAwMCwwMDAwMDAwMDg0ODY2ZjgxMWZlZWVjY2ZhYmIwNGUyN2IyNTRiNWQy",
+  "snapshot_id": "MTY0MDMyMjAwMCwwMDAwMDAwMDUwYmQ1NDc1ZTQwYmM3ZGRjNDE1YjlkZGNlNDdiZDhj",
   "tracks": [
     {
       "added_at": "2021-12-24 05:00:00",
@@ -227,22 +227,6 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "Happy New Year - Spotify Singles: Holiday",
-        "url": "https://open.spotify.com/album/0lcmBSL5gnznCRwyX6boRL"
-      },
-      "artists": [
-        {
-          "name": "LOVA",
-          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
-        }
-      ],
-      "duration_ms": 184828,
-      "name": "Happy New Year - Spotify Singles: Holiday",
-      "url": "https://open.spotify.com/track/7JGCzG4u3YNom3CTwz2kpr"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
         "name": "Evergreen",
         "url": "https://open.spotify.com/album/7HgVH7ChzqayHdf1eAi9c1"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 137093,
       "name": "Frosty The Snowman (feat. Alessia Cara)",
       "url": "https://open.spotify.com/track/7dg8ikrVSTkpu8RVl2NkAc"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "Happy New Year - Spotify Singles: Holiday",
+        "url": "https://open.spotify.com/album/0lcmBSL5gnznCRwyX6boRL"
+      },
+      "artists": [
+        {
+          "name": "LOVA",
+          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
+        }
+      ],
+      "duration_ms": 184828,
+      "name": "Happy New Year - Spotify Singles: Holiday",
+      "url": "https://open.spotify.com/track/7JGCzG4u3YNom3CTwz2kpr"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "Rockin' Around The Christmas Tree",
-        "url": "https://open.spotify.com/album/5cYuIkRzTLIwaPEXv3LYcr"
-      },
-      "artists": [
-        {
-          "name": "Meghan Trainor",
-          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
-        }
-      ],
-      "duration_ms": 148154,
-      "name": "Rockin' Around The Christmas Tree",
-      "url": "https://open.spotify.com/track/6sYE0q44GF0pQA5M1nyqCG"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
         "name": "2000 Miles",
         "url": "https://open.spotify.com/album/1jSTa8MOmxE82tnRgyptV4"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 166801,
       "name": "2000 Miles",
       "url": "https://open.spotify.com/track/2wFwLE6yefjVZzUQSGGKM1"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "Rockin' Around The Christmas Tree",
+        "url": "https://open.spotify.com/album/5cYuIkRzTLIwaPEXv3LYcr"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "duration_ms": 148154,
+      "name": "Rockin' Around The Christmas Tree",
+      "url": "https://open.spotify.com/track/6sYE0q44GF0pQA5M1nyqCG"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "North Star (Single from \"Music from Zoey's Extraordinary Christmas\")",
-        "url": "https://open.spotify.com/album/1vOqSsMFFo72MxM6UksoDt"
-      },
-      "artists": [
-        {
-          "name": "Tori Kelly",
-          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
-        }
-      ],
-      "duration_ms": 222163,
-      "name": "North Star (Single From \u201cMusic From Zoey\u2019s Extraordinary Christmas\u201d)",
-      "url": "https://open.spotify.com/track/5rZGLms9i9cKgx3udMVQep"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
         "name": "Holiday",
         "url": "https://open.spotify.com/album/0esiV0ZlR14SjM9mdAvtAx"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 248066,
       "name": "Last Christmas",
       "url": "https://open.spotify.com/track/5heNmoqcn6AO5aIf4lvfgp"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "North Star (Single from \"Music from Zoey's Extraordinary Christmas\")",
+        "url": "https://open.spotify.com/album/1vOqSsMFFo72MxM6UksoDt"
+      },
+      "artists": [
+        {
+          "name": "Tori Kelly",
+          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
+        }
+      ],
+      "duration_ms": 222163,
+      "name": "North Star (Single From \u201cMusic From Zoey\u2019s Extraordinary Christmas\u201d)",
+      "url": "https://open.spotify.com/track/5rZGLms9i9cKgx3udMVQep"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -1903,6 +1903,26 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
+        "name": "The Dream of Christmas",
+        "url": "https://open.spotify.com/album/1JcDlQRrS0E3EgnxLs27SD"
+      },
+      "artists": [
+        {
+          "name": "Gary Barlow",
+          "url": "https://open.spotify.com/artist/3ZcbVcd3fsf9qKK02UVzGB"
+        },
+        {
+          "name": "Sheridan Smith",
+          "url": "https://open.spotify.com/artist/2x1Bwuwa2yM1Tnxb8Lj6BE"
+        }
+      ],
+      "duration_ms": 159412,
+      "name": "How Christmas Is Supposed To Be (feat. Sheridan Smith)",
+      "url": "https://open.spotify.com/track/3zw1izLVNY4kWcIyrRULeM"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
         "name": "Winter Song",
         "url": "https://open.spotify.com/album/5lGOMN6Wmt1MzJcpxefQKE"
       },
@@ -1939,26 +1959,6 @@
       "duration_ms": 185280,
       "name": "O Holy Night (duet with Calum Scott)",
       "url": "https://open.spotify.com/track/6uVIFU7TaQ9MA2CNNQdgTp"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
-        "name": "The Dream of Christmas",
-        "url": "https://open.spotify.com/album/1JcDlQRrS0E3EgnxLs27SD"
-      },
-      "artists": [
-        {
-          "name": "Gary Barlow",
-          "url": "https://open.spotify.com/artist/3ZcbVcd3fsf9qKK02UVzGB"
-        },
-        {
-          "name": "Sheridan Smith",
-          "url": "https://open.spotify.com/artist/2x1Bwuwa2yM1Tnxb8Lj6BE"
-        }
-      ],
-      "duration_ms": 159412,
-      "name": "How Christmas Is Supposed To Be (feat. Sheridan Smith)",
-      "url": "https://open.spotify.com/track/3zw1izLVNY4kWcIyrRULeM"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -2075,6 +2075,22 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
+        "name": "Mittens (From the Holiday Movie 'Christmas in Tahoe')",
+        "url": "https://open.spotify.com/album/0BBB5KVjdfD4z7EVUTFYDv"
+      },
+      "artists": [
+        {
+          "name": "Train",
+          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
+        }
+      ],
+      "duration_ms": 201996,
+      "name": "Mittens (From the Holiday Movie 'Christmas in Tahoe')",
+      "url": "https://open.spotify.com/track/3Ls0XhCJg3CnCZQOe3dWSF"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
         "name": "Have Yourself A Merry Little Christmas (feat. Missy Higgins)",
         "url": "https://open.spotify.com/album/4ymnWZQ8tAE6AkyhlwEags"
       },
@@ -2095,22 +2111,6 @@
       "duration_ms": 197500,
       "name": "Have Yourself A Merry Little Christmas (feat. Missy Higgins)",
       "url": "https://open.spotify.com/track/1mgs3y0GGmKA941T9qQicU"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
-        "name": "Mittens (From the Holiday Movie 'Christmas in Tahoe')",
-        "url": "https://open.spotify.com/album/0BBB5KVjdfD4z7EVUTFYDv"
-      },
-      "artists": [
-        {
-          "name": "Train",
-          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
-        }
-      ],
-      "duration_ms": 201996,
-      "name": "Mittens (From the Holiday Movie 'Christmas in Tahoe')",
-      "url": "https://open.spotify.com/track/3Ls0XhCJg3CnCZQOe3dWSF"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -2207,6 +2207,22 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
+        "name": "It's Christmas",
+        "url": "https://open.spotify.com/album/5TiuPbm20D55Tpwr6lF4pj"
+      },
+      "artists": [
+        {
+          "name": "Callum Beattie",
+          "url": "https://open.spotify.com/artist/4uFxymnU41sM7ytUCjuYTN"
+        }
+      ],
+      "duration_ms": 213349,
+      "name": "It's Christmas",
+      "url": "https://open.spotify.com/track/1O5SDSBclXo7t3yWdIOugN"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
         "name": "Wonderful Time",
         "url": "https://open.spotify.com/album/0i2aSmDz2rDQi4sZh4pKxL"
       },
@@ -2223,22 +2239,6 @@
       "duration_ms": 161157,
       "name": "Wonderful Time",
       "url": "https://open.spotify.com/track/1wdnIgVKUpEIpNSvhLta3N"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
-        "name": "It's Christmas",
-        "url": "https://open.spotify.com/album/5TiuPbm20D55Tpwr6lF4pj"
-      },
-      "artists": [
-        {
-          "name": "Callum Beattie",
-          "url": "https://open.spotify.com/artist/4uFxymnU41sM7ytUCjuYTN"
-        }
-      ],
-      "duration_ms": 213349,
-      "name": "It's Christmas",
-      "url": "https://open.spotify.com/track/1O5SDSBclXo7t3yWdIOugN"
     },
     {
       "added_at": "2021-12-24 05:00:00",

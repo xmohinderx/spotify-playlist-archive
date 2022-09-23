@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe3aCmUoBd8n.md) - [plain]
 
 > Top Sharqi hits right now\. Cover: Wael Kfoury.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,008 likes - 54 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,055 likes - 54 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe3aCmUoBd8n.md) - [plain]
 | 7 | [وحدة استثنائية](https://open.spotify.com/track/3Bnv2cObKDoOkGsEUiB5ng) | [Rawan Bin Hussain](https://open.spotify.com/artist/2EwH8s2tM7Oxp45dIW6oNQ) | [وحدة استثنائية](https://open.spotify.com/album/6TrVUinitYu2meZYum1FSI) | 3:32 |
 | 8 | [khallina N3esh](https://open.spotify.com/track/7qq9gkXMLG64zEnqTn2s9o) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [khallina N3esh](https://open.spotify.com/album/4bUVYFe5LEtKByQcKmRvQg) | 3:29 |
 | 9 | [زهرة من الياسمين](https://open.spotify.com/track/0tS4ytQ1au13MkSFESa6B7) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [زهرة من الياسمين](https://open.spotify.com/album/5CLgYJzaltpiwQOjXf4bD8) | 4:10 |
-| 10 | [بحارب فيها](https://open.spotify.com/track/74dkAlEbjBPHK3HrLXiAmC) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8) | [بحارب فيها](https://open.spotify.com/album/4x1Bl2uSE5UPlfnQXwlo2U) | 4:05 |
+| 10 | [بحارب فيها](https://open.spotify.com/track/0XDtC0f0gsLPPVvbFiu07q) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8) | [بحارب فيها](https://open.spotify.com/album/0LLAkjCkZJFQInR2cQ9KFe) | 4:05 |
 | 11 | [Ala Bali](https://open.spotify.com/track/0MxeOx5YwpkXIlCmr6xOjP) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g) | [Elyanna 2](https://open.spotify.com/album/6fV0By80SOnUuqKt5wpk2A) | 2:19 |
 | 12 | [الدنيا بعينيا](https://open.spotify.com/track/5HsOqrwWovST07mWul6LfD) | [Anas Kareem](https://open.spotify.com/artist/03IOvKWtAnWAOVf5864dUS) | [الدنيا بعينيا](https://open.spotify.com/album/19l3MlaXMntBa9xOoB79ZJ) | 2:25 |
 | 13 | [Ouaa Tkhaf](https://open.spotify.com/track/56ghyTakOok9eCfKVktmpR) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [Ouaa Tkhaf](https://open.spotify.com/album/2mP2rUwMr39mK3tajSBxmU) | 2:50 |
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe3aCmUoBd8n.md) - [plain]
 | 53 | [Bil Alb](https://open.spotify.com/track/52HaEtH8TMoVoUwZ2KrHRF) | [Bashaar Al Jawad](https://open.spotify.com/artist/6cWm8WSuBJ3D4DYPPjzl3W) | [Bil Alb](https://open.spotify.com/album/35lfHRMDOUnwQQxco8Rkph) | 3:30 |
 | 54 | [Kelna Mnenjar](https://open.spotify.com/track/0KGZNoR5kZ1aUw83pfunng) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [Kelna Mnenjar](https://open.spotify.com/album/3cPQv8RJQYIShkRDMhaO2R) | 3:10 |
 
-Snapshot ID: `MTY2MTY4NjczNSwwMDAwMDAwMGQ2MTkyNjRkYWI1YzBjNGU0NjM0YmU3NjU2ZWMzNWVm`
+Snapshot ID: `MTY2MTY4NjczNSwwMDAwMDAwMDQwZmRmYjdlNGYxZjM2ZDg1ZWVkNjU4NzUzZjc3Njhi`

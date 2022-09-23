@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1nqy6pUAoUv.md) - [plain]
 
 > New music and recent favorites from rising and iconic songsmiths and storytellers\. Cover: Jake Blount
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,379 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,409 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1nqy6pUAoUv.md) - [plain]
 | 32 | [neve give up](https://open.spotify.com/track/2a5qaGUrVHWAIrh0xmTADM) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [aloha](https://open.spotify.com/album/3rioHzbE7RDGbgxzg9uFNd) | 3:41 |
 | 33 | [Nothing’s Gonna Happen](https://open.spotify.com/track/4WM5HfHQZ0N4o8HDNwRmRk) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Good Woman](https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl) | 3:36 |
 | 34 | [zombie girl](https://open.spotify.com/track/3v2OxIsGWJXWfLuRkB59Q6) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [songs](https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ) | 2:44 |
-| 35 | [Mohabbat](https://open.spotify.com/track/4lcQHckNMeUkM8jx67j28G) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Vulture Prince](https://open.spotify.com/album/6HrBTi1F76h7mJuQDHEijH) | 7:42 |
-| 36 | [Bloomsday](https://open.spotify.com/track/3E32ScayKIBK9JYehnRek9) | [Samantha Crain](https://open.spotify.com/artist/5dpLK5cD7FwWyDKv4qbodS) | [Pick Apart](https://open.spotify.com/album/3zLwkjB6CMrlyeEvlNriiO) | 3:19 |
+| 35 | [Bloomsday](https://open.spotify.com/track/3E32ScayKIBK9JYehnRek9) | [Samantha Crain](https://open.spotify.com/artist/5dpLK5cD7FwWyDKv4qbodS) | [Pick Apart](https://open.spotify.com/album/3zLwkjB6CMrlyeEvlNriiO) | 3:19 |
+| 36 | [Mohabbat](https://open.spotify.com/track/4lcQHckNMeUkM8jx67j28G) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Vulture Prince](https://open.spotify.com/album/6HrBTi1F76h7mJuQDHEijH) | 7:42 |
 | 37 | [Better Days](https://open.spotify.com/track/02HJc2G0BfiJBJhet27Scm) | [Birdtalker](https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt) | [Better Days](https://open.spotify.com/album/76H7LQRjofrjoPlGDLwkwk) | 3:21 |
 | 38 | [Night Singing](https://open.spotify.com/track/6f249Hnx4ZO5Ioug2uS4r9) | [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek) | [Under the Pepper Tree](https://open.spotify.com/album/3TXtmWk1jns96neZrOzZDc) | 2:11 |
 | 39 | [Astral Plane](https://open.spotify.com/track/1ISGSSgVnZhyiOGSI8itNa) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Order Of Time](https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k) | 3:38 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1nqy6pUAoUv.md) - [plain]
 | 80 | [Broken Harvest](https://open.spotify.com/track/4RgMyZb1frf45zF2BSjMD4) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Broken Harvest](https://open.spotify.com/album/3cw9LHQyTxAjwGbkJDewme) | 4:47 |
 | 81 | [BAD DESIRE](https://open.spotify.com/track/61LLFpdZSENbZZIUQhXPcr) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi) | [WHITE NOISE](https://open.spotify.com/album/5WaysJDadbTMvfJLBbuw8b) | 4:13 |
 | 82 | [History Repeats](https://open.spotify.com/track/11rbkohh9XgnWneGQwROb7) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Jaime](https://open.spotify.com/album/3eMBjJtKjZrTi0N9mg6IcR) | 3:04 |
-| 83 | [Workin' Woman Blues](https://open.spotify.com/track/58KQWfgO3DEu4kHlsmQEXz) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Pushin' Against A Stone](https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ) | 3:05 |
-| 84 | [Saint Elizabeth](https://open.spotify.com/track/0AXVGjlzkolKVm7ZnD6pqB) | [Kaia Kater](https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm) | [Nine Pin](https://open.spotify.com/album/4an7nc1bshv75YnXbyp8bs) | 3:59 |
+| 83 | [Saint Elizabeth](https://open.spotify.com/track/0AXVGjlzkolKVm7ZnD6pqB) | [Kaia Kater](https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm) | [Nine Pin](https://open.spotify.com/album/4an7nc1bshv75YnXbyp8bs) | 3:59 |
+| 84 | [Workin' Woman Blues](https://open.spotify.com/track/58KQWfgO3DEu4kHlsmQEXz) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Pushin' Against A Stone](https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ) | 3:05 |
 | 85 | [Arkansas](https://open.spotify.com/track/4ZeDbi7KX58LMVhLLA6hmA) | [John Oates](https://open.spotify.com/artist/4TjR4K8rD5CqqqU59V6aGr) | [Arkansas](https://open.spotify.com/album/6p5HjGdps9cbPUURfPeWdf) | 4:20 |
 | 86 | [Rosey](https://open.spotify.com/track/6hQyok9o5eHVrOTrAnHKro) | [Bermuda Triangle](https://open.spotify.com/artist/7wPvbZRRBwR2rzVrxz6ixE) | [Rosey](https://open.spotify.com/album/3q96oj9JSBra41e2rCBPlG) | 3:45 |
 | 87 | [Freedom](https://open.spotify.com/track/1tqWLHz5zbLBw0YT7uBehE) | [Rose Cousins](https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ) | [Natural Conclusion](https://open.spotify.com/album/7vwzdcbSG3qsUBIJ3aVNqi) | 4:28 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1nqy6pUAoUv.md) - [plain]
 | 99 | [Cherokee Rose](https://open.spotify.com/track/6vk0YaOVXq9rQbMi5nKJ4Q) | [Eddie Berman](https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql) | [Broken English](https://open.spotify.com/album/0BuPCzTVIHRqTZmrg6yiFX) | 3:52 |
 | 100 | [Walk Through Fire](https://open.spotify.com/track/3IvY3M6RYfVWTquUxrBudU) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Walk Through Fire \(Deluxe Edition\)](https://open.spotify.com/album/0XOpyZAAkGomyeXBSQcFiL) | 3:47 |
 
-Snapshot ID: `MTY0Nzg4OTUyOCwwMDAwMDAwMDRlYTE5YTY0NjAyNmYzNzk5YjYwMmViZWQxYTM1ZWRh`
+Snapshot ID: `MTY0Nzg4OTUyOCwwMDAwMDAwMDgyMTBhMTIwYjgyNzZmNzFlY2E0ZGFhNzY1MDVmNjgy`

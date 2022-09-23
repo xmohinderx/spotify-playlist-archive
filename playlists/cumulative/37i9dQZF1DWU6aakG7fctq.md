@@ -4,7 +4,7 @@
 
 > Fresh Latin Indie\. Cover: Selene
 
-155 songs - 8 hr 32 min - [published](https://open.spotify.com/playlist/7MnJ2IoUwoMwkesw4ELHCy)
+156 songs - 8 hr 35 min - [published](https://open.spotify.com/playlist/7MnJ2IoUwoMwkesw4ELHCy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,7 +142,7 @@
 | [Suerte](https://open.spotify.com/track/4oBFRsX8QASmBHVrxYS5OU) | [Nutopia](https://open.spotify.com/artist/7fbrvNFwDFw8qTdR0dDSfP) | [Suerte](https://open.spotify.com/album/22qRsNNXZ7jR79iAefDGcy) | 2:46 | 2021-11-18 | 2022-07-29 |
 | [Summer Girl](https://open.spotify.com/track/5BYQQYhWq4iaffGzKanVwW) | [Tatiana Hazel](https://open.spotify.com/artist/5NvrRBcK6hRuboOL0CtZXU) | [DUALITY](https://open.spotify.com/album/1mHk73bDEklzG02PtK4lv4) | 3:41 | 2021-11-18 | 2022-07-29 |
 | [Summer Moon \(feat\. Kevin Kaarl\)](https://open.spotify.com/track/2dNGIZvZF71AR72OHpo3CE) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x), [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Summer Moon \(feat\. Kevin Kaarl\)](https://open.spotify.com/album/3kdPIjFwMkIBCIsUqt3SrV) | 2:57 | 2022-06-29 |  |
-| [Tarde](https://open.spotify.com/track/7D4se6J5kxfuJUF6BeTo71) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg) | [Me cansé de hacer canciones \(que no salgan si no estoy llorando\)](https://open.spotify.com/album/3BQJmgCqlUfOy6dfRytlsw) | 3:19 | 2022-08-11 |  |
+| [Tarde](https://open.spotify.com/track/7D4se6J5kxfuJUF6BeTo71) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg) | [Me cansé de hacer canciones \(que no salgan si no estoy llorando\)](https://open.spotify.com/album/3BQJmgCqlUfOy6dfRytlsw) | 3:19 | 2022-08-11 | 2022-09-23 |
 | [te alejas](https://open.spotify.com/track/3ZUNkZgE697qrnRCBZZOBz) | [andremustdie](https://open.spotify.com/artist/6J3J7gELfiEqZIiW7gVNrw), [El Otro Polo](https://open.spotify.com/artist/6guLg5yfcFlYyRp4DzrEO2) | [te alejas](https://open.spotify.com/album/2QBBsysSCOI2tmHqvNBG7j) | 4:58 | 2022-01-10 | 2022-07-26 |
 | [Te Quiero Olvidar](https://open.spotify.com/track/7HsVyALWw7ILw9wqNJGcUw) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP) | [Te Quiero Olvidar](https://open.spotify.com/album/7vC7hsFMfCARD5FQWiAzIY) | 3:22 | 2021-11-18 | 2022-08-12 |
 | [Tiemblo](https://open.spotify.com/track/2OD77ATmB5UFTVVGu49PLD) | [Lucía Covarrubias](https://open.spotify.com/artist/1PkahVFP71A6sk6Ww0ZSi1) | [Tiemblo](https://open.spotify.com/album/6j7dofd6X0Cr4Y1xewzC2G) | 2:58 | 2022-09-06 |  |
@@ -154,6 +154,7 @@
 | [Un Momento](https://open.spotify.com/track/4k1wOvis4BrvbkOT6jmaJ9) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Un Momento](https://open.spotify.com/album/6rObLR3OfwtAkft3WuEuTI) | 3:09 | 2022-08-19 |  |
 | [un poco más](https://open.spotify.com/track/1WFmdhHDXQT3xS1kMzuQNC) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [un poco más](https://open.spotify.com/album/5b1U3awRVijau7faHNtnxJ) | 2:18 | 2022-06-29 | 2022-09-20 |
 | [un poco más](https://open.spotify.com/track/5MRRGF2Si2Aql4TobjfGGf) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [un poco más](https://open.spotify.com/album/4EZwSUtUU2l136RiMYkAO0) | 2:18 | 2022-06-03 | 2022-07-29 |
+| [un poco más](https://open.spotify.com/track/6LKZFDMdW2I59hv7jA5UOV) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [ya se me pasará](https://open.spotify.com/album/4UdbepeAR4DDMLWR08MBxr) | 2:18 | 2022-09-06 |  |
 | [Verbenas](https://open.spotify.com/track/5ryuReLd1ZW0R2BCpgiG0W) | [Eva Ryjlen](https://open.spotify.com/artist/70Qg1joeoAwPXpnxpFe64w) | [Verbenas](https://open.spotify.com/album/7n3EUXlrYCr7fGydlXtRBC) | 4:13 | 2022-09-06 |  |
 | [Volver a Comenzar](https://open.spotify.com/track/2laeYSKqa9rFsoVuPKmOo6) | [Technicolor Fabrics](https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl), [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Volver a Comenzar](https://open.spotify.com/album/03RbdxiAdZEVBelOjPKZJp) | 3:07 | 2021-11-18 | 2022-09-07 |
 | [Volver A Empezar](https://open.spotify.com/track/2UuR56kahTzNGArpn3PWEF) | [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ) | [Volver A Empezar](https://open.spotify.com/album/2u7Y1Qyval9xBgqWo26ivN) | 2:55 | 2022-09-06 |  |

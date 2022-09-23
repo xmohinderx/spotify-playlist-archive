@@ -4,7 +4,7 @@
 
 > Find your flow with these trap and lofi beats.
 
-237 songs - 10 hr 26 min - [published](https://open.spotify.com/playlist/7G9URZLYPjRGYZEph2wbiQ)
+238 songs - 10 hr 29 min - [published](https://open.spotify.com/playlist/7G9URZLYPjRGYZEph2wbiQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -226,6 +226,7 @@
 | [Unbuttoned](https://open.spotify.com/track/1FU5fnmyjmf2zEPmnMqWaI) | [Timothy Infinite](https://open.spotify.com/artist/4rhZUbGllLmyrhbB9g2ZbX) | [Pajamas](https://open.spotify.com/album/0OFcSExDd2DVi2K8l9V5gh) | 2:23 | 2022-04-08 | 2022-05-27 |
 | [Unfaithful](https://open.spotify.com/track/0PhO372l28G96GYTAIguhO) | [djprodluigi](https://open.spotify.com/artist/2i6wA4AaBQLYJ9zxv4dnvI) | [Unfaithful](https://open.spotify.com/album/4lAcr0NSO9OF06inxnKITz) | 2:36 | 2022-06-17 |  |
 | [Untitled 73](https://open.spotify.com/track/2w2QF8Gw2WDsv5qgMAcRLA) | [RecDubCircuitry](https://open.spotify.com/artist/7s8aUjF0Cjhr4Tt8vwojL7) | [Untitled 73](https://open.spotify.com/album/5d2uMeSLuESzeyaxBiYZlo) | 2:31 | 2022-04-08 | 2022-05-27 |
+| [up2nogood](https://open.spotify.com/track/4Qf1wyD1SYIo8oxqSacGEi) | [Blac Bamboo](https://open.spotify.com/artist/4ypPDohUBzURhyETVv552h) | [up2nogood](https://open.spotify.com/album/3tXM6TH3dp2aYWJRaIoox4) | 3:16 | 2022-09-23 |  |
 | [Vaguely Familiar](https://open.spotify.com/track/6idquPxSFRAxjL8YZIuudz) | [Gloomi](https://open.spotify.com/artist/3M6KDspoVN5BoZYYURrvkt) | [Vaguely Familiar](https://open.spotify.com/album/4qSkBz77XobKTbhPfktVNs) | 2:33 | 2022-04-08 | 2022-05-27 |
 | [Vaporize](https://open.spotify.com/track/6N7Hgy6ZpFxdK8rxXZh9TB) | [Squiid](https://open.spotify.com/artist/7g0KymGegEPhis87m1lWWm) | [Pandoras Box / Vaporize](https://open.spotify.com/album/1ocggLB9OdafNBm5OLXDai) | 3:24 | 2022-04-08 | 2022-05-27 |
 | [voices in my head](https://open.spotify.com/track/3DkIRVJj43aQfACA5Ys68J) | [metabolar](https://open.spotify.com/artist/1AnyVsimkm8D6kViojzN9i) | [smokescreen](https://open.spotify.com/album/7gPz38n7g1fHHuZVQ7DEo5) | 1:40 | 2022-04-08 | 2022-05-20 |

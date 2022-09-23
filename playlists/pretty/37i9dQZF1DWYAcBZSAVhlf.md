@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAcBZSAVhlf.md) - [plain]
 
 > The best feel\-good songs of the 1980s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,327 likes - 100 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,556 likes - 100 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAcBZSAVhlf.md) - [plain]
 | 48 | [Ain't Nobody](https://open.spotify.com/track/2NVpYQqdraEcQwqT7GhUkh) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Epiphany: The Best of Chaka Khan, Vol\. 1](https://open.spotify.com/album/3qeheeurjW0lNtf9d7hJLe) | 4:40 |
 | 49 | [Rhythm Of The Night](https://open.spotify.com/track/5yGTQzYbEdY6B9RFZJypgt) | [DeBarge](https://open.spotify.com/artist/6is2U7I1jlI8PjxNZOHIMV) | [Rhythm Of The Night](https://open.spotify.com/album/13xiHt25Hn4WZ6OLzhK1n8) | 3:49 |
 | 50 | [Live Is Life \(Digitally Remastered\) \(Single Version\)](https://open.spotify.com/track/5luOvrlnzfvJQdQjrScVj4) | [Opus](https://open.spotify.com/artist/5pf1217gT8zcjOFc7oMi47) | [Live Is Life](https://open.spotify.com/album/6QFG7oroyUrjT0LeXHt7CD) | 4:09 |
-| 51 | [Good Thing](https://open.spotify.com/track/6lRkdG1HurVS72F9GoBeWJ) | [Fine Young Cannibals](https://open.spotify.com/artist/20p5D2KrE8CGuOjHtxsyTp) | [The Raw & The Cooked](https://open.spotify.com/album/6CoeDRu0SmpFtLZMcRTO2F) | 3:21 |
-| 52 | [Girls Just Want to Have Fun](https://open.spotify.com/track/2zjt2hHBbiv5SuxYg8Z7eP) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [She's So Unusual: A 30th Anniversary Celebration \(Deluxe Edition\)](https://open.spotify.com/album/4pox3k0CGuwwAknR9GtcoX) | 3:58 |
+| 51 | [Girls Just Want to Have Fun](https://open.spotify.com/track/2zjt2hHBbiv5SuxYg8Z7eP) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [She's So Unusual: A 30th Anniversary Celebration \(Deluxe Edition\)](https://open.spotify.com/album/4pox3k0CGuwwAknR9GtcoX) | 3:58 |
+| 52 | [Good Thing](https://open.spotify.com/track/6lRkdG1HurVS72F9GoBeWJ) | [Fine Young Cannibals](https://open.spotify.com/artist/20p5D2KrE8CGuOjHtxsyTp) | [The Raw & The Cooked](https://open.spotify.com/album/6CoeDRu0SmpFtLZMcRTO2F) | 3:21 |
 | 53 | [Hip To Be Square](https://open.spotify.com/track/648BMGrt98kUbLo24A4vgj) | [Huey Lewis & The News](https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6) | [Fore!](https://open.spotify.com/album/5L0vaNLbzgP8RIJqs1zamE) | 4:05 |
 | 54 | [\(I've Had\) The Time Of My Life](https://open.spotify.com/track/2JCTiiJQFWQNC0Zp8rsJRB) | [Bill Medley](https://open.spotify.com/artist/1XE70WwxhnrXNAJYQQ9ygx), [Jennifer Warnes](https://open.spotify.com/artist/1BwHztAQKypBuy5WBEdJnG) | [The Best Of Bill Medley](https://open.spotify.com/album/1O7j1wsOIpUZEVYkqAqZyr) | 4:49 |
 | 55 | [Sussudio \- 2016 Remaster](https://open.spotify.com/track/4qM461TqtpnP4GLRIXwEnW) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [No Jacket Required \(2016 Remaster\)](https://open.spotify.com/album/1rVhockt4RAiZFaK3M3zPB) | 4:23 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAcBZSAVhlf.md) - [plain]
 | 76 | [Our House](https://open.spotify.com/track/1qV6e4ITnfGmA6m6Vklvbi) | [Madness](https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd) | [Madness](https://open.spotify.com/album/2P1bkVHSonLBBSKvrBbdbw) | 3:21 |
 | 77 | [You Came \- Single Version](https://open.spotify.com/track/2mXvx5UORysNIFVnsuo3kc) | [Kim Wilde](https://open.spotify.com/artist/73a6pNH4YtLNgDbPQwXveo) | [Close \(Expanded Edition\)](https://open.spotify.com/album/6LddMxTnUpoZNUZxtMryJh) | 3:28 |
 | 78 | [Two Hearts](https://open.spotify.com/track/2BgWv15eKCDfiubKo6o76k) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [Love Songs \(A Compilation Old and New\)](https://open.spotify.com/album/7KZTL6gFUUCzNw4FfjVqCF) | 3:24 |
-| 79 | [Faith \- Remastered](https://open.spotify.com/track/0nd1Vs5BIoIU4TJlzR8KVB) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Faith](https://open.spotify.com/album/5E68z4OgQrR446xVOxZKs6) | 3:13 |
-| 80 | [Ghostbusters](https://open.spotify.com/track/300zfRaCgTmEm5Eqe3HqZZ) | [Ray Parker Jr.](https://open.spotify.com/artist/0NyzfcGDZZ6GM25EBG9BYK) | [Arista Heritage Series: Ray Parker](https://open.spotify.com/album/1Fq1oCtmlSQabl1zIdoWCg) | 4:00 |
+| 79 | [Ghostbusters](https://open.spotify.com/track/300zfRaCgTmEm5Eqe3HqZZ) | [Ray Parker Jr.](https://open.spotify.com/artist/0NyzfcGDZZ6GM25EBG9BYK) | [Arista Heritage Series: Ray Parker](https://open.spotify.com/album/1Fq1oCtmlSQabl1zIdoWCg) | 4:00 |
+| 80 | [Faith \- Remastered](https://open.spotify.com/track/0nd1Vs5BIoIU4TJlzR8KVB) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Faith](https://open.spotify.com/album/5E68z4OgQrR446xVOxZKs6) | 3:13 |
 | 81 | [Tell Her About It](https://open.spotify.com/track/6kCJMxv445L2okuTiou1fR) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [An Innocent Man](https://open.spotify.com/album/3R3x4zIabsvpD3yxqLaUpc) | 3:49 |
 | 82 | [Axel F](https://open.spotify.com/track/2kgqupahrJpYB4r1poTXEY) | [Harold Faltermeyer](https://open.spotify.com/artist/7Cf73Z3RZQTH4V69GSDxnv) | [Harold F](https://open.spotify.com/album/5PmMpqpQl9DyiddbZLnthc) | 3:00 |
 | 83 | [Heaven Is A Place On Earth \- Promo 7" Edit](https://open.spotify.com/track/3EvpaRZkKWxsgDIO2zMH7g) | [Belinda Carlisle](https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U) | [Heaven On Earth \(Deluxe Edition\)](https://open.spotify.com/album/34SBayfOPJb9ztyCTvS3no) | 3:53 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAcBZSAVhlf.md) - [plain]
 | 99 | [Walk Like an Egyptian](https://open.spotify.com/track/5L6HNuXN71bfeuKXYtRasF) | [The Bangles](https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC) | [Different Light \(Expanded Edition\)](https://open.spotify.com/album/7qEP3i0f0zfk6JUFW3SyeN) | 3:23 |
 | 100 | [Making Your Mind Up](https://open.spotify.com/track/0Azn2vpP3Sbs8qAG8e1KUc) | [Bucks Fizz](https://open.spotify.com/artist/5ZfzzHE7rxONfoksJsLXrX) | [Bucks Fizz](https://open.spotify.com/album/5HqRd9aYv1b0x8A6q2ljFb) | 2:38 |
 
-Snapshot ID: `MTY1NDE1MjExNywwMDAwMDAwMGIwZWVkNjAyODAzOGM3MWJlYjllY2JhYzliMDMyMjBi`
+Snapshot ID: `MTY1NDE1MjExNywwMDAwMDAwMGUwYzA5ZGUwMmIzYmUzZjU5YWM3NjVlZjUyZGY0NjRk`

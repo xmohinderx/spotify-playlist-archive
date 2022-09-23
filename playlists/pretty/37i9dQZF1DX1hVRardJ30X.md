@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Anuel AA
 
-[Spotify](https://open.spotify.com/user/spotify) - 517,491 likes - 63 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 517,613 likes - 63 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

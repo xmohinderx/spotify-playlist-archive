@@ -4,7 +4,7 @@
 
 > Rock N' Roll Swagger Served Straight Up  / Cover: Marcus King
 
-156 songs - 9 hr 42 min - [published](https://open.spotify.com/playlist/79XVKo7l9XHjcwvW9O8E46)
+157 songs - 9 hr 45 min - [published](https://open.spotify.com/playlist/79XVKo7l9XHjcwvW9O8E46)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [Broken Horses](https://open.spotify.com/track/0vAGNjNpJhjZTxvtcGeAib) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [In These Silent Days](https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f) | 5:03 | 2021-10-05 |  |
 | [Buffet Days](https://open.spotify.com/track/1Y7XrntbqWMMR2Rm6HLnG4) | [Futurebirds](https://open.spotify.com/artist/4Ait1vX2ZaWPrkua8Z664O), [Carl Broemel](https://open.spotify.com/artist/2kWhbqyjKw16929nBXzSWR) | [Buffet Days](https://open.spotify.com/album/272cuK8kjbVwLnIl41N4rx) | 3:41 | 2022-08-16 |  |
 | [Bury My Bones](https://open.spotify.com/track/0lB69AOLAMGpWBMBtIdORj) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [Bury My Bones](https://open.spotify.com/album/5mzUwmFpVXseynxj03W3Qu) | 4:19 | 2020-08-21 |  |
-| [Can't Answer Why](https://open.spotify.com/track/3peVPF1U0EHzuiBjWkaffe) | [Giovannie and the Hired Guns](https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94) | [Can't Answer Why](https://open.spotify.com/album/6gOxlXHNjjAuSkKmlZCoc3) | 3:11 | 2021-10-01 |  |
+| [Can't Answer Why](https://open.spotify.com/track/1RBqkm7DAqDQYFjOGnhJqV) | [Giovannie and the Hired Guns](https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94) | [Can't Answer Why](https://open.spotify.com/album/2cmk3rKGG5QfLcddPpF7Jl) | 3:11 | 2022-08-26 |  |
+| [Can't Answer Why](https://open.spotify.com/track/3peVPF1U0EHzuiBjWkaffe) | [Giovannie and the Hired Guns](https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94) | [Can't Answer Why](https://open.spotify.com/album/6gOxlXHNjjAuSkKmlZCoc3) | 3:11 | 2021-10-01 | 2022-09-23 |
 | [Catch Me If You Can \(feat\. Chris Robertson\)](https://open.spotify.com/track/2Q7MG9T0kCEEJmDpaKP4be) | [The Picturebooks](https://open.spotify.com/artist/5L8u4AcYBOnxAtRrluOjKo), [Chris Robertson](https://open.spotify.com/artist/1GdMYXxQLiGQCdZZd153HL) | [Catch Me If You Can \(feat\. Chris Robertson\)](https://open.spotify.com/album/52SxUXwHjJNNBLvSlmbBjC) | 3:32 | 2021-07-16 |  |
 | [Caught Me at a Good Time](https://open.spotify.com/track/1d8vNPCq2S9pIpVuqliraI) | [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp) | [Country Coming Down](https://open.spotify.com/album/3hYtvhC4TBoNfoWgtioNMR) | 2:49 | 2022-06-03 |  |
 | [Cocaine](https://open.spotify.com/track/0MhzvrhKfjlhti3pL2p9HB) | [Moon Fever](https://open.spotify.com/artist/1CYg3IXkeWG2riXsL0Df1u) | [Payphone Blues](https://open.spotify.com/album/78Wl4JpIDtW4q3vkn7pWXE) | 2:23 | 2022-06-14 |  |

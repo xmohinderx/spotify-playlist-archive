@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oAhAessKvf.md) - [plain]
 
 > La calle temblaba con los primeros pasos del reggaetón\. Foto: El General
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,482 likes - 75 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,556 likes - 75 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oAhAessKvf.md) - [plain]
 | 29 | [Ella Se Arrebata](https://open.spotify.com/track/0oQJSzRRp9K5qbrSuzqACz) | [Latin Fresh](https://open.spotify.com/artist/1NRrKr08wLdYUdSOnNDs7M) | [Tranquilo](https://open.spotify.com/album/3VWuyqHFsqjlV20zjKvE9W) | 3:32 |
 | 30 | [Chezidom](https://open.spotify.com/track/0iO8CghAaUo0lVLSHawUc1) | [Don Chezina](https://open.spotify.com/artist/1ljNTY4uIBecRJmy69UNWt) | [Mi Trayectoria](https://open.spotify.com/album/05SjZ7u69wnd12tDLo7x2v) | 4:36 |
 | 31 | [Bomba Para Afincar](https://open.spotify.com/track/0cHircZQcIR3ZkVsuHPgb6) | [Vico C](https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6) | [Serie Platino](https://open.spotify.com/album/4lv6tavshM2ZuTXJemNb9F) | 3:33 |
-| 32 | [Tengo una Punto 40](https://open.spotify.com/track/5zsatbvXqrPSx6vid6c8Sf) | [Baby Rasta](https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN), [Gringo](https://open.spotify.com/artist/29cNzWXrkNaGVL74hZK0jU) | [Playero 40 New Era](https://open.spotify.com/album/6R1g9oipVOkjxwFsc1R2vB) | 2:37 |
-| 33 | [Voz Sensual](https://open.spotify.com/track/4eBRM5oc92XWVomWI3OsUf) | [Big Boy](https://open.spotify.com/artist/5bVQN1TENxjVjWXNHHpflG) | [Mis Ojos Lloran Por Ti](https://open.spotify.com/album/5o36XrjVl3YdBYqt0p57Gc) | 2:51 |
+| 32 | [Voz Sensual](https://open.spotify.com/track/4eBRM5oc92XWVomWI3OsUf) | [Big Boy](https://open.spotify.com/artist/5bVQN1TENxjVjWXNHHpflG) | [Mis Ojos Lloran Por Ti](https://open.spotify.com/album/5o36XrjVl3YdBYqt0p57Gc) | 2:51 |
+| 33 | [Tengo una Punto 40](https://open.spotify.com/track/5zsatbvXqrPSx6vid6c8Sf) | [Baby Rasta](https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN), [Gringo](https://open.spotify.com/artist/29cNzWXrkNaGVL74hZK0jU) | [Playero 40 New Era](https://open.spotify.com/album/6R1g9oipVOkjxwFsc1R2vB) | 2:37 |
 | 34 | [Robi\-Rob's Boriqua Anthem](https://open.spotify.com/track/1rX13rLlHSzCoWh3inVchh) | [El General](https://open.spotify.com/artist/1fqHLAKthJsVYcukjFrroK), [C & C Music Factory](https://open.spotify.com/artist/7krx6UBDKLwE0q3s3fesqF) | [Grandes Exitos](https://open.spotify.com/album/5XWD8nYr65TU50RooHKPrc) | 8:57 |
 | 35 | [Full Up a Class](https://open.spotify.com/track/6FFeBtCaawK4WqtKfWeoSX) | [Bunny General](https://open.spotify.com/artist/64N2jWrlxw6DSwWZ6BHCOI) | [Dancehall Reggae Connection...\. Top Ragga DJs From Fashion](https://open.spotify.com/album/4Uygzhu2CQ3UvZiaUbGKMW) | 3:40 |
 | 36 | [Quieren Chorizo](https://open.spotify.com/track/4NQg9QGJbJFRW7HjAsYu0z) | [El Chombo](https://open.spotify.com/artist/6iSZjc4kOoKZKiBXK5HbwD) | [A Mover el Culo Con el Chombo](https://open.spotify.com/album/0dGcHWlzgWsN4bMc4DXq9Y) | 1:24 |
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oAhAessKvf.md) - [plain]
 | 68 | [Reggae Respect \- Live](https://open.spotify.com/track/6RyawEEdxTWMFtwRBpfFV3) | [The Noise](https://open.spotify.com/artist/0xbdsXms9xTAtNmROodyy8), [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH), [Gran Omar](https://open.spotify.com/artist/0Fb7RqTb9p5NCJx5yOTKJe) | [Live](https://open.spotify.com/album/1llS73lFiGdCx72C9xOCfQ) | 2:13 |
 | 69 | [Por Mi Reggae Muero](https://open.spotify.com/track/4FoEobQ4dNAMzDcIGkdEHF) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 3:36 |
 | 70 | [Viernes 13 \- Parte 1](https://open.spotify.com/track/1oOWSnh9KTsYjBpnaC4NIB) | [Vico C](https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6), [Jossie Esteban](https://open.spotify.com/artist/1n6WShjEhCUMCkHDpvwk8H) | [Dos Tiempos Bajo Un Mismo Tono](https://open.spotify.com/album/4tVXoOGhwwkPshssDvQDMj) | 5:06 |
-| 71 | [Playero 38](https://open.spotify.com/track/1IU6DEctXXQhBU1fH0Vcbh) | [Maicol y Manuel](https://open.spotify.com/artist/6P3WZjRn6nYJ7xIpCZsxTZ) | [Como en los Tiempos de Antes](https://open.spotify.com/album/2pPLwkTVYRdJvHIll0HgSa) | 3:17 |
-| 72 | [Camion Lleno de Gun](https://open.spotify.com/track/2sHUhHm3iNuBC4JhbYbt0N) | [Jam & Suppose](https://open.spotify.com/artist/42iAiw7Kn6Ji3xIeDzxJ0q) | [Ragga Heros, Vol\. 1](https://open.spotify.com/album/3XaS7Nc8sf2l3TzWnSFng1) | 3:34 |
+| 71 | [Camion Lleno de Gun](https://open.spotify.com/track/2sHUhHm3iNuBC4JhbYbt0N) | [Jam & Suppose](https://open.spotify.com/artist/42iAiw7Kn6Ji3xIeDzxJ0q) | [Ragga Heros, Vol\. 1](https://open.spotify.com/album/3XaS7Nc8sf2l3TzWnSFng1) | 3:34 |
+| 72 | [Playero 38](https://open.spotify.com/track/1IU6DEctXXQhBU1fH0Vcbh) | [Maicol y Manuel](https://open.spotify.com/artist/6P3WZjRn6nYJ7xIpCZsxTZ) | [Como en los Tiempos de Antes](https://open.spotify.com/album/2pPLwkTVYRdJvHIll0HgSa) | 3:17 |
 | 73 | [Marijuana](https://open.spotify.com/track/0fqj5uqf5iYvEFo6gyM1Ju) | [Baby J](https://open.spotify.com/artist/5yjQKQYt12QjWzQK62T8ov) | [Prime Underground 1](https://open.spotify.com/album/3UGPRfGaIVrdMhqWZYSCuv) | 2:51 |
 | 74 | [Las Pistolas Seguiran](https://open.spotify.com/track/6q1B6jMBv0Q5T7AnVFmQS2) | [Tempo](https://open.spotify.com/artist/76whng5pl9msPkkjFUtWYn) | [Game Over](https://open.spotify.com/album/7vQN5aljYXJcSD8Mq20NtS) | 4:35 |
 | 75 | [La Chica de los Ojos Cafe](https://open.spotify.com/track/4Bonn8aTkhFWUAQJaHwgl8) | [Renato](https://open.spotify.com/artist/6VBd6EXDkDR7D9UjtEUtFn) | [Soy El Mas Sensual \- Renato Classics](https://open.spotify.com/album/4MfqddoCTSJHreuI2Fd57Q) | 4:57 |
 
-Snapshot ID: `MTY0MDAxOTc0NSwwMDAwMDAwMGRmNzM5ZTRjNmE5NjQ5ZGEwNWU2YmViNWQzNWFjZDFi`
+Snapshot ID: `MTY0MDAxOTc0NSwwMDAwMDAwMDMwNjYyMTQxM2YzYjViZjEyYjI1ODVmNzdhMTdjYjNi`

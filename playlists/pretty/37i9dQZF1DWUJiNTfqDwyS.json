@@ -1,12 +1,12 @@
 {
   "description": "A collection of the best Metal covers out there. Cover: Metallica",
-  "num_followers": 185588,
+  "num_followers": 185824,
   "original_name": "Metal Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTUxODgwMCwwMDAwMDAwMDExZDE1ZWNmZGVlNmJmMjAwOTI1NWE1NzllZjhkNGRi",
+  "snapshot_id": "MTY2MTUxODgwMCwwMDAwMDAwMGYzNTI3YjhhMjg5MmM5MzM5NmNhNzQ4MmRhNDQyNmU4",
   "tracks": [
     {
       "added_at": "2022-06-13 06:46:14",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2022-06-13 06:46:14",
       "album": {
+        "name": "Livin' la Vida Loca (Cover)",
+        "url": "https://open.spotify.com/album/1vwAdEbrf2M5oC79nUyjWC"
+      },
+      "artists": [
+        {
+          "name": "COMETRON",
+          "url": "https://open.spotify.com/artist/3zlHrJ9PNVZzqy7qobJFIi"
+        }
+      ],
+      "duration_ms": 217452,
+      "name": "Livin' la Vida Loca - Cover",
+      "url": "https://open.spotify.com/track/3v6ji8IE3AXlBeHK3vwJTc"
+    },
+    {
+      "added_at": "2022-06-13 06:46:14",
+      "album": {
         "name": "Only for the Weak",
         "url": "https://open.spotify.com/album/0LGDnOKdzUM9QtXTFvOWQu"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 276571,
       "name": "Only for the Weak",
       "url": "https://open.spotify.com/track/0OBxEhj74scqtN9l1RxANI"
-    },
-    {
-      "added_at": "2022-06-13 06:46:14",
-      "album": {
-        "name": "Livin' la Vida Loca (Cover)",
-        "url": "https://open.spotify.com/album/1vwAdEbrf2M5oC79nUyjWC"
-      },
-      "artists": [
-        {
-          "name": "COMETRON",
-          "url": "https://open.spotify.com/artist/3zlHrJ9PNVZzqy7qobJFIi"
-        }
-      ],
-      "duration_ms": 217452,
-      "name": "Livin' la Vida Loca - Cover",
-      "url": "https://open.spotify.com/track/3v6ji8IE3AXlBeHK3vwJTc"
     },
     {
       "added_at": "2022-06-13 06:46:14",
@@ -1239,18 +1239,18 @@
     {
       "added_at": "2022-06-13 06:46:14",
       "album": {
-        "name": "Mambo No. 5 (Cover)",
-        "url": "https://open.spotify.com/album/5Ng9lsJwo1waGpQhSOMBSn"
+        "name": "Animals",
+        "url": "https://open.spotify.com/album/2TGEqCNx8wHVFtgZ820rPd"
       },
       "artists": [
         {
-          "name": "COMETRON",
-          "url": "https://open.spotify.com/artist/3zlHrJ9PNVZzqy7qobJFIi"
+          "name": "Villain of the Story",
+          "url": "https://open.spotify.com/artist/28XopU8Uw6D6Wl7rIgCVNE"
         }
       ],
-      "duration_ms": 210145,
-      "name": "Mambo No. 5 - Cover",
-      "url": "https://open.spotify.com/track/6zVPxBtCzKMewKLC9OOfcx"
+      "duration_ms": 182337,
+      "name": "Animals",
+      "url": "https://open.spotify.com/track/6656ZMxIGQewFwQt5x4GvR"
     }
   ],
   "unique_name": "Metal Covers",

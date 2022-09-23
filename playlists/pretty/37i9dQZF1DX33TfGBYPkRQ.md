@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33TfGBYPkRQ.md) - [plain]
 
 > That feeling of being punched in the gut by a song.
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,558 likes - 100 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,638 likes - 100 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33TfGBYPkRQ.md) - [plain]
 | 10 | [Carry You](https://open.spotify.com/track/0u4rkpmNtgcFxYHepnVF4v) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Bathing Beach](https://open.spotify.com/album/4vGuMdwnxc6X8izbVS6MTN) | 4:33 |
 | 11 | [Night Shift](https://open.spotify.com/track/1yYlpGuBiRRf33e1gY61bN) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Historian](https://open.spotify.com/album/0LqhbUfmHsxovfSirhEIGu) | 6:31 |
 | 12 | [Holocene](https://open.spotify.com/track/1ILEK6NRfxoseoPnolRcVA) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Bon Iver \(10th Anniversary Edition\)](https://open.spotify.com/album/6xfOCqmQvpvgR5aq6fpKMD) | 5:36 |
-| 13 | [I Will Follow You into the Dark](https://open.spotify.com/track/3kZC0ZmFWrEHdUCmUqlvgZ) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Plans](https://open.spotify.com/album/1NFGnxmeIEBakre4DvLaJq) | 3:09 |
-| 14 | [I Don't Want to Lose You](https://open.spotify.com/track/4F2OxwQFkM7rFhwuz4akT9) | [Luca Fogale](https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med) | [I Don't Want to Lose You](https://open.spotify.com/album/3SCtqzIjuEm8ApS4PyqBWE) | 2:51 |
+| 13 | [I Don't Want to Lose You](https://open.spotify.com/track/4F2OxwQFkM7rFhwuz4akT9) | [Luca Fogale](https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med) | [I Don't Want to Lose You](https://open.spotify.com/album/3SCtqzIjuEm8ApS4PyqBWE) | 2:51 |
+| 14 | [I Will Follow You into the Dark](https://open.spotify.com/track/3kZC0ZmFWrEHdUCmUqlvgZ) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Plans](https://open.spotify.com/album/1NFGnxmeIEBakre4DvLaJq) | 3:09 |
 | 15 | [In My Veins \- Feat\. Erin Mccarley](https://open.spotify.com/track/7LwGBxB0h0CVmkOZxYKn0g) | [Andrew Belle](https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY) | [In My Veins \(Feat\. Erin Mccarley\)](https://open.spotify.com/album/0Lg8NjaKFHSdsuDM6l58JZ) | 5:18 |
 | 16 | [Angels](https://open.spotify.com/track/3zsRP8rH1kaIAo9fmiP4El) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [Coexist](https://open.spotify.com/album/4SXTQ305LjMh2DBHA3CXIW) | 2:51 |
 | 17 | [Paul](https://open.spotify.com/track/4AA4xt0NvJCUaJYh9SoZ1y) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Masterpiece](https://open.spotify.com/album/5eSbNHaPAkwpAuo9k0o2YU) | 3:03 |
@@ -59,10 +59,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33TfGBYPkRQ.md) - [plain]
 | 49 | [Comfortable \- EP Version](https://open.spotify.com/track/26PnyFUmYdeRG7nQrsTpHc) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Inside Wants Out](https://open.spotify.com/album/5KMP6XLSrhsswEuN2A9VO2) | 4:59 |
 | 50 | [Go Your Own Way](https://open.spotify.com/track/2zi6avisctlzNHw7HjK7KM) | [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [Covered up with Flowers](https://open.spotify.com/album/3BGlVmlsbBQXNTAdTP72Us) | 3:34 |
 | 51 | [Worst Day of My Life](https://open.spotify.com/track/2xRUyAQeYVYCohZrEBpbiu) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [Cry Forever](https://open.spotify.com/album/3pb256CZQ5vf8kbDlguYhD) | 3:01 |
-| 52 | [I Know Places](https://open.spotify.com/track/4u3aErjHkwVqqdyfNDMyJ1) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Wounded Rhymes](https://open.spotify.com/album/43uf0nTu6b5ReBCoQkLtsF) | 6:26 |
-| 53 | [Younger Days](https://open.spotify.com/track/73DoUyxCAGBTzr5RFOEHXo) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Mt\. Joy](https://open.spotify.com/album/5h9FO7QRZMcrcnSYvihQ01) | 4:57 |
-| 54 | [A Little Bit of Everything](https://open.spotify.com/track/0UVXrz4r0aM93PIMESW1dm) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [Nothing Is Wrong \(10th Anniversary Deluxe Edition\)](https://open.spotify.com/album/77f3YqasvaLdJo8Qw6PmY2) | 5:42 |
-| 55 | [Samson](https://open.spotify.com/track/2bbhyUWJ5VjdfI3P4PRLu2) | [Regina Spektor](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) | [Begin to Hope \(Special Edition\)](https://open.spotify.com/album/0ssMZRCnobXKQXjQ2R5A5a) | 3:09 |
+| 52 | [A Little Bit of Everything](https://open.spotify.com/track/0UVXrz4r0aM93PIMESW1dm) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [Nothing Is Wrong \(10th Anniversary Deluxe Edition\)](https://open.spotify.com/album/77f3YqasvaLdJo8Qw6PmY2) | 5:42 |
+| 53 | [I Know Places](https://open.spotify.com/track/4u3aErjHkwVqqdyfNDMyJ1) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Wounded Rhymes](https://open.spotify.com/album/43uf0nTu6b5ReBCoQkLtsF) | 6:26 |
+| 54 | [Samson](https://open.spotify.com/track/2bbhyUWJ5VjdfI3P4PRLu2) | [Regina Spektor](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) | [Begin to Hope \(Special Edition\)](https://open.spotify.com/album/0ssMZRCnobXKQXjQ2R5A5a) | 3:09 |
+| 55 | [Younger Days](https://open.spotify.com/track/73DoUyxCAGBTzr5RFOEHXo) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Mt\. Joy](https://open.spotify.com/album/5h9FO7QRZMcrcnSYvihQ01) | 4:57 |
 | 56 | [Wasting My Young Years](https://open.spotify.com/track/3elOzp9X3B8vMGhJBWzbIF) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [If You Wait](https://open.spotify.com/album/2J4dwQHk8EZKPKGhM1EzOU) | 3:24 |
 | 57 | [End Of The Affair](https://open.spotify.com/track/0vqXG66zkKynUS0aJs9FyR) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [I Forget Where We Were](https://open.spotify.com/album/4WI3oFEsDiHU3I5xHz88sF) | 7:46 |
 | 58 | [I Just Don't Think I'll Ever Get Over You](https://open.spotify.com/track/2IR01O6kw4IB68hcV9FWYN) | [Colin Hay](https://open.spotify.com/artist/5mxB08ktCukEhGMg2YZeEv) | [Transcendental Highway](https://open.spotify.com/album/6ooDMq5QxVHFeMootZ7D7m) | 5:28 |
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33TfGBYPkRQ.md) - [plain]
 | 88 | [Historians](https://open.spotify.com/track/6OYOfYGfaAe8A9T1lhC13b) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Historian](https://open.spotify.com/album/0LqhbUfmHsxovfSirhEIGu) | 3:56 |
 | 89 | [Comfort](https://open.spotify.com/track/2xG8KBQ5oxjpprQ5IXhXNw) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Crushing](https://open.spotify.com/album/4u3aIyQbywYaxgF7TcXuIu) | 3:07 |
 | 90 | [placeholder](https://open.spotify.com/track/0p0BfeqMWoToqbPVzXxAIZ) | [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [placeholder](https://open.spotify.com/album/5MByQp3pFETiRZxcwnZsZz) | 3:50 |
-| 91 | [Keep Me in Your Heart](https://open.spotify.com/track/1fRv46UIwPMVNZGMZR6ymI) | [The Wailin' Jennys](https://open.spotify.com/artist/331QVEZKK1yz5KhYiR2pBj) | [Fifteen](https://open.spotify.com/album/119HRNCY7xfA3R218gtspV) | 3:37 |
-| 92 | [Think Twice](https://open.spotify.com/track/3AUUytODwlkGAeQa7yfkfr) | [Nick Wilson](https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF) | [Think Twice](https://open.spotify.com/album/5MfzmKy0kDnz0KntikIFxP) | 3:31 |
+| 91 | [Think Twice](https://open.spotify.com/track/3AUUytODwlkGAeQa7yfkfr) | [Nick Wilson](https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF) | [Think Twice](https://open.spotify.com/album/5MfzmKy0kDnz0KntikIFxP) | 3:31 |
+| 92 | [Keep Me in Your Heart](https://open.spotify.com/track/1fRv46UIwPMVNZGMZR6ymI) | [The Wailin' Jennys](https://open.spotify.com/artist/331QVEZKK1yz5KhYiR2pBj) | [Fifteen](https://open.spotify.com/album/119HRNCY7xfA3R218gtspV) | 3:37 |
 | 93 | [Joshua](https://open.spotify.com/track/6bgoagsYAQaPn8vTP5uaJ1) | [Dizzy](https://open.spotify.com/artist/0g3BS5QoR5r6pOAg1tvwXv) | [Baby Teeth](https://open.spotify.com/album/4VwxhbPs1JBTsjZH9dcTht) | 3:31 |
 | 94 | [Heart In My Hands](https://open.spotify.com/track/218cVN5U8vVxHNXMQp6zEu) | [Andreya Triana](https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2) | [Giants](https://open.spotify.com/album/5jZ99kZu474tcvbhzBuqHI) | 3:39 |
 | 95 | [The Pieces Don't Fit Anymore](https://open.spotify.com/track/05muUAppQeMnnVxH8lVsw9) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [Undiscovered](https://open.spotify.com/album/00QEcKEqSmwP8odEMImIuz) | 4:15 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33TfGBYPkRQ.md) - [plain]
 | 99 | [Fireworks \- Recorded at Spotify Studios Stockholm](https://open.spotify.com/track/0tiQwGcxR0W5E7jLqbK3iA) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Spotify Singles](https://open.spotify.com/album/4DyuXP04lvFmYh01L94WH2) | 4:37 |
 | 100 | [No Need To Argue](https://open.spotify.com/track/6bMtHFNzq1PU6HD7h8SUkd) | [Hannah Georgas](https://open.spotify.com/artist/1ZBR8sri8ddYowXDENBwKS), [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [No Need To Argue](https://open.spotify.com/album/7gQuPkANfJX8bHWJypWDlX) | 3:13 |
 
-Snapshot ID: `MTYxOTgwMzc4NywwMDAwMDAwMDJlZDgzMzE0NzRhMmE0ZDllNDA4MGY1NGZjYzY5YmYw`
+Snapshot ID: `MTYxOTgwMzc4NywwMDAwMDAwMDg0MzZhMWRiM2Y5MGQyYzM3NWVkMGY1OWZmYjdmMjg2`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best French indie tracks right now. Cover: Bon Entendeur & Emma Peters.",
+  "description": "The best French indie tracks right now. Cover: Myd.",
   "name": "Made in France",
   "published_playlist_ids": [
     "4VHp6F7a0Cbt6kPL2n6clC"
@@ -265,7 +265,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 186194,
       "name": "blueberry stains",
       "url": "https://open.spotify.com/track/6YPIckxQBC4boFjWSAtlkb"
@@ -457,7 +457,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 180204,
       "name": "Cin\u00e9ma",
       "url": "https://open.spotify.com/track/31CfJjcoplMlUpvbp5226g"
@@ -797,7 +797,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 187840,
       "name": "D\u00e9fense",
       "url": "https://open.spotify.com/track/7ITtdkk4TLqyx8xIPICVAh"
@@ -891,6 +891,24 @@
       "duration_ms": 126582,
       "name": "Fantasy Girl",
       "url": "https://open.spotify.com/track/75CoiQTM3XHWSmm4XlfM20"
+    },
+    {
+      "album": {
+        "name": "Film d\u2019amour",
+        "url": "https://open.spotify.com/album/0khmF7ztwpwP4azahusqyn"
+      },
+      "artists": [
+        {
+          "name": "La Belle Vie",
+          "url": "https://open.spotify.com/artist/7MrDzS5aCy6jjBVqRidPCY"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156185,
+      "name": "Film d\u2019amour",
+      "url": "https://open.spotify.com/track/3Uy9lHCTF8lRpwg9ribsyj"
     },
     {
       "album": {
@@ -1194,6 +1212,28 @@
     },
     {
       "album": {
+        "name": "I Made It",
+        "url": "https://open.spotify.com/album/4EolaFLE1ii1Xw3Lb6lLbj"
+      },
+      "artists": [
+        {
+          "name": "Myd",
+          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
+        },
+        {
+          "name": "Picard Brothers",
+          "url": "https://open.spotify.com/artist/1bATQwgDSJlmYJ4obvTFmN"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160965,
+      "name": "I Made It",
+      "url": "https://open.spotify.com/track/3GGs5TGfMh675Tvg08VjLQ"
+    },
+    {
+      "album": {
         "name": "I Will Wait For You",
         "url": "https://open.spotify.com/album/0f2cFqPY4v3WXmHGDyaWD7"
       },
@@ -1209,6 +1249,24 @@
       "duration_ms": 141021,
       "name": "I Will Wait For You",
       "url": "https://open.spotify.com/track/0u53F1Zdk6xsknG1Uie2jL"
+    },
+    {
+      "album": {
+        "name": "I'll Think About It",
+        "url": "https://open.spotify.com/album/5cnqcRrObA48AfCvSxH54G"
+      },
+      "artists": [
+        {
+          "name": "Victor Marc",
+          "url": "https://open.spotify.com/artist/7tiOyhvxRgmYnPfxYgm0kX"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188936,
+      "name": "I'll Think About It",
+      "url": "https://open.spotify.com/track/0RLKhd3wbu8733GCu03nNn"
     },
     {
       "album": {
@@ -2426,6 +2484,24 @@
     },
     {
       "album": {
+        "name": "Pour la vie enti\u00e8re",
+        "url": "https://open.spotify.com/album/1zB0u5tMdZF5RkAXZvr6yb"
+      },
+      "artists": [
+        {
+          "name": "blond",
+          "url": "https://open.spotify.com/artist/6bAfbEF8yCMBTtXEBFLh2x"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182026,
+      "name": "Pour la vie enti\u00e8re",
+      "url": "https://open.spotify.com/track/2vMq9s42ULbH9v3CdNABI3"
+    },
+    {
+      "album": {
         "name": "Premier Incendie (Edit)",
         "url": "https://open.spotify.com/album/5K14tV4cFMNGZJy4S9CgZv"
       },
@@ -3143,7 +3219,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 331600,
       "name": "Un Peu d'Amour",
       "url": "https://open.spotify.com/track/51pcyfpMb8YF2d5NONzheW"

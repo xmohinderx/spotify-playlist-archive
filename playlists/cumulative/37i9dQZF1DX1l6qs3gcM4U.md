@@ -4,7 +4,7 @@
 
 > Fall in love with the sensual sounds of Kizomba! Cover: Loony Johnson with Djodje.
 
-269 songs - 16 hr 21 min - [published](https://open.spotify.com/playlist/33PmHWTm7jqDMnzqBQ57ZY)
+271 songs - 16 hr 27 min - [published](https://open.spotify.com/playlist/33PmHWTm7jqDMnzqBQ57ZY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [Keruh](https://open.spotify.com/track/6SMgtwBAsC1WreQJzsQ7EL) | [Zaza The Pi](https://open.spotify.com/artist/4DLzljqWfoI4JjMfhydPJM) | [Keruh](https://open.spotify.com/album/04yKYTsbJEU0FIsR7fcmOk) | 3:49 | 2022-01-10 | 2022-01-17 |
 | [Kua Buaru](https://open.spotify.com/track/4CleTVckv87HCeEpj05X52) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um), [Soraia Ramos](https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L), [Pérola](https://open.spotify.com/artist/34Gw52pP6ExWNrH6U6fpeO), [Manecas Costa](https://open.spotify.com/artist/4SQUUGQBAKH0w73RjAnozc) | [Kua Buaru](https://open.spotify.com/album/0H4JbF7EeFgoYvLixZpUpS) | 3:01 | 2021-12-10 |  |
 | [Kuyuyu](https://open.spotify.com/track/2ieA58j9Fsuo35Gwa6oX8P) | [Landrick](https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU) | [Zolana](https://open.spotify.com/album/1QZFUA00SScMMaea5DW1Mn) | 3:54 | 2021-12-10 |  |
+| [Lambuxa na Bo](https://open.spotify.com/track/4geD496HKKdshBtb5U5Yan) | [Loony Johnson](https://open.spotify.com/artist/0AJ7gzFhNKeCeIpFNikyWv) | [Lambuxa na Bo](https://open.spotify.com/album/38Awfmyez9FhYQr7gSbf1k) | 3:03 | 2022-09-22 |  |
 | [Largam](https://open.spotify.com/track/6nWb98Zi1cfP70C5wdNEIk) | [Mister Nino](https://open.spotify.com/artist/5PJgbCjdHH32IKslVSIeJW) | [Largam](https://open.spotify.com/album/6QiEyG8ZZ6U6qSfgsOBEcE) | 4:15 | 2021-12-10 | 2022-07-17 |
 | [Lavender Tulips](https://open.spotify.com/track/4cd3AwGaE7T6Uh4dbhefyU) | [Malcom Beatz](https://open.spotify.com/artist/7zVHCWAKJW7cBHUmn782p2), [Kaysha](https://open.spotify.com/artist/2DBaDAcrh5sf17yR1qbnsy) | [Lavender Tulips](https://open.spotify.com/album/74UuzmDeji6pyS3e0ifZ70) | 4:21 | 2022-01-21 | 2022-02-19 |
 | [Leva\-me](https://open.spotify.com/track/4Wgx8lyWBUUNLDcsDTcvoM) | [Daddy Killa](https://open.spotify.com/artist/21xKuobocMBa0omJ77PVuu) | [Kizomba All Stars : Les meilleurs tubes et nouveautés de Kizomba](https://open.spotify.com/album/7qdWGJCi2yp8DumQKakwS8) | 3:44 | 2022-03-25 | 2022-04-16 |
@@ -165,7 +166,7 @@
 | [Nubian Queen](https://open.spotify.com/track/0ZWU5lJs0mA085Phf8PJA2) | [Nelson Freitas](https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB) | [Nubian Queen](https://open.spotify.com/album/7fk3arz1TJEFTtwUWUbYGS) | 4:04 | 2021-12-10 | 2022-06-14 |
 | [Number One](https://open.spotify.com/track/0rauOsfmlYgBGkWFc4NHft) | [Boy Teddy](https://open.spotify.com/artist/14W9ZwBj7ccu21CPJtenCh) | [Number One](https://open.spotify.com/album/3avFebwaW78qZoLNXmBhLx) | 3:46 | 2022-03-25 |  |
 | [Não Custa Nada](https://open.spotify.com/track/1JJOK1OQcBfJ3Rmm7QlnbZ) | [Pérola](https://open.spotify.com/artist/34Gw52pP6ExWNrH6U6fpeO) | [Não Custa Nada](https://open.spotify.com/album/1LOM2FTOJny66rKn9cxu0y) | 3:23 | 2021-12-10 | 2022-07-29 |
-| [Não Posso](https://open.spotify.com/track/0wVFtfUnFotGMSxPlG56a7) | [Yasmine](https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr) | [Não Posso](https://open.spotify.com/album/4Jz4rivUmmAZiHQIzoDjHb) | 3:48 | 2021-12-10 |  |
+| [Não Posso](https://open.spotify.com/track/0wVFtfUnFotGMSxPlG56a7) | [Yasmine](https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr) | [Não Posso](https://open.spotify.com/album/4Jz4rivUmmAZiHQIzoDjHb) | 3:48 | 2021-12-10 | 2022-09-23 |
 | [Não Pára](https://open.spotify.com/track/3XXtwKEHyPJsgHurZFMWMt) | [MDO \(Menino de Ouro\)](https://open.spotify.com/artist/0hTrdral9FhNQTTNIXTno1) | [Não Pára](https://open.spotify.com/album/3uCgWZ3De9XUlmkfQXm4z4) | 3:01 | 2022-01-27 | 2022-05-14 |
 | [Não Quero Mais](https://open.spotify.com/track/64zKbo8TgrcW16NYD7AnzC) | [Shaddy](https://open.spotify.com/artist/0qu004hwOrkcLjrizMySth) | [Não Quero Mais](https://open.spotify.com/album/0guLJZ43mNQPp0aeSmBWam) | 3:21 | 2022-02-18 | 2022-02-25 |
 | [Não te Quero Mais](https://open.spotify.com/track/0448kWJv57snTb9QdHmvJ6) | [The Nitrox](https://open.spotify.com/artist/1QHmQj5zO28KW6Af9MQ8xj) | [Não te Quero Mais](https://open.spotify.com/album/16wcHAumg8t6NRF0p3dxbx) | 6:33 | 2022-06-16 | 2022-06-23 |
@@ -202,7 +203,7 @@
 | [Quarentena](https://open.spotify.com/track/26SEljwRV5sPTAtZhbbxS2) | [Gerilson Insrael](https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO) | [Quarentena](https://open.spotify.com/album/2Z3rHccS9A2hd1R4SvkPeB) | 3:38 | 2021-12-10 |  |
 | [Quem É ?](https://open.spotify.com/track/0SY4UXTIPkVlyGWFJhKMcY) | [Yasmine](https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr) | [Quem É ?](https://open.spotify.com/album/0WYtQwKFvonkmJG6z32Ebj) | 3:19 | 2021-12-10 |  |
 | [Quero Mais Love \(feat\. Stonebwoy\)](https://open.spotify.com/track/5gM4UYTTTcVyg7KsPAbyGR) | [C4 Pedro](https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Quero Mais Love \(feat\. Stonebwoy\)](https://open.spotify.com/album/59c0K1jO386j2UlHJLNklt) | 3:26 | 2022-03-25 | 2022-04-21 |
-| [Rainha](https://open.spotify.com/track/3y8Un4QcNTLwAIIgOroXzf) | [Mika Mendes](https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w), [Elji Beatzkilla](https://open.spotify.com/artist/04EppuwbkCAhuLAVvYbqDJ) | [Visão](https://open.spotify.com/album/5xiIvycERRfpQd1P3bGN9d) | 3:55 | 2022-01-14 |  |
+| [Rainha](https://open.spotify.com/track/3y8Un4QcNTLwAIIgOroXzf) | [Mika Mendes](https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w), [Elji Beatzkilla](https://open.spotify.com/artist/04EppuwbkCAhuLAVvYbqDJ) | [Visão](https://open.spotify.com/album/5xiIvycERRfpQd1P3bGN9d) | 3:55 | 2022-01-14 | 2022-09-23 |
 | [Raízes](https://open.spotify.com/track/39xIzMG0hjgFBtueCUy9Jo) | [Bonifácio Aurio](https://open.spotify.com/artist/7kQhpoev6cS1UlSpx9Dl5f) | [Raízes](https://open.spotify.com/album/5g8l7OT24r6iRHCQHjCgQk) | 3:20 | 2022-07-22 | 2022-07-26 |
 | [Reagi](https://open.spotify.com/track/28TKKqjvFEzjdySF7xqLr9) | [Elsy](https://open.spotify.com/artist/0MQ5pkCrgpk3D9efPa4vSu) | [Reagi](https://open.spotify.com/album/5H2uPj4d6xWVUDZvrqFPtr) | 3:38 | 2022-02-18 | 2022-07-25 |
 | [Relembrar](https://open.spotify.com/track/0o7Kjfy8W0ZPF3Og9n2KDr) | [Josslyn](https://open.spotify.com/artist/7DaYWbVfmn3AtcUJua9yYF) | [Relembrar](https://open.spotify.com/album/2NKAElMUB6gX0c1tb1AcXl) | 3:35 | 2022-03-25 | 2022-04-20 |
@@ -276,6 +277,7 @@
 | [Vou Ter Saudades](https://open.spotify.com/track/3LV7JsBzte182GK1p6wOUX) | [C4 Pedro](https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao) | [Vou Ter Saudades](https://open.spotify.com/album/66lpG91jKZ7VUHNQRqD9Ks) | 3:11 | 2022-03-25 | 2022-04-21 |
 | [Water](https://open.spotify.com/track/2YGCbj4HPFKc40ow5Ica9X) | [Derick Banks](https://open.spotify.com/artist/6i82JFbfMvOi01V8M937aK), [P\. Lowe](https://open.spotify.com/artist/5iwOutOAetaUm6Yg14BRTu), [Archie & Sizzle](https://open.spotify.com/artist/6GYBds9JOCUmcooVni808I) | [Water](https://open.spotify.com/album/0iP0x5PfiePxWk18TMjoGf) | 4:21 | 2021-12-10 | 2022-09-22 |
 | [You](https://open.spotify.com/track/4oj1WpRBb0K4BVsonGwENA) | [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [You](https://open.spotify.com/album/3dshYkPBm10Z8AmEzhXCu7) | 3:15 | 2021-12-10 |  |
+| [É Golo](https://open.spotify.com/track/0w2MKVScVo0xCPQHJfdcgz) | [Dream Boyz](https://open.spotify.com/artist/2T1cjraXeFGf3neQE2MHmf) | [É Golo](https://open.spotify.com/album/0IYnFWdJzEuZ2YnyBIf24Q) | 3:36 | 2022-09-22 |  |
 | [É Mentira](https://open.spotify.com/track/6akHiBM9q6bPCg9SBCBoSz) | [JP da Maika](https://open.spotify.com/artist/5SwwERvBGTyuz8UlXepZvr) | [DaMaika Season](https://open.spotify.com/album/4guI5Wy4lUy3veJKlcwBPE) | 3:43 | 2022-02-25 | 2022-04-06 |
 
 \*This playlist was first scraped on 2021-12-29. Prior content cannot be recovered.

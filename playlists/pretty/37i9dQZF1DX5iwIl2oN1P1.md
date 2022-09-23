@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iwIl2oN1P1.md) - [plain]
 
 > Get your Sunday sound right with this collection of current Gospel essentials.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,077 likes - 60 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,088 likes - 60 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iwIl2oN1P1.md) - [plain]
 | 43 | [My World Needs You \(feat\. Sarah Reeves, Tasha Cobbs & Tamela Mann\)](https://open.spotify.com/track/6PWZf2hUR9TCA4DsmClUo6) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Tamela Mann](https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt) | [Losing My Religion](https://open.spotify.com/album/5jmz4EGoRRbBvzaLRNAPEA) | 7:03 |
 | 44 | [Gotta Have You](https://open.spotify.com/track/1JhJUr6uQ2bf8CNcVsARr4) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9) | [Life Music: Stage Two](https://open.spotify.com/album/2akE85yBX94ruIAOjR7ru4) | 2:56 |
 | 45 | [It's Yours](https://open.spotify.com/track/0xYwbNvw4TburjOJYs0GpQ) | [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [One Nation Under God](https://open.spotify.com/album/3fdcELLJcdrGFL2VJQu6VP) | 6:58 |
-| 46 | [Already Getting Better](https://open.spotify.com/track/6qCzqsSB1FLP3pr5fIrrAL) | [William Murphy](https://open.spotify.com/artist/1FQJqgKQDNLWfeLBQoQLmD) | [WOW Gospel 2016](https://open.spotify.com/album/6MA7ireN4cN0GxrfL2IHVV) | 4:02 |
-| 47 | [God Is My Refuge \(Live\)](https://open.spotify.com/track/0DTCdLczLgxt8EXrQFgnQV) | [Fred Hammond](https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484) | [God Is My Refuge \(Live\)](https://open.spotify.com/album/4eY1uNXXv3QsNr12FYZ0hX) | 9:45 |
+| 46 | [God Is My Refuge \(Live\)](https://open.spotify.com/track/0DTCdLczLgxt8EXrQFgnQV) | [Fred Hammond](https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484) | [God Is My Refuge \(Live\)](https://open.spotify.com/album/4eY1uNXXv3QsNr12FYZ0hX) | 9:45 |
+| 47 | [Already Getting Better](https://open.spotify.com/track/6qCzqsSB1FLP3pr5fIrrAL) | [William Murphy](https://open.spotify.com/artist/1FQJqgKQDNLWfeLBQoQLmD) | [WOW Gospel 2016](https://open.spotify.com/album/6MA7ireN4cN0GxrfL2IHVV) | 4:02 |
 | 48 | [Close](https://open.spotify.com/track/4X5kYRhSENRkyUkY17STEG) | [Marvin Sapp](https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo) | [Close](https://open.spotify.com/album/61YnH58KCdWzLWjkbRES9H) | 6:20 |
 | 49 | [If God / Nothing But the Blood \- Studio Version](https://open.spotify.com/track/2kbffpFwcxNZT0HfHKf5Dv) | [Casey J](https://open.spotify.com/artist/0B0NzcRnTARbZc83a34cDd) | [If God / Nothing But the Blood \(Studio Version\)](https://open.spotify.com/album/7jQPc5YniQzkR0ucMuJHMY) | 4:27 |
 | 50 | [No Ordinary Worship \- Live](https://open.spotify.com/track/6YGfEESAaw90c7saDtwiej) | [Kelontae Gavin](https://open.spotify.com/artist/1G73Usb8ZrWsOSxOmufR3D) | [The Higher Experience](https://open.spotify.com/album/6MjlmoY1Y0vYhGQ1ShRXzV) | 5:13 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iwIl2oN1P1.md) - [plain]
 | 59 | [I'm Yours](https://open.spotify.com/track/1Le6O6aIBN69wCWL1psmLR) | [Casey J](https://open.spotify.com/artist/0B0NzcRnTARbZc83a34cDd) | [The Truth \(Standard\)](https://open.spotify.com/album/2PN0icbfw6JsxnWrNmksuO) | 7:49 |
 | 60 | [Kind God](https://open.spotify.com/track/42lwMiKlH2nVmvnOtVFTHy) | [Marvin Sapp](https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo) | [Close](https://open.spotify.com/album/61YnH58KCdWzLWjkbRES9H) | 4:09 |
 
-Snapshot ID: `MTU5MTE5NDc5MCwwMDAwMDAwMDMyNjEwNzBiY2IyMGIzYzM3MWYwODc2ZTg3ZmU4YzVi`
+Snapshot ID: `MTU5MTE5NDc5MCwwMDAwMDAwMGFhYzk4OWU3ZGZlOTVlNGU5YmUyNDg5OTdhMGRjNDEw`

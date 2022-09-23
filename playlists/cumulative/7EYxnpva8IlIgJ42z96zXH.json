@@ -1717,7 +1717,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 210372,
       "name": "COZY",
       "url": "https://open.spotify.com/track/0mKGwFMHzTprtS2vpR3b6s"
@@ -4804,6 +4804,40 @@
     },
     {
       "album": {
+        "name": "Koo Koo Fun (feat. Tiwa Savage & DJ Maphorisa)",
+        "url": "https://open.spotify.com/album/7iDZn6XFwYdbq6jGYNXnrj"
+      },
+      "artists": [
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "Major League Djz",
+          "url": "https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb"
+        },
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        },
+        {
+          "name": "DJ Maphorisa",
+          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193274,
+      "name": "Koo Koo Fun (feat. Tiwa Savage & DJ Maphorisa)",
+      "url": "https://open.spotify.com/track/3mO0E6D3BsdBLjDCImi65H"
+    },
+    {
+      "album": {
         "name": "EP",
         "url": "https://open.spotify.com/album/7eRZyz1LKROt2KMj0rN6FT"
       },
@@ -5911,6 +5945,28 @@
       "duration_ms": 167142,
       "name": "Melody",
       "url": "https://open.spotify.com/track/6Owc2SuzwO3LW1SAODYK3l"
+    },
+    {
+      "album": {
+        "name": "messy in heaven",
+        "url": "https://open.spotify.com/album/0a9uNlopPXGg37OC20qDk6"
+      },
+      "artists": [
+        {
+          "name": "venbee",
+          "url": "https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1"
+        },
+        {
+          "name": "goddard.",
+          "url": "https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170437,
+      "name": "messy in heaven",
+      "url": "https://open.spotify.com/track/5RobAV5ROH5KARimi7n3cO"
     },
     {
       "album": {
@@ -7089,7 +7145,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 206957,
       "name": "Power",
       "url": "https://open.spotify.com/track/2PB9qohRHoU7XmRKtaEpY0"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5g856aiKiDS.md) - [plain]
 
 > Chill Korean tunes that's perfect with your latte or americano\. \(카페와 어울리는 편안한 음악들을 감상하세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 414,318 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 414,440 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5g856aiKiDS.md) - [plain]
 | 33 | [Photograph](https://open.spotify.com/track/0PkpRtJqrwuXhbdtJuQm7E) | [offonoff](https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT) | [boy.](https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj) | 3:59 |
 | 34 | [Popo \(How deep is our love?\)](https://open.spotify.com/track/3qDlb0Fo29MtPKsr5sT80Z) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Every letter I sent you.](https://open.spotify.com/album/20hW2P3VSNJ1A7MwjIJ0Up) | 4:31 |
 | 35 | [It's Raining](https://open.spotify.com/track/3woXnjYYyZ66vPg3lutPDj) | [Vincent Blue](https://open.spotify.com/artist/2AZgVjkPB4a4ULepFyPPgZ) | [It's Raining](https://open.spotify.com/album/43x4oosPjmsGbyG4vVKMFE) | 3:34 |
-| 36 | [Gloomy Star \(feat\. 1ho & Chan\)](https://open.spotify.com/track/2MQmvEq9tH7crlSCuIvwKI) | [Airman](https://open.spotify.com/artist/0GTBwQZcSJid6l5iwaWQ8E), [1ho](https://open.spotify.com/artist/6H9BOh1aFTuoa6xFMV3z8g), [Chan](https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F) | [Morning Diaries EP 1](https://open.spotify.com/album/1Caan3Q8QWlPH81ZxuG1bz) | 3:07 |
-| 37 | [Flu](https://open.spotify.com/track/2j0MsDAMJ2ahsxP3z86ChI) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:08 |
+| 36 | [Flu](https://open.spotify.com/track/2j0MsDAMJ2ahsxP3z86ChI) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:08 |
+| 37 | [Gloomy Star \(feat\. 1ho & Chan\)](https://open.spotify.com/track/2MQmvEq9tH7crlSCuIvwKI) | [Airman](https://open.spotify.com/artist/0GTBwQZcSJid6l5iwaWQ8E), [1ho](https://open.spotify.com/artist/6H9BOh1aFTuoa6xFMV3z8g), [Chan](https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F) | [Morning Diaries EP 1](https://open.spotify.com/album/1Caan3Q8QWlPH81ZxuG1bz) | 3:07 |
 | 38 | [Angel \(feat\. TAEYEON\)](https://open.spotify.com/track/2bNTtfRuUYgt32fe1X2zaD) | [Chancellor](https://open.spotify.com/artist/0u06YeydlBk3awnk5KgdBx), [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Angel](https://open.spotify.com/album/75p1IsJ8OoM61yE9b6jOhs) | 4:24 |
 | 39 | [NOBODY](https://open.spotify.com/track/3U5ti2dwp5FA70lZPrhv9l) | [Blue.D](https://open.spotify.com/artist/0rK0ZPLX4fKnFSbqs6gYfY), [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8) | [NOBODY](https://open.spotify.com/album/2m3vWrMY3MvVNSDMyEH1N8) | 3:21 |
 | 40 | [멋지게 인사하는 법 \(Hello Tutorial\) \(Feat\. 슬기 \(SEULGI\) of Red Velvet\)](https://open.spotify.com/track/36UcoqH2P24RtSGbLKLK3w) | [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby), [SEULGI](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) | [ZZZ](https://open.spotify.com/album/3jXVfwnqhI1wBwC2U416Ya) | 3:22 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5g856aiKiDS.md) - [plain]
 | 43 | [Rain Song \(Feat\. Colde\)](https://open.spotify.com/track/5IWlLl3xT95o8TSv3O8tRH) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [Rain Song](https://open.spotify.com/album/1DXAqvIPDtdyTmug9hCX8J) | 4:03 |
 | 44 | [Daydream \(feat\. LeeHi\)](https://open.spotify.com/track/3dpXHWngKfsQ7YbyiC3VpH) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6), [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [WATERFALL](https://open.spotify.com/album/4ZK9zZuiaZsryNQC8NLlQu) | 3:14 |
 | 45 | [Lovey Dovey \(Feat\. meenoi\)](https://open.spotify.com/track/1s3AJx7XASsPSA2cKJdXG6) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [Lovey Dovey](https://open.spotify.com/album/3TqLzwIwkkIqAoSISGip4k) | 3:39 |
-| 46 | [doodle \(Feat\. Yerin Baek\) \(Prod\. by WOOGIE\)](https://open.spotify.com/track/4WiZMFJos3BUHSieP9cHTM) | [punchnello](https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv), [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [doodle](https://open.spotify.com/album/4ASTYYT0psxkyK3Y52oWfV) | 3:07 |
-| 47 | [Being left \(Feat\. Dvwn\)](https://open.spotify.com/track/7hg44Uac2HOBJCLWsHXMQp) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [Dvwn](https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b) | [THINKING Part.2](https://open.spotify.com/album/6HcRiA5scMhgM5lBMKX2ad) | 3:38 |
+| 46 | [Being left \(Feat\. Dvwn\)](https://open.spotify.com/track/7hg44Uac2HOBJCLWsHXMQp) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [Dvwn](https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b) | [THINKING Part.2](https://open.spotify.com/album/6HcRiA5scMhgM5lBMKX2ad) | 3:38 |
+| 47 | [doodle \(Feat\. Yerin Baek\) \(Prod\. by WOOGIE\)](https://open.spotify.com/track/4WiZMFJos3BUHSieP9cHTM) | [punchnello](https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv), [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [doodle](https://open.spotify.com/album/4ASTYYT0psxkyK3Y52oWfV) | 3:07 |
 | 48 | [Hi spring Bye](https://open.spotify.com/track/2M7a2Us8CEU1HZHj70byGX) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 5:24 |
 | 49 | [Evening \(feat\. BIG Naughty\)](https://open.spotify.com/track/6ZY2EUZjuV9x38AqFdcU6G) | [YUJU](https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Evening](https://open.spotify.com/album/0mgsPfMEb0YQ42mClBWKc6) | 3:37 |
 | 50 | [Maybe It’s Not Our Fault](https://open.spotify.com/track/2xxAW1kGFSVCDdRVoryX8R) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Our Love is Great](https://open.spotify.com/album/6o7uJmwJP40A8lllMXk8MW) | 3:53 |
 
-Snapshot ID: `MTY2MjM5Mjk3NSwwMDAwMDAwMDNjYTdlYzE4NTQ5ODFkOTg4MjY5ZDQ1Y2YyNWU1MTdi`
+Snapshot ID: `MTY2MjM5Mjk3NSwwMDAwMDAwMGM3MjZjNmIwZWVkMzdhY2NmZGU0ZTJkOTcwNjk0MzIx`

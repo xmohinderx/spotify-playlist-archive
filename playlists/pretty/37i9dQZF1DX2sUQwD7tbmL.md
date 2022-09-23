@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sUQwD7tbmL.md) - [plain]
 
 > The best indie rock vibes — classic and current.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,680,904 likes - 120 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,682,148 likes - 120 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,8 +116,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sUQwD7tbmL.md) - [plain]
 | 106 | [Banquet](https://open.spotify.com/track/2YxXuCdbUpil3P7tRjhW1t) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Silent Alarm](https://open.spotify.com/album/0urhQCsjpczjC8zbTMtd8t) | 3:16 |
 | 107 | [Brazil](https://open.spotify.com/track/5ftdTvmQjjsL23t7jxADfI) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Brazil](https://open.spotify.com/album/38qaYdCiewb6NrRvVxWTe4) | 4:12 |
 | 108 | [The Bottom of It](https://open.spotify.com/track/6tZetCGfhxPh5ZIKCGmaKq) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Gold Past Life](https://open.spotify.com/album/4fu8RdgNHUGQ61GP0sILpp) | 3:01 |
-| 109 | [Black Sheep](https://open.spotify.com/track/72hSmnleYTiiOo23q8ZJIS) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Black Sheep](https://open.spotify.com/album/69BagWbfHgbO9uxjfVYcux) | 4:57 |
-| 110 | [You'll Understand When you're Older](https://open.spotify.com/track/4jbxk26vQ2cl5dMaYJtOzM) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Pebble Brain](https://open.spotify.com/album/5FjI8XVSj9YAmGAlZub7Bo) | 3:52 |
+| 109 | [You'll Understand When you're Older](https://open.spotify.com/track/4jbxk26vQ2cl5dMaYJtOzM) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Pebble Brain](https://open.spotify.com/album/5FjI8XVSj9YAmGAlZub7Bo) | 3:52 |
+| 110 | [Black Sheep](https://open.spotify.com/track/72hSmnleYTiiOo23q8ZJIS) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Black Sheep](https://open.spotify.com/album/69BagWbfHgbO9uxjfVYcux) | 4:57 |
 | 111 | [Unknown Song](https://open.spotify.com/track/2zR85boqjMOKPygjdDbGbC) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs), [Paulina Eisenberg](https://open.spotify.com/artist/1obwjMHQ4kZ2bXoBhLIaBT) | [Unknown Song](https://open.spotify.com/album/62rE0W1Vy1v48FTO9hxPzx) | 4:10 |
 | 112 | [Dark Days](https://open.spotify.com/track/7LZN7FkxHZk6maiN6NdI2i) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Sunlit Youth](https://open.spotify.com/album/2qiPY1CqHGexT4yWrQ5uX0) | 3:00 |
 | 113 | [Dræm Girl](https://open.spotify.com/track/6lbLn5iL2NBJnbib7bTXMn) | [No Vacation](https://open.spotify.com/artist/32zeX1IoVKAGWMyy1isKUq) | [Summer Break Mixtape](https://open.spotify.com/album/3Ahz3KpKarLfZAb2bYEe65) | 3:54 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sUQwD7tbmL.md) - [plain]
 | 119 | [Things I Thought Were Mine](https://open.spotify.com/track/3i10mtYVZPyoxorz6C19xE) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Happiness in Liquid Form](https://open.spotify.com/album/4hfnS7YAQNDiihGt70E3ei) | 3:13 |
 | 120 | [23](https://open.spotify.com/track/23KrCGwx1EedHUaZsQe6H5) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [23](https://open.spotify.com/album/57q2kosvxOb8SfHusM99zM) | 2:44 |
 
-Snapshot ID: `MTY2MzMwMDgwMCwwMDAwMDAwMDIyOThmZTcxOWE2NTU0ZjI0MzA2MTA0ODFjMmQyZGE5`
+Snapshot ID: `MTY2MzMwMDgwMCwwMDAwMDAwMDNlMWNlM2M3OTliYWZmNzA4NDk4MDEyMDU3MzQ5ZjY5`

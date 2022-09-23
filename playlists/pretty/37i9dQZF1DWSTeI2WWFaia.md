@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Royce Da 5'9"
 
-[Spotify](https://open.spotify.com/user/spotify) - 630,196 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 630,415 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 31 | [Diet Coke](https://open.spotify.com/track/3BMG9dnjNymT1OGUXQTAXl) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [Diet Coke](https://open.spotify.com/album/6AmzYhYXSHDndclYdVsKeF) | 2:59 |
 | 32 | [Head High](https://open.spotify.com/track/1TUNcLZZImGkNlviSpQp6H) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Head High](https://open.spotify.com/album/65KIgWKpqFbvMmH8QUkdUD) | 3:00 |
 | 33 | [Tetris](https://open.spotify.com/track/7tQpKKS4Jis0pCotemeLdz) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [Vinyl Days](https://open.spotify.com/album/0RTHMVF27KRMHIGnF7iLru) | 2:04 |
-| 34 | [Rushmore Pack](https://open.spotify.com/track/0v8HKx7pfToMOp5j1K5Dww) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S) | [Montega](https://open.spotify.com/album/3taQKiU8CkZT1UEgy6NqO9) | 2:52 |
+| 34 | [Checkmate](https://open.spotify.com/track/3KYTIo9pu84SbLL53iGew4) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed) | [Checkmate](https://open.spotify.com/album/092m8BBfQD4WLKfZXkD2PI) | 2:50 |
 | 35 | [Headshots \(4r Da Locals\)](https://open.spotify.com/track/2rFTRICumonxxZKxxfEu8R) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM) | [Headshots \(4r Da Locals\)](https://open.spotify.com/album/2gGoV7NU9CdWtNhIcvUKQ1) | 3:13 |
-| 36 | [Checkmate](https://open.spotify.com/track/3KYTIo9pu84SbLL53iGew4) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed) | [Checkmate](https://open.spotify.com/album/092m8BBfQD4WLKfZXkD2PI) | 2:50 |
+| 36 | [Rushmore Pack](https://open.spotify.com/track/0v8HKx7pfToMOp5j1K5Dww) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S) | [Montega](https://open.spotify.com/album/3taQKiU8CkZT1UEgy6NqO9) | 2:52 |
 | 37 | [Neck & Wrist \(feat\. JAY\-Z & Pharrell\)](https://open.spotify.com/track/5QNW6Vx14N4OfJ7D0eDg0d) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Neck & Wrist](https://open.spotify.com/album/0MomByEXmXNIZEuN2cJkw3) | 3:29 |
 | 38 | [THROUGH 2 U](https://open.spotify.com/track/5FLpZcyK0v3SFkIZZ8YPQP) | [Bktherula](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK), [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry) | [THROUGH 2 U](https://open.spotify.com/album/6QoH3WybTsxVHKcXC8vsUv) | 2:41 |
 | 39 | [TALK2ME](https://open.spotify.com/track/3argucLqn1gBoVSBe6M7Cz) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [TALK2ME](https://open.spotify.com/album/735tpKlbuovM2E1vrFYErt) | 2:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 49 | [Jaguar](https://open.spotify.com/track/2CjNQ2T7fSfp45CWb3dh85) | [Action Bronson](https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ) | [Cocodrillo Turbo](https://open.spotify.com/album/2rmPnKM3T64J7Xz5TEyR0c) | 2:55 |
 | 50 | [ROUND HERE \(PART ONE\)](https://open.spotify.com/track/1f67iBDSGFMepBM9jFJ2Dw) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3) | [moMINTs](https://open.spotify.com/album/2w6rI5vijQ6SnOyH0UN4S2) | 1:42 |
 
-Snapshot ID: `MTY2MzMwMDgwMCwwMDAwMDAwMDAzNTA0NjVjZjI3NDBjZTMwMDMyYTlkZWY0MTI5YjA2`
+Snapshot ID: `MTY2MzMwMDgwMCwwMDAwMDAwMDE1YWVmMzM3OGRhMTc0ODVlYTQzODcwMDBkYjM4M2M1`

@@ -1,12 +1,12 @@
 {
   "description": "\u5373\u8208\u800c\u81ea\u5728\u3001\u512a\u96c5\u800c\u8212\u7de9\uff0c\u9019\u5f62\u5bb9\u662f\u4e0d\u662f\u50cf\u500b\u597d\u5922\u7684\u611f\u89ba\u5462\uff1f\u5c31\u8b93\u7f8e\u5999\u7684\u7235\u58eb\u6a02\u52a9\u4f60\u5165\u7720\u5427\uff01",
-  "num_followers": 54583,
+  "num_followers": 54596,
   "original_name": "\u50ac\u7720\u7235\u58eb",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzU1OTU4NCwwMDAwMDAwMGM0M2RiN2IyYTdhOTYyODM1NzQ1ODAxZTE3NzljYzJl",
+  "snapshot_id": "MTY2MzU1OTU4NCwwMDAwMDAwMDZlZWZhNjBmNGMzMWFhZjg0MDc0MTcwNWUyMTIyYTdi",
   "tracks": [
     {
       "added_at": "2022-09-19 03:53:04",
@@ -767,22 +767,6 @@
     {
       "added_at": "2022-09-19 03:53:04",
       "album": {
-        "name": "The Complete Village Vanguard Recordings, 1961",
-        "url": "https://open.spotify.com/album/0rdlBkBl9UWoLDcEfxAkU5"
-      },
-      "artists": [
-        {
-          "name": "Bill Evans Trio",
-          "url": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
-        }
-      ],
-      "duration_ms": 298000,
-      "name": "My Foolish Heart - Live",
-      "url": "https://open.spotify.com/track/5ARta7jvD6MRUiSk54jY5r"
-    },
-    {
-      "added_at": "2022-09-19 03:53:04",
-      "album": {
         "name": "The Body & The Soul",
         "url": "https://open.spotify.com/album/4HI73mieaBFtwKS37HmvQH"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 231933,
       "name": "Moody Caf\u00e9",
       "url": "https://open.spotify.com/track/6uCvwPPCSBVS95TmcB9cTj"
+    },
+    {
+      "added_at": "2022-09-19 03:53:04",
+      "album": {
+        "name": "The Complete Village Vanguard Recordings, 1961",
+        "url": "https://open.spotify.com/album/0rdlBkBl9UWoLDcEfxAkU5"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans Trio",
+          "url": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
+        }
+      ],
+      "duration_ms": 298000,
+      "name": "My Foolish Heart - Live",
+      "url": "https://open.spotify.com/track/5ARta7jvD6MRUiSk54jY5r"
     },
     {
       "added_at": "2022-09-19 03:53:04",
@@ -1319,18 +1319,18 @@
     {
       "added_at": "2022-09-19 03:53:04",
       "album": {
-        "name": "From Here I See",
-        "url": "https://open.spotify.com/album/2zmbP9vz9Bwx1SCHgkPzTc"
+        "name": "Soul",
+        "url": "https://open.spotify.com/album/13sH8kz1Fjh0jvekB0thjt"
       },
       "artists": [
         {
-          "name": "Ben Wolfe",
-          "url": "https://open.spotify.com/artist/7A1xxtVfUahU8u7Z4kKFRC"
+          "name": "Coleman Hawkins",
+          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
         }
       ],
-      "duration_ms": 340506,
-      "name": "So Lovely",
-      "url": "https://open.spotify.com/track/0Ya7lMXJGmETT1G3bW0uX2"
+      "duration_ms": 194000,
+      "name": "Greensleeves",
+      "url": "https://open.spotify.com/track/4gC95tJcg0TWAz3LJ2dZpN"
     }
   ],
   "unique_name": "\u50ac\u7720\u7235\u58eb",

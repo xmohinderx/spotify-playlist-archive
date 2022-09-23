@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX58NJL8iVBGW.md) - [plain]
 
 > Deep, dark, dramatic\. Roots rock, folk, and Americana—with a gothic soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 508,174 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 508,451 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,9 +37,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX58NJL8iVBGW.md) - [plain]
 | 27 | [Bad Things](https://open.spotify.com/track/4VIDVd87GQcBSbofvDp8Pj) | [Jace Everett](https://open.spotify.com/artist/47DQBkDU2VieRG0aJUcPJs) | [Jace Everett](https://open.spotify.com/album/2bxVJbSsv2ldVqjnX58DtE) | 2:44 |
 | 28 | [Lungs \- Live](https://open.spotify.com/track/0gctFhy7ZomaBNuUrFnjrU) | [Townes Van Zandt](https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof) | [Live at the Old Quarter, Houston, Texas](https://open.spotify.com/album/1SXpC0UH36YNCRSQMVRsoC) | 2:34 |
 | 29 | [An Honest Man](https://open.spotify.com/track/01Cr7MlISmoh8gMlZBjpko) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [An Honest Man](https://open.spotify.com/album/6YqoghPHyDIIgSsAp7QFdj) | 4:06 |
-| 30 | [Ebb and Flow](https://open.spotify.com/track/699xuBhcbpIoXHzMRQbI8j) | [The Dead Tongues](https://open.spotify.com/artist/5nM5pj6cEIkzCkwBJZibHK) | [Unsung Passage](https://open.spotify.com/album/6M0S7WdKAWPcXU3lrEpEJW) | 3:17 |
+| 30 | [Graves](https://open.spotify.com/track/33BhBFID7OBU3ie0KccF9B) | [Whiskey Shivers](https://open.spotify.com/artist/2N91y9Uko6gWwugdCpxJYH) | [Whiskey Shivers](https://open.spotify.com/album/5I40wOfpaEMbdzn1tMV7dg) | 3:10 |
 | 31 | [Bilgewater](https://open.spotify.com/track/05wB0mSpDASexc98oKZCOw) | [Brown Bird](https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP) | [Salt For Salt](https://open.spotify.com/album/0SVsGgGApRYVXP466ywwsC) | 3:46 |
-| 32 | [Graves](https://open.spotify.com/track/33BhBFID7OBU3ie0KccF9B) | [Whiskey Shivers](https://open.spotify.com/artist/2N91y9Uko6gWwugdCpxJYH) | [Whiskey Shivers](https://open.spotify.com/album/5I40wOfpaEMbdzn1tMV7dg) | 3:10 |
+| 32 | [Ebb and Flow](https://open.spotify.com/track/699xuBhcbpIoXHzMRQbI8j) | [The Dead Tongues](https://open.spotify.com/artist/5nM5pj6cEIkzCkwBJZibHK) | [Unsung Passage](https://open.spotify.com/album/6M0S7WdKAWPcXU3lrEpEJW) | 3:17 |
 | 33 | [All The World Is Green \- Live](https://open.spotify.com/track/0FD1tOUxkiOXgR9d9uy9ou) | [Tom Waits](https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM) | [All The World Is Green \(Live\)](https://open.spotify.com/album/1H6aRajw8KS87O6ejew73Y) | 4:52 |
 | 34 | [Old Time Religion](https://open.spotify.com/track/4zm37YNRt5XrbFOTPk0jBp) | [Parker Millsap](https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur) | [Parker Millsap](https://open.spotify.com/album/3puqTC6ZIfItLMY4q0wr4e) | 3:54 |
 | 35 | [Devil's Spoke](https://open.spotify.com/track/4dqhnjsX69qGQ7DCMSTY7v) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [I Speak Because I Can](https://open.spotify.com/album/7x98osNfh0aUookqE7MMQ1) | 3:38 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX58NJL8iVBGW.md) - [plain]
 | 99 | [Bless Your Soul](https://open.spotify.com/track/6SP4CyAK8qbdajsmzYQm9g) | [The Bones of J.R\. Jones](https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn) | [Bless Your Soul](https://open.spotify.com/album/72ikagjWsSJebCaqohnrHB) | 3:32 |
 | 100 | [O Death \(with Francesco Turrisi\)](https://open.spotify.com/track/4isz6MOaOrvonLrIVyPpvj) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM), [Francesco Turrisi](https://open.spotify.com/artist/4ds2NOrovBxUtTi29RWIBC) | [They're Calling Me Home \(with Francesco Turrisi\)](https://open.spotify.com/album/75qSKqLqEt7zOei7If7Lms) | 3:13 |
 
-Snapshot ID: `MTY2MDI3NjgwMCwwMDAwMDAwMDU2NTFjNDA5NWEzODBlNjlhYTMyNzFiMjAzNjc0NTQ3`
+Snapshot ID: `MTY2MDI3NjgwMCwwMDAwMDAwMDgyZGEwZTNjNzJlZGRmMGM3MTU0OTIwZGQxZTA3YzI3`

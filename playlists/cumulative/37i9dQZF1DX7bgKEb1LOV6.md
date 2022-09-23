@@ -4,7 +4,7 @@
 
 > NCTzens' go\-to place for all things NCT.
 
-151 songs - 8 hr 52 min - [published](https://open.spotify.com/playlist/6hDx4vvNpXjfh4hvd24tkm)
+152 songs - 8 hr 55 min - [published](https://open.spotify.com/playlist/6hDx4vvNpXjfh4hvd24tkm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Life Is Still Going On](https://open.spotify.com/track/3THdOskGxdJcRbp0DcS4s0) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hello Future \- The 1st Album Repackage](https://open.spotify.com/album/1fRqXYwoLDxG3EwP70qnjM) | 3:38 | 2021-12-16 |  |
 | [Light Bulb](https://open.spotify.com/track/401ceGHOdH7VhxkhyPRoJP) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [NCT RESONANCE Pt\. 1 \- The 2nd Album](https://open.spotify.com/album/6kudlOyCqSQfsBVSdPZEu4) | 3:59 | 2021-12-16 |  |
 | [Lipstick](https://open.spotify.com/track/7I852DAoPFlTOItjv6BBz8) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [LOVEHOLIC](https://open.spotify.com/album/3gaBYNHHWHydyB4vDBL7xZ) | 3:33 | 2021-12-16 |  |
+| [LIT \(Prod\. Czaer\)](https://open.spotify.com/track/5qaOtskRtNxLiewYb6QM7A) | [TAEYONG](https://open.spotify.com/artist/6SKusTjOAPsTZ6kareKQdm), [MARK](https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O) | [Street Man Fighter Original Vol.4 \(Crew Songs\)](https://open.spotify.com/album/7dwRGP1A80POqE3O9At5Vw) | 3:15 | 2022-09-22 |  |
 | [Long Flight](https://open.spotify.com/track/4hHRHdPzKTpobGyyW9ipNg) | [TAEYONG](https://open.spotify.com/artist/6SKusTjOAPsTZ6kareKQdm) | [Long Flight](https://open.spotify.com/album/5shvXSOFncAaOXorw8G2t7) | 3:18 | 2021-12-16 |  |
 | [Love Again](https://open.spotify.com/track/2eqehaP6hg04FQ82CLErFd) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Reload](https://open.spotify.com/album/1V5ilz8ghPl1PZJA1hbw3r) | 3:30 | 2021-12-16 |  |
 | [Love Me Now](https://open.spotify.com/track/1QLLNLd32qDJjsH1UPPMkp) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 Neo Zone \- The 2nd Album](https://open.spotify.com/album/5YHFKsjb0e5q8Smb2CBUl7) | 4:08 | 2021-12-16 | 2022-07-29 |

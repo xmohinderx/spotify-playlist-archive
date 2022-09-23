@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pEiFLSS7sX.md) - [plain]
 
 > Go deep into spontaneous praise and worship here\. On and on.
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,034 likes - 100 songs - 10 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,097 likes - 100 songs - 10 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pEiFLSS7sX.md) - [plain]
 | 87 | [Overflow \(Live\)](https://open.spotify.com/track/1xvioaPO8eZigxPTEZh9ZV) | [Red Rocks Worship](https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr) | [Here \(Live\)](https://open.spotify.com/album/7sOLny4qMMkbLOxfvflwQ8) | 4:18 |
 | 88 | [At the Foot of the Cross \- Acoustic](https://open.spotify.com/track/59dF79fypzaMFZYJCCPJbl) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Children of God Acoustic Sessions](https://open.spotify.com/album/5AyRWQVQ69mjrdoxIhNanU) | 3:59 |
 | 89 | [The Cause Of Christ](https://open.spotify.com/track/70EydOWbBwGIlHuv0h7uwF) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [The Garden](https://open.spotify.com/album/0VlrwygIqoI06z2BTCYuTq) | 4:57 |
-| 90 | [Only Jesus](https://open.spotify.com/track/613opoQSXDsSSssAlBwBc6) | [Brian Johnson](https://open.spotify.com/artist/7qTSoObqlJkIybERfumbQ9) | [After All These Years](https://open.spotify.com/album/799XvKSzKmyjCUMBE48XpS) | 4:53 |
-| 91 | [You And You Alone \- Live](https://open.spotify.com/track/7p3rTldMTSffWhFG3vk1C4) | [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [Cody Lee](https://open.spotify.com/artist/31WoyKDV35hyTENxkwU7Az) | [You And You Alone \(Live\)](https://open.spotify.com/album/0kPMk7WTJRSDD0fnwyis9O) | 9:59 |
+| 90 | [You And You Alone \- Live](https://open.spotify.com/track/7p3rTldMTSffWhFG3vk1C4) | [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [Cody Lee](https://open.spotify.com/artist/31WoyKDV35hyTENxkwU7Az) | [You And You Alone \(Live\)](https://open.spotify.com/album/0kPMk7WTJRSDD0fnwyis9O) | 9:59 |
+| 91 | [Only Jesus](https://open.spotify.com/track/613opoQSXDsSSssAlBwBc6) | [Brian Johnson](https://open.spotify.com/artist/7qTSoObqlJkIybERfumbQ9) | [After All These Years](https://open.spotify.com/album/799XvKSzKmyjCUMBE48XpS) | 4:53 |
 | 92 | [Speak](https://open.spotify.com/track/4KUzH3n3EJYz5ltMHuDKUV) | [Bethany Music](https://open.spotify.com/artist/6zJA80S2jrsIqiqukh36WP) | [Speak](https://open.spotify.com/album/5joR8lkcklTpO3o8dPVsoI) | 4:20 |
 | 93 | [You Satisfy \(feat\. Elyssa Smith\)](https://open.spotify.com/track/7suC4UpFBmXv0KRfYdW09F) | [Upper Room Music](https://open.spotify.com/artist/43fQOvRHigfApnc4GmYYPf), [Elyssa Smith](https://open.spotify.com/artist/2enLZAXaXEpQXjaGguhA8f) | [Center of Your Love](https://open.spotify.com/album/01j8mx7lu1xopdogMNvelL) | 4:56 |
 | 94 | [Tethered](https://open.spotify.com/track/2qeDQupafKL2K5mEVfEvCP) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Living Hope](https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv) | 4:42 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pEiFLSS7sX.md) - [plain]
 | 99 | [Hallelujah \(You Get The Glory\) \- Live](https://open.spotify.com/track/0D38RVWdBxZF0JW20kGcX0) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Intercession \(Live\)](https://open.spotify.com/album/6mDxhi9QChFywX2p0QxL62) | 2:44 |
 | 100 | [Take a Moment \(Live\) \[feat\. Will Reagan\]](https://open.spotify.com/track/3J7vBrecAaQpAf5CpbXpj4) | [United Pursuit](https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo), [Will Reagan](https://open.spotify.com/artist/3P9Tb34QQEWyjm1pYdPfOP) | [Simple Gospel B\-Sides](https://open.spotify.com/album/3HwQXwC4V5Gbhwz8QJ6t80) | 9:40 |
 
-Snapshot ID: `MTU5OTE5MjEyMCwwMDAwMDAwMGM3M2NmZTFiMzUzOTUzMDgyYzNjYzFjMDY4YzFlN2Y4`
+Snapshot ID: `MTU5OTE5MjEyMCwwMDAwMDAwMDAwNzQ2Y2JiYjdiYTNmZjRiN2MxYmMyNTQ5NWUwMGIw`

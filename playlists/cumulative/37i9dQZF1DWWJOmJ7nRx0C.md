@@ -4,7 +4,7 @@
 
 > The hardest songs, loud\. Very loud\. Cover:  STARSET
 
-465 songs - 1 day 4 hr 6 min - [published](https://open.spotify.com/playlist/2UlZpIm54Pz4o9EirPo1mN)
+466 songs - 1 day 4 hr 9 min - [published](https://open.spotify.com/playlist/2UlZpIm54Pz4o9EirPo1mN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -313,7 +313,8 @@
 | [Rain Down](https://open.spotify.com/track/0WcS5eAg9byayXJFZ75eEi) | [Solence](https://open.spotify.com/artist/4fnono0JCZFAeeaecrI7kg) | [Rain Down](https://open.spotify.com/album/2qcmpfLRQq8qi4WCJOI1oc) | 4:07 | 2022-07-08 |  |
 | [Rainbow Veins](https://open.spotify.com/track/7cjlfruK9Oqw7k5wAZGO72) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Rainbow Veins](https://open.spotify.com/album/7moGhJvy4szDPEEgvgffGj) | 4:58 | 2021-10-01 | 2022-06-11 |
 | [Rainy Day](https://open.spotify.com/track/3AkCkuC8LuRFEnvyKBQUOg) | [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [Welcome To Horrorwood: The Silver Scream 2](https://open.spotify.com/album/4PyOq7kavqglGk3cexcygx) | 3:01 | 2022-01-07 | 2022-04-16 |
-| [Ramon Ayala](https://open.spotify.com/track/7oRlqeavsFnEtKoUueqyiL) | [Giovannie and the Hired Guns](https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94) | [Ramon Ayala](https://open.spotify.com/album/0uDXEh8zPFRjAGizuol1EI) | 2:48 | 2021-10-01 |  |
+| [Ramon Ayala](https://open.spotify.com/track/7mrLFLPPXee4E0JH2trPJz) | [Giovannie and the Hired Guns](https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94) | [Ramon Ayala](https://open.spotify.com/album/3QHU1NiJaARZJbBbYG1BeQ) | 2:48 | 2022-09-16 |  |
+| [Ramon Ayala](https://open.spotify.com/track/7oRlqeavsFnEtKoUueqyiL) | [Giovannie and the Hired Guns](https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94) | [Ramon Ayala](https://open.spotify.com/album/0uDXEh8zPFRjAGizuol1EI) | 2:48 | 2021-10-01 | 2022-09-23 |
 | [Re\-Entry \(feat\. Mark Hoppus\)](https://open.spotify.com/track/2f2WCKwB1r2SH7AvJc0P8W) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN), [Mark Hoppus](https://open.spotify.com/artist/0FOYGJujASE1pCw5WNHf0g) | [Re\-Entry \(feat\. Mark Hoppus\)](https://open.spotify.com/album/1HVOuAKPRBI8oBT76slmdv) | 2:52 | 2022-01-21 | 2022-07-23 |
 | [Reap A Hurricane](https://open.spotify.com/track/6HtG17GT7yVuZiwhcPWPOY) | [The Hellacopters](https://open.spotify.com/artist/1lsXuaLnHnfL7GoJXKkUtH) | [Reap A Hurricane](https://open.spotify.com/album/3eUtW3WFfthYpb1Amei78r) | 3:15 | 2021-12-17 | 2022-01-29 |
 | [Reaper](https://open.spotify.com/track/5eyO3tmySwgFkCFU38xQLH) | [Satellite Citi](https://open.spotify.com/artist/4laO1AzROVryZq7KcHnDfL), [Deadskull](https://open.spotify.com/artist/7xJI0WNB1PLN92vQpHPtmp) | [Fear Tactics](https://open.spotify.com/album/0XVHvBFj3Op4zFn0WhcS8Y) | 3:54 | 2021-11-12 | 2022-01-15 |

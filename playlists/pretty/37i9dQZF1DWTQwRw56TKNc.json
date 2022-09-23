@@ -1,12 +1,12 @@
 {
   "description": "Relax with these timeless tunes. Cover: John Denver",
-  "num_followers": 553068,
+  "num_followers": 553390,
   "original_name": "Mellow Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzA3OTc2MSwwMDAwMDAwMGY5NDcyZjgzODcyY2E5YzZlOWFmZDgyODQ2ZDI3ZmYw",
+  "snapshot_id": "MTY2MzA3OTc2MSwwMDAwMDAwMGQ1NTc3ZDliZWZjMTBmZDkwOTNjMTM2ZjM5YTI4YjIz",
   "tracks": [
     {
       "added_at": "2021-09-30 18:53:37",
@@ -601,22 +601,6 @@
       "url": "https://open.spotify.com/track/0djZ2ndRfAL69WYNra5jRC"
     },
     {
-      "added_at": "2021-09-30 18:53:37",
-      "album": {
-        "name": "One of These Nights (2013 Remaster)",
-        "url": "https://open.spotify.com/album/0F77QekrNe8vVAjU2sepja"
-      },
-      "artists": [
-        {
-          "name": "Eagles",
-          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
-        }
-      ],
-      "duration_ms": 287090,
-      "name": "Take It to the Limit - 2013 Remaster",
-      "url": "https://open.spotify.com/track/2cWHN0WK52RGAWHgaDamUA"
-    },
-    {
       "added_at": "2022-09-13 14:34:43",
       "album": {
         "name": "The Freewheelin' Bob Dylan",
@@ -631,6 +615,22 @@
       "duration_ms": 217400,
       "name": "Don't Think Twice, It's All Right",
       "url": "https://open.spotify.com/track/2WOjLF83vqjit2Zh4B69V3"
+    },
+    {
+      "added_at": "2021-09-30 18:53:37",
+      "album": {
+        "name": "One of These Nights (2013 Remaster)",
+        "url": "https://open.spotify.com/album/0F77QekrNe8vVAjU2sepja"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "duration_ms": 287090,
+      "name": "Take It to the Limit - 2013 Remaster",
+      "url": "https://open.spotify.com/track/2cWHN0WK52RGAWHgaDamUA"
     },
     {
       "added_at": "2022-09-13 14:34:43",
@@ -747,6 +747,22 @@
     {
       "added_at": "2021-09-30 18:53:37",
       "album": {
+        "name": "Bringing It All Back Home",
+        "url": "https://open.spotify.com/album/1lPoRKSgZHQAYXxzBsOQ7v"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 330533,
+      "name": "Mr. Tambourine Man",
+      "url": "https://open.spotify.com/track/3RkQ3UwOyPqpIiIvGVewuU"
+    },
+    {
+      "added_at": "2021-09-30 18:53:37",
+      "album": {
         "name": "Where There's Smoke...",
         "url": "https://open.spotify.com/album/6dePMhqoFfN5mm73ChBgOU"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 279666,
       "name": "My Hometown",
       "url": "https://open.spotify.com/track/6dahFmHrgncgVJjsI1ws7e"
-    },
-    {
-      "added_at": "2021-09-30 18:53:37",
-      "album": {
-        "name": "Bringing It All Back Home",
-        "url": "https://open.spotify.com/album/1lPoRKSgZHQAYXxzBsOQ7v"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 330533,
-      "name": "Mr. Tambourine Man",
-      "url": "https://open.spotify.com/track/3RkQ3UwOyPqpIiIvGVewuU"
     },
     {
       "added_at": "2022-04-21 18:22:17",
@@ -873,22 +873,6 @@
       "url": "https://open.spotify.com/track/3HuJDcOWx0gE9Yng2uWY7K"
     },
     {
-      "added_at": "2021-09-30 18:53:37",
-      "album": {
-        "name": "Blood On The Tracks",
-        "url": "https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 341626,
-      "name": "Tangled up in Blue",
-      "url": "https://open.spotify.com/track/6Vcwr9tb3ZLO63F8DL8cqu"
-    },
-    {
       "added_at": "2022-04-25 13:48:17",
       "album": {
         "name": "In the Wind",
@@ -919,6 +903,22 @@
       "duration_ms": 108853,
       "name": "I'll Follow The Sun - Remastered 2009",
       "url": "https://open.spotify.com/track/45WX2cfbL8bCIqv3rOq1G3"
+    },
+    {
+      "added_at": "2021-09-30 18:53:37",
+      "album": {
+        "name": "Blood On The Tracks",
+        "url": "https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 341626,
+      "name": "Tangled up in Blue",
+      "url": "https://open.spotify.com/track/6Vcwr9tb3ZLO63F8DL8cqu"
     },
     {
       "added_at": "2021-09-30 18:53:37",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2021-09-30 18:53:37",
       "album": {
-        "name": "The Wind",
-        "url": "https://open.spotify.com/album/6WNzWYrf563I7TCiSB1fO3"
-      },
-      "artists": [
-        {
-          "name": "Warren Zevon",
-          "url": "https://open.spotify.com/artist/3mY9Ii0cL5SQxpOTAm8SHx"
-        }
-      ],
-      "duration_ms": 208026,
-      "name": "Keep Me in Your Heart",
-      "url": "https://open.spotify.com/track/1zSzJAosfqJugLx7mZl5xt"
-    },
-    {
-      "added_at": "2021-09-30 18:53:37",
-      "album": {
         "name": "Lean on Me: The Best of Bill Withers",
         "url": "https://open.spotify.com/album/0XmgSYx9bj4sqpcXVgKs2C"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 257532,
       "name": "Lean on Me",
       "url": "https://open.spotify.com/track/5zCJvrT3C7cIfHsR5iG95l"
+    },
+    {
+      "added_at": "2021-09-30 18:53:37",
+      "album": {
+        "name": "The Wind",
+        "url": "https://open.spotify.com/album/6WNzWYrf563I7TCiSB1fO3"
+      },
+      "artists": [
+        {
+          "name": "Warren Zevon",
+          "url": "https://open.spotify.com/artist/3mY9Ii0cL5SQxpOTAm8SHx"
+        }
+      ],
+      "duration_ms": 208026,
+      "name": "Keep Me in Your Heart",
+      "url": "https://open.spotify.com/track/1zSzJAosfqJugLx7mZl5xt"
     }
   ],
   "unique_name": "Mellow Classics",

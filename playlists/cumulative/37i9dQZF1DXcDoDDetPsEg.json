@@ -142,6 +142,24 @@
     },
     {
       "album": {
+        "name": "4 The Win",
+        "url": "https://open.spotify.com/album/6vjPlRatcX5zG3vUNJO3mv"
+      },
+      "artists": [
+        {
+          "name": "D-Block Europe",
+          "url": "https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207083,
+      "name": "4 The Win",
+      "url": "https://open.spotify.com/track/2ci77PsnWsDLd57Opdud6a"
+    },
+    {
+      "album": {
         "name": "6 Figures",
         "url": "https://open.spotify.com/album/7evdIkdwEnnxVEmKgPbBWM"
       },
@@ -975,7 +993,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 146086,
       "name": "Busy",
       "url": "https://open.spotify.com/track/1uX8TkVO7QxSoleWuAV8qg"
@@ -1055,7 +1073,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 185753,
       "name": "Came In the Scene",
       "url": "https://open.spotify.com/track/4SkIdCA9Vp7XXSAlYGtohn"
@@ -1405,6 +1423,24 @@
       "duration_ms": 178285,
       "name": "Coming for You (feat. A1 x J1)",
       "url": "https://open.spotify.com/track/1xIqDFx3KdByBnKMlTECcM"
+    },
+    {
+      "album": {
+        "name": "Lap 5",
+        "url": "https://open.spotify.com/album/60qboewMs8i1L2a0fEGcVl"
+      },
+      "artists": [
+        {
+          "name": "D-Block Europe",
+          "url": "https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "Conor McGregor",
+      "url": "https://open.spotify.com/track/6sxbe2ZGLQ6hbBvjEdunkd"
     },
     {
       "album": {
@@ -1800,6 +1836,24 @@
     },
     {
       "album": {
+        "name": "DND In Greece",
+        "url": "https://open.spotify.com/album/1SeV85VSq6CzYA2Qy7N3fe"
+      },
+      "artists": [
+        {
+          "name": "Nemzzz",
+          "url": "https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "DND In Greece",
+      "url": "https://open.spotify.com/track/14ExPpNKL4lwCkVQYWJ52y"
+    },
+    {
+      "album": {
         "name": "Doja",
         "url": "https://open.spotify.com/album/6oECjagksATHu2UaclXrq1"
       },
@@ -1949,7 +2003,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 205200,
       "name": "Elegant & Gang",
       "url": "https://open.spotify.com/track/78ywqAbY9QktwlTHyc8c4I"
@@ -2117,7 +2171,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 156923,
       "name": "Fantasy",
       "url": "https://open.spotify.com/track/7jqiKvhHkFlNsaDfoAfGmz"
@@ -2263,7 +2317,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 180700,
       "name": "Frenches",
       "url": "https://open.spotify.com/track/6i9JtGfEJmQuz2aftQsgT1"
@@ -2413,7 +2467,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 134457,
       "name": "Get To Know",
       "url": "https://open.spotify.com/track/1BvWbHhaQdjYdoyNyhGcHJ"
@@ -2939,7 +2993,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 190684,
       "name": "IFTK",
       "url": "https://open.spotify.com/track/7e1WjNmwjzNsbQeg2CGlgF"
@@ -2957,7 +3011,7 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 173105,
       "name": "Immature",
       "url": "https://open.spotify.com/track/2AB3ZBErbY5P9PXIrTFAb9"
@@ -3785,6 +3839,10 @@
         {
           "name": "D-Block Europe",
           "url": "https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y"
+        },
+        {
+          "name": "Young Adz",
+          "url": "https://open.spotify.com/artist/396eHybVCEUr0PcED4yFga"
         }
       ],
       "date_added": "2022-08-30",
@@ -3859,6 +3917,24 @@
       "duration_ms": 113429,
       "name": "Megan's Piano",
       "url": "https://open.spotify.com/track/4HyVMzg0sUQsdOxRvSO8Ka"
+    },
+    {
+      "album": {
+        "name": "Mel Made Me Do It",
+        "url": "https://open.spotify.com/album/2qB4PkpoOUuvLXPzckmYdw"
+      },
+      "artists": [
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 440857,
+      "name": "Mel Made Me Do It",
+      "url": "https://open.spotify.com/track/3y8xPhq9Ho1hCEMIE9DvZe"
     },
     {
       "album": {
@@ -4356,6 +4432,24 @@
     },
     {
       "album": {
+        "name": "The Lead",
+        "url": "https://open.spotify.com/album/4r7OqXkih4qYvozSZEGYyG"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174588,
+      "name": "Not My Job",
+      "url": "https://open.spotify.com/track/6uxNcrFJL76jjkufNmI0xc"
+    },
+    {
+      "album": {
         "name": "OCEAN",
         "url": "https://open.spotify.com/album/6j5UNH6J13v4wjKVDlpOXI"
       },
@@ -4820,6 +4914,24 @@
     },
     {
       "album": {
+        "name": "Public Figure",
+        "url": "https://open.spotify.com/album/1lyEFQfl8xQE0ylIzWHQJL"
+      },
+      "artists": [
+        {
+          "name": "Clavish",
+          "url": "https://open.spotify.com/artist/4ygR3mAG9AsBRVKIlmFYP1"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175011,
+      "name": "Public Figure",
+      "url": "https://open.spotify.com/track/0PeQk3MMmnfBMmP1EvDOP4"
+    },
+    {
+      "album": {
         "name": "Pull Up",
         "url": "https://open.spotify.com/album/4VJW8nI0MAKqIGq4DGN1vq"
       },
@@ -4985,6 +5097,24 @@
       "duration_ms": 183186,
       "name": "Real Talk",
       "url": "https://open.spotify.com/track/32ny2YtiR7zKi7PBjiQ5Iy"
+    },
+    {
+      "album": {
+        "name": "Lap 5",
+        "url": "https://open.spotify.com/album/60qboewMs8i1L2a0fEGcVl"
+      },
+      "artists": [
+        {
+          "name": "D-Block Europe",
+          "url": "https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187317,
+      "name": "Really Miss You",
+      "url": "https://open.spotify.com/track/1WVS5kZMCHqwIoepXZtZtw"
     },
     {
       "album": {
@@ -5444,6 +5574,24 @@
     },
     {
       "album": {
+        "name": "Spoilt",
+        "url": "https://open.spotify.com/album/0dqONCbDsca2ZgZ4daM8CJ"
+      },
+      "artists": [
+        {
+          "name": "K-Trap",
+          "url": "https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Spoilt",
+      "url": "https://open.spotify.com/track/6uPzjHmUcrErMjg4McdTnh"
+    },
+    {
+      "album": {
         "name": "Starlight",
         "url": "https://open.spotify.com/album/1WLS1NrOlbDIl760hVeeUi"
       },
@@ -5657,6 +5805,28 @@
       "duration_ms": 96018,
       "name": "Sweet Bounce",
       "url": "https://open.spotify.com/track/4eJzT99FOUzZRv0fR64cLo"
+    },
+    {
+      "album": {
+        "name": "Ten Cane Row (feat. Jorja Smith)",
+        "url": "https://open.spotify.com/album/5BY7i9MB7Ykwf7hMt1npU1"
+      },
+      "artists": [
+        {
+          "name": "Protoje",
+          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
+        },
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209586,
+      "name": "Ten Cane Row",
+      "url": "https://open.spotify.com/track/1ObD1mQ91u4yBK46EYNCgl"
     },
     {
       "album": {
@@ -5923,7 +6093,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 154433,
       "name": "Ungrateful (feat. Key Glock)",
       "url": "https://open.spotify.com/track/6vA7RdHmU23h3ygUPPFXz5"
@@ -5971,7 +6141,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 189893,
       "name": "WAIT FOR U (feat. Drake & Tems)",
       "url": "https://open.spotify.com/track/59nOXPmaKlBfGMDeOVGrIK"

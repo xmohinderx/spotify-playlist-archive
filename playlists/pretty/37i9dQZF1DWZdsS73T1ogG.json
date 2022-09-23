@@ -1,12 +1,12 @@
 {
   "description": "Descubre lo m\u00e1s nuevo del movimiento. Cover: Young Miko, Chris Jedi, Lunay.",
-  "num_followers": 505267,
+  "num_followers": 505332,
   "original_name": "el nuevo urbano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzc5MjM3MywwMDAwMDAwMDdhOTAyZTA4YWY1NzBhOTE1MTM3MGM5YzJhYTY1Nzk5",
+  "snapshot_id": "MTY2Mzc5MjM3MywwMDAwMDAwMGY5NTM0YzBlOTc4YzFjZGVlNDUyNDliNGE0NDlmZmE3",
   "tracks": [
     {
       "added_at": "2022-09-21 20:32:53",
@@ -219,22 +219,6 @@
     {
       "added_at": "2022-09-21 20:32:53",
       "album": {
-        "name": "V16",
-        "url": "https://open.spotify.com/album/1NYH6nfQS1yuB2PHEHIgtz"
-      },
-      "artists": [
-        {
-          "name": "Martinwhite",
-          "url": "https://open.spotify.com/artist/1PANUPmT5KUDGs3Xgkhw3T"
-        }
-      ],
-      "duration_ms": 119106,
-      "name": "V16",
-      "url": "https://open.spotify.com/track/1FwZHWFat13A1XookoEtI3"
-    },
-    {
-      "added_at": "2022-09-21 20:32:53",
-      "album": {
         "name": "Party en el Barrio (feat. Duki)",
         "url": "https://open.spotify.com/album/2alxO71ik8lO8YIuNT2LKn"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 236143,
       "name": "Party en el Barrio (feat. Duki)",
       "url": "https://open.spotify.com/track/5GF0X7GdNmnouKcdhhRmtm"
+    },
+    {
+      "added_at": "2022-09-21 20:32:53",
+      "album": {
+        "name": "V16",
+        "url": "https://open.spotify.com/album/1NYH6nfQS1yuB2PHEHIgtz"
+      },
+      "artists": [
+        {
+          "name": "Martinwhite",
+          "url": "https://open.spotify.com/artist/1PANUPmT5KUDGs3Xgkhw3T"
+        }
+      ],
+      "duration_ms": 119106,
+      "name": "V16",
+      "url": "https://open.spotify.com/track/1FwZHWFat13A1XookoEtI3"
     },
     {
       "added_at": "2022-09-21 20:32:53",

@@ -2,9 +2,9 @@
 
 ### [PVNCHLNRS](https://open.spotify.com/playlist/37i9dQZF1DX1X23oiQRTB5)
 
-> Gambi au top de la première playlist de rap français !
+> Fresh & Niska au top de la première playlist de rap français !
 
-95 songs - 4 hr 54 min - [published](https://open.spotify.com/playlist/4EHhRKwzSbzJAtj2VPo7Qd)
+96 songs - 4 hr 57 min - [published](https://open.spotify.com/playlist/4EHhRKwzSbzJAtj2VPo7Qd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,12 +45,13 @@
 | [Full black](https://open.spotify.com/track/3GdWREHnpwt24gHOxqKbOo) | [Guy2bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [COCO JOJO](https://open.spotify.com/album/5xNkM6KOf8SQqeNOHTYlzD) | 2:29 | 2022-01-13 | 2022-07-29 |
 | [Full black](https://open.spotify.com/track/7DPQMoNUREqcRjlnbFh2cN) | [Guy2bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [COCO JOJO](https://open.spotify.com/album/2QZYxEoqTwj45Ajifa0hxg) | 2:29 | 2022-07-28 | 2022-08-24 |
 | [FUM22 NOCIVE](https://open.spotify.com/track/3v9eCrcYmTjYjy68TWHj5b) | [Green Montana](https://open.spotify.com/artist/0zhMujl1yB8pkB023Qm4Y2) | [MELANCHOLIA 999](https://open.spotify.com/album/0bybjX3wEDFCqYe65E9q1a) | 2:11 | 2022-01-06 | 2022-08-05 |
-| [Gasolina \(feat\. Ninho\)](https://open.spotify.com/track/6CyIkPh5mRkJg7T5xXynQ8) | [Hornet La Frappe](https://open.spotify.com/artist/1kwzW1IszUiq4Gs9BFesvW), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Toujours nous\-mêmes](https://open.spotify.com/album/3LYMEkvKNcITfGChENpSbP) | 2:33 | 2022-01-06 |  |
+| [Gasolina \(feat\. Ninho\)](https://open.spotify.com/track/6CyIkPh5mRkJg7T5xXynQ8) | [Hornet La Frappe](https://open.spotify.com/artist/1kwzW1IszUiq4Gs9BFesvW), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Toujours nous\-mêmes](https://open.spotify.com/album/3LYMEkvKNcITfGChENpSbP) | 2:33 | 2022-01-06 | 2022-09-23 |
 | [Gasolina \(feat\. Rsko\)](https://open.spotify.com/track/6kwmp0U8M1tPvgPHqvbwsr) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh), [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44) | [Mélo](https://open.spotify.com/album/3YjNC4de1PEvhuyZjMyxJU) | 3:03 | 2022-06-02 |  |
 | [GROKUWA](https://open.spotify.com/track/0RnWcpTwUpfzPWGDjajX0o) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [GROKUWA](https://open.spotify.com/album/4F6wVoSnaBQTW6DJzkJ8oH) | 3:02 | 2022-01-06 | 2022-05-27 |
 | [Guapman](https://open.spotify.com/track/3UizQJoEShTLDSUUByJLDr) | [menace Santana](https://open.spotify.com/artist/5Y5EJ20jDQkkB213zwuDXR) | [Guapman](https://open.spotify.com/album/3DXG5GrBLszaSduaQ5y3De) | 2:09 | 2022-08-11 |  |
 | [Gâchette](https://open.spotify.com/track/0rjKTXFvdFgAZ4dEG4AryJ) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Gâchette](https://open.spotify.com/album/0qpgphzMRmKDgi9UGCLc2w) | 2:38 | 2022-06-09 | 2022-07-22 |
 | [HAINE&SEX](https://open.spotify.com/track/6Vcxzw4ifKqYxVrp3ckpVF) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [DRILL FR](https://open.spotify.com/album/31H0KWvM2hCC3p8jkctCWN) | 3:21 | 2022-01-06 | 2022-06-10 |
+| [Indiana](https://open.spotify.com/track/38g82yE6pxULo8b1S6r4pb) | [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5), [Guy2bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh), [Mig](https://open.spotify.com/artist/3mKyKC4BjNrNJSSBSrNy0a) | [Indiana](https://open.spotify.com/album/1oPS42gz0hOy0L3knvCjT5) | 2:49 | 2022-09-22 |  |
 | [Jefe](https://open.spotify.com/track/6HTJgY7iWWlVLSDHsfHePf) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Jefe](https://open.spotify.com/album/0RBanMMBVaRdM7SOwgAmaK) | 2:57 | 2022-01-06 |  |
 | [Jeune d'en bas \(feat\. Nekfeu\)](https://open.spotify.com/track/3cOIYXOt3tMpeNz9XOmNos) | [DA Uzi](https://open.spotify.com/artist/3xEJ7cDz5rdg6VM8E6Mqhf), [Nekfeu](https://open.spotify.com/artist/4LXBc13z5EWsc5N32bLxfH) | [Vrai 2 vrai](https://open.spotify.com/album/0dzxf2H7rACEaNpta7XjWg) | 3:26 | 2022-01-06 | 2022-02-18 |
 | [Kalenji](https://open.spotify.com/track/1BL7fxywhLybZSHG6Lvi32) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j), [Zkr](https://open.spotify.com/artist/2yJ6lsLqG06r9bckSTQRt4) | [Réelle vie 3.0](https://open.spotify.com/album/3qzinl5et0UJo0r5XtG8Kc) | 3:14 | 2022-02-03 | 2022-06-10 |

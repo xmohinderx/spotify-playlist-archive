@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MU5XUozve7.md) - [plain]
 
 > A mix of new and classic melodic punk songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 760,088 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 760,380 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MU5XUozve7.md) - [plain]
 | 36 | [Time Bomb](https://open.spotify.com/track/41kg2RvdwBuIv0OPpvBS4v) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [...And Out Come The Wolves](https://open.spotify.com/album/1HisV3ZKLs9It3KlGcPki5) | 2:24 |
 | 37 | [Memory](https://open.spotify.com/track/0ChpoNjXfJPjMvCIN6so6J) | [Sugarcult](https://open.spotify.com/artist/04RtvnUz0XrUbUZzOA8ZoW) | [Palm Trees and Power Lines](https://open.spotify.com/album/5pCXe1ZrHEUZeYhMCe0pLX) | 3:46 |
 | 38 | [Bleed American](https://open.spotify.com/track/61XspFITuKmAlYdQacNCbF) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Bleed American](https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP) | 3:01 |
-| 39 | [96 Quite Bitter Beings](https://open.spotify.com/track/7AimHQrOUoUTYbVX87D3Zl) | [CKY](https://open.spotify.com/artist/3ZQEU2arcWXSv3oz8hwWBK) | [Camp Kill Yourself, Vol.1](https://open.spotify.com/album/2FnppgYWQ1bzMfdNP8lvDw) | 3:21 |
+| 39 | [Re\-Education \(Through Labor\)](https://open.spotify.com/track/6c1Bdvp208X0jbLmFnWbkC) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Appeal To Reason](https://open.spotify.com/album/4ebodSLpRqbuQjpGlDZglH) | 3:42 |
 | 40 | [All Signs Point To Lauderdale](https://open.spotify.com/track/0T8P86fvSK8kCUJFYPZbIH) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [What Separates Me From You](https://open.spotify.com/album/6I2SUr0MolRUiDEcZAbSWm) | 3:17 |
-| 41 | [Re\-Education \(Through Labor\)](https://open.spotify.com/track/6c1Bdvp208X0jbLmFnWbkC) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Appeal To Reason](https://open.spotify.com/album/4ebodSLpRqbuQjpGlDZglH) | 3:42 |
+| 41 | [96 Quite Bitter Beings](https://open.spotify.com/track/7AimHQrOUoUTYbVX87D3Zl) | [CKY](https://open.spotify.com/artist/3ZQEU2arcWXSv3oz8hwWBK) | [Camp Kill Yourself, Vol.1](https://open.spotify.com/album/2FnppgYWQ1bzMfdNP8lvDw) | 3:21 |
 | 42 | [We Don't Have To Dance](https://open.spotify.com/track/13b32GfUIo3BV93C8KtEdj) | [Andy Black](https://open.spotify.com/artist/09NYzWfQlunWS3XBZFaDEC) | [The Shadow Side](https://open.spotify.com/album/4DwLXVB5zeO75k8HlTFhB6) | 3:13 |
 | 43 | [High School Never Ends \- Main Version \- Explicit](https://open.spotify.com/track/1bhjMY5O0ZjB41OHcdRH0a) | [Bowling For Soup](https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb) | [The Great Burrito Extortion Case](https://open.spotify.com/album/6vZyMIVJgA9c8MIkDtlHd2) | 3:29 |
 | 44 | [No Cigar](https://open.spotify.com/track/3KLkRy9l3us98SIp6mmxkk) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [Pennybridge Pioneers](https://open.spotify.com/album/5VWyJbfC4DUsnC1NLSjuWC) | 2:43 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MU5XUozve7.md) - [plain]
 | 51 | [Drunken Lullabies](https://open.spotify.com/track/7caiyAewYYoWu5rZZgQWgn) | [Flogging Molly](https://open.spotify.com/artist/5kQGFREO5FzMBMsAO3cEtj) | [Drunken Lullabies](https://open.spotify.com/album/7EtBU4Uen8tfOq0Ah9tqz3) | 3:50 |
 | 52 | [Lights And Sounds](https://open.spotify.com/track/4XOZaPYeMn9hcbpyS90NnD) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [Lights And Sounds](https://open.spotify.com/album/5EaEOUs3O1MZRicDMUIuqo) | 3:28 |
 | 53 | [The Hell Song](https://open.spotify.com/track/17XgxMFNzBYv38TEJRC18D) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Does This Look Infected?](https://open.spotify.com/album/2kLmv0O8blKeM5HKxLtQrC) | 3:18 |
-| 54 | [I Fought the Law](https://open.spotify.com/track/7lSDCrF11sdTVfjbAQVZE8) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Hits Back](https://open.spotify.com/album/3Zkggi5I9uH5x94DuN6u1S) | 2:43 |
-| 55 | [The Curse of Curves](https://open.spotify.com/track/6uzuW7L1t1UhnzbfXwtMtQ) | [Cute Is What We Aim For](https://open.spotify.com/artist/7AsPubxWM5tfW4hTZEL3aP) | [The Same Old Blood Rush With A New Touch](https://open.spotify.com/album/66cyBjBDqSWQgh5Ix3geNl) | 3:23 |
+| 54 | [The Curse of Curves](https://open.spotify.com/track/6uzuW7L1t1UhnzbfXwtMtQ) | [Cute Is What We Aim For](https://open.spotify.com/artist/7AsPubxWM5tfW4hTZEL3aP) | [The Same Old Blood Rush With A New Touch](https://open.spotify.com/album/66cyBjBDqSWQgh5Ix3geNl) | 3:23 |
+| 55 | [I Fought the Law](https://open.spotify.com/track/7lSDCrF11sdTVfjbAQVZE8) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Hits Back](https://open.spotify.com/album/3Zkggi5I9uH5x94DuN6u1S) | 2:43 |
 | 56 | [Party Hard](https://open.spotify.com/track/0E0bZtTG39K95uRjqBo1Mx) | [Andrew W.K.](https://open.spotify.com/artist/4YJR4xviDKHoelt9WKHlBa) | [I Get Wet](https://open.spotify.com/album/6BQMUDC55fjjnApdWtZYZM) | 3:04 |
 | 57 | [Chip](https://open.spotify.com/track/10UlU5E5RfydywnKmA1nFL) | [The Real McKenzies](https://open.spotify.com/artist/1YczG6BNjM9XAnw64RqnXi) | [Off the Leash](https://open.spotify.com/album/2lm8NrhAtM2ez61pI92J3l) | 3:14 |
 | 58 | [She's Kerosene](https://open.spotify.com/track/60FJeNTK5edr72G2xtCWuP) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [Fight the Good Fight](https://open.spotify.com/album/6AoWkAFBSNlX63z1fJVNIL) | 2:50 |
@@ -86,10 +86,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MU5XUozve7.md) - [plain]
 | 76 | [The Separation of Church and Skate](https://open.spotify.com/track/1NVjbk3Q06lEvAPUlTauzr) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [War on Errorism](https://open.spotify.com/album/579FRQBE6RnFZXn6dG0DeV) | 3:09 |
 | 77 | [About a Girl](https://open.spotify.com/track/5johpJIVjqU2Ki03DOA7Jr) | [The Academy Is...](https://open.spotify.com/artist/3jwm6OBdUY5xzFiFIPhMHu) | [Fast Times At Barrington High](https://open.spotify.com/album/2IEGo0H1J8AihVqaf5ghkJ) | 3:30 |
 | 78 | [When Your Heart Stops Beating](https://open.spotify.com/track/1VpTwecl7EbQiGyVsvwFQE) | [+44](https://open.spotify.com/artist/7gkRNHOOt7QfhhXf0rEnmj) | [When Your Heart Stops Beating](https://open.spotify.com/album/46aFyiJiOIKPuxt6j574XA) | 3:12 |
-| 79 | [Sound System \- 2007 Remaster](https://open.spotify.com/track/4Pmo0mMgiyBCj1Zd7Axsi1) | [Operation Ivy](https://open.spotify.com/artist/18XRGxd1b484f2h06cwvJJ) | [Operation Ivy \(2007 Remaster\)](https://open.spotify.com/album/2Rv1kIWFeIYeq8kAtdhY6m) | 2:14 |
+| 79 | [The Boy Who Destroyed The World](https://open.spotify.com/track/7mXieDbl55P3L8kPE33gcC) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [All Hallows EP](https://open.spotify.com/album/1g3XMX2gmUF6zAwll0jqN6) | 3:05 |
 | 80 | [I Was a Teenage Anarchist](https://open.spotify.com/track/5UwGMbEKlvXFj7DXI1d0P1) | [Against Me!](https://open.spotify.com/artist/29lz7gs8edwnnfuXW4FhMl) | [White Crosses](https://open.spotify.com/album/5VLEp4UIDkIowATwaveKUQ) | 3:15 |
-| 81 | [The Boy Who Destroyed The World](https://open.spotify.com/track/7mXieDbl55P3L8kPE33gcC) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [All Hallows EP](https://open.spotify.com/album/1g3XMX2gmUF6zAwll0jqN6) | 3:05 |
-| 82 | ['Merican](https://open.spotify.com/track/2BY2O9OybmxpND0DqNgx97) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Cool to Be You](https://open.spotify.com/album/52RKlgHaL9hv8VjlVa3YkB) | 1:51 |
+| 81 | ['Merican](https://open.spotify.com/track/2BY2O9OybmxpND0DqNgx97) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Cool to Be You](https://open.spotify.com/album/52RKlgHaL9hv8VjlVa3YkB) | 1:51 |
+| 82 | [Sound System \- 2007 Remaster](https://open.spotify.com/track/4Pmo0mMgiyBCj1Zd7Axsi1) | [Operation Ivy](https://open.spotify.com/artist/18XRGxd1b484f2h06cwvJJ) | [Operation Ivy \(2007 Remaster\)](https://open.spotify.com/album/2Rv1kIWFeIYeq8kAtdhY6m) | 2:14 |
 | 83 | [Anarchy in the U.K.](https://open.spotify.com/track/3LoDeIbiR12sAznmpNEmKA) | [Sex Pistols](https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR) | [Never Mind The Bollocks, Here's The Sex Pistols](https://open.spotify.com/album/5fxYu3rqjCNTSPKN8mtEl2) | 3:31 |
 | 84 | [Out For Blood](https://open.spotify.com/track/30XUVaCG8ghAiE45SnXLhn) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Order In Decline](https://open.spotify.com/album/7j11BWRSLFBFUVR4EPG6WD) | 3:36 |
 | 85 | [Secrets](https://open.spotify.com/track/5DKlSWi2DY3uXuwfctcRKi) | [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr) | [Around the World and Back \(Deluxe\)](https://open.spotify.com/album/1lLm5kIRG1acxB4DlEZTL8) | 3:44 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MU5XUozve7.md) - [plain]
 | 96 | [Can't Kick Up The Roots](https://open.spotify.com/track/1iKjPM2YygFxUqjUakAI4n) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Life's Not Out To Get You](https://open.spotify.com/album/3umOBqXWR9VnJTQoe9Qkkj) | 2:49 |
 | 97 | [American Attraction](https://open.spotify.com/track/0p8fUOBfWtGcaKGiD9drgJ) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [American Fall](https://open.spotify.com/album/2zcRMvP3i0me9zZqp61JF9) | 2:56 |
 | 98 | [Cyco Vision](https://open.spotify.com/track/3I9K8tSZRsAw7bRYfbhJEA) | [Suicidal Tendencies](https://open.spotify.com/artist/3WPKDlucMsXH6FC1XaclZC) | [Freedumb](https://open.spotify.com/album/272uyFl2Z35T3MPtHTg92C) | 1:49 |
-| 99 | [Punk Rock Girl](https://open.spotify.com/track/1l04CzFskMiq7c30lZvr7i) | [The Dead Milkmen](https://open.spotify.com/artist/2fhngmJMaaKcdhXHCa4cPK) | [Beelzebubba](https://open.spotify.com/album/6rOSsanZwjydXb9dY9ACZH) | 2:38 |
-| 100 | [I Feel So](https://open.spotify.com/track/1Igy3egsujfV4WphlW0B7K) | [Box Car Racer](https://open.spotify.com/artist/0DK7FqcaL3ks9TfFn9y1sD) | [Box Car Racer](https://open.spotify.com/album/3gODo8aZ2dTVIaOr9SqeRE) | 4:30 |
+| 99 | [I Feel So](https://open.spotify.com/track/1Igy3egsujfV4WphlW0B7K) | [Box Car Racer](https://open.spotify.com/artist/0DK7FqcaL3ks9TfFn9y1sD) | [Box Car Racer](https://open.spotify.com/album/3gODo8aZ2dTVIaOr9SqeRE) | 4:30 |
+| 100 | [Punk Rock Girl](https://open.spotify.com/track/1l04CzFskMiq7c30lZvr7i) | [The Dead Milkmen](https://open.spotify.com/artist/2fhngmJMaaKcdhXHCa4cPK) | [Beelzebubba](https://open.spotify.com/album/6rOSsanZwjydXb9dY9ACZH) | 2:38 |
 
-Snapshot ID: `MTY1ODg1Mzk3MiwwMDAwMDAwMDQ1NmFiNjZiMTIxODFhZDVlNDA4MGJiMTNhYzM0ODI1`
+Snapshot ID: `MTY1ODg1Mzk3MiwwMDAwMDAwMDUxYjRjNWM5OWVjMDQ4ZDQ5YWQwYzY0NzUyNjVhOGRh`

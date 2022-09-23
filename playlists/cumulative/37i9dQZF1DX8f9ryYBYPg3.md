@@ -4,7 +4,7 @@
 
 > Welcome to Hypnosismic, a series of Japanese rap battle projects featuring 18 voice actors, each acting out unique anime characters\. 男性声優キャララップバトル、ヒプノシスマイク」公式プレイリスト！© King Record Co., Ltd\. All rights reserved.
 
-146 songs - 1 day 0 hr 3 min - [published](https://open.spotify.com/playlist/72Z7jqJ6lZpGwHfNeDkzti)
+147 songs - 1 day 0 hr 9 min - [published](https://open.spotify.com/playlist/72Z7jqJ6lZpGwHfNeDkzti)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [IKEBUKURO WEST GAME PARK\(Boyz Sunshine remix\)/Buster Bros!!!](https://open.spotify.com/track/6APwNEgbjmSFeuxboNcK37) | [Hypnosis Mic \-D.R.B.\- \(Buster Bros!!!\)](https://open.spotify.com/artist/21JD92xWs4kPtf8Grcxp0G) | [MAD TRIGGER CREW VS 麻天狼](https://open.spotify.com/album/3iEo8lSsvHmE5eHMwi5eg1) | 5:28 | 2022-06-09 |  |
 | [JACKPOT!](https://open.spotify.com/track/64FQL9aESZA6oYvCOndfxV) | [ヒプノシスマイク \-D.R.B\- Rhyme Anima\(Fling Posse\)](https://open.spotify.com/artist/3jANppgVelA6HVGKnSD0aO) | [Straight Outta Rhyme Anima](https://open.spotify.com/album/7FETrOg3fuRUyFQdFPwXDV) | 3:12 | 2022-06-09 |  |
 | [Joy for Struggle](https://open.spotify.com/track/1xTsjaUyVo3u4a9TyK9CKK) | [ヒプノシスマイク \-D.R.B\- \(どついたれ本舗\)](https://open.spotify.com/artist/0TzkULUsbQERyIc1LUiqQY), [Hypnosis Mic \-D.R.B.\- \(Buster Bros!!!\)](https://open.spotify.com/artist/21JD92xWs4kPtf8Grcxp0G) | [ヒプノシスマイク \-Division Rap Battle\- 2nd D.R.B『どついたれ本舗 VS Buster Bros!!!』](https://open.spotify.com/album/1SHVeGOcazUU2p36EQXw3d) | 5:30 | 2022-06-09 |  |
+| [Let It Bleed](https://open.spotify.com/track/32GTyB7jnFI32R12Jqvdxu) | [ヒプノシスマイク \-D.R.B\- Rule the Stage \(D.H VS B.B All Cast\)](https://open.spotify.com/artist/7xsGbZIRPqxBOfQtO99Ydx) | [Let It Bleed](https://open.spotify.com/album/0w268KYsImcl58c4dII6tQ) | 5:37 | 2022-09-22 |  |
 | [Light & Shadow](https://open.spotify.com/track/4ssDwh7HBBayufzI1cGp1L) | [ヒプノシスマイク \-D.R.B\- \(Bad Ass Temple\)](https://open.spotify.com/artist/3fokOZQsXMeMTyvGHofqup), [Hypnosis Mic \-D.R.B.\- \(Matenrou\)](https://open.spotify.com/artist/3CzMFzHuMzbvcy0qhP0IHQ) | [ヒプノシスマイク \-Division Rap Battle\- 2nd D.R.B『Bad Ass Temple VS 麻天狼』](https://open.spotify.com/album/0IshQeHXq00rBPO7inNPWa) | 6:18 | 2022-06-09 |  |
 | [Love Dimension](https://open.spotify.com/track/0WBfyxAB0O1EjWuywNfHDQ) | [ヒプノシスマイク \-D.R.B\- Rhyme Anima\(Secret Aliens\)](https://open.spotify.com/artist/676268rPDJGC6YOg4ZlEao) | [Straight Outta Rhyme Anima](https://open.spotify.com/album/7FETrOg3fuRUyFQdFPwXDV) | 3:12 | 2022-06-09 |  |
 | [New star](https://open.spotify.com/track/6GCFpK3pAMBWratI01NWJl) | [Hypnosis Mic \-D.R.B.\- \(Buster Bros!!!\)](https://open.spotify.com/artist/21JD92xWs4kPtf8Grcxp0G), [ヒプノシスマイク \-D.R.B\- \(山田三郎\)](https://open.spotify.com/artist/2sXk5JWxoBwkLftnTcCFN8) | [Buster Bros!!! Generation](https://open.spotify.com/album/2kh512OEYe5DCPIHpeI1Ra) | 4:40 | 2022-06-09 |  |

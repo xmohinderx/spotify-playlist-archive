@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1gcrZ1xC96D.md) - [plain]
 
 > Gym harder, better, faster and longer\. Yes, you CAN do it.
 
-[Spotify](https://open.spotify.com/user/spotify) - 983,541 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 983,583 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1gcrZ1xC96D.md) - [plain]
 | 5 | [Baddest](https://open.spotify.com/track/2W2vodjw341bqlgTNPx8mb) | [Vibe Chemistry](https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi) | [Baddest](https://open.spotify.com/album/3FCkjCs6WETYazRGWU8F9c) | 3:43 |
 | 6 | [Afraid To Feel](https://open.spotify.com/track/40SBS57su9xLiE1WqkXOVr) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [Afraid To Feel](https://open.spotify.com/album/528LrHfHcB7PMAvyp8Obhp) | 2:57 |
 | 7 | [Someone ft\. Coco & Paige Eliza](https://open.spotify.com/track/7rpovHr4iQ0WYvTZdmJfLh) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof), [Coco](https://open.spotify.com/artist/7q33wxvdJ95u6w3fY2q5ai), [Paige Eliza](https://open.spotify.com/artist/6zwVg9raWBJhhCpd8Etrey) | [Someone \(feat\. Coco & Paige Eliza\)](https://open.spotify.com/album/4D1uIudUCME7jvLqzNsMCu) | 3:35 |
-| 8 | [Do It To It](https://open.spotify.com/track/20on25jryn53hWghthWWW3) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Cherish](https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo) | [Do It To It](https://open.spotify.com/album/58cd90Jkrovggh556JPN9L) | 2:37 |
-| 9 | [B.O.T.A\. \(Baddest Of Them All\) \- Edit](https://open.spotify.com/track/39JofJHEtg8I4fSyo7Imft) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [B.O.T.A\. \(Baddest Of Them All\)](https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK) | 3:46 |
+| 8 | [B.O.T.A\. \(Baddest Of Them All\) \- Edit](https://open.spotify.com/track/39JofJHEtg8I4fSyo7Imft) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [B.O.T.A\. \(Baddest Of Them All\)](https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK) | 3:46 |
+| 9 | [Do It To It](https://open.spotify.com/track/20on25jryn53hWghthWWW3) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Cherish](https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo) | [Do It To It](https://open.spotify.com/album/58cd90Jkrovggh556JPN9L) | 2:37 |
 | 10 | [There’s Nothing Else](https://open.spotify.com/track/3379x2xu9JNFFjY3XFn61Z) | [Saffron Stone](https://open.spotify.com/artist/71FmTfYoEXhF3kSsbPiuKz) | [There’s Nothing Else](https://open.spotify.com/album/0xZtYRqv5nZfnBvFpZjTmi) | 3:06 |
 | 11 | [Where Did You Go? \(feat\. MNEK\)](https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Where Did You Go \(feat\. MNEK\)](https://open.spotify.com/album/5vSLX6JljaSXuRY2Wqi6xL) | 2:57 |
 | 12 | [Chemical Embrace](https://open.spotify.com/track/7ixvpOECWOPu1q2MWCXN0R) | [Emily Nash](https://open.spotify.com/artist/6OaDL8ICMweuCQZfgYIKup), [Olivia Sebastianelli](https://open.spotify.com/artist/0DCRUk25XIiRFiNtiuR8OR) | [Chemical Embrace](https://open.spotify.com/album/2Y7wLomfZhspSA1exyLcPS) | 3:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1gcrZ1xC96D.md) - [plain]
 | 49 | [Liquor Store](https://open.spotify.com/track/3aLsMcZZTLgQqjpWgeWMMM) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [Liquor Store](https://open.spotify.com/album/4FgvuityoVGuhA5dYXQtIF) | 3:21 |
 | 50 | [Know My Name](https://open.spotify.com/track/1JeM2RHVfWP3S4mKE3akNf) | [TS7](https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki) | [Know My Name](https://open.spotify.com/album/4u3WpX3v5gyBHFqfH5JObW) | 3:03 |
 
-Snapshot ID: `MTY2MjM2ODkzMSwwMDAwMDAwMDYzZWRmZTViYzQ5MDBhMWUyODE1OGQyZmYzN2M3Y2Qw`
+Snapshot ID: `MTY2MjM2ODkzMSwwMDAwMDAwMDNlNDQ0Y2ZiNjFhYjI3Y2ZlMjE1NGE4OTRmNjkxZjVl`

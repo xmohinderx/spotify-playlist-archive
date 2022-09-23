@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTlKxC5XMcbx.md) - [plain]
 
 > 即興而自在、優雅而舒緩，這形容是不是像個好夢的感覺呢？就讓美妙的爵士樂助你入眠吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,583 likes - 75 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,596 likes - 75 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,9 +51,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTlKxC5XMcbx.md) - [plain]
 | 41 | [I Guess I'll Hang My Tears Out To Dry \- Rudy Van Gelder Edition/Remastered 1999](https://open.spotify.com/track/58ylMBq2yqYdHyevarkNWa) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Go! \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/5nEJj9bjoarnzlS88NiWet) | 5:22 |
 | 42 | [Fletcher's Song In Club](https://open.spotify.com/track/0ZFortLKtHTKy7YtuJiubt) | [Justin Hurwitz](https://open.spotify.com/artist/2snm3HmsnDUDxbIChdl2Oj) | [Whiplash \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1rwMhGTCp0D6CN2XKQjyQt) | 1:29 |
 | 43 | [Two Sleepy People](https://open.spotify.com/track/75A0vJQiBzAxkC7pMjoSeX) | [Marcus Gilmore](https://open.spotify.com/artist/1caVPl46Ta6C8DYns5AAuo), [Danny Grissett](https://open.spotify.com/artist/4cePuNhFNRCjCzpM1VierQ), [Vicente Archer](https://open.spotify.com/artist/15iZckoaMxMCLvC1EY7Zot) | [Stride](https://open.spotify.com/album/0o05AbCCpC7ae3h0NGJBKg) | 6:36 |
-| 44 | [My Foolish Heart \- Live](https://open.spotify.com/track/5ARta7jvD6MRUiSk54jY5r) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [The Complete Village Vanguard Recordings, 1961](https://open.spotify.com/album/0rdlBkBl9UWoLDcEfxAkU5) | 4:58 |
-| 45 | [Dedicated To You](https://open.spotify.com/track/7Codqj9B5oMniYPUhfv26I) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [The Body & The Soul](https://open.spotify.com/album/4HI73mieaBFtwKS37HmvQH) | 3:22 |
-| 46 | [Moody Café](https://open.spotify.com/track/6uCvwPPCSBVS95TmcB9cTj) | [Capricorn](https://open.spotify.com/artist/1QS2jqjyvvulJg7jOIFxDe) | [Slow Love](https://open.spotify.com/album/79KUKKwWpL2UZ7HmAMiZIE) | 3:51 |
+| 44 | [Dedicated To You](https://open.spotify.com/track/7Codqj9B5oMniYPUhfv26I) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [The Body & The Soul](https://open.spotify.com/album/4HI73mieaBFtwKS37HmvQH) | 3:22 |
+| 45 | [Moody Café](https://open.spotify.com/track/6uCvwPPCSBVS95TmcB9cTj) | [Capricorn](https://open.spotify.com/artist/1QS2jqjyvvulJg7jOIFxDe) | [Slow Love](https://open.spotify.com/album/79KUKKwWpL2UZ7HmAMiZIE) | 3:51 |
+| 46 | [My Foolish Heart \- Live](https://open.spotify.com/track/5ARta7jvD6MRUiSk54jY5r) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [The Complete Village Vanguard Recordings, 1961](https://open.spotify.com/album/0rdlBkBl9UWoLDcEfxAkU5) | 4:58 |
 | 47 | [I Hear A Rhapsody](https://open.spotify.com/track/2oEvw0AfrT2fPNpEnBwVml) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF), [Jim Hall](https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr) | [Undercurrent](https://open.spotify.com/album/3b2s2A8DPISbaQNxhrEsGQ) | 4:40 |
 | 48 | [Moonlight In Vermont](https://open.spotify.com/track/6vUv75b49uBNR9H0zenin6) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF) | [The Essential Stan Getz: The Getz Songbook](https://open.spotify.com/album/5Gut48CGBAM7YkP37Lct4s) | 2:27 |
 | 49 | [Quintessence](https://open.spotify.com/track/4dUVpbIu8FW7R76gejw3cq) | [Coleman Hawkins Quartet](https://open.spotify.com/artist/4dW1iedUigtloIFhrGK5uC) | [Today And Now](https://open.spotify.com/album/4c0LKvyOYloadl5pezO07S) | 4:44 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTlKxC5XMcbx.md) - [plain]
 | 72 | [Lullaby Of The Leaves \- 1998 Digital Remaster](https://open.spotify.com/track/08rTZ8jNknn8VBS3v2o8pT) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [The Original Quartet With Chet Baker](https://open.spotify.com/album/7r5zWHLMNah1gedwI4S9AA) | 3:15 |
 | 73 | [Uphill](https://open.spotify.com/track/6g6U5Ip7Tvm1xsctpflOuk) | [Karin Hammar](https://open.spotify.com/artist/6PpRVXmqjgmgFPg9gEJfWc), [Andreas Hourdakis](https://open.spotify.com/artist/0S0DsjhNNujgfny2GV71Wq), [Niklas Fernqvist](https://open.spotify.com/artist/0RwUWenfKob2FP0P4V5pJS), [Fredrik Rundqvist](https://open.spotify.com/artist/5xLLcvi1xnXS9mMKi6PW57) | [Circles](https://open.spotify.com/album/7yDHwMVnH0SXCYw6eD7fDg) | 4:01 |
 | 74 | [Travels](https://open.spotify.com/track/6juyk5UBrXxqeyPfKRvsc9) | [Pat Metheny Trio](https://open.spotify.com/artist/4JHW2v09dlK6Pq116CCuCy) | [Trio 99\-00](https://open.spotify.com/album/2EtkrLObwfJ8cdgbJXz2lP) | 5:43 |
-| 75 | [So Lovely](https://open.spotify.com/track/0Ya7lMXJGmETT1G3bW0uX2) | [Ben Wolfe](https://open.spotify.com/artist/7A1xxtVfUahU8u7Z4kKFRC) | [From Here I See](https://open.spotify.com/album/2zmbP9vz9Bwx1SCHgkPzTc) | 5:40 |
+| 75 | [Greensleeves](https://open.spotify.com/track/4gC95tJcg0TWAz3LJ2dZpN) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0) | [Soul](https://open.spotify.com/album/13sH8kz1Fjh0jvekB0thjt) | 3:14 |
 
-Snapshot ID: `MTY2MzU1OTU4NCwwMDAwMDAwMGM0M2RiN2IyYTdhOTYyODM1NzQ1ODAxZTE3NzljYzJl`
+Snapshot ID: `MTY2MzU1OTU4NCwwMDAwMDAwMDZlZWZhNjBmNGMzMWFhZjg0MDc0MTcwNWUyMTIyYTdi`

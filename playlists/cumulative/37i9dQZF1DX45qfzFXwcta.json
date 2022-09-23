@@ -796,6 +796,24 @@
     },
     {
       "album": {
+        "name": "Fields of Green 2",
+        "url": "https://open.spotify.com/album/2I2DTmcpsCJbC0cValamUf"
+      },
+      "artists": [
+        {
+          "name": "Dooku",
+          "url": "https://open.spotify.com/artist/7oUhwpoQZ8HkFl91jQtEoD"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114418,
+      "name": "Skywalker OG",
+      "url": "https://open.spotify.com/track/0nsy6CzRDmy51hOtNyri3F"
+    },
+    {
+      "album": {
         "name": "Sunshine",
         "url": "https://open.spotify.com/album/5UWKVYrWjt1MrnUrQehaZ4"
       },

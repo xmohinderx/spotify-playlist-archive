@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 
 > The very best in Scandifolk \- from Icelandic blues rock to Norwegicana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,312 likes - 60 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,337 likes - 60 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 | 20 | [Away](https://open.spotify.com/track/4d6EvoLIZvyUzX8XHQu0XQ) | [Morten Myklebust](https://open.spotify.com/artist/7zFc6IlzgDwyXojYH1GIkI), [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [Morten Myklebust](https://open.spotify.com/album/1VWqsF4WiqAjzw50HBMHLg) | 2:58 |
 | 21 | [Unknown](https://open.spotify.com/track/3cK6EDdflOk0PZhknPevxg) | [Tuvaband](https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT) | [Unknown / \(It's Not About\) Running](https://open.spotify.com/album/2s1NRhhKQluvnzfqulltvC) | 4:10 |
 | 22 | [Tell Me About It](https://open.spotify.com/track/4NVTUHYCmMGtnnULELfZjy) | [thea wang](https://open.spotify.com/artist/1Rlj58KRo8BwuksKHsoZCo) | [Tell Me About It](https://open.spotify.com/album/10yraezHmuWHzLrJK5qEls) | 3:20 |
-| 23 | [Gold Laces](https://open.spotify.com/track/6V9hQ6dVr42xlNVoH8r8om) | [Júníus Meyvant](https://open.spotify.com/artist/5IL5awl9gUcb2ez9IgmW26) | [Floating Harmonies](https://open.spotify.com/album/47zAxwGvi23uYEItSkTRgY) | 3:40 |
-| 24 | [Waiting](https://open.spotify.com/track/4uVC8WydYHDmemPeYov9rZ) | [Alice Boman](https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt) | [EPII \(+ Skisser EP\)](https://open.spotify.com/album/4WQf5Do7ASTXKeaRjnzgm9) | 3:04 |
-| 25 | [A Dangerous Thing](https://open.spotify.com/track/0PDlmmYkuQCUAFhMXvtlsU) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [The Gods We Can Touch](https://open.spotify.com/album/5z1xjvymitc0DJETtvVmaX) | 3:35 |
+| 23 | [A Dangerous Thing](https://open.spotify.com/track/0PDlmmYkuQCUAFhMXvtlsU) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [The Gods We Can Touch](https://open.spotify.com/album/5z1xjvymitc0DJETtvVmaX) | 3:35 |
+| 24 | [Gold Laces](https://open.spotify.com/track/6V9hQ6dVr42xlNVoH8r8om) | [Júníus Meyvant](https://open.spotify.com/artist/5IL5awl9gUcb2ez9IgmW26) | [Floating Harmonies](https://open.spotify.com/album/47zAxwGvi23uYEItSkTRgY) | 3:40 |
+| 25 | [Waiting](https://open.spotify.com/track/4uVC8WydYHDmemPeYov9rZ) | [Alice Boman](https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt) | [EPII \(+ Skisser EP\)](https://open.spotify.com/album/4WQf5Do7ASTXKeaRjnzgm9) | 3:04 |
 | 26 | [The Sky is Painted Gray Today](https://open.spotify.com/track/0WOz7oU6zfuUvDzWHmIdMK) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [The Sky is Painted Gray Today](https://open.spotify.com/album/4iEFEhFxzgr7VKpuo4rjUT) | 3:41 |
 | 27 | [Oak Tree](https://open.spotify.com/track/0H9gWRPB92lrwtjtQtdrwD) | [Mirel Wagner](https://open.spotify.com/artist/599W9qxs3LzkiiEmkoK6Kx) | [When the Cellar Children See the Light of Day](https://open.spotify.com/album/4RP8ZcEWH1tPoEdkaPf8KK) | 3:00 |
 | 28 | [Lou Lou](https://open.spotify.com/track/5JZWiZ8ePCWYqoX99fdUbB) | [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK) | [About You](https://open.spotify.com/album/1t7FwYLSRY0gcMZvsndBVM) | 2:08 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 | 30 | [Alle Snakker Sant](https://open.spotify.com/track/34gxnmqg4Nbzziv265qul7) | [Siri Nilsen](https://open.spotify.com/artist/1tN0vK9jF9KVzvJHzWQaUM) | [Alle Snakker Sant](https://open.spotify.com/album/45MigZAWPOEXhoQfZONmS3) | 2:48 |
 | 31 | [Modern Drift](https://open.spotify.com/track/60WIrEOVESSiwBoYy9WIMC) | [Efterklang](https://open.spotify.com/artist/3DL71JYSG6VREkmLSzfWhU) | [Magic Chairs](https://open.spotify.com/album/5pR6D9ITIAmc5vJyu7VrYu) | 4:53 |
 | 32 | [\(It's Not About\) Running](https://open.spotify.com/track/6yeVAVnUskTNb3TutTaU64) | [Tuvaband](https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT) | [Unknown / \(It's Not About\) Running](https://open.spotify.com/album/2s1NRhhKQluvnzfqulltvC) | 4:06 |
-| 33 | [Look At The Light](https://open.spotify.com/track/56aazenLnCcpAzCEgsCyYV) | [Sin Fang](https://open.spotify.com/artist/7xsi0kBJ58yWMu4WXFYPHU) | [Flowers](https://open.spotify.com/album/4LzplREyxz4OBGBYjkLCaW) | 3:40 |
-| 34 | [The Ghost in Your Smile](https://open.spotify.com/track/2BOGhPt0OosTyHJZEc8SYA) | [Jarle Skavhellen](https://open.spotify.com/artist/7Jrf6fSkTNnii81KgsH7Td) | [The Ghost in Your Smile](https://open.spotify.com/album/7Lr7uajuRiYoGcUkmTrBRc) | 3:47 |
+| 33 | [The Ghost in Your Smile](https://open.spotify.com/track/2BOGhPt0OosTyHJZEc8SYA) | [Jarle Skavhellen](https://open.spotify.com/artist/7Jrf6fSkTNnii81KgsH7Td) | [The Ghost in Your Smile](https://open.spotify.com/album/7Lr7uajuRiYoGcUkmTrBRc) | 3:47 |
+| 34 | [Look At The Light](https://open.spotify.com/track/56aazenLnCcpAzCEgsCyYV) | [Sin Fang](https://open.spotify.com/artist/7xsi0kBJ58yWMu4WXFYPHU) | [Flowers](https://open.spotify.com/album/4LzplREyxz4OBGBYjkLCaW) | 3:40 |
 | 35 | [The Man Who Isn't Here](https://open.spotify.com/track/5e4TjReNPm7FGEdVHGl9GO) | [Frøkedal](https://open.spotify.com/artist/7uTDwdxKfkZtEfjpofiYwr) | [Hold On Dreamer](https://open.spotify.com/album/28d2gIKg6Ma04rKAghPvQA) | 3:50 |
 | 36 | [Your Ghost](https://open.spotify.com/track/1itLAVoiQi49DTjW3dRtNS) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ) | [Your Ghost](https://open.spotify.com/album/7JXH3FywIyJcFWN1mFVKbU) | 3:20 |
 | 37 | [Grey](https://open.spotify.com/track/6VVMhLXX7329EmXVwrm40I) | [Silver Lining](https://open.spotify.com/artist/2fpiIE5NAH8HpcYthaxm97) | [Grey](https://open.spotify.com/album/2hhuqUYYuwCGiGVPDFt53J) | 3:52 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 | 59 | [Oh God](https://open.spotify.com/track/3LHSrehhdEgEvQRpFpc0VC) | [Hello Saferide](https://open.spotify.com/artist/4Qxe8uorrQxMoMkhv0HrK3) | [Dad Told Me](https://open.spotify.com/album/2mboC8ajeSsXhwG4IQMzb2) | 2:35 |
 | 60 | [Garden Song \(I Prefer A Loon\)](https://open.spotify.com/track/77fdNUmzQ9aM5WTSe7ipkp) | [thea wang](https://open.spotify.com/artist/1Rlj58KRo8BwuksKHsoZCo) | [Garden Song \(I Prefer A Loon\)](https://open.spotify.com/album/4ZZOslEugfOVUAakS2xjvP) | 3:55 |
 
-Snapshot ID: `MTY2MjY3NDQwMCwwMDAwMDAwMDYyYzg1YzhhNWRhYjZkOWI2MDcwMDU0YTgxODFkNjA1`
+Snapshot ID: `MTY2MjY3NDQwMCwwMDAwMDAwMGUxNGZhNDlhMzFiOTAwNmIyZmRiN2Y1YTY0MzM1OWUz`

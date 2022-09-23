@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN8lkHHQsn9.md) - [plain]
 
 > Posłuchaj głosu polskich artystów LGBTQIA+\. Wyjątkowe spektrum dźwięków na jednej playliście\. Cover: Zawadzki
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,266 likes - 51 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,264 likes - 51 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,10 +54,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN8lkHHQsn9.md) - [plain]
 | 44 | [Dziewczyna z NASA](https://open.spotify.com/track/253Y585hav2OJuy2gNp0vK) | [MICUŁA](https://open.spotify.com/artist/7GHCUyKOaUg7OE6l4pOpai), [Panilas](https://open.spotify.com/artist/50v7wSqTiWk0lHxax89jRa) | [Dziewczyna z NASA](https://open.spotify.com/album/1Ght8K533HO0VfaltfaFdX) | 3:40 |
 | 45 | [Technikolor](https://open.spotify.com/track/3vLyOAz1K81lxoIlKzwmAt) | [Shady Lady](https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0), [Twoja Stara](https://open.spotify.com/artist/1UmoEzwpL135ejsMxsWpKZ), [Lola Eyeonyou Potocki](https://open.spotify.com/artist/2C8FVoqy4jl5YFhDTTwofP) | [Technikolor](https://open.spotify.com/album/2sSazPeOiKE4nclKDMaZqc) | 3:50 |
 | 46 | [Lont](https://open.spotify.com/track/0MoOrK9oPDCDhj3qz0iIR5) | [Zawadzki](https://open.spotify.com/artist/5n9VtqOD2WpsEHeCdTCLKt) | [Lont](https://open.spotify.com/album/59UAE7TDoS7iiBqiIa6LmX) | 3:48 |
-| 47 | [Jeszcze mam serce](https://open.spotify.com/track/5MJ1xR7rF7LUvCy3sZpUJw) | [Kamil Kowalski](https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk) | [Jeszcze mam serce](https://open.spotify.com/album/3iYrUbgIpYz5yZUis0Z7Ow) | 4:11 |
-| 48 | [JOY](https://open.spotify.com/track/0UuGEWNj6aiWTtCujOGozw) | [Yanch](https://open.spotify.com/artist/0cB5gHRy82zYYouDMeckVZ) | [JOY](https://open.spotify.com/album/4rYwfcRtfdG95A0kBVH9Oj) | 5:59 |
+| 47 | [JOY](https://open.spotify.com/track/0UuGEWNj6aiWTtCujOGozw) | [Yanch](https://open.spotify.com/artist/0cB5gHRy82zYYouDMeckVZ) | [JOY](https://open.spotify.com/album/4rYwfcRtfdG95A0kBVH9Oj) | 5:59 |
+| 48 | [Jeszcze mam serce](https://open.spotify.com/track/5MJ1xR7rF7LUvCy3sZpUJw) | [Kamil Kowalski](https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk) | [Jeszcze mam serce](https://open.spotify.com/album/3iYrUbgIpYz5yZUis0Z7Ow) | 4:11 |
 | 49 | [Parlez Vous Francais](https://open.spotify.com/track/1xQkNNDv2MpPpVDNcnFx32) | [Julia Bosski](https://open.spotify.com/artist/38qVvJz4fyKJhg08RqHhL2) | [Parlez Vous Francais](https://open.spotify.com/album/2M8QV57i0i2GKoWe8ziAXA) | 3:22 |
 | 50 | [Organic Love](https://open.spotify.com/track/6X4IRCLajdsOARXdefbv4m) | [MICUŁA](https://open.spotify.com/artist/7GHCUyKOaUg7OE6l4pOpai) | [Organic Love](https://open.spotify.com/album/7wiEOdACTzjmwGtG8hIWWX) | 3:12 |
 | 51 | [Rojava](https://open.spotify.com/track/1JFGEjYNN1gUHBXWuwsATW) | [MICUŁA](https://open.spotify.com/artist/7GHCUyKOaUg7OE6l4pOpai) | [Rojava](https://open.spotify.com/album/1xHgpZuHmlOATKtuOIsT0L) | 4:27 |
 
-Snapshot ID: `MTY1ODQ3NzYxMCwwMDAwMDAwMDc1ZmE1NGMwNGUwODA1Zjg3YzE4NDQ4YjkwMmZjM2Jk`
+Snapshot ID: `MTY1ODQ3NzYxMCwwMDAwMDAwMDlhZjJhMWY2MmRhYjc3YjNjNWY5ZmNlOTU2NTEyYmMw`

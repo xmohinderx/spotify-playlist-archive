@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y4RhrZqHhr.md) - [plain]
 
 > The ocean, the sun, your friends, the music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 776,163 likes - 226 songs - 12 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 776,211 likes - 226 songs - 12 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -199,8 +199,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y4RhrZqHhr.md) - [plain]
 | 189 | [Jubel \- Radio Edit](https://open.spotify.com/track/0D2VYiRlBv43asKUgieZaM) | [Klingande](https://open.spotify.com/artist/1L9i6qZYIGQedgM9QLSyzb) | [Jubel \(Radio Edit\)](https://open.spotify.com/album/7fkrTTjzWHgZQj7vizhTza) | 3:21 |
 | 190 | [Seek Bromance \(Avicii Vocal Edit\)](https://open.spotify.com/track/5BIgbz2Dy7X2I0bnkKH9Mb) | [Tim Berg](https://open.spotify.com/artist/7iLc4hrjOjQPfg1E3cCHg1) | [Seek Bromance](https://open.spotify.com/album/7u4XfPVQhxAl6wc2pFk6h1) | 3:20 |
 | 191 | [Need You Now](https://open.spotify.com/track/4kd8NJrrfzzPvarSre2yAu) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Jake Reese](https://open.spotify.com/artist/0eBOZ74PcpQb3SisNPgaRQ) | [Need You Now](https://open.spotify.com/album/5C3KEDOzJjeaEfyvrnGD68) | 3:01 |
-| 192 | [Show You Love](https://open.spotify.com/track/4govmU9nWC17G8WRIkhEFh) | [Kato](https://open.spotify.com/artist/1udruffum7CorOphFUMB9A), [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F) | [Show You Love](https://open.spotify.com/album/4Cl6BXFwJstXOycnvYDW77) | 3:02 |
-| 193 | [Moonlight](https://open.spotify.com/track/7COq4g77Lk81xC5vZwfnIs) | [Gaullin](https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K) | [Moonlight](https://open.spotify.com/album/4GegfM4wqwCq7FmcDwQQt7) | 2:53 |
+| 192 | [Moonlight](https://open.spotify.com/track/7COq4g77Lk81xC5vZwfnIs) | [Gaullin](https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K) | [Moonlight](https://open.spotify.com/album/4GegfM4wqwCq7FmcDwQQt7) | 2:53 |
+| 193 | [Show You Love](https://open.spotify.com/track/4govmU9nWC17G8WRIkhEFh) | [Kato](https://open.spotify.com/artist/1udruffum7CorOphFUMB9A), [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F) | [Show You Love](https://open.spotify.com/album/4Cl6BXFwJstXOycnvYDW77) | 3:02 |
 | 194 | [Fireworks \(feat\. Moss Kena & The Knocks\)](https://open.spotify.com/track/154YAkNQuFHLV3LbP7gP1f) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Moss Kena](https://open.spotify.com/artist/2u6jNcpusijFS6ZzuWRwMv), [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC) | [Exotica](https://open.spotify.com/album/4LIWp0dSuFmtNJrxdegyOG) | 3:20 |
 | 195 | [You Need To Calm Down \- Clean Bandit Remix](https://open.spotify.com/track/7Bjf96uNizpvXLvNyOJpst) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM) | [You Need To Calm Down \(Clean Bandit Remix\)](https://open.spotify.com/album/531nfs5NPsmkRC1LJb1cdj) | 2:32 |
 | 196 | [Shine](https://open.spotify.com/track/0SjaL4cjD4PXOY4orbZSMZ) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Communion \(Deluxe\)](https://open.spotify.com/album/09mWpzpUOSjjvK2iNqEIYn) | 4:15 |
@@ -235,4 +235,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y4RhrZqHhr.md) - [plain]
 | 225 | [I Don't Care \(with Justin Bieber\) \- Loud Luxury Remix](https://open.spotify.com/track/6f807x0ima9a1j3VPbc7VN) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ) | [I Don't Care \(with Justin Bieber\) \[Loud Luxury Remix\]](https://open.spotify.com/album/2oCs0DGTsRO98Gh5ZSl2Cx) | 3:14 |
 | 226 | [Don't Call Me Up \- R3HAB Remix](https://open.spotify.com/track/0goj2jVaUvxQP2zsyt7Xol) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Don't Call Me Up \(Remixes\)](https://open.spotify.com/album/5CGGhWKMDZUIt1lnmFbozw) | 2:33 |
 
-Snapshot ID: `MTY0ODU2MDY0NCwwMDAwMDAwMDIxYzg3MGQ3N2FhYjhmOWM4MTA3NTMwNTRjNDYwNzBh`
+Snapshot ID: `MTY0ODU2MDY0NCwwMDAwMDAwMGJlMDE2ZjNhYjUxNmQ3ODk3N2I4ZTFlYmQ3ODFkMzNh`

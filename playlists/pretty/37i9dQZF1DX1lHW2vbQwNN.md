@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lHW2vbQwNN.md) - [plain]
 
 > Taking it back to the 2000s\. Cover: Lil Wayne
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,440 likes - 100 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,608 likes - 100 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,10 +17,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lHW2vbQwNN.md) - [plain]
 | 7 | [Hot In Herre](https://open.spotify.com/track/04KTF78FFg8sOHC1BADqbY) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [Nellyville](https://open.spotify.com/album/4HUUHHXBXImwksfbSPqE7q) | 3:48 |
 | 8 | [Southern Hospitality \(Featuring Pharrell\)](https://open.spotify.com/track/4cNhx6OO1XpvwT6xZnb83B) | [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Back For The First Time](https://open.spotify.com/album/2kT80DHqRtHQzDhQ2RCoIV) | 5:00 |
 | 9 | [Empire State Of Mind](https://open.spotify.com/track/2igwFfvr1OAGX9SKDCPBwO) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Blueprint 3](https://open.spotify.com/album/2CUT0104gySOIvqwtXeFsX) | 4:36 |
-| 10 | [Ms\. Jackson](https://open.spotify.com/track/0I3q5fE6wg7LIfHGngUTnV) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Stankonia](https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj) | 4:30 |
+| 10 | [Hate It Or Love It](https://open.spotify.com/track/2wGSgTmgSF3xjRrHkTc25R) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [The Documentary](https://open.spotify.com/album/4PrPbmm0gKvaD3rerOXFg8) | 3:26 |
 | 11 | [The Real Slim Shady](https://open.spotify.com/track/3yfqSUWxFvZELEM4PmlwIR) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [The Marshall Mathers LP](https://open.spotify.com/album/6t7956yu5zYf5A829XRiHC) | 4:44 |
 | 12 | [Flashing Lights](https://open.spotify.com/track/5TRPicyLGbAF2LGBFbHGvO) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Dwele](https://open.spotify.com/artist/7u6LfVyYpEzMpHLL7jTyvU) | [Graduation](https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3) | 3:57 |
-| 13 | [Hate It Or Love It](https://open.spotify.com/track/2wGSgTmgSF3xjRrHkTc25R) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [The Documentary](https://open.spotify.com/album/4PrPbmm0gKvaD3rerOXFg8) | 3:26 |
+| 13 | [Ms\. Jackson](https://open.spotify.com/track/0I3q5fE6wg7LIfHGngUTnV) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Stankonia](https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj) | 4:30 |
 | 14 | [Candy Shop](https://open.spotify.com/track/5D2mYZuzcgjpchVY1pmTPh) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh), [Olivia](https://open.spotify.com/artist/5YBSzuCs7WaFKNr7Bky0Uf) | [The Massacre](https://open.spotify.com/album/2pidzXTaHV4WaIJYRxKDCH) | 3:29 |
 | 15 | [Best I Ever Had](https://open.spotify.com/track/3QLjDkgLh9AOEHlhQtDuhs) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [So Far Gone](https://open.spotify.com/album/1LShhEEKRT5MNPcO7jtYHh) | 4:17 |
 | 16 | [Till I Collapse](https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [The Eminem Show](https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo) | 4:57 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lHW2vbQwNN.md) - [plain]
 | 56 | [Dirt Off Your Shoulder](https://open.spotify.com/track/3IrkbGQCoEPAkzJ0Tkv8nm) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [The Black Album](https://open.spotify.com/album/4FWvo9oS4gRgHtAwDwUjiO) | 4:05 |
 | 57 | [Rollout \(My Business\)](https://open.spotify.com/track/4SyadrABZJIjeND1HPJS31) | [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [Word Of Mouf](https://open.spotify.com/album/1GMj0Rx5Q6EyBYbi9Eu7Vr) | 4:56 |
 | 58 | [Go DJ](https://open.spotify.com/track/4svCVV4VHEL3Z4efES868h) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Tha Carter](https://open.spotify.com/album/5POcKy926GgzFHZpGptJac) | 4:41 |
-| 59 | [Blow the Whistle](https://open.spotify.com/track/2lMg3lCMOGistaWBNGjuT3) | [Too $hort](https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v) | [Blow The Whistle](https://open.spotify.com/album/5GiqXho2S6vfntgRwSdhYp) | 2:43 |
-| 60 | [Slow Jamz \(feat\. Kanye West & Jamie Foxx\)](https://open.spotify.com/track/1boHm9rjmvzxpJASd9dnGK) | [Twista](https://open.spotify.com/artist/6vbY3hOaCAhC7VjucswgdS), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Jamie Foxx](https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w) | [Kamikaze](https://open.spotify.com/album/6Xu470gdLgDOnFDj5qND1N) | 3:32 |
+| 59 | [Slow Jamz \(feat\. Kanye West & Jamie Foxx\)](https://open.spotify.com/track/1boHm9rjmvzxpJASd9dnGK) | [Twista](https://open.spotify.com/artist/6vbY3hOaCAhC7VjucswgdS), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Jamie Foxx](https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w) | [Kamikaze](https://open.spotify.com/album/6Xu470gdLgDOnFDj5qND1N) | 3:32 |
+| 60 | [Blow the Whistle](https://open.spotify.com/track/2lMg3lCMOGistaWBNGjuT3) | [Too $hort](https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v) | [Blow The Whistle](https://open.spotify.com/album/5GiqXho2S6vfntgRwSdhYp) | 2:43 |
 | 61 | [Wanna Get To Know You](https://open.spotify.com/track/1dHJETCn2X1R1YwVlMvSza) | [G\-Unit](https://open.spotify.com/artist/6evKD5JWJON3qPBJtUEmtY), [Joe](https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX) | [Beg For Mercy](https://open.spotify.com/album/0BolFrIcCXXppUK50ETvgy) | 4:25 |
 | 62 | [U and Dat \(feat\. T\. Pain & Kandi Girl\)](https://open.spotify.com/track/7g7M96UGiA7OR79H86gV4m) | [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy), [Kandi Girl](https://open.spotify.com/artist/41TccBHnkaVhhgCgl83JU8) | [My Ghetto Report Card](https://open.spotify.com/album/3VqKqWHOHYfZqttJ0WwQHl) | 3:22 |
 | 63 | [Bring Em Out](https://open.spotify.com/track/3CcvahnsiArpTHYQEWV2Au) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [Urban Legend](https://open.spotify.com/album/1oFucub5OjyG4XPsDUzhil) | 3:36 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lHW2vbQwNN.md) - [plain]
 | 99 | [Wait \(The Whisper Song\)](https://open.spotify.com/track/5Y78yINSOCW6xbOfGWNBg4) | [Ying Yang Twins](https://open.spotify.com/artist/44PA0rCQXikgOWbfY7Fq7m) | [U.S.A\. \(United State of Atlanta\)](https://open.spotify.com/album/0tkYbxsTPQ5kTVdrvj4S3f) | 2:59 |
 | 100 | [Whoa!](https://open.spotify.com/track/71u5SjnkSQgzIt1UzHchbi) | [Black Rob](https://open.spotify.com/artist/1QPZhx0asYTBxD5RDqfU49) | [Life Story](https://open.spotify.com/album/1MSBtKtGF1VLBtSLgwcwKR) | 3:58 |
 
-Snapshot ID: `MTY1MzA4OTU5NiwwMDAwMDAwMGY5ZmI4NGUyMGIxZTYwNDUyZWQxMTM0NmEzZTBmOGY1`
+Snapshot ID: `MTY1MzA4OTU5NiwwMDAwMDAwMDAxZDUxZmY5MzUwZDE2ODFmMjk0OWExMDZlODhhNmQ2`

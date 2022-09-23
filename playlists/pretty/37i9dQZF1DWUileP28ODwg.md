@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 
 > Tune in here for new and current hits in Contemporary Christian music!  Cover:  Casting Crowns
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,979 likes - 104 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,054 likes - 104 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

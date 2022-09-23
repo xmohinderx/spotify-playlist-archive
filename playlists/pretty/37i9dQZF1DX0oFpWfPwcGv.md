@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oFpWfPwcGv.md) - [plain]
 
 > Disco forever\. Deeper cuts, forgotten gems and 8 minute versions.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,939 likes - 85 songs - 8 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,016 likes - 85 songs - 8 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

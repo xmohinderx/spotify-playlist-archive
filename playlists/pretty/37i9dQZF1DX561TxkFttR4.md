@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX561TxkFttR4.md) - [plain]
 
 > Soothing, soft piano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 315,091 likes - 80 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 315,148 likes - 80 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX561TxkFttR4.md) - [plain]
 | 4 | [The New Life](https://open.spotify.com/track/4ngpD9qM5EinF3KKKoyZDB) | [Lemos](https://open.spotify.com/artist/5nXvkyQwcA3mf2B9Wsd3Lh) | [The New Life](https://open.spotify.com/album/4jKT4QSTMTuHh7LmMzUtNb) | 2:18 |
 | 5 | [Prelude in G Major](https://open.spotify.com/track/70FROKEHubzMxSstCgaZZl) | [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Bach Reworks \(Pt\. 2\)](https://open.spotify.com/album/6u7xGWk6antcgjlmnSzqqZ) | 3:54 |
 | 6 | [pt\. 1 Owl Light](https://open.spotify.com/track/5YvY66JItF2jFFKeB27pmO) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [pt\. 1 Owl Light](https://open.spotify.com/album/0jVhFWlQ2N317ewAQZbCkY) | 3:09 |
-| 7 | [Night Solace](https://open.spotify.com/track/4Z94Nth1RThACL5ohW5xpy) | [Josh Kramer](https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG) | [Night Solace](https://open.spotify.com/album/3XBvc453nHdxoK0PYyOouF) | 2:41 |
-| 8 | [Natural Light](https://open.spotify.com/track/1kKbVnjBHvRSMJUsNOQp2h) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Underwater](https://open.spotify.com/album/3DT821mYJb7Ore88vA8IOO) | 5:35 |
+| 7 | [Natural Light](https://open.spotify.com/track/1kKbVnjBHvRSMJUsNOQp2h) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Underwater](https://open.spotify.com/album/3DT821mYJb7Ore88vA8IOO) | 5:35 |
+| 8 | [Night Solace](https://open.spotify.com/track/4Z94Nth1RThACL5ohW5xpy) | [Josh Kramer](https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG) | [Night Solace](https://open.spotify.com/album/3XBvc453nHdxoK0PYyOouF) | 2:41 |
 | 9 | [Nocturnes op.4](https://open.spotify.com/track/6JVzX8BxLiG4WN3xkJZ3Xu) | [Taichi Chishaki](https://open.spotify.com/artist/1JNnDWgUDZJvOO6wAqfIUJ) | [Nocturnes op.4](https://open.spotify.com/album/46ShreZOyjXZFSZkA7GnnT) | 2:51 |
 | 10 | [In The End](https://open.spotify.com/track/23FvAAvnx3NzbTmMiod5nf) | [Regnør](https://open.spotify.com/artist/2bmadkijrsqPPsROnqeXIq) | [In The End](https://open.spotify.com/album/0LiQNUF6t6gTO3PTaD7XDb) | 2:46 |
 | 11 | [Infinity](https://open.spotify.com/track/2FR3mH7DwsaX3TcObkUEX3) | [Rosey Chan](https://open.spotify.com/artist/1u8TRAmMBFoaqor9uJyyXR) | [Sonic Apothecary](https://open.spotify.com/album/0xngclE7lI1lFO3Fu9Kzcb) | 7:28 |
@@ -67,12 +67,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX561TxkFttR4.md) - [plain]
 | 57 | [Satisfaction](https://open.spotify.com/track/3FiKHFPOXdU0YcorKuaMZE) | [The Masked Pianoman](https://open.spotify.com/artist/64UONbUX7NpjNZt3amXLV1) | [Satisfaction](https://open.spotify.com/album/7q8kx8mg8ZJopCc2QrDig6) | 2:09 |
 | 58 | [Octaves](https://open.spotify.com/track/1F54dSc1rx5kHpMGu3XM9i) | [Ali Toygar](https://open.spotify.com/artist/3UWxXb2q9zHnhaSjHcKt7H) | [Octaves](https://open.spotify.com/album/1ZoBBGpluc4FcCJOakU0Ir) | 2:12 |
 | 59 | [Rain](https://open.spotify.com/track/0Kjk0SINNnInVhaSe0xedc) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [You Finally Knew](https://open.spotify.com/album/7asD3WvGakevPFYg89jh9K) | 3:23 |
-| 60 | [poetry in touch](https://open.spotify.com/track/3gkLHysY743R1OUGDVMNsZ) | [Moux](https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ) | [how we sleep](https://open.spotify.com/album/4G3pDpj8XGIXV3oDhK4LD8) | 2:10 |
+| 60 | [how we sleep](https://open.spotify.com/track/6pUNZUVQATDNzGS0fyJL9W) | [Moux](https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ) | [how we sleep](https://open.spotify.com/album/4koHpBgZulX1pTaEjm2MuP) | 3:02 |
 | 61 | [A Cloud Passed](https://open.spotify.com/track/6l6cLvP0ACfjEzu343bWfa) | [Polly Carter](https://open.spotify.com/artist/0GZHuvPr2iFDH4BQFLOrEp) | [A Cloud Passed](https://open.spotify.com/album/7gYv4XTS4bIBw6c9z91v07) | 2:16 |
 | 62 | [Sleepwalk](https://open.spotify.com/track/7hvkGZ6j1NyqNp50G6CyQI) | [Ben Laver](https://open.spotify.com/artist/3lTGvG2QAIoGMp7BKeH4C0) | [Sleepwalk](https://open.spotify.com/album/3FsV1IdXbwJ5JRMV0Ujron) | 3:54 |
 | 63 | [orange sky](https://open.spotify.com/track/1OkZQr910laZJBVCCSoO5v) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [orange sky](https://open.spotify.com/album/48DV4MT587DAdUhy2Sd8Pb) | 3:10 |
 | 64 | [New Moon](https://open.spotify.com/track/0qRkkkqgsdebj5x62MV7uA) | [Pêtr Aleksänder](https://open.spotify.com/artist/6NXrsSyjmxtUrYh3kaAexZ), [Ian Burdge](https://open.spotify.com/artist/0cs87q4mrkIUnMqHVAf4eL), [Bruce White](https://open.spotify.com/artist/3pGqMoEIJ7ZLLEmAbq6XuT), [Oli Langford](https://open.spotify.com/artist/0uhCqZ52g1yCoxYis7hOuv), [Tom Piggott\-Smith](https://open.spotify.com/artist/2akPdZTSFJ49qgJgv3Zytg) | [Collage](https://open.spotify.com/album/1mBThT4Q1wQFs6heMlHVyW) | 2:55 |
-| 65 | [how we sleep](https://open.spotify.com/track/6pUNZUVQATDNzGS0fyJL9W) | [Moux](https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ) | [how we sleep](https://open.spotify.com/album/4koHpBgZulX1pTaEjm2MuP) | 3:02 |
+| 65 | [poetry in touch](https://open.spotify.com/track/3gkLHysY743R1OUGDVMNsZ) | [Moux](https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ) | [how we sleep](https://open.spotify.com/album/4G3pDpj8XGIXV3oDhK4LD8) | 2:10 |
 | 66 | [An Evening Scene](https://open.spotify.com/track/276HXUxlxWcRkavtERQpru) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [An Evening Scene](https://open.spotify.com/album/6qDYuLFEzlrUmcu5xm492a) | 2:24 |
 | 67 | [Balancing Act](https://open.spotify.com/track/2XVpEFN7kMUBhZ719QvM9A) | [Daniel Schrage](https://open.spotify.com/artist/4jUSZA2wRFImlXFhsV3Ab6) | [Balancing Act](https://open.spotify.com/album/0xI3mEeUiJUXWZorJBVoJR) | 1:48 |
 | 68 | [Sand and Stars](https://open.spotify.com/track/53KeW0mvxr57ha4crsCTmT) | [Charlie J Perry](https://open.spotify.com/artist/1VWajIIypSGHx88czR0Ji2) | [Sand and Stars](https://open.spotify.com/album/6gdHgdmbmulzODzpyQIgdJ) | 4:29 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX561TxkFttR4.md) - [plain]
 | 79 | [Daybreak](https://open.spotify.com/track/6Xq1rE2hfjSMSK5mTpfzb6) | [Elias Braun](https://open.spotify.com/artist/2LwwTAjeVNZ8DAtyaBrsE8), [Arash Sanee](https://open.spotify.com/artist/5e1mVc0tKg6XL7bSHRdBSa) | [Daybreak](https://open.spotify.com/album/79Dz2veZjjtnOFMNOHMKFl) | 1:42 |
 | 80 | [Some Other Place](https://open.spotify.com/track/4ljlSkzCR3RMwxv8Xx7m27) | [Meredi](https://open.spotify.com/artist/3JIwUwScCrI3OUwj50CT1H) | [Some Other Place](https://open.spotify.com/album/5ju2VqLgzwjJo4N2Oygp0E) | 4:13 |
 
-Snapshot ID: `MTY2MzY4MTE5MywwMDAwMDAwMGU3NWY0ZWUxZjBhYTUwYTgwZmExNTA3MWJiN2QwNWUy`
+Snapshot ID: `MTY2MzY4MTE5MywwMDAwMDAwMDk1MmU1OWI1NjRhZmQwNDAyMjg5MTUzMjUyMjkzYzY0`

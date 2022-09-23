@@ -4,7 +4,7 @@
 
 > ผลงานจากศิลปินรุ่นใหม่ เพลงดีที่น่าลองฟัง อัพเดตทุกสัปดาห์!\. ศิลปิน: ขมิ้น กิ่งศักดิ์ \(Kamin Kingsak\)\. Artwork: Isu Kim
 
-60 songs - 3 hr 55 min - not published yet
+60 songs - 3 hr 55 min - [published](https://open.spotify.com/playlist/0sFtnPcJ2xiQS1kZ7Io9aQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

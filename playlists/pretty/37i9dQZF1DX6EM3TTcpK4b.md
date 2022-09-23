@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EM3TTcpK4b.md) - [plain]
 
 > Pa' cantar, bailar y pistear\. ¡Qué suene el mariachi! En portada: Javier Solís
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,135 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,436 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EM3TTcpK4b.md) - [plain]
 | 78 | [Cama de Piedra](https://open.spotify.com/track/6CSrPDQF938mg8CaOT89xt) | [Cuco Sánchez](https://open.spotify.com/artist/1M1VkVEy3JGFFyPy7oKH2E) | [Serie De Coleccion 15 Autenticos](https://open.spotify.com/album/5D3g2BbyQuAc1O4lhPUlVQ) | 2:11 |
 | 79 | [Esta Noche Voy a Verla](https://open.spotify.com/track/4fk7Dwmt0AcIWfJ1JOXMcc) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Siempre Estoy Pensando En Ti](https://open.spotify.com/album/3GZBUlOokXQdZxBdby96bZ) | 2:39 |
 | 80 | [Cien Años](https://open.spotify.com/track/2PKXhSPdSw8W2KqZZneoy6) | [Infante](https://open.spotify.com/artist/0CUGdPMu03lV9TNf2wjunj) | [30 Grandes De Infante](https://open.spotify.com/album/0AJKbcwcTiVr6bSxZhxIyc) | 3:23 |
-| 81 | [Cucurrucucu Paloma](https://open.spotify.com/track/5WFjPmHYdqguwGXm8SZ2Mg) | [Lola Beltrán](https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p) | [Mexico Gran Colección Ranchera: Lola Beltrán](https://open.spotify.com/album/3gLs7v0umUTDKBwdZj2Bgm) | 3:51 |
-| 82 | [Cheque En Blanco](https://open.spotify.com/track/2aqarSktx1bU8WrZE9lW1X) | [Paquita La Del Barrio](https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7) | [En Vivo, Desde Su Lugar](https://open.spotify.com/album/0O56jcmx3fpovZWOJeO0LC) | 2:42 |
+| 81 | [Cheque En Blanco](https://open.spotify.com/track/2aqarSktx1bU8WrZE9lW1X) | [Paquita La Del Barrio](https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7) | [En Vivo, Desde Su Lugar](https://open.spotify.com/album/0O56jcmx3fpovZWOJeO0LC) | 2:42 |
+| 82 | [Cucurrucucu Paloma](https://open.spotify.com/track/5WFjPmHYdqguwGXm8SZ2Mg) | [Lola Beltrán](https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p) | [Mexico Gran Colección Ranchera: Lola Beltrán](https://open.spotify.com/album/3gLs7v0umUTDKBwdZj2Bgm) | 3:51 |
 | 83 | [Asi Te Quiero \- Con Mariachi](https://open.spotify.com/track/6Giyrsy6YvS27OceT6jm16) | [Los Yonic's](https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt) | [16 Exitos De Oro](https://open.spotify.com/album/0H7gQr029I6IVxfcHNXS3d) | 3:53 |
 | 84 | [En Mi Viejo San Juan](https://open.spotify.com/track/3Cd9Lzxyqarjifb1T76W68) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Serie De Coleccion 15 Autenticos](https://open.spotify.com/album/48lUrzO92SmHoSfpqNkbbl) | 2:53 |
 | 85 | [Nadie Es Eterno](https://open.spotify.com/track/5Po7xN56zj0XD9ZiHNaUOY) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Un Hombre Derecho](https://open.spotify.com/album/6CYInvelVYl6zh4H0Acitl) | 3:08 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EM3TTcpK4b.md) - [plain]
 | 99 | [Himno A La Humildad](https://open.spotify.com/track/73VnO22Ad7K9lJSpUZT9QT) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd), [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Por Amor A Mi Pueblo](https://open.spotify.com/album/6Fzh7DxhjZ1fImQAHBe8od) | 4:25 |
 | 100 | [Golondrina De Ojos Negros \- Versión Mariachi](https://open.spotify.com/track/3syPKM9ORE0fyb7tucLR58) | [Rigo Tovar](https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx) | [Con Mariachi](https://open.spotify.com/album/6ZmAvrZsc7atoSDqqODDVF) | 3:13 |
 
-Snapshot ID: `MTY2MTk2MTU3MywwMDAwMDAwMGM0MTU0ZDg3YzkxY2E1MWViYWEyMDAwMWZhZDc1ZDUz`
+Snapshot ID: `MTY2MTk2MTU3MywwMDAwMDAwMGZjNzZlYzM5ZDg1YjVlZWY1ZGM3ZjExZDJhNmFhMmQx`

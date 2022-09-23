@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29LQDcJ6Xy7.md) - [plain]
 
 > A collection of Industrial Metal – fresh and old tunes\. Cover: Rammstein
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,736 likes - 100 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,884 likes - 100 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,9 +29,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29LQDcJ6Xy7.md) - [plain]
 | 19 | [Linchpin](https://open.spotify.com/track/4qjvr0qMFUo26SxwC4VygS) | [Fear Factory](https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX) | [Digimortal](https://open.spotify.com/album/3BBDp81EDmExUsPDKERVkN) | 3:24 |
 | 20 | [Bombshell](https://open.spotify.com/track/2yY4ojg6wfEFBGVZoJuXqK) | [Powerman 5000](https://open.spotify.com/artist/5imUS9dQyCbAjUEJJ9QyWC) | [Anyone For Doomsday?](https://open.spotify.com/album/5H2p4hpkLk7JgZrjj79Q4Y) | 3:14 |
 | 21 | [Loco](https://open.spotify.com/track/34SVUs66rBnOqsCJl45Ek8) | [Coal Chamber](https://open.spotify.com/artist/69k6uTSZMPLpSnhmLCiKxQ) | [Coal Chamber](https://open.spotify.com/album/1f67cRBr8LloCk9sEdUINv) | 4:14 |
-| 22 | [Augen auf!](https://open.spotify.com/track/6gcFq5UOdNa8LzTRd4lldD) | [OOMPH!](https://open.spotify.com/artist/2mZITUvfEwrKlksoGpHTsM) | [Wahrheit oder Pflicht](https://open.spotify.com/album/6ChP2BF5LTHwyjzklcSTiG) | 3:20 |
+| 22 | [Hydrochloride](https://open.spotify.com/track/5guQjkjzpIMpX81VAZTHNy) | [Ghostemane](https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW) | [ANTI\-ICON](https://open.spotify.com/album/3gEv1vpsDgaEo4TLuu0Lwz) | 2:27 |
 | 23 | [We're In This Together](https://open.spotify.com/track/3aN2V18W3EiW7eg5tHALpF) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [The Fragile](https://open.spotify.com/album/4uiVwLbTzE6VMkXpaDAwB8) | 7:16 |
-| 24 | [Hydrochloride](https://open.spotify.com/track/5guQjkjzpIMpX81VAZTHNy) | [Ghostemane](https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW) | [ANTI\-ICON](https://open.spotify.com/album/3gEv1vpsDgaEo4TLuu0Lwz) | 2:27 |
+| 24 | [Augen auf!](https://open.spotify.com/track/6gcFq5UOdNa8LzTRd4lldD) | [OOMPH!](https://open.spotify.com/artist/2mZITUvfEwrKlksoGpHTsM) | [Wahrheit oder Pflicht](https://open.spotify.com/album/6ChP2BF5LTHwyjzklcSTiG) | 3:20 |
 | 25 | [Jesus Built My Hotrod](https://open.spotify.com/track/0BX3ysoHJvxmLEhPMAfb2z) | [Ministry](https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt) | [KE\*A\*H\*\* \(Psalm 69\)](https://open.spotify.com/album/2wz3P1w89gQd3iXdmF1IA5) | 4:52 |
 | 26 | [Du riechst so gut](https://open.spotify.com/track/4yUcHLkHUwAPpKN0Uvdo8I) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Herzeleid \(XXV Anniversary Edition – Remastered\)](https://open.spotify.com/album/6HlDm9fzYxk4vkkr3YEvSv) | 4:51 |
 | 27 | [I'm With Stupid](https://open.spotify.com/track/6uOzYMGucTA0MAFwS2FNB2) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Wisconsin Death Trip](https://open.spotify.com/album/2WRLwr5MIIXr9gAWOOQ6J5) | 3:24 |
@@ -51,20 +51,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29LQDcJ6Xy7.md) - [plain]
 | 41 | [The Perfect Drug](https://open.spotify.com/track/14tKBoKXxGakkoEmYuFfor) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [Lost Highway](https://open.spotify.com/album/77PY9VYriArqduEpkD2Ues) | 5:15 |
 | 42 | [A Violent Reaction](https://open.spotify.com/track/00YeAWckFwAyrvzvHlYMOk) | [American Head Charge](https://open.spotify.com/artist/6Ig4qybKXgMN2FLSM7GKau) | [The War Of Art](https://open.spotify.com/album/5dBhZn63iuwNTQ9JnDktsl) | 4:12 |
 | 43 | [Jagdzeit](https://open.spotify.com/track/1mTCbTpcM1nKkH0wGf70Zq) | [Megaherz](https://open.spotify.com/artist/4tM8qmqg5cEZPHNLNQwHeb) | [Götterdämmerung](https://open.spotify.com/album/4JL1w8tZb0C07FcLYQROra) | 4:18 |
-| 44 | [Anti\-Social Masochistic Rage \[ASMR\]](https://open.spotify.com/track/0VrXpPSNlwKep3otvmw9iX) | [Ghostemane](https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW) | [ANTI\-ICON](https://open.spotify.com/album/3gEv1vpsDgaEo4TLuu0Lwz) | 3:13 |
+| 44 | [Megalomaniac](https://open.spotify.com/track/1d3iQh4fTm5D6iRtgrZPZ9) | [KMFDM](https://open.spotify.com/artist/3V4IvzRQYP5mzuVtkcHgVa) | [Symbols](https://open.spotify.com/album/6g99frcxtUThvTjTwo9LfC) | 6:07 |
 | 45 | [N.W.O.](https://open.spotify.com/track/2D9LxUcR9zWxQtxiHsMA0n) | [Ministry](https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt) | [KE\*A\*H\*\* \(Psalm 69\)](https://open.spotify.com/album/2wz3P1w89gQd3iXdmF1IA5) | 5:30 |
-| 46 | [Megalomaniac](https://open.spotify.com/track/1d3iQh4fTm5D6iRtgrZPZ9) | [KMFDM](https://open.spotify.com/artist/3V4IvzRQYP5mzuVtkcHgVa) | [Symbols](https://open.spotify.com/album/6g99frcxtUThvTjTwo9LfC) | 6:07 |
+| 46 | [Anti\-Social Masochistic Rage \[ASMR\]](https://open.spotify.com/track/0VrXpPSNlwKep3otvmw9iX) | [Ghostemane](https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW) | [ANTI\-ICON](https://open.spotify.com/album/3gEv1vpsDgaEo4TLuu0Lwz) | 3:13 |
 | 47 | [Compliance](https://open.spotify.com/track/6tT5Je0uUM9gRNproSELlF) | [Combichrist](https://open.spotify.com/artist/5556RAgwP70PnXbaUTGNbR) | [Compliance](https://open.spotify.com/album/28JtdcN6FyGol6335SbUlt) | 5:02 |
-| 48 | [Naitu](https://open.spotify.com/track/3bPM4JJvL7VwcnMh9Yl2Oz) | [Turmion Kätilöt](https://open.spotify.com/artist/76t3VPzCEYAlrZhVAY7yjg) | [Global Warning](https://open.spotify.com/album/3DdWOQOpbWHrWKonpcbcUN) | 4:11 |
-| 49 | [Guilty](https://open.spotify.com/track/4YhqUU66bIqBapat2XD1Cg) | [Gravity Kills](https://open.spotify.com/artist/3V3ChkwvlWDJtMFuOKfYiB) | [Gravity Kills](https://open.spotify.com/album/7pOydrQchgIb8t6G9td2pm) | 4:02 |
+| 48 | [Guilty](https://open.spotify.com/track/4YhqUU66bIqBapat2XD1Cg) | [Gravity Kills](https://open.spotify.com/artist/3V3ChkwvlWDJtMFuOKfYiB) | [Gravity Kills](https://open.spotify.com/album/7pOydrQchgIb8t6G9td2pm) | 4:02 |
+| 49 | [Naitu](https://open.spotify.com/track/3bPM4JJvL7VwcnMh9Yl2Oz) | [Turmion Kätilöt](https://open.spotify.com/artist/76t3VPzCEYAlrZhVAY7yjg) | [Global Warning](https://open.spotify.com/album/3DdWOQOpbWHrWKonpcbcUN) | 4:11 |
 | 50 | [Thieves](https://open.spotify.com/track/6KCthSzW230fnf6IygPaI0) | [Ministry](https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt) | [The Mind Is a Terrible Thing to Taste](https://open.spotify.com/album/2Z73HeYQNCf5T8dzzHaoz5) | 5:01 |
 | 51 | [Terrible Lie](https://open.spotify.com/track/3o1nX61oecxnqXieA2ma0U) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [Pretty Hate Machine](https://open.spotify.com/album/3umFHeEpc4yLXtrRcv9gLN) | 4:38 |
 | 52 | [The Death & Resurrection Show](https://open.spotify.com/track/1YhZbKOU47hnRb2q8LOHKH) | [Killing Joke](https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD) | [Killing Joke](https://open.spotify.com/album/16MILExMR5RIvzTIII2YnH) | 6:55 |
 | 53 | [The Triumph of King Freak \(A Crypt of Preservation and Superstition\)](https://open.spotify.com/track/5mf3p8pyhLHoS4EWeD354I) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Triumph of King Freak \(A Crypt of Preservation and Superstition\)](https://open.spotify.com/album/7mdbCagfxurdPgceZXaccP) | 4:07 |
 | 54 | [Assimilate](https://open.spotify.com/track/512No5uXtXbhNh7OOz03pF) | [Skinny Puppy](https://open.spotify.com/artist/5Mu0EMEsUIVE132pNMywns) | [Bites](https://open.spotify.com/album/48uIwIUdrqvY27C7sXF9CA) | 6:56 |
 | 55 | [Modern Demon](https://open.spotify.com/track/1rY7BUQ7wAfejpvRjSIgZ0) | [Combichrist](https://open.spotify.com/artist/5556RAgwP70PnXbaUTGNbR) | [Modern Demon](https://open.spotify.com/album/4MASGXBnqQJOgMC1tXOP7y) | 4:45 |
-| 56 | [Jim Jones](https://open.spotify.com/track/7voqYiZoYUyEJnZWWa7d6d) | [SKYND](https://open.spotify.com/artist/3Ca8UhvMDcgM1zyfAZGw3M) | [Chapter II](https://open.spotify.com/album/4HOffsoCDuHaWVjTmlf5jC) | 6:34 |
-| 57 | [A Drug Against War](https://open.spotify.com/track/0jHmidMFTjOSkzuHrNepY7) | [KMFDM](https://open.spotify.com/artist/3V4IvzRQYP5mzuVtkcHgVa) | [Angst](https://open.spotify.com/album/6We2VFbkhbRCQNX7Vud8aY) | 3:35 |
+| 56 | [A Drug Against War](https://open.spotify.com/track/0jHmidMFTjOSkzuHrNepY7) | [KMFDM](https://open.spotify.com/artist/3V4IvzRQYP5mzuVtkcHgVa) | [Angst](https://open.spotify.com/album/6We2VFbkhbRCQNX7Vud8aY) | 3:35 |
+| 57 | [Jim Jones](https://open.spotify.com/track/7voqYiZoYUyEJnZWWa7d6d) | [SKYND](https://open.spotify.com/artist/3Ca8UhvMDcgM1zyfAZGw3M) | [Chapter II](https://open.spotify.com/album/4HOffsoCDuHaWVjTmlf5jC) | 6:34 |
 | 58 | [Native Intellligence \- Ghostemane Natural Selection Remix](https://open.spotify.com/track/1qHlqRNBhg5dQ6JKI4ajZM) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD), [Trent Reznor](https://open.spotify.com/artist/0hRijdwO8UsJMudc3476ma), [Ghostemane](https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW) | [Native Intelligence \(Ghostemane Natural Selection Remix\)](https://open.spotify.com/album/4PAEIe0V7cLDUuxaZ3RKDK) | 3:33 |
 | 59 | [The Thing I Hate](https://open.spotify.com/track/4ibsb2epoSHZzDCeoZEluQ) | [Stabbing Westward](https://open.spotify.com/artist/5daXMUbrPh8oX9Nd4CnToG) | [Darkest Days](https://open.spotify.com/album/2zbX9auxAGYaWoMEvB2uAg) | 3:36 |
 | 60 | [Lakes of Flame](https://open.spotify.com/track/0PAR95bj6egxPtdzMkgFEU) | [Blue Stahli](https://open.spotify.com/artist/4DWnSG0RYPAds8EIKY26q3) | [Lakes of Flame](https://open.spotify.com/album/5A4ZdUmMA5vY0DAjvKWqHk) | 3:38 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29LQDcJ6Xy7.md) - [plain]
 | 63 | [Bring You Down \(Project Regeneration\)](https://open.spotify.com/track/1NGBpjIrZIe0RagRFmyXfg) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Project Regeneration, Vol\. 1](https://open.spotify.com/album/6lguiZQ9OKhWfmgrxkpKTP) | 3:35 |
 | 64 | [End Of The Line](https://open.spotify.com/track/7sOtLB5pwbLOa74X8g8BjK) | [Pain](https://open.spotify.com/artist/0hGpZy6ws8FofByMkt0CV1) | [Rebirth](https://open.spotify.com/album/1CThwFm5smJHLmHflckMkD) | 4:03 |
 | 65 | [Golgotha Tenement Blues](https://open.spotify.com/track/20yvxFLMl0n4nvrDaqZ6ol) | [Machines Of Loving Grace](https://open.spotify.com/artist/7p8Z7MmqMYCa7ZKQKxRBKO) | [The Crow Original Motion Picture Soundtrack](https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n) | 4:00 |
-| 66 | [Hengitä](https://open.spotify.com/track/0aRyEPEkEpzUTztEtasDVj) | [Turmion Kätilöt](https://open.spotify.com/artist/76t3VPzCEYAlrZhVAY7yjg) | [Hengitä](https://open.spotify.com/album/4Jkym58PA9Nhe96FjI3Ox7) | 3:10 |
-| 67 | [Hate Like Me](https://open.spotify.com/track/5iwwHtW8mghDtFh42V4ZyR) | [Combichrist](https://open.spotify.com/artist/5556RAgwP70PnXbaUTGNbR) | [One Fire](https://open.spotify.com/album/3seMsCJKEsXwzX3LdZCq8W) | 4:15 |
+| 66 | [Hate Like Me](https://open.spotify.com/track/5iwwHtW8mghDtFh42V4ZyR) | [Combichrist](https://open.spotify.com/artist/5556RAgwP70PnXbaUTGNbR) | [One Fire](https://open.spotify.com/album/3seMsCJKEsXwzX3LdZCq8W) | 4:15 |
+| 67 | [Hengitä](https://open.spotify.com/track/0aRyEPEkEpzUTztEtasDVj) | [Turmion Kätilöt](https://open.spotify.com/artist/76t3VPzCEYAlrZhVAY7yjg) | [Hengitä](https://open.spotify.com/album/4Jkym58PA9Nhe96FjI3Ox7) | 3:10 |
 | 68 | [Into the Void](https://open.spotify.com/track/6Q12JjOHsE9kTGVshxrm3F) | [Celldweller](https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ) | [Into the Void](https://open.spotify.com/album/3ij353MTGCDCftSBF9GLVm) | 5:16 |
 | 69 | [A Daisy Chain 4 Satan \- Acid & Flowers Mix](https://open.spotify.com/track/5FwLDsdAgRVc3lZjam3euf) | [My Life With The Thrill Kill Kult](https://open.spotify.com/artist/7FfAD7EYZbQ7aHPy9ujduD) | [Confessions of a Knife](https://open.spotify.com/album/07qAwgxJzZYQCPTQc157eT) | 5:31 |
 | 70 | [PUMPED UP KICKS](https://open.spotify.com/track/3ncucOcYMOd7VQ1jyAA6BU) | [3TEETH](https://open.spotify.com/artist/4GHi4xklo0FT0l2CNuLFh2) | [PUMPED UP KICKS](https://open.spotify.com/album/0nCRRcaqMHBnb0hfKnfTPO) | 4:31 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29LQDcJ6Xy7.md) - [plain]
 | 99 | [Lord Of Chaos](https://open.spotify.com/track/4m5zAz7YVq1p5nQO2gVtDE) | [Killing Joke](https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD) | [Lord Of Chaos](https://open.spotify.com/album/37x2vRUVdneFhfGWPCPA0s) | 3:58 |
 | 100 | [My Disintegration](https://open.spotify.com/track/4cE1NEHOx8VEI9UgOHWXOG) | [Celldweller](https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ) | [My Disintegration](https://open.spotify.com/album/0w2LqSsoAxK8YbsmhoDxhk) | 6:20 |
 
-Snapshot ID: `MTY2MzMzMzIwMCwwMDAwMDAwMDMyNTFiOTUyOGZmNzU4YWYzNTM3OGE2YzNhZTEyZjVh`
+Snapshot ID: `MTY2MzMzMzIwMCwwMDAwMDAwMDI3OTkwZDk4ODJmZWY3Mjg2N2JjMTRiMDIzZDJiYjJi`

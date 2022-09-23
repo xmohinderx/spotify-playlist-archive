@@ -4,11 +4,12 @@
 
 > Soundtrack your 2022 resolutions with Joie Chavis.
 
-40 songs - 2 hr 13 min - [published](https://open.spotify.com/playlist/6q3g2oihE3PU4hlnP5GhhO)
+41 songs - 2 hr 17 min - [published](https://open.spotify.com/playlist/6q3g2oihE3PU4hlnP5GhhO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [6 Foot 7 Foot](https://open.spotify.com/track/6BCs8vxnGgKL9eMCOrG2wm) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Cory Gunz](https://open.spotify.com/artist/7BAaznGSsqcksud4R5ou5z) | [Tha Carter IV](https://open.spotify.com/album/1MGEMBqM3v8OUM2glv7MSx) | 4:08 | 2022-01-12 |  |
+| [6 Foot 7 Foot](https://open.spotify.com/track/5Qy6a5KzM4XlRxsNcGYhgH) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Cory Gunz](https://open.spotify.com/artist/7BAaznGSsqcksud4R5ou5z) | [Tha Carter IV \(Complete Edition\)](https://open.spotify.com/album/0pFydyko4Iw450abXlDPpp) | 4:08 | 2022-01-12 |  |
+| [6 Foot 7 Foot](https://open.spotify.com/track/6BCs8vxnGgKL9eMCOrG2wm) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Cory Gunz](https://open.spotify.com/artist/7BAaznGSsqcksud4R5ou5z) | [Tha Carter IV](https://open.spotify.com/album/1MGEMBqM3v8OUM2glv7MSx) | 4:08 | 2022-01-12 | 2022-09-23 |
 | [All Dat \(with Megan Thee Stallion\)](https://open.spotify.com/track/2eukAOMjUM4pxnOdIsUia9) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Time Served](https://open.spotify.com/album/6Wq84YPRzpAIY8CEeluUlv) | 2:23 | 2022-01-12 |  |
 | [All The Way Up \(feat\. Infared\)](https://open.spotify.com/track/61QSuw5VlC0LTS8WMO356g) | [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6), [Remy Ma](https://open.spotify.com/artist/39mHYiNmLR7p8PXNG8Wll6), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [InfaRed](https://open.spotify.com/artist/4R529xQ7WQfRpSEXaHFbRg) | [All The Way Up \(feat\. Infared\)](https://open.spotify.com/album/7vzvohRzBtrnr3miUJrpAk) | 3:11 | 2022-01-12 |  |
 | [Antidote \(feat\. Adekunle Gold\)](https://open.spotify.com/track/1ndeyZurGdaWqLh3srX0ia) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Antidote \(feat\. Adekunle Gold\)](https://open.spotify.com/album/3KQZiAYQg3kXCKPKKNDdbX) | 3:22 | 2022-01-12 |  |

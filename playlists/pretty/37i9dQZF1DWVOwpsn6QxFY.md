@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOwpsn6QxFY.md) - [plain]
 
 > Hand\-picked indie to nourish the ears.
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,156 likes - 80 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,199 likes - 80 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOwpsn6QxFY.md) - [plain]
 | 8 | [Johnson Song](https://open.spotify.com/track/1g3hJAu22j2gINrSTSpwp0) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Orange Blood](https://open.spotify.com/album/3EP2uvI3t1m5UCCSA1iTtV) | 3:43 |
 | 9 | [Mol y Sol](https://open.spotify.com/track/7AlzbuJ7jtFC2roWwgXvLL) | [Brijs](https://open.spotify.com/artist/1w6YfDok1oXwLvE1rlHewV) | [Glitra](https://open.spotify.com/album/7GYLONcNgPmog4Zqn8sm3b) | 3:30 |
 | 10 | [Car Crash in G Major](https://open.spotify.com/track/24EtJ2vTx6CtaP32S6Arn2) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [Car Crash in G Major](https://open.spotify.com/album/1aPZj3S4ORUVOaaFmUgCU6) | 2:12 |
-| 11 | [Hold In, Hold On](https://open.spotify.com/track/0WebpqjAhluHB2WREW9x4R) | [Kid Bloom](https://open.spotify.com/artist/5CXdWANGwYYRPClH6hhC0P) | [Hold In, Hold On](https://open.spotify.com/album/3j7CpIcTP7jFEbQjIMcuud) | 2:39 |
-| 12 | [Look Out!](https://open.spotify.com/track/4N1zjRwfeYAfKVIjjYbDRX) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Look Out!](https://open.spotify.com/album/0TnjBNwKKH0uihxRTgrktF) | 2:56 |
+| 11 | [Look Out!](https://open.spotify.com/track/4N1zjRwfeYAfKVIjjYbDRX) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Look Out!](https://open.spotify.com/album/0TnjBNwKKH0uihxRTgrktF) | 2:56 |
+| 12 | [Hold In, Hold On](https://open.spotify.com/track/0WebpqjAhluHB2WREW9x4R) | [Kid Bloom](https://open.spotify.com/artist/5CXdWANGwYYRPClH6hhC0P) | [Hold In, Hold On](https://open.spotify.com/album/3j7CpIcTP7jFEbQjIMcuud) | 2:39 |
 | 13 | [Eugene](https://open.spotify.com/track/4S6PolgPZ5OLph314ww8Fg) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Eugene](https://open.spotify.com/album/7FJKoKn7zy2OET6KtiJJp7) | 3:41 |
 | 14 | [Every Side Of You](https://open.spotify.com/track/731oIHe1EeEyTEwdtY0lRj) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Every Side Of You](https://open.spotify.com/album/6xLceFaewP4juAD4GjBd45) | 3:24 |
 | 15 | [Once Twice Melody](https://open.spotify.com/track/057rZ21MDp8Ld0TgQndNcv) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Once Twice Melody](https://open.spotify.com/album/79NySyjxJ8xric31mXKMAo) | 4:44 |
@@ -27,9 +27,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOwpsn6QxFY.md) - [plain]
 | 17 | [Harmonia's Dream](https://open.spotify.com/track/4Qzx5fRypU4q1wEaYwHpnr) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [I Don’t Live Here Anymore](https://open.spotify.com/album/69jQsPvJzMvcb2fGqI2qaB) | 6:26 |
 | 18 | [Spiders](https://open.spotify.com/track/416r5CNwByClIGHhs2U5PO) | [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi) | [Blue Hours](https://open.spotify.com/album/1tqkCIUs7aGktIJ2J5WKFz) | 3:48 |
 | 19 | [Woah Man](https://open.spotify.com/track/0PGnwDPPMoJ1s49hQQXHFR) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Harmony House](https://open.spotify.com/album/0W3QgeP1ODhoOnKyfYTnle) | 3:28 |
-| 20 | [Up Granville](https://open.spotify.com/track/38SpxensPT9J0iNbMmQIjd) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Up Granville](https://open.spotify.com/album/3A1KfQ0xiG0a6u3V7FTA9p) | 3:50 |
-| 21 | [It's Still Cool If You Don't](https://open.spotify.com/track/1WfnPoIGJ4ea2O8JlbGQkp) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [It's Still Cool If You Don't](https://open.spotify.com/album/2IunAIq4FrNDFwqe4DmvoU) | 3:57 |
-| 22 | [Birch \(feat\. Taylor Swift\)](https://open.spotify.com/track/7wo2UNeQBowm28hfAJsEMz) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [How Long Do You Think It's Gonna Last?](https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T) | 5:30 |
+| 20 | [Birch \(feat\. Taylor Swift\)](https://open.spotify.com/track/7wo2UNeQBowm28hfAJsEMz) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [How Long Do You Think It's Gonna Last?](https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T) | 5:30 |
+| 21 | [Up Granville](https://open.spotify.com/track/38SpxensPT9J0iNbMmQIjd) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Up Granville](https://open.spotify.com/album/3A1KfQ0xiG0a6u3V7FTA9p) | 3:50 |
+| 22 | [It's Still Cool If You Don't](https://open.spotify.com/track/1WfnPoIGJ4ea2O8JlbGQkp) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [It's Still Cool If You Don't](https://open.spotify.com/album/2IunAIq4FrNDFwqe4DmvoU) | 3:57 |
 | 23 | [Gush](https://open.spotify.com/track/1KVmkJwGJqHWQkb1xg1zkg) | [bdrmm](https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C) | [Bedroom](https://open.spotify.com/album/3Pu648nWwshjvkl96rKxPS) | 3:46 |
 | 24 | [hey girl](https://open.spotify.com/track/2rVAtdA3LWr18RAVGXZNkw) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [hey girl](https://open.spotify.com/album/1HHQjI9AqfSqF6iSdRnfgh) | 3:07 |
 | 25 | [A Couple Things](https://open.spotify.com/track/0XJShR9YnNtXtZkAnLRNFD) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [A word becomes a sound](https://open.spotify.com/album/7zmEZWG9JfmB7lgg2SGgGu) | 2:40 |
@@ -42,11 +42,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOwpsn6QxFY.md) - [plain]
 | 32 | [cold water](https://open.spotify.com/track/3keIh8QdhxlHQ0hsyDHrzA) | [Uly](https://open.spotify.com/artist/1i5DopntEK7C4VKpD5F6zg) | [cold water](https://open.spotify.com/album/0ygmFGHb9QLdOqsAfs6Nhe) | 3:53 |
 | 33 | [Keep Going](https://open.spotify.com/track/4cLtxNBdb0zH63vvnitsh3) | [This Is The Kit](https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo) | [Off Off On](https://open.spotify.com/album/1X8kC5D2ke7puDYgalJtXj) | 6:39 |
 | 34 | [Mountain](https://open.spotify.com/track/4TFTlwrYFCLqmJtIgxRVUT) | [M\. Byrd](https://open.spotify.com/artist/2AzGGPCjkv7D9o7KkpxJYi) | [Mountain](https://open.spotify.com/album/5lLrspzGxZevZkbByj9zwd) | 3:02 |
-| 35 | [Arcadia](https://open.spotify.com/track/1vLmc6JVzSGVnUT3BMfKXZ) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Arcadia](https://open.spotify.com/album/6KpJMQZAI4thJHoBzawHnZ) | 3:30 |
-| 36 | [Mona](https://open.spotify.com/track/7rfoxuUYSfGSuGjRoTq4qH) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [New Mythology](https://open.spotify.com/album/0m1s2KM4LbDqD2lwZhOTJw) | 3:22 |
+| 35 | [Mona](https://open.spotify.com/track/7rfoxuUYSfGSuGjRoTq4qH) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [New Mythology](https://open.spotify.com/album/0m1s2KM4LbDqD2lwZhOTJw) | 3:22 |
+| 36 | [Arcadia](https://open.spotify.com/track/1vLmc6JVzSGVnUT3BMfKXZ) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Arcadia](https://open.spotify.com/album/6KpJMQZAI4thJHoBzawHnZ) | 3:30 |
 | 37 | [Hide & Seek](https://open.spotify.com/track/2t4tWVaCBykTHYG7Wx6AEB) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [Hide & Seek](https://open.spotify.com/album/7Bpblm74urUd8VLJlGubqU) | 3:41 |
-| 38 | [Fruit](https://open.spotify.com/track/5n3NzdPWuSsRbYEObAdXqr) | [Oliver Sim](https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm) | [Fruit](https://open.spotify.com/album/7sgoUuA9bA0lJYSw1PgbkT) | 3:24 |
-| 39 | [Good Day](https://open.spotify.com/track/2dHTK5Bc61ddJ07vhpNnfn) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [Everything Else Has Gone Wrong](https://open.spotify.com/album/11yHtE6IzOk6elh9cJzldJ) | 3:52 |
+| 38 | [Good Day](https://open.spotify.com/track/2dHTK5Bc61ddJ07vhpNnfn) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [Everything Else Has Gone Wrong](https://open.spotify.com/album/11yHtE6IzOk6elh9cJzldJ) | 3:52 |
+| 39 | [Fruit](https://open.spotify.com/track/5n3NzdPWuSsRbYEObAdXqr) | [Oliver Sim](https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm) | [Fruit](https://open.spotify.com/album/7sgoUuA9bA0lJYSw1PgbkT) | 3:24 |
 | 40 | [Wild Side](https://open.spotify.com/track/1WmEhKIzErn1aZNFf2m4FU) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [I Can't Let Go](https://open.spotify.com/album/2ccGlDnYg0D9qAZHDq55Vm) | 3:55 |
 | 41 | [Rae Street](https://open.spotify.com/track/4DtQQ82VSTgYfsCBSxvK9k) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Things Take Time, Take Time](https://open.spotify.com/album/3InSvUCYvJ5XWg6PegGNCv) | 4:31 |
 | 42 | [Blue Hours](https://open.spotify.com/track/4qYbMiuCfrmlwgyhbciuAN) | [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi) | [Blue Hours](https://open.spotify.com/album/1tqkCIUs7aGktIJ2J5WKFz) | 3:53 |
@@ -81,12 +81,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOwpsn6QxFY.md) - [plain]
 | 71 | [Clementine](https://open.spotify.com/track/2q665uNpqatx58180pLD2a) | [T\. Evann](https://open.spotify.com/artist/2BcGW2sfH7w1xKhKGye5YG) | [Clementine](https://open.spotify.com/album/2BqwMbbENJkGzh3t5fdoYd) | 5:09 |
 | 72 | [Everything is Different \(To Me\)](https://open.spotify.com/track/6x3sun3UqxP4g0Juw7ZXx4) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [The Long and Short of It](https://open.spotify.com/album/6pUiy5Z2QoIV0JOiKlu3aQ) | 4:24 |
 | 73 | [Alaska](https://open.spotify.com/track/3jfYDfrnp0dseGWZfa3jqt) | [Pinegrove](https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB) | [Alaska](https://open.spotify.com/album/4rFxEoG9PEDkONioOInJhy) | 2:05 |
-| 74 | [Barcelona](https://open.spotify.com/track/6V8IY1khSjXlgvG6mbIyXQ) | [The Big Moon](https://open.spotify.com/artist/0KU55rzxAihPhi27MAuz9O) | [Barcelona](https://open.spotify.com/album/2zx0QaxzIxKKVi5bptvVyB) | 3:46 |
-| 75 | [Angel](https://open.spotify.com/track/18SbC9qVTs8zuudDislTV5) | [Trudy and the Romance](https://open.spotify.com/artist/2eg89iLHG4JMEUZQmFaxou) | [Angel](https://open.spotify.com/album/5vi6pUjMmkdtABSiTPSuvF) | 4:02 |
+| 74 | [Angel](https://open.spotify.com/track/18SbC9qVTs8zuudDislTV5) | [Trudy and the Romance](https://open.spotify.com/artist/2eg89iLHG4JMEUZQmFaxou) | [Angel](https://open.spotify.com/album/5vi6pUjMmkdtABSiTPSuvF) | 4:02 |
+| 75 | [Barcelona](https://open.spotify.com/track/6V8IY1khSjXlgvG6mbIyXQ) | [The Big Moon](https://open.spotify.com/artist/0KU55rzxAihPhi27MAuz9O) | [Barcelona](https://open.spotify.com/album/2zx0QaxzIxKKVi5bptvVyB) | 3:46 |
 | 76 | [If I Don't Hear From You Tonight](https://open.spotify.com/track/0vPkKjAbhVGjUDKcvb316M) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Things Take Time, Take Time](https://open.spotify.com/album/3InSvUCYvJ5XWg6PegGNCv) | 3:37 |
 | 77 | [summer bruises](https://open.spotify.com/track/2fjE9A6haImVXETd1B4PDs) | [april june](https://open.spotify.com/artist/4WreACyfQITcXGx86xxYkG) | [summer bruises](https://open.spotify.com/album/7lVNLphRN8jo69BM5UmjQI) | 2:54 |
 | 78 | [Nightjar And The Nightingale](https://open.spotify.com/track/24b6nKhfTwjV3loZHkFUli) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Nightjar and the Nightingale](https://open.spotify.com/album/3uqQVXRX8Yoq88qiXXJyjk) | 4:31 |
 | 79 | [Garden of Eden](https://open.spotify.com/track/2JMv10dhH1c63lwDF0wfud) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Flora Fauna](https://open.spotify.com/album/7DlfUBoATO1ECCro50jZWx) | 3:19 |
 | 80 | [The Flow](https://open.spotify.com/track/3gjW1jxleTvfW8fuE3HEbW) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [The Flow](https://open.spotify.com/album/7gRz9nqFK6TEhj4Hh4TsLk) | 3:34 |
 
-Snapshot ID: `MTY2MDMyODAyOCwwMDAwMDAwMDg1Zjc1MGZmYzU0YjE3ZmQ4OGZmMTZiODYyODc0NDg4`
+Snapshot ID: `MTY2MDMyODAyOCwwMDAwMDAwMGU4ODlhOTg2MDI3YTEyMzY5Y2ZhZmJjNDZhNWYwYWY5`

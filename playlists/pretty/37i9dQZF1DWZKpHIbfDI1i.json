@@ -1,12 +1,12 @@
 {
   "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. Yoss Bones en portada.",
-  "num_followers": 442941,
+  "num_followers": 443390,
   "original_name": "Top M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzI2MTIwNywwMDAwMDAwMDU1MjFmOGI4ODI3YTA0NjNhZmVmZTMzOTQ1MDg3Mzc2",
+  "snapshot_id": "MTY2MzI2MTIwNywwMDAwMDAwMDFlOGYyZjVhMTY0NWM1Zjk3ZTE4YmQ5MTYyZTE2MWQx",
   "tracks": [
     {
       "added_at": "2022-09-15 17:00:07",
@@ -239,6 +239,22 @@
     {
       "added_at": "2022-09-15 17:00:07",
       "album": {
+        "name": "No Se Va",
+        "url": "https://open.spotify.com/album/4doKN48F7hHYG3WOujGP0F"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 194019,
+      "name": "No Se Va",
+      "url": "https://open.spotify.com/track/5TXLMRrIet3CQxkyBZc3yE"
+    },
+    {
+      "added_at": "2022-09-15 17:00:07",
+      "album": {
         "name": "No Es Por Ac\u00e1",
         "url": "https://open.spotify.com/album/452R0kJudc73I2N1hxhL7k"
       },
@@ -251,26 +267,6 @@
       "duration_ms": 167692,
       "name": "No Es Por Ac\u00e1",
       "url": "https://open.spotify.com/track/3bvJftZKZe5QKz433NczyV"
-    },
-    {
-      "added_at": "2022-09-15 17:00:07",
-      "album": {
-        "name": "Llorar y Llorar (con Carin Leon)",
-        "url": "https://open.spotify.com/album/3FytBDr6KeYhwstN8yanrn"
-      },
-      "artists": [
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        },
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 169705,
-      "name": "Llorar y Llorar - con Carin Leon",
-      "url": "https://open.spotify.com/track/4YF13O2n16dcTyGgVmiGvN"
     },
     {
       "added_at": "2022-09-15 17:00:07",
@@ -291,18 +287,22 @@
     {
       "added_at": "2022-09-15 17:00:07",
       "album": {
-        "name": "No Se Va",
-        "url": "https://open.spotify.com/album/4doKN48F7hHYG3WOujGP0F"
+        "name": "Llorar y Llorar (con Carin Leon)",
+        "url": "https://open.spotify.com/album/3FytBDr6KeYhwstN8yanrn"
       },
       "artists": [
         {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 194019,
-      "name": "No Se Va",
-      "url": "https://open.spotify.com/track/5TXLMRrIet3CQxkyBZc3yE"
+      "duration_ms": 169705,
+      "name": "Llorar y Llorar - con Carin Leon",
+      "url": "https://open.spotify.com/track/4YF13O2n16dcTyGgVmiGvN"
     },
     {
       "added_at": "2022-09-15 17:00:07",
@@ -403,22 +403,6 @@
     {
       "added_at": "2022-09-15 17:00:07",
       "album": {
-        "name": "Borrachera Con Los Honorables (Live)",
-        "url": "https://open.spotify.com/album/6dvpGPwp36h1DYPUbp2dmv"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 188416,
-      "name": "La Boda Del Huitlacoche - Live",
-      "url": "https://open.spotify.com/track/1Tcm4Qi0lbzXofH11MIzJs"
-    },
-    {
-      "added_at": "2022-09-15 17:00:07",
-      "album": {
         "name": "Miel",
         "url": "https://open.spotify.com/album/5ARQqCgouMHuaCwIGLeh5B"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 124589,
       "name": "Miel",
       "url": "https://open.spotify.com/track/6ohTBTmcNHe9UzvxAgA9wJ"
+    },
+    {
+      "added_at": "2022-09-15 17:00:07",
+      "album": {
+        "name": "Borrachera Con Los Honorables (Live)",
+        "url": "https://open.spotify.com/album/6dvpGPwp36h1DYPUbp2dmv"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 188416,
+      "name": "La Boda Del Huitlacoche - Live",
+      "url": "https://open.spotify.com/track/1Tcm4Qi0lbzXofH11MIzJs"
     },
     {
       "added_at": "2022-09-15 17:00:07",
@@ -823,26 +823,6 @@
     {
       "added_at": "2022-09-15 17:00:07",
       "album": {
-        "name": "El Reemplazo",
-        "url": "https://open.spotify.com/album/0QaYqMY1nTvvKzUOf4F0tu"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 235213,
-      "name": "El Reemplazo",
-      "url": "https://open.spotify.com/track/6mVWXZDsMguKrTHfiCyIVu"
-    },
-    {
-      "added_at": "2022-09-15 17:00:07",
-      "album": {
         "name": "T\u00fa Me Gustas",
         "url": "https://open.spotify.com/album/7tUvz3LUmXYRCZX8lUPTrC"
       },
@@ -863,22 +843,22 @@
     {
       "added_at": "2022-09-15 17:00:07",
       "album": {
-        "name": "Modo Melanc\u00f3lico",
-        "url": "https://open.spotify.com/album/3dc57wAaDKFlbjfb2Njuz1"
+        "name": "El Reemplazo",
+        "url": "https://open.spotify.com/album/0QaYqMY1nTvvKzUOf4F0tu"
       },
       "artists": [
         {
-          "name": "Leon Leiden",
-          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
         },
         {
-          "name": "TIM\u00d8",
-          "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
         }
       ],
-      "duration_ms": 166207,
-      "name": "Modo Melanc\u00f3lico",
-      "url": "https://open.spotify.com/track/4APwd61xpDtKY2rcac8VCI"
+      "duration_ms": 235213,
+      "name": "El Reemplazo",
+      "url": "https://open.spotify.com/track/6mVWXZDsMguKrTHfiCyIVu"
     },
     {
       "added_at": "2022-09-15 17:00:07",
@@ -899,6 +879,26 @@
       "duration_ms": 175053,
       "name": "Mi Salida Contigo",
       "url": "https://open.spotify.com/track/5zMaWQoxNyNo8hJICxNyBK"
+    },
+    {
+      "added_at": "2022-09-15 17:00:07",
+      "album": {
+        "name": "Modo Melanc\u00f3lico",
+        "url": "https://open.spotify.com/album/3dc57wAaDKFlbjfb2Njuz1"
+      },
+      "artists": [
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        },
+        {
+          "name": "TIM\u00d8",
+          "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
+        }
+      ],
+      "duration_ms": 166207,
+      "name": "Modo Melanc\u00f3lico",
+      "url": "https://open.spotify.com/track/4APwd61xpDtKY2rcac8VCI"
     },
     {
       "added_at": "2022-09-15 17:00:07",
@@ -939,22 +939,6 @@
     {
       "added_at": "2022-09-15 17:00:07",
       "album": {
-        "name": "Un Nuevo Amor",
-        "url": "https://open.spotify.com/album/0qRYR5QyvLEt16G7UisMS2"
-      },
-      "artists": [
-        {
-          "name": "Matisse",
-          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
-        }
-      ],
-      "duration_ms": 226776,
-      "name": "Un Nuevo Amor",
-      "url": "https://open.spotify.com/track/4vyg50FAJjpCQEwmJMxlv1"
-    },
-    {
-      "added_at": "2022-09-15 17:00:07",
-      "album": {
         "name": "Ni Volviendo a Nacer",
         "url": "https://open.spotify.com/album/4iIj1mXav2SUNKXS0yR57W"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 166992,
       "name": "Ni Volviendo a Nacer",
       "url": "https://open.spotify.com/track/1mQ20WIB5sGmvqaiHm5mw5"
+    },
+    {
+      "added_at": "2022-09-15 17:00:07",
+      "album": {
+        "name": "Un Nuevo Amor",
+        "url": "https://open.spotify.com/album/0qRYR5QyvLEt16G7UisMS2"
+      },
+      "artists": [
+        {
+          "name": "Matisse",
+          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
+        }
+      ],
+      "duration_ms": 226776,
+      "name": "Un Nuevo Amor",
+      "url": "https://open.spotify.com/track/4vyg50FAJjpCQEwmJMxlv1"
     },
     {
       "added_at": "2022-09-15 17:00:07",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2022-09-15 17:00:07",
       "album": {
-        "name": "Forajido EP 1",
-        "url": "https://open.spotify.com/album/7I8Jkv7b1hFt0Pc1eePHTR"
-      },
-      "artists": [
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 174741,
-      "name": "Lim\u00f3n Con Sal",
-      "url": "https://open.spotify.com/track/2yG1RaWw4zhu9YvIgXl2fD"
-    },
-    {
-      "added_at": "2022-09-15 17:00:07",
-      "album": {
         "name": "A Veces Bien Y A Veces Mal",
         "url": "https://open.spotify.com/album/0pWorPBOSUnnsjMWWAXtci"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 145783,
       "name": "A Veces Bien Y A Veces Mal",
       "url": "https://open.spotify.com/track/21DZByorOzBJ0a0mikH8ri"
+    },
+    {
+      "added_at": "2022-09-15 17:00:07",
+      "album": {
+        "name": "Forajido EP 1",
+        "url": "https://open.spotify.com/album/7I8Jkv7b1hFt0Pc1eePHTR"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 174741,
+      "name": "Lim\u00f3n Con Sal",
+      "url": "https://open.spotify.com/track/2yG1RaWw4zhu9YvIgXl2fD"
     },
     {
       "added_at": "2022-09-15 17:00:07",
@@ -1207,42 +1207,6 @@
     {
       "added_at": "2022-09-15 17:00:07",
       "album": {
-        "name": "Afuera Que Tengan Miedo",
-        "url": "https://open.spotify.com/album/5RrtVeQtn3IeueXIIKNr51"
-      },
-      "artists": [
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        }
-      ],
-      "duration_ms": 163000,
-      "name": "Afuera Que Tengan Miedo",
-      "url": "https://open.spotify.com/track/7lXM1W0RFoHXf4QRqx6U3g"
-    },
-    {
-      "added_at": "2022-09-15 17:00:07",
-      "album": {
-        "name": "S\u00f3lo Qu\u00e9date En Silencio",
-        "url": "https://open.spotify.com/album/6GIZBF6pkjNmBGgSCeLrPB"
-      },
-      "artists": [
-        {
-          "name": "Moderatto",
-          "url": "https://open.spotify.com/artist/5XsWrYhwadPBjW20qYbdZg"
-        },
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 235360,
-      "name": "S\u00f3lo Qu\u00e9date En Silencio",
-      "url": "https://open.spotify.com/track/2yqqGDKsgqw27XvnBCgXwD"
-    },
-    {
-      "added_at": "2022-09-15 17:00:07",
-      "album": {
         "name": "eScoRpi\u00d3n :)",
         "url": "https://open.spotify.com/album/6R7O6y1D6wSQ0JV40XRFyj"
       },
@@ -1263,6 +1227,22 @@
     {
       "added_at": "2022-09-15 17:00:07",
       "album": {
+        "name": "Afuera Que Tengan Miedo",
+        "url": "https://open.spotify.com/album/5RrtVeQtn3IeueXIIKNr51"
+      },
+      "artists": [
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "duration_ms": 163000,
+      "name": "Afuera Que Tengan Miedo",
+      "url": "https://open.spotify.com/track/7lXM1W0RFoHXf4QRqx6U3g"
+    },
+    {
+      "added_at": "2022-09-15 17:00:07",
+      "album": {
         "name": "Haashtag",
         "url": "https://open.spotify.com/album/61F0A7l8tyXIWJV3y4UKXw"
       },
@@ -1275,6 +1255,26 @@
       "duration_ms": 194120,
       "name": "Lo Que un Hombre Deber\u00eda Saber",
       "url": "https://open.spotify.com/track/53xbvOgbt6aDHTudDBKGle"
+    },
+    {
+      "added_at": "2022-09-15 17:00:07",
+      "album": {
+        "name": "S\u00f3lo Qu\u00e9date En Silencio",
+        "url": "https://open.spotify.com/album/6GIZBF6pkjNmBGgSCeLrPB"
+      },
+      "artists": [
+        {
+          "name": "Moderatto",
+          "url": "https://open.spotify.com/artist/5XsWrYhwadPBjW20qYbdZg"
+        },
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 235360,
+      "name": "S\u00f3lo Qu\u00e9date En Silencio",
+      "url": "https://open.spotify.com/track/2yqqGDKsgqw27XvnBCgXwD"
     },
     {
       "added_at": "2022-09-15 17:00:07",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2022-09-15 17:00:07",
       "album": {
-        "name": "El Renacimiento",
-        "url": "https://open.spotify.com/album/7zQtZ4vMqrLoXe0pWxAExt"
-      },
-      "artists": [
-        {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
-        }
-      ],
-      "duration_ms": 197853,
-      "name": "Diamantes",
-      "url": "https://open.spotify.com/track/7HPVL1OrloOoaW2E9zAssr"
-    },
-    {
-      "added_at": "2022-09-15 17:00:07",
-      "album": {
         "name": "Limerencia",
         "url": "https://open.spotify.com/album/4d9KK2351FK3PAzlqfy8yj"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 226636,
       "name": "No Te Quiero Perder",
       "url": "https://open.spotify.com/track/4AwlNIyid3oRyNqX61kTKt"
+    },
+    {
+      "added_at": "2022-09-15 17:00:07",
+      "album": {
+        "name": "El Renacimiento",
+        "url": "https://open.spotify.com/album/7zQtZ4vMqrLoXe0pWxAExt"
+      },
+      "artists": [
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        }
+      ],
+      "duration_ms": 197853,
+      "name": "Diamantes",
+      "url": "https://open.spotify.com/track/7HPVL1OrloOoaW2E9zAssr"
     }
   ],
   "unique_name": "Top M\u00e9xico",

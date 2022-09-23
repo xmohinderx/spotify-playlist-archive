@@ -1,12 +1,12 @@
 {
   "description": "Being alone (again) can be tough, but these songs will keep you company.",
-  "num_followers": 3142760,
+  "num_followers": 3143832,
   "original_name": "Alone Again",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMyOTYwMCwwMDAwMDAwMDE5MTQ2NTQ4NWY0OGE1MTI2OTljMTNkYzFjNjhkNTAx",
+  "snapshot_id": "MTY2MzMyOTYwMCwwMDAwMDAwMDFjNThmMjEzMDZjNmYwYmU2MmZjZmMxOGMzYjBiMjE5",
   "tracks": [
     {
       "added_at": "2022-09-16 12:00:00",
@@ -43,22 +43,6 @@
     {
       "added_at": "2022-09-16 12:00:00",
       "album": {
-        "name": "SOUR",
-        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 152666,
-      "name": "favorite crime",
-      "url": "https://open.spotify.com/track/5JCoSi02qi3jJeHdZXMmR8"
-    },
-    {
-      "added_at": "2022-09-16 12:00:00",
-      "album": {
         "name": "Narrated For You",
         "url": "https://open.spotify.com/album/6jKZplJpy21R5lHaYHHjmZ"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 169353,
       "name": "Let Me Down Slowly",
       "url": "https://open.spotify.com/track/2qxmye6gAegTMjLKEBoR3d"
+    },
+    {
+      "added_at": "2022-09-16 12:00:00",
+      "album": {
+        "name": "SOUR",
+        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 152666,
+      "name": "favorite crime",
+      "url": "https://open.spotify.com/track/5JCoSi02qi3jJeHdZXMmR8"
     },
     {
       "added_at": "2022-09-16 12:00:00",
@@ -515,22 +515,6 @@
     {
       "added_at": "2022-09-16 12:00:00",
       "album": {
-        "name": "Shawn Mendes",
-        "url": "https://open.spotify.com/album/2VP96XdMOKTXefI8Nui23s"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 211360,
-      "name": "In My Blood",
-      "url": "https://open.spotify.com/track/2QZ7WLBE8h2y1Y5Fb8RYbH"
-    },
-    {
-      "added_at": "2022-09-16 12:00:00",
-      "album": {
         "name": "folklore",
         "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 255893,
       "name": "my tears ricochet",
       "url": "https://open.spotify.com/track/1MgV7FIyNxIG7WzMRJV5HC"
+    },
+    {
+      "added_at": "2022-09-16 12:00:00",
+      "album": {
+        "name": "Shawn Mendes",
+        "url": "https://open.spotify.com/album/2VP96XdMOKTXefI8Nui23s"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 211360,
+      "name": "In My Blood",
+      "url": "https://open.spotify.com/track/2QZ7WLBE8h2y1Y5Fb8RYbH"
     },
     {
       "added_at": "2022-09-16 12:00:00",
@@ -855,22 +855,6 @@
     {
       "added_at": "2022-09-16 12:00:00",
       "album": {
-        "name": "In Between Dreams",
-        "url": "https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo"
-      },
-      "artists": [
-        {
-          "name": "Jack Johnson",
-          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
-        }
-      ],
-      "duration_ms": 207680,
-      "name": "Better Together",
-      "url": "https://open.spotify.com/track/4VywXu6umkIQ2OS0m1I79y"
-    },
-    {
-      "added_at": "2022-09-16 12:00:00",
-      "album": {
         "name": "Me And My Gang",
         "url": "https://open.spotify.com/album/5XPdkIryKSpTKW21HUtvV0"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 214106,
       "name": "What Hurts The Most",
       "url": "https://open.spotify.com/track/4bVuIlGQBMWS7vIhcx8Ae4"
+    },
+    {
+      "added_at": "2022-09-16 12:00:00",
+      "album": {
+        "name": "In Between Dreams",
+        "url": "https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "duration_ms": 207680,
+      "name": "Better Together",
+      "url": "https://open.spotify.com/track/4VywXu6umkIQ2OS0m1I79y"
     },
     {
       "added_at": "2022-09-16 12:00:00",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2022-09-16 12:00:00",
       "album": {
-        "name": "XO",
-        "url": "https://open.spotify.com/album/305TANxsPTFkiqS4cEilx1"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 213626,
-      "name": "XO",
-      "url": "https://open.spotify.com/track/7cpCU3Denug5NGZsSpQl8v"
-    },
-    {
-      "added_at": "2022-09-16 12:00:00",
-      "album": {
         "name": "Yours Truly",
         "url": "https://open.spotify.com/album/6czdbbMtGbAkZ6ud2OMTcg"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 327773,
       "name": "Almost Is Never Enough",
       "url": "https://open.spotify.com/track/442j8VxaB60dWf9cBFuX5w"
+    },
+    {
+      "added_at": "2022-09-16 12:00:00",
+      "album": {
+        "name": "XO",
+        "url": "https://open.spotify.com/album/305TANxsPTFkiqS4cEilx1"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 213626,
+      "name": "XO",
+      "url": "https://open.spotify.com/track/7cpCU3Denug5NGZsSpQl8v"
     },
     {
       "added_at": "2022-09-16 12:00:00",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2022-09-16 12:00:00",
       "album": {
-        "name": "Back to Bedlam",
-        "url": "https://open.spotify.com/album/1ekaxA9Q5GzUPCepx4wzMF"
-      },
-      "artists": [
-        {
-          "name": "James Blunt",
-          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
-        }
-      ],
-      "duration_ms": 258653,
-      "name": "Goodbye My Lover",
-      "url": "https://open.spotify.com/track/6gxycjJNMgmAyfzUXBN80P"
-    },
-    {
-      "added_at": "2022-09-16 12:00:00",
-      "album": {
         "name": "The Fray",
         "url": "https://open.spotify.com/album/3ibdlhMmbFPMYoWvwHCzI3"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 256613,
       "name": "Never Say Never",
       "url": "https://open.spotify.com/track/57uX2vR9j9DNiANDYfXw1i"
+    },
+    {
+      "added_at": "2022-09-16 12:00:00",
+      "album": {
+        "name": "Back to Bedlam",
+        "url": "https://open.spotify.com/album/1ekaxA9Q5GzUPCepx4wzMF"
+      },
+      "artists": [
+        {
+          "name": "James Blunt",
+          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
+        }
+      ],
+      "duration_ms": 258653,
+      "name": "Goodbye My Lover",
+      "url": "https://open.spotify.com/track/6gxycjJNMgmAyfzUXBN80P"
     },
     {
       "added_at": "2022-09-16 12:00:00",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2022-09-16 12:00:00",
       "album": {
-        "name": "Strange Foreign Beauty",
-        "url": "https://open.spotify.com/album/1dW7iWMMhRzMLLGrLjL6tO"
-      },
-      "artists": [
-        {
-          "name": "Michael Learns To Rock",
-          "url": "https://open.spotify.com/artist/7zMVPOJPs5jgU8NorRxqJe"
-        }
-      ],
-      "duration_ms": 253093,
-      "name": "That's Why You Go Away",
-      "url": "https://open.spotify.com/track/2ccW4vFSVKRgVjkZzvdjRw"
-    },
-    {
-      "added_at": "2022-09-16 12:00:00",
-      "album": {
         "name": "Good Stuff",
         "url": "https://open.spotify.com/album/10iO7id4oEejkm4jqKwTXc"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 193266,
       "name": "Good Stuff",
       "url": "https://open.spotify.com/track/1tUdd0dSQ5ij2XiqlWhlHX"
+    },
+    {
+      "added_at": "2022-09-16 12:00:00",
+      "album": {
+        "name": "Strange Foreign Beauty",
+        "url": "https://open.spotify.com/album/1dW7iWMMhRzMLLGrLjL6tO"
+      },
+      "artists": [
+        {
+          "name": "Michael Learns To Rock",
+          "url": "https://open.spotify.com/artist/7zMVPOJPs5jgU8NorRxqJe"
+        }
+      ],
+      "duration_ms": 253093,
+      "name": "That's Why You Go Away",
+      "url": "https://open.spotify.com/track/2ccW4vFSVKRgVjkZzvdjRw"
     },
     {
       "added_at": "2022-09-16 12:00:00",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2022-09-16 12:00:00",
       "album": {
-        "name": "Stranger in the Alps (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5rcJ5xCMYYLCgGilFDKRZl"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 229760,
-      "name": "Motion Sickness",
-      "url": "https://open.spotify.com/track/25Syi9wnfn6ZGAmiOBypPq"
-    },
-    {
-      "added_at": "2022-09-16 12:00:00",
-      "album": {
         "name": "LOVE AND COMPROMISE",
         "url": "https://open.spotify.com/album/6tbaSZ6Q72kofaJtscUwFA"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 206946,
       "name": "What You Did (feat. Ella Mai)",
       "url": "https://open.spotify.com/track/2B7UWqNqKgPVGQQ6FXn2PP"
+    },
+    {
+      "added_at": "2022-09-16 12:00:00",
+      "album": {
+        "name": "Stranger in the Alps (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5rcJ5xCMYYLCgGilFDKRZl"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 229760,
+      "name": "Motion Sickness",
+      "url": "https://open.spotify.com/track/25Syi9wnfn6ZGAmiOBypPq"
     },
     {
       "added_at": "2022-09-16 12:00:00",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2022-09-16 12:00:00",
       "album": {
-        "name": "Handwritten",
-        "url": "https://open.spotify.com/album/6sUOosXuYt0oUeczJRbedZ"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 214533,
-      "name": "Life Of The Party",
-      "url": "https://open.spotify.com/track/14hJ5tc1VCFMWhVn9axRTC"
-    },
-    {
-      "added_at": "2022-09-16 12:00:00",
-      "album": {
         "name": "Bright Lights (Lights Re-pack / Bonus Version)",
         "url": "https://open.spotify.com/album/64Pv36CiG9rBcyvKnud02V"
       },
@@ -1707,18 +1691,18 @@
     {
       "added_at": "2022-09-16 12:00:00",
       "album": {
-        "name": "Will It Ever Feel The Same?",
-        "url": "https://open.spotify.com/album/2FkJKUyeNKvWKhZJLdgTUd"
+        "name": "Handwritten",
+        "url": "https://open.spotify.com/album/6sUOosXuYt0oUeczJRbedZ"
       },
       "artists": [
         {
-          "name": "Bazzi",
-          "url": "https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl"
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
         }
       ],
-      "duration_ms": 180338,
-      "name": "Will It Ever Feel The Same?",
-      "url": "https://open.spotify.com/track/2bsuvsOwkhIstFmn0IHkhG"
+      "duration_ms": 214533,
+      "name": "Life Of The Party",
+      "url": "https://open.spotify.com/track/14hJ5tc1VCFMWhVn9axRTC"
     },
     {
       "added_at": "2022-09-16 12:00:00",
@@ -1739,6 +1723,22 @@
     {
       "added_at": "2022-09-16 12:00:00",
       "album": {
+        "name": "Will It Ever Feel The Same?",
+        "url": "https://open.spotify.com/album/2FkJKUyeNKvWKhZJLdgTUd"
+      },
+      "artists": [
+        {
+          "name": "Bazzi",
+          "url": "https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl"
+        }
+      ],
+      "duration_ms": 180338,
+      "name": "Will It Ever Feel The Same?",
+      "url": "https://open.spotify.com/track/2bsuvsOwkhIstFmn0IHkhG"
+    },
+    {
+      "added_at": "2022-09-16 12:00:00",
+      "album": {
         "name": "MAGDALENE",
         "url": "https://open.spotify.com/album/3DMR3yM5crnt1dG9lLaMTZ"
       },
@@ -1751,6 +1751,22 @@
       "duration_ms": 204066,
       "name": "cellophane",
       "url": "https://open.spotify.com/track/7x8pIrhMu9FCmqqHNyuH0P"
+    },
+    {
+      "added_at": "2022-09-16 12:00:00",
+      "album": {
+        "name": "Divinely Uninspired To A Hellish Extent",
+        "url": "https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 197178,
+      "name": "Lost On You",
+      "url": "https://open.spotify.com/track/6glNKSv2aUtfQhe1SJBZZt"
     },
     {
       "added_at": "2022-09-16 12:00:00",
@@ -1787,22 +1803,6 @@
     {
       "added_at": "2022-09-16 12:00:00",
       "album": {
-        "name": "Divinely Uninspired To A Hellish Extent",
-        "url": "https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 197178,
-      "name": "Lost On You",
-      "url": "https://open.spotify.com/track/6glNKSv2aUtfQhe1SJBZZt"
-    },
-    {
-      "added_at": "2022-09-16 12:00:00",
-      "album": {
         "name": "Foreword",
         "url": "https://open.spotify.com/album/44D28vK3JSIQ7oQNAfoeBD"
       },
@@ -1819,22 +1819,6 @@
     {
       "added_at": "2022-09-16 12:00:00",
       "album": {
-        "name": "Handwritten",
-        "url": "https://open.spotify.com/album/6sUOosXuYt0oUeczJRbedZ"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 215813,
-      "name": "Never Be Alone",
-      "url": "https://open.spotify.com/track/4LWIp8HAFxpfg37mnxHqCS"
-    },
-    {
-      "added_at": "2022-09-16 12:00:00",
-      "album": {
         "name": "Hopeful",
         "url": "https://open.spotify.com/album/2HkUMYp8oYG62y7qKK2olM"
       },
@@ -1847,6 +1831,22 @@
       "duration_ms": 224144,
       "name": "I Don't Want You Back",
       "url": "https://open.spotify.com/track/38nKfxyRrjYfx0ODX1W5yB"
+    },
+    {
+      "added_at": "2022-09-16 12:00:00",
+      "album": {
+        "name": "Handwritten",
+        "url": "https://open.spotify.com/album/6sUOosXuYt0oUeczJRbedZ"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 215813,
+      "name": "Never Be Alone",
+      "url": "https://open.spotify.com/track/4LWIp8HAFxpfg37mnxHqCS"
     },
     {
       "added_at": "2022-09-16 12:00:00",
@@ -2095,22 +2095,6 @@
     {
       "added_at": "2022-09-16 12:00:00",
       "album": {
-        "name": "Crying in the Rain",
-        "url": "https://open.spotify.com/album/55biwjrtDGdlAjomhA3O4U"
-      },
-      "artists": [
-        {
-          "name": "Ali Gatie",
-          "url": "https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T"
-        }
-      ],
-      "duration_ms": 155773,
-      "name": "Crying in the Rain",
-      "url": "https://open.spotify.com/track/134G2m5YsPiZXFOduHEfSJ"
-    },
-    {
-      "added_at": "2022-09-16 12:00:00",
-      "album": {
         "name": "What Are Words",
         "url": "https://open.spotify.com/album/156SSHnm8kNfMNl2QJub3I"
       },
@@ -2123,6 +2107,22 @@
       "duration_ms": 189093,
       "name": "What Are Words",
       "url": "https://open.spotify.com/track/50A1WCxKycJUHRr4Rz6WrD"
+    },
+    {
+      "added_at": "2022-09-16 12:00:00",
+      "album": {
+        "name": "Crying in the Rain",
+        "url": "https://open.spotify.com/album/55biwjrtDGdlAjomhA3O4U"
+      },
+      "artists": [
+        {
+          "name": "Ali Gatie",
+          "url": "https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T"
+        }
+      ],
+      "duration_ms": 155773,
+      "name": "Crying in the Rain",
+      "url": "https://open.spotify.com/track/134G2m5YsPiZXFOduHEfSJ"
     },
     {
       "added_at": "2022-09-16 12:00:00",

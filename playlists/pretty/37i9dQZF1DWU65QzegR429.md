@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU65QzegR429.md) - [plain]
 
 > Latin music making waves\. Cover: Jenn Morel
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,774 likes - 44 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,797 likes - 44 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU65QzegR429.md) - [plain]
 | 27 | [Na Pa Ti \(feat\. Kofi\)](https://open.spotify.com/track/0BdFIT81iB6Irf3XjiBUjk) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG), [Kofi](https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld) | [Na Pa Ti \(feat\. Kofi\)](https://open.spotify.com/album/3UefdYQA4lzyOOZ8SHFSyr) | 2:53 |
 | 28 | [Que Tengo Que Hacer](https://open.spotify.com/track/1tkwIX1dhNQZmkFKgucIgI) | [El Micha](https://open.spotify.com/artist/0d7jzRhjOifL8X9hxNvbEn), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Que Tengo Que Hacer](https://open.spotify.com/album/5nMt32SNGPGANwkPWVUWIF) | 3:48 |
 | 29 | [Caramelo](https://open.spotify.com/track/7HShBDHwZokDkH2qMEwqZ7) | [Lil Viic](https://open.spotify.com/artist/1wxP4p2fz72aCgmfymu0CZ), [Lennis Rodriguez](https://open.spotify.com/artist/4Rzu63KnqMsThOdfkrJk1Z) | [Caramelo](https://open.spotify.com/album/4gyoEgPnJ6yiZsazqXrucj) | 3:28 |
-| 30 | [VA HABLAR](https://open.spotify.com/track/1D9JQx1HkH3VFfBlsJCckF) | [Hugo D Almonte](https://open.spotify.com/artist/4cJdMWi5D3uJC93mePpJAP) | [HUGITO](https://open.spotify.com/album/4GVUmgD20UFchp7dIp5ItU) | 2:27 |
-| 31 | [Hey Mami](https://open.spotify.com/track/29DyVpcvZ8Sl5j9ROFXyz7) | [Mabiland](https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J) | [NIÑXS ROTXS](https://open.spotify.com/album/1XLeW2s0YvZSomXynkBKgm) | 3:26 |
+| 30 | [Hey Mami](https://open.spotify.com/track/29DyVpcvZ8Sl5j9ROFXyz7) | [Mabiland](https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J) | [NIÑXS ROTXS](https://open.spotify.com/album/1XLeW2s0YvZSomXynkBKgm) | 3:26 |
+| 31 | [VA HABLAR](https://open.spotify.com/track/1D9JQx1HkH3VFfBlsJCckF) | [Hugo D Almonte](https://open.spotify.com/artist/4cJdMWi5D3uJC93mePpJAP) | [HUGITO](https://open.spotify.com/album/4GVUmgD20UFchp7dIp5ItU) | 2:27 |
 | 32 | [Dormir Sola](https://open.spotify.com/track/5IJL0TAmAojNvWnNW5HRUd) | [Joyce Santana](https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX) | [A Quien Pueda Interesar](https://open.spotify.com/album/01ASF6lHKnCDcYOnVqxGTm) | 2:41 |
 | 33 | [Para Mi](https://open.spotify.com/track/4DW0XUPnGT6hWuJYZxErVX) | [Anmily Brown](https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT) | [Para Mi](https://open.spotify.com/album/4xALKUOR6fodvNlUKaOHti) | 3:37 |
 | 34 | [Fettuccine](https://open.spotify.com/track/3Y21rqKVb3Rqf7FjRCK2EB) | [Akim](https://open.spotify.com/artist/2y0XUKKpAeeGyQ5ND7dTY3) | [Haters y Fanáticos](https://open.spotify.com/album/5ozdJlbZNDyinRp5MGXqsb) | 3:00 |
@@ -48,9 +48,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU65QzegR429.md) - [plain]
 | 38 | [Sin Aire](https://open.spotify.com/track/4m93OTJad26zWgEFprZICX) | [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz) | [Sin Aire](https://open.spotify.com/album/4NA7ABRbQr0hgnmmJXWjBd) | 2:00 |
 | 39 | [7heaven](https://open.spotify.com/track/7DCnJTsmnN25Xzu8gR8sAa) | [Esty](https://open.spotify.com/artist/5GRoRrY3Ug35hVuX3z5Rvq) | [Estyland EP](https://open.spotify.com/album/5ippOikp37VeZaOJBhsUCN) | 2:53 |
 | 40 | [NO TE VAYAS](https://open.spotify.com/track/6265pP7vOElddtF32MJmts) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1) | [DIADREAMER](https://open.spotify.com/album/3dMeA8bEA9Ianbh9mnyhU9) | 3:10 |
-| 41 | [EnVy](https://open.spotify.com/track/1iQiM6BGH52YVPMXVbM6mx) | [Rauli V](https://open.spotify.com/artist/1TyllKWCaozGr3Ytrw95FG) | [EnVy](https://open.spotify.com/album/7MEiQRRyWflSsXeenUGIsl) | 2:49 |
-| 42 | [Soy](https://open.spotify.com/track/6sBBmnwoII25pWOpy6TmLK) | [Luchy DR](https://open.spotify.com/artist/0SbiXy5hZuC7ZjOXNXygql) | [Lucky 7](https://open.spotify.com/album/3b2Zck8DtLyhMYxUgVDyho) | 3:16 |
+| 41 | [Soy](https://open.spotify.com/track/6sBBmnwoII25pWOpy6TmLK) | [Luchy DR](https://open.spotify.com/artist/0SbiXy5hZuC7ZjOXNXygql) | [Lucky 7](https://open.spotify.com/album/3b2Zck8DtLyhMYxUgVDyho) | 3:16 |
+| 42 | [EnVy](https://open.spotify.com/track/1iQiM6BGH52YVPMXVbM6mx) | [Rauli V](https://open.spotify.com/artist/1TyllKWCaozGr3Ytrw95FG) | [EnVy](https://open.spotify.com/album/7MEiQRRyWflSsXeenUGIsl) | 2:49 |
 | 43 | [Mismo De Antes](https://open.spotify.com/track/0e3pNr8A7NEAb9ItjHLlfb) | [Los Rakas](https://open.spotify.com/artist/513odGmQbPb6hVERfJGeF0), [Akanni](https://open.spotify.com/artist/0wgIOP9UaikBczBsamAyFh), [Jay Fire](https://open.spotify.com/artist/1V3fm7z9TDaSA5JnfRaWUe), [The F](https://open.spotify.com/artist/12vv65YPMmM49KAsC1mnK5) | [Mismo De Antes](https://open.spotify.com/album/7K1G6hWjrZF7bJqMr4R1Tz) | 3:55 |
 | 44 | [Esa Flaca](https://open.spotify.com/track/2e0EnlrAtFtzo4q91sR38G) | [La Perversa](https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo), [Lirico En La Casa](https://open.spotify.com/artist/1Vr7DTbtTpOp4tn4hAGOYo) | [Esa Flaca](https://open.spotify.com/album/2k3ZEVpOgGtzuqxXK2PhvV) | 3:01 |
 
-Snapshot ID: `MTY2MzA3NTI5MCwwMDAwMDAwMDg2ZDVmYzQ2ODE2YmI2M2M3NmYwODUyMDE5YzczYjIz`
+Snapshot ID: `MTY2MzA3NTI5MCwwMDAwMDAwMGM3NmQ0YjdiZDBlMjgyM2NiZTNmMzQ2ODgwNWZiNjFk`

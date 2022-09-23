@@ -4,7 +4,7 @@
 
 > 最先端のK\-Popをピックアップ！// The freshest K\-Pop of today! cover: BLACKPINK
 
-363 songs - 20 hr 6 min - [published](https://open.spotify.com/playlist/7M2UzkWe0rrHEXaOnPr3Xw)
+365 songs - 20 hr 11 min - [published](https://open.spotify.com/playlist/7M2UzkWe0rrHEXaOnPr3Xw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [Copycat](https://open.spotify.com/track/3eRXnVROQcJxwzovKyLTnd) | [Apink CHOBOM](https://open.spotify.com/artist/1eDD6vNEyVQXGev7af156d) | [Copycat](https://open.spotify.com/album/0NYssBVyeMwUSRzsIKATIE) | 3:24 | 2022-07-12 | 2022-08-26 |
 | [CRAZY](https://open.spotify.com/track/3K4FUnNmfNrIipQey9OxDM) | [WONHO](https://open.spotify.com/artist/6pC3vnUgNVITdYMMXefi6D) | [Facade](https://open.spotify.com/album/2xj3q7TVU0jrpyv6YVGzPc) | 3:28 | 2022-06-13 | 2022-08-04 |
 | [Crazy About You](https://open.spotify.com/track/5fWA7ingUBU5U6eCbsf4TH) | [UP10TION](https://open.spotify.com/artist/2LjaeuGS0ubYXZfNihGp9y) | [Novella](https://open.spotify.com/album/0Yy2pkAP5dZ5QGJhItCEm9) | 4:12 | 2022-01-03 | 2022-01-21 |
-| [Cruel](https://open.spotify.com/track/0SxQz5uPZ5cAGWzj6MvzrX) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [Cruel](https://open.spotify.com/album/2XVAjpwJNlbMQF5N7cGfIf) | 3:15 | 2022-07-28 |  |
+| [Cruel](https://open.spotify.com/track/0SxQz5uPZ5cAGWzj6MvzrX) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [Cruel](https://open.spotify.com/album/2XVAjpwJNlbMQF5N7cGfIf) | 3:15 | 2022-07-28 | 2022-09-23 |
 | [Cupid](https://open.spotify.com/track/0w54OKbroNiI06hCHdSGBR) | [DKZ](https://open.spotify.com/artist/31eyTcfjAke5hFX3az3nRE) | [DKZ 6th Single Album 'CHASE EPISODE 2\. MAUM'](https://open.spotify.com/album/4j5d4JxHVJvb6m5hA9hgoe) | 3:13 | 2022-04-12 | 2022-06-15 |
 | [Daisy](https://open.spotify.com/track/6jql35WDVQEgTRHvUTPOrd) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [<FLY\-UP> \- Special Edition \-](https://open.spotify.com/album/2vVvnTCd3Nazq9eC7RKMHL) | 2:56 | 2022-09-06 |  |
 | [DALLA DALLA \- Japanese ver.](https://open.spotify.com/track/0OvHs9ccBYfv0447jwWTxr) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [IT'z ITZY \(Japanese ver.\)](https://open.spotify.com/album/1VvOaePbpheLTFGUlOb2yE) | 3:19 | 2021-12-23 | 2022-03-11 |
@@ -232,6 +232,7 @@
 | [Polaroid Love](https://open.spotify.com/track/5elW2CKSoqjYoJ32AGDxf1) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DIMENSION : ANSWER](https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5) | 3:04 | 2022-01-21 | 2022-05-17 |
 | [POP!](https://open.spotify.com/track/3lOMJTQTd6J34faYwASc33) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) | [IM NAYEON](https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw) | 2:48 | 2022-07-28 |  |
 | [POP!](https://open.spotify.com/track/5rJ7bdPmr8nfmm2JQ8xHOz) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) | [IM NAYEON](https://open.spotify.com/album/7yePounUspaQfanDsw6nI0) | 2:48 | 2022-06-23 | 2022-07-29 |
+| [Promise](https://open.spotify.com/track/6PovIIOpRlHzv8Cg9Qjr81) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [Promise](https://open.spotify.com/album/4Wt2BXLfObF0w0QMrnPy0e) | 2:30 | 2022-09-22 |  |
 | [PS5 \(with TOMORROW X TOGETHER & Alan Walker\)](https://open.spotify.com/track/7xNCacksfUkYXsXuSW4vNF) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT), [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [PS5 \(with TOMORROW X TOGETHER & Alan Walker\)](https://open.spotify.com/album/3d5T4SpuAOMi7GSFojXktx) | 2:32 | 2022-02-22 | 2022-05-31 |
 | [Que Sera Sera](https://open.spotify.com/track/4b9jE3ZlUCKhyg2Rd0ZjHp) | [ILY:1](https://open.spotify.com/artist/3FvFhUWP00xtwBrHtby3v8) | [Que Sera Sera](https://open.spotify.com/album/6uavSIfdJQuxSRkoqwq5IF) | 3:05 | 2022-07-19 | 2022-08-24 |
 | [QUINCY \- The Greatest Ver.](https://open.spotify.com/track/2KtMiAgFluozh8ZeMxHy5x) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [QUINCY \(The Greatest Ver.\)](https://open.spotify.com/album/01hBZCUobgWupslzzdgoV7) | 3:08 | 2022-05-10 | 2022-07-07 |
@@ -252,6 +253,7 @@
 | [Run up](https://open.spotify.com/track/0jhCTgCG2v9fgRNI3oTHL4) | [T1419](https://open.spotify.com/artist/3uT0R5PsjP0k7NJ565Nqs4) | [Run up](https://open.spotify.com/album/2Rqv3Uwq3trPV7X4tQeDlS) | 2:44 | 2022-02-22 | 2022-03-09 |
 | [RUN2U](https://open.spotify.com/track/3gFcGnU4kTdMYLXDjH1TK8) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [YOUNG\-LUV.COM](https://open.spotify.com/album/2xPdgNkM4yIQmP7axJ1T1o) | 3:33 | 2022-02-22 | 2022-05-25 |
 | [Rush Hour](https://open.spotify.com/track/1Goejji6m1d0s0cv4OnL7f) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [NO LIMIT](https://open.spotify.com/album/7C4wO7npFwUlVgNye4hbII) | 3:22 | 2021-12-23 | 2022-02-22 |
+| [Rush Hour \(Feat\. j\-hope of BTS\)](https://open.spotify.com/track/5aucVLKiumD89mxVCB4zvS) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Rush Hour](https://open.spotify.com/album/7egcy2gtlyoUUl1OlQrY3R) | 2:57 | 2022-09-22 |  |
 | [SAME SAME DIFFERENT \- JP Ver.](https://open.spotify.com/track/0MTRZzn4wNBjBEthtffOMk) | [CLASS:y](https://open.spotify.com/artist/3jcfHmXvjOgHzfyVE55GzZ) | [SAME SAME DIFFERENT \(JP Ver.\)](https://open.spotify.com/album/742XumfrnmfiQ7w7oGxvjR) | 3:35 | 2022-06-10 | 2022-07-27 |
 | [save me](https://open.spotify.com/track/15xLGWvLs9vb6UaNLwDTEY) | [Mark Tuan](https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB) | [save me](https://open.spotify.com/album/4fpOkKyUs4HR0nSG97loRI) | 3:12 | 2022-04-07 | 2022-06-22 |
 | [SAVIOR](https://open.spotify.com/track/4Bk3bszU1CnHq9hS20s2qZ) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [A to B](https://open.spotify.com/album/3KuC2m80vVPinf5rYjZSch) | 3:01 | 2022-05-17 | 2022-07-19 |
@@ -263,7 +265,7 @@
 | [SCIENTIST \- Japanese ver.](https://open.spotify.com/track/0oFE8NlomVrCxhgVZ5FsuE) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [SCIENTIST \(Japanese ver.\)](https://open.spotify.com/album/4Fv22ltDAUSeyboT0e7xnK) | 3:16 | 2022-03-01 | 2022-04-13 |
 | [Scorpio](https://open.spotify.com/track/4cHo8XS9nZwqQUPrGt50zA) | [Sorn](https://open.spotify.com/artist/6DY6xsCBGZHrG4PWSG5paz) | [Scorpio](https://open.spotify.com/album/592fFIUinSfJVKa7kLl3l6) | 3:36 | 2022-04-14 | 2022-07-01 |
 | [SCREAM](https://open.spotify.com/track/0FaeA2jhqji5fwSdIavSyU) | [SF9](https://open.spotify.com/artist/7LOmc7gyMVMOWF8qwEdn2X) | [THE WAVE OF9](https://open.spotify.com/album/4bE85rfnrEXYRvqrEhEJAn) | 3:08 | 2022-07-12 | 2022-09-15 |
-| [Sea of Moonlight](https://open.spotify.com/track/58UmvrTOMdJpqJlD0U4MuE) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Sea of Moonlight](https://open.spotify.com/album/6YoagDSCACpp8wElCNBCXC) | 3:08 | 2022-07-28 |  |
+| [Sea of Moonlight](https://open.spotify.com/track/58UmvrTOMdJpqJlD0U4MuE) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Sea of Moonlight](https://open.spotify.com/album/6YoagDSCACpp8wElCNBCXC) | 3:08 | 2022-07-28 | 2022-09-23 |
 | [Second](https://open.spotify.com/track/06airWVL4vpd8lNKQP9wMx) | [HYO](https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [DEEP \- The 1st Mini Album](https://open.spotify.com/album/2qa6E3bEJ5OqwVgbfWOeF4) | 3:38 | 2022-05-16 | 2022-07-20 |
 | [Shark](https://open.spotify.com/track/76XT86YEJq9vGQljItY6gw) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [Shark](https://open.spotify.com/album/104jjlIreYgxI8FofxpaFz) | 3:23 | 2021-12-23 | 2022-03-09 |
 | [SHE'S THE BOSS](https://open.spotify.com/track/1C2P1QRhkrAQHTq3j1YfM1) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [SHE'S THE BOSS](https://open.spotify.com/album/6kPf5szTsKC6OMX3YPuxcS) | 3:47 | 2022-05-13 | 2022-07-27 |

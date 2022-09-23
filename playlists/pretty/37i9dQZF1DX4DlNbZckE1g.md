@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DlNbZckE1g.md) - [plain]
 
 > Lose yourself in the summer daze...
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,503 likes - 107 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,513 likes - 107 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,7 +100,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DlNbZckE1g.md) - [plain]
 | 90 | [Theworstthing](https://open.spotify.com/track/0EvZksFiDpboeG4UVaIvJa) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Day/Night](https://open.spotify.com/album/2FJj7NVoRCAwjFus0O1BXd) | 3:03 |
 | 91 | [Big Titties](https://open.spotify.com/track/3ArzoE70ZnTQIHvtggfYoW) | [Djanaba](https://open.spotify.com/artist/4bxUDYFtReRPY0uBnNyqFr) | [Big Titties](https://open.spotify.com/album/5dhSqAkSZbiqOpM1plKwjG) | 2:27 |
 | 92 | [Holiday \- Edit](https://open.spotify.com/track/4HnYhXzNGiiqGLqvsyuO8b) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [Holiday](https://open.spotify.com/album/41rsfR9vimZ80oMPXQwU71) | 3:55 |
-| 93 | [2gether](https://open.spotify.com/track/4dzBqc5t2GWJKpGqUoTbrU) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [2gether](https://open.spotify.com/album/3DG2mNSbwGZjzSJxnpM1Qf) | 3:11 |
+| 93 | [2gether](https://open.spotify.com/track/4dzBqc5t2GWJKpGqUoTbrU) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Gretel Hänlyn](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [2gether](https://open.spotify.com/album/3DG2mNSbwGZjzSJxnpM1Qf) | 3:11 |
 | 94 | [NEO](https://open.spotify.com/track/7onHzHeOVE3M9p0tNKQbXc) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [TWOPOINTFIVE](https://open.spotify.com/album/0KkHzH0uia9zwPbrCbS6NY) | 2:03 |
 | 95 | [Wide Open \(feat\. Ta\-ku & Masego\)](https://open.spotify.com/track/6NHQNFSpBaBvTHTt96dhfy) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U), [Ta\-ku](https://open.spotify.com/artist/13Kd75NSHSp9lB4CaqPMOV), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Wide Open \(feat\. Ta\-ku & Masego\)](https://open.spotify.com/album/0XKpLb1bh3PvdQ7BaPRA29) | 4:03 |
 | 96 | [PINCH ME](https://open.spotify.com/track/14QUJhbXCWO90NfZ0mXnGG) | [young friend](https://open.spotify.com/artist/7cq0a4di5dOeKU8sicemd1) | [PINCH ME](https://open.spotify.com/album/3rOQe9CrRDdKdLHLzH4BNI) | 2:59 |

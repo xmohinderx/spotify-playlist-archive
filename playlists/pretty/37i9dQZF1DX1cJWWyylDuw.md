@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cJWWyylDuw.md) - [plain]
 
 > A collection of the best Deathcore tracks, mixing recent and fresh new tracks\. Cover: Suicide Silence
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,263 likes - 120 songs - 7 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,625 likes - 120 songs - 7 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cJWWyylDuw.md) - [plain]
 | 33 | [Boy](https://open.spotify.com/track/3XhrFBIBskDUeujyzNFwXf) | [ten56.](https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii) | [Boy](https://open.spotify.com/album/2CL5UiUdXNe1EKoOObuNui) | 3:50 |
 | 34 | [King of the Rats](https://open.spotify.com/track/0FeY1KxlBQhALD6L6IaDog) | [Bodysnatcher](https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm) | [King of the Rats](https://open.spotify.com/album/2BSdHM1FO3JJw97CWIS77P) | 2:53 |
 | 35 | [Forgiveness is Weakness](https://open.spotify.com/track/0wgAotx2BRq097ibZcjlji) | [Whitechapel](https://open.spotify.com/artist/5274obTQJjzjyycRyJlfml) | [The Valley](https://open.spotify.com/album/3CuUGJ6cFro2LQIiWlXOue) | 2:55 |
-| 36 | [Enemy](https://open.spotify.com/track/2sjE0P1Qtnhx8cIMyTynic) | [Brand of Sacrifice](https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod), [Spencer Chamberlain](https://open.spotify.com/artist/2cbaTTGFK4bWdglvhLQRFi) | [Enemy](https://open.spotify.com/album/7hv2IVfILbMAbhMAr3fK9v) | 4:08 |
-| 37 | [Exit, Exist](https://open.spotify.com/track/3Ks0l9pRwBoobHURPrTNPs) | [After The Burial](https://open.spotify.com/artist/0uNj4RxFjG0iVPlZS753en) | [Evergreen](https://open.spotify.com/album/5TYkzohGue5TQbhIk2T8xH) | 3:54 |
+| 36 | [Exit, Exist](https://open.spotify.com/track/3Ks0l9pRwBoobHURPrTNPs) | [After The Burial](https://open.spotify.com/artist/0uNj4RxFjG0iVPlZS753en) | [Evergreen](https://open.spotify.com/album/5TYkzohGue5TQbhIk2T8xH) | 3:54 |
+| 37 | [Enemy](https://open.spotify.com/track/2sjE0P1Qtnhx8cIMyTynic) | [Brand of Sacrifice](https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod), [Spencer Chamberlain](https://open.spotify.com/artist/2cbaTTGFK4bWdglvhLQRFi) | [Enemy](https://open.spotify.com/album/7hv2IVfILbMAbhMAr3fK9v) | 4:08 |
 | 38 | [Two Towers](https://open.spotify.com/track/6wohgfWGvvT0Q2WuzvLqQd) | [Fit For An Autopsy](https://open.spotify.com/artist/0qJpY7K8p7g6sacvaGNt6i) | [Oh What the Future Holds](https://open.spotify.com/album/6Ye3ONH5U76f9MqPg3zxcl) | 5:46 |
 | 39 | [Survival](https://open.spotify.com/track/5cV5z3OWpzyvLmpZQiJhuA) | [Within Destruction](https://open.spotify.com/artist/1kAX4yFdmR0hJe2tPu1785) | [Survival](https://open.spotify.com/album/1yQX87mmZgUC1CH8R7EbLr) | 3:19 |
 | 40 | [New Dawn](https://open.spotify.com/track/458jbRBNS7zdEdH7XJlWZP) | [Oceans Ate Alaska](https://open.spotify.com/artist/48zUWAXpgEXfpttz23pCNQ) | [New Dawn](https://open.spotify.com/album/2jzZI6qgIqULUKdFMrv7pr) | 1:49 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cJWWyylDuw.md) - [plain]
 | 49 | [Violent Ends](https://open.spotify.com/track/2ijRR930GKlMPmMyPrAIpA) | [CABAL](https://open.spotify.com/artist/2bfK6ltXa60B2egnErJvlO) | [Violent Ends](https://open.spotify.com/album/0WH5ko6MEgIwIheIxo28Eg) | 2:41 |
 | 50 | [Demon King](https://open.spotify.com/track/7ynraW89Jj7tPYLaNihl6v) | [Brand of Sacrifice](https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod), [Ryo Kinoshita](https://open.spotify.com/artist/0hFOSb4sdsDLsAhwwSheWH) | [Demon King](https://open.spotify.com/album/7mQTEBCTYqQL58cJwGQBbn) | 3:57 |
 | 51 | [Devil In Me](https://open.spotify.com/track/7m7SLo5HUI0DyDXzMh8wNv) | [Within The Ruins](https://open.spotify.com/artist/5mscNJ6lE9Kj7tWv4iCk7y) | [Black Heart](https://open.spotify.com/album/78J2WyAF3Updccv9cQEcnc) | 3:33 |
-| 52 | [Aeon](https://open.spotify.com/track/39aouGYhIeMp9iWc9OEd8Y) | [Crystal Lake](https://open.spotify.com/artist/0A7d0PJxaLO7CGI94ht6PX) | [Helix](https://open.spotify.com/album/6Z63V1YXcM6JG7XyWDmevd) | 3:13 |
-| 53 | [Two Steps](https://open.spotify.com/track/3snVL2u6T1ooATEb1BmqAw) | [Suicide Silence](https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc) | [Become the Hunter](https://open.spotify.com/album/0TKibOiHotsM6d36cyepoC) | 3:22 |
+| 52 | [Two Steps](https://open.spotify.com/track/3snVL2u6T1ooATEb1BmqAw) | [Suicide Silence](https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc) | [Become the Hunter](https://open.spotify.com/album/0TKibOiHotsM6d36cyepoC) | 3:22 |
+| 53 | [Aeon](https://open.spotify.com/track/39aouGYhIeMp9iWc9OEd8Y) | [Crystal Lake](https://open.spotify.com/artist/0A7d0PJxaLO7CGI94ht6PX) | [Helix](https://open.spotify.com/album/6Z63V1YXcM6JG7XyWDmevd) | 3:13 |
 | 54 | [Where Millions Have Come to Die](https://open.spotify.com/track/1k3vemIRqlSdlBPFUrqhMY) | [Shadow of Intent](https://open.spotify.com/artist/76xrrejizyQpKukBIhnf3D), [Phil Bozeman](https://open.spotify.com/artist/4xwTN5RGJpScAcnlwVNU4y) | [Elegy](https://open.spotify.com/album/1YwAkYsGTgNMWaayCgxjsb) | 4:23 |
 | 55 | [Black of My Eyes](https://open.spotify.com/track/7sZcXl6LNdughQ7ZE7lvUp) | [Bodysnatcher](https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm) | [This Heavy Void](https://open.spotify.com/album/7zuN8pRGF727YAHs7pSpOG) | 3:52 |
 | 56 | [Kimo](https://open.spotify.com/track/3FrBC04W6GQsQQgeYn3ieH) | [ten56.](https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii) | [Downer Part.1](https://open.spotify.com/album/6ZfD7O9CcoRP9xP0ICdgTA) | 3:40 |
@@ -122,11 +122,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cJWWyylDuw.md) - [plain]
 | 112 | [Paranoid Skizoid](https://open.spotify.com/track/15KxR0KLfryV2yNKU8WFf3) | [DeadSquad](https://open.spotify.com/artist/2By8ec9DQOnN2aiiFyrQ82) | [Paranoid Skizoid](https://open.spotify.com/album/3HX4nigXg6PaUMBhDgAFXO) | 3:02 |
 | 113 | [Sungazer](https://open.spotify.com/track/0egKxL1kN2yev9AVKMFkTj) | [Viscera](https://open.spotify.com/artist/4jBjMnUHg8VCv9HM7KKbFd) | [Sungazer](https://open.spotify.com/album/69ccl1EvGtY99liaJBlzDT) | 4:36 |
 | 114 | [The Price of Grace](https://open.spotify.com/track/7xpjzr5PmHicXZq0R9z5sj) | [Convictions](https://open.spotify.com/artist/0PNbGkwlV3farYnmoojYAY) | [The Price of Grace](https://open.spotify.com/album/3kolLEZ68kVuXA1gwO0TJd) | 4:07 |
-| 115 | [Hellmouth](https://open.spotify.com/track/1w73E5RFnn02GBW4iZHuD6) | [Distant](https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ) | [Hellmouth](https://open.spotify.com/album/42xWOp9Wymj0Wh21YKLkqD) | 3:41 |
-| 116 | [On Wings of Carnage](https://open.spotify.com/track/7EqQT7pzLZ7SPfZpLcb1Wr) | [Corpsegrinder](https://open.spotify.com/artist/2W2H6mzoE0HqDLM7ux6FbO) | [On Wings of Carnage](https://open.spotify.com/album/5niBQpquiMHRxrrjrNtgNB) | 3:45 |
+| 115 | [On Wings of Carnage](https://open.spotify.com/track/7EqQT7pzLZ7SPfZpLcb1Wr) | [Corpsegrinder](https://open.spotify.com/artist/2W2H6mzoE0HqDLM7ux6FbO) | [On Wings of Carnage](https://open.spotify.com/album/5niBQpquiMHRxrrjrNtgNB) | 3:45 |
+| 116 | [Hellmouth](https://open.spotify.com/track/1w73E5RFnn02GBW4iZHuD6) | [Distant](https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ) | [Hellmouth](https://open.spotify.com/album/42xWOp9Wymj0Wh21YKLkqD) | 3:41 |
 | 117 | [Deathwish](https://open.spotify.com/track/1Qdz2l8hr4mNwGj43AyVIR) | [In Dying Arms](https://open.spotify.com/artist/5m3RbDfOQ3RHxrebIytwSW) | [Deathwish](https://open.spotify.com/album/4HJfPe3SlTU1qoT2qHGLCh) | 3:47 |
 | 118 | [What I Would Give](https://open.spotify.com/track/0vt56Wbd2hcCYvtXoDyEg1) | [Angelmaker](https://open.spotify.com/artist/1AdrYGYDz4oa9dvW2jfFrG) | [Dusk](https://open.spotify.com/album/1jEj7ctr3pPvcVW6mFkt3i) | 4:10 |
 | 119 | [Remnants in Time](https://open.spotify.com/track/4QrLsP1ZpVLdEVpdS1AnXm) | [The Agonist](https://open.spotify.com/artist/3NrGqWwh6dKk99v1UFqQak) | [Days Before the World Wept](https://open.spotify.com/album/29uEQ1RoGjYPBXrZCUb6Ms) | 4:53 |
 | 120 | [Voices](https://open.spotify.com/track/6521S3JGbGzH7c12smJjEw) | [Octopus Montage](https://open.spotify.com/artist/1fTRB21pCaxDms0xwplYiG) | [How To Live And How To Lose](https://open.spotify.com/album/6o1IwCI1UMuDeWAF3MgIMp) | 4:15 |
 
-Snapshot ID: `MTY2MzMzMzIwMCwwMDAwMDAwMGMxNDVjOTRlNGY0NTU0NDhiNzA3ZjkyYTJiMDBkMzhm`
+Snapshot ID: `MTY2MzMzMzIwMCwwMDAwMDAwMGVhZjZhYmIxNTEzMGRiNjNhOWQ1ODkyYThiZDQ1MjI3`

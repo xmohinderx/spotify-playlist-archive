@@ -2,7 +2,7 @@
 
 ### [ملكات العالم العربي](https://open.spotify.com/playlist/37i9dQZF1DXcZXC7Soywtq)
 
-> ملتقي أصوات النساء العربيات! الغلاف: أنغام
+> ملتقي أصوات النساء العربيات! الغلاف: أصيل هميم
 
 185 songs - 11 hr 29 min - [published](https://open.spotify.com/playlist/4sPCQKTRNsZk6fb72kPu7x)
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTXGqmP0bfT3.md) - [plain]
 
 > Need to get your energy level up? This will help!
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,260 likes - 100 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,695 likes - 100 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,16 +75,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTXGqmP0bfT3.md) - [plain]
 | 65 | [In Due Time](https://open.spotify.com/track/1HlOGL1p6wlpOZatJ2NwFk) | [Killswitch Engage](https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l) | [Disarm the Descent \(Special Edition\)](https://open.spotify.com/album/5I6bH0UaVR4LnKmVUWDZoD) | 3:17 |
 | 66 | [Mama Said Knock You Out](https://open.spotify.com/track/5tGGvBpnjKJosBAmsb9eHX) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM), [Tech N9ne](https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos) | [The Wrong Side of Heaven and the Righteous Side of Hell, Vol\. 1 \(Deluxe Edition\)](https://open.spotify.com/album/1qfm8YhH28Bgs3e8hutsqw) | 2:47 |
 | 67 | [Until the World Goes Cold](https://open.spotify.com/track/1hPKSQuvfLlPeIu8xhRyTf) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Silence in the Snow \(Special Edition\)](https://open.spotify.com/album/5l2xUBNPkPSZB0KVrEXANI) | 5:21 |
-| 68 | [Game Over](https://open.spotify.com/track/27oqpECc2wygxRAIBCgxHa) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Bloodstone & Diamonds](https://open.spotify.com/album/5LflIRpgFkIkwXZHiXqyoX) | 6:36 |
-| 69 | [The Nexus](https://open.spotify.com/track/3FA9wGCQWqyoqWDPhsGtO1) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [The Nexus](https://open.spotify.com/album/6431V8pOEUPUW4k9ASyKCV) | 3:16 |
+| 68 | [The Nexus](https://open.spotify.com/track/3FA9wGCQWqyoqWDPhsGtO1) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [The Nexus](https://open.spotify.com/album/6431V8pOEUPUW4k9ASyKCV) | 3:16 |
+| 69 | [Game Over](https://open.spotify.com/track/27oqpECc2wygxRAIBCgxHa) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Bloodstone & Diamonds](https://open.spotify.com/album/5LflIRpgFkIkwXZHiXqyoX) | 6:36 |
 | 70 | [Shadows Inside](https://open.spotify.com/track/0uyvc0R0wJ6Fu3E01UtlzJ) | [Miss May I](https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237) | [Shadows Inside](https://open.spotify.com/album/6Qk4RAKoWQbO7ptwqctxgi) | 3:56 |
 | 71 | [Fear of the Dark \- 2015 Remaster](https://open.spotify.com/track/0h4rVZcOiSaL9b5mT1A2gq) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Fear of the Dark \(2015 \- Remaster\)](https://open.spotify.com/album/66mnkzELAR3AK13W7Elv4l) | 7:18 |
 | 72 | [Memento Mori](https://open.spotify.com/track/1flcnqrtVKsluQXLEPfGJW) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Lamb of God](https://open.spotify.com/album/7FEBQOq6SXl4CsqR6wTTGy) | 5:48 |
-| 73 | [Over It](https://open.spotify.com/track/0S674qD7nVFL0L7pHs6wUO) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Gravity](https://open.spotify.com/album/28sCbClwbAhHN6ovutizQg) | 3:47 |
-| 74 | [Incense & Iron](https://open.spotify.com/track/5KDcHol0FbJZCmNivYabkJ) | [Powerwolf](https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v) | [The Sacrament of Sin](https://open.spotify.com/album/2t3dociTSaDTmqIlN21rmC) | 3:57 |
+| 73 | [Incense & Iron](https://open.spotify.com/track/5KDcHol0FbJZCmNivYabkJ) | [Powerwolf](https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v) | [The Sacrament of Sin](https://open.spotify.com/album/2t3dociTSaDTmqIlN21rmC) | 3:57 |
+| 74 | [Over It](https://open.spotify.com/track/0S674qD7nVFL0L7pHs6wUO) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Gravity](https://open.spotify.com/album/28sCbClwbAhHN6ovutizQg) | 3:47 |
 | 75 | [Dystopia](https://open.spotify.com/track/0KiRc3f3OI9C7s0S1QjQNO) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Dystopia](https://open.spotify.com/album/4sP7CAPrmdBD1ojBBrPxiV) | 4:59 |
-| 76 | [Beat the Bastards](https://open.spotify.com/track/5CtaBjZac81phlz5FNFI18) | [Accept](https://open.spotify.com/artist/3JDIAtVrJdQ7GFOX26LYpv) | [Blood of the Nations](https://open.spotify.com/album/0sUtCw0dDv0KC8zrnxlmY4) | 5:24 |
-| 77 | [From The Pinnacle To The Pit](https://open.spotify.com/track/2J5aJp4HQxcMuxZ6HVM4GC) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Meliora](https://open.spotify.com/album/74QTwjBLo1eLqpjL320rXX) | 4:02 |
+| 76 | [From The Pinnacle To The Pit](https://open.spotify.com/track/2J5aJp4HQxcMuxZ6HVM4GC) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Meliora](https://open.spotify.com/album/74QTwjBLo1eLqpjL320rXX) | 4:02 |
+| 77 | [Beat the Bastards](https://open.spotify.com/track/5CtaBjZac81phlz5FNFI18) | [Accept](https://open.spotify.com/artist/3JDIAtVrJdQ7GFOX26LYpv) | [Blood of the Nations](https://open.spotify.com/album/0sUtCw0dDv0KC8zrnxlmY4) | 5:24 |
 | 78 | [All Nightmare Long](https://open.spotify.com/track/5w3TTTAo6DIEjQYO3vKZq0) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Death Magnetic](https://open.spotify.com/album/0lf5ceMub7KQhLfGxCdM06) | 7:57 |
 | 79 | [Drink Drank Drunk](https://open.spotify.com/track/5A7ZY7Ne45YzSCVmQYggkP) | [HELLYEAH](https://open.spotify.com/artist/4hxDvVq5t8ebPYPdBl1F9f) | [Band of Brothers](https://open.spotify.com/album/0FpYtZ9BvsELBBTk69s3Lq) | 3:56 |
 | 80 | [The Sin and the Sentence](https://open.spotify.com/track/6156ZPGcezId0Bmw7x7c7K) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [The Sin and the Sentence](https://open.spotify.com/album/3qq44o8Qqvz5JQ7b5AevLT) | 5:49 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTXGqmP0bfT3.md) - [plain]
 | 97 | [Hate by Design](https://open.spotify.com/track/6xXIMiJeAHZZcoReecFZwD) | [Killswitch Engage](https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l) | [Incarnate](https://open.spotify.com/album/1zcMqDzxecHx6JQvi7oFmH) | 3:46 |
 | 98 | [Dead But Rising](https://open.spotify.com/track/3siZ8Gr2G9zelmm1NZOmP3) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Outlaw Gentlemen & Shady Ladies](https://open.spotify.com/album/5SBrIIYCvThaqN9r1SV2pv) | 3:34 |
 | 99 | [Night of the Werewolves](https://open.spotify.com/track/1BZ6VNjPOcf1ysNMARzirk) | [Powerwolf](https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v) | [Blood of the Saints](https://open.spotify.com/album/1MSxQKpaZ2nPubMVQi9V3N) | 4:30 |
-| 100 | [Sympathy For The Devil](https://open.spotify.com/track/5Yql4ooghbDqwXIvCGXsdx) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Bad Magic](https://open.spotify.com/album/6dMv1580G91kLYjquABSPQ) | 5:26 |
+| 100 | [I´m Shipping Up To Boston](https://open.spotify.com/track/0GdvuRCPThuv4SYVaiw8ca) | [Children Of Bodom](https://open.spotify.com/artist/1xUhNgw4eJDZfvumIpcz1B) | [Holiday At Lake Bodom, 15 Years of Wasted Youth](https://open.spotify.com/album/3XoY2CTmKFB0MdlKAOnXau) | 2:50 |
 
-Snapshot ID: `MTY1NTgzOTAxNywwMDAwMDAwMDU5NDVjY2EwZDliMTcwMDg3MDZhMzQxM2JhMzQwMjRk`
+Snapshot ID: `MTY1NTgzOTAxNywwMDAwMDAwMDI1Mjc1ZjEyYzY2ZTNiODYzZGIyM2RjNjk5MzllNmVh`

@@ -4,7 +4,7 @@
 
 > A quality alternative blend\. Cover: Danielle Ponder
 
-483 songs - 1 day 5 hr 33 min - [published](https://open.spotify.com/playlist/5atRHR4vc4jlkDH31Rwpnd)
+484 songs - 1 day 5 hr 37 min - [published](https://open.spotify.com/playlist/5atRHR4vc4jlkDH31Rwpnd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,7 +175,8 @@
 | [Heart Shape](https://open.spotify.com/track/0Y2d6bZXLoQLfJvI7Sqr5q) | [Margaret Glaspy](https://open.spotify.com/artist/13YVfXddjRIUrubItJjadb) | [Love Is Real b/w Heart Shape](https://open.spotify.com/album/7kKKozYknjwDR0AoG7RwHu) | 3:16 | 2022-04-15 | 2022-07-16 |
 | [Hearts & Minds](https://open.spotify.com/track/34ljkOM2ndnf1sGoDMcmDZ) | [Pillow Queens](https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d) | [Leave The Light On](https://open.spotify.com/album/71yW0rxm0PtKpgdCHJabyY) | 4:02 | 2022-05-20 | 2022-07-16 |
 | [Heavy Heart \- Edit](https://open.spotify.com/track/3Gbk5JvijQQxg5q8AkGdmw) | [Bartees Strange](https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG) | [Heavy Heart](https://open.spotify.com/album/0J97gh6EZ7bqsqq4IeGe68) | 3:46 | 2022-03-04 | 2022-04-29 |
-| [Here to Forever](https://open.spotify.com/track/3uKLuVqBd0bIUfFDdn68lI) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Here to Forever](https://open.spotify.com/album/3ysrZoXIO6es1hsQI2iTeZ) | 3:46 | 2022-07-15 |  |
+| [Here to Forever](https://open.spotify.com/track/3uKLuVqBd0bIUfFDdn68lI) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Here to Forever](https://open.spotify.com/album/3ysrZoXIO6es1hsQI2iTeZ) | 3:46 | 2022-07-15 | 2022-09-23 |
+| [Here to Forever](https://open.spotify.com/track/7Cva2EgJougx6O6M5xgWAq) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Asphalt Meadows](https://open.spotify.com/album/2PIWPTOIxbaVSjTnc30vXS) | 3:46 | 2022-09-16 |  |
 | [Hey Baby](https://open.spotify.com/track/6lJ6Tbyfhd4mKMSQOIxzJV) | [The Cactus Blossoms](https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S) | [Hey Baby](https://open.spotify.com/album/7x1T2pgVdYrtVfLt1fd3cT) | 2:50 | 2021-12-10 | 2022-01-22 |
 | [Hey Julia](https://open.spotify.com/track/4ITcbrMbYwD3kuIG304nxO) | [The 502s](https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX) | [Hey Julia](https://open.spotify.com/album/161llzgJp98MoWom3IJOJp) | 1:59 | 2022-06-24 | 2022-09-17 |
 | [High](https://open.spotify.com/track/6rRGtOgUxgARW5QXK2k9EY) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [High](https://open.spotify.com/album/2xbSaikAqmnjC9YuYjYPxM) | 3:50 | 2022-01-28 | 2022-04-23 |

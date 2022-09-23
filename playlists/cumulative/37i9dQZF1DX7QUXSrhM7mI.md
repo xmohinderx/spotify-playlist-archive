@@ -4,7 +4,7 @@
 
 > It's 3pm and we've peaced out for the day.
 
-109 songs - 6 hr 21 min - [published](https://open.spotify.com/playlist/3gZOIKvsBM5WJ1qvKLnFBv)
+110 songs - 6 hr 25 min - [published](https://open.spotify.com/playlist/3gZOIKvsBM5WJ1qvKLnFBv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Baby \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3pLtWj9iW6HT2TWAPcMZhg) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Spotify Singles](https://open.spotify.com/album/1ghdZvVVCMbTkf6BDsEg78) | 4:41 | 2022-05-27 | 2022-07-29 |
 | [Baby Powder](https://open.spotify.com/track/4Nw7kywWurWS6ceinn1cHK) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [Division](https://open.spotify.com/album/2VG4oj0kGjOydr6j8deI7Z) | 2:56 | 2022-05-24 |  |
 | [Baby, This Love I Have](https://open.spotify.com/track/28rEMH4xXl10A2u5zpDxJm) | [Minnie Riperton](https://open.spotify.com/artist/2i1IdHG5w0wiSmJGoqAGlj) | [Perfect Angel/Adventures In Paradise](https://open.spotify.com/album/7eaIvJSCDeI6bKZN9bMQbK) | 4:10 | 2022-05-24 | 2022-06-11 |
-| [Baby, This Love I Have](https://open.spotify.com/track/397fxHew7NyjryGWGr1Imy) | [Minnie Riperton](https://open.spotify.com/artist/2i1IdHG5w0wiSmJGoqAGlj) | [Adventures In Paradise](https://open.spotify.com/album/0OoRiTZs9hsRz7KxB8JkSX) | 4:10 | 2022-07-15 |  |
+| [Baby, This Love I Have](https://open.spotify.com/track/397fxHew7NyjryGWGr1Imy) | [Minnie Riperton](https://open.spotify.com/artist/2i1IdHG5w0wiSmJGoqAGlj) | [Adventures In Paradise](https://open.spotify.com/album/0OoRiTZs9hsRz7KxB8JkSX) | 4:10 | 2022-07-15 | 2022-09-23 |
 | [Background Music](https://open.spotify.com/track/2QgLakrVOFqkpR2lmMQ6FT) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Humble Quest](https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw) | 3:34 | 2022-05-24 | 2022-07-29 |
 | [Beautiful Crazy](https://open.spotify.com/track/2rxQMGVafnNaRaXlRMWPde) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [This One's for You Too \(Deluxe Edition\)](https://open.spotify.com/album/53Oa5Bu0UTU8o8qCTaHKoz) | 3:13 | 2022-05-24 |  |
 | [Best Days](https://open.spotify.com/track/3z1DnGBH2uhlDekJr0YVzQ) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [In The Meantime](https://open.spotify.com/album/5reEg9or7xqpXy6XLVIoTE) | 3:31 | 2022-05-24 |  |
@@ -44,6 +44,7 @@
 | [golden years](https://open.spotify.com/track/4xP5bdGofMzMQyH1TDFPp8) | [Christian French](https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM) | [golden years](https://open.spotify.com/album/09knoNCuy7aCw2Ze6g5lBt) | 2:49 | 2022-05-27 |  |
 | [Habits](https://open.spotify.com/track/4UGvqm3e7UElrrriPtnhwz) | [Genevieve Stokes](https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ) | [Habits](https://open.spotify.com/album/4KKuhABzFkGE9UAucodfUo) | 2:16 | 2022-09-14 |  |
 | [Heavy Bend](https://open.spotify.com/track/6qopJBPesEVIrIT0qMtbNs) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dragon New Warm Mountain I Believe In You](https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY) | 1:36 | 2022-05-26 | 2022-07-16 |
+| [Here With Me](https://open.spotify.com/track/4U4h7WNNyvhpdaDgHSdD4j) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Here With Me](https://open.spotify.com/album/1HPTbRqv30KYao7mpuZ6dm) | 4:02 | 2022-09-22 |  |
 | [I Hate U](https://open.spotify.com/track/5dXWFMwD7I7zXsInONVl0H) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [I Hate U](https://open.spotify.com/album/1hJUh5y1ggqqGsCivnRmHw) | 2:54 | 2022-05-24 |  |
 | [I'm Into Something Good](https://open.spotify.com/track/6qrHnS0f1raPfbWUyZIz1b) | [the bird and the bee](https://open.spotify.com/artist/65XA3lk0aG9XejO8y37jjD) | [I'm Into Something Good](https://open.spotify.com/album/6mxAZnOwKez168wCNZOciD) | 2:51 | 2022-05-24 | 2022-05-28 |
 | [If You Love Her](https://open.spotify.com/track/727Z2S2mtNH46CbP9EWPwY) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc) | [If You Love Her](https://open.spotify.com/album/5hgwPA78vCrhEDaTazNMyR) | 3:37 | 2022-05-24 |  |

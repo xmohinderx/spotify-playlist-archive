@@ -4,11 +4,12 @@
 
 > Exceptionally vivid icebreaker in your love pursuit.
 
-50 songs - 2 hr 59 min - not published yet
+51 songs - 3 hr 2 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Aki Wewe](https://open.spotify.com/track/2ee6ViIobYyu2rLwiVmNIA) | [Kwame Rígíi](https://open.spotify.com/artist/2YBmXbjqDbsGjTB9vMbuNf) | [Aki Wewe](https://open.spotify.com/album/3zW32TzDG8V20HM7A8NdOO) | 4:27 | 2022-05-26 |  |
+| [Amelowa](https://open.spotify.com/track/2EiGkSOY6o01g9gDm1lrzk) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Amelowa](https://open.spotify.com/album/0cb7S8oT18YIVZDoiqlytV) | 2:59 | 2022-09-22 |  |
 | [Beautiful \(Worth Living\) \[feat\. Barnaba\]](https://open.spotify.com/track/28EDIv29TAG4NvhfoIJPCJ) | [Cedo](https://open.spotify.com/artist/4XnL8ClOo3yWrWU4VJWa6q), [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks) | [Ceduction](https://open.spotify.com/album/72CVdgTmhjPyGh78LRv1Gy) | 3:06 | 2022-09-08 |  |
 | [Cheche \(feat\. Diamond Platnumz\)](https://open.spotify.com/track/07oL9PG3HyIpMEtKTEI8Fp) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Cheche \(feat\. Diamond Platnumz\)](https://open.spotify.com/album/5esLD4g5piSeeAalViPWkG) | 3:08 | 2022-05-26 |  |
 | [Chombo](https://open.spotify.com/track/5iyiGl2swMh2Hoo3WtjMof) | [Cheed](https://open.spotify.com/artist/2qB04YVOV3cm2YSEn5L90z) | [Endless Love EP](https://open.spotify.com/album/293vnq26EV2uVbehBuavxk) | 3:24 | 2022-08-11 |  |
@@ -42,7 +43,7 @@
 | [Napona](https://open.spotify.com/track/0vqWa6py4X96uFeaue6DKv) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Napona](https://open.spotify.com/album/2g6WReKqmaMix2XTl58AI6) | 2:49 | 2022-07-07 |  |
 | [Nenda Lote](https://open.spotify.com/track/66UNdqwxnjpfQdu3cD0lk5) | [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo) | [Midnight Train](https://open.spotify.com/album/2R0nfEjaMFMb8qyPnQmDzK) | 4:24 | 2022-05-26 |  |
 | [Ni We](https://open.spotify.com/track/1xTb97ajiL7Rq3dMBk2UJu) | [Kinoti](https://open.spotify.com/artist/45KLKfGTZLK4BUZAv2l5sm) | [Heart to Hurt](https://open.spotify.com/album/4QEJSaRYujs6FtiF7gpctX) | 2:54 | 2022-05-26 |  |
-| [Nikupende](https://open.spotify.com/track/4Nmk8cdKR6XZadYTGVRoIa) | [Elani](https://open.spotify.com/artist/7v4v8ZiBQC6HHeCuA2lQ26) | [Barua ya Dunia](https://open.spotify.com/album/7fLPbISe7JY8c0O0huAL0Z) | 4:24 | 2022-05-26 |  |
+| [Nikupende](https://open.spotify.com/track/4Nmk8cdKR6XZadYTGVRoIa) | [Elani](https://open.spotify.com/artist/7v4v8ZiBQC6HHeCuA2lQ26) | [Barua ya Dunia](https://open.spotify.com/album/7fLPbISe7JY8c0O0huAL0Z) | 4:24 | 2022-05-26 | 2022-09-23 |
 | [Ninogeshe](https://open.spotify.com/track/2OKwqx3CX9dpU43iW6ycVP) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3) | [The African Princess](https://open.spotify.com/album/4xkMgoIBjnVjk4Vj8YCjD2) | 3:53 | 2022-05-26 |  |
 | [Nioneshe](https://open.spotify.com/track/6UBHxdwtS4kTvpq3rv7Uxn) | [Maua Sama](https://open.spotify.com/artist/5U8jnk47jb3p6wCtb6SgS2) | [Nioneshe](https://open.spotify.com/album/3v3I7BtYIjtVQzvj5cJfwi) | 3:25 | 2022-05-26 |  |
 | [Nipepee](https://open.spotify.com/track/6Cpbvi6GoTfDBYkObnuNNp) | [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Nipepee](https://open.spotify.com/album/12AXAhxziLLk6R33nyxejH) | 3:26 | 2022-05-26 |  |

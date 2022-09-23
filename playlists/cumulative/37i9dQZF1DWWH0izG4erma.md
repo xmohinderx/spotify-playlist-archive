@@ -4,7 +4,7 @@
 
 > Country Music that ROCKS!!  <br/>Cover: Kendall Marvel
 
-183 songs - 10 hr 47 min - [published](https://open.spotify.com/playlist/7v4qYnm74BZdCShzbtN9G4)
+184 songs - 10 hr 50 min - [published](https://open.spotify.com/playlist/7v4qYnm74BZdCShzbtN9G4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,7 +129,8 @@
 | [Pull Me Under](https://open.spotify.com/track/6diaA6bkHgXuhlkmIYVAkf) | [Aaron Lewis](https://open.spotify.com/artist/2t2XKfWKLXpFIjFwy1K8wx) | [Pull Me Under](https://open.spotify.com/album/75aqS5tQ46UH4dsynit10p) | 4:28 | 2021-11-12 | 2022-07-29 |
 | [Put It in the Plate](https://open.spotify.com/track/11t73HjNMUYPcpaTFzdbzo) | [Kendell Marvel](https://open.spotify.com/artist/7l77Y7qC5sVTsVoU2MymGX) | [Put It in the Plate](https://open.spotify.com/album/6jHIwtGXABMsY3SI56YV6k) | 2:43 | 2022-06-03 | 2022-07-10 |
 | [Rambler \- Bonus Track](https://open.spotify.com/track/5lpqOgHzc3UmcgULPKtoSD) | [Bones Owens](https://open.spotify.com/artist/172e5cVOCSMYQQaIaZ4l1z) | [Bones Owens](https://open.spotify.com/album/33ObrRfIHT3AESxy8E15FG) | 3:30 | 2021-11-01 | 2022-08-17 |
-| [Ramon Ayala](https://open.spotify.com/track/7oRlqeavsFnEtKoUueqyiL) | [Giovannie and the Hired Guns](https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94) | [Ramon Ayala](https://open.spotify.com/album/0uDXEh8zPFRjAGizuol1EI) | 2:48 | 2022-07-19 |  |
+| [Ramon Ayala](https://open.spotify.com/track/7mrLFLPPXee4E0JH2trPJz) | [Giovannie and the Hired Guns](https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94) | [Ramon Ayala](https://open.spotify.com/album/3QHU1NiJaARZJbBbYG1BeQ) | 2:48 | 2022-09-16 |  |
+| [Ramon Ayala](https://open.spotify.com/track/7oRlqeavsFnEtKoUueqyiL) | [Giovannie and the Hired Guns](https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94) | [Ramon Ayala](https://open.spotify.com/album/0uDXEh8zPFRjAGizuol1EI) | 2:48 | 2022-07-19 | 2022-09-23 |
 | [Red Handed](https://open.spotify.com/track/62jzdCEsnubKdOSIEOLx7L) | [Taylor McCall](https://open.spotify.com/artist/5f1cs8LexmMYbhNEIOsDLT) | [Red Handed](https://open.spotify.com/album/0eSxk8QnMLkDt5DQ43kxfZ) | 2:42 | 2021-11-01 | 2022-07-26 |
 | [Rich Man's Game](https://open.spotify.com/track/2muHNimwAwlBbfdYf6yH5W) | [Tanner Usrey](https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7) | [Rich Man's Game](https://open.spotify.com/album/0r5fTsObknKZkwDQbOjRuO) | 3:50 | 2021-11-01 | 2022-07-28 |
 | [Ride the Lightning \(717 Tapes\)](https://open.spotify.com/track/6bVZ8tOT8S6wrXJl83zEHU) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Ride the Lightning \(717 Tapes\)](https://open.spotify.com/album/5rPnLz5tuUOuWfh69TOwNP) | 3:06 | 2021-11-01 | 2022-07-29 |

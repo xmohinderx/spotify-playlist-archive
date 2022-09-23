@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EgfgehUd1l.md) - [plain]
 
 > Vintage easy listening from the fifties...
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,269 likes - 80 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,304 likes - 80 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EgfgehUd1l.md) - [plain]
 | 66 | [High Noon \(Do Not Forsake Me\)](https://open.spotify.com/track/0ns2AQy1XC8xBYebbVho3I) | [Frankie Laine](https://open.spotify.com/artist/3cgO5CdhEHKMxldjZlP5ix) | [Command Performance](https://open.spotify.com/album/44i8VkJcTp0sKdBtXGa2nk) | 2:39 |
 | 67 | [Don't Laugh at Me \('Cause I'm a Fool\)](https://open.spotify.com/track/1TeU7rqSW9Qc2iWNioCAXA) | [Norman Wisdom](https://open.spotify.com/artist/2TQwlvzU9XPzZF8hJIuChI) | [The Very Best Of Norman Wisdom](https://open.spotify.com/album/2TvMq7hUfWsLsn6ID24LPz) | 3:36 |
 | 68 | [Cindy Oh Cindy](https://open.spotify.com/track/7AvyAuG888oz51hEWEXkv5) | [Eddie Fisher](https://open.spotify.com/artist/6bHSJldq5J4lYowHOm9OOX) | [Presenting Eddie Fisher](https://open.spotify.com/album/4ovVdpqVKmgKzzcU4ZERS3) | 3:00 |
-| 69 | [Tammy](https://open.spotify.com/track/3TwVatcukBQLQj3LJZtHaR) | [Debbie Reynolds](https://open.spotify.com/artist/4Zf0pLGYwNB86Y97kisvkn) | [Oldies 101](https://open.spotify.com/album/3wyiI6cwQIcLIpn7gKFXih) | 3:06 |
-| 70 | [Kiss](https://open.spotify.com/track/1IAMWO6YGFzwagaGtBSuD1) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dean Martin: The Capitol Recordings, Vol\. 3 \(1951\-1952\)](https://open.spotify.com/album/2Kk2yOUlO23aSwwJBTeXPu) | 2:25 |
+| 69 | [Kiss](https://open.spotify.com/track/1IAMWO6YGFzwagaGtBSuD1) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dean Martin: The Capitol Recordings, Vol\. 3 \(1951\-1952\)](https://open.spotify.com/album/2Kk2yOUlO23aSwwJBTeXPu) | 2:25 |
+| 70 | [Tammy](https://open.spotify.com/track/3TwVatcukBQLQj3LJZtHaR) | [Debbie Reynolds](https://open.spotify.com/artist/4Zf0pLGYwNB86Y97kisvkn) | [Oldies 101](https://open.spotify.com/album/3wyiI6cwQIcLIpn7gKFXih) | 3:06 |
 | 71 | [I Almost Lost My Mind](https://open.spotify.com/track/7bJpjO7r5gMsHx1oepanuS) | [Pat Boone](https://open.spotify.com/artist/7fmKtIgmxqNEKjATioVNsu) | [Pat Boone's Greatest Hits \(Reissue\)](https://open.spotify.com/album/4UfDMjg8GFc3RZx5KILDlZ) | 2:38 |
 | 72 | [No One but You](https://open.spotify.com/track/1EryH4ZJhQxhq2OZFv1MwQ) | [Billy Eckstine](https://open.spotify.com/artist/6htazaFMy8zs0f3sMtM2Pt) | [Billy Eckstine Sings](https://open.spotify.com/album/75Xfs589ceaAnTYsOvHKqC) | 3:09 |
 | 73 | [Love Me Forever](https://open.spotify.com/track/3jtuTk2DS22xjOEJbbkTjC) | [Marion Ryan](https://open.spotify.com/artist/3i3CrQSW3chMBUDavwXUQe) | [Presenting Marion Ryan](https://open.spotify.com/album/07J0yWEzGdx2ElM6p4iP9D) | 2:55 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EgfgehUd1l.md) - [plain]
 | 79 | [A Woman in Love \(with Percy Faith & His Orchestra\)](https://open.spotify.com/track/428F8FMidC2u1ZHXNaeMuK) | [Frankie Laine](https://open.spotify.com/artist/3cgO5CdhEHKMxldjZlP5ix), [Percy Faith & His Orchestra](https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv) | [The Essential Frankie Laine](https://open.spotify.com/album/2iKc2szRNAvEvtfQM5vySt) | 2:20 |
 | 80 | [Young Love](https://open.spotify.com/track/3f447padVRsEa7JrtRNJhT) | [Tab Hunter](https://open.spotify.com/artist/0pVnnK639XgJiMuv10JLRe) | [The Young Love of Tab Hunter](https://open.spotify.com/album/42j5U2yHrzwOsXQnzkmk4j) | 2:26 |
 
-Snapshot ID: `MTU5NDIyOTc2OCwwMDAwMDAwMDE0MDgyYTJlMWI1ZDJjNTc2NGJmYWE1ZmRhODQzNjY3`
+Snapshot ID: `MTU5NDIyOTc2OCwwMDAwMDAwMDM2OTM0NDNiOTRlODZjYTE5MGYzZWM2MjJhNzIxOGY0`

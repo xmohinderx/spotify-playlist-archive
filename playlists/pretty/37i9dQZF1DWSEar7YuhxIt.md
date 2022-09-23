@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSEar7YuhxIt.md) - [plain]
 
 > Horns up for this metal soundtrack for headbangers of all ages!
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,095 likes - 50 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,261 likes - 50 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSEar7YuhxIt.md) - [plain]
 | 22 | [Aerials](https://open.spotify.com/track/4e9eGQYsOiBcftrWXwsVco) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Toxicity](https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh) | 3:55 |
 | 23 | [Nothin' But A Good Time \- Remastered 2006](https://open.spotify.com/track/2V8KvnD5LVeeDChMWEkSzC) | [Poison](https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo) | [Open Up And Say...Ahh! \(20th Anniversary Edition\)](https://open.spotify.com/album/2AMWVB3FWknjcMeb6hMZnd) | 3:44 |
 | 24 | [Schism](https://open.spotify.com/track/55mJleti2WfWEFNFcBduhc) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [Lateralus](https://open.spotify.com/album/5l5m1hnH4punS1GQXgEi3T) | 6:43 |
-| 25 | [Runnin' with the Devil \- 2015 Remaster](https://open.spotify.com/track/3KhF2YiNpJvGpfiCW45R6D) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [Van Halen \(Remastered\)](https://open.spotify.com/album/7DdEbYFPKTZ8KB4z6L4UnQ) | 3:34 |
-| 26 | [Du hast](https://open.spotify.com/track/6uEvFCaOqXyEidoO8BZbyh) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Sehnsucht](https://open.spotify.com/album/0C9p8YMtbdOkcXPPlEmZvY) | 3:54 |
+| 25 | [Du hast](https://open.spotify.com/track/6uEvFCaOqXyEidoO8BZbyh) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Sehnsucht](https://open.spotify.com/album/0C9p8YMtbdOkcXPPlEmZvY) | 3:54 |
+| 26 | [Runnin' with the Devil \- 2015 Remaster](https://open.spotify.com/track/3KhF2YiNpJvGpfiCW45R6D) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [Van Halen \(Remastered\)](https://open.spotify.com/album/7DdEbYFPKTZ8KB4z6L4UnQ) | 3:34 |
 | 27 | [Bat Country](https://open.spotify.com/track/3sHH7lklbfpcraDDvYnjo7) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [City of Evil](https://open.spotify.com/album/55tK4Ab7XHTOKkw0xDz3AA) | 5:11 |
 | 28 | [Blind](https://open.spotify.com/track/1pr9TZGOXeJUggIal1Wq3R) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Korn](https://open.spotify.com/album/7D3XFJlfZIkmGWqZXm2X8z) | 4:18 |
 | 29 | [You've Got Another Thing Coming](https://open.spotify.com/track/4f3RDq9nYPBeR1yMSgnmBm) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Screaming For Vengeance \(Expanded Edition\)](https://open.spotify.com/album/55MZQrenomrTq0aQneC7Pi) | 5:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSEar7YuhxIt.md) - [plain]
 | 49 | [No More Mr\. Nice Guy](https://open.spotify.com/track/5D2eCwqbHcqOnfHOCM6TnV) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Billion Dollar Babies \(Deluxe Reissue\)](https://open.spotify.com/album/4SlY4oyiPg6At7vyouZ7ep) | 3:07 |
 | 50 | [Madhouse](https://open.spotify.com/track/76BYv24CcZt2u94JRjmATX) | [Anthrax](https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP) | [Spreading The Disease](https://open.spotify.com/album/0qEFMrunmeRHqzI9xAnu9L) | 4:19 |
 
-Snapshot ID: `MTY0OTc5NjIyNywwMDAwMDAwMDJlZmU3ODg2ZTAxY2NiNTVkNWVhNDRlNGJiZjQ2ZDI3`
+Snapshot ID: `MTY0OTc5NjIyNywwMDAwMDAwMDgxMzZkYWIwZTI5YTRmYjNiYWVkNGJjYjFmOWRhZGY2`

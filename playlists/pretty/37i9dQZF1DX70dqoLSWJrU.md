@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70dqoLSWJrU.md) - [plain]
 
 > Heartbreaking and sad instrumental and vocal Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,015 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,088 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,9 +69,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70dqoLSWJrU.md) - [plain]
 | 59 | [Lover Man](https://open.spotify.com/track/3rnxTrbJ23PQ0g4NNVadru) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Sarah Vaughan's Golden Hits](https://open.spotify.com/album/6pZ5dSsfNRSuMV9RcMyfwU) | 3:16 |
 | 60 | [You Turned The Tables On Me](https://open.spotify.com/track/1Aa2phci2wSI0PWyoESUJA) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Solitude](https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp) | 3:26 |
 | 61 | [If I Had You](https://open.spotify.com/track/6nNE5beP6eFlJi5IibOcQw) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [All For You \(A Dedication To The Nat King Cole Trio\)](https://open.spotify.com/album/2LYiJRZef5U6fmTH7hfsAg) | 4:57 |
-| 62 | [What's New](https://open.spotify.com/track/6iUmixPxVD6SacLhATYace) | [Helen Merrill](https://open.spotify.com/artist/4JHlHSUko0ivu6fXYT8J2q) | [Helen Merill](https://open.spotify.com/album/5ilzjsH4ER5ZaytJwnmn3C) | 5:01 |
-| 63 | [After You've Gone](https://open.spotify.com/track/6D0AvLMvmAWXzYqGQK1Uh4) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Rhythm Is My Business](https://open.spotify.com/album/2YmioRpHchcSObTv10OkEu) | 4:18 |
-| 64 | [Gone With the Wind](https://open.spotify.com/track/6LK7pPcnOyFrgnisXJ84gn) | [Betty Carter](https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ), [Ray Bryant](https://open.spotify.com/artist/617L0tV5Y7lMvUHGHR43AR) | [Social Call](https://open.spotify.com/album/7MGttcftncXXItvutjK9dM) | 4:11 |
+| 62 | [Gone With the Wind](https://open.spotify.com/track/6LK7pPcnOyFrgnisXJ84gn) | [Betty Carter](https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ), [Ray Bryant](https://open.spotify.com/artist/617L0tV5Y7lMvUHGHR43AR) | [Social Call](https://open.spotify.com/album/7MGttcftncXXItvutjK9dM) | 4:11 |
+| 63 | [What's New](https://open.spotify.com/track/6iUmixPxVD6SacLhATYace) | [Helen Merrill](https://open.spotify.com/artist/4JHlHSUko0ivu6fXYT8J2q) | [Helen Merill](https://open.spotify.com/album/5ilzjsH4ER5ZaytJwnmn3C) | 5:01 |
+| 64 | [After You've Gone](https://open.spotify.com/track/6D0AvLMvmAWXzYqGQK1Uh4) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Rhythm Is My Business](https://open.spotify.com/album/2YmioRpHchcSObTv10OkEu) | 4:18 |
 | 65 | [Where Are You? \- Remastered](https://open.spotify.com/track/1wVLaNc1qRgI56HWauLFee) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Where Are You? \(Remastered\)](https://open.spotify.com/album/1at99XgjdjaKVcQajGq3G1) | 3:30 |
 | 66 | [Who Can I Turn To \(When Nobody Needs Me\)](https://open.spotify.com/track/6wWkyosk7WllIpzUs5SliP) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb) | [Gentle Is My Love](https://open.spotify.com/album/4R0LaX0MM3yiIPARgFypaA) | 2:42 |
 | 67 | [Too Young To Go Steady \- Remastered](https://open.spotify.com/track/0D1LMx0zya1EXlj4F9l6Mg) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Night Lights](https://open.spotify.com/album/5kQfbxLa8K9n8zYHXJQ7Zx) | 2:52 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70dqoLSWJrU.md) - [plain]
 | 99 | [Fine And Mellow](https://open.spotify.com/track/1QdQ4r05QWhtcTTXOgRtyA) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Billie Holiday](https://open.spotify.com/album/4MkdTflpaaGGcXb5vtOYRs) | 3:16 |
 | 100 | [Lover, Come Back To Me](https://open.spotify.com/track/27SVIQdbsAqZkTqpEnNmQ5) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Billie Holiday](https://open.spotify.com/album/4MkdTflpaaGGcXb5vtOYRs) | 3:15 |
 
-Snapshot ID: `MTY2MzMxNDg1MywwMDAwMDAwMDdkNzA3ZWUyN2IwNGUzY2QyM2M0MDliNDExZDcyZGFm`
+Snapshot ID: `MTY2MzMxNDg1MywwMDAwMDAwMDk4M2Q1ZTA1MTZiMzVmODYxMWQ5YmVmYjcxMDAwOGEy`

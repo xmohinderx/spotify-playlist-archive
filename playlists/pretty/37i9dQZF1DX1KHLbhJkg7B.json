@@ -1,12 +1,12 @@
 {
   "description": "Unique versions of hit songs by other artists. Cover: Ashley McBryde",
-  "num_followers": 77640,
+  "num_followers": 77703,
   "original_name": "Country Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMDg4MTIwYTY4M2QxMjY5ZTkzODJhMGExN2IzNGI0NDA1",
+  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMDk4NGJiYWJjMTMyZDE5MmUwZDkwYmZjMWYxNzE3MjQ3",
   "tracks": [
     {
       "added_at": "2022-09-16 04:00:00",
@@ -459,22 +459,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Grandpa (Tell Me 'bout the Good Old Days)",
-        "url": "https://open.spotify.com/album/69gvhvwY7jEIwYi0MahrtD"
-      },
-      "artists": [
-        {
-          "name": "Dave Fenley",
-          "url": "https://open.spotify.com/artist/6qGu24WJrspRNLeieoWQai"
-        }
-      ],
-      "duration_ms": 225119,
-      "name": "Grandpa (Tell Me 'bout the Good Old Days)",
-      "url": "https://open.spotify.com/track/1XhDpX7rrCFrI3ExwrNoU3"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Vienna",
         "url": "https://open.spotify.com/album/7y83ATsotdhOR8adq6fobK"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 189000,
       "name": "Vienna",
       "url": "https://open.spotify.com/track/1I9htETbx6XBkh0kyCz5uW"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Grandpa (Tell Me 'bout the Good Old Days)",
+        "url": "https://open.spotify.com/album/69gvhvwY7jEIwYi0MahrtD"
+      },
+      "artists": [
+        {
+          "name": "Dave Fenley",
+          "url": "https://open.spotify.com/artist/6qGu24WJrspRNLeieoWQai"
+        }
+      ],
+      "duration_ms": 225119,
+      "name": "Grandpa (Tell Me 'bout the Good Old Days)",
+      "url": "https://open.spotify.com/track/1XhDpX7rrCFrI3ExwrNoU3"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -931,22 +931,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "I Don't Want To Miss A Thing",
-        "url": "https://open.spotify.com/album/4I8szVY9j0NJAOz7tmnZVy"
-      },
-      "artists": [
-        {
-          "name": "Mark Chesnutt",
-          "url": "https://open.spotify.com/artist/2cNV8vNe2fPFf6OfGOBbSS"
-        }
-      ],
-      "duration_ms": 246226,
-      "name": "I Don't Want To Miss A Thing",
-      "url": "https://open.spotify.com/track/3FN7JMZaaQ9lSzIaan0YZ1"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Circles",
         "url": "https://open.spotify.com/album/6hFwcjXV8jE2lzOn32uAlK"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 194459,
       "name": "Circles",
       "url": "https://open.spotify.com/track/5woKIzrEkkeOvfaNFagz4c"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "I Don't Want To Miss A Thing",
+        "url": "https://open.spotify.com/album/4I8szVY9j0NJAOz7tmnZVy"
+      },
+      "artists": [
+        {
+          "name": "Mark Chesnutt",
+          "url": "https://open.spotify.com/artist/2cNV8vNe2fPFf6OfGOBbSS"
+        }
+      ],
+      "duration_ms": 246226,
+      "name": "I Don't Want To Miss A Thing",
+      "url": "https://open.spotify.com/track/3FN7JMZaaQ9lSzIaan0YZ1"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Make Me Want To",
-        "url": "https://open.spotify.com/album/2rb2vdtPBkHPzqw05jbQAU"
-      },
-      "artists": [
-        {
-          "name": "Maoli",
-          "url": "https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA"
-        }
-      ],
-      "duration_ms": 175227,
-      "name": "Make Me Want To",
-      "url": "https://open.spotify.com/track/5qzSSqOzkNTLr6NPtH4xtD"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Re-Dunn",
         "url": "https://open.spotify.com/album/3SgV10W3DzqU9ROOMSpxfo"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 216786,
       "name": "Long Cool Woman (In a Black Dress)",
       "url": "https://open.spotify.com/track/5w2rSFE0Z04cM5lARu56iu"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Make Me Want To",
+        "url": "https://open.spotify.com/album/2rb2vdtPBkHPzqw05jbQAU"
+      },
+      "artists": [
+        {
+          "name": "Maoli",
+          "url": "https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA"
+        }
+      ],
+      "duration_ms": 175227,
+      "name": "Make Me Want To",
+      "url": "https://open.spotify.com/track/5qzSSqOzkNTLr6NPtH4xtD"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Kellyoke",
-        "url": "https://open.spotify.com/album/6NHAQ0pGd5ufv61Irqdpmi"
-      },
-      "artists": [
-        {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
-        }
-      ],
-      "duration_ms": 232005,
-      "name": "Blue Bayou",
-      "url": "https://open.spotify.com/track/3w67gvawlNpzU1YiP355OM"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Hallelujah",
         "url": "https://open.spotify.com/album/0s4mjch2kYLFQQNbgPNbuE"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 229574,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/0wDRNOFe1nzWFDQc5FoKk1"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Kellyoke",
+        "url": "https://open.spotify.com/album/6NHAQ0pGd5ufv61Irqdpmi"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "duration_ms": 232005,
+      "name": "Blue Bayou",
+      "url": "https://open.spotify.com/track/3w67gvawlNpzU1YiP355OM"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Nobody Knows",
-        "url": "https://open.spotify.com/album/5HneOaxBGbFAwZR1tvLImP"
-      },
-      "artists": [
-        {
-          "name": "Rayne Johnson",
-          "url": "https://open.spotify.com/artist/3Zo19GTbgk9V6yCLrIfsxt"
-        }
-      ],
-      "duration_ms": 223253,
-      "name": "Nobody Knows",
-      "url": "https://open.spotify.com/track/7kty8TspGq6DFI7LP91Kfh"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Uncovered",
         "url": "https://open.spotify.com/album/5hs99gvzSISGOEmncgy853"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 210013,
       "name": "Send My Love (To Your New Lover)",
       "url": "https://open.spotify.com/track/5U2HfXfIm9li9FK6F38hTS"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Nobody Knows",
+        "url": "https://open.spotify.com/album/5HneOaxBGbFAwZR1tvLImP"
+      },
+      "artists": [
+        {
+          "name": "Rayne Johnson",
+          "url": "https://open.spotify.com/artist/3Zo19GTbgk9V6yCLrIfsxt"
+        }
+      ],
+      "duration_ms": 223253,
+      "name": "Nobody Knows",
+      "url": "https://open.spotify.com/track/7kty8TspGq6DFI7LP91Kfh"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1555,18 +1555,22 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Acoustic Covers (Deluxe)",
-        "url": "https://open.spotify.com/album/2tSbrXGTWwgkNnXD6LCABm"
+        "name": "If We Were Vampires",
+        "url": "https://open.spotify.com/album/5DkrmJBS8N5ZAdEbQnrIBK"
       },
       "artists": [
         {
-          "name": "Warren Zeiders",
-          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+          "name": "Motel Drive",
+          "url": "https://open.spotify.com/artist/504hnDW2yy7YSCbyExbKmD"
+        },
+        {
+          "name": "Poor Mans Poison",
+          "url": "https://open.spotify.com/artist/0YHgnSkV3S5mvSSCTRWDi5"
         }
       ],
-      "duration_ms": 271771,
-      "name": "Simple Man",
-      "url": "https://open.spotify.com/track/57bSzHwlhpD6N6vS81P0DV"
+      "duration_ms": 253370,
+      "name": "If We Were Vampires",
+      "url": "https://open.spotify.com/track/64PHZr3ufu3RxD9pE0ajJM"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1603,22 +1607,18 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "If We Were Vampires",
-        "url": "https://open.spotify.com/album/5DkrmJBS8N5ZAdEbQnrIBK"
+        "name": "Acoustic Covers (Deluxe)",
+        "url": "https://open.spotify.com/album/2tSbrXGTWwgkNnXD6LCABm"
       },
       "artists": [
         {
-          "name": "Motel Drive",
-          "url": "https://open.spotify.com/artist/504hnDW2yy7YSCbyExbKmD"
-        },
-        {
-          "name": "Poor Mans Poison",
-          "url": "https://open.spotify.com/artist/0YHgnSkV3S5mvSSCTRWDi5"
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
         }
       ],
-      "duration_ms": 253370,
-      "name": "If We Were Vampires",
-      "url": "https://open.spotify.com/track/64PHZr3ufu3RxD9pE0ajJM"
+      "duration_ms": 271771,
+      "name": "Simple Man",
+      "url": "https://open.spotify.com/track/57bSzHwlhpD6N6vS81P0DV"
     },
     {
       "added_at": "2022-09-16 04:00:00",

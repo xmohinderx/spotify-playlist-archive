@@ -1,12 +1,12 @@
 {
   "description": "Tesoros musicales del ayer.",
-  "num_followers": 485083,
+  "num_followers": 485649,
   "original_name": "Viejitas pero Bonitas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzgxNDM5OSwwMDAwMDAwMGNlZDljY2U5NmU3MGM0ZGZiMWQwOGNhMjUyOTRiMGY0",
+  "snapshot_id": "MTY1NzgxNDM5OSwwMDAwMDAwMGNlYWY0OTdhMjY3ZjdkODc5MDFlYjc0NDQ2NDAwOTYy",
   "tracks": [
     {
       "added_at": "2021-04-22 14:20:49",
@@ -915,6 +915,22 @@
     {
       "added_at": "2021-04-22 14:20:49",
       "album": {
+        "name": "Idolos de Argentina",
+        "url": "https://open.spotify.com/album/6HZIFGEz6mZfrXrCkAlhMI"
+      },
+      "artists": [
+        {
+          "name": "King Clave",
+          "url": "https://open.spotify.com/artist/71FVpPyLHxYTn3CfUOJq7f"
+        }
+      ],
+      "duration_ms": 222876,
+      "name": "Mi Corazon Lloro",
+      "url": "https://open.spotify.com/track/1F7nHrOiTvO6pgWX7NnHdO"
+    },
+    {
+      "added_at": "2021-04-22 14:20:49",
+      "album": {
         "name": "Disco De Oro: Baladas, Vol. 1",
         "url": "https://open.spotify.com/album/4BqbJnEBxaFr21syHgr6bc"
       },
@@ -935,22 +951,6 @@
     {
       "added_at": "2021-04-22 14:20:49",
       "album": {
-        "name": "Idolos de Argentina",
-        "url": "https://open.spotify.com/album/6HZIFGEz6mZfrXrCkAlhMI"
-      },
-      "artists": [
-        {
-          "name": "King Clave",
-          "url": "https://open.spotify.com/artist/71FVpPyLHxYTn3CfUOJq7f"
-        }
-      ],
-      "duration_ms": 222876,
-      "name": "Mi Corazon Lloro",
-      "url": "https://open.spotify.com/track/1F7nHrOiTvO6pgWX7NnHdO"
-    },
-    {
-      "added_at": "2021-04-22 14:20:49",
-      "album": {
         "name": "Mudanzas",
         "url": "https://open.spotify.com/album/3iQaYoL4kryRUEHChDAm54"
       },
@@ -967,18 +967,18 @@
     {
       "added_at": "2021-04-22 14:20:49",
       "album": {
-        "name": "El Principe Con Trio Vol. 2",
-        "url": "https://open.spotify.com/album/5OHGeZumv8Pkck1tfcsAc8"
+        "name": "Serie Diamante (USA)",
+        "url": "https://open.spotify.com/album/2fgUn3x6HujXAP2AXxMoer"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+          "name": "Los Solitarios",
+          "url": "https://open.spotify.com/artist/5oXtNxxScsHb1cRjqqfcMj"
         }
       ],
-      "duration_ms": 241666,
-      "name": "El Triste",
-      "url": "https://open.spotify.com/track/5gxK5Dkfg0lINAUfzIDRO6"
+      "duration_ms": 173506,
+      "name": "Mi amor es para ti",
+      "url": "https://open.spotify.com/track/7pVViW51vp66dqaBRkmAv7"
     },
     {
       "added_at": "2021-04-22 14:20:49",
@@ -995,22 +995,6 @@
       "duration_ms": 182999,
       "name": "Recuerdos de una Noche",
       "url": "https://open.spotify.com/track/1HvnEWOy2ykY8sJa2K6y7s"
-    },
-    {
-      "added_at": "2021-04-22 14:20:49",
-      "album": {
-        "name": "Serie Diamante (USA)",
-        "url": "https://open.spotify.com/album/2fgUn3x6HujXAP2AXxMoer"
-      },
-      "artists": [
-        {
-          "name": "Los Solitarios",
-          "url": "https://open.spotify.com/artist/5oXtNxxScsHb1cRjqqfcMj"
-        }
-      ],
-      "duration_ms": 173506,
-      "name": "Mi amor es para ti",
-      "url": "https://open.spotify.com/track/7pVViW51vp66dqaBRkmAv7"
     },
     {
       "added_at": "2021-04-22 14:20:49",
@@ -1123,6 +1107,22 @@
       "duration_ms": 275600,
       "name": "Quererte a Ti",
       "url": "https://open.spotify.com/track/4dRr0TfZQmZF2waLzRzoQo"
+    },
+    {
+      "added_at": "2021-04-22 14:20:49",
+      "album": {
+        "name": "15 Exitos De Oro",
+        "url": "https://open.spotify.com/album/4OP48ZU8qUYanvwyTLAvrt"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "duration_ms": 256200,
+      "name": "El Triste",
+      "url": "https://open.spotify.com/track/6HgUhIiqCepGzgb4nuses6"
     },
     {
       "added_at": "2021-04-22 14:20:49",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2021-04-22 14:20:49",
       "album": {
-        "name": "Por Una Mujer",
-        "url": "https://open.spotify.com/album/7nsnSpfQp5tpELjZwWmcyg"
-      },
-      "artists": [
-        {
-          "name": "Julio Iglesias",
-          "url": "https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5"
-        }
-      ],
-      "duration_ms": 172706,
-      "name": "Rio Rebelde",
-      "url": "https://open.spotify.com/track/2PSotAVp5KY6HBEhlRzwvV"
-    },
-    {
-      "added_at": "2021-04-22 14:20:49",
-      "album": {
         "name": "Grandes \u00c9xitos Vol.2",
         "url": "https://open.spotify.com/album/73HgDlnXFSEWv7qmKDogeN"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 160835,
       "name": "La Historia de Tommy",
       "url": "https://open.spotify.com/track/1LZZNt7iehSyCtsBvEk4EZ"
+    },
+    {
+      "added_at": "2021-04-22 14:20:49",
+      "album": {
+        "name": "Por Una Mujer",
+        "url": "https://open.spotify.com/album/7nsnSpfQp5tpELjZwWmcyg"
+      },
+      "artists": [
+        {
+          "name": "Julio Iglesias",
+          "url": "https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5"
+        }
+      ],
+      "duration_ms": 172706,
+      "name": "Rio Rebelde",
+      "url": "https://open.spotify.com/track/2PSotAVp5KY6HBEhlRzwvV"
     },
     {
       "added_at": "2021-04-22 14:20:49",
@@ -1401,22 +1401,6 @@
       "url": "https://open.spotify.com/track/1Ag6NwYwfBxZuNixLMT5a8"
     },
     {
-      "added_at": "2021-04-22 14:20:49",
-      "album": {
-        "name": "La M\u00e1s Completa Colecci\u00f3n",
-        "url": "https://open.spotify.com/album/4JUkSVuOwbbMwCXETe6qa0"
-      },
-      "artists": [
-        {
-          "name": "Victor Yturbe \"El Piruli\"",
-          "url": "https://open.spotify.com/artist/288DN4mD1eyvKyVz8So3HB"
-        }
-      ],
-      "duration_ms": 190533,
-      "name": "Mi\u00e9nteme",
-      "url": "https://open.spotify.com/track/75B5ZKWxccZztF9x76RKXt"
-    },
-    {
       "added_at": "2022-07-14 15:59:59",
       "album": {
         "name": "Todo Lo Mio",
@@ -1431,6 +1415,22 @@
       "duration_ms": 213453,
       "name": "El Hombre Que Yo Amo",
       "url": "https://open.spotify.com/track/5OtonpNWhoAw9z3wRwM2TC"
+    },
+    {
+      "added_at": "2021-04-22 14:20:49",
+      "album": {
+        "name": "La M\u00e1s Completa Colecci\u00f3n",
+        "url": "https://open.spotify.com/album/4JUkSVuOwbbMwCXETe6qa0"
+      },
+      "artists": [
+        {
+          "name": "Victor Yturbe \"El Piruli\"",
+          "url": "https://open.spotify.com/artist/288DN4mD1eyvKyVz8So3HB"
+        }
+      ],
+      "duration_ms": 190533,
+      "name": "Mi\u00e9nteme",
+      "url": "https://open.spotify.com/track/75B5ZKWxccZztF9x76RKXt"
     },
     {
       "added_at": "2021-04-22 14:20:49",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2021-04-22 14:20:49",
       "album": {
-        "name": "Leyendas Solamente Los Mejores",
-        "url": "https://open.spotify.com/album/0jHKZrqqHTc6uZIwYgKZbJ"
-      },
-      "artists": [
-        {
-          "name": "Enrique Guzman",
-          "url": "https://open.spotify.com/artist/4FeDV8T2wgjzYKBamSp7MG"
-        }
-      ],
-      "duration_ms": 202160,
-      "name": "Acomp\u00e1\u00f1ame",
-      "url": "https://open.spotify.com/track/3puWDsQy9x6GLKQMJjcrlj"
-    },
-    {
-      "added_at": "2021-04-22 14:20:49",
-      "album": {
         "name": "Mi Pueblo",
         "url": "https://open.spotify.com/album/3X6vNPToCXfZcdLVIGaJk2"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 152711,
       "name": "Mi Pueblo",
       "url": "https://open.spotify.com/track/3SSOvO40lo6wmz8r0Kt3M1"
+    },
+    {
+      "added_at": "2021-04-22 14:20:49",
+      "album": {
+        "name": "Leyendas Solamente Los Mejores",
+        "url": "https://open.spotify.com/album/0jHKZrqqHTc6uZIwYgKZbJ"
+      },
+      "artists": [
+        {
+          "name": "Enrique Guzman",
+          "url": "https://open.spotify.com/artist/4FeDV8T2wgjzYKBamSp7MG"
+        }
+      ],
+      "duration_ms": 202160,
+      "name": "Acomp\u00e1\u00f1ame",
+      "url": "https://open.spotify.com/track/3puWDsQy9x6GLKQMJjcrlj"
     },
     {
       "added_at": "2021-04-22 14:20:49",
@@ -1615,18 +1615,18 @@
     {
       "added_at": "2021-04-22 14:20:49",
       "album": {
-        "name": "Solo Para Ti",
-        "url": "https://open.spotify.com/album/3LRXbYxa6LgY8W7jUHYNnk"
+        "name": "Lo Mejor de Massiel",
+        "url": "https://open.spotify.com/album/44JyWGnSQObZVILBVQ4hnF"
       },
       "artists": [
         {
-          "name": "Los Strwck",
-          "url": "https://open.spotify.com/artist/6ZzvGogdwGvqkTeDX1RDKL"
+          "name": "Massiel",
+          "url": "https://open.spotify.com/artist/7gAcNqHWOMnqnsTBjq7v0T"
         }
       ],
-      "duration_ms": 181586,
-      "name": "Quien",
-      "url": "https://open.spotify.com/track/3gcDZpRcPnRgmP3EguPv6K"
+      "duration_ms": 227640,
+      "name": "Rosas en el Mar",
+      "url": "https://open.spotify.com/track/1CzxmV2RMlY7RoYN6Jd85S"
     }
   ],
   "unique_name": "Viejitas pero Bonitas",

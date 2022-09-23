@@ -1,12 +1,12 @@
 {
   "description": "Smooth soul-inspired tracks ",
-  "num_followers": 2319,
+  "num_followers": 2329,
   "original_name": "Cocoa Butter ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzU3MjgxOCwwMDAwMDAwMDQ1NTgyYWFhZTlmNzgyODQ3ZTQ1MzE0MDFmZTMxZDBm",
+  "snapshot_id": "MTY2MzU3MjgxOCwwMDAwMDAwMDIxOGQwZTA0YTZlNmI2MWYzOWU0ZDBkNGE0YWJiZWYz",
   "tracks": [
     {
       "added_at": "2022-07-28 23:00:00",
@@ -593,22 +593,6 @@
       "url": "https://open.spotify.com/track/67v2UHujFruxWrDmjPYxD6"
     },
     {
-      "added_at": "2022-06-24 06:21:37",
-      "album": {
-        "name": "Give Or Take",
-        "url": "https://open.spotify.com/album/64LkgCfNbLqjclQYCTid8L"
-      },
-      "artists": [
-        {
-          "name": "Giveon",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
-        }
-      ],
-      "duration_ms": 178264,
-      "name": "Scarred",
-      "url": "https://open.spotify.com/track/5PSYn0XVImstXPFFDtajEK"
-    },
-    {
       "added_at": "2022-09-19 07:33:37",
       "album": {
         "name": "Bad To Me",
@@ -623,6 +607,22 @@
       "duration_ms": 176850,
       "name": "Bad To Me",
       "url": "https://open.spotify.com/track/2pUlBBWq8R10ylbBvZJV9j"
+    },
+    {
+      "added_at": "2022-06-24 06:21:37",
+      "album": {
+        "name": "Give Or Take",
+        "url": "https://open.spotify.com/album/64LkgCfNbLqjclQYCTid8L"
+      },
+      "artists": [
+        {
+          "name": "Giveon",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "duration_ms": 178264,
+      "name": "Scarred",
+      "url": "https://open.spotify.com/track/5PSYn0XVImstXPFFDtajEK"
     },
     {
       "added_at": "2022-06-24 06:21:37",
@@ -717,30 +717,6 @@
       "url": "https://open.spotify.com/track/60gTdTwaNtGAzIxKfeGVfJ"
     },
     {
-      "added_at": "2022-09-02 08:51:16",
-      "album": {
-        "name": "SETE (feat. Young Stunna & Blxckie)",
-        "url": "https://open.spotify.com/album/7ceVgKif2FV49HL1u7qxlG"
-      },
-      "artists": [
-        {
-          "name": "K.O",
-          "url": "https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z"
-        },
-        {
-          "name": "Young Stunna",
-          "url": "https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ"
-        },
-        {
-          "name": "Blxckie",
-          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
-        }
-      ],
-      "duration_ms": 249533,
-      "name": "SETE (feat. Young Stunna & Blxckie)",
-      "url": "https://open.spotify.com/track/5mXZz0tXIToxu3HRohrdSK"
-    },
-    {
       "added_at": "2022-06-24 06:21:37",
       "album": {
         "name": "Essence (feat. Justin Bieber & Tems)",
@@ -765,24 +741,28 @@
       "url": "https://open.spotify.com/track/1mSdbey7RstGLY2udgXv74"
     },
     {
-      "added_at": "2022-07-07 23:00:00",
+      "added_at": "2022-09-02 08:51:16",
       "album": {
-        "name": "WASTELAND",
-        "url": "https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg"
+        "name": "SETE (feat. Young Stunna & Blxckie)",
+        "url": "https://open.spotify.com/album/7ceVgKif2FV49HL1u7qxlG"
       },
       "artists": [
         {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+          "name": "K.O",
+          "url": "https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z"
         },
         {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+          "name": "Young Stunna",
+          "url": "https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ"
+        },
+        {
+          "name": "Blxckie",
+          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
         }
       ],
-      "duration_ms": 198005,
-      "name": "GHETTO GATSBY (FEAT. ALICIA KEYS)",
-      "url": "https://open.spotify.com/track/2krESug6AyfOL07tlaGwts"
+      "duration_ms": 249533,
+      "name": "SETE (feat. Young Stunna & Blxckie)",
+      "url": "https://open.spotify.com/track/5mXZz0tXIToxu3HRohrdSK"
     },
     {
       "added_at": "2022-06-24 06:21:37",
@@ -819,6 +799,26 @@
       "duration_ms": 147600,
       "name": "Love Don't Cost A Dime (Re-Up)",
       "url": "https://open.spotify.com/track/0hW02S9ACVYANz1ica10jH"
+    },
+    {
+      "added_at": "2022-07-07 23:00:00",
+      "album": {
+        "name": "WASTELAND",
+        "url": "https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        },
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "duration_ms": 198005,
+      "name": "GHETTO GATSBY (FEAT. ALICIA KEYS)",
+      "url": "https://open.spotify.com/track/2krESug6AyfOL07tlaGwts"
     },
     {
       "added_at": "2022-06-24 06:21:37",
@@ -929,30 +929,6 @@
       "url": "https://open.spotify.com/track/6zIen2DYr2t19vbwqgORY2"
     },
     {
-      "added_at": "2022-06-24 06:21:37",
-      "album": {
-        "name": "Wasting Time ( feat. Drake & The Neptunes )",
-        "url": "https://open.spotify.com/album/2brWccDLT5vREu0FxqH6Az"
-      },
-      "artists": [
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "The Neptunes",
-          "url": "https://open.spotify.com/artist/0KuF7reCTOZwV7YJnHQqgr"
-        }
-      ],
-      "duration_ms": 301304,
-      "name": "Wasting Time ( feat. Drake & The Neptunes )",
-      "url": "https://open.spotify.com/track/48WidxP9CqyYtk97pwGZ3c"
-    },
-    {
       "added_at": "2022-07-22 04:39:56",
       "album": {
         "name": "If I Get Caught",
@@ -1003,6 +979,30 @@
       "duration_ms": 230721,
       "name": "Time N Affection",
       "url": "https://open.spotify.com/track/0aMOalD335v1hsSXmLURzz"
+    },
+    {
+      "added_at": "2022-06-24 06:21:37",
+      "album": {
+        "name": "Wasting Time ( feat. Drake & The Neptunes )",
+        "url": "https://open.spotify.com/album/2brWccDLT5vREu0FxqH6Az"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "The Neptunes",
+          "url": "https://open.spotify.com/artist/0KuF7reCTOZwV7YJnHQqgr"
+        }
+      ],
+      "duration_ms": 301304,
+      "name": "Wasting Time ( feat. Drake & The Neptunes )",
+      "url": "https://open.spotify.com/track/48WidxP9CqyYtk97pwGZ3c"
     },
     {
       "added_at": "2022-06-24 06:21:37",
@@ -1065,22 +1065,6 @@
       "url": "https://open.spotify.com/track/5l6ZVWdSdot8a1FjPBiXvz"
     },
     {
-      "added_at": "2022-06-24 06:21:37",
-      "album": {
-        "name": "WE (Warm Embrace)",
-        "url": "https://open.spotify.com/album/25OWLDhL6VjUn6ZqUqWVoV"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 234966,
-      "name": "WE (Warm Embrace)",
-      "url": "https://open.spotify.com/track/7rTzmiwE6lmBG8vQvBzNg7"
-    },
-    {
       "added_at": "2022-08-26 09:38:47",
       "album": {
         "name": "Bad Since '97",
@@ -1099,6 +1083,22 @@
       "duration_ms": 227328,
       "name": "Many Ways (feat. Wizkid)",
       "url": "https://open.spotify.com/track/0lWW0X74IvjNlgY5glykvY"
+    },
+    {
+      "added_at": "2022-06-24 06:21:37",
+      "album": {
+        "name": "WE (Warm Embrace)",
+        "url": "https://open.spotify.com/album/25OWLDhL6VjUn6ZqUqWVoV"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 234966,
+      "name": "WE (Warm Embrace)",
+      "url": "https://open.spotify.com/track/7rTzmiwE6lmBG8vQvBzNg7"
     },
     {
       "added_at": "2022-06-24 06:21:37",

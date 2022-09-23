@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uM1d8KwMtp.md) - [plain]
 
 > <a href="spotify:artist:1aIWC7EGIcWotOZ8LNHH9j">Jad Halal</a>'s favorite tracks\. Updated regularly\. Curated by Jad Halal\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,384 likes - 55 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,428 likes - 55 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uM1d8KwMtp.md) - [plain]
 | 3 | [Force](https://open.spotify.com/track/3y2b7uFFbUgtTFeh4TKHAp) | [Laolu](https://open.spotify.com/artist/53PSeUFq8tMZc0zdd1oUTG) | [Force EP](https://open.spotify.com/album/3Vj7hxsIOeERxTr7lroS5P) | 7:34 |
 | 4 | [Osama](https://open.spotify.com/track/0T0FIfA0AI3ELwNVBSZNS3) | [Zakes Bantwini](https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL), [Kasango](https://open.spotify.com/artist/3jteNJj8zf2v4qYMGDXa8r) | [Ghetto King](https://open.spotify.com/album/3q8v4F3zabaHlG5IVECT6r) | 6:49 |
 | 5 | [Anchor Point](https://open.spotify.com/track/38VyljyWXnVxtYWSiH5Hzc) | [Ahmed Spins](https://open.spotify.com/artist/4jercY4pUhY6jB8eQjpVJV), [Stevo Atambire](https://open.spotify.com/artist/6gbEfMzGr0anNu4sKlXZye) | [Anchor Point EP](https://open.spotify.com/album/1L8kegBtw3HkqpxTlqc1Fm) | 5:59 |
-| 6 | [How Can I Resist](https://open.spotify.com/track/54w3b8DMRcWWXSbnckLQq9) | [Parallells](https://open.spotify.com/artist/0vUlarTf6Zl87ewxRbFd9f), [Fulltone](https://open.spotify.com/artist/56SDkyON4gWd6NmWoWx8HT) | [How Can I Resist](https://open.spotify.com/album/5MjBnaVcD8NQYeXTFjcMlS) | 6:28 |
+| 6 | [How Can I Resist](https://open.spotify.com/track/54w3b8DMRcWWXSbnckLQq9) | [Parallelle](https://open.spotify.com/artist/4j2NOrZwtpyVrtrCXsKsag), [Fulltone](https://open.spotify.com/artist/56SDkyON4gWd6NmWoWx8HT) | [How Can I Resist](https://open.spotify.com/album/5MjBnaVcD8NQYeXTFjcMlS) | 6:28 |
 | 7 | [L'ame](https://open.spotify.com/track/39NtjGMLdLBqrzJUgxpPAU) | [Jad Halal](https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Ghouroub](https://open.spotify.com/album/0lgaPIausGrjLHeuY6Dz8V) | 7:03 |
 | 8 | [Who Is Themba \(Mixed\)](https://open.spotify.com/track/5rofzaLo6DzoR3TUVM8yJq) | [THEMBA](https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC) | [Herd In Ibiza \(DJ Mix\)](https://open.spotify.com/album/7r57rslWOYskZkS0YnVTzi) | 4:17 |
 | 9 | [Tataki](https://open.spotify.com/track/1vdYudatKL5iRIM7i6vkvG) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI) | [Tataki](https://open.spotify.com/album/2TIki9mmFhTGkyJM0Svses) | 5:28 |

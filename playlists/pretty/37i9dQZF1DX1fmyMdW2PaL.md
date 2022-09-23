@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1fmyMdW2PaL.md) - [plain]
 
 > Heavy, intense and aggressive tracks\. Chaotic in all the good ways\. Cover: Show Me The Body
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,599 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,741 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,19 +35,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1fmyMdW2PaL.md) - [plain]
 | 25 | [grayout](https://open.spotify.com/track/6IZ7Pg6C3vduV2gQsycrYS) | [thrown](https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt) | [grayout](https://open.spotify.com/album/00hXhNL6H4a1HJSQg9AmBS) | 2:00 |
 | 26 | [Here Comes The Boom](https://open.spotify.com/track/4XixK9sp4Rq1UbvKXZSyt4) | [Rise Of The Northstar](https://open.spotify.com/artist/5vDfbSPkurKQxpVVXALJ4K) | [The Legacy of Shi](https://open.spotify.com/album/0BcG1327bQBcg09ysnzudZ) | 4:11 |
 | 27 | [Yenta](https://open.spotify.com/track/5xI05mj56keeBC5j8sAewg) | [ten56.](https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii) | [Yenta](https://open.spotify.com/album/75Mk7bCKer2jIafSsYHjGl) | 3:09 |
-| 28 | [I'm Not](https://open.spotify.com/track/5bmxbmDia6hJvshHkzRYcb) | [Zero 9:36](https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0) | [I'm Not](https://open.spotify.com/album/5iybC75h5fhEF9jL7DDlov) | 2:43 |
-| 29 | [FAIRY METAL](https://open.spotify.com/track/2l3SCP5KWRhuKWTbi5zp0j) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [FAIRY METAL](https://open.spotify.com/album/1wIQMs7BAhTlRUS9DIh9UJ) | 2:41 |
+| 28 | [FAIRY METAL](https://open.spotify.com/track/2l3SCP5KWRhuKWTbi5zp0j) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [FAIRY METAL](https://open.spotify.com/album/1wIQMs7BAhTlRUS9DIh9UJ) | 2:41 |
+| 29 | [I'm Not](https://open.spotify.com/track/5bmxbmDia6hJvshHkzRYcb) | [Zero 9:36](https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0) | [I'm Not](https://open.spotify.com/album/5iybC75h5fhEF9jL7DDlov) | 2:43 |
 | 30 | [ATTENTION!](https://open.spotify.com/track/5w4nlSCMfNT2TdopSd0Lmu) | [WHOKILLEDXIX](https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3) | [ATTENTION!](https://open.spotify.com/album/7zM6DDsuOyzy85DMg6Ktfh) | 2:41 |
 | 31 | [It's Over](https://open.spotify.com/track/1pShlPEW4nhGQeomZLCXtL) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [It's Over](https://open.spotify.com/album/1yA0gGywa2o2KnHnvLUMq9) | 3:23 |
-| 32 | [Mind Right](https://open.spotify.com/track/4HRZod3GJM4LeC59Ytn3JC) | [Drowning Pool](https://open.spotify.com/artist/1E4r4z7ivGUcSAnCbINJ9v) | [Mind Right](https://open.spotify.com/album/2sOtTpQaKQkMAa7Sq4D1Ck) | 3:13 |
-| 33 | [.50](https://open.spotify.com/track/35oWu3XLnUn3T4MmQfFtYY) | [Varials](https://open.spotify.com/artist/6EFV3PmaXblKwNbvpkGv9l) | [.50](https://open.spotify.com/album/01e7bOKTP9eIWt03qXncju) | 3:03 |
+| 32 | [.50](https://open.spotify.com/track/35oWu3XLnUn3T4MmQfFtYY) | [Varials](https://open.spotify.com/artist/6EFV3PmaXblKwNbvpkGv9l) | [.50](https://open.spotify.com/album/01e7bOKTP9eIWt03qXncju) | 3:03 |
+| 33 | [Mind Right](https://open.spotify.com/track/4HRZod3GJM4LeC59Ytn3JC) | [Drowning Pool](https://open.spotify.com/artist/1E4r4z7ivGUcSAnCbINJ9v) | [Mind Right](https://open.spotify.com/album/2sOtTpQaKQkMAa7Sq4D1Ck) | 3:13 |
 | 34 | [Timeless](https://open.spotify.com/track/0CvpLjEpHQLsaqOsCxSEJ0) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Echo](https://open.spotify.com/album/5pCBuV5mhXIUonyuWL5EZd) | 4:06 |
 | 35 | [Devastation](https://open.spotify.com/track/7JlMigJUTnVlmXODusrtdF) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Devastation](https://open.spotify.com/album/770QyevFqrQduuJDRPtVHU) | 3:41 |
 | 36 | [Ghost](https://open.spotify.com/track/4UfJEKd1mJlHawZD35wJYo) | [Imminence](https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH) | [Heaven in Hiding](https://open.spotify.com/album/39AMnevcJVGYVhCALp1kvQ) | 4:15 |
 | 37 | [fast forward](https://open.spotify.com/track/69ohjiZNbPd0SjJFV0FwgU) | [thrown](https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt) | [fast forward](https://open.spotify.com/album/1emDcZj0GpkjOnJJRpgHXn) | 2:00 |
 | 38 | [Stay](https://open.spotify.com/track/6xoWFSJYtBP9wemRCXbnFg) | [Belmont](https://open.spotify.com/artist/6hxiY0CFXTibGUtp8TdCxp) | [Stay](https://open.spotify.com/album/4oNC3ZIGRHUP4Jhj3szhGh) | 2:18 |
-| 39 | [Salma Hayek](https://open.spotify.com/track/61Fus2laOu8yWJM1YntJCY) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [Salma Hayek](https://open.spotify.com/album/3hmU83q2m8wuNgBiqziBYP) | 3:39 |
-| 40 | [LOUD \(feat\. Jason Aalon from FEVER 333\)](https://open.spotify.com/track/7aIG8lh4xZmWqOoASAifHf) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [Jason Aalon Butler](https://open.spotify.com/artist/7fvTBshis8LPl6TrjnfOsl) | [LOUD](https://open.spotify.com/album/45soPQg7CQgBOWHgTBvIFf) | 3:28 |
+| 39 | [LOUD \(feat\. Jason Aalon from FEVER 333\)](https://open.spotify.com/track/7aIG8lh4xZmWqOoASAifHf) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [Jason Aalon Butler](https://open.spotify.com/artist/7fvTBshis8LPl6TrjnfOsl) | [LOUD](https://open.spotify.com/album/45soPQg7CQgBOWHgTBvIFf) | 3:28 |
+| 40 | [Salma Hayek](https://open.spotify.com/track/61Fus2laOu8yWJM1YntJCY) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [Salma Hayek](https://open.spotify.com/album/3hmU83q2m8wuNgBiqziBYP) | 3:39 |
 | 41 | [Forever](https://open.spotify.com/track/1G6czdqgskwJ4cBgx9CDAJ) | [Code Orange](https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK) | [Forever](https://open.spotify.com/album/2V7axnEU5HQoN9Tu5JVl4S) | 3:07 |
 | 42 | [Life Sentence](https://open.spotify.com/track/4kyUqTTodgqAivqlPSmzEa) | [Malevolence](https://open.spotify.com/artist/7KFv5Cni7kseXWHJnnejXk) | [Malicious Intent](https://open.spotify.com/album/2UrIRTSZwemmXp0vDwBrlw) | 3:17 |
 | 43 | [A Serpent's Touch](https://open.spotify.com/track/0mFaWgcWph8oldTKMnWeQW) | [Knocked Loose](https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw), [Emma Boster](https://open.spotify.com/artist/6r09lZ8Wsiyz9Vd9oo0Z1Z) | [A Different Shade of Blue](https://open.spotify.com/album/0H8pB7p68Ynf3w9AxjQW9H) | 3:02 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1fmyMdW2PaL.md) - [plain]
 | 99 | [Kickback](https://open.spotify.com/track/4i4qBfTNCD5ybes1NauU2g) | [Stray From The Path](https://open.spotify.com/artist/5tGG1slV9pkcydU5eQSIvm), [Brendan Murphy](https://open.spotify.com/artist/3ZDxRYdEJr2KgS9uyIcYym) | [Kickback](https://open.spotify.com/album/5ANP0y2xAOvpAfMkfkjOTv) | 3:27 |
 | 100 | [Reincarnate](https://open.spotify.com/track/5T0kdOTi4ThnKjq2nIPbzS) | [Witch Fever](https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1) | [Reincarnate](https://open.spotify.com/album/60xXitOtSrFl4di6wCA5V7) | 3:43 |
 
-Snapshot ID: `MTY2MzI1NjA4MiwwMDAwMDAwMDhlMTk5OWMxODhmZTQzMTQ0NzA4MDQwOGZiNzllMjg5`
+Snapshot ID: `MTY2MzI1NjA4MiwwMDAwMDAwMDU2YWMzNDc2NWU0NGE0NDRjNjZlZjg0ODQ1MWFjMGE0`

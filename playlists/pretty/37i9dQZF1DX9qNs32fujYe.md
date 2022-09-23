@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9qNs32fujYe.md) - [plain]
 
 > Heavy Metal forever\. From classics to fresh new tracks, just play it loud! Cover: Motörhead
 
-[Spotify](https://open.spotify.com/user/spotify) - 955,438 likes - 200 songs - 14 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 956,221 likes - 200 songs - 14 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

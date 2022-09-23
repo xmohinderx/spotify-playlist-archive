@@ -4,7 +4,7 @@
 
 > A fresh spin on your favourite tunes \- Instrumental lofi covers for chill, work and play.
 
-71 songs - 2 hr 54 min - [published](https://open.spotify.com/playlist/0iwVMDx4NSRh0sfP026H4E)
+73 songs - 2 hr 57 min - [published](https://open.spotify.com/playlist/0iwVMDx4NSRh0sfP026H4E)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Hotline Bling \- Lofi Version](https://open.spotify.com/track/650A1oSiTx0BIVJD5eQglO) | [Covers Unplugged](https://open.spotify.com/artist/7nh5TZodhwFh0CkAIFDDxl) | [Lo\-Fi Jams Vol\. 14](https://open.spotify.com/album/1IwWjovnVG3Ni1pr58JZkS) | 2:06 | 2022-09-02 |  |
 | [I Took a Pill in Ibiza](https://open.spotify.com/track/2UE2Kys4CeDLYmKe44GgXm) | [I Am Lofi](https://open.spotify.com/artist/330gdzZYIWN7O1gWheychm) | [I Took a Pill in Ibiza](https://open.spotify.com/album/6zjzyzBuav0MnSELLr4K0U) | 2:59 | 2022-09-02 |  |
 | [I Took A Pill In Ibiza](https://open.spotify.com/track/1E5gES1ms01jbmsqrQGIM2) | [Peaceful Melody](https://open.spotify.com/artist/6piO5Ac23WJnRQifD42dfv), [soave lofi](https://open.spotify.com/artist/0QuTX3mzksvtwoQru6tiF8) | [I Took A Pill In Ibiza](https://open.spotify.com/album/5ECbMHGv1TPtO4VfdgthB2) | 2:18 | 2022-09-02 |  |
+| [Jimmy Cooks \- Lofi Cover](https://open.spotify.com/track/0QtpzHpNX7piC7zuMFEHEK) | [Covers Unplugged](https://open.spotify.com/artist/7nh5TZodhwFh0CkAIFDDxl), [Wild Issues](https://open.spotify.com/artist/1m3Su2QS1BPQuE4SdHjb2S) | [Lo\-Fi Rap Caviar, Vol\. 4](https://open.spotify.com/album/6d59AcN0nULql52ea9ViNJ) | 1:09 | 2022-09-23 |  |
 | [Just the Way You Are](https://open.spotify.com/track/25YXuoEjxt8mPjilPh0oCu) | [Peaceful Melody](https://open.spotify.com/artist/6piO5Ac23WJnRQifD42dfv), [soave lofi](https://open.spotify.com/artist/0QuTX3mzksvtwoQru6tiF8) | [Just the Way You Are](https://open.spotify.com/album/2XsNMs7FezfBjQJRPzL8uo) | 2:48 | 2022-09-02 |  |
 | [Let Somebody Go \- Lofi Piano](https://open.spotify.com/track/1tX675Hvb2epDvicGiwP1N) | [Chilled Teddy](https://open.spotify.com/artist/5pxrX6T3917cmZHYGqyAHy) | [Let Somebody Go \(Lofi Piano\)](https://open.spotify.com/album/2sAe4Frsp2o6rlOLB4nVuM) | 2:35 | 2022-09-02 |  |
 | [Lost](https://open.spotify.com/track/2rsG3qVHOsXAIW1Qj7sdWt) | [lokash](https://open.spotify.com/artist/3TenU6iPLdqp8732iFSVQj) | [Lost](https://open.spotify.com/album/1x0vLnePrBCJOGS42E0FTY) | 3:02 | 2022-09-02 |  |
@@ -72,7 +73,8 @@
 | [sunday morning](https://open.spotify.com/track/2Kqb9yoRNsSiHZT26dg2zs) | [Billy Hammer](https://open.spotify.com/artist/5xeMVXkveG9VsUdcZweo3N) | [sunday morning](https://open.spotify.com/album/3WvUvyo7aNjOGlpFZE7nqg) | 3:43 | 2022-09-02 |  |
 | [Sunny](https://open.spotify.com/track/1LG2brYleAjyAbOgYDAjG8) | [AMV](https://open.spotify.com/artist/7lkaZYDiy9cgckUDibxHsn) | [Sunny](https://open.spotify.com/album/1a8VE2Tf2qQoEXldyBBDJz) | 2:29 | 2022-09-02 |  |
 | [The Girl From Ipanema LOFI](https://open.spotify.com/track/2DJWyNeqPNKYuWl0DaKbuX) | [Sunday Vibes](https://open.spotify.com/artist/7JKSeskk0pavgHwIGtAV8H) | [The Girl From Ipanema LOFI](https://open.spotify.com/album/47l9le8szu3caAh0n5Hlz2) | 1:59 | 2022-09-02 |  |
-| [Waterfalls](https://open.spotify.com/track/6bMbTTdcIYR6vwvkO6nkqc) | [Slowzy](https://open.spotify.com/artist/3DTvvf1uRWl4XzJdpsoERl) | [Waterfalls](https://open.spotify.com/album/4PTqPayFlbjxXceUkXtTNj) | 2:03 | 2022-09-02 |  |
+| [Umbrella](https://open.spotify.com/track/5cfUalgs5w98W14C4Lt0Xh) | [Slowzy](https://open.spotify.com/artist/3DTvvf1uRWl4XzJdpsoERl) | [Umbrella](https://open.spotify.com/album/7nhVqmRzva6w501zTLcZJn) | 1:48 | 2022-09-23 |  |
+| [Waterfalls](https://open.spotify.com/track/6bMbTTdcIYR6vwvkO6nkqc) | [Slowzy](https://open.spotify.com/artist/3DTvvf1uRWl4XzJdpsoERl) | [Waterfalls](https://open.spotify.com/album/4PTqPayFlbjxXceUkXtTNj) | 2:03 | 2022-09-02 | 2022-09-23 |
 | [Watermelon Sugar](https://open.spotify.com/track/22MIvtuAgtIwHslhKIyPyo) | [Slowzy](https://open.spotify.com/artist/3DTvvf1uRWl4XzJdpsoERl) | [Watermelon Sugar](https://open.spotify.com/album/426VKc5Es9l2G0q4IUoELZ) | 1:36 | 2022-09-02 |  |
 | [waves](https://open.spotify.com/track/7piFPg3kuRbodjCBWjUsXS) | [owlh](https://open.spotify.com/artist/0kCNNJfXF8AOSqRIC4aoza) | [waves](https://open.spotify.com/album/2r7peHnBz70EUzzSNfOan0) | 2:20 | 2022-09-02 |  |
 | [when the party's over](https://open.spotify.com/track/0gL7REEt5oI4DfvP8dJnUO) | [lokash](https://open.spotify.com/artist/3TenU6iPLdqp8732iFSVQj) | [when the party's over](https://open.spotify.com/album/1pq4TXmaQPGCmApo1HiZsT) | 2:49 | 2022-09-02 |  |

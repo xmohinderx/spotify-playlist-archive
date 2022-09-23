@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-512 songs - 1 day 2 hr 12 min - [published](https://open.spotify.com/playlist/20TNv9NLPUqb3L0SIWXCbw)
+513 songs - 1 day 2 hr 15 min - [published](https://open.spotify.com/playlist/20TNv9NLPUqb3L0SIWXCbw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Beggin'](https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Chosen](https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw) | 3:31 | 2021-06-13 | 2021-10-20 |
 | [Beklenen Gemi](https://open.spotify.com/track/1yjz7O1MxIpaShmSBiCjfD) | [Kaan Boşnak](https://open.spotify.com/artist/03cvjFEHz8eGwYHq1L0Pp2) | [Beklenen Gemi](https://open.spotify.com/album/0HyEvN6FLJzN5D3i9sKoPC) | 2:46 | 2022-02-12 | 2022-03-18 |
 | [Belki](https://open.spotify.com/track/5ATwkalJ9FnLp7Zcvxo1rl) | [Dedublüman](https://open.spotify.com/artist/5PRW6j58xEEWL4DDVEITKT), [Mavzer Tabancas](https://open.spotify.com/artist/7vyG44Uv5jGIwwm2Ha0nE0) | [Belki](https://open.spotify.com/album/62fDebT76lyROboN5cha72) | 2:43 | 2022-09-19 |  |
+| [Belki \- Akustik](https://open.spotify.com/track/5nH1QRipfAJ8Pd9rFu3xHh) | [Dedublüman](https://open.spotify.com/artist/5PRW6j58xEEWL4DDVEITKT) | [Belki](https://open.spotify.com/album/62fDebT76lyROboN5cha72) | 3:00 | 2022-09-22 |  |
 | [Belki Bir Gün Barışırız](https://open.spotify.com/track/44EWXmAtCZvLGADIrOYxnF) | [Şanışer](https://open.spotify.com/artist/5LUxu287CsPM7jy3yS3l86) | [Umut](https://open.spotify.com/album/3BdlyOtto3aobfiUiSkYMJ) | 3:28 | 2021-05-16 | 2021-05-17 |
 | [BEMBEYAZ KEFENDEN](https://open.spotify.com/track/7BdX72cipeyKWnMpkdQfmT) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [C5MODE](https://open.spotify.com/album/7wl0FR75O4TFKi6QaM4gFu) | 2:02 | 2022-03-20 | 2022-03-25 |
 | [Ben Bilmem](https://open.spotify.com/track/0V3ZiQzJE6q4jTfJjYw6Ib) | [Ebru Yaşar](https://open.spotify.com/artist/0Qbd0AGWuzggX61s306wZN) | [Gel De Sevme](https://open.spotify.com/album/6XflKqxcrRKzVzLQN0RNBZ) | 3:10 | 2021-05-10 | 2021-05-30 |
@@ -397,7 +398,7 @@
 | [ralli](https://open.spotify.com/track/7JFlVFtzAQQKXcgYRRhoKA) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [ralli](https://open.spotify.com/album/69VPGZvmt9ocr8NUPCw2Mn) | 2:19 | 2021-07-10 | 2022-04-30 |
 | [RARI](https://open.spotify.com/track/0sHrwnldYfygnxdvu0OsvH) | [Kuty](https://open.spotify.com/artist/1spo5AJ302sAMnRXUPlSy1), [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS), [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [RARI](https://open.spotify.com/album/3vMhlXmxgGIOrbJ96F4GnD) | 2:44 | 2021-06-16 | 2021-06-27 |
 | [RARRii](https://open.spotify.com/track/0RPEhK1UCgtLb9Nc97lA4R) | [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj) | [RARRii](https://open.spotify.com/album/280clOshxkGrR1Litdyu7u) | 2:47 | 2022-07-30 |  |
-| [Rastgele](https://open.spotify.com/track/0RAhUWTiBlDeSSRMmL35Aq) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz), [Kurtuluş Kuş](https://open.spotify.com/artist/4jF4tHJlYKS5Z9xdEatCfq), [Mustafa Ceceli](https://open.spotify.com/artist/3cNwyF5SboOs9icz2XyotE), [İrem Derici](https://open.spotify.com/artist/5h2jTdwf4p0dM34aBykPzZ) | [Rastgele](https://open.spotify.com/album/45Ti9P9oHIllZ96q94v8s3) | 2:17 | 2022-06-18 |  |
+| [Rastgele](https://open.spotify.com/track/0RAhUWTiBlDeSSRMmL35Aq) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz), [Kurtuluş Kuş](https://open.spotify.com/artist/4jF4tHJlYKS5Z9xdEatCfq), [Mustafa Ceceli](https://open.spotify.com/artist/3cNwyF5SboOs9icz2XyotE), [İrem Derici](https://open.spotify.com/artist/5h2jTdwf4p0dM34aBykPzZ) | [Rastgele](https://open.spotify.com/album/45Ti9P9oHIllZ96q94v8s3) | 2:17 | 2022-06-18 | 2022-09-23 |
 | [Riv Riv Riv](https://open.spotify.com/track/3HEv9gY3n9Fj2H5E2IoOKF) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [Riv Riv Riv](https://open.spotify.com/album/1JCR01kf4AWSyxUXfDU2n7) | 2:01 | 2022-01-04 | 2022-06-08 |
 | [Riv Riv Riv](https://open.spotify.com/track/6sKueU5CYJZ0xXqLyCpQB4) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [Riv Riv Riv](https://open.spotify.com/album/1e4961lFYN6lPIcXtyFQT2) | 2:01 | 2021-08-29 | 2022-01-05 |
 | [Romeo Ve Juliet](https://open.spotify.com/track/7iNYcYatvXRzCoYqD2Wlgo) | [Frxzbie](https://open.spotify.com/artist/6ZLa3FArZyL8LL5DG3RXtm) | [Arzular Ve Gözyaşları](https://open.spotify.com/album/56nPlOJB1WNKNatRwj04ot) | 2:58 | 2021-04-20 | 2021-05-16 |

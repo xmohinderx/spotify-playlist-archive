@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56qfiUZBncF.md) - [plain]
 
 > Let these innovative tracks spark your creativity and inspiration.
 
-[Spotify](https://open.spotify.com/user/spotify) - 373,628 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 373,620 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,14 +47,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56qfiUZBncF.md) - [plain]
 | 37 | [Ndokulandela](https://open.spotify.com/track/1kQjyyI3xZixtByFizxlXE) | [Bongeziwe Mabandla](https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy) | [Mangaliso](https://open.spotify.com/album/1fXiO7h7dDB3RBG13jLh8A) | 3:51 |
 | 38 | [Lose Your Head](https://open.spotify.com/track/2kU6bMVN21UbJ425q1yIKR) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Californian Soil](https://open.spotify.com/album/3wcC3Rowkgk4CffWv84sJH) | 3:19 |
 | 39 | [concrete](https://open.spotify.com/track/0fdaw54L9HswP2QVYJjnx6) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [concrete](https://open.spotify.com/album/4otlYN4uGurlL16mvgeIHT) | 3:32 |
-| 40 | [Concrete](https://open.spotify.com/track/7HGwpUzbvszA3q7pnokHkY) | [Ben Kessler](https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo) | [Concrete](https://open.spotify.com/album/4ZdyRUMRbY9plmxLjQtkF1) | 2:32 |
+| 40 | [False Art](https://open.spotify.com/track/5eBZPQjBjCRXKsu9DnfS21) | [Ben Kessler](https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [False Art](https://open.spotify.com/album/4AkKVNM05Pf48mQVhAj5SZ) | 3:03 |
 | 41 | [Trouble](https://open.spotify.com/track/3JqthBGrJH1BeV76QAq9BD) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Skin](https://open.spotify.com/album/62FYQGKcsi3nrkdicraMw7) | 3:04 |
 | 42 | [superpowerful \(with Crooked Colours\)](https://open.spotify.com/track/3KgfNzfM4LfxP2v2miNIvh) | [slenderbodies](https://open.spotify.com/artist/3S4d3YRNGg2OhnNm3QvfhA), [Crooked Colours](https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN) | [are we?](https://open.spotify.com/album/4tl1xL2MeyURq8Vk3enaze) | 3:05 |
 | 43 | [Easier](https://open.spotify.com/track/59yTEzjOYeugvF9WKAvONs) | [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s) | [Shadowboxer](https://open.spotify.com/album/1lozs5nIWjppJZWFEnfGlV) | 4:32 |
 | 44 | [Oasis](https://open.spotify.com/track/3jlFMDKI3hjKvqzXry1Yq1) | [Attom](https://open.spotify.com/artist/1Xq5wasmlEwC6TqCqJtP5o) | [Oasis](https://open.spotify.com/album/7BCdGiEPeZ3ysc0rF8PSsj) | 3:22 |
 | 45 | [Letting In](https://open.spotify.com/track/1WoJEWUPjhCTwfbOeUjoCI) | [Beauville](https://open.spotify.com/artist/4uf9PIXkZQTXqzl5gyDJLj), [NoMBe](https://open.spotify.com/artist/5Lhxlge1CR1DrgDAje8Qaw) | [Letting In](https://open.spotify.com/album/2wJq45aYneDKVLejGJmTGl) | 4:23 |
 | 46 | [Haircut](https://open.spotify.com/track/3UY4s7F4Ard3T6vm7xcJxQ) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Boy in Jeans](https://open.spotify.com/album/2JCzwyBkW4xUNs35vlG3mn) | 3:36 |
-| 47 | [False Art](https://open.spotify.com/track/5eBZPQjBjCRXKsu9DnfS21) | [Ben Kessler](https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [False Art](https://open.spotify.com/album/4AkKVNM05Pf48mQVhAj5SZ) | 3:03 |
+| 47 | [Concrete](https://open.spotify.com/track/7HGwpUzbvszA3q7pnokHkY) | [Ben Kessler](https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo) | [Concrete](https://open.spotify.com/album/4ZdyRUMRbY9plmxLjQtkF1) | 2:32 |
 | 48 | [Nighttime Hunger](https://open.spotify.com/track/4IE6Oa1YTTu0aICULOzXPn) | [Overcoats](https://open.spotify.com/artist/2pst3pDewxsl4kJERuDZpp) | [YOUNG](https://open.spotify.com/album/5X20kbbHdgPgFItjuHggIm) | 2:48 |
 | 49 | [Corners Of My Mind](https://open.spotify.com/track/0wdMcK7ejJRdi2AiY2wLGk) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [The Juice: Vol\. I](https://open.spotify.com/album/3No5rGRQefAlVJgWusDEwQ) | 3:32 |
 | 50 | [No Time](https://open.spotify.com/track/1FG2lH6gxJCX94kOg2Sozp) | [Lastlings](https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi) | [First Contact](https://open.spotify.com/album/4dCgqMWPJuBmL0BHiXwIEf) | 3:56 |
@@ -91,13 +91,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56qfiUZBncF.md) - [plain]
 | 81 | [Santa Monica](https://open.spotify.com/track/2oEyCPWce5scvt5k5eBL1M) | [Ayoni](https://open.spotify.com/artist/2Tju7nLsAMD6RTBna56hj6) | [Iridescent](https://open.spotify.com/album/7kHDeoEZxg9OfOMr13b2IU) | 3:22 |
 | 82 | [The Pines](https://open.spotify.com/track/78YCcccbjHCFBFnboEBtpg) | [Roses & Revolutions](https://open.spotify.com/artist/1EQiPk32D03HxHmExyCg9l) | [Roses & Revolutions](https://open.spotify.com/album/4OfwTpLOdw2arj9V8rN1zi) | 3:07 |
 | 83 | [Hold On](https://open.spotify.com/track/2AWmbsux3PUazslAJ1L0ML) | [ford.](https://open.spotify.com/artist/7ItbAZITSFxSy5LJChXe18), [Ayelle](https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF) | [The Color of Nothing](https://open.spotify.com/album/3T1U4lbkboCmPLvXf8iPLF) | 3:23 |
-| 84 | [Gold \- Flume Re\-Work](https://open.spotify.com/track/7oELjqBCLfUKhsR5IGCS6N) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Gold \(Flume Re\-Work\)](https://open.spotify.com/album/4DHglATZVLGvsoJHoiTxXl) | 4:27 |
-| 85 | [A Million Doubts](https://open.spotify.com/track/0QuxL88IiyWc5Dw2wAfeW1) | [Glassio](https://open.spotify.com/artist/6FK9mlh2JAB7kSBYS2CYHN) | [For The Very Last Time](https://open.spotify.com/album/2lfXUo4jtKlwpyZuAAm712) | 3:39 |
+| 84 | [A Million Doubts](https://open.spotify.com/track/0QuxL88IiyWc5Dw2wAfeW1) | [Glassio](https://open.spotify.com/artist/6FK9mlh2JAB7kSBYS2CYHN) | [For The Very Last Time](https://open.spotify.com/album/2lfXUo4jtKlwpyZuAAm712) | 3:39 |
+| 85 | [Gold \- Flume Re\-Work](https://open.spotify.com/track/7oELjqBCLfUKhsR5IGCS6N) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Gold \(Flume Re\-Work\)](https://open.spotify.com/album/4DHglATZVLGvsoJHoiTxXl) | 4:27 |
 | 86 | [Avery](https://open.spotify.com/track/31DUl7XE3OzX1IcnVG94g4) | [Oscar Welsh](https://open.spotify.com/artist/5h7aN3xfMdLwyuopfgvtST) | [Avery](https://open.spotify.com/album/643Gnd42azlZukIkuTucy6) | 3:14 |
 | 87 | [6 Letters](https://open.spotify.com/track/1MJi765hSvWGBxCoxYeQsn) | [Daktyl](https://open.spotify.com/artist/2YrfEkWJvn1wue6JqekigJ), [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [6 Letters](https://open.spotify.com/album/1hanBCpxNcew4qx4g7nME2) | 2:46 |
 | 88 | [Losing Sleep](https://open.spotify.com/track/6NBP6H1F1L5THU7DFoCNgU) | [Dylan Fraser](https://open.spotify.com/artist/6Awp6fgyzqQ2XuEvOMjq8D) | [Losing Sleep](https://open.spotify.com/album/7o8ly8OTyBXGmh050Iu3A4) | 3:42 |
-| 89 | [September Come](https://open.spotify.com/track/0xsrh1MnIju00GT8ZmEcIu) | [Moël](https://open.spotify.com/artist/4G0BLZEt6gxTlxB6fZsvTa), [The Accents](https://open.spotify.com/artist/4nbJ453Y0kDXpYVvQYq7DJ) | [September Come](https://open.spotify.com/album/7gmEibaDmaeX04sGCIPayd) | 4:00 |
-| 90 | [Winter/Fall](https://open.spotify.com/track/2s152GUETF2NZdSYYhwnk9) | [Matthew Chaim](https://open.spotify.com/artist/70JkpECHBzs79FOYemfHwk) | [The Mathematics of Nature](https://open.spotify.com/album/0uBZBBhGxyYXJCPhE2lU2W) | 6:03 |
+| 89 | [Winter/Fall](https://open.spotify.com/track/2s152GUETF2NZdSYYhwnk9) | [Matthew Chaim](https://open.spotify.com/artist/70JkpECHBzs79FOYemfHwk) | [The Mathematics of Nature](https://open.spotify.com/album/0uBZBBhGxyYXJCPhE2lU2W) | 6:03 |
+| 90 | [September Come](https://open.spotify.com/track/0xsrh1MnIju00GT8ZmEcIu) | [Moël](https://open.spotify.com/artist/4G0BLZEt6gxTlxB6fZsvTa), [The Accents](https://open.spotify.com/artist/4nbJ453Y0kDXpYVvQYq7DJ) | [September Come](https://open.spotify.com/album/7gmEibaDmaeX04sGCIPayd) | 4:00 |
 | 91 | [Trouble to Share](https://open.spotify.com/track/2Z4TNNcJCzsEmecTUQdE2B) | [Just Jack](https://open.spotify.com/artist/2KT0mSAPvd9PreXYCiVfVO) | [Trouble to Share](https://open.spotify.com/album/4eYcxWOrAIrbuy6bOCJvSw) | 4:00 |
 | 92 | [CLOVER](https://open.spotify.com/track/6A35BpHH8rTAWwn24tlva6) | [Akurei](https://open.spotify.com/artist/63H0n4HapCWFaX42LIfY37) | [CLOVER](https://open.spotify.com/album/3ht0nTv1Z80PWNlNiI01mF) | 3:18 |
 | 93 | [Change Your Mind](https://open.spotify.com/track/0ryVvXd2EzVqNR0yTLCzNT) | [Oceanic](https://open.spotify.com/artist/1HZqEalU7MGNHQvENPJb4J) | [Change Your Mind](https://open.spotify.com/album/4dWcsWKaDx3RO37DTJtwZ0) | 3:08 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56qfiUZBncF.md) - [plain]
 | 99 | [Cold Blood](https://open.spotify.com/track/59q3NPvBNdLYNFijAZcwAK) | [LANKS](https://open.spotify.com/artist/6f5yObGSpFj9eJL55GBzrb) | [Cold Blood](https://open.spotify.com/album/0sC0ZuAkEzQcBVbE9tV9ZS) | 3:56 |
 | 100 | [A Million Times \- HONNE remix](https://open.spotify.com/track/4jl8EJQFGQ5sdYmgJp5p9v) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [A Million Times \(HONNE remix\)](https://open.spotify.com/album/7jfkwz4In0NkmU4V5hfcMt) | 4:06 |
 
-Snapshot ID: `MTY1MTI3MzI4OCwwMDAwMDAwMGRhYjc3ZjBhN2ZjOTAxZDU2MjIxNjE1NzMwZTUyOTM5`
+Snapshot ID: `MTY1MTI3MzI4OCwwMDAwMDAwMDkyY2EyOTlhM2MxMDNhNzAxZTQ5MmVjNjRjOGVlMmM2`

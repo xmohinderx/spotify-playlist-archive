@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3n9iLlurL09.md) - [plain]
 
 > 2012 highlights from the home of indie music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,792 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,864 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,16 +55,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3n9iLlurL09.md) - [plain]
 | 45 | [Simple Song](https://open.spotify.com/track/48bo7uexDvAThcRDvEB2W7) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO) | [Port Of Morrow](https://open.spotify.com/album/4ZTcGoOrNro2aCAStXEjZi) | 4:15 |
 | 46 | [San Francisco](https://open.spotify.com/track/5RRWirYSE08FPKD6Mx4v0V) | [The Mowgli's](https://open.spotify.com/artist/6AGUQK1EWK6nvN4pLIDQDQ) | [Waiting For The Dawn](https://open.spotify.com/album/1sO3d5N07nqu5CeJTLg7PG) | 2:53 |
 | 47 | [Dark Paradise](https://open.spotify.com/track/349XIp8EgHWJiIg5K0CUft) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Born To Die – Paradise Edition \(Special Version\)](https://open.spotify.com/album/0Dt3FbpMQwjoT5KNAw0IXR) | 4:03 |
-| 48 | [Two Fingers](https://open.spotify.com/track/582EVyAFKmKPa1bVPSDurJ) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [Jake Bugg](https://open.spotify.com/album/6b2BArDCfSvW3VFenLJatj) | 3:15 |
-| 49 | [How Did I Get Here](https://open.spotify.com/track/4aJnMRNeuDZSQN7FaSNGtM) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw) | [Summer's Gone](https://open.spotify.com/album/0ebTxbNe07spVPn7uxKOb1) | 2:11 |
-| 50 | [Closer](https://open.spotify.com/track/4dTVgHZFPlaq9nPbLVVLSG) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Heartthrob](https://open.spotify.com/album/5IUJ6v408Z7pECC3BXUJxX) | 3:29 |
-| 51 | [Trojans](https://open.spotify.com/track/0wDEiGfq4pw7FAkYKpkwMo) | [Atlas Genius](https://open.spotify.com/artist/42vg2T0Xg9yPaAgogJzoQH) | [When It Was Now](https://open.spotify.com/album/3yhETmhJwSVSLGDyTJgnqo) | 3:37 |
+| 48 | [How Did I Get Here](https://open.spotify.com/track/4aJnMRNeuDZSQN7FaSNGtM) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw) | [Summer's Gone](https://open.spotify.com/album/0ebTxbNe07spVPn7uxKOb1) | 2:11 |
+| 49 | [Two Fingers](https://open.spotify.com/track/582EVyAFKmKPa1bVPSDurJ) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [Jake Bugg](https://open.spotify.com/album/6b2BArDCfSvW3VFenLJatj) | 3:15 |
+| 50 | [Trojans](https://open.spotify.com/track/0wDEiGfq4pw7FAkYKpkwMo) | [Atlas Genius](https://open.spotify.com/artist/42vg2T0Xg9yPaAgogJzoQH) | [When It Was Now](https://open.spotify.com/album/3yhETmhJwSVSLGDyTJgnqo) | 3:37 |
+| 51 | [Closer](https://open.spotify.com/track/4dTVgHZFPlaq9nPbLVVLSG) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Heartthrob](https://open.spotify.com/album/5IUJ6v408Z7pECC3BXUJxX) | 3:29 |
 | 52 | [Fitzpleasure](https://open.spotify.com/track/7DdXf9x75iEVCHWfoRwRuR) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [An Awesome Wave](https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL) | 3:39 |
 | 53 | [Carried Away](https://open.spotify.com/track/52a6VcF23v5HB7KfDEmBHq) | [Passion Pit](https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh) | [Gossamer](https://open.spotify.com/album/14JU5SskmcyckE5I8PY6lv) | 3:41 |
 | 54 | [Disparate Youth](https://open.spotify.com/track/0t2QiRkpag0fAgs9zuCPlH) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [Master of My Make\-Believe](https://open.spotify.com/album/58ZjpgafuBeQ0JVxIt0hdr) | 4:44 |
-| 55 | [Apocalypse Dreams](https://open.spotify.com/track/7qU7vhCPKhkDiJYGoboISc) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism](https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7) | 5:56 |
+| 55 | [Simple As This](https://open.spotify.com/track/59xYAblNy1Xr4U1IsJ3gZb) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [Jake Bugg](https://open.spotify.com/album/6b2BArDCfSvW3VFenLJatj) | 3:19 |
 | 56 | [Born To Die](https://open.spotify.com/track/5wEreUfwxZxWnEol61ulIi) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Born To Die – Paradise Edition \(Special Version\)](https://open.spotify.com/album/0Dt3FbpMQwjoT5KNAw0IXR) | 4:46 |
-| 57 | [Simple As This](https://open.spotify.com/track/59xYAblNy1Xr4U1IsJ3gZb) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [Jake Bugg](https://open.spotify.com/album/6b2BArDCfSvW3VFenLJatj) | 3:19 |
+| 57 | [Apocalypse Dreams](https://open.spotify.com/track/7qU7vhCPKhkDiJYGoboISc) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism](https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7) | 5:56 |
 | 58 | [Hollywood Forever Cemetery Sings](https://open.spotify.com/track/3O30ywyRk6EKT68sBvVqOP) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Fear Fun](https://open.spotify.com/album/2CXVonfqGwTQu8dgr2qkNS) | 3:10 |
 | 59 | [fineshrine](https://open.spotify.com/track/5aJmSzmuhLI6fr1Rm0EnkS) | [Purity Ring](https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4) | [shrines](https://open.spotify.com/album/7nuxFL8lYQTIlpEEPEMpN8) | 3:29 |
 | 60 | [I Belong in Your Arms](https://open.spotify.com/track/0aqRkWPAL9BGCvvdSiXaE9) | [Chairlift](https://open.spotify.com/artist/7hAolICGSgXJuM6DUpK5rp) | [Something](https://open.spotify.com/album/4nYzn3xOXQsltWZ5AIQns7) | 3:27 |
@@ -92,14 +92,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3n9iLlurL09.md) - [plain]
 | 82 | [Yet Again](https://open.spotify.com/track/202QyrB6Q3Kimsr7KqJut3) | [Grizzly Bear](https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4) | [Shields](https://open.spotify.com/album/57LAEzKL94ZHwbIkUWYCDY) | 5:18 |
 | 83 | [Tightrope](https://open.spotify.com/track/44psOy0D0SP8rcIiUgKgBs) | [WALK THE MOON](https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic) | [Walk The Moon](https://open.spotify.com/album/1QhonXpNQq8wrGEKX0ofbk) | 3:29 |
 | 84 | [I Found You](https://open.spotify.com/track/1N3c3dDtbx1OodfkIcxBmy) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Boys & Girls](https://open.spotify.com/album/4eOGRVKyCsVfaXysnHz0k2) | 2:59 |
-| 85 | [Man On Fire](https://open.spotify.com/track/6Kn5yzAyOw3jf4Y5a6d1Oq) | [Edward Sharpe & The Magnetic Zeros](https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh) | [Here](https://open.spotify.com/album/7n5oHXSwnbGWrFTg9xLhhN) | 4:19 |
+| 85 | [Hurricane](https://open.spotify.com/track/35aNHKBZWXXbL9KQK7O5Nk) | [MS MR](https://open.spotify.com/artist/4XaUmUGjidSklcDHxv3XWf) | [Secondhand Rapture](https://open.spotify.com/album/3OzeRt6qBaj92n9yjiZBPt) | 3:46 |
 | 86 | [Insane](https://open.spotify.com/track/0ULEBRTLZhgKisTpgKzAuB) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Moon Holiday](https://open.spotify.com/artist/5HAqdulyJZF8EPKIvPMRTy) | [Flume: Deluxe Edition](https://open.spotify.com/album/1yc3Ldus5BkJBVX9mSFMt4) | 3:33 |
-| 87 | [Hurricane](https://open.spotify.com/track/35aNHKBZWXXbL9KQK7O5Nk) | [MS MR](https://open.spotify.com/artist/4XaUmUGjidSklcDHxv3XWf) | [Secondhand Rapture](https://open.spotify.com/album/3OzeRt6qBaj92n9yjiZBPt) | 3:46 |
+| 87 | [Man On Fire](https://open.spotify.com/track/6Kn5yzAyOw3jf4Y5a6d1Oq) | [Edward Sharpe & The Magnetic Zeros](https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh) | [Here](https://open.spotify.com/album/7n5oHXSwnbGWrFTg9xLhhN) | 4:19 |
 | 88 | [lofticries](https://open.spotify.com/track/0Uc1kywLKWHjqRbuY6OJvK) | [Purity Ring](https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4) | [shrines](https://open.spotify.com/album/7nuxFL8lYQTIlpEEPEMpN8) | 3:59 |
 | 89 | [Every Single Night](https://open.spotify.com/track/6HPZo9krwjbhMGKbqVkkDQ) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [The Idler Wheel Is Wiser Than the Driver of the Screw and Whipping Cords Will Serve You More Than Ropes Will Ever Do \(Expanded Edition\)](https://open.spotify.com/album/6B5favhKTShFTjRLsKIUfa) | 3:29 |
-| 90 | [Forest Whitaker](https://open.spotify.com/track/5S67wnJOMjuySVEu4ssCof) | [Bad Books](https://open.spotify.com/artist/0e9H8oaYYRCKFXOVv848nt), [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f), [Kevin Devine](https://open.spotify.com/artist/66ScZxprvrMbCtN4ivA0JX) | [II](https://open.spotify.com/album/1RHlOUoinOK5WZconLM6lp) | 3:43 |
-| 91 | [Breathing Underwater](https://open.spotify.com/track/1KZjU7csKHOLRiRPBWZIJS) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Synthetica \(Deluxe Edition\)](https://open.spotify.com/album/2xbkLrXys1oVlp5fgTgwSJ) | 3:56 |
-| 92 | [Gimme Twice](https://open.spotify.com/track/3DUBhiM44zetJNERX0n8Nk) | [The Royal Concept](https://open.spotify.com/artist/7LAucJAvbQa7ZIA0qP8YI2) | [Royal](https://open.spotify.com/album/4o7rdd2fYeSEXcTJLzpvsg) | 3:24 |
+| 90 | [Gimme Twice](https://open.spotify.com/track/3DUBhiM44zetJNERX0n8Nk) | [The Royal Concept](https://open.spotify.com/artist/7LAucJAvbQa7ZIA0qP8YI2) | [Royal](https://open.spotify.com/album/4o7rdd2fYeSEXcTJLzpvsg) | 3:24 |
+| 91 | [Forest Whitaker](https://open.spotify.com/track/5S67wnJOMjuySVEu4ssCof) | [Bad Books](https://open.spotify.com/artist/0e9H8oaYYRCKFXOVv848nt), [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f), [Kevin Devine](https://open.spotify.com/artist/66ScZxprvrMbCtN4ivA0JX) | [II](https://open.spotify.com/album/1RHlOUoinOK5WZconLM6lp) | 3:43 |
+| 92 | [Breathing Underwater](https://open.spotify.com/track/1KZjU7csKHOLRiRPBWZIJS) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Synthetica \(Deluxe Edition\)](https://open.spotify.com/album/2xbkLrXys1oVlp5fgTgwSJ) | 3:56 |
 | 93 | [Chained](https://open.spotify.com/track/1E5HgxGmPFETzZp6g929hu) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [Coexist](https://open.spotify.com/album/4SXTQ305LjMh2DBHA3CXIW) | 2:47 |
 | 94 | [Rearrange](https://open.spotify.com/track/6f4V3llGPLYgv49ro7vXSE) | [Miles Kane](https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn) | [Colour Of The Trap](https://open.spotify.com/album/671vYDTGlzYQfsibwLHxNB) | 3:29 |
 | 95 | [Funtimes in Babylon](https://open.spotify.com/track/5AHYDez7G9xD3CIReL88yU) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Fear Fun](https://open.spotify.com/album/2CXVonfqGwTQu8dgr2qkNS) | 3:39 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3n9iLlurL09.md) - [plain]
 | 99 | [California](https://open.spotify.com/track/4Y3gLYlV5rD3fhirhWKtei) | [Delta Spirit](https://open.spotify.com/artist/1xVWSPiw5B0OduIC0DSu3V) | [Delta Spirit](https://open.spotify.com/album/7azn6b0REXVeI7x6I8ebQi) | 3:39 |
 | 100 | [Next Year](https://open.spotify.com/track/0Rr8xlOfXa8bezebu0TbVY) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Beacon](https://open.spotify.com/album/7mxF1FNLd12k1e5MpkMdKg) | 4:11 |
 
-Snapshot ID: `MTY2Mjk3MDE2NywwMDAwMDAwMGZmODk5M2VkMjY3MDJmZTZhMDdkOThiNjA0NjcxNzA5`
+Snapshot ID: `MTY2Mjk3MDE2NywwMDAwMDAwMGNhOTMzOWZhZDU2NjM0NmE2MWNhMWI5M2RhZmYyYjdj`

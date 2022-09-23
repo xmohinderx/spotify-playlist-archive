@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6IkAj77bXq.md) - [plain]
 
 > Resonancias luminiscentes para llenar de paz tu alma.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,967 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,017 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,14 +16,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6IkAj77bXq.md) - [plain]
 | 6 | [Sea Of Colors](https://open.spotify.com/track/0vpo0LIlSsiqIWf44ydK2z) | [Airship Express](https://open.spotify.com/artist/57Inb370WrtJEz0OtdNwiG) | [Sea Of Colors](https://open.spotify.com/album/3aW96az8cTGpSCGBw0UsUI) | 3:04 |
 | 7 | [darker area](https://open.spotify.com/track/5zIMS6F6nMXAl4Jt1xu39L) | [Fluvis](https://open.spotify.com/artist/7bQwDNMLfpbXVUyUxfN7XX) | [darker area](https://open.spotify.com/album/2BsZnscrvvgIvlqHWyCjf7) | 3:38 |
 | 8 | [Trust the Universe](https://open.spotify.com/track/4P7LF3ktiDORMF1coYTf66) | [Chama Wijnen](https://open.spotify.com/artist/7ftRhte6NNzoF9MIKfKJsP) | [Trust the Universe](https://open.spotify.com/album/7yqbDPDVpLpJAjBTHAgUme) | 2:49 |
-| 9 | [Circle Of Everything](https://open.spotify.com/track/3rydBdAYaK1gslIS8JSm5D) | [Dance Of Centuries](https://open.spotify.com/artist/5y6jYkmnAqeXseHx3earZD) | [Circle Of Everything](https://open.spotify.com/album/0wHGczI6bIhfsYgCB0niAL) | 2:42 |
-| 10 | [Orphic](https://open.spotify.com/track/6KyPQhcAuRJxeq0Rwab6Jk) | [The Nowhows](https://open.spotify.com/artist/0yv3AGgMUbIJR6DROh35j1) | [Orphic](https://open.spotify.com/album/0MrCJsyAgkx4K5aJmvfIMA) | 3:00 |
+| 9 | [Orphic](https://open.spotify.com/track/6KyPQhcAuRJxeq0Rwab6Jk) | [The Nowhows](https://open.spotify.com/artist/0yv3AGgMUbIJR6DROh35j1) | [Orphic](https://open.spotify.com/album/0MrCJsyAgkx4K5aJmvfIMA) | 3:00 |
+| 10 | [Circle Of Everything](https://open.spotify.com/track/3rydBdAYaK1gslIS8JSm5D) | [Dance Of Centuries](https://open.spotify.com/artist/5y6jYkmnAqeXseHx3earZD) | [Circle Of Everything](https://open.spotify.com/album/0wHGczI6bIhfsYgCB0niAL) | 2:42 |
 | 11 | [Easy Mind](https://open.spotify.com/track/3uGD7qaTWdiIDQZxnKOXr2) | [Alma Meris](https://open.spotify.com/artist/7nHBvqVu3gxM1AFY5gHQs0) | [Easy Mind](https://open.spotify.com/album/7DnwBjJZheJD5XHqjE1aSl) | 2:40 |
-| 12 | [Weightless](https://open.spotify.com/track/2MH1fR1gK1o0BZcoSwvwqX) | [Lugar](https://open.spotify.com/artist/6KPAXAMmjjuL3dlucR4I29) | [Weightless](https://open.spotify.com/album/4lriXb1ncZ3k5USr0jWiOA) | 2:29 |
-| 13 | [Emerald Isles](https://open.spotify.com/track/0aRcChTQ4UOQAE3fuvOdS5) | [Moments of Clarity](https://open.spotify.com/artist/752MndEnUavC68pPM6NtxB) | [Emerald Isles](https://open.spotify.com/album/1KjGAHeyl9kHti8Z6ZT1pd) | 3:53 |
-| 14 | [Wu Wei](https://open.spotify.com/track/6EOpjNGn34eXLJASVcUksY) | [De Moi](https://open.spotify.com/artist/1DCmbXFQ1MufTW5IZG3etK) | [Wu Wei](https://open.spotify.com/album/1YhweHJQeMMAza8FLEtZLW) | 2:49 |
-| 15 | [Mountain View](https://open.spotify.com/track/07JjsRf87eOxsv2RD6UpN7) | [Sweetscape](https://open.spotify.com/artist/1BF35yKu7uZaQMKsHO3MRP) | [Mountain View](https://open.spotify.com/album/1ChiYF18iNSzQZW5Ibk9jw) | 2:32 |
-| 16 | [Protection](https://open.spotify.com/track/7seUboMUYcCSjiuWfHRqkR) | [Arush Mandal](https://open.spotify.com/artist/5WSATrMjcuhKibg0jp4uHI) | [Pilgrimage](https://open.spotify.com/album/2XWMV5XBqmoPaPxOWLlJGq) | 2:57 |
+| 12 | [Protection](https://open.spotify.com/track/7seUboMUYcCSjiuWfHRqkR) | [Arush Mandal](https://open.spotify.com/artist/5WSATrMjcuhKibg0jp4uHI) | [Pilgrimage](https://open.spotify.com/album/2XWMV5XBqmoPaPxOWLlJGq) | 2:57 |
+| 13 | [Weightless](https://open.spotify.com/track/2MH1fR1gK1o0BZcoSwvwqX) | [Lugar](https://open.spotify.com/artist/6KPAXAMmjjuL3dlucR4I29) | [Weightless](https://open.spotify.com/album/4lriXb1ncZ3k5USr0jWiOA) | 2:29 |
+| 14 | [Emerald Isles](https://open.spotify.com/track/0aRcChTQ4UOQAE3fuvOdS5) | [Moments of Clarity](https://open.spotify.com/artist/752MndEnUavC68pPM6NtxB) | [Emerald Isles](https://open.spotify.com/album/1KjGAHeyl9kHti8Z6ZT1pd) | 3:53 |
+| 15 | [Wu Wei](https://open.spotify.com/track/6EOpjNGn34eXLJASVcUksY) | [De Moi](https://open.spotify.com/artist/1DCmbXFQ1MufTW5IZG3etK) | [Wu Wei](https://open.spotify.com/album/1YhweHJQeMMAza8FLEtZLW) | 2:49 |
+| 16 | [Mountain View](https://open.spotify.com/track/07JjsRf87eOxsv2RD6UpN7) | [Sweetscape](https://open.spotify.com/artist/1BF35yKu7uZaQMKsHO3MRP) | [Mountain View](https://open.spotify.com/album/1ChiYF18iNSzQZW5Ibk9jw) | 2:32 |
 | 17 | [Shasta \- Meditation Mix](https://open.spotify.com/track/7pOo8zgxmkZVMEO0B4fH4Y) | [Dreemy](https://open.spotify.com/artist/7Hh9phP3DEcbwxipzObxum) | [Paradiso \(Meditation Mix\)](https://open.spotify.com/album/2NWm5EjnnTktWmN2pI87XH) | 3:01 |
 | 18 | [Reasons For Being](https://open.spotify.com/track/5tY0sWgi6v0UEibwYjfWlL) | [Deep Watch](https://open.spotify.com/artist/1X1f0eZsNTvUUZ48ZGmFtd) | [Reasons For Being](https://open.spotify.com/album/6X9Eg8aDPNEIEYFVdG6zNS) | 2:56 |
 | 19 | [My Horizon](https://open.spotify.com/track/0IeAKzoK78YpLGWn8wCQV8) | [Collected Dreams](https://open.spotify.com/artist/663shNr1wUnWbD1TQ5v8Sx) | [One Sense](https://open.spotify.com/album/466ShS1EJQJcwI63omgHJT) | 3:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6IkAj77bXq.md) - [plain]
 | 49 | [Tokyo Drifting](https://open.spotify.com/track/7AkdsvKHvHjFsj5jLtwySM) | [M\. David](https://open.spotify.com/artist/6BeIzleeMXksgYgjnYZ8oM) | [Tokyo Drifting](https://open.spotify.com/album/21Kd19l9phAGWCYBeBEisf) | 3:23 |
 | 50 | [Semblance](https://open.spotify.com/track/0X1V9oX92DjDYkXPdyNopH) | [Rubycon Sunset](https://open.spotify.com/artist/53Kclwe6UidHGosb0TqL9W) | [Semblance](https://open.spotify.com/album/74qBAHu2yRLcVbCvwXqrvN) | 3:03 |
 
-Snapshot ID: `MTY2MzA3MTE5NSwwMDAwMDAwMDQ1ZmMxZGY2ZmUzNmE1NDgwMDUxZDE2ZDQ5ZGRiZGM3`
+Snapshot ID: `MTY2MzA3MTE5NSwwMDAwMDAwMDI5YzY2YjA0ODJjMjFkMzczNDZmMjQwZmFjZTQ4YTY4`

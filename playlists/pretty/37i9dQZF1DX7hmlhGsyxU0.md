@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hmlhGsyxU0.md) - [plain]
 
 > Strings and pianos to accompany your latest great read.
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,062 likes - 75 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,211 likes - 75 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,12 +65,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hmlhGsyxU0.md) - [plain]
 | 55 | [Once Again](https://open.spotify.com/track/6SFxknzg00olqCJl4QJEyq) | [Cierna Sobre Ti](https://open.spotify.com/artist/3B4uijr2TavmmonBtJgcW9) | [Once Again](https://open.spotify.com/album/2VneXLzvhPk5Wwn3rxSh1c) | 2:20 |
 | 56 | [Gravegarden](https://open.spotify.com/track/49TkJGEsIbcSIIJUkXziAR) | [JustJosh](https://open.spotify.com/artist/1TbzLqFHKYsQ428ZTKqvx8) | [Serenity](https://open.spotify.com/album/5azwhbDYpWykwwAH6YZMOh) | 4:18 |
 | 57 | [Colin](https://open.spotify.com/track/1Bd5aIOYLMyxvI4FtG08x9) | [Las Desorden](https://open.spotify.com/artist/05Vq9YRP30tBWRiSR7mUV3) | [Colin](https://open.spotify.com/album/2naNvERtXmruzo0nxV4pWR) | 2:43 |
-| 58 | [Okinawa River](https://open.spotify.com/track/5XWOjKm9uFZC5dpUXMhi26) | [Contra La Muerte De La Luz](https://open.spotify.com/artist/7C19Hdd6VZQcs5tqzJl7QE) | [Okinawa River](https://open.spotify.com/album/5P43AVNHUMn67YpTJi42ZY) | 2:23 |
-| 59 | [Veo Tus Ojos](https://open.spotify.com/track/6Oqa6085qLYJbi6v9X2DEe) | [No Pude Detenerme](https://open.spotify.com/artist/5PPQ1GQmwabzQpN9W7ihoN) | [Veo Tus Ojos](https://open.spotify.com/album/23kCmRZjRZIfvM7Pi2xRvz) | 3:06 |
-| 60 | [Bad Signal](https://open.spotify.com/track/6FqAAz5ZcxuFfzBuzo4xHU) | [Cuarto Silencioso](https://open.spotify.com/artist/04LmdQOsJRkyf8l75OvA2i) | [Bad Signal](https://open.spotify.com/album/3kQTkKBCUSJQvl2C5j5w8o) | 3:28 |
-| 61 | [Sunrise](https://open.spotify.com/track/2I2hhG25ox1FXfMFcbnos8) | [Simon Antonio](https://open.spotify.com/artist/0MN3gDdLq76RTXU53UrOh3) | [Sunrise](https://open.spotify.com/album/7Aaekg6jo3Z5tESUKyCiqy) | 3:22 |
-| 62 | [Tired Mind](https://open.spotify.com/track/5Uq1XhExgdb6fGLwEcT5Qd) | [Martin Czerny](https://open.spotify.com/artist/3dKnHhya1g24Mwljr9jbDu) | [Sad Cello & Piano XXII](https://open.spotify.com/album/1Zd0oRtoHZa6HTQ7f0diiZ) | 2:12 |
-| 63 | [Rêverie](https://open.spotify.com/track/4VAjZUJSihI7cKpuP8mJRy) | [Jack Hopkins](https://open.spotify.com/artist/0RwM3W2gHbLUjWhdF35JtV) | [Rêverie](https://open.spotify.com/album/2RKHY2zuVqYuI6XXOVeLRK) | 3:52 |
+| 58 | [Rêverie](https://open.spotify.com/track/4VAjZUJSihI7cKpuP8mJRy) | [Jack Hopkins](https://open.spotify.com/artist/0RwM3W2gHbLUjWhdF35JtV) | [Rêverie](https://open.spotify.com/album/2RKHY2zuVqYuI6XXOVeLRK) | 3:52 |
+| 59 | [Okinawa River](https://open.spotify.com/track/5XWOjKm9uFZC5dpUXMhi26) | [Contra La Muerte De La Luz](https://open.spotify.com/artist/7C19Hdd6VZQcs5tqzJl7QE) | [Okinawa River](https://open.spotify.com/album/5P43AVNHUMn67YpTJi42ZY) | 2:23 |
+| 60 | [Veo Tus Ojos](https://open.spotify.com/track/6Oqa6085qLYJbi6v9X2DEe) | [No Pude Detenerme](https://open.spotify.com/artist/5PPQ1GQmwabzQpN9W7ihoN) | [Veo Tus Ojos](https://open.spotify.com/album/23kCmRZjRZIfvM7Pi2xRvz) | 3:06 |
+| 61 | [Bad Signal](https://open.spotify.com/track/6FqAAz5ZcxuFfzBuzo4xHU) | [Cuarto Silencioso](https://open.spotify.com/artist/04LmdQOsJRkyf8l75OvA2i) | [Bad Signal](https://open.spotify.com/album/3kQTkKBCUSJQvl2C5j5w8o) | 3:28 |
+| 62 | [Sunrise](https://open.spotify.com/track/2I2hhG25ox1FXfMFcbnos8) | [Simon Antonio](https://open.spotify.com/artist/0MN3gDdLq76RTXU53UrOh3) | [Sunrise](https://open.spotify.com/album/7Aaekg6jo3Z5tESUKyCiqy) | 3:22 |
+| 63 | [Tired Mind](https://open.spotify.com/track/5Uq1XhExgdb6fGLwEcT5Qd) | [Martin Czerny](https://open.spotify.com/artist/3dKnHhya1g24Mwljr9jbDu) | [Sad Cello & Piano XXII](https://open.spotify.com/album/1Zd0oRtoHZa6HTQ7f0diiZ) | 2:12 |
 | 64 | [Drifter](https://open.spotify.com/track/5qylsVTG6k9vStN40LcpwW) | [Takaaki Izumi](https://open.spotify.com/artist/240xN4Tp3Sbkj9XxinXV3p) | [Life](https://open.spotify.com/album/3Ly89MLIwLM1ECNLJUTJRa) | 2:37 |
 | 65 | [Walking on the Sand \- Piano & Waves](https://open.spotify.com/track/0sjTR8qQqGXyFS8QcccqMJ) | [Raf21](https://open.spotify.com/artist/5fzZ93Y7teAEqppKqLAlR8) | [Walking on the Sand](https://open.spotify.com/album/2EYGPQArAHH1cbaGELf7j4) | 3:27 |
 | 66 | [Northern Moon](https://open.spotify.com/track/047dIL5wrApvaEO1RCiSwX) | [Chris Bartels](https://open.spotify.com/artist/4RVdMNwTuWJAPTYpzBri7K), [Blurstem](https://open.spotify.com/artist/0FXk0xKcMcLfLjkGduqGkn) | [Shadows And Horizons](https://open.spotify.com/album/64MnY6yTXNrsRv0raxa8Ao) | 2:09 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hmlhGsyxU0.md) - [plain]
 | 74 | [I FELT](https://open.spotify.com/track/26uagwLcGRaOIcTsBcxP2J) | [Igor Ferreira](https://open.spotify.com/artist/6w7RikrpXmwrnLc6udBXc1) | [I FELT](https://open.spotify.com/album/3QuWiYej1r7pA09vyFLI8S) | 2:07 |
 | 75 | [Solitude](https://open.spotify.com/track/0qgocm3SrhllyvzxdKLtl8) | [David Gómez](https://open.spotify.com/artist/1YpEXfKQbYYdYjn3e9rr4h) | [Solitude](https://open.spotify.com/album/3gFKzHB8ISFNdQaVqQj2dm) | 4:54 |
 
-Snapshot ID: `MTY2MjExMzAzNSwwMDAwMDAwMDkxOGEzNDdiMDhlNjdlNjU4NmMxOTg4YjgyMzA3Mjgw`
+Snapshot ID: `MTY2MjExMzAzNSwwMDAwMDAwMDY4ODQyZDJjOTY5MmU5Nzk4ZDA0ZjliYmY5NTM4NzRm`

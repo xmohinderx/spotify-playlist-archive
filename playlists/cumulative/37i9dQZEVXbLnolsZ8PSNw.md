@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- United Kingdom.
 
-909 songs - 2 day 4 hr 47 min - [published](https://open.spotify.com/playlist/7KdcJDqdyq8EPaSWsoIlNq)
+910 songs - 2 day 4 hr 51 min - [published](https://open.spotify.com/playlist/7KdcJDqdyq8EPaSWsoIlNq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -671,7 +671,7 @@
 | [Riptide](https://open.spotify.com/track/7yq4Qj7cqayVTp3FF9CWbm) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away](https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg) | 3:24 | 2022-07-11 | 2022-07-20 |
 | [Rockin' Around The Christmas Tree](https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [Merry Christmas From Brenda Lee](https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG) | 2:06 | 2021-11-23 | 2021-12-30 |
 | [Rolling in the Deep](https://open.spotify.com/track/6IAZHEBUIGJ6NJKxxOBIEr) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/4HYlttFwVHZaz7gguxaN9H) | 3:48 | 2021-10-12 | 2021-11-28 |
-| [Romantic Homicide](https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B) | 2:12 | 2022-09-16 |  |
+| [Romantic Homicide](https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B) | 2:12 | 2022-09-16 | 2022-09-23 |
 | [Rumors \(feat\. Cardi B\)](https://open.spotify.com/track/6KgtcmCF9Ky68XC7ezxl3s) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Rumors \(feat\. Cardi B\)](https://open.spotify.com/album/7jMo8dhMIorHoLlzTisjJy) | 2:52 | 2021-08-15 | 2021-08-31 |
 | [Rumour Has It](https://open.spotify.com/track/4roNDqb3Mm6EUAPCtW0Sct) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/4HYlttFwVHZaz7gguxaN9H) | 3:43 | 2021-10-17 | 2021-10-21 |
 | [Run \(feat\. Ed Sheeran\) \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/track/4IQkfUsrwXol38VV3U7t7T) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 4:00 | 2021-11-14 | 2021-11-21 |
@@ -696,6 +696,7 @@
 | [SCOOP \(feat\. Doja Cat\)](https://open.spotify.com/track/6bpq1jGkVz66Q3LYeoXdjZ) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:54 | 2021-09-19 | 2021-09-22 |
 | [Seeing Green \(with Drake & Lil Wayne\)](https://open.spotify.com/track/1TZv3bujNaYz646eezRE91) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Beam Me Up Scotty](https://open.spotify.com/album/2upw5IrzeqKApIQZyx5o6r) | 5:39 | 2021-05-16 | 2021-05-17 |
 | [Send My Love \(To Your New Lover\)](https://open.spotify.com/track/563SfWAHJs4FBZMkRN0IFN) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/6TVfiWmo8KtflUAmkK9gGF) | 3:43 | 2021-10-17 | 2021-10-27 |
+| [September](https://open.spotify.com/track/4f2GB5ZC7vOUYPAg69N2Xw) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Now, Then & Forever](https://open.spotify.com/album/2L8rj8VnahryOqg7vKHYzx) | 3:41 | 2022-09-22 |  |
 | [Set Fire to the Rain](https://open.spotify.com/track/7j4OmvkjRz0PrjFADlHfQx) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/4HYlttFwVHZaz7gguxaN9H) | 4:02 | 2021-10-17 | 2021-10-31 |
 | [Seven Nation Army](https://open.spotify.com/track/3dPQuX8Gs42Y7b454ybpMR) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Elephant](https://open.spotify.com/album/6D9urpsOWWKtYvF6PaorGE) | 3:52 | 2021-07-13 | 2021-07-14 |
 | [Seventeen Going Under](https://open.spotify.com/track/5rF6YUIlgiat22OT1lWspJ) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Seventeen Going Under \(Deluxe\)](https://open.spotify.com/album/4FKOLaEGqA7ZFYYW5r4X9z) | 4:57 | 2021-10-10 |  |

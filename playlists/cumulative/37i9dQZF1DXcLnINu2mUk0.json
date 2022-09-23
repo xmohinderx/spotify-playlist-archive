@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Kappa Jotta.",
+  "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: B\u00e1rbara Bandeira e Ivandro.",
   "name": "Seda",
   "published_playlist_ids": [
     "0ZcjSUxcyp6vwIHuLPj7q0"
@@ -107,7 +107,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 208346,
       "name": "Aguardent",
       "url": "https://open.spotify.com/track/4B0JlP1HWrPFcmidHLVEB9"
@@ -143,7 +143,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 156280,
       "name": "Antes e Depois",
       "url": "https://open.spotify.com/track/1DM05DVGVhtQVgrlOXgO8V"
@@ -800,6 +800,24 @@
     },
     {
       "album": {
+        "name": "Foste um V\u00edcio",
+        "url": "https://open.spotify.com/album/0YRohggaep7lzKfXr1xfxs"
+      },
+      "artists": [
+        {
+          "name": "JNY",
+          "url": "https://open.spotify.com/artist/2JW7JPlsb29nRKl5yEVNru"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201212,
+      "name": "Foste um V\u00edcio",
+      "url": "https://open.spotify.com/track/205EI5BcZGUAmr2CDLT8Au"
+    },
+    {
+      "album": {
         "name": "GUUD",
         "url": "https://open.spotify.com/album/0sLx2K52GRknvH8AwYBsDI"
       },
@@ -1191,10 +1209,32 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 183406,
       "name": "Morangos Com A\u00e7\u00facar",
       "url": "https://open.spotify.com/track/4SVkRtBTe3ygcqkcjeJul8"
+    },
+    {
+      "album": {
+        "name": "Morrer de Amores",
+        "url": "https://open.spotify.com/album/31B0Mg0vF25vrCEIffJGFJ"
+      },
+      "artists": [
+        {
+          "name": "Ivo Lucas",
+          "url": "https://open.spotify.com/artist/2Py0XQSu8EfmYYOzvbOco5"
+        },
+        {
+          "name": "Sippinpurpp",
+          "url": "https://open.spotify.com/artist/6ngR2kHxjibH7bdDUBqL3z"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173871,
+      "name": "Morrer de Amores",
+      "url": "https://open.spotify.com/track/1UtOFYjYfu8kBOscH7av9h"
     },
     {
       "album": {
@@ -1245,7 +1285,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-18",
+      "date_removed": null,
       "duration_ms": 133901,
       "name": "Mulata",
       "url": "https://open.spotify.com/track/3CkDBgPMjBmNfBLbFSEXZq"
@@ -1285,7 +1325,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-22",
+      "date_removed": null,
       "duration_ms": 187163,
       "name": "NA NA NA (feat. Agir)",
       "url": "https://open.spotify.com/track/4fDWhaNWTNHGI0SGsm9tvF"
@@ -1357,7 +1397,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-18",
+      "date_removed": null,
       "duration_ms": 105509,
       "name": "Notas de 100",
       "url": "https://open.spotify.com/track/0HCEeojvXwak86NZRWX6S6"
@@ -1615,7 +1655,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 176128,
       "name": "P\u00e1ra",
       "url": "https://open.spotify.com/track/3Fr3Wit7KWJaZKDhwIbilT"
@@ -1815,7 +1855,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 183633,
       "name": "sedado",
       "url": "https://open.spotify.com/track/1oYeXvfELrtwfIj43N5hej"

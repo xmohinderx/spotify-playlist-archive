@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgmQDgebb6.md) - [plain]
 
 > Korean hipster & experimental music essential\. 당신의 힙스터 감성을 충전해줄 인디 곡들을 만나보세요\. \(Cover: Dopein\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,007 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,021 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,9 +33,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgmQDgebb6.md) - [plain]
 | 23 | [Imagine](https://open.spotify.com/track/624iXR8lRUaDBDIQxe3SBz) | [sogumm](https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS), [DJ Wegun](https://open.spotify.com/artist/7p552gLGzaDKXB5sETgTEP), [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL) | [Imagine](https://open.spotify.com/album/7dEuc4k6n1DS9MhCNQbEQA) | 4:17 |
 | 24 | [Creamppang](https://open.spotify.com/track/4kPG3bVHSq0cfIIt0LQEsO) | [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [Creamppang](https://open.spotify.com/album/2D0VlLiR8TavwuwEyHkavW) | 2:49 |
 | 25 | [I LOVE YOU](https://open.spotify.com/track/4hTDFUxvF9hx6WH1xsZigc) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [I LOVE YOU](https://open.spotify.com/album/76KAp3rsIGWC0FcoPjAHkT) | 1:38 |
-| 26 | [Electric Animal](https://open.spotify.com/track/5WsxLJtXDWl5EfH5z7N05R) | [Tabber](https://open.spotify.com/artist/4CYjITN8Au3K5CWFeex7fU), [Keyon Christ](https://open.spotify.com/artist/71p9YcOYtzkakGsABYYxKW) | [Electric Animal](https://open.spotify.com/album/6bMe66LMpqunGFxKcVJ2Sc) | 2:41 |
+| 26 | [Amoo\-rae\-do](https://open.spotify.com/track/0P2ZMsx0ZSORtoAltJje1B) | [COCONA](https://open.spotify.com/artist/5UukZH6jYHqTwLSSWGj7FN) | [Amoo\-rae\-do](https://open.spotify.com/album/5javGGT9UBP0kc0ayoWCGP) | 1:48 |
 | 27 | [SPACE MULAN](https://open.spotify.com/track/2PhUsk5qimnIOOEoQ80ErP) | [BÉBE YANA](https://open.spotify.com/artist/6ozuxhSx8Ci0o8tPpgrCT2) | [SPACE MULAN](https://open.spotify.com/album/4GMuwZdk6fdruHwLWZe83a) | 2:39 |
-| 28 | [Amoo\-rae\-do](https://open.spotify.com/track/0P2ZMsx0ZSORtoAltJje1B) | [COCONA](https://open.spotify.com/artist/5UukZH6jYHqTwLSSWGj7FN) | [Amoo\-rae\-do](https://open.spotify.com/album/5javGGT9UBP0kc0ayoWCGP) | 1:48 |
+| 28 | [Electric Animal](https://open.spotify.com/track/5WsxLJtXDWl5EfH5z7N05R) | [Tabber](https://open.spotify.com/artist/4CYjITN8Au3K5CWFeex7fU), [Keyon Christ](https://open.spotify.com/artist/71p9YcOYtzkakGsABYYxKW) | [Electric Animal](https://open.spotify.com/album/6bMe66LMpqunGFxKcVJ2Sc) | 2:41 |
 | 29 | [Rehab](https://open.spotify.com/track/4Uuw8zkh8pesHx3FaEDNQo) | [Mokyo](https://open.spotify.com/artist/1kRGgLBLwdQ16TxyfN1YgP) | [Rehab](https://open.spotify.com/album/7shV9Ltl8Cd7yjQgARX6J6) | 3:05 |
 | 30 | [Melting Point \(Feat\. Samuel Seo\)](https://open.spotify.com/track/0RaxRKVWQTnZ31L4LfUGXt) | [Khundi Panda](https://open.spotify.com/artist/32wJE7JooXm59HxYhy7caU), [Samuel Seo](https://open.spotify.com/artist/4ZPInhlYlpaCsk1vnHmKBP) | [Summer Soundcloud](https://open.spotify.com/album/03aZUdnQGIb9bnp2kY7d7X) | 4:36 |
 | 31 | [Signs](https://open.spotify.com/track/7cFCyAUvXLHHWdhJ7fdtRk) | [iiso](https://open.spotify.com/artist/77LNT0q7AZsv4hKt7HDS8v) | [Signs](https://open.spotify.com/album/3QZlhnWxRlERxUsfuzHmk6) | 2:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgmQDgebb6.md) - [plain]
 | 49 | [MAGO](https://open.spotify.com/track/6iP7hB87nBg1mk69noCZdu) | [Lim Kim](https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv) | [MAGO](https://open.spotify.com/album/6ovdLouqSWRHE2S0hS4w9s) | 2:09 |
 | 50 | [How You Like? \(Feat\. SUMIN\)](https://open.spotify.com/track/5Nukkz9plhlGC9dUYkTKbU) | [Xin Seha](https://open.spotify.com/artist/4kuTWggHz7FWxKVh3hdqA5), [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU) | [I Just Can’t Control My Feet!](https://open.spotify.com/album/2MVgQrstFueu9DaTUeZtc4) | 3:24 |
 
-Snapshot ID: `MTY2Mzc1MDIyNywwMDAwMDAwMDA5YmU2OTA5ZmZmODU1ZDQzNGY1M2RkODBmMzFlOWNm`
+Snapshot ID: `MTY2Mzc1MDIyNywwMDAwMDAwMGU2YTk2YTEyZmQwMGQyMmFjOWQwNzI1NGUwOWQ2MDNk`

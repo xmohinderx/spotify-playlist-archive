@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1fWwsbVMoI6.md) - [plain]
 
 > A ponerse a tono con los mejores cumbiones\. Foto: Puro Sentimiento
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,905 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,968 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1fWwsbVMoI6.md) - [plain]
 | 45 | [Mi Cariñito](https://open.spotify.com/track/34JtnRHvuDL5c2rfOLJeDw) | [Sonido 2000](https://open.spotify.com/artist/1H3xkA1mRbxwDjbiiyC1lR) | [Sonido 2000 de Tarapoto](https://open.spotify.com/album/0h3hga5bxvliZyavRF10Ka) | 3:15 |
 | 46 | [Dolor y Lagrimas](https://open.spotify.com/track/5iu23EuTrwZtZdJt7DWUlS) | [El Lobo Y La Sociedad Privada](https://open.spotify.com/artist/7lGdkFJ1fEIemMJApdnRBh) | [Desierto](https://open.spotify.com/album/17kNwp6zAftLn7MzlqT8hz) | 4:48 |
 | 47 | [Te burlaste de mi](https://open.spotify.com/track/1OVkTwhR0LISMQcZkAqHsg) | [La Única Tropical](https://open.spotify.com/artist/1WUEWZGTvX4AjC2y5PoSDd) | [El Futuro De La Cumbia](https://open.spotify.com/album/5Lu7FjFsriB2SKkR7GfqQc) | 4:37 |
-| 48 | [Lejos de Ti](https://open.spotify.com/track/0p1Tg14xmC1MgxncLFkt6d) | [Amaya Hnos](https://open.spotify.com/artist/5jSk6SgXKrDMuyvyVtoHkZ) | [Lejos de Ti](https://open.spotify.com/album/3VugzWWNSNU6AiSecTnbn6) | 4:01 |
-| 49 | [El Solitario](https://open.spotify.com/track/64GsayRbJ4tWm1m94DZSQh) | [Orquesta Caribeños de Guadalupe](https://open.spotify.com/artist/3TMIaKD9aqaLVRTK5DYg0C) | [Goza Tu Cumbia: Peruvian Cumbia](https://open.spotify.com/album/6ShlZFDjnbxigu2oXHcUMi) | 4:21 |
+| 48 | [El Solitario](https://open.spotify.com/track/64GsayRbJ4tWm1m94DZSQh) | [Orquesta Caribeños de Guadalupe](https://open.spotify.com/artist/3TMIaKD9aqaLVRTK5DYg0C) | [Goza Tu Cumbia: Peruvian Cumbia](https://open.spotify.com/album/6ShlZFDjnbxigu2oXHcUMi) | 4:21 |
+| 49 | [Lejos de Ti](https://open.spotify.com/track/0p1Tg14xmC1MgxncLFkt6d) | [Amaya Hnos](https://open.spotify.com/artist/5jSk6SgXKrDMuyvyVtoHkZ) | [Lejos de Ti](https://open.spotify.com/album/3VugzWWNSNU6AiSecTnbn6) | 4:01 |
 | 50 | [Amor Prohibido](https://open.spotify.com/track/4g2GK0gPz78co62qx8RIOd) | [Agua Marina](https://open.spotify.com/artist/5ZAR5Usb11xw4KENbEE8uZ) | [Tu Amor Fue una Mentira, Vol\. 11](https://open.spotify.com/album/1dcKB2yWjUPWX2sgpVMb26) | 3:33 |
 
-Snapshot ID: `MTY1OTY3NTYwMCwwMDAwMDAwMDQ4YzUwMGY3YjhhN2U4NGQwNjE5NDk4MjNlZWE3Mjcx`
+Snapshot ID: `MTY1OTY3NTYwMCwwMDAwMDAwMDFmOTE5MmM1NTBmNjgzMzc5MzcyNzFhNjIxZGNkODIw`

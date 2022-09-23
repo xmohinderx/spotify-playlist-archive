@@ -4,7 +4,7 @@
 
 > Degusta de lo más delicioso para cenar.
 
-190 songs - 12 hr 59 min - [published](https://open.spotify.com/playlist/47Huh5UiGAGys8xAYxZSoJ)
+191 songs - 13 hr 2 min - [published](https://open.spotify.com/playlist/47Huh5UiGAGys8xAYxZSoJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Don't Mind Me](https://open.spotify.com/track/1PXYvyT1lz0IvWCRbR0eni) | [James Earle Trio](https://open.spotify.com/artist/5G7z3n4Oy0s4hHwfnqfKU4) | [Don't Mind Me](https://open.spotify.com/album/1edvaJi1PKxqVb2fWXmMhP) | 4:18 | 2022-06-29 |  |
 | [Dreamsville](https://open.spotify.com/track/4AnJZTcx01nxo47QyYbskV) | [Pearl Street Trio](https://open.spotify.com/artist/6vOQ06tNCXPAdGfaNV3L0k) | [Dreamsville](https://open.spotify.com/album/60rdAuFzDeyUJIJRneqY3A) | 4:21 | 2022-06-29 |  |
 | [Duchesse](https://open.spotify.com/track/7qwMwFHW4JBRXiKRBpFE13) | [The Wallraff Group](https://open.spotify.com/artist/7gDYcXocmhQcTiVy1z9AyO) | [Duchesse](https://open.spotify.com/album/330hDxHxMjD4AOt5ZfWrud) | 3:30 | 2022-06-29 | 2022-08-19 |
+| [Déjà vu](https://open.spotify.com/track/4LJuCbx2qKSBOK3xpuZ2Pq) | [Eddie Harper](https://open.spotify.com/artist/7297VsEKnQhcbuXvB3GJ68) | [Déjà vu](https://open.spotify.com/album/4gIfw2WilJEWpAZLoDqosk) | 3:48 | 2022-09-21 |  |
 | [East of the Sun \(and West of the Moon\)](https://open.spotify.com/track/1oGTlMPKfAs1o2nsPDd3MQ) | [South West Cafe Trio](https://open.spotify.com/artist/0kOnFzBXtdnnGpJ4FDt3Zg) | [Falling Grace](https://open.spotify.com/album/0SrkYsvTohCSDBBggVTqH2) | 5:06 | 2022-06-29 | 2022-09-09 |
 | [Easy Living](https://open.spotify.com/track/03HZaJepBONLxbgWTsV7AK) | [The Bob Davis Group](https://open.spotify.com/artist/1lfkgC6uwLGN8qsvoaRgzT) | [Easy Living](https://open.spotify.com/album/4uh99qF1AoXvdsbU8IeMW7) | 3:23 | 2022-06-29 |  |
 | [Easy To Love](https://open.spotify.com/track/5p5CfayA88AVKc76DcwK5e) | [Mike Coen](https://open.spotify.com/artist/17USEyRv0BAOsxvM5pnsA8) | [Easy To Love](https://open.spotify.com/album/3UdLObFDAErU8FcAkhtPCr) | 3:23 | 2022-09-08 |  |
@@ -78,7 +79,7 @@
 | [I Could Write A Book](https://open.spotify.com/track/7nbQBpnj4CfKEycYy1dNLT) | [Jacob Schwarz Trio](https://open.spotify.com/artist/4xN1VyTbKQakR98CT0NNfY) | [Jazz Nights](https://open.spotify.com/album/6RT1EEN4J9A229oyoZ6jHM) | 3:09 | 2022-06-29 |  |
 | [I Didn't Know About You](https://open.spotify.com/track/4n3zpZjTVMy3GbguVibX0g) | [Figgy Mold](https://open.spotify.com/artist/1nr44rcCUJR2qL0SKfCOYF) | [I Didn't Know About You](https://open.spotify.com/album/1DArZKNaRwXBjvjY7U9UX4) | 3:50 | 2022-06-29 | 2022-07-28 |
 | [I Fall in Love Too Easily](https://open.spotify.com/track/7kdPpPFzjLo8piKWbuQ0e4) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [The Art of the Trio, Vol\. 1](https://open.spotify.com/album/3MIOYuA2uqGXFiwDbBK9Fc) | 7:18 | 2022-06-29 |  |
-| [I Fall In Love Too Easily](https://open.spotify.com/track/7CFnOzCVrrPbmJk9aCTk9q) | [The Jazz Cultivators](https://open.spotify.com/artist/24LiiowKnaEDD4I3CCdI3v) | [Speak Low](https://open.spotify.com/album/1yGFyTpml5nZFJ692JMOrN) | 3:58 | 2022-06-29 |  |
+| [I Fall In Love Too Easily](https://open.spotify.com/track/7CFnOzCVrrPbmJk9aCTk9q) | [The Jazz Cultivators](https://open.spotify.com/artist/24LiiowKnaEDD4I3CCdI3v) | [Speak Low](https://open.spotify.com/album/1yGFyTpml5nZFJ692JMOrN) | 3:58 | 2022-06-29 | 2022-09-23 |
 | [I Get a Kick Out of You](https://open.spotify.com/track/3nCttR5RYHt0bz1gBBv1UH) | [Gregory Wilf Experience](https://open.spotify.com/artist/3l2vfOjFAJjiiHf3N71Gk4) | [I Get a Kick Out of You](https://open.spotify.com/album/67f9WSsP51Y1F4CRA1SIcD) | 5:26 | 2022-06-29 | 2022-07-29 |
 | [I Loves You, Porgy](https://open.spotify.com/track/6L620MzHPZRTYKqi1mXiaw) | [Keanan Field Group](https://open.spotify.com/artist/3Nswj36GKhom7iy2bLvJNJ) | [I Loves You, Porgy](https://open.spotify.com/album/6OwHbZzxOCbGgOvi3rnl1A) | 3:30 | 2022-06-29 |  |
 | [I Mean You](https://open.spotify.com/track/2JR9BtQ6Av9OAf3awQigf5) | [Eli Starr Trio](https://open.spotify.com/artist/5oITtTq61bt7N9ZvaJf7G7) | [Autumn in New York](https://open.spotify.com/album/4VK7vsDrvzFYqhs3JjPOmf) | 3:29 | 2022-06-29 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > Top Arabic hits are right here\. Cover: Elissa
 
-215 songs - 12 hr 52 min - [published](https://open.spotify.com/playlist/4uTt9Gotclw8677k3BhhPx)
+216 songs - 12 hr 55 min - [published](https://open.spotify.com/playlist/4uTt9Gotclw8677k3BhhPx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [El Lahza El Helwa](https://open.spotify.com/track/2UNRHZy7aYHlJEg0gfLeG9) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [El Lahza El Helwa](https://open.spotify.com/album/3fjWvwsLFrLCIoVD7JYHSg) | 3:06 | 2021-12-23 | 2022-01-03 |
 | [El Melouk \- الملوك](https://open.spotify.com/track/04vHPXVGnb51q13NBoW22W) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V), [3enba](https://open.spotify.com/artist/4U7K3Xm1CXe5FpBGYUcHUZ), [Double Zuksh](https://open.spotify.com/artist/02T4vKIGje48LHpXmJoEwo) | [El Melouk \- الملوك](https://open.spotify.com/album/3eMTz433EZ3pEHtszeiIL2) | 3:15 | 2022-04-15 |  |
 | [El Walida](https://open.spotify.com/track/1Ld7ou1JXz77rg70AG7usC) | [Foufa Torino](https://open.spotify.com/artist/5DAc1d8izRCmkzEP23NJGh), [Kader Japonais](https://open.spotify.com/artist/3e3cKwH1kUr02bvIm7VaIe), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [El Walida](https://open.spotify.com/album/5BUWjVJMOXZkOl6gN2pEBc) | 4:12 | 2021-12-12 | 2022-09-19 |
+| [El Youm El Helw Dah](https://open.spotify.com/track/2HbrI0oakRE7qNXoK74zNR) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [El Youm El Helw Dah](https://open.spotify.com/album/2GwwqvLab4YiExMa8zFW1v) | 2:52 | 2022-09-22 |  |
 | [Elghazala Ray2a \(feat\. Mohamed Osama\)](https://open.spotify.com/track/4xAYDw7NVSKkvMIE9vFTVu) | [Karim Mahmoud Abdelaziz](https://open.spotify.com/artist/0jDk5u8slIxP4B5AtbyZq6), [Mohamed Osama](https://open.spotify.com/artist/1cODd5riWEV19DpwGut4CN) | [Elghazala Ray2a \(feat\. Mohamed Osama\)](https://open.spotify.com/album/5jjujcUlw3FwkINsaodz71) | 2:41 | 2022-01-14 |  |
 | [Elli Baana](https://open.spotify.com/track/28bdcUznUDPjJEujZCABes) | [Ragheb Alama](https://open.spotify.com/artist/6uOgBVYHvqTGAQ5iVHDVT7) | [Elli Baana](https://open.spotify.com/album/23Khcpq38kMe3FsIiV8Mbu) | 4:24 | 2021-12-12 | 2022-01-04 |
 | [Elly Yemshy 3ady](https://open.spotify.com/track/1Qh8KVerk8wYXVmRWw51Xe) | [Dalia](https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD) | [Elly Yemshy 3ady](https://open.spotify.com/album/3dYZ5ljeUeYlADvkX5V6b8) | 4:40 | 2021-12-12 |  |
@@ -121,7 +122,7 @@
 | [Khat Ahmar](https://open.spotify.com/track/6NPCmRmpXbercMsJgoEo6L) | [Joseph Attieh](https://open.spotify.com/artist/5DPb3SKW8QZFwkRlmt7Gvo) | [Khat Ahmar](https://open.spotify.com/album/5KSQvw0aryXcTY1O59BZSE) | 3:24 | 2021-12-12 | 2022-06-04 |
 | [khateera](https://open.spotify.com/track/3y1tMUZAy2v5LMyKo7Ko8J) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [khateera](https://open.spotify.com/album/3t3U7jth4HV9tx11NMwC0N) | 3:24 | 2021-12-12 | 2022-01-04 |
 | [Kol El Nas](https://open.spotify.com/track/6GjW5aqVmn2mIHdMiWn8sR) | [El Sawareekh](https://open.spotify.com/artist/5rNrRYsRVaRJDQhA1PEC6t), [Hassan Abouelrouss](https://open.spotify.com/artist/7xwMn1tewzj0idd87bXpQm) | [Kol El Nas](https://open.spotify.com/album/5G6eYqkydwunUSmbRqk5gv) | 2:55 | 2021-12-12 |  |
-| [Kol Youm](https://open.spotify.com/track/3iWRuqeYt3ezyPOSdVo9Hz) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Kol Youm](https://open.spotify.com/album/425JKkR2C6PwmFgeriOlwm) | 3:25 | 2021-12-12 |  |
+| [Kol Youm](https://open.spotify.com/track/3iWRuqeYt3ezyPOSdVo9Hz) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Kol Youm](https://open.spotify.com/album/425JKkR2C6PwmFgeriOlwm) | 3:25 | 2021-12-12 | 2022-09-23 |
 | [La Malama \(Bonus Track\)](https://open.spotify.com/track/5ZsSIC9ea0OEi7gMMv7b1t) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Ya Fatenny](https://open.spotify.com/album/4c7UeqkDVT5AZI3hN7oitj) | 3:48 | 2021-12-12 |  |
 | [Law Hatsib](https://open.spotify.com/track/2a7NX3ftu4GAO52dnCRxXM) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Law Hatsib](https://open.spotify.com/album/0CeV0YaRQp0nqdO5JYWtPV) | 3:48 | 2021-12-12 | 2022-07-29 |
 | [Law Hatsib](https://open.spotify.com/track/7h7FKF2JBDa6xChi3z9KxC) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Ya Fatenny](https://open.spotify.com/album/4c7UeqkDVT5AZI3hN7oitj) | 3:48 | 2022-07-22 |  |

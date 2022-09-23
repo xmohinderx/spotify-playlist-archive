@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 
 > Descubre lo más nuevo del movimiento\. Cover: Young Miko, Chris Jedi, Lunay.
 
-[Spotify](https://open.spotify.com/user/spotify) - 505,267 likes - 62 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 505,332 likes - 62 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 | 9 | [AUTOMÁTICO](https://open.spotify.com/track/3Ne5uYDFzHEFYAPbaBMIck) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [AUTOMÁTICO](https://open.spotify.com/album/5i8WdrKnzvMbujuJhkcFQn) | 2:55 |
 | 10 | [Perfect](https://open.spotify.com/track/0tOWRZCnNe1ZYxHT8MnbhP) | [lil joujou](https://open.spotify.com/artist/6UhGN5pVzgbBYjpqkxKM5F), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Moffa](https://open.spotify.com/artist/2lcWprkQW6ehqKep82rWnC) | [Perfect](https://open.spotify.com/album/46aful2GWny0ItyMEkXz3F) | 3:41 |
 | 11 | [Ande Con Quien Ande](https://open.spotify.com/track/6AizmGCrFRQHru1Qf8WKoJ) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz) | [Ande Con Quien Ande](https://open.spotify.com/album/1HUkl1Q80b9VhGWBfY37RW) | 3:28 |
-| 12 | [V16](https://open.spotify.com/track/1FwZHWFat13A1XookoEtI3) | [Martinwhite](https://open.spotify.com/artist/1PANUPmT5KUDGs3Xgkhw3T) | [V16](https://open.spotify.com/album/1NYH6nfQS1yuB2PHEHIgtz) | 1:59 |
-| 13 | [Party en el Barrio \(feat\. Duki\)](https://open.spotify.com/track/5GF0X7GdNmnouKcdhhRmtm) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Party en el Barrio \(feat\. Duki\)](https://open.spotify.com/album/2alxO71ik8lO8YIuNT2LKn) | 3:56 |
+| 12 | [Party en el Barrio \(feat\. Duki\)](https://open.spotify.com/track/5GF0X7GdNmnouKcdhhRmtm) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Party en el Barrio \(feat\. Duki\)](https://open.spotify.com/album/2alxO71ik8lO8YIuNT2LKn) | 3:56 |
+| 13 | [V16](https://open.spotify.com/track/1FwZHWFat13A1XookoEtI3) | [Martinwhite](https://open.spotify.com/artist/1PANUPmT5KUDGs3Xgkhw3T) | [V16](https://open.spotify.com/album/1NYH6nfQS1yuB2PHEHIgtz) | 1:59 |
 | 14 | [Suelta](https://open.spotify.com/track/7kN7u1ZDOrNBKcEEGwGeDY) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [Suelta](https://open.spotify.com/album/79Ei7No5zyEoMYJdj9rJFe) | 4:03 |
 | 15 | [Dame Lu \- Remix](https://open.spotify.com/track/3lyi8wF8mZ3rET1MCXgEQj) | [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy) | [Dame Lu \(Remix\)](https://open.spotify.com/album/4nsSWLgnntv4HgUqNnfSd3) | 5:23 |
 | 16 | [Prohibidox](https://open.spotify.com/track/3PpWCS95gDUDRPko3u1MZ9) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [FELIZ CUMPLEAÑOS FERXXO TE PIRATEAMOS EL ÁLBUM](https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9) | 2:46 |
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 | 61 | [Tu Lo Tienes \(feat\. YOVNGCHIMI\)](https://open.spotify.com/track/4WvUzMxcub8CWjvHyMuEXu) | [Malu Trevejo](https://open.spotify.com/artist/58GNHTqgNesANvRuoKzCwX), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy) | [Tu Lo Tienes \(feat\. YOVNGCHIMI\)](https://open.spotify.com/album/51JvtglRteGeqbA0j6UciV) | 2:57 |
 | 62 | [KLK](https://open.spotify.com/track/2Of9piZALXa4CC7Unxoeeg) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [KLK](https://open.spotify.com/album/1LnL349QHolcO0vHZxgKLt) | 3:01 |
 
-Snapshot ID: `MTY2Mzc5MjM3MywwMDAwMDAwMDdhOTAyZTA4YWY1NzBhOTE1MTM3MGM5YzJhYTY1Nzk5`
+Snapshot ID: `MTY2Mzc5MjM3MywwMDAwMDAwMGY5NTM0YzBlOTc4YzFjZGVlNDUyNDliNGE0NDlmZmE3`

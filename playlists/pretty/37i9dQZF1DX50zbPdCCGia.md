@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50zbPdCCGia.md) - [plain]
 
 > The best soft rock from the 1970s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,332 likes - 120 songs - 8 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,492 likes - 120 songs - 8 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,8 +116,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50zbPdCCGia.md) - [plain]
 | 106 | [Name Of The Game \- Remastered 2010](https://open.spotify.com/track/2Z7c7algNrJeVyYWNH1HYw) | [Badfinger](https://open.spotify.com/artist/4pJCawaKSZ40EnxN0YEYw3) | [Straight Up \(Remastered 2010 / Deluxe Edition\)](https://open.spotify.com/album/0BWOueFZKxQrQWNRt20Lvc) | 5:21 |
 | 107 | [Crystal Ball](https://open.spotify.com/track/7ETHRr9BsppwaOheN4vJkH) | [Styx](https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh) | [Crystal Ball](https://open.spotify.com/album/4K4RkjenqNrAmZFLOsA0ul) | 4:34 |
 | 108 | [Wild West End](https://open.spotify.com/track/5EoD2H4HEX3lQd0l7CsHA1) | [Dire Straits](https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T) | [Dire Straits](https://open.spotify.com/album/4dKdxly4ji1vfl7sEYuqBe) | 4:41 |
-| 109 | [How? \- Remastered 2010](https://open.spotify.com/track/4k9pqSKBHYdTGjzNeRyQ0o) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Imagine](https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk) | 3:46 |
-| 110 | [Clair](https://open.spotify.com/track/1lYJDRaadnotdfcZFp5Izd) | [Gilbert O'Sullivan](https://open.spotify.com/artist/4HVmeVTQBgvTuvjB1JYwaf) | [Back to Front](https://open.spotify.com/album/1INjTJtV8EwpUZF2xgwvAt) | 3:02 |
+| 109 | [Clair](https://open.spotify.com/track/1lYJDRaadnotdfcZFp5Izd) | [Gilbert O'Sullivan](https://open.spotify.com/artist/4HVmeVTQBgvTuvjB1JYwaf) | [Back to Front](https://open.spotify.com/album/1INjTJtV8EwpUZF2xgwvAt) | 3:02 |
+| 110 | [How? \- Remastered 2010](https://open.spotify.com/track/4k9pqSKBHYdTGjzNeRyQ0o) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Imagine](https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk) | 3:46 |
 | 111 | [Lady](https://open.spotify.com/track/0nPE9ko1pKiKDzuDcC0b40) | [Little River Band](https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg) | [Greatest Hits](https://open.spotify.com/album/5OajcRNtdKugFqYgIsEkRY) | 4:54 |
 | 112 | [Love Ain't For Keeping](https://open.spotify.com/track/1zdmeAd3wE2VlrrxpAAEgr) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who's Next \(Deluxe Edition\)](https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ) | 2:10 |
 | 113 | [Ship Of Fools](https://open.spotify.com/track/5eyQT4AgA02K3ciYxjKZZV) | [Bob Seger](https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ) | [Night Moves](https://open.spotify.com/album/5QkOpsZupEPLq186YOrBNe) | 3:23 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50zbPdCCGia.md) - [plain]
 | 119 | [Parisienne Walkways](https://open.spotify.com/track/60Kyw7i4M7E2WAlFozsOsR) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j) | [Back on the Streets](https://open.spotify.com/album/072GbOHxm1ynSabmipURTS) | 3:20 |
 | 120 | [Wild Mountain Honey](https://open.spotify.com/track/6lELCr5OEudkNijuNqm14G) | [Steve Miller Band](https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk) | [Fly Like An Eagle](https://open.spotify.com/album/0fjJOLqG3v7vXRYhz2wxPC) | 4:49 |
 
-Snapshot ID: `MTY1NzAzNjMxMSwwMDAwMDAwMDUzMzBmOWQxNDNhNzNmMWUxMGVjNTE2ZjBlOTZhNDQ1`
+Snapshot ID: `MTY1NzAzNjMxMSwwMDAwMDAwMGI5YjhlODM1MzU5OWQ2YjI0YTJmNDA5Y2MyY2EwNjZh`

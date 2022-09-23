@@ -4,7 +4,7 @@
 
 > Instrumental guitar for rainy day contemplation.
 
-146 songs - 6 hr 21 min - [published](https://open.spotify.com/playlist/0OFjYAHKTUhiFgc9oYNNXy)
+148 songs - 6 hr 25 min - [published](https://open.spotify.com/playlist/0OFjYAHKTUhiFgc9oYNNXy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Melrose](https://open.spotify.com/track/7o39DRcwrKMz17xUNc0BbN) | [Olma](https://open.spotify.com/artist/0jgC3HsKV46vXA8wsaZFuP) | [Melrose](https://open.spotify.com/album/4zoWw8eWOuWUUXaXoObfPa) | 2:04 | 2022-07-29 |  |
 | [Mendoza](https://open.spotify.com/track/1tDp655UeKaHN3J23HHave) | [Las Almas Nuevas](https://open.spotify.com/artist/5LSP2iBRUfSpFUY7xOislt) | [Mendoza](https://open.spotify.com/album/2Bxw8YfgCBm91kJrRk8U8k) | 4:31 | 2021-12-23 |  |
 | [Midnight in Olivebridge](https://open.spotify.com/track/73CfMnErjqLOpi1hIDtU4v) | [Marcel Vasnov](https://open.spotify.com/artist/0J6aflTK3MQGQGQgIqg9j3) | [Copake Lake](https://open.spotify.com/album/7bmwJew61SQ04jqcX9qW5U) | 2:43 | 2021-12-23 |  |
+| [Misteriosa](https://open.spotify.com/track/4m8RD2JvsaH13RwZd9EmGd) | [Tor Dahl](https://open.spotify.com/artist/5GfnXcZhvTgsNpj5U1CkBU) | [Misteriosa](https://open.spotify.com/album/6e7EoYmMdJ7Wo5ZVUu9N1e) | 2:38 | 2022-09-23 |  |
 | [Mixtlan](https://open.spotify.com/track/75p0DeAYdpGsevS7azLsPu) | [Acusticalia](https://open.spotify.com/artist/0JsktCrX85DtrZ4PWbs3bv) | [Mixtlan](https://open.spotify.com/album/28muYyyz6ID3quXRKM4SN0) | 3:31 | 2021-12-23 | 2022-03-02 |
 | [My Favorite Memory Of You](https://open.spotify.com/track/7qQi4pHT2tdu32Po9MsrME) | [Derek Shearer](https://open.spotify.com/artist/3W51gb95wAmpctfOfM9no0) | [My Favorite Memory Of You](https://open.spotify.com/album/6E3b4wqXPPhV56yW6vxDia) | 3:42 | 2021-12-23 |  |
 | [My Heart In Your Hands](https://open.spotify.com/track/5MxdTIHlQxvk9qMAcuLp7e) | [Equanimity Seekers](https://open.spotify.com/artist/6oXndPl70FAG2e2h7ttCge) | [My Heart In Your Hands](https://open.spotify.com/album/0JNhtB6qvXWnYp1VpKOsLR) | 2:42 | 2021-12-23 |  |
@@ -120,6 +121,7 @@
 | [Rest Sea](https://open.spotify.com/track/5UcoxNaxIuTV1WQ4eOzvYm) | [Glen Beasley](https://open.spotify.com/artist/46Xi2XceJCdHvaqnh55jyP) | [Rest Sea](https://open.spotify.com/album/1TXSpQbz2TlYhGxfh5eowq) | 2:13 | 2022-03-01 |  |
 | [Seerosen Teich](https://open.spotify.com/track/1DOjcrbaQbzU2zyHbBg5KM) | [Marco Tournesol](https://open.spotify.com/artist/1CpSnAYIqeAWZVDyWDqxws) | [Seerosen Teich](https://open.spotify.com/album/3Tsldk3OSEHytaICuSND55) | 2:57 | 2021-12-23 |  |
 | [Seresta](https://open.spotify.com/track/5cTsLgmhCzeBmTO7jPVkfg) | [Benedict Wallfish](https://open.spotify.com/artist/0J9KRHzB7ZVu5zqVztzclJ) | [Rain Forest](https://open.spotify.com/album/5VtmbXvAvcBOSc60XRa2Sr) | 2:46 | 2022-01-07 |  |
+| [Settignano](https://open.spotify.com/track/5b1OOTi5NXuFC06YZyuXK3) | [Amma Lerato](https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL) | [Settignano](https://open.spotify.com/album/4v7IruhzOzzXcqIewFc5Nh) | 1:58 | 2022-09-23 |  |
 | [Siesta](https://open.spotify.com/track/3Rp9LZyCltPS3U2OqeeEP0) | [Rancul](https://open.spotify.com/artist/7cVXjdkl7yJQfp2a76guvf) | [Sol](https://open.spotify.com/album/6gGcKC3RjsSMZZcvyR4jon) | 1:01 | 2021-12-23 | 2022-05-27 |
 | [Siesta In Siena](https://open.spotify.com/track/78rXRY4lBgvKEh7nwDYOrw) | [Moldoni](https://open.spotify.com/artist/0wyLg7FcGRulowJqoek8lw) | [Siesta In Siena](https://open.spotify.com/album/0eRUxcC7Xkxv0XtRvnGzMo) | 2:26 | 2021-12-23 |  |
 | [Sin Ropa](https://open.spotify.com/track/2tVNCE8ugILalQhS838rfU) | [Calden](https://open.spotify.com/artist/7Mk4LgnGiyEQldfCtHMXVe) | [Calden](https://open.spotify.com/album/5UbnVjw0edng6BBFivmGhs) | 1:20 | 2021-12-23 | 2022-05-27 |

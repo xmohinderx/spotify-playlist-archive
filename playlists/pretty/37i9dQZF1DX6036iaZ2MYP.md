@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the global Afro scene\. Cover: Nnelg
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,324 likes - 59 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,404 likes - 59 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,13 +12,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 2 | [Rush](https://open.spotify.com/track/1rrqJ9QkOBYJlsZgqqwxgB) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Rush](https://open.spotify.com/album/6CvEsGBD3JdbDKpmJaXn2E) | 3:05 |
 | 3 | [It's Plenty](https://open.spotify.com/track/5hVjoL3sHepZROri63wBxP) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 3:36 |
 | 4 | [When I See You](https://open.spotify.com/track/22fHc3vuTK2kxjrNSJrA5J) | [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW), [Jaywillz](https://open.spotify.com/artist/0eYIT8bKfvhhDHFH1A0rxk) | [When I See You](https://open.spotify.com/album/6uP3M17zzbY0VpvJrlYil0) | 2:39 |
-| 5 | [Curvy Waistline](https://open.spotify.com/track/1wAMqAnW9HooAIJbbLddGw) | [Nnelg](https://open.spotify.com/artist/7bbzOJyYWRp0cef7NpIClP), [sor](https://open.spotify.com/artist/267wBt3XfmW3kdOC0JCtcO), [JMANI](https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3), [Amartey](https://open.spotify.com/artist/2yVIMZ3tHWSmoP3ZLwJmJu) | [Ghana Must Go](https://open.spotify.com/album/6wWGSDH4HF7kacTVIBCzCi) | 3:00 |
+| 5 | [Handle Me \(feat\. Adekunle Gold\)](https://open.spotify.com/track/4dLfcjzMHZAVgnmuglRvhY) | [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Handle Me \(feat\. Adekunle Gold\)](https://open.spotify.com/album/3Cd3jHPeIl4euaDfPIccK4) | 2:47 |
 | 6 | [Gentility](https://open.spotify.com/track/3vXFxsPqMgw4SYP7fkWicM) | [melvitto](https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Gentility \(feat\. Wande Coal\)](https://open.spotify.com/album/6v8LdWReU2z42hUXe7VdMg) | 3:45 |
-| 7 | [Looking for Somebody](https://open.spotify.com/track/5D6rGaauri3oyZAXM5V2q2) | [Angelo King](https://open.spotify.com/artist/1Q0kuvgP9fC9Y5OCP1mzOV), [JMANI](https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3) | [Looking for Somebody](https://open.spotify.com/album/3V3asywN4oLR2McSuXD6gk) | 2:49 |
-| 8 | [Organise](https://open.spotify.com/track/2wgvxtggKVzPkl0smF2UzI) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Mr\. Money With The Vibe](https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI) | 2:03 |
-| 9 | [Champagne](https://open.spotify.com/track/76aYqlXTeHaYMunCPkm3qZ) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Champagne](https://open.spotify.com/album/5JBbEJHvC8ux9kYGbdu0od) | 2:28 |
-| 10 | [Control](https://open.spotify.com/track/33aYQD8u61dxbkvYatDWa5) | [Dante Moris](https://open.spotify.com/artist/7d42wwAzJlkmO6nvo70tTa) | [Control](https://open.spotify.com/album/6PDTbnQyukMCnD94FO1Uuu) | 2:22 |
-| 11 | [Soweto](https://open.spotify.com/track/6RbOyNeajWax51NtpO6WT8) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Tempoe](https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4) | [Outlaw](https://open.spotify.com/album/12iai3p96UYvcrDqlvvKFE) | 2:28 |
+| 7 | [Curvy Waistline](https://open.spotify.com/track/1wAMqAnW9HooAIJbbLddGw) | [Nnelg](https://open.spotify.com/artist/7bbzOJyYWRp0cef7NpIClP), [sor](https://open.spotify.com/artist/267wBt3XfmW3kdOC0JCtcO), [JMANI](https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3), [Amartey](https://open.spotify.com/artist/2yVIMZ3tHWSmoP3ZLwJmJu) | [Ghana Must Go](https://open.spotify.com/album/6wWGSDH4HF7kacTVIBCzCi) | 3:00 |
+| 8 | [Looking for Somebody](https://open.spotify.com/track/5D6rGaauri3oyZAXM5V2q2) | [Angelo King](https://open.spotify.com/artist/1Q0kuvgP9fC9Y5OCP1mzOV), [JMANI](https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3) | [Looking for Somebody](https://open.spotify.com/album/3V3asywN4oLR2McSuXD6gk) | 2:49 |
+| 9 | [Organise](https://open.spotify.com/track/2wgvxtggKVzPkl0smF2UzI) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Mr\. Money With The Vibe](https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI) | 2:03 |
+| 10 | [Champagne](https://open.spotify.com/track/76aYqlXTeHaYMunCPkm3qZ) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Champagne](https://open.spotify.com/album/5JBbEJHvC8ux9kYGbdu0od) | 2:28 |
+| 11 | [Control](https://open.spotify.com/track/33aYQD8u61dxbkvYatDWa5) | [Dante Moris](https://open.spotify.com/artist/7d42wwAzJlkmO6nvo70tTa) | [Control](https://open.spotify.com/album/6PDTbnQyukMCnD94FO1Uuu) | 2:22 |
 | 12 | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi) | 2:27 |
 | 13 | [Evidence](https://open.spotify.com/track/3BfUA5HYf8dtXvtnYqtvxw) | [This is Lema](https://open.spotify.com/artist/6xukNNXDc47oIMHVZR5SQv), [Travis Allen](https://open.spotify.com/artist/0l0pHgoBrCcr7wQTrBwbCp), [Saint Ronil](https://open.spotify.com/artist/1cnBbwuD3CUvOf981TFR34) | [Evidence](https://open.spotify.com/album/6xI9kUBYnKMVVtYH6Zj6Dz) | 2:57 |
 | 14 | [SETE \(feat\. Young Stunna & Blxckie\)](https://open.spotify.com/track/5mXZz0tXIToxu3HRohrdSK) | [K.O](https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z), [Young Stunna](https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [SETE \(feat\. Young Stunna & Blxckie\)](https://open.spotify.com/album/7ceVgKif2FV49HL1u7qxlG) | 4:09 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 58 | [Call \(feat\. Ayra Starr\)](https://open.spotify.com/track/6HYLLMWhhAFkNAbxNC2Fv8) | [Iyanya](https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Call \(feat\. Ayra Starr\)](https://open.spotify.com/album/36dJIS4m6wElWShKw7chwJ) | 2:45 |
 | 59 | [Apollo](https://open.spotify.com/track/3OsZkVwyJhGLJ0KrdUx23o) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Apollo](https://open.spotify.com/album/3yblFXYTz2eKaNd36H6QQz) | 2:50 |
 
-Snapshot ID: `MTY2MzI3OTIwMCwwMDAwMDAwMGRiMGIyNTBhMjkyMGMxZjVjZmZmMzRlZmQ2ZjhkOWZi`
+Snapshot ID: `MTY2MzgzNTAwOCwwMDAwMDAwMDdhOTQ3MGFmN2RlNzIxMTA0OGZlODBiYWFiMzJhMTc2`

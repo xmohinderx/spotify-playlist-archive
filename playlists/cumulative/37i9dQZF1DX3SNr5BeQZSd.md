@@ -4,7 +4,7 @@
 
 > Trending lofi beats from across the World Wide Web.
 
-85 songs - 3 hr 22 min - [published](https://open.spotify.com/playlist/7rmX5cFyNiQXXEqbWIw0Ho)
+89 songs - 3 hr 30 min - [published](https://open.spotify.com/playlist/7rmX5cFyNiQXXEqbWIw0Ho)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,13 +48,16 @@
 | [Kya Mujhe Pyaar Hai \- Lofi KK](https://open.spotify.com/track/18mtdSxEPm52HXsl0LbVFN) | [Arnab Maity](https://open.spotify.com/artist/5EISGLKYtFDJzae6rtMhKU) | [Kya Mujhe Pyaar Hai \- Lofi KK](https://open.spotify.com/album/3nQe8Zke0H0KSO8iCQAn9c) | 2:33 | 2022-09-09 |  |
 | [Laaree Chootee](https://open.spotify.com/track/0HnbfIzOu6eLF8Kb1mT9Wl) | [WORMONO](https://open.spotify.com/artist/5osbiefpwljgv3pRQNmbFO), [Tejas R.H](https://open.spotify.com/artist/4cP3ymK1Xo0dqBLp98g95J) | [Laaree Chootee](https://open.spotify.com/album/6DRQUIGYsV228eyPt9VokG) | 2:10 | 2022-09-09 |  |
 | [late nights](https://open.spotify.com/track/48iQKnYSE8eQUXuBqF7eQ2) | [Linearwave](https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk) | [late nights](https://open.spotify.com/album/3D5cqKAqlXUtVnX4hATADb) | 2:08 | 2022-09-09 |  |
+| [Let Me Down Slowly X Aaya Na Tu \- Lofi Mix](https://open.spotify.com/track/3ksl6hn7Ya34q5K3cl7w9I) | [It's DPK](https://open.spotify.com/artist/72alqzixeOnANB0JmmYUoi) | [Let Me Down Slowly X Aaya Na Tu \(Lofi Mix\)](https://open.spotify.com/album/0ldVxOOtaHjanNazGIhWl3) | 2:59 | 2022-09-23 |  |
 | [Lisergia](https://open.spotify.com/track/3bQUlCT5sDqM2pSeKWETJk) | [colours in the dark](https://open.spotify.com/artist/4lRRwA3JsWrOD8f47gI2iI) | [Ócio](https://open.spotify.com/album/4Qpy6jTrqsNcOzFfuJwGxn) | 2:46 | 2022-09-09 |  |
 | [lofi rain](https://open.spotify.com/track/0NDUuWBh1ykEGtIBtD9tAm) | [a girl and a cat](https://open.spotify.com/artist/3uK7MCVwr7FSxnhNKso4Hi) | [lofi study 2021](https://open.spotify.com/album/260iH4R6MRNcDQ79106Icv) | 1:58 | 2022-09-09 |  |
 | [Lofi Rain](https://open.spotify.com/track/0bUYgpgrUaoFouvS0vf6qe) | [Chilled Cougar](https://open.spotify.com/artist/5mxwOjRqpFDSn6zXCqwqiH), [LoFi Waiter](https://open.spotify.com/artist/5H5W5vmpQSBmQv1uMVor61) | [Lofi Rain](https://open.spotify.com/album/57AgBWZUvxvtK48Iqf4S3F) | 2:00 | 2022-09-09 |  |
 | [Long Walks](https://open.spotify.com/track/1lPsRTNOVRIACJug3VaZ1X) | [Laffey](https://open.spotify.com/artist/7LWdcPFBFcRaamGjIJbPV7) | [The Moon and the Mind](https://open.spotify.com/album/6EzlIIHKHZtnpdiTmDLZ9X) | 2:49 | 2022-09-09 |  |
 | [love](https://open.spotify.com/track/7cZlFUJO4BjedIErzdP6iq) | [lofi.samurai](https://open.spotify.com/artist/6NLqFFCoVnFwbXzoIB5Col) | [oldies](https://open.spotify.com/album/6Aq2NyYQkpTbFvr4oJKaEu) | 1:21 | 2022-09-09 |  |
 | [Love Is More Depressing Than Depression](https://open.spotify.com/track/6x2vJWVX5xaYvkISLVu7Kz) | [prxz](https://open.spotify.com/artist/40HzN0eLAMZk4nTHMk9sUA), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [Love Wounds](https://open.spotify.com/album/1h6VRZSqs4FANrEbUCraZc) | 2:13 | 2022-09-09 |  |
+| [love within](https://open.spotify.com/track/6wv5lxSg3U9DSC5KvbQdfr) | [Linearwave](https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk) | [love within](https://open.spotify.com/album/4NYnzOZDYMcQvA3Ome46ej) | 1:37 | 2022-09-23 |  |
 | [lovesick](https://open.spotify.com/track/3A2jJaOKYhmKEy9IyyEJF6) | [potsu](https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA) | [lovesick](https://open.spotify.com/album/3l7m9a8tkGbZPZ44Bd1QoA) | 2:30 | 2022-09-09 |  |
+| [Lucid Dream](https://open.spotify.com/track/6AN0bkQqvfxyLJrnm2a7Ok) | [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O) | [Lucid Dream](https://open.spotify.com/album/636RbErGHHmCYSK8ToIgS5) | 2:05 | 2022-09-23 |  |
 | [magnolia](https://open.spotify.com/track/6PAvEeeSw7zuaQTUnoZPlg) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [magnolia](https://open.spotify.com/album/2HjiysHZDh1xSQQy2Uc0py) | 2:19 | 2022-09-09 |  |
 | [Maine Royaan \(Lofi Remix\)](https://open.spotify.com/track/3khiYRqf3tjb6PSGBhkfl4) | [Tanveer Evan](https://open.spotify.com/artist/4OUraoZcwg1SsMHFjuaajw), [Ahmed Shakib](https://open.spotify.com/artist/2pXBuKCgIX7qJEa2Dfm21a) | [Maine Royaan \(Lofi Remix\)](https://open.spotify.com/album/7E96Jeo9E1LDYsg2hKrDcZ) | 5:04 | 2022-09-09 |  |
 | [Maiyya Mainu \(Lofi\)](https://open.spotify.com/track/3wtqgOJaW0l7bQ2ksSRcNH) | [Akshit Ravat](https://open.spotify.com/artist/47aFMArtTqGAFZifNLuBSy) | [Maiyya Mainu \(Lofi\)](https://open.spotify.com/album/3QcxJXrQK4b6cUDNtjm2Z9) | 2:51 | 2022-09-09 |  |
@@ -93,5 +96,6 @@
 | [Watercolors](https://open.spotify.com/track/1Pc51j567gmnRvTBQuChYY) | [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O) | [Watercolors](https://open.spotify.com/album/0s4uklHAfPCgyHwqJ3hYh7) | 1:53 | 2022-09-16 |  |
 | [Woh Lamhe Woh Baatein \- LoFi](https://open.spotify.com/track/0nBF9RgXqVi1oiQL6JSigs) | [Poorvesh Dave](https://open.spotify.com/artist/3U4ZRBChsjzagb4wcEXutU) | [Lofi Songs](https://open.spotify.com/album/3QuunYLIrBCrdrDlQgaLAe) | 2:21 | 2022-09-09 |  |
 | [Yellow](https://open.spotify.com/track/3S9kCBYnWg7jSSV1XAYL6Q) | [Lofi Fruits Music](https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM), [Chill Fruits Music](https://open.spotify.com/artist/34b7j3TqM5ramjmt2mc8tB) | [Yellow](https://open.spotify.com/album/4C5iCxq8RjQOqLoXaBXWLO) | 1:42 | 2022-09-09 |  |
+| [You're in My Head](https://open.spotify.com/track/4gz5ioUWuYkmtBGKXVZkXY) | [moow](https://open.spotify.com/artist/4dGUoQuMs1zVpafybz4O9d), [Lotte Kestner](https://open.spotify.com/artist/0LmmhAkoebSsbFfgCybcGI) | [I Can't Tell You How Much It Hurts](https://open.spotify.com/album/3f046S4KzdvS5pEmSDMofP) | 1:37 | 2022-09-23 |  |
 
 \*This playlist was first scraped on 2022-09-09. Prior content cannot be recovered.

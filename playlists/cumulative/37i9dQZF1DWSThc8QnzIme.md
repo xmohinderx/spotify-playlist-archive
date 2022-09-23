@@ -4,7 +4,7 @@
 
 > Breeze through your commute with these pop favorites\. Cover: Lizzo
 
-226 songs - 12 hr 0 min - [published](https://open.spotify.com/playlist/0vJdsJlQZRjy621RIKPqKt)
+227 songs - 12 hr 2 min - [published](https://open.spotify.com/playlist/0vJdsJlQZRjy621RIKPqKt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,7 @@
 | [I Can't Help But Feel](https://open.spotify.com/track/40gooTta3y4FgzXaMOGDJL) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [I Can't Help But Feel](https://open.spotify.com/album/7rzTGJdNOe2W5h7pZaSWOr) | 2:58 | 2022-05-20 |  |
 | [I Don’t Think That I Like Her](https://open.spotify.com/track/0zRezEuKtaAXHcB4eruwi2) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [I Don’t Think That I Like Her](https://open.spotify.com/album/5f7yRF519Ruz1yE9x97jID) | 3:08 | 2022-09-16 |  |
 | [I F\*cking Love You](https://open.spotify.com/track/7lYjepjDeboEus0v2nSqu5) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [I F\*cking Love You](https://open.spotify.com/album/2CslMUzH2LTc4rnAuATJCE) | 3:00 | 2022-04-29 | 2022-07-29 |
-| [I Hope \(feat\. Charlie Puth\)](https://open.spotify.com/track/5cYFwgA5dHoqR3xGnlr9ew) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL), [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Goldmine](https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY) | 3:31 | 2022-04-29 |  |
+| [I Hope \(feat\. Charlie Puth\)](https://open.spotify.com/track/5cYFwgA5dHoqR3xGnlr9ew) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL), [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Goldmine](https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY) | 3:31 | 2022-04-29 | 2022-09-23 |
 | [I Just Called](https://open.spotify.com/track/0H8Tclo4x4kbZruQtZFNSX) | [NEIKED](https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [I Just Called](https://open.spotify.com/album/4Qq3n68D2ktEi0eHFMdpSp) | 2:30 | 2022-05-27 | 2022-08-27 |
 | [I Knew You Were Trouble.](https://open.spotify.com/track/72jCZdH0Lhg93z6Z4hBjgj) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red](https://open.spotify.com/album/1EoDsNmgTLtmwe1BDAVxV5) | 3:37 | 2022-04-29 | 2022-08-30 |
 | [I Like Me Better](https://open.spotify.com/track/2P91MQbaiQOfbiz9VqhqKQ) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [I met you when I was 18\. \(the playlist\)](https://open.spotify.com/album/7lqieLm717j9Z8JrG7POkS) | 3:17 | 2022-04-29 |  |
@@ -196,6 +196,7 @@
 | [Super Freaky Girl](https://open.spotify.com/track/4C6Uex2ILwJi9sZXRdmqXp) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Super Freaky Girl](https://open.spotify.com/album/0h5MuD9O9o1VoN07mQmwMQ) | 2:50 | 2022-08-26 |  |
 | [Sweetest Pie](https://open.spotify.com/track/7mFj0LlWtEJaEigguaWqYh) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Sweetest Pie](https://open.spotify.com/album/4qw41n8iWrdR70Ui3hYBPv) | 3:21 | 2022-04-29 |  |
 | [Take My Breath \- Single Version](https://open.spotify.com/track/6OGogr19zPTM4BALXuMQpF) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Take My Breath](https://open.spotify.com/album/6DmXKM13nNgIIby2FdK0f8) | 3:40 | 2022-04-29 | 2022-09-17 |
+| [Talking to Yourself](https://open.spotify.com/track/1sEBlj6fYXiiaGR8XrLSbr) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Talking to Yourself](https://open.spotify.com/album/03O3E9D52ADAd2nzr3wCtb) | 2:53 | 2022-09-16 |  |
 | [That's Where I Am](https://open.spotify.com/track/4f1KkbXHnfIVZ9vmIExByJ) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [That's Where I Am](https://open.spotify.com/album/1gBMpfSlQWoMIsR48U7DLr) | 4:12 | 2022-04-29 | 2022-06-18 |
 | [THATS WHAT I WANT](https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:23 | 2022-04-29 |  |
 | [The Bones](https://open.spotify.com/track/7yFhA2fUsL2oIMWlw5DaHQ) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [GIRL](https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf) | 3:17 | 2022-04-29 | 2022-06-18 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIQpJDqCc10.md) - [plain]
 
 > A selection of the greatest alternative love songs of all time.
 
-[Spotify](https://open.spotify.com/user/spotify) - 440,508 likes - 80 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 440,796 likes - 80 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIQpJDqCc10.md) - [plain]
 | 55 | [When U Love Somebody](https://open.spotify.com/track/68Euox5QCQrf0sMI847CfC) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Mouthfuls](https://open.spotify.com/album/1Wx4ud28ypU7HAWuOHkmQ2) | 4:31 |
 | 56 | [Say Yes](https://open.spotify.com/track/3XtkcPHbYX0BImTQLlbSVN) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Either/Or](https://open.spotify.com/album/6KMdn9HDIqcBPaaok0K34K) | 2:19 |
 | 57 | [She Moves In Her Own Way](https://open.spotify.com/track/2SGBEDwsOAOAHrrdAd304i) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Inside In / Inside Out](https://open.spotify.com/album/4MhInH4XT7ReDV5fCZjaSz) | 2:49 |
-| 58 | [Young Love \(feat\. Laura Marling\)](https://open.spotify.com/track/5Bp3OmGILMam5w6KnafdKY) | [Mystery Jets](https://open.spotify.com/artist/09K1H1DgyIXHsMx2j7KTFX), [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Twenty One](https://open.spotify.com/album/2efbbdHh1iSps9yfBZdy7G) | 3:22 |
-| 59 | [no song without you](https://open.spotify.com/track/3KKUf8F2hktFscLgbH4YwR) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [no song without you](https://open.spotify.com/album/4Mxwp3dJCIEJOqQ4O03BMa) | 2:41 |
+| 58 | [no song without you](https://open.spotify.com/track/3KKUf8F2hktFscLgbH4YwR) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [no song without you](https://open.spotify.com/album/4Mxwp3dJCIEJOqQ4O03BMa) | 2:41 |
+| 59 | [Young Love \(feat\. Laura Marling\)](https://open.spotify.com/track/5Bp3OmGILMam5w6KnafdKY) | [Mystery Jets](https://open.spotify.com/artist/09K1H1DgyIXHsMx2j7KTFX), [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Twenty One](https://open.spotify.com/album/2efbbdHh1iSps9yfBZdy7G) | 3:22 |
 | 60 | [Something Changed](https://open.spotify.com/track/05FgZdqxXg40X0WG8MmWMA) | [Pulp](https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD) | [Different Class](https://open.spotify.com/album/3ly9T2L4pqTZijFgQssd3x) | 3:18 |
 | 61 | [Into Your Arms](https://open.spotify.com/track/2rD9tU2bws0PgOPsI6aIZo) | [The Lemonheads](https://open.spotify.com/artist/6w7fc6IZlo5zwBaKT5jU1X) | [Come On Feel The Lemonheads](https://open.spotify.com/album/6IJq4UXwuTDgEihBeofvjq) | 2:44 |
 | 62 | [I Melt with You \(7" Mix\)](https://open.spotify.com/track/24y09nBEJNRP46uA0FRQQ2) | [Modern English](https://open.spotify.com/artist/0fYPQBOx0vsRMmjUba9HgF) | [After the Snow](https://open.spotify.com/album/4vRPqgP624nl5Nupi3AxzZ) | 3:50 |
@@ -84,9 +84,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIQpJDqCc10.md) - [plain]
 | 74 | [Many of Horror](https://open.spotify.com/track/1auUyL63z3sWnBhooTnz31) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [Only Revolutions](https://open.spotify.com/album/6Ch5ZsoMxpy5Ef2i4mGILh) | 4:18 |
 | 75 | [Pink Bullets](https://open.spotify.com/track/2JPrgWbs19XotmzG3uq3s4) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO) | [Chutes Too Narrow](https://open.spotify.com/album/05APAIA6c0Qf7QtFQYZAKm) | 3:53 |
 | 76 | [Tonight the Streets Are Ours](https://open.spotify.com/track/68UGKNGREtwsO7fDRwftZ2) | [Richard Hawley](https://open.spotify.com/artist/1ZsnHGOLYFg8CAHQQBc1ut) | [Lady's Bridge](https://open.spotify.com/album/5hlcLAkhlCrV6j8NxEptXl) | 3:42 |
-| 77 | [Lloyd, I'm Ready To Be Heartbroken](https://open.spotify.com/track/52PuLmsxTDOI2WAqpzYjoT) | [Camera Obscura](https://open.spotify.com/artist/5gInJ5P5gQnOKPM3SUEVFt) | [Let's Get Out Of This Country](https://open.spotify.com/album/3NcGNYXKiHeygdXXL7czL1) | 3:51 |
-| 78 | [One Life Stand](https://open.spotify.com/track/1BfXy0gM3tmB6Jc1QdtaLj) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [One Life Stand](https://open.spotify.com/album/4g9B6VXmdHhmqYhVHIXsbc) | 5:21 |
+| 77 | [One Life Stand](https://open.spotify.com/track/1BfXy0gM3tmB6Jc1QdtaLj) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [One Life Stand](https://open.spotify.com/album/4g9B6VXmdHhmqYhVHIXsbc) | 5:21 |
+| 78 | [Lloyd, I'm Ready To Be Heartbroken](https://open.spotify.com/track/52PuLmsxTDOI2WAqpzYjoT) | [Camera Obscura](https://open.spotify.com/artist/5gInJ5P5gQnOKPM3SUEVFt) | [Let's Get Out Of This Country](https://open.spotify.com/album/3NcGNYXKiHeygdXXL7czL1) | 3:51 |
 | 79 | [If You Ever Want To Be In Love](https://open.spotify.com/track/0UGRfHjN5t2qRMgfTpYnd3) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chaos And The Calm](https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO) | 3:58 |
 | 80 | [English Rose](https://open.spotify.com/track/2R5zO3Zi0Of0v1DyxusWbk) | [The Jam](https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR) | [All Mod Cons](https://open.spotify.com/album/1zB3OwsKut94AnGBazJUlZ) | 2:49 |
 
-Snapshot ID: `MTY0NDUzNzIyOCwwMDAwMDAwMDllZmJjZTk1OWEyZjI4ZGRiYzIzMjgwNzZkOTViZDg4`
+Snapshot ID: `MTY0NDUzNzIyOCwwMDAwMDAwMGIyYjI3ZDI3MGM1NDg1OGIwMmMyMjU3MWFlNTQyZDYz`

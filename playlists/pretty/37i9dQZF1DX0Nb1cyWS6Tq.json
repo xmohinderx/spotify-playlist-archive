@@ -1,12 +1,12 @@
 {
   "description": "Release The Bats! Cover: Siouxsie and the Banshees",
-  "num_followers": 453263,
+  "num_followers": 453708,
   "original_name": "Dark & Gothic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDAwOTA2OCwwMDAwMDAwMGNjMGMyMjI5ZjQ4OWRiYjRlODc2ODU0M2JmMTY3OGU2",
+  "snapshot_id": "MTY2MDAwOTA2OCwwMDAwMDAwMDZhNGFkMTdiYmQwNmQyOGFmMWNiNDlmMTY5NmUzNzk2",
   "tracks": [
     {
       "added_at": "2022-06-03 16:36:24",
@@ -731,22 +731,6 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Deep",
-        "url": "https://open.spotify.com/album/63VVK15ZBJI5TZu525KTVa"
-      },
-      "artists": [
-        {
-          "name": "Peter Murphy",
-          "url": "https://open.spotify.com/artist/7zeHJIIfNStVfxlbT72UwY"
-        }
-      ],
-      "duration_ms": 228066,
-      "name": "A Strange Kind of Love - Version One",
-      "url": "https://open.spotify.com/track/1zPAojZywAA8wCIScNMGK6"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
         "name": "It'll End In Tears (Remastered)",
         "url": "https://open.spotify.com/album/5gMiiXVgUFVUIHKXC57a0j"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 209093,
       "name": "Kangaroo - Remastered",
       "url": "https://open.spotify.com/track/2HsOICaAi5bwnqyG7uO1Fo"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Deep",
+        "url": "https://open.spotify.com/album/63VVK15ZBJI5TZu525KTVa"
+      },
+      "artists": [
+        {
+          "name": "Peter Murphy",
+          "url": "https://open.spotify.com/artist/7zeHJIIfNStVfxlbT72UwY"
+        }
+      ],
+      "duration_ms": 228066,
+      "name": "A Strange Kind of Love - Version One",
+      "url": "https://open.spotify.com/track/1zPAojZywAA8wCIScNMGK6"
     },
     {
       "added_at": "2021-10-15 04:04:50",

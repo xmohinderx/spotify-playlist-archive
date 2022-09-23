@@ -4,7 +4,7 @@
 
 > because a little left of center is best\. cover: weyes blood
 
-1,844 songs - 4 day 2 hr 43 min - [published](https://open.spotify.com/playlist/2xUOX5SyncubeZSn9gFeBN)
+1,847 songs - 4 day 2 hr 53 min - [published](https://open.spotify.com/playlist/2xUOX5SyncubeZSn9gFeBN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -725,6 +725,7 @@
 | [help herself](https://open.spotify.com/track/4YMc3A256xFBS0xcT77Qce) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Diamond Pistols](https://open.spotify.com/artist/1OzGBMZ8rp73R6DWx0IUr5) | [help herself](https://open.spotify.com/album/1LeB4us5kQb6xoSXM1kws8) | 3:08 | 2021-02-03 | 2021-05-03 |
 | [help herself \(with BENEE\)](https://open.spotify.com/track/7bhpOnHyttMaBCg6WGCRzi) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Diamond Pistols](https://open.spotify.com/artist/1OzGBMZ8rp73R6DWx0IUr5), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [help herself \(with BENEE\)](https://open.spotify.com/album/1dtiE9k4fY5xKRb4r80NKa) | 2:46 | 2021-05-03 | 2021-07-31 |
 | [Henni Heartbreak](https://open.spotify.com/track/3fMTz1KF77Ou49C7laEoJl) | [Almondmilkhunni](https://open.spotify.com/artist/778bhPsYwr6sAELsBBX8MC) | [Henni Heartbreak](https://open.spotify.com/album/5RI7jKxwpcqYUCwWAS4A8r) | 3:02 | 2020-02-14 | 2020-05-28 |
+| [Here With Me](https://open.spotify.com/track/4U4h7WNNyvhpdaDgHSdD4j) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Here With Me](https://open.spotify.com/album/1HPTbRqv30KYao7mpuZ6dm) | 4:02 | 2022-09-22 |  |
 | [HERE'S YOUR SONG](https://open.spotify.com/track/7FvRUeAAf6CkHqlio1DSSm) | [Chloe Lilac](https://open.spotify.com/artist/2CUeVZl8E9ouggdBhyclFx) | [HERE'S YOUR SONG](https://open.spotify.com/album/3ICznkt8nccLnompb552Cp) | 3:34 | 2020-01-17 | 2020-07-29 |
 | [HETEROCHROMIA](https://open.spotify.com/track/3dmUfLSsWUrI5PUYUnCy0v) | [Hadji Gaviota](https://open.spotify.com/artist/4eX6XMjx0GK6eCr59261Q7), [SAIAH](https://open.spotify.com/artist/5ZPYeVqoWNuukwfarvkyJX) | [HETEROCHROMIA](https://open.spotify.com/album/3QPG12bUNPfq1WqbzQO3W5) | 2:13 | 2021-06-11 | 2021-07-23 |
 | [Hey](https://open.spotify.com/track/0HyFrDIBBTVYXIr6IoLK0i) | [Oscar Lang](https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn), [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [bops etc.](https://open.spotify.com/album/2R6cJKQJJh13mGJjcnUXKh) | 3:01 | 2019-07-30\* | 2019-10-11 |
@@ -818,6 +819,7 @@
 | [I Think I Left the Stove On](https://open.spotify.com/track/34HgIvucTKJvDgzHVMaGLG) | [Hotel Ugly](https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb) | [I Think I Left the Stove On](https://open.spotify.com/album/33QDA3HhsTPmeCwR5Mk9gx) | 3:22 | 2022-07-15 |  |
 | [i think i wanna be alone](https://open.spotify.com/track/1md2KOmyjGwQxuy5W39Lsz) | [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [i think i wanna be alone](https://open.spotify.com/album/0QhJHjBtJmNy8sfdQU7XoJ) | 1:42 | 2020-07-18 | 2021-03-06 |
 | [i walk this earth all by myself](https://open.spotify.com/track/5a8QUc4ubHJqQm7vzs2YhA) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [i walk this earth all by myself](https://open.spotify.com/album/6tdl27ojBwZ5ZexzZOP4mG) | 2:25 | 2021-04-01 | 2021-12-02 |
+| [I Wanna](https://open.spotify.com/track/0yG5r8xqtJLfMfbsiak6Ra) | [ella jane](https://open.spotify.com/artist/3gBjSrNsYzzbeo0nwsL21J) | [I Wanna](https://open.spotify.com/album/5KWURvzhIZ1zRn26ONZhyN) | 3:30 | 2022-09-22 |  |
 | [i wanna be your girlfriend](https://open.spotify.com/track/1MbEADz2hSkQAM2Yikfr9Y) | [gglum](https://open.spotify.com/artist/3AYjDTXEMqJP0h1iXq8eYO) | [i wanna be your girlfriend](https://open.spotify.com/album/5pIuwcGXWj9Vl2Ohz37XlH) | 5:11 | 2021-04-10 | 2022-01-22 |
 | [i wanna slam my head against the wall](https://open.spotify.com/track/4dVR8jBG0RQ7jbdi8GRkyd) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [i wanna slam my head against the wall](https://open.spotify.com/album/19frp2ct1Jd1vE6biNvP7n) | 1:56 | 2021-03-18 | 2021-06-05 |
 | [i want to die in your arms](https://open.spotify.com/track/08KjCNJAIG6Y41ssp19yTn) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [i want to die in your arms](https://open.spotify.com/album/4TdNXt2F6mfD6ViYi2vt7f) | 2:16 | 2022-08-26 |  |
@@ -1710,6 +1712,7 @@
 | [UH OH! \(feat\. BENEE\)](https://open.spotify.com/track/3smlpsXoDcTvDqHZTYfJLe) | [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [UH OH! \(feat\. BENEE\)](https://open.spotify.com/album/4TIaOfSOnflI3Qwl4aknsN) | 2:13 | 2022-04-22 | 2022-06-04 |
 | [UNBOUND](https://open.spotify.com/track/4MlEFAvTGtsJw6CGvePq8H) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [UNBOUND](https://open.spotify.com/album/1UbfTiiqAD8ZO39c6Zsenm) | 2:41 | 2020-10-16 | 2021-01-15 |
 | [Unchained Melody](https://open.spotify.com/track/2qhASBzpbFhPRtrnZ5lLnz) | [The Righteous Brothers](https://open.spotify.com/artist/4b0WsB47XCa9F83BmwQ7WX) | [Just Once In My Life](https://open.spotify.com/album/0oeMysdC6eeivvWbvQ9JNm) | 3:38 | 2022-06-21 | 2022-07-02 |
+| [Unconditional](https://open.spotify.com/track/1sSL9TPiaJ70iBOdGWEDuL) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Unconditional](https://open.spotify.com/album/5STa9lDlTJXe3eQu2IesNT) | 3:09 | 2022-09-22 |  |
 | [uninspired](https://open.spotify.com/track/6hPxfqdk3ObCVhePxEYYhF) | [dery](https://open.spotify.com/artist/1ZxMxowLXzup8y1McJ3JbT) | [uninspired](https://open.spotify.com/album/7DpcUxOvaiLBErRpfD14iZ) | 3:46 | 2022-04-01 | 2022-04-28 |
 | [unoriginal](https://open.spotify.com/track/3XDU9wngxRWmiCbBuHviPA) | [splendi](https://open.spotify.com/artist/0FRZAnnUgEu4GXtHYysFw3) | [unoriginal](https://open.spotify.com/album/3ZImuYbhtnBbR1HUKnAG5P) | 3:23 | 2022-05-20 | 2022-06-16 |
 | [unspoken words](https://open.spotify.com/track/0XUU1fzICK7484jpGnfGvd) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [the masquerade](https://open.spotify.com/album/5mNk0mLiGcJHLGiT0mjHmX) | 4:06 | 2019-09-19 | 2020-02-20 |

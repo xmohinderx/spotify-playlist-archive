@@ -4,7 +4,7 @@
 
 > unwind with these alternative favorites.
 
-266 songs - 16 hr 41 min - [published](https://open.spotify.com/playlist/6Sz9PXGuNaiQlCoxe28vAO)
+267 songs - 16 hr 45 min - [published](https://open.spotify.com/playlist/6Sz9PXGuNaiQlCoxe28vAO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,7 +120,8 @@
 | [Heat Waves](https://open.spotify.com/track/6CDzDgIUqeDY5g8ujExx2f) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Heat Waves](https://open.spotify.com/album/69K1zrf6TkXHdYUO8n2qVi) | 3:58 | 2020-07-24 |  |
 | [Heavy Heart](https://open.spotify.com/track/4ax7gFJPsJlE5RYX8Cg78s) | [Bartees Strange](https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG) | [Heavy Heart](https://open.spotify.com/album/0J97gh6EZ7bqsqq4IeGe68) | 4:23 | 2022-04-11 | 2022-09-21 |
 | [Help Me to Feel Again](https://open.spotify.com/track/5dIrRgtvRJQlOHvLdAew1p) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [Help Me to Feel Again](https://open.spotify.com/album/49C5Ln1TXkkl8h8CQjp12A) | 4:22 | 2021-05-14 |  |
-| [Here to Forever](https://open.spotify.com/track/3uKLuVqBd0bIUfFDdn68lI) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Here to Forever](https://open.spotify.com/album/3ysrZoXIO6es1hsQI2iTeZ) | 3:46 | 2022-09-16 |  |
+| [Here to Forever](https://open.spotify.com/track/3uKLuVqBd0bIUfFDdn68lI) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Here to Forever](https://open.spotify.com/album/3ysrZoXIO6es1hsQI2iTeZ) | 3:46 | 2022-09-16 | 2022-09-23 |
+| [Here to Forever](https://open.spotify.com/track/7Cva2EgJougx6O6M5xgWAq) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Asphalt Meadows](https://open.spotify.com/album/2PIWPTOIxbaVSjTnc30vXS) | 3:46 | 2022-09-16 |  |
 | [Here's To Moving On](https://open.spotify.com/track/5CR0GYilasGkYkXUqCQNEr) | [Dashboard Confessional](https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY) | [Here's To Moving On](https://open.spotify.com/album/10JjmdD5wrOGh3Apj0osje) | 4:17 | 2021-11-12 |  |
 | [Hero](https://open.spotify.com/track/1B10XgaxSXRLAFq967oMpF) | [Family of the Year](https://open.spotify.com/artist/7zsin6IgVsR1rqSRCNYDwq) | [Loma Vista](https://open.spotify.com/album/7MbjiPSVdi2TbYALX4gneg) | 3:10 | 2022-04-11 |  |
 | [Hero](https://open.spotify.com/track/6GRDI9suQHikFP6euIXnpq) | [Family of the Year](https://open.spotify.com/artist/7zsin6IgVsR1rqSRCNYDwq) | [Loma Vista](https://open.spotify.com/album/14SCnv027L0HidHq0URIDu) | 3:10 | 2019-06-16\* | 2022-04-21 |

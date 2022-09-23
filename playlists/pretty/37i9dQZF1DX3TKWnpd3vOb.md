@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TKWnpd3vOb.md) - [plain]
 
 > Encuentra un mix de clásicos y nuevos talentos\. Foto: Plumas + Pedropiedra
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,381 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,380 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TKWnpd3vOb.md) - [plain]
 | 59 | [Dual](https://open.spotify.com/track/1i12FygtGjwPG3UBf6Nb8l) | [We Are The Grand](https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT) | [Dual](https://open.spotify.com/album/3WywOeCZ9nXNnnTu5MBGIX) | 4:24 |
 | 60 | [Tanto creo en ti](https://open.spotify.com/track/0r5YhIxh1hmRJ7rSHxg7Vd) | [DePedro](https://open.spotify.com/artist/3wpNKcE7grYUIRKCMpmBOb), [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX) | [Tanto creo en ti](https://open.spotify.com/album/5nvL8Kst2zSHSTfO9S3oZd) | 3:16 |
 | 61 | [De Policía a Ladrón](https://open.spotify.com/track/1jebYwGYhXdIpehhcKyJTt) | [Lanza Internacional](https://open.spotify.com/artist/5s4SbJgMMtIyl0caPyZMmT) | [De Policía a Ladrón](https://open.spotify.com/album/2N7ur7BWpL1xvZ6fIfSzR6) | 3:12 |
-| 62 | [Sabes](https://open.spotify.com/track/6tAzZ3o3XPTIFWCnkiKL32) | [Saiko](https://open.spotify.com/artist/6YgPVbrxWFP9dnp8dsqDry) | [Sabes](https://open.spotify.com/album/1LMbQSacFIEX4CaqwTqb83) | 3:37 |
-| 63 | [Fuego y Mar](https://open.spotify.com/track/63Cj7eloC0gtgyUQNP1Xhe) | [Jawar](https://open.spotify.com/artist/6Y2c7oVQPj8XJbsv3vHndS), [Todos Me Caen Bien](https://open.spotify.com/artist/39V0OLIFDw1VdBaasv2nIb) | [Fuego y Mar](https://open.spotify.com/album/0QltDd9iKuydLMzH5vGMVJ) | 3:44 |
+| 62 | [Fuego y Mar](https://open.spotify.com/track/63Cj7eloC0gtgyUQNP1Xhe) | [Jawar](https://open.spotify.com/artist/6Y2c7oVQPj8XJbsv3vHndS), [Todos Me Caen Bien](https://open.spotify.com/artist/39V0OLIFDw1VdBaasv2nIb) | [Fuego y Mar](https://open.spotify.com/album/0QltDd9iKuydLMzH5vGMVJ) | 3:44 |
+| 63 | [Sabes](https://open.spotify.com/track/6tAzZ3o3XPTIFWCnkiKL32) | [Saiko](https://open.spotify.com/artist/6YgPVbrxWFP9dnp8dsqDry) | [Sabes](https://open.spotify.com/album/1LMbQSacFIEX4CaqwTqb83) | 3:37 |
 | 64 | [Sombras](https://open.spotify.com/track/7yty7k7SUnbm61GvnXPho3) | [We Are The Grand](https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT) | [Sombras](https://open.spotify.com/album/489Zh5KhMDcsJsbmiUlSIe) | 3:53 |
 | 65 | [Rockola](https://open.spotify.com/track/1XoKN9z9XpNGu1MGjmmWxS) | [Julius Popper](https://open.spotify.com/artist/4ZWex7Cr0HbNkpnTZPCcfO) | [Rockola](https://open.spotify.com/album/6WuqaRblv8XoOmZlQSFxux) | 3:31 |
 | 66 | [Kumbagüe](https://open.spotify.com/track/1FaKFinuCoWMuViMMZNscl) | [Nunca Seremos Dichosos](https://open.spotify.com/artist/0XLQ3xZLk6ptsTLMHDKgTR) | [Kollong](https://open.spotify.com/album/5ZWWaYGC3xjLgYrJbXb3IN) | 4:02 |
@@ -85,9 +85,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TKWnpd3vOb.md) - [plain]
 | 75 | [Cuando Respiro En Tu Boca](https://open.spotify.com/track/0hcS3WBHh9F1cXfbulmU8K) | [Lucybell](https://open.spotify.com/artist/3rqpBcetrJVphNTRHDv9ht) | [Navidad Latin Rock](https://open.spotify.com/album/0o8XQxHocFu0pgBQGOQJ7h) | 3:31 |
 | 76 | [Culpa](https://open.spotify.com/track/6EOfFnTp6FX4RgUrVTNRq9) | [BBS Paranoicos](https://open.spotify.com/artist/3m6rsPYI2szH1eab4Gu74U) | [Por 30 Más](https://open.spotify.com/album/3oiaJo9mvrGq1oIbwCfXwh) | 3:04 |
 | 77 | [Tú No Propones Na](https://open.spotify.com/track/6nSO2TaVtEUsfz6nSLRTjq) | [Plumas](https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg) | [Plumas](https://open.spotify.com/album/1KxjF6uxm8ZeYbugagqqgG) | 1:26 |
-| 78 | [Volveremos](https://open.spotify.com/track/2NtVz2PnXor6n99JUa3lni) | [Los Miserables](https://open.spotify.com/artist/7EP6QHjz7FSJZBVjDuAmas) | [Volveremos](https://open.spotify.com/album/2nZ0IhiSRSBTKypqTbm6d7) | 2:34 |
-| 79 | [Ojos del Amanecer](https://open.spotify.com/track/2V5sjtsZVURXteegtebjHw) | [Libra CL](https://open.spotify.com/artist/2YMeDKKo2lRhDfs1AAphax) | [El Efecto, Vol\. II](https://open.spotify.com/album/0smAA02meynY4fG1ad1uge) | 5:10 |
-| 80 | [Fuerzas Que Retroceden](https://open.spotify.com/track/1rvLC0764wddMRkrjAgdOD) | [Mowat](https://open.spotify.com/artist/7vBqkoAdt6FtpwiqWLUVua), [Colombina Parra](https://open.spotify.com/artist/1s60AzQYm7kiHJJoqx7nDk) | [Fuerzas Que Retroceden](https://open.spotify.com/album/6JurjQgNwPldixxSIv3ioE) | 3:51 |
+| 78 | [Fuerzas Que Retroceden](https://open.spotify.com/track/1rvLC0764wddMRkrjAgdOD) | [Mowat](https://open.spotify.com/artist/7vBqkoAdt6FtpwiqWLUVua), [Colombina Parra](https://open.spotify.com/artist/1s60AzQYm7kiHJJoqx7nDk) | [Fuerzas Que Retroceden](https://open.spotify.com/album/6JurjQgNwPldixxSIv3ioE) | 3:51 |
+| 79 | [Volveremos](https://open.spotify.com/track/2NtVz2PnXor6n99JUa3lni) | [Los Miserables](https://open.spotify.com/artist/7EP6QHjz7FSJZBVjDuAmas) | [Volveremos](https://open.spotify.com/album/2nZ0IhiSRSBTKypqTbm6d7) | 2:34 |
+| 80 | [Ojos del Amanecer](https://open.spotify.com/track/2V5sjtsZVURXteegtebjHw) | [Libra CL](https://open.spotify.com/artist/2YMeDKKo2lRhDfs1AAphax) | [El Efecto, Vol\. II](https://open.spotify.com/album/0smAA02meynY4fG1ad1uge) | 5:10 |
 | 81 | [Lugares Que Hablan](https://open.spotify.com/track/5uVEekaGoLZkacaX4foVK4) | [Angel Parra Orrego](https://open.spotify.com/artist/33XTgiMGZUjMR6SnwE2qUy) | [Travesuras](https://open.spotify.com/album/7HI1QkxJ1fsl0ELrXEN9Yo) | 1:37 |
 | 82 | [Camino a Casa](https://open.spotify.com/track/3evQsJptwoHiMgjPEXHgUY) | [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX), [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq) | [Camino a Casa](https://open.spotify.com/album/2ysiEW1gjjAB0WykQp31lU) | 2:53 |
 | 83 | [El Vaivén](https://open.spotify.com/track/5aIrqFydkhSU25u6OQLRdT) | [Juanito Ayala](https://open.spotify.com/artist/4Wy8CFlIS11ODC9wVKBSz4), [La Pegatina](https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK) | [Lo Comido y Lo Bailado](https://open.spotify.com/album/61CtpH0g7Q4Vr4Tr6O1rLh) | 3:09 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TKWnpd3vOb.md) - [plain]
 | 99 | [Son Puros Caballos](https://open.spotify.com/track/3JAyeMLkrl51mRA2Vk5EFB) | [La Floripondio](https://open.spotify.com/artist/73Vk4dL8kYkbRJxWJDq1wL) | [Hipertenso](https://open.spotify.com/album/3yBykHuW218uf6rXjUvl0o) | 2:44 |
 | 100 | [Mujer Robusta \(En Vivo Teatro Caupolicán\)](https://open.spotify.com/track/2LGVZgkkPNl2NRdKjytmoi) | [Sinergia](https://open.spotify.com/artist/1OgaghfYd1qr8DFoNrfDNk), [GrassBrass](https://open.spotify.com/artist/1eJudSmozfcZXqLhvnoWKV) | [25 Años \(En Vivo Teatro Caupolicán\)](https://open.spotify.com/album/6Hi5NK6c0xlretuT0p4epl) | 3:07 |
 
-Snapshot ID: `MTY2MjQwNTA3NCwwMDAwMDAwMDBlYzlmMDA0NjZlZjBkMDIxNzU2YTVkYTQ3ZjIxYTIw`
+Snapshot ID: `MTY2MjQwNTA3NCwwMDAwMDAwMDVmY2Y4ODBhZjZhZjQxM2M4ZWYwYjk5Y2I3MTU4NTM3`

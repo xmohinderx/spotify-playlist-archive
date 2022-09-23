@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDg4NTIwMCwwMDAwMDAwMDQ2ZmE0MTU4YzkyZTU4YThmNDFkZWIxMmY5ZDZlZDE3",
+  "snapshot_id": "MTY2MDg4NTIwMCwwMDAwMDAwMDllNTJkNjEwYzc5ZTY5NmI1M2Q5OTc2NjExMThhMjZi",
   "tracks": [
     {
       "added_at": "2022-08-19 05:00:00",
@@ -827,26 +827,6 @@
     {
       "added_at": "2022-08-19 05:00:00",
       "album": {
-        "name": "Dioza",
-        "url": "https://open.spotify.com/album/1lvjgKQrIdVvCW1br8seek"
-      },
-      "artists": [
-        {
-          "name": "LOOJAN",
-          "url": "https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI"
-        },
-        {
-          "name": "El Malilla",
-          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
-        }
-      ],
-      "duration_ms": 177473,
-      "name": "Dioza",
-      "url": "https://open.spotify.com/track/5Wll8fBMWCf3jeqFg0zmeR"
-    },
-    {
-      "added_at": "2022-08-19 05:00:00",
-      "album": {
         "name": "Que Le Den",
         "url": "https://open.spotify.com/album/61VKPG8wyuhRCpKW8CUPAr"
       },
@@ -867,6 +847,26 @@
       "duration_ms": 193469,
       "name": "Que Le Den",
       "url": "https://open.spotify.com/track/7exmywvlfWdBhc2dLI7z4j"
+    },
+    {
+      "added_at": "2022-08-19 05:00:00",
+      "album": {
+        "name": "Dioza",
+        "url": "https://open.spotify.com/album/1lvjgKQrIdVvCW1br8seek"
+      },
+      "artists": [
+        {
+          "name": "LOOJAN",
+          "url": "https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI"
+        },
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        }
+      ],
+      "duration_ms": 177473,
+      "name": "Dioza",
+      "url": "https://open.spotify.com/track/5Wll8fBMWCf3jeqFg0zmeR"
     },
     {
       "added_at": "2022-08-19 05:00:00",
@@ -975,22 +975,30 @@
     {
       "added_at": "2022-08-19 05:00:00",
       "album": {
-        "name": "La Supremacia",
-        "url": "https://open.spotify.com/album/1rQ7CxU7OJvlzQw8pd3L8M"
+        "name": "Adicta al Perreo",
+        "url": "https://open.spotify.com/album/770P96PUBd6zyZW74N7LI9"
       },
       "artists": [
         {
-          "name": "DJ Pedro Fuentes",
-          "url": "https://open.spotify.com/artist/6Ez7LiWGLxUAl9Gso9zEDs"
+          "name": "Uzielito Mix",
+          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
         },
         {
-          "name": "Santa Griega",
-          "url": "https://open.spotify.com/artist/6Y7LaIJtLawCz1tW0QPHeu"
+          "name": "Los Dolchez",
+          "url": "https://open.spotify.com/artist/1Xt7CAwYqiv9FfzjNCkh54"
+        },
+        {
+          "name": "Beat Boss",
+          "url": "https://open.spotify.com/artist/7vxie3B6LM7xVS0Xouujsl"
+        },
+        {
+          "name": "Antar Castro",
+          "url": "https://open.spotify.com/artist/6h2QL0t7n8lYrKOWCJ4A4z"
         }
       ],
-      "duration_ms": 178723,
-      "name": "Tatuaje",
-      "url": "https://open.spotify.com/track/2RzPVFpfWi2c0vTqzLoHwa"
+      "duration_ms": 215201,
+      "name": "Adicta al Perreo",
+      "url": "https://open.spotify.com/track/419c5nJnQB8W7u6IZqfFZ7"
     },
     {
       "added_at": "2022-08-19 05:00:00",
@@ -1015,22 +1023,26 @@
     {
       "added_at": "2022-08-19 05:00:00",
       "album": {
-        "name": "Anormal",
-        "url": "https://open.spotify.com/album/0bQLohOdGuWywpKztVMR2V"
+        "name": "Chakalon",
+        "url": "https://open.spotify.com/album/4VagqqHetmFhcdyT72j0Uo"
       },
       "artists": [
         {
-          "name": "LOOJAN",
-          "url": "https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI"
+          "name": "TBX",
+          "url": "https://open.spotify.com/artist/5fU21ZKt2txkO1sEOI5rwp"
+        },
+        {
+          "name": "Los Menores",
+          "url": "https://open.spotify.com/artist/51YrdVc67EHkCDRJMHxJal"
         },
         {
           "name": "Malo",
           "url": "https://open.spotify.com/artist/3voOTPDg4JXGVLVWG6wfeb"
         }
       ],
-      "duration_ms": 192586,
-      "name": "Anormal",
-      "url": "https://open.spotify.com/track/3MroASzMNY2lQtg5eQsS9p"
+      "duration_ms": 186352,
+      "name": "Chakalon",
+      "url": "https://open.spotify.com/track/06Uy0GHG2N5CYmw11VSprB"
     }
   ],
   "unique_name": "Reggaet\u00f3n Chakal\u00f3n",

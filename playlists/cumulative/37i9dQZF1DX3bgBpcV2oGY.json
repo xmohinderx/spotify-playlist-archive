@@ -1628,6 +1628,24 @@
     },
     {
       "album": {
+        "name": "Misteriosa",
+        "url": "https://open.spotify.com/album/6e7EoYmMdJ7Wo5ZVUu9N1e"
+      },
+      "artists": [
+        {
+          "name": "Tor Dahl",
+          "url": "https://open.spotify.com/artist/5GfnXcZhvTgsNpj5U1CkBU"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158400,
+      "name": "Misteriosa",
+      "url": "https://open.spotify.com/track/4m8RD2JvsaH13RwZd9EmGd"
+    },
+    {
+      "album": {
         "name": "Mixtlan",
         "url": "https://open.spotify.com/album/28muYyyz6ID3quXRKM4SN0"
       },
@@ -2021,6 +2039,24 @@
       "duration_ms": 166851,
       "name": "Seresta",
       "url": "https://open.spotify.com/track/5cTsLgmhCzeBmTO7jPVkfg"
+    },
+    {
+      "album": {
+        "name": "Settignano",
+        "url": "https://open.spotify.com/album/4v7IruhzOzzXcqIewFc5Nh"
+      },
+      "artists": [
+        {
+          "name": "Amma Lerato",
+          "url": "https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118384,
+      "name": "Settignano",
+      "url": "https://open.spotify.com/track/5b1OOTi5NXuFC06YZyuXK3"
     },
     {
       "album": {

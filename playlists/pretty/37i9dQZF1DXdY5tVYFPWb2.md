@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdY5tVYFPWb2.md) - [plain]
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,009 likes - 100 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,076 likes - 100 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdY5tVYFPWb2.md) - [plain]
 | 99 | [Just be Blue](https://open.spotify.com/track/40EILmSfgFpQb5c5LnHAiP) | [THREE1989](https://open.spotify.com/artist/43pUK083tLA3lk3JQr5ATn) | [Just be Blue](https://open.spotify.com/album/778O7vFyhlYuGXeQjpDfhV) | 4:01 |
 | 100 | [Step in Step in](https://open.spotify.com/track/0qzFZw1TWpnc2XyGM8lhKs) | [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [YonYon](https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl) | [Step in Step in](https://open.spotify.com/album/43riaF3pwPBkCthmadVPu4) | 3:38 |
 
-Snapshot ID: `MTY2MzcxMjgyNywwMDAwMDAwMDI3NjAyYjk0ODE1MWNkMzk1ZGVlZDFhZTQ5ODU1Njll`
+Snapshot ID: `MTY2Mzg1ODgwMCwwMDAwMDAwMDVlYjBkOGFkZGMzNzZkZTI4MmEwMjdlMGRkYmY1MmYz`

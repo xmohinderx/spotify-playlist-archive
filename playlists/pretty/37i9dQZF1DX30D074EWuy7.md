@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30D074EWuy7.md) - [plain]
 
 ### [Jazz Italia](https://open.spotify.com/playlist/37i9dQZF1DX30D074EWuy7)
 
-> Il meglio del Jazz Italiano, in una selezione speciale a cura di <a href="spotify:artist:70S7xGDXv69V2vUv3z1PeT">Joe Barbieri</a>
+> Il meglio del Jazz Italiano, in una selezione speciale a cura di <a href="spotify:artist:70S7xGDXv69V2vUv3z1PeT">Joe Barbieri</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,396 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,413 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30D074EWuy7.md) - [plain]
 | 49 | [L'Angelo](https://open.spotify.com/track/4xxlpdRKbCdPjpL6InlKtK) | [Enrico Rava](https://open.spotify.com/artist/0NLlZlYs28ClkYXasvqmjy), [Barbara Casini](https://open.spotify.com/artist/2tRMmF0qRK7ZUogtxuy8cu) | [Vento](https://open.spotify.com/album/7r5dMP6FDkqqDWMvmCaqsH) | 3:50 |
 | 50 | [I Can't Make You Love Me](https://open.spotify.com/track/3M0o19A4Vq5Z0mKctW1j5L) | [Simona Severini](https://open.spotify.com/artist/7svwx5ZfrR3TUQbGds1F5l) | [Ipotesi](https://open.spotify.com/album/4QE0ufj8ESMinJTSR2DRUa) | 3:17 |
 
-Snapshot ID: `MTY2MTk4MzI2MCwwMDAwMDAwMDdlM2E0YjkwZjkzMWJiMDAwZjYzNDczMWJiMjZmYWJl`
+Snapshot ID: `MTY2Mzg4Mjc3NSwwMDAwMDAwMGNmYWU1ZDZhN2Y4NmExZjk5ZGIxOTYzOWQxNmQyZmZl`

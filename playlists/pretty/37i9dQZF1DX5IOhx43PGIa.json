@@ -1,12 +1,12 @@
 {
   "description": "Illuminating Asian artists everywhere. Cover: NIKI.",
-  "num_followers": 246025,
+  "num_followers": 246083,
   "original_name": "Jasmine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMzNzIwOSwwMDAwMDAwMGI5ZjdiYWEzMTQ4MjBlMDMxYzJhYjU4N2FkNTIwZmM5",
+  "snapshot_id": "MTY2MzMzNzIwOSwwMDAwMDAwMDU2ZWJmMGU4ZDkyZDZmZWE3OTc2NjNmMmJlZTlkNDJj",
   "tracks": [
     {
       "added_at": "2022-09-16 14:06:49",
@@ -395,22 +395,6 @@
     {
       "added_at": "2022-09-16 14:06:49",
       "album": {
-        "name": "Shouldn't Be",
-        "url": "https://open.spotify.com/album/5PsKfMP5ISDmpr4iKhchmO"
-      },
-      "artists": [
-        {
-          "name": "Luke Chiang",
-          "url": "https://open.spotify.com/artist/1dPSMH55yhvjYIwqCP4iDj"
-        }
-      ],
-      "duration_ms": 210436,
-      "name": "Shouldn't Be",
-      "url": "https://open.spotify.com/track/3wefloF3t1sFZx8YMFhqYB"
-    },
-    {
-      "added_at": "2022-09-16 14:06:49",
-      "album": {
         "name": "The Weekend",
         "url": "https://open.spotify.com/album/6zQD9g698P2LjEtKpoBXWq"
       },
@@ -467,22 +451,6 @@
     {
       "added_at": "2022-09-16 14:06:49",
       "album": {
-        "name": "Oceans & Engines",
-        "url": "https://open.spotify.com/album/2va673nk2JXgCxJeTiZdM9"
-      },
-      "artists": [
-        {
-          "name": "NIKI",
-          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
-        }
-      ],
-      "duration_ms": 336000,
-      "name": "Oceans & Engines",
-      "url": "https://open.spotify.com/track/3vZk7OAUjMtVDNC852aNqi"
-    },
-    {
-      "added_at": "2022-09-16 14:06:49",
-      "album": {
         "name": "Blow",
         "url": "https://open.spotify.com/album/2y6aTfBouCa2nRJadWq0WX"
       },
@@ -495,6 +463,22 @@
       "duration_ms": 163933,
       "name": "Blow",
       "url": "https://open.spotify.com/track/0QPPJN3d42PINVAyBPZTC3"
+    },
+    {
+      "added_at": "2022-09-16 14:06:49",
+      "album": {
+        "name": "Oceans & Engines",
+        "url": "https://open.spotify.com/album/2va673nk2JXgCxJeTiZdM9"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "duration_ms": 336000,
+      "name": "Oceans & Engines",
+      "url": "https://open.spotify.com/track/3vZk7OAUjMtVDNC852aNqi"
     },
     {
       "added_at": "2022-09-16 14:06:49",
@@ -551,6 +535,22 @@
     {
       "added_at": "2022-09-16 14:06:49",
       "album": {
+        "name": "Jubilee",
+        "url": "https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "duration_ms": 195370,
+      "name": "Be Sweet",
+      "url": "https://open.spotify.com/track/0dpyzcT3RMNNSd2xKBf35I"
+    },
+    {
+      "added_at": "2022-09-16 14:06:49",
+      "album": {
         "name": "GABRIEL",
         "url": "https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7"
       },
@@ -579,22 +579,6 @@
       "duration_ms": 177720,
       "name": "Keeping Tabs",
       "url": "https://open.spotify.com/track/2zz4plJxtgMIsQg5SMl2Bg"
-    },
-    {
-      "added_at": "2022-09-16 14:06:49",
-      "album": {
-        "name": "Jubilee",
-        "url": "https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY"
-      },
-      "artists": [
-        {
-          "name": "Japanese Breakfast",
-          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
-        }
-      ],
-      "duration_ms": 195370,
-      "name": "Be Sweet",
-      "url": "https://open.spotify.com/track/0dpyzcT3RMNNSd2xKBf35I"
     },
     {
       "added_at": "2022-09-16 14:06:49",
@@ -651,22 +635,6 @@
     {
       "added_at": "2022-09-16 14:06:49",
       "album": {
-        "name": "GABRIEL",
-        "url": "https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7"
-      },
-      "artists": [
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        }
-      ],
-      "duration_ms": 205346,
-      "name": "TOUCH",
-      "url": "https://open.spotify.com/track/5cgy5vMqVZbd8hYutp2txu"
-    },
-    {
-      "added_at": "2022-09-16 14:06:49",
-      "album": {
         "name": "Shang-Chi and The Legend of The Ten Rings: The Album",
         "url": "https://open.spotify.com/album/2kAqjStKcwlDD59H0llhGC"
       },
@@ -679,6 +647,22 @@
       "duration_ms": 201786,
       "name": "Fire In The Sky",
       "url": "https://open.spotify.com/track/3zpGIFghtnVlwMXWyKW474"
+    },
+    {
+      "added_at": "2022-09-16 14:06:49",
+      "album": {
+        "name": "GABRIEL",
+        "url": "https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7"
+      },
+      "artists": [
+        {
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+        }
+      ],
+      "duration_ms": 205346,
+      "name": "TOUCH",
+      "url": "https://open.spotify.com/track/5cgy5vMqVZbd8hYutp2txu"
     },
     {
       "added_at": "2022-09-16 14:06:49",
@@ -975,26 +959,6 @@
     {
       "added_at": "2022-09-16 14:06:49",
       "album": {
-        "name": "trust (feat. RINI)",
-        "url": "https://open.spotify.com/album/2p01yIsIKueoaEQ8SKG7Bh"
-      },
-      "artists": [
-        {
-          "name": "thuy",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        },
-        {
-          "name": "RINI",
-          "url": "https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3"
-        }
-      ],
-      "duration_ms": 197557,
-      "name": "trust (feat. RINI)",
-      "url": "https://open.spotify.com/track/6GJv5FTWGHWgl4uPdpc6O2"
-    },
-    {
-      "added_at": "2022-09-16 14:06:49",
-      "album": {
         "name": "Wishful Thinking",
         "url": "https://open.spotify.com/album/4q6HSxSGsjT8jEah5Kyyie"
       },
@@ -1023,6 +987,26 @@
       "duration_ms": 133897,
       "name": "24",
       "url": "https://open.spotify.com/track/5nsMKSAJwcr1pA9I6PW429"
+    },
+    {
+      "added_at": "2022-09-16 14:06:49",
+      "album": {
+        "name": "trust (feat. RINI)",
+        "url": "https://open.spotify.com/album/2p01yIsIKueoaEQ8SKG7Bh"
+      },
+      "artists": [
+        {
+          "name": "thuy",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        },
+        {
+          "name": "RINI",
+          "url": "https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3"
+        }
+      ],
+      "duration_ms": 197557,
+      "name": "trust (feat. RINI)",
+      "url": "https://open.spotify.com/track/6GJv5FTWGHWgl4uPdpc6O2"
     },
     {
       "added_at": "2022-09-16 14:06:49",
@@ -1783,26 +1767,6 @@
     {
       "added_at": "2022-09-16 14:06:49",
       "album": {
-        "name": "From You",
-        "url": "https://open.spotify.com/album/7CynwysFOxoGWp1QLAB6uZ"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        },
-        {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
-        }
-      ],
-      "duration_ms": 210280,
-      "name": "From You",
-      "url": "https://open.spotify.com/track/3Qfqbu22C7aK2MuWBSnM5A"
-    },
-    {
-      "added_at": "2022-09-16 14:06:49",
-      "album": {
         "name": "At Least I Had You",
         "url": "https://open.spotify.com/album/3A68xuHs3jOElQqx87Ae1O"
       },
@@ -1819,6 +1783,26 @@
       "duration_ms": 203006,
       "name": "At Least I Had You",
       "url": "https://open.spotify.com/track/3hpR0IWUJMvtlq3aAyKPqz"
+    },
+    {
+      "added_at": "2022-09-16 14:06:49",
+      "album": {
+        "name": "From You",
+        "url": "https://open.spotify.com/album/7CynwysFOxoGWp1QLAB6uZ"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        },
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "duration_ms": 210280,
+      "name": "From You",
+      "url": "https://open.spotify.com/track/3Qfqbu22C7aK2MuWBSnM5A"
     },
     {
       "added_at": "2022-09-16 14:06:49",
@@ -1903,30 +1887,6 @@
     {
       "added_at": "2022-09-16 14:06:49",
       "album": {
-        "name": "Tonight",
-        "url": "https://open.spotify.com/album/687uOfAM7hTY67aF32Pu7H"
-      },
-      "artists": [
-        {
-          "name": "MFMF.",
-          "url": "https://open.spotify.com/artist/4VyJgkmyclZOaiKFmqX9jR"
-        },
-        {
-          "name": "Talitha.",
-          "url": "https://open.spotify.com/artist/4wkxDp8esk6g2W9Fw7IQGY"
-        },
-        {
-          "name": "RESORT",
-          "url": "https://open.spotify.com/artist/5xuLRF6Q5vKklxMJ3ZXJng"
-        }
-      ],
-      "duration_ms": 186923,
-      "name": "Tonight",
-      "url": "https://open.spotify.com/track/2CG7zjTjZHHjkimuGGLiOP"
-    },
-    {
-      "added_at": "2022-09-16 14:06:49",
-      "album": {
         "name": "hurts 2 hate somebody (with Chase Atlantic & No Rome)",
         "url": "https://open.spotify.com/album/7vn8aDaUDC46EAnXy0eht4"
       },
@@ -1947,6 +1907,30 @@
       "duration_ms": 186665,
       "name": "hurts 2 hate somebody (with Chase Atlantic & No Rome)",
       "url": "https://open.spotify.com/track/5D1D4CHCew0XWorrFv5jSg"
+    },
+    {
+      "added_at": "2022-09-16 14:06:49",
+      "album": {
+        "name": "Tonight",
+        "url": "https://open.spotify.com/album/687uOfAM7hTY67aF32Pu7H"
+      },
+      "artists": [
+        {
+          "name": "MFMF.",
+          "url": "https://open.spotify.com/artist/4VyJgkmyclZOaiKFmqX9jR"
+        },
+        {
+          "name": "Talitha.",
+          "url": "https://open.spotify.com/artist/4wkxDp8esk6g2W9Fw7IQGY"
+        },
+        {
+          "name": "RESORT",
+          "url": "https://open.spotify.com/artist/5xuLRF6Q5vKklxMJ3ZXJng"
+        }
+      ],
+      "duration_ms": 186923,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/2CG7zjTjZHHjkimuGGLiOP"
     },
     {
       "added_at": "2022-09-16 14:06:49",
@@ -2059,22 +2043,6 @@
     {
       "added_at": "2022-09-16 14:06:49",
       "album": {
-        "name": "Nobody Sees Me Like You Do",
-        "url": "https://open.spotify.com/album/6W8UhZlIF4yuQolmJPAO1P"
-      },
-      "artists": [
-        {
-          "name": "Japanese Breakfast",
-          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
-        }
-      ],
-      "duration_ms": 211635,
-      "name": "Nobody Sees Me Like You Do",
-      "url": "https://open.spotify.com/track/3vGsonmcc2Y7x8BZYKnjhi"
-    },
-    {
-      "added_at": "2022-09-16 14:06:49",
-      "album": {
         "name": "That XX - Spotify Singles",
         "url": "https://open.spotify.com/album/4jFrmvzBjQc9lnTeaIr8Qo"
       },
@@ -2107,6 +2075,22 @@
       "duration_ms": 230842,
       "name": "Me & Mrs. Wong",
       "url": "https://open.spotify.com/track/1f4azUUkHGvH43cbnp1Mca"
+    },
+    {
+      "added_at": "2022-09-16 14:06:49",
+      "album": {
+        "name": "Nobody Sees Me Like You Do",
+        "url": "https://open.spotify.com/album/6W8UhZlIF4yuQolmJPAO1P"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "duration_ms": 211635,
+      "name": "Nobody Sees Me Like You Do",
+      "url": "https://open.spotify.com/track/3vGsonmcc2Y7x8BZYKnjhi"
     },
     {
       "added_at": "2022-09-16 14:06:49",
@@ -2159,6 +2143,26 @@
     {
       "added_at": "2022-09-16 14:06:49",
       "album": {
+        "name": "chump change",
+        "url": "https://open.spotify.com/album/4k2Hqh0Df6b788PGH6KAUE"
+      },
+      "artists": [
+        {
+          "name": "AUDREY NUNA",
+          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
+        },
+        {
+          "name": "Deb Never",
+          "url": "https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul"
+        }
+      ],
+      "duration_ms": 132826,
+      "name": "sardines",
+      "url": "https://open.spotify.com/track/2sFXzS9LnbQe5BigrfsVRP"
+    },
+    {
+      "added_at": "2022-09-16 14:06:49",
+      "album": {
         "name": "WEST",
         "url": "https://open.spotify.com/album/2Z6pkESrKWO14hSFVaUNmS"
       },
@@ -2187,26 +2191,6 @@
       "duration_ms": 155142,
       "name": "Feels Like I'm Flying",
       "url": "https://open.spotify.com/track/4241yTRttQpIbbP5w45k8p"
-    },
-    {
-      "added_at": "2022-09-16 14:06:49",
-      "album": {
-        "name": "chump change",
-        "url": "https://open.spotify.com/album/4k2Hqh0Df6b788PGH6KAUE"
-      },
-      "artists": [
-        {
-          "name": "AUDREY NUNA",
-          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
-        },
-        {
-          "name": "Deb Never",
-          "url": "https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul"
-        }
-      ],
-      "duration_ms": 132826,
-      "name": "sardines",
-      "url": "https://open.spotify.com/track/2sFXzS9LnbQe5BigrfsVRP"
     },
     {
       "added_at": "2022-09-16 14:06:49",
@@ -2491,6 +2475,26 @@
     {
       "added_at": "2022-09-16 14:06:49",
       "album": {
+        "name": "I AM U",
+        "url": "https://open.spotify.com/album/52cZAcrw0TQpiQSMlW8Bfq"
+      },
+      "artists": [
+        {
+          "name": "ShiGGa Shay",
+          "url": "https://open.spotify.com/artist/3vYlOrtxEjNzvUPhacOdoV"
+        },
+        {
+          "name": "\u00d8ZI",
+          "url": "https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD"
+        }
+      ],
+      "duration_ms": 142040,
+      "name": "Mercury (feat. \u00d8ZI)",
+      "url": "https://open.spotify.com/track/3uxThTbkNafNIFS8nIDlfM"
+    },
+    {
+      "added_at": "2022-09-16 14:06:49",
+      "album": {
         "name": "what are we?",
         "url": "https://open.spotify.com/album/56TDcCVGF0BuPWOuAlghsj"
       },
@@ -2511,26 +2515,6 @@
       "duration_ms": 153600,
       "name": "what are we?",
       "url": "https://open.spotify.com/track/7EpoDg0xKyD29FMvYwNxP1"
-    },
-    {
-      "added_at": "2022-09-16 14:06:49",
-      "album": {
-        "name": "I AM U",
-        "url": "https://open.spotify.com/album/52cZAcrw0TQpiQSMlW8Bfq"
-      },
-      "artists": [
-        {
-          "name": "ShiGGa Shay",
-          "url": "https://open.spotify.com/artist/3vYlOrtxEjNzvUPhacOdoV"
-        },
-        {
-          "name": "\u00d8ZI",
-          "url": "https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD"
-        }
-      ],
-      "duration_ms": 142040,
-      "name": "Mercury (feat. \u00d8ZI)",
-      "url": "https://open.spotify.com/track/3uxThTbkNafNIFS8nIDlfM"
     },
     {
       "added_at": "2022-09-16 14:06:49",
@@ -2639,6 +2623,22 @@
     {
       "added_at": "2022-09-16 14:06:49",
       "album": {
+        "name": "SPOILED BITCH",
+        "url": "https://open.spotify.com/album/7lxXHaz0xtxwWxMZn0GN53"
+      },
+      "artists": [
+        {
+          "name": "Tiffany Day",
+          "url": "https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu"
+        }
+      ],
+      "duration_ms": 140500,
+      "name": "SPOILED BITCH",
+      "url": "https://open.spotify.com/track/3agccBcICCxc1WWkG3XuvE"
+    },
+    {
+      "added_at": "2022-09-16 14:06:49",
+      "album": {
         "name": "SEND HELP",
         "url": "https://open.spotify.com/album/7pcDzQ0QM54XXOqZf6BmSt"
       },
@@ -2679,34 +2679,38 @@
     {
       "added_at": "2022-09-16 14:06:49",
       "album": {
-        "name": "SPOILED BITCH",
-        "url": "https://open.spotify.com/album/7lxXHaz0xtxwWxMZn0GN53"
+        "name": "Space",
+        "url": "https://open.spotify.com/album/2wlUiuYslbNLsbsRHy08U9"
       },
       "artists": [
         {
-          "name": "Tiffany Day",
-          "url": "https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu"
+          "name": "AUDREY NUNA",
+          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
         }
       ],
-      "duration_ms": 140500,
-      "name": "SPOILED BITCH",
-      "url": "https://open.spotify.com/track/3agccBcICCxc1WWkG3XuvE"
+      "duration_ms": 193396,
+      "name": "Space",
+      "url": "https://open.spotify.com/track/0CtFIDCGTfn34IBYKkApU3"
     },
     {
       "added_at": "2022-09-16 14:06:49",
       "album": {
-        "name": "Cougar",
-        "url": "https://open.spotify.com/album/3Muji1llzu5xew9ONMfsQD"
+        "name": "THREE IN THE MORNING",
+        "url": "https://open.spotify.com/album/5MSbl628EwzcspxK0IthV8"
       },
       "artists": [
         {
-          "name": "Eric Reprid",
-          "url": "https://open.spotify.com/artist/1f2Bnuuv7FxEx2x8iiEBzR"
+          "name": "k?d",
+          "url": "https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf"
+        },
+        {
+          "name": "Cecilia Gault",
+          "url": "https://open.spotify.com/artist/1A1ZXMqcpElewwm16R0cmk"
         }
       ],
-      "duration_ms": 170066,
-      "name": "Cougar",
-      "url": "https://open.spotify.com/track/6vpbR7ppnFZ0OQ3QF3c6Jf"
+      "duration_ms": 167619,
+      "name": "THREE IN THE MORNING",
+      "url": "https://open.spotify.com/track/3huLyepH2dViuUYLhMK1Iy"
     }
   ],
   "unique_name": "Jasmine",

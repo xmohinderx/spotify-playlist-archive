@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDdN3ZRC5EmY.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/20GjXoOdMhodfDMvSdh6mm">Jessie Reyez</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,954 likes - 62 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,957 likes - 62 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDdN3ZRC5EmY.md) - [plain]
 | 3 | [Ocean](https://open.spotify.com/track/6qoIFQfdmaQF9A1gb67tR7) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [OCEAN](https://open.spotify.com/album/4i5b4YWuMtneUSvQPONwzK) | 2:35 |
 | 4 | [FIGURES](https://open.spotify.com/track/3U3J5v3rkx89WnFEQvAJD5) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Kiddo](https://open.spotify.com/album/2q7EwuXduuQGDJrPYPVFyw) | 4:00 |
 | 5 | [IMPORTED \(with 6LACK\)](https://open.spotify.com/track/2shEeQzAAL3nnOXfB5pJXx) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [BEFORE LOVE CAME TO KILL US](https://open.spotify.com/album/42MQxlJENU0xJORW7byNNS) | 3:45 |
-| 6 | [Good Guy \(feat\. Jessie Reyez\)](https://open.spotify.com/track/4g32MdRoqwGKQd3NXIRhpU) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Kamikaze](https://open.spotify.com/album/3HNnxK7NgLXbDoxRZxNWiR) | 2:22 |
-| 7 | [Potion \(with Dua Lipa & Young Thug\)](https://open.spotify.com/track/3h8tI65xdfpQyTAy7Grqwa) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Funk Wav Bounces Vol\. 2](https://open.spotify.com/album/49DV9eFp2xTdtO7veew5xS) | 3:35 |
+| 6 | [Potion \(with Dua Lipa & Young Thug\)](https://open.spotify.com/track/3h8tI65xdfpQyTAy7Grqwa) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Funk Wav Bounces Vol\. 2](https://open.spotify.com/album/49DV9eFp2xTdtO7veew5xS) | 3:35 |
+| 7 | [Good Guy \(feat\. Jessie Reyez\)](https://open.spotify.com/track/4g32MdRoqwGKQd3NXIRhpU) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Kamikaze](https://open.spotify.com/album/3HNnxK7NgLXbDoxRZxNWiR) | 2:22 |
 | 8 | [Rush \(feat\. Jessie Reyez\)](https://open.spotify.com/track/7tTRP2vA00uScZ4SjB3ZQZ) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Rush \(feat\. Jessie Reyez\)](https://open.spotify.com/album/5uwgv6t86N0WpA0IxtFkFn) | 3:18 |
 | 9 | [Faking It \(feat\. Kehlani & Lil Yachty\)](https://open.spotify.com/track/0pJPdSVti6cTM1Q6xYGmcf) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Funk Wav](https://open.spotify.com/artist/4A0TivfinfALCAMJqqjZIk) | [Funk Wav Bounces Vol.1](https://open.spotify.com/album/2HaqChIDc5go3qxVunBDK0) | 4:00 |
 | 10 | [Nice Guy \(with Jessie Reyez\)](https://open.spotify.com/track/09FfQO3PqHO4HIJL511Ksi) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Kamikaze](https://open.spotify.com/album/3HNnxK7NgLXbDoxRZxNWiR) | 2:30 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDdN3ZRC5EmY.md) - [plain]
 | 30 | [Fuck It](https://open.spotify.com/track/2iPo6qr1P0xQDWgbLCAJ7t) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Kiddo](https://open.spotify.com/album/2q7EwuXduuQGDJrPYPVFyw) | 3:05 |
 | 31 | [Dear Yessie](https://open.spotify.com/track/7CF1huK3rloG4qZhp9ruor) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Being Human In Public](https://open.spotify.com/album/0dZlf6U1djSwKxMrJ0RZgQ) | 3:09 |
 | 32 | [Phone Calls](https://open.spotify.com/track/4DgR4zgbO0vW5rYwyYUM6V) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Phone Calls](https://open.spotify.com/album/2hyqzu8QYVj8RazBhNZr7N) | 3:01 |
-| 33 | [SCAR](https://open.spotify.com/track/1k9bH40gL6lCMIgHOsTDP8) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [The Lion King: The Gift](https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx) | 3:06 |
-| 34 | [DO YOU LOVE HER](https://open.spotify.com/track/5NRCNo7S8HP7nxYIPxemwp) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [BEFORE LOVE CAME TO KILL US](https://open.spotify.com/album/42MQxlJENU0xJORW7byNNS) | 3:16 |
+| 33 | [DO YOU LOVE HER](https://open.spotify.com/track/5NRCNo7S8HP7nxYIPxemwp) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [BEFORE LOVE CAME TO KILL US](https://open.spotify.com/album/42MQxlJENU0xJORW7byNNS) | 3:16 |
+| 34 | [SCAR](https://open.spotify.com/track/1k9bH40gL6lCMIgHOsTDP8) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [The Lion King: The Gift](https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx) | 3:06 |
 | 35 | [BEFORE LOVE CAME TO KILL US](https://open.spotify.com/track/7qQUyJYrHdAVxKeZBy6fyf) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [BEFORE LOVE CAME TO KILL US](https://open.spotify.com/album/42MQxlJENU0xJORW7byNNS) | 4:05 |
 | 36 | [Saint Nobody](https://open.spotify.com/track/3ZFekh9adaBDBxugiWwIJU) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Being Human In Public](https://open.spotify.com/album/0dZlf6U1djSwKxMrJ0RZgQ) | 3:13 |
 | 37 | [Cotton Candy](https://open.spotify.com/track/2Qk3arYe9kMXtwq5sc4cC7) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Cotton Candy](https://open.spotify.com/album/6RfOw8x2vmRaM6XZDJWQn0) | 2:14 |
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDdN3ZRC5EmY.md) - [plain]
 | 61 | [Coffin](https://open.spotify.com/track/2CWZ7nG31mNqWyvM2RcdLr) | [Yaielle Golden](https://open.spotify.com/artist/79nlaaiSCwAMxb3PlsjVvV) | [Bedroom Studio Covers](https://open.spotify.com/album/4N6b3CWuyGjsG2DaMfw4RP) | 2:59 |
 | 62 | [Rain](https://open.spotify.com/track/23ytV3kbb4LHaAyPOzP0v7) | [J\-Benji3](https://open.spotify.com/artist/6ywzkeo5qo0eG2MjT6UeVP) | [Blue Benji](https://open.spotify.com/album/5MpZCA7sjUbJBxnSEyCdD3) | 2:49 |
 
-Snapshot ID: `Mjc3MzAyMDIsMDAwMDAwMDA4NzMxOGUwMTc4NDA0ZmExZmVkMWRkNGNkMDNhNjIyMg==`
+Snapshot ID: `Mjc3MzE2NDIsMDAwMDAwMDAzMWVjMjRjNzc2NGFiZGJkYmY3OWQ1NzNkODkwNDQ0MQ==`

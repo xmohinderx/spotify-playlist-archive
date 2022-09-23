@@ -1,12 +1,12 @@
 {
   "description": "Fresh releases from Latin independent artists and labels. Lanzamientos frescos de artistas y sellos latinxs independientes. La Queens Tafari on cover.",
-  "num_followers": 166842,
+  "num_followers": 166855,
   "original_name": "Fresh Finds Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzc3NjAwMCwwMDAwMDAwMDc3NmQ4OThjZjgzZWUwMDI3ZWYyMjkwYTBhYmQ5NGIy",
+  "snapshot_id": "MTY2Mzc3NjAwMCwwMDAwMDAwMGEwNjAwNTY1MjBlMDRiYTc1NmMwNmEyMGMxMmM1Nzdj",
   "tracks": [
     {
       "added_at": "2022-09-21 16:00:00",
@@ -463,22 +463,6 @@
     {
       "added_at": "2022-09-21 16:00:00",
       "album": {
-        "name": "Posguerra",
-        "url": "https://open.spotify.com/album/78FkR6dvHY3QXLu5Y7wDZF"
-      },
-      "artists": [
-        {
-          "name": "Atr\u00e1s Hay Truenos",
-          "url": "https://open.spotify.com/artist/6KDozt8X774pjyp1oVMsmz"
-        }
-      ],
-      "duration_ms": 251451,
-      "name": "Posguerra",
-      "url": "https://open.spotify.com/track/5Kb5RhVvDm5he4xTJ1aNqQ"
-    },
-    {
-      "added_at": "2022-09-21 16:00:00",
-      "album": {
         "name": "Medusa",
         "url": "https://open.spotify.com/album/1FGitIgiVbZh21SrFMBt8G"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 247698,
       "name": "Medusa",
       "url": "https://open.spotify.com/track/6M2fkduE9eKOmZFTS3IDlp"
+    },
+    {
+      "added_at": "2022-09-21 16:00:00",
+      "album": {
+        "name": "Posguerra",
+        "url": "https://open.spotify.com/album/78FkR6dvHY3QXLu5Y7wDZF"
+      },
+      "artists": [
+        {
+          "name": "Atr\u00e1s Hay Truenos",
+          "url": "https://open.spotify.com/artist/6KDozt8X774pjyp1oVMsmz"
+        }
+      ],
+      "duration_ms": 251451,
+      "name": "Posguerra",
+      "url": "https://open.spotify.com/track/5Kb5RhVvDm5he4xTJ1aNqQ"
     },
     {
       "added_at": "2022-09-21 16:00:00",

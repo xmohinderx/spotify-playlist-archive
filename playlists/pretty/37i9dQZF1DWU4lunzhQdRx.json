@@ -1,12 +1,12 @@
 {
   "description": "cry just a little",
-  "num_followers": 23945,
+  "num_followers": 24077,
   "original_name": "sad girl country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzAzMDMwNSwwMDAwMDAwMDAzM2Y3ZDkyZGRjNmRkN2E3MTBkN2U4ZDM4NzYzYmY5",
+  "snapshot_id": "MTY2MzAzMDMwNSwwMDAwMDAwMGE2YjQzMWZhMjIyYjhmZGM1YTRmODE0NjM5MzM0MWQx",
   "tracks": [
     {
       "added_at": "2022-09-13 00:51:45",
@@ -291,22 +291,6 @@
     {
       "added_at": "2022-09-13 00:51:45",
       "album": {
-        "name": "Did I Shave My Legs For This?",
-        "url": "https://open.spotify.com/album/3rVrwVrTgiFmCBZCmYBryn"
-      },
-      "artists": [
-        {
-          "name": "Deana Carter",
-          "url": "https://open.spotify.com/artist/0aqrM7Fo3Ml66Kc5JAzmjt"
-        }
-      ],
-      "duration_ms": 291533,
-      "name": "Strawberry Wine",
-      "url": "https://open.spotify.com/track/5Pgwi0iizu96RHxJ4xL3SH"
-    },
-    {
-      "added_at": "2022-09-13 00:51:45",
-      "album": {
         "name": "FLOWER SHOPS (THE ALBUM)",
         "url": "https://open.spotify.com/album/5mTNFZBZyKIZSYrIAf9c5L"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 214405,
       "name": "Flower Shops (feat. Morgan Wallen)",
       "url": "https://open.spotify.com/track/0De9jFjJ4eRLl7Yww2eBw1"
+    },
+    {
+      "added_at": "2022-09-13 00:51:45",
+      "album": {
+        "name": "Did I Shave My Legs For This?",
+        "url": "https://open.spotify.com/album/3rVrwVrTgiFmCBZCmYBryn"
+      },
+      "artists": [
+        {
+          "name": "Deana Carter",
+          "url": "https://open.spotify.com/artist/0aqrM7Fo3Ml66Kc5JAzmjt"
+        }
+      ],
+      "duration_ms": 291533,
+      "name": "Strawberry Wine",
+      "url": "https://open.spotify.com/track/5Pgwi0iizu96RHxJ4xL3SH"
     },
     {
       "added_at": "2022-09-13 00:51:45",
@@ -807,22 +807,6 @@
     {
       "added_at": "2022-09-13 00:51:45",
       "album": {
-        "name": "If You Have To",
-        "url": "https://open.spotify.com/album/31jtMX7GvPB6gtQBCGA6xL"
-      },
-      "artists": [
-        {
-          "name": "Ella Langley",
-          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
-        }
-      ],
-      "duration_ms": 199493,
-      "name": "If You Have To",
-      "url": "https://open.spotify.com/track/5aWxPjDd4ZfpsmDoeR1plq"
-    },
-    {
-      "added_at": "2022-09-13 00:51:45",
-      "album": {
         "name": "Hair Salon",
         "url": "https://open.spotify.com/album/3R5YoSrkdqrE5tvYgfKl0E"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 224581,
       "name": "Hair Salon",
       "url": "https://open.spotify.com/track/04jS8ttbCZdesbAhbOmMzG"
+    },
+    {
+      "added_at": "2022-09-13 00:51:45",
+      "album": {
+        "name": "If You Have To",
+        "url": "https://open.spotify.com/album/31jtMX7GvPB6gtQBCGA6xL"
+      },
+      "artists": [
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        }
+      ],
+      "duration_ms": 199493,
+      "name": "If You Have To",
+      "url": "https://open.spotify.com/track/5aWxPjDd4ZfpsmDoeR1plq"
     }
   ],
   "unique_name": "sad girl country",

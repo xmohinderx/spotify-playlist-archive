@@ -4,7 +4,7 @@
 
 > This is Adrianne Lenker\. The essential tracks, all in one playlist.
 
-37 songs - 2 hr 31 min - [published](https://open.spotify.com/playlist/1ulqcDC3O7qdPCMIeHzm0c)
+38 songs - 2 hr 34 min - [published](https://open.spotify.com/playlist/1ulqcDC3O7qdPCMIeHzm0c)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,14 +14,15 @@
 | [abyss kiss](https://open.spotify.com/track/0aI9eihvBSQRjMjtHQQ6nb) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [abysskiss](https://open.spotify.com/album/1Bff8eaWt2o058OQIq2OPa) | 3:03 | 2022-09-16 |  |
 | [Angels](https://open.spotify.com/track/2DsQ4PopTlUlheqyPgPwQz) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY), [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [b\-sides](https://open.spotify.com/album/7skmDXP36SNveM5XKFoLuK) | 4:08 | 2022-09-16 |  |
 | [anything](https://open.spotify.com/track/4PwWESSlTwzvw9B7bmtTLS) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [songs](https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ) | 3:22 | 2022-09-16 |  |
-| [blue and red horses](https://open.spotify.com/track/4N2LdRzYxtWKTkHH3G9d1L) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [abysskiss](https://open.spotify.com/album/1Bff8eaWt2o058OQIq2OPa) | 3:17 | 2022-09-20 | 2022-09-22 |
+| [blue and red horses](https://open.spotify.com/track/4N2LdRzYxtWKTkHH3G9d1L) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [abysskiss](https://open.spotify.com/album/1Bff8eaWt2o058OQIq2OPa) | 3:17 | 2022-09-20 |  |
 | [Carolina](https://open.spotify.com/track/2wEFuTCFRBvUTet1gomQGa) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY), [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [b\-sides](https://open.spotify.com/album/7skmDXP36SNveM5XKFoLuK) | 2:30 | 2022-09-16 |  |
 | [cradle](https://open.spotify.com/track/7rc0yk3tTHn4Qkw4MOnxoE) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [abysskiss](https://open.spotify.com/album/1Bff8eaWt2o058OQIq2OPa) | 3:17 | 2022-09-18 | 2022-09-20 |
 | [Disappear](https://open.spotify.com/track/4T0d6S1Moe4x25pxBUcqeP) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Hours Were the Birds](https://open.spotify.com/album/3ZQoTj4ttmoO45QUE6StBW) | 3:51 | 2022-09-16 |  |
+| [dragon eyes](https://open.spotify.com/track/2u0vK4Gf1IaEdcI7MtRWP5) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [songs](https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ) | 3:26 | 2022-09-22 |  |
 | [forwards beckon rebound](https://open.spotify.com/track/6PBanBy8L1K2Ry4UN186XH) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [songs](https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ) | 3:09 | 2022-09-18 | 2022-09-21 |
-| [from](https://open.spotify.com/track/23gGydKm31irm5Bly0W2V7) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [abysskiss](https://open.spotify.com/album/1Bff8eaWt2o058OQIq2OPa) | 3:38 | 2022-09-16 |  |
+| [from](https://open.spotify.com/track/23gGydKm31irm5Bly0W2V7) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [abysskiss](https://open.spotify.com/album/1Bff8eaWt2o058OQIq2OPa) | 3:38 | 2022-09-16 | 2022-09-23 |
 | [Gone](https://open.spotify.com/track/2kpXDkEoZOebZmiQXPCBdO) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Hours Were the Birds](https://open.spotify.com/album/3ZQoTj4ttmoO45QUE6StBW) | 4:06 | 2022-09-16 |  |
-| [half return](https://open.spotify.com/track/1i8dJGpKO0xQiKGCVslJqB) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [songs](https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ) | 2:08 | 2022-09-16 |  |
+| [half return](https://open.spotify.com/track/1i8dJGpKO0xQiKGCVslJqB) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [songs](https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ) | 2:08 | 2022-09-16 | 2022-09-23 |
 | [Hours Were the Birds](https://open.spotify.com/track/4IRrvuLi0cGNg3XED8H98j) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Hours Were the Birds](https://open.spotify.com/album/3ZQoTj4ttmoO45QUE6StBW) | 3:11 | 2022-09-16 |  |
 | [I Still Hear You](https://open.spotify.com/track/5axTmQJpmmKAPWUOBTJboB) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY), [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [a\-sides](https://open.spotify.com/album/5rwqvk7OpTco8gcX8LarT1) | 3:26 | 2022-09-16 |  |
 | [Indiana](https://open.spotify.com/track/4yVrfsUNtc5RS7nbOv8hHA) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY), [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [a\-sides](https://open.spotify.com/album/5rwqvk7OpTco8gcX8LarT1) | 2:37 | 2022-09-16 |  |

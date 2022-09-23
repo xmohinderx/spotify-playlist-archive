@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgNXUHsZlwX.md) - [plain]
 
 > De la douceur pour accompagner votre journée\. Photo: Les sœurs Boulay
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,567 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,573 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

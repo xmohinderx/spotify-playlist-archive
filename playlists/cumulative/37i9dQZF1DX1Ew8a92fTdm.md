@@ -4,7 +4,7 @@
 
 > Peaceful music box tunes for sleepy babies.
 
-148 songs - 3 hr 41 min - [published](https://open.spotify.com/playlist/6TPXRhAYwfF0T2qiE0ZMzm)
+153 songs - 3 hr 49 min - [published](https://open.spotify.com/playlist/6TPXRhAYwfF0T2qiE0ZMzm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,8 @@
 | [Go the Distance](https://open.spotify.com/track/1p5bs2UZG8BLLTagZ2ly6m) | [Ember Roses](https://open.spotify.com/artist/0Al4ii7WbbtEf1Ss29RTL6) | [Go the Distance](https://open.spotify.com/album/3XOBAP00FytQ0GgnXDVh5U) | 1:21 | 2022-02-10 |  |
 | [Go to bed, you sleepy head](https://open.spotify.com/track/19XE4ZAK06cqCEYZ9Tq87d) | [Joanie West](https://open.spotify.com/artist/0G7dE6ClPsupJLc2D90Wgn) | [Go to bed, you sleepy head](https://open.spotify.com/album/7iD57NcdkIaAFxzlNwj830) | 1:00 | 2022-02-10 |  |
 | [Going on a trip](https://open.spotify.com/track/145u5e0k2ZlZwXOp8y2K4h) | [Fabiana Elder](https://open.spotify.com/artist/7AOIK81gV4ThccuqX7ITzC) | [In mom's purse](https://open.spotify.com/album/1BqOFw0TujOG2uf63uT57H) | 1:29 | 2022-05-17 |  |
-| [Head, Shoulders, Knees and Toes](https://open.spotify.com/track/1Xi43rmEBKu76psxcrsByb) | [Donny Barnum](https://open.spotify.com/artist/3Li2AnR0Kbhr3KT48Qkuk0) | [London Bridge](https://open.spotify.com/album/5YZNhNnVcmFD3Zhm09j180) | 1:10 | 2022-02-10 |  |
+| [Head, Shoulders, Knees & Toes](https://open.spotify.com/track/2dFPxWOCYFfmp9mvdg07v1) | [Melinah Daniels](https://open.spotify.com/artist/73f8r79Tbv2sxdpidr1xx1) | [Head, Shoulders, Knees & Toes](https://open.spotify.com/album/5aUwS3bg7Nv1dBctV0Us09) | 1:10 | 2022-09-22 |  |
+| [Head, Shoulders, Knees and Toes](https://open.spotify.com/track/1Xi43rmEBKu76psxcrsByb) | [Donny Barnum](https://open.spotify.com/artist/3Li2AnR0Kbhr3KT48Qkuk0) | [London Bridge](https://open.spotify.com/album/5YZNhNnVcmFD3Zhm09j180) | 1:10 | 2022-02-10 | 2022-09-23 |
 | [Heat Waves](https://open.spotify.com/track/4jv8JL4cIFlrhnUdZVThBA) | [Elliot Gordon](https://open.spotify.com/artist/57vFl2LNxCx1EPf2cqMe2a) | [Heat Waves](https://open.spotify.com/album/1N2A97dyrN8yieVTEli9iK) | 1:30 | 2022-02-10 | 2022-04-23 |
 | [Hide and seek](https://open.spotify.com/track/5UJ8MXBy8QHCTi764Dzk1e) | [Fabiana Elder](https://open.spotify.com/artist/7AOIK81gV4ThccuqX7ITzC) | [Hide and seek](https://open.spotify.com/album/2JI1bDmqusPLCzmmxygBid) | 1:23 | 2022-02-10 |  |
 | [Hide and Seek](https://open.spotify.com/track/2afuD9yMSnn0WStO5SdnuX) | [Romeo's Music Box](https://open.spotify.com/artist/09KF2faaPp2vPZYnrCftV6) | [Country Mornings](https://open.spotify.com/album/2zTZjB3D253xXYmDR4j4O6) | 1:59 | 2022-02-10 |  |
@@ -103,8 +104,9 @@
 | [Petite poule rousse](https://open.spotify.com/track/5hkUIhvHRqPipqIu5WfI7I) | [Amélie Beaujolie](https://open.spotify.com/artist/5KWbDpaB7Qtu2xMPmiVYM1) | [Petite poule rousse](https://open.spotify.com/album/3XA44vM9d6enwVHmYQcZ0v) | 1:22 | 2022-02-10 |  |
 | [Pillowland](https://open.spotify.com/track/0WlhOzbdApycx5FARxvg6K) | [Selby Petersen](https://open.spotify.com/artist/5p2vvsASYdfPaCQ8ewBBJp) | [Pillowland](https://open.spotify.com/album/5hWMnvXPEDjXOgIcvJX8bB) | 1:36 | 2022-04-22 |  |
 | [Polly the Pirate](https://open.spotify.com/track/3GiUwGr55Kx5rkoxFy2GN8) | [Louis Carmean](https://open.spotify.com/artist/1QwlGpVweCXIFnSKj4EtVj) | [Polly the Pirate](https://open.spotify.com/album/1kDPZB9RBEEfhR0T5vHzvA) | 0:58 | 2022-02-10 | 2022-04-23 |
+| [Que Linda Manita](https://open.spotify.com/track/3hkWnZsvoijkchr5KMxTXG) | [CIRQUS](https://open.spotify.com/artist/3mw587K0yMF8GAG1RgY3kA) | [Que Linda Manita](https://open.spotify.com/album/0d6Uw4qOFr4CXufEReGGwc) | 1:54 | 2022-09-22 |  |
 | [Rock a Bye Baby](https://open.spotify.com/track/4powvsAQFZwXa6s0mTUPlY) | [Elliot Adasik](https://open.spotify.com/artist/0ygQ1CuZpZqv6dsdnIl3wL) | [Rock a Bye Baby](https://open.spotify.com/album/5TimNfsYRU63DIITnRaTce) | 1:31 | 2022-02-10 |  |
-| [Row Row Row Your Boat](https://open.spotify.com/track/6NESHnIoEs22LDboDnWuZb) | [Ella's Musicbox](https://open.spotify.com/artist/4KEu9b2csKG5x3MtzavPR8) | [Open The Box](https://open.spotify.com/album/2jloYI1ZDhvvgzHE9lXy1T) | 1:14 | 2022-02-10 |  |
+| [Row Row Row Your Boat](https://open.spotify.com/track/6NESHnIoEs22LDboDnWuZb) | [Ella's Musicbox](https://open.spotify.com/artist/4KEu9b2csKG5x3MtzavPR8) | [Open The Box](https://open.spotify.com/album/2jloYI1ZDhvvgzHE9lXy1T) | 1:14 | 2022-02-10 | 2022-09-23 |
 | [Sandras Lullaby](https://open.spotify.com/track/2STLwlsxG7uxigptaOl4Qt) | [Maurice Greenwood](https://open.spotify.com/artist/1Ajd6F60K356s8BACssfAo) | [Sandras Lullaby \(Music Box\)](https://open.spotify.com/album/65Ol3por3dr5rGgkKQaUTr) | 2:01 | 2022-02-10 |  |
 | [Saturday Surprise](https://open.spotify.com/track/75PJ4DITByJTZXV1RfrVqX) | [Gabriela Cooke](https://open.spotify.com/artist/3tP132moYZ0YFA6GpF6pSU) | [Saturday Surprise](https://open.spotify.com/album/4JHK6LmykgfEZL4o0XXL3m) | 1:17 | 2022-07-29 |  |
 | [See You In The Morning](https://open.spotify.com/track/65Il6ojXnanbNrm33uMYAj) | [Sleepmoon](https://open.spotify.com/artist/46ipcNL1MA2CAdElB0jki4) | [See You In The Morning](https://open.spotify.com/album/6ZfKF5953dUSMZjLqgvwj3) | 1:13 | 2022-02-10 |  |
@@ -112,6 +114,7 @@
 | [Shine Bright Little Star](https://open.spotify.com/track/67FfMaZW9QJ8Wl02hhemAt) | [Joy Farrow](https://open.spotify.com/artist/1bvPJO79WaiXgQjkQBGwRR) | [Shine Bright Little Star](https://open.spotify.com/album/4JBajV6LFaLCdcc82Muimq) | 0:52 | 2022-02-10 | 2022-04-23 |
 | [Sisters](https://open.spotify.com/track/327ydynonFKIBVoW9e5wXO) | [Cosy Pillows](https://open.spotify.com/artist/08x9OqSYuvqdN6K60DHIj7) | [Sisters](https://open.spotify.com/album/0nvdJRcQBlwoMwiOmLXEqU) | 1:04 | 2022-02-10 |  |
 | [Sleep Little Princess \- Musicbox version](https://open.spotify.com/track/0DGr857pbEqJV5708v0usR) | [Pansiri](https://open.spotify.com/artist/0dAfcFu3Thby5lOqBumKYZ) | [Sleep Little Princess \- Musicbox version](https://open.spotify.com/album/2xuQhHO0yaIgR8W9b6hA1a) | 2:15 | 2022-02-10 |  |
+| [Sleep Tight](https://open.spotify.com/track/3WYzdiuE5IViSiYn0eTfaU) | [Phil Counts](https://open.spotify.com/artist/14PVLP8iHxZewSvnlLQg9b) | [Sleep Tight](https://open.spotify.com/album/2wyRwPa4bcxLlhMwRSpTwg) | 1:49 | 2022-09-22 |  |
 | [Sleeping On Cloud 9](https://open.spotify.com/track/1q1mOWrsNhTPvaCVq2jwjW) | [Torben Overgaard](https://open.spotify.com/artist/2wrZRfjoJ5N3f1WyYjbKXL) | [Sleeping On Cloud 9](https://open.spotify.com/album/1mr5gy4ZZ8uTL4t64v74bd) | 1:28 | 2022-07-01 |  |
 | [Slumberland Song](https://open.spotify.com/track/6ZytMjWT6QTqwRh0qHcILq) | [Gabriela Cooke](https://open.spotify.com/artist/3tP132moYZ0YFA6GpF6pSU) | [Slumberland Song](https://open.spotify.com/album/1B5CmudUyJWVORuPQdbYV6) | 1:36 | 2022-02-10 |  |
 | [Softly We Sleep](https://open.spotify.com/track/2Zzcdaz8hykNepVxzusTVJ) | [Ginny Love](https://open.spotify.com/artist/3M01IyD333mOOvDW4dA0eJ) | [Sleep Lullabies](https://open.spotify.com/album/3ThrtKNQFGuxyJbaxu5O4C) | 1:48 | 2022-02-10 |  |
@@ -119,6 +122,7 @@
 | [Sommerferien min](https://open.spotify.com/track/30dqdGQgNnuOpYxP7uYEGE) | [Dagmar Eriksen](https://open.spotify.com/artist/60u6BdJPra6Nl3FRK1VOB8) | [Sommerferien min](https://open.spotify.com/album/0RjrzHSGv9IV8RZwdtg0KP) | 1:17 | 2022-06-10 |  |
 | [Splashing in the Sun](https://open.spotify.com/track/5lL4d60LWLlGnM7MgT0NNn) | [Sara Oh](https://open.spotify.com/artist/2TIZ5af12SXGEKOfsVeAgM) | [Splashing in the Sun](https://open.spotify.com/album/4fY7Y6jqDSYdTGngRbpqjb) | 2:16 | 2022-02-10 |  |
 | [Stars At Night](https://open.spotify.com/track/04V70vnq3Nzdsm2EBEVG2Q) | [Jannah Zoey](https://open.spotify.com/artist/0aTx7Dr1FQMw3BNWISMmA1) | [Stars At Night](https://open.spotify.com/album/4bUVLnW09GW3uXFePzDJrl) | 1:16 | 2022-06-10 |  |
+| [Stay Awake](https://open.spotify.com/track/2UmTmbcO8p4LpZ5uXCblkB) | [Kawaii Box](https://open.spotify.com/artist/6zQ9QH6iOWjY83YkPEzVbX) | [Stay Awake](https://open.spotify.com/album/0776wu8ar1ygalUqsNVbGP) | 1:23 | 2022-09-22 |  |
 | [Summertime Waltz](https://open.spotify.com/track/3RAwUnAAIzKKSo0tRxg79H) | [Margaret Bloom](https://open.spotify.com/artist/246CkETgfAKnA3ajlO2ri4) | [Summertime Waltz](https://open.spotify.com/album/5kUIDGogx2UhDNrI2jRBoy) | 2:03 | 2022-05-17 |  |
 | [Sun and Moon](https://open.spotify.com/track/5PNFq0WUwzuIOt4UMkUBKz) | [Margaret Bloom](https://open.spotify.com/artist/246CkETgfAKnA3ajlO2ri4) | [Close Your Eyes \(and Fall Asleep\)](https://open.spotify.com/album/3lP1kXb7V4olCqoREUQaR7) | 2:04 | 2022-02-10 |  |
 | [Sunrise](https://open.spotify.com/track/4QIW0q7sXcyj8GpKECfqRx) | [Violet Lilac](https://open.spotify.com/artist/1ZO5CM8kNuDauWG3I7weEi) | [Dawn to Dusk](https://open.spotify.com/album/0jslyyu2E866KnKJBHpAmF) | 2:19 | 2022-07-01 |  |
@@ -154,7 +158,8 @@
 | [Whiskers](https://open.spotify.com/track/75ihfv5Y3KwvIiP5OhQPOF) | [Cat Morris](https://open.spotify.com/artist/1z4h0BDNJOpTzksITIOM6k) | [Whiskers](https://open.spotify.com/album/7IwJhve8nfyWXz7sEhfYIs) | 1:53 | 2022-02-10 |  |
 | [Whisper](https://open.spotify.com/track/2zO8FacMH5qKmRl0K4KQCX) | [Joan Carlsen](https://open.spotify.com/artist/6I0M6KDTQZvSCKt7iF8B4T) | [Whisper](https://open.spotify.com/album/7hGRrzGnFNR0XAWWYs2fN6) | 1:17 | 2022-02-10 |  |
 | [Yesterday](https://open.spotify.com/track/6sGDR7NjjMNmoj2ORLOyFZ) | [Bella Notte](https://open.spotify.com/artist/5GWqn1K9HufkeR8NEMNn5S) | [Yesterday](https://open.spotify.com/album/4A57hMzEz3dI0cUDwB3qbw) | 1:35 | 2022-09-02 |  |
-| [You Are My Sunshine](https://open.spotify.com/track/5WMbHgjzFrAzcSJk8ZrJc3) | [Jesse Nielsen](https://open.spotify.com/artist/28hL1CMeKSmGDu43cUqsWW) | [Lullabies on Music Box](https://open.spotify.com/album/1hDnsG6Lx0x4J2Q8pdJTo1) | 1:02 | 2022-02-10 |  |
+| [You Are My Sunshine](https://open.spotify.com/track/5WMbHgjzFrAzcSJk8ZrJc3) | [Jesse Nielsen](https://open.spotify.com/artist/28hL1CMeKSmGDu43cUqsWW) | [Lullabies on Music Box](https://open.spotify.com/album/1hDnsG6Lx0x4J2Q8pdJTo1) | 1:02 | 2022-02-10 | 2022-09-23 |
+| [You Are My Sunshine](https://open.spotify.com/track/1GP1eykR40sLBhjq7bBZUR) | [Melinah Daniels](https://open.spotify.com/artist/73f8r79Tbv2sxdpidr1xx1) | [You Are My Sunshine](https://open.spotify.com/album/3xFCbQQWDscvZBzjvUCgmg) | 1:46 | 2022-09-22 |  |
 | [Zoe the Zebra](https://open.spotify.com/track/26B0F7D6IuonLfBep3KScC) | [Kazue Oyanagi](https://open.spotify.com/artist/3OMM7IfAu8t78Oysd4zgfu) | [Zoe the Zebra](https://open.spotify.com/album/0MgZVZt8jI09WJEKLDxCUG) | 0:48 | 2022-02-10 | 2022-04-23 |
 
 \*This playlist was first scraped on 2022-04-19. Prior content cannot be recovered.

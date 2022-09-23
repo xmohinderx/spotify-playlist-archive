@@ -448,6 +448,28 @@
     },
     {
       "album": {
+        "name": "Ricochet",
+        "url": "https://open.spotify.com/album/6RvWFOz4CH41Ka98jLXoge"
+      },
+      "artists": [
+        {
+          "name": "Maddy O'Neal",
+          "url": "https://open.spotify.com/artist/2G4VZIbfdmr60dYUB0oIxF"
+        },
+        {
+          "name": "MOONZz",
+          "url": "https://open.spotify.com/artist/7cTaYwNT1P49mASgKULKab"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236800,
+      "name": "Change of Pace",
+      "url": "https://open.spotify.com/track/65zFynYpKoJtmCpjDtqv3S"
+    },
+    {
+      "album": {
         "name": "Chase The Vibe",
         "url": "https://open.spotify.com/album/0oN7CkEjR8eEDm90Hpu4O1"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9MDcH3vBMo0.md) - [plain]
 
 > Una bella banda sonora que acompañará tu tiempo de lectura.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,770 likes - 450 songs - 19 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,851 likes - 450 songs - 19 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9MDcH3vBMo0.md) - [plain]
 | 45 | [Gocce d'acqua](https://open.spotify.com/track/5GYKdUcKo5iuhHla2ekgS9) | [Andrea Binotto](https://open.spotify.com/artist/5Xns08ygOlTCdopDUjG9x7) | [Gocce d'acqua](https://open.spotify.com/album/575inVw37bOZM4Kn5Pa37f) | 1:49 |
 | 46 | [Restzeit](https://open.spotify.com/track/6LTRQ62pQFSr1OmmDYyzVy) | [Raoul Panzinger](https://open.spotify.com/artist/7BIiSEdSySWVsnOOIrohEP) | [Restzeit](https://open.spotify.com/album/6YnTVreiPfr0Ve4LlJkv3Z) | 2:03 |
 | 47 | [Wurzeln](https://open.spotify.com/track/1XxpdpkVxh9B3jYOW3Le14) | [Lekk](https://open.spotify.com/artist/0yicpX5myaa6X2hXtsJ1Oj) | [Glass Stone](https://open.spotify.com/album/0nGGwRQAKy5uAoeoE0bjyF) | 2:32 |
-| 48 | [Gaillardia](https://open.spotify.com/track/69d0gZwwmPtEKC69IANjWW) | [Elliot Ziegler](https://open.spotify.com/artist/0Wh30jSV0ZQf0IzHkEddBY) | [Gaillardia](https://open.spotify.com/album/1IkqsEsJ6KoFgzb2shp98P) | 2:11 |
-| 49 | [Gently](https://open.spotify.com/track/2q1y39ymy9HRdP8A0eVikn) | [Odette Montano](https://open.spotify.com/artist/3J2sqtWaUCFmoVhS2ibEXC) | [Sapphire Sky](https://open.spotify.com/album/5q2iit8VRZVaGl68spxq2t) | 2:47 |
+| 48 | [Gently](https://open.spotify.com/track/2q1y39ymy9HRdP8A0eVikn) | [Odette Montano](https://open.spotify.com/artist/3J2sqtWaUCFmoVhS2ibEXC) | [Sapphire Sky](https://open.spotify.com/album/5q2iit8VRZVaGl68spxq2t) | 2:47 |
+| 49 | [Gaillardia](https://open.spotify.com/track/69d0gZwwmPtEKC69IANjWW) | [Elliot Ziegler](https://open.spotify.com/artist/0Wh30jSV0ZQf0IzHkEddBY) | [Gaillardia](https://open.spotify.com/album/1IkqsEsJ6KoFgzb2shp98P) | 2:11 |
 | 50 | [Feeling Free](https://open.spotify.com/track/6kbvb0UyWZVvmKjSIQJzRe) | [Andreas Monta](https://open.spotify.com/artist/7ziAAFlW4YAJQy9C9phKgZ) | [Feeling Free](https://open.spotify.com/album/6GsuHsBee1V5VZLEQMRMaB) | 2:06 |
 | 51 | [Beauty Of You](https://open.spotify.com/track/6zkZvCIEpgUUgCz7qSK3Nc) | [Monir Bresegeut](https://open.spotify.com/artist/3Z6Wqjodzje8ZoJJgV71lj) | [Beauty Of You](https://open.spotify.com/album/0Od2qq1KiShZ1Px1Rkka3x) | 2:16 |
 | 52 | [The Far West](https://open.spotify.com/track/3nI7ooi7HA8oRVSgCKvcE7) | [Lihua Zhao](https://open.spotify.com/artist/7dsYrsCwrZat4t33c7RXPe) | [The Far West](https://open.spotify.com/album/1oS03TkuqigN5sPeG4ubKQ) | 2:51 |
@@ -159,8 +159,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9MDcH3vBMo0.md) - [plain]
 | 149 | [Nirha](https://open.spotify.com/track/0SK8aridaHO485I2iJD35e) | [Matti Aalto](https://open.spotify.com/artist/4nGn3LnoPxjDGpkYY7fW9E) | [Nirha](https://open.spotify.com/album/3AEGuqW6eS9efDAYOpfBjH) | 2:44 |
 | 150 | [Waltz 21](https://open.spotify.com/track/4DaPrcpcDrbtXKmdFhqG5R) | [Andreas Ihlebæk](https://open.spotify.com/artist/2FikjOw5WWNEpKxsmU6Ye0), [Rasmus H Thomsen](https://open.spotify.com/artist/42jjk371b9jW9zsmrMls10) | [Waltz 21](https://open.spotify.com/album/6GwiUbUZOZoz96kWpDligN) | 2:24 |
 | 151 | [Alignment](https://open.spotify.com/track/3JRA65bOIayOI3nag2qqhI) | [Max Walltine](https://open.spotify.com/artist/1fjExu7rpJivThwzQp5fq5) | [Alignment](https://open.spotify.com/album/2ak75QxRASpMwY9OLj2gSn) | 1:53 |
-| 152 | [Before Dawn](https://open.spotify.com/track/42mnMZ6db1BFIzrW89JpoU) | [Shaunta Coburn](https://open.spotify.com/artist/6Brh18kVDBzXLS2Uu38SuX) | [Before Dawn](https://open.spotify.com/album/4v89u5szEzd1HZbltZ8KPq) | 2:17 |
-| 153 | [Light through a Willow's Leaves](https://open.spotify.com/track/1L5ABoW0UZyVWk7ZbXDokA) | [Qunfan Wen](https://open.spotify.com/artist/2qhWWY7F1cPThO3UfSJVcm) | [Light through a Willow's Leaves](https://open.spotify.com/album/4ERDVnEd0b6ul3FjS1FNB4) | 1:52 |
+| 152 | [Light through a Willow's Leaves](https://open.spotify.com/track/1L5ABoW0UZyVWk7ZbXDokA) | [Qunfan Wen](https://open.spotify.com/artist/2qhWWY7F1cPThO3UfSJVcm) | [Light through a Willow's Leaves](https://open.spotify.com/album/4ERDVnEd0b6ul3FjS1FNB4) | 1:52 |
+| 153 | [Before Dawn](https://open.spotify.com/track/42mnMZ6db1BFIzrW89JpoU) | [Shaunta Coburn](https://open.spotify.com/artist/6Brh18kVDBzXLS2Uu38SuX) | [Before Dawn](https://open.spotify.com/album/4v89u5szEzd1HZbltZ8KPq) | 2:17 |
 | 154 | [Sun Crosses The Sky](https://open.spotify.com/track/5WoQSCilkcY6MbXlFgoAH2) | [Anon Berg](https://open.spotify.com/artist/22Eb4qC99mAt3X4vMYktBg) | [Sun Crosses The Sky](https://open.spotify.com/album/7irh1OArC4jbOvw6UDNE1z) | 2:35 |
 | 155 | [Clairière](https://open.spotify.com/track/352zT4Ijd9PUae6c3Wo2n8) | [Dominique Charpentier](https://open.spotify.com/artist/2BDEX7NzONc6kAxVXu9lBa) | [Clairière](https://open.spotify.com/album/6jSlxBgoHARjQXiRKBz1L6) | 2:04 |
 | 156 | [Litany](https://open.spotify.com/track/6hNwn4kKfeuDJUDqNFI4s9) | [Daniella Babbitt](https://open.spotify.com/artist/11qA90NqXDlLWVji5Vmwct) | [Litany](https://open.spotify.com/album/5tGHP4Do2fHjjTB8y3egi5) | 2:52 |
@@ -322,8 +322,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9MDcH3vBMo0.md) - [plain]
 | 312 | [Old Flame](https://open.spotify.com/track/64th3RAbJNNkh96S3lcMRZ) | [Eddie Jenkins](https://open.spotify.com/artist/1Ca0zpwFtBqVCEQRKrrGiz) | [Old Flame](https://open.spotify.com/album/7sN26SlOzcl1ey6NuPPQfg) | 2:08 |
 | 313 | [Die Spieluhr](https://open.spotify.com/track/5nhgTDW8J5y8ZsoVm58hGv) | [Sebastian Brehm](https://open.spotify.com/artist/2nateaCtBWxcGrxgNPPjoX) | [Die Spieluhr](https://open.spotify.com/album/4LeNmjBqKBkNNSlUT10knC) | 2:39 |
 | 314 | [Imperceptible](https://open.spotify.com/track/3wowypV1ykrIueaXWRRYey) | [Nadav Amir\-Himmel](https://open.spotify.com/artist/1gLEDK37zrK7KasVpnQZsZ) | [Imperceptible](https://open.spotify.com/album/2jKPlE2WuGckCR1D1v5Gpq) | 2:55 |
-| 315 | [Remind Me](https://open.spotify.com/track/58SnNvrsUOD9Nj1Ox1AOwz) | [Shaun Bertsch](https://open.spotify.com/artist/38bQPIz3UChdXTItoUNAvE) | [Remind Me](https://open.spotify.com/album/6wyQF4XipqUU2CtqSEcezO) | 2:26 |
-| 316 | [Tree Whisper](https://open.spotify.com/track/5a8V9tjazhBAIbUiFqpu8N) | [Finley Rhone](https://open.spotify.com/artist/03Usizud7onAiPocQkcK5V) | [Tree Whisper](https://open.spotify.com/album/6md3ncmAS84fTV1931NnTz) | 3:25 |
+| 315 | [Tree Whisper](https://open.spotify.com/track/5a8V9tjazhBAIbUiFqpu8N) | [Finley Rhone](https://open.spotify.com/artist/03Usizud7onAiPocQkcK5V) | [Tree Whisper](https://open.spotify.com/album/6md3ncmAS84fTV1931NnTz) | 3:25 |
+| 316 | [Remind Me](https://open.spotify.com/track/58SnNvrsUOD9Nj1Ox1AOwz) | [Shaun Bertsch](https://open.spotify.com/artist/38bQPIz3UChdXTItoUNAvE) | [Remind Me](https://open.spotify.com/album/6wyQF4XipqUU2CtqSEcezO) | 2:26 |
 | 317 | [Never Give In](https://open.spotify.com/track/7GghRfjTGCxYDnYo0OVRM3) | [Irma Kantola](https://open.spotify.com/artist/7eP5EaPos8EeIsG7UJfEVP) | [Never Give In](https://open.spotify.com/album/43mYROp7H0H6Ynbi1zVbyY) | 3:05 |
 | 318 | [Looking Back](https://open.spotify.com/track/3GXXTCrbeSnCCeex84gUnX) | [JON](https://open.spotify.com/artist/7717ICSNEMAa0SC9LaXrGP) | [Looking Back](https://open.spotify.com/album/1z7dnB4fPpXGtPC1GON9rY) | 2:50 |
 | 319 | [Homage](https://open.spotify.com/track/5imJAvlEBQf9OWjogd3VEm) | [Inside Lands](https://open.spotify.com/artist/7fQumDmow1qrPuRXqMHUa7) | [Homage](https://open.spotify.com/album/0U0hTrIvfgJCB59rb8sApb) | 2:43 |
@@ -386,9 +386,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9MDcH3vBMo0.md) - [plain]
 | 376 | [Peaceful Reflections](https://open.spotify.com/track/5qob7OKrAv9Sld67bNg3au) | [Nelson Haynes](https://open.spotify.com/artist/1rOFIl5TolohZGyTxJni75) | [Madrigal](https://open.spotify.com/album/3T4PBqvtzGDoVuD6wXmzu8) | 2:20 |
 | 377 | [Desalniettemin](https://open.spotify.com/track/3nm9jlY1vOwilh9o1Ap5cI) | [Mavis Marchena](https://open.spotify.com/artist/6MSPdpw1XqfQfFarlvDwhd) | [Desalniettemin](https://open.spotify.com/album/4gHUVgx7oXpx056ricXMCA) | 2:52 |
 | 378 | [Quiet Cove](https://open.spotify.com/track/5gqstUNfi8kZBSsGDtk4ND) | [Edgar De Vries](https://open.spotify.com/artist/5ccEcnSCa82fIfFgwpVyrD) | [Quiet Cove](https://open.spotify.com/album/5GsMGDSeQKNXLZsujzhCTL) | 3:21 |
-| 379 | [Puritano](https://open.spotify.com/track/49HXHbk46AZwqq1ITxD44H) | [Eric Sebastian](https://open.spotify.com/artist/5jVvCMHfdjbTVXntiqRhKp) | [Puritano](https://open.spotify.com/album/0tWCGrJAZk8F7sJ74Fd1BC) | 3:06 |
-| 380 | [Høstsol](https://open.spotify.com/track/4WSd5HfPN9mlJl4lSzoXw4) | [Eline Neteland](https://open.spotify.com/artist/4EXNBWhy685Yit4VemEbR6) | [Høstsol](https://open.spotify.com/album/17kenhwkiIX1zmroBRnfdH) | 2:09 |
-| 381 | [Dancing Shoes](https://open.spotify.com/track/5d8OIweiBjERBQGiboXjZi) | [Jesse Brown](https://open.spotify.com/artist/5ou3jxRm9LFgxvuZij5LBT) | [Dancing Shoes](https://open.spotify.com/album/1qnLekQ72S0OYOY7c0kU5f) | 1:57 |
+| 379 | [Dancing Shoes](https://open.spotify.com/track/5d8OIweiBjERBQGiboXjZi) | [Jesse Brown](https://open.spotify.com/artist/5ou3jxRm9LFgxvuZij5LBT) | [Dancing Shoes](https://open.spotify.com/album/1qnLekQ72S0OYOY7c0kU5f) | 1:57 |
+| 380 | [Puritano](https://open.spotify.com/track/49HXHbk46AZwqq1ITxD44H) | [Eric Sebastian](https://open.spotify.com/artist/5jVvCMHfdjbTVXntiqRhKp) | [Puritano](https://open.spotify.com/album/0tWCGrJAZk8F7sJ74Fd1BC) | 3:06 |
+| 381 | [Høstsol](https://open.spotify.com/track/4WSd5HfPN9mlJl4lSzoXw4) | [Eline Neteland](https://open.spotify.com/artist/4EXNBWhy685Yit4VemEbR6) | [Høstsol](https://open.spotify.com/album/17kenhwkiIX1zmroBRnfdH) | 2:09 |
 | 382 | [Julien's Sonata](https://open.spotify.com/track/7EYrMGo39r2fqmpItkJiqu) | [Julien Thorsen](https://open.spotify.com/artist/4mm2IRrNFYuVoESj439Apn) | [Julien's Sonata](https://open.spotify.com/album/5IcPJbZ9yn8yi09vJJioGA) | 1:56 |
 | 383 | [Fulfilled](https://open.spotify.com/track/4rHaA21L4F8ScRLCCOZsCM) | [Alejandro Seitz](https://open.spotify.com/artist/3uRK0WRR8JCS6mlkg3NHej) | [Fulfilled](https://open.spotify.com/album/750a4bHkMhjvPdSTbLxLWN) | 2:03 |
 | 384 | [Refraction](https://open.spotify.com/track/0fb16xi6nGQi15crUCDrw8) | [Allysium](https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin) | [Refraction](https://open.spotify.com/album/1aGIdyXxti7seh4NwA5RNJ) | 2:59 |
@@ -459,4 +459,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9MDcH3vBMo0.md) - [plain]
 | 449 | [Seated By The Sea](https://open.spotify.com/track/4oW9PScU7q1cXrpMgGth3x) | [Thomasine Robinson](https://open.spotify.com/artist/0cJB6JE2hZxv7fH4XBs4dF) | [Seated By The Sea](https://open.spotify.com/album/2tHnPeVzd2jWz7LwkNOCUl) | 2:26 |
 | 450 | [Higher Powers](https://open.spotify.com/track/6Et50X8JCM7xDxACF28mv3) | [Isabelle Taylor](https://open.spotify.com/artist/4XTnPVtZMaZfV1pScZs0g2) | [Transients](https://open.spotify.com/album/4qeC0Kw7vuH2EgSQaP0i5Z) | 2:55 |
 
-Snapshot ID: `MTY2MDA0ODY0NywwMDAwMDAwMDc5NDM2NTRlMDkxNWI3OWZmZDk5MTdhZDU2MGY4YjQ1`
+Snapshot ID: `MTY2MDA0ODY0NywwMDAwMDAwMGU5NjA4Y2E4N2I2NjMxZTc5Y2U4MTcxYTRjNzVkZmRm`

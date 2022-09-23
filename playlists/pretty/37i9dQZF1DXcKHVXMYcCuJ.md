@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKHVXMYcCuJ.md) - [plain]
 
 > Favorite rock and gems.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,964 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,133 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKHVXMYcCuJ.md) - [plain]
 | 41 | [A Modern Way of Letting Go](https://open.spotify.com/track/1fplcK4BIi4k5hzp2DJ0kt) | [Idlewild](https://open.spotify.com/artist/1xdB9gS1NrKEYgZUEfoqIw) | [The Remote Part](https://open.spotify.com/album/7zsB506W3ZKxNpjy8iIf8q) | 2:23 |
 | 42 | [Lay Low](https://open.spotify.com/track/6df7gORFCqOHTzWquFhLKW) | [Fiddlehead](https://open.spotify.com/artist/0q6u5HyVK4zwGuzEtqjHqa) | [Springtime and Blind](https://open.spotify.com/album/5pdYblYPTSzOOBWC2zm2Kw) | 2:46 |
 | 43 | [Note To Self](https://open.spotify.com/track/7CX4fbtJXUvlV7RNNqBOpO) | [Modern Baseball](https://open.spotify.com/artist/1HxXNvsraqrsgfmju1yKk8) | [Holy Ghost](https://open.spotify.com/album/0XvjdaLFvJ510mcmVXriw7) | 3:49 |
-| 44 | [Get Found](https://open.spotify.com/track/57QZeBhHRLiWhIpjHvKtND) | [Bass Drum of Death](https://open.spotify.com/artist/5LtAyeDVOVcydj65LvgICY) | [Gb City](https://open.spotify.com/album/4VFt6gflVhBmesukoQ3Lt5) | 3:01 |
-| 45 | [Handwritten](https://open.spotify.com/track/2NUwA4xWCIxU3TVw9Un3nK) | [The Gaslight Anthem](https://open.spotify.com/artist/7If8DXZN7mlGdQkLE2FaMo) | [Handwritten](https://open.spotify.com/album/1gsyJWUvwjnsNgYUxpOfLR) | 3:58 |
+| 44 | [Handwritten](https://open.spotify.com/track/2NUwA4xWCIxU3TVw9Un3nK) | [The Gaslight Anthem](https://open.spotify.com/artist/7If8DXZN7mlGdQkLE2FaMo) | [Handwritten](https://open.spotify.com/album/1gsyJWUvwjnsNgYUxpOfLR) | 3:58 |
+| 45 | [Get Found](https://open.spotify.com/track/57QZeBhHRLiWhIpjHvKtND) | [Bass Drum of Death](https://open.spotify.com/artist/5LtAyeDVOVcydj65LvgICY) | [Gb City](https://open.spotify.com/album/4VFt6gflVhBmesukoQ3Lt5) | 3:01 |
 | 46 | [Yeah, I Know](https://open.spotify.com/track/3b1neRAhz6hJ5cXfiBAKtB) | [Otherkin](https://open.spotify.com/artist/3KozMLMh8J2iR3jmwndtfX) | [The New Vice EP](https://open.spotify.com/album/6zXwvojHgkZOyU2FeRgz8U) | 3:33 |
 | 47 | [Aquasun](https://open.spotify.com/track/0qUdIt9DmD5znk3aghrdy4) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Promise Everything \(Deluxe\)](https://open.spotify.com/album/2Ic7SVaZu6loRXczS4VfYP) | 3:42 |
 | 48 | [Why Won't You Admit](https://open.spotify.com/track/4tQpDC9blddFv7ZR4tEzWr) | [Sea Girls](https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe) | [Under Exit Lights](https://open.spotify.com/album/5c4rnFo67posi6omJUtu02) | 3:36 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKHVXMYcCuJ.md) - [plain]
 | 99 | [Anyways](https://open.spotify.com/track/4up4dWG8xOET2Uo5aoOLAm) | [The Starting Line](https://open.spotify.com/artist/3E3xrZtBU5ORqcmX78v5YZ) | [Anyways](https://open.spotify.com/album/4khFn2Fi43Wl2Aje2uk7bh) | 2:57 |
 | 100 | [Not That Simple](https://open.spotify.com/track/5iIM6ZOdCF4P7Gsgiajz73) | [Dredg](https://open.spotify.com/artist/1DsdDxHs1zAwOgWDPgNS7l) | [Catch Without Arms](https://open.spotify.com/album/1csjcf2pCTJiKFdYgVgmA9) | 4:56 |
 
-Snapshot ID: `MTY2Mzc3ODg5NCwwMDAwMDAwMDZkMjM5NDUxYzg1ODU0ZjA3MjgyNmJlYWI3ODhmZGVl`
+Snapshot ID: `MTY2Mzc3ODg5NCwwMDAwMDAwMGMwNTY3YjU5NjUwNDFmNTczY2RjMjk2MzM0N2JmZDM1`

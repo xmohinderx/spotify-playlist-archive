@@ -4,7 +4,7 @@
 
 > Dive into the deep end of the tech house spectrum.
 
-116 songs - 10 hr 30 min - [published](https://open.spotify.com/playlist/2MGDejgSLmj2L39yQz6FnP)
+118 songs - 10 hr 35 min - [published](https://open.spotify.com/playlist/2MGDejgSLmj2L39yQz6FnP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,12 +25,12 @@
 | [Changes](https://open.spotify.com/track/6WMjfoQiJn7Bbs7Bv7G6rT) | [Simon Kidzoo](https://open.spotify.com/artist/7rsKf4S6rilmYTPrViFPlA) | [Changes EP](https://open.spotify.com/album/6OICJ3V1eLF0NTfMY4Em4n) | 2:51 | 2022-06-10 | 2022-07-29 |
 | [Collide](https://open.spotify.com/track/1sZw1rvxMeIacX91qTRYzr) | [Maxinne](https://open.spotify.com/artist/3sv9dCyzqOsGcJHPl5seiq), [Shyam P](https://open.spotify.com/artist/6MEz9NMqBseGCPes6zV3cj) | [Collide](https://open.spotify.com/album/70YMLqoTKFcaa6NwHrIvAp) | 4:15 | 2022-07-22 |  |
 | [Connect the Dots \- Oliver Schories & Gorge Remix](https://open.spotify.com/track/3FWy6mQGJt44v0YmLU6ieG) | [Dilby](https://open.spotify.com/artist/7gOIcm4Mhn5wiKDUt7vY36), [Oliver Schories](https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq), [Gorge](https://open.spotify.com/artist/6Y3FCZA50anf3ukg9O7ZLq) | [Connect the Dots](https://open.spotify.com/album/2h2On3mD6WD2TTgeVjJxSj) | 6:43 | 2022-08-26 |  |
-| [Crayzee](https://open.spotify.com/track/66CUbKAyBWX7KBjqEsG6q3) | [Endor](https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt) | [Crayzee](https://open.spotify.com/album/4khifJrNoldvxOE1CLWJdM) | 2:53 | 2022-07-29 |  |
+| [Crayzee](https://open.spotify.com/track/66CUbKAyBWX7KBjqEsG6q3) | [Endor](https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt) | [Crayzee](https://open.spotify.com/album/4khifJrNoldvxOE1CLWJdM) | 2:53 | 2022-07-29 | 2022-09-23 |
 | [D.N.C.](https://open.spotify.com/track/1eoPkDYe6hRTE0jLP2SITo) | [Miguel Lobo](https://open.spotify.com/artist/6PWQ9tAq0UNhzf68T1zYUZ) | [Janette](https://open.spotify.com/album/4ax3ouk91c4VdY1WXxytoP) | 5:57 | 2022-06-03 | 2022-07-28 |
 | [Da Fonk \(feat\. Joni\)](https://open.spotify.com/track/6ryPKHgiz6MSGJ1wYqn28b) | [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo), [Joni](https://open.spotify.com/artist/6nZ4pcLtZYblB2ZwD7qvwe) | [Da Fonk \(feat\. Joni\)](https://open.spotify.com/album/5t3QAcFlAa6hB08H976naz) | 6:06 | 2022-07-01 |  |
 | [Dance Of The Shaman](https://open.spotify.com/track/2zGULLp2IsYlWeRaF0ZV13) | [Darius Syrossian](https://open.spotify.com/artist/6PDUdAoMV9dMy0wOt09Rsf) | [Dance Of The Shaman](https://open.spotify.com/album/16gssDflHOT9uFtZh7AJsv) | 7:02 | 2022-06-03 | 2022-07-27 |
 | [Dangerous \- Bailey Ibbs Remix](https://open.spotify.com/track/4LocLlqHWsmiS9GqaevYF0) | [Michael Dangerous](https://open.spotify.com/artist/4HSRGJTvC1MxEQTVeqTiti), [Bailey Ibbs](https://open.spotify.com/artist/4eD3dYFqa3RmNZlAlVHFjO) | [Dangerous](https://open.spotify.com/album/5bIb9T2gF7fRJlKjGKj2w5) | 5:31 | 2022-06-17 | 2022-07-23 |
-| [Dilemma](https://open.spotify.com/track/3yGIQywO2T8BK6ANMTrjcs) | [Andrea Oliva](https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp) | [Dilemma](https://open.spotify.com/album/3Davr9dzq7S23vh9R7Fq2i) | 3:05 | 2022-08-12 |  |
+| [Dilemma](https://open.spotify.com/track/3yGIQywO2T8BK6ANMTrjcs) | [Andrea Oliva](https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp) | [Dilemma](https://open.spotify.com/album/3Davr9dzq7S23vh9R7Fq2i) | 3:05 | 2022-08-12 | 2022-09-23 |
 | [Distress](https://open.spotify.com/track/5fiDIqVrR0l9P1pdO5Sr5C) | [Natalia Roth](https://open.spotify.com/artist/62ukgypcwfh2mbtvRcXPK8) | [Sérial Noceur](https://open.spotify.com/album/580Qb2oZyp81gqru8v5jQH) | 6:39 | 2022-07-15 | 2022-07-28 |
 | [DJ Lover \- Original Mix](https://open.spotify.com/track/186UsZ2lMmYMwDA9UzQEfA) | [Rossi.](https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf) | [Welcome EP](https://open.spotify.com/album/1dpQcHaazDFmLzLzz0VsEh) | 6:47 | 2022-07-01 | 2022-09-17 |
 | [Don't Wanna Go](https://open.spotify.com/track/7Egwrj96WlechP11rChGK9) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [Stephen Kirkwood](https://open.spotify.com/artist/2B3Vmzyhy4QFnY02UKyMi5) | [Don't Wanna Go](https://open.spotify.com/album/6Dp2Nw9Ukc2C5RyAfAziTp) | 3:00 | 2022-09-09 |  |
@@ -42,6 +42,7 @@
 | [Free](https://open.spotify.com/track/07JlZ8E9U8l1nH41vAIPSu) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco) | [Free / Love Me](https://open.spotify.com/album/7tlGEEHcWktB2dgYH1CzEB) | 7:01 | 2022-06-03 | 2022-07-29 |
 | [Fuck The Regs](https://open.spotify.com/track/3krO0tblKXMBuIsSg5Yijv) | [Josh Butler](https://open.spotify.com/artist/0EAlTKO2HfATH766bVH1rX) | [Fuck The Regs EP](https://open.spotify.com/album/4haBApGeAHHH11EPiHaghy) | 3:24 | 2022-07-29 |  |
 | [Gehörschadengenerator](https://open.spotify.com/track/3NfeXbPEafvsiPtwq5huQX) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Club Vibes Part 01](https://open.spotify.com/album/03zo0uqSccDlJjgWfUT5zk) | 8:38 | 2022-07-22 |  |
+| [Get Ur Freak On](https://open.spotify.com/track/6FSY2EEtEfW8Xj95dqw3UC) | [VOLAC](https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE) | [Freak With Us](https://open.spotify.com/album/5C6ite2nuxQ3FSKc161KAa) | 2:56 | 2022-09-16 |  |
 | [Go To Sleep](https://open.spotify.com/track/1hgRPboYDiw2HYC4BOmuGp) | [Alexander Aurel](https://open.spotify.com/artist/6IISWtCeUiNuQ7jnsknnGF) | [Fall in Love EP](https://open.spotify.com/album/2h67Mn5VvLUWVNQnkUcTXg) | 6:25 | 2022-06-03 | 2022-06-12 |
 | [God Complex](https://open.spotify.com/track/00mSaiMr71bGUagR5GoRX1) | [E.R.N.E.S.T.O](https://open.spotify.com/artist/4qztljP89fI8SLn3GTJgqX), [Nala](https://open.spotify.com/artist/2rTvgpXa8PA62yBCfwdQxf) | [Get Familiar](https://open.spotify.com/album/0aJbbIFZGntiHELBrsohJN) | 4:51 | 2022-07-15 | 2022-08-24 |
 | [Handy Work](https://open.spotify.com/track/1AXDyDxGiXpAUQb5UmTLu8) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji) | [Handy Work](https://open.spotify.com/album/2G67wbm29gUteqjfqEFxhL) | 6:11 | 2022-06-03 | 2022-06-11 |
@@ -73,6 +74,7 @@
 | [Moody Fuse](https://open.spotify.com/track/6MDaMEgEVbKk5POEdY3TN5) | [Claude VonStroke](https://open.spotify.com/artist/5CYAFhywQTXdZmppCp0ukd) | [Moody Fuse](https://open.spotify.com/album/7KCjICJnDLfwOvGOLZZRlh) | 6:51 | 2022-07-15 |  |
 | [Music4TheMasses \- Andrea Oliva Remix](https://open.spotify.com/track/1q4SELBOdUcpYPvJp7iwDC) | [VNSSA](https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM), [Andrea Oliva](https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp) | [Music4TheMasses \(Andrea Oliva Remix\)](https://open.spotify.com/album/3nfx8zp8LAUEQcYBpqdWh9) | 3:07 | 2022-07-01 |  |
 | [N NIGHT](https://open.spotify.com/track/72YERGjA9X5F6NuE4GLLmC) | [Wheats](https://open.spotify.com/artist/68O83ss9GHwRVDaJhpCQHF) | [N NIGHT](https://open.spotify.com/album/59dqu4xpSWOarQt4nh9sdg) | 7:34 | 2022-06-03 |  |
+| [Nana](https://open.spotify.com/track/1SBEegsKKBMXyXVTLKa1KJ) | [Paskman](https://open.spotify.com/artist/70s7RdFqr3UEBlooMGUQdO) | [Nana](https://open.spotify.com/album/75QMJvIqtyhVSYD3EdnBmt) | 2:47 | 2022-09-09 |  |
 | [No Bueno](https://open.spotify.com/track/1BkVnW3EJByz6sbV8csgkL) | [Sosa UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [No Bueno](https://open.spotify.com/album/5fTUKANhhWrTFBfDmNbLbe) | 5:50 | 2022-06-03 |  |
 | [No More \- Original Mix](https://open.spotify.com/track/5Q9WUuPzfsUYEbDp63vHfG) | [Alfrenk](https://open.spotify.com/artist/6HLdgf2zPz9ZhjZJxtgVwJ), [Massimo Solinas](https://open.spotify.com/artist/2yaNRPVE9ZAPIZVYKcCw1R) | [No More EP](https://open.spotify.com/album/2rRJgXc2vsqqetBZNadhno) | 6:05 | 2022-07-15 | 2022-07-28 |
 | [Not Defeated](https://open.spotify.com/track/0EQO2Ox9aD2XnJzwgby3N7) | [Mack & Diesel](https://open.spotify.com/artist/2zZPCpD5BXRInlGQRFqTSc) | [Not Defeated](https://open.spotify.com/album/1wwXunUw2ty5eu1qFynjDn) | 3:05 | 2022-07-22 | 2022-07-29 |

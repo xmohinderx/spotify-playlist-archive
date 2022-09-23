@@ -2,7 +2,7 @@
 
 ### [Disney Favorites](https://open.spotify.com/playlist/37i9dQZF1DWVs8I62NcHks)
 
-> All your favorite <a href="spotify:user:128899670">Disney</a> classics, new and old\. Cover: <a href="spotify:album:6WjuMbjLJHdI0EwjJR9ChA">Forky and Woody</a>
+> All your favorite Disney classics, new and old\. Stream Pinocchio on Disney+.
 
 97 songs - 4 hr 59 min - [published](https://open.spotify.com/playlist/75RgRxjyvtcVyabSi8Zq71)
 

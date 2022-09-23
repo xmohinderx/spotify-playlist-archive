@@ -4,11 +4,12 @@
 
 > Get a great night's sleep with these soft acoustic guitar tunes.
 
-132 songs - 5 hr 40 min - [published](https://open.spotify.com/playlist/7ISFFwuQB5ntspjOylTJdw)
+136 songs - 5 hr 53 min - [published](https://open.spotify.com/playlist/7ISFFwuQB5ntspjOylTJdw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A la recherche de l'autre](https://open.spotify.com/track/7tRL2A19PEY7MbLttIL8T8) | [Aveline Bisset](https://open.spotify.com/artist/3rAcgQY59qmzetC75wYKbJ) | [A la recherche de l'autre](https://open.spotify.com/album/17WLl7MsDL25RsYFH0nPvO) | 2:17 | 2021-12-09 |  |
+| [A Waltz with Jena Lynn \(Solo Guitar\)](https://open.spotify.com/track/34UvnbEnip6vYcw5cFBL1b) | [Ryan Judd](https://open.spotify.com/artist/1F8gdqObuIxT2cZrPjDeMv) | [A Waltz with Jena Lynn \(Solo Guitar\)](https://open.spotify.com/album/3flhd8RWYlUoPWE6w7pPg3) | 2:38 | 2022-09-23 |  |
 | [Achernar](https://open.spotify.com/track/4DQ6sxGcPuxSK8OXHj9XGG) | [Serena Perez](https://open.spotify.com/artist/2zkK4XfOHnssYBDk6Vp5PR) | [Achernar](https://open.spotify.com/album/3gOzubq8SyEtBXXwv92594) | 2:22 | 2021-12-09 |  |
 | [All Is Calm](https://open.spotify.com/track/0CBLqVCOalzlHumLvX0IEd) | [Theodor Ros](https://open.spotify.com/artist/1Jx5dszOj8eO3NpRI0K59S) | [All Is Calm](https://open.spotify.com/album/1D4gPj0UQbdxBvPYdb0qcO) | 1:15 | 2022-07-01 |  |
 | [Amalie](https://open.spotify.com/track/4tBduWZZ2toaLm1rfJ4Ju0) | [Lane Westland](https://open.spotify.com/artist/2SQWcfUh4dpLWj5J72YdAH) | [Amalie](https://open.spotify.com/album/0uK2lE2FMY1FK0nTHXoLXe) | 3:13 | 2021-12-09 |  |
@@ -90,6 +91,7 @@
 | [Nylon Lullaby](https://open.spotify.com/track/6l6E9EUXTzNXj71BgxD8WV) | [Ava Olivia Bailey](https://open.spotify.com/artist/1NjdPXI16F7zIDzhZBxk79) | [Nylon Lullaby](https://open.spotify.com/album/1M4By8kZZNGw3KTsN0FHJq) | 2:16 | 2021-12-09 |  |
 | [Ode Au Chagrin](https://open.spotify.com/track/6AQ6EficiiIlDgIutcH60i) | [Katharina Becquer](https://open.spotify.com/artist/5BT146Y5PHI3f8l5ocNQCC) | [Ode Au Chagrin](https://open.spotify.com/album/7d8e1ke0qGHlRqTLa7PAYN) | 2:11 | 2021-12-09 |  |
 | [Olessa](https://open.spotify.com/track/3uWeyoRHCWz52lhK37mYmT) | [Las Tres Abejas](https://open.spotify.com/artist/4AAGqhXf0H3FXHXkQzgLOi) | [Olessa](https://open.spotify.com/album/1mJRv18DBOxzSBiYHC3xvC) | 3:07 | 2022-04-22 |  |
+| [Once Upon a Time](https://open.spotify.com/track/7J1jJSay3pm0pxQzhS6Ska) | [Claudie Mackula](https://open.spotify.com/artist/0LgBUNYaoW69hco9l7m9mX) | [Once Upon a Time](https://open.spotify.com/album/30SBQYbqd5XPdEjA90yrhA) | 6:14 | 2022-09-23 |  |
 | [One And Only](https://open.spotify.com/track/3K61YrrGJmcfiOmDSvrRhw) | [Unni Wide](https://open.spotify.com/artist/5kkxB64YQjSwNgfftsQvOL) | [One And Only](https://open.spotify.com/album/20XXrFzgc3zoD3iqQzJa45) | 1:48 | 2022-09-09 |  |
 | [Over the hill is Leighan](https://open.spotify.com/track/21dL4Fi5yOXGm3PBgZI1yk) | [Dawn Geller](https://open.spotify.com/artist/0HSRJAuF3aNdrbivhOb9SC) | [Over the hill is Leighan](https://open.spotify.com/album/62YlNkM4p58NlHPjyUuexA) | 1:59 | 2021-12-09 |  |
 | [Passing Rain](https://open.spotify.com/track/3DsShklw3Th0y25Xm66L2d) | [Marta Jobim](https://open.spotify.com/artist/1mdSEV97zy0wyiCU8jfqwj) | [Passing Rain](https://open.spotify.com/album/3JxVyJJEMbFr7XV2SkhyUM) | 3:02 | 2022-06-10 |  |
@@ -105,6 +107,7 @@
 | [Scarlet Dreams](https://open.spotify.com/track/5bDxO7o9npXf4TzfZhvSMM) | [Van Kann](https://open.spotify.com/artist/0q9Un6IHIN7D4OkGv6KHkl) | [Scarlet Dreams](https://open.spotify.com/album/6lFon0oNp8tVMSFzQJaLMy) | 2:52 | 2021-12-09 |  |
 | [Seed of Perfection](https://open.spotify.com/track/0kAHMCRN2lFkDnwhedKl1M) | [Lavelle Barber](https://open.spotify.com/artist/09NZ6wf6hcbml8X1aPwyEX) | [Seed of Perfection](https://open.spotify.com/album/3zX0E0myYc2mtjWGVJzffI) | 2:39 | 2022-08-19 |  |
 | [Seresta](https://open.spotify.com/track/5cTsLgmhCzeBmTO7jPVkfg) | [Benedict Wallfish](https://open.spotify.com/artist/0J9KRHzB7ZVu5zqVztzclJ) | [Rain Forest](https://open.spotify.com/album/5VtmbXvAvcBOSc60XRa2Sr) | 2:46 | 2022-01-06 | 2022-06-10 |
+| [Settignano](https://open.spotify.com/track/5b1OOTi5NXuFC06YZyuXK3) | [Amma Lerato](https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL) | [Settignano](https://open.spotify.com/album/4v7IruhzOzzXcqIewFc5Nh) | 1:58 | 2022-09-23 |  |
 | [Signum](https://open.spotify.com/track/70Z6rUWqzQha0RMFcyJIiJ) | [Alexas Lucio](https://open.spotify.com/artist/5K78fvhC7TVBC8mcpkMGvQ) | [Signum](https://open.spotify.com/album/49dELtri6eKyk7Dq2zIqQB) | 2:35 | 2022-08-12 |  |
 | [Sirène](https://open.spotify.com/track/5Jn40Qnf4EwXEdpJbJeX7y) | [Yanis Bernard](https://open.spotify.com/artist/3WCrMlMMPdM3jS5GsWyXlC) | [Sirène](https://open.spotify.com/album/1OAOGMX9WGCcf61JhhPHn3) | 2:48 | 2021-12-09 | 2022-04-06 |
 | [Slaap Niet Meer](https://open.spotify.com/track/17zkvQZwuaKdZkSyR1MmV3) | [Celia Cloten](https://open.spotify.com/artist/43K8HrRsXFfNZqCjavPbsa) | [Slaap Niet Meer](https://open.spotify.com/album/2ZyTh0oFrwe5HhUUKPQmw4) | 2:27 | 2022-09-02 |  |
@@ -120,6 +123,7 @@
 | [Svalbard](https://open.spotify.com/track/6vc1ie7orjBJYeJVR4yh8r) | [Julyan Brynn](https://open.spotify.com/artist/4M5Z3s7BTxyZuifI4YWp6v) | [Floating Hearts](https://open.spotify.com/album/1nRpZdYMCTU0QfiOF737WI) | 3:19 | 2021-12-09 | 2022-07-29 |
 | [Tăcere](https://open.spotify.com/track/2GnLadPkZbhaTxoBlpyj1c) | [Simion Alexandrescu](https://open.spotify.com/artist/3pJo8CcTXL3ZPIG8r2XOxl) | [Tăcere](https://open.spotify.com/album/5ZW7vpNnSPtzo09pdS8UuG) | 2:47 | 2021-12-09 |  |
 | [The Crossing](https://open.spotify.com/track/4eyQ0mKeAtbCW6aw7ukd07) | [LarryLand](https://open.spotify.com/artist/4VWgOACHzlk7bMcAeVpcmK) | [The Crossing](https://open.spotify.com/album/5RVA2zv3ramQfUrXPd8FpX) | 3:15 | 2021-12-09 |  |
+| [The Sun Terrace](https://open.spotify.com/track/03DifiRgvdRwUsGhcuCtAG) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [The Sun Terrace](https://open.spotify.com/album/0nxokw3k5JfIzilT83AeN3) | 2:21 | 2022-09-23 |  |
 | [The Visitor](https://open.spotify.com/track/10pWsW6PgcElqhHBIRPoea) | [Henry Windon](https://open.spotify.com/artist/6DQOxNdaDC3E2vfbUjpTNH) | [The Visitor](https://open.spotify.com/album/5OMtHhYzhag9BwO9YZ0tRs) | 2:07 | 2022-06-17 |  |
 | [Timespell](https://open.spotify.com/track/7DU07JAnqCz5YRjvFZxUnI) | [Heartfellow](https://open.spotify.com/artist/0s1Q5v7lIsb4NlyNX3wYDi) | [Harbor](https://open.spotify.com/album/2T8UUD2gx6wlK09uQ6zBzp) | 2:27 | 2021-12-09 | 2022-04-22 |
 | [Tomorrow's Song \- Solo Guitar Version](https://open.spotify.com/track/7hR0O2SKyTl1Y6F244Miz7) | [Ulli Boegershausen](https://open.spotify.com/artist/7cfu1JFXiRLxUGdGdNt64V) | [Miniatures](https://open.spotify.com/album/5yS0hPvv2i4bVS5H6x0eNR) | 2:32 | 2021-12-09 | 2022-05-27 |

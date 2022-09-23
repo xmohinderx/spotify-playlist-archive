@@ -1,12 +1,12 @@
 {
   "description": "Deja que tu coraz\u00f3n se rinda ante la m\u00fasica rom\u00e1ntica de anta\u00f1o.",
-  "num_followers": 478753,
+  "num_followers": 478848,
   "original_name": "Boleros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Mjc4OTIyNSwwMDAwMDAwMDFjYTY0NmI2ZDNmYzkyMzdhY2QzODg4ZDY1YTZiOTM3",
+  "snapshot_id": "MTY0Mjc4OTIyNSwwMDAwMDAwMDlhNGY4ODk5NjM1YjU5MzhkMzNlMTQ4MDA5NWYwMjU3",
   "tracks": [
     {
       "added_at": "2022-01-21 18:20:25",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2022-01-21 18:20:25",
       "album": {
-        "name": "Lucho Barrios - In Memoriam 1935 - 2010",
-        "url": "https://open.spotify.com/album/0VBFqcD3jsclm0q9Ad5NbS"
-      },
-      "artists": [
-        {
-          "name": "Lucho Barrios",
-          "url": "https://open.spotify.com/artist/0THtXVjA70xW4Qk9o2YEYh"
-        }
-      ],
-      "duration_ms": 178918,
-      "name": "Me Enga\u00f1as Mujer",
-      "url": "https://open.spotify.com/track/4qcjtUP5Lk9RRQQMkcKkKR"
-    },
-    {
-      "added_at": "2022-01-21 18:20:25",
-      "album": {
         "name": "Nos Hizo Falta Tiempo",
         "url": "https://open.spotify.com/album/1MFnxCHtziAmBpzkozWNXf"
       },
@@ -1771,18 +1755,18 @@
     {
       "added_at": "2022-01-21 18:20:25",
       "album": {
-        "name": "Ya Te Olvide",
-        "url": "https://open.spotify.com/album/6mlUaXGzLm5RPoQDP0o4mZ"
+        "name": "Lucho Barrios - In Memoriam 1935 - 2010",
+        "url": "https://open.spotify.com/album/0VBFqcD3jsclm0q9Ad5NbS"
       },
       "artists": [
         {
-          "name": "Los Amores Recientes",
-          "url": "https://open.spotify.com/artist/4gGcw7smf466EwjJwxp9VG"
+          "name": "Lucho Barrios",
+          "url": "https://open.spotify.com/artist/0THtXVjA70xW4Qk9o2YEYh"
         }
       ],
-      "duration_ms": 148500,
-      "name": "Ya Te Olvide",
-      "url": "https://open.spotify.com/track/1TM1jRGtkF18D4VnRqlpKu"
+      "duration_ms": 178918,
+      "name": "Me Enga\u00f1as Mujer",
+      "url": "https://open.spotify.com/track/4qcjtUP5Lk9RRQQMkcKkKR"
     },
     {
       "added_at": "2022-01-21 18:20:25",
@@ -1799,6 +1783,22 @@
       "duration_ms": 218760,
       "name": "T\u00fa Me Acostumbraste",
       "url": "https://open.spotify.com/track/24anJg1u8ITUQpcSco3mQ1"
+    },
+    {
+      "added_at": "2022-01-21 18:20:25",
+      "album": {
+        "name": "Ya Te Olvide",
+        "url": "https://open.spotify.com/album/6mlUaXGzLm5RPoQDP0o4mZ"
+      },
+      "artists": [
+        {
+          "name": "Los Amores Recientes",
+          "url": "https://open.spotify.com/artist/4gGcw7smf466EwjJwxp9VG"
+        }
+      ],
+      "duration_ms": 148500,
+      "name": "Ya Te Olvide",
+      "url": "https://open.spotify.com/track/1TM1jRGtkF18D4VnRqlpKu"
     },
     {
       "added_at": "2022-01-21 18:20:25",

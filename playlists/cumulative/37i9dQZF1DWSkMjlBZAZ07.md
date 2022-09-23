@@ -4,7 +4,7 @@
 
 > Brighten your day with a mix of folksy mood boosters.
 
-183 songs - 10 hr 49 min - [published](https://open.spotify.com/playlist/4lWrIHnS7oBXtFO6UQpyPP)
+184 songs - 10 hr 52 min - [published](https://open.spotify.com/playlist/4lWrIHnS7oBXtFO6UQpyPP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Goodbye Mr\. Blue](https://open.spotify.com/track/7ydJaSdC8Au68eYgspNznY) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Chloë and the Next 20th Century](https://open.spotify.com/album/2tfg6zi5pwuYeQ0IHYnOBz) | 5:00 | 2022-06-21 |  |
 | [Graveclothes](https://open.spotify.com/track/1UM7bluhwWTGfhvWWOshk7) | [Birdtalker](https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt) | [Graveclothes](https://open.spotify.com/album/0WMzoCvodpdM191D8EoAJH) | 3:47 | 2021-11-12 |  |
 | [Grow into Love](https://open.spotify.com/track/2D3OzSwTcwuNWWs8MacKqz) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Grow Into Love](https://open.spotify.com/album/07dS6wpMwR5hqfH0Mf8KRp) | 2:42 | 2021-11-12 | 2022-07-29 |
+| [Grow into Love](https://open.spotify.com/track/52AthVA2opex8NcLSwtO8n) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Seasons of Change](https://open.spotify.com/album/74fRgN21qhhAQv43mbCJFq) | 2:42 | 2022-06-21 |  |
 | [Grow into Love](https://open.spotify.com/track/6FloUWDjW3r51mRYyw0vv5) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Seasons of Change](https://open.spotify.com/album/2dyKBgz9mbVHUbeX2lbd8p) | 2:42 | 2022-06-21 | 2022-09-15 |
 | [Guess Again](https://open.spotify.com/track/4Y2365W43JtMuU2os31LUs) | [Jeff Tweedy](https://open.spotify.com/artist/2rDxtYUzTAYJJE3Bl3Z5IN) | [Guess Again](https://open.spotify.com/album/637CT2H6ESwzGM6KRVy5IZ) | 3:17 | 2021-11-12 | 2022-07-29 |
 | [Half Your Love \(with The Secret Sisters\)](https://open.spotify.com/track/0g4u514UEj6kGOAanCaD2d) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt), [The Secret Sisters](https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL) | [Half Your Love](https://open.spotify.com/album/6k8jU0hWDAPJTSZybkUTC4) | 2:23 | 2021-11-12 |  |
@@ -110,7 +111,7 @@
 | [Mess Is Mine](https://open.spotify.com/track/29jtZGdgpE2lWm2mkIt6HS) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:43 | 2022-06-21 |  |
 | [Mess Is Mine](https://open.spotify.com/track/7BVwi9cIzSc6tpyxsp47vJ) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away](https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg) | 3:43 | 2021-11-12 | 2022-07-29 |
 | [Mighty Soul](https://open.spotify.com/track/1beRzsjfMsFtrXkw0I4OPZ) | [Langhorne Slim](https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy) | [Strawberry Mansion \- Side A](https://open.spotify.com/album/0mbKHuV8g0FQ2WDQgDZgGR) | 1:57 | 2021-11-12 |  |
-| [Mountain Man](https://open.spotify.com/track/3QnxeNu890sL0Lcfy0iFzQ) | [Liz Cooper](https://open.spotify.com/artist/58irgKwXTjCCuYQB58aXeH), [The Stampede](https://open.spotify.com/artist/6naWDjIIvxOhHfu99ubAC7) | [Window Flowers](https://open.spotify.com/album/799tX7gorQNl08X2e6Bdt8) | 3:58 | 2022-06-21 |  |
+| [Mountain Man](https://open.spotify.com/track/3QnxeNu890sL0Lcfy0iFzQ) | [Liz Cooper](https://open.spotify.com/artist/58irgKwXTjCCuYQB58aXeH), [The Stampede](https://open.spotify.com/artist/6naWDjIIvxOhHfu99ubAC7) | [Window Flowers](https://open.spotify.com/album/799tX7gorQNl08X2e6Bdt8) | 3:58 | 2022-06-21 | 2022-09-23 |
 | [Mountain Man](https://open.spotify.com/track/63YnmHKlutFFkgfFB0OcPU) | [Liz Cooper](https://open.spotify.com/artist/58irgKwXTjCCuYQB58aXeH), [The Stampede](https://open.spotify.com/artist/6naWDjIIvxOhHfu99ubAC7) | [Mountain Man](https://open.spotify.com/album/69Vry8bfaTqkz88FDDEbNG) | 3:58 | 2021-11-12 | 2022-07-29 |
 | [Mountain To Move](https://open.spotify.com/track/3sdpasrIhFH4gWuoi0iWym) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [Mountain To Move](https://open.spotify.com/album/6Vcszn67is0yDZGxNOjvBP) | 3:56 | 2021-11-12 |  |
 | [My Boy](https://open.spotify.com/track/4vQsC1A1LNqKenyh6UyoTN) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [My Boy](https://open.spotify.com/album/1RS0vQwtq4DpNqb4eYALfP) | 2:43 | 2022-06-21 | 2022-07-29 |

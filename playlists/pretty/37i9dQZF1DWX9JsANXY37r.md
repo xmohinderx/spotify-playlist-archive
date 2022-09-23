@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9JsANXY37r.md) - [plain]
 
 > Conforto para beber gin tônica, mojito ou caipirinha sem precisar levantar do sofá.
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,158 likes - 60 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,150 likes - 60 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,10 +28,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9JsANXY37r.md) - [plain]
 | 18 | [On My Mind \(Jorja Smith X Preditah\)](https://open.spotify.com/track/1OxL1FWSEd7QmJoWLRP2NO) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Preditah](https://open.spotify.com/artist/5qYCZ5FQuzZSjOnesvuYiD) | [On My Mind \(Jorja Smith X Preditah\)](https://open.spotify.com/album/471LijcvJ7tV7ePoX4S0RE) | 3:01 |
 | 19 | [Love's Train](https://open.spotify.com/track/60gTdTwaNtGAzIxKfeGVfJ) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [Love's Train](https://open.spotify.com/album/6QKXGIgwWmWBMmIktMOchR) | 5:07 |
 | 20 | [Cry Your Heart Out](https://open.spotify.com/track/09u787BYeYIGd2mFIJ505t) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 4:15 |
-| 21 | [Everybody Loves The Sunshine](https://open.spotify.com/track/5le4sn0iMcnKU56bdmNzso) | [Roy Ayers Ubiquity](https://open.spotify.com/artist/3WbeZvDk1COiO2dEokZqn7) | [Everybody Loves The Sunshine \(Reissue\)](https://open.spotify.com/album/5JehGpTedBPXzhUcwXoIlf) | 3:59 |
-| 22 | [Mother Nature's Bitch](https://open.spotify.com/track/3vy3ld7my2hDUTv4u7KIJR) | [Okay Kaya](https://open.spotify.com/artist/7d64ZVOXg02y73HB5UMqkb) | [Watch This Liquid Pour Itself](https://open.spotify.com/album/4XKkD3p3SXmeJRcvioWaQQ) | 1:33 |
-| 23 | [Hunnybee](https://open.spotify.com/track/6AAYNz8jXvVlgG9IpYi42Z) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [Sex & Food](https://open.spotify.com/album/2swiA7ANSFyAHKJhkD4mNR) | 4:28 |
-| 24 | [test drive](https://open.spotify.com/track/3eZYOQO4UzKrUDYDghtnFw) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Positions \(Deluxe\)](https://open.spotify.com/album/74vajFwEwXJ61OW1DKSPEa) | 2:02 |
+| 21 | [Mother Nature's Bitch](https://open.spotify.com/track/3vy3ld7my2hDUTv4u7KIJR) | [Okay Kaya](https://open.spotify.com/artist/7d64ZVOXg02y73HB5UMqkb) | [Watch This Liquid Pour Itself](https://open.spotify.com/album/4XKkD3p3SXmeJRcvioWaQQ) | 1:33 |
+| 22 | [Everybody Loves The Sunshine](https://open.spotify.com/track/5le4sn0iMcnKU56bdmNzso) | [Roy Ayers Ubiquity](https://open.spotify.com/artist/3WbeZvDk1COiO2dEokZqn7) | [Everybody Loves The Sunshine \(Reissue\)](https://open.spotify.com/album/5JehGpTedBPXzhUcwXoIlf) | 3:59 |
+| 23 | [test drive](https://open.spotify.com/track/3eZYOQO4UzKrUDYDghtnFw) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Positions \(Deluxe\)](https://open.spotify.com/album/74vajFwEwXJ61OW1DKSPEa) | 2:02 |
+| 24 | [Hunnybee](https://open.spotify.com/track/6AAYNz8jXvVlgG9IpYi42Z) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [Sex & Food](https://open.spotify.com/album/2swiA7ANSFyAHKJhkD4mNR) | 4:28 |
 | 25 | [Agitations tropicales](https://open.spotify.com/track/2La21GqU4fKTQLcfLxTeoz) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU) | [Odyssée \- EP](https://open.spotify.com/album/346ZDnGgJudDau17EEyWWA) | 4:08 |
 | 26 | [Make It Better \(feat\. Smokey Robinson\)](https://open.spotify.com/track/4SBVWkRIMJ6WBCYPvr5Bwr) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Smokey Robinson](https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8) | [Ventura](https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY) | 3:39 |
 | 27 | [Disco Yes](https://open.spotify.com/track/61Ivix5DTnDPVjp1dgLyov) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Poppy Ajudha](https://open.spotify.com/artist/6oPQiSj92N4mk5jXLtX1bl) | [Geography](https://open.spotify.com/album/28enuddLPEA914scE6Drvk) | 4:40 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9JsANXY37r.md) - [plain]
 | 59 | [Best to You](https://open.spotify.com/track/1p2TWJxUlHE5JR0sE6E1d7) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Freetown Sound](https://open.spotify.com/album/3Z2XUjgVj5ZkCGpU7b2qtY) | 3:45 |
 | 60 | [Hope](https://open.spotify.com/track/23bwujVYKeGdbcLd2LQxVo) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Collapsed In Sunbeams](https://open.spotify.com/album/42joEEymK7EIHODfNB4yug) | 4:30 |
 
-Snapshot ID: `MTY2Mzc4MTk2OSwwMDAwMDAwMDQzZWUzMDExZDVlNjM0MWI3NmRiMGI3NGIxOTg5NTBk`
+Snapshot ID: `MTY2Mzc4MTk2OSwwMDAwMDAwMDg0NTE2MTQ2ZTc2Y2VmNmViMmYwYTk1MWRjYmNjZjY4`

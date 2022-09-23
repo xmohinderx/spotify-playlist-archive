@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The biggest house bangers popping off in the UK, let's go! Cover: James Hype",
+  "description": "The biggest house bangers popping off in the UK, let's go! Cover: Billen Ted & Kah-Lo",
   "name": "UK House Music",
   "published_playlist_ids": [
     "40Y5kerBfiqY44aZeglX8x"
@@ -559,7 +559,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 206265,
       "name": "Bionic Boy",
       "url": "https://open.spotify.com/track/7byloGFJ8lO5d7cCxFXOIh"
@@ -657,7 +657,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 153850,
       "name": "Body Shots",
       "url": "https://open.spotify.com/track/02FQoIxEcJEKBW4VJ8a4XJ"
@@ -915,7 +915,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 133573,
       "name": "Can You Pay?",
       "url": "https://open.spotify.com/track/2sjwKudWZUa5Dyf7Fo842f"
@@ -1194,6 +1194,28 @@
     },
     {
       "album": {
+        "name": "Cure My Desire (feat. Clementine Douglas)",
+        "url": "https://open.spotify.com/album/1ZZvjjvaGhVOIf4Y7zzxPU"
+      },
+      "artists": [
+        {
+          "name": "Hannah Wants",
+          "url": "https://open.spotify.com/artist/7sK4hnuUOXw6VStDw0q8NI"
+        },
+        {
+          "name": "Clementine Douglas",
+          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179078,
+      "name": "Cure My Desire (feat. Clementine Douglas)",
+      "url": "https://open.spotify.com/track/6m3DkpGqoeQJxfekL3ZLHJ"
+    },
+    {
+      "album": {
         "name": "Cushty",
         "url": "https://open.spotify.com/album/0Y7N8fG5BkaQFNumqr5SgV"
       },
@@ -1227,6 +1249,28 @@
       "duration_ms": 212538,
       "name": "DA RHYTHM! - Radio Edit",
       "url": "https://open.spotify.com/track/02UFj8XQhOkgGP04MmEWeS"
+    },
+    {
+      "album": {
+        "name": "Daddy Shhh",
+        "url": "https://open.spotify.com/album/0iVG07f6ssBCwn80vhKtTx"
+      },
+      "artists": [
+        {
+          "name": "Mark Knight",
+          "url": "https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL"
+        },
+        {
+          "name": "Crusy",
+          "url": "https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173000,
+      "name": "Daddy Shhh",
+      "url": "https://open.spotify.com/track/5s2q4CwrKXa5p02YalEg9k"
     },
     {
       "album": {
@@ -1369,7 +1413,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 447924,
       "name": "Dirty Mochyn",
       "url": "https://open.spotify.com/track/1M4w3ArtzNaHGNYmCURm8T"
@@ -1591,7 +1635,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 178629,
       "name": "Eastern Dub",
       "url": "https://open.spotify.com/track/6cVlxUZCdNqNQsgH0T2aqh"
@@ -2624,6 +2668,24 @@
     },
     {
       "album": {
+        "name": "I Just Want To Love You",
+        "url": "https://open.spotify.com/album/4hofhgHoBQXquGsuaELmx4"
+      },
+      "artists": [
+        {
+          "name": "Elkka",
+          "url": "https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230643,
+      "name": "I Just Want To Love You",
+      "url": "https://open.spotify.com/track/2wi0QZ8SagYzfSeAee6Rm4"
+    },
+    {
+      "album": {
         "name": "Red Alert",
         "url": "https://open.spotify.com/album/7lxnv0bArIIsZGTDULr7bE"
       },
@@ -2789,6 +2851,36 @@
       "duration_ms": 407272,
       "name": "In Da Club - 10 Years of Eats Everything Remix",
       "url": "https://open.spotify.com/track/3AEotYSjMstHDVzjWBy6SQ"
+    },
+    {
+      "album": {
+        "name": "In My Arms (Route 94's 1993 Mix)",
+        "url": "https://open.spotify.com/album/3drTfx7vehTDjE56V1f1q4"
+      },
+      "artists": [
+        {
+          "name": "Flaurese",
+          "url": "https://open.spotify.com/artist/2ZZtx5Nl2hf5rjM2q9XE06"
+        },
+        {
+          "name": "Route 94",
+          "url": "https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6"
+        },
+        {
+          "name": "CHARLTON",
+          "url": "https://open.spotify.com/artist/5vbr3NOvquGPeW0SMkQ4dO"
+        },
+        {
+          "name": "Jugu",
+          "url": "https://open.spotify.com/artist/3ENU8UPpXVKbSRyKuWn0YY"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260199,
+      "name": "In My Arms (Route 94's 1993 Mix)",
+      "url": "https://open.spotify.com/track/7cH4sQ13dOhS8B6SNnowaj"
     },
     {
       "album": {
@@ -3703,7 +3795,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 417431,
       "name": "Meli (II)",
       "url": "https://open.spotify.com/track/6nGhGBz7uaE1RngnIFRKep"
@@ -4334,6 +4426,24 @@
     },
     {
       "album": {
+        "name": "Party Diva",
+        "url": "https://open.spotify.com/album/4vVbfW76h5gKz396zd5CMR"
+      },
+      "artists": [
+        {
+          "name": "Deeper Purpose",
+          "url": "https://open.spotify.com/artist/10Bo1ofGMWr6hFD7OM7W7r"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192996,
+      "name": "Party Diva",
+      "url": "https://open.spotify.com/track/5n7zRKeW16p5o42sasOmah"
+    },
+    {
+      "album": {
         "name": "What I Breathe",
         "url": "https://open.spotify.com/album/4Xt7IVNtLEjVjetUBufoyw"
       },
@@ -4509,7 +4619,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 244570,
       "name": "Pliva",
       "url": "https://open.spotify.com/track/5tfqO6elC42ZwXfIN1aSDk"
@@ -4900,6 +5010,24 @@
     },
     {
       "album": {
+        "name": "Set My Mind Free",
+        "url": "https://open.spotify.com/album/3ecx2vhbNcocjrQ0M74TnO"
+      },
+      "artists": [
+        {
+          "name": "Matt Guy",
+          "url": "https://open.spotify.com/artist/09eFtzPTf7Rbkb1z7n7S5B"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180461,
+      "name": "Set My Mind Free",
+      "url": "https://open.spotify.com/track/6YG9ny9p9PmMjIyJ0B1pVw"
+    },
+    {
+      "album": {
         "name": "Siento",
         "url": "https://open.spotify.com/album/2gXRx1iRPgKVSltTi7eBNa"
       },
@@ -5265,6 +5393,24 @@
       "duration_ms": 175475,
       "name": "Spotlight (feat. Sarah Ikumu)",
       "url": "https://open.spotify.com/track/2ccAtGaGO98e5TxDxPCf1R"
+    },
+    {
+      "album": {
+        "name": "Stand By Me",
+        "url": "https://open.spotify.com/album/2TJaZYw5lPHhXwQsV3kCLu"
+      },
+      "artists": [
+        {
+          "name": "Low Steppa",
+          "url": "https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174435,
+      "name": "Stand By Me",
+      "url": "https://open.spotify.com/track/1WIn9N73chZCDGJ0PxthIj"
     },
     {
       "album": {
@@ -5795,7 +5941,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 178969,
       "name": "Together (feat. Queen Rose)",
       "url": "https://open.spotify.com/track/5tbKjkHYB93WVpFDt5dqSV"
@@ -6173,7 +6319,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 174677,
       "name": "What I Need",
       "url": "https://open.spotify.com/track/4Hr7Rkc7Ng4g0g14gkgGwx"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjpQgC7Wtwz.md) - [plain]
 
 > ¡Hay tamales! ¡Tamales calientitos! De dulce, verde, rojo, mole y hasta oaxaqueños.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,713 likes - 75 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,833 likes - 75 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjpQgC7Wtwz.md) - [plain]
 | 21 | [La Célula Que Explota](https://open.spotify.com/track/5mB0MGsRfKZALHrXjnktCK) | [Caifanes](https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9) | [El Diablito](https://open.spotify.com/album/2cGrlR3OJwtQXUa4aQJRCV) | 3:35 |
 | 22 | [Tus Jefes No Me Quieren](https://open.spotify.com/track/5ZkVnHs6BZViyXnl4LmRXh) | [Grupo Ensamble](https://open.spotify.com/artist/4qDQBPUMcJUH7BQ9dfJnfI) | [Tus Jefes No Me Quieren\. Llegó la Cumbia](https://open.spotify.com/album/59DJY70HuReCmWs6EzRoNA) | 3:46 |
 | 23 | [Te Lo Pido por Favor](https://open.spotify.com/track/6iRkrVOhCjgKFB2cBWnx4M) | [Jaguares](https://open.spotify.com/artist/1RgXxY6uzWo9cjYYwwgVGq) | [El Primer Instinto](https://open.spotify.com/album/7BDdocfgBjmh5bw2VKA6JL) | 3:26 |
-| 24 | [¿Y Todo Para Qué?](https://open.spotify.com/track/53IpyJOqUIcCzCUtMjP9oy) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Llévame Contigo](https://open.spotify.com/album/66rxjBaeraSB1qqQcYQSel) | 3:10 |
+| 24 | [Todas Mueren por Mí](https://open.spotify.com/track/57DZJLuPk9a5ULzdER3ZFy) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP) | [Cartel De Santa](https://open.spotify.com/album/54AKlknAxFRfXDXtwiAhRa) | 3:43 |
 | 25 | [La Dosis Perfecta](https://open.spotify.com/track/5bymCzswBkt0deeD1hlTIq) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [A la Izquierda de la Tierra](https://open.spotify.com/album/4H2Qf4zgMbm6np5JU3z9Qd) | 4:15 |
-| 26 | [Todas Mueren por Mí](https://open.spotify.com/track/57DZJLuPk9a5ULzdER3ZFy) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP) | [Cartel De Santa](https://open.spotify.com/album/54AKlknAxFRfXDXtwiAhRa) | 3:43 |
+| 26 | [¿Y Todo Para Qué?](https://open.spotify.com/track/53IpyJOqUIcCzCUtMjP9oy) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Llévame Contigo](https://open.spotify.com/album/66rxjBaeraSB1qqQcYQSel) | 3:10 |
 | 27 | [Idilio](https://open.spotify.com/track/6VQ2fI8goSX8mpSvytXkXR) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Mis Favoritas](https://open.spotify.com/album/44rPp1bnN1eL9ld3QE1t9c) | 5:08 |
 | 28 | [Viento](https://open.spotify.com/track/6QJCZyJv1fhkCyZA3lRoAD) | [Caifanes](https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9) | [Caifanes](https://open.spotify.com/album/7oNSmwtmqu8EvnD3cv2HOr) | 3:56 |
 | 29 | [La Chona](https://open.spotify.com/track/6pq7EtEDWgD5Sh02RJaXK7) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Me Robaste El Corazon](https://open.spotify.com/album/127PyrgkTjtB5HTFNlIG2Y) | 3:18 |
@@ -43,14 +43,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjpQgC7Wtwz.md) - [plain]
 | 33 | [Siguiendo la Luna \- Remasterizado 2008](https://open.spotify.com/track/1orgfjGJoycODSItcGVatE) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [El León](https://open.spotify.com/album/3ECynr5YW2UuIJFPOGve9H) | 4:51 |
 | 34 | [Todo Me Gusta De Ti](https://open.spotify.com/track/5gUoppDphfYsIiguGr5drh) | [Aaron Y Su Grupo Ilusion](https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ) | [Destilando Amor](https://open.spotify.com/album/0Hkn7bDEG0kyUxI6gQdHzB) | 4:07 |
 | 35 | [Pupilas Lejanas](https://open.spotify.com/track/4k3K6Ke6KfAWb7zyQWrTEA) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Mystic Love](https://open.spotify.com/album/3yUzbMVyjAV7oU7G42rPUa) | 3:55 |
-| 36 | [La Noche Que Murio Chicago](https://open.spotify.com/track/4nrNEbfKx82rBT4c3tBTJd) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [La Noche Que Murio Chicago](https://open.spotify.com/album/2rD97DTS4zzJCplMzvsYtC) | 2:41 |
-| 37 | [No Me Importa el Dinero \(feat\. Julieta Venegas\) \- Vivo en el Palacio de los Deportes](https://open.spotify.com/track/4wXjnoLIMTninCnKRgGsQc) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [En Vivo en el Palacio de los Deportes \- 25 Aniversario](https://open.spotify.com/album/7gSe5tBOrBERCFvQgR6TsC) | 3:54 |
+| 36 | [No Me Importa el Dinero \(feat\. Julieta Venegas\) \- Vivo en el Palacio de los Deportes](https://open.spotify.com/track/4wXjnoLIMTninCnKRgGsQc) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [En Vivo en el Palacio de los Deportes \- 25 Aniversario](https://open.spotify.com/album/7gSe5tBOrBERCFvQgR6TsC) | 3:54 |
+| 37 | [La Noche Que Murio Chicago](https://open.spotify.com/track/4nrNEbfKx82rBT4c3tBTJd) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [La Noche Que Murio Chicago](https://open.spotify.com/album/2rD97DTS4zzJCplMzvsYtC) | 2:41 |
 | 38 | [Triste canción](https://open.spotify.com/track/11dn3mAagE0hOvd35rBNeV) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Simplemente](https://open.spotify.com/album/0DEAl6Dhwr8bIITWGVQR2Y) | 5:42 |
 | 39 | [Eres Mi Sueño](https://open.spotify.com/track/5ZA9ItQp7DyG6pPkSsq3Bn) | [Septeto Acarey](https://open.spotify.com/artist/5Vz74ibGHBQaUa2ALDOH0v) | [Acarey Ya Llegó](https://open.spotify.com/album/74i0QoJc9w1PmewVlDlnj3) | 5:00 |
 | 40 | [Entre dos tierras](https://open.spotify.com/track/7BYqVvoXpQFhs4jJ0qqNZt) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Senderos De Traición \- Edición Especial](https://open.spotify.com/album/7DAoA2gOvycforLAKyFD8Y) | 6:08 |
-| 41 | [Amor Regresa](https://open.spotify.com/track/3nbCTU4k0l68vml8nDajwU) | [Los Askis](https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi) | [Pasión Y Cumbia](https://open.spotify.com/album/6DPWLpcFLqrD50JfN6NOk1) | 3:33 |
-| 42 | [Vendedora de Caricias](https://open.spotify.com/track/4jikVslCvDrDysc3p4tFHM) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Panteón Rococó](https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg) | 3:45 |
-| 43 | [Aunque no sea conmigo](https://open.spotify.com/track/0dRY4OrSY53yUjVgfgne1W) | [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT), [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Hijos del pueblo](https://open.spotify.com/album/69JZWukakNJGpGhJILhyTl) | 3:32 |
+| 41 | [Vendedora de Caricias](https://open.spotify.com/track/4jikVslCvDrDysc3p4tFHM) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Panteón Rococó](https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg) | 3:45 |
+| 42 | [Aunque no sea conmigo](https://open.spotify.com/track/0dRY4OrSY53yUjVgfgne1W) | [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT), [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Hijos del pueblo](https://open.spotify.com/album/69JZWukakNJGpGhJILhyTl) | 3:32 |
+| 43 | [Amor Regresa](https://open.spotify.com/track/3nbCTU4k0l68vml8nDajwU) | [Los Askis](https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi) | [Pasión Y Cumbia](https://open.spotify.com/album/6DPWLpcFLqrD50JfN6NOk1) | 3:33 |
 | 44 | [Feliz Feliz](https://open.spotify.com/track/0JZV1UuBsbSwHhGirgWaXI) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Mi Mexico Querido](https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1) | 3:37 |
 | 45 | [Entrega De Amor](https://open.spotify.com/track/2SNP0sm56HwUvZh7bL66pi) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Entrega De Amor](https://open.spotify.com/album/5RskNC4hvSZfi1b2k1tFPw) | 2:56 |
 | 46 | [Loco](https://open.spotify.com/track/0uCuoqJ3uvSTU8I3Vtvnfu) | [Pesado](https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK) | [Todo tuyo](https://open.spotify.com/album/6EGXXDM0tEb4mTuC4ofMei) | 3:55 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjpQgC7Wtwz.md) - [plain]
 | 74 | [Vida No Te Vayas](https://open.spotify.com/track/6GU3eVzFRKEFme03ut4b6G) | [Los Yaguarú](https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ) | [Corazoncito Pum Pum](https://open.spotify.com/album/07MvwQNWa6J5fSw3FSS4C5) | 3:48 |
 | 75 | [Sin Ti](https://open.spotify.com/track/1mmaywWRQzNE5dt0eUISBd) | [King Chango](https://open.spotify.com/artist/5nZlhgO7iNedGlO0gKu9us) | [The Return of El Santo](https://open.spotify.com/album/5cOccFEax9P6EPRJc4xPx9) | 4:47 |
 
-Snapshot ID: `MTY0Mzc0MTE5NywwMDAwMDAwMDA0Y2E4ZjA4YTY4NmY0MzAwYThiYmUwNmZlYjNjZDlk`
+Snapshot ID: `MTY0Mzc0MTE5NywwMDAwMDAwMDgzY2RjYjQyOWNlYTI4ZGY4NDU5ZGY2MmQ0OGNmZjEw`

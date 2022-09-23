@@ -4,7 +4,7 @@
 
 > The best new tracks every week\. Cover: Djo
 
-4,175 songs - 10 day 5 hr 23 min - [published](https://open.spotify.com/playlist/1AAb6HvkitUK9waoKCTxpm)
+4,176 songs - 10 day 5 hr 28 min - [published](https://open.spotify.com/playlist/1AAb6HvkitUK9waoKCTxpm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1282,7 +1282,8 @@
 | [Four Leaf Dream](https://open.spotify.com/track/2I8VEot3oo5qaVmCW16qOx) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Four Leaf Dream](https://open.spotify.com/album/6F1TXEZqGeUasahJdxs4hR) | 2:21 | 2022-02-25 | 2022-03-26 |
 | [Four of Five](https://open.spotify.com/track/2tBxmeOSizLwlJpHLFiSSF) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Hasta El Cielo](https://open.spotify.com/album/4b7iBQ6FtAoFDJTWGGnCRK) | 4:17 | 2019-07-12 | 2019-08-30 |
 | [Fourth of July \- April Base Version](https://open.spotify.com/track/1qufJFcGOXDdfA9kryBCQG) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Fourth of July](https://open.spotify.com/album/6iDSCbUNbvIrSiM3JfJyCL) | 3:43 | 2022-07-01 | 2022-08-13 |
-| [Foxglove Through The Clearcut](https://open.spotify.com/track/6gCQmZNLNwStQuVBpVdJnx) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Foxglove Through The Clearcut](https://open.spotify.com/album/4AATTNKThdy3YYYUrjKknV) | 5:15 | 2022-08-12 |  |
+| [Foxglove Through The Clearcut](https://open.spotify.com/track/23od4rorIdhvYeLL7YqP9n) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Asphalt Meadows](https://open.spotify.com/album/2PIWPTOIxbaVSjTnc30vXS) | 5:15 | 2022-08-12 |  |
+| [Foxglove Through The Clearcut](https://open.spotify.com/track/6gCQmZNLNwStQuVBpVdJnx) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Foxglove Through The Clearcut](https://open.spotify.com/album/4AATTNKThdy3YYYUrjKknV) | 5:15 | 2022-08-12 | 2022-09-23 |
 | [Foyer](https://open.spotify.com/track/5zQJ1SPVOPi0L0z2Av91Wg) | [Wild Nothing](https://open.spotify.com/artist/6NrkINd80slV25wkBu9mEB) | [Foyer](https://open.spotify.com/album/28K81dRFuSVOdvtimu4p3L) | 3:58 | 2020-01-10 | 2020-02-14 |
 | [Fragile](https://open.spotify.com/track/4cZkUkXGaw1D8pkuiKZY9J) | [Benjamin Carter](https://open.spotify.com/artist/2mN6M9Kde408WNk0YrHnQn), [Appleby](https://open.spotify.com/artist/4Y2i9jhU3jW0PVsvTLIbWX) | [Fragile](https://open.spotify.com/album/0EIe50B1weniMtQio4Mkkx) | 2:51 | 2020-06-05 | 2020-07-10 |
 | [Fragile](https://open.spotify.com/track/1s4bn1Oi01ujaWZKL4DaRq) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Fragile](https://open.spotify.com/album/7CsiXsvAVntWacovB9G4uL) | 4:01 | 2022-06-03 | 2022-07-09 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6VDO8a6cQME.md) - [plain]
 
 > Celebrating 25 years of Usher's "My Way," Mariah Carey's "Butterfly" and Jon B's "COOL RELAX." Cover: Usher
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,962,254 likes - 75 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,963,217 likes - 75 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

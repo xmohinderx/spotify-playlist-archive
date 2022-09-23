@@ -242,6 +242,24 @@
     },
     {
       "album": {
+        "name": "You Run",
+        "url": "https://open.spotify.com/album/0TYWnfGE7HspkqdLQLA0vD"
+      },
+      "artists": [
+        {
+          "name": "Spada",
+          "url": "https://open.spotify.com/artist/2hPCF7VDHhihvNdobslOHw"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356906,
+      "name": "Antibodies",
+      "url": "https://open.spotify.com/track/0vKfvNx0UCrEp56kJdQPfi"
+    },
+    {
+      "album": {
         "name": "CARE4LIFE",
         "url": "https://open.spotify.com/album/5UupDvLyN0JgQ5L67Lv63c"
       },
@@ -541,7 +559,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 323149,
       "name": "Bodycheck",
       "url": "https://open.spotify.com/track/0yuhIiOMzFAPJzb54Ci0sd"
@@ -559,7 +577,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 400523,
       "name": "Bom",
       "url": "https://open.spotify.com/track/2CefyeSJ9lfy7a912eZ0gc"
@@ -2101,7 +2119,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 342027,
       "name": "Lady Cherry",
       "url": "https://open.spotify.com/track/1FegqJzuhbp7XZY4gT5EoW"
@@ -4036,6 +4054,24 @@
     },
     {
       "album": {
+        "name": "Transcendence",
+        "url": "https://open.spotify.com/album/3H8csJAMoN8ZRXZB9c0E5k"
+      },
+      "artists": [
+        {
+          "name": "Stereo Express",
+          "url": "https://open.spotify.com/artist/3j2zB13syOvCyrkJIomEA2"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 412857,
+      "name": "Transcendence",
+      "url": "https://open.spotify.com/track/2OlB9XozcuSSC65y5dHenE"
+    },
+    {
+      "album": {
         "name": "The Vision",
         "url": "https://open.spotify.com/album/0gYWHiu6d4Lcrf4a4xFL40"
       },
@@ -4469,6 +4505,28 @@
       "duration_ms": 257734,
       "name": "Yours",
       "url": "https://open.spotify.com/track/5kNv1Du0DqYgKkFgXiBRu3"
+    },
+    {
+      "album": {
+        "name": "Zorro",
+        "url": "https://open.spotify.com/album/7uoEGgQYCAyJ9mWzItcJch"
+      },
+      "artists": [
+        {
+          "name": "JADED",
+          "url": "https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf"
+        },
+        {
+          "name": "Carlita",
+          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216981,
+      "name": "Zorro",
+      "url": "https://open.spotify.com/track/0hKa1iXJRQMcpMELUojgTI"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWVCHIm2MEeIy"

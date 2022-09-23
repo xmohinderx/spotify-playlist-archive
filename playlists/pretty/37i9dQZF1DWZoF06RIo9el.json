@@ -1,12 +1,12 @@
 {
   "description": "Las mejores canciones de septiembre 2022.",
-  "num_followers": 1494113,
+  "num_followers": 1494222,
   "original_name": "Lo mejor del mes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzc4MzE3OCwwMDAwMDAwMDA3NjVjMGZkNDVlNmE5ZjQ3MDkzMmNiZDVjMTY1MjQy",
+  "snapshot_id": "MTY2Mzc4MzE3OCwwMDAwMDAwMDc1YTY3YzliZGM4MjRlMjlhOTVlMDVjZWE3M2I0NDhj",
   "tracks": [
     {
       "added_at": "2022-09-19 15:41:22",
@@ -43,22 +43,6 @@
     {
       "added_at": "2022-09-19 15:41:22",
       "album": {
-        "name": "Mercedes Tintia",
-        "url": "https://open.spotify.com/album/3Hp4KQN2Oib1HM5MO3Q69s"
-      },
-      "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 195348,
-      "name": "Mercedes Tintia",
-      "url": "https://open.spotify.com/track/6e9Ew4AECYwY5Xgs2ZKMgp"
-    },
-    {
-      "added_at": "2022-09-19 15:41:22",
-      "album": {
         "name": "Vista Al Mar",
         "url": "https://open.spotify.com/album/5ihYKNgcOMifCJmcGp7CkW"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 180672,
       "name": "Vista Al Mar",
       "url": "https://open.spotify.com/track/7iwJOi3hlMqZt6pj1sQOBj"
+    },
+    {
+      "added_at": "2022-09-19 15:41:22",
+      "album": {
+        "name": "Mercedes Tintia",
+        "url": "https://open.spotify.com/album/3Hp4KQN2Oib1HM5MO3Q69s"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 195348,
+      "name": "Mercedes Tintia",
+      "url": "https://open.spotify.com/track/6e9Ew4AECYwY5Xgs2ZKMgp"
     },
     {
       "added_at": "2022-09-19 15:41:22",
@@ -95,6 +95,22 @@
       "duration_ms": 232843,
       "name": "LOS APARATOS",
       "url": "https://open.spotify.com/track/4SSbtLDkepeOHAckM1FCBP"
+    },
+    {
+      "added_at": "2022-09-19 15:41:22",
+      "album": {
+        "name": "AUTOM\u00c1TICO",
+        "url": "https://open.spotify.com/album/5i8WdrKnzvMbujuJhkcFQn"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 175317,
+      "name": "AUTOM\u00c1TICO",
+      "url": "https://open.spotify.com/track/3Ne5uYDFzHEFYAPbaBMIck"
     },
     {
       "added_at": "2022-09-19 15:41:22",
@@ -139,42 +155,6 @@
     {
       "added_at": "2022-09-19 15:41:22",
       "album": {
-        "name": "AUTOM\u00c1TICO",
-        "url": "https://open.spotify.com/album/5i8WdrKnzvMbujuJhkcFQn"
-      },
-      "artists": [
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 175317,
-      "name": "AUTOM\u00c1TICO",
-      "url": "https://open.spotify.com/track/3Ne5uYDFzHEFYAPbaBMIck"
-    },
-    {
-      "added_at": "2022-09-19 15:41:22",
-      "album": {
-        "name": "506",
-        "url": "https://open.spotify.com/album/38coX6excq4obQR4Z7sww7"
-      },
-      "artists": [
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        },
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 180546,
-      "name": "506",
-      "url": "https://open.spotify.com/track/4scwMEdlKi8qWJzzyDB8Z3"
-    },
-    {
-      "added_at": "2022-09-19 15:41:22",
-      "album": {
         "name": "FELIZ CUMPLEA\u00d1OS FERXXO TE PIRATEAMOS EL \u00c1LBUM",
         "url": "https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9"
       },
@@ -207,6 +187,26 @@
       "duration_ms": 236143,
       "name": "Party en el Barrio (feat. Duki)",
       "url": "https://open.spotify.com/track/5GF0X7GdNmnouKcdhhRmtm"
+    },
+    {
+      "added_at": "2022-09-19 15:41:22",
+      "album": {
+        "name": "506",
+        "url": "https://open.spotify.com/album/38coX6excq4obQR4Z7sww7"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        },
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 180546,
+      "name": "506",
+      "url": "https://open.spotify.com/track/4scwMEdlKi8qWJzzyDB8Z3"
     },
     {
       "added_at": "2022-09-19 15:41:22",
@@ -463,6 +463,22 @@
     {
       "added_at": "2022-09-19 15:41:22",
       "album": {
+        "name": "La Copa",
+        "url": "https://open.spotify.com/album/2PC6PCA91NxKDtuV63i0rF"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 154628,
+      "name": "La Copa",
+      "url": "https://open.spotify.com/track/2gdBsRfuWGwJwe3X5XwZuI"
+    },
+    {
+      "added_at": "2022-09-19 15:41:22",
+      "album": {
         "name": "La Chama",
         "url": "https://open.spotify.com/album/1PqlS6ozoc8TIB8uiiuPUy"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 192286,
       "name": "La Chama",
       "url": "https://open.spotify.com/track/2nK8tfg8lRVrzy8IOr5O3Z"
-    },
-    {
-      "added_at": "2022-09-19 15:41:22",
-      "album": {
-        "name": "La Copa",
-        "url": "https://open.spotify.com/album/2PC6PCA91NxKDtuV63i0rF"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 154628,
-      "name": "La Copa",
-      "url": "https://open.spotify.com/track/2gdBsRfuWGwJwe3X5XwZuI"
     },
     {
       "added_at": "2022-09-19 15:41:22",
@@ -519,22 +519,6 @@
       "duration_ms": 232813,
       "name": "Condado",
       "url": "https://open.spotify.com/track/4C8QCrEqxlZ6esLR2Ws3Qh"
-    },
-    {
-      "added_at": "2022-09-19 15:41:22",
-      "album": {
-        "name": "Bien Por Ti",
-        "url": "https://open.spotify.com/album/7E0TeYo5ebKzkUzxP1NhX5"
-      },
-      "artists": [
-        {
-          "name": "Sofia Castro",
-          "url": "https://open.spotify.com/artist/54Dm36Il3hbJON4caC9ofw"
-        }
-      ],
-      "duration_ms": 154653,
-      "name": "Bien Por Ti",
-      "url": "https://open.spotify.com/track/7LWhpOibaXbJNSgQaTPmgG"
     },
     {
       "added_at": "2022-09-19 15:41:22",
@@ -575,6 +559,22 @@
       "duration_ms": 180153,
       "name": "AMANTES",
       "url": "https://open.spotify.com/track/3Q7o2zzvXj7QiSCumjBpvu"
+    },
+    {
+      "added_at": "2022-09-19 15:41:22",
+      "album": {
+        "name": "Bien Por Ti",
+        "url": "https://open.spotify.com/album/7E0TeYo5ebKzkUzxP1NhX5"
+      },
+      "artists": [
+        {
+          "name": "Sofia Castro",
+          "url": "https://open.spotify.com/artist/54Dm36Il3hbJON4caC9ofw"
+        }
+      ],
+      "duration_ms": 154653,
+      "name": "Bien Por Ti",
+      "url": "https://open.spotify.com/track/7LWhpOibaXbJNSgQaTPmgG"
     },
     {
       "added_at": "2022-09-19 15:41:22",

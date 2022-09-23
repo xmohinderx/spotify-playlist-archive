@@ -1,12 +1,12 @@
 {
   "description": "Easy feels on your way to work, or wherever you're commuting to this morning.",
-  "num_followers": 970298,
+  "num_followers": 970307,
   "original_name": "Morning Commute",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMwMDg2MCwwMDAwMDAwMDA2MzBiYzQyM2RjNTU1MTBlNzRiNzY5NTJlMTQ5ZWM3",
+  "snapshot_id": "MTY2MzMwMDg2MCwwMDAwMDAwMDFkMzNmZmVlNjhlZDdmYmQ2ZmRhZjVkYWNlOWM1NGZk",
   "tracks": [
     {
       "added_at": "2022-09-16 04:01:00",
@@ -725,6 +725,22 @@
       "url": "https://open.spotify.com/track/1VSngtLdJhrlfHkLxTyOXK"
     },
     {
+      "added_at": "2022-09-02 04:02:00",
+      "album": {
+        "name": "Headlights",
+        "url": "https://open.spotify.com/album/2iZdpmmkZ1FmQh179iOc9z"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 173213,
+      "name": "Headlights",
+      "url": "https://open.spotify.com/track/0mzeEr7kHYzVPWF6iTIuwE"
+    },
+    {
       "added_at": "2022-01-21 05:01:00",
       "album": {
         "name": "Long Blue Light",
@@ -767,18 +783,18 @@
     {
       "added_at": "2022-09-02 04:02:00",
       "album": {
-        "name": "Headlights",
-        "url": "https://open.spotify.com/album/2iZdpmmkZ1FmQh179iOc9z"
+        "name": "Two Places at Once (Part I)",
+        "url": "https://open.spotify.com/album/53nT8IUeQ1Eig7t5W2jS2v"
       },
       "artists": [
         {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+          "name": "Haley Joelle",
+          "url": "https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8"
         }
       ],
-      "duration_ms": 173213,
-      "name": "Headlights",
-      "url": "https://open.spotify.com/track/0mzeEr7kHYzVPWF6iTIuwE"
+      "duration_ms": 199395,
+      "name": "Two Places at Once",
+      "url": "https://open.spotify.com/track/0l8p1TkaVgcwIUS0xwm6Y5"
     },
     {
       "added_at": "2022-05-20 04:01:00",
@@ -797,20 +813,20 @@
       "url": "https://open.spotify.com/track/43ZTfozcXRTukqENA3TXqe"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-05-13 04:02:00",
       "album": {
-        "name": "Two Places at Once (Part I)",
-        "url": "https://open.spotify.com/album/53nT8IUeQ1Eig7t5W2jS2v"
+        "name": "One Life",
+        "url": "https://open.spotify.com/album/0Q8JYPlSvdnRSJ2XQJLCi8"
       },
       "artists": [
         {
-          "name": "Haley Joelle",
-          "url": "https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8"
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
         }
       ],
-      "duration_ms": 199395,
-      "name": "Two Places at Once",
-      "url": "https://open.spotify.com/track/0l8p1TkaVgcwIUS0xwm6Y5"
+      "duration_ms": 205066,
+      "name": "One Life",
+      "url": "https://open.spotify.com/track/4TvUATvip5xCKi9GcUsgHG"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -829,22 +845,6 @@
       "url": "https://open.spotify.com/track/77Gyctcku69jSlSSYhZEkh"
     },
     {
-      "added_at": "2022-05-13 04:02:00",
-      "album": {
-        "name": "One Life",
-        "url": "https://open.spotify.com/album/0Q8JYPlSvdnRSJ2XQJLCi8"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 205066,
-      "name": "One Life",
-      "url": "https://open.spotify.com/track/4TvUATvip5xCKi9GcUsgHG"
-    },
-    {
       "added_at": "2022-08-12 04:02:00",
       "album": {
         "name": "getting into",
@@ -861,22 +861,6 @@
       "url": "https://open.spotify.com/track/0tabwXMEh3t7MkeKa95oIp"
     },
     {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
-        "name": "Last Night In The Bittersweet",
-        "url": "https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x"
-      },
-      "artists": [
-        {
-          "name": "Paolo Nutini",
-          "url": "https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp"
-        }
-      ],
-      "duration_ms": 262871,
-      "name": "Radio",
-      "url": "https://open.spotify.com/track/45kn9BixcxJID8oNIknocn"
-    },
-    {
       "added_at": "2022-06-17 04:02:00",
       "album": {
         "name": "Jude's Song",
@@ -891,6 +875,22 @@
       "duration_ms": 137079,
       "name": "Jude's Song",
       "url": "https://open.spotify.com/track/6CKU2H5ZhY27Toecau0JbO"
+    },
+    {
+      "added_at": "2022-07-01 04:02:00",
+      "album": {
+        "name": "Last Night In The Bittersweet",
+        "url": "https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x"
+      },
+      "artists": [
+        {
+          "name": "Paolo Nutini",
+          "url": "https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp"
+        }
+      ],
+      "duration_ms": 262871,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/45kn9BixcxJID8oNIknocn"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -993,22 +993,6 @@
       "url": "https://open.spotify.com/track/2egtrr5T0vdqOBtuYbzEu4"
     },
     {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
-        "name": "Rooftops",
-        "url": "https://open.spotify.com/album/60j4yeYZl6vPOcDGtWIxVc"
-      },
-      "artists": [
-        {
-          "name": "Surfaces",
-          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
-        }
-      ],
-      "duration_ms": 180248,
-      "name": "Rooftops",
-      "url": "https://open.spotify.com/track/0M8LvMw5ARqPvBGALIBLoM"
-    },
-    {
       "added_at": "2022-06-17 04:02:00",
       "album": {
         "name": "Buddy's Rendezvous",
@@ -1029,6 +1013,22 @@
       "url": "https://open.spotify.com/track/7qqrGV5WpQnMKqVTsDZd9J"
     },
     {
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
+        "name": "Fat Funny Friend (sadder)",
+        "url": "https://open.spotify.com/album/3PJGfcK8Z3SYQltnyBT0tt"
+      },
+      "artists": [
+        {
+          "name": "Maddie Zahm",
+          "url": "https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq"
+        }
+      ],
+      "duration_ms": 202319,
+      "name": "Fat Funny Friend (sadder)",
+      "url": "https://open.spotify.com/track/21O2UVKExn54RKWfk1xF4E"
+    },
+    {
       "added_at": "2022-06-17 04:02:00",
       "album": {
         "name": "Songs About You",
@@ -1045,20 +1045,20 @@
       "url": "https://open.spotify.com/track/0H8fpWWucq2qFc4G03T4aI"
     },
     {
-      "added_at": "2022-03-18 05:00:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Fat Funny Friend (sadder)",
-        "url": "https://open.spotify.com/album/3PJGfcK8Z3SYQltnyBT0tt"
+        "name": "Rooftops",
+        "url": "https://open.spotify.com/album/60j4yeYZl6vPOcDGtWIxVc"
       },
       "artists": [
         {
-          "name": "Maddie Zahm",
-          "url": "https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq"
+          "name": "Surfaces",
+          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
         }
       ],
-      "duration_ms": 202319,
-      "name": "Fat Funny Friend (sadder)",
-      "url": "https://open.spotify.com/track/21O2UVKExn54RKWfk1xF4E"
+      "duration_ms": 180248,
+      "name": "Rooftops",
+      "url": "https://open.spotify.com/track/0M8LvMw5ARqPvBGALIBLoM"
     },
     {
       "added_at": "2022-02-11 05:02:00",
@@ -1205,22 +1205,6 @@
       "url": "https://open.spotify.com/track/7fAn052aR5ah3RvrANPEQd"
     },
     {
-      "added_at": "2021-10-22 04:01:00",
-      "album": {
-        "name": "BRIGHTSIDE",
-        "url": "https://open.spotify.com/album/3K8XmeN3jQvl6reRJcfakL"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 181040,
-      "name": "BIG SHOT",
-      "url": "https://open.spotify.com/track/3UHNRo52Jrra0NfaIlYbk4"
-    },
-    {
       "added_at": "2021-08-04 17:54:39",
       "album": {
         "name": "Private Space",
@@ -1239,6 +1223,22 @@
       "duration_ms": 254722,
       "name": "Ride or Die",
       "url": "https://open.spotify.com/track/6KNV6L3b7beomEUnzWgw0X"
+    },
+    {
+      "added_at": "2021-10-22 04:01:00",
+      "album": {
+        "name": "BRIGHTSIDE",
+        "url": "https://open.spotify.com/album/3K8XmeN3jQvl6reRJcfakL"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 181040,
+      "name": "BIG SHOT",
+      "url": "https://open.spotify.com/track/3UHNRo52Jrra0NfaIlYbk4"
     }
   ],
   "unique_name": "Morning Commute",

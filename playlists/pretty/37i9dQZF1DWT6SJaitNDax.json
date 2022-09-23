@@ -1,12 +1,12 @@
 {
   "description": "Afro sounds crossing borders.  Cover: <a href=\"https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg?si=xCx4Iw6eRwWSDCBpAtKEbQ\">Pheelz</a>",
-  "num_followers": 547555,
+  "num_followers": 547694,
   "original_name": "We Everywhere",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDg4MTY2MCwwMDAwMDAwMDhjZDdmNzBmODM4NDYzZTI1YmI3ZTdkOWQ3YTQ0Zjdm",
+  "snapshot_id": "MTY2MDg4MTY2MCwwMDAwMDAwMDY1ZTQ3MjczNTBhMDA4OTJhZTc2NDFjYWViNTAwN2Ew",
   "tracks": [
     {
       "added_at": "2022-08-19 04:01:00",
@@ -423,18 +423,22 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
-        "name": "Honestly, Nevermind",
-        "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
+        "name": "Certified Lover Boy",
+        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
       },
       "artists": [
         {
           "name": "Drake",
           "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
         }
       ],
-      "duration_ms": 308820,
-      "name": "Texts Go Green",
-      "url": "https://open.spotify.com/track/4FIgHqXd4KkOwxrGeLDYM2"
+      "duration_ms": 192417,
+      "name": "Fountains (with Tems)",
+      "url": "https://open.spotify.com/track/08XWh5c0BMyD1nKVxxl91z"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -507,22 +511,18 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
-        "name": "Certified Lover Boy",
-        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
+        "name": "Honestly, Nevermind",
+        "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
       },
       "artists": [
         {
           "name": "Drake",
           "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
         }
       ],
-      "duration_ms": 192417,
-      "name": "Fountains (with Tems)",
-      "url": "https://open.spotify.com/track/08XWh5c0BMyD1nKVxxl91z"
+      "duration_ms": 308820,
+      "name": "Texts Go Green",
+      "url": "https://open.spotify.com/track/4FIgHqXd4KkOwxrGeLDYM2"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -867,22 +867,22 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
-        "name": "SHOWING OFF HER BODY (with Davido)",
-        "url": "https://open.spotify.com/album/5CgztNME0IW2ebmYmjWqUN"
+        "name": "EDNA",
+        "url": "https://open.spotify.com/album/0fq4uzIIA44Bkw0fCQ5KAU"
       },
       "artists": [
         {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+          "name": "Headie One",
+          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
         },
         {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+          "name": "Young T & Bugsey",
+          "url": "https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z"
         }
       ],
-      "duration_ms": 212639,
-      "name": "SHOWING OFF HER BODY (with Davido)",
-      "url": "https://open.spotify.com/track/5xHodqknQtgokj6oO1giHb"
+      "duration_ms": 185080,
+      "name": "Princess Cuts (feat. Young T & Bugsey)",
+      "url": "https://open.spotify.com/track/63Sb1AMnhb37DR59uXZdQd"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -907,22 +907,22 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
-        "name": "EDNA",
-        "url": "https://open.spotify.com/album/0fq4uzIIA44Bkw0fCQ5KAU"
+        "name": "SHOWING OFF HER BODY (with Davido)",
+        "url": "https://open.spotify.com/album/5CgztNME0IW2ebmYmjWqUN"
       },
       "artists": [
         {
-          "name": "Headie One",
-          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
         },
         {
-          "name": "Young T & Bugsey",
-          "url": "https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z"
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
         }
       ],
-      "duration_ms": 185080,
-      "name": "Princess Cuts (feat. Young T & Bugsey)",
-      "url": "https://open.spotify.com/track/63Sb1AMnhb37DR59uXZdQd"
+      "duration_ms": 212639,
+      "name": "SHOWING OFF HER BODY (with Davido)",
+      "url": "https://open.spotify.com/track/5xHodqknQtgokj6oO1giHb"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -1723,6 +1723,26 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
+        "name": "Nirvana",
+        "url": "https://open.spotify.com/album/2Rn7vIl03xF1ZFdB2VhtOk"
+      },
+      "artists": [
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 198496,
+      "name": "Nirvana",
+      "url": "https://open.spotify.com/track/0ZEFUsb2AVGup8SV3y3yXl"
+    },
+    {
+      "added_at": "2022-08-19 04:01:00",
+      "album": {
         "name": "Dream Girl (Global Remix)",
         "url": "https://open.spotify.com/album/0sQ2hDPOvRDi71FSWB73JD"
       },
@@ -1743,26 +1763,6 @@
       "duration_ms": 212405,
       "name": "Dream Girl - Global Remix",
       "url": "https://open.spotify.com/track/5Etwr8GddDDAwuTK84m5JI"
-    },
-    {
-      "added_at": "2022-08-19 04:01:00",
-      "album": {
-        "name": "Nirvana",
-        "url": "https://open.spotify.com/album/2Rn7vIl03xF1ZFdB2VhtOk"
-      },
-      "artists": [
-        {
-          "name": "Skepta",
-          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 198496,
-      "name": "Nirvana",
-      "url": "https://open.spotify.com/track/0ZEFUsb2AVGup8SV3y3yXl"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -1923,26 +1923,6 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
-        "name": "The Lion King: The Gift [Deluxe Edition]",
-        "url": "https://open.spotify.com/album/7kUuNU2LRmr9XbwLHXU9UZ"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        },
-        {
-          "name": "Melo-X",
-          "url": "https://open.spotify.com/artist/6AxHPycFTjxDROqK1pzsAE"
-        }
-      ],
-      "duration_ms": 216339,
-      "name": "FIND YOUR WAY BACK - MELO-X Remix",
-      "url": "https://open.spotify.com/track/1g0k1bFcLKyIrdsdUkF3eW"
-    },
-    {
-      "added_at": "2022-08-19 04:01:00",
-      "album": {
         "name": "I Am The King Of Amapiano: Sweet & Dust",
         "url": "https://open.spotify.com/album/5YiIm4cWzk8dDshWB179mE"
       },
@@ -1971,6 +1951,26 @@
       "duration_ms": 395044,
       "name": "Sponono",
       "url": "https://open.spotify.com/track/5T6wd1ScvJGSz17zMCugW0"
+    },
+    {
+      "added_at": "2022-08-19 04:01:00",
+      "album": {
+        "name": "The Lion King: The Gift [Deluxe Edition]",
+        "url": "https://open.spotify.com/album/7kUuNU2LRmr9XbwLHXU9UZ"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        },
+        {
+          "name": "Melo-X",
+          "url": "https://open.spotify.com/artist/6AxHPycFTjxDROqK1pzsAE"
+        }
+      ],
+      "duration_ms": 216339,
+      "name": "FIND YOUR WAY BACK - MELO-X Remix",
+      "url": "https://open.spotify.com/track/1g0k1bFcLKyIrdsdUkF3eW"
     },
     {
       "added_at": "2022-08-19 04:01:00",

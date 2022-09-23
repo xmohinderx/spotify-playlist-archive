@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtKpmml7moA.md) - [plain]
 
 > Simmer down with this relaxing selection of old and new Reggae.
 
-[Spotify](https://open.spotify.com/user/spotify) - 353,747 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 353,839 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtKpmml7moA.md) - [plain]
 | 16 | [Solitude](https://open.spotify.com/track/0k5s9BlyIUaHK1Fa7DVTyY) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [The ExPerience](https://open.spotify.com/album/3fijbBVRaz2CUyoWAV1ZlK) | 3:39 |
 | 17 | [Higher Place](https://open.spotify.com/track/6jQB97LaIftgb81KhkisXl) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O), [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Higher Place](https://open.spotify.com/album/3LrRzezQmsqxC2eyqVvdAr) | 3:23 |
 | 18 | [Show Love](https://open.spotify.com/track/62juTEt71fT3Ni8jaFynPm) | [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [Hybrid](https://open.spotify.com/album/7lJJIGkMzRbMCEpv6N7qKS) | 3:12 |
-| 19 | [Lowe Mi](https://open.spotify.com/track/23sdZgBlHvaHJcfOLu2PgZ) | [Sevana](https://open.spotify.com/artist/2TZL5FEo1CGwmgdMSFwsdS) | [Lowe Mi](https://open.spotify.com/album/38mLi741PiYBJWdikH6Ja3) | 3:54 |
-| 20 | [Scorpio's Letter](https://open.spotify.com/track/3VSqwaaVdUI2XN5qZqxoMc) | [Taste of Pluto](https://open.spotify.com/artist/3828W36d9HZq4E5THoccvT), [Navy](https://open.spotify.com/artist/5lcuEyOhY94UGnsCgzTFao), [Marwin](https://open.spotify.com/artist/3vvASoIawDVzzybIsuFYyA) | [Scorpio’s Letter](https://open.spotify.com/album/2lY0m3vfvgVafNQ05eMYVW) | 2:55 |
+| 19 | [Scorpio's Letter](https://open.spotify.com/track/3VSqwaaVdUI2XN5qZqxoMc) | [Taste of Pluto](https://open.spotify.com/artist/3828W36d9HZq4E5THoccvT), [Navy](https://open.spotify.com/artist/5lcuEyOhY94UGnsCgzTFao), [Marwin](https://open.spotify.com/artist/3vvASoIawDVzzybIsuFYyA) | [Scorpio’s Letter](https://open.spotify.com/album/2lY0m3vfvgVafNQ05eMYVW) | 2:55 |
+| 20 | [Lowe Mi](https://open.spotify.com/track/23sdZgBlHvaHJcfOLu2PgZ) | [Sevana](https://open.spotify.com/artist/2TZL5FEo1CGwmgdMSFwsdS) | [Lowe Mi](https://open.spotify.com/album/38mLi741PiYBJWdikH6Ja3) | 3:54 |
 | 21 | [Brown Skin](https://open.spotify.com/track/1m2c9ZjrXRGRvvPhVOUXrV) | [Richie Spice](https://open.spotify.com/artist/3PqSrKPGZXefu4krgFCZSP) | [In The Streets To Africa](https://open.spotify.com/album/0scr0WIAfItBBbefIYqvuc) | 3:39 |
 | 22 | [In Bloom \(feat\. Lila Iké\)](https://open.spotify.com/track/3WwXaLYKNx0qJqyjnzDadx) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr), [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [In Search Of Lost Time](https://open.spotify.com/album/3kF6kDaK450bGM7rgOTVgW) | 3:47 |
 | 23 | [Can't Breathe \(Genius T Remix\)](https://open.spotify.com/track/1MmSKeGyQtsw01TZ4P2AaQ) | [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH) | [Can't Breathe \(Genius T Remix\)](https://open.spotify.com/album/6Z1RymNPBPYeamjtuAergh) | 3:22 |
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtKpmml7moA.md) - [plain]
 | 25 | [Same Prayer](https://open.spotify.com/track/3MfbMLBGKSHBboWixya7gL) | [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP), [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH) | [Same Prayer](https://open.spotify.com/album/0RaQaiuWVvfiqXJq4SGFv3) | 3:53 |
 | 26 | [Wanted](https://open.spotify.com/track/4F8EDSwqScQxFaLjtScKWO) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [Wanted](https://open.spotify.com/album/2LQ3Ts5RzrOV8sqYTV3xqu) | 3:37 |
 | 27 | [No Money](https://open.spotify.com/track/7iKjwcwtWKvPItHxmPYQi6) | [Romain Virgo](https://open.spotify.com/artist/6HCIRVlJ8tvmKPAtFnxyFg) | [Romain Virgo](https://open.spotify.com/album/67tTLoSUvrnjq9wanpwt50) | 3:30 |
-| 28 | [Faith](https://open.spotify.com/track/1slGuz5uZMRD9OgxyL7KBD) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O) | [Higher Place](https://open.spotify.com/album/3LrRzezQmsqxC2eyqVvdAr) | 2:53 |
-| 29 | [Love And Mercy](https://open.spotify.com/track/1xulzoD8FGNwfqe4ot9fDT) | [Samory I](https://open.spotify.com/artist/2Tecz83XE3bNwAxGiGDFJR) | [Love And Mercy](https://open.spotify.com/album/3pEDTam6hFt9A1i7gA9T62) | 3:27 |
+| 28 | [Love And Mercy](https://open.spotify.com/track/1xulzoD8FGNwfqe4ot9fDT) | [Samory I](https://open.spotify.com/artist/2Tecz83XE3bNwAxGiGDFJR) | [Love And Mercy](https://open.spotify.com/album/3pEDTam6hFt9A1i7gA9T62) | 3:27 |
+| 29 | [Faith](https://open.spotify.com/track/1slGuz5uZMRD9OgxyL7KBD) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O) | [Higher Place](https://open.spotify.com/album/3LrRzezQmsqxC2eyqVvdAr) | 2:53 |
 | 30 | [Patra](https://open.spotify.com/track/5dSVsizLbphK8OAJeMexof) | [Navy](https://open.spotify.com/artist/5lcuEyOhY94UGnsCgzTFao) | [Patra](https://open.spotify.com/album/78rDbpH7vb5bD8nBXrZFxz) | 3:25 |
 | 31 | [Cool Runnings](https://open.spotify.com/track/70A4fwnfHIok2WsdKY7X0P) | [Duane Stephenson](https://open.spotify.com/artist/4jdHfc4ZIDd7RYn1reuDg2) | [Dangerously Roots \- Journey From August Town](https://open.spotify.com/album/49dwhhUPqqjIbfPfVoRIc2) | 3:54 |
 | 32 | [A Vibe \(feat\. Wiz Khalifa\)](https://open.spotify.com/track/6gkepFIH72ZdSIAjtvS7ZV) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [A Vibe \(feat\. Wiz Khalifa\)](https://open.spotify.com/album/6bTB8c23Zg98mJNN5wx5bw) | 2:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtKpmml7moA.md) - [plain]
 | 49 | [Still I Wonder](https://open.spotify.com/track/1KTO0B48WH9AwjgbenacjP) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr) | [In Search Of Lost Time](https://open.spotify.com/album/3kF6kDaK450bGM7rgOTVgW) | 2:52 |
 | 50 | [Holy Ground \(feat\. Buju Banton\)](https://open.spotify.com/track/1LZPELQqai6rO6JgvZtElr) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [Father Of Asahd](https://open.spotify.com/album/1YgX8BWKleDlDeCOFklRfz) | 3:17 |
 
-Snapshot ID: `MTY2MzMxNzA5NSwwMDAwMDAwMDE0ZDQxN2Q0YmZhODhlZjkzZGYyMzdhY2UyYjQ1YzA3`
+Snapshot ID: `MTY2MzMxNzA5NSwwMDAwMDAwMGIxOTQzOWI5MGU4YzNkZmYzOWZiN2VmZjY3ZjljNjEz`

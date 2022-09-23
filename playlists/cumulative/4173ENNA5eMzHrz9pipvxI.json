@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: LUM!X, DVBBS",
+  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: Robin Schulz x Mougleta",
   "name": "Spinnin' Records Brand New",
   "published_playlist_ids": [
     "5y4MrJJ7gKnIUTSID8FBc6"
@@ -257,7 +257,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 176129,
       "name": "Babek",
       "url": "https://open.spotify.com/track/2A7Y7bMdX3zHycRBJwHOII"
@@ -711,7 +711,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 148125,
       "name": "Can U Dance (To My Beat)",
       "url": "https://open.spotify.com/track/3yRcwIkTVIJTEGAoPlsHbW"
@@ -1033,7 +1033,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 190320,
       "name": "Deep Inside Your Love (feat. Siera)",
       "url": "https://open.spotify.com/track/6K8O96a1Q7NEwkop7IKPJ9"
@@ -1223,7 +1223,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 196500,
       "name": "East Tales",
       "url": "https://open.spotify.com/track/4xYWS4wTRY2VXLvi36Cysh"
@@ -1333,7 +1333,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 184186,
       "name": "Fall",
       "url": "https://open.spotify.com/track/726XHSvBhMGKI7OfZEXZCf"
@@ -1576,6 +1576,24 @@
     },
     {
       "album": {
+        "name": "Flavour",
+        "url": "https://open.spotify.com/album/1SWliD4g7XztMc0JHcHCwO"
+      },
+      "artists": [
+        {
+          "name": "BYOR",
+          "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184761,
+      "name": "Flavour",
+      "url": "https://open.spotify.com/track/6zfTdxrOhR5RmOoEQz3Jo5"
+    },
+    {
+      "album": {
         "name": "Flex Game",
         "url": "https://open.spotify.com/album/6u0LRF2NPjLvjW9FLLpgK1"
       },
@@ -1613,6 +1631,28 @@
       "duration_ms": 164769,
       "name": "Flutech (feat. Ivan Ooze)",
       "url": "https://open.spotify.com/track/65yTIStAjXN1YmUAleXv57"
+    },
+    {
+      "album": {
+        "name": "Follow U",
+        "url": "https://open.spotify.com/album/1cTewnQlVGbwKhSZpWpHPd"
+      },
+      "artists": [
+        {
+          "name": "Future Class",
+          "url": "https://open.spotify.com/artist/2jFK9ZXWDd7auJvfNfBcuC"
+        },
+        {
+          "name": "Fraxy",
+          "url": "https://open.spotify.com/artist/2AiK07wBzpRw0r1uvJZboa"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143129,
+      "name": "Follow U",
+      "url": "https://open.spotify.com/track/7DFCEztidOcvabrP53B5Du"
     },
     {
       "album": {
@@ -1806,6 +1846,32 @@
     },
     {
       "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/6BN3Lbc5hDErlomk6zgpJh"
+      },
+      "artists": [
+        {
+          "name": "Feb",
+          "url": "https://open.spotify.com/artist/6lc0muqqPZVQsaTsNCyuRa"
+        },
+        {
+          "name": "KPLR",
+          "url": "https://open.spotify.com/artist/7wovvpD23QhAuKTtMzJxbQ"
+        },
+        {
+          "name": "Nadia Gattas",
+          "url": "https://open.spotify.com/artist/1q5bqIr1FUGq2545aJSmlw"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140684,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/1k4mn7Rb1DeNxWBs6fmanW"
+    },
+    {
+      "album": {
         "name": "Here For You",
         "url": "https://open.spotify.com/album/5hTj9b6fi06IiQCtwpIUOi"
       },
@@ -1968,6 +2034,24 @@
     },
     {
       "album": {
+        "name": "Hours and Hours",
+        "url": "https://open.spotify.com/album/4doUhaVPZ5BbnemJ5Pp4Df"
+      },
+      "artists": [
+        {
+          "name": "Bhaskar",
+          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245901,
+      "name": "Hours and Hours",
+      "url": "https://open.spotify.com/track/1aMvOZXicxEV0dzlYveyKG"
+    },
+    {
+      "album": {
         "name": "Hurricane (feat. SHIBUI) [Festival Mix]",
         "url": "https://open.spotify.com/album/00630cytMT6FPwlRSZTqE5"
       },
@@ -2105,7 +2189,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 144374,
       "name": "I Need You",
       "url": "https://open.spotify.com/track/0xxX8kHivOoE4ffDVkX7iw"
@@ -2495,6 +2579,28 @@
       "duration_ms": 177404,
       "name": "Left & Right",
       "url": "https://open.spotify.com/track/6C0M9XTs497rDfn2pXEuje"
+    },
+    {
+      "album": {
+        "name": "Lele",
+        "url": "https://open.spotify.com/album/207HUz7goXfcassusuQ8sZ"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel Jal",
+          "url": "https://open.spotify.com/artist/2yWskGGwMOlBGeIAVgfsgm"
+        },
+        {
+          "name": "Love or Nothing",
+          "url": "https://open.spotify.com/artist/6ZSoTBkU2gS9evF3jncopT"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226265,
+      "name": "Lele",
+      "url": "https://open.spotify.com/track/6XuwwtSoPzEsQQQpwIsUpD"
     },
     {
       "album": {
@@ -2989,7 +3095,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 141904,
       "name": "Mas Gasolina",
       "url": "https://open.spotify.com/track/3HqSS7CyKv5ucDXxwUbU4n"
@@ -3365,7 +3471,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 151818,
       "name": "Not My Fault",
       "url": "https://open.spotify.com/track/61hj380D3J9Eem8V17pwO9"
@@ -3441,7 +3547,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 175578,
       "name": "Oh No!!",
       "url": "https://open.spotify.com/track/7clzjmgPKs5nO0qhd6RoXB"
@@ -3577,6 +3683,28 @@
       "duration_ms": 141428,
       "name": "Parachute",
       "url": "https://open.spotify.com/track/0tqDVpsdkoqpsyCv0w8G4F"
+    },
+    {
+      "album": {
+        "name": "Party PPL",
+        "url": "https://open.spotify.com/album/0oglJBSSaMlKM95QLXQGx5"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "89ers",
+          "url": "https://open.spotify.com/artist/2zBsLiCiCXB9EmLfHSplIs"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148412,
+      "name": "Party PPL",
+      "url": "https://open.spotify.com/track/5XlfRHrrl5kxkm22pxeLjH"
     },
     {
       "album": {
@@ -3859,6 +3987,28 @@
       "duration_ms": 140000,
       "name": "Ridiculous",
       "url": "https://open.spotify.com/track/7gI3L0bry3gOER6UeS9Vke"
+    },
+    {
+      "album": {
+        "name": "Rockstar Baby (feat. Mougleta)",
+        "url": "https://open.spotify.com/album/6Kamhcf55KpgHpbAMvQqp5"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "Mougleta",
+          "url": "https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174858,
+      "name": "Rockstar Baby (feat. Mougleta)",
+      "url": "https://open.spotify.com/track/27ooJRSmsdwshBQGoUZE3p"
     },
     {
       "album": {
@@ -4262,6 +4412,28 @@
     },
     {
       "album": {
+        "name": "Somewhere (with Syn Cole)",
+        "url": "https://open.spotify.com/album/0YGKv9rWbJQGcZyU6l4mCS"
+      },
+      "artists": [
+        {
+          "name": "Andrah",
+          "url": "https://open.spotify.com/artist/4zKVc3SBL6SPBkqxeIQlkk"
+        },
+        {
+          "name": "Syn Cole",
+          "url": "https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164444,
+      "name": "Somewhere (with Syn Cole)",
+      "url": "https://open.spotify.com/track/53i9DQqHwjPFzHBIR5T4Q3"
+    },
+    {
+      "album": {
         "name": "Speed",
         "url": "https://open.spotify.com/album/7HFeb1OonbWxKEEBgiIHwG"
       },
@@ -4277,6 +4449,32 @@
       "duration_ms": 223384,
       "name": "Speed",
       "url": "https://open.spotify.com/track/2djrfJoMcMkeclcALeYHit"
+    },
+    {
+      "album": {
+        "name": "Speed Of Light (feat. Darla Jade)",
+        "url": "https://open.spotify.com/album/54vH6ANMwZ2rab6v1psPYv"
+      },
+      "artists": [
+        {
+          "name": "Francis Mercier",
+          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
+        },
+        {
+          "name": "Like Mike",
+          "url": "https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi"
+        },
+        {
+          "name": "Darla Jade",
+          "url": "https://open.spotify.com/artist/615ZycClQL8KQ8qzZiuP8T"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190161,
+      "name": "Speed Of Light (feat. Darla Jade)",
+      "url": "https://open.spotify.com/track/6xuaSF0FsAQcztKM1lq2aq"
     },
     {
       "album": {
@@ -4346,6 +4544,32 @@
     },
     {
       "album": {
+        "name": "Summer Jams",
+        "url": "https://open.spotify.com/album/3joHydRaKKBO8Z6HRq3asQ"
+      },
+      "artists": [
+        {
+          "name": "Blasterjaxx",
+          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
+        },
+        {
+          "name": "Henri PFR",
+          "url": "https://open.spotify.com/artist/6n9XmMc3mX18mrTHYOCPIq"
+        },
+        {
+          "name": "Jay Mason",
+          "url": "https://open.spotify.com/artist/0dS5IlInNc5Qq0wIrFTKob"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137149,
+      "name": "Summer Jams",
+      "url": "https://open.spotify.com/track/3W3v72EKmAfAiuJm9BDi9b"
+    },
+    {
+      "album": {
         "name": "Summer Love (feat. Erich Lennig)",
         "url": "https://open.spotify.com/album/1iGvNwm6sMFRe3hkfUsx08"
       },
@@ -4409,6 +4633,54 @@
       "duration_ms": 217261,
       "name": "Sun Goes Down (feat. KILLUA)",
       "url": "https://open.spotify.com/track/4DtxLmXT8W8YMobKviMy6w"
+    },
+    {
+      "album": {
+        "name": "Sun Goes Down (feat. KILLUA) [Guz Remix]",
+        "url": "https://open.spotify.com/album/542hQ6L27oSozwt1v4OOeU"
+      },
+      "artists": [
+        {
+          "name": "Victor Lou",
+          "url": "https://open.spotify.com/artist/063wYkWkHrq5L5YWdrqjEt"
+        },
+        {
+          "name": "Killua",
+          "url": "https://open.spotify.com/artist/7N0gUkzHkjXISZ7WyilZfo"
+        },
+        {
+          "name": "Guz",
+          "url": "https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159479,
+      "name": "Sun Goes Down (feat. KILLUA) - Guz Remix",
+      "url": "https://open.spotify.com/track/5OqjDdZd9Yo2dbjrllnUjs"
+    },
+    {
+      "album": {
+        "name": "Sun Goes Down (Tsuki Remix)",
+        "url": "https://open.spotify.com/album/2kJdR6dSOfipHdWCNrZwTR"
+      },
+      "artists": [
+        {
+          "name": "Skepsis",
+          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
+        },
+        {
+          "name": "Tsuki",
+          "url": "https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124148,
+      "name": "Sun Goes Down (Tsuki Remix)",
+      "url": "https://open.spotify.com/track/37mdNbnfWeAn9CkQmdTJHr"
     },
     {
       "album": {
@@ -4776,6 +5048,28 @@
     },
     {
       "album": {
+        "name": "The Way Out (feat. Bertie Scott)",
+        "url": "https://open.spotify.com/album/4IJSbEfGGHcWGGagUSpAT2"
+      },
+      "artists": [
+        {
+          "name": "Egzod",
+          "url": "https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6"
+        },
+        {
+          "name": "Bertie Scott",
+          "url": "https://open.spotify.com/artist/2m0xNVRx1tAHY3pfNXt7Ro"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183843,
+      "name": "The Way Out (feat. Bertie Scott)",
+      "url": "https://open.spotify.com/track/1ssH8g0sRC9euIT32MEhxg"
+    },
+    {
+      "album": {
         "name": "The Whistle",
         "url": "https://open.spotify.com/album/6Osh5HRmPmCbr4N6xKwefD"
       },
@@ -5033,7 +5327,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 135714,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/3rkIaAZvJZsfq8ONZ51Iym"

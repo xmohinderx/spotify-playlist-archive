@@ -1,12 +1,12 @@
 {
   "description": "Nh\u1eefng nh\u1ea1c ph\u1ea9m \u0111i v\u00e0o l\u00f2ng ng\u01b0\u1eddi t\u1eeb nhi\u1ec1u th\u1ebf h\u1ec7. \u1ea2nh b\u00eca: Nh\u01b0 Qu\u1ef3nh",
-  "num_followers": 31398,
+  "num_followers": 31409,
   "original_name": "Bolero Tuy\u1ec7t Ph\u1ea9m",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDY1NzUwMiwwMDAwMDAwMDgyNjI5NmNlNDlmMjgxMDY3NWQ5ZGM2NGFkZDE5NWU4",
+  "snapshot_id": "MTY1NDY1NzUwMiwwMDAwMDAwMDAyYTc2MThmZDYxODA1OTE3N2ZkYWM4NmJhNTAxZWEy",
   "tracks": [
     {
       "added_at": "2022-03-11 05:02:33",
@@ -283,22 +283,6 @@
     {
       "added_at": "2022-03-11 05:02:33",
       "album": {
-        "name": "Chi\u1ec1u Cu\u1ed1i Tu\u1ea7n",
-        "url": "https://open.spotify.com/album/133qaaT0iDJWj8WSrYSMh8"
-      },
-      "artists": [
-        {
-          "name": "Ph\u01b0\u01a1ng Anh",
-          "url": "https://open.spotify.com/artist/7cJyqnwFpBTzP1eO1cgPhk"
-        }
-      ],
-      "duration_ms": 354455,
-      "name": "Hoa N\u1edf V\u1ec1 \u0110\u00eam",
-      "url": "https://open.spotify.com/track/66cuTRLlp6GUD06TzELKnj"
-    },
-    {
-      "added_at": "2022-03-11 05:02:33",
-      "album": {
         "name": "\u0110\u1eafp M\u1ed9 Cu\u1ed9c T\u00ecnh",
         "url": "https://open.spotify.com/album/06gVRXKGJdHRRWHq9acZH6"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 335189,
       "name": "\u0110\u1eafp m\u1ed9 cu\u1ed9c t\u00ecnh",
       "url": "https://open.spotify.com/track/3T5ebvfNzgtvFzi1CuKKui"
+    },
+    {
+      "added_at": "2022-03-11 05:02:33",
+      "album": {
+        "name": "Chi\u1ec1u Cu\u1ed1i Tu\u1ea7n",
+        "url": "https://open.spotify.com/album/133qaaT0iDJWj8WSrYSMh8"
+      },
+      "artists": [
+        {
+          "name": "Ph\u01b0\u01a1ng Anh",
+          "url": "https://open.spotify.com/artist/7cJyqnwFpBTzP1eO1cgPhk"
+        }
+      ],
+      "duration_ms": 354455,
+      "name": "Hoa N\u1edf V\u1ec1 \u0110\u00eam",
+      "url": "https://open.spotify.com/track/66cuTRLlp6GUD06TzELKnj"
     },
     {
       "added_at": "2022-03-11 05:02:33",
@@ -583,8 +583,8 @@
     {
       "added_at": "2022-03-11 05:02:33",
       "album": {
-        "name": "Bu\u1ed3n L\u1eafm \u00c1o D\u00e0i \u01a0i!",
-        "url": "https://open.spotify.com/album/2EmIvznxe2WZPqw6DM9acj"
+        "name": "Song Ca Nh\u1ea1c V\u00e0ng Bolero V\u00e0 Remix Ph\u1ea7n 1",
+        "url": "https://open.spotify.com/album/6Hagz8ylcRuUBQx3gd357q"
       },
       "artists": [
         {
@@ -592,9 +592,9 @@
           "url": "https://open.spotify.com/artist/1marWJ3Id2c1evTL8eV1lb"
         }
       ],
-      "duration_ms": 373170,
-      "name": "L\u01b0u B\u00fat Ng\u00e0y Xanh",
-      "url": "https://open.spotify.com/track/56tR6AWgDT46ZAhHb6uJb3"
+      "duration_ms": 300773,
+      "name": "Con \u0110\u01b0\u1eddng X\u01b0a Em \u0110i",
+      "url": "https://open.spotify.com/track/1EUto6KDh02A83gyKMtKcn"
     },
     {
       "added_at": "2022-03-11 05:02:33",
@@ -787,8 +787,8 @@
     {
       "added_at": "2022-03-11 05:02:33",
       "album": {
-        "name": "Song Ca Nh\u1ea1c V\u00e0ng Bolero V\u00e0 Remix Ph\u1ea7n 1",
-        "url": "https://open.spotify.com/album/6Hagz8ylcRuUBQx3gd357q"
+        "name": "Bu\u1ed3n L\u1eafm \u00c1o D\u00e0i \u01a0i!",
+        "url": "https://open.spotify.com/album/2EmIvznxe2WZPqw6DM9acj"
       },
       "artists": [
         {
@@ -796,9 +796,9 @@
           "url": "https://open.spotify.com/artist/1marWJ3Id2c1evTL8eV1lb"
         }
       ],
-      "duration_ms": 300773,
-      "name": "Con \u0110\u01b0\u1eddng X\u01b0a Em \u0110i",
-      "url": "https://open.spotify.com/track/1EUto6KDh02A83gyKMtKcn"
+      "duration_ms": 373170,
+      "name": "L\u01b0u B\u00fat Ng\u00e0y Xanh",
+      "url": "https://open.spotify.com/track/56tR6AWgDT46ZAhHb6uJb3"
     },
     {
       "added_at": "2022-03-11 05:02:33",

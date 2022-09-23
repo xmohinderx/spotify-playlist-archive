@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Lithuania.
 
-847 songs - 1 day 22 hr 3 min - [published](https://open.spotify.com/playlist/0EEJK6TovvmWZyvip17xR6)
+848 songs - 1 day 22 hr 5 min - [published](https://open.spotify.com/playlist/0EEJK6TovvmWZyvip17xR6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -270,7 +270,7 @@
 | [Happier Than Ever](https://open.spotify.com/track/4RVwu0g32PAqgUiJoXsdF8) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 4:58 | 2021-08-01 | 2021-12-18 |
 | [Happy New Year](https://open.spotify.com/track/4AsvGVDWs16fqIiIdDzyvX) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Super Trouper](https://open.spotify.com/album/3ZdkT5buYFi1WQaB0XNNtf) | 4:23 | 2022-01-01 | 2022-01-03 |
 | [Happy Xmas \(War Is Over\) \- Remastered 2010](https://open.spotify.com/track/27RYrbL6S02LNVhDWVl38b) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H), [Yoko Ono](https://open.spotify.com/artist/2s4tjL6W3qrblOe0raIzwJ) | [Signature Box](https://open.spotify.com/album/555NIhJIQ4XoS5N7VglF0v) | 3:34 | 2021-12-19 | 2021-12-29 |
-| [Hate It Or Love It](https://open.spotify.com/track/2wGSgTmgSF3xjRrHkTc25R) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [The Documentary](https://open.spotify.com/album/4PrPbmm0gKvaD3rerOXFg8) | 3:26 | 2022-06-28 |  |
+| [Hate It Or Love It](https://open.spotify.com/track/2wGSgTmgSF3xjRrHkTc25R) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [The Documentary](https://open.spotify.com/album/4PrPbmm0gKvaD3rerOXFg8) | 3:26 | 2022-06-28 | 2022-09-23 |
 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/1Qi2wh8fFgDV7tl4Sj3f2K) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/3nCpXy6LlyXWuFR08tMycK) | 2:50 | 2021-12-24 | 2021-12-27 |
 | [HDMI](https://open.spotify.com/track/7I4ibsZgwuf46g0xHuTC8s) | [BONES](https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN) | [Rotten](https://open.spotify.com/album/2jgKK8iIX83mPrCyDhvEdf) | 2:19 | 2022-01-31 | 2022-04-23 |
 | [Head & Heart \(feat\. MNEK\)](https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Head & Heart \(feat\. MNEK\)](https://open.spotify.com/album/5glfCPECXSHzidU6exW8wO) | 2:46 | 2021-03-27\* | 2021-06-23 |
@@ -430,6 +430,7 @@
 | [MAFIA](https://open.spotify.com/track/08F16baYbciTva9P4BvpiI) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ESCAPE PLAN / MAFIA](https://open.spotify.com/album/5FB5E1fwFeVqpz2CCzRSve) | 4:00 | 2021-11-07 | 2021-11-11 |
 | [Make That Shake](https://open.spotify.com/track/3pVOQDkKssk9mbR9icLzRB) | [AhmedTheArab](https://open.spotify.com/artist/1MoZFJA1rpKHwBKkKLiULB) | [Make That Shake](https://open.spotify.com/album/0FsTf6jbAua1RTSA4hNWmy) | 3:13 | 2021-07-07 | 2021-07-09 |
 | [MAMMAMIA](https://open.spotify.com/track/78SCmQ8A7KQSMdkem2SwBP) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [MAMMAMIA](https://open.spotify.com/album/7lVXNBav3Z8oA4jGk62Gme) | 3:06 | 2021-10-10 | 2022-06-16 |
+| [Man Moji](https://open.spotify.com/track/4QHRKu6scoEilEvLnHYOnz) | [Gabrielius Vagelis](https://open.spotify.com/artist/0dJJpF4ULA7xCU5xwHbCB3) | [Man Moji](https://open.spotify.com/album/5F4ZSxArDqXOf7YBoGF05z) | 2:26 | 2022-09-22 |  |
 | [Man Trūksta Dienų](https://open.spotify.com/track/0DvjNkf7BUG4tJFBz6N15s) | [Gabrielius Vagelis](https://open.spotify.com/artist/0dJJpF4ULA7xCU5xwHbCB3) | [Man Trūksta Dienų](https://open.spotify.com/album/4h5IJTc2fQZEbBeqrFjHtZ) | 3:04 | 2022-06-01 | 2022-06-06 |
 | [MANIAC](https://open.spotify.com/track/7BDHDiidJ8WV349p3HTxTV) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ODDINARY](https://open.spotify.com/album/1byOOf9U3IiQN1cVHqRqEF) | 3:02 | 2022-03-20 | 2022-03-24 |
 | [MANIFESTO \(feat\. Domo Genesis\)](https://open.spotify.com/track/6qouBO0wJtYc3k7DfKRUBx) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Domo Genesis](https://open.spotify.com/artist/6vHBuUxrcpn1do5UaEJ7g6) | [CALL ME IF YOU GET LOST](https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9) | 2:55 | 2021-06-27 | 2021-06-28 |

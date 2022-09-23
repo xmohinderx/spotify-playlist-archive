@@ -1,12 +1,12 @@
 {
   "description": "Le tracce italiane pi\u00f9 romantiche di sempre.",
-  "num_followers": 157135,
+  "num_followers": 157145,
   "original_name": "Amore Davvero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMjY4MTUzMywwMDAwMDAwMDlhOWYzNTgwMTdlODg5YTE4NmFiZGI5ZDI1ODZlYjNh",
+  "snapshot_id": "MTYzMjY4MTUzMywwMDAwMDAwMDc5YjNiYjY1NzhlYWM0YTY2M2VkYzM3ZGE1MDQ2Njg0",
   "tracks": [
     {
       "added_at": "2021-09-26 18:38:53",
@@ -143,22 +143,6 @@
     {
       "added_at": "2021-09-26 18:38:53",
       "album": {
-        "name": "Completamente Sold Out",
-        "url": "https://open.spotify.com/album/2UsIHnX2RaOOQVkpspAYDj"
-      },
-      "artists": [
-        {
-          "name": "Thegiornalisti",
-          "url": "https://open.spotify.com/artist/6YBgd2LKccEB3pX6UaW1Yp"
-        }
-      ],
-      "duration_ms": 216386,
-      "name": "Completamente",
-      "url": "https://open.spotify.com/track/7sh95K3HXkne9mVYDOIRWs"
-    },
-    {
-      "added_at": "2021-09-26 18:38:53",
-      "album": {
         "name": "Persona",
         "url": "https://open.spotify.com/album/3ZOt77e63uMgJXU7xcFpqu"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 221631,
       "name": "MADAME - L'anima (feat. Madame)",
       "url": "https://open.spotify.com/track/3go5ZuMoFTKl5ugai8nAKi"
+    },
+    {
+      "added_at": "2021-09-26 18:38:53",
+      "album": {
+        "name": "Completamente Sold Out",
+        "url": "https://open.spotify.com/album/2UsIHnX2RaOOQVkpspAYDj"
+      },
+      "artists": [
+        {
+          "name": "Thegiornalisti",
+          "url": "https://open.spotify.com/artist/6YBgd2LKccEB3pX6UaW1Yp"
+        }
+      ],
+      "duration_ms": 216386,
+      "name": "Completamente",
+      "url": "https://open.spotify.com/track/7sh95K3HXkne9mVYDOIRWs"
     },
     {
       "added_at": "2021-09-26 18:38:53",
@@ -655,22 +655,6 @@
     {
       "added_at": "2021-09-26 18:38:53",
       "album": {
-        "name": "Safari",
-        "url": "https://open.spotify.com/album/4tp7nwTFlAwtgHhJiEnilK"
-      },
-      "artists": [
-        {
-          "name": "Jovanotti",
-          "url": "https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi"
-        }
-      ],
-      "duration_ms": 264240,
-      "name": "A Te",
-      "url": "https://open.spotify.com/track/0pVSpAnjpnqywmPZnOISiv"
-    },
-    {
-      "added_at": "2021-09-26 18:38:53",
-      "album": {
         "name": "Iperbole",
         "url": "https://open.spotify.com/album/11ppqhDtSVmjuGCJygZdIG"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 296040,
       "name": "Infinito",
       "url": "https://open.spotify.com/track/7KyPP4IenVDrKeewWlAp5L"
+    },
+    {
+      "added_at": "2021-09-26 18:38:53",
+      "album": {
+        "name": "Safari",
+        "url": "https://open.spotify.com/album/4tp7nwTFlAwtgHhJiEnilK"
+      },
+      "artists": [
+        {
+          "name": "Jovanotti",
+          "url": "https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi"
+        }
+      ],
+      "duration_ms": 264240,
+      "name": "A Te",
+      "url": "https://open.spotify.com/track/0pVSpAnjpnqywmPZnOISiv"
     },
     {
       "added_at": "2021-09-26 18:38:53",
@@ -751,22 +751,6 @@
     {
       "added_at": "2021-09-26 18:38:53",
       "album": {
-        "name": "La Donna Cannone",
-        "url": "https://open.spotify.com/album/7COQBoeP7bBHykCpFbdpR2"
-      },
-      "artists": [
-        {
-          "name": "Francesco De Gregori",
-          "url": "https://open.spotify.com/artist/16FJYC4FqKhZXiXIzMI4ul"
-        }
-      ],
-      "duration_ms": 279706,
-      "name": "La donna cannone",
-      "url": "https://open.spotify.com/track/2T2t1DXwzdilKF3BQPHREo"
-    },
-    {
-      "added_at": "2021-09-26 18:38:53",
-      "album": {
         "name": "Sorriso (Milano Dateo)",
         "url": "https://open.spotify.com/album/5U5pvv8NQHjb4UEhMozHRz"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 177145,
       "name": "Sorriso (Milano Dateo)",
       "url": "https://open.spotify.com/track/6Rg0AJvt1xa4hR2QH2fUhb"
+    },
+    {
+      "added_at": "2021-09-26 18:38:53",
+      "album": {
+        "name": "La Donna Cannone",
+        "url": "https://open.spotify.com/album/7COQBoeP7bBHykCpFbdpR2"
+      },
+      "artists": [
+        {
+          "name": "Francesco De Gregori",
+          "url": "https://open.spotify.com/artist/16FJYC4FqKhZXiXIzMI4ul"
+        }
+      ],
+      "duration_ms": 279706,
+      "name": "La donna cannone",
+      "url": "https://open.spotify.com/track/2T2t1DXwzdilKF3BQPHREo"
     },
     {
       "added_at": "2021-09-26 18:38:53",

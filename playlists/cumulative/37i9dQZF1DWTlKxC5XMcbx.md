@@ -4,7 +4,7 @@
 
 > 即興而自在、優雅而舒緩，這形容是不是像個好夢的感覺呢？就讓美妙的爵士樂助你入眠吧！
 
-75 songs - 6 hr 31 min - [published](https://open.spotify.com/playlist/415nMvkWwgs6uKU2U7VJG3)
+76 songs - 6 hr 34 min - [published](https://open.spotify.com/playlist/415nMvkWwgs6uKU2U7VJG3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Good Morning Heartache](https://open.spotify.com/track/14aFuIi1l2arBrZfBv9fBP) | [Scott Hamilton](https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr) | [Remembering Billie](https://open.spotify.com/album/2gnDlzECePgE9e07pihbYd) | 5:22 | 2022-09-12 |  |
 | [Good Morning.Goodbye](https://open.spotify.com/track/1PMlAs24OBYlwXF7OeiVYg) | [Dan Cray Trio](https://open.spotify.com/artist/5OrAzdkis91EndJhMLu42l) | [Save US](https://open.spotify.com/album/1FwITvBoG0Fq2FLNFLq9Ze) | 5:36 | 2022-09-12 |  |
 | [Goodbye Pork Pie Hat](https://open.spotify.com/track/3PJMsxg6rz9FOo6xNiASXz) | [Charles Mingus](https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H) | [Mingus Ah Um](https://open.spotify.com/album/7pojWP7x9uEFSJgw765khA) | 5:42 | 2022-09-12 |  |
+| [Greensleeves](https://open.spotify.com/track/4gC95tJcg0TWAz3LJ2dZpN) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0) | [Soul](https://open.spotify.com/album/13sH8kz1Fjh0jvekB0thjt) | 3:14 | 2022-09-19 |  |
 | [I Can't Get Started](https://open.spotify.com/track/0kC4Rrdb4B4hAgt3PMoARe) | [Lester Young](https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm), [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [The President Plays With The Oscar Peterson Trio](https://open.spotify.com/album/7JkisS9bjzaQCgJ9btGjfq) | 3:37 | 2022-09-12 |  |
 | [I Got It Bad And That Ain't Good](https://open.spotify.com/track/4ol2UyMTiklHVujAWg02nE) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Night Train \(Expanded Edition\)](https://open.spotify.com/album/3gPOWmWT0q7Ygp95Xiuw1v) | 5:06 | 2022-09-12 |  |
 | [I Guess I'll Hang My Tears Out To Dry \- Rudy Van Gelder Edition/Remastered 1999](https://open.spotify.com/track/58ylMBq2yqYdHyevarkNWa) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Go! \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/5nEJj9bjoarnzlS88NiWet) | 5:22 | 2022-09-12 |  |
@@ -69,7 +70,7 @@
 | [Ruby, My Dear](https://open.spotify.com/track/1BMirA3vwj2NLamWkJsVYq) | [Thelonious Monk](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Thelonious Monk with John Coltrane \(OJC Remaster\)](https://open.spotify.com/album/5WqkiRiXHyiML0QkLjqooy) | 6:21 | 2022-09-12 |  |
 | [Skating In Central Park](https://open.spotify.com/track/1cpANF6zMBoFoxkoIjZHjv) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF), [Jim Hall](https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr) | [Undercurrent](https://open.spotify.com/album/3b2s2A8DPISbaQNxhrEsGQ) | 5:24 | 2022-09-12 |  |
 | [Smile](https://open.spotify.com/track/7xLZGhRR2jTUtaPewAmacY) | [Alan Pasqua](https://open.spotify.com/artist/1QDou4hCker2eGblLzIq80) | [My New Old Friend](https://open.spotify.com/album/2jvq28Yfjk0Wal4cH5xUtr) | 5:33 | 2022-09-12 |  |
-| [So Lovely](https://open.spotify.com/track/0Ya7lMXJGmETT1G3bW0uX2) | [Ben Wolfe](https://open.spotify.com/artist/7A1xxtVfUahU8u7Z4kKFRC) | [From Here I See](https://open.spotify.com/album/2zmbP9vz9Bwx1SCHgkPzTc) | 5:40 | 2022-09-12 |  |
+| [So Lovely](https://open.spotify.com/track/0Ya7lMXJGmETT1G3bW0uX2) | [Ben Wolfe](https://open.spotify.com/artist/7A1xxtVfUahU8u7Z4kKFRC) | [From Here I See](https://open.spotify.com/album/2zmbP9vz9Bwx1SCHgkPzTc) | 5:40 | 2022-09-12 | 2022-09-23 |
 | [Stardust](https://open.spotify.com/track/6QqXTZUL8O3y46rgDEWnsm) | [Bobby Hutcherson](https://open.spotify.com/artist/3uO6HG2JwyP744sg4PMmg5) | [Candy](https://open.spotify.com/album/4OdGL0Uq7YZmrxsIYKUbrU) | 5:23 | 2022-09-12 |  |
 | [Stolen Moments](https://open.spotify.com/track/1sce5VJvCOYYDAR9rp9KdG) | [Oliver Nelson](https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN) | [The Blues And The Abstract Truth](https://open.spotify.com/album/6lxRA8Rl9a9XoZDCVWBzBY) | 8:45 | 2022-09-12 |  |
 | [Strange Meadow Lark](https://open.spotify.com/track/6HvyFdP5JrCQdmxq2qi7MC) | [The Dave Brubeck Quartet](https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7) | [Time Out](https://open.spotify.com/album/0nTTEAhCZsbbeplyDMIFuA) | 7:22 | 2022-09-12 |  |

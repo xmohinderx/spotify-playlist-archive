@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX843Qf4lrFtZ.md) - [plain]
 
 > that’s how it's supposed to be\. living young, wild and free!!!!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,759,906 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,759,971 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX843Qf4lrFtZ.md) - [plain]
 | 99 | [Higher Love](https://open.spotify.com/track/6oJ6le65B3SEqPwMRNXWjY) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Higher Love](https://open.spotify.com/album/4wquJImu8RtyEuDtIAsfcE) | 3:48 |
 | 100 | [Make You Say](https://open.spotify.com/track/1elhmWW7Bv0MOQj2gAsyoV) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT) | [Make You Say](https://open.spotify.com/album/650l6jxDJ5c8thTRY42QU2) | 3:26 |
 
-Snapshot ID: `MTY2MzI3OTI2MCwwMDAwMDAwMDQ3OWRiNDI3YTI4Nzg5MTY3NzUxM2Q1MjJmODIxNDc3`
+Snapshot ID: `MTY2Mzg4NDAwMCwwMDAwMDAwMDBkOTIyMGFhN2UwNjAzNjM4NDVmZjg4ZTI2YTNlOWQy`

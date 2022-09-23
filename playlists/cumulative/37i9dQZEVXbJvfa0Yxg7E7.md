@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Norway.
 
-770 songs - 1 day 16 hr 32 min - [published](https://open.spotify.com/playlist/3tVGcb57UPJLnfj2OSCurw)
+771 songs - 1 day 16 hr 35 min - [published](https://open.spotify.com/playlist/3tVGcb57UPJLnfj2OSCurw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -667,7 +667,7 @@
 | [Starlight](https://open.spotify.com/track/531KGXtBroSrOX9LVmiIgc) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Starlight](https://open.spotify.com/album/1WLS1NrOlbDIl760hVeeUi) | 3:31 | 2022-03-16 | 2022-04-11 |
 | [STAY \(with Justin Bieber\)](https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [STAY \(with Justin Bieber\)](https://open.spotify.com/album/4QLAtpLNUsHEYrcHXmMIZZ) | 2:21 | 2021-07-11 | 2021-07-25 |
 | [STAY \(with Justin Bieber\)](https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [F\*CK LOVE 3: OVER YOU](https://open.spotify.com/album/4bZJWQhHKJckFLJuYdvyX2) | 2:21 | 2021-07-25 | 2022-08-14 |
-| [STAY KEEG](https://open.spotify.com/track/25DxQM0bG7kbj2js8NCO9v) | [Beathoven](https://open.spotify.com/artist/6w6TB0XMM0VZ3oDsy7tUYJ), [Henrik von Grogg](https://open.spotify.com/artist/2z33akYL15RgrP5P51vhvx) | [STAY KEEG](https://open.spotify.com/album/7K68f2Mbt0BQGd7NB7SEDv) | 2:26 | 2022-04-27 |  |
+| [STAY KEEG](https://open.spotify.com/track/25DxQM0bG7kbj2js8NCO9v) | [Beathoven](https://open.spotify.com/artist/6w6TB0XMM0VZ3oDsy7tUYJ), [Henrik von Grogg](https://open.spotify.com/artist/2z33akYL15RgrP5P51vhvx) | [STAY KEEG](https://open.spotify.com/album/7K68f2Mbt0BQGd7NB7SEDv) | 2:26 | 2022-04-27 | 2022-09-23 |
 | [Stay With Me \(with Justin Timberlake, Halsey, & Pharrell\)](https://open.spotify.com/track/5lfWrciYtohtIMVDVZd0Rf) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Stay With Me \(with Justin Timberlake, Halsey, & Pharrell\)](https://open.spotify.com/album/62SWIKrov7HPXU0Jpc6LY1) | 3:49 | 2022-07-16 | 2022-07-19 |
 | [STAYING ALIVE \(feat\. Drake & Lil Baby\)](https://open.spotify.com/track/0g2Bbgy7P41pFjMWJuzsf4) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [STAYING ALIVE \(feat\. Drake & Lil Baby\)](https://open.spotify.com/album/0oEsQwXJhNbbb8VT0xOMok) | 2:58 | 2022-08-06 | 2022-08-20 |
 | [Stefania \(Kalush Orchestra\)](https://open.spotify.com/track/2vHzOWRKYPLu8umRPIFuOq) | [KALUSH](https://open.spotify.com/artist/46rVVJwHWNS7C7MaWXd842) | [Stefania \(Kalush Orchestra\)](https://open.spotify.com/album/4JPeuLHGm9g78QS2aRao3D) | 2:59 | 2022-05-15 | 2022-05-27 |
@@ -715,6 +715,7 @@
 | [Thriller](https://open.spotify.com/track/3S2R0EVwBSAVMd5UMgKTL0) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller 25 Super Deluxe Edition](https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a) | 5:57 | 2021-11-02 | 2021-11-03 |
 | [Thunder](https://open.spotify.com/track/2USlegnFJLrVLpoVfPimKB) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [Prezioso](https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr) | [Thunder](https://open.spotify.com/album/35Q09Y0b7ZxOoCdF7sBiGf) | 2:40 | 2021-07-18 | 2022-05-31 |
 | [Til Dovre Faller](https://open.spotify.com/track/3jpeo8JtADAgw5VViBifUN) | [Johanne Holmedahl](https://open.spotify.com/artist/2TubhB02PsCWrwzQQJLIbG) | [Til Dovre Faller](https://open.spotify.com/album/1bOnITzPd5ZcdxG1wcmfF9) | 3:41 | 2021-05-19 | 2022-05-27 |
+| [Til lillebror](https://open.spotify.com/track/2spp2skQYNYiNCak7DxOTN) | [Erika Norwich](https://open.spotify.com/artist/1FsZYh8RTfafSEVmoVxWeK) | [Til lillebror](https://open.spotify.com/album/4H0tlYhLBcVmpW82A1Nv2V) | 2:47 | 2022-09-22 |  |
 | [ting som ILU](https://open.spotify.com/track/5XBabaoZyfI0jhk0M5ze6I) | [Gabrielle](https://open.spotify.com/artist/4OovmAu23KrDlDQI2UbneL) | [ting som ILU](https://open.spotify.com/album/2fxfTt8FWwzXaCRnXA2tav) | 2:19 | 2021-09-12 | 2021-09-15 |
 | [tinnsoldater](https://open.spotify.com/track/0A44yfrrP231Uc47GDlwvC) | [vinni](https://open.spotify.com/artist/2rvUlmaAfN7eKSVAcaRj9t) | [tinnsoldater](https://open.spotify.com/album/6TY9daq0sCs60R9uRbKhc5) | 2:47 | 2022-04-23 | 2022-04-25 |
 | [Tipp Topp](https://open.spotify.com/track/6Xa36bTWPOC9ju4dQHguci) | [UNDERGRUNN](https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb) | [UNDERGRUNN](https://open.spotify.com/album/6bO8ArMi8JRmdXBSdb99PZ) | 2:51 | 2022-04-07 | 2022-04-10 |

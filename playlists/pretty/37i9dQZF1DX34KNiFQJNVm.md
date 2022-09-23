@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Mc Don Juan com Mc Davi e MC Ryan SP e mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,777,950 likes - 81 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,778,273 likes - 81 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new tracks every week\. Cover: Djo
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,238,958 likes - 175 songs - 10 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,239,215 likes - 175 songs - 10 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -163,7 +163,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 153 | [Old Soul Song \(for the New World Order\) \- Companion Version](https://open.spotify.com/track/2kNkxQmuMIF7jfiqranAZM) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [Old Soul Song \(for the New World Order\) \[Companion Version\]](https://open.spotify.com/album/0LL8qaoVCLkPlrCoKzVGLK) | 4:38 |
 | 154 | [Saturdays](https://open.spotify.com/track/6ZHPwqdzTslbKAYOsWnHCQ) | [Broken Bells](https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG) | [Saturdays](https://open.spotify.com/album/26yeOGjAAvWuonpIdyDBcO) | 3:07 |
 | 155 | [on air](https://open.spotify.com/track/2x6nALrYw5RU5EZZppj4Kj) | [always centered at night](https://open.spotify.com/artist/2g7F60LTm23xTIRugl1Ovw), [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF), [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [on air](https://open.spotify.com/album/3o3WxRyujYTqTpvqPOvRDm) | 4:12 |
-| 156 | [Foxglove Through The Clearcut](https://open.spotify.com/track/6gCQmZNLNwStQuVBpVdJnx) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Foxglove Through The Clearcut](https://open.spotify.com/album/4AATTNKThdy3YYYUrjKknV) | 5:15 |
+| 156 | [Foxglove Through The Clearcut](https://open.spotify.com/track/23od4rorIdhvYeLL7YqP9n) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Asphalt Meadows](https://open.spotify.com/album/2PIWPTOIxbaVSjTnc30vXS) | 5:15 |
 | 157 | [pretty kids](https://open.spotify.com/track/7cuevmvfk9blOhmv5efjVU) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [pretty kids](https://open.spotify.com/album/141uEcxDeKXBqPw8X14kee) | 2:39 |
 | 158 | [Lost Honor](https://open.spotify.com/track/41BwZHot0x72eob0eQGmcO) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Lost Honor](https://open.spotify.com/album/2Td5VgNSobqfiT8OpIhisP) | 3:59 |
 | 159 | [Frisco](https://open.spotify.com/track/1cU4jWWFTAiclPWyD3X2KP) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Frisco](https://open.spotify.com/album/2ZW8wrrHv95qMif7MaGWb4) | 3:42 |
@@ -184,4 +184,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 174 | [Love Letter From The Sea to The Shore](https://open.spotify.com/track/2uPFYzZXZSgIP6AHKneCLT) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [Love Letter From The Sea to The Shore](https://open.spotify.com/album/5OTyzmAOlaJviW3PhFsxz0) | 3:11 |
 | 175 | [All Day I Dream About](https://open.spotify.com/track/5o9CWfDLfSLJ22BtUSMLBt) | [joe p](https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x) | [All Day I Dream About](https://open.spotify.com/album/17iyscgYIEAq4ldviegpNn) | 3:21 |
 
-Snapshot ID: `MTY2MzM1NzMwNCwwMDAwMDAwMGUxODIwNGJjZjM1ZDM2ODY1MGE1OTRmYmViZmQ0ZGY4`
+Snapshot ID: `MTY2MzM1NzMwNCwwMDAwMDAwMDdhYWIxNmQzOGVlNzcxNjYzM2U3OTZmMzUzMDMwNDY2`

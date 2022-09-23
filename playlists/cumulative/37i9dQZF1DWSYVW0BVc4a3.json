@@ -147,7 +147,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 470243,
       "name": "Alkebulan - David Mayer Remix",
       "url": "https://open.spotify.com/track/4Bl14xQWo7Q6jagOcPZ5mI"
@@ -1012,6 +1012,24 @@
     },
     {
       "album": {
+        "name": "Ready To Roll",
+        "url": "https://open.spotify.com/album/1WMfD1ahZbc4vXyUZ8s8VM"
+      },
+      "artists": [
+        {
+          "name": "Dennis Cruz",
+          "url": "https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360352,
+      "name": "Fire On",
+      "url": "https://open.spotify.com/track/1GeUXhDyhxHSFUWCB3Z6Po"
+    },
+    {
+      "album": {
         "name": "Florianopolis",
         "url": "https://open.spotify.com/album/4RJ3PkqGmetEBDM5At7cpj"
       },
@@ -1315,10 +1333,28 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 238032,
       "name": "Honestly",
       "url": "https://open.spotify.com/track/3vDDjEp1Lz1bMEk8aTjsnh"
+    },
+    {
+      "album": {
+        "name": "Hours and Hours",
+        "url": "https://open.spotify.com/album/4doUhaVPZ5BbnemJ5Pp4Df"
+      },
+      "artists": [
+        {
+          "name": "Bhaskar",
+          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245901,
+      "name": "Hours and Hours",
+      "url": "https://open.spotify.com/track/1aMvOZXicxEV0dzlYveyKG"
     },
     {
       "album": {
@@ -1469,7 +1505,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 308825,
       "name": "In Mindibu",
       "url": "https://open.spotify.com/track/7G82RELqYiB0EZ8F61Ht8T"
@@ -1589,6 +1625,24 @@
       "duration_ms": 315026,
       "name": "Kami",
       "url": "https://open.spotify.com/track/5ak3bl5dEdCV0fggWAot4C"
+    },
+    {
+      "album": {
+        "name": "KILL DEM",
+        "url": "https://open.spotify.com/album/71iqkeqFNSiCgum1gPfeZo"
+      },
+      "artists": [
+        {
+          "name": "Jamie xx",
+          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223536,
+      "name": "KILL DEM",
+      "url": "https://open.spotify.com/track/5CE0k1VmTXgCtaa5L288LP"
     },
     {
       "album": {
@@ -2131,7 +2185,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 384528,
       "name": "Out of Focus (feat. Zoot Woman) - \u00c2me Remix",
       "url": "https://open.spotify.com/track/3jc7WSwiPPAjdokdwVflJk"
@@ -2193,10 +2247,36 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 305014,
       "name": "Pax",
       "url": "https://open.spotify.com/track/00DrCz52C36qaTPItWpCNK"
+    },
+    {
+      "album": {
+        "name": "Steamin EP",
+        "url": "https://open.spotify.com/album/0JnuWdbsS3j4NZByEybO2R"
+      },
+      "artists": [
+        {
+          "name": "Chlo\u00e9 Robinson",
+          "url": "https://open.spotify.com/artist/0Qpm94Bbsi44jMAXg0cI66"
+        },
+        {
+          "name": "DJ ADHD",
+          "url": "https://open.spotify.com/artist/7hOtK8fa4BkYO3CvLMpZCo"
+        },
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320000,
+      "name": "Pax - Four Tet Remix",
+      "url": "https://open.spotify.com/track/3Pl95ENb22SyQA0ATuV7M3"
     },
     {
       "album": {
@@ -2309,6 +2389,28 @@
       "duration_ms": 378425,
       "name": "Sahara",
       "url": "https://open.spotify.com/track/7q3e8G09hBubfDjD1B5A9a"
+    },
+    {
+      "album": {
+        "name": "Saviours",
+        "url": "https://open.spotify.com/album/1plr1caOwmIHriazUNB9S4"
+      },
+      "artists": [
+        {
+          "name": "Victor Lou",
+          "url": "https://open.spotify.com/artist/063wYkWkHrq5L5YWdrqjEt"
+        },
+        {
+          "name": "lalalaura",
+          "url": "https://open.spotify.com/artist/0xzFVGq4LIQxHwcTkUZACD"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216377,
+      "name": "Saviours",
+      "url": "https://open.spotify.com/track/5tAlsl4G3LoIU5Dzo44JV0"
     },
     {
       "album": {
@@ -2481,6 +2583,24 @@
       "duration_ms": 181873,
       "name": "Sonder",
       "url": "https://open.spotify.com/track/2wynpXzuXf6Cvf2MqHYA9Z"
+    },
+    {
+      "album": {
+        "name": "Song To The Siren",
+        "url": "https://open.spotify.com/album/5n09GoRSdwB8kufMEKjRG7"
+      },
+      "artists": [
+        {
+          "name": "HOSH",
+          "url": "https://open.spotify.com/artist/3qoTlYFOahAlAh9ee3qnbs"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206106,
+      "name": "Song To The Siren",
+      "url": "https://open.spotify.com/track/1vCGRYkBhITUKcdy1iM44h"
     },
     {
       "album": {
@@ -2663,7 +2783,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 219375,
       "name": "Tell You What It Is - Shermanology SoulTec Mix",
       "url": "https://open.spotify.com/track/0hb2n69F0yHdBfvMOuRs13"
@@ -3007,7 +3127,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-19",
+      "date_removed": null,
       "duration_ms": 229523,
       "name": "What U Doing",
       "url": "https://open.spotify.com/track/6jn47IP90tvtvb7ddhOnS1"
@@ -3069,7 +3189,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 246474,
       "name": "YAP",
       "url": "https://open.spotify.com/track/13HJKOxoj5k0XsBOAEdqAt"

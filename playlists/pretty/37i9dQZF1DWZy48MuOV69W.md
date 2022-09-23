@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy48MuOV69W.md) - [plain]
 
 > Cozy and jazzy interpretations of all your favourite Christmas songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,369 likes - 55 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,370 likes - 55 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

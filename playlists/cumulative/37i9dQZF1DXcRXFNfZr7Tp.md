@@ -4,7 +4,7 @@
 
 > Current favorites and exciting new music\. Cover: Lewis capaldi
 
-651 songs - 1 day 9 hr 58 min - [published](https://open.spotify.com/playlist/3WiuwmFbePnraYS0qJlHtM)
+652 songs - 1 day 10 hr 1 min - [published](https://open.spotify.com/playlist/3WiuwmFbePnraYS0qJlHtM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -602,6 +602,7 @@
 | [u love u \(with Tate McRae\)](https://open.spotify.com/track/1xBQDoxqFyloelbnfju8na) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [u love u \(with Tate McRae\)](https://open.spotify.com/album/5Bh6CHXpl4slkIihdDKIcn) | 3:09 | 2021-06-05 | 2021-09-22 |
 | [Una Nota](https://open.spotify.com/track/7iqOIHHEmu6Vhw25GgQ2eA) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [JOSE](https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP) | 2:50 | 2021-09-11 | 2021-11-20 |
 | [Undeniable \(feat\. X Ambassadors\)](https://open.spotify.com/track/71qB68guEJjbvtjlkZ8DF5) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Undeniable \(feat\. X Ambassadors\)](https://open.spotify.com/album/3SgXZqSc8UfHsbrseyYscm) | 3:00 | 2021-10-16 | 2022-01-08 |
+| [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi) | 2:36 | 2022-09-22 |  |
 | [UP](https://open.spotify.com/track/2ykXJ9QVwx9Li8nsW0h6b2) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [UP](https://open.spotify.com/album/2jA1exLaHCcpHtDrGLKTmy) | 2:28 | 2022-01-14 |  |
 | [up at night \(feat\. justin bieber\)](https://open.spotify.com/track/4WghJOMjDpGdlk3b8aJIgy) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [up at night \(feat\. justin bieber\)](https://open.spotify.com/album/3vnJxSrVldmInhRwtcUG89) | 3:02 | 2022-04-06 | 2022-05-12 |
 | [Use Your Love \(feat\. Goldford\)](https://open.spotify.com/track/5W05N4aETUauCVzddI8L66) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [The Him](https://open.spotify.com/artist/5WdqBAQhGFCrZvBKXiPIu7), [GoldFord](https://open.spotify.com/artist/4I2QW85rkIhCRRZt1kuBqS) | [Use Your Love \(feat\. Goldford\)](https://open.spotify.com/album/3uvtlLCF4HKbxG8jxxqfYr) | 2:54 | 2020-10-13\* | 2020-11-20 |

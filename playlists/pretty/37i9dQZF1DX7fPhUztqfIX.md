@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 
 > Emerging sounds in worship from everywhere.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,966 likes - 130 songs - 11 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,995 likes - 130 songs - 11 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,8 +111,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 | 101 | [King Jesus \- Live](https://open.spotify.com/track/7GojPuqt6CGdOhPvduuNJd) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [King Jesus](https://open.spotify.com/album/3nAiFMSj2879iSgUfeSoMb) | 6:54 |
 | 102 | [Edge of Heaven](https://open.spotify.com/track/1yCXi0IcWoURNKCqGTubQ6) | [Battledrums](https://open.spotify.com/artist/57a1IPwm1Fgo9aQSLeVyBJ) | [Breakthrough](https://open.spotify.com/album/4CqjRUsp9hg8dNAuTWbbbl) | 5:41 |
 | 103 | [No One \(feat\. Setnick Sene\)](https://open.spotify.com/track/3eVFaPhYojbmuqU3XiwjOl) | [Cross Point Music](https://open.spotify.com/artist/7J5NYM9bwpfxk3hiwQH27P), [Setnick Sene](https://open.spotify.com/artist/1GWPXgfWARCEHj1unNonAE) | [Never Going Back](https://open.spotify.com/album/4XuXyNQX9VnoxPMjQ0kk6H) | 4:17 |
-| 104 | [I Stand Amazed](https://open.spotify.com/track/6ECT93JyKbfidOzEbsuhpX) | [Reach City Worship](https://open.spotify.com/artist/7uDyMJ0rQsDhzYV4qohIX5) | [I Stand Amazed](https://open.spotify.com/album/4hJHExE1dJPgBCFMSeRTv4) | 4:28 |
-| 105 | [God of the Breakthrough](https://open.spotify.com/track/0dSvYWwe7UjkYJwuBBfHOq) | [Crossroads Music](https://open.spotify.com/artist/5vil8APJ8ohuFhg8mxEOWY) | [God of the Breakthrough](https://open.spotify.com/album/0h2DEw5z4tM95DMLudOIQ0) | 4:22 |
+| 104 | [God of the Breakthrough](https://open.spotify.com/track/0dSvYWwe7UjkYJwuBBfHOq) | [Crossroads Music](https://open.spotify.com/artist/5vil8APJ8ohuFhg8mxEOWY) | [God of the Breakthrough](https://open.spotify.com/album/0h2DEw5z4tM95DMLudOIQ0) | 4:22 |
+| 105 | [I Stand Amazed](https://open.spotify.com/track/6ECT93JyKbfidOzEbsuhpX) | [Reach City Worship](https://open.spotify.com/artist/7uDyMJ0rQsDhzYV4qohIX5) | [I Stand Amazed](https://open.spotify.com/album/4hJHExE1dJPgBCFMSeRTv4) | 4:28 |
 | 106 | [When It Comes to You](https://open.spotify.com/track/7juggaI6hvrlRJq7K0mAUH) | [RNW Music](https://open.spotify.com/artist/4LfdYq6VdNIwj6Cs5x9EKi) | [When It Comes to You](https://open.spotify.com/album/7iEMna8XHGFwwiR17SqtkV) | 6:47 |
 | 107 | [Just As I Am \(Nothing to Prove\)](https://open.spotify.com/track/070P8Q3dqNHak5FxNiMP4x) | [Taylor Tripodi](https://open.spotify.com/artist/4c0Gzsz4JC8OHMN9y5Fw9s) | [Just As I Am \(Nothing to Prove\)](https://open.spotify.com/album/0u1NOPtFwXeaedBEGjvkSG) | 5:16 |
 | 108 | [You Are Fullness](https://open.spotify.com/track/5iXbWHfGqdP4M2M1QmT73u) | [Young Oceans](https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr) | [You Are Fullness](https://open.spotify.com/album/6eEbe6FfkDdyVfSQzo0lqo) | 5:20 |
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 | 129 | [As For Me & My House \- Live](https://open.spotify.com/track/3lE1SQufZYWiTeHjjaOavK) | [Austin & Lindsey Adamec](https://open.spotify.com/artist/4oLDDlPUpiKowrWoJLS94r) | [As For Me & My House \(Live\)](https://open.spotify.com/album/7CjoBA22aQrRU51iirDwCJ) | 5:21 |
 | 130 | [All I Need](https://open.spotify.com/track/0XAaI5oaiMZTYYxl9wPcZc) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [All I Need](https://open.spotify.com/album/0egI1RHqW3k0XFfgbiCdVl) | 4:45 |
 
-Snapshot ID: `MTYyMzQ3MDQ0MCwwMDAwMDAwMDc4ZDUyNjhhNDlmYWM0YjUwYjBmMDAwOGUyMjZlYmMy`
+Snapshot ID: `MTYyMzQ3MDQ0MCwwMDAwMDAwMDcxODQzYzVjYjYyMTVhNWIzMTA2YzYyMDAwMzY5OWIz`

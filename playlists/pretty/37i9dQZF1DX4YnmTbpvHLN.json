@@ -1,12 +1,12 @@
 {
   "description": "Degusta de lo m\u00e1s delicioso para cenar.",
-  "num_followers": 246853,
+  "num_followers": 246851,
   "original_name": "Cena con Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzc0ODMxOCwwMDAwMDAwMDkwMDhlOGQyOGRkMDk2ZWYxYTNmNWY1YTYxNWJiNTM4",
+  "snapshot_id": "MTY2Mzc0ODMxOCwwMDAwMDAwMDVlMjMwYjNjOWJkNzU2MTQxYjVlNGY4M2MzMWJiYTVj",
   "tracks": [
     {
       "added_at": "2022-09-21 08:18:38",
@@ -431,22 +431,6 @@
     {
       "added_at": "2022-09-21 08:18:38",
       "album": {
-        "name": "At Last",
-        "url": "https://open.spotify.com/album/1bT8dnaMTDCT8ZUvasMUVn"
-      },
-      "artists": [
-        {
-          "name": "High North Trio",
-          "url": "https://open.spotify.com/artist/4ecpTLtCqe62hwHasUcfUY"
-        }
-      ],
-      "duration_ms": 293277,
-      "name": "At Last",
-      "url": "https://open.spotify.com/track/4SsODjeSzr1gfceOJ6utNi"
-    },
-    {
-      "added_at": "2022-09-21 08:18:38",
-      "album": {
         "name": "Akaishi",
         "url": "https://open.spotify.com/album/4wTd18kaoayJm6JDQmiS1e"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 230192,
       "name": "Akaishi",
       "url": "https://open.spotify.com/track/5npOIRaqGTVT5Ur8cf4i4K"
+    },
+    {
+      "added_at": "2022-09-21 08:18:38",
+      "album": {
+        "name": "At Last",
+        "url": "https://open.spotify.com/album/1bT8dnaMTDCT8ZUvasMUVn"
+      },
+      "artists": [
+        {
+          "name": "High North Trio",
+          "url": "https://open.spotify.com/artist/4ecpTLtCqe62hwHasUcfUY"
+        }
+      ],
+      "duration_ms": 293277,
+      "name": "At Last",
+      "url": "https://open.spotify.com/track/4SsODjeSzr1gfceOJ6utNi"
     },
     {
       "added_at": "2022-09-21 08:18:38",
@@ -767,22 +767,6 @@
     {
       "added_at": "2022-09-21 08:18:38",
       "album": {
-        "name": "This Is What I Want for Christmas",
-        "url": "https://open.spotify.com/album/6auL7NTcuJr1TVvUcxizeV"
-      },
-      "artists": [
-        {
-          "name": "Martin Landstr\u00f6m",
-          "url": "https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN"
-        }
-      ],
-      "duration_ms": 301500,
-      "name": "Clear as Autumn Nights",
-      "url": "https://open.spotify.com/track/2PVMfghJc3ayLHjGbGjg3J"
-    },
-    {
-      "added_at": "2022-09-21 08:18:38",
-      "album": {
         "name": "In Another Universe",
         "url": "https://open.spotify.com/album/20gDATBmLKwoNueDSsC7rR"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 176729,
       "name": "In Another Universe",
       "url": "https://open.spotify.com/track/04OlOJOsWy6RUWgyhixoqk"
+    },
+    {
+      "added_at": "2022-09-21 08:18:38",
+      "album": {
+        "name": "This Is What I Want for Christmas",
+        "url": "https://open.spotify.com/album/6auL7NTcuJr1TVvUcxizeV"
+      },
+      "artists": [
+        {
+          "name": "Martin Landstr\u00f6m",
+          "url": "https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN"
+        }
+      ],
+      "duration_ms": 301500,
+      "name": "Clear as Autumn Nights",
+      "url": "https://open.spotify.com/track/2PVMfghJc3ayLHjGbGjg3J"
     },
     {
       "added_at": "2022-09-21 08:18:38",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2022-09-21 08:18:38",
       "album": {
-        "name": "Candlelight",
-        "url": "https://open.spotify.com/album/2RNDKOebbSeGEsjNFt1279"
-      },
-      "artists": [
-        {
-          "name": "Trio Del Norte",
-          "url": "https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO"
-        }
-      ],
-      "duration_ms": 342520,
-      "name": "Candlelight",
-      "url": "https://open.spotify.com/track/0FAYzBH8vYttTJpZOynse1"
-    },
-    {
-      "added_at": "2022-09-21 08:18:38",
-      "album": {
         "name": "Hector's Plan",
         "url": "https://open.spotify.com/album/1E1vK9IaJTTMEYSgAKq7SF"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 144375,
       "name": "Hector's Plan",
       "url": "https://open.spotify.com/track/5eWLDX4KoC24EYgrZl8Rta"
+    },
+    {
+      "added_at": "2022-09-21 08:18:38",
+      "album": {
+        "name": "Candlelight",
+        "url": "https://open.spotify.com/album/2RNDKOebbSeGEsjNFt1279"
+      },
+      "artists": [
+        {
+          "name": "Trio Del Norte",
+          "url": "https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO"
+        }
+      ],
+      "duration_ms": 342520,
+      "name": "Candlelight",
+      "url": "https://open.spotify.com/track/0FAYzBH8vYttTJpZOynse1"
     },
     {
       "added_at": "2022-09-21 08:18:38",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2022-09-21 08:18:38",
       "album": {
-        "name": "Steps Ahead",
-        "url": "https://open.spotify.com/album/2pVrdxaWpxPeFLtAz3EYIh"
-      },
-      "artists": [
-        {
-          "name": "Joyce Trio",
-          "url": "https://open.spotify.com/artist/75pnTZQozf5CtkbWxmUtCf"
-        }
-      ],
-      "duration_ms": 202051,
-      "name": "Steps Ahead",
-      "url": "https://open.spotify.com/track/3PglbYgSF2NiYDRMiONnio"
-    },
-    {
-      "added_at": "2022-09-21 08:18:38",
-      "album": {
         "name": "All To Soon",
         "url": "https://open.spotify.com/album/4rYzfpEKqXD0aX3ZeVUvHi"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 253641,
       "name": "All To Soon",
       "url": "https://open.spotify.com/track/6IhdygzBXr39qlNR0rLOE6"
+    },
+    {
+      "added_at": "2022-09-21 08:18:38",
+      "album": {
+        "name": "Steps Ahead",
+        "url": "https://open.spotify.com/album/2pVrdxaWpxPeFLtAz3EYIh"
+      },
+      "artists": [
+        {
+          "name": "Joyce Trio",
+          "url": "https://open.spotify.com/artist/75pnTZQozf5CtkbWxmUtCf"
+        }
+      ],
+      "duration_ms": 202051,
+      "name": "Steps Ahead",
+      "url": "https://open.spotify.com/track/3PglbYgSF2NiYDRMiONnio"
     },
     {
       "added_at": "2022-09-21 08:18:38",
@@ -1359,18 +1359,18 @@
     {
       "added_at": "2022-09-21 08:18:38",
       "album": {
-        "name": "Amnesia",
-        "url": "https://open.spotify.com/album/5nJI9LH0cyPEMVqxfc1m07"
+        "name": "Maybe We'll Meet Again",
+        "url": "https://open.spotify.com/album/5jlgTkBJTWhoO3BdPsThlW"
       },
       "artists": [
         {
-          "name": "Andreas Gidlund",
-          "url": "https://open.spotify.com/artist/1i1prvKQoU8d7eTrRHIMtO"
+          "name": "Kuipers & Winter",
+          "url": "https://open.spotify.com/artist/1afLjwMvnNhyy6JpewWpeK"
         }
       ],
-      "duration_ms": 287000,
-      "name": "Amnesia",
-      "url": "https://open.spotify.com/track/1louoVYSYYP4FwOBz2KlxR"
+      "duration_ms": 217798,
+      "name": "Maybe We'll Meet Again",
+      "url": "https://open.spotify.com/track/2ghcpXt1t7oQfHcF5hUBP2"
     },
     {
       "added_at": "2022-09-21 08:18:38",
@@ -1391,18 +1391,18 @@
     {
       "added_at": "2022-09-21 08:18:38",
       "album": {
-        "name": "Maybe We'll Meet Again",
-        "url": "https://open.spotify.com/album/5jlgTkBJTWhoO3BdPsThlW"
+        "name": "Amnesia",
+        "url": "https://open.spotify.com/album/5nJI9LH0cyPEMVqxfc1m07"
       },
       "artists": [
         {
-          "name": "Kuipers & Winter",
-          "url": "https://open.spotify.com/artist/1afLjwMvnNhyy6JpewWpeK"
+          "name": "Andreas Gidlund",
+          "url": "https://open.spotify.com/artist/1i1prvKQoU8d7eTrRHIMtO"
         }
       ],
-      "duration_ms": 217798,
-      "name": "Maybe We'll Meet Again",
-      "url": "https://open.spotify.com/track/2ghcpXt1t7oQfHcF5hUBP2"
+      "duration_ms": 287000,
+      "name": "Amnesia",
+      "url": "https://open.spotify.com/track/1louoVYSYYP4FwOBz2KlxR"
     },
     {
       "added_at": "2022-09-21 08:18:38",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2022-09-21 08:18:38",
       "album": {
-        "name": "Before You Leave",
-        "url": "https://open.spotify.com/album/009Rfs9urNO7gmuxYWkrWf"
-      },
-      "artists": [
-        {
-          "name": "Geeder",
-          "url": "https://open.spotify.com/artist/65SoHM1qvoOmpiIBxWGAk1"
-        }
-      ],
-      "duration_ms": 239913,
-      "name": "When Sunny Gets Blue",
-      "url": "https://open.spotify.com/track/4BD8y4GDB03dHeFnAMEtlz"
-    },
-    {
-      "added_at": "2022-09-21 08:18:38",
-      "album": {
         "name": "Body & Soul",
         "url": "https://open.spotify.com/album/6u7K7LsdKXQlMiObSN8JT2"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 284100,
       "name": "Body & Soul",
       "url": "https://open.spotify.com/track/4zvVf1nFhfoJi7m9z2fcHf"
+    },
+    {
+      "added_at": "2022-09-21 08:18:38",
+      "album": {
+        "name": "Before You Leave",
+        "url": "https://open.spotify.com/album/009Rfs9urNO7gmuxYWkrWf"
+      },
+      "artists": [
+        {
+          "name": "Geeder",
+          "url": "https://open.spotify.com/artist/65SoHM1qvoOmpiIBxWGAk1"
+        }
+      ],
+      "duration_ms": 239913,
+      "name": "When Sunny Gets Blue",
+      "url": "https://open.spotify.com/track/4BD8y4GDB03dHeFnAMEtlz"
     },
     {
       "added_at": "2022-09-21 08:18:38",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2022-09-21 08:18:38",
       "album": {
-        "name": "It\u00b4s Easy To Remember",
-        "url": "https://open.spotify.com/album/2mQbfegP0VRuYuBP5sKihX"
-      },
-      "artists": [
-        {
-          "name": "Geeder",
-          "url": "https://open.spotify.com/artist/65SoHM1qvoOmpiIBxWGAk1"
-        }
-      ],
-      "duration_ms": 212878,
-      "name": "It\u00b4s Easy To Remember",
-      "url": "https://open.spotify.com/track/5PExCVG0iW5oiWpzHZjxMq"
-    },
-    {
-      "added_at": "2022-09-21 08:18:38",
-      "album": {
         "name": "Easy Living",
         "url": "https://open.spotify.com/album/063dLcnFERUaDqum86A5eF"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 154717,
       "name": "Embracable You",
       "url": "https://open.spotify.com/track/2vc6aQG10jrwwi2VGXXcfl"
+    },
+    {
+      "added_at": "2022-09-21 08:18:38",
+      "album": {
+        "name": "It\u00b4s Easy To Remember",
+        "url": "https://open.spotify.com/album/2mQbfegP0VRuYuBP5sKihX"
+      },
+      "artists": [
+        {
+          "name": "Geeder",
+          "url": "https://open.spotify.com/artist/65SoHM1qvoOmpiIBxWGAk1"
+        }
+      ],
+      "duration_ms": 212878,
+      "name": "It\u00b4s Easy To Remember",
+      "url": "https://open.spotify.com/track/5PExCVG0iW5oiWpzHZjxMq"
     },
     {
       "added_at": "2022-09-21 08:18:38",
@@ -2039,18 +2039,18 @@
     {
       "added_at": "2022-09-21 08:18:38",
       "album": {
-        "name": "Ev'rytime We Say Goodbye",
-        "url": "https://open.spotify.com/album/1Up43SfdvFghh3BAE1yBgG"
+        "name": "It's Your Smile",
+        "url": "https://open.spotify.com/album/2BQpZP1DmHdtJGtVaOG4LL"
       },
       "artists": [
         {
-          "name": "Charlie Wilder Band",
-          "url": "https://open.spotify.com/artist/6UYNORrztDMx6aNjhzwJTV"
+          "name": "Wendy Marcini",
+          "url": "https://open.spotify.com/artist/4CaTfk4pRkpA8A9gXamYg2"
         }
       ],
-      "duration_ms": 255731,
-      "name": "Ev'rytime We Say Goodbye",
-      "url": "https://open.spotify.com/track/6gbFiQFCNFB3py3W7TtpbP"
+      "duration_ms": 175971,
+      "name": "It's Your Smile",
+      "url": "https://open.spotify.com/track/0WnGSR1VwZxJE9M37zjBQ3"
     },
     {
       "added_at": "2022-09-21 08:18:38",
@@ -2071,18 +2071,18 @@
     {
       "added_at": "2022-09-21 08:18:38",
       "album": {
-        "name": "It's Your Smile",
-        "url": "https://open.spotify.com/album/2BQpZP1DmHdtJGtVaOG4LL"
+        "name": "Ev'rytime We Say Goodbye",
+        "url": "https://open.spotify.com/album/1Up43SfdvFghh3BAE1yBgG"
       },
       "artists": [
         {
-          "name": "Wendy Marcini",
-          "url": "https://open.spotify.com/artist/4CaTfk4pRkpA8A9gXamYg2"
+          "name": "Charlie Wilder Band",
+          "url": "https://open.spotify.com/artist/6UYNORrztDMx6aNjhzwJTV"
         }
       ],
-      "duration_ms": 175971,
-      "name": "It's Your Smile",
-      "url": "https://open.spotify.com/track/0WnGSR1VwZxJE9M37zjBQ3"
+      "duration_ms": 255731,
+      "name": "Ev'rytime We Say Goodbye",
+      "url": "https://open.spotify.com/track/6gbFiQFCNFB3py3W7TtpbP"
     },
     {
       "added_at": "2022-09-21 08:18:38",
@@ -2167,22 +2167,6 @@
     {
       "added_at": "2022-09-21 08:18:38",
       "album": {
-        "name": "Lower East Side",
-        "url": "https://open.spotify.com/album/7JBbttbLCeStXO31U0hkE4"
-      },
-      "artists": [
-        {
-          "name": "Duponte et Duponte",
-          "url": "https://open.spotify.com/artist/2deWXMlH853VExXZNmSe5o"
-        }
-      ],
-      "duration_ms": 232343,
-      "name": "Lower East Side",
-      "url": "https://open.spotify.com/track/2B4zWGcQq19hdbRLTHWInd"
-    },
-    {
-      "added_at": "2022-09-21 08:18:38",
-      "album": {
         "name": "One Flight Up (Remastered 2015)",
         "url": "https://open.spotify.com/album/6VwDnT2q9r7HbxNsyGr0r8"
       },
@@ -2195,6 +2179,22 @@
       "duration_ms": 451407,
       "name": "Darn That Dream - Remastered 2015",
       "url": "https://open.spotify.com/track/1Owq03yMItfgZMpt9CSe80"
+    },
+    {
+      "added_at": "2022-09-21 08:18:38",
+      "album": {
+        "name": "Lower East Side",
+        "url": "https://open.spotify.com/album/7JBbttbLCeStXO31U0hkE4"
+      },
+      "artists": [
+        {
+          "name": "Duponte et Duponte",
+          "url": "https://open.spotify.com/artist/2deWXMlH853VExXZNmSe5o"
+        }
+      ],
+      "duration_ms": 232343,
+      "name": "Lower East Side",
+      "url": "https://open.spotify.com/track/2B4zWGcQq19hdbRLTHWInd"
     },
     {
       "added_at": "2022-09-21 08:18:38",
@@ -2231,22 +2231,6 @@
     {
       "added_at": "2022-09-21 08:18:38",
       "album": {
-        "name": "You Confuse Me",
-        "url": "https://open.spotify.com/album/4lXqZHzOGouVzTh2J2FFip"
-      },
-      "artists": [
-        {
-          "name": "Jeff Laine & Co",
-          "url": "https://open.spotify.com/artist/4i2Ps9G6SHd16reEGA5xva"
-        }
-      ],
-      "duration_ms": 191526,
-      "name": "You Confuse Me",
-      "url": "https://open.spotify.com/track/46WT4GuSWziUJIDtjUJHQr"
-    },
-    {
-      "added_at": "2022-09-21 08:18:38",
-      "album": {
         "name": "Someone To Watch Over Me",
         "url": "https://open.spotify.com/album/71H3cyUj63XR2VBs8BdecJ"
       },
@@ -2263,18 +2247,34 @@
     {
       "added_at": "2022-09-21 08:18:38",
       "album": {
-        "name": "Sidewalking",
-        "url": "https://open.spotify.com/album/5EAwH1SGs0hvPxn27vzM1n"
+        "name": "You Confuse Me",
+        "url": "https://open.spotify.com/album/4lXqZHzOGouVzTh2J2FFip"
       },
       "artists": [
         {
-          "name": "Norberg",
-          "url": "https://open.spotify.com/artist/4clALHmaxBpsJ0aWHb3Rdy"
+          "name": "Jeff Laine & Co",
+          "url": "https://open.spotify.com/artist/4i2Ps9G6SHd16reEGA5xva"
         }
       ],
-      "duration_ms": 193266,
-      "name": "Sidewalking",
-      "url": "https://open.spotify.com/track/2DotXnuPKoxT5K2yjKvhn8"
+      "duration_ms": 191526,
+      "name": "You Confuse Me",
+      "url": "https://open.spotify.com/track/46WT4GuSWziUJIDtjUJHQr"
+    },
+    {
+      "added_at": "2022-09-21 08:18:38",
+      "album": {
+        "name": "Interplay",
+        "url": "https://open.spotify.com/album/7cfK06e2mxiwwqwh4PQaOJ"
+      },
+      "artists": [
+        {
+          "name": "Geeder",
+          "url": "https://open.spotify.com/artist/65SoHM1qvoOmpiIBxWGAk1"
+        }
+      ],
+      "duration_ms": 296245,
+      "name": "Skylark",
+      "url": "https://open.spotify.com/track/3U1ar1FODMXKLBlF2yxSMl"
     },
     {
       "added_at": "2022-09-21 08:18:38",
@@ -2295,18 +2295,18 @@
     {
       "added_at": "2022-09-21 08:18:38",
       "album": {
-        "name": "Interplay",
-        "url": "https://open.spotify.com/album/7cfK06e2mxiwwqwh4PQaOJ"
+        "name": "Sidewalking",
+        "url": "https://open.spotify.com/album/5EAwH1SGs0hvPxn27vzM1n"
       },
       "artists": [
         {
-          "name": "Geeder",
-          "url": "https://open.spotify.com/artist/65SoHM1qvoOmpiIBxWGAk1"
+          "name": "Norberg",
+          "url": "https://open.spotify.com/artist/4clALHmaxBpsJ0aWHb3Rdy"
         }
       ],
-      "duration_ms": 296245,
-      "name": "Skylark",
-      "url": "https://open.spotify.com/track/3U1ar1FODMXKLBlF2yxSMl"
+      "duration_ms": 193266,
+      "name": "Sidewalking",
+      "url": "https://open.spotify.com/track/2DotXnuPKoxT5K2yjKvhn8"
     },
     {
       "added_at": "2022-09-21 08:18:38",
@@ -2339,6 +2339,22 @@
       "duration_ms": 350254,
       "name": "In the Blue of Evening",
       "url": "https://open.spotify.com/track/3a55Ev3zFKc3P3cNgCUGoq"
+    },
+    {
+      "added_at": "2022-09-21 08:18:38",
+      "album": {
+        "name": "D\u00e9j\u00e0 vu",
+        "url": "https://open.spotify.com/album/4gIfw2WilJEWpAZLoDqosk"
+      },
+      "artists": [
+        {
+          "name": "Eddie Harper",
+          "url": "https://open.spotify.com/artist/7297VsEKnQhcbuXvB3GJ68"
+        }
+      ],
+      "duration_ms": 228595,
+      "name": "D\u00e9j\u00e0 vu",
+      "url": "https://open.spotify.com/track/4LJuCbx2qKSBOK3xpuZ2Pq"
     },
     {
       "added_at": "2022-09-21 08:18:38",
@@ -2403,22 +2419,6 @@
       "duration_ms": 303356,
       "name": "Quiescence",
       "url": "https://open.spotify.com/track/2fZD8MnLDXP10QfeYNPGHO"
-    },
-    {
-      "added_at": "2022-09-21 08:18:38",
-      "album": {
-        "name": "Speak Low",
-        "url": "https://open.spotify.com/album/1yGFyTpml5nZFJ692JMOrN"
-      },
-      "artists": [
-        {
-          "name": "The Jazz Cultivators",
-          "url": "https://open.spotify.com/artist/24LiiowKnaEDD4I3CCdI3v"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "I Fall In Love Too Easily",
-      "url": "https://open.spotify.com/track/7CFnOzCVrrPbmJk9aCTk9q"
     }
   ],
   "unique_name": "Cena con Jazz",

@@ -4,7 +4,7 @@
 
 > Global crossovers by/with Arab artists\. Cover: ElGrandeToto x Ayra Starr.
 
-195 songs - 11 hr 24 min - [published](https://open.spotify.com/playlist/6fGVta71tWekmtXgUIs2Fr)
+196 songs - 11 hr 26 min - [published](https://open.spotify.com/playlist/6fGVta71tWekmtXgUIs2Fr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Damn Son](https://open.spotify.com/track/6EVVPT2x5Ow5bNmoZagZO6) | [Sammy Shiblaq](https://open.spotify.com/artist/7edxEDtHLLCarGwzp5lpIG) | [Damn Son](https://open.spotify.com/album/7toSxaZza0RCvR3c9Tvuhq) | 2:33 | 2021-12-16 |  |
 | [Dance Alone](https://open.spotify.com/track/6oKrqdkszicFfmZ7gT55zM) | [saüd](https://open.spotify.com/artist/3pYZIM4PKTsP20sNSSLs0m), [pre kai ro](https://open.spotify.com/artist/0oXFTo5u9yH1zht6gIt4wY) | [Dance Alone](https://open.spotify.com/album/2gw0OZjHyvvwMODWy9fovU) | 2:58 | 2021-12-16 | 2022-09-15 |
 | [Deep End](https://open.spotify.com/track/1tBGCQUfN4d7iUJC7xMsJE) | [NOVO](https://open.spotify.com/artist/430UrfL5PTV5Y5elsZtq6a) | [Deep End](https://open.spotify.com/album/3sgMt6ZHu0nANSXV19zdsU) | 3:23 | 2021-12-16 |  |
-| [deeper me](https://open.spotify.com/track/2GjnmIxiLh9wvIpigtek5C) | [Ss.hh.a.n.a](https://open.spotify.com/artist/7paUluJ7hvCKRvaz7JOppE) | [deeper me](https://open.spotify.com/album/70ST2gVUiX0N0wGEld6cxh) | 3:15 | 2022-07-28 |  |
+| [deeper me](https://open.spotify.com/track/2GjnmIxiLh9wvIpigtek5C) | [Ss.hh.a.n.a](https://open.spotify.com/artist/7paUluJ7hvCKRvaz7JOppE) | [deeper me](https://open.spotify.com/album/70ST2gVUiX0N0wGEld6cxh) | 3:15 | 2022-07-28 | 2022-09-23 |
 | [deeper me](https://open.spotify.com/track/5UbiMFkaDzjQeqDDOft4uD) | [Ss.hh.a.n.a](https://open.spotify.com/artist/7paUluJ7hvCKRvaz7JOppE) | [deeper me](https://open.spotify.com/album/5FyVNEJKiwCNiw9xuFIQWC) | 3:15 | 2021-12-16 | 2022-07-29 |
 | [Disco Maghreb](https://open.spotify.com/track/0RVmOh80HfpuygCBt2d1va) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Disco Maghreb](https://open.spotify.com/album/6cP9GcUgYRa6C1immLRpm8) | 3:04 | 2022-06-02 |  |
 | [Do You Remember](https://open.spotify.com/track/61xP63UNZyc4RIuotBRo9c) | [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja) | [Do Your Remember](https://open.spotify.com/album/1LFS3RAcAcx6zH0xl8MFnI) | 3:00 | 2021-12-16 |  |
@@ -181,6 +181,7 @@
 | [THE SNAKE](https://open.spotify.com/track/4tRXJwAv2zZrcDcfjTUekQ) | [Lana Lubany](https://open.spotify.com/artist/53jnd1fhXV7lbXSfjgk1WR) | [THE SNAKE](https://open.spotify.com/album/6MUnBgFIOhLgnf7h5pmZGm) | 2:56 | 2022-03-14 |  |
 | [the world could end with you](https://open.spotify.com/track/4O5GWwr8fvgcJyYiEBEX0q) | [Llunr](https://open.spotify.com/artist/1r2EC1UsQXwtqVN9valnT2) | [the world could end with you](https://open.spotify.com/album/06m5H2iiYxVwxCFQZOKZDE) | 3:00 | 2022-03-07 |  |
 | [This Feeling \- Kerfo Remix](https://open.spotify.com/track/3xSQJa2PyiKwcRpU4jfbzB) | [Wissam Hilal](https://open.spotify.com/artist/2yICXFfulgwVygZl6d19AZ) | [This Feeling \(Kerfo Remix\)](https://open.spotify.com/album/1TxoM5aWYB0OftQvM3oGnk) | 3:25 | 2021-12-16 | 2022-07-18 |
+| [Time Machine](https://open.spotify.com/track/4e2cixaDOoBxqfeuEUJskA) | [Ghaliaa](https://open.spotify.com/artist/3FVonQ6pTMMbqYb0Rf7WE8) | [Time Machine](https://open.spotify.com/album/52JILWLCOvqJ9yqLXVKXHU) | 2:41 | 2022-09-22 |  |
 | [Toxic Attachments](https://open.spotify.com/track/5x0poZDwH3BDAvXqsmQEOZ) | [Neemz](https://open.spotify.com/artist/1klyF43vSKkOiQ7So5hVti) | [Toxic Attachments](https://open.spotify.com/album/2hC53yChNCrr86nlW9iLoC) | 2:45 | 2022-05-04 |  |
 | [Turning Me Up \(Hadal Ahbek\)](https://open.spotify.com/track/4sofJiicQwKsRo3S1vpt39) | [Issam Alnajjar](https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r), [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Turning Me Up \(Hadal Ahbek\)](https://open.spotify.com/album/4iVUZYC6NjKXt4jOh14dTb) | 2:24 | 2021-12-16 |  |
 | [Twelve](https://open.spotify.com/track/3fr2NOC3yBbxVM4KcqJBcK) | [Rotana](https://open.spotify.com/artist/71GNEpAyOatoAy5oo9Av1q) | [Twelve](https://open.spotify.com/album/1AFZIJkmFj6Di2wYT8hThy) | 2:48 | 2022-07-28 |  |

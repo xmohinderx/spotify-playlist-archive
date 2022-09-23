@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs2pvwxWA7l.md) - [plain]
 
 > The hottest Afropop records on the planet\. Cover:  <a href="https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq?si=mXeuCyu0SQ6c2J\_lRozDdw"> Ayra Starr </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 358,861 likes - 60 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 359,305 likes - 60 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs2pvwxWA7l.md) - [plain]
 | 26 | [you](https://open.spotify.com/track/1U2fUzMkgprQoocKlYu3Oj) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [you](https://open.spotify.com/album/3R0Vj38qjC04rYeHLDPC2p) | 2:55 |
 | 27 | [Playboy](https://open.spotify.com/track/1Cg51Jk6EoXBQ0KiwzWJfm) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Playboy](https://open.spotify.com/album/1H60asyrMtrrOlieQIPtrI) | 3:27 |
 | 28 | [Electricity](https://open.spotify.com/track/6McBvfxgkVfREmQPwTKBUn) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Electricity](https://open.spotify.com/album/5vOpDVowekdCylaDIiV5We) | 2:12 |
-| 29 | [No Wahala](https://open.spotify.com/track/1z3Lac4bdl57XLcu35ma1M) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb) | [No Wahala](https://open.spotify.com/album/0iBUE2UCUr4RLMhOzOLaUY) | 2:42 |
-| 30 | [understand](https://open.spotify.com/track/6oOCGD2Sp9UTcDsuDz8Hdu) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem) | 2:54 |
+| 29 | [understand](https://open.spotify.com/track/6oOCGD2Sp9UTcDsuDz8Hdu) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem) | 2:54 |
+| 30 | [No Wahala](https://open.spotify.com/track/1z3Lac4bdl57XLcu35ma1M) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb) | [No Wahala](https://open.spotify.com/album/0iBUE2UCUr4RLMhOzOLaUY) | 2:42 |
 | 31 | [Certified Loner \(No Competition\)](https://open.spotify.com/track/6NKuW3yaNXtloGw1RB8WUi) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [Certified Loner \(No Competition\)](https://open.spotify.com/album/09GvRfHYMZQKWza03GYJxz) | 2:45 |
 | 32 | [Ijo \(Laba Laba\)](https://open.spotify.com/track/7tZMF9Hn5uGsfC7zGXbSKM) | [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb) | [Ijo \(Laba Laba\)](https://open.spotify.com/album/5A1qWiQBSEkCpGvQE2YfOH) | 3:06 |
 | 33 | [Bounce](https://open.spotify.com/track/5dNifN92fKRGXWas8YQ80O) | [Lexsil](https://open.spotify.com/artist/6Hld2ORUmr5945JQVc3N5h), [Otile Brown](https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj) | [Bounce](https://open.spotify.com/album/1hvjC4J7XL2yLFg54fhKu4) | 3:21 |
@@ -57,16 +57,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs2pvwxWA7l.md) - [plain]
 | 47 | [5 Star](https://open.spotify.com/track/5l6ZVWdSdot8a1FjPBiXvz) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [5 Star](https://open.spotify.com/album/7sL2HnpqLO8uAdV6YlHLl4) | 2:30 |
 | 48 | [Sere](https://open.spotify.com/track/35056uy2b4M1qJ3Z1ed3sf) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Grace](https://open.spotify.com/album/5POlBPtjdKCxmJQBXw191I) | 3:05 |
 | 49 | [PAMI \(feat\. Wizkid, Adekunle Gold & Omah Lay\)](https://open.spotify.com/track/6iC4xfqow6iAsRhPh5IrWz) | [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [PAMI \(feat\. Wizkid, Adekunle Gold & Omah Lay\)](https://open.spotify.com/album/6OTNestAuAxK7wytwRiq9q) | 3:33 |
-| 50 | [Snapchat](https://open.spotify.com/track/10m1yYuud3w7bb43srjbWi) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [The Second Wave](https://open.spotify.com/album/2X0RCBDJankvvvaJgMUUHD) | 3:26 |
-| 51 | [Want You](https://open.spotify.com/track/0vyg6EqfMiu45hQzFmi0YF) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Want You](https://open.spotify.com/album/7I2CUrd8gtIBHVXXhFbCuX) | 3:25 |
-| 52 | [Foreigner](https://open.spotify.com/track/1nIhLChEGB8Y2dP7CHt3PN) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Foreigner](https://open.spotify.com/album/4JUUgaTGiFYaZmA4mXlieZ) | 3:54 |
-| 53 | [Legalize](https://open.spotify.com/track/1kd8fI9o55GNWvNOfzKcz5) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Legalize](https://open.spotify.com/album/1tEdcrmOZMzd3CACVkxvEV) | 2:26 |
-| 54 | [D O D O \- Adekunle Gold Version](https://open.spotify.com/track/5F9F0SxcAM9bCVyi00tL0W) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [D O D O \(Adekunle Gold Version\)](https://open.spotify.com/album/49s1JEe2mCLJMAVtMplzJo) | 2:59 |
-| 55 | [Rolling Stone](https://open.spotify.com/track/5JHMXUWq4FxSuZndpq3wKI) | [B Young](https://open.spotify.com/artist/7JMwO9tyFPMsb2KnsJqZlp), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Rolling Stone](https://open.spotify.com/album/0qQC6ZOVFaCNphabIMRWVJ) | 3:20 |
+| 50 | [Rolling Stone](https://open.spotify.com/track/5JHMXUWq4FxSuZndpq3wKI) | [B Young](https://open.spotify.com/artist/7JMwO9tyFPMsb2KnsJqZlp), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Rolling Stone](https://open.spotify.com/album/0qQC6ZOVFaCNphabIMRWVJ) | 3:20 |
+| 51 | [Snapchat](https://open.spotify.com/track/10m1yYuud3w7bb43srjbWi) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [The Second Wave](https://open.spotify.com/album/2X0RCBDJankvvvaJgMUUHD) | 3:26 |
+| 52 | [Want You](https://open.spotify.com/track/0vyg6EqfMiu45hQzFmi0YF) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Want You](https://open.spotify.com/album/7I2CUrd8gtIBHVXXhFbCuX) | 3:25 |
+| 53 | [Foreigner](https://open.spotify.com/track/1nIhLChEGB8Y2dP7CHt3PN) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Foreigner](https://open.spotify.com/album/4JUUgaTGiFYaZmA4mXlieZ) | 3:54 |
+| 54 | [Legalize](https://open.spotify.com/track/1kd8fI9o55GNWvNOfzKcz5) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Legalize](https://open.spotify.com/album/1tEdcrmOZMzd3CACVkxvEV) | 2:26 |
+| 55 | [D O D O \- Adekunle Gold Version](https://open.spotify.com/track/5F9F0SxcAM9bCVyi00tL0W) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [D O D O \(Adekunle Gold Version\)](https://open.spotify.com/album/49s1JEe2mCLJMAVtMplzJo) | 2:59 |
 | 56 | [Sinner](https://open.spotify.com/track/3k6Y1ESBwF1low4hHsY4wu) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Sinner](https://open.spotify.com/album/1kpkSvYRz40cdD1GvfN7OJ) | 2:54 |
-| 57 | [Danger](https://open.spotify.com/track/7aeIvptSeWBdtuPyyjM3wM) | [Terri](https://open.spotify.com/artist/6h3iqdnfBKV2jRhUJz0oto) | [Danger](https://open.spotify.com/album/2mDEg7Kh7jjaypZ5WxBxNo) | 2:37 |
-| 58 | [No Dey Form](https://open.spotify.com/track/1a5glQzge8OW5w2izckOGN) | [AV](https://open.spotify.com/artist/4zSFP72igZmzWSRpK7AepF) | [No Dey Form](https://open.spotify.com/album/019TDVSSWLHZtDiqJlSiLV) | 2:20 |
-| 59 | [Lie](https://open.spotify.com/track/5jVpi3fFf5OGAZ5bpe4Bhy) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Lie](https://open.spotify.com/album/5R3HMJSiNPlGeNSfLFsgOH) | 2:36 |
-| 60 | [In My Mind \- A COLORS SHOW](https://open.spotify.com/track/1echqVmMoUZE22trTEqfL5) | [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [In My Mind \- A COLORS SHOW](https://open.spotify.com/album/4O5mKHI9LNEB3WetqF8zOd) | 2:16 |
+| 57 | [No Dey Form](https://open.spotify.com/track/1a5glQzge8OW5w2izckOGN) | [AV](https://open.spotify.com/artist/4zSFP72igZmzWSRpK7AepF) | [No Dey Form](https://open.spotify.com/album/019TDVSSWLHZtDiqJlSiLV) | 2:20 |
+| 58 | [Danger](https://open.spotify.com/track/7aeIvptSeWBdtuPyyjM3wM) | [Terri](https://open.spotify.com/artist/6h3iqdnfBKV2jRhUJz0oto) | [Danger](https://open.spotify.com/album/2mDEg7Kh7jjaypZ5WxBxNo) | 2:37 |
+| 59 | [In My Mind \- A COLORS SHOW](https://open.spotify.com/track/1echqVmMoUZE22trTEqfL5) | [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [In My Mind \- A COLORS SHOW](https://open.spotify.com/album/4O5mKHI9LNEB3WetqF8zOd) | 2:16 |
+| 60 | [Many Man \- A COLORS SHOW](https://open.spotify.com/track/4nwtkUjULEbhp5VJItUWbV) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Many Man \- A COLORS SHOW](https://open.spotify.com/album/7j3undJfNrbm3uOboIvpNI) | 3:10 |
 
-Snapshot ID: `MTY2MzMwMjQ5OSwwMDAwMDAwMGVjN2M3NzU3NjM5YzVhMDZjNzcxNDA0ZmVmNjkyYTU1`
+Snapshot ID: `MTY2MzMwMjQ5OSwwMDAwMDAwMDg5ZTc3ZDc5ZjdiNDBiNjE5OTcxY2QxMzc1NjA1OGMx`

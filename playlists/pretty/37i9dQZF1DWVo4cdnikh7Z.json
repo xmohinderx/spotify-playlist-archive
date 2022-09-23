@@ -1,12 +1,12 @@
 {
   "description": "New Music from Kollywood.\nCover : Naane Varuvean",
-  "num_followers": 378272,
+  "num_followers": 378720,
   "original_name": "Latest Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzc1MjQ4NiwwMDAwMDAwMGVlZDNjNWRkN2M0Y2E4MzNjMDMxYjEwZjkzMDgyMWJi",
+  "snapshot_id": "MTY2MzgyMDcwNywwMDAwMDAwMGEzZDU3YmJiZTU4YjMwY2ViYjg4ODMyZjQ5NTZkMTFm",
   "tracks": [
     {
       "added_at": "2022-09-07 11:35:16",
@@ -27,6 +27,26 @@
       "duration_ms": 207944,
       "name": "Veera Soora (From \"Naane Varuvean\")",
       "url": "https://open.spotify.com/track/6mPQ3rmFeyjlYUXTnegt9w"
+    },
+    {
+      "added_at": "2022-09-15 11:26:41",
+      "album": {
+        "name": "Vendhu Thanindhathu Kaadu (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6ID1od4fd4L19s7ZjoCeW4"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Madhushree",
+          "url": "https://open.spotify.com/artist/1EKK9k0IAwV1oeJfZITSYo"
+        }
+      ],
+      "duration_ms": 245365,
+      "name": "Mallipoo",
+      "url": "https://open.spotify.com/track/3i7qScF9Oyp31O9bAutJez"
     },
     {
       "added_at": "2022-09-01 12:09:49",
@@ -165,26 +185,6 @@
       "url": "https://open.spotify.com/track/0XosgadxA79fBBV6meKDAs"
     },
     {
-      "added_at": "2022-09-15 11:26:41",
-      "album": {
-        "name": "Vendhu Thanindhathu Kaadu (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6ID1od4fd4L19s7ZjoCeW4"
-      },
-      "artists": [
-        {
-          "name": "A.R. Rahman",
-          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
-        },
-        {
-          "name": "Madhushree",
-          "url": "https://open.spotify.com/artist/1EKK9k0IAwV1oeJfZITSYo"
-        }
-      ],
-      "duration_ms": 245365,
-      "name": "Mallipoo",
-      "url": "https://open.spotify.com/track/3i7qScF9Oyp31O9bAutJez"
-    },
-    {
       "added_at": "2022-07-16 05:38:59",
       "album": {
         "name": "Megham Karukatha (From \"Thiruchitrambalam\")",
@@ -313,30 +313,6 @@
       "url": "https://open.spotify.com/track/4ChL9SvOK2k34GGZcdl39C"
     },
     {
-      "added_at": "2022-09-13 05:39:16",
-      "album": {
-        "name": "Pithu Pidichi (From \"Babli Bouncer - Tamil\")",
-        "url": "https://open.spotify.com/album/3f95Mt56bQm05XuBJYtze3"
-      },
-      "artists": [
-        {
-          "name": "Tanishk Bagchi",
-          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
-        },
-        {
-          "name": "Palakkad Sreeram",
-          "url": "https://open.spotify.com/artist/7eIZuBIxZK4YmGjJJfqinV"
-        },
-        {
-          "name": "Deepika Varadarajan",
-          "url": "https://open.spotify.com/artist/4Qg3YWzdOvs6UiYtdyzgLu"
-        }
-      ],
-      "duration_ms": 186896,
-      "name": "Pithu Pidichi (From \"Babli Bouncer - Tamil\")",
-      "url": "https://open.spotify.com/track/3fqFesx739K5ovDAAfHr1R"
-    },
-    {
       "added_at": "2022-08-03 16:32:27",
       "album": {
         "name": "Viruman (Original Motion Picture Soundtrack)",
@@ -377,26 +353,6 @@
       "url": "https://open.spotify.com/track/7kcMEKsmqgfq68gSQk6F9c"
     },
     {
-      "added_at": "2022-09-16 12:15:03",
-      "album": {
-        "name": "Vasamaana (From \"Babli Bouncer - Tamil\")",
-        "url": "https://open.spotify.com/album/6lTXmym0ellr1kJJpvIY6L"
-      },
-      "artists": [
-        {
-          "name": "Tanishk Bagchi",
-          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
-        },
-        {
-          "name": "Roshan Sebastian",
-          "url": "https://open.spotify.com/artist/72fjH95OAer1Y0g78l5QaM"
-        }
-      ],
-      "duration_ms": 135263,
-      "name": "Vasamaana (From \"Babli Bouncer - Tamil\")",
-      "url": "https://open.spotify.com/track/4WBiqHENazWDz1ZYlF2A9p"
-    },
-    {
       "added_at": "2022-09-21 09:28:06",
       "album": {
         "name": "Ezhundhu Vaa (From \"Singappenney\") [Original Motion Picture Soundtrack]",
@@ -411,26 +367,6 @@
       "duration_ms": 240252,
       "name": "Ezhundhu Vaa (From \"Singappenney\")",
       "url": "https://open.spotify.com/track/5vMSkvtLuYwx3ea7R56Zay"
-    },
-    {
-      "added_at": "2022-09-16 12:14:06",
-      "album": {
-        "name": "Troll (From \"Banaras\") [TAMIL]",
-        "url": "https://open.spotify.com/album/561FVyZBhD1qPj3lWZQiPe"
-      },
-      "artists": [
-        {
-          "name": "Tippu",
-          "url": "https://open.spotify.com/artist/0PykiHCcDsMPRV7s67qZ1B"
-        },
-        {
-          "name": "B. Ajaneesh Loknath",
-          "url": "https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5"
-        }
-      ],
-      "duration_ms": 194090,
-      "name": "Troll (From \"Banaras\") [TAMIL]",
-      "url": "https://open.spotify.com/track/6dAJL3MyyVHCfatfO0osJa"
     },
     {
       "added_at": "2022-09-13 05:41:26",
@@ -475,74 +411,6 @@
       "duration_ms": 236955,
       "name": "Unna Nenachadhum",
       "url": "https://open.spotify.com/track/43BSpcCWtZKt6HUZujyY6O"
-    },
-    {
-      "added_at": "2022-09-15 11:26:41",
-      "album": {
-        "name": "Jillu Jakkamma (From \"Vallan\")",
-        "url": "https://open.spotify.com/album/5yVz0RGcA7ogh0o43BQA6W"
-      },
-      "artists": [
-        {
-          "name": "Santhosh Dhayanidhi",
-          "url": "https://open.spotify.com/artist/45W4EDnXayqLZPpJQJAKN3"
-        },
-        {
-          "name": "Andrea Jeremiah",
-          "url": "https://open.spotify.com/artist/5yoqPvofOHrBc3Z6VZyTsj"
-        },
-        {
-          "name": "Srinisha Jayaseelan",
-          "url": "https://open.spotify.com/artist/4fbPpuZDZjzbTdGIwhD45a"
-        },
-        {
-          "name": "Simona Gilbert",
-          "url": "https://open.spotify.com/artist/1zHP8Qk6lcVgvqufcgubGJ"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Jillu Jakkamma (From \"Vallan\")",
-      "url": "https://open.spotify.com/track/7q1f2FvInsxX11sVwObCSZ"
-    },
-    {
-      "added_at": "2022-08-09 12:07:22",
-      "album": {
-        "name": "Rangarattinam (From \"Natchathiram Nagargiradhu\")",
-        "url": "https://open.spotify.com/album/7FmTMzjqegboyCxwAKlj4z"
-      },
-      "artists": [
-        {
-          "name": "Tenma",
-          "url": "https://open.spotify.com/artist/2DrwyYWGYEu3ULzRzEGajY"
-        },
-        {
-          "name": "M.S Krsna",
-          "url": "https://open.spotify.com/artist/4qVLx0XPsO5EInvKYH6Pxx"
-        },
-        {
-          "name": "Gana Muthu",
-          "url": "https://open.spotify.com/artist/2oyLpdrvnRrkgwc48UZFSx"
-        },
-        {
-          "name": "Sangita Santhosham",
-          "url": "https://open.spotify.com/artist/4dXWYL9FnxG8CKIv2EgBnn"
-        },
-        {
-          "name": "Kavitha Gopi",
-          "url": "https://open.spotify.com/artist/1xDvHwPzrmRQB6CPlyIoTI"
-        },
-        {
-          "name": "Karthik Manickavasakam",
-          "url": "https://open.spotify.com/artist/3YkUMVh7nPai0811Q22WPO"
-        },
-        {
-          "name": "Arivu",
-          "url": "https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71"
-        }
-      ],
-      "duration_ms": 289767,
-      "name": "Rangarattinam - From \"Natchathiram Nagargiradhu\"",
-      "url": "https://open.spotify.com/track/6dmb2PApaoXVYWHgljp8IT"
     },
     {
       "added_at": "2022-07-12 12:40:11",
@@ -603,30 +471,6 @@
       "duration_ms": 234514,
       "name": "Life of Pazham (From \"Thiruchitrambalam\")",
       "url": "https://open.spotify.com/track/6A6mDExVoAEJmc5JyVSQeK"
-    },
-    {
-      "added_at": "2022-08-27 14:36:47",
-      "album": {
-        "name": "Akkrinai Naan (From \"Captain\")",
-        "url": "https://open.spotify.com/album/51HbJ9d3dsBatTaYKEsLzR"
-      },
-      "artists": [
-        {
-          "name": "D. Imman",
-          "url": "https://open.spotify.com/artist/1QcBqYUeQ4Ux3itkdDaFi0"
-        },
-        {
-          "name": "Arivu",
-          "url": "https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71"
-        },
-        {
-          "name": "Joewin Shamalina",
-          "url": "https://open.spotify.com/artist/4YpclnrUJpslzlowW26LOn"
-        }
-      ],
-      "duration_ms": 231803,
-      "name": "Akkrinai Naan - From \"Captain\"",
-      "url": "https://open.spotify.com/track/7CRrENz4lVWe1kFYxn1WgQ"
     },
     {
       "added_at": "2022-08-02 06:02:27",
@@ -691,26 +535,6 @@
       "duration_ms": 237558,
       "name": "Kanja Poovu Kannala",
       "url": "https://open.spotify.com/track/1KYqHPwbceagFffliE7fBg"
-    },
-    {
-      "added_at": "2022-09-06 04:30:08",
-      "album": {
-        "name": "Poove (From \"Rendagam\")",
-        "url": "https://open.spotify.com/album/04fzH1wupGlx2yH0CisAKQ"
-      },
-      "artists": [
-        {
-          "name": "A H Kaashif",
-          "url": "https://open.spotify.com/artist/3QouDKKier0OwfJnSOvvEI"
-        },
-        {
-          "name": "Sam Vishal",
-          "url": "https://open.spotify.com/artist/0uaYtkIY2nv1tWsigjcLnd"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Poove - From \"Rendagam\"",
-      "url": "https://open.spotify.com/track/4J9PbAzZpPif4xkfBOHDd2"
     },
     {
       "added_at": "2022-07-05 06:54:43",
@@ -881,30 +705,6 @@
       "url": "https://open.spotify.com/track/2neYlVaQCfZfhbMPSmJjp1"
     },
     {
-      "added_at": "2022-08-06 03:40:00",
-      "album": {
-        "name": "Aafat (Tamil) [From \"Liger (Tamil)\"]",
-        "url": "https://open.spotify.com/album/0O3S5Epuz2DEESAH4YXav2"
-      },
-      "artists": [
-        {
-          "name": "Tanishk Bagchi",
-          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
-        },
-        {
-          "name": "Deepak Blue",
-          "url": "https://open.spotify.com/artist/5iFKS1bnBNFWBAmd7mi0vf"
-        },
-        {
-          "name": "Haripriya",
-          "url": "https://open.spotify.com/artist/1CUAEnzS0hidDnH66AUS3h"
-        }
-      ],
-      "duration_ms": 163500,
-      "name": "Aafat (Tamil) [From \"Liger (Tamil)\"]",
-      "url": "https://open.spotify.com/track/09FMB1sTmFrqTa4sPKyjYg"
-    },
-    {
       "added_at": "2022-08-01 12:19:21",
       "album": {
         "name": "Vikrant Rona (TAMIL)",
@@ -961,26 +761,6 @@
       "url": "https://open.spotify.com/track/3Vb8KkT6Ub5fFGPYJCJyLh"
     },
     {
-      "added_at": "2022-07-23 05:32:12",
-      "album": {
-        "name": "Anbarey (From \"Gulu Gulu\")",
-        "url": "https://open.spotify.com/album/4VRLCbpd2pX3zB9R47OrwH"
-      },
-      "artists": [
-        {
-          "name": "Santhosh Narayanan",
-          "url": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
-        },
-        {
-          "name": "Dhee",
-          "url": "https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH"
-        }
-      ],
-      "duration_ms": 224400,
-      "name": "Anbarey (From \"Gulu Gulu\")",
-      "url": "https://open.spotify.com/track/78xl1agm6jjt1u7YvgWtLo"
-    },
-    {
       "added_at": "2022-08-02 12:12:35",
       "album": {
         "name": "Sita Ramam (Tamil) [Original Motion Picture Soundtrack]",
@@ -1003,30 +783,6 @@
       "duration_ms": 208679,
       "name": "Piriyadhey",
       "url": "https://open.spotify.com/track/38uokF7r2knE7SH6vf6DqT"
-    },
-    {
-      "added_at": "2022-08-03 12:25:23",
-      "album": {
-        "name": "Un Paarvai (From \"Cadaver\")",
-        "url": "https://open.spotify.com/album/0n0At1ycRA2W5NOzlUNSv3"
-      },
-      "artists": [
-        {
-          "name": "Ranjin Raj",
-          "url": "https://open.spotify.com/artist/4HhPs1nwYZNmP72fuE30BV"
-        },
-        {
-          "name": "Pradeep Kumar",
-          "url": "https://open.spotify.com/artist/15ClyGUe5g2vllncIC4tp6"
-        },
-        {
-          "name": "Saindhavi",
-          "url": "https://open.spotify.com/artist/6rEXjeIJ0wL6BFdo8CRcit"
-        }
-      ],
-      "duration_ms": 293340,
-      "name": "Un Paarvai - From \"Cadaver\"",
-      "url": "https://open.spotify.com/track/6hTA1hkO43O2pWvOkonyrx"
     },
     {
       "added_at": "2022-06-24 04:41:37",
@@ -1059,38 +815,6 @@
       "duration_ms": 156330,
       "name": "Lokiverse - Background Score",
       "url": "https://open.spotify.com/track/209pScL6fUhISxcLWkB6rf"
-    },
-    {
-      "added_at": "2022-07-11 12:05:12",
-      "album": {
-        "name": "Akdi Pakdi (Tamil) [From \"Liger (Tamil)\"]",
-        "url": "https://open.spotify.com/album/3TyO0ZiBeUnaGiyGzHsvek"
-      },
-      "artists": [
-        {
-          "name": "Lijo George",
-          "url": "https://open.spotify.com/artist/4VS3XraXs2LRsowQnQ7VFh"
-        },
-        {
-          "name": "Dj Chetas",
-          "url": "https://open.spotify.com/artist/1jPeDHvfU5Knw8VyOP6TZN"
-        },
-        {
-          "name": "Sunil Kashyap",
-          "url": "https://open.spotify.com/artist/4ZTli8xiH8txCfWJtulNXQ"
-        },
-        {
-          "name": "Sagar",
-          "url": "https://open.spotify.com/artist/6CWBs7ul78QwnBrcOCwhf5"
-        },
-        {
-          "name": "Vaishnavi Kovvuri",
-          "url": "https://open.spotify.com/artist/4x2ISDzC44n2AmVAiBTp4g"
-        }
-      ],
-      "duration_ms": 230200,
-      "name": "Akdi Pakdi (Tamil) [From \"Liger (Tamil)\"]",
-      "url": "https://open.spotify.com/track/6NGhHNsNBccDjXCrLhBBgz"
     },
     {
       "added_at": "2022-05-15 15:52:30",
@@ -1225,26 +949,6 @@
       "url": "https://open.spotify.com/track/7e97QgqoYTXOj1s7JI0dHR"
     },
     {
-      "added_at": "2022-05-15 15:52:30",
-      "album": {
-        "name": "Vikram (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0FIP7MeIO3yqL8K6uTz3b1"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Ravi G",
-          "url": "https://open.spotify.com/artist/7F0SYkO9wyNY0aJFD2C1bD"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Porkanda Singam",
-      "url": "https://open.spotify.com/track/3yqkV2Vd0u4l9lUnlaFNZT"
-    },
-    {
       "added_at": "2022-04-22 13:05:03",
       "album": {
         "name": "The Warriorr (Tamil)",
@@ -1325,30 +1029,6 @@
       "url": "https://open.spotify.com/track/4lS1ldfypKYEwKqbu3a04x"
     },
     {
-      "added_at": "2022-04-28 10:34:19",
-      "album": {
-        "name": "Kaathuvaakula Rendu Kaadhal (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2bRyFTzMb2iz6yIlcon1uz"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Sunidhi Chauhan",
-          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
-        },
-        {
-          "name": "Sanjana Kalmanje",
-          "url": "https://open.spotify.com/artist/4zQpCebYLmlfG8Cw43xdtZ"
-        }
-      ],
-      "duration_ms": 176345,
-      "name": "Two Two Two",
-      "url": "https://open.spotify.com/track/7mhJ08BCG6goQ8mPpk9TuZ"
-    },
-    {
       "added_at": "2022-05-17 04:20:50",
       "album": {
         "name": "Vikram (Original Motion Picture Soundtrack)",
@@ -1363,22 +1043,6 @@
       "duration_ms": 182608,
       "name": "Wasted",
       "url": "https://open.spotify.com/track/2dpMdklbSc5CmZ3ijhknZ5"
-    },
-    {
-      "added_at": "2022-04-14 12:14:02",
-      "album": {
-        "name": "Kgf Chapter 2",
-        "url": "https://open.spotify.com/album/55ocrn3kExKaTHbH2P8DJg"
-      },
-      "artists": [
-        {
-          "name": "Ananya Bhat",
-          "url": "https://open.spotify.com/artist/4JczWHls9n9VpTHnqO2IG8"
-        }
-      ],
-      "duration_ms": 212351,
-      "name": "Mehabooba",
-      "url": "https://open.spotify.com/track/0SeQF0O4k5Fj91qZOspKYe"
     },
     {
       "added_at": "2022-04-28 10:34:19",
@@ -1403,30 +1067,6 @@
       "duration_ms": 243570,
       "name": "Naan Pizhai",
       "url": "https://open.spotify.com/track/6lQ7RWoymp53169COo4fLN"
-    },
-    {
-      "added_at": "2022-04-28 10:34:19",
-      "album": {
-        "name": "Kaathuvaakula Rendu Kaadhal (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2bRyFTzMb2iz6yIlcon1uz"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Shakthisree Gopalan",
-          "url": "https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP"
-        },
-        {
-          "name": "Aishwarya Suresh Bindra",
-          "url": "https://open.spotify.com/artist/6QOMlTNUkY4dIVIPiJ0KMg"
-        }
-      ],
-      "duration_ms": 260124,
-      "name": "Rendu Kaadhal",
-      "url": "https://open.spotify.com/track/0XKkWw4sw1VmFlfX8mR1Fk"
     }
   ],
   "unique_name": "Latest Tamil",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAWtyHQImlQ.md) - [plain]
 
 > All 60s, all ballads\. Cover: Etta James
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,852 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,922 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAWtyHQImlQ.md) - [plain]
 | 10 | [Nights In White Satin \- Single Version / Mono](https://open.spotify.com/track/6L5BZEcZmD6RBJnimzlyKr) | [The Moody Blues](https://open.spotify.com/artist/5BcZ22XONcRoLhTbZRuME1) | [Days Of Future Passed \(Deluxe Version\)](https://open.spotify.com/album/3JyYXOBRAuc3XFQxFxrEcM) | 4:29 |
 | 11 | [All I Have to Do Is Dream](https://open.spotify.com/track/7dblNGnRXEBrVJunazs2U5) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [The Very Best of The Everly Brothers](https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT) | 2:23 |
 | 12 | [A Change Is Gonna Come](https://open.spotify.com/track/0KOE1hat4SIer491XKk4Pa) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [Ain't That Good News](https://open.spotify.com/album/2NFd4ApYFitFtJhGTSfDdP) | 3:11 |
-| 13 | [Crazy \- Single Version](https://open.spotify.com/track/3zpj9dvJABiyMrmLCPw6i8) | [Patsy Cline](https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK), [The Jordanaires](https://open.spotify.com/artist/6CXezToiGS8K6jr9kr8Muv) | [Showcase](https://open.spotify.com/album/54Ykk8Gg8TuHjLbYvErsKh) | 2:44 |
-| 14 | [Can't Help Falling In Love](https://open.spotify.com/track/4hAUynwghvrqDXs1ejKNEq) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis 30 \#1 Hits](https://open.spotify.com/album/0QVoYzGd1p8Z3ohEaM0lsc) | 2:57 |
+| 13 | [Can't Help Falling In Love](https://open.spotify.com/track/4hAUynwghvrqDXs1ejKNEq) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis 30 \#1 Hits](https://open.spotify.com/album/0QVoYzGd1p8Z3ohEaM0lsc) | 2:57 |
+| 14 | [Crazy \- Single Version](https://open.spotify.com/track/3zpj9dvJABiyMrmLCPw6i8) | [Patsy Cline](https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK), [The Jordanaires](https://open.spotify.com/artist/6CXezToiGS8K6jr9kr8Muv) | [Showcase](https://open.spotify.com/album/54Ykk8Gg8TuHjLbYvErsKh) | 2:44 |
 | 15 | [The First Time Ever I Saw Your Face](https://open.spotify.com/track/0SxFyA4FqmEQqZVuAlg8lf) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [First Take](https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F) | 4:20 |
 | 16 | [I Can't Stop Loving You](https://open.spotify.com/track/79nJj5dMyTsUzKvN5jUXsJ) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [Modern Sounds in Country and Western Music, Vols 1 & 2](https://open.spotify.com/album/4j4w5DDWMKD7ePStAl19OF) | 4:16 |
 | 17 | [Moon River \(From "Breakfast at Tiffany's"\)](https://open.spotify.com/track/24AIahNHzBxm9S12peXbnG) | [Andy Williams](https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9) | [Moon River And Other Great Movie Themes](https://open.spotify.com/album/1RLfn8e4cQvC0WsYJM6rh2) | 2:42 |
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAWtyHQImlQ.md) - [plain]
 | 24 | [Never My Love \- Remastered Version](https://open.spotify.com/track/32ssNweOtmacNBEC2kHzA8) | [The Association](https://open.spotify.com/artist/2kuNswDC82PL9xRbfaZJaS) | [Insight Out](https://open.spotify.com/album/1VsmbYW4XCdWje8ii0Yuta) | 3:07 |
 | 25 | [Honey](https://open.spotify.com/track/2Qhvi6R73Zj3cpzRYzcAww) | [Bobby Goldsboro](https://open.spotify.com/artist/5gPEo032lzARtzuVqJIm9o) | [Honey](https://open.spotify.com/album/2AKHoOuDzuJ6d75eaDzZmP) | 3:58 |
 | 26 | [I've Been Loving You Too Long](https://open.spotify.com/track/4pdLyulbYLCrPmDzWWeJIZ) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [Otis Blue: Otis Redding Sings Soul \(Collector's Edition\)](https://open.spotify.com/album/68BCjMsHX4Gf11BJSkjwGz) | 3:01 |
-| 27 | [I Got You Babe](https://open.spotify.com/track/2SWBfqj1FrS8t8z56G55rP) | [Sonny & Cher](https://open.spotify.com/artist/71lGEtP9qYXDsSXjfexTqO) | [The Beat Goes On: Best Of](https://open.spotify.com/album/5QzkzMcvCJSk30pQS2mqia) | 3:13 |
-| 28 | [I Like The Way You Love Me](https://open.spotify.com/track/0nNavzWSD6AUiQK2rLgbBx) | [Brenton Wood](https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K) | [Oogum Boogum](https://open.spotify.com/album/108biCEg5vUG7Efei5EhTf) | 2:43 |
+| 27 | [I Like The Way You Love Me](https://open.spotify.com/track/0nNavzWSD6AUiQK2rLgbBx) | [Brenton Wood](https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K) | [Oogum Boogum](https://open.spotify.com/album/108biCEg5vUG7Efei5EhTf) | 2:43 |
+| 28 | [I Got You Babe](https://open.spotify.com/track/2SWBfqj1FrS8t8z56G55rP) | [Sonny & Cher](https://open.spotify.com/artist/71lGEtP9qYXDsSXjfexTqO) | [The Beat Goes On: Best Of](https://open.spotify.com/album/5QzkzMcvCJSk30pQS2mqia) | 3:13 |
 | 29 | [When a Man Loves a Woman](https://open.spotify.com/track/0GVxSbigOiKlGfI30Uw00X) | [Percy Sledge](https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO) | [When a Man Loves a Woman](https://open.spotify.com/album/5I9u0kRfmLLzTHneycOwFA) | 2:55 |
 | 30 | [Where Do You Go To \(My Lovely\) \- Re\-Recorded](https://open.spotify.com/track/6M665tf7ZKQzUFA5yOrUE4) | [Peter Sarstedt](https://open.spotify.com/artist/3ExGDjEKejMhyciAgxPe0B) | [The Lost Album](https://open.spotify.com/album/68it2FTN3u7cMWuHR4yYpu) | 4:47 |
 | 31 | [Emotions](https://open.spotify.com/track/60jQTAr2OkFcV4SWSRz3st) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [Emotions](https://open.spotify.com/album/6k1CVP7aiwq2KAcouCW70z) | 2:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAWtyHQImlQ.md) - [plain]
 | 49 | [Skyline Pigeon](https://open.spotify.com/track/5MimWt53Ukh0gcv7mC0Rnx) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Empty Sky](https://open.spotify.com/album/2AWW5zXJBwLeroqj9D5oWV) | 3:37 |
 | 50 | [Losing You](https://open.spotify.com/track/78HTdAIfx2UBmFWZN4s7A6) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [..."Let Me Sing"](https://open.spotify.com/album/4oC3Mh9wD9vaZIvlxTsdX4) | 2:34 |
 
-Snapshot ID: `MTY1ODg0ODI3MiwwMDAwMDAwMDUyNGMyNWY2MjBmODcwMGM2ZTNjZjRhOGJhZDlkMjZh`
+Snapshot ID: `MTY1ODg0ODI3MiwwMDAwMDAwMGU1MmIxMzVlYjQ3M2M0M2Q2ZGM4N2M3NDUxODFjZjMy`

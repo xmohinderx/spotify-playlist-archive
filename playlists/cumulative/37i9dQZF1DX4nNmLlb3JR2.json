@@ -654,6 +654,28 @@
     },
     {
       "album": {
+        "name": "Lo-Fi Rap Caviar, Vol. 4",
+        "url": "https://open.spotify.com/album/6d59AcN0nULql52ea9ViNJ"
+      },
+      "artists": [
+        {
+          "name": "Covers Unplugged",
+          "url": "https://open.spotify.com/artist/7nh5TZodhwFh0CkAIFDDxl"
+        },
+        {
+          "name": "Wild Issues",
+          "url": "https://open.spotify.com/artist/1m3Su2QS1BPQuE4SdHjb2S"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 69405,
+      "name": "Jimmy Cooks - Lofi Cover",
+      "url": "https://open.spotify.com/track/0QtpzHpNX7piC7zuMFEHEK"
+    },
+    {
+      "album": {
         "name": "Just the Way You Are",
         "url": "https://open.spotify.com/album/2XsNMs7FezfBjQJRPzL8uo"
       },
@@ -1280,6 +1302,24 @@
     },
     {
       "album": {
+        "name": "Umbrella",
+        "url": "https://open.spotify.com/album/7nhVqmRzva6w501zTLcZJn"
+      },
+      "artists": [
+        {
+          "name": "Slowzy",
+          "url": "https://open.spotify.com/artist/3DTvvf1uRWl4XzJdpsoERl"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108000,
+      "name": "Umbrella",
+      "url": "https://open.spotify.com/track/5cfUalgs5w98W14C4Lt0Xh"
+    },
+    {
+      "album": {
         "name": "Waterfalls",
         "url": "https://open.spotify.com/album/4PTqPayFlbjxXceUkXtTNj"
       },
@@ -1291,7 +1331,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 123428,
       "name": "Waterfalls",
       "url": "https://open.spotify.com/track/6bMbTTdcIYR6vwvkO6nkqc"

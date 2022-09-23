@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TnpT6vw5rE.md) - [plain]
 
 > Melt into the Atmospheric Calm with these mellow beats and ambient tones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 743,085 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 743,136 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,16 +13,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TnpT6vw5rE.md) - [plain]
 | 3 | [Intervention](https://open.spotify.com/track/5G0AX3BgFw0VuJLqREvDaj) | [Danoa](https://open.spotify.com/artist/2VD5PP13OpMEyul7NfnLa2) | [Intervention](https://open.spotify.com/album/4WOSUbDE6IvXOrzMryAY62) | 2:55 |
 | 4 | [Silent Motion](https://open.spotify.com/track/111mQkL4f8vfUzteOkrzWF) | [JOMALU](https://open.spotify.com/artist/1xa2WEiNM8U3bIwpDPWMLC) | [Weightless](https://open.spotify.com/album/0LvnWCo47EpGMGXwhE1zmd) | 2:59 |
 | 5 | [A Free Mind](https://open.spotify.com/track/2W3IFaBdj4QzU6NSR9mCQ1) | [Jupos](https://open.spotify.com/artist/2lXry9UbuyQKv0yDP4qSFB) | [A Free Mind](https://open.spotify.com/album/0PVEmsVmGT0MKASkABJbEe) | 3:30 |
-| 6 | [celestial sojourn](https://open.spotify.com/track/3tI1sd213SOODpv7bYRutx) | [AOI](https://open.spotify.com/artist/3GI4ib0hz1mAxLVdrQldsZ) | [phases of the moon](https://open.spotify.com/album/5zImrTFUWontzflxnybrH8) | 3:20 |
-| 7 | [Majakka](https://open.spotify.com/track/4k1XG6vGrACVptWElSDPAu) | [De Moi](https://open.spotify.com/artist/1DCmbXFQ1MufTW5IZG3etK) | [Majakka](https://open.spotify.com/album/0PAl9YN6LVhKEKlP0J56Sd) | 2:46 |
-| 8 | [Glow](https://open.spotify.com/track/4TzR5P1srEfWyUjGFSqYhC) | [Szymon Kowalczyk](https://open.spotify.com/artist/5mg190A9WO4TqbhL6GDer0) | [Footsteps](https://open.spotify.com/album/3CGtfAcfdbt1UT45FTl7X1) | 2:25 |
-| 9 | [Resonatic](https://open.spotify.com/track/4dBLdbunzf7DmpKpH4Yokj) | [Inverse Gradient](https://open.spotify.com/artist/3DMGcwt4nmTJ3vmCgyvtFl) | [Resonatic](https://open.spotify.com/album/5pzHBFtPkW4tutzOLn5mGy) | 2:40 |
-| 10 | [Tikslingas](https://open.spotify.com/track/2pMeoS1SZqigdBMxghMTbJ) | [Teo Walter](https://open.spotify.com/artist/6JZdERTqI6ikmDkKmY4BKR) | [Tikslingas](https://open.spotify.com/album/607nQKNmISVcmWP29QYBXm) | 3:31 |
+| 6 | [Majakka](https://open.spotify.com/track/4k1XG6vGrACVptWElSDPAu) | [De Moi](https://open.spotify.com/artist/1DCmbXFQ1MufTW5IZG3etK) | [Majakka](https://open.spotify.com/album/0PAl9YN6LVhKEKlP0J56Sd) | 2:46 |
+| 7 | [Glow](https://open.spotify.com/track/4TzR5P1srEfWyUjGFSqYhC) | [Szymon Kowalczyk](https://open.spotify.com/artist/5mg190A9WO4TqbhL6GDer0) | [Footsteps](https://open.spotify.com/album/3CGtfAcfdbt1UT45FTl7X1) | 2:25 |
+| 8 | [celestial sojourn](https://open.spotify.com/track/3tI1sd213SOODpv7bYRutx) | [AOI](https://open.spotify.com/artist/3GI4ib0hz1mAxLVdrQldsZ) | [phases of the moon](https://open.spotify.com/album/5zImrTFUWontzflxnybrH8) | 3:20 |
+| 9 | [Tikslingas](https://open.spotify.com/track/2pMeoS1SZqigdBMxghMTbJ) | [Teo Walter](https://open.spotify.com/artist/6JZdERTqI6ikmDkKmY4BKR) | [Tikslingas](https://open.spotify.com/album/607nQKNmISVcmWP29QYBXm) | 3:31 |
+| 10 | [Resonatic](https://open.spotify.com/track/4dBLdbunzf7DmpKpH4Yokj) | [Inverse Gradient](https://open.spotify.com/artist/3DMGcwt4nmTJ3vmCgyvtFl) | [Resonatic](https://open.spotify.com/album/5pzHBFtPkW4tutzOLn5mGy) | 2:40 |
 | 11 | [Bright Morning](https://open.spotify.com/track/7tXgHTkGacOBktzEMsqvbv) | [Eline Moss](https://open.spotify.com/artist/5oLYsGYb1G271Z6wtiYVpA) | [Bright Morning](https://open.spotify.com/album/0TaZGDp9e9UfjpmrmTKRNb) | 3:24 |
 | 12 | [Umbrian Affair](https://open.spotify.com/track/3uS7zZlLcY1PiJ4KmFmPXG) | [Lena Bickeby](https://open.spotify.com/artist/0lb8V1RudMLNNsRF7mENZW) | [Umbrian Affair](https://open.spotify.com/album/1VrzjRpK2EWydopDXjvcUW) | 2:45 |
 | 13 | [Ocelot](https://open.spotify.com/track/3n5bECT6qgStHMeip7brcr) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm) | [Seven Seas](https://open.spotify.com/album/7tFM2YfFPx3mNrwRes7LrC) | 4:36 |
-| 14 | [Waves are coming](https://open.spotify.com/track/4m6jCOTDZfNhKA7qUEpo98) | [Nicole Rosario](https://open.spotify.com/artist/56m6DbefNtX4faz0CTVjUY) | [Waves are coming](https://open.spotify.com/album/4YJTcfkvMihuIDh0oQAnuq) | 3:53 |
-| 15 | [A Mirror Appears](https://open.spotify.com/track/6ncThVkW6xywHK9FxZbcYD) | [Ramel Alloy](https://open.spotify.com/artist/6cpOQo8qfc2RKZRRvZ5Hkc) | [A Mirror Appears](https://open.spotify.com/album/0BXsVbsUex0bzk8NklyN7I) | 2:03 |
+| 14 | [A Mirror Appears](https://open.spotify.com/track/6ncThVkW6xywHK9FxZbcYD) | [Ramel Alloy](https://open.spotify.com/artist/6cpOQo8qfc2RKZRRvZ5Hkc) | [A Mirror Appears](https://open.spotify.com/album/0BXsVbsUex0bzk8NklyN7I) | 2:03 |
+| 15 | [Waves are coming](https://open.spotify.com/track/4m6jCOTDZfNhKA7qUEpo98) | [Nicole Rosario](https://open.spotify.com/artist/56m6DbefNtX4faz0CTVjUY) | [Waves are coming](https://open.spotify.com/album/4YJTcfkvMihuIDh0oQAnuq) | 3:53 |
 | 16 | [Sonno scintillante](https://open.spotify.com/track/5tmH0bmkkk5haZdbvWLzAk) | [Ombra Oscura](https://open.spotify.com/artist/4jjQhCdDZfvCkOVKsQXO4i) | [Sonno scintillante](https://open.spotify.com/album/2BRhy7AI0W4k4sUNjxhL4z) | 2:03 |
 | 17 | [Water Jewel](https://open.spotify.com/track/2GKxE4qFT0kUaYveDnFcVt) | [Crystal Fragments](https://open.spotify.com/artist/3crlQoae3kpZFKLtSCxrnM) | [Two Jewels](https://open.spotify.com/album/6uESTKXHQ490eo7x83I9bi) | 4:07 |
 | 18 | [distant star](https://open.spotify.com/track/6IlOnQUzJckb3KXqUXAbVt) | [nite sky](https://open.spotify.com/artist/6zoOpIO7PCBlRaOP10TdJc) | [calm waters & distant star](https://open.spotify.com/album/2KbMBAAeKkXMokJB1yyOZQ) | 2:38 |
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TnpT6vw5rE.md) - [plain]
 | 26 | [Futura Nova](https://open.spotify.com/track/0oEiyb6tSp2zXavLyUAAlF) | [Ministry of Ambience](https://open.spotify.com/artist/1RoGSkb1MexMKcChn74Vx9) | [Futura Nova](https://open.spotify.com/album/6z8wIJZvAw5DPhVQR6zrcT) | 2:34 |
 | 27 | [sapphire soul](https://open.spotify.com/track/6nCdkMcXgi5Dgb4sdwXq77) | [nite sky](https://open.spotify.com/artist/6zoOpIO7PCBlRaOP10TdJc) | [ivory comet & sapphire soul](https://open.spotify.com/album/0ktKJDZnePFCxsB7FNBUEx) | 2:47 |
 | 28 | [Pan Serenade](https://open.spotify.com/track/26hAV8CJvMK58Gdvve3vyx) | [X\-Genie](https://open.spotify.com/artist/7jpxxOSOJX0PCvKXAbQs2I) | [Pan Serenade](https://open.spotify.com/album/2YNQuawkFrWf9Fittz8cIq) | 3:34 |
-| 29 | [Magnificent](https://open.spotify.com/track/1ALMjj7yJFnVgnUV5494JQ) | [The Bay Man](https://open.spotify.com/artist/4XUwkDFoOHIN6YnWBxE5Om) | [Magnificent](https://open.spotify.com/album/5zl8JcdBS1PQfinEkgmQIS) | 2:53 |
-| 30 | [Depths of Eternity](https://open.spotify.com/track/1Ujn2n8YOeyXbUM4fAlN0A) | [William Roud](https://open.spotify.com/artist/0KhhuDNDaeL6SOVM6K6Lt1) | [Depths of Eternity](https://open.spotify.com/album/0Xau7RoFSvHQSlqSQoqCDQ) | 2:58 |
-| 31 | [A Spark, A Beginning](https://open.spotify.com/track/53Q8YAh03JoqrGQ5U9bZNx) | [Corre](https://open.spotify.com/artist/0IR5NctDCruRpAkUbkezi9) | [A Spark, A Beginning / Proceed](https://open.spotify.com/album/31Tn4wkibL8c8EULYjmbNA) | 2:25 |
+| 29 | [A Spark, A Beginning](https://open.spotify.com/track/53Q8YAh03JoqrGQ5U9bZNx) | [Corre](https://open.spotify.com/artist/0IR5NctDCruRpAkUbkezi9) | [A Spark, A Beginning / Proceed](https://open.spotify.com/album/31Tn4wkibL8c8EULYjmbNA) | 2:25 |
+| 30 | [Magnificent](https://open.spotify.com/track/1ALMjj7yJFnVgnUV5494JQ) | [The Bay Man](https://open.spotify.com/artist/4XUwkDFoOHIN6YnWBxE5Om) | [Magnificent](https://open.spotify.com/album/5zl8JcdBS1PQfinEkgmQIS) | 2:53 |
+| 31 | [Depths of Eternity](https://open.spotify.com/track/1Ujn2n8YOeyXbUM4fAlN0A) | [William Roud](https://open.spotify.com/artist/0KhhuDNDaeL6SOVM6K6Lt1) | [Depths of Eternity](https://open.spotify.com/album/0Xau7RoFSvHQSlqSQoqCDQ) | 2:58 |
 | 32 | [A Brief Walk in the Sea](https://open.spotify.com/track/1O3wMxzAagYQ336rdfH9bQ) | [Near The Parenthesis](https://open.spotify.com/artist/0w0n5GVOQZlszSi4WN1Got) | [L'Eixample](https://open.spotify.com/album/6lBcFKiDVRp6rMWC5Po809) | 7:04 |
 | 33 | [Incomplete](https://open.spotify.com/track/0phFdr3EQVRPcTUmAZD1k6) | [Rizzolo](https://open.spotify.com/artist/5b9r8wJcTcjRrOECClHYkO) | [Incomplete](https://open.spotify.com/album/2h1tEWwXqg9Cvee9jX8VZM) | 3:14 |
 | 34 | [Blank Pages](https://open.spotify.com/track/5zLE545sY8nt7FCJ0LGyaB) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE) | [A Chorus of Storytellers](https://open.spotify.com/album/6Za8Vrxs3hH4ZJyIRuRDmP) | 4:28 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TnpT6vw5rE.md) - [plain]
 | 47 | [Dunes](https://open.spotify.com/track/0XY3HwzcxaP1cM1lWR61bE) | [Dust Merchant](https://open.spotify.com/artist/4fbbE6iUtkyYBXQpYuuyqn) | [Ethereal Dream](https://open.spotify.com/album/3zt0kYKy8vVLE9Px2ZpEOn) | 2:16 |
 | 48 | [Song For No One](https://open.spotify.com/track/7d0F63Ynv9ZvPQlJPVZOql) | [Lowercase Noises](https://open.spotify.com/artist/7trvyUUXmPhi1StCNYHj4e) | [Migratory Patterns](https://open.spotify.com/album/68uVvxhvuWHu5juoBT6jMh) | 5:01 |
 | 49 | [Another Day \(revised\)](https://open.spotify.com/track/6Xr3Ii4HyMcatwsQgq1iOD) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE) | [In a Safe Place](https://open.spotify.com/album/1sZjWlyc9yL13U5q1nTQ8a) | 4:21 |
-| 50 | [Lätt](https://open.spotify.com/track/22uuXDOeqbH5auwVCX0yL3) | [Soulgarden](https://open.spotify.com/artist/4D1RsYNSjyxvaKtj5qIdps) | [Lätt](https://open.spotify.com/album/6x0JCRqBVdm68Mt7dAk1cf) | 2:10 |
-| 51 | [Proceed](https://open.spotify.com/track/7gNYToImB0Q4QLjptXOT5J) | [Corre](https://open.spotify.com/artist/0IR5NctDCruRpAkUbkezi9) | [A Spark, A Beginning / Proceed](https://open.spotify.com/album/31Tn4wkibL8c8EULYjmbNA) | 4:15 |
+| 50 | [Proceed](https://open.spotify.com/track/7gNYToImB0Q4QLjptXOT5J) | [Corre](https://open.spotify.com/artist/0IR5NctDCruRpAkUbkezi9) | [A Spark, A Beginning / Proceed](https://open.spotify.com/album/31Tn4wkibL8c8EULYjmbNA) | 4:15 |
+| 51 | [Lätt](https://open.spotify.com/track/22uuXDOeqbH5auwVCX0yL3) | [Soulgarden](https://open.spotify.com/artist/4D1RsYNSjyxvaKtj5qIdps) | [Lätt](https://open.spotify.com/album/6x0JCRqBVdm68Mt7dAk1cf) | 2:10 |
 | 52 | [Secrets](https://open.spotify.com/track/4vKfeLftDJXcbaZyA6ftvZ) | [Astron](https://open.spotify.com/artist/6qiuwoB9ro3SX0ZjSXnr0y) | [Sound Therapy Ambient Compilation, Vol\. 1](https://open.spotify.com/album/1mH2d032QQlX3GLb14qdwA) | 2:55 |
 | 53 | [Nest](https://open.spotify.com/track/5GaRRamkVUErMUVVnNoQRF) | [Justin Nozuka](https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t) | [Ulysees](https://open.spotify.com/album/0ChlHHVziwSh8UbBMEeiH5) | 1:35 |
 | 54 | [Dreamt](https://open.spotify.com/track/5oseLW3JhRqLLyTmqmyghU) | [Balmorhea](https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9) | [Clear Language](https://open.spotify.com/album/5z1mF6xLNvsKp132hNxqZ3) | 3:59 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TnpT6vw5rE.md) - [plain]
 | 68 | [Summarizing Sunrises](https://open.spotify.com/track/4RPxFFNwl0awElXJIRnxSQ) | [Don Salfva](https://open.spotify.com/artist/1Qoope6yvhZ1qDZoEGMUdW) | [Summarizing Sunrises](https://open.spotify.com/album/4ZEaUN5EcjTzJBHS2eBNjm) | 3:49 |
 | 69 | [Glaciers](https://open.spotify.com/track/5h2bCmH2gc7Zf6AFLpAaoD) | [Night Sounds](https://open.spotify.com/artist/23t9fvBqS4kZ6aBANPfsb5) | [Glaciers](https://open.spotify.com/album/5DAdHl1zMFWuxnpF72sqP7) | 3:04 |
 | 70 | [Ancestral Twilight](https://open.spotify.com/track/6jNXaXr3gZejkWlsjVBERQ) | [RE:LX](https://open.spotify.com/artist/58iF9cZ4AQvPmZgkhTa92u) | [Thai Sunrise](https://open.spotify.com/album/24Wo6aRCb7BSdNQ2cZfB12) | 3:16 |
-| 71 | [Shorelines](https://open.spotify.com/track/0cVi3D1VYxux7GlRH8nqKf) | [Lucy Vincent](https://open.spotify.com/artist/3aZqkX0ePw0fBoERFYCD6Z) | [Shorelines](https://open.spotify.com/album/5vx5kFb4rwXMzWrCW2Cra0) | 3:16 |
-| 72 | [Sea of Light](https://open.spotify.com/track/5HvS3GWbrI2hzzOGqe52UG) | [Allycia Xavier](https://open.spotify.com/artist/7aO1K3P9ygDQ1k5IJrVHng) | [Sea of Light](https://open.spotify.com/album/6uMyKqYwvpqLFcRH8ueAuj) | 2:50 |
+| 71 | [Sea of Light](https://open.spotify.com/track/5HvS3GWbrI2hzzOGqe52UG) | [Allycia Xavier](https://open.spotify.com/artist/7aO1K3P9ygDQ1k5IJrVHng) | [Sea of Light](https://open.spotify.com/album/6uMyKqYwvpqLFcRH8ueAuj) | 2:50 |
+| 72 | [Shorelines](https://open.spotify.com/track/0cVi3D1VYxux7GlRH8nqKf) | [Lucy Vincent](https://open.spotify.com/artist/3aZqkX0ePw0fBoERFYCD6Z) | [Shorelines](https://open.spotify.com/album/5vx5kFb4rwXMzWrCW2Cra0) | 3:16 |
 | 73 | [Reveries](https://open.spotify.com/track/2Vjjo1WB2m1YBYyJqrcA9u) | [Dream City](https://open.spotify.com/artist/0xKWlgGQrGhZgWxhbQlBSE) | [Somnolent Summer](https://open.spotify.com/album/7lvhfPxqTsvbM5ZFKPinq2) | 2:02 |
 | 74 | [Back to the Start](https://open.spotify.com/track/4Pdnt4VOAv26b1ILvtAoRj) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE) | [Between Waves \(Deluxe Version\)](https://open.spotify.com/album/3u63zDEJeJaxwSixfMCGRD) | 4:47 |
 | 75 | [Response](https://open.spotify.com/track/0RxznT4d9yj4Uc70jYC95k) | [Corre](https://open.spotify.com/artist/0IR5NctDCruRpAkUbkezi9) | [Response](https://open.spotify.com/album/7jA8d1DuXyHGtN7uWsnFxl) | 3:09 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TnpT6vw5rE.md) - [plain]
 | 99 | [The First Surface](https://open.spotify.com/track/0ZvqgR8luDK3T5fZxkImGF) | [Near The Parenthesis](https://open.spotify.com/artist/0w0n5GVOQZlszSi4WN1Got) | [Japanese for Beginners](https://open.spotify.com/album/4mZmSV8geRn4gpbdxrTfwV) | 5:36 |
 | 100 | [Lotus Blume](https://open.spotify.com/track/2XGO8m5DqJVMF80D4SxiXE) | [Altered Source](https://open.spotify.com/artist/2iRhuolbUq4A4UP0Pz9SVI) | [Lotus Blume](https://open.spotify.com/album/4ZTUFGj3sOMUG2Feb4MIcy) | 3:12 |
 
-Snapshot ID: `MTY2MzA3MzYwNywwMDAwMDAwMDA1Yjg0MTJkOGQxYjZlYWIxNTlhMzQxYjA1ZWYzMTgx`
+Snapshot ID: `MTY2MzA3MzYwNywwMDAwMDAwMGFhMDJmMDcxODU1MmM1YjY0MWRkMzZkYmU3MjkwNWM1`

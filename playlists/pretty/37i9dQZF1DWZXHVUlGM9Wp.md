@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZXHVUlGM9Wp.md) - [plain]
 
 > Keep on skating to the groovy boogie
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,922 likes - 75 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 235,106 likes - 75 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZXHVUlGM9Wp.md) - [plain]
 | 38 | [Check Out](https://open.spotify.com/track/2n6qz4opcJlHsEpI8030YM) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj), [Leo Stannard](https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0) | [Check Out](https://open.spotify.com/album/1i9flcfwW08i5ynf4YZHsb) | 2:54 |
 | 39 | [Groove Is in the Heart](https://open.spotify.com/track/2He3NOyqtLNE3RQPpeDdSb) | [Deee\-Lite](https://open.spotify.com/artist/4eQJIXFEujzhTVVS1gIfu5) | [World Clique](https://open.spotify.com/album/4sTAgYLZy5zwqR3kT1g0oh) | 3:51 |
 | 40 | [Feel so Good](https://open.spotify.com/track/7hfRrdFJgFKK3cJ4rmkecE) | [Mase](https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6) | [Harlem World](https://open.spotify.com/album/21YtqAiqXNGuvWNBS0JvOy) | 3:23 |
-| 41 | [Free Yourself](https://open.spotify.com/track/1BXAyGazbybUVNQ0VmGsdl) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Free Yourself](https://open.spotify.com/album/4uslfFMaS0bfVnuM7MuQ7K) | 3:54 |
-| 42 | [Your Teeth In My Neck](https://open.spotify.com/track/54IbnYEdA3ymfxv07WgN3b) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Isolation](https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY) | 3:06 |
+| 41 | [Your Teeth In My Neck](https://open.spotify.com/track/54IbnYEdA3ymfxv07WgN3b) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Isolation](https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY) | 3:06 |
+| 42 | [Free Yourself](https://open.spotify.com/track/1BXAyGazbybUVNQ0VmGsdl) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Free Yourself](https://open.spotify.com/album/4uslfFMaS0bfVnuM7MuQ7K) | 3:54 |
 | 43 | [Overnight](https://open.spotify.com/track/0hhXziDUO0wNYPsstDQWN6) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Overnight](https://open.spotify.com/album/0cIynhird3mHUUs71R7zsj) | 3:39 |
 | 44 | [Give It To Me Baby](https://open.spotify.com/track/13v3siPyvy5TTEZYmGPPse) | [Rick James](https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL) | [Street Songs \(Deluxe Edition\)](https://open.spotify.com/album/2DBFUBBqJQvfXpodPi2WP5) | 4:08 |
 | 45 | [All Night \(feat\. Knox Fortune\)](https://open.spotify.com/track/60xaS8mYBKUW4VQQ666N0T) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Knox Fortune](https://open.spotify.com/artist/49O0SPoCoTiK2Nn2tOaHyU) | [Coloring Book](https://open.spotify.com/album/71QyofYesSsRMwFOTafnhB) | 2:21 |
@@ -62,10 +62,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZXHVUlGM9Wp.md) - [plain]
 | 52 | [My Boo \- Hitman's Club Mix](https://open.spotify.com/track/4c0rkFPszqQTyC753tsCMU) | [Ghost Town DJs](https://open.spotify.com/artist/4JbmXqez7WvTggoxn3UpVT) | [My Boo \(Hitman's Club Mix\)](https://open.spotify.com/album/5EvpbZ6QczJlnMX3kbxKYi) | 5:46 |
 | 53 | [Love Rollercoaster](https://open.spotify.com/track/1hRDHWWealh2Pk3fnpIe75) | [Ohio Players](https://open.spotify.com/artist/6m30rs1IQqnWqV5nKMpU7U) | [Honey](https://open.spotify.com/album/6cdbsUYFysGXOh5fqWpIuR) | 4:50 |
 | 54 | [Night Fever \- From "Saturday Night Fever" Soundtrack](https://open.spotify.com/track/5KgbyD2lQQlIupAaPjgiXg) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Greatest](https://open.spotify.com/album/5YHZaCxCuuK81h4Fimb9rT) | 3:32 |
-| 55 | [Get Down Saturday Night](https://open.spotify.com/track/0awG4a7t5UrmZZ4PZVNav3) | [Oliver Cheatham](https://open.spotify.com/artist/25MNkA39C5jjxApUl812ic) | [Disco Essentials](https://open.spotify.com/album/5aVya3XGTKxxuOA4LT5Ayz) | 4:01 |
-| 56 | [Streets \- Disclosure Remix](https://open.spotify.com/track/4k6Emp6KJ4GNRyf6wUKODl) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Streets \(Disclosure Remix\)](https://open.spotify.com/album/6NQXnBKeDrpQGWPQsgIiwA) | 4:14 |
-| 57 | [Free \- Mood II Swing Radio Edit](https://open.spotify.com/track/0dc6CJ6BsiKxyPvW4yABLo) | [Ultra Naté](https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN) | [Free](https://open.spotify.com/album/6TpwXfNBW8BSwCAuBDjJSN) | 3:53 |
-| 58 | [Virtual Insanity \- Remastered](https://open.spotify.com/track/2hNaljpWGHzwcIvkPIHMk7) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [High Times: Singles 1992\-2006](https://open.spotify.com/album/3gm6ZS73n5yGZvWfq7CoLX) | 3:49 |
+| 55 | [Virtual Insanity \- Remastered](https://open.spotify.com/track/2hNaljpWGHzwcIvkPIHMk7) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [High Times: Singles 1992\-2006](https://open.spotify.com/album/3gm6ZS73n5yGZvWfq7CoLX) | 3:49 |
+| 56 | [Get Down Saturday Night](https://open.spotify.com/track/0awG4a7t5UrmZZ4PZVNav3) | [Oliver Cheatham](https://open.spotify.com/artist/25MNkA39C5jjxApUl812ic) | [Disco Essentials](https://open.spotify.com/album/5aVya3XGTKxxuOA4LT5Ayz) | 4:01 |
+| 57 | [Streets \- Disclosure Remix](https://open.spotify.com/track/4k6Emp6KJ4GNRyf6wUKODl) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Streets \(Disclosure Remix\)](https://open.spotify.com/album/6NQXnBKeDrpQGWPQsgIiwA) | 4:14 |
+| 58 | [Free \- Mood II Swing Radio Edit](https://open.spotify.com/track/0dc6CJ6BsiKxyPvW4yABLo) | [Ultra Naté](https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN) | [Free](https://open.spotify.com/album/6TpwXfNBW8BSwCAuBDjJSN) | 3:53 |
 | 59 | [Flash Light](https://open.spotify.com/track/1v1PV2wERHiMPesMWX0qmO) | [Parliament](https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH) | [Funkentelechy Vs\. The Placebo Syndrome](https://open.spotify.com/album/7Kv0H0XMdIyRs41a6USzrd) | 5:46 |
 | 60 | [Experience](https://open.spotify.com/track/2oap3QptGISyIvwKpnJJId) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [JAGUAR](https://open.spotify.com/album/6aW67R0sshdUwtbJEG2uQR) | 2:56 |
 | 61 | [Every 1's a Winner \- Single Version](https://open.spotify.com/track/5MXXbGYNmRHR7ULMvZYo5R) | [Hot Chocolate](https://open.spotify.com/artist/72VzFto8DYvKHocaHYNWSi) | [Every 1's a Winner](https://open.spotify.com/album/2MdCe2CS9EcdJ9V20TKzxo) | 4:49 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZXHVUlGM9Wp.md) - [plain]
 | 70 | [Never Can Say Goodbye \- Single Version](https://open.spotify.com/track/3b9Cpi8jW9jNoyx72QbfRO) | [Gloria Gaynor](https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5) | [Never Can Say Goodbye \(Deluxe Edition\)](https://open.spotify.com/album/2Cye7gVcEraUhXVnLEYh5u) | 2:59 |
 | 71 | [Love Come Down](https://open.spotify.com/track/17EVu5b0l5uo2gErSfqEt1) | [Evelyn "Champagne" King](https://open.spotify.com/artist/4JCt4xrbbBB9blkKwNlcJ7) | [Get Loose](https://open.spotify.com/album/67OkPxOp2elK66KdSwIyse) | 6:05 |
 | 72 | [Oh Sheit it's X](https://open.spotify.com/track/6EidGY4S6hkU6fwNdSSabg) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Apocalypse](https://open.spotify.com/album/2qqVy8a4qk9FCt00hal9vl) | 3:47 |
-| 73 | [Yes Sir, I Can Boogie](https://open.spotify.com/track/76709jfVPvKWp7ChPQjCk7) | [Baccara](https://open.spotify.com/artist/4dn4KQgTE4P3jrwa3iIVzQ) | [More Monty](https://open.spotify.com/album/4p1GnIVsPGw6p7Gpc8W2Hh) | 4:32 |
-| 74 | [Kiss It Better \- KAYTRANADA Edition](https://open.spotify.com/track/62tnsScYuep18LnQiQqHmX) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Kiss It Better \(Dance Remix\)](https://open.spotify.com/album/0S5abZEIJQhjcKcyFvHhp4) | 5:25 |
+| 73 | [Kiss It Better \- KAYTRANADA Edition](https://open.spotify.com/track/62tnsScYuep18LnQiQqHmX) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Kiss It Better \(Dance Remix\)](https://open.spotify.com/album/0S5abZEIJQhjcKcyFvHhp4) | 5:25 |
+| 74 | [Yes Sir, I Can Boogie](https://open.spotify.com/track/76709jfVPvKWp7ChPQjCk7) | [Baccara](https://open.spotify.com/artist/4dn4KQgTE4P3jrwa3iIVzQ) | [More Monty](https://open.spotify.com/album/4p1GnIVsPGw6p7Gpc8W2Hh) | 4:32 |
 | 75 | [EASE YOUR MIND](https://open.spotify.com/track/7IRyfeJIBmi08GYgEZwWMM) | [Darius](https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK), [Devin Tracy](https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT) | [OASIS](https://open.spotify.com/album/6e74y0B8zXO3CEtVVFihd8) | 3:57 |
 
-Snapshot ID: `MTY2MDIzODIwNiwwMDAwMDAwMGM3ZjBmMzI4NTY1NDEyY2MyOWFlYzlmOTgwOTk0ZjBh`
+Snapshot ID: `MTY2MDIzODIwNiwwMDAwMDAwMGFhYmEyMjEyZDc4OGEyOTVhMWRjMTZiYjJmZDgyYzZk`
